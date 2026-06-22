@@ -78,7 +78,7 @@ interfaces make every agent independently testable.
 design-ax-brief/
   pipeline/
     sources.json          # seed source/domain list + category taxonomy (static config)
-    state.json            # { current_news_date }  — date stamp of the live AX_NEWS
+    # (live date is news_data.json.today.date — no separate state.json)
     keywords.json         # planner output
     candidates.json       # librarian output
     selected.json         # curator output (5 picks)
@@ -139,14 +139,19 @@ design-ax-brief/
 
 ### Rolling logic (발행)
 
-1. Read `pipeline/state.json` → `current_news_date` (date of the live `AX_NEWS`).
-2. Convert the current `AX_NEWS` (yesterday's 5) into mini-cards
-   `{tool, headline, source, url, accent}` and prepend as the newest `AX_DAYS`
-   entry dated `current_news_date`.
-3. Trim `AX_DAYS` to the 5 newest entries.
-4. Set `AX_NEWS` = today's new 5 (full cards incl. media).
-5. Update `state.json.current_news_date` = today.
-6. Back up the prior `axbrief-data.js` to `runs/YYYY-MM-DD/` before overwrite.
+Implemented in `pipeline/roll.py` against `pipeline/news_data.json` (which is the
+single source of truth — there is no separate `state.json`; the live date lives in
+`news_data.json.today.date`).
+
+1. Read `news_data.json.today.date` (date of the live `AX_NEWS`).
+2. Convert the current `today.cards` (yesterday's 5) into mini-cards
+   `{tool, headline, source, url, accent}` (deck headline = `mini_headline` else the
+   `\n`-stripped headline) and append as the newest `days` entry dated `today.date`,
+   deduping any existing entry with that date (re-runs are idempotent).
+3. Trim `days` to the 5 newest entries.
+4. Set `today` = the new cards (full, with image merged from media; `mini_headline` dropped).
+5. Back up the prior `axbrief-data.js` to `runs/YYYY-MM-DD/` before overwrite, then
+   regenerate `axbrief-data.js` from `news_data.json` via `build_data.py`.
 
 ### Required design-code change
 
