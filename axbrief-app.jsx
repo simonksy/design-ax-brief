@@ -140,6 +140,17 @@ function ThemeBackdrop({ t }) {
 function MediaScene({ item, active, bold }) {
   const a = item.accent;
   const cls = 'ax-scene' + (active ? ' ax-active' : '');
+  if (item.image) {
+    return (
+      <div className={cls} style={{ background: '#efe9e1' }}>
+        <img src={item.image} alt="" loading="lazy"
+          style={{ position: 'absolute', inset: 0, width: '100%', height: '100%',
+                   objectFit: 'cover', display: 'block' }}
+          onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+        <div className="ax-grain" style={{ opacity: bold ? 0.06 : 0.08 }} />
+      </div>
+    );
+  }
   const op = bold ? [0.86, 0.72, 0.62] : [0.72, 0.58, 0.5];
   return (
     <div className={cls} style={{ background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)', filter: bold ? 'saturate(1.5)' : 'none' }}>
