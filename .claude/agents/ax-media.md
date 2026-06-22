@@ -11,7 +11,8 @@ Ensure `pipeline/media/` exists: `mkdir -p pipeline/media`.
 
 For each card (matched by `id` / order):
 1. If the item has an `og_image` URL, download it:
-   `curl -sL -o pipeline/media/<id>.<ext> "<og_image>"`.
+   `curl -fsSL -o pipeline/media/<id>.<ext> "<og_image>"` (`-f` so an HTTP
+   error leaves no junk file; treat a non-zero curl exit as "no image").
 2. Quality-check with sips: `sips -g pixelWidth -g pixelHeight pipeline/media/<id>.<ext>`.
    Accept if width ≥ 600 AND height ≥ 315 (decent card image). Otherwise discard.
 3. If accepted → record `{"id":<id>,"type":"image","src":"pipeline/media/<id>.<ext>"}`.
