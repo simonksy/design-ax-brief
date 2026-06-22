@@ -1,0 +1,49 @@
+{
+  "today": {
+    "date": "2026-06-21",
+    "cards": [
+      {"id":"figma","tool":"Figma","eyebrow":"AI NEWS","headline":"웹페이지 캡처가\n피그마 레이어로","body":"스크린샷을 붙여넣으면 곧바로 수정 가능한 디자인이 됩니다. 시안 첫 단추를 몇 분이면.","source":"Figma","url":"https://www.figma.com/resource-library/ai-tools-for-ux-designers/","accent":"#0070f3","motif":"frame"},
+      {"id":"keyshot","tool":"KeyShot","eyebrow":"AI NEWS","headline":"밤새던 렌더를\n분 단위로","body":"고화질 렌더를 기다릴 필요가 없어요. AI가 몇 분 만에, 그 자리에서 고쳐줍니다.","source":"CG Channel","url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623","motif":"sphere"},
+      {"id":"cad","tool":"Text-to-CAD","eyebrow":"AI NEWS","headline":"말로 그리는\n컨셉 3D 형상","body":"글로 설명하면 3D 형상이 나옵니다. 도면까지 대부분 자동으로 그려져요.","source":"Engineering.com","url":"https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026","accent":"#7928ca","motif":"cube"},
+      {"id":"tokens","tool":"Design Tokens","eyebrow":"AI NEWS","headline":"OneUI 일관성,\nAI가 지켜본다","body":"색·폰트 규칙을 한 곳에 모으면, 어긋난 화면을 AI가 알아서 찾아줍니다.","source":"ParallelHQ","url":"https://www.parallelhq.com/blog/automating-design-systems-with-ai","accent":"#50e3c2","motif":"swatch"},
+      {"id":"vr","tool":"VR Prototype","eyebrow":"AI NEWS","headline":"물리 목업 없이\n가상으로 결정","body":"실물 목업 없이 VR로 보고 결정합니다. 비용은 절반 이하로 줄어요.","source":"SGW Designworks","url":"https://www.sgwdesignworks.com/blog/virtual-reality-prototyping","accent":"#eb367f","motif":"headset"}
+    ]
+  },
+  "days": [
+    { "date": "2026-06-17", "cards": [
+      {"tool":"Figma",        "headline":"AI 에이전트, 캔버스에서 직접 디자인",    "source":"Dev.to",      "url":"https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin","accent":"#3b6bff"},
+      {"tool":"CMF",          "headline":"CMF 탐색, AI 렌더로 실시간 비교",        "source":"KeyShot",     "url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623"},
+      {"tool":"몰입형",       "headline":"몰입형 기술로 프로토타이핑",            "source":"Boston Eng.", "url":"https://blog.boston-engineering.com/explore-immersive-technologies-in-product-development-and-prototyping","accent":"#eb367f"},
+      {"tool":"원칙",         "headline":"people-first 디자인 협업론",            "source":"Fast Company","url":"https://www.fastcompany.com/91528033/samsung-shares-its-thesis-on-the-future-of-design-and-ai","accent":"#171717"},
+      {"tool":"Tokens",       "headline":"토큰 시스템, AI 에이전트가 관리",        "source":"MindStudio",  "url":"https://www.mindstudio.ai/blog/design-token-system-ai-agents-brand-visuals","accent":"#2ec5c5"}
+    ] },
+    { "date": "2026-06-18", "cards": [
+      {"tool":"Design Tokens","headline":"OneUI 일관성, AI가 지켜본다",           "source":"ParallelHQ",  "url":"https://www.parallelhq.com/blog/automating-design-systems-with-ai","accent":"#2ec5c5"},
+      {"tool":"Figma",        "headline":"AI 한계 — 일관성은 사람 몫",            "source":"LogRocket",   "url":"https://blog.logrocket.com/ux-design/figma-ai-2026-quick-overview/","accent":"#3b6bff"},
+      {"tool":"KeyShot",      "headline":"밤샘 렌더가 분 단위 작업으로",          "source":"CG Channel",  "url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623"},
+      {"tool":"CAD",          "headline":"말로 그리는 컨셉 3D 형상",              "source":"Leo AI",      "url":"https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026","accent":"#7928ca"},
+      {"tool":"VR",           "headline":"가상 프로토타입으로 의사결정",          "source":"SGW",         "url":"https://www.sgwdesignworks.com/blog/virtual-reality-prototyping","accent":"#eb367f"}
+    ] },
+    { "date": "2026-06-19", "cards": [
+      {"tool":"Text-to-CAD",  "headline":"말로 설명하면 3D 형상이 나온다",        "source":"Engineering", "url":"https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026","accent":"#7928ca"},
+      {"tool":"Figma",        "headline":"스크린샷이 곧 수정 가능한 레이어",       "source":"Figma",       "url":"https://www.figma.com/resource-library/ai-tools-for-ux-designers/","accent":"#3b6bff"},
+      {"tool":"코드",         "headline":"제품팀 65%+ AI 코드 생성",              "source":"Figma",       "url":"https://www.figma.com/resource-library/design-statistics/","accent":"#ff5a4d"},
+      {"tool":"리서치",       "headline":"리서치 합성·인사이트 자동화",           "source":"Orq.ai",      "url":"https://orq.ai/blog/ai-workflow-automation","accent":"#2ec5c5"},
+      {"tool":"UX Pilot",     "headline":"프롬프트 한 줄로 화면 초안",            "source":"Eleken",      "url":"https://www.eleken.co/blog-posts/ux-ai-tools","accent":"#eb367f"}
+    ] },
+    { "date": "2026-06-20", "cards": [
+      {"tool":"KeyShot",      "headline":"밤새던 렌더를 분 단위로",               "source":"CG Channel",  "url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623"},
+      {"tool":"핸드오프",     "headline":"디자인↔코드 동기화 자동화",             "source":"Palettt",     "url":"https://palettt.com/blog/figmas-march-2026-update-how-ai-agents-are-redefining-design-to-dev-handoff","accent":"#ff5a4d"},
+      {"tool":"DesignAX",     "headline":"삼성, 생성형 AI 전면 도입",             "source":"CIO",         "url":"https://www.cio.com/article/4184660/samsung-which-previously-blocked-chatgpt-is-now-fully-adopting-three-generative-ai-models-and-accelerating-its-ax-initiative.html","accent":"#171717"},
+      {"tool":"VR",           "headline":"VR 목업 비용 40~65% 절감",              "source":"SGW",         "url":"https://www.sgwdesignworks.com/blog/virtual-reality-prototyping","accent":"#eb367f"},
+      {"tool":"Tokens",       "headline":"브랜드 비주얼을 토큰으로 통제",          "source":"MindStudio",  "url":"https://www.mindstudio.ai/blog/design-token-system-ai-agents-brand-visuals","accent":"#2ec5c5"}
+    ] },
+    { "date": "2026-06-21", "cards": [
+      {"tool":"Figma",        "headline":"웹페이지 캡처가 피그마 레이어로",        "source":"Figma",       "url":"https://www.figma.com/resource-library/ai-tools-for-ux-designers/","accent":"#3b6bff"},
+      {"tool":"Text-to-CAD",  "headline":"말로 그리는 컨셉 3D 형상",              "source":"Engineering", "url":"https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026","accent":"#7928ca"},
+      {"tool":"Design Tokens","headline":"OneUI 일관성, AI가 지켜본다",           "source":"ParallelHQ",  "url":"https://www.parallelhq.com/blog/automating-design-systems-with-ai","accent":"#2ec5c5"},
+      {"tool":"VR Prototype", "headline":"물리 목업 없이 가상으로 결정",          "source":"SGW",         "url":"https://www.sgwdesignworks.com/blog/virtual-reality-prototyping","accent":"#eb367f"},
+      {"tool":"KeyShot",      "headline":"밤새던 렌더를 분 단위로",               "source":"CG Channel",  "url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623"}
+    ] }
+  ]
+}
