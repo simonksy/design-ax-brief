@@ -126,6 +126,10 @@ Read `axbrief-data.js`. Build `news_data.json` so that:
 - `today` = `{ "date":"2026-06-21", "cards": <the 5 window.AX_NEWS objects verbatim> }`
 - `days` = `window.AX_DAYS` verbatim (the 5 dated entries, oldest→newest).
 
+The hero (`AX_NEWS`) and the last `AX_DAYS` entry (2026-06-21) overlap in the
+current file — that's fine. `roll.py` dedups by date, so the first pipeline run
+replaces the seeded 2026-06-21 deck entry rather than duplicating it.
+
 Port the objects exactly (every field, every accent). This file must contain the real current content, not a placeholder. Example of the `today` shape (first card filled; port the other 4 the same way):
 
 ```json
@@ -357,16 +361,41 @@ subprocess.run(["python3", os.path.abspath("roll.py"),
   "--data", f"{d}/news_data.json", "--cards", f"{d}/cards.json", "--media", f"{d}/media.json"], check=True)
 res = json.load(open(f"{d}/news_data.json", encoding="utf-8"))
 
-# new today is the figma card, with image merged in
+# new today is the figma card, with image merged in; mini_headline dropped from hero
 assert res["today"]["date"] == "2026-06-22"
 assert res["today"]["cards"][0]["image"] == "pipeline/media/figma.jpg"
+assert "mini_headline" not in res["today"]["cards"][0]
 # previous today became newest day, as mini-cards (5 fields only)
 assert res["days"][-1]["date"] == "2026-06-21"
 mini = res["days"][-1]["cards"][0]
 assert set(mini.keys()) == {"tool","headline","source","url","accent"}
+# prev card had no mini_headline and a \n in its headline -> deck uses single line
 assert mini["headline"] == "옛 헤드라인"
 # days trimmed to 5
 assert len(res["days"]) == 5
+
+# --- deck headline source: mini_headline preferred, else \n stripped from headline ---
+d2 = tempfile.mkdtemp()
+nd2 = {"today":{"date":"2026-06-22","cards":[
+        {"id":"x","tool":"X","eyebrow":"AI NEWS","headline":"두 줄\n헤드라인","mini_headline":"짧은 미니","body":"b","source":"S","url":"https://x","accent":"#000000","motif":"frame"}]},
+       "days":[]}
+json.dump(nd2, open(f"{d2}/news_data.json","w"), ensure_ascii=False)
+nc = {"date":"2026-06-23","cards":[{"id":"y","tool":"Y","headline":"오늘\n둘","body":"b","source":"S","url":"https://y","accent":"#111111","motif":"frame"}]}
+json.dump(nc, open(f"{d2}/cards.json","w"), ensure_ascii=False)
+json.dump({"date":"2026-06-23","media":[]}, open(f"{d2}/media.json","w"), ensure_ascii=False)
+subprocess.run(["python3", os.path.abspath("roll.py"),
+  "--data", f"{d2}/news_data.json", "--cards", f"{d2}/cards.json", "--media", f"{d2}/media.json"], check=True)
+r2 = json.load(open(f"{d2}/news_data.json", encoding="utf-8"))
+assert r2["days"][-1]["cards"][0]["headline"] == "짧은 미니"   # mini_headline wins
+
+# --- dedup by date: rolling the same date twice does not duplicate the day ---
+nc2 = {"date":"2026-06-23","cards":[{"id":"z","tool":"Z","mini_headline":"재실행","headline":"h","body":"b","source":"S","url":"https://z","accent":"#222222","motif":"frame"}]}
+json.dump(nc2, open(f"{d2}/cards2.json","w"), ensure_ascii=False)
+subprocess.run(["python3", os.path.abspath("roll.py"),
+  "--data", f"{d2}/news_data.json", "--cards", f"{d2}/cards2.json", "--media", f"{d2}/media.json"], check=True)
+r3 = json.load(open(f"{d2}/news_data.json", encoding="utf-8"))
+dates = [d["date"] for d in r3["days"]]
+assert dates.count("2026-06-23") == 1, dates   # 06-23 appears once, not twice
 print("roll OK")
 ```
 
@@ -384,14 +413,21 @@ import argparse, json
 MINI = ("tool","headline","source","url","accent")
 
 def mini_card(c):
-    return {k: c.get(k, "") for k in MINI}
+    # deck mini-cards are single-line: prefer the writer's mini_headline,
+    # else strip the hero headline's \n wrap.
+    head = c.get("mini_headline") or c.get("headline", "").replace("\n", " ")
+    d = {k: c.get(k, "") for k in MINI}
+    d["headline"] = head
+    return d
 
 def roll(data, cards, media):
     media_by_id = {m["id"]: m for m in media.get("media", [])}
     prev = data.get("today")
     if prev and prev.get("cards"):
-        data.setdefault("days", []).append(
-            {"date": prev["date"], "cards": [mini_card(c) for c in prev["cards"]]})
+        date = prev["date"]
+        days = data.setdefault("days", [])
+        days[:] = [d for d in days if d.get("date") != date]  # dedup: re-runs idempotent
+        days.append({"date": date, "cards": [mini_card(c) for c in prev["cards"]]})
     data["days"] = data.get("days", [])[-5:]
     new_cards = []
     for c in cards["cards"]:
@@ -420,7 +456,10 @@ if __name__ == "__main__":
     main()
 ```
 
-Note on `mini_headline`: when a card rolls into the deck on the *next* day, the deck shows `headline`. If you prefer the shorter `mini_headline` in the deck, change `mini_card` to prefer it; current design uses the full headline, so we keep `headline`.
+Note on `mini_headline`: the hero `headline` carries a `\n` two-line wrap, but the
+weekly deck mini-cards are single-line. So `mini_card` uses `mini_headline` when the
+writer provided one, otherwise strips the `\n` from `headline`. `mini_headline` is
+dropped from the hero card itself (it only matters once the card rolls into the deck).
 
 - [ ] **Step 4: Run to verify it passes**
 
