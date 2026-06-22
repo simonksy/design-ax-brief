@@ -1,0 +1,124 @@
+/* ============================================================
+   TYPOGRAPHY — Vercel Geist
+   Geist Sans for UI & prose, Geist Mono for code + uppercase
+   section eyebrows. Display type carries tight negative tracking.
+   ============================================================ */
+:root {
+  --font-sans: 'Geist', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+  --font-mono: 'Geist Mono', 'JetBrains Mono', 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+
+  /* Weights — binary system: 600 headings, 500 labels/buttons, 400 body */
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+
+  /* --- Type scale: size / line-height / letter-spacing --- */
+  --display-xl-size: 48px;
+  --display-xl-line: 48px;
+  --display-xl-track: -2.4px;
+
+  --heading-lg-size: 32px;
+  --heading-lg-line: 40px;
+  --heading-lg-track: -1.28px;
+
+  --heading-md-size: 20px;
+  --heading-md-line: 28px;
+  --heading-md-track: -0.4px;
+
+  --label-sm-size: 14px;
+  --label-sm-line: 20px;
+  --label-sm-track: -0.28px;
+
+  --mono-eyebrow-size: 12px;
+  --mono-eyebrow-line: 16px;
+  --mono-eyebrow-track: 0; /* @kind other */
+
+  --body-lg-size: 16px;
+  --body-lg-line: 24px;
+
+  --body-md-size: 14px;
+  --body-md-line: 20px;
+
+  --body-sm-size: 12px;
+  --body-sm-line: 16px;
+
+  --button-lg-size: 16px;
+  --button-lg-line: 20px;
+
+  --button-md-size: 14px;
+  --button-md-line: 20px;
+
+  --code-size: 14px;
+  --code-line: 20px;
+}
+
+/* --- Type utility classes --- */
+.t-display-xl {
+  font-family: var(--font-sans);
+  font-size: var(--display-xl-size);
+  line-height: var(--display-xl-line);
+  letter-spacing: var(--display-xl-track);
+  font-weight: var(--weight-semibold);
+  color: var(--text-ink);
+}
+.t-heading-lg {
+  font-family: var(--font-sans);
+  font-size: var(--heading-lg-size);
+  line-height: var(--heading-lg-line);
+  letter-spacing: var(--heading-lg-track);
+  font-weight: var(--weight-semibold);
+  color: var(--text-ink);
+}
+.t-heading-md {
+  font-family: var(--font-sans);
+  font-size: var(--heading-md-size);
+  line-height: var(--heading-md-line);
+  letter-spacing: var(--heading-md-track);
+  font-weight: var(--weight-semibold);
+  color: var(--text-ink);
+}
+.t-label-sm {
+  font-family: var(--font-sans);
+  font-size: var(--label-sm-size);
+  line-height: var(--label-sm-line);
+  letter-spacing: var(--label-sm-track);
+  font-weight: var(--weight-medium);
+  color: var(--text-ink);
+}
+.t-mono-eyebrow {
+  font-family: var(--font-mono);
+  font-size: var(--mono-eyebrow-size);
+  line-height: var(--mono-eyebrow-line);
+  letter-spacing: var(--mono-eyebrow-track);
+  font-weight: var(--weight-medium);
+  text-transform: uppercase;
+  color: var(--text-mute);
+}
+.t-body-lg {
+  font-family: var(--font-sans);
+  font-size: var(--body-lg-size);
+  line-height: var(--body-lg-line);
+  font-weight: var(--weight-regular);
+  color: var(--text-body);
+}
+.t-body-md {
+  font-family: var(--font-sans);
+  font-size: var(--body-md-size);
+  line-height: var(--body-md-line);
+  font-weight: var(--weight-regular);
+  color: var(--text-body);
+}
+.t-body-sm {
+  font-family: var(--font-sans);
+  font-size: var(--body-sm-size);
+  line-height: var(--body-sm-line);
+  font-weight: var(--weight-regular);
+  color: var(--text-body);
+}
+.t-code {
+  font-family: var(--font-mono);
+  font-size: var(--code-size);
+  line-height: var(--code-line);
+  font-weight: var(--weight-regular);
+  color: var(--text-ink);
+}

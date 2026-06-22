@@ -1,0 +1,20 @@
+/* ============================================================
+   SPACING — Vercel Geist
+   4px base unit. Card interiors 24–32px; section bands 96–128px.
+   ============================================================ */
+:root {
+  --space-xxs: 4px;
+  --space-xs: 8px;
+  --space-sm: 12px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 40px;
+  --space-3xl: 64px;
+  --space-4xl: 96px;
+  --space-section: 128px;
+
+  /* Layout */
+  --container-max: 1200px;
+  --gutter: 24px;
+}

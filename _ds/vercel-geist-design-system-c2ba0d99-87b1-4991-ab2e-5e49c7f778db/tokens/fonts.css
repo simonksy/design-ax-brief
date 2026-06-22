@@ -1,0 +1,5 @@
+/* Geist Sans + Geist Mono — Vercel's own type family.
+   Served via Google Fonts CDN. If you have the original Geist binaries,
+   drop the woff2 files into /assets/fonts and replace the src: url()s below. */
+
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap');

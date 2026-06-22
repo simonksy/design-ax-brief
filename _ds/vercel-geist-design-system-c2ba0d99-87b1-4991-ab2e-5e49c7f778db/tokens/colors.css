@@ -1,0 +1,67 @@
+/* ============================================================
+   COLORS — Vercel Geist
+   A near-black ink on a near-white canvas. Color is confined to
+   the hero mesh gradient and small illustration accents.
+   ============================================================ */
+:root {
+  /* --- Brand & Accent --- */
+  --ink: #171717;            /* the defining near-black — headings, CTA fill, logo */
+  --on-primary: #ffffff;     /* text/icon on ink fills */
+  --link: #0070f3;           /* Vercel Blue — links, focus, pricing highlights */
+  --link-deep: #0761d1;      /* pressed link */
+  --link-soft: #d3e5ff;      /* pale link wash */
+
+  --violet: #7928ca;
+  --cyan: #50e3c2;
+  --pink: #ff0080;
+  --magenta: #eb367f;
+
+  /* --- Surface --- */
+  --canvas: #fafafa;            /* default page background */
+  --canvas-elevated: #ffffff;   /* cards, buttons, inputs, code blocks */
+  --hairline-soft: #f2f2f2;     /* faintest grey panel / inset well */
+
+  /* --- Text ladder --- */
+  --text-ink: #171717;   /* primary headings, high-emphasis */
+  --text-body: #4d4d4d;  /* paragraph, secondary copy, nav links */
+  --text-mute: #8f8f8f;  /* captions, logo-strip labels, metadata */
+  --text-faint: #a1a1a1; /* placeholders, disabled labels */
+
+  /* --- Borders --- */
+  --hairline: #ebebeb;   /* the 1px workhorse border */
+
+  /* --- Semantic --- */
+  --error: #ee0000;
+  --error-deep: #c50000;
+  --warning: #f5a623;
+  --warning-soft: #fff3d6;
+  --warning-deep: #ab5e00;
+  --success: #0070f3;    /* blue doubles as positive/active */
+
+  /* --- Aliases (semantic surface names) --- */
+  --primary: #171717;
+  --surface: #fafafa;
+  --surface-elevated: #ffffff;
+  --border: #ebebeb;
+
+  /* --- Brand gradient stops — legacy Vercel identity --- */
+  --gradient-develop-start: #007cf0;
+  --gradient-develop-end: #00dfd8;   /* blue → cyan */
+  --gradient-preview-start: #7928ca;
+  --gradient-preview-end: #ff0080;   /* violet → pink */
+  --gradient-ship-start: #ff4d4d;
+  --gradient-ship-end: #f9cb28;      /* red → amber */
+
+  /* Convenience gradient definitions */
+  --gradient-develop: linear-gradient(90deg, var(--gradient-develop-start), var(--gradient-develop-end));
+  --gradient-preview: linear-gradient(90deg, var(--gradient-preview-start), var(--gradient-preview-end));
+  --gradient-ship: linear-gradient(90deg, var(--gradient-ship-start), var(--gradient-ship-end));
+
+  /* Hero mesh gradient — the brand's entire decorative system */
+  --mesh-gradient:
+    radial-gradient(at 20% 20%, var(--cyan) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, var(--link) 0px, transparent 50%),
+    radial-gradient(at 60% 50%, var(--violet) 0px, transparent 50%),
+    radial-gradient(at 0% 80%, var(--magenta) 0px, transparent 50%),
+    radial-gradient(at 90% 90%, var(--warning) 0px, transparent 50%);
+}
