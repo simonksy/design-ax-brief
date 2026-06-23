@@ -1,5 +1,7 @@
 # Design AX Brief
 
+![Design AX Brief 랜딩 페이지](docs/landing.png)
+
 > **Daily Design × AI News Agent**
 
 디자인 조직의 AI 전환(AX)을 위한, 매일 자동으로 발행되는 뉴스 브리프. 6개의 AI 서브에이전트가 매일 디자인×AI 뉴스 5장을 수집·검증·선별·작성·시각화·발행해 하나의 정적 웹페이지로 만들어 줍니다.
