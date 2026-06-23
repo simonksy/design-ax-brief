@@ -365,14 +365,104 @@ function Carousel({ items, t, initialIndex = 0 }) {
   );
 }
 
+/* ---- morphing liquid title (ports liquid-text.tsx to inline-style JSX) ---- */
+const MORPH_TIME = 1.5;
+const COOLDOWN_TIME = 0.5;
+
+function useMorphingText(texts) {
+  const textIndexRef = useRef(0);
+  const morphRef = useRef(0);
+  const cooldownRef = useRef(0);
+  const timeRef = useRef(new Date());
+  const text1Ref = useRef(null);
+  const text2Ref = useRef(null);
+
+  const setStyles = useCallback((fraction) => {
+    const c1 = text1Ref.current, c2 = text2Ref.current;
+    if (!c1 || !c2 || !texts || !texts.length) return;
+    c2.style.filter = `blur(${Math.min(8 / fraction - 8, 100)}px)`;
+    c2.style.opacity = `${Math.pow(fraction, 0.4) * 100}%`;
+    const inv = 1 - fraction;
+    c1.style.filter = `blur(${Math.min(8 / inv - 8, 100)}px)`;
+    c1.style.opacity = `${Math.pow(inv, 0.4) * 100}%`;
+    c1.textContent = texts[textIndexRef.current % texts.length];
+    c2.textContent = texts[(textIndexRef.current + 1) % texts.length];
+  }, [texts]);
+
+  const doMorph = useCallback(() => {
+    morphRef.current -= cooldownRef.current;
+    cooldownRef.current = 0;
+    let fraction = morphRef.current / MORPH_TIME;
+    if (fraction > 1) { cooldownRef.current = COOLDOWN_TIME; fraction = 1; }
+    setStyles(fraction);
+    if (fraction === 1) textIndexRef.current++;
+  }, [setStyles]);
+
+  const doCooldown = useCallback(() => {
+    morphRef.current = 0;
+    const c1 = text1Ref.current, c2 = text2Ref.current;
+    if (c1 && c2) {
+      c2.style.filter = 'none'; c2.style.opacity = '100%';
+      c1.style.filter = 'none'; c1.style.opacity = '0%';
+    }
+  }, []);
+
+  useEffect(() => {
+    let raf;
+    const animate = () => {
+      raf = requestAnimationFrame(animate);
+      const now = new Date();
+      const dt = (now.getTime() - timeRef.current.getTime()) / 1000;
+      timeRef.current = now;
+      cooldownRef.current -= dt;
+      if (cooldownRef.current <= 0) doMorph(); else doCooldown();
+    };
+    animate();
+    return () => cancelAnimationFrame(raf);
+  }, [doMorph, doCooldown]);
+
+  return { text1Ref, text2Ref };
+}
+
+function MorphingTitle({ texts, color, fontSize = 56, width = 360, height = 72 }) {
+  const { text1Ref, text2Ref } = useMorphingText(texts);
+  const spanStyle = {
+    position: 'absolute', left: 0, top: 0, display: 'inline-block',
+    width: '100%', textAlign: 'center', whiteSpace: 'nowrap',
+  };
+  return (
+    <div style={{
+      position: 'relative', width, height, margin: '0 auto',
+      fontFamily: 'var(--font-sans)', fontWeight: 700, fontSize,
+      letterSpacing: '-0.04em', lineHeight: `${height}px`, color,
+      filter: 'url(#ax-threshold) blur(0.35px)',
+    }}>
+      <span ref={text1Ref} style={spanStyle} />
+      <span ref={text2Ref} style={spanStyle} />
+      <svg className="ax-hidden-svg" style={{ position: 'absolute', width: 0, height: 0 }}>
+        <defs>
+          <filter id="ax-threshold" x="-15%" y="-15%" width="130%" height="130%"
+            colorInterpolationFilters="sRGB">
+            <feColorMatrix in="SourceGraphic" type="matrix"
+              values="1 0 0 0 0
+                      0 1 0 0 0
+                      0 0 1 0 0
+                      0 0 0 255 -140" />
+          </filter>
+        </defs>
+      </svg>
+    </div>
+  );
+}
+
 /* ---- masthead ---- */
 function Masthead({ t }) {
   const d = new Date();
   const ds = `${String(d.getFullYear()).slice(2)}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
   return (
-    <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: 18 }}>
-      <div style={{ fontFamily: 'var(--font-sans)', fontWeight: 600, fontSize: 19, letterSpacing: '-0.03em', color: t.hl }}>Design AX</div>
-      <div className="ax-eyebrow" style={{ color: t.mute }}>Daily Brief · {ds}</div>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: 24 }}>
+      <MorphingTitle texts={['AX-it', 'DESIGN', 'NOW']} color={t.hl} />
+      <div className="ax-eyebrow" style={{ color: t.mute, marginTop: 8 }}>Daily Brief · {ds}</div>
     </div>
   );
 }
