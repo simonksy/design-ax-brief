@@ -1,6 +1,6 @@
 # Design AX Brief
 
-![Design AX Brief 랜딩 페이지](docs/landing.png)
+![Design AX Brief 랜딩 페이지](docs/landing.gif)
 
 > **Daily Design × AI News Agent**
 
