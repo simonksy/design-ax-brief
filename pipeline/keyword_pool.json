@@ -1,0 +1,34 @@
+{
+  "_comment": "Default keyword pool for ax-planner. 'core' is always searched; the planner rotates a subset of 'pool' each day for variety. User-supplied keywords (via SKILL Step 0) are added on top. Edit freely.",
+  "core": ["AI Design Tool", "Design AX", "AI Workflow"],
+  "pool": {
+    "tools_creative": [
+      "Higgsfield", "Kling", "Runway", "Sora", "Midjourney", "Adobe Firefly",
+      "Google Veo", "Luma Dream Machine", "Pika", "Krea", "Stable Diffusion", "Flux"
+    ],
+    "tools_design_code": [
+      "Figma", "Claude Design", "Claude Code", "v0 Vercel", "Framer AI", "Cursor",
+      "Lovable", "Bolt", "Generative UI", "Design-to-code", "Vibe coding",
+      "Model Context Protocol"
+    ],
+    "models_labs": [
+      "OpenAI", "ChatGPT", "Anthropic", "Gemini", "Meta", "Ollama", "Llama",
+      "Mistral", "Grok xAI", "DeepSeek"
+    ],
+    "concepts": [
+      "AI Agent", "Agentic AI", "Physical AI", "Embodied AI", "World models",
+      "Multimodal AI"
+    ],
+    "people": [
+      "Yann LeCun", "Andrej Karpathy", "Dario Amodei", "Sam Altman",
+      "Demis Hassabis", "Fei-Fei Li", "Ilya Sutskever", "Mira Murati", "Jensen Huang"
+    ],
+    "frontier_broad": [
+      "Nvidia", "Figure AI", "Tesla Optimus", "1X robot", "Boston Dynamics",
+      "Humanoid robot", "Apple Vision Pro", "Meta Quest", "Spatial computing",
+      "Meta Ray-Ban", "Suno", "Udio", "ElevenLabs", "Hugging Face",
+      "open-source AI", "AGI", "superintelligence", "AI safety", "AI regulation",
+      "Enterprise AI agents"
+    ]
+  }
+}

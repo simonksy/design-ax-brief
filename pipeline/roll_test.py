@@ -42,12 +42,14 @@ subprocess.run(["python3", os.path.abspath("roll.py"),
 r2 = json.load(open(f"{d2}/news_data.json", encoding="utf-8"))
 assert r2["days"][-1]["cards"][0]["headline"] == "짧은 미니"   # mini_headline wins
 
-# --- dedup by date: rolling the same date twice does not duplicate the day ---
+# --- re-publishing the same date is idempotent: that date stays in `today`
+#     ONLY and never leaks into the deck (no today/deck duplication) ---
 nc2 = {"date":"2026-06-23","cards":[{"id":"z","tool":"Z","mini_headline":"재실행","headline":"h","body":"b","source":"S","url":"https://z","accent":"#222222","motif":"frame"}]}
 json.dump(nc2, open(f"{d2}/cards2.json","w"), ensure_ascii=False)
 subprocess.run(["python3", os.path.abspath("roll.py"),
   "--data", f"{d2}/news_data.json", "--cards", f"{d2}/cards2.json", "--media", f"{d2}/media.json"], check=True)
 r3 = json.load(open(f"{d2}/news_data.json", encoding="utf-8"))
 dates = [d["date"] for d in r3["days"]]
-assert dates.count("2026-06-23") == 1, dates   # 06-23 appears once, not twice
+assert r3["today"]["date"] == "2026-06-23"        # stays today
+assert dates.count("2026-06-23") == 0, dates      # never duplicated into the deck
 print("roll OK")

@@ -3,8 +3,17 @@ pipeline/candidates.json
 pipeline/selected.json
 pipeline/cards.json
 pipeline/media.json
-pipeline/media/
+# Track card/banner image files (referenced by axbrief-data.js) but ignore
+# any other build junk that lands under pipeline/media/.
+pipeline/media/**
+!pipeline/media/**/
+!pipeline/media/**/*.jpg
+!pipeline/media/**/*.jpeg
+!pipeline/media/**/*.png
+!pipeline/media/**/*.svg
+!pipeline/media/**/*.webp
 pipeline/runs/
 
 .DS_Store
 **/.DS_Store
+.playwright-mcp/

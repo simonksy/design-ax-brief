@@ -43,11 +43,13 @@
 <!-- Geist component bundle (plain JS) -->
 <script src="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/_ds_bundle.js"></script>
 
-<!-- Data (plain JS) -->
-<script src="axbrief-data.js"></script>
-
-<!-- App (Babel) -->
-<script type="text/babel" src="axbrief-app.jsx"></script>
+<!-- Data + App — cache-busted per load so a fresh publish always shows the latest
+     (avoids the browser serving a stale axbrief-data.js / axbrief-app.jsx) -->
+<script>(function () {
+  var v = Date.now();
+  document.write('<scr' + 'ipt src="axbrief-data.js?v=' + v + '"><\/scr' + 'ipt>');
+  document.write('<scr' + 'ipt type="text/babel" src="axbrief-app.jsx?v=' + v + '"><\/scr' + 'ipt>');
+})();</script>
 
 <script type="text/babel">
   const { ThemedPage } = window;

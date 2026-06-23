@@ -287,9 +287,15 @@ function LayoutEditorial({ item, index, total, active, t }) {
       <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: '22px 26px 22px' }}>
         <Eyebrow item={it} index={index} total={total} t={t} />
         <h2 className="ax-hl" style={{ fontSize: 28, lineHeight: 1.17, marginTop: 14, color: t.hl }}>{it.headline}</h2>
-        <p className="ax-body" style={{ fontSize: 15, lineHeight: 1.58, marginTop: 12, maxWidth: '32ch', color: t.body }}>{it.body}</p>
-        <div style={{ flex: 1 }} />
-        <div style={{ borderTop: `1px solid ${t.rule}`, paddingTop: 14, marginTop: 18 }}>
+        {/* wrapper is the flex item (blockified safely); the <p> stays a real
+            -webkit-box so -webkit-line-clamp actually caps at 3 lines */}
+        <div style={{ flex: '0 0 auto', marginTop: 12 }}>
+          <p className="ax-body" style={{ fontSize: 15, lineHeight: 1.55, margin: 0, color: t.body,
+            display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden',
+            maxHeight: 'calc(1.55em * 3)' }}>{it.body}</p>
+        </div>
+        <div style={{ flex: 1, minHeight: 14 }} />
+        <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: 14, marginTop: 18 }}>
           <SourceLine item={it} t={t} />
         </div>
       </div>
@@ -388,9 +394,16 @@ function MiniCard({ card, i, mode, t, onEnter, onClick }) {
       boxShadow: front ? '0 28px 60px -16px rgba(80,50,40,.55)' : '0 10px 24px -12px rgba(80,50,40,.5)',
     }}>
       <div style={{ position: 'relative', height: front ? '50%' : '46%', overflow: 'hidden' }}>
-        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }} />
-        <div style={{ position: 'absolute', width: '84%', height: '92%', left: '10%', top: '8%', borderRadius: '50%',
-          filter: 'blur(13px)', mixBlendMode: 'multiply', opacity: .85, background: `radial-gradient(circle,${card.accent},transparent 66%)` }} />
+        {card.image ? (
+          <img src={card.image} alt="" loading="lazy"
+            style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+        ) : (
+          <React.Fragment>
+            <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }} />
+            <div style={{ position: 'absolute', width: '84%', height: '92%', left: '10%', top: '8%', borderRadius: '50%',
+              filter: 'blur(13px)', mixBlendMode: 'multiply', opacity: .85, background: `radial-gradient(circle,${card.accent},transparent 66%)` }} />
+          </React.Fragment>
+        )}
       </div>
       <div style={{ padding: front ? '13px 14px' : '8px 9px' }}>
         <div className="ax-eyebrow" style={{ fontSize: front ? 10 : 8, color: t.faint, marginBottom: front ? 7 : 4 }}>{card.tool}</div>
@@ -445,9 +458,9 @@ function WeeklyTimeline({ t, onOpen }) {
     <section style={{ paddingTop: 92 }} onMouseLeave={clear}>
       <div style={{ textAlign: 'center', marginBottom: 8 }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '7px 16px',
-          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past 5 Days</span>
+          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
         <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: '18px 0 8px' }}>어제까지의 모든 소식</h2>
-        <p className="ax-body" style={{ fontSize: 15, color: t.body, margin: 0 }}>날짜에 올리면 그날의 카드 5장이 펼쳐지고, 카드를 누르면 위에서 크게 열립니다</p>
+        <p className="ax-body" style={{ fontSize: 15, color: t.body, margin: 0 }}>날짜에 올리면 그날의 카드가 펼쳐지고, 카드를 누르면 위에서 크게 열립니다 · 과거 소식을 본 뒤엔 상단의 '오늘 소식으로'로 돌아옵니다</p>
       </div>
       <div style={{ position: 'relative', display: 'flex', alignItems: 'flex-start', padding: '178px 40px 0' }}>
         <div style={{ position: 'absolute', left: 40, right: 40, top: 178 + 148, height: 1, background: t.rule, zIndex: 0 }} />
@@ -501,21 +514,41 @@ function HeroDeckIntro({ day, cardIdx, t, onDone }) {
 function ThemedPage({ themeKey }) {
   const t = THEMES[themeKey];
   const heroRef = useRef();
-  const [hero, setHero] = useState({ items: window.AX_NEWS, index: 0, key: 0 });
+  const [hero, setHero] = useState({ items: window.AX_NEWS, index: 0, key: 0, day: null });
   const [intro, setIntro] = useState(null);
   const openDay = (day, cardIdx) => {
-    setHero({ items: day.cards, index: cardIdx, key: Date.now() });
+    setHero({ items: day.cards, index: cardIdx, key: Date.now(), day });
     setIntro({ day, cardIdx, k: Date.now() });
     if (heroRef.current) {
       const top = heroRef.current.getBoundingClientRect().top + window.scrollY - 28;
       window.scrollTo({ top, behavior: 'smooth' });
     }
   };
+  const backToToday = () => {
+    setIntro(null);
+    setHero({ items: window.AX_NEWS, index: 0, key: Date.now(), day: null });
+    if (heroRef.current) {
+      const top = heroRef.current.getBoundingClientRect().top + window.scrollY - 28;
+      window.scrollTo({ top, behavior: 'smooth' });
+    }
+  };
+  const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
   return (
     <div style={{ position: 'relative', minHeight: '100vh', overflow: 'visible', background: t.briefBg, boxSizing: 'border-box' }}>
       <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>
       <div style={{ position: 'relative', zIndex: 1, maxWidth: 1120, margin: '0 auto', padding: '34px 40px 90px', boxSizing: 'border-box' }}>
         <Masthead t={t} />
+        {/* back-to-today control — shown only while viewing a past day */}
+        <div style={{ height: 30, marginTop: 10, textAlign: 'center' }}>
+          {hero.day && (
+            <button onClick={backToToday} className="ax-eyebrow" style={{ cursor: 'pointer',
+              border: t.cardBorder, background: t.cardBg, color: t.hl, padding: '7px 15px', borderRadius: 100,
+              WebkitBackdropFilter: t.blur, backdropFilter: t.blur, display: 'inline-flex', alignItems: 'center', gap: 7 }}>
+              <span aria-hidden>←</span> 오늘 소식으로
+              <span style={{ color: t.faint }}>· {viewing}</span>
+            </button>
+          )}
+        </div>
         {/* HERO — centered vertical card */}
         <div ref={heroRef} style={{ position: 'relative', width: 480, maxWidth: '100%', height: 680, margin: '8px auto 0' }}>
           <Carousel key={'hero' + hero.key} items={hero.items} initialIndex={hero.index} t={t} />

@@ -14,7 +14,11 @@ For each pick produce:
 - `eyebrow`: always "AI NEWS".
 - `headline`: ONE line; if it would wrap, insert a single `\n` for a balanced
   2-line break. No trailing punctuation. ~16–22 Korean chars per visual line.
-- `body`: 1–2 short, plain sentences — what changed and why a designer cares.
+- `body`: 2–3 short, plain sentences — what changed and why a designer cares.
+  Use the full card width: aim to fill ~3 lines (the body box is the full card
+  width, ~95–110 characters ≈ 3 lines; Latin words are half-width so more fit).
+  HARD LIMIT: never exceed 3 lines — the card clamps to 3 and would truncate.
+  Keep it to **≤ 110 characters** and prefer landing right at 3 full lines.
 - `mini_headline`: a shorter (~10–14 char) headline for the weekly deck.
 - Carry through verbatim from selected.json: `tool`, `source`, `url`, `accent`, `motif`.
 

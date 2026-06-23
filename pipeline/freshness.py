@@ -1,4 +1,4 @@
-"""Deterministic recency gate. Tue-Fri=24h window, Mon=72h. UTC."""
+"""Deterministic recency gate. Flat 72h window for all days (Mon-Fri). UTC."""
 import sys
 from datetime import datetime, timezone
 
@@ -15,10 +15,8 @@ def _parse(iso):
         return None
 
 def window_hours(now_iso):
-    now = _parse(now_iso)
-    if now is None:
-        return 24
-    return 72 if now.weekday() == 0 else 24  # Monday == 0
+    # Unified: previous 72 hours for every day of the week (Mon-Fri).
+    return 72
 
 def is_fresh(published_iso, now_iso):
     pub = _parse(published_iso)

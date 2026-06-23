@@ -1,49 +1,243 @@
 {
   "today": {
-    "date": "2026-06-21",
+    "date": "2026-06-23",
     "cards": [
-      {"id":"figma","tool":"Figma","eyebrow":"AI NEWS","headline":"웹페이지 캡처가\n피그마 레이어로","body":"스크린샷을 붙여넣으면 곧바로 수정 가능한 디자인이 됩니다. 시안 첫 단추를 몇 분이면.","source":"Figma","url":"https://www.figma.com/resource-library/ai-tools-for-ux-designers/","accent":"#0070f3","motif":"frame"},
-      {"id":"keyshot","tool":"KeyShot","eyebrow":"AI NEWS","headline":"밤새던 렌더를\n분 단위로","body":"고화질 렌더를 기다릴 필요가 없어요. AI가 몇 분 만에, 그 자리에서 고쳐줍니다.","source":"CG Channel","url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623","motif":"sphere"},
-      {"id":"cad","tool":"Text-to-CAD","eyebrow":"AI NEWS","headline":"말로 그리는\n컨셉 3D 형상","body":"글로 설명하면 3D 형상이 나옵니다. 도면까지 대부분 자동으로 그려져요.","source":"Engineering.com","url":"https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026","accent":"#7928ca","motif":"cube"},
-      {"id":"tokens","tool":"Design Tokens","eyebrow":"AI NEWS","headline":"OneUI 일관성,\nAI가 지켜본다","body":"색·폰트 규칙을 한 곳에 모으면, 어긋난 화면을 AI가 알아서 찾아줍니다.","source":"ParallelHQ","url":"https://www.parallelhq.com/blog/automating-design-systems-with-ai","accent":"#50e3c2","motif":"swatch"},
-      {"id":"vr","tool":"VR Prototype","eyebrow":"AI NEWS","headline":"물리 목업 없이\n가상으로 결정","body":"실물 목업 없이 VR로 보고 결정합니다. 비용은 절반 이하로 줄어요.","source":"SGW Designworks","url":"https://www.sgwdesignworks.com/blog/virtual-reality-prototyping","accent":"#eb367f","motif":"headset"}
+      {
+        "id": "unity65",
+        "eyebrow": "AI NEWS",
+        "headline": "Unity 6.5, 렌더 노이즈 제거를\nAI 방식으로 교체하다",
+        "body": "Unity 6.5가 OptiX 디노이징을 하드웨어에 구애받지 않는 OIDN AI 방식으로 바꿨다. Shader와 VFX Graph도 함께 손봤고, 기존 빌트인 렌더 파이프라인은 단계적으로 정리된다.",
+        "tool": "KeyShot",
+        "source": "CG Channel",
+        "url": "https://www.cgchannel.com/2026/06/unity-releases-unity-6-5-discover-5-key-features-for-cg-artists/",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "image": "pipeline/media/unity65.jpg"
+      },
+      {
+        "id": "deepmind-a24",
+        "eyebrow": "AI NEWS",
+        "headline": "딥마인드가 A24와\nAI 영화 도구를 만든다",
+        "body": "구글 딥마인드가 영화사 A24에 7,500만 달러를 투자해 AI 영화 제작 도구를 함께 개발한다. 첫 적용은 감독을 위한 스토리보드 자동 생성으로, 콘셉트와 비주얼 작업의 출발점을 바꾼다.",
+        "tool": "KeyShot",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+        "accent": "#3b6bff",
+        "motif": "sphere",
+        "image": "pipeline/media/deepmind-a24.jpg"
+      },
+      {
+        "id": "openai-getty",
+        "eyebrow": "AI NEWS",
+        "headline": "ChatGPT 안에\n게티 라이선스 이미지가 들어온다",
+        "body": "OpenAI가 게티이미지와 다년 계약을 맺고 라이선스 비주얼을 ChatGPT와 검색에 직접 노출한다. 생성 작업 흐름 안에서 이미지를 찾고 권리를 다루는 방식이 달라진다.",
+        "tool": "AI Workflow",
+        "source": "Engadget",
+        "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/openai-getty.jpg"
+      },
+      {
+        "id": "claude-id",
+        "eyebrow": "AI NEWS",
+        "headline": "Claude가 이제\n신원 확인을 요구할 수 있다",
+        "body": "Anthropic이 일부 Claude 사용에 신원 인증을 도입한다. 규제가 있는 디자인과 프로덕트 워크플로에서 팀이 이 어시스턴트를 도입하는 방식에 영향을 주는 거버넌스 변화다.",
+        "tool": "Design Tokens",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+        "accent": "#2ec5c5",
+        "motif": "swatch",
+        "image": "pipeline/media/claude-id.jpg"
+      },
+      {
+        "id": "ios27-ai",
+        "eyebrow": "AI NEWS",
+        "headline": "iOS 27, 시리 너머의\n온디바이스 AI가 온다",
+        "body": "iOS 27에 제미나이 기반 시리와 비주얼 인텔리전스 등 온디바이스 AI 기능이 들어온다. 디자이너가 프로토타이핑하는 모바일 인터랙션의 전제가 바뀐다.",
+        "tool": "VR Prototype",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "accent": "#eb367f",
+        "motif": "headset",
+        "image": "pipeline/media/ios27-ai.jpg"
+      }
     ]
   },
   "days": [
-    { "date": "2026-06-17", "cards": [
-      {"tool":"Figma",        "headline":"AI 에이전트, 캔버스에서 직접 디자인",    "source":"Dev.to",      "url":"https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin","accent":"#3b6bff"},
-      {"tool":"CMF",          "headline":"CMF 탐색, AI 렌더로 실시간 비교",        "source":"KeyShot",     "url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623"},
-      {"tool":"몰입형",       "headline":"몰입형 기술로 프로토타이핑",            "source":"Boston Eng.", "url":"https://blog.boston-engineering.com/explore-immersive-technologies-in-product-development-and-prototyping","accent":"#eb367f"},
-      {"tool":"원칙",         "headline":"people-first 디자인 협업론",            "source":"Fast Company","url":"https://www.fastcompany.com/91528033/samsung-shares-its-thesis-on-the-future-of-design-and-ai","accent":"#171717"},
-      {"tool":"Tokens",       "headline":"토큰 시스템, AI 에이전트가 관리",        "source":"MindStudio",  "url":"https://www.mindstudio.ai/blog/design-token-system-ai-agents-brand-visuals","accent":"#2ec5c5"}
-    ] },
-    { "date": "2026-06-18", "cards": [
-      {"tool":"Design Tokens","headline":"OneUI 일관성, AI가 지켜본다",           "source":"ParallelHQ",  "url":"https://www.parallelhq.com/blog/automating-design-systems-with-ai","accent":"#2ec5c5"},
-      {"tool":"Figma",        "headline":"AI 한계 — 일관성은 사람 몫",            "source":"LogRocket",   "url":"https://blog.logrocket.com/ux-design/figma-ai-2026-quick-overview/","accent":"#3b6bff"},
-      {"tool":"KeyShot",      "headline":"밤샘 렌더가 분 단위 작업으로",          "source":"CG Channel",  "url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623"},
-      {"tool":"CAD",          "headline":"말로 그리는 컨셉 3D 형상",              "source":"Leo AI",      "url":"https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026","accent":"#7928ca"},
-      {"tool":"VR",           "headline":"가상 프로토타입으로 의사결정",          "source":"SGW",         "url":"https://www.sgwdesignworks.com/blog/virtual-reality-prototyping","accent":"#eb367f"}
-    ] },
-    { "date": "2026-06-19", "cards": [
-      {"tool":"Text-to-CAD",  "headline":"말로 설명하면 3D 형상이 나온다",        "source":"Engineering", "url":"https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026","accent":"#7928ca"},
-      {"tool":"Figma",        "headline":"스크린샷이 곧 수정 가능한 레이어",       "source":"Figma",       "url":"https://www.figma.com/resource-library/ai-tools-for-ux-designers/","accent":"#3b6bff"},
-      {"tool":"코드",         "headline":"제품팀 65%+ AI 코드 생성",              "source":"Figma",       "url":"https://www.figma.com/resource-library/design-statistics/","accent":"#ff5a4d"},
-      {"tool":"리서치",       "headline":"리서치 합성·인사이트 자동화",           "source":"Orq.ai",      "url":"https://orq.ai/blog/ai-workflow-automation","accent":"#2ec5c5"},
-      {"tool":"UX Pilot",     "headline":"프롬프트 한 줄로 화면 초안",            "source":"Eleken",      "url":"https://www.eleken.co/blog-posts/ux-ai-tools","accent":"#eb367f"}
-    ] },
-    { "date": "2026-06-20", "cards": [
-      {"tool":"KeyShot",      "headline":"밤새던 렌더를 분 단위로",               "source":"CG Channel",  "url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623"},
-      {"tool":"핸드오프",     "headline":"디자인↔코드 동기화 자동화",             "source":"Palettt",     "url":"https://palettt.com/blog/figmas-march-2026-update-how-ai-agents-are-redefining-design-to-dev-handoff","accent":"#ff5a4d"},
-      {"tool":"DesignAX",     "headline":"삼성, 생성형 AI 전면 도입",             "source":"CIO",         "url":"https://www.cio.com/article/4184660/samsung-which-previously-blocked-chatgpt-is-now-fully-adopting-three-generative-ai-models-and-accelerating-its-ax-initiative.html","accent":"#171717"},
-      {"tool":"VR",           "headline":"VR 목업 비용 40~65% 절감",              "source":"SGW",         "url":"https://www.sgwdesignworks.com/blog/virtual-reality-prototyping","accent":"#eb367f"},
-      {"tool":"Tokens",       "headline":"브랜드 비주얼을 토큰으로 통제",          "source":"MindStudio",  "url":"https://www.mindstudio.ai/blog/design-token-system-ai-agents-brand-visuals","accent":"#2ec5c5"}
-    ] },
-    { "date": "2026-06-21", "cards": [
-      {"tool":"Figma",        "headline":"웹페이지 캡처가 피그마 레이어로",        "source":"Figma",       "url":"https://www.figma.com/resource-library/ai-tools-for-ux-designers/","accent":"#3b6bff"},
-      {"tool":"Text-to-CAD",  "headline":"말로 그리는 컨셉 3D 형상",              "source":"Engineering", "url":"https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026","accent":"#7928ca"},
-      {"tool":"Design Tokens","headline":"OneUI 일관성, AI가 지켜본다",           "source":"ParallelHQ",  "url":"https://www.parallelhq.com/blog/automating-design-systems-with-ai","accent":"#2ec5c5"},
-      {"tool":"VR Prototype", "headline":"물리 목업 없이 가상으로 결정",          "source":"SGW",         "url":"https://www.sgwdesignworks.com/blog/virtual-reality-prototyping","accent":"#eb367f"},
-      {"tool":"KeyShot",      "headline":"밤새던 렌더를 분 단위로",               "source":"CG Channel",  "url":"https://www.cgchannel.com/2026/03/keyshot-releases-keyshot-studio-2026-1/","accent":"#f5a623"}
-    ] }
+    {
+      "date": "2026-06-17",
+      "cards": [
+        {
+          "tool": "Figma",
+          "headline": "엔터프라이즈용 AI 크레딧 사용량 API",
+          "source": "Figma",
+          "url": "https://www.figma.com/release-notes/#ai-usage-credit-api",
+          "accent": "#0070f3"
+        },
+        {
+          "tool": "AI Workflow",
+          "headline": "불확실성을 다루는 확률적 디자인",
+          "source": "Smashing Magazine",
+          "url": "https://www.smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+          "accent": "#ff5a4d",
+          "image": "pipeline/media/deck/smashing.jpg"
+        },
+        {
+          "tool": "Figma",
+          "headline": "MCP 서버로 외부 에이전트가 슬라이드 생성",
+          "source": "Figma",
+          "url": "https://www.figma.com/release-notes/#mcp-server-updates",
+          "accent": "#3b6bff"
+        },
+        {
+          "tool": "AI Workflow",
+          "headline": "Make·Sites, 워크스페이스 단위 웹 퍼블리싱",
+          "source": "Figma",
+          "url": "https://www.figma.com/release-notes/#make-sites-web-publishing",
+          "accent": "#7928ca"
+        },
+        {
+          "tool": "Figma",
+          "headline": "데스크톱 앱에 탭 그룹 도입",
+          "source": "Figma",
+          "url": "https://www.figma.com/release-notes/#tab-groups",
+          "accent": "#171717"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "cards": [
+        {
+          "tool": "KeyShot",
+          "headline": "포토샵 27.8, 외부 생성 모델 연결",
+          "source": "CG Channel",
+          "url": "https://www.cgchannel.com/2026/06/adobe-releases-photoshop-27-8/",
+          "accent": "#f5a623",
+          "image": "pipeline/media/deck/cgc-photoshop.jpg"
+        },
+        {
+          "tool": "Figma",
+          "headline": "피그마 위브에 런웨이 Aleph 2.0",
+          "source": "Figma",
+          "url": "https://www.figma.com/blog/direct-every-frame-with-runway-aleph-2/",
+          "accent": "#0070f3",
+          "image": "pipeline/media/deck/figma-aleph.png"
+        },
+        {
+          "tool": "KeyShot",
+          "headline": "애프터이펙트 26.3, 고급 3D 심도",
+          "source": "CG Channel",
+          "url": "https://www.cgchannel.com/2026/06/adobe-releases-after-effects-26-3/",
+          "accent": "#eb367f",
+          "image": "pipeline/media/deck/cgc-ae.jpg"
+        },
+        {
+          "tool": "Figma",
+          "headline": "Framer 3.0, AI 에이전트로 웹을 짓다",
+          "source": "Lushbinary",
+          "url": "https://lushbinary.com/blog/framer-3-ai-agents-branching-guide/",
+          "accent": "#3b6bff",
+          "image": "pipeline/media/deck/framer3.png"
+        },
+        {
+          "tool": "AI Workflow",
+          "headline": "스페이스X, AI 코딩툴 Cursor를 600억 달러에 인수",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+          "accent": "#ff5a4d",
+          "image": "pipeline/media/deck/cursor-spacex.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "cards": [
+        {
+          "tool": "Text-to-CAD",
+          "headline": "AI CAD, 과장과 현실 사이",
+          "source": "Leo AI",
+          "url": "https://www.getleo.ai/blog/ai-cad-design-2026-whats-real",
+          "accent": "#7928ca",
+          "image": "pipeline/media/deck/leo-cad-real.webp"
+        },
+        {
+          "tool": "Text-to-CAD",
+          "headline": "텍스트-투-CAD 도구 총정리 2026",
+          "source": "Leo AI",
+          "url": "https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026",
+          "accent": "#3b6bff",
+          "image": "pipeline/media/deck/leo-cad-tools.jpg"
+        },
+        {
+          "tool": "KeyShot",
+          "headline": "클링 3.0 터보, 더 빠른 AI 영상 생성",
+          "source": "Atlas Cloud",
+          "url": "https://www.atlascloud.ai/blog/guides/kling-3.0-turbo-kling-omni",
+          "accent": "#f5a623",
+          "image": "pipeline/media/deck/kling3.jpg"
+        },
+        {
+          "tool": "AI Workflow",
+          "headline": "구글, 제미나이 CLI를 Antigravity로 전환",
+          "source": "Google Developers",
+          "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+          "accent": "#ff5a4d",
+          "image": "pipeline/media/deck/antigravity.jpg"
+        },
+        {
+          "tool": "VR Prototype",
+          "headline": "스냅, AI 영상팀을 Dotmo로 분사",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+          "accent": "#eb367f",
+          "image": "pipeline/media/deck/snap-dotmo.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "cards": [
+        {
+          "tool": "AI Workflow",
+          "headline": "Firefly 어시스턴트가 프리미어·일러스트·인디자인으로",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+          "accent": "#ff5a4d",
+          "image": "pipeline/media/firefly.jpeg"
+        },
+        {
+          "tool": "AI Workflow",
+          "headline": "Claude Design, 코딩 에이전트와 이어지다",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent/",
+          "accent": "#3b6bff",
+          "image": "pipeline/media/claude-design.jpg"
+        },
+        {
+          "tool": "Figma",
+          "headline": "피그마 디자인 에이전트가 이제 웹을 검색한다",
+          "source": "Figma",
+          "url": "https://www.figma.com/release-notes/",
+          "accent": "#0070f3"
+        },
+        {
+          "tool": "Design Tokens",
+          "headline": "프로토타입과 코드를 오가는 양방향 핸드오프",
+          "source": "BigGo Finance",
+          "url": "https://finance.biggo.com/news/4535a14d-ea20-4047-9b2d-166397850c7c",
+          "accent": "#2ec5c5"
+        },
+        {
+          "tool": "KeyShot",
+          "headline": "언리얼 엔진 6, MCP로 AI를 끌어안다",
+          "source": "CG Channel",
+          "url": "https://www.cgchannel.com/2026/06/10-things-cg-artists-need-to-know-about-unreal-engine-6/",
+          "accent": "#f5a623",
+          "image": "pipeline/media/ue6-mcp.jpg"
+        }
+      ]
+    }
   ]
 }

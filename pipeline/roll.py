@@ -9,17 +9,35 @@ def mini_card(c):
     head = c.get("mini_headline") or c.get("headline", "").replace("\n", " ")
     d = {k: c.get(k, "") for k in MINI}
     d["headline"] = head
+    if c.get("image"):           # keep the source banner image on the deck card
+        d["image"] = c["image"]
     return d
 
 def roll(data, cards, media):
     media_by_id = {m["id"]: m for m in media.get("media", [])}
     prev = data.get("today")
-    if prev and prev.get("cards"):
+    new_date = cards["date"]
+    # Only archive the previous today if it's a DIFFERENT day. Re-publishing the
+    # same date must be idempotent (never push today's date into the deck).
+    if prev and prev.get("cards") and prev["date"] != new_date:
         date = prev["date"]
         days = data.setdefault("days", [])
         days[:] = [d for d in days if d.get("date") != date]  # dedup: re-runs idempotent
-        days.append({"date": date, "cards": [mini_card(c) for c in prev["cards"]]})
-    data["days"] = data.get("days", [])[-5:]
+        # cross-day + intra-day dedup (earliest-wins): a story already shown on an
+        # earlier day is dropped so the same news never repeats. Matched by URL only —
+        # a shared thumbnail is NOT a duplicate (distinct articles can share a
+        # source's site-wide OG image; ax-media gives each a distinct in-article one).
+        seen_url = {c.get("url") for day in days for c in day.get("cards", [])}
+        fresh = []
+        for c in prev["cards"]:
+            mc = mini_card(c)
+            if mc.get("url") in seen_url:
+                continue
+            fresh.append(mc)
+            seen_url.add(mc.get("url"))
+        days.append({"date": date, "cards": fresh})
+    # the new today's date must never live in the deck (it lives in `today`)
+    data["days"] = [d for d in data.get("days", []) if d.get("date") != new_date][-5:]
     new_cards = []
     for c in cards["cards"]:
         c = dict(c)
