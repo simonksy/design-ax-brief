@@ -57,7 +57,7 @@ if (!document.getElementById('ax-styles')) {
   /* recede dim — a compositor-only opacity layer (NOT filter:brightness, which would
      re-rasterize the image + blur-blobs + backdrop-blur under it every scroll frame). */
   .fcard-dim{position:absolute;inset:0;z-index:6;background:#000;opacity:0;pointer-events:none;will-change:opacity;}
-  .fcard-media{position:absolute;inset:0;}
+  .fcard-media{position:absolute;inset:0;background:linear-gradient(150deg,#f6f2ec,#efe9e1);}
   .fcard-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;}
   .fcard-scrim{position:absolute;right:0;bottom:0;width:62%;height:64%;pointer-events:none;z-index:1;
      background:radial-gradient(128% 122% at 100% 100%,rgba(247,243,237,.64),rgba(247,243,237,0) 72%);}
@@ -358,7 +358,10 @@ function CardScene({ it, active }) {
   const img = it.image;   // pipeline-provided per-card image (pipeline/media/...)
   return (
     <div className={'fcard-media' + (img ? ' has-img' : '')}>
-      <MediaScene item={it} active={active} bold={false} />
+      {/* the animated ink blobs (blur + mix-blend) are only a fallback backdrop —
+         when a real photo covers the card they'd just composite, hidden, every
+         frame, so skip them entirely for image cards. */}
+      {!img && <MediaScene item={it} active={active} bold={false} />}
       {img && <img className="fcard-img" src={img} alt="" loading="eager" decoding="async" fetchpriority="high"
         onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
     </div>
@@ -495,15 +498,15 @@ function GalleryTile({ card, t, onClick }) {
   return (
     <button className="ax-tile" onClick={onClick} aria-label={card.headline}
       style={{ background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }}>
-      <div className="ax-scene ax-active" style={{ position: 'absolute', inset: 0 }} aria-hidden>
+      {!card.image && <div className="ax-scene ax-active" style={{ position: 'absolute', inset: 0 }} aria-hidden>
         <div className="ax-blob" style={{ width: '88%', height: '92%', left: '6%', top: '2%', filter: 'blur(20px)',
           opacity: .82, mixBlendMode: 'multiply', background: `radial-gradient(circle,${card.accent},transparent 66%)` }} />
         <div className="ax-blob b2" style={{ width: '60%', height: '60%', right: '0%', bottom: '0%', filter: 'blur(22px)',
           opacity: .5, mixBlendMode: 'multiply', background: `radial-gradient(circle,${ZEN_PAL[1]},transparent 72%)` }} />
         <div className="ax-grain" style={{ opacity: .07 }} />
-      </div>
+      </div>}
       {card.image && <img className="ax-tile-img" src={card.image} alt=""
-        loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
+        loading="lazy" decoding="async" onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
       <div className="ax-tile-cap">
         <div className="ax-eyebrow" style={{ fontSize: 9, color: 'rgba(255,255,255,.72)', marginBottom: 4 }}>{card.tool}</div>
         <div className="ax-hl" style={{ fontSize: 'clamp(12px,1vw,14px)', lineHeight: 1.28, color: '#ffffff',
