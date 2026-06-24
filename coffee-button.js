@@ -90,26 +90,40 @@
     wrap.appendChild(btn);
     document.body.appendChild(wrap);
 
-    // Open/close is driven by enter/leave events (NOT CSS :hover) to stop the
-    // edge-flicker loop. mouseenter fires once on entering the collapsed circle and
-    // the box then grows OUTWARD (anchored bottom-right), always enveloping the
-    // cursor; mouseleave only fires when the cursor truly exits the larger box.
-    // Pulse: on while fully collapsed, off through the ~560ms expand/shrink.
-    var open = false, idleTimer = 0;
+    // Open/close from a STABLE hit-test, not the animating element. Hit-testing the
+    // element itself (via :hover OR mouseenter/leave) flickers at the edge because the
+    // box (and its border-radius) animates under a near-stationary cursor. Instead we
+    // test the pointer against fixed rectangles with hysteresis: OPEN when inside the
+    // small resting box, CLOSE only when outside the full expanded box (+margin). The
+    // rectangles never animate, so there is no in/out oscillation.
+    var open = false, idleTimer = 0, reg = null;
+    function calcRegions() {
+      var r = wrap.getBoundingClientRect();        // 0x0 box pinned at the bottom-right anchor
+      var rx = r.right, by = r.bottom, M = 8;
+      reg = { cl: rx - 62, ct: by - 62, cr: rx, cb: by,                       // collapsed (open trigger)
+              el: rx - 300 - M, et: by - 374 - M, er: rx + M, eb: by + M };   // expanded (close boundary)
+    }
     function setOpen(v) {
       if (v === open) return;
       open = v;
       btn.classList.toggle('is-open', v);
       clearTimeout(idleTimer);
-      if (v) {
-        wrap.classList.remove('ax-idle');
-      } else {
-        idleTimer = setTimeout(function () { if (!open) wrap.classList.add('ax-idle'); }, 560);
-      }
+      if (v) wrap.classList.remove('ax-idle');
+      else idleTimer = setTimeout(function () { if (!open) wrap.classList.add('ax-idle'); }, 560);
     }
     wrap.classList.add('ax-idle');
-    btn.addEventListener('mouseenter', function () { setOpen(true); });
-    btn.addEventListener('mouseleave', function () { setOpen(false); });
+    calcRegions();
+    window.addEventListener('resize', calcRegions);
+    window.addEventListener('pointermove', function (e) {
+      if (e.pointerType && e.pointerType !== 'mouse') return;   // touch taps the link directly
+      if (!reg) calcRegions();
+      var x = e.clientX, y = e.clientY;
+      if (!open) {
+        if (x >= reg.cl && x <= reg.cr && y >= reg.ct && y <= reg.cb) setOpen(true);
+      } else {
+        if (x < reg.el || x > reg.er || y < reg.et || y > reg.eb) setOpen(false);
+      }
+    }, { passive: true });
   }
 
   if (document.readyState === 'loading') {
