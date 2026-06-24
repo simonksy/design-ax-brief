@@ -42,8 +42,9 @@ if (!document.getElementById('ax-styles')) {
   @keyframes axpulse{0%,100%{opacity:.3}50%{opacity:1}}
 
   .ax-hl{font-family:'Pretendard',var(--font-sans);white-space:pre-line;font-weight:600;
-     letter-spacing:-0.025em;text-wrap:balance;margin:0;}
-  .ax-body{font-family:'Pretendard',var(--font-sans);font-weight:400;letter-spacing:-0.01em;margin:0;}
+     letter-spacing:-0.025em;text-wrap:balance;margin:0;word-break:keep-all;overflow-wrap:break-word;}
+  .ax-body{font-family:'Pretendard',var(--font-sans);font-weight:400;letter-spacing:-0.01em;margin:0;
+     word-break:keep-all;overflow-wrap:break-word;}
   .ax-eyebrow{font-family:var(--font-mono);font-size:12px;line-height:16px;letter-spacing:.08em;
      text-transform:uppercase;font-weight:500;}
   .ax-src{font-family:var(--font-mono);font-size:12px;letter-spacing:.05em;text-transform:uppercase;

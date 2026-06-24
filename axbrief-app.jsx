@@ -47,8 +47,9 @@ if (!document.getElementById('ax-styles')) {
   .ax-track{display:flex;height:100%;transition:transform .5s cubic-bezier(.4,0,.2,1);will-change:transform;}
   .ax-slide{flex:0 0 100%;min-width:100%;height:100%;}
   .ax-hl{font-family:'Pretendard',var(--font-sans);white-space:pre-line;font-weight:600;
-     letter-spacing:-0.02em;text-wrap:balance;margin:0;}
-  .ax-body{font-family:'Pretendard',var(--font-sans);font-weight:400;letter-spacing:-0.01em;margin:0;}
+     letter-spacing:-0.02em;text-wrap:balance;margin:0;word-break:keep-all;overflow-wrap:break-word;}
+  .ax-body{font-family:'Pretendard',var(--font-sans);font-weight:400;letter-spacing:-0.01em;margin:0;
+     word-break:keep-all;overflow-wrap:break-word;}
   .ax-eyebrow{font-family:var(--font-mono);font-size:11px;line-height:16px;letter-spacing:.07em;
      text-transform:uppercase;font-weight:500;}
   .ax-src{font-family:var(--font-mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;

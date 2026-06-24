@@ -14,6 +14,11 @@ For each pick produce:
 - `eyebrow`: always "AI NEWS".
 - `headline`: ONE line; if it would wrap, insert a single `\n` for a balanced
   2-line break. No trailing punctuation. ~16–22 Korean chars per visual line.
+  **NEVER break inside a word.** The `\n` (and any natural wrap) must fall on a
+  space / word boundary — a Korean word must never be split across two lines.
+  Put the `\n` between words, not mid-가운 / mid-단어. (The pages also set
+  `word-break: keep-all` so auto-wrap won't split words, but author the `\n`
+  cleanly too.)
 - `body`: 2–3 short, plain sentences — what changed and why a designer cares.
   Use the full card width: aim to fill ~3 lines (the body box is the full card
   width, ~95–110 characters ≈ 3 lines; Latin words are half-width so more fit).
