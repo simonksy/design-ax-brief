@@ -53,7 +53,10 @@ if (!document.getElementById('ax-styles')) {
   /* ---- full-bleed banner cards (image fills screen, text bottom-right) ---- */
   .ax-stack{position:relative;}
   .fcard{position:sticky;top:0;height:100vh;height:100svh;}
-  .fcard-inner{position:relative;width:100%;height:100%;overflow:hidden;will-change:filter;}
+  .fcard-inner{position:relative;width:100%;height:100%;overflow:hidden;}
+  /* recede dim — a compositor-only opacity layer (NOT filter:brightness, which would
+     re-rasterize the image + blur-blobs + backdrop-blur under it every scroll frame). */
+  .fcard-dim{position:absolute;inset:0;z-index:6;background:#000;opacity:0;pointer-events:none;will-change:opacity;}
   .fcard-media{position:absolute;inset:0;}
   .fcard-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;}
   .fcard-scrim{position:absolute;right:0;bottom:0;width:62%;height:64%;pointer-events:none;z-index:1;
@@ -376,16 +379,17 @@ function CardOverlay({ it, num, tot, t }) {
 }
 
 /* ---- StackCard — one full-viewport, sticky banner ---- */
-function StackCard({ item, index, total, t, innerRef }) {
+function StackCard({ item, index, total, t, dimRef }) {
   const [ref, inView] = useInView(0.45);
   const it = axEnrich(item);
   const num = String(index + 1).padStart(2, '0');
   const tot = String(total).padStart(2, '0');
   return (
     <section ref={ref} className="fcard" data-screen-label={'카드 ' + num}>
-      <div ref={innerRef} className="fcard-inner">
+      <div className="fcard-inner">
         <CardScene it={it} active={inView} />
         <CardOverlay it={it} num={num} tot={tot} t={t} />
+        <div ref={dimRef} className="fcard-dim" />
       </div>
     </section>
   );
@@ -394,7 +398,8 @@ function StackCard({ item, index, total, t, innerRef }) {
 /* ---- StackSection — the five connected cards + recede-on-scroll ---- */
 function StackSection({ items, t }) {
   const wrapRef = useRef();
-  const inners = useRef([]);
+  const dims = useRef([]);
+  const last = useRef([]);
   useEffect(() => {
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
     if (window.matchMedia('(max-width:860px)').matches) return;
@@ -404,11 +409,12 @@ function StackSection({ items, t }) {
       const vh = window.innerHeight;
       const top = wrapRef.current ? wrapRef.current.offsetTop : 0;
       const y = window.scrollY;
-      inners.current.forEach((el, i) => {
+      dims.current.forEach((el, i) => {
         if (!el) return;
-        // dim-only as the next banner slides over — keeps every card full-bleed (no frame).
+        // recede as the next banner slides over — opacity only (compositor cheap).
         const p = Math.min(1, Math.max(0, (y - (top + i * vh)) / vh));
-        el.style.filter = p > 0.001 ? `brightness(${1 - 0.34 * p})` : 'none';
+        const o = p > 0.001 ? +(0.34 * p).toFixed(3) : 0;
+        if (last.current[i] !== o) { el.style.opacity = o; last.current[i] = o; } // skip redundant writes
       });
     };
     // one rAF per frame, only while scrolling/resizing — no always-on loop or timer.
@@ -422,7 +428,7 @@ function StackSection({ items, t }) {
     <div ref={wrapRef} className="ax-stack">
       {items.map((it, i) => (
         <StackCard key={it.id || i} item={it} index={i} total={items.length} t={t}
-          innerRef={(el) => { inners.current[i] = el; }} />
+          dimRef={(el) => { dims.current[i] = el; }} />
       ))}
     </div>
   );
