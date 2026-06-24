@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Design AX Brief — Large Card</title>
+
+<!-- Geist tokens + styles -->
+<link rel="stylesheet" href="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/tokens/fonts.css">
+<link rel="stylesheet" href="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/tokens/colors.css">
+<link rel="stylesheet" href="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/tokens/typography.css">
+<link rel="stylesheet" href="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/tokens/spacing.css">
+<link rel="stylesheet" href="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/tokens/shapes.css">
+<link rel="stylesheet" href="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/tokens/elevation.css">
+<link rel="stylesheet" href="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/styles.css">
+
+<!-- Pretendard for Korean (pairs with Geist's geometric sans) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
+
+<style>
+  html, body { margin: 0; padding: 0; }
+  body { background: #f1ece4; overflow-x: hidden; }
+  * { box-sizing: border-box; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<template id="__bundler_thumbnail">
+  <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100" height="100" fill="#fafafa"/>
+    <rect x="30" y="22" width="40" height="30" rx="4" fill="#ebebeb"/>
+    <rect x="30" y="58" width="40" height="6" rx="3" fill="#171717"/>
+    <rect x="30" y="70" width="28" height="5" rx="2.5" fill="#a1a1a1"/>
+  </svg>
+</template>
+
+<!-- React + Babel (pinned) -->
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<!-- Geist component bundle (plain JS) -->
+<script src="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/_ds_bundle.js"></script>
+
+<!-- Same generated data as the small-card page; only the design (app) differs.
+     Cache-busted per load so a fresh publish always shows the latest. -->
+<script>(function () {
+  var v = Date.now();
+  document.write('<scr' + 'ipt src="axbrief-data.js?v=' + v + '"><\/scr' + 'ipt>');
+  document.write('<scr' + 'ipt type="text/babel" src="axbrief-app-large.jsx?v=' + v + '"><\/scr' + 'ipt>');
+})();</script>
+
+<script type="text/babel">
+  const { ThemedPage } = window;
+  ReactDOM.createRoot(document.getElementById('root')).render(<ThemedPage themeKey="zen" />);
+</script>
+</body>
+</html>

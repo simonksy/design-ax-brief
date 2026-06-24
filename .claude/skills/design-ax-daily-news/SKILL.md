@@ -79,8 +79,10 @@ cards in the deck.
 
 After publishing, post to chat in Korean 존댓말, short:
 "오늘 신선 카드 N개 생성(창: 직전 72h, 게재시각 기준) + 5선" with the chosen
-headlines, each linked to its source URL. Note any shortfall. Then give the user the
-HTML preview URL `http://localhost:8765/Design%20AX%20Brief.html` (served over HTTP
-by the publisher; file:// will not render).
+headlines, each linked to its source URL. Note any shortfall. Then give the user BOTH
+HTML preview URLs (same data, two designs; served over HTTP by the publisher — file://
+will not render):
+- small/carousel: `http://localhost:8765/Design%20AX%20Brief.html`
+- large card: `http://localhost:8765/Design%20AX%20Brief%20(Large%20Card).html`
 
 This skill supersedes the older `~/Documents/Claude/Scheduled/design-ax-daily-news/SKILL.md`.
