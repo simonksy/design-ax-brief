@@ -16,7 +16,7 @@ NOTE — two designs, one data file. The same generated `axbrief-data.js` (+ the
 You regenerate the data ONCE; both pages reflect it. There is no per-design build
 step — the large hero slideshow reads the same per-card images from the data.
 
-Steps (run from the repo root /Users/leopard/design-ax-brief):
+Steps (run from the repo root /Users/leopard/Projects/design-ax-brief):
 1. Back up the current live file:
    `mkdir -p pipeline/runs/<date> && cp axbrief-data.js pipeline/runs/<date>/axbrief-data.prev.js`
 2. Roll the source of truth:
@@ -28,7 +28,7 @@ Steps (run from the repo root /Users/leopard/design-ax-brief):
 5. Verify render over HTTP (NOT file://, which Babel/XHR blocks via CORS). Start a
    static server from the repo root in the background and keep it running for the
    user's preview:
-   `python3 -m http.server 8765 --directory /Users/leopard/design-ax-brief >/dev/null 2>&1 &`
+   `python3 -m http.server 8765 --directory /Users/leopard/Projects/design-ax-brief >/dev/null 2>&1 &`
    Open BOTH pages with the browse skill and confirm each renders today's data:
    - small: `http://localhost:8765/Design%20AX%20Brief.html` — hero cards + the
      rolled weekly deck. Screenshot → `pipeline/runs/<date>/render.png`.

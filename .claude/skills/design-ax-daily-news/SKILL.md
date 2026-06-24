@@ -4,7 +4,7 @@ description: Run the 6-agent Design AX daily news pipeline — collect, curate, 
 ---
 
 Generate today's Design AX Brief by running six subagents in sequence from the
-repo root `/Users/leopard/design-ax-brief`. Determine `now_iso` = current UTC
+repo root `/Users/leopard/Projects/design-ax-brief`. Determine `now_iso` = current UTC
 time; `date` = its calendar date.
 
 Run STRICTLY in order, and after each agent verify its artifact exists and is
