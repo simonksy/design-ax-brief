@@ -49,6 +49,9 @@
   var v = Date.now();
   document.write('<scr' + 'ipt src="axbrief-data.js?v=' + v + '"><\/scr' + 'ipt>');
   document.write('<scr' + 'ipt type="text/babel" src="axbrief-app.jsx?v=' + v + '"><\/scr' + 'ipt>');
+  // Coffee → QR donation button (shared widget). Loaded here via the same write
+  // stream as data/app — a trailing static <script> can be dropped by the parser.
+  document.write('<scr' + 'ipt src="coffee-button.js?v=' + v + '"><\/scr' + 'ipt>');
 })();</script>
 
 <script type="text/babel">
