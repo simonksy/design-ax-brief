@@ -71,9 +71,11 @@ if (!document.getElementById('ax-styles')) {
      width:clamp(290px,31vw,460px);max-width:38%;max-height:62%;
      display:flex;flex-direction:column;justify-content:flex-end;overflow:hidden;
      padding:clamp(20px,1.7vw,28px) clamp(22px,1.9vw,30px);border-radius:20px;
-     background:rgba(14,12,11,.46);border:1px solid rgba(255,255,255,.16);
+     background:rgba(14,12,11,.56);border:1px solid rgba(255,255,255,.16);
      box-shadow:0 24px 70px -28px rgba(0,0,0,.6);
-     -webkit-backdrop-filter:blur(20px) saturate(1.12);backdrop-filter:blur(20px) saturate(1.12);}
+     /* lighter backdrop blur (was 20px) — cheaper to repaint while scrolling; the
+        darker background keeps text contrast without leaning on a heavy frost. */
+     -webkit-backdrop-filter:blur(10px) saturate(1.1);backdrop-filter:blur(10px) saturate(1.1);}
   .fcard-overlay .ax-eyebrow,.fcard-overlay .ax-hl,.fcard-overlay .ax-body,.fcard-overlay .ax-src{
      text-shadow:0 1px 3px rgba(0,0,0,.5);}
   .fcard-hl{font-size:clamp(26px,2.7vw,46px);line-height:1.1;}
@@ -357,7 +359,7 @@ function CardScene({ it, active }) {
   return (
     <div className={'fcard-media' + (img ? ' has-img' : '')}>
       <MediaScene item={it} active={active} bold={false} />
-      {img && <img className="fcard-img" src={img} alt="" loading="lazy"
+      {img && <img className="fcard-img" src={img} alt="" loading="eager" decoding="async" fetchpriority="high"
         onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
     </div>
   );
@@ -400,6 +402,16 @@ function StackSection({ items, t }) {
   const wrapRef = useRef();
   const dims = useRef([]);
   const last = useRef([]);
+  // Preload + decode all card images up front (only 5) so cards 4–5 don't pop in
+  // half-rendered when scrolled to — these are large photos that decode slowly.
+  useEffect(() => {
+    items.forEach((it) => {
+      if (!it.image) return;
+      const im = new Image();
+      im.src = it.image;
+      if (im.decode) im.decode().catch(() => {});
+    });
+  }, [items]);
   useEffect(() => {
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
     if (window.matchMedia('(max-width:860px)').matches) return;
