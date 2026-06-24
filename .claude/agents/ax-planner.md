@@ -34,7 +34,13 @@ Steps:
 4. Build a search plan covering ALL categories in sources.json, with 2–4 concrete
    English/Korean queries per category, drawn from the working+expanded set and aimed
    at NEWS useful to working designers' AI transformation (releases, features,
-   workflow shifts, case studies). Keep the TOTAL to ~20–28 queries.
+   workflow shifts, case studies). Keep the TOTAL to ~24–32 queries (the funnel is
+   intentionally wide — more candidates upstream, diversity is enforced downstream).
+   For the `social` category, scope queries to its channels/handles: build
+   `site:youtube.com <channel> AI design 2026` style queries from a rotating subset of
+   `youtube_channels`, and `site:instagram.com <handle>` queries from `instagram_handles`
+   (IG is best-effort — include 1–2, don't over-invest). Rotate which creators you
+   emphasize by date, same as the keyword rotation.
 5. Each category's `allowed_domains` = the sources.json domains for that category
    plus any obvious authoritative source. You may add 1 extra "wildcard" trending query.
 6. Write `pipeline/keywords.json` exactly in the README schema (record today's working

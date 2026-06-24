@@ -1,12 +1,16 @@
 {
   "categories": [
-    {"category":"figma","label":"Figma","motif":"frame","accent":"#0070f3","allowed_domains":["figma.com","logrocket.com","uxdesign.cc","dev.to"]},
-    {"category":"render","label":"KeyShot","motif":"sphere","accent":"#f5a623","allowed_domains":["cgchannel.com","keyshot.com"]},
-    {"category":"cad","label":"Text-to-CAD","motif":"cube","accent":"#7928ca","allowed_domains":["engineering.com","getleo.ai"]},
-    {"category":"tokens","label":"Design Tokens","motif":"swatch","accent":"#2ec5c5","allowed_domains":["parallelhq.com","mindstudio.ai"]},
-    {"category":"vr","label":"VR Prototype","motif":"headset","accent":"#eb367f","allowed_domains":["sgwdesignworks.com","boston-engineering.com"]},
-    {"category":"workflow","label":"AI Workflow","motif":"frame","accent":"#ff5a4d","allowed_domains":["orq.ai","fastcompany.com","cio.com","eleken.co","palettt.com"]}
+    {"category":"figma","label":"Figma","motif":"frame","accent":"#0070f3","allowed_domains":["figma.com","vercel.com","builder.io","logrocket.com","uxdesign.cc","dev.to","creativebloq.com"]},
+    {"category":"render","label":"KeyShot","motif":"sphere","accent":"#f5a623","allowed_domains":["cgchannel.com","keyshot.com","80.lv","fxguide.com","nvidia.com","engadget.com"]},
+    {"category":"cad","label":"Text-to-CAD","motif":"cube","accent":"#7928ca","allowed_domains":["engineering.com","getleo.ai","autodesk.com","all3dp.com","develop3d.com"]},
+    {"category":"tokens","label":"Design Tokens","motif":"swatch","accent":"#2ec5c5","allowed_domains":["parallelhq.com","mindstudio.ai","smashingmagazine.com","css-tricks.com","dev.to"]},
+    {"category":"vr","label":"VR Prototype","motif":"headset","accent":"#eb367f","allowed_domains":["sgwdesignworks.com","boston-engineering.com","roadtovr.com","uploadvr.com","apple.com"]},
+    {"category":"workflow","label":"AI Workflow","motif":"frame","accent":"#ff5a4d","allowed_domains":["orq.ai","fastcompany.com","cio.com","eleken.co","palettt.com","theverge.com","venturebeat.com"]},
+    {"category":"social","label":"Social","motif":"frame","accent":"#ff2d55","allowed_domains":["youtube.com","youtu.be","instagram.com"],
+      "youtube_channels":["Figma","Vercel","Adobe","Microsoft Design","Google Design","Matt Wolfe","The AI Advantage","Fireship","DesignCourse","Jesse Showalter","AI Jason","Two Minute Papers","Theo - t3.gg"],
+      "instagram_handles":["figma","vercel","adobe","midjourney","runway","designspiration","awwwards"],
+      "_note":"Social is best-effort. YouTube watch pages usually expose JSON-LD uploadDate/datePublished (verifiable). Instagram is mostly login-walled, so IG yield is low and may need the browse skill. Never block the pipeline on social — if nothing verifiable is found, just contribute fewer candidates."}
   ],
-  "palette": ["#0070f3","#f5a623","#7928ca","#2ec5c5","#eb367f","#ff5a4d","#3b6bff","#171717"],
+  "palette": ["#0070f3","#f5a623","#7928ca","#2ec5c5","#eb367f","#ff5a4d","#3b6bff","#ff2d55","#171717"],
   "motifs": ["frame","sphere","cube","swatch","headset"]
 }

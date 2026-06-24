@@ -23,19 +23,31 @@ is fresh; once a story is collected on day N it must never reappear on a later d
    sources a distinct in-article image for each, so identical site-wide OG banners do
    not cause visible repeats.) Hard constraint: the final 5 must never contain two
    cards with the same URL.
-2. Walk the candidate pool (~15–20 items) in priority order and DROP any candidate
-   that matches an already-published story (rules above). Also drop within-pool
-   duplicates of the same story (keep the single strongest source/article).
+2. Walk the candidate pool (now ~24–32 items — a deliberately WIDE funnel) in priority
+   order and DROP any candidate that matches an already-published story (rules above).
+   Also drop within-pool duplicates of the same story (keep the single strongest
+   source/article).
 3. BACKFILL: after dropping, keep selecting down the ranked pool so a dropped item is
    replaced by the next-best surviving candidate — still aim for 5 distinct, never-
    before-seen stories. Only fall short of 5 if the pool genuinely has no more unique
    fresh items (never pad, never re-use a dropped story).
 Result: each distinct story appears on exactly one date (earliest-wins).
 
+FINAL-5 DIVERSITY GUARD (applies when YOU pick — i.e. the user deferred). The
+collection funnel is wide and per-outlet cap there is loose (≤3), so tighten on the
+way out: among the final 5, allow **at most 2 cards from any single outlet/domain**
+and aim for **≥3 distinct outlets** and a spread of categories (max 1–2 per category).
+If your top-scored 5 violate this, swap the lowest-scoring offender for the next-best
+candidate from an under-represented outlet/category. (When the user hand-picks the 5,
+respect their picks — only the dedup backstop overrides them, not this guard.)
+
 The user makes the final selection. The orchestrator passes you the user's chosen
 items in your prompt (by candidate number and/or URL).
 - If a user selection is provided, use EXACTLY those items as the picks, in the
-  user's order. Do not substitute, add, or drop items.
+  user's order — with ONE exception: the DEDUP rule above still applies. If a
+  hand-picked item duplicates an already-published story (URL or content), DROP it
+  and report the shortfall; never silently publish a duplicate just because the user
+  picked it. Do not otherwise substitute or add items.
 - If NO user selection is provided (the user deferred), fall back to scoring and
   pick the top 5 yourself on:
   - Actionability — does it change how a designer works tomorrow?

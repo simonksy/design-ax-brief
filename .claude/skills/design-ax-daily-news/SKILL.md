@@ -21,21 +21,42 @@ to use just the pool). Pass any user-supplied keywords to ax-planner as extra se
    Run your steps." (ax-planner reads `pipeline/keyword_pool.json`, always uses its
    `core`, and rotates a subset of the `pool` by date.) → `pipeline/keywords.json`
 2. **ax-librarian** — "now_iso = <now_iso>. Run your steps." → `pipeline/candidates.json`
-   (aim for ~15–20 fresh candidates)
-3. **DECISION GATE — user picks the final 5.** Read `pipeline/candidates.json` and
-   present the full candidate list to the user as a numbered list (each line: number,
-   source, category, published date, headline/excerpt, and source URL). Ask the user
-   in Korean 존댓말 which items to publish (up to 5). Wait for their reply. If the
-   user defers ("알아서"/"recommend"/no clear pick), let ax-curator choose.
-4. **ax-curator** — "Run your steps. User selection: <chosen numbers/URLs, or 'none —
-   you choose'>." → `pipeline/selected.json`
-5. **ax-writer** — "Run your steps." → `pipeline/cards.json`
-6. **ax-media** — "Run your steps." → `pipeline/media.json`
-7. **ax-publisher** — "Today is <date>. Run your steps." → `axbrief-data.js` + archive
+   (WIDE funnel: aim for ~24–32 fresh candidates across ≥6 outlets, including the
+   `social` category — YouTube is verifiable via JSON-LD uploadDate; Instagram is
+   best-effort and may yield nothing. Collection per-source cap is ≤3; the final 5 are
+   tightened to ≤2 per outlet downstream.)
+3. **DEDUP PRE-FILTER (run BEFORE the decision gate).** Run
+   `python3 pipeline/dedup_candidates.py` — it reads `pipeline/candidates.json` +
+   `pipeline/news_data.json`, drops every candidate whose URL was already published in
+   the last 5 days, and writes `pipeline/candidates_filtered.json`. This is the
+   deterministic URL half of the dedup rule, applied at the candidate stage so the user
+   never sees (or picks) an already-published story. Then scan the SURVIVORS for
+   content-level duplicates the URL check can't catch (same event via a different
+   outlet/headline, same-source content-hub posts) and set those aside too, noting why.
+4. **DECISION GATE — user picks the final 5.** Present only the de-duplicated
+   candidates (`candidates_filtered.json`, minus any content-dupes) to the user as a
+   numbered list (each line: number, source, category, published date,
+   headline/excerpt, and source URL). State how many were dropped as already-published.
+   Ask the user in Korean 존댓말 which items to publish (up to 5). Wait for their reply.
+   If the user defers ("알아서"/"recommend"/no clear pick), let ax-curator choose.
+5. **ax-curator** — "Run your steps. User selection: <chosen numbers/URLs, or 'none —
+   you choose'>." → `pipeline/selected.json` (ax-curator re-applies the full URL+CONTENT
+   dedup as a backstop, EVEN when a user selection is provided — if a hand-picked item
+   is a duplicate it is dropped and the shortfall reported, never silently published.)
+6. **ax-writer** — "Run your steps." → `pipeline/cards.json`
+7. **ax-media** — "Run your steps." → `pipeline/media.json`
+8. **ax-publisher** — "Today is <date>. Run your steps." → `axbrief-data.js` + archive
 
 Freshness window: ax-librarian applies a flat **72h** window for every day (Mon–Fri)
 via `pipeline/freshness.py`. Do NOT pad with stale items — if fewer than 5 fresh
 cards exist, publish what there is.
+
+Volume vs diversity (완급): collect WIDE, publish DIVERSE. ax-librarian casts a wide
+net (~24–32 candidates, expanded `allowed_domains` in `sources.json`, the `social`
+category, collection cap ≤3 per outlet) so the pool is deep; ax-curator then tightens
+the FINAL 5 (≤2 per outlet, ≥3 distinct outlets, 1–2 per category) so what publishes
+stays varied. Drop general AI-business noise (funding, compute deals, layoffs, exec
+moves) at collection time — keep only items with a real design/creative/workflow hook.
 
 No duplicate news across dates (drop + backfill): each distinct story appears on
 exactly one date (earliest-wins). Duplicates are judged by URL + CONTENT, NOT by
