@@ -1,66 +1,66 @@
 {
   "today": {
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "cards": [
       {
-        "id": "unity65",
+        "id": "arnold-splat",
         "eyebrow": "AI NEWS",
-        "headline": "Unity 6.5, 렌더 노이즈 제거를\nAI 방식으로 교체하다",
-        "body": "Unity 6.5가 OptiX 디노이징을 하드웨어에 구애받지 않는 OIDN AI 방식으로 바꿨다. Shader와 VFX Graph도 함께 손봤고, 기존 빌트인 렌더 파이프라인은 단계적으로 정리된다.",
+        "headline": "Arnold 7.5.2,\n가우시안 스플랫을 렌더에 들이다",
+        "body": "Autodesk가 Arnold 7.5.2에서 3D 가우시안 스플랫 렌더링을 지원한다. 가져온 스플랫을 리라이팅해 렌더할 수 있고, 툰 셰이딩과 USD 워크플로도 손봤다. 스캔 에셋을 비주얼 작업에 바로 끌어오는 길이 열린다.",
         "tool": "KeyShot",
         "source": "CG Channel",
-        "url": "https://www.cgchannel.com/2026/06/unity-releases-unity-6-5-discover-5-key-features-for-cg-artists/",
+        "url": "https://www.cgchannel.com/2026/06/autodesk-releases-arnold-7-5-2-with-support-for-gaussian-splatting/",
         "accent": "#f5a623",
         "motif": "sphere",
-        "image": "pipeline/media/unity65.jpg"
+        "image": "pipeline/media/arnold-splat.jpg"
       },
       {
-        "id": "deepmind-a24",
+        "id": "claude-design-vercel",
         "eyebrow": "AI NEWS",
-        "headline": "딥마인드가 A24와\nAI 영화 도구를 만든다",
-        "body": "구글 딥마인드가 영화사 A24에 7,500만 달러를 투자해 AI 영화 제작 도구를 함께 개발한다. 첫 적용은 감독을 위한 스토리보드 자동 생성으로, 콘셉트와 비주얼 작업의 출발점을 바꾼다.",
+        "headline": "Claude Design에서\n바로 Vercel로 배포한다",
+        "body": "Vercel이 Claude Design의 전송 대상에 추가됐다. 디자인을 마치면 캔버스를 떠나지 않고 그대로 보내 라이브 URL을 돌려받는다. 디자인-코드-배포 루프가 한자리에서 닫힌다.",
+        "tool": "Figma",
+        "source": "Vercel",
+        "url": "https://vercel.com/changelog/claude-design-and-vercel",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/claude-design-vercel.png"
+      },
+      {
+        "id": "alibaba-video",
+        "eyebrow": "AI NEWS",
+        "headline": "알리바바 영상 모델,\n글로벌 2위로 올라서다",
+        "body": "알리바바의 HappyHorse가 생성 영상 순위 2위에 올랐다. OpenAI의 Sora가 정리되고 ByteDance의 Seedance가 주춤한 사이 판도가 바뀌었다. 어떤 모델에 작업을 걸지 다시 가늠해야 한다.",
         "tool": "KeyShot",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+        "source": "VentureBeat",
+        "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
         "accent": "#3b6bff",
         "motif": "sphere",
-        "image": "pipeline/media/deepmind-a24.jpg"
+        "image": "pipeline/media/alibaba-video.webp"
       },
       {
-        "id": "openai-getty",
+        "id": "loopy-ai",
         "eyebrow": "AI NEWS",
-        "headline": "ChatGPT 안에\n게티 라이선스 이미지가 들어온다",
-        "body": "OpenAI가 게티이미지와 다년 계약을 맺고 라이선스 비주얼을 ChatGPT와 검색에 직접 노출한다. 생성 작업 흐름 안에서 이미지를 찾고 권리를 다루는 방식이 달라진다.",
+        "headline": "루프를 도는 AI,\n워크플로의 전제를 흔든다",
+        "body": "재귀적이고 자기참조적인 에이전트 동작이 늘고 있다. 제품과 워크플로를 거대 모델 위에 어떻게 쌓을지 그 방식이 다시 짜인다. 한 번 출력으로 끝나던 전제부터 바뀐다.",
         "tool": "AI Workflow",
-        "source": "Engadget",
-        "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
         "accent": "#ff5a4d",
         "motif": "frame",
-        "image": "pipeline/media/openai-getty.jpg"
+        "image": "pipeline/media/loopy-ai.jpg"
       },
       {
-        "id": "claude-id",
+        "id": "patch-the-planet",
         "eyebrow": "AI NEWS",
-        "headline": "Claude가 이제\n신원 확인을 요구할 수 있다",
-        "body": "Anthropic이 일부 Claude 사용에 신원 인증을 도입한다. 규제가 있는 디자인과 프로덕트 워크플로에서 팀이 이 어시스턴트를 도입하는 방식에 영향을 주는 거버넌스 변화다.",
-        "tool": "Design Tokens",
+        "headline": "OpenAI, 오픈소스 버그를\nAI로 잡는 프로젝트",
+        "body": "OpenAI가 Trail of Bits와 함께 'Patch the Planet'을 시작했다. AI 도구로 오픈소스의 보안 취약점을 찾아 메인테이너의 수정을 돕는다. 디자이너가 기대는 도구 생태계의 바닥이 단단해진다.",
+        "tool": "AI Workflow",
         "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-        "accent": "#2ec5c5",
-        "motif": "swatch",
-        "image": "pipeline/media/claude-id.jpg"
-      },
-      {
-        "id": "ios27-ai",
-        "eyebrow": "AI NEWS",
-        "headline": "iOS 27, 시리 너머의\n온디바이스 AI가 온다",
-        "body": "iOS 27에 제미나이 기반 시리와 비주얼 인텔리전스 등 온디바이스 AI 기능이 들어온다. 디자이너가 프로토타이핑하는 모바일 인터랙션의 전제가 바뀐다.",
-        "tool": "VR Prototype",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-        "accent": "#eb367f",
-        "motif": "headset",
-        "image": "pipeline/media/ios27-ai.jpg"
+        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "image": "pipeline/media/patch-the-planet.jpg"
       }
     ]
   },
@@ -236,6 +236,51 @@
           "url": "https://www.cgchannel.com/2026/06/10-things-cg-artists-need-to-know-about-unreal-engine-6/",
           "accent": "#f5a623",
           "image": "pipeline/media/ue6-mcp.jpg"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "cards": [
+        {
+          "tool": "KeyShot",
+          "headline": "Unity 6.5, 렌더 노이즈 제거를 AI 방식으로 교체하다",
+          "source": "CG Channel",
+          "url": "https://www.cgchannel.com/2026/06/unity-releases-unity-6-5-discover-5-key-features-for-cg-artists/",
+          "accent": "#f5a623",
+          "image": "pipeline/media/unity65.jpg"
+        },
+        {
+          "tool": "KeyShot",
+          "headline": "딥마인드가 A24와 AI 영화 도구를 만든다",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "accent": "#3b6bff",
+          "image": "pipeline/media/deepmind-a24.jpg"
+        },
+        {
+          "tool": "AI Workflow",
+          "headline": "ChatGPT 안에 게티 라이선스 이미지가 들어온다",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
+          "accent": "#ff5a4d",
+          "image": "pipeline/media/openai-getty.jpg"
+        },
+        {
+          "tool": "Design Tokens",
+          "headline": "Claude가 이제 신원 확인을 요구할 수 있다",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+          "accent": "#2ec5c5",
+          "image": "pipeline/media/claude-id.jpg"
+        },
+        {
+          "tool": "VR Prototype",
+          "headline": "iOS 27, 시리 너머의 온디바이스 AI가 온다",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "accent": "#eb367f",
+          "image": "pipeline/media/ios27-ai.jpg"
         }
       ]
     }
