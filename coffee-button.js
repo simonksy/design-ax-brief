@@ -36,20 +36,21 @@
         '  transition:left .5s cubic-bezier(.34,1.56,.64,1),right .5s cubic-bezier(.34,1.56,.64,1),',
         '             top .5s cubic-bezier(.34,1.56,.64,1),bottom .5s cubic-bezier(.34,1.56,.64,1),',
         '             border-radius .4s ease,background .25s ease;}',
-        '#ax-coffee-btn:hover,#ax-coffee-btn:focus-within{width:300px;height:374px;border-radius:24px;',
+        '#ax-coffee-btn:hover{width:300px;height:374px;border-radius:24px;',
         '  box-shadow:0 28px 64px -16px rgba(40,28,8,.45),0 4px 12px rgba(0,0,0,.16);}',
-        '#ax-coffee-btn:hover #ax-coffee-coffee,#ax-coffee-btn:focus-within #ax-coffee-coffee{opacity:0;}',
-        '#ax-coffee-btn:hover #ax-coffee-qr,#ax-coffee-btn:focus-within #ax-coffee-qr{opacity:1;}',
-        '#ax-coffee-btn:hover #ax-coffee-link,#ax-coffee-btn:focus-within #ax-coffee-link{',
-        '  left:15%;right:15%;top:81.5%;bottom:9.5%;border-radius:7px;}',
+        '#ax-coffee-btn:hover #ax-coffee-coffee{opacity:0;}',
+        '#ax-coffee-btn:hover #ax-coffee-qr{opacity:1;}',
+        '#ax-coffee-btn:hover #ax-coffee-link{left:15%;right:15%;top:81.5%;bottom:9.5%;border-radius:7px;}',
         '#ax-coffee-btn:hover #ax-coffee-link:hover{background:rgba(120,80,255,.12);}',
+        // Pulse ring — concentric with the collapsed coffee (same 62px center), and
+        // shown ONLY while fully collapsed (JS toggles .ax-idle). It is removed during
+        // the expand/shrink transition so the wave never floats around a resizing card.
         '@media (prefers-reduced-motion: no-preference){',
-        '  #ax-coffee-wrap::after{content:"";position:absolute;right:0;bottom:0;width:62px;height:62px;',
+        '  #ax-coffee-wrap.ax-idle::after{content:"";position:absolute;right:0;bottom:0;width:62px;height:62px;',
         '    border-radius:50%;pointer-events:none;box-shadow:0 0 0 0 rgba(245,197,24,.55);',
-        '    animation:axCoffeePulse 2.6s ease-out infinite;}',
-        '  #ax-coffee-wrap:hover::after{animation:none;box-shadow:none;}}',
+        '    animation:axCoffeePulse 2.6s ease-out infinite;}}',
         '@keyframes axCoffeePulse{0%{box-shadow:0 0 0 0 rgba(245,197,24,.5)}',
-        '  70%{box-shadow:0 0 0 16px rgba(245,197,24,0)}100%{box-shadow:0 0 0 0 rgba(245,197,24,0)}}',
+        '  70%{box-shadow:0 0 0 14px rgba(245,197,24,0)}100%{box-shadow:0 0 0 0 rgba(245,197,24,0)}}',
         '@media (max-width:860px){#ax-coffee-btn:hover,#ax-coffee-btn:focus-within{width:262px;height:327px;}}'
       ].join('\n');
       document.head.appendChild(s);
@@ -84,6 +85,22 @@
     btn.appendChild(link);
     wrap.appendChild(btn);
     document.body.appendChild(wrap);
+
+    // Pulse only while fully collapsed: kill it on hover (during expand) and keep it
+    // off through the ~500ms shrink transition, restoring it once truly settled —
+    // so the wave is never left orbiting a half-sized card.
+    wrap.classList.add('ax-idle');
+    var idleTimer = 0;
+    btn.addEventListener('mouseenter', function () {
+      clearTimeout(idleTimer);
+      wrap.classList.remove('ax-idle');
+    });
+    btn.addEventListener('mouseleave', function () {
+      clearTimeout(idleTimer);
+      idleTimer = setTimeout(function () {
+        if (!btn.matches(':hover')) wrap.classList.add('ax-idle');
+      }, 560);
+    });
   }
 
   if (document.readyState === 'loading') {
