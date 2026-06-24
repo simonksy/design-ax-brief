@@ -1,10 +1,15 @@
 # Design AX Brief
 
-![Design AX Brief 랜딩 페이지](docs/landing.gif)
+> **Daily Design × AI News Agent** — 하나의 뉴스 수집 → 두 가지 디자인으로 동시 발행
 
-> **Daily Design × AI News Agent**
+<table>
+<tr>
+<td width="50%" align="center"><b>Small Card</b> · 캐러셀<br><img src="docs/small-card.gif" alt="Design AX Brief — Small Card"></td>
+<td width="50%" align="center"><b>Large Card</b> · 스크롤 확장<br><img src="docs/large-card.gif" alt="Design AX Brief — Large Card"></td>
+</tr>
+</table>
 
-디자인 조직의 AI 전환(AX)을 위한, 매일 자동으로 발행되는 뉴스 브리프. 6개의 AI 서브에이전트가 매일 디자인×AI 뉴스 5장을 수집·검증·선별·작성·시각화·발행해 하나의 정적 웹페이지로 만들어 줍니다.
+디자인 조직의 AI 전환(AX)을 위한, 매일 자동으로 발행되는 뉴스 브리프. 6개의 AI 서브에이전트가 매일 디자인×AI 뉴스 5장을 수집·검증·선별·작성·시각화·발행해 하나의 정적 웹페이지로 만들어 줍니다. **수집 규칙은 한 곳에서 관리되고, small / large 두 디자인이 같은 데이터로 함께 발행됩니다.**
 
 📄 인쇄용 가이드: [`docs/design-ax-brief-guide.ko.pdf`](docs/design-ax-brief-guide.ko.pdf) · [English](docs/design-ax-brief-guide.pdf)
 
