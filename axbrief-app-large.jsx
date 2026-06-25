@@ -41,6 +41,15 @@ if (!document.getElementById('ax-styles')) {
   @keyframes axfade{0%,12%{opacity:0;transform:translateY(5px)}28%,72%{opacity:1;transform:none}90%,100%{opacity:0;transform:translateY(-3px)}}
   @keyframes axpulse{0%,100%{opacity:.3}50%{opacity:1}}
 
+  /* Phones overheat from continuous GPU compositing — kill the feTurbulence grain,
+     every infinite drift/spin/pulse/bob animation, and (in JS) the full-screen
+     blurred+blended ThemeBackdrop and extra video decoders. */
+  @media (max-width:860px){
+    .ax-grain{display:none !important;}
+    .ax-scene *{animation:none !important;}
+    .ax-blob,.ax-spin,.ax-draw,.ax-sweep,.ax-hint-arrow{animation:none !important;}
+  }
+
   .ax-hl{font-family:'Pretendard',var(--font-sans);white-space:pre-line;font-weight:600;
      letter-spacing:-0.025em;text-wrap:balance;margin:0;word-break:keep-all;overflow-wrap:break-word;}
   .ax-body{font-family:'Pretendard',var(--font-sans);font-weight:400;letter-spacing:-0.01em;margin:0;
@@ -361,15 +370,17 @@ function axEnrich(item) {
    active hero card. Plays only while the card is in view; pauses + rewinds when
    it scrolls away. Past-day archive mini-cards never carry `video`, so they show
    the poster still instead. */
-function FocusVideo({ it, active }) {
+function FocusVideo({ it }) {
+  // Mounted only while its card is the active/in-view one (see CardScene). iOS caps
+  // concurrent video decoders, so we keep exactly one alive at a time.
   const ref = React.useRef(null);
   React.useEffect(() => {
     const v = ref.current; if (!v) return;
-    if (active) { const p = v.play(); if (p && p.catch) p.catch(() => {}); }
-    else { v.pause(); try { v.currentTime = 0; } catch (e) {} }
-  }, [active]);
+    v.muted = true;                                   // iOS autoplay needs the property
+    const p = v.play(); if (p && p.catch) p.catch(() => {});
+  }, []);
   return (
-    <video ref={ref} className="fcard-img" muted loop playsInline preload="metadata"
+    <video ref={ref} className="fcard-img" muted loop playsInline autoPlay preload="auto"
       poster={it.poster || it.image || undefined}
       onError={(e) => { e.currentTarget.style.display = 'none'; }}>
       {it.webm && <source src={it.webm} type="video/webm" />}
@@ -387,7 +398,10 @@ function CardScene({ it, active }) {
          every frame, so skip them entirely for media cards. */}
       {!hasMedia && <MediaScene item={it} active={active} bold={false} />}
       {it.video
-        ? <FocusVideo it={it} active={active} />
+        ? (active
+            ? <FocusVideo it={it} />
+            : <img className="fcard-img" src={it.poster || img} alt="" decoding="async"
+                onError={(e) => { e.currentTarget.style.display = 'none'; }} />)
         : img && <img className="fcard-img" src={img} alt="" loading="eager" decoding="async" fetchpriority="high"
             onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
     </div>
@@ -798,8 +812,22 @@ function HeroExpand({ t }) {
   );
 }
 
+function useIsMobile(maxW) {
+  const q = `(max-width:${maxW}px)`;
+  const [m, setM] = useState(() => typeof window !== 'undefined' && window.matchMedia(q).matches);
+  useEffect(() => {
+    const mq = window.matchMedia(q);
+    const on = () => setM(mq.matches);
+    on();
+    if (mq.addEventListener) { mq.addEventListener('change', on); return () => mq.removeEventListener('change', on); }
+    mq.addListener(on); return () => mq.removeListener(on);
+  }, [q]);
+  return m;
+}
+
 function ThemedPage({ themeKey }) {
   const t = THEMES[themeKey] || THEMES.zen;
+  const isMobile = useIsMobile(860);
   const [modal, setModal] = useState(null);
   const openCard = (day, ci) => setModal(day.cards[ci]);
 
@@ -808,7 +836,10 @@ function ThemedPage({ themeKey }) {
      lead the page without scroll-index conflicts; sticky cards still pin/stack.) */
   return (
     <div style={{ position: 'relative', minHeight: '100vh', background: t.briefBg, boxSizing: 'border-box' }}>
-      <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>
+      {/* Desktop only — the animated full-screen blurred/blended backdrop is the
+          biggest continuous GPU cost and overheats phones. Mobile uses the cheap
+          static briefBg gradient on the root. */}
+      {!isMobile && <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>}
       <main style={{ position: 'relative', zIndex: 1 }}>
         <HeroExpand t={t} />
         <StackSection items={window.AX_NEWS} t={t} />
