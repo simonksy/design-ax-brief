@@ -68,24 +68,28 @@ if (!document.getElementById('ax-styles')) {
   .ax-heroin{animation:axheroin .6s cubic-bezier(.2,.8,.25,1);}
   /* ---- responsive shell ---- */
   .ax-shell{position:relative;z-index:1;max-width:1120px;margin:0 auto;padding:34px 40px 90px;box-sizing:border-box;}
-  .ax-hero-wrap{position:relative;width:480px;max-width:100%;height:680px;margin:8px auto 0;}
+  .ax-hero-wrap{position:relative;width:480px;max-width:100%;height:680px;margin:6px auto 0;}
   @media (max-width:760px){
-    .ax-shell{padding:18px 14px 60px;}
-    .ax-hero-wrap{height:min(680px,calc(100svh - 142px));}
+    .ax-shell{padding:16px 12px 56px;}
+    /* content-driven height so the card NEVER clips its footer/source link */
+    .ax-hero-wrap{width:100%;height:auto;margin:2px auto 0;}
+    .ax-track{height:auto;align-items:flex-start;}
+    .ax-slide{height:auto;}
   }
-  /* ---- mobile filmstrip: one long horizontal swipe of all past cards, with
-     inline date dividers that flow in/out alongside their day's cards (replaces
-     the hover-driven fan-out timeline on narrow / touch screens) ---- */
-  .ax-strip{display:flex;align-items:stretch;gap:12px;overflow-x:auto;overflow-y:hidden;
-     scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;padding:6px 14px 20px;scrollbar-width:none;}
+  /* ---- mobile filmstrip: one long horizontal swipe of all past cards.
+     Chronological left->right (past -> yesterday); JS starts it scrolled to the
+     right so YESTERDAY shows first and you swipe left into the past. Each day is a
+     block with its date pinned (sticky) above that day's cards. ---- */
+  .ax-strip{display:flex;align-items:flex-start;gap:22px;overflow-x:auto;overflow-y:hidden;
+     -webkit-overflow-scrolling:touch;padding:4px 14px 18px;scrollbar-width:none;}
   .ax-strip::-webkit-scrollbar{display:none;}
-  .ax-strip>*{flex:0 0 auto;}
-  .ax-strip-card{scroll-snap-align:center;cursor:pointer;text-align:left;padding:0;
-     border-radius:14px;overflow:hidden;transition:transform .25s ease;}
-  .ax-strip-card:active{transform:scale(.97);}
-  .ax-strip-date{display:flex;flex-direction:column;align-items:center;justify-content:center;
-     padding:0 6px;position:relative;}
-  .ax-strip-date::before{content:"";position:absolute;left:-6px;top:14%;bottom:14%;width:1px;background:var(--ax-rule,rgba(120,90,70,.18));}
+  .ax-day-block{flex:0 0 auto;display:flex;flex-direction:column;}
+  .ax-strip-datehead{position:sticky;left:12px;align-self:flex-start;display:inline-flex;align-items:baseline;
+     gap:7px;margin-bottom:11px;padding:5px 12px;border-radius:100px;z-index:3;white-space:nowrap;}
+  .ax-day-cards{display:flex;gap:10px;}
+  .ax-strip-card{flex:0 0 auto;cursor:pointer;text-align:left;padding:0;border-radius:14px;overflow:hidden;
+     transition:transform .2s ease;}
+  .ax-strip-card:active{transform:scale(.96);}
   `;
   document.head.appendChild(s);
 }
@@ -324,25 +328,27 @@ function axEnrich(item) {
    LAYOUT A — Editorial, vertical, FULL-BLEED (frame lives on the
    carousel window so swiping never reveals corner gaps)
    ============================================================ */
-function LayoutEditorial({ item, index, total, active, t }) {
+function LayoutEditorial({ item, index, total, active, t, mobile }) {
   const it = axEnrich(item);
   return (
-    <div style={{ height: '100%', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
-      <div style={{ position: 'relative', flex: '0 0 auto', aspectRatio: '4 / 3' }}>
+    <div style={{ height: mobile ? 'auto' : '100%', display: 'flex', flexDirection: 'column', overflow: mobile ? 'visible' : 'hidden' }}>
+      <div style={{ position: 'relative', flex: '0 0 auto', aspectRatio: mobile ? '16 / 10' : '4 / 3' }}>
         <MediaScene item={it} active={active} bold={t.bold} />
       </div>
-      <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: '22px 26px 22px' }}>
+      <div style={{ flex: mobile ? '0 0 auto' : 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: mobile ? '16px 18px 18px' : '22px 26px 22px' }}>
         <Eyebrow item={it} index={index} total={total} t={t} />
-        <h2 className="ax-hl" style={{ fontSize: 28, lineHeight: 1.17, marginTop: 14, color: t.hl }}>{it.headline}</h2>
+        <h2 className="ax-hl" style={{ fontSize: mobile ? 21 : 28, lineHeight: 1.18, marginTop: mobile ? 10 : 14, color: t.hl }}>{it.headline}</h2>
         {/* wrapper is the flex item (blockified safely); the <p> stays a real
             -webkit-box so -webkit-line-clamp actually caps at 3 lines */}
-        <div style={{ flex: '0 0 auto', marginTop: 12 }}>
-          <p className="ax-body" style={{ fontSize: 15, lineHeight: 1.55, margin: 0, color: t.body,
+        <div style={{ flex: '0 0 auto', marginTop: mobile ? 9 : 12 }}>
+          <p className="ax-body" style={{ fontSize: mobile ? 14 : 15, lineHeight: 1.55, margin: 0, color: t.body,
             display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden',
             maxHeight: 'calc(1.55em * 3)' }}>{it.body}</p>
         </div>
-        <div style={{ flex: 1, minHeight: 14 }} />
-        <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: 14, marginTop: 18 }}>
+        {/* desktop pushes the source line to the card bottom; on mobile the card is
+            content-height so the line simply follows the body (never clipped). */}
+        {!mobile && <div style={{ flex: 1, minHeight: 14 }} />}
+        <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18 }}>
           <SourceLine item={it} t={t} />
         </div>
       </div>
@@ -374,30 +380,39 @@ function NavButton({ dir, disabled, onClick, t }) {
    Frame (radius/border/shadow/glass) lives on the window so the
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
-function Carousel({ items, t, initialIndex = 0 }) {
+function Carousel({ items, t, initialIndex = 0, mobile }) {
   const [idx, setIdx] = useState(initialIndex);
+  // drag === null → not touching; a number → live finger offset in px (card follows it)
+  const [drag, setDrag] = useState(null);
   const startX = useRef(0); const dx = useRef(0);
   const total = items.length;
   const go = useCallback((i) => setIdx(Math.max(0, Math.min(total - 1, i))), [total]);
-  const onTouchStart = (e) => { startX.current = e.touches[0].clientX; dx.current = 0; };
-  const onTouchMove = (e) => { dx.current = e.touches[0].clientX - startX.current; };
-  const onTouchEnd = () => { if (Math.abs(dx.current) > 44) go(idx + (dx.current < 0 ? 1 : -1)); };
+  const onTouchStart = (e) => { startX.current = e.touches[0].clientX; dx.current = 0; setDrag(0); };
+  const onTouchMove = (e) => {
+    let d = e.touches[0].clientX - startX.current;
+    if ((idx === 0 && d > 0) || (idx === total - 1 && d < 0)) d *= 0.3; // rubber-band at the ends
+    dx.current = d; setDrag(d);
+  };
+  const onTouchEnd = () => { if (Math.abs(dx.current) > 44) go(idx + (dx.current < 0 ? 1 : -1)); setDrag(null); };
+  const dragging = drag !== null;
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0 }}>
-      <div className="ax-heroin" style={{ flex: 1, minHeight: 0, overflow: 'hidden',
+    <div style={{ display: 'flex', flexDirection: 'column', height: mobile ? 'auto' : '100%', minHeight: 0 }}>
+      <div className="ax-heroin" style={{ flex: mobile ? '0 0 auto' : 1, minHeight: 0, overflow: 'hidden', touchAction: 'pan-y',
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
         background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}
         onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}>
-        <div className="ax-track" style={{ transform: `translateX(-${idx * 100}%)` }}>
+        <div className="ax-track" style={{
+          transform: `translateX(calc(${-idx * 100}% + ${dragging ? drag : 0}px))`,
+          transition: dragging ? 'none' : 'transform .5s cubic-bezier(.4,0,.2,1)' }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <LayoutEditorial item={it} index={i} total={total} active={i === idx} t={t} />
+              <LayoutEditorial item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
             </div>
           ))}
         </div>
       </div>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 16, paddingTop: 16 }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 16, paddingTop: mobile ? 12 : 16 }}>
         <NavButton dir="l" disabled={idx === 0} onClick={() => go(idx - 1)} t={t} />
         <div style={{ display: 'flex', gap: 7, alignItems: 'center' }}>
           {items.map((_, i) => (
@@ -473,19 +488,27 @@ function useMorphingText(texts) {
 
 function MorphingTitle({ texts, color, fontSize = 56, width = 360, height = 72 }) {
   const { text1Ref, text2Ref } = useMorphingText(texts);
+  // Render the filtered text at SS× the display size, then scale the result back
+  // down — this supersamples the SVG goo filter so it stays crisp on hi-DPI / mobile
+  // screens (filters otherwise rasterize at CSS resolution and look soft).
+  const SS = 2;
   const spanStyle = {
     position: 'absolute', left: 0, top: 0, display: 'inline-block',
     width: '100%', textAlign: 'center', whiteSpace: 'nowrap',
   };
   return (
-    <div style={{
-      position: 'relative', width, height, margin: '0 auto',
-      fontFamily: 'var(--font-sans)', fontWeight: 700, fontSize,
-      letterSpacing: '-0.04em', lineHeight: `${height}px`, color,
-      filter: 'url(#ax-threshold) blur(0.35px)',
-    }}>
-      <span ref={text1Ref} style={spanStyle} />
-      <span ref={text2Ref} style={spanStyle} />
+    <div style={{ position: 'relative', width, height, margin: '0 auto' }}>
+      <div style={{
+        position: 'absolute', left: 0, top: 0,
+        width: width * SS, height: height * SS,
+        transform: `scale(${1 / SS})`, transformOrigin: 'top left',
+        fontFamily: 'var(--font-sans)', fontWeight: 700, fontSize: fontSize * SS,
+        letterSpacing: '-0.04em', lineHeight: `${height * SS}px`, color,
+        filter: 'url(#ax-threshold) blur(0.7px)',
+      }}>
+        <span ref={text1Ref} style={spanStyle} />
+        <span ref={text2Ref} style={spanStyle} />
+      </div>
       <svg className="ax-hidden-svg" style={{ position: 'absolute', width: 0, height: 0 }}>
         <defs>
           <filter id="ax-threshold" x="-15%" y="-15%" width="130%" height="130%"
@@ -503,13 +526,14 @@ function MorphingTitle({ texts, color, fontSize = 56, width = 360, height = 72 }
 }
 
 /* ---- masthead ---- */
-function Masthead({ t }) {
+function Masthead({ t, mobile }) {
   const d = new Date();
   const ds = `${String(d.getFullYear()).slice(2)}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: 24 }}>
-      <MorphingTitle texts={['AX-it', 'DESIGN', 'NOW']} color={t.hl} />
-      <div className="ax-eyebrow" style={{ color: t.mute, marginTop: 8 }}>Daily Brief · {ds}</div>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 12 : 20 }}>
+      <MorphingTitle texts={['AX-it', 'DESIGN', 'NOW']} color={t.hl}
+        fontSize={mobile ? 42 : 56} width={mobile ? 300 : 360} height={mobile ? 56 : 72} />
+      <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 5 : 8 }}>Daily Brief · {ds}</div>
     </div>
   );
 }
@@ -661,65 +685,69 @@ function useIsMobile(maxW) {
   return m;
 }
 
-/* ---- StripDate: inline date divider that scrolls with the filmstrip ---- */
-function StripDate({ md, dow, isLast, t }) {
-  return (
-    <div className="ax-strip-date">
-      <div style={{ width: 9, height: 9, borderRadius: '50%', background: t.hl, marginBottom: 9, boxShadow: `0 0 0 4px ${t.briefBg}` }} />
-      <div className="ax-hl" style={{ fontSize: 16, color: t.hl, lineHeight: 1.1 }}>{md}</div>
-      <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginTop: 3, whiteSpace: 'nowrap' }}>{dow}{isLast ? ' · 어제' : ''}</div>
-    </div>
-  );
-}
-
-/* ---- MobileFilmstrip: all past cards as one horizontal swipe; each day's run
-   is preceded by an inline date marker. Tap a card → opens it large in the hero
-   (same flow as the desktop deck). Replaces WeeklyTimeline under the breakpoint. ---- */
+/* ---- MobileFilmstrip: all past cards as one long horizontal swipe. Days run
+   chronologically left→right (past → yesterday); the strip starts scrolled to the
+   RIGHT so yesterday is shown first and swiping left travels into the past. Each
+   day is a block with its date pinned above its cards. Tap a card → opens it large
+   in the hero (same flow as the desktop deck). Replaces WeeklyTimeline on mobile. ---- */
 function MobileFilmstrip({ t, onOpen }) {
   const days = window.AX_DAYS || [];
+  const stripRef = useRef();
   const lastDate = days.length ? days[days.length - 1].date : null;
+  // Start at the right edge: yesterday (the newest day) is shown first.
+  useEffect(() => {
+    const el = stripRef.current;
+    if (el) el.scrollLeft = el.scrollWidth;
+  }, [days.length]);
   const fmt = (date) => {
     const d = new Date(date);
     return { md: `${d.getMonth() + 1}.${String(d.getDate()).padStart(2, '0')}`, dow: ['일', '월', '화', '수', '목', '금', '토'][d.getDay()] };
   };
   return (
-    <section style={{ paddingTop: 44 }}>
-      <div style={{ textAlign: 'center', marginBottom: 4, padding: '0 16px' }}>
+    <section style={{ paddingTop: 30 }}>
+      <div style={{ textAlign: 'center', marginBottom: 6, padding: '0 16px' }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '6px 14px',
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
-        <h2 className="ax-hl" style={{ fontSize: 24, lineHeight: 1.2, color: t.hl, margin: '14px 0 6px' }}>어제까지의 모든 소식</h2>
-        <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>옆으로 밀어 보세요 · 카드를 누르면 위에서 크게 열립니다</p>
+        <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: '13px 0 6px' }}>어제까지의 모든 소식</h2>
+        <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>어제부터 시작해 옆으로 밀면 과거로 · 카드를 누르면 위에서 크게 열립니다</p>
       </div>
-      <div className="ax-strip">
+      <div className="ax-strip" ref={stripRef}>
         {days.map((day) => {
           const { md, dow } = fmt(day.date);
+          const isYesterday = day.date === lastDate;
           return (
-            <React.Fragment key={day.date}>
-              <StripDate md={md} dow={dow} isLast={day.date === lastDate} t={t} />
-              {day.cards.map((c, ci) => (
-                <button key={ci} className="ax-strip-card" onClick={() => onOpen(day, ci)} style={{
-                  width: 152, background: t.feedBg, border: t.feedBorder,
-                  WebkitBackdropFilter: t.blur, backdropFilter: t.blur,
-                  boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
-                  <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden' }}>
-                    {c.image ? (
-                      <img src={c.image} alt="" loading="lazy" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
-                    ) : (
-                      <React.Fragment>
-                        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }} />
-                        <div style={{ position: 'absolute', width: '84%', height: '92%', left: '10%', top: '8%', borderRadius: '50%',
-                          filter: 'blur(13px)', mixBlendMode: 'multiply', opacity: .85, background: `radial-gradient(circle,${c.accent},transparent 66%)` }} />
-                      </React.Fragment>
-                    )}
-                  </div>
-                  <div style={{ padding: '10px 11px 12px' }}>
-                    <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5 }}>{c.tool}</div>
-                    <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl,
-                      display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
-                  </div>
-                </button>
-              ))}
-            </React.Fragment>
+            <div className="ax-day-block" key={day.date}>
+              <div className="ax-strip-datehead" style={{ background: t.cardBg, border: t.cardBorder,
+                WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>
+                <span className="ax-hl" style={{ fontSize: 14, color: t.hl, lineHeight: 1 }}>{md}</span>
+                <span className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint }}>{dow}{isYesterday ? ' · 어제' : ''}</span>
+              </div>
+              <div className="ax-day-cards">
+                {day.cards.map((c, ci) => (
+                  <button key={ci} className="ax-strip-card" onClick={() => onOpen(day, ci)} style={{
+                    width: 150, background: t.feedBg, border: t.feedBorder,
+                    WebkitBackdropFilter: t.blur, backdropFilter: t.blur,
+                    boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
+                    <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden' }}>
+                      {c.image ? (
+                        <img src={c.image} alt="" loading="lazy" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                      ) : (
+                        <React.Fragment>
+                          <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }} />
+                          <div style={{ position: 'absolute', width: '84%', height: '92%', left: '10%', top: '8%', borderRadius: '50%',
+                            filter: 'blur(13px)', mixBlendMode: 'multiply', opacity: .85, background: `radial-gradient(circle,${c.accent},transparent 66%)` }} />
+                        </React.Fragment>
+                      )}
+                    </div>
+                    <div style={{ padding: '10px 11px 12px' }}>
+                      <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5 }}>{c.tool}</div>
+                      <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl,
+                        display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
+                    </div>
+                  </button>
+                ))}
+              </div>
+            </div>
           );
         })}
       </div>
@@ -755,21 +783,22 @@ function ThemedPage({ themeKey }) {
     <div style={{ position: 'relative', minHeight: '100vh', overflow: 'visible', background: t.briefBg, boxSizing: 'border-box' }}>
       <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>
       <div className="ax-shell">
-        <Masthead t={t} />
-        {/* back-to-today control — shown only while viewing a past day */}
-        <div style={{ height: 30, marginTop: 10, textAlign: 'center' }}>
-          {hero.day && (
+        <Masthead t={t} mobile={isMobile} />
+        {/* back-to-today control — rendered only while viewing a past day, so it
+            reserves no empty space (kept the masthead→hero gap tight). */}
+        {hero.day && (
+          <div style={{ marginTop: 6, marginBottom: 2, textAlign: 'center' }}>
             <button onClick={backToToday} className="ax-eyebrow" style={{ cursor: 'pointer',
               border: t.cardBorder, background: t.cardBg, color: t.hl, padding: '7px 15px', borderRadius: 100,
               WebkitBackdropFilter: t.blur, backdropFilter: t.blur, display: 'inline-flex', alignItems: 'center', gap: 7 }}>
               <span aria-hidden>←</span> 오늘 소식으로
               <span style={{ color: t.faint }}>· {viewing}</span>
             </button>
-          )}
-        </div>
+          </div>
+        )}
         {/* HERO — centered vertical card */}
         <div ref={heroRef} className="ax-hero-wrap">
-          <Carousel key={'hero' + hero.key} items={hero.items} initialIndex={hero.index} t={t} />
+          <Carousel key={'hero' + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} />
           {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} onDone={() => setIntro(null)} />}
         </div>
         {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
@@ -779,4 +808,4 @@ function ThemedPage({ themeKey }) {
   );
 }
 
-Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, StripDate, MobileFilmstrip, ThemedPage });
+Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, ThemedPage });
