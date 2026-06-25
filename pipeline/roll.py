@@ -42,8 +42,21 @@ def roll(data, cards, media):
     for c in cards["cards"]:
         c = dict(c)
         m = media_by_id.get(c["id"])
-        if m and m.get("type") == "image" and m.get("src"):
-            c["image"] = m["src"]
+        if m and m.get("src"):
+            if m.get("type") == "video":
+                # Video plays only on today's active hero card. We also keep the
+                # poster still as `image` so the deck/archive mini-cards (which never
+                # carry `video`), the build-time thumbnail check, and any <video>
+                # fallback all have a still. og:image is the poster's last resort.
+                c["video"] = m["src"]
+                if m.get("webm"):
+                    c["webm"] = m["webm"]
+                poster = m.get("poster") or m.get("og_image")
+                if poster:
+                    c["poster"] = poster
+                    c["image"] = poster
+            elif m.get("type") == "image":
+                c["image"] = m["src"]
         c.pop("mini_headline", None)  # mini_headline only used for the deck on next roll
         new_cards.append(c)
     data["today"] = {"date": cards["date"], "cards": new_cards}

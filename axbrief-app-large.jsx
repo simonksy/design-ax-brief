@@ -355,16 +355,39 @@ function axEnrich(item) {
    dark ink on the light banner, lifted with a drop shadow.
    Shared by the full-screen stack cards and the archive modal.
    ============================================================ */
-function CardScene({ it, active }) {
-  const img = it.image;   // pipeline-provided per-card image (pipeline/media/...)
+/* A short, muted, looping in-article video clip (1.75× key segment) for today's
+   active hero card. Plays only while the card is in view; pauses + rewinds when
+   it scrolls away. Past-day archive mini-cards never carry `video`, so they show
+   the poster still instead. */
+function FocusVideo({ it, active }) {
+  const ref = React.useRef(null);
+  React.useEffect(() => {
+    const v = ref.current; if (!v) return;
+    if (active) { const p = v.play(); if (p && p.catch) p.catch(() => {}); }
+    else { v.pause(); try { v.currentTime = 0; } catch (e) {} }
+  }, [active]);
   return (
-    <div className={'fcard-media' + (img ? ' has-img' : '')}>
+    <video ref={ref} className="fcard-img" muted loop playsInline preload="metadata"
+      poster={it.poster || it.image || undefined}
+      onError={(e) => { e.currentTarget.style.display = 'none'; }}>
+      {it.webm && <source src={it.webm} type="video/webm" />}
+      <source src={it.video} type="video/mp4" />
+    </video>
+  );
+}
+function CardScene({ it, active }) {
+  const img = it.image;   // pipeline-provided per-card image / video poster (pipeline/media/...)
+  const hasMedia = it.video || img;
+  return (
+    <div className={'fcard-media' + (hasMedia ? ' has-img' : '')}>
       {/* the animated ink blobs (blur + mix-blend) are only a fallback backdrop —
-         when a real photo covers the card they'd just composite, hidden, every
-         frame, so skip them entirely for image cards. */}
-      {!img && <MediaScene item={it} active={active} bold={false} />}
-      {img && <img className="fcard-img" src={img} alt="" loading="eager" decoding="async" fetchpriority="high"
-        onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
+         when a real photo/video covers the card they'd just composite, hidden,
+         every frame, so skip them entirely for media cards. */}
+      {!hasMedia && <MediaScene item={it} active={active} bold={false} />}
+      {it.video
+        ? <FocusVideo it={it} active={active} />
+        : img && <img className="fcard-img" src={img} alt="" loading="eager" decoding="async" fetchpriority="high"
+            onError={(e) => { e.currentTarget.style.display = 'none'; }} />}
     </div>
   );
 }

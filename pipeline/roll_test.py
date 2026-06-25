@@ -52,4 +52,37 @@ r3 = json.load(open(f"{d2}/news_data.json", encoding="utf-8"))
 dates = [d["date"] for d in r3["days"]]
 assert r3["today"]["date"] == "2026-06-23"        # stays today
 assert dates.count("2026-06-23") == 0, dates      # never duplicated into the deck
+
+# --- video media: today's card gets video+webm+poster, and the poster doubles
+#     as `image` (so the deck/archive + build dedup + still fallback all work).
+#     When today rolls into the deck, mini_card keeps only the still (no video). ---
+d3 = tempfile.mkdtemp()
+nd3 = {"today":{"date":"2026-06-23","cards":[
+        {"id":"old","tool":"O","headline":"o","body":"b","source":"S","url":"https://old3","accent":"#000","motif":"frame"}]},
+       "days":[]}
+json.dump(nd3, open(f"{d3}/news_data.json","w"), ensure_ascii=False)
+vc = {"date":"2026-06-24","cards":[{"id":"vid","tool":"YouTube","headline":"영상\n카드","body":"b","source":"Ch","url":"https://v","accent":"#ff2d55","motif":"frame"}]}
+json.dump(vc, open(f"{d3}/cards.json","w"), ensure_ascii=False)
+vm = {"date":"2026-06-24","media":[{"id":"vid","type":"video","src":"pipeline/media/vid.mp4",
+       "webm":"pipeline/media/vid.webm","poster":"pipeline/media/vid.jpg"}]}
+json.dump(vm, open(f"{d3}/media.json","w"), ensure_ascii=False)
+subprocess.run(["python3", os.path.abspath("roll.py"),
+  "--data", f"{d3}/news_data.json", "--cards", f"{d3}/cards.json", "--media", f"{d3}/media.json"], check=True)
+r4 = json.load(open(f"{d3}/news_data.json", encoding="utf-8"))
+tc = r4["today"]["cards"][0]
+assert tc["video"] == "pipeline/media/vid.mp4", tc
+assert tc["webm"] == "pipeline/media/vid.webm", tc
+assert tc["poster"] == "pipeline/media/vid.jpg", tc
+assert tc["image"] == "pipeline/media/vid.jpg", tc   # poster doubles as the still
+# roll again to push the video day into the deck; mini-card keeps only the still
+nc4 = {"date":"2026-06-25","cards":[{"id":"n","tool":"N","headline":"n","body":"b","source":"S","url":"https://n","accent":"#111","motif":"frame"}]}
+json.dump(nc4, open(f"{d3}/cards4.json","w"), ensure_ascii=False)
+json.dump({"date":"2026-06-25","media":[]}, open(f"{d3}/media4.json","w"), ensure_ascii=False)
+subprocess.run(["python3", os.path.abspath("roll.py"),
+  "--data", f"{d3}/news_data.json", "--cards", f"{d3}/cards4.json", "--media", f"{d3}/media4.json"], check=True)
+r5 = json.load(open(f"{d3}/news_data.json", encoding="utf-8"))
+deck_vid = r5["days"][-1]["cards"][0]
+assert "video" not in deck_vid and "webm" not in deck_vid, deck_vid  # deck is still-only
+assert deck_vid["image"] == "pipeline/media/vid.jpg", deck_vid       # still survives on deck
+
 print("roll OK")

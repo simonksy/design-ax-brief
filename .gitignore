@@ -3,8 +3,10 @@ pipeline/candidates.json
 pipeline/selected.json
 pipeline/cards.json
 pipeline/media.json
-# Track card/banner image files (referenced by axbrief-data.js) but ignore
-# any other build junk that lands under pipeline/media/.
+# Track card/banner image + video-clip files (referenced by axbrief-data.js) but
+# ignore any other build junk that lands under pipeline/media/. Note: the raw
+# downloaded source clips (<id>.src.*) stay ignored — only the encoded outputs
+# (<id>.mp4 / <id>.webm) and stills are tracked.
 pipeline/media/**
 !pipeline/media/**/
 !pipeline/media/**/*.jpg
@@ -12,6 +14,9 @@ pipeline/media/**
 !pipeline/media/**/*.png
 !pipeline/media/**/*.svg
 !pipeline/media/**/*.webp
+!pipeline/media/**/*.mp4
+!pipeline/media/**/*.webm
+pipeline/media/**/*.src.*
 pipeline/runs/
 
 .DS_Store

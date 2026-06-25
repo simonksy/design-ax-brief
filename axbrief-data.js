@@ -3,108 +3,73 @@
 (function () {
   window.AX_NEWS = [
   {
-    "id": "arnold-splat",
+    "id": "figma",
     "eyebrow": "AI NEWS",
-    "headline": "Arnold 7.5.2,\n가우시안 스플랫을 렌더에 들이다",
-    "body": "Autodesk가 Arnold 7.5.2에서 3D 가우시안 스플랫 렌더링을 지원한다. 가져온 스플랫을 리라이팅해 렌더할 수 있고, 툰 셰이딩과 USD 워크플로도 손봤다. 스캔 에셋을 비주얼 작업에 바로 끌어오는 길이 열린다.",
-    "tool": "KeyShot",
-    "source": "CG Channel",
-    "url": "https://www.cgchannel.com/2026/06/autodesk-releases-arnold-7-5-2-with-support-for-gaussian-splatting/",
-    "accent": "#f5a623",
-    "motif": "sphere",
-    "image": "pipeline/media/arnold-splat.jpg"
-  },
-  {
-    "id": "claude-design-vercel",
-    "eyebrow": "AI NEWS",
-    "headline": "Claude Design에서\n바로 Vercel로 배포한다",
-    "body": "Vercel이 Claude Design의 전송 대상에 추가됐다. 디자인을 마치면 캔버스를 떠나지 않고 그대로 보내 라이브 URL을 돌려받는다. 디자인-코드-배포 루프가 한자리에서 닫힌다.",
+    "headline": "Config 2026, 모션과 코드 레이어가\n캔버스 안으로 들어왔다",
+    "body": "Figma Motion이 디자인 파일에서 타임라인 애니메이션을 다루고, 코드 레이어는 코드를 디자인 재료처럼 쓴다. AI 셰이더와 강화된 에이전트까지 6월 24일 오픈 베타로 풀린다.",
     "tool": "Figma",
-    "source": "Vercel",
-    "url": "https://vercel.com/changelog/claude-design-and-vercel",
+    "source": "Figma",
+    "url": "https://www.figma.com/blog/config-2026-recap/",
     "accent": "#0070f3",
     "motif": "frame",
-    "image": "pipeline/media/claude-design-vercel.png"
+    "image": "pipeline/media/figma.png"
   },
   {
-    "id": "alibaba-video",
+    "id": "houdini22",
     "eyebrow": "AI NEWS",
-    "headline": "알리바바 영상 모델,\n글로벌 2위로 올라서다",
-    "body": "알리바바의 HappyHorse가 생성 영상 순위 2위에 올랐다. OpenAI의 Sora가 정리되고 ByteDance의 Seedance가 주춤한 사이 판도가 바뀌었다. 어떤 모델에 작업을 걸지 다시 가늠해야 한다.",
+    "headline": "Houdini 22, 가우시안 스플랫과\nML 리깅을 절차적으로",
+    "body": "SideFX가 네이티브 3D 가우시안 스플랫과 제어 가능한 ML 파이프라인을 공개했다. KineFX/APEX 캐릭터 리깅과 애니메이션이 더 절차적으로 묶이며 크리처 워크플로를 자동화로 끌어온다.",
     "tool": "KeyShot",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
-    "accent": "#3b6bff",
+    "source": "80 Level",
+    "url": "https://80.lv/articles/everything-you-need-to-know-about-houdini-22",
+    "accent": "#f5a623",
     "motif": "sphere",
-    "image": "pipeline/media/alibaba-video.webp"
+    "image": "pipeline/media/houdini22.jpg"
   },
   {
-    "id": "loopy-ai",
+    "id": "cloudpaint2",
     "eyebrow": "AI NEWS",
-    "headline": "루프를 도는 AI,\n워크플로의 전제를 흔든다",
-    "body": "재귀적이고 자기참조적인 에이전트 동작이 늘고 있다. 제품과 워크플로를 거대 모델 위에 어떻게 쌓을지 그 방식이 다시 짜인다. 한 번 출력으로 끝나던 전제부터 바뀐다.",
-    "tool": "AI Workflow",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-    "accent": "#ff5a4d",
-    "motif": "frame",
-    "image": "pipeline/media/loopy-ai.jpg"
+    "headline": "Cloud Paint V2, 뷰포트에서\n구름을 직접 칠한다",
+    "body": "블렌더용 Cloud Paint V2가 플랫 페인트 구름 제너레이터와 절차적 에셋 라이브러리를 더했다. 환경·룩데브 아티스트가 뷰포트에서 더 빠르고 아트 디렉션하기 쉽게 스타일라이즈드 구름을 그린다.",
+    "tool": "KeyShot",
+    "source": "80 Level",
+    "url": "https://80.lv/articles/blender-cloud-paint-tool-updated-with-flat-paint-generator-procedural-asset-library",
+    "accent": "#eb367f",
+    "motif": "sphere",
+    "image": "pipeline/media/cloudpaint2.jpeg"
   },
   {
-    "id": "patch-the-planet",
+    "id": "claude-obsidian",
     "eyebrow": "AI NEWS",
-    "headline": "OpenAI, 오픈소스 버그를\nAI로 잡는 프로젝트",
-    "body": "OpenAI가 Trail of Bits와 함께 'Patch the Planet'을 시작했다. AI 도구로 오픈소스의 보안 취약점을 찾아 메인테이너의 수정을 돕는다. 디자이너가 기대는 도구 생태계의 바닥이 단단해진다.",
-    "tool": "AI Workflow",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "accent": "#7928ca",
+    "headline": "Claude Code로 옵시디언에\n두 번째 뇌를 만든다",
+    "body": "Claude Code를 옵시디언 볼트에 연결해 AI가 돕는 세컨드 브레인을 짓는 핸즈온 영상이다. 메모와 리서치, 지식 관리를 AI로 보강하는, 디자이너가 바로 따라 할 수 있는 패턴을 보여준다.",
+    "tool": "Social",
+    "source": "Luke J Byrne (AI Luke)",
+    "url": "https://www.youtube.com/watch?v=zjrSoXtlunU",
+    "accent": "#ff2d55",
     "motif": "frame",
-    "image": "pipeline/media/patch-the-planet.jpg"
+    "video": "pipeline/media/claude-obsidian.mp4",
+    "webm": "pipeline/media/claude-obsidian.webm",
+    "poster": "pipeline/media/claude-obsidian.jpg",
+    "image": "pipeline/media/claude-obsidian.jpg"
+  },
+  {
+    "id": "ax-shift",
+    "eyebrow": "AI NEWS",
+    "headline": "AI 에이전트가 다시 짜는\n일과 조직의 구조",
+    "body": "AI 에이전트가 인력 구조와 전사 전환을 어떻게 바꾸는지 짚는 대담이다. 툴 하나씩이 아니라 조직 규모로 AI를 도입하는, 디자인 조직을 위한 AX 전환의 틀을 제시한다.",
+    "tool": "Social",
+    "source": "The Ravit Show",
+    "url": "https://www.youtube.com/watch?v=tBU1KC5BQ2k",
+    "accent": "#3b6bff",
+    "motif": "frame",
+    "video": "pipeline/media/ax-shift.mp4",
+    "webm": "pipeline/media/ax-shift.webm",
+    "poster": "pipeline/media/ax-shift.jpg",
+    "image": "pipeline/media/ax-shift.jpg"
   }
 ];
   window.AX_DAYS = [
-  {
-    "date": "2026-06-17",
-    "cards": [
-      {
-        "tool": "Figma",
-        "headline": "엔터프라이즈용 AI 크레딧 사용량 API",
-        "source": "Figma",
-        "url": "https://www.figma.com/release-notes/#ai-usage-credit-api",
-        "accent": "#0070f3"
-      },
-      {
-        "tool": "AI Workflow",
-        "headline": "불확실성을 다루는 확률적 디자인",
-        "source": "Smashing Magazine",
-        "url": "https://www.smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-        "accent": "#ff5a4d",
-        "image": "pipeline/media/deck/smashing.jpg"
-      },
-      {
-        "tool": "Figma",
-        "headline": "MCP 서버로 외부 에이전트가 슬라이드 생성",
-        "source": "Figma",
-        "url": "https://www.figma.com/release-notes/#mcp-server-updates",
-        "accent": "#3b6bff"
-      },
-      {
-        "tool": "AI Workflow",
-        "headline": "Make·Sites, 워크스페이스 단위 웹 퍼블리싱",
-        "source": "Figma",
-        "url": "https://www.figma.com/release-notes/#make-sites-web-publishing",
-        "accent": "#7928ca"
-      },
-      {
-        "tool": "Figma",
-        "headline": "데스크톱 앱에 탭 그룹 도입",
-        "source": "Figma",
-        "url": "https://www.figma.com/release-notes/#tab-groups",
-        "accent": "#171717"
-      }
-    ]
-  },
   {
     "date": "2026-06-18",
     "cards": [
@@ -280,6 +245,51 @@
         "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
         "accent": "#eb367f",
         "image": "pipeline/media/ios27-ai.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "cards": [
+      {
+        "tool": "KeyShot",
+        "headline": "Arnold 7.5.2, 가우시안 스플랫을 렌더에 들이다",
+        "source": "CG Channel",
+        "url": "https://www.cgchannel.com/2026/06/autodesk-releases-arnold-7-5-2-with-support-for-gaussian-splatting/",
+        "accent": "#f5a623",
+        "image": "pipeline/media/arnold-splat.jpg"
+      },
+      {
+        "tool": "Figma",
+        "headline": "Claude Design에서 바로 Vercel로 배포한다",
+        "source": "Vercel",
+        "url": "https://vercel.com/changelog/claude-design-and-vercel",
+        "accent": "#0070f3",
+        "image": "pipeline/media/claude-design-vercel.png"
+      },
+      {
+        "tool": "KeyShot",
+        "headline": "알리바바 영상 모델, 글로벌 2위로 올라서다",
+        "source": "VentureBeat",
+        "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+        "accent": "#3b6bff",
+        "image": "pipeline/media/alibaba-video.webp"
+      },
+      {
+        "tool": "AI Workflow",
+        "headline": "루프를 도는 AI, 워크플로의 전제를 흔든다",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+        "accent": "#ff5a4d",
+        "image": "pipeline/media/loopy-ai.jpg"
+      },
+      {
+        "tool": "AI Workflow",
+        "headline": "OpenAI, 오픈소스 버그를 AI로 잡는 프로젝트",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "accent": "#7928ca",
+        "image": "pipeline/media/patch-the-planet.jpg"
       }
     ]
   }

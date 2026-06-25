@@ -95,8 +95,12 @@ Stage order: keywords → candidates → selected → cards → media → news_d
 
 ## media.json (미디어)
 { "date":"YYYY-MM-DD",
-  "media":[ {"id":"figma","type":"image","src":"pipeline/media/figma.jpg"} ] }
-# type: "image" -> src is a downloaded file path; "svg" -> no src (page renders motif scene)
+  "media":[ {"id":"figma","type":"image","src":"pipeline/media/figma.jpg"},
+            {"id":"yt","type":"video","src":"pipeline/media/yt.mp4","poster":"pipeline/media/yt.jpg","webm":"pipeline/media/yt.webm"} ] }
+# type: "image" -> src is a downloaded file path
+# type: "video" -> src is a short muted ~8s 1.75× clip (mp4); poster is a still; webm optional.
+#                  roll.py keeps poster as the card `image`, so deck/archive show a still — video plays on today's active hero card only.
+# type: "svg"   -> no src (page renders motif scene)
 
 ## news_data.json (source of truth, rolled by 발행)
 { "today": {"date":"YYYY-MM-DD","cards":[<full card incl. optional image>]},

@@ -138,9 +138,35 @@ function ThemeBackdrop({ t }) {
    MediaScene — the "image" (zen ink). Color lives here.
    `bold` pushes saturation + bloom opacity for the glass theme.
    ============================================================ */
+/* A short, muted, looping in-article video clip (1.75× key segment, built by
+   ax-media). Plays ONLY while its card is active — non-active slides pause and
+   rewind so we never run five clips at once. The poster still shows before the
+   first frame decodes and is what the deck/archive use. */
+function VideoScene({ item, active, bold }) {
+  const ref = React.useRef(null);
+  React.useEffect(() => {
+    const v = ref.current;
+    if (!v) return;
+    if (active) { const p = v.play(); if (p && p.catch) p.catch(() => {}); }
+    else { v.pause(); try { v.currentTime = 0; } catch (e) {} }
+  }, [active]);
+  return (
+    <div className={'ax-scene' + (active ? ' ax-active' : '')} style={{ background: '#efe9e1' }}>
+      <video ref={ref} muted loop playsInline preload="metadata"
+        poster={item.poster || item.image || undefined}
+        style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}>
+        {item.webm && <source src={item.webm} type="video/webm" />}
+        <source src={item.video} type="video/mp4" />
+      </video>
+      <div className="ax-grain" style={{ opacity: bold ? 0.06 : 0.08 }} />
+    </div>
+  );
+}
+
 function MediaScene({ item, active, bold }) {
   const a = item.accent;
   const cls = 'ax-scene' + (active ? ' ax-active' : '');
+  if (item.video) return <VideoScene item={item} active={active} bold={bold} />;
   if (item.image) {
     return (
       <div className={cls} style={{ background: '#efe9e1' }}>
