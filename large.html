@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Design AX Brief</title>
+<title>Design AX Brief — Large Card</title>
 
 <!-- Geist tokens + styles -->
 <link rel="stylesheet" href="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/tokens/fonts.css">
@@ -43,12 +43,12 @@
 <!-- Geist component bundle (plain JS) -->
 <script src="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/_ds_bundle.js"></script>
 
-<!-- Data + App — cache-busted per load so a fresh publish always shows the latest
-     (avoids the browser serving a stale axbrief-data.js / axbrief-app.jsx) -->
+<!-- Same generated data as the small-card page; only the design (app) differs.
+     Cache-busted per load so a fresh publish always shows the latest. -->
 <script>(function () {
   var v = Date.now();
   document.write('<scr' + 'ipt src="axbrief-data.js?v=' + v + '"><\/scr' + 'ipt>');
-  document.write('<scr' + 'ipt type="text/babel" src="axbrief-app.jsx?v=' + v + '"><\/scr' + 'ipt>');
+  document.write('<scr' + 'ipt type="text/babel" src="axbrief-app-large.jsx?v=' + v + '"><\/scr' + 'ipt>');
   // Coffee → QR donation button (shared widget). Loaded here via the same write
   // stream as data/app — a trailing static <script> can be dropped by the parser.
   document.write('<scr' + 'ipt src="coffee-button.js?v=' + v + '"><\/scr' + 'ipt>');
