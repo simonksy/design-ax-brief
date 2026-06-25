@@ -80,13 +80,18 @@ if (!document.getElementById('ax-styles')) {
      Chronological left->right (past -> yesterday); JS starts it scrolled to the
      right so YESTERDAY shows first and you swipe left into the past. Each day is a
      block with its date pinned (sticky) above that day's cards. ---- */
+  /* NB: no -webkit-overflow-scrolling:touch — on iOS it puts the strip on its own
+     compositor layer that doesn't repaint mid-scroll (cards/thumbs go blank until
+     the scroll settles). Modern iOS scrolls smoothly without it. */
   .ax-strip{display:flex;align-items:flex-start;gap:22px;overflow-x:auto;overflow-y:hidden;
-     -webkit-overflow-scrolling:touch;padding:4px 14px 18px;scrollbar-width:none;}
+     padding:4px 14px 18px;scrollbar-width:none;}
   .ax-strip::-webkit-scrollbar{display:none;}
   .ax-day-block{flex:0 0 auto;display:flex;flex-direction:column;}
   .ax-strip-datehead{position:sticky;left:12px;align-self:flex-start;display:inline-flex;align-items:baseline;
      gap:7px;margin-bottom:11px;padding:5px 12px;border-radius:100px;z-index:3;white-space:nowrap;}
-  .ax-day-cards{display:flex;gap:10px;}
+  /* flex-start (not stretch) so a long headline in one day doesn't make that day's
+     cards taller than other days' — every card is the same fixed size. */
+  .ax-day-cards{display:flex;gap:10px;align-items:flex-start;}
   .ax-strip-card{flex:0 0 auto;cursor:pointer;text-align:left;padding:0;border-radius:14px;overflow:hidden;
      transition:transform .2s ease;}
   .ax-strip-card:active{transform:scale(.96);}
@@ -385,19 +390,34 @@ function NavButton({ dir, disabled, onClick, t }) {
    ============================================================ */
 function Carousel({ items, t, initialIndex = 0, mobile }) {
   const [idx, setIdx] = useState(initialIndex);
-  // drag === null → not touching; a number → live finger offset in px (card follows it)
-  const [drag, setDrag] = useState(null);
-  const startX = useRef(0); const dx = useRef(0);
+  const idxRef = useRef(initialIndex);
+  const trackRef = useRef(null);
+  const startX = useRef(0); const dx = useRef(0); const dragging = useRef(false);
   const total = items.length;
+  useEffect(() => { idxRef.current = idx; }, [idx]);
   const go = useCallback((i) => setIdx(Math.max(0, Math.min(total - 1, i))), [total]);
-  const onTouchStart = (e) => { startX.current = e.touches[0].clientX; dx.current = 0; setDrag(0); };
-  const onTouchMove = (e) => {
-    let d = e.touches[0].clientX - startX.current;
-    if ((idx === 0 && d > 0) || (idx === total - 1 && d < 0)) d *= 0.3; // rubber-band at the ends
-    dx.current = d; setDrag(d);
+  // During a drag we move the track DIRECTLY via the DOM (no React re-render per
+  // touchmove — re-rendering 5 heavy slides each move is what made the swipe lag on
+  // mobile). React only takes over on release, animating the snap to the new index.
+  const setX = (px, animate) => {
+    const el = trackRef.current; if (!el) return;
+    el.style.transition = animate ? '' : 'none'; // '' → fall back to the .ax-track CSS transition
+    el.style.transform = `translateX(calc(${-idxRef.current * 100}% + ${px}px))`;
   };
-  const onTouchEnd = () => { if (Math.abs(dx.current) > 44) go(idx + (dx.current < 0 ? 1 : -1)); setDrag(null); };
-  const dragging = drag !== null;
+  const onTouchStart = (e) => { startX.current = e.touches[0].clientX; dx.current = 0; dragging.current = true; setX(0, false); };
+  const onTouchMove = (e) => {
+    if (!dragging.current) return;
+    let d = e.touches[0].clientX - startX.current;
+    if ((idxRef.current === 0 && d > 0) || (idxRef.current === total - 1 && d < 0)) d *= 0.3; // rubber-band at the ends
+    dx.current = d; setX(d, false);
+  };
+  const onTouchEnd = () => {
+    dragging.current = false;
+    const el = trackRef.current; if (el) el.style.transition = ''; // re-enable the CSS snap transition
+    if (Math.abs(dx.current) > 44) go(idxRef.current + (dx.current < 0 ? 1 : -1));
+    else if (el) el.style.transform = `translateX(${-idxRef.current * 100}%)`; // snap back
+    dx.current = 0;
+  };
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: mobile ? 'auto' : '100%', minHeight: 0 }}>
@@ -408,9 +428,7 @@ function Carousel({ items, t, initialIndex = 0, mobile }) {
         background: mobile ? t.cardSolid : t.cardBg,
         WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}
         onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}>
-        <div className="ax-track" style={{
-          transform: `translateX(calc(${-idx * 100}% + ${dragging ? drag : 0}px))`,
-          transition: dragging ? 'none' : 'transform .5s cubic-bezier(.4,0,.2,1)' }}>
+        <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
               <LayoutEditorial item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
@@ -494,27 +512,23 @@ function useMorphingText(texts) {
 
 function MorphingTitle({ texts, color, fontSize = 56, width = 360, height = 72 }) {
   const { text1Ref, text2Ref } = useMorphingText(texts);
-  // Render the filtered text at SS× the display size, then scale the result back
-  // down — this supersamples the SVG goo filter so it stays crisp on hi-DPI / mobile
-  // screens (filters otherwise rasterize at CSS resolution and look soft).
-  const SS = 2;
+  // The gooey blend is an SVG alpha-threshold filter applied DIRECTLY to the text
+  // box. (An earlier transform:scale() supersample wrapper broke `filter:url()` on
+  // iOS Safari — the morph fell back to a plain text swap — so keep the filter on a
+  // plain, untransformed element.)
   const spanStyle = {
     position: 'absolute', left: 0, top: 0, display: 'inline-block',
     width: '100%', textAlign: 'center', whiteSpace: 'nowrap',
   };
   return (
-    <div style={{ position: 'relative', width, height, margin: '0 auto' }}>
-      <div style={{
-        position: 'absolute', left: 0, top: 0,
-        width: width * SS, height: height * SS,
-        transform: `scale(${1 / SS})`, transformOrigin: 'top left',
-        fontFamily: 'var(--font-sans)', fontWeight: 700, fontSize: fontSize * SS,
-        letterSpacing: '-0.04em', lineHeight: `${height * SS}px`, color,
-        filter: 'url(#ax-threshold) blur(0.7px)',
-      }}>
-        <span ref={text1Ref} style={spanStyle} />
-        <span ref={text2Ref} style={spanStyle} />
-      </div>
+    <div style={{
+      position: 'relative', width, height, margin: '0 auto',
+      fontFamily: 'var(--font-sans)', fontWeight: 700, fontSize,
+      letterSpacing: '-0.04em', lineHeight: `${height}px`, color,
+      filter: 'url(#ax-threshold) blur(0.4px)',
+    }}>
+      <span ref={text1Ref} style={spanStyle} />
+      <span ref={text2Ref} style={spanStyle} />
       <svg className="ax-hidden-svg" style={{ position: 'absolute', width: 0, height: 0 }}>
         <defs>
           <filter id="ax-threshold" x="-15%" y="-15%" width="130%" height="130%"
@@ -723,8 +737,7 @@ function MobileFilmstrip({ t, onOpen }) {
           const isYesterday = day.date === lastDate;
           return (
             <div className="ax-day-block" key={day.date}>
-              <div className="ax-strip-datehead" style={{ background: t.cardBg, border: t.cardBorder,
-                WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>
+              <div className="ax-strip-datehead" style={{ background: t.feedSolid, border: t.cardBorder }}>
                 <span className="ax-hl" style={{ fontSize: 14, color: t.hl, lineHeight: 1 }}>{md}</span>
                 <span className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint }}>{dow}{isYesterday ? ' · 어제' : ''}</span>
               </div>
@@ -735,7 +748,7 @@ function MobileFilmstrip({ t, onOpen }) {
                     boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
                     <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden', background: '#efe9e1' }}>
                       {c.image ? (
-                        <img src={c.image} alt="" loading="eager" decoding="async" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                        <img src={c.image} alt="" loading="eager" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
                       ) : (
                         <React.Fragment>
                           <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }} />
@@ -746,7 +759,8 @@ function MobileFilmstrip({ t, onOpen }) {
                     </div>
                     <div style={{ padding: '10px 11px 12px' }}>
                       <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5 }}>{c.tool}</div>
-                      <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl,
+                      {/* reserve 3 lines so every card is the same height regardless of headline length */}
+                      <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl, height: 'calc(1.32em * 3)',
                         display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
                     </div>
                   </button>
@@ -767,6 +781,16 @@ function ThemedPage({ themeKey }) {
   const heroRef = useRef();
   const [hero, setHero] = useState({ items: window.AX_NEWS, index: 0, key: 0, day: null });
   const [intro, setIntro] = useState(null);
+  // Pre-decode every image once mounted, so swiping the hero / scrolling the
+  // filmstrip never reveals a blank tile that's still waiting on image decode.
+  useEffect(() => {
+    let alive = true;
+    const id = setTimeout(() => {
+      if (!alive) return;
+      document.querySelectorAll('img').forEach((im) => { if (im.decode) im.decode().catch(() => {}); });
+    }, 60);
+    return () => { alive = false; clearTimeout(id); };
+  }, []);
   const openDay = (day, cardIdx) => {
     setHero({ items: day.cards, index: cardIdx, key: Date.now(), day });
     setIntro({ day, cardIdx, k: Date.now() });
