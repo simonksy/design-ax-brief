@@ -166,6 +166,8 @@ if (!document.getElementById('ax-styles')) {
     .ax-gal-sticky{position:relative;height:auto;perspective:none;padding:36px 16px 60px;}
     .ax-gal-grid{grid-template-columns:repeat(2,1fr);transform:none !important;width:100%;}
     .ax-gal-col{transform:none !important;margin-top:0 !important;}
+    /* No hover on touch — archive images must not stay permanently blurred. */
+    .ax-tile-img{filter:none;transform:scale(1.02);}
   }
   @media (prefers-reduced-motion: reduce){ .ax-rev{opacity:1;filter:none;transform:none;} }
   `;

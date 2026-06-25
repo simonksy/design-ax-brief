@@ -66,6 +66,26 @@ if (!document.getElementById('ax-styles')) {
   .ax-daylabel{transition:color .4s ease;}
   @keyframes axheroin{0%{opacity:0;transform:translateY(14px) scale(.965)}100%{opacity:1;transform:none}}
   .ax-heroin{animation:axheroin .6s cubic-bezier(.2,.8,.25,1);}
+  /* ---- responsive shell ---- */
+  .ax-shell{position:relative;z-index:1;max-width:1120px;margin:0 auto;padding:34px 40px 90px;box-sizing:border-box;}
+  .ax-hero-wrap{position:relative;width:480px;max-width:100%;height:680px;margin:8px auto 0;}
+  @media (max-width:760px){
+    .ax-shell{padding:18px 14px 60px;}
+    .ax-hero-wrap{height:min(680px,calc(100svh - 142px));}
+  }
+  /* ---- mobile filmstrip: one long horizontal swipe of all past cards, with
+     inline date dividers that flow in/out alongside their day's cards (replaces
+     the hover-driven fan-out timeline on narrow / touch screens) ---- */
+  .ax-strip{display:flex;align-items:stretch;gap:12px;overflow-x:auto;overflow-y:hidden;
+     scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;padding:6px 14px 20px;scrollbar-width:none;}
+  .ax-strip::-webkit-scrollbar{display:none;}
+  .ax-strip>*{flex:0 0 auto;}
+  .ax-strip-card{scroll-snap-align:center;cursor:pointer;text-align:left;padding:0;
+     border-radius:14px;overflow:hidden;transition:transform .25s ease;}
+  .ax-strip-card:active{transform:scale(.97);}
+  .ax-strip-date{display:flex;flex-direction:column;align-items:center;justify-content:center;
+     padding:0 6px;position:relative;}
+  .ax-strip-date::before{content:"";position:absolute;left:-6px;top:14%;bottom:14%;width:1px;background:var(--ax-rule,rgba(120,90,70,.18));}
   `;
   document.head.appendChild(s);
 }
@@ -627,9 +647,90 @@ function HeroDeckIntro({ day, cardIdx, t, onDone }) {
   );
 }
 
+/* ---- useIsMobile: reactive max-width media query (no hover on touch) ---- */
+function useIsMobile(maxW) {
+  const q = `(max-width:${maxW}px)`;
+  const [m, setM] = useState(() => typeof window !== 'undefined' && window.matchMedia(q).matches);
+  useEffect(() => {
+    const mq = window.matchMedia(q);
+    const on = () => setM(mq.matches);
+    on();
+    if (mq.addEventListener) { mq.addEventListener('change', on); return () => mq.removeEventListener('change', on); }
+    mq.addListener(on); return () => mq.removeListener(on);
+  }, [q]);
+  return m;
+}
+
+/* ---- StripDate: inline date divider that scrolls with the filmstrip ---- */
+function StripDate({ md, dow, isLast, t }) {
+  return (
+    <div className="ax-strip-date">
+      <div style={{ width: 9, height: 9, borderRadius: '50%', background: t.hl, marginBottom: 9, boxShadow: `0 0 0 4px ${t.briefBg}` }} />
+      <div className="ax-hl" style={{ fontSize: 16, color: t.hl, lineHeight: 1.1 }}>{md}</div>
+      <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginTop: 3, whiteSpace: 'nowrap' }}>{dow}{isLast ? ' · 어제' : ''}</div>
+    </div>
+  );
+}
+
+/* ---- MobileFilmstrip: all past cards as one horizontal swipe; each day's run
+   is preceded by an inline date marker. Tap a card → opens it large in the hero
+   (same flow as the desktop deck). Replaces WeeklyTimeline under the breakpoint. ---- */
+function MobileFilmstrip({ t, onOpen }) {
+  const days = window.AX_DAYS || [];
+  const lastDate = days.length ? days[days.length - 1].date : null;
+  const fmt = (date) => {
+    const d = new Date(date);
+    return { md: `${d.getMonth() + 1}.${String(d.getDate()).padStart(2, '0')}`, dow: ['일', '월', '화', '수', '목', '금', '토'][d.getDay()] };
+  };
+  return (
+    <section style={{ paddingTop: 44 }}>
+      <div style={{ textAlign: 'center', marginBottom: 4, padding: '0 16px' }}>
+        <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '6px 14px',
+          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
+        <h2 className="ax-hl" style={{ fontSize: 24, lineHeight: 1.2, color: t.hl, margin: '14px 0 6px' }}>어제까지의 모든 소식</h2>
+        <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>옆으로 밀어 보세요 · 카드를 누르면 위에서 크게 열립니다</p>
+      </div>
+      <div className="ax-strip">
+        {days.map((day) => {
+          const { md, dow } = fmt(day.date);
+          return (
+            <React.Fragment key={day.date}>
+              <StripDate md={md} dow={dow} isLast={day.date === lastDate} t={t} />
+              {day.cards.map((c, ci) => (
+                <button key={ci} className="ax-strip-card" onClick={() => onOpen(day, ci)} style={{
+                  width: 152, background: t.feedBg, border: t.feedBorder,
+                  WebkitBackdropFilter: t.blur, backdropFilter: t.blur,
+                  boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
+                  <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden' }}>
+                    {c.image ? (
+                      <img src={c.image} alt="" loading="lazy" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                    ) : (
+                      <React.Fragment>
+                        <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }} />
+                        <div style={{ position: 'absolute', width: '84%', height: '92%', left: '10%', top: '8%', borderRadius: '50%',
+                          filter: 'blur(13px)', mixBlendMode: 'multiply', opacity: .85, background: `radial-gradient(circle,${c.accent},transparent 66%)` }} />
+                      </React.Fragment>
+                    )}
+                  </div>
+                  <div style={{ padding: '10px 11px 12px' }}>
+                    <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5 }}>{c.tool}</div>
+                    <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl,
+                      display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
+                  </div>
+                </button>
+              ))}
+            </React.Fragment>
+          );
+        })}
+      </div>
+    </section>
+  );
+}
+
 /* ---- ThemedPage: hero carousel + weekly deck timeline (one theme) ---- */
 function ThemedPage({ themeKey }) {
   const t = THEMES[themeKey];
+  const isMobile = useIsMobile(760);
   const heroRef = useRef();
   const [hero, setHero] = useState({ items: window.AX_NEWS, index: 0, key: 0, day: null });
   const [intro, setIntro] = useState(null);
@@ -653,7 +754,7 @@ function ThemedPage({ themeKey }) {
   return (
     <div style={{ position: 'relative', minHeight: '100vh', overflow: 'visible', background: t.briefBg, boxSizing: 'border-box' }}>
       <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>
-      <div style={{ position: 'relative', zIndex: 1, maxWidth: 1120, margin: '0 auto', padding: '34px 40px 90px', boxSizing: 'border-box' }}>
+      <div className="ax-shell">
         <Masthead t={t} />
         {/* back-to-today control — shown only while viewing a past day */}
         <div style={{ height: 30, marginTop: 10, textAlign: 'center' }}>
@@ -667,15 +768,15 @@ function ThemedPage({ themeKey }) {
           )}
         </div>
         {/* HERO — centered vertical card */}
-        <div ref={heroRef} style={{ position: 'relative', width: 480, maxWidth: '100%', height: 680, margin: '8px auto 0' }}>
+        <div ref={heroRef} className="ax-hero-wrap">
           <Carousel key={'hero' + hero.key} items={hero.items} initialIndex={hero.index} t={t} />
           {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} onDone={() => setIntro(null)} />}
         </div>
-        {/* WEEKLY DECK TIMELINE */}
-        <WeeklyTimeline t={t} onOpen={openDay} />
+        {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
+        {isMobile ? <MobileFilmstrip t={t} onOpen={openDay} /> : <WeeklyTimeline t={t} onOpen={openDay} />}
       </div>
     </div>
   );
 }
 
-Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, ThemedPage });
+Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, StripDate, MobileFilmstrip, ThemedPage });
