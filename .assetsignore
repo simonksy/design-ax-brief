@@ -1,0 +1,8 @@
+# Files excluded from the Cloudflare static-assets upload (gitignore syntax).
+# .git holds large pack files that exceed the 25 MiB per-asset limit and must
+# never be served; the rest are local dev/agent config, not part of the site.
+.git
+.claude
+.superpowers
+.playwright-mcp
+pipeline/runs
