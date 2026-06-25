@@ -92,7 +92,11 @@ if (!document.getElementById('ax-styles')) {
   .fcard-head{display:flex;flex-direction:column;align-items:flex-start;gap:5px;margin-bottom:14px;}
   .fcard-head .ax-eyebrow{white-space:nowrap;}
   @media (max-width:860px){
-    .fcard{height:auto;min-height:100svh;position:relative;top:auto;}
+    .fcard{height:100svh;min-height:100svh;position:relative;top:auto;}
+    /* .fcard-inner is height:100% — give it a definite height on mobile or it
+       collapses to 0 (against the auto-height card) and the absolutely-positioned
+       image/overlay vanish, leaving blank cards. */
+    .fcard-inner{height:100svh;}
     .fcard-overlay{left:clamp(20px,5vw,40px);right:clamp(20px,5vw,40px);width:auto;max-width:none;max-height:54%;}
     .fcard-hl{font-size:clamp(26px,7vw,40px);}
   }
@@ -173,8 +177,11 @@ if (!document.getElementById('ax-styles')) {
   @media (max-width:860px){
     .ax-gal-scroll{height:auto !important;}
     .ax-gal-sticky{position:relative;height:auto;perspective:none;padding:36px 16px 60px;}
-    .ax-gal-grid{grid-template-columns:repeat(2,1fr);transform:none !important;width:100%;}
-    .ax-gal-col{transform:none !important;margin-top:0 !important;}
+    /* single vertical list: each day (newest first) is one full-width column of
+       its cards, stacked top-to-bottom (no 2-col grid that splits days oddly). */
+    .ax-gal-grid{grid-template-columns:1fr;gap:30px;transform:none !important;width:100%;}
+    .ax-gal-col{transform:none !important;margin-top:0 !important;gap:12px;}
+    .ax-colhead{margin-bottom:3px;}
     /* No hover on touch — archive images must not stay permanently blurred. */
     .ax-tile-img{filter:none;transform:scale(1.02);}
   }
@@ -573,7 +580,11 @@ function GalleryColHeader({ day, isLast, t }) {
    with per-column parallax — mirrors the animated-gallery motion. Each
    column is one day's deck of 5 cards; clicking a card opens it large. ---- */
 function ArchiveGallery({ t, onOpen }) {
-  const days = window.AX_DAYS;
+  const days = window.AX_DAYS || [];
+  const isMobile = useIsMobile(860);
+  // Mobile = one vertical list, newest (yesterday) first → oldest last.
+  const ordered = isMobile ? days.slice().reverse() : days;
+  const newestDate = days.length ? days[days.length - 1].date : null;
   const [headRef, headIn] = useInView(0.35);
   const scrollRef = useRef();
   const gridRef = useRef();
@@ -629,15 +640,16 @@ function ArchiveGallery({ t, onOpen }) {
         <h2 className="ax-rev ax-hl" style={{ fontSize: 'clamp(30px,3.8vw,46px)', lineHeight: 1.14, color: t.hl,
           margin: '18px 0 10px', transitionDelay: '.1s' }}>어제까지의 모든 소식</h2>
         <p className="ax-rev ax-body" style={{ fontSize: 16, color: t.body, margin: 0, transitionDelay: '.2s' }}>
-          스크롤하면 지난 5일의 카드덱이 펼쳐집니다 · 카드를 누르면 크게 열립니다</p>
+          {isMobile ? '어제부터 가장 과거까지, 날짜순으로 · 카드를 누르면 크게 열립니다'
+                    : '스크롤하면 지난 5일의 카드덱이 펼쳐집니다 · 카드를 누르면 크게 열립니다'}</p>
       </div>
       <section ref={scrollRef} className="ax-gal-scroll" style={{ height: '300vh' }} data-screen-label="아카이브">
         <div className="ax-gal-sticky">
           <div ref={gridRef} className="ax-gal-grid">
-            {days.map((day, i) => (
+            {ordered.map((day, i) => (
               <div key={day.date} className="ax-gal-col" ref={(el) => { cols.current[i] = el; }}
                 style={{ marginTop: baseMt[i % baseMt.length] }}>
-                <GalleryColHeader day={day} isLast={i === days.length - 1} t={t} />
+                <GalleryColHeader day={day} isLast={day.date === newestDate} t={t} />
                 {day.cards.map((c, ci) => (
                   <GalleryTile key={ci} card={c} t={t} onClick={() => onOpen(day, ci)} />
                 ))}
