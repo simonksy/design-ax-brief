@@ -113,6 +113,8 @@ const THEMES = {
     rule: 'rgba(40,30,20,.12)', nav: 'light', dotOn: '#1c1a18', dotOff: 'rgba(40,30,20,.2)',
     feedBg: 'rgba(255,255,255,0.55)', feedBorder: '1px solid rgba(255,255,255,0.72)',
     feedShadow: '0 1px 1px rgba(60,40,30,.04), 0 14px 34px -18px rgba(120,60,40,.28)',
+    /* opaque fills used on mobile so cards paint without the costly backdrop-filter */
+    cardSolid: '#fbf8f3', feedSolid: '#fbf8f3',
   },
   zenGlass: {
     name: 'Zen Glass · Bold',
@@ -127,6 +129,7 @@ const THEMES = {
     rule: 'rgba(40,24,40,.15)', nav: 'light', dotOn: '#181318', dotOff: 'rgba(40,24,40,.24)',
     feedBg: 'rgba(255,255,255,0.3)', feedBorder: '1px solid rgba(255,255,255,0.8)',
     feedShadow: 'inset 0 1px 0 rgba(255,255,255,.6), 0 18px 44px -20px rgba(120,50,90,.4)',
+    cardSolid: '#f8f2f5', feedSolid: '#f8f2f5',
   },
 };
 
@@ -194,7 +197,7 @@ function MediaScene({ item, active, bold }) {
   if (item.image) {
     return (
       <div className={cls} style={{ background: '#efe9e1' }}>
-        <img src={item.image} alt="" loading="lazy"
+        <img src={item.image} alt="" loading="eager" decoding="async" fetchpriority={active ? 'high' : 'low'}
           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%',
                    objectFit: 'cover', display: 'block' }}
           onError={(e) => { e.currentTarget.style.display = 'none'; }} />
@@ -400,7 +403,10 @@ function Carousel({ items, t, initialIndex = 0, mobile }) {
     <div style={{ display: 'flex', flexDirection: 'column', height: mobile ? 'auto' : '100%', minHeight: 0 }}>
       <div className="ax-heroin" style={{ flex: mobile ? '0 0 auto' : 1, minHeight: 0, overflow: 'hidden', touchAction: 'pan-y',
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
-        background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}
+        // mobile: opaque bg + no backdrop-filter so the swipe transform stays smooth
+        // (animating a transform over a backdrop-filter re-samples the blur each frame)
+        background: mobile ? t.cardSolid : t.cardBg,
+        WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}
         onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}>
         <div className="ax-track" style={{
           transform: `translateX(calc(${-idx * 100}% + ${dragging ? drag : 0}px))`,
@@ -556,7 +562,7 @@ function MiniCard({ card, i, mode, t, onEnter, onClick }) {
     }}>
       <div style={{ position: 'relative', height: front ? '50%' : '46%', overflow: 'hidden' }}>
         {card.image ? (
-          <img src={card.image} alt="" loading="lazy"
+          <img src={card.image} alt="" loading="eager" decoding="async"
             style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
         ) : (
           <React.Fragment>
@@ -725,12 +731,11 @@ function MobileFilmstrip({ t, onOpen }) {
               <div className="ax-day-cards">
                 {day.cards.map((c, ci) => (
                   <button key={ci} className="ax-strip-card" onClick={() => onOpen(day, ci)} style={{
-                    width: 150, background: t.feedBg, border: t.feedBorder,
-                    WebkitBackdropFilter: t.blur, backdropFilter: t.blur,
+                    width: 150, background: t.feedSolid, border: t.feedBorder,
                     boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
-                    <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden' }}>
+                    <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden', background: '#efe9e1' }}>
                       {c.image ? (
-                        <img src={c.image} alt="" loading="lazy" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                        <img src={c.image} alt="" loading="eager" decoding="async" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
                       ) : (
                         <React.Fragment>
                           <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }} />

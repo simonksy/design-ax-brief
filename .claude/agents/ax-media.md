@@ -119,6 +119,17 @@ Walk the list and pick the first image that:
   against the hashes (images AND video posters) already accepted; if it matches another
   card, discard and try the next candidate.
 
+**Downscale for the web (do this on every accepted image).** Source images are
+often 3000px+ / multiple MB, but cards render them at most ~480px (hero) / ~180px
+(deck thumbnails), so full-res downloads make the page slow to load. Cap the long
+edge at **1600px** and recompress, in place, AFTER the distinctness check (md5
+already recorded):
+```
+sips --resampleHeightWidthMax 1600 pipeline/media/<id>.<ext> >/dev/null 2>&1
+case "<id>.<ext>" in *.jpg|*.jpeg) sips -s format jpeg -s formatOptions 80 pipeline/media/<id>.<ext> >/dev/null 2>&1;; esac
+```
+(`--resampleHeightWidthMax` only ever shrinks images already larger than 1600px.)
+
 Record `{"id":<id>,"type":"image","src":"pipeline/media/<id>.<ext>"}` for the accepted
 image. Only if every candidate fails record `{"id":<id>,"type":"svg"}` (the page renders
 the accent+motif scene — no file needed).
