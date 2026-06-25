@@ -75,6 +75,12 @@ if (!document.getElementById('ax-styles')) {
     .ax-hero-wrap{width:100%;height:auto;margin:2px auto 0;}
     .ax-track{height:auto;align-items:flex-start;}
     .ax-slide{height:auto;}
+    /* Kill continuous GPU work on phones (was overheating the device): the SVG
+       feTurbulence grain and every infinite drift/spin/pulse animation. The
+       full-screen blurred+blended ThemeBackdrop is also not rendered on mobile. */
+    .ax-grain{display:none !important;}
+    .ax-scene *{animation:none !important;}
+    .ax-blob,.ax-spin,.ax-draw,.ax-sweep{animation:none !important;}
   }
   /* ---- mobile filmstrip: one long horizontal swipe of all past cards.
      Chronological left->right (past -> yesterday); JS starts it scrolled to the
@@ -179,17 +185,25 @@ function VideoScene({ item, active, bold }) {
   React.useEffect(() => {
     const v = ref.current;
     if (!v) return;
-    if (active) { const p = v.play(); if (p && p.catch) p.catch(() => {}); }
-    else { v.pause(); try { v.currentTime = 0; } catch (e) {} }
+    v.muted = true;                                  // iOS autoplay needs the PROPERTY set
+    const p = v.play(); if (p && p.catch) p.catch(() => {});
   }, [active]);
+  const cover = { position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' };
+  // Mount the <video> ONLY for the active card. iOS limits how many video decoders
+  // can run at once — five mounted clips made some never play and others stall — so
+  // inactive cards show the poster still and only the visible one decodes.
   return (
     <div className={'ax-scene' + (active ? ' ax-active' : '')} style={{ background: '#efe9e1' }}>
-      <video ref={ref} muted loop playsInline preload="metadata"
-        poster={item.poster || item.image || undefined}
-        style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}>
-        {item.webm && <source src={item.webm} type="video/webm" />}
-        <source src={item.video} type="video/mp4" />
-      </video>
+      {active ? (
+        <video ref={ref} muted loop playsInline autoPlay preload="auto"
+          poster={item.poster || item.image || undefined} style={cover}>
+          {item.webm && <source src={item.webm} type="video/webm" />}
+          <source src={item.video} type="video/mp4" />
+        </video>
+      ) : (
+        <img src={item.poster || item.image} alt="" decoding="async" style={cover}
+          onError={(e) => { e.currentTarget.style.display = 'none'; }} />
+      )}
       <div className="ax-grain" style={{ opacity: bold ? 0.06 : 0.08 }} />
     </div>
   );
@@ -511,37 +525,54 @@ function useMorphingText(texts) {
 }
 
 function MorphingTitle({ texts, color, fontSize = 56, width = 360, height = 72 }) {
-  const { text1Ref, text2Ref } = useMorphingText(texts);
-  // The gooey blend is an SVG alpha-threshold filter applied DIRECTLY to the text
-  // box. (An earlier transform:scale() supersample wrapper broke `filter:url()` on
-  // iOS Safari — the morph fell back to a plain text swap — so keep the filter on a
-  // plain, untransformed element.)
-  const spanStyle = {
-    position: 'absolute', left: 0, top: 0, display: 'inline-block',
-    width: '100%', textAlign: 'center', whiteSpace: 'nowrap',
+  // Gooey morph done ENTIRELY inside SVG (two <text>s under a group filter =
+  // feGaussianBlur + alpha-threshold). SVG filters on SVG content render reliably on
+  // iOS Safari, unlike `filter:url(#id)` on an HTML element (which iOS dropped, so
+  // the morph degraded to a plain text swap). The blur peaks mid-transition and the
+  // threshold fuses the two crossfading words into liquid metaballs; at rest blur is
+  // 0 so the word is crisp.
+  const t1 = useRef(null), t2 = useRef(null), blurRef = useRef(null);
+  useEffect(() => {
+    const T1 = t1.current, T2 = t2.current, B = blurRef.current;
+    if (!T1 || !T2 || !texts || !texts.length) return;
+    const MORPH = 1500, HOLD = 700, CYCLE = MORPH + HOLD;
+    let raf = 0, start = null, alive = true, lastBlur = -1;
+    const tick = (now) => {
+      if (start == null) start = now;
+      const el = now - start;
+      const i = Math.floor(el / CYCLE), phase = el % CYCLE;
+      T1.textContent = texts[i % texts.length];
+      T2.textContent = texts[(i + 1) % texts.length];
+      const f = phase < MORPH ? phase / MORPH : 1;
+      const e = f < 0.5 ? 2 * f * f : 1 - Math.pow(-2 * f + 2, 2) / 2; // easeInOut
+      T1.style.opacity = String(1 - e);
+      T2.style.opacity = String(e);
+      const blur = (phase < MORPH ? Math.sin(Math.PI * f) * 9 : 0);
+      if (B && Math.abs(blur - lastBlur) > 0.05) { B.setAttribute('stdDeviation', blur.toFixed(2)); lastBlur = blur; }
+      if (alive) raf = requestAnimationFrame(tick);
+    };
+    raf = requestAnimationFrame(tick);
+    return () => { alive = false; cancelAnimationFrame(raf); };
+  }, [texts]);
+  const textProps = {
+    x: '50%', y: '52%', textAnchor: 'middle', dominantBaseline: 'central',
+    fontFamily: 'var(--font-sans)', fontWeight: 700, fontSize, letterSpacing: '-0.04em', fill: color,
   };
   return (
-    <div style={{
-      position: 'relative', width, height, margin: '0 auto',
-      fontFamily: 'var(--font-sans)', fontWeight: 700, fontSize,
-      letterSpacing: '-0.04em', lineHeight: `${height}px`, color,
-      filter: 'url(#ax-threshold) blur(0.4px)',
-    }}>
-      <span ref={text1Ref} style={spanStyle} />
-      <span ref={text2Ref} style={spanStyle} />
-      <svg className="ax-hidden-svg" style={{ position: 'absolute', width: 0, height: 0 }}>
-        <defs>
-          <filter id="ax-threshold" x="-15%" y="-15%" width="130%" height="130%"
-            colorInterpolationFilters="sRGB">
-            <feColorMatrix in="SourceGraphic" type="matrix"
-              values="1 0 0 0 0
-                      0 1 0 0 0
-                      0 0 1 0 0
-                      0 0 0 255 -140" />
-          </filter>
-        </defs>
-      </svg>
-    </div>
+    <svg width={width} height={height} viewBox={`0 0 ${width} ${height}`} aria-hidden
+      style={{ display: 'block', margin: '0 auto', overflow: 'visible' }}>
+      <defs>
+        <filter id="ax-goo" x="-20%" y="-20%" width="140%" height="140%" colorInterpolationFilters="sRGB">
+          <feGaussianBlur ref={blurRef} in="SourceGraphic" stdDeviation="0" result="b" />
+          <feColorMatrix in="b" type="matrix"
+            values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 20 -8" />
+        </filter>
+      </defs>
+      <g filter="url(#ax-goo)">
+        <text ref={t1} {...textProps} />
+        <text ref={t2} {...textProps} />
+      </g>
+    </svg>
   );
 }
 
@@ -810,7 +841,10 @@ function ThemedPage({ themeKey }) {
   const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
   return (
     <div style={{ position: 'relative', minHeight: '100vh', overflow: 'visible', background: t.briefBg, boxSizing: 'border-box' }}>
-      <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>
+      {/* The animated, full-screen, blurred + mix-blended backdrop is the page's
+          biggest continuous GPU cost — it overheats phones. Desktop only; mobile
+          falls back to the cheap static briefBg gradient on the root. */}
+      {!isMobile && <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>}
       <div className="ax-shell">
         <Masthead t={t} mobile={isMobile} />
         {/* back-to-today control — rendered only while viewing a past day, so it
