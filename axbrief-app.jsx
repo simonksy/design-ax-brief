@@ -126,6 +126,11 @@ if (!document.getElementById('ax-styles')) {
   .ax-full img{display:block;width:100%;height:auto;border-radius:12px;margin:6px 0 16px;background:#efe9e1;}
   .ax-full .ax-vid{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;margin:6px 0 16px;background:#000;}
   .ax-full .ax-vid iframe,.ax-full .ax-vid video{position:absolute;inset:0;width:100%;height:100%;border:0;}
+  /* bouncy "bubble" collapse: expanded article shrinks away, summary card pops back */
+  @keyframes ax-bubble-out{0%{transform:scale(1);opacity:1}26%{transform:scale(1.035)}100%{transform:scale(.62);opacity:0}}
+  .ax-bubble-out{animation:ax-bubble-out .3s cubic-bezier(.34,1.56,.64,1) forwards;transform-origin:center top;will-change:transform,opacity;}
+  @keyframes ax-bubble-in{0%{transform:scale(.8);opacity:.25}58%{transform:scale(1.045)}100%{transform:scale(1);opacity:1}}
+  .ax-bubble-in{animation:ax-bubble-in .36s cubic-bezier(.34,1.56,.64,1) both;transform-origin:center top;}
   `;
   document.head.appendChild(s);
 }
@@ -928,23 +933,34 @@ function MobileFilmstrip({ t, onOpen, days }) {
 function MobileArticle({ item, t, onClose }) {
   const ref = useRef();
   const startY = useRef(0);
+  const [closing, setClosing] = useState(false);
+  const edge = useRef({ top: false, bottom: false });
+  // play the bouncy bubble-shrink, THEN actually collapse
+  const close = () => { if (closing) return; setClosing(true); setTimeout(onClose, 290); };
   useEffect(() => { if (ref.current) ref.current.scrollIntoView({ block: 'start' }); }, []);
-  const onTouchStart = (e) => { startY.current = e.touches[0].clientY; };
+  const onTouchStart = (e) => {
+    startY.current = e.touches[0].clientY;
+    const el = ref.current;
+    // Only arm collapse if the gesture STARTS already at the article's edge (a real
+    // over-pull), so mid-article scrolling never dismisses. Generous buffers.
+    const r = el ? el.getBoundingClientRect() : null;
+    edge.current = r
+      ? { top: r.top >= -2, bottom: r.bottom <= window.innerHeight + 2 }
+      : { top: false, bottom: false };
+  };
   const onTouchEnd = (e) => {
-    const el = ref.current; if (!el) return;
+    if (closing) return;
     const dy = e.changedTouches[0].clientY - startY.current;
-    const top = el.offsetTop, bottom = top + el.offsetHeight;
-    const atTop = window.scrollY <= top + 8;
-    const atBottom = (window.scrollY + window.innerHeight) >= bottom - 8;
-    if (atTop && dy > 90) onClose();             // pulled down past the top
-    else if (atBottom && dy < -90) onClose();    // pushed up past the bottom
+    const BUF = 130;                            // need a deliberate over-pull, not a normal swipe
+    if (edge.current.top && dy > BUF) close();          // at the top, pulled down hard
+    else if (edge.current.bottom && dy < -BUF) close();  // at the bottom, pushed up hard
   };
   return (
-    <div ref={ref} onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
+    <div ref={ref} className={closing ? 'ax-bubble-out' : ''} onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
       style={{ maxWidth: 480, margin: '2px auto 0', background: t.cardSolid || t.cardBg,
         border: t.cardBorder, borderRadius: t.radius, overflow: 'hidden', boxShadow: t.cardShadow,
         display: 'flex', flexDirection: 'column' }}>
-      <FullArticle item={item} t={t} onClose={onClose} />
+      <FullArticle item={item} t={t} onClose={close} />
     </div>
   );
 }
@@ -981,6 +997,12 @@ function ThemedPage({ themeKey }) {
   const [hero, setHero] = useState(() => ({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: 0, day: null }));
   const [intro, setIntro] = useState(null);
   const [expanded, setExpanded] = useState(null);   // mobile: the card whose full article is open
+  const [returned, setReturned] = useState(false);  // briefly true after collapse → card pops back
+  const collapseExpanded = () => {
+    setExpanded(null);
+    setReturned(true);
+    setTimeout(() => setReturned(false), 420);
+  };
   // Pre-decode this section's images so swiping/scrolling never shows a blank tile.
   useEffect(() => {
     let alive = true;
@@ -1042,11 +1064,11 @@ function ThemedPage({ themeKey }) {
         )}
         {isMobile && expanded ? (
           /* mobile: full article expanded inline (card grows; page scrolls) */
-          <MobileArticle item={expanded} t={t} onClose={() => setExpanded(null)} />
+          <MobileArticle item={expanded} t={t} onClose={collapseExpanded} />
         ) : hasNews ? (
           <React.Fragment>
             {/* HERO — centered vertical card */}
-            <div ref={heroRef} className="ax-hero-wrap">
+            <div ref={heroRef} className={'ax-hero-wrap' + (returned ? ' ax-bubble-in' : '')}>
               <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} onMobileExpand={setExpanded} />
               {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} onDone={() => setIntro(null)} />}
             </div>
