@@ -110,6 +110,27 @@ if (!document.getElementById('ax-styles')) {
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:12px;}
     .ax-tabs::-webkit-scrollbar{display:none;}
   }
+  /* ---- card flip: front summary <-> back full translated article ---- */
+  .ax-flip-wrap{position:relative;width:100%;height:100%;perspective:1800px;}
+  .ax-flip{position:relative;width:100%;height:100%;transform-style:preserve-3d;
+     transition:transform .62s cubic-bezier(.4,0,.2,1);}
+  .ax-flip.flipped{transform:rotateY(180deg);}
+  .ax-flip-face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+     overflow:hidden;border-radius:inherit;}
+  .ax-flip-back{transform:rotateY(180deg);display:flex;flex-direction:column;}
+  /* + open / close buttons */
+  .ax-flip-btn{position:absolute;bottom:16px;right:16px;z-index:6;width:38px;height:38px;border-radius:50%;
+     display:inline-flex;align-items:center;justify-content:center;cursor:pointer;font-size:22px;line-height:1;
+     font-family:var(--font-sans);font-weight:400;transition:transform .15s ease,background .2s ease;}
+  .ax-flip-btn:active{transform:scale(.9);}
+  /* full-article scroll region (the fixed text box) */
+  .ax-full{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:24px 26px 26px;}
+  .ax-full::-webkit-scrollbar{width:8px;}
+  .ax-full::-webkit-scrollbar-thumb{background:rgba(120,90,70,.22);border-radius:8px;}
+  .ax-full p{margin:0 0 13px;}
+  .ax-full img{display:block;width:100%;height:auto;border-radius:12px;margin:6px 0 16px;background:#efe9e1;}
+  .ax-full .ax-vid{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;margin:6px 0 16px;background:#000;}
+  .ax-full .ax-vid iframe,.ax-full .ax-vid video{position:absolute;inset:0;width:100%;height:100%;border:0;}
   `;
   document.head.appendChild(s);
 }
@@ -387,6 +408,69 @@ function LayoutEditorial({ item, index, total, active, t, mobile }) {
   );
 }
 
+/* ---- FullArticle: the flip back — Korean-translated article (text+img+video),
+   capped to a fixed scroll box (full if it fits, else a summary that fits). ---- */
+function FullArticle({ item, t }) {
+  const it = axEnrich(item);
+  const full = item.full || { blocks: [] };
+  const blocks = full.blocks || [];
+  return (
+    <React.Fragment>
+      <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
+        <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
+          {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {full.mode === 'summary' ? '요약본(번역)' : '전문(번역)'}</span>
+        </div>
+        <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
+      </div>
+      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62 }}>
+        {blocks.map((b, i) => {
+          if (b.t === 'img') return <img key={i} src={b.src} alt={b.cap || ''} loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />;
+          if (b.t === 'video') return (
+            <div key={i} className="ax-vid">
+              {b.yt
+                ? <iframe src={`https://www.youtube.com/embed/${b.yt}`} title="video" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowFullScreen />
+                : <video src={b.src} poster={b.poster || undefined} controls playsInline />}
+            </div>
+          );
+          return <p key={i}>{b.x}</p>;
+        })}
+        <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
+          <SourceLine item={it} t={t} />
+        </div>
+      </div>
+    </React.Fragment>
+  );
+}
+
+/* ---- FlipCard: front = LayoutEditorial summary; tap + to flip (revolving door)
+   to the FullArticle back. Desktop-first (the back uses absolute faces that need a
+   fixed-height card; on mobile, where the hero is content-height, fall back to the
+   plain summary card for now). ---- */
+function FlipCard({ item, index, total, active, t, mobile }) {
+  const [flipped, setFlipped] = useState(false);
+  useEffect(() => { if (!active) setFlipped(false); }, [active]);
+  const hasFull = item.full && Array.isArray(item.full.blocks) && item.full.blocks.length > 0;
+  if (mobile || !hasFull) {
+    return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
+  }
+  return (
+    <div className="ax-flip-wrap">
+      <div className={'ax-flip' + (flipped ? ' flipped' : '')}>
+        <div className="ax-flip-face">
+          <LayoutEditorial item={item} index={index} total={total} active={active && !flipped} t={t} mobile={mobile} />
+          <button className="ax-flip-btn" onClick={() => setFlipped(true)} aria-label="기사 전문 보기"
+            style={{ background: t.hl, color: '#fff', border: 'none', boxShadow: '0 6px 18px -6px rgba(0,0,0,.4)' }}>+</button>
+        </div>
+        <div className="ax-flip-face ax-flip-back" style={{ background: t.cardSolid || t.cardBg }}>
+          <FullArticle item={item} t={t} />
+          <button className="ax-flip-btn" onClick={() => setFlipped(false)} aria-label="요약으로 닫기"
+            style={{ background: t.cardSolid || '#fff', color: t.mute, border: `1px solid ${t.rule}` }}>×</button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 /* ---- themed circular nav ---- */
 function NavButton({ dir, disabled, onClick, t }) {
   const styles = {
@@ -454,7 +538,7 @@ function Carousel({ items, t, initialIndex = 0, mobile }) {
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <LayoutEditorial item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
             </div>
           ))}
         </div>

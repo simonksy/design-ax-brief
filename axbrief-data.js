@@ -15,7 +15,46 @@
         "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
         "accent": "#f5a623",
         "motif": "sphere",
-        "image": "pipeline/media/krea2.png"
+        "image": "pipeline/media/krea2.png",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "AI 이미지가 점점 '비슷비슷하고 개성 없는' 결과물, 이른바 'AI 슬롭'으로 흘러간다는 비판이 늘고 있다. 크리에이티브 AI 스타트업 Krea는 이 흐름을 바꾸기 위해 새 프런티어 이미지 모델 Krea 2의 가중치를 'Krea 2 Raw'와 'Krea 2 Turbo' 두 버전으로 공개했다. 두 모델 모두 Hugging Face에서 내려받을 수 있으며, 일반적인 생성기보다 시각적 다양성이 풍부하면서도 프롬프트 정확도와 품질을 유지하고, 출력 커스터마이징 폭이 훨씬 넓다는 점이 특징이다."
+            },
+            {
+              "t": "img",
+              "src": "https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=1000&q=100",
+              "cap": "Krea 2 Large(fal.ai)로 생성한 이미지. 출처: VentureBeat"
+            },
+            {
+              "t": "p",
+              "x": "기술적 핵심은 처음부터 새로 설계한 120억 파라미터 규모의 디퓨전 트랜스포머다. Krea는 하나의 모델을 정교하게 미세조정하는 대신, 학습 생애주기의 서로 다른 시점에서 포착한 두 개의 차별화된 체크포인트를 공개했다. 텍스트와 이미지 토큰이 어텐션·MLP 계층을 공유하는 단일 스트림 구조를 채택했고, SwiGLU MLP와 그룹 쿼리 어텐션(GQA) 등으로 연산 효율을 높였다."
+            },
+            {
+              "t": "p",
+              "x": "Krea 2 Raw는 정렬·RLHF·미학적 증류를 거치지 않은 미증류 베이스 체크포인트로, 바로 쓰기엔 적합하지 않지만 구조적 학습에는 최적화된 '빈 캔버스'다. 반대편의 Krea 2 Turbo는 Krea 2 Medium에서 파생된 증류·후학습 변형으로, 생성 사이클을 단 8스텝(가이던스 0.0)으로 압축해 일반 소비자급 하드웨어에서 2K 해상도 이미지를 약 2초 만에 렌더링한다. 이는 공개·독점 모델을 통틀어 가장 빠른 축에 속한다."
+            },
+            {
+              "t": "img",
+              "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7euaZA7YV6PWUwt09nBrzV/1e551a6b9cea7895540a9b1445f89709/image.png",
+              "cap": ""
+            },
+            {
+              "t": "p",
+              "x": "Krea는 사전학습 데이터에 '합성 데이터 제로' 정책을 적용해 AI 생성 이미지를 대규모로 걸러냈다. 권장 작업 방식은 'Raw로 학습하고 Turbo로 생성하라'다. 스타일적 편향이 없는 Raw로 맞춤형 LoRA나 도메인 특화 파인튜닝을 수행한 뒤, 그 LoRA를 그대로 Turbo로 옮겨 빠르게 렌더링한다. 사용자 앱 단에는 여러 스타일 참조 이미지를 입력하는 스타일 전이 시스템과 LLM 프롬프트 확장기도 결합했다."
+            },
+            {
+              "t": "p",
+              "x": "공개 가중치는 'Krea 2 Community License'와 별도의 이용약관(AUP) 아래 배포된다. 개인·독립 창작자·소규모 기업은 로열티 없이 상업적으로 활용·통합할 수 있고, Krea는 사용자가 만든 콘텐츠에 대한 저작권을 주장하지 않는다. 다만 50석을 넘거나 SSO·SLA·DPA가 필요한 조직은 '엔터프라이즈'로 분류돼 별도 유료 커스텀 라이선스를 협상해야 한다. 또한 MIT·Apache와 달리 자체 호스팅 배포자에게 입출력 분류기 등 콘텐츠 필터링을 의무화하며, 불법물·NCII·CSAM 생성을 막지 않으면 계약 위반으로 가중치 접근이 철회될 수 있다."
+            },
+            {
+              "t": "p",
+              "x": "2022년 Víctor Perez와 Diego Rodriguez Prado가 창업한 샌프란시스코 기반 Krea는 a16z 등으로부터 누적 8,300만 달러를 유치했고, 2026년 6월 기준 191개국 3,000만 명 이상의 사용자를 확보했다. 처음엔 외부 모델을 묶는 SaaS 애그리게이터였으나 자체 아키텍처 개발로 전환했다. 이번 Raw·Turbo 공개로 Krea는 AI 도구 제공자에서 독자적 모델 제공자로 확장하며, 중앙집중식 정렬 대신 예술적 통제권을 우선하는 개방형 대안을 내놓았다."
+            }
+          ]
+        }
       },
       {
         "id": "adobe-topaz",
@@ -27,7 +66,41 @@
         "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
         "accent": "#ff5a4d",
         "motif": "frame",
-        "image": "pipeline/media/adobe-topaz.jpg"
+        "image": "pipeline/media/adobe-topaz.jpg",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "어도비가 목요일, 영상·이미지 화질 개선용 AI 모델을 전문으로 하는 Topaz Labs를 인수해 크리에이티브 사업부에 통합한다고 발표했다."
+            },
+            {
+              "t": "img",
+              "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=1024",
+              "cap": ""
+            },
+            {
+              "t": "p",
+              "x": "Topaz Labs는 20년 넘게 영상과 이미지 화질을 높이는 도구를 개발해 온 회사다. 최근에는 AI 영상 업스케일링 도구 Astra와 이미지 리터칭 도구 Wonder를 선보였으며, 대형 영상 모델을 소비자급 GPU에서 구동할 수 있게 하는 기술도 개발했다."
+            },
+            {
+              "t": "p",
+              "x": "현재 일부 Topaz 도구를 크리에이티브 클라우드를 통해 제공 중인 어도비는, Topaz의 모델을 Firefly AI를 비롯한 이미지·영상 편집 제품군에 통합할 계획이다. 동시에 Topaz의 기존 제품은 자체 웹사이트에서 독립 서비스로 계속 유지된다."
+            },
+            {
+              "t": "p",
+              "x": "크리에이티브 클라우드 제품 마케팅 부사장 Deepa Subramaniam은 전문가들이 Topaz 제품으로 '실사 영상과 AI 클립을 결합'해 디테일 선명화, 노이즈 감소, 기록 영상 복원 같은 작업을 수행할 수 있다고 설명했다."
+            },
+            {
+              "t": "p",
+              "x": "그는 Topaz Labs가 '크고 복잡한 AI 모델을 기기에서 직접 구동하도록 최적화하는 깊은 전문성'을 갖추고 있어, 어도비가 더 빠른 경험을 제공하는 동시에 고급 AI를 창작자에게 '더 접근 가능하고 비용 효율적으로' 만들 수 있다고 강조했다."
+            },
+            {
+              "t": "p",
+              "x": "어도비는 편집 소프트웨어 분야에서 Canva, 블랙매직 디자인과 경쟁하고 있다. 앱 전반의 AI 통합과 Topaz Labs 같은 인수를 통해, 어도비는 사용자가 경쟁 플랫폼으로 이탈하지 않고 자사 생태계 안에 머물도록 하려는 목표를 갖고 있다. 이번 거래는 2026년 하반기에 마무리될 전망이다."
+            }
+          ]
+        }
       },
       {
         "id": "claude-tag",
@@ -39,7 +112,45 @@
         "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
         "accent": "#3b6bff",
         "motif": "frame",
-        "image": "pipeline/media/claude-tag.png"
+        "image": "pipeline/media/claude-tag.png",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "앤트로픽이 슬랙 안에 상주하며 AI 동료처럼 작동하는 '상시 가동형 Claude', Claude Tag를 선보였다. 이 기능을 쓰면 채팅에서 @Claude를 태그해 인사이트를 얻고 업무를 맡길 수 있으며, Claude Enterprise와 Claude Team 고객을 대상으로 슬랙용 베타로 제공된다."
+            },
+            {
+              "t": "img",
+              "src": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?w=1024",
+              "cap": "이미지 출처: Anthropic"
+            },
+            {
+              "t": "p",
+              "x": "Claude Tag는 기존 연동을 한 단계 발전시킨 것이다. 이전에도 슬랙에서 @Claude에게 DM을 보내거나 채널에서 태그해 즉시 도움을 받을 수 있었고, 슬랙의 Claude Code는 채널 멘션의 코딩 작업을 웹의 전체 코딩 세션으로 보낸 뒤 결과를 스레드에 다시 게시했다."
+            },
+            {
+              "t": "p",
+              "x": "그러나 Claude Tag는 기존 도구로는 유지하기 어려웠던 지속적 맥락과 메모리를 도입한다. 앤트로픽의 설명대로 'Claude는 채널을 따라가며 업무에 대해 점점 더 많이 학습'한다. 권한이 주어지면 조직의 다른 채널에서 사실을 자동으로 수집할 수도 있다."
+            },
+            {
+              "t": "p",
+              "x": "Claude Tag 안에서는 특정 슬랙 채널의 모든 구성원이 하나의 Claude 정체성에 접근하므로, '누구나 Claude가 무엇을 작업해 왔는지 보고 직전 사람이 멈춘 지점부터 대화를 이어받을 수 있다.' 관리자는 Claude가 접근할 수 있는 도구·정보·채널을 지정하며, 각 Claude 정체성은 정해진 채널로 범위가 한정돼 부서 간 정보가 새어 나가는 것을 막는다."
+            },
+            {
+              "t": "p",
+              "x": "업무가 주어지면 Claude Tag는 일을 단계별로 쪼개 사용 가능한 도구로 처리하고, 완성된 결과물을 슬랙 스레드에 응답한다. 또한 대화에 능동적으로 참여해 팀에 진행 상황을 알리고, 조직 차원의 사안을 표시하며, 잊힌 스레드나 작업을 챙기는 '앰비언트 모드'도 갖췄다."
+            },
+            {
+              "t": "p",
+              "x": "앤트로픽은 이를 '실제 동료와 함께 일하는 것 — 이전보다 훨씬 풍부한 맥락과 이해를 바탕으로 공개된 자리에서 결과물을 만들어내는 동료'라고 표현한다."
+            },
+            {
+              "t": "p",
+              "x": "이러한 조직 맥락 역량은 엔터프라이즈 도입에서 점점 중요해지고 있다. 마이크로소프트는 Graph와 Copilot으로 유사한 기능을 제공하며, 스노우플레이크·데이터브릭스·Glean 역시 AI 에이전트가 접근할 수 있는 조직 지식을 담은 백엔드 기반 플랫폼을 구축하고 있다."
+            }
+          ]
+        }
       }
     ],
     "days": [
@@ -230,7 +341,43 @@
             "source": "Figma",
             "url": "https://www.figma.com/blog/config-2026-recap/",
             "accent": "#0070f3",
-            "image": "pipeline/media/figma.png"
+            "image": "pipeline/media/figma.png",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "p",
+                  "x": "Config 2026에서 Figma는 캔버스 위에서 다룰 수 있는 새로운 '재료'들을 대거 공개했다. 공동창업자 겸 CEO 딜런 필드는 \"어떤 도구도 아이디어가 도달할 수 있는 곳을 제한해서는 안 된다\"며, 코드, 모션, 셰이더, 생성형 플러그인, Weave 도구를 통한 무한한 표현을 이번 발표의 핵심으로 제시했다. 그는 \"AI가 바닥을 낮추었지만 천장을 높이지는 못했다\"며, 그 천장을 끌어올리는 것은 결국 디자이너와 크리에이터의 몫이라고 강조했다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+                  "cap": "코드를 디자인 재료로 다루는 코드 레이어"
+                },
+                {
+                  "t": "p",
+                  "x": "가장 주목할 변화는 '캔버스 위의 코드'다. 이미지나 벡터처럼 코드도 하나의 디자인 재료로 취급되어, 어떤 레이어든 클릭 한 번이나 프롬프트로 인터랙티브한 코드 레이어로 바꿀 수 있다. 여러 방향을 동시에 탐색하고, 공유 파일에서 댓글과 함께 협업하며, 코드와 디자인 간 변경을 원클릭으로 동기화할 수 있다. 코드 레이어는 2026년 7월부터 순차 출시된다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://cdn.sanity.io/images/599r6htc/regionalized/1f82f266ce4e3611ca58858db629942d5aeaa6c9-3840x2160.png?rect=0,1,3840,2159&w=804&h=452&q=75&fit=max&auto=format",
+                  "cap": "Figma Design에 내장된 모션 타임라인"
+                },
+                {
+                  "t": "p",
+                  "x": "모션 디자인도 Figma Design 안으로 들어왔다. 키프레임과 프리셋을 갖춘 타임라인으로 처음부터 만들거나 기존 디자인에 얹을 수 있고, 에이전트가 초기 애니메이션을 생성해 준다. 모션은 모든 화면을 가로지르는 디자인 시스템 요소가 되며, Dev Mode에서 타이밍과 이징 곡선을 검사할 수 있다. CSS, JSON, React, MP4, WebM, 애니메이션 SVG, GIF로 내보낼 수 있다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d6b5115bb3fc17ee7d5cdb4192a7a3b99d60679a-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+                  "cap": "AI 기반 스타일 트랜스퍼를 보여주는 Weave 도구"
+                },
+                {
+                  "t": "p",
+                  "x": "셰이더는 이제 에이전트로 생성한다. 원하는 바를 설명하거나 이미지를 참조로 주면 맞춤 셰이더가 만들어지며, 파라미터는 기본적으로 캔버스에서 조절할 수 있고 다른 효과와 겹쳐 쌓을 수 있다. 또한 개발 환경이나 플러그인 API 지식 없이도 동작과 컨트롤을 설명하는 것만으로 맞춤 도구를 만드는 생성형 플러그인, 노드 기반으로 모델을 잇고 에셋을 변형하는 Weave 도구가 추가됐다. 에이전트에는 재사용 가능한 Skills, Notion·Slack·GitHub 등과 연결되는 Connectors, 첨부 지원이 더해졌고 FigJam과 Slides로 확장된다. 필드는 \"오직 당신만이 만들 수 있는 것을 만들라\"는 말로 마무리했다."
+                }
+              ]
+            }
           },
           {
             "tool": "KeyShot",
@@ -238,7 +385,37 @@
             "source": "80 Level",
             "url": "https://80.lv/articles/everything-you-need-to-know-about-houdini-22",
             "accent": "#f5a623",
-            "image": "pipeline/media/houdini22.jpg"
+            "image": "pipeline/media/houdini22.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "p",
+                  "x": "SideFX가 6월 22일 키노트에서 Houdini 22의 상세 내용을 공개했는데, 사전 프리뷰보다 훨씬 많은 기능이 담겼다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://cdn.80.lv/api/upload/meta/48937/images/6a3a4c4b7afcb/contain_1200x630.jpg",
+                  "cap": "Houdini 22"
+                },
+                {
+                  "t": "p",
+                  "x": "가장 눈에 띄는 변화는 완전히 새로 디자인된 사용자 인터페이스다. 깔끔하고 현대적인 미감과 개선된 내비게이션을 강조하며, 커스터마이즈 옵션과 워크플로 개선도 함께 따라왔다."
+                },
+                {
+                  "t": "p",
+                  "x": "Houdini 22는 3D 가우시안 스플래팅과 제어 가능한 ML 파이프라인의 네이티브 지원이라는 약속을 지켰다. 3D 가우시안 스플래팅은 전통적인 지오메트리 모델링 대신 3D 공간에 배치된 수백만 개의 작은 타원체를 사용해, 사진이나 영상으로부터 실제 장면을 재구성하는 기술이다."
+                },
+                {
+                  "t": "p",
+                  "x": "그 외에도 지형 텍스처링과 해양 스펙트럼 생성을 위한 Copernicus 도구, KineFX와 APEX 기반의 강화된 리깅·애니메이션, 최적화된 헤어·퍼 물리 시뮬레이션, 레이아웃과 스캐터링 프로시저럴이 개선된 Solaris 기능 확장이 포함된다."
+                },
+                {
+                  "t": "p",
+                  "x": "출시일은 아직 확정되지 않았으나, Houdini의 역대 출시 패턴으로 볼 때 7월 중순이 유력한 시점으로 보인다."
+                }
+              ]
+            }
           },
           {
             "tool": "KeyShot",
@@ -246,7 +423,33 @@
             "source": "80 Level",
             "url": "https://80.lv/articles/blender-cloud-paint-tool-updated-with-flat-paint-generator-procedural-asset-library",
             "accent": "#eb367f",
-            "image": "pipeline/media/cloudpaint2.jpeg"
+            "image": "pipeline/media/cloudpaint2.jpeg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "p",
+                  "x": "3D 아티스트 케이시 쉽(Casey Sheep)이 Blender용 스타일라이즈드 구름 생성기 Cloud Paint의 새 버전 V2를 공개했다. 부드럽고 회화적인 구름을 시각화하는 까다로운 작업을 돕기 위해 만들어진 도구다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://cdn.80.lv/api/upload/meta/48934/images/6a3a308df32df/contain_1200x630.jpeg",
+                  "cap": "Cloud Paint V2 for Blender"
+                },
+                {
+                  "t": "p",
+                  "x": "Geometry Nodes로 구동되는 이 도구의 V2 버전은 새로운 플랫 페인트 구름 생성기를 특징으로 한다. 이전 버전과 구분되는 별도의 프로시저럴 시스템으로, 평면적으로 칠한 듯한 색 블록 스타일의 뚜렷한 구름 룩을 목표로 한다."
+                },
+                {
+                  "t": "p",
+                  "x": "이와 더불어 새 버전에는 \"색상, 형태, 파라미터를 조절할 수 있는 20개 이상의 프로시저럴 에셋 라이브러리\"가 포함되어, 아티스트가 다양한 스타일의 구름을 만들 수 있는 추가 도구를 제공한다."
+                },
+                {
+                  "t": "p",
+                  "x": "케이시 쉽은 Cloud Paint V2로 제작한 작품을 공유하며 도구의 활용 가능성을 선보였다. 또한 스타일라이즈드 잔디 에셋 라이브러리인 GrassPaint의 V2 업데이트도 개발 중이라고 밝혔다."
+                }
+              ]
+            }
           },
           {
             "tool": "Social",
@@ -254,7 +457,24 @@
             "source": "Luke J Byrne (AI Luke)",
             "url": "https://www.youtube.com/watch?v=zjrSoXtlunU",
             "accent": "#ff2d55",
-            "image": "pipeline/media/claude-obsidian.jpg"
+            "image": "pipeline/media/claude-obsidian.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "video",
+                  "yt": "zjrSoXtlunU"
+                },
+                {
+                  "t": "p",
+                  "x": "이 영상은 Obsidian과 Claude Code를 결합해 '두 번째 뇌(Second Brain)'를 구축하는 과정을 실습 형식으로 보여준다. 메모와 지식을 마크다운 파일로 보관하는 Obsidian 볼트를, 터미널 기반 AI 코딩 에이전트인 Claude Code가 직접 읽고 정리하고 연결하도록 만드는 워크플로가 핵심이다."
+                },
+                {
+                  "t": "p",
+                  "x": "단순한 노트 앱을 넘어, AI 에이전트가 파일 시스템을 탐색하며 노트를 생성하고 분류하며 서로 연결해 검색 가능한 지식 베이스로 키워 나가는 방법을 단계별로 따라간다. 개인 지식 관리(PKM)와 AI 에이전트를 접목하려는 이들에게 실용적인 출발점을 제시한다."
+                }
+              ]
+            }
           },
           {
             "tool": "Social",
@@ -262,7 +482,24 @@
             "source": "The Ravit Show",
             "url": "https://www.youtube.com/watch?v=tBU1KC5BQ2k",
             "accent": "#3b6bff",
-            "image": "pipeline/media/ax-shift.jpg"
+            "image": "pipeline/media/ax-shift.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "video",
+                  "yt": "tBU1KC5BQ2k"
+                },
+                {
+                  "t": "p",
+                  "x": "\"AI-Enabled Workforce\"를 주제로 한 인터뷰 영상으로, AI 에이전트가 일하는 방식과 조직 구조를 어떻게 재편하고 있는지를 다룬다. AI 에이전트, 생산성, 그리고 엔터프라이즈 차원의 전환이 핵심 키워드다."
+                },
+                {
+                  "t": "p",
+                  "x": "대화는 AI 에이전트가 단순 자동화를 넘어 업무 프로세스 자체를 바꾸고, 인간과 협업하며 기업의 일하는 방식과 인력 구성을 재정의하는 흐름을 짚는다. 기술 도입에 그치지 않고 조직과 워크포스가 어떻게 적응해야 하는지에 대한 관점을 제시한다."
+                }
+              ]
+            }
           }
         ]
       }
@@ -517,7 +754,46 @@
     "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
     "accent": "#f5a623",
     "motif": "sphere",
-    "image": "pipeline/media/krea2.png"
+    "image": "pipeline/media/krea2.png",
+    "full": {
+      "mode": "summary",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI 이미지가 점점 '비슷비슷하고 개성 없는' 결과물, 이른바 'AI 슬롭'으로 흘러간다는 비판이 늘고 있다. 크리에이티브 AI 스타트업 Krea는 이 흐름을 바꾸기 위해 새 프런티어 이미지 모델 Krea 2의 가중치를 'Krea 2 Raw'와 'Krea 2 Turbo' 두 버전으로 공개했다. 두 모델 모두 Hugging Face에서 내려받을 수 있으며, 일반적인 생성기보다 시각적 다양성이 풍부하면서도 프롬프트 정확도와 품질을 유지하고, 출력 커스터마이징 폭이 훨씬 넓다는 점이 특징이다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=1000&q=100",
+          "cap": "Krea 2 Large(fal.ai)로 생성한 이미지. 출처: VentureBeat"
+        },
+        {
+          "t": "p",
+          "x": "기술적 핵심은 처음부터 새로 설계한 120억 파라미터 규모의 디퓨전 트랜스포머다. Krea는 하나의 모델을 정교하게 미세조정하는 대신, 학습 생애주기의 서로 다른 시점에서 포착한 두 개의 차별화된 체크포인트를 공개했다. 텍스트와 이미지 토큰이 어텐션·MLP 계층을 공유하는 단일 스트림 구조를 채택했고, SwiGLU MLP와 그룹 쿼리 어텐션(GQA) 등으로 연산 효율을 높였다."
+        },
+        {
+          "t": "p",
+          "x": "Krea 2 Raw는 정렬·RLHF·미학적 증류를 거치지 않은 미증류 베이스 체크포인트로, 바로 쓰기엔 적합하지 않지만 구조적 학습에는 최적화된 '빈 캔버스'다. 반대편의 Krea 2 Turbo는 Krea 2 Medium에서 파생된 증류·후학습 변형으로, 생성 사이클을 단 8스텝(가이던스 0.0)으로 압축해 일반 소비자급 하드웨어에서 2K 해상도 이미지를 약 2초 만에 렌더링한다. 이는 공개·독점 모델을 통틀어 가장 빠른 축에 속한다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7euaZA7YV6PWUwt09nBrzV/1e551a6b9cea7895540a9b1445f89709/image.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Krea는 사전학습 데이터에 '합성 데이터 제로' 정책을 적용해 AI 생성 이미지를 대규모로 걸러냈다. 권장 작업 방식은 'Raw로 학습하고 Turbo로 생성하라'다. 스타일적 편향이 없는 Raw로 맞춤형 LoRA나 도메인 특화 파인튜닝을 수행한 뒤, 그 LoRA를 그대로 Turbo로 옮겨 빠르게 렌더링한다. 사용자 앱 단에는 여러 스타일 참조 이미지를 입력하는 스타일 전이 시스템과 LLM 프롬프트 확장기도 결합했다."
+        },
+        {
+          "t": "p",
+          "x": "공개 가중치는 'Krea 2 Community License'와 별도의 이용약관(AUP) 아래 배포된다. 개인·독립 창작자·소규모 기업은 로열티 없이 상업적으로 활용·통합할 수 있고, Krea는 사용자가 만든 콘텐츠에 대한 저작권을 주장하지 않는다. 다만 50석을 넘거나 SSO·SLA·DPA가 필요한 조직은 '엔터프라이즈'로 분류돼 별도 유료 커스텀 라이선스를 협상해야 한다. 또한 MIT·Apache와 달리 자체 호스팅 배포자에게 입출력 분류기 등 콘텐츠 필터링을 의무화하며, 불법물·NCII·CSAM 생성을 막지 않으면 계약 위반으로 가중치 접근이 철회될 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "2022년 Víctor Perez와 Diego Rodriguez Prado가 창업한 샌프란시스코 기반 Krea는 a16z 등으로부터 누적 8,300만 달러를 유치했고, 2026년 6월 기준 191개국 3,000만 명 이상의 사용자를 확보했다. 처음엔 외부 모델을 묶는 SaaS 애그리게이터였으나 자체 아키텍처 개발로 전환했다. 이번 Raw·Turbo 공개로 Krea는 AI 도구 제공자에서 독자적 모델 제공자로 확장하며, 중앙집중식 정렬 대신 예술적 통제권을 우선하는 개방형 대안을 내놓았다."
+        }
+      ]
+    }
   },
   {
     "id": "adobe-topaz",
@@ -529,7 +805,41 @@
     "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
     "accent": "#ff5a4d",
     "motif": "frame",
-    "image": "pipeline/media/adobe-topaz.jpg"
+    "image": "pipeline/media/adobe-topaz.jpg",
+    "full": {
+      "mode": "full",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "어도비가 목요일, 영상·이미지 화질 개선용 AI 모델을 전문으로 하는 Topaz Labs를 인수해 크리에이티브 사업부에 통합한다고 발표했다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=1024",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Topaz Labs는 20년 넘게 영상과 이미지 화질을 높이는 도구를 개발해 온 회사다. 최근에는 AI 영상 업스케일링 도구 Astra와 이미지 리터칭 도구 Wonder를 선보였으며, 대형 영상 모델을 소비자급 GPU에서 구동할 수 있게 하는 기술도 개발했다."
+        },
+        {
+          "t": "p",
+          "x": "현재 일부 Topaz 도구를 크리에이티브 클라우드를 통해 제공 중인 어도비는, Topaz의 모델을 Firefly AI를 비롯한 이미지·영상 편집 제품군에 통합할 계획이다. 동시에 Topaz의 기존 제품은 자체 웹사이트에서 독립 서비스로 계속 유지된다."
+        },
+        {
+          "t": "p",
+          "x": "크리에이티브 클라우드 제품 마케팅 부사장 Deepa Subramaniam은 전문가들이 Topaz 제품으로 '실사 영상과 AI 클립을 결합'해 디테일 선명화, 노이즈 감소, 기록 영상 복원 같은 작업을 수행할 수 있다고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 Topaz Labs가 '크고 복잡한 AI 모델을 기기에서 직접 구동하도록 최적화하는 깊은 전문성'을 갖추고 있어, 어도비가 더 빠른 경험을 제공하는 동시에 고급 AI를 창작자에게 '더 접근 가능하고 비용 효율적으로' 만들 수 있다고 강조했다."
+        },
+        {
+          "t": "p",
+          "x": "어도비는 편집 소프트웨어 분야에서 Canva, 블랙매직 디자인과 경쟁하고 있다. 앱 전반의 AI 통합과 Topaz Labs 같은 인수를 통해, 어도비는 사용자가 경쟁 플랫폼으로 이탈하지 않고 자사 생태계 안에 머물도록 하려는 목표를 갖고 있다. 이번 거래는 2026년 하반기에 마무리될 전망이다."
+        }
+      ]
+    }
   },
   {
     "id": "claude-tag",
@@ -541,7 +851,45 @@
     "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
     "accent": "#3b6bff",
     "motif": "frame",
-    "image": "pipeline/media/claude-tag.png"
+    "image": "pipeline/media/claude-tag.png",
+    "full": {
+      "mode": "full",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "앤트로픽이 슬랙 안에 상주하며 AI 동료처럼 작동하는 '상시 가동형 Claude', Claude Tag를 선보였다. 이 기능을 쓰면 채팅에서 @Claude를 태그해 인사이트를 얻고 업무를 맡길 수 있으며, Claude Enterprise와 Claude Team 고객을 대상으로 슬랙용 베타로 제공된다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?w=1024",
+          "cap": "이미지 출처: Anthropic"
+        },
+        {
+          "t": "p",
+          "x": "Claude Tag는 기존 연동을 한 단계 발전시킨 것이다. 이전에도 슬랙에서 @Claude에게 DM을 보내거나 채널에서 태그해 즉시 도움을 받을 수 있었고, 슬랙의 Claude Code는 채널 멘션의 코딩 작업을 웹의 전체 코딩 세션으로 보낸 뒤 결과를 스레드에 다시 게시했다."
+        },
+        {
+          "t": "p",
+          "x": "그러나 Claude Tag는 기존 도구로는 유지하기 어려웠던 지속적 맥락과 메모리를 도입한다. 앤트로픽의 설명대로 'Claude는 채널을 따라가며 업무에 대해 점점 더 많이 학습'한다. 권한이 주어지면 조직의 다른 채널에서 사실을 자동으로 수집할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Claude Tag 안에서는 특정 슬랙 채널의 모든 구성원이 하나의 Claude 정체성에 접근하므로, '누구나 Claude가 무엇을 작업해 왔는지 보고 직전 사람이 멈춘 지점부터 대화를 이어받을 수 있다.' 관리자는 Claude가 접근할 수 있는 도구·정보·채널을 지정하며, 각 Claude 정체성은 정해진 채널로 범위가 한정돼 부서 간 정보가 새어 나가는 것을 막는다."
+        },
+        {
+          "t": "p",
+          "x": "업무가 주어지면 Claude Tag는 일을 단계별로 쪼개 사용 가능한 도구로 처리하고, 완성된 결과물을 슬랙 스레드에 응답한다. 또한 대화에 능동적으로 참여해 팀에 진행 상황을 알리고, 조직 차원의 사안을 표시하며, 잊힌 스레드나 작업을 챙기는 '앰비언트 모드'도 갖췄다."
+        },
+        {
+          "t": "p",
+          "x": "앤트로픽은 이를 '실제 동료와 함께 일하는 것 — 이전보다 훨씬 풍부한 맥락과 이해를 바탕으로 공개된 자리에서 결과물을 만들어내는 동료'라고 표현한다."
+        },
+        {
+          "t": "p",
+          "x": "이러한 조직 맥락 역량은 엔터프라이즈 도입에서 점점 중요해지고 있다. 마이크로소프트는 Graph와 Copilot으로 유사한 기능을 제공하며, 스노우플레이크·데이터브릭스·Glean 역시 AI 에이전트가 접근할 수 있는 조직 지식을 담은 백엔드 기반 플랫폼을 구축하고 있다."
+        }
+      ]
+    }
   }
 ];
   window.AX_DAYS = [
@@ -732,7 +1080,43 @@
         "source": "Figma",
         "url": "https://www.figma.com/blog/config-2026-recap/",
         "accent": "#0070f3",
-        "image": "pipeline/media/figma.png"
+        "image": "pipeline/media/figma.png",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "Config 2026에서 Figma는 캔버스 위에서 다룰 수 있는 새로운 '재료'들을 대거 공개했다. 공동창업자 겸 CEO 딜런 필드는 \"어떤 도구도 아이디어가 도달할 수 있는 곳을 제한해서는 안 된다\"며, 코드, 모션, 셰이더, 생성형 플러그인, Weave 도구를 통한 무한한 표현을 이번 발표의 핵심으로 제시했다. 그는 \"AI가 바닥을 낮추었지만 천장을 높이지는 못했다\"며, 그 천장을 끌어올리는 것은 결국 디자이너와 크리에이터의 몫이라고 강조했다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+              "cap": "코드를 디자인 재료로 다루는 코드 레이어"
+            },
+            {
+              "t": "p",
+              "x": "가장 주목할 변화는 '캔버스 위의 코드'다. 이미지나 벡터처럼 코드도 하나의 디자인 재료로 취급되어, 어떤 레이어든 클릭 한 번이나 프롬프트로 인터랙티브한 코드 레이어로 바꿀 수 있다. 여러 방향을 동시에 탐색하고, 공유 파일에서 댓글과 함께 협업하며, 코드와 디자인 간 변경을 원클릭으로 동기화할 수 있다. 코드 레이어는 2026년 7월부터 순차 출시된다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.sanity.io/images/599r6htc/regionalized/1f82f266ce4e3611ca58858db629942d5aeaa6c9-3840x2160.png?rect=0,1,3840,2159&w=804&h=452&q=75&fit=max&auto=format",
+              "cap": "Figma Design에 내장된 모션 타임라인"
+            },
+            {
+              "t": "p",
+              "x": "모션 디자인도 Figma Design 안으로 들어왔다. 키프레임과 프리셋을 갖춘 타임라인으로 처음부터 만들거나 기존 디자인에 얹을 수 있고, 에이전트가 초기 애니메이션을 생성해 준다. 모션은 모든 화면을 가로지르는 디자인 시스템 요소가 되며, Dev Mode에서 타이밍과 이징 곡선을 검사할 수 있다. CSS, JSON, React, MP4, WebM, 애니메이션 SVG, GIF로 내보낼 수 있다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d6b5115bb3fc17ee7d5cdb4192a7a3b99d60679a-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+              "cap": "AI 기반 스타일 트랜스퍼를 보여주는 Weave 도구"
+            },
+            {
+              "t": "p",
+              "x": "셰이더는 이제 에이전트로 생성한다. 원하는 바를 설명하거나 이미지를 참조로 주면 맞춤 셰이더가 만들어지며, 파라미터는 기본적으로 캔버스에서 조절할 수 있고 다른 효과와 겹쳐 쌓을 수 있다. 또한 개발 환경이나 플러그인 API 지식 없이도 동작과 컨트롤을 설명하는 것만으로 맞춤 도구를 만드는 생성형 플러그인, 노드 기반으로 모델을 잇고 에셋을 변형하는 Weave 도구가 추가됐다. 에이전트에는 재사용 가능한 Skills, Notion·Slack·GitHub 등과 연결되는 Connectors, 첨부 지원이 더해졌고 FigJam과 Slides로 확장된다. 필드는 \"오직 당신만이 만들 수 있는 것을 만들라\"는 말로 마무리했다."
+            }
+          ]
+        }
       },
       {
         "tool": "KeyShot",
@@ -740,7 +1124,37 @@
         "source": "80 Level",
         "url": "https://80.lv/articles/everything-you-need-to-know-about-houdini-22",
         "accent": "#f5a623",
-        "image": "pipeline/media/houdini22.jpg"
+        "image": "pipeline/media/houdini22.jpg",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "SideFX가 6월 22일 키노트에서 Houdini 22의 상세 내용을 공개했는데, 사전 프리뷰보다 훨씬 많은 기능이 담겼다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.80.lv/api/upload/meta/48937/images/6a3a4c4b7afcb/contain_1200x630.jpg",
+              "cap": "Houdini 22"
+            },
+            {
+              "t": "p",
+              "x": "가장 눈에 띄는 변화는 완전히 새로 디자인된 사용자 인터페이스다. 깔끔하고 현대적인 미감과 개선된 내비게이션을 강조하며, 커스터마이즈 옵션과 워크플로 개선도 함께 따라왔다."
+            },
+            {
+              "t": "p",
+              "x": "Houdini 22는 3D 가우시안 스플래팅과 제어 가능한 ML 파이프라인의 네이티브 지원이라는 약속을 지켰다. 3D 가우시안 스플래팅은 전통적인 지오메트리 모델링 대신 3D 공간에 배치된 수백만 개의 작은 타원체를 사용해, 사진이나 영상으로부터 실제 장면을 재구성하는 기술이다."
+            },
+            {
+              "t": "p",
+              "x": "그 외에도 지형 텍스처링과 해양 스펙트럼 생성을 위한 Copernicus 도구, KineFX와 APEX 기반의 강화된 리깅·애니메이션, 최적화된 헤어·퍼 물리 시뮬레이션, 레이아웃과 스캐터링 프로시저럴이 개선된 Solaris 기능 확장이 포함된다."
+            },
+            {
+              "t": "p",
+              "x": "출시일은 아직 확정되지 않았으나, Houdini의 역대 출시 패턴으로 볼 때 7월 중순이 유력한 시점으로 보인다."
+            }
+          ]
+        }
       },
       {
         "tool": "KeyShot",
@@ -748,7 +1162,33 @@
         "source": "80 Level",
         "url": "https://80.lv/articles/blender-cloud-paint-tool-updated-with-flat-paint-generator-procedural-asset-library",
         "accent": "#eb367f",
-        "image": "pipeline/media/cloudpaint2.jpeg"
+        "image": "pipeline/media/cloudpaint2.jpeg",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "3D 아티스트 케이시 쉽(Casey Sheep)이 Blender용 스타일라이즈드 구름 생성기 Cloud Paint의 새 버전 V2를 공개했다. 부드럽고 회화적인 구름을 시각화하는 까다로운 작업을 돕기 위해 만들어진 도구다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.80.lv/api/upload/meta/48934/images/6a3a308df32df/contain_1200x630.jpeg",
+              "cap": "Cloud Paint V2 for Blender"
+            },
+            {
+              "t": "p",
+              "x": "Geometry Nodes로 구동되는 이 도구의 V2 버전은 새로운 플랫 페인트 구름 생성기를 특징으로 한다. 이전 버전과 구분되는 별도의 프로시저럴 시스템으로, 평면적으로 칠한 듯한 색 블록 스타일의 뚜렷한 구름 룩을 목표로 한다."
+            },
+            {
+              "t": "p",
+              "x": "이와 더불어 새 버전에는 \"색상, 형태, 파라미터를 조절할 수 있는 20개 이상의 프로시저럴 에셋 라이브러리\"가 포함되어, 아티스트가 다양한 스타일의 구름을 만들 수 있는 추가 도구를 제공한다."
+            },
+            {
+              "t": "p",
+              "x": "케이시 쉽은 Cloud Paint V2로 제작한 작품을 공유하며 도구의 활용 가능성을 선보였다. 또한 스타일라이즈드 잔디 에셋 라이브러리인 GrassPaint의 V2 업데이트도 개발 중이라고 밝혔다."
+            }
+          ]
+        }
       },
       {
         "tool": "Social",
@@ -756,7 +1196,24 @@
         "source": "Luke J Byrne (AI Luke)",
         "url": "https://www.youtube.com/watch?v=zjrSoXtlunU",
         "accent": "#ff2d55",
-        "image": "pipeline/media/claude-obsidian.jpg"
+        "image": "pipeline/media/claude-obsidian.jpg",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "video",
+              "yt": "zjrSoXtlunU"
+            },
+            {
+              "t": "p",
+              "x": "이 영상은 Obsidian과 Claude Code를 결합해 '두 번째 뇌(Second Brain)'를 구축하는 과정을 실습 형식으로 보여준다. 메모와 지식을 마크다운 파일로 보관하는 Obsidian 볼트를, 터미널 기반 AI 코딩 에이전트인 Claude Code가 직접 읽고 정리하고 연결하도록 만드는 워크플로가 핵심이다."
+            },
+            {
+              "t": "p",
+              "x": "단순한 노트 앱을 넘어, AI 에이전트가 파일 시스템을 탐색하며 노트를 생성하고 분류하며 서로 연결해 검색 가능한 지식 베이스로 키워 나가는 방법을 단계별로 따라간다. 개인 지식 관리(PKM)와 AI 에이전트를 접목하려는 이들에게 실용적인 출발점을 제시한다."
+            }
+          ]
+        }
       },
       {
         "tool": "Social",
@@ -764,7 +1221,24 @@
         "source": "The Ravit Show",
         "url": "https://www.youtube.com/watch?v=tBU1KC5BQ2k",
         "accent": "#3b6bff",
-        "image": "pipeline/media/ax-shift.jpg"
+        "image": "pipeline/media/ax-shift.jpg",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "video",
+              "yt": "tBU1KC5BQ2k"
+            },
+            {
+              "t": "p",
+              "x": "\"AI-Enabled Workforce\"를 주제로 한 인터뷰 영상으로, AI 에이전트가 일하는 방식과 조직 구조를 어떻게 재편하고 있는지를 다룬다. AI 에이전트, 생산성, 그리고 엔터프라이즈 차원의 전환이 핵심 키워드다."
+            },
+            {
+              "t": "p",
+              "x": "대화는 AI 에이전트가 단순 자동화를 넘어 업무 프로세스 자체를 바꾸고, 인간과 협업하며 기업의 일하는 방식과 인력 구성을 재정의하는 흐름을 짚는다. 기술 도입에 그치지 않고 조직과 워크포스가 어떻게 적응해야 하는지에 대한 관점을 제시한다."
+            }
+          ]
+        }
       }
     ]
   }
