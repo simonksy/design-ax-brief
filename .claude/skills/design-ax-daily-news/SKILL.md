@@ -12,19 +12,41 @@ source categories): `design` (AI×design tools/work culture), `music` (AI×Music
 `movies` (AI×Film), `games` (AI×Video Games), `books` (AI×Books/Publishing). AI is the
 constant axis; each section pairs AI with its domain.
 
-**Per-section quota: aim for 3–5 cards.** Target a floor of 3, cap of 5. If a section
-has fewer than 3 fresh, non-duplicate items, publish what exists and note the shortfall
-— never pad with stale or off-topic items.
+**Per-section quota: fill 5 (floor 3).** Target **5** candidates/cards per section, with
+3 as the floor. To hit the count, ax-librarian must EXPAND the search when a section's
+fresh+deduped pool is short (see "Fill the count" below) — do not stop at the first
+keyword pass. Only publish fewer than the target if the section genuinely has no more
+fresh, non-duplicate, on-topic items after expansion — and then note the shortfall.
+Never pad with stale or off-topic items.
+
+**Freshness window is per-section** (`pipeline/freshness.py <pub_iso> <now_iso> <section>`):
+`design` = **72h**; `music` / `movies` / `games` / `books` = **14 days (336h)** — those
+domains publish AI news less often, so a wider window is needed to fill 5.
+
+**Fill the count (keyword expansion).** If, after the first keyword pass + freshness +
+dedup, a section has fewer than 5 candidates, ax-librarian EXPANDS: add related/sibling
+keywords (synonyms, named products/vendors, adjacent sub-topics, Korean equivalents) and
+widen to more of that section's `allowed_domains`, re-search, and keep going until the
+section reaches 5 fresh non-duplicate candidates or the topic is genuinely exhausted.
+Report what was added when expansion was used.
 
 Run STRICTLY in order within each section, and after each agent verify its artifact
 exists and is non-empty before the next. Intermediate artifacts are written per section
 (e.g. `pipeline/keywords.json`, `candidates.json`, … are reused per section — archive
 each section's set under `pipeline/runs/<date>/<section>/`).
 
-**Step 0 — keywords (ask the user once).** Before running, ask in Korean 존댓말 for any
-extra search keywords and which sections to run today (default: all 5). State defaults
-come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user keywords to
-ax-planner as extra seeds for the relevant section(s).
+**Daily operation (two phases).** A scheduled job runs every morning ~08:00 KST and
+executes only the COLLECTION phase (Steps 1–3 per section, with keyword expansion to
+fill 5) — it stops at the candidate list and notifies the user; it must NOT auto-select
+or publish. When the user starts their session they review each section's candidates,
+make the **user selection** (Step 4), and the pipeline finishes Steps 5–10 and auto-
+publishes. So: **AI collects candidates overnight; the human picks; the site publishes.**
+ax-curator auto-picks ONLY if the user explicitly defers a section ("알아서").
+
+**Step 0 — keywords (ask the user once; skip in the scheduled collection run).** Ask in
+Korean 존댓말 for any extra search keywords and which sections to run today (default: all
+5). Defaults come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user
+keywords to ax-planner as extra seeds for the relevant section(s).
 
 For EACH selected section S (default order design, music, movies, games, books):
 1. **ax-planner** — "Section: S. Today is <date>. Extra seeds: <…/none>. Run your steps."
@@ -52,7 +74,8 @@ After ALL sections are rolled:
 9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design). `node --check axbrief-data.js`; restore the per-run backup on failure.
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
 
-Freshness: flat **72h** window (every day) via `pipeline/freshness.py`. Dedup is **per
+Freshness: **per-section** window via `pipeline/freshness.py <pub> <now> <section>`
+(design 72h; music/movies/games/books 14 days). Dedup is **per
 section** (URL + CONTENT): each distinct story appears on exactly one date within its
 section (earliest-wins) — `roll.py` drops rolled-in URLs already earlier in that section;
 `build_data.py` FAILS the build on a duplicate URL within a section (WARNS on shared

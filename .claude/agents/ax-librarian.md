@@ -40,8 +40,17 @@ Steps:
    `<time datetime>` → body-text date. Never trust the search snippet date alone.
    Also extract: source name, a 1–2 sentence excerpt, and og:image URL if present.
 3. Gate freshness deterministically — do NOT eyeball it. For each candidate run:
-   `python3 pipeline/freshness.py "<published_iso>" "<now_iso>"`
+   `python3 pipeline/freshness.py "<published_iso>" "<now_iso>" "<section>"`
+   (window is per-section: design 72h; music/movies/games/books 14 days.)
    Keep only those that print FRESH. If you cannot find a published time, DROP it.
+3b. **Fill the count — expand keywords if short.** Target **5** fresh, on-topic,
+   distinct candidates for the section. If the first keyword pass + freshness + the
+   per-source cap leaves you below 5, EXPAND and re-search: add related/sibling
+   keywords (synonyms, named products/vendors, adjacent sub-topics, Korean
+   equivalents) beyond `keyword_pool.json`'s listed terms, and sweep MORE of the
+   section's `allowed_domains`. Keep iterating until you reach 5 — or the section's
+   fresh news is genuinely exhausted (then report how many and what you tried). Never
+   pad with stale, off-topic, or duplicate items just to hit the number.
 4. Aim for ~24–32 fresh candidates spread across categories AND outlets — cast the
    funnel WIDE so the curator has a deep pool to pick a diverse 5 from. Tag each with
    its `category`. Before writing, enforce the collection per-source cap (≤3 per

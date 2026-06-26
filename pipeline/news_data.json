@@ -273,16 +273,42 @@
         "date": "2026-06-26",
         "cards": [
           {
-            "id": "music-ai-watchdog",
+            "id": "music-suno-songwriting",
             "eyebrow": "AI NEWS",
-            "headline": "AI가 학습한 음악\n이제 직접 찾아본다",
-            "body": "디 애틀랜틱이 수노·유디오·리리아 학습에 쓰인 2,100만 곡을 검색하는 무료 도구를 공개했다. 이제 음악가는 자기 곡이 AI 학습 데이터에 포함됐는지 직접 확인할 수 있다.",
-            "tool": "The Atlantic AI Watchdog",
-            "source": "DJ Mag",
-            "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
+            "headline": "수노로 더 나은\n곡을 써내는 법",
+            "body": "프로듀서가 수노를 작곡 파트너로 쓰는 실전 과정을 보여준다. AI 초안을 받아 멜로디와 가사를 다듬고, 사람의 손으로 완성도를 끌어올린다.",
+            "tool": "Suno",
+            "source": "YouTube",
+            "url": "https://www.youtube.com/watch?v=DVspwYPHeNU",
             "accent": "#ff2d55",
             "motif": "sphere",
-            "image": "pipeline/media/music-ai-watchdog.jpg"
+            "image": "pipeline/media/music-suno-songwriting.jpg",
+            "video": "pipeline/media/music-suno-songwriting.mp4",
+            "poster": "pipeline/media/music-suno-songwriting.jpg"
+          },
+          {
+            "id": "music-suno-spark",
+            "eyebrow": "AI NEWS",
+            "headline": "수노, 인디 창작자\n위한 인큐베이터",
+            "body": "수노가 독립 아티스트 지원 프로그램 스파크를 공개했다. 수천에서 수만 달러의 보조금과 마케팅, 작곡 캠프를 제공하며 창작자가 저작권과 권리를 그대로 갖는다.",
+            "tool": "Suno",
+            "source": "Billboard",
+            "url": "https://www.billboard.com/pro/suno-launches-artist-incubator/",
+            "accent": "#ff2d55",
+            "motif": "sphere",
+            "image": "pipeline/media/music-suno-spark.jpg"
+          },
+          {
+            "id": "music-ai-music-detection",
+            "eyebrow": "AI NEWS",
+            "headline": "AI 음악을 가려내는\n모듈레이트 API",
+            "body": "모듈레이트가 오디오에서 AI로 만든 보컬과 연주를 식별하는 탐지 API를 선보였다. 단순 예·아니오가 아니라 구간별로 판정해 플랫폼이 합성 음원을 걸러내도록 돕는다.",
+            "tool": "Modulate",
+            "source": "Hypebot",
+            "url": "https://www.hypebot.com/ai-generated-music-is-everywhere-detecting-it-just-got-a-little-less-daunting/",
+            "accent": "#ff2d55",
+            "motif": "sphere",
+            "image": "pipeline/media/music-ai-music-detection.jpg"
           }
         ]
       },
@@ -293,6 +319,18 @@
         "date": "2026-06-26",
         "cards": [
           {
+            "id": "movies-google-a24",
+            "eyebrow": "AI NEWS",
+            "headline": "구글, A24에 7,500만 달러\n영화 AI 도구 공동 개발",
+            "body": "구글이 인디 명가 A24에 7,500만 달러를 투자해 딥마인드와 영화 제작 도구를 함께 만든다. AI 스토리보드 등 창작 통제권을 지키는 워크플로가 목표다. 콘텐츠나 데이터 학습권은 넘기지 않는다.",
+            "tool": "Google DeepMind",
+            "source": "Variety",
+            "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/movies-google-a24.jpg"
+          },
+          {
             "id": "movies-openart-director",
             "eyebrow": "AI NEWS",
             "headline": "오픈아트 디렉터,\n프롬프트 없이 5분 영화",
@@ -301,7 +339,32 @@
             "source": "The Hollywood Reporter",
             "url": "https://www.hollywoodreporter.com/business/digital/open-art-new-tool-model-ai-director-vibe-directing-1236628188/",
             "accent": "#0070f3",
-            "motif": "frame"
+            "motif": "frame",
+            "image": "pipeline/media/movies-openart-director.jpg"
+          },
+          {
+            "id": "movies-dreams-of-violets",
+            "eyebrow": "AI NEWS",
+            "headline": "AI 장편 트라이베카 데뷔\n제작비 단 2천 달러",
+            "body": "AI로 전부 만든 75분 장편 '드림스 오브 바이올렛'이 트라이베카에서 첫선을 보였다. 배우도 카메라도 없이 제작비는 단 2천 달러. 영상은 사실적이나 드라마는 아직 얕다는 평이다.",
+            "tool": "Fountain 0",
+            "source": "Variety",
+            "url": "https://variety.com/2026/film/reviews/dreams-of-violets-review-ash-koosha-tribeca-festival-1236784209/",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/movies-dreams-of-violets.png"
+          },
+          {
+            "id": "movies-a24-backlash",
+            "eyebrow": "AI NEWS",
+            "headline": "A24·구글 AI 제휴에\n팬덤이 등을 돌렸다",
+            "body": "A24와 구글의 AI 제휴 발표 직후 팬들이 등을 돌렸다. 무관한 신작 예고편마다 인간 창작을 외면했다는 비판이 쏟아졌다. AI 도구 도입이 브랜드 신뢰를 흔든 사례다.",
+            "tool": "A24",
+            "source": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/business/digital/a24-cool-boycott-google-deepmind-ai-1236631106/",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/movies-a24-backlash.jpg"
           }
         ]
       },
@@ -312,37 +375,64 @@
         "date": "2026-06-26",
         "cards": [
           {
-            "id": "games-unreal-ai-slop",
+            "id": "games-godot-ai",
             "eyebrow": "AI NEWS",
-            "headline": "팀 스위니 \"언리얼 AI는\nAI 슬롭 위험도, 진짜 창작 가속기\"",
-            "body": "에픽 CEO 팀 스위니가 언리얼 엔진 AI 도구의 AI 슬롭 위험을 인정했다. 다만 MCP로 클로드·제미나이를 붙이는 방식은 프로 창작자에겐 가속기라고 강조했다.",
-            "tool": "Unreal Engine",
-            "source": "Wccftech",
-            "url": "https://wccftech.com/tim-sweeney-unreal-engine-ai-tools-accelerant-real-creators/",
+            "headline": "고도 \"AI 보조는 허용,\n슬롭 PR은 자동 거부\"",
+            "body": "고도 공동창업자 레미 베르셸드가 AI 보조 입장을 정리했다. 디버깅·코드 완성엔 AI를 허용하되, 슬롭 PR은 자동 거부한다고 밝혔다. 두 릴리스 PR 3700건 중 AI 표기는 1.3%뿐이었다.",
+            "tool": "Godot",
+            "source": "Game Developer",
+            "url": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
             "accent": "#7928ca",
-            "motif": "cube"
+            "motif": "cube",
+            "image": "pipeline/media/games-godot-ai.png"
           },
           {
-            "id": "games-ue6-copyright",
+            "id": "games-ea-creativity",
             "eyebrow": "AI NEWS",
-            "headline": "게임 변호사 경고 \"UE6 AI로\n만든 결과물, 저작권 못 가진다\"",
-            "body": "게임 전문 변호사가 언리얼 엔진 6 내장 AI 도구의 법적 위험을 짚었다. AI 생성물은 인간 저작자가 없어 권리 귀속이 어렵고, 퍼블리셔 계약 위반 소지도 있다고 지적했다.",
+            "headline": "EA \"AI가 마찰 줄여\n사내 창작성 끌어올렸다\"",
+            "body": "EA 스튜디오 책임자 로라 미엘이 AI가 사내 창작을 끌어올렸다고 말했다. 파이프라인 마찰과 잡일을 줄여 프로토타이핑이 빨라졌다는 것이다. 다만 직원들은 감원 정당화 우려로 온도차를 보인다.",
+            "tool": "EA",
+            "source": "PC Gamer",
+            "url": "https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/games-ea-creativity.jpg"
+          },
+          {
+            "id": "games-vampire-fortnite",
+            "eyebrow": "AI NEWS",
+            "headline": "뱀서 개발사, 에픽 생성 AI에\n포트나이트 협업 재검토",
+            "body": "뱀파이어 서바이버즈 개발사 폰클이 포트나이트 협업을 재검토한다. 에픽이 UE6 생성 AI로 에셋·캐릭터를 만든다고 밝히자 협업 진행 여부를 다시 따지겠다고 했다.",
+            "tool": "Vampire Survivors",
+            "source": "Game Developer",
+            "url": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/games-vampire-fortnite.png"
+          },
+          {
+            "id": "games-ue6-reactions",
+            "eyebrow": "AI NEWS",
+            "headline": "UE6 AI 발표에 개발자\n기대와 회의론 동시 폭발",
+            "body": "스테이트 오브 언리얼의 UE6 발표에 개발자 반응이 엇갈렸다. MCP·AI 워크플로엔 기대가 컸지만, 블루프린트 폐지와 창작의 즐거움 훼손을 우려하는 회의론도 거셌다.",
             "tool": "Unreal Engine 6",
             "source": "80 Level",
-            "url": "https://80.lv/articles/video-game-lawyer-explains-key-issues-with-ue6-s-ai-integration",
+            "url": "https://80.lv/articles/state-of-unreal-ue6-reactions-hype-skepticism-and-what-it-means-for-game-devs",
             "accent": "#7928ca",
-            "motif": "cube"
+            "motif": "cube",
+            "image": "pipeline/media/games-ue6-reactions.png"
           },
           {
-            "id": "games-ai-renaissance",
+            "id": "games-valve-disclosure",
             "eyebrow": "AI NEWS",
-            "headline": "베테랑 개발자 \"재미 찾기는\n20년간 사람 몫, AI는 르네상스 촉매\"",
-            "body": "베테랑 개발자 리치 보겔은 AI가 재미를 만드는 핵심 창작은 20년간 대체 못한다고 봤다. 다만 셰이더·텍스처·QA·현지화 파이프라인에선 소규모 팀의 제작 속도를 끌어올린다고 전했다.",
-            "tool": "Game Dev AI",
+            "headline": "스위니 \"스팀 AI 표기 의무는\n무책임\"…에픽은 AI 확대",
+            "body": "팀 스위니가 스팀의 AI 표기 의무를 무책임하다고 비판했다. 개발자에게 AI 주홍글씨를 붙여 게임을 죽인다는 것이다. 반면 에픽은 UE6에서 AI를 더 깊게 끌어안고 있다.",
+            "tool": "Steam · Epic",
             "source": "Wccftech",
-            "url": "https://wccftech.com/finding-fun-human-work-ai-gaming-renaissance-dev/",
+            "url": "https://wccftech.com/valve-irresponsible-ai-disclosures-steam-epic-ceo-unreal-engine-6/",
             "accent": "#7928ca",
-            "motif": "cube"
+            "motif": "cube",
+            "image": "pipeline/media/games-valve-disclosure.jpg"
           }
         ]
       },
@@ -355,13 +445,26 @@
           {
             "id": "books-caine-odyssey",
             "eyebrow": "AI NEWS",
-            "headline": "마이클 케인, AI 목소리로\n오디세이 오디오북 낭독",
-            "body": "배우 마이클 케인이 자신의 음성을 일레븐랩스에 라이선스했다. 호메로스 오디세이 각색본을 AI 복제 목소리로 낭독한다. 유명 배우가 합성 음성 낭독을 허용한 주목할 사례다.",
+            "headline": "마이클 케인, AI 음성으로\n오디세이 오디오북 낭독",
+            "body": "배우 마이클 케인이 자신의 목소리를 일레븐랩스에 라이선스했다. 호메로스 오디세이 각색본을 AI 복제 음성으로 낭독한다. 유명 배우가 합성 음성 낭독을 허용한 주목할 사례다.",
             "tool": "ElevenLabs",
             "source": "The Bookseller",
             "url": "https://www.thebookseller.com/news/michael-caine-licenses-voice-to-narrate-ai-adaptation-odyssey-audiobook",
             "accent": "#f5a623",
-            "motif": "swatch"
+            "motif": "swatch",
+            "image": "pipeline/media/books-caine-odyssey.jpg"
+          },
+          {
+            "id": "books-uk-ai-licensing",
+            "eyebrow": "AI NEWS",
+            "headline": "영국 출판사 250곳, AI 학습\n집단 라이선싱에 합류",
+            "body": "영국 출판사 250여 곳이 PLS의 집단 AI 라이선싱 제도에 참여했다. 런던 도서전에서 출범한 이 제도는 AI 학습에 쓰인 저작물의 보상 통로를 연다.",
+            "tool": "PLS",
+            "source": "The Bookseller",
+            "url": "https://www.thebookseller.com/news/over-250-uk-publishers-opt-in-to-collective-ai-licensing-scheme",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/books-uk-ai-licensing.jpg"
           },
           {
             "id": "books-beijing-fair",
@@ -371,6 +474,30 @@
             "tool": "CITIC Press",
             "source": "Publishing Perspectives",
             "url": "https://publishingperspectives.com/2026/06/at-the-beijing-international-book-fair-rights-trading-gives-way-to-ip-licensing/",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/books-beijing-fair.png"
+          },
+          {
+            "id": "books-ai-survey",
+            "eyebrow": "AI NEWS",
+            "headline": "출판업계 두 번째 AI 실태\n조사가 닻을 올리다",
+            "body": "BISG와 북넷캐나다가 두 번째 출판업계 AI 설문을 시작했다. 북미 출판 전문가와 사서를 상대로 AI 활용 실태와 우려를 묻는다. 설문은 7월 17일까지 진행된다.",
+            "tool": "BISG",
+            "source": "Publishing Perspectives",
+            "url": "https://publishingperspectives.com/2026/06/bisg-booknet-canada-launch-2026-ai-in-the-book-industry-survey/",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/books-ai-survey.png"
+          },
+          {
+            "id": "books-wiley-ai-revenue",
+            "eyebrow": "AI NEWS",
+            "headline": "와일리, AI 라이선싱으로\n4900만 달러를 벌다",
+            "body": "와일리가 2026 회계연도에 AI 라이선싱으로 4900만 달러를 거뒀다. IQVIA와 오픈에비던스 등과의 계약이 성장을 이끌었다. AI 학습 데이터가 출판사의 새 수익원으로 자리잡았다.",
+            "tool": "Wiley",
+            "source": "Publishers Weekly",
+            "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/100650-ai-research-drive-gains-at-wiley-in-fiscal-2026.html",
             "accent": "#f5a623",
             "motif": "swatch"
           }
