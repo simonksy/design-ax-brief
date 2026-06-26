@@ -23,3 +23,6 @@ pipeline/runs/
 **/.DS_Store
 .playwright-mcp/
 pipeline/candidates_filtered.json
+
+__pycache__/
+**/__pycache__/

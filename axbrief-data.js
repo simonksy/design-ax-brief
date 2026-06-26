@@ -3,118 +3,43 @@
 (function () {
   window.AX_NEWS = [
   {
-    "id": "figma",
+    "id": "krea2",
     "eyebrow": "AI NEWS",
-    "headline": "Config 2026, 모션과 코드 레이어가\n캔버스 안으로 들어왔다",
-    "body": "Figma Motion이 디자인 파일에서 타임라인 애니메이션을 다루고, 코드 레이어는 코드를 디자인 재료처럼 쓴다. AI 셰이더와 강화된 에이전트까지 6월 24일 오픈 베타로 풀린다.",
-    "tool": "Figma",
-    "source": "Figma",
-    "url": "https://www.figma.com/blog/config-2026-recap/",
-    "accent": "#0070f3",
-    "motif": "frame",
-    "image": "pipeline/media/figma.png"
-  },
-  {
-    "id": "houdini22",
-    "eyebrow": "AI NEWS",
-    "headline": "Houdini 22, 가우시안 스플랫과\nML 리깅을 절차적으로",
-    "body": "SideFX가 네이티브 3D 가우시안 스플랫과 제어 가능한 ML 파이프라인을 공개했다. KineFX/APEX 캐릭터 리깅과 애니메이션이 더 절차적으로 묶이며 크리처 워크플로를 자동화로 끌어온다.",
-    "tool": "KeyShot",
-    "source": "80 Level",
-    "url": "https://80.lv/articles/everything-you-need-to-know-about-houdini-22",
+    "headline": "Krea 2, 오픈웨이트로\n2초 만에 고품질 이미지",
+    "body": "프런티어 이미지 모델 Krea 2가 Raw·Turbo 오픈웨이트로 공개됐다. 약 2초 만에 고품질 이미지를 만들어, 디자이너가 자체 호스팅으로 무드보드·시안 반복을 빠르게 돌린다.",
+    "tool": "Krea",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
     "accent": "#f5a623",
     "motif": "sphere",
-    "image": "pipeline/media/houdini22.jpg"
+    "image": "pipeline/media/krea2.png"
   },
   {
-    "id": "cloudpaint2",
+    "id": "adobe-topaz",
     "eyebrow": "AI NEWS",
-    "headline": "Cloud Paint V2, 뷰포트에서\n구름을 직접 칠한다",
-    "body": "블렌더용 Cloud Paint V2가 플랫 페인트 구름 제너레이터와 절차적 에셋 라이브러리를 더했다. 환경·룩데브 아티스트가 뷰포트에서 더 빠르고 아트 디렉션하기 쉽게 스타일라이즈드 구름을 그린다.",
-    "tool": "KeyShot",
-    "source": "80 Level",
-    "url": "https://80.lv/articles/blender-cloud-paint-tool-updated-with-flat-paint-generator-procedural-asset-library",
-    "accent": "#eb367f",
-    "motif": "sphere",
-    "image": "pipeline/media/cloudpaint2.jpeg"
-  },
-  {
-    "id": "claude-obsidian",
-    "eyebrow": "AI NEWS",
-    "headline": "Claude Code로 옵시디언에\n두 번째 뇌를 만든다",
-    "body": "Claude Code를 옵시디언 볼트에 연결해 AI가 돕는 세컨드 브레인을 짓는 핸즈온 영상이다. 메모와 리서치, 지식 관리를 AI로 보강하는, 디자이너가 바로 따라 할 수 있는 패턴을 보여준다.",
-    "tool": "Social",
-    "source": "Luke J Byrne (AI Luke)",
-    "url": "https://www.youtube.com/watch?v=zjrSoXtlunU",
-    "accent": "#ff2d55",
+    "headline": "Adobe가 Topaz Labs\n인수, Firefly에 통합",
+    "body": "Adobe가 AI 이미지·영상 화질 개선 툴 메이커 Topaz Labs를 인수한다. 업스케일·인핸스 모델을 Firefly 앱과 이미지·영상 편집 제품군에 통합할 계획이다.",
+    "tool": "Adobe",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+    "accent": "#ff5a4d",
     "motif": "frame",
-    "video": "pipeline/media/claude-obsidian.mp4",
-    "webm": "pipeline/media/claude-obsidian.webm",
-    "poster": "pipeline/media/claude-obsidian.jpg",
-    "image": "pipeline/media/claude-obsidian.jpg"
+    "image": "pipeline/media/adobe-topaz.jpg"
   },
   {
-    "id": "ax-shift",
+    "id": "claude-tag",
     "eyebrow": "AI NEWS",
-    "headline": "AI 에이전트가 다시 짜는\n일과 조직의 구조",
-    "body": "AI 에이전트가 인력 구조와 전사 전환을 어떻게 바꾸는지 짚는 대담이다. 툴 하나씩이 아니라 조직 규모로 AI를 도입하는, 디자인 조직을 위한 AX 전환의 틀을 제시한다.",
-    "tool": "Social",
-    "source": "The Ravit Show",
-    "url": "https://www.youtube.com/watch?v=tBU1KC5BQ2k",
+    "headline": "Claude Tag, 슬랙에 상주하는\n상시 AI 팀메이트",
+    "body": "Anthropic이 Claude Tag를 공개했다. 슬랙 채널을 지켜보며 회사 맥락을 학습하고, @멘션으로 인사이트와 업무를 맡길 수 있는 상시 AI 팀메이트로 엔터프라이즈·팀 베타로 풀린다.",
+    "tool": "Anthropic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
     "accent": "#3b6bff",
     "motif": "frame",
-    "video": "pipeline/media/ax-shift.mp4",
-    "webm": "pipeline/media/ax-shift.webm",
-    "poster": "pipeline/media/ax-shift.jpg",
-    "image": "pipeline/media/ax-shift.jpg"
+    "image": "pipeline/media/claude-tag.png"
   }
 ];
   window.AX_DAYS = [
-  {
-    "date": "2026-06-18",
-    "cards": [
-      {
-        "tool": "KeyShot",
-        "headline": "포토샵 27.8, 외부 생성 모델 연결",
-        "source": "CG Channel",
-        "url": "https://www.cgchannel.com/2026/06/adobe-releases-photoshop-27-8/",
-        "accent": "#f5a623",
-        "image": "pipeline/media/deck/cgc-photoshop.jpg"
-      },
-      {
-        "tool": "Figma",
-        "headline": "피그마 위브에 런웨이 Aleph 2.0",
-        "source": "Figma",
-        "url": "https://www.figma.com/blog/direct-every-frame-with-runway-aleph-2/",
-        "accent": "#0070f3",
-        "image": "pipeline/media/deck/figma-aleph.png"
-      },
-      {
-        "tool": "KeyShot",
-        "headline": "애프터이펙트 26.3, 고급 3D 심도",
-        "source": "CG Channel",
-        "url": "https://www.cgchannel.com/2026/06/adobe-releases-after-effects-26-3/",
-        "accent": "#eb367f",
-        "image": "pipeline/media/deck/cgc-ae.jpg"
-      },
-      {
-        "tool": "Figma",
-        "headline": "Framer 3.0, AI 에이전트로 웹을 짓다",
-        "source": "Lushbinary",
-        "url": "https://lushbinary.com/blog/framer-3-ai-agents-branching-guide/",
-        "accent": "#3b6bff",
-        "image": "pipeline/media/deck/framer3.png"
-      },
-      {
-        "tool": "AI Workflow",
-        "headline": "스페이스X, AI 코딩툴 Cursor를 600억 달러에 인수",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-        "accent": "#ff5a4d",
-        "image": "pipeline/media/deck/cursor-spacex.jpg"
-      }
-    ]
-  },
   {
     "date": "2026-06-19",
     "cards": [
@@ -290,6 +215,51 @@
         "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
         "accent": "#7928ca",
         "image": "pipeline/media/patch-the-planet.jpg"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-25",
+    "cards": [
+      {
+        "tool": "Figma",
+        "headline": "Config 2026, 모션과 코드 레이어가 캔버스 안으로 들어왔다",
+        "source": "Figma",
+        "url": "https://www.figma.com/blog/config-2026-recap/",
+        "accent": "#0070f3",
+        "image": "pipeline/media/figma.png"
+      },
+      {
+        "tool": "KeyShot",
+        "headline": "Houdini 22, 가우시안 스플랫과 ML 리깅을 절차적으로",
+        "source": "80 Level",
+        "url": "https://80.lv/articles/everything-you-need-to-know-about-houdini-22",
+        "accent": "#f5a623",
+        "image": "pipeline/media/houdini22.jpg"
+      },
+      {
+        "tool": "KeyShot",
+        "headline": "Cloud Paint V2, 뷰포트에서 구름을 직접 칠한다",
+        "source": "80 Level",
+        "url": "https://80.lv/articles/blender-cloud-paint-tool-updated-with-flat-paint-generator-procedural-asset-library",
+        "accent": "#eb367f",
+        "image": "pipeline/media/cloudpaint2.jpeg"
+      },
+      {
+        "tool": "Social",
+        "headline": "Claude Code로 옵시디언에 두 번째 뇌를 만든다",
+        "source": "Luke J Byrne (AI Luke)",
+        "url": "https://www.youtube.com/watch?v=zjrSoXtlunU",
+        "accent": "#ff2d55",
+        "image": "pipeline/media/claude-obsidian.jpg"
+      },
+      {
+        "tool": "Social",
+        "headline": "AI 에이전트가 다시 짜는 일과 조직의 구조",
+        "source": "The Ravit Show",
+        "url": "https://www.youtube.com/watch?v=tBU1KC5BQ2k",
+        "accent": "#3b6bff",
+        "image": "pipeline/media/ax-shift.jpg"
       }
     ]
   }
