@@ -133,6 +133,9 @@ if (!document.getElementById('ax-styles')) {
   .ax-bubble-out{animation:ax-bubble-out .2s cubic-bezier(.5,0,.7,1) forwards;transform-origin:center top;will-change:transform,opacity;}
   @keyframes ax-bubble-in{0%{transform:scale(.66);opacity:.2}42%{transform:scale(1.07)}68%{transform:scale(.975)}86%{transform:scale(1.012)}100%{transform:scale(1);opacity:1}}
   .ax-bubble-in{animation:ax-bubble-in .5s cubic-bezier(.22,1,.36,1) both;transform-origin:center top;will-change:transform,opacity;}
+  /* mobile full-article sheet entrance (springs up from the card) */
+  @keyframes ax-sheet-in{0%{transform:scale(.9);opacity:0}60%{transform:scale(1.012)}100%{transform:scale(1);opacity:1}}
+  .ax-sheet-in{animation:ax-sheet-in .34s cubic-bezier(.22,1,.36,1) both;}
   `;
   document.head.appendChild(s);
 }
@@ -460,6 +463,16 @@ function FullArticle({ item, t, onClose }) {
         <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
           <SourceLine item={it} t={t} />
         </div>
+        {/* bottom-right close — so you don't have to scroll back up after reading */}
+        {onClose && (
+          <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: 16 }}>
+            <button onClick={onClose} aria-label="닫기" title="닫기" style={{
+              width: 32, height: 32, borderRadius: '50%', cursor: 'pointer',
+              display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+              fontFamily: 'var(--font-sans)', fontSize: 19, lineHeight: 1, fontWeight: 400,
+              background: 'transparent', color: t.mute, border: `1px solid ${t.rule}` }}>×</button>
+          </div>
+        )}
       </div>
     </React.Fragment>
   );
@@ -929,41 +942,67 @@ function MobileFilmstrip({ t, onOpen, days }) {
   );
 }
 
-/* ---- MobileArticle: mobile expand view — the full article flows inline (the card
-   grows to its length, the PAGE scrolls). Collapse via X, or by over-swiping past the
-   top (pull down) or the bottom (push up). No horizontal card nav while reading. ---- */
+/* ---- MobileArticle: mobile expand view — a full-screen reader sheet. Over-scroll
+   at the top (pull down) or bottom (push up) shrinks the sheet in REAL TIME with the
+   finger; release past a small threshold collapses it with a Dynamic-Island spring,
+   otherwise it springs back. Because it's a fixed overlay, closing returns the page
+   exactly where the card was (no scroll drift). ---- */
 function MobileArticle({ item, t, onClose }) {
-  const ref = useRef();
-  const startY = useRef(0);
-  const [closing, setClosing] = useState(false);
-  const edge = useRef({ top: false, bottom: false });
-  // play the bouncy bubble-shrink, THEN hand off to the card's spring-in (timed to
-  // overlap so it reads as one continuous morph, like the Dynamic Island)
-  const close = () => { if (closing) return; setClosing(true); setTimeout(onClose, 200); };
-  useEffect(() => { if (ref.current) ref.current.scrollIntoView({ block: 'start' }); }, []);
-  const onTouchStart = (e) => {
-    startY.current = e.touches[0].clientY;
-    const el = ref.current;
-    // Only arm collapse if the gesture STARTS already at the article's edge (a real
-    // over-pull), so mid-article scrolling never dismisses. Generous buffers.
-    const r = el ? el.getBoundingClientRect() : null;
-    edge.current = r
-      ? { top: r.top >= -2, bottom: r.bottom <= window.innerHeight + 2 }
-      : { top: false, bottom: false };
+  const sheetRef = useRef();
+  const st = useRef({ startY: 0, lastY: 0, over: null, overStartY: 0, pull: 0, closing: false });
+  const setSheet = (scale, animate) => {
+    const el = sheetRef.current; if (!el) return;
+    el.style.transition = animate ? 'transform .44s cubic-bezier(.22,1,.36,1), opacity .44s' : 'none';
+    el.style.transform = `scale(${scale})`;
+    el.style.opacity = String(Math.max(0.55, scale));
   };
-  const onTouchEnd = (e) => {
-    if (closing) return;
-    const dy = e.changedTouches[0].clientY - startY.current;
-    // top edge is easier to dismiss (shorter pull); bottom needs a firmer push.
-    if (edge.current.top && dy > 80) close();            // at the top, pulled down
-    else if (edge.current.bottom && dy < -130) close();   // at the bottom, pushed up
+  const collapse = () => {
+    const s = st.current; if (s.closing) return; s.closing = true;
+    const el = sheetRef.current;
+    if (el) { el.style.transition = 'transform .26s cubic-bezier(.5,0,.7,1), opacity .24s ease'; el.style.transform = 'scale(.42)'; el.style.opacity = '0'; }
+    setTimeout(onClose, 215);
   };
+  const springBack = () => { const s = st.current; s.over = null; s.pull = 0; setSheet(1, true); };
+  useEffect(() => {
+    const sheet = sheetRef.current; if (!sheet) return;
+    const sc = sheet.querySelector('.ax-full'); if (!sc) return;
+    const onStart = (e) => { const s = st.current; s.startY = s.lastY = e.touches[0].clientY; s.over = null; s.pull = 0; };
+    const onMove = (e) => {
+      const s = st.current; if (s.closing) return;
+      const y = e.touches[0].clientY;
+      const atTop = sc.scrollTop <= 0;
+      const atBottom = sc.scrollTop + sc.clientHeight >= sc.scrollHeight - 1;
+      const dirDown = y > s.lastY, dirUp = y < s.lastY;
+      s.lastY = y;
+      // arm overscroll ONCE, the moment we're at an edge and moving outward
+      if (!s.over) {
+        if (atTop && dirDown) { s.over = 'top'; s.overStartY = y; }
+        else if (atBottom && dirUp) { s.over = 'bottom'; s.overStartY = y; }
+        else return;
+      }
+      // scrolling back into range cancels it
+      if ((s.over === 'top' && !atTop) || (s.over === 'bottom' && !atBottom)) { s.over = null; s.pull = 0; setSheet(1, false); return; }
+      const pull = Math.max(0, s.over === 'top' ? (y - s.overStartY) : (s.overStartY - y));
+      s.pull = pull;
+      if (e.cancelable) e.preventDefault();   // own the gesture; drive the shrink
+      setSheet(Math.max(0.84, 1 - pull / 700), false);  // real-time, finger-proportional
+    };
+    const onEnd = () => {
+      const s = st.current; if (s.closing) return;
+      if (!s.over) return;
+      const th = s.over === 'top' ? 64 : 96;   // small, deliberate over-pull
+      if (s.pull > th) collapse(); else springBack();
+    };
+    sc.addEventListener('touchstart', onStart, { passive: true });
+    sc.addEventListener('touchmove', onMove, { passive: false });
+    sc.addEventListener('touchend', onEnd, { passive: true });
+    return () => { sc.removeEventListener('touchstart', onStart); sc.removeEventListener('touchmove', onMove); sc.removeEventListener('touchend', onEnd); };
+  }, []);
   return (
-    <div ref={ref} className={closing ? 'ax-bubble-out' : ''} onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
-      style={{ maxWidth: 480, margin: '2px auto 0', background: t.cardSolid || t.cardBg,
-        border: t.cardBorder, borderRadius: t.radius, overflow: 'hidden', boxShadow: t.cardShadow,
-        display: 'flex', flexDirection: 'column' }}>
-      <FullArticle item={item} t={t} onClose={close} />
+    <div ref={sheetRef} className="ax-sheet-in" style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, zIndex: 200,
+      background: t.cardSolid || t.cardBg, display: 'flex', flexDirection: 'column',
+      transformOrigin: 'top center', willChange: 'transform,opacity' }}>
+      <FullArticle item={item} t={t} onClose={collapse} />
     </div>
   );
 }
