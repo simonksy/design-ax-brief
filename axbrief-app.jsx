@@ -101,6 +101,15 @@ if (!document.getElementById('ax-styles')) {
   .ax-strip-card{flex:0 0 auto;cursor:pointer;text-align:left;padding:0;border-radius:14px;overflow:hidden;
      transition:transform .2s ease;}
   .ax-strip-card:active{transform:scale(.96);}
+  /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
+  .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
+  .ax-tab{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;font-weight:600;cursor:pointer;
+     padding:7px 15px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
+  .ax-tab:active{transform:scale(.95);}
+  @media (max-width:760px){
+    .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:12px;}
+    .ax-tabs::-webkit-scrollbar{display:none;}
+  }
   `;
   document.head.appendChild(s);
 }
@@ -659,8 +668,8 @@ function DayDeck({ day, idx, t, isLast, expanded, hoveredCard, shift, onDayEnter
 }
 
 /* ---- WeeklyTimeline: 5-day axis; hover fans a deck + pushes neighbors ---- */
-function WeeklyTimeline({ t, onOpen }) {
-  const days = window.AX_DAYS;
+function WeeklyTimeline({ t, onOpen, days }) {
+  days = days || [];
   const [hd, setHd] = useState(null);   // hovered day index
   const [hc, setHc] = useState(null);   // hovered card index within the day
   const PUSH = 168;
@@ -741,8 +750,8 @@ function useIsMobile(maxW) {
    RIGHT so yesterday is shown first and swiping left travels into the past. Each
    day is a block with its date pinned above its cards. Tap a card → opens it large
    in the hero (same flow as the desktop deck). Replaces WeeklyTimeline on mobile. ---- */
-function MobileFilmstrip({ t, onOpen }) {
-  const days = window.AX_DAYS || [];
+function MobileFilmstrip({ t, onOpen, days }) {
+  days = days || [];
   const stripRef = useRef();
   const lastDate = days.length ? days[days.length - 1].date : null;
   // Start at the right edge: yesterday (the newest day) is shown first.
@@ -805,15 +814,38 @@ function MobileFilmstrip({ t, onOpen }) {
   );
 }
 
-/* ---- ThemedPage: hero carousel + weekly deck timeline (one theme) ---- */
+/* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck ---- */
+function SectionTabs({ sections, order, active, onSelect, t }) {
+  return (
+    <div className="ax-tabs" role="tablist" aria-label="섹션">
+      {order.map((s) => {
+        const on = s === active;
+        const label = (sections[s] && sections[s].label) || s;
+        return (
+          <button key={s} role="tab" aria-selected={on} className="ax-tab" onClick={() => onSelect(s)}
+            style={on
+              ? { background: t.hl, color: '#fff', border: '1px solid ' + t.hl }
+              : { background: 'transparent', color: t.mute, border: '1px solid ' + t.rule }}>
+            {label}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+/* ---- ThemedPage: section tabs + hero carousel + weekly deck timeline (one theme) ---- */
 function ThemedPage({ themeKey }) {
   const t = THEMES[themeKey];
   const isMobile = useIsMobile(760);
+  const sections = window.AX_SECTIONS || { design: { label: 'Design', news: window.AX_NEWS || [], days: window.AX_DAYS || [] } };
+  const order = (window.AX_SECTION_ORDER || Object.keys(sections)).filter((s) => sections[s]);
+  const [section, setSection] = useState(order[0] || 'design');
+  const cur = sections[section] || { label: section, news: [], days: [] };
   const heroRef = useRef();
-  const [hero, setHero] = useState({ items: window.AX_NEWS, index: 0, key: 0, day: null });
+  const [hero, setHero] = useState(() => ({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: 0, day: null }));
   const [intro, setIntro] = useState(null);
-  // Pre-decode every image once mounted, so swiping the hero / scrolling the
-  // filmstrip never reveals a blank tile that's still waiting on image decode.
+  // Pre-decode this section's images so swiping/scrolling never shows a blank tile.
   useEffect(() => {
     let alive = true;
     const id = setTimeout(() => {
@@ -821,24 +853,30 @@ function ThemedPage({ themeKey }) {
       document.querySelectorAll('img').forEach((im) => { if (im.decode) im.decode().catch(() => {}); });
     }, 60);
     return () => { alive = false; clearTimeout(id); };
-  }, []);
+  }, [section]);
+  const scrollToHero = () => {
+    if (heroRef.current) {
+      const top = heroRef.current.getBoundingClientRect().top + window.scrollY - 28;
+      window.scrollTo({ top, behavior: 'smooth' });
+    }
+  };
+  const switchSection = (s) => {
+    if (s === section) return;
+    setSection(s); setIntro(null);
+    setHero({ items: (sections[s] || { news: [] }).news, index: 0, key: Date.now(), day: null });
+  };
   const openDay = (day, cardIdx) => {
     setHero({ items: day.cards, index: cardIdx, key: Date.now(), day });
     setIntro({ day, cardIdx, k: Date.now() });
-    if (heroRef.current) {
-      const top = heroRef.current.getBoundingClientRect().top + window.scrollY - 28;
-      window.scrollTo({ top, behavior: 'smooth' });
-    }
+    scrollToHero();
   };
   const backToToday = () => {
     setIntro(null);
-    setHero({ items: window.AX_NEWS, index: 0, key: Date.now(), day: null });
-    if (heroRef.current) {
-      const top = heroRef.current.getBoundingClientRect().top + window.scrollY - 28;
-      window.scrollTo({ top, behavior: 'smooth' });
-    }
+    setHero({ items: cur.news, index: 0, key: Date.now(), day: null });
+    scrollToHero();
   };
   const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
+  const hasNews = (cur.news || []).length > 0;
   return (
     <div style={{ position: 'relative', minHeight: '100vh', overflow: 'visible', background: t.briefBg, boxSizing: 'border-box' }}>
       {/* The animated, full-screen, blurred + mix-blended backdrop is the page's
@@ -847,10 +885,10 @@ function ThemedPage({ themeKey }) {
       {!isMobile && <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>}
       <div className="ax-shell">
         <Masthead t={t} mobile={isMobile} />
-        {/* back-to-today control — rendered only while viewing a past day, so it
-            reserves no empty space (kept the masthead→hero gap tight). */}
+        <SectionTabs sections={sections} order={order} active={section} onSelect={switchSection} t={t} />
+        {/* back-to-today control — rendered only while viewing a past day. */}
         {hero.day && (
-          <div style={{ marginTop: 6, marginBottom: 2, textAlign: 'center' }}>
+          <div style={{ marginTop: 2, marginBottom: 2, textAlign: 'center' }}>
             <button onClick={backToToday} className="ax-eyebrow" style={{ cursor: 'pointer',
               border: t.cardBorder, background: t.cardBg, color: t.hl, padding: '7px 15px', borderRadius: 100,
               WebkitBackdropFilter: t.blur, backdropFilter: t.blur, display: 'inline-flex', alignItems: 'center', gap: 7 }}>
@@ -859,16 +897,29 @@ function ThemedPage({ themeKey }) {
             </button>
           </div>
         )}
-        {/* HERO — centered vertical card */}
-        <div ref={heroRef} className="ax-hero-wrap">
-          <Carousel key={'hero' + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} />
-          {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} onDone={() => setIntro(null)} />}
-        </div>
-        {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
-        {isMobile ? <MobileFilmstrip t={t} onOpen={openDay} /> : <WeeklyTimeline t={t} onOpen={openDay} />}
+        {hasNews ? (
+          <React.Fragment>
+            {/* HERO — centered vertical card */}
+            <div ref={heroRef} className="ax-hero-wrap">
+              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} />
+              {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} onDone={() => setIntro(null)} />}
+            </div>
+            {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
+            {(cur.days || []).length > 0 && (isMobile
+              ? <MobileFilmstrip t={t} onOpen={openDay} days={cur.days} />
+              : <WeeklyTimeline t={t} onOpen={openDay} days={cur.days} />)}
+          </React.Fragment>
+        ) : (
+          /* empty section (no news yet) */
+          <div style={{ textAlign: 'center', padding: '64px 20px 80px' }}>
+            <div className="ax-hl" style={{ fontSize: 22, color: t.hl, marginBottom: 10 }}>{cur.label} · 준비 중</div>
+            <p className="ax-body" style={{ fontSize: 14.5, color: t.body, margin: 0 }}>
+              이 섹션에는 아직 오늘 소식이 없습니다. 곧 채워집니다.</p>
+          </div>
+        )}
       </div>
     </div>
   );
 }
 
-Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, ThemedPage });
+Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, SectionTabs, ThemedPage });

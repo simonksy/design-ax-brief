@@ -53,12 +53,15 @@ def published_urls(news: dict, days: int):
 
 def main(argv):
     args = {"--news": "news_data.json", "--candidates": "candidates.json",
-            "--out": "candidates_filtered.json", "--days": "5"}
+            "--out": "candidates_filtered.json", "--days": "5", "--section": "design"}
     it = iter(argv)
     for a in it:
         if a in args:
             args[a] = next(it)
     news = json.load(open(args["--news"]))
+    # Section-keyed news_data: dedup only against THIS section's published history.
+    # (Falls back to the whole file for the old non-sectioned format.)
+    news = (news.get("sections", {}) or {}).get(args["--section"], news)
     cand = json.load(open(args["--candidates"]))
     items = cand["items"] if isinstance(cand, dict) else cand
     seen = published_urls(news, int(args["--days"]))

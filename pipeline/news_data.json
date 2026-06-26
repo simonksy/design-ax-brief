@@ -1,268 +1,300 @@
 {
-  "today": {
-    "date": "2026-06-26",
-    "cards": [
-      {
-        "id": "krea2",
-        "eyebrow": "AI NEWS",
-        "headline": "Krea 2, 오픈웨이트로\n2초 만에 고품질 이미지",
-        "body": "프런티어 이미지 모델 Krea 2가 Raw·Turbo 오픈웨이트로 공개됐다. 약 2초 만에 고품질 이미지를 만들어, 디자이너가 자체 호스팅으로 무드보드·시안 반복을 빠르게 돌린다.",
-        "tool": "Krea",
-        "source": "VentureBeat",
-        "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/krea2.png"
+  "sections": {
+    "design": {
+      "today": {
+        "date": "2026-06-26",
+        "cards": [
+          {
+            "id": "krea2",
+            "eyebrow": "AI NEWS",
+            "headline": "Krea 2, 오픈웨이트로\n2초 만에 고품질 이미지",
+            "body": "프런티어 이미지 모델 Krea 2가 Raw·Turbo 오픈웨이트로 공개됐다. 약 2초 만에 고품질 이미지를 만들어, 디자이너가 자체 호스팅으로 무드보드·시안 반복을 빠르게 돌린다.",
+            "tool": "Krea",
+            "source": "VentureBeat",
+            "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/krea2.png"
+          },
+          {
+            "id": "adobe-topaz",
+            "eyebrow": "AI NEWS",
+            "headline": "Adobe가 Topaz Labs\n인수, Firefly에 통합",
+            "body": "Adobe가 AI 이미지·영상 화질 개선 툴 메이커 Topaz Labs를 인수한다. 업스케일·인핸스 모델을 Firefly 앱과 이미지·영상 편집 제품군에 통합할 계획이다.",
+            "tool": "Adobe",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+            "accent": "#ff5a4d",
+            "motif": "frame",
+            "image": "pipeline/media/adobe-topaz.jpg"
+          },
+          {
+            "id": "claude-tag",
+            "eyebrow": "AI NEWS",
+            "headline": "Claude Tag, 슬랙에 상주하는\n상시 AI 팀메이트",
+            "body": "Anthropic이 Claude Tag를 공개했다. 슬랙 채널을 지켜보며 회사 맥락을 학습하고, @멘션으로 인사이트와 업무를 맡길 수 있는 상시 AI 팀메이트로 엔터프라이즈·팀 베타로 풀린다.",
+            "tool": "Anthropic",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+            "accent": "#3b6bff",
+            "motif": "frame",
+            "image": "pipeline/media/claude-tag.png"
+          }
+        ]
       },
-      {
-        "id": "adobe-topaz",
-        "eyebrow": "AI NEWS",
-        "headline": "Adobe가 Topaz Labs\n인수, Firefly에 통합",
-        "body": "Adobe가 AI 이미지·영상 화질 개선 툴 메이커 Topaz Labs를 인수한다. 업스케일·인핸스 모델을 Firefly 앱과 이미지·영상 편집 제품군에 통합할 계획이다.",
-        "tool": "Adobe",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/adobe-topaz.jpg"
+      "days": [
+        {
+          "date": "2026-06-19",
+          "cards": [
+            {
+              "tool": "Text-to-CAD",
+              "headline": "AI CAD, 과장과 현실 사이",
+              "source": "Leo AI",
+              "url": "https://www.getleo.ai/blog/ai-cad-design-2026-whats-real",
+              "accent": "#7928ca",
+              "image": "pipeline/media/deck/leo-cad-real.webp"
+            },
+            {
+              "tool": "Text-to-CAD",
+              "headline": "텍스트-투-CAD 도구 총정리 2026",
+              "source": "Leo AI",
+              "url": "https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026",
+              "accent": "#3b6bff",
+              "image": "pipeline/media/deck/leo-cad-tools.jpg"
+            },
+            {
+              "tool": "KeyShot",
+              "headline": "클링 3.0 터보, 더 빠른 AI 영상 생성",
+              "source": "Atlas Cloud",
+              "url": "https://www.atlascloud.ai/blog/guides/kling-3.0-turbo-kling-omni",
+              "accent": "#f5a623",
+              "image": "pipeline/media/deck/kling3.jpg"
+            },
+            {
+              "tool": "AI Workflow",
+              "headline": "구글, 제미나이 CLI를 Antigravity로 전환",
+              "source": "Google Developers",
+              "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+              "accent": "#ff5a4d",
+              "image": "pipeline/media/deck/antigravity.jpg"
+            },
+            {
+              "tool": "VR Prototype",
+              "headline": "스냅, AI 영상팀을 Dotmo로 분사",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+              "accent": "#eb367f",
+              "image": "pipeline/media/deck/snap-dotmo.jpg"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-22",
+          "cards": [
+            {
+              "tool": "AI Workflow",
+              "headline": "Firefly 어시스턴트가 프리미어·일러스트·인디자인으로",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+              "accent": "#ff5a4d",
+              "image": "pipeline/media/firefly.jpeg"
+            },
+            {
+              "tool": "AI Workflow",
+              "headline": "Claude Design, 코딩 에이전트와 이어지다",
+              "source": "Engadget",
+              "url": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent/",
+              "accent": "#3b6bff",
+              "image": "pipeline/media/claude-design.jpg"
+            },
+            {
+              "tool": "Figma",
+              "headline": "피그마 디자인 에이전트가 이제 웹을 검색한다",
+              "source": "Figma",
+              "url": "https://www.figma.com/release-notes/",
+              "accent": "#0070f3"
+            },
+            {
+              "tool": "Design Tokens",
+              "headline": "프로토타입과 코드를 오가는 양방향 핸드오프",
+              "source": "BigGo Finance",
+              "url": "https://finance.biggo.com/news/4535a14d-ea20-4047-9b2d-166397850c7c",
+              "accent": "#2ec5c5"
+            },
+            {
+              "tool": "KeyShot",
+              "headline": "언리얼 엔진 6, MCP로 AI를 끌어안다",
+              "source": "CG Channel",
+              "url": "https://www.cgchannel.com/2026/06/10-things-cg-artists-need-to-know-about-unreal-engine-6/",
+              "accent": "#f5a623",
+              "image": "pipeline/media/ue6-mcp.jpg"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-23",
+          "cards": [
+            {
+              "tool": "KeyShot",
+              "headline": "Unity 6.5, 렌더 노이즈 제거를 AI 방식으로 교체하다",
+              "source": "CG Channel",
+              "url": "https://www.cgchannel.com/2026/06/unity-releases-unity-6-5-discover-5-key-features-for-cg-artists/",
+              "accent": "#f5a623",
+              "image": "pipeline/media/unity65.jpg"
+            },
+            {
+              "tool": "KeyShot",
+              "headline": "딥마인드가 A24와 AI 영화 도구를 만든다",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+              "accent": "#3b6bff",
+              "image": "pipeline/media/deepmind-a24.jpg"
+            },
+            {
+              "tool": "AI Workflow",
+              "headline": "ChatGPT 안에 게티 라이선스 이미지가 들어온다",
+              "source": "Engadget",
+              "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
+              "accent": "#ff5a4d",
+              "image": "pipeline/media/openai-getty.jpg"
+            },
+            {
+              "tool": "Design Tokens",
+              "headline": "Claude가 이제 신원 확인을 요구할 수 있다",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+              "accent": "#2ec5c5",
+              "image": "pipeline/media/claude-id.jpg"
+            },
+            {
+              "tool": "VR Prototype",
+              "headline": "iOS 27, 시리 너머의 온디바이스 AI가 온다",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+              "accent": "#eb367f",
+              "image": "pipeline/media/ios27-ai.jpg"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-24",
+          "cards": [
+            {
+              "tool": "KeyShot",
+              "headline": "Arnold 7.5.2, 가우시안 스플랫을 렌더에 들이다",
+              "source": "CG Channel",
+              "url": "https://www.cgchannel.com/2026/06/autodesk-releases-arnold-7-5-2-with-support-for-gaussian-splatting/",
+              "accent": "#f5a623",
+              "image": "pipeline/media/arnold-splat.jpg"
+            },
+            {
+              "tool": "Figma",
+              "headline": "Claude Design에서 바로 Vercel로 배포한다",
+              "source": "Vercel",
+              "url": "https://vercel.com/changelog/claude-design-and-vercel",
+              "accent": "#0070f3",
+              "image": "pipeline/media/claude-design-vercel.png"
+            },
+            {
+              "tool": "KeyShot",
+              "headline": "알리바바 영상 모델, 글로벌 2위로 올라서다",
+              "source": "VentureBeat",
+              "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+              "accent": "#3b6bff",
+              "image": "pipeline/media/alibaba-video.webp"
+            },
+            {
+              "tool": "AI Workflow",
+              "headline": "루프를 도는 AI, 워크플로의 전제를 흔든다",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+              "accent": "#ff5a4d",
+              "image": "pipeline/media/loopy-ai.jpg"
+            },
+            {
+              "tool": "AI Workflow",
+              "headline": "OpenAI, 오픈소스 버그를 AI로 잡는 프로젝트",
+              "source": "TechCrunch",
+              "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+              "accent": "#7928ca",
+              "image": "pipeline/media/patch-the-planet.jpg"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-25",
+          "cards": [
+            {
+              "tool": "Figma",
+              "headline": "Config 2026, 모션과 코드 레이어가 캔버스 안으로 들어왔다",
+              "source": "Figma",
+              "url": "https://www.figma.com/blog/config-2026-recap/",
+              "accent": "#0070f3",
+              "image": "pipeline/media/figma.png"
+            },
+            {
+              "tool": "KeyShot",
+              "headline": "Houdini 22, 가우시안 스플랫과 ML 리깅을 절차적으로",
+              "source": "80 Level",
+              "url": "https://80.lv/articles/everything-you-need-to-know-about-houdini-22",
+              "accent": "#f5a623",
+              "image": "pipeline/media/houdini22.jpg"
+            },
+            {
+              "tool": "KeyShot",
+              "headline": "Cloud Paint V2, 뷰포트에서 구름을 직접 칠한다",
+              "source": "80 Level",
+              "url": "https://80.lv/articles/blender-cloud-paint-tool-updated-with-flat-paint-generator-procedural-asset-library",
+              "accent": "#eb367f",
+              "image": "pipeline/media/cloudpaint2.jpeg"
+            },
+            {
+              "tool": "Social",
+              "headline": "Claude Code로 옵시디언에 두 번째 뇌를 만든다",
+              "source": "Luke J Byrne (AI Luke)",
+              "url": "https://www.youtube.com/watch?v=zjrSoXtlunU",
+              "accent": "#ff2d55",
+              "image": "pipeline/media/claude-obsidian.jpg"
+            },
+            {
+              "tool": "Social",
+              "headline": "AI 에이전트가 다시 짜는 일과 조직의 구조",
+              "source": "The Ravit Show",
+              "url": "https://www.youtube.com/watch?v=tBU1KC5BQ2k",
+              "accent": "#3b6bff",
+              "image": "pipeline/media/ax-shift.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    "music": {
+      "today": {
+        "date": null,
+        "cards": []
       },
-      {
-        "id": "claude-tag",
-        "eyebrow": "AI NEWS",
-        "headline": "Claude Tag, 슬랙에 상주하는\n상시 AI 팀메이트",
-        "body": "Anthropic이 Claude Tag를 공개했다. 슬랙 채널을 지켜보며 회사 맥락을 학습하고, @멘션으로 인사이트와 업무를 맡길 수 있는 상시 AI 팀메이트로 엔터프라이즈·팀 베타로 풀린다.",
-        "tool": "Anthropic",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-        "accent": "#3b6bff",
-        "motif": "frame",
-        "image": "pipeline/media/claude-tag.png"
-      }
-    ]
-  },
-  "days": [
-    {
-      "date": "2026-06-19",
-      "cards": [
-        {
-          "tool": "Text-to-CAD",
-          "headline": "AI CAD, 과장과 현실 사이",
-          "source": "Leo AI",
-          "url": "https://www.getleo.ai/blog/ai-cad-design-2026-whats-real",
-          "accent": "#7928ca",
-          "image": "pipeline/media/deck/leo-cad-real.webp"
-        },
-        {
-          "tool": "Text-to-CAD",
-          "headline": "텍스트-투-CAD 도구 총정리 2026",
-          "source": "Leo AI",
-          "url": "https://www.getleo.ai/blog/best-text-to-cad-ai-tools-2026",
-          "accent": "#3b6bff",
-          "image": "pipeline/media/deck/leo-cad-tools.jpg"
-        },
-        {
-          "tool": "KeyShot",
-          "headline": "클링 3.0 터보, 더 빠른 AI 영상 생성",
-          "source": "Atlas Cloud",
-          "url": "https://www.atlascloud.ai/blog/guides/kling-3.0-turbo-kling-omni",
-          "accent": "#f5a623",
-          "image": "pipeline/media/deck/kling3.jpg"
-        },
-        {
-          "tool": "AI Workflow",
-          "headline": "구글, 제미나이 CLI를 Antigravity로 전환",
-          "source": "Google Developers",
-          "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-          "accent": "#ff5a4d",
-          "image": "pipeline/media/deck/antigravity.jpg"
-        },
-        {
-          "tool": "VR Prototype",
-          "headline": "스냅, AI 영상팀을 Dotmo로 분사",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-          "accent": "#eb367f",
-          "image": "pipeline/media/deck/snap-dotmo.jpg"
-        }
-      ]
+      "days": []
     },
-    {
-      "date": "2026-06-22",
-      "cards": [
-        {
-          "tool": "AI Workflow",
-          "headline": "Firefly 어시스턴트가 프리미어·일러스트·인디자인으로",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
-          "accent": "#ff5a4d",
-          "image": "pipeline/media/firefly.jpeg"
-        },
-        {
-          "tool": "AI Workflow",
-          "headline": "Claude Design, 코딩 에이전트와 이어지다",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent/",
-          "accent": "#3b6bff",
-          "image": "pipeline/media/claude-design.jpg"
-        },
-        {
-          "tool": "Figma",
-          "headline": "피그마 디자인 에이전트가 이제 웹을 검색한다",
-          "source": "Figma",
-          "url": "https://www.figma.com/release-notes/",
-          "accent": "#0070f3"
-        },
-        {
-          "tool": "Design Tokens",
-          "headline": "프로토타입과 코드를 오가는 양방향 핸드오프",
-          "source": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/4535a14d-ea20-4047-9b2d-166397850c7c",
-          "accent": "#2ec5c5"
-        },
-        {
-          "tool": "KeyShot",
-          "headline": "언리얼 엔진 6, MCP로 AI를 끌어안다",
-          "source": "CG Channel",
-          "url": "https://www.cgchannel.com/2026/06/10-things-cg-artists-need-to-know-about-unreal-engine-6/",
-          "accent": "#f5a623",
-          "image": "pipeline/media/ue6-mcp.jpg"
-        }
-      ]
+    "movies": {
+      "today": {
+        "date": null,
+        "cards": []
+      },
+      "days": []
     },
-    {
-      "date": "2026-06-23",
-      "cards": [
-        {
-          "tool": "KeyShot",
-          "headline": "Unity 6.5, 렌더 노이즈 제거를 AI 방식으로 교체하다",
-          "source": "CG Channel",
-          "url": "https://www.cgchannel.com/2026/06/unity-releases-unity-6-5-discover-5-key-features-for-cg-artists/",
-          "accent": "#f5a623",
-          "image": "pipeline/media/unity65.jpg"
-        },
-        {
-          "tool": "KeyShot",
-          "headline": "딥마인드가 A24와 AI 영화 도구를 만든다",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-          "accent": "#3b6bff",
-          "image": "pipeline/media/deepmind-a24.jpg"
-        },
-        {
-          "tool": "AI Workflow",
-          "headline": "ChatGPT 안에 게티 라이선스 이미지가 들어온다",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
-          "accent": "#ff5a4d",
-          "image": "pipeline/media/openai-getty.jpg"
-        },
-        {
-          "tool": "Design Tokens",
-          "headline": "Claude가 이제 신원 확인을 요구할 수 있다",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-          "accent": "#2ec5c5",
-          "image": "pipeline/media/claude-id.jpg"
-        },
-        {
-          "tool": "VR Prototype",
-          "headline": "iOS 27, 시리 너머의 온디바이스 AI가 온다",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-          "accent": "#eb367f",
-          "image": "pipeline/media/ios27-ai.jpg"
-        }
-      ]
+    "games": {
+      "today": {
+        "date": null,
+        "cards": []
+      },
+      "days": []
     },
-    {
-      "date": "2026-06-24",
-      "cards": [
-        {
-          "tool": "KeyShot",
-          "headline": "Arnold 7.5.2, 가우시안 스플랫을 렌더에 들이다",
-          "source": "CG Channel",
-          "url": "https://www.cgchannel.com/2026/06/autodesk-releases-arnold-7-5-2-with-support-for-gaussian-splatting/",
-          "accent": "#f5a623",
-          "image": "pipeline/media/arnold-splat.jpg"
-        },
-        {
-          "tool": "Figma",
-          "headline": "Claude Design에서 바로 Vercel로 배포한다",
-          "source": "Vercel",
-          "url": "https://vercel.com/changelog/claude-design-and-vercel",
-          "accent": "#0070f3",
-          "image": "pipeline/media/claude-design-vercel.png"
-        },
-        {
-          "tool": "KeyShot",
-          "headline": "알리바바 영상 모델, 글로벌 2위로 올라서다",
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
-          "accent": "#3b6bff",
-          "image": "pipeline/media/alibaba-video.webp"
-        },
-        {
-          "tool": "AI Workflow",
-          "headline": "루프를 도는 AI, 워크플로의 전제를 흔든다",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-          "accent": "#ff5a4d",
-          "image": "pipeline/media/loopy-ai.jpg"
-        },
-        {
-          "tool": "AI Workflow",
-          "headline": "OpenAI, 오픈소스 버그를 AI로 잡는 프로젝트",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-          "accent": "#7928ca",
-          "image": "pipeline/media/patch-the-planet.jpg"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "cards": [
-        {
-          "tool": "Figma",
-          "headline": "Config 2026, 모션과 코드 레이어가 캔버스 안으로 들어왔다",
-          "source": "Figma",
-          "url": "https://www.figma.com/blog/config-2026-recap/",
-          "accent": "#0070f3",
-          "image": "pipeline/media/figma.png"
-        },
-        {
-          "tool": "KeyShot",
-          "headline": "Houdini 22, 가우시안 스플랫과 ML 리깅을 절차적으로",
-          "source": "80 Level",
-          "url": "https://80.lv/articles/everything-you-need-to-know-about-houdini-22",
-          "accent": "#f5a623",
-          "image": "pipeline/media/houdini22.jpg"
-        },
-        {
-          "tool": "KeyShot",
-          "headline": "Cloud Paint V2, 뷰포트에서 구름을 직접 칠한다",
-          "source": "80 Level",
-          "url": "https://80.lv/articles/blender-cloud-paint-tool-updated-with-flat-paint-generator-procedural-asset-library",
-          "accent": "#eb367f",
-          "image": "pipeline/media/cloudpaint2.jpeg"
-        },
-        {
-          "tool": "Social",
-          "headline": "Claude Code로 옵시디언에 두 번째 뇌를 만든다",
-          "source": "Luke J Byrne (AI Luke)",
-          "url": "https://www.youtube.com/watch?v=zjrSoXtlunU",
-          "accent": "#ff2d55",
-          "image": "pipeline/media/claude-obsidian.jpg"
-        },
-        {
-          "tool": "Social",
-          "headline": "AI 에이전트가 다시 짜는 일과 조직의 구조",
-          "source": "The Ravit Show",
-          "url": "https://www.youtube.com/watch?v=tBU1KC5BQ2k",
-          "accent": "#3b6bff",
-          "image": "pipeline/media/ax-shift.jpg"
-        }
-      ]
+    "books": {
+      "today": {
+        "date": null,
+        "cards": []
+      },
+      "days": []
     }
-  ]
+  }
 }

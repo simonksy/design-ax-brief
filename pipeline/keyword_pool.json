@@ -1,39 +1,88 @@
 {
-  "_comment": "Default keyword pool for ax-planner. 'core' is always searched; the planner rotates a subset of 'pool' each day for variety. User-supplied keywords (via SKILL Step 0) are added on top. Edit freely.",
-  "core": ["AI Design Tool", "Design AX", "AI Workflow"],
-  "pool": {
-    "tools_creative": [
-      "Higgsfield", "Kling", "Runway", "Sora", "Midjourney", "Adobe Firefly",
-      "Google Veo", "Luma Dream Machine", "Pika", "Krea", "Stable Diffusion", "Flux"
-    ],
-    "tools_design_code": [
-      "Figma", "Claude Design", "Claude Code", "v0 Vercel", "Framer AI", "Cursor",
-      "Lovable", "Bolt", "Generative UI", "Design-to-code", "Vibe coding",
-      "Model Context Protocol"
-    ],
-    "models_labs": [
-      "OpenAI", "ChatGPT", "Anthropic", "Gemini", "Meta", "Ollama", "Llama",
-      "Mistral", "Grok xAI", "DeepSeek"
-    ],
-    "concepts": [
-      "AI Agent", "Agentic AI", "Physical AI", "Embodied AI", "World models",
-      "Multimodal AI"
-    ],
-    "people": [
-      "Yann LeCun", "Andrej Karpathy", "Dario Amodei", "Sam Altman",
-      "Demis Hassabis", "Fei-Fei Li", "Ilya Sutskever", "Mira Murati", "Jensen Huang"
-    ],
-    "frontier_broad": [
-      "Nvidia", "Figure AI", "Tesla Optimus", "1X robot", "Boston Dynamics",
-      "Humanoid robot", "Apple Vision Pro", "Meta Quest", "Spatial computing",
-      "Meta Ray-Ban", "Suno", "Udio", "ElevenLabs", "Hugging Face",
-      "open-source AI", "AGI", "superintelligence", "AI safety", "AI regulation",
-      "Enterprise AI agents"
-    ],
-    "social": [
-      "Figma YouTube", "Vercel YouTube", "Matt Wolfe AI", "The AI Advantage",
-      "Fireship AI", "DesignCourse", "AI design tutorial YouTube",
-      "Midjourney Instagram", "Runway Instagram", "Awwwards", "design AI reel"
-    ]
+  "_comment": "Section-keyed keyword pool for ax-planner. AI is the constant axis; each section pairs AI with a domain. For each section the planner ALWAYS searches `core` and rotates a subset of the rest by date. `design` keeps its categorized `pool`; the other sections use a flat `keywords` list. User-supplied seeds (SKILL Step 0) are added on top. Edit freely.",
+  "sections": {
+    "design": {
+      "core": ["AI Design Tool", "Design AX", "AI Workflow"],
+      "pool": {
+        "tools_creative": [
+          "Higgsfield", "Kling", "Runway", "Sora", "Midjourney", "Adobe Firefly",
+          "Google Veo", "Luma Dream Machine", "Pika", "Krea", "Stable Diffusion", "Flux"
+        ],
+        "tools_design_code": [
+          "Figma", "Claude Design", "Claude Code", "v0 Vercel", "Framer AI", "Cursor",
+          "Lovable", "Bolt", "Generative UI", "Design-to-code", "Vibe coding",
+          "Model Context Protocol"
+        ],
+        "models_labs": [
+          "OpenAI", "ChatGPT", "Anthropic", "Gemini", "Meta", "Ollama", "Llama",
+          "Mistral", "Grok xAI", "DeepSeek"
+        ],
+        "concepts": [
+          "AI Agent", "Agentic AI", "Physical AI", "Embodied AI", "World models",
+          "Multimodal AI"
+        ],
+        "people": [
+          "Yann LeCun", "Andrej Karpathy", "Dario Amodei", "Sam Altman",
+          "Demis Hassabis", "Fei-Fei Li", "Ilya Sutskever", "Mira Murati", "Jensen Huang"
+        ],
+        "frontier_broad": [
+          "Nvidia", "Figure AI", "Tesla Optimus", "1X robot", "Boston Dynamics",
+          "Humanoid robot", "Apple Vision Pro", "Meta Quest", "Spatial computing",
+          "Meta Ray-Ban", "Suno", "Udio", "ElevenLabs", "Hugging Face",
+          "open-source AI", "AGI", "superintelligence", "AI safety", "AI regulation",
+          "Enterprise AI agents"
+        ],
+        "social": [
+          "Figma YouTube", "Vercel YouTube", "Matt Wolfe AI", "The AI Advantage",
+          "Fireship AI", "DesignCourse", "AI design tutorial YouTube",
+          "Midjourney Instagram", "Runway Instagram", "Awwwards", "design AI reel"
+        ]
+      }
+    },
+    "music": {
+      "core": ["AI music", "AI 음악", "generative music"],
+      "keywords": [
+        "AI music generation", "Suno", "Udio", "Stable Audio", "ElevenLabs Music",
+        "Google Lyria", "MusicLM", "AI mastering", "AI stem separation",
+        "AI songwriting", "AI vocal cloning", "text-to-music", "AI music plugin",
+        "neural synthesizer", "AI mixing", "AI sample generation", "AI song cover",
+        "music AI licensing", "AI DJ", "real-time AI music", "Riffusion",
+        "AI in Ableton", "AI in Logic Pro", "AI music video"
+      ]
+    },
+    "games": {
+      "core": ["AI game", "AI 게임", "generative game"],
+      "keywords": [
+        "generative game assets", "AI NPC", "Inworld AI", "procedural generation AI",
+        "AI playtesting", "neural game engine", "AI level design", "AI game dialogue",
+        "Unreal Engine AI", "Unity Muse", "AI game art", "AI animation games",
+        "AI voice acting games", "NVIDIA ACE", "AI game design tool",
+        "AI character creation", "AI mod UGC", "text-to-game", "AI playable worlds",
+        "Genie world model", "AI dynamic difficulty", "AI localization games",
+        "AI bug detection games", "vibe coding games"
+      ]
+    },
+    "movies": {
+      "core": ["AI film", "AI 영화", "AI filmmaking"],
+      "keywords": [
+        "generative video film", "AI VFX", "Runway film", "Sora film",
+        "virtual production AI", "AI de-aging", "AI storyboard previs",
+        "AI screenwriting", "deepfake film", "AI color grading", "AI rotoscoping",
+        "AI dubbing lip sync", "AI short film", "text-to-video film", "AI motion capture",
+        "neural rendering film", "AI trailer", "AI film restoration", "Kling film",
+        "Luma film", "AI animation film", "AI scene generation", "Hollywood AI"
+      ]
+    },
+    "books": {
+      "core": ["AI writing", "AI 출판", "AI publishing"],
+      "keywords": [
+        "AI co-writing", "AI book cover", "AI audiobook narration",
+        "AI literary translation", "generative fiction", "AI ghostwriting",
+        "AI ebook tools", "AI editing proofreading", "Sudowrite", "AI self-publishing",
+        "KDP AI", "AI narration voices", "AI book marketing", "AI book summarization",
+        "AI reading assistant", "AI poetry", "AI children's book", "AI manuscript",
+        "AI comic manga", "AI textbook", "AI copyright authors", "AI book recommendation"
+      ]
+    }
   }
 }

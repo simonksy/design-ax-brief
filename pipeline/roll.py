@@ -67,11 +67,16 @@ def main():
     ap.add_argument("--data", default="news_data.json")
     ap.add_argument("--cards", required=True)
     ap.add_argument("--media", required=True)
+    ap.add_argument("--section", default="design")
     a = ap.parse_args()
     data = json.load(open(a.data, encoding="utf-8"))
     cards = json.load(open(a.cards, encoding="utf-8"))
     media = json.load(open(a.media, encoding="utf-8"))
-    json.dump(roll(data, cards, media), open(a.data, "w", encoding="utf-8"),
+    # Section-keyed news_data: roll only within sections[<section>].
+    sections = data.setdefault("sections", {})
+    sec = sections.setdefault(a.section, {"today": {"date": None, "cards": []}, "days": []})
+    roll(sec, cards, media)   # mutates sec["today"]/sec["days"] in place
+    json.dump(data, open(a.data, "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":

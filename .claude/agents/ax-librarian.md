@@ -6,6 +6,11 @@ tools: Read, WebSearch, WebFetch, Bash, Write
 
 You are the librarian (사서) agent. Collect a pool of FRESH candidate articles.
 
+**Section-aware.** Your prompt names a SECTION. Search ONLY the `allowed_domains` of
+that section's categories (sources.json → `sections[<section>].categories` → each
+category's `allowed_domains`). Tag every candidate with its category. Aim for 3–5
+publishable downstream, so collect a wider funnel (~16–28) within the section.
+
 Inputs: `pipeline/keywords.json`, today's date (from your prompt as `now_iso`,
 e.g. 2026-06-22T07:00:00Z).
 

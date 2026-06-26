@@ -1,4 +1,11 @@
 {
+  "sections": [
+    {"section":"design","label":"Design","categories":["figma","render","cad","tokens","vr","workflow","social"]},
+    {"section":"music","label":"Music","categories":["music"]},
+    {"section":"movies","label":"Movies","categories":["movies"]},
+    {"section":"games","label":"Games","categories":["games"]},
+    {"section":"books","label":"Books","categories":["books"]}
+  ],
   "categories": [
     {"category":"figma","label":"Figma","motif":"frame","accent":"#0070f3","allowed_domains":["figma.com","vercel.com","builder.io","logrocket.com","uxdesign.cc","dev.to","creativebloq.com"]},
     {"category":"render","label":"KeyShot","motif":"sphere","accent":"#f5a623","allowed_domains":["cgchannel.com","keyshot.com","80.lv","fxguide.com","nvidia.com","engadget.com"]},
@@ -9,7 +16,20 @@
     {"category":"social","label":"Social","motif":"frame","accent":"#ff2d55","allowed_domains":["youtube.com","youtu.be","instagram.com"],
       "youtube_channels":["Figma","Vercel","Adobe","Microsoft Design","Google Design","Matt Wolfe","The AI Advantage","Fireship","DesignCourse","Jesse Showalter","AI Jason","Two Minute Papers","Theo - t3.gg"],
       "instagram_handles":["figma","vercel","adobe","midjourney","runway","designspiration","awwwards"],
-      "_note":"Social is best-effort. YouTube watch pages usually expose JSON-LD uploadDate/datePublished (verifiable). Instagram is mostly login-walled, so IG yield is low and may need the browse skill. Never block the pipeline on social — if nothing verifiable is found, just contribute fewer candidates."}
+      "_note":"Social is best-effort. YouTube watch pages usually expose JSON-LD uploadDate/datePublished (verifiable). Instagram is mostly login-walled, so IG yield is low and may need the browse skill. Never block the pipeline on social — if nothing verifiable is found, just contribute fewer candidates."},
+
+    {"category":"music","label":"Music","motif":"sphere","accent":"#ff2d55",
+      "allowed_domains":["musictech.com","musicradar.com","soundonsound.com","cdm.link","attackmagazine.com","hypebot.com","music-ally.com","midiaresearch.com","waterandmusic.com","completemusicupdate.com","djmag.com","mixmag.net","factmag.com","residentadvisor.net","synthtopia.com","bedroomproducersblog.com","gearnews.com","billboard.com","pitchfork.com","rollingstone.com","theverge.com","engadget.com","techcrunch.com"],
+      "youtube_channels":["Suno","Udio","ElevenLabs","Andrew Huang","Benn Jordan","Venus Theory"]},
+    {"category":"movies","label":"Movies","motif":"frame","accent":"#0070f3",
+      "allowed_domains":["variety.com","hollywoodreporter.com","indiewire.com","nofilmschool.com","fxguide.com","beforesandafters.com","provideocoalition.com","cartoonbrew.com","vfxvoice.com","definitionmagazine.com","postperspective.com","deadline.com","screendaily.com","theasc.com","motionographer.com","studiodaily.com","animationmagazine.net","awn.com","redsharknews.com","theverge.com","engadget.com","80.lv"],
+      "youtube_channels":["Runway","Corridor Crew","Curious Refuge","Matt Wolfe","fxguide"]},
+    {"category":"games","label":"Games","motif":"cube","accent":"#7928ca",
+      "allowed_domains":["gamesindustry.biz","gamedeveloper.com","80.lv","polygon.com","rockpapershotgun.com","vg247.com","ign.com","eurogamer.net","kotaku.com","gamespot.com","pcgamer.com","gamesradar.com","thegamer.com","wccftech.com","venturebeat.com","unrealengine.com","unity.com","roadtovr.com","gamingbolt.com","aftermath.site","nme.com","destructoid.com"],
+      "youtube_channels":["Unreal Engine","Unity","Inworld AI","GDC","Two Minute Papers"]},
+    {"category":"books","label":"Books","motif":"swatch","accent":"#f5a623",
+      "allowed_domains":["publishersweekly.com","thebookseller.com","goodereader.com","janefriedman.com","lithub.com","publishingperspectives.com","bookriot.com","teleread.org","writersdigest.com","kindlepreneur.com","thecreativepenn.com","electricliterature.com","scholarlykitchen.sspnet.org","mediabistro.com","the-digital-reader.com","ireaderreview.com","wired.com","theverge.com","techcrunch.com","goodreads.com","bookbub.com","arstechnica.com"],
+      "youtube_channels":["The Creative Penn","Self Publishing with Dale","Sudowrite"]}
   ],
   "palette": ["#0070f3","#f5a623","#7928ca","#2ec5c5","#eb367f","#ff5a4d","#3b6bff","#ff2d55","#171717"],
   "motifs": ["frame","sphere","cube","swatch","headset"]

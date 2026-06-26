@@ -1,88 +1,67 @@
 ---
 name: design-ax-daily-news
-description: Run the 6-agent Design AX daily news pipeline — collect, curate, write, illustrate, and publish 5 fresh design×AI cards into the Design AX Brief page.
+description: Run the multi-section Design AX daily news pipeline — collect, curate, write, illustrate, and publish 3–5 fresh AI×domain cards per section (Design, Music, Movies, Games, Books) into the Design AX Brief page.
 ---
 
-Generate today's Design AX Brief by running six subagents in sequence from the
+Generate today's Design AX Brief by running the pipeline **once per section** from the
 repo root `/Users/leopard/Projects/design-ax-brief`. Determine `now_iso` = current UTC
 time; `date` = its calendar date.
 
-Run STRICTLY in order, and after each agent verify its artifact exists and is
-non-empty before dispatching the next. If a stage produces nothing usable, stop
-and report which stage failed.
+**Sections** come from `pipeline/sources.json` → `sections` (each maps to one or more
+source categories): `design` (AI×design tools/work culture), `music` (AI×Music),
+`movies` (AI×Film), `games` (AI×Video Games), `books` (AI×Books/Publishing). AI is the
+constant axis; each section pairs AI with its domain.
 
-**Step 0 — keywords (ask the user first).** Before running any agent, ask the user
-in Korean 존댓말 for any additional search keywords. State that the default keywords
-come from `pipeline/keyword_pool.json` (a broad, rotating pool of AI/design tools,
-models, labs, people, and concepts) and the user may add more (or reply with nothing
-to use just the pool). Pass any user-supplied keywords to ax-planner as extra seeds.
+**Per-section quota: aim for 3–5 cards.** Target a floor of 3, cap of 5. If a section
+has fewer than 3 fresh, non-duplicate items, publish what exists and note the shortfall
+— never pad with stale or off-topic items.
 
-1. **ax-planner** — "Today is <date>. Extra seed keywords: <user keywords, or none>.
-   Run your steps." (ax-planner reads `pipeline/keyword_pool.json`, always uses its
-   `core`, and rotates a subset of the `pool` by date.) → `pipeline/keywords.json`
-2. **ax-librarian** — "now_iso = <now_iso>. Run your steps." → `pipeline/candidates.json`
-   (WIDE funnel: aim for ~24–32 fresh candidates across ≥6 outlets, including the
-   `social` category — YouTube is verifiable via JSON-LD uploadDate; Instagram is
-   best-effort and may yield nothing. Collection per-source cap is ≤3; the final 5 are
-   tightened to ≤2 per outlet downstream.)
-3. **DEDUP PRE-FILTER (run BEFORE the decision gate).** Run
-   `python3 pipeline/dedup_candidates.py` — it reads `pipeline/candidates.json` +
-   `pipeline/news_data.json`, drops every candidate whose URL was already published in
-   the last 5 days, and writes `pipeline/candidates_filtered.json`. This is the
-   deterministic URL half of the dedup rule, applied at the candidate stage so the user
-   never sees (or picks) an already-published story. Then scan the SURVIVORS for
-   content-level duplicates the URL check can't catch (same event via a different
-   outlet/headline, same-source content-hub posts) and set those aside too, noting why.
-4. **DECISION GATE — user picks the final 5.** Present only the de-duplicated
-   candidates (`candidates_filtered.json`, minus any content-dupes) to the user as a
-   numbered list (each line: number, source, category, published date,
-   headline/excerpt, and source URL). State how many were dropped as already-published.
-   Ask the user in Korean 존댓말 which items to publish (up to 5). Wait for their reply.
-   If the user defers ("알아서"/"recommend"/no clear pick), let ax-curator choose.
-5. **ax-curator** — "Run your steps. User selection: <chosen numbers/URLs, or 'none —
-   you choose'>." → `pipeline/selected.json` (ax-curator re-applies the full URL+CONTENT
-   dedup as a backstop, EVEN when a user selection is provided — if a hand-picked item
-   is a duplicate it is dropped and the shortfall reported, never silently published.)
-6. **ax-writer** — "Run your steps." → `pipeline/cards.json`
-7. **ax-media** — "Run your steps." → `pipeline/media.json`
-8. **ax-publisher** — "Today is <date>. Run your steps." → `axbrief-data.js` + archive
+Run STRICTLY in order within each section, and after each agent verify its artifact
+exists and is non-empty before the next. Intermediate artifacts are written per section
+(e.g. `pipeline/keywords.json`, `candidates.json`, … are reused per section — archive
+each section's set under `pipeline/runs/<date>/<section>/`).
 
-Freshness window: ax-librarian applies a flat **72h** window for every day (Mon–Fri)
-via `pipeline/freshness.py`. Do NOT pad with stale items — if fewer than 5 fresh
-cards exist, publish what there is.
+**Step 0 — keywords (ask the user once).** Before running, ask in Korean 존댓말 for any
+extra search keywords and which sections to run today (default: all 5). State defaults
+come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user keywords to
+ax-planner as extra seeds for the relevant section(s).
 
-Volume vs diversity (완급): collect WIDE, publish DIVERSE. ax-librarian casts a wide
-net (~24–32 candidates, expanded `allowed_domains` in `sources.json`, the `social`
-category, collection cap ≤3 per outlet) so the pool is deep; ax-curator then tightens
-the FINAL 5 (≤2 per outlet, ≥3 distinct outlets, 1–2 per category) so what publishes
-stays varied. Drop general AI-business noise (funding, compute deals, layoffs, exec
-moves) at collection time — keep only items with a real design/creative/workflow hook.
+For EACH selected section S (default order design, music, movies, games, books):
+1. **ax-planner** — "Section: S. Today is <date>. Extra seeds: <…/none>. Run your steps."
+   (reads `keyword_pool.json.sections[S]` — always its `core`, rotates the rest by date.)
+   → `pipeline/keywords.json`
+2. **ax-librarian** — "Section: S. now_iso = <now_iso>. Run your steps." Searches ONLY
+   the `allowed_domains` of S's categories (from sources.json). WIDE funnel (~16–28),
+   ≤3 per outlet, freshness-gated (72h). → `pipeline/candidates.json`
+3. **DEDUP PRE-FILTER** — `python3 pipeline/dedup_candidates.py --section S` → drops URLs
+   already published in S's last 5 days → `pipeline/candidates_filtered.json`. Then set
+   aside content-level dupes within S.
+4. **DECISION GATE** — present S's de-duplicated candidates to the user (numbered: source,
+   category, date, headline, URL), state how many were dropped, and ask in Korean 존댓말
+   which to publish (3–5). If the user defers ("알아서"), ax-curator picks. (You may batch
+   all sections' gates together, or run section by section — keep it to one prompt per
+   section at most.)
+5. **ax-curator** — "Section: S. Run your steps. User selection: <…/none — you choose>."
+   Re-applies URL+CONTENT dedup vs S's history (backstop, even on hand-picks).
+   → `pipeline/selected.json`
+6. **ax-writer** — "Run your steps." → `pipeline/cards.json` (Korean copy)
+7. **ax-media** — "Run your steps." → `pipeline/media.json` + downloaded media
+8. **roll S** — `python3 pipeline/roll.py --section S --data pipeline/news_data.json --cards pipeline/cards.json --media pipeline/media.json` (moves S's previous `today` into S's deck, trims to 5, sets S's new `today`). Archive the section's JSONs to `pipeline/runs/<date>/<section>/`.
 
-No duplicate news across dates (drop + backfill): each distinct story appears on
-exactly one date (earliest-wins). Duplicates are judged by URL + CONTENT, NOT by
-image — two items are the SAME story if they share a URL (or canonical/redirect
-target), cover the same event via a different outlet/headline, or are same-source
-same-topic content-hub posts. A shared `og_image`/thumbnail is NOT a duplicate: two
-genuinely different articles (different URL + content) are kept even if a source
-serves one site-wide OG banner. To avoid them LOOKING the same, ax-media sources a
-distinct in-article lead image for each card (og:image is only a fallback). When
-collecting day N, ax-curator filters the ~15–20 candidates against the stories
-published on N-1…N-5 and backfills with the next-ranked candidate to reach 5 distinct
-stories. Deterministic backstops: `pipeline/roll.py` drops, from a rolled-in day, any
-card whose URL already appears earlier; `pipeline/build_data.py` FAILS the build on a
-duplicate URL (today + deck) and WARNS on a shared thumbnail.
+After ALL sections are rolled:
+9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design). `node --check axbrief-data.js`; restore the per-run backup on failure.
+10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
 
-Weekly deck: shows the **past-day archive only** (today is NOT added to the deck —
-it lives in the hero). The app shows a "오늘 소식으로" control while the hero is
-displaying a past day, so users can return to today without duplicating today's
-cards in the deck.
+Freshness: flat **72h** window (every day) via `pipeline/freshness.py`. Dedup is **per
+section** (URL + CONTENT): each distinct story appears on exactly one date within its
+section (earliest-wins) — `roll.py` drops rolled-in URLs already earlier in that section;
+`build_data.py` FAILS the build on a duplicate URL within a section (WARNS on shared
+thumbnail). Drop general AI-business noise (funding, compute, layoffs, exec moves) unless
+the user explicitly relaxes criteria for a thin day.
 
-After publishing, post to chat in Korean 존댓말, short:
-"오늘 신선 카드 N개 생성(창: 직전 72h, 게재시각 기준) + 5선" with the chosen
-headlines, each linked to its source URL. Note any shortfall. Then give the user BOTH
-HTML preview URLs (same data, two designs; served over HTTP by the publisher — file://
-will not render):
-- small/carousel: `http://localhost:8765/Design%20AX%20Brief.html`
+After publishing, post to chat in Korean 존댓말, short: per section "S: N장" with the
+chosen headlines linked to source URLs; note any section below 3. Then give BOTH preview
+URLs (small carousel now has the section tabs; large card still shows Design only until
+it becomes section-aware):
+- small/carousel: `http://localhost:8765/Design%20AX%20Brief.html` (or `/` · live: axitdesign.simonksy.workers.dev)
 - large card: `http://localhost:8765/Design%20AX%20Brief%20(Large%20Card).html`
-
-This skill supersedes the older `~/Documents/Claude/Scheduled/design-ax-daily-news/SKILL.md`.
