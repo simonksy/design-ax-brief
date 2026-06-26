@@ -512,7 +512,7 @@
         "id": "music-suno-songwriting",
         "eyebrow": "AI NEWS",
         "headline": "수노로 더 나은\n곡을 써내는 법",
-        "body": "프로듀서가 수노를 작곡 파트너로 쓰는 실전 과정을 보여준다. AI 초안을 받아 멜로디와 가사를 다듬고, 사람의 손으로 완성도를 끌어올린다.",
+        "body": "프로듀서 스펜서가 어쿠스틱 데모를 수노에 통과시켜 새 버전을 만든다. AI 결과물을 영감 삼아 곡을 다시 빚는 작업기.",
         "tool": "Suno",
         "source": "YouTube",
         "url": "https://www.youtube.com/watch?v=DVspwYPHeNU",
@@ -520,31 +520,147 @@
         "motif": "sphere",
         "image": "pipeline/media/music-suno-songwriting.jpg",
         "video": "pipeline/media/music-suno-songwriting.mp4",
-        "poster": "pipeline/media/music-suno-songwriting.jpg"
+        "poster": "pipeline/media/music-suno-songwriting.jpg",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "video",
+              "yt": "DVspwYPHeNU"
+            },
+            {
+              "t": "p",
+              "x": "유튜버 송스 바이 스펜서의 영상이다. 'Suno Helped Me Write a BETTER Song'이라는 제목 그대로, AI가 정말 더 나은 곡 쓰기를 도울 수 있는지 직접 실험한다. 단순한 어쿠스틱 데모 하나를 들고 시작한다."
+            },
+            {
+              "t": "p",
+              "x": "그는 이 데모를 수노 AI에 넣고 돌려본다. 그렇게 나온 결과물을 그대로 쓰는 게 아니라 영감의 출발점으로 삼아, 곡을 완전히 새로운 버전으로 다시 만든다. AI가 내놓은 초안 위에 사람의 판단을 얹는 셈이다."
+            },
+            {
+              "t": "p",
+              "x": "영상 곳곳에서 그는 자신이 AI 음악 도구를 어떻게 쓰는지 풀어놓는다. 창작의 불씨를 댕기고, 가사가 막힐 때 그 벽을 넘고, 작곡과 프로덕션의 완성도를 끌어올리는 데 어떻게 도움을 받았는지를 보여준다."
+            },
+            {
+              "t": "p",
+              "x": "AI와 음악, 작곡, 혹은 수노 같은 도구가 궁금한 사람을 위한 영상이다. AI를 작곡 파트너로 끌어들이되 마지막 손질은 사람이 맡는, 한 창작자의 실전 흐름을 따라가 볼 수 있다."
+            }
+          ]
+        }
       },
       {
         "id": "music-suno-spark",
         "eyebrow": "AI NEWS",
         "headline": "수노, 인디 창작자\n위한 인큐베이터",
-        "body": "수노가 독립 아티스트 지원 프로그램 스파크를 공개했다. 수천에서 수만 달러의 보조금과 마케팅, 작곡 캠프를 제공하며 창작자가 저작권과 권리를 그대로 갖는다.",
+        "body": "수노가 인디 아티스트 지원 프로그램 스파크를 공개했다. 보조금과 마케팅, 작곡 캠프를 제공하되 창작자가 권리를 그대로 갖는다.",
         "tool": "Suno",
         "source": "Billboard",
         "url": "https://www.billboard.com/pro/suno-launches-artist-incubator/",
         "accent": "#ff2d55",
         "motif": "sphere",
-        "image": "pipeline/media/music-suno-spark.jpg"
+        "image": "pipeline/media/music-suno-spark.jpg",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "수노가 6월 25일 목요일, 새 아티스트 인큐베이터 프로그램 '스파크(Spark)'를 내놨다. 선발된 독립 아티스트에게 보조금과 마케팅을 지원하고, 수노 작곡 캠프에 들어올 길을 열어준다."
+            },
+            {
+              "t": "p",
+              "x": "참여 아티스트는 자기 작품의 창작 권한과 상업적 권리를 그대로 갖는다. 수노 측 설명에 따르면 보조금 규모는 아티스트가 커리어 어느 단계에 있느냐에 따라 달라지며, 수천 달러에서 수만 달러 선에 이를 수 있다. 마케팅 지원도 각자의 필요에 맞춰 짜인다. 인플루언서 마케팅과 광고, 디지털 노출은 물론 비주얼·아트 제작, 행사와 액티베이션, 언론 기회까지 폭이 넓다."
+            },
+            {
+              "t": "p",
+              "x": "수노는 배급사를 고르거나 쓰는 과정에는 관여하지 않는다고 못 박았다. 그 판단은 온전히 아티스트의 몫으로 남겨둔다."
+            },
+            {
+              "t": "p",
+              "x": "\"신진 아티스트들은 우리에게 늘 같은 말을 한다. 도구만으로는 부족하다는 것이다. 그들에게는 지원과 노출이 필요하다.\" 수노 최고음악책임자 폴 싱클레어와 크리에이티브 이코노미·수익화 총괄 로지 응우옌이 블로그 글에 적은 말이다. \"스파크의 목표는 더 많은 아티스트가 아이디어를 완성된 프로젝트로 키우고, 그 프로젝트를 팬과 잇고, 수노 안팎에서 커리어를 키워갈 새 기회를 만들도록 돕는 것이다.\""
+            },
+            {
+              "t": "p",
+              "x": "참여 조건은 만 18세 이상, 자기 이름으로 음악을 내는 싱어·송라이터·프로듀서, 그리고 독립 아티스트라는 세 가지다."
+            },
+            {
+              "t": "p",
+              "x": "지난 한 해 수노의 작곡 캠프는 음악 인재에게 손을 뻗어 생성형 AI 제품을 소개하는 핵심 통로로 자리 잡았다. 이 제품은 간단한 텍스트 프롬프트만으로 곡을 처음부터 만들어낸다. 1월에는 빌보드를 로스앤젤레스의 비공개 스튜디오 캠프 현장에 초대했는데, 팀발랜드를 비롯해 옴마스 키스(프랭크 오션, 에리카 바두, 제이지), 지노 더 고스트(사브리나 카펜터, 체인스모커스, 사위티) 등이 참여했다. 캠프에서 전문가들은 수노로 곡의 아이디어를 잡은 뒤, 그 작업물을 사람 뮤지션들이 한 조각씩 다시 만들며 자기만의 즉흥과 색깔을 더했다."
+            },
+            {
+              "t": "p",
+              "x": "빌보드 온 더 레코드의 한 에피소드에서 수노 CEO 마이키 슐먼은 앞으로 음반사가 될 생각이 있느냐는 질문을 받았다. 그는 이렇게 답했다. \"아니다. 우리는 음악 슈퍼앱을 만드는 쪽으로 생각한다. 음반사는 그것과는 별개다.\""
+            },
+            {
+              "t": "p",
+              "x": "이번 프로그램은 수노가 본드 캐피털 주도로 4억 달러 규모의 시리즈 D 투자를 발표한 지 몇 주 만에 나왔다. 이 투자로 회사 가치는 투자 후 기준 54억 달러에 이르렀다. 투자자들의 신뢰와 별개로, 수노는 음악 업계 기득권의 저작권 침해 주장에 계속 맞서는 중이다."
+            },
+            {
+              "t": "p",
+              "x": "수노는 지금 유니버설 뮤직 그룹과 소니 뮤직이 건 5억 달러 규모의 저작권 침해 소송에 걸려 있다. 메이저 음반사들은 수노가 정당한 동의와 허가 없이 자신들의 저작권 음원으로 학습했다고 주장한다. (워너 뮤직 그룹도 한때 이 소송에 함께했으나, 2025년 말 합의하고 수노와 라이선스 계약을 맺으며 빠졌다.) 독일 저작권 단체 게마(GEMA)와 덴마크 저작권 단체 코다(Koda) 역시 각각 수노를 상대로 저작권 침해 소송을 이어가고 있다."
+            },
+            {
+              "t": "p",
+              "x": "이번 주에는 전국 단위 집단소송 전문 로펌 하겐 버먼이, 자신들의 저작권 음악이 수노 모델 학습에 쓰여 저작권을 침해했다고 주장하는 독립 아티스트들의 소송에 합류했다."
+            }
+          ]
+        }
       },
       {
         "id": "music-ai-music-detection",
         "eyebrow": "AI NEWS",
         "headline": "AI 음악을 가려내는\n모듈레이트 API",
-        "body": "모듈레이트가 오디오에서 AI로 만든 보컬과 연주를 식별하는 탐지 API를 선보였다. 단순 예·아니오가 아니라 구간별로 판정해 플랫폼이 합성 음원을 걸러내도록 돕는다.",
+        "body": "모듈레이트가 오디오에서 AI 보컬·연주를 가려내는 탐지 API를 내놨다. 구간별로 판정해 플랫폼이 합성 음원을 걸러내도록 돕는다.",
         "tool": "Modulate",
         "source": "Hypebot",
         "url": "https://www.hypebot.com/ai-generated-music-is-everywhere-detecting-it-just-got-a-little-less-daunting/",
         "accent": "#ff2d55",
         "motif": "sphere",
-        "image": "pipeline/media/music-ai-music-detection.jpg"
+        "image": "pipeline/media/music-ai-music-detection.jpg",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "AI로 만든 음악은 어느새 신기한 볼거리에서 현실의 운영 과제로 넘어왔다."
+            },
+            {
+              "t": "p",
+              "x": "지난 한 해, AI 음악을 둘러싼 이야기는 창의성이나 저작권 물음을 넘어섰다. 스트리밍 플랫폼과 배급사, 음반사, 퍼블리셔, 권리 단체에게 더 급한 고민은 의외로 실무적이다. 이 곡이 사람이 만든 것인지, AI가 만든 것인지, 아니면 둘이 섞인 것인지를 대체 어떻게 알아내느냐다."
+            },
+            {
+              "t": "p",
+              "x": "AI 음악의 양이 계속 불어나면서 이 물음을 외면하기는 점점 어려워진다. 스트리밍 서비스 디저(Deezer)가 내놓은 수치를 보면, 이 플랫폼에는 지금 하루 약 7만 5천 곡의 완전 AI 생성 트랙이 올라온다. 서비스에 업로드되는 전체 음악에서 상당한 몫을 차지하는 규모다."
+            },
+            {
+              "t": "p",
+              "x": "이번 주 보스턴의 오디오 인텔리전스 기업 모듈레이트(Modulate)가 새 AI 음악 탐지 API를 공개했다. 메타데이터나 창작자의 자기 신고에만 기대지 않고, 오디오 파일에서 곧바로 AI 보컬과 연주를 가려내도록 음악 플랫폼을 돕는 도구다."
+            },
+            {
+              "t": "img",
+              "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/06/phone-playing-AI-music-with-headphones.jpg",
+              "cap": ""
+            },
+            {
+              "t": "p",
+              "x": "그동안 많은 기업이 투명성 정책에 무게를 실어 왔다. 아티스트나 음반사, 배급사가 AI 관여 여부를 스스로 밝히도록 하는 방식이다. 하지만 \"자기 신고만으로는 충분하지 않을 수 있다는 인식이 커지고 있다.\" AI 음악 생성 도구가 누구나 쉽게 쓸 수 있게 되면서, 플랫폼은 자신이 받는 음원을 독립적으로 확인할 방법을 점점 더 찾고 있다."
+            },
+            {
+              "t": "p",
+              "x": "모듈레이트는 자사 시스템이 음악을 분석해 보컬과 연주를 따로 떼어 AI 생성 흔적을 살핀다고 설명한다. 단순한 예·아니오가 아니라 구간별 판정을 내놓는다. 모든 트랙을 사람 아니면 AI로 깔끔하게 나눌 수 있다는 생각에서 업계가 벗어나는 만큼, 이 정도의 세밀함이 필요하다는 게 회사의 주장이다."
+            },
+            {
+              "t": "p",
+              "x": "이 기술은 스트리밍 사기를 둘러싼 우려가 커지는 와중에 나왔다. 업계 관계자들은 AI 도구 탓에 음원을 대량으로 찍어내기가 그 어느 때보다 쉬워졌고, 이렇게 만든 음원이 업로드돼 사기성 스트리밍에 쓰일 수 있다고 짚는다."
+            },
+            {
+              "t": "p",
+              "x": "물론 탐지 기술 하나로 AI가 음악 산업에 던지는 모든 숙제가 풀리지는 않는다. 저작권과 출처 표시, 라이선스, 아티스트 동의를 둘러싼 물음은 여전히 정리되지 않았다. 그래도 AI 음악이 생태계에서 점점 큰 자리를 차지하면서, 많은 이해관계자가 탐지를 변두리 기능이 아니라 기반 인프라로 보기 시작했다."
+            },
+            {
+              "t": "p",
+              "x": "독립 아티스트에게 논점은 AI가 음악 창작에 끼어들어도 되느냐보다, 갈수록 빽빽해지는 합성 음원의 바다에서 진짜 창작자가 묻히지 않았음을 어떻게 증명하느냐에 가깝다."
+            }
+          ]
+        }
       }
     ],
     "days": []
@@ -556,49 +672,184 @@
         "id": "movies-google-a24",
         "eyebrow": "AI NEWS",
         "headline": "구글, A24에 7,500만 달러\n영화 AI 도구 공동 개발",
-        "body": "구글이 인디 명가 A24에 7,500만 달러를 투자해 딥마인드와 영화 제작 도구를 함께 만든다. AI 스토리보드 등 창작 통제권을 지키는 워크플로가 목표다. 콘텐츠나 데이터 학습권은 넘기지 않는다.",
+        "body": "구글이 A24에 약 7,500만 달러를 투자해 딥마인드와 영화 제작 도구를 함께 만든다. 콘텐츠나 데이터는 넘기지 않는다.",
         "tool": "Google DeepMind",
         "source": "Variety",
         "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
         "accent": "#0070f3",
         "motif": "frame",
-        "image": "pipeline/media/movies-google-a24.jpg"
+        "image": "pipeline/media/movies-google-a24.jpg",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "A24와 구글이 AI 연구 제휴를 맺었다. 인디 스튜디오 A24가 구글 딥마인드 부서와 손잡고 영화인을 위한 새로운 AI 기술을 개발한다."
+            },
+            {
+              "t": "p",
+              "x": "이번 제휴에 묶인 구글의 투자액은 약 7,500만 달러로, 월스트리트저널에 따르면 직전 펀딩 라운드 때 스라이브 캐피털이 넣은 금액과 비슷한 수준이다. 제휴로 A24는 딥마인드의 연구와 인프라를 쓸 수 있게 되고, 딥마인드 연구진은 스튜디오와 함께 새 워크플로를 짠다. 다만 이 계약으로 구글이 A24의 콘텐츠 라이브러리나 데이터에 손대지는 못한다."
+            },
+            {
+              "t": "p",
+              "x": "기업들이 제휴와 소송 사이를 오가는 시대에, 이번 건은 할리우드 스튜디오와 AI가 맺은 또 하나의 결합이다. 디즈니는 자사 캐릭터군을 빌려주는 오픈AI와의 짧은 계약을 맺으면서도 미니맥스, 미드저니 같은 AI 기업을 저작권 침해로 고소했고, 라이언스게이트는 AI 기업 런웨이 AI와의 협력을 넓혀 새 지식재산을 개발하고 기존 프랜차이즈를 끌어와 AI 생성 작품을 만들고 있다. 넷플릭스도 올해 초 영화인용 도구를 만드는 벤 애플렉의 AI 스타트업 인터포지티브를 사들였다."
+            },
+            {
+              "t": "p",
+              "x": "스튜디오 기술 부문 A24 랩스를 이끄는 파트너 스콧 벨스키는 구글 제휴가 다른 계약과는 다르다고 저널에 말했다. AI 개발사들이 자기 제품을 영화를 더 싸고 빠르게 만드는 수단인 양 잘못 광고해 왔다는 것이다. 그의 부서는 AI가 만든 스토리보드 같은 응용을 개발 중인데, 이는 마틴 스코세이지 같은 영화인이 승인한 또 하나의 제작 과정 재구성이다."
+            },
+            {
+              "t": "p",
+              "x": "\"창작 통제권을 지키고 모험을 떠받치는 더 나은 쓰임새가 있다고 봅니다.\" 그는 저널에 이렇게 말하며, 새 도구가 \"사람들이 불편해하는 프롬프트 생성형 AI와는 전혀 다를 것\"이라고 했다."
+            },
+            {
+              "t": "p",
+              "x": "\"기술이 현장 최고의 두뇌들 손에 들어갈 때 돌파구가 열린다고 믿습니다.\" 딥마인드 제품 부사장 일라이 콜린스가 저널에 한 말이다."
+            },
+            {
+              "t": "p",
+              "x": "A24는 신예 영화인들의 안식처였다. '레이디 버드', '문라이트', '에브리씽 에브리웨어 올 앳 원스', '마티 슈프림', 그리고 최근 흥행작 '백룸스'로 이어지는 작품군이 비평과 흥행에서 거둔 성공은, 함께한 영화인들에게 보낸 신뢰와 그렇게 모인 열성적인 젊은 팬층 덕이었다. (포스트트랙 자료를 보면 개봉 첫 주에 '백룸스'를 본 관객의 약 85%가 35세 미만이었다.) 지난주 발표된 퓨 리서치 조사에 따르면 30세 미만 성인의 절반가량이 AI가 사회에 해를 끼칠 거라 본다. 그런 와중에 이번 합의가 나왔다."
+            },
+            {
+              "t": "img",
+              "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-2252275170.jpg?w=2000&h=1126&crop=1",
+              "cap": "2025년 12월 16일 뉴욕에서 열린 A24 '마티 슈프림' 뉴욕 프리미어에 참석한 티모시 샬라메. 사진 Theo Wargo/Getty Images"
+            }
+          ]
+        }
       },
       {
         "id": "movies-openart-director",
         "eyebrow": "AI NEWS",
         "headline": "오픈아트 디렉터,\n프롬프트 없이 5분 영화",
-        "body": "오픈아트가 대화형으로 최대 5분 영화를 만드는 디렉터를 공개했다. 스토리보드부터 후반까지 AI가 처리하고, 창작자는 감정과 의도만 전한다. 전 구글 엔지니어들이 만든 도구다.",
+        "body": "오픈아트가 대화하듯 최대 5분 영화를 만드는 '디렉터'를 공개했다. 전 구글 엔지니어들이 만든 '바이브 디렉팅' 도구다.",
         "tool": "OpenArt",
         "source": "The Hollywood Reporter",
         "url": "https://www.hollywoodreporter.com/business/digital/open-art-new-tool-model-ai-director-vibe-directing-1236628188/",
         "accent": "#0070f3",
         "motif": "frame",
-        "image": "pipeline/media/movies-openart-director.jpg"
+        "image": "pipeline/media/movies-openart-director.jpg",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "오픈아트가 화요일에 내놓을 '디렉터'는 전 구글 엔지니어 두 사람이 이끄는 레드우드시티 회사의 도구다. 대다수 도구가 5~10초짜리 클립을 힘겹게 이어붙이게 하는 것과 달리, 디렉터는 최대 5분 길이의 영화를 짜게 해 준다. 스토리보드에서 시작해 후반까지 가는 대화형 시스템이어서, 단편이나 장편의 5분짜리 한 장면을 완성하기까지 사용자를 손잡고 이끈다."
+            },
+            {
+              "t": "p",
+              "x": "공동창업자이자 CEO 코코 마오와 임원들은 이를 '바이브 디렉팅'이라 부른다. 바이브 코딩이란 말을 작가의 영역으로 옮겨 온 셈이다. \"바이브 코딩에선 분위기만 주면 코드가 있다는 사실조차 잊게 됩니다.\" 옛 구글 동료 존 차오와 함께 회사를 세운 마오의 말이다. \"방향을 잡고 일을 맡기고 피드백을 주면 기계가 알아서 만든다. 바이브 디렉팅도 그와 비슷해서, 사용자는 도구나 기술은 잊고 상상하고 반응하고 취향만 보여주면 된다.\""
+            },
+            {
+              "t": "p",
+              "x": "회사는 시댄스부터 런웨이까지 여러 모델을 섞어 영화를 만든다. 강점은 상황에 가장 맞는 모델을 고르는 점, 그리고 더 결정적으로는 단순한 인터페이스다. 마오의 말로는 \"자잘한 결정을 우리가 대신 처리해서 사람들이 프롬프트 쓰기에 갇히지 않게\" 하려는 것이다. 기술 책임자 에이미 허는 회사가 모델을 학습시켰다기보다 목표 기반 규칙으로 결과에 닿으려는 에이전트형 AI 방식으로 안내했고, 그 덕에 더 직관적인 인터페이스가 가능했다고 했다."
+            },
+            {
+              "t": "p",
+              "x": "직접 써 보니 몇 문장만으로 대본이 만들어졌고 그 대본만으로 영화가 뚝딱 엮였다. 다만 거기서부터가 진짜 일이었다. 첫 대본은 꽤 조잡했고, 쓸 만한 결과가 나오기까지 수정을 훨씬 많이 거쳐야 했다. 그래도 적은 품으로 아이디어를 받아 적게 해 준 덕에, 단순한 챗봇과는 다른 방식으로 작업에 시동이 걸렸다. 영화 만들기의 문턱을 낮춰 과정에 겁먹던 이들을 끌어들이는 건 분명하다."
+            },
+            {
+              "t": "p",
+              "x": "오픈아트는 디렉터를 알리려 극장 상영 전 광고, 뉴욕 지하철 광고, 웨스트할리우드 옥외 광고판까지 동원한다. 기존 이미지·영상 도구의 활성 구독자는 800만 명이라고 밝혔다. 리서치 회사 사크라에 따르면 매출은 7,000만 달러를 냈고, 마오의 말로는 직원은 50명쯤이다. 최근 펀딩으로 약 3,000만 달러를 모았는데, 런웨이가 모은 8억 달러 넘는 금액에 견주면 일부에 불과하다."
+            },
+            {
+              "t": "p",
+              "x": "엘런 디제너러스 쇼의 전 수석 작가 길 리프는 디렉터가 현장 같지는 않아도 \"편집자에게 노트를 주는 것과 많이 닮았다\"며 \"마찰을 많이 걷어내니 어느 때보다 창의적으로 느껴진다\"고 했다. 마오와 차오는 구글 인큐베이터 단편 영상 서비스 탱기로 알려졌다가 2022년 회사를 나와 오픈아트를 차렸다. 마오는 \"이야기의 새 시대\"가 열린다며 \"새로운 이야기꾼을 많이 만들고, 기존 이야기꾼에게도 더 큰 자유와 표현을 줄 것\"이라고 했다."
+            },
+            {
+              "t": "img",
+              "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/OA-Director_UI-3.jpg?w=2000&h=1126&crop=1",
+              "cap": "오픈아트 '디렉터'의 생성 화면. 회사는 이 도구가 '바이브 디렉팅' 시대를 열 수 있다고 본다."
+            }
+          ]
+        }
       },
       {
         "id": "movies-dreams-of-violets",
         "eyebrow": "AI NEWS",
         "headline": "AI 장편 트라이베카 데뷔\n제작비 단 2천 달러",
-        "body": "AI로 전부 만든 75분 장편 '드림스 오브 바이올렛'이 트라이베카에서 첫선을 보였다. 배우도 카메라도 없이 제작비는 단 2천 달러. 영상은 사실적이나 드라마는 아직 얕다는 평이다.",
+        "body": "AI로만 만든 75분 장편 '드림스 오브 바이올렛'이 트라이베카에 데뷔했다. 제작비는 단 2,000달러였다.",
         "tool": "Fountain 0",
         "source": "Variety",
         "url": "https://variety.com/2026/film/reviews/dreams-of-violets-review-ash-koosha-tribeca-festival-1236784209/",
         "accent": "#0070f3",
         "motif": "frame",
-        "image": "pipeline/media/movies-dreams-of-violets.png"
+        "image": "pipeline/media/movies-dreams-of-violets.png",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "지난주 트라이베카 페스티벌에서 첫선을 보인 '드림스 오브 바이올렛'은 주요 영화제에 편성된 첫 완전 AI 생성 영화다. 그래서 프리미어에 모인 우리는 사실 영화 두 편을 한꺼번에 보고 평가하는 셈이었다. 하나는 테헤란을 배경으로 한 드라마다. 런던에 자리 잡은 이란 출신 망명 기술 창업가 애시 쿠샤가 쓰고 연출했고, 다섯 달 전인 1월 이란 시민들이 신정 체제에 분노해 거리로 쏟아져 나오던 시위와 진압, 국가가 묵인한 살해의 나날을 그린다. 그 영화는 그리 효과적이지 않았다. 솔직히 한참 보다 보니 답답했다."
+            },
+            {
+              "t": "p",
+              "x": "하지만 다른 한 편은 훨씬 흥미롭다. 그저 존재한다는 사실만으로 AI가 장편 영화에서 어떤 가능성을 펼칠지 보여 준다. 4월 스티븐 소더버그가 다큐멘터리 '존 레논: 더 라스트 인터뷰'의 환상 장면에 AI를 썼다고 인정해 눈총을 받던 데서, 6월 초 마틴 스코세이지가 스토리보드를 앞당기려 독일 생성형 AI 기업 블랙 포레스트 랩스와 손잡은 데까지 얼마나 빨리 왔는지 보라. 다렌 아로노프스키마저 웹 영상 연작에 AI를 써 그 선을 넘었다."
+            },
+            {
+              "t": "p",
+              "x": "먼저 미학적 질문 하나. 이 영화가 묘하게 거리감 있고 만족스럽지 못한 건 AI로 만들어서일까? 이상하게도 답은 그렇다이면서 사실은 아니다. 거슬리는 건 오히려 형식 쪽이다. 거의 각본 없이 토막 일화나 순간들만 늘어놓을 뿐 극적 전개가 없다. 쿠샤는 보도와 사진, 목격담을 토대로 다큐멘터리 같은 느낌을 노린 게 분명하다. 하지만 인물들이 진짜 사람처럼 보이고 잔해 깔린 거리도 진짜처럼 느껴지는데도, 장면의 맥락은 거의 주어지지 않는다. 군인들이 닥치는 대로 민간인을 죽이는 게 영화의 핵심이지만, 적어도 전반부가 그렇고 이후엔 강도가 약해지며 더 시들해진다."
+            },
+            {
+              "t": "p",
+              "x": "다큐멘터리에서 군인이 민간인을 죽이는 장면을 보면 끔찍하다. 그런데 다큐처럼 보이기만 하는 영화에서는 그 충격이 100배쯤 줄어든다. 현실이 아님을 속으로 알기 때문이다. 다큐멘터리라 해도 우리를 끌어들이는 건 화면 속 사람들과 느끼는 연결인데, 쿠샤는 그렇게 쓰지 않았다. 그는 언캐니 밸리 문제를 안은, 온통 '진정성' 있되 추상적인 '실존' 드라마를 만들었다. 움직이는 합성 수상작 포토저널리즘이라 할까."
+            },
+            {
+              "t": "p",
+              "x": "트라이베카에서 쿠샤가 든 정당화는 전부 AI로 만들지 않았다면 존재할 수 없었으리라는 것, 화면 속 인물이 모두 실존 인물에 바탕했다는 것이었다. 사실일지 모르나 효과적인 예술에는 정당화가 필요 없다. 냉소적으로 보자면 고국의 비극을 AI 쇼릴 만들 핑계로 삼았다고도 할 수 있다. 그의 회사는 AI 기반 캐릭터를 만들고 AI로 팝 음악을 생성하는 일에도 손댔다."
+            },
+            {
+              "t": "p",
+              "x": "그래도 영화로는 실패라 해도 AI 쇼릴로는 그 이상이다. 몇몇 평론가가 시각적 흠을 꼬집었지만, 내가 본 화면은 순간순간 질감과 사실감이 충분했다. AI가 '영화를 만들 수 있다'는 뜻일까? 아니다. 다만 해질녘 테헤란의 아수라장에서 군인들이 거리를 휘젓고 시민들을 승합차에 밀어 넣는 들끓는 내전 장면을 만들어 눈을 믿게 할 수 있다는 뜻이긴 하다. 여기 묻혀 있던 핵심이 있다. 이 영화의 전체 제작비는 2,000달러였다. 가장 강력한 메시지는 이란 정권이 무자비한 압제자라는 게 아니라, 이제 2,000달러로 어마어마한 분량의 영상을 살 수 있다는 것이다."
+            },
+            {
+              "t": "img",
+              "src": "https://variety.com/wp-content/uploads/2026/05/Still-2026-05-19-141021_5.18.1.png?w=1000&h=667&crop=1",
+              "cap": "AI로 생성한 다큐드라마 '드림스 오브 바이올렛'의 한 장면."
+            }
+          ]
+        }
       },
       {
         "id": "movies-a24-backlash",
         "eyebrow": "AI NEWS",
         "headline": "A24·구글 AI 제휴에\n팬덤이 등을 돌렸다",
-        "body": "A24와 구글의 AI 제휴 발표 직후 팬들이 등을 돌렸다. 무관한 신작 예고편마다 인간 창작을 외면했다는 비판이 쏟아졌다. AI 도구 도입이 브랜드 신뢰를 흔든 사례다.",
+        "body": "A24가 월요일 구글 딥마인드 제휴를 발표하자 팬들이 등을 돌렸다. 7,500만 달러가 쿨함을 갉아먹었다.",
         "tool": "A24",
         "source": "The Hollywood Reporter",
         "url": "https://www.hollywoodreporter.com/business/digital/a24-cool-boycott-google-deepmind-ai-1236631106/",
         "accent": "#0070f3",
         "motif": "frame",
-        "image": "pipeline/media/movies-a24-backlash.jpg"
+        "image": "pipeline/media/movies-a24-backlash.jpg",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "쿨함은 미끄러운 것이다. 손에 쥐었다 싶으면 물풍선처럼 빠져나간다. 윗세대에게 그 화신은 마틴 스코세이지였다. 몇 주 전 그가 AI 스타트업과 계약을 맺고 스토리보드에 쓰겠다며 들떴을 때, 전설 같은 신뢰로 그 회사를 띄우려 애쓸수록 오히려 그가 더는 갖지 못한 쿨함만 떠올랐다."
+            },
+            {
+              "t": "p",
+              "x": "젊은 세대에게 A24는 한동안 쿨했다. 지금도 그럴 텐데, 월요일 발표한 알쏭달쏭한 구글 딥마인드 제휴가 그 쿨함을 적잖이 깎아먹었다. 슬롭 도구를 명목으로 세계 최대 테크 기업에서 7,500만 달러를 받으면 카운터컬처 신뢰를 오래 지킬 수 없다. 다음 날 제시 아이젠버그의 전혀 무관한(AI 아닌) 커뮤니티 연극 영화 예고편에 조롱이 쏟아지며 그게 드러났다. \"왜 인간 창의성의 힘을 믿지도 지지하지도 않는 회사에 돈을 내고 응원하나?\" \"a24 진짜 쿨했는데 너희가 독점 돈 몇 푼에 AI 거물한테 팔아넘기기 전까진\" 같은 말이 그나마 점잖은 축이었다."
+            },
+            {
+              "t": "p",
+              "x": "쉽게 잊지만 한때 테크 그 자체가 쿨했다. 스티브 잡스가 애플 WWDC에 영화처럼 등장해 아이팟과 아이폰을 자랑하던 시절 말이다. 2022년 말 오픈AI가 챗GPT를 내놓고 모두가 테일러 스위프트 가사를 셰익스피어 소네트로 바꾸며 들떴을 때까지도 그랬다. 그 순간 이후 분위기가 빠져나갔다. 손에 쥐던 재미난 무언가에서 억만장자가 우리를 통제하는 데 쓸 만질 수 없는 무언가로 바뀐 전환이 이 쇠퇴의 핵심이다."
+            },
+            {
+              "t": "p",
+              "x": "마지막 쿨함의 순간을 누렸던 오픈AI가 이제 그 쿨함을 잃는 주된 동력이 됐다. 챗GPT 출시 약 1년 뒤 샘 올트먼이 안전을 걱정한 임원·이사들의 축출 시도를 뒷공작에 가까운 수로 되받아쳤을 때 추락이 분명해졌다. 다시 1년 뒤 올트먼과 제프 베이조스, 팀 쿡, 마크 저커버그, 순다르 피차이가 도널드 트럼프 취임식에 참석하고 기부했을 때 쿨함이 달아났다. 마지막까지 버틴 앤트로픽은 다리오 아모데이가 피트 헤그세스를 정면으로 마주했고 클로드가 챗GPT보다 훨씬 잘 작동한 덕에 버티지만, 얼마나 갈지는 미지수다."
+            },
+            {
+              "t": "p",
+              "x": "다시 A24의 위상으로 돌아온다. 이 회사는 이 모든 것에 맞서기로 돼 있었다. 공장식 영화 제작의 시대에 아리 애스터와 그레타 거윅, 배리 젱킨스, 티 웨스트, 조시 사프디를 품었고, 속편의 시대에 케인 픽셀스에 전부를 걸었다. 한 달 전만 해도 헤드라인은 A24가 쿨하다는 정도가 아니라 그 쿨함이 스타워즈를 앞지른다는 이야기였다. 그런 회사가 이제 보이콧 위협의 조롱을 받는다. 한때 쿨하게 만든 것을 그만큼 날카롭게 쿨하지 않게 만드는 게 빅테크의 힘이다."
+            },
+            {
+              "t": "p",
+              "x": "딥마인드 계약이 알쏭달쏭한 건 A24가 AI를 실험해선 안 됐기 때문이 아니라 실험을 통째로 잘못 굴렸기 때문이다. 쓸 만한 결과가 나올 때까지 기다렸다가 내놓고 회의론자들을 잠재웠어야 했는데, 보여줄 거라곤 '믿어 달라'뿐인 기업 간 계약만 발표했다. 반A24 분위기는 다소 바뀔 것이다. 머지않아 이 기술로 자신을 드러내는 토박이 AI 예술가 집단이 등장할 게 거의 확실하다. \"누군가는 이 기술로 무섭도록 끝내주는 공포 영화를 만들 거고, 누군가는 진짜 웃긴 코미디를 만들 겁니다.\" 매트 스톤의 말이다. 그래도 지금의 A24에는 도움이 안 된다. 쿨함을 쌓는 데는 여러 해가 걸리고, 내주는 데는 어색한 사업 수 하나면 충분하다."
+            }
+          ]
+        }
       }
     ],
     "days": []
@@ -610,61 +861,226 @@
         "id": "games-godot-ai",
         "eyebrow": "AI NEWS",
         "headline": "고도 \"AI 보조는 허용,\n슬롭 PR은 자동 거부\"",
-        "body": "고도 공동창업자 레미 베르셸드가 AI 보조 입장을 정리했다. 디버깅·코드 완성엔 AI를 허용하되, 슬롭 PR은 자동 거부한다고 밝혔다. 두 릴리스 PR 3700건 중 AI 표기는 1.3%뿐이었다.",
+        "body": "고도 메인테이너들이 AI 기여 정책을 정리했다. 일부 보조는 허용하되 통째로 생성한 코드는 거부한다.",
         "tool": "Godot",
         "source": "Game Developer",
         "url": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/games-godot-ai.png"
+        "image": "pipeline/media/games-godot-ai.png",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "고도 메인테이너들이 기여물에 인공지능을 쓰는 문제를 두고 입장을 분명히 했다. 기술 자체에는 \"꽤 비판적\"이라면서도, 투명하게 드러낸 제한된 쓰임새는 받아들인다는 것이다."
+            },
+            {
+              "t": "p",
+              "x": "오랜 고도 기여자 레미 베르셸드의 설명을 들어 보면, 엔진은 전면 금지가 아니라 실용적인 틀 안에서 굴러간다. 지금 정책은 디버깅이나 정보 조사, 좁게 한정한 코드 수정 같은 작업에는 AI 보조를 허용한다. 하지만 챗GPT나 클로드 같은 도구로 통째 만들어 낸 기여물은 거부한다."
+            },
+            {
+              "t": "p",
+              "x": "베르셸드는 재단이 높은 기준을 지킨다고 말했다. \"Any slop PR is automatically rejected, as simple as that.\" 받아들인 기여물은 전부 전문 메인테이너가 꼼꼼히 검토해 동작과 테스트 품질, 기여자의 책임 의식을 따진다는 설명이다."
+            },
+            {
+              "t": "p",
+              "x": "수치도 이런 태도를 뒷받침한다. 최근 두 번의 릴리스 주기 동안 메인테이너들이 병합한 풀 리퀘스트는 전체 3,700건 가운데 AI 사용을 밝힌 것이 약 47건, 대략 1.27퍼센트였다. 베르셸드 본인도 기술의 함의를 더 잘 이해하려고 직접 써 봤다고 한다."
+            },
+            {
+              "t": "p",
+              "x": "더 자세한 생성형 AI 정책도 준비 중이다. \"a bit more restrictive, but not strictly a blanket ban\"이라는 설명이다. 그는 \"some of you may be upset to learn that Godot even tolerates some of it\"라고 인정하면서도, 12년 동안 엔진을 지켜 온 경험을 근거로 이 절충적인 노선을 변호했다."
+            }
+          ]
+        }
       },
       {
         "id": "games-ea-creativity",
         "eyebrow": "AI NEWS",
         "headline": "EA \"AI가 마찰 줄여\n사내 창작성 끌어올렸다\"",
-        "body": "EA 스튜디오 책임자 로라 미엘이 AI가 사내 창작을 끌어올렸다고 말했다. 파이프라인 마찰과 잡일을 줄여 프로토타이핑이 빨라졌다는 것이다. 다만 직원들은 감원 정당화 우려로 온도차를 보인다.",
+        "body": "EA 기업개발총괄 로라 미엘이 AI가 잡일을 덜어 \"창작이 실제로 늘었다\"고 말했다.",
         "tool": "EA",
         "source": "PC Gamer",
         "url": "https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/games-ea-creativity.jpg"
+        "image": "pipeline/media/games-ea-creativity.jpg",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "일렉트로닉 아츠의 기업개발총괄 로라 미엘은 게임 개발에서 인공지능이 늘어나면 지루한 막노동이 빠지고 개발 과정 전체가 빨라지면서 \"a real rise in creativity\"로 이어질 수 있다고 본다."
+            },
+            {
+              "t": "p",
+              "x": "미엘은 이달 초 서머 게임 페스트의 게임 비즈니스 라이브 쇼케이스에서 이 생각을 밝혔다. AI 도구가 늘면 개발 주기가 전반적으로 짧아지겠느냐는 질문을 받은 자리였다."
+            },
+            {
+              "t": "p",
+              "x": "\"Perhaps in some parts they will,\" 미엘이 말했다. \"I really believe in what I've seen, that I'm pretty excited about. I've always wanted to help our studio developers remove friction and I've always kind of wanted to be a hero to them and help them create career-defining experiences.\""
+            },
+            {
+              "t": "p",
+              "x": "\"And I think that AI, what I've seen, how AI has enabled removing friction from our pipelines and our tools and our workflows, has been pretty exciting. It's removed some tedium out of their jobs. And I've seen faster prototyping. I've seen faster creativity and shorter, faster conversations around creativity and coming to alignment. So, we're seeing it and I think there's a real rise of creativity that comes from removing some of the tedious tasks out of development.\""
+            },
+            {
+              "t": "p",
+              "x": "여기서 말하는 AI가 정확히 어떤 것인지는 분명하지 않다. 젠디자인에서 \"섀도우 오브 더 콜로서스\" 감독 우에다 후미토가 쓰는 AI 기반 프로젝트 관리 도구와, 사실상 모든 영역을 좀먹은 생성형 AI 슬롭 기계 사이에는 큰 간극이 있다."
+            },
+            {
+              "t": "p",
+              "x": "그래도 EA는 생성형 AI를 향한 열의를 숨긴 적이 없다. 일례로 앤드루 윌슨 CEO는 2024년에 회사가 생성형 AI를 \"embracing [generative AI] deeply\"하고 있으며 \"about 60% of all of our development processes have high feasibility to be positively impacted by generative AI\"라고 말했다."
+            },
+            {
+              "t": "p",
+              "x": "EA는 운영 비용을 낮추는 데도 AI의 힘을 기대하는 것으로 전해진다. 사우디아라비아 공공투자펀드의 550억 달러 인수 과정에서 떠안은 200억 달러 규모의 부채 금융을 감당하려는 것이다. (인수 대상인 EA가 그 인수 비용을 치르려고 수십억 달러의 빚까지 지는 이유가 궁금하다면, PC게이머의 금융 전문가 링컨 카펜터가 풀이해 두었다. 짧게 말하면 모두가 겁에 질려 있다.)"
+            },
+            {
+              "t": "p",
+              "x": "직원들은 이 AI 중심의 미래를 그만큼 반기지 않는 분위기라고 한다. 일부는 회사가 정리해고를 정당화하는 데 AI를 끌어다 쓴다고 의심한다. AI 때문이든 아니든, EA는 2025년 9월 사우디 투자가 발표된 뒤 바이오웨어와 리스폰, 그리고 아예 문을 닫은 클리프행어 게임스 등에서 수백 명을 내보냈다. 가장 최근 감원은 이번 주 초에 있었던 것으로 전해지며, 몇 명이 일자리를 잃었는지는 공개되지 않았다."
+            }
+          ]
+        }
       },
       {
         "id": "games-vampire-fortnite",
         "eyebrow": "AI NEWS",
         "headline": "뱀서 개발사, 에픽 생성 AI에\n포트나이트 협업 재검토",
-        "body": "뱀파이어 서바이버즈 개발사 폰클이 포트나이트 협업을 재검토한다. 에픽이 UE6 생성 AI로 에셋·캐릭터를 만든다고 밝히자 협업 진행 여부를 다시 따지겠다고 했다.",
+        "body": "뱀파이어 서바이버즈를 만든 폰클이 에픽의 생성 AI 발표 뒤 포트나이트 협업을 재검토한다고 밝혔다.",
         "tool": "Vampire Survivors",
         "source": "Game Developer",
         "url": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/games-vampire-fortnite.png"
+        "image": "pipeline/media/games-vampire-fortnite.png",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "\"뱀파이어 서바이버즈\"를 만든 폰클이 예정됐던 포트나이트 협업을 다시 들여다보겠다고 밝혔다. 에픽 게임스가 언리얼 엔진에 AI 기능을 넣겠다고 발표한 직후다."
+            },
+            {
+              "t": "p",
+              "x": "스튜디오는 레딧에 이렇게 적었다. \"Following today's news about gen-AI usage by Epic to create all sort of game assets, including Fortnite characters, we're currently 'reviewing' our collaboration with Fortnite.\""
+            },
+            {
+              "t": "p",
+              "x": "에픽은 막 새 포트나이트 크로스오버 네 건을 공개했고, 그중 하나가 뱀파이어 서바이버즈 콘텐츠였다. 다만 개발사가 우려하는 지점은 에픽이 같은 자리에서 함께 밝힌 내용, 곧 언리얼 엔진 6에 생성형 AI를 통합한다는 발표다. 여기에는 클로드와 제미나이 같은 도구가 들어간다."
+            },
+            {
+              "t": "p",
+              "x": "에픽 임원 마커스 와스머의 설명을 들어 보면, 이 AI 기능들은 \"creativity and productivity multipliers\"로 설계돼 개발팀이 핵심 창작 작업에 집중하도록 돕는다. 에픽은 아티스트들이 생성형 AI로 포트나이트의 캐릭터와 환경 콘셉트를 잡는 모습을 시연했다."
+            },
+            {
+              "t": "p",
+              "x": "이번 일은 AI 도입을 망설이는 업계 분위기를 그대로 보여 준다. 앞선 조사들을 보면 게임 개발자의 절반쯤이 생성형 AI를 부정적으로 보는데, 게임 품질과 업계 전반을 해칠 수 있다는 걱정에서다."
+            }
+          ]
+        }
       },
       {
         "id": "games-ue6-reactions",
         "eyebrow": "AI NEWS",
         "headline": "UE6 AI 발표에 개발자\n기대와 회의론 동시 폭발",
-        "body": "스테이트 오브 언리얼의 UE6 발표에 개발자 반응이 엇갈렸다. MCP·AI 워크플로엔 기대가 컸지만, 블루프린트 폐지와 창작의 즐거움 훼손을 우려하는 회의론도 거셌다.",
+        "body": "스테이트 오브 언리얼의 UE6·MCP·AI 워크플로 발표에 개발자 기대와 회의가 동시에 터졌다.",
         "tool": "Unreal Engine 6",
         "source": "80 Level",
         "url": "https://80.lv/articles/state-of-unreal-ue6-reactions-hype-skepticism-and-what-it-means-for-game-devs",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/games-ue6-reactions.png"
+        "image": "pipeline/media/games-ue6-reactions.png",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "에픽 게임스의 스테이트 오브 언리얼 발표를 두고 업계 전문가와 언리얼 엔진 개발자들의 반응이 엇갈린다. 언리얼 엔진 5.8, UE6 초기 정보, MCP 기반 AI 워크플로, 버스(Verse), 그리고 결국에는 블루프린트에서 손을 떼겠다는 방향이 모두 도마에 올랐다."
+            },
+            {
+              "t": "p",
+              "x": "많은 개발자가 받은 가장 큰 인상은, 에픽이 UE 5.8과 UE6를 그저 또 한 번의 렌더러·워크플로·성능 업데이트로 다루지 않는다는 점이다. 회사는 AI 보조 워크플로와 버스, 상호 운용 가능한 콘텐츠, 그리고 언리얼 엔진과 UEFN을 더 하나로 묶는 관계를 중심에 둔 더 넓은 제작 전환의 토대를 깔고 있다. 다시 말해 에픽이 오래전부터 그려 온 메타버스 엔진으로 성큼 다가서는 모양새다."
+            },
+            {
+              "t": "p",
+              "x": "공식 로드맵에서 에픽은 UE6가 렌더링을 개선하고 쿡 시간을 줄이며 반복 작업의 고리를 더 촘촘하게 죄고 모바일 성능을 키우겠다고 밝혔다. 동시에 버스와 열린 표준, 상호 운용 콘텐츠, 그리고 클로드·제미나이 같은 도구를 위한 MCP 통합을 통해 게임을 출시하고 운영하는 방식 자체를 바꾸겠다는 것이다."
+            },
+            {
+              "t": "p",
+              "x": "우선 UE 5.8에 담길 기능들이 개발자들을 들뜨게 했다. 메시 지형은 인상적이고, 스위치 2 같은 저사양 기기를 겨냥한 루멘 라이트는 최적화 신호로 환영받았으며, 로어(Lore)라는 새 오픈소스 버전 관리도 기대를 모았다. 레이니레 버추얼의 비외르네 호프는 \"My favourite bit of the show!\"라며 UE6에서 UEFN과 UE가 같은 제품군으로 합쳐진다는 점을 짚었다."
+            },
+            {
+              "t": "p",
+              "x": "전 에픽 직원이자 현재 [namethemachine]의 리드 비주얼라이제이션 아티스트인 브라이언 J. 폴은 AI 통합에 초점이 맞춰진 이번 소식을 업계의 핵심 \"turning point\"로 봤다. 폴스워크의 매슈 J.X. 도일은 키노트의 \"real throughline\"이 UE5와 UEFN이 버스와 분산 소프트웨어 트랜잭셔널 메모리 위에 세운 \"파운데이션 우선\" 엔진으로 수렴하는 데 있다고 평했다."
+            },
+            {
+              "t": "p",
+              "x": "가장 논쟁적인 대목은 결국 액터와 블루프린트가 신 그래프를 활용하는 새 버스 구조로 대체되며 단계적으로 폐기된다는 점이다. 키보드 캣츠 스튜디오의 안톤 미하일렌코는 비시각적 스크립트 언어가 유지·최적화에 유리하고 병합이 쉬워 큰 팀에서 다루기 좋다고 봤다. 그는 에픽이 UE6 수명 내내 LLM이 폭넓게 쓰이리라는 데 걸고 있다고 짚었다."
+            },
+            {
+              "t": "p",
+              "x": "낙관만 있었던 것은 아니다. 같은 발표를 두고 일부 개발자와 아티스트는 에픽이 내건 설명보다 훨씬 더 파괴적인 전환의 신호로 받아들였다. 가장 또렷한 현실적 걱정은 블루프린트의 앞날이다. 로드맵에서 에픽은 UE6 초기 버전에는 액터와 블루프린트를 남기되 새 틀이 무르익으면 \"eventually\" 폐기하고, 프로젝트 이전을 돕는 변환 도구를 마련하겠다고 했다."
+            },
+            {
+              "t": "p",
+              "x": "에픽은 UE6 얼리 액세스를 2027년 말로 잡았고 정식 출시는 그로부터 12~18개월 뒤로 본다. 당장의 단절은 아니지만 장기 방향은 분명하다는 뜻이다. 블루프린트는 수년간 언리얼의 접근성을 상징해 온 기능이라 곧장 의문이 일었다. 실제로 올해의 게임을 받은 \"클레르 옵스퀴르: 익스페디션 33\"은 소규모 팀이 게임플레이 시스템을 전부 블루프린트로 만들었기에 가능했다."
+            },
+            {
+              "t": "p",
+              "x": "인더스트리얼 라이트 앤드 매직의 시니어 테크니컬 아티스트 스티브 비건은 더 날을 세웠다. \"The joy in creation does not come from the volume of output. It comes from the art process. Tools like this exist to remove the creation process entirely.\" 전 에픽·인피니티 워드·리벨리온 UI 아티스트 크리스 가이슬러존슨도 진입 장벽을 낮춰 온 블루프린트에서 손을 떼는 것은 \"risky\"하다고 봤다."
+            },
+            {
+              "t": "p",
+              "x": "에픽은 기존 프로젝트를 함께 데려가는 것이 철학이며 \"force a hard break\"는 하지 않겠다고 우려를 누그러뜨렸다. 그래도 UE6의 새 게임플레이 틀인 신 그래프가 버스 위에 처음부터 새로 세워진다는 사실은 그대로다. 팀 스위니의 표현처럼 \"UE5 plus UEFN equals UE6\"인 셈이어서, 개발 중인 프로젝트가 이 변화를 어떻게 견딜지는 시간이 말해 줄 것이다."
+            },
+            {
+              "t": "p",
+              "x": "목표는 렌더링이나 성능 개선에 그치지 않는다. 한 번 만들어 PC와 콘솔, 모바일, 포트나이트, 나아가 다른 UE6 기반 생태계까지 출시하도록 하는 것이다. 작은 팀과 라이브 서비스 개발사에는 더 빠른 반복과 폭넓은 배포, 옮기기 쉬운 콘텐츠라는 기회가 될 수 있다. 다만 AI 보조 에디터 제어와 버스 기반 시스템, 상호 운용 콘텐츠, 포트나이트로 이어지는 배포는 교육과 유지보수, 저작권, 팀 역할, 제작 정책을 둘러싼 현실적인 물음도 함께 던진다."
+            }
+          ]
+        }
       },
       {
         "id": "games-valve-disclosure",
         "eyebrow": "AI NEWS",
         "headline": "스위니 \"스팀 AI 표기 의무는\n무책임\"…에픽은 AI 확대",
-        "body": "팀 스위니가 스팀의 AI 표기 의무를 무책임하다고 비판했다. 개발자에게 AI 주홍글씨를 붙여 게임을 죽인다는 것이다. 반면 에픽은 UE6에서 AI를 더 깊게 끌어안고 있다.",
+        "body": "팀 스위니가 스팀의 AI 표기 의무를 \"무책임\"하다고 비판했다. 반면 UE6는 AI를 더 깊게 끌어안는다.",
         "tool": "Steam · Epic",
         "source": "Wccftech",
         "url": "https://wccftech.com/valve-irresponsible-ai-disclosures-steam-epic-ceo-unreal-engine-6/",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/games-valve-disclosure.jpg"
+        "image": "pipeline/media/games-valve-disclosure.jpg",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "최근 몇 달 사이 게임 퍼블리셔와 개발사들은 개발을 빠르고 낫게 한다는 명분으로 생성형 AI에 전력으로 뛰어들었다. 게이머가 더 따져 보고 살 수 있도록 밸브는 스팀에서 AI 표기를 강제하기 시작했는데, 에픽 게임스 CEO 팀 스위니는 이것이 부정적인 효과를 낳는 무책임한 처사라고 본다."
+            },
+            {
+              "t": "p",
+              "x": "스위니는 PC게이머와의 새 인터뷰에서 이렇게 말했다. \"It's unfortunate that so many developers now are put into this position. If you want to launch a game, and get it as widely publicized as possible, you've got to put it on Steam so people can wish list it, and if you want to play it on Steam, then you have to get this Scarlet Letter of AI attached to your product, and now there is a hater community trying to kill the game. I think it's really irresponsible of Valve. They shouldn't do it, because it makes it much, much, much harder for a game developer to have a chance of success. You have to choose from either not using tools that can make you way more productive, and probably failing due to competition that does.\""
+            },
+            {
+              "t": "p",
+              "x": "스위니의 말이 전부 틀린 것은 아니다. 출시 전부터 스팀 상점 페이지에 AI 표기가 붙은 게임이 반발을 산 사례를 이미 봤기 때문이다. 그렇다고 밸브가 무책임한 것은 결코 아니다. 소비자는 자기가 살지도 모를 제품이 어떻게 만들어졌는지 알 권리가 있고, 자신의 신념과 투명성 요구에 맞는 선택을 할 정보를 모두 쥐어야 한다."
+            },
+            {
+              "t": "p",
+              "x": "사실 스위니가 게임 개발의 AI 사용을 단단히 옹호하는 것은 놀랄 일이 아니다. 에픽 게임스가 곧 내놓을 언리얼 엔진 6가 AI 통합에 전부를 걸고 있어서다. 그는 인터뷰에서 입장을 거듭 분명히 하며, AI를 쓰면 개발자가 정작 중요한 것, 곧 서사와 게임플레이에 더 많은 시간을 쏟을 수 있다고 말했다."
+            },
+            {
+              "t": "p",
+              "x": "\"You go to a library, like the Fab Content site or the Unity Asset Store, and buy a flower pot there. And then there's a whole economy around creating content. That's nice, but it gives you a fixed set of objects, and scanning only works for things that already exist in the world—you can't scan an alien. And the content libraries only work for things that have been created. If you have a game with a really unique look and feel, you need unique content, and AI is a path to getting that with a degree of economy that makes it competitive with Fab or scanning or other things, but works for a larger category of objects. The value is not in creating a perfect flower pot. It will be an absolute folly to spend a million dollars creating a flower pot, because the real value is in building the scene and building the game and building the narrative, and the gameplay, and making it awesome, and giving it a unique feel, and making something that appeals to gamers.\""
+            },
+            {
+              "t": "p",
+              "x": "안타깝게도 퍼블리셔들이 실제 개발자를 내보내는 핑계로 AI를 끌어다 쓰는 정황은 뚜렷하다. 그래서 이 기술을 게임 업계의 파괴적인 힘으로 보지 않기란 어렵다. 지난주 시작된 GTA 6에서 영감을 받은 한 프로젝트에서 보이듯, 지금의 자동화 모델은 혼자서 게임 한 편을 만들어 내지 못한다. 다만 언젠가 그것이 가능해지면 무슨 일이 벌어질지는 시간만이 답할 것이다."
+            }
+          ]
+        }
       }
     ],
     "days": []
@@ -676,60 +1092,188 @@
         "id": "books-caine-odyssey",
         "eyebrow": "AI NEWS",
         "headline": "마이클 케인, AI 음성으로\n오디세이 오디오북 낭독",
-        "body": "배우 마이클 케인이 자신의 목소리를 일레븐랩스에 라이선스했다. 호메로스 오디세이 각색본을 AI 복제 음성으로 낭독한다. 유명 배우가 합성 음성 낭독을 허용한 주목할 사례다.",
+        "body": "마이클 케인이 자기 목소리의 AI 버전을 일레븐랩스에 빌려줬다. 호메로스 오디세이를 그 음성으로 낭독한다.",
         "tool": "ElevenLabs",
         "source": "The Bookseller",
         "url": "https://www.thebookseller.com/news/michael-caine-licenses-voice-to-narrate-ai-adaptation-odyssey-audiobook",
         "accent": "#f5a623",
         "motif": "swatch",
-        "image": "pipeline/media/books-caine-odyssey.jpg"
+        "image": "pipeline/media/books-caine-odyssey.jpg",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "마이클 케인이 자기 목소리의 AI 버전을 호메로스 오디세이 오디오북 각색본에 빌려줬다. 음향 기술 회사 일레븐랩스가 펴낸 작품이다."
+            },
+            {
+              "t": "img",
+              "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/475/Michael_Caine__Jeff_Spicer.jpg",
+              "cap": "마이클 케인 ⓒ Jeff Spicer"
+            },
+            {
+              "t": "p",
+              "x": "케인은 2025년 말 일레븐랩스에 목소리를 라이선스했다. 배우의 음성 복제본을 오디오북을 비롯한 AI 생성 콘텐츠에 쓰는 회사다. 이번 작업에서는 케인의 걸걸한 음색과 짙은 코크니 억양까지 그대로 살려냈다."
+            },
+            {
+              "t": "p",
+              "x": "오디오북은 일레븐랩스의 일레븐리더 앱에서 단독으로 나왔다. 케인의 AI 음성 복제본에 더해 등장인물 목소리를 맡은 풀 캐스트 연기, 오리지널 음악, 음향 효과가 함께 들어갔다. 모두 일레븐랩스 AI 오디오 모델로 만들었다. 13시간 분량의 '시네마틱' 버전을 완성하는 데 6주가 걸렸다."
+            },
+            {
+              "t": "p",
+              "x": "이번 오디세이 오디오북 소식은 온라인에서 비판을 불렀다. 케인이 목소리를 이 프로젝트에 내준 결정을 두고 업계 일부가 특히 날을 세웠다."
+            }
+          ]
+        }
       },
       {
         "id": "books-uk-ai-licensing",
         "eyebrow": "AI NEWS",
         "headline": "영국 출판사 250곳, AI 학습\n집단 라이선싱에 합류",
-        "body": "영국 출판사 250여 곳이 PLS의 집단 AI 라이선싱 제도에 참여했다. 런던 도서전에서 출범한 이 제도는 AI 학습에 쓰인 저작물의 보상 통로를 연다.",
+        "body": "영국 출판사 250곳 넘게 PLS 집단 AI 라이선싱 제도에 들어왔다. 올해 런던 도서전에서 출범한 제도다.",
         "tool": "PLS",
         "source": "The Bookseller",
         "url": "https://www.thebookseller.com/news/over-250-uk-publishers-opt-in-to-collective-ai-licensing-scheme",
         "accent": "#f5a623",
         "motif": "swatch",
-        "image": "pipeline/media/books-uk-ai-licensing.jpg"
+        "image": "pipeline/media/books-uk-ai-licensing.jpg",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "출판사 라이선싱 서비스(PLS)가 영국 출판사 250곳 넘게 자사 집단 AI 라이선싱 제도에 합류했다고 밝혔다. 올해 초 런던 도서전(LBF)에서 출범한 제도다."
+            },
+            {
+              "t": "img",
+              "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+              "cap": "ⓒ Shutterstock"
+            },
+            {
+              "t": "p",
+              "x": "이 사업의 1단계는 출판사들이 집단 라이선스 제도에 옵트인하도록 권하는 절차다. 저작권 라이선싱 에이전시(CLA), 저자 라이선싱·징수 협회(ALCS)와 함께 만들었다."
+            },
+            {
+              "t": "p",
+              "x": "CLA의 생성형 AI 솔루션에는 출판사와 저자가 뒷받침하는 라이선스만이 아니라 콘텐츠 저장소도 담긴다. AI 기업이 명확하고 투명한 이용 지침 아래 라이선스료를 내고 출판물을 합법적으로 쓸 수 있게 하는 장치다."
+            },
+            {
+              "t": "p",
+              "x": "옵트인하면 출판사는 AI 모델의 콘텐츠 사용을 합법적이고 정당하게 보상받게 하려는 집단 대응에 동참하게 된다. 거대 기술 기업과 직접 협상하기 어려운 소규모 출판사들도 AI 라이선싱 시장에 발을 들일 현실적인 길이 열린다. 2024~25년 PLS는 라이선싱과 허가 제도로 출판사에 4800만 파운드를 돌려줬다."
+            }
+          ]
+        }
       },
       {
         "id": "books-beijing-fair",
         "eyebrow": "AI NEWS",
         "headline": "베이징 도서전, 편집 전 과정에\nAI가 스며들다",
-        "body": "베이징 국제도서전이 판권 거래에서 IP 라이선싱으로 무게추를 옮겼다. 주제 선정부터 인쇄까지 AI가 스며들었다. 중신출판은 AI가 만든 15~20분 책 요약을 선보였다.",
+        "body": "베이징 국제도서전이 판권 거래에서 IP 라이선싱으로 무게추를 옮겼다. 편집 전 과정에 AI가 스몄다.",
         "tool": "CITIC Press",
         "source": "Publishing Perspectives",
         "url": "https://publishingperspectives.com/2026/06/at-the-beijing-international-book-fair-rights-trading-gives-way-to-ip-licensing/",
         "accent": "#f5a623",
         "motif": "swatch",
-        "image": "pipeline/media/books-beijing-fair.png"
+        "image": "pipeline/media/books-beijing-fair.png",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "제32회 베이징 국제도서전이 6월 21일 막을 내렸다. 82개국이 참여해 2,835건의 저작권 계약을 맺은 탄탄한 성적이었다. 다만 진짜 이야기는 따로 있었다. 중국 출판업계가 스트리밍 커머스와 AI 편집 공정, 트랜스미디어 IP를 축으로 스스로를 다시 짜고 있다는 점이다."
+            },
+            {
+              "t": "img",
+              "src": "https://publishingperspectives.com/wp-content/uploads/2026/06/Screen-Shot-2026-06-24-at-9.10.25-PM-793x385.png",
+              "cap": "베이징 국제도서전"
+            },
+            {
+              "t": "p",
+              "x": "개막일 아침, 베이징 국제도서전 조직위 사무국장이 통역 션 셰와 함께 외신 기자들 앞에서 프랑크푸르트 도서전이라면 상상도 못 했을 말을 꺼냈다. 주제 선정부터 인쇄 제작까지, AI가 이제 편집의 모든 단계에 박혀 있다는 것이다. 그는 이를 파괴가 아니라 일하는 리듬으로 풀어 설명했다."
+            },
+            {
+              "t": "p",
+              "x": "\"In China, we simply have a shorter time to make decisions. If it doesn't work, we stop. In the West, you debate before you try.\" (중국에서는 결정에 쓸 시간이 그저 더 짧다. 안 되면 멈춘다. 서구에서는 시도하기 전에 토론한다.)"
+            },
+            {
+              "t": "p",
+              "x": "수치는 단단했다. 30만 명에 가까운 방문, 1,700곳이 넘는 출품 업체, 22만 종의 전시 도서, 그리고 2,835건의 저작권 계약. 아동서와 사회과학, 과학기술이 판권 거래를 이끌었다. 가장 큰 구조 변화는 텐센트, 넷이즈게임즈, 더우인그룹, 37인터랙티브엔터테인먼트, 위에원그룹 같은 디지털 콘텐츠 대기업이 새로 마련된 디지털 출판 합동관에 자리 잡으며 전시장을 콘텐츠 산업 박람회처럼 바꿔놓은 점이다."
+            },
+            {
+              "t": "p",
+              "x": "중국 최대 단행본 출판사 중신출판은 디지털 전환을 한층 밝게 그렸다. 앱 중신서원(中信书院)은 구독자 1,000만 명을 모았고, 책마다 전자책과 오디오북, 사내 편집자가 검수한 AI 낭독 15~20분 요약본, 교육 과정을 층층이 쌓아 올렸다. 한편 위구르소년출판사 부편집장 쉬궈핑은 동료들이 좇는 트랜스미디어 전략에 회의적이다. 지난해 더우인 라이브 방송 한 번으로 한 작품 2만 4천 세트를 움직였는데, 할인이 아니라 콘텐츠의 힘이었다. \"We want to attract readers with the book itself, not with the price.\" (값이 아니라 책 자체로 독자를 끌고 싶다.) 한때 판권 시장이던 도서전은 이제 포맷 혁명 한가운데 선 산업을 들여다보는 진단대가 됐다."
+            }
+          ]
+        }
       },
       {
         "id": "books-ai-survey",
         "eyebrow": "AI NEWS",
         "headline": "출판업계 두 번째 AI 실태\n조사가 닻을 올리다",
-        "body": "BISG와 북넷캐나다가 두 번째 출판업계 AI 설문을 시작했다. 북미 출판 전문가와 사서를 상대로 AI 활용 실태와 우려를 묻는다. 설문은 7월 17일까지 진행된다.",
+        "body": "BISG와 북넷캐나다가 두 번째 출판업계 AI 설문을 열었다. 7월 17일까지 응답을 받는다.",
         "tool": "BISG",
         "source": "Publishing Perspectives",
         "url": "https://publishingperspectives.com/2026/06/bisg-booknet-canada-launch-2026-ai-in-the-book-industry-survey/",
         "accent": "#f5a623",
         "motif": "swatch",
-        "image": "pipeline/media/books-ai-survey.png"
+        "image": "pipeline/media/books-ai-survey.png",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "도서산업연구그룹(BISG)과 북넷캐나다가 두 번째 '출판업계 AI 설문(AI in the Book Industry Survey)'을 시작했다. 북미 전역의 출판 전문가와 사서들에게 참여를 청한다. 서점과 유통, 인쇄, 도서관, 기술 공급사, 관련 서비스 기관, 업계에 종사하는 독립·프리랜서 전문가까지 두루 대상이다. 올해도 AI를 둘러싼 현재 경험과 우려, 우선순위, 기대를 담아내려 한다."
+            },
+            {
+              "t": "p",
+              "x": "보도자료에 따르면 설문은 7월 17일까지 열려 있고 마치는 데 10~15분쯤 걸린다. 응답은 모두 익명이며, 결과는 이번에도 무료 공개 보고서로 공유된다. 자료는 올해 '확장된' 2026년 설문이 지난해 연구 위에 쌓아 올린 것이라며, \"If you work anywhere in the book publishing supply chain, we encourage you to participate and share the survey with your colleagues.\"(도서 출판 공급망 어디에서든 일한다면 참여하고 동료에게도 설문을 전해 달라)라고 덧붙였다."
+            },
+            {
+              "t": "p",
+              "x": "BISG와 북넷캐나다는 지난 4월 첫 설문 보고서 'AI Use Across the North American Book Industry: 2025'를 냈다. 폭넓은 직무에 걸쳐 559명이 응답했다. 보고서는 북미 출판 전문가와 사서의 AI 활용이 \"uneven and often exploratory\"(들쭉날쭉하고 더러 탐색적)라고 짚었다. 조심스러운 낙관과 기술 발전에 대한 우려가 섞여 있었다."
+            },
+            {
+              "t": "p",
+              "x": "업계 절반이 AI를 쓴다면서도 전반적 인상은 \"overwhelmingly negative\"(압도적으로 부정적)였다. 업계가 AI를 받아들이는 속도가 그것에 익숙해지는 속도보다 빠르다는 뜻으로 읽혔다. 응답자들은 저작권과 윤리, 일자리 영향, 환경 비용, AI 산출물의 신뢰성을 향한 우려를 자주 강조했다. 그러면서도 적잖은 이들이 사람의 감독 아래 제한된 운영 업무에 쓰면 AI 도구가 실질적 이득을 줄 수 있다고 인정했다."
+            }
+          ]
+        }
       },
       {
         "id": "books-wiley-ai-revenue",
         "eyebrow": "AI NEWS",
         "headline": "와일리, AI 라이선싱으로\n4900만 달러를 벌다",
-        "body": "와일리가 2026 회계연도에 AI 라이선싱으로 4900만 달러를 거뒀다. IQVIA와 오픈에비던스 등과의 계약이 성장을 이끌었다. AI 학습 데이터가 출판사의 새 수익원으로 자리잡았다.",
+        "body": "와일리가 2026 회계연도에 AI 라이선싱으로 4900만 달러를 벌었다. 순이익은 163% 뛰었다.",
         "tool": "Wiley",
         "source": "Publishers Weekly",
         "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/100650-ai-research-drive-gains-at-wiley-in-fiscal-2026.html",
         "accent": "#f5a623",
-        "motif": "swatch"
+        "motif": "swatch",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "맥그로힐이 최근 실적 보고에서 AI 활용을 더 키우겠다고 밝힌 지 하루 만에, 와일리도 실적과 AI 활용 계획을 내놨다. 2026년 4월 30일로 끝난 회계연도에 와일리는 AI 라이선싱 계약으로 4900만 달러를 벌었다고 했다. IQVIA, 오픈에비던스, 그리고 늘어나는 기업 고객과 맺은 계약을 성장의 핵심 요인으로 꼽았다."
+            },
+            {
+              "t": "p",
+              "x": "매튜 키스너 와일리 사장 겸 CEO는 준비된 발언에서 2026 회계연도에 회사가 연구, 그리고 AI·데이터 분석이라는 서로를 떠받치는 두 성장 엔진을 가속했다고 말했다. 그는 AI를 \"a rapidly expanding recurring [revenue] stream\"(빠르게 커지는 반복 매출원)이라 불렀다. 이달 초 4억 5200만 달러에 사들인 이머럴드 퍼블리싱이 이를 더 키울 전망이다. (이머럴드 실적은 와일리 2026 회계연도 수치에 들어 있지 않다.)"
+            },
+            {
+              "t": "p",
+              "x": "와일리 매출은 16억 7천만 달러로 2025 회계연도와 거의 같았다. 다만 순이익은 1년 전 8420만 달러에서 163% 치솟은 2억 2160만 달러를 기록했다. 연구 부문 총매출은 5% 늘어 11억 3천만 달러로, 골드 오픈액세스 프로그램과 AI 라이선싱이 성장을 끌었다. 반면 학습 부문은 거시적 역풍과 소매 채널 부진, AI 라이선싱 매출 감소로 매출이 7% 줄었다. 학술 부문은 4% 줄어 9610만 달러, 전문 부문은 9% 줄어 5620만 달러였다."
+            },
+            {
+              "t": "p",
+              "x": "2027 회계연도에 와일리는 이머럴드를 빼면 매출이 한 자릿수 초중반대로 늘 것으로 봤다. 이머럴드는 이번 회계연도에 7800만 달러를 보태고 수익도 끌어올릴 것으로 기대한다. 애널리스트 질의응답은 AI와 와일리의 미래 이야기로 채워졌다. 키스너는 와일리가 여러 산업군으로 파고들고 있다며 \"Of these 19 customers, 12 are in life sciences, 4 in engineering, materials or chemistry, 2 in financial services, and 1 in ag and food science\"(이 19개 고객 가운데 12곳이 생명과학, 4곳이 공학·소재·화학, 2곳이 금융서비스, 1곳이 농업·식품과학에 있다)고 했고, 학습용으로 LLM 개발사 4곳도 상대한다고 덧붙였다."
+            },
+            {
+              "t": "p",
+              "x": "크레이그 올브라이트 와일리 CFO는 AI가 매출만 끌어올리는 게 아니라 내부 효율도 높인다고 짚었다. AI 덕에 연간 및 4분기 본사 미배분 비용이 각각 2300만 달러, 900만 달러 줄었다. 법무, 마케팅, 콘텐츠 운영에서 이미 AI 생산성 사업이 돌아가고 있으며, 공정과 업무 흐름을 바꾸고 의미 있는 생산성 향상과 연간 비용 절감을 겨냥한 사업을 더 붙이려 한다고 그는 말했다."
+            }
+          ]
+        }
       }
     ],
     "days": []

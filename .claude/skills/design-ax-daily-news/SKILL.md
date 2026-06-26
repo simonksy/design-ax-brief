@@ -67,12 +67,32 @@ For EACH selected section S (default order design, music, movies, games, books):
    Re-applies URL+CONTENT dedup vs S's history (backstop, even on hand-picks).
    → `pipeline/selected.json`
 6. **ax-writer** — "Run your steps." → `pipeline/cards.json` (Korean copy)
+6b. **full article + humanize (REQUIRED for every card).** For each selected card,
+   build `card.full` = the source article as a Korean-translated, structure-mirroring
+   payload for the flip-back view:
+   `full = { "mode":"full"|"summary", "blocks":[ {"t":"p","x":"한국어"} | {"t":"img","src":"abs-url","cap"} | {"t":"video","yt":"id"|"src":"mp4"} ] }`.
+   Fetch the article, translate the body to Korean preserving order, and INTERLEAVE its
+   in-body images + any embedded videos (YouTube → `yt` id; mp4 → `src`). Cap to a fixed
+   box: ≤ ~1600 Korean chars, ≤ 4 images, ≤ 1 video — if the whole translation fits,
+   `mode:"full"`; if longer, write a Korean summary that fits and set `mode:"summary"`.
+   YouTube cards lead with the video block. Then **humanize** all Korean — both the card
+   `body` and every `full` paragraph — with the **humanize-korean** skill (see "Korean
+   voice" below). Content fidelity is absolute (facts/numbers/quotes/names unchanged).
 7. **ax-media** — "Run your steps." → `pipeline/media.json` + downloaded media
 8. **roll S** — `python3 pipeline/roll.py --section S --data pipeline/news_data.json --cards pipeline/cards.json --media pipeline/media.json` (moves S's previous `today` into S's deck, trims to 5, sets S's new `today`). Archive the section's JSONs to `pipeline/runs/<date>/<section>/`.
 
 After ALL sections are rolled:
 9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design). `node --check axbrief-data.js`; restore the per-run backup on failure.
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
+
+Korean voice (humanize-korean — REQUIRED): every Korean string published — card
+`headline`/`body` and every `full` paragraph — must be run through the
+**humanize-korean** skill/methodology (refs in the installed plugin:
+`.../humanize-korean/references/quick-rules.md` + `rewriting-playbook.md`) to strip
+AI-tells (번역투·과도 피동·균일 리듬·접속사 남발·상투적 마무리·영어 직역체). Style/rhythm
+only — facts, numbers, dates, quotes, and product/company names stay byte-identical
+(~8–25% change). The front card flips (회전문) to the `full` back via a + button; the
+back is a fixed scrollable box (text + the article's images + video containers).
 
 Freshness: **per-section** window via `pipeline/freshness.py <pub> <now> <section>`
 (design 72h; music/movies/games/books 14 days). Dedup is **per

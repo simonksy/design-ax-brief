@@ -71,10 +71,9 @@ if (!document.getElementById('ax-styles')) {
   .ax-hero-wrap{position:relative;width:480px;max-width:100%;height:760px;margin:6px auto 0;}
   @media (max-width:760px){
     .ax-shell{padding:16px 12px 56px;}
-    /* content-driven height so the card NEVER clips its footer/source link */
-    .ax-hero-wrap{width:100%;height:auto;margin:2px auto 0;}
-    .ax-track{height:auto;align-items:flex-start;}
-    .ax-slide{height:auto;}
+    /* fixed height (sized to the viewport) so the flip's front/back faces share a
+       footprint on mobile too; the summary fits and the full-article back scrolls. */
+    .ax-hero-wrap{width:100%;height:min(640px,84svh);margin:2px auto 0;}
     /* Kill continuous GPU work on phones (was overheating the device): the SVG
        feTurbulence grain and every infinite drift/spin/pulse animation. The
        full-screen blurred+blended ThemeBackdrop is also not rendered on mobile. */
@@ -378,11 +377,11 @@ function axEnrich(item) {
 function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
   const it = axEnrich(item);
   return (
-    <div style={{ height: mobile ? 'auto' : '100%', display: 'flex', flexDirection: 'column', overflow: mobile ? 'visible' : 'hidden' }}>
+    <div style={{ height: '100%', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
       <div style={{ position: 'relative', flex: '0 0 auto', aspectRatio: mobile ? '16 / 10' : '4 / 3' }}>
         <MediaScene item={it} active={active} bold={t.bold} />
       </div>
-      <div style={{ flex: mobile ? '0 0 auto' : 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: mobile ? '16px 18px 18px' : '22px 26px 22px' }}>
+      <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: mobile ? '16px 18px 18px' : '22px 26px 22px' }}>
         <Eyebrow item={it} index={index} total={total} t={t} />
         <h2 className="ax-hl" style={{ fontSize: mobile ? 21 : 28, lineHeight: 1.18, marginTop: mobile ? 10 : 14, color: t.hl }}>{it.headline}</h2>
         {/* wrapper is the flex item (blockified safely); the <p> stays a real
@@ -394,7 +393,7 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
         </div>
         {/* desktop pushes the source line to the card bottom; on mobile the card is
             content-height so the line simply follows the body (never clipped). */}
-        {!mobile && <div style={{ flex: 1, minHeight: 14 }} />}
+        <div style={{ flex: 1, minHeight: 14 }} />
         {/* footer row: divider, then source link (left) + expand button (right), aligned */}
         <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18,
           display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
@@ -466,7 +465,7 @@ function FlipCard({ item, index, total, active, t, mobile }) {
   const [flipped, setFlipped] = useState(false);
   useEffect(() => { if (!active) setFlipped(false); }, [active]);
   const hasFull = item.full && Array.isArray(item.full.blocks) && item.full.blocks.length > 0;
-  if (mobile || !hasFull) {
+  if (!hasFull) {
     return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
   }
   return (
@@ -540,8 +539,8 @@ function Carousel({ items, t, initialIndex = 0, mobile }) {
   };
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', height: mobile ? 'auto' : '100%', minHeight: 0 }}>
-      <div className="ax-heroin" style={{ flex: mobile ? '0 0 auto' : 1, minHeight: 0, overflow: 'hidden', touchAction: 'pan-y',
+    <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0 }}>
+      <div className="ax-heroin" style={{ flex: 1, minHeight: 0, overflow: 'hidden', touchAction: 'pan-y',
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
         // mobile: opaque bg + no backdrop-filter so the swipe transform stays smooth
         // (animating a transform over a backdrop-filter re-samples the blur each frame)

@@ -30,4 +30,18 @@ For each pick produce:
 Write `pipeline/cards.json` per the README schema (same order as selected.json).
 Do NOT invent facts beyond the excerpt; keep claims supported by the source.
 
+**Korean voice — humanize (REQUIRED).** All Korean you produce (`headline`, `body`,
+and the `full` article paragraphs below) must read like a calm Korean editor wrote it,
+not a machine translation. Apply the **humanize-korean** methodology (plugin refs:
+`humanize-korean/references/quick-rules.md` + `rewriting-playbook.md`) — strip 번역투,
+과도 피동, 균일 리듬, 접속사 남발, 상투적 마무리. Style/rhythm only; never change facts,
+numbers, quotes, or names.
+
+**Full article (REQUIRED) — `card.full`.** Besides the summary `body`, attach the
+source article translated into Korean for the card's flip-back view:
+`full = {"mode":"full"|"summary","blocks":[{"t":"p","x":"한국어"}|{"t":"img","src":"abs-url"}|{"t":"video","yt":"id"}]}`.
+Mirror the article's structure (interleave its in-body images + any embedded videos),
+cap to a fixed box (≤~1600 Korean chars, ≤4 images, ≤1 video) — full if it fits, else a
+Korean summary that fits (`mode:"summary"`). Humanize these paragraphs too.
+
 Output: write the file, then reply with each card's headline, one per line.
