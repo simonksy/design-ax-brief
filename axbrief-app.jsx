@@ -68,7 +68,7 @@ if (!document.getElementById('ax-styles')) {
   .ax-heroin{animation:axheroin .6s cubic-bezier(.2,.8,.25,1);}
   /* ---- responsive shell ---- */
   .ax-shell{position:relative;z-index:1;max-width:1120px;margin:0 auto;padding:34px 40px 90px;box-sizing:border-box;}
-  .ax-hero-wrap{position:relative;width:480px;max-width:100%;height:680px;margin:6px auto 0;}
+  .ax-hero-wrap{position:relative;width:480px;max-width:100%;height:760px;margin:6px auto 0;}
   @media (max-width:760px){
     .ax-shell{padding:16px 12px 56px;}
     /* content-driven height so the card NEVER clips its footer/source link */
