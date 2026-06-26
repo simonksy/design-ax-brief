@@ -74,7 +74,7 @@ if (!document.getElementById('ax-styles')) {
     /* FIXED pixel height on mobile — viewport units (svh/vh) change as the browser
        address bar shows/hides on scroll, which made the collapsed card grow. px is
        stable. The summary fits; the expanded full article is a separate flowing view. */
-    .ax-hero-wrap{width:100%;height:540px;margin:2px auto 0;}
+    .ax-hero-wrap{width:100%;height:580px;margin:2px auto 0;}
     /* Kill continuous GPU work on phones (was overheating the device): the SVG
        feTurbulence grain and every infinite drift/spin/pulse animation. The
        full-screen blurred+blended ThemeBackdrop is also not rendered on mobile. */
@@ -119,7 +119,7 @@ if (!document.getElementById('ax-styles')) {
      overflow:hidden;border-radius:inherit;}
   .ax-flip-back{transform:rotateY(180deg);display:flex;flex-direction:column;}
   /* full-article scroll region (the fixed text box) */
-  .ax-full{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:24px 26px 26px;}
+  .ax-full{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;padding:24px 26px 26px;}
   .ax-full::-webkit-scrollbar{width:8px;}
   .ax-full::-webkit-scrollbar-thumb{background:rgba(120,90,70,.22);border-radius:8px;}
   .ax-full p{margin:0 0 13px;}
@@ -133,9 +133,12 @@ if (!document.getElementById('ax-styles')) {
   .ax-bubble-out{animation:ax-bubble-out .2s cubic-bezier(.5,0,.7,1) forwards;transform-origin:center top;will-change:transform,opacity;}
   @keyframes ax-bubble-in{0%{transform:scale(.66);opacity:.2}42%{transform:scale(1.07)}68%{transform:scale(.975)}86%{transform:scale(1.012)}100%{transform:scale(1);opacity:1}}
   .ax-bubble-in{animation:ax-bubble-in .5s cubic-bezier(.22,1,.36,1) both;transform-origin:center top;will-change:transform,opacity;}
-  /* mobile full-article sheet entrance (springs up from the card) */
+  /* mobile full-article sheet entrance (springs up from the card). fill=backwards
+     (NOT both): once it ends the animation stops applying, so the inline transform we
+     drive during the over-scroll shrink isn't overridden by a lingering filled animation
+     (which is what blocked the shrink on iOS). */
   @keyframes ax-sheet-in{0%{transform:scale(.9);opacity:0}60%{transform:scale(1.012)}100%{transform:scale(1);opacity:1}}
-  .ax-sheet-in{animation:ax-sheet-in .34s cubic-bezier(.22,1,.36,1) both;}
+  .ax-sheet-in{animation:ax-sheet-in .34s cubic-bezier(.22,1,.36,1) backwards;}
   `;
   document.head.appendChild(s);
 }
@@ -405,18 +408,19 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
         {/* desktop pushes the source line to the card bottom; on mobile the card is
             content-height so the line simply follows the body (never clipped). */}
         <div style={{ flex: 1, minHeight: 14 }} />
-        {/* footer row: divider, then source link (left) + expand button (right), aligned */}
-        <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18,
-          display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
+        {/* footer: divider, source link, then a centered expand (+) button at the bottom */}
+        <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18 }}>
           <SourceLine item={it} t={t} />
           {onExpand && (
-            <button onClick={onExpand} aria-label="기사 전문 보기" title="기사 전문" style={{
-              flex: '0 0 auto', width: 30, height: 30, borderRadius: '50%', cursor: 'pointer',
-              display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-              fontFamily: 'var(--font-sans)', fontSize: 19, lineHeight: 1, fontWeight: 400,
-              background: t.hl, color: '#fff', border: 'none', transition: 'transform .15s ease' }}
-              onMouseDown={(e) => { e.currentTarget.style.transform = 'scale(.9)'; }}
-              onMouseUp={(e) => { e.currentTarget.style.transform = 'none'; }}>+</button>
+            <div style={{ display: 'flex', justifyContent: 'center', marginTop: 14 }}>
+              <button onClick={onExpand} aria-label="기사 전문 보기" title="기사 전문" style={{
+                width: 34, height: 34, borderRadius: '50%', cursor: 'pointer',
+                display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+                fontFamily: 'var(--font-sans)', fontSize: 21, lineHeight: 1, fontWeight: 400,
+                background: t.hl, color: '#fff', border: 'none', transition: 'transform .15s ease' }}
+                onMouseDown={(e) => { e.currentTarget.style.transform = 'scale(.9)'; }}
+                onMouseUp={(e) => { e.currentTarget.style.transform = 'none'; }}>+</button>
+            </div>
           )}
         </div>
       </div>
@@ -463,9 +467,9 @@ function FullArticle({ item, t, onClose }) {
         <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
           <SourceLine item={it} t={t} />
         </div>
-        {/* bottom-right close — so you don't have to scroll back up after reading */}
+        {/* bottom close (centered) — so you don't have to scroll back up after reading */}
         {onClose && (
-          <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: 16 }}>
+          <div style={{ display: 'flex', justifyContent: 'center', marginTop: 18 }}>
             <button onClick={onClose} aria-label="닫기" title="닫기" style={{
               width: 32, height: 32, borderRadius: '50%', cursor: 'pointer',
               display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
@@ -999,7 +1003,7 @@ function MobileArticle({ item, t, onClose }) {
     return () => { sc.removeEventListener('touchstart', onStart); sc.removeEventListener('touchmove', onMove); sc.removeEventListener('touchend', onEnd); };
   }, []);
   return (
-    <div ref={sheetRef} className="ax-sheet-in" style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, zIndex: 200,
+    <div ref={sheetRef} style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, zIndex: 200,
       background: t.cardSolid || t.cardBg, display: 'flex', flexDirection: 'column',
       transformOrigin: 'top center', willChange: 'transform,opacity' }}>
       <FullArticle item={item} t={t} onClose={collapse} />
