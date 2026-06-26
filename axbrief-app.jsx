@@ -118,11 +118,6 @@ if (!document.getElementById('ax-styles')) {
   .ax-flip-face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
      overflow:hidden;border-radius:inherit;}
   .ax-flip-back{transform:rotateY(180deg);display:flex;flex-direction:column;}
-  /* + open / close buttons */
-  .ax-flip-btn{position:absolute;bottom:16px;right:16px;z-index:6;width:38px;height:38px;border-radius:50%;
-     display:inline-flex;align-items:center;justify-content:center;cursor:pointer;font-size:22px;line-height:1;
-     font-family:var(--font-sans);font-weight:400;transition:transform .15s ease,background .2s ease;}
-  .ax-flip-btn:active{transform:scale(.9);}
   /* full-article scroll region (the fixed text box) */
   .ax-full{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:24px 26px 26px;}
   .ax-full::-webkit-scrollbar{width:8px;}
@@ -380,7 +375,7 @@ function axEnrich(item) {
    LAYOUT A — Editorial, vertical, FULL-BLEED (frame lives on the
    carousel window so swiping never reveals corner gaps)
    ============================================================ */
-function LayoutEditorial({ item, index, total, active, t, mobile }) {
+function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
   const it = axEnrich(item);
   return (
     <div style={{ height: mobile ? 'auto' : '100%', display: 'flex', flexDirection: 'column', overflow: mobile ? 'visible' : 'hidden' }}>
@@ -400,8 +395,19 @@ function LayoutEditorial({ item, index, total, active, t, mobile }) {
         {/* desktop pushes the source line to the card bottom; on mobile the card is
             content-height so the line simply follows the body (never clipped). */}
         {!mobile && <div style={{ flex: 1, minHeight: 14 }} />}
-        <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18 }}>
+        {/* footer row: divider, then source link (left) + expand button (right), aligned */}
+        <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18,
+          display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
           <SourceLine item={it} t={t} />
+          {onExpand && (
+            <button onClick={onExpand} aria-label="기사 전문 보기" title="기사 전문" style={{
+              flex: '0 0 auto', width: 30, height: 30, borderRadius: '50%', cursor: 'pointer',
+              display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+              fontFamily: 'var(--font-sans)', fontSize: 19, lineHeight: 1, fontWeight: 400,
+              background: t.hl, color: '#fff', border: 'none', transition: 'transform .15s ease' }}
+              onMouseDown={(e) => { e.currentTarget.style.transform = 'scale(.9)'; }}
+              onMouseUp={(e) => { e.currentTarget.style.transform = 'none'; }}>+</button>
+          )}
         </div>
       </div>
     </div>
@@ -410,17 +416,27 @@ function LayoutEditorial({ item, index, total, active, t, mobile }) {
 
 /* ---- FullArticle: the flip back — Korean-translated article (text+img+video),
    capped to a fixed scroll box (full if it fits, else a summary that fits). ---- */
-function FullArticle({ item, t }) {
+function FullArticle({ item, t, onClose }) {
   const it = axEnrich(item);
   const full = item.full || { blocks: [] };
   const blocks = full.blocks || [];
   return (
     <React.Fragment>
-      <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
-        <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
-          {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {full.mode === 'summary' ? '요약본(번역)' : '전문(번역)'}</span>
+      <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}`,
+        display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 }}>
+        <div style={{ minWidth: 0 }}>
+          <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
+            {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {full.mode === 'summary' ? '요약본(번역)' : '전문(번역)'}</span>
+          </div>
+          <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
-        <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
+        {onClose && (
+          <button onClick={onClose} aria-label="요약으로 닫기" title="닫기" style={{
+            flex: '0 0 auto', width: 30, height: 30, borderRadius: '50%', cursor: 'pointer', marginTop: 1,
+            display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+            fontFamily: 'var(--font-sans)', fontSize: 18, lineHeight: 1, fontWeight: 400,
+            background: 'transparent', color: t.mute, border: `1px solid ${t.rule}` }}>×</button>
+        )}
       </div>
       <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62 }}>
         {blocks.map((b, i) => {
@@ -457,14 +473,11 @@ function FlipCard({ item, index, total, active, t, mobile }) {
     <div className="ax-flip-wrap">
       <div className={'ax-flip' + (flipped ? ' flipped' : '')}>
         <div className="ax-flip-face">
-          <LayoutEditorial item={item} index={index} total={total} active={active && !flipped} t={t} mobile={mobile} />
-          <button className="ax-flip-btn" onClick={() => setFlipped(true)} aria-label="기사 전문 보기"
-            style={{ background: t.hl, color: '#fff', border: 'none', boxShadow: '0 6px 18px -6px rgba(0,0,0,.4)' }}>+</button>
+          <LayoutEditorial item={item} index={index} total={total} active={active && !flipped} t={t} mobile={mobile}
+            onExpand={() => setFlipped(true)} />
         </div>
         <div className="ax-flip-face ax-flip-back" style={{ background: t.cardSolid || t.cardBg }}>
-          <FullArticle item={item} t={t} />
-          <button className="ax-flip-btn" onClick={() => setFlipped(false)} aria-label="요약으로 닫기"
-            style={{ background: t.cardSolid || '#fff', color: t.mute, border: `1px solid ${t.rule}` }}>×</button>
+          <FullArticle item={item} t={t} onClose={() => setFlipped(false)} />
         </div>
       </div>
     </div>
