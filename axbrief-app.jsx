@@ -71,9 +71,10 @@ if (!document.getElementById('ax-styles')) {
   .ax-hero-wrap{position:relative;width:480px;max-width:100%;height:760px;margin:6px auto 0;}
   @media (max-width:760px){
     .ax-shell{padding:16px 12px 56px;}
-    /* fixed height (sized to the viewport) so the flip's front/back faces share a
-       footprint on mobile too; the summary fits and the full-article back scrolls. */
-    .ax-hero-wrap{width:100%;height:min(640px,84svh);margin:2px auto 0;}
+    /* FIXED pixel height on mobile — viewport units (svh/vh) change as the browser
+       address bar shows/hides on scroll, which made the collapsed card grow. px is
+       stable. The summary fits; the expanded full article is a separate flowing view. */
+    .ax-hero-wrap{width:100%;height:540px;margin:2px auto 0;}
     /* Kill continuous GPU work on phones (was overheating the device): the SVG
        feTurbulence grain and every infinite drift/spin/pulse animation. The
        full-screen blurred+blended ThemeBackdrop is also not rendered on mobile. */
@@ -461,10 +462,16 @@ function FullArticle({ item, t, onClose }) {
    to the FullArticle back. Desktop-first (the back uses absolute faces that need a
    fixed-height card; on mobile, where the hero is content-height, fall back to the
    plain summary card for now). ---- */
-function FlipCard({ item, index, total, active, t, mobile }) {
+function FlipCard({ item, index, total, active, t, mobile, onMobileExpand }) {
   const [flipped, setFlipped] = useState(false);
   useEffect(() => { if (!active) setFlipped(false); }, [active]);
   const hasFull = item.full && Array.isArray(item.full.blocks) && item.full.blocks.length > 0;
+  if (mobile) {
+    // mobile: the + button expands the card inline (full article flows, page scrolls);
+    // ThemedPage owns that state. No 3D flip on touch.
+    return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile
+      onExpand={hasFull && onMobileExpand ? () => onMobileExpand(item) : undefined} />;
+  }
   if (!hasFull) {
     return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
   }
@@ -507,7 +514,7 @@ function NavButton({ dir, disabled, onClick, t }) {
    Frame (radius/border/shadow/glass) lives on the window so the
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
-function Carousel({ items, t, initialIndex = 0, mobile }) {
+function Carousel({ items, t, initialIndex = 0, mobile, onMobileExpand }) {
   const [idx, setIdx] = useState(initialIndex);
   const idxRef = useRef(initialIndex);
   const trackRef = useRef(null);
@@ -550,7 +557,7 @@ function Carousel({ items, t, initialIndex = 0, mobile }) {
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} onMobileExpand={onMobileExpand} />
             </div>
           ))}
         </div>
@@ -682,13 +689,18 @@ function MorphingTitle({ texts, color, fontSize = 56, width = 360, height = 72 }
 }
 
 /* ---- masthead ---- */
-function Masthead({ t, mobile }) {
+function Masthead({ t, mobile, onHome }) {
   const d = new Date();
   const ds = `${String(d.getFullYear()).slice(2)}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 12 : 20 }}>
-      <MorphingTitle texts={['AX-it', 'DESIGN', 'NOW']} color={t.hl}
-        fontSize={mobile ? 42 : 56} width={mobile ? 300 : 360} height={mobile ? 56 : 72} />
+      {/* logo → home */}
+      <div role="button" tabIndex={0} aria-label="홈으로" onClick={onHome}
+        onKeyDown={(e) => { if (onHome && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); onHome(); } }}
+        style={{ cursor: onHome ? 'pointer' : 'default' }}>
+        <MorphingTitle texts={['AX-it', 'DESIGN', 'NOW']} color={t.hl}
+          fontSize={mobile ? 42 : 56} width={mobile ? 300 : 360} height={mobile ? 56 : 72} />
+      </div>
       <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 5 : 8 }}>Daily Brief · {ds}</div>
     </div>
   );
@@ -910,6 +922,33 @@ function MobileFilmstrip({ t, onOpen, days }) {
   );
 }
 
+/* ---- MobileArticle: mobile expand view — the full article flows inline (the card
+   grows to its length, the PAGE scrolls). Collapse via X, or by over-swiping past the
+   top (pull down) or the bottom (push up). No horizontal card nav while reading. ---- */
+function MobileArticle({ item, t, onClose }) {
+  const ref = useRef();
+  const startY = useRef(0);
+  useEffect(() => { if (ref.current) ref.current.scrollIntoView({ block: 'start' }); }, []);
+  const onTouchStart = (e) => { startY.current = e.touches[0].clientY; };
+  const onTouchEnd = (e) => {
+    const el = ref.current; if (!el) return;
+    const dy = e.changedTouches[0].clientY - startY.current;
+    const top = el.offsetTop, bottom = top + el.offsetHeight;
+    const atTop = window.scrollY <= top + 8;
+    const atBottom = (window.scrollY + window.innerHeight) >= bottom - 8;
+    if (atTop && dy > 90) onClose();             // pulled down past the top
+    else if (atBottom && dy < -90) onClose();    // pushed up past the bottom
+  };
+  return (
+    <div ref={ref} onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
+      style={{ maxWidth: 480, margin: '2px auto 0', background: t.cardSolid || t.cardBg,
+        border: t.cardBorder, borderRadius: t.radius, overflow: 'hidden', boxShadow: t.cardShadow,
+        display: 'flex', flexDirection: 'column' }}>
+      <FullArticle item={item} t={t} onClose={onClose} />
+    </div>
+  );
+}
+
 /* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck ---- */
 function SectionTabs({ sections, order, active, onSelect, t }) {
   return (
@@ -941,6 +980,7 @@ function ThemedPage({ themeKey }) {
   const heroRef = useRef();
   const [hero, setHero] = useState(() => ({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: 0, day: null }));
   const [intro, setIntro] = useState(null);
+  const [expanded, setExpanded] = useState(null);   // mobile: the card whose full article is open
   // Pre-decode this section's images so swiping/scrolling never shows a blank tile.
   useEffect(() => {
     let alive = true;
@@ -958,18 +998,25 @@ function ThemedPage({ themeKey }) {
   };
   const switchSection = (s) => {
     if (s === section) return;
-    setSection(s); setIntro(null);
+    setSection(s); setIntro(null); setExpanded(null);
     setHero({ items: (sections[s] || { news: [] }).news, index: 0, key: Date.now(), day: null });
   };
   const openDay = (day, cardIdx) => {
+    setExpanded(null);
     setHero({ items: day.cards, index: cardIdx, key: Date.now(), day });
     setIntro({ day, cardIdx, k: Date.now() });
     scrollToHero();
   };
   const backToToday = () => {
-    setIntro(null);
+    setIntro(null); setExpanded(null);
     setHero({ items: cur.news, index: 0, key: Date.now(), day: null });
     scrollToHero();
+  };
+  // logo → home: reset to the first section's today and scroll to the top.
+  const goHome = () => {
+    setSection(order[0] || 'design'); setIntro(null); setExpanded(null);
+    setHero({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: Date.now(), day: null });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
   const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
   const hasNews = (cur.news || []).length > 0;
@@ -980,10 +1027,10 @@ function ThemedPage({ themeKey }) {
           falls back to the cheap static briefBg gradient on the root. */}
       {!isMobile && <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>}
       <div className="ax-shell">
-        <Masthead t={t} mobile={isMobile} />
+        <Masthead t={t} mobile={isMobile} onHome={goHome} />
         <SectionTabs sections={sections} order={order} active={section} onSelect={switchSection} t={t} />
         {/* back-to-today control — rendered only while viewing a past day. */}
-        {hero.day && (
+        {hero.day && !(isMobile && expanded) && (
           <div style={{ marginTop: 2, marginBottom: 2, textAlign: 'center' }}>
             <button onClick={backToToday} className="ax-eyebrow" style={{ cursor: 'pointer',
               border: t.cardBorder, background: t.cardBg, color: t.hl, padding: '7px 15px', borderRadius: 100,
@@ -993,11 +1040,14 @@ function ThemedPage({ themeKey }) {
             </button>
           </div>
         )}
-        {hasNews ? (
+        {isMobile && expanded ? (
+          /* mobile: full article expanded inline (card grows; page scrolls) */
+          <MobileArticle item={expanded} t={t} onClose={() => setExpanded(null)} />
+        ) : hasNews ? (
           <React.Fragment>
             {/* HERO — centered vertical card */}
             <div ref={heroRef} className="ax-hero-wrap">
-              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} />
+              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} onMobileExpand={setExpanded} />
               {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} onDone={() => setIntro(null)} />}
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
@@ -1018,4 +1068,4 @@ function ThemedPage({ themeKey }) {
   );
 }
 
-Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, SectionTabs, ThemedPage });
+Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, FlipCard, FullArticle, MobileArticle, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, SectionTabs, ThemedPage });
