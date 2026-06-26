@@ -126,11 +126,13 @@ if (!document.getElementById('ax-styles')) {
   .ax-full img{display:block;width:100%;height:auto;border-radius:12px;margin:6px 0 16px;background:#efe9e1;}
   .ax-full .ax-vid{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;margin:6px 0 16px;background:#000;}
   .ax-full .ax-vid iframe,.ax-full .ax-vid video{position:absolute;inset:0;width:100%;height:100%;border:0;}
-  /* bouncy "bubble" collapse: expanded article shrinks away, summary card pops back */
-  @keyframes ax-bubble-out{0%{transform:scale(1);opacity:1}26%{transform:scale(1.035)}100%{transform:scale(.62);opacity:0}}
-  .ax-bubble-out{animation:ax-bubble-out .3s cubic-bezier(.34,1.56,.64,1) forwards;transform-origin:center top;will-change:transform,opacity;}
-  @keyframes ax-bubble-in{0%{transform:scale(.8);opacity:.25}58%{transform:scale(1.045)}100%{transform:scale(1);opacity:1}}
-  .ax-bubble-in{animation:ax-bubble-in .36s cubic-bezier(.34,1.56,.64,1) both;transform-origin:center top;}
+  /* Dynamic-Island-style collapse: the expanded article squishes down and the summary
+     card springs back with a settle bounce. The out anticipates (tiny grow) then
+     shrinks; the in overshoots then settles. */
+  @keyframes ax-bubble-out{0%{transform:scale(1);opacity:1}16%{transform:scale(1.04)}100%{transform:scale(.46);opacity:0}}
+  .ax-bubble-out{animation:ax-bubble-out .2s cubic-bezier(.5,0,.7,1) forwards;transform-origin:center top;will-change:transform,opacity;}
+  @keyframes ax-bubble-in{0%{transform:scale(.66);opacity:.2}42%{transform:scale(1.07)}68%{transform:scale(.975)}86%{transform:scale(1.012)}100%{transform:scale(1);opacity:1}}
+  .ax-bubble-in{animation:ax-bubble-in .5s cubic-bezier(.22,1,.36,1) both;transform-origin:center top;will-change:transform,opacity;}
   `;
   document.head.appendChild(s);
 }
@@ -935,8 +937,9 @@ function MobileArticle({ item, t, onClose }) {
   const startY = useRef(0);
   const [closing, setClosing] = useState(false);
   const edge = useRef({ top: false, bottom: false });
-  // play the bouncy bubble-shrink, THEN actually collapse
-  const close = () => { if (closing) return; setClosing(true); setTimeout(onClose, 290); };
+  // play the bouncy bubble-shrink, THEN hand off to the card's spring-in (timed to
+  // overlap so it reads as one continuous morph, like the Dynamic Island)
+  const close = () => { if (closing) return; setClosing(true); setTimeout(onClose, 200); };
   useEffect(() => { if (ref.current) ref.current.scrollIntoView({ block: 'start' }); }, []);
   const onTouchStart = (e) => {
     startY.current = e.touches[0].clientY;
@@ -951,9 +954,9 @@ function MobileArticle({ item, t, onClose }) {
   const onTouchEnd = (e) => {
     if (closing) return;
     const dy = e.changedTouches[0].clientY - startY.current;
-    const BUF = 130;                            // need a deliberate over-pull, not a normal swipe
-    if (edge.current.top && dy > BUF) close();          // at the top, pulled down hard
-    else if (edge.current.bottom && dy < -BUF) close();  // at the bottom, pushed up hard
+    // top edge is easier to dismiss (shorter pull); bottom needs a firmer push.
+    if (edge.current.top && dy > 80) close();            // at the top, pulled down
+    else if (edge.current.bottom && dy < -130) close();   // at the bottom, pushed up
   };
   return (
     <div ref={ref} className={closing ? 'ax-bubble-out' : ''} onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}
