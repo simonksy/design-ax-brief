@@ -9,7 +9,7 @@
         "id": "spatialgen-zeus",
         "eyebrow": "AI NEWS",
         "headline": "스페이셜젠 제우스, 비전 프로로\n실시간 몰입형 영상을 보낸다",
-        "body": "스페이셜젠이 애플 이머시브 비디오를 실시간으로 받아 인코딩해 비전 프로로 내보내는 랙 장비 제우스를 선보였다. 라이브 몰입형 영상을 다루는 디자이너에게는 실시간 작업의 토대가 마련된 셈이다.",
+        "body": "스페이셜젠이 애플 이머시브 영상을 비전 프로로 실시간 송출하는 제우스를 공개했다.",
         "tool": "VR Prototype",
         "source": "UploadVR",
         "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
@@ -76,7 +76,7 @@
         "id": "meta-starfire",
         "eyebrow": "AI NEWS",
         "headline": "메타, 카일리 제너와 만든\n'스타파이어' 스마트 글래스 공개",
-        "body": "메타가 카일리 제너와 함께 디자인한 스타파이어 스마트 글래스를 선보였다. 핵심 사양은 레이밴 메타 2세대와 같지만 외형을 한껏 다듬어, 프리미엄 스마트 글래스 디자인이 향하는 방향을 보여준다.",
+        "body": "메타가 카일리 제너와 외형을 한껏 다듬은 스마트 글래스 스타파이어를 선보였다.",
         "tool": "VR Prototype",
         "source": "UploadVR",
         "url": "https://www.uploadvr.com/meta-starfire-smart-glasses-kylie-jenner-designed/",
@@ -129,7 +129,7 @@
         "id": "ai-creative-divide",
         "eyebrow": "AI NEWS",
         "headline": "AI는 창작자 사이에\n새로운 격차를 만들고 있나",
-        "body": "창작자의 52%가 이미 업무에 생성형 AI를 쓰지만, 도입은 위험을 감당할 여력이 있는 쪽으로 쏠린다. 의견 대립을 넘어 접근성과 지식을 둘러싼 새로운 격차가 벌어진다는 진단이다.",
+        "body": "창작자 절반이 생성형 AI를 쓰지만 도입이 쏠리며 접근성과 지식의 격차가 벌어진다.",
         "tool": "Figma",
         "source": "Creative Bloq",
         "url": "https://www.creativebloq.com/ai/is-ai-creating-a-divide-among-creatives",
@@ -180,7 +180,7 @@
         "id": "dataland-museum",
         "eyebrow": "AI NEWS",
         "headline": "세계 첫 AI 미술관 데이터랜드,\n무엇이 담겼나",
-        "body": "레픽 아나돌과 엡순 에르킬리치가 세운 데이터랜드가 다섯 개 전시실 규모로 문을 열었다. 생성형 AI가 실시간으로 빚어내는 '살아 있는' 작품으로, AI를 매체로 다루는 새 기준점을 제시한다.",
+        "body": "레픽 아나돌의 세계 첫 AI 미술관 데이터랜드가 실시간 생성 작품으로 문을 열었다.",
         "tool": "Figma",
         "source": "Creative Bloq",
         "url": "https://www.creativebloq.com/ai/whats-actually-in-the-worlds-first-ai-art-museum",
@@ -236,7 +236,7 @@
         "id": "miris-configurator",
         "eyebrow": "AI NEWS",
         "headline": "미리스, 클라우드 GPU 없이\n웹 자동차 컨피규레이터를 구현하다",
-        "body": "미리스가 클라우드 GPU나 픽셀 스트리밍 없이 HDR급 소재 품질을 구현하는 웹XR 자동차 컨피규레이터를 만들었다. 클라우드 렌더링에 기대지 않는 인터랙티브 제품 시각화의 가벼운 길을 보여준다.",
+        "body": "미리스가 클라우드 GPU 없이 도는 웹XR 자동차 컨피규레이터를 선보였다.",
         "tool": "KeyShot",
         "source": "80 Level",
         "url": "https://80.lv/articles/miris-built-a-car-configurator-without-pixel-streaming-heres-what-they-found",
@@ -272,7 +272,8 @@
             "source": "TechCrunch",
             "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
             "accent": "#ff5a4d",
-            "image": "pipeline/media/firefly.jpeg"
+            "image": "pipeline/media/firefly.jpeg",
+            "body": "어도비 파이어플라이 어시스턴트가 프리미어와 일러스트, 인디자인까지 넓혀진다."
           },
           {
             "tool": "AI Workflow",
@@ -280,21 +281,24 @@
             "source": "Engadget",
             "url": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent/",
             "accent": "#3b6bff",
-            "image": "pipeline/media/claude-design.jpg"
+            "image": "pipeline/media/claude-design.jpg",
+            "body": "클로드 디자인이 코딩 에이전트와 이어져 구현까지 한 흐름으로 연결된다."
           },
           {
             "tool": "Figma",
             "headline": "피그마 디자인 에이전트가 이제 웹을 검색한다",
             "source": "Figma",
             "url": "https://www.figma.com/release-notes/",
-            "accent": "#0070f3"
+            "accent": "#0070f3",
+            "body": "피그마 디자인 에이전트가 이제 웹을 검색해 자료를 작업에 끌어온다."
           },
           {
             "tool": "Design Tokens",
             "headline": "프로토타입과 코드를 오가는 양방향 핸드오프",
             "source": "BigGo Finance",
             "url": "https://finance.biggo.com/news/4535a14d-ea20-4047-9b2d-166397850c7c",
-            "accent": "#2ec5c5"
+            "accent": "#2ec5c5",
+            "body": "프로토타입과 코드를 양방향으로 오가는 핸드오프가 새로 생겼다."
           },
           {
             "tool": "KeyShot",
@@ -302,7 +306,8 @@
             "source": "CG Channel",
             "url": "https://www.cgchannel.com/2026/06/10-things-cg-artists-need-to-know-about-unreal-engine-6/",
             "accent": "#f5a623",
-            "image": "pipeline/media/ue6-mcp.jpg"
+            "image": "pipeline/media/ue6-mcp.jpg",
+            "body": "언리얼 엔진 6가 MCP를 받아들여 AI 도구를 엔진 안으로 끌어들인다."
           }
         ]
       },
@@ -315,7 +320,8 @@
             "source": "CG Channel",
             "url": "https://www.cgchannel.com/2026/06/unity-releases-unity-6-5-discover-5-key-features-for-cg-artists/",
             "accent": "#f5a623",
-            "image": "pipeline/media/unity65.jpg"
+            "image": "pipeline/media/unity65.jpg",
+            "body": "유니티 6.5가 렌더 노이즈 제거를 AI 기반 방식으로 교체한다."
           },
           {
             "tool": "KeyShot",
@@ -323,7 +329,8 @@
             "source": "TechCrunch",
             "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
             "accent": "#3b6bff",
-            "image": "pipeline/media/deepmind-a24.jpg"
+            "image": "pipeline/media/deepmind-a24.jpg",
+            "body": "딥마인드가 영화사 A24와 손잡고 영화 제작용 AI 도구를 만든다."
           },
           {
             "tool": "AI Workflow",
@@ -331,7 +338,8 @@
             "source": "Engadget",
             "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
             "accent": "#ff5a4d",
-            "image": "pipeline/media/openai-getty.jpg"
+            "image": "pipeline/media/openai-getty.jpg",
+            "body": "챗GPT 안에서 게티이미지의 라이선스 이미지를 바로 쓸 수 있게 된다."
           },
           {
             "tool": "Design Tokens",
@@ -339,7 +347,8 @@
             "source": "TechCrunch",
             "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
             "accent": "#2ec5c5",
-            "image": "pipeline/media/claude-id.jpg"
+            "image": "pipeline/media/claude-id.jpg",
+            "body": "클로드가 민감한 작업에서 사용자에게 신원 확인을 요구할 수 있다."
           },
           {
             "tool": "VR Prototype",
@@ -347,7 +356,8 @@
             "source": "TechCrunch",
             "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
             "accent": "#eb367f",
-            "image": "pipeline/media/ios27-ai.jpg"
+            "image": "pipeline/media/ios27-ai.jpg",
+            "body": "iOS 27이 시리 너머로 기기에서 도는 온디바이스 AI를 들여온다."
           }
         ]
       },
@@ -360,7 +370,8 @@
             "source": "CG Channel",
             "url": "https://www.cgchannel.com/2026/06/autodesk-releases-arnold-7-5-2-with-support-for-gaussian-splatting/",
             "accent": "#f5a623",
-            "image": "pipeline/media/arnold-splat.jpg"
+            "image": "pipeline/media/arnold-splat.jpg",
+            "body": "아놀드 7.5.2가 가우시안 스플랫을 렌더 파이프라인에 들여온다."
           },
           {
             "tool": "Figma",
@@ -368,7 +379,8 @@
             "source": "Vercel",
             "url": "https://vercel.com/changelog/claude-design-and-vercel",
             "accent": "#0070f3",
-            "image": "pipeline/media/claude-design-vercel.png"
+            "image": "pipeline/media/claude-design-vercel.png",
+            "body": "클로드 디자인에서 만든 결과물을 곧장 버셀로 배포할 수 있게 된다."
           },
           {
             "tool": "KeyShot",
@@ -376,7 +388,8 @@
             "source": "VentureBeat",
             "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
             "accent": "#3b6bff",
-            "image": "pipeline/media/alibaba-video.webp"
+            "image": "pipeline/media/alibaba-video.webp",
+            "body": "알리바바의 영상 생성 모델이 글로벌 순위에서 2위까지 올라섰다."
           },
           {
             "tool": "AI Workflow",
@@ -384,7 +397,8 @@
             "source": "TechCrunch",
             "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
             "accent": "#ff5a4d",
-            "image": "pipeline/media/loopy-ai.jpg"
+            "image": "pipeline/media/loopy-ai.jpg",
+            "body": "스스로 루프를 도는 AI 에이전트가 기존 워크플로의 전제를 흔든다."
           },
           {
             "tool": "AI Workflow",
@@ -392,7 +406,8 @@
             "source": "TechCrunch",
             "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
             "accent": "#7928ca",
-            "image": "pipeline/media/patch-the-planet.jpg"
+            "image": "pipeline/media/patch-the-planet.jpg",
+            "body": "오픈AI가 오픈소스 버그를 AI로 찾아내는 프로젝트를 시작한다."
           }
         ]
       },
@@ -441,7 +456,8 @@
                   "x": "셰이더는 이제 에이전트가 만든다. 원하는 바를 설명하거나 이미지를 참조로 주면 맞춤 셰이더가 나오고, 파라미터는 캔버스에서 바로 조절하거나 다른 효과와 겹쳐 쌓을 수 있다. 개발 환경이나 플러그인 API 지식이 없어도 동작과 컨트롤을 설명하는 것만으로 맞춤 도구를 만드는 생성형 플러그인, 노드 기반으로 모델을 잇고 에셋을 변형하는 Weave 도구도 새로 들어왔다. 에이전트에는 재사용 가능한 Skills, Notion·Slack·GitHub 등과 연결되는 Connectors, 첨부 지원이 붙었고 FigJam과 Slides로 확장된다. 필드는 \"오직 당신만이 만들 수 있는 것을 만들라\"는 말로 발표를 닫았다."
                 }
               ]
-            }
+            },
+            "body": "피그마 콘피그 2026에서 모션과 코드 레이어가 캔버스 안으로 들어왔다."
           },
           {
             "tool": "KeyShot",
@@ -479,7 +495,8 @@
                   "x": "출시일은 아직 확정되지 않았다. 다만 Houdini의 역대 출시 패턴으로 보면 7월 중순이 유력하다."
                 }
               ]
-            }
+            },
+            "body": "후디니 22가 가우시안 스플랫과 머신러닝 리깅을 절차적으로 다룬다."
           },
           {
             "tool": "KeyShot",
@@ -513,7 +530,8 @@
                   "x": "케이시 쉽은 Cloud Paint V2로 만든 작품을 공유하며 도구를 어디까지 쓸 수 있는지 보여 줬다. 스타일라이즈드 잔디 에셋 라이브러리 GrassPaint의 V2 업데이트도 개발 중이라고 했다."
                 }
               ]
-            }
+            },
+            "body": "클라우드 페인트 V2로 뷰포트에서 구름을 직접 칠해 그려 넣는다."
           },
           {
             "tool": "Social",
@@ -538,7 +556,8 @@
                   "x": "단순한 노트 앱을 넘어, AI 에이전트가 파일 시스템을 뒤지며 노트를 만들고 분류하고 서로 이어 검색 가능한 지식 베이스로 키워 나가는 방법을 단계별로 보여 준다. 개인 지식 관리(PKM)에 AI 에이전트를 접목하려는 이들에게 쓸 만한 출발점이다."
                 }
               ]
-            }
+            },
+            "body": "클로드 코드로 옵시디언에 메모를 엮어 두 번째 뇌를 만들어 간다."
           },
           {
             "tool": "Social",
@@ -563,7 +582,8 @@
                   "x": "대화는 AI 에이전트가 단순 자동화를 넘어 업무 프로세스 자체를 바꾸고, 사람과 협업하며 기업의 일하는 방식과 인력 구성까지 다시 그리는 흐름을 짚는다. 기술 도입에서 멈추지 않고 조직과 워크포스가 어떻게 적응해야 할지에 대한 관점도 내놓는다."
                 }
               ]
-            }
+            },
+            "body": "AI 에이전트가 일하는 방식과 조직의 구조를 새로 짜기 시작한다."
           }
         ]
       },
@@ -576,7 +596,8 @@
             "source": "VentureBeat",
             "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
             "accent": "#f5a623",
-            "image": "pipeline/media/krea2.png"
+            "image": "pipeline/media/krea2.png",
+            "body": "크레아 2가 오픈웨이트로 풀려 2초 만에 고품질 이미지를 만든다."
           },
           {
             "tool": "Adobe",
@@ -584,7 +605,8 @@
             "source": "TechCrunch",
             "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
             "accent": "#ff5a4d",
-            "image": "pipeline/media/adobe-topaz.jpg"
+            "image": "pipeline/media/adobe-topaz.jpg",
+            "body": "어도비가 토파즈 랩스를 인수해 그 기술을 파이어플라이에 통합한다."
           },
           {
             "tool": "Anthropic",
@@ -592,7 +614,8 @@
             "source": "TechCrunch",
             "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
             "accent": "#3b6bff",
-            "image": "pipeline/media/claude-tag.png"
+            "image": "pipeline/media/claude-tag.png",
+            "body": "클로드 태그가 슬랙에 상주하는 상시 AI 팀원으로 함께 일한다."
           }
         ]
       }
@@ -605,7 +628,7 @@
         "id": "vibe-coding-plugins",
         "eyebrow": "AI NEWS",
         "headline": "프롬프트로 오디오 플러그인을 만드는\n바이브 코딩 도구가 등장했다",
-        "body": "아모프와 플러그인메이커.ai 같은 도구가 자연어 설명만으로 VST·AU 플러그인을 만들어 준다. 복잡한 코딩 없이 프로듀서가 원하는 도구를 직접 찍어내는 '바이브 코딩' 작업 방식이 번지고 있다.",
+        "body": "아모프와 플러그인메이커.ai가 자연어 설명만으로 VST·AU 플러그인을 만든다.",
         "tool": "Amorph",
         "source": "MusicRadar",
         "url": "https://www.musicradar.com/music-tech/ai-prompt-plugins",
@@ -670,7 +693,7 @@
         "id": "ai-licensing-letter",
         "eyebrow": "AI NEWS",
         "headline": "AI 라이선스 계약, 아티스트 동의 없이\n밀어붙이지 말라는 경고",
-        "body": "전 세계 뮤지션·작곡가·매니저 연합이 음반사와 퍼블리셔의 AI 라이선스 방식에 반대하는 공개서한을 냈다. AI 기업엔 학습 동의를 요구하면서 정작 창작자에겐 같은 권리를 주지 않는다는 지적이다.",
+        "body": "전 세계 뮤지션 연합이 동의 없는 AI 라이선스 계약에 반대하는 공개서한을 냈다.",
         "tool": "AI Licensing",
         "source": "Billboard",
         "url": "https://www.billboard.com/pro/ai-music-deals-musicians-letter-artists-rights/",
@@ -709,7 +732,7 @@
         "id": "genome-intro-free",
         "eyebrow": "AI NEWS",
         "headline": "뉴럴 앰프 캡처를 한곳에서 돌리는\n무료 앰프·이펙트 묶음",
-        "body": "투 노츠가 무료 버전 지놈 인트로를 내놨다. CODEX라는 AI 앰프 재생 엔진으로 Neural Amp Modeller·AIDA-X·Proteus 캡처를 한 작업 공간에서 불러와 연주한다.",
+        "body": "투 노츠가 AI 앰프 엔진 CODEX로 캡처를 한곳에서 도는 무료 묶음을 냈다.",
         "tool": "Two Notes",
         "source": "Bedroom Producers Blog",
         "url": "https://bedroomproducersblog.com/2026/06/19/two-notes-audio-genome-intro/",
@@ -752,7 +775,7 @@
         "id": "apple-music-understanding",
         "eyebrow": "AI NEWS",
         "headline": "WWDC에서 공개된 애플의\n온디바이스 음악 분석 프레임워크",
-        "body": "애플이 WWDC 2026에서 음악 이해 프레임워크를 선보였다. 기기 안에서 오디오를 분석해 리듬·키·음량·페이스·구조·악기 활동 여섯 가지를 시간 정보와 함께 뽑아 음악 앱 개발자에게 건넨다.",
+        "body": "애플이 WWDC에서 기기 안 오디오를 분석하는 음악 이해 프레임워크를 선보였다.",
         "tool": "Apple",
         "source": "Synthtopia",
         "url": "https://www.synthtopia.com/content/2026/06/23/apple-intros-music-understanding-framework-at-wwdc/",
@@ -786,7 +809,7 @@
         "id": "ai-training-dataset-check",
         "eyebrow": "AI NEWS",
         "headline": "내 음악이 AI 학습에 쓰였는지\n무료로 확인하는 도구",
-        "body": "디 애틀랜틱이 만든 무료 검색 도구로 내 곡이 주요 AI 음악 학습 데이터셋에 들어 있는지 직접 찾아본다. 네 개 데이터셋에 수백만 곡이 담겼고, 동의 없이 긁어 간 경우도 적지 않다.",
+        "body": "디 애틀랜틱이 내 곡이 AI 음악 학습 데이터셋에 있는지 찾는 무료 도구를 냈다.",
         "tool": "The Atlantic",
         "source": "MusicTech",
         "url": "https://musictech.com/news/music/is-your-music-used-to-train-ai-tool/",
@@ -845,7 +868,8 @@
             "source": "YouTube",
             "url": "https://www.youtube.com/watch?v=DVspwYPHeNU",
             "accent": "#ff2d55",
-            "image": "pipeline/media/music-suno-songwriting.jpg"
+            "image": "pipeline/media/music-suno-songwriting.jpg",
+            "body": "수노로 더 나은 곡을 뽑아내는 작업 요령과 프롬프트 작성법을 소개한다."
           },
           {
             "tool": "Suno",
@@ -853,7 +877,8 @@
             "source": "Billboard",
             "url": "https://www.billboard.com/pro/suno-launches-artist-incubator/",
             "accent": "#ff2d55",
-            "image": "pipeline/media/music-suno-spark.jpg"
+            "image": "pipeline/media/music-suno-spark.jpg",
+            "body": "수노가 인디 음악 창작자를 지원하는 전용 인큐베이터를 새로 연다."
           },
           {
             "tool": "Modulate",
@@ -861,7 +886,8 @@
             "source": "Hypebot",
             "url": "https://www.hypebot.com/ai-generated-music-is-everywhere-detecting-it-just-got-a-little-less-daunting/",
             "accent": "#ff2d55",
-            "image": "pipeline/media/music-ai-music-detection.jpg"
+            "image": "pipeline/media/music-ai-music-detection.jpg",
+            "body": "모듈레이트가 AI로 만든 음악을 가려내는 식별 API를 개발자에게 공개한다."
           }
         ]
       }
@@ -874,7 +900,7 @@
         "id": "reallusion-iclone-personal",
         "eyebrow": "AI NEWS",
         "headline": "아이클론 퍼소널이 영구 무료로 풀리고\nAI 스튜디오도 정식 출시",
-        "body": "리얼루전이 30일 체험판을 없애고 아이클론 퍼소널을 시간 제한 없는 영구 무료 버전으로 풀었다. 같은 날 AI 스튜디오도 정식 출시되며 3D 작업과 생성형 AI를 잇는 무료 흐름이 갖춰졌다.",
+        "body": "리얼루전이 아이클론 퍼소널을 영구 무료로 풀고 AI 스튜디오도 정식 출시했다.",
         "tool": "Movies",
         "source": "befores & afters",
         "url": "https://beforesandafters.com/2026/06/26/reallusion-unlocks-limitless-creation-iclone-personal-debuts-alongside-ai-studio-official-launch/",
@@ -932,7 +958,7 @@
         "id": "curious-refuge-ai-partnership",
         "eyebrow": "AI NEWS",
         "headline": "구글이 A24와 손잡고\nAI 영화 제작 도구를 만든다",
-        "body": "큐리어스 리퓨지가 이번 주 AI 영화 소식을 정리했다. 구글이 7,500만 달러를 들여 A24와 스튜디오용 AI 제작 도구를 만들고, 시드댄스 2.0은 처음부터 네이티브 4K 영상을 내놓는다.",
+        "body": "구글이 7,500만 달러를 들여 A24와 AI 영화 제작 도구를 함께 만든다.",
         "tool": "Social",
         "source": "Curious Refuge",
         "url": "https://www.youtube.com/watch?v=72KEzohPvDc",
@@ -976,7 +1002,7 @@
         "id": "shanghai-2026-ai",
         "eyebrow": "AI NEWS",
         "headline": "신인 감독이 상하이 금작상을 휩쓸고\nAI가 제작 현장을 바꾼다",
-        "body": "제28회 상하이국제영화제는 신인 감독을 전면에 내세웠다. 미니맥스와 손잡고 워크숍과 쇼케이스로 생성형 AI를 깊숙이 끌어들였고, 한 회사는 AI로 120분 시대극을 7일 만에 찍었다.",
+        "body": "상하이국제영화제가 신인 감독을 앞세우고 미니맥스와 손잡아 생성형 AI를 끌어들였다.",
         "tool": "Movies",
         "source": "Variety",
         "url": "https://variety.com/2026/film/festivals/shanghai-2026-takeaways-debut-directors-ai-1236786902/",
@@ -1019,7 +1045,7 @@
         "id": "annecy-ai4animation",
         "eyebrow": "AI NEWS",
         "headline": "아네시가 AI 논의를 정면으로 다룬다\nAI4애니메이션 싱크탱크 가동",
-        "body": "아네시 애니메이션 영화제가 AI를 둘러싼 논의를 정면에 내세우며 하루짜리 싱크탱크 'AI4애니메이션'을 연다. 여기서 모은 이야기는 2029년 펴낼 애니메이션 AI 백서의 바탕이 된다.",
+        "body": "아네시 영화제가 AI 논의를 앞세워 하루짜리 싱크탱크 AI4애니메이션을 연다.",
         "tool": "Movies",
         "source": "Screen Daily",
         "url": "https://www.screendaily.com/features/how-annecy-is-welcoming-discussion-on-industry-topics-including-ai-canal/5217816.article",
@@ -1067,7 +1093,7 @@
         "id": "annecy-3cs-policy",
         "eyebrow": "AI NEWS",
         "headline": "프랑스 애니메이터들이 아네시에\nAI 방침을 분명히 하라 요구한다",
-        "body": "프랑스 애니메이터 단체가 아네시에 생성형 AI 운영 방침을 분명히 밝히라고 요구했다. 이들은 보상·통제·동의라는 '3C' 원칙을 들어 저작물을 AI 학습에 쓰는 문제를 정면으로 짚는다.",
+        "body": "프랑스 애니메이터 단체가 아네시에 생성형 AI 방침을 분명히 밝히라 요구했다.",
         "tool": "Movies",
         "source": "Animation Magazine",
         "url": "https://www.animationmagazine.net/2026/06/french-animators-group-demands-clarity-on-annecys-generative-ai-policy/",
@@ -1105,7 +1131,8 @@
             "source": "Variety",
             "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
             "accent": "#0070f3",
-            "image": "pipeline/media/movies-google-a24.jpg"
+            "image": "pipeline/media/movies-google-a24.jpg",
+            "body": "구글이 A24에 7,500만 달러를 들여 영화 제작용 AI 도구를 공동 개발한다."
           },
           {
             "tool": "OpenArt",
@@ -1113,7 +1140,8 @@
             "source": "The Hollywood Reporter",
             "url": "https://www.hollywoodreporter.com/business/digital/open-art-new-tool-model-ai-director-vibe-directing-1236628188/",
             "accent": "#0070f3",
-            "image": "pipeline/media/movies-openart-director.jpg"
+            "image": "pipeline/media/movies-openart-director.jpg",
+            "body": "오픈아트 디렉터로 프롬프트 없이 5분짜리 영화를 만들어 낸다."
           },
           {
             "tool": "Fountain 0",
@@ -1121,7 +1149,8 @@
             "source": "Variety",
             "url": "https://variety.com/2026/film/reviews/dreams-of-violets-review-ash-koosha-tribeca-festival-1236784209/",
             "accent": "#0070f3",
-            "image": "pipeline/media/movies-dreams-of-violets.png"
+            "image": "pipeline/media/movies-dreams-of-violets.png",
+            "body": "제작비 단 2천 달러로 만든 AI 장편이 트라이베카 영화제에서 처음 공개된다."
           },
           {
             "tool": "A24",
@@ -1129,7 +1158,8 @@
             "source": "The Hollywood Reporter",
             "url": "https://www.hollywoodreporter.com/business/digital/a24-cool-boycott-google-deepmind-ai-1236631106/",
             "accent": "#0070f3",
-            "image": "pipeline/media/movies-a24-backlash.jpg"
+            "image": "pipeline/media/movies-a24-backlash.jpg",
+            "body": "A24와 구글의 AI 제휴를 두고 팬덤이 실망하며 등을 돌리기 시작했다."
           }
         ]
       }
@@ -1142,7 +1172,7 @@
         "id": "pubg-ally",
         "eyebrow": "AI NEWS",
         "headline": "엔비디아 ACE가 움직이는 AI 동료\n펍지에 2주 베타로 합류",
-        "body": "크래프톤과 엔비디아가 펍지 듀오에 AI 팀원 'PUBG Ally'를 붙이는 베타를 6월 30일까지 연다. 기기에서 도는 소형 언어 모델로 말을 알아듣고 전리품을 주우며 한 팀으로 함께 싸운다.",
+        "body": "크래프톤과 엔비디아가 펍지에 함께 싸우는 AI 팀원 PUBG Ally 베타를 연다.",
         "tool": "PUBG Ally",
         "source": "Wccftech",
         "url": "https://wccftech.com/nvidia-ace-pubg-ally-ai-teammate-beta/",
@@ -1205,7 +1235,7 @@
         "id": "metahuman-ue58",
         "eyebrow": "AI NEWS",
         "headline": "카메라 한 대로 전신과 표정 캡처\n군중까지 채우는 UE5.8 메타휴먼",
-        "body": "언리얼 엔진 5.8 메타휴먼이 메시캐파데 기술을 쓴 마커리스 모션 캡처로 카메라 한 대만으로 얼굴과 몸 연기를 한 번에 따낸다. 실험 기능 컬렉션으로는 수천 명 규모의 군중까지 한꺼번에 채운다.",
+        "body": "언리얼 엔진 5.8 메타휴먼이 카메라 한 대로 전신과 표정을 함께 따낸다.",
         "tool": "MetaHuman",
         "source": "80 Level",
         "url": "https://80.lv/articles/populate-your-ue5-8-worlds-with-metahuman-crowds",
@@ -1256,7 +1286,7 @@
         "id": "devs-genai-pushback",
         "eyebrow": "AI NEWS",
         "headline": "게임 개발자들이 생성형 AI를\n선뜻 쓰지 않는 이유",
-        "body": "개발자 30여 명을 취재했더니 생성형 AI를 향한 평가는 압도적으로 부정적이었다. 표절과 환경 부담, 줄어드는 신입 자리에 더해 손으로 직접 만들고 싶은 마음이 거부의 바탕에 있었다.",
+        "body": "개발자 30여 명 취재 결과 표절과 환경 부담에 생성형 AI 평가가 부정적이었다.",
         "tool": "Generative AI",
         "source": "GamesRadar+",
         "url": "https://www.gamesradar.com/games/why-so-many-game-developers-dont-want-to-use-generative-ai/",
@@ -1318,7 +1348,7 @@
         "id": "general-intuition",
         "eyebrow": "AI NEWS",
         "headline": "게임 플레이로 현실의 로봇을\n가르친다는 23억 달러 베팅",
-        "body": "제너럴 인튜이션이 23억 달러 가치로 3억 2천만 달러를 유치했다. 메달에 쌓인 게임 플레이 데이터로 세계 모델을 학습시켜, 게임에서 익힌 공간 추론을 로봇과 현실로 옮기겠다는 구상이다.",
+        "body": "제너럴 인튜이션이 게임 데이터로 로봇을 가르치겠다며 23억 달러 가치로 투자받았다.",
         "tool": "General Intuition",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
@@ -1389,7 +1419,8 @@
             "source": "Game Developer",
             "url": "https://www.gamedeveloper.com/business/godot-confirms-it-tolerates-some-ai-assistance-but-rejects-vibe-coded-accusations",
             "accent": "#7928ca",
-            "image": "pipeline/media/games-godot-ai.png"
+            "image": "pipeline/media/games-godot-ai.png",
+            "body": "게임 엔진 고도가 AI 보조는 허용하되 질 낮은 슬롭 PR은 자동으로 거부한다."
           },
           {
             "tool": "EA",
@@ -1397,7 +1428,8 @@
             "source": "PC Gamer",
             "url": "https://www.pcgamer.com/software/ai/ea-exec-says-ai-has-helped-drive-a-real-rise-of-creativity-at-its-studios/",
             "accent": "#7928ca",
-            "image": "pipeline/media/games-ea-creativity.jpg"
+            "image": "pipeline/media/games-ea-creativity.jpg",
+            "body": "EA가 AI로 제작 과정의 마찰을 줄여 사내 창작성을 끌어올렸다고 밝혔다."
           },
           {
             "tool": "Vampire Survivors",
@@ -1405,7 +1437,8 @@
             "source": "Game Developer",
             "url": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
             "accent": "#7928ca",
-            "image": "pipeline/media/games-vampire-fortnite.png"
+            "image": "pipeline/media/games-vampire-fortnite.png",
+            "body": "뱀파이어 서바이버즈 개발사가 에픽 생성 AI 탓에 포트나이트 협업을 다시 본다."
           },
           {
             "tool": "Unreal Engine 6",
@@ -1413,7 +1446,8 @@
             "source": "80 Level",
             "url": "https://80.lv/articles/state-of-unreal-ue6-reactions-hype-skepticism-and-what-it-means-for-game-devs",
             "accent": "#7928ca",
-            "image": "pipeline/media/games-ue6-reactions.png"
+            "image": "pipeline/media/games-ue6-reactions.png",
+            "body": "언리얼 엔진 6의 AI 발표를 두고 개발자들이 기대와 회의를 동시에 쏟아냈다."
           },
           {
             "tool": "Steam · Epic",
@@ -1421,7 +1455,8 @@
             "source": "Wccftech",
             "url": "https://wccftech.com/valve-irresponsible-ai-disclosures-steam-epic-ceo-unreal-engine-6/",
             "accent": "#7928ca",
-            "image": "pipeline/media/games-valve-disclosure.jpg"
+            "image": "pipeline/media/games-valve-disclosure.jpg",
+            "body": "팀 스위니가 스팀의 AI 표기 의무를 무책임하다 비판하면서도 에픽은 AI를 넓힌다."
           }
         ]
       }
@@ -1434,7 +1469,7 @@
         "id": "kobo-ai-rejections",
         "eyebrow": "AI NEWS",
         "headline": "코보, AI 책 범람에 투고 45% 반려",
-        "body": "라쿠텐 코보가 지난해 자가출판 플랫폼에 들어온 투고 가운데 45%를 반려했다고 밝혔다. AI로 만든 책이 한꺼번에 몰리면서 자가출판 서비스 코보 라이팅 라이프의 심사를 한층 강화한 결과다.",
+        "body": "라쿠텐 코보가 AI 책이 몰리자 지난해 자가출판 투고의 45%를 반려했다고 밝혔다.",
         "tool": "Kobo",
         "source": "The Bookseller",
         "url": "https://www.thebookseller.com/news/rakuten-kobo-rejects-45-of-submissions-after-slew-of-ai-generated-books-uploaded",
@@ -1465,7 +1500,7 @@
         "id": "publishing-ai-growth",
         "eyebrow": "AI NEWS",
         "headline": "AI, 방어 본능 넘어 출판 성장 전략으로",
-        "body": "출판이 AI를 비용 절감 도구로만 보는 사이 다른 산업은 이미 앞서 나갔다. 하비에르 셀라야는 방어 본능을 넘어 번역과 유통, 권리까지 아우르는 성장 전략으로 AI를 다시 봐야 한다고 말한다.",
+        "body": "셀라야가 출판이 AI를 비용 절감을 넘어 성장 전략으로 다시 봐야 한다고 말한다.",
         "tool": "Publishing AI",
         "source": "Publishing Perspectives",
         "url": "https://publishingperspectives.com/2026/06/from-ip-anxiety-to-growth-strategy-the-ai-conversation-publishing-needs-to-have/",
@@ -1527,7 +1562,7 @@
         "id": "commonwealth-ai-cleared",
         "eyebrow": "AI NEWS",
         "headline": "AI 의혹 벗은 커먼웰스 단편상 수상작",
-        "body": "커먼웰스 재단 단편소설상 수상작의 AI 사용 의혹이 한 달 조사 끝에 풀렸고, 수상자들은 초고와 시간 기록, 메모로 창작 과정을 입증했다. 다만 그란타는 협업을 끝내고 수상작을 싣지 않기로 했다.",
+        "body": "커먼웰스 단편소설상 수상작의 AI 사용 의혹이 한 달 조사 끝에 풀렸다.",
         "tool": "Commonwealth",
         "source": "Book Riot",
         "url": "https://bookriot.com/commonwealth-foundation-short-story-prize-ai-allegations-cleared/",
@@ -1581,7 +1616,7 @@
         "id": "google-play-book-insights",
         "eyebrow": "AI NEWS",
         "headline": "구글, 책 속에 AI 읽기 도우미를 넣다",
-        "body": "구글 플레이 북스가 제미나이로 만든 읽기 도우미 '북 인사이트'를 내놨다. 읽은 데까지 줄거리를 요약해 주고 읽는 중 질문도 받지만, 구글도 생성형 AI가 실수할 수 있다고 인정한다.",
+        "body": "구글 플레이 북스가 제미나이로 줄거리를 요약하고 질문도 받는 읽기 도우미를 냈다.",
         "tool": "Google Play Books",
         "source": "Book Riot",
         "url": "https://bookriot.com/google-play-books-chatbot/",
@@ -1627,7 +1662,8 @@
             "source": "The Bookseller",
             "url": "https://www.thebookseller.com/news/michael-caine-licenses-voice-to-narrate-ai-adaptation-odyssey-audiobook",
             "accent": "#f5a623",
-            "image": "pipeline/media/books-caine-odyssey.jpg"
+            "image": "pipeline/media/books-caine-odyssey.jpg",
+            "body": "마이클 케인이 자신의 AI 음성으로 회고록 오디세이의 오디오북을 낭독한다."
           },
           {
             "tool": "PLS",
@@ -1635,7 +1671,8 @@
             "source": "The Bookseller",
             "url": "https://www.thebookseller.com/news/over-250-uk-publishers-opt-in-to-collective-ai-licensing-scheme",
             "accent": "#f5a623",
-            "image": "pipeline/media/books-uk-ai-licensing.jpg"
+            "image": "pipeline/media/books-uk-ai-licensing.jpg",
+            "body": "영국 출판사 250여 곳이 AI 학습을 위한 집단 라이선싱에 함께 합류했다."
           },
           {
             "tool": "CITIC Press",
@@ -1643,7 +1680,8 @@
             "source": "Publishing Perspectives",
             "url": "https://publishingperspectives.com/2026/06/at-the-beijing-international-book-fair-rights-trading-gives-way-to-ip-licensing/",
             "accent": "#f5a623",
-            "image": "pipeline/media/books-beijing-fair.png"
+            "image": "pipeline/media/books-beijing-fair.png",
+            "body": "베이징 국제도서전에서 편집의 전 과정에 AI가 깊숙이 스며든 모습이 드러났다."
           },
           {
             "tool": "BISG",
@@ -1651,14 +1689,16 @@
             "source": "Publishing Perspectives",
             "url": "https://publishingperspectives.com/2026/06/bisg-booknet-canada-launch-2026-ai-in-the-book-industry-survey/",
             "accent": "#f5a623",
-            "image": "pipeline/media/books-ai-survey.png"
+            "image": "pipeline/media/books-ai-survey.png",
+            "body": "출판업계가 AI 활용 실태를 살피는 두 번째 전수 조사에 본격 착수했다."
           },
           {
             "tool": "Wiley",
             "headline": "와일리, AI 라이선싱으로 4900만 달러를 벌다",
             "source": "Publishers Weekly",
             "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/100650-ai-research-drive-gains-at-wiley-in-fiscal-2026.html",
-            "accent": "#f5a623"
+            "accent": "#f5a623",
+            "body": "학술 출판사 와일리가 AI 라이선싱 계약으로 4,900만 달러를 벌었다."
           }
         ]
       }
@@ -1678,7 +1718,7 @@
     "id": "spatialgen-zeus",
     "eyebrow": "AI NEWS",
     "headline": "스페이셜젠 제우스, 비전 프로로\n실시간 몰입형 영상을 보낸다",
-    "body": "스페이셜젠이 애플 이머시브 비디오를 실시간으로 받아 인코딩해 비전 프로로 내보내는 랙 장비 제우스를 선보였다. 라이브 몰입형 영상을 다루는 디자이너에게는 실시간 작업의 토대가 마련된 셈이다.",
+    "body": "스페이셜젠이 애플 이머시브 영상을 비전 프로로 실시간 송출하는 제우스를 공개했다.",
     "tool": "VR Prototype",
     "source": "UploadVR",
     "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
@@ -1745,7 +1785,7 @@
     "id": "meta-starfire",
     "eyebrow": "AI NEWS",
     "headline": "메타, 카일리 제너와 만든\n'스타파이어' 스마트 글래스 공개",
-    "body": "메타가 카일리 제너와 함께 디자인한 스타파이어 스마트 글래스를 선보였다. 핵심 사양은 레이밴 메타 2세대와 같지만 외형을 한껏 다듬어, 프리미엄 스마트 글래스 디자인이 향하는 방향을 보여준다.",
+    "body": "메타가 카일리 제너와 외형을 한껏 다듬은 스마트 글래스 스타파이어를 선보였다.",
     "tool": "VR Prototype",
     "source": "UploadVR",
     "url": "https://www.uploadvr.com/meta-starfire-smart-glasses-kylie-jenner-designed/",
@@ -1798,7 +1838,7 @@
     "id": "ai-creative-divide",
     "eyebrow": "AI NEWS",
     "headline": "AI는 창작자 사이에\n새로운 격차를 만들고 있나",
-    "body": "창작자의 52%가 이미 업무에 생성형 AI를 쓰지만, 도입은 위험을 감당할 여력이 있는 쪽으로 쏠린다. 의견 대립을 넘어 접근성과 지식을 둘러싼 새로운 격차가 벌어진다는 진단이다.",
+    "body": "창작자 절반이 생성형 AI를 쓰지만 도입이 쏠리며 접근성과 지식의 격차가 벌어진다.",
     "tool": "Figma",
     "source": "Creative Bloq",
     "url": "https://www.creativebloq.com/ai/is-ai-creating-a-divide-among-creatives",
@@ -1849,7 +1889,7 @@
     "id": "dataland-museum",
     "eyebrow": "AI NEWS",
     "headline": "세계 첫 AI 미술관 데이터랜드,\n무엇이 담겼나",
-    "body": "레픽 아나돌과 엡순 에르킬리치가 세운 데이터랜드가 다섯 개 전시실 규모로 문을 열었다. 생성형 AI가 실시간으로 빚어내는 '살아 있는' 작품으로, AI를 매체로 다루는 새 기준점을 제시한다.",
+    "body": "레픽 아나돌의 세계 첫 AI 미술관 데이터랜드가 실시간 생성 작품으로 문을 열었다.",
     "tool": "Figma",
     "source": "Creative Bloq",
     "url": "https://www.creativebloq.com/ai/whats-actually-in-the-worlds-first-ai-art-museum",
@@ -1905,7 +1945,7 @@
     "id": "miris-configurator",
     "eyebrow": "AI NEWS",
     "headline": "미리스, 클라우드 GPU 없이\n웹 자동차 컨피규레이터를 구현하다",
-    "body": "미리스가 클라우드 GPU나 픽셀 스트리밍 없이 HDR급 소재 품질을 구현하는 웹XR 자동차 컨피규레이터를 만들었다. 클라우드 렌더링에 기대지 않는 인터랙티브 제품 시각화의 가벼운 길을 보여준다.",
+    "body": "미리스가 클라우드 GPU 없이 도는 웹XR 자동차 컨피규레이터를 선보였다.",
     "tool": "KeyShot",
     "source": "80 Level",
     "url": "https://80.lv/articles/miris-built-a-car-configurator-without-pixel-streaming-heres-what-they-found",
@@ -1941,7 +1981,8 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
         "accent": "#ff5a4d",
-        "image": "pipeline/media/firefly.jpeg"
+        "image": "pipeline/media/firefly.jpeg",
+        "body": "어도비 파이어플라이 어시스턴트가 프리미어와 일러스트, 인디자인까지 넓혀진다."
       },
       {
         "tool": "AI Workflow",
@@ -1949,21 +1990,24 @@
         "source": "Engadget",
         "url": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent/",
         "accent": "#3b6bff",
-        "image": "pipeline/media/claude-design.jpg"
+        "image": "pipeline/media/claude-design.jpg",
+        "body": "클로드 디자인이 코딩 에이전트와 이어져 구현까지 한 흐름으로 연결된다."
       },
       {
         "tool": "Figma",
         "headline": "피그마 디자인 에이전트가 이제 웹을 검색한다",
         "source": "Figma",
         "url": "https://www.figma.com/release-notes/",
-        "accent": "#0070f3"
+        "accent": "#0070f3",
+        "body": "피그마 디자인 에이전트가 이제 웹을 검색해 자료를 작업에 끌어온다."
       },
       {
         "tool": "Design Tokens",
         "headline": "프로토타입과 코드를 오가는 양방향 핸드오프",
         "source": "BigGo Finance",
         "url": "https://finance.biggo.com/news/4535a14d-ea20-4047-9b2d-166397850c7c",
-        "accent": "#2ec5c5"
+        "accent": "#2ec5c5",
+        "body": "프로토타입과 코드를 양방향으로 오가는 핸드오프가 새로 생겼다."
       },
       {
         "tool": "KeyShot",
@@ -1971,7 +2015,8 @@
         "source": "CG Channel",
         "url": "https://www.cgchannel.com/2026/06/10-things-cg-artists-need-to-know-about-unreal-engine-6/",
         "accent": "#f5a623",
-        "image": "pipeline/media/ue6-mcp.jpg"
+        "image": "pipeline/media/ue6-mcp.jpg",
+        "body": "언리얼 엔진 6가 MCP를 받아들여 AI 도구를 엔진 안으로 끌어들인다."
       }
     ]
   },
@@ -1984,7 +2029,8 @@
         "source": "CG Channel",
         "url": "https://www.cgchannel.com/2026/06/unity-releases-unity-6-5-discover-5-key-features-for-cg-artists/",
         "accent": "#f5a623",
-        "image": "pipeline/media/unity65.jpg"
+        "image": "pipeline/media/unity65.jpg",
+        "body": "유니티 6.5가 렌더 노이즈 제거를 AI 기반 방식으로 교체한다."
       },
       {
         "tool": "KeyShot",
@@ -1992,7 +2038,8 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
         "accent": "#3b6bff",
-        "image": "pipeline/media/deepmind-a24.jpg"
+        "image": "pipeline/media/deepmind-a24.jpg",
+        "body": "딥마인드가 영화사 A24와 손잡고 영화 제작용 AI 도구를 만든다."
       },
       {
         "tool": "AI Workflow",
@@ -2000,7 +2047,8 @@
         "source": "Engadget",
         "url": "https://www.engadget.com/2198633/openai-signs-deal-with-getty-to-show-images-in-chatgpt-results/",
         "accent": "#ff5a4d",
-        "image": "pipeline/media/openai-getty.jpg"
+        "image": "pipeline/media/openai-getty.jpg",
+        "body": "챗GPT 안에서 게티이미지의 라이선스 이미지를 바로 쓸 수 있게 된다."
       },
       {
         "tool": "Design Tokens",
@@ -2008,7 +2056,8 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
         "accent": "#2ec5c5",
-        "image": "pipeline/media/claude-id.jpg"
+        "image": "pipeline/media/claude-id.jpg",
+        "body": "클로드가 민감한 작업에서 사용자에게 신원 확인을 요구할 수 있다."
       },
       {
         "tool": "VR Prototype",
@@ -2016,7 +2065,8 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
         "accent": "#eb367f",
-        "image": "pipeline/media/ios27-ai.jpg"
+        "image": "pipeline/media/ios27-ai.jpg",
+        "body": "iOS 27이 시리 너머로 기기에서 도는 온디바이스 AI를 들여온다."
       }
     ]
   },
@@ -2029,7 +2079,8 @@
         "source": "CG Channel",
         "url": "https://www.cgchannel.com/2026/06/autodesk-releases-arnold-7-5-2-with-support-for-gaussian-splatting/",
         "accent": "#f5a623",
-        "image": "pipeline/media/arnold-splat.jpg"
+        "image": "pipeline/media/arnold-splat.jpg",
+        "body": "아놀드 7.5.2가 가우시안 스플랫을 렌더 파이프라인에 들여온다."
       },
       {
         "tool": "Figma",
@@ -2037,7 +2088,8 @@
         "source": "Vercel",
         "url": "https://vercel.com/changelog/claude-design-and-vercel",
         "accent": "#0070f3",
-        "image": "pipeline/media/claude-design-vercel.png"
+        "image": "pipeline/media/claude-design-vercel.png",
+        "body": "클로드 디자인에서 만든 결과물을 곧장 버셀로 배포할 수 있게 된다."
       },
       {
         "tool": "KeyShot",
@@ -2045,7 +2097,8 @@
         "source": "VentureBeat",
         "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
         "accent": "#3b6bff",
-        "image": "pipeline/media/alibaba-video.webp"
+        "image": "pipeline/media/alibaba-video.webp",
+        "body": "알리바바의 영상 생성 모델이 글로벌 순위에서 2위까지 올라섰다."
       },
       {
         "tool": "AI Workflow",
@@ -2053,7 +2106,8 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
         "accent": "#ff5a4d",
-        "image": "pipeline/media/loopy-ai.jpg"
+        "image": "pipeline/media/loopy-ai.jpg",
+        "body": "스스로 루프를 도는 AI 에이전트가 기존 워크플로의 전제를 흔든다."
       },
       {
         "tool": "AI Workflow",
@@ -2061,7 +2115,8 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
         "accent": "#7928ca",
-        "image": "pipeline/media/patch-the-planet.jpg"
+        "image": "pipeline/media/patch-the-planet.jpg",
+        "body": "오픈AI가 오픈소스 버그를 AI로 찾아내는 프로젝트를 시작한다."
       }
     ]
   },
@@ -2110,7 +2165,8 @@
               "x": "셰이더는 이제 에이전트가 만든다. 원하는 바를 설명하거나 이미지를 참조로 주면 맞춤 셰이더가 나오고, 파라미터는 캔버스에서 바로 조절하거나 다른 효과와 겹쳐 쌓을 수 있다. 개발 환경이나 플러그인 API 지식이 없어도 동작과 컨트롤을 설명하는 것만으로 맞춤 도구를 만드는 생성형 플러그인, 노드 기반으로 모델을 잇고 에셋을 변형하는 Weave 도구도 새로 들어왔다. 에이전트에는 재사용 가능한 Skills, Notion·Slack·GitHub 등과 연결되는 Connectors, 첨부 지원이 붙었고 FigJam과 Slides로 확장된다. 필드는 \"오직 당신만이 만들 수 있는 것을 만들라\"는 말로 발표를 닫았다."
             }
           ]
-        }
+        },
+        "body": "피그마 콘피그 2026에서 모션과 코드 레이어가 캔버스 안으로 들어왔다."
       },
       {
         "tool": "KeyShot",
@@ -2148,7 +2204,8 @@
               "x": "출시일은 아직 확정되지 않았다. 다만 Houdini의 역대 출시 패턴으로 보면 7월 중순이 유력하다."
             }
           ]
-        }
+        },
+        "body": "후디니 22가 가우시안 스플랫과 머신러닝 리깅을 절차적으로 다룬다."
       },
       {
         "tool": "KeyShot",
@@ -2182,7 +2239,8 @@
               "x": "케이시 쉽은 Cloud Paint V2로 만든 작품을 공유하며 도구를 어디까지 쓸 수 있는지 보여 줬다. 스타일라이즈드 잔디 에셋 라이브러리 GrassPaint의 V2 업데이트도 개발 중이라고 했다."
             }
           ]
-        }
+        },
+        "body": "클라우드 페인트 V2로 뷰포트에서 구름을 직접 칠해 그려 넣는다."
       },
       {
         "tool": "Social",
@@ -2207,7 +2265,8 @@
               "x": "단순한 노트 앱을 넘어, AI 에이전트가 파일 시스템을 뒤지며 노트를 만들고 분류하고 서로 이어 검색 가능한 지식 베이스로 키워 나가는 방법을 단계별로 보여 준다. 개인 지식 관리(PKM)에 AI 에이전트를 접목하려는 이들에게 쓸 만한 출발점이다."
             }
           ]
-        }
+        },
+        "body": "클로드 코드로 옵시디언에 메모를 엮어 두 번째 뇌를 만들어 간다."
       },
       {
         "tool": "Social",
@@ -2232,7 +2291,8 @@
               "x": "대화는 AI 에이전트가 단순 자동화를 넘어 업무 프로세스 자체를 바꾸고, 사람과 협업하며 기업의 일하는 방식과 인력 구성까지 다시 그리는 흐름을 짚는다. 기술 도입에서 멈추지 않고 조직과 워크포스가 어떻게 적응해야 할지에 대한 관점도 내놓는다."
             }
           ]
-        }
+        },
+        "body": "AI 에이전트가 일하는 방식과 조직의 구조를 새로 짜기 시작한다."
       }
     ]
   },
@@ -2245,7 +2305,8 @@
         "source": "VentureBeat",
         "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
         "accent": "#f5a623",
-        "image": "pipeline/media/krea2.png"
+        "image": "pipeline/media/krea2.png",
+        "body": "크레아 2가 오픈웨이트로 풀려 2초 만에 고품질 이미지를 만든다."
       },
       {
         "tool": "Adobe",
@@ -2253,7 +2314,8 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
         "accent": "#ff5a4d",
-        "image": "pipeline/media/adobe-topaz.jpg"
+        "image": "pipeline/media/adobe-topaz.jpg",
+        "body": "어도비가 토파즈 랩스를 인수해 그 기술을 파이어플라이에 통합한다."
       },
       {
         "tool": "Anthropic",
@@ -2261,7 +2323,8 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
         "accent": "#3b6bff",
-        "image": "pipeline/media/claude-tag.png"
+        "image": "pipeline/media/claude-tag.png",
+        "body": "클로드 태그가 슬랙에 상주하는 상시 AI 팀원으로 함께 일한다."
       }
     ]
   }

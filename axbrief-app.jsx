@@ -375,7 +375,7 @@ function axBodyFor(tool) {
   if (/리서치/.test(s)) return 'AI가 유저리서치를 합성하고 인사이트를 정리합니다.';
   if (/원칙|DesignAX/.test(s)) return 'AI와 사람의 협업, 그 원칙을 다시 세웁니다.';
   if (/UX Pilot/.test(s)) return '프롬프트 한 줄로 UI와 코드 초안이 나옵니다.';
-  return 'AI가 디자인 워크플로우를 빠르게 바꾸고 있습니다.';
+  return '';   // no generic placeholder — every card now carries its own one-line summary
 }
 function axEnrich(item) {
   return {

@@ -19,12 +19,12 @@ For each pick produce:
   Put the `\n` between words, not mid-가운 / mid-단어. (The pages also set
   `word-break: keep-all` so auto-wrap won't split words, but author the `\n`
   cleanly too.)
-- `body`: a tight core summary — what changed and why a designer cares. UNIFORM
-  format for EVERY card so they read consistently: **exactly 2 complete sentences**
-  (never 1, never 3) that **fill ~3 lines**, landing at **100–110 Korean characters**
-  (hard floor 100, hard ceiling 112 incl. any Latin tokens). Always finish the
-  sentences with proper 종결어미 — never a single short clause, never trailing off.
-  The card clamps to 3 lines, so anything over ~112 truncates with "…": don't.
+- `body`: a tight core summary — the single most important point of the article.
+  UNIFORM format for EVERY card: **exactly ONE complete sentence**, **28–46 Korean
+  characters** (fills ~2 lines on a phone — never a single short line, never long
+  enough to wrap to 3 lines, since 3 lines clamp with "…"). Finish with proper 종결어미
+  (…다. / …된다.); never a fragment, never trailing off, never "…". Each card's summary
+  must be specific to its own story — no generic filler, no two cards alike.
 - `mini_headline`: a shorter (~10–14 char) headline for the weekly deck.
 - Carry through verbatim from selected.json: `tool`, `source`, `url`, `accent`, `motif`.
 
