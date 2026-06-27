@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-27",
+  "section": "movies",
+  "media": [
+    {
+      "id": "reallusion-iclone-personal",
+      "type": "image",
+      "src": "pipeline/media/reallusion-iclone-personal.jpg"
+    },
+    {
+      "id": "curious-refuge-ai-partnership",
+      "type": "video",
+      "src": "pipeline/media/curious-refuge-ai-partnership.mp4",
+      "poster": "pipeline/media/curious-refuge-ai-partnership.jpg"
+    },
+    {
+      "id": "shanghai-2026-ai",
+      "type": "image",
+      "src": "pipeline/media/shanghai-2026-ai.jpg"
+    },
+    {
+      "id": "annecy-ai4animation",
+      "type": "image",
+      "src": "pipeline/media/annecy-ai4animation.jpg"
+    },
+    {
+      "id": "annecy-3cs-policy",
+      "type": "image",
+      "src": "pipeline/media/annecy-3cs-policy.png"
+    }
+  ]
+}

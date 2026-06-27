@@ -1,0 +1,62 @@
+{
+  "section": "games",
+  "date": "2026-06-27",
+  "picks": [
+    {
+      "tool": "PUBG Ally",
+      "title": "PUBG Ally: an NVIDIA ACE-powered, co-playable AI teammate (2-week beta)",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "url": "https://wccftech.com/nvidia-ace-pubg-ally-ai-teammate-beta/",
+      "source": "Wccftech",
+      "published_iso": "2026-06-17T14:36:49Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/pubg-arcade-ally-duo-mode-1920x1080.jpg",
+      "excerpt": "Krafton and NVIDIA have opened a limited-time beta letting PUBG players team up in duos with 'PUBG Ally', a co-playable AI teammate powered by NVIDIA ACE and an on-device small language model that talks, finds loot, drives, and fights alongside you.",
+      "rationale": "Concrete, shippable AI-teammate beta (on-device SLM + NVIDIA ACE) that shows how gen-AI agents enter live gameplay, not just tooling."
+    },
+    {
+      "tool": "MetaHuman",
+      "title": "What's new in MetaHuman in Unreal Engine 5.8",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "url": "https://80.lv/articles/populate-your-ue5-8-worlds-with-metahuman-crowds",
+      "source": "80 Level",
+      "published_iso": "2026-06-18T10:25:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/48861/images/6a33c79dab267/contain_1200x630.jpg",
+      "excerpt": "Unreal Engine 5.8's MetaHuman update adds an experimental Collections crowds system and AI-driven markerless motion capture (via Meshcapade) that turns single-camera video into full-body and facial performance, scaling to thousands of characters.",
+      "rationale": "Actionable pipeline news: markerless single-camera mocap and crowd Collections change how character animators and worldbuilders work today."
+    },
+    {
+      "tool": "Generative AI",
+      "title": "Why so many game developers don't want to use generative AI",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "url": "https://www.gamesradar.com/games/why-so-many-game-developers-dont-want-to-use-generative-ai/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-06-17T15:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HG9dzc6etWG6qqJ8Crh2pV-1920-80.jpg",
+      "excerpt": "A feature digging into why many game developers remain reluctant to adopt generative AI in their craft, weighing workflow, authorship, quality, and craft concerns against studio pressure to embrace the tools.",
+      "rationale": "Insight piece that frames the craft/authorship pushback shaping which AI tools studios actually adopt, complementing the tool releases with the human counterweight."
+    },
+    {
+      "tool": "General Intuition",
+      "title": "General Intuition's $2.3B bet that video games can train AI agents for the real world",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch",
+      "published_iso": "2026-06-25T16:55:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+      "excerpt": "General Intuition is building world models and agentic models trained on video-game gameplay data, betting that the action and causality embedded in games can teach AI agents spatial reasoning that transfers from Fortnite-style worlds to robotics and the real world.",
+      "rationale": "Fresh, credible TechCrunch scoop on a major funding round reframing gameplay data as training fuel for embodied AI agents - novel and forward-looking."
+    }
+  ],
+  "dropped": [
+    {
+      "candidate": 3,
+      "url": "https://www.pcgamer.com/gaming-industry/tim-sweeney-on-the-future-of-games-ai-and-whether-valve-will-ever-join-forces-with-epic/",
+      "reason": "Dedup backstop: this is the same PC Gamer Tim Sweeney interview already published 2026-06-26 in sections.games as the Wccftech card 'Sweeney: Steam AI disclosure is irresponsible' (wccftech.com/valve-irresponsible-ai-disclosures-steam-epic-ceo-unreal-engine-6/), which is explicitly built on this interview. Same event, different outlet = duplicate."
+    }
+  ],
+  "shortfall_note": "User selected 5; one (candidate #3) dropped as a duplicate of an already-published story. 4 distinct fresh picks remain. No substitution/padding per rules."
+}

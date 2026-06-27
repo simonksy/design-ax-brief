@@ -1,0 +1,105 @@
+{
+  "date": "2026-06-27",
+  "cards": [
+    {
+      "id": "kobo-ai-rejections",
+      "eyebrow": "AI NEWS",
+      "headline": "코보, AI 책 범람에 투고 45% 반려",
+      "body": "라쿠텐 코보가 지난해 자가출판 플랫폼에 들어온 투고의 45%를 반려했다. AI로 만든 책이 한꺼번에 몰리면서 코보 라이팅 라이프의 심사를 강화한 결과다.",
+      "mini_headline": "투고 45% 반려한 코보",
+      "tool": "Kobo",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/rakuten-kobo-rejects-45-of-submissions-after-slew-of-ai-generated-books-uploaded",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Kobo-c-shutterstock_DuyAndy1699_1561496749.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Kobo-c-shutterstock_DuyAndy1699_1561496749.jpg", "cap": "라쿠텐 코보" },
+          { "t": "p", "x": "전자책 플랫폼 라쿠텐 코보가 지난해 자가출판 플랫폼에 들어온 투고 가운데 45%를 반려했다." },
+          { "t": "p", "x": "AI로 만든 책이 한꺼번에 올라오면서, 코보는 자가출판 서비스인 코보 라이팅 라이프의 심사를 강화했다." }
+        ]
+      }
+    },
+    {
+      "id": "publishing-ai-growth",
+      "eyebrow": "AI NEWS",
+      "headline": "AI, 방어 본능 넘어 출판 성장 전략으로",
+      "body": "출판이 AI를 비용 절감 도구로만 보는 사이 다른 산업은 이미 앞서 나갔다. 하비에르 셀라야는 번역과 유통, 권리까지 아우르는 성장 전략으로 AI를 다시 봐야 한다고 말한다.",
+      "mini_headline": "성장 전략으로 본 AI",
+      "tool": "Publishing AI",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/06/from-ip-anxiety-to-growth-strategy-the-ai-conversation-publishing-needs-to-have/",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/06/Screen-Shot-2026-06-15-at-8.25.15-PM.png",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "img", "src": "https://publishingperspectives.com/wp-content/uploads/2026/06/Screen-Shot-2026-06-15-at-8.25.15-PM.png" },
+          { "t": "p", "x": "하비에르 셀라야는 \"AI는 또 하나의 점진적 변화가 아니다\"라고 말한다. \"창작과 큐레이션, 제작, 번역, 마케팅, 유통, 권리 관리까지 출판이 하는 모든 일에 닿아 있다.\"" },
+          { "t": "p", "x": "출판계의 AI 이해도는 높아지고 있다. 챗봇을 매일 쓰고 카피·교정·번역 도구를 시험하는 사람은 많지만, 업무 과정을 다시 짜려고 AI 에이전트를 만들거나 사업 시나리오를 비교하려 LLM을 써 본 사람은 드물다. 도구를 쓸 줄 아는 것과 이해하는 것은 다르고, 셀라야는 이 간극을 업계의 가장 큰 맹점으로 본다." },
+          { "t": "p", "x": "출판과 창작 산업에서 20년을 일한 그는 올해 스페인 인공지능연구소(IIA)의 AI 경영자 석사 과정에 등록했다. 그가 찾은 것은 프롬프트 속성 과정이 아니라 모델이 어떻게 만들어지고 학습되는지, 데이터를 누가 소유하는지, AI의 한계가 어디인지를 제대로 아는 일이었다." },
+          { "t": "p", "x": "과정은 그가 AI를 다루는 방식을 바꿔놓았다. 이제 도구를 열기 전에 에이전트에게 무엇을 시킬지 구체적으로 떠올린다. 업체가 \"깨끗한 데이터로 학습했다\"고 약속하거나 데이터 주권과 재사용 정책을 얼버무릴 때 어떤 질문을 던질지도 안다. 근거 있는 회의가 도구 하나를 통달하는 것보다 값지다." },
+          { "t": "p", "x": "그는 의료·자동차·제약·엔터테인먼트가 핵심 업무에 AI를 들여오며 어디서 넘어졌고 무엇이 실제 가치를 냈는지 보며 비교의 눈을 얻었다고 한다. 출판은 방어적인 자리에서 AI를 이야기하지만, 다른 분야는 우리가 토론만 하는 도구로 이미 프로젝트를 시작했다." },
+          { "t": "p", "x": "출판계의 AI 관심은 거의 비용 절감에 머문다. 하지만 그것은 AI가 출판에 해줄 일의 바닥이지 천장이 아니다. 정작 다음 10년을 가를 질문은 빠져 있다. 무엇을 완전히 자동화할 수 있는가, 어디에 사람이 있어야 하는가, 그리고 AI가 비용만 줄이는 게 아니라 출판을 어떻게 키울 수 있는가." },
+          { "t": "p", "x": "예컨대 AI 번역으로 전자책과 오디오북을 여러 언어로 만들면 핵심 도서와 작가를 전에 없던 규모로 새 독자에게 데려갈 수 있다. 언어와 현지화가 병목에서 풀리면 마케팅과 유통을 지역에서 세계로 다시 그릴 수 있다. 기회는 크지만 이를 깊이 들여다보는 곳은 드물다." },
+          { "t": "p", "x": "가장 어려운 질문은 AI 기업과 협력자가 될지 적이 될지다. 셀라야의 답은 \"둘 다\"이다. 많은 AI 기업이 저작권 있는 작품을 동의도 보상도 없이 학습에 썼다는 사실은 피할 수 없고, 출판사는 시정을 요구해야 한다. 소송과 제휴 협상은 모순이 아니라 동시에 갈 수 있는 두 갈래 길이다." },
+          { "t": "p", "x": "그는 관리직이라면 AI 교육이 권고가 아니라 요건이어야 한다고 말한다. AI가 무엇을 할 수 있고 없는지 구조적으로 이해하지 못하면 출판사나 스트리밍 플랫폼의 AI 전략을 책임 있게 세울 수 없다." },
+          { "t": "p", "x": "AI 시대를 가장 잘 헤쳐 갈 리더는 AI를 추상적으로 아는 사람이 아니라 팀과 기술 파트너, 모델 자체에 올바른 질문을 던질 만큼 깊이 이해하는 사람이다." }
+        ]
+      }
+    },
+    {
+      "id": "commonwealth-ai-cleared",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 의혹 벗은 커먼웰스 단편상 수상작",
+      "body": "커먼웰스 재단 단편소설상 수상작의 AI 사용 의혹이 한 달 조사 끝에 풀렸다. 수상자들이 초고와 시간 기록, 메모로 창작 과정을 입증했다. 다만 그란타는 협업을 끝내고 수상작을 싣지 않는다.",
+      "mini_headline": "초고로 벗은 AI 의혹",
+      "tool": "Commonwealth",
+      "source": "Book Riot",
+      "url": "https://bookriot.com/commonwealth-foundation-short-story-prize-ai-allegations-cleared/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "img", "src": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg" },
+          { "t": "p", "x": "커먼웰스 재단 단편소설상 수상작을 AI로 썼다는 의혹을 받았던 작가 세 명이 조사 끝에 혐의를 벗었다." },
+          { "t": "p", "x": "사무총장 라즈미 파룩(Razmi Farook)은 \"지난 한 달 동안 AI 사용 의혹을 철저히 조사했다\"고 밝혔다." },
+          { "t": "p", "x": "조사에는 AI 도구를 쓰지 않았다. 미발표 원고를 둘러싼 \"예술적 소유권과 동의\" 문제 때문이었다." },
+          { "t": "p", "x": "대신 지역 수상자 전원과 \"구체적인 대화\"를 나눴다. 의혹을 받은 세 명만이 아니라 다섯 개 지역 수상자 모두가 \"전적으로 협조했다.\"" },
+          { "t": "p", "x": "작가들은 창작 과정의 증거로 \"작업 초고와 시간이 기록된 문서, 메모\"를 제출했다." },
+          { "t": "p", "x": "파룩은 \"심사위원과 충분히 상의하고 가용한 정보를 신중히 검토한 끝에, 수상작이 AI로 쓰이지 않았다고 판단했다\"고 결론지었다." },
+          { "t": "p", "x": "다만 여파는 남았다. 문예지 그란타(Granta)는 커먼웰스 재단과의 협업을 끝내고 수상작을 싣지 않기로 했다." },
+          { "t": "p", "x": "2026년 단편소설상 수상자는 6월 30일, \"지역 수상자들과 그들의 영감을 담은 영상과 함께\" 발표된다." }
+        ]
+      }
+    },
+    {
+      "id": "google-play-book-insights",
+      "eyebrow": "AI NEWS",
+      "headline": "구글, 책 속에 AI 읽기 도우미를 넣다",
+      "body": "구글 플레이 북스가 제미나이로 만든 읽기 도우미 '북 인사이트'를 내놨다. 읽은 데까지 요약해 주고 읽는 중 질문도 받지만, 구글도 생성형 AI가 실수할 수 있다고 인정한다.",
+      "mini_headline": "책 속으로 들어온 AI 챗봇",
+      "tool": "Google Play Books",
+      "source": "Book Riot",
+      "url": "https://bookriot.com/google-play-books-chatbot/",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2020/12/instagram-book-club-featured.jpg.optimal.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "img", "src": "https://s2982.pcdn.co/wp-content/uploads/2020/12/instagram-book-club-featured.jpg.optimal.jpg", "cap": "침대에서 책을 읽는 모습" },
+          { "t": "p", "x": "구글 플레이 북스가 제미나이로 만든 읽기 도우미 '북 인사이트(Book Insights)'를 선보였다. 지금은 일부 영어 도서에 적용되는데, 공개된 예시를 보면 대부분 퍼블릭 도메인 책이다." },
+          { "t": "p", "x": "기능 가운데 '캐치 미 업(Catch Me Up)'은 지금까지 읽은 내용을 요약해 주고, 읽는 중에 \"이 인물이 앞에 나온 적 있나?\" 같은 질문도 할 수 있다." },
+          { "t": "p", "x": "글쓴이는 회의적이다. 대부분의 독자는 읽는 흐름을 끊고 싶어 하지 않고, 책에 챗봇을 더하는 건 이야기에 몰입한다는 본래 목적과 어긋나 보인다는 것이다. 그동안 마주한 구글 AI 요약이 워낙 부정확했던 터라 줄거리 요약도 믿기 어렵다고 덧붙인다." },
+          { "t": "p", "x": "구글도 블로그에서 \"북 인사이트는 현재 읽은 지점까지의 본문만 참고해 스포일러 없는 답을 주도록 설계했지만, 생성형 AI는 실험적이어서 실수할 수 있다\"고 인정한다." }
+        ]
+      }
+    }
+  ]
+}

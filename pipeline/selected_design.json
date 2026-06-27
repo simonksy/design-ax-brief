@@ -1,0 +1,71 @@
+{
+  "section": "design",
+  "date": "2026-06-27",
+  "picks": [
+    {
+      "tool": "VR Prototype",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "category": "vr",
+      "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
+      "title": "SpatialGen Zeus Streams Live Immersive Video To Apple Vision Pro",
+      "source": "UploadVR",
+      "published_iso": "2026-06-26T22:08:17Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/06/SpatialGen-Zeus-overlay-on-Apple-Immersive-Video-Wolves-at-Lakers.jpg",
+      "excerpt": "SpatialGen Zeus is a rack-mounted system for live immersive video workflows on Apple Vision Pro, ingesting, encoding and distributing high-quality ProRes spatial video in real time.",
+      "rationale": "Live ProRes spatial-video pipeline for Vision Pro opens real-time immersive workflows designers can build for now."
+    },
+    {
+      "tool": "VR Prototype",
+      "accent": "#3b6bff",
+      "motif": "headset",
+      "category": "vr",
+      "url": "https://www.uploadvr.com/meta-starfire-smart-glasses-kylie-jenner-designed/",
+      "title": "Meta Preempts Google's Gentle Monster Glasses With Kylie Jenner 'Starfire' Design",
+      "source": "UploadVR",
+      "published_iso": "2026-06-24T23:56:00Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/06/Meta-Glasses-Starfire-Kylie-style-feature.png",
+      "excerpt": "Meta released 'Starfire' smart glasses designed with Kylie Jenner, featuring her voice for Meta AI and premium industrial-design styling on the same core tech as Ray-Ban Meta Gen 2.",
+      "rationale": "Celebrity-led industrial design on Meta's wearable-AI platform signals where premium smart-glasses styling is headed."
+    },
+    {
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "category": "figma",
+      "url": "https://www.creativebloq.com/ai/is-ai-creating-a-divide-among-creatives",
+      "title": "Is AI creating a divide among creatives?",
+      "source": "Creative Bloq",
+      "published_iso": "2026-06-25T18:59:47Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BNJ6SWXs3thRq3qSqTQGTJ-1200-80.jpg",
+      "excerpt": "Over half of creatives now use AI in their workflows, but adoption skews toward those who can afford to take the risk, opening a divide in how design teams work.",
+      "rationale": "Data on uneven AI adoption reframes how design teams should think about access and equity in their tooling."
+    },
+    {
+      "tool": "Figma",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "category": "figma",
+      "url": "https://www.creativebloq.com/ai/whats-actually-in-the-worlds-first-ai-art-museum",
+      "title": "What's actually in the world's first AI art museum?",
+      "source": "Creative Bloq",
+      "published_iso": "2026-06-26T07:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KuY2HUAwLS8WsPFLgCvHML-1200-80.jpg",
+      "excerpt": "Dataland, founded by digital artists Refik Anadol and Efsun Erkilic, opens as the world's first AI art museum with immersive, generative living artworks across five galleries.",
+      "rationale": "Anadol's Dataland makes generative living artwork a public venue, a reference point for designers exploring AI as medium."
+    },
+    {
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "category": "render",
+      "url": "https://80.lv/articles/miris-built-a-car-configurator-without-pixel-streaming-heres-what-they-found",
+      "title": "Miris Built a Car Configurator Without Pixel Streaming: Here's What They Found",
+      "source": "80 Level",
+      "published_iso": "2026-06-26T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Miris built an interactive WebXR car configurator that streams HDR-grade material fidelity at minimal file sizes, with no cloud GPU or pixel streaming required.",
+      "rationale": "A WebXR configurator hitting HDR material fidelity without cloud GPUs shows a leaner path for interactive product viz."
+    }
+  ]
+}
