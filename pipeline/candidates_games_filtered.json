@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-26",
+  "window_hours": 336,
+  "section": "games",
+  "items": [
+    {
+      "url": "https://80.lv/articles/unreal-engine-5-8-is-out-today-with-big-optimization-improvements-and-mesh-terrain",
+      "source": "80.lv",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-17T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Epic Games released Unreal Engine 5.8 at Unreal Fest Chicago on June 17, introducing an experimental MCP plugin that lets AI models such as Claude and Gemini operate directly inside the editor — spawning actors, configuring lighting, and running automation tests — marking AI as official infrastructure for the game-dev pipeline ahead of UE6."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
+      "source": "Game Developer",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-17T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Epic Games revealed Unreal Engine 6 at State of Unreal 2026, announcing a unified engine that merges UE5 and Unreal Editor for Fortnite, with LLMs and generative AI models — including Claude, Codex, and Gemini — positioned as central to content-creation workflows, aiming to 'greatly reduce tedious work' for developers."
+    },
+    {
+      "url": "https://www.thegamer.com/epic-games-unreal-engine-6-ue-generative-ai-models-central-make-content-faster/",
+      "source": "The Gamer",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-18T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Epic Games says LLMs and generative AI models like Claude and Codex are 'playing a central role' in Unreal Engine 6, letting teams build content faster through level assembly, character setup, code assistance, and crash analysis — all accessible via an experimental Model Context Protocol plugin already shipping in UE5.8."
+    },
+    {
+      "url": "https://wccftech.com/nvidia-ace-pubg-ally-ai-teammate-beta/",
+      "source": "wccftech",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-17T00:00:00Z",
+      "og_image": null,
+      "excerpt": "KRAFTON launched a two-week Ally Duo beta in PUBG on June 17 — a live AI teammate named Ella, powered by NVIDIA ACE and a Mistral-Nemo-Minitron-8B small language model, that listens to voice commands, loots, drives vehicles, and fights autonomously, marking the first production deployment of on-device Co-Playable Characters in a major live-service title."
+    },
+    {
+      "url": "https://wccftech.com/tim-sweeney-unreal-engine-ai-tools-accelerant-real-creators/",
+      "source": "wccftech",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Epic CEO Tim Sweeney, at Unreal Fest, acknowledged that AI tools in Unreal Engine risk producing low-quality 'AI slop' but argues they act as an accelerant for professional indie and AAA creators — defending UE6's deep Claude and Gemini integration as a net gain for craft and creative output."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/epic-games-boss-calls-steam-ai-disclosures-really-irresponsible-of-valve-as-they-make-it-much-much-much-harder-for-a-game-developer-to-have-a-chance-of-success/",
+      "source": "GamesRadar",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-25T00:00:00Z",
+      "og_image": null,
+      "excerpt": "GamesRadar covers Tim Sweeney's critique of Valve's Steam AI disclosure requirement, framing it as an obstacle to indie devs using AI in their workflows and highlighting the industry rift between transparency advocates and studios embracing AI-assisted content creation and generative asset pipelines."
+    },
+    {
+      "url": "https://www.gamesradar.com/platforms/pc-gaming/even-more-games-on-steam-are-using-ai-there-are-over-8-600-demos-in-this-weeks-next-fest-event-and-nearly-1-700-use-ai/",
+      "source": "GamesRadar",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-16T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Steam Next Fest June 2026 reveals that nearly 1,700 of 8,682 demos — roughly one in five — carry a generative AI content disclosure, a figure that has doubled since last year, showing how mainstream AI-generated game assets have become even for small indie studios."
+    },
+    {
+      "url": "https://www.thegamer.com/steam-next-fest-ai-disclaimers/",
+      "source": "The Gamer",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-17T00:00:00Z",
+      "og_image": null,
+      "excerpt": "With 1,715 Steam Next Fest demos disclosing AI-generated content, players are calling on Valve to add cover-art stickers, prominent disclosure placement, and filtering tools — a signal that generative AI assets have crossed the mainstream threshold in indie game development in under two years."
+    },
+    {
+      "url": "https://www.destructoid.com/tim-sweeney-steam-ai-disclosure-comments/",
+      "source": "Destructoid",
+      "category": "games",
+      "label": "Games — Core AI news",
+      "published_iso": "2026-06-25T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Destructoid covers Sweeney's Unreal Fest comments defending AI in games while blasting Valve's disclosure policy, adding critical context: 52 percent of GDC-surveyed devs now say generative AI harms their industry, sharpening the contrast between big studios embracing AI workflows and the broader developer community's growing unease."
+    }
+  ],
+  "dedup": {
+    "dropped": 3,
+    "kept": 9,
+    "against_days": 5
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2026-06-26",
+  "window_hours": 72,
+  "items": [
+    {
+      "url": "https://www.figma.com/blog/introducing-figma-motion/",
+      "title": "Introducing Figma Motion: Your Canvas Now Has a Timeline",
+      "source": "Figma Blog",
+      "category": "figma",
+      "published_iso": "2026-06-24T09:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/localized/figma-motion-og.png",
+      "excerpt": "Figma Motion brings animation and timing natively onto the design canvas with keyframe timelines, easing controls, and MP4 export — removing the need to hand off motion work to a separate animation tool."
+    },
+    {
+      "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+      "title": "Figma's Design Agent: Custom Tools, Context, and Skills",
+      "source": "Figma Blog",
+      "category": "figma",
+      "published_iso": "2026-06-24T09:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/localized/agent-skills-og.png",
+      "excerpt": "Figma's upgraded AI design agent now supports Skills (packaged team conventions), MCP Connectors to GitHub, Slack and Notion, and shared prompt history — letting agents act on live context from the tools designers already use."
+    },
+    {
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
+      "title": "Rethinking Figma in an AI World",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-06-24T00:00:00Z",
+      "og_image": "",
+      "excerpt": "At Config 2026, Figma responded to AI pressure by expanding its canvas into code layers, motion, and shaders — the real test is no longer competing with other design tools but proving that a canvas-first workflow can stay relevant in a code-first, agentic era."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26",
+      "title": "AI didn't replace designers — it promoted them",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-06-25T18:00:00Z",
+      "og_image": "",
+      "excerpt": "AI is rewriting the product designer's role from spec-maker to system architect — those who thrive are the ones orchestrating AI rather than competing with it, becoming 'design directors of one' for entire product surfaces."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/06/adobe-to-acquire-topaz-labs/",
+      "title": "Adobe to acquire Topaz Labs",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Adobe announced a definitive agreement to acquire Topaz Labs — maker of Gigapixel AI, Topaz Photo, and Topaz Video — bringing its AI upscaling and NeuroStream on-device inference technology into Firefly and Creative Cloud."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/06/keyshot-releases-keyshot-2026-2/",
+      "title": "KeyShot releases KeyShot 2026.2",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "og_image": "",
+      "excerpt": "KeyShot 2026.2 adds Apple Silicon GPU rendering support (beta), integrates the new cloud-based KeyShot Cloud rendering service, and introduces Node Groups for the material graph — significantly expanding render options for Mac-based design studios."
+    },
+    {
+      "url": "https://80.lv/articles/adobe-acquires-topaz-labs-ai-company-offering-photo-video-enhancements",
+      "title": "Adobe Acquires Topaz Labs, AI Company Offering Photo & Video Editing",
+      "source": "80.lv",
+      "category": "render",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Adobe is acquiring Topaz Labs and its AI-powered Astra video upscaling and Wonder image enhancement tools, with Neurostream technology enabling large AI models to run locally on consumer devices — a major shift for on-device creative AI workflows."
+    },
+    {
+      "url": "https://www.engineering.com/gstarsoft-updates-design-portfolio-across-cad-and-bim/",
+      "title": "Gstarsoft updates design portfolio across CAD and BIM",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Gstarsoft launched an integrated CAD+BIM+AI platform combining 2D/3D CAD, BIM, CAM, cloud collaboration, and industry-specific AI models in one connected environment — addressing design and engineering workflows from drawing conversion to AI-assisted visualization."
+    }
+  ],
+  "dedup": {
+    "dropped": 5,
+    "kept": 8,
+    "against_days": 5
+  }
+}

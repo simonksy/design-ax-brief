@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-26",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://djmag.com/news/traxsource-label-music-human-made-or-ai-assisted-across-platform",
+      "title": "Traxsource to label music as human-made or AI-assisted across platform",
+      "source": "DJ Mag",
+      "category": "music",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Electronic music download store Traxsource will roll out 'Human-Made' and 'AI-Assisted' labels on July 1, 2026, partnering with AI-detection firms SH Labs and SoundPatrol to classify tracks — while fully AI-generated music will be removed from the catalogue entirely."
+    },
+    {
+      "url": "https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/",
+      "title": "Traxsource to introduce labels to identify both human-made and AI-assisted music",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Traxsource's new framework distinguishes AI-assisted tools — like stem separation, mastering or vocal processing — from music generated wholesale by AI, marking an industry-first for electronic music distribution and shaping how producers must declare their AI tool use."
+    },
+    {
+      "url": "https://ra.co/news/85477",
+      "title": "Traxsource launches AI transparency labels",
+      "source": "Resident Advisor",
+      "category": "music",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Traxsource becomes one of the first DJ-focused download stores to introduce mandatory disclosure labels for AI-assisted tracks, joining Apple Music, Deezer, Spotify and YouTube in a wave of platform-level AI-transparency requirements that will reshape how producers release music."
+    },
+    {
+      "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
+      "title": "Over 21 million copyrighted songs are circulating among AI developers, watchdog tool launched",
+      "source": "DJ Mag",
+      "category": "music",
+      "published_iso": "2026-06-24T17:26:00Z",
+      "og_image": null,
+      "excerpt": "The Atlantic's AI Watchdog published four searchable databases covering over 21 million tracks used to train AI music generators including Suno, Udio and Google's Lyria — including music by Skrillex, Peggy Gou and BICEP — and launched a free tool for any artist to check if their songs are in the data."
+    },
+    {
+      "url": "https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news",
+      "title": "Artists can now check whether their music has been used to train AI",
+      "source": "Mixmag",
+      "category": "music",
+      "published_iso": "2026-06-16T00:00:00Z",
+      "og_image": null,
+      "excerpt": "The Atlantic's new searchable AI Watchdog database reveals that dance music artists including Skrillex, Peggy Gou and BICEP had dozens of tracks scraped without consent, giving the electronic music community an unprecedented tool to audit AI music training datasets."
+    },
+    {
+      "url": "https://www.gearnews.com/ai-training-data-the-atlantic-tech/",
+      "title": "AI Training Data 2026: The Atlantic Reveals Whose Music Ended Up in Suno and Udio — Yours Included!",
+      "source": "Gear News",
+      "category": "music",
+      "published_iso": "2026-06-24T00:00:00Z",
+      "og_image": null,
+      "excerpt": "The largest dataset from nonprofit LAION contains 12.3 million tracks pulled from YouTube — equivalent to 91 years of music — revealing the massive scale on which mainstream AI music tools were trained on copyrighted recordings without artist consent."
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/06/19/two-notes-audio-genome-intro/",
+      "title": "Two Notes Audio Engineering releases Genome Intro, a FREE amp and FX suite",
+      "source": "Bedroom Producers Blog",
+      "category": "music",
+      "published_iso": "2026-06-19T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Two Notes released a free entry-level version of their GENOME 2.0 suite featuring CODEX — an AI amp-playback engine that loads neural amp modelling captures from NAM, AIDA-X and Proteus formats — giving producers and guitarists access to AI-powered tone modeling at no cost."
+    }
+  ],
+  "dedup": {
+    "dropped": 2,
+    "kept": 7,
+    "against_days": 5
+  }
+}

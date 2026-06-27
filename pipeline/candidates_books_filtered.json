@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-26",
+  "window_hours": 336,
+  "section": "books",
+  "items": [
+    {
+      "url": "https://janefriedman.com/bestselling-nonfiction-author-believes-ai-has-devastated-his-book-sales/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "label": "Books — AI writing / publishing impact",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Tim Ferriss reports his book catalog is on pace to sell 80% fewer print copies in 2026 than in 2022, with nearly all the decline since LLMs like ChatGPT and Claude became widely used — framing AI chatbots as a direct replacement for how-to nonfiction and signaling a structural shift for authors and publishers."
+    },
+    {
+      "url": "https://www.thecreativepenn.com/2026/06/22/creative-satisfaction-in-person-print-book-sales-and-author-mindset-with-mark-leslie-lefebvre/",
+      "source": "The Creative Penn",
+      "category": "books",
+      "label": "Books — AI self-publishing / indie author tools",
+      "published_iso": "2026-06-22T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Mark Leslie Lefebvre (Director of Business Development at Draft2Digital) discusses licensing his own AI voice through ElevenLabs for passive royalty income, the value of in-person author experiences as AI floods digital content, and how indie authors are navigating a market where AI-mass-produced ebooks are reshaping reader expectations."
+    },
+    {
+      "url": "https://goodereader.com/blog/kindle/do-you-use-these-new-kindle-ai-features",
+      "source": "Good e-Reader",
+      "category": "books",
+      "label": "Books — AI reading assistant / ebook tools",
+      "published_iso": "2026-06-13T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Amazon's new Kindle AI features — 'Story So Far' (spoiler-free chapter catch-up) and 'Ask This Book' (inline passage queries) — are rolling out to Kindle devices and the iOS app, alongside Kindle Scribe's AI-powered notebook search and insights, marking the Kindle platform's first major reader-facing generative AI integration."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "label": "Books — AI publishing industry",
+      "published_iso": "2026-06-22T00:00:00Z",
+      "og_image": null,
+      "excerpt": "The 40th Beijing International Book Fair (June 17–21) featured a new Internet Publishing Joint Pavilion showcasing AI-generated content tools and publishing workflow applications from NetEase, Tencent, ByteDance's Fanqie Novel, and 20 other exhibitors, signaling that AI-driven digital publishing is becoming mainstream infrastructure in China's book industry."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "label": "Books — AI in scholarly / academic publishing",
+      "published_iso": "2026-06-25T00:00:00Z",
+      "og_image": null,
+      "excerpt": "A Cambridge workshop report calls for shared infrastructure to make AI use of scholarly content traceable, measurable, and trustworthy — arguing that as generative AI systems are adopted across research workflows, the publishing industry must preserve verifiability and provenance in the scholarly record."
+    },
+    {
+      "url": "https://bookriot.com/google-play-books-chatbot/",
+      "source": "Book Riot",
+      "category": "books",
+      "label": "Books — AI reading assistant / ebook tools",
+      "published_iso": "2026-06-20T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Google Play Books launches 'Book Insights,' a Gemini-powered in-book AI companion that lets readers ask questions about plot and characters, catch up on previous chapters, and clarify text — raising debate about whether AI chatbots embedded in ebooks enhance or undermine the immersive reading experience."
+    },
+    {
+      "url": "https://janefriedman.com/links-of-interest-june-24-2026/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "label": "Books — AI writing / publishing impact",
+      "published_iso": "2026-06-24T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Jane Friedman's curated weekly roundup covers Wiley's $49M in AI licensing revenue, the Dutch Bookpact.ai consent-based licensing platform, authors suing Anthropic post-settlement, and HarperCollins partnering with Toonstar to adapt books into AI-generated short-form videos — a comprehensive snapshot of the AI×books rights and workflow landscape in late June 2026."
+    }
+  ],
+  "dedup": {
+    "dropped": 2,
+    "kept": 7,
+    "against_days": 5
+  }
+}

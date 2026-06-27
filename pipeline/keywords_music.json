@@ -1,0 +1,248 @@
+{
+  "section": "music",
+  "date": "2026-06-26",
+  "rotation_offset": 177,
+  "core_keywords": [
+    "AI music",
+    "AI 음악",
+    "generative music"
+  ],
+  "user_seeds": [],
+  "working_keywords": [
+    {
+      "keyword": "AI music",
+      "is_core": true,
+      "expansions": [
+        "AI music 2026",
+        "artificial intelligence music creation",
+        "AI music news June 2026",
+        "AI 음악 최신 뉴스"
+      ]
+    },
+    {
+      "keyword": "AI 음악",
+      "is_core": true,
+      "expansions": [
+        "AI 음악 생성 도구",
+        "인공지능 음악 제작",
+        "AI 음악 트렌드 2026"
+      ]
+    },
+    {
+      "keyword": "generative music",
+      "is_core": true,
+      "expansions": [
+        "generative AI music tools",
+        "generative music platform 2026",
+        "AI generative music composition",
+        "procedural music generation AI"
+      ]
+    },
+    {
+      "keyword": "AI vocal cloning",
+      "is_core": false,
+      "expansions": [
+        "AI voice cloning music",
+        "AI artist voice clone",
+        "synthetic vocalist AI",
+        "voice synthesis music production"
+      ]
+    },
+    {
+      "keyword": "text-to-music",
+      "is_core": false,
+      "expansions": [
+        "text to music AI model",
+        "text prompt music generation",
+        "text-to-audio music 2026",
+        "텍스트 음악 생성 AI"
+      ]
+    },
+    {
+      "keyword": "AI music plugin",
+      "is_core": false,
+      "expansions": [
+        "AI plugin DAW music production",
+        "VST AI plugin music",
+        "AI music plugin release 2026",
+        "AI instrument plugin"
+      ]
+    },
+    {
+      "keyword": "neural synthesizer",
+      "is_core": false,
+      "expansions": [
+        "neural audio synthesis",
+        "neural synth instrument",
+        "AI synthesizer 2026",
+        "machine learning synthesizer"
+      ]
+    },
+    {
+      "keyword": "AI mixing",
+      "is_core": false,
+      "expansions": [
+        "AI audio mixing tool",
+        "automated mixing AI",
+        "AI mix mastering software",
+        "AI mixing plugin 2026"
+      ]
+    },
+    {
+      "keyword": "AI sample generation",
+      "is_core": false,
+      "expansions": [
+        "AI sample pack generator",
+        "AI drum sample generation",
+        "AI sound design sample",
+        "generative audio samples"
+      ]
+    },
+    {
+      "keyword": "AI song cover",
+      "is_core": false,
+      "expansions": [
+        "AI cover song generator",
+        "AI voice cover music",
+        "AI song remake tool",
+        "AI 커버 음악"
+      ]
+    },
+    {
+      "keyword": "music AI licensing",
+      "is_core": false,
+      "expansions": [
+        "AI music copyright licensing",
+        "AI music rights 2026",
+        "AI generated music royalties",
+        "music AI legal licensing deal"
+      ]
+    },
+    {
+      "keyword": "AI DJ",
+      "is_core": false,
+      "expansions": [
+        "AI DJ software 2026",
+        "AI DJ mix generator",
+        "AI DJ set automated",
+        "AI 디제이 도구"
+      ]
+    },
+    {
+      "keyword": "real-time AI music",
+      "is_core": false,
+      "expansions": [
+        "real-time AI music generation",
+        "live AI music performance",
+        "AI music live instrument",
+        "interactive AI music system"
+      ]
+    },
+    {
+      "keyword": "Udio",
+      "is_core": false,
+      "expansions": [
+        "Udio AI music update 2026",
+        "Udio new features",
+        "Udio vs Suno comparison",
+        "Udio music generation"
+      ]
+    },
+    {
+      "keyword": "Stable Audio",
+      "is_core": false,
+      "expansions": [
+        "Stable Audio 2 update",
+        "Stability AI music model",
+        "Stable Audio open source",
+        "Stable Audio music generation 2026"
+      ]
+    },
+    {
+      "keyword": "ElevenLabs Music",
+      "is_core": false,
+      "expansions": [
+        "ElevenLabs music generation",
+        "ElevenLabs audio AI update 2026",
+        "ElevenLabs sound effects music",
+        "ElevenLabs AI voice music"
+      ]
+    },
+    {
+      "keyword": "Google Lyria",
+      "is_core": false,
+      "expansions": [
+        "Google Lyria music AI model",
+        "Lyria 2 music generation",
+        "Google DeepMind music AI 2026",
+        "Google MusicLM Lyria update"
+      ]
+    }
+  ],
+  "search_plan": {
+    "total_queries": 28,
+    "categories": [
+      {
+        "category": "music",
+        "label": "Music — Core & Tools",
+        "allowed_domains": [
+          "musictech.com", "musicradar.com", "soundonsound.com", "cdm.link",
+          "attackmagazine.com", "hypebot.com", "music-ally.com", "midiaresearch.com",
+          "waterandmusic.com", "completemusicupdate.com", "djmag.com", "mixmag.net",
+          "factmag.com", "residentadvisor.net", "synthtopia.com",
+          "bedroomproducersblog.com", "gearnews.com", "billboard.com",
+          "pitchfork.com", "rollingstone.com", "theverge.com", "engadget.com",
+          "techcrunch.com"
+        ],
+        "queries": [
+          "AI music generation tool release June 2026",
+          "generative music AI platform update 2026",
+          "AI 음악 생성 도구 최신 뉴스 2026",
+          "text-to-music AI model new 2026",
+          "Udio AI music new features 2026",
+          "Stable Audio music generation update 2026",
+          "ElevenLabs music audio AI 2026",
+          "Google Lyria DeepMind music AI model 2026",
+          "AI vocal cloning music production 2026",
+          "AI mixing mastering plugin DAW 2026",
+          "AI sample generation sound design 2026",
+          "neural synthesizer AI instrument 2026",
+          "real-time AI music live performance 2026",
+          "AI DJ software automated mix 2026",
+          "AI song cover generator voice 2026"
+        ]
+      },
+      {
+        "category": "music",
+        "label": "Music — Industry, Licensing & Workflow",
+        "allowed_domains": [
+          "billboard.com", "hypebot.com", "music-ally.com", "midiaresearch.com",
+          "waterandmusic.com", "completemusicupdate.com", "rollingstone.com",
+          "pitchfork.com", "theverge.com", "techcrunch.com"
+        ],
+        "queries": [
+          "AI music copyright licensing deal 2026",
+          "AI generated music royalties rights 2026",
+          "AI music plugin workflow producer 2026",
+          "AI in Ableton Live music production 2026",
+          "AI in Logic Pro music creation 2026",
+          "AI music video generation 2026"
+        ]
+      },
+      {
+        "category": "social",
+        "label": "Social — YouTube Music AI Channels (rotation: Andrew Huang, Benn Jordan, Venus Theory)",
+        "allowed_domains": ["youtube.com", "youtu.be"],
+        "queries": [
+          "site:youtube.com \"Andrew Huang\" AI music 2026",
+          "site:youtube.com \"Benn Jordan\" AI music 2026",
+          "site:youtube.com \"Venus Theory\" AI music 2026",
+          "site:youtube.com Udio AI music tutorial 2026",
+          "site:youtube.com ElevenLabs music AI 2026",
+          "site:instagram.com/udio AI music",
+          "site:instagram.com/elevenlabs music"
+        ]
+      }
+    ]
+  }
+}

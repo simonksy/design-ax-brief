@@ -1,0 +1,291 @@
+{
+  "section": "games",
+  "date": "2026-06-26",
+  "day_of_year": 177,
+  "rotation_offset": 9,
+  "working_keywords": [
+    {
+      "keyword": "AI game",
+      "type": "core",
+      "expansions": [
+        "AI game development 2026",
+        "AI 게임 개발",
+        "game AI tools release",
+        "AI-powered game creation"
+      ]
+    },
+    {
+      "keyword": "AI 게임",
+      "type": "core",
+      "expansions": [
+        "AI 게임 도구",
+        "AI 게임 개발 뉴스",
+        "생성형 AI 게임"
+      ]
+    },
+    {
+      "keyword": "generative game",
+      "type": "core",
+      "expansions": [
+        "generative game design",
+        "generative AI game assets",
+        "AI generative worlds",
+        "text-to-game engine"
+      ]
+    },
+    {
+      "keyword": "AI dynamic difficulty",
+      "type": "pool",
+      "expansions": [
+        "AI adaptive difficulty game",
+        "dynamic difficulty adjustment AI 2026",
+        "AI game balancing",
+        "AI player behavior analysis"
+      ]
+    },
+    {
+      "keyword": "AI localization games",
+      "type": "pool",
+      "expansions": [
+        "AI game translation localization",
+        "AI dubbing video games",
+        "game AI voice localization 2026",
+        "machine translation game dialogue"
+      ]
+    },
+    {
+      "keyword": "AI bug detection games",
+      "type": "pool",
+      "expansions": [
+        "AI game QA testing",
+        "automated bug detection game development",
+        "AI playtesting QA",
+        "game testing automation AI 2026"
+      ]
+    },
+    {
+      "keyword": "Genie world model",
+      "type": "pool",
+      "expansions": [
+        "Google Genie world model games",
+        "AI world model game generation",
+        "Genie 2 interactive world",
+        "AI playable worlds model"
+      ]
+    },
+    {
+      "keyword": "Unity Muse",
+      "type": "pool",
+      "expansions": [
+        "Unity Muse AI features 2026",
+        "Unity AI game development tools",
+        "Unity 6.5 AI workflow",
+        "Unity Sentis AI"
+      ]
+    },
+    {
+      "keyword": "AI voice acting games",
+      "type": "pool",
+      "expansions": [
+        "AI voice acting video game 2026",
+        "AI NPC voice generation",
+        "ElevenLabs game voice acting",
+        "synthetic voice game characters"
+      ]
+    },
+    {
+      "keyword": "NVIDIA ACE",
+      "type": "pool",
+      "expansions": [
+        "NVIDIA ACE NPC AI 2026",
+        "NVIDIA AI characters game",
+        "NVIDIA digital human games",
+        "NVIDIA ACE microservices update"
+      ]
+    },
+    {
+      "keyword": "Inworld AI",
+      "type": "pool",
+      "expansions": [
+        "Inworld AI NPC update 2026",
+        "Inworld AI game dialogue",
+        "AI character platform game",
+        "conversational AI game NPC"
+      ]
+    },
+    {
+      "keyword": "AI game art",
+      "type": "pool",
+      "expansions": [
+        "AI generated game concept art",
+        "AI game texture generation",
+        "generative AI game asset art pipeline",
+        "Midjourney game art workflow"
+      ]
+    },
+    {
+      "keyword": "AI animation games",
+      "type": "pool",
+      "expansions": [
+        "AI character animation game engine",
+        "neural motion synthesis game",
+        "AI procedural animation 2026",
+        "machine learning game rigging"
+      ]
+    },
+    {
+      "keyword": "AI level design",
+      "type": "pool",
+      "expansions": [
+        "AI generated level design tool",
+        "procedural level generation AI 2026",
+        "LLM level design game",
+        "AI dungeon map generation"
+      ]
+    },
+    {
+      "keyword": "text-to-game",
+      "type": "pool",
+      "expansions": [
+        "text to game engine 2026",
+        "LLM generate playable game",
+        "AI text to playable world",
+        "natural language game creation"
+      ]
+    },
+    {
+      "keyword": "AI game dialogue",
+      "type": "pool",
+      "expansions": [
+        "AI NPC dialogue system 2026",
+        "LLM game conversation system",
+        "AI quest dialogue generation",
+        "generative NPC narrative"
+      ]
+    }
+  ],
+  "skipped_pool_keywords": [
+    "Unreal Engine AI (covered: UE6 reactions, MCP)",
+    "vibe coding games (covered: Vampire Survivors / Epic story)",
+    "AI game design tool (covered: EA + UE6)",
+    "procedural generation AI (covered: UE6 feature set)",
+    "AI mod UGC (covered: Fortnite collab story)",
+    "AI playtesting (de-prioritized: overlap with QA coverage via today's EA card)",
+    "neural game engine (de-prioritized: covered implicitly by UE6)"
+  ],
+  "search_plan": {
+    "total_queries": 28,
+    "categories": [
+      {
+        "category": "games",
+        "label": "Games — Core AI news",
+        "allowed_domains": [
+          "gamesindustry.biz",
+          "gamedeveloper.com",
+          "80.lv",
+          "polygon.com",
+          "rockpapershotgun.com",
+          "vg247.com",
+          "ign.com",
+          "eurogamer.net",
+          "kotaku.com",
+          "gamespot.com",
+          "pcgamer.com",
+          "gamesradar.com",
+          "thegamer.com",
+          "wccftech.com",
+          "venturebeat.com",
+          "unrealengine.com",
+          "unity.com",
+          "roadtovr.com",
+          "gamingbolt.com",
+          "aftermath.site",
+          "nme.com",
+          "destructoid.com"
+        ],
+        "queries": [
+          "AI game development tools release June 2026",
+          "generative AI game assets pipeline 2026",
+          "AI NPC dialogue system game engine 2026",
+          "Unity Muse AI features game development 2026",
+          "NVIDIA ACE digital human NPC update 2026",
+          "Inworld AI NPC platform update June 2026",
+          "AI voice acting game characters ElevenLabs 2026",
+          "AI level design procedural generation tool 2026",
+          "text-to-game AI playable world generation 2026",
+          "AI game animation neural motion synthesis 2026",
+          "AI dynamic difficulty adaptive balancing game 2026",
+          "AI localization dubbing video game 2026",
+          "AI bug detection QA playtesting automation 2026",
+          "Genie world model AI interactive game Google 2026",
+          "AI game art texture concept generation workflow 2026",
+          "AI game dialogue LLM quest narrative 2026"
+        ]
+      },
+      {
+        "category": "games",
+        "label": "Games — Korean-language queries",
+        "allowed_domains": [
+          "gamesindustry.biz",
+          "gamedeveloper.com",
+          "venturebeat.com",
+          "theverge.com",
+          "80.lv"
+        ],
+        "queries": [
+          "AI 게임 개발 도구 2026 뉴스",
+          "생성형 AI 게임 에셋 NPC 2026",
+          "AI 게임 로컬라이제이션 더빙 2026",
+          "AI 게임 레벨 디자인 절차적 생성 2026"
+        ]
+      },
+      {
+        "category": "games",
+        "label": "Games — YouTube social (rotating creator subset: day 177 offset → Unreal Engine, GDC, Two Minute Papers)",
+        "allowed_domains": [
+          "youtube.com",
+          "youtu.be"
+        ],
+        "queries": [
+          "site:youtube.com \"Unreal Engine\" AI game development 2026",
+          "site:youtube.com \"GDC\" AI NPC generative games 2026",
+          "site:youtube.com \"Two Minute Papers\" AI game world model 2026",
+          "site:youtube.com \"Inworld AI\" NPC dialogue 2026"
+        ]
+      },
+      {
+        "category": "games",
+        "label": "Games — Instagram social (best-effort)",
+        "allowed_domains": [
+          "instagram.com"
+        ],
+        "queries": [
+          "site:instagram.com unrealengine AI game 2026",
+          "site:instagram.com unity AI game art 2026"
+        ]
+      },
+      {
+        "category": "games",
+        "label": "Games — Wildcard trending",
+        "allowed_domains": [
+          "gamesindustry.biz",
+          "gamedeveloper.com",
+          "venturebeat.com",
+          "theverge.com",
+          "techcrunch.com",
+          "pcgamer.com",
+          "polygon.com"
+        ],
+        "queries": [
+          "AI game industry jobs displacement creativity 2026",
+          "generative AI indie game development case study 2026"
+        ]
+      }
+    ]
+  },
+  "summary": {
+    "working_keyword_count": 16,
+    "category_count": 5,
+    "total_query_count": 28
+  }
+}
