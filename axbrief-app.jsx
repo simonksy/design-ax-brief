@@ -86,7 +86,7 @@ if (!document.getElementById('ax-styles')) {
        stable. The summary fits; the expanded full article is a separate flowing view. */
     /* slightly narrower than full-bleed + a max cap, so the card reads as an upright
        card (not a wide slab) and keeps a little breathing room on each side. */
-    .ax-hero-wrap{width:calc(100% - 20px);max-width:430px;height:580px;margin:2px auto 0;}
+    .ax-hero-wrap{width:calc(100% - 20px);max-width:430px;height:580px;margin:8px auto 0;}
     /* Kill continuous GPU work on phones (was overheating the device): the SVG
        feTurbulence grain and every infinite drift/spin/pulse animation. The
        full-screen blurred+blended ThemeBackdrop is also not rendered on mobile. */
@@ -119,7 +119,7 @@ if (!document.getElementById('ax-styles')) {
      padding:7px 15px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
   .ax-tab:active{transform:scale(.95);}
   @media (max-width:760px){
-    .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:12px;}
+    .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
     .ax-tabs::-webkit-scrollbar{display:none;}
   }
   /* ---- card flip: front summary <-> back full translated article ---- */
@@ -548,48 +548,67 @@ function NavButton({ dir, disabled, onClick, t }) {
 function Carousel({ items, t, initialIndex = 0, mobile }) {
   const [idx, setIdx] = useState(initialIndex);
   const idxRef = useRef(initialIndex);
-  const scroller = useRef(null);
+  const trackRef = useRef(null);
+  const startX = useRef(0); const startY = useRef(0); const dx = useRef(0);
+  const dragging = useRef(false); const axis = useRef(null); const lockedFlip = useRef(false);
   const total = items.length;
-  const [locked, setLocked] = useState(false);   // active card flipped → freeze horizontal
   useEffect(() => { idxRef.current = idx; }, [idx]);
-  useEffect(() => { setLocked(false); }, [idx]);  // landing on a new card resets the lock
-  // place the scroller on the initial card without a smooth animation
-  useLayoutEffect(() => {
-    const el = scroller.current; if (!el) return;
-    el.scrollLeft = initialIndex * el.clientWidth;
-  }, [initialIndex, total]);
-  const go = (i) => {
-    const el = scroller.current; if (!el) return;
-    const n = Math.max(0, Math.min(total - 1, i));
-    idxRef.current = n; setIdx(n);   // update dots immediately; scroll syncs the rest
-    el.scrollTo({ left: n * el.clientWidth, behavior: 'smooth' });
+  const go = (i) => { const n = Math.max(0, Math.min(total - 1, i)); idxRef.current = n; setIdx(n); };
+  const setX = (px) => {
+    const el = trackRef.current; if (!el) return;
+    el.style.transition = 'none';
+    el.style.transform = `translateX(calc(${-idxRef.current * 100}% + ${px}px))`;
   };
-  // derive the active index straight from the native scroll position. A native
-  // listener (not React onScroll) so it fires reliably for touch/wheel/momentum.
-  useEffect(() => {
-    const el = scroller.current; if (!el) return;
-    const onScroll = () => {
-      if (!el.clientWidth) return;
-      const i = Math.max(0, Math.min(total - 1, Math.round(el.scrollLeft / el.clientWidth)));
-      if (i !== idxRef.current) { idxRef.current = i; setIdx(i); }
-    };
-    el.addEventListener('scroll', onScroll, { passive: true });
-    return () => el.removeEventListener('scroll', onScroll);
-  }, [total]);
+  const snapBack = () => {
+    const el = trackRef.current; if (!el) return;
+    el.style.transition = '';   // CSS .ax-track transition
+    el.style.transform = `translateX(${-idxRef.current * 100}%)`;
+  };
+  // Horizontal swipe is handled in JS; vertical is left entirely to the browser. The
+  // viewport uses overflow:clip (NOT hidden/auto) so it is NOT a scroll container —
+  // that's what lets a vertical swipe on the card fall through and scroll the page.
+  const onTouchStart = (e) => {
+    startX.current = e.touches[0].clientX; startY.current = e.touches[0].clientY;
+    dx.current = 0; axis.current = null; dragging.current = true;
+    const slide = trackRef.current && trackRef.current.children[idxRef.current];
+    lockedFlip.current = !!(slide && slide.querySelector('.ax-flip.flipped'));   // reading → no swipe
+  };
+  const onTouchMove = (e) => {
+    if (!dragging.current || lockedFlip.current) return;
+    const x = e.touches[0].clientX, y = e.touches[0].clientY;
+    if (!axis.current) {
+      const adx = Math.abs(x - startX.current), ady = Math.abs(y - startY.current);
+      if (Math.max(adx, ady) < 8) return;
+      axis.current = adx > ady ? 'x' : 'y';
+    }
+    if (axis.current !== 'x') return;   // vertical → browser scrolls the page (pan-y)
+    let d = x - startX.current;
+    if ((idxRef.current === 0 && d > 0) || (idxRef.current === total - 1 && d < 0)) d *= 0.3;
+    dx.current = d; setX(d);
+  };
+  const onTouchEnd = () => {
+    dragging.current = false;
+    const wasH = axis.current === 'x'; axis.current = null;
+    if (lockedFlip.current || !wasH) return;
+    if (Math.abs(dx.current) > 44) go(idxRef.current + (dx.current < 0 ? 1 : -1));
+    snapBack();
+    dx.current = 0;
+  };
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0 }}>
-      <div className="ax-heroin ax-snap" ref={scroller}
-        style={{ flex: 1, minHeight: 0, overflowX: locked ? 'hidden' : 'auto',
-          touchAction: locked ? 'pan-y' : 'pan-x',   // flipped → article scrolls vertically
-          borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
-          background: mobile ? t.cardSolid : t.cardBg,
-          WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}>
-        {items.map((it, i) => (
-          <div className="ax-snapslide" key={i}>
-            <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile}
-              onFlipChange={i === idx ? setLocked : undefined} />
-          </div>
-        ))}
+      <div className="ax-heroin" style={{ flex: 1, minHeight: 0, overflow: 'clip',
+        touchAction: 'pan-y',   // browser owns vertical (page / article); JS owns horizontal
+        borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
+        background: mobile ? t.cardSolid : t.cardBg,
+        WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}
+        onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}>
+        <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
+          {items.map((it, i) => (
+            <div className="ax-slide" key={i}>
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
+            </div>
+          ))}
+        </div>
       </div>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 16, paddingTop: mobile ? 12 : 16 }}>
         <NavButton dir="l" disabled={idx === 0} onClick={() => go(idx - 1)} t={t} />
@@ -722,7 +741,7 @@ function Masthead({ t, mobile, onHome }) {
   const d = new Date();
   const ds = `${String(d.getFullYear()).slice(2)}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 12 : 20 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 22 : 20 }}>
       {/* logo → home */}
       <div role="button" tabIndex={0} aria-label="홈으로" onClick={onHome}
         onKeyDown={(e) => { if (onHome && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); onHome(); } }}
