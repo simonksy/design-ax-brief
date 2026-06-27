@@ -126,20 +126,6 @@ if (!document.getElementById('ax-styles')) {
   .ax-full img{display:block;width:100%;height:auto;border-radius:12px;margin:6px 0 16px;background:#efe9e1;}
   .ax-full .ax-vid{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;margin:6px 0 16px;background:#000;}
   .ax-full .ax-vid iframe,.ax-full .ax-vid video{position:absolute;inset:0;width:100%;height:100%;border:0;}
-  /* ---- framer-motion "Expandable" port: the mobile + (expand) / × (collapse) buttons
-     use this. A soft spring (stiffness 200 / damping 20 → ζ≈0.71, ~4% overshoot, same
-     useSpring config as the pasted component) drives the size change, and the article
-     content reveals with the blur-md preset (opacity 0→1, blur 8px→0). ---- */
-  :root{ --ax-spring: cubic-bezier(.34,1.16,.42,1); }
-  /* sheet expand (+): springs up from the card, small settle overshoot then rests */
-  @keyframes ax-spring-in{0%{opacity:0;transform:scale(.92)}68%{transform:scale(1.022)}100%{opacity:1;transform:scale(1)}}
-  .ax-spring-in{animation:ax-spring-in .5s var(--ax-spring) backwards;will-change:transform,opacity;}
-  /* blur-md content reveal (ANIMATION_PRESETS["blur-md"]); staggered via inline delay */
-  @keyframes ax-blur-in{0%{opacity:0;filter:blur(8px)}100%{opacity:1;filter:blur(0)}}
-  .ax-rv{animation:ax-blur-in .34s ease-in-out backwards;}
-  /* card return after collapse (×): the summary springs back with the same soft settle */
-  @keyframes ax-bubble-in{0%{opacity:0;transform:scale(.94)}70%{transform:scale(1.02)}100%{opacity:1;transform:scale(1)}}
-  .ax-bubble-in{animation:ax-bubble-in .5s var(--ax-spring) both;transform-origin:center top;will-change:transform,opacity;}
   `;
   document.head.appendChild(s);
 }
@@ -389,6 +375,24 @@ function axEnrich(item) {
    LAYOUT A — Editorial, vertical, FULL-BLEED (frame lives on the
    carousel window so swiping never reveals corner gaps)
    ============================================================ */
+/* shared pill button — filled, full-width, rounded. The card "Read" trigger and the
+   floating "close" in the expanded article share this one design. */
+function AxPill({ label, onClick, t, style }) {
+  return (
+    <button onClick={onClick} aria-label={label} title={label} style={{
+      width: '100%', height: 42, borderRadius: 100, cursor: 'pointer',
+      display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+      fontFamily: 'var(--font-sans)', fontSize: 14, letterSpacing: '.06em', lineHeight: 1, fontWeight: 500,
+      background: t.hl, color: '#fff', border: 'none', boxShadow: '0 6px 18px -8px rgba(40,30,20,.5)',
+      transition: 'transform .15s ease', ...style }}
+      onMouseDown={(e) => { e.currentTarget.style.transform = 'scale(.97)'; }}
+      onMouseUp={(e) => { e.currentTarget.style.transform = 'none'; }}
+      onMouseLeave={(e) => { e.currentTarget.style.transform = 'none'; }}>
+      {label}
+    </button>
+  );
+}
+
 function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
   const it = axEnrich(item);
   return (
@@ -409,18 +413,12 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
         {/* desktop pushes the source line to the card bottom; on mobile the card is
             content-height so the line simply follows the body (never clipped). */}
         <div style={{ flex: 1, minHeight: 14 }} />
-        {/* footer: divider, source link, then a centered expand (+) button at the bottom */}
+        {/* footer: divider, source link, then a full-width "Read" pill at the bottom */}
         <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18 }}>
           <SourceLine item={it} t={t} />
           {onExpand && (
-            <div style={{ display: 'flex', justifyContent: 'center', marginTop: 14 }}>
-              <button onClick={onExpand} aria-label="기사 전문 보기" title="기사 전문" style={{
-                width: 34, height: 34, borderRadius: '50%', cursor: 'pointer',
-                display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-                fontFamily: 'var(--font-sans)', fontSize: 21, lineHeight: 1, fontWeight: 400,
-                background: t.hl, color: '#fff', border: 'none', transition: 'transform .15s ease' }}
-                onMouseDown={(e) => { e.currentTarget.style.transform = 'scale(.9)'; }}
-                onMouseUp={(e) => { e.currentTarget.style.transform = 'none'; }}>+</button>
+            <div style={{ marginTop: 14 }}>
+              <AxPill label="Read" onClick={onExpand} t={t} />
             </div>
           )}
         </div>
@@ -431,57 +429,49 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
 
 /* ---- FullArticle: the flip back — Korean-translated article (text+img+video),
    capped to a fixed scroll box (full if it fits, else a summary that fits). ---- */
-function FullArticle({ item, t, onClose, reveal }) {
+function FullArticle({ item, t, onClose }) {
   const it = axEnrich(item);
   const full = item.full || { blocks: [] };
   const blocks = full.blocks || [];
-  // blur-md staggered reveal (only when expanded via the mobile + button)
-  const rv = (i) => reveal ? { className: 'ax-rv', style: { animationDelay: Math.min(i * 0.05, 0.4) + 's' } } : {};
+  const solid = t.cardSolid || '#fbf8f3';   // opaque base for the floating-close fade
   return (
     <React.Fragment>
-      <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}`,
-        display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 12 }}>
+      <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
         <div style={{ minWidth: 0 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
             {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {full.mode === 'summary' ? '요약본(번역)' : '전문(번역)'}</span>
           </div>
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
-        {onClose && (
-          <button onClick={onClose} aria-label="요약으로 닫기" title="닫기" style={{
-            flex: '0 0 auto', width: 30, height: 30, borderRadius: '50%', cursor: 'pointer', marginTop: 1,
-            display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-            fontFamily: 'var(--font-sans)', fontSize: 18, lineHeight: 1, fontWeight: 400,
-            background: 'transparent', color: t.mute, border: `1px solid ${t.rule}` }}>×</button>
-        )}
       </div>
-      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62 }}>
+      {/* extra bottom padding so the last line clears the floating close pill */}
+      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92 }}>
         {blocks.map((b, i) => {
-          const r = rv(i);
-          if (b.t === 'img') return <img key={i} {...r} src={b.src} alt={b.cap || ''} loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />;
+          if (b.t === 'img') return <img key={i} src={b.src} alt={b.cap || ''} loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />;
           if (b.t === 'video') return (
-            <div key={i} className={'ax-vid' + (reveal ? ' ax-rv' : '')} style={r.style}>
+            <div key={i} className="ax-vid">
               {b.yt
                 ? <iframe src={`https://www.youtube.com/embed/${b.yt}`} title="video" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowFullScreen />
                 : <video src={b.src} poster={b.poster || undefined} controls playsInline />}
             </div>
           );
-          return <p key={i} {...r}>{b.x}</p>;
+          return <p key={i}>{b.x}</p>;
         })}
         <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
           <SourceLine item={it} t={t} />
         </div>
-        {/* bottom close (centered) — so you don't have to scroll back up after reading */}
-        {onClose && (
-          <div style={{ display: 'flex', justifyContent: 'center', marginTop: 18 }}>
-            <button onClick={onClose} aria-label="닫기" title="닫기" style={{
-              width: 32, height: 32, borderRadius: '50%', cursor: 'pointer',
-              display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-              fontFamily: 'var(--font-sans)', fontSize: 19, lineHeight: 1, fontWeight: 400,
-              background: 'transparent', color: t.mute, border: `1px solid ${t.rule}` }}>×</button>
-          </div>
-        )}
       </div>
+      {/* floating close — the same pill as Read, always pinned to the bottom of the view */}
+      {onClose && (
+        <div style={{ position: 'absolute', left: 0, right: 0, bottom: 0, padding: '18px 22px',
+          paddingBottom: 'calc(18px + env(safe-area-inset-bottom))',
+          background: `linear-gradient(to top, ${solid} 56%, ${solid}d9 78%, ${solid}00)`,
+          pointerEvents: 'none', zIndex: 5 }}>
+          <div style={{ pointerEvents: 'auto', maxWidth: 520, margin: '0 auto' }}>
+            <AxPill label="close" onClick={onClose} t={t} />
+          </div>
+        </div>
+      )}
     </React.Fragment>
   );
 }
@@ -490,19 +480,17 @@ function FullArticle({ item, t, onClose, reveal }) {
    to the FullArticle back. Desktop-first (the back uses absolute faces that need a
    fixed-height card; on mobile, where the hero is content-height, fall back to the
    plain summary card for now). ---- */
-function FlipCard({ item, index, total, active, t, mobile, onMobileExpand }) {
+function FlipCard({ item, index, total, active, t, mobile }) {
   const [flipped, setFlipped] = useState(false);
   useEffect(() => { if (!active) setFlipped(false); }, [active]);
   const hasFull = item.full && Array.isArray(item.full.blocks) && item.full.blocks.length > 0;
-  if (mobile) {
-    // mobile: the + button expands the card inline (full article flows, page scrolls);
-    // ThemedPage owns that state. No 3D flip on touch.
-    return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile
-      onExpand={hasFull && onMobileExpand ? () => onMobileExpand(item) : undefined} />;
-  }
   if (!hasFull) {
     return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
   }
+  // Both desktop AND mobile flip in place (revolving door): the summary front and the
+  // full translated-article back are one connected card, so reading stays in context.
+  // The hero box is a fixed height on both (CSS .ax-hero-wrap: 760px / 580px mobile),
+  // which gives the absolute faces a box to fill — no full-screen sheet swap.
   return (
     <div className="ax-flip-wrap">
       <div className={'ax-flip' + (flipped ? ' flipped' : '')}>
@@ -542,7 +530,7 @@ function NavButton({ dir, disabled, onClick, t }) {
    Frame (radius/border/shadow/glass) lives on the window so the
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
-function Carousel({ items, t, initialIndex = 0, mobile, onMobileExpand }) {
+function Carousel({ items, t, initialIndex = 0, mobile }) {
   const [idx, setIdx] = useState(initialIndex);
   const idxRef = useRef(initialIndex);
   const trackRef = useRef(null);
@@ -585,7 +573,7 @@ function Carousel({ items, t, initialIndex = 0, mobile, onMobileExpand }) {
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} onMobileExpand={onMobileExpand} />
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
             </div>
           ))}
         </div>
@@ -950,75 +938,6 @@ function MobileFilmstrip({ t, onOpen, days }) {
   );
 }
 
-/* ---- MobileArticle: mobile expand view — a full-screen reader sheet. Over-scroll
-   at the top (pull down) or bottom (push up) shrinks the sheet in REAL TIME with the
-   finger; release past a small threshold collapses it with a Dynamic-Island spring,
-   otherwise it springs back. Because it's a fixed overlay, closing returns the page
-   exactly where the card was (no scroll drift). ---- */
-function MobileArticle({ item, t, onClose }) {
-  const sheetRef = useRef();
-  const st = useRef({ startY: 0, lastY: 0, over: null, overStartY: 0, pull: 0, closing: false });
-  const setSheet = (scale, animate) => {
-    const el = sheetRef.current; if (!el) return;
-    // soft spring (matches the component's useSpring config) on release; 1:1 on drag
-    el.style.transition = animate ? 'transform .44s var(--ax-spring), opacity .44s, filter .44s' : 'none';
-    el.style.transform = `scale(${scale})`;
-    el.style.opacity = String(Math.max(0.55, scale));
-    // ease toward the blur-md look as the sheet shrinks under the finger
-    el.style.filter = scale < 1 ? `blur(${((1 - scale) * 18).toFixed(1)}px)` : 'none';
-  };
-  const collapse = () => {
-    const s = st.current; if (s.closing) return; s.closing = true;
-    const el = sheetRef.current;
-    // collapse = the size spring runs back + blur-md exit (opacity→0, blur 8px)
-    if (el) { el.style.transition = 'transform .3s var(--ax-spring), opacity .28s ease, filter .28s ease'; el.style.transform = 'scale(.94)'; el.style.opacity = '0'; el.style.filter = 'blur(8px)'; }
-    setTimeout(onClose, 250);
-  };
-  const springBack = () => { const s = st.current; s.over = null; s.pull = 0; setSheet(1, true); };
-  useEffect(() => {
-    const sheet = sheetRef.current; if (!sheet) return;
-    const sc = sheet.querySelector('.ax-full'); if (!sc) return;
-    const onStart = (e) => { const s = st.current; s.startY = s.lastY = e.touches[0].clientY; s.over = null; s.pull = 0; };
-    const onMove = (e) => {
-      const s = st.current; if (s.closing) return;
-      const y = e.touches[0].clientY;
-      const atTop = sc.scrollTop <= 0;
-      const atBottom = sc.scrollTop + sc.clientHeight >= sc.scrollHeight - 1;
-      const dirDown = y > s.lastY, dirUp = y < s.lastY;
-      s.lastY = y;
-      // arm overscroll ONCE, the moment we're at an edge and moving outward
-      if (!s.over) {
-        if (atTop && dirDown) { s.over = 'top'; s.overStartY = y; }
-        else if (atBottom && dirUp) { s.over = 'bottom'; s.overStartY = y; }
-        else return;
-      }
-      // scrolling back into range cancels it
-      if ((s.over === 'top' && !atTop) || (s.over === 'bottom' && !atBottom)) { s.over = null; s.pull = 0; setSheet(1, false); return; }
-      const pull = Math.max(0, s.over === 'top' ? (y - s.overStartY) : (s.overStartY - y));
-      s.pull = pull;
-      if (e.cancelable) e.preventDefault();   // own the gesture; drive the shrink
-      setSheet(Math.max(0.84, 1 - pull / 700), false);  // real-time, finger-proportional
-    };
-    const onEnd = () => {
-      const s = st.current; if (s.closing) return;
-      if (!s.over) return;
-      const th = s.over === 'top' ? 64 : 96;   // small, deliberate over-pull
-      if (s.pull > th) collapse(); else springBack();
-    };
-    sc.addEventListener('touchstart', onStart, { passive: true });
-    sc.addEventListener('touchmove', onMove, { passive: false });
-    sc.addEventListener('touchend', onEnd, { passive: true });
-    return () => { sc.removeEventListener('touchstart', onStart); sc.removeEventListener('touchmove', onMove); sc.removeEventListener('touchend', onEnd); };
-  }, []);
-  return (
-    <div ref={sheetRef} className="ax-spring-in" style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, zIndex: 200,
-      background: t.cardSolid || t.cardBg, display: 'flex', flexDirection: 'column',
-      transformOrigin: 'top center', willChange: 'transform,opacity,filter' }}>
-      <FullArticle item={item} t={t} onClose={collapse} reveal />
-    </div>
-  );
-}
-
 /* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck ---- */
 function SectionTabs({ sections, order, active, onSelect, t }) {
   return (
@@ -1050,13 +969,8 @@ function ThemedPage({ themeKey }) {
   const heroRef = useRef();
   const [hero, setHero] = useState(() => ({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: 0, day: null }));
   const [intro, setIntro] = useState(null);
-  const [expanded, setExpanded] = useState(null);   // mobile: the card whose full article is open
-  const [returned, setReturned] = useState(false);  // briefly true after collapse → card pops back
-  const collapseExpanded = () => {
-    setExpanded(null);
-    setReturned(true);
-    setTimeout(() => setReturned(false), 420);
-  };
+  // Mobile flips the card in place (same as desktop), so there's no separate "expanded"
+  // full-screen state to track — the FlipCard owns its own flip state.
   // Pre-decode this section's images so swiping/scrolling never shows a blank tile.
   useEffect(() => {
     let alive = true;
@@ -1074,23 +988,22 @@ function ThemedPage({ themeKey }) {
   };
   const switchSection = (s) => {
     if (s === section) return;
-    setSection(s); setIntro(null); setExpanded(null);
+    setSection(s); setIntro(null);
     setHero({ items: (sections[s] || { news: [] }).news, index: 0, key: Date.now(), day: null });
   };
   const openDay = (day, cardIdx) => {
-    setExpanded(null);
     setHero({ items: day.cards, index: cardIdx, key: Date.now(), day });
     setIntro({ day, cardIdx, k: Date.now() });
     scrollToHero();
   };
   const backToToday = () => {
-    setIntro(null); setExpanded(null);
+    setIntro(null);
     setHero({ items: cur.news, index: 0, key: Date.now(), day: null });
     scrollToHero();
   };
   // logo → home: reset to the first section's today and scroll to the top.
   const goHome = () => {
-    setSection(order[0] || 'design'); setIntro(null); setExpanded(null);
+    setSection(order[0] || 'design'); setIntro(null);
     setHero({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: Date.now(), day: null });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
@@ -1106,7 +1019,7 @@ function ThemedPage({ themeKey }) {
         <Masthead t={t} mobile={isMobile} onHome={goHome} />
         <SectionTabs sections={sections} order={order} active={section} onSelect={switchSection} t={t} />
         {/* back-to-today control — rendered only while viewing a past day. */}
-        {hero.day && !(isMobile && expanded) && (
+        {hero.day && (
           <div style={{ marginTop: 2, marginBottom: 2, textAlign: 'center' }}>
             <button onClick={backToToday} className="ax-eyebrow" style={{ cursor: 'pointer',
               border: t.cardBorder, background: t.cardBg, color: t.hl, padding: '7px 15px', borderRadius: 100,
@@ -1116,14 +1029,11 @@ function ThemedPage({ themeKey }) {
             </button>
           </div>
         )}
-        {isMobile && expanded ? (
-          /* mobile: full article expanded inline (card grows; page scrolls) */
-          <MobileArticle item={expanded} t={t} onClose={collapseExpanded} />
-        ) : hasNews ? (
+        {hasNews ? (
           <React.Fragment>
-            {/* HERO — centered vertical card */}
-            <div ref={heroRef} className={'ax-hero-wrap' + (returned ? ' ax-bubble-in' : '')}>
-              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} onMobileExpand={setExpanded} />
+            {/* HERO — centered vertical card (flips in place to the full article) */}
+            <div ref={heroRef} className="ax-hero-wrap">
+              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} />
               {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} onDone={() => setIntro(null)} />}
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
@@ -1144,4 +1054,4 @@ function ThemedPage({ themeKey }) {
   );
 }
 
-Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, FlipCard, FullArticle, MobileArticle, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, SectionTabs, ThemedPage });
+Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, FlipCard, FullArticle, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, SectionTabs, ThemedPage });
