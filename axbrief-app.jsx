@@ -126,19 +126,20 @@ if (!document.getElementById('ax-styles')) {
   .ax-full img{display:block;width:100%;height:auto;border-radius:12px;margin:6px 0 16px;background:#efe9e1;}
   .ax-full .ax-vid{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;margin:6px 0 16px;background:#000;}
   .ax-full .ax-vid iframe,.ax-full .ax-vid video{position:absolute;inset:0;width:100%;height:100%;border:0;}
-  /* Dynamic-Island-style collapse: the expanded article squishes down and the summary
-     card springs back with a settle bounce. The out anticipates (tiny grow) then
-     shrinks; the in overshoots then settles. */
-  @keyframes ax-bubble-out{0%{transform:scale(1);opacity:1}16%{transform:scale(1.04)}100%{transform:scale(.46);opacity:0}}
-  .ax-bubble-out{animation:ax-bubble-out .2s cubic-bezier(.5,0,.7,1) forwards;transform-origin:center top;will-change:transform,opacity;}
-  @keyframes ax-bubble-in{0%{transform:scale(.66);opacity:.2}42%{transform:scale(1.07)}68%{transform:scale(.975)}86%{transform:scale(1.012)}100%{transform:scale(1);opacity:1}}
-  .ax-bubble-in{animation:ax-bubble-in .5s cubic-bezier(.22,1,.36,1) both;transform-origin:center top;will-change:transform,opacity;}
-  /* mobile full-article sheet entrance (springs up from the card). fill=backwards
-     (NOT both): once it ends the animation stops applying, so the inline transform we
-     drive during the over-scroll shrink isn't overridden by a lingering filled animation
-     (which is what blocked the shrink on iOS). */
-  @keyframes ax-sheet-in{0%{transform:scale(.9);opacity:0}60%{transform:scale(1.012)}100%{transform:scale(1);opacity:1}}
-  .ax-sheet-in{animation:ax-sheet-in .34s cubic-bezier(.22,1,.36,1) backwards;}
+  /* ---- framer-motion "Expandable" port: the mobile + (expand) / × (collapse) buttons
+     use this. A soft spring (stiffness 200 / damping 20 → ζ≈0.71, ~4% overshoot, same
+     useSpring config as the pasted component) drives the size change, and the article
+     content reveals with the blur-md preset (opacity 0→1, blur 8px→0). ---- */
+  :root{ --ax-spring: cubic-bezier(.34,1.16,.42,1); }
+  /* sheet expand (+): springs up from the card, small settle overshoot then rests */
+  @keyframes ax-spring-in{0%{opacity:0;transform:scale(.92)}68%{transform:scale(1.022)}100%{opacity:1;transform:scale(1)}}
+  .ax-spring-in{animation:ax-spring-in .5s var(--ax-spring) backwards;will-change:transform,opacity;}
+  /* blur-md content reveal (ANIMATION_PRESETS["blur-md"]); staggered via inline delay */
+  @keyframes ax-blur-in{0%{opacity:0;filter:blur(8px)}100%{opacity:1;filter:blur(0)}}
+  .ax-rv{animation:ax-blur-in .34s ease-in-out backwards;}
+  /* card return after collapse (×): the summary springs back with the same soft settle */
+  @keyframes ax-bubble-in{0%{opacity:0;transform:scale(.94)}70%{transform:scale(1.02)}100%{opacity:1;transform:scale(1)}}
+  .ax-bubble-in{animation:ax-bubble-in .5s var(--ax-spring) both;transform-origin:center top;will-change:transform,opacity;}
   `;
   document.head.appendChild(s);
 }
@@ -430,10 +431,12 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
 
 /* ---- FullArticle: the flip back — Korean-translated article (text+img+video),
    capped to a fixed scroll box (full if it fits, else a summary that fits). ---- */
-function FullArticle({ item, t, onClose }) {
+function FullArticle({ item, t, onClose, reveal }) {
   const it = axEnrich(item);
   const full = item.full || { blocks: [] };
   const blocks = full.blocks || [];
+  // blur-md staggered reveal (only when expanded via the mobile + button)
+  const rv = (i) => reveal ? { className: 'ax-rv', style: { animationDelay: Math.min(i * 0.05, 0.4) + 's' } } : {};
   return (
     <React.Fragment>
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}`,
@@ -454,15 +457,16 @@ function FullArticle({ item, t, onClose }) {
       </div>
       <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62 }}>
         {blocks.map((b, i) => {
-          if (b.t === 'img') return <img key={i} src={b.src} alt={b.cap || ''} loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />;
+          const r = rv(i);
+          if (b.t === 'img') return <img key={i} {...r} src={b.src} alt={b.cap || ''} loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />;
           if (b.t === 'video') return (
-            <div key={i} className="ax-vid">
+            <div key={i} className={'ax-vid' + (reveal ? ' ax-rv' : '')} style={r.style}>
               {b.yt
                 ? <iframe src={`https://www.youtube.com/embed/${b.yt}`} title="video" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowFullScreen />
                 : <video src={b.src} poster={b.poster || undefined} controls playsInline />}
             </div>
           );
-          return <p key={i}>{b.x}</p>;
+          return <p key={i} {...r}>{b.x}</p>;
         })}
         <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
           <SourceLine item={it} t={t} />
@@ -956,15 +960,19 @@ function MobileArticle({ item, t, onClose }) {
   const st = useRef({ startY: 0, lastY: 0, over: null, overStartY: 0, pull: 0, closing: false });
   const setSheet = (scale, animate) => {
     const el = sheetRef.current; if (!el) return;
-    el.style.transition = animate ? 'transform .44s cubic-bezier(.22,1,.36,1), opacity .44s' : 'none';
+    // soft spring (matches the component's useSpring config) on release; 1:1 on drag
+    el.style.transition = animate ? 'transform .44s var(--ax-spring), opacity .44s, filter .44s' : 'none';
     el.style.transform = `scale(${scale})`;
     el.style.opacity = String(Math.max(0.55, scale));
+    // ease toward the blur-md look as the sheet shrinks under the finger
+    el.style.filter = scale < 1 ? `blur(${((1 - scale) * 18).toFixed(1)}px)` : 'none';
   };
   const collapse = () => {
     const s = st.current; if (s.closing) return; s.closing = true;
     const el = sheetRef.current;
-    if (el) { el.style.transition = 'transform .26s cubic-bezier(.5,0,.7,1), opacity .24s ease'; el.style.transform = 'scale(.42)'; el.style.opacity = '0'; }
-    setTimeout(onClose, 215);
+    // collapse = the size spring runs back + blur-md exit (opacity→0, blur 8px)
+    if (el) { el.style.transition = 'transform .3s var(--ax-spring), opacity .28s ease, filter .28s ease'; el.style.transform = 'scale(.94)'; el.style.opacity = '0'; el.style.filter = 'blur(8px)'; }
+    setTimeout(onClose, 250);
   };
   const springBack = () => { const s = st.current; s.over = null; s.pull = 0; setSheet(1, true); };
   useEffect(() => {
@@ -1003,10 +1011,10 @@ function MobileArticle({ item, t, onClose }) {
     return () => { sc.removeEventListener('touchstart', onStart); sc.removeEventListener('touchmove', onMove); sc.removeEventListener('touchend', onEnd); };
   }, []);
   return (
-    <div ref={sheetRef} style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, zIndex: 200,
+    <div ref={sheetRef} className="ax-spring-in" style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, zIndex: 200,
       background: t.cardSolid || t.cardBg, display: 'flex', flexDirection: 'column',
-      transformOrigin: 'top center', willChange: 'transform,opacity' }}>
-      <FullArticle item={item} t={t} onClose={collapse} />
+      transformOrigin: 'top center', willChange: 'transform,opacity,filter' }}>
+      <FullArticle item={item} t={t} onClose={collapse} reveal />
     </div>
   );
 }
