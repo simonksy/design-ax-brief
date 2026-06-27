@@ -1154,8 +1154,11 @@ function ThemedPage({ themeKey }) {
         )}
         {hasNews ? (
           <React.Fragment>
-            {/* HERO — centered vertical card (flips in place to the full article) */}
-            <div ref={heroRef} className="ax-hero-wrap">
+            {/* HERO — centered vertical card (flips in place to the full article).
+                When the 2-row sticky bar is showing, drop the card so the tabs row
+                doesn't cover its top. */}
+            <div ref={heroRef} className="ax-hero-wrap"
+              style={isMobile && stuckTabs ? { marginTop: 104, transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' } : { transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' }}>
               <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} />
               {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} mobile={isMobile} onDone={() => setIntro(null)} />}
             </div>
