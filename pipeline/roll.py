@@ -1,16 +1,20 @@
 """Roll news_data.json: today -> days (mini-cards), set new today from cards+media."""
 import argparse, json
 
-MINI = ("tool","headline","source","url","accent")
+# Deck cards keep the FULL card payload (eyebrow/body/full) so that opening a past
+# card shows the exact same main-card layout — thumbnail · headline · summary · Read —
+# as today's cards. The deck thumbnail itself only renders headline+image.
+MINI = ("id","eyebrow","tool","headline","body","source","url","accent","motif")
 
 def mini_card(c):
-    # deck mini-cards are single-line: prefer the writer's mini_headline,
-    # else strip the hero headline's \n wrap.
+    # deck headline stays single-line (deck thumbnails are compact)
     head = c.get("mini_headline") or c.get("headline", "").replace("\n", " ")
     d = {k: c.get(k, "") for k in MINI}
     d["headline"] = head
-    if c.get("image"):           # keep the source banner image on the deck card
+    if c.get("image"):           # source banner image on the deck card
         d["image"] = c["image"]
+    if c.get("full"):            # the translated article, so the opened card can flip to Read
+        d["full"] = c["full"]
     return d
 
 def roll(data, cards, media):

@@ -44,7 +44,7 @@ if (!document.getElementById('ax-styles')) {
   @keyframes axfade{0%,12%{opacity:0;transform:translateY(5px)}28%,72%{opacity:1;transform:none}90%,100%{opacity:0;transform:translateY(-3px)}}
   @keyframes axpulse{0%,100%{opacity:.3}50%{opacity:1}}
   @keyframes axsweep{0%,100%{transform:translateX(-35%);opacity:0}50%{opacity:.55}}
-  .ax-track{display:flex;height:100%;transition:transform .5s cubic-bezier(.4,0,.2,1);will-change:transform;}
+  .ax-track{display:flex;height:100%;transition:transform .5s cubic-bezier(.4,0,.2,1);}
   .ax-slide{flex:0 0 100%;min-width:100%;height:100%;}
   /* native horizontal scroll-snap carousel: horizontal swipe snaps cards, vertical
      swipe falls through to the page natively (no JS touch handler to swallow it). */
@@ -123,8 +123,11 @@ if (!document.getElementById('ax-styles')) {
     .ax-tabs::-webkit-scrollbar{display:none;}
   }
   /* ---- card flip: front summary <-> back full translated article ---- */
-  .ax-flip-wrap{position:relative;width:100%;height:100%;perspective:1800px;}
-  .ax-flip{position:relative;width:100%;height:100%;transform-style:preserve-3d;
+  /* perspective + preserve-3d are applied INLINE only while flipping/flipped (see
+     FlipCard) so a resting card has no 3D compositing layer — a 3D layer is what was
+     swallowing vertical touch-scroll on the card on mobile. */
+  .ax-flip-wrap{position:relative;width:100%;height:100%;}
+  .ax-flip{position:relative;width:100%;height:100%;
      transition:transform .62s cubic-bezier(.4,0,.2,1);}
   .ax-flip.flipped{transform:rotateY(180deg);}
   .ax-flip-face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
@@ -494,27 +497,34 @@ function FullArticle({ item, t, onClose }) {
    plain summary card for now). ---- */
 function FlipCard({ item, index, total, active, t, mobile, onFlipChange }) {
   const [flipped, setFlipped] = useState(false);
-  useEffect(() => { if (!active) setFlipped(false); }, [active]);
+  const [flipping, setFlipping] = useState(false);   // true during the rotate animation
+  const flipTimer = useRef();
+  const doFlip = (v) => {
+    setFlipping(true); setFlipped(v);
+    clearTimeout(flipTimer.current);
+    flipTimer.current = setTimeout(() => setFlipping(false), 680);   // > the .62s transition
+  };
+  useEffect(() => { if (!active) { setFlipped(false); setFlipping(false); } }, [active]);
   useEffect(() => { if (onFlipChange) onFlipChange(flipped); }, [flipped, onFlipChange]);
+  useEffect(() => () => clearTimeout(flipTimer.current), []);
   const hasFull = item.full && Array.isArray(item.full.blocks) && item.full.blocks.length > 0;
   if (!hasFull) {
     return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
   }
-  // Both desktop AND mobile flip in place (revolving door): the summary front and the
-  // full translated-article back are one connected card, so reading stays in context.
-  // The hero box is a fixed height on both (CSS .ax-hero-wrap: 760px / 580px mobile),
-  // which gives the absolute faces a box to fill — no full-screen sheet swap.
+  // 3D only while flipping/flipped. At rest on the front the card is a plain 2D element
+  // (no perspective/preserve-3d → no compositing layer → vertical touch scrolls the page).
+  const use3d = flipped || flipping;
   return (
-    <div className="ax-flip-wrap">
-      <div className={'ax-flip' + (flipped ? ' flipped' : '')}>
+    <div className="ax-flip-wrap" style={{ perspective: use3d ? '1800px' : 'none' }}>
+      <div className={'ax-flip' + (flipped ? ' flipped' : '')} style={{ transformStyle: use3d ? 'preserve-3d' : 'flat' }}>
         <div className="ax-flip-face">
           <LayoutEditorial item={item} index={index} total={total} active={active && !flipped} t={t} mobile={mobile}
-            onExpand={() => setFlipped(true)} />
+            onExpand={() => doFlip(true)} />
         </div>
-        <div className="ax-flip-face ax-flip-back" style={{ background: t.cardSolid || t.cardBg }}>
-          {/* only the active card can flip, so only it needs the (heavy) article back
-              mounted — keeps swiping the carousel light, esp. on mobile. */}
-          {active && <FullArticle item={item} t={t} onClose={() => setFlipped(false)} />}
+        {/* hide the back when flat (no backface-visibility in a flat context) so it can't
+            bleed over the front; only the active card mounts the heavy article. */}
+        <div className="ax-flip-face ax-flip-back" style={{ background: t.cardSolid || t.cardBg, visibility: use3d ? 'visible' : 'hidden' }}>
+          {active && <FullArticle item={item} t={t} onClose={() => doFlip(false)} />}
         </div>
       </div>
     </div>
@@ -741,7 +751,7 @@ function Masthead({ t, mobile, onHome }) {
   const d = new Date();
   const ds = `${String(d.getFullYear()).slice(2)}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 22 : 20 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 46 : 20 }}>
       {/* logo → home */}
       <div role="button" tabIndex={0} aria-label="홈으로" onClick={onHome}
         onKeyDown={(e) => { if (onHome && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); onHome(); } }}
@@ -940,9 +950,9 @@ function MobileFilmstrip({ t, onOpen, days }) {
               <div className="ax-day-cards">
                 {day.cards.map((c, ci) => (
                   <button key={ci} className="ax-strip-card" onClick={() => onOpen(day, ci)} style={{
-                    width: 232, background: t.cardSolid, border: t.feedBorder,
-                    boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)', display: 'flex', flexDirection: 'column' }}>
-                    <div style={{ position: 'relative', aspectRatio: '16 / 10', overflow: 'hidden', background: '#efe9e1' }}>
+                    width: 150, background: t.feedSolid, border: t.feedBorder,
+                    boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
+                    <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden', background: '#efe9e1' }}>
                       {c.image ? (
                         <img src={c.image} alt="" loading="eager" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
                       ) : (
@@ -953,15 +963,11 @@ function MobileFilmstrip({ t, onOpen, days }) {
                         </React.Fragment>
                       )}
                     </div>
-                    {/* same anatomy as the hero card: eyebrow · headline · Read pill */}
-                    <div style={{ padding: '13px 14px 14px', display: 'flex', flexDirection: 'column', flex: 1 }}>
-                      <div className="ax-eyebrow" style={{ fontSize: 9.5, color: t.faint, marginBottom: 7 }}>AI NEWS · {c.tool}</div>
-                      <div className="ax-hl" style={{ fontSize: 14.5, lineHeight: 1.34, color: t.hl, minHeight: 'calc(1.34em * 2)',
-                        display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
-                      <div style={{ flex: 1, minHeight: 12 }} />
-                      <div style={{ width: '100%', height: 38, borderRadius: 100, background: t.hl, color: '#fff', marginTop: 4,
-                        display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
-                        fontFamily: 'var(--font-sans)', fontSize: 13, letterSpacing: '.06em', fontWeight: 500 }}>Read</div>
+                    <div style={{ padding: '10px 11px 12px' }}>
+                      <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5 }}>{c.tool}</div>
+                      {/* reserve 3 lines so every card is the same height regardless of headline length */}
+                      <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl, height: 'calc(1.32em * 3)',
+                        display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
                     </div>
                   </button>
                 ))}

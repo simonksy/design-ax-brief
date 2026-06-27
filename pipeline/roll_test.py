@@ -24,10 +24,11 @@ res = g(json.load(open(f"{d}/news_data.json", encoding="utf-8")))
 assert res["today"]["date"] == "2026-06-22"
 assert res["today"]["cards"][0]["image"] == "pipeline/media/figma.jpg"
 assert "mini_headline" not in res["today"]["cards"][0]
-# previous today became newest day, as mini-cards (5 fields only)
+# previous today became newest day; deck cards now keep the full payload (eyebrow/
+# body/full) so an opened past card renders the same main-card layout as today's.
 assert res["days"][-1]["date"] == "2026-06-21"
 mini = res["days"][-1]["cards"][0]
-assert set(mini.keys()) == {"tool","headline","source","url","accent"}
+assert set(mini.keys()) == {"id","eyebrow","tool","headline","body","source","url","accent","motif"}
 # prev card had no mini_headline and a \n in its headline -> deck uses single line
 assert mini["headline"] == "옛 헤드라인"
 # days trimmed to 5
