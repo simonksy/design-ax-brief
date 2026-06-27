@@ -19,11 +19,12 @@ For each pick produce:
   Put the `\n` between words, not mid-가운 / mid-단어. (The pages also set
   `word-break: keep-all` so auto-wrap won't split words, but author the `\n`
   cleanly too.)
-- `body`: 2–3 short, plain sentences — what changed and why a designer cares.
-  Use the full card width: aim to fill ~3 lines (the body box is the full card
-  width, ~95–110 characters ≈ 3 lines; Latin words are half-width so more fit).
-  HARD LIMIT: never exceed 3 lines — the card clamps to 3 and would truncate.
-  Keep it to **≤ 110 characters** and prefer landing right at 3 full lines.
+- `body`: a tight core summary — what changed and why a designer cares. UNIFORM
+  format for EVERY card so they read consistently: **exactly 2 complete sentences**
+  (never 1, never 3) that **fill ~3 lines**, landing at **100–110 Korean characters**
+  (hard floor 100, hard ceiling 112 incl. any Latin tokens). Always finish the
+  sentences with proper 종결어미 — never a single short clause, never trailing off.
+  The card clamps to 3 lines, so anything over ~112 truncates with "…": don't.
 - `mini_headline`: a shorter (~10–14 char) headline for the weekly deck.
 - Carry through verbatim from selected.json: `tool`, `source`, `url`, `accent`, `motif`.
 

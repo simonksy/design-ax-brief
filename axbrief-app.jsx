@@ -865,7 +865,7 @@ function WeeklyTimeline({ t, onOpen, days }) {
 }
 
 /* ---- HeroDeckIntro: the chosen day's deck cascading into the hero ---- */
-function HeroDeckIntro({ day, cardIdx, t, onDone }) {
+function HeroDeckIntro({ day, cardIdx, t, onDone, mobile }) {
   const [go, setGo] = useState(false);
   const [fade, setFade] = useState(false);
   useEffect(() => {
@@ -886,9 +886,11 @@ function HeroDeckIntro({ day, cardIdx, t, onDone }) {
         return (
           <div key={i} style={{ position: 'absolute', inset: 0, transform: `translateY(${dy}px) scale(${sc})`, opacity: op,
             transition: `transform .6s cubic-bezier(.2,.8,.25,1) ${oi * 0.07}s, opacity .5s ease ${oi * 0.07}s` }}>
-            <div style={{ height: '100%', borderRadius: t.radius, overflow: 'hidden', background: t.cardBg,
-              WebkitBackdropFilter: t.blur, backdropFilter: t.blur, border: t.cardBorder, boxShadow: t.cardShadow }}>
-              <LayoutEditorial item={day.cards[i]} index={i} total={day.cards.length} active={isClk} t={t} />
+            <div style={{ height: '100%', borderRadius: t.radius, overflow: 'hidden',
+              background: mobile ? (t.cardSolid || t.cardBg) : t.cardBg,
+              WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur,
+              border: t.cardBorder, boxShadow: t.cardShadow }}>
+              <LayoutEditorial item={day.cards[i]} index={i} total={day.cards.length} active={isClk} t={t} mobile={mobile} />
             </div>
           </div>
         );
@@ -1155,7 +1157,7 @@ function ThemedPage({ themeKey }) {
             {/* HERO — centered vertical card (flips in place to the full article) */}
             <div ref={heroRef} className="ax-hero-wrap">
               <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} />
-              {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} onDone={() => setIntro(null)} />}
+              {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} mobile={isMobile} onDone={() => setIntro(null)} />}
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
             {(cur.days || []).length > 0 && (isMobile
