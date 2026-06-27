@@ -1,368 +1,551 @@
 {
-  "date": "2026-06-26",
-  "generated_iso": "2026-06-26T23:04:28Z",
+  "date": "2026-06-27",
+  "generated_iso": "2026-06-27T23:03:39Z",
   "sections": {
     "design": [
       {
-        "url": "https://www.figma.com/blog/introducing-figma-motion/",
-        "title": "Introducing Figma Motion: Your Canvas Now Has a Timeline",
-        "source": "Figma Blog",
-        "category": "figma",
-        "published_iso": "2026-06-24T09:00:00Z",
-        "og_image": "https://cdn.sanity.io/images/599r6htc/localized/figma-motion-og.png",
-        "excerpt": "Figma Motion brings animation and timing natively onto the design canvas with keyframe timelines, easing controls, and MP4 export — removing the need to hand off motion work to a separate animation tool."
-      },
-      {
-        "url": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
-        "title": "Figma's Design Agent: Custom Tools, Context, and Skills",
-        "source": "Figma Blog",
-        "category": "figma",
-        "published_iso": "2026-06-24T09:00:00Z",
-        "og_image": "https://cdn.sanity.io/images/599r6htc/localized/agent-skills-og.png",
-        "excerpt": "Figma's upgraded AI design agent now supports Skills (packaged team conventions), MCP Connectors to GitHub, Slack and Notion, and shared prompt history — letting agents act on live context from the tools designers already use."
-      },
-      {
-        "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
-        "title": "Rethinking Figma in an AI World",
-        "source": "UX Collective",
-        "category": "figma",
-        "published_iso": "2026-06-24T00:00:00Z",
-        "og_image": "",
-        "excerpt": "At Config 2026, Figma responded to AI pressure by expanding its canvas into code layers, motion, and shaders — the real test is no longer competing with other design tools but proving that a canvas-first workflow can stay relevant in a code-first, agentic era."
-      },
-      {
-        "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26",
-        "title": "AI didn't replace designers — it promoted them",
-        "source": "UX Collective",
-        "category": "workflow",
-        "published_iso": "2026-06-25T18:00:00Z",
-        "og_image": "",
-        "excerpt": "AI is rewriting the product designer's role from spec-maker to system architect — those who thrive are the ones orchestrating AI rather than competing with it, becoming 'design directors of one' for entire product surfaces."
-      },
-      {
-        "url": "https://www.cgchannel.com/2026/06/adobe-to-acquire-topaz-labs/",
-        "title": "Adobe to acquire Topaz Labs",
-        "source": "CG Channel",
+        "section": "design",
         "category": "render",
+        "source": "CG Channel",
         "published_iso": "2026-06-26T00:00:00Z",
-        "og_image": "",
-        "excerpt": "Adobe announced a definitive agreement to acquire Topaz Labs — maker of Gigapixel AI, Topaz Photo, and Topaz Video — bringing its AI upscaling and NeuroStream on-device inference technology into Firefly and Creative Cloud."
+        "title": "Boris FX releases Optics 2026.5 with AI-powered facial masking",
+        "excerpt": "Boris FX Optics 2026.5 ships four AI tools for automatically masking parts of the human face, generating depth maps from photos, and denoising and upresing images — alongside expanded platform support for Affinity, Apple Photos, and Capture One.",
+        "url": "https://www.cgchannel.com/2026/06/boris-fx-releases-optics-2026/",
+        "og_image": null
       },
       {
-        "url": "https://www.cgchannel.com/2026/06/keyshot-releases-keyshot-2026-2/",
+        "section": "design",
+        "category": "render",
+        "source": "CG Channel",
+        "published_iso": "2026-06-26T00:00:00Z",
         "title": "KeyShot releases KeyShot 2026.2",
-        "source": "CG Channel",
-        "category": "render",
-        "published_iso": "2026-06-26T00:00:00Z",
-        "og_image": "",
-        "excerpt": "KeyShot 2026.2 adds Apple Silicon GPU rendering support (beta), integrates the new cloud-based KeyShot Cloud rendering service, and introduces Node Groups for the material graph — significantly expanding render options for Mac-based design studios."
+        "excerpt": "KeyShot 2026.2 adds GPU rendering on Apple Silicon, an integrated cloud rendering service (KeyShot Cloud), Node Groups in the material graph for reusable components, and glTF/GLB export compression that makes models 2–3x smaller.",
+        "url": "https://www.cgchannel.com/2026/06/keyshot-releases-keyshot-2026-2/",
+        "og_image": null
       },
       {
-        "url": "https://80.lv/articles/adobe-acquires-topaz-labs-ai-company-offering-photo-video-enhancements",
-        "title": "Adobe Acquires Topaz Labs, AI Company Offering Photo & Video Editing",
-        "source": "80.lv",
-        "category": "render",
-        "published_iso": "2026-06-26T00:00:00Z",
-        "og_image": "",
-        "excerpt": "Adobe is acquiring Topaz Labs and its AI-powered Astra video upscaling and Wonder image enhancement tools, with Neurostream technology enabling large AI models to run locally on consumer devices — a major shift for on-device creative AI workflows."
+        "section": "design",
+        "category": "figma",
+        "source": "UX Collective",
+        "published_iso": "2026-06-27T05:00:00Z",
+        "title": "Rethinking Figma in an AI World",
+        "excerpt": "Figma's Config 2026 announcements — code layers, Figma Motion, shader tools, and an expanded AI agent — reveal the platform is no longer just defending its collaborative canvas but actively expanding into code-first, agentic software building to stay relevant.",
+        "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
+        "og_image": null
       },
       {
-        "url": "https://www.engineering.com/gstarsoft-updates-design-portfolio-across-cad-and-bim/",
-        "title": "Gstarsoft updates design portfolio across CAD and BIM",
-        "source": "Engineering.com",
+        "section": "design",
+        "category": "figma",
+        "source": "UX Collective",
+        "published_iso": "2026-06-27T08:00:00Z",
+        "title": "AI didn't replace designers—it promoted them",
+        "excerpt": "Rather than eliminating design roles, AI has elevated designers into higher-leverage positions — handling strategic direction, craft oversight, and quality control — as AI tools absorb routine production work.",
+        "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26",
+        "og_image": null
+      },
+      {
+        "section": "design",
+        "category": "workflow",
+        "source": "Business Wire",
+        "published_iso": "2026-06-25T00:00:00Z",
+        "title": "Introducing Canva Grow 2.0: Create, Launch, and Optimize Ads in One Place",
+        "excerpt": "Canva Grow 2.0, unveiled at Cannes Lions, expands Canva into a full AI-driven performance marketing platform where teams can create, publish, and optimize ad campaigns within a single design workspace — rolling out to users in North America, Australia, and the UK starting June 25.",
+        "url": "https://www.businesswire.com/news/home/20260625870253/en/Introducing-Canva-Grow-2.0-Create-Launch-and-Optimize-Ads-in-One-Place",
+        "og_image": null
+      },
+      {
+        "section": "design",
         "category": "cad",
+        "source": "Engineering.com",
         "published_iso": "2026-06-26T00:00:00Z",
-        "og_image": "",
-        "excerpt": "Gstarsoft launched an integrated CAD+BIM+AI platform combining 2D/3D CAD, BIM, CAM, cloud collaboration, and industry-specific AI models in one connected environment — addressing design and engineering workflows from drawing conversion to AI-assisted visualization."
+        "title": "Gstarsoft updates design portfolio across CAD and BIM",
+        "excerpt": "Gstarsoft's updated GstarCAD 2027 and GstarBIM 2027 bring AI-assisted visualization, 2D-to-3D conversion, point cloud modeling, and cloud-native collaboration tools into a single connected design environment for CAD and BIM workflows.",
+        "url": "https://www.engineering.com/gstarsoft-updates-design-portfolio-across-cad-and-bim/",
+        "og_image": null
       }
     ],
     "music": [
       {
-        "url": "https://djmag.com/news/traxsource-label-music-human-made-or-ai-assisted-across-platform",
-        "title": "Traxsource to label music as human-made or AI-assisted across platform",
-        "source": "DJ Mag",
-        "category": "music",
-        "published_iso": "2026-06-23T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Electronic music download store Traxsource will roll out 'Human-Made' and 'AI-Assisted' labels on July 1, 2026, partnering with AI-detection firms SH Labs and SoundPatrol to classify tracks — while fully AI-generated music will be removed from the catalogue entirely."
+        "id": "music-001",
+        "category": "Music — Core & Generative Models",
+        "source": "CDM Create Digital Music",
+        "domain": "cdm.link",
+        "title": "Music in training sets is the new Spotify Wrapped: how genAI uses your music",
+        "published_iso": "2026-06-22T00:00:00Z",
+        "url": "https://cdm.link/music-in-training-sets-is-the-new-spotify-wrapped-how-genai-uses-your-music/",
+        "excerpt": "Producers are discovering their own music inside AI training sets via The Atlantic's new searchable AI Watchdog database, which covers four datasets totalling over 21 million tracks—Berlin artist Hainbach found 151 of his songs in a single LAION YouTube corpus. CDM examines what the exposure means for musicians' rights and creative autonomy.",
+        "og_image": "",
+        "freshness": "FRESH",
+        "section": "music"
       },
       {
-        "url": "https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/",
-        "title": "Traxsource to introduce labels to identify both human-made and AI-assisted music",
-        "source": "MusicTech",
-        "category": "music",
-        "published_iso": "2026-06-23T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Traxsource's new framework distinguishes AI-assisted tools — like stem separation, mastering or vocal processing — from music generated wholesale by AI, marking an industry-first for electronic music distribution and shaping how producers must declare their AI tool use."
+        "id": "music-002",
+        "category": "Music — Core & Generative Models",
+        "source": "Engadget",
+        "domain": "engadget.com",
+        "title": "Investigation by The Atlantic reveals many millions of songs used for AI music training",
+        "published_iso": "2026-06-15T00:00:00Z",
+        "url": "https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/",
+        "excerpt": "The Atlantic published four searchable databases of music used to train AI models—two holding 12 million and 9 million tracks respectively—including hit songs from Taylor Swift and Bad Bunny alongside tens of thousands of independent artists, with the databases now being used as evidence in active copyright litigation against Suno and Udio.",
+        "og_image": "",
+        "freshness": "FRESH",
+        "section": "music"
       },
       {
-        "url": "https://ra.co/news/85477",
-        "title": "Traxsource launches AI transparency labels",
-        "source": "Resident Advisor",
-        "category": "music",
-        "published_iso": "2026-06-23T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Traxsource becomes one of the first DJ-focused download stores to introduce mandatory disclosure labels for AI-assisted tracks, joining Apple Music, Deezer, Spotify and YouTube in a wave of platform-level AI-transparency requirements that will reshape how producers release music."
-      },
-      {
-        "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
-        "title": "Over 21 million copyrighted songs are circulating among AI developers, watchdog tool launched",
-        "source": "DJ Mag",
-        "category": "music",
-        "published_iso": "2026-06-24T17:26:00Z",
-        "og_image": null,
-        "excerpt": "The Atlantic's AI Watchdog published four searchable databases covering over 21 million tracks used to train AI music generators including Suno, Udio and Google's Lyria — including music by Skrillex, Peggy Gou and BICEP — and launched a free tool for any artist to check if their songs are in the data."
-      },
-      {
-        "url": "https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news",
-        "title": "Artists can now check whether their music has been used to train AI",
+        "id": "music-003",
+        "category": "Music — Core & Generative Models",
         "source": "Mixmag",
-        "category": "music",
-        "published_iso": "2026-06-16T00:00:00Z",
-        "og_image": null,
-        "excerpt": "The Atlantic's new searchable AI Watchdog database reveals that dance music artists including Skrillex, Peggy Gou and BICEP had dozens of tracks scraped without consent, giving the electronic music community an unprecedented tool to audit AI music training datasets."
+        "domain": "mixmag.net",
+        "title": "Artists can now check whether their music has been used to train AI",
+        "published_iso": "2026-06-21T00:00:00Z",
+        "url": "https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news",
+        "excerpt": "Mixmag covers The Atlantic's AI Watchdog searchable interface, which lets any artist enter their name to see which songs appear in the major AI music training datasets; companies often claimed to use only 'freely available' online content, but the databases reveal the true scale of copyrighted material actually accessed.",
+        "og_image": "",
+        "freshness": "FRESH",
+        "section": "music"
       },
       {
-        "url": "https://www.gearnews.com/ai-training-data-the-atlantic-tech/",
-        "title": "AI Training Data 2026: The Atlantic Reveals Whose Music Ended Up in Suno and Udio — Yours Included!",
-        "source": "Gear News",
-        "category": "music",
+        "id": "music-004",
+        "category": "Music — Core & Generative Models",
+        "source": "DJ Mag",
+        "domain": "djmag.com",
+        "title": "Over 21 million copyrighted songs are circulating among AI developers, watchdog tool launched",
         "published_iso": "2026-06-24T00:00:00Z",
-        "og_image": null,
-        "excerpt": "The largest dataset from nonprofit LAION contains 12.3 million tracks pulled from YouTube — equivalent to 91 years of music — revealing the massive scale on which mainstream AI music tools were trained on copyrighted recordings without artist consent."
+        "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
+        "excerpt": "DJ Mag reports that The Atlantic's AI Watchdog investigation uncovered four major datasets—containing more than 21 million tracks combined—being shared among AI developers for model training, with a new public search tool allowing artists to identify whether their recordings appear in training pipelines used by Suno and Udio.",
+        "og_image": "",
+        "freshness": "FRESH",
+        "section": "music"
       },
       {
-        "url": "https://bedroomproducersblog.com/2026/06/19/two-notes-audio-genome-intro/",
-        "title": "Two Notes Audio Engineering releases Genome Intro, a FREE amp and FX suite",
-        "source": "Bedroom Producers Blog",
-        "category": "music",
-        "published_iso": "2026-06-19T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Two Notes released a free entry-level version of their GENOME 2.0 suite featuring CODEX — an AI amp-playback engine that loads neural amp modelling captures from NAM, AIDA-X and Proteus formats — giving producers and guitarists access to AI-powered tone modeling at no cost."
+        "id": "music-005",
+        "category": "Music — DJ, Electronic & Real-Time",
+        "source": "Resident Advisor",
+        "domain": "residentadvisor.net",
+        "title": "Traxsource launches AI transparency labels",
+        "published_iso": "2026-06-23T16:15:00Z",
+        "url": "https://ra.co/news/85477",
+        "excerpt": "Electronic music download platform Traxsource will begin labelling tracks as 'human-made', 'AI-assisted' or removing fully AI-generated music from July 1, working with detection partners SH Labs and SoundPatrol; cofounder Brian Tappert says the goal is to ensure value stays with human-created works while acknowledging AI is not going away.",
+        "og_image": "",
+        "freshness": "FRESH",
+        "section": "music"
+      },
+      {
+        "id": "music-006",
+        "category": "Music — Producer Tools, DAW & Workflow",
+        "source": "GearNews",
+        "domain": "gearnews.com",
+        "title": "AI Training Data 2026: The Atlantic Reveals Whose Music Ended Up in Suno and Udio",
+        "published_iso": "2026-06-20T19:24:00Z",
+        "url": "https://www.gearnews.com/ai-training-data-the-atlantic-tech/",
+        "excerpt": "GearNews breaks down The Atlantic's AI Watchdog report for producers, explaining how the four searchable datasets—including a 12-million-track LAION YouTube corpus—expose exactly which recordings were fed into Suno and Udio's training pipelines and how AI models learned to imitate genre, timbre, and style from real productions.",
+        "og_image": "",
+        "freshness": "FRESH",
+        "section": "music"
+      },
+      {
+        "id": "music-007",
+        "category": "Music — Producer Tools, DAW & Workflow",
+        "source": "CDM Create Digital Music",
+        "domain": "cdm.link",
+        "title": "With Latent Terrain, crack open AI and explore neural synthesis in Max",
+        "published_iso": "2026-06-17T00:00:00Z",
+        "url": "https://cdm.link/latent-terrain-max/",
+        "excerpt": "Latent Terrain is a free, open-source Max/MSP external by researcher Jasper Zheng that turns pre-trained RAVE neural audio autoencoder models into a playable real-time synthesis instrument—producers navigate AI latent space using their own sounds as input, with all processing running locally and no internet connection required.",
+        "og_image": "",
+        "freshness": "FRESH",
+        "section": "music"
+      },
+      {
+        "id": "music-008",
+        "category": "Music — Core & Generative Models",
+        "source": "Music Ally",
+        "domain": "musically.com",
+        "title": "The Atlantic uncovers 'millions' of songs used for AI training",
+        "published_iso": "2026-06-16T00:00:00Z",
+        "url": "https://musically.com/2026/06/16/the-atlantic-uncovers-millions-of-songs-used-for-ai-music-training/",
+        "excerpt": "Music Ally covers The Atlantic's AI Watchdog investigation, noting the two largest datasets contain 12 million and 9 million tracks, and explains that AI companies often claimed to use only freely available online content while the databases reveal the true scale of copyrighted material accessed for model training.",
+        "og_image": "",
+        "freshness": "FRESH",
+        "section": "music"
       }
     ],
     "movies": [
       {
-        "url": "https://variety.com/2026/film/focus/annecys-mifa-2026-1236782136/",
-        "source": "Variety",
-        "category": "movies",
-        "label": "Movies - AI Animation",
-        "published_iso": "2026-06-17T06:20:00Z",
-        "og_image": "https://variety.com/wp-content/uploads/2026/06/annecy-mifa-2026-ai.jpg",
-        "excerpt": "Annecy's MIFA animation market is centering AI tools and private investment as the defining forces reshaping animation financing in 2026, hosting closed-door workshops where studios debate how generative AI changes the economics of character, environment, and background production across feature and episodic pipelines."
-      },
-      {
-        "url": "https://nofilmschool.com/adobe-acquires-topaz-labs",
-        "source": "No Film School",
-        "category": "movies",
-        "label": "Movies - AI VFX and Post-Production",
-        "published_iso": "2026-06-25T00:00:00Z",
-        "og_image": "https://nofilmschool.com/sites/default/files/styles/article/public/adobe-topaz-labs-acquisition.jpg",
-        "excerpt": "Adobe has agreed to acquire Topaz Labs — the Emmy-winning AI company behind Video AI's upscaling, denoising, and motion interpolation — with plans to integrate its on-device NeuroStream AI models into Firefly and Creative Cloud, expanding the toolkit from AI generation to AI restoration for filmmakers in a single ecosystem."
-      },
-      {
-        "url": "http://www.awn.com/news/apart-wins-best-show-siggraph-2026-computer-animation-festival",
-        "source": "Animation World Network",
-        "category": "movies",
-        "label": "Movies - AI Animation",
-        "published_iso": "2026-06-19T00:00:00Z",
-        "og_image": "https://www.awn.com/sites/default/files/styles/large/public/image/featured/siggraph-2026-computer-animation-festival.jpg",
-        "excerpt": "SIGGRAPH 2026's Computer Animation Festival has been announced with a Google DeepMind production session on artist-driven AI-assisted expressionistic animation and a Best in Show for 'Apart,' a 4-technique animated short — previewing the AI-human workflow debates that will define the July conference in Los Angeles."
-      },
-      {
-        "url": "https://deadline.com/2026/06/is-ai-hollywood-new-cosmetic-surgery-1236958187/",
+        "section": "movies",
+        "category": "movies_trade",
         "source": "Deadline",
-        "category": "movies",
-        "label": "Movies - Hollywood AI Industry",
         "published_iso": "2026-06-22T00:00:00Z",
-        "og_image": "https://deadline.com/wp-content/uploads/2026/06/ai-hollywood-cosmetic-surgery.jpg",
-        "excerpt": "Deadline's investigation reveals that a major AI technology company is used across a large share of Hollywood productions but credited on only about one-fifth of them — drawing a parallel to cosmetic surgery's unspoken culture and raising urgent transparency questions as studios quietly deploy AI for VFX cleanup, dialogue polish, and color grading."
+        "title": "Is AI Hollywood's New Cosmetic Surgery?",
+        "excerpt": "Studios and producers are quietly using AI to polish films in post-production while keeping it off the credits, with one leading AI technologist noting his company is credited on only one-fifth of the projects it completes. The piece examines why Hollywood fears audience backlash even when using AI for imperceptible enhancements rather than generative content.",
+        "url": "https://deadline.com/2026/06/is-ai-hollywood-new-cosmetic-surgery-1236958187/",
+        "og_image": null
       },
       {
-        "url": "https://www.indiewire.com/news/analysis/a24-ai-backlash-analysis-1235202507/",
-        "source": "IndieWire",
-        "category": "movies",
-        "label": "Movies - Hollywood AI Industry",
-        "published_iso": "2026-06-23T00:00:00Z",
-        "og_image": "https://www.indiewire.com/wp-content/uploads/2026/06/a24-ai-backlash-google.jpg",
-        "excerpt": "IndieWire analyzes the fierce fan backlash to A24's $75 million Google DeepMind partnership — examining the studio's argument that co-designing AI tools with DeepMind gives filmmakers a voice in shaping technology, versus an audience that equates any AI adjacency with a betrayal of A24's artistic brand promise."
-      },
-      {
-        "url": "https://www.indiewire.com/features/commentary/2026-annecy-film-festival-announcements-news-1235202465/",
-        "source": "IndieWire",
-        "category": "movies",
-        "label": "Movies - AI Animation",
-        "published_iso": "2026-06-26T17:00:00Z",
-        "og_image": "https://www.indiewire.com/wp-content/uploads/2026/06/annecy-2026-animation-announcements.jpg",
-        "excerpt": "IndieWire's rolling Annecy 2026 roundup captures the festival's AI undercurrent alongside new project announcements, with Autodesk Flow Studio demoing live-action-to-3D-scene conversion on the show floor and studios at MIFA negotiating how generative tools reshape animation co-production deals, indie finance models, and the creative economy."
-      },
-      {
-        "url": "https://postperspective.com/adobe-to-acquire-topaz-labs-expanding-ai-image-and-video-tools/",
-        "source": "postPerspective",
-        "category": "movies",
-        "label": "Movies - AI VFX and Post-Production",
-        "published_iso": "2026-06-25T00:00:00Z",
-        "og_image": "https://postperspective.com/wp-content/uploads/2026/06/adobe-topaz-labs-post.jpg",
-        "excerpt": "postPerspective examines Adobe's Topaz Labs acquisition from a post-production workflow angle, noting how on-device NeuroStream AI for video upscaling, denoising, and motion interpolation integrates into Premiere and Firefly without cloud dependency — a meaningful change for offline edit suites and secure post facilities."
-      },
-      {
-        "url": "https://deadline.com/2026/06/annecy-talking-points-minions-studios-ai-ip-china-1236959544/",
-        "source": "Deadline",
-        "category": "movies",
-        "label": "Movies - AI Animation",
-        "published_iso": "2026-06-19T00:00:00Z",
-        "og_image": "https://deadline.com/wp-content/uploads/2026/06/annecy-mifa-2026-deadline.jpg",
-        "excerpt": "Deadline's five Annecy 2026 talking points places AI at the center of the market's agenda — with MIFA running closed-door AI workflow workshops and studios debating how generative tools are disrupting animation production costs, IP protection strategies, and co-production norms before industry standards can catch up."
-      },
-      {
-        "url": "https://www.redsharknews.com/adobe-creative-cloud-june-2026-update",
-        "source": "RedShark News",
-        "category": "movies",
-        "label": "Movies - AI VFX and Post-Production",
-        "published_iso": "2026-06-20T00:00:00Z",
-        "og_image": "https://www.redsharknews.com/hubfs/adobe-creative-cloud-june-2026.jpg",
-        "excerpt": "RedShark News rounds up Adobe's June 2026 Creative Cloud update for video professionals: rebuilt AI rotoscoping in Premiere (Object Matte with four AI selection tools replacing Roto Brush), Reflection Removal for glass-shot cleanup, and an offline-capable on-device Remove Tool — practical AI upgrades to everyday post-production workflows."
-      },
-      {
-        "url": "https://www.hollywoodreporter.com/movies/movie-news/gareth-edwards-excited-ai-filmmaking-1236608376/",
+        "section": "movies",
+        "category": "movies_trade",
         "source": "The Hollywood Reporter",
-        "category": "movies",
-        "label": "Movies - Hollywood AI Industry",
+        "published_iso": "2026-06-26T00:00:00Z",
+        "title": "The AI Issue 2026",
+        "excerpt": "Hollywood Reporter's special AI issue examines who the AI guides in entertainment are and where they are taking the industry, covering filmmaking workflows, production pipelines, and the creative AI tools reshaping how films are made. The package features voices from across the studio ecosystem on the present and future of AI in production.",
+        "url": "https://www.hollywoodreporter.com/p/the-ai-issue-2026/",
+        "og_image": null
+      },
+      {
+        "section": "movies",
+        "category": "movies_animation",
+        "source": "Variety",
+        "published_iso": "2026-06-17T06:20:00-07:00",
+        "title": "Annecy's MIFA Bets on Cross-IP, AI and Global Growth Amid Animation Financing Squeeze",
+        "excerpt": "Annecy's co-production market MIFA is doubling down on AI-focused workshops and cross-IP deal-making in 2026 as animation financing tightens globally. The report covers how AI tools are increasingly central to pitches and co-development strategies at the world's leading animation industry market, with a philosophy of 'artist-first, AI second'.",
+        "url": "https://variety.com/2026/film/focus/annecys-mifa-2026-1236782136/",
+        "og_image": "https://variety.com/wp-content/uploads/2026/02/202602554_1.jpg?w=1000&h=667&crop=1"
+      },
+      {
+        "section": "movies",
+        "category": "movies_tech",
+        "source": "No Film School",
+        "published_iso": "2026-06-25T00:00:00Z",
+        "title": "Adobe Announces Acquisition of Topaz Labs, an AI Video and Image Enhancement Company",
+        "excerpt": "Adobe is acquiring Topaz Labs — makers of Gigapixel AI, Video AI, and DeNoise — to fold its best-in-class AI enhancement tools into the Firefly ecosystem and Creative Cloud applications. The deal signals Adobe's intent to own the full stack of AI-powered restoration, upscaling, and noise-removal for professional filmmakers and editors.",
+        "url": "https://nofilmschool.com/adobe-acquires-topaz-labs",
+        "og_image": null
+      },
+      {
+        "section": "movies",
+        "category": "movies_tech",
+        "source": "No Film School",
+        "published_iso": "2026-06-18T00:00:00Z",
+        "title": "Adobe Announces Massive Expansion of Its Agentic AI Capabilities in Firefly and Apps like Premiere",
+        "excerpt": "Adobe is expanding creative agents across Firefly and Creative Cloud apps including Premiere Pro, enabling agentic AI workflows that can autonomously execute multi-step editing tasks. The update marks a shift from AI-assisted tools to AI-driven production agents embedded directly in post-production software.",
+        "url": "https://nofilmschool.com/adobe-agentic-ai-update",
+        "og_image": null
+      },
+      {
+        "section": "movies",
+        "category": "movies_tech",
+        "source": "RedShark News",
+        "published_iso": "2026-06-18T00:00:00Z",
+        "title": "Adobe Creative Cloud June 2026: everything that's new",
+        "excerpt": "Adobe's June 2026 Creative Cloud update brings rebuilt AI roto tools to After Effects, an offline Remove Tool, AI culling for photos, and new effects and agentic capabilities across Premiere and Lightroom. The comprehensive rundown covers every AI-assisted workflow change across the full CC suite relevant to editors and VFX artists.",
+        "url": "https://www.redsharknews.com/adobe-creative-cloud-june-2026-update",
+        "og_image": null
+      },
+      {
+        "section": "movies",
+        "category": "movies_trade",
+        "source": "IndieWire",
         "published_iso": "2026-06-14T00:00:00Z",
-        "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/gareth-edwards-ai-filmmaking.jpg",
-        "excerpt": "Jurassic World Rebirth and Rogue One director Gareth Edwards calls AI 'bigger than CGI' — describing diffusion model tools as a 'second-unit director who is a billionaire on acid' — and argues the technology's value lies in rapid creative iteration during concepting, not in replacing directors' final production judgment."
+        "title": "The Model Doesn't Matter: Inside the Race to Be the AI Production Platform Filmmakers Want to Use",
+        "excerpt": "An in-depth analysis of the AI production platforms — Artlist Studio, ComfyUI, Flora, and Amazon's Project Nara — competing to become the standard workflow tool for professional filmmakers, with ComfyUI currently holding de-facto industry-standard status as an open-source, customizable foundation. The piece explores why platform cohesion and filmmaker experience, not raw model quality, is the real battleground for adoption.",
+        "url": "https://www.indiewire.com/news/business/ai-production-platform-filmmakers-analysis-1235197860/",
+        "og_image": null
+      },
+      {
+        "section": "movies",
+        "category": "movies_trade",
+        "source": "Variety",
+        "published_iso": "2026-06-17T00:00:00Z",
+        "title": "I Saw Hell Grind, the AI-Generated Film That Premiered in Cannes. It Was Shocking and Realistic",
+        "excerpt": "A first-person account of watching Hell Grind, an 80-minute feature made in 14 days for $500K using ByteDance Seedance and Higgsfield tools, which fooled many viewers into thinking scenes were live-action. The piece offers a production-level breakdown of how AI filmmaking tools have reached a threshold where feature-length cinematic output can rival traditional productions.",
+        "url": "https://variety.com/2026/film/features/i-saw-hell-grind-ai-generated-film-cannes-shocking-realistic-1236770720/",
+        "og_image": null
+      },
+      {
+        "section": "movies",
+        "category": "movies_trade",
+        "source": "Deadline",
+        "published_iso": "2026-06-15T00:00:00Z",
+        "title": "Asteria And LTX Form Strategic Partnership With Goal Of Advancing Cinematic AI Storytelling",
+        "excerpt": "Natasha Lyonne's AI production studio Asteria has partnered with open-weights model maker LTX, using LTX's HDR IC-LoRA to integrate hand-drawn 2D, CG, and AI animation into scene-linear 16-bit HDR — as demonstrated in Tribeca-selected short ChikaBOOM!. The partnership targets a key production gap by bringing generative AI video up to professional-grade colorimetric standards.",
+        "url": "https://deadline.com/2026/06/asteria-ltx-form-strategic-partnership-cinematic-ai-1236955140/",
+        "og_image": null
+      },
+      {
+        "section": "movies",
+        "category": "movies_tools_broad",
+        "source": "Variety",
+        "published_iso": "2026-06-23T00:00:00Z",
+        "title": "StoReel Launches Canvas, AI Production Platform Targeting Microdrama Creators",
+        "excerpt": "StoReel has launched Canvas, an AI-native end-to-end production platform that takes a script and auto-generates scene breakdowns, storyboards, character references, and optimized prompts for leading AI video models, cutting production time by two-thirds at roughly 15% of live-action costs. The launch follows StoReel's $34 million financing round and positions the platform for the rapidly growing microdrama creator market.",
+        "url": "https://variety.com/2026/digital/news/storeel-canvas-ai-microdrama-platform-launch-1236787037/",
+        "og_image": null
+      },
+      {
+        "section": "movies",
+        "category": "movies_tech",
+        "source": "No Film School",
+        "published_iso": "2026-06-23T00:00:00Z",
+        "title": "Looks Like a Seedance 2.5 Model is on the Way With 30-Second Generation Capabilities",
+        "excerpt": "ByteDance's Seedance 2.5 model is reportedly set to launch in early July with the ability to generate video clips up to 30 seconds natively — a significant leap beyond current AI video tools that stitch shorter segments together. This would remove one of the key creative constraints limiting AI models for filmmakers building longer narrative sequences.",
+        "url": "https://nofilmschool.com/seedance-2-5-updates",
+        "og_image": null
       }
     ],
     "games": [
       {
-        "url": "https://80.lv/articles/unreal-engine-5-8-is-out-today-with-big-optimization-improvements-and-mesh-terrain",
-        "source": "80.lv",
+        "section": "games",
         "category": "games",
-        "published_iso": "2026-06-17T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Epic Games released Unreal Engine 5.8 at Unreal Fest Chicago on June 17, introducing an experimental MCP plugin that lets AI models such as Claude and Gemini operate directly inside the editor — spawning actors, configuring lighting, and running automation tests — marking AI as official infrastructure for the game-dev pipeline ahead of UE6."
-      },
-      {
-        "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
-        "source": "Game Developer",
-        "category": "games",
-        "published_iso": "2026-06-17T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Epic Games revealed Unreal Engine 6 at State of Unreal 2026, announcing a unified engine that merges UE5 and Unreal Editor for Fortnite, with LLMs and generative AI models — including Claude, Codex, and Gemini — positioned as central to content-creation workflows, aiming to 'greatly reduce tedious work' for developers."
-      },
-      {
-        "url": "https://www.thegamer.com/epic-games-unreal-engine-6-ue-generative-ai-models-central-make-content-faster/",
-        "source": "The Gamer",
-        "category": "games",
-        "published_iso": "2026-06-18T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Epic Games says LLMs and generative AI models like Claude and Codex are 'playing a central role' in Unreal Engine 6, letting teams build content faster through level assembly, character setup, code assistance, and crash analysis — all accessible via an experimental Model Context Protocol plugin already shipping in UE5.8."
-      },
-      {
-        "url": "https://wccftech.com/nvidia-ace-pubg-ally-ai-teammate-beta/",
-        "source": "wccftech",
-        "category": "games",
-        "published_iso": "2026-06-17T00:00:00Z",
-        "og_image": null,
-        "excerpt": "KRAFTON launched a two-week Ally Duo beta in PUBG on June 17 — a live AI teammate named Ella, powered by NVIDIA ACE and a Mistral-Nemo-Minitron-8B small language model, that listens to voice commands, loots, drives vehicles, and fights autonomously, marking the first production deployment of on-device Co-Playable Characters in a major live-service title."
-      },
-      {
-        "url": "https://wccftech.com/tim-sweeney-unreal-engine-ai-tools-accelerant-real-creators/",
-        "source": "wccftech",
-        "category": "games",
+        "label": "AI Game Design Tools and Vibe Coding",
+        "source": "Wccftech",
         "published_iso": "2026-06-26T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Epic CEO Tim Sweeney, at Unreal Fest, acknowledged that AI tools in Unreal Engine risk producing low-quality 'AI slop' but argues they act as an accelerant for professional indie and AAA creators — defending UE6's deep Claude and Gemini integration as a net gain for craft and creative output."
+        "title": "Tim Sweeney Admits Epic's Unreal Engine AI Tools Risk 'AI slop', but Calls them an Accelerant for Real Creators",
+        "excerpt": "In an interview with IGN, Epic Games CEO Tim Sweeney acknowledged that integrating Claude and Gemini into Unreal Engine 5.8 and UE6 risks producing low-quality 'AI slop,' but argues the tools will serve as a creative accelerant for professional studios and indie developers alike.",
+        "url": "https://wccftech.com/tim-sweeney-unreal-engine-ai-tools-accelerant-real-creators/",
+        "og_image": null
       },
       {
-        "url": "https://www.gamesradar.com/games/epic-games-boss-calls-steam-ai-disclosures-really-irresponsible-of-valve-as-they-make-it-much-much-much-harder-for-a-game-developer-to-have-a-chance-of-success/",
-        "source": "GamesRadar",
+        "section": "games",
         "category": "games",
-        "published_iso": "2026-06-25T00:00:00Z",
-        "og_image": null,
-        "excerpt": "GamesRadar covers Tim Sweeney's critique of Valve's Steam AI disclosure requirement, framing it as an obstacle to indie devs using AI in their workflows and highlighting the industry rift between transparency advocates and studios embracing AI-assisted content creation and generative asset pipelines."
+        "label": "AI UGC, Modding and Adaptive Systems",
+        "source": "Wccftech",
+        "published_iso": "2026-06-23T00:00:00Z",
+        "title": "Finding the Fun Is Still Human Work for 20+ Years, But AI Could Spark a New Gaming Renaissance, Says Dev",
+        "excerpt": "A veteran developer argues that 'finding the fun' remains too complex for AI to replicate for at least two more decades, even as Epic's Unreal Engine 6 and PlayStation Studios embrace AI tools to automate repetitive workflows and accelerate content production.",
+        "url": "https://wccftech.com/finding-fun-human-work-ai-gaming-renaissance-dev/",
+        "og_image": null
       },
       {
+        "section": "games",
+        "category": "games",
+        "label": "AI Game Art and Asset Production",
+        "source": "Wccftech",
+        "published_iso": "2026-06-20T00:00:00Z",
+        "title": "Epic Games Integrates Claude and Gemini into Unreal Engine 6, but Insists the Editor Is Still in Developers' Hands",
+        "excerpt": "Epic Games unveiled at State of Unreal 2026 that Unreal Engine 6 will embed Claude, Gemini, and Codex through an open MCP server, letting AI models help with level assembly, character setup, code assistance, and crash analysis while developers retain full creative control via the editor.",
+        "url": "https://wccftech.com/epic-games-unreal-engine-6-claude-gemini-developer-control/",
+        "og_image": null
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "label": "AI Voice, Dialogue, and NPC Systems",
+        "source": "PC Gamer",
+        "published_iso": "2026-06-24T21:22:20Z",
+        "title": "Tim Sweeney on the future of games, AI, and whether Valve will ever join forces with Epic: 'It's now clear that nobody's going to end up with an absolute monopoly'",
+        "excerpt": "Epic Games CEO Tim Sweeney lays out his view of AI-assisted game development, engine and marketplace competition, and disclosure debates, arguing AI will be involved in nearly all future game production and that Valve's AI disclosure requirement is 'irresponsible.'",
+        "url": "https://www.pcgamer.com/gaming-industry/tim-sweeney-on-the-future-of-games-ai-and-whether-valve-will-ever-join-forces-with-epic-its-now-clear-that-nobodys-going-to-end-up-with-an-absolute-monopoly/",
+        "og_image": "https://cdn.mos.cms.futurecdn.net/mquTcmtPeqPuULfWtDsgW-1754-80.jpg"
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "label": "AI UGC, Modding and Adaptive Systems",
+        "source": "PC Gamer",
+        "published_iso": "2026-06-15T00:00:00Z",
+        "title": "Steam Week in Review: More than 300 games released on Steam last week, and 120 of them had AI disclosures",
+        "excerpt": "Of the 338 games that dropped on Steam in the week ending June 14, 2026, roughly 40 percent carried a generative AI content disclosure, showing the pace at which AI-generated assets are entering the commercial games pipeline in a single week.",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/",
+        "og_image": null
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "label": "AI UGC, Modding and Adaptive Systems",
+        "source": "PC Gamer",
+        "published_iso": "2026-06-22T00:00:00Z",
+        "title": "Steam Next Fest's top played games include only 1 of over 500 demos with an AI disclosure",
+        "excerpt": "Of 4,397 Steam Next Fest demos with an AI Content Disclosed tag, only Nexon's Embers of the Uncrowned appears in the top-played rankings, revealing that player behaviour is still strongly biased against AI-disclosed games regardless of quality.",
+        "url": "https://www.pcgamer.com/gaming-industry/steam-next-fests-top-played-games-include-only-1-of-over-500-demos-with-an-ai-disclosure/",
+        "og_image": null
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "label": "AI UGC, Modding and Adaptive Systems",
+        "source": "GamesRadar+",
+        "published_iso": "2026-06-15T00:00:00Z",
+        "title": "Even more games on Steam are using AI: there are over 8,600 demos in this week's Next Fest event, and nearly 1,700 use AI",
+        "excerpt": "The June 2026 Steam Next Fest launched with 8,682 demos of which 1,694 carry Valve's AI Content Disclosed tag — roughly one in five games — marking a significant rise from the 750 AI-disclosed demos in the February 2026 edition and prompting renewed calls for a filter.",
         "url": "https://www.gamesradar.com/platforms/pc-gaming/even-more-games-on-steam-are-using-ai-there-are-over-8-600-demos-in-this-weeks-next-fest-event-and-nearly-1-700-use-ai/",
-        "source": "GamesRadar",
-        "category": "games",
-        "published_iso": "2026-06-16T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Steam Next Fest June 2026 reveals that nearly 1,700 of 8,682 demos — roughly one in five — carry a generative AI content disclosure, a figure that has doubled since last year, showing how mainstream AI-generated game assets have become even for small indie studios."
+        "og_image": null
       },
       {
-        "url": "https://www.thegamer.com/steam-next-fest-ai-disclaimers/",
-        "source": "The Gamer",
+        "section": "games",
         "category": "games",
-        "published_iso": "2026-06-17T00:00:00Z",
-        "og_image": null,
-        "excerpt": "With 1,715 Steam Next Fest demos disclosing AI-generated content, players are calling on Valve to add cover-art stickers, prominent disclosure placement, and filtering tools — a signal that generative AI assets have crossed the mainstream threshold in indie game development in under two years."
+        "label": "AI Game Design Tools and Vibe Coding",
+        "source": "Gamingbolt",
+        "published_iso": "2026-06-18T00:00:00Z",
+        "title": "Palworld Developer Doesn't Use Generative AI Because \"Gamers Don't Want It\"",
+        "excerpt": "Pocketpair's head of communications John Buckley says the studio behind Palworld deliberately avoids generative AI because players reject it and its in-house artists prefer crafting assets themselves, calling the current industry push toward AI-generated content unsustainable.",
+        "url": "https://gamingbolt.com/palworld-developer-doesnt-use-generative-ai-because-gamers-dont-want-it",
+        "og_image": null
       },
       {
-        "url": "https://www.destructoid.com/tim-sweeney-steam-ai-disclosure-comments/",
+        "section": "games",
+        "category": "games",
+        "label": "Text-to-Game and World Models",
         "source": "Destructoid",
+        "published_iso": "2026-06-21T00:00:00Z",
+        "title": "CDPR chief says games made entirely with AI are 'incoming' but doubts if 'this is really the path to follow'",
+        "excerpt": "CD Projekt Red co-CEO Michał Nowakowski described a conversation with an AI-gaming startup that can ship a complete game three weeks after starting prototyping, calling fully AI-made games an 'unavoidable' phenomenon while expressing personal doubt about the creative value of that path.",
+        "url": "https://www.destructoid.com/cdpr-comments-on-ai/",
+        "og_image": null
+      },
+      {
+        "section": "games",
         "category": "games",
-        "published_iso": "2026-06-25T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Destructoid covers Sweeney's Unreal Fest comments defending AI in games while blasting Valve's disclosure policy, adding critical context: 52 percent of GDC-surveyed devs now say generative AI harms their industry, sharpening the contrast between big studios embracing AI workflows and the broader developer community's growing unease."
+        "label": "AI UGC, Modding and Adaptive Systems",
+        "source": "The Gamer",
+        "published_iso": "2026-06-16T00:00:00Z",
+        "title": "Steam Users Beg For Clearer AI Warnings And Filter Controls As 1,700 Next Fest Demos Admit Using It",
+        "excerpt": "Players responding to June 2026's Steam Next Fest AI disclosure flood are calling on Valve to add visible AI indicator labels on cover art and a toggleable content filter, arguing the current single-line footnote disclosure is useless for rapid browsing across thousands of demos.",
+        "url": "https://www.thegamer.com/steam-next-fest-ai-disclaimers/",
+        "og_image": null
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "label": "AI UGC, Modding and Adaptive Systems",
+        "source": "Kotaku",
+        "published_iso": "2026-06-15T00:00:00Z",
+        "title": "Steam Next Fest Is Flooded With AI Games And It Sucks",
+        "excerpt": "Kotaku's Zack Zwiezen used a browser extension to scan 16 games on the Steam Next Fest homepage and found 10 carried generative AI disclaimers, describing the experience as dispiriting and raising questions about the long-term discoverability of human-crafted indie games on the platform.",
+        "url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
+        "og_image": null
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "label": "AI Game Art and Asset Production",
+        "source": "Aftermath",
+        "published_iso": "2026-06-18T00:00:00Z",
+        "title": "Game Developers Neither Surprised Nor Delighted To Learn That Unreal Engine 6 Will Be Filled With AI Garbage",
+        "excerpt": "Aftermath gathered developer reactions to Epic's UE6 AI announcement — embedding Claude, Gemini, and Codex via MCP as central to the engine — finding widespread resignation rather than enthusiasm, especially among artists whose Blueprint-based workflows are being sunset.",
+        "url": "https://aftermath.site/unreal-engine-6-ai-game-developers-react-godot-fortnite/",
+        "og_image": null
       }
     ],
     "books": [
       {
-        "url": "https://janefriedman.com/bestselling-nonfiction-author-believes-ai-has-devastated-his-book-sales/",
-        "source": "Jane Friedman",
+        "section": "books",
         "category": "books",
-        "published_iso": "2026-06-23T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Tim Ferriss reports his book catalog is on pace to sell 80% fewer print copies in 2026 than in 2022, with nearly all the decline since LLMs like ChatGPT and Claude became widely used — framing AI chatbots as a direct replacement for how-to nonfiction and signaling a structural shift for authors and publishers."
+        "source": "The Bookseller",
+        "published_iso": "2026-06-17T00:00:00Z",
+        "title": "Storytel Launches AI Genie Software",
+        "excerpt": "Audiobook platform Storytel has launched AI Genie, a conversational companion feature built on Google Gemini, OpenAI, and Anthropic models combined with Storytel's proprietary metadata layer, offering spoiler-free chapter recaps, interactive chats, and hyper-personalized Top Picks reading recommendations. The launch marks a significant shift in how audio subscription platforms are embedding generative AI directly into the listener workflow.",
+        "url": "https://www.thebookseller.com/news/storytel-launches-ai-genie-software",
+        "og_image": null
       },
       {
-        "url": "https://www.thecreativepenn.com/2026/06/22/creative-satisfaction-in-person-print-book-sales-and-author-mindset-with-mark-leslie-lefebvre/",
-        "source": "The Creative Penn",
+        "section": "books",
         "category": "books",
-        "published_iso": "2026-06-22T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Mark Leslie Lefebvre (Director of Business Development at Draft2Digital) discusses licensing his own AI voice through ElevenLabs for passive royalty income, the value of in-person author experiences as AI floods digital content, and how indie authors are navigating a market where AI-mass-produced ebooks are reshaping reader expectations."
+        "source": "The Bookseller",
+        "published_iso": "2026-06-18T00:00:00Z",
+        "title": "Children's Authors and Illustrators Launch 'We Are Better Than This' Campaign Against AI",
+        "excerpt": "A coalition of children's book creators including Chris Haughton, Benji Davies, Momoko Abe, Ged Adamson, and Simona Ciraolo launched 'We Are Better Than This,' a film-based creative uprising against AI scraping of illustrators' work, voiced by Miriam Margolyes. The campaign directly challenges AI image-generation pipelines that ingest children's book illustration styles without consent or compensation.",
+        "url": "https://www.thebookseller.com/news/childrens-authors-and-illustrators-launch-we-are-better-than-this-campaign-against-ai",
+        "og_image": null
       },
       {
-        "url": "https://goodereader.com/blog/kindle/do-you-use-these-new-kindle-ai-features",
-        "source": "Good e-Reader",
+        "section": "books",
         "category": "books",
-        "published_iso": "2026-06-13T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Amazon's new Kindle AI features — 'Story So Far' (spoiler-free chapter catch-up) and 'Ask This Book' (inline passage queries) — are rolling out to Kindle devices and the iOS app, alongside Kindle Scribe's AI-powered notebook search and insights, marking the Kindle platform's first major reader-facing generative AI integration."
-      },
-      {
-        "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html",
         "source": "Publishers Weekly",
-        "category": "books",
-        "published_iso": "2026-06-22T00:00:00Z",
-        "og_image": null,
-        "excerpt": "The 40th Beijing International Book Fair (June 17–21) featured a new Internet Publishing Joint Pavilion showcasing AI-generated content tools and publishing workflow applications from NetEase, Tencent, ByteDance's Fanqie Novel, and 20 other exhibitors, signaling that AI-driven digital publishing is becoming mainstream infrastructure in China's book industry."
+        "published_iso": "2026-06-22T09:00:00Z",
+        "title": "McGraw Hill Posts Small Profit on Flat Sales in Fiscal 2026, Citing 7.5 Million AI Personalized Learning Users",
+        "excerpt": "McGraw Hill reported that its AI-powered personalized learning tools now serve 7.5 million users, with an agentic AI version of its precision education model in active development, as the company repositions its core revenue around adaptive AI courseware rather than static textbooks. The results signal that AI-native educational publishing is reaching mainstream scale, reshaping how institutions license academic content.",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/100644-mcgraw-hill-posts-small-profit-on-flat-sales-in-fiscal-2026.html",
+        "og_image": null
       },
       {
-        "url": "https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/",
+        "section": "books",
+        "category": "books",
+        "source": "Publishers Weekly",
+        "published_iso": "2026-06-21T09:00:00Z",
+        "title": "Beijing International Book Fair Highlights Digital Publishing, Cross-Media Adaptations, and AI Editorial Workflows",
+        "excerpt": "At its 40th-anniversary edition (June 17-21), the Beijing International Book Fair made AI editorial workflows and digital publishing its central theme, with Tencent, NetEase, and Douyin anchoring a new Digital Publishing Joint Pavilion as 1,700 exhibitors from 82 countries attended. Chinese publishers are embedding AI across the entire editorial pipeline—from manuscript evaluation and metadata tagging to web-literature distribution—signaling how the world's largest book market is restructuring around AI.",
+        "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html",
+        "og_image": null
+      },
+      {
+        "section": "books",
+        "category": "books",
         "source": "The Scholarly Kitchen",
-        "category": "books",
-        "published_iso": "2026-06-25T00:00:00Z",
-        "og_image": null,
-        "excerpt": "A Cambridge workshop report calls for shared infrastructure to make AI use of scholarly content traceable, measurable, and trustworthy — arguing that as generative AI systems are adopted across research workflows, the publishing industry must preserve verifiability and provenance in the scholarly record."
+        "published_iso": "2026-06-18T00:00:00Z",
+        "title": "Ask the Fellows: Insights from SSP's 2026 Annual Meeting on AI and Research Integrity",
+        "excerpt": "A Scholarly Kitchen Fellow from Ghana's CSIR-Crops Research Institute reported from SSP 2026 on sessions exploring AI in scholarly publishing, the redefinition of research integrity when AI mediates knowledge, and a keynote on global disparities in AI innovation access. The post surfaces how academic publishers are actively debating which parts of the editorial and peer-review workflow can be handed to AI tools versus which require human judgment.",
+        "url": "https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/",
+        "og_image": null
       },
       {
-        "url": "https://bookriot.com/google-play-books-chatbot/",
+        "section": "books",
+        "category": "books",
+        "source": "The Scholarly Kitchen",
+        "published_iso": "2026-06-23T00:00:00Z",
+        "title": "Legitimate but Not Loved: What Academic Librarians Think About AI",
+        "excerpt": "A global study from Academic Publishing in Europe 2026 finds that librarians accept AI as a legitimate research tool but are deeply uneasy about its implications for trust and research integrity, with the next debate centering on who becomes the trusted authority when AI sits between researchers and the scholarly record. The findings carry direct implications for how publishers design AI features in academic content platforms.",
+        "url": "https://scholarlykitchen.sspnet.org/2026/06/23/guest-post-legitimate-but-not-loved-what-academic-librarians-think-about-ai/",
+        "og_image": null
+      },
+      {
+        "section": "books",
+        "category": "books",
         "source": "Book Riot",
-        "category": "books",
-        "published_iso": "2026-06-20T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Google Play Books launches 'Book Insights,' a Gemini-powered in-book AI companion that lets readers ask questions about plot and characters, catch up on previous chapters, and clarify text — raising debate about whether AI chatbots embedded in ebooks enhance or undermine the immersive reading experience."
+        "published_iso": "2026-06-25T00:00:00Z",
+        "title": "The Damage Is Done",
+        "excerpt": "Book Riot's newsletter explores the fallout from the Granta/Commonwealth Foundation Short Story Prize AI-use scandal—even after writers were cleared—arguing that the damage to literary publishing trust has already occurred and that editors, prize committees, and platforms must now build new systems for distinguishing human literary work from AI-generated content. The piece frames the episode as a turning point requiring new AI-authenticity infrastructure for literary institutions.",
+        "url": "https://bookriot.com/the-damage-is-done/",
+        "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg"
       },
       {
-        "url": "https://janefriedman.com/links-of-interest-june-24-2026/",
-        "source": "Jane Friedman",
+        "section": "books",
         "category": "books",
+        "source": "Publishing Perspectives",
+        "published_iso": "2026-06-22T00:00:00Z",
+        "title": "Around the Book World: Monday, June 22, 2026",
+        "excerpt": "Publishing Perspectives' weekly roundup covers Storytel's Genie AI companion launch, McGraw Hill's 7.5 million AI-learning users, and the inaugural BookTech Collective conference on AI and digital transformation in publishing, aggregating a week of concrete AI-tool deployments across the global book industry. The roundup signals measurable user counts and new conference infrastructure emerging around AI in publishing.",
+        "url": "https://publishingperspectives.com/2026/06/around-the-book-world-monday-june-22-2026/",
+        "og_image": null
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Kindlepreneur",
+        "published_iso": "2026-06-16T00:00:00Z",
+        "title": "15 Best AI Writing Tools for Authors (Updated June 2026): What Each Is Best For",
+        "excerpt": "Kindlepreneur's hands-tested guide to AI writing tools for authors was updated in June 2026, covering Sudowrite, Novelcrafter, Dibbly Create, and newer entrants in the fiction and nonfiction AI-drafting space, with honest assessments of which tools handle long-form narrative versus marketing copy versus developmental editing. The update reflects a maturing AI-tools ecosystem where authors can now choose purpose-built fiction models rather than adapting general-purpose LLMs.",
+        "url": "https://kindlepreneur.com/best-ai-writing-tools/",
+        "og_image": null
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Kindlepreneur",
+        "published_iso": "2026-06-16T00:00:00Z",
+        "title": "Novelcrafter Review (Updated June 2026): Is It the Most Powerful AI Tool for Writers?",
+        "excerpt": "Kindlepreneur's June 2026 update to its Novelcrafter review evaluates the platform's Codex world-management system, Bring Your Own Key AI model architecture, and updated pricing tiers, positioning it as the most powerful dedicated AI environment for fiction authors doing serious long-form work. The review reflects how fiction-specific AI tools have diverged from general-purpose LLMs, with authors choosing purpose-built ecosystems that preserve narrative consistency and creative voice.",
+        "url": "https://kindlepreneur.com/novelcrafter-review/",
+        "og_image": null
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Jane Friedman",
         "published_iso": "2026-06-24T00:00:00Z",
-        "og_image": null,
-        "excerpt": "Jane Friedman's curated weekly roundup covers Wiley's $49M in AI licensing revenue, the Dutch Bookpact.ai consent-based licensing platform, authors suing Anthropic post-settlement, and HarperCollins partnering with Toonstar to adapt books into AI-generated short-form videos — a comprehensive snapshot of the AI×books rights and workflow landscape in late June 2026."
+        "title": "Links of Interest: June 24, 2026 — Bookpact.ai, Anthropic Suit Opt-Outs, UK AI Licensing Roundup",
+        "excerpt": "Jane Friedman's June 24 links column covers Dutch publishers launching Bookpact.ai, a consent-based AI licensing platform; authors who opted out of the Anthropic settlement filing for up to $150,000 per work in statutory damages; and the UK Publishers' Licensing Services reaching 250 opted-in publishers for its collective AI licensing scheme. The items trace the emerging commercial and legal infrastructure authors and publishers are building to manage—and monetize—their relationships with AI companies.",
+        "url": "https://janefriedman.com/links-of-interest-june-24-2026/",
+        "og_image": null
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Jane Friedman",
+        "published_iso": "2026-06-17T00:00:00Z",
+        "title": "Links of Interest: June 17, 2026 — Kobo's AI Dilemma, Google Play AI Book Insights, Author Lawsuit Ruling",
+        "excerpt": "Jane Friedman's June 17 links column highlights Kobo CEO Michael Tamblyn wrestling publicly with how much AI content is too much on its self-publishing platform, Google Play launching AI-powered book insights with publisher opt-out, and a US judge ruling that authors suing AI companies must pursue each company separately. The three items together show how platform gatekeepers, AI developers, and legal systems are each independently shaping the rules of AI in publishing.",
+        "url": "https://janefriedman.com/links-of-interest-june-17-2026/",
+        "og_image": null
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Jane Friedman",
+        "published_iso": "2026-06-20T00:00:00Z",
+        "title": "Bestselling Nonfiction Author Believes AI Has Devastated His Book Sales",
+        "excerpt": "A bestselling nonfiction author reports that AI-powered search and answer engines have begun replacing the informational role of how-to and self-help books, with 2025 marking the first steep sales drop and 2026 tracking worse, projecting an 80% reduction in copies sold versus 2022. The case study signals that AI is now directly competing with books-as-information-delivery, representing a new structural threat beyond AI-generated content flooding the market.",
+        "url": "https://janefriedman.com/bestselling-nonfiction-author-believes-ai-has-devastated-his-book-sales/",
+        "og_image": null
       }
     ]
   }
