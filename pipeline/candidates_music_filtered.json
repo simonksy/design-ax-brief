@@ -1,65 +1,108 @@
 {
   "date": "2026-06-27",
   "window_hours": 336,
+  "section": "music",
   "items": [
     {
-      "url": "https://www.musicradar.com/music-tech/ai-prompt-plugins",
-      "title": "“We strongly believe that in the coming years, writing code manually won’t be a thing”: Inside the new wave of AI vibe coding tools turning prompts into plugins",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-06-26T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mZrJmwiLCue9iRDHpj2odm.png",
-      "excerpt": "AI-powered plugin generators like Amorph and Pluginmaker.ai let musicians build custom audio plugins from natural-language prompts instead of traditional coding, pointing to a new 'vibe coding' workflow for music-tool creation."
-    },
-    {
-      "url": "https://cdm.link/music-in-training-sets-is-the-new-spotify-wrapped-how-genai-uses-your-music/",
-      "title": "Music in training sets is the new Spotify Wrapped: how genAI uses your music",
+      "id": "music-001",
+      "category": "Music — Core & Generative Models",
       "source": "CDM Create Digital Music",
-      "category": "music",
-      "published_iso": "2026-06-22T12:00:00Z",
+      "domain": "cdm.link",
+      "title": "Music in training sets is the new Spotify Wrapped: how genAI uses your music",
+      "published_iso": "2026-06-22T00:00:00Z",
+      "url": "https://cdm.link/music-in-training-sets-is-the-new-spotify-wrapped-how-genai-uses-your-music/",
+      "excerpt": "Producers are discovering their own music inside AI training sets via The Atlantic's new searchable AI Watchdog database, which covers four datasets totalling over 21 million tracks—Berlin artist Hainbach found 151 of his songs in a single LAION YouTube corpus. CDM examines what the exposure means for musicians' rights and creative autonomy.",
       "og_image": "",
-      "excerpt": "Producers are finding their own music inside AI training datasets after an Atlantic investigation made the databases publicly searchable, exposing widespread use of artists' work without consent or compensation."
+      "freshness": "FRESH"
     },
     {
-      "url": "https://www.billboard.com/pro/ai-music-deals-musicians-letter-artists-rights/",
-      "title": "AI Music Deals: Musicians' Note Warns to Not Override Artists' Rights",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-06-22T12:00:00Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/06/no-consent-2026-press-umg-cr-MAC-billboard-1800.jpg",
-      "excerpt": "A global coalition of musicians, songwriters and managers released a letter warning record labels and publishers against coercing artists into AI licensing deals, arguing creators deserve the same training-consent rights the labels demand of AI firms."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/06/19/two-notes-audio-genome-intro/",
-      "title": "Two Notes Audio Engineering releases Genome Intro, a FREE amp and FX suite",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-06-19T12:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/TwoNotes-GenomeIntro-728x364.jpg",
-      "excerpt": "Two Notes' free Genome Intro is powered by CODEX, an AI amp playback engine that loads and plays neural amp captures from Neural Amp Modeller, AIDA-X and Proteus inside one workspace."
-    },
-    {
-      "url": "https://www.synthtopia.com/content/2026/06/23/apple-intros-music-understanding-framework-at-wwdc/",
-      "title": "Apple Intros Music Understanding Framework At WWDC",
-      "source": "Synthtopia",
-      "category": "music",
-      "published_iso": "2026-06-23T12:00:00Z",
+      "id": "music-002",
+      "category": "Music — Core & Generative Models",
+      "source": "Engadget",
+      "domain": "engadget.com",
+      "title": "Investigation by The Atlantic reveals many millions of songs used for AI music training",
+      "published_iso": "2026-06-15T00:00:00Z",
+      "url": "https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/",
+      "excerpt": "The Atlantic published four searchable databases of music used to train AI models—two holding 12 million and 9 million tracks respectively—including hit songs from Taylor Swift and Bad Bunny alongside tens of thousands of independent artists, with the databases now being used as evidence in active copyright litigation against Suno and Udio.",
       "og_image": "",
-      "excerpt": "Apple's new on-device Music Understanding framework, unveiled at WWDC 2026, uses AI audio analysis to extract time-stamped data across six musical dimensions — rhythm, key, loudness, pace, structure and instrument activity — for app developers."
+      "freshness": "FRESH"
     },
     {
-      "url": "https://musictech.com/news/music/is-your-music-used-to-train-ai-tool/",
-      "title": "Was your music used to train AI? This free tool will tell you",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-06-24T12:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Music-Download@2000x1500.jpg",
-      "excerpt": "A free searchable database built by The Atlantic lets musicians check whether their recordings appear in four major AI music training datasets, revealing millions of tracks potentially used without explicit consent."
+      "id": "music-003",
+      "category": "Music — Core & Generative Models",
+      "source": "Mixmag",
+      "domain": "mixmag.net",
+      "title": "Artists can now check whether their music has been used to train AI",
+      "published_iso": "2026-06-21T00:00:00Z",
+      "url": "https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news",
+      "excerpt": "Mixmag covers The Atlantic's AI Watchdog searchable interface, which lets any artist enter their name to see which songs appear in the major AI music training datasets; companies often claimed to use only 'freely available' online content, but the databases reveal the true scale of copyrighted material actually accessed.",
+      "og_image": "",
+      "freshness": "FRESH"
+    },
+    {
+      "id": "music-004",
+      "category": "Music — Core & Generative Models",
+      "source": "DJ Mag",
+      "domain": "djmag.com",
+      "title": "Over 21 million copyrighted songs are circulating among AI developers, watchdog tool launched",
+      "published_iso": "2026-06-24T00:00:00Z",
+      "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
+      "excerpt": "DJ Mag reports that The Atlantic's AI Watchdog investigation uncovered four major datasets—containing more than 21 million tracks combined—being shared among AI developers for model training, with a new public search tool allowing artists to identify whether their recordings appear in training pipelines used by Suno and Udio.",
+      "og_image": "",
+      "freshness": "FRESH"
+    },
+    {
+      "id": "music-005",
+      "category": "Music — DJ, Electronic & Real-Time",
+      "source": "Resident Advisor",
+      "domain": "residentadvisor.net",
+      "title": "Traxsource launches AI transparency labels",
+      "published_iso": "2026-06-23T16:15:00Z",
+      "url": "https://ra.co/news/85477",
+      "excerpt": "Electronic music download platform Traxsource will begin labelling tracks as 'human-made', 'AI-assisted' or removing fully AI-generated music from July 1, working with detection partners SH Labs and SoundPatrol; cofounder Brian Tappert says the goal is to ensure value stays with human-created works while acknowledging AI is not going away.",
+      "og_image": "",
+      "freshness": "FRESH"
+    },
+    {
+      "id": "music-006",
+      "category": "Music — Producer Tools, DAW & Workflow",
+      "source": "GearNews",
+      "domain": "gearnews.com",
+      "title": "AI Training Data 2026: The Atlantic Reveals Whose Music Ended Up in Suno and Udio",
+      "published_iso": "2026-06-20T19:24:00Z",
+      "url": "https://www.gearnews.com/ai-training-data-the-atlantic-tech/",
+      "excerpt": "GearNews breaks down The Atlantic's AI Watchdog report for producers, explaining how the four searchable datasets—including a 12-million-track LAION YouTube corpus—expose exactly which recordings were fed into Suno and Udio's training pipelines and how AI models learned to imitate genre, timbre, and style from real productions.",
+      "og_image": "",
+      "freshness": "FRESH"
+    },
+    {
+      "id": "music-007",
+      "category": "Music — Producer Tools, DAW & Workflow",
+      "source": "CDM Create Digital Music",
+      "domain": "cdm.link",
+      "title": "With Latent Terrain, crack open AI and explore neural synthesis in Max",
+      "published_iso": "2026-06-17T00:00:00Z",
+      "url": "https://cdm.link/latent-terrain-max/",
+      "excerpt": "Latent Terrain is a free, open-source Max/MSP external by researcher Jasper Zheng that turns pre-trained RAVE neural audio autoencoder models into a playable real-time synthesis instrument—producers navigate AI latent space using their own sounds as input, with all processing running locally and no internet connection required.",
+      "og_image": "",
+      "freshness": "FRESH"
+    },
+    {
+      "id": "music-008",
+      "category": "Music — Core & Generative Models",
+      "source": "Music Ally",
+      "domain": "musically.com",
+      "title": "The Atlantic uncovers 'millions' of songs used for AI training",
+      "published_iso": "2026-06-16T00:00:00Z",
+      "url": "https://musically.com/2026/06/16/the-atlantic-uncovers-millions-of-songs-used-for-ai-music-training/",
+      "excerpt": "Music Ally covers The Atlantic's AI Watchdog investigation, noting the two largest datasets contain 12 million and 9 million tracks, and explains that AI companies often claimed to use only freely available online content while the databases reveal the true scale of copyrighted material accessed for model training.",
+      "og_image": "",
+      "freshness": "FRESH"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 6,
+    "kept": 8,
     "against_days": 5
   }
 }

@@ -3,58 +3,64 @@
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
-      "title": "SpatialGen Zeus Streams Live Immersive Video To Apple Vision Pro",
-      "source": "UploadVR",
-      "category": "vr",
-      "published_iso": "2026-06-26T22:08:17Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/06/SpatialGen-Zeus-overlay-on-Apple-Immersive-Video-Wolves-at-Lakers.jpg",
-      "excerpt": "SpatialGen Zeus is a rack-mounted system for live immersive video workflows on Apple Vision Pro, ingesting, encoding and distributing high-quality ProRes spatial video in real time."
-    },
-    {
-      "url": "https://www.uploadvr.com/meta-starfire-smart-glasses-kylie-jenner-designed/",
-      "title": "Meta Preempts Google's Gentle Monster Glasses With Kylie Jenner 'Starfire' Design",
-      "source": "UploadVR",
-      "category": "vr",
-      "published_iso": "2026-06-24T23:56:00Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/06/Meta-Glasses-Starfire-Kylie-style-feature.png",
-      "excerpt": "Meta released 'Starfire' smart glasses designed with Kylie Jenner, featuring her voice for Meta AI and premium industrial-design styling on the same core tech as Ray-Ban Meta Gen 2."
-    },
-    {
-      "url": "https://www.uploadvr.com/meta-launches-cheaper-smart-glasses-without-ray-ban-branding/",
-      "title": "Meta Launches Cheaper Smart Glasses Without Ray-Ban Branding",
-      "source": "UploadVR",
-      "category": "vr",
-      "published_iso": "2026-06-24T23:55:34Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/06/Meta-Glasses.jpg",
-      "excerpt": "Meta introduced a new line of affordable smart glasses with the same wearable-AI interface as Ray-Ban Meta but without premium branding, starting at $300 in two styles."
-    },
-    {
-      "url": "https://www.creativebloq.com/ai/is-ai-creating-a-divide-among-creatives",
-      "title": "Is AI creating a divide among creatives?",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-06-25T18:59:47Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BNJ6SWXs3thRq3qSqTQGTJ-1200-80.jpg",
-      "excerpt": "Over half of creatives now use AI in their workflows, but adoption skews toward those who can afford to take the risk, opening a divide in how design teams work."
-    },
-    {
-      "url": "https://www.creativebloq.com/ai/whats-actually-in-the-worlds-first-ai-art-museum",
-      "title": "What's actually in the world's first AI art museum?",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-06-26T07:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KuY2HUAwLS8WsPFLgCvHML-1200-80.jpg",
-      "excerpt": "Dataland, founded by digital artists Refik Anadol and Efsun Erkilic, opens as the world's first AI art museum with immersive, generative living artworks across five galleries."
-    },
-    {
-      "url": "https://80.lv/articles/miris-built-a-car-configurator-without-pixel-streaming-heres-what-they-found",
-      "title": "Miris Built a Car Configurator Without Pixel Streaming: Here's What They Found",
-      "source": "80 Level",
+      "section": "design",
       "category": "render",
-      "published_iso": "2026-06-26T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Miris built an interactive WebXR car configurator that streams HDR-grade material fidelity at minimal file sizes, with no cloud GPU or pixel streaming required."
+      "source": "CG Channel",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "title": "Boris FX releases Optics 2026.5 with AI-powered facial masking",
+      "excerpt": "Boris FX Optics 2026.5 ships four AI tools for automatically masking parts of the human face, generating depth maps from photos, and denoising and upresing images — alongside expanded platform support for Affinity, Apple Photos, and Capture One.",
+      "url": "https://www.cgchannel.com/2026/06/boris-fx-releases-optics-2026/",
+      "og_image": null
+    },
+    {
+      "section": "design",
+      "category": "render",
+      "source": "CG Channel",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "title": "KeyShot releases KeyShot 2026.2",
+      "excerpt": "KeyShot 2026.2 adds GPU rendering on Apple Silicon, an integrated cloud rendering service (KeyShot Cloud), Node Groups in the material graph for reusable components, and glTF/GLB export compression that makes models 2–3x smaller.",
+      "url": "https://www.cgchannel.com/2026/06/keyshot-releases-keyshot-2026-2/",
+      "og_image": null
+    },
+    {
+      "section": "design",
+      "category": "figma",
+      "source": "UX Collective",
+      "published_iso": "2026-06-27T05:00:00Z",
+      "title": "Rethinking Figma in an AI World",
+      "excerpt": "Figma's Config 2026 announcements — code layers, Figma Motion, shader tools, and an expanded AI agent — reveal the platform is no longer just defending its collaborative canvas but actively expanding into code-first, agentic software building to stay relevant.",
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
+      "og_image": null
+    },
+    {
+      "section": "design",
+      "category": "figma",
+      "source": "UX Collective",
+      "published_iso": "2026-06-27T08:00:00Z",
+      "title": "AI didn't replace designers—it promoted them",
+      "excerpt": "Rather than eliminating design roles, AI has elevated designers into higher-leverage positions — handling strategic direction, craft oversight, and quality control — as AI tools absorb routine production work.",
+      "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26",
+      "og_image": null
+    },
+    {
+      "section": "design",
+      "category": "workflow",
+      "source": "Business Wire",
+      "published_iso": "2026-06-25T00:00:00Z",
+      "title": "Introducing Canva Grow 2.0: Create, Launch, and Optimize Ads in One Place",
+      "excerpt": "Canva Grow 2.0, unveiled at Cannes Lions, expands Canva into a full AI-driven performance marketing platform where teams can create, publish, and optimize ad campaigns within a single design workspace — rolling out to users in North America, Australia, and the UK starting June 25.",
+      "url": "https://www.businesswire.com/news/home/20260625870253/en/Introducing-Canva-Grow-2.0-Create-Launch-and-Optimize-Ads-in-One-Place",
+      "og_image": null
+    },
+    {
+      "section": "design",
+      "category": "cad",
+      "source": "Engineering.com",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "title": "Gstarsoft updates design portfolio across CAD and BIM",
+      "excerpt": "Gstarsoft's updated GstarCAD 2027 and GstarBIM 2027 bring AI-assisted visualization, 2D-to-3D conversion, point cloud modeling, and cloud-native collaboration tools into a single connected design environment for CAD and BIM workflows.",
+      "url": "https://www.engineering.com/gstarsoft-updates-design-portfolio-across-cad-and-bim/",
+      "og_image": null
     }
   ],
   "dedup": {

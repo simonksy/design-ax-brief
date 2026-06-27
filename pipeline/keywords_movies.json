@@ -1,262 +1,310 @@
 {
   "section": "movies",
   "date": "2026-06-27",
-  "rotation_offset": 178,
+  "day_of_year": 178,
+  "rotation_offset": 18,
+  "recently_covered_skip": [
+    "Google DeepMind A24 $75M filmmaking tools (Variety 06-26)",
+    "OpenArt vibe-directing 5-min AI film (THR 06-26)",
+    "Dreams of Violets Tribeca AI feature $2K budget (Variety 06-26)",
+    "A24 Google AI deal fan backlash / boycott (THR 06-26)",
+    "Reallusion iClone Personal free + AI Studio launch (beforesandafters 06-27)",
+    "Curious Refuge weekly AI film recap / Google A24 (YouTube 06-27)",
+    "Shanghai 2026 AI MiniMax generative film (Variety 06-27)",
+    "Annecy AI4animation think tank (ScreenDaily 06-27)",
+    "French animators 3Cs AI policy demand (AnimationMagazine 06-27)"
+  ],
   "core_keywords": [
-    "AI film",
-    "AI 영화",
-    "AI filmmaking"
-  ],
-  "user_seeds": [],
-  "avoid_recent": [
-    "Google A24 DeepMind $75M filmmaking tools deal",
-    "OpenArt Director vibe directing 5-minute film",
-    "Dreams of Violets AI feature Tribeca $2000 budget",
-    "A24 Google AI partnership fan backlash",
-    "Scorsese Black Forest Labs storyboard"
-  ],
-  "working_keywords": [
     {
       "keyword": "AI film",
       "is_core": true,
       "expansions": [
-        "AI film 2026",
-        "AI generated film news June 2026",
-        "artificial intelligence movie production",
-        "AI 영화 최신 뉴스"
+        "AI generated film 2026",
+        "AI film production news June 2026",
+        "artificial intelligence movie making",
+        "AI 영화 최신 뉴스 2026"
       ]
     },
     {
       "keyword": "AI 영화",
       "is_core": true,
       "expansions": [
-        "AI 영화 제작 도구",
-        "인공지능 영화 제작",
-        "AI 영화 트렌드 2026"
+        "AI 영화 제작 도구 2026",
+        "인공지능 영화 제작 파이프라인",
+        "AI 영상 생성 영화 최신",
+        "생성형 AI 영화 워크플로"
       ]
     },
     {
       "keyword": "AI filmmaking",
       "is_core": true,
       "expansions": [
-        "AI filmmaking workflow 2026",
-        "AI tools for filmmakers",
-        "AI filmmaking pipeline studio",
-        "generative AI filmmaking case study"
+        "AI filmmaking workflow tools 2026",
+        "AI filmmaking Hollywood studio pipeline",
+        "indie AI filmmaking case study",
+        "generative AI filmmaking release"
       ]
-    },
-    {
-      "keyword": "generative video film",
-      "is_core": false,
-      "expansions": [
-        "generative AI video film model 2026",
-        "AI video generation cinema",
-        "generative video for filmmakers",
-        "text-to-video film production"
-      ]
-    },
-    {
-      "keyword": "AI VFX",
-      "is_core": false,
-      "expansions": [
-        "AI visual effects studio 2026",
-        "AI VFX pipeline tool",
-        "machine learning VFX compositing",
-        "AI VFX post production"
-      ]
-    },
-    {
-      "keyword": "Runway film",
-      "is_core": false,
-      "expansions": [
-        "Runway Gen AI film 2026",
-        "Runway ML filmmaking",
-        "Runway AI video production studio",
-        "Runway Aleph film tool"
-      ]
-    },
-    {
-      "keyword": "Sora film",
-      "is_core": false,
-      "expansions": [
-        "OpenAI Sora film 2026",
-        "Sora AI video filmmaking",
-        "Sora cinematic generation update",
-        "Sora movie production"
-      ]
-    },
+    }
+  ],
+  "pool_keywords": [
     {
       "keyword": "Kling film",
-      "is_core": false,
+      "pool_index": 18,
+      "rotation_priority": 1,
       "expansions": [
-        "Kling AI film 2026",
-        "Kling video model filmmaking",
-        "Kling 3.0 cinematic short",
-        "Kuaishou Kling movie"
+        "Kling 3.0 film cinematic shots 2026",
+        "Kuaishou Kling video model filmmaking",
+        "Kling AI short film production",
+        "클링 AI 영화 제작 2026"
       ]
     },
     {
       "keyword": "Luma film",
-      "is_core": false,
+      "pool_index": 19,
+      "rotation_priority": 2,
       "expansions": [
-        "Luma Dream Machine film 2026",
-        "Luma Ray AI video film",
-        "Luma AI cinematic generation",
-        "Luma Labs filmmaking"
+        "Luma Dream Machine Ray2 film 2026",
+        "Luma AI cinematic video generation",
+        "Luma Labs filmmaking workflow",
+        "루마 AI 영상 영화"
       ]
     },
     {
       "keyword": "AI animation film",
-      "is_core": false,
+      "pool_index": 20,
+      "rotation_priority": 3,
+      "note": "Annecy covered broad policy angle; target production tool angle here",
       "expansions": [
-        "AI animation feature film 2026",
-        "AI animated short production",
-        "generative AI animation studio",
-        "AI animation pipeline workflow"
+        "AI animated short film production tool 2026",
+        "generative AI animation pipeline studio",
+        "AI character animation feature film",
+        "AI 애니메이션 영화 제작 도구"
       ]
     },
     {
-      "keyword": "AI scene generation",
-      "is_core": false,
+      "keyword": "generative video film",
+      "pool_index": 0,
+      "rotation_priority": 4,
       "expansions": [
-        "AI scene generation film VFX",
-        "AI generated movie scene 2026",
-        "AI environment generation cinema",
-        "AI set extension generation"
+        "generative video Hollywood film production 2026",
+        "text-to-video feature film pipeline",
+        "generative video VFX post workflow",
+        "생성형 비디오 영화 제작 파이프라인"
+      ]
+    },
+    {
+      "keyword": "AI VFX",
+      "pool_index": 1,
+      "rotation_priority": 5,
+      "expansions": [
+        "AI VFX pipeline tools release 2026",
+        "AI visual effects compositing workflow",
+        "neural rendering VFX film 2026",
+        "AI VFX 영상 효과 도구"
+      ]
+    },
+    {
+      "keyword": "Runway film",
+      "pool_index": 2,
+      "rotation_priority": 6,
+      "expansions": [
+        "Runway Gen-4 Aleph film production 2026",
+        "Runway ML Hollywood filmmaking tool",
+        "Runway AI cinematic video workflow",
+        "런웨이 AI 영상 제작"
+      ]
+    },
+    {
+      "keyword": "Sora film",
+      "pool_index": 3,
+      "rotation_priority": 7,
+      "expansions": [
+        "OpenAI Sora film production 2026",
+        "Sora cinematic video generation update",
+        "Sora AI movie use case studio",
+        "소라 영상 생성 영화"
       ]
     },
     {
       "keyword": "virtual production AI",
-      "is_core": false,
+      "pool_index": 4,
+      "rotation_priority": 8,
       "expansions": [
         "virtual production AI LED volume 2026",
-        "AI virtual production workflow",
-        "Unreal virtual production AI film",
-        "AI real-time previs virtual production"
+        "AI generative real-time background virtual set",
+        "Unreal Engine virtual production AI film",
+        "버추얼 프로덕션 AI 도구 2026"
       ]
     },
     {
       "keyword": "AI de-aging",
-      "is_core": false,
+      "pool_index": 5,
+      "rotation_priority": 9,
       "expansions": [
-        "AI de-aging film actor 2026",
-        "AI de-aging VFX tool",
-        "neural de-aging movie",
-        "AI face replacement de-aging"
+        "AI de-aging VFX Hollywood actor 2026",
+        "deepfake de-aging film feature",
+        "neural face rejuvenation film tool",
+        "AI 디에이징 VFX 영화"
       ]
     },
     {
-      "keyword": "AI rotoscoping",
-      "is_core": false,
+      "keyword": "AI storyboard previs",
+      "pool_index": 6,
+      "rotation_priority": 10,
       "expansions": [
-        "AI rotoscoping VFX tool 2026",
-        "automated roto AI post production",
-        "AI matte generation rotoscope",
-        "machine learning rotoscoping"
+        "AI storyboard tool filmmaking 2026",
+        "AI previs previz software film",
+        "AI shot planning visualization tool",
+        "AI 스토리보드 프리비즈 도구"
       ]
     },
     {
-      "keyword": "AI color grading",
-      "is_core": false,
+      "keyword": "AI screenwriting",
+      "pool_index": 7,
+      "rotation_priority": 11,
       "expansions": [
-        "AI color grading DaVinci Resolve 2026",
-        "AI color grade post production",
-        "automated color correction AI film",
-        "AI colorist tool"
+        "AI screenwriting tool Hollywood 2026",
+        "LLM AI script co-writing film",
+        "AI screenplay writing software release",
+        "AI 시나리오 작성 도구 2026"
       ]
     },
     {
-      "keyword": "AI motion capture",
-      "is_core": false,
+      "keyword": "AI dubbing lip sync",
+      "pool_index": 11,
+      "rotation_priority": 12,
       "expansions": [
-        "AI markerless motion capture 2026",
-        "AI mocap film animation",
-        "video to motion capture AI",
-        "AI performance capture"
-      ]
-    },
-    {
-      "keyword": "AI film restoration",
-      "is_core": false,
-      "expansions": [
-        "AI film restoration archival 2026",
-        "AI upscaling restoration classic film",
-        "neural film restoration tool",
-        "AI remaster old movie"
+        "AI dubbing lip sync film localization 2026",
+        "AI voice dubbing tool release",
+        "neural lip sync software film",
+        "AI 더빙 립싱크 영화 로컬라이제이션"
       ]
     }
   ],
   "search_plan": {
-    "total_queries": 27,
+    "total_queries": 28,
     "categories": [
       {
-        "category": "movies",
-        "label": "Movies — Generative Video Models & Filmmaking Tools",
+        "category": "movies_trade",
+        "label": "Trade & Industry News",
         "allowed_domains": [
-          "variety.com", "hollywoodreporter.com", "indiewire.com", "nofilmschool.com",
-          "fxguide.com", "beforesandafters.com", "provideocoalition.com", "cartoonbrew.com",
-          "vfxvoice.com", "definitionmagazine.com", "postperspective.com", "deadline.com",
-          "screendaily.com", "theasc.com", "motionographer.com", "studiodaily.com",
-          "animationmagazine.net", "awn.com", "redsharknews.com", "theverge.com",
-          "engadget.com", "80.lv"
+          "variety.com",
+          "hollywoodreporter.com",
+          "deadline.com",
+          "indiewire.com",
+          "screendaily.com"
         ],
         "queries": [
-          "AI filmmaking tool release June 2026",
-          "generative video AI film model 2026",
-          "AI 영화 제작 도구 최신 뉴스 2026",
-          "Runway AI video film production 2026",
-          "Sora OpenAI film AI video 2026",
-          "Kling AI cinematic short film 2026",
-          "Luma Dream Machine AI film 2026",
-          "AI animation feature film studio 2026",
-          "AI scene generation film VFX 2026",
-          "text-to-video filmmaking workflow 2026",
-          "AI short film festival selection 2026"
+          "site:variety.com OR site:deadline.com AI filmmaking tools film 2026",
+          "site:variety.com OR site:hollywoodreporter.com \"AI VFX\" OR \"virtual production AI\" 2026",
+          "site:hollywoodreporter.com OR site:indiewire.com AI screenwriting OR \"AI storyboard\" film 2026",
+          "site:screendaily.com OR site:indiewire.com AI animation film generative 2026"
         ]
       },
       {
-        "category": "movies",
-        "label": "Movies — VFX, Post & Production Workflow",
+        "category": "movies_tech",
+        "label": "VFX & Production Tech Trades",
         "allowed_domains": [
-          "fxguide.com", "beforesandafters.com", "provideocoalition.com", "vfxvoice.com",
-          "postperspective.com", "definitionmagazine.com", "redsharknews.com",
-          "studiodaily.com", "theasc.com", "motionographer.com", "animationmagazine.net",
-          "awn.com", "80.lv", "theverge.com", "engadget.com"
+          "fxguide.com",
+          "beforesandafters.com",
+          "nofilmschool.com",
+          "vfxvoice.com",
+          "theasc.com",
+          "provideocoalition.com",
+          "definitionmagazine.com",
+          "postperspective.com",
+          "studiodaily.com",
+          "redsharknews.com"
         ],
         "queries": [
-          "AI VFX visual effects studio pipeline 2026",
-          "virtual production AI LED volume 2026",
-          "AI de-aging film VFX 2026",
-          "AI rotoscoping post production tool 2026",
-          "AI color grading DaVinci Resolve film 2026",
-          "AI markerless motion capture film 2026",
-          "AI film restoration archival upscaling 2026",
-          "neural rendering VFX filmmaking 2026",
-          "AI dubbing lip sync localization film 2026",
-          "AI previs storyboard production workflow 2026"
+          "site:fxguide.com OR site:beforesandafters.com AI VFX OR generative video film 2026",
+          "site:nofilmschool.com OR site:redsharknews.com AI filmmaking Runway OR Kling OR Luma 2026",
+          "site:vfxvoice.com OR site:theasc.com OR site:postperspective.com AI visual effects neural 2026",
+          "site:provideocoalition.com OR site:studiodaily.com AI dubbing lip sync OR virtual production 2026"
         ]
       },
       {
-        "category": "social",
-        "label": "Social — YouTube Movies AI Channels (rotation: Corridor Crew, Curious Refuge, Runway, fxguide)",
-        "allowed_domains": ["youtube.com", "youtu.be", "instagram.com"],
+        "category": "movies_animation",
+        "label": "Animation & CG Coverage",
+        "allowed_domains": [
+          "cartoonbrew.com",
+          "animationmagazine.net",
+          "awn.com",
+          "motionographer.com",
+          "80.lv"
+        ],
         "queries": [
-          "site:youtube.com \"Corridor Crew\" AI film VFX 2026",
-          "site:youtube.com \"Curious Refuge\" AI filmmaking 2026",
-          "site:youtube.com \"Runway\" AI film tutorial 2026",
-          "site:youtube.com fxguide AI VFX 2026",
-          "site:instagram.com/runway AI film"
+          "site:cartoonbrew.com OR site:awn.com AI animation film production 2026",
+          "site:animationmagazine.net generative AI animation pipeline tool 2026",
+          "site:motionographer.com OR site:80.lv AI motion capture OR AI de-aging film 2026",
+          "site:cartoonbrew.com OR site:awn.com AI storyboard previs short film 2026"
         ]
       },
       {
-        "category": "movies",
-        "label": "Movies — Wildcard Trending",
+        "category": "movies_tools_broad",
+        "label": "AI Video Tools Broad Coverage",
         "allowed_domains": [
-          "variety.com", "hollywoodreporter.com", "deadline.com", "indiewire.com",
-          "theverge.com", "engadget.com", "80.lv", "nofilmschool.com"
+          "theverge.com",
+          "engadget.com",
+          "venturebeat.com",
+          "techcrunch.com"
         ],
         "queries": [
-          "AI movie trailer generated viral 2026"
+          "site:theverge.com OR site:engadget.com Runway OR Kling OR Luma AI video film 2026",
+          "site:venturebeat.com OR site:techcrunch.com Sora OR \"generative video\" Hollywood film 2026",
+          "site:theverge.com OR site:venturebeat.com AI dubbing OR \"AI screenwriting\" OR \"AI storyboard\" 2026",
+          "site:techcrunch.com OR site:engadget.com \"virtual production AI\" OR \"AI VFX\" film 2026"
+        ]
+      },
+      {
+        "category": "movies_open_web",
+        "label": "Open Web — Specific Tool & Keyword Searches",
+        "allowed_domains": [],
+        "queries": [
+          "Kling 3.0 film cinematic production use case 2026",
+          "Luma Ray2 OR \"Dream Machine\" film short cinematic 2026",
+          "Runway Gen-4 Hollywood filmmaking workflow 2026",
+          "AI film restoration neural upscaling archival 2026",
+          "AI de-aging VFX deepfake Hollywood actor film 2026",
+          "\"AI short film\" competition OR festival award 2026",
+          "AI screenwriting LLM script Hollywood writer 2026"
+        ]
+      },
+      {
+        "category": "movies_korean",
+        "label": "Korean Language AI Film Coverage",
+        "allowed_domains": [],
+        "queries": [
+          "AI 영화 제작 도구 클링 OR 런웨이 OR 루마 2026",
+          "생성형 AI 영상 영화 제작 워크플로 2026",
+          "AI VFX 버추얼 프로덕션 영화 2026"
+        ]
+      },
+      {
+        "category": "social_youtube",
+        "label": "YouTube — Rotating Channels (day 178 → Runway index 0, Corridor Crew index 1; Curious Refuge skipped as covered today)",
+        "allowed_domains": ["youtube.com", "youtu.be"],
+        "queries": [
+          "site:youtube.com Runway AI film cinematic tutorial 2026",
+          "site:youtube.com \"Corridor Crew\" AI VFX OR deepfake film 2026",
+          "site:youtube.com fxguide AI visual effects pipeline 2026"
+        ]
+      },
+      {
+        "category": "social_instagram",
+        "label": "Instagram (best-effort)",
+        "allowed_domains": ["instagram.com"],
+        "queries": [
+          "site:instagram.com runway AI film cinematic 2026",
+          "site:instagram.com AI filmmaking generative video 2026"
+        ]
+      },
+      {
+        "category": "wildcard",
+        "label": "Wildcard Trending",
+        "allowed_domains": [],
+        "queries": [
+          "MiniMax Hailuo AI film production cinematic release 2026"
         ]
       }
     ]

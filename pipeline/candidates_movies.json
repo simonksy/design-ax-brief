@@ -3,58 +3,114 @@
   "window_hours": 336,
   "items": [
     {
-      "url": "https://beforesandafters.com/2026/06/26/reallusion-unlocks-limitless-creation-iclone-personal-debuts-alongside-ai-studio-official-launch/",
-      "title": "Reallusion Unlocks Limitless Creation: iClone Personal Debuts Alongside AI Studio Official Launch",
-      "source": "befores & afters",
-      "category": "movies",
+      "section": "movies",
+      "category": "movies_trade",
+      "source": "Deadline",
+      "published_iso": "2026-06-22T00:00:00Z",
+      "title": "Is AI Hollywood's New Cosmetic Surgery?",
+      "excerpt": "Studios and producers are quietly using AI to polish films in post-production while keeping it off the credits, with one leading AI technologist noting his company is credited on only one-fifth of the projects it completes. The piece examines why Hollywood fears audience backlash even when using AI for imperceptible enhancements rather than generative content.",
+      "url": "https://deadline.com/2026/06/is-ai-hollywood-new-cosmetic-surgery-1236958187/",
+      "og_image": null
+    },
+    {
+      "section": "movies",
+      "category": "movies_trade",
+      "source": "The Hollywood Reporter",
       "published_iso": "2026-06-26T00:00:00Z",
-      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/06/00_ic-ai-grand-launch-Free-for-All-Users.jpg",
-      "excerpt": "Reallusion released iClone Personal as a permanently free tier alongside the official launch of AI Studio, establishing a zero-barrier pipeline that bridges traditional 3D artistry with next-generation AI workflows for animation and VFX."
+      "title": "The AI Issue 2026",
+      "excerpt": "Hollywood Reporter's special AI issue examines who the AI guides in entertainment are and where they are taking the industry, covering filmmaking workflows, production pipelines, and the creative AI tools reshaping how films are made. The package features voices from across the studio ecosystem on the present and future of AI in production.",
+      "url": "https://www.hollywoodreporter.com/p/the-ai-issue-2026/",
+      "og_image": null
     },
     {
-      "url": "https://www.youtube.com/watch?v=72KEzohPvDc",
-      "title": "This is the Biggest AI Filmmaking Partnership Yet",
-      "source": "Curious Refuge",
-      "category": "social",
-      "published_iso": "2026-06-26T13:26:00-07:00",
-      "og_image": "https://i.ytimg.com/vi/72KEzohPvDc/maxresdefault.jpg",
-      "excerpt": "Curious Refuge's weekly AI filmmaking roundup covers the latest generative-video tools, studio partnerships and the arrival of interactive AI movies for creators."
-    },
-    {
-      "url": "https://variety.com/2026/film/festivals/shanghai-2026-takeaways-debut-directors-ai-1236786902/",
-      "title": "Shanghai Film Festival Takeaways: Debut Directors Rule the Golden Goblet While AI Remakes the Industry Around Them",
+      "section": "movies",
+      "category": "movies_animation",
       "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-06-22T00:06:00-07:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/06/Atlantic-Rhapsody-team.jpg?w=1000&h=667&crop=1",
-      "excerpt": "Shanghai integrated AI more prominently into its programming than ever, with dedicated workshops and partnerships exploring generative video, image creation and audio applications, as panelists debated whether AI complements or threatens human creativity."
-    },
-    {
-      "url": "https://www.screendaily.com/features/how-annecy-is-welcoming-discussion-on-industry-topics-including-ai-canal/5217816.article",
-      "title": "How Annecy is Welcoming Discussion on Industry Topics Including AI, Canal+",
-      "source": "Screen Daily",
-      "category": "movies",
-      "published_iso": "2026-06-22T08:13:00+01:00",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xany/4/8/1/1481481_annecyheads_918183.jpg",
-      "excerpt": "The Annecy animation festival is hosting Think Tank AI4Animation, a day-long session laying the foundations for a white paper on AI in animation and how generative tools will reshape animator careers and workflows."
-    },
-    {
-      "url": "https://variety.com/2026/film/focus/annecys-mifa-2026-1236782136/",
-      "title": "Annecy's MIFA Bets on Cross-IP, AI and Global Growth Amid Animation Financing Squeeze",
-      "source": "Variety",
-      "category": "movies",
       "published_iso": "2026-06-17T06:20:00-07:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/02/202602554_1.jpg?w=1000&h=667&crop=1",
-      "excerpt": "Annecy's MIFA market is examining AI's technological, legal and artistic implications under an 'artist-first, AI second' philosophy, aiming to integrate generative tools into animation workflows without diminishing human creative contributions."
+      "title": "Annecy's MIFA Bets on Cross-IP, AI and Global Growth Amid Animation Financing Squeeze",
+      "excerpt": "Annecy's co-production market MIFA is doubling down on AI-focused workshops and cross-IP deal-making in 2026 as animation financing tightens globally. The report covers how AI tools are increasingly central to pitches and co-development strategies at the world's leading animation industry market, with a philosophy of 'artist-first, AI second'.",
+      "url": "https://variety.com/2026/film/focus/annecys-mifa-2026-1236782136/",
+      "og_image": "https://variety.com/wp-content/uploads/2026/02/202602554_1.jpg?w=1000&h=667&crop=1"
     },
     {
-      "url": "https://www.animationmagazine.net/2026/06/french-animators-group-demands-clarity-on-annecys-generative-ai-policy/",
-      "title": "French Animators' Group Demands Clarity on Annecy's Generative AI Policy",
-      "source": "Animation Magazine",
-      "category": "movies",
-      "published_iso": "2026-06-15T17:09:13+00:00",
-      "og_image": "https://www.animationmagazine.net/wp-content/uploads/2026/06/annecy-generative-ai.jpg",
-      "excerpt": "A French animators' group is pressing Annecy for a clear generative-AI policy, advancing '3Cs' principles (compensation, control, consent) on the use of copyrighted work to train AI as the festival becomes a flashpoint for AI in animation."
+      "section": "movies",
+      "category": "movies_tech",
+      "source": "No Film School",
+      "published_iso": "2026-06-25T00:00:00Z",
+      "title": "Adobe Announces Acquisition of Topaz Labs, an AI Video and Image Enhancement Company",
+      "excerpt": "Adobe is acquiring Topaz Labs — makers of Gigapixel AI, Video AI, and DeNoise — to fold its best-in-class AI enhancement tools into the Firefly ecosystem and Creative Cloud applications. The deal signals Adobe's intent to own the full stack of AI-powered restoration, upscaling, and noise-removal for professional filmmakers and editors.",
+      "url": "https://nofilmschool.com/adobe-acquires-topaz-labs",
+      "og_image": null
+    },
+    {
+      "section": "movies",
+      "category": "movies_tech",
+      "source": "No Film School",
+      "published_iso": "2026-06-18T00:00:00Z",
+      "title": "Adobe Announces Massive Expansion of Its Agentic AI Capabilities in Firefly and Apps like Premiere",
+      "excerpt": "Adobe is expanding creative agents across Firefly and Creative Cloud apps including Premiere Pro, enabling agentic AI workflows that can autonomously execute multi-step editing tasks. The update marks a shift from AI-assisted tools to AI-driven production agents embedded directly in post-production software.",
+      "url": "https://nofilmschool.com/adobe-agentic-ai-update",
+      "og_image": null
+    },
+    {
+      "section": "movies",
+      "category": "movies_tech",
+      "source": "RedShark News",
+      "published_iso": "2026-06-18T00:00:00Z",
+      "title": "Adobe Creative Cloud June 2026: everything that's new",
+      "excerpt": "Adobe's June 2026 Creative Cloud update brings rebuilt AI roto tools to After Effects, an offline Remove Tool, AI culling for photos, and new effects and agentic capabilities across Premiere and Lightroom. The comprehensive rundown covers every AI-assisted workflow change across the full CC suite relevant to editors and VFX artists.",
+      "url": "https://www.redsharknews.com/adobe-creative-cloud-june-2026-update",
+      "og_image": null
+    },
+    {
+      "section": "movies",
+      "category": "movies_trade",
+      "source": "IndieWire",
+      "published_iso": "2026-06-14T00:00:00Z",
+      "title": "The Model Doesn't Matter: Inside the Race to Be the AI Production Platform Filmmakers Want to Use",
+      "excerpt": "An in-depth analysis of the AI production platforms — Artlist Studio, ComfyUI, Flora, and Amazon's Project Nara — competing to become the standard workflow tool for professional filmmakers, with ComfyUI currently holding de-facto industry-standard status as an open-source, customizable foundation. The piece explores why platform cohesion and filmmaker experience, not raw model quality, is the real battleground for adoption.",
+      "url": "https://www.indiewire.com/news/business/ai-production-platform-filmmakers-analysis-1235197860/",
+      "og_image": null
+    },
+    {
+      "section": "movies",
+      "category": "movies_trade",
+      "source": "Variety",
+      "published_iso": "2026-06-17T00:00:00Z",
+      "title": "I Saw Hell Grind, the AI-Generated Film That Premiered in Cannes. It Was Shocking and Realistic",
+      "excerpt": "A first-person account of watching Hell Grind, an 80-minute feature made in 14 days for $500K using ByteDance Seedance and Higgsfield tools, which fooled many viewers into thinking scenes were live-action. The piece offers a production-level breakdown of how AI filmmaking tools have reached a threshold where feature-length cinematic output can rival traditional productions.",
+      "url": "https://variety.com/2026/film/features/i-saw-hell-grind-ai-generated-film-cannes-shocking-realistic-1236770720/",
+      "og_image": null
+    },
+    {
+      "section": "movies",
+      "category": "movies_trade",
+      "source": "Deadline",
+      "published_iso": "2026-06-15T00:00:00Z",
+      "title": "Asteria And LTX Form Strategic Partnership With Goal Of Advancing Cinematic AI Storytelling",
+      "excerpt": "Natasha Lyonne's AI production studio Asteria has partnered with open-weights model maker LTX, using LTX's HDR IC-LoRA to integrate hand-drawn 2D, CG, and AI animation into scene-linear 16-bit HDR — as demonstrated in Tribeca-selected short ChikaBOOM!. The partnership targets a key production gap by bringing generative AI video up to professional-grade colorimetric standards.",
+      "url": "https://deadline.com/2026/06/asteria-ltx-form-strategic-partnership-cinematic-ai-1236955140/",
+      "og_image": null
+    },
+    {
+      "section": "movies",
+      "category": "movies_tools_broad",
+      "source": "Variety",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "title": "StoReel Launches Canvas, AI Production Platform Targeting Microdrama Creators",
+      "excerpt": "StoReel has launched Canvas, an AI-native end-to-end production platform that takes a script and auto-generates scene breakdowns, storyboards, character references, and optimized prompts for leading AI video models, cutting production time by two-thirds at roughly 15% of live-action costs. The launch follows StoReel's $34 million financing round and positions the platform for the rapidly growing microdrama creator market.",
+      "url": "https://variety.com/2026/digital/news/storeel-canvas-ai-microdrama-platform-launch-1236787037/",
+      "og_image": null
+    },
+    {
+      "section": "movies",
+      "category": "movies_tech",
+      "source": "No Film School",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "title": "Looks Like a Seedance 2.5 Model is on the Way With 30-Second Generation Capabilities",
+      "excerpt": "ByteDance's Seedance 2.5 model is reportedly set to launch in early July with the ability to generate video clips up to 30 seconds natively — a significant leap beyond current AI video tools that stitch shorter segments together. This would remove one of the key creative constraints limiting AI models for filmmakers building longer narrative sequences.",
+      "url": "https://nofilmschool.com/seedance-2-5-updates",
+      "og_image": null
     }
   ]
 }
