@@ -110,7 +110,7 @@ if (!document.getElementById('ax-styles')) {
   /* flex-start (not stretch) so a long headline in one day doesn't make that day's
      cards taller than other days' — every card is the same fixed size. */
   .ax-day-cards{display:flex;gap:10px;align-items:flex-start;}
-  .ax-strip-card{flex:0 0 auto;cursor:pointer;text-align:left;padding:0;border-radius:14px;overflow:hidden;
+  .ax-strip-card{flex:0 0 auto;cursor:pointer;text-align:left;padding:0;border-radius:18px;overflow:hidden;
      transition:transform .2s ease;}
   .ax-strip-card:active{transform:scale(.96);}
   /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
@@ -940,9 +940,9 @@ function MobileFilmstrip({ t, onOpen, days }) {
               <div className="ax-day-cards">
                 {day.cards.map((c, ci) => (
                   <button key={ci} className="ax-strip-card" onClick={() => onOpen(day, ci)} style={{
-                    width: 150, background: t.feedSolid, border: t.feedBorder,
-                    boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
-                    <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden', background: '#efe9e1' }}>
+                    width: 232, background: t.cardSolid, border: t.feedBorder,
+                    boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)', display: 'flex', flexDirection: 'column' }}>
+                    <div style={{ position: 'relative', aspectRatio: '16 / 10', overflow: 'hidden', background: '#efe9e1' }}>
                       {c.image ? (
                         <img src={c.image} alt="" loading="eager" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
                       ) : (
@@ -953,11 +953,15 @@ function MobileFilmstrip({ t, onOpen, days }) {
                         </React.Fragment>
                       )}
                     </div>
-                    <div style={{ padding: '10px 11px 12px' }}>
-                      <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5 }}>{c.tool}</div>
-                      {/* reserve 3 lines so every card is the same height regardless of headline length */}
-                      <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl, height: 'calc(1.32em * 3)',
-                        display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
+                    {/* same anatomy as the hero card: eyebrow · headline · Read pill */}
+                    <div style={{ padding: '13px 14px 14px', display: 'flex', flexDirection: 'column', flex: 1 }}>
+                      <div className="ax-eyebrow" style={{ fontSize: 9.5, color: t.faint, marginBottom: 7 }}>AI NEWS · {c.tool}</div>
+                      <div className="ax-hl" style={{ fontSize: 14.5, lineHeight: 1.34, color: t.hl, minHeight: 'calc(1.34em * 2)',
+                        display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
+                      <div style={{ flex: 1, minHeight: 12 }} />
+                      <div style={{ width: '100%', height: 38, borderRadius: 100, background: t.hl, color: '#fff', marginTop: 4,
+                        display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+                        fontFamily: 'var(--font-sans)', fontSize: 13, letterSpacing: '.06em', fontWeight: 500 }}>Read</div>
                     </div>
                   </button>
                 ))}
