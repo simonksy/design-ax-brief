@@ -9,7 +9,7 @@
    flat Geist default (user is exploring blur / glass / texture).
    Exports ThemedBrief, WeeklyTimeline, THEMES to window.
    ============================================================ */
-const { useState, useRef, useEffect, useCallback } = React;
+const { useState, useRef, useEffect, useCallback, useLayoutEffect } = React;
 
 /* ---- one-time CSS (keyframes + helpers) ---- */
 if (!document.getElementById('ax-styles')) {
@@ -46,6 +46,12 @@ if (!document.getElementById('ax-styles')) {
   @keyframes axsweep{0%,100%{transform:translateX(-35%);opacity:0}50%{opacity:.55}}
   .ax-track{display:flex;height:100%;transition:transform .5s cubic-bezier(.4,0,.2,1);will-change:transform;}
   .ax-slide{flex:0 0 100%;min-width:100%;height:100%;}
+  /* native horizontal scroll-snap carousel: horizontal swipe snaps cards, vertical
+     swipe falls through to the page natively (no JS touch handler to swallow it). */
+  .ax-snap{display:flex;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;
+     scroll-behavior:auto;scrollbar-width:none;-ms-overflow-style:none;}
+  .ax-snap::-webkit-scrollbar{display:none;}
+  .ax-snapslide{flex:0 0 100%;min-width:100%;height:100%;scroll-snap-align:center;scroll-snap-stop:always;}
   .ax-hl{font-family:'Pretendard',var(--font-sans);white-space:pre-line;font-weight:600;
      letter-spacing:-0.02em;text-wrap:balance;margin:0;word-break:keep-all;overflow-wrap:break-word;}
   .ax-body{font-family:'Pretendard',var(--font-sans);font-weight:400;letter-spacing:-0.01em;margin:0;
@@ -482,9 +488,10 @@ function FullArticle({ item, t, onClose }) {
    to the FullArticle back. Desktop-first (the back uses absolute faces that need a
    fixed-height card; on mobile, where the hero is content-height, fall back to the
    plain summary card for now). ---- */
-function FlipCard({ item, index, total, active, t, mobile }) {
+function FlipCard({ item, index, total, active, t, mobile, onFlipChange }) {
   const [flipped, setFlipped] = useState(false);
   useEffect(() => { if (!active) setFlipped(false); }, [active]);
+  useEffect(() => { if (onFlipChange) onFlipChange(flipped); }, [flipped, onFlipChange]);
   const hasFull = item.full && Array.isArray(item.full.blocks) && item.full.blocks.length > 0;
   if (!hasFull) {
     return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
@@ -537,69 +544,47 @@ function NavButton({ dir, disabled, onClick, t }) {
 function Carousel({ items, t, initialIndex = 0, mobile }) {
   const [idx, setIdx] = useState(initialIndex);
   const idxRef = useRef(initialIndex);
-  const trackRef = useRef(null);
-  const startX = useRef(0); const startY = useRef(0); const dx = useRef(0);
-  const dragging = useRef(false); const axis = useRef(null); const lockedFlip = useRef(false);
+  const scroller = useRef(null);
   const total = items.length;
+  const [locked, setLocked] = useState(false);   // active card flipped → freeze horizontal
   useEffect(() => { idxRef.current = idx; }, [idx]);
-  const go = useCallback((i) => setIdx(Math.max(0, Math.min(total - 1, i))), [total]);
-  // During a drag we move the track DIRECTLY via the DOM (no React re-render per
-  // touchmove — re-rendering 5 heavy slides each move is what made the swipe lag on
-  // mobile). React only takes over on release, animating the snap to the new index.
-  const setX = (px, animate) => {
-    const el = trackRef.current; if (!el) return;
-    el.style.transition = animate ? '' : 'none'; // '' → fall back to the .ax-track CSS transition
-    el.style.transform = `translateX(calc(${-idxRef.current * 100}% + ${px}px))`;
+  useEffect(() => { setLocked(false); }, [idx]);  // landing on a new card resets the lock
+  // place the scroller on the initial card without a smooth animation
+  useLayoutEffect(() => {
+    const el = scroller.current; if (!el) return;
+    el.scrollLeft = initialIndex * el.clientWidth;
+  }, [initialIndex, total]);
+  const go = (i) => {
+    const el = scroller.current; if (!el) return;
+    const n = Math.max(0, Math.min(total - 1, i));
+    idxRef.current = n; setIdx(n);   // update dots immediately; scroll syncs the rest
+    el.scrollTo({ left: n * el.clientWidth, behavior: 'smooth' });
   };
-  const onTouchStart = (e) => {
-    startX.current = e.touches[0].clientX; startY.current = e.touches[0].clientY;
-    dx.current = 0; axis.current = null; dragging.current = true;
-    // If the active card is flipped to the full article, never hijack the gesture:
-    // left/right does nothing and vertical scrolls the article (and the page).
-    const slide = trackRef.current && trackRef.current.children[idxRef.current];
-    lockedFlip.current = !!(slide && slide.querySelector('.ax-flip.flipped'));
-  };
-  const onTouchMove = (e) => {
-    if (!dragging.current || lockedFlip.current) return;
-    const x = e.touches[0].clientX, y = e.touches[0].clientY;
-    // Lock the axis on the first decisive move: horizontal → carousel, vertical →
-    // hands off so the page scrolls (this is what restores scroll-to-bottom on mobile).
-    if (!axis.current) {
-      const adx = Math.abs(x - startX.current), ady = Math.abs(y - startY.current);
-      if (Math.max(adx, ady) < 8) return;
-      axis.current = adx > ady ? 'x' : 'y';
-    }
-    if (axis.current !== 'x') return;   // vertical swipe → let the page scroll
-    let d = x - startX.current;
-    if ((idxRef.current === 0 && d > 0) || (idxRef.current === total - 1 && d < 0)) d *= 0.3; // rubber-band at the ends
-    dx.current = d; setX(d, false);
-  };
-  const onTouchEnd = () => {
-    dragging.current = false;
-    const wasH = axis.current === 'x'; axis.current = null;
-    if (lockedFlip.current || !wasH) return;   // only a horizontal swipe snaps the carousel
-    const el = trackRef.current; if (el) el.style.transition = ''; // re-enable the CSS snap transition
-    if (Math.abs(dx.current) > 44) go(idxRef.current + (dx.current < 0 ? 1 : -1));
-    else if (el) el.style.transform = `translateX(${-idxRef.current * 100}%)`; // snap back
-    dx.current = 0;
-  };
-
+  // derive the active index straight from the native scroll position. A native
+  // listener (not React onScroll) so it fires reliably for touch/wheel/momentum.
+  useEffect(() => {
+    const el = scroller.current; if (!el) return;
+    const onScroll = () => {
+      if (!el.clientWidth) return;
+      const i = Math.max(0, Math.min(total - 1, Math.round(el.scrollLeft / el.clientWidth)));
+      if (i !== idxRef.current) { idxRef.current = i; setIdx(i); }
+    };
+    el.addEventListener('scroll', onScroll, { passive: true });
+    return () => el.removeEventListener('scroll', onScroll);
+  }, [total]);
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0 }}>
-      <div className="ax-heroin" style={{ flex: 1, minHeight: 0, overflow: 'hidden', touchAction: 'pan-y',
-        borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
-        // mobile: opaque bg + no backdrop-filter so the swipe transform stays smooth
-        // (animating a transform over a backdrop-filter re-samples the blur each frame)
-        background: mobile ? t.cardSolid : t.cardBg,
-        WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}
-        onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}>
-        <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
-          {items.map((it, i) => (
-            <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
-            </div>
-          ))}
-        </div>
+      <div className="ax-heroin ax-snap" ref={scroller}
+        style={{ flex: 1, minHeight: 0, overflowX: locked ? 'hidden' : 'auto',
+          borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
+          background: mobile ? t.cardSolid : t.cardBg,
+          WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}>
+        {items.map((it, i) => (
+          <div className="ax-snapslide" key={i}>
+            <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile}
+              onFlipChange={i === idx ? setLocked : undefined} />
+          </div>
+        ))}
       </div>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 16, paddingTop: mobile ? 12 : 16 }}>
         <NavButton dir="l" disabled={idx === 0} onClick={() => go(idx - 1)} t={t} />
@@ -962,9 +947,10 @@ function MobileFilmstrip({ t, onOpen, days }) {
 }
 
 /* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck ---- */
-function SectionTabs({ sections, order, active, onSelect, t }) {
+function SectionTabs({ sections, order, active, onSelect, t, flush }) {
   return (
-    <div className="ax-tabs" role="tablist" aria-label="섹션">
+    <div className="ax-tabs" role="tablist" aria-label="섹션"
+      style={flush ? { margin: 0, padding: 0, justifyContent: 'flex-start' } : undefined}>
       {order.map((s) => {
         const on = s === active;
         const label = (sections[s] && sections[s].label) || s;
@@ -985,24 +971,39 @@ function SectionTabs({ sections, order, active, onSelect, t }) {
    the real masthead + tabs scroll out of view, and curtains up (fast) when they return.
    Row 1: a STATIC "AX-it DESIGN NOW" title (no goo morph) on the left + Daily Brief on
    the right. Row 2: the same section tabs. Mobile only. ---- */
-function MobileStickyHeader({ t, stuck, ds, sections, order, active, onSelect, onTitle }) {
+function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, order, active, onSelect, onTitle }) {
+  const titleRef = useRef(); const tabsRef = useRef();
+  const [titleH, setTitleH] = useState(50); const [tabsH, setTabsH] = useState(50);
+  useEffect(() => {
+    const m = () => {
+      if (titleRef.current) setTitleH(titleRef.current.offsetHeight);
+      if (tabsRef.current) setTabsH(tabsRef.current.offsetHeight);
+    };
+    m(); window.addEventListener('resize', m);
+    return () => window.removeEventListener('resize', m);
+  }, []);
+  const g = Math.max(12, Math.round(gutter || 14));   // left/right inset = the card's edges
   return (
-    <div aria-hidden={!stuck} style={{
-      position: 'fixed', top: 0, left: 0, right: 0, zIndex: 120,
-      transform: stuck ? 'translateY(0)' : 'translateY(-102%)',
-      // appear: gentle settle; disappear: quick curtain-up (accelerating ease-in)
-      transition: stuck ? 'transform .3s cubic-bezier(.2,.8,.25,1)' : 'transform .22s cubic-bezier(.4,0,1,1)',
+    <div aria-hidden={!stuckTitle} style={{
+      position: 'fixed', top: 0, left: 0, right: 0, zIndex: 120, overflow: 'hidden',
+      // stage 1 → only the title row; stage 2 → grow to reveal the tabs row beneath it
+      height: stuckTabs ? titleH + tabsH : titleH,
+      transform: stuckTitle ? 'translateY(0)' : 'translateY(-101%)',
+      transition: stuckTitle
+        ? 'transform .3s cubic-bezier(.2,.8,.25,1), height .3s cubic-bezier(.2,.8,.25,1)'
+        : 'transform .22s cubic-bezier(.4,0,1,1), height .22s cubic-bezier(.4,0,1,1)',
       background: t.cardSolid || '#fbf8f3', borderBottom: `1px solid ${t.rule}`,
-      boxShadow: '0 6px 18px -12px rgba(60,40,30,.5)',
-      padding: '9px 14px 8px' }}>
-      <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', gap: 12 }}>
+      boxShadow: '0 6px 18px -12px rgba(60,40,30,.5)' }}>
+      {/* row 1 — static title (left) + Daily Brief (right), aligned to the card's edges */}
+      <div ref={titleRef} style={{ padding: `12px ${g}px 16px`, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
         <div onClick={onTitle} style={{ cursor: onTitle ? 'pointer' : 'default', flex: '0 0 auto',
           fontFamily: 'var(--font-sans)', fontWeight: 700, letterSpacing: '-0.03em', fontSize: 16,
-          color: t.hl, whiteSpace: 'nowrap' }}>AX-it DESIGN NOW</div>
-        <div className="ax-eyebrow" style={{ color: t.mute, whiteSpace: 'nowrap', textAlign: 'right' }}>Daily Brief · {ds}</div>
+          color: t.hl, whiteSpace: 'nowrap', lineHeight: 1 }}>AX-it DESIGN NOW</div>
+        <div className="ax-eyebrow" style={{ color: t.mute, whiteSpace: 'nowrap', lineHeight: 1 }}>Daily Brief · {ds}</div>
       </div>
-      <div style={{ marginTop: 6 }}>
-        <SectionTabs sections={sections} order={order} active={active} onSelect={onSelect} t={t} />
+      {/* row 2 — section tabs, flush to the same left edge as the title and the card */}
+      <div ref={tabsRef} style={{ padding: `0 ${g}px 12px` }}>
+        <SectionTabs sections={sections} order={order} active={active} onSelect={onSelect} t={t} flush />
       </div>
     </div>
   );
@@ -1021,25 +1022,33 @@ function ThemedPage({ themeKey }) {
   const [intro, setIntro] = useState(null);
   // Mobile flips the card in place (same as desktop), so there's no separate "expanded"
   // full-screen state to track — the FlipCard owns its own flip state.
-  // Mobile sticky header: show the compact bar once the real masthead+tabs scroll off.
-  const [stuck, setStuck] = useState(false);
-  const tabsWrapRef = useRef();
+  // Mobile sticky header, two stages: the title row curtains down once the goo masthead
+  // (title + Daily Brief) leaves the top; the tabs row joins after a little more scroll.
+  // gutter = the card's left edge, so title / Daily Brief / tabs all line up with the card.
+  const [stuckTitle, setStuckTitle] = useState(false);
+  const [stuckTabs, setStuckTabs] = useState(false);
+  const [gutter, setGutter] = useState(14);
+  const mastheadRef = useRef();
   const dnow = new Date();
   const ds = `${String(dnow.getFullYear()).slice(2)}.${String(dnow.getMonth() + 1).padStart(2, '0')}.${String(dnow.getDate()).padStart(2, '0')}`;
   useEffect(() => {
-    if (!isMobile) { setStuck(false); return; }
-    let ticking = false;
+    if (!isMobile) { setStuckTitle(false); setStuckTabs(false); return; }
     const check = () => {
-      ticking = false;
-      const el = tabsWrapRef.current; if (!el) return;
-      const next = el.getBoundingClientRect().bottom <= 0;   // tabs fully scrolled past the top
-      setStuck((prev) => (prev === next ? prev : next));
+      const mh = mastheadRef.current;
+      if (mh) {
+        const b = mh.getBoundingClientRect().bottom;
+        setStuckTitle((p) => { const n = b <= 0; return p === n ? p : n; });   // goo masthead gone
+        setStuckTabs((p) => { const n = b <= -34; return p === n ? p : n; });  // scrolled a bit more
+      }
+      if (heroRef.current) {
+        const left = Math.round(heroRef.current.getBoundingClientRect().left);
+        setGutter((p) => (p === left ? p : left));
+      }
     };
-    const onScroll = () => { if (!ticking) { ticking = true; requestAnimationFrame(check); } };
-    window.addEventListener('scroll', onScroll, { passive: true });
-    window.addEventListener('resize', onScroll);
     check();
-    return () => { window.removeEventListener('scroll', onScroll); window.removeEventListener('resize', onScroll); };
+    window.addEventListener('scroll', check, { passive: true });
+    window.addEventListener('resize', check);
+    return () => { window.removeEventListener('scroll', check); window.removeEventListener('resize', check); };
   }, [isMobile]);
   // Pre-decode this section's images so swiping/scrolling never shows a blank tile.
   useEffect(() => {
@@ -1087,15 +1096,15 @@ function ThemedPage({ themeKey }) {
       {!isMobile && <div style={{ position: 'fixed', inset: 0, zIndex: 0 }}><ThemeBackdrop t={t} /></div>}
       {/* mobile: compact sticky header that appears once the real masthead+tabs leave */}
       {isMobile && (
-        <MobileStickyHeader t={t} stuck={stuck} ds={ds} sections={sections} order={order}
-          active={section} onSelect={switchSection}
+        <MobileStickyHeader t={t} stuckTitle={stuckTitle} stuckTabs={stuckTabs} ds={ds} gutter={gutter}
+          sections={sections} order={order} active={section} onSelect={switchSection}
           onTitle={() => window.scrollTo({ top: 0, behavior: 'smooth' })} />
       )}
       <div className="ax-shell">
-        <Masthead t={t} mobile={isMobile} onHome={goHome} />
-        <div ref={tabsWrapRef}>
-          <SectionTabs sections={sections} order={order} active={section} onSelect={switchSection} t={t} />
+        <div ref={mastheadRef}>
+          <Masthead t={t} mobile={isMobile} onHome={goHome} />
         </div>
+        <SectionTabs sections={sections} order={order} active={section} onSelect={switchSection} t={t} />
         {/* back-to-today control — rendered only while viewing a past day. */}
         {hero.day && (
           <div style={{ marginTop: 2, marginBottom: 2, textAlign: 'center' }}>
