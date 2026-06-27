@@ -428,7 +428,7 @@ function ShareButton({ url, t }) {
         transition: 'opacity .18s ease, transform .18s ease', pointerEvents: 'none', whiteSpace: 'nowrap',
         background: t.hl, color: '#fff', fontFamily: 'var(--font-mono)', fontSize: 11, letterSpacing: '.04em',
         padding: '6px 10px', borderRadius: 8, boxShadow: '0 6px 16px -6px rgba(40,30,20,.5)' }}>
-        link copied
+        copied
         <span style={{ position: 'absolute', top: '100%', left: '50%', transform: 'translateX(-50%)',
           borderLeft: '5px solid transparent', borderRight: '5px solid transparent', borderTop: `5px solid ${t.hl}` }} />
       </div>
@@ -440,10 +440,11 @@ function ShareButton({ url, t }) {
         onMouseDown={(e) => { e.currentTarget.style.transform = 'scale(.92)'; }}
         onMouseUp={(e) => { e.currentTarget.style.transform = 'none'; }}
         onMouseLeave={(e) => { e.currentTarget.style.transform = 'none'; }}>
-        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
-          strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-          <circle cx="18" cy="5" r="3" /><circle cx="6" cy="12" r="3" /><circle cx="18" cy="19" r="3" />
-          <line x1="8.6" y1="13.5" x2="15.4" y2="17.5" /><line x1="15.4" y1="6.5" x2="8.6" y2="10.5" />
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
+          strokeLinecap="round" strokeLinejoin="round" aria-hidden style={{ marginTop: -1 }}>
+          <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" />
+          <polyline points="16 6 12 2 8 6" />
+          <line x1="12" y1="2" x2="12" y2="15" />
         </svg>
       </button>
     </div>
@@ -624,44 +625,53 @@ function Carousel({ items, t, initialIndex = 0, mobile, section }) {
     el.style.transition = '';   // CSS .ax-track transition
     el.style.transform = `translateX(${-idxRef.current * 100}%)`;
   };
-  // Horizontal swipe is handled in JS; vertical is left entirely to the browser. The
-  // viewport uses overflow:clip (NOT hidden/auto) so it is NOT a scroll container —
-  // that's what lets a vertical swipe on the card fall through and scroll the page.
-  const onTouchStart = (e) => {
-    startX.current = e.touches[0].clientX; startY.current = e.touches[0].clientY;
-    dx.current = 0; axis.current = null; dragging.current = true;
-    const slide = trackRef.current && trackRef.current.children[idxRef.current];
-    lockedFlip.current = !!(slide && slide.querySelector('.ax-flip.flipped'));   // reading → no swipe
-  };
-  const onTouchMove = (e) => {
-    if (!dragging.current || lockedFlip.current) return;
-    const x = e.touches[0].clientX, y = e.touches[0].clientY;
-    if (!axis.current) {
-      const adx = Math.abs(x - startX.current), ady = Math.abs(y - startY.current);
-      if (Math.max(adx, ady) < 8) return;
-      axis.current = adx > ady ? 'x' : 'y';
-    }
-    if (axis.current !== 'x') return;   // vertical → browser scrolls the page (pan-y)
-    let d = x - startX.current;
-    if ((idxRef.current === 0 && d > 0) || (idxRef.current === total - 1 && d < 0)) d *= 0.3;
-    dx.current = d; setX(d);
-  };
-  const onTouchEnd = () => {
-    dragging.current = false;
-    const wasH = axis.current === 'x'; axis.current = null;
-    if (lockedFlip.current || !wasH) return;
-    if (Math.abs(dx.current) > 44) go(idxRef.current + (dx.current < 0 ? 1 : -1));
-    snapBack();
-    dx.current = 0;
-  };
+  // Touch listeners are NATIVE + non-passive so that, once a horizontal swipe is
+  // locked in, we preventDefault to STOP the page from scrolling vertically during the
+  // swipe. A vertical gesture is left untouched → the browser scrolls the page (the
+  // viewport is overflow:clip, not a scroll container, so vertical falls through).
+  const viewportRef = useRef(null);
+  useEffect(() => {
+    const el = viewportRef.current; if (!el) return;
+    const onStart = (e) => {
+      startX.current = e.touches[0].clientX; startY.current = e.touches[0].clientY;
+      dx.current = 0; axis.current = null; dragging.current = true;
+      const slide = trackRef.current && trackRef.current.children[idxRef.current];
+      lockedFlip.current = !!(slide && slide.querySelector('.ax-flip.flipped'));   // reading → no swipe
+    };
+    const onMove = (e) => {
+      if (!dragging.current || lockedFlip.current) return;
+      const x = e.touches[0].clientX, y = e.touches[0].clientY;
+      if (!axis.current) {
+        const adx = Math.abs(x - startX.current), ady = Math.abs(y - startY.current);
+        if (Math.max(adx, ady) < 8) return;
+        axis.current = adx > ady ? 'x' : 'y';
+      }
+      if (axis.current !== 'x') return;   // vertical → let the browser scroll the page
+      if (e.cancelable) e.preventDefault();   // horizontal → lock vertical scroll
+      let d = x - startX.current;
+      if ((idxRef.current === 0 && d > 0) || (idxRef.current === total - 1 && d < 0)) d *= 0.3;
+      dx.current = d; setX(d);
+    };
+    const onEnd = () => {
+      dragging.current = false;
+      const wasH = axis.current === 'x'; axis.current = null;
+      if (lockedFlip.current || !wasH) return;
+      if (Math.abs(dx.current) > 44) go(idxRef.current + (dx.current < 0 ? 1 : -1));
+      snapBack();
+      dx.current = 0;
+    };
+    el.addEventListener('touchstart', onStart, { passive: true });
+    el.addEventListener('touchmove', onMove, { passive: false });
+    el.addEventListener('touchend', onEnd, { passive: true });
+    return () => { el.removeEventListener('touchstart', onStart); el.removeEventListener('touchmove', onMove); el.removeEventListener('touchend', onEnd); };
+  }, [total]);
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0 }}>
-      <div className="ax-heroin" style={{ flex: 1, minHeight: 0, overflow: 'clip',
+      <div className="ax-heroin" ref={viewportRef} style={{ flex: 1, minHeight: 0, overflow: 'clip',
         touchAction: 'pan-y',   // browser owns vertical (page / article); JS owns horizontal
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
         background: mobile ? t.cardSolid : t.cardBg,
-        WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}
-        onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}>
+        WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}>
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
