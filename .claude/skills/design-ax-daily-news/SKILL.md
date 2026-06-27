@@ -4,7 +4,7 @@ description: Run the multi-section Design AX daily news pipeline — collect, cu
 ---
 
 Generate today's Design AX Brief by running the pipeline **once per section** from the
-repo root `/Users/leopard/Projects/design-ax-brief`. Determine `now_iso` = current UTC
+repo root `/Users/simonksy/Projects/design-ax-brief`. Determine `now_iso` = current UTC
 time; `date` = its calendar date.
 
 **Sections** come from `pipeline/sources.json` → `sections` (each maps to one or more
@@ -80,6 +80,7 @@ For EACH selected section S (default order design, music, movies, games, books):
    voice" below). Content fidelity is absolute (facts/numbers/quotes/names unchanged).
 7. **ax-media** — "Run your steps." → `pipeline/media.json` + downloaded media
 8. **roll S** — `python3 pipeline/roll.py --section S --data pipeline/news_data.json --cards pipeline/cards.json --media pipeline/media.json` (moves S's previous `today` into S's deck, trims to 5, sets S's new `today`). Archive the section's JSONs to `pipeline/runs/<date>/<section>/`.
+   **Every card keeps its full payload forever** — `roll.py` preserves `eyebrow`/`body`/`full` on deck cards, so opening ANY past card shows the same main-card layout as today (thumbnail · headline · one-line summary · Read → flip to the Korean full article). A card without `full` (no Read button) is a defect: backfill it.
 
 After ALL sections are rolled:
 9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design). `node --check axbrief-data.js`; restore the per-run backup on failure.
