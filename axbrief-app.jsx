@@ -49,7 +49,11 @@ if (!document.getElementById('ax-styles')) {
   /* native horizontal scroll-snap carousel: horizontal swipe snaps cards, vertical
      swipe falls through to the page natively (no JS touch handler to swallow it). */
   .ax-snap{display:flex;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;
-     scroll-behavior:auto;scrollbar-width:none;-ms-overflow-style:none;}
+     scroll-behavior:auto;scrollbar-width:none;-ms-overflow-style:none;
+     /* pan-x: this element owns horizontal pans (card swipe); vertical pans fall through
+        to the page so the card never blocks scroll-down. (pan-y when a card is flipped,
+        set inline, so the article can scroll vertically.) */
+     touch-action:pan-x;}
   .ax-snap::-webkit-scrollbar{display:none;}
   .ax-snapslide{flex:0 0 100%;min-width:100%;height:100%;scroll-snap-align:center;scroll-snap-stop:always;}
   .ax-hl{font-family:'Pretendard',var(--font-sans);white-space:pre-line;font-weight:600;
@@ -576,6 +580,7 @@ function Carousel({ items, t, initialIndex = 0, mobile }) {
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0 }}>
       <div className="ax-heroin ax-snap" ref={scroller}
         style={{ flex: 1, minHeight: 0, overflowX: locked ? 'hidden' : 'auto',
+          touchAction: locked ? 'pan-y' : 'pan-x',   // flipped → article scrolls vertically
           borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
           background: mobile ? t.cardSolid : t.cardBg,
           WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}>
