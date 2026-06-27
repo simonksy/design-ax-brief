@@ -408,7 +408,56 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
-function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
+/* round share button — copies a deep link to THIS card and flashes "link copied". */
+function ShareButton({ url, t }) {
+  const [copied, setCopied] = useState(false);
+  const timer = useRef();
+  useEffect(() => () => clearTimeout(timer.current), []);
+  const onShare = (e) => {
+    e.stopPropagation(); e.preventDefault();   // don't trigger the card's flip
+    const flash = () => { setCopied(true); clearTimeout(timer.current); timer.current = setTimeout(() => setCopied(false), 1500); };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(flash).catch(() => { fallbackCopy(url); flash(); });
+    } else { fallbackCopy(url); flash(); }
+  };
+  return (
+    <div style={{ position: 'relative', flex: '0 0 auto' }}>
+      {/* the "link copied" popup, above the button */}
+      <div aria-hidden={!copied} style={{ position: 'absolute', bottom: 'calc(100% + 9px)', left: '50%',
+        transform: `translateX(-50%) translateY(${copied ? '0' : '4px'})`, opacity: copied ? 1 : 0,
+        transition: 'opacity .18s ease, transform .18s ease', pointerEvents: 'none', whiteSpace: 'nowrap',
+        background: t.hl, color: '#fff', fontFamily: 'var(--font-mono)', fontSize: 11, letterSpacing: '.04em',
+        padding: '6px 10px', borderRadius: 8, boxShadow: '0 6px 16px -6px rgba(40,30,20,.5)' }}>
+        link copied
+        <span style={{ position: 'absolute', top: '100%', left: '50%', transform: 'translateX(-50%)',
+          borderLeft: '5px solid transparent', borderRight: '5px solid transparent', borderTop: `5px solid ${t.hl}` }} />
+      </div>
+      <button onClick={onShare} aria-label="링크 복사" title="링크 복사" style={{
+        width: 42, height: 42, borderRadius: '50%', cursor: 'pointer', flex: '0 0 auto',
+        display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+        background: t.hl, color: '#fff', border: 'none', boxShadow: '0 6px 18px -8px rgba(40,30,20,.5)',
+        transition: 'transform .15s ease' }}
+        onMouseDown={(e) => { e.currentTarget.style.transform = 'scale(.92)'; }}
+        onMouseUp={(e) => { e.currentTarget.style.transform = 'none'; }}
+        onMouseLeave={(e) => { e.currentTarget.style.transform = 'none'; }}>
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
+          strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+          <circle cx="18" cy="5" r="3" /><circle cx="6" cy="12" r="3" /><circle cx="18" cy="19" r="3" />
+          <line x1="8.6" y1="13.5" x2="15.4" y2="17.5" /><line x1="15.4" y1="6.5" x2="8.6" y2="10.5" />
+        </svg>
+      </button>
+    </div>
+  );
+}
+function fallbackCopy(text) {
+  try { const ta = document.createElement('textarea'); ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.appendChild(ta); ta.focus(); ta.select(); document.execCommand('copy'); ta.remove(); } catch (e) {}
+}
+
+function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, section }) {
+  const shareUrl = (typeof window !== 'undefined' && item.id)
+    ? window.location.origin + window.location.pathname + '?c=' + encodeURIComponent((section || 'design') + ':' + item.id)
+    : '';
   const it = axEnrich(item);
   return (
     <div style={{ height: '100%', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
@@ -432,8 +481,9 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand }) {
         <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18 }}>
           <SourceLine item={it} t={t} />
           {onExpand && (
-            <div style={{ marginTop: 14 }}>
-              <AxPill label="Read" onClick={onExpand} t={t} />
+            <div style={{ marginTop: 14, display: 'flex', alignItems: 'center', gap: 9 }}>
+              <div style={{ flex: 1, minWidth: 0 }}><AxPill label="Read" onClick={onExpand} t={t} /></div>
+              {shareUrl && <ShareButton url={shareUrl} t={t} />}
             </div>
           )}
         </div>
@@ -495,7 +545,7 @@ function FullArticle({ item, t, onClose }) {
    to the FullArticle back. Desktop-first (the back uses absolute faces that need a
    fixed-height card; on mobile, where the hero is content-height, fall back to the
    plain summary card for now). ---- */
-function FlipCard({ item, index, total, active, t, mobile, onFlipChange }) {
+function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section }) {
   const [flipped, setFlipped] = useState(false);
   const [flipping, setFlipping] = useState(false);   // true during the rotate animation
   const flipTimer = useRef();
@@ -519,7 +569,7 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange }) {
       <div className={'ax-flip' + (flipped ? ' flipped' : '')} style={{ transformStyle: use3d ? 'preserve-3d' : 'flat' }}>
         <div className="ax-flip-face">
           <LayoutEditorial item={item} index={index} total={total} active={active && !flipped} t={t} mobile={mobile}
-            onExpand={() => doFlip(true)} />
+            onExpand={() => doFlip(true)} section={section} />
         </div>
         {/* hide the back when flat (no backface-visibility in a flat context) so it can't
             bleed over the front; only the active card mounts the heavy article. */}
@@ -555,7 +605,7 @@ function NavButton({ dir, disabled, onClick, t }) {
    Frame (radius/border/shadow/glass) lives on the window so the
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
-function Carousel({ items, t, initialIndex = 0, mobile }) {
+function Carousel({ items, t, initialIndex = 0, mobile, section }) {
   const [idx, setIdx] = useState(initialIndex);
   const idxRef = useRef(initialIndex);
   const trackRef = useRef(null);
@@ -615,7 +665,7 @@ function Carousel({ items, t, initialIndex = 0, mobile }) {
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} />
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} />
             </div>
           ))}
         </div>
@@ -1095,6 +1145,27 @@ function ThemedPage({ themeKey }) {
     }, 60);
     return () => { alive = false; clearTimeout(id); };
   }, [section]);
+  // Deep link: ?c=<section>:<id> opens straight to that card (today or a past day).
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const c = new URLSearchParams(window.location.search).get('c');
+    if (!c) return;
+    const idx = c.indexOf(':'); if (idx < 0) return;
+    const sec = decodeURIComponent(c.slice(0, idx)), cid = decodeURIComponent(c.slice(idx + 1));
+    const s = sections[sec]; if (!s || !cid) return;
+    setSection(sec);
+    const today = s.news || [];
+    const ti = today.findIndex((x) => x.id === cid);
+    if (ti >= 0) {
+      setHero({ items: today, index: ti, key: Date.now(), day: null });
+    } else {
+      for (const day of (s.days || [])) {
+        const di = (day.cards || []).findIndex((x) => x.id === cid);
+        if (di >= 0) { setHero({ items: day.cards, index: di, key: Date.now(), day }); setIntro({ day, cardIdx: di, k: Date.now() }); break; }
+      }
+    }
+    setTimeout(() => { if (heroRef.current) window.scrollTo({ top: heroRef.current.getBoundingClientRect().top + window.scrollY - 28 }); }, 120);
+  }, []);
   const scrollToHero = () => {
     if (heroRef.current) {
       const top = heroRef.current.getBoundingClientRect().top + window.scrollY - 28;
@@ -1159,7 +1230,7 @@ function ThemedPage({ themeKey }) {
                 doesn't cover its top. */}
             <div ref={heroRef} className="ax-hero-wrap"
               style={isMobile && stuckTabs ? { marginTop: 104, transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' } : { transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' }}>
-              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} />
+              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} section={section} />
               {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} mobile={isMobile} onDone={() => setIntro(null)} />}
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
