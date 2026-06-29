@@ -49,7 +49,7 @@
             }
           ]
         },
-        "image": "pipeline/media/krita.webp"
+        "image": "pipeline/media/krita.jpg"
       },
       {
         "id": "pokemon",
@@ -3813,7 +3813,7 @@
         }
       ]
     },
-    "image": "pipeline/media/krita.webp"
+    "image": "pipeline/media/krita.jpg"
   },
   {
     "id": "pokemon",

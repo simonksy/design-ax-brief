@@ -83,7 +83,7 @@ For EACH selected section S (default order design, music, movies, games, books):
    **Every card keeps its full payload forever** — `roll.py` preserves `eyebrow`/`body`/`full` on deck cards, so opening ANY past card shows the same main-card layout as today (thumbnail · headline · one-line summary · Read → flip to the Korean full article). A card without `full` (no Read button) is a defect: backfill it.
 
 After ALL sections are rolled:
-9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design). `node --check axbrief-data.js`; restore the per-run backup on failure.
+9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js --share-root . --base-url https://axitdesign.simonksy.workers.dev` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design) AND regenerates per-card OG share pages under `s/<section>/<id>.html` (so pasted card links unfurl with the card image + headline, then redirect into the app at `/?c=<section>:<id>`). `node --check axbrief-data.js`; restore the per-run backup on failure. Keep card thumbnails as jpg/png (not webp) so previews render on all platforms.
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
 
 Korean voice (humanize-korean — REQUIRED): every Korean string published — card

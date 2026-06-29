@@ -456,8 +456,11 @@ function fallbackCopy(text) {
 }
 
 function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, section }) {
+  // Share a per-card static page (/s/<section>/<id>) — it carries OG/Twitter meta so
+  // the link unfurls with the card's image + headline, then redirects into the app
+  // (/?c=<section>:<id>). The legacy ?c= link still works if anyone has one copied.
   const shareUrl = (typeof window !== 'undefined' && item.id)
-    ? window.location.origin + window.location.pathname + '?c=' + encodeURIComponent((section || 'design') + ':' + item.id)
+    ? window.location.origin + '/s/' + (section || 'design') + '/' + item.id
     : '';
   const it = axEnrich(item);
   return (
