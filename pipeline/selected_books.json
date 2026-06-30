@@ -1,61 +1,61 @@
 {
-  "date": "2026-06-27",
-  "section": "books",
+  "date": "2026-06-30",
+  "selection_mode": "user",
   "picks": [
     {
-      "url": "https://www.thebookseller.com/news/rakuten-kobo-rejects-45-of-submissions-after-slew-of-ai-generated-books-uploaded",
-      "source": "The Bookseller",
-      "tool": "Kobo",
+      "category": "books",
+      "tool": "ChatGPT",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Concrete, actionable data point for self-publishers: Kobo now rejects 45% of submissions and tightened moderation after an AI-book flood.",
-      "published_iso": "2026-06-22T09:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Kobo-c-shutterstock_DuyAndy1699_1561496749.jpg",
-      "excerpt": "E-book platform Rakuten Kobo was forced to reject 45% of submissions to its self-publishing platform last year, after a flood of AI-generated books were uploaded, prompting tighter moderation of Kobo Writing Life."
+      "source": "Jane Friedman",
+      "published_iso": "2026-06-17T12:00:00Z",
+      "og_image": "",
+      "url": "https://janefriedman.com/bestselling-nonfiction-author-believes-ai-has-devastated-his-book-sales/",
+      "excerpt": "Bestselling author Tim Ferriss reports a 57% decline in print book sales from 2024 to 2025, attributing the drop to accelerating AI adoption and arguing that AI tools like ChatGPT, rather than rival media, are now the primary threat to nonfiction book sales."
     },
     {
-      "url": "https://publishingperspectives.com/2026/06/from-ip-anxiety-to-growth-strategy-the-ai-conversation-publishing-needs-to-have/",
-      "source": "Publishing Perspectives",
-      "tool": "Publishing AI",
+      "category": "books",
+      "tool": "AI 작법",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Reframes AI for publishers from defensive IP anxiety to an active growth strategy spanning creation, translation, marketing and rights.",
-      "published_iso": "2026-06-16T09:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/06/Screen-Shot-2026-06-15-at-8.25.15-PM.png",
-      "excerpt": "AI is not another incremental shift: it touches every part of what publishers do, from creation and curation to production, translation, marketing and rights management. The piece argues the industry must move from IP anxiety toward an AI growth strategy."
+      "source": "Jane Friedman",
+      "published_iso": "2026-06-24T12:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/06/lara_voice_AI-blogpost-1000x667.png",
+      "url": "https://janefriedman.com/finding-your-voice-as-a-writer-in-the-age-of-ai/",
+      "excerpt": "Writer Tawny Lara argues that while AI co-writing tools offer shortcuts, emerging authors who lean on them risk homogenizing their prose rather than developing an authentic voice through the messy, iterative craft of writing."
     },
     {
-      "url": "https://bookriot.com/commonwealth-foundation-short-story-prize-ai-allegations-cleared/",
-      "source": "Book Riot",
-      "tool": "Commonwealth",
+      "category": "books",
+      "tool": "SSP 2026",
+      "accent": "#3b6bff",
+      "motif": "swatch",
+      "source": "Scholarly Kitchen",
+      "published_iso": "2026-06-18T12:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/ad_728x90_AM26-virtual-1.png",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/",
+      "excerpt": "At SSP's 2026 Annual Meeting, AI dominated the agenda: Dr. Chinasa T. Okolo's keynote examined how AI innovation tends to benefit wealthy nations while neglecting the global majority, making the case for AI as a public good and a global knowledge commons in scholarly publishing."
+    },
+    {
+      "category": "books",
+      "tool": "Publishing",
+      "accent": "#ff2d55",
+      "motif": "swatch",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-06-22T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+      "url": "https://publishingperspectives.com/2026/06/around-the-book-world-monday-june-22-2026/",
+      "excerpt": "A global news roundup with AI threaded throughout publishing: Tonies is using AI to speed children's-audio localization toward a EUR1.4B goal, Japan's culture agency launched a public-private consortium using AI-assisted manga translation, and Russia's Eksmo says it is developing some 20 AI initiatives."
+    },
+    {
+      "category": "books",
+      "tool": "Google Play Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A live precedent for how prize bodies adjudicate AI-use claims: drafts, time-stamps and notes cleared accused winners, shaping author practice.",
-      "published_iso": "2026-06-25T09:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg",
-      "excerpt": "Three writers accused of using AI to create their Commonwealth Short Story Prize-winning pieces have been cleared after a review in which all five regional winners supplied drafts, time-stamped documents and notes."
-    },
-    {
-      "url": "https://bookriot.com/google-play-books-chatbot/",
       "source": "Book Riot",
-      "tool": "Google Play Books",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "rationale": "New product move: Gemini-built Book Insights puts a spoiler-free AI companion inside the reading experience, a fresh format for publishers to weigh.",
-      "published_iso": "2026-06-17T09:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2020/12/instagram-book-club-featured.jpg.optimal.jpg",
-      "excerpt": "Google Play Books has launched Book Insights, a Gemini-built reading companion that offers spoiler-free recaps and lets readers ask questions while reading select titles, raising fresh questions about AI inside the reading experience."
+      "published_iso": "2026-06-20T12:00:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2025/01/person-looking-at-their-phone-with-laptop-open.jpg.optimal.jpg",
+      "url": "https://bookriot.com/today-in-books-june-20-2026/",
+      "excerpt": "Book Riot's daily roundup highlights Google Play Books rolling out 'Book Insights,' a Gemini-built reading companion that recaps previously read sections and answers readers' questions mid-book, deepening AI's reach into how ebooks are read."
     }
-  ],
-  "dedup": {
-    "dropped": 1,
-    "kept": 4,
-    "dropped_items": [
-      {
-        "candidate": 5,
-        "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html",
-        "reason": "Content duplicate of already-published books card 'books-beijing-fair' (Beijing International Book Fair, June 17-21 2026) covered via Publishing Perspectives on 2026-06-26. Same event, different outlet."
-      }
-    ]
-  }
+  ]
 }

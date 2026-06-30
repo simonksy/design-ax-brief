@@ -1,0 +1,51 @@
+{
+  "date": "2026-06-30",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://janefriedman.com/bestselling-nonfiction-author-believes-ai-has-devastated-his-book-sales/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-06-17T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Bestselling author Tim Ferriss reports a 57% decline in print book sales from 2024 to 2025, attributing the drop to accelerating AI adoption and arguing that AI tools like ChatGPT, rather than rival media, are now the primary threat to nonfiction book sales."
+    },
+    {
+      "url": "https://janefriedman.com/finding-your-voice-as-a-writer-in-the-age-of-ai/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-06-24T12:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/06/lara_voice_AI-blogpost-1000x667.png",
+      "excerpt": "Writer Tawny Lara argues that while AI co-writing tools offer shortcuts, emerging authors who lean on them risk homogenizing their prose rather than developing an authentic voice through the messy, iterative craft of writing."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/",
+      "source": "Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-06-18T12:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/ad_728x90_AM26-virtual-1.png",
+      "excerpt": "At SSP's 2026 Annual Meeting, AI dominated the agenda: Dr. Chinasa T. Okolo's keynote examined how AI innovation tends to benefit wealthy nations while neglecting the global majority, making the case for AI as a public good and a global knowledge commons in scholarly publishing."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/06/around-the-book-world-monday-june-22-2026/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-06-22T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+      "excerpt": "A global news roundup with AI threaded throughout publishing: Tonies is using AI to speed children's-audio localization toward a EUR1.4B goal, Japan's culture agency launched a public-private consortium using AI-assisted manga translation, and Russia's Eksmo says it is developing some 20 AI initiatives."
+    },
+    {
+      "url": "https://bookriot.com/today-in-books-june-20-2026/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-06-20T12:00:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2025/01/person-looking-at-their-phone-with-laptop-open.jpg.optimal.jpg",
+      "excerpt": "Book Riot's daily roundup highlights Google Play Books rolling out 'Book Insights,' a Gemini-built reading companion that recaps previously read sections and answers readers' questions mid-book, deepening AI's reach into how ebooks are read."
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 5,
+    "against_days": 5
+  }
+}

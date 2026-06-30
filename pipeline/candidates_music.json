@@ -1,103 +1,54 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-30",
   "window_hours": 336,
-  "section": "music",
   "items": [
     {
-      "id": "music-001",
-      "category": "Music — Core & Generative Models",
-      "source": "CDM Create Digital Music",
-      "domain": "cdm.link",
-      "title": "Music in training sets is the new Spotify Wrapped: how genAI uses your music",
-      "published_iso": "2026-06-22T00:00:00Z",
-      "url": "https://cdm.link/music-in-training-sets-is-the-new-spotify-wrapped-how-genai-uses-your-music/",
-      "excerpt": "Producers are discovering their own music inside AI training sets via The Atlantic's new searchable AI Watchdog database, which covers four datasets totalling over 21 million tracks—Berlin artist Hainbach found 151 of his songs in a single LAION YouTube corpus. CDM examines what the exposure means for musicians' rights and creative autonomy.",
-      "og_image": "",
-      "freshness": "FRESH"
-    },
-    {
-      "id": "music-002",
-      "category": "Music — Core & Generative Models",
-      "source": "Engadget",
-      "domain": "engadget.com",
-      "title": "Investigation by The Atlantic reveals many millions of songs used for AI music training",
-      "published_iso": "2026-06-15T00:00:00Z",
-      "url": "https://www.engadget.com/2194804/investigation-by-the-atlantic-reveals-many-millions-of-songs-used-for-ai-music-training/",
-      "excerpt": "The Atlantic published four searchable databases of music used to train AI models—two holding 12 million and 9 million tracks respectively—including hit songs from Taylor Swift and Bad Bunny alongside tens of thousands of independent artists, with the databases now being used as evidence in active copyright litigation against Suno and Udio.",
-      "og_image": "",
-      "freshness": "FRESH"
-    },
-    {
-      "id": "music-003",
-      "category": "Music — Core & Generative Models",
-      "source": "Mixmag",
-      "domain": "mixmag.net",
-      "title": "Artists can now check whether their music has been used to train AI",
-      "published_iso": "2026-06-21T00:00:00Z",
-      "url": "https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news",
-      "excerpt": "Mixmag covers The Atlantic's AI Watchdog searchable interface, which lets any artist enter their name to see which songs appear in the major AI music training datasets; companies often claimed to use only 'freely available' online content, but the databases reveal the true scale of copyrighted material actually accessed.",
-      "og_image": "",
-      "freshness": "FRESH"
-    },
-    {
-      "id": "music-004",
-      "category": "Music — Core & Generative Models",
-      "source": "DJ Mag",
-      "domain": "djmag.com",
-      "title": "Over 21 million copyrighted songs are circulating among AI developers, watchdog tool launched",
-      "published_iso": "2026-06-24T00:00:00Z",
-      "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
-      "excerpt": "DJ Mag reports that The Atlantic's AI Watchdog investigation uncovered four major datasets—containing more than 21 million tracks combined—being shared among AI developers for model training, with a new public search tool allowing artists to identify whether their recordings appear in training pipelines used by Suno and Udio.",
-      "og_image": "",
-      "freshness": "FRESH"
-    },
-    {
-      "id": "music-005",
-      "category": "Music — DJ, Electronic & Real-Time",
-      "source": "Resident Advisor",
-      "domain": "residentadvisor.net",
-      "title": "Traxsource launches AI transparency labels",
-      "published_iso": "2026-06-23T16:15:00Z",
-      "url": "https://ra.co/news/85477",
-      "excerpt": "Electronic music download platform Traxsource will begin labelling tracks as 'human-made', 'AI-assisted' or removing fully AI-generated music from July 1, working with detection partners SH Labs and SoundPatrol; cofounder Brian Tappert says the goal is to ensure value stays with human-created works while acknowledging AI is not going away.",
-      "og_image": "",
-      "freshness": "FRESH"
-    },
-    {
-      "id": "music-006",
-      "category": "Music — Producer Tools, DAW & Workflow",
-      "source": "GearNews",
-      "domain": "gearnews.com",
-      "title": "AI Training Data 2026: The Atlantic Reveals Whose Music Ended Up in Suno and Udio",
-      "published_iso": "2026-06-20T19:24:00Z",
-      "url": "https://www.gearnews.com/ai-training-data-the-atlantic-tech/",
-      "excerpt": "GearNews breaks down The Atlantic's AI Watchdog report for producers, explaining how the four searchable datasets—including a 12-million-track LAION YouTube corpus—expose exactly which recordings were fed into Suno and Udio's training pipelines and how AI models learned to imitate genre, timbre, and style from real productions.",
-      "og_image": "",
-      "freshness": "FRESH"
-    },
-    {
-      "id": "music-007",
-      "category": "Music — Producer Tools, DAW & Workflow",
-      "source": "CDM Create Digital Music",
-      "domain": "cdm.link",
-      "title": "With Latent Terrain, crack open AI and explore neural synthesis in Max",
-      "published_iso": "2026-06-17T00:00:00Z",
       "url": "https://cdm.link/latent-terrain-max/",
-      "excerpt": "Latent Terrain is a free, open-source Max/MSP external by researcher Jasper Zheng that turns pre-trained RAVE neural audio autoencoder models into a playable real-time synthesis instrument—producers navigate AI latent space using their own sounds as input, with all processing running locally and no internet connection required.",
-      "og_image": "",
-      "freshness": "FRESH"
+      "source": "CDM Create Digital Music",
+      "category": "music",
+      "published_iso": "2026-06-17T12:00:00Z",
+      "og_image": "https://cdm.link/app/uploads/2026/06/web1s-1.jpg",
+      "excerpt": "Latent Terrain is a free, open-source Max external that lets musicians play the world of neural audio codecs like an instrument, transforming their own sounds into new textures. Unlike cloud-based AI tools, the processing runs locally and uses the producer's own sounds as the data source."
     },
     {
-      "id": "music-008",
-      "category": "Music — Core & Generative Models",
-      "source": "Music Ally",
-      "domain": "musically.com",
-      "title": "The Atlantic uncovers 'millions' of songs used for AI training",
-      "published_iso": "2026-06-16T00:00:00Z",
-      "url": "https://musically.com/2026/06/16/the-atlantic-uncovers-millions-of-songs-used-for-ai-music-training/",
-      "excerpt": "Music Ally covers The Atlantic's AI Watchdog investigation, noting the two largest datasets contain 12 million and 9 million tracks, and explains that AI companies often claimed to use only freely available online content while the databases reveal the true scale of copyrighted material accessed for model training.",
-      "og_image": "",
-      "freshness": "FRESH"
+      "url": "https://www.soundonsound.com/news/tracktion-unleashes-waveform-14-daw",
+      "source": "Sound on Sound",
+      "category": "music",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/tracktion_waveform_14-0KCBTCQ.GUc29XsshV2PxaYGHOK_Eb0L.jpg",
+      "excerpt": "Tracktion's Waveform 14 DAW debuts an all-new LLM-driven AI Assistant that answers software questions, explores musical ideas, generates MIDI sequences, and analyses clips to create complementary parts. The assistant runs on a pay-as-you-go basis rather than a subscription."
+    },
+    {
+      "url": "https://www.billboard.com/pro/tidal-wont-monetize-ai-generated-music/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "og_image": "https://www.billboard.com/wp-content/uploads/media/tidal-logo-2018-billboard-1548.jpg",
+      "excerpt": "Tidal announced it will not monetize AI-generated music and will begin tagging such content in mid-July, while holding distributors accountable for identifying AI-created songs before upload. The platform says it will block AI music that exploits artists' work or deceives listeners."
+    },
+    {
+      "url": "https://www.hypebot.com/5-insights-from-berklees-ai-music-summit-and-the-student-protest-outside-it/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/06/6-29-berkeley.jpg",
+      "excerpt": "Berklee College of Music held its first AI Music Summit, where industry experts debated AI's evolutionary-versus-revolutionary impact on music while students protested outside over fears about their future careers. Speakers stressed that AI spans far more than generative tools, from stem separation to effects processing."
+    },
+    {
+      "url": "https://musictech.com/news/music/deezers-remix-lab-no-ai-compensates-artists/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-06-27T12:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/06/deezer-remix-lab@2000x1500.jpg",
+      "excerpt": "Deezer launched Remix Lab, a free feature that lets fans remix tracks with effects and transformations while compensating artists, and pointedly uses no generative AI. The move positions it as an artist-friendly alternative to Spotify's AI-powered remixing."
+    },
+    {
+      "url": "https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-06-24T12:00:00Z",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/10/ai-music-robot-conductor-billboard-1800.jpg",
+      "excerpt": "Google's argument that YouTube's terms of service permit AI training on user-uploaded music has alarmed independent-music advocates, who contend the broad 2019 licensing language does not constitute informed consent for generative AI. 'These terms were not written with AI training in mind,' says the Music Artists Coalition."
     }
   ]
 }

@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-30",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://kotaku.com/nvidia-art-fixer-ai-gaussian-splatting-hallucination-ram-prices-2000709422",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/artfixer3.jpg",
+      "excerpt": "Nvidia's new ArtFixer tool uses AI to fill gaps and clean up errors in 3D Gaussian Splatting reconstructions for game scenes, treating hallucinations as a feature, though it comes with steep RAM and environmental costs."
+    },
+    {
+      "url": "https://kotaku.com/japanese-anime-manga-and-gaming-publishers-are-reportedly-being-paid-70-million-to-encourage-ai-generated-translations-2000710488",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-06-25T00:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2021/06/a347dafccbe3bb8b7d90e405c57ab8c4.jpg",
+      "excerpt": "Japan's Ministry of Economy, Trade and Industry is reportedly offering roughly $70 million in subsidies to anime, manga, and gaming publishers to adopt AI-generated translations and accelerate localization into foreign markets."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-06-17T00:00:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd89a8ab949bf0c83/6a32ead8f3c7146aef45048b/unrealengine6logo.jpg",
+      "excerpt": "Epic announced Unreal Engine 6 will merge UE5 and the Fortnite editor (UEFN) into a single unified engine, shift toward the Verse language, and put LLMs and generative AI models (Claude, Codex) at the center of content creation while keeping developers in control."
+    },
+    {
+      "url": "https://aftermath.site/unreal-engine-6-ai-game-developers-react-godot-fortnite/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-06-17T18:11:00Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/06/rocket.png",
+      "excerpt": "Aftermath gathers developer reactions to Epic embedding Claude, Gemini, and Codex as central to Unreal Engine 6 via MCP, finding widespread resignation and copyright worry rather than enthusiasm, especially among artists whose existing workflows are being sunset."
+    },
+    {
+      "url": "https://www.destructoid.com/cdpr-comments-on-ai/",
+      "source": "Destructoid",
+      "category": "games",
+      "published_iso": "2026-06-21T00:00:00Z",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2025/06/image-2025-06-03T101157.538.jpg",
+      "excerpt": "CD Projekt Red co-CEO Michal Nowakowski says fully AI-made games are 'incoming' after meeting a startup that can ship a complete game three weeks into prototyping, but questions whether that is really the path the industry should follow."
+    },
+    {
+      "url": "https://gamingbolt.com/palworld-developer-doesnt-use-generative-ai-because-gamers-dont-want-it",
+      "source": "Gamingbolt",
+      "category": "games",
+      "published_iso": "2026-06-18T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Pocketpair's head of communications says the Palworld studio deliberately avoids generative AI because players reject it and its in-house artists prefer crafting assets themselves, calling the industry's push toward AI-generated content unsustainable."
+    },
+    {
+      "url": "https://www.thegamer.com/steam-next-fest-ai-disclaimers/",
+      "source": "The Gamer",
+      "category": "games",
+      "published_iso": "2026-06-18T07:05:00Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/06/p-body-from-portal-2-running-on-top-of-the-steam-logo.jpg",
+      "excerpt": "With nearly one in five of the 8,600 June 2026 Steam Next Fest demos carrying Valve's AI Content Disclosed tag, players are pressing Valve for clearer cover-art indicators and a toggleable filter, arguing the current footnote disclosure is useless for rapid browsing."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fantasy-tax-incentives-and-playstation-swaps-pc-for-ai-patch-notes-57",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-06-19T00:00:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt32972960811f0322/6a3516fcf3c7147f42450aa4/Patch_Notes_Header.png",
+      "excerpt": "Game Developer's weekly Patch Notes column flags Sony/PlayStation's strategic pivot toward AI (swapping 'PC' for 'AI' in its messaging), alongside Rockstar's union legal setback and Final Fantasy tax incentives."
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 8,
+    "against_days": 5
+  }
+}

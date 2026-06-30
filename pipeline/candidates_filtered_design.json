@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-30",
+  "window_hours": 72,
+  "items": [
+    {
+      "url": "https://www.cgchannel.com/2026/06/fsr-sdk-2-3-makes-fsr-4-1-upscaling-work-on-older-amd-gpus/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "og_image": "",
+      "excerpt": "AMD released FSR SDK 2.3, extending its FSR 4.1 neural upscaling and AI Ray Regeneration denoiser to previous-generation RDNA 3 GPUs (Radeon RX 7000 Series), arriving ahead of the planned July timeline. Brings AI-accelerated real-time rendering to more artist workstations."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/06/adobe-releases-substance-3d-sampler-6/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Adobe shipped Substance 3D Sampler 6.0 for material authoring, adding OpenPBR support and dynamic, AI-assisted versions of its Auto Tiling and Content-Aware Fill image-to-material filters that speed up turning photos into tileable PBR textures."
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 2,
+    "against_days": 5
+  }
+}

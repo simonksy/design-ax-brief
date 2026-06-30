@@ -1,442 +1,81 @@
 {
-  "section": "books",
-  "date": "2026-06-27",
-  "day_of_year": 178,
-  "rotation_offset": 2,
-  "core_keywords": [
-    "AI writing",
-    "AI 출판",
-    "AI publishing"
-  ],
-  "working_keywords": [
+  "date": "2026-06-30",
+  "seeds": [
     {
-      "keyword": "AI writing",
-      "source": "core",
+      "seed": "AI writing",
       "expansions": [
-        "AI writing tools 2026",
-        "generative AI writing assistant authors",
-        "AI 글쓰기 도구",
-        "large language model writing software"
+        "AI co-writing tool authors",
+        "Sudowrite NovelAI writing app",
+        "AI ghostwriting fiction",
+        "AI manuscript drafting tool",
+        "generative AI authoring software"
       ]
     },
     {
-      "keyword": "AI 출판",
-      "source": "core",
+      "seed": "AI publishing",
       "expansions": [
-        "AI 출판 산업 동향 2026",
-        "인공지능 출판 워크플로",
-        "AI 도서 제작",
-        "AI 전자책 출판"
+        "publisher AI adoption strategy",
+        "AI in book editing workflow",
+        "AI book cover design publishing",
+        "AI self-publishing KDP Amazon",
+        "publishing industry AI policy"
       ]
     },
     {
-      "keyword": "AI publishing",
-      "source": "core",
+      "seed": "AI 출판",
       "expansions": [
-        "AI in book publishing 2026",
-        "generative AI book industry news",
-        "AI publishing workflow editorial",
-        "AI publishing rights strategy"
+        "AI 책 번역 출판",
+        "AI 오디오북 내레이션",
+        "AI 전자책 도구",
+        "출판사 AI 도입"
       ]
     },
     {
-      "keyword": "AI literary translation",
-      "source": "pool",
-      "pool_index": 3,
+      "seed": "AI audiobook narration",
       "expansions": [
-        "AI book translation tools publishing 2026",
-        "machine translation literature quality",
-        "DeepL foreign rights publishing deal",
-        "AI 문학 번역 출판"
+        "ElevenLabs audiobook narration",
+        "Audible AI narrated audiobooks",
+        "AI voice cloning author audiobook",
+        "Spotify Storytel AI narration",
+        "synthetic voice audiobook publishing"
       ]
     },
     {
-      "keyword": "generative fiction",
-      "source": "pool",
-      "pool_index": 4,
+      "seed": "AI literary translation",
       "expansions": [
-        "AI generated novel fiction literary 2026",
-        "generative AI storytelling creative writing",
-        "machine-written novel published",
-        "AI 소설 생성 도구"
+        "AI translation publishing books",
+        "machine translation literature publisher",
+        "AI translated fiction rights",
+        "DeepL AI book translation"
       ]
     },
     {
-      "keyword": "AI ghostwriting",
-      "source": "pool",
-      "pool_index": 5,
+      "seed": "AI copyright authors",
       "expansions": [
-        "AI ghostwriter book service authors 2026",
-        "AI ghostwriting controversy ethics",
-        "automated ghostwriting nonfiction",
-        "AI 대필 논란"
+        "author AI licensing deal",
+        "AI training data books lawsuit",
+        "Authors Guild AI",
+        "publisher AI licensing copyright",
+        "AI book piracy training"
       ]
     },
     {
-      "keyword": "AI ebook tools",
-      "source": "pool",
-      "pool_index": 6,
+      "seed": "library AI",
       "expansions": [
-        "AI ebook creation formatting platform 2026",
-        "AI epub generation indie author",
-        "digital book production AI tool",
-        "AI 전자책 제작 도구"
+        "libraries AI tools adoption",
+        "academic library AI",
+        "AI reading assistant ebooks",
+        "AI book recommendation discovery"
       ]
     },
     {
-      "keyword": "AI editing proofreading",
-      "source": "pool",
-      "pool_index": 7,
+      "seed": "AI ebook tools",
       "expansions": [
-        "AI manuscript editing tool authors 2026",
-        "AI proofreading software ProWritingAid",
-        "AI developmental editing fiction",
-        "AI copy editing publisher workflow"
-      ]
-    },
-    {
-      "keyword": "Sudowrite",
-      "source": "pool",
-      "pool_index": 8,
-      "expansions": [
-        "Sudowrite AI fiction writing 2026",
-        "Sudowrite update feature author review",
-        "Sudowrite vs ChatGPT creative writing",
-        "Sudowrite novel drafting tool"
-      ]
-    },
-    {
-      "keyword": "KDP AI",
-      "source": "pool",
-      "pool_index": 10,
-      "expansions": [
-        "Amazon KDP AI generated book policy 2026",
-        "Kindle Direct Publishing AI disclosure rules",
-        "KDP AI content flood limit",
-        "Amazon self-publishing AI guidelines"
-      ]
-    },
-    {
-      "keyword": "AI narration voices",
-      "source": "pool",
-      "pool_index": 11,
-      "expansions": [
-        "AI audiobook narration voices platform 2026",
-        "synthetic narrator audiobook Speechify",
-        "AI voice clone audiobook licensing",
-        "AI narrator royalty author rights"
-      ]
-    },
-    {
-      "keyword": "AI book marketing",
-      "source": "pool",
-      "pool_index": 12,
-      "expansions": [
-        "AI book marketing blurb metadata tool 2026",
-        "AI author marketing BookBub advertising",
-        "AI book discoverability promotion",
-        "AI 도서 마케팅 도구"
-      ]
-    },
-    {
-      "keyword": "AI poetry",
-      "source": "pool",
-      "pool_index": 15,
-      "expansions": [
-        "AI generated poetry literary publishing 2026",
-        "AI poem collection book release",
-        "AI poetry tool writers",
-        "AI 시 창작 출판"
-      ]
-    },
-    {
-      "keyword": "AI children's book",
-      "source": "pool",
-      "pool_index": 16,
-      "expansions": [
-        "AI illustrated children's picture book 2026",
-        "AI kids story generator publishing",
-        "AI children's book creator controversy",
-        "AI 어린이 그림책 제작"
-      ]
-    },
-    {
-      "keyword": "AI textbook",
-      "source": "pool",
-      "pool_index": 19,
-      "expansions": [
-        "AI educational textbook publishing 2026",
-        "AI adaptive courseware Pearson McGraw-Hill",
-        "AI academic publishing content generation",
-        "AI 교과서 교육 출판"
-      ]
-    },
-    {
-      "keyword": "AI co-writing",
-      "source": "pool",
-      "pool_index": 0,
-      "expansions": [
-        "AI co-author book collaboration human 2026",
-        "human AI co-writing novel fiction",
-        "AI writing partner author workflow",
-        "AI 공동 집필 협업"
-      ]
-    },
-    {
-      "keyword": "AI book cover",
-      "source": "pool",
-      "pool_index": 1,
-      "expansions": [
-        "AI book cover design generator author 2026",
-        "Midjourney AI cover art self-publishing",
-        "AI book cover controversy designer rights",
-        "AI 책 표지 디자인 제작"
+        "AI children's book generation",
+        "AI comic manga generation",
+        "AI book marketing tools",
+        "AI book summarization app"
       ]
     }
-  ],
-  "skipped_pool_keywords": [
-    {
-      "keyword": "AI audiobook narration",
-      "pool_index": 2,
-      "reason": "Michael Caine ElevenLabs Odyssey audiobook card covered 2026-06-26; AI narration voices (index 11) covers fresh platform/licensing angle"
-    },
-    {
-      "keyword": "AI book summarization",
-      "pool_index": 13,
-      "reason": "Google Play Books Book Insights chatbot card covered 2026-06-27"
-    },
-    {
-      "keyword": "AI reading assistant",
-      "pool_index": 14,
-      "reason": "Google Play Books chatbot card covered 2026-06-27"
-    },
-    {
-      "keyword": "AI copyright authors",
-      "pool_index": 20,
-      "reason": "UK PLS collective AI licensing + Wiley AI licensing cards covered 2026-06-26"
-    },
-    {
-      "keyword": "AI manuscript",
-      "pool_index": 17,
-      "reason": "AI editing proofreading (index 7) covers adjacent manuscript-assessment angle; slot freed for AI textbook"
-    },
-    {
-      "keyword": "AI comic manga",
-      "pool_index": 18,
-      "reason": "De-prioritized this rotation; AI children's book chosen instead as higher publisher-relevance today"
-    },
-    {
-      "keyword": "AI book recommendation",
-      "pool_index": 21,
-      "reason": "AI book marketing covers discoverability angle; recommendation engine angle rested for tomorrow"
-    },
-    {
-      "keyword": "AI self-publishing",
-      "pool_index": 9,
-      "reason": "Kobo 45% rejection card covered platform-banning 2026-06-27; KDP AI (index 10) covers distinct policy/tools angle"
-    }
-  ],
-  "search_plan": {
-    "category": "books",
-    "allowed_domains": [
-      "publishersweekly.com",
-      "thebookseller.com",
-      "goodereader.com",
-      "janefriedman.com",
-      "lithub.com",
-      "publishingperspectives.com",
-      "bookriot.com",
-      "teleread.org",
-      "writersdigest.com",
-      "kindlepreneur.com",
-      "thecreativepenn.com",
-      "electricliterature.com",
-      "scholarlykitchen.sspnet.org",
-      "mediabistro.com",
-      "the-digital-reader.com",
-      "ireaderreview.com",
-      "wired.com",
-      "theverge.com",
-      "techcrunch.com",
-      "goodreads.com",
-      "bookbub.com",
-      "arstechnica.com"
-    ],
-    "queries": [
-      {
-        "id": "b-core-01",
-        "theme": "core — AI publishing industry sweep",
-        "query": "AI publishing book industry news 2026",
-        "allowed_domains": ["publishersweekly.com", "thebookseller.com", "publishingperspectives.com"]
-      },
-      {
-        "id": "b-core-02",
-        "theme": "core — AI writing tools authors",
-        "query": "AI writing tools authors workflow release 2026",
-        "allowed_domains": ["janefriedman.com", "thecreativepenn.com", "writersdigest.com"]
-      },
-      {
-        "id": "b-core-03",
-        "theme": "core — AI publishing business deals",
-        "query": "AI book publishing deal strategy revenue 2026",
-        "allowed_domains": ["publishersweekly.com", "publishingperspectives.com", "thebookseller.com"]
-      },
-      {
-        "id": "b-core-04",
-        "theme": "core — AI 출판 Korean",
-        "query": "AI 출판 인공지능 도서 산업 2026",
-        "allowed_domains": ["publishingperspectives.com", "publishersweekly.com", "thebookseller.com"]
-      },
-      {
-        "id": "b-translate-01",
-        "theme": "AI literary translation — tools and deals",
-        "query": "AI literary translation publishing foreign rights tool 2026",
-        "allowed_domains": ["publishingperspectives.com", "thebookseller.com", "publishersweekly.com", "lithub.com"]
-      },
-      {
-        "id": "b-translate-02",
-        "theme": "AI literary translation — Korean angle",
-        "query": "AI 문학 번역 출판 외국어 판권 2026",
-        "allowed_domains": ["publishingperspectives.com", "publishersweekly.com"]
-      },
-      {
-        "id": "b-fiction-01",
-        "theme": "generative fiction — AI-authored novels",
-        "query": "AI generated novel fiction published literary 2026",
-        "allowed_domains": ["lithub.com", "electricliterature.com", "publishersweekly.com", "bookriot.com"]
-      },
-      {
-        "id": "b-fiction-02",
-        "theme": "generative fiction — AI storytelling tools",
-        "query": "generative AI creative writing storytelling tool fiction author",
-        "allowed_domains": ["janefriedman.com", "thecreativepenn.com", "writersdigest.com", "theverge.com"]
-      },
-      {
-        "id": "b-ghost-01",
-        "theme": "AI ghostwriting — services and ethics",
-        "query": "AI ghostwriting book service authors ethics controversy 2026",
-        "allowed_domains": ["publishersweekly.com", "thebookseller.com", "lithub.com", "janefriedman.com"]
-      },
-      {
-        "id": "b-ebook-01",
-        "theme": "AI ebook tools — creation and formatting",
-        "query": "AI ebook creation formatting tool indie author platform 2026",
-        "allowed_domains": ["goodereader.com", "teleread.org", "ireaderreview.com", "kindlepreneur.com"]
-      },
-      {
-        "id": "b-edit-01",
-        "theme": "AI editing proofreading — manuscript tools",
-        "query": "AI manuscript editing proofreading software authors 2026",
-        "allowed_domains": ["janefriedman.com", "writersdigest.com", "thecreativepenn.com"]
-      },
-      {
-        "id": "b-edit-02",
-        "theme": "AI editing — developmental and copy",
-        "query": "AI developmental editing fiction copy editing publishing workflow",
-        "allowed_domains": ["janefriedman.com", "kindlepreneur.com", "writersdigest.com", "wired.com"]
-      },
-      {
-        "id": "b-sudowrite-01",
-        "theme": "Sudowrite — features and author reviews",
-        "query": "Sudowrite AI fiction writing update 2026",
-        "allowed_domains": ["thecreativepenn.com", "kindlepreneur.com", "writersdigest.com", "theverge.com"]
-      },
-      {
-        "id": "b-kdp-01",
-        "theme": "KDP AI — platform policy",
-        "query": "Amazon KDP AI generated book disclosure policy limit 2026",
-        "allowed_domains": ["publishersweekly.com", "goodereader.com", "the-digital-reader.com", "kindlepreneur.com"]
-      },
-      {
-        "id": "b-narration-01",
-        "theme": "AI narration voices — platforms and licensing",
-        "query": "AI audiobook narration voices platform synthetic narrator 2026",
-        "allowed_domains": ["publishersweekly.com", "thebookseller.com", "goodereader.com", "wired.com"]
-      },
-      {
-        "id": "b-narration-02",
-        "theme": "AI narration voices — rights and royalties",
-        "query": "AI voice clone audiobook author royalty rights licensing 2026",
-        "allowed_domains": ["publishersweekly.com", "publishingperspectives.com", "thebookseller.com"]
-      },
-      {
-        "id": "b-marketing-01",
-        "theme": "AI book marketing — author tools",
-        "query": "AI book marketing blurb metadata author tool discoverability 2026",
-        "allowed_domains": ["kindlepreneur.com", "thecreativepenn.com", "bookbub.com", "publishersweekly.com"]
-      },
-      {
-        "id": "b-poetry-01",
-        "theme": "AI poetry — literary publishing",
-        "query": "AI generated poetry collection literary magazine publishing 2026",
-        "allowed_domains": ["lithub.com", "electricliterature.com", "publishersweekly.com", "bookriot.com"]
-      },
-      {
-        "id": "b-kids-01",
-        "theme": "AI children's book — illustration and creation",
-        "query": "AI illustrated children's picture book creator publishing 2026",
-        "allowed_domains": ["publishersweekly.com", "thebookseller.com", "bookriot.com", "publishingperspectives.com"]
-      },
-      {
-        "id": "b-textbook-01",
-        "theme": "AI textbook — educational publishing",
-        "query": "AI educational textbook adaptive courseware publishing Pearson 2026",
-        "allowed_domains": ["publishersweekly.com", "publishingperspectives.com", "scholarlykitchen.sspnet.org", "wired.com"]
-      },
-      {
-        "id": "b-cowrite-01",
-        "theme": "AI co-writing — human+AI authorship",
-        "query": "AI co-author human collaboration novel book creative writing 2026",
-        "allowed_domains": ["lithub.com", "electricliterature.com", "publishersweekly.com", "janefriedman.com"]
-      },
-      {
-        "id": "b-cover-01",
-        "theme": "AI book cover — design tools for authors",
-        "query": "AI book cover design generator self-publishing author 2026",
-        "allowed_domains": ["kindlepreneur.com", "thecreativepenn.com", "the-digital-reader.com", "theverge.com"]
-      },
-      {
-        "id": "b-cover-02",
-        "theme": "AI book cover — designer rights controversy",
-        "query": "AI book cover controversy illustration designer rights publishing",
-        "allowed_domains": ["publishersweekly.com", "thebookseller.com", "lithub.com", "bookriot.com"]
-      },
-      {
-        "id": "b-social-yt-01",
-        "theme": "social/YouTube — The Creative Penn",
-        "query": "site:youtube.com \"The Creative Penn\" AI writing publishing 2026",
-        "allowed_domains": ["youtube.com"]
-      },
-      {
-        "id": "b-social-yt-02",
-        "theme": "social/YouTube — Self Publishing with Dale",
-        "query": "site:youtube.com \"Self Publishing with Dale\" AI authors 2026",
-        "allowed_domains": ["youtube.com"]
-      },
-      {
-        "id": "b-social-yt-03",
-        "theme": "social/YouTube — Sudowrite channel",
-        "query": "site:youtube.com Sudowrite AI fiction writing 2026",
-        "allowed_domains": ["youtube.com"]
-      },
-      {
-        "id": "b-social-ig-01",
-        "theme": "social/Instagram — best-effort",
-        "query": "site:instagram.com thecreativepenn AI writing books",
-        "allowed_domains": ["instagram.com"]
-      },
-      {
-        "id": "b-wildcard-01",
-        "theme": "wildcard — AI book industry disruption and author workforce",
-        "query": "AI book publishing disruption authors jobs earnings impact 2026",
-        "allowed_domains": ["publishersweekly.com", "thebookseller.com", "wired.com", "arstechnica.com", "theverge.com"]
-      }
-    ],
-    "total_queries": 28
-  },
-  "summary": {
-    "working_keyword_count": 17,
-    "category_count": 1,
-    "query_count": 28
-  }
+  ]
 }

@@ -1,86 +1,30 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-30",
   "window_hours": 72,
   "items": [
     {
-      "section": "design",
-      "category": "render",
+      "url": "https://www.cgchannel.com/2026/06/fsr-sdk-2-3-makes-fsr-4-1-upscaling-work-on-older-amd-gpus/",
       "source": "CG Channel",
-      "published_iso": "2026-06-26T00:00:00Z",
-      "title": "Boris FX releases Optics 2026.5 with AI-powered facial masking",
-      "excerpt": "Boris FX Optics 2026.5 ships four AI tools for automatically masking parts of the human face, generating depth maps from photos, and denoising and upresing images — alongside expanded platform support for Affinity, Apple Photos, and Capture One.",
-      "url": "https://www.cgchannel.com/2026/06/boris-fx-releases-optics-2026/",
-      "og_image": null
+      "category": "render",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "og_image": "",
+      "excerpt": "AMD released FSR SDK 2.3, extending its FSR 4.1 neural upscaling and AI Ray Regeneration denoiser to previous-generation RDNA 3 GPUs (Radeon RX 7000 Series), arriving ahead of the planned July timeline. Brings AI-accelerated real-time rendering to more artist workstations."
     },
     {
-      "section": "design",
-      "category": "render",
+      "url": "https://www.cgchannel.com/2026/06/adobe-releases-substance-3d-sampler-6/",
       "source": "CG Channel",
-      "published_iso": "2026-06-26T00:00:00Z",
-      "title": "KeyShot releases KeyShot 2026.2",
-      "excerpt": "KeyShot 2026.2 adds GPU rendering on Apple Silicon, an integrated cloud rendering service (KeyShot Cloud), Node Groups in the material graph for reusable components, and glTF/GLB export compression that makes models 2–3x smaller.",
-      "url": "https://www.cgchannel.com/2026/06/keyshot-releases-keyshot-2026-2/",
-      "og_image": null
-    },
-    {
-      "section": "design",
-      "category": "figma",
-      "source": "UX Collective",
-      "published_iso": "2026-06-27T05:00:00Z",
-      "title": "Rethinking Figma in an AI World",
-      "excerpt": "Figma's Config 2026 announcements — code layers, Figma Motion, shader tools, and an expanded AI agent — reveal the platform is no longer just defending its collaborative canvas but actively expanding into code-first, agentic software building to stay relevant.",
-      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
-      "og_image": null
-    },
-    {
-      "section": "design",
-      "category": "figma",
-      "source": "UX Collective",
-      "published_iso": "2026-06-27T08:00:00Z",
-      "title": "AI didn't replace designers—it promoted them",
-      "excerpt": "Rather than eliminating design roles, AI has elevated designers into higher-leverage positions — handling strategic direction, craft oversight, and quality control — as AI tools absorb routine production work.",
-      "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26",
-      "og_image": null
-    },
-    {
-      "section": "design",
-      "category": "workflow",
-      "source": "Business Wire",
-      "published_iso": "2026-06-25T00:00:00Z",
-      "title": "Introducing Canva Grow 2.0: Create, Launch, and Optimize Ads in One Place",
-      "excerpt": "Canva Grow 2.0, unveiled at Cannes Lions, expands Canva into a full AI-driven performance marketing platform where teams can create, publish, and optimize ad campaigns within a single design workspace — rolling out to users in North America, Australia, and the UK starting June 25.",
-      "url": "https://www.businesswire.com/news/home/20260625870253/en/Introducing-Canva-Grow-2.0-Create-Launch-and-Optimize-Ads-in-One-Place",
-      "og_image": null
-    },
-    {
-      "section": "design",
-      "category": "cad",
-      "source": "Engineering.com",
-      "published_iso": "2026-06-26T00:00:00Z",
-      "title": "Gstarsoft updates design portfolio across CAD and BIM",
-      "excerpt": "Gstarsoft's updated GstarCAD 2027 and GstarBIM 2027 bring AI-assisted visualization, 2D-to-3D conversion, point cloud modeling, and cloud-native collaboration tools into a single connected design environment for CAD and BIM workflows.",
-      "url": "https://www.engineering.com/gstarsoft-updates-design-portfolio-across-cad-and-bim/",
-      "og_image": null
-    },
-    {
-      "section": "design",
       "category": "render",
-      "source": "Creative Bloq",
-      "published_iso": "2026-06-27T00:00:00Z",
-      "title": "What does Adobe's Topaz Labs acquisition mean for creatives?",
-      "excerpt": "Adobe's planned acquisition of Topaz Labs will bring Topaz's Neurostream AI models for image upscaling, denoising, and enhancement directly into Photoshop, Lightroom, Firefly, and Creative Cloud apps, fundamentally changing on-device AI editing workflows for creatives.",
-      "url": "https://www.creativebloq.com/design/design-software/what-does-adobes-topaz-labs-acquisition-mean-for-creatives",
-      "og_image": ""
+      "published_iso": "2026-06-29T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Adobe shipped Substance 3D Sampler 6.0 for material authoring, adding OpenPBR support and dynamic, AI-assisted versions of its Auto Tiling and Content-Aware Fill image-to-material filters that speed up turning photos into tileable PBR textures."
     },
     {
-      "section": "design",
-      "category": "tokens",
-      "source": "UXPin",
-      "published_iso": "2026-06-27T00:00:00Z",
-      "title": "How to build a landing page using GPT-5 Mini + MUI with UXPin Merge",
-      "excerpt": "A step-by-step workflow tutorial shows how designers can use GPT-5 Mini with the MUI React component library inside UXPin Merge to generate production-ready landing page UI from natural language prompts — without writing raw code.",
-      "url": "https://www.uxpin.com/studio/blog/build-landing-page-gpt-5-mini-mui-uxpin-merge/",
-      "og_image": ""
+      "url": "https://www.youtube.com/watch?v=JdCWqZmOT4o",
+      "source": "DesignCourse",
+      "category": "figma",
+      "published_iso": "2026-06-29T15:52:54Z",
+      "og_image": "https://i.ytimg.com/vi/JdCWqZmOT4o/maxresdefault.jpg",
+      "excerpt": "DesignCourse walks through Figma's newly released Shaders feature, then tests whether Figma Make (Figma's AI) can implement those shaders on the web. Finding Figma Make falls short, he shows how to use AI coding tools like Claude and Cursor to actually integrate Figma shaders into production sites — an AI-assisted designer-to-code workflow shift."
     }
   ]
 }

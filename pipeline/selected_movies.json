@@ -1,66 +1,50 @@
 {
-  "date": "2026-06-27",
-  "section": "movies",
+  "date": "2026-06-30",
+  "selection_mode": "user",
   "picks": [
     {
-      "title": "Reallusion Unlocks Limitless Creation: iClone Personal Debuts Alongside AI Studio Official Launch",
-      "url": "https://beforesandafters.com/2026/06/26/reallusion-unlocks-limitless-creation-iclone-personal-debuts-alongside-ai-studio-official-launch/",
-      "source": "befores & afters",
-      "published_iso": "2026-06-26T00:00:00Z",
-      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/06/00_ic-ai-grand-launch-Free-for-All-Users.jpg",
-      "excerpt": "Reallusion released iClone Personal as a permanently free tier alongside the official launch of AI Studio, establishing a zero-barrier pipeline that bridges traditional 3D artistry with next-generation AI workflows for animation and VFX.",
-      "tool": "Movies",
+      "category": "movies",
+      "tool": "StoReel",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A permanently free iClone tier plus AI Studio launch hands animators a zero-cost 3D-to-AI pipeline they can adopt tomorrow."
-    },
-    {
-      "title": "This is the Biggest AI Filmmaking Partnership Yet",
-      "url": "https://www.youtube.com/watch?v=72KEzohPvDc",
-      "source": "Curious Refuge",
-      "published_iso": "2026-06-26T13:26:00-07:00",
-      "og_image": "https://i.ytimg.com/vi/72KEzohPvDc/maxresdefault.jpg",
-      "excerpt": "Curious Refuge's weekly AI filmmaking roundup covers the latest generative-video tools, studio partnerships and the arrival of interactive AI movies for creators.",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "Curious Refuge's weekly roundup keeps filmmakers current on new gen-video tools, studio deals and interactive AI movies in one watch."
-    },
-    {
-      "title": "Shanghai Film Festival Takeaways: Debut Directors Rule the Golden Goblet While AI Remakes the Industry Around Them",
-      "url": "https://variety.com/2026/film/festivals/shanghai-2026-takeaways-debut-directors-ai-1236786902/",
       "source": "Variety",
-      "published_iso": "2026-06-22T00:06:00-07:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/06/Atlantic-Rhapsody-team.jpg?w=1000&h=667&crop=1",
-      "excerpt": "Shanghai integrated AI more prominently into its programming than ever, with dedicated workshops and partnerships exploring generative video, image creation and audio applications, as panelists debated whether AI complements or threatens human creativity.",
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "Shanghai's expanded AI programming and workshops signal how festivals are normalizing generative tools across the filmmaking workflow."
+      "published_iso": "2026-06-23T12:00:00Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/06/StoReel.jpg?w=1000&h=667&crop=1",
+      "url": "https://variety.com/2026/digital/global/storeel-canvas-ai-microdrama-platform-launch-1236787037/",
+      "excerpt": "StoReel launched Canvas, an agent-powered AI production platform that turns a script into scene breakdowns, storyboards, character/setting references and optimized prompts for leading AI video models. The company claims it cuts production time by roughly two-thirds at about 15% of live-action cost."
     },
     {
-      "title": "How Annecy is Welcoming Discussion on Industry Topics Including AI, Canal+",
-      "url": "https://www.screendaily.com/features/how-annecy-is-welcoming-discussion-on-industry-topics-including-ai-canal/5217816.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-06-22T08:13:00+01:00",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xany/4/8/1/1481481_annecyheads_918183.jpg",
-      "excerpt": "The Annecy animation festival is hosting Think Tank AI4Animation, a day-long session laying the foundations for a white paper on AI in animation and how generative tools will reshape animator careers and workflows.",
-      "tool": "Movies",
-      "accent": "#7928ca",
+      "category": "movies",
+      "tool": "Annecy 2026",
+      "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Annecy's AI4Animation think tank is drafting a white paper that could shape how generative tools enter animator careers and pipelines."
+      "source": "Variety",
+      "published_iso": "2026-06-29T14:44:00Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/06/Fool-Night.-copy.jpeg?w=1000&h=667&crop=1",
+      "url": "https://variety.com/2026/film/markets-festivals/annecy-2026-10-takeaways-oscar-talk-anime-ricky-gervais-1236798354/",
+      "excerpt": "Variety's recap of the record-breaking Annecy 2026 festival, where Hisko Hulsing's generative-AI short 'Danse Macabre' became the most-discussed film, drawing protest stickers, walkouts and booing as the industry wrestles with AI in animation."
     },
     {
-      "title": "French Animators' Group Demands Clarity on Annecy's Generative AI Policy",
-      "url": "https://www.animationmagazine.net/2026/06/french-animators-group-demands-clarity-on-annecys-generative-ai-policy/",
-      "source": "Animation Magazine",
-      "published_iso": "2026-06-15T17:09:13+00:00",
-      "og_image": "https://www.animationmagazine.net/wp-content/uploads/2026/06/annecy-generative-ai.jpg",
-      "excerpt": "A French animators' group is pressing Annecy for a clear generative-AI policy, advancing '3Cs' principles (compensation, control, consent) on the use of copyrighted work to train AI as the festival becomes a flashpoint for AI in animation.",
-      "tool": "Movies",
+      "category": "movies",
+      "tool": "No Fakes Act",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "source": "Deadline",
+      "published_iso": "2026-06-18T14:12:00Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-2221857723.jpg?w=681&h=383&crop=1",
+      "url": "https://deadline.com/2026/06/no-fakes-act-senate-judiciary-committee-1236959147/",
+      "excerpt": "The No Fakes Act, which would give individuals the right to authorize AI-generated replicas of their voice and likeness, cleared the Senate Judiciary Committee unanimously despite First Amendment concerns - a key development for how AI replicas can be used in film."
+    },
+    {
+      "category": "movies",
+      "tool": "Seedance",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "The 3Cs push (compensation, control, consent) frames the consent and rights stakes every animator faces as studios adopt AI."
+      "source": "No Film School",
+      "published_iso": "2026-06-23T12:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/seedance-2-5-updates.png?id=67005233&width=1245&height=700&quality=50&coordinates=324%2C0%2C325%2C0",
+      "url": "https://nofilmschool.com/seedance-2-5-updates",
+      "excerpt": "ByteDance's Seedance AI video model is reportedly getting a v2.5 update capable of generating 30-second clips, a notable jump in shot length for generative video used in filmmaking workflows."
     }
   ]
 }

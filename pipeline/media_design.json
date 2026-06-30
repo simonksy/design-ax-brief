@@ -1,0 +1,22 @@
+{
+  "date": "2026-06-30",
+  "media": [
+    {
+      "id": "fsr-sdk-23",
+      "type": "video",
+      "src": "pipeline/media/fsr-sdk-23.mp4",
+      "poster": "pipeline/media/fsr-sdk-23.jpg"
+    },
+    {
+      "id": "substance-sampler6",
+      "type": "image",
+      "src": "pipeline/media/substance-sampler6.jpg"
+    },
+    {
+      "id": "figma-shaders",
+      "type": "video",
+      "src": "pipeline/media/figma-shaders.mp4",
+      "poster": "pipeline/media/figma-shaders.jpg"
+    }
+  ]
+}

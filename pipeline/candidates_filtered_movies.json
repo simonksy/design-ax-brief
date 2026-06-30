@@ -1,0 +1,51 @@
+{
+  "date": "2026-06-30",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://variety.com/2026/digital/global/storeel-canvas-ai-microdrama-platform-launch-1236787037/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-06-23T12:00:00Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/06/StoReel.jpg?w=1000&h=667&crop=1",
+      "excerpt": "StoReel launched Canvas, an agent-powered AI production platform that turns a script into scene breakdowns, storyboards, character/setting references and optimized prompts for leading AI video models. The company claims it cuts production time by roughly two-thirds at about 15% of live-action cost."
+    },
+    {
+      "url": "https://variety.com/2026/film/markets-festivals/annecy-2026-10-takeaways-oscar-talk-anime-ricky-gervais-1236798354/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-06-29T14:44:00Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/06/Fool-Night.-copy.jpeg?w=1000&h=667&crop=1",
+      "excerpt": "Variety's recap of the record-breaking Annecy 2026 festival, where Hisko Hulsing's generative-AI short 'Danse Macabre' became the most-discussed film, drawing protest stickers, walkouts and booing as the industry wrestles with AI in animation."
+    },
+    {
+      "url": "https://variety.com/2026/tv/news/panjaya-shortical-ai-dubbing-microdrama-partnership-1236784943/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-06-18T14:05:00Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/06/Panjaya.jpg?w=1000&h=667&crop=1",
+      "excerpt": "Panjaya.ai and Shortical partnered to bring AI-powered localization across six languages, automating translation, voice-performance adaptation, timing and lip-sync while preserving the source's emotional register."
+    },
+    {
+      "url": "https://deadline.com/2026/06/no-fakes-act-senate-judiciary-committee-1236959147/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-06-18T14:12:00Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-2221857723.jpg?w=681&h=383&crop=1",
+      "excerpt": "The No Fakes Act, which would give individuals the right to authorize AI-generated replicas of their voice and likeness, cleared the Senate Judiciary Committee unanimously despite First Amendment concerns - a key development for how AI replicas can be used in film."
+    },
+    {
+      "url": "https://nofilmschool.com/seedance-2-5-updates",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-06-23T12:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/seedance-2-5-updates.png?id=67005233&width=1245&height=700&quality=50&coordinates=324%2C0%2C325%2C0",
+      "excerpt": "ByteDance's Seedance AI video model is reportedly getting a v2.5 update capable of generating 30-second clips, a notable jump in shot length for generative video used in filmmaking workflows."
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 5,
+    "against_days": 5
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-30",
+  "media": [
+    {
+      "id": "nvidia-artfixer",
+      "type": "video",
+      "src": "pipeline/media/nvidia-artfixer.mp4",
+      "poster": "pipeline/media/nvidia-artfixer.jpg"
+    },
+    {
+      "id": "meti-aitranslate",
+      "type": "image",
+      "src": "pipeline/media/meti-aitranslate.jpg"
+    },
+    {
+      "id": "ue6-merge",
+      "type": "image",
+      "src": "pipeline/media/ue6-merge.jpg"
+    },
+    {
+      "id": "palworld-noai",
+      "type": "image",
+      "src": "pipeline/media/palworld-noai.jpg"
+    },
+    {
+      "id": "steam-aidisclaim",
+      "type": "image",
+      "src": "pipeline/media/steam-aidisclaim.jpg"
+    }
+  ]
+}

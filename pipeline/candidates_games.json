@@ -1,138 +1,70 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-30",
   "window_hours": 336,
   "items": [
     {
-      "section": "games",
-      "category": "games",
-      "label": "AI Game Design Tools and Vibe Coding",
-      "source": "Wccftech",
-      "published_iso": "2026-06-26T00:00:00Z",
-      "title": "Tim Sweeney Admits Epic's Unreal Engine AI Tools Risk 'AI slop', but Calls them an Accelerant for Real Creators",
-      "excerpt": "In an interview with IGN, Epic Games CEO Tim Sweeney acknowledged that integrating Claude and Gemini into Unreal Engine 5.8 and UE6 risks producing low-quality 'AI slop,' but argues the tools will serve as a creative accelerant for professional studios and indie developers alike.",
-      "url": "https://wccftech.com/tim-sweeney-unreal-engine-ai-tools-accelerant-real-creators/",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI UGC, Modding and Adaptive Systems",
-      "source": "Wccftech",
-      "published_iso": "2026-06-23T00:00:00Z",
-      "title": "Finding the Fun Is Still Human Work for 20+ Years, But AI Could Spark a New Gaming Renaissance, Says Dev",
-      "excerpt": "A veteran developer argues that 'finding the fun' remains too complex for AI to replicate for at least two more decades, even as Epic's Unreal Engine 6 and PlayStation Studios embrace AI tools to automate repetitive workflows and accelerate content production.",
-      "url": "https://wccftech.com/finding-fun-human-work-ai-gaming-renaissance-dev/",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI Game Art and Asset Production",
-      "source": "Wccftech",
-      "published_iso": "2026-06-20T00:00:00Z",
-      "title": "Epic Games Integrates Claude and Gemini into Unreal Engine 6, but Insists the Editor Is Still in Developers' Hands",
-      "excerpt": "Epic Games unveiled at State of Unreal 2026 that Unreal Engine 6 will embed Claude, Gemini, and Codex through an open MCP server, letting AI models help with level assembly, character setup, code assistance, and crash analysis while developers retain full creative control via the editor.",
-      "url": "https://wccftech.com/epic-games-unreal-engine-6-claude-gemini-developer-control/",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI Voice, Dialogue, and NPC Systems",
-      "source": "PC Gamer",
-      "published_iso": "2026-06-24T21:22:20Z",
-      "title": "Tim Sweeney on the future of games, AI, and whether Valve will ever join forces with Epic: 'It's now clear that nobody's going to end up with an absolute monopoly'",
-      "excerpt": "Epic Games CEO Tim Sweeney lays out his view of AI-assisted game development, engine and marketplace competition, and disclosure debates, arguing AI will be involved in nearly all future game production and that Valve's AI disclosure requirement is 'irresponsible.'",
-      "url": "https://www.pcgamer.com/gaming-industry/tim-sweeney-on-the-future-of-games-ai-and-whether-valve-will-ever-join-forces-with-epic-its-now-clear-that-nobodys-going-to-end-up-with-an-absolute-monopoly/",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mquTcmtPeqPuULfWtDsgW-1754-80.jpg"
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI UGC, Modding and Adaptive Systems",
-      "source": "PC Gamer",
-      "published_iso": "2026-06-15T00:00:00Z",
-      "title": "Steam Week in Review: More than 300 games released on Steam last week, and 120 of them had AI disclosures",
-      "excerpt": "Of the 338 games that dropped on Steam in the week ending June 14, 2026, roughly 40 percent carried a generative AI content disclosure, showing the pace at which AI-generated assets are entering the commercial games pipeline in a single week.",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-more-than-300-games-released-on-steam-last-week-and-120-of-them-had-ai-disclosures/",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI UGC, Modding and Adaptive Systems",
-      "source": "PC Gamer",
-      "published_iso": "2026-06-22T00:00:00Z",
-      "title": "Steam Next Fest's top played games include only 1 of over 500 demos with an AI disclosure",
-      "excerpt": "Of 4,397 Steam Next Fest demos with an AI Content Disclosed tag, only Nexon's Embers of the Uncrowned appears in the top-played rankings, revealing that player behaviour is still strongly biased against AI-disclosed games regardless of quality.",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-next-fests-top-played-games-include-only-1-of-over-500-demos-with-an-ai-disclosure/",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI UGC, Modding and Adaptive Systems",
-      "source": "GamesRadar+",
-      "published_iso": "2026-06-15T00:00:00Z",
-      "title": "Even more games on Steam are using AI: there are over 8,600 demos in this week's Next Fest event, and nearly 1,700 use AI",
-      "excerpt": "The June 2026 Steam Next Fest launched with 8,682 demos of which 1,694 carry Valve's AI Content Disclosed tag — roughly one in five games — marking a significant rise from the 750 AI-disclosed demos in the February 2026 edition and prompting renewed calls for a filter.",
-      "url": "https://www.gamesradar.com/platforms/pc-gaming/even-more-games-on-steam-are-using-ai-there-are-over-8-600-demos-in-this-weeks-next-fest-event-and-nearly-1-700-use-ai/",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI Game Design Tools and Vibe Coding",
-      "source": "Gamingbolt",
-      "published_iso": "2026-06-18T00:00:00Z",
-      "title": "Palworld Developer Doesn't Use Generative AI Because \"Gamers Don't Want It\"",
-      "excerpt": "Pocketpair's head of communications John Buckley says the studio behind Palworld deliberately avoids generative AI because players reject it and its in-house artists prefer crafting assets themselves, calling the current industry push toward AI-generated content unsustainable.",
-      "url": "https://gamingbolt.com/palworld-developer-doesnt-use-generative-ai-because-gamers-dont-want-it",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "Text-to-Game and World Models",
-      "source": "Destructoid",
-      "published_iso": "2026-06-21T00:00:00Z",
-      "title": "CDPR chief says games made entirely with AI are 'incoming' but doubts if 'this is really the path to follow'",
-      "excerpt": "CD Projekt Red co-CEO Michał Nowakowski described a conversation with an AI-gaming startup that can ship a complete game three weeks after starting prototyping, calling fully AI-made games an 'unavoidable' phenomenon while expressing personal doubt about the creative value of that path.",
-      "url": "https://www.destructoid.com/cdpr-comments-on-ai/",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI UGC, Modding and Adaptive Systems",
-      "source": "The Gamer",
-      "published_iso": "2026-06-16T00:00:00Z",
-      "title": "Steam Users Beg For Clearer AI Warnings And Filter Controls As 1,700 Next Fest Demos Admit Using It",
-      "excerpt": "Players responding to June 2026's Steam Next Fest AI disclosure flood are calling on Valve to add visible AI indicator labels on cover art and a toggleable content filter, arguing the current single-line footnote disclosure is useless for rapid browsing across thousands of demos.",
-      "url": "https://www.thegamer.com/steam-next-fest-ai-disclaimers/",
-      "og_image": null
-    },
-    {
-      "section": "games",
-      "category": "games",
-      "label": "AI UGC, Modding and Adaptive Systems",
+      "url": "https://kotaku.com/nvidia-art-fixer-ai-gaussian-splatting-hallucination-ram-prices-2000709422",
       "source": "Kotaku",
-      "published_iso": "2026-06-15T00:00:00Z",
-      "title": "Steam Next Fest Is Flooded With AI Games And It Sucks",
-      "excerpt": "Kotaku's Zack Zwiezen used a browser extension to scan 16 games on the Steam Next Fest homepage and found 10 carried generative AI disclaimers, describing the experience as dispiriting and raising questions about the long-term discoverability of human-crafted indie games on the platform.",
-      "url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
-      "og_image": null
+      "category": "games",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/artfixer3.jpg",
+      "excerpt": "Nvidia's new ArtFixer tool uses AI to fill gaps and clean up errors in 3D Gaussian Splatting reconstructions for game scenes, treating hallucinations as a feature, though it comes with steep RAM and environmental costs."
     },
     {
-      "section": "games",
+      "url": "https://kotaku.com/japanese-anime-manga-and-gaming-publishers-are-reportedly-being-paid-70-million-to-encourage-ai-generated-translations-2000710488",
+      "source": "Kotaku",
       "category": "games",
-      "label": "AI Game Art and Asset Production",
-      "source": "Aftermath",
-      "published_iso": "2026-06-18T00:00:00Z",
-      "title": "Game Developers Neither Surprised Nor Delighted To Learn That Unreal Engine 6 Will Be Filled With AI Garbage",
-      "excerpt": "Aftermath gathered developer reactions to Epic's UE6 AI announcement — embedding Claude, Gemini, and Codex via MCP as central to the engine — finding widespread resignation rather than enthusiasm, especially among artists whose Blueprint-based workflows are being sunset.",
+      "published_iso": "2026-06-25T00:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2021/06/a347dafccbe3bb8b7d90e405c57ab8c4.jpg",
+      "excerpt": "Japan's Ministry of Economy, Trade and Industry is reportedly offering roughly $70 million in subsidies to anime, manga, and gaming publishers to adopt AI-generated translations and accelerate localization into foreign markets."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-06-17T00:00:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd89a8ab949bf0c83/6a32ead8f3c7146aef45048b/unrealengine6logo.jpg",
+      "excerpt": "Epic announced Unreal Engine 6 will merge UE5 and the Fortnite editor (UEFN) into a single unified engine, shift toward the Verse language, and put LLMs and generative AI models (Claude, Codex) at the center of content creation while keeping developers in control."
+    },
+    {
       "url": "https://aftermath.site/unreal-engine-6-ai-game-developers-react-godot-fortnite/",
-      "og_image": null
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-06-17T18:11:00Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/06/rocket.png",
+      "excerpt": "Aftermath gathers developer reactions to Epic embedding Claude, Gemini, and Codex as central to Unreal Engine 6 via MCP, finding widespread resignation and copyright worry rather than enthusiasm, especially among artists whose existing workflows are being sunset."
+    },
+    {
+      "url": "https://www.destructoid.com/cdpr-comments-on-ai/",
+      "source": "Destructoid",
+      "category": "games",
+      "published_iso": "2026-06-21T00:00:00Z",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2025/06/image-2025-06-03T101157.538.jpg",
+      "excerpt": "CD Projekt Red co-CEO Michal Nowakowski says fully AI-made games are 'incoming' after meeting a startup that can ship a complete game three weeks into prototyping, but questions whether that is really the path the industry should follow."
+    },
+    {
+      "url": "https://gamingbolt.com/palworld-developer-doesnt-use-generative-ai-because-gamers-dont-want-it",
+      "source": "Gamingbolt",
+      "category": "games",
+      "published_iso": "2026-06-18T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Pocketpair's head of communications says the Palworld studio deliberately avoids generative AI because players reject it and its in-house artists prefer crafting assets themselves, calling the industry's push toward AI-generated content unsustainable."
+    },
+    {
+      "url": "https://www.thegamer.com/steam-next-fest-ai-disclaimers/",
+      "source": "The Gamer",
+      "category": "games",
+      "published_iso": "2026-06-18T07:05:00Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/06/p-body-from-portal-2-running-on-top-of-the-steam-logo.jpg",
+      "excerpt": "With nearly one in five of the 8,600 June 2026 Steam Next Fest demos carrying Valve's AI Content Disclosed tag, players are pressing Valve for clearer cover-art indicators and a toggleable filter, arguing the current footnote disclosure is useless for rapid browsing."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fantasy-tax-incentives-and-playstation-swaps-pc-for-ai-patch-notes-57",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-06-19T00:00:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt32972960811f0322/6a3516fcf3c7147f42450aa4/Patch_Notes_Header.png",
+      "excerpt": "Game Developer's weekly Patch Notes column flags Sony/PlayStation's strategic pivot toward AI (swapping 'PC' for 'AI' in its messaging), alongside Rockstar's union legal setback and Final Fantasy tax incentives."
     }
   ]
 }
