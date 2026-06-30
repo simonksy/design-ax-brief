@@ -3,57 +3,89 @@
   "window_hours": 336,
   "items": [
     {
-      "url": "https://cdm.link/latent-terrain-max/",
-      "source": "CDM Create Digital Music",
+      "section": "music",
       "category": "music",
-      "published_iso": "2026-06-17T12:00:00Z",
-      "og_image": "https://cdm.link/app/uploads/2026/06/web1s-1.jpg",
-      "excerpt": "Latent Terrain is a free, open-source Max external that lets musicians play the world of neural audio codecs like an instrument, transforming their own sounds into new textures. Unlike cloud-based AI tools, the processing runs locally and uses the producer's own sounds as the data source."
-    },
-    {
-      "url": "https://www.soundonsound.com/news/tracktion-unleashes-waveform-14-daw",
-      "source": "Sound on Sound",
-      "category": "music",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/tracktion_waveform_14-0KCBTCQ.GUc29XsshV2PxaYGHOK_Eb0L.jpg",
-      "excerpt": "Tracktion's Waveform 14 DAW debuts an all-new LLM-driven AI Assistant that answers software questions, explores musical ideas, generates MIDI sequences, and analyses clips to create complementary parts. The assistant runs on a pay-as-you-go basis rather than a subscription."
-    },
-    {
-      "url": "https://www.billboard.com/pro/tidal-wont-monetize-ai-generated-music/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/media/tidal-logo-2018-billboard-1548.jpg",
-      "excerpt": "Tidal announced it will not monetize AI-generated music and will begin tagging such content in mid-July, while holding distributors accountable for identifying AI-created songs before upload. The platform says it will block AI music that exploits artists' work or deceives listeners."
-    },
-    {
-      "url": "https://www.hypebot.com/5-insights-from-berklees-ai-music-summit-and-the-student-protest-outside-it/",
       "source": "Hypebot",
+      "published_iso": "2026-06-30T07:00:00Z",
+      "title": "TIDAL Moves Streaming's AI Debate From Ethics to Economics",
+      "excerpt": "TIDAL announced that tracks determined to be primarily AI-generated will no longer be eligible to receive royalties or participate in its direct-to-fan monetization programs, effective July 15. Rather than a blanket ban, the platform draws a line between AI-assisted human creativity (still eligible) and fully AI-generated output (demonetized), shifting the industry debate from ethics to economics.",
+      "url": "https://www.hypebot.com/tidal-moves-streamings-ai-debate-from-ethics-to-economics/",
+      "og_image": null
+    },
+    {
+      "section": "music",
       "category": "music",
+      "source": "DJ Mag",
       "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/06/6-29-berkeley.jpg",
-      "excerpt": "Berklee College of Music held its first AI Music Summit, where industry experts debated AI's evolutionary-versus-revolutionary impact on music while students protested outside over fears about their future careers. Speakers stressed that AI spans far more than generative tools, from stem separation to effects processing."
+      "title": "TIDAL excludes AI-generated music from royalty payments in new policy update",
+      "excerpt": "TIDAL has updated its payment policy to exclude AI-generated music from royalty pools, with the policy taking effect on July 15. The platform will require distributors to flag AI-generated content on upload, and will remove monetization rights from tracks identified as primarily AI-generated rather than AI-assisted.",
+      "url": "https://djmag.com/news/tidal-excludes-ai-generated-music-royalty-payments-new-policy-update",
+      "og_image": null
     },
     {
-      "url": "https://musictech.com/news/music/deezers-remix-lab-no-ai-compensates-artists/",
-      "source": "MusicTech",
+      "section": "music",
       "category": "music",
-      "published_iso": "2026-06-27T12:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/06/deezer-remix-lab@2000x1500.jpg",
-      "excerpt": "Deezer launched Remix Lab, a free feature that lets fans remix tracks with effects and transformations while compensating artists, and pointedly uses no generative AI. The move positions it as an artist-friendly alternative to Spotify's AI-powered remixing."
+      "source": "DJ Mag",
+      "published_iso": "2026-06-23T10:00:00Z",
+      "title": "Traxsource to label music as human-made or AI-assisted across platform",
+      "excerpt": "Electronic music download store Traxsource announced it will introduce a labeling system to distinguish human-made tracks from AI-assisted ones across its catalog. The initiative gives buyers transparency about the creative process and puts pressure on other download and streaming platforms to follow suit.",
+      "url": "https://djmag.com/news/traxsource-label-music-human-made-or-ai-assisted-across-platform",
+      "og_image": null
     },
     {
-      "url": "https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/",
+      "section": "music",
+      "category": "music",
+      "source": "DJ Mag",
+      "published_iso": "2026-06-24T17:26:00Z",
+      "title": "Over 21 million copyrighted songs are circulating among AI developers, watchdog tool launched",
+      "excerpt": "A new watchdog tool has identified over 21 million copyrighted songs being used in AI training datasets without license or consent. The tool, aimed at rights holders and music publishers, allows rightsholders to scan AI training corpora and flag unauthorized use of their catalog.",
+      "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
+      "og_image": null
+    },
+    {
+      "section": "music",
+      "category": "music",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-06-29T09:00:00Z",
+      "title": "Tracktion Releases Waveform Free 14 With AI Assistant",
+      "excerpt": "Tracktion has released Waveform Free 14, the no-cost tier of its DAW, which includes the new LLM-driven AI Assistant introduced in Waveform 14. The assistant can answer software questions, generate MIDI sequences, and analyze audio clips to suggest complementary parts, making advanced AI-assisted production tools available to bedroom producers at no cost.",
+      "url": "https://bedroomproducersblog.com/2026/06/29/waveform-free-14/",
+      "og_image": null
+    },
+    {
+      "section": "music",
+      "category": "music",
+      "source": "Attack Magazine",
+      "published_iso": "2026-06-30T10:00:00Z",
+      "title": "Yamaha Creator Pass Adds Cubase, Ableton, And New $9.99 Starter Plan",
+      "excerpt": "Yamaha's Creator Pass subscription service has expanded to include Cubase and Ableton Live alongside its existing AI-powered tools, and introduced a new $9.99 starter tier. The bundle approach signals a shift toward AI-integrated all-in-one subscription models for music creators, packaging composition tools, instruments, and AI features under one monthly fee.",
+      "url": "https://www.attackmagazine.com/news/yamaha-creator-pass-adds-cubase-ableton-and-new-9-99-starter-plan/",
+      "og_image": null
+    },
+    {
+      "section": "music",
+      "category": "music",
+      "source": "Engadget",
+      "published_iso": "2026-06-29T16:00:00Z",
+      "title": "Tidal isn't banning AI music, but it won't pay people who upload it",
+      "excerpt": "Tidal's new AI music policy stops short of an outright ban but cuts off monetization for AI-generated tracks starting July 15, while still allowing them on the platform for non-paying listeners. The nuanced stance lets the platform remain a broad catalog while protecting human artists' share of the royalty pool.",
+      "url": "https://www.engadget.com/entertainment/music/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it-204169688.html",
+      "og_image": null
+    },
+    {
+      "section": "music",
+      "category": "music",
       "source": "Billboard",
-      "category": "music",
       "published_iso": "2026-06-24T12:00:00Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2025/10/ai-music-robot-conductor-billboard-1800.jpg",
-      "excerpt": "Google's argument that YouTube's terms of service permit AI training on user-uploaded music has alarmed independent-music advocates, who contend the broad 2019 licensing language does not constitute informed consent for generative AI. 'These terms were not written with AI training in mind,' says the Music Artists Coalition."
+      "title": "YouTube's AI Training Argument Raises Concerns in the Indie Music Community",
+      "excerpt": "Google's argument that YouTube's terms of service permit AI training on user-uploaded music has alarmed independent-music advocates, who contend the broad 2019 licensing language does not constitute informed consent for generative AI. 'These terms were not written with AI training in mind,' says the Music Artists Coalition.",
+      "url": "https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/10/ai-music-robot-conductor-billboard-1800.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 6,
+    "kept": 8,
     "against_days": 5
   }
 }
