@@ -1,7 +1,11 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "media": [
-    {"id": "traxsource-labels", "type": "image", "src": "pipeline/media/traxsource-labels.jpg"},
-    {"id": "corus-app", "type": "image", "src": "pipeline/media/corus-app.jpg"}
+    {
+      "id": "sugarbytes-claude",
+      "type": "video",
+      "src": "pipeline/media/sugarbytes-claude.mp4",
+      "poster": "pipeline/media/sugarbytes-claude.jpg"
+    }
   ]
 }

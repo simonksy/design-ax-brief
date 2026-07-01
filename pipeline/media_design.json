@@ -1,9 +1,21 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "media": [
-    {"id": "dash-112", "type": "video", "src": "pipeline/media/dash-112.mp4", "poster": "pipeline/media/dash-112.jpg"},
-    {"id": "ai-slop", "type": "image", "src": "pipeline/media/ai-slop.jpg"},
-    {"id": "builder-handoff", "type": "image", "src": "pipeline/media/builder-handoff.jpg"},
-    {"id": "meta-bci", "type": "image", "src": "pipeline/media/meta-bci.jpeg"}
+    {
+      "id": "nano-banana2-lite",
+      "type": "image",
+      "src": "pipeline/media/nano-banana2-lite.png"
+    },
+    {
+      "id": "gemini-omni-flash",
+      "type": "video",
+      "src": "pipeline/media/gemini-omni-flash.mp4",
+      "poster": "pipeline/media/gemini-omni-flash.jpg"
+    },
+    {
+      "id": "autodesk-ai-judgment",
+      "type": "image",
+      "src": "pipeline/media/autodesk-ai-judgment.jpg"
+    }
   ]
 }

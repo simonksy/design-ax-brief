@@ -1,51 +1,25 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "cards": [
     {
-      "id": "traxsource-labels",
+      "id": "sugarbytes-claude",
       "eyebrow": "AI NEWS",
-      "headline": "트랙소스가 7월 1일부터 사람이 만든\n음악과 AI 음악을 라벨로 구분한다",
-      "body": "7월 1일부터 사람이 만든 음악과 AI가 도운 음악에 라벨을 붙인다.",
-      "mini_headline": "사람이 만든 음악 라벨",
-      "tool": "Traxsource",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/",
-      "accent": "#3b6bff",
+      "headline": "텍스트 프롬프트 한 줄로 드럼 비트를\n만들어 주는 슈가바이츠의 무료 클로드 확장",
+      "body": "슈가바이츠가 프롬프트 한 줄로 드럼 비트를 뽑아내는 무료 클로드 익스텐션을 내놨다.",
+      "mini_headline": "프롬프트로 만드는 드럼 비트",
+      "tool": "Sugar Bytes",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/06/30/drumcomputer-claude-extension-lets-you-make-beats-via-text-prompts/",
+      "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "음악 다운로드 플랫폼 트랙소스가 7월 1일부터 사람이 만든 음악과 AI가 도운 음악을 구분하는 라벨을 붙인다."},
-          {"t": "p", "x": "분류는 AI 탐지 업체 SH Labs, SoundPatrol과 손잡고 진행한다. 처음부터 끝까지 AI로 만든 곡은 삭제 대상으로 걸러내고, 남은 음악은 AI가 도운 음악과 사람이 만든 음악으로 나눈다."},
-          {"t": "p", "x": "이번 조치는 지난 2월 입장 발표의 연장선에 있다. 당시 트랙소스는 사람이 이끄는 창작 과정에서 AI를 제작 도구로 쓰는 것은 인정하되, 온전히 AI가 만든 음악은 플랫폼에서 받지 않겠다고 밝혔다."},
-          {"t": "img", "src": "https://musictech.com/wp-content/uploads/2026/03/headphones-stock-image@2000x1500.jpg"},
-          {"t": "p", "x": "공동창업자이자 대표인 브라이언 태퍼트(Brian Tappert)는 이렇게 말했다. \"AI가 사라질 거라고 보지 않는다. 우리가 하는 모든 일은 AI와 함께 살아갈 길을 찾고, 가치가 있어야 할 곳, 곧 사람이 만든 작품에 그 가치가 남도록 하는 데 있다.\""},
-          {"t": "p", "x": "공동창업자이자 CTO인 마크 포머로이(Marc Pomeroy)도 덧붙였다. \"우리는 음악을 사는 일이 오늘날 식료품을 사는 것과 비슷해지는 미래를 그린다. 일반 제품 바로 옆에 유기농 인증 제품이 놓이고, 선택은 소비자에게 맡겨지는 것이다.\""},
-          {"t": "p", "x": "라벨이 붙으면 듣는 사람은 저마다의 AI 취향에 따라 고르면 된다. 트랙소스는 온전한 AI 음악을 매일 걸러내는 작업을 이어가고, 분류에 이의가 있으면 다시 검토받을 수 있는 절차도 둔다."}
-        ]
-      }
-    },
-    {
-      "id": "corus-app",
-      "eyebrow": "AI NEWS",
-      "headline": "코러스가 알고리즘 대신 사람의\n추천으로 음악과 영화를 고른다",
-      "body": "알고리즘이 아니라 사람의 추천으로 음악과 영화를 찾는 소셜 앱이다.",
-      "mini_headline": "사람이 고르는 추천 앱",
-      "tool": "Corus",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/gear/corus-music-discovery-app/",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {"t": "p", "x": "요즘 음악을 찾는 일은 스포티파이, 틱톡, 유튜브 같은 플랫폼의 알고리즘 큐레이션이 거의 쥐고 있다. 새로 나온 소셜 플랫폼 코러스(Corus)는 이 방식에 맞서 기계학습보다 사람의 취향과 개인적인 추천을 앞세운다."},
-          {"t": "p", "x": "코러스를 만든 사람은 게이브 제이컵스(Gabe Jacobs)다. 2015년부터 2018년까지 운영된 음악 플랫폼 심벌(Cymbal)의 공동창업자다. 코러스는 추천과 대화로 음악과 영화를 함께 발견하는 소셜 네트워크다. 초기 이용자로는 니키 네어, 다이달로스, 컨덕타, DJ 느와르 같은 아티스트가 있다."},
-          {"t": "p", "x": "이 앱은 사운드클라우드, 애플 뮤직, 스포티파이, 타이달, 디저와 연동돼 여러 스트리밍 서비스를 넘나들며 공유할 수 있다. 모바일과 데스크톱에서 쓸 수 있고, 심벌의 레딧식 추천 투표 방식 대신 인스타그램과 레터박스에서 감각을 빌려 시각 디자인과 개인 표현을 강조한다."},
-          {"t": "img", "src": "https://musictech.com/wp-content/uploads/2026/06/Corus@2000x1500.jpg"},
-          {"t": "p", "x": "제이컵스는 지향점을 이렇게 설명한다. \"코러스는… 우리가 함께 사랑하고 나누는 예술을 잇고 기리는 곳이 될 것이다. 지금의 소셜 미디어는 쓰기 괴롭고, 광고와 봇, 우리를 틀에 가두는 알고리즘으로 가득하다. 나는 이곳이 다르길 바란다. 더 인간적이고 진솔하게.\""},
-          {"t": "p", "x": "요금은 무료와 유료로 나뉜다. 무료 이용자는 하루 다섯 개까지 글을 올리고, 월 3.99달러 또는 연 24.99달러인 프리미엄은 무제한 게시와 프로필 꾸미기, 플레이리스트 내보내기, 즐겨찾기 전용 피드를 제공한다."},
-          {"t": "p", "x": "코러스는 광고 없이 구독으로 운영을 이어가겠다고 밝혔다. 앞으로는 화제의 대화 피드, 눈에 띄는 신곡 소개, 아티스트 수익 창출 도구를 더할 계획이다."}
+          { "t": "text", "x": "슈가바이츠가 드럼컴퓨터용 클로드 익스텐션을 내놨다. 텍스트 프롬프트로 비트를 짜는 무료 애드온이다." },
+          { "t": "img", "src": "https://www.synthtopia.com/wp-content/uploads/2026/06/ai-beat-making.jpg", "cap": "텍스트로 비트를 만드는 드럼컴퓨터 클로드 익스텐션" },
+          { "t": "text", "x": "프롬프트 한 줄이면 드럼컴퓨터 사운드가 통째로 완성된다. 어떻게 동작하는지는 시연 영상에서 볼 수 있다." },
+          { "t": "text", "x": "지금 슈가바이츠 웹사이트에서 받을 수 있다." },
+          { "t": "text", "x": "한 사용자는 댓글에서 \"Adding AI into the mix is aiding laziness, not adding efficiency or creativity\"라며, 이미 있는 랜덤 파라미터로 충분한 기능이라고 꼬집었다." }
         ]
       }
     }

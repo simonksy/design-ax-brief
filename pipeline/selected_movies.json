@@ -1,28 +1,17 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "selection_mode": "user",
   "picks": [
     {
       "category": "movies",
-      "tool": "Aiarty",
+      "tool": "DeepMind",
       "accent": "#0070f3",
       "motif": "frame",
-      "source": "RedShark News",
-      "published_iso": "2026-06-29T00:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/AIVE%20header-image.jpg",
-      "url": "https://www.redsharknews.com/aiarty-video-enhancer-ai-upscaling-4k",
-      "excerpt": "Aiarty Video Enhancer applies AI-driven denoising, detail reconstruction and 4K upscaling to restore low-resolution and legacy footage for modern production workflows. All processing runs locally, with no cloud upload required."
-    },
-    {
-      "category": "movies",
-      "tool": "Adobe",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "source": "postPerspective",
-      "published_iso": "2026-06-25T12:30:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/06/Topaz-labs1-624x416.jpg",
-      "url": "https://postperspective.com/adobe-to-acquire-topaz-labs-expanding-ai-image-and-video-tools/",
-      "excerpt": "Adobe has signed an agreement to acquire Topaz Labs, bringing its Emmy Award-winning AI video and image enhancement technology - upscaling, sharpening, frame interpolation, noise removal and footage restoration - in-house, while keeping Topaz products available as standalone tools."
+      "source": "No Film School",
+      "published_iso": "2026-06-19T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/dear-upstairs-neighbors.png?id=66965611&width=1245&height=700&quality=50&coordinates=62%2C0%2C62%2C0",
+      "url": "https://nofilmschool.com/dear-upstairs-neighbors-hybrid-ai-short-film",
+      "excerpt": "Pixar alum director Connie He details the hybrid workflow behind her Tribeca short 'Dear Upstairs Neighbors,' blending traditional animation with a custom Google DeepMind video-to-video model. She used AI not for efficiency but to unlock a painterly visual style, keeping tight control over performance, timing, and rhythm."
     }
   ]
 }

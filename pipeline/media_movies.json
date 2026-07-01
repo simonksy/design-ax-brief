@@ -1,7 +1,10 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "media": [
-    { "id": "aiarty-enhancer", "type": "image", "src": "pipeline/media/aiarty-enhancer.jpg" },
-    { "id": "adobe-topaz", "type": "image", "src": "pipeline/media/adobe-topaz.jpg" }
+    {
+      "id": "dear-upstairs-neighbors",
+      "type": "image",
+      "src": "pipeline/media/dear-upstairs-neighbors.jpg"
+    }
   ]
 }

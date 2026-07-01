@@ -1,9 +1,10 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "media": [
-    {"id": "gaider-plague", "type": "image", "src": "pipeline/media/gaider-plague.jpg"},
-    {"id": "dk64-vibecoding", "type": "video", "src": "pipeline/media/dk64-vibecoding.mp4", "poster": "pipeline/media/dk64-vibecoding.jpg"},
-    {"id": "sonic-arg-data", "type": "image", "src": "pipeline/media/sonic-arg-data.jpg"},
-    {"id": "mihoyo-olivia", "type": "video", "src": "pipeline/media/mihoyo-olivia.mp4", "poster": "pipeline/media/mihoyo-olivia.jpg"}
+    {
+      "id": "sony-ai-annual-report",
+      "type": "image",
+      "src": "pipeline/media/sony-ai-annual-report.jpg"
+    }
   ]
 }

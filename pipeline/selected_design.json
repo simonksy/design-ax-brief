@@ -1,50 +1,39 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "selection_mode": "user",
   "picks": [
     {
-      "category": "render",
-      "tool": "Polygonflow",
+      "category": "workflow",
+      "tool": "Google",
       "accent": "#f5a623",
-      "motif": "cube",
-      "source": "CG Channel",
-      "published_iso": "2026-06-30T00:00:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/05/260630_Dash112_Stacking.mp4",
-      "url": "https://www.cgchannel.com/2026/06/check-out-the-new-features-in-ue5-world-building-tool-dash/",
-      "excerpt": "Polygonflow has released Dash 1.12 for Unreal Engine 5, adding scene-layout tools - Place in Grid, Place in Circle, and Vertical Stacking - plus scattering-toolset updates for faster world-building."
-    },
-    {
-      "category": "figma",
-      "tool": "AI Slop",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "source": "Creative Bloq",
-      "published_iso": "2026-06-29T14:28:18Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vMFFimyrwGXSaxBhw8dLz5-2560-80.jpg",
-      "url": "https://www.creativebloq.com/ai/ai-slop-has-become-a-harmful-insult-hurled-around-with-no-evidence-game-developers-claim",
-      "excerpt": "Game developers argue that 'AI slop' has become a harmful insult applied indiscriminately and without evidence, reflecting deepening tension over AI's role in creative work."
-    },
-    {
-      "category": "figma",
-      "tool": "Builder.io",
-      "accent": "#7928ca",
       "motif": "sphere",
-      "source": "Builder.io",
-      "published_iso": "2026-06-29T18:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/271665f687c94f8ea020739bd0507825?format=webp&width=800",
-      "url": "https://www.builder.io/blog/building-without-the-handoffs",
-      "excerpt": "Builder.io argues AI is changing who can build software: the fastest teams run agents inside their real systems, removing design-to-engineering handoff bottlenecks."
+      "source": "VentureBeat",
+      "published_iso": "2026-06-30T12:06:00-04:00",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1SspsnZP2DbcuyWnSv0NZE/b152191ee0294e13bfca282555bf3300/Gemini_Generated_Image_dcilhudcilhudcil.png?w=800&q=75",
+      "url": "https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations",
+      "excerpt": "Google unveiled Nano Banana 2 Lite (Gemini 3.1 Flash-Lite Image), which generates images in about 4 seconds at $0.034 per 1,000 images. It is positioned not as an artistic engine but as a high-throughput utility layer for automated design, programmatic ad, and digital-commerce workflows."
     },
     {
-      "category": "vr",
-      "tool": "Meta",
-      "accent": "#2ec5c5",
+      "category": "workflow",
+      "tool": "Gemini",
+      "accent": "#7928ca",
       "motif": "frame",
-      "source": "Road to VR",
-      "published_iso": "2026-06-30T12:22:19Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg",
-      "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
-      "excerpt": "Meta researchers report improved thought-to-text decoding, moving their brain-computer interface a step closer to silent, hands-free text input for spatial computing."
+      "source": "VentureBeat",
+      "published_iso": "2026-06-30T12:19:00-04:00",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/kLyxawwfV6DdvwExOeUaG/4a28ab530ddd0df708b2da07890419ff/Gemini_Generated_Image_dl8h1pdl8h1pdl8h.png?w=800&q=75",
+      "url": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
+      "excerpt": "Google's Gemini Omni Flash is rolling out to developers and enterprises through an API, letting creative teams generate and then edit a finished video clip through conversation. It reframes video production as an iterative, natural-language dialogue rather than a manual timeline workflow."
+    },
+    {
+      "category": "workflow",
+      "tool": "Autodesk",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "source": "Fast Company",
+      "published_iso": "2026-07-01T14:00:00+00:00",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-1-91567691-autodesk-cmo-dara-treseder-says-the-best-marketers-will-know-when-not-to-use-ai.jpg",
+      "url": "https://www.fastcompany.com/91567691/autodesk-cmo-dara-treseder-says-the-best-marketers-will-know-when-not-to-use-ai",
+      "excerpt": "Autodesk CMO Dara Treseder argues that the strongest creative and marketing teams will know when NOT to reach for AI, talking brand storytelling and keeping human judgment central as generative tools spread across design and creative work."
     }
   ]
 }
