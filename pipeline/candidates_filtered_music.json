@@ -1,91 +1,27 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "window_hours": 336,
   "items": [
     {
-      "section": "music",
+      "url": "https://musictech.com/news/music/traxsource-labels-identify-human-made-and-ai-assisted-music/",
+      "source": "MusicTech",
       "category": "music",
-      "source": "Hypebot",
-      "published_iso": "2026-06-30T07:00:00Z",
-      "title": "TIDAL Moves Streaming's AI Debate From Ethics to Economics",
-      "excerpt": "TIDAL announced that tracks determined to be primarily AI-generated will no longer be eligible to receive royalties or participate in its direct-to-fan monetization programs, effective July 15. Rather than a blanket ban, the platform draws a line between AI-assisted human creativity (still eligible) and fully AI-generated output (demonetized), shifting the industry debate from ethics to economics.",
-      "url": "https://www.hypebot.com/tidal-moves-streamings-ai-debate-from-ethics-to-economics/",
-      "og_image": null
-    },
-    {
-      "section": "music",
-      "category": "music",
-      "source": "DJ Mag",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "title": "TIDAL excludes AI-generated music from royalty payments in new policy update",
-      "excerpt": "TIDAL has updated its payment policy to exclude AI-generated music from royalty pools, with the policy taking effect on July 15. The platform will require distributors to flag AI-generated content on upload, and will remove monetization rights from tracks identified as primarily AI-generated rather than AI-assisted.",
-      "url": "https://djmag.com/news/tidal-excludes-ai-generated-music-royalty-payments-new-policy-update",
-      "og_image": null
-    },
-    {
-      "section": "music",
-      "category": "music",
-      "source": "DJ Mag",
-      "published_iso": "2026-06-23T10:00:00Z",
-      "title": "Traxsource to label music as human-made or AI-assisted across platform",
-      "excerpt": "Electronic music download store Traxsource announced it will introduce a labeling system to distinguish human-made tracks from AI-assisted ones across its catalog. The initiative gives buyers transparency about the creative process and puts pressure on other download and streaming platforms to follow suit.",
-      "url": "https://djmag.com/news/traxsource-label-music-human-made-or-ai-assisted-across-platform",
-      "og_image": null
-    },
-    {
-      "section": "music",
-      "category": "music",
-      "source": "DJ Mag",
-      "published_iso": "2026-06-24T17:26:00Z",
-      "title": "Over 21 million copyrighted songs are circulating among AI developers, watchdog tool launched",
-      "excerpt": "A new watchdog tool has identified over 21 million copyrighted songs being used in AI training datasets without license or consent. The tool, aimed at rights holders and music publishers, allows rightsholders to scan AI training corpora and flag unauthorized use of their catalog.",
-      "url": "https://djmag.com/news/over-21-million-copyrighted-songs-are-circulating-among-ai-developers-watchdog-tool-launched",
-      "og_image": null
-    },
-    {
-      "section": "music",
-      "category": "music",
-      "source": "Bedroom Producers Blog",
-      "published_iso": "2026-06-29T09:00:00Z",
-      "title": "Tracktion Releases Waveform Free 14 With AI Assistant",
-      "excerpt": "Tracktion has released Waveform Free 14, the no-cost tier of its DAW, which includes the new LLM-driven AI Assistant introduced in Waveform 14. The assistant can answer software questions, generate MIDI sequences, and analyze audio clips to suggest complementary parts, making advanced AI-assisted production tools available to bedroom producers at no cost.",
-      "url": "https://bedroomproducersblog.com/2026/06/29/waveform-free-14/",
-      "og_image": null
-    },
-    {
-      "section": "music",
-      "category": "music",
-      "source": "Attack Magazine",
-      "published_iso": "2026-06-30T10:00:00Z",
-      "title": "Yamaha Creator Pass Adds Cubase, Ableton, And New $9.99 Starter Plan",
-      "excerpt": "Yamaha's Creator Pass subscription service has expanded to include Cubase and Ableton Live alongside its existing AI-powered tools, and introduced a new $9.99 starter tier. The bundle approach signals a shift toward AI-integrated all-in-one subscription models for music creators, packaging composition tools, instruments, and AI features under one monthly fee.",
-      "url": "https://www.attackmagazine.com/news/yamaha-creator-pass-adds-cubase-ableton-and-new-9-99-starter-plan/",
-      "og_image": null
-    },
-    {
-      "section": "music",
-      "category": "music",
-      "source": "Engadget",
-      "published_iso": "2026-06-29T16:00:00Z",
-      "title": "Tidal isn't banning AI music, but it won't pay people who upload it",
-      "excerpt": "Tidal's new AI music policy stops short of an outright ban but cuts off monetization for AI-generated tracks starting July 15, while still allowing them on the platform for non-paying listeners. The nuanced stance lets the platform remain a broad catalog while protecting human artists' share of the royalty pool.",
-      "url": "https://www.engadget.com/entertainment/music/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it-204169688.html",
-      "og_image": null
-    },
-    {
-      "section": "music",
-      "category": "music",
-      "source": "Billboard",
       "published_iso": "2026-06-24T12:00:00Z",
-      "title": "YouTube's AI Training Argument Raises Concerns in the Indie Music Community",
-      "excerpt": "Google's argument that YouTube's terms of service permit AI training on user-uploaded music has alarmed independent-music advocates, who contend the broad 2019 licensing language does not constitute informed consent for generative AI. 'These terms were not written with AI training in mind,' says the Music Artists Coalition.",
-      "url": "https://www.billboard.com/pro/youtube-ai-training-argument-indie-music-community-concerns/",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2025/10/ai-music-robot-conductor-billboard-1800.jpg"
+      "og_image": "https://musictech.com/wp-content/uploads/2026/03/headphones-stock-image@2000x1500.jpg",
+      "excerpt": "Dance-music store Traxsource is rolling out labels from 1 July that distinguish human-made tracks from AI-assisted ones, so listeners can tell them apart. Co-founder Brian Tappert: \"We do not believe AI is going away... making sure the value stays where it belongs, with human-created works.\""
+    },
+    {
+      "url": "https://musictech.com/news/gear/corus-music-discovery-app/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-06-26T12:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Corus@2000x1500.jpg",
+      "excerpt": "Corus is a new social platform for music and film discovery that deliberately puts human recommendations ahead of the algorithm, pitching person-to-person taste-sharing as an alternative to AI-driven and machine-learning curation."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 8,
+    "kept": 2,
     "against_days": 5
   }
 }

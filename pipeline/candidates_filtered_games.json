@@ -1,83 +1,51 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://aftermath.site/unreal-engine-6-ai-game-developers-react-godot-fortnite/",
-      "source": "Aftermath",
+      "url": "https://kotaku.com/genai-ai-david-gaider-dragon-age-bioware-virulent-plague-2000711678",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-06-17T18:11:00Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/06/rocket.png",
-      "excerpt": "Aftermath gathers developer reactions to Epic embedding Claude, Gemini, and Codex as central to Unreal Engine 6 via MCP, finding widespread resignation and copyright worry rather than enthusiasm, especially among artists whose existing workflows are being sunset."
+      "published_iso": "2026-06-30T13:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/dragon-age-ai.jpg",
+      "excerpt": "Dragon Age lead writer David Gaider condemns generative AI in game development as a 'virulent plague,' saying BioWare's own attempts at AI dialogue were soulless and that executives keep pushing tech that isn't ready for prime time."
     },
     {
-      "url": "https://www.destructoid.com/cdpr-comments-on-ai/",
-      "source": "Destructoid",
+      "url": "https://kotaku.com/team-behind-unofficial-pc-port-of-donkey-kong-64-dunks-on-vibe-coding-rival-project-2000711416",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-06-21T00:00:00Z",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2025/06/image-2025-06-03T101157.538.jpg",
-      "excerpt": "CD Projekt Red co-CEO Michal Nowakowski says fully AI-made games are 'incoming' after meeting a startup that can ship a complete game three weeks into prototyping, but questions whether that is really the path the industry should follow."
+      "published_iso": "2026-06-29T14:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/dk64.jpg",
+      "excerpt": "The team behind an unofficial Donkey Kong 64 PC recompilation publicly dunks on a rival project for 'vibe coding' its way through development with AI assistance rather than proper reverse-engineering craft."
     },
     {
-      "url": "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fantasy-tax-incentives-and-playstation-swaps-pc-for-ai-patch-notes-57",
-      "source": "Game Developer",
+      "url": "https://kotaku.com/a-new-sonic-arg-wants-to-quietly-take-your-data-to-train-ai-and-fans-are-not-having-it-2000710485",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-06-19T00:00:00Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt32972960811f0322/6a3516fcf3c7147f42450aa4/Patch_Notes_Header.png",
-      "excerpt": "Game Developer's weekly Patch Notes column flags Sony/PlayStation's strategic pivot toward AI (swapping 'PC' for 'AI' in its messaging), alongside Rockstar's union legal setback and Final Fantasy tax incentives."
+      "published_iso": "2026-06-25T12:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/sonic-3.jpg",
+      "excerpt": "A new Sonic ARG asks players to hand over personal data that would be used to train AI models, igniting significant backlash from fans over consent and data harvesting in a beloved game franchise."
     },
     {
-      "url": "https://www.gamesradar.com/games/rpg/generative-ai-is-a-plague-says-dragon-age-vet-david-gaider-its-not-ready-for-prime-time-theres-just-a-lot-of-executives-who-really-really-want-it-to-be/",
-      "source": "GamesRadar",
-      "category": "games",
-      "published_iso": "2026-06-29T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Dragon Age narrative lead David Gaider calls generative AI a 'virulent plague' unfit for game development, arguing it is not ready for prime time and that executives pushing it onto creative teams are setting those teams up to fail."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/as-epic-games-ceo-tim-sweeney-blasts-valve-over-steam-ai-disclosures-dev-makes-those-disclosures-even-more-noticeable-and-hides-ai-aided-games-in-search-results/",
-      "source": "GamesRadar",
-      "category": "games",
-      "published_iso": "2026-06-29T00:00:00Z",
-      "og_image": null,
-      "excerpt": "As Epic CEO Tim Sweeney campaigns against Steam's mandatory AI content disclosures, a developer releases a browser plugin that does the opposite: making AI disclosures unmissable and blurring AI-assisted games out of Steam search results entirely."
-    },
-    {
-      "url": "https://www.pcgamer.com/software/ai/former-dragon-age-writer-says-ai-could-make-gamedev-frustrating-as-hell-how-are-we-going-to-train-up-the-next-generation-of-devs-if-we-eliminate-every-entry-level-task/",
+      "url": "https://www.pcgamer.com/software/ai/genshin-impact-creator-mihoyo-has-released-an-ai-companion-on-steam-an-eternal-student-cursed-to-never-obtain-her-piano-degree/",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-06-23T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Former Dragon Age writer David Gaider warns that relying on generative AI to automate entry-level game dev tasks would be 'frustrating as hell' since AI cannot reliably iterate, and asks how the next generation of developers will be trained if all junior work is eliminated."
+      "published_iso": "2026-06-22T12:00:00Z",
+      "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/22/Genshin-Impact-devs-release-AI-waifu-desktop-companion-on-Steam.jpg",
+      "excerpt": "Genshin Impact creator miHoYo quietly launched BSide: Olivia Lin on Steam, a free generative-AI desktop companion built around a piano-student character who plays uploaded MIDI files, responds to letters, and adapts conversations over time."
     },
     {
-      "url": "https://wccftech.com/finding-fun-human-work-ai-gaming-renaissance-dev/",
-      "source": "Wccftech",
+      "url": "https://www.gamesradar.com/games/the-witcher/joint-the-witcher-4-and-cd-projekt-red-ceo-says-fully-ai-generated-games-are-coming-but-he-has-some-doubts-whether-this-is-really-the-path-to-follow/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-06-23T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Developer Rich Vogel argues that 'finding the fun' remains human creative work for at least two more decades, but contends AI could nonetheless spark a new gaming renaissance by enabling faster content generation and emergent gameplay never before feasible."
-    },
-    {
-      "url": "https://wccftech.com/tim-sweeney-unreal-engine-ai-tools-accelerant-real-creators/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-06-25T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Epic CEO Tim Sweeney acknowledges that Unreal Engine's new AI integrations risk producing 'AI slop,' but argues they serve as an accelerant for genuine creators — indie and triple-A alike — who remain firmly in control of the final product."
-    },
-    {
-      "url": "https://wccftech.com/epic-games-loses-level-design-legend-sjoerd-de-jong-unreal-engine-6-ai/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-06-26T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Unreal Engine evangelist and level design legend Sjoerd de Jong leaves Epic Games after 12 years, citing the industry's pivot toward AI-driven workflows and the deprecation of Blueprints as the signal that his era has come to a close."
+      "published_iso": "2026-06-22T15:38:00Z",
+      "og_image": "",
+      "excerpt": "CD Projekt Red joint CEO Michal Nowakowski says fully AI-generated games are coming and he's seen studios prototyping them, but doubts flooding the market with AI-first titles built in weeks is a path worth following."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 9,
+    "kept": 5,
     "against_days": 5
   }
 }

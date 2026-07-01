@@ -1,10 +1,7 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "media": [
-    {"id": "latent-terrain", "type": "image", "src": "pipeline/media/latent-terrain.jpg"},
-    {"id": "waveform14", "type": "image", "src": "pipeline/media/waveform14.jpg"},
-    {"id": "tidal-ai", "type": "image", "src": "pipeline/media/tidal-ai.jpg"},
-    {"id": "berklee-summit", "type": "image", "src": "pipeline/media/berklee-summit.png"},
-    {"id": "deezer-remix", "type": "image", "src": "pipeline/media/deezer-remix.jpg"}
+    {"id": "traxsource-labels", "type": "image", "src": "pipeline/media/traxsource-labels.jpg"},
+    {"id": "corus-app", "type": "image", "src": "pipeline/media/corus-app.jpg"}
   ]
 }

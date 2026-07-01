@@ -1,15 +1,20 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "seeds": [
-    {"seed": "AI film", "expansions": ["AI generated film 2026", "AI film production news June 2026", "artificial intelligence movie making", "AI 영화 최신 뉴스 2026"]},
-    {"seed": "AI 영화", "expansions": ["AI 영화 제작 도구 2026", "인공지능 영화 제작 파이프라인", "AI 영상 생성 영화 최신", "생성형 AI 영화 워크플로"]},
-    {"seed": "AI filmmaking", "expansions": ["AI filmmaking workflow tools 2026", "AI filmmaking Hollywood studio pipeline", "indie AI filmmaking case study", "generative AI filmmaking release"]},
-    {"seed": "generative video tools", "expansions": ["Runway Gen-4 Aleph film", "OpenAI Sora 2 filmmaking", "Google Veo 3 film", "Luma Dream Machine Ray2", "Kling 3.0 video", "Adobe Firefly video", "MiniMax Hailuo cinematic"]},
-    {"seed": "AI VFX and post production", "expansions": ["AI visual effects pipeline 2026", "AI rotoscoping compositing", "AI de-aging film", "neural rendering film", "AI color grading"]},
-    {"seed": "virtual production AI", "expansions": ["AI previsualization storyboard", "AI motion capture", "Unreal Engine virtual production AI", "AI scene generation"]},
-    {"seed": "studio AI adoption", "expansions": ["Lionsgate Runway", "Netflix AI tools", "Disney AI", "studio AI partnership 2026", "filmmaker AI adoption"]},
-    {"seed": "AI short film festival", "expansions": ["AI film festival 2026", "AI generated short award", "text-to-video film", "AI film competition"]},
-    {"seed": "AI film rights and guilds", "expansions": ["actors guild AI likeness", "AI copyright Hollywood", "WGA AI screenwriting", "AI dubbing lip sync localization"]},
-    {"seed": "AI animation production", "expansions": ["Toon Boom AI", "Annecy AI 2026", "AI 2D animation pipeline", "generative AI animation studio"]}
+    {"seed": "AI filmmaking", "expansions": ["AI film production studio adoption", "Hollywood AI filmmaking tools", "AI 영화 제작", "generative AI feature film", "AI indie film pipeline"]},
+    {"seed": "generative video film", "expansions": ["Runway Gen-4 film", "OpenAI Sora 2 video film", "Google Veo 3 film", "Luma Dream Machine Ray film", "Kling AI video film", "ByteDance Seedance film", "Adobe Firefly video", "Pika film", "text-to-video filmmaking"]},
+    {"seed": "AI VFX", "expansions": ["AI visual effects post pipeline", "neural rendering VFX", "AI rotoscoping", "AI compositing", "AI matte painting", "VFX studio AI adoption"]},
+    {"seed": "virtual production AI", "expansions": ["AI virtual production LED volume", "Unreal Engine virtual production AI", "AI previsualization", "AI set extension"]},
+    {"seed": "AI de-aging and deepfake", "expansions": ["AI de-aging actors", "deepfake film likeness", "AI face replacement film", "AI digital double", "actor likeness rights AI"]},
+    {"seed": "AI storyboard previs", "expansions": ["AI storyboarding tool", "AI previsualization film", "AI concept art film", "AI shot planning"]},
+    {"seed": "AI screenwriting", "expansions": ["AI screenwriting tool", "AI script development", "AI story generation film", "generative screenplay"]},
+    {"seed": "AI color grading", "expansions": ["AI color grading DaVinci Resolve", "AI grading post production", "AI look development"]},
+    {"seed": "AI dubbing lip sync", "expansions": ["AI dubbing film", "AI lip sync localization", "AI voice dubbing movie", "AI subtitle localization film"]},
+    {"seed": "AI short film", "expansions": ["AI generated short film", "AI film festival", "Curious Refuge AI film", "AI animation short"]},
+    {"seed": "AI film restoration", "expansions": ["AI film restoration remaster", "AI upscaling archival film", "AI footage cleanup"]},
+    {"seed": "AI motion capture", "expansions": ["AI markerless motion capture", "AI performance capture", "AI animation mocap film"]},
+    {"seed": "AI animation film", "expansions": ["AI animation studio", "generative AI animation", "AI cartoon production", "Toon Boom AI", "AI anime production"]},
+    {"seed": "AI trailer", "expansions": ["AI movie trailer", "AI marketing film", "AI promo generation"]},
+    {"seed": "Hollywood AI", "expansions": ["studio AI deal", "AI film copyright lawsuit", "AI labor union film", "AI film policy regulation", "AI Korean film industry"]}
   ]
 }

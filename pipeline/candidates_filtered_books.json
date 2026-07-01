@@ -1,81 +1,27 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "window_hours": 336,
   "items": [
     {
-      "section": "books",
-      "category": "books",
-      "source": "The Bookseller",
-      "published_iso": "2026-06-24T09:00:00Z",
-      "title": "Artificial intelligence already embedded in publishing in China, Beijing International Book Fair hears",
-      "excerpt": "AI is now embedded in every stage of the editorial process in China, from subject selection to print production, the director of the Beijing International Book Fair organizing office told international journalists. A new Internet Publishing Joint Pavilion showcased AI-generated content tools and publishing workflow applications from NetEase, Tencent, and ByteDance.",
-      "url": "https://www.thebookseller.com/news/artificial-intelligence-already-embedded-in-publishing-in-china-beijing-international-book-fair-hears",
-      "og_image": null
-    },
-    {
-      "section": "books",
-      "category": "books",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-06-23T12:00:00Z",
-      "title": "Beijing International Book Fair Highlights Digital Publishing, Cross-Media Adaptations",
-      "excerpt": "The 40th Beijing International Book Fair attracted 1,700 exhibitors from 82 countries with digital publishing and AI as hot topics; a dedicated exhibition hall hosted digital players such as NetEase, Tencent, and ByteDance-owned Fanqie Novel showcasing AI-generated content tools. Cross-media IP adaptation and AI-assisted publishing workflows were the dominant themes across forums.",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html",
-      "og_image": null
-    },
-    {
-      "section": "books",
-      "category": "books",
-      "source": "The Creative Penn",
-      "published_iso": "2026-06-22T08:00:00Z",
-      "title": "Creative Satisfaction, In Person Print Book Sales, And Author Mindset With Mark Leslie Lefebvre",
-      "excerpt": "Mark Leslie Lefebvre discusses managing divisiveness in the writing community around AI, the case for and against licensing your voice clone through ElevenLabs, and how to protect your creativity when machines never sleep and the community is at one another's throats. The episode also covers why print and in-person events are making a comeback for indie authors alongside AI narration adoption.",
-      "url": "https://www.thecreativepenn.com/2026/06/22/creative-satisfaction-in-person-print-book-sales-and-author-mindset-with-mark-leslie-lefebvre/",
-      "og_image": null
-    },
-    {
-      "section": "books",
-      "category": "books",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-06-17T12:00:00Z",
-      "title": "At the AUPresses Conference, Publishers Strive for Durability and Trust",
-      "excerpt": "More than 470 university press professionals gathered in Seattle to discuss AI, scholarly rigor, and standing the test of time; sessions produced early drafts of AI standards for operations. The conference reflected how academic publishers are wrestling with AI adoption while maintaining the trust that distinguishes peer-reviewed scholarly publishing.",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100641-at-the-aupresses-conference-publishers-strive-for-durability-and-trust.html",
-      "og_image": null
-    },
-    {
-      "section": "books",
-      "category": "books",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-06-29T09:00:00Z",
-      "title": "Around the Book World: Monday, June 29th, 2026",
-      "excerpt": "Dutch publishers launched Bookpact.ai, a new opt-in platform letting publishers manage title-by-title AI licensing, set compensation terms, and monitor how books are used by AI companies—responding to growing concerns about unlicensed use of literary content for training. The roundup also covers ElevenLabs' first in-house AI-produced audiobook, The Odyssey, narrated by an officially licensed AI voice of Michael Caine.",
-      "url": "https://publishingperspectives.com/2026/06/around-the-book-world-monday-june-29th-2026/",
-      "og_image": null
-    },
-    {
-      "section": "books",
-      "category": "books",
-      "source": "The Bookseller",
-      "published_iso": "2026-06-19T09:00:00Z",
-      "title": "Mixed feelings: neurodiversity, authorship and AI",
-      "excerpt": "Machine learning tools can support neurodiverse authors with their writing, but the piece interrogates whether they should—weighing accessibility benefits against concerns about what counts as authentic human authorship. The commentary examines the complex intersection of AI writing aids, disability, and literary identity.",
       "url": "https://www.thebookseller.com/comment/mixed-feelings-neurodiversity-authorship-and-ai",
-      "og_image": null
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-06-19T00:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
+      "excerpt": "Machine-learning writing tools can scaffold drafting, structure and editing for neurodiverse authors who find the blank page a barrier - but the piece weighs whether leaning on AI risks blurring authorship and disclosure norms. A craft-and-ethics look at who AI writing assistance is really for."
     },
     {
-      "section": "books",
+      "url": "https://goodereader.com/blog/kobo-ereader-news/storygraph-integration-is-live-for-kobo-e-readers",
+      "source": "Good e-Reader",
       "category": "books",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-06-24T12:00:00Z",
-      "title": "Beijing Book Fair 2026: Going Beyond Print Books and Looking Within for New Children's Content",
-      "excerpt": "At BIBF 2026, the children's publishing segment showcased how digital publishing is now centered on audiobooks, e-learning platforms, and knowledge-based services, with AI tools supporting content creation and distribution. Publishers discussed AI-assisted editorial workflows for children's content as China's new reading-promotion regulations drive demand for both print and digital.",
-      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100691-beijing-book-fair-2026-going-beyond-print-books-and-looking-within-for-new-children-s-content.html",
-      "og_image": null
+      "published_iso": "2026-06-29T00:00:00Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/06/29193907/Rakuten_Kobo_Storygraph_feat-1.webp",
+      "excerpt": "Rakuten Kobo's native StoryGraph integration is now live across its e-readers, auto-syncing reading history and progress and plugging readers into StoryGraph's AI-driven, mood-based recommendation engine - positioned as the anti-Goodreads, anti-Amazon discovery layer for books, Kobo Plus and library loans."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 7,
+    "kept": 2,
     "against_days": 5
   }
 }

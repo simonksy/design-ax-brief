@@ -1,78 +1,38 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.cgchannel.com/2026/06/fsr-sdk-2-3-makes-fsr-4-1-upscaling-work-on-older-amd-gpus/",
+      "url": "https://www.cgchannel.com/2026/06/check-out-the-new-features-in-ue5-world-building-tool-dash/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": "",
-      "excerpt": "AMD released FSR SDK 2.3, extending its FSR 4.1 neural upscaling and AI Ray Regeneration denoiser to previous-generation RDNA 3 GPUs (Radeon RX 7000 Series), arriving ahead of the planned July timeline. Brings AI-accelerated real-time rendering to more artist workstations."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/06/adobe-releases-substance-3d-sampler-6/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Adobe shipped Substance 3D Sampler 6.0 for material authoring, adding OpenPBR support and dynamic, AI-assisted versions of its Auto Tiling and Content-Aware Fill image-to-material filters that speed up turning photos into tileable PBR textures."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=JdCWqZmOT4o",
-      "source": "DesignCourse",
-      "category": "figma",
-      "published_iso": "2026-06-29T15:52:54Z",
-      "og_image": "https://i.ytimg.com/vi/JdCWqZmOT4o/maxresdefault.jpg",
-      "excerpt": "DesignCourse walks through Figma's newly released Shaders feature, then tests whether Figma Make (Figma's AI) can implement those shaders on the web. Finding Figma Make falls short, he shows how to use AI coding tools like Claude and Cursor to actually integrate Figma shaders into production sites — an AI-assisted designer-to-code workflow shift."
-    },
-    {
-      "url": "https://www.smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
-      "source": "Smashing Magazine",
-      "category": "tokens",
       "published_iso": "2026-06-30T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility is not a feature—it is an operational capability that must be built in from the start, not audited at the end, especially as AI accelerates UI generation."
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/05/260630_Dash112_Stacking.mp4",
+      "excerpt": "Polygonflow has released Dash 1.12 for Unreal Engine 5, adding scene-layout tools - Place in Grid, Place in Circle, and Vertical Stacking - plus scattering-toolset updates for faster world-building."
     },
     {
-      "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4",
-      "source": "UX Collective",
-      "category": "tokens",
-      "published_iso": "2026-06-28T00:00:00Z",
-      "og_image": null,
-      "excerpt": "A hypertoken is a named bundle of style properties—coined by Jake Albaugh at Figma's Config 2026—that sits one level above design tokens and generates the CSS class, Figma text style, and Swift struct for iOS from a single definition, making design systems agent-readable."
-    },
-    {
-      "url": "https://www.engadget.com/2204410/google-expands-personalized-intelligence-to-gemini-app-image-creation/",
-      "source": "Engadget",
-      "category": "render",
-      "published_iso": "2026-06-29T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Google is letting Gemini reference a user's Gmail and Google Photos to generate personalised images—showing yourself in a scene or adding a family member to a template. Personalized intelligence rolls out to all eligible US users, broadening AI-assisted creative image generation."
-    },
-    {
-      "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf",
-      "source": "UX Collective",
+      "url": "https://www.creativebloq.com/ai/ai-slop-has-become-a-harmful-insult-hurled-around-with-no-evidence-game-developers-claim",
+      "source": "Creative Bloq",
       "category": "figma",
-      "published_iso": "2026-06-29T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Figma's Check designs tool compares a file against your design system and flags hard-coded values, contrast failures, and detached components. Design system drift is now a visible number on screen that everyone in a review can see—changing who feels accountable when the system is inconsistent."
+      "published_iso": "2026-06-29T14:28:18Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vMFFimyrwGXSaxBhw8dLz5-2560-80.jpg",
+      "excerpt": "Game developers argue that 'AI slop' has become a harmful insult applied indiscriminately and without evidence, reflecting deepening tension over AI's role in creative work."
     },
     {
-      "url": "https://www.builder.io/blog/claude-code-plan",
+      "url": "https://www.builder.io/blog/building-without-the-handoffs",
       "source": "Builder.io",
       "category": "figma",
-      "published_iso": "2026-06-29T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Builder.io's /visual-plan skill turns Claude Code's agent output into a scannable, structured plan that designers can review and approve before execution, and /visual-recap generates a visual summary of what the agent actually changed—bridging agentic coding and design-team oversight."
+      "published_iso": "2026-06-29T18:00:00Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/271665f687c94f8ea020739bd0507825?format=webp&width=800",
+      "excerpt": "Builder.io argues AI is changing who can build software: the fastest teams run agents inside their real systems, removing design-to-engineering handoff bottlenecks."
     },
     {
-      "url": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
-      "source": "VentureBeat",
-      "category": "workflow",
-      "published_iso": "2026-06-30T16:00:00Z",
-      "og_image": null,
-      "excerpt": "Gemini Omni Flash is now available via API, letting teams generate and edit 720p video through natural language conversation—a finished clip can be revised with a follow-up prompt at $0.10 per generated second, making internal explainer and training videos economically viable for creative teams."
+      "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-06-30T12:22:19Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg",
+      "excerpt": "Meta researchers report improved thought-to-text decoding, moving their brain-computer interface a step closer to silent, hands-free text input for spatial computing."
     }
   ]
 }

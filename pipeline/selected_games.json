@@ -1,61 +1,50 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "selection_mode": "user",
   "picks": [
     {
       "category": "games",
-      "tool": "Nvidia",
+      "tool": "BioWare",
       "accent": "#7928ca",
       "motif": "cube",
       "source": "Kotaku",
-      "published_iso": "2026-06-23T00:00:00Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/06/artfixer3.jpg",
-      "url": "https://kotaku.com/nvidia-art-fixer-ai-gaussian-splatting-hallucination-ram-prices-2000709422",
-      "excerpt": "Nvidia's new ArtFixer tool uses AI to fill gaps and clean up errors in 3D Gaussian Splatting reconstructions for game scenes, treating hallucinations as a feature, though it comes with steep RAM and environmental costs."
+      "published_iso": "2026-06-30T13:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/dragon-age-ai.jpg",
+      "url": "https://kotaku.com/genai-ai-david-gaider-dragon-age-bioware-virulent-plague-2000711678",
+      "excerpt": "Dragon Age lead writer David Gaider condemns generative AI in game development as a 'virulent plague,' saying BioWare's own attempts at AI dialogue were soulless and that executives keep pushing tech that isn't ready for prime time."
     },
     {
       "category": "games",
-      "tool": "METI",
+      "tool": "DK64",
       "accent": "#ff2d55",
       "motif": "cube",
       "source": "Kotaku",
-      "published_iso": "2026-06-25T00:00:00Z",
-      "og_image": "https://kotaku.com/app/uploads/2021/06/a347dafccbe3bb8b7d90e405c57ab8c4.jpg",
-      "url": "https://kotaku.com/japanese-anime-manga-and-gaming-publishers-are-reportedly-being-paid-70-million-to-encourage-ai-generated-translations-2000710488",
-      "excerpt": "Japan's Ministry of Economy, Trade and Industry is reportedly offering roughly $70 million in subsidies to anime, manga, and gaming publishers to adopt AI-generated translations and accelerate localization into foreign markets."
+      "published_iso": "2026-06-29T14:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/dk64.jpg",
+      "url": "https://kotaku.com/team-behind-unofficial-pc-port-of-donkey-kong-64-dunks-on-vibe-coding-rival-project-2000711416",
+      "excerpt": "The team behind an unofficial Donkey Kong 64 PC recompilation publicly dunks on a rival project for 'vibe coding' its way through development with AI assistance rather than proper reverse-engineering craft."
     },
     {
       "category": "games",
-      "tool": "Unreal Engine 6",
+      "tool": "Sonic",
       "accent": "#f5a623",
       "motif": "cube",
-      "source": "Game Developer",
-      "published_iso": "2026-06-17T00:00:00Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd89a8ab949bf0c83/6a32ead8f3c7146aef45048b/unrealengine6logo.jpg",
-      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-and-uefn-into-a-single-unified-engine-",
-      "excerpt": "Epic announced Unreal Engine 6 will merge UE5 and the Fortnite editor (UEFN) into a single unified engine, shift toward the Verse language, and put LLMs and generative AI models (Claude, Codex) at the center of content creation while keeping developers in control."
+      "source": "Kotaku",
+      "published_iso": "2026-06-25T12:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/sonic-3.jpg",
+      "url": "https://kotaku.com/a-new-sonic-arg-wants-to-quietly-take-your-data-to-train-ai-and-fans-are-not-having-it-2000710485",
+      "excerpt": "A new Sonic ARG asks players to hand over personal data that would be used to train AI models, igniting significant backlash from fans over consent and data harvesting in a beloved game franchise."
     },
     {
       "category": "games",
-      "tool": "Palworld",
+      "tool": "miHoYo",
       "accent": "#0070f3",
       "motif": "cube",
-      "source": "Gamingbolt",
-      "published_iso": "2026-06-18T00:00:00Z",
-      "og_image": null,
-      "url": "https://gamingbolt.com/palworld-developer-doesnt-use-generative-ai-because-gamers-dont-want-it",
-      "excerpt": "Pocketpair's head of communications says the Palworld studio deliberately avoids generative AI because players reject it and its in-house artists prefer crafting assets themselves, calling the industry's push toward AI-generated content unsustainable."
-    },
-    {
-      "category": "games",
-      "tool": "Steam",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "source": "The Gamer",
-      "published_iso": "2026-06-18T07:05:00Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/06/p-body-from-portal-2-running-on-top-of-the-steam-logo.jpg",
-      "url": "https://www.thegamer.com/steam-next-fest-ai-disclaimers/",
-      "excerpt": "With nearly one in five of the 8,600 June 2026 Steam Next Fest demos carrying Valve's AI Content Disclosed tag, players are pressing Valve for clearer cover-art indicators and a toggleable filter, arguing the current footnote disclosure is useless for rapid browsing."
+      "source": "PC Gamer",
+      "published_iso": "2026-06-22T12:00:00Z",
+      "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/22/Genshin-Impact-devs-release-AI-waifu-desktop-companion-on-Steam.jpg",
+      "url": "https://www.pcgamer.com/software/ai/genshin-impact-creator-mihoyo-has-released-an-ai-companion-on-steam-an-eternal-student-cursed-to-never-obtain-her-piano-degree/",
+      "excerpt": "Genshin Impact creator miHoYo quietly launched BSide: Olivia Lin on Steam, a free generative-AI desktop companion built around a piano-student character who plays uploaded MIDI files, responds to letters, and adapts conversations over time."
     }
   ]
 }

@@ -1,39 +1,50 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "selection_mode": "user",
   "picks": [
     {
       "category": "render",
-      "tool": "AMD",
+      "tool": "Polygonflow",
       "accent": "#f5a623",
-      "motif": "sphere",
-      "source": "CG Channel",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": "",
-      "url": "https://www.cgchannel.com/2026/06/fsr-sdk-2-3-makes-fsr-4-1-upscaling-work-on-older-amd-gpus/",
-      "excerpt": "AMD released FSR SDK 2.3, extending its FSR 4.1 neural upscaling and AI Ray Regeneration denoiser to previous-generation RDNA 3 GPUs (Radeon RX 7000 Series), arriving ahead of the planned July timeline. Brings AI-accelerated real-time rendering to more artist workstations."
-    },
-    {
-      "category": "render",
-      "tool": "Adobe",
-      "accent": "#ff2d55",
       "motif": "cube",
       "source": "CG Channel",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": "",
-      "url": "https://www.cgchannel.com/2026/06/adobe-releases-substance-3d-sampler-6/",
-      "excerpt": "Adobe shipped Substance 3D Sampler 6.0 for material authoring, adding OpenPBR support and dynamic, AI-assisted versions of its Auto Tiling and Content-Aware Fill image-to-material filters that speed up turning photos into tileable PBR textures."
+      "published_iso": "2026-06-30T00:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/05/260630_Dash112_Stacking.mp4",
+      "url": "https://www.cgchannel.com/2026/06/check-out-the-new-features-in-ue5-world-building-tool-dash/",
+      "excerpt": "Polygonflow has released Dash 1.12 for Unreal Engine 5, adding scene-layout tools - Place in Grid, Place in Circle, and Vertical Stacking - plus scattering-toolset updates for faster world-building."
     },
     {
       "category": "figma",
-      "tool": "Figma",
-      "accent": "#7928ca",
+      "tool": "AI Slop",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "source": "DesignCourse",
-      "published_iso": "2026-06-29T15:52:54Z",
-      "og_image": "https://i.ytimg.com/vi/JdCWqZmOT4o/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JdCWqZmOT4o",
-      "excerpt": "DesignCourse walks through Figma's newly released Shaders feature, then tests whether Figma Make (Figma's AI) can implement those shaders on the web. Finding Figma Make falls short, he shows how to use AI coding tools like Claude and Cursor to actually integrate Figma shaders into production sites — an AI-assisted designer-to-code workflow shift."
+      "source": "Creative Bloq",
+      "published_iso": "2026-06-29T14:28:18Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vMFFimyrwGXSaxBhw8dLz5-2560-80.jpg",
+      "url": "https://www.creativebloq.com/ai/ai-slop-has-become-a-harmful-insult-hurled-around-with-no-evidence-game-developers-claim",
+      "excerpt": "Game developers argue that 'AI slop' has become a harmful insult applied indiscriminately and without evidence, reflecting deepening tension over AI's role in creative work."
+    },
+    {
+      "category": "figma",
+      "tool": "Builder.io",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "source": "Builder.io",
+      "published_iso": "2026-06-29T18:00:00Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/271665f687c94f8ea020739bd0507825?format=webp&width=800",
+      "url": "https://www.builder.io/blog/building-without-the-handoffs",
+      "excerpt": "Builder.io argues AI is changing who can build software: the fastest teams run agents inside their real systems, removing design-to-engineering handoff bottlenecks."
+    },
+    {
+      "category": "vr",
+      "tool": "Meta",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "source": "Road to VR",
+      "published_iso": "2026-06-30T12:22:19Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg",
+      "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
+      "excerpt": "Meta researchers report improved thought-to-text decoding, moving their brain-computer interface a step closer to silent, hands-free text input for spatial computing."
     }
   ]
 }

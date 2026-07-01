@@ -1,9 +1,7 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "media": [
-    {"id": "storeel-canvas", "type": "image", "src": "pipeline/media/storeel-canvas.jpg"},
-    {"id": "annecy2026", "type": "image", "src": "pipeline/media/annecy2026.jpg"},
-    {"id": "no-fakes-act", "type": "image", "src": "pipeline/media/no-fakes-act.jpg"},
-    {"id": "seedance25", "type": "image", "src": "pipeline/media/seedance25.png"}
+    { "id": "aiarty-enhancer", "type": "image", "src": "pipeline/media/aiarty-enhancer.jpg" },
+    { "id": "adobe-topaz", "type": "image", "src": "pipeline/media/adobe-topaz.jpg" }
   ]
 }

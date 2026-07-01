@@ -1,81 +1,30 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "seeds": [
-    {
-      "seed": "AI writing",
-      "expansions": [
-        "AI co-writing tool authors",
-        "Sudowrite NovelAI writing app",
-        "AI ghostwriting fiction",
-        "AI manuscript drafting tool",
-        "generative AI authoring software"
-      ]
-    },
-    {
-      "seed": "AI publishing",
-      "expansions": [
-        "publisher AI adoption strategy",
-        "AI in book editing workflow",
-        "AI book cover design publishing",
-        "AI self-publishing KDP Amazon",
-        "publishing industry AI policy"
-      ]
-    },
-    {
-      "seed": "AI 출판",
-      "expansions": [
-        "AI 책 번역 출판",
-        "AI 오디오북 내레이션",
-        "AI 전자책 도구",
-        "출판사 AI 도입"
-      ]
-    },
-    {
-      "seed": "AI audiobook narration",
-      "expansions": [
-        "ElevenLabs audiobook narration",
-        "Audible AI narrated audiobooks",
-        "AI voice cloning author audiobook",
-        "Spotify Storytel AI narration",
-        "synthetic voice audiobook publishing"
-      ]
-    },
-    {
-      "seed": "AI literary translation",
-      "expansions": [
-        "AI translation publishing books",
-        "machine translation literature publisher",
-        "AI translated fiction rights",
-        "DeepL AI book translation"
-      ]
-    },
-    {
-      "seed": "AI copyright authors",
-      "expansions": [
-        "author AI licensing deal",
-        "AI training data books lawsuit",
-        "Authors Guild AI",
-        "publisher AI licensing copyright",
-        "AI book piracy training"
-      ]
-    },
-    {
-      "seed": "library AI",
-      "expansions": [
-        "libraries AI tools adoption",
-        "academic library AI",
-        "AI reading assistant ebooks",
-        "AI book recommendation discovery"
-      ]
-    },
-    {
-      "seed": "AI ebook tools",
-      "expansions": [
-        "AI children's book generation",
-        "AI comic manga generation",
-        "AI book marketing tools",
-        "AI book summarization app"
-      ]
-    }
+    {"seed": "AI writing", "expansions": ["AI co-writing fiction", "AI ghostwriting", "AI authoring tools", "AI manuscript drafting", "AI writing craft authors"]},
+    {"seed": "AI 출판", "expansions": ["AI 출판 도입", "AI 출판사 라이선싱", "AI 전자책 제작", "AI 번역 출판", "한국 출판 AI"]},
+    {"seed": "AI publishing", "expansions": ["publisher AI adoption", "publishing house AI strategy", "AI in editorial workflow", "AI publishing licensing deal", "scholarly publishing AI"]},
+    {"seed": "AI co-writing", "expansions": ["AI co-author novel", "Sudowrite collaboration", "AI assisted novel", "human-AI writing"]},
+    {"seed": "AI book cover", "expansions": ["AI generated cover art", "AI cover design controversy", "publisher AI artwork"]},
+    {"seed": "AI audiobook narration", "expansions": ["AI narrated audiobook", "Audible AI narration", "ElevenLabs audiobook", "AI voice actor audiobook", "synthetic voice narration", "Spotify AI audiobook"]},
+    {"seed": "AI literary translation", "expansions": ["AI translation publishing", "machine translation literature", "AI translated novel", "publisher AI translation deal"]},
+    {"seed": "generative fiction", "expansions": ["AI generated novel", "AI fiction flood", "AI slush pile", "AI submissions magazine"]},
+    {"seed": "AI ghostwriting", "expansions": ["AI ghostwriter", "AI authored bestseller"]},
+    {"seed": "AI ebook tools", "expansions": ["AI ebook creation", "Kindle AI tools", "AI formatting books"]},
+    {"seed": "AI editing proofreading", "expansions": ["AI copyediting", "AI editorial tool", "AI proofreader publishing"]},
+    {"seed": "Sudowrite", "expansions": ["Sudowrite update", "AI fiction writing app"]},
+    {"seed": "AI self-publishing", "expansions": ["indie author AI", "self-publishing AI tools", "AI author income"]},
+    {"seed": "KDP AI", "expansions": ["Amazon KDP AI policy", "Kindle Direct Publishing AI disclosure", "Amazon AI books"]},
+    {"seed": "AI narration voices", "expansions": ["AI voice library audiobook", "synthetic narrator", "celebrity AI voice book"]},
+    {"seed": "AI book marketing", "expansions": ["AI book promotion", "AI metadata books", "AI book discovery"]},
+    {"seed": "AI book summarization", "expansions": ["AI book summary app", "AI reading summary", "Blinkist AI"]},
+    {"seed": "AI reading assistant", "expansions": ["AI reading companion", "Gemini book reading", "AI ereader features", "Kobo AI"]},
+    {"seed": "AI poetry", "expansions": ["AI generated poetry", "AI poet controversy"]},
+    {"seed": "AI children's book", "expansions": ["AI kids book", "children's authors anti-AI", "AI illustration children's book"]},
+    {"seed": "AI manuscript", "expansions": ["AI manuscript submission", "agent AI manuscript", "AI slush"]},
+    {"seed": "AI comic manga", "expansions": ["AI manga translation", "AI webtoon", "AI comic art", "manga AI publisher"]},
+    {"seed": "AI textbook", "expansions": ["AI educational publishing", "AI textbook generation", "academic AI"]},
+    {"seed": "AI copyright authors", "expansions": ["authors AI lawsuit", "AI training copyright books", "collective licensing AI", "Authors Guild AI", "AI book copyright settlement"]},
+    {"seed": "AI book recommendation", "expansions": ["AI book discovery engine", "Goodreads AI", "AI personalized reading"]}
   ]
 }
