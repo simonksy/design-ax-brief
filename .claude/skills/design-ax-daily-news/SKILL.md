@@ -85,6 +85,13 @@ For EACH selected section S (default order design, music, movies, games, books):
 After ALL sections are rolled:
 9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js --share-root . --base-url https://axitdesign.simonksy.workers.dev` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design) AND regenerates per-card OG share pages under `s/<section>/<id>.html` (so pasted card links unfurl with the card image + headline, then redirect into the app at `/?c=<section>:<id>`). `node --check axbrief-data.js`; restore the per-run backup on failure. Keep card thumbnails as jpg/png (not webp) so previews render on all platforms.
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
+11. **commit + deploy.** Commit the run to `main` and `git push origin main`, THEN run
+    **`bash pipeline/deploy.sh`**. ⚠️ Pushing `main` alone does NOT deploy: Cloudflare
+    Workers Builds ships the site from the **`cloudflare/workers-autoconfig`** branch
+    (it holds `wrangler.jsonc`), not `main`. `deploy.sh` merges `main` into that deploy
+    branch and pushes it, which triggers the Cloudflare build. Then verify production
+    reflects a today card id (`curl -s https://axitdesign.simonksy.workers.dev/axbrief-data.js | grep -c <id>`)
+    and that a share page serves (`/s/<section>/<id>` → 200) within ~30–120s.
 
 Korean voice (humanize-korean — REQUIRED): every Korean string published — card
 `headline`/`body` and every `full` paragraph — must be run through the
