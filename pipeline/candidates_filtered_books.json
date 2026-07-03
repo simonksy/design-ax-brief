@@ -1,0 +1,55 @@
+{
+  "section": "books",
+  "items": [
+    {
+      "section": "books",
+      "category": "books",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "headline": "Beijing 2026 Book Fair Focuses on Publishing Transformation, AI, and the Future of Reading",
+      "excerpt": "The 2026 Beijing International Book Fair centered on AI's transformation of publishing — from AI-assisted editing and rights trading to AI-powered reader personalization — with Chinese publishers showcasing aggressive AI integration across the production chain. Western delegates noted the speed gap and debated whether opt-in licensing frameworks can keep pace.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html"
+    },
+    {
+      "section": "books",
+      "category": "books",
+      "source": "The Bookseller",
+      "published_iso": "2026-06-22T00:00:00Z",
+      "headline": "AI Already Embedded in Publishing in China, Beijing International Book Fair Hears",
+      "excerpt": "The Beijing International Book Fair heard first-hand accounts of AI being deeply embedded across China's publishing industry — in translation, editing, rights management, and customer personalization — while Western publishers remained in cautious pilot mode. The contrast opened a frank debate about competitive disadvantage for traditional publishers.",
+      "url": "https://www.thebookseller.com/news/artificial-intelligence-already-embedded-in-publishing-in-china-beijing-international-book-fair-hears"
+    },
+    {
+      "section": "books",
+      "category": "books",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-06-20T00:00:00Z",
+      "headline": "Plutonium or Salt? When It Comes to Books, How Much AI Is Too Much?",
+      "excerpt": "Publishing Perspectives asks where publishers draw the line on AI integration — whether AI functions as a trace element that enhances the human process or a contaminant that transforms what a book fundamentally is. Editors, agents, and authors share their personal thresholds in a candid industry survey.",
+      "url": "https://publishingperspectives.com/2026/06/plutonium-or-salt-when-it-comes-to-books-how-much-ai-is-too-much/"
+    },
+    {
+      "section": "books",
+      "category": "books",
+      "source": "Jane Friedman",
+      "published_iso": "2026-07-01T00:00:00Z",
+      "headline": "Links of Interest: AI and Publishing — What Writers Need to Know This Week (July 1, 2026)",
+      "excerpt": "Jane Friedman's weekly curated roundup covers the most important AI and publishing developments for working writers — from new disclosure policies and contract clauses to avoid, to the emerging market for human-verified creative work. A practical primer for navigating AI's accelerating impact on the writing and publishing business.",
+      "url": "https://www.janefriedman.com/links-of-interest-july-1-2026/"
+    },
+    {
+      "section": "books",
+      "category": "books",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-06-19T00:00:00Z",
+      "headline": "Authors Guild Speaks Out on Publisher AI Use",
+      "excerpt": "The Authors Guild has issued a formal statement criticizing publishers for adopting AI tools that affect authors' work without transparency or meaningful consent, demanding clearer contract protections and revenue-sharing arrangements for AI-assisted projects. The statement follows reports that major publishers are deploying AI quietly in editorial, marketing, and rights processes.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100211-authors-guild-speaks-out-on-publisher-ai-use.html"
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 5,
+    "against_days": 5
+  }
+}
