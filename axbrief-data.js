@@ -5245,6 +5245,251 @@
         ]
       }
     ]
+  },
+  "gadgets": {
+    "label": "Gadgets",
+    "news": [
+      {
+        "id": "meta-fury-glasses",
+        "eyebrow": "AI NEWS",
+        "headline": "메타 퓨리 AI 안경 리뷰,\n최악의 회사가 만든 최고의 안경",
+        "body": "Muse Spark AI를 얹은 299달러 퓨리가 역대 최고 스마트 안경이라는 평을 받았다.",
+        "tool": "Meta",
+        "source": "Gizmodo",
+        "url": "https://gizmodo.com/meta-fury-ai-glasses-review-the-worst-company-still-makes-the-best-smart-glasses-2000777827",
+        "accent": "#ff5a4d",
+        "motif": "headset",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "메타가 자체 브랜드를 달고 내놓은 첫 스마트 안경, 299달러짜리 퓨리다. 레이밴 메타 2세대(379달러)보다 저렴한데, 기즈모도 리뷰어의 총평이 재밌다. '내가 아는 최악의 사람이 방금 훌륭한 지적을 했다'는 기분을 얼굴에 걸치고 다니는 물건이라는 것."
+            },
+            {
+              "t": "img",
+              "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-04.jpg"
+            },
+            {
+              "t": "p",
+              "x": "하드웨어는 흠잡을 데가 많지 않다. 12MP 카메라로 최대 3K 영상을 찍고, 배터리는 8시간까지 간다. 레이밴보다 크고 각진 디자인에 반투명 '레이싱 그린' 색상이 눈에 띈다. 코받침은 소·중·대 세 가지, 안경다리 끝은 구부려 조일 수 있고 넓은 얼굴을 위한 힌지도 달았다. 오른쪽 다리 위에는 원하는 기능을 지정할 수 있는 액션 버튼, 충전 케이스는 납작하게 접히도록 새로 설계됐다."
+            },
+            {
+              "t": "img",
+              "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-13.jpg"
+            },
+            {
+              "t": "p",
+              "x": "AI는 Llama 4에서 업그레이드된 Muse Spark 모델이 맡는다. 응답이 눈에 띄게 매끄럽고 실제로 쓸모 있어졌다는 평가다. 컴퓨터 비전에 Spotify·Google 캘린더·Apple 건강·Gmail 연동, 하이퍼랩스와 슬로모션, 자동 촬영, 시각장애인을 돕는 'Be My Eyes' 기능까지 들어갔다."
+            },
+            {
+              "t": "img",
+              "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-09.jpg"
+            },
+            {
+              "t": "p",
+              "x": "문제는 메타라는 회사 자체다. 리뷰는 AI 학습에 영상을 무단으로 쓴 이력, 얼굴 인식 기능 도입 가능성, 공공장소 촬영을 둘러싼 우려를 길게 짚는다. 별점은 5점 만점에 3.5점. '이 모든 찝찝함과 감시 디스토피아에도, 최악에 가까운 빅테크가 여전히 돈 주고 살 수 있는 최고의 스마트 안경을 만든다'는 결론과 함께, 좋은 하드웨어가 프라이버시 지뢰밭을 감수할 가치가 있느냐는 질문을 독자에게 남긴다."
+            },
+            {
+              "t": "img",
+              "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-03.jpg"
+            }
+          ]
+        },
+        "image": "pipeline/media/meta-fury-glasses.jpg"
+      },
+      {
+        "id": "gmktec-ai-tower",
+        "eyebrow": "AI NEWS",
+        "headline": "3,600달러 타워로 돌아온\nGMKtec 로컬 AI PC",
+        "body": "128GB 메모리로 2,350억 파라미터 모델을 클라우드 없이 통째로 돌린다.",
+        "tool": "GMKtec",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/gmktecs-new-usd3-600-mini-pc-recycles-ryzen-ai-max-395-cpu-adds-proprietary-openclaw-agent-and-towering-skyscraper-design",
+        "accent": "#0070f3",
+        "motif": "headset",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "GMKtec이 AMD Ryzen AI Max+ 395 '스트릭스 헤일로' 프로세서를 얹은 AI 미니 PC 워크스테이션 EVO-X3를 공개했다. 칩은 전작 EVO-X2와 같다. AMD CEO 리사 수가 직접 서명하며 인정을 표했던 바로 그 실리콘이다. 대신 섀시를 통째로 뜯어고쳤다. 미니 PC 하면 떠오르는 납작한 사각 박스를 아예 버린 것."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.mos.cms.futurecdn.net/zAfCQqJs5qpfgQUi8hFrMX.png"
+            },
+            {
+              "t": "p",
+              "x": "EVO-X3는 팬 세 개를 단 길쭉한 타워형이다. 통상적인 미니 PC보다 강판을 두른 그래픽카드에 가까운 인상인데, 높이는 늘었어도 바닥 면적은 세워 둔 PS4 수준으로 컴팩트하다. 지속적인 전문 워크로드에서 성능·효율·발열 안정성의 균형을 잡기 위한 재설계라는 설명이다. 전작은 싸구려 느낌의 케이스, 까다로운 내부 접근, 부하 시 팬 소음으로 줄곧 지적받았다. 이번 변화가 그 문제를 실제로 해결했는지는 지켜봐야 한다."
+            },
+            {
+              "t": "p",
+              "x": "더 새로운 Ryzen AI Max+ 495 대신 395를 고른 건 마니아들의 기대를 저버린 선택이었다. 그래도 CPU·GPU에 50 TOPS급 NPU를 묶은 이 칩은 마이크로소프트 Copilot+ 기준선인 40 TOPS를 여유 있게 넘는다. 저장 용량은 2TB와 4TB 두 가지, 메모리는 둘 다 128GB LPDDR5X-8000. M.2 2280 PCIe Gen4x4 슬롯 두 개로 스토리지를 최대 8TB까지 늘릴 수 있다. 자체 OpenClaw AI 에이전트 도구도 기본 탑재된다. 원클릭 설정과 상시 가동 에이전트를 위한 로컬 추론 툴킷인데, 128GB 구성이면 최대 2,350억 파라미터 모델을 전부 기기 안에서 돌릴 수 있다는 주장이다. 클라우드를 안 거치니 토큰당 요금도, 기기 밖으로 나가는 데이터도 없다."
+            },
+            {
+              "t": "p",
+              "x": "사전 판매가는 128GB·2TB 구성이 3,600달러, 4TB는 3,849달러다. 둘 다 할인된 초기 가격이라는 단서가 붙었다. 6월 22일 열린 얼리 액세스 등록은 20달러를 더 깎아주고, 글로벌 출시와 배송은 7월 6일로 잡혔다. 전작 EVO-X2가 64GB 메모리에 1TB로 1,999달러였으니 사양 증가를 감안해도 인상 폭이 상당하다. 2024년 말 900달러 안팎의 EVO-X1(Ryzen AI 9 HX 370)에서 출발한 라인업이 2년 만에 값이 네 배 가까이, 300%가량 뛴 셈이다. 같은 128GB 한도의 스트릭스 헤일로 기기인 MINIX ER939-AI Pro, ONEXStation과 직접 경쟁하게 된다."
+            }
+          ]
+        },
+        "image": "pipeline/media/gmktec-ai-tower.png"
+      },
+      {
+        "id": "ubtech-uworld",
+        "eyebrow": "AI NEWS",
+        "headline": "감정 읽는 동거 로봇,\nUBTech Uworld U1 공개",
+        "body": "20가지 넘는 감정을 90% 정확도로 읽는 동반자 전용 LLM을 탑재했다.",
+        "tool": "UBTech",
+        "source": "Digital Trends",
+        "url": "https://www.digitaltrends.com/cool-tech/chinas-ubtech-unveils-eerily-lifelike-companion-robots-and-yes-they-want-to-move-in-with-you/",
+        "accent": "#7928ca",
+        "motif": "headset",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "집에 들어와 살면서 습관을 익히고, 묻지 않아도 기분을 알아채는 휴머노이드 로봇. 더는 SF 속 이야기가 아니다. 선전에 본사를 둔 UBTech Robotics가 이번 주 Uworld U1 시리즈를 공개했다. 공장 노동도 집안일도 아닌 '동반'을 위해 만든 로봇 세 종이다."
+            },
+            {
+              "t": "p",
+              "x": "라인업은 반신형 U1 Lite, 전신형 U1 Pro, 고성능 U1 Ultra로 짜였고 가격은 11만 9,800위안(약 1만 7,650달러)부터다. 각 모델은 88 자유도와 이중 회전축의 생체모방 경추를 갖춰 기본적인 인간 동작의 최대 90%를 재현한다는 게 회사 설명. 표정과 입 모양은 빠르면 20밀리초 만에 음성과 동기화돼 대화가 꽤 자연스럽게 느껴진다. '빠른 뇌-느린 뇌' 구조 덕에 복잡한 연산은 뒤에서 돌리면서도 응답은 0.5초 안팎에 나온다."
+            },
+            {
+              "t": "img",
+              "src": "https://www.digitaltrends.com/tachyon/2026/07/UBTech-Uworld-U1-series-robot-launch-image-2.jpg?resize=1200%2C720"
+            },
+            {
+              "t": "p",
+              "x": "가장 큰 세일즈 포인트는 감정 지능이다. UBTech는 U1 시리즈가 '장기적 정서 동반을 위해 설계된 세계 최초의 대규모 언어모델'로 구동된다고 주장한다. 20가지가 넘는 감정 상태를 90% 정확도로 식별하고, 온보드 메모리 플랫폼 Agent Memory OS가 사람과 취향, 집안의 일상을 오래 기억한다. 웨이크 워드 없이 맥락을 보고 먼저 말을 건네기도 한다."
+            },
+            {
+              "t": "p",
+              "x": "UBTech는 U1 시리즈를 외로움과 사회적 고립에 대한 응답으로 내세운다. 중국의 1인 가구 성인 9,000만 명 이상, '빈 둥지' 노인 1억 1,800만 명이 그 근거다. 새로 시작한 '인간-로봇 동반 이니셔티브'의 일환으로 올해 부모와 떨어져 지내는 아이들, 홀로 사는 노인, 어려운 처지의 가정에 맞춤형 U1을 기증할 계획이다."
+            },
+            {
+              "t": "img",
+              "src": "https://www.digitaltrends.com/tachyon/2026/07/UBTech-Uworld-U1-series-robot-launch-image-1.jpg?resize=2000%2C1200"
+            },
+            {
+              "t": "p",
+              "x": "이 맞춤형 기기가 개념을 훨씬 불편한 영역으로 끌고 간다. 3D 얼굴 복원과 성문 복제 기술로 특정인의 외모와 목소리를 그대로 재현한다는 것이다. 장기 기억과 감정 특화 AI를 결합해 개인화된 정서적 지지를 주는 게 목표이며, 사용자 데이터는 로컬 처리를 우선하고 클라우드 의존을 최소화하는 프라이버시 체계로 보호한다고 한다. 그래도 사라진 부모나 곁에 없는 배우자, 세상을 떠난 가족을 흉내 내는 휴머노이드라는 발상은 소비자 가전이라기보다 SF 드라마의 불편한 에피소드에 가깝다."
+            }
+          ]
+        },
+        "image": "pipeline/media/ubtech-uworld.jpg"
+      },
+      {
+        "id": "unpacked-2026-preview",
+        "eyebrow": "AI NEWS",
+        "headline": "폴더블 셋에 스마트 안경까지,\n갤럭시 언팩 2026 미리보기",
+        "body": "폴더블 세 종에 Intelligent Eyewear 세부 사항까지 공개될 전망이다.",
+        "tool": "Samsung",
+        "source": "Tom's Guide",
+        "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-unpacked-2026-preview-galaxy-z-fold-8-z-flip-8-intelligent-eyewear-and-more",
+        "accent": "#3b6bff",
+        "motif": "headset",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "삼성의 여름 언팩이 다가온다. 공식 발표는 아직이지만 7월 22일 런던 개최설이 유력하다. 올해가 특별한 건 폴더블이 늘 나오던 두 종이 아니라 세 종이라서다. 화면이 더 넓은 아이폰 울트라 출시에 맞서 삼성도 와이드형 폴더블을 준비 중이라는 소문이다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.mos.cms.futurecdn.net/8Q6VDcoVt3UQUCEnH6ZWoW.jpg"
+            },
+            {
+              "t": "p",
+              "x": "이름 체계부터 바뀐다. '갤럭시 Z 폴드 와이드'로 불리던 신형이 표준 갤럭시 Z 폴드 8 이름을 가져간다. 렌더링상 기존 폴드보다 짧고 넓은 형태로, 내부 7.8인치·커버 5.4인치 화면에 후면 카메라 두 개, 스냅드래곤 8 엘리트 5세대, 4,800mAh 배터리가 거론된다. 폴드 7의 정통 후속작은 갤럭시 Z 폴드 8 울트라로 승격된다. 주름 없는 디스플레이에 근접할 수 있다는 게 최대 관전 포인트. 8인치 메인·6.5인치 커버 화면에 무게는 15g 가벼워지고, 메인 카메라가 50MP에서 200MP로 뛴다는 루머다. 배터리는 5,000mAh, 충전은 25W에서 45W로 오른다. 다만 램 공급난 탓에 256GB 기본형이 2,199달러가 될 수 있다는 가격 소문도 돈다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.mos.cms.futurecdn.net/QKQzWNhR8MQrybWC3YGXhS.jpg"
+            },
+            {
+              "t": "p",
+              "x": "갤럭시 Z 플립 8은 이번에도 점진적 개선에 그칠 전망이다. 6.9인치 폴더블 화면에 4.1인치 커버 디스플레이, 칩은 2nm 엑시노스 2600이 유력하다. 플립 시리즈가 정리될 수 있다는 보도도 있어 한동안 마지막 삼성 플립폰이 될지 모른다. 시계 쪽에서는 갤럭시 워치 9과 워치 울트라 2가 나온다. 엑시노스 1 시리즈 대신 퀄컴 스냅드래곤 웨어 엘리트 칩을 채택했다는 보도가 있고, 5G 지원과 심박·수면·심방세동 추적 정확도를 높인 건강 센서도 점쳐진다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.mos.cms.futurecdn.net/LzjikHeVFkwLBqvCgTDAyW.jpg"
+            },
+            {
+              "t": "p",
+              "x": "그리고 Intelligent Eyewear. 지난 5월 구글 I/O에서 카메라와 AI를 갖춘 디자이너 안경으로 잠깐 모습을 드러냈지만 세부 정보는 거의 없었다. 구글과 Android XR 기반으로 협업하는 이 Gemini 탑재 안경의 가격과 출시 시점, 스펙, 추가 브랜드 협업이 이번 언팩에서 공개될지가 관심사다. 주인공은 단연 새 폴더블이겠지만, 삼성이 그날 어떤 카드를 더 꺼낼지는 두고 볼 일이다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.mos.cms.futurecdn.net/v2/t:777,l:0,cw:5712,ch:3213,q:80/cPAuWECKeoefhrNnuupYnU.jpg"
+            }
+          ]
+        },
+        "image": "pipeline/media/unpacked-2026-preview.jpg"
+      },
+      {
+        "id": "google-home-speaker",
+        "eyebrow": "AI NEWS",
+        "headline": "99달러 구글 홈 스피커,\n향후 5년 Gemini의 플랫폼",
+        "body": "온보드 ML 칩이 흔한 명령을 기기에서 바로 처리해 응답이 한층 빨라졌다.",
+        "tool": "Google",
+        "source": "9to5Google",
+        "url": "https://9to5google.com/2026/06/24/google-home-speaker-review-talk-gemini-to-me-video/",
+        "accent": "#2ec5c5",
+        "motif": "headset",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "video",
+              "yt": "e1pNTuJImI8"
+            },
+            {
+              "t": "p",
+              "x": "전용 스피커가 마지막으로 나온 지 5년 만에 구글 홈 스피커가 왔다. 9to5Google은 이 기기를 '앞으로 5년간 Gemini의 플랫폼'이라 부른다. 설정은 네스트 제품답게 빠르다. 개봉부터 Wi-Fi 연결까지 10분이 채 안 걸렸고, 기기 정보 대부분은 Google Home 앱 안에서 관리된다."
+            },
+            {
+              "t": "img",
+              "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-texture.jpg?quality=82&strip=all&w=1024"
+            },
+            {
+              "t": "p",
+              "x": "전원이 USB-C로 바뀐 건 반갑지만, 1.5m 케이블이 본체에 일체형으로 붙어 있어 콘센트가 애매한 자리에선 배치가 제한된다. 분리형 30W 어댑터는 확실한 개선. '재미있는' 색상이 미국 전용인 점도 아쉬운데, 리뷰어는 제이드 색을 눈여겨봤다고 한다. 패브릭 마감은 그대로라 부엌에선 얼룩이 걱정이지만, 거실에선 '소파에서 보면 고급 캔들 같다'는 배우자의 합격 판정을 받았다."
+            },
+            {
+              "t": "img",
+              "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-buttons-2.jpg?quality=82&strip=all&w=1024"
+            },
+            {
+              "t": "p",
+              "x": "상징적이던 점 4개 조명 대신 바닥면 글로우가 들어왔다. Gemini가 생각 중인지 답하는 중인지 한눈에 보이고, 명령을 시작하면 구글 무지개색이 짧게 스친다. 버튼 조작은 예전 그대로. 오디오는 네스트 미니의 40mm보다 큰 58mm 풀레인지 드라이버로 확실히 꽉 찬 소리를 내지만 저음의 묵직함은 부족하고, 픽셀 태블릿 허브 베이스와 사실상 같은 경험이라는 인상이다. 100% 볼륨이면 방 하나는 채운다."
+            },
+            {
+              "t": "img",
+              "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-in-kitchen-2.jpg?quality=82&strip=all&w=1024"
+            },
+            {
+              "t": "p",
+              "x": "핵심은 Gemini다. 낡아가던 구글 어시스턴트보다 확연히 낫다는 평가로, 덜 명시적인 명령이나 한 번에 여러 요청, 말하다 고치는 정정까지 자연스럽게 받아낸다. 처리도 네스트 허브·네스트 미니보다 빨라 요청 뒤 '멈칫'하는 시간이 줄었고, Wi-Fi 6 덕에 집 구석에서도 끊김이 사라졌다. 다만 웨이크 워드는 'Hey Gemini'가 아니라 늘 쓰던 그 문구 그대로다."
+            },
+            {
+              "t": "img",
+              "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-on-bedside-cabinet-1.jpg?quality=82&strip=all&w=1024"
+            },
+            {
+              "t": "p",
+              "x": "추천에 약간의 망설임이 남는 건 기기 탓이 아니다. 어시스턴트 중심으로 오래 꾸려 온 스마트홈과 맞지 않을 수 있어서다. 그래도 집에 Gemini를 들이는 작고 컴팩트한 해법이라는 점에서, 구글 말대로 네스트 미니의 후계자 노릇을 대체로 해낸다."
+            }
+          ]
+        },
+        "video": "pipeline/media/google-home-speaker.mp4",
+        "poster": "pipeline/media/google-home-speaker.jpg",
+        "image": "pipeline/media/google-home-speaker.jpg"
+      }
+    ],
+    "days": []
   }
 };
   window.AX_SECTION_ORDER = [
@@ -5252,7 +5497,8 @@
   "music",
   "movies",
   "games",
-  "books"
+  "books",
+  "gadgets"
 ];
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [

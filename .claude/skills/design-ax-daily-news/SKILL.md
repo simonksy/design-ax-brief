@@ -9,8 +9,9 @@ time; `date` = its calendar date.
 
 **Sections** come from `pipeline/sources.json` → `sections` (each maps to one or more
 source categories): `design` (AI×design tools/work culture), `music` (AI×Music),
-`movies` (AI×Film), `games` (AI×Video Games), `books` (AI×Books/Publishing). AI is the
-constant axis; each section pairs AI with its domain.
+`movies` (AI×Film), `games` (AI×Video Games), `books` (AI×Books/Publishing), `gadgets`
+(AI×devices/hardware — AI wearables, on-device AI, smart glasses, robots, NPU PCs). AI is
+the constant axis; each section pairs AI with its domain.
 
 **Per-section quota: fill 5 (floor 3).** Target **5** candidates/cards per section, with
 3 as the floor. To hit the count, ax-librarian must EXPAND the search when a section's
@@ -20,7 +21,7 @@ fresh, non-duplicate, on-topic items after expansion — and then note the short
 Never pad with stale or off-topic items.
 
 **Freshness window is per-section** (`pipeline/freshness.py <pub_iso> <now_iso> <section>`):
-`design` = **72h**; `music` / `movies` / `games` / `books` = **14 days (336h)** — those
+`design` = **72h**; `music` / `movies` / `games` / `books` / `gadgets` = **14 days (336h)** — those
 domains publish AI news less often, so a wider window is needed to fill 5.
 
 **Fill the count (keyword expansion).** If, after the first keyword pass + freshness +
@@ -48,7 +49,7 @@ Korean 존댓말 for any extra search keywords and which sections to run today (
 5). Defaults come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user
 keywords to ax-planner as extra seeds for the relevant section(s).
 
-For EACH selected section S (default order design, music, movies, games, books):
+For EACH selected section S (default order design, music, movies, games, books, gadgets):
 1. **ax-planner** — "Section: S. Today is <date>. Extra seeds: <…/none>. Run your steps."
    (reads `keyword_pool.json.sections[S]` — always its `core`, rotates the rest by date.)
    → `pipeline/keywords.json`
@@ -103,7 +104,7 @@ only — facts, numbers, dates, quotes, and product/company names stay byte-iden
 back is a fixed scrollable box (text + the article's images + video containers).
 
 Freshness: **per-section** window via `pipeline/freshness.py <pub> <now> <section>`
-(design 72h; music/movies/games/books 14 days). Dedup is **per
+(design 72h; music/movies/games/books/gadgets 14 days). Dedup is **per
 section** (URL + CONTENT): each distinct story appears on exactly one date within its
 section (earliest-wins) — `roll.py` drops rolled-in URLs already earlier in that section;
 `build_data.py` FAILS the build on a duplicate URL within a section (WARNS on shared

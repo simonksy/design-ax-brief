@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-03",
+  "media": [
+    {
+      "id": "meta-fury-glasses",
+      "type": "image",
+      "src": "pipeline/media/meta-fury-glasses.jpg"
+    },
+    {
+      "id": "gmktec-ai-tower",
+      "type": "image",
+      "src": "pipeline/media/gmktec-ai-tower.png"
+    },
+    {
+      "id": "ubtech-uworld",
+      "type": "image",
+      "src": "pipeline/media/ubtech-uworld.jpg"
+    },
+    {
+      "id": "unpacked-2026-preview",
+      "type": "image",
+      "src": "pipeline/media/unpacked-2026-preview.jpg"
+    },
+    {
+      "id": "google-home-speaker",
+      "type": "video",
+      "src": "pipeline/media/google-home-speaker.mp4",
+      "poster": "pipeline/media/google-home-speaker.jpg"
+    }
+  ]
+}
