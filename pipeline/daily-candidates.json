@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-02",
+  "generated_iso": "2026-07-02T23:08:44Z",
+  "freshness_cutoffs": {
+    "design": "2026-06-29T23:08:44Z",
+    "music": "2026-06-18T23:08:44Z",
+    "movies": "2026-06-18T23:08:44Z",
+    "games": "2026-06-18T23:08:44Z",
+    "books": "2026-06-18T23:08:44Z"
+  },
+  "notes": {
+    "design": "Tight 72h window (Config 2026 on June 24 was outside window). Found 3 of 5 target — genuine exhaustion at this freshness threshold. Note: musictech.com/ai-12-million-dataset-training (music) may share content overlap with already-published gearnews.com Atlantic dataset story (June 27); curator should assess.",
+    "music": "5 of 5 found. Dates for items 2–5 are approximated from search metadata ('past 1–2 weeks'). Freshness script confirmed all dates ≥ June 20 are FRESH for the 336h window. Item 4 (12M dataset) may have content overlap with published gearnews item from June 27 — flag for curator.",
+    "movies": "4 of 5 found. awn.com DDAI article confirmed June 1 (STALE). IndieWire A24 backlash analysis may share content angle with already-published variety.com/a24-defends-ai-deal — curator to decide.",
+    "games": "4 of 5 found — genuine exhaustion. Kotaku Microsoft AI company article date approximated June 30 from context (Xbox layoffs scheduled July 6, 'days before' = ~June 30).",
+    "books": "5 of 5 found. Beijing Book Fair items (PW + Bookseller) may be content-similar — both cover the same event from different angles; curator to assess. Authors Guild article date approximated June 19 (borderline at 335h, confirmed FRESH by freshness.py)."
+  },
+  "dedup_summary": {
+    "design": {"candidates": 3, "dropped_url": 0, "kept": 3},
+    "music": {"candidates": 5, "dropped_url": 0, "kept": 5},
+    "movies": {"candidates": 4, "dropped_url": 0, "kept": 4},
+    "games": {"candidates": 4, "dropped_url": 0, "kept": 4},
+    "books": {"candidates": 5, "dropped_url": 0, "kept": 5}
+  },
+  "sections": {
+    "design": [
+      {
+        "section": "design",
+        "category": "figma",
+        "source": "Figma Blog",
+        "published_iso": "2026-07-01T12:00:00Z",
+        "headline": "Got Skills? Make the Figma Agent a Better Collaborator",
+        "excerpt": "Figma introduces agent Skills — reusable workflow packages that let teams encode their design processes, conventions, and brand rules into the AI agent for repeatable tasks. Skills can be authored by anyone on the team, shared via the community, or pulled from official Figma packs.",
+        "url": "https://www.figma.com/blog/got-skills-make-the-figma-agent-a-better-collaborator/"
+      },
+      {
+        "section": "design",
+        "category": "workflow",
+        "source": "VentureBeat",
+        "published_iso": "2026-07-02T00:00:00Z",
+        "headline": "Z.ai Launches ZCode to Challenge Cursor, Claude Code, and GitHub Copilot in AI Coding",
+        "excerpt": "Z.ai, the startup founded by former Zoom CEO Eric Yuan, has launched ZCode — an AI coding assistant targeting enterprise teams with deep codebase understanding and privacy-first architecture. ZCode positions itself as a challenger to Cursor, GitHub Copilot, and Claude Code by promising faster iteration cycles and on-prem deployment options.",
+        "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding"
+      },
+      {
+        "section": "design",
+        "category": "workflow",
+        "source": "VentureBeat",
+        "published_iso": "2026-07-01T20:00:00Z",
+        "headline": "Anthropic Brings Back Claude Fable 5 Globally After US Lifts Export Control Order",
+        "excerpt": "Anthropic is restoring global access to Claude Fable 5 — its most capable model — after the US Commerce Department withdrew the June 12 export-control restriction. Enterprises and design teams using Claude-powered workflows can now access Fable 5 across Claude.ai, Claude Code, and Claude Cowork starting July 1.",
+        "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it"
+      }
+    ],
+    "music": [
+      {
+        "section": "music",
+        "category": "music",
+        "source": "MusicTech",
+        "published_iso": "2026-06-25T00:00:00Z",
+        "headline": "Suno Spark Divides Opinion — But Its Reactions Feature Points to AI Music's Next Frontier",
+        "excerpt": "Suno's new Spark tool lets users create instant audience-reaction audio layers and collaborative AI composition tracks, sparking debate about whether AI-generated accompaniment supports or undermines human creativity. Producers and musicians weigh in on the practical appeal and philosophical questions Spark raises.",
+        "url": "https://musictech.com/news/music/suno-spark-reactions/"
+      },
+      {
+        "section": "music",
+        "category": "music",
+        "source": "MusicRadar",
+        "published_iso": "2026-06-20T00:00:00Z",
+        "headline": "\"We Don't Think the Future of Music Involves the Labels Anymore\": Napster Is Back With a New AI App",
+        "excerpt": "Napster has relaunched with an AI-powered music app that licenses ethically trained, copyright-friendly generative models — positioning itself against streaming giants by promising artist-forward AI music creation. The company argues that the solution to music's AI permission problem is to build a platform that pays artists from the start.",
+        "url": "https://www.musicradar.com/music-tech/we-dont-think-that-the-future-of-music-involves-the-labels-anymore-napster-is-back-with-a-new-ai-app"
+      },
+      {
+        "section": "music",
+        "category": "music",
+        "source": "MusicRadar",
+        "published_iso": "2026-06-22T00:00:00Z",
+        "headline": "\"Everyone Is Using These Tools, But They Don't Want to Talk About It\": How AI Is Changing Electronic Music",
+        "excerpt": "A deep investigation reveals AI tools have quietly become standard in electronic music production at every level — from bedroom producers to headline acts who fear the backlash of admitting they use them. Artists describe a don't-ask, don't-tell culture emerging around AI assistance in the studio.",
+        "url": "https://www.musicradar.com/music-tech/everyone-is-using-these-tools-artists-at-all-levels-but-they-dont-want-to-talk-about-it-how-ai-is-changing-electronic-music"
+      },
+      {
+        "section": "music",
+        "category": "music",
+        "source": "MusicTech",
+        "published_iso": "2026-06-21T00:00:00Z",
+        "headline": "\"No Way for Artists to Fight Back\": Massive Music Dataset Allegedly Lets AI Train on 12 Million+ Songs Without Permission",
+        "excerpt": "A newly discovered training dataset is allegedly enabling AI music companies to train on over 12 million songs without artist permission or payment, with musicians and small labels having little legal recourse until major label lawsuits conclude. The revelation adds pressure on AI firms over transparency in training data sourcing.",
+        "url": "https://musictech.com/news/industry/ai-12-million-dataset-training/"
+      },
+      {
+        "section": "music",
+        "category": "music",
+        "source": "MusicRadar",
+        "published_iso": "2026-06-24T00:00:00Z",
+        "headline": "Suno Hires Top Music Industry Veteran in Push for AI Music Mainstream Credibility",
+        "excerpt": "Suno has recruited a highly respected music industry executive for a senior role, signaling the AI music company's strategy to build credibility with the traditional music business as it scales new licensed model offerings. Industry observers say the hire marks a shift from pure tech startup to genuine music industry player.",
+        "url": "https://www.musicradar.com/music-industry/for-such-a-respected-music-industry-vet-to-move-into-the-space-feels-really-meaningful-suno-just-hired-top-music-talent-for-their-ai-music-takeover"
+      }
+    ],
+    "movies": [
+      {
+        "section": "movies",
+        "category": "movies",
+        "source": "Deadline",
+        "published_iso": "2026-06-26T00:00:00Z",
+        "headline": "\"Declarations\" Documentary Uses Generative AI to Give Historical Subjects Agency in PBS Premiere",
+        "excerpt": "For the US 250th anniversary, the documentary \"Declarations: Black Americans and the Revolutionary War\" used generative AI to animate and voice historical subjects — premiering June 29 on PBS. The filmmakers argue the technology enables a form of historical representation previously impossible with traditional archival methods.",
+        "url": "https://deadline.com/2026/06/declarations-using-genai-give-historical-subjects-agency-1236963359/"
+      },
+      {
+        "section": "movies",
+        "category": "movies",
+        "source": "Deadline",
+        "published_iso": "2026-06-23T00:00:00Z",
+        "headline": "Is AI Hollywood's New Cosmetic Surgery? Studios Hide Its Use Even When It's Not Controversial",
+        "excerpt": "An AI technology company's contributions go uncredited on nearly 80% of the Hollywood projects it completes, as studios fear audience backlash even for legitimate uses that improve quality and workflow — not generative slop. The piece examines how AI's cosmetic secrecy is distorting the industry's public conversation.",
+        "url": "https://deadline.com/2026/06/is-ai-hollywood-new-cosmetic-surgery-1236958187/"
+      },
+      {
+        "section": "movies",
+        "category": "movies",
+        "source": "IndieWire",
+        "published_iso": "2026-06-28T00:00:00Z",
+        "headline": "A24 Will Survive the AI Backlash, But Some Are Convinced the Company Has \"Sold Its Soul\"",
+        "excerpt": "Analysis of whether A24's auteur-driven brand can survive its Google DeepMind AI partnership — with fans split between those who see it as pragmatic survival and those who feel the studio has betrayed its identity. The piece examines the economics of independent film and what AI partnerships actually mean for creative autonomy.",
+        "url": "https://www.indiewire.com/news/analysis/a24-ai-backlash-analysis-1235202507/"
+      },
+      {
+        "section": "movies",
+        "category": "movies",
+        "source": "Deadline",
+        "published_iso": "2026-06-30T00:00:00Z",
+        "headline": "Luca Guadagnino's AI-Themed \"Artificial\" Eyes Neon as Distributor After Amazon Exit",
+        "excerpt": "Luca Guadagnino's film \"Artificial\" — which explores AI and human connection — is in talks with Neon for distribution after Amazon MGM decided it would be better served elsewhere, creating an unlikely irony: an AI-themed film losing its AI-forward studio. The story reflects Hollywood's deep ambivalence about AI-themed content.",
+        "url": "https://deadline.com/2026/06/artificial-movie-luca-guadagnino-eyes-neon-distributor-1236971435/"
+      }
+    ],
+    "games": [
+      {
+        "section": "games",
+        "category": "games",
+        "source": "Game Developer",
+        "published_iso": "2026-07-01T00:00:00Z",
+        "headline": "Godot Engine to Ban Almost All AI-Assisted Code Contributions",
+        "excerpt": "The Godot open-source game engine project has announced it will reject nearly all AI-generated or AI-assisted code contributions, citing concerns about training data provenance, license compliance, and code quality. The policy puts Godot at direct odds with the broader industry trend toward AI-assisted development workflows.",
+        "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions"
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "source": "Kotaku",
+        "published_iso": "2026-06-30T00:00:00Z",
+        "headline": "Microsoft Announces New AI Company Days Before Mass Layoffs",
+        "excerpt": "Microsoft unveiled a new AI venture while simultaneously preparing a new round of mass layoffs — including Xbox gaming division staff — spotlighting the tension between AI investment and workforce reduction across the games industry. Critics and workers called the timing a textbook example of the AI pivot displacement pattern.",
+        "url": "https://kotaku.com/microsoft-announces-new-ai-company-days-before-mass-layoffs-a-learning-loop-in-which-human-capital-and-token-capital-compound-2000712342"
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "source": "GameSpot",
+        "published_iso": "2026-06-23T00:00:00Z",
+        "headline": "EA Exec Says There's Been \"a Real Rise of Creativity\" Among Developers Who Embraced AI",
+        "excerpt": "An Electronic Arts executive claims AI tools have produced a genuine creativity surge among game developers, with teams pursuing ideas previously too time-consuming or resource-intensive to attempt. The optimistic framing contrasts sharply with ongoing industry-wide job cuts partly attributed to AI efficiency gains.",
+        "url": "https://www.gamespot.com/articles/ea-exec-says-there-has-been-a-real-rise-of-creativity-after-developers-embraced-ai/1100-6537793/"
+      },
+      {
+        "section": "games",
+        "category": "games",
+        "source": "GamesRadar",
+        "published_iso": "2026-06-29T00:00:00Z",
+        "headline": "After Sweeney Blasts Valve, Steam Makes AI Disclosures More Prominent and Demotes AI-Aided Games in Search",
+        "excerpt": "Valve has responded to Epic CEO Tim Sweeney's criticism of its AI disclosure policy by making AI-content labels more prominent in Steam search results and demoting AI-assisted games in ranking — and a community modder escalated further with a browser extension that adds unavoidable AI warnings to game pages. The escalating battle is reshaping how storefronts handle AI transparency.",
+        "url": "https://www.gamesradar.com/games/as-epic-games-ceo-tim-sweeney-blasts-valve-over-steam-ai-disclosures-dev-makes-those-disclosures-even-more-noticeable-and-hides-ai-aided-games-in-search-results/"
+      }
+    ],
+    "books": [
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Publishers Weekly",
+        "published_iso": "2026-06-23T00:00:00Z",
+        "headline": "Beijing 2026 Book Fair Focuses on Publishing Transformation, AI, and the Future of Reading",
+        "excerpt": "The 2026 Beijing International Book Fair centered on AI's transformation of publishing — from AI-assisted editing and rights trading to AI-powered reader personalization — with Chinese publishers showcasing aggressive AI integration. Western delegates noted the speed gap and debated whether opt-in licensing frameworks can keep pace.",
+        "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html"
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "The Bookseller",
+        "published_iso": "2026-06-22T00:00:00Z",
+        "headline": "AI Already Embedded in Publishing in China, Beijing International Book Fair Hears",
+        "excerpt": "The Beijing International Book Fair heard first-hand accounts of AI being deeply embedded across China's publishing industry — in translation, editing, rights management, and personalization — while Western publishers remained in cautious pilot mode. The contrast opened a frank debate about competitive disadvantage for traditional publishers.",
+        "url": "https://www.thebookseller.com/news/artificial-intelligence-already-embedded-in-publishing-in-china-beijing-international-book-fair-hears"
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Publishing Perspectives",
+        "published_iso": "2026-06-20T00:00:00Z",
+        "headline": "Plutonium or Salt? When It Comes to Books, How Much AI Is Too Much?",
+        "excerpt": "Publishing Perspectives asks where publishers draw the line on AI integration — whether AI functions as a trace element that enhances the human process or a contaminant that changes what a book fundamentally is. Editors, agents, and authors share candid personal thresholds in an industry survey.",
+        "url": "https://publishingperspectives.com/2026/06/plutonium-or-salt-when-it-comes-to-books-how-much-ai-is-too-much/"
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Jane Friedman",
+        "published_iso": "2026-07-01T00:00:00Z",
+        "headline": "Links of Interest: AI and Publishing — What Writers Need to Know This Week (July 1, 2026)",
+        "excerpt": "Jane Friedman's weekly curated roundup covers the most important AI and publishing developments for working writers — from new disclosure policies and contract clauses to watch, to the growing market for human-verified creative work. A practical primer for navigating AI's accelerating impact on the writing and publishing business.",
+        "url": "https://www.janefriedman.com/links-of-interest-july-1-2026/"
+      },
+      {
+        "section": "books",
+        "category": "books",
+        "source": "Publishers Weekly",
+        "published_iso": "2026-06-19T00:00:00Z",
+        "headline": "Authors Guild Speaks Out on Publisher AI Use",
+        "excerpt": "The Authors Guild has issued a formal statement criticizing publishers for adopting AI tools that affect authors' work without transparency or meaningful consent, demanding clearer contract protections and revenue-sharing for AI-assisted projects. The statement follows reports that major publishers are deploying AI quietly in editorial, marketing, and rights processes.",
+        "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100211-authors-guild-speaks-out-on-publisher-ai-use.html"
+      }
+    ]
+  }
+}
