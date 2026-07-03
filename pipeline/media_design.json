@@ -1,21 +1,20 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "media": [
     {
-      "id": "nano-banana2-lite",
+      "id": "figma-agent-skills",
       "type": "image",
-      "src": "pipeline/media/nano-banana2-lite.png"
+      "src": "pipeline/media/figma-agent-skills.png"
     },
     {
-      "id": "gemini-omni-flash",
-      "type": "video",
-      "src": "pipeline/media/gemini-omni-flash.mp4",
-      "poster": "pipeline/media/gemini-omni-flash.jpg"
+      "id": "zai-zcode",
+      "type": "image",
+      "src": "pipeline/media/zai-zcode.jpg"
     },
     {
-      "id": "autodesk-ai-judgment",
+      "id": "fable5-global",
       "type": "image",
-      "src": "pipeline/media/autodesk-ai-judgment.jpg"
+      "src": "pipeline/media/fable5-global.png"
     }
   ]
 }

@@ -1,10 +1,8 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "media": [
-    {
-      "id": "sony-ai-annual-report",
-      "type": "image",
-      "src": "pipeline/media/sony-ai-annual-report.jpg"
-    }
+    { "id": "godot-ai-ban", "type": "image", "src": "pipeline/media/godot-ai-ban.jpg" },
+    { "id": "ea-creativity", "type": "image", "src": "pipeline/media/ea-creativity.jpg" },
+    { "id": "valve-ai-labels", "type": "image", "src": "pipeline/media/valve-ai-labels.jpg" }
   ]
 }

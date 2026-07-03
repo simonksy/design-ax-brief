@@ -1,17 +1,39 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "selection_mode": "user",
   "picks": [
     {
       "category": "games",
-      "tool": "Sony",
-      "accent": "#7928ca",
+      "tool": "Godot",
+      "accent": "#ff2d55",
       "motif": "cube",
-      "source": "GamingBolt",
-      "published_iso": "2026-06-19T00:00:00Z",
-      "og_image": "https://gamingbolt.com/wp-content/uploads/2024/09/chroma-indigo-1-1024x576.jpg",
-      "url": "https://gamingbolt.com/sony-removes-mention-of-pc-releases-discusses-use-of-ai-for-game-development-in-new-annual-report",
-      "excerpt": "Sony's latest annual report quietly drops its previous PC-release language and instead spotlights the growing role of AI in PlayStation game development, framing the tech as a productivity tool across its studios."
+      "source": "Game Developer",
+      "published_iso": "2026-07-01T00:00:00Z",
+      "og_image": null,
+      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+      "excerpt": "The Godot open-source game engine project has announced it will reject nearly all AI-generated or AI-assisted code contributions, citing concerns about training data provenance, license compliance, and code quality. The policy puts Godot at direct odds with the broader industry trend toward AI-assisted development workflows."
+    },
+    {
+      "category": "games",
+      "tool": "EA",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "source": "GameSpot",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": null,
+      "url": "https://www.gamespot.com/articles/ea-exec-says-there-has-been-a-real-rise-of-creativity-after-developers-embraced-ai/1100-6537793/",
+      "excerpt": "An Electronic Arts executive claims AI tools have produced a genuine creativity surge among game developers, with teams pursuing ideas previously too time-consuming or resource-intensive to attempt. The optimistic framing contrasts sharply with ongoing industry-wide job cuts partly attributed to AI efficiency gains."
+    },
+    {
+      "category": "games",
+      "tool": "Valve",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "source": "GamesRadar",
+      "published_iso": "2026-06-29T00:00:00Z",
+      "og_image": null,
+      "url": "https://www.gamesradar.com/games/as-epic-games-ceo-tim-sweeney-blasts-valve-over-steam-ai-disclosures-dev-makes-those-disclosures-even-more-noticeable-and-hides-ai-aided-games-in-search-results/",
+      "excerpt": "Valve has responded to Epic CEO Tim Sweeney's criticism of its AI disclosure policy by making AI-content labels more prominent in Steam search results and demoting AI-assisted games in ranking — and a community modder escalated further with a browser extension that adds unavoidable AI warnings to game pages. The escalating battle is reshaping how storefronts handle AI transparency."
     }
   ]
 }

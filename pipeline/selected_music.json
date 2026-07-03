@@ -1,17 +1,28 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "selection_mode": "user",
   "picks": [
     {
       "category": "music",
-      "tool": "Sugar Bytes",
+      "tool": "Napster",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "source": "Synthtopia",
-      "published_iso": "2026-07-01T04:15:36+00:00",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/06/ai-beat-making.jpg",
-      "url": "https://www.synthtopia.com/content/2026/06/30/drumcomputer-claude-extension-lets-you-make-beats-via-text-prompts/",
-      "excerpt": "Sugar Bytes has released a free Claude extension for its DrumComputer instrument that generates complete drum sounds and beats from a single natural-language text prompt, letting producers describe a groove instead of programming it by hand."
+      "source": "MusicRadar",
+      "published_iso": "2026-06-20T00:00:00Z",
+      "og_image": null,
+      "url": "https://www.musicradar.com/music-tech/we-dont-think-that-the-future-of-music-involves-the-labels-anymore-napster-is-back-with-a-new-ai-app",
+      "excerpt": "Napster has relaunched with an AI-powered music app that licenses ethically trained, copyright-friendly generative models — positioning itself against streaming giants by promising artist-forward AI music creation. The company argues that the solution to music's AI permission problem is to build a platform that pays artists from the start."
+    },
+    {
+      "category": "music",
+      "tool": "MusicRadar",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "source": "MusicRadar",
+      "published_iso": "2026-06-22T00:00:00Z",
+      "og_image": null,
+      "url": "https://www.musicradar.com/music-tech/everyone-is-using-these-tools-artists-at-all-levels-but-they-dont-want-to-talk-about-it-how-ai-is-changing-electronic-music",
+      "excerpt": "A deep investigation reveals AI tools have quietly become standard in electronic music production at every level — from bedroom producers to headline acts who fear the backlash of admitting they use them. Artists describe a don't-ask, don't-tell culture emerging around AI assistance in the studio."
     }
   ]
 }

@@ -1,10 +1,21 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "media": [
     {
-      "id": "dear-upstairs-neighbors",
+      "id": "declarations-pbs",
+      "type": "video",
+      "src": "pipeline/media/declarations-pbs.mp4",
+      "poster": "pipeline/media/declarations-pbs.jpg"
+    },
+    {
+      "id": "ai-cosmetic-surgery",
       "type": "image",
-      "src": "pipeline/media/dear-upstairs-neighbors.jpg"
+      "src": "pipeline/media/ai-cosmetic-surgery.jpg"
+    },
+    {
+      "id": "artificial-neon",
+      "type": "image",
+      "src": "pipeline/media/artificial-neon.jpg"
     }
   ]
 }

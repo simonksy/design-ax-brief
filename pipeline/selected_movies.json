@@ -1,17 +1,39 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "selection_mode": "user",
   "picks": [
     {
       "category": "movies",
-      "tool": "DeepMind",
+      "tool": "PBS",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "source": "Deadline",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "og_image": null,
+      "url": "https://deadline.com/2026/06/declarations-using-genai-give-historical-subjects-agency-1236963359/",
+      "excerpt": "For the US 250th anniversary, the documentary \"Declarations: Black Americans and the Revolutionary War\" used generative AI to animate and voice historical subjects — premiering June 29 on PBS. The filmmakers argue the technology enables a form of historical representation previously impossible with traditional archival methods."
+    },
+    {
+      "category": "movies",
+      "tool": "Hollywood",
       "accent": "#0070f3",
       "motif": "frame",
-      "source": "No Film School",
-      "published_iso": "2026-06-19T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/dear-upstairs-neighbors.png?id=66965611&width=1245&height=700&quality=50&coordinates=62%2C0%2C62%2C0",
-      "url": "https://nofilmschool.com/dear-upstairs-neighbors-hybrid-ai-short-film",
-      "excerpt": "Pixar alum director Connie He details the hybrid workflow behind her Tribeca short 'Dear Upstairs Neighbors,' blending traditional animation with a custom Google DeepMind video-to-video model. She used AI not for efficiency but to unlock a painterly visual style, keeping tight control over performance, timing, and rhythm."
+      "source": "Deadline",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": null,
+      "url": "https://deadline.com/2026/06/is-ai-hollywood-new-cosmetic-surgery-1236958187/",
+      "excerpt": "An AI technology company's contributions go uncredited on nearly 80% of the Hollywood projects it completes, as studios fear audience backlash even for legitimate uses that improve quality and workflow — not generative slop. The piece examines how AI's cosmetic secrecy is distorting the industry's public conversation."
+    },
+    {
+      "category": "movies",
+      "tool": "Neon",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "source": "Deadline",
+      "published_iso": "2026-06-30T00:00:00Z",
+      "og_image": null,
+      "url": "https://deadline.com/2026/06/artificial-movie-luca-guadagnino-eyes-neon-distributor-1236971435/",
+      "excerpt": "Luca Guadagnino's film \"Artificial\" — which explores AI and human connection — is in talks with Neon for distribution after Amazon MGM decided it would be better served elsewhere, creating an unlikely irony: an AI-themed film losing its AI-forward studio. The story reflects Hollywood's deep ambivalence about AI-themed content."
     }
   ]
 }

@@ -1,11 +1,7 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "media": [
-    {
-      "id": "sugarbytes-claude",
-      "type": "video",
-      "src": "pipeline/media/sugarbytes-claude.mp4",
-      "poster": "pipeline/media/sugarbytes-claude.jpg"
-    }
+    { "id": "napster-ai", "type": "image", "src": "pipeline/media/napster-ai.jpg" },
+    { "id": "electronic-quiet-ai", "type": "video", "src": "pipeline/media/electronic-quiet-ai.mp4", "poster": "pipeline/media/electronic-quiet-ai.jpg" }
   ]
 }

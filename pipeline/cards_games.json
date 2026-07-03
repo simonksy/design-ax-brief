@@ -1,60 +1,82 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "cards": [
     {
-      "id": "sony-ai-annual-report",
+      "id": "godot-ai-ban",
       "eyebrow": "AI NEWS",
-      "headline": "소니가 새 연차 보고서에서 AI를\n게임 개발 생산성 도구로 내세웠다",
-      "body": "소니가 새 연차 보고서에서 PC 이식 문구를 빼고 AI를 개발 생산성 도구로 내세웠다.",
-      "mini_headline": "AI로 게임 개발 생산성 강화",
-      "tool": "Sony",
-      "source": "GamingBolt",
-      "url": "https://gamingbolt.com/sony-removes-mention-of-pc-releases-discusses-use-of-ai-for-game-development-in-new-annual-report",
-      "accent": "#7928ca",
+      "headline": "고도 엔진이 AI로 짠 코드 기여를\n사실상 전면 금지하기로 했다",
+      "body": "고도 재단이 바이브 코딩과 AI 생성 코드 기여를 금지하는 정책 개정을 예고했다.",
+      "mini_headline": "AI 코드 안 받는 고도",
+      "tool": "Godot",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+      "accent": "#ff2d55",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://gamingbolt.com/wp-content/uploads/2024/09/chroma-indigo-1-1024x576.jpg"
-          },
-          {
-            "t": "p",
-            "x": "소니가 미국 증권거래위원회(SEC)에 새 연차 보고서를 냈다. 게임파일의 스티븐 토틸로가 짚었듯, 달라진 사업 계획을 보면 소니는 지금 시장에서 매출이 줄어들 가능성에 대비하는 모습이다. 여기에 자사 퍼스트파티 타이틀을 PC로 내놓겠다던 언급도 함께 지웠다."
-          },
-          {
-            "t": "p",
-            "x": "지난해 보고서는 플레이스테이션이 \"지속 가능하고 수익성 있는 사업 성장을 목표로 한다\"고 적었다. 이번 판에서는 이 문장이 \"지속 가능한 사업 성장을 목표로 한다\"로 바뀌었다. 토틸로는 수익성이라는 표현이 빠진 점을 두고, 부품 가격 급등이 플레이스테이션 수익에도 더 크게 영향을 미치기 시작한 신호로 봤다."
-          },
-          {
-            "t": "p",
-            "x": "보고서는 하드웨어를 이렇게 설명한다. \"하드웨어 부문에서 소니는 메모리 반도체 가격 상승과 공급 부족의 영향을 받을 것으로 예상하지만, 판매 대수와 프로모션 등을 유연하게 조정해 수익성에 미치는 영향을 관리할 계획이다.\""
-          },
-          {
-            "t": "p",
-            "x": "그 사이 소니는 플레이스테이션 플러스 같은 서비스 기반 매출을 키우려 한다. 하드웨어에서 얇아진 마진을 메우려는 계산으로 읽힌다."
-          },
-          {
-            "t": "p",
-            "x": "플랫폼 확장 방향도 달라졌다. 지난해 보고서에는 \"PC 등 여러 플랫폼으로 퍼스트파티 타이틀을 계속 배포할 계획\"이라는 문장이 있었다. 이번 보고서에서는 이 대목이 통째로 사라졌다. 소니가 기대만큼 PC 시장에서 이익과 성장을 얻지 못했다는 최근 소문과도 맞아떨어진다."
-          },
-          {
-            "t": "p",
-            "x": "최근 히데아키 니시노 플레이스테이션 CEO는 단독 플레이 중심의 퍼스트파티 게임을 더는 PC로 내놓지 않겠다고 사실상 못 박았다. 출시 계획은 \"각 타이틀의 특성\"에 달렸고, 온라인 요소가 있는 라이브 서비스 게임은 더 넓은 이용자층을 위해 앞으로도 PC 출시를 검토한다. 반면 단독 플레이 퍼스트파티 게임은 플레이스테이션 하드웨어에 계속 머문다. 니시노는 \"플랫폼과 무관하게, 각 타이틀의 고유한 특징을 극대화하는 최고의 게임 경험을 전한다는 원칙에 따라 결정하겠다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "AI 관련 대목도 눈에 띈다. 소니는 게임 개발에 AI 기반 도구를 더 폭넓게 쓰겠다고 밝혔다. 보고서는 \"소니는 스튜디오의 창의성을 끌어내고 플레이스테이션 경험을 한층 강화하기 위해 AI를 활용하고 있다\"고 적었다."
-          },
-          {
-            "t": "p",
-            "x": "보고서는 이렇게 부연한다. \"스튜디오 사업에서는 AI 기반 도구로 생산성을 높여, 개발팀이 아낀 시간을 더 풍부한 세계와 플레이 경험을 만드는 데 다시 쏟도록 한다. 플랫폼 사업에서는 AI로 거래를 더 효율적으로 처리하고, 플레이스테이션 스토어에서 이용자 개개인에게 콘텐츠를 맞춤 추천한다. AI와 머신러닝 투자를 이어 가며 시각적 완성도를 끌어올리고 더 높은 품질의 플레이 경험을 전하는 것도 목표다.\""
-          },
-          {
-            "t": "p",
-            "x": "크로스미디어 확장도 이어 간다. 소니는 플레이스테이션 게임 IP를 바탕으로 영화와 TV 시리즈를 만들어, 지식재산의 도달 범위와 수익화를 더 넓히려 한다."
-          }
+          { "t": "img", "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf37f0e888236bac1/6a453c420818ce731dd5fb9c/godot-fb-tw-share-image-1920x1080-0abe26cbac38.jpg" },
+          { "t": "p", "x": "고도 재단이 무료 오픈소스 엔진 고도의 기여 정책을 손보겠다고 예고했다. 생성형 AI를 쓴 코드 기여, 곧 풀 리퀘스트(PR)를 거의 모든 경우에 받지 않겠다는 내용이다." },
+          { "t": "p", "x": "어제 올라온 블로그 글에서 재단은 AI 에이전트가 직접 올리거나 사람이 AI로 생성한 코드를 제출하는 기여가 최근 부쩍 늘었다고 짚었다. PR을 걸러내는 메인테이너들을 두고는 \"AI contributions have the added pain of being demoralizing\"라고 적었다." },
+          { "t": "p", "x": "이번 개정은 스튜디오들이 생성형 AI를 계속 밀어붙이는 와중에 나왔다. 정작 개발자들 사이에서는 이 기술이 업계를 갉아먹는다는 부정적인 평가가 몇 년째 우세하다." },
+          { "t": "p", "x": "재단이 내세운 원칙은 하나다. 모든 기여는 \"자기 코드에 책임질 수 있는 사람\"이 만들어야 하고 필요할 때 고칠 능력과 의지가 있어야 한다. \"AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it.\"" },
+          { "t": "p", "x": "앞으로 기여 정책에는 자율 AI 에이전트 사용, 이른바 바이브 코딩, 상당한 분량의 코드를 AI로 생성하는 일, 그리고 사람 사이의 소통에 AI가 쓴 글을 끼워 넣는 일이 금지 항목으로 들어간다." },
+          { "t": "p", "x": "예외도 있다. 코드는 전부 사람이 써야 하지만 코드 완성이나 정규식, 찾아 바꾸기처럼 잡다한 일에는 AI를 쓸 수 있다. 어떤 식으로든 AI를 빌렸다면 PR 논의에서 그 사실을 밝혀야 한다." },
+          { "t": "p", "x": "소통 규칙의 근거는 단순하다. 메인테이너는 자기 시간을 들여 이슈와 PR, 제안을 검토하는 자원자들이고 기계와 대화하고 싶어 하지 않는다. 재단은 이를 \"a basic principle of respect\"라고 불렀다. 다만 원문을 사람이 썼다면 기계 번역은 여전히 허용된다." },
+          { "t": "p", "x": "이번 발표는 고도가 \"일부 AI 보조\"는 용인한다고 밝히면서 '바이브 코딩 엔진'이라는 꼬리표를 거부한 지 몇 주 만에 나왔다. 지난 2월에는 고참 개발자 레미 베르셸드가 엔진에 쏟아지는 \"AI 슬롭\" PR에 실망을 드러내기도 했다." },
+          { "t": "p", "x": "재단은 이렇게 맺었다. \"지금 나와 있는 AI 도구들은 매일 달라진다. 우리는 계속 보수적인 정책을 지키겠지만, 상황이 바뀌면 다시 평가하겠다.\"" }
+        ]
+      }
+    },
+    {
+      "id": "ea-creativity",
+      "eyebrow": "AI NEWS",
+      "headline": "EA 임원이 AI가 잡일을 덜어내자\n창의성이 정말 늘었다고 말했다",
+      "body": "로라 미엘이 AI 덕에 시제품 제작과 아이디어 구현이 빨라졌다고 밝혔다.",
+      "mini_headline": "AI가 부른 창의성 상승",
+      "tool": "EA",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/ea-exec-says-there-has-been-a-real-rise-of-creativity-after-developers-embraced-ai/1100-6537793/",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "img", "src": "https://media.zenfs.com/en/gamespot_323/ea0d57d939c44a1bbae794f2bf936ef2" },
+          { "t": "p", "x": "일렉트로닉 아츠에서 기업 개발을 총괄하는 사장 로라 미엘이 게임 개발 속 AI의 역할을 언급했다. 개발자들이 지루한 작업을 AI 도구에 맡기면서 창작에 쓸 여력이 생겼고, 그 덕에 EA 안에서 \"진짜 창의성 상승\"을 봤다는 얘기다." },
+          { "t": "p", "x": "더 게임 비즈니스와의 인터뷰에서 AI 기술이 게임 개발을 앞당길 수 있느냐는 질문을 받자 미엘은 \"Perhaps in some parts they will\"이라고 답했다." },
+          { "t": "p", "x": "개발자들의 작업에서 \"마찰을 없애는\" 것이 자신의 오랜 바람이었고 AI 도입이 벌써 그 일을 돕고 있다고도 했다." },
+          { "t": "p", "x": "\"I always have kind of wanted to be a hero to them and help them create career-defining experiences. And I think that AI—what I've seen—how AI has enabled removing friction from our pipelines and our tools and our workflows, has been pretty exciting. It's removed some tedium out of their jobs.\"" },
+          { "t": "p", "x": "구체 사례를 들지는 않았지만 미엘은 AI를 쓰면서 시제품 제작이 빨라졌고 \"더 빠른 창의성\", 그러니까 아이디어가 구현되기까지 걸리는 시간이 짧아지는 모습도 봤다고 말했다. \"So we're seeing it. I think there is a real rise of creativity that comes from removing some of the tedious tasks out of development.\"" },
+          { "t": "p", "x": "잡일을 AI에 맡겨 창작에 집중하게 한다는 논리는 업계 경영진의 단골 화법이다. 위쳐 3 디렉터 콘라트 토마슈키에비치는 신작 '더 블러드 오브 던워커'의 초기 개발에 생성형 AI가 필수적이었다고 말했고, 테이크투 수장 스트라우스 젤닉도 비창작 영역의 AI 활용을 낙관한다. 오버워치로 알려진 제프 캐플런 역시 게임 제작의 특정 공정에는 AI가 설 자리가 있다고 했다." },
+          { "t": "p", "x": "짚어 둘 대목이 있다. 이런 이야기 대부분은 실제로 손을 움직이는 사람이 아니라 경영진과 수장들 입에서 나온다. 현장 분위기를 보여 주는 GDC 조사에서는 생성형 AI가 게임 업계에 해롭다고 여기는 개발자가 어느 때보다 많았다." }
+        ]
+      }
+    },
+    {
+      "id": "valve-ai-labels",
+      "eyebrow": "AI NEWS",
+      "headline": "스팀 AI 표기를 더 키우고 검색에서\n가려 버리는 플러그인이 나왔다",
+      "body": "스팀 AI 고지를 팝업으로 키우고 검색 속 AI 게임을 흐리는 확장이 나왔다.",
+      "mini_headline": "스팀 AI 경고 플러그인",
+      "tool": "Valve",
+      "source": "GamesRadar",
+      "url": "https://www.gamesradar.com/games/as-epic-games-ceo-tim-sweeney-blasts-valve-over-steam-ai-disclosures-dev-makes-those-disclosures-even-more-noticeable-and-hides-ai-aided-games-in-search-results/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/aw2Us2NVKyuN3JbpnKVtaH.jpg" },
+          { "t": "p", "x": "에픽 게임스 CEO 팀 스위니가 AI 생성 콘텐츠 의무 고지를 두고 밸브를 비판한 직후, 그 고지를 오히려 훨씬 눈에 띄게 만들고 검색 결과에서 AI 게임을 가려 버리는 브라우저 플러그인이 등장했다. 스위니가 반길 물건은 아니다." },
+          { "t": "p", "x": "리눅스 게이머이자 코더를 자처하는 개발자 seeeeew가 이달 초 블루스카이에 'AI warning for Steam' 플러그인을 공개했다. 스팀의 고지가 게임의 성공 가능성을 \"much, much, much harder\"하게 만든다는 스위니의 발언이 나오기 직전이었다." },
+          { "t": "p", "x": "플러그인은 파이어폭스와 크롬용으로 배포되고 깃허브에도 올라 있다. 스팀 클라이언트 자체에서 돌리는 우회법이 있다는 제보도 보이지만 기자가 직접 확인하지는 못했다." },
+          { "t": "p", "x": "크롬 버전을 써 본 GamesRadar+의 확인으로는 설명대로 동작한다. AI 콘텐츠 고지가 있는 게임의 스팀 상점 페이지를 열면 그 고지가 첫 화면부터 팝업으로 튀어나와 도저히 지나칠 수 없다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/aFSperWAifMjMjLcLpsNad.jpg" },
+          { "t": "p", "x": "검색 결과에서는 AI를 쓴 게임이 기본으로 흐릿하게 가려지고 그 위에 \"AI Generated Content Disclosure found\"라는 라벨이 덮인다. 생성형 AI 사용을 결격 사유로 여기는 사람이라면 게임을 하나하나 확인하는 수고를 덜 수 있다." },
+          { "t": "p", "x": "이 플러그인이 널리 알려진 계기는 출시 예정작 데모가 쏟아지는 최근의 스팀 넥스트 페스트였다. 팰월드 리드 존 버클리가 한탄했듯 넥스트 페스트 출품작 가운데 AI 생성 이미지나 에셋을 쓰는 게임이 갈수록 늘고 있다." },
+          { "t": "p", "x": "스위니는 에픽 게임스 스토어에는 없는 AI 고지를 스팀에서도 없애라고 거듭 요구해 왔다. 최근에는 고지가 AI를 쓴 게임에 \"Scarlet Letter\"를 붙이고 \"게임을 죽이려는 혐오 커뮤니티\"를 불러들인다고 주장했다. 개발자는 생산성을 크게 높여 주는 도구를 포기하고 경쟁에서 밀리든가 낙인을 감수하든가 골라야 한다는 논리다." },
+          { "t": "p", "x": "정작 GamesRadar+가 전 세계 개발자 30여 명을 취재한 기획에서는 여러 이유로 생성형 AI를 쓰고 싶지 않다는 목소리가 반복해서 나왔다." }
         ]
       }
     }
