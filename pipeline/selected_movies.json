@@ -1,39 +1,50 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "selection_mode": "user",
   "picks": [
     {
-      "category": "movies",
-      "tool": "PBS",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "source": "Deadline",
-      "published_iso": "2026-06-26T00:00:00Z",
+      "url": "https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/",
+      "source": "Variety",
+      "published_iso": "2026-07-02T23:23:39+00:00",
       "og_image": null,
-      "url": "https://deadline.com/2026/06/declarations-using-genai-give-historical-subjects-agency-1236963359/",
-      "excerpt": "For the US 250th anniversary, the documentary \"Declarations: Black Americans and the Revolutionary War\" used generative AI to animate and voice historical subjects — premiering June 29 on PBS. The filmmakers argue the technology enables a form of historical representation previously impossible with traditional archival methods."
-    },
-    {
+      "excerpt": "At the Aspen Festival of Ideas talk 'Who Owns the Future of Hollywood,' Jodie Foster quipped that Apple's blockbuster 'F1' seemed like it could have been made by AI and written by a computer. She allowed that AI tools are useful for 'small helpful things' like previs, while questioning formula-driven studio filmmaking in the AI era.",
       "category": "movies",
-      "tool": "Hollywood",
+      "tool": "Variety",
       "accent": "#0070f3",
-      "motif": "frame",
-      "source": "Deadline",
-      "published_iso": "2026-06-23T00:00:00Z",
-      "og_image": null,
-      "url": "https://deadline.com/2026/06/is-ai-hollywood-new-cosmetic-surgery-1236958187/",
-      "excerpt": "An AI technology company's contributions go uncredited on nearly 80% of the Hollywood projects it completes, as studios fear audience backlash even for legitimate uses that improve quality and workflow — not generative slop. The piece examines how AI's cosmetic secrecy is distorting the industry's public conversation."
+      "motif": "frame"
     },
     {
+      "url": "https://www.hollywoodreporter.com/business/business-news/karlovy-vary-industry-days-preview-the-sopranos-jude-law-ai-1236624249/",
+      "source": "Hollywood Reporter",
+      "published_iso": "2026-07-01T09:30:00+00:00",
+      "og_image": null,
+      "excerpt": "Karlovy Vary's expanded Industry Days (July 5-8) puts 'demystifying AI' on the main stage: a hands-on presentation of currently available AI tools for film professionals, plus sessions on microdramas and other disruption threats, per KVIFF Film Industry Office head Hugo Rosak. The 60th edition frames AI literacy as a core skill for European film pros.",
+      "category": "movies",
+      "tool": "KVIFF",
+      "accent": "#eb367f",
+      "motif": "frame"
+    },
+    {
+      "url": "https://www.indiewire.com/news/trailers/sheep-in-the-box-trailer-hirokazu-koreeda-1235201597/",
+      "source": "IndieWire",
+      "published_iso": "2026-06-23T16:05:00+00:00",
+      "og_image": null,
+      "excerpt": "Neon released the trailer for Hirokazu Koreeda's Cannes-premiered sci-fi grief drama 'Sheep in the Box' (in US theaters July 24), in which a Japanese couple welcomes an AI-powered android re-creation of their deceased son into their home — Koreeda's plea for human imagination in the AI age.",
       "category": "movies",
       "tool": "Neon",
-      "accent": "#ff5a4d",
-      "motif": "frame",
+      "accent": "#2ec5c5",
+      "motif": "frame"
+    },
+    {
+      "url": "https://deadline.com/2026/06/ai-old-ideas-writer-director-paul-feig-hi-human-intelligence-1236963837/",
       "source": "Deadline",
-      "published_iso": "2026-06-30T00:00:00Z",
+      "published_iso": "2026-06-22T14:31:04+00:00",
       "og_image": null,
-      "url": "https://deadline.com/2026/06/artificial-movie-luca-guadagnino-eyes-neon-distributor-1236971435/",
-      "excerpt": "Luca Guadagnino's film \"Artificial\" — which explores AI and human connection — is in talks with Neon for distribution after Amazon MGM decided it would be better served elsewhere, creating an unlikely irony: an AI-themed film losing its AI-forward studio. The story reflects Hollywood's deep ambivalence about AI-themed content."
+      "excerpt": "Writer-director Paul Feig ('Bridesmaids') derided generative AI as 'an amalgamation of our old ideas,' arguing that the technology can only recombine what humans already made and coining 'HI — human intelligence' as the industry's real engine.",
+      "category": "movies",
+      "tool": "Paul Feig",
+      "accent": "#ff5a4d",
+      "motif": "frame"
     }
   ]
 }

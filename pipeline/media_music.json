@@ -1,7 +1,25 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "media": [
-    { "id": "napster-ai", "type": "image", "src": "pipeline/media/napster-ai.jpg" },
-    { "id": "electronic-quiet-ai", "type": "video", "src": "pipeline/media/electronic-quiet-ai.mp4", "poster": "pipeline/media/electronic-quiet-ai.jpg" }
+    {
+      "id": "logic-pro-123",
+      "type": "image",
+      "src": "pipeline/media/music-logic-pro-123.png"
+    },
+    {
+      "id": "credits-fm",
+      "type": "image",
+      "src": "pipeline/media/music-credits-fm.jpg"
+    },
+    {
+      "id": "sza-ai-data",
+      "type": "image",
+      "src": "pipeline/media/music-sza-ai-data.jpg"
+    },
+    {
+      "id": "izotope-rx12",
+      "type": "image",
+      "src": "pipeline/media/music-izotope-rx12.jpg"
+    }
   ]
 }

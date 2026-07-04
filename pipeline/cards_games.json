@@ -1,82 +1,75 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "cards": [
     {
-      "id": "godot-ai-ban",
+      "id": "szymanski-genai",
       "eyebrow": "AI NEWS",
-      "headline": "고도 엔진이 AI로 짠 코드 기여를\n사실상 전면 금지하기로 했다",
-      "body": "고도 재단이 바이브 코딩과 AI 생성 코드 기여를 금지하는 정책 개정을 예고했다.",
-      "mini_headline": "AI 코드 안 받는 고도",
-      "tool": "Godot",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+      "headline": "더스크 개발자, 게임 속 생성 AI는\n신경 안 쓴다는 네온사인이라 했다",
+      "body": "데이비드 시만스키가 생성형 AI 콘텐츠를 개발자 무관심을 알리는 신호로 규정했다.",
+      "mini_headline": "AI는 무관심의 신호",
+      "tool": "Dusk",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/iron-lung-and-dusk-creator-says-using-generative-ai-in-games-is-great-if-you-want-a-big-neon-sign-for-your-audience-that-says-i-dont-give-a-f/",
       "accent": "#ff2d55",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf37f0e888236bac1/6a453c420818ce731dd5fb9c/godot-fb-tw-share-image-1920x1080-0abe26cbac38.jpg" },
-          { "t": "p", "x": "고도 재단이 무료 오픈소스 엔진 고도의 기여 정책을 손보겠다고 예고했다. 생성형 AI를 쓴 코드 기여, 곧 풀 리퀘스트(PR)를 거의 모든 경우에 받지 않겠다는 내용이다." },
-          { "t": "p", "x": "어제 올라온 블로그 글에서 재단은 AI 에이전트가 직접 올리거나 사람이 AI로 생성한 코드를 제출하는 기여가 최근 부쩍 늘었다고 짚었다. PR을 걸러내는 메인테이너들을 두고는 \"AI contributions have the added pain of being demoralizing\"라고 적었다." },
-          { "t": "p", "x": "이번 개정은 스튜디오들이 생성형 AI를 계속 밀어붙이는 와중에 나왔다. 정작 개발자들 사이에서는 이 기술이 업계를 갉아먹는다는 부정적인 평가가 몇 년째 우세하다." },
-          { "t": "p", "x": "재단이 내세운 원칙은 하나다. 모든 기여는 \"자기 코드에 책임질 수 있는 사람\"이 만들어야 하고 필요할 때 고칠 능력과 의지가 있어야 한다. \"AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it.\"" },
-          { "t": "p", "x": "앞으로 기여 정책에는 자율 AI 에이전트 사용, 이른바 바이브 코딩, 상당한 분량의 코드를 AI로 생성하는 일, 그리고 사람 사이의 소통에 AI가 쓴 글을 끼워 넣는 일이 금지 항목으로 들어간다." },
-          { "t": "p", "x": "예외도 있다. 코드는 전부 사람이 써야 하지만 코드 완성이나 정규식, 찾아 바꾸기처럼 잡다한 일에는 AI를 쓸 수 있다. 어떤 식으로든 AI를 빌렸다면 PR 논의에서 그 사실을 밝혀야 한다." },
-          { "t": "p", "x": "소통 규칙의 근거는 단순하다. 메인테이너는 자기 시간을 들여 이슈와 PR, 제안을 검토하는 자원자들이고 기계와 대화하고 싶어 하지 않는다. 재단은 이를 \"a basic principle of respect\"라고 불렀다. 다만 원문을 사람이 썼다면 기계 번역은 여전히 허용된다." },
-          { "t": "p", "x": "이번 발표는 고도가 \"일부 AI 보조\"는 용인한다고 밝히면서 '바이브 코딩 엔진'이라는 꼬리표를 거부한 지 몇 주 만에 나왔다. 지난 2월에는 고참 개발자 레미 베르셸드가 엔진에 쏟아지는 \"AI 슬롭\" PR에 실망을 드러내기도 했다." },
-          { "t": "p", "x": "재단은 이렇게 맺었다. \"지금 나와 있는 AI 도구들은 매일 달라진다. 우리는 계속 보수적인 정책을 지키겠지만, 상황이 바뀌면 다시 평가하겠다.\"" }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/WmejxQBkaqazsjdBHXvNJ9.jpg" },
+          { "t": "p", "x": "더스크와 아이언 렁으로 이름을 알린 인디 개발 베테랑 데이비드 시만스키는 AI라는 기술 전체를 반대하지는 않는다. 다만 생성형 AI로 게임을 만들 생각은 조금도 없다." },
+          { "t": "p", "x": "GamesRadar+와의 인터뷰에서 시만스키는 왜 그렇게 많은 개발자가 생성형 AI를 꺼리는지 다룬 기획 기사와 같은 결의 이야기를 꺼냈다. 이 기술을 논하려면 표절과 환경 부담, 일자리를 둘러싼 윤리적 우려부터 짚어야 하는데 그것만으로도 지금 형태의 기술에는 마음이 가지 않는다고 했다." },
+          { "t": "p", "x": "그 장벽을 다 넘는다 해도 시만스키에게 생성형 AI는 이런 물건이다. \"a complicated machine for generating subpar stock photos, buggy code, and a big neon sign for your audience that says 'I don't give a fuck,' and I'm not really in the market for any of those.\"" },
+          { "t": "p", "x": "창작 일에는 애초에 AI가 어울리지 않는다고 본다. 정말 도움이 될 만한 영역이 따로 있을지는 몰라도, 이 기술이 무슨 피해를 주고 있고 또 줄 수 있는지 걱정이 아직 너무 많고, 쓰더라도 창작 과정의 중요한 부분을 해치지 않는 방식으로 유용해야 한다고 말했다." },
+          { "t": "p", "x": "그가 보기에 지금 AI의 유혹은 빠르고 쉽다는 데 있다. 빠르고 쉬운 것이 필요한 자리도 있지만 느리고 어려운 것이 필요한 자리도 있다. 창의성은 아이디어와 완성물 사이에 나타나는 문제를 풀어내는 과정에서 드러난다는 게 그의 지론이다. \"Your creative voice is defined by your limitations and how you work around those limitations.\" 그 문제들을 복제 알고리즘에 다 맡겨 버리면 완성작과 알고리즘이 베낀 원본을 가를 것이 남지 않는다." },
+          { "t": "p", "x": "업계가 생성형 AI를 어떻게 다루게 될지에 대해서는 개발자에게 발언권이 없다고 잘라 말했다. 각자 어떻게 반응할지, 그 흐름을 따라갈지 말지를 정할 수 있을 뿐이다. \"In its current form I don't have any interest in generative AI as a development tool and I don't think my audience has any interest in me using it either.\"" }
         ]
       }
     },
     {
-      "id": "ea-creativity",
+      "id": "aoe2-ai-study",
       "eyebrow": "AI NEWS",
-      "headline": "EA 임원이 AI가 잡일을 덜어내자\n창의성이 정말 늘었다고 말했다",
-      "body": "로라 미엘이 AI 덕에 시제품 제작과 아이디어 구현이 빨라졌다고 밝혔다.",
-      "mini_headline": "AI가 부른 창의성 상승",
-      "tool": "EA",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/ea-exec-says-there-has-been-a-real-rise-of-creativity-after-developers-embraced-ai/1100-6537793/",
+      "headline": "에이지 오브 엠파이어 2 에디터로\nAI 의식론을 반박한 논문이 나왔다",
+      "body": "요크대 연구자가 게임 속 염소로 LLM의 기본 기능을 재현해 의인화를 꼬집었다.",
+      "mini_headline": "AoE2의 AI 의식 반박",
+      "tool": "Kotaku",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://media.zenfs.com/en/gamespot_323/ea0d57d939c44a1bbae794f2bf936ef2" },
-          { "t": "p", "x": "일렉트로닉 아츠에서 기업 개발을 총괄하는 사장 로라 미엘이 게임 개발 속 AI의 역할을 언급했다. 개발자들이 지루한 작업을 AI 도구에 맡기면서 창작에 쓸 여력이 생겼고, 그 덕에 EA 안에서 \"진짜 창의성 상승\"을 봤다는 얘기다." },
-          { "t": "p", "x": "더 게임 비즈니스와의 인터뷰에서 AI 기술이 게임 개발을 앞당길 수 있느냐는 질문을 받자 미엘은 \"Perhaps in some parts they will\"이라고 답했다." },
-          { "t": "p", "x": "개발자들의 작업에서 \"마찰을 없애는\" 것이 자신의 오랜 바람이었고 AI 도입이 벌써 그 일을 돕고 있다고도 했다." },
-          { "t": "p", "x": "\"I always have kind of wanted to be a hero to them and help them create career-defining experiences. And I think that AI—what I've seen—how AI has enabled removing friction from our pipelines and our tools and our workflows, has been pretty exciting. It's removed some tedium out of their jobs.\"" },
-          { "t": "p", "x": "구체 사례를 들지는 않았지만 미엘은 AI를 쓰면서 시제품 제작이 빨라졌고 \"더 빠른 창의성\", 그러니까 아이디어가 구현되기까지 걸리는 시간이 짧아지는 모습도 봤다고 말했다. \"So we're seeing it. I think there is a real rise of creativity that comes from removing some of the tedious tasks out of development.\"" },
-          { "t": "p", "x": "잡일을 AI에 맡겨 창작에 집중하게 한다는 논리는 업계 경영진의 단골 화법이다. 위쳐 3 디렉터 콘라트 토마슈키에비치는 신작 '더 블러드 오브 던워커'의 초기 개발에 생성형 AI가 필수적이었다고 말했고, 테이크투 수장 스트라우스 젤닉도 비창작 영역의 AI 활용을 낙관한다. 오버워치로 알려진 제프 캐플런 역시 게임 제작의 특정 공정에는 AI가 설 자리가 있다고 했다." },
-          { "t": "p", "x": "짚어 둘 대목이 있다. 이런 이야기 대부분은 실제로 손을 움직이는 사람이 아니라 경영진과 수장들 입에서 나온다. 현장 분위기를 보여 주는 GDC 조사에서는 생성형 AI가 게임 업계에 해롭다고 여기는 개발자가 어느 때보다 많았다." }
+          { "t": "img", "src": "https://kotaku.com/app/uploads/2026/06/ageofem2.jpg" },
+          { "t": "p", "x": "요 몇 년 사이 컴퓨터가 실제로 어떻게 굴러가는지 차분히 뜯어 보여 주는 다큐멘터리가 부쩍 늘었다. 딜런 리블링의 '디 엔드 오브 디 인터넷'은 클라우드 컴퓨팅이라는 우아한 말 뒤에 정부의 밸브와 굶주린 상어에 똑같이 노출된 케이블 다발이 있음을 짚고, 어맨다 크레이머의 '소 언리얼'은 매트릭스와 터미네이터, 트론 같은 환상이 대중의 사이버스페이스 이해를 어떻게 빚어냈는지 좇는다. AI 세일즈 피치가 사기의 시대 최종 보스처럼 느껴지는 요즘 어느 때보다 와닿는 이야기다." },
+          { "t": "p", "x": "요크대학교 연구자이자 프로그래머인 에이드리언 드 윈터는 다소 스위프트풍의 풍자 논문으로 우리가 기술을 얼마나 쉽게 의인화하는지 보여 주려 했다. 'If LLMs Have Human-Like Attributes, Then So Does Age of Empires II'라는 제목 그대로, 이 전설적인 RTS의 시나리오 에디터를 써서 LLM의 기본 기능을 염소와 풀, 다리에 그대로 재현했다. 지난 2년간 살펴본 300편 넘는 논문 가운데 57%가 AI에 의식 비슷한 것이 있다는 전제에서 출발한다는 사실에 그 자신도 놀랐다고 한다." },
+          { "t": "p", "x": "드 윈터는 404 미디어에 \"I pointed out that if goats could show emergent capabilities, that's great\"라며 \"these properties need to be preserved if we remove the chat panel. After all, it's not like your neurons know they are part of a brain\"이라고 말했다. 사용자가 LLM에서 온기나 성격 같은 것을 느끼면 쉽게 정이 든다는 연구도 오래 해 왔다면서, 토스터에는 정을 주지 않지만 영화 속 인물에게는 정이 든다고 덧붙였다." },
+          { "t": "p", "x": "논문에서 그는 '인공지능'이라는 말을 아예 쓰지 않고 '언어 학습 모델'이라는 더 정확한 표현을 고른다. 붙임성 있는 겉면을 걷어 내면 이 기술이 결국 우리에게 익숙한 낯선 코드 덩어리로 되돌아온다는 걸 보여 주는 것이 연구의 목적이었다." },
+          { "t": "p", "x": "코타쿠의 잭 코처는 이 논문을 발판 삼아 업계의 화법을 꼬집는다. 사람처럼 생각하는 컴퓨터라는 약속이 AI 투자 열풍을 떠받치고 있지만, 사람의 일을 흉내 낸다고 해서 생각과 의도, 추론이 생기지는 않는다. 그의 표현을 빌리면 AI의 의식이란 물 마시는 장난감 새의 갈증 정도다." },
+          { "t": "p", "x": "드 윈터의 제안은 명료하다. \"I propose that we need to stop assuming that LLMs behave like humans just because they were trained with natural language. We should perform experiments that allow us to see LLMs as how they are, not how we believe they should be.\"" }
         ]
       }
     },
     {
-      "id": "valve-ai-labels",
+      "id": "steam-ai-stigma",
       "eyebrow": "AI NEWS",
-      "headline": "스팀 AI 표기를 더 키우고 검색에서\n가려 버리는 플러그인이 나왔다",
-      "body": "스팀 AI 고지를 팝업으로 키우고 검색 속 AI 게임을 흐리는 확장이 나왔다.",
-      "mini_headline": "스팀 AI 경고 플러그인",
-      "tool": "Valve",
-      "source": "GamesRadar",
-      "url": "https://www.gamesradar.com/games/as-epic-games-ceo-tim-sweeney-blasts-valve-over-steam-ai-disclosures-dev-makes-those-disclosures-even-more-noticeable-and-hides-ai-aided-games-in-search-results/",
-      "accent": "#2ec5c5",
+      "headline": "스팀 AI 고지 게임은 리뷰가 53%\n줄어든다는 데이터 분석이 나왔다",
+      "body": "변수를 통제하자 AI 고지 게임의 리뷰가 53% 적었고 평가도 더 부정적이었다.",
+      "mini_headline": "AI 낙인, 리뷰 −53%",
+      "tool": "Steam",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
+      "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/aw2Us2NVKyuN3JbpnKVtaH.jpg" },
-          { "t": "p", "x": "에픽 게임스 CEO 팀 스위니가 AI 생성 콘텐츠 의무 고지를 두고 밸브를 비판한 직후, 그 고지를 오히려 훨씬 눈에 띄게 만들고 검색 결과에서 AI 게임을 가려 버리는 브라우저 플러그인이 등장했다. 스위니가 반길 물건은 아니다." },
-          { "t": "p", "x": "리눅스 게이머이자 코더를 자처하는 개발자 seeeeew가 이달 초 블루스카이에 'AI warning for Steam' 플러그인을 공개했다. 스팀의 고지가 게임의 성공 가능성을 \"much, much, much harder\"하게 만든다는 스위니의 발언이 나오기 직전이었다." },
-          { "t": "p", "x": "플러그인은 파이어폭스와 크롬용으로 배포되고 깃허브에도 올라 있다. 스팀 클라이언트 자체에서 돌리는 우회법이 있다는 제보도 보이지만 기자가 직접 확인하지는 못했다." },
-          { "t": "p", "x": "크롬 버전을 써 본 GamesRadar+의 확인으로는 설명대로 동작한다. AI 콘텐츠 고지가 있는 게임의 스팀 상점 페이지를 열면 그 고지가 첫 화면부터 팝업으로 튀어나와 도저히 지나칠 수 없다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/aFSperWAifMjMjLcLpsNad.jpg" },
-          { "t": "p", "x": "검색 결과에서는 AI를 쓴 게임이 기본으로 흐릿하게 가려지고 그 위에 \"AI Generated Content Disclosure found\"라는 라벨이 덮인다. 생성형 AI 사용을 결격 사유로 여기는 사람이라면 게임을 하나하나 확인하는 수고를 덜 수 있다." },
-          { "t": "p", "x": "이 플러그인이 널리 알려진 계기는 출시 예정작 데모가 쏟아지는 최근의 스팀 넥스트 페스트였다. 팰월드 리드 존 버클리가 한탄했듯 넥스트 페스트 출품작 가운데 AI 생성 이미지나 에셋을 쓰는 게임이 갈수록 늘고 있다." },
-          { "t": "p", "x": "스위니는 에픽 게임스 스토어에는 없는 AI 고지를 스팀에서도 없애라고 거듭 요구해 왔다. 최근에는 고지가 AI를 쓴 게임에 \"Scarlet Letter\"를 붙이고 \"게임을 죽이려는 혐오 커뮤니티\"를 불러들인다고 주장했다. 개발자는 생산성을 크게 높여 주는 도구를 포기하고 경쟁에서 밀리든가 낙인을 감수하든가 골라야 한다는 논리다." },
-          { "t": "p", "x": "정작 GamesRadar+가 전 세계 개발자 30여 명을 취재한 기획에서는 여러 이유로 생성형 AI를 쓰고 싶지 않다는 목소리가 반복해서 나왔다." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU.jpg" },
+          { "t": "p", "x": "게임 오라클의 마켓 데이터 분석가 로스 버턴이 스팀의 AI 콘텐츠 고지가 플레이어 반응에 어떤 흔적을 남기는지 파고들었다. 표본은 2025년 1월부터 10월 사이에 나온 게임 9,879종. 스팸성 출시작과 순수 상업용 출시작, 부분유료화 게임을 걸러낸 수치다. 이 가운데 17.9%가 AI 사용을 고지했다." },
+          { "t": "p", "x": "넓게 보면 차이는 크지 않았다. AI 고지가 없는 게임이 리뷰가 조금 더 많았고 리뷰가 아예 없는 경우도 적었으며, 리뷰 100개 이상을 받은 게임으로 좁히면 중앙값 평점이 4%가량 높은 정도였다." },
+          { "t": "p", "x": "그런데 퍼블리셔와 개발 경력, 게임 유형 같은 변수를 통제하자 그림이 완전히 달라졌다. \"After controlling for publisher, developer experience, and game type, developers using AI see a ~53% reduction in reviews compared to those who do not.\"" },
+          { "t": "p", "x": "버턴은 숨은 변수 가능성도 따져 봤다. 관찰된 페널티를 다른 요인으로 설명하려면 그 미지의 X 변수가 AI 채택 확률을 2.7배로 끌어올리는 동시에, 퍼블리셔 지원이나 개발 경력과 무관하게 리뷰 수를 22% 깎을 만큼 강해야 한다는 계산이다." },
+          { "t": "p", "x": "낙인은 잘 만든 게임일수록 아프게 박힌다. 보고서에 따르면 저품질 게임에서는 AI가 아무 차이를 만들지 않지만, 성공 가능성이 큰 게임에서는 'AI 낙인'이 실재하며 그렇지 않았다면 성공했을 개발자를 혹독하게 벌한다." },
+          { "t": "p", "x": "반례도 있다. 버턴은 AI를 폭넓게 쓰면서도 상업적으로 성공한 더 파이널스를 들며 \"AI can be used well, or it can be sloppy, and that matters\"라고 적었다. 보고서는 AI를 망치에 비유하며 끝난다. 꼭 필요한 도구지만 잘못 휘두르면 부순다." }
         ]
       }
     }

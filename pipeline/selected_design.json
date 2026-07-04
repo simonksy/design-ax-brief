@@ -1,39 +1,50 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "selection_mode": "user",
   "picks": [
     {
-      "category": "figma",
+      "url": "https://www.figma.com/blog/7-questions-from-lc/",
+      "source": "Figma Blog",
+      "published_iso": "2026-07-03T00:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma distills what senior design and product leaders said at Config Leadership Collective about running teams through the AI shift: favor adaptability and hands-on experimentation over rigid process, and protect craft and human judgment. The through-line: expertise is no longer having the answer, it's knowing which answer works best in context.",
+      "category": "workflow",
       "tool": "Figma",
       "accent": "#7928ca",
-      "motif": "frame",
-      "source": "Figma Blog",
-      "published_iso": "2026-07-01T12:00:00Z",
-      "og_image": null,
-      "url": "https://www.figma.com/blog/got-skills-make-the-figma-agent-a-better-collaborator/",
-      "excerpt": "Figma introduces agent Skills — reusable workflow packages that let teams encode their design processes, conventions, and brand rules into the AI agent for repeatable tasks. Skills can be authored by anyone on the team, shared via the community, or pulled from official Figma packs."
+      "motif": "frame"
     },
     {
-      "category": "workflow",
-      "tool": "Z.ai",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "source": "VentureBeat",
-      "published_iso": "2026-07-02T00:00:00Z",
-      "og_image": null,
-      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
-      "excerpt": "Z.ai, the startup founded by former Zoom CEO Eric Yuan, has launched ZCode — an AI coding assistant targeting enterprise teams with deep codebase understanding and privacy-first architecture. ZCode positions itself as a challenger to Cursor, GitHub Copilot, and Claude Code by promising faster iteration cycles and on-prem deployment options."
-    },
-    {
-      "category": "workflow",
-      "tool": "Anthropic",
+      "url": "https://www.cgchannel.com/2026/07/mixos-lets-you-paint-pbr-textures-in-your-web-browser/",
+      "source": "CG Channel",
+      "published_iso": "2026-07-03T00:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260703_Mixos_Paint4KPBRTexturesInBrowser_f.jpg",
+      "excerpt": "Mixos is a new browser-based WebGPU tool for painting 4K PBR textures directly onto 3D models or remixing a library of 2,600+ CC0 materials, with credit-based generative AI for auto-texturing models and generating PBR materials from text descriptions. Exports target DCC apps and game engines.",
+      "category": "render",
+      "tool": "Mixos",
       "accent": "#f5a623",
-      "motif": "sphere",
-      "source": "VentureBeat",
-      "published_iso": "2026-07-01T20:00:00Z",
-      "og_image": null,
-      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
-      "excerpt": "Anthropic is restoring global access to Claude Fable 5 — its most capable model — after the US Commerce Department withdrew the June 12 export-control restriction. Enterprises and design teams using Claude-powered workflows can now access Fable 5 across Claude.ai, Claude Code, and Claude Cowork starting July 1."
+      "motif": "sphere"
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/07/inbibo-releases-adonis-2-1-with-adonisml/",
+      "source": "CG Channel",
+      "published_iso": "2026-07-02T00:00:00Z",
+      "og_image": "https://i.ytimg.com/vi/1Zmb_QUqEP4/maxresdefault.jpg",
+      "excerpt": "Inbibo's Adonis 2.1 adds AdonisML, a machine learning edition of its soft-tissue simulation add-on for Maya and Houdini: an ML Deformer and SmartTissue system train lightweight approximations of complex tissue setups so animators get high-fidelity secondary motion at interactive speed.",
+      "category": "render",
+      "tool": "Inbibo",
+      "accent": "#2ec5c5",
+      "motif": "cube"
+    },
+    {
+      "url": "https://develop3d.com/cad/the-prometheus-question-for-cad/",
+      "source": "DEVELOP3D",
+      "published_iso": "2026-07-01T11:43:00+01:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/Stephen_Holmes_prometheus_comment-1024x576.jpg",
+      "excerpt": "DEVELOP3D examines Jeff Bezos's Prometheus project — an AI venture aiming to build an 'artificial general engineer' — and asks what it means for CAD: could AI compress lengthy engineering design projects into far shorter timeframes, and what happens to the tools engineers use today?",
+      "category": "cad",
+      "tool": "Prometheus",
+      "accent": "#0070f3",
+      "motif": "cube"
     }
   ]
 }

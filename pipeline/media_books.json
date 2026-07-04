@@ -1,6 +1,9 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "media": [
-    { "id": "plutonium-or-salt", "type": "image", "src": "pipeline/media/plutonium-or-salt.png" }
+    { "id": "kindle-translate", "type": "image", "src": "pipeline/media/kindle-translate.jpg" },
+    { "id": "emaqi-premium", "type": "image", "src": "pipeline/media/emaqi-premium.png" },
+    { "id": "ai-peer-review", "type": "image", "src": "pipeline/media/ai-peer-review.jpg" },
+    { "id": "bookpact-ai", "type": "image", "src": "pipeline/media/bookpact-ai.png" }
   ]
 }

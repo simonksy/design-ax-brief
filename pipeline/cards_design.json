@@ -1,15 +1,15 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "cards": [
     {
-      "id": "figma-agent-skills",
+      "id": "figma-lc-7q",
       "eyebrow": "AI NEWS",
-      "headline": "피그마 에이전트에 팀의 방식을 심는다\n'스킬' 실전 활용법 공개",
-      "body": "반복 프롬프트를 슬래시 명령 하나로 묶어 팀 전체가 같은 워크플로를 쓴다.",
-      "mini_headline": "피그마 에이전트 스킬",
+      "headline": "1,300명 리더에게 물은 AI 시대\n디자인 리더십 7가지 질문",
+      "body": "리더들은 전문성이 답을 아는 게 아니라 맥락에 맞는 답을 고르는 일이라고 입을 모았다.",
+      "mini_headline": "리더들의 7가지 질문",
       "tool": "Figma",
       "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/got-skills-make-the-figma-agent-a-better-collaborator/",
+      "url": "https://www.figma.com/blog/7-questions-from-lc/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -17,117 +17,158 @@
         "blocks": [
           {
             "t": "p",
-            "x": "팀마다 일하는 방식이 있다. 제품명 표기법, PM의 스펙 양식, 디자인 피드백에 늘 쓰는 프롬프트처럼 모두가 의존하지만 설명하긴 어려운, 누군가의 머릿속에만 있는 노하우다. 피그마의 '스킬'은 이런 과정을 평이한 문장으로 적어 에이전트에 한 번 가르쳐 두는 재사용 지침 묶음이다. 어떤 채팅에서든 슬래시(/)로 불러 쓸 수 있고, 팀이나 조직 전체에 게시해 공유할 수도 있다. Config에서 스킬을 선보인 뒤 피그마 팀이 직접 써 보며 얻은 교훈을 공개했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1632&h=1632&q=75&fit=max&auto=format"
+            "x": "Figma가 지난 6월 Config Leadership Collective에 디자인·프로덕트·엔지니어링 시니어 리더 1,300여 명을 모아 AI 시대의 디자인을 이틀간 논의했다. Airbnb, OpenAI, Sephora, Atlassian, Cisco 등의 임원들이 무대에 올랐고, Figma는 행사에 들고 갔던 7가지 질문과 가장 공감을 얻은 답을 정리했다."
           },
           {
             "t": "p",
-            "x": "스킬은 디자인 시스템을 보완한다. 시스템이 컴포넌트와 패턴을 준다면, 스킬은 브랜드 보이스와 컴플라이언스, 리뷰 절차 같은 팀의 전문성을 얹는다. 피그마는 CEO 딜런의 코멘트를 학습시켜 리뷰 전에 피드백을 미리 받아보는 스킬, UX 라이팅 팀의 표기·구두점 기준을 점검하는 스킬, 첫 사용자의 눈으로 경험을 훑어 숨은 마찰을 찾아내는 스킬을 만들어 쓰고 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+            "x": "아직 스스로도 파악 중인 변화를 어떻게 이끄느냐는 질문에 OpenAI 프로덕트 디자인 총괄 Ian Silber는 \"몇 달 만에 업계 전체가 바뀌었다. 하나의 프로세스에 매달리기 어렵고, 결국 적응력의 문제\"라고 답했다. Airbnb 디자인 부사장 Teo Connor는 초심자의 마음으로 팀과 함께 직접 프로토타이핑하며 실험한다고 했고, Expedia 디자인 부사장 Rachel Been은 잘 안 되더라도 즐겁게 실험할 권한을 팀에 줘야 한다고 말했다."
           },
           {
             "t": "p",
-            "x": "반복되는 팀 의식도 스킬감이다. 자리를 비웠던 사람에게 파일의 최근 활동을 요약해 주는 '캐치업', 페르소나와 범위를 인터뷰해 크리틱 페이지를 만들어 주는 준비 체크리스트, 크리틱 피드백을 주제별 후속 계획으로 정리해 슬랙에 붙일 수 있는 리캡 카드까지. 매번 같은 방식으로 하는 일이라면 스킬로 만들 가치가 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+            "x": "바뀌지 않는 것도 있다. 사용자를 이해하고 크래프트를 지키는 기본기다. 그 위에서 전문성의 무게중심은 실행에서 판단으로 옮겨 간다. Sephora 기술 총괄 Sneha Narahalli의 말처럼 \"전문성은 더 이상 답을 아는 게 아니다. 지금 놓인 맥락에서 어떤 답이 통하는지 아는 것\"이다."
           },
           {
             "t": "p",
-            "x": "스킬은 피그마 에이전트와 Figma Make 양쪽에서 돌아가고, 커넥터를 붙이면 외부 도구의 맥락까지 끌어온다. 리뷰 코멘트를 프로젝트 관리 도구의 태스크로 바꾸거나, HeyMarvin·Notion 리서치 라이브러리에서 디자인을 뒷받침할 근거를 찾아오는 식이다. 곧 피그마 MCP 서버를 통해 MCP 호환 클라이언트 어디서든 쓸 수 있게 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+            "x": "팀 구조도 다시 짜는 중이다. Airbnb는 작은 스타트업처럼 움직이는 팟 단위로 재편해 데이터 과학자나 비즈니스 인력까지 한 팀에 묶었다. 도구 도입에 관해서는 Rachel Been이 AI 교육 프로그램을 세워 팀의 활용을 끌어올린다면, OpenAI의 Alex Embiricos는 거창한 자동화 계획 대신 긴 Slack 스레드 요약처럼 가장 작은 일부터 시작하라고 조언했다."
           },
           {
             "t": "p",
-            "x": "협업 파일에서 에이전트 채팅은 이제 기본으로 공유된다. 동료가 어떤 스킬과 프롬프트로 문제를 풀었는지 채팅을 열어 그대로 따라가 볼 수 있다는 뜻이다. 민감한 작업은 언제든 비공개로 돌리면 된다. 에이전트는 Professional·Organization·Enterprise 요금제의 Full 시트 사용자에게 오픈 베타로 제공되며, 베타 기간에는 무료다."
+            "x": "에이전트에 대한 신뢰는 승인 단계를 두고 자율성을 조금씩 넓히는 방식으로 쌓고, 품질의 기준은 결국 사람이 지킨다. Cisco 사장 겸 CPO Jeetu Patel은 \"테이스트는 외주 줄 수 없다\"고 못 박았다. 코드가 자동으로 만들어질수록 중요해지는 건 테이스트와 좋은 판단이라는 얘기다."
           }
         ]
       }
     },
     {
-      "id": "zai-zcode",
+      "id": "mixos-pbr",
       "eyebrow": "AI NEWS",
-      "headline": "Z.ai, 무료 코딩 에이전트 ZCode 공개\n커서·코파일럿에 도전장",
-      "body": "GLM-5.2 전용 무료 IDE와 월 16.20달러 요금제로 커서·코파일럿을 겨냥한다.",
-      "mini_headline": "Z.ai ZCode 출시",
-      "tool": "Z.ai",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "headline": "브라우저에서 4K PBR 텍스처를\n바로 칠하는 Mixos 등장",
+      "body": "설치 없이 브라우저에서 4K PBR 텍스처를 칠하고 2,600여 개 CC0 재질을 섞는다.",
+      "mini_headline": "브라우저 PBR 페인팅",
+      "tool": "Mixos",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/07/mixos-lets-you-paint-pbr-textures-in-your-web-browser/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260703_Mixos_Paint4KPBRTexturesInBrowser_f.jpg"
+          },
+          {
+            "t": "p",
+            "x": "이동 중에도 텍스처 작업을 할 방법이 필요하다면 Mixos를 눈여겨볼 만하다. 새로 나온 WebGPU 기반 앱으로, 웹 브라우저에서 4K PBR 텍스처를 직접 칠하거나 2,600개가 넘는 CC0 재질 라이브러리를 섞어 만들 수 있다. 옵션인 AI 기능을 켜면 텍스트 프롬프트만으로 완전한 PBR 텍스처 세트도 생성한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260703_Mixos_Paint4KPBRTexturesInBrowser_UI.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Mixos에는 3D 텍스처 페인팅 도구에서 기대할 만한 기능이 대부분 들어 있다. 오프라인 애플리케이션이 아니라 브라우저 창 안에서 돌아갈 뿐이다. FBX, OBJ, glTF/GLB 같은 표준 포맷으로 3D 모델을 불러와 브러시 모드, 스탬프, 스텐실, 프로젝션 페인팅으로 직접 텍스처를 칠한다. 알베도·노멀·러프니스·메탈릭·하이트·오패시티 같은 표준 PBR 맵은 물론, 앰비언트 오클루전이나 커버처처럼 지오메트리에서 파생되는 맵도 베이크할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "ambientCG와 Poly Haven에서 주로 가져온 2,600개의 기성 PBR 재질을 레이어 시스템으로 블렌딩해 텍스처를 만드는 방법도 있다. 이 재질 믹싱 툴셋은 Strata라는 별도 웹 앱으로도 나와 있다. 텍스처를 입힌 모델은 로컬에 저장하거나 최대 4K 해상도 텍스처 맵으로 내보내 Blender, Cinema 4D, Maya, Unity, UE5 같은 DCC 앱과 게임 엔진에서 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "생성형 AI 워크플로도 갖췄다. 텍스트 설명만으로 완전한 PBR 재질이나 개별 텍스처, 마스크, 알파, 데칼을 만들고, Auto-Texture 시스템은 불러온 3D 모델에 자동으로 텍스처를 입힌 뒤 여러 각도의 테스트 렌더까지 뽑아 준다. AI 기능은 크레딧 기반이며 유료 구독에 월 크레딧이 포함된다."
+          },
+          {
+            "t": "p",
+            "x": "Adobe의 Substance 3D나 오픈소스 ArmorPaint 같은 오프라인 재질 제작 소프트웨어의 기능을 전부 갖춘 건 아니다. 대신 브라우저 기반이라 설치가 필요 없고 고사양 머신도 필요 없다. 실질적인 하드웨어 요구 사항은 \"GPU가 6년 이내 제품일 것\" 정도다. 원격으로 자주 일한다면 이동 중 작업이나, 메인 머신이 없을 때 재질을 급히 손보는 용도로 쓸 만하다."
+          },
+          {
+            "t": "p",
+            "x": "데스크톱의 Chrome, Edge, Safari 18 이상을 지원한다. 에디터 사용과 씬 저장은 무료지만 내보낸 텍스처에 워터마크가 붙어서, 상업 프로젝트에 쓰려면 유료 Pro나 Studio 계정이 필요하다. Pro는 월 9달러 또는 연 84달러에 월 100 AI 크레딧, Studio는 월 19달러 또는 연 180달러에 월 400 AI 크레딧을 준다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "adonis-ml",
+      "eyebrow": "AI NEWS",
+      "headline": "ML로 가벼워진 연조직 시뮬레이션\nInbibo, Adonis 2.1 공개",
+      "body": "ML Deformer와 SmartTissue가 무거운 조직 셋업을 학습해 인터랙티브 속도로 돌린다.",
+      "mini_headline": "AdonisML 등장",
+      "tool": "Inbibo",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/07/inbibo-releases-adonis-2-1-with-adonisml/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Inbibo가 Maya와 Houdini용 모듈형 해부학 프레임워크 Adonis의 최신 버전 2.1을 내놨다. 기본 에디션인 AdonisFX에는 새 해부 구조 전송 시스템과, 해부학적 디테일을 지키면서 시뮬레이션 아티팩트를 다듬는 새 디포머 AdnMush가 들어갔다. 여기에 고급 에디션 AdonisML이 새로 추가됐다. 복잡하고 처리가 느린 조직 셋업을 가볍고 인터랙티브한 근사 모델로 학습시키는 머신러닝 시스템이다."
+          },
+          {
+            "t": "p",
+            "x": "지난해 처음 나온 Adonis는 리깅 아티스트가 근육·지방·피부별 솔버로 물리 시뮬레이션되는 연조직을 캐릭터에 층층이 얹게 해 준다. 인기가 많았지만 더는 판매되지 않는 Ziva VFX가 남긴 시장의 빈자리를 노린 툴셋으로, Sony Pictures Imageworks를 비롯한 주요 VFX 스튜디오가 이미 쓰고 있다."
+          },
+          {
+            "t": "video",
+            "yt": "1Zmb_QUqEP4"
+          },
+          {
+            "t": "p",
+            "x": "소프트웨어는 이제 두 에디션으로 나뉜다. 기존 기본 에디션 AdonisFX와 새 확장 에디션 AdonisML이다. 이름대로 AdonisML에는 머신러닝 기반 기능인 ML Deformer와 SmartTissue가 들어간다. Maya와 Unreal Engine의 동명 기능처럼, ML Deformer는 복잡하고 느린 조직 셋업이 만들어 내는 변형을 학습해 대신 표현한다. 학습된 근사 모델은 원본 셋업보다 빨리 처리되어 애니메이터가 캐릭터를 훨씬 인터랙티브하게 다룰 수 있다. SmartTissue 시스템은 학습 과정에서 사라진 2차 모션 — 출렁임, 가라앉음, 오버슈트 — 을 되살려 더 정밀하고 사실적인 변형을 만든다. Inbibo는 두 도구의 조합을 \"인터랙티브한 속도로 고품질 결과가 필요한 애니메이터를 위한 ML 기반 경로\"라고 설명한다."
+          },
+          {
+            "t": "p",
+            "x": "Adonis 2.1의 또 다른 신기능으로 해부 구조 전송 시스템 AdnTransfer가 있다. 체형이 크게 다른 캐릭터나 크리처 사이에서도 조직 셋업을 옮겨 준다. 타깃 메시의 랜드마크 지점을 소스 메시에 자동으로 고정하는 AdnRigidWrap과 그 사이 연조직을 처리하는 AdnSoftWrap, 두 디포머로 구성되며 Landmark Tool로 랜드마크 쌍을 직접 조정할 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "시뮬레이션 아티팩트를 다듬는 디포머 AdnMush도 새로 들어갔다. 기존 AdnRelax보다 가슴 근육 같은 미세한 해부학적 디테일을 잘 보존해 근육이 도드라진 캐릭터에 유리하다. 후처리용 독립 노드로 쓸 수 있을 뿐 아니라 다른 모든 솔버 안에서 자동으로 돌아가 후처리 필요 자체를 줄인다."
+          },
+          {
+            "t": "p",
+            "x": "Adonis 2.1은 Windows 10 이상과 CentOS 7+/RHEL 8+/Rocky Linux 8+에서 Maya 2023 이상, Houdini 20 이상을 지원한다. AdonisFX는 연 수입 10만 파운드 미만 아티스트용 Indie 구독이 노드 고정 라이선스당 월 25파운드(약 33달러) 또는 연 250파운드다. Pro 구독은 노드 고정 월 110파운드/연 1,100파운드, 플로팅 월 150파운드/연 1,500파운드. AdonisML은 가격 문의가 필요하지만 Pro 구독이 \"연 3,000파운드부터\" 시작한다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "prometheus-cad",
+      "eyebrow": "AI NEWS",
+      "headline": "베이조스의 Prometheus는\nCAD의 미래를 바꿀 수 있을까",
+      "body": "180억 달러를 모은 '인공 일반 엔지니어' 구상이 CAD 업계에 무엇을 뜻하는지 짚었다.",
+      "mini_headline": "베이조스의 CAD 도전",
+      "tool": "Prometheus",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/cad/the-prometheus-question-for-cad/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "베이징의 AI 랩 Z.ai(옛 즈푸 AI)가 플래그십 모델 GLM-5.2 전용 '에이전틱 개발 환경' ZCode를 무료로 내놨다. macOS·윈도우·리눅스를 지원하고, 서드파티 모델을 위한 BYOK 설정도 열어 뒀다. 커서, 클로드 코드, 깃허브 코파일럿, 구글 Antigravity와 정면으로 붙겠다는 얘기다."
+            "t": "img",
+            "src": "https://develop3d.com/wp-content/uploads/2026/07/Stephen_Holmes_prometheus_comment-1024x576.jpg"
           },
           {
             "t": "p",
-            "x": "ZCode는 채팅 사이드바를 덧붙인 기존 IDE와 결이 다르다. 사용자가 목표를 말하면 에이전트가 계획을 세우고, 파일을 고치고, 검사를 돌리며 목표에 닿을 때까지 반복한다. 데스크톱은 물론 모바일, 위챗·페이슈 봇에서도 같은 작업을 이어갈 수 있다. 메신저가 업무 소통을 지배하는 중국 개발자 시장을 정확히 겨눈 기능이다. 민감한 명령과 파일 변경은 실행 전 확인을 거친다."
+            "x": "제프 베이조스가 2025년 11월 출범시킨 AI 스타트업 Prometheus를 두고 DEVELOP3D의 Stephen Holmes가 질문을 던졌다. 이 회사는 JP Morgan, BlackRock 같은 대형 투자자가 참여한 두 차례 펀딩으로 벌써 180억 달러 넘게 모았지만, 정작 무엇을 만드는지는 베일에 싸여 있다."
           },
           {
             "t": "p",
-            "x": "수익은 GLM Coding Plan 구독에서 나온다. 월 16.20달러 Lite부터 144달러 Max까지, 클로드 코드나 커서의 비슷한 등급보다 한참 싸다. 7월 31일까지는 구독자에게 1.5배 쿼터 보너스도 준다. 클로드 코드, Codex, Gemini, OpenCode 같은 다른 모델과 에이전트도 함께 지원한다."
+            "x": "내건 목표는 AI 코딩 에이전트가 소프트웨어에서 해낸 일을 물리 엔지니어링에서 해내는 것이다. 엔지니어 100명이 10년 걸리는 프로젝트를 1년짜리 프로그램으로 압축해 인류가 더 많은 것을 만들게 하겠다는 구상이다. 베이조스는 2026년 5월 CNBC Squawk Pod에서 Andrew Ross Sorkin과 만나 \"우리는 인공 일반 엔지니어(artificial general engineer)를 만들고 있다. CAD라고 들어봤을 텐데, 이건 말하자면 그것의 아주아주 현대적인 버전\"이라고 말했다. 지금까지 나온 가장 분명한 발언이지만, 실제로 무엇이 나올지는 여전히 알 수 없다."
           },
           {
             "t": "p",
-            "x": "핵심은 GLM-5.2다. 7,440억 파라미터 MoE(활성 400억)에 100만 토큰 컨텍스트를 갖췄고, MIT 라이선스 오픈 가중치로 풀렸다. 훈련은 전량 화웨이 칩으로 이뤄졌으며, 6월 중순 Code Arena에서 앤트로픽 클로드 Fable 5에 이어 세계 2위에 올랐다. API 가격은 입력 100만 토큰당 1.40달러, 출력 4.40달러로 클로드 Opus 4.8 대비 최대 82% 싸다."
+            "x": "LinkedIn을 훑어보면 샌프란시스코·런던·취리히 사무실에 100명 넘는 직원이 있고, 대부분 대형 테크 기업 출신 소프트웨어 엔지니어다. VFX 도구부터 신약 설계 알고리즘, 대중교통 앱까지 이력은 화려한데, 정작 CAD나 물리적 제조를 다뤄 본 사람은 드물다."
           },
           {
             "t": "p",
-            "x": "타이밍도 절묘했다. 미 정부가 6월 12일 앤트로픽의 Fable 5·Mythos 5에 외국인 접근을 차단하는 수출통제를 발동한 바로 그날, Z.ai는 GLM-5.2를 제한 없이 오픈소스로 풀었다. 정부가 하루아침에 모델을 꺼버릴 수 있다는 '주권적 접근 리스크'가 드러나자 자체 호스팅 가능한 대안에 관심이 쏠렸고, 즈푸의 시가총액은 6월 22일 1조 홍콩달러(1,280억 달러)를 넘어섰다."
+            "x": "Holmes는 '인공 일반 엔지니어'라는 말이 결국 AGI에 기대는 시스템을 가리킨다고 짚는다. AGI는 아직 존재하지 않고 지금 있는 건 특정 작업에 한정된 '내로우 AI'뿐이다. 새 CAD 시스템 하나 내자고 AGI 개발에 이만한 돈을 붓는다는 그림은 어딘가 미덥지 않고, 180억 달러면 검증된 설계·엔지니어링 기술을 가진 기존 업체들을 사들이고도 남는다는 계산도 나온다."
           },
           {
             "t": "p",
-            "x": "가트너가 연 100억 달러 안팎으로 추산하는 기업용 AI 코딩 에이전트 시장에서 Z.ai는 아직 매직 쿼드런트 평가 대상 12개 벤더에도 들지 못했다. ZCode 자체는 오픈소스가 아니고 리눅스 지원은 베타이며, 메신저로 호출되는 에이전트의 자격증명 처리도 검증이 필요하다는 지적이 나온다. 서구 기업의 신뢰를 얻을 수 있을지, 적자를 내는 1,280억 달러짜리 회사를 지탱할 수 있을지가 남은 질문이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "fable5-global",
-      "eyebrow": "AI NEWS",
-      "headline": "클로드 Fable 5, 전 세계에 돌아왔다\n미 수출통제 3주 만에 철회",
-      "body": "미 상무부가 통제령을 거두자 3주 만에 Claude.ai와 클로드 코드에 다시 열렸다.",
-      "mini_headline": "Fable 5 글로벌 복귀",
-      "tool": "Anthropic",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "앤트로픽이 최강 모델 클로드 Fable 5의 전 세계 접근을 복구했다. 미 상무부가 6월 12일 발동했던 긴급 수출통제를 6월 30일 철회하면서다. Fable 5는 Claude 플랫폼, Claude.ai, 클로드 코드, Claude Cowork에서 다시 쓸 수 있고, AWS·구글 클라우드·마이크로소프트 Foundry에서도 '최대한 빨리' 복구를 진행하고 있다고 회사는 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "발단은 아마존 연구진의 보고서였다. Fable 5의 안전장치를 우회해 소프트웨어 취약점을 찾고 익스플로잇 코드까지 만들게 하는 기법이 정부에 전해지자, 6월 12일 오후 5시 21분 외국인의 모델 접근을 전면 금지하는 통제령이 떨어졌다. API 단에서 사용자 국적을 가릴 방법이 없던 앤트로픽은 전 고객의 접근을 끊을 수밖에 없었다. 출시 사흘 만의 일이다."
-          },
-          {
-            "t": "p",
-            "x": "앤트로픽은 Opus 4.8, GPT-5.5, Kimi K2.7 같은 다른 모델도 같은 취약점을 찾아낼 수 있다고 반박하는 한편, 해당 기법을 99% 이상 차단하는 자동 안전 분류기를 새로 만들어 상무부 CAISI의 검증을 통과했다. 다만 안전 마진이 넓어진 만큼 정상적인 코딩 요청이 차단되는 일도 늘 수 있고, 차단된 세션은 Opus 4.8로 자동 강등된다."
-          },
-          {
-            "t": "p",
-            "x": "가격은 입력 100만 토큰당 10달러, 출력 50달러로 프런티어 모델 중 가장 비싸다. 대신 7월 7일까지 Pro·Max·Team과 일부 엔터프라이즈 구독자는 주간 한도의 50%까지 추가 비용 없이 쓸 수 있다. 사이버보안 특화 모델 Mythos 5는 법적 통제가 풀렸는데도 6월 26일 승인받은 일부 미국 조직에만 열린 검증 접근 체제로 남아 있다."
-          },
-          {
-            "t": "p",
-            "x": "재개 조건으로 앤트로픽은 보안 리스크 선제 탐지, 정부와의 프로토콜·표준 협력, 악성 활동 보고를 약속했다. 상무부는 상황이 바뀌면 통제를 재발동할 권리를 명시했다. 3주간의 블랙아웃은 폐쇄형 API에 기댄 기업 인프라가 얼마나 취약한지 드러냈고, 오픈 가중치 대안으로 갈아탈 수 있는 모델 불가지론적 폴백 아키텍처가 기업 기술 리더들의 새 과제로 떠올랐다."
+            "x": "그렇다고 기존 CAD 업계가 뒤집힐 것 같지는 않다는 게 그의 진단이다. 빅4 CAD 업체들은 니치 스타트업과의 협업을 늘리고 있고, Prometheus의 상용 제품이 언제 나올지, 나오기는 할지조차 알 수 없다. 다만 AGI가 정말 등장한다면 오늘의 설계 도구를 한참 뛰어넘을 수 있다는 점만은 분명하다며, Holmes는 그때까지 케이티 페리를 다시 우주 로켓에 태우는 일이나 제프에게 부탁하자는 농담으로 글을 맺는다."
           }
         ]
       }

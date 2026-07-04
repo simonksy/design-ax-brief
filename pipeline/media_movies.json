@@ -1,21 +1,26 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "media": [
     {
-      "id": "declarations-pbs",
+      "id": "foster-f1-ai",
+      "type": "image",
+      "src": "pipeline/media/foster-f1-ai.jpg"
+    },
+    {
+      "id": "kviff-ai-days",
+      "type": "image",
+      "src": "pipeline/media/kviff-ai-days.jpg"
+    },
+    {
+      "id": "sheep-in-the-box",
       "type": "video",
-      "src": "pipeline/media/declarations-pbs.mp4",
-      "poster": "pipeline/media/declarations-pbs.jpg"
+      "src": "pipeline/media/sheep-in-the-box.mp4",
+      "poster": "pipeline/media/sheep-in-the-box.jpg"
     },
     {
-      "id": "ai-cosmetic-surgery",
+      "id": "feig-hi",
       "type": "image",
-      "src": "pipeline/media/ai-cosmetic-surgery.jpg"
-    },
-    {
-      "id": "artificial-neon",
-      "type": "image",
-      "src": "pipeline/media/artificial-neon.jpg"
+      "src": "pipeline/media/feig-hi.jpg"
     }
   ]
 }

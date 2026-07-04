@@ -1,31 +1,10 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "media": [
-    {
-      "id": "meta-fury-glasses",
-      "type": "image",
-      "src": "pipeline/media/meta-fury-glasses.jpg"
-    },
-    {
-      "id": "gmktec-ai-tower",
-      "type": "image",
-      "src": "pipeline/media/gmktec-ai-tower.png"
-    },
-    {
-      "id": "ubtech-uworld",
-      "type": "image",
-      "src": "pipeline/media/ubtech-uworld.jpg"
-    },
-    {
-      "id": "unpacked-2026-preview",
-      "type": "image",
-      "src": "pipeline/media/unpacked-2026-preview.jpg"
-    },
-    {
-      "id": "google-home-speaker",
-      "type": "video",
-      "src": "pipeline/media/google-home-speaker.mp4",
-      "poster": "pipeline/media/google-home-speaker.jpg"
-    }
+    { "id": "snap-specs", "type": "image", "src": "pipeline/media/snap-specs.jpg" },
+    { "id": "meta-paywall", "type": "image", "src": "pipeline/media/meta-paywall.jpg" },
+    { "id": "hp-omnibook-x2", "type": "image", "src": "pipeline/media/hp-omnibook-x2.jpg" },
+    { "id": "nokia-ai-buttons", "type": "image", "src": "pipeline/media/nokia-ai-buttons.jpg" },
+    { "id": "gemini-android-auto", "type": "image", "src": "pipeline/media/gemini-android-auto.jpg" }
   ]
 }

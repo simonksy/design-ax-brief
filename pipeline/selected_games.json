@@ -1,39 +1,39 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "selection_mode": "user",
   "picks": [
     {
+      "url": "https://www.gamesradar.com/games/iron-lung-and-dusk-creator-says-using-generative-ai-in-games-is-great-if-you-want-a-big-neon-sign-for-your-audience-that-says-i-dont-give-a-f/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-06-30T20:48:14+00:00",
+      "og_image": null,
+      "excerpt": "Indie horror auteur David Szymanski (Dusk, Iron Lung) says shipping generative-AI content in a game signals to players that the developer doesn't care, arguing craft and intent are the whole point of indie games.",
       "category": "games",
-      "tool": "Godot",
+      "tool": "Dusk",
       "accent": "#ff2d55",
-      "motif": "cube",
-      "source": "Game Developer",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": null,
-      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
-      "excerpt": "The Godot open-source game engine project has announced it will reject nearly all AI-generated or AI-assisted code contributions, citing concerns about training data provenance, license compliance, and code quality. The policy puts Godot at direct odds with the broader industry trend toward AI-assisted development workflows."
+      "motif": "cube"
     },
     {
+      "url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
+      "source": "Kotaku",
+      "published_iso": "2026-06-28T17:28:19+00:00",
+      "og_image": null,
+      "excerpt": "Researchers used Age of Empires 2's scenario editor as a test bed to show how easily LLM-style AI fails at basic situated reasoning, arguing it is farcical to treat current AI systems as conscious or truly cognizant.",
       "category": "games",
-      "tool": "EA",
+      "tool": "Kotaku",
       "accent": "#f5a623",
-      "motif": "cube",
-      "source": "GameSpot",
-      "published_iso": "2026-06-23T00:00:00Z",
-      "og_image": null,
-      "url": "https://www.gamespot.com/articles/ea-exec-says-there-has-been-a-real-rise-of-creativity-after-developers-embraced-ai/1100-6537793/",
-      "excerpt": "An Electronic Arts executive claims AI tools have produced a genuine creativity surge among game developers, with teams pursuing ideas previously too time-consuming or resource-intensive to attempt. The optimistic framing contrasts sharply with ongoing industry-wide job cuts partly attributed to AI efficiency gains."
+      "motif": "cube"
     },
     {
-      "category": "games",
-      "tool": "Valve",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "source": "GamesRadar",
-      "published_iso": "2026-06-29T00:00:00Z",
+      "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
+      "source": "PC Gamer",
+      "published_iso": "2026-06-21T16:23:00+00:00",
       "og_image": null,
-      "url": "https://www.gamesradar.com/games/as-epic-games-ceo-tim-sweeney-blasts-valve-over-steam-ai-disclosures-dev-makes-those-disclosures-even-more-noticeable-and-hides-ai-aided-games-in-search-results/",
-      "excerpt": "Valve has responded to Epic CEO Tim Sweeney's criticism of its AI disclosure policy by making AI-content labels more prominent in Steam search results and demoting AI-assisted games in ranking — and a community modder escalated further with a browser extension that adds unavoidable AI warnings to game pages. The escalating battle is reshaping how storefronts handle AI transparency."
+      "excerpt": "A data analyst crunched Steam data and found games carrying AI-content disclosures get roughly 53% fewer reviews, and the reviews they do get skew more negative — hard numbers for the commercial cost of shipping with AI on Steam.",
+      "category": "games",
+      "tool": "Steam",
+      "accent": "#0070f3",
+      "motif": "cube"
     }
   ]
 }

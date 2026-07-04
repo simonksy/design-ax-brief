@@ -1,14 +1,62 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://gizmodo.com/meta-fury-ai-glasses-review-the-worst-company-still-makes-the-best-smart-glasses-2000777827",
+      "url": "https://gizmodo.com/apple-vision-pro-isnt-the-only-future-of-ar-specs-wearable-computer-built-into-see-through-glasses-are-now-up-for-pre-order-2000779916",
       "source": "Gizmodo",
       "category": "gadgets",
-      "published_iso": "2026-06-29T18:30:00+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-16.jpg",
-      "excerpt": "Full review of Meta's new $299 Fury AI glasses, the first of Meta's self-branded smart glasses running the upgraded Muse Spark AI model. The reviewer finds the AI genuinely more fluid and useful — a 12MP camera and 8-hour battery round out the best smart glasses yet — while wrestling with Meta's data practices."
+      "published_iso": "2026-07-01T13:25:43+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Specs-1200x675.jpg",
+      "excerpt": "Snap's SPECS see-through AR glasses are officially up for pre-order at $2,195 with fall 2026 delivery: dual Snapdragon processors, RGB and infrared cameras and computer-vision sensors feed real-time spatial awareness so the built-in AI understands what you're looking at — a very different bet on AR's future than Apple Vision Pro."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/02/meta-glasses-get-premium-usage-limits/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-02T16:55:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "Meta is putting Conversation Focus — the smart glasses' audio-amplification feature that runs entirely on-device using beamforming mics and onboard processing — behind its $20/month Meta One Premium tier, capping free users at 3 hours a month and premium users at 15, despite no cloud costs to justify the limits."
+    },
+    {
+      "url": "https://www.tomshardware.com/laptops/hp-omnibook-ultra-14-snapdragon-x2-elite-2026-review",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-07-03T13:34:57Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/24EVssYUEprpbAxrvi6Hyn-1999-80.jpg",
+      "excerpt": "Review of the HP OmniBook Ultra 14 (2026), a Copilot+ PC built on Qualcomm's Snapdragon X2 Elite: potent NPU-backed Arm performance and standout battery endurance make it one of the stronger AI laptops of the year, at a premium price."
+    },
+    {
+      "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-07-03T14:37:45+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg",
+      "excerpt": "MemoMind One, the first smart glasses from XGIMI's new AI hardware brand, blasted past $500K on Kickstarter: dual green micro-LED displays, an on-device AI assistant, 26-language real-time translation and an optional Memo+ subscription that builds searchable long-term memory of meetings and conversations, from $400."
+    },
+    {
+      "url": "https://www.notebookcheck.net/HMD-silently-launches-four-new-Nokia-feature-phones-with-AI-assistant-buttons.1334327.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-07-03T19:07:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-Nokia-feature-phones-1.png",
+      "excerpt": "HMD quietly launched four new Nokia feature phones (200/210/215/235 4G) with dedicated AI assistant buttons: the S30+ handsets ship with the voice-controlled Sikey AI assistant for calls, reminders and basic queries — free for the first 180 days, then locked behind a subscription."
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-live-android-auto-hands-on-good-bad-3681466/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-07-02T09:00:17+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/gemini-live-in-android-auto.jpg",
+      "excerpt": "Hands-on with Gemini Live running on Android Auto during a drive across Romania: the conversational AI is brilliant for multi-language chat and staying alert at the wheel, but phone incompatibilities, mandatory screen taps to end sessions and total dropouts when Maps navigation kicks in leave it feeling very broken."
+    },
+    {
+      "url": "https://www.notebookcheck.net/New-affordable-smart-glasses-pack-13-MP-Sony-sensor-and-up-to-12-hours-of-battery-life.1332340.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-07-01T10:50:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-VisionPro-glasses.png",
+      "excerpt": "Rogbid's $119.99 VisionPro smart glasses launch with a 13 MP Sony camera, up to 12 hours of battery and a dual-chip AI architecture handling real-time object and landmark recognition, printed-text translation, live multilingual conversation translation and a voice assistant — undercutting Meta's glasses at a fraction of the price."
     },
     {
       "url": "https://gizmodo.com/the-race-to-better-ar-glasses-is-moving-even-faster-than-expected-2000778923",
@@ -19,11 +67,27 @@
       "excerpt": "Analysis of how the AI/AR glasses hardware race is accelerating beyond expectations — and it's not just Google and Xreal's Aura glasses pushing the boundaries, as waveguide displays and on-device AI assistants converge across the category."
     },
     {
+      "url": "https://9to5google.com/2026/07/01/google-on-what-android-halo-does-talking-less-about-ai-and-how-gemini-will-use-car-cameras-video/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-01T17:15:00+00:00",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Google-IO-2026-Android-Logo-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Android chief Sameer Samat details Android Halo and how Gemini is being wired into hardware — including using cars' front-facing cameras so drivers can ask the AI about what's happening in front of the vehicle — as on-device Gemini spreads across Android devices."
+    },
+    {
+      "url": "https://www.techradar.com/tech/48-hours-with-the-memomind-one-xr-glasses-a-slow-ai-lack-of-a-camera-and-disappointing-audio-left-me-desperate-for-more",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-06-30T22:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/9UAbHsMPW8ZFprx5vnWnZN-2560-80.jpg",
+      "excerpt": "48 hours with XGIMI's MemoMind One XR glasses, a waveguide-display AI wearable: slow AI responses, no camera and disappointing audio leave the reviewer questioning why you'd pick them in an increasingly crowded sea of AI smart glasses."
+    },
+    {
       "url": "https://www.engadget.com/2199194/ray-ban-meta-optics-review/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-06-22T18:18:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/ray-ban-meta-optics-review-a-better-fit-comes-with-a-price/intro-1782151653.jpg",
+      "published_iso": "2026-06-22T18:18:04+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/ray-ban-meta-optics-review-a-better-fit-comes-with-a-price/l-intro-1782151653.jpg",
       "excerpt": "Review of Meta's prescription-ready Ray-Ban Meta Optics smart glasses: improved fit, a new action button and enhanced Meta AI powered by the Muse Spark model, weighed against privacy concerns and a $700+ price when configured with custom lenses."
     },
     {
@@ -35,65 +99,17 @@
       "excerpt": "Hands-on with Meta's first self-branded AI glasses lineup — the Meta Adventurer, Meta Fury and Meta Glasses by Kylie (Jenner) — $299 smart glasses that shed the Ray-Ban branding while keeping the Gen 2 hardware and debuting the Muse Spark AI companion app."
     },
     {
-      "url": "https://www.techradar.com/tech/48-hours-with-the-memomind-one-xr-glasses-a-slow-ai-lack-of-a-camera-and-disappointing-audio-left-me-desperate-for-more",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-06-30T22:00:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/9UAbHsMPW8ZFprx5vnWnZN-2560-80.jpg",
-      "excerpt": "48 hours with XGIMI's MemoMind One XR glasses, a waveguide-display AI wearable: slow AI responses, no camera and disappointing audio leave the reviewer questioning why you'd pick them in an increasingly crowded sea of AI smart glasses."
-    },
-    {
-      "url": "https://www.techradar.com/pro/gmktecs-new-usd3-600-mini-pc-recycles-ryzen-ai-max-395-cpu-adds-proprietary-openclaw-agent-and-towering-skyscraper-design",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-03T00:20:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zAfCQqJs5qpfgQUi8hFrMX-1920-80.png",
-      "excerpt": "GMKtec turns its Ryzen AI Max+ 395 mini PC into a $3,600 tower workstation for local AI: the skyscraper-design machine keeps the NPU-equipped chip, doubles down on RAM for on-device models and ships with a proprietary OpenClaw AI agent."
-    },
-    {
-      "url": "https://www.digitaltrends.com/cool-tech/chinas-ubtech-unveils-eerily-lifelike-companion-robots-and-yes-they-want-to-move-in-with-you/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-07-01T11:13:21+00:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/UBTech-Uworld-U1-series-robot-launch-image-2.jpg?resize=1200%2C630",
-      "excerpt": "UBTech launched its Uworld U1 series of full-size 'ultra-bionic' humanoid companion robots, built on what it claims is the first LLM designed for long-term emotional companionship — recognizing 20+ emotional states, learning household routines, and even offering customized replicas of a person's face and voice."
-    },
-    {
-      "url": "https://9to5google.com/2026/07/01/google-on-what-android-halo-does-talking-less-about-ai-and-how-gemini-will-use-car-cameras-video/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-01T17:15:00+00:00",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Google-IO-2026-Android-Logo-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Android chief Sameer Samat details Android Halo and how Gemini is being wired into hardware — including using cars' front-facing cameras so drivers can ask the AI about what's happening in front of the vehicle — as on-device Gemini spreads across Android devices."
-    },
-    {
-      "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-unpacked-2026-preview-galaxy-z-fold-8-z-flip-8-intelligent-eyewear-and-more",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-06-20T08:00:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8Q6VDcoVt3UQUCEnH6ZWoW-1819-80.jpg",
-      "excerpt": "Preview of Samsung's summer Galaxy Unpacked: the Galaxy Z Fold 8 and Z Flip 8 with expanded Galaxy AI features, plus the Gemini-powered 'Intelligent Eyewear' smart glasses Samsung is building with Google on Android XR."
-    },
-    {
       "url": "https://www.androidauthority.com/p-3680594/",
       "source": "Android Authority",
       "category": "gadgets",
       "published_iso": "2026-06-23T19:03:56+00:00",
       "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_speaker_3.jpg",
       "excerpt": "Google is rolling out a wave of Gemini for Home updates to its smart speakers and cameras, sharpening voice-assistant responses and camera intelligence ahead of the Gemini-first Google Home Speaker's arrival."
-    },
-    {
-      "url": "https://9to5google.com/2026/06/24/google-home-speaker-review-talk-gemini-to-me-video/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-06-24T13:43:03+00:00",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-design-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Review of the $99 Google Home Speaker, Google's first device built around Gemini for Home: onboard ML chips process common commands locally, and the reviewer calls it 'the platform for Gemini for the next half a decade' — here's what it's like to live with."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 11,
+    "kept": 13,
     "against_days": 5
   }
 }

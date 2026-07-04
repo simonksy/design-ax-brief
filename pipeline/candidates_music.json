@@ -1,14 +1,46 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-04",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.synthtopia.com/content/2026/06/30/drumcomputer-claude-extension-lets-you-make-beats-via-text-prompts/",
-      "source": "Synthtopia",
+      "url": "https://www.musicradar.com/music-tech/logic-pro-12-3-is-here-and-my-favourite-stock-plugin-just-got-even-better",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-07-01T04:15:36+00:00",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/06/ai-beat-making.jpg",
-      "excerpt": "Sugar Bytes has released a free Claude extension for its DrumComputer instrument that generates complete drum sounds and beats from a single natural-language text prompt, letting producers describe a groove instead of programming it by hand."
+      "published_iso": "2026-07-01T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rDZVv7ELXUmbiewWfFYqM7.png",
+      "excerpt": "Apple ships Logic Pro 12.3 with upgraded Beat Breaker and Sample Alchemy plus a smarter AI-powered Chord ID that now detects extended chords and inversions even from out-of-tune pianos, distorted guitars and full mixes. (Gearnews covered the same release 01 Jul - de-duped, MusicRadar kept for the stronger AI angle.)"
+    },
+    {
+      "url": "https://musictech.com/news/gear/credits-fm/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-07-03T00:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2022/07/Music-Money@2000x1500.jpg",
+      "excerpt": "Notes.fm launches Credits.fm, a free and open music-credits database indexing 150M+ song codes and contributor records so artists can prove attribution and claim royalties as AI takes over music discovery and monetisation. (Date from MusicTech byline '1 day ago' at fetch on 2026-07-04.)"
+    },
+    {
+      "url": "https://musictech.com/news/industry/sza-disgusting-ai-diplo/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-06-23T00:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/06/SZA-Grammy-Awards-2026.jpg",
+      "excerpt": "SZA lashes out after finding 238 of her tracks in AI training datasets, calling out Diplo's equity stake in Suno and the exploitation of Black musicians. Distinct artist-reaction story that follows the already-covered Atlantic dataset beat - curator should weigh dupe risk. (Date from MusicTech byline '11 days ago' at fetch on 2026-07-04.)"
+    },
+    {
+      "url": "https://www.hypebot.com/do-fans-really-care-if-musicians-use-ai-to-create-a-song/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-07-01T00:00:00Z",
+      "og_image": "https://images.unsplash.com/photo-1617704716344-8d987ac681a4?crop=entropy&cs=tinysrgb&fit=max&fm=webp&w=652",
+      "excerpt": "Hypebot essay asking whether fans genuinely object to AI-assisted songs or whether the backlash mirrors earlier resistance to synths and DAWs. Opinion piece without new data - weakest of the batch, include only if the day runs thin."
+    },
+    {
+      "url": "https://www.soundonsound.com/reviews/izotope-rx12-advanced",
+      "source": "Sound on Sound",
+      "category": "music",
+      "published_iso": "2026-07-01T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/izotope_rx12_01-tXMDju4hvv5jZgQO_E2EVD40.__y0Wyi.jpg",
+      "excerpt": "Sound on Sound's July 2026 issue reviews iZotope RX12 Advanced: tools rebuilt on newer neural nets, improved music stem-splitting shown in a single view, and the new Scene Rebalance that brings stem-separation-style control to film sound. (Dated to the July 2026 issue - page shows issue month only.)"
     }
   ]
 }

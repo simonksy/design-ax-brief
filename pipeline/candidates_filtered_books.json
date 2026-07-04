@@ -1,55 +1,91 @@
 {
-  "section": "books",
+  "date": "2026-07-04",
+  "window_hours": 336,
   "items": [
     {
-      "section": "books",
-      "category": "books",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-06-23T00:00:00Z",
-      "headline": "Beijing 2026 Book Fair Focuses on Publishing Transformation, AI, and the Future of Reading",
-      "excerpt": "The 2026 Beijing International Book Fair centered on AI's transformation of publishing — from AI-assisted editing and rights trading to AI-powered reader personalization — with Chinese publishers showcasing aggressive AI integration across the production chain. Western delegates noted the speed gap and debated whether opt-in licensing frameworks can keep pace.",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100677-beijing-2026-focuses-on-publishing-transformation-ai-and-reading.html"
+      "title": "The Amazon Kindle has new AI-powered Translations",
+      "url": "https://goodereader.com/blog/kindle/the-amazon-kindle-has-new-ai-powered-translations",
+      "outlet": "Good e-Reader",
+      "published": "2026-07-01T12:00:00Z",
+      "freshness": "FRESH",
+      "summary": "Amazon expanded Kindle Translate (beta) to five new language pairs: English paired with Spanish, German, French, Italian and Portuguese. Self-published KDP authors can auto-translate and publish 'with a few clicks'; every translation passes an automated quality review before going live, authors can preview and set pricing, and translated titles can enroll in Kindle Unlimited. Amazon notes historically fewer than 5% of Amazon.com titles exist in more than one language. Kindle Translate launched Nov 2025 (EN<->ES, DE->EN); this is its first big language expansion.",
+      "keywords": [
+        "AI literary translation",
+        "KDP AI",
+        "AI self-publishing"
+      ],
+      "notes": "Single-story, product news, strongest candidate. Verified on-page date July 1, 2026."
     },
     {
-      "section": "books",
-      "category": "books",
-      "source": "The Bookseller",
-      "published_iso": "2026-06-22T00:00:00Z",
-      "headline": "AI Already Embedded in Publishing in China, Beijing International Book Fair Hears",
-      "excerpt": "The Beijing International Book Fair heard first-hand accounts of AI being deeply embedded across China's publishing industry — in translation, editing, rights management, and customer personalization — while Western publishers remained in cautious pilot mode. The contrast opened a frank debate about competitive disadvantage for traditional publishers.",
-      "url": "https://www.thebookseller.com/news/artificial-intelligence-already-embedded-in-publishing-in-china-beijing-international-book-fair-hears"
+      "title": "Emaqi Looks to Grow Digital Manga Market with Subscription Service",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100751-emaqi-looks-to-grow-digital-manga-market-with-subscription-service.html",
+      "outlet": "Publishers Weekly",
+      "published": "2026-07-01T12:00:00Z",
+      "freshness": "FRESH",
+      "summary": "Emaqi, the digital manga platform from Tokyo-based Orange Inc., launched a $6.99/month premium subscription for North American English-language readers with 26,000+ volumes across ~2,500 series from major Japanese publishers (incl. Attack on Titan, upcoming Viz releases). Emaqi uses AI-assisted programs to translate, letter and produce its manga exclusives, compressing the localization pipeline. 7-day free trial plus reader incentive programs.",
+      "keywords": [
+        "AI comic manga",
+        "AI literary translation"
+      ],
+      "notes": "Single-story. AI angle is Orange's AI-assisted translation/lettering production pipeline. Verified date July 1, 2026."
     },
     {
-      "section": "books",
-      "category": "books",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-06-20T00:00:00Z",
-      "headline": "Plutonium or Salt? When It Comes to Books, How Much AI Is Too Much?",
-      "excerpt": "Publishing Perspectives asks where publishers draw the line on AI integration — whether AI functions as a trace element that enhances the human process or a contaminant that transforms what a book fundamentally is. Editors, agents, and authors share their personal thresholds in a candid industry survey.",
-      "url": "https://publishingperspectives.com/2026/06/plutonium-or-salt-when-it-comes-to-books-how-much-ai-is-too-much/"
+      "title": "Guest Post — Now is the Time for AI in Peer Review, and Publishing Policies Need to Recognize This",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/30/guest-post-now-is-the-time-for-ai-in-peer-review-and-publishing-policies-need-to-recognize-this/",
+      "outlet": "Scholarly Kitchen",
+      "published": "2026-06-30T12:00:00Z",
+      "freshness": "FRESH",
+      "summary": "Guest post arguing that AI already has a legitimate role in scholarly peer review and that journal/publisher policies — many of which flatly ban AI in review — need updating with practical guidance instead of prohibition. Site byline date June 30, 2026.",
+      "keywords": [
+        "AI publishing",
+        "AI editing proofreading"
+      ],
+      "notes": "Single-story opinion/policy piece. Scholarly Kitchen already ran 2 cards this window (Jun 29, Jun 30 issues) — curator should weigh outlet fatigue."
     },
     {
-      "section": "books",
-      "category": "books",
-      "source": "Jane Friedman",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "headline": "Links of Interest: AI and Publishing — What Writers Need to Know This Week (July 1, 2026)",
-      "excerpt": "Jane Friedman's weekly curated roundup covers the most important AI and publishing developments for working writers — from new disclosure policies and contract clauses to avoid, to the emerging market for human-verified creative work. A practical primer for navigating AI's accelerating impact on the writing and publishing business.",
-      "url": "https://www.janefriedman.com/links-of-interest-july-1-2026/"
+      "title": "Before the Guardrails: Why AI Governance in Research Must Start with Purpose",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/",
+      "outlet": "Scholarly Kitchen",
+      "published": "2026-06-29T12:00:00Z",
+      "freshness": "FRESH",
+      "summary": "Essay on AI governance in research publishing: argues governance frameworks should start from the purpose of scholarship rather than bolting guardrails onto tools after the fact. Site byline date June 29, 2026.",
+      "keywords": [
+        "AI publishing",
+        "AI textbook"
+      ],
+      "notes": "Second Scholarly Kitchen candidate — apply <=3/outlet cap and outlet fatigue judgment; peer-review piece above is the sharper story."
     },
     {
-      "section": "books",
-      "category": "books",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-06-19T00:00:00Z",
-      "headline": "Authors Guild Speaks Out on Publisher AI Use",
-      "excerpt": "The Authors Guild has issued a formal statement criticizing publishers for adopting AI tools that affect authors' work without transparency or meaningful consent, demanding clearer contract protections and revenue-sharing arrangements for AI-assisted projects. The statement follows reports that major publishers are deploying AI quietly in editorial, marketing, and rights processes.",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100211-authors-guild-speaks-out-on-publisher-ai-use.html"
+      "title": "In France, Publishers Confront Broad Market Challenges as Revenue Slides for a Third Consecutive Year",
+      "url": "https://publishingperspectives.com/2026/06/in-france-publishers-confront-broad-market-challenges-as-revenue-slides-for-a-third-consecutive-year/",
+      "outlet": "Publishing Perspectives",
+      "published": "2026-06-30T12:00:00Z",
+      "freshness": "FRESH",
+      "summary": "French publishers' revenue fell 0.6% to EUR 2.88B in 2025 — a third straight annual decline, with over half of SNE member publishers operating at a loss. AI angle: SNE's March 2025 lawsuit against Meta over unlicensed training on French literary works heads to proceedings in early 2027, and a French bill creating a 'presumption of exploitation of cultural content by AI providers' passed the Senate unanimously but stalled in the National Assembly. Verified date June 30, 2026.",
+      "keywords": [
+        "AI copyright authors",
+        "AI publishing"
+      ],
+      "notes": "Single-story market report; AI is a secondary but concrete thread (Meta suit, AI presumption bill). Lower priority than product/policy stories above."
+    },
+    {
+      "title": "Around the Book World: Monday, June 29th, 2026 — Dutch publishers launch Bookpact.ai AI-licensing platform",
+      "url": "https://publishingperspectives.com/2026/06/around-the-book-world-monday-june-29th-2026/",
+      "outlet": "Publishing Perspectives",
+      "published": "2026-06-29T12:00:00Z",
+      "freshness": "FRESH",
+      "summary": "ROUNDUP, but carries one otherwise-uncovered story: Dutch publishers VBK, WPG, Lannoo and Maven plus distributor CB launched Bookpact.ai, a platform letting publishers (with author consent) control and monetize AI use of their books on an opt-in, title-by-title basis — training, summarization, translation and quotation each licensed as separate use cases with separate terms, plus traceable usage reporting. No single-story coverage exists on any allowed domain (only IPA/publishersmarketplace outside the pool). Roundup's other AI items (Kobo 45% rejections, ElevenLabs Michael Caine Odyssey) are ALREADY PUBLISHED as cards — the card angle must be Bookpact only.",
+      "keywords": [
+        "AI copyright authors",
+        "publisher AI licensing deal",
+        "AI publishing"
+      ],
+      "notes": "Flagged roundup — prefer single-story rules apply, but Bookpact.ai is a genuinely new, distinct story unavailable elsewhere in the allowed pool. Verified date June 29, 2026."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 5,
+    "kept": 6,
     "against_days": 5
   }
 }

@@ -1,61 +1,61 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "selection_mode": "user",
   "picks": [
     {
+      "url": "https://gizmodo.com/apple-vision-pro-isnt-the-only-future-of-ar-specs-wearable-computer-built-into-see-through-glasses-are-now-up-for-pre-order-2000779916",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-01T13:25:43+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Specs-1200x675.jpg",
+      "excerpt": "Snap's SPECS see-through AR glasses are officially up for pre-order at $2,195 with fall 2026 delivery: dual Snapdragon processors, RGB and infrared cameras and computer-vision sensors feed real-time spatial awareness so the built-in AI understands what you're looking at — a very different bet on AR's future than Apple Vision Pro.",
+      "category": "gadgets",
+      "tool": "Snap",
+      "accent": "#ff5a4d",
+      "motif": "headset"
+    },
+    {
+      "url": "https://9to5google.com/2026/07/02/meta-glasses-get-premium-usage-limits/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-02T16:55:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "Meta is putting Conversation Focus — the smart glasses' audio-amplification feature that runs entirely on-device using beamforming mics and onboard processing — behind its $20/month Meta One Premium tier, capping free users at 3 hours a month and premium users at 15, despite no cloud costs to justify the limits.",
       "category": "gadgets",
       "tool": "Meta",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "source": "Gizmodo",
-      "published_iso": "2026-06-29T18:30:00+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-16.jpg",
-      "url": "https://gizmodo.com/meta-fury-ai-glasses-review-the-worst-company-still-makes-the-best-smart-glasses-2000777827",
-      "excerpt": "Full review of Meta's new $299 Fury AI glasses, the first of Meta's self-branded smart glasses running the upgraded Muse Spark AI model. The reviewer finds the AI genuinely more fluid and useful — a 12MP camera and 8-hour battery round out the best smart glasses yet — while wrestling with Meta's data practices."
-    },
-    {
-      "category": "gadgets",
-      "tool": "GMKtec",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "source": "TechRadar",
-      "published_iso": "2026-07-03T00:20:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zAfCQqJs5qpfgQUi8hFrMX-1920-80.png",
-      "url": "https://www.techradar.com/pro/gmktecs-new-usd3-600-mini-pc-recycles-ryzen-ai-max-395-cpu-adds-proprietary-openclaw-agent-and-towering-skyscraper-design",
-      "excerpt": "GMKtec turns its Ryzen AI Max+ 395 mini PC into a $3,600 tower workstation for local AI: the skyscraper-design machine keeps the NPU-equipped chip, doubles down on RAM for on-device models and ships with a proprietary OpenClaw AI agent."
-    },
-    {
-      "category": "gadgets",
-      "tool": "UBTech",
       "accent": "#7928ca",
-      "motif": "headset",
-      "source": "Digital Trends",
-      "published_iso": "2026-07-01T11:13:21+00:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/UBTech-Uworld-U1-series-robot-launch-image-2.jpg?resize=1200%2C630",
-      "url": "https://www.digitaltrends.com/cool-tech/chinas-ubtech-unveils-eerily-lifelike-companion-robots-and-yes-they-want-to-move-in-with-you/",
-      "excerpt": "UBTech launched its Uworld U1 series of full-size 'ultra-bionic' humanoid companion robots, built on what it claims is the first LLM designed for long-term emotional companionship — recognizing 20+ emotional states, learning household routines, and even offering customized replicas of a person's face and voice."
+      "motif": "headset"
     },
     {
+      "url": "https://www.tomshardware.com/laptops/hp-omnibook-ultra-14-snapdragon-x2-elite-2026-review",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-07-03T13:34:57Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/24EVssYUEprpbAxrvi6Hyn-1999-80.jpg",
+      "excerpt": "Review of the HP OmniBook Ultra 14 (2026), a Copilot+ PC built on Qualcomm's Snapdragon X2 Elite: potent NPU-backed Arm performance and standout battery endurance make it one of the stronger AI laptops of the year, at a premium price.",
       "category": "gadgets",
-      "tool": "Samsung",
-      "accent": "#3b6bff",
-      "motif": "headset",
-      "source": "Tom's Guide",
-      "published_iso": "2026-06-20T08:00:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8Q6VDcoVt3UQUCEnH6ZWoW-1819-80.jpg",
-      "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-unpacked-2026-preview-galaxy-z-fold-8-z-flip-8-intelligent-eyewear-and-more",
-      "excerpt": "Preview of Samsung's summer Galaxy Unpacked: the Galaxy Z Fold 8 and Z Flip 8 with expanded Galaxy AI features, plus the Gemini-powered 'Intelligent Eyewear' smart glasses Samsung is building with Google on Android XR."
+      "tool": "HP",
+      "accent": "#0070f3",
+      "motif": "headset"
     },
     {
+      "url": "https://www.notebookcheck.net/HMD-silently-launches-four-new-Nokia-feature-phones-with-AI-assistant-buttons.1334327.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-07-03T19:07:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-Nokia-feature-phones-1.png",
+      "excerpt": "HMD quietly launched four new Nokia feature phones (200/210/215/235 4G) with dedicated AI assistant buttons: the S30+ handsets ship with the voice-controlled Sikey AI assistant for calls, reminders and basic queries — free for the first 180 days, then locked behind a subscription.",
+      "category": "gadgets",
+      "tool": "Nokia",
+      "accent": "#f5a623",
+      "motif": "headset"
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-live-android-auto-hands-on-good-bad-3681466/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-02T09:00:17+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/gemini-live-in-android-auto.jpg",
+      "excerpt": "Hands-on with Gemini Live running on Android Auto during a drive across Romania: the conversational AI is brilliant for multi-language chat and staying alert at the wheel, but phone incompatibilities, mandatory screen taps to end sessions and total dropouts when Maps navigation kicks in leave it feeling very broken.",
       "category": "gadgets",
       "tool": "Google",
       "accent": "#2ec5c5",
-      "motif": "headset",
-      "source": "9to5Google",
-      "published_iso": "2026-06-24T13:43:03+00:00",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-design-13.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "url": "https://9to5google.com/2026/06/24/google-home-speaker-review-talk-gemini-to-me-video/",
-      "excerpt": "Review of the $99 Google Home Speaker, Google's first device built around Gemini for Home: onboard ML chips process common commands locally, and the reviewer calls it 'the platform for Gemini for the next half a decade' — here's what it's like to live with."
+      "motif": "headset"
     }
   ]
 }
