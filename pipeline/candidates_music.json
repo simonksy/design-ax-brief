@@ -1,46 +1,38 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.musicradar.com/music-tech/logic-pro-12-3-is-here-and-my-favourite-stock-plugin-just-got-even-better",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rDZVv7ELXUmbiewWfFYqM7.png",
-      "excerpt": "Apple ships Logic Pro 12.3 with upgraded Beat Breaker and Sample Alchemy plus a smarter AI-powered Chord ID that now detects extended chords and inversions even from out-of-tune pianos, distorted guitars and full mixes. (Gearnews covered the same release 01 Jul - de-duped, MusicRadar kept for the stronger AI angle.)"
-    },
-    {
-      "url": "https://musictech.com/news/gear/credits-fm/",
+      "url": "https://musictech.com/news/industry/izotope-joins-boris-fx-exits-native-instruments/",
       "source": "MusicTech",
       "category": "music",
       "published_iso": "2026-07-03T00:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2022/07/Music-Money@2000x1500.jpg",
-      "excerpt": "Notes.fm launches Credits.fm, a free and open music-credits database indexing 150M+ song codes and contributor records so artists can prove attribution and claim royalties as AI takes over music discovery and monetisation. (Date from MusicTech byline '1 day ago' at fetch on 2026-07-04.)"
+      "og_image": "https://musictech.com/wp-content/uploads/2026/04/iZotope-RX-12-2-credit-press@1400x1050.jpg",
+      "excerpt": "iZotope leaves Native Instruments (sold to inMusic in May 2026) and joins founder-owned Boris FX, which cites iZotope's 'smart and practical use of AI' in RX/Ozone as the reason for the pairing; all existing licenses and plugin development continue uninterrupted. Follows the just-published RX12 review card, so this is the industry follow-up beat. (Date from MusicTech byline '3 days ago' at fetch on 2026-07-06; de-duped against CDM 07-02, Sound On Sound 07-02 and Bedroom Producers Blog 07-03 coverage — MusicTech kept for the clearest AI rationale quotes.)"
     },
     {
-      "url": "https://musictech.com/news/industry/sza-disgusting-ai-diplo/",
-      "source": "MusicTech",
+      "url": "https://au.rollingstone.com/music/music-news/good-intent-apologise-generated-ai-artist-sydney-live-music-gig-97983/",
+      "source": "Rolling Stone AU",
       "category": "music",
-      "published_iso": "2026-06-23T00:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/06/SZA-Grammy-Awards-2026.jpg",
-      "excerpt": "SZA lashes out after finding 238 of her tracks in AI training datasets, calling out Diplo's equity stake in Suno and the exploitation of Black musicians. Distinct artist-reaction story that follows the already-covered Atlantic dataset beat - curator should weigh dupe risk. (Date from MusicTech byline '11 days ago' at fetch on 2026-07-04.)"
+      "published_iso": "2026-07-03T14:27:00Z",
+      "og_image": "",
+      "excerpt": "Booking agency Good Intent apologised after unknowingly putting AI-generated 'artist' Afro Charles on the bill of a July 1 Sydney live show; the act's reps had pitched it as a 'producer' with 'live vocals', and musician Aidan Sammut exposed the deception. Agency and venue Bootleggers promise tougher vetting and a Support Act donation — a first-of-its-kind AI-slop-hits-the-stage story. (On-page timestamp: July 3, 2026, 2:27 PM.)"
     },
     {
-      "url": "https://www.hypebot.com/do-fans-really-care-if-musicians-use-ai-to-create-a-song/",
-      "source": "Hypebot",
+      "url": "https://www.musicradar.com/music-tech/ai-prompt-plugins",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": "https://images.unsplash.com/photo-1617704716344-8d987ac681a4?crop=entropy&cs=tinysrgb&fit=max&fm=webp&w=652",
-      "excerpt": "Hypebot essay asking whether fans genuinely object to AI-assisted songs or whether the backlash mirrors earlier resistance to synths and DAWs. Opinion piece without new data - weakest of the batch, include only if the day runs thin."
+      "published_iso": "2026-06-26T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/mZrJmwiLCue9iRDHpj2odm.png",
+      "excerpt": "MusicRadar goes inside ChatDSP, Amorph and Pluginmaker.ai — three new 'vibe coding' platforms that turn natural-language prompts into working audio plugins with zero C++/DSP knowledge, with makers claiming manual coding 'won't be a thing' in a few years, plus pushback on environmental cost and developer jobs. Distinct from the published Sugar Bytes DrumComputer-Claude card (that was one plugin gaining a text interface; this is prompt-to-plugin generation). (Dated June 26, 2026 on page.)"
     },
     {
-      "url": "https://www.soundonsound.com/reviews/izotope-rx12-advanced",
+      "url": "https://www.soundonsound.com/news/steinberg-spectralayers-13-now-available",
       "source": "Sound on Sound",
       "category": "music",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/izotope_rx12_01-tXMDju4hvv5jZgQO_E2EVD40.__y0Wyi.jpg",
-      "excerpt": "Sound on Sound's July 2026 issue reviews iZotope RX12 Advanced: tools rebuilt on newer neural nets, improved music stem-splitting shown in a single view, and the new Scene Rebalance that brings stem-separation-style control to film sound. (Dated to the July 2026 issue - page shows issue month only.)"
+      "published_iso": "2026-07-02T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/steinberg_spectralayers_13-Icz0q7hjK0vsFa9uXUTNw0266yeGBjeh.jpg",
+      "excerpt": "Steinberg ships SpectraLayers 13: AI-powered Unmix Sound Effects pulls incidental sounds out of ambience, generative Ambience Heal fills the holes left behind, and a Voice Enhance module uses generative AI to rebuild badly recorded speech, alongside Unmix Two Voices, DeCrosstalk and Dolby Atmos round-tripping. (SOS listing date 2/7/26 = 2 July 2026; Gearnews covered the same release 03 Jul — de-duped, SOS kept as primary source.)"
     }
   ]
 }

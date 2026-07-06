@@ -1,99 +1,171 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "cards": [
     {
-      "id": "logic-pro-123",
+      "id": "izotope-borisfx",
       "eyebrow": "AI NEWS",
-      "headline": "로직 프로 12.3, AI 코드 ID가\n음정 나간 피아노까지 읽는다",
-      "body": "코드 ID가 디스토션 기타와 풀 믹스에서도 확장 코드와 자리바꿈을 짚어낸다.",
-      "mini_headline": "로직 프로 12.3 공개",
-      "tool": "Apple",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/logic-pro-12-3-is-here-and-my-favourite-stock-plugin-just-got-even-better",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/rDZVv7ELXUmbiewWfFYqM7.png" },
-          { "t": "p", "x": "애플이 로직 프로 12.3을 내놨다. 스톡 플러그인 Sample Alchemy와 Beat Breaker를 확장하고 AI 화성 분석 도구 Chord ID를 갈아엎은 업데이트로, 자잘한 개선도 한 무더기다." },
-          { "t": "p", "x": "가장 큰 수혜자는 Beat Breaker다. 2023년 등장해 어떤 소스든 실시간으로 썰고 뒤집어 글리치 패턴을 만들던 이 이펙트에 새 모드 세 개가 붙었다. Filter 모드는 슬라이스마다 로우패스·하이패스 필터를 걸어 필터 타입·컷오프·슬로프·커브를 따로 만지고, Resonance 모드는 슬라이스별 공진을 조절해 빠른 리듬형 필터 오토메이션을 만든다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/QvaNWdvb6HCoohnbwZ5EkE.png" },
-          { "t": "p", "x": "Pan 모드는 슬라이스 하나하나의 스테레오 위치를 정한다. 확률과 강도를 조절하는 랜덤화 컨트롤도 이제 모든 모드에서 쓸 수 있다." },
-          { "t": "p", "x": "샘플러와 신스 사이 어딘가에 있는 Sample Alchemy도 손봤다. 그래뉼러 엔진에 새 Sync 모드가 들어와 샘플의 서로 다른 지점에서 여러 그레인 스트림을 병렬로 쌓고 스트림 수·위치·포먼트 시프트·랜덤화를 조절한다. 루프와 원샷, 필드 레코딩으로 새 모드를 보여주는 Granular Alchemy 사운드 팩도 함께 나왔다." },
-          { "t": "p", "x": "오디오와 MIDI 리전의 코드 진행을 짚어내는 AI 분석 도구 Chord ID는 단일 악기와 풀 믹스 양쪽에서 정확도가 올라갔다. 애플은 \"음정이 나간 피아노나 디스토션 걸린 일렉 기타\"로 연주해도 확장 코드와 자리바꿈까지 잡아낸다고 설명한다." },
-          { "t": "p", "x": "여기에 켈라니와 어셔의 2026년 발표곡 Shoulda Never의 제작 뒷면을 들여다보는 새 Producer Project, 실시간 타임 스트레칭·피치 보정 엔진 Flex의 대폭 개선까지 더해졌다." }
-        ]
-      }
-    },
-    {
-      "id": "credits-fm",
-      "eyebrow": "AI NEWS",
-      "headline": "곡 코드 1억 5천만 건을 색인한\n무료 크레딧 DB가 문을 열었다",
-      "body": "Notes.fm이 곡 코드 1억 5천만 건을 색인한 무료 공개 크레딧 DB를 공개했다.",
-      "mini_headline": "Credits.fm 출범",
-      "tool": "Credits.fm",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/gear/credits-fm/",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "img", "src": "https://musictech.com/wp-content/uploads/2022/07/Music-Money@2000x1500.jpg" },
-          { "t": "p", "x": "음악 로열티 기술 기업 Notes.fm이 Credits.fm을 내놨다. \"무료 공개 음악 크레딧 데이터베이스\"를 표방하며, 저작 표기를 더 정확하게 만들어 결국 더 많은 아티스트가 돈을 받게 하겠다는 목표다." },
-          { "t": "p", "x": "Credits.fm은 전 세계 음악 권리 데이터베이스, 징수 단체, 등록 기관을 잇는 네트워크에서 곡 코드와 크레딧 1억 5천만 건 이상을 색인한다. 기존 메타데이터 DB와 달리 로열티 발굴, 저작 귀속, 등록, 향후 지급 시스템까지 굴릴 수 있는 능동형 인프라로 설계했다는 설명이다. LLM 색인과 에이전트 검색에 최적화한 전용 인프라를 갖춰 기존 검색엔진과 새 발견 시스템 양쪽을 받친다." },
-          { "t": "p", "x": "ISRC.fm, ISWC.fm, IPI.fm 같은 도메인에서 크레딧을 검색할 수 있고, 공개 API와 MCP 기능 덕에 Claude·Cursor·ChatGPT 같은 AI 도구를 쓰는 개발자와 기업이 검증된 크레딧을 작업 흐름에 바로 끌어올 수 있다." },
-          { "t": "p", "x": "출시 배경에는 해마다 10억 달러가 넘는 로열티가 불완전하거나 어긋난 메타데이터 탓에 주인을 못 찾는 현실이 있다. 라이선스된 AI 학습이 권리자에게 새 수익원을 열 것으로 보이는 만큼, 정확한 저작 표기는 앞으로 더 중요해진다는 게 Notes.fm의 판단이다." },
-          { "t": "p", "x": "\"음악 산업은 저작 표기가 역사상 그 어느 때보다 중요한 순간에 들어서고 있다.\" Notes.fm 창업자 겸 CEO이자 Stem 공동창업자인 팀 러코의 말이다. \"AI 시스템이 음악을 발견하고 만들고 수익화하는 방식에서 더 큰 비중을 차지할수록, 곡을 실제로 만든 사람에게 되짚어 연결해 돈을 받게 할 더 믿을 만한 방법이 필요하다.\"" },
-          { "t": "p", "x": "\"더 나은 크레딧은 음악을 만드는 창작자에게 더 나은 결과로 이어진다. Credits.fm으로 우리는 수십 년 묵은 문제를, 기하급수적으로 나빠지기 직전인 지금 풀고 있다.\" 회사에 따르면 이 플랫폼은 지난 한 해 제임스 블레이크, 잭 브라이언, Mt. Joy 등과 연결된 작업을 포함해 1,000만 달러가 넘는 미청구 로열티를 이미 찾아냈다." }
-        ]
-      }
-    },
-    {
-      "id": "sza-ai-data",
-      "eyebrow": "AI NEWS",
-      "headline": "학습 데이터에 든 내 노래 238곡\nSZA가 디플로와 수노를 정조준했다",
-      "body": "SZA가 AI 학습 데이터에서 자기 트랙 238곡을 찾아내고 수노 지분을 쥔 디플로를 겨눴다.",
-      "mini_headline": "SZA, AI 학습에 분노",
-      "tool": "SZA",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/industry/sza-disgusting-ai-diplo/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "img", "src": "https://musictech.com/wp-content/uploads/2026/06/SZA-Grammy-Awards-2026.jpg" },
-          { "t": "p", "x": "지난주 애틀랜틱의 AI 워치독은 1,200만 곡 이상이 AI 개발에 불법적으로 쓰이고 있다고 폭로했다. 그 \"거대한 노래 데이터셋\" 안에서 SZA는 자기 트랙 238곡을 찾아냈다." },
-          { "t": "p", "x": "그는 비공개 인스타그램 계정 NotMusicAtAllISwear에 AI 워치독 검색 화면을 캡처해 올리고 적었다. \"당신이 뮤지션인데 이 타락한 짓을 지지한다면 역겨운 사람이고, 무슨 말을 해도 나한테 이게 괜찮아질 일은 없다.\"" },
-          { "t": "p", "x": "별도 게시물에서는 디플로를 콕 집었다. \"누가 들어야 할 말인지 모르겠지만, 디플로는 수노 지분을 갖고 있고 최고의 흑인 작가·프로듀서 두뇌들로 그걸 학습시키려 하고 있다.\"" },
-          { "t": "p", "x": "디플로는 지난 4월 Behind The Wall 팟캐스트에서 AI를 치켜세우며 이제 실제 가수보다 AI 목소리가 좋다고 털어놨다. \"더는 목소리가 필요 없다. AI에서 최고의 목소리를 얻을 수 있다. 노래를 불러 줄 사람이 더 이상 필요 없다.\"" },
-          { "t": "p", "x": "SZA가 보기에 흑인 뮤지션의 작업으로 AI를 학습시키는 일은 음악 산업이 흑인 두뇌를 깎아내리고 착취해 온 또 하나의 방식이다. \"우리는 미국 인구의 13%인데 우리의 사운드와 관점으로 세계에 영향을 준다. 입법에서도 의료에서도 창작에서도 보호가 없다. 훔치기 가장 쉬운 상대다… 당신의 천재성으로 AI를 훈련시키지 마라. 이 기괴한 독수리 같은 자들은 엿이나 먹으라지.\"" },
-          { "t": "p", "x": "AI를 향한 SZA의 분노는 오래 끓어 왔다. 지난 5월에는 기타리스트 소피 버렐이 자기 연주 영상을 복제한 AI 딥페이크 계정을 고발하자 이런 댓글을 남겼다. \"진심으로 모욕당한 기분이다. 스트리밍 서비스도 레이블도 우리를 지켜 주거나 대변해 주지 않는다는 게 더 아프다. 우리는 누구에게도 아무것도 아니다.\"" }
-        ]
-      }
-    },
-    {
-      "id": "izotope-rx12",
-      "eyebrow": "AI NEWS",
-      "headline": "뉴럴넷으로 다시 지은 복원 툴킷\nRX12 어드밴스드가 돌아왔다",
-      "body": "RX12가 스템 분리 뷰를 한 화면에 모으고 Scene Rebalance로 영화 사운드를 가른다.",
-      "mini_headline": "RX12 어드밴스드 리뷰",
+      "headline": "아이조톱, 네이티브 인스트루먼츠 떠나\nVFX 기업 보리스 FX 품에 안겼다",
+      "body": "보리스 FX는 아이조톱의 똑똑하고 실용적인 AI 활용을 인수 이유로 꼽았다.",
+      "mini_headline": "아이조톱, 보리스 FX행",
       "tool": "iZotope",
-      "source": "Sound on Sound",
-      "url": "https://www.soundonsound.com/reviews/izotope-rx12-advanced",
+      "source": "MusicTech",
+      "url": "https://musictech.com/news/industry/izotope-joins-boris-fx-exits-native-instruments/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/izotope_rx12_01-tXMDju4hvv5jZgQO_E2EVD40.__y0Wyi.jpg" },
-          { "t": "p", "x": "RX10은 2022년 말, RX11은 2024년 중반에 나왔다. 그사이 AI 기반 오디오 복원·분리 도구가 크게 도약하면서 경쟁자들이 RX11의 일부 능력을 앞질렀고, iZotope는 2년의 연구 끝에 RX12로 답했다. 사운드 온 사운드 2026년 7월호에서 휴 롭존스가 어드밴스드 에디션을 리뷰했다. 신기능이 헤드라인을 차지하지만, 여러 도구가 머신러닝·뉴럴넷 기술로 완전히 다시 지어졌다는 점이 그만큼 중요하다." },
-          { "t": "p", "x": "구성은 늘 그랬듯 Elements, Standard, Advanced 세 가지다. 플래그십 Advanced에는 90개가 넘는 도구·플러그인·독립 처리 기능이 전부 들어 있다. Standard는 70개 이상을 갖추면서 최신 추가분과 영화·TV 전문 모듈 대부분을 뺐지만 Dialogue Isolate는 남겼다. Elements는 기본적인 노이즈 제거 도구 여섯 개로 꾸린 막내 격이고, 두 하위 에디션 모두 상위로 업그레이드할 길이 열려 있다." },
-          { "t": "p", "x": "세 에디션 모두 GUI를 다듬어 한결 현대적인 인상을 주지만 전체 구성과 작업 흐름은 그대로다. 중심의 스펙트로그램 화면이 커졌고, 오른쪽 위에 새로 붙은 모니터 볼륨 슬라이더는 외장 인터페이스 없이 노트북으로 작업할 때 특히 요긴하다. 다시 지은 도구들은 음질을 잃지 않으면서 더 빠르고 정밀하게 돈다. 프리뷰 버튼 옆의 새 '귀' 버튼을 누르면 처리 결과 대신 제거되는 소리, 이른바 델타 신호가 들린다. 알고리즘이 중요한 걸 버리고 있지 않은지 확인하기가 한결 쉬워졌다." },
-          { "t": "img", "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/izotope_rx12_02-2L39HA84hoglMDrDxHPjoL3zyOZgZNKz.jpg" },
-          { "t": "p", "x": "가장 큰 변화는 스템 분리 도구 세 개에 붙은 'Stem Split' 버튼이다. 분리된 스템이 별도 탭 대신 같은 스펙트로그램 안에 시간축을 맞춰 위아래로 쌓이는 'Stems View' 모드가 열리는데, 이전 방식과 비교하면 작업 흐름이 크게 좋아졌다. 여기에 음악 스템 분리가 해 온 일을 영화 사운드로 가져온 새 Scene Rebalance 도구, 원하는 처리 모듈을 찾아 주는 검색 기능까지 더해졌다." }
+          {
+            "t": "p",
+            "x": "iZotope가 VFX 소프트웨어 회사 Boris FX에 인수됐다. 지난 5월 Native Instruments가 inMusic에 팔리면서 한 식구였던 iZotope의 거취가 관심사였는데 결국 NI 브랜드 패밀리를 떠나 새 둥지를 찾았다. 기존 라이선스와 구독은 모두 '완전히 유효'하고 지원도 끊기지 않는다. 계정 접근과 플러그인 구매는 iZotope 웹사이트에서 그대로 이어지지만 Plugin Alliance 구매는 당분간 막혀 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://musictech.com/wp-content/uploads/2026/04/iZotope-RX-12-2-credit-press@1400x1050.jpg"
+          },
+          {
+            "t": "p",
+            "x": "복잡했던 지배 구조의 마침표이기도 하다. 2021년 iZotope와 Native Instruments는 Francisco Partners의 투자를 받아 뮤직 테크 그룹으로 묶였고 2022년에는 Soundwide로 이름을 바꾸며 Brainworx와 Plugin Alliance까지 품었다. 그러다 올해 1월 Native Instruments가 예비 파산 절차에 들어갔고 2026년 5월 inMusic에 팔릴 때 그 자산 목록에 iZotope가 들어 있었다."
+          },
+          {
+            "t": "p",
+            "x": "iZotope의 Todd Baker는 \"There are no interruptions to plugin development\"라며 RX, Ozone, Neutron, Nectar를 만들어 온 엔지니어들이 지금도 그대로 일하고 있다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Boris FX 창업자 겸 CEO Boris Yamnitsky가 밝힌 인수 이유는 AI다. \"iZotope is known for its smart and practical use of AI\"라며 Boris FX가 쌓아 온 AI 오디오·영상 기술과 합치면 더 빠르게 움직이고 더 강력한 도구를 만들 수 있다고 말했다. Boris FX는 Sequoia, Samplitude, CrumplePop 같은 프로 오디오 도구도 보유한 회사다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "afro-charles",
+      "eyebrow": "AI NEWS",
+      "headline": "시드니 무대에 오른 AI '아티스트'\n부킹 에이전시는 몰랐다며 사과했다",
+      "body": "'라이브 보컬' 프로듀서로 소개받아 무대에 올렸고 동료 뮤지션의 폭로로 드러났다.",
+      "mini_headline": "AI 아티스트 공연 소동",
+      "tool": "Afro Charles",
+      "source": "Rolling Stone AU",
+      "url": "https://au.rollingstone.com/music/music-news/good-intent-apologise-generated-ai-artist-sydney-live-music-gig-97983/",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "시드니의 부킹 에이전시 Good Intent가 사과문을 냈다. 자신들이 꾸린 라인업에 AI로 만들어진 '아티스트'가 섞여 있었던 탓이다. 문제의 무대는 뉴타운 Bootleggers에서 매주 열리는 신인 시리즈 Mixed Bag의 7월 1일 공연으로, The Duke of Randwick, Pillar Lane, Genevieve와 함께 Afro Charles라는 이름이 올라 있었다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=900,height=600/https://images-r2.thebrag.com/rs/uploads/2026/07/bootleggers-.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "같은 무대에 섰던 뮤지션 Aidan Sammut이 다음 날인 7월 2일 인스타그램 영상으로 이를 폭로했다. 다른 밴드 멤버가 우연히 Afro Charles의 계정을 들여다봤더니 비주얼은 물론 음악과 가사, 보컬까지 \"clearly and blatantly\" AI로 만든 것이었다고 한다. 그는 \"At no point was it disclosed to us that we would be playing with an AI artist\"라며 홍보물 어디에도 고지가 없었다는 점을 짚었다. 인간 뮤지션들의 작업물을 대규모로 훔쳐야만 존재할 수 있는 기술과 한 무대에 서는 것은 \"a complete insult\"라고도 했다."
+          },
+          {
+            "t": "p",
+            "x": "Good Intent에서 Mixed Bag을 담당하는 Rob은 전적으로 자기 책임이라며 고개를 숙였다. 해당 아티스트의 소셜 계정을 확인하지 않았고 중개 에이전시가 '라이브 보컬'을 쓰는 '프로듀서'라고 소개해 진짜 아티스트로 믿었다는 것이다. Good Intent와 Bootleggers는 알고서 AI 음악을 부킹한 적이 없고 앞으로도 없을 것이라며 심사 절차를 손보고 음악인 지원 단체 Support Act에 기부하겠다고 약속했다."
+          },
+          {
+            "t": "p",
+            "x": "호주 음악계가 AI와 정면으로 부딪히는 시기에 터진 사건이다. 지난달 수백만 곡의 호주·뉴질랜드 음악이 동의 없이 AI 학습 데이터셋에 들어갔다는 보도가 나왔고 이번 주에는 아티스트들과 ARIA, APRA AMCOS 등 업계 단체가 캔버라에 모여 저작권 보호를 정부에 촉구했다. Sammut은 영상을 이렇게 맺었다. \"There is no place for generative AI slop in the live music scene.\""
+          }
+        ]
+      }
+    },
+    {
+      "id": "prompt-plugins",
+      "eyebrow": "AI NEWS",
+      "headline": "말로 시키면 플러그인이 나온다\n프롬프트 '바이브 코딩' 3파전",
+      "body": "ChatDSP·Amorph·Pluginmaker.ai가 C++ 없이 프롬프트만으로 플러그인을 만든다.",
+      "mini_headline": "프롬프트로 플러그인 제작",
+      "tool": "ChatDSP",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/music-tech/ai-prompt-plugins",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "자연어 프롬프트로 오디오 플러그인을 통째로 만들어 주는 '바이브 코딩' 플랫폼들을 MusicRadar가 들여다봤다. C++도 DSP 지식도 필요 없다. 원하는 악기나 이펙트를 말로 설명하면 AI가 실행 가능한 코드로 바꿔 준다. Rick Rubin이 \"punk rock of software\"라고 부른 그 흐름이 음악 장비까지 온 셈이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/mZrJmwiLCue9iRDHpj2odm.png"
+          },
+          {
+            "t": "p",
+            "x": "Dillon Bastan의 ChatDSP는 Ableton Live Suite에서 도는 Max for Live 디바이스다. 10달러에 악기·오디오 이펙트·MIDI 이펙트를 만들고 최대 48개 파라미터를 매핑하며 최근 로컬 AI 모델 지원까지 붙었다. Bastan은 AI를 향한 반감을 존중한다면서도 \"Some of the criticisms remind me of classical musicians hating the keyboard, drum machine or DAWs\"라고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/3XfhqWZqSstMgo2BQKtash.png"
+          },
+          {
+            "t": "video",
+            "yt": "vYfYqPCe0MU"
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/ucNewzs29HXF2jnCNciNs6.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Artists in DSP의 Amorph는 무료 오픈 베타(v0.99)다. 프롬프트로 받은 코드를 붙여 넣으면 VST3·AU 플러그인으로 컴파일해 주고 커스텀 UI 생성과 커뮤니티 패치 브라우저 'The Hub'를 갖췄다. CEO Leo Biasca-Caroni는 프롬프트 속 오류가 \"creative serendipity\"를 낳기도 한다며 AI 에이전트 직접 연동과 마켓플레이스를 준비 중이라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "브라우저에서 도는 Pluginmaker.ai는 프롬프트를 치고 바로 테스트한 뒤 VST/AU로 내려받는 구조다. 크레딧 기반 구독제에 무료 티어가 있고 마켓플레이스 수수료는 10%다. 공동 창업자 Dominik Bilski는 \"We strongly believe that in the coming years, writing code manually won't be a thing\"이라며 인터넷보다 큰 혁명일 수 있다고 주장한다."
+          },
+          {
+            "t": "p",
+            "x": "반론도 만만치 않다. 데이터센터는 하루 최대 500만 갤런, 인구 5만 도시 수준의 물을 쓴다. 한 영상 댓글은 가장 기본적인 Operator 패치 하나를 만드는 데 중형 유럽 도시의 연간 에너지를 태운다고 꼬집었다. 그래도 기사는 누구나 요리를 할 줄 알아도 식당업이 건재하듯 손 코딩과 AI 생성 플러그인이 공존할 것이라고 내다봤다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "spectralayers13",
+      "eyebrow": "AI NEWS",
+      "headline": "배경음에서 소리만 골라 뽑는다\n스타인버그 스펙트라레이어스 13",
+      "body": "Unmix Sound Effects로 소리를 뽑아내고 Ambience Heal이 빈자리를 메운다.",
+      "mini_headline": "스펙트라레이어스 13",
+      "tool": "Steinberg",
+      "source": "Sound on Sound",
+      "url": "https://www.soundonsound.com/news/steinberg-spectralayers-13-now-available",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Steinberg가 스펙트럼 편집기 SpectraLayers 13을 내놨다. 이번 판의 간판은 Unmix Sound Effects다. 바람, 군중, 교통, 자연음처럼 이어지는 배경 사운드에서 짧은 소리만 골라 전용 레이어로 뽑아낸다. 오디오 포스트프로덕션을 겨냥한 기능으로, 배경 텍스처는 제 레이어에 그대로 남아 따로 다듬을 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/steinberg_spectralayers_13-Icz0q7hjK0vsFa9uXUTNw0266yeGBjeh.jpg"
+          },
+          {
+            "t": "p",
+            "x": "소리를 뽑아낸 뒤 남는 구멍은 새 기능 Ambience Heal이 메운다. 보컬이 차지하던 자리를 레이어에 이미 있는 환경음이나 룸톤으로 자동으로 채우는 식이다. 목소리 작업도 수월해졌다. Unmix Two Voices는 보이스 프로필 등록 없이 두 목소리를 자동으로 가르고 Voice DeCrosstalk는 겹쳐 있는 비대상 목소리를 걷어낸다. Voice DeClick은 립 스맥이나 혀 차는 소리 같은 입소리를 지운다. 새 Reconstruct 모듈은 선택한 스펙트럼 데이터를 재합성해 톤과 트랜지언트, 노이즈를 각각 원하는 만큼 복원한다."
+          },
+          {
+            "t": "img",
+            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/s/steinberg_spectralayers_13-IloBBd_uon6hZQ57TGRCphCsXskMPUgA.jpg"
+          },
+          {
+            "t": "p",
+            "x": "편집 편의도 늘었다. Paste Into Selection으로 타임라인의 이벤트를 빠르게 반복·교체하고 Time Fade와 Frequency Fade 슬라이더를 활성 선택 영역에 바로 쓴다. True Peak와 LU 계열 라우드니스 측정이 추가됐고 배치 프로세싱은 열려 있는 여러 프로젝트에 한꺼번에 적용된다. Pro Tools AudioSuite Bridge 플러그인은 여러 클립의 라운드트립 편집을 지원하며 Dolby Atmos(최대 9.1.6)와 Ambisonics 포맷을 오간다."
+          },
+          {
+            "t": "p",
+            "x": "macOS 12 이상과 Windows 10 이상에서 돌아간다. 가격은 SpectraLayers Pro 13이 359.99달러, Elements 13이 199.99달러다. 이전 버전 사용자는 업그레이드 할인을 받고 2026년 6월 3일 이후 이전 버전을 활성화했다면 무료 그레이스 피리어드 업데이트 대상이다."
+          }
         ]
       }
     }

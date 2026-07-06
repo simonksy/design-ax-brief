@@ -1,121 +1,189 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "window_hours": 336,
   "items": [
     {
-      "id": "jodie-foster-f1-ai",
-      "title": "Jodie Foster Says Brad Pitt's 'F1' Seemed Like It Was Made by AI and Written by a Computer: 'Wasn't It?'",
-      "url": "https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/",
+      "id": "young-washington-jon-erwin-ai",
+      "title": "'Young Washington' Director Jon Erwin Breaks Down Film's Use of AI",
+      "url": "https://variety.com/2026/film/news/young-washington-director-jon-erwin-ai-1236801002/",
       "source": "Variety",
       "domain": "variety.com",
-      "published": "2026-07-02T23:23:39+00:00",
+      "published": "2026-07-02T20:22:46+00:00",
       "freshness": "FRESH",
-      "summary": "At the Aspen Festival of Ideas talk 'Who Owns the Future of Hollywood,' Jodie Foster quipped that Apple's blockbuster 'F1' seemed like it could have been made by AI and written by a computer. She allowed that AI tools are useful for 'small helpful things' like previs, while questioning formula-driven studio filmmaking in the AI era.",
-      "why": "A-list Oscar winner publicly drawing the line between AI-formula filmmaking and human authorship, aimed at one of 2026's biggest hits — high-conversation AI x film story.",
-      "notes": "Deadline ran the same story (deadline.com/2026/07/jodie-foster-thinks-f1-was-made-with-ai-wasnt-it-1236973717/, 2026-07-02) — de-duped; Variety kept for outlet diversity."
+      "summary": "Jon Erwin walks through exactly how his July 4th-weekend historical drama 'Young Washington' used generative AI, scene by scene. The production employed five AI artists plus an AI producer and crew member, with Erwin arguing the tech made the shoot 'safer and more affordable.' The film opened nationwide July 3 and is over-performing at the box office.",
+      "why": "Rare concrete, named-crew breakdown of AI inside a wide-release theatrical feature that is actually succeeding commercially — moves the AI x film story from panels to production reality.",
+      "notes": "Screen Daily's 7/5 box office piece notes 'Young Washington' soaring on opening weekend — usable as supporting context."
     },
     {
-      "id": "kviff-industry-days-ai",
-      "title": "'The Sopranos' Creator David Chase, Jude Law's Riff Raff, Demystifying AI: KVIFF Industry Days Primer",
-      "url": "https://www.hollywoodreporter.com/business/business-news/karlovy-vary-industry-days-preview-the-sopranos-jude-law-ai-1236624249/",
-      "source": "Hollywood Reporter",
+      "id": "midjourney-studios-discovery",
+      "title": "Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle",
+      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
+      "source": "Variety",
+      "domain": "variety.com",
+      "published": "2026-07-02T20:13:57+00:00",
+      "freshness": "FRESH",
+      "summary": "Midjourney is appealing a magistrate judge's order limiting discovery into how Disney, Universal and Warner Bros. themselves use AI in their shows and movies. The company wants studios' internal AI use on the record as it mounts a fair-use defense in the studios' copyright infringement suit over Superman, Batman and other characters.",
+      "why": "Turns the studios-vs-AI lawsuit inside out: Hollywood's own quiet AI adoption becomes evidence. Directly shapes how openly studios can use generative tools.",
+      "notes": "Engadget ran a follow-up on 2026-07-04 (engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/) citing Variety — de-duped, Variety kept as original."
+    },
+    {
+      "id": "next-lab-generation-quill-magnific",
+      "title": "Next Lab Generation Required Filmmakers to Use Quill and Magnific — Most Embraced VR but Ditched AI",
+      "url": "https://www.cartoonbrew.com/events/next-lab-generation-finalists-quill-magnific-264084.html",
+      "source": "Cartoon Brew",
+      "domain": "cartoonbrew.com",
+      "published": "2026-07-01T10:39:13+00:00",
+      "freshness": "FRESH",
+      "summary": "The Next Lab Generation program required its six finalist teams to develop pitches using Meta's Quill VR animation software and the Magnific AI upscaler before pitching in Madrid. Cartoon Brew's rundown of the finalist projects finds most teams leaned into VR workflows while quietly dropping the mandated AI tool.",
+      "why": "A counter-narrative data point: when filmmakers are handed AI by mandate, many opt out — grounded in six real projects rather than opinion.",
+      "notes": "JSON-LD datePublished 2026-07-01T10:39:13 (no offset on site; RSS confirms 7/1)."
+    },
+    {
+      "id": "annecy-2026-wrap-hope-ai",
+      "title": "Hope, AI, and Indie Ambition: The Contradictions That Defined Annecy 2026",
+      "url": "https://www.cartoonbrew.com/festivals/annecy-2026-festival-wrap-263908.html",
+      "source": "Cartoon Brew",
+      "domain": "cartoonbrew.com",
+      "published": "2026-06-29T15:03:00+00:00",
+      "freshness": "FRESH",
+      "summary": "Cartoon Brew's on-the-ground festival wrap frames Annecy 2026 through its contradictions: official programming embraced AI panels and pipeline talk while the crowd booed AI-made work, and indie ambition surged in parallel. A mood-of-the-industry piece on where animation actually stands with generative tools.",
+      "why": "Synthesizes the animation world's split personality on AI right after the festival — richer than single-incident coverage.",
+      "notes": "OVERLAP RISK: Annecy 2026 AI-short backlash card (Variety takeaways) published 2026-06-30 — this is a different outlet/angle (full wrap), curator should confirm it reads as new."
+    },
+    {
+      "id": "hasbro-child-voice-actors-ai",
+      "title": "Hasbro's TV Contracts Allegedly Ask Child Voice Actors to Sign Rights Away for AI Use",
+      "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
+      "source": "The Hollywood Reporter",
       "domain": "hollywoodreporter.com",
-      "published": "2026-07-01T09:30:00+00:00",
+      "published": "2026-06-25T17:19:49+00:00",
       "freshness": "FRESH",
-      "summary": "Karlovy Vary's expanded Industry Days (July 5-8) puts 'demystifying AI' on the main stage: a hands-on presentation of currently available AI tools for film professionals, plus sessions on microdramas and other disruption threats, per KVIFF Film Industry Office head Hugo Rosak. The 60th edition frames AI literacy as a core skill for European film pros.",
-      "why": "Major European festival institutionalizing AI-tools education for the film industry — festival-circuit AI adoption angle beyond Hollywood.",
-      "notes": "Angle for the card should be the AI/microdrama program, not the Sopranos/Jude Law business items."
+      "summary": "The UK-based Agents of Young Performers Association published an open letter alleging Hasbro's contracts ask child voice actors to sign away rights for AI capture, cloning and training, warning that a parent's approval 'should never be a blanket licence' to reuse a child's voice indefinitely.",
+      "why": "Escalates the AI likeness fight to its most sensitive front — minors' voices — with a named studio and organized pushback.",
+      "notes": "Animation Magazine's 6/25 'Child Actor AI Voice Outcry Drags Peppa Pig Into the Mud' covers the same cluster — de-duped, THR kept as primary."
     },
     {
-      "id": "sheep-in-the-box-trailer",
-      "title": "'Sheep in the Box' Trailer: Hirokazu Koreeda Makes a Plea for Imagination in the AI Age with Sci-Fi Grief Drama",
-      "url": "https://www.indiewire.com/news/trailers/sheep-in-the-box-trailer-hirokazu-koreeda-1235201597/",
-      "source": "IndieWire",
-      "domain": "indiewire.com",
-      "published": "2026-06-23T16:05:00+00:00",
-      "freshness": "FRESH",
-      "summary": "Neon released the trailer for Hirokazu Koreeda's Cannes-premiered sci-fi grief drama 'Sheep in the Box' (in US theaters July 24), in which a Japanese couple welcomes an AI-powered android re-creation of their deceased son into their home — Koreeda's plea for human imagination in the AI age.",
-      "why": "Master filmmaker's on-screen reckoning with AI companionship and grief, arriving in theaters via Neon — the culture-side counterweight to tool news.",
-      "notes": "Film itself is about AI (theme), not AI-made; distinct from published Neon/'Artificial' story though Neon distributes both."
-    },
-    {
-      "id": "paul-feig-ai-old-ideas",
-      "title": "AI Just Collects 'Our Old Ideas', Paul Feig Declares; 'We Are HI: Human Intelligence'",
-      "url": "https://deadline.com/2026/06/ai-old-ideas-writer-director-paul-feig-hi-human-intelligence-1236963837/",
-      "source": "Deadline",
-      "domain": "deadline.com",
-      "published": "2026-06-22T14:31:04+00:00",
-      "freshness": "FRESH",
-      "summary": "Writer-director Paul Feig ('Bridesmaids') derided generative AI as 'an amalgamation of our old ideas,' arguing that the technology can only recombine what humans already made and coining 'HI — human intelligence' as the industry's real engine.",
-      "why": "Working studio director articulating the creative case against generative AI — pairs as counterpoint to studio-adoption coverage.",
-      "notes": "Deadline already heavy in published set; keep only if outlet mix allows (1 Deadline item in this batch)."
-    },
-    {
-      "id": "tony-leung-ai-future-film",
-      "title": "Tony Leung Reflects on the Rise of AI and His Hopes for the Future of Film",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tony-leung-ai-future-of-film-shanghai-1236626443/",
-      "source": "Hollywood Reporter",
+      "id": "hollywood-workers-training-ai",
+      "title": "Hollywood Workers Are Training AI Models as Job Prospects Grow Slim",
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/",
+      "source": "The Hollywood Reporter",
       "domain": "hollywoodreporter.com",
-      "published": "2026-06-21T00:51:24+00:00",
+      "published": "2026-06-24T15:57:21+00:00",
       "freshness": "FRESH",
-      "summary": "Heading the Golden Goblet jury in Shanghai, Tony Leung discussed AI's threat to creativity, how cinema can keep young audiences in theaters, and his late-career move into European arthouse work — an Asian-cinema icon's measured take on the AI era.",
-      "why": "Asia angle on the AI x film debate from one of the most respected actors alive; diversifies geography beyond Hollywood.",
-      "notes": "Distinct from already-published Variety 'Shanghai 2026 takeaways' piece (different outlet, different story: personal interview vs festival wrap). Near window edge (~318h old) — verify before publish day drift."
+      "summary": "With film and TV work drying up, veteran writers and crew are taking RLHF gigs — rating and refining generative AI outputs for tech companies. THR profiles workers who are effectively polishing the systems that may render their old jobs obsolete.",
+      "why": "The starkest labor irony of the AI era, reported through actual working film professionals rather than union statements.",
+      "notes": ""
+    },
+    {
+      "id": "openart-director-vibe-directing",
+      "title": "Vibe Directing? An AI Startup Run by Ex-Googlers Says Its New Model Can Make It Happen (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/open-art-new-tool-model-ai-director-vibe-directing-1236628188/",
+      "source": "The Hollywood Reporter",
+      "domain": "hollywoodreporter.com",
+      "published": "2026-06-23T14:00:00+00:00",
+      "freshness": "FRESH",
+      "summary": "OpenArt, founded by ex-Googlers, launched 'Director,' a model/tool pitched at both working Hollywood directors and 'everyday Finchers' — promising conversational, iterative control over AI-generated footage, a workflow the company brands 'vibe directing.'",
+      "why": "New tool with a provocative framing: directing itself as a promptable act — a fresh product story beyond the usual video-model horse race.",
+      "notes": "THR exclusive."
+    },
+    {
+      "id": "siggraph-2026-caf-deepmind",
+      "title": "'Apart' Wins Best in Show at SIGGRAPH 2026 Computer Animation Festival",
+      "url": "https://www.awn.com/news/apart-wins-best-show-siggraph-2026-computer-animation-festival",
+      "source": "Animation World Network",
+      "domain": "awn.com",
+      "published": "2026-06-23T05:37:00+00:00",
+      "freshness": "FRESH",
+      "summary": "SIGGRAPH 2026 (July 19-23, LA) named its Computer Animation Festival winners — 'Apart,' 'Beyond Words' and '18 Months,' with a new Spike Lee short taking a top prize — and unveiled Production Sessions featuring Weta FX, ILM, Pixar and Google DeepMind, including a session on the artist-centered AI-assisted workflow behind 'Dear Upstairs Neighbors.'",
+      "why": "The industry's premier graphics conference putting AI-assisted animation on its main production stage, tied to award-season-credible shorts.",
+      "notes": "AWN byline 'Tuesday, June 23, 2026 at 1:37am' (ET assumed). PARTIAL OVERLAP: 'Dear Upstairs Neighbors' workflow card published 2026-07-02 — this story's core (CAF winners + sessions lineup) is distinct."
     }
   ],
   "rejected": [
     {
-      "url": "https://www.indiewire.com/news/business/ai-production-platform-filmmakers-analysis-1235197860/",
-      "reason": "STALE 2026-06-11"
+      "url": "https://variety.com/2026/film/global/gore-verbinski-ai-taormina-1236780502/",
+      "reason": "STALE 2026-06-13T12:23Z"
     },
     {
-      "url": "https://deadline.com/2026/06/john-waters-would-not-use-ai-help-me-write-1236962505/",
-      "reason": "STALE 2026-06-19T01:52Z (363h)"
+      "url": "https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/",
+      "reason": "DUPE of Variety Midjourney discovery story (kept Variety, original reporting)"
     },
     {
-      "url": "https://postperspective.com/cascade-studio-launches-ai-native-platform-for-storytelling/",
-      "reason": "STALE 2026-06-17"
+      "url": "https://www.animationmagazine.net/2026/06/child-actor-ai-voice-outcry-drags-peppa-pig-into-the-mud/",
+      "reason": "DUPE of THR Hasbro child voice actors cluster (2026-06-25)"
     },
     {
-      "url": "https://www.awn.com/news/animaj-introduces-sketch-motion-ai-tool",
-      "reason": "STALE 2024-11-13"
+      "url": "https://www.screendaily.com/news/uks-story-compound-launches-ai-training-programme-for-film-production/5215472.article",
+      "reason": "STALE 2026-04-08"
     },
     {
-      "url": "https://www.awn.com/news/xtr-acquires-ai-animation-studio-late-night-labs",
-      "reason": "STALE 2024-09-17"
+      "url": "https://www.screendaily.com/features/how-annecy-is-welcoming-discussion-on-industry-topics-including-ai-canal/5217816.article",
+      "reason": "EDGE 2026-06-22T08:13 + Annecy cluster already covered by published card"
     },
     {
-      "url": "https://80.lv/articles/openai-to-shut-down-sora-video-app-disney-exiting-usd1-billion-investment",
-      "reason": "STALE 2026-03-24"
+      "url": "https://www.awn.com/news/india-based-digikore-studios-releases-kingdom-games-trailer",
+      "reason": "STALE 2026-04-17"
     },
     {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/justine-bateman-no-ai-film-festival-watch-online-1236579831/",
-      "reason": "STALE 2026-04-29"
+      "url": "https://www.provideocoalition.com/switchx-change-background-and-lighting-in-a-single-click/",
+      "reason": "STALE 2026-02-24"
     },
     {
-      "url": "https://www.engadget.com/2199010/a24-takes-on-google-money-help-build-ai-tools/",
-      "reason": "DUPE of published A24xGoogle cluster (fresh 2026-06-22 but already covered)"
+      "url": "https://www.hollywoodreporter.com/p/the-ai-issue-2026/",
+      "reason": "STALE 2026-05-01 (THR AI Issue hub)"
     },
     {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-not-surprised-amazon-dropped-openai-movie-1236632083/",
-      "reason": "DUPE of published Artificial/Neon story"
+      "url": "https://www.hollywoodreporter.com/business/business-news/directors-guild-canada-ai-protections-1236623437/",
+      "reason": "STALE 2026-06-16"
     },
     {
-      "url": "https://deadline.com/2026/07/weird-al-yankovic-turned-down-nice-pile-money-ai-ad-1236972893/",
-      "reason": "OFF-SECTION (music/advertising, not film)"
+      "url": "https://www.hollywoodreporter.com/business/digital/ron-howard-ai-jim-henson-martin-scorsese-1236620457/",
+      "reason": "STALE 2026-06-12"
     },
     {
-      "url": "https://variety.com/2026/film/news/ai-script-quilty-preferred-look-deal-giovanni-entertainment-1236772175/",
-      "reason": "STALE 2026-06-11"
+      "url": "https://www.hollywoodreporter.com/business/digital/a24-cool-boycott-google-deepmind-ai-1236631106/",
+      "reason": "ALREADY REJECTED (A24 backlash analysis)"
     },
     {
-      "url": "https://variety.com/2026/tv/news/amazon-mgm-studios-genai-creators-fund-greenlights-series-1236759131/",
-      "reason": "STALE 2026-05-27 + TV not film"
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-focus-pass-openai-sam-altman-movie-luca-guadagnino-1236626845/",
+      "reason": "DUPE of published Artificial/Neon cluster"
+    },
+    {
+      "url": "https://deadline.com/2026/06/luca-guadagnino-gives-hope-artificial-release-1236968824/",
+      "reason": "DUPE of published Artificial/Neon cluster"
+    },
+    {
+      "url": "https://deadline.com/2026/06/madonna-ai-opposite-making-art-1236969203/",
+      "reason": "OFF-SECTION (music)"
+    },
+    {
+      "url": "https://deadline.com/2026/06/margaret-atwood-ai-claude-babell-literary-festival-1236969046/",
+      "reason": "OFF-SECTION (books)"
+    },
+    {
+      "url": "https://deadline.com/2026/06/media-tech-veteran-jay-prasad-ceo-owl-ai-sports-1236958912/",
+      "reason": "OFF-SECTION business noise (sports media exec hire)"
+    },
+    {
+      "url": "https://nofilmschool.com/film-schools-are-teaching-ai",
+      "reason": "STALE 2026-04-20"
+    },
+    {
+      "url": "https://www.engadget.com/entertainment/tv-movies/the-ai-docs-director-was-scared-shitless-by-ai-so-he-made-a-movie-about-it-145747961.html",
+      "reason": "STALE 2026-04-01"
+    },
+    {
+      "url": "https://postperspective.com/blending-animation-and-ai-for-short-film-about-loud-neighbors/",
+      "reason": "DUPE of published Dear Upstairs Neighbors card"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/319639/20260703/bytedance-seedance-25-launches-this-week-30-second-ai-video-carries-copyright-cloud.htm",
+      "reason": "OFF-DOMAIN (not in movies allowed_domains) + Seedance 2.5 card already published"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 5,
+    "kept": 8,
     "against_days": 5
   }
 }

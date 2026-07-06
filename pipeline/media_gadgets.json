@@ -1,10 +1,31 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "media": [
-    { "id": "snap-specs", "type": "image", "src": "pipeline/media/snap-specs.jpg" },
-    { "id": "meta-paywall", "type": "image", "src": "pipeline/media/meta-paywall.jpg" },
-    { "id": "hp-omnibook-x2", "type": "image", "src": "pipeline/media/hp-omnibook-x2.jpg" },
-    { "id": "nokia-ai-buttons", "type": "image", "src": "pipeline/media/nokia-ai-buttons.jpg" },
-    { "id": "gemini-android-auto", "type": "image", "src": "pipeline/media/gemini-android-auto.jpg" }
+    {
+      "id": "phones-less-ai",
+      "type": "image",
+      "src": "pipeline/media/phones-less-ai.jpg"
+    },
+    {
+      "id": "memomind-kickstarter",
+      "type": "image",
+      "src": "pipeline/media/memomind-kickstarter.jpg"
+    },
+    {
+      "id": "minix-er939",
+      "type": "image",
+      "src": "pipeline/media/minix-er939.png"
+    },
+    {
+      "id": "android-halo",
+      "type": "video",
+      "src": "pipeline/media/android-halo.mp4",
+      "poster": "pipeline/media/android-halo-poster.jpg"
+    },
+    {
+      "id": "rayban-optics",
+      "type": "image",
+      "src": "pipeline/media/rayban-optics.jpg"
+    }
   ]
 }

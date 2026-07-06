@@ -1,26 +1,20 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "media": [
     {
-      "id": "figma-lc-7q",
+      "id": "quiet-ai",
       "type": "image",
-      "src": "pipeline/media/figma-lc-7q.png"
+      "src": "pipeline/media/quiet-ai.jpg"
     },
     {
-      "id": "mixos-pbr",
+      "id": "figma-to-code-shift",
       "type": "image",
-      "src": "pipeline/media/mixos-pbr.jpg"
+      "src": "pipeline/media/figma-to-code-shift.png"
     },
     {
-      "id": "adonis-ml",
-      "type": "video",
-      "src": "pipeline/media/adonis-ml.mp4",
-      "poster": "pipeline/media/adonis-ml.jpg"
-    },
-    {
-      "id": "prometheus-cad",
+      "id": "ram-crisis",
       "type": "image",
-      "src": "pipeline/media/prometheus-cad.jpg"
+      "src": "pipeline/media/ram-crisis.jpg"
     }
   ]
 }

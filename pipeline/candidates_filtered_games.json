@@ -1,71 +1,59 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "window_hours": 336,
   "items": [
     {
-      "id": "sweeney-destiny2-ai",
-      "title": "Epic CEO Tim Sweeney suggests AI could've saved Destiny 2 and will \"enable games like Destiny to thrive!\"",
-      "url": "https://www.gamesradar.com/games/destiny/epic-ceo-tim-sweeney-suggests-ai-couldve-saved-destiny-2-and-will-enable-games-like-destiny-to-thrive/",
+      "id": "clair-obscur-broche-prompt-games",
+      "title": "Clair Obscur: Expedition 33 director thinks devs will eventually \"be able to churn out a game in 5 seconds with a prompt,\" but he hopes they're not any good",
+      "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-thinks-devs-will-eventually-be-able-to-churn-out-a-game-in-5-seconds-with-a-prompt-but-he-hopes-theyre-not-any-good/",
       "source": "GamesRadar+",
       "domain": "gamesradar.com",
-      "published": "2026-07-02T23:59:34+00:00",
+      "published": "2026-07-05T13:17:49+00:00",
       "freshness": "FRESH",
-      "summary": "Fresh off his fight with Valve over Steam AI labels, Tim Sweeney claims AI tools could have rescued Destiny 2's content pipeline and will let live-service games like Destiny 'thrive' by making content production dramatically cheaper and faster.",
-      "why": "New, distinct Sweeney claim that AI is the fix for live-service content droughts — concrete AI x game-production argument from the Unreal/Fortnite boss, extending but not duplicating the published Sweeney/Valve disclosure cluster.",
-      "notes": "Related to the already-published Sweeney/Valve Steam-labels cluster but a separate statement (Destiny 2 content pipeline). Curator should confirm it reads as a new beat, not a rehash."
+      "summary": "Guillaume Broche, director of GOTY-sweeping RPG Clair Obscur: Expedition 33, told Konbini's Video Game Club that prompt-generated whole games are coming and 'everyone's a little scared.' Sandfall bars generative AI from creative work — it 'takes away from the joy of creating things' — allowing only case-by-case admin/coding use, after last year's placeholder AI-texture flap.",
+      "why": "The industry's hottest auteur weighing in on text-to-game futures is a fresh, high-cachet voice: he predicts the tech wins but bets against its soul, a crisper stance than the CDPR variant we rejected. Date verified via JSON-LD datePublished.",
+      "notes": "Distinct from the rejected CDPR-doubts cluster (different studio, different speaker, new interview). Sandfall's earlier AI-texture controversy is context, not the story."
     },
     {
-      "id": "szymanski-neon-sign",
-      "title": "Iron Lung and Dusk creator says using generative AI in games is great if you want \"a big neon sign for your audience that says 'I don't give a f***'\"",
-      "url": "https://www.gamesradar.com/games/iron-lung-and-dusk-creator-says-using-generative-ai-in-games-is-great-if-you-want-a-big-neon-sign-for-your-audience-that-says-i-dont-give-a-f/",
-      "source": "GamesRadar+",
-      "domain": "gamesradar.com",
-      "published": "2026-06-30T20:48:14+00:00",
+      "id": "ddlc-chatgpt-fanfic-study",
+      "title": "Researchers studying ChatGPT conversations surprised to find one power user churning out thousands of Doki Doki Literature Club pregnancy fics",
+      "url": "https://www.pcgamer.com/software/ai/researchers-studying-chatgpt-conversations-surprised-to-find-one-power-user-churning-out-thousands-of-doki-doki-literature-club-pregnancy-fics/",
+      "source": "PC Gamer",
+      "domain": "pcgamer.com",
+      "published": "2026-07-05T03:09:52+00:00",
       "freshness": "FRESH",
-      "summary": "Indie horror auteur David Szymanski (Dusk, Iron Lung) says shipping generative-AI content in a game signals to players that the developer doesn't care, arguing craft and intent are the whole point of indie games.",
-      "why": "Sharp, quotable indie-developer verdict on gen AI as an anti-craft signal, from a creator with real cachet — complements the studio-level pushback stories already run without overlapping them.",
-      "notes": "Distinct from the published devs-genai-pushback roundup and Gaider 'virulent plague' cards; same theme, new voice and new article."
+      "summary": "An 'AI Fiction in the Wild' paper presented at Purdue's MFS Cultural AI Conference mined 500k anonymized WildChat ChatGPT logs: over a third involved fiction generation, 2% of users produced 80% of it, and the most-requested game universes were Doki Doki Literature Club, League of Legends, and Freedom Planet — topped by one user generating thousands of DDLC birth fics. PC Gamer contrasts this solipsistic loop with communal human fanfic on AO3.",
+      "why": "A dated, citable study revealing how players actually use LLMs around games — game fandoms dominate AI fan fiction, and consumption is hyper-concentrated. Quirky but data-backed, unlike anything already published in the section.",
+      "notes": "Angle should stay on the study's findings about games fandom + AI, not just the salacious hook. Via IT Media News; primary source is the Purdue conference paper (WildChat dataset, Apr 2023–May 2024 collection)."
     },
     {
-      "id": "aoe2-ai-cognition-study",
-      "title": "Study uses Age Of Empires 2's scenario editor to illustrate why it's 'farcical' to treat AI as cognizant",
-      "url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
+      "id": "amazon-ai-guideslop",
+      "title": "Amazon Is Awash With AI-Written Guideslop For Games That Aren't Even Out",
+      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
       "source": "Kotaku",
       "domain": "kotaku.com",
-      "published": "2026-06-28T17:28:19+00:00",
+      "published": "2026-06-29T12:00:21+00:00",
       "freshness": "FRESH",
-      "summary": "Researchers used Age of Empires 2's scenario editor as a test bed to show how easily LLM-style AI fails at basic situated reasoning, arguing it is farcical to treat current AI systems as conscious or truly cognizant.",
-      "why": "A game engine repurposed as an AI-cognition laboratory — unusual research angle that flips the usual 'AI in games' framing and gives the games section a science beat.",
-      "notes": "By John Walker. No other allowed-domain outlet found covering the study; no overlap with published cards."
+      "summary": "Kotaku found Amazon flooded with AI-generated 'strategy guides' — hallucinated chapters, AI covers, $20+ price tags — for unreleased games including Alien: Isolation 2, Control: Resonant, and Gears of War: E-Day, from prolific fake authors with dozens of listings. Amazon removed flagged books only for identical ones to reappear immediately.",
+      "why": "Concrete, reported AI-slop-economy story at the intersection of games and publishing platforms: fake guides for games nobody has played yet is a vivid, verifiable scam pattern not covered by any published card.",
+      "notes": "Date verified via Kotaku tag RSS pubDate. Complements (doesn't overlap) the published Steam-side slop stories — this is Amazon's storefront, not Valve's."
     },
     {
-      "id": "steam-ai-stigma-data",
-      "title": "Data analyst finds 'AI stigma' on Steam can reduce the number of reviews a game gets by around 53% — and the reviews it does get are more negative",
-      "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
+      "id": "hasbro-child-ai-voice-contracts",
+      "title": "D&D and Magic owner Hasbro is reportedly trying to get child actors from Peppa Pig to sign away their voices to AI",
+      "url": "https://www.pcgamer.com/gaming-industry/d-and-d-and-magic-owners-hasbro-is-reportedly-trying-to-get-child-actors-from-peppa-pig-to-sign-away-their-voices-to-ai/",
       "source": "PC Gamer",
       "domain": "pcgamer.com",
-      "published": "2026-06-21T16:23:00+00:00",
+      "published": "2026-06-26T10:59:53+00:00",
       "freshness": "FRESH",
-      "summary": "A data analyst crunched Steam data and found games carrying AI-content disclosures get roughly 53% fewer reviews, and the reviews they do get skew more negative — hard numbers for the commercial cost of shipping with AI on Steam.",
-      "why": "First quantified evidence of the 'AI stigma' the Sweeney/Valve fight is about — data-driven counterpart to the disclosure-war stories already published, not a rehash of them.",
-      "notes": "Oldest item in the pool (~12.5 days at publish); distinct from published Steam-label plugin and Next Fest disclaimer cards. Verify age tolerance at curation."
-    },
-    {
-      "id": "steam-ai-capsule-art",
-      "title": "Steam Week in Review: spammy, AI-generated capsule art is a pox, and it makes browsing Steam less fun",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-spammy-ai-generated-capsule-art-is-a-pox-and-it-makes-browsing-steam-less-fun/",
-      "source": "PC Gamer",
-      "domain": "pcgamer.com",
-      "published": "2026-06-22T03:23:21+00:00",
-      "freshness": "FRESH",
-      "summary": "PC Gamer's Steam column argues AI-generated store capsule art has become a spammy plague on Steam's storefront, degrading discovery and making browsing the store visibly worse.",
-      "why": "Storefront-level AI-slop angle (capsule art and discovery) not covered by any published card; gives the section a player-facing texture story.",
-      "notes": "Weekly opinion column rather than hard news — lowest priority of the five; drop first if the section only needs 3-4 cards."
+      "summary": "An Agents of Young Performers Association open letter signed by 1,000+ performers accuses Hasbro of pressuring Peppa Pig child actors into contracts allowing AI use of their voices across all franchise commercial assets with no extra pay; Hasbro didn't deny being the letter's subject. PC Gamer frames it through Hasbro's game-IP empire (D&D, Magic: The Gathering).",
+      "why": "AI voice-rights precedent from a company that owns some of gaming's biggest IP — the contract language performers sign at Hasbro today shapes AI voice clauses in game credits tomorrow.",
+      "notes": "BORDERLINE for the games section: the underlying story is a children's TV franchise; the games tie is Hasbro-as-game-IP-owner framing (PC Gamer gaming-industry desk). Kotaku ran it 2026-06-25T18:00:22Z (https://kotaku.com/hasbro-force-child-actors-ai-voice-contracts-peppa-pig-2000710552) with no gaming angle. Curator should weigh fit; drop first if space is tight."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 5,
+    "kept": 4,
     "against_days": 5
   }
 }

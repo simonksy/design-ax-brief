@@ -1,8 +1,26 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "media": [
-    { "id": "szymanski-genai", "type": "image", "src": "pipeline/media/szymanski-genai.jpg" },
-    { "id": "aoe2-ai-study", "type": "image", "src": "pipeline/media/aoe2-ai-study.jpg" },
-    { "id": "steam-ai-stigma", "type": "image", "src": "pipeline/media/steam-ai-stigma.jpg" }
+    {
+      "id": "broche-prompt-games",
+      "type": "video",
+      "src": "pipeline/media/broche-prompt-games.mp4",
+      "poster": "pipeline/media/broche-prompt-games.poster.jpg"
+    },
+    {
+      "id": "wildchat-fiction",
+      "type": "image",
+      "src": "pipeline/media/wildchat-fiction.jpg"
+    },
+    {
+      "id": "amazon-ai-guides",
+      "type": "image",
+      "src": "pipeline/media/amazon-ai-guides.jpg"
+    },
+    {
+      "id": "hasbro-child-voices",
+      "type": "image",
+      "src": "pipeline/media/hasbro-child-voices.png"
+    }
   ]
 }

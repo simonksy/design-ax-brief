@@ -1,51 +1,43 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.figma.com/blog/7-questions-from-lc/",
-      "source": "Figma Blog",
-      "category": "workflow",
-      "published_iso": "2026-07-03T00:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma distills what senior design and product leaders said at Config Leadership Collective about running teams through the AI shift: favor adaptability and hands-on experimentation over rigid process, and protect craft and human judgment. The through-line: expertise is no longer having the answer, it's knowing which answer works best in context."
+      "url": "https://www.smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+      "source": "Smashing Magazine",
+      "category": "tokens",
+      "published_iso": "2026-07-03T13:00:00Z",
+      "og_image": "https://files.smashing.media/articles/ux-impact-seamless-integrations/document-management-interface-folder-instructions.jpg",
+      "excerpt": "Vitaly Friedman argues users don't need more standalone AI tools — they need useful features seamlessly integrated into existing workflows. He champions 'Quiet AI' that sits in the background doing small tasks on the user's behalf, over flashy AI-first products."
     },
     {
-      "url": "https://www.creativebloq.com/ai/godots-ai-ban-is-a-reality-check-for-vibe-coders",
+      "url": "https://dev.to/slafleche/figma-to-code-the-real-shift-happening-7a3",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-07-04T12:58:59Z",
+      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/jeejasxc0b2yxrmywj94.png",
+      "excerpt": "Design-to-code tools have converged on a standard pipeline, but the real shift is organizational: designers are moving upstream into prototyping while developers get pushed downstream into cleanup. The unclaimed work — mapping design intent into code AI can reliably execute — favors teams with mature design systems."
+    },
+    {
+      "url": "https://www.creativebloq.com/tech/what-does-the-ram-crisis-mean-for-creatives",
       "source": "Creative Bloq",
       "category": "figma",
-      "published_iso": "2026-07-02T07:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HjJuAm8CUdnpk2NzT6WB4c-1920-80.jpg",
-      "excerpt": "The free, open-source Godot engine is restricting AI-generated code contributions, which Creative Bloq frames as a reality check for vibe coders: AI output still needs human review, provenance, and accountability before it can ship in shared creative tools."
+      "published_iso": "2026-07-05T09:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XyrWyAr8hEJmBagjr5FZZR-2000-80.jpg",
+      "excerpt": "'Why is RAM scarce? In a word: AI.' Creative Bloq breaks down how data centres built to run AI services like ChatGPT, Gemini and Claude are swallowing global memory supply — and what soaring RAM prices mean for creatives buying their next laptop, phone or tablet."
     },
     {
-      "url": "https://www.cgchannel.com/2026/07/mixos-lets-you-paint-pbr-textures-in-your-web-browser/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-07-03T00:00:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260703_Mixos_Paint4KPBRTexturesInBrowser_f.jpg",
-      "excerpt": "Mixos is a new browser-based WebGPU tool for painting 4K PBR textures directly onto 3D models or remixing a library of 2,600+ CC0 materials, with credit-based generative AI for auto-texturing models and generating PBR materials from text descriptions. Exports target DCC apps and game engines."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/07/inbibo-releases-adonis-2-1-with-adonisml/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-07-02T00:00:00Z",
-      "og_image": "https://i.ytimg.com/vi/1Zmb_QUqEP4/maxresdefault.jpg",
-      "excerpt": "Inbibo's Adonis 2.1 adds AdonisML, a machine learning edition of its soft-tissue simulation add-on for Maya and Houdini: an ML Deformer and SmartTissue system train lightweight approximations of complex tissue setups so animators get high-fidelity secondary motion at interactive speed."
-    },
-    {
-      "url": "https://develop3d.com/cad/the-prometheus-question-for-cad/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "published_iso": "2026-07-01T11:43:00+01:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/Stephen_Holmes_prometheus_comment-1024x576.jpg",
-      "excerpt": "DEVELOP3D examines Jeff Bezos's Prometheus project — an AI venture aiming to build an 'artificial general engineer' — and asks what it means for CAD: could AI compress lengthy engineering design projects into far shorter timeframes, and what happens to the tools engineers use today?"
+      "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-07-03T14:37:45Z",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1068%2C712&quality=89&ssl=1",
+      "excerpt": "XGIMI's MemoMind One display smart glasses blasted past $500K in crowdfunding, pairing dual green micro-LED displays with an on-device AI assistant for real-time translation, note-taking, contextual assistance and a Memo+ tier with memory search across captured meetings and moments."
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 5,
+    "dropped": 2,
+    "kept": 4,
     "against_days": 5
   }
 }

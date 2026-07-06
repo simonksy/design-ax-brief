@@ -1,26 +1,27 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "media": [
     {
-      "id": "foster-f1-ai",
-      "type": "image",
-      "src": "pipeline/media/foster-f1-ai.jpg"
-    },
-    {
-      "id": "kviff-ai-days",
-      "type": "image",
-      "src": "pipeline/media/kviff-ai-days.jpg"
-    },
-    {
-      "id": "sheep-in-the-box",
+      "id": "young-washington",
       "type": "video",
-      "src": "pipeline/media/sheep-in-the-box.mp4",
-      "poster": "pipeline/media/sheep-in-the-box.jpg"
+      "src": "pipeline/media/movies-young-washington.mp4",
+      "poster": "pipeline/media/movies-young-washington.poster.jpg"
     },
     {
-      "id": "feig-hi",
+      "id": "nextlab-quill",
+      "type": "video",
+      "src": "pipeline/media/movies-nextlab-quill.mp4",
+      "poster": "pipeline/media/movies-nextlab-quill.poster.jpg"
+    },
+    {
+      "id": "writers-rlhf",
       "type": "image",
-      "src": "pipeline/media/feig-hi.jpg"
+      "src": "pipeline/media/movies-writers-rlhf.jpg"
+    },
+    {
+      "id": "openart-director",
+      "type": "image",
+      "src": "pipeline/media/movies-openart-director.jpg"
     }
   ]
 }

@@ -1,37 +1,48 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "selection_mode": "user",
   "picks": [
     {
-      "url": "https://www.gamesradar.com/games/iron-lung-and-dusk-creator-says-using-generative-ai-in-games-is-great-if-you-want-a-big-neon-sign-for-your-audience-that-says-i-dont-give-a-f/",
+      "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-thinks-devs-will-eventually-be-able-to-churn-out-a-game-in-5-seconds-with-a-prompt-but-he-hopes-theyre-not-any-good/",
       "source": "GamesRadar+",
-      "published_iso": "2026-06-30T20:48:14+00:00",
+      "published_iso": "2026-07-05T13:17:49+00:00",
       "og_image": null,
-      "excerpt": "Indie horror auteur David Szymanski (Dusk, Iron Lung) says shipping generative-AI content in a game signals to players that the developer doesn't care, arguing craft and intent are the whole point of indie games.",
+      "excerpt": "Guillaume Broche, director of GOTY-sweeping RPG Clair Obscur: Expedition 33, told Konbini's Video Game Club that prompt-generated whole games are coming and 'everyone's a little scared.' Sandfall bars generative AI from creative work — it 'takes away from the joy of creating things' — allowing only case-by-case admin/coding use, after last year's placeholder AI-texture flap.",
       "category": "games",
-      "tool": "Dusk",
+      "tool": "Clair Obscur",
       "accent": "#ff2d55",
       "motif": "cube"
     },
     {
-      "url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
-      "source": "Kotaku",
-      "published_iso": "2026-06-28T17:28:19+00:00",
+      "url": "https://www.pcgamer.com/software/ai/researchers-studying-chatgpt-conversations-surprised-to-find-one-power-user-churning-out-thousands-of-doki-doki-literature-club-pregnancy-fics/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-05T03:09:52+00:00",
       "og_image": null,
-      "excerpt": "Researchers used Age of Empires 2's scenario editor as a test bed to show how easily LLM-style AI fails at basic situated reasoning, arguing it is farcical to treat current AI systems as conscious or truly cognizant.",
+      "excerpt": "An 'AI Fiction in the Wild' paper presented at Purdue's MFS Cultural AI Conference mined 500k anonymized WildChat ChatGPT logs: over a third involved fiction generation, 2% of users produced 80% of it, and the most-requested game universes were Doki Doki Literature Club, League of Legends, and Freedom Planet — topped by one user generating thousands of DDLC birth fics. PC Gamer contrasts this solipsistic loop with communal human fanfic on AO3.",
       "category": "games",
-      "tool": "Kotaku",
+      "tool": "WildChat",
+      "accent": "#7928ca",
+      "motif": "cube"
+    },
+    {
+      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
+      "source": "Kotaku",
+      "published_iso": "2026-06-29T12:00:21+00:00",
+      "og_image": null,
+      "excerpt": "Kotaku found Amazon flooded with AI-generated 'strategy guides' — hallucinated chapters, AI covers, $20+ price tags — for unreleased games including Alien: Isolation 2, Control: Resonant, and Gears of War: E-Day, from prolific fake authors with dozens of listings. Amazon removed flagged books only for identical ones to reappear immediately.",
+      "category": "games",
+      "tool": "Amazon",
       "accent": "#f5a623",
       "motif": "cube"
     },
     {
-      "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
+      "url": "https://www.pcgamer.com/gaming-industry/d-and-d-and-magic-owners-hasbro-is-reportedly-trying-to-get-child-actors-from-peppa-pig-to-sign-away-their-voices-to-ai/",
       "source": "PC Gamer",
-      "published_iso": "2026-06-21T16:23:00+00:00",
+      "published_iso": "2026-06-26T10:59:53+00:00",
       "og_image": null,
-      "excerpt": "A data analyst crunched Steam data and found games carrying AI-content disclosures get roughly 53% fewer reviews, and the reviews they do get skew more negative — hard numbers for the commercial cost of shipping with AI on Steam.",
+      "excerpt": "An Agents of Young Performers Association open letter signed by 1,000+ performers accuses Hasbro of pressuring Peppa Pig child actors into contracts allowing AI use of their voices across all franchise commercial assets with no extra pay; Hasbro didn't deny being the letter's subject. PC Gamer frames it through Hasbro's game-IP empire (D&D, Magic: The Gathering).",
       "category": "games",
-      "tool": "Steam",
+      "tool": "Hasbro",
       "accent": "#0070f3",
       "motif": "cube"
     }

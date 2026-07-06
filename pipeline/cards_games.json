@@ -1,75 +1,102 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "cards": [
     {
-      "id": "szymanski-genai",
+      "id": "broche-prompt-games",
       "eyebrow": "AI NEWS",
-      "headline": "더스크 개발자, 게임 속 생성 AI는\n신경 안 쓴다는 네온사인이라 했다",
-      "body": "데이비드 시만스키가 생성형 AI 콘텐츠를 개발자 무관심을 알리는 신호로 규정했다.",
-      "mini_headline": "AI는 무관심의 신호",
-      "tool": "Dusk",
+      "headline": "클레르 옵스퀴르 감독, 프롬프트\n5초 게임의 날이 온다고 내다봤다",
+      "body": "기욤 브로슈는 프롬프트 게임 시대가 와도 좋은 게임은 아니길 바란다고 했다.",
+      "mini_headline": "5초 게임 시대 전망",
+      "tool": "Clair Obscur",
       "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/iron-lung-and-dusk-creator-says-using-generative-ai-in-games-is-great-if-you-want-a-big-neon-sign-for-your-audience-that-says-i-dont-give-a-f/",
+      "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-thinks-devs-will-eventually-be-able-to-churn-out-a-game-in-5-seconds-with-a-prompt-but-he-hopes-theyre-not-any-good/",
       "accent": "#ff2d55",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/WmejxQBkaqazsjdBHXvNJ9.jpg" },
-          { "t": "p", "x": "더스크와 아이언 렁으로 이름을 알린 인디 개발 베테랑 데이비드 시만스키는 AI라는 기술 전체를 반대하지는 않는다. 다만 생성형 AI로 게임을 만들 생각은 조금도 없다." },
-          { "t": "p", "x": "GamesRadar+와의 인터뷰에서 시만스키는 왜 그렇게 많은 개발자가 생성형 AI를 꺼리는지 다룬 기획 기사와 같은 결의 이야기를 꺼냈다. 이 기술을 논하려면 표절과 환경 부담, 일자리를 둘러싼 윤리적 우려부터 짚어야 하는데 그것만으로도 지금 형태의 기술에는 마음이 가지 않는다고 했다." },
-          { "t": "p", "x": "그 장벽을 다 넘는다 해도 시만스키에게 생성형 AI는 이런 물건이다. \"a complicated machine for generating subpar stock photos, buggy code, and a big neon sign for your audience that says 'I don't give a fuck,' and I'm not really in the market for any of those.\"" },
-          { "t": "p", "x": "창작 일에는 애초에 AI가 어울리지 않는다고 본다. 정말 도움이 될 만한 영역이 따로 있을지는 몰라도, 이 기술이 무슨 피해를 주고 있고 또 줄 수 있는지 걱정이 아직 너무 많고, 쓰더라도 창작 과정의 중요한 부분을 해치지 않는 방식으로 유용해야 한다고 말했다." },
-          { "t": "p", "x": "그가 보기에 지금 AI의 유혹은 빠르고 쉽다는 데 있다. 빠르고 쉬운 것이 필요한 자리도 있지만 느리고 어려운 것이 필요한 자리도 있다. 창의성은 아이디어와 완성물 사이에 나타나는 문제를 풀어내는 과정에서 드러난다는 게 그의 지론이다. \"Your creative voice is defined by your limitations and how you work around those limitations.\" 그 문제들을 복제 알고리즘에 다 맡겨 버리면 완성작과 알고리즘이 베낀 원본을 가를 것이 남지 않는다." },
-          { "t": "p", "x": "업계가 생성형 AI를 어떻게 다루게 될지에 대해서는 개발자에게 발언권이 없다고 잘라 말했다. 각자 어떻게 반응할지, 그 흐름을 따라갈지 말지를 정할 수 있을 뿐이다. \"In its current form I don't have any interest in generative AI as a development tool and I don't think my audience has any interest in me using it either.\"" }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/gpTpJThJANY4UHSHEmoDyf.jpg", "cap": "클레르 옵스퀴르: 33 원정대의 귀스타브 (이미지: Sandfall Interactive)" },
+          { "t": "p", "x": "지난해 최고의 찬사를 받은 RPG 클레르 옵스퀴르: 33 원정대를 이끈 기욤 브로슈는 언젠가 프롬프트 하나로 게임 전체를 뽑아내는 날이 온다고 본다. 그 자신에게도 다른 많은 개발자에게도 무서운 가정이다." },
+          { "t": "p", "x": "콘비니의 비디오 게임 클럽에 출연해 게임업계의 생성형 AI 이야기가 나오자 브로슈는 자신의 스튜디오 샌드폴 인터랙티브가 '창작' 작업에는 이 기술을 쓰지 않는다고 선을 그었다. 행정 업무나 코딩이라면 \"it depends\"라면서도 그 밖의 것을 생성하는 일은 \"like it takes away from the joy of creating things\"처럼 느껴진다고 했다." },
+          { "t": "video", "yt": "i5x2hm7Epdc" },
+          { "t": "p", "x": "샌드폴은 지난해 출시판 게임에서 AI 생성 텍스처가 발견되며 곤욕을 치렀다. 문제의 에셋은 곧바로 제거됐고 출시용이 아닌 플레이스홀더였다는 해명이 뒤따랐다. 그래도 이 일로 GOTY 트로피가 적어도 두 개 철회됐다. 다음 게임에서는 같은 식으로 이 기술을 만질 생각이 없어 보인다." },
+          { "t": "p", "x": "브로슈는 말을 이었다. \"I think everyone's a little scared, though - of the road ahead, of how things might turn out. With video games, we're still somewhat protected because, technically speaking, it's a different ball game. But I think the day will come when we'll be able to churn out a game in five seconds with a prompt. Will it be a good game? I hope not. But I think everyone's asking themselves the same question - and admitting it's a little scary.\"" },
+          { "t": "p", "x": "적어도 클레르 옵스퀴르: 33 원정대의 대성공 뒤라 브로슈와 팀이 느끼는 압박은 크지 않다. \"That's why I'm also glad… because we're a studio that's secure. So even if we're not doing things in the best way possible, we don't care.\"" }
         ]
       }
     },
     {
-      "id": "aoe2-ai-study",
+      "id": "wildchat-fiction",
       "eyebrow": "AI NEWS",
-      "headline": "에이지 오브 엠파이어 2 에디터로\nAI 의식론을 반박한 논문이 나왔다",
-      "body": "요크대 연구자가 게임 속 염소로 LLM의 기본 기능을 재현해 의인화를 꼬집었다.",
-      "mini_headline": "AoE2의 AI 의식 반박",
-      "tool": "Kotaku",
+      "headline": "챗GPT 로그 50만 건을 뒤진 연구,\n무한 팬픽 요청 유저를 발견했다",
+      "body": "WildChat 50만 로그의 3분의 1이 픽션 생성이었고 2% 이용자가 80%를 만들었다.",
+      "mini_headline": "50만 로그 속 AI 팬픽",
+      "tool": "WildChat",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/software/ai/researchers-studying-chatgpt-conversations-surprised-to-find-one-power-user-churning-out-thousands-of-doki-doki-literature-club-pregnancy-fics/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/sMLxaGjg9NGtHWpvtPSjLG.jpg", "cap": "두근두근 문학부 (이미지: Serenity Forge)" },
+          { "t": "p", "x": "일본 IT미디어 뉴스가 먼저 짚은 소식이다. 퍼듀대학교 MFS 컬처럴 AI 콘퍼런스에서 발표된 논문 'AI Fiction in the Wild'가 WildChat으로 수집된 익명 영어 챗GPT 대화 50만 건을 분석했는데 진기한 사례가 하나 튀어나왔다." },
+          { "t": "p", "x": "연구의 목적은 결국 '팬픽 좀 써 줘'로 요약되는 수많은 AI 프롬프트를 살피는 것이었다. 실제로 양이 어마어마하다. 연구진은 \"More than a third of the conversations contained some form of fiction generation\"이라고 적었다. 창작 소설과 대본, 롤플레이, 세계관 구축, 팬픽션, 에로티카가 모두 포함된 수치다." },
+          { "t": "p", "x": "연구는 AI 픽션 이용자를 두 부류로 나눈다. \"Story cyclers ask for iterations of the same story for a period of time, then switch to another story or topic. Infinite story demanders request the same story, or a very similar one, over and over again for long stretches of time.\"" },
+          { "t": "p", "x": "그 무한 요청자 가운데 가장 왕성한 이용자의 관심사는 지독하게 구체적이었다. 몇 달에 걸쳐 비주얼 노벨 두근두근 문학부의 소녀 중 한 명이, 주로 나츠키가 아이를 낳는 이야기를 수천 편 변주해 생성했다. 아이는 대개 사쿠라라는 이름의 딸이다. 연구진은 \"Sakura may be a reference to a character from the Naruto manga and anime series\"라는 친절한 주석까지 달았다." },
+          { "t": "p", "x": "이런 파워 유저가 그 사람만도 아니었다. \"Two percent of users within the fiction subset are responsible for more than 80% of the conversations.\" 임신 픽션에 몰두한 이용자가 수치를 끌어올리긴 했지만 팬픽 요청이 가장 많은 세계관은 두근두근 문학부와 리그 오브 레전드, 프리덤 플래닛, 나루토 순이었다." },
+          { "t": "p", "x": "데이터의 출처인 WildChat은 허깅페이스에 올라온 무료 챗GPT 인터페이스다. 대화가 익명 처리를 거쳐 학술 연구용으로 공개된다는 조건 아래 쓸 수 있었고 2023년 4월부터 2024년 5월까지 모인 1차 공개분에만 영어 대화 50만 건 이상이 담겼다." },
+          { "t": "p", "x": "흥미로운 대목은 이 AI 팬픽 데이터가 AO3에 올라오는 글과 딴판이라는 사실이다. 같은 기간 AO3에서는 해리 포터와 나의 히어로 아카데미아, 슈퍼내추럴 기반 이야기가 훨씬 흔했다. 사람이 쓰는 팬픽판에서는 작가들이 서로 격려하고 독자가 작가를 따라 다른 팬덤으로 건너가 새로 사랑할 것을 찾는다. 공동체의 일이다. PC 게이머는 AI로 픽션을 생성하는 일이 그에 비해 훨씬 고립된 행위라고 짚었다." }
+        ]
+      }
+    },
+    {
+      "id": "amazon-ai-guides",
+      "eyebrow": "AI NEWS",
+      "headline": "아마존에 미출시 게임 AI 공략집이\n버젓이 팔린다는 보도가 나왔다",
+      "body": "코타쿠가 미출시 게임의 AI 생성 가짜 공략집이 아마존에서 20달러 넘게 팔린다고 전했다.",
+      "mini_headline": "미출시 게임 가짜 공략집",
+      "tool": "Amazon",
       "source": "Kotaku",
-      "url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
+      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://kotaku.com/app/uploads/2026/06/ageofem2.jpg" },
-          { "t": "p", "x": "요 몇 년 사이 컴퓨터가 실제로 어떻게 굴러가는지 차분히 뜯어 보여 주는 다큐멘터리가 부쩍 늘었다. 딜런 리블링의 '디 엔드 오브 디 인터넷'은 클라우드 컴퓨팅이라는 우아한 말 뒤에 정부의 밸브와 굶주린 상어에 똑같이 노출된 케이블 다발이 있음을 짚고, 어맨다 크레이머의 '소 언리얼'은 매트릭스와 터미네이터, 트론 같은 환상이 대중의 사이버스페이스 이해를 어떻게 빚어냈는지 좇는다. AI 세일즈 피치가 사기의 시대 최종 보스처럼 느껴지는 요즘 어느 때보다 와닿는 이야기다." },
-          { "t": "p", "x": "요크대학교 연구자이자 프로그래머인 에이드리언 드 윈터는 다소 스위프트풍의 풍자 논문으로 우리가 기술을 얼마나 쉽게 의인화하는지 보여 주려 했다. 'If LLMs Have Human-Like Attributes, Then So Does Age of Empires II'라는 제목 그대로, 이 전설적인 RTS의 시나리오 에디터를 써서 LLM의 기본 기능을 염소와 풀, 다리에 그대로 재현했다. 지난 2년간 살펴본 300편 넘는 논문 가운데 57%가 AI에 의식 비슷한 것이 있다는 전제에서 출발한다는 사실에 그 자신도 놀랐다고 한다." },
-          { "t": "p", "x": "드 윈터는 404 미디어에 \"I pointed out that if goats could show emergent capabilities, that's great\"라며 \"these properties need to be preserved if we remove the chat panel. After all, it's not like your neurons know they are part of a brain\"이라고 말했다. 사용자가 LLM에서 온기나 성격 같은 것을 느끼면 쉽게 정이 든다는 연구도 오래 해 왔다면서, 토스터에는 정을 주지 않지만 영화 속 인물에게는 정이 든다고 덧붙였다." },
-          { "t": "p", "x": "논문에서 그는 '인공지능'이라는 말을 아예 쓰지 않고 '언어 학습 모델'이라는 더 정확한 표현을 고른다. 붙임성 있는 겉면을 걷어 내면 이 기술이 결국 우리에게 익숙한 낯선 코드 덩어리로 되돌아온다는 걸 보여 주는 것이 연구의 목적이었다." },
-          { "t": "p", "x": "코타쿠의 잭 코처는 이 논문을 발판 삼아 업계의 화법을 꼬집는다. 사람처럼 생각하는 컴퓨터라는 약속이 AI 투자 열풍을 떠받치고 있지만, 사람의 일을 흉내 낸다고 해서 생각과 의도, 추론이 생기지는 않는다. 그의 표현을 빌리면 AI의 의식이란 물 마시는 장난감 새의 갈증 정도다." },
-          { "t": "p", "x": "드 윈터의 제안은 명료하다. \"I propose that we need to stop assuming that LLMs behave like humans just because they were trained with natural language. We should perform experiments that allow us to see LLMs as how they are, not how we believe they should be.\"" }
+          { "t": "p", "x": "아마존의 AI 쓰레기 책 문제는 아직 초입일 공산이 크다. 아마존은 최근 오픈AI에 500억 달러를 투자했고 평판 나쁜 자체 AI 도우미 루퍼스를 곳곳에 밀어 넣는 중이다. 슬롭 책의 범람을 이 회사가 막아설 것 같지는 않다. 그 우스운 현실을 압축한 사례가 미완성에 미출시인 게임의 'AI 망상 공략집'이다." },
+          { "t": "p", "x": "이 현상은 서브스택 블로그 릭스 게임 백로그가 훌륭하게 정리했다. 글쓴이는 게임 출시일을 확인하려고 아마존을 검색하다가 에이리언: 아이솔레이션 2(출시일 미정), 컨트롤: 레저넌트(9월 24일), 기어 오브 워: E-데이(10월 6일)의 값비싼 공략집 판매 페이지를 발견했다. 전부 지금 당장 살 수 있다." },
+          { "t": "p", "x": "표지는 전부 AI 생성이고 소개 글도 AI가 썼다. 혹시 의심이 남았을까 봐 릭스 게임 백로그가 한 대목을 짚었다. 기어스도 아닌 'Gear of War E-Day Game Guide…'라는 긴 제목이 붙은 책의 소개 글은 이렇게 시작한다. \"Here is a high-converting Amazon-style book description crafted to sell your book while keeping it emotionally engaging, persuasive, and read-focused.\" 더할 나위 없는 도입부다." },
+          { "t": "img", "src": "https://kotaku.com/app/uploads/2026/06/gear-of-war-guide2.jpg", "cap": "아마존에 올라온 AI 공략집 판매 페이지 (Amazon / Kotaku)" },
+          { "t": "p", "x": "고맙게도 릭은 이 책 몇 권을 직접 주문해 속을 공개했다. 목차는 페이지 번호 없이 하이퍼링크 형태로 인쇄돼 있고 그림 한 장 없이 소설처럼 짜여 공략집 흉내조차 내지 않는다. 위키피디아를 기반으로 AI가 쓴 60쪽가량의 세계관 설명 뒤에는 '생존 메커니즘'이나 '심리전'처럼 게임에 들어갈 리 없는 기능의 '공략' 챕터가 이어진다. 에이리언: 아이솔레이션 2 책에는 아직 공개되지도 않은 시스템 요구 사양을 다룬 챕터가 통째로 들어 있다. 릭스 게임 백로그가 아마존 고객센터에 신고해 책들을 내리게 했지만 곧바로 다시 올라왔다." },
+          { "t": "p", "x": "정식 공략집이야 발매 전에도 나온다. 그런 책의 필자들은 미완성 빌드에 미리 접근해 내용을 꼼꼼히 정리한다. 이번 건은 온라인 정보를 표절해 지어낸 헛소리 덩어리다. 예약 구매자에게 관련 상품을 추천하는 아마존의 습성과 맞물린 영리한 사기이기도 하다. 가격이 20달러 이상이라 싸게 넘어갈 속임수도 아니다. 표지가 얼핏 그럴듯해서 아이 선물을 고르는 부모나 게이머가 아무 의심 없이 속을 만하다." },
+          { "t": "p", "x": "같은 부류의 AI 슬롭 공략집은 출시된 게임에도 붙는다. 에이리언: 아이솔레이션 2 책을 쓴 '저자' 조지 D. 브로건 명의의 P의 거짓 책이 있고, 다작 공략봇 도널드 C. 캠벨은 디 어드벤처스 오브 엘리엇과 미나 더 할로워, 스타 폭스 공략집을 올렸다. 코타쿠 필자가 꼽은 백미는 이 책들 대부분의 소개 글에 \"Step into the world of…\"의 변주가 들어 있다는 점이다." },
+          { "t": "p", "x": "아마존 대변인은 코타쿠에 \"We have content guidelines governing which books can be listed for sale and promptly investigate any book when a concern is raised\"라며 지침을 어긴 책은 삭제한다고 답했다. 기사 최초 게재 뒤 문제의 책 일부가 삭제됐지만 곧바로 똑같은 책이 그 자리를 채웠다." }
         ]
       }
     },
     {
-      "id": "steam-ai-stigma",
+      "id": "hasbro-child-voices",
       "eyebrow": "AI NEWS",
-      "headline": "스팀 AI 고지 게임은 리뷰가 53%\n줄어든다는 데이터 분석이 나왔다",
-      "body": "변수를 통제하자 AI 고지 게임의 리뷰가 53% 적었고 평가도 더 부정적이었다.",
-      "mini_headline": "AI 낙인, 리뷰 −53%",
-      "tool": "Steam",
+      "headline": "페파 피그 아동 성우에 AI 음성\n계약을 강요했다며 해즈브로가 지목됐다",
+      "body": "1,000명 넘게 서명한 공개서한이 해즈브로의 아동 성우 AI 음성 계약 강요를 고발했다.",
+      "mini_headline": "아동 목소리 AI 계약",
+      "tool": "Hasbro",
       "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/data-analyst-finds-ai-stigma-on-steam-can-reduce-the-number-of-reviews-a-game-gets-by-around-53-percent-and-the-reviews-it-does-get-are-more-negative/",
+      "url": "https://www.pcgamer.com/gaming-industry/d-and-d-and-magic-owners-hasbro-is-reportedly-trying-to-get-child-actors-from-peppa-pig-to-sign-away-their-voices-to-ai/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU.jpg" },
-          { "t": "p", "x": "게임 오라클의 마켓 데이터 분석가 로스 버턴이 스팀의 AI 콘텐츠 고지가 플레이어 반응에 어떤 흔적을 남기는지 파고들었다. 표본은 2025년 1월부터 10월 사이에 나온 게임 9,879종. 스팸성 출시작과 순수 상업용 출시작, 부분유료화 게임을 걸러낸 수치다. 이 가운데 17.9%가 AI 사용을 고지했다." },
-          { "t": "p", "x": "넓게 보면 차이는 크지 않았다. AI 고지가 없는 게임이 리뷰가 조금 더 많았고 리뷰가 아예 없는 경우도 적었으며, 리뷰 100개 이상을 받은 게임으로 좁히면 중앙값 평점이 4%가량 높은 정도였다." },
-          { "t": "p", "x": "그런데 퍼블리셔와 개발 경력, 게임 유형 같은 변수를 통제하자 그림이 완전히 달라졌다. \"After controlling for publisher, developer experience, and game type, developers using AI see a ~53% reduction in reviews compared to those who do not.\"" },
-          { "t": "p", "x": "버턴은 숨은 변수 가능성도 따져 봤다. 관찰된 페널티를 다른 요인으로 설명하려면 그 미지의 X 변수가 AI 채택 확률을 2.7배로 끌어올리는 동시에, 퍼블리셔 지원이나 개발 경력과 무관하게 리뷰 수를 22% 깎을 만큼 강해야 한다는 계산이다." },
-          { "t": "p", "x": "낙인은 잘 만든 게임일수록 아프게 박힌다. 보고서에 따르면 저품질 게임에서는 AI가 아무 차이를 만들지 않지만, 성공 가능성이 큰 게임에서는 'AI 낙인'이 실재하며 그렇지 않았다면 성공했을 개발자를 혹독하게 벌한다." },
-          { "t": "p", "x": "반례도 있다. 버턴은 AI를 폭넓게 쓰면서도 상업적으로 성공한 더 파이널스를 들며 \"AI can be used well, or it can be sloppy, and that matters\"라고 적었다. 보고서는 AI를 망치에 비유하며 끝난다. 꼭 필요한 도구지만 잘못 휘두르면 부순다." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/w7g6p9yU934Mam8K7HtkzN.png", "cap": "매직: 더 개더링 'Corrupt Court Official' 아트, 드루 베이커 (Wizards of the Coast)" },
+          { "t": "p", "x": "해즈브로는 좀처럼 숨 돌릴 틈이 없다. PC 게이머의 필자는 그럴 자격도 없다고 본다. 던전 앤 드래곤과 매직: 더 개더링의 모회사인 이 거대 기업이 이번에는 아이들의 목소리 권리를 AI에 넘기는 계약을 밀어붙인다는 보도가 나왔다." },
+          { "t": "p", "x": "근거는 아동·청소년 배우 에이전트 단체인 Agents of Young Performers Association의 공개서한, 그리고 그 서한을 페파 피그와 연결한 데드라인의 보도다. 서한은 이렇게 적었다. \"A major studio who owns the IP for an international children's franchise producing a long running animated television series has offered contracts to child voice actors insisting that they agree to the use of AI thus allowing them to use the child's voice in all commercial assets within their franchise.\"" },
+          { "t": "p", "x": "서한은 이어진다. \"The refusal to remove this clause with an attitude of 'take it or leave it' has led us [to] write this letter to make it clear that this will not be accepted and to bring this matter to the attention of the wider industry.\" 확인된 서명만 1,000명을 넘겼다." },
+          { "t": "p", "x": "지난 10년간 해즈브로의 행보는 초라했다. MTG 카드를 일찍 손에 넣은 팬에게 핑커턴 탐정을 보냈고, 발더스 게이트 3를 낳은 계약의 주역들을 포함해 1,100명을 해고했으며 강도 높은 반노조 활동을 벌였다. CEO는 AI에 심취해 있다. 가상 테이블톱 시길도 놓쳤고 제다이: 폴른 오더 감독의 게임까지 취소했다." },
+          { "t": "p", "x": "공개서한의 고발이 사실이라면 이미 평판이 바닥난 회사라 해도 도를 넘었다. 해즈브로는 데드라인에 구체적인 답변 대신 이런 성명만 남겼다. \"The protection of child performers is core to who Hasbro is, it's part of our DNA. As industry standards around AI continue to evolve, we are committed to engaging with this issue in a responsible and transparent manner.\"" },
+          { "t": "p", "x": "PC 게이머의 필자는 아이의 목소리를 AI가 쓸 수 있게 하는 계약 자체가 소름 끼친다고 적었다. 결국 동의의 문제다. 성인 배우가 비슷한 권리를 넘기는 것도 탐탁지 않지만 그건 어른 본인의 선택이다. 부모가 대신 이해하고 동의해야 하는 아이를 목소리 AI 복제 계약에 끌어들이는 일에 '책임 있고 투명한 방식' 같은 것은 없다." },
+          { "t": "p", "x": "해즈브로의 게임에도 좋은 신호가 아니다. 성우들은 이 기술이 등장한 뒤로 줄곧 AI 문제와 씨름해 왔고 공정한 계약을 얻기까지 긴 파업이 필요했다. 그 파업은 스스로 조직하고 목소리를 낼 수 있는 어른들의 일이었다. 아이들은 그럴 수 없다." }
         ]
       }
     }

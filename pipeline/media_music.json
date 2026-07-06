@@ -1,25 +1,26 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "media": [
     {
-      "id": "logic-pro-123",
+      "id": "izotope-borisfx",
       "type": "image",
-      "src": "pipeline/media/music-logic-pro-123.png"
+      "src": "pipeline/media/izotope-borisfx.jpg"
     },
     {
-      "id": "credits-fm",
+      "id": "afro-charles",
       "type": "image",
-      "src": "pipeline/media/music-credits-fm.jpg"
+      "src": "pipeline/media/afro-charles.jpg"
     },
     {
-      "id": "sza-ai-data",
-      "type": "image",
-      "src": "pipeline/media/music-sza-ai-data.jpg"
+      "id": "prompt-plugins",
+      "type": "video",
+      "src": "pipeline/media/prompt-plugins.mp4",
+      "poster": "pipeline/media/prompt-plugins.poster.jpg"
     },
     {
-      "id": "izotope-rx12",
+      "id": "spectralayers13",
       "type": "image",
-      "src": "pipeline/media/music-izotope-rx12.jpg"
+      "src": "pipeline/media/spectralayers13.jpg"
     }
   ]
 }

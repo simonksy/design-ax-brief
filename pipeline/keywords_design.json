@@ -1,670 +1,105 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "seeds": [
-    {
-      "seed": "AI Design Tool",
-      "expansions": [
-        "AI design assistant",
-        "new AI design app release",
-        "AI UX tool update"
-      ]
-    },
-    {
-      "seed": "Design AX",
-      "expansions": [
-        "design AI transformation",
-        "AI in design workflow",
-        "design org AI adoption"
-      ]
-    },
-    {
-      "seed": "AI Workflow",
-      "expansions": [
-        "designer AI workflow",
-        "AI creative pipeline",
-        "AI workflow automation design"
-      ]
-    },
-    {
-      "seed": "Higgsfield",
-      "expansions": [
-        "Higgsfield AI design",
-        "Higgsfield update 2026",
-        "Higgsfield designer workflow"
-      ]
-    },
-    {
-      "seed": "Kling",
-      "expansions": [
-        "Kling AI design",
-        "Kling update 2026",
-        "Kling designer workflow"
-      ]
-    },
-    {
-      "seed": "Runway",
-      "expansions": [
-        "Runway Gen-4",
-        "Runway video model update",
-        "Runway Aleph"
-      ]
-    },
-    {
-      "seed": "Sora",
-      "expansions": [
-        "Sora AI design",
-        "Sora update 2026",
-        "Sora designer workflow"
-      ]
-    },
-    {
-      "seed": "Midjourney",
-      "expansions": [
-        "Midjourney v8",
-        "Midjourney video",
-        "Midjourney update"
-      ]
-    },
-    {
-      "seed": "Adobe Firefly",
-      "expansions": [
-        "Firefly image model",
-        "Adobe MAX AI",
-        "Photoshop generative AI"
-      ]
-    },
-    {
-      "seed": "Google Veo",
-      "expansions": [
-        "Veo 4",
-        "Veo video generation",
-        "Flow Google AI video"
-      ]
-    },
-    {
-      "seed": "Luma Dream Machine",
-      "expansions": [
-        "Luma Dream Machine AI design",
-        "Luma Dream Machine update 2026",
-        "Luma Dream Machine designer workflow"
-      ]
-    },
-    {
-      "seed": "Pika",
-      "expansions": [
-        "Pika AI design",
-        "Pika update 2026",
-        "Pika designer workflow"
-      ]
-    },
-    {
-      "seed": "Krea",
-      "expansions": [
-        "Krea AI design",
-        "Krea update 2026",
-        "Krea designer workflow"
-      ]
-    },
-    {
-      "seed": "Stable Diffusion",
-      "expansions": [
-        "Stability AI release",
-        "SDXL update",
-        "ComfyUI workflow"
-      ]
-    },
-    {
-      "seed": "Flux",
-      "expansions": [
-        "Black Forest Labs",
-        "FLUX.2",
-        "Flux image model"
-      ]
-    },
-    {
-      "seed": "Figma",
-      "expansions": [
-        "Figma AI update",
-        "Figma Make",
-        "Figma plugin AI",
-        "Figma design system AI"
-      ]
-    },
-    {
-      "seed": "Claude Design",
-      "expansions": [
-        "Claude Design AI design",
-        "Claude Design update 2026",
-        "Claude Design designer workflow"
-      ]
-    },
-    {
-      "seed": "Claude Code",
-      "expansions": [
-        "Claude Code AI design",
-        "Claude Code update 2026",
-        "Claude Code designer workflow"
-      ]
-    },
-    {
-      "seed": "v0 Vercel",
-      "expansions": [
-        "v0 app generation",
-        "Vercel AI SDK design",
-        "v0 update"
-      ]
-    },
-    {
-      "seed": "Framer AI",
-      "expansions": [
-        "Framer AI AI design",
-        "Framer AI update 2026",
-        "Framer AI designer workflow"
-      ]
-    },
-    {
-      "seed": "Cursor",
-      "expansions": [
-        "Cursor AI design",
-        "Cursor update 2026",
-        "Cursor designer workflow"
-      ]
-    },
-    {
-      "seed": "Lovable",
-      "expansions": [
-        "Lovable AI design",
-        "Lovable update 2026",
-        "Lovable designer workflow"
-      ]
-    },
-    {
-      "seed": "Bolt",
-      "expansions": [
-        "Bolt AI design",
-        "Bolt update 2026",
-        "Bolt designer workflow"
-      ]
-    },
-    {
-      "seed": "Generative UI",
-      "expansions": [
-        "generative interface",
-        "AI-generated UI components",
-        "adaptive UI AI"
-      ]
-    },
-    {
-      "seed": "Design-to-code",
-      "expansions": [
-        "design handoff AI",
-        "Figma to code",
-        "AI code generation from design"
-      ]
-    },
-    {
-      "seed": "Vibe coding",
-      "expansions": [
-        "Vibe coding AI design",
-        "Vibe coding update 2026",
-        "Vibe coding designer workflow"
-      ]
-    },
-    {
-      "seed": "Model Context Protocol",
-      "expansions": [
-        "MCP design tools",
-        "Figma MCP server",
-        "MCP server release"
-      ]
-    },
-    {
-      "seed": "OpenAI",
-      "expansions": [
-        "OpenAI AI design",
-        "OpenAI update 2026",
-        "OpenAI designer workflow"
-      ]
-    },
-    {
-      "seed": "ChatGPT",
-      "expansions": [
-        "ChatGPT AI design",
-        "ChatGPT update 2026",
-        "ChatGPT designer workflow"
-      ]
-    },
-    {
-      "seed": "Anthropic",
-      "expansions": [
-        "Anthropic AI design",
-        "Anthropic update 2026",
-        "Anthropic designer workflow"
-      ]
-    },
-    {
-      "seed": "Gemini",
-      "expansions": [
-        "Gemini AI design",
-        "Gemini update 2026",
-        "Gemini designer workflow"
-      ]
-    },
-    {
-      "seed": "Meta",
-      "expansions": [
-        "Meta AI design",
-        "Meta update 2026",
-        "Meta designer workflow"
-      ]
-    },
-    {
-      "seed": "Ollama",
-      "expansions": [
-        "Ollama AI design",
-        "Ollama update 2026",
-        "Ollama designer workflow"
-      ]
-    },
-    {
-      "seed": "Llama",
-      "expansions": [
-        "Llama AI design",
-        "Llama update 2026",
-        "Llama designer workflow"
-      ]
-    },
-    {
-      "seed": "Mistral",
-      "expansions": [
-        "Mistral AI design",
-        "Mistral update 2026",
-        "Mistral designer workflow"
-      ]
-    },
-    {
-      "seed": "Grok xAI",
-      "expansions": [
-        "Grok xAI AI design",
-        "Grok xAI update 2026",
-        "Grok xAI designer workflow"
-      ]
-    },
-    {
-      "seed": "DeepSeek",
-      "expansions": [
-        "DeepSeek AI design",
-        "DeepSeek update 2026",
-        "DeepSeek designer workflow"
-      ]
-    },
-    {
-      "seed": "AI Agent",
-      "expansions": [
-        "AI Agent AI design",
-        "AI Agent update 2026",
-        "AI Agent designer workflow"
-      ]
-    },
-    {
-      "seed": "Agentic AI",
-      "expansions": [
-        "Agentic AI AI design",
-        "Agentic AI update 2026",
-        "Agentic AI designer workflow"
-      ]
-    },
-    {
-      "seed": "Physical AI",
-      "expansions": [
-        "Physical AI AI design",
-        "Physical AI update 2026",
-        "Physical AI designer workflow"
-      ]
-    },
-    {
-      "seed": "Embodied AI",
-      "expansions": [
-        "Embodied AI AI design",
-        "Embodied AI update 2026",
-        "Embodied AI designer workflow"
-      ]
-    },
-    {
-      "seed": "World models",
-      "expansions": [
-        "World models AI design",
-        "World models update 2026",
-        "World models designer workflow"
-      ]
-    },
-    {
-      "seed": "Multimodal AI",
-      "expansions": [
-        "Multimodal AI AI design",
-        "Multimodal AI update 2026",
-        "Multimodal AI designer workflow"
-      ]
-    },
-    {
-      "seed": "Yann LeCun",
-      "expansions": [
-        "Yann LeCun AI design",
-        "Yann LeCun update 2026",
-        "Yann LeCun designer workflow"
-      ]
-    },
-    {
-      "seed": "Andrej Karpathy",
-      "expansions": [
-        "Andrej Karpathy AI design",
-        "Andrej Karpathy update 2026",
-        "Andrej Karpathy designer workflow"
-      ]
-    },
-    {
-      "seed": "Dario Amodei",
-      "expansions": [
-        "Dario Amodei AI design",
-        "Dario Amodei update 2026",
-        "Dario Amodei designer workflow"
-      ]
-    },
-    {
-      "seed": "Sam Altman",
-      "expansions": [
-        "Sam Altman AI design",
-        "Sam Altman update 2026",
-        "Sam Altman designer workflow"
-      ]
-    },
-    {
-      "seed": "Demis Hassabis",
-      "expansions": [
-        "Demis Hassabis AI design",
-        "Demis Hassabis update 2026",
-        "Demis Hassabis designer workflow"
-      ]
-    },
-    {
-      "seed": "Fei-Fei Li",
-      "expansions": [
-        "Fei-Fei Li AI design",
-        "Fei-Fei Li update 2026",
-        "Fei-Fei Li designer workflow"
-      ]
-    },
-    {
-      "seed": "Ilya Sutskever",
-      "expansions": [
-        "Ilya Sutskever AI design",
-        "Ilya Sutskever update 2026",
-        "Ilya Sutskever designer workflow"
-      ]
-    },
-    {
-      "seed": "Mira Murati",
-      "expansions": [
-        "Mira Murati AI design",
-        "Mira Murati update 2026",
-        "Mira Murati designer workflow"
-      ]
-    },
-    {
-      "seed": "Jensen Huang",
-      "expansions": [
-        "Jensen Huang AI design",
-        "Jensen Huang update 2026",
-        "Jensen Huang designer workflow"
-      ]
-    },
-    {
-      "seed": "Nvidia",
-      "expansions": [
-        "Nvidia Omniverse",
-        "RTX AI rendering",
-        "DLSS neural rendering"
-      ]
-    },
-    {
-      "seed": "Figure AI",
-      "expansions": [
-        "Figure AI AI design",
-        "Figure AI update 2026",
-        "Figure AI designer workflow"
-      ]
-    },
-    {
-      "seed": "Tesla Optimus",
-      "expansions": [
-        "Tesla Optimus AI design",
-        "Tesla Optimus update 2026",
-        "Tesla Optimus designer workflow"
-      ]
-    },
-    {
-      "seed": "1X robot",
-      "expansions": [
-        "1X robot AI design",
-        "1X robot update 2026",
-        "1X robot designer workflow"
-      ]
-    },
-    {
-      "seed": "Boston Dynamics",
-      "expansions": [
-        "Boston Dynamics AI design",
-        "Boston Dynamics update 2026",
-        "Boston Dynamics designer workflow"
-      ]
-    },
-    {
-      "seed": "Humanoid robot",
-      "expansions": [
-        "Humanoid robot AI design",
-        "Humanoid robot update 2026",
-        "Humanoid robot designer workflow"
-      ]
-    },
-    {
-      "seed": "Apple Vision Pro",
-      "expansions": [
-        "visionOS design",
-        "Vision Pro prototyping",
-        "spatial UI design"
-      ]
-    },
-    {
-      "seed": "Meta Quest",
-      "expansions": [
-        "Quest mixed reality design",
-        "Quest 4",
-        "VR prototyping tool"
-      ]
-    },
-    {
-      "seed": "Spatial computing",
-      "expansions": [
-        "spatial design tools",
-        "XR design workflow",
-        "immersive prototyping"
-      ]
-    },
-    {
-      "seed": "Meta Ray-Ban",
-      "expansions": [
-        "Meta Ray-Ban AI design",
-        "Meta Ray-Ban update 2026",
-        "Meta Ray-Ban designer workflow"
-      ]
-    },
-    {
-      "seed": "Suno",
-      "expansions": [
-        "Suno AI design",
-        "Suno update 2026",
-        "Suno designer workflow"
-      ]
-    },
-    {
-      "seed": "Udio",
-      "expansions": [
-        "Udio AI design",
-        "Udio update 2026",
-        "Udio designer workflow"
-      ]
-    },
-    {
-      "seed": "ElevenLabs",
-      "expansions": [
-        "ElevenLabs AI design",
-        "ElevenLabs update 2026",
-        "ElevenLabs designer workflow"
-      ]
-    },
-    {
-      "seed": "Hugging Face",
-      "expansions": [
-        "Hugging Face AI design",
-        "Hugging Face update 2026",
-        "Hugging Face designer workflow"
-      ]
-    },
-    {
-      "seed": "open-source AI",
-      "expansions": [
-        "open-source AI AI design",
-        "open-source AI update 2026",
-        "open-source AI designer workflow"
-      ]
-    },
-    {
-      "seed": "AGI",
-      "expansions": [
-        "AGI AI design",
-        "AGI update 2026",
-        "AGI designer workflow"
-      ]
-    },
-    {
-      "seed": "superintelligence",
-      "expansions": [
-        "superintelligence AI design",
-        "superintelligence update 2026",
-        "superintelligence designer workflow"
-      ]
-    },
-    {
-      "seed": "AI safety",
-      "expansions": [
-        "AI safety AI design",
-        "AI safety update 2026",
-        "AI safety designer workflow"
-      ]
-    },
-    {
-      "seed": "AI regulation",
-      "expansions": [
-        "AI regulation AI design",
-        "AI regulation update 2026",
-        "AI regulation designer workflow"
-      ]
-    },
-    {
-      "seed": "Enterprise AI agents",
-      "expansions": [
-        "Enterprise AI agents AI design",
-        "Enterprise AI agents update 2026",
-        "Enterprise AI agents designer workflow"
-      ]
-    },
-    {
-      "seed": "Figma YouTube",
-      "expansions": [
-        "Figma YouTube AI design",
-        "Figma YouTube update 2026",
-        "Figma YouTube designer workflow"
-      ]
-    },
-    {
-      "seed": "Vercel YouTube",
-      "expansions": [
-        "Vercel YouTube AI design",
-        "Vercel YouTube update 2026",
-        "Vercel YouTube designer workflow"
-      ]
-    },
-    {
-      "seed": "Matt Wolfe AI",
-      "expansions": [
-        "Matt Wolfe AI AI design",
-        "Matt Wolfe AI update 2026",
-        "Matt Wolfe AI designer workflow"
-      ]
-    },
-    {
-      "seed": "The AI Advantage",
-      "expansions": [
-        "The AI Advantage AI design",
-        "The AI Advantage update 2026",
-        "The AI Advantage designer workflow"
-      ]
-    },
-    {
-      "seed": "Fireship AI",
-      "expansions": [
-        "Fireship AI AI design",
-        "Fireship AI update 2026",
-        "Fireship AI designer workflow"
-      ]
-    },
-    {
-      "seed": "DesignCourse",
-      "expansions": [
-        "DesignCourse AI design",
-        "DesignCourse update 2026",
-        "DesignCourse designer workflow"
-      ]
-    },
-    {
-      "seed": "AI design tutorial YouTube",
-      "expansions": [
-        "AI design tutorial YouTube AI design",
-        "AI design tutorial YouTube update 2026",
-        "AI design tutorial YouTube designer workflow"
-      ]
-    },
-    {
-      "seed": "Midjourney Instagram",
-      "expansions": [
-        "Midjourney Instagram AI design",
-        "Midjourney Instagram update 2026",
-        "Midjourney Instagram designer workflow"
-      ]
-    },
-    {
-      "seed": "Runway Instagram",
-      "expansions": [
-        "Runway Instagram AI design",
-        "Runway Instagram update 2026",
-        "Runway Instagram designer workflow"
-      ]
-    },
-    {
-      "seed": "Awwwards",
-      "expansions": [
-        "Awwwards AI design",
-        "Awwwards update 2026",
-        "Awwwards designer workflow"
-      ]
-    },
-    {
-      "seed": "design AI reel",
-      "expansions": [
-        "design AI reel AI design",
-        "design AI reel update 2026",
-        "design AI reel designer workflow"
-      ]
-    }
+    "AI Design Tool",
+    "Design AX",
+    "AI Workflow",
+    "Higgsfield",
+    "Kling",
+    "Runway",
+    "Sora",
+    "Midjourney",
+    "Adobe Firefly",
+    "Google Veo",
+    "Luma Dream Machine",
+    "Pika",
+    "Krea",
+    "Stable Diffusion",
+    "Flux",
+    "Figma",
+    "Figma AI",
+    "Figma Make",
+    "Claude Design",
+    "Claude Code",
+    "v0 Vercel",
+    "Framer AI",
+    "Cursor",
+    "Lovable",
+    "Bolt",
+    "Generative UI",
+    "Design-to-code",
+    "Vibe coding",
+    "Model Context Protocol",
+    "OpenAI",
+    "ChatGPT",
+    "Anthropic",
+    "Gemini",
+    "Meta AI",
+    "Ollama",
+    "Llama",
+    "Mistral",
+    "Grok xAI",
+    "DeepSeek",
+    "AI Agent",
+    "Agentic AI",
+    "Physical AI",
+    "Embodied AI",
+    "World models",
+    "Multimodal AI",
+    "Yann LeCun",
+    "Andrej Karpathy",
+    "Dario Amodei",
+    "Sam Altman",
+    "Demis Hassabis",
+    "Fei-Fei Li",
+    "Ilya Sutskever",
+    "Mira Murati",
+    "Jensen Huang",
+    "Nvidia",
+    "Figure AI",
+    "Tesla Optimus",
+    "1X robot",
+    "Boston Dynamics",
+    "Humanoid robot",
+    "Apple Vision Pro",
+    "Meta Quest",
+    "Spatial computing",
+    "Meta Ray-Ban",
+    "Suno",
+    "Udio",
+    "ElevenLabs",
+    "Hugging Face",
+    "open-source AI",
+    "AGI",
+    "superintelligence",
+    "AI safety",
+    "AI regulation",
+    "Enterprise AI agents",
+    "Figma YouTube",
+    "Vercel YouTube",
+    "Matt Wolfe AI",
+    "The AI Advantage",
+    "Fireship AI",
+    "DesignCourse",
+    "AI design tutorial YouTube",
+    "Midjourney Instagram",
+    "Runway Instagram",
+    "Awwwards",
+    "design AI reel",
+    "AI rendering KeyShot",
+    "AI 3D texture generation",
+    "text-to-3D model",
+    "AI CAD generative design",
+    "text-to-CAD",
+    "Autodesk AI",
+    "AI design tokens",
+    "design system AI automation",
+    "AI UI generation",
+    "AI prototyping VR",
+    "AI UX research",
+    "AI image editing designer",
+    "generative design workflow",
+    "AI design handoff",
+    "designer AI adoption"
   ]
 }

@@ -1,49 +1,27 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-06",
   "selection_mode": "user",
   "picks": [
     {
-      "url": "https://goodereader.com/blog/kindle/the-amazon-kindle-has-new-ai-powered-translations",
+      "url": "https://goodereader.com/blog/kindle/amazon-kindle-and-kindle-scribe-5-19-5-update-released",
       "source": "Good e-Reader",
-      "published_iso": "2026-07-01T12:00:00Z",
+      "published_iso": "2026-06-30T12:00:00Z",
       "og_image": null,
-      "excerpt": "Amazon expanded Kindle Translate (beta) to five new language pairs: English paired with Spanish, German, French, Italian and Portuguese. Self-published KDP authors can auto-translate and publish 'with a few clicks'; every translation passes an automated quality review before going live, authors can preview and set pricing, and translated titles can enroll in Kindle Unlimited. Amazon notes historically fewer than 5% of Amazon.com titles exist in more than one language. Kindle Translate launched Nov 2025 (EN<->ES, DE->EN); this is its first big language expansion.",
+      "excerpt": "Amazon's firmware 5.19.5 for Kindle and Kindle Scribe rolls out 'Story So Far' — spoiler-free recaps up to your current reading position for thousands of English-language books — plus improved Scribe annotation tools and cross-device bookmarking. Story So Far extends Amazon's AI-generated Recaps feature (introduced 2025) from series level to in-book progress. By Michael Kozlowski.",
       "category": "books",
-      "tool": "Amazon",
+      "tool": "Kindle",
       "accent": "#f5a623",
       "motif": "swatch"
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/100751-emaqi-looks-to-grow-digital-manga-market-with-subscription-service.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-07-01T12:00:00Z",
-      "og_image": null,
-      "excerpt": "Emaqi, the digital manga platform from Tokyo-based Orange Inc., launched a $6.99/month premium subscription for North American English-language readers with 26,000+ volumes across ~2,500 series from major Japanese publishers (incl. Attack on Titan, upcoming Viz releases). Emaqi uses AI-assisted programs to translate, letter and produce its manga exclusives, compressing the localization pipeline. 7-day free trial plus reader incentive programs.",
-      "category": "books",
-      "tool": "Orange",
-      "accent": "#ff2d55",
-      "motif": "swatch"
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/06/30/guest-post-now-is-the-time-for-ai-in-peer-review-and-publishing-policies-need-to-recognize-this/",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/",
       "source": "Scholarly Kitchen",
-      "published_iso": "2026-06-30T12:00:00Z",
+      "published_iso": "2026-06-22T09:30:00Z",
       "og_image": null,
-      "excerpt": "Guest post arguing that AI already has a legitimate role in scholarly peer review and that journal/publisher policies — many of which flatly ban AI in review — need updating with practical guidance instead of prohibition. Site byline date June 30, 2026.",
+      "excerpt": "Hong Zhou and Adam Hyde argue that autonomous AI agents are splitting scholarly publishing platforms into a 'trusted core' database layer and a separate 'agentic layer' where agents — not humans staring at yesterday's interface — do the interacting. The shift undermines per-seat SaaS pricing and forces vendors to rethink where platform value accumulates.",
       "category": "books",
-      "tool": "SSP",
+      "tool": "Agentic",
       "accent": "#3b6bff",
-      "motif": "swatch"
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/06/around-the-book-world-monday-june-29th-2026/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": null,
-      "excerpt": "ROUNDUP, but carries one otherwise-uncovered story: Dutch publishers VBK, WPG, Lannoo and Maven plus distributor CB launched Bookpact.ai, a platform letting publishers (with author consent) control and monetize AI use of their books on an opt-in, title-by-title basis — training, summarization, translation and quotation each licensed as separate use cases with separate terms, plus traceable usage reporting. No single-story coverage exists on any allowed domain (only IPA/publishersmarketplace outside the pool). Roundup's other AI items (Kobo 45% rejections, ElevenLabs Michael Caine Odyssey) are ALREADY PUBLISHED as cards — the card angle must be Bookpact only.",
-      "category": "books",
-      "tool": "Bookpact",
-      "accent": "#2ec5c5",
       "motif": "swatch"
     }
   ]
