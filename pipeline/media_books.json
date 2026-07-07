@@ -1,15 +1,31 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "media": [
     {
-      "id": "kindle-story-so-far",
+      "id": "libby-ai-filter",
       "type": "image",
-      "src": "pipeline/media/kindle-story-so-far.jpg"
+      "src": "pipeline/media/libby-ai-filter.png"
     },
     {
-      "id": "platform-comes-apart",
+      "id": "caine-odyssey",
+      "type": "video",
+      "src": "pipeline/media/caine-odyssey.mp4",
+      "poster": "pipeline/media/caine-odyssey.jpg"
+    },
+    {
+      "id": "pls-ai-license",
       "type": "image",
-      "src": "pipeline/media/platform-comes-apart.jpg"
+      "src": "pipeline/media/pls-ai-license.jpg"
+    },
+    {
+      "id": "sudowrite-sonnet5",
+      "type": "image",
+      "src": "pipeline/media/sudowrite-sonnet5.png"
+    },
+    {
+      "id": "zoom-books",
+      "type": "image",
+      "src": "pipeline/media/zoom-books.png"
     }
   ]
 }

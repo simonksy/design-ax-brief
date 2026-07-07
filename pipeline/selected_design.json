@@ -1,39 +1,62 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
+  "section": "design",
   "selection_mode": "user",
   "picks": [
     {
-      "url": "https://www.smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-      "source": "Smashing Magazine",
-      "published_iso": "2026-07-03T13:00:00Z",
-      "og_image": "https://files.smashing.media/articles/ux-impact-seamless-integrations/document-management-interface-folder-instructions.jpg",
-      "excerpt": "Vitaly Friedman argues users don't need more standalone AI tools — they need useful features seamlessly integrated into existing workflows. He champions 'Quiet AI' that sits in the background doing small tasks on the user's behalf, over flashy AI-first products.",
-      "category": "tokens",
-      "tool": "Quiet AI",
-      "accent": "#7928ca",
-      "motif": "frame"
-    },
-    {
-      "url": "https://dev.to/slafleche/figma-to-code-the-real-shift-happening-7a3",
+      "url": "https://dev.to/rohit_raghuvansh_2f04aca3/model-context-protocol-explained-for-designers-and-pms-5hcm",
       "source": "DEV Community",
-      "published_iso": "2026-07-04T12:58:59Z",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/jeejasxc0b2yxrmywj94.png",
-      "excerpt": "Design-to-code tools have converged on a standard pipeline, but the real shift is organizational: designers are moving upstream into prototyping while developers get pushed downstream into cleanup. The unclaimed work — mapping design intent into code AI can reliably execute — favors teams with mature design systems.",
-      "category": "figma",
-      "tool": "Figma to Code",
+      "tool": "Figma",
       "accent": "#0070f3",
-      "motif": "frame"
+      "motif": "frame",
+      "rationale": "User pick 1. Dedup check passed: 07-06 figma-to-code card only mentioned MCP in passing; this is a dedicated designer/PM-facing MCP explainer — distinct URL and distinct core story.",
+      "published_iso": "2026-07-06T04:11:03Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ffiles.catbox.moe%2F48eqt5.png",
+      "excerpt": "A designer/PM-oriented explainer of Model Context Protocol — how MCP servers let AI agents reach design files, docs, and tooling, and what that means for non-engineers."
     },
     {
-      "url": "https://www.creativebloq.com/tech/what-does-the-ram-crisis-mean-for-creatives",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-05T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XyrWyAr8hEJmBagjr5FZZR-2000-80.jpg",
-      "excerpt": "'Why is RAM scarce? In a word: AI.' Creative Bloq breaks down how data centres built to run AI services like ChatGPT, Gemini and Claude are swallowing global memory supply — and what soaring RAM prices mean for creatives buying their next laptop, phone or tablet.",
-      "category": "figma",
-      "tool": "RAM",
-      "accent": "#ff5a4d",
-      "motif": "cube"
+      "url": "https://dev.to/kalpick_sharma_d32ace423a/ai-powered-design-systems-the-part-nobody-talks-about-1h58",
+      "source": "DEV Community",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "User pick 2. Governance/drift side of AI design systems — actionable for design-system teams; no overlap with published history.",
+      "published_iso": "2026-07-05T19:47:56Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8u989ivry5kps8ycgi4.jpg",
+      "excerpt": "A look at the unglamorous side of AI-powered design systems — governance, drift, and maintenance work that AI generation creates rather than removes — and what design-system teams should prepare for."
+    },
+    {
+      "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
+      "source": "80 Level",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "User pick 3. Fresh prompt-to-physical-object pipeline (Hi3D) — novel end-to-end workflow, not previously covered.",
+      "published_iso": "2026-07-06T13:07:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg",
+      "excerpt": "Hi3D automates the full pipeline from a text prompt to a print-ready 3D collectible: it generates the model, intelligently splits it into printable parts, adds assembly connectors, and exports files 'in less than five minutes' — no 3D modeling or mesh repair required."
+    },
+    {
+      "url": "https://develop3d.com/cad/kyrall-launches-its-ai-automated-cad-modeller/",
+      "source": "DEVELOP3D",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "User pick 4. New product launch (Kyrall AI CAD modeller) — distinct from the 07-04 Prometheus commentary card; fresh spec-to-parametric-model news.",
+      "published_iso": "2026-07-06T10:47:00+01:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/Kyrall-launch-2026-Context-Manager-1024x576.jpg",
+      "excerpt": "Kyrall launched an AI-automated CAD modeller that turns engineering specifications into parametric 3D models and functional assemblies in minutes, grounded in a 'Context Manager' repository of the user's own design data and best practices."
+    },
+    {
+      "url": "https://dev.to/hadil/top-5-ai-ui-design-tools-in-2026-i-tested-them-all-with-the-same-prompt-hm7",
+      "source": "DEV Community",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "rationale": "User pick 5. Same-prompt benchmark across five AI UI tools — practical comparison, no history overlap. Shares the figma category with pick 1, so given a distinct palette accent (#3b6bff).",
+      "published_iso": "2026-07-06T12:29:50Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frz1mcjpl9b897bgq6i6p.png",
+      "excerpt": "A hands-on comparison that feeds the exact same prompt into five leading AI UI design tools and compares the generated interfaces — a practical benchmark of where prompt-to-UI quality actually stands in 2026."
     }
   ]
 }

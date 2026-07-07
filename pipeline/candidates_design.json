@@ -1,54 +1,121 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
+  "section": "design",
+  "now_iso": "2026-07-06T22:49:04Z",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "published_iso": "2026-07-03T13:00:00Z",
-      "og_image": "https://files.smashing.media/articles/ux-impact-seamless-integrations/document-management-interface-folder-instructions.jpg",
-      "excerpt": "Vitaly Friedman argues users don't need more standalone AI tools — they need useful features seamlessly integrated into existing workflows. He champions 'Quiet AI' that sits in the background doing small tasks on the user's behalf, over flashy AI-first products."
+      "url": "https://uxdesign.cc/wait-who-made-this-705a30d74220",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-07-06T07:33:52Z",
+      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:640/0*E1fBT2M4pqSGqE9Q",
+      "excerpt": "Allie Paschal argues that as AI-generated work floods media, 'creative provenance' — documentation of who made something and how — is becoming essential for designers to rebuild audience trust as the human/AI quality gap narrows."
     },
     {
-      "url": "https://dev.to/slafleche/figma-to-code-the-real-shift-happening-7a3",
+      "url": "https://dev.to/hadil/top-5-ai-ui-design-tools-in-2026-i-tested-them-all-with-the-same-prompt-hm7",
       "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-07-04T12:58:59Z",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/jeejasxc0b2yxrmywj94.png",
-      "excerpt": "Design-to-code tools have converged on a standard pipeline, but the real shift is organizational: designers are moving upstream into prototyping while developers get pushed downstream into cleanup. The unclaimed work — mapping design intent into code AI can reliably execute — favors teams with mature design systems."
+      "published_iso": "2026-07-06T12:29:50Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frz1mcjpl9b897bgq6i6p.png",
+      "excerpt": "A hands-on comparison that feeds the exact same prompt into five leading AI UI design tools and compares the generated interfaces — a practical benchmark of where prompt-to-UI quality actually stands in 2026."
     },
     {
-      "url": "https://www.creativebloq.com/tech/what-does-the-ram-crisis-mean-for-creatives",
-      "source": "Creative Bloq",
+      "url": "https://dev.to/rohit_raghuvansh_2f04aca3/model-context-protocol-explained-for-designers-and-pms-5hcm",
+      "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-07-05T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XyrWyAr8hEJmBagjr5FZZR-2000-80.jpg",
-      "excerpt": "'Why is RAM scarce? In a word: AI.' Creative Bloq breaks down how data centres built to run AI services like ChatGPT, Gemini and Claude are swallowing global memory supply — and what soaring RAM prices mean for creatives buying their next laptop, phone or tablet."
+      "published_iso": "2026-07-06T04:11:03Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ffiles.catbox.moe%2F48eqt5.png",
+      "excerpt": "A designer/PM-oriented explainer of Model Context Protocol — how MCP servers let AI agents reach design files, docs, and tooling, and what that means for non-engineers. NOTE: MCP angle overlaps with the 07-06 figma-to-code card (explainer, not product news); curator should weigh dedup.",
+      "notes": "Watchlist overlap risk: MCP mentioned in 2026-07-06 figma-to-code card."
     },
     {
-      "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-      "source": "Road to VR",
-      "category": "vr",
-      "published_iso": "2026-07-03T14:37:45Z",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1068%2C712&quality=89&ssl=1",
-      "excerpt": "XGIMI's MemoMind One display smart glasses blasted past $500K in crowdfunding, pairing dual green micro-LED displays with an on-device AI assistant for real-time translation, note-taking, contextual assistance and a Memo+ tier with memory search across captured meetings and moments."
+      "url": "https://dev.to/kalpick_sharma_d32ace423a/ai-powered-design-systems-the-part-nobody-talks-about-1h58",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-07-05T19:47:56Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8u989ivry5kps8ycgi4.jpg",
+      "excerpt": "A look at the unglamorous side of AI-powered design systems — governance, drift, and maintenance work that AI generation creates rather than removes — and what design-system teams should prepare for."
     },
     {
-      "url": "https://www.youtube.com/watch?v=hUH4HD6Ah9c",
-      "source": "Matt Wolfe (YouTube)",
+      "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-07-06T13:07:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg",
+      "excerpt": "Hi3D automates the full pipeline from a text prompt to a print-ready 3D collectible: it generates the model, intelligently splits it into printable parts, adds assembly connectors, and exports files 'in less than five minutes' — no 3D modeling or mesh repair required."
+    },
+    {
+      "url": "https://develop3d.com/cad/kyrall-launches-its-ai-automated-cad-modeller/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-07-06T10:47:00+01:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/Kyrall-launch-2026-Context-Manager-1024x576.jpg",
+      "excerpt": "Kyrall launched an AI-automated CAD modeller that turns engineering specifications into parametric 3D models and functional assemblies in minutes, grounded in a 'Context Manager' repository of the user's own design data and best practices."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch",
+      "category": "workflow",
+      "published_iso": "2026-07-04T11:00:00-07:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?w=1024",
+      "excerpt": "In its copyright fight with Hollywood, Midjourney is demanding studios disclose their own internal generative-AI use — arguing studios' AI storyboarding experiments show the industry itself trains on unlicensed work. A case whose outcome shapes how designers can legally use image generators."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch",
+      "category": "workflow",
+      "published_iso": "2026-07-06T12:49:00-07:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/PHB_1846_16507246419711358101.jpeg?w=1024",
+      "excerpt": "Vercel CEO Guillermo Rauch (v0) says AI building has shifted from prototyping to production, and argues models must be decoupled from agents so teams can swap providers — a stance that directly shapes the design-to-production toolchain designers now rely on."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch",
+      "category": "workflow",
+      "published_iso": "2026-07-06T10:04:00-07:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg",
+      "excerpt": "Google now uses media uploaded through its search tools — images, audio, video — to train its AI models by default; creators who don't want their work in the training set must opt out via Search Services History and Personalization settings. (Same story also on Engadget 07-06.)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VfA-vjsFQ1o",
+      "source": "Figma (YouTube)",
       "category": "social",
-      "published_iso": "2026-07-04T03:21:50Z",
-      "og_image": "https://i.ytimg.com/vi/hUH4HD6Ah9c/maxresdefault.jpg",
-      "excerpt": "'I Prompted Gary Busey with Every AI Model Ever!' — Matt Wolfe runs the same likeness prompt through every major image/video generation model as a side-by-side stress test of how today's creative AI models actually compare."
+      "published_iso": "2026-07-06T14:51:52-07:00",
+      "og_image": "https://i.ytimg.com/vi/VfA-vjsFQ1o/maxresdefault.jpg",
+      "excerpt": "Config 2026 session just published to Figma's channel: 'Own the loop: how designers and researchers win with AI evals' — Figma's Setor Zilevu on how design and research teams use AI evaluations to keep quality in the loop."
     },
     {
-      "url": "https://www.youtube.com/watch?v=dQkVUANCYgc",
-      "source": "The AI Advantage (YouTube)",
+      "url": "https://www.youtube.com/watch?v=2nn5J6tUzwE",
+      "source": "Figma (YouTube)",
       "category": "social",
-      "published_iso": "2026-07-03T16:48:11Z",
-      "og_image": "https://i.ytimg.com/vi/dQkVUANCYgc/maxresdefault.jpg",
-      "excerpt": "'Fable 5 is Back! Here's the Best Way to Use It' — a practical workflow walkthrough of how to fold the restored Claude Fable 5 into creative and design work. Note: the restoration news itself was already covered on 07-03; this is the hands-on usage angle."
+      "published_iso": "2026-07-06T14:52:51-07:00",
+      "og_image": "https://i.ytimg.com/vi/2nn5J6tUzwE/maxresdefault.jpg",
+      "excerpt": "Config 2026 session: 'Skill issue: how we built an OS for PMs at Figma' — how Figma built PM OS, its internal AI tool for product managers, following the pattern of Ramp's Glass and Stripe's Minions."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vnVAF8o4bwE",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-07-06T14:48:18-07:00",
+      "og_image": "https://i.ytimg.com/vi/vnVAF8o4bwE/maxresdefault.jpg",
+      "excerpt": "Config 2026 session: 'Designing money: how to build a trustworthy brand in the age of AI' ft. Chris Warner — brand design and trust when AI-generated content is everywhere."
     }
-  ]
+  ],
+  "collection_notes": {
+    "per_source_counts": { "dev.to": 3, "techcrunch.com": 3, "youtube.com": 3, "uxdesign.cc": 1, "80.lv": 1, "develop3d.com": 1 },
+    "distinct_outlets": 6,
+    "categories_covered": ["figma", "tokens", "render", "cad", "workflow", "social"],
+    "vr_category": "No fresh design×AI item in window: roadtovr 07-06 items were a funding round (Even Realities $150M — dropped per relevance rule) and a non-AI game release; uploadvr 07-04..07 items were games/haptics; apple.com newsroom had nothing new.",
+    "exhausted_or_blocked": [
+      "venturebeat.com hard-blocked (HTTP 429 / Vercel bot challenge, via WebFetch and curl) — its 'Claude Design overhaul' story verified as June 17-18 via secondary sources (stale anyway)",
+      "theverge.com blocks the crawler entirely",
+      "fastcompany.com 403 on fetch; search shows no design-AI item in window",
+      "figma.com: nothing since 07-03 Leadership Collective (already covered in 07-04 brief)",
+      "smashingmagazine.com latest is 07-03 pre-cutoff; cgchannel.com July 4-7 items non-AI; keyshot.com, vercel.com, css-tricks.com, blogs.nvidia.com latest posts pre-cutoff",
+      "YouTube: Matt Wolfe / AI Advantage / Two Minute Papers latest uploads are 2026-07-03 morning PT — a few hours pre-cutoff, gated STALE; Fireship 5 days old",
+      "Instagram: login-walled, no verifiable post time — dropped per rules"
+    ],
+    "dedup_watch": "Skipped repeats of covered items: Mixos PBR (07-04), RAM crisis (Creative Bloq, covered 07-06), Figma Config recap (06-24), Fable 5 redeployment angle (covered 07-03). Engadget duplicate of Google AI-training story omitted in favor of TechCrunch version."
+  }
 }

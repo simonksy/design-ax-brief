@@ -1,27 +1,32 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
+  "section": "movies",
   "media": [
     {
-      "id": "young-washington",
-      "type": "video",
-      "src": "pipeline/media/movies-young-washington.mp4",
-      "poster": "pipeline/media/movies-young-washington.poster.jpg"
-    },
-    {
-      "id": "nextlab-quill",
-      "type": "video",
-      "src": "pipeline/media/movies-nextlab-quill.mp4",
-      "poster": "pipeline/media/movies-nextlab-quill.poster.jpg"
-    },
-    {
-      "id": "writers-rlhf",
+      "id": "tilly-misaligned",
       "type": "image",
-      "src": "pipeline/media/movies-writers-rlhf.jpg"
+      "src": "pipeline/media/tilly-misaligned.jpg"
     },
     {
-      "id": "openart-director",
+      "id": "friend-pornstar",
       "type": "image",
-      "src": "pipeline/media/movies-openart-director.jpg"
+      "src": "pipeline/media/friend-pornstar.jpg"
+    },
+    {
+      "id": "siggraph-caf",
+      "type": "image",
+      "src": "pipeline/media/siggraph-caf.jpg"
+    },
+    {
+      "id": "runway-agent2",
+      "type": "image",
+      "src": "pipeline/media/runway-agent2.jpg"
+    },
+    {
+      "id": "cr-anime",
+      "type": "video",
+      "src": "pipeline/media/cr-anime.mp4",
+      "poster": "pipeline/media/cr-anime.jpg"
     }
   ]
 }

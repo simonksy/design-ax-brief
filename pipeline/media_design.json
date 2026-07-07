@@ -1,20 +1,31 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "media": [
     {
-      "id": "quiet-ai",
+      "id": "mcp-for-designers",
       "type": "image",
-      "src": "pipeline/media/quiet-ai.jpg"
+      "src": "pipeline/media/mcp-for-designers.png"
     },
     {
-      "id": "figma-to-code-shift",
+      "id": "ds-governance",
       "type": "image",
-      "src": "pipeline/media/figma-to-code-shift.png"
+      "src": "pipeline/media/ds-governance.jpg"
     },
     {
-      "id": "ram-crisis",
+      "id": "hi3d-print",
+      "type": "video",
+      "src": "pipeline/media/hi3d-print.mp4",
+      "poster": "pipeline/media/hi3d-print.jpg"
+    },
+    {
+      "id": "kyrall-cad",
       "type": "image",
-      "src": "pipeline/media/ram-crisis.jpg"
+      "src": "pipeline/media/kyrall-cad.jpg"
+    },
+    {
+      "id": "ai-ui-benchmark",
+      "type": "image",
+      "src": "pipeline/media/ai-ui-benchmark.png"
     }
   ]
 }

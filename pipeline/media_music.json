@@ -1,26 +1,27 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "media": [
     {
-      "id": "izotope-borisfx",
+      "id": "suno-api",
       "type": "image",
-      "src": "pipeline/media/izotope-borisfx.jpg"
+      "src": "pipeline/media/suno-api.jpg"
     },
     {
-      "id": "afro-charles",
+      "id": "suno-61k",
       "type": "image",
-      "src": "pipeline/media/afro-charles.jpg"
+      "src": "pipeline/media/suno-61k.jpg"
     },
     {
-      "id": "prompt-plugins",
+      "id": "ymck-fds",
       "type": "video",
-      "src": "pipeline/media/prompt-plugins.mp4",
-      "poster": "pipeline/media/prompt-plugins.poster.jpg"
+      "src": "pipeline/media/ymck-fds.mp4",
+      "poster": "pipeline/media/ymck-fds.jpg"
     },
     {
-      "id": "spectralayers13",
-      "type": "image",
-      "src": "pipeline/media/spectralayers13.jpg"
+      "id": "smol-seq",
+      "type": "video",
+      "src": "pipeline/media/smol-seq.mp4",
+      "poster": "pipeline/media/smol-seq.jpg"
     }
   ]
 }

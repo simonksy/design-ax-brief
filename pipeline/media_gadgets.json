@@ -1,31 +1,30 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "media": [
     {
-      "id": "phones-less-ai",
+      "id": "spacex-handheld",
       "type": "image",
-      "src": "pipeline/media/phones-less-ai.jpg"
+      "src": "pipeline/media/spacex-handheld.jpg"
     },
     {
-      "id": "memomind-kickstarter",
+      "id": "dune-keypad",
       "type": "image",
-      "src": "pipeline/media/memomind-kickstarter.jpg"
+      "src": "pipeline/media/dune-keypad.jpg"
     },
     {
-      "id": "minix-er939",
+      "id": "color-touch-sensor",
       "type": "image",
-      "src": "pipeline/media/minix-er939.png"
+      "src": "pipeline/media/color-touch-sensor.jpg"
     },
     {
-      "id": "android-halo",
-      "type": "video",
-      "src": "pipeline/media/android-halo.mp4",
-      "poster": "pipeline/media/android-halo-poster.jpg"
+      "id": "samsung-ufs5",
+      "type": "image",
+      "src": "pipeline/media/samsung-ufs5.png"
     },
     {
-      "id": "rayban-optics",
+      "id": "watch9-leak",
       "type": "image",
-      "src": "pipeline/media/rayban-optics.jpg"
+      "src": "pipeline/media/watch9-leak.jpg"
     }
   ]
 }

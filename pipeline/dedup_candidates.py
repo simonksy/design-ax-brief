@@ -17,12 +17,14 @@ Exit code 0 always; this is a filter, not a gate.
 """
 import json
 import sys
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, parse_qs
 
 
 def norm_url(u: str) -> str:
     """Normalize for comparison: lowercase host, strip scheme/fragment/query,
-    drop trailing slash. Keeps path so distinct articles on one host stay distinct."""
+    drop trailing slash. Keeps path so distinct articles on one host stay distinct.
+    YouTube is the exception: the video id lives in the query (?v=) or the youtu.be
+    path, so those collapse to youtube.com/watch?v=<id> to keep distinct videos apart."""
     if not u:
         return ""
     s = urlsplit(u.strip())
@@ -30,6 +32,12 @@ def norm_url(u: str) -> str:
     if host.startswith("www."):
         host = host[4:]
     path = s.path.rstrip("/")
+    if host in ("youtube.com", "m.youtube.com") and path == "/watch":
+        vid = parse_qs(s.query).get("v", [""])[0]
+        if vid:
+            return f"youtube.com/watch?v={vid}"
+    if host == "youtu.be" and path.lstrip("/"):
+        return f"youtube.com/watch?v={path.lstrip('/')}"
     return f"{host}{path}"
 
 

@@ -1,54 +1,78 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "window_hours": 336,
   "items": [
     {
-      "id": "clair-obscur-broche-prompt-games",
-      "title": "Clair Obscur: Expedition 33 director thinks devs will eventually \"be able to churn out a game in 5 seconds with a prompt,\" but he hopes they're not any good",
-      "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-thinks-devs-will-eventually-be-able-to-churn-out-a-game-in-5-seconds-with-a-prompt-but-he-hopes-theyre-not-any-good/",
-      "source": "GamesRadar+",
-      "domain": "gamesradar.com",
-      "published": "2026-07-05T13:17:49+00:00",
-      "freshness": "FRESH",
-      "summary": "Guillaume Broche, director of GOTY-sweeping RPG Clair Obscur: Expedition 33, told Konbini's Video Game Club that prompt-generated whole games are coming and 'everyone's a little scared.' Sandfall bars generative AI from creative work — it 'takes away from the joy of creating things' — allowing only case-by-case admin/coding use, after last year's placeholder AI-texture flap.",
-      "why": "The industry's hottest auteur weighing in on text-to-game futures is a fresh, high-cachet voice: he predicts the tech wins but bets against its soul, a crisper stance than the CDPR variant we rejected. Date verified via JSON-LD datePublished.",
-      "notes": "Distinct from the rejected CDPR-doubts cluster (different studio, different speaker, new interview). Sandfall's earlier AI-texture controversy is context, not the story."
-    },
-    {
-      "id": "ddlc-chatgpt-fanfic-study",
-      "title": "Researchers studying ChatGPT conversations surprised to find one power user churning out thousands of Doki Doki Literature Club pregnancy fics",
-      "url": "https://www.pcgamer.com/software/ai/researchers-studying-chatgpt-conversations-surprised-to-find-one-power-user-churning-out-thousands-of-doki-doki-literature-club-pregnancy-fics/",
+      "url": "https://www.pcgamer.com/software/ai/googles-ai-studio-lead-has-vibe-coded-a-port-of-command-and-conquer-for-ios/",
       "source": "PC Gamer",
-      "domain": "pcgamer.com",
-      "published": "2026-07-05T03:09:52+00:00",
-      "freshness": "FRESH",
-      "summary": "An 'AI Fiction in the Wild' paper presented at Purdue's MFS Cultural AI Conference mined 500k anonymized WildChat ChatGPT logs: over a third involved fiction generation, 2% of users produced 80% of it, and the most-requested game universes were Doki Doki Literature Club, League of Legends, and Freedom Planet — topped by one user generating thousands of DDLC birth fics. PC Gamer contrasts this solipsistic loop with communal human fanfic on AO3.",
-      "why": "A dated, citable study revealing how players actually use LLMs around games — game fandoms dominate AI fan fiction, and consumption is hyper-concentrated. Quirky but data-backed, unlike anything already published in the section.",
-      "notes": "Angle should stay on the study's findings about games fandom + AI, not just the salacious hook. Via IT Media News; primary source is the Purdue conference paper (WildChat dataset, Apr 2023–May 2024 collection)."
+      "category": "games",
+      "published_iso": "2026-07-06T10:58:05Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Ny5gxLuhNTziwfznwoUfDV-1920-80.jpg",
+      "excerpt": "Google's AI Studio lead has vibe-coded a working port of the classic RTS Command & Conquer for iOS, complete with touch controls, showing how far prompt-driven game development has come."
     },
     {
-      "id": "amazon-ai-guideslop",
-      "title": "Amazon Is Awash With AI-Written Guideslop For Games That Aren't Even Out",
-      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
+      "url": "https://kotaku.com/companies-hope-to-save-on-ai-by-having-them-talk-like-cavemen-2000712692",
       "source": "Kotaku",
-      "domain": "kotaku.com",
-      "published": "2026-06-29T12:00:21+00:00",
-      "freshness": "FRESH",
-      "summary": "Kotaku found Amazon flooded with AI-generated 'strategy guides' — hallucinated chapters, AI covers, $20+ price tags — for unreleased games including Alien: Isolation 2, Control: Resonant, and Gears of War: E-Day, from prolific fake authors with dozens of listings. Amazon removed flagged books only for identical ones to reappear immediately.",
-      "why": "Concrete, reported AI-slop-economy story at the intersection of games and publishing platforms: fake guides for games nobody has played yet is a vivid, verifiable scam pattern not covered by any published card.",
-      "notes": "Date verified via Kotaku tag RSS pubDate. Complements (doesn't overlap) the published Steam-side slop stories — this is Amazon's storefront, not Valve's."
+      "category": "games",
+      "published_iso": "2026-07-05T20:45:12Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/caveman-1017x675.jpg",
+      "excerpt": "After training the likes of Claude to mimic intelligent human speech, companies are now deliberately dumbing AI agents down to 'caveman speak' to save on token costs — a strange new twist in how AI characters and assistants talk."
     },
     {
-      "id": "hasbro-child-ai-voice-contracts",
-      "title": "D&D and Magic owner Hasbro is reportedly trying to get child actors from Peppa Pig to sign away their voices to AI",
-      "url": "https://www.pcgamer.com/gaming-industry/d-and-d-and-magic-owners-hasbro-is-reportedly-trying-to-get-child-actors-from-peppa-pig-to-sign-away-their-voices-to-ai/",
+      "url": "https://wccftech.com/sweeney-ai-destiny-clair-obscur-5-seconds/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-07-06T14:00:00Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Tim-Sweeney-Guillaume-Broche-1920x1080.jpg",
+      "excerpt": "Tim Sweeney claims AI-assisted development could have saved Destiny from its demise, while Clair Obscur's Guillaume Broche warns of a future where whole games are churned out in seconds from a prompt. (Note: the Broche half overlaps the 07-06 'broche-prompt-games' card; the Sweeney/Destiny angle is new.)"
+    },
+    {
+      "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-07-06T13:07:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg",
+      "excerpt": "80 Level took Hi3D's AI 3D maker platform for a spin to see if a simple text prompt could become a fully assembled, print-ready Space Marine miniature — a walkthrough of the whole prompt-to-physical-collectible pipeline."
+    },
+    {
+      "url": "https://www.pcgamer.com/games/action/spyro-speedrunner-says-a-pc-port-of-the-original-game-is-in-the-works-and-its-being-made-with-no-ai/",
       "source": "PC Gamer",
-      "domain": "pcgamer.com",
-      "published": "2026-06-26T10:59:53+00:00",
-      "freshness": "FRESH",
-      "summary": "An Agents of Young Performers Association open letter signed by 1,000+ performers accuses Hasbro of pressuring Peppa Pig child actors into contracts allowing AI use of their voices across all franchise commercial assets with no extra pay; Hasbro didn't deny being the letter's subject. PC Gamer frames it through Hasbro's game-IP empire (D&D, Magic: The Gathering).",
-      "why": "AI voice-rights precedent from a company that owns some of gaming's biggest IP — the contract language performers sign at Hasbro today shapes AI voice clauses in game credits tomorrow.",
-      "notes": "BORDERLINE for the games section: the underlying story is a children's TV franchise; the games tie is Hasbro-as-game-IP-owner framing (PC Gamer gaming-industry desk). Kotaku ran it 2026-06-25T18:00:22Z (https://kotaku.com/hasbro-force-child-actors-ai-voice-contracts-peppa-pig-2000710552) with no gaming angle. Curator should weigh fit; drop first if space is tight."
+      "category": "games",
+      "published_iso": "2026-06-28T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4bw3Lbx5DjztytEsichRwe-2560-80.jpg",
+      "excerpt": "A Spyro speedrunner says a fan PC port of the original game is in the works and is being made 'with no AI' — turning AI-free craft into a selling point amid the fan-port vibe-coding debate."
+    },
+    {
+      "url": "https://www.gamesindustry.biz/epics-sweeney-claims-steam-ai-labels-are-really-irresponsible-of-valve",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-06-26T08:12:39Z",
+      "og_image": "https://assetsio.gnwcdn.com/Tim_Sweeney_P7vsPEF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Epic's Tim Sweeney calls Steam's AI disclosure labels 'really irresponsible of Valve', arguing they make it harder for developers who use AI tools to succeed. (Note: the Sweeney-vs-Valve angle was context of the 07-03 Steam AI-label plugin card — possible overlap.)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OmN7RPIxf60",
+      "source": "Unity (YouTube)",
+      "category": "games",
+      "published_iso": "2026-07-02T20:00:23Z",
+      "og_image": "https://i.ytimg.com/vi/OmN7RPIxf60/maxresdefault.jpg",
+      "excerpt": "Unity's official demo shows how Unity AI lets developers audit AI-generated assets in a project and easily replace them — editor tooling aimed squarely at the AI-asset disclosure and quality-control debate."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=55H81dP46ck",
+      "source": "Unreal Engine (YouTube)",
+      "category": "games",
+      "published_iso": "2026-06-25T13:55:30Z",
+      "og_image": "https://i.ytimg.com/vi/55H81dP46ck/maxresdefault.jpg",
+      "excerpt": "Epic's MetaHuman Sizzle Reel 2026 from Unreal Fest Chicago showcases the latest AI-driven digital human tech — the current state of the art for character creation, animation, and performance in Unreal."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+      "source": "Two Minute Papers (YouTube)",
+      "category": "games",
+      "published_iso": "2026-07-03T17:19:59Z",
+      "og_image": "https://i.ytimg.com/vi/uO5cvkzh3P0/maxresdefault.jpg",
+      "excerpt": "Two Minute Papers covers a new GPU elastodynamics technique (JGS2) that runs soft-body physics simulation in real time — a 'they said it would never run in real time' leap that feeds directly into game and interactive-world simulation."
     }
   ]
 }

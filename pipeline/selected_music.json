@@ -1,50 +1,72 @@
 {
-  "date": "2026-07-06",
-  "selection_mode": "user",
+  "date": "2026-07-07",
+  "section": "music",
+  "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://musictech.com/news/industry/izotope-joins-boris-fx-exits-native-instruments/",
-      "source": "MusicTech",
-      "published_iso": "2026-07-03T00:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/04/iZotope-RX-12-2-credit-press@1400x1050.jpg",
-      "excerpt": "iZotope leaves Native Instruments (sold to inMusic in May 2026) and joins founder-owned Boris FX, which cites iZotope's 'smart and practical use of AI' in RX/Ozone as the reason for the pairing; all existing licenses and plugin development continue uninterrupted. Follows the just-published RX12 review card, so this is the industry follow-up beat. (Date from MusicTech byline '3 days ago' at fetch on 2026-07-06; de-duped against CDM 07-02, Sound On Sound 07-02 and Bedroom Producers Blog 07-03 coverage — MusicTech kept for the clearest AI rationale quotes.)",
-      "category": "music",
-      "tool": "iZotope",
-      "accent": "#2ec5c5",
-      "motif": "frame"
-    },
-    {
-      "url": "https://au.rollingstone.com/music/music-news/good-intent-apologise-generated-ai-artist-sydney-live-music-gig-97983/",
-      "source": "Rolling Stone AU",
-      "published_iso": "2026-07-03T14:27:00Z",
-      "og_image": "",
-      "excerpt": "Booking agency Good Intent apologised after unknowingly putting AI-generated 'artist' Afro Charles on the bill of a July 1 Sydney live show; the act's reps had pitched it as a 'producer' with 'live vocals', and musician Aidan Sammut exposed the deception. Agency and venue Bootleggers promise tougher vetting and a Support Act donation — a first-of-its-kind AI-slop-hits-the-stage story. (On-page timestamp: July 3, 2026, 2:27 PM.)",
-      "category": "music",
-      "tool": "Afro Charles",
+      "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
+      "source": "Music Business Worldwide",
+      "tool": "Suno",
       "accent": "#ff2d55",
-      "motif": "sphere"
-    },
-    {
-      "url": "https://www.musicradar.com/music-tech/ai-prompt-plugins",
-      "source": "MusicRadar",
-      "published_iso": "2026-06-26T00:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mZrJmwiLCue9iRDHpj2odm.png",
-      "excerpt": "MusicRadar goes inside ChatDSP, Amorph and Pluginmaker.ai — three new 'vibe coding' platforms that turn natural-language prompts into working audio plugins with zero C++/DSP knowledge, with makers claiming manual coding 'won't be a thing' in a few years, plus pushback on environmental cost and developer jobs. Distinct from the published Sugar Bytes DrumComputer-Claude card (that was one plugin gaining a text interface; this is prompt-to-plugin generation). (Dated June 26, 2026 on page.)",
-      "category": "music",
-      "tool": "ChatDSP",
-      "accent": "#7928ca",
-      "motif": "frame"
-    },
-    {
-      "url": "https://www.soundonsound.com/news/steinberg-spectralayers-13-now-available",
-      "source": "Sound on Sound",
+      "motif": "sphere",
+      "rationale": "Suno opening a developer API turns the leading AI-music generator into a platform — directly actionable for anyone building music/creative tools.",
       "published_iso": "2026-07-02T00:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/steinberg_spectralayers_13-Icz0q7hjK0vsFa9uXUTNw0266yeGBjeh.jpg",
-      "excerpt": "Steinberg ships SpectraLayers 13: AI-powered Unmix Sound Effects pulls incidental sounds out of ambience, generative Ambience Heal fills the holes left behind, and a Voice Enhance module uses generative AI to rebuild badly recorded speech, alongside Unmix Two Voices, DeCrosstalk and Dolby Atmos round-tripping. (SOS listing date 2/7/26 = 2 July 2026; Gearnews covered the same release 03 Jul — de-duped, SOS kept as primary source.)",
-      "category": "music",
-      "tool": "Steinberg",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg",
+      "excerpt": "Suno's Chief Product Officer announced the company is exploring a developer API for its AI music generation platform, inviting developers to apply for early access through a curated partnership program."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/after-a-judge-denied-sonys-move-to-expand-its-udio-case-suno-asks-court-to-reject-umg-and-sonys-bid-to-add-61k-recordings/",
+      "source": "Music Business Worldwide",
+      "tool": "Suno",
       "accent": "#3b6bff",
-      "motif": "sphere"
+      "motif": "sphere",
+      "rationale": "Freshest item (07-06) in the defining AI-music copyright fight; the 61k-recordings scope decision will shape licensing for every generative audio tool.",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Suno has filed to block Universal Music Group and Sony's attempt to add over 61,000 recordings to their copyright infringement lawsuit, citing a similar denial in the parallel Udio case."
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/06/27/ymck-magical-fds-plug/",
+      "source": "Bedroom Producers Blog",
+      "tool": "YMCK",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Free chiptune synth shipped because AI coding tools unblocked a years-stalled project — a concrete, usable example of AI-assisted tool-making.",
+      "published_iso": "2026-06-27T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/fds-728x364.jpg",
+      "excerpt": "Chiptune act YMCK released Magical FDS Plug, a free FDS sound chip synthesizer whose developer leveraged AI coding tools to overcome technical complexity that had stalled the project for years."
+    },
+    {
+      "url": "https://www.synthtopia.com/content/2026/06/26/smol-sequencer-turns-your-browser-into-a-generative-music-environment/",
+      "source": "Synthtopia",
+      "tool": "Smol Sequencer",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Browser-based generative sequencing you can try immediately — a designed, non-prompt alternative to AI generation that balances the section's coverage.",
+      "published_iso": "2026-06-26T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Smol Sequencer is a browser-based modular sequencing environment with algorithmic/generative capabilities, where users patch interconnected patterns through the UI rather than relying on AI systems."
     }
-  ]
+  ],
+  "dedup_report": {
+    "dropped": [
+      {
+        "url": "https://www.engadget.com/2204169/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it/",
+        "reason": "Duplicate of TIDAL AI-demonetization story already published 2026-06-30 (music card 'tidal-ai', Billboard)."
+      },
+      {
+        "url": "https://www.hypebot.com/tidal-moves-streamings-ai-debate-from-ethics-to-economics/",
+        "reason": "Duplicate of same published TIDAL story (2026-06-30, 'tidal-ai')."
+      },
+      {
+        "url": "https://musictech.com/news/music/tidal-ai-music-monetisation/",
+        "reason": "Duplicate of same published TIDAL story (2026-06-30, 'tidal-ai')."
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=O5Qo-e3-CVA",
+        "reason": "Duplicates Logic Pro 12.3 story published 2026-07-04 (music card 'logic-pro-123', MusicRadar)."
+      }
+    ],
+    "note": "4 picks instead of 5: after dropping 4 duplicates the fresh pool held exactly 4 unique stories; collector notes confirm allowed domains were exhausted. Never pad."
+  }
 }

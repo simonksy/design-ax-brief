@@ -1,52 +1,15 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "cards": [
     {
-      "id": "izotope-borisfx",
+      "id": "suno-api",
       "eyebrow": "AI NEWS",
-      "headline": "아이조톱, 네이티브 인스트루먼츠 떠나\nVFX 기업 보리스 FX 품에 안겼다",
-      "body": "보리스 FX는 아이조톱의 똑똑하고 실용적인 AI 활용을 인수 이유로 꼽았다.",
-      "mini_headline": "아이조톱, 보리스 FX행",
-      "tool": "iZotope",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/industry/izotope-joins-boris-fx-exits-native-instruments/",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "iZotope가 VFX 소프트웨어 회사 Boris FX에 인수됐다. 지난 5월 Native Instruments가 inMusic에 팔리면서 한 식구였던 iZotope의 거취가 관심사였는데 결국 NI 브랜드 패밀리를 떠나 새 둥지를 찾았다. 기존 라이선스와 구독은 모두 '완전히 유효'하고 지원도 끊기지 않는다. 계정 접근과 플러그인 구매는 iZotope 웹사이트에서 그대로 이어지지만 Plugin Alliance 구매는 당분간 막혀 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/04/iZotope-RX-12-2-credit-press@1400x1050.jpg"
-          },
-          {
-            "t": "p",
-            "x": "복잡했던 지배 구조의 마침표이기도 하다. 2021년 iZotope와 Native Instruments는 Francisco Partners의 투자를 받아 뮤직 테크 그룹으로 묶였고 2022년에는 Soundwide로 이름을 바꾸며 Brainworx와 Plugin Alliance까지 품었다. 그러다 올해 1월 Native Instruments가 예비 파산 절차에 들어갔고 2026년 5월 inMusic에 팔릴 때 그 자산 목록에 iZotope가 들어 있었다."
-          },
-          {
-            "t": "p",
-            "x": "iZotope의 Todd Baker는 \"There are no interruptions to plugin development\"라며 RX, Ozone, Neutron, Nectar를 만들어 온 엔지니어들이 지금도 그대로 일하고 있다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Boris FX 창업자 겸 CEO Boris Yamnitsky가 밝힌 인수 이유는 AI다. \"iZotope is known for its smart and practical use of AI\"라며 Boris FX가 쌓아 온 AI 오디오·영상 기술과 합치면 더 빠르게 움직이고 더 강력한 도구를 만들 수 있다고 말했다. Boris FX는 Sequoia, Samplitude, CrumplePop 같은 프로 오디오 도구도 보유한 회사다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "afro-charles",
-      "eyebrow": "AI NEWS",
-      "headline": "시드니 무대에 오른 AI '아티스트'\n부킹 에이전시는 몰랐다며 사과했다",
-      "body": "'라이브 보컬' 프로듀서로 소개받아 무대에 올렸고 동료 뮤지션의 폭로로 드러났다.",
-      "mini_headline": "AI 아티스트 공연 소동",
-      "tool": "Afro Charles",
-      "source": "Rolling Stone AU",
-      "url": "https://au.rollingstone.com/music/music-news/good-intent-apologise-generated-ai-artist-sydney-live-music-gig-97983/",
+      "headline": "수노가 개발자 API를 저울질한다\n엄선한 파트너부터 문을 연다",
+      "body": "외부 앱이 프롬프트를 보내 음악을 받아 가는 구조로, 신청 폼을 먼저 열었다.",
+      "mini_headline": "수노, 개발자 API 탐색",
+      "tool": "Suno",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -54,89 +17,36 @@
         "blocks": [
           {
             "t": "p",
-            "x": "시드니의 부킹 에이전시 Good Intent가 사과문을 냈다. 자신들이 꾸린 라인업에 AI로 만들어진 '아티스트'가 섞여 있었던 탓이다. 문제의 무대는 뉴타운 Bootleggers에서 매주 열리는 신인 시리즈 Mixed Bag의 7월 1일 공연으로, The Duke of Randwick, Pillar Lane, Genevieve와 함께 Afro Charles라는 이름이 올라 있었다."
+            "x": "Suno가 개발자 API를 준비한다. 최고제품책임자 Jack Brody가 링크드인에 얼리 액세스 신청 폼 링크를 올리며 계획을 알렸다. 외부 앱이 텍스트 프롬프트를 보내면 Suno의 생성 모델이 완성된 오디오를 돌려주는 구조다. 개발자는 사용자를 Suno로 보내는 대신 자기 제품 안에 음악 생성을 심을 수 있게 된다. 지금 Suno에는 공식 공개 API가 없고 서드파티가 만든 비공식 래퍼만 돌아다닌다."
           },
           {
             "t": "img",
-            "src": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=900,height=600/https://images-r2.thebrag.com/rs/uploads/2026/07/bootleggers-.jpeg"
+            "src": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg"
           },
           {
             "t": "p",
-            "x": "같은 무대에 섰던 뮤지션 Aidan Sammut이 다음 날인 7월 2일 인스타그램 영상으로 이를 폭로했다. 다른 밴드 멤버가 우연히 Afro Charles의 계정을 들여다봤더니 비주얼은 물론 음악과 가사, 보컬까지 \"clearly and blatantly\" AI로 만든 것이었다고 한다. 그는 \"At no point was it disclosed to us that we would be playing with an AI artist\"라며 홍보물 어디에도 고지가 없었다는 점을 짚었다. 인간 뮤지션들의 작업물을 대규모로 훔쳐야만 존재할 수 있는 기술과 한 무대에 서는 것은 \"a complete insult\"라고도 했다."
+            "x": "Brody는 신중한 출발을 강조했다. \"We plan to start with a curated group of partners so we can develop this thoughtfully, and we're especially interested in applications that unlock experiences generative music makes possible for the first time.\" Typeform 신청 폼에도 \"a small group of folks\"에게 먼저 연락하겠다고 적혀 있을 뿐 출시 시점은 밝히지 않았다. Brody는 Snap에서 10년간 제품을 총괄하다 2024년 말 합류했고 전 Warner Music 임원 Paul Sinclair, 전 Merlin CEO Jeremy Sirota가 그 앞뒤로 들어왔다."
           },
           {
             "t": "p",
-            "x": "Good Intent에서 Mixed Bag을 담당하는 Rob은 전적으로 자기 책임이라며 고개를 숙였다. 해당 아티스트의 소셜 계정을 확인하지 않았고 중개 에이전시가 '라이브 보컬'을 쓰는 '프로듀서'라고 소개해 진짜 아티스트로 믿었다는 것이다. Good Intent와 Bootleggers는 알고서 AI 음악을 부킹한 적이 없고 앞으로도 없을 것이라며 심사 절차를 손보고 음악인 지원 단체 Support Act에 기부하겠다고 약속했다."
+            "x": "성장세는 가파르다. 6월에는 4억 달러가 넘는 시리즈 D를 포스트머니 54억 달러 밸류에이션으로 마쳤다. 2025년 11월 시리즈 C(2억 5,000만 달러) 직후 24억 5,000만 달러였던 몸값이 반년 만에 두 배 넘게 뛴 셈이다. 지난 2월 CEO Mikey Shulman은 유료 구독자 200만 명, 연 반복 매출 3억 달러, 누적 사용자 1억 명 돌파를 밝혔다."
           },
           {
             "t": "p",
-            "x": "호주 음악계가 AI와 정면으로 부딪히는 시기에 터진 사건이다. 지난달 수백만 곡의 호주·뉴질랜드 음악이 동의 없이 AI 학습 데이터셋에 들어갔다는 보도가 나왔고 이번 주에는 아티스트들과 ARIA, APRA AMCOS 등 업계 단체가 캔버라에 모여 저작권 보호를 정부에 촉구했다. Sammut은 영상을 이렇게 맺었다. \"There is no place for generative AI slop in the live music scene.\""
+            "x": "라이선스 지형은 아직 반쪽이다. 메이저 중에서는 2025년 11월 소송을 합의로 끝낸 Warner Music Group과의 계약이 유일하고 Universal과 Sony는 여전히 소송 중이다. 두 회사는 지난달 6만 1,000곡이 넘는 녹음물을 소송에 추가해 달라고 법원에 요청했다. 지난주에는 독립 아티스트 지원 프로그램 Spark도 내놨는데 참가자가 회사를 공개 비판하지 못하게 막는 조항이 들어 있었다."
           }
         ]
       }
     },
     {
-      "id": "prompt-plugins",
+      "id": "suno-61k",
       "eyebrow": "AI NEWS",
-      "headline": "말로 시키면 플러그인이 나온다\n프롬프트 '바이브 코딩' 3파전",
-      "body": "ChatDSP·Amorph·Pluginmaker.ai가 C++ 없이 프롬프트만으로 플러그인을 만든다.",
-      "mini_headline": "프롬프트로 플러그인 제작",
-      "tool": "ChatDSP",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/ai-prompt-plugins",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "자연어 프롬프트로 오디오 플러그인을 통째로 만들어 주는 '바이브 코딩' 플랫폼들을 MusicRadar가 들여다봤다. C++도 DSP 지식도 필요 없다. 원하는 악기나 이펙트를 말로 설명하면 AI가 실행 가능한 코드로 바꿔 준다. Rick Rubin이 \"punk rock of software\"라고 부른 그 흐름이 음악 장비까지 온 셈이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/mZrJmwiLCue9iRDHpj2odm.png"
-          },
-          {
-            "t": "p",
-            "x": "Dillon Bastan의 ChatDSP는 Ableton Live Suite에서 도는 Max for Live 디바이스다. 10달러에 악기·오디오 이펙트·MIDI 이펙트를 만들고 최대 48개 파라미터를 매핑하며 최근 로컬 AI 모델 지원까지 붙었다. Bastan은 AI를 향한 반감을 존중한다면서도 \"Some of the criticisms remind me of classical musicians hating the keyboard, drum machine or DAWs\"라고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/3XfhqWZqSstMgo2BQKtash.png"
-          },
-          {
-            "t": "video",
-            "yt": "vYfYqPCe0MU"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/ucNewzs29HXF2jnCNciNs6.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Artists in DSP의 Amorph는 무료 오픈 베타(v0.99)다. 프롬프트로 받은 코드를 붙여 넣으면 VST3·AU 플러그인으로 컴파일해 주고 커스텀 UI 생성과 커뮤니티 패치 브라우저 'The Hub'를 갖췄다. CEO Leo Biasca-Caroni는 프롬프트 속 오류가 \"creative serendipity\"를 낳기도 한다며 AI 에이전트 직접 연동과 마켓플레이스를 준비 중이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "브라우저에서 도는 Pluginmaker.ai는 프롬프트를 치고 바로 테스트한 뒤 VST/AU로 내려받는 구조다. 크레딧 기반 구독제에 무료 티어가 있고 마켓플레이스 수수료는 10%다. 공동 창업자 Dominik Bilski는 \"We strongly believe that in the coming years, writing code manually won't be a thing\"이라며 인터넷보다 큰 혁명일 수 있다고 주장한다."
-          },
-          {
-            "t": "p",
-            "x": "반론도 만만치 않다. 데이터센터는 하루 최대 500만 갤런, 인구 5만 도시 수준의 물을 쓴다. 한 영상 댓글은 가장 기본적인 Operator 패치 하나를 만드는 데 중형 유럽 도시의 연간 에너지를 태운다고 꼬집었다. 그래도 기사는 누구나 요리를 할 줄 알아도 식당업이 건재하듯 손 코딩과 AI 생성 플러그인이 공존할 것이라고 내다봤다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "spectralayers13",
-      "eyebrow": "AI NEWS",
-      "headline": "배경음에서 소리만 골라 뽑는다\n스타인버그 스펙트라레이어스 13",
-      "body": "Unmix Sound Effects로 소리를 뽑아내고 Ambience Heal이 빈자리를 메운다.",
-      "mini_headline": "스펙트라레이어스 13",
-      "tool": "Steinberg",
-      "source": "Sound on Sound",
-      "url": "https://www.soundonsound.com/news/steinberg-spectralayers-13-now-available",
+      "headline": "유니버설·소니의 6만 곡 추가 요구\n수노가 우디오 판결 들어 막아섰다",
+      "body": "뉴욕 법원이 우디오 사건에서 3만 곡 추가를 거부한 논리를 그대로 끌어왔다.",
+      "mini_headline": "수노, 6만 곡 추가 반대",
+      "tool": "Suno",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/after-a-judge-denied-sonys-move-to-expand-its-udio-case-suno-asks-court-to-reject-umg-and-sonys-bid-to-add-61k-recordings/",
       "accent": "#3b6bff",
       "motif": "sphere",
       "full": {
@@ -144,27 +54,105 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Steinberg가 스펙트럼 편집기 SpectraLayers 13을 내놨다. 이번 판의 간판은 Unmix Sound Effects다. 바람, 군중, 교통, 자연음처럼 이어지는 배경 사운드에서 짧은 소리만 골라 전용 레이어로 뽑아낸다. 오디오 포스트프로덕션을 겨냥한 기능으로, 배경 텍스처는 제 레이어에 그대로 남아 따로 다듬을 수 있다."
+            "x": "Suno가 매사추세츠 연방지방법원에 Universal Music Group과 Sony Music의 6만 1,026곡 추가 요청을 기각해 달라는 서면을 냈다. 근거는 바로 옆 사건이다. 뉴욕남부지방법원의 Alvin K. Hellerstein 판사는 최근 Sony가 경쟁사 Udio 소송에 3만 442곡을 더하려던 시도를 물리치고 사건을 원래의 333곡으로 묶어 뒀다."
+          },
+          {
+            "t": "p",
+            "x": "Hellerstein 판사는 \"Adding more than 30,000 works near the close of document discovery would require substantial additional production and review, generate further disputes, and materially alter the scope of the case\"라고 썼다. 침해를 다툴 권리는 있어도 \"there is no requirement that it be done in this lawsuit\"라는 말도 남겼다. Suno 측 Latham & Watkins의 Britt Lovejoy 변호사는 같은 논리가 이 법정에도 그대로 적용된다고 주장한다. 대표 저작물 몇 곡으로 소송을 걸어 놓고 증거개시가 끝나 갈 무렵 목록을 폭발적으로 불리는 \"the standard playbook of aggregate music rightsholders\"를 원고들이 따랐다는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "소송은 2024년 6월 RIAA가 3대 메이저를 대리해 Suno와 Udio를 상대로 제기했고 Suno 쪽 원 소장에는 560곡이 담겼다. Warner Music Group은 2025년 11월 합의와 라이선스 계약으로 빠져나갔다. 남은 UMG와 Sony는 지난 5월 21일 오디오 핑거프린팅 업체 Audible Magic으로 학습 데이터에서 자사 곡을 찾아냈다며 6만 1,026곡 추가를 요청했다. 이조차 전문가들이 찾은 일치 항목의 \"only a small fraction\"이라는 설명이다. 지연 논란에는 \"the cause of any delay was Suno's ongoing refusal to provide Plaintiffs with the data in its possession\"이라고 맞받았다."
+          },
+          {
+            "t": "p",
+            "x": "곡 수는 곧 돈이다. 고의 침해의 법정손해배상 상한은 곡당 15만 달러. 560곡이면 최대 약 8,400만 달러지만 6만 1,026곡이면 이론상 90억 달러를 넘는다. 승부는 결국 무허락 학습이 공정 이용이냐로 모인다. Suno는 Bartz 대 Anthropic, Kadrey 대 Meta 판결을 끌어와 학습의 변형적 성격을 주장한다. 사실 증거개시는 6월 26일 마감 예정이었다가 8월 연장이 논의됐고 매사추세츠의 F. Dennis Saylor IV 판사는 아직 결정을 내리지 않았다. 양쪽 모두 공정 이용을 둘러싼 약식판결을 청구할 것으로 보인다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ymck-fds",
+      "eyebrow": "AI NEWS",
+      "headline": "패미컴 디스크 칩이 플러그인으로\nYMCK, AI 도구로 묵은 숙제 풀다",
+      "body": "FDS 스펙이 복잡해 미뤄 두던 개발을 AI 도구 덕에 끝냈다고 밝혔다.",
+      "mini_headline": "YMCK 무료 FDS 신스",
+      "tool": "YMCK",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/06/27/ymck-magical-fds-plug/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "YMCK가 FDS 사운드 칩의 소리를 재현하는 무료 소프트웨어 신시사이저 Magical FDS Plug를 공개했다."
           },
           {
             "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/steinberg_spectralayers_13-Icz0q7hjK0vsFa9uXUTNw0266yeGBjeh.jpg"
+            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/fds.jpg"
           },
           {
             "t": "p",
-            "x": "소리를 뽑아낸 뒤 남는 구멍은 새 기능 Ambience Heal이 메운다. 보컬이 차지하던 자리를 레이어에 이미 있는 환경음이나 룸톤으로 자동으로 채우는 식이다. 목소리 작업도 수월해졌다. Unmix Two Voices는 보이스 프로필 등록 없이 두 목소리를 자동으로 가르고 Voice DeCrosstalk는 겹쳐 있는 비대상 목소리를 걷어낸다. Voice DeClick은 립 스맥이나 혀 차는 소리 같은 입소리를 지운다. 새 Reconstruct 모듈은 선택한 스펙트럼 데이터를 재합성해 톤과 트랜지언트, 노이즈를 각각 원하는 만큼 복원한다."
-          },
-          {
-            "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/s/steinberg_spectralayers_13-IloBBd_uon6hZQ57TGRCphCsXskMPUgA.jpg"
+            "x": "필자에게는 완전히 과거로 돌아가는 소식이다. YMCK의 Magical 8bit Plug는 내가 맨 처음 깔았던 플러그인 중 하나였다. 그 시절 칩튠에 푹 빠져 첫 DAW였던 MuLab에서 쓰곤 했는데 이렇게 쓰고 보니 세월이 실감 난다. VST 플러그인이 낯설던 때였고 그 개발자의 신작을 이제 와서 만나니 조금 얼떨떨하다."
           },
           {
             "t": "p",
-            "x": "편집 편의도 늘었다. Paste Into Selection으로 타임라인의 이벤트를 빠르게 반복·교체하고 Time Fade와 Frequency Fade 슬라이더를 활성 선택 영역에 바로 쓴다. True Peak와 LU 계열 라우드니스 측정이 추가됐고 배치 프로세싱은 열려 있는 여러 프로젝트에 한꺼번에 적용된다. Pro Tools AudioSuite Bridge 플러그인은 여러 클립의 라운드트립 편집을 지원하며 Dolby Atmos(최대 9.1.6)와 Ambisonics 포맷을 오간다."
+            "x": "흥미로운 대목은 개발 과정이다. YMCK의 Yokemura는 AI 도구의 도움으로 플러그인을 완성했다며 이렇게 설명했다. \"the FDS spec had always felt too complex and time-consuming to turn into working code, but recent AI tools finally helped push the project over the line.\" 얼마 전 다룬 '바이브 코딩' 플러그인 논쟁에서 희망적인 쪽을 보여 주는 사례다. 제대로 된 손에 들어가면 이렇게 좋은 플러그인이 우리 몫으로 돌아온다."
           },
           {
             "t": "p",
-            "x": "macOS 12 이상과 Windows 10 이상에서 돌아간다. 가격은 SpectraLayers Pro 13이 359.99달러, Elements 13이 199.99달러다. 이전 버전 사용자는 업그레이드 할인을 받고 2026년 6월 3일 이후 이전 버전을 활성화했다면 무료 그레이스 피리어드 업데이트 대상이다."
+            "x": "Magical FDS Plug는 디스크 시스템(FDS) 사운드 칩의 사운드 구조를 재현한다. 64샘플 파형 메모리를 캐리어로 쓰고 별도의 32스텝 명령 시퀀스로 변조하는 특이한 원본 설계다."
+          },
+          {
+            "t": "video",
+            "yt": "Q-3mX5sd_cQ"
+          },
+          {
+            "t": "p",
+            "x": "YMCK는 편집 흐름을 한층 논리적으로 다듬었다. 캐리어 파형은 가산 합성, 프리셋 파형, 펄스 파형 편집, 64포인트 프리핸드 드로잉으로 만든다. 가산 모드는 드로바 오르간처럼 슬라이더 여덟 개로 배음을 섞는 방식이고 프리셋에는 삼각파·톱니파·사인파가, 펄스 모드에는 1~63의 펄스 폭 값이 준비돼 있다."
+          },
+          {
+            "t": "p",
+            "x": "모듈레이터 섹션에는 삼각파, 톱니파, 사인파, 사각파, 램프 업, 램프 다운 여섯 가지 프리셋이 있고 0~7 숫자로 32스텝 옵코드 시퀀스를 직접 써넣는 커스텀 모드도 지원한다. LFO·FM·Off 변조 모드, 캐리어와 모듈레이터 각각의 ADSR 엔벨로프, 벨로시티와 피치 벤드, 원본 하드웨어의 약 2kHz 출력 필터를 본뜬 로우패스 필터까지 갖췄다."
+          },
+          {
+            "t": "p",
+            "x": "인터페이스는 Global·Carrier·Modulator 세 영역으로 나뉜다. Global에서 게인, 폴리포니, 피치 벤드 범위, 테마, 프리셋 로딩, 하드웨어식 로우패스 필터를 다루고 아래쪽 절반에서 캐리어 파형과 변조 동작을 설계한다. GPLv3 오픈소스라 소스 코드가 GitHub에 올라와 있으며 YMCK 데모곡의 FDS 파트를 재현한 데모 프리셋도 함께 담겼다. macOS 10.13 이상에서 AU·VST3, Windows에서 VST3로 돌아가고 가격은 무료다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "smol-seq",
+      "eyebrow": "AI NEWS",
+      "headline": "브라우저에서 돌아가는 생성 음악\n스몰 시퀀서, 패치로 패턴을 엮는다",
+      "body": "작은 시퀀서 모듈을 서로 이어 진화하는 패턴을 만들고 링크로 공유한다.",
+      "mini_headline": "브라우저 생성 시퀀서",
+      "tool": "Smol Sequencer",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/06/26/smol-sequencer-turns-your-browser-into-a-generative-music-environment/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "신시사이저 연주자이자 개발자인 Stretta가 브라우저 기반 모듈러 시퀀싱 환경 Smol Sequencer를 영상으로 시연했다."
+          },
+          {
+            "t": "video",
+            "yt": "4_iaxowmQqI"
+          },
+          {
+            "t": "p",
+            "x": "영상은 작은 시퀀서 모듈을 서로 연결해 계속 진화하는 음악 패턴을 만드는 과정을 보여 준다. 노트 값을 매만지고 무작위성을 끼워 넣고 피치 클래스 회전으로 스케일 기반 작곡을 익힌 뒤 압축된 링크형 프로젝트 파일로 자기만의 악상을 나누는 데까지 이어진다."
+          },
+          {
+            "t": "p",
+            "x": "Smol Sequencer는 무료 브라우저 애플리케이션으로 지금 바로 쓸 수 있다."
           }
         ]
       }

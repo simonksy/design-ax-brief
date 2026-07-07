@@ -1,91 +1,185 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
+  "section": "gadgets",
   "window_hours": 336,
+  "now_iso": "2026-07-06T22:49:04Z",
   "items": [
     {
-      "url": "https://www.tomsguide.com/phones/phones-need-to-focus-less-on-ai-and-more-on-what-makes-hardware-actually-great-heres-why",
-      "source": "Tom's Guide",
+      "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-05T04:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vd4AMmAxn8MgQeFJtcEy57-2560-80.jpg",
-      "excerpt": "Opinion by UK Phones Editor Tom Pritchard arguing that smartphones over-index on AI marketing while core hardware qualities stagnate — a pointed counter-take landing days before Samsung's AI-heavy Galaxy Unpacked (July 22, Galaxy Z Fold 8 / Galaxy Glasses). Newest item in the pool (published 05 Jul). Body is truncated behind Tom's Guide markup; writer should re-fetch or quote from headline/dek."
+      "published_iso": "2026-07-01T20:09:31+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/space-x-is-reportedly-testing-a-handheld-ai-device/l-intro-1782937421.jpg",
+      "excerpt": "A report claims SpaceX is internally testing a handheld AI device that would offer a dedicated hardware gateway to xAI's Grok models — Elon Musk publicly called the report 'utterly false', but the rumor adds to the wave of big AI players exploring first-party gadgets."
     },
     {
-      "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-      "source": "Road to VR",
+      "url": "https://www.digitaltrends.com/cool-tech/this-tiny-macbook-accessory-adds-customizable-shortcuts-for-meetings-and-productivity/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-07-03T00:00:00Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg",
-      "excerpt": "MemoMind One — XGIMI's new AI-hardware brand — blasts past $500K (~$586K) on Kickstarter for camera-less smart glasses with dual 2,000-nit green micro-LED displays, on-device AI assistant, 26+ language real-time translation, note-taking, navigation and teleprompter, from $400 (Memo+ subscription $20/mo planned); ships later this summer. DUPE GROUP memomind-one: pairs with TechRadar's 48h review — pick one."
+      "published_iso": "2026-07-05T01:44:34-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-05T140905.053.jpg?resize=1200%2C630",
+      "excerpt": "Project Mirage unveiled Dune, a 50-gram three-button MacBook keypad whose keys change function based on the app in use, offering context-aware shortcuts and AI-powered automation for meetings and productivity apps."
     },
     {
-      "url": "https://www.techradar.com/tech/48-hours-with-the-memomind-one-xr-glasses-a-slow-ai-lack-of-a-camera-and-disappointing-audio-left-me-desperate-for-more",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-06-30T22:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/9UAbHsMPW8ZFprx5vnWnZN-2560-80.jpg",
-      "excerpt": "48-hour hands-on with the MemoMind One XR glasses: slow AI responses, no camera and disappointing audio leave the reviewer unable to recommend them over rival smart glasses — the skeptical counterweight to the $500K+ Kickstarter hype. DUPE GROUP memomind-one: pairs with Road to VR's crowdfunding story — pick one."
-    },
-    {
-      "url": "https://www.techradar.com/pro/this-amd-ryzen-ai-max-395-mini-pc-has-128gb-ram-metal-feet-and-even-a-vegan-leather-handle-because-why-not",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-01T23:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KyLaRBMeK6ZFPptHbfm5ea-1920-80.png",
-      "excerpt": "Minix ER939-AI mini PC packs AMD Ryzen AI Max+ 395 (16 cores / 32 threads, up to 5.1 GHz) with 128GB RAM, metal feet and a vegan-leather handle — a workstation-in-a-box built for running AI workloads entirely locally, no cloud dependence. Distinct product from the already-published GMKtec Ryzen AI Max 395 tower."
-    },
-    {
-      "url": "https://9to5google.com/2026/07/01/google-on-what-android-halo-does-talking-less-about-ai-and-how-gemini-will-use-car-cameras-video/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-01T17:15:00Z",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Google-IO-2026-Android-Logo-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Android chief Sameer Samat explains 'Android Halo' — a persistent status-bar slot where Gemini or third-party agents surface updates and questions from long-running background tasks — plus how Gemini in Android Automotive will use front-facing car cameras to answer questions about road conditions. Device angle: phones and cars as agent hardware surfaces (Android 17)."
-    },
-    {
-      "url": "https://www.notebookcheck.net/New-affordable-smart-glasses-pack-13-MP-Sony-sensor-and-up-to-12-hours-of-battery-life.1332340.0.html",
+      "url": "https://www.notebookcheck.net/Dune-keypad-adds-three-AI-macro-buttons-to-Apple-MacBook-Air-and-MacBook-Pro.1336041.0.html",
       "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-07-01T08:50:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-VisionPro-glasses.png",
-      "excerpt": "Rogbid VisionPro smart glasses launch at $119.99 with a 13 MP Sony IMX386 camera, dual-chip AI processor, real-time object/landmark recognition, on-the-fly text and conversation translation, photochromic lenses and 10-12h battery — an AI-glasses entry point at less than a third of Ray-Ban Meta's price."
+      "published_iso": "2026-07-06T21:51:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Miage-Dune.jpeg",
+      "excerpt": "The Dune keypad attaches three 'smart' AI macro buttons to a MacBook Air or Pro; their function adapts to the app currently in use, marketed as an aluminum 50-gram AI upgrade for Apple laptops. (Same product as the Digital Trends item — alternate outlet.)"
     },
     {
-      "url": "https://gizmodo.com/ar-glasses-have-a-massive-size-problem-2000779454",
-      "source": "Gizmodo",
+      "url": "https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-06-30T15:10:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/06/snap-specs-evan-1200x675.jpg",
-      "excerpt": "Analysis: AR glasses like Snap's $2,200 Specs still have a massive size problem — cramming wearable-computer guts into eyewear keeps them bulky and socially awkward, an engineering tension that may be unsolvable near-term. CAUTION: piece is design/size-focused with no explicit AI hook; weakest relevance in pool — use only if curator accepts the AR-race framing around AI-glasses contenders."
+      "published_iso": "2026-07-06T13:24:40-07:00",
+      "og_image": "https://images.macrumors.com/t/NIcNaQpWpjJf34InyyrlQHbkafI=/1600x/article-new/2026/06/watchos-27.jpg",
+      "excerpt": "With watchOS 27 beta 3, Apple switched on Siri AI and a dedicated Siri app on Apple Watch, bringing the LLM-powered assistant to the wrist for the first time."
     },
     {
-      "url": "https://www.androidauthority.com/p-3680594/",
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-07-06T14:13:16-07:00",
+      "og_image": "https://images.macrumors.com/t/1Wu18buj-c0kPm1rkxzD37YLqos=/2500x/article-new/2026/02/iOS-26-Home-Glass-Feature.jpg",
+      "excerpt": "Apple says the Home app's new Apple Intelligence camera features in iOS 27 — AI-generated summaries and search of smart-home camera footage — will require an iCloud+ plan starting at 2TB, putting a paywall on home-camera AI."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/04/airpods-pro-with-cameras-leaked-in-ios-27-beta-2-code/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-07-04T13:18:56+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-pro-3-ios-27-FI-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Code in iOS 27 beta 2 references an unreleased Apple product that points to camera-equipped AirPods Pro — hardware that would give Apple Intelligence's Visual Intelligence features eyes on the world from your ears."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-07-06T19:27:07+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Apple's latest betas add a disclosure popup for AI features whose processing leaves the device for Google Cloud servers — a notable transparency shift at the on-device/off-device boundary of Siri AI and Apple Intelligence."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/05/google-home-display-ideas/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-05T13:00:00+00:00",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "With the Gemini-first Google Home Speaker now out, 9to5Google maps what a next-gen 'Google Home Display' smart display should be — the hardware gap in Google's Gemini smart-home lineup."
+    },
+    {
+      "url": "https://www.digitaltrends.com/cool-tech/robots-can-now-see-touch-thanks-to-a-new-color-changing-tactile-sensor/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-07-04T12:29:35-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Robot-Touch-Human-Finger.jpg?resize=1200%2C630",
+      "excerpt": "Scientists developed a color-changing tactile sensor that lets robots visualize touch in real time — a step toward more precise robotic manipulation, prosthetics, and surgery."
+    },
+    {
+      "url": "https://www.techradar.com/tech/in-some-jobs-they-want-to-be-replaced-chinese-robotics-company-agibot-says-humanoids-could-take-over-dangerous-jobs-and-one-day-even-teach-children",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-07-04T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/J9ohJtN5GcdiYHiUE9XgvH-2560-80.jpg",
+      "excerpt": "Chinese robotics company Agibot lays out its consumer humanoid roadmap: robots taking over 'dangerous' jobs first, with home companions that could one day even teach children."
+    },
+    {
+      "url": "https://www.techradar.com/computing/maybe-robots-dont-need-legs-or-fingers-to-do-laundry-weave-robotics-isaac-1-isnt-pretty-or-super-humanoid-but-it-might-be-ready-to-handle-basic-chores",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-07-02T19:39:56Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iTBg7uczDkdjVP3NjkaxeW-1920-80.jpg",
+      "excerpt": "Weave Robotics' Isaac 1 is a $7,999 legless home robot on a stalk that folds laundry and handles basic chores — a pragmatic counterpoint to the humanoid home-robot hype."
+    },
+    {
+      "url": "https://www.techradar.com/pro/samsung-is-plotting-to-replace-your-m-2-ssd-with-a-storage-chip-smaller-than-a-fingernail-to-improve-battery-life-and-supercharge-ondevice-ai-inference",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-07-02T21:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iejV8QZAxdNZqCmirUU7DN-1678-80.png",
+      "excerpt": "Samsung is developing a fingernail-sized storage chip to replace M.2 SSDs in thin devices, promising better battery life and faster on-device AI inference in future laptops and AI PCs."
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-live-guided-vision-3684463/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-06-23T19:03:56Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google_home_speaker_3.jpg",
-      "excerpt": "Google's latest Gemini for Home update brings big improvements to the voice assistant and camera intelligence on Google Home/Nest speakers and displays — smarter multi-step commands and camera-feed understanding as Gemini replaces Assistant across home hardware. NOTE: aging (06-23) and adjacent to the already-published Google Home Speaker review — confirm distinct angle before use."
+      "published_iso": "2026-07-06T16:18:22+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Gemini_Live_with_camera_and_screen_sharing_capabilities-scaled.jpg",
+      "excerpt": "Google is prepping a toggle for Gemini Live's 'guided vision' mode, which highlights objects through your phone's camera — giving users finer control over how the assistant sees the world."
     },
     {
-      "url": "https://www.engadget.com/2199519/meta-ai-glasses-hands-on-kylie-jenner-edition/",
-      "source": "Engadget",
+      "url": "https://www.androidauthority.com/gemini-live-push-to-talk-3684532/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-06-23T13:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/meta-ai-glasses-hands-on-kylie-jenner-edition/l-intro-1782227541.jpg",
-      "excerpt": "Hands-on with Meta's new AI Glasses trio — Fury and Adventurer ($299) plus the Kylie Jenner 'Starfire' edition ($399): 26 style/material combos, adjustable nose pads and hinges, launching alongside the Muse Spark AI update with dynamic photos and pedestrian navigation. NOTE: overlaps the already-published Meta Fury review (Gizmodo) — the lineup/strategy angle is what's new; aging (06-23)."
+      "published_iso": "2026-07-06T18:38:40+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175549-scaled.jpg",
+      "excerpt": "Gemini Live is working on an optional push-to-talk input mode so the assistant only listens while you hold a button instead of listening constantly — a privacy-minded shift in device voice UX."
     },
     {
-      "url": "https://www.engadget.com/2199194/ray-ban-meta-optics-review/",
-      "source": "Engadget",
+      "url": "https://www.androidauthority.com/amazon-echo-not-responding-3683484/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-06-22T18:18:04Z",
-      "og_image": "https://www.engadget.com/img/gallery/ray-ban-meta-optics-review-a-better-fit-comes-with-a-price/l-intro-1782151653.jpg",
-      "excerpt": "Karissa Bell reviews Ray-Ban Meta Optics ($499+), the prescription-first line of Meta's Gen 2 AI glasses: Blayzer and Scriber frames with swappable nosepads, adjustable temple tips, customizable action button, 8h+ battery and progressive/transition lens support — the most comfortable way to get Meta AI in everyday prescription eyewear. NOTE: oldest item in pool (06-22, ~318h) — near the 336h edge."
+      "published_iso": "2026-07-01T19:13:20+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2017/01/Amazon-Echo-AA-1.jpg",
+      "excerpt": "First-generation Amazon Echo speakers are reportedly failing en masse — slow or no responses — highlighting the lifecycle cliff for aging smart speakers left behind by the Alexa+ generative-AI era."
+    },
+    {
+      "url": "https://www.notebookcheck.net/Review-verdict-for-MSI-Claw-8-EX-AI-The-fastest-gaming-handheld.1335380.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-07-06T21:00:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/MSI/Claw_8_EX_AI_CG3EM/msi_claw_8_ex_ai_case_13.JPG",
+      "excerpt": "MSI's Claw 8 EX AI+ is the first device built on Intel's dedicated handheld SoC (Arc G3 Extreme CPU + Arc B390 iGPU), and Notebookcheck's review verdict crowns the AI-branded handheld the fastest in its class."
+    },
+    {
+      "url": "https://gizmodo.com/aqara-camera-hub-g350-review-an-excellent-indoor-matter-camera-2000748785",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-07-05T13:00:16+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/05/Camera-Hub-G350-main-1200x675.jpg",
+      "excerpt": "Gizmodo reviews the Aqara Camera Hub G350, an indoor Matter smart camera hub with on-board detection smarts — excellent for the AI smart home, if slightly creepy with its bunny ears."
+    },
+    {
+      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Watch-9-and-Ultra-2-Leak-reveals-new-health-features-and-watch-faces.1335729.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-07-06T12:15:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-Watch-Ultra2-q82-w-h1600.jpg",
+      "excerpt": "Ahead of Samsung's July 22 Unpacked, a leak details the Galaxy Watch 9 and Watch Ultra 2: a new Snapdragon chip to power more on-watch AI, plus new health features, watch faces, and a revamped companion app."
     }
   ],
+  "notes": {
+    "dedup_dropped": [
+      "gizmodo.com Musk AI device story 2026-07-01 (same story as Engadget SpaceX handheld AI device item)",
+      "9to5mac.com watchOS 27 beta 3 Siri AI story (same story as MacRumors item)",
+      "engadget/gizmodo Google Home Speaker reviews (9to5Google review already published as 07-03 card)",
+      "engadget.com Meta glasses Conversation Focus rate limits 2026-06-30 (overlaps 07-04 'Meta One Premium usage limits' card; smart-glasses saturation per keyword plan)"
+    ],
+    "relevance_dropped": [
+      "uploadvr.com Apple Vision Pro hardware chief leaves for OpenAI 2026-07-01 (exec-move news)",
+      "macrumors.com 16 Apple products roundup 2026-07-02 (general roadmap, weak AI-device hook)",
+      "techradar.com Japan Noetra 10M robots plan 2026-07-05 (policy story; would also exceed TechRadar per-source cap)"
+    ],
+    "stale_dropped": [
+      "digitaltrends.com Timekettle X1 Meeting Hub (2026-06-22T15:00Z, 343h > 336h window)",
+      "tomshardware.com Copilot+ features on discrete GPUs (2026-06-14)",
+      "digitaltrends.com Windows 11 AI without Copilot+ badge (2026-06-11)",
+      "techradar.com Nvidia/Unitree/Sharpa humanoid deal (2026-06-01)",
+      "androidauthority.com OpenAI device unveiling report (2026-01-20)",
+      "plus older Rabbit/Alexa+/Oura/Familiar/Moya items from search (2025-2026 H1)"
+    ],
+    "domains_blocked_from_search": [
+      "theverge.com",
+      "wired.com",
+      "arstechnica.com",
+      "cnet.com",
+      "zdnet.com"
+    ]
+  },
   "dedup": {
     "dropped": 0,
-    "kept": 10,
+    "kept": 18,
     "against_days": 5
   }
 }

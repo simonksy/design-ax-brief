@@ -1,50 +1,67 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
+  "section": "movies",
   "selection_mode": "user",
   "picks": [
     {
-      "url": "https://variety.com/2026/film/news/young-washington-director-jon-erwin-ai-1236801002/",
+      "url": "https://variety.com/2026/film/global/ai-actor-tilly-norwood-movie-debut-misaligned-1236802325/",
       "source": "Variety",
-      "published_iso": "2026-07-02T20:22:46+00:00",
-      "og_image": null,
-      "excerpt": "Jon Erwin walks through exactly how his July 4th-weekend historical drama 'Young Washington' used generative AI, scene by scene. The production employed five AI artists plus an AI producer and crew member, with Erwin arguing the tech made the shoot 'safer and more affordable.' The film opened nationwide July 3 and is over-performing at the box office.",
-      "category": "movies",
-      "tool": "Young Washington",
+      "tool": "Tilly Norwood",
       "accent": "#0070f3",
-      "motif": "frame"
+      "motif": "frame",
+      "rationale": "User pick 1 — synthetic-performer debate crosses its biggest threshold: an AI 'actor' headlining a feature; no overlap with prior Tilly-agency coverage.",
+      "published_iso": "2026-07-06T13:05:08+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/07/Misaligned-Tilly-Norwood-Dark-Side.jpg?w=1000&h=563&crop=1",
+      "excerpt": "AI 'actor' Tilly Norwood, who ignited industry-wide anger in late 2025, will front her first feature — 'Misaligned,' a comedy-drama set in the surreal 'Tillyverse.' Creator studio Particle 6 says it has 'retrained and upskilled' 30+ film and TV creatives since launch.",
+      "category": "movies"
     },
     {
-      "url": "https://www.cartoonbrew.com/events/next-lab-generation-finalists-quill-magnific-264084.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-07-01T10:39:13+00:00",
-      "og_image": null,
-      "excerpt": "The Next Lab Generation program required its six finalist teams to develop pitches using Meta's Quill VR animation software and the Magnific AI upscaler before pitching in Madrid. Cartoon Brew's rundown of the finalist projects finds most teams leaned into VR workflows while quietly dropping the mandated AI tool.",
-      "category": "movies",
-      "tool": "Quill",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/my-friend-the-porn-star-film-trailer-karlovy-vary-2026-1236635721/",
+      "source": "The Hollywood Reporter",
+      "tool": "KVIFF",
       "accent": "#eb367f",
-      "motif": "frame"
+      "motif": "frame",
+      "rationale": "User pick 2 — a concrete new documentary craft use for AI (anonymization as ethical/aesthetic tool) at this week's KVIFF premiere; distinct from the published industry-days card.",
+      "published_iso": "2026-07-02T12:15:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/My-Friend-the-Porn-Star-film-still-3-KVIFF-H-2026.jpg?w=1400&h=788&crop=1",
+      "excerpt": "Rosa Friedrich's doc-erotic hybrid premieres in KVIFF's Proxima competition July 7. When her subject withdrew before shooting, Friedrich used AI to anonymize his footage, turning the film into a collective experiment on visibility and desire.",
+      "category": "movies"
     },
     {
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-06-24T15:57:21+00:00",
-      "og_image": null,
-      "excerpt": "With film and TV work drying up, veteran writers and crew are taking RLHF gigs — rating and refining generative AI outputs for tech companies. THR profiles workers who are effectively polishing the systems that may render their old jobs obsolete.",
-      "category": "movies",
-      "tool": "RLHF",
-      "accent": "#ff5a4d",
-      "motif": "frame"
+      "url": "https://www.awn.com/news/apart-wins-best-show-siggraph-2026-computer-animation-festival",
+      "source": "Animation World Network",
+      "tool": "SIGGRAPH",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "User pick 3 — CAF winners plus AI-on-the-production-stage sessions ahead of the July 19 opening; core story distinct from the earlier Dear Upstairs Neighbors workflow card.",
+      "published_iso": "2026-06-23T05:37:00+00:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/apart.jpg?itok=9IhP4YPH",
+      "excerpt": "SIGGRAPH 2026 (July 19-23, LA) named its CAF winners — 'Apart,' 'Beyond Words,' '18 Months' — and unveiled Production Sessions with Weta FX, ILM, Pixar and Google DeepMind, including the artist-centered AI-assisted workflow behind 'Dear Upstairs Neighbors.'",
+      "category": "movies"
     },
     {
-      "url": "https://www.hollywoodreporter.com/business/digital/open-art-new-tool-model-ai-director-vibe-directing-1236628188/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-06-23T14:00:00+00:00",
-      "og_image": null,
-      "excerpt": "OpenArt, founded by ex-Googlers, launched 'Director,' a model/tool pitched at both working Hollywood directors and 'everyday Finchers' — promising conversational, iterative control over AI-generated footage, a workflow the company brands 'vibe directing.'",
-      "category": "movies",
-      "tool": "OpenArt",
-      "accent": "#2ec5c5",
-      "motif": "frame"
+      "url": "https://runwayml.com/news/introducing-agent-2",
+      "source": "Runway",
+      "tool": "Runway",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "User pick 4 — primary-source launch that shifts the unit of work from shot generation to supervised production; never covered before.",
+      "published_iso": "2026-06-25T00:00:00+00:00",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/agent-2.0-launch_blog-thumb.webp",
+      "excerpt": "Runway's Agent 2.0 goes from a single prompt to a planned multi-shot sequence with consistency locking, voice/music integration and a rough assembled cut — an 'autonomous production assistant' the user supervises, now extended into campaign creation and performance analysis.",
+      "category": "movies"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=llFR17DcfMo",
+      "source": "Curious Refuge (YouTube)",
+      "tool": "Curious Refuge",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "rationale": "User pick 5 — replicable step-by-step AI anime production pipeline from the most-watched AI filmmaking educator; workflow substance over model hype.",
+      "published_iso": "2026-06-30T17:52:04+00:00",
+      "og_image": "https://i.ytimg.com/vi/llFR17DcfMo/maxresdefault.jpg",
+      "excerpt": "The AI-filmmaking school walks through a complete anime-style production pipeline built on current gen-video tools — from character design and voice consistency to shot assembly — as a reproducible step-by-step workflow.",
+      "category": "social"
     }
   ]
 }
