@@ -1,67 +1,75 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "movies",
-  "selection_mode": "user",
+  "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://variety.com/2026/film/global/ai-actor-tilly-norwood-movie-debut-misaligned-1236802325/",
-      "source": "Variety",
-      "tool": "Tilly Norwood",
+      "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
+      "source": "No Film School",
+      "tool": "Beeble",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "User pick 1 — synthetic-performer debate crosses its biggest threshold: an AI 'actor' headlining a feature; no overlap with prior Tilly-agency coverage.",
-      "published_iso": "2026-07-06T13:05:08+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/Misaligned-Tilly-Norwood-Dark-Side.jpg?w=1000&h=563&crop=1",
-      "excerpt": "AI 'actor' Tilly Norwood, who ignited industry-wide anger in late 2025, will front her first feature — 'Misaligned,' a comedy-drama set in the surreal 'Tillyverse.' Creator studio Particle 6 says it has 'retrained and upskilled' 30+ film and TV creatives since launch.",
+      "rationale": "Freshest, most actionable craft-tool release: HDR reconstruction from SDR changes finishing, remastering and deliverable pipelines tomorrow.",
+      "published_iso": "2026-07-07T21:29:01Z",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67106787&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "excerpt": "Beeble has released SwitchHDR, a new frontier AI model that reconstructs HDR imagery from conventional SDR video — promising a way to bring dynamic range into footage that never had it, for post, delivery and restoration workflows.",
       "category": "movies"
     },
     {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/my-friend-the-porn-star-film-trailer-karlovy-vary-2026-1236635721/",
-      "source": "The Hollywood Reporter",
-      "tool": "KVIFF",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "User pick 2 — a concrete new documentary craft use for AI (anonymization as ethical/aesthetic tool) at this week's KVIFF premiere; distinct from the published industry-days card.",
-      "published_iso": "2026-07-02T12:15:00+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/My-Friend-the-Porn-Star-film-still-3-KVIFF-H-2026.jpg?w=1400&h=788&crop=1",
-      "excerpt": "Rosa Friedrich's doc-erotic hybrid premieres in KVIFF's Proxima competition July 7. When her subject withdrew before shooting, Friedrich used AI to anonymize his footage, turning the film into a collective experiment on visibility and desire.",
-      "category": "movies"
-    },
-    {
-      "url": "https://www.awn.com/news/apart-wins-best-show-siggraph-2026-computer-animation-festival",
-      "source": "Animation World Network",
-      "tool": "SIGGRAPH",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "User pick 3 — CAF winners plus AI-on-the-production-stage sessions ahead of the July 19 opening; core story distinct from the earlier Dear Upstairs Neighbors workflow card.",
-      "published_iso": "2026-06-23T05:37:00+00:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/apart.jpg?itok=9IhP4YPH",
-      "excerpt": "SIGGRAPH 2026 (July 19-23, LA) named its CAF winners — 'Apart,' 'Beyond Words,' '18 Months' — and unveiled Production Sessions with Weta FX, ILM, Pixar and Google DeepMind, including the artist-centered AI-assisted workflow behind 'Dear Upstairs Neighbors.'",
-      "category": "movies"
-    },
-    {
-      "url": "https://runwayml.com/news/introducing-agent-2",
-      "source": "Runway",
-      "tool": "Runway",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "User pick 4 — primary-source launch that shifts the unit of work from shot generation to supervised production; never covered before.",
-      "published_iso": "2026-06-25T00:00:00+00:00",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/agent-2.0-launch_blog-thumb.webp",
-      "excerpt": "Runway's Agent 2.0 goes from a single prompt to a planned multi-shot sequence with consistency locking, voice/music integration and a rough assembled cut — an 'autonomous production assistant' the user supervises, now extended into campaign creation and performance analysis.",
-      "category": "movies"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=llFR17DcfMo",
-      "source": "Curious Refuge (YouTube)",
-      "tool": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=Z36LDna4nZg",
+      "source": "Corridor Crew",
+      "tool": "Corridor Crew",
       "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "User pick 5 — replicable step-by-step AI anime production pipeline from the most-watched AI filmmaking educator; workflow substance over model hype.",
-      "published_iso": "2026-06-30T17:52:04+00:00",
-      "og_image": "https://i.ytimg.com/vi/llFR17DcfMo/maxresdefault.jpg",
-      "excerpt": "The AI-filmmaking school walks through a complete anime-style production pipeline built on current gen-video tools — from character design and voice consistency to shot assembly — as a reproducible step-by-step workflow.",
+      "rationale": "High-craft, shot-by-shot demo of AI relighting/keying replacing a green-screen pipeline — distinct workflow story that pairs with the SwitchHDR release.",
+      "published_iso": "2026-07-05T16:00:26+00:00",
+      "og_image": "https://i.ytimg.com/vi/Z36LDna4nZg/maxresdefault.jpg",
+      "excerpt": "Corridor Crew reveals the AI VFX workflow behind their new season: Beeble's SwitchLight AI relighting plus their own CorridorKey keying let them composite actors into scenes without a traditional green-screen pipeline.",
       "category": "social"
+    },
+    {
+      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
+      "source": "Variety",
+      "tool": "Midjourney",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "The studios-vs-AI lawsuit turned inside out — Hollywood's own AI use becomes evidence, shaping how openly studios can adopt generative tools.",
+      "published_iso": "2026-07-02T20:13:57+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2025/09/Screen-Shot-2025-09-04-at-1.13.03-PM.png?w=647&h=317&crop=1",
+      "excerpt": "Midjourney is appealing a magistrate judge's order limiting discovery into how Disney, Universal and Warner Bros. themselves use AI in their shows and movies, seeking to put studios' internal AI use on the record as part of its fair-use defense.",
+      "category": "movies"
+    },
+    {
+      "url": "https://nofilmschool.com/a24-google-deepmind",
+      "source": "No Film School",
+      "tool": "A24",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "Strongest single angle on the A24×DeepMind story family (explainer kept; Deadline defense and THR boycott pieces dropped as same-story duplicates) — filmmaker-workflow framing of the most consequential studio-AI deal right now.",
+      "published_iso": "2026-06-30T22:05:18Z",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=60146940&width=1200&height=600&coordinates=0%2C30%2C0%2C31",
+      "excerpt": "No Film School unpacks A24's $75M research partnership with Google DeepMind — what the studio actually gets (AI storyboard tools, DeepMind researchers working alongside filmmakers) and whether the 'AI is infecting Hollywood' panic fits the facts.",
+      "category": "movies"
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
+      "source": "The Hollywood Reporter",
+      "tool": "Hasbro",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "Voice-cloning consent at its sharpest edge case — minors — setting precedents for likeness and voice rights across screen production.",
+      "published_iso": "2026-06-25T17:19:49Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/peppa-pig-george-deaf.png?w=1440&h=810&crop=1",
+      "excerpt": "Hasbro's contracts for shows including Peppa Pig allegedly ask child voice actors to sign away rights for AI use of their voices; a UK agents' association warns a parent's approval 'should never be a blanket licence to capture, clone, train, or reuse a child's voice indefinitely.'",
+      "category": "movies"
     }
-  ]
+  ],
+  "dedup_notes": {
+    "dropped_as_duplicates": [
+      "mattwolfe-vibe-directing (content dupe of openart-director card published 2026-07-06)",
+      "a24-defends-google + a24-still-cool (same story family as a24-google-deepmind-explainer — one angle kept)"
+    ],
+    "history_checked": "movies section today 2026-07-07 (tilly-misaligned, friend-pornstar, siggraph-caf, runway-agent2, cr-anime) + days 2026-07-06/07-04/07-02/07-01; no URL or content overlap with the 5 picks",
+    "diversity": "outlets: nofilmschool.com x2, youtube.com x1, variety.com x1, hollywoodreporter.com x1 — 4 distinct outlets, max 2 per outlet"
+  }
 }

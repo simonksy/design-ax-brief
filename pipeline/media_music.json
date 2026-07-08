@@ -1,27 +1,31 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "media": [
     {
-      "id": "suno-api",
+      "id": "lumen-synth",
       "type": "image",
-      "src": "pipeline/media/suno-api.jpg"
+      "src": "pipeline/media/lumen-synth.jpg"
     },
     {
-      "id": "suno-61k",
+      "id": "ableton-learn",
       "type": "image",
-      "src": "pipeline/media/suno-61k.jpg"
+      "src": "pipeline/media/ableton-learn.png"
     },
     {
-      "id": "ymck-fds",
-      "type": "video",
-      "src": "pipeline/media/ymck-fds.mp4",
-      "poster": "pipeline/media/ymck-fds.jpg"
+      "id": "viberate-mcp",
+      "type": "image",
+      "src": "pipeline/media/viberate-mcp.jpg"
     },
     {
-      "id": "smol-seq",
+      "id": "skrillex-032c",
+      "type": "image",
+      "src": "pipeline/media/skrillex-032c.jpg"
+    },
+    {
+      "id": "atlantic-watchdog",
       "type": "video",
-      "src": "pipeline/media/smol-seq.mp4",
-      "poster": "pipeline/media/smol-seq.jpg"
+      "src": "pipeline/media/atlantic-watchdog.mp4",
+      "poster": "pipeline/media/atlantic-watchdog.jpg"
     }
   ]
 }

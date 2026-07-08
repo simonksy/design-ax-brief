@@ -1,33 +1,28 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "media": [
     {
-      "id": "cnc-ios-vibeport",
+      "id": "amano-zan",
+      "type": "video",
+      "src": "pipeline/media/amano-zan.mp4",
+      "poster": "pipeline/media/amano-zan.jpg"
+    },
+    {
+      "id": "ue-image-gen",
+      "type": "video",
+      "src": "pipeline/media/ue-image-gen.mp4",
+      "poster": "pipeline/media/ue-image-gen.jpg"
+    },
+    {
+      "id": "unity-scene-ai",
+      "type": "video",
+      "src": "pipeline/media/unity-scene-ai.mp4",
+      "poster": "pipeline/media/unity-scene-ai.jpg"
+    },
+    {
+      "id": "dreamcast-slop",
       "type": "image",
-      "src": "pipeline/media/cnc-ios-vibeport.jpg"
-    },
-    {
-      "id": "unity-ai-audit",
-      "type": "video",
-      "src": "pipeline/media/unity-ai-audit.mp4",
-      "poster": "pipeline/media/unity-ai-audit.jpg"
-    },
-    {
-      "id": "caveman-tokens",
-      "type": "image",
-      "src": "pipeline/media/caveman-tokens.jpg"
-    },
-    {
-      "id": "jgs2-realtime",
-      "type": "video",
-      "src": "pipeline/media/jgs2-realtime.mp4",
-      "poster": "pipeline/media/jgs2-realtime.jpg"
-    },
-    {
-      "id": "metahuman-sizzle",
-      "type": "video",
-      "src": "pipeline/media/metahuman-sizzle.mp4",
-      "poster": "pipeline/media/metahuman-sizzle.jpg"
+      "src": "pipeline/media/dreamcast-slop.jpg"
     }
   ]
 }

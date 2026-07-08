@@ -1,8 +1,8 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "games",
   "mode": "all-keywords",
-  "note": "User override: '모든 키워드로' — no rotation. Working set = ALL core + entire games keywords list, minus keywords whose news was already covered in the last 2 days of news_data.json.",
+  "note": "User override: '모든 키워드로' — no rotation. Working set = ALL core + entire games keywords list, minus keywords whose news was already covered in the last 2 days (2026-07-06 · 2026-07-07 cards) of news_data.json.",
   "skipped_recently_covered": [
     {
       "keyword": "text-to-game",
@@ -11,6 +11,18 @@
     {
       "keyword": "AI voice acting games",
       "reason": "Covered 2026-07-06 card 'hasbro-child-voices' (Hasbro AI voice contracts for child actors, PC Gamer)"
+    },
+    {
+      "keyword": "Unity Muse",
+      "reason": "Covered 2026-07-07 card 'unity-ai-audit' (Unity AI auto-tagging generated assets, Unity YouTube)"
+    },
+    {
+      "keyword": "Unreal Engine AI",
+      "reason": "Covered 2026-07-07 card 'metahuman-sizzle' (MetaHuman 2026 sizzle reel, Unreal Engine YouTube)"
+    },
+    {
+      "keyword": "vibe coding games",
+      "reason": "Covered 2026-07-07 card 'cnc-ios-vibeport' (C&C Generals vibe-coded iOS port, PC Gamer) and 2026-07-03 'godot-ai-ban'"
     }
   ],
   "working_keywords": [
@@ -22,17 +34,17 @@
     {
       "keyword": "AI 게임",
       "type": "core",
-      "expansions": ["게임 생성형 AI", "AI 게임 제작", "게임업계 AI"]
+      "expansions": ["게임 생성형 AI", "AI 게임 제작", "게임업계 AI 도입"]
     },
     {
       "keyword": "generative game",
       "type": "core",
-      "expansions": ["generative gameplay", "AI-generated game", "generative interactive media"]
+      "expansions": ["generative gameplay", "AI-generated game", "promptable game", "generative interactive media"]
     },
     {
       "keyword": "generative game assets",
       "type": "pool",
-      "expansions": ["AI 3D asset generation", "text-to-3D game asset", "AI texture generation", "Meshy Tripo3D game assets"]
+      "expansions": ["AI 3D asset generation", "text-to-3D game asset", "AI texture generation", "Meshy Tripo3D game assets", "AI 게임 에셋"]
     },
     {
       "keyword": "AI NPC",
@@ -70,16 +82,6 @@
       "expansions": ["dynamic dialogue LLM game", "generative narrative game", "AI dialogue writing games"]
     },
     {
-      "keyword": "Unreal Engine AI",
-      "type": "pool",
-      "expansions": ["Unreal Engine 5 AI tools", "Epic Games AI", "UEFN generative AI", "MetaHuman AI"]
-    },
-    {
-      "keyword": "Unity Muse",
-      "type": "pool",
-      "expansions": ["Unity AI tools", "Unity Sentis", "Unity generative AI roadmap"]
-    },
-    {
       "keyword": "AI game art",
       "type": "pool",
       "expansions": ["AI concept art game studio", "generative art pipeline games", "AI 게임 아트", "AI art disclosure Steam"]
@@ -87,7 +89,7 @@
     {
       "keyword": "AI animation games",
       "type": "pool",
-      "expansions": ["AI motion generation game", "ML character animation", "AI mocap games"]
+      "expansions": ["AI motion generation game", "ML character animation", "AI mocap games", "Cascadeur AI animation"]
     },
     {
       "keyword": "NVIDIA ACE",
@@ -133,11 +135,6 @@
       "keyword": "AI bug detection games",
       "type": "pool",
       "expansions": ["AI QA automation games", "ML crash detection games", "AI test agents game build"]
-    },
-    {
-      "keyword": "vibe coding games",
-      "type": "pool",
-      "expansions": ["vibe-coded game", "prompt-to-game prototype", "AI 바이브 코딩 게임", "Claude Code game dev"]
     }
   ],
   "categories": [
@@ -168,44 +165,45 @@
         "nme.com",
         "destructoid.com",
         "theverge.com",
+        "nvidia.com",
+        "blog.roblox.com",
+        "deepmind.google",
         "youtube.com"
       ],
       "queries": [
         "AI game development news July 2026",
-        "generative AI video games 2026",
+        "generative AI video games announcement 2026",
         "AI 게임 개발 소식 2026",
-        "generative game assets pipeline studio 2026",
-        "text-to-3D game asset generation tool news",
-        "AI NPC LLM game 2026",
+        "게임 생성형 AI 사례",
+        "generative game assets studio pipeline 2026",
+        "text-to-3D game asset generation tool release",
+        "AI texture generation game workflow 2026",
+        "AI NPC LLM dialogue game 2026",
         "Inworld AI announcement partnership 2026",
-        "procedural generation machine learning game news",
+        "procedural generation machine learning game 2026",
         "AI playtesting automated QA agents game studio",
-        "neural game engine playable world model 2026",
-        "AI level design generation news",
+        "AI game balancing machine learning news",
+        "neural game engine demo 2026",
+        "playable world model interactive demo 2026",
+        "Genie world model DeepMind interactive",
+        "AI level design map generation news",
         "AI game dialogue dynamic narrative LLM",
-        "Unreal Engine AI tools 2026",
-        "Epic Games generative AI UEFN MetaHuman news",
-        "Unity AI Muse Sentis update 2026",
-        "AI game art concept art studio 2026",
-        "AI animation motion generation games",
-        "NVIDIA ACE digital human gaming 2026",
-        "AI game design prototyping tool 2026",
+        "AI game art concept art pipeline studio 2026",
+        "AI generated art Steam game 2026",
+        "AI animation motion generation game characters",
+        "NVIDIA ACE digital human game 2026",
+        "AI game design prototyping tool launch 2026",
         "AI character creation generator game news",
-        "Roblox AI UGC creation tools news",
+        "Roblox AI UGC creation tools news 2026",
         "AI modding generative mod tools game",
-        "AI playable worlds interactive generation demo",
-        "Genie 3 world model DeepMind gaming",
-        "AI dynamic difficulty adaptive gameplay",
+        "Minecraft AI mod generative 2026",
+        "AI dynamic difficulty adaptive gameplay research",
         "AI localization game translation studio 2026",
         "AI bug detection game QA machine learning",
-        "vibe coding game prototype 2026",
-        "게임업계 생성형 AI 논란",
-        "게임 AI NPC 대화 기술",
-        "site:youtube.com Unreal Engine AI 2026",
-        "site:youtube.com Unity AI game 2026",
-        "site:youtube.com Inworld AI game demo",
-        "site:youtube.com GDC AI talk 2026",
-        "site:youtube.com Two Minute Papers game AI",
+        "게임 AI 캐릭터 생성 기술",
+        "site:youtube.com Inworld AI game demo 2026",
+        "site:youtube.com GDC AI game development talk 2026",
+        "site:youtube.com Unreal Engine AI feature 2026",
         "AI gaming biggest news this week"
       ]
     }

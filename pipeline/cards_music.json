@@ -1,161 +1,206 @@
 {
-  "date": "2026-07-07",
   "cards": [
     {
-      "id": "suno-api",
+      "id": "lumen-synth",
       "eyebrow": "AI NEWS",
-      "headline": "수노가 개발자 API를 저울질한다\n엄선한 파트너부터 문을 연다",
-      "body": "외부 앱이 프롬프트를 보내 음악을 받아 가는 구조로, 신청 폼을 먼저 열었다.",
-      "mini_headline": "수노, 개발자 API 탐색",
-      "tool": "Suno",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
+      "headline": "이미지를 드래그하면 소리가 된다\n클로드로 만든 무료 신스 루멘",
+      "body": "이미지 파일의 바이트를 읽어 연주 가능한 웨이브테이블로 바꾸는 엔진을 담았다.",
+      "mini_headline": "이미지가 소리 되는 루멘",
+      "tool": "Lumen",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "Suno가 개발자 API를 준비한다. 최고제품책임자 Jack Brody가 링크드인에 얼리 액세스 신청 폼 링크를 올리며 계획을 알렸다. 외부 앱이 텍스트 프롬프트를 보내면 Suno의 생성 모델이 완성된 오디오를 돌려주는 구조다. 개발자는 사용자를 Suno로 보내는 대신 자기 제품 안에 음악 생성을 심을 수 있게 된다. 지금 Suno에는 공식 공개 API가 없고 서드파티가 만든 비공식 래퍼만 돌아다닌다."
+            "x": "개발자 Pixelsncodes가 이미지를 소리로 바꾸는 무료 오픈소스 윈도우 신스 Lumen을 내놨다. Claude AI 코딩 에이전트로 만든 웨이브테이블 신스다."
           },
           {
             "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg"
+            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen.jpg"
           },
           {
             "t": "p",
-            "x": "Brody는 신중한 출발을 강조했다. \"We plan to start with a curated group of partners so we can develop this thoughtfully, and we're especially interested in applications that unlock experiences generative music makes possible for the first time.\" Typeform 신청 폼에도 \"a small group of folks\"에게 먼저 연락하겠다고 적혀 있을 뿐 출시 시점은 밝히지 않았다. Brody는 Snap에서 10년간 제품을 총괄하다 2024년 말 합류했고 전 Warner Music 임원 Paul Sinclair, 전 Merlin CEO Jeremy Sirota가 그 앞뒤로 들어왔다."
+            "x": "구성은 알차다. Morph·Pan·Unison·Detune·Width·Blend 컨트롤을 각각 갖춘 웨이브테이블 오실레이터 두 개에 멀티웨이브 서브 오실레이터, 멀티모드 노이즈 제너레이터, 드라이브 딸린 스테이트 배리어블 필터가 붙는다. ADSR 엔벨로프 세 개와 드래그 앤 드롭으로 거는 멀티웨이브 LFO 세 개, Drive·Chorus·Delay·Reverb를 묶은 내장 멀티 이펙트 섹션도 있다."
           },
           {
             "t": "p",
-            "x": "성장세는 가파르다. 6월에는 4억 달러가 넘는 시리즈 D를 포스트머니 54억 달러 밸류에이션으로 마쳤다. 2025년 11월 시리즈 C(2억 5,000만 달러) 직후 24억 5,000만 달러였던 몸값이 반년 만에 두 배 넘게 뛴 셈이다. 지난 2월 CEO Mikey Shulman은 유료 구독자 200만 명, 연 반복 매출 3억 달러, 누적 사용자 1억 명 돌파를 밝혔다."
+            "x": "가장 별난 대목은 역시 이미지-웨이브테이블 엔진이다. 아무 이미지나 끌어다 놓으면 그 파일의 바이트를 읽어 웨이브테이블로 바꾼다. 픽셀 밝기를 소리로 옮기는 발상 자체는 Serum이나 에이블톤의 Image2Wavetable Max for Live 디바이스에도 있었지만, 사운드를 무작위로 뒤흔드는 재미난 방법이 될 만하다."
           },
           {
             "t": "p",
-            "x": "라이선스 지형은 아직 반쪽이다. 메이저 중에서는 2025년 11월 소송을 합의로 끝낸 Warner Music Group과의 계약이 유일하고 Universal과 Sony는 여전히 소송 중이다. 두 회사는 지난달 6만 1,000곡이 넘는 녹음물을 소송에 추가해 달라고 법원에 요청했다. 지난주에는 독립 아티스트 지원 프로그램 Spark도 내놨는데 참가자가 회사를 공개 비판하지 못하게 막는 조항이 들어 있었다."
+            "x": "인터페이스는 Play와 Deep 두 화면으로 나뉜다. Deep 뷰에서 위의 기능을 전부 만지고, Play 뷰에서는 이미지 엔진과 Tone·Motion·Space·Texture 네 개의 매크로만으로 여러 파라미터를 한꺼번에 움직인다. 프리셋은 Bass·Leads·Pads·Keys·Textures로 나뉜 32개가 담겼다."
+          },
+          {
+            "t": "p",
+            "x": "지금은 윈도우용 VST3와 스탠드얼론 포맷으로 GitHub에서 받는다. macOS 버전은 개발 중이다. AI로 만든 플러그인이 모두의 취향은 아니겠지만, AI 코딩 에이전트를 쓴 릴리스는 갈수록 늘고 있고 당분간 잦아들 기미도 없다."
           }
         ]
       }
     },
     {
-      "id": "suno-61k",
+      "id": "ableton-learn",
       "eyebrow": "AI NEWS",
-      "headline": "유니버설·소니의 6만 곡 추가 요구\n수노가 우디오 판결 들어 막아섰다",
-      "body": "뉴욕 법원이 우디오 사건에서 3만 곡 추가를 거부한 논리를 그대로 끌어왔다.",
-      "mini_headline": "수노, 6만 곡 추가 반대",
-      "tool": "Suno",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/after-a-judge-denied-sonys-move-to-expand-its-udio-case-suno-asks-court-to-reject-umg-and-sonys-bid-to-add-61k-recordings/",
-      "accent": "#3b6bff",
+      "headline": "AI 프롬프팅 대신 직접 만드는 법\n에이블톤, 학습 플랫폼 런 공개",
+      "body": "노트·무브와 같은 엔진으로 돌아가는 무료 학습 플랫폼을 조용히 선보였다.",
+      "mini_headline": "에이블톤 학습 플랫폼 런",
+      "tool": "Ableton Learn",
+      "source": "CDM Create Digital Music",
+      "url": "https://cdm.link/ableton-learn/",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "Suno가 매사추세츠 연방지방법원에 Universal Music Group과 Sony Music의 6만 1,026곡 추가 요청을 기각해 달라는 서면을 냈다. 근거는 바로 옆 사건이다. 뉴욕남부지방법원의 Alvin K. Hellerstein 판사는 최근 Sony가 경쟁사 Udio 소송에 3만 442곡을 더하려던 시도를 물리치고 사건을 원래의 333곡으로 묶어 뒀다."
+            "x": "에이블톤이 무료 음악 교육 플랫폼 Learn을 소프트 런칭했다. 음악과 프로덕션을 맨 처음부터 시작하는 사람을 위한 레슨을 브라우저에서 바로 여는데, 비결이 하나 있다. 인터랙티브 기능이 Move와 Note에 들어간 것과 같은 엔진으로 돌아간다. 영상을 붙여 넣는 대신 레슨 안에 Live 클립 뷰나 오디오의 간소화 버전을 심고, 미니멀한 화면은 초보자나 아이들이 헷갈릴 만한 요소를 걷어냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdm.link/app/uploads/2026/07/beats-and-drums.png"
           },
           {
             "t": "p",
-            "x": "Hellerstein 판사는 \"Adding more than 30,000 works near the close of document discovery would require substantial additional production and review, generate further disputes, and materially alter the scope of the case\"라고 썼다. 침해를 다툴 권리는 있어도 \"there is no requirement that it be done in this lawsuit\"라는 말도 남겼다. Suno 측 Latham & Watkins의 Britt Lovejoy 변호사는 같은 논리가 이 법정에도 그대로 적용된다고 주장한다. 대표 저작물 몇 곡으로 소송을 걸어 놓고 증거개시가 끝나 갈 무렵 목록을 폭발적으로 불리는 \"the standard playbook of aggregate music rightsholders\"를 원고들이 따랐다는 것이다."
+            "x": "아직은 프리뷰에 가깝고 초기 레슨은 입문자를 겨냥한다. CDM의 Peter Kirn은 이 점이 오히려 중요하다고 본다. 진입의 첫 장벽을 넘게 해 주고, \"instead of prompting AI or something\" — AI에 프롬프트를 던지는 대신 자기 음악을 만들고 연주하는 법을 익히는 훨씬 보람 있는 길을 열어 준다."
           },
           {
             "t": "p",
-            "x": "소송은 2024년 6월 RIAA가 3대 메이저를 대리해 Suno와 Udio를 상대로 제기했고 Suno 쪽 원 소장에는 560곡이 담겼다. Warner Music Group은 2025년 11월 합의와 라이선스 계약으로 빠져나갔다. 남은 UMG와 Sony는 지난 5월 21일 오디오 핑거프린팅 업체 Audible Magic으로 학습 데이터에서 자사 곡을 찾아냈다며 6만 1,026곡 추가를 요청했다. 이조차 전문가들이 찾은 일치 항목의 \"only a small fraction\"이라는 설명이다. 지연 논란에는 \"the cause of any delay was Suno's ongoing refusal to provide Plaintiffs with the data in its possession\"이라고 맞받았다."
+            "x": "지금 올라와 있는 것은 'Building Blocks' 레슨과 비트 입문 레슨이다. 이전 온라인 교재에 없던 것도 생겼다. 브라우저용으로 극도로 단순화한 Live 스케치패드 'Playground'다. 여기서 만든 음악도 몇 곡 걸려 있다. 모바일과 데스크톱 어디서나 매끄럽게 돌아가는데, 에이블톤은 CDM에 모바일 우선으로 만들었다고 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdm.link/app/uploads/2026/07/live-in-browser.png"
           },
           {
             "t": "p",
-            "x": "곡 수는 곧 돈이다. 고의 침해의 법정손해배상 상한은 곡당 15만 달러. 560곡이면 최대 약 8,400만 달러지만 6만 1,026곡이면 이론상 90억 달러를 넘는다. 승부는 결국 무허락 학습이 공정 이용이냐로 모인다. Suno는 Bartz 대 Anthropic, Kadrey 대 Meta 판결을 끌어와 학습의 변형적 성격을 주장한다. 사실 증거개시는 6월 26일 마감 예정이었다가 8월 연장이 논의됐고 매사추세츠의 F. Dennis Saylor IV 판사는 아직 결정을 내리지 않았다. 양쪽 모두 공정 이용을 둘러싼 약식판결을 청구할 것으로 보인다."
+            "x": "에이블톤의 교육 프로젝트는 계보가 길다. Dennis Desantis의 책 Making Music(2015), 19개 언어로 번역된 인터랙티브 가이드 Learning Music(2017), 코로나 록다운 초기의 무료 배포 Making music at home(2020), Live 12의 튜닝 시스템과 짝을 이룬 tuning.ableton.com(2024)까지. 이 프로젝트들이 시작될 무렵에는 Web Audio가 아직 여물지 않았고 Web Assembly는 나오기 전이었다. 브라우저로 가능한 일이 훨씬 많아진 지금, Learn이 어떻게 자라날지, 아티스트 참여와 교육 파트너들의 활용이 어떻게 이어질지 지켜볼 만하다."
           }
         ]
       }
     },
     {
-      "id": "ymck-fds",
+      "id": "viberate-mcp",
       "eyebrow": "AI NEWS",
-      "headline": "패미컴 디스크 칩이 플러그인으로\nYMCK, AI 도구로 묵은 숙제 풀다",
-      "body": "FDS 스펙이 복잡해 미뤄 두던 개발을 AI 도구 덕에 끝냈다고 밝혔다.",
-      "mini_headline": "YMCK 무료 FDS 신스",
-      "tool": "YMCK",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/06/27/ymck-magical-fds-plug/",
+      "headline": "바이브레이트, MCP 서버 공개\n음악 데이터를 AI 비서에 연결",
+      "body": "1,100만 아티스트 통계를 클로드나 챗GPT에서 자연어로 물어보는 구조다.",
+      "mini_headline": "바이브레이트 MCP 서버",
+      "tool": "Viberate",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/viberate-opens-music-data-to-chatgpt-claude-and-other-ai-bots-via-official-mcp-server-launch-amid-ai-first-pivot-for-analytics-company/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "음악 데이터 기업 Viberate가 공식 MCP 서버를 열었다. Claude, ChatGPT, Gemini, Grok 같은 AI 서비스에서 일상 언어로 질문을 던져 이 회사의 데이터를 끌어다 쓰는 구조다. 2015년 슬로베니아에서 창업해 류블랴나와 로스앤젤레스에 사무실을 둔 이 분석 회사는 이번 출시를 'AI 퍼스트' 전환의 첫걸음이라 부른다."
+          },
+          {
+            "t": "p",
+            "x": "플랫폼이 다루는 데이터는 아티스트 1,100만, 곡 1억, 플레이리스트 1,900만에 레이블 16만, 페스티벌 7,000여 개. MCP 서버를 거치면 이 데이터가 호환되는 AI 비서 안에서 아티스트 예측, 라인업 제안, 마케팅 전략으로 바뀐다. MCP는 Anthropic이 내놓은 뒤 OpenAI의 ChatGPT, 구글 Gemini, xAI의 Grok까지 받아들인 개방 표준으로, Viberate는 이를 'USB-C for AI'라 표현한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.musicbusinessworldwide.com/files/2026/06/Screenshot-2026-06-25-at-11.13.59-e1782382474632.jpg"
+          },
+          {
+            "t": "p",
+            "x": "공동창업자이자 CCO인 Vasja Veber는 비즈니스 인텔리전스 산업 전체가 결국 AI 에이전트가 읽고 처리하는 데이터 레이어로 옮겨 간다고 내다본다. 지금까지 Viberate를 쓰는 길이 플랫폼 접속과 API 두 가지였다면 MCP 서버는 세 번째 길이고, 곧 모든 데이터 분석 서비스의 지배적 사용법이 되리라는 전망이다. \"Anything they can do on the platform, they can do in their AI app ten times better and faster.\""
+          },
+          {
+            "t": "p",
+            "x": "특정 고객의 문제를 겨냥한 독립 AI 앱도 만들고 있다. 프롬프트를 궁리할 필요 없이 아티스트·레이블·트랙 이름만 넣으면 AI가 Viberate API의 데이터를 정해진 템플릿에 채워 주는 방식이다. 고객사가 가진 데이터로 개별 학습도 되고, 현재는 일부 고객 대상 프라이빗 베타 단계다."
+          },
+          {
+            "t": "p",
+            "x": "MCP 커넥터 설정은 몇 초면 끝난다는 설명이다. 무료 티어는 기본 접근을, 유료 플랜은 20개가 넘는 고급 도구를 연다. 출시 후 석 달간 유료 플랜에 20% '파운딩 할인'을 걸고 구독을 유지하는 한 그 가격을 보장한다. Veber는 AI 연동이 음악 분석업계에 'adapt or die'의 갈림길이라며 몇 년 안에 자사 플랫폼보다 AI 서비스 안에서 데이터를 쓰는 사람이 더 많아진다고 장담한다. \"It's like having a consultant with the combined IQ of all the best data scientists in the world times a million.\""
+          }
+        ]
+      }
+    },
+    {
+      "id": "skrillex-032c",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 곡은 바이럴이 될 수 있어도\n건너편에 사람이 없다, 스크릴렉스",
+      "body": "10년 만의 인터뷰에서 예술의 가치는 상대가 나를 알아봐 주는 느낌이라 말했다.",
+      "mini_headline": "스크릴렉스, AI를 말하다",
+      "tool": "Skrillex",
+      "source": "DJ Mag",
+      "url": "https://djmag.com/news/skrillex-ai-songs-can-go-viral-you-cant-have-feeling-of-being-seen-if-there-isnt-human-other",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "YMCK가 FDS 사운드 칩의 소리를 재현하는 무료 소프트웨어 신시사이저 Magical FDS Plug를 공개했다."
+            "x": "스크릴렉스가 10년여 만의 첫 정식 인터뷰에서 AI와 예술의 인간다움을 이야기했다. 베를린 문화지 032c 최신호에 실린 대담으로, 상대는 영국계 스웨덴 아티스트 Ecco2K다. 본명 Sonny Moore인 그는 며칠 전 AI를 생각하다 깊이 와닿은 게 있었다며 이렇게 말했다. \"I think the value of art can almost be measured by its ability to make someone feel seen.\" 예술의 가치는 누군가에게 '나를 알아봐 준다'는 느낌을 주는 힘으로 잴 수 있다는 얘기다."
           },
           {
             "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/fds.jpg"
+            "src": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-07/skrillex_shotbynaisha.webp"
           },
           {
             "t": "p",
-            "x": "필자에게는 완전히 과거로 돌아가는 소식이다. YMCK의 Magical 8bit Plug는 내가 맨 처음 깔았던 플러그인 중 하나였다. 그 시절 칩튠에 푹 빠져 첫 DAW였던 MuLab에서 쓰곤 했는데 이렇게 쓰고 보니 세월이 실감 난다. VST 플러그인이 낯설던 때였고 그 개발자의 신작을 이제 와서 만나니 조금 얼떨떨하다."
+            "x": "\"Maybe there are some AI songs that can go viral, but you can't have that feeling of being seen if there isn't a human on the other side.\" Justice나 Daft Punk, Metallica를 다시 들으면 강하게 꽂히는 이유도 익숙하면서 전에 없던 무언가가 거기 있어서고, 건너편에 사람이 없으면 그 느낌은 성립하지 않는다고 봤다."
           },
           {
             "t": "p",
-            "x": "흥미로운 대목은 개발 과정이다. YMCK의 Yokemura는 AI 도구의 도움으로 플러그인을 완성했다며 이렇게 설명했다. \"the FDS spec had always felt too complex and time-consuming to turn into working code, but recent AI tools finally helped push the project over the line.\" 얼마 전 다룬 '바이브 코딩' 플러그인 논쟁에서 희망적인 쪽을 보여 주는 사례다. 제대로 된 손에 들어가면 이렇게 좋은 플러그인이 우리 몫으로 돌아온다."
+            "x": "위험을 감수하고 비판을 껴안는 태도도 길게 짚었다. From First to Last 시절부터 저항을 각오했다는 그는 'Bangarang' 같은 곡을 Snowball 마이크나 노트북 마이크로 만들던 시절을 돌아봤다. \"Starting from something imperfect forces you to end up somewhere you'd never expect.\" 2010년의 출세작 'Scary Monsters and Nice Sprites' EP가 마케팅 예산 2,000달러로 나왔다는 뒷이야기도 곁들였다."
           },
           {
             "t": "p",
-            "x": "Magical FDS Plug는 디스크 시스템(FDS) 사운드 칩의 사운드 구조를 재현한다. 64샘플 파형 메모리를 캐리어로 쓰고 별도의 32스텝 명령 시퀀스로 변조하는 특이한 원본 설계다."
-          },
-          {
-            "t": "video",
-            "yt": "Q-3mX5sd_cQ"
-          },
-          {
-            "t": "p",
-            "x": "YMCK는 편집 흐름을 한층 논리적으로 다듬었다. 캐리어 파형은 가산 합성, 프리셋 파형, 펄스 파형 편집, 64포인트 프리핸드 드로잉으로 만든다. 가산 모드는 드로바 오르간처럼 슬라이더 여덟 개로 배음을 섞는 방식이고 프리셋에는 삼각파·톱니파·사인파가, 펄스 모드에는 1~63의 펄스 폭 값이 준비돼 있다."
-          },
-          {
-            "t": "p",
-            "x": "모듈레이터 섹션에는 삼각파, 톱니파, 사인파, 사각파, 램프 업, 램프 다운 여섯 가지 프리셋이 있고 0~7 숫자로 32스텝 옵코드 시퀀스를 직접 써넣는 커스텀 모드도 지원한다. LFO·FM·Off 변조 모드, 캐리어와 모듈레이터 각각의 ADSR 엔벨로프, 벨로시티와 피치 벤드, 원본 하드웨어의 약 2kHz 출력 필터를 본뜬 로우패스 필터까지 갖췄다."
-          },
-          {
-            "t": "p",
-            "x": "인터페이스는 Global·Carrier·Modulator 세 영역으로 나뉜다. Global에서 게인, 폴리포니, 피치 벤드 범위, 테마, 프리셋 로딩, 하드웨어식 로우패스 필터를 다루고 아래쪽 절반에서 캐리어 파형과 변조 동작을 설계한다. GPLv3 오픈소스라 소스 코드가 GitHub에 올라와 있으며 YMCK 데모곡의 FDS 파트를 재현한 데모 프리셋도 함께 담겼다. macOS 10.13 이상에서 AU·VST3, Windows에서 VST3로 돌아가고 가격은 무료다."
+            "x": "5월 말 베를린 크라프트베르크에서 연 이틀짜리 행사 CONTRA도 화제에 올랐다. Ecco2K와 Bladee, Blawan, Knock2 등이 선 무대로, 그는 AI와 스마트폰의 시대일수록 사람들이 그저 함께 있고 함께 느끼는 공간을 만드는 일이 어느 때보다 중요하다고 했다. 6월의 깜짝 앨범 'SOMA'에 이어 이번 주에는 Solomun과 함께한 싱글 'Rumpta'를 내놨다. Atlantic Records를 떠난 뒤 이어지는 '독립' 챕터의 행보다."
           }
         ]
       }
     },
     {
-      "id": "smol-seq",
+      "id": "atlantic-watchdog",
       "eyebrow": "AI NEWS",
-      "headline": "브라우저에서 돌아가는 생성 음악\n스몰 시퀀서, 패치로 패턴을 엮는다",
-      "body": "작은 시퀀서 모듈을 서로 이어 진화하는 패턴을 만들고 링크로 공유한다.",
-      "mini_headline": "브라우저 생성 시퀀서",
-      "tool": "Smol Sequencer",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/06/26/smol-sequencer-turns-your-browser-into-a-generative-music-environment/",
+      "headline": "내 곡도 AI 학습에 쓰였을까\n2,000만 곡 데이터베이스 공개",
+      "body": "수노·우디오 학습곡 2,000만여 개가 무료 검색 데이터베이스로 풀렸다.",
+      "mini_headline": "AI 학습곡 2천만 검색",
+      "tool": "AI Watchdog",
+      "source": "gearnews.com",
+      "url": "https://www.gearnews.com/ai-training-data-the-atlantic-tech/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "신시사이저 연주자이자 개발자인 Stretta가 브라우저 기반 모듈러 시퀀싱 환경 Smol Sequencer를 영상으로 시연했다."
+            "x": "디 애틀랜틱이 'AI Watchdog' 프로젝트로 검색 가능한 데이터베이스 4종을 공개했다. Suno, Udio, 구글 Lyria 같은 AI 음악 생성기 주변을 떠도는 2,000만 곡 이상을 아우르는 자료로, 내 이름이나 밴드가 학습 데이터에 들어 있는지 지금 바로 무료로 확인해 볼 수 있다."
           },
           {
-            "t": "video",
-            "yt": "4_iaxowmQqI"
-          },
-          {
-            "t": "p",
-            "x": "영상은 작은 시퀀서 모듈을 서로 연결해 계속 진화하는 음악 패턴을 만드는 과정을 보여 준다. 노트 값을 매만지고 무작위성을 끼워 넣고 피치 클래스 회전으로 스케일 기반 작곡을 익힌 뒤 압축된 링크형 프로젝트 파일로 자기만의 악상을 나누는 데까지 이어진다."
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/06/KI-Trainingsdaten-2026-T.jpg"
           },
           {
             "t": "p",
-            "x": "Smol Sequencer는 무료 브라우저 애플리케이션으로 지금 바로 쓸 수 있다."
+            "x": "취재는 책과 논문에 이어 AI 학습 데이터를 추적해 온 기자 Alex Reisner의 작업이다. 가장 큰 데이터셋은 독일 비영리단체 LAION이 모은 것으로 유튜브에서 끌어온 12,320,916곡, 이어 붙이면 91년 분량의 음악이다. 900만 곡짜리가 하나 더 있고 Free Music Archive 기반을 포함해 10만 곡 안팎짜리 둘이 남는다. 중요한 대목은 대부분의 데이터셋이 오디오 파일이 아니라 유튜브·스포티파이 링크만 담고 있다는 사실이다. 자동화 도구가 그 링크로 실제 곡을 긁어 가는데, 로그인과 광고 등 아티스트에게 돈이 가게 하는 장치를 건너뛰기도 한다."
+          },
+          {
+            "t": "p",
+            "x": "헤드라인은 Taylor Swift나 Bad Bunny 같은 이름이 장식하지만 전자음악 쪽 사례가 더 눈에 띈다. 베를린의 뮤지션 Hainbach는 데이터셋 하나에서만 자기 곡 151개를 찾았고, 브레이크코어 프로듀서 sophia_hjkl은 두 데이터셋에 걸쳐 138곡이 나왔다고 알렸다. 본인 설명으로는 2017년부터 2024년까지 낸 작업물 사실상 전부다."
+          },
+          {
+            "t": "p",
+            "x": "소송전은 여전히 진행형이다. 2024년 6월 RIAA가 3대 메이저를 대리해 Suno와 Udio를 제소한 뒤 소송은 최소 열두 건으로 불었고, 몇 주 전에는 유니버설과 소니가 Suno 사건에 6만 1,000곡 이상을 추가해 달라고 나섰다. 워너는 Suno와, 유니버설은 Udio와 이미 법정 밖에서 합의했다. Suno는 공정 이용을 방어 논리로 삼고 있으며 핵심 심리는 2026년 7월 매사추세츠 연방법원 Denise Casper 판사 앞에서 열린다."
+          },
+          {
+            "t": "p",
+            "x": "구글의 답은 결이 다르다. Lyria 3를 내놓으며 \"materials that YouTube and Google has a right to use under our terms of service, partner agreements, and applicable law\"로 학습한다고 밝혔다. 언젠가 유튜브에 올린 내 음악이 약관 동의 한 번으로 학습 재료가 됐다는 뜻으로 읽힌다. 필자는 우선 자기 이름부터 검색해 보라고 권한다. 검색은 무료고 1분이면 끝난다. 다만 아무것도 안 나온다고 안심할 일은 아니다. 이 4종은 연구자들이 공개적으로 추적한 몫일 뿐, 비공개 학습 데이터가 얼마나 더 있는지는 아무도 모른다."
           }
         ]
       }
     }
-  ]
+  ],
+  "date": "2026-07-08"
 }

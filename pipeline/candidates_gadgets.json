@@ -1,174 +1,128 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "gadgets",
+  "now_iso": "2026-07-07T23:46:48Z",
   "window_hours": 336,
-  "now_iso": "2026-07-06T22:49:04Z",
   "items": [
     {
-      "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-01T20:09:31+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/space-x-is-reportedly-testing-a-handheld-ai-device/l-intro-1782937421.jpg",
-      "excerpt": "A report claims SpaceX is internally testing a handheld AI device that would offer a dedicated hardware gateway to xAI's Grok models — Elon Musk publicly called the report 'utterly false', but the rumor adds to the wave of big AI players exploring first-party gadgets."
-    },
-    {
-      "url": "https://www.digitaltrends.com/cool-tech/this-tiny-macbook-accessory-adds-customizable-shortcuts-for-meetings-and-productivity/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-07-05T01:44:34-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-05T140905.053.jpg?resize=1200%2C630",
-      "excerpt": "Project Mirage unveiled Dune, a 50-gram three-button MacBook keypad whose keys change function based on the app in use, offering context-aware shortcuts and AI-powered automation for meetings and productivity apps."
-    },
-    {
-      "url": "https://www.notebookcheck.net/Dune-keypad-adds-three-AI-macro-buttons-to-Apple-MacBook-Air-and-MacBook-Pro.1336041.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-07-06T21:51:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Miage-Dune.jpeg",
-      "excerpt": "The Dune keypad attaches three 'smart' AI macro buttons to a MacBook Air or Pro; their function adapts to the app currently in use, marketed as an aluminum 50-gram AI upgrade for Apple laptops. (Same product as the Digital Trends item — alternate outlet.)"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-07-06T13:24:40-07:00",
-      "og_image": "https://images.macrumors.com/t/NIcNaQpWpjJf34InyyrlQHbkafI=/1600x/article-new/2026/06/watchos-27.jpg",
-      "excerpt": "With watchOS 27 beta 3, Apple switched on Siri AI and a dedicated Siri app on Apple Watch, bringing the LLM-powered assistant to the wrist for the first time."
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-07-06T14:13:16-07:00",
-      "og_image": "https://images.macrumors.com/t/1Wu18buj-c0kPm1rkxzD37YLqos=/2500x/article-new/2026/02/iOS-26-Home-Glass-Feature.jpg",
-      "excerpt": "Apple says the Home app's new Apple Intelligence camera features in iOS 27 — AI-generated summaries and search of smart-home camera footage — will require an iCloud+ plan starting at 2TB, putting a paywall on home-camera AI."
-    },
-    {
-      "url": "https://9to5mac.com/2026/07/04/airpods-pro-with-cameras-leaked-in-ios-27-beta-2-code/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-07-04T13:18:56+00:00",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/airpods-pro-3-ios-27-FI-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Code in iOS 27 beta 2 references an unreleased Apple product that points to camera-equipped AirPods Pro — hardware that would give Apple Intelligence's Visual Intelligence features eyes on the world from your ears."
-    },
-    {
-      "url": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-07-06T19:27:07+00:00",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Apple's latest betas add a disclosure popup for AI features whose processing leaves the device for Google Cloud servers — a notable transparency shift at the on-device/off-device boundary of Siri AI and Apple Intelligence."
-    },
-    {
-      "url": "https://9to5google.com/2026/07/05/google-home-display-ideas/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-05T13:00:00+00:00",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/google-home-speaker-nest-hub-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "With the Gemini-first Google Home Speaker now out, 9to5Google maps what a next-gen 'Google Home Display' smart display should be — the hardware gap in Google's Gemini smart-home lineup."
-    },
-    {
-      "url": "https://www.digitaltrends.com/cool-tech/robots-can-now-see-touch-thanks-to-a-new-color-changing-tactile-sensor/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-07-04T12:29:35-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Robot-Touch-Human-Finger.jpg?resize=1200%2C630",
-      "excerpt": "Scientists developed a color-changing tactile sensor that lets robots visualize touch in real time — a step toward more precise robotic manipulation, prosthetics, and surgery."
-    },
-    {
-      "url": "https://www.techradar.com/tech/in-some-jobs-they-want-to-be-replaced-chinese-robotics-company-agibot-says-humanoids-could-take-over-dangerous-jobs-and-one-day-even-teach-children",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-04T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/J9ohJtN5GcdiYHiUE9XgvH-2560-80.jpg",
-      "excerpt": "Chinese robotics company Agibot lays out its consumer humanoid roadmap: robots taking over 'dangerous' jobs first, with home companions that could one day even teach children."
-    },
-    {
-      "url": "https://www.techradar.com/computing/maybe-robots-dont-need-legs-or-fingers-to-do-laundry-weave-robotics-isaac-1-isnt-pretty-or-super-humanoid-but-it-might-be-ready-to-handle-basic-chores",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-02T19:39:56Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iTBg7uczDkdjVP3NjkaxeW-1920-80.jpg",
-      "excerpt": "Weave Robotics' Isaac 1 is a $7,999 legless home robot on a stalk that folds laundry and handles basic chores — a pragmatic counterpoint to the humanoid home-robot hype."
-    },
-    {
-      "url": "https://www.techradar.com/pro/samsung-is-plotting-to-replace-your-m-2-ssd-with-a-storage-chip-smaller-than-a-fingernail-to-improve-battery-life-and-supercharge-ondevice-ai-inference",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-02T21:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iejV8QZAxdNZqCmirUU7DN-1678-80.png",
-      "excerpt": "Samsung is developing a fingernail-sized storage chip to replace M.2 SSDs in thin devices, promising better battery life and faster on-device AI inference in future laptops and AI PCs."
-    },
-    {
-      "url": "https://www.androidauthority.com/gemini-live-guided-vision-3684463/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-07-06T16:18:22+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Gemini_Live_with_camera_and_screen_sharing_capabilities-scaled.jpg",
-      "excerpt": "Google is prepping a toggle for Gemini Live's 'guided vision' mode, which highlights objects through your phone's camera — giving users finer control over how the assistant sees the world."
-    },
-    {
-      "url": "https://www.androidauthority.com/gemini-live-push-to-talk-3684532/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-07-06T18:38:40+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175549-scaled.jpg",
-      "excerpt": "Gemini Live is working on an optional push-to-talk input mode so the assistant only listens while you hold a button instead of listening constantly — a privacy-minded shift in device voice UX."
-    },
-    {
-      "url": "https://www.androidauthority.com/amazon-echo-not-responding-3683484/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-07-01T19:13:20+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2017/01/Amazon-Echo-AA-1.jpg",
-      "excerpt": "First-generation Amazon Echo speakers are reportedly failing en masse — slow or no responses — highlighting the lifecycle cliff for aging smart speakers left behind by the Alexa+ generative-AI era."
-    },
-    {
-      "url": "https://www.notebookcheck.net/Review-verdict-for-MSI-Claw-8-EX-AI-The-fastest-gaming-handheld.1335380.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-07-06T21:00:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/MSI/Claw_8_EX_AI_CG3EM/msi_claw_8_ex_ai_case_13.JPG",
-      "excerpt": "MSI's Claw 8 EX AI+ is the first device built on Intel's dedicated handheld SoC (Arc G3 Extreme CPU + Arc B390 iGPU), and Notebookcheck's review verdict crowns the AI-branded handheld the fastest in its class."
-    },
-    {
-      "url": "https://gizmodo.com/aqara-camera-hub-g350-review-an-excellent-indoor-matter-camera-2000748785",
+      "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
       "source": "Gizmodo",
       "category": "gadgets",
-      "published_iso": "2026-07-05T13:00:16+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/05/Camera-Hub-G350-main-1200x675.jpg",
-      "excerpt": "Gizmodo reviews the Aqara Camera Hub G350, an indoor Matter smart camera hub with on-board detection smarts — excellent for the AI smart home, if slightly creepy with its bunny ears."
+      "published_iso": "2026-07-07T12:35:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Roomba-Max-775.jpg",
+      "excerpt": "iRobot launched five new self-emptying Roomba robot vacuums priced at or under $1,000 — its first U.S. products since bankruptcy and acquisition by Picea Robotics. The flagship Roomba Max 775 pairs LiDAR mapping and camera obstacle avoidance with a self-cleaning mop dock for 'fully hands-free' operation."
     },
     {
-      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Watch-9-and-Ultra-2-Leak-reveals-new-health-features-and-watch-faces.1335729.0.html",
+      "url": "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-07-07T12:48:11Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/FBt23R3kyU3N7r8eCGx6ef-1920-80.jpg",
+      "excerpt": "Chinese robotics company Agibot brought its full-sized A3 and half-size X2 humanoid robots to a London launch event, pitching robots that 'understand you, talk to you and work for you.' TechRadar met the dancing, 10-hour-battery humanoids up close."
+    },
+    {
+      "url": "https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-07-04T11:30:00-04:00",
+      "og_image": "https://www.engadget.com/img/gallery/only-these-iphone-models-are-getting-the-new-siri-ai-this-fall/intro-1782923551.jpg",
+      "excerpt": "Apple's rebuilt AI-powered Siri launches as a beta in iOS 27 this fall, but only on Apple Intelligence-compatible devices. The iPhone 17 Pro and Pro Max get extra on-device capabilities like expressive voices and improved speech recognition."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/06/ios-27-beta-3/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-07-06T10:23:00-07:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-b3.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "Apple released iOS 27 beta 3, its latest developer build testing the headline 'Siri AI' upgrade — richer conversations, personal context and on-screen awareness powered by next-generation Apple Intelligence — ahead of a fall public launch."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/apple-iring-rumor-returns-oura-ring-rival/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-06-26T05:24:00-07:00",
+      "og_image": "https://images.macrumors.com/t/wIDcTohC0F_zP9BFwS9a6UVkZfA=/400x0/article-new/2026/05/oura-ring-5-scaled.jpg?lossy",
+      "excerpt": "Apple is reportedly developing a smart ring to rival the Oura Ring and Samsung Galaxy Ring, according to leaker Kosutami — reviving the 'iRing' rumor as AI-driven health wearables like the $399 Oura Ring 5 gain momentum."
+    },
+    {
+      "url": "https://www.sammobile.com/news/major-samsung-galaxy-glasses-leak-reveals-many-interesting-details/",
+      "source": "SamMobile",
+      "category": "gadgets",
+      "published_iso": "2026-07-01T10:48:00+02:00",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Glasses-Gentle-Monster-Warby-Parker-1200x675.jpg",
+      "excerpt": "A leaked Galaxy Glasses manager app reveals Samsung's AI eyewear will run One UI XR and integrate with Galaxy watches and rings for gesture control. The glasses, built with Google, Qualcomm, Warby Parker and Gentle Monster, are expected at the July 22 Unpacked."
+    },
+    {
+      "url": "https://www.tomsguide.com/computing/smart-glasses/major-leak-reveals-samsung-galaxy-glasses-controls-pairing-modes-and-how-they-might-work-with-smart-watches-and-rings",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-06-30T22:13:51Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/koFf95UAEm43cQcg3kBfrB-2000-80.jpg",
+      "excerpt": "A major leak details Samsung Galaxy Glasses controls, pairing modes and how the Gemini-powered AI eyewear might work with Galaxy smartwatches and rings. 'Samsung's Galaxy Glasses aren't supposed to launch until the fall but this may be our best look at them yet.'"
+    },
+    {
+      "url": "https://www.notebookcheck.net/Flagship-convertible-with-Snapdragon-X2-Elite-Microsoft-Surface-Pro-OLED-2026-Review.1335724.0.html",
       "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-07-06T12:15:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-Watch-Ultra2-q82-w-h1600.jpg",
-      "excerpt": "Ahead of Samsung's July 22 Unpacked, a leak details the Galaxy Watch 9 and Watch Ultra 2: a new Snapdragon chip to power more on-watch AI, plus new health features, watch faces, and a revamped companion app."
+      "published_iso": "2026-07-07T18:08:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Pro_13_OLED/surface_pro_oled_x2_elite_case_04.JPG",
+      "excerpt": "Notebookcheck reviews the Microsoft Surface Pro OLED 2026, the flagship Copilot+ convertible with Qualcomm's Snapdragon X2 Elite SoC and OLED panel — a look at how far Arm-based NPU AI PCs have come."
+    },
+    {
+      "url": "https://www.notebookcheck.net/Apple-Home-AI-features-in-iOS-27-and-macOS-27-require-expensive-subscription.1336583.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-07-07T11:13:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple-Home.jpg",
+      "excerpt": "Apple's new AI smart home features in iOS 27 and macOS 27 — facial recognition and intelligent video search for home cameras — are locked behind the 2TB iCloud+ tier at $9.99/month, tying AI home hardware features to its priciest subscription."
+    },
+    {
+      "url": "https://www.notebookcheck.net/A-hobbyist-is-building-his-home-AI-a-body-one-sensor-at-a-time.1336766.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-07-07T15:14:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AI-Home-DIY-system.png",
+      "excerpt": "A developer is giving his home AI, Hana, a physical body one sensor at a time — from a self-correcting spatial camera map to health attachments like a pulse oximeter — with hardware-level safety limits blocking autonomous control of water valves and gates."
+    },
+    {
+      "url": "https://gizmodo.com/the-race-to-better-ar-glasses-is-moving-even-faster-than-expected-2000778923",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-06-29T15:50:07Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/03/rayneo-air-4-pro-review-04-1200x675.jpg",
+      "excerpt": "The race to better AR glasses is accelerating: Rokid announced new wired AR glasses with a tri-camera system for spatial tracking and AI environment recognition — and it's not just Google and Xreal's Aura glasses pushing the boundaries."
+    },
+    {
+      "url": "https://www.gsmarena.com/nothing_ear_3a_unveiled_with_anc_and_up_to_42_hours_of_total_battery_life-news-73612.php",
+      "source": "GSMArena",
+      "category": "gadgets",
+      "published_iso": "2026-07-07T17:56:01+02:00",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-ear-3a-ofic/-952x498w6/gsmarena_000.jpg",
+      "excerpt": "Nothing unveiled the $99 Ear (3a) true wireless earbuds with up to 45dB ANC and 42 hours of battery life. Each earbud carries three microphones with AI-powered noise reduction for intelligent sound filtering during calls and recordings."
+    },
+    {
+      "url": "https://www.gsmarena.com/samsung_one_ui_9_galaxy_device_test_list-news-73574.php",
+      "source": "GSMArena",
+      "category": "gadgets",
+      "published_iso": "2026-07-04T11:00:02+02:00",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-prepares-one-ui-9-beta-rollout/-952x498w6/gsmarena_00.jpg",
+      "excerpt": "Samsung is testing One UI 9 on more Galaxy devices ahead of its official debut, with the upcoming foldables first to ship the Android 17-based release out of the box — the OS wave that carries Samsung's next batch of Galaxy AI features."
+    },
+    {
+      "url": "https://www.digitaltrends.com/wearables/apples-rumored-camera-airpods-pro-may-have-hit-a-major-roadblock/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-07-03T18:42:11+00:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/05/apple-airpods-pro-3-2881-scaled.jpg?resize=1200%2C630",
+      "excerpt": "Apple's rumored camera-equipped AirPods Pro — a key piece of its AI wearable roadmap for Visual Intelligence — may have hit a major development roadblock, per a new report."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/07/ios-27-public-beta-is-coming-soon/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-07-07T12:03:37-07:00",
+      "og_image": "https://images.macrumors.com/t/H9CMBRmw3tzFTEh1pfzWGGINEcI=/2500x/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg",
+      "excerpt": "Apple says the iOS 27 public beta arrives this month, bringing the waitlisted Siri AI revamp to a much wider pool of devices ahead of the fall release."
     }
-  ],
-  "notes": {
-    "dedup_dropped": [
-      "gizmodo.com Musk AI device story 2026-07-01 (same story as Engadget SpaceX handheld AI device item)",
-      "9to5mac.com watchOS 27 beta 3 Siri AI story (same story as MacRumors item)",
-      "engadget/gizmodo Google Home Speaker reviews (9to5Google review already published as 07-03 card)",
-      "engadget.com Meta glasses Conversation Focus rate limits 2026-06-30 (overlaps 07-04 'Meta One Premium usage limits' card; smart-glasses saturation per keyword plan)"
-    ],
-    "relevance_dropped": [
-      "uploadvr.com Apple Vision Pro hardware chief leaves for OpenAI 2026-07-01 (exec-move news)",
-      "macrumors.com 16 Apple products roundup 2026-07-02 (general roadmap, weak AI-device hook)",
-      "techradar.com Japan Noetra 10M robots plan 2026-07-05 (policy story; would also exceed TechRadar per-source cap)"
-    ],
-    "stale_dropped": [
-      "digitaltrends.com Timekettle X1 Meeting Hub (2026-06-22T15:00Z, 343h > 336h window)",
-      "tomshardware.com Copilot+ features on discrete GPUs (2026-06-14)",
-      "digitaltrends.com Windows 11 AI without Copilot+ badge (2026-06-11)",
-      "techradar.com Nvidia/Unitree/Sharpa humanoid deal (2026-06-01)",
-      "androidauthority.com OpenAI device unveiling report (2026-01-20)",
-      "plus older Rabbit/Alexa+/Oura/Familiar/Moya items from search (2025-2026 H1)"
-    ],
-    "domains_blocked_from_search": ["theverge.com", "wired.com", "arstechnica.com", "cnet.com", "zdnet.com"]
-  }
+  ]
 }
