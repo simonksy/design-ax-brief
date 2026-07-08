@@ -1,27 +1,18 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "games",
-  "now_iso": "2026-07-07T23:46:48Z",
+  "now_iso": "2026-07-08T21:51:45Z",
   "window_hours": 336,
-  "note": "Wide-funnel target (~16-28) not reachable: the 14-day games window was heavily harvested by the 2026-06-30..07-07 briefs (20 games cards already published). Sweep covered site-scoped WebSearch + RSS feeds of gamedeveloper.com, gamesindustry.biz, pcgamer.com (incl. /software/ai category page), kotaku.com, polygon.com, rockpapershotgun.com, eurogamer.net, vg247.com, destructoid.com (+/tag/ai), thegamer.com, gamespot.com, gamesradar.com, wccftech.com, venturebeat.com, gamingbolt.com, nme.com, aftermath.site (/tag/ai), 80.lv, roadtovr.com, unity.com/blog, unrealengine.com/rss, nvidia.com GeForce news, blog.roblox.com, deepmind.google, plus YouTube channel RSS for Unreal Engine, Unity, GDC, Two Minute Papers (and Inworld AI attempt). Everything else AI-related in-window was either already covered (Godot ban, Sweeney/Valve AI labels, EA creativity, Gaider, AoE2 study, Steam AI stigma, Sony annual-report AI, C&C vibe-port, Unity AI audit, caveman agents, JGS2, MetaHuman sizzle, Amazon AI guides, Hasbro voices, wildchat, Broche) or verified stale via og/JSON-LD published_time (UE 5.8 MCP video Jun 23 18:00Z misses the window by ~6h; Kotaku NVIDIA ArtFixer Jun 23 13:30Z; Aftermath UE6 dev-react Jun 17; NVIDIA ACE Game Agent SDK Jun 16; GI.biz 'AI costs' opinion Jun 19; GamesRadar Next Fest AI count Jun 16; Hi3D-adjacent 80.lv AI pieces May/Jun). GI.biz Jul 7 'Sony leadership says AI tools foundational' was skipped as a re-tread of the covered 7/02 Sony annual-report card. The 6 below are all deterministically FRESH via freshness.py and not previously covered.",
+  "note": "Wide-funnel target (~16-28) not reachable: the 14-day games window is near-exhausted after 24 cards published 6/30-7/8. Sweep covered RSS feeds of gamedeveloper.com, gamesindustry.biz, pcgamer.com, kotaku.com, gamesradar.com, polygon.com (feed unreachable, site-scoped search returned nothing new), rockpapershotgun.com, eurogamer.net, vg247.com, destructoid.com, thegamer.com (feed unreachable), gamespot.com, ign.com, nme.com, wccftech.com, venturebeat.com/games (Cloudflare-blocked; site search showed no in-window AI items), gamingbolt.com, aftermath.site (/tag/ai), 80.lv, roadtovr.com, unrealengine.com/rss, blogs.nvidia.com, nvidia.com GeForce news, inworld.ai/blog (latest post May 14), roblox devforum/newsroom (latest AI announce Apr 16), plus YouTube channel feeds for Unreal Engine, Unity, GDC, Inworld AI, Two Minute Papers. Per override, re-verified the UE 5.8 MCP video (F2cWJFcTft4, uploaded 2026-06-23T18:00:25Z): with now=2026-07-08T21:51:45Z the window start is Jun 24 21:51Z, so it gates STALE (it moved further OUT of window, not in); same for the UE6 video (Jun 24 18:00Z) and 'Unreal Engine 6: Verse' (Jun 24 20:00Z). Everything else AI-related in-window was already covered (Godot ban, Sweeney/Valve labels, EA creativity, Gaider 7/1 card, Szymanski, AoE2 study, Steam AI stigma, Sony annual-report AI + its 7/7 GI.biz re-tread, Broche, wildchat, Amazon AI guides, Hasbro child voices, C&C vibe-port, Unity asset audit, caveman tokens, JGS2, MetaHuman sizzle, Amano, UE image/video gen, Unity scene AI, Dreamcast slop) or verified stale via meta published_time (Tomb Raider genAI cluster Jun 11-12; Kotaku WWE AI dub May 25; Hasbro CEO no-genAI cluster Mar; NVIDIA DLSS 4.5 dev posts Apr 30; Ubisoft Teammates Nov 2025; GDC AI clips + Inworld videos all pre-Jun 24; TMP 'AI Just Entered A New Era' Jul 1 is GLM 5.2, not games; Aftermath 7/8 AI-education piece off-topic). The 6 below are all deterministically FRESH via freshness.py, uncovered, and within per-source caps (5 distinct outlets; NVIDIA GeForce news x2).",
   "items": [
     {
-      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
-      "title": "Final Fantasy artist Yoshitaka Amano explains why AI can't replace human creativity",
-      "source": "Polygon",
+      "url": "https://www.pcgamer.com/software/ai/slopfix-a-software-team-is-charging-up-to-usd10-000-to-clean-up-ai-generated-code-with-the-help-of-checks-notes-ai/",
+      "title": "'Slopfix': A software team is charging up to $10,000 to clean up AI-generated code, with the help of *checks notes* AI",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-07-07T18:30:20Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/img_6751.JPG?w=1200&h=675&fit=crop",
-      "excerpt": "Interviewed at Anime Expo about ZAN, his new hand-drawn animated series, legendary Final Fantasy artist Yoshitaka Amano says he sees AI as a tool, not an enemy — but insists 'only humans can create the original,' arguing hand-drawn imperfection matters more than ever in an age of generative art."
-    },
-    {
-      "url": "https://www.gamesradar.com/hardware/retro/sega-is-seemingly-letting-ai-turn-its-dreamcast-keychains-into-slop-but-the-final-product-could-be-safe/",
-      "title": "Sega is seemingly letting AI turn its Dreamcast keychains into slop, but the final product could be safe",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-07-07T12:32:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NHUvfgQ2PsQUt3Q2uRsFBB-1920-80.jpg",
-      "excerpt": "Promo images for officially licensed Sega Dreamcast controller keychains appear AI-altered — zooming into the Sega logo reveals vague cursive-shaped lines instead of real letters — the latest case of AI-generated marketing art slipping into licensed game merchandise."
+      "published_iso": "2026-07-08T15:22:46Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pmiZmnzKJMigLWmND6869K-2560-80.jpg",
+      "excerpt": "A software team is charging up to $10,000 to 'fix' broken vibe-coded projects — using AI to clean up AI-generated code. A pointed snapshot of where the vibe-coding boom lands for small studios and solo devs: 'who fixes the fixes?'"
     },
     {
       "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
@@ -30,34 +21,43 @@
       "category": "games",
       "published_iso": "2026-07-06T13:07:00+00:00",
       "og_image": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg",
-      "excerpt": "80 Level put Hi3D's AI 3D-maker platform through a full pipeline test: from a single text prompt to concept variations, watertight auto-repaired meshes, and a fully assembled, print-ready Space Marine miniature — a working text-to-physical-collectible workflow for game artists."
+      "excerpt": "80 Level put Hi3D's AI 3D-maker platform through a full pipeline test: from a single text prompt to concept variations, watertight auto-repaired meshes, and a fully assembled, print-ready Space Marine miniature — a working text-to-physical-collectible workflow for game artists. (Re-offered: fresh and uncovered from 7/8 pool.)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=LGvsShWEH3k",
-      "title": "Using UE with Image and Video Generation (Coming Soon) | State of Unreal | Unreal Fest Chicago 2026",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
-      "published_iso": "2026-06-24T07:00:05-07:00",
-      "og_image": "https://i.ytimg.com/vi/LGvsShWEH3k/maxresdefault.jpg",
-      "excerpt": "Epic's State of Unreal session shows how Unreal Engine tools used in tandem with image and video generation models let artists direct generative output with 'greater intention and creative control' — an official look at how genAI plugs into the UE art pipeline, coming soon."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=mGuaRAWdXPA",
-      "title": "Unreal Engine 6 | State of Unreal | Unreal Fest Chicago 2026",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
-      "published_iso": "2026-06-24T11:00:19-07:00",
-      "og_image": "https://i.ytimg.com/vi/mGuaRAWdXPA/maxresdefault.jpg",
-      "excerpt": "Epic's official Unreal Engine 6 vision video: UE6 is pitched as evolving how games are shipped and operated — better rendering, faster cook times, and deep AI-assisted workflows baked into the engine. Note: the UE6 announcement itself dates to the Jun 17-18 State of Unreal show (this official video posted Jun 24); dev backlash to its AI features was covered by Aftermath on Jun 17 (outside window)."
-    },
-    {
-      "url": "https://www.youtube.com/shorts/_D26zKNPX7s",
-      "title": "Spend less time on scene setup with Unity AI",
+      "url": "https://www.youtube.com/watch?v=7FtJiOTYtP0",
+      "title": "Set up and debug faster with Unity AI",
       "source": "Unity (YouTube)",
       "category": "games",
-      "published_iso": "2026-07-06T06:57:03-07:00",
-      "og_image": "https://i.ytimg.com/vi/_D26zKNPX7s/maxresdefault.jpg",
-      "excerpt": "New official Unity short demos Unity AI (Beta) automating scene setup so developers spend more time iterating on ideas — a sibling feature to the asset-audit workflow covered on 7/07, this one focused on AI-driven scene assembly inside the editor."
+      "published_iso": "2026-06-29T06:00:37-07:00",
+      "og_image": "https://i.ytimg.com/vi/7FtJiOTYtP0/maxresdefault.jpg",
+      "excerpt": "Official Unity video shows Unity AI (Beta) setting up and debugging animation state machines, behavior trees, and transitions from prompts 'so you can focus on game feel' — a third pillar of the Unity AI workflow after the asset-audit (7/7 card) and scene-setup (7/8 card) demos. Note outlet overlap: Unity (YouTube) had cards on 7/7 and 7/8."
+    },
+    {
+      "url": "https://www.nvidia.com/en-us/geforce/news/doom-the-dark-ages-revelations-dlss-path-tracing/",
+      "title": "DOOM: The Dark Ages | Revelations Launches Today Including DLSS Multi Frame Generation & Path Tracing",
+      "source": "NVIDIA GeForce News",
+      "category": "games",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/doom-the-dark-ages-revelations-dlss-4-5-path-tracing/doom-the-dark-ages-revelations-dlss-path-tracing-ogimage.jpg",
+      "excerpt": "id Software's DOOM: The Dark Ages expansion Revelations ships with neural rendering across the board — DLSS Multi Frame Generation up to 6X, Super Resolution, and path tracing with Ray Reconstruction (up to 310 fps at 4K on RTX 5090); Assassin's Creed Black Flag Resynced follows July 9. Published time from on-page date (July 7, 2026); no article:published_time meta on nvidia.com."
+    },
+    {
+      "url": "https://www.nvidia.com/en-us/geforce/news/june-2026-dlss-games-summer-of-rtx/",
+      "title": "June's DLSS Games Lineup Levels Up and Summer Of RTX",
+      "source": "NVIDIA GeForce News",
+      "category": "games",
+      "published_iso": "2026-06-30T00:00:00Z",
+      "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/june-2026-dlss-games-summer-of-rtx/og-1200x630-copy.jpg",
+      "excerpt": "NVIDIA's June roundup of games adding AI-powered DLSS upscaling and frame generation, kicking off the 'Summer of RTX' push — a running index of how fast neural rendering is spreading through shipping games. Published time from on-page date (June 30, 2026); no article:published_time meta on nvidia.com."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IRlduPJT9M0",
+      "title": "Didn't catch this year's State of Unreal live? Got you with a highlight of the key announcements",
+      "source": "Unreal Engine (YouTube)",
+      "category": "games",
+      "published_iso": "2026-06-26T09:00:22-07:00",
+      "og_image": "https://i.ytimg.com/vi/IRlduPJT9M0/maxresdefault.jpg",
+      "excerpt": "Epic's official highlight reel of State of Unreal 2026's key announcements — including UE6's AI-assisted workflows and the image/video-generation pipeline — in one short recap. Weakest item in the pool: a recap of announcements whose individual videos (UE6, UE image-gen) are now stale or already carded; include only if the curator needs a fifth-plus slot."
     }
   ]
 }

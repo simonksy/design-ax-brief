@@ -1,27 +1,26 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "movies",
-  "note": "OVERRIDE run: user requested ALL keywords (no rotation). Working set = all core + entire movies pool, minus keywords already covered in the last 2 days of news_data.json (skipped: 'Runway film' — Runway Agent 2.0 card 07-07; 'Hollywood AI' — Tilly Norwood 'Misaligned' card 07-07 + Foster/Feig/Artificial cards 07-04 block; 'AI animation film' — Curious Refuge anime + SIGGRAPH/DeepMind cards 07-07 and Next Lab Quill/Magnific card 07-06; 'Luma film' — Young Washington/Luma card 07-06).",
+  "note": "OVERRIDE run: user requested ALL keywords (no rotation). Working set = all core + entire movies pool, minus keywords already covered in the last 2 days (07-07/07-08) of news_data.json (skipped: 'AI VFX' — Corridor Crew AI VFX workflow card 07-08; 'Runway film' — Runway Agent 2.0 card 07-07; 'deepfake film' — AI face anonymization doc card 07-07 + AI actor Tilly Norwood card 07-07; 'AI color grading' — Beeble SwitchHDR SDR-to-HDR card 07-08; 'AI animation film' — SIGGRAPH CAF/DeepMind card + Curious Refuge anime tutorial card 07-07; 'Hollywood AI' — Midjourney-studios discovery, A24×DeepMind, Hasbro voices cards 07-08). 'Luma film' returns today (its card was 07-06, outside the 2-day window).",
   "user_seeds": [],
   "skipped_recently_covered": [
+    "AI VFX",
     "Runway film",
-    "Hollywood AI",
+    "deepfake film",
+    "AI color grading",
     "AI animation film",
-    "Luma film"
+    "Hollywood AI"
   ],
   "seeds": [
     "AI film",
     "AI 영화",
     "AI filmmaking",
     "generative video film",
-    "AI VFX",
     "Sora film",
     "virtual production AI",
     "AI de-aging",
     "AI storyboard previs",
     "AI screenwriting",
-    "deepfake film",
-    "AI color grading",
     "AI rotoscoping",
     "AI dubbing lip sync",
     "AI short film",
@@ -31,6 +30,7 @@
     "AI trailer",
     "AI film restoration",
     "Kling film",
+    "Luma film",
     "AI scene generation"
   ],
   "working_keywords": [
@@ -55,11 +55,6 @@
       "expansions": ["generative video model filmmaking", "Google Veo film", "Seedance film production", "gen-video studio pipeline"]
     },
     {
-      "keyword": "AI VFX",
-      "type": "pool",
-      "expansions": ["AI visual effects pipeline", "machine learning VFX studio", "AI compositing tool", "Wonder Dynamics Autodesk"]
-    },
-    {
       "keyword": "Sora film",
       "type": "pool",
       "expansions": ["OpenAI Sora filmmaker", "Sora 2 short film", "Sora Hollywood deal", "Sora cameo film"]
@@ -72,32 +67,22 @@
     {
       "keyword": "AI de-aging",
       "type": "pool",
-      "expansions": ["digital de-aging actor", "AI face replacement film", "Metaphysic de-aging"]
+      "expansions": ["digital de-aging actor", "AI face replacement film", "Metaphysic de-aging", "AI 디에이징"]
     },
     {
       "keyword": "AI storyboard previs",
       "type": "pool",
-      "expansions": ["AI previsualization tool", "AI storyboard generator film", "generative previs pipeline"]
+      "expansions": ["AI previsualization tool", "AI storyboard generator film", "generative previs pipeline", "AI concept art film"]
     },
     {
       "keyword": "AI screenwriting",
       "type": "pool",
-      "expansions": ["AI script writing Hollywood", "writers guild AI rules", "AI script development studio"]
-    },
-    {
-      "keyword": "deepfake film",
-      "type": "pool",
-      "expansions": ["digital likeness rights actor", "synthetic performer film", "deepfake consent movie", "AI 딥페이크 배우"]
-    },
-    {
-      "keyword": "AI color grading",
-      "type": "pool",
-      "expansions": ["AI color grading DaVinci Resolve", "Colourlab Ai", "automatic color grade film"]
+      "expansions": ["AI script writing Hollywood", "writers guild AI rules", "AI script development studio", "AI 시나리오 도구"]
     },
     {
       "keyword": "AI rotoscoping",
       "type": "pool",
-      "expansions": ["AI roto tool VFX", "machine learning rotoscope", "AI green screen keying"]
+      "expansions": ["AI roto tool VFX", "machine learning rotoscope", "AI matte extraction compositing"]
     },
     {
       "keyword": "AI dubbing lip sync",
@@ -117,7 +102,7 @@
     {
       "keyword": "AI motion capture",
       "type": "pool",
-      "expansions": ["markerless motion capture AI", "Move AI mocap", "AI performance capture film"]
+      "expansions": ["markerless motion capture AI", "Move AI mocap", "AI performance capture film", "Wonder Dynamics Autodesk"]
     },
     {
       "keyword": "neural rendering film",
@@ -132,12 +117,17 @@
     {
       "keyword": "AI film restoration",
       "type": "pool",
-      "expansions": ["AI remaster 4K classic film", "film archive AI restoration", "AI upscaling restoration workflow"]
+      "expansions": ["AI remaster 4K classic film", "film archive AI restoration", "AI upscaling restoration workflow", "필름 복원 AI"]
     },
     {
       "keyword": "Kling film",
       "type": "pool",
       "expansions": ["Kling 2.5 filmmaker", "Kuaishou Kling AI video", "Kling AI film contest"]
+    },
+    {
+      "keyword": "Luma film",
+      "type": "pool",
+      "expansions": ["Luma Dream Machine film", "Luma Ray3 filmmaking", "Luma AI video model update"]
     },
     {
       "keyword": "AI scene generation",
@@ -175,41 +165,40 @@
         "engadget.com",
         "80.lv",
         "techcrunch.com",
-        "openai.com"
+        "openai.com",
+        "lumalabs.ai"
       ],
       "queries": [
         "AI film industry news July 2026",
-        "AI filmmaking tools release 2026",
-        "generative AI movie production case study",
-        "AI 영화 제작 2026",
-        "생성형 AI 영화제 소식",
-        "OpenAI Sora film director 2026",
-        "Sora 2 short film Hollywood",
-        "Kling 2.5 AI film 2026",
-        "Kuaishou Kling filmmaker project",
-        "Google Veo film production 2026",
-        "text-to-video model film release July 2026",
-        "generative video studio pipeline feature film",
-        "AI VFX pipeline studio adoption 2026",
-        "machine learning visual effects tool news",
-        "AI rotoscoping keying VFX tool release",
-        "AI color grading DaVinci Resolve Colourlab 2026",
-        "AI film restoration 4K remaster archive 2026",
-        "AI de-aging face replacement actor film 2026",
-        "Metaphysic AI likeness film news",
-        "AI motion capture markerless Move AI film",
-        "neural rendering Gaussian splatting film production",
-        "AI set extension scene generation film VFX",
-        "virtual production AI LED volume 2026",
-        "AI storyboard previs tool filmmakers 2026",
-        "AI screenwriting script tool Hollywood news",
-        "AI dubbing lip sync film localization Flawless",
+        "AI filmmaking workflow case study 2026",
+        "AI 영화 제작 소식 2026",
+        "생성형 AI 영화 산업",
+        "generative video model feature film production",
+        "OpenAI Sora filmmaker film 2026",
+        "Sora 2 Hollywood short film",
+        "Google Veo text-to-video film 2026",
+        "text-to-video cinema quality filmmakers",
+        "Kling AI film project 2026",
+        "Luma Dream Machine Ray3 film",
+        "virtual production AI LED volume generative backgrounds",
+        "AI de-aging actor face replacement 2026",
+        "Metaphysic digital likeness film news",
+        "AI storyboard previs tool director 2026",
+        "AI previsualization generative pipeline film",
+        "AI screenwriting Hollywood script tool news",
+        "AI 시나리오 각본 도구 영화",
+        "AI rotoscoping roto VFX tool release",
+        "AI dubbing visual lip sync film Flawless TrueSync",
         "AI 더빙 립싱크 영화 현지화",
-        "AI generated movie trailer studio marketing",
-        "deepfake digital likeness rights film 2026",
         "AI short film festival winner July 2026",
-        "AI 단편 영화 공모 수상",
-        "AI film breakthrough this week"
+        "AI 단편 영화 수상",
+        "AI markerless motion capture Move AI film",
+        "Wonder Dynamics performance capture update 2026",
+        "neural rendering Gaussian splatting film production",
+        "AI generated movie trailer studio marketing",
+        "AI film restoration 4K remaster archive 2026",
+        "AI scene generation set extension VFX",
+        "AI cinema breakthrough this week"
       ]
     },
     {
@@ -221,17 +210,16 @@
         "youtube.com",
         "youtu.be"
       ],
-      "rotation_note": "day-of-year 189 % 5 = 4 → start at fxguide; Runway (Agent 2.0 card 07-07) and Curious Refuge (anime tutorial card 07-07) covered recently, so emphasize fxguide, Corridor Crew, Matt Wolfe today.",
+      "rotation_note": "Runway (Agent 2.0 card 07-07), Curious Refuge (anime tutorial card 07-07) and Corridor Crew (AI VFX workflow card 07-08) all covered in the last 2 days → emphasize Matt Wolfe and fxguide today.",
       "queries": [
-        "site:youtube.com fxguide AI VFX film 2026",
-        "site:youtube.com Corridor Crew AI VFX 2026",
-        "site:youtube.com Matt Wolfe AI video film 2026"
+        "site:youtube.com Matt Wolfe AI film video 2026",
+        "site:youtube.com fxguide AI VFX 2026"
       ]
     }
   ],
   "totals": {
-    "working_keywords": 22,
+    "working_keywords": 20,
     "categories": 2,
-    "queries": 35
+    "queries": 32
   }
 }

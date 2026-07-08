@@ -1,30 +1,32 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
+  "section": "gadgets",
   "media": [
     {
-      "id": "roomba-five",
+      "id": "agibot-humanoids",
       "type": "image",
-      "src": "pipeline/media/roomba-five.jpg"
+      "src": "pipeline/media/agibot-humanoids.jpg"
     },
     {
-      "id": "galaxy-glasses-leak",
+      "id": "visionos27-beta3",
       "type": "image",
-      "src": "pipeline/media/galaxy-glasses-leak.jpg"
+      "src": "pipeline/media/visionos27-beta3.jpg"
     },
     {
-      "id": "ios27-beta",
+      "id": "ryzen-ai-halo",
       "type": "image",
-      "src": "pipeline/media/ios27-beta.jpg"
+      "src": "pipeline/media/ryzen-ai-halo.jpg"
     },
     {
-      "id": "nothing-ear3a",
-      "type": "image",
-      "src": "pipeline/media/nothing-ear3a.jpg"
+      "id": "nothing-phone4b",
+      "type": "video",
+      "src": "pipeline/media/nothing-phone4b.mp4",
+      "poster": "pipeline/media/nothing-phone4b.jpg"
     },
     {
-      "id": "surface-pro-oled",
+      "id": "home-camera-paywall",
       "type": "image",
-      "src": "pipeline/media/surface-pro-oled.jpg"
+      "src": "pipeline/media/home-camera-paywall.jpg"
     }
   ]
 }

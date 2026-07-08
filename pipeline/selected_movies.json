@@ -1,75 +1,76 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "movies",
   "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
-      "source": "No Film School",
-      "tool": "Beeble",
+      "url": "https://beforesandafters.com/2026/06/26/reallusion-unlocks-limitless-creation-iclone-personal-debuts-alongside-ai-studio-official-launch/",
+      "source": "befores & afters",
+      "tool": "Reallusion",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Freshest, most actionable craft-tool release: HDR reconstruction from SDR changes finishing, remastering and deliverable pipelines tomorrow.",
-      "published_iso": "2026-07-07T21:29:01Z",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67106787&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "excerpt": "Beeble has released SwitchHDR, a new frontier AI model that reconstructs HDR imagery from conventional SDR video — promising a way to bring dynamic range into footage that never had it, for post, delivery and restoration workflows.",
+      "rationale": "Most actionable tool-access shift in the pool: a pro character-animation pipeline goes free while its AI layer officially launches, lowering the barrier for indie previs and animation work tomorrow.",
+      "published_iso": "2026-06-25T23:11:39Z",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/06/00_ic-ai-grand-launch-Free-for-All-Users.jpg",
+      "excerpt": "Reallusion debuts iClone Personal (free for all users) alongside the official public launch of AI Studio, folding AI-assisted character animation into its pipeline, with an RTX render engine open beta following in late July.",
       "category": "movies"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Z36LDna4nZg",
-      "source": "Corridor Crew",
-      "tool": "Corridor Crew",
+      "url": "https://www.youtube.com/watch?v=bxdsBsbtoSg",
+      "source": "Matt Wolfe (YouTube)",
+      "tool": "Matt Wolfe",
       "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "High-craft, shot-by-shot demo of AI relighting/keying replacing a green-screen pipeline — distinct workflow story that pairs with the SwitchHDR release.",
-      "published_iso": "2026-07-05T16:00:26+00:00",
-      "og_image": "https://i.ytimg.com/vi/Z36LDna4nZg/maxresdefault.jpg",
-      "excerpt": "Corridor Crew reveals the AI VFX workflow behind their new season: Beeble's SwitchLight AI relighting plus their own CorridorKey keying let them composite actors into scenes without a traditional green-screen pipeline.",
+      "rationale": "Hands-on look at new AI editing agents taking over timeline work — editing is the least-AI-covered craft in this section's recent run, making it the strongest social pick for novelty.",
+      "published_iso": "2026-07-08T00:09:25Z",
+      "og_image": "https://i.ytimg.com/vi/bxdsBsbtoSg/maxresdefault.jpg",
+      "excerpt": "A hands-on look at new AI video-editing agents that take over timeline editing work, and what that means for editors' workflows. Upload date verified via watch-page JSON-LD (2026-07-07T17:09:25-07:00).",
       "category": "social"
     },
     {
-      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
-      "source": "Variety",
-      "tool": "Midjourney",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "The studios-vs-AI lawsuit turned inside out — Hollywood's own AI use becomes evidence, shaping how openly studios can adopt generative tools.",
-      "published_iso": "2026-07-02T20:13:57+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2025/09/Screen-Shot-2025-09-04-at-1.13.03-PM.png?w=647&h=317&crop=1",
-      "excerpt": "Midjourney is appealing a magistrate judge's order limiting discovery into how Disney, Universal and Warner Bros. themselves use AI in their shows and movies, seeking to put studios' internal AI use on the record as part of its fair-use defense.",
-      "category": "movies"
-    },
-    {
-      "url": "https://nofilmschool.com/a24-google-deepmind",
-      "source": "No Film School",
-      "tool": "A24",
+      "url": "https://www.animationmagazine.net/2026/07/days-of-future-shock-what-to-expect-at-siggraph-2026/",
+      "source": "Animation Magazine",
+      "tool": "SIGGRAPH 2026",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Strongest single angle on the A24×DeepMind story family (explainer kept; Deadline defense and THR boycott pieces dropped as same-story duplicates) — filmmaker-workflow framing of the most consequential studio-AI deal right now.",
-      "published_iso": "2026-06-30T22:05:18Z",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=60146940&width=1200&height=600&coordinates=0%2C30%2C0%2C31",
-      "excerpt": "No Film School unpacks A24's $75M research partnership with Google DeepMind — what the studio actually gets (AI storyboard tools, DeepMind researchers working alongside filmmakers) and whether the 'AI is infecting Hollywood' panic fits the facts.",
+      "rationale": "Forward map of where film/animation AI craft is heading in the next two weeks — a distinct conference-tech angle from the already-published CAF festival-awards card.",
+      "published_iso": "2026-07-07T21:48:33Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-floor-sign.jpg",
+      "excerpt": "A preview of SIGGRAPH 2026 (July 19-23, Los Angeles) as a snapshot of the new technologies — from generative AI to neural rendering — impacting the animation and VFX worlds this year.",
       "category": "movies"
     },
     {
-      "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
-      "source": "The Hollywood Reporter",
-      "tool": "Hasbro",
+      "url": "https://variety.com/2026/film/trailers/soulm8te-trailer-m3gan-spinoff-release-date-digital-1236526486/",
+      "source": "Variety",
+      "tool": "Soulm8te",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "AI-on-screen story in the section's established lane; the straight-to-digital pivot is also a datapoint on how studios position AI-themed genre films.",
+      "published_iso": "2026-07-08T13:30:17Z",
+      "og_image": "https://variety.com/wp-content/uploads/2025/09/soulmate.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Universal's 'M3GAN' AI-robot spinoff 'Soulm8te' unveils its killer-robot-girlfriend trailer and moves to a straight-to-digital release (August 1) after being pulled from the theatrical calendar.",
+      "category": "movies"
+    },
+    {
+      "url": "https://variety.com/2026/film/global/harvey-keitel-daphna-kastner-ai-michael-caine-1236801929/",
+      "source": "Variety",
+      "tool": "Harvey Keitel",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Voice-cloning consent at its sharpest edge case — minors — setting precedents for likeness and voice rights across screen production.",
-      "published_iso": "2026-06-25T17:19:49Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/peppa-pig-george-deaf.png?w=1440&h=810&crop=1",
-      "excerpt": "Hasbro's contracts for shows including Peppa Pig allegedly ask child voice actors to sign away rights for AI use of their voices; a UK agents' association warns a parent's approval 'should never be a blanket licence to capture, clone, train, or reuse a child's voice indefinitely.'",
+      "rationale": "Extends the performer voice/likeness thread (Hasbro child-voices card) with a marquee actor's public refusal — a distinct new story from the Caine-licensing item published in Books.",
+      "published_iso": "2026-07-05T18:12:46Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/07/VARIETY-SIZING-22.png?w=1000&h=563&crop=1",
+      "excerpt": "Harvey Keitel, shooting a new film written by Daphna Kastner, warns of the 'danger' in actors like Michael Caine licensing their voices to AI — the latest flashpoint in the performer-likeness debate.",
       "category": "movies"
     }
   ],
   "dedup_notes": {
     "dropped_as_duplicates": [
-      "mattwolfe-vibe-directing (content dupe of openart-director card published 2026-07-06)",
-      "a24-defends-google + a24-still-cool (same story family as a24-google-deepmind-explainer — one angle kept)"
+      "borisfx-izotope (RedShark) — Boris FX/iZotope acquisition already published 2026-07-07 in this section (postPerspective card)",
+      "mattwolfe-vibe-direct-short-films (mCu3mVcvpLE) — content dup of the 2026-07-06 OpenArt vibe-directing card",
+      "mattwolfe-easy-ai-vfx (Zq5Yj8yCiqY) — deduped within-pool against the kept Matt Wolfe editing video (one Matt Wolfe max); editing angle chosen as stronger and non-overlapping with the 7/8 Corridor Crew AI-VFX card"
     ],
-    "history_checked": "movies section today 2026-07-07 (tilly-misaligned, friend-pornstar, siggraph-caf, runway-agent2, cr-anime) + days 2026-07-06/07-04/07-02/07-01; no URL or content overlap with the 5 picks",
-    "diversity": "outlets: nofilmschool.com x2, youtube.com x1, variety.com x1, hollywoodreporter.com x1 — 4 distinct outlets, max 2 per outlet"
+    "history_checked": "candidates_filtered_movies.json is already URL-deduped vs the last 5 days of movies history; applied the supplied content-dedup facts (Boris FX/iZotope, vibe-directing, Caine-in-Books vs Keitel-distinct). No URL or content overlap with the 5 picks.",
+    "diversity": "outlets: beforesandafters.com x1, youtube.com x1, animationmagazine.net x1, variety.com x2 — 4 distinct outlets, max 2 per outlet. Story-type spread: tool launch / hands-on tutorial / conference roadmap / AI film release / likeness discourse."
   }
 }

@@ -1,31 +1,32 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
+  "section": "music",
   "media": [
     {
-      "id": "lumen-synth",
-      "type": "image",
-      "src": "pipeline/media/lumen-synth.jpg"
-    },
-    {
-      "id": "ableton-learn",
-      "type": "image",
-      "src": "pipeline/media/ableton-learn.png"
-    },
-    {
-      "id": "viberate-mcp",
-      "type": "image",
-      "src": "pipeline/media/viberate-mcp.jpg"
-    },
-    {
-      "id": "skrillex-032c",
-      "type": "image",
-      "src": "pipeline/media/skrillex-032c.jpg"
-    },
-    {
-      "id": "atlantic-watchdog",
+      "id": "peel-stems2",
       "type": "video",
-      "src": "pipeline/media/atlantic-watchdog.mp4",
-      "poster": "pipeline/media/atlantic-watchdog.jpg"
+      "src": "pipeline/media/peel-stems2.mp4",
+      "poster": "pipeline/media/peel-stems2.jpg"
+    },
+    {
+      "id": "waveform14",
+      "type": "image",
+      "src": "pipeline/media/waveform14.jpg"
+    },
+    {
+      "id": "yamaha-creatorpass",
+      "type": "image",
+      "src": "pipeline/media/yamaha-creatorpass.png"
+    },
+    {
+      "id": "musixmatch-hack",
+      "type": "svg"
+    },
+    {
+      "id": "bootleg-vs",
+      "type": "video",
+      "src": "pipeline/media/bootleg-vs.mp4",
+      "poster": "pipeline/media/bootleg-vs.jpg"
     }
   ]
 }

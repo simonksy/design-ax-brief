@@ -1,80 +1,134 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "design",
-  "now_iso": "2026-07-07T23:46:48Z",
   "window_hours": 72,
+  "now_iso": "2026-07-08T21:51:45Z",
   "items": [
     {
-      "url": "https://www.figma.com/release-notes/",
-      "title": "Run multiple AI image edits and keep designing while they load",
-      "source": "Figma Release Notes",
+      "url": "https://www.builder.io/blog/how-kpmg-closed-the-design-to-engineering-gap",
+      "title": "How KPMG Closed the Design-to-Engineering Gap with Builder",
+      "source": "Builder.io",
       "category": "figma",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's Jul 7 release note: designers can now fire off multiple AI image edits simultaneously from the toolbar and keep designing while they load — no more waiting for one edit to finish before starting the next. (Page dated 'Jul 7, 2026'; no per-entry permalink, entry title above.)"
+      "published_iso": "2026-07-06",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7464784da1384373989caf168c5c2600?format=webp&width=800",
+      "excerpt": "KPMG adopted Builder's AI design-intelligence system to close the design-to-engineering gap, cutting delivery time 88% by driving component-based code generation with explicit architectural rules instead of probabilistic pattern inference. Design review cycles dropped from 10 days to same-day turnaround."
     },
     {
-      "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
-      "title": "Meta built an AI detection tool to ID images and video created with its new models",
-      "source": "Engadget",
+      "url": "https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59",
+      "title": "The crisis of the what: AI took the how. Now it's coming for the what",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-07-07T22:51:17Z",
+      "og_image": "https://miro.medium.com/v2/resize:fill:1024:539/g:fp:0.5:0.53/1*zfuWweayeuqebNzT7mbawQ.png",
+      "excerpt": "UX Collective essay arguing that AI has already absorbed the 'how' of design execution and is now moving on the 'what' — the framing and problem-definition work designers considered safe — and what that means for the discipline's next role."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/07/otoy-releases-octanerender-2026-4/",
+      "title": "Otoy releases OctaneRender 2026.4",
+      "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-07-07T19:23:00-04:00",
-      "og_image": "https://www.engadget.com/img/gallery/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/intro-1783466213.jpg",
-      "excerpt": "Meta previewed a web-based detector that reads Content Seal, the invisible watermark embedded in images made with its new Muse Image model (video via the upcoming Muse Video to follow). The mark survives cropping, compression and screenshots — but is incompatible with SynthID and C2PA Content Credentials, an interoperability headache for creatives."
+      "published_iso": "2026-07-07",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260707_OctaneRender20264_f.jpg",
+      "excerpt": "Otoy's GPU renderer update expands the Neural Radiance Cache — a neural network trained at render time to cut noise in indirectly lit scenes — to macOS and network rendering, and extends 3D Gaussian Splatting support."
     },
     {
-      "url": "https://www.engineering.com/trimble-adds-ai-tools-to-mep-estimating-software/",
-      "title": "Trimble adds AI tools to MEP estimating software",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-07-07T13:03:16+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/07/Trimble-adds-AI-tools-to-MEP-estimating-software.png",
-      "excerpt": "Trimble baked AI into its MEP estimating tools: automatic drawing-scale/naming detection, AI symbol counting from construction drawings (3M+ symbols auto-detected, manual takeoff time cut 50–60%), auto-routed conduit length takeoff, and a natural-language AI Smart Assistant in Accubid Anywhere (80%+ time saved on historical-pricing research)."
+      "url": "https://www.cgchannel.com/2026/07/reallusion-releases-headshot-3-0/",
+      "title": "Reallusion releases Headshot 3.1",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-07-07",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/04/260428_Headshot3_AIImageGenerator.jpg",
+      "excerpt": "Reallusion updated its AI head-generation plugin for Character Creator with new texture-editing tools and integrated Google Nano Banana image generation, so 3D digital doubles from reference photos can be refined without leaving the software."
     },
     {
       "url": "https://80.lv/articles/this-new-free-tool-automatically-creates-clean-quad-topology",
-      "title": "AutoRemesher 1.0: free tool automatically creates clean quad topology",
+      "title": "New Free Tool Automatically Creates Clean Quad Topology (AutoRemesher 1.0)",
       "source": "80 Level",
       "category": "render",
-      "published_iso": "2026-07-07T10:53:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49139/images/6a4cda8f951c0/contain_1200x630.jpg",
-      "excerpt": "After five years of development, free MIT-licensed AutoRemesher reached 1.0, automatically converting high-poly meshes into clean quad-based topology on Windows/macOS/Linux — landing amid a surge of automated and AI-powered retopology tools (Tractive, CozyBlanket Pro, Sparseal). Note: algorithmic automation rather than ML-based — flag for curator."
+      "published_iso": "2026-07-07",
+      "og_image": "https://cdn.80.lv/static/icons/logo80lv.svg",
+      "excerpt": "AutoRemesher hit 1.0: a free, MIT-licensed retopology tool that converts high-poly meshes into clean quad topology, landing amid a surge of AI-powered retopo tools like Tractive and CozyBlanket Pro. Note: the tool itself is algorithmic; AI angle is contextual."
     },
     {
-      "url": "https://www.uploadvr.com/meta-one-premium-subscription-now-required-for-longer-access-to-glasses-features/",
-      "title": "Subscription now required for longer access to some Meta glasses features",
+      "url": "https://develop3d.com/lifecycle-management/rolls-royce-data-plm-siemens/",
+      "title": "Rolls-Royce — wrestling back control",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-07-08",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/rolls-royce-data-digital-twin-banner-copy-1024x576.jpg",
+      "excerpt": "Rolls-Royce is ditching heavily customised PLM for out-of-the-box cloud software and low-code tools to open its engineering data up to AI — pairing Siemens Intelligence Center X with internal data lakes so teams surface their own insights at the point problems emerge."
+    },
+    {
+      "url": "https://develop3d.com/simulation/ntop-and-coreweave-tackle-nasas-vision-2030-with-time-to-spare/",
+      "title": "nTop and CoreWeave tackle NASA's Vision 2030 with time to spare",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-07-08",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/ntop-coreweave-nvidia-nasa-1024x576.jpg",
+      "excerpt": "nTop and CoreWeave ran 12,000 CFD simulations across 2,400 drone geometry variants lights-out, without manual intervention — a dataset the team says is viable for training AI surrogate models that predict aerodynamic performance without re-running simulation."
+    },
+    {
+      "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "source": "CSS-Tricks",
+      "category": "tokens",
+      "published_iso": "2026-07-07",
+      "og_image": "",
+      "excerpt": "Temani Afif previews the upcoming CSS border-shape property, a major new shape-creation capability for design engineers. Note: fresh design-craft shift but no direct AI angle — weakest-tier candidate; no fresher AI item surfaced from tokens sources this window."
+    },
+    {
+      "url": "https://www.uploadvr.com/18birdies-arccos-meta-glasses-ai-golf-caddy/",
+      "title": "18Birdies & Arccos Make Meta Glasses Act As Your AI Golf Caddy",
       "source": "UploadVR",
       "category": "vr",
-      "published_iso": "2026-07-07T00:20:25Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/07/Conversation-Focus-Meta-Connect-2025-shot.jpeg",
-      "excerpt": "Meta now gates longer use of some smart-glasses features behind the $20/mo Meta One Premium subscription — including bigger monthly AI usage allowances, more image/video generations with advanced models, and 'Thinking' mode reasoning. Free users get 3 hours of Conversation Focus vs 15 for subscribers, sparking criticism since the feature runs locally."
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/07/18Birdies-and-Arccos-on-Meta-smart-glasses.png",
+      "excerpt": "Meta integrated the 18Birdies and Arccos golf apps into its AI smart glasses, letting wearers query a voice-driven virtual caddy — an example of third-party AI experiences designed for the glasses form factor, live now in the US and Canada."
     },
     {
-      "url": "https://dev.to/hasansarwer/stop-naming-css-variables-after-colors-136l",
-      "title": "Stop Naming CSS Variables After Colors",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-07-07T18:55:35Z",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/21iiismlcsbgj8h05rs6.png",
-      "excerpt": "'A button does not need to know that it is blue': a case for semantic, purpose-driven design-token naming (palette vs semantic vs component tokens) across light/dark modes — the token hygiene that makes design systems machine- and AI-agent-readable. AI hook is implicit (token systems as AI source of truth); flag for curator."
+      "url": "https://roadtovr.com/synapse-embodiment-immersion-inside-xr-design/",
+      "title": "VR Design Unpacked: Why 'Embodiment' is More Important Than 'Immersion'",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-07-07",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2023/12/logo-272-no-stroke-logo.png",
+      "excerpt": "Road to VR's design column argues embodiment — how players physically inhabit and act in a virtual world — matters more than attention-based immersion, using Synapse as a case study. Note: XR design craft piece with no direct AI angle."
     },
     {
-      "url": "https://dev.to/irrationalapps/why-your-generated-color-palettes-look-muddy-and-what-oklch-does-about-it-410c",
-      "title": "Why your generated color palettes look muddy (and what OKLCH does about it)",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-07-07T07:30:02Z",
-      "og_image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png",
-      "excerpt": "Why HSL-based palette generation produces muddy, uneven ramps and how the perceptually uniform OKLCH color space fixes it, with code examples and a free palette-generator tool. Craft/tooling piece; explicit AI angle is thin — flag for curator."
+      "url": "https://www.engineering.com/simx-adds-ai-assistant-to-healthcare-vr-training/",
+      "title": "SimX adds AI Assistant to healthcare VR training",
+      "source": "Engineering.com",
+      "category": "vr",
+      "published_iso": "2026-07-08",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/07/SimX_AI_Assistant2-1.jpg",
+      "excerpt": "SimX launched an AI Assistant that automates patient and care-team characters in room-scale VR medical training scenarios — expert-authored rather than open-ended generative AI — letting educators scale multi-learner simulations without extra staff. (Domain is on the cad allowed list; topic is VR.)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=VfA-vjsFQ1o",
-      "title": "Own the loop: how designers and researchers win with AI evals ft. Setor Zilevu (Figma) | Config 2026",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "published_iso": "2026-07-06T14:51:52-07:00",
-      "og_image": "https://i.ytimg.com/vi/VfA-vjsFQ1o/maxresdefault.jpg",
-      "excerpt": "Freshly uploaded Config 2026 session: Figma's Setor Zilevu on why designers and researchers should own the AI evaluation loop — using evals as the design instrument that shapes the quality of model-powered products. (Wrongly dropped by yesterday's dedup bug; verified uploadDate 7/6 ~21:52 UTC, within 72h.)"
+      "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/",
+      "title": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-07-08T05:04:00-04:00",
+      "og_image": "https://www.engadget.com/img/gallery/openai-is-rolling-out-gpt-5-6-to-the-public-on-july-9/intro-1783501225.jpg",
+      "excerpt": "OpenAI will publicly launch all three GPT-5.6 variants — Sol, Luna and Terra — on July 9 after US government approval, expanding preview access globally. A frontier-model release that will land directly in designers' daily AI tooling."
+    },
+    {
+      "url": "https://www.engadget.com/2210651/chatgpt-new-voice-mode-will-slow-down-if-you-tell-it-to/",
+      "title": "ChatGPT's new voice mode will slow down if you tell it to",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-07-08T13:00:00-04:00",
+      "og_image": "https://www.engadget.com/img/gallery/chatgpts-new-voice-mode-will-slow-down-if-you-tell-it-to/intro-1783529796.jpg",
+      "excerpt": "OpenAI released GPT-Live-1 and GPT-Live-1 mini, duplex voice models that process input while speaking for more natural conversations — pausing when you think and slowing down on request. A notable shift for voice/multimodal interface design."
+    },
+    {
+      "url": "https://venturebeat.com/business/how-ai-is-challenging-traditional-business-categories-and-creating-new-paths-for-growth-and-innovation",
+      "title": "How AI is challenging traditional business categories and creating new paths for growth and innovation",
+      "source": "VentureBeat",
+      "category": "workflow",
+      "published_iso": "2026-07-08T15:32:09Z",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/u7E4Vjq0qa8JNwtgKnrBR/50881a33b821bda972f1fb0410bdfba9/image3.jpg?w=800&q=75",
+      "excerpt": "Profile of creative accelerator Piranha on how AI is dissolving category lines in creative services — research cited says skills are changing 116% faster in AI-exposed occupations, reshaping what design and branding teams are hired to do."
     },
     {
       "url": "https://www.youtube.com/watch?v=2nn5J6tUzwE",
@@ -83,7 +137,7 @@
       "category": "social",
       "published_iso": "2026-07-06T14:52:51-07:00",
       "og_image": "https://i.ytimg.com/vi/2nn5J6tUzwE/maxresdefault.jpg",
-      "excerpt": "Config 2026 session on how Figma built an internal 'operating system' for PMs — packaging team workflows and conventions into reusable agent Skills so product work runs through the Figma agent. (Verified uploadDate 7/6 ~21:52 UTC, within 72h.)"
+      "excerpt": "Config 2026 session video: how Figma's team packaged agent Skills into an internal 'operating system' for PMs — a concrete playbook for encoding team workflows into AI agents."
     },
     {
       "url": "https://www.youtube.com/watch?v=vnVAF8o4bwE",
@@ -92,32 +146,23 @@
       "category": "social",
       "published_iso": "2026-07-06T14:48:18-07:00",
       "og_image": "https://i.ytimg.com/vi/vnVAF8o4bwE/maxresdefault.jpg",
-      "excerpt": "Config 2026 session with Chris Warner on designing trustworthy fintech brands in the age of AI — how brand and product design earn user trust when AI mediates money experiences. (Verified uploadDate 7/6 ~21:48 UTC, within 72h.)"
+      "excerpt": "Config 2026 session video with Chris Warner on building trustworthy fintech brands in the AI era — how brand designers establish credibility when AI-generated polish is everywhere."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Zq5Yj8yCiqY",
+      "title": "Easy AI VFX You Can Add to Any Video",
+      "source": "Matt Wolfe (YouTube)",
+      "category": "social",
+      "published_iso": "2026-07-08T13:28:53-07:00",
+      "og_image": "https://i.ytimg.com/vi/Zq5Yj8yCiqY/maxresdefault.jpg",
+      "excerpt": "Matt Wolfe walks through adding AI visual effects to any video without making everything look AI-generated — the workflow behind the intros of his weekly AI news videos."
     }
   ],
-  "collection_notes": {
-    "per_source_counts": {
-      "figma.com": 1,
-      "engadget.com": 1,
-      "engineering.com": 1,
-      "80.lv": 1,
-      "uploadvr.com": 1,
-      "dev.to": 2,
-      "youtube.com": 3
-    },
-    "distinct_outlets": 7,
-    "categories_covered": ["figma", "render", "cad", "tokens", "vr", "social"],
-    "workflow_category": "No verifiable fresh item. VentureBeat hard-429'd every fetch attempt (WebFetch + curl); its promising leads (Claude Cowork to mobile/web, 'design bottleneck for solo founders', Lovart profile) could not have published times verified, so dropped per rules. fastcompany.com returned 403 and had no fresh design×AI story anyway (July 6 piece was AI-infrastructure, not design). theverge.com is blocked for the search agent. Claude Sonnet 5 launch = June 30 (outside 72h).",
-    "dropped_examples": [
-      "Tripo AI $150M raise (develop3d 7/7) — funding round, relevance rule",
-      "Barrelhand Monolith (develop3d 7/7) — no AI/generative design in story",
-      "Claude Sonnet 5 launch — published 2026-06-30, stale",
-      "Smashing Magazine July AI-modality piece — 2026-07-02, outside 72h",
-      "uxdesign.cc 'seven AI tools I actually use' — ~2026-07-02, outside 72h",
-      "Sora shutdown (engadget/80.lv) — March 2026; Cosmos 3 (May), Wonder 3D (April), Meta WebXR AI toolkit (May) — all stale",
-      "Figma Config 2026 recap blog + deep-dive videos — June 24-25, stale (only the three 7/6-uploaded session videos are in-window)"
-    ],
-    "dedup_note": "The three Figma Config session videos (VfA-vjsFQ1o, 2nn5J6tUzwE, vnVAF8o4bwE) were wrongly dropped by the 7/7 dedup bug per today's run instructions; re-verified fresh (uploaded 7/6 ~21:50 UTC) and re-included. Avoided all stories on the 07-06/07-07 coverage watchlist (MCP explainer, AI design-system governance, Hi3D, Kyrall, AI UI tools benchmark, RAM crisis).",
-    "funnel_note": "Fresh design×AI news in-window was genuinely thin beyond these 10: swept figma/render/cad/tokens/vr/workflow/social allowed_domains plus expansions (Sonnet 5, Trimble, retopology tools, Config sessions, Adobe/Runway/Kling/KeyShot/Leo/all3dp/cgchannel/roadtovr/smashing/css-tricks/builder.io/logrocket queries). cgchannel newest item 7/4; 80.lv 7/7 items otherwise non-AI tutorials; all3dp 403 and its AI map story dated 7/4 (pre-window). Instagram skipped (login-walled, nothing verifiable)."
+  "_notes": {
+    "per_source_counts": { "cgchannel.com": 2, "develop3d.com": 2, "engadget.com": 2, "youtube.com": 3, "engineering.com": 1, "builder.io": 1, "uxdesign.cc": 1, "css-tricks.com": 1, "uploadvr.com": 1, "roadtovr.com": 1, "venturebeat.com": 1 },
+    "dedup": "Skipped stories already published 7/7-7/8: Figma multi AI image edits, Meta Content Seal, Trimble MEP AI, Config AI-evals video, Meta One paywall, MCP explainer, Hi3D, Kyrall, AI UI tools benchmark. Also skipped dev.to Figma-to-code/DTCG piece (covered 7/6).",
+    "dropped_for_staleness": "Claude Science (6/30), Gemini Nano Banana US expansion (6/29), DESIGN.md vs tokens.json (6/27), Thinking Machines interaction models (5/11), GLM-4.6V (12/25), Dassault Aura/Leo/Marie chatbots (2/10), older Matt Wolfe videos, Godot AI ban (7/1), Figma blog posts (7/1-7/3).",
+    "dropped_unverifiable": "openai.com Introducing GPT-Live (403 on fetch, could not extract its own published time; story covered via verified Engadget item). Instagram not included — login-walled, no verifiable post times.",
+    "weak_ai_flags": ["css-tricks border-shape (craft shift, no AI)", "roadtovr embodiment (XR design craft, no AI)", "80.lv AutoRemesher (algorithmic tool, AI context only)"]
   }
 }

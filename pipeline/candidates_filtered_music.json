@@ -1,48 +1,64 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "music",
-  "now_iso": "2026-07-07T23:46:48Z",
+  "now_iso": "2026-07-08T21:51:45Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
+      "url": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
       "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen-728x364.jpg",
-      "excerpt": "Pixelsncodes released Lumen, a free open-source Windows synth built with the Claude AI coding agent, featuring an image-to-wavetable engine that reads any dropped image's bytes and turns them into playable wavetables."
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/peel-stems-728x364.jpg",
+      "excerpt": "zplane released PEEL STEMS 2, a major update to its real-time AI stem separation plugin for macOS and Windows that cuts processing latency and improves separation quality while working directly inside DAW sessions."
     },
     {
-      "url": "https://djmag.com/news/skrillex-ai-songs-can-go-viral-you-cant-have-feeling-of-being-seen-if-there-isnt-human-other",
-      "source": "DJ Mag",
+      "url": "https://www.musicradar.com/music-industry/streaming-sharing/this-is-humans-versus-machines-and-today-the-humans-are-rising-the-tribute-group-formed-to-rival-ai-band-velvet-sundown",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-07-07T14:21:00Z",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-07/skrillex_shotbynaisha.webp",
-      "excerpt": "In his first formal interview in a decade, Skrillex argues AI songs can go viral but can't deliver the feeling of being seen by a human creator, laying out how he thinks producers should position their craft against algorithmic music."
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/R4yXjFWqUYXc4mRGuunNBh.jpg",
+      "excerpt": "TV writer Simon Balch formed The Bootleg Velvet Sundown, a human tribute band rivaling the AI-generated group The Velvet Sundown, pledging all profits to real musicians 'whose work AI stole in the first place.'"
     },
     {
-      "url": "https://www.musicbusinessworldwide.com/viberate-opens-music-data-to-chatgpt-claude-and-other-ai-bots-via-official-mcp-server-launch-amid-ai-first-pivot-for-analytics-company/",
-      "source": "Music Business Worldwide",
+      "url": "https://musically.com/2026/07/03/musixmatch-reveals-winners-of-its-first-ai-focused-hackathon/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-07-03T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Musixmatch announced the winners of its first AI-focused 'Musicathon': 523 developers built 100+ AI tools in seven days, with winning projects including Fusion Karaoke (lyrics-reactive AI visuals), Lyri (AI songwriting assistant) and SoundClash (AI voice-recognition music quiz)."
+    },
+    {
+      "url": "https://www.soundonsound.com/news/tracktion-unleash-waveform-14-daw",
+      "source": "Sound on Sound",
+      "category": "music",
+      "published_iso": "2026-06-29T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/tracktion_waveform_14-0KCBTCQ.GUc29XsshV2PxaYGHOK_Eb0L.jpg",
+      "excerpt": "Tracktion released Waveform 14 with an LLM-driven AI Assistant that answers questions from the manual, generates MIDI sequences and analyses clips to create complementary parts — running on a BYOK pay-as-you-go model supporting OpenAI and Anthropic APIs."
+    },
+    {
+      "url": "https://www.attackmagazine.com/news/yamaha-creator-pass-adds-cubase-ableton-and-new-9-99-starter-plan/",
+      "source": "Attack Magazine",
+      "category": "music",
+      "published_iso": "2026-06-30T00:00:00Z",
+      "og_image": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/06/Attack-Mag-News-Feat-Images-Yamaha-Creator-Pass.png?fit=1400%2C479&ssl=1",
+      "excerpt": "Yamaha expanded its Creator Pass subscription with Cubase 15 AI, Ableton Live 12 Lite and a $9.99 Starter plan aimed at first-time creators who want AI-assisted songwriting, beat-building and idea-generation tools without DAW experience."
+    },
+    {
+      "url": "https://www.synthtopia.com/content/2026/07/05/quantum-midi-sequencer-turns-radiation-into-music/",
+      "source": "Synthtopia",
+      "category": "music",
+      "published_iso": "2026-07-05T00:00:00Z",
+      "og_image": "",
+      "excerpt": "The Quantum MIDI Sequencer is a generative music sequencer that translates nuclear radiation events into MIDI notes, turning true physical randomness into an algorithmic composition source."
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/07/01/hydratek-erebos/",
+      "source": "Bedroom Producers Blog",
       "category": "music",
       "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/06/Screenshot-2026-06-25-at-11.13.59-e1782382474632.jpg",
-      "excerpt": "Analytics firm Viberate launched an official MCP server that lets Claude, ChatGPT and other AI assistants query its data on 11M artists, 100M songs and 19M playlists in natural language — turning stats into lineup suggestions and marketing strategies as part of an 'AI-first' pivot."
-    },
-    {
-      "url": "https://cdm.link/ableton-learn/",
-      "source": "CDM Create Digital Music",
-      "category": "music",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://cdm.link/app/uploads/2026/07/beats-and-drums-1024x819.png",
-      "excerpt": "Ableton soft-launched Learn, an interactive browser-based music education platform powered by the engine behind Note and Move — deliberately positioned so beginners build real production skills 'instead of prompting AI or something.'"
-    },
-    {
-      "url": "https://www.gearnews.com/ai-training-data-the-atlantic-tech/",
-      "source": "gearnews.com",
-      "category": "music",
-      "published_iso": "2026-06-24T00:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/06/KI-Trainingsdaten-2026-T.jpg",
-      "excerpt": "The Atlantic's AI Watchdog project released four searchable databases covering 20M+ songs used to train Suno, Udio and Google's Lyria — letting producers check if their own tracks are in the training sets, with artist Hainbach finding 151 of his songs in one dataset."
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/erebos-728x364.jpg",
+      "excerpt": "Sound designer Fabio Gotti details building his debut HydraTek plugin Erebos as a deliberately human-made product, warning that audio tools and marketing 'can quickly collapse into generic AI-generated aesthetics' — a counterpoint craft story to the vibe-coded plugin wave."
     },
     {
       "url": "https://au.rollingstone.com/music/music-news/australias-music-industry-unites-against-ai-copyright-threat-97849/",
@@ -59,26 +75,26 @@
       "published_iso": "2026-07-01T00:00:00Z",
       "og_image": "",
       "excerpt": "Hypebot examines whether audiences genuinely oppose AI in music creation or whether the backlash mirrors the resistance that met every past technology shift in production — a question shaping how openly working musicians disclose AI use."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/07/01/hydratek-erebos/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/erebos-728x364.jpg",
-      "excerpt": "Sound designer Fabio Gotti details building his debut HydraTek plugin Erebos as a deliberately human-made product, warning that audio tools and marketing 'can quickly collapse into generic AI-generated aesthetics' — a counterpoint craft story to the vibe-coded plugin wave."
-    },
-    {
-      "url": "https://www.synthtopia.com/content/2026/07/05/quantum-midi-sequencer-turns-radiation-into-music/",
-      "source": "Synthtopia",
-      "category": "music",
-      "published_iso": "2026-07-05T00:00:00Z",
-      "og_image": "",
-      "excerpt": "The Quantum MIDI Sequencer is a generative music sequencer that translates nuclear radiation events into MIDI notes, turning true physical randomness into an algorithmic composition source."
     }
   ],
+  "notes": {
+    "covered_skipped": [
+      "Suno developer API / Suno 61k litigation follow-ups (covered 7/7)",
+      "TIDAL AI tagging & monetization (covered earlier)",
+      "Atlantic AI Watchdog training-data DBs incl. gearnews/DJ Mag/MBW/Engadget takes (covered 7/8)",
+      "Lumen image-to-sound synth, Ableton Learn, Viberate MCP, Skrillex interview (covered 7/8)",
+      "iZotope/Boris FX acquisition (covered earlier)"
+    ],
+    "dropped_examples": [
+      "Suno hires ex-Atlantic/YouTube execs (MBW 7/7) — exec-move news, no craft hook",
+      "Suno $250M raise at $5B valuation — funding round",
+      "Spotify Q1 earnings AI ambitions — pure business/finance",
+      "Roland Project Lydia (5/7), Spotify-UMG AI remix deal (5/21), Stable Audio 3.0 (5/21), Moises AI Studio (2025-08), Coda Music (2025-11) — verified stale outside 336h window"
+    ],
+    "social": "Best-effort YouTube sweep (Benn Jordan, Andrew Huang, Venus Theory via RSS uploadDate; Suno/Udio/ElevenLabs channels) found no fresh on-topic AI-music videos with verifiable dates; contributed 0 social candidates."
+  },
   "dedup": {
-    "dropped": 0,
+    "dropped": 1,
     "kept": 9,
     "against_days": 5
   }

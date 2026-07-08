@@ -1,32 +1,34 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "movies",
   "media": [
     {
-      "id": "switchhdr",
-      "type": "image",
-      "src": "pipeline/media/switchhdr.jpg"
-    },
-    {
-      "id": "corridor-soad",
+      "id": "iclone-personal",
       "type": "video",
-      "src": "pipeline/media/corridor-soad.mp4",
-      "poster": "pipeline/media/corridor-soad.jpg"
+      "src": "pipeline/media/iclone-personal.mp4",
+      "poster": "pipeline/media/iclone-personal.jpg"
     },
     {
-      "id": "mj-discovery",
-      "type": "image",
-      "src": "pipeline/media/mj-discovery.png"
+      "id": "wolfe-palmier",
+      "type": "video",
+      "src": "pipeline/media/wolfe-palmier.mp4",
+      "poster": "pipeline/media/wolfe-palmier.jpg"
     },
     {
-      "id": "a24-deepmind",
-      "type": "image",
-      "src": "pipeline/media/a24-deepmind.jpg"
+      "id": "siggraph2026",
+      "type": "video",
+      "src": "pipeline/media/siggraph2026.mp4",
+      "poster": "pipeline/media/siggraph2026.jpg"
     },
     {
-      "id": "hasbro-voices",
-      "type": "image",
-      "src": "pipeline/media/hasbro-voices.png"
+      "id": "soulm8te",
+      "type": "video",
+      "src": "pipeline/media/soulm8te.mp4",
+      "poster": "pipeline/media/soulm8te.jpg"
+    },
+    {
+      "id": "keitel-ai",
+      "type": "svg"
     }
   ]
 }

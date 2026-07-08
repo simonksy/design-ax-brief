@@ -1,90 +1,90 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "iRobot",
+      "tool": "Agibot",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-07T12:35:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Roomba-Max-775.jpg",
-      "excerpt": "iRobot launched five new self-emptying Roomba robot vacuums priced at or under $1,000 — its first U.S. products since bankruptcy and acquisition by Picea Robotics. The flagship Roomba Max 775 pairs LiDAR mapping and camera obstacle avoidance with a self-cleaning mop dock for 'fully hands-free' operation.",
-      "rationale": "Major fresh hardware launch — iRobot's post-bankruptcy comeback with LiDAR + camera-AI Roombas under $1,000; strongest consumer-robot anchor of the day."
+      "url": "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close",
+      "source": "TechRadar",
+      "published_iso": "2026-07-07T12:48:11Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/FBt23R3kyU3N7r8eCGx6ef-1920-80.jpg",
+      "excerpt": "Chinese robotics company Agibot brought its full-size A3 and half-size X2 humanoid robots to a London launch event on June 30, showing off backflipping, football-playing 'humanoids' up close and pitching robots that 'understand you, talk to you, and work for you.'",
+      "rationale": "Hands-on with production-bound humanoids that talk, understand and act — the strongest embodied-AI/robots anchor in the pool and a fresh carryover, credible TechRadar reporting."
     },
     {
       "rank": 2,
-      "tool": "Samsung",
+      "tool": "Vision Pro",
       "category": "gadgets",
-      "accent": "#0070f3",
+      "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://www.sammobile.com/news/major-samsung-galaxy-glasses-leak-reveals-many-interesting-details/",
-      "source": "SamMobile",
-      "published_iso": "2026-07-01T10:48:00+02:00",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Glasses-Gentle-Monster-Warby-Parker-1200x675.jpg",
-      "excerpt": "A leaked Galaxy Glasses manager app reveals Samsung's AI eyewear will run One UI XR and integrate with Galaxy watches and rings for gesture control. The glasses, built with Google, Qualcomm, Warby Parker and Gentle Monster, are expected at the July 22 Unpacked.",
-      "rationale": "Best look yet at Samsung's Gemini-powered glasses ahead of the July 22 Unpacked; kept the original SamMobile leak, dropped Tom's Guide coverage of the same story family."
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-visionos-27-beta-3/",
+      "source": "MacRumors",
+      "published_iso": "2026-07-06T10:23:00-07:00",
+      "og_image": "https://images.macrumors.com/t/HnbWdb1qxI6-t6aIEmt9atRqLGg=/1600x/article-new/2026/06/curved_windows_visionos-27.jpg",
+      "excerpt": "Apple seeded the third developer beta of visionOS 27, the Vision Pro update that brings eye-tracked Siri AI activation, an anywhere-placeable Siri orb with visual awareness of what you're looking at, curved windows and panorama-to-spatial environments.",
+      "rationale": "Concrete new spatial-AI interaction patterns (gaze-triggered Siri, gaze-aware orb, curved windows) that change how XR/spatial designers prototype; distinct from yesterday's iOS 27 public-beta card."
     },
     {
       "rank": 3,
-      "tool": "Apple",
+      "tool": "AMD",
       "category": "gadgets",
-      "accent": "#7928ca",
+      "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.macrumors.com/2026/07/07/ios-27-public-beta-is-coming-soon/",
-      "source": "MacRumors",
-      "published_iso": "2026-07-07T12:03:37-07:00",
-      "og_image": "https://images.macrumors.com/t/H9CMBRmw3tzFTEh1pfzWGGINEcI=/2500x/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg",
-      "excerpt": "Apple says the iOS 27 public beta arrives this month, bringing the waitlisted Siri AI revamp to a much wider pool of devices ahead of the fall release.",
-      "rationale": "Freshest, broadest angle of the overlapping iOS 27 / Siri AI cluster (chosen over Engadget supported-models and 9to5Mac beta 3) — the rebuilt Siri reaches the public this month."
+      "url": "https://www.xda-developers.com/review-amd-ryzen-ai-halo/",
+      "source": "XDA Developers",
+      "published_iso": "2026-07-06T13:01:22Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/amd-ryzen-ai-halo-glowing-2.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "XDA reviews AMD's tiny Ryzen AI Halo box and finds it does what Nvidia's DGX Spark does at a fraction of the power — a compact local-AI machine for running LLMs at home without the cloud.",
+      "rationale": "Highly actionable on-device-AI beat — a small, low-power box that runs local LLMs, directly relevant to designers wanting private local models; chosen over the GMKtec NucBox to avoid a second Notebookcheck card."
     },
     {
       "rank": 4,
       "tool": "Nothing",
       "category": "gadgets",
-      "accent": "#2ec5c5",
+      "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.gsmarena.com/nothing_ear_3a_unveiled_with_anc_and_up_to_42_hours_of_total_battery_life-news-73612.php",
-      "source": "GSMArena",
-      "published_iso": "2026-07-07T17:56:01+02:00",
-      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-ear-3a-ofic/-952x498w6/gsmarena_000.jpg",
-      "excerpt": "Nothing unveiled the $99 Ear (3a) true wireless earbuds with up to 45dB ANC and 42 hours of battery life. Each earbud carries three microphones with AI-powered noise reduction for intelligent sound filtering during calls and recordings.",
-      "rationale": "Same-day product launch with concrete specs and an AI noise-reduction hook; adds the earbuds/audio sub-topic no other pick covers."
+      "url": "https://9to5google.com/2026/07/07/nothing-phone-4b-hands-on-launch-price-specs/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-07T10:31:00+00:00",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-phone-4b-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Hands-on with the Nothing Phone (4b), the first of Nothing's new (b) series: a budget phone with a dedicated Essential Key that triggers Essential Voice, Essential Search and the company's AI-powered apps at an 'impossible' price.",
+      "rationale": "Fresh hands-on of a new phone line with a hardware AI key (Essential Voice/Search) — a real on-device AI-UX design signal; kept over the GSMArena announcement of the same launch. Scores high enough to justify a second-day Nothing card (distinct device from the Ear 3a)."
     },
     {
       "rank": 5,
-      "tool": "Microsoft",
+      "tool": "Apple",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.notebookcheck.net/Flagship-convertible-with-Snapdragon-X2-Elite-Microsoft-Surface-Pro-OLED-2026-Review.1335724.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-07-07T18:08:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Pro_13_OLED/surface_pro_oled_x2_elite_case_04.JPG",
-      "excerpt": "Notebookcheck reviews the Microsoft Surface Pro OLED 2026, the flagship Copilot+ convertible with Qualcomm's Snapdragon X2 Elite SoC and OLED panel — a look at how far Arm-based NPU AI PCs have come.",
-      "rationale": "In-depth review of the flagship Copilot+ convertible on Snapdragon X2 Elite; covers the on-device-AI PC beat and is a distinct device from the earlier HP Omnibook card."
+      "url": "https://9to5mac.com/2026/07/08/im-disappointed-apple-will-charge-for-ai-security-camera-features-in-the-home-app/",
+      "source": "9to5Mac",
+      "published_iso": "2026-07-08T13:20:36+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Im-disappointed-Apple-will-charge-for-AI-security-camera-features-in-the-Home-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Apple's new AI security-camera features in the Home app — Apple Intelligence video descriptions and searchable 4K HomeKit Secure Video clips — will require a 2TB iCloud+ subscription, and 9to5Mac argues gating camera AI behind a storage tier is the wrong call.",
+      "rationale": "Fresh angle on how consumer AI features get monetized — Apple gating camera AI (natural-language video descriptions, searchable clips) behind a storage tier; the smart-home sub-topic and a distinct outlet, chosen over the Google Home update and SwitchBot cam."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.gadgets today (2026-07-07) + days 2026-07-03, 2026-07-04, 2026-07-06",
+    "checked_against": "news_data.json sections.gadgets today (2026-07-08) + days 2026-07-03, 2026-07-04, 2026-07-06",
     "history_collisions": 0,
     "dropped_same_story": [
-      "https://www.tomsguide.com/computing/smart-glasses/major-leak-reveals-samsung-galaxy-glasses-controls-pairing-modes-and-how-they-might-work-with-smart-watches-and-rings — same Galaxy Glasses leak as SamMobile pick",
-      "https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/ — iOS 27 Siri cluster; MacRumors public-beta angle chosen",
-      "https://9to5mac.com/2026/07/06/ios-27-beta-3/ — iOS 27 Siri cluster; MacRumors public-beta angle chosen"
+      "https://www.gsmarena.com/the_nothing_phone_4b_has_a_longlasting_battery_snapdragon_6_gen_4_chip_and_a_glyph_bar-news-73609.php — same Nothing Phone (4b) launch as the 9to5Google hands-on; kept the hands-on"
     ],
     "dropped_for_diversity": [
-      "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close — second robot story; iRobot launch is the stronger news",
-      "https://www.notebookcheck.net/Apple-Home-AI-features-in-iOS-27-and-macOS-27-require-expensive-subscription.1336583.0.html — second Apple story and would make Notebookcheck x2"
+      "https://www.notebookcheck.net/GMKtec-NucBox-K17-Intel-Core-Ultra-5-226V-meets-whisper-quiet-fans.1336542.0.html — second on-device-AI PC and would duplicate the AMD pick's sub-topic; AMD Ryzen AI Halo is the stronger local-AI story",
+      "https://9to5google.com/2026/07/08/google-home-app-update-makes-automation-easier-improves-cameras-more/ — second smart-home story and would make 9to5Google x2; 9to5Mac Apple camera-paywall angle is more actionable/opinionated",
+      "https://www.digitaltrends.com/home/switchbots-new-outdoor-security-camera-uses-ai-to-describe-activity-around-your-home/ — third smart-home/AI-camera story; weaker single-product launch",
+      "https://www.notebookcheck.net/A-hobbyist-is-building-his-home-AI-a-body-one-sensor-at-a-time.1336766.0.html — niche DIY hobbyist project, low actionability vs the ranked field"
     ],
     "notes": [
-      "Galaxy Glasses leak kept vs history: 07-03 Tom's Guide Unpacked preview was a multi-device roundup, not this manager-app leak.",
-      "Surface Pro OLED review kept vs history: 07-04 HP Omnibook X2 card covered a different Snapdragon X2 Elite device.",
-      "Final 5: five distinct outlets, five distinct sub-topics (home robot / smart glasses / phone-OS AI / earbuds / AI PC)."
+      "visionOS 27 beta 3 kept vs history: 07-08 iOS 27 public-beta card is a different OS/product (iPhone Siri), not the Vision Pro spatial update.",
+      "Nothing Phone (4b) kept vs history: 07-08 Nothing Ear (3a) card is a different product; the (4b) hands-on scores clearly high on the on-device AI-key hook, so a second-day Nothing card is warranted.",
+      "Final 5: five distinct outlets (TechRadar, MacRumors, XDA, 9to5Google, 9to5Mac; max 1 each) and five distinct sub-topics (robots / XR / on-device-AI PC / phones / smart home)."
     ]
   }
 }

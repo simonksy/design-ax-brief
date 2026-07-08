@@ -1,93 +1,70 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "cards": [
     {
-      "id": "amano-zan",
+      "id": "doom-revelations",
       "eyebrow": "AI NEWS",
-      "headline": "파이널 판타지의 아마노 요시타카\nAI는 0에서 1을 만들지 못한다",
-      "body": "AI를 도구로 보면서도 손그림의 불완전함이 인간의 증거라고 말했다.",
-      "mini_headline": "아마노의 AI 원본론",
-      "tool": "Amano",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
+      "headline": "둠 더 다크 에이지 신규 확장팩\n4K 310fps 뉴럴 렌더링 탑재",
+      "body": "패스 트레이싱과 최대 6배 프레임 생성을 얹어 RTX 5090에서 4K 310fps를 뽑는다.",
+      "mini_headline": "둠 확장팩 뉴럴 렌더링",
+      "tool": "Games",
+      "source": "NVIDIA GeForce News",
+      "url": "https://www.nvidia.com/en-us/geforce/news/doom-the-dark-ages-revelations-dlss-path-tracing/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/img_6751.JPG", "cap": "이미지: Yoshitaka Amano" },
-          { "t": "p", "x": "아마노 요시타카는 수십 년 동안 현실에서 반쯤 떠 있는 그림을 그려 왔다. 꿈과 악몽, 우아함과 폭력 사이를 떠도는 그의 화풍은 파이널 판타지로 세계에 각인됐다. 그런 그가 애니메 엑스포에서 폴리곤과 마주 앉아 애니메이션의 미래를 이야기하며 통역을 거쳐 내놓은 말은 뜻밖에 직설적이었다. \"AI cannot create zero to one.\"" },
-          { "t": "p", "x": "AI를 적이 아니라 도구로 본다는 설명이 곧장 따라붙었다. \"Only humans can create the original.\" 어쩌면 100년쯤 뒤에는 AI도 0과 1을 만들지 모른다고 여지를 남겼지만 요점은 분명했다. 생성형 AI가 창작 산업을 흔드는 지금 그가 대체 불가능하다고 믿는 것은 무에서 시작하는 인간의 불꽃이다." },
-          { "t": "p", "x": "이 철학은 신작 ZAN에 그대로 흐른다. 2013년 일러스트 소설이 원작이고 LA 프로덕션 사무실과 일본 애니메이션 스튜디오가 함께 만든다. 파이널 판타지, 천사의 알, 뱀파이어 헌터 D 같은 협업과 달리 완전한 오리지널이라 무엇이든 마음대로 할 수 있다고 했다." },
-          { "t": "img", "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/yoshitaka-amano-100-hand-drawn-anime-zan_-pilot-film-_-100-zan-pilot-film-1-6-screenshot.jpg", "cap": "ZAN 파일럿 필름 (이미지: Yoshitaka Amano Inc.)" },
-          { "t": "p", "x": "손그림의 불완전함을 지키는 일을 묻자 답은 더 커졌다. 불완전함은 인간다움의 일부, 기술로 지울 흠이 아니라 사람이 거기 있었다는 증거다. 디지털 작업이 더 싸고 빠른 시대에 손그림을 고집하지만 그는 손그림 수요가 지금도 높다고 덧붙였다. 젊은 관객에게 손그림은 향수가 아니라 처음 만나는 새 매체라는 관찰도 흥미롭다." },
-          { "t": "p", "x": "Yoshitaka Amano Inc.의 이케가미 히로아키 CEO에 따르면 ZAN은 장편이 아닌 리미티드 미니시리즈로 완성까지 2~3년이 걸린다. 배경 일부는 디지털의 손을 빌리겠지만 중심은 손그림이다. 아키라가 3년, 10만 장 넘게 그린 레드라인이 7년 걸린 것을 떠올리면 손그림다운 시간표다." },
-          { "t": "p", "x": "대화는 결국 같은 믿음으로 돌아왔다. 기술이 아무리 유능해져도 창작의 첫 행위는 사람 몫이다. 아마노에게 손그림은 기술을 거부하는 일이 아니라 기술이 매끈하게 지워 버리는 것들, 머뭇거림과 질감과 불규칙함을 지키는 일이다." }
+          { "t": "img", "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/doom-the-dark-ages-revelations-dlss-4-5-path-tracing/doom-the-dark-ages-revelations-dlss-path-tracing-ogimage.jpg", "cap": "이미지: NVIDIA / id Software" },
+          { "t": "p", "x": "id 소프트웨어와 베데스다 소프트웍스의 확장팩 DOOM: The Dark Ages | Revelations가 오늘 출시됐다. 지원 지포스 RTX GPU에서 DLSS 멀티 프레임 생성(최대 6X 모드)과 슈퍼 레졸루션, 레이 리컨스트럭션으로 강화한 패스 트레이싱을 처음부터 기본으로 지원한다." },
+          { "t": "p", "x": "4K(3840×2160)에서는 RTX 5090이 패스 트레이싱과 최고 옵션을 켜고도 최대 310fps를 낸다. 전체 성능 배수가 6.5배에 달해 다른 GPU에서도 프레임이 크게 오르는데 RTX 5080은 280fps를 기록한다." },
+          { "t": "p", "x": "2560×1440에서는 멀티 프레임 생성과 레이 리컨스트럭션 덕분에 RTX 5090이 패스 트레이싱을 유지한 채 375fps로 돌아간다." },
+          { "t": "p", "x": "1920×1080에서는 두 기술이 함께 붙어 프레임을 평균 6.1배 끌어올린다. RTX 5090이 500fps, RTX 5080이 360fps 이상, RTX 5070 Ti가 310fps를 넘고 RTX 5070도 280fps를 웃돈다." },
+          { "t": "p", "x": "확장팩은 더 까다로운 퍼즐과 새 데몬, 새 미스터리를 담은 신규 레벨을 들여왔다. 새로 나온 체인 스피어는 \"a uniquely satisfying combat system – one that rewards mastery with enhanced power and mobility\"라고 소개됐다." },
+          { "t": "p", "x": "경험을 최적화하는 새 Revelations 지포스 게임 레디 드라이버도 함께 배포됐다. 이어서 Assassin's Creed Black Flag Resynced가 7월 9일 출시되며 멀티 프레임 생성과 프레임 생성, 슈퍼 레졸루션, 레이 트레이싱 반사·조명을 지포스 RTX에서 지원한다." }
         ]
       }
     },
     {
-      "id": "ue-image-gen",
+      "id": "unity-ai-debug",
       "eyebrow": "AI NEWS",
-      "headline": "언리얼 엔진, 뷰포트 구도에 맞춰\n이미지·영상 생성을 조율한다",
-      "body": "뷰포트 카메라 구도에 생성 결과를 맞추고 장면 요소의 변형까지 만들어 낸다.",
-      "mini_headline": "언리얼 생성 워크플로",
-      "tool": "Unreal Engine",
-      "source": "Unreal Engine (YouTube)",
-      "url": "https://www.youtube.com/watch?v=LGvsShWEH3k",
+      "headline": "유니티 AI가 애니메이션 상태머신과\n행동 트리 세팅과 디버그를 돕는다",
+      "body": "상태머신과 행동 트리, 전환을 프롬프트로 세팅하고 디버그해 게임 감각에 집중하게 한다.",
+      "mini_headline": "유니티 AI로 디버그",
+      "tool": "Games",
+      "source": "Unity (YouTube)",
+      "url": "https://www.youtube.com/watch?v=7FtJiOTYtP0",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "video", "yt": "LGvsShWEH3k" },
-          { "t": "p", "x": "언리얼 페스트 시카고 2026의 스테이트 오브 언리얼 세션에서 에픽이 이미지·영상 생성 모델을 언리얼 엔진 도구와 나란히 쓰는 워크플로를 공개했다. 아티스트가 생성 결과를 더 분명한 의도와 통제력으로 다루게 하는 것이 목표다." },
-          { "t": "p", "x": "UE 뷰포트의 카메라 프레이밍에 생성 결과를 맞추고 이미 배치한 장면 요소와 닮은 변형을 만들며 프로젝트 조건에 맞춰 장면 전체를 다른 스타일로 갈아입히는 것까지 보여 준다." },
-          { "t": "p", "x": "기능은 '커밍 순' 딱지를 달고 있어 아직 출시 전이다. 5.8의 나머지 업데이트는 에픽 블로그에 정리돼 있다." }
+          { "t": "video", "yt": "7FtJiOTYtP0" },
+          { "t": "p", "x": "유니티가 공식 채널에 올린 영상이다. 유니티 AI(베타)로 애니메이션 상태머신과 행동 트리, 전환을 프롬프트만으로 세팅하고 디버그하는 모습을 보여 준다. 반복 작업을 덜어 게임 감각을 다듬는 데 시간을 돌려주자는 게 요지다." },
+          { "t": "p", "x": "앞서 7일과 8일 다룬 생성 에셋 태깅, 씬 세팅 데모에 이어 유니티 AI 워크플로의 또 다른 축을 보여 주는 셈이다. 유니티 AI 베타는 지금 무료로 써 볼 수 있다." }
         ]
       }
     },
     {
-      "id": "unity-scene-ai",
+      "id": "slopfix",
       "eyebrow": "AI NEWS",
-      "headline": "유니티 AI가 씬 세팅을 대신해\n아이디어에 시간을 돌려준다",
-      "body": "씬 세팅을 유니티 AI가 맡아 개발자가 아이디어 다듬기에 더 시간을 쓰게 한다.",
-      "mini_headline": "유니티 씬 자동 세팅",
-      "tool": "Unity AI",
-      "source": "Unity (YouTube)",
-      "url": "https://www.youtube.com/shorts/_D26zKNPX7s",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "video", "yt": "_D26zKNPX7s" },
-          { "t": "p", "x": "유니티가 공식 채널에 올린 쇼츠다. 씬 세팅에 들이는 시간을 유니티 AI가 줄여 주니 그만큼 아이디어를 다듬는 데 쓰라는 메시지가 영상 설명의 전부다." },
-          { "t": "p", "x": "에디터 안에서 씬 조립을 AI가 거들면 초기 배치 같은 반복 작업이 가벼워진다. 지난 7일 다룬 생성 에셋 자동 태깅과 짝을 이루는 기능으로 유니티 AI 베타는 지금 무료로 써 볼 수 있다." }
-        ]
-      }
-    },
-    {
-      "id": "dreamcast-slop",
-      "eyebrow": "AI NEWS",
-      "headline": "세가 드림캐스트 키링 홍보 이미지,\n확대하면 로고 글자가 뭉개져 있다",
-      "body": "공식 라이선스 굿즈 홍보 컷에 AI 보정이 섞여 로고가 흘림체 선으로 뭉개졌다.",
-      "mini_headline": "드림캐스트 AI 슬롭",
-      "tool": "Sega",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/hardware/retro/sega-is-seemingly-letting-ai-turn-its-dreamcast-keychains-into-slop-but-the-final-product-could-be-safe/",
+      "headline": "AI가 만든 코드를 치우는 데\nAI를 쓰는 1만 달러짜리 서비스",
+      "body": "AI가 남긴 슬롭 코드를 정리하려고 또 다른 팀이 AI를 동원해 최대 1만 달러를 받는다.",
+      "mini_headline": "슬롭픽스 AI 코드 청소",
+      "tool": "Games",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/software/ai/slopfix-a-software-team-is-charging-up-to-usd10-000-to-clean-up-ai-generated-code-with-the-help-of-checks-notes-ai/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/NHUvfgQ2PsQUt3Q2uRsFBB-1920-80.jpg", "cap": "이미지: Sega" },
-          { "t": "p", "x": "세가 드림캐스트도 AI를 피하지 못했다. GamesRadar+의 하드웨어 에디터 필 헤이턴은 SNS를 넘기다 엄지를 멈췄다. 뒤틀린 레트로 콘솔과 컨트롤러, VMU에 뭉개진 글자와 이상한 버튼 문양이 얹혀 있었다." },
-          { "t": "p", "x": "문제의 키링은 세가 숍에서 판매 중인 애니메 엑스포 기념 드림캐스트 키체인이다. 본체와 컨트롤러, 소닉 어드벤처의 차오 스프라이트가 든 VMU까지 본떠 물건 자체는 꽤 귀엽다. AI가 디테일을 망치지만 않았다면 세가 수집가에게 탐나는 물건이었을 것이다." },
-          { "t": "p", "x": "얼핏 보면 이상한 데가 없다. 세가 로고를 확대해야 진짜 글자가 아니라 흘림체 비슷한 선이라는 게 드러나고 컨트롤러 버튼의 B는 지저분한 원에 가깝다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/SU2bRC6kKxkWMJcgjM9NvE.jpg", "cap": "이미지: Sega" },
-          { "t": "p", "x": "스토어를 훑어보니 애니메 엑스포 라인업과 일반 상품 대부분은 손대지 않은 이미지였다. 또 다른 위반자는 크레이지 택시 방향제 세트. 앞서 Danny8bit가 X에서 지적했고 SEGAbits가 실제 아트워크를 생성 AI 도구에 넣어 같은 종류의 이미지를 재현해 냈다. 지난달 Time Extension 보도에 정리된 내용으로 아트워크 자체를 AI가 만든 것은 아니라는 희망이 남는 대목이다." },
-          { "t": "p", "x": "실제 제품 사진을 특정 배경에 얹는 작업에 AI를 쓰다가 AI가 되살리지 못하는 세부가 망가진 것으로 보인다. 헤이턴은 이 이미지들이 '자리 표시용'일 것으로 짐작하면서도 실물에 AI 디테일이 그대로 나온다면 경악할 일이라고 썼다. 크레이지 택시: 월드 투어가 이미 생성 AI 사용으로 도마에 올랐던 만큼 아끼는 브랜드가 슬롭의 구렁텅이로 굴러떨어지지 않기를 바란다는 말과 함께." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/pmiZmnzKJMigLWmND6869K-2560-80.jpg", "cap": "이미지: PC Gamer" },
+          { "t": "p", "x": "바이브 코딩의 진짜 골칫거리는 결과물 자체가 아니라 그 코드베이스 위에 뭔가를 더 쌓기가 불안정하다는 데 있다. AI 에이전트는 선호되는 출력을 잘 뽑지만 다음 단계를 '생각'하지는 못해서 AI 코드에는 중복과 비효율이 넘친다. 여기서 이른바 \"AI slop\"이 나온다." },
+          { "t": "p", "x": "톰스 하드웨어에 따르면 이 팀의 이름은 슬롭픽스(Slopfix)다. 불필요한 AI 코드를 일정량 걷어 내고 목표에 얼마나 도달했느냐에 따라 1만 달러 수수료의 일부를 받는다. 사이트에 든 예시는 10만 줄을 3만 5천 줄로 줄이는 것. 6만 5천 줄을 지우면 1만 달러를, 3만 2500줄만 줄이면 5천 달러를 받는 식이다." },
+          { "t": "p", "x": "요즘 흔한 문제이기도 하다. 몇 달 전 인기 PS3 에뮬레이터 팀은 사용자에게 \"submitting AI slop code\"를 멈춰 달라고 했고 오픈소스 게임 엔진 고닷도 연초에 AI 슬롭 코드에 잠겼다. 고닷은 지난달 AI 생성 코드 기여를 아예 받지 않기로 했는데 \"trust heavy users of AI to understand their code enough to fix it\"이 어렵다는 이유였다." },
+          { "t": "p", "x": "AI 코드를 치운다고 사용자가 자기 출력을 이해하지 못하는 문제까지 풀리지는 않는다. 다만 AI 에이전트가 그 위에 뭔가를 더 얹기는 쉬워진다. 남이 같은 도구로 코드베이스를 청소하는 데 수만 달러를 낼지는 미지수다. 필자는 슬롭픽스 사이트가 사람 손으로 만든 것인지부터 의심스럽고 사이트 문구도 믿음을 주지 못한다고 적었다." },
+          { "t": "p", "x": "그래도 한 가지 의문은 남는다. AI 코드를 뽑아 놓고 그 실수를 고치라며 AI 에이전트에 돈을 낸다면 그 에이전트가 제대로 일하는지는 누가 챙기나. 슬롭픽스의 엔지니어 셋이 코드를 손으로 훑는다면 애초에 코딩 봇을 쓴 의미는 무엇인가." }
         ]
       }
     }

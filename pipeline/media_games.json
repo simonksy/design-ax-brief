@@ -1,28 +1,22 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "media": [
     {
-      "id": "amano-zan",
+      "id": "doom-revelations",
       "type": "video",
-      "src": "pipeline/media/amano-zan.mp4",
-      "poster": "pipeline/media/amano-zan.jpg"
+      "src": "pipeline/media/doom-revelations.mp4",
+      "poster": "pipeline/media/doom-revelations.jpg"
     },
     {
-      "id": "ue-image-gen",
+      "id": "unity-ai-debug",
       "type": "video",
-      "src": "pipeline/media/ue-image-gen.mp4",
-      "poster": "pipeline/media/ue-image-gen.jpg"
+      "src": "pipeline/media/unity-ai-debug.mp4",
+      "poster": "pipeline/media/unity-ai-debug.jpg"
     },
     {
-      "id": "unity-scene-ai",
-      "type": "video",
-      "src": "pipeline/media/unity-scene-ai.mp4",
-      "poster": "pipeline/media/unity-scene-ai.jpg"
-    },
-    {
-      "id": "dreamcast-slop",
+      "id": "slopfix",
       "type": "image",
-      "src": "pipeline/media/dreamcast-slop.jpg"
+      "src": "pipeline/media/slopfix.jpg"
     }
   ]
 }

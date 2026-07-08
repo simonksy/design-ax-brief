@@ -1,79 +1,85 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "design",
   "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://www.figma.com/release-notes/",
-      "title": "Run multiple AI image edits and keep designing while they load",
-      "source": "Figma Release Notes",
+      "url": "https://www.builder.io/blog/how-kpmg-closed-the-design-to-engineering-gap",
+      "title": "How KPMG Closed the Design-to-Engineering Gap with Builder",
+      "source": "Builder.io",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Official Figma release (Jul 7): parallel AI image edits without blocking the canvas — directly changes daily workflow; most actionable item in the pool.",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's Jul 7 release note: designers can now fire off multiple AI image edits simultaneously from the toolbar and keep designing while they load — no more waiting for one edit to finish before starting the next. (Page dated 'Jul 7, 2026'; no per-entry permalink, entry title above.)"
+      "rationale": "Most actionable item in the pool: an AI design-intelligence system that drives rule-based component code generation, cutting design-review cycles from 10 days to same-day and delivery time 88% — a concrete design-to-code playbook.",
+      "published_iso": "2026-07-06",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7464784da1384373989caf168c5c2600?format=webp&width=800",
+      "excerpt": "KPMG adopted Builder's AI design-intelligence system to close the design-to-engineering gap, cutting delivery time 88% by driving component-based code generation with explicit architectural rules instead of probabilistic pattern inference. Design review cycles dropped from 10 days to same-day turnaround."
     },
     {
-      "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
-      "title": "Meta built an AI detection tool to ID images and video created with its new models",
-      "source": "Engadget",
+      "url": "https://www.cgchannel.com/2026/07/otoy-releases-octanerender-2026-4/",
+      "title": "Otoy releases OctaneRender 2026.4",
+      "source": "CG Channel",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "New provenance layer for AI imagery: Meta's Content Seal watermark survives crops/screenshots but breaks C2PA/SynthID interop — a real issue for creative asset pipelines.",
-      "published_iso": "2026-07-07T19:23:00-04:00",
-      "og_image": "https://www.engadget.com/img/gallery/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/intro-1783466213.jpg",
-      "excerpt": "Meta previewed a web-based detector that reads Content Seal, the invisible watermark embedded in images made with its new Muse Image model (video via the upcoming Muse Video to follow). The mark survives cropping, compression and screenshots — but is incompatible with SynthID and C2PA Content Credentials, an interoperability headache for creatives."
+      "rationale": "Shipped AI render feature: the Neural Radiance Cache (a network trained at render time to denoise indirect light) expands to macOS and network rendering, plus wider 3D Gaussian Splatting — a real speed/quality change for 3D artists.",
+      "published_iso": "2026-07-07",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260707_OctaneRender20264_f.jpg",
+      "excerpt": "Otoy's GPU renderer update expands the Neural Radiance Cache — a neural network trained at render time to cut noise in indirectly lit scenes — to macOS and network rendering, and extends 3D Gaussian Splatting support."
     },
     {
-      "url": "https://www.engineering.com/trimble-adds-ai-tools-to-mep-estimating-software/",
-      "title": "Trimble adds AI tools to MEP estimating software",
-      "source": "Engineering.com",
+      "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/",
+      "title": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9",
+      "source": "Engadget",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "High-novelty frontier release landing today (Jul 9): all three GPT-5.6 variants go public, expanding globally — a model shift that flows straight into designers' daily AI tooling; credible outlet.",
+      "published_iso": "2026-07-08T05:04:00-04:00",
+      "og_image": "https://www.engadget.com/img/gallery/openai-is-rolling-out-gpt-5-6-to-the-public-on-july-9/intro-1783501225.jpg",
+      "excerpt": "OpenAI will publicly launch all three GPT-5.6 variants — Sol, Luna and Terra — on July 9 after US government approval, expanding preview access globally. A frontier-model release that will land directly in designers' daily AI tooling."
+    },
+    {
+      "url": "https://develop3d.com/simulation/ntop-and-coreweave-tackle-nasas-vision-2030-with-time-to-spare/",
+      "title": "nTop and CoreWeave tackle NASA's Vision 2030 with time to spare",
+      "source": "DEVELOP3D",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Concrete shipped AI in CAD/estimating: symbol counting from drawings cuts takeoff time 50-60% plus a natural-language assistant — measurable workflow change, credible trade outlet.",
-      "published_iso": "2026-07-07T13:03:16+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/07/Trimble-adds-AI-tools-to-MEP-estimating-software.png",
-      "excerpt": "Trimble baked AI into its MEP estimating tools: automatic drawing-scale/naming detection, AI symbol counting from construction drawings (3M+ symbols auto-detected, manual takeoff time cut 50-60%), auto-routed conduit length takeoff, and a natural-language AI Smart Assistant in Accubid Anywhere (80%+ time saved on historical-pricing research)."
+      "rationale": "Concrete generative-engineering milestone: 12,000 CFD sims across 2,400 geometry variants run lights-out, producing a dataset viable for training AI surrogate models that predict aerodynamics without re-simulating — points to where computational design is heading.",
+      "published_iso": "2026-07-08",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/ntop-coreweave-nvidia-nasa-1024x576.jpg",
+      "excerpt": "nTop and CoreWeave ran 12,000 CFD simulations across 2,400 drone geometry variants lights-out, without manual intervention — a dataset the team says is viable for training AI surrogate models that predict aerodynamic performance without re-running simulation."
     },
     {
-      "url": "https://www.youtube.com/watch?v=VfA-vjsFQ1o",
-      "title": "Own the loop: how designers and researchers win with AI evals ft. Setor Zilevu (Figma) | Config 2026",
+      "url": "https://www.youtube.com/watch?v=2nn5J6tUzwE",
+      "title": "Skill issue: how we built an OS for PMs at Figma | Config 2026",
       "source": "Figma (YouTube)",
       "tool": "Social",
       "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "Most designer-actionable of the three fresh Config 2026 uploads: why design/research should own AI evaluation loops — a skill shift, not a rehash; 1 of max 2 allowed from this outlet.",
-      "published_iso": "2026-07-06T14:51:52-07:00",
-      "og_image": "https://i.ytimg.com/vi/VfA-vjsFQ1o/maxresdefault.jpg",
-      "excerpt": "Freshly uploaded Config 2026 session: Figma's Setor Zilevu on why designers and researchers should own the AI evaluation loop — using evals as the design instrument that shapes the quality of model-powered products."
-    },
-    {
-      "url": "https://www.uploadvr.com/meta-one-premium-subscription-now-required-for-longer-access-to-glasses-features/",
-      "title": "Subscription now required for longer access to some Meta glasses features",
-      "source": "UploadVR",
-      "tool": "VR Prototype",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "Fresh platform-policy news: AI generation allowances and reasoning mode on Meta glasses move behind a $20/mo tier — affects anyone prototyping for the device; adds vr category and a 5th outlet.",
-      "published_iso": "2026-07-07T00:20:25Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/07/Conversation-Focus-Meta-Connect-2025-shot.jpeg",
-      "excerpt": "Meta now gates longer use of some smart-glasses features behind the $20/mo Meta One Premium subscription — including bigger monthly AI usage allowances, more image/video generations with advanced models, and 'Thinking' mode reasoning. Free users get 3 hours of Conversation Focus vs 15 for subscribers, sparking criticism since the feature runs locally."
+      "rationale": "Distinct Config 2026 session (not the published AI-evals one): a concrete playbook for encoding team workflows into agent Skills as an internal OS — actionable for AI-augmented design/PM teams; single Config pick keeps the ≤2-YouTube guard and avoids repetition.",
+      "published_iso": "2026-07-06T14:52:51-07:00",
+      "og_image": "https://i.ytimg.com/vi/2nn5J6tUzwE/maxresdefault.jpg",
+      "excerpt": "Config 2026 session video: how Figma's team packaged agent Skills into an internal 'operating system' for PMs — a concrete playbook for encoding team workflows into AI agents."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.design — today 2026-07-07 plus days 07-01/07-02/07-03/07-04/07-06 (18 published cards)",
+    "checked_against": "news_data.json sections.design — today 2026-07-08 plus prior days; candidates pre-deduped by URL vs 5-day history",
     "duplicates_dropped": 0,
     "not_picked": [
-      "AutoRemesher 1.0 (80.lv) — algorithmic, not AI; weakest AI relevance and would double up render category",
-      "Stop Naming CSS Variables After Colors (dev.to) — evergreen craft piece, thin AI hook; dev.to heavily represented in recent history",
-      "OKLCH palettes (dev.to) — craft/tooling piece, explicit AI angle thin",
-      "Config 2026 'Skill issue: OS for PMs' (YouTube/Figma) — 2nd of 3 same-outlet videos; Skills topic already covered by 07-03 figma-agent-skills card, evals session more designer-actionable",
-      "Config 2026 'Designing money' (YouTube/Figma) — 3rd from same outlet, over the ≤2-per-outlet guard"
+      "Matt Wolfe 'Easy AI VFX' (YouTube Zq5Yj8yCiqY) — HARD EXCLUSION, allocated to Movies section today",
+      "AutoRemesher 1.0 (80 Level) — algorithmic retopology, not AI; dropped per prior-day judgment",
+      "CSS border-shape (CSS-Tricks) — weak/no AI hook, deprioritized",
+      "Road to VR 'embodiment vs immersion' — XR design craft, no AI angle",
+      "Reallusion Headshot 3.1 (CG Channel) — solid AI head-gen but niche 3D-character scope; would double CG Channel + render",
+      "ChatGPT voice mode GPT-Live (Engadget) — relevant to voice/multimodal design but would double Engadget + workflow; GPT-5.6 is the stronger workflow pick",
+      "UX Collective 'crisis of the what' — opinion essay, lower actionability than Builder/KPMG in figma",
+      "Rolls-Royce PLM (DEVELOP3D) — enterprise data strategy, less designer-actionable than nTop; one DEVELOP3D pick only",
+      "Config 2026 'Designing money' fintech brand (Figma YT) — 2nd Config video would over-index a 3rd consecutive Config day; PM OS Skills chosen as the single Config pick",
+      "18Birdies/Arccos Meta glasses caddy, SimX VR training — niche vr consumer/vertical, low design actionability",
+      "VentureBeat AI business categories — trend essay, thin concrete actionability"
     ],
-    "diversity": "5 distinct outlets, 5 distinct categories (figma/render/cad/social/vr), no accent collisions"
+    "diversity": "5 distinct outlets (Builder.io, CG Channel, Engadget, DEVELOP3D, Figma YouTube), 5 distinct categories (figma/render/workflow/cad/social), 1 YouTube item, no accent collisions"
   }
 }

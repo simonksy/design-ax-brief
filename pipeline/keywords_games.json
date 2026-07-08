@@ -1,65 +1,65 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "games",
   "mode": "all-keywords",
-  "note": "User override: '모든 키워드로' — no rotation. Working set = ALL core + entire games keywords list, minus keywords whose news was already covered in the last 2 days (2026-07-06 · 2026-07-07 cards) of news_data.json.",
+  "plan_notes": "OVERRIDE run ('모든 키워드로'): no rotation. Working set = ALL core + entire games keywords list, minus keywords covered in the last 2 days of news_data.json (2026-07-07 · 2026-07-08 games cards). YouTube channel emphasis rotated by date: Inworld AI + GDC today (Unreal Engine, Unity, Two Minute Papers channels all had cards on 7/7-7/8).",
   "skipped_recently_covered": [
     {
-      "keyword": "text-to-game",
-      "reason": "Covered 2026-07-06 card 'broche-prompt-games' (Clair Obscur director on prompt-generated games, GamesRadar+)"
-    },
-    {
-      "keyword": "AI voice acting games",
-      "reason": "Covered 2026-07-06 card 'hasbro-child-voices' (Hasbro AI voice contracts for child actors, PC Gamer)"
+      "keyword": "Unreal Engine AI",
+      "reason": "Covered 2026-07-08 card 'ue-image-gen' (UE viewport-conditioned image/video generation, Unreal Fest) and 7/7 'metahuman-sizzle'"
     },
     {
       "keyword": "Unity Muse",
-      "reason": "Covered 2026-07-07 card 'unity-ai-audit' (Unity AI auto-tagging generated assets, Unity YouTube)"
+      "reason": "Covered 2026-07-08 card 'unity-scene-ai' (Unity AI scene setup) and 7/7 'unity-ai-audit' (generated-asset auto-tagging)"
     },
     {
-      "keyword": "Unreal Engine AI",
-      "reason": "Covered 2026-07-07 card 'metahuman-sizzle' (MetaHuman 2026 sizzle reel, Unreal Engine YouTube)"
+      "keyword": "AI game art",
+      "reason": "Covered 2026-07-08 cards 'dreamcast-slop' (Sega AI-mangled promo art) and 'amano-zan' (Yoshitaka Amano on AI vs hand-drawn art)"
     },
     {
       "keyword": "vibe coding games",
-      "reason": "Covered 2026-07-07 card 'cnc-ios-vibeport' (C&C Generals vibe-coded iOS port, PC Gamer) and 2026-07-03 'godot-ai-ban'"
+      "reason": "Covered 2026-07-07 card 'cnc-ios-vibeport' (C&C Generals vibe-coded iOS port via Claude)"
+    },
+    {
+      "keyword": "AI character creation",
+      "reason": "Covered 2026-07-07 card 'metahuman-sizzle' (MetaHuman 2026 digital human showreel)"
     }
   ],
   "working_keywords": [
     {
       "keyword": "AI game",
       "type": "core",
-      "expansions": ["AI in video games", "AI game development", "generative AI gaming", "AI 게임 개발"]
+      "expansions": ["generative AI game development", "game studio AI adoption", "AI in games 2026", "AI 게임 개발"]
     },
     {
       "keyword": "AI 게임",
       "type": "core",
-      "expansions": ["게임 생성형 AI", "AI 게임 제작", "게임업계 AI 도입"]
+      "expansions": ["게임 생성형 AI", "게임사 AI 도입", "AI 게임 개발 사례"]
     },
     {
       "keyword": "generative game",
       "type": "core",
-      "expansions": ["generative gameplay", "AI-generated game", "promptable game", "generative interactive media"]
+      "expansions": ["generative gameplay", "AI-generated game", "generative interactive experience"]
     },
     {
       "keyword": "generative game assets",
       "type": "pool",
-      "expansions": ["AI 3D asset generation", "text-to-3D game asset", "AI texture generation", "Meshy Tripo3D game assets", "AI 게임 에셋"]
+      "expansions": ["AI 3D asset generation", "text-to-3D game asset", "AI texture generation", "Meshy Tripo text-to-3D"]
     },
     {
       "keyword": "AI NPC",
       "type": "pool",
-      "expansions": ["smart NPC LLM", "LLM-driven NPC dialogue", "AI companion character game", "AI NPC 게임"]
+      "expansions": ["LLM-driven NPC dialogue", "smart NPC", "AI companion NPC", "AI NPC 게임"]
     },
     {
       "keyword": "Inworld AI",
       "type": "pool",
-      "expansions": ["Inworld character engine", "Inworld game partnership", "Inworld runtime AI"]
+      "expansions": ["Inworld character engine", "Inworld runtime", "Inworld game partnership"]
     },
     {
       "keyword": "procedural generation AI",
       "type": "pool",
-      "expansions": ["AI procedural world generation", "ML procedural content generation", "machine learning PCG"]
+      "expansions": ["AI procedural world generation", "PCG machine learning", "AI dungeon generation"]
     },
     {
       "keyword": "AI playtesting",
@@ -69,78 +69,107 @@
     {
       "keyword": "neural game engine",
       "type": "pool",
-      "expansions": ["neural world simulation", "playable world model", "generative frame rendering game", "AI game engine demo"]
+      "expansions": ["playable world model", "generative game engine", "neural world simulation", "GameNGen"]
     },
     {
       "keyword": "AI level design",
       "type": "pool",
-      "expansions": ["AI map generation", "generative level layout", "AI dungeon generation"]
+      "expansions": ["AI level generation", "AI map design tool"]
     },
     {
       "keyword": "AI game dialogue",
       "type": "pool",
-      "expansions": ["dynamic dialogue LLM game", "generative narrative game", "AI dialogue writing games"]
-    },
-    {
-      "keyword": "AI game art",
-      "type": "pool",
-      "expansions": ["AI concept art game studio", "generative art pipeline games", "AI 게임 아트", "AI art disclosure Steam"]
+      "expansions": ["dynamic dialogue LLM", "AI branching narrative", "AI game writing"]
     },
     {
       "keyword": "AI animation games",
       "type": "pool",
-      "expansions": ["AI motion generation game", "ML character animation", "AI mocap games", "Cascadeur AI animation"]
+      "expansions": ["AI motion matching", "generative animation game dev", "AI mocap cleanup"]
+    },
+    {
+      "keyword": "AI voice acting games",
+      "type": "pool",
+      "expansions": ["SAG-AFTRA AI games", "AI voiceover game dev", "ElevenLabs game voice", "AI voice actor controversy"]
     },
     {
       "keyword": "NVIDIA ACE",
       "type": "pool",
-      "expansions": ["NVIDIA ACE digital human", "NVIDIA AI NPC tech", "GeForce AI gaming"]
+      "expansions": ["NVIDIA ACE NPC", "NVIDIA digital human games", "ACE autonomous game characters"]
     },
     {
       "keyword": "AI game design tool",
       "type": "pool",
-      "expansions": ["AI game prototyping tool", "generative game design copilot", "AI 게임 디자인 툴"]
-    },
-    {
-      "keyword": "AI character creation",
-      "type": "pool",
-      "expansions": ["AI character generator game", "generative avatar game", "AI 캐릭터 생성"]
+      "expansions": ["AI game prototyping tool", "AI copilot game engine", "AI game design assistant"]
     },
     {
       "keyword": "AI mod UGC",
       "type": "pool",
-      "expansions": ["AI modding tools", "generative UGC platform", "Roblox AI creation tools", "Minecraft AI mod"]
+      "expansions": ["Roblox AI creation tools", "generative AI UGC games", "AI modding tools"]
+    },
+    {
+      "keyword": "text-to-game",
+      "type": "pool",
+      "expansions": ["prompt-to-game platform", "text to playable game", "Roblox Cube text-to-game"]
     },
     {
       "keyword": "AI playable worlds",
       "type": "pool",
-      "expansions": ["playable world model demo", "interactive world generation", "AI world simulation game"]
+      "expansions": ["playable world model demo", "interactive world generation AI"]
     },
     {
       "keyword": "Genie world model",
       "type": "pool",
-      "expansions": ["Google DeepMind Genie 3", "world model gaming", "foundation world model interactive"]
+      "expansions": ["Google DeepMind Genie", "Genie interactive world", "world model gaming"]
     },
     {
       "keyword": "AI dynamic difficulty",
       "type": "pool",
-      "expansions": ["adaptive difficulty AI", "AI player modeling", "personalized gameplay AI"]
+      "expansions": ["adaptive difficulty machine learning", "AI difficulty balancing"]
     },
     {
       "keyword": "AI localization games",
       "type": "pool",
-      "expansions": ["AI game translation", "LLM localization game studio", "AI 게임 번역"]
+      "expansions": ["AI game translation", "LLM localization game dev", "AI 게임 현지화"]
     },
     {
       "keyword": "AI bug detection games",
       "type": "pool",
-      "expansions": ["AI QA automation games", "ML crash detection games", "AI test agents game build"]
+      "expansions": ["AI QA automation games", "ML crash detection game testing"]
     }
   ],
   "categories": [
     {
       "category": "games",
-      "label": "Games",
+      "queries": [
+        "AI game development news July 2026",
+        "generative AI games industry 2026",
+        "AI 게임 개발 생성형 AI 2026",
+        "AI-generated game release 2026",
+        "게임 개발 AI 도구 사례 2026",
+        "games industry AI adoption survey 2026",
+        "AI 3D asset generation game pipeline 2026",
+        "text-to-3D game assets tool 2026",
+        "AI NPC LLM game 2026",
+        "Inworld AI announcement game 2026",
+        "AI procedural world generation game 2026",
+        "AI playtesting agents game QA 2026",
+        "neural game engine playable world model 2026",
+        "AI level design generation tool 2026",
+        "LLM dynamic dialogue game narrative 2026",
+        "AI animation motion capture game development 2026",
+        "AI voice acting video games controversy 2026",
+        "SAG-AFTRA AI video game voice agreement 2026",
+        "NVIDIA ACE NPC digital human game 2026",
+        "AI game design copilot tool launch 2026",
+        "Roblox AI UGC creation tools 2026",
+        "text-to-game prompt playable platform 2026",
+        "playable AI world demo 2026",
+        "Genie world model DeepMind game 2026",
+        "AI dynamic difficulty adaptive gameplay 2026",
+        "AI localization game translation 2026",
+        "AI bug detection game testing automation 2026",
+        "AI 게임 NPC 음성 현지화 2026"
+      ],
       "allowed_domains": [
         "gamesindustry.biz",
         "gamedeveloper.com",
@@ -164,48 +193,32 @@
         "aftermath.site",
         "nme.com",
         "destructoid.com",
-        "theverge.com",
         "nvidia.com",
-        "blog.roblox.com",
-        "deepmind.google",
-        "youtube.com"
-      ],
-      "queries": [
-        "AI game development news July 2026",
-        "generative AI video games announcement 2026",
-        "AI 게임 개발 소식 2026",
-        "게임 생성형 AI 사례",
-        "generative game assets studio pipeline 2026",
-        "text-to-3D game asset generation tool release",
-        "AI texture generation game workflow 2026",
-        "AI NPC LLM dialogue game 2026",
-        "Inworld AI announcement partnership 2026",
-        "procedural generation machine learning game 2026",
-        "AI playtesting automated QA agents game studio",
-        "AI game balancing machine learning news",
-        "neural game engine demo 2026",
-        "playable world model interactive demo 2026",
-        "Genie world model DeepMind interactive",
-        "AI level design map generation news",
-        "AI game dialogue dynamic narrative LLM",
-        "AI game art concept art pipeline studio 2026",
-        "AI generated art Steam game 2026",
-        "AI animation motion generation game characters",
-        "NVIDIA ACE digital human game 2026",
-        "AI game design prototyping tool launch 2026",
-        "AI character creation generator game news",
-        "Roblox AI UGC creation tools news 2026",
-        "AI modding generative mod tools game",
-        "Minecraft AI mod generative 2026",
-        "AI dynamic difficulty adaptive gameplay research",
-        "AI localization game translation studio 2026",
-        "AI bug detection game QA machine learning",
-        "게임 AI 캐릭터 생성 기술",
-        "site:youtube.com Inworld AI game demo 2026",
-        "site:youtube.com GDC AI game development talk 2026",
-        "site:youtube.com Unreal Engine AI feature 2026",
-        "AI gaming biggest news this week"
+        "blogs.nvidia.com",
+        "inworld.ai",
+        "roblox.com"
       ]
+    },
+    {
+      "category": "games",
+      "queries": [
+        "site:youtube.com Inworld AI game character demo 2026",
+        "site:youtube.com GDC AI game development talk 2026",
+        "site:youtube.com GDC generative AI summit 2026"
+      ],
+      "allowed_domains": [
+        "youtube.com",
+        "youtu.be"
+      ],
+      "_note": "YouTube channel slice for games (rotated emphasis: Inworld AI, GDC — Unreal Engine, Unity, Two Minute Papers channels all produced cards on 7/7-7/8). Verify uploadDate via watch-page JSON-LD; best-effort, never blocking."
+    },
+    {
+      "category": "games",
+      "queries": [
+        "AI gaming breakthrough trending this week"
+      ],
+      "allowed_domains": [],
+      "_note": "Wildcard trending query — any authoritative source."
     }
   ]
 }

@@ -1,63 +1,56 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "section": "games",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
-      "source": "Polygon",
-      "tool": "Amano",
+      "url": "https://www.nvidia.com/en-us/geforce/news/doom-the-dark-ages-revelations-dlss-path-tracing/",
+      "source": "NVIDIA GeForce News",
+      "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Freshest item in the pool (Jul 7): legendary Final Fantasy artist Yoshitaka Amano's nuanced 'AI is a tool, only humans create the original' stance is a high-credibility artist perspective the section hasn't covered.",
-      "published_iso": "2026-07-07T18:30:20Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/img_6751.JPG?w=1200&h=675&fit=crop",
-      "excerpt": "Interviewed at Anime Expo about ZAN, his new hand-drawn animated series, legendary Final Fantasy artist Yoshitaka Amano says he sees AI as a tool, not an enemy — but insists 'only humans can create the original,' arguing hand-drawn imperfection matters more than ever in an age of generative art."
+      "rationale": "Strongest, most concrete item: neural rendering (DLSS Multi Frame Generation up to 6X + path tracing with Ray Reconstruction) shipping in a marquee title today — a clear signal of how fast AI rendering is becoming default in real games.",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/doom-the-dark-ages-revelations-dlss-4-5-path-tracing/doom-the-dark-ages-revelations-dlss-path-tracing-ogimage.jpg",
+      "excerpt": "id Software's DOOM: The Dark Ages expansion Revelations ships with neural rendering across the board — DLSS Multi Frame Generation up to 6X, Super Resolution, and path tracing with Ray Reconstruction (up to 310 fps at 4K on RTX 5090); Assassin's Creed Black Flag Resynced follows July 9."
     },
     {
-      "url": "https://www.youtube.com/watch?v=LGvsShWEH3k",
-      "source": "Unreal Engine (YouTube)",
-      "tool": "Unreal Engine",
+      "url": "https://www.youtube.com/watch?v=7FtJiOTYtP0",
+      "source": "Unity (YouTube)",
+      "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Most actionable pick: Epic's official State of Unreal demo of image/video generation models wired into the UE art pipeline directly changes how game artists will direct generative output.",
-      "published_iso": "2026-06-24T07:00:05-07:00",
-      "og_image": "https://i.ytimg.com/vi/LGvsShWEH3k/maxresdefault.jpg",
-      "excerpt": "Epic's State of Unreal session shows how Unreal Engine tools used in tandem with image and video generation models let artists direct generative output with 'greater intention and creative control' — an official look at how genAI plugs into the UE art pipeline, coming soon."
+      "rationale": "High actionability for working Unity devs — prompt-driven setup and debugging of animation state machines and behavior trees; distinct content from the already-published asset-audit (7/7) and scene-setup (7/8) demos.",
+      "published_iso": "2026-06-29T06:00:37-07:00",
+      "og_image": "https://i.ytimg.com/vi/7FtJiOTYtP0/maxresdefault.jpg",
+      "excerpt": "Official Unity video shows Unity AI (Beta) setting up and debugging animation state machines, behavior trees, and transitions from prompts 'so you can focus on game feel' — a third pillar of the Unity AI workflow after the asset-audit and scene-setup demos."
     },
     {
-      "url": "https://www.youtube.com/shorts/_D26zKNPX7s",
-      "source": "Unity (YouTube)",
-      "tool": "Unity AI",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "Usable today in the free Unity AI beta; a distinct feature (AI-driven scene assembly) from the 7/07 asset-audit card, and keeps engine coverage balanced between Unreal and Unity.",
-      "published_iso": "2026-07-06T06:57:03-07:00",
-      "og_image": "https://i.ytimg.com/vi/_D26zKNPX7s/maxresdefault.jpg",
-      "excerpt": "New official Unity short demos Unity AI (Beta) automating scene setup so developers spend more time iterating on ideas — a sibling feature to the asset-audit workflow covered on 7/07, this one focused on AI-driven scene assembly inside the editor."
-    },
-    {
-      "url": "https://www.gamesradar.com/hardware/retro/sega-is-seemingly-letting-ai-turn-its-dreamcast-keychains-into-slop-but-the-final-product-could-be-safe/",
-      "source": "GamesRadar+",
-      "tool": "Sega",
+      "url": "https://www.pcgamer.com/software/ai/slopfix-a-software-team-is-charging-up-to-usd10-000-to-clean-up-ai-generated-code-with-the-help-of-checks-notes-ai/",
+      "source": "PC Gamer",
+      "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Fresh (Jul 7) cautionary case of AI slop slipping into officially licensed game merch marketing — distinct from the earlier Sonic ARG data story and adds an industry-watch angle to the mix.",
-      "published_iso": "2026-07-07T12:32:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NHUvfgQ2PsQUt3Q2uRsFBB-1920-80.jpg",
-      "excerpt": "Promo images for officially licensed Sega Dreamcast controller keychains appear AI-altered — zooming into the Sega logo reveals vague cursive-shaped lines instead of real letters — the latest case of AI-generated marketing art slipping into licensed game merchandise."
+      "rationale": "Novel, credible field report on the downstream cost of AI / vibe-coded projects — directly relevant to solo devs and small studios weighing AI codegen tradeoffs ('who fixes the fixes?').",
+      "published_iso": "2026-07-08T15:22:46Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pmiZmnzKJMigLWmND6869K-2560-80.jpg",
+      "excerpt": "A software team is charging up to $10,000 to 'fix' broken vibe-coded projects — using AI to clean up AI-generated code. A pointed snapshot of where the vibe-coding boom lands for small studios and solo devs: 'who fixes the fixes?'"
     }
   ],
   "dedup_notes": {
-    "note": "User deferred. Pool after hard exclusion: 5 usable candidates. Verified against sections.games today (2026-07-07) and days 2026-07-01..07-06 in news_data.json — no URL or content overlap among the 4 picks. YouTube capped at 2 of 3 per final-5 diversity guard, yielding 4 picks from 4 distinct outlets (floor 3 met, never padded).",
+    "note": "User deferred. Pool of 6 (already URL-deduped vs history). Applied hard exclusions and content dedup: 3 fresh, uncovered picks from 3 distinct outlets (NVIDIA, Unity, PC Gamer). Floor of 3 met; pool genuinely exhausted (no more unique fresh items) so not padded to 5.",
     "dropped": [
       {
         "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
         "reason": "Hard exclusion — same story published 2026-07-07 in the design section."
       },
       {
-        "url": "https://www.youtube.com/watch?v=mGuaRAWdXPA",
-        "reason": "Diversity guard — third youtube.com item (cap 2). Lowest freshness of the three (Jun 24 video of the Jun 17-18 State of Unreal announcement) and keeping it would double the Unreal Engine outlet while dropping Unity."
+        "url": "https://www.youtube.com/watch?v=IRlduPJT9M0",
+        "reason": "Content overlap — State of Unreal 2026 highlight reel recapping the same event whose UE image/video-gen session (7/8) and MetaHuman reel (7/7) were already published; adds no genuinely new material. Also weakest item in pool."
+      },
+      {
+        "url": "https://www.nvidia.com/en-us/geforce/news/june-2026-dlss-games-summer-of-rtx/",
+        "reason": "Weak listicle roundup and a second NVIDIA item; per outlet preference kept the stronger DOOM: The Dark Ages DLSS piece instead."
       }
     ]
   }
