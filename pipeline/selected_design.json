@@ -1,62 +1,79 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "design",
-  "selection_mode": "user",
+  "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://dev.to/rohit_raghuvansh_2f04aca3/model-context-protocol-explained-for-designers-and-pms-5hcm",
-      "source": "DEV Community",
+      "url": "https://www.figma.com/release-notes/",
+      "title": "Run multiple AI image edits and keep designing while they load",
+      "source": "Figma Release Notes",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "User pick 1. Dedup check passed: 07-06 figma-to-code card only mentioned MCP in passing; this is a dedicated designer/PM-facing MCP explainer — distinct URL and distinct core story.",
-      "published_iso": "2026-07-06T04:11:03Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ffiles.catbox.moe%2F48eqt5.png",
-      "excerpt": "A designer/PM-oriented explainer of Model Context Protocol — how MCP servers let AI agents reach design files, docs, and tooling, and what that means for non-engineers."
+      "rationale": "Official Figma release (Jul 7): parallel AI image edits without blocking the canvas — directly changes daily workflow; most actionable item in the pool.",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma's Jul 7 release note: designers can now fire off multiple AI image edits simultaneously from the toolbar and keep designing while they load — no more waiting for one edit to finish before starting the next. (Page dated 'Jul 7, 2026'; no per-entry permalink, entry title above.)"
     },
     {
-      "url": "https://dev.to/kalpick_sharma_d32ace423a/ai-powered-design-systems-the-part-nobody-talks-about-1h58",
-      "source": "DEV Community",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "User pick 2. Governance/drift side of AI design systems — actionable for design-system teams; no overlap with published history.",
-      "published_iso": "2026-07-05T19:47:56Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn8u989ivry5kps8ycgi4.jpg",
-      "excerpt": "A look at the unglamorous side of AI-powered design systems — governance, drift, and maintenance work that AI generation creates rather than removes — and what design-system teams should prepare for."
-    },
-    {
-      "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
-      "source": "80 Level",
+      "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
+      "title": "Meta built an AI detection tool to ID images and video created with its new models",
+      "source": "Engadget",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "User pick 3. Fresh prompt-to-physical-object pipeline (Hi3D) — novel end-to-end workflow, not previously covered.",
-      "published_iso": "2026-07-06T13:07:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg",
-      "excerpt": "Hi3D automates the full pipeline from a text prompt to a print-ready 3D collectible: it generates the model, intelligently splits it into printable parts, adds assembly connectors, and exports files 'in less than five minutes' — no 3D modeling or mesh repair required."
+      "rationale": "New provenance layer for AI imagery: Meta's Content Seal watermark survives crops/screenshots but breaks C2PA/SynthID interop — a real issue for creative asset pipelines.",
+      "published_iso": "2026-07-07T19:23:00-04:00",
+      "og_image": "https://www.engadget.com/img/gallery/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/intro-1783466213.jpg",
+      "excerpt": "Meta previewed a web-based detector that reads Content Seal, the invisible watermark embedded in images made with its new Muse Image model (video via the upcoming Muse Video to follow). The mark survives cropping, compression and screenshots — but is incompatible with SynthID and C2PA Content Credentials, an interoperability headache for creatives."
     },
     {
-      "url": "https://develop3d.com/cad/kyrall-launches-its-ai-automated-cad-modeller/",
-      "source": "DEVELOP3D",
+      "url": "https://www.engineering.com/trimble-adds-ai-tools-to-mep-estimating-software/",
+      "title": "Trimble adds AI tools to MEP estimating software",
+      "source": "Engineering.com",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "User pick 4. New product launch (Kyrall AI CAD modeller) — distinct from the 07-04 Prometheus commentary card; fresh spec-to-parametric-model news.",
-      "published_iso": "2026-07-06T10:47:00+01:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/Kyrall-launch-2026-Context-Manager-1024x576.jpg",
-      "excerpt": "Kyrall launched an AI-automated CAD modeller that turns engineering specifications into parametric 3D models and functional assemblies in minutes, grounded in a 'Context Manager' repository of the user's own design data and best practices."
+      "rationale": "Concrete shipped AI in CAD/estimating: symbol counting from drawings cuts takeoff time 50-60% plus a natural-language assistant — measurable workflow change, credible trade outlet.",
+      "published_iso": "2026-07-07T13:03:16+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/07/Trimble-adds-AI-tools-to-MEP-estimating-software.png",
+      "excerpt": "Trimble baked AI into its MEP estimating tools: automatic drawing-scale/naming detection, AI symbol counting from construction drawings (3M+ symbols auto-detected, manual takeoff time cut 50-60%), auto-routed conduit length takeoff, and a natural-language AI Smart Assistant in Accubid Anywhere (80%+ time saved on historical-pricing research)."
     },
     {
-      "url": "https://dev.to/hadil/top-5-ai-ui-design-tools-in-2026-i-tested-them-all-with-the-same-prompt-hm7",
-      "source": "DEV Community",
-      "tool": "Figma",
-      "accent": "#3b6bff",
+      "url": "https://www.youtube.com/watch?v=VfA-vjsFQ1o",
+      "title": "Own the loop: how designers and researchers win with AI evals ft. Setor Zilevu (Figma) | Config 2026",
+      "source": "Figma (YouTube)",
+      "tool": "Social",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "User pick 5. Same-prompt benchmark across five AI UI tools — practical comparison, no history overlap. Shares the figma category with pick 1, so given a distinct palette accent (#3b6bff).",
-      "published_iso": "2026-07-06T12:29:50Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frz1mcjpl9b897bgq6i6p.png",
-      "excerpt": "A hands-on comparison that feeds the exact same prompt into five leading AI UI design tools and compares the generated interfaces — a practical benchmark of where prompt-to-UI quality actually stands in 2026."
+      "rationale": "Most designer-actionable of the three fresh Config 2026 uploads: why design/research should own AI evaluation loops — a skill shift, not a rehash; 1 of max 2 allowed from this outlet.",
+      "published_iso": "2026-07-06T14:51:52-07:00",
+      "og_image": "https://i.ytimg.com/vi/VfA-vjsFQ1o/maxresdefault.jpg",
+      "excerpt": "Freshly uploaded Config 2026 session: Figma's Setor Zilevu on why designers and researchers should own the AI evaluation loop — using evals as the design instrument that shapes the quality of model-powered products."
+    },
+    {
+      "url": "https://www.uploadvr.com/meta-one-premium-subscription-now-required-for-longer-access-to-glasses-features/",
+      "title": "Subscription now required for longer access to some Meta glasses features",
+      "source": "UploadVR",
+      "tool": "VR Prototype",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "Fresh platform-policy news: AI generation allowances and reasoning mode on Meta glasses move behind a $20/mo tier — affects anyone prototyping for the device; adds vr category and a 5th outlet.",
+      "published_iso": "2026-07-07T00:20:25Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/07/Conversation-Focus-Meta-Connect-2025-shot.jpeg",
+      "excerpt": "Meta now gates longer use of some smart-glasses features behind the $20/mo Meta One Premium subscription — including bigger monthly AI usage allowances, more image/video generations with advanced models, and 'Thinking' mode reasoning. Free users get 3 hours of Conversation Focus vs 15 for subscribers, sparking criticism since the feature runs locally."
     }
-  ]
+  ],
+  "dedup_notes": {
+    "checked_against": "news_data.json sections.design — today 2026-07-07 plus days 07-01/07-02/07-03/07-04/07-06 (18 published cards)",
+    "duplicates_dropped": 0,
+    "not_picked": [
+      "AutoRemesher 1.0 (80.lv) — algorithmic, not AI; weakest AI relevance and would double up render category",
+      "Stop Naming CSS Variables After Colors (dev.to) — evergreen craft piece, thin AI hook; dev.to heavily represented in recent history",
+      "OKLCH palettes (dev.to) — craft/tooling piece, explicit AI angle thin",
+      "Config 2026 'Skill issue: OS for PMs' (YouTube/Figma) — 2nd of 3 same-outlet videos; Skills topic already covered by 07-03 figma-agent-skills card, evals session more designer-actionable",
+      "Config 2026 'Designing money' (YouTube/Figma) — 3rd from same outlet, over the ≤2-per-outlet guard"
+    ],
+    "diversity": "5 distinct outlets, 5 distinct categories (figma/render/cad/social/vr), no accent collisions"
+  }
 }

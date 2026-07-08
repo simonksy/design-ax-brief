@@ -1,32 +1,32 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "movies",
   "media": [
     {
-      "id": "tilly-misaligned",
+      "id": "switchhdr",
       "type": "image",
-      "src": "pipeline/media/tilly-misaligned.jpg"
+      "src": "pipeline/media/switchhdr.jpg"
     },
     {
-      "id": "friend-pornstar",
-      "type": "image",
-      "src": "pipeline/media/friend-pornstar.jpg"
-    },
-    {
-      "id": "siggraph-caf",
-      "type": "image",
-      "src": "pipeline/media/siggraph-caf.jpg"
-    },
-    {
-      "id": "runway-agent2",
-      "type": "image",
-      "src": "pipeline/media/runway-agent2.jpg"
-    },
-    {
-      "id": "cr-anime",
+      "id": "corridor-soad",
       "type": "video",
-      "src": "pipeline/media/cr-anime.mp4",
-      "poster": "pipeline/media/cr-anime.jpg"
+      "src": "pipeline/media/corridor-soad.mp4",
+      "poster": "pipeline/media/corridor-soad.jpg"
+    },
+    {
+      "id": "mj-discovery",
+      "type": "image",
+      "src": "pipeline/media/mj-discovery.png"
+    },
+    {
+      "id": "a24-deepmind",
+      "type": "image",
+      "src": "pipeline/media/a24-deepmind.jpg"
+    },
+    {
+      "id": "hasbro-voices",
+      "type": "image",
+      "src": "pipeline/media/hasbro-voices.png"
     }
   ]
 }

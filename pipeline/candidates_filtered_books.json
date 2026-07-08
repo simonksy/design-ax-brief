@@ -1,92 +1,96 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "books",
+  "now_iso": "2026-07-07T23:46:48Z",
   "window_hours": 336,
   "items": [
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100773-international-publishers-convene-in-malaysia-for-ipa-congress-2026.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "AI dominated keynotes, panels, and even opening remarks at the 35th International Publishers Association Congress in Kuala Lumpur (July 5-9, ~500 participants from 40 countries). Keynote speaker Thad McIlroy said publishing has moved past the 'golly-gee-whiz phase of AI' to the 'what the heck am I going to do about it?' phase, while IPA president Gvantsa Jobava called publishers' collective work 'the best source of training data for AI.'"
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/07/35th-international-publishers-association-congress-highlights-collaboration-courage-and-ai/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Day-one coverage of the 35th IPA Congress in Kuala Lumpur, where the opening panel 'Ethics of Publishing: Accountability in the Age of AI and Misinformation' framed publishers as actively battling AI's ability to propagate misinformation at exponential rates and erode trust, alongside copyright and freedom-to-publish agendas."
+    },
+    {
+      "url": "https://www.thebookseller.com/news/jamir-nazir-wins-commonwealth-short-story-prize-after-ai-review-clears-regional-winner",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-06-30T00:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/664/Jamir-Nazir.jpg",
+      "excerpt": "Jamir Nazir won the 2026 Commonwealth Short Story Prize for 'The Serpent in the Grove' after an unprecedented review cleared him of AI-use allegations that had surrounded his regional-winner entry — a landmark case of a literary prize formally adjudicating AI suspicion against a writer."
+    },
     {
       "url": "https://www.thebookseller.com/news/ai-copyright-litigation-yet-to-resolve-key-questions-for-publishers-pls-conference-hears",
       "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-07-06T07:45:00Z",
+      "published_iso": "2026-07-06T00:00:00Z",
       "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-      "excerpt": "Publishers are still waiting for 'clear' legal answers on AI training, outputs and licensing, the Publishers' Licensing Services (PLS) Conference heard, with key questions for publishers' AI strategies still unresolved by ongoing copyright litigation."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/michael-caine-licenses-voice-to-narrate-ai-adaptation-odyssey-audiobook",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-06-24T15:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/475/Michael_Caine__Jeff_Spicer.jpg",
-      "excerpt": "Michael Caine has licensed an AI-generated version of his voice to narrate an audiobook adaptation of Homer's Odyssey, produced with voice-AI company ElevenLabs — a marquee case of a major actor formally licensing, rather than fighting, an AI voice clone for a literary work."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/over-250-uk-publishers-opt-in-to-collective-ai-licensing-scheme",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-06-24T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "More than 250 UK publishers have opted in to Publishers' Licensing Services' collective AI licensing scheme, which lets publishers jointly manage and monetize licensing of their content to AI companies — a concrete counter-model to unlicensed scraping."
-    },
-    {
-      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "source": "The Verge",
-      "category": "books",
-      "published_iso": "2026-06-30T15:30:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
-      "excerpt": "Library ebook-lending app Libby will let readers filter out AI-narrated and AI-written titles — but the filters rely on AI content being self-labeled by publishers, raising questions about how effective the screening can really be."
-    },
-    {
-      "url": "https://bookriot.com/jamir-nazir-commonwealth-prize-ai-accusation-granta/",
-      "source": "Book Riot",
-      "category": "books",
-      "published_iso": "2026-07-01T14:44:53Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/commonwealth-short-story-prize-1.jpg.optimal.jpg",
-      "excerpt": "Writer Jamir Nazir won the Commonwealth Short Story Prize despite earlier accusations of AI use; the Commonwealth Foundation cleared him after a month-long investigation that notably did not use AI-detection software, while Granta ended its partnership with the prize over 'editorial integrity' concerns."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-6th-2026/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-07-06T11:16:11Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "excerpt": "US AI companies are reportedly buying large quantities of secondhand books in German-speaking markets — scanning then destroying them — to train language models, while an Australian survey finds 17.4% of audiobook listeners have already tried AI narration."
+      "excerpt": "Publishers are still waiting for 'clear' legal answers on AI training, outputs, and licensing, the Publishers' Licensing Services Conference heard — years of copyright litigation have yet to resolve the key questions publishers need answered before committing to AI licensing strategies."
     },
     {
       "url": "https://janefriedman.com/links-of-interest-july-1-2026/",
       "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-07-01T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2023/12/Jane-Friedman-2023-headshot-horizontal-1000x667.png",
-      "excerpt": "Jane Friedman's industry roundup flags the rise of ChatGPT 'infinite story demanders' — readers generating large volumes of personalized AI fanfiction and erotica for private consumption — alongside shifts in book discovery and author platform economics."
+      "published_iso": "2026-07-01T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Friedman highlights new research analyzing 500,000 anonymized ChatGPT conversations that identifies 'infinite story demanders' — a small cohort of power users generating large volumes of repetitive AI fanfiction and erotica for personal consumption — evidence that LLMs enable interactive, playful, permutating story consumption outside traditional publishing."
     },
     {
-      "url": "https://bookriot.com/today-in-books-july-5-2026/",
-      "source": "Book Riot",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-07-05T15:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
-      "excerpt": "Book Riot's weekly news roundup leads with the writer accused of AI use who went on to win the Commonwealth Prize, alongside the week's other publishing developments."
+      "published_iso": "2026-06-25T00:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/06/26-0508-Cambridge-Newton-Tree-scaled-e1781969265606-1024x915.jpeg",
+      "excerpt": "Cambridge University Press, COUNTER, and NISO convened nearly three dozen experts — libraries, AI tool developers, funders, publishers, platforms — to build frameworks that make AI use of scholarly content traceable and measurable: usage metrics, provenance, and attribution standards for generative AI systems."
     },
     {
-      "url": "https://feedback.sudowrite.com/changelog/sonnet-5-folder-exports-and-more",
-      "source": "Sudowrite",
+      "url": "https://lithub.com/can-chatgpt-produce-a-version-of-proust-worth-reading/",
+      "source": "Literary Hub",
       "category": "books",
-      "published_iso": "2026-06-30T00:00:00Z",
-      "og_image": "https://og.featurebase.app/?type=root&title=Sonnet+5%2C+Folder+Exports+%26+More&description=Hey+folks%21+The+team+has+been+busy%2C+and+we%E2%80%99ve+got+a+whole+bunch+of+exciting+new+features+and+fixes+to+share+with+you.+%F0%9F%86%95+Claude+Sonnet+5+is+Here%21+Anthr&companyLogo=https%3A%2F%2Ffb-usercontent.fra1.cdn.digitaloceanspaces.com%2F019224dc-a888-7f48-9ff1-ea2dd116543a.png&companyName=Sudowrite&companyThemeColor=%23b169ff&companyTLP=bottom",
-      "excerpt": "Fiction-writing tool Sudowrite added Anthropic's Claude Sonnet 5 as a writing model in its June 30 update, alongside folder exports and keyboard-accessible document reordering — a fresh model upgrade for AI-assisted novelists. (Off-list domain: official Sudowrite changelog for keyword 'Sudowrite'; no allowed-domain outlet covered this release. Date from on-page changelog entry date.)"
-    },
-    {
-      "url": "https://goodereader.com/blog/kobo-ereader-news/kobo-has-great-plans-for-the-rest-of-2026",
-      "source": "Good e-Reader",
-      "category": "books",
-      "published_iso": "2026-07-03T01:06:29Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/02210457/exec_michaeltamblyn.jpg",
-      "excerpt": "Kobo CEO Michael Tamblyn says features coming in fall/winter 2026 will 'fundamentally change how we read and write' on its e-readers, with summer updates including StoryGraph integration and a revamped Web Reader — signaling Kobo's next AI-era reading platform push."
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/06/proust-chatgpt.png",
+      "excerpt": "Bryan Charles traces AI's slow, steady invasion of literary translation through the test case of translating Proust with ChatGPT, talking with translators Andrew Rothwell and Sam Taylor about how AI tools have reduced the 'cognitive load' of literary translation — and what is lost when they do."
     }
   ],
+  "collection_notes": {
+    "outlets": [
+      "publishersweekly.com",
+      "publishingperspectives.com",
+      "thebookseller.com (x2)",
+      "janefriedman.com",
+      "scholarlykitchen.sspnet.org",
+      "lithub.com"
+    ],
+    "dropped_stale": [
+      "thebookseller.com Fox & Fable AI answer-engines interview (2026-06-19)",
+      "publishingperspectives.com BISG/BookNet AI survey (2026-06-22, misses 336h cutoff by ~2 days)",
+      "publishersweekly.com USBS CEOs 'AI witch hunt' (2026-06-04)",
+      "lithub.com Granta AI story (2026-05-19), Kreizman AI detection (2026-04-16), Anthropic Project Panama (2026-02-06)",
+      "goodereader.com Kindle Scribe AI features (2026-06-05), Kobo Writing Life AI ToS (2025-06)",
+      "insights.bookbub.com authors AI survey (2025-05-15)",
+      "writersdigest.com AI made me a better writer (2025-04-13)",
+      "thebookseller.com chain-of-trust (2026-06-02), craft-and-creativity (2024-10-03), new-moral-right (2025-02-12)"
+    ],
+    "dropped_dup_or_published": [
+      "publishingperspectives.com Around the Book World July 6 (zoom-books card published 7/7)",
+      "bookriot.com Today in Books July 5 (only AI item duplicates Bookseller Commonwealth Prize story)",
+      "goodereader.com Kindle 5.19.5 / Story So Far (published 7/6 card kindle-story-so-far)"
+    ],
+    "social": "YouTube swept (Creative Penn, Nerdy Novelist, Self Publishing with Dale, David Gaughran): no verifiable fresh AI-topic uploads found in window; Creative Penn's July 6 episode is not AI-focused. Instagram not applicable to books allowed_domains.",
+    "exhaustion_note": "Wide funnel target not reachable: 5 books-section AI stories were published on 2026-07-07 (Libby, Caine/ElevenLabs, PLS collective licensing, Sudowrite, Zoom Books) plus earlier July cards, consuming much of the fresh pool. Swept 14 of 24 allowed domains plus expansions (KDP policy, Audible, NovelAI/Novelcrafter/Atticus, Anthropic settlement, BookBub survey, Tokarczuk) — remaining hits were stale or off-list SEO content."
+  },
   "dedup": {
     "dropped": 0,
-    "kept": 10,
+    "kept": 7,
     "against_days": 5
   }
 }

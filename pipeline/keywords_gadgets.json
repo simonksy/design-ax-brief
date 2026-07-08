@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "gadgets",
-  "note": "OVERRIDE run: ALL core + pool keywords (no rotation), minus keywords whose news already appeared in the last 2 collected days (2026-07-06, 2026-07-04) of news_data.json. Seeds = working keywords + expansion phrases; categories[0].queries = concrete search plan.",
+  "note": "OVERRIDE run: ALL core + pool keywords (no rotation), minus keywords whose news already appeared in the last 2 collected days (2026-07-07, 2026-07-06) of news_data.json. Seeds = working keywords + expansion phrases; categories[0].queries = concrete search plan.",
   "seeds": [
     "AI gadget",
     "AI hardware",
@@ -12,6 +12,7 @@
     "AI companion device",
     "Copilot+ PC",
     "NPU laptop",
+    "Snapdragon AI PC",
     "Apple Intelligence device",
     "Galaxy AI phone",
     "AI earbuds",
@@ -39,9 +40,10 @@
     "Windows AI Copilot+ feature update",
     "Intel Panther Lake AI laptop",
     "AMD Ryzen AI laptop",
+    "Snapdragon X2 Elite laptop",
     "Apple Intelligence Siri upgrade",
     "Apple HomePod smart display rumor",
-    "One UI 8.5 Galaxy AI feature",
+    "One UI 9 Galaxy AI feature",
     "갤럭시 언팩 2026 AI 안경",
     "Pixel feature drop Gemini",
     "real-time translation earbuds",
@@ -67,13 +69,12 @@
     "가정용 로봇 AI"
   ],
   "skipped_recently_covered": [
-    {"keyword": "smart glasses AI", "reason": "MemoMind Kickstarter (07-06), Snap SPECS pre-order (07-04), Ray-Ban Meta Optics review (07-06)"},
-    {"keyword": "Meta Ray-Ban glasses", "reason": "Ray-Ban Meta Optics review (07-06), Meta One Premium paywall (07-04)"},
+    {"keyword": "smart glasses AI", "reason": "MemoMind One Kickstarter (07-06), Ray-Ban Meta Optics review (07-06)"},
+    {"keyword": "Meta Ray-Ban glasses", "reason": "Ray-Ban Meta Optics review (07-06)"},
     {"keyword": "AI smartphone", "reason": "Tom's Guide 'phones need less AI' piece (07-06)"},
-    {"keyword": "on-device AI", "reason": "Minix ER939 local-AI mini PC (07-06), Meta on-device feature paywall (07-04)"},
-    {"keyword": "Snapdragon AI PC", "reason": "HP OmniBook Ultra 14 Snapdragon X2 Elite review (07-04)"},
-    {"keyword": "스마트 글라스", "reason": "smart-glasses saturation across 07-04/07-06 cards"},
-    {"keyword": "온디바이스 AI", "reason": "same coverage as on-device AI (07-04/07-06)"}
+    {"keyword": "on-device AI", "reason": "Samsung UFS 5.0 on-device AI storage (07-07), Minix ER939 local-AI mini PC (07-06)"},
+    {"keyword": "온디바이스 AI", "reason": "same coverage as on-device AI (07-06/07-07)"},
+    {"keyword": "스마트 글라스", "reason": "same coverage as smart glasses AI (07-06)"}
   ],
   "working_keywords": [
     {"keyword": "AI gadget", "source": "core", "expansions": ["new AI gadget 2026", "AI device launch", "best AI gadgets this week", "AI 기기 신제품"]},
@@ -85,8 +86,9 @@
     {"keyword": "AI companion device", "source": "pool", "expansions": ["AI companion robot", "emotional AI robot", "desktop companion robot"]},
     {"keyword": "Copilot+ PC", "source": "pool", "expansions": ["Windows AI feature update", "Copilot+ exclusive feature", "Copilot+ PC Intel AMD"]},
     {"keyword": "NPU laptop", "source": "pool", "expansions": ["Intel Panther Lake laptop", "AMD Ryzen AI laptop", "NPU TOPS laptop"]},
+    {"keyword": "Snapdragon AI PC", "source": "pool", "expansions": ["Snapdragon X2 Elite laptop", "Qualcomm AI PC", "Windows on Arm AI"]},
     {"keyword": "Apple Intelligence device", "source": "pool", "expansions": ["Siri LLM upgrade", "Apple smart display rumor", "HomePod with screen"]},
-    {"keyword": "Galaxy AI phone", "source": "pool", "expansions": ["Galaxy AI new feature", "One UI 8.5 AI", "Galaxy Unpacked 2026 AI", "갤럭시 AI 기능"]},
+    {"keyword": "Galaxy AI phone", "source": "pool", "expansions": ["Galaxy AI new feature", "One UI 9 AI", "Galaxy Unpacked 2026 AI", "Samsung Intelligent Eyewear", "갤럭시 AI 기능"]},
     {"keyword": "AI earbuds", "source": "pool", "expansions": ["real-time translation earbuds", "AI hearing earbuds", "Pixel Buds Gemini", "AI 이어버드"]},
     {"keyword": "AI camera", "source": "pool", "expansions": ["AI camera launch", "AI security camera", "Nest camera Gemini"]},
     {"keyword": "smart ring AI", "source": "pool", "expansions": ["Oura AI advisor", "Galaxy Ring update", "smart ring health AI", "스마트 링"]},
@@ -138,20 +140,23 @@
         "AI wearable pendant recorder review 2026",
         "Limitless Pendant AI update news",
         "Bee AI wearable Amazon news",
+        "Friend AI necklace update",
         "Humane AI Pin HP successor news",
         "Rabbit R1 rabbitOS update 2026",
         "AI companion robot device launch",
         "Copilot+ PC new Windows AI feature July 2026",
         "NPU laptop Intel Panther Lake announcement",
         "AMD Ryzen AI laptop launch 2026",
+        "Snapdragon X2 Elite AI PC laptop news",
         "edge AI chip announcement Qualcomm MediaTek",
         "Apple Intelligence Siri upgrade device news",
         "Apple HomePod smart display rumor 2026",
-        "Galaxy AI new feature One UI 8.5",
+        "Galaxy AI new feature One UI 9",
         "갤럭시 언팩 2026 갤럭시 AI 안경",
         "Pixel feature drop Gemini 2026",
         "AI earbuds real-time translation launch",
         "AI hearing aid earbuds news",
+        "AI security camera Gemini Nest update",
         "smart ring AI health Oura Galaxy Ring update",
         "AI speaker launch Gemini 2026",
         "Alexa+ rollout new Echo device news",
@@ -169,5 +174,5 @@
       ]
     }
   ],
-  "total_queries": 34
+  "total_queries": 37
 }

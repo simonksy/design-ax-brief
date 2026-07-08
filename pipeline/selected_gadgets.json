@@ -1,80 +1,90 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "gadgets",
-  "selection_mode": "user",
+  "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "SpaceX",
+      "tool": "iRobot",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
-      "source": "Engadget",
-      "published_iso": "2026-07-01T20:09:31+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/space-x-is-reportedly-testing-a-handheld-ai-device/l-intro-1782937421.jpg",
-      "excerpt": "A report claims SpaceX is internally testing a handheld AI device that would offer a dedicated hardware gateway to xAI's Grok models — Elon Musk publicly called the report 'utterly false', but the rumor adds to the wave of big AI players exploring first-party gadgets.",
-      "rationale": "User pick 1 — a first-party Grok handheld would open a new front in the AI-device race; Musk's denial itself is part of the story."
+      "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-07T12:35:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Roomba-Max-775.jpg",
+      "excerpt": "iRobot launched five new self-emptying Roomba robot vacuums priced at or under $1,000 — its first U.S. products since bankruptcy and acquisition by Picea Robotics. The flagship Roomba Max 775 pairs LiDAR mapping and camera obstacle avoidance with a self-cleaning mop dock for 'fully hands-free' operation.",
+      "rationale": "Major fresh hardware launch — iRobot's post-bankruptcy comeback with LiDAR + camera-AI Roombas under $1,000; strongest consumer-robot anchor of the day."
     },
     {
       "rank": 2,
-      "tool": "Dune",
+      "tool": "Samsung",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.digitaltrends.com/cool-tech/this-tiny-macbook-accessory-adds-customizable-shortcuts-for-meetings-and-productivity/",
-      "source": "Digital Trends",
-      "published_iso": "2026-07-05T01:44:34-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-05T140905.053.jpg?resize=1200%2C630",
-      "excerpt": "Project Mirage unveiled Dune, a 50-gram three-button MacBook keypad whose keys change function based on the app in use, offering context-aware shortcuts and AI-powered automation for meetings and productivity apps.",
-      "rationale": "User pick 2 — context-aware AI macro hardware for the MacBook; the Notebookcheck article on the same product was dropped as a within-pool duplicate (single best source kept)."
+      "url": "https://www.sammobile.com/news/major-samsung-galaxy-glasses-leak-reveals-many-interesting-details/",
+      "source": "SamMobile",
+      "published_iso": "2026-07-01T10:48:00+02:00",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Glasses-Gentle-Monster-Warby-Parker-1200x675.jpg",
+      "excerpt": "A leaked Galaxy Glasses manager app reveals Samsung's AI eyewear will run One UI XR and integrate with Galaxy watches and rings for gesture control. The glasses, built with Google, Qualcomm, Warby Parker and Gentle Monster, are expected at the July 22 Unpacked.",
+      "rationale": "Best look yet at Samsung's Gemini-powered glasses ahead of the July 22 Unpacked; kept the original SamMobile leak, dropped Tom's Guide coverage of the same story family."
     },
     {
       "rank": 3,
-      "tool": "Robotics",
+      "tool": "Apple",
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.digitaltrends.com/cool-tech/robots-can-now-see-touch-thanks-to-a-new-color-changing-tactile-sensor/",
-      "source": "Digital Trends",
-      "published_iso": "2026-07-04T12:29:35-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Robot-Touch-Human-Finger.jpg?resize=1200%2C630",
-      "excerpt": "Scientists developed a color-changing tactile sensor that lets robots visualize touch in real time — a step toward more precise robotic manipulation, prosthetics, and surgery.",
-      "rationale": "User pick 3 — a genuinely novel sensing modality that could reshape robot manipulation, prosthetics, and surgical hardware."
+      "url": "https://www.macrumors.com/2026/07/07/ios-27-public-beta-is-coming-soon/",
+      "source": "MacRumors",
+      "published_iso": "2026-07-07T12:03:37-07:00",
+      "og_image": "https://images.macrumors.com/t/H9CMBRmw3tzFTEh1pfzWGGINEcI=/2500x/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg",
+      "excerpt": "Apple says the iOS 27 public beta arrives this month, bringing the waitlisted Siri AI revamp to a much wider pool of devices ahead of the fall release.",
+      "rationale": "Freshest, broadest angle of the overlapping iOS 27 / Siri AI cluster (chosen over Engadget supported-models and 9to5Mac beta 3) — the rebuilt Siri reaches the public this month."
     },
     {
       "rank": 4,
-      "tool": "Samsung",
+      "tool": "Nothing",
       "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://www.techradar.com/pro/samsung-is-plotting-to-replace-your-m-2-ssd-with-a-storage-chip-smaller-than-a-fingernail-to-improve-battery-life-and-supercharge-ondevice-ai-inference",
-      "source": "TechRadar",
-      "published_iso": "2026-07-02T21:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iejV8QZAxdNZqCmirUU7DN-1678-80.png",
-      "excerpt": "Samsung is developing a fingernail-sized storage chip to replace M.2 SSDs in thin devices, promising better battery life and faster on-device AI inference in future laptops and AI PCs.",
-      "rationale": "User pick 4 — a silicon-level shift aimed squarely at on-device AI inference in the next wave of AI PCs."
+      "url": "https://www.gsmarena.com/nothing_ear_3a_unveiled_with_anc_and_up_to_42_hours_of_total_battery_life-news-73612.php",
+      "source": "GSMArena",
+      "published_iso": "2026-07-07T17:56:01+02:00",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-ear-3a-ofic/-952x498w6/gsmarena_000.jpg",
+      "excerpt": "Nothing unveiled the $99 Ear (3a) true wireless earbuds with up to 45dB ANC and 42 hours of battery life. Each earbud carries three microphones with AI-powered noise reduction for intelligent sound filtering during calls and recordings.",
+      "rationale": "Same-day product launch with concrete specs and an AI noise-reduction hook; adds the earbuds/audio sub-topic no other pick covers."
     },
     {
       "rank": 5,
-      "tool": "Galaxy Watch",
+      "tool": "Microsoft",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Watch-9-and-Ultra-2-Leak-reveals-new-health-features-and-watch-faces.1335729.0.html",
+      "url": "https://www.notebookcheck.net/Flagship-convertible-with-Snapdragon-X2-Elite-Microsoft-Surface-Pro-OLED-2026-Review.1335724.0.html",
       "source": "Notebookcheck",
-      "published_iso": "2026-07-06T12:15:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-Watch-Ultra2-q82-w-h1600.jpg",
-      "excerpt": "Ahead of Samsung's July 22 Unpacked, a leak details the Galaxy Watch 9 and Watch Ultra 2: a new Snapdragon chip to power more on-watch AI, plus new health features, watch faces, and a revamped companion app.",
-      "rationale": "User pick 5 — a fresh, specific leak (health features, watch faces, companion app) distinct from the 07-03 broad Unpacked preview card; new on-watch AI silicon angle."
+      "published_iso": "2026-07-07T18:08:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Pro_13_OLED/surface_pro_oled_x2_elite_case_04.JPG",
+      "excerpt": "Notebookcheck reviews the Microsoft Surface Pro OLED 2026, the flagship Copilot+ convertible with Qualcomm's Snapdragon X2 Elite SoC and OLED panel — a look at how far Arm-based NPU AI PCs have come.",
+      "rationale": "In-depth review of the flagship Copilot+ convertible on Snapdragon X2 Elite; covers the on-device-AI PC beat and is a distinct device from the earlier HP Omnibook card."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.gadgets today (2026-07-06) + days 2026-07-03, 2026-07-04",
-    "dropped_user_picks": [],
+    "checked_against": "news_data.json sections.gadgets today (2026-07-07) + days 2026-07-03, 2026-07-04, 2026-07-06",
+    "history_collisions": 0,
+    "dropped_same_story": [
+      "https://www.tomsguide.com/computing/smart-glasses/major-leak-reveals-samsung-galaxy-glasses-controls-pairing-modes-and-how-they-might-work-with-smart-watches-and-rings — same Galaxy Glasses leak as SamMobile pick",
+      "https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/ — iOS 27 Siri cluster; MacRumors public-beta angle chosen",
+      "https://9to5mac.com/2026/07/06/ios-27-beta-3/ — iOS 27 Siri cluster; MacRumors public-beta angle chosen"
+    ],
+    "dropped_for_diversity": [
+      "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close — second robot story; iRobot launch is the stronger news",
+      "https://www.notebookcheck.net/Apple-Home-AI-features-in-iOS-27-and-macOS-27-require-expensive-subscription.1336583.0.html — second Apple story and would make Notebookcheck x2"
+    ],
     "notes": [
-      "Notebookcheck Dune keypad article excluded as within-pool duplicate of Digital Trends pick (same product).",
-      "Galaxy Watch 9/Ultra 2 leak kept: 07-03 Tom's Guide Unpacked preview was a multi-device roundup, not this leak story."
+      "Galaxy Glasses leak kept vs history: 07-03 Tom's Guide Unpacked preview was a multi-device roundup, not this manager-app leak.",
+      "Surface Pro OLED review kept vs history: 07-04 HP Omnibook X2 card covered a different Snapdragon X2 Elite device.",
+      "Final 5: five distinct outlets, five distinct sub-topics (home robot / smart glasses / phone-OS AI / earbuds / AI PC)."
     ]
   }
 }

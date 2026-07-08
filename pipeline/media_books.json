@@ -1,31 +1,30 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "media": [
     {
-      "id": "libby-ai-filter",
+      "id": "ipa-congress",
       "type": "image",
-      "src": "pipeline/media/libby-ai-filter.png"
+      "src": "pipeline/media/ipa-congress.jpg"
     },
     {
-      "id": "caine-odyssey",
-      "type": "video",
-      "src": "pipeline/media/caine-odyssey.mp4",
-      "poster": "pipeline/media/caine-odyssey.jpg"
+      "id": "pls-litigation",
+      "type": "image",
+      "src": "pipeline/media/pls-litigation.jpg"
     },
     {
-      "id": "pls-ai-license",
+      "id": "proust-chatgpt",
       "type": "image",
-      "src": "pipeline/media/pls-ai-license.jpg"
+      "src": "pipeline/media/proust-chatgpt.png"
     },
     {
-      "id": "sudowrite-sonnet5",
+      "id": "cambridge-trace",
       "type": "image",
-      "src": "pipeline/media/sudowrite-sonnet5.png"
+      "src": "pipeline/media/cambridge-trace.jpeg"
     },
     {
-      "id": "zoom-books",
+      "id": "infinite-story",
       "type": "image",
-      "src": "pipeline/media/zoom-books.png"
+      "src": "pipeline/media/infinite-story.png"
     }
   ]
 }

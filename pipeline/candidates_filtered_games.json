@@ -1,83 +1,68 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
+  "section": "games",
+  "now_iso": "2026-07-07T23:46:48Z",
   "window_hours": 336,
+  "note": "Wide-funnel target (~16-28) not reachable: the 14-day games window was heavily harvested by the 2026-06-30..07-07 briefs (20 games cards already published). Sweep covered site-scoped WebSearch + RSS feeds of gamedeveloper.com, gamesindustry.biz, pcgamer.com (incl. /software/ai category page), kotaku.com, polygon.com, rockpapershotgun.com, eurogamer.net, vg247.com, destructoid.com (+/tag/ai), thegamer.com, gamespot.com, gamesradar.com, wccftech.com, venturebeat.com, gamingbolt.com, nme.com, aftermath.site (/tag/ai), 80.lv, roadtovr.com, unity.com/blog, unrealengine.com/rss, nvidia.com GeForce news, blog.roblox.com, deepmind.google, plus YouTube channel RSS for Unreal Engine, Unity, GDC, Two Minute Papers (and Inworld AI attempt). Everything else AI-related in-window was either already covered (Godot ban, Sweeney/Valve AI labels, EA creativity, Gaider, AoE2 study, Steam AI stigma, Sony annual-report AI, C&C vibe-port, Unity AI audit, caveman agents, JGS2, MetaHuman sizzle, Amazon AI guides, Hasbro voices, wildchat, Broche) or verified stale via og/JSON-LD published_time (UE 5.8 MCP video Jun 23 18:00Z misses the window by ~6h; Kotaku NVIDIA ArtFixer Jun 23 13:30Z; Aftermath UE6 dev-react Jun 17; NVIDIA ACE Game Agent SDK Jun 16; GI.biz 'AI costs' opinion Jun 19; GamesRadar Next Fest AI count Jun 16; Hi3D-adjacent 80.lv AI pieces May/Jun). GI.biz Jul 7 'Sony leadership says AI tools foundational' was skipped as a re-tread of the covered 7/02 Sony annual-report card. The 6 below are all deterministically FRESH via freshness.py and not previously covered.",
   "items": [
     {
-      "url": "https://www.pcgamer.com/software/ai/googles-ai-studio-lead-has-vibe-coded-a-port-of-command-and-conquer-for-ios/",
-      "source": "PC Gamer",
+      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
+      "title": "Final Fantasy artist Yoshitaka Amano explains why AI can't replace human creativity",
+      "source": "Polygon",
       "category": "games",
-      "published_iso": "2026-07-06T10:58:05Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Ny5gxLuhNTziwfznwoUfDV-1920-80.jpg",
-      "excerpt": "Google's AI Studio lead has vibe-coded a working port of the classic RTS Command & Conquer for iOS, complete with touch controls, showing how far prompt-driven game development has come."
+      "published_iso": "2026-07-07T18:30:20Z",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/img_6751.JPG?w=1200&h=675&fit=crop",
+      "excerpt": "Interviewed at Anime Expo about ZAN, his new hand-drawn animated series, legendary Final Fantasy artist Yoshitaka Amano says he sees AI as a tool, not an enemy — but insists 'only humans can create the original,' arguing hand-drawn imperfection matters more than ever in an age of generative art."
     },
     {
-      "url": "https://kotaku.com/companies-hope-to-save-on-ai-by-having-them-talk-like-cavemen-2000712692",
-      "source": "Kotaku",
+      "url": "https://www.gamesradar.com/hardware/retro/sega-is-seemingly-letting-ai-turn-its-dreamcast-keychains-into-slop-but-the-final-product-could-be-safe/",
+      "title": "Sega is seemingly letting AI turn its Dreamcast keychains into slop, but the final product could be safe",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-05T20:45:12Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/caveman-1017x675.jpg",
-      "excerpt": "After training the likes of Claude to mimic intelligent human speech, companies are now deliberately dumbing AI agents down to 'caveman speak' to save on token costs — a strange new twist in how AI characters and assistants talk."
-    },
-    {
-      "url": "https://wccftech.com/sweeney-ai-destiny-clair-obscur-5-seconds/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-07-06T14:00:00Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Tim-Sweeney-Guillaume-Broche-1920x1080.jpg",
-      "excerpt": "Tim Sweeney claims AI-assisted development could have saved Destiny from its demise, while Clair Obscur's Guillaume Broche warns of a future where whole games are churned out in seconds from a prompt. (Note: the Broche half overlaps the 07-06 'broche-prompt-games' card; the Sweeney/Destiny angle is new.)"
+      "published_iso": "2026-07-07T12:32:51Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NHUvfgQ2PsQUt3Q2uRsFBB-1920-80.jpg",
+      "excerpt": "Promo images for officially licensed Sega Dreamcast controller keychains appear AI-altered — zooming into the Sega logo reveals vague cursive-shaped lines instead of real letters — the latest case of AI-generated marketing art slipping into licensed game merchandise."
     },
     {
       "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
+      "title": "From prompt to reality: how to turn your idea into a physical 3D-printed collectible using Hi3D",
       "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-07-06T13:07:00Z",
+      "published_iso": "2026-07-06T13:07:00+00:00",
       "og_image": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg",
-      "excerpt": "80 Level took Hi3D's AI 3D maker platform for a spin to see if a simple text prompt could become a fully assembled, print-ready Space Marine miniature — a walkthrough of the whole prompt-to-physical-collectible pipeline."
+      "excerpt": "80 Level put Hi3D's AI 3D-maker platform through a full pipeline test: from a single text prompt to concept variations, watertight auto-repaired meshes, and a fully assembled, print-ready Space Marine miniature — a working text-to-physical-collectible workflow for game artists."
     },
     {
-      "url": "https://www.pcgamer.com/games/action/spyro-speedrunner-says-a-pc-port-of-the-original-game-is-in-the-works-and-its-being-made-with-no-ai/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-06-28T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4bw3Lbx5DjztytEsichRwe-2560-80.jpg",
-      "excerpt": "A Spyro speedrunner says a fan PC port of the original game is in the works and is being made 'with no AI' — turning AI-free craft into a selling point amid the fan-port vibe-coding debate."
-    },
-    {
-      "url": "https://www.gamesindustry.biz/epics-sweeney-claims-steam-ai-labels-are-really-irresponsible-of-valve",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-06-26T08:12:39Z",
-      "og_image": "https://assetsio.gnwcdn.com/Tim_Sweeney_P7vsPEF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Epic's Tim Sweeney calls Steam's AI disclosure labels 'really irresponsible of Valve', arguing they make it harder for developers who use AI tools to succeed. (Note: the Sweeney-vs-Valve angle was context of the 07-03 Steam AI-label plugin card — possible overlap.)"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=OmN7RPIxf60",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-07-02T20:00:23Z",
-      "og_image": "https://i.ytimg.com/vi/OmN7RPIxf60/maxresdefault.jpg",
-      "excerpt": "Unity's official demo shows how Unity AI lets developers audit AI-generated assets in a project and easily replace them — editor tooling aimed squarely at the AI-asset disclosure and quality-control debate."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=55H81dP46ck",
+      "url": "https://www.youtube.com/watch?v=LGvsShWEH3k",
+      "title": "Using UE with Image and Video Generation (Coming Soon) | State of Unreal | Unreal Fest Chicago 2026",
       "source": "Unreal Engine (YouTube)",
       "category": "games",
-      "published_iso": "2026-06-25T13:55:30Z",
-      "og_image": "https://i.ytimg.com/vi/55H81dP46ck/maxresdefault.jpg",
-      "excerpt": "Epic's MetaHuman Sizzle Reel 2026 from Unreal Fest Chicago showcases the latest AI-driven digital human tech — the current state of the art for character creation, animation, and performance in Unreal."
+      "published_iso": "2026-06-24T07:00:05-07:00",
+      "og_image": "https://i.ytimg.com/vi/LGvsShWEH3k/maxresdefault.jpg",
+      "excerpt": "Epic's State of Unreal session shows how Unreal Engine tools used in tandem with image and video generation models let artists direct generative output with 'greater intention and creative control' — an official look at how genAI plugs into the UE art pipeline, coming soon."
     },
     {
-      "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-      "source": "Two Minute Papers (YouTube)",
+      "url": "https://www.youtube.com/watch?v=mGuaRAWdXPA",
+      "title": "Unreal Engine 6 | State of Unreal | Unreal Fest Chicago 2026",
+      "source": "Unreal Engine (YouTube)",
       "category": "games",
-      "published_iso": "2026-07-03T17:19:59Z",
-      "og_image": "https://i.ytimg.com/vi/uO5cvkzh3P0/maxresdefault.jpg",
-      "excerpt": "Two Minute Papers covers a new GPU elastodynamics technique (JGS2) that runs soft-body physics simulation in real time — a 'they said it would never run in real time' leap that feeds directly into game and interactive-world simulation."
+      "published_iso": "2026-06-24T11:00:19-07:00",
+      "og_image": "https://i.ytimg.com/vi/mGuaRAWdXPA/maxresdefault.jpg",
+      "excerpt": "Epic's official Unreal Engine 6 vision video: UE6 is pitched as evolving how games are shipped and operated — better rendering, faster cook times, and deep AI-assisted workflows baked into the engine. Note: the UE6 announcement itself dates to the Jun 17-18 State of Unreal show (this official video posted Jun 24); dev backlash to its AI features was covered by Aftermath on Jun 17 (outside window)."
+    },
+    {
+      "url": "https://www.youtube.com/shorts/_D26zKNPX7s",
+      "title": "Spend less time on scene setup with Unity AI",
+      "source": "Unity (YouTube)",
+      "category": "games",
+      "published_iso": "2026-07-06T06:57:03-07:00",
+      "og_image": "https://i.ytimg.com/vi/_D26zKNPX7s/maxresdefault.jpg",
+      "excerpt": "New official Unity short demos Unity AI (Beta) automating scene setup so developers spend more time iterating on ideas — a sibling feature to the asset-audit workflow covered on 7/07, this one focused on AI-driven scene assembly inside the editor."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 9,
+    "kept": 6,
     "against_days": 5
   }
 }

@@ -1,93 +1,82 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "books",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "source": "The Verge",
-      "published_iso": "2026-06-30T15:30:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&strip=all&crop=0%2C15.232329842932%2C100%2C69.535340314136&w=1200",
-      "excerpt": "Library ebook-lending app Libby will let readers filter out AI-narrated and AI-written titles — but the filters rely on AI content being self-labeled by publishers, raising questions about how effective the screening can really be.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100773-international-publishers-convene-in-malaysia-for-ipa-congress-2026.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "AI dominated keynotes, panels, and even opening remarks at the 35th International Publishers Association Congress in Kuala Lumpur (July 5-9, ~500 participants from 40 countries). Keynote speaker Thad McIlroy said publishing has moved past the 'golly-gee-whiz phase of AI' to the 'what the heck am I going to do about it?' phase, while IPA president Gvantsa Jobava called publishers' collective work 'the best source of training data for AI.'",
       "category": "books",
-      "tool": "Libby",
+      "tool": "IPA Congress",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A reader-facing AI filter in a major library app is concretely actionable and probes the self-labeling loophole — reputable outlet, fresh, never covered."
+      "rationale": "AI dominating the agenda of global publishing's flagship congress (500 participants, 40 countries) is the week's clearest industry signal; kept over the Publishing Perspectives piece on the same event (one story family — PW's angle is more AI-substantive)."
     },
     {
-      "url": "https://www.thebookseller.com/news/michael-caine-licenses-voice-to-narrate-ai-adaptation-odyssey-audiobook",
+      "url": "https://www.thebookseller.com/news/ai-copyright-litigation-yet-to-resolve-key-questions-for-publishers-pls-conference-hears",
       "source": "The Bookseller",
-      "published_iso": "2026-06-24T15:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/475/Michael_Caine__Jeff_Spicer.jpg",
-      "excerpt": "Michael Caine has licensed an AI-generated version of his voice to narrate an audiobook adaptation of Homer's Odyssey, produced with voice-AI company ElevenLabs — a marquee case of a major actor formally licensing, rather than fighting, an AI voice clone for a literary work.",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
+      "excerpt": "Publishers are still waiting for 'clear' legal answers on AI training, outputs, and licensing, the Publishers' Licensing Services Conference heard — years of copyright litigation have yet to resolve the key questions publishers need answered before committing to AI licensing strategies.",
       "category": "books",
-      "tool": "ElevenLabs",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "Marquee precedent: an A-list actor licensing (not fighting) an AI voice clone for an audiobook resets the voice-rights conversation for publishing."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/over-250-uk-publishers-opt-in-to-collective-ai-licensing-scheme",
-      "source": "The Bookseller",
-      "published_iso": "2026-06-24T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "More than 250 UK publishers have opted in to Publishers' Licensing Services' collective AI licensing scheme, which lets publishers jointly manage and monetize licensing of their content to AI companies — a concrete counter-model to unlicensed scraping.",
-      "category": "books",
-      "tool": "PLS",
+      "tool": "Copyright",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "250+ publishers signing a collective AI licensing scheme is a concrete industry counter-model to scraping; preferred over the same outlet's vaguer PLS-conference piece."
+      "rationale": "Actionable legal-landscape check: litigation still hasn't answered the training/output/licensing questions publishers need — a distinct angle from the already-published 07-07 PLS collective-licensing opt-in card."
     },
     {
-      "url": "https://feedback.sudowrite.com/changelog/sonnet-5-folder-exports-and-more",
-      "source": "Sudowrite",
-      "published_iso": "2026-06-30T00:00:00Z",
-      "og_image": "https://og.featurebase.app/?type=root&title=Sonnet+5%2C+Folder+Exports+%26+More&description=Hey+folks%21+The+team+has+been+busy%2C+and+we%E2%80%99ve+got+a+whole+bunch+of+exciting+new+features+and+fixes+to+share+with+you.+%F0%9F%86%95+Claude+Sonnet+5+is+Here%21+Anthr&companyLogo=https%3A%2F%2Ffb-usercontent.fra1.cdn.digitaloceanspaces.com%2F019224dc-a888-7f48-9ff1-ea2dd116543a.png&companyName=Sudowrite&companyTLP=bottom",
-      "excerpt": "Fiction-writing tool Sudowrite added Anthropic's Claude Sonnet 5 as a writing model in its June 30 update, alongside folder exports and keyboard-accessible document reordering — a fresh model upgrade for AI-assisted novelists.",
+      "url": "https://lithub.com/can-chatgpt-produce-a-version-of-proust-worth-reading/",
+      "source": "Literary Hub",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/06/proust-chatgpt.png",
+      "excerpt": "Bryan Charles traces AI's slow, steady invasion of literary translation through the test case of translating Proust with ChatGPT, talking with translators Andrew Rothwell and Sam Taylor about how AI tools have reduced the 'cognitive load' of literary translation — and what is lost when they do.",
       "category": "books",
-      "tool": "Sudowrite",
+      "tool": "ChatGPT",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "rationale": "Freshest item in the pool (07-07) and a concrete craft-level test of AI in literary translation, with working translators weighing what reduced 'cognitive load' gains and loses."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-06-25T00:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/06/26-0508-Cambridge-Newton-Tree-scaled-e1781969265606-1024x915.jpeg",
+      "excerpt": "Cambridge University Press, COUNTER, and NISO convened nearly three dozen experts — libraries, AI tool developers, funders, publishers, platforms — to build frameworks that make AI use of scholarly content traceable and measurable: usage metrics, provenance, and attribution standards for generative AI systems.",
+      "category": "books",
+      "tool": "Cambridge UP",
+      "accent": "#3b6bff",
+      "motif": "swatch",
+      "rationale": "Concrete standards work (CUP/COUNTER/NISO on provenance and usage metrics for AI use of scholarly content) that publishers can plug into — distinct from previously published Scholarly Kitchen cards."
+    },
+    {
+      "url": "https://janefriedman.com/links-of-interest-july-1-2026/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-07-01T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Friedman highlights new research analyzing 500,000 anonymized ChatGPT conversations that identifies 'infinite story demanders' — a small cohort of power users generating large volumes of repetitive AI fanfiction and erotica for personal consumption — evidence that LLMs enable interactive, playful, permutating story consumption outside traditional publishing.",
+      "category": "books",
+      "tool": "Research",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Most tool-actionable pick: a new frontier writing model landing in a dedicated fiction tool changes how AI-assisted authors work tomorrow."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-6th-2026/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-07-06T11:16:11Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "excerpt": "US AI companies are reportedly buying large quantities of secondhand books in German-speaking markets — scanning then destroying them — to train language models, while an Australian survey finds 17.4% of audiobook listeners have already tried AI narration.",
-      "category": "books",
-      "tool": "Publishing",
-      "accent": "#ff2d55",
-      "motif": "swatch",
-      "rationale": "Roundup allowed by exception: its lead — AI firms buying, scanning and destroying secondhand books for training data — is striking, fresh and covered nowhere else in the pool."
+      "rationale": "Deprioritized to last slot: its lead research overlaps the 07-06 games card (PC Gamer angle), but cross-section is not a hard block, the fresh books pool is exhausted, and Friedman's publishing-side reading (story consumption migrating outside traditional publishing) is a distinct angle."
     }
   ],
   "dedup_notes": {
     "dropped_as_published_duplicate": [
       {
-        "url": "https://bookriot.com/jamir-nazir-commonwealth-prize-ai-accusation-granta/",
-        "reason": "Same story as books card 'granta' published 2026-06-29 (Nazir cleared of AI accusations / Commonwealth Prize / Granta ends partnership)."
-      },
-      {
-        "url": "https://bookriot.com/today-in-books-july-5-2026/",
-        "reason": "Roundup leading with the same Nazir/Commonwealth story already published 2026-06-29; per user instruction at most one of the two, and both duplicate history."
+        "url": "https://www.thebookseller.com/news/jamir-nazir-wins-commonwealth-short-story-prize-after-ai-review-clears-regional-winner",
+        "reason": "Follow-up duplicate of the Granta/Commonwealth AI-accusation card published 2026-06-29 in this section; the win-after-clearing angle was already judged a duplicate in yesterday's curation and the article adds nothing substantially new."
       }
     ],
-    "dropped_below_cut": [
+    "dropped_within_pool": [
       {
-        "url": "https://www.thebookseller.com/news/ai-copyright-litigation-yet-to-resolve-key-questions-for-publishers-pls-conference-hears",
-        "reason": "Outlet cap (The Bookseller already has 2 picks) and topical overlap with the PLS collective licensing pick; less actionable ('questions still unresolved')."
-      },
-      {
-        "url": "https://janefriedman.com/links-of-interest-july-1-2026/",
-        "reason": "Generic link roundup; weaker than dedicated articles per instruction."
-      },
-      {
-        "url": "https://goodereader.com/blog/kobo-ereader-news/kobo-has-great-plans-for-the-rest-of-2026",
-        "reason": "Substantially overlaps already-published Kobo coverage (StoryGraph integration card 2026-07-01, Tamblyn essay card 2026-07-03); remaining news is a vague roadmap teaser."
+        "url": "https://publishingperspectives.com/2026/07/35th-international-publishers-association-congress-highlights-collaboration-courage-and-ai/",
+        "reason": "Same story family as the Publishers Weekly IPA Congress pick (35th IPA Congress, Kuala Lumpur); kept the stronger, more AI-focused PW article."
       }
-    ]
+    ],
+    "diversity": "5 picks from 5 distinct outlets (Publishers Weekly, The Bookseller, Literary Hub, The Scholarly Kitchen, Jane Friedman); max 1 per outlet."
   }
 }

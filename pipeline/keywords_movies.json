@@ -1,12 +1,13 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "section": "movies",
-  "note": "OVERRIDE run: user requested ALL keywords (no rotation). Working set = all core + entire movies pool, minus keywords already covered in the last 2 days of news_data.json (skipped: 'Hollywood AI' — writers-RLHF/Foster-F1/KVIFF cards 07-04~07-06; 'Luma film' — Young Washington/Luma card 07-06; 'AI animation film' — Next Lab Quill/Magnific animation card 07-06).",
+  "note": "OVERRIDE run: user requested ALL keywords (no rotation). Working set = all core + entire movies pool, minus keywords already covered in the last 2 days of news_data.json (skipped: 'Runway film' — Runway Agent 2.0 card 07-07; 'Hollywood AI' — Tilly Norwood 'Misaligned' card 07-07 + Foster/Feig/Artificial cards 07-04 block; 'AI animation film' — Curious Refuge anime + SIGGRAPH/DeepMind cards 07-07 and Next Lab Quill/Magnific card 07-06; 'Luma film' — Young Washington/Luma card 07-06).",
   "user_seeds": [],
   "skipped_recently_covered": [
+    "Runway film",
     "Hollywood AI",
-    "Luma film",
-    "AI animation film"
+    "AI animation film",
+    "Luma film"
   ],
   "seeds": [
     "AI film",
@@ -14,7 +15,6 @@
     "AI filmmaking",
     "generative video film",
     "AI VFX",
-    "Runway film",
     "Sora film",
     "virtual production AI",
     "AI de-aging",
@@ -37,7 +37,7 @@
     {
       "keyword": "AI film",
       "type": "core",
-      "expansions": ["AI cinema 2026", "AI feature film", "generative AI movie", "AI in film industry news"]
+      "expansions": ["AI cinema 2026", "AI feature film production", "generative AI movie news", "AI film festival 2026"]
     },
     {
       "keyword": "AI 영화",
@@ -47,27 +47,22 @@
     {
       "keyword": "AI filmmaking",
       "type": "core",
-      "expansions": ["AI filmmaking tools", "AI film production workflow", "AI cinematography", "Curious Refuge AI filmmaking"]
+      "expansions": ["AI filmmaking tools", "AI film production workflow", "AI cinematography", "hybrid AI filmmaking"]
     },
     {
       "keyword": "generative video film",
       "type": "pool",
-      "expansions": ["generative video model filmmaking", "Google Veo film", "Seedance 2.5 release", "gen-video Hollywood pipeline"]
+      "expansions": ["generative video model filmmaking", "Google Veo film", "Seedance film production", "gen-video studio pipeline"]
     },
     {
       "keyword": "AI VFX",
       "type": "pool",
-      "expansions": ["AI visual effects pipeline", "machine learning VFX studio", "AI compositing tool", "Wonder Dynamics"]
-    },
-    {
-      "keyword": "Runway film",
-      "type": "pool",
-      "expansions": ["Runway Gen-4", "Runway Aleph", "Runway studio partnership", "AI Film Festival Runway"]
+      "expansions": ["AI visual effects pipeline", "machine learning VFX studio", "AI compositing tool", "Wonder Dynamics Autodesk"]
     },
     {
       "keyword": "Sora film",
       "type": "pool",
-      "expansions": ["OpenAI Sora filmmaker", "Sora 2 video", "Sora Hollywood deal"]
+      "expansions": ["OpenAI Sora filmmaker", "Sora 2 short film", "Sora Hollywood deal", "Sora cameo film"]
     },
     {
       "keyword": "virtual production AI",
@@ -87,12 +82,12 @@
     {
       "keyword": "AI screenwriting",
       "type": "pool",
-      "expansions": ["AI script writing Hollywood", "writers guild AI rules", "AI script coverage tool"]
+      "expansions": ["AI script writing Hollywood", "writers guild AI rules", "AI script development studio"]
     },
     {
       "keyword": "deepfake film",
       "type": "pool",
-      "expansions": ["digital likeness rights actor", "deepfake consent movie", "synthetic performer", "AI 딥페이크 배우"]
+      "expansions": ["digital likeness rights actor", "synthetic performer film", "deepfake consent movie", "AI 딥페이크 배우"]
     },
     {
       "keyword": "AI color grading",
@@ -112,17 +107,17 @@
     {
       "keyword": "AI short film",
       "type": "pool",
-      "expansions": ["AI short film festival 2026", "AI generated short film", "hybrid AI animation short"]
+      "expansions": ["AI short film festival 2026", "AI generated short film", "AI 단편 영화"]
     },
     {
       "keyword": "text-to-video film",
       "type": "pool",
-      "expansions": ["text-to-video model release", "text-to-video cinema quality", "Veo vs Sora vs Kling filmmakers"]
+      "expansions": ["text-to-video model release film", "Veo vs Sora vs Kling filmmakers", "text-to-video cinema quality"]
     },
     {
       "keyword": "AI motion capture",
       "type": "pool",
-      "expansions": ["markerless motion capture AI", "Move AI", "AI mocap film production"]
+      "expansions": ["markerless motion capture AI", "Move AI mocap", "AI performance capture film"]
     },
     {
       "keyword": "neural rendering film",
@@ -179,40 +174,41 @@
         "theverge.com",
         "engadget.com",
         "80.lv",
-        "techcrunch.com"
+        "techcrunch.com",
+        "openai.com"
       ],
       "queries": [
         "AI film industry news July 2026",
-        "AI filmmaking tools 2026",
-        "generative AI movie production news",
+        "AI filmmaking tools release 2026",
+        "generative AI movie production case study",
         "AI 영화 제작 2026",
-        "AI 영화제 생성형 AI 2026",
-        "Runway Gen-4 film production 2026",
-        "Runway Aleph filmmakers update",
-        "OpenAI Sora film 2026",
-        "Sora 2 filmmaker Hollywood",
-        "Kling AI film 2026",
+        "생성형 AI 영화제 소식",
+        "OpenAI Sora film director 2026",
+        "Sora 2 short film Hollywood",
+        "Kling 2.5 AI film 2026",
+        "Kuaishou Kling filmmaker project",
         "Google Veo film production 2026",
-        "Seedance 2.5 release film",
-        "text-to-video model film release 2026",
-        "AI VFX pipeline studio 2026",
-        "machine learning visual effects news 2026",
-        "AI rotoscoping VFX tool",
-        "AI color grading DaVinci Resolve 2026",
-        "AI film restoration 4K remaster 2026",
-        "AI de-aging actor film 2026",
-        "AI motion capture markerless film 2026",
+        "text-to-video model film release July 2026",
+        "generative video studio pipeline feature film",
+        "AI VFX pipeline studio adoption 2026",
+        "machine learning visual effects tool news",
+        "AI rotoscoping keying VFX tool release",
+        "AI color grading DaVinci Resolve Colourlab 2026",
+        "AI film restoration 4K remaster archive 2026",
+        "AI de-aging face replacement actor film 2026",
+        "Metaphysic AI likeness film news",
+        "AI motion capture markerless Move AI film",
         "neural rendering Gaussian splatting film production",
-        "AI set extension scene generation film",
+        "AI set extension scene generation film VFX",
         "virtual production AI LED volume 2026",
-        "AI storyboard previs tool filmmakers",
-        "AI screenwriting Hollywood news 2026",
-        "AI dubbing lip sync film localization 2026",
-        "AI generated movie trailer studio",
+        "AI storyboard previs tool filmmakers 2026",
+        "AI screenwriting script tool Hollywood news",
+        "AI dubbing lip sync film localization Flawless",
+        "AI 더빙 립싱크 영화 현지화",
+        "AI generated movie trailer studio marketing",
         "deepfake digital likeness rights film 2026",
-        "AI short film festival winner 2026",
-        "영화 AI VFX 버추얼 프로덕션",
-        "AI 더빙 립싱크 영화",
+        "AI short film festival winner July 2026",
+        "AI 단편 영화 공모 수상",
         "AI film breakthrough this week"
       ]
     },
@@ -225,19 +221,17 @@
         "youtube.com",
         "youtu.be"
       ],
-      "rotation_note": "day-of-year 188 % 5 = 3 → emphasize Matt Wolfe, fxguide, Runway; Corridor Crew and Curious Refuge secondary.",
+      "rotation_note": "day-of-year 189 % 5 = 4 → start at fxguide; Runway (Agent 2.0 card 07-07) and Curious Refuge (anime tutorial card 07-07) covered recently, so emphasize fxguide, Corridor Crew, Matt Wolfe today.",
       "queries": [
-        "site:youtube.com Matt Wolfe AI film video 2026",
-        "site:youtube.com fxguide AI VFX 2026",
-        "site:youtube.com Runway AI film 2026",
+        "site:youtube.com fxguide AI VFX film 2026",
         "site:youtube.com Corridor Crew AI VFX 2026",
-        "site:youtube.com Curious Refuge AI filmmaking news 2026"
+        "site:youtube.com Matt Wolfe AI video film 2026"
       ]
     }
   ],
   "totals": {
-    "working_keywords": 23,
+    "working_keywords": 22,
     "categories": 2,
-    "queries": 37
+    "queries": 35
   }
 }
