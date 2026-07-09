@@ -1,58 +1,53 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "books",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://publishingperspectives.com/2026/07/at-closing-gala-ipa-announces-2026-innovation-award-winners/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-07-08T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6452-793x595.jpeg",
-      "excerpt": "At the IPA Congress closing gala, two AI companies won the IPA Innovation in Publishing Award: Shimmr, which built an autonomous subscription-based 'Advertising as a Service' AI platform for continuous book marketing, and Ailaysa, a multilingual AI company behind the Chai Reader discovery platform.",
+      "url": "https://www.etnews.com/20260701000374",
+      "source": "전자신문",
+      "published_iso": "2026-07-01T04:46:00Z",
+      "og_image": "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.1b4fcc88c9e044b6ae8011e9c39409e2_P1.jpg",
+      "excerpt": "네이버웹툰이 원작자 승인 웹툰 IP를 기반으로 캐릭터와 대화하며 나만의 이야기를 만드는 AI 스토리챗 '바이어스(byUs)'를 출시했다. 원작 세계관에서 새 서사를 만드는 '오리지널 스토리'와 팬 창작 기반 '팬 스토리' 두 모드를 제공하며 첫 작품은 '전직록'이다.",
       "category": "books",
-      "tool": "IPA Award",
+      "tool": "byUs",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Concrete new substance from the IPA Congress close: publishing's own innovation award went to two named AI companies (Shimmr for autonomous book marketing, Ailaysa for multilingual publishing) — a real signal of which AI tools the industry is endorsing. Kept over the PW closing wrap, which covers the same day with less specific detail."
+      "rationale": "Strongest fresh story in the pool: Naver Webtoon turns authorized webtoon IP into user-authored, character-chat AI story worlds — a concrete new creative-AI product that reshapes how interactive fiction gets made. Distinct primary story, no prior books coverage."
     },
     {
-      "url": "https://goodereader.com/blog/kindle/kindle-recaps-now-available-via-an-internet-browser",
-      "source": "Good e-Reader",
-      "published_iso": "2026-07-05T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Amazon's Kindle Recaps — AI-generated, spoiler-free 'previously on...' summaries of series and in-progress books — is now accessible via an internet browser, expanding the feature beyond Kindle devices and apps.",
+      "url": "https://www.etnews.com/20260707000235",
+      "source": "전자신문",
+      "published_iso": "2026-07-07T07:00:00Z",
+      "og_image": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.ddb290e0f1a642af8284446eb68da1a3_P1.png",
+      "excerpt": "영상·숏폼에 익숙한 디지털 시대 아이들의 읽기 방식 변화를 다루며, 미래엔의 AI 기반 읽기 플랫폼 '초코'의 문해력 서비스 '달달독해'와 디지털 학습 웹툰 '초코툰'을 제시한다. AI가 아동 디지털 독해를 어떻게 재편하는지에 초점.",
       "category": "books",
-      "tool": "Kindle",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "Actionable product move: Amazon's genAI Kindle Recaps feature broadens reach to any browser, changing how readers (and authors thinking about series discoverability) engage with in-progress books. Fresh 07-05 and not previously covered."
-    },
-    {
-      "url": "https://www.etnews.com/20260706000183",
-      "source": "전자신문 (ET News)",
-      "published_iso": "2026-07-06T17:00:00+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.64bf7d155b834bf4a1b35034fe6d1658_P1.png",
-      "excerpt": "중국 무료 웹소설 플랫폼들이 AI 생성 소설을 AI로 판별해 대규모 단속(한 달 10만권 이상 계약 거부)에 나서면서, 인간 작가들이 되레 'AI처럼 보이지 않는 글쓰기'를 고민해야 하는 역설이 벌어지고 있다.",
-      "category": "books",
-      "tool": "웹소설 AI",
+      "tool": "미래엔 초코",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Distinct, high-novelty story: Chinese webnovel platforms are using AI to detect and mass-reject AI-written fiction (100k+ contracts refused/month), pushing human authors to actively write so their prose 'doesn't look like AI' — a concrete craft consequence with no on-list coverage elsewhere."
+      "rationale": "On-topic reading/literacy shift with a publisher-built AI platform: Mirae-N's 'Choco' (달달독해 literacy service, 초코툰 learning webtoon) reworks how young digital-native readers build comprehension. Distinct URL and topic from the published 전자신문 web-novel card; fresh and unseen."
+    },
+    {
+      "url": "https://goodereader.com/blog/kobo-ereader-news/kobo-has-great-plans-for-the-rest-of-2026",
+      "source": "Good e-Reader",
+      "published_iso": "2026-07-02T21:04:57Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/02210457/exec_michaeltamblyn.jpg",
+      "excerpt": "Kobo CEO Michael Tamblyn says the company is building features for fall/winter 2026 that will 'fundamentally change how we read and write on our devices,' alongside summer StoryGraph integration and Kobo Plus expansion — a roadmap positioning Kobo against Amazon's AI reading tools.",
+      "category": "books",
+      "tool": "Kobo",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "rationale": "Device-workflow story with a defined AI-features roadmap for reading/writing on Kobo hardware, explicitly framed against Amazon's AI reading tools. Softer (roadmap-level) hook, but a distinct URL and story from the 07-03 Tamblyn AI-policy essay; included to meet floor 3 over the weaker Jane Friedman roundup."
     }
   ],
   "dedup_notes": {
-    "dropped_as_published_duplicate": [
+    "dropped_as_published_duplicate": [],
+    "dropped_low_value": [
       {
-        "url": "https://www.thebookseller.com/news/jamir-nazir-wins-commonwealth-short-story-prize-after-ai-review-clears-regional-winner",
-        "reason": "Follow-up of the Granta/Commonwealth AI-accusation card published 2026-06-29; judged a content duplicate in both prior runs. Adds nothing substantially new. Dropped per hard exclusion."
+        "url": "https://janefriedman.com/links-of-interest-july-8-2026/",
+        "reason": "Low-priority weekly links roundup whose AI highlights partly overlap already-published books cards (e.g. the Libby AI filter published 2026-07-07 and the Commonwealth prize thread). Deprioritized in favor of the dedicated 전자신문 stories; not padded into the picks."
       }
     ],
-    "dropped_within_pool": [
-      {
-        "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100777-ipa-congress-2026-ends-on-an-optimistic-note.html",
-        "reason": "Same event (IPA Congress closing day, 07-08) as the kept Publishing Perspectives Innovation Award piece. Selected at most one closing-day item; kept the one with the most concrete new substance (names specific AI winners Shimmr and Ailaysa)."
-      }
-    ],
-    "diversity": "3 picks from 3 distinct outlets (Publishing Perspectives, Good e-Reader, ET News). Pool genuinely thin after dedup; 3 fresh unique stories, floor met, not padded."
+    "diversity": "3 picks across 2 outlets (전자신문 x2 — at the ≤2 per-outlet cap — and Good e-Reader x1). Pool was genuinely thin (4 candidates; 1 dropped as low-value). Floor 3 met; shortfall of 2 vs the cap of 5 because no further solid, non-overlapping fresh books stories exist. Not padded."
   }
 }

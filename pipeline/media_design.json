@@ -1,32 +1,31 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "design",
   "media": [
     {
-      "id": "kpmg-builder",
+      "id": "seedream5-krea",
       "type": "image",
-      "src": "pipeline/media/kpmg-builder.jpg"
+      "src": "pipeline/media/seedream5-krea.jpg"
     },
     {
-      "id": "octane-2026-4",
+      "id": "muse-image",
       "type": "image",
-      "src": "pipeline/media/octane-2026-4.jpg"
+      "src": "pipeline/media/muse-image.jpg"
     },
     {
-      "id": "gpt56-rollout",
+      "id": "ai-quality-signals",
       "type": "image",
-      "src": "pipeline/media/gpt56-rollout.jpg"
+      "src": "pipeline/media/ai-quality-signals.png"
     },
     {
-      "id": "ntop-coreweave",
-      "type": "image",
-      "src": "pipeline/media/ntop-coreweave.jpg"
+      "id": "lovable-0708",
+      "type": "svg"
     },
     {
-      "id": "figma-pm-os",
+      "id": "not-ai-slop",
       "type": "video",
-      "src": "pipeline/media/figma-pm-os.mp4",
-      "poster": "pipeline/media/figma-pm-os.jpg"
+      "src": "pipeline/media/not-ai-slop.mp4",
+      "poster": "pipeline/media/not-ai-slop-poster.jpg"
     }
   ]
 }

@@ -1,76 +1,51 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "movies",
   "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://beforesandafters.com/2026/06/26/reallusion-unlocks-limitless-creation-iclone-personal-debuts-alongside-ai-studio-official-launch/",
-      "source": "befores & afters",
-      "tool": "Reallusion",
+      "url": "https://www.krea.ai/blog/what-is-seedance-2-5",
+      "source": "Krea",
+      "tool": "Seedance 2.5",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Most actionable tool-access shift in the pool: a pro character-animation pipeline goes free while its AI layer officially launches, lowering the barrier for indie previs and animation work tomorrow.",
-      "published_iso": "2026-06-25T23:11:39Z",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/06/00_ic-ai-grand-launch-Free-for-All-Users.jpg",
-      "excerpt": "Reallusion debuts iClone Personal (free for all users) alongside the official public launch of AI Studio, folding AI-assisted character animation into its pipeline, with an RTX render engine open beta following in late July.",
+      "rationale": "Strongest AI-video-generation story in the pool: ByteDance's Seedance 2.5, now usable in Krea, produces complete 30s 4K clips with reference support and region-level editing — a concrete jump in controllable AI video film teams can put to work now.",
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": "https://s.krea.ai/a_snow_leopard_is_jumping_above_an_icy_surface_the_panther_is_angry_with_mouth_open_and_is_looking__oiz0b0yo124ofr4856l6_0.png",
+      "excerpt": "ByteDance's Seedance 2.5 video model, now usable in Krea, generates complete 30-second clips at up to 4K from a single prompt, adding stronger reference support and region-level editing over the prior version — a jump in controllable AI video for creative teams.",
       "category": "movies"
     },
     {
-      "url": "https://www.youtube.com/watch?v=bxdsBsbtoSg",
-      "source": "Matt Wolfe (YouTube)",
-      "tool": "Matt Wolfe",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "Hands-on look at new AI editing agents taking over timeline work — editing is the least-AI-covered craft in this section's recent run, making it the strongest social pick for novelty.",
-      "published_iso": "2026-07-08T00:09:25Z",
-      "og_image": "https://i.ytimg.com/vi/bxdsBsbtoSg/maxresdefault.jpg",
-      "excerpt": "A hands-on look at new AI video-editing agents that take over timeline editing work, and what that means for editors' workflows. Upload date verified via watch-page JSON-LD (2026-07-07T17:09:25-07:00).",
-      "category": "social"
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/07/days-of-future-shock-what-to-expect-at-siggraph-2026/",
-      "source": "Animation Magazine",
-      "tool": "SIGGRAPH 2026",
+      "url": "https://www.redsharknews.com/adobe-acquires-topaz-labs-ai-video-enhancement",
+      "source": "RedShark News",
+      "tool": "Topaz Labs",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Forward map of where film/animation AI craft is heading in the next two weeks — a distinct conference-tech angle from the already-published CAF festival-awards card.",
-      "published_iso": "2026-07-07T21:48:33Z",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-floor-sign.jpg",
-      "excerpt": "A preview of SIGGRAPH 2026 (July 19-23, Los Angeles) as a snapshot of the new technologies — from generative AI to neural rendering — impacting the animation and VFX worlds this year.",
+      "rationale": "Hard M&A news that reshapes the post toolchain: the de-facto AI upscaling/restoration stack (Topaz Video, Gigapixel, Astra) folds into Firefly and Creative Cloud, changing the roadmap and licensing for tools film finishers and restorers rely on. Acquisition chosen over the ProVideo review — same Topaz cluster, harder news.",
+      "published_iso": "2026-06-26T09:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/topaz%20labs%20main.jpg",
+      "excerpt": "Adobe signed a definitive agreement to acquire Texas-based Topaz Labs, whose AI tools cover upscaling, sharpening, stabilization, frame interpolation, noise removal and footage restoration (Topaz Video, Gigapixel, Astra, Bloom). Adobe plans to bring the enhancement models into Firefly, Firefly Services and Creative Cloud, with Topaz's on-device Neurostream tech.",
       "category": "movies"
     },
     {
-      "url": "https://variety.com/2026/film/trailers/soulm8te-trailer-m3gan-spinoff-release-date-digital-1236526486/",
-      "source": "Variety",
-      "tool": "Soulm8te",
+      "url": "https://www.provideocoalition.com/color-mode-in-premiere-beta-color-and-contrast-controls-zones-not-lift-gamma-gain/",
+      "source": "ProVideo Coalition",
+      "tool": "Premiere",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "AI-on-screen story in the section's established lane; the straight-to-digital pivot is also a datapoint on how studios position AI-themed genre films.",
-      "published_iso": "2026-07-08T13:30:17Z",
-      "og_image": "https://variety.com/wp-content/uploads/2025/09/soulmate.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Universal's 'M3GAN' AI-robot spinoff 'Soulm8te' unveils its killer-robot-girlfriend trailer and moves to a straight-to-digital release (August 1) after being pulled from the theatrical calendar.",
-      "category": "movies"
-    },
-    {
-      "url": "https://variety.com/2026/film/global/harvey-keitel-daphna-kastner-ai-michael-caine-1236801929/",
-      "source": "Variety",
-      "tool": "Harvey Keitel",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "Extends the performer voice/likeness thread (Hasbro child-voices card) with a marquee actor's public refusal — a distinct new story from the Caine-licensing item published in Books.",
-      "published_iso": "2026-07-05T18:12:46Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/VARIETY-SIZING-22.png?w=1000&h=563&crop=1",
-      "excerpt": "Harvey Keitel, shooting a new film written by Daphna Kastner, warns of the 'danger' in actors like Michael Caine licensing their voices to AI — the latest flashpoint in the performer-likeness debate.",
+      "rationale": "Included to reach the floor of 3: a zone-based color-grading overhaul in the dominant NLE — a real finishing-workflow shift for log/HDR footage, though its AI hook is thin (UI/tonal-model change rather than generative).",
+      "published_iso": "2026-07-06T12:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pvc8.jpg",
+      "excerpt": "A deep dive into Premiere's new beta Color Mode, which replaces the traditional lift/gamma/gain model with a zone-based system built for log footage, wide-gamut media and HDR — Adobe's biggest color-grading rethink in the NLE in a decade.",
       "category": "movies"
     }
   ],
   "dedup_notes": {
     "dropped_as_duplicates": [
-      "borisfx-izotope (RedShark) — Boris FX/iZotope acquisition already published 2026-07-07 in this section (postPerspective card)",
-      "mattwolfe-vibe-direct-short-films (mCu3mVcvpLE) — content dup of the 2026-07-06 OpenArt vibe-directing card",
-      "mattwolfe-easy-ai-vfx (Zq5Yj8yCiqY) — deduped within-pool against the kept Matt Wolfe editing video (one Matt Wolfe max); editing angle chosen as stronger and non-overlapping with the 7/8 Corridor Crew AI-VFX card"
+      "topaz-video-in-depth-review (ProVideo Coalition) — same Topaz/Adobe cluster as the kept RedShark acquisition card; per the at-most-one-Topaz rule, dropped the craft review in favor of the harder acquisition news."
     ],
-    "history_checked": "candidates_filtered_movies.json is already URL-deduped vs the last 5 days of movies history; applied the supplied content-dedup facts (Boris FX/iZotope, vibe-directing, Caine-in-Books vs Keitel-distinct). No URL or content overlap with the 5 picks.",
-    "diversity": "outlets: beforesandafters.com x1, youtube.com x1, animationmagazine.net x1, variety.com x2 — 4 distinct outlets, max 2 per outlet. Story-type spread: tool launch / hands-on tutorial / conference roadmap / AI film release / likeness discourse."
+    "history_checked": "candidates_filtered_movies.json is already URL-deduped vs the last 5 days of movies history, and the collection run_notes confirm these items are not-already-published (verified against Boris FX/iZotope, Reallusion, SIGGRAPH, Soulm8te, Keitel and other 7/9 cards). No URL or content overlap with the published set.",
+    "diversity": "outlets: krea.ai x1, redsharknews.com x1, provideocoalition.com x1 — 3 distinct outlets, max 1 per outlet. Story-type spread: AI video generation / tool-consolidation M&A / color-grading workflow.",
+    "shortfall": "3 picks vs the cap of 5. The fresh pool held only 4 items and two of those are the same Topaz cluster (one kept), leaving 3 genuinely distinct, fresh, design-relevant stories. Not padded — floor of 3 met."
   }
 }

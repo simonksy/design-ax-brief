@@ -1,108 +1,56 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "gadgets",
-  "now_iso": "2026-07-08T21:51:45Z",
+  "now_iso": "2026-07-09T22:18:32Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-07T12:48:11Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/FBt23R3kyU3N7r8eCGx6ef-1920-80.jpg",
-      "excerpt": "Chinese robotics company Agibot brought its full-size A3 and half-size X2 humanoid robots to a London launch event on June 30, showing off backflipping, football-playing 'humanoids' up close and pitching robots that 'understand you, talk to you, and work for you.'"
-    },
-    {
-      "url": "https://www.notebookcheck.net/A-hobbyist-is-building-his-home-AI-a-body-one-sensor-at-a-time.1336766.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-07-07T15:14:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AI-Home-DIY-system.png",
-      "excerpt": "A hobbyist is giving his self-hosted home AI a physical 'body' one sensor at a time, wiring cameras, microphones and environmental sensors into a DIY embodied assistant that lives in the house rather than the cloud."
-    },
-    {
-      "url": "https://9to5google.com/2026/07/08/google-home-app-update-makes-automation-easier-improves-cameras-more/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-08T17:55:00+00:00",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/google-home-gemini-logo-ios-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Google's latest Home app update makes automations easier to build, speeds up camera setup and live view, and continues the Gemini for Home rollout — including new visual cards on Nest Hub for early access members."
-    },
-    {
-      "url": "https://9to5mac.com/2026/07/08/im-disappointed-apple-will-charge-for-ai-security-camera-features-in-the-home-app/",
+      "url": "https://9to5mac.com/2026/07/06/watchos-27-beta-3-includes-upgraded-siri-ai-experience-and-dedicated-siri-app/",
       "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-08T13:20:36+00:00",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Im-disappointed-Apple-will-charge-for-AI-security-camera-features-in-the-Home-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Apple's new AI security-camera features in the Home app — Apple Intelligence video descriptions and searchable 4K HomeKit Secure Video clips — will require a 2TB iCloud+ subscription, and 9to5Mac argues gating camera AI behind a storage tier is the wrong call."
+      "published_iso": "2026-07-06T18:54:40+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-watchos-27-apple-watch.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "watchOS 27 beta 3 brings Apple's revamped LLM-powered Siri and a dedicated Siri app to the Apple Watch for the first time, turning the wrist wearable into a full Apple Intelligence device that can hold back-and-forth conversations and take in-app actions (processed via a paired iPhone)."
     },
     {
-      "url": "https://www.digitaltrends.com/home/switchbots-new-outdoor-security-camera-uses-ai-to-describe-activity-around-your-home/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-07-01T18:29:21+00:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/SwitchBot-Outdoor-Pan-Tilt-Cam-3K-scaled.jpg?resize=1200%2C630",
-      "excerpt": "SwitchBot launched the $79.99 Outdoor Pan/Tilt Cam 3K in North America and the UK — a security camera that tracks moving subjects and uses AI to summarize what happened in a clip, like a delivery arriving or someone approaching the house."
-    },
-    {
-      "url": "https://www.xda-developers.com/review-amd-ryzen-ai-halo/",
-      "source": "XDA Developers",
-      "category": "gadgets",
-      "published_iso": "2026-07-06T13:01:22Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/amd-ryzen-ai-halo-glowing-2.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "XDA reviews AMD's tiny Ryzen AI Halo box and finds it does what Nvidia's DGX Spark does at a fraction of the power — a compact local-AI machine for running LLMs at home without the cloud."
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-visionos-27-beta-3/",
+      "url": "https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
       "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-07-06T10:23:00-07:00",
-      "og_image": "https://images.macrumors.com/t/HnbWdb1qxI6-t6aIEmt9atRqLGg=/1600x/article-new/2026/06/curved_windows_visionos-27.jpg",
-      "excerpt": "Apple seeded the third developer beta of visionOS 27, the Vision Pro update that brings eye-tracked Siri AI activation, an anywhere-placeable Siri orb with visual awareness of what you're looking at, curved windows and panorama-to-spatial environments."
+      "published_iso": "2026-07-06T13:24:40-07:00",
+      "og_image": "https://images.macrumors.com/t/NIcNaQpWpjJf34InyyrlQHbkafI=/1600x/article-new/2026/06/watchos-27.jpg",
+      "excerpt": "Apple's new AI-driven Siri experience has arrived on Apple Watch in watchOS 27 beta 3, adding personal-context awareness, broader world knowledge, and on-watch conversational Siri that can search Mail, Messages, Calendar and other apps and relay results to the wrist."
     },
     {
-      "url": "https://www.notebookcheck.net/GMKtec-NucBox-K17-Intel-Core-Ultra-5-226V-meets-whisper-quiet-fans.1336542.0.html",
-      "source": "Notebookcheck",
+      "url": "https://www.androidauthority.com/meta-testing-super-sensing-glasses-3685734/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-07-08T08:30:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/GMK/NucBox_K17/K17_3.jpg",
-      "excerpt": "GMKtec's NucBox K17 mini PC pairs Intel's Core Ultra 5 226V — with integrated NPU for on-device AI acceleration and Arc 130V graphics — with whisper-quiet fans, continuing the wave of small NPU-equipped desktop machines."
+      "published_iso": "2026-07-09T10:09:20+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%20AM-1.jpg",
+      "excerpt": "A new report says Meta is testing a 'super-sensing' mode for its smart glasses that continuously records audio and snaps photos every few seconds to build persistent AI context — and may switch off the privacy LED — reigniting concerns about always-on AI eyewear."
     },
     {
-      "url": "https://9to5google.com/2026/07/07/nothing-phone-4b-hands-on-launch-price-specs/",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/meta-smart-glasses-super-sensing-ai",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-07-09T12:10:42Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZF6rUeAvoWGyx4upUyveW8-2000-80.jpg",
+      "excerpt": "One day after praising Meta's smart-glasses privacy update, Tom's Guide reports that Meta's 'super sensing' AI glasses — which continuously watch and listen to build persistent context — undercut those protections, spotlighting the tension between ambient AI capabilities and bystander privacy."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-07-07T10:31:00+00:00",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-phone-4b-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Hands-on with the Nothing Phone (4b), the first of Nothing's new (b) series: a budget phone with a dedicated Essential Key that triggers Essential Voice, Essential Search and the company's AI-powered apps at an 'impossible' price."
+      "published_iso": "2026-07-08T01:25:00+00:00",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Meta is pushing a mandatory update that fully disables the camera on its Ray-Ban, Oakley and new $300 Meta glasses if the capture LED is blocked or physically tampered with, closing a privacy loophole exploited by paid LED-disabling mods."
     },
     {
-      "url": "https://www.gsmarena.com/the_nothing_phone_4b_has_a_longlasting_battery_snapdragon_6_gen_4_chip_and_a_glyph_bar-news-73609.php",
-      "source": "GSMArena",
+      "url": "https://www.digitaltrends.com/computing/samsung-wants-to-put-its-own-chip-in-your-next-pc-and-its-all-about-speeding-up-ai-chores/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-07-07T13:54:03+02:00",
-      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-phone-4b-announcement/-952x498w6/gsmarena_000.jpg",
-      "excerpt": "Nothing announced the Phone (4b) with a 120Hz AMOLED display, Snapdragon 6 Gen 4, a Glyph Bar and an Essential Key for AI features including the upgraded AI voice-to-text 'Essential Voice.' (Same launch as the 9to5Google hands-on — alternate outlet.)"
+      "published_iso": "2026-07-09T13:19:00+00:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2025/12/Samsung-Custom-Chip.jpg?resize=1200%2C720",
+      "excerpt": "Samsung is developing a dedicated AI accelerator chip codenamed 'Gaia' to handle on-device AI workloads in PCs, aiming to speed up local AI 'chores' on-silicon, with mass production potentially starting in 2027."
     }
-  ],
-  "notes": {
-    "dropped_for_relevance": [
-      "TechCrunch Even Realities $1B funding round (2026-07-06) — pure funding news",
-      "TechCrunch Agility Robotics SPAC IPO (2026-07-05) — pure finance news",
-      "9to5Mac Apple edge-AI smartwatch shipment share (2026-07-06) — market-stats report",
-      "Android Authority July 2026 Pixel update (2026-07-07) — routine maintenance update, no AI/design hook"
-    ],
-    "dropped_as_covered": [
-      "SpaceX AI device prototype (TechCrunch 7/1) — covered 7/7 via Engadget",
-      "Samsung Unpacked July 22 preview (Digital Trends 7/8) — Unpacked preview covered 7/3, Galaxy Glasses leak covered 7/8",
-      "Galaxy Z Fold 8 render leaks (9to5Google/SamMobile 7/8) — Samsung-leak genre covered 7/7-7/8, weak AI hook"
-    ],
-    "dropped_as_stale_examples": [
-      "MSI Claw 8 EX AI+ review (Engadget 6/23, ~15.4 days)",
-      "Galaxy XR UK launch (TechRadar 6/17)",
-      "XREAL Aura fall window/$1500 (Road to VR 6/17)",
-      "Plaud agent wearable (Android Authority 6/17)"
-    ],
-    "search_exhaustion": "Swept AI wearables/pendants, smart glasses (non-Meta/Samsung), humanoid & home robots, NPU PCs/mini PCs, AI cameras/smart home, Alexa+/Gemini Home, Vision Pro/XR, AI pets/toys, smart rings, AI health bands, Google TV Gemini, Nothing/Pixel phone AI. theverge/wired/arstechnica/cnet/zdnet block the crawler and could not be searched."
-  }
+  ]
 }

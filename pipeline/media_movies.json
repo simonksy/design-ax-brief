@@ -1,34 +1,23 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "movies",
   "media": [
     {
-      "id": "iclone-personal",
+      "id": "seedance25",
       "type": "video",
-      "src": "pipeline/media/iclone-personal.mp4",
-      "poster": "pipeline/media/iclone-personal.jpg"
+      "src": "pipeline/media/seedance25.mp4",
+      "poster": "pipeline/media/seedance25.jpg"
     },
     {
-      "id": "wolfe-palmier",
+      "id": "topaz-adobe",
       "type": "video",
-      "src": "pipeline/media/wolfe-palmier.mp4",
-      "poster": "pipeline/media/wolfe-palmier.jpg"
+      "src": "pipeline/media/topaz-adobe.mp4",
+      "poster": "pipeline/media/topaz-adobe.jpg"
     },
     {
-      "id": "siggraph2026",
-      "type": "video",
-      "src": "pipeline/media/siggraph2026.mp4",
-      "poster": "pipeline/media/siggraph2026.jpg"
-    },
-    {
-      "id": "soulm8te",
-      "type": "video",
-      "src": "pipeline/media/soulm8te.mp4",
-      "poster": "pipeline/media/soulm8te.jpg"
-    },
-    {
-      "id": "keitel-ai",
-      "type": "svg"
+      "id": "premiere-color",
+      "type": "image",
+      "src": "pipeline/media/premiere-color.jpg"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "games",
   "mode": "all-keywords",
-  "plan_notes": "OVERRIDE run ('모든 키워드로'): no rotation. Working set = ALL core + entire games keywords list, minus keywords covered in the last 2 days of news_data.json (2026-07-07 · 2026-07-08 games cards). YouTube channel emphasis rotated by date: Inworld AI + GDC today (Unreal Engine, Unity, Two Minute Papers channels all had cards on 7/7-7/8).",
+  "plan_notes": "OVERRIDE run ('모든 키워드로'): no rotation. Working set = ALL core + entire games keywords list, minus keywords covered in the last 2 days of news_data.json (2026-07-08 · 2026-07-09 games cards). Window advanced one day vs the 7/9 run: 'AI character creation' returns (its coverage 'metahuman-sizzle' was 7/7, now outside the 2-day window) and 'vibe coding games' is now skipped (7/9 card 'slopfix' = cleaning AI-generated game code). YouTube channel emphasis rotated by date to GDC + Two Minute Papers + Inworld AI (yesterday emphasized Inworld AI + GDC).",
   "skipped_recently_covered": [
     {
       "keyword": "Unreal Engine AI",
-      "reason": "Covered 2026-07-08 card 'ue-image-gen' (UE viewport-conditioned image/video generation, Unreal Fest) and 7/7 'metahuman-sizzle'"
+      "reason": "Covered 2026-07-08 card 'ue-image-gen' (UE viewport-conditioned image/video generation, Unreal Fest Chicago)"
     },
     {
       "keyword": "Unity Muse",
-      "reason": "Covered 2026-07-08 card 'unity-scene-ai' (Unity AI scene setup) and 7/7 'unity-ai-audit' (generated-asset auto-tagging)"
+      "reason": "Covered 2026-07-09 card 'unity-ai-debug' (Unity AI animation state machine / behavior tree debug) and 7/8 'unity-scene-ai' (Unity AI scene setup)"
     },
     {
       "keyword": "AI game art",
-      "reason": "Covered 2026-07-08 cards 'dreamcast-slop' (Sega AI-mangled promo art) and 'amano-zan' (Yoshitaka Amano on AI vs hand-drawn art)"
+      "reason": "Covered 2026-07-08 cards 'dreamcast-slop' (Sega AI-mangled promo art), 'amano-zan' (Yoshitaka Amano on AI vs hand-drawn art) and 'ue-image-gen'"
     },
     {
       "keyword": "vibe coding games",
-      "reason": "Covered 2026-07-07 card 'cnc-ios-vibeport' (C&C Generals vibe-coded iOS port via Claude)"
-    },
-    {
-      "keyword": "AI character creation",
-      "reason": "Covered 2026-07-07 card 'metahuman-sizzle' (MetaHuman 2026 digital human showreel)"
+      "reason": "Covered 2026-07-09 card 'slopfix' ($10k service cleaning AI-generated / vibe-coded game code)"
     }
   ],
   "working_keywords": [
@@ -84,7 +80,7 @@
     {
       "keyword": "AI animation games",
       "type": "pool",
-      "expansions": ["AI motion matching", "generative animation game dev", "AI mocap cleanup"]
+      "expansions": ["AI motion capture cleanup", "generative animation game dev", "Cascadeur AI", "AI motion matching"]
     },
     {
       "keyword": "AI voice acting games",
@@ -100,6 +96,11 @@
       "keyword": "AI game design tool",
       "type": "pool",
       "expansions": ["AI game prototyping tool", "AI copilot game engine", "AI game design assistant"]
+    },
+    {
+      "keyword": "AI character creation",
+      "type": "pool",
+      "expansions": ["AI 3D character generator", "AI avatar creation game", "AI character concept design", "MetaHuman Creator AI"]
     },
     {
       "keyword": "AI mod UGC",
@@ -119,7 +120,7 @@
     {
       "keyword": "Genie world model",
       "type": "pool",
-      "expansions": ["Google DeepMind Genie", "Genie interactive world", "world model gaming"]
+      "expansions": ["Google DeepMind Genie 3", "Genie interactive world", "world model gaming"]
     },
     {
       "keyword": "AI dynamic difficulty",
@@ -146,25 +147,28 @@
         "AI 게임 개발 생성형 AI 2026",
         "AI-generated game release 2026",
         "게임 개발 AI 도구 사례 2026",
-        "games industry AI adoption survey 2026",
+        "games industry AI adoption report 2026",
         "AI 3D asset generation game pipeline 2026",
-        "text-to-3D game assets tool 2026",
-        "AI NPC LLM game 2026",
-        "Inworld AI announcement game 2026",
+        "text-to-3D game assets Meshy Tripo 2026",
+        "AI NPC LLM dialogue game 2026",
+        "Inworld AI game announcement 2026",
         "AI procedural world generation game 2026",
         "AI playtesting agents game QA 2026",
         "neural game engine playable world model 2026",
+        "GameNGen generative game engine 2026",
         "AI level design generation tool 2026",
-        "LLM dynamic dialogue game narrative 2026",
-        "AI animation motion capture game development 2026",
+        "LLM dynamic dialogue branching narrative game 2026",
+        "AI motion capture animation game development 2026",
         "AI voice acting video games controversy 2026",
         "SAG-AFTRA AI video game voice agreement 2026",
         "NVIDIA ACE NPC digital human game 2026",
-        "AI game design copilot tool launch 2026",
-        "Roblox AI UGC creation tools 2026",
+        "AI game design copilot prototyping tool 2026",
+        "AI character creation 3D generator game 2026",
+        "AI avatar creation game character concept 2026",
+        "Roblox AI UGC modding creation tools 2026",
         "text-to-game prompt playable platform 2026",
         "playable AI world demo 2026",
-        "Genie world model DeepMind game 2026",
+        "Genie 3 world model DeepMind game 2026",
         "AI dynamic difficulty adaptive gameplay 2026",
         "AI localization game translation 2026",
         "AI bug detection game testing automation 2026",
@@ -196,21 +200,22 @@
         "nvidia.com",
         "blogs.nvidia.com",
         "inworld.ai",
-        "roblox.com"
+        "roblox.com",
+        "deepmind.google"
       ]
     },
     {
       "category": "games",
       "queries": [
-        "site:youtube.com Inworld AI game character demo 2026",
         "site:youtube.com GDC AI game development talk 2026",
-        "site:youtube.com GDC generative AI summit 2026"
+        "site:youtube.com Two Minute Papers game AI world model 2026",
+        "site:youtube.com Inworld AI character demo 2026"
       ],
       "allowed_domains": [
         "youtube.com",
         "youtu.be"
       ],
-      "_note": "YouTube channel slice for games (rotated emphasis: Inworld AI, GDC — Unreal Engine, Unity, Two Minute Papers channels all produced cards on 7/7-7/8). Verify uploadDate via watch-page JSON-LD; best-effort, never blocking."
+      "_note": "YouTube channel slice for games (rotated emphasis: GDC, Two Minute Papers, Inworld AI — Unreal Engine and Unity channels produced cards on 7/8-7/9). Verify uploadDate via watch-page JSON-LD; best-effort, never blocking."
     },
     {
       "category": "games",

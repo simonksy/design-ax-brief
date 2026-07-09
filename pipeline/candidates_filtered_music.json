@@ -1,101 +1,60 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "music",
-  "now_iso": "2026-07-08T21:51:45Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-07-08T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/peel-stems-728x364.jpg",
-      "excerpt": "zplane released PEEL STEMS 2, a major update to its real-time AI stem separation plugin for macOS and Windows that cuts processing latency and improves separation quality while working directly inside DAW sessions."
-    },
-    {
-      "url": "https://www.musicradar.com/music-industry/streaming-sharing/this-is-humans-versus-machines-and-today-the-humans-are-rising-the-tribute-group-formed-to-rival-ai-band-velvet-sundown",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-07-08T00:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/R4yXjFWqUYXc4mRGuunNBh.jpg",
-      "excerpt": "TV writer Simon Balch formed The Bootleg Velvet Sundown, a human tribute band rivaling the AI-generated group The Velvet Sundown, pledging all profits to real musicians 'whose work AI stole in the first place.'"
-    },
-    {
-      "url": "https://musically.com/2026/07/03/musixmatch-reveals-winners-of-its-first-ai-focused-hackathon/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-07-03T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Musixmatch announced the winners of its first AI-focused 'Musicathon': 523 developers built 100+ AI tools in seven days, with winning projects including Fusion Karaoke (lyrics-reactive AI visuals), Lyri (AI songwriting assistant) and SoundClash (AI voice-recognition music quiz)."
-    },
-    {
-      "url": "https://www.soundonsound.com/news/tracktion-unleash-waveform-14-daw",
-      "source": "Sound on Sound",
-      "category": "music",
-      "published_iso": "2026-06-29T00:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/tracktion_waveform_14-0KCBTCQ.GUc29XsshV2PxaYGHOK_Eb0L.jpg",
-      "excerpt": "Tracktion released Waveform 14 with an LLM-driven AI Assistant that answers questions from the manual, generates MIDI sequences and analyses clips to create complementary parts — running on a BYOK pay-as-you-go model supporting OpenAI and Anthropic APIs."
-    },
-    {
-      "url": "https://www.attackmagazine.com/news/yamaha-creator-pass-adds-cubase-ableton-and-new-9-99-starter-plan/",
-      "source": "Attack Magazine",
-      "category": "music",
-      "published_iso": "2026-06-30T00:00:00Z",
-      "og_image": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/06/Attack-Mag-News-Feat-Images-Yamaha-Creator-Pass.png?fit=1400%2C479&ssl=1",
-      "excerpt": "Yamaha expanded its Creator Pass subscription with Cubase 15 AI, Ableton Live 12 Lite and a $9.99 Starter plan aimed at first-time creators who want AI-assisted songwriting, beat-building and idea-generation tools without DAW experience."
-    },
-    {
-      "url": "https://www.synthtopia.com/content/2026/07/05/quantum-midi-sequencer-turns-radiation-into-music/",
+      "url": "https://www.synthtopia.com/content/2026/07/04/tidal-will-label-ai-generated-music-block-it-from-earning-royalties/",
       "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-07-05T00:00:00Z",
-      "og_image": "",
-      "excerpt": "The Quantum MIDI Sequencer is a generative music sequencer that translates nuclear radiation events into MIDI notes, turning true physical randomness into an algorithmic composition source."
+      "published_iso": "2026-07-04T12:00:00Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg",
+      "excerpt": "TIDAL announced it will label entirely AI-generated tracks and withhold royalty payments from them, planning to extend the 'AI' tag to substantially AI-generated music as detection tech improves."
     },
     {
-      "url": "https://bedroomproducersblog.com/2026/07/01/hydratek-erebos/",
+      "url": "https://www.attackmagazine.com/news/fl-studio-2026-adds-redesigned-flex-cloud-backup-and-built-in-smart-assistance/",
+      "source": "Attack Magazine",
+      "category": "music",
+      "published_iso": "2026-07-09T10:00:00Z",
+      "og_image": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/07/Attack-Mag-News-Feat-Images-FLS-26-2.png?fit=1400%2C479&ssl=1",
+      "excerpt": "FL Studio 2026 expands its Gopher AI assistant so it can now perform actions inside a project — organising tracks, routing mixer channels, setting levels, adjusting plugin parameters and generating Piano Roll content."
+    },
+    {
+      "url": "https://www.soundonsound.com/news/landr-expand-fair-trade-ai-programme",
+      "source": "Sound on Sound",
+      "category": "music",
+      "published_iso": "2026-07-09T09:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/l/landr_ai-AgzoNOzhBFPDAzR4QJFWJs6iKoYsjU1z.jpg",
+      "excerpt": "LANDR unveiled the next phase of its Fair Trade AI programme — a $1 million advance initiative letting independent musicians take upfront payments for licensing their catalogues to AI companies while staying eligible for recurring licensing revenue."
+    },
+    {
+      "url": "https://www.synthtopia.com/content/2026/06/30/drumcomputer-claude-extension-lets-you-make-beats-via-text-prompts/",
+      "source": "Synthtopia",
+      "category": "music",
+      "published_iso": "2026-06-30T12:00:00Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/06/drumcomputer-claude-extension-900x300.png",
+      "excerpt": "Sugar Bytes released a free DrumComputer Claude Extension that generates complete DrumComputer drum sounds and beats from a single natural-language text prompt, bringing an LLM directly into drum synthesis."
+    },
+    {
+      "url": "https://www.musicradar.com/music-tech/klang-io-promises-to-turn-audio-into-notated-transcriptions-lead-sheets-and-guitar-tabs-but-does-it-actually-work-klang-io-transcription-studio-review",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-07-07T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KJ2csKzprZwAWMjUuzXjuh.png",
+      "excerpt": "Hands-on review of Klang.io Transcription Studio, an AI tool that turns audio into notated transcriptions, lead sheets and guitar tabs — strong at single-instrument pitch detection but still an editing aid rather than a replacement for human transcribers."
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/06/27/wisetracker/",
       "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/erebos-728x364.jpg",
-      "excerpt": "Sound designer Fabio Gotti details building his debut HydraTek plugin Erebos as a deliberately human-made product, warning that audio tools and marketing 'can quickly collapse into generic AI-generated aesthetics' — a counterpoint craft story to the vibe-coded plugin wave."
-    },
-    {
-      "url": "https://au.rollingstone.com/music/music-news/australias-music-industry-unites-against-ai-copyright-threat-97849/",
-      "source": "Rolling Stone Australia",
-      "category": "music",
-      "published_iso": "2026-07-01T08:53:00Z",
-      "og_image": "https://images-r2-1.thebrag.com/rs/uploads/2025/06/issue21.jpg",
-      "excerpt": "Australia's leading music and creative organisations launched a united campaign demanding federal copyright protections after local songs were allegedly used to train AI models without consent, calling it 'the largest theft of intellectual property in our history.'"
-    },
-    {
-      "url": "https://www.hypebot.com/do-fans-really-care-if-musicians-use-ai-to-create-a-song/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Hypebot examines whether audiences genuinely oppose AI in music creation or whether the backlash mirrors the resistance that met every past technology shift in production — a question shaping how openly working musicians disclose AI use."
+      "published_iso": "2026-06-27T12:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/wisetracker-728x364.jpg",
+      "excerpt": "WiseTracker is a free FastTracker 2-style tracker plugin and standalone app built by a lifelong tracker user who isn't a traditional developer — he used Claude to code it over several hundred hours, another example of AI lowering the barrier to building music tools."
     }
   ],
-  "notes": {
-    "covered_skipped": [
-      "Suno developer API / Suno 61k litigation follow-ups (covered 7/7)",
-      "TIDAL AI tagging & monetization (covered earlier)",
-      "Atlantic AI Watchdog training-data DBs incl. gearnews/DJ Mag/MBW/Engadget takes (covered 7/8)",
-      "Lumen image-to-sound synth, Ableton Learn, Viberate MCP, Skrillex interview (covered 7/8)",
-      "iZotope/Boris FX acquisition (covered earlier)"
-    ],
-    "dropped_examples": [
-      "Suno hires ex-Atlantic/YouTube execs (MBW 7/7) — exec-move news, no craft hook",
-      "Suno $250M raise at $5B valuation — funding round",
-      "Spotify Q1 earnings AI ambitions — pure business/finance",
-      "Roland Project Lydia (5/7), Spotify-UMG AI remix deal (5/21), Stable Audio 3.0 (5/21), Moises AI Studio (2025-08), Coda Music (2025-11) — verified stale outside 336h window"
-    ],
-    "social": "Best-effort YouTube sweep (Benn Jordan, Andrew Huang, Venus Theory via RSS uploadDate; Suno/Udio/ElevenLabs channels) found no fresh on-topic AI-music videos with verifiable dates; contributed 0 social candidates."
-  },
   "dedup": {
-    "dropped": 1,
-    "kept": 9,
+    "dropped": 0,
+    "kept": 6,
     "against_days": 5
   }
 }

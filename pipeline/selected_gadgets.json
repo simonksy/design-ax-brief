@@ -1,90 +1,57 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "Agibot",
+      "tool": "Apple Watch",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close",
-      "source": "TechRadar",
-      "published_iso": "2026-07-07T12:48:11Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/FBt23R3kyU3N7r8eCGx6ef-1920-80.jpg",
-      "excerpt": "Chinese robotics company Agibot brought its full-size A3 and half-size X2 humanoid robots to a London launch event on June 30, showing off backflipping, football-playing 'humanoids' up close and pitching robots that 'understand you, talk to you, and work for you.'",
-      "rationale": "Hands-on with production-bound humanoids that talk, understand and act — the strongest embodied-AI/robots anchor in the pool and a fresh carryover, credible TechRadar reporting."
+      "url": "https://9to5mac.com/2026/07/06/watchos-27-beta-3-includes-upgraded-siri-ai-experience-and-dedicated-siri-app/",
+      "source": "9to5Mac",
+      "published_iso": "2026-07-06T18:54:40+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-watchos-27-apple-watch.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "watchOS 27 beta 3 brings Apple's revamped LLM-powered Siri and a dedicated Siri app to the Apple Watch for the first time, turning the wrist wearable into a full Apple Intelligence device that can hold back-and-forth conversations and take in-app actions (processed via a paired iPhone).",
+      "rationale": "Apple's LLM Siri reaching the wrist changes how designers prototype and test wearable voice interactions tomorrow; fresh beta 3 release from a credible Apple outlet (dedicated Siri app angle over MacRumors' same-story coverage)."
     },
     {
       "rank": 2,
-      "tool": "Vision Pro",
-      "category": "gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-visionos-27-beta-3/",
-      "source": "MacRumors",
-      "published_iso": "2026-07-06T10:23:00-07:00",
-      "og_image": "https://images.macrumors.com/t/HnbWdb1qxI6-t6aIEmt9atRqLGg=/1600x/article-new/2026/06/curved_windows_visionos-27.jpg",
-      "excerpt": "Apple seeded the third developer beta of visionOS 27, the Vision Pro update that brings eye-tracked Siri AI activation, an anywhere-placeable Siri orb with visual awareness of what you're looking at, curved windows and panorama-to-spatial environments.",
-      "rationale": "Concrete new spatial-AI interaction patterns (gaze-triggered Siri, gaze-aware orb, curved windows) that change how XR/spatial designers prototype; distinct from yesterday's iOS 27 public-beta card."
-    },
-    {
-      "rank": 3,
-      "tool": "AMD",
+      "tool": "Meta",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.xda-developers.com/review-amd-ryzen-ai-halo/",
-      "source": "XDA Developers",
-      "published_iso": "2026-07-06T13:01:22Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/amd-ryzen-ai-halo-glowing-2.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "XDA reviews AMD's tiny Ryzen AI Halo box and finds it does what Nvidia's DGX Spark does at a fraction of the power — a compact local-AI machine for running LLMs at home without the cloud.",
-      "rationale": "Highly actionable on-device-AI beat — a small, low-power box that runs local LLMs, directly relevant to designers wanting private local models; chosen over the GMKtec NucBox to avoid a second Notebookcheck card."
+      "url": "https://www.androidauthority.com/meta-testing-super-sensing-glasses-3685734/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-09T10:09:20+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%20AM-1.jpg",
+      "excerpt": "A new report says Meta is testing a 'super-sensing' mode for its smart glasses that continuously records audio and snaps photos every few seconds to build persistent AI context — and may switch off the privacy LED — reigniting concerns about always-on AI eyewear.",
+      "rationale": "Original report on Meta's always-on 'super-sensing' ambient AI reframes the design tension between persistent context capture and bystander privacy for anyone building wearable AI; strongest super-sensing angle over the Tom's Guide / 9to5Google privacy-LED coverage of the same cluster."
     },
     {
-      "rank": 4,
-      "tool": "Nothing",
-      "category": "gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "url": "https://9to5google.com/2026/07/07/nothing-phone-4b-hands-on-launch-price-specs/",
-      "source": "9to5Google",
-      "published_iso": "2026-07-07T10:31:00+00:00",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-phone-4b-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Hands-on with the Nothing Phone (4b), the first of Nothing's new (b) series: a budget phone with a dedicated Essential Key that triggers Essential Voice, Essential Search and the company's AI-powered apps at an 'impossible' price.",
-      "rationale": "Fresh hands-on of a new phone line with a hardware AI key (Essential Voice/Search) — a real on-device AI-UX design signal; kept over the GSMArena announcement of the same launch. Scores high enough to justify a second-day Nothing card (distinct device from the Ear 3a)."
-    },
-    {
-      "rank": 5,
-      "tool": "Apple",
+      "rank": 3,
+      "tool": "Samsung",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://9to5mac.com/2026/07/08/im-disappointed-apple-will-charge-for-ai-security-camera-features-in-the-home-app/",
-      "source": "9to5Mac",
-      "published_iso": "2026-07-08T13:20:36+00:00",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Im-disappointed-Apple-will-charge-for-AI-security-camera-features-in-the-Home-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Apple's new AI security-camera features in the Home app — Apple Intelligence video descriptions and searchable 4K HomeKit Secure Video clips — will require a 2TB iCloud+ subscription, and 9to5Mac argues gating camera AI behind a storage tier is the wrong call.",
-      "rationale": "Fresh angle on how consumer AI features get monetized — Apple gating camera AI (natural-language video descriptions, searchable clips) behind a storage tier; the smart-home sub-topic and a distinct outlet, chosen over the Google Home update and SwitchBot cam."
+      "url": "https://www.digitaltrends.com/computing/samsung-wants-to-put-its-own-chip-in-your-next-pc-and-its-all-about-speeding-up-ai-chores/",
+      "source": "Digital Trends",
+      "published_iso": "2026-07-09T13:19:00+00:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2025/12/Samsung-Custom-Chip.jpg?resize=1200%2C720",
+      "excerpt": "Samsung is developing a dedicated AI accelerator chip codenamed 'Gaia' to handle on-device AI workloads in PCs, aiming to speed up local AI 'chores' on-silicon, with mass production potentially starting in 2027.",
+      "rationale": "Samsung's dedicated on-device AI silicon signals where local AI performance for creative PC tools is headed; novel hardware roadmap and the sole source for the story."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.gadgets today (2026-07-08) + days 2026-07-03, 2026-07-04, 2026-07-06",
+    "checked_against": "pipeline candidates already URL-deduped vs news_data.json history; content-dedup applied per orchestrator facts",
     "history_collisions": 0,
-    "dropped_same_story": [
-      "https://www.gsmarena.com/the_nothing_phone_4b_has_a_longlasting_battery_snapdragon_6_gen_4_chip_and_a_glyph_bar-news-73609.php — same Nothing Phone (4b) launch as the 9to5Google hands-on; kept the hands-on"
+    "collapsed_stories": [
+      "STORY A (watchOS 27 Siri): 9to5Mac + MacRumors are the same story — kept 9to5Mac, dropped https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
+      "STORY B (Meta super-sensing glasses): Android Authority + Tom's Guide + 9to5Google are one cluster — kept Android Authority, dropped https://www.tomsguide.com/computing/smart-glasses/meta-smart-glasses-super-sensing-ai and https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
+      "STORY C (Samsung Gaia): single source — kept Digital Trends"
     ],
-    "dropped_for_diversity": [
-      "https://www.notebookcheck.net/GMKtec-NucBox-K17-Intel-Core-Ultra-5-226V-meets-whisper-quiet-fans.1336542.0.html — second on-device-AI PC and would duplicate the AMD pick's sub-topic; AMD Ryzen AI Halo is the stronger local-AI story",
-      "https://9to5google.com/2026/07/08/google-home-app-update-makes-automation-easier-improves-cameras-more/ — second smart-home story and would make 9to5Google x2; 9to5Mac Apple camera-paywall angle is more actionable/opinionated",
-      "https://www.digitaltrends.com/home/switchbots-new-outdoor-security-camera-uses-ai-to-describe-activity-around-your-home/ — third smart-home/AI-camera story; weaker single-product launch",
-      "https://www.notebookcheck.net/A-hobbyist-is-building-his-home-AI-a-body-one-sensor-at-a-time.1336766.0.html — niche DIY hobbyist project, low actionability vs the ranked field"
-    ],
-    "notes": [
-      "visionOS 27 beta 3 kept vs history: 07-08 iOS 27 public-beta card is a different OS/product (iPhone Siri), not the Vision Pro spatial update.",
-      "Nothing Phone (4b) kept vs history: 07-08 Nothing Ear (3a) card is a different product; the (4b) hands-on scores clearly high on the on-device AI-key hook, so a second-day Nothing card is warranted.",
-      "Final 5: five distinct outlets (TechRadar, MacRumors, XDA, 9to5Google, 9to5Mac; max 1 each) and five distinct sub-topics (robots / XR / on-device-AI PC / phones / smart home)."
-    ]
+    "shortfall": "3 picks, below the target of 5. The 6-item pool collapses to only 3 distinct fresh stories; the window's other AI-device news was already published. Meets the floor of 3; not padded with near-duplicate second cards.",
+    "diversity": "3 distinct outlets (9to5Mac, Android Authority, Digital Trends), max 1 per outlet; distinct accents assigned within the shared gadgets category."
   }
 }

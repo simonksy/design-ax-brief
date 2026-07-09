@@ -1,56 +1,45 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "games",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.nvidia.com/en-us/geforce/news/doom-the-dark-ages-revelations-dlss-path-tracing/",
-      "source": "NVIDIA GeForce News",
+      "url": "https://www.gamesradar.com/games/devs-dont-buy-steam-disclosure-claiming-gen-ai-was-a-necessity-im-literally-unemployed-and-i-still-make-all-of-my-assets-by-hand/",
+      "source": "GamesRadar+",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Strongest, most concrete item: neural rendering (DLSS Multi Frame Generation up to 6X + path tracing with Ray Reconstruction) shipping in a marquee title today — a clear signal of how fast AI rendering is becoming default in real games.",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/doom-the-dark-ages-revelations-dlss-4-5-path-tracing/doom-the-dark-ages-revelations-dlss-path-tracing-ogimage.jpg",
-      "excerpt": "id Software's DOOM: The Dark Ages expansion Revelations ships with neural rendering across the board — DLSS Multi Frame Generation up to 6X, Super Resolution, and path tracing with Ray Reconstruction (up to 310 fps at 4K on RTX 5090); Assassin's Creed Black Flag Resynced follows July 9."
+      "rationale": "Fresh (7/9) developer-reaction angle on the Steam AI-labeling saga: devs reject 'gen AI was a necessity' cost-cutting framing, insisting hand-made asset workflows remain viable — a sharp read on how working artists are positioning against AI-as-budget-shortcut.",
+      "published_iso": "2026-07-09T17:11:01Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg",
+      "excerpt": "After the dark-fantasy idle ARPG Bahast argued on its Steam page that generative AI was a \"necessity\" to ship on a small budget, other developers pushed back hard, insisting hand-made asset workflows are still viable even while unemployed. A sharp snapshot of the working-designer's stance on 'AI as cost-cutting.'"
     },
     {
-      "url": "https://www.youtube.com/watch?v=7FtJiOTYtP0",
-      "source": "Unity (YouTube)",
+      "url": "https://www.gamesradar.com/games/survey-finds-only-31-percent-of-steam-users-have-a-problem-with-ai-in-games-with-43-percent-totally-fine-with-it/",
+      "source": "GamesRadar+",
       "tool": "Games",
-      "accent": "#0070f3",
+      "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "High actionability for working Unity devs — prompt-driven setup and debugging of animation state machines and behavior trees; distinct content from the already-published asset-audit (7/7) and scene-setup (7/8) demos.",
-      "published_iso": "2026-06-29T06:00:37-07:00",
-      "og_image": "https://i.ytimg.com/vi/7FtJiOTYtP0/maxresdefault.jpg",
-      "excerpt": "Official Unity video shows Unity AI (Beta) setting up and debugging animation state machines, behavior trees, and transitions from prompts 'so you can focus on game feel' — a third pillar of the Unity AI workflow after the asset-audit and scene-setup demos."
-    },
-    {
-      "url": "https://www.pcgamer.com/software/ai/slopfix-a-software-team-is-charging-up-to-usd10-000-to-clean-up-ai-generated-code-with-the-help-of-checks-notes-ai/",
-      "source": "PC Gamer",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "Novel, credible field report on the downstream cost of AI / vibe-coded projects — directly relevant to solo devs and small studios weighing AI codegen tradeoffs ('who fixes the fixes?').",
-      "published_iso": "2026-07-08T15:22:46Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pmiZmnzKJMigLWmND6869K-2560-80.jpg",
-      "excerpt": "A software team is charging up to $10,000 to 'fix' broken vibe-coded projects — using AI to clean up AI-generated code. A pointed snapshot of where the vibe-coding boom lands for small studios and solo devs: 'who fixes the fixes?'"
+      "rationale": "Distinct player-sentiment development (7/8) that complicates the developer backlash: a survey showing 43% of Steam users are fine with gen AI and only 31% object — verifiable-outlet version of the Cloudflare-blocked GameSpot 'players don't care' study, and a data point designers/studios will weigh.",
+      "published_iso": "2026-07-08T00:00:23Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iYbJwiXnDe6Rccst38FsBF-1920-80.jpg",
+      "excerpt": "A new player survey complicates the loud developer backlash: 43% of Steam users say they're totally fine with generative AI in games and only 31% object, suggesting the audience response to AI-built content is far more split than headlines imply. (This is the verifiable-outlet version of the GameSpot 'players don't care' study, which was Cloudflare-blocked.)"
     }
   ],
   "dedup_notes": {
-    "note": "User deferred. Pool of 6 (already URL-deduped vs history). Applied hard exclusions and content dedup: 3 fresh, uncovered picks from 3 distinct outlets (NVIDIA, Unity, PC Gamer). Floor of 3 met; pool genuinely exhausted (no more unique fresh items) so not padded to 5.",
+    "note": "User deferred (agent pick). Pool of 5 (already URL-deduped vs history). After hard exclusion + content dedup, only 2 distinct fresh non-dup stories survive — both GamesRadar+ (within the <=2 per-outlet cap). SHORTFALL: below the floor of 3. The 14-day games window is heavily pre-covered and the pool is genuinely exhausted; per the hard rule I published fewer rather than pad with a duplicate. The two kept items are distinct developments in the Steam AI saga (developer reaction vs player survey), separate URLs, both verified fresh.",
     "dropped": [
       {
         "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
-        "reason": "Hard exclusion — same story published 2026-07-07 in the design section."
+        "reason": "Hard exclusion — same 80 Level Hi3D story published 2026-07-07 in the design section."
       },
       {
-        "url": "https://www.youtube.com/watch?v=IRlduPJT9M0",
-        "reason": "Content overlap — State of Unreal 2026 highlight reel recapping the same event whose UE image/video-gen session (7/8) and MetaHuman reel (7/7) were already published; adds no genuinely new material. Also weakest item in pool."
+        "url": "https://www.thegamer.com/dragon-age-david-gaider-ai-problematic-plague/",
+        "reason": "Content dup — same David Gaider 'virulent plague' quote/story already published earlier in the games section (gaider-plague). Not a new development; each distinct story publishes once."
       },
       {
-        "url": "https://www.nvidia.com/en-us/geforce/news/june-2026-dlss-games-summer-of-rtx/",
-        "reason": "Weak listicle roundup and a second NVIDIA item; per outlet preference kept the stronger DOOM: The Dark Ages DLSS piece instead."
+        "url": "https://www.gamesradar.com/games/sony-says-ai-is-exciting-great-for-synthetic-assets-and-an-important-foundational-technology-supporting-our-strategy/",
+        "reason": "Content dup — same Sony AI-strategy ('foundational technology', synthetic assets) story already published earlier in the games section (sony-ai-annual-report)."
       }
     ]
   }

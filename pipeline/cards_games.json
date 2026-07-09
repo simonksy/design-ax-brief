@@ -1,70 +1,53 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "cards": [
     {
-      "id": "doom-revelations",
+      "id": "devs-reject-ai",
       "eyebrow": "AI NEWS",
-      "headline": "둠 더 다크 에이지 신규 확장팩\n4K 310fps 뉴럴 렌더링 탑재",
-      "body": "패스 트레이싱과 최대 6배 프레임 생성을 얹어 RTX 5090에서 4K 310fps를 뽑는다.",
-      "mini_headline": "둠 확장팩 뉴럴 렌더링",
+      "headline": "생성 AI가 어쩔 수 없었다는 해명\n개발자들은 그대로 믿지 않는다",
+      "body": "스팀에서 생성 AI가 불가피했다는 해명에 개발자들은 지금도 손으로 에셋을 만든다며 반박했다.",
+      "mini_headline": "생성 AI 필수론 반박",
       "tool": "Games",
-      "source": "NVIDIA GeForce News",
-      "url": "https://www.nvidia.com/en-us/geforce/news/doom-the-dark-ages-revelations-dlss-path-tracing/",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/devs-dont-buy-steam-disclosure-claiming-gen-ai-was-a-necessity-im-literally-unemployed-and-i-still-make-all-of-my-assets-by-hand/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/doom-the-dark-ages-revelations-dlss-4-5-path-tracing/doom-the-dark-ages-revelations-dlss-path-tracing-ogimage.jpg", "cap": "이미지: NVIDIA / id Software" },
-          { "t": "p", "x": "id 소프트웨어와 베데스다 소프트웍스의 확장팩 DOOM: The Dark Ages | Revelations가 오늘 출시됐다. 지원 지포스 RTX GPU에서 DLSS 멀티 프레임 생성(최대 6X 모드)과 슈퍼 레졸루션, 레이 리컨스트럭션으로 강화한 패스 트레이싱을 처음부터 기본으로 지원한다." },
-          { "t": "p", "x": "4K(3840×2160)에서는 RTX 5090이 패스 트레이싱과 최고 옵션을 켜고도 최대 310fps를 낸다. 전체 성능 배수가 6.5배에 달해 다른 GPU에서도 프레임이 크게 오르는데 RTX 5080은 280fps를 기록한다." },
-          { "t": "p", "x": "2560×1440에서는 멀티 프레임 생성과 레이 리컨스트럭션 덕분에 RTX 5090이 패스 트레이싱을 유지한 채 375fps로 돌아간다." },
-          { "t": "p", "x": "1920×1080에서는 두 기술이 함께 붙어 프레임을 평균 6.1배 끌어올린다. RTX 5090이 500fps, RTX 5080이 360fps 이상, RTX 5070 Ti가 310fps를 넘고 RTX 5070도 280fps를 웃돈다." },
-          { "t": "p", "x": "확장팩은 더 까다로운 퍼즐과 새 데몬, 새 미스터리를 담은 신규 레벨을 들여왔다. 새로 나온 체인 스피어는 \"a uniquely satisfying combat system – one that rewards mastery with enhanced power and mobility\"라고 소개됐다." },
-          { "t": "p", "x": "경험을 최적화하는 새 Revelations 지포스 게임 레디 드라이버도 함께 배포됐다. 이어서 Assassin's Creed Black Flag Resynced가 7월 9일 출시되며 멀티 프레임 생성과 프레임 생성, 슈퍼 레졸루션, 레이 트레이싱 반사·조명을 지포스 RTX에서 지원한다." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg", "cap": "이미지: FC Tech Labs" },
+          { "t": "p", "x": "스팀에 나온 신작 액션 RPG가 다른 개발자들 사이에 논쟁을 불렀다. 제작자가 개발 속도를 높이려면 생성 AI가 꼭 필요했다면서도, 수익이 더 들어오면 그 의존을 줄일 수 있다고 밝힌 게 발단이었다." },
+          { "t": "p", "x": "게임 개발자이자 애니메이터인 아우라 트리올로(블루스카이 Aura/Moom)가 다크 판타지 아이들 ARPG를 표방한 신작 Bahast의 스팀 AI 고지 문구를 짚었다. 트리올로는 문구만 공유했지만 다른 이들이 곧 게임을 찾아냈다." },
+          { "t": "p", "x": "이 문제는 게임과 개발 현장에서 생성 AI를 둘러싼 논쟁의 뇌관으로 남아 있다. GamesRadar+가 개발자 30여 명에게 물었더니 효율이 좋아진다는 주장에도 도구로서의 생성 AI에 반대하는 목소리가 갖가지로 나왔다. 인디 개발자들의 시각을 더 담은 후속 보도가 예정돼 있는데, 이들도 이 기술에 부정적이었다." },
+          { "t": "p", "x": "에픽게임즈 대표 팀 스위니 같은 업계 인사는 앞으로 AI를 접목한 개발이 필수가 된다고 본다." },
+          { "t": "p", "x": "Bahast의 해명에 여러 개발자가 거세게 반발했다. 트리올로는 \"'돈을 주면 AI를 덜 쓸지도 모른다'는 건 처음 보는 절박한 호소\"라고 적었다." },
+          { "t": "p", "x": "엘드리치를 만든 마이너 키 게임스의 데이비드 린지 피트먼은 \"'나는 그냥 작은 1인 개발자일 뿐'이라는 말은, 그림을 훔치는 사기 기계 없이 만들어 온 우리 같은 1인·소규모 개발자에겐 통하지 않는다\"고 받아쳤다." },
+          { "t": "p", "x": "스퀴크로스를 만든 스튜디오 알블룬의 알렉상드르 스트루코프는 \"규모 잡는 법이나 배우고 징징대지 말라\"고 했다. 1인 개발자 Mtgames는 \"나는 말 그대로 무직인데도 에셋을 전부 손으로 만든다. 왜냐고? 재밌으니까\"라고 덧붙였다." },
+          { "t": "p", "x": "알트릭스 스튜디오의 1인 개발자 라이언 너스는 \"스팀 배급 수수료와 2019년 TIC-80 프로를 사며 쓴 5달러를 빼면, Prism Indigo든 Prism Warriors든 개발에 단 한 푼도 쓰지 않았다\"며 \"'돈이 없다'는 건 게임에 생성 AI를 쓰는 헛소리 변명\"이라고 했다." },
+          { "t": "p", "x": "최근 한 설문에서는 스팀 이용자 가운데 게임 속 AI를 크게 문제 삼는 사람이 많지 않았다. 다만 설문을 진행한 쪽은 AI를 쓰면 여전히 판매에는 손해가 난다고 경고했고, 해당 질문과 표본이 전체 이용자층과 딱 맞지는 않는다고 봤다." }
         ]
       }
     },
     {
-      "id": "unity-ai-debug",
+      "id": "steam-ai-survey",
       "eyebrow": "AI NEWS",
-      "headline": "유니티 AI가 애니메이션 상태머신과\n행동 트리 세팅과 디버그를 돕는다",
-      "body": "상태머신과 행동 트리, 전환을 프롬프트로 세팅하고 디버그해 게임 감각에 집중하게 한다.",
-      "mini_headline": "유니티 AI로 디버그",
+      "headline": "스팀 이용자 43%는 게임 AI에\n괜찮고 31%만 문제 삼았다",
+      "body": "설문에서 스팀 이용자 43%는 게임 속 생성 AI에 괜찮다고 답했고 31%만 문제 삼았다.",
+      "mini_headline": "스팀 43%는 AI 괜찮다",
       "tool": "Games",
-      "source": "Unity (YouTube)",
-      "url": "https://www.youtube.com/watch?v=7FtJiOTYtP0",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/survey-finds-only-31-percent-of-steam-users-have-a-problem-with-ai-in-games-with-43-percent-totally-fine-with-it/",
       "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "video", "yt": "7FtJiOTYtP0" },
-          { "t": "p", "x": "유니티가 공식 채널에 올린 영상이다. 유니티 AI(베타)로 애니메이션 상태머신과 행동 트리, 전환을 프롬프트만으로 세팅하고 디버그하는 모습을 보여 준다. 반복 작업을 덜어 게임 감각을 다듬는 데 시간을 돌려주자는 게 요지다." },
-          { "t": "p", "x": "앞서 7일과 8일 다룬 생성 에셋 태깅, 씬 세팅 데모에 이어 유니티 AI 워크플로의 또 다른 축을 보여 주는 셈이다. 유니티 AI 베타는 지금 무료로 써 볼 수 있다." }
-        ]
-      }
-    },
-    {
-      "id": "slopfix",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 만든 코드를 치우는 데\nAI를 쓰는 1만 달러짜리 서비스",
-      "body": "AI가 남긴 슬롭 코드를 정리하려고 또 다른 팀이 AI를 동원해 최대 1만 달러를 받는다.",
-      "mini_headline": "슬롭픽스 AI 코드 청소",
-      "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/slopfix-a-software-team-is-charging-up-to-usd10-000-to-clean-up-ai-generated-code-with-the-help-of-checks-notes-ai/",
-      "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/pmiZmnzKJMigLWmND6869K-2560-80.jpg", "cap": "이미지: PC Gamer" },
-          { "t": "p", "x": "바이브 코딩의 진짜 골칫거리는 결과물 자체가 아니라 그 코드베이스 위에 뭔가를 더 쌓기가 불안정하다는 데 있다. AI 에이전트는 선호되는 출력을 잘 뽑지만 다음 단계를 '생각'하지는 못해서 AI 코드에는 중복과 비효율이 넘친다. 여기서 이른바 \"AI slop\"이 나온다." },
-          { "t": "p", "x": "톰스 하드웨어에 따르면 이 팀의 이름은 슬롭픽스(Slopfix)다. 불필요한 AI 코드를 일정량 걷어 내고 목표에 얼마나 도달했느냐에 따라 1만 달러 수수료의 일부를 받는다. 사이트에 든 예시는 10만 줄을 3만 5천 줄로 줄이는 것. 6만 5천 줄을 지우면 1만 달러를, 3만 2500줄만 줄이면 5천 달러를 받는 식이다." },
-          { "t": "p", "x": "요즘 흔한 문제이기도 하다. 몇 달 전 인기 PS3 에뮬레이터 팀은 사용자에게 \"submitting AI slop code\"를 멈춰 달라고 했고 오픈소스 게임 엔진 고닷도 연초에 AI 슬롭 코드에 잠겼다. 고닷은 지난달 AI 생성 코드 기여를 아예 받지 않기로 했는데 \"trust heavy users of AI to understand their code enough to fix it\"이 어렵다는 이유였다." },
-          { "t": "p", "x": "AI 코드를 치운다고 사용자가 자기 출력을 이해하지 못하는 문제까지 풀리지는 않는다. 다만 AI 에이전트가 그 위에 뭔가를 더 얹기는 쉬워진다. 남이 같은 도구로 코드베이스를 청소하는 데 수만 달러를 낼지는 미지수다. 필자는 슬롭픽스 사이트가 사람 손으로 만든 것인지부터 의심스럽고 사이트 문구도 믿음을 주지 못한다고 적었다." },
-          { "t": "p", "x": "그래도 한 가지 의문은 남는다. AI 코드를 뽑아 놓고 그 실수를 고치라며 AI 에이전트에 돈을 낸다면 그 에이전트가 제대로 일하는지는 누가 챙기나. 슬롭픽스의 엔지니어 셋이 코드를 손으로 훑는다면 애초에 코딩 봇을 쓴 의미는 무엇인가." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/iYbJwiXnDe6Rccst38FsBF-1920-80.jpg", "cap": "이미지: Valve" },
+          { "t": "p", "x": "온 세상이, 적어도 게임 커뮤니티가 게임 속 AI 확산에 맞서 한목소리를 내는 듯 보이는 와중에, 게임사들이 효율을 이유로 이 기술을 점점 끌어안고 여러 경우엔 사람 일자리를 밀어내는 모습은 낯설다. 최근 설문 하나가 그 간극을 조금 설명해 줄지도 모른다." },
+          { "t": "p", "x": "The GameDiscoverCo 뉴스레터가 스팀 이용자 3,800명에게 물은 최근 설문에서, 상당수가 게임에 AI가 쓰여도 대체로 괜찮다고 답했다. 응답자 중 23.4%는 \"전혀 문제없다\", 19.6%는 \"그냥 괜찮다\"고 했다." },
+          { "t": "p", "x": "밸브는 모든 개발자에게 게임에 AI를 썼는지와 그 정도를 스팀에 고지하도록 요구한다. 덕분에 어느 쪽 입장이든 이용자는 사기 전에 정보를 확인한다. AI를 밀어붙이려는 개발사와 퍼블리셔가 새겨야 할 대목이 여기 있는데, 관용도는 놀랄 만큼 높아도 사람들은 지켜보고 있어서다." },
+          { "t": "p", "x": "또 다른 설문에서는 응답자의 44.4%가 스팀 게임이 AI 도움을 받아 만들어졌는지 \"꼼꼼히 확인한다\"고 답했고, 44.7%는 \"훑어보지만 크게 신경 쓰진 않는다\", 10.9%는 \"아예 읽지 않는다\"고 했다. 스팀 이용자 90% 가까이가 대개 구매 전 AI 고지를 확인한다는 뜻이다." },
+          { "t": "p", "x": "이 설문들의 응답자가 전체 스팀 이용자층을 대표하지는 않는다는 점은 짚어 둘 만하다. The GameDiscoverCo의 표현으로는 \"평소보다 더 몰입한\" 이들이다. 그래도 특정 부류의 스팀 이용자가 지금 게임 개발 속 AI를 어떻게 느끼는지 가늠하는 데는 쓸모가 있다." }
         ]
       }
     }

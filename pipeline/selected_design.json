@@ -1,85 +1,72 @@
 {
   "date": "2026-07-09",
   "section": "design",
-  "selection_mode": "curator",
+  "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.builder.io/blog/how-kpmg-closed-the-design-to-engineering-gap",
-      "title": "How KPMG Closed the Design-to-Engineering Gap with Builder",
-      "source": "Builder.io",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Most actionable item in the pool: an AI design-intelligence system that drives rule-based component code generation, cutting design-review cycles from 10 days to same-day and delivery time 88% — a concrete design-to-code playbook.",
-      "published_iso": "2026-07-06",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7464784da1384373989caf168c5c2600?format=webp&width=800",
-      "excerpt": "KPMG adopted Builder's AI design-intelligence system to close the design-to-engineering gap, cutting delivery time 88% by driving component-based code generation with explicit architectural rules instead of probabilistic pattern inference. Design review cycles dropped from 10 days to same-day turnaround."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/07/otoy-releases-octanerender-2026-4/",
-      "title": "Otoy releases OctaneRender 2026.4",
-      "source": "CG Channel",
+      "url": "https://www.krea.ai/blog/seedream-5-0-pro-live-on-krea",
+      "title": "Seedream 5.0 Pro - Live on Krea",
+      "source": "Krea",
+      "published_iso": "2026-07-08",
+      "og_image": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/thumbnail.png",
+      "excerpt": "Seedream 5.0 Pro, an advanced image generation and editing model with web-search and deep-reasoning capabilities, is now live on Krea. It lets designers generate, edit, blend and batch images while holding visual consistency and art direction across multiple outputs.",
+      "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Shipped AI render feature: the Neural Radiance Cache (a network trained at render time to denoise indirect light) expands to macOS and network rendering, plus wider 3D Gaussian Splatting — a real speed/quality change for 3D artists.",
-      "published_iso": "2026-07-07",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260707_OctaneRender20264_f.jpg",
-      "excerpt": "Otoy's GPU renderer update expands the Neural Radiance Cache — a neural network trained at render time to cut noise in indirectly lit scenes — to macOS and network rendering, and extends 3D Gaussian Splatting support."
+      "rationale": "New generation/editing model live today with batch and cross-output consistency — directly changes how designers art-direct AI imagery tomorrow."
     },
     {
-      "url": "https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/",
-      "title": "OpenAI gets permission to roll out GPT-5.6 to the public on July 9",
+      "url": "https://www.engadget.com/2210087/meta-s-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/",
+      "title": "Meta's new Muse Image model accepts Instagram accounts as a prompt",
       "source": "Engadget",
+      "published_iso": "2026-07-07T20:49:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/metas-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/intro-1783457258.jpg",
+      "excerpt": "Meta unveiled Muse Image, an AI model that uses advanced reasoning to parse complex prompts, blend multiple photos into high-quality outputs and render legible in-image text — now powering Stories effects and WhatsApp image generation.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "Major new Meta image model — reasoning prompts, multi-photo blending and reliable in-image text — a novel, credible release distinct from the earlier Content Seal detection tool."
+    },
+    {
+      "url": "https://blog.logrocket.com/ux-design/designing-ai-quality-signals/",
+      "title": "Designing quality signals when AI makes everything look credible",
+      "source": "LogRocket",
+      "published_iso": "2026-07-09",
+      "og_image": null,
+      "excerpt": "A UX craft piece on how designers can build trust cues — source transparency, validation, confidence communication and reputation — into products now that AI-generated content looks polished and credible whether or not it is trustworthy.",
+      "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "High-novelty frontier release landing today (Jul 9): all three GPT-5.6 variants go public, expanding globally — a model shift that flows straight into designers' daily AI tooling; credible outlet.",
-      "published_iso": "2026-07-08T05:04:00-04:00",
-      "og_image": "https://www.engadget.com/img/gallery/openai-is-rolling-out-gpt-5-6-to-the-public-on-july-9/intro-1783501225.jpg",
-      "excerpt": "OpenAI will publicly launch all three GPT-5.6 variants — Sol, Luna and Terra — on July 9 after US government approval, expanding preview access globally. A frontier-model release that will land directly in designers' daily AI tooling."
+      "rationale": "Actionable UX-craft framework for building trust signals into AI products — a concrete design responsibility as generated content grows more convincing."
     },
     {
-      "url": "https://develop3d.com/simulation/ntop-and-coreweave-tackle-nasas-vision-2030-with-time-to-spare/",
-      "title": "nTop and CoreWeave tackle NASA's Vision 2030 with time to spare",
-      "source": "DEVELOP3D",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Concrete generative-engineering milestone: 12,000 CFD sims across 2,400 geometry variants run lights-out, producing a dataset viable for training AI surrogate models that predict aerodynamics without re-simulating — points to where computational design is heading.",
+      "url": "https://docs.lovable.dev/changelog",
+      "title": "Lovable weekly update: reference connectors in chat, search settings, AI-generated image labels",
+      "source": "Lovable",
       "published_iso": "2026-07-08",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/ntop-coreweave-nvidia-nasa-1024x576.jpg",
-      "excerpt": "nTop and CoreWeave ran 12,000 CFD simulations across 2,400 drone geometry variants lights-out, without manual intervention — a dataset the team says is viable for training AI surrogate models that predict aerodynamic performance without re-running simulation."
+      "og_image": null,
+      "excerpt": "Lovable's July 8 release adds in-chat reference connectors, searchable settings, workspace insights and automatic AI-generated image labels to its conversational app builder — incremental workflow polish for designers vibe-coding full-stack apps.",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Fresh shipping update to a widely used vibe-coding tool — reference connectors and auto image labels change the day-to-day builder workflow."
     },
     {
-      "url": "https://www.youtube.com/watch?v=2nn5J6tUzwE",
-      "title": "Skill issue: how we built an OS for PMs at Figma | Config 2026",
-      "source": "Figma (YouTube)",
-      "tool": "Social",
+      "url": "https://www.creativebloq.com/ai/this-ad-says-its-not-ai-slop-but-thats-exactly-what-worries-me",
+      "title": "This ad says it's not AI slop, but that's exactly what worries me",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-09",
+      "og_image": null,
+      "excerpt": "A Creative Bloq commentary on a brand campaign that markets itself as human-made, arguing the 'not AI slop' framing signals how anxiety over generative AI is reshaping creative advertising and how designers position their craft.",
+      "category": "workflow",
+      "tool": "AI Workflow",
       "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "Distinct Config 2026 session (not the published AI-evals one): a concrete playbook for encoding team workflows into agent Skills as an internal OS — actionable for AI-augmented design/PM teams; single Config pick keeps the ≤2-YouTube guard and avoids repetition.",
-      "published_iso": "2026-07-06T14:52:51-07:00",
-      "og_image": "https://i.ytimg.com/vi/2nn5J6tUzwE/maxresdefault.jpg",
-      "excerpt": "Config 2026 session video: how Figma's team packaged agent Skills into an internal 'operating system' for PMs — a concrete playbook for encoding team workflows into AI agents."
+      "rationale": "Timely read on how the 'human-made vs AI slop' framing is reshaping how designers position and market their craft — distinct from the earlier RAM-crisis piece."
     }
-  ],
-  "dedup_notes": {
-    "checked_against": "news_data.json sections.design — today 2026-07-08 plus prior days; candidates pre-deduped by URL vs 5-day history",
-    "duplicates_dropped": 0,
-    "not_picked": [
-      "Matt Wolfe 'Easy AI VFX' (YouTube Zq5Yj8yCiqY) — HARD EXCLUSION, allocated to Movies section today",
-      "AutoRemesher 1.0 (80 Level) — algorithmic retopology, not AI; dropped per prior-day judgment",
-      "CSS border-shape (CSS-Tricks) — weak/no AI hook, deprioritized",
-      "Road to VR 'embodiment vs immersion' — XR design craft, no AI angle",
-      "Reallusion Headshot 3.1 (CG Channel) — solid AI head-gen but niche 3D-character scope; would double CG Channel + render",
-      "ChatGPT voice mode GPT-Live (Engadget) — relevant to voice/multimodal design but would double Engadget + workflow; GPT-5.6 is the stronger workflow pick",
-      "UX Collective 'crisis of the what' — opinion essay, lower actionability than Builder/KPMG in figma",
-      "Rolls-Royce PLM (DEVELOP3D) — enterprise data strategy, less designer-actionable than nTop; one DEVELOP3D pick only",
-      "Config 2026 'Designing money' fintech brand (Figma YT) — 2nd Config video would over-index a 3rd consecutive Config day; PM OS Skills chosen as the single Config pick",
-      "18Birdies/Arccos Meta glasses caddy, SimX VR training — niche vr consumer/vertical, low design actionability",
-      "VentureBeat AI business categories — trend essay, thin concrete actionability"
-    ],
-    "diversity": "5 distinct outlets (Builder.io, CG Channel, Engadget, DEVELOP3D, Figma YouTube), 5 distinct categories (figma/render/workflow/cad/social), 1 YouTube item, no accent collisions"
-  }
+  ]
 }

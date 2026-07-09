@@ -1,32 +1,33 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "music",
   "media": [
     {
-      "id": "peel-stems2",
+      "id": "fl2026-gopher",
       "type": "video",
-      "src": "pipeline/media/peel-stems2.mp4",
-      "poster": "pipeline/media/peel-stems2.jpg"
+      "src": "pipeline/media/fl2026-gopher.mp4",
+      "poster": "pipeline/media/fl2026-gopher.jpg"
     },
     {
-      "id": "waveform14",
+      "id": "landr-fairtrade",
       "type": "image",
-      "src": "pipeline/media/waveform14.jpg"
+      "src": "pipeline/media/landr-fairtrade.jpg"
     },
     {
-      "id": "yamaha-creatorpass",
-      "type": "image",
-      "src": "pipeline/media/yamaha-creatorpass.png"
-    },
-    {
-      "id": "musixmatch-hack",
-      "type": "svg"
-    },
-    {
-      "id": "bootleg-vs",
+      "id": "drumcomputer-claude",
       "type": "video",
-      "src": "pipeline/media/bootleg-vs.mp4",
-      "poster": "pipeline/media/bootleg-vs.jpg"
+      "src": "pipeline/media/drumcomputer-claude.mp4",
+      "poster": "pipeline/media/drumcomputer-claude.jpg"
+    },
+    {
+      "id": "klangio-studio",
+      "type": "image",
+      "src": "pipeline/media/klangio-studio.png"
+    },
+    {
+      "id": "wisetracker",
+      "type": "image",
+      "src": "pipeline/media/wisetracker.jpg"
     }
   ]
 }

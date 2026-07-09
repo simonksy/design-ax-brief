@@ -1,32 +1,21 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "section": "gadgets",
   "media": [
     {
-      "id": "agibot-humanoids",
+      "id": "watchos27-siri",
       "type": "image",
-      "src": "pipeline/media/agibot-humanoids.jpg"
+      "src": "pipeline/media/watchos27-siri.jpg"
     },
     {
-      "id": "visionos27-beta3",
+      "id": "meta-super-sensing",
       "type": "image",
-      "src": "pipeline/media/visionos27-beta3.jpg"
+      "src": "pipeline/media/meta-super-sensing.jpg"
     },
     {
-      "id": "ryzen-ai-halo",
+      "id": "samsung-gaia",
       "type": "image",
-      "src": "pipeline/media/ryzen-ai-halo.jpg"
-    },
-    {
-      "id": "nothing-phone4b",
-      "type": "video",
-      "src": "pipeline/media/nothing-phone4b.mp4",
-      "poster": "pipeline/media/nothing-phone4b.jpg"
-    },
-    {
-      "id": "home-camera-paywall",
-      "type": "image",
-      "src": "pipeline/media/home-camera-paywall.jpg"
+      "src": "pipeline/media/samsung-gaia.jpg"
     }
   ]
 }
