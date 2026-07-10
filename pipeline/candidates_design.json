@@ -1,62 +1,53 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-11",
   "section": "design",
   "window_hours": 72,
-  "now_iso": "2026-07-09T22:18:32Z",
+  "now_iso": "2026-07-10T23:12:40Z",
   "items": [
     {
-      "url": "https://www.krea.ai/blog/seedream-5-0-pro-live-on-krea",
-      "title": "Seedream 5.0 Pro - Live on Krea",
-      "source": "Krea",
-      "category": "render",
-      "published_iso": "2026-07-08",
-      "og_image": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/thumbnail.png",
-      "excerpt": "Seedream 5.0 Pro, an advanced image generation and editing model with web-search and deep-reasoning capabilities, is now live on Krea. It lets designers generate, edit, blend and batch images while holding visual consistency and art direction across multiple outputs."
+      "url": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/",
+      "title": "How Decagon uses AI for design system saturation",
+      "source": "Figma",
+      "category": "tokens",
+      "published_iso": "2026-07-10",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/a6469cadcc96476913042e85925c1eaf9e395d10-3840x2160.png?w=1632&h=918&q=75&fit=max&auto=format",
+      "excerpt": "Decagon uses Figma MCP to keep design specs and code in continuous alignment so AI coding agents can pull straight from the component library, and Figma Make to spin up multiple dashboard variants for customer feedback before committing engineering time — a concrete look at scaling a design system with AI in the loop."
     },
     {
-      "url": "https://www.krea.ai/blog/what-is-seedance-2-5",
-      "title": "What Is Seedance 2.5 and What Can It Do",
-      "source": "Krea",
-      "category": "render",
-      "published_iso": "2026-07-09",
-      "og_image": "https://s.krea.ai/a_snow_leopard_is_jumping_above_an_icy_surface_the_panther_is_angry_with_mouth_open_and_is_looking__oiz0b0yo124ofr4856l6_0.png",
-      "excerpt": "ByteDance's Seedance 2.5 video model, now usable in Krea, generates complete 30-second clips at up to 4K from a single prompt, adding stronger reference support and region-level editing over the prior version — a jump in controllable AI video for creative teams."
-    },
-    {
-      "url": "https://docs.lovable.dev/changelog",
-      "title": "Lovable weekly update: reference connectors in chat, search settings, AI-generated image labels",
-      "source": "Lovable",
-      "category": "figma",
-      "published_iso": "2026-07-08",
-      "og_image": null,
-      "excerpt": "Lovable's July 8 release adds in-chat reference connectors, searchable settings, workspace insights and automatic AI-generated image labels to its conversational app builder — incremental workflow polish for designers vibe-coding full-stack apps."
-    },
-    {
-      "url": "https://blog.logrocket.com/ux-design/designing-ai-quality-signals/",
-      "title": "Designing quality signals when AI makes everything look credible",
-      "source": "LogRocket",
+      "url": "https://www.figma.com/blog/jen-dunham-lead-design-teams/",
+      "title": "How to Lead Design Teams Through the AI Era",
+      "source": "Figma",
       "category": "workflow",
       "published_iso": "2026-07-09",
       "og_image": null,
-      "excerpt": "A UX craft piece on how designers can build trust cues — source transparency, validation, confidence communication and reputation — into products now that AI-generated content looks polished and credible whether or not it is trustworthy."
+      "excerpt": "Design leader Jen Dunnam (ex-Patreon, Shopify) shares how she steadies teams amid constant AI-driven change — breaking problems down, rethinking what 'speed' means in design ops, choosing the right tools, and sharpening principles rather than chasing every new model."
     },
     {
-      "url": "https://www.engadget.com/2210087/meta-s-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/",
-      "title": "Meta's new Muse Image model accepts Instagram accounts as a prompt",
-      "source": "Engadget",
-      "category": "render",
-      "published_iso": "2026-07-07T20:49:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/metas-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/intro-1783457258.jpg",
-      "excerpt": "Meta unveiled Muse Image, an AI model that uses advanced reasoning to parse complex prompts, blend multiple photos into high-quality outputs and render legible in-image text — now powering Stories effects and WhatsApp image generation."
-    },
-    {
-      "url": "https://www.creativebloq.com/ai/this-ad-says-its-not-ai-slop-but-thats-exactly-what-worries-me",
-      "title": "This ad says it's not AI slop, but that's exactly what worries me",
+      "url": "https://www.creativebloq.com/design/advertising/the-economist-shades-ai-in-sharp-new-billboard-ads",
+      "title": "The Economist shades AI in sharp new billboard ads",
       "source": "Creative Bloq",
       "category": "workflow",
+      "published_iso": "2026-07-10",
+      "og_image": null,
+      "excerpt": "Cocogun's new billboard campaign for The Economist leans on stripped-back, human-made visuals to position editorial craft against AI-generated sameness — a signal of how design and advertising teams are branding around (and against) generative AI."
+    },
+    {
+      "url": "https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel",
+      "title": "You can now deploy Lovable apps to Vercel",
+      "source": "Vercel",
+      "category": "figma",
       "published_iso": "2026-07-09",
       "og_image": null,
-      "excerpt": "A Creative Bloq commentary on a brand campaign that markets itself as human-made, arguing the 'not AI slop' framing signals how anxiety over generative AI is reshaping creative advertising and how designers position their craft."
+      "excerpt": "Vercel added one-click deployment for apps built in Lovable, closing the loop from AI prompt-to-app to production hosting — another step in the design-to-code pipeline where non-engineers ship real software from a conversational builder."
+    },
+    {
+      "url": "https://cursor.com/changelog",
+      "title": "Cursor 3.11: Side Chats and Conversation Search",
+      "source": "Cursor",
+      "category": "figma",
+      "published_iso": "2026-07-10",
+      "og_image": null,
+      "excerpt": "Cursor 3.11 adds side chats for parallel agent conversations plus a local search index across thousands of past agent transcripts — quality-of-life upgrades for designers and builders running multiple AI coding threads in the visual-editor workflow."
     }
   ]
 }

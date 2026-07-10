@@ -1,21 +1,27 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "gadgets",
   "media": [
     {
-      "id": "watchos27-siri",
-      "type": "image",
-      "src": "pipeline/media/watchos27-siri.jpg"
+      "id": "ubtech-u1",
+      "type": "video",
+      "src": "pipeline/media/ubtech-u1.mp4",
+      "poster": "pipeline/media/ubtech-u1.jpg"
     },
     {
-      "id": "meta-super-sensing",
+      "id": "solos-airgo",
       "type": "image",
-      "src": "pipeline/media/meta-super-sensing.jpg"
+      "src": "pipeline/media/solos-airgo.jpg"
     },
     {
-      "id": "samsung-gaia",
+      "id": "sony-rx10v",
       "type": "image",
-      "src": "pipeline/media/samsung-gaia.jpg"
+      "src": "pipeline/media/sony-rx10v.jpg"
+    },
+    {
+      "id": "kindle-ask-book",
+      "type": "image",
+      "src": "pipeline/media/kindle-ask-book.jpg"
     }
   ]
 }

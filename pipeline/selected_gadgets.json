@@ -1,57 +1,68 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "Apple Watch",
+      "tool": "UBTech",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://9to5mac.com/2026/07/06/watchos-27-beta-3-includes-upgraded-siri-ai-experience-and-dedicated-siri-app/",
-      "source": "9to5Mac",
-      "published_iso": "2026-07-06T18:54:40+00:00",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-watchos-27-apple-watch.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "watchOS 27 beta 3 brings Apple's revamped LLM-powered Siri and a dedicated Siri app to the Apple Watch for the first time, turning the wrist wearable into a full Apple Intelligence device that can hold back-and-forth conversations and take in-app actions (processed via a paired iPhone).",
-      "rationale": "Apple's LLM Siri reaching the wrist changes how designers prototype and test wearable voice interactions tomorrow; fresh beta 3 release from a credible Apple outlet (dedicated Siri app angle over MacRumors' same-story coverage)."
+      "url": "https://www.techradar.com/ai-platforms-assistants/ubtech-just-introduced-its-first-full-size-ultra-bionic-humanoid-robot-but-what-it-really-wants-to-do-is-make-robot-replicas-of-loved-ones-thats-a-hard-no",
+      "source": "TechRadar",
+      "published_iso": "2026-07-01T18:47:35Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/yFDcQP3gPSFyKFwScoMhTB-1920-80.jpg",
+      "excerpt": "UBTech launched its first full-size Ultra-Bionic humanoid robot at a Shenzhen event, pushing an AI-driven consumer humanoid — with the company floating the unsettling ambition of making robot replicas of loved ones.",
+      "rationale": "A full-size consumer humanoid marks a concrete step in physical AI hardware and the embodiment questions designers of robot UX will grapple with next; novel launch from a credible outlet, distinct from every other pick's topic."
     },
     {
       "rank": 2,
-      "tool": "Meta",
+      "tool": "Solos",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.androidauthority.com/meta-testing-super-sensing-glasses-3685734/",
-      "source": "Android Authority",
-      "published_iso": "2026-07-09T10:09:20+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%20AM-1.jpg",
-      "excerpt": "A new report says Meta is testing a 'super-sensing' mode for its smart glasses that continuously records audio and snaps photos every few seconds to build persistent AI context — and may switch off the privacy LED — reigniting concerns about always-on AI eyewear.",
-      "rationale": "Original report on Meta's always-on 'super-sensing' ambient AI reframes the design tension between persistent context capture and bystander privacy for anyone building wearable AI; strongest super-sensing angle over the Tom's Guide / 9to5Google privacy-LED coverage of the same cluster."
+      "url": "https://www.digitaltrends.com/wearables/solos-latest-ai-glasses-are-getting-a-literal-privacy-mode/",
+      "source": "Digital Trends",
+      "published_iso": "2026-07-07T20:30:35Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/solos-AirGo-V2-Featured.jpg?resize=1200%2C720",
+      "excerpt": "Solos unveiled the camera-free AirGo A6 AI glasses plus an AirGo V2 Privacy Kit that physically covers the 16MP camera lens, keeping onboard AI voice assistant and live translation while addressing bystander privacy fears around always-on smart glasses.",
+      "rationale": "A physical privacy-mode kit reframes how wearable-AI designers can resolve the always-on capture vs. bystander-trust tension; fresh product news and a distinct take from the Meta privacy-LED cluster already published."
     },
     {
       "rank": 3,
-      "tool": "Samsung",
+      "tool": "Sony",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.digitaltrends.com/computing/samsung-wants-to-put-its-own-chip-in-your-next-pc-and-its-all-about-speeding-up-ai-chores/",
+      "url": "https://www.digitaltrends.com/home-theater/sony-revives-the-rx10-with-ai-autofocus-4k-120fps-and-a-longer-lasting-battery/",
       "source": "Digital Trends",
-      "published_iso": "2026-07-09T13:19:00+00:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2025/12/Samsung-Custom-Chip.jpg?resize=1200%2C720",
-      "excerpt": "Samsung is developing a dedicated AI accelerator chip codenamed 'Gaia' to handle on-device AI workloads in PCs, aiming to speed up local AI 'chores' on-silicon, with mass production potentially starting in 2027.",
-      "rationale": "Samsung's dedicated on-device AI silicon signals where local AI performance for creative PC tools is headed; novel hardware roadmap and the sole source for the story."
+      "published_iso": "2026-07-09T15:56:00Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Sony-RX10-V-featured-image.jpg?resize=1200%2C720",
+      "excerpt": "Sony revived its bridge camera line with the RX10 V, whose onboard BIONZ XR AI processor drives real-time recognition autofocus that automatically identifies birds and animals, alongside 4K/120fps capture and 30fps burst shooting.",
+      "rationale": "On-device AI recognition autofocus is directly actionable for creators shooting reference and product imagery; novel hardware release, distinct camera topic from the other picks."
+    },
+    {
+      "rank": 4,
+      "tool": "Kindle",
+      "category": "gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "url": "https://www.engadget.com/2202142/kindle-app-features-ios-has-ereader-still-doesnt-have/",
+      "source": "Engadget",
+      "published_iso": "2026-06-27T15:30:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/intro-1782429214.jpg",
+      "excerpt": "Amazon brought AI reading tools to Kindle first via the iOS app — 'Ask this Book,' a spoiler-free chatbot that answers plot and character questions, and 'Story So Far,' which generates summaries tailored to your current reading position.",
+      "rationale": "Amazon shipping generative AI reading features (spoiler-free chatbot, position-aware summaries) is a concrete pattern designers of content apps can learn from; app-first rollout is fresh and a fourth distinct topic and outlet."
     }
   ],
   "dedup_notes": {
-    "checked_against": "pipeline candidates already URL-deduped vs news_data.json history; content-dedup applied per orchestrator facts",
-    "history_collisions": 0,
+    "checked_against": "pipeline candidates already URL-deduped vs news_data.json history; content-dedup applied per orchestrator facts and verified against 7/10 gadgets picks",
+    "history_collisions": 1,
     "collapsed_stories": [
-      "STORY A (watchOS 27 Siri): 9to5Mac + MacRumors are the same story — kept 9to5Mac, dropped https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
-      "STORY B (Meta super-sensing glasses): Android Authority + Tom's Guide + 9to5Google are one cluster — kept Android Authority, dropped https://www.tomsguide.com/computing/smart-glasses/meta-smart-glasses-super-sensing-ai and https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
-      "STORY C (Samsung Gaia): single source — kept Digital Trends"
+      "DROP (content dup): Digital Trends 'Meta will disable the camera on AI smart glasses if you tamper/cover the indicator light' — same Meta smart-glasses privacy-LED story as the 7/10 published card https://www.androidauthority.com/meta-testing-super-sensing-glasses-3685734/ (whose excerpt already covers switching off the privacy LED). Dropped https://www.digitaltrends.com/wearables/meta-will-disable-the-camera-on-ai-smart-glasses-if-you-tamper-or-cover-the-indicator-light/"
     ],
-    "shortfall": "3 picks, below the target of 5. The 6-item pool collapses to only 3 distinct fresh stories; the window's other AI-device news was already published. Meets the floor of 3; not padded with near-duplicate second cards.",
-    "diversity": "3 distinct outlets (9to5Mac, Android Authority, Digital Trends), max 1 per outlet; distinct accents assigned within the shared gadgets category."
+    "shortfall": "4 picks. The 6-item pool yields 4 distinct fresh stories after dropping the Meta privacy-LED dup; the remaining item (Gizmodo 'best gadgets June 2026') is an evergreen roundup, deprioritized and not used since we are already above the floor of 3. Not padded.",
+    "diversity": "3 distinct outlets (TechRadar, Digital Trends x2, Engadget) — Digital Trends at the ≤2 cap after the Meta drop; four distinct topics (humanoid robot, AI smart glasses, AI camera, AI e-reader app); distinct accents assigned within the shared gadgets category."
   }
 }

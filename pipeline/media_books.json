@@ -1,21 +1,26 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "books",
   "media": [
     {
-      "id": "byus-storychat",
+      "id": "pub-data-edge",
       "type": "image",
-      "src": "pipeline/media/byus-storychat.jpg"
+      "src": "pipeline/media/pub-data-edge.png"
     },
     {
-      "id": "choco-daldal",
+      "id": "ao3-ai-markup",
       "type": "image",
-      "src": "pipeline/media/choco-daldal.png"
+      "src": "pipeline/media/ao3-ai-markup.png"
     },
     {
-      "id": "kobo-h2-roadmap",
+      "id": "cartland-clone",
       "type": "image",
-      "src": "pipeline/media/kobo-h2-roadmap.jpg"
+      "src": "pipeline/media/cartland-clone.jpg"
+    },
+    {
+      "id": "fiction-feast-ai",
+      "type": "image",
+      "src": "pipeline/media/fiction-feast-ai.jpg"
     }
   ]
 }

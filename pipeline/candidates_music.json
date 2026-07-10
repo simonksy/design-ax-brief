@@ -1,55 +1,47 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "music",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.synthtopia.com/content/2026/07/04/tidal-will-label-ai-generated-music-block-it-from-earning-royalties/",
-      "source": "Synthtopia",
+      "url": "https://musictech.com/news/music/john-dahlback-how-he-uses-ai/",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-04T12:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg",
-      "excerpt": "TIDAL announced it will label entirely AI-generated tracks and withhold royalty payments from them, planning to extend the 'AI' tag to substantially AI-generated music as detection tech improves."
+      "published_iso": "2026-07-06T13:39:35Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/john-dahlback@2000x1500-1068x801.jpg",
+      "excerpt": "Producer John Dahlback, once skeptical of AI, explains how he now folds AI tools — especially vocal processing — into his production workflow, treating them as a creative instrument rather than a shortcut."
     },
     {
-      "url": "https://www.attackmagazine.com/news/fl-studio-2026-adds-redesigned-flex-cloud-backup-and-built-in-smart-assistance/",
-      "source": "Attack Magazine",
+      "url": "https://www.hypebot.com/why-ai-song-generators-dont-grant-copyright/",
+      "source": "Hypebot",
       "category": "music",
-      "published_iso": "2026-07-09T10:00:00Z",
-      "og_image": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/07/Attack-Mag-News-Feat-Images-FLS-26-2.png?fit=1400%2C479&ssl=1",
-      "excerpt": "FL Studio 2026 expands its Gopher AI assistant so it can now perform actions inside a project — organising tracks, routing mixer channels, setting levels, adjusting plugin parameters and generating Piano Roll content."
+      "published_iso": "2026-07-09T12:22:26Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/07/pexels-yasinaydin-3796788.jpg",
+      "excerpt": "AI song generators like Suno don't confer copyright ownership because their product design spits out a finished track from a single prompt without capturing the human creative decisions courts require to establish authorship."
     },
     {
-      "url": "https://www.soundonsound.com/news/landr-expand-fair-trade-ai-programme",
-      "source": "Sound on Sound",
+      "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
+      "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-07-09T09:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/l/landr_ai-AgzoNOzhBFPDAzR4QJFWJs6iKoYsjU1z.jpg",
-      "excerpt": "LANDR unveiled the next phase of its Fair Trade AI programme — a $1 million advance initiative letting independent musicians take upfront payments for licensing their catalogues to AI companies while staying eligible for recurring licensing revenue."
+      "published_iso": "2026-07-10T11:51:07Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/05/shutterstock_2777587797.jpg",
+      "excerpt": "The RIAA and IFPI are leading an industry proposal for streaming platforms to label tracks with two tags — 'AI-generated' for fully AI-made songs and 'AI-assisted' for human-led works with some AI involvement."
     },
     {
-      "url": "https://www.synthtopia.com/content/2026/06/30/drumcomputer-claude-extension-lets-you-make-beats-via-text-prompts/",
-      "source": "Synthtopia",
+      "url": "https://www.hypebot.com/is-spotify-guarding-against-one-type-of-ai-market-distortion-while-monetizing-another/",
+      "source": "Hypebot",
       "category": "music",
-      "published_iso": "2026-06-30T12:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/06/drumcomputer-claude-extension-900x300.png",
-      "excerpt": "Sugar Bytes released a free DrumComputer Claude Extension that generates complete DrumComputer drum sounds and beats from a single natural-language text prompt, bringing an LLM directly into drum synthesis."
+      "published_iso": "2026-07-10T12:12:02Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/7-8-spotify-1.jpg",
+      "excerpt": "An op-ed argues Spotify is policing fraudulent AI uploads while simultaneously monetizing AI music through its new UMG-partnered paid feature that lets Premium users generate covers and remixes of licensed songs."
     },
     {
-      "url": "https://www.musicradar.com/music-tech/klang-io-promises-to-turn-audio-into-notated-transcriptions-lead-sheets-and-guitar-tabs-but-does-it-actually-work-klang-io-transcription-studio-review",
-      "source": "MusicRadar",
+      "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
+      "source": "Complete Music Update",
       "category": "music",
-      "published_iso": "2026-07-07T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KJ2csKzprZwAWMjUuzXjuh.png",
-      "excerpt": "Hands-on review of Klang.io Transcription Studio, an AI tool that turns audio into notated transcriptions, lead sheets and guitar tabs — strong at single-instrument pitch detection but still an editing aid rather than a replacement for human transcribers."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/06/27/wisetracker/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-06-27T12:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/wisetracker-728x364.jpg",
-      "excerpt": "WiseTracker is a free FastTracker 2-style tracker plugin and standalone app built by a lifelong tracker user who isn't a traditional developer — he used Claude to code it over several hundred hours, another example of AI lowering the barrier to building music tools."
+      "published_iso": "2026-07-07T15:56:36Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/BBC-AI.png",
+      "excerpt": "BBC music boss Lorna Clarke outlined the broadcaster's AI transparency commitments — including disclosing when AI is used in its output — though the piece questions whether the BBC can actually meet them."
     }
   ]
 }

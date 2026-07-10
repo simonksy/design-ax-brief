@@ -1,72 +1,59 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-11",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.krea.ai/blog/seedream-5-0-pro-live-on-krea",
-      "title": "Seedream 5.0 Pro - Live on Krea",
-      "source": "Krea",
-      "published_iso": "2026-07-08",
-      "og_image": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/thumbnail.png",
-      "excerpt": "Seedream 5.0 Pro, an advanced image generation and editing model with web-search and deep-reasoning capabilities, is now live on Krea. It lets designers generate, edit, blend and batch images while holding visual consistency and art direction across multiple outputs.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "New generation/editing model live today with batch and cross-output consistency — directly changes how designers art-direct AI imagery tomorrow."
+      "url": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/",
+      "title": "How Decagon uses AI for design system saturation",
+      "source": "Figma",
+      "published_iso": "2026-07-10",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/a6469cadcc96476913042e85925c1eaf9e395d10-3840x2160.png?w=1632&h=918&q=75&fit=max&auto=format",
+      "excerpt": "Decagon uses Figma MCP to keep design specs and code in continuous alignment so AI coding agents can pull straight from the component library, and Figma Make to spin up multiple dashboard variants for customer feedback before committing engineering time — a concrete look at scaling a design system with AI in the loop.",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "Concrete, reproducible play for design-system teams — Figma MCP keeps specs and code aligned for AI agents while Make prototypes variants, changing how a designer scales a system tomorrow."
     },
     {
-      "url": "https://www.engadget.com/2210087/meta-s-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/",
-      "title": "Meta's new Muse Image model accepts Instagram accounts as a prompt",
-      "source": "Engadget",
-      "published_iso": "2026-07-07T20:49:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/metas-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/intro-1783457258.jpg",
-      "excerpt": "Meta unveiled Muse Image, an AI model that uses advanced reasoning to parse complex prompts, blend multiple photos into high-quality outputs and render legible in-image text — now powering Stories effects and WhatsApp image generation.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#3b6bff",
-      "motif": "sphere",
-      "rationale": "Major new Meta image model — reasoning prompts, multi-photo blending and reliable in-image text — a novel, credible release distinct from the earlier Content Seal detection tool."
-    },
-    {
-      "url": "https://blog.logrocket.com/ux-design/designing-ai-quality-signals/",
-      "title": "Designing quality signals when AI makes everything look credible",
-      "source": "LogRocket",
+      "url": "https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel",
+      "title": "You can now deploy Lovable apps to Vercel",
+      "source": "Vercel",
       "published_iso": "2026-07-09",
       "og_image": null,
-      "excerpt": "A UX craft piece on how designers can build trust cues — source transparency, validation, confidence communication and reputation — into products now that AI-generated content looks polished and credible whether or not it is trustworthy.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Actionable UX-craft framework for building trust signals into AI products — a concrete design responsibility as generated content grows more convincing."
-    },
-    {
-      "url": "https://docs.lovable.dev/changelog",
-      "title": "Lovable weekly update: reference connectors in chat, search settings, AI-generated image labels",
-      "source": "Lovable",
-      "published_iso": "2026-07-08",
-      "og_image": null,
-      "excerpt": "Lovable's July 8 release adds in-chat reference connectors, searchable settings, workspace insights and automatic AI-generated image labels to its conversational app builder — incremental workflow polish for designers vibe-coding full-stack apps.",
+      "excerpt": "Vercel added one-click deployment for apps built in Lovable, closing the loop from AI prompt-to-app to production hosting — another step in the design-to-code pipeline where non-engineers ship real software from a conversational builder.",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Fresh shipping update to a widely used vibe-coding tool — reference connectors and auto image labels change the day-to-day builder workflow."
+      "rationale": "Fresh, actionable pipeline shift — one-click Lovable-to-Vercel deploy lets designers push a vibe-coded app to production, distinct from the earlier Lovable own-changelog card."
     },
     {
-      "url": "https://www.creativebloq.com/ai/this-ad-says-its-not-ai-slop-but-thats-exactly-what-worries-me",
-      "title": "This ad says it's not AI slop, but that's exactly what worries me",
-      "source": "Creative Bloq",
+      "url": "https://www.figma.com/blog/jen-dunham-lead-design-teams/",
+      "title": "How to Lead Design Teams Through the AI Era",
+      "source": "Figma",
       "published_iso": "2026-07-09",
       "og_image": null,
-      "excerpt": "A Creative Bloq commentary on a brand campaign that markets itself as human-made, arguing the 'not AI slop' framing signals how anxiety over generative AI is reshaping creative advertising and how designers position their craft.",
+      "excerpt": "Design leader Jen Dunnam (ex-Patreon, Shopify) shares how she steadies teams amid constant AI-driven change — breaking problems down, rethinking what 'speed' means in design ops, choosing the right tools, and sharpening principles rather than chasing every new model.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "Credible practitioner playbook for design leads managing AI-era churn — a distinct interview from the earlier Config Leadership Collective recap, useful for how teams set process and tool choices."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/advertising/the-economist-shades-ai-in-sharp-new-billboard-ads",
+      "title": "The Economist shades AI in sharp new billboard ads",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-10",
+      "og_image": null,
+      "excerpt": "Cocogun's new billboard campaign for The Economist leans on stripped-back, human-made visuals to position editorial craft against AI-generated sameness — a signal of how design and advertising teams are branding around (and against) generative AI.",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "Timely read on how the 'human-made vs AI slop' framing is reshaping how designers position and market their craft — distinct from the earlier RAM-crisis piece."
+      "rationale": "Notable brand campaign that designers can learn positioning from — a distinct Economist/Cocogun case, not the earlier Fi 'not AI slop' piece — showing how craft is being marketed against AI sameness."
     }
   ]
 }

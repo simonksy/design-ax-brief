@@ -1,33 +1,27 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "music",
   "media": [
     {
-      "id": "fl2026-gopher",
+      "id": "dahlback-ai",
       "type": "video",
-      "src": "pipeline/media/fl2026-gopher.mp4",
-      "poster": "pipeline/media/fl2026-gopher.jpg"
+      "src": "pipeline/media/dahlback-ai.mp4",
+      "poster": "pipeline/media/dahlback-ai.jpg"
     },
     {
-      "id": "landr-fairtrade",
+      "id": "ai-song-copyright",
       "type": "image",
-      "src": "pipeline/media/landr-fairtrade.jpg"
+      "src": "pipeline/media/ai-song-copyright.jpg"
     },
     {
-      "id": "drumcomputer-claude",
-      "type": "video",
-      "src": "pipeline/media/drumcomputer-claude.mp4",
-      "poster": "pipeline/media/drumcomputer-claude.jpg"
-    },
-    {
-      "id": "klangio-studio",
+      "id": "riaa-ai-labels",
       "type": "image",
-      "src": "pipeline/media/klangio-studio.png"
+      "src": "pipeline/media/riaa-ai-labels.jpg"
     },
     {
-      "id": "wisetracker",
+      "id": "spotify-umg-remix",
       "type": "image",
-      "src": "pipeline/media/wisetracker.jpg"
+      "src": "pipeline/media/spotify-umg-remix.jpg"
     }
   ]
 }

@@ -1,65 +1,66 @@
 {
- "date": "2026-07-10",
- "section": "movies",
- "now_iso": "2026-07-09T22:18:32Z",
- "window_hours": 336,
- "run_notes": "SECTION HEAVILY PICKED-OVER + NEW PAYWALL OBSTACLE. Ran the full movies keyword plan (36+ queries across nofilmschool, fxguide, beforesandafters, cartoonbrew, awn, animationmagazine, redshark, provideocoalition, studiodaily, postperspective, definitionmagazine, screendaily, 80.lv, openai/runway/luma blogs, plus YouTube social). Two hard blockers this run: (1) ALL Penske trades (variety.com, deadline.com, indiewire.com, hollywoodreporter.com) now 307-redirect to tollbit.* and return HTTP 402 Payment Required, so their published-time cannot be verified via WebFetch (previous 7/9 run could still fetch them). (2) The genuinely fresh Penske July items surfaced by search were either ALREADY PUBLISHED (Tilly Norwood, Keitel, Weird Al, Soulm8te, Ruizpalacios, Young Washington/Jon Erwin, Midjourney studios, A24xDeepMind, Hasbro) or fail the design-relevance test (deadline 'Artificial' fall-festival-rollout = distribution/business; Panjaya AI dubbing = June 22 + TV/microdrama). AWN + animationmagazine + fxguide article pages return 403 to WebFetch (only their listings/snippets readable). Seedance 2.5: re-checked per override — ByteDance ANNOUNCED it 2026-06-23 (Volcano Engine FORCE conf) with rollout THROUGH July (BytePlus API live ~July 16); no allowed-domain LAUNCH article exists yet and the only nofilmschool Seedance-2.5 piece (seedance-2-5-updates) is 2026-06-23 = STALE. Watch next run. Verified-STALE-and-skipped (pre-2026-06-25T22:18Z cutoff, so failed freshness.py): Utopai PAI 2.0 (Variety, Jun 2-3), Scorsese/Black Forest Labs storyboard (Jun 2), Digital Domain DDAI (Jun/May), Beeble Canvas (May 20), Beeble SwitchX->OpenArt VFX (Jun 6), Slapshot (2025), Imagen Video (Apr), Threadline (May 27), Apple Creator Studio/FCP (Mar 12), Gemini Omni (May 20), Adobe MotionStream (Apr 10), Hyper3D Rodin Gen-2.5 (Jun 3), 'Dear Upstairs Neighbors' hybrid-AI Tribeca short (Jun 19), Maya 2026.1 MotionMaker (Jun 2025), Autodesk Flow Studio price cut (Aug 2025), redshark Adobe CC (Jun 16), redshark post/prod roundup (Jun 16), NVIDIA RTX Spark (Jun 2), screendaily cinema-chains-AI (Apr 16) / Annecy (Jun 22) / Bifan (2024). YouTube social: WebFetch returns only the JS footer for youtube watch pages (no JSON-LD uploadDate), and WebSearch date hints were fuzzy ('~2 weeks ago') or old (Curious Refuge 'Biggest Week of AI Film News' = Dec 2025); per rules, DROPPED all unverifiable social — social does not block the run. RESULT: only 3 fresh, distinct, design-relevant, WebFetch-verified, not-already-published items survive — all on non-Penske readable domains. Note the Topaz cluster: #adobe-topaz (M&A) and #topaz-video-review (product review) are the SAME company/tech from different outlets+angles; curator should pick AT MOST ONE. Published dates below are byline-DATE precision (these outlets do not expose article:published_time; times are representative-midday but all sit comfortably inside the 336h window — RedShark/80.lv Adobe-Topaz are dated Jun 26, one full day past the Jun 25 22:18Z cutoff). | Orchestrator: reallocated Seedance 2.5 (Krea) from design→movies as an AI-video-generation story to lift movies to floor.",
- "items": [
-  {
-   "id": "adobe-acquires-topaz-labs",
-   "title": "Adobe acquires Topaz Labs, folding leading AI upscaling/restoration tools into Creative Cloud",
-   "url": "https://www.redsharknews.com/adobe-acquires-topaz-labs-ai-video-enhancement",
-   "source": "RedShark News",
-   "domain": "redsharknews.com",
-   "category": "movies",
-   "published_iso": "2026-06-26T09:00:00Z",
-   "freshness": "FRESH",
-   "og_image": "https://www.redsharknews.com/hubfs/topaz%20labs%20main.jpg",
-   "excerpt": "Adobe signed a definitive agreement to acquire Texas-based Topaz Labs, whose AI tools cover upscaling, sharpening, stabilization, frame interpolation, noise removal and footage restoration (Topaz Video, Gigapixel, Astra, Bloom). Adobe plans to bring the enhancement models into Firefly, Firefly Services and Creative Cloud, with Topaz's on-device Neurostream tech.",
-   "why": "A concrete AI film-toolchain shift: the de-facto AI upscaling/restoration stack used across post gets folded into the dominant creative suite — reshaping the roadmap/licensing for a tool film finishers and restorers rely on. Parallels the already-published Boris FX/iZotope card but is a distinct, larger deal. Byline-date precision (Jun 26); RedShark chosen over the Jun 25 nofilmschool version (which is right at the cutoff). Also on 80.lv (Jun 26) and Variety (paywalled) if a swap is needed."
-  },
-  {
-   "id": "topaz-video-in-depth-review",
-   "title": "Topaz Video — In-Depth Review: testing the Starlight and Astra AI enhancement models",
-   "url": "https://www.provideocoalition.com/topaz-video-in-depth-review/",
-   "source": "ProVideo Coalition",
-   "domain": "provideocoalition.com",
-   "category": "movies",
-   "published_iso": "2026-07-08T12:00:00Z",
-   "freshness": "FRESH",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/topaz-thumb.jpg",
-   "excerpt": "Nick Lear puts Topaz Video's AI enhancement through four test cases from 320x240 footage to text-heavy graphics, finding Starlight and Astra strongest on hard restoration tasks and beating open-source Video2X/ComfyUI, while noting Topaz's subscription-only shift and the pending Adobe acquisition.",
-   "why": "Hands-on craft evidence of how far AI upscaling/restoration has come for real film post workflows, plus the licensing/business context (subscription + Adobe deal). NOTE: same company/tech as #adobe-acquires-topaz-labs — treat as one Topaz cluster; pick at most one. Byline-date precision (Jul 8)."
-  },
-  {
-   "id": "premiere-color-mode-beta-zones",
-   "title": "Color Mode in Premiere (beta): a zone-based color-grading overhaul, not lift/gamma/gain",
-   "url": "https://www.provideocoalition.com/color-mode-in-premiere-beta-color-and-contrast-controls-zones-not-lift-gamma-gain/",
-   "source": "ProVideo Coalition",
-   "domain": "provideocoalition.com",
-   "category": "movies",
-   "published_iso": "2026-07-06T12:00:00Z",
-   "freshness": "FRESH",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/pvc8.jpg",
-   "excerpt": "A deep dive into Premiere's new beta Color Mode, which replaces the traditional lift/gamma/gain model with a zone-based system built for log footage, wide-gamut media and HDR — Adobe's biggest color-grading rethink in the NLE in a decade.",
-   "why": "A film color/finishing workflow shift inside the dominant editor. LOWER PRIORITY / WEAK AI HOOK: Color Mode itself is a UI/tonal-model change rather than a generative-AI feature, so it may fail a strict design-x-AI test — included as pool depth and flagged for the curator to drop if the final set needs a cleaner AI throughline. Byline-date precision (Jul 6)."
-  },
-  {
-   "id": "seedance-2-5-krea",
-   "title": "What Is Seedance 2.5 and What Can It Do",
-   "url": "https://www.krea.ai/blog/what-is-seedance-2-5",
-   "source": "Krea",
-   "domain": "krea.ai",
-   "category": "movies",
-   "published_iso": "2026-07-09T00:00:00Z",
-   "freshness": "FRESH",
-   "og_image": "https://s.krea.ai/a_snow_leopard_is_jumping_above_an_icy_surface_the_panther_is_angry_with_mouth_open_and_is_looking__oiz0b0yo124ofr4856l6_0.png",
-   "excerpt": "ByteDance's Seedance 2.5 video model, now usable in Krea, generates complete 30-second clips at up to 4K from a single prompt, adding stronger reference support and region-level editing over the prior version — a jump in controllable AI video for creative teams."
+  "date": "2026-07-11",
+  "section": "movies",
+  "now_iso": "2026-07-10T23:12:40Z",
+  "window_hours": 336,
+  "run_notes": "HEAVILY PICKED-OVER SECTION + PENSKE PAYWALL. Ran the full movies keyword plan (all 26 working keywords, ~37 queries) across the non-Penske allowed_domains (nofilmschool, redsharknews, provideocoalition, beforesandafters, fxguide, awn, animationmagazine, cartoonbrew, 80.lv, definitionmagazine, postperspective, studiodaily, screendaily, theasc, motionographer, vfxvoice) plus vendor blogs (runwayml, lumalabs, openai) and YouTube social. Penske trades (variety/deadline/hollywoodreporter/indiewire) confirmed 402/tollbit on WebFetch this run, and every fresh Penske item surfaced by search was either ALREADY PUBLISHED (per news_data.json: seedance25, topaz-adobe, premiere-color, foster-f1, kviff, tilly, keitel, soulm8te, mj-discovery, a24-deepmind, hasbro, switchhdr, etc.) or failed relevance. Extensive date-verification via WebFetch killed most candidates as STALE (>336h, i.e. before 2026-06-26T23:12Z): nofilmschool 'Real AI Revolution behind the scenes' (Mar 18), 'AI logging' (Jul 2025), 'Lionsgate/Runway John Wick' (Jun 11), 'Peppa Pig AI' (Jun 25 — 2 days past cutoff), 'Academy vs AI' (May 4), 'Higgsfield Adobe plugin' (May 28); redshark 'Nuke 17.0' (Mar 3), 'Eddie AI' (Apr 26), 'Firefly AI Assistant beta' (Apr 27), 'Remarkable new AI' (2022); provideocoalition 'DaVinci Resolve 21' (Apr 13), 'Cinelytic' (Dec 17 2025), 'AI Tools Part 4' (2023); 80.lv 'OctaneStudio+ 2026' (Dec 2 2025), 'Blender Overgrown' (Jul 8 but explicitly NON-AI/anti-genAI — fails relevance); openai 'Disney-Sora' (~Dec 2025 per cartoonbrew '7 months ago'); animationmagazine/awn Digital Domain DDAI (May), Genvid Studio-Grade AI (Dec 2025), Netflix INKubator (May), Critterz (May); definitionmagazine 'AI on virtual stage' (May 10) / 'previs tools' (May 5). fxguide/awn article pages 403 to WebFetch (listings readable). YouTube social: watch-page JSON-LD uploadDate not exposed to WebFetch and WebSearch date hints were fuzzy/old (Corridor/Matt Wolfe/Curious Refuge already published or unverifiable) — per rules DROPPED all unverifiable social; social does not block the run. RESULT: 4 fresh, distinct, design-relevant, WebFetch-verified, NOT-already-published items survive (below the target of 5 — the section's fresh AI-film news is genuinely thin/exhausted after the 7/9 and 7/10 publishes). Outlet spread: RedShark x1, ProVideo Coalition x1, Runway x2 (within the wide-funnel per-source cap of 3; curator will tighten to <=2). Dates are byline-precision (these outlets do not expose article:published_time; Runway blog/changelog dates are the site's own posted dates) and all sit comfortably inside the 336h window. CLUSTER NOTE: #aiarty-video-enhancer is AI upscaling/restoration and overlaps the already-published #topaz-adobe card thematically but is a distinct vendor/product (Aiarty, local processing) — flagged for curator. #runway-dev and #runway-seed-audio are both Runway but distinct capabilities (dev API platform vs generative audio); curator should pick at most one Runway item for the final deck.",
+  "items": [
+    {
+      "id": "aiarty-video-enhancer",
+      "title": "Aiarty Video Enhancer: local AI upscaling that restores low-res footage to 4K",
+      "url": "https://www.redsharknews.com/aiarty-video-enhancer-ai-upscaling-4k",
+      "source": "RedShark News",
+      "domain": "redsharknews.com",
+      "category": "movies",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "freshness": "FRESH",
+      "og_image": "https://www.redsharknews.com/hubfs/AIVE%20header-image.jpg",
+      "excerpt": "An AI-powered video restoration tool that upscales low-resolution footage to 4K while reducing noise and reconstructing detail, with all processing running locally on the user's machine rather than in the cloud.",
+      "why": "A concrete AI post/finishing-toolchain option for filmmakers and archivists: local (no-cloud) AI upscaling/restoration that recovers texture lost to compression or old codecs. Distinct vendor/product from the already-published Topaz/Adobe upscaling card, but the SAME upscaling-restoration cluster — curator should pick at most one of {aiarty, topaz-adobe}. Byline-date precision (Jun 29); RedShark, a non-Penske allowed domain."
+    },
+    {
+      "id": "runway-dev",
+      "title": "Runway Dev: one API to plug frontier image, video, audio and character models into any app",
+      "url": "https://runwayml.com/news/introducing-runway-dev",
+      "source": "Runway",
+      "domain": "runwayml.com",
+      "category": "movies",
+      "published_iso": "2026-07-08T12:00:00Z",
+      "freshness": "FRESH",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/news/runway-dev-cover.jpg",
+      "excerpt": "Runway Dev is a new AI media platform for developers: a single API to integrate the best image, video, audio and real-time character models, giving access to Runway's frontier models (Gen-4.5, Aleph 2.0, Act-Two) alongside third-party models like Seedance, GPT Image 2 and ElevenLabs, swappable by changing one line of code.",
+      "why": "Infrastructure that reshapes how AI-film tools and studios get built: a unified, model-agnostic API means creative-tool builders and production pipelines can wire frontier generative video/audio/character models (incl. Runway's own Gen-4.5 / Aleph 2.0 / Act-Two) into bespoke filmmaking workflows and swap models trivially. A product/platform release, not org/finance news. Runway's own posted date (Jul 8). NOTE: same outlet as #runway-seed-audio — distinct capability; curator pick <=1 Runway."
+    },
+    {
+      "id": "adobe-premiere-generative-media-tool",
+      "title": "Adobe Premiere adds a Generative Media Tool: type a prompt on the timeline to make video and sound effects",
+      "url": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
+      "source": "ProVideo Coalition",
+      "domain": "provideocoalition.com",
+      "category": "movies",
+      "published_iso": "2026-07-10T12:00:00Z",
+      "freshness": "FRESH",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-000965-gen-media-tool.jpg",
+      "excerpt": "Scott Simmons details Premiere's new (beta) Generative Media Tool, which lets editors create generative video and sound effects directly in the timeline by dragging across empty space or double-clicking to type a prompt — Adobe's continued generative-AI push inside the dominant NLE.",
+      "why": "A generative-AI capability landing natively in the editor most of the industry already cuts in — prompt-to-clip / prompt-to-SFX inside the Premiere timeline is a real change to the day-to-day editing/finishing workflow. Distinct from the already-published Premiere Color Mode card (that was tonal/UI, this is generative). Byline-date precision (Jul 10); ProVideo Coalition, a non-Penske allowed domain."
+    },
+    {
+      "id": "runway-seed-audio",
+      "title": "Runway Seed Audio 1.0: up to two minutes of prompt-generated speech, sound design and music",
+      "url": "https://runwayml.com/changelog",
+      "source": "Runway",
+      "domain": "runwayml.com",
+      "category": "movies",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "freshness": "FRESH",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/news/runway-dev-cover.jpg",
+      "excerpt": "Runway's Seed Audio 1.0 generates up to 120 seconds of dynamic speech, sound design and music from simple text prompts — extending Runway's generative stack from image/video into film-relevant audio (scoring, sound design, ADR-style voice).",
+      "why": "Generative audio is an under-covered but real film-craft lever: prompt-driven speech, sound design and temp music/score inside the same toolchain filmmakers use for AI video. A concrete capability release (changelog-dated Jun 29). WEAKER as a standalone card (thin changelog entry, no dedicated article page) and SAME outlet as #runway-dev — included as pool depth; curator should pick at most one Runway item."
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 4,
+    "against_days": 5
   }
- ],
- "dedup": {
-  "dropped": 0,
-  "kept": 3,
-  "against_days": 5
- }
 }

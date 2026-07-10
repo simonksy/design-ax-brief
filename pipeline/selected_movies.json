@@ -1,51 +1,51 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "movies",
   "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://www.krea.ai/blog/what-is-seedance-2-5",
-      "source": "Krea",
-      "tool": "Seedance 2.5",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Strongest AI-video-generation story in the pool: ByteDance's Seedance 2.5, now usable in Krea, produces complete 30s 4K clips with reference support and region-level editing — a concrete jump in controllable AI video film teams can put to work now.",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": "https://s.krea.ai/a_snow_leopard_is_jumping_above_an_icy_surface_the_panther_is_angry_with_mouth_open_and_is_looking__oiz0b0yo124ofr4856l6_0.png",
-      "excerpt": "ByteDance's Seedance 2.5 video model, now usable in Krea, generates complete 30-second clips at up to 4K from a single prompt, adding stronger reference support and region-level editing over the prior version — a jump in controllable AI video for creative teams.",
-      "category": "movies"
-    },
-    {
-      "url": "https://www.redsharknews.com/adobe-acquires-topaz-labs-ai-video-enhancement",
-      "source": "RedShark News",
-      "tool": "Topaz Labs",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "Hard M&A news that reshapes the post toolchain: the de-facto AI upscaling/restoration stack (Topaz Video, Gigapixel, Astra) folds into Firefly and Creative Cloud, changing the roadmap and licensing for tools film finishers and restorers rely on. Acquisition chosen over the ProVideo review — same Topaz cluster, harder news.",
-      "published_iso": "2026-06-26T09:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/topaz%20labs%20main.jpg",
-      "excerpt": "Adobe signed a definitive agreement to acquire Texas-based Topaz Labs, whose AI tools cover upscaling, sharpening, stabilization, frame interpolation, noise removal and footage restoration (Topaz Video, Gigapixel, Astra, Bloom). Adobe plans to bring the enhancement models into Firefly, Firefly Services and Creative Cloud, with Topaz's on-device Neurostream tech.",
-      "category": "movies"
-    },
-    {
-      "url": "https://www.provideocoalition.com/color-mode-in-premiere-beta-color-and-contrast-controls-zones-not-lift-gamma-gain/",
+      "url": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
       "source": "ProVideo Coalition",
       "tool": "Premiere",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Strongest pick: a generative-AI capability landing natively in the NLE most of the industry already cuts in — prompt-to-video and prompt-to-SFX directly on the Premiere timeline, a real day-to-day editing/finishing change. Distinct from the already-published Premiere Color Mode card (that was tonal/UI; this is generative).",
+      "published_iso": "2026-07-10T12:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-000965-gen-media-tool.jpg",
+      "excerpt": "Scott Simmons details Premiere's new (beta) Generative Media Tool, which lets editors create generative video and sound effects directly in the timeline by dragging across empty space or double-clicking to type a prompt — Adobe's continued generative-AI push inside the dominant NLE.",
+      "category": "movies"
+    },
+    {
+      "url": "https://runwayml.com/news/introducing-runway-dev",
+      "source": "Runway",
+      "tool": "Runway",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "Infrastructure that reshapes how AI-film tools get built: one model-agnostic API to wire frontier image/video/audio/character models (Gen-4.5, Aleph 2.0, Act-Two, plus third-party Seedance, GPT Image 2, ElevenLabs) into bespoke filmmaking pipelines, swappable in one line. Chosen over Runway Seed Audio — same vendor, bigger story, keeping Runway to one pick.",
+      "published_iso": "2026-07-08T12:00:00Z",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/news/runway-dev-cover.jpg",
+      "excerpt": "Runway Dev is a new AI media platform for developers: a single API to integrate the best image, video, audio and real-time character models, giving access to Runway's frontier models (Gen-4.5, Aleph 2.0, Act-Two) alongside third-party models like Seedance, GPT Image 2 and ElevenLabs, swappable by changing one line of code.",
+      "category": "movies"
+    },
+    {
+      "url": "https://www.redsharknews.com/aiarty-video-enhancer-ai-upscaling-4k",
+      "source": "RedShark News",
+      "tool": "Aiarty",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Included to reach the floor of 3: a zone-based color-grading overhaul in the dominant NLE — a real finishing-workflow shift for log/HDR footage, though its AI hook is thin (UI/tonal-model change rather than generative).",
-      "published_iso": "2026-07-06T12:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pvc8.jpg",
-      "excerpt": "A deep dive into Premiere's new beta Color Mode, which replaces the traditional lift/gamma/gain model with a zone-based system built for log footage, wide-gamut media and HDR — Adobe's biggest color-grading rethink in the NLE in a decade.",
+      "rationale": "Included to round out the deck: a concrete AI post/restoration option — local, no-cloud upscaling that recovers texture lost to compression or old codecs, restoring low-res footage to 4K. Distinct vendor/product from the published Topaz/Adobe upscaling card, adding a local-processing alternative to the same craft problem.",
+      "published_iso": "2026-06-29T12:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/AIVE%20header-image.jpg",
+      "excerpt": "An AI-powered video restoration tool that upscales low-resolution footage to 4K while reducing noise and reconstructing detail, with all processing running locally on the user's machine rather than in the cloud.",
       "category": "movies"
     }
   ],
   "dedup_notes": {
     "dropped_as_duplicates": [
-      "topaz-video-in-depth-review (ProVideo Coalition) — same Topaz/Adobe cluster as the kept RedShark acquisition card; per the at-most-one-Topaz rule, dropped the craft review in favor of the harder acquisition news."
+      "runway-seed-audio (Runway) — same outlet as the kept Runway Dev card and a weaker standalone (thin changelog entry, no dedicated article page). Per the at-most-one-Runway rule, dropped in favor of the bigger Runway Dev platform story."
     ],
-    "history_checked": "candidates_filtered_movies.json is already URL-deduped vs the last 5 days of movies history, and the collection run_notes confirm these items are not-already-published (verified against Boris FX/iZotope, Reallusion, SIGGRAPH, Soulm8te, Keitel and other 7/9 cards). No URL or content overlap with the published set.",
-    "diversity": "outlets: krea.ai x1, redsharknews.com x1, provideocoalition.com x1 — 3 distinct outlets, max 1 per outlet. Story-type spread: AI video generation / tool-consolidation M&A / color-grading workflow.",
-    "shortfall": "3 picks vs the cap of 5. The fresh pool held only 4 items and two of those are the same Topaz cluster (one kept), leaving 3 genuinely distinct, fresh, design-relevant stories. Not padded — floor of 3 met."
+    "history_checked": "candidates_filtered_movies.json is already URL-deduped vs the last 5 days of movies history. Content-checked the two flagged clusters against the published 7/10 deck: Aiarty Video Enhancer overlaps the Adobe/Topaz upscaling theme but is a DISTINCT vendor/product (local processing) — kept; Adobe Premiere Generative Media Tool is DISTINCT from the published Premiere Color Mode card (generative vs color grading) — kept. No URL or content duplication with published cards.",
+    "diversity": "outlets: provideocoalition.com x1, runwayml.com x1, redsharknews.com x1 — 3 distinct outlets, max 1 per outlet, within the <=2 guard. All share the single 'movies' category (section is single-category), so distinct accents assigned per pick.",
+    "shortfall": "3 picks vs the cap of 5. The fresh pool held only 4 items and two of those were same-vendor Runway product posts (one kept). After deduping to distinct stories, 3 genuinely fresh, design-relevant items remain. Floor of 3 met — not padded."
   }
 }

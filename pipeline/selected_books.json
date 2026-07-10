@@ -1,53 +1,61 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "books",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.etnews.com/20260701000374",
-      "source": "전자신문",
-      "published_iso": "2026-07-01T04:46:00Z",
-      "og_image": "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.1b4fcc88c9e044b6ae8011e9c39409e2_P1.jpg",
-      "excerpt": "네이버웹툰이 원작자 승인 웹툰 IP를 기반으로 캐릭터와 대화하며 나만의 이야기를 만드는 AI 스토리챗 '바이어스(byUs)'를 출시했다. 원작 세계관에서 새 서사를 만드는 '오리지널 스토리'와 팬 창작 기반 '팬 스토리' 두 모드를 제공하며 첫 작품은 '전직록'이다.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-07-10T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Three AI-driven startups (Spain's Alighieria with Publisher OS, Germany's Lit-X, and New Zealand's Narrative Muse) are pitching publishers on data-analytics tools that target different parts of the acquisition and marketing pipeline, promising data can inform decisions long driven by instinct without replacing editorial judgment.",
       "category": "books",
-      "tool": "byUs",
+      "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Strongest fresh story in the pool: Naver Webtoon turns authorized webtoon IP into user-authored, character-chat AI story worlds — a concrete new creative-AI product that reshapes how interactive fiction gets made. Distinct primary story, no prior books coverage."
+      "rationale": "Concrete new AI tooling that changes how editorial/marketing teams make acquisition decisions — highest actionability and freshest release news, credible trade source."
     },
     {
-      "url": "https://www.etnews.com/20260707000235",
-      "source": "전자신문",
-      "published_iso": "2026-07-07T07:00:00Z",
-      "og_image": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.ddb290e0f1a642af8284446eb68da1a3_P1.png",
-      "excerpt": "영상·숏폼에 익숙한 디지털 시대 아이들의 읽기 방식 변화를 다루며, 미래엔의 AI 기반 읽기 플랫폼 '초코'의 문해력 서비스 '달달독해'와 디지털 학습 웹툰 '초코툰'을 제시한다. AI가 아동 디지털 독해를 어떻게 재편하는지에 초점.",
+      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-07-08T14:00:00Z",
+      "og_image": "",
+      "excerpt": "A user discovered that text pasted from Claude into Archive of Our Own retains hidden markup flagging AI involvement, exposing popular fanfiction stories as AI-assisted despite anti-AI tags and dismaying the fan-writing community.",
       "category": "books",
-      "tool": "미래엔 초코",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "rationale": "On-topic reading/literacy shift with a publisher-built AI platform: Mirae-N's 'Choco' (달달독해 literacy service, 초코툰 learning webtoon) reworks how young digital-native readers build comprehension. Distinct URL and topic from the published 전자신문 web-novel card; fresh and unseen."
-    },
-    {
-      "url": "https://goodereader.com/blog/kobo-ereader-news/kobo-has-great-plans-for-the-rest-of-2026",
-      "source": "Good e-Reader",
-      "published_iso": "2026-07-02T21:04:57Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/02210457/exec_michaeltamblyn.jpg",
-      "excerpt": "Kobo CEO Michael Tamblyn says the company is building features for fall/winter 2026 that will 'fundamentally change how we read and write on our devices,' alongside summer StoryGraph integration and Kobo Plus expansion — a roadmap positioning Kobo against Amazon's AI reading tools.",
-      "category": "books",
-      "tool": "Kobo",
+      "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "Device-workflow story with a defined AI-features roadmap for reading/writing on Kobo hardware, explicitly framed against Amazon's AI reading tools. Softer (roadmap-level) hook, but a distinct URL and story from the 07-03 Tamblyn AI-policy essay; included to meet floor 3 over the weaker Jane Friedman roundup."
+      "rationale": "Actionable craft insight on hidden AI markup and detectability that directly affects how writers handle AI-assisted text; distinct outlet adds source diversity."
+    },
+    {
+      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
+      "source": "The Bookseller",
+      "published_iso": "2026-07-09T10:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
+      "excerpt": "Audiobook publisher Bolinda used interviews, archival research and human expertise to build an AI-generated voice replicating the late romance author Barbara Cartland, reviving a deceased author's distinctive narration for new audiobook editions.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "rationale": "Novel AI voice-cloning applied to audiobook narration craft; distinct from the prior Michael Caine/ElevenLabs story, credible trade source."
+    },
+    {
+      "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
+      "source": "The Bookseller",
+      "published_iso": "2026-07-10T09:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+      "excerpt": "Take-a-Break's Fiction Feast magazine has told regular story contributors that 'AI tools will be used' on future in-house-created stories, signaling how a mass-market short-fiction outlet is changing the way it produces content.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "Fresh signal of AI entering a mass-market fiction production workflow; a concrete change for contributing writers and editors."
     }
   ],
   "dedup_notes": {
     "dropped_as_published_duplicate": [],
-    "dropped_low_value": [
-      {
-        "url": "https://janefriedman.com/links-of-interest-july-8-2026/",
-        "reason": "Low-priority weekly links roundup whose AI highlights partly overlap already-published books cards (e.g. the Libby AI filter published 2026-07-07 and the Commonwealth prize thread). Deprioritized in favor of the dedicated 전자신문 stories; not padded into the picks."
-      }
-    ],
-    "diversity": "3 picks across 2 outlets (전자신문 x2 — at the ≤2 per-outlet cap — and Good e-Reader x1). Pool was genuinely thin (4 candidates; 1 dropped as low-value). Floor 3 met; shortfall of 2 vs the cap of 5 because no further solid, non-overlapping fresh books stories exist. Not padded."
+    "dropped_low_value": [],
+    "diversity": "4 picks across 3 outlets — The Bookseller x2 (at the <=2 per-outlet cap), Publishers Weekly x1, Jane Friedman x1. All single-category (books), each given a distinct accent from the palette.",
+    "shortfall": "Selected 4 vs cap of 5. Fresh candidate pool contained only 4 unique, never-before-seen items after URL/content dedup; all cleared the bar, none padded. Floor 3 met."
   }
 }

@@ -1,59 +1,23 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "games",
-  "now_iso": "2026-07-09T22:18:32Z",
+  "now_iso": "2026-07-10T23:12:40Z",
   "window_hours": 336,
-  "note": "Wide-funnel target (~16-28) NOT reachable: the 14-day games window is heavily exhausted after 30+ cards published 6/30-7/9. Very wide sweep of every section allowed_domain (site-scoped WebSearch + per-article published_time verified via curl/WebFetch, never snippet dates). Hard obstacle this run: the freshest AI-in-games stories cluster on Cloudflare-403 / JS-walled domains (gamespot.com, ign.com, and gamesradar/pcgamer via WebFetch) where WebFetch returns nav-only or 403; browse skill is OOM-killed (exit 137) in this sandbox. Worked around it by curling article HTML for article:published_time on gamesradar/pcgamer/wccftech/kotaku/gamedeveloper/80.lv/thegamer. gamespot.com stayed hard-403 to curl too, so its in-window items (Witcher director, streamers-refuse-gacha, 'players don't care' study) were DROPPED for lack of a verifiable timestamp — note the gamesradar '31% survey' item below is the same 'players don't care' study from a verifiable outlet. Dozens of recent-LOOKING search hits were verified STALE via real timestamps (pcgamer Genie Aug-2025, Elon-Musk-AI-studio Oct-2025, 95%-NPC Mar-2026; wccftech Fortnite-UEFN Apr-2026, Sweeney-slop Jun-25 = 340h STALE by ~5h, level-designer-leaves Jun-22, finding-fun Jun-23; gamesradar Xbox-floodgates Feb-2025, $660M Dec-2025, Valve-softens Jan-2026, Arc-Raiders-Dispatch Nov-2025, Blizzard-temp-voices May-2025; gamedeveloper Tencent-Hunyuan Nov-2025, genie-not-engine Feb-2026, capcom Mar-2026, +feed all Jan-Apr; 80.lv Cascadeur/Tripo Apr-2026, COD-BO6 Feb-2025; gamingbolt PlayStation-QA May-8, Expanse Mar-27, Witcher4-coCEO Jun-22=17d, Capcom May-22; aftermath UE6-garbage Jun-17, Epic-Fortnite-art Jun-16, Netflix 2024; thegamer Steam-800% Jul-2025, browser-ext Dec-2025, Neverness May-7, Ueda Jun-8, Nadella Jan-2, Xbox-no-pressure Feb-25; kotaku Sonic-ARG Jun-25=344h STALE, 1666-Amsterdam Jun-11; roadtovr Horizon-NPCs Aug-2025; nvidia ACE-launch Mar-2025). Also dropped pure AI-industry noise per the relevance test (pcgamer AI section front page is now datacenter-power / Palantir / Meta-capex items; Take-Two AI layoffs; Krafton CAIO; Netflix VP exec moves). RESULT: 5 verified-FRESH, on-topic, uncovered items across 3 outlets (GamesRadar+ x3 at the collection cap; TheGamer; 80 Level). The 3 GamesRadar items are distinct stories; curator should trim to <=2 per outlet in the final 5.",
+  "note": "SHORTFALL run (floor 3 not reached; 1 verified-fresh, uncovered, design-relevant item found). The 14-day games window (>= 2026-06-26T23:12Z) is genuinely exhausted: 30+ AI-in-games cards already published 6/30-7/10 consumed nearly every fresh, design-relevant story. Wide sweep this run: all 27 keyword expansions site-scoped across ~30 section allowed_domains; RSS/keyword feeds (pcgamer /feeds/tag/ai, gamesradar AI RSS, gamedeveloper /keyword/generative-ai + /latest-news, 80.lv); YouTube channel slice (UE/Unity/Inworld/GDC); first-party UE/NVIDIA/Roblox/DeepMind. Every published_time verified via curl article HTML or WebFetch (never snippet dates). What killed the funnel: (1) COVERED already in news_data games deck 7/4-7/10 -> slopfix, cnc-ios-vibeport, wildchat-fiction, gaider-plague, doom-revelations, unity-ai-debug, amano-zan, ue-image-gen, dreamcast-slop, metahuman-sizzle, etc.; (2) STALE (< June 26) despite recent-looking hits -> ALL the big tool stories predate the window: UE6/State-of-Unreal + Claude/Gemini (Kotaku Jun-17, aftermath Jun-17), Unity 6.2 AI (GDC Mar), Meshcapade acquisition (Feb-24), GameMaker+Claude Code (Apr-30), Scenario (2023), Genie 3/Project Genie (Jan-May), Inworld/NVIDIA-ACE demos (Mar-2024..2026), Roblox AI object/scene model (Feb-5), Roblox Reality AI founders (Jun-3), Crazy Taxi/Sega genAI disclosure (Jun-8), Hyper3D Rodin Gen-2.5 (Jun-3), miHoYo AI companion (Jun-23), Nexon Mono Lake (Mar-31), Gaxos Labs (Sep-2024), Godot 'tolerates AI' follow-up (Jun-22), thegamer 'almost every big studio' (Apr-23), NVIDIA TensorRT-for-UE (May-5); (3) DROPPED as AI-industry noise per relevance test -> pcgamer AI section is now datacenter-power/Meta-capex/Palantir/security items, plus Krafton CAIO exec move, Elon Musk AI-studio hype (Oct-2025), Take-Two AI layoffs. venturebeat (Readyverse/Gaxos) hard-429'd WebFetch and empty to curl; wccftech 403'd WebFetch (dates via curl). browse skill not attempted (prior runs OOM-killed in sandbox). RESULT: 1 verified-FRESH uncovered item (Godot AI-code-contribution ban, a distinct engine-governance/workflow story not in the deck). Reporting shortfall honestly rather than padding with stale/covered/off-topic items.",
   "items": [
     {
-      "url": "https://www.gamesradar.com/games/devs-dont-buy-steam-disclosure-claiming-gen-ai-was-a-necessity-im-literally-unemployed-and-i-still-make-all-of-my-assets-by-hand/",
-      "source": "GamesRadar+",
+      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+      "source": "Game Developer",
       "category": "games",
-      "title": "Devs don't buy Steam disclosure claiming gen AI was a necessity: \"I'm literally unemployed and I still make all of my assets by hand\"",
-      "published_iso": "2026-07-09T17:11:01Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg",
-      "excerpt": "After the dark-fantasy idle ARPG Bahast argued on its Steam page that generative AI was a \"necessity\" to ship on a small budget, other developers pushed back hard, insisting hand-made asset workflows are still viable even while unemployed. A sharp snapshot of the working-designer's stance on 'AI as cost-cutting.'"
-    },
-    {
-      "url": "https://www.gamesradar.com/games/survey-finds-only-31-percent-of-steam-users-have-a-problem-with-ai-in-games-with-43-percent-totally-fine-with-it/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "title": "Survey finds only 31% of Steam users have a problem with AI in games, with 43% totally fine with it",
-      "published_iso": "2026-07-08T00:00:23Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iYbJwiXnDe6Rccst38FsBF-1920-80.jpg",
-      "excerpt": "A new player survey complicates the loud developer backlash: 43% of Steam users say they're totally fine with generative AI in games and only 31% object, suggesting the audience response to AI-built content is far more split than headlines imply. (This is the verifiable-outlet version of the GameSpot 'players don't care' study, which was Cloudflare-blocked.)"
-    },
-    {
-      "url": "https://www.gamesradar.com/games/sony-says-ai-is-exciting-great-for-synthetic-assets-and-an-important-foundational-technology-supporting-our-strategy/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "title": "Sony says AI is \"exciting,\" great for \"synthetic assets,\" and an \"important foundational technology supporting our strategy\"",
-      "published_iso": "2026-07-02T15:00:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Ew9bQTUUihnM5rx7nh6UHD-1920-80.jpg",
-      "excerpt": "Sony framed AI as a foundational technology for PlayStation, calling it \"exciting\" for generating \"synthetic assets\" and central to its content-creation and efficiency strategy across first-party studios — a clear signal of how a platform holder wants AI woven into its production pipeline."
-    },
-    {
-      "url": "https://www.thegamer.com/dragon-age-david-gaider-ai-problematic-plague/",
-      "source": "TheGamer",
-      "category": "games",
-      "title": "Dragon Age Creator Calls Gen AI A \"Plague\" On Game Development",
-      "published_iso": "2026-07-01T09:00:00Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2024/09/bethany-hawke-charging-up-a-fire-spell-in-dragon-age-2.jpg",
-      "excerpt": "Dragon Age creator David Gaider called generative AI a \"virulent plague\" on game development, questioning whether it actually improves the craft (\"Does it make the work more efficient? Does it improve the work?\") and flagging IP concerns about models trained on creators' work without consent."
-    },
-    {
-      "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
-      "source": "80 Level",
-      "category": "games",
-      "title": "From prompt to reality: how to turn your idea into a physical 3D-printed collectible using Hi3D",
-      "published_iso": "2026-07-06T13:07:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg",
-      "excerpt": "80 Level ran Hi3D's AI 3D-generation platform through a full pipeline: a single text prompt to concept variations, watertight auto-repaired meshes, and a fully assembled, print-ready miniature — a working text-to-physical-collectible workflow that shows where generative 3D asset tools land for game and character artists."
+      "title": "Godot to ban (almost all) AI coding contributions",
+      "published_iso": "2026-07-01T18:14:09Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf37f0e888236bac1/6a453c420818ce731dd5fb9c/godot-fb-tw-share-image-1920x1080-0abe26cbac38.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "The open-source Godot game engine is updating its contribution policy to ban the use of AI to generate substantial pieces of code, drawing a hard line on how AI-assisted work is allowed into the engine's codebase. A concrete governance decision that shapes how thousands of contributors are permitted to build with (and without) AI."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 5,
+    "kept": 1,
     "against_days": 5
   }
 }

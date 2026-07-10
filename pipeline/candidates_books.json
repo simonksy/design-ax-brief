@@ -1,44 +1,44 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "books",
-  "now_iso": "2026-07-09T22:18:32Z",
+  "now_iso": "2026-07-10T23:12:40Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.etnews.com/20260701000374",
-      "source": "전자신문",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-07-01T04:46:00Z",
-      "og_image": "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.1b4fcc88c9e044b6ae8011e9c39409e2_P1.jpg",
-      "excerpt": "네이버웹툰이 원작자 승인 웹툰 IP를 기반으로 캐릭터와 대화하며 나만의 이야기를 만드는 AI 스토리챗 '바이어스(byUs)'를 출시했다. 원작 세계관에서 새 서사를 만드는 '오리지널 스토리'와 팬 창작 기반 '팬 스토리' 두 모드를 제공하며 첫 작품은 '전직록'이다.",
-      "note": "Strong creative-AI / interactive-fiction hook: turns authorized webtoon IP into user-authored AI story worlds. Distinct primary story, not in books history. Korean source diversity."
+      "published_iso": "2026-07-10T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Three AI-driven startups (Spain's Alighieria with Publisher OS, Germany's Lit-X, and New Zealand's Narrative Muse) are pitching publishers on data-analytics tools that target different parts of the acquisition and marketing pipeline, promising data can inform decisions long driven by instinct without replacing editorial judgment.",
+      "note": "Concrete new AI tools reshaping the acquisition/marketing workflow for publishers. Published 2026-07-10; FRESH. Not in books history."
     },
     {
-      "url": "https://www.etnews.com/20260707000235",
-      "source": "전자신문",
+      "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-07-07T07:00:00Z",
-      "og_image": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.ddb290e0f1a642af8284446eb68da1a3_P1.png",
-      "excerpt": "영상·숏폼에 익숙한 디지털 시대 아이들의 읽기 방식 변화를 다루며, 미래엔의 AI 기반 읽기 플랫폼 '초코'의 문해력 서비스 '달달독해'와 디지털 학습 웹툰 '초코툰'을 제시한다. AI가 아동 디지털 독해를 어떻게 재편하는지에 초점.",
-      "note": "AI-in-reading/literacy craft shift for young readers; publisher-built AI reading webtoon platform. On-topic design×AI reading workflow. Not in history."
+      "published_iso": "2026-07-10T09:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+      "excerpt": "Take-a-Break's Fiction Feast magazine has told regular story contributors that 'AI tools will be used' on future in-house-created stories, signaling how a mass-market short-fiction outlet is changing the way it produces content.",
+      "note": "Creative-AI workflow shift at a fiction publisher. Published 2026-07-10; FRESH. Not in history."
     },
     {
-      "url": "https://goodereader.com/blog/kobo-ereader-news/kobo-has-great-plans-for-the-rest-of-2026",
-      "source": "Good e-Reader",
+      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-07-02T21:04:57Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/02210457/exec_michaeltamblyn.jpg",
-      "excerpt": "Kobo CEO Michael Tamblyn says the company is building features for fall/winter 2026 that will 'fundamentally change how we read and write on our devices,' alongside summer StoryGraph integration and Kobo Plus expansion — a roadmap positioning Kobo against Amazon's AI reading tools.",
-      "note": "Reading/writing-device workflow shift with an explicit AI-features roadmap. Moderate (roadmap-level) AI hook; curator should weigh vs. more concrete releases."
+      "published_iso": "2026-07-09T10:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
+      "excerpt": "Audiobook publisher Bolinda used interviews, archival research and human expertise to build an AI-generated voice replicating the late romance author Barbara Cartland, reviving a deceased author's distinctive narration for new audiobook editions.",
+      "note": "AI voice-cloning applied to audiobook narration craft. Distinct from the 7/7 Michael Caine/ElevenLabs story. Published 2026-07-09; FRESH."
     },
     {
-      "url": "https://janefriedman.com/links-of-interest-july-8-2026/",
+      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
       "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-07-08T00:00:00Z",
+      "published_iso": "2026-07-08T14:00:00Z",
       "og_image": "",
-      "excerpt": "Jane Friedman's weekly publishing links roundup (July 8, 2026) covering book-sales trends, audiobook marketing, LGBTQ+ fiction growth, and AI controversies in literature — the same roundup format previously used as a books card.",
-      "note": "Fresh weekly roundup; precedent exists for using this format as a card. Lower priority — several AI highlights overlap already-covered stories (Libby filters, Commonwealth prize). Include for funnel depth."
+      "excerpt": "A user discovered that text pasted from Claude into Archive of Our Own retains hidden markup flagging AI involvement, exposing popular fanfiction stories as AI-assisted despite anti-AI tags and dismaying the fan-writing community.",
+      "note": "Creative-writing craft/community shift around AI-assisted fiction and detectability. Published 2026-07-08; FRESH. Distinct outlet for source diversity."
     }
   ]
 }

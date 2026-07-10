@@ -1,31 +1,27 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "design",
   "media": [
     {
-      "id": "seedream5-krea",
+      "id": "decagon-deco",
       "type": "image",
-      "src": "pipeline/media/seedream5-krea.jpg"
+      "src": "pipeline/media/decagon-deco.png"
     },
     {
-      "id": "muse-image",
+      "id": "lovable-vercel",
       "type": "image",
-      "src": "pipeline/media/muse-image.jpg"
+      "src": "pipeline/media/lovable-vercel.jpg"
     },
     {
-      "id": "ai-quality-signals",
-      "type": "image",
-      "src": "pipeline/media/ai-quality-signals.png"
-    },
-    {
-      "id": "lovable-0708",
-      "type": "svg"
-    },
-    {
-      "id": "not-ai-slop",
+      "id": "jen-dunnam",
       "type": "video",
-      "src": "pipeline/media/not-ai-slop.mp4",
-      "poster": "pipeline/media/not-ai-slop-poster.jpg"
+      "src": "pipeline/media/jen-dunnam.mp4",
+      "poster": "pipeline/media/jen-dunnam.jpg"
+    },
+    {
+      "id": "economist-billboard",
+      "type": "image",
+      "src": "pipeline/media/economist-billboard.jpg"
     }
   ]
 }

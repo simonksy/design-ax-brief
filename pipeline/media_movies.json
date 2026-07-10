@@ -1,23 +1,22 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "section": "movies",
   "media": [
     {
-      "id": "seedance25",
-      "type": "video",
-      "src": "pipeline/media/seedance25.mp4",
-      "poster": "pipeline/media/seedance25.jpg"
-    },
-    {
-      "id": "topaz-adobe",
-      "type": "video",
-      "src": "pipeline/media/topaz-adobe.mp4",
-      "poster": "pipeline/media/topaz-adobe.jpg"
-    },
-    {
-      "id": "premiere-color",
+      "id": "premiere-genmedia",
       "type": "image",
-      "src": "pipeline/media/premiere-color.jpg"
+      "src": "pipeline/media/premiere-genmedia.jpg"
+    },
+    {
+      "id": "runway-dev",
+      "type": "video",
+      "src": "pipeline/media/runway-dev.mp4",
+      "poster": "pipeline/media/runway-dev.jpg"
+    },
+    {
+      "id": "aiarty-4k",
+      "type": "image",
+      "src": "pipeline/media/aiarty-4k.jpg"
     }
   ]
 }
