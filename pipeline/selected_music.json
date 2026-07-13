@@ -1,47 +1,41 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "music",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.musicradar.com/artists/producers-engineers/everything-started-from-the-hand-of-a-human-being-italian-dj-and-producer-ciauru-wins-reply-ai-music-contest",
-      "source": "MusicRadar",
+      "url": "https://musictech.com/news/gear/audiotool-3-nexus/",
+      "source": "MusicTech",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Italian producer Ciauru wins Reply AI Music Contest",
-      "rationale": "Strongest pick — a concrete creative-AI showcase where a working producer turned video footage into visual-sonic performance using AI platforms, modeling a human-led way to fold AI into creative practice.",
-      "published_iso": "2026-07-11T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/LJqZcGQnRf5zmTFYbHgkVZ.jpg",
-      "excerpt": "Italian electronic producer Ciauru (Simone Privitera) won the Reply AI Music Contest, a competition celebrating creative uses of AI in music and performance; his winning project transformed video footage into visual-sonic experiences using AI platforms, framed as showcasing how AI can be used positively in the creative industries."
+      "headline": "Audiotool 3.0 opens browser DAW with NEXUS SDK and MCP AI",
+      "rationale": "Browser DAW opening an SDK with MCP means producers can wire their own LLMs into the workflow — directly changes how music makers can build and automate their setup tomorrow.",
+      "published_iso": "2026-07-13T10:19:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg",
+      "excerpt": "Audiotool 3.0 rebuilds the browser-based multiplayer DAW as an open platform via a new SDK called NEXUS, which lets creators build custom instruments/plugins and supports AI integrations through MCP so producers can connect their own LLMs to the workflow."
     },
     {
-      "url": "https://www.hypebot.com/how-to-audit-your-music-brand-on-google-seand-ai-now/",
-      "source": "Hypebot",
+      "url": "https://bedroomproducersblog.com/2026/07/13/eldoraudio-guitar-midi-converter/",
+      "source": "Bedroom Producers Blog",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "How to audit your music brand on Google and AI now",
-      "rationale": "Directly actionable workflow — as buyers and labels increasingly discover artists via AI chatbots, this walks musicians through auditing how search and AI tools actually perceive their digital footprint, something a creator can act on tomorrow.",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/photo-1743796055664-3473eedab36e.jpeg",
-      "excerpt": "As fans, talent buyers and even record labels increasingly discover music via AI chatbots rather than plain name searches, musicians are urged to audit their online presence in private browser windows to see how search algorithms and AI tools actually perceive their digital footprint."
-    },
-    {
-      "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
-      "source": "Complete Music Update",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "headline": "BBC outlines AI transparency commitments — can it meet them?",
-      "rationale": "Emerging-standard signal for creators — the BBC's pledge to disclose when AI is used previews the kind of AI-labeling and disclosure expectations that will shape how musicians credit AI in their own output.",
-      "published_iso": "2026-07-07T15:56:36Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/BBC-AI.png",
-      "excerpt": "BBC music boss Lorna Clarke outlined the broadcaster's AI transparency commitments — including disclosing when AI is used in its output — though the piece questions whether the BBC can actually meet them without industry-wide disclosure standards."
+      "headline": "Eldoraudio's free ML tool converts guitar recordings to MIDI",
+      "rationale": "Free ML guitar-to-MIDI transcription in the browser is an immediately usable workflow win for producers who want editable MIDI from live guitar takes.",
+      "published_iso": "2026-07-13T09:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/guitar-midi-1-728x364.jpg",
+      "excerpt": "Eldoraudio launched a free browser-based tool that uses a note-detection model to convert guitar recordings into editable MIDI files — upload audio, set the BPM, and get a MIDI transcription ready to drop into a DAW, with a dedicated model for distorted/overdriven guitar planned."
     }
   ],
   "dedup_report": {
-    "dropped": [],
-    "note": "Pool arrived pre-deduped vs last-5-days history (candidates_filtered_music.json, URL-deduped upstream, dropped 0). Content-dedup confirmed clean against published music history: none of the 3 match a prior published story. The BBC/CMU transparency piece was dropped-on-relevance on 2026-07-11 (never published), so it is not a duplicate and is eligible now. Diversity guard satisfied: 3 distinct outlets (MusicRadar, Hypebot, Complete Music Update), no outlet at cap, no URL collisions. Pool was exactly 3 fresh items at the floor — all 3 selected; shortfall vs 5 is due to a genuinely small fresh pool, not padding."
+    "dropped": [
+      {
+        "url": "https://www.synthtopia.com/content/2026/07/07/spectralayers-13-takes-unmixing-to-a-new-level/",
+        "reason": "Content duplicate of already-published `spectralayers13` card (Steinberg SpectraLayers 13 AI unmixing, published 2026-07-06, now rolled off deck). Same product/release covered again — dropped per hard exclusion."
+      }
+    ],
+    "shortfall": true,
+    "note": "Started from 3 URL-deduped candidates. Dropped 1 content dup (SpectraLayers 13), leaving 2 genuinely fresh, never-before-published stories. This is below the floor of 3, but the fresh window is genuinely exhausted — not padding with the known dup. Both picks are music category; second pick given a distinct palette accent (#0070f3). Two distinct outlets (MusicTech, Bedroom Producers Blog), no URL collisions."
   }
 }

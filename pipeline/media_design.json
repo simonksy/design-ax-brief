@@ -1,27 +1,27 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "design",
   "media": [
     {
-      "id": "taste-delegated",
+      "id": "terminal-canvas",
       "type": "image",
-      "src": "pipeline/media/taste-delegated.png"
+      "src": "pipeline/media/terminal-canvas.png"
     },
     {
-      "id": "interface-left",
+      "id": "ax-orchestration",
       "type": "image",
-      "src": "pipeline/media/interface-left.png"
+      "src": "pipeline/media/ax-orchestration.png"
     },
     {
-      "id": "agent-handoff",
-      "type": "image",
-      "src": "pipeline/media/agent-handoff.png"
-    },
-    {
-      "id": "fireship-sol",
+      "id": "logo-quits",
       "type": "video",
-      "src": "pipeline/media/fireship-sol.mp4",
-      "poster": "pipeline/media/fireship-sol.jpg"
+      "src": "pipeline/media/logo-quits.mp4",
+      "poster": "pipeline/media/logo-quits.jpg"
+    },
+    {
+      "id": "trek-vfx-ai",
+      "type": "image",
+      "src": "pipeline/media/trek-vfx-ai.jpg"
     }
   ]
 }

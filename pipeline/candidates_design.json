@@ -1,53 +1,53 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "design",
   "window_hours": 72,
-  "now_iso": "2026-07-12T23:49:40Z",
+  "now_iso": "2026-07-13T23:19:47Z",
   "items": [
     {
-      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b",
-      "title": "Taste cannot be delegated",
+      "url": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45",
+      "title": "AX is just the orchestration layer",
+      "source": "UX Collective",
+      "category": "core",
+      "published_iso": "2026-07-13T22:09:54Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*oClaxaWA_8gphYwyopqP7g.png",
+      "excerpt": "Reframes 'AX' (agent/AI experience) not as a new surface to decorate but as an orchestration layer designers must own — coordinating models, agents, and handoffs rather than hand-crafting each screen. A fresh Design-AX angle distinct from the 07-13 taste/handoff essays."
+    },
+    {
+      "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650",
+      "title": "The terminal became my canvas",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-07-13T22:10:08Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:947/1*DWyRC6NyUUgkB5GW1mkmyQ.png",
+      "excerpt": "A designer's account of craft migrating off the visual canvas and into the terminal/CLI, where prompts and code (Claude Code-style agentic tooling) become the primary design surface. A concrete vibe-coding workflow shift rather than a taste essay."
+    },
+    {
+      "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a",
+      "title": "When design becomes the organisation, and AI becomes the design",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-07-12T21:32:05Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*IE9hoyTwzWtd3hUTEOI9Ow.png",
-      "excerpt": "An argument that as AI makes everyone a 'creator', taste and editorial judgment become the scarce design skill that can't be handed to a model — and that 'design by committee' dies precisely because someone still has to own the call. A design-leadership lens on where humans stay decisive in an AI workflow."
+      "published_iso": "2026-07-13T11:09:48Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg",
+      "excerpt": "Argues that as AI absorbs execution, the design function reshapes into org-level structure — the 'design' increasingly is the operating system of the team rather than the artifacts it ships. A design-org transformation lens on AX."
     },
     {
-      "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9",
-      "title": "The interface has left the building",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-07-12T09:30:15Z",
-      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*3TvKprbciicWhw1X",
-      "excerpt": "How chat, voice, and agentic AI are rewriting the first principles of UX — as the screen stops being the primary surface, designers have to rethink flows, affordances, and control for interfaces that are generated and negotiated at runtime rather than laid out in advance."
+      "url": "https://www.creativebloq.com/3d/vfx-cgi/why-this-indie-star-trek-film-team-thinks-ai-could-finally-fix-vfxs-biggest-headache",
+      "title": "How a tiny Star Trek film team is rethinking VFX with AI",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-07-13T09:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/TcLegdLJeR7EXKTk85zq5T-1600-80.jpg",
+      "excerpt": "An indie Star Trek fan-film crew explains how generative AI could clear VFX's biggest bottleneck — green-screen keying and rotoscoping — pointing to where AI actually fits into a real production pipeline rather than replacing artists."
     },
     {
-      "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12",
-      "title": "Craft still matters, but it's about outcomes",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-07-10T14:41:01Z",
-      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.29:0.5/1*s8Oih5wlUh3XJRdb29Rg4w.png",
-      "excerpt": "AI has moved craft from production to judgment; the same tools can help protect quality if you write your standards down and keep humans reviewing. A practical take on encoding design standards so AI output stays on-brand and on-bar rather than drifting toward generic."
-    },
-    {
-      "url": "https://dev.to/haaaaaley/design-the-moment-an-ai-agent-needs-human-input-4mni",
-      "title": "Design the Moment an AI Agent Needs Human Input",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-07-10T10:08:59Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwqi2dt1vq740caixqy04.png",
-      "excerpt": "A recovery-first interaction model for long-running AI tasks: how to design the handoff points — interruptions, approvals, expiring decisions, safe resume — where an autonomous agent must pause for a human. Concrete UX patterns for agentic products. (Lower-authority individual post; include only if a stronger agentic-UX item is missing.)"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=URKml8lgw8Y",
-      "title": "OpenAI is so back... GPT-5.6 Sol first look",
-      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=k3_VO8HybME",
+      "title": "Top logo designer quits because \"AI is better than me\"",
+      "source": "DesignCourse",
       "category": "social",
-      "published_iso": "2026-07-11T00:25:44Z",
-      "og_image": "https://i.ytimg.com/vi/URKml8lgw8Y/maxresdefault.jpg",
-      "excerpt": "Fireship's fast hands-on first look at OpenAI's newly released GPT-5.6 Sol model and what it means for AI-assisted building. NOTE: the underlying GPT-5.6 Sol/Luna/Terra rollout was already covered on 2026-07-09 — include only as a social/creator-medium card if a fresh distinct social item is needed; otherwise drop to avoid the covered angle."
+      "published_iso": "2026-07-13T14:51:09Z",
+      "og_image": "https://i.ytimg.com/vi/k3_VO8HybME/maxresdefault.jpg",
+      "excerpt": "Gary Simon (DesignCourse) reacts to a prominent logo designer publicly quitting with the line 'AI is better than me,' unpacking what the moment says about craft, identity, and where human designers still hold the edge."
     }
   ]
 }

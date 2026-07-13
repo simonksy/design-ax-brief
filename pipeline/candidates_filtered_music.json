@@ -1,31 +1,31 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "music",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.musicradar.com/artists/producers-engineers/everything-started-from-the-hand-of-a-human-being-italian-dj-and-producer-ciauru-wins-reply-ai-music-contest",
-      "source": "MusicRadar",
+      "url": "https://www.synthtopia.com/content/2026/07/07/spectralayers-13-takes-unmixing-to-a-new-level/",
+      "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-07-11T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/LJqZcGQnRf5zmTFYbHgkVZ.jpg",
-      "excerpt": "Italian electronic producer Ciauru (Simone Privitera) won the Reply AI Music Contest, a competition celebrating creative uses of AI in music and performance; his winning project transformed video footage into visual-sonic experiences using AI platforms, framed as showcasing how AI can be used positively in the creative industries."
+      "published_iso": "2026-07-07T15:00:00Z",
+      "og_image": "",
+      "excerpt": "Steinberg has released SpectraLayers 13, a major update to its spectral-editing app whose AI-assisted 'unmixing' separates a finished recording into independent instrumental stems and isolates individual sound components with new accuracy."
     },
     {
-      "url": "https://www.hypebot.com/how-to-audit-your-music-brand-on-google-seand-ai-now/",
-      "source": "Hypebot",
+      "url": "https://musictech.com/news/gear/audiotool-3-nexus/",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/photo-1743796055664-3473eedab36e.jpeg",
-      "excerpt": "As fans, talent buyers and even record labels increasingly discover music via AI chatbots rather than plain name searches, musicians are urged to audit their online presence in private browser windows to see how search algorithms and AI tools actually perceive their digital footprint."
+      "published_iso": "2026-07-13T10:19:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg",
+      "excerpt": "Audiotool 3.0 rebuilds the browser-based multiplayer DAW as an open platform via a new SDK called NEXUS, which lets creators build custom instruments/plugins and supports AI integrations through MCP so producers can connect their own LLMs to the workflow."
     },
     {
-      "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
-      "source": "Complete Music Update",
+      "url": "https://bedroomproducersblog.com/2026/07/13/eldoraudio-guitar-midi-converter/",
+      "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-07-07T15:56:36Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/BBC-AI.png",
-      "excerpt": "BBC music boss Lorna Clarke outlined the broadcaster's AI transparency commitments — including disclosing when AI is used in its output — though the piece questions whether the BBC can actually meet them without industry-wide disclosure standards."
+      "published_iso": "2026-07-13T09:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/guitar-midi-1-728x364.jpg",
+      "excerpt": "Eldoraudio launched a free browser-based tool that uses a note-detection model to convert guitar recordings into editable MIDI files — upload audio, set the BPM, and get a MIDI transcription ready to drop into a DAW, with a dedicated model for distorted/overdriven guitar planned."
     }
   ],
   "dedup": {

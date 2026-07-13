@@ -1,51 +1,49 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "books",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://publishingperspectives.com/2026/07/there-is-no-single-model-for-innovation-new-technologies-new-challenge/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6299-793x595.jpeg",
-      "excerpt": "At the IPA Congress in Malaysia, Asian publishers described how AI is transforming their markets in divergent ways -- 'there is no single model for innovation' as each ecosystem adapts generative tools to local reader needs and production realities.",
+      "url": "https://www.thebookseller.com/news/thangam-debbonaire-on-ai-you-have-to-ask-the-bigger-philosophical-question",
+      "source": "The Bookseller",
+      "published_iso": "2026-07-10T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Baroness_Thangam_Debbonaire_speaking_at_the_PLS_conference_2026.jpg",
+      "excerpt": "Baroness Thangam Debbonaire argues the book trade must move past polarised 'for/against AI' framing and build practical licensing systems that fairly pay authors while acknowledging AI's utility — 'you have to ask the bigger philosophical question' about humanity's role. Delivered at the PLS conference.",
       "category": "books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Distinct IPA Congress session (Asian-market divergent AI adaptation) -- a genuinely new angle, not a reword of the already-published congress-overview or innovation-award cards; credible on-list source, useful strategic insight for publishers."
+      "rationale": "Strongest fresh pick: a named policy figure reframing AI licensing toward a practical author-pay framework — distinct speaker/angle from the 7/6 PLS 'AI copyright litigation' and 7/11 PLS licensing cards; credible on-list source, directly shapes how publishers/authors monetise and control work."
     },
     {
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/02/333741/audiobook-reading-in-australia-report-released/",
-      "source": "Books+Publishing",
-      "published_iso": "2026-07-02T00:00:00Z",
-      "og_image": "",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-07-13T09:30:15Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/02/iStock-2226074210.jpg",
+      "excerpt": "Reporting outcomes from the World Conference on Research Integrity Focus Track, the authors argue scholarly publishing urgently needs a single shared standard for disclosing AI use, replacing today's fragmented journal-by-journal rules that leave authors and editors guessing.",
       "category": "books",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "excerpt": "A new ANU report by Millicent Weber surveying 503 Australian and 500 German audiobook listeners finds 17.4% have already tried AI narration or text-to-speech, quantifying how fast synthetic narration is entering everyday listening.",
-      "rationale": "Distinct, sourced research quantifying AI-narration adoption (17.4%) -- a data story, not a repeat of the prior product-announcement audiobook cards (Cartland clone, Caine/ElevenLabs, Libby filter); actionable market signal."
+      "rationale": "Judged distinct from prior scholarly-AI cards — disclosure standardisation is a different topic than the 7/8 'making AI use traceable' (traceability) and the earlier peer-review theme. Actionable author/editor workflow norm from a credible on-list source."
     },
     {
-      "url": "https://www.youtube.com/watch?v=je-MwvQaJ0Y",
-      "source": "AI Tool Box (YouTube)",
-      "published_iso": "2026-07-06T03:43:48Z",
-      "og_image": "https://i.ytimg.com/vi/je-MwvQaJ0Y/maxresdefault.jpg",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-13th-2026/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "At a July 7 Tokyo publisher briefing, Rakuten Books outlined a strategy centred on 'personalized discovery using Rakuten data and AI' for its 28M monthly visitors — an AI-recommendation push positioning its bookstore against Amazon.",
       "category": "books",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "excerpt": "Hands-on review of 'Steamy Co-Author,' an AI writing-assistant aimed at romance/genre novelists, walking through how the tool drafts and expands scenes in the author's voice. A snapshot of the AI co-writing-tool niche for indie fiction authors.",
-      "rationale": "Included to meet floor 3 (orchestrator pre-cleared): low-authority channel but a genuinely on-topic, hands-on look at an AI co-writing tool indie fiction authors could adopt tomorrow. Deprioritized behind the two credible picks."
+      "rationale": "Held to meet floor 3: weak roundup-sourced item, but its lead (Rakuten AI-driven book discovery) is a distinct fresh retail-strategy story with an AI-recommendation hook — a different PP URL than the 7/13 'no single model' card, so no outlet-content repeat. Deprioritized behind the two credible picks."
     }
   ],
   "dedup_notes": {
-    "dropped_as_published_duplicate": [
-      "Scholarly Kitchen 'Now is the time for AI in peer review' (6/30) -- content dup of the prior `ai-peer-review` books card (same theme + same source + guest-post format; orchestrator-flagged). Even though the prior card has rolled off the 5-day deck, the freshness rule (a theme collected earlier must not reappear) governs; dropped."
-    ],
+    "dropped_as_published_duplicate": [],
     "dropped_low_value": [],
-    "diversity": "3 picks across 3 distinct outlets (Publishing Perspectives, Books+Publishing, AI Tool Box/YouTube) -- no outlet repeated. All single-category (books), each given a distinct palette accent (#f5a623, #7928ca, #2ec5c5).",
-    "shortfall": "Selected 3 vs cap of 5. Fresh pool was only 4 URL-deduped items; 1 dropped as a content duplicate (peer-review), leaving 3 unique never-before-seen stories. Floor 3 met exactly; not padded. One pick (Steamy Co-Author) is a low-authority YouTube review carried only to hold the floor."
+    "diversity": "3 picks across 3 distinct outlets (The Bookseller, The Scholarly Kitchen, Publishing Perspectives) — no outlet repeated, satisfies ≥3 distinct outlets and ≤2 per outlet. All single-category (books), each given a distinct palette accent (#f5a623, #7928ca, #2ec5c5).",
+    "shortfall": "Selected 3 vs cap of 5. Fresh pool was only 3 URL-deduped items (upstream dropped 1). All 3 cleared the bar as distinct never-before-seen stories, so floor 3 is met exactly; not padded. Scholarly Kitchen kept after judging its disclosure-standard topic distinct from prior traceability/peer-review cards; PP roundup carried only to hold the floor."
   }
 }

@@ -1,54 +1,40 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "movies",
   "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://80.lv/articles/blender-studio-announces-ambitious-feature-film-project",
-      "source": "80 Level",
+      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
+      "source": "Animation World Network",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Strongest pick and the only non-social item: Blender Studio's 'Overgrown' is a large-scale open-source animated feature built explicitly without cloud or generative AI — a craft-forward counter-model that sharpens the design x AI debate by contrast. Reputable outlet, concrete production news.",
-      "published_iso": "2026-07-08T10:56:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49164/images/6a4e2cf08b32c/contain_1200x630.jpg",
-      "excerpt": "Blender Studio unveils 'Overgrown', an open-source, artist-centric large-scale animated feature explicitly built without cloud services or generative AI — pitched as a craft-forward counter-model to AI production pipelines.",
+      "rationale": "Strongest, most distinct item: a specific NVIDIA sponsored keynote ('Next Era of Graphics — Neural Rendering, World Models, and Simulation') set for SIGGRAPH 2026 on July 20, spotlighting neural rendering and AI world models reshaping VFX/film pipelines. Concrete named-session news from a reputable trade outlet; no overlap with published SIGGRAPH cards, which covered the festival awards and general preview, not this keynote.",
+      "published_iso": "2026-07-13T12:00:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg?itok=M3jKoqZZ",
+      "excerpt": "NVIDIA Research and Engineering leaders Neil Ashton, Ming-Yu Liu and Edward Liu will present the sponsored keynote 'Next Era of Graphics - Neural Rendering, World Models, and Simulation' at SIGGRAPH 2026 on July 20. The talk spotlights breakthrough neural rendering techniques and AI-built world models/simulation reshaping the computer graphics and VFX pipelines filmmakers depend on.",
       "category": "movies"
     },
     {
-      "url": "https://www.youtube.com/watch?v=epJiVrv4KVQ",
-      "source": "Theoretically Media",
+      "url": "https://www.youtube.com/watch?v=8d1UPMD4E3g",
+      "source": "Simon Meyer",
       "tool": "Social",
       "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "Most actionable social item: a hands-on breakdown of Meta's newly shipped free Muse Image model (a Nano-Banana rival) plus a free AI video tool — a direct, tool-news change to the AI filmmaker's toolkit this window.",
-      "published_iso": "2026-07-08T19:28:07Z",
-      "og_image": "https://i.ytimg.com/vi/epJiVrv4KVQ/maxresdefault.jpg",
-      "excerpt": "Theoretically Media covers Meta's newly shipped free Muse Image model (positioned as a Nano-Banana rival) plus a free AI video tool, breaking down what the releases mean for AI filmmakers' toolkits.",
-      "category": "social"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=m6FqbpbKCOg",
-      "source": "stephanai films",
-      "tool": "Social",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Fresh creative-output card from a distinct creator: a trailer-polish AI-generated trailer for a Senegalese folk-tale film, showing independent creators using generative video to realize a culturally specific narrative and world. Chosen over this channel's older 'Close to Source' short — newer and the stronger, more distinct piece; kept to one video per channel.",
-      "published_iso": "2026-07-08T15:52:08Z",
-      "og_image": "https://i.ytimg.com/vi/m6FqbpbKCOg/maxresdefault.jpg",
-      "excerpt": "An AI-generated official trailer for a Senegalese folk-tale film, showcasing how independent creators use generative video to realize a culturally specific narrative and world at trailer polish.",
+      "rationale": "Most actionable social item: AI filmmaker Simon Meyer rounds up five lesser-known AI filmmaking tools for July 2026 and shows how each slots into a practical shot-by-shot generative-video workflow — a creator-medium look at the current AI film toolchain that changes what a filmmaker can reach for tomorrow. Fresh, distinct creator, no URL/content overlap with published movies cards.",
+      "published_iso": "2026-07-09T16:05:54Z",
+      "og_image": "https://i.ytimg.com/vi/8d1UPMD4E3g/maxresdefault.jpg",
+      "excerpt": "AI filmmaker Simon Meyer rounds up five lesser-known AI filmmaking tools for July 2026, walking through how each slots into a practical shot-by-shot generative-video workflow - a creator-medium look at the current AI film toolchain.",
       "category": "social"
     }
   ],
   "dedup_notes": {
     "dropped_as_duplicates": [
-      "screendaily.com 'Tilly Norwood creator developing feature Misaligned' — CONTENT duplicate of the already-published 2026-07-07 tilly-misaligned card (Variety). Same event/release, different outlet. Dropped per earliest-wins."
+      "beforesandafters.com 'Preview the Computer Animation Festival at SIGGRAPH in this stunning trailer' (2026-07-07) — CONTENT near-duplicate of already-published movies cards: the 2026-07-09 'siggraph2026' general SIGGRAPH 2026 preview (Animation Magazine) and the 2026-07-07 'siggraph-caf' card (AWN), both of which already cover the SIGGRAPH 2026 Computer Animation Festival lineup and its Best-in-Show winner 'Apart'. Same event, reworded/different-outlet angle (a trailer of the same festival). Dropped per earliest-wins; not padded to reach the floor."
     ],
-    "dropped_within_pool": [
-      "youtube.com/watch?v=7DNndcFhipI 'CLOSE TO SOURCE' (stephanai films) — second video from the same channel and older (2026-07-01). Preferred a distinct creator/angle and kept only the stronger, fresher stephanai trailer; not padded as a weak second pick."
-    ],
-    "history_checked": "candidates_filtered_movies.json is already URL-deduped vs the last 5 days of movies history. Applied the flagged content-dedup: Tilly Norwood/Misaligned == published tilly-misaligned (dropped). Blender, Theoretically Media, and the stephanai trailer have no URL or content overlap with published movies cards.",
-    "diversity": "outlets: 80.lv x1, youtube.com x2 (Theoretically Media, stephanai films — distinct channels) — within the <=2-per-domain guard; 3 distinct sources. categories: movies x1, social x2 (<=2 guard). social picks share a category, so distinct accents assigned (#ff2d55, #3b6bff).",
-    "shortfall": "3 picks vs the cap of 5. After dropping the Tilly content-dup and the redundant second stephanai video, only 3 genuinely fresh, worthwhile items remain in a soft/social window. Floor of 3 met — not padded with the weak second stephanai short."
+    "dropped_within_pool": [],
+    "history_checked": "candidates_filtered_movies.json (3 items) is already URL-deduped vs the last 5 days of movies history. Verified against sections.movies.today (2026-07-13) and days 2026-07-07/08/09. Applied content-dedup: the befores & afters CAF trailer overlaps published siggraph2026 + siggraph-caf coverage (dropped). NVIDIA keynote and the Simon Meyer video have no URL or content overlap with published movies cards.",
+    "diversity": "outlets: awn.com x1, youtube.com x1 (Simon Meyer) — 2 distinct sources/domains, within the <=2-per-domain guard. categories: movies x1, social x1 — no category exceeds the 1-2 guard; distinct accents already (#0070f3, #ff2d55).",
+    "shortfall": "2 picks vs the floor of 3. The fresh pool held only 3 items; the befores & afters CAF trailer was a content near-dup of already-published SIGGRAPH festival coverage and was dropped, leaving 2 genuinely fresh, distinct stories. No backfill remained, so publishing 2 rather than padding with a duplicate."
   }
 }

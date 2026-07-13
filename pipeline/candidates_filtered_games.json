@@ -1,23 +1,41 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "games",
-  "now_iso": "2026-07-12T23:49:40Z",
+  "now_iso": "2026-07-13T23:19:47Z",
   "window_hours": 336,
-  "note": "SHORTFALL run (floor 3 not reached; 1 verified-fresh, uncovered, design-relevant item). The 14-day games window (>= 2026-06-28T23:49Z) is genuinely exhausted, as expected (0 fresh yesterday). Wide sweep this run: all category keyword expansions site-scoped across the ~23 section allowed_domains; RSS feeds (gamesindustry.biz /feed, venturebeat games); 80.lv sitemap_index/API probes/AI-tag render; YouTube social slice (NVIDIA/UE/Unity/Inworld/Two Minute Papers/GDC). Every published_time verified via curl article HTML or YouTube JSON-LD uploadDate (never snippet dates). What killed the funnel: (1) COVERED/flagged dups per override + news_data games deck -> Steam AI disclosure debate, Steam AI survey, Godot AI-code ban (godot-ai-ban, dropped 7/11), DOOM DLSS, Unity AI debug, Slopfix, Amano interview, UE image/video gen, Unity scene-setup, Sega Dreamcast slop, C&C iOS port, Unity asset audit, MetaHuman reel, Hi3D, Gaider plague, Sony synthetic assets. (2) STALE (< June 28) despite recent-looking hits -> ALL big tool/vendor stories predate the window: NVIDIA ACE Game Agent SDK (Jun-16), PUBG Ally NVIDIA ACE beta (Jun-17), UE6/State-of-Unreal reactions (Jun-17/18/19), MetaHuman UE5.8 (Jun-18), Palworld/CDPR/Witcher4 AI quotes (Jun-17/21), Crazy Taxi/Tomb Raider genAI disclosure (Jun-04/08), Unreal Engine 6 AI dev reactions (Jun-17), Yoroll/LinearGame (GDC/Apr), Genie 3/Project Genie (Jan), GameMaker+Claude Code (Apr-30), thegamer 'almost every big studio' (Apr-23), Nwiro Integration Kit (Jun-04), GDC survey 52% (Jan-30). (3) DROPPED as AI-industry noise or non-AI per relevance test -> pcgamer AI section is now datacenter-power/Meta-capex/Palantir/security; gamesindustry.biz + gamedeveloper July feeds are exclusively business/layoffs (Xbox/Ubisoft/id/Obsidian layoffs, Nintendo, Atari, PlayStation) with no design hook; AutoRemesher quad-topology tool (Jul-07, 80.lv) verified NON-AI (Geogram/libigl, MIT license). venturebeat + wccftech blocked WebFetch (dates pulled via curl). RESULT: 1 verified-FRESH uncovered design-relevant item (NVIDIA webinar on building on-device AI NPCs in UE5.7). Reporting shortfall honestly per override; recommend skipping the games roll.",
+  "note": "SHORTFALL run — floor 3 met (3 verified-fresh, uncovered, design-relevant items), but well below the target of 5. The 14-day games window (>= 2026-06-29T23:19Z) remains heavily depleted, exactly as flagged and as yesterday's 1-item run predicted. WIDE sweep this run: all category keyword expansions site-scoped across the ~23 section allowed_domains; gamedeveloper.com full RSS (50 items) + Generative-AI-&-ML topic page; venturebeat games (Cloudflare-blocked); 80.lv /feed (10 latest) + AI/art keyword searches; pcgamer + gamesradar main RSS (50 each); kotaku / aftermath / thegamer feeds; and a full YouTube social slice — parsed the newest uploads (lockup metadata) from @NVIDIAGameDeveloper, @unity, @UnrealEngine, @inworldai, @TwoMinutePapers and verified uploadDate via each watch page's JSON-LD. Every published_time here was verified by fetching the article/watch HTML (og article:published_time / JSON-LD datePublished / YouTube uploadDate) — never a snippet date. WHAT KILLED THE FUNNEL: (1) COVERED/flagged dups per override + news_data games deck — NVIDIA ACE UE5.7 NPC (6/30 video, already ran 7/13), Steam AI-disclosure debate + Steam AI survey (7/10), Godot AI-code ban (7/1, dup 'godot-ai-ban'), DOOM DLSS, Unity AI debug, Slopfix, Amano, UE image/video gen, Unity scene-setup, Sega slop, C&C iOS vibe-code port, MetaHuman reel, Gaider 'plague', Sony synthetic assets, plus 20+ earlier. (2) STALE (< June 29) despite recent-looking hits — Cascadeur 2026.1 (Apr-09), Hyper3D Rodin Gen-2.5 (Jun-03), Roblox 4D/Cube (Feb-05), Tencent Hunyuan 3D (Nov-26), OctaneStudio+ (Dec-02), Fortnite UEFN Gemini/ElevenLabs NPC (Apr-19), Replica smart NPCs UE, Layer/Scenario art-tool coverage, Meta WorldGen (Nov-24), Genie 2/3 & SIMA 2 (earlier), 'developer use of gen AI declining' (Mar-06), all Inworld TTS-2/STT/video-gen uploads (Jan–Jun), NVIDIA DLSS4.5/path-tracing-hair/AI-C++-assistant/Ubisoft-Teammates videos (Apr–Jun). (3) DROPPED as business/industry noise per relevance test — gamedeveloper.com July RSS is exclusively layoffs/business (11 bit, Obsidian, id, Zenimax/Xbox 3,200 cuts, Atari, Blizzard, Nintendo, PlayStation physical-disc, Rockstar), pcgamer/gamesradar main feeds skew to hardware/security/AI-datacenter, EA-exec + 'major investor shocked' AI-sentiment op-eds. RESULT: 3 verified-FRESH uncovered design-relevant items below. Item 3 (Meccha AI-clone) is borderline culture/slop and tagged for the curator to weigh; items 1–2 are the workflow/tool-relevant picks. Reporting shortfall honestly per override; a limited/skipped roll is acceptable.",
   "items": [
     {
-      "url": "https://www.youtube.com/watch?v=4syKq_OrbGA",
-      "source": "NVIDIA Game Developer",
-      "category": "social",
-      "title": "Building AI-Powered NPCs in Unreal Engine 5.7",
-      "published_iso": "2026-06-30T22:42:13Z",
-      "og_image": "https://i.ytimg.com/vi/4syKq_OrbGA/maxresdefault.jpg",
-      "excerpt": "NVIDIA walks game developers through building on-device, low-latency AI-powered NPCs in Unreal Engine 5.7 using the NVIDIA ACE Game Agent SDK — distilling speech recognition, a small language model and text-to-speech into RTX-deployable characters. A concrete workflow shift for how studios author conversational NPCs."
+      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "source": "Two Minute Papers",
+      "category": "games",
+      "title": "Minecraft Was Missing One Brilliant Idea",
+      "published_iso": "2026-07-12T15:48:43Z",
+      "og_image": "https://i.ytimg.com/vi/Ae9q7KsRbuI/maxresdefault.jpg",
+      "excerpt": "Two Minute Papers breaks down Terrain Diffusion — a diffusion-model mod (shipping on Modrinth/GitHub) that generates far richer, more varied Minecraft terrain than the game's hand-tuned noise system. A concrete example of generative AI as a real procedural-content-generation tool a game's modders/designers can actually install and use."
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
+      "source": "PC Gamer",
+      "category": "games",
+      "title": "PC ports of old console games are the new AI vibe coding battleground",
+      "published_iso": "2026-07-09T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/cnYqvbCpcTAgL4NMej8Ea3-1213-80.jpg",
+      "excerpt": "With projects like Donkey Kong 64 Recompiled, human programmers are staking a claim on the craft of retro recompilation as a wave of AI-vibe-coded ports floods in — a look at how LLM-assisted coding is reshaping (and contesting) the workflow of bringing old games to PC."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/co-op/meccha-chameleon-awarded-steams-highest-honor-a-fast-follow-ai-ripoff-that-even-uses-the-same-name-in-some-regions/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "title": "Meccha Chameleon awarded Steam's highest honor: a fast-follow AI ripoff that even uses the same name in some regions",
+      "published_iso": "2026-07-13T16:24:39Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/y53ariz5jKVciNeguYEeg5-1920-80.jpg",
+      "excerpt": "A generative-AI 'fast-follow' clone of the co-op hit Scribble Hunt tops a Steam chart — even reusing the original's name in some regions — spotlighting how cheap AI content pipelines are accelerating storefront clone-flooding. Borderline culture/slop item; flagged for the curator to weigh against the two workflow picks."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 1,
+    "kept": 3,
     "against_days": 5
   }
 }

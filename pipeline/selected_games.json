@@ -1,23 +1,45 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "games",
   "selection_mode": "agent",
   "shortfall": true,
   "picks": [
     {
-      "url": "https://www.youtube.com/watch?v=4syKq_OrbGA",
-      "source": "NVIDIA Game Developer",
+      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "source": "Two Minute Papers",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Only fresh, uncovered, design x AI-relevant games item this window: a concrete on-device AI-NPC authoring workflow (NVIDIA ACE Game Agent SDK in UE5.7) that changes how studios build conversational characters. Verified not a content dup of the DLSS/DOOM NVIDIA card.",
-      "published_iso": "2026-06-30T22:42:13Z",
-      "og_image": "https://i.ytimg.com/vi/4syKq_OrbGA/maxresdefault.jpg",
-      "excerpt": "NVIDIA walks game developers through building on-device, low-latency AI-powered NPCs in Unreal Engine 5.7 using the NVIDIA ACE Game Agent SDK — distilling speech recognition, a small language model and text-to-speech into RTX-deployable characters. A concrete workflow shift for how studios author conversational NPCs."
+      "rationale": "Strongest pick: a real, installable generative-AI PCG tool. Terrain Diffusion is a diffusion-model Minecraft mod (shipping on Modrinth/GitHub) that generates richer terrain than hand-tuned noise — a concrete workflow a game's modders/designers can actually download and use. Distinct from the earlier JGS2 Two Minute Papers card (different video, different paper).",
+      "published_iso": "2026-07-12T15:48:43Z",
+      "og_image": "https://i.ytimg.com/vi/Ae9q7KsRbuI/maxresdefault.jpg",
+      "excerpt": "Two Minute Papers breaks down Terrain Diffusion — a diffusion-model mod (shipping on Modrinth/GitHub) that generates far richer, more varied Minecraft terrain than the game's hand-tuned noise system. A concrete example of generative AI as a real procedural-content-generation tool a game's modders/designers can actually install and use."
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
+      "source": "PC Gamer",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "Fresh trend analysis of how LLM-assisted 'vibe coding' is reshaping and contesting the craft of retro recompilation (e.g. Donkey Kong 64 Recompiled) as AI-vibe-coded ports flood in. Judged distinct from the 7/7 cnc-ios-vibeport C&C card: different URL, and a broader battleground/craft piece rather than that single iOS-port release.",
+      "published_iso": "2026-07-09T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/cnYqvbCpcTAgL4NMej8Ea3-1213-80.jpg",
+      "excerpt": "With projects like Donkey Kong 64 Recompiled, human programmers are staking a claim on the craft of retro recompilation as a wave of AI-vibe-coded ports floods in — a look at how LLM-assisted coding is reshaping (and contesting) the workflow of bringing old games to PC."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/co-op/meccha-chameleon-awarded-steams-highest-honor-a-fast-follow-ai-ripoff-that-even-uses-the-same-name-in-some-regions/",
+      "source": "GamesRadar+",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "Borderline culture/slop item taken to meet floor 3: a generative-AI 'fast-follow' clone of a co-op hit tops a Steam chart, spotlighting how cheap AI content pipelines accelerate storefront clone-flooding — a fresh, distinct story (no prior games-deck match) that credibly frames the ecosystem designers now ship into.",
+      "published_iso": "2026-07-13T16:24:39Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/y53ariz5jKVciNeguYEeg5-1920-80.jpg",
+      "excerpt": "A generative-AI 'fast-follow' clone of the co-op hit Scribble Hunt tops a Steam chart — even reusing the original's name in some regions — spotlighting how cheap AI content pipelines are accelerating storefront clone-flooding."
     }
   ],
   "dedup_notes": {
-    "note": "User deferred (agent pick). SHORTFALL: 1 pick, below the floor of 3. The games 14-day window is genuinely exhausted (0 fresh yesterday); the librarian's wide sweep surfaced exactly ONE fresh, distinct, uncovered, design x AI-relevant item. Verified NOT a content dup of any published games card (the only NVIDIA history item is the DLSS/DOOM card, a different story). Published the single valid fresh pick per orchestrator decision — not padded, no other fresh item exists.",
+    "note": "User deferred (agent pick). Floor 3 MET, but below the target of 5 — the games 14-day window remains genuinely depleted (yesterday shipped 1; the librarian's wide sweep surfaced only 3 fresh, uncovered, URL+content-deduped items). All 3 verified NOT content dups of any published games card: (1) Terrain Diffusion is a different video/paper than the JGS2 Two Minute Papers card (uO5cvkzh3P0); (2) the PC Gamer recompilation-battleground trend piece is a distinct story and URL from the 7/7 cnc-ios-vibeport C&C-iOS-port card — broader craft/trend analysis, not the same release; (3) Meccha Chameleon has no prior match. Diversity guard satisfied: 3 distinct outlets (Two Minute Papers, PC Gamer, GamesRadar+), no outlet >2. Not padded.",
     "dropped": []
   }
 }

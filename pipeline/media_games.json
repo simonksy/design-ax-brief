@@ -1,11 +1,22 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
+  "section": "games",
   "media": [
     {
-      "id": "ace-game-agent",
+      "id": "terrain-diffusion",
       "type": "video",
-      "src": "pipeline/media/ace-game-agent.mp4",
-      "poster": "pipeline/media/ace-game-agent.jpg"
+      "src": "pipeline/media/terrain-diffusion.mp4",
+      "poster": "pipeline/media/terrain-diffusion.jpg"
+    },
+    {
+      "id": "recomp-battleground",
+      "type": "image",
+      "src": "pipeline/media/recomp-battleground.jpg"
+    },
+    {
+      "id": "meccha-clone",
+      "type": "image",
+      "src": "pipeline/media/meccha-clone.jpg"
     }
   ]
 }

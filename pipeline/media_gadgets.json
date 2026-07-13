@@ -1,10 +1,11 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "gadgets",
   "media": [
-    { "id": "ms-terminal", "type": "image", "src": "pipeline/media/ms-terminal.png" },
-    { "id": "nokia-ai-button", "type": "image", "src": "pipeline/media/nokia-ai-button.jpg" },
-    { "id": "insta360-x6", "type": "image", "src": "pipeline/media/insta360-x6.jpg" },
-    { "id": "codex-macropad", "type": "image", "src": "pipeline/media/codex-macropad.jpg" }
+    { "id": "alexa-moonraker", "type": "image", "src": "pipeline/media/alexa-moonraker.jpg" },
+    { "id": "watch-illness-ai", "type": "image", "src": "pipeline/media/watch-illness-ai.jpg" },
+    { "id": "robert-robot", "type": "image", "src": "pipeline/media/robert-robot.jpg" },
+    { "id": "honor-robot-phone", "type": "image", "src": "pipeline/media/honor-robot-phone.jpg" },
+    { "id": "rollme-aircam", "type": "image", "src": "pipeline/media/rollme-aircam.jpg" }
   ]
 }

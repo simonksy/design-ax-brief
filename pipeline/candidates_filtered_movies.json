@@ -1,58 +1,40 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "section": "movies",
   "window_hours": 336,
-  "now_iso": "2026-07-12T23:49:40Z",
+  "now_iso": "2026-07-13T23:19:47Z",
   "items": [
     {
-      "url": "https://www.screendaily.com/news/tilly-norwood-creator-developing-feature-film-misaligned-starring-the-ai-actor/5218374.article",
-      "title": "Tilly Norwood creator developing feature film 'Misaligned' starring the AI actor",
-      "source": "Screen International",
+      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
+      "title": "NVIDIA 'Neural Rendering, World Models and Simulation' Keynote Set for SIGGRAPH 2026",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-07-07T08:36:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/0/8/1482808_unknown_2865_crop.jpeg",
-      "excerpt": "Particle 6, the UK company behind AI-generated actor Tilly Norwood, is developing 'Misaligned', its first feature to star the synthetic performer — a comedy-drama made on a hybrid model where directors, writers and editors work alongside AI specialists and traditional crew get AI training. A concrete look at how an AI-actor feature reshapes the production pipeline and the likeness debate."
+      "published_iso": "2026-07-13T12:00:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg?itok=M3jKoqZZ",
+      "excerpt": "NVIDIA Research and Engineering leaders Neil Ashton, Ming-Yu Liu and Edward Liu will present the sponsored keynote 'Next Era of Graphics - Neural Rendering, World Models, and Simulation' at SIGGRAPH 2026 on July 20. The talk spotlights breakthrough neural rendering techniques and AI-built world models/simulation reshaping the computer graphics and VFX pipelines filmmakers depend on."
     },
     {
-      "url": "https://80.lv/articles/blender-studio-announces-ambitious-feature-film-project",
-      "title": "Blender Studio Announces Ambitious Feature Film Project",
-      "source": "80 Level",
+      "url": "https://beforesandafters.com/2026/07/08/preview-the-computer-animation-festival-at-siggraph-in-this-stunning-trailer/",
+      "title": "Preview the Computer Animation Festival at SIGGRAPH in this stunning trailer",
+      "source": "befores & afters",
       "category": "movies",
-      "published_iso": "2026-07-08T10:56:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49164/images/6a4e2cf08b32c/contain_1200x630.jpg",
-      "excerpt": "Blender Studio unveils 'Overgrown', an open-source, artist-centric large-scale animated feature explicitly built without cloud services or generative AI — pitched as a craft-forward counter-model to AI production pipelines. Design×AI relevance is via contrast/positioning rather than an AI tool; include as a craft-shift angle if a stronger news item is missing."
+      "published_iso": "2026-07-07T22:34:04Z",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/07/Apart.jpg",
+      "excerpt": "befores & afters shares the trailer for the Academy Award-qualifying SIGGRAPH 2026 Computer Animation Festival, previewing the animated shorts, visual effects, scientific visualizations and digital storytelling - including Best in Show winner 'Apart' - that define the current state of CG/animation craft. A craft-showcase angle adjacent to the AI-heavy SIGGRAPH program."
     },
     {
-      "url": "https://www.youtube.com/watch?v=epJiVrv4KVQ",
-      "title": "Meta's FREE \"Banana Killer\" & My AI Video Tool (Also Free!)",
-      "source": "Theoretically Media",
+      "url": "https://www.youtube.com/watch?v=8d1UPMD4E3g",
+      "title": "Top 5 Secret A.I. Filmmaking Tools JULY 2026",
+      "source": "Simon Meyer",
       "category": "social",
-      "published_iso": "2026-07-08T19:28:07Z",
-      "og_image": "https://i.ytimg.com/vi/epJiVrv4KVQ/maxresdefault.jpg",
-      "excerpt": "Theoretically Media covers Meta's newly shipped free Muse Image model (positioned as a Nano-Banana rival) plus a free AI video tool, breaking down what the releases mean for AI filmmakers' toolkits. A fresh tool-news social item for the AI filmmaking workflow."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=m6FqbpbKCOg",
-      "title": "The Princess and the Serpent | Official Trailer (Senegalese AI Folk Tale)",
-      "source": "stephanai films",
-      "category": "social",
-      "published_iso": "2026-07-08T15:52:08Z",
-      "og_image": "https://i.ytimg.com/vi/m6FqbpbKCOg/maxresdefault.jpg",
-      "excerpt": "An AI-generated official trailer for a Senegalese folk-tale film, showcasing how independent creators use generative video to realize a culturally specific narrative and world at trailer polish. A creative-output social card demonstrating AI cinematic storytelling."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=7DNndcFhipI",
-      "title": "CLOSE TO SOURCE - An AI-Animated Near Death Experience",
-      "source": "stephanai films",
-      "category": "social",
-      "published_iso": "2026-07-01T09:37:43Z",
-      "og_image": "https://i.ytimg.com/vi/7DNndcFhipI/maxresdefault.jpg",
-      "excerpt": "An AI-animated short film depicting a near-death experience, an example of generative animation used for authored, mood-driven storytelling rather than tool demos. Second item from the same channel — keep only if a distinct creator is not needed."
+      "published_iso": "2026-07-09T16:05:54Z",
+      "og_image": "https://i.ytimg.com/vi/8d1UPMD4E3g/maxresdefault.jpg",
+      "excerpt": "AI filmmaker Simon Meyer rounds up five lesser-known AI filmmaking tools for July 2026, walking through how each slots into a practical shot-by-shot generative-video workflow - a creator-medium look at the current AI film toolchain."
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 5,
+    "dropped": 0,
+    "kept": 3,
     "against_days": 5
   }
 }
