@@ -1,68 +1,67 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "UBTech",
+      "tool": "Microsoft",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.techradar.com/ai-platforms-assistants/ubtech-just-introduced-its-first-full-size-ultra-bionic-humanoid-robot-but-what-it-really-wants-to-do-is-make-robot-replicas-of-loved-ones-thats-a-hard-no",
-      "source": "TechRadar",
-      "published_iso": "2026-07-01T18:47:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/yFDcQP3gPSFyKFwScoMhTB-1920-80.jpg",
-      "excerpt": "UBTech launched its first full-size Ultra-Bionic humanoid robot at a Shenzhen event, pushing an AI-driven consumer humanoid — with the company floating the unsettling ambition of making robot replicas of loved ones.",
-      "rationale": "A full-size consumer humanoid marks a concrete step in physical AI hardware and the embodiment questions designers of robot UX will grapple with next; novel launch from a credible outlet, distinct from every other pick's topic."
+      "url": "https://www.xda-developers.com/microsoft-new-intelligent-terminal-not-locked-running-local-llm/",
+      "source": "XDA Developers",
+      "published_iso": "2026-07-04T21:30:22Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-intelligent-terminal-feature-image.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Microsoft's experimental Intelligent Terminal for Windows isn't locked to Copilot — the writer got it running a local LLM in five minutes, and it also supports Claude Code, OpenAI Codex and Gemini agents, pointing at agentic, on-device AI on the desktop.",
+      "rationale": "Highest actionability — an open, agent-agnostic terminal running local LLMs plus Claude Code/Codex/Gemini directly reshapes a designer-developer's daily desktop workflow."
     },
     {
       "rank": 2,
-      "tool": "Solos",
+      "tool": "Nokia",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.digitaltrends.com/wearables/solos-latest-ai-glasses-are-getting-a-literal-privacy-mode/",
-      "source": "Digital Trends",
-      "published_iso": "2026-07-07T20:30:35Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/solos-AirGo-V2-Featured.jpg?resize=1200%2C720",
-      "excerpt": "Solos unveiled the camera-free AirGo A6 AI glasses plus an AirGo V2 Privacy Kit that physically covers the 16MP camera lens, keeping onboard AI voice assistant and live translation while addressing bystander privacy fears around always-on smart glasses.",
-      "rationale": "A physical privacy-mode kit reframes how wearable-AI designers can resolve the always-on capture vs. bystander-trust tension; fresh product news and a distinct take from the Meta privacy-LED cluster already published."
+      "url": "https://www.gsmarena.com/hmd_announces_four_new_nokia_feature_phones_with_ai-news-73560.php",
+      "source": "GSMArena",
+      "published_iso": "2026-07-03T11:51:03Z",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/-952x498w6/gsmarena_00.jpg",
+      "excerpt": "HMD's new retro Nokia feature phones (200/210/215/235 4G) add a dedicated AI button on the D-pad that summons an on-device Sikey AI assistant for voice queries, alarms, reminders and camera control — free for 180 days, then a small annual fee.",
+      "rationale": "Novel form-factor story — a dedicated hardware AI button on sub-$50 feature phones signals on-device assistants going mainstream far beyond flagship smartphones."
     },
     {
       "rank": 3,
-      "tool": "Sony",
-      "category": "gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "url": "https://www.digitaltrends.com/home-theater/sony-revives-the-rx10-with-ai-autofocus-4k-120fps-and-a-longer-lasting-battery/",
-      "source": "Digital Trends",
-      "published_iso": "2026-07-09T15:56:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Sony-RX10-V-featured-image.jpg?resize=1200%2C720",
-      "excerpt": "Sony revived its bridge camera line with the RX10 V, whose onboard BIONZ XR AI processor drives real-time recognition autofocus that automatically identifies birds and animals, alongside 4K/120fps capture and 30fps burst shooting.",
-      "rationale": "On-device AI recognition autofocus is directly actionable for creators shooting reference and product imagery; novel hardware release, distinct camera topic from the other picks."
-    },
-    {
-      "rank": 4,
-      "tool": "Kindle",
+      "tool": "Insta360",
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.engadget.com/2202142/kindle-app-features-ios-has-ereader-still-doesnt-have/",
-      "source": "Engadget",
-      "published_iso": "2026-06-27T15:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/intro-1782429214.jpg",
-      "excerpt": "Amazon brought AI reading tools to Kindle first via the iOS app — 'Ask this Book,' a spoiler-free chatbot that answers plot and character questions, and 'Story So Far,' which generates summaries tailored to your current reading position.",
-      "rationale": "Amazon shipping generative AI reading features (spoiler-free chatbot, position-aware summaries) is a concrete pattern designers of content apps can learn from; app-first rollout is fresh and a fourth distinct topic and outlet."
+      "url": "https://gizmodo.com/insta360s-next-action-cam-could-be-a-real-gopro-competitor-2000784303",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-10T21:00:59Z",
+      "og_image": "https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-05.jpg",
+      "excerpt": "Leaked images of Insta360's upcoming X6 show a more compact, GoPro-like action cam with 8K 360-degree capture and the company's AI subject tracking and reframing, expected to start around $800 as GoPro struggles.",
+      "rationale": "Freshest item and concrete AI-camera hardware — 8K 360 capture with AI reframing is directly relevant to creators shooting reference and content."
+    },
+    {
+      "rank": 4,
+      "tool": "OpenAI",
+      "category": "gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "url": "https://gizmodo.com/simon-says-buy-this-openai-mechanical-keyboard-thingy-2000779283",
+      "source": "Gizmodo",
+      "published_iso": "2026-06-30T02:34:48Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/06/openai-work-louder-1200x675.jpg",
+      "excerpt": "OpenAI teamed with Work Louder on a Codex-branded macro pad — an illuminated hardware device that turns Codex AI-agent commands into physical button presses, OpenAI's first tangible dev-focused gadget.",
+      "rationale": "Chosen over the 9to5Mac teaser as the more concrete product piece for the same Codex-hardware cluster — a shipping macro pad mapping AI-agent commands to physical keys."
     }
   ],
   "dedup_notes": {
-    "checked_against": "pipeline candidates already URL-deduped vs news_data.json history; content-dedup applied per orchestrator facts and verified against 7/10 gadgets picks",
-    "history_collisions": 1,
+    "checked_against": "pipeline candidates_filtered_gadgets.json already URL-deduped vs news_data.json history (dropped 0, kept 6); content-dedup applied per orchestrator facts",
     "collapsed_stories": [
-      "DROP (content dup): Digital Trends 'Meta will disable the camera on AI smart glasses if you tamper/cover the indicator light' — same Meta smart-glasses privacy-LED story as the 7/10 published card https://www.androidauthority.com/meta-testing-super-sensing-glasses-3685734/ (whose excerpt already covers switching off the privacy LED). Dropped https://www.digitaltrends.com/wearables/meta-will-disable-the-camera-on-ai-smart-glasses-if-you-tamper-or-cover-the-indicator-light/"
+      "COLLAPSE (content dup, same Codex-hardware cluster): kept Gizmodo 'OpenAI x Work Louder Codex macro pad' (concrete product) and DROPPED 9to5Mac 'OpenAI teases Codex-branded hardware' https://9to5mac.com/2026/06/29/openai-teases-codex-branded-hardware-collaboration-coming-heres-what-to-expect/ (teaser of the same collaboration)."
     ],
-    "shortfall": "4 picks. The 6-item pool yields 4 distinct fresh stories after dropping the Meta privacy-LED dup; the remaining item (Gizmodo 'best gadgets June 2026') is an evergreen roundup, deprioritized and not used since we are already above the floor of 3. Not padded.",
-    "diversity": "3 distinct outlets (TechRadar, Digital Trends x2, Engadget) — Digital Trends at the ≤2 cap after the Meta drop; four distinct topics (humanoid robot, AI smart glasses, AI camera, AI e-reader app); distinct accents assigned within the shared gadgets category."
+    "shortfall": "4 picks. The 6-item pool yields 4 distinct fresh stories after collapsing the Codex cluster (1 drop) and deprioritizing the Engadget DJI Osmo Pocket 4P (flagged weak AI hook). Above the floor of 3; not padded.",
+    "diversity": "3 distinct outlets (XDA Developers, GSMArena, Gizmodo x2 at the <=2 cap); four distinct topics (desktop AI terminal, AI feature phone, AI action cam, AI dev macro pad); distinct accents assigned within the shared gadgets category."
   }
 }

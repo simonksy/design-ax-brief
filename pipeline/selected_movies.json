@@ -1,51 +1,54 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "movies",
   "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
-      "source": "ProVideo Coalition",
-      "tool": "Premiere",
+      "url": "https://80.lv/articles/blender-studio-announces-ambitious-feature-film-project",
+      "source": "80 Level",
+      "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Strongest pick: a generative-AI capability landing natively in the NLE most of the industry already cuts in — prompt-to-video and prompt-to-SFX directly on the Premiere timeline, a real day-to-day editing/finishing change. Distinct from the already-published Premiere Color Mode card (that was tonal/UI; this is generative).",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-000965-gen-media-tool.jpg",
-      "excerpt": "Scott Simmons details Premiere's new (beta) Generative Media Tool, which lets editors create generative video and sound effects directly in the timeline by dragging across empty space or double-clicking to type a prompt — Adobe's continued generative-AI push inside the dominant NLE.",
+      "rationale": "Strongest pick and the only non-social item: Blender Studio's 'Overgrown' is a large-scale open-source animated feature built explicitly without cloud or generative AI — a craft-forward counter-model that sharpens the design x AI debate by contrast. Reputable outlet, concrete production news.",
+      "published_iso": "2026-07-08T10:56:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49164/images/6a4e2cf08b32c/contain_1200x630.jpg",
+      "excerpt": "Blender Studio unveils 'Overgrown', an open-source, artist-centric large-scale animated feature explicitly built without cloud services or generative AI — pitched as a craft-forward counter-model to AI production pipelines.",
       "category": "movies"
     },
     {
-      "url": "https://runwayml.com/news/introducing-runway-dev",
-      "source": "Runway",
-      "tool": "Runway",
-      "accent": "#f5a623",
+      "url": "https://www.youtube.com/watch?v=epJiVrv4KVQ",
+      "source": "Theoretically Media",
+      "tool": "Social",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "Infrastructure that reshapes how AI-film tools get built: one model-agnostic API to wire frontier image/video/audio/character models (Gen-4.5, Aleph 2.0, Act-Two, plus third-party Seedance, GPT Image 2, ElevenLabs) into bespoke filmmaking pipelines, swappable in one line. Chosen over Runway Seed Audio — same vendor, bigger story, keeping Runway to one pick.",
-      "published_iso": "2026-07-08T12:00:00Z",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/news/runway-dev-cover.jpg",
-      "excerpt": "Runway Dev is a new AI media platform for developers: a single API to integrate the best image, video, audio and real-time character models, giving access to Runway's frontier models (Gen-4.5, Aleph 2.0, Act-Two) alongside third-party models like Seedance, GPT Image 2 and ElevenLabs, swappable by changing one line of code.",
-      "category": "movies"
+      "rationale": "Most actionable social item: a hands-on breakdown of Meta's newly shipped free Muse Image model (a Nano-Banana rival) plus a free AI video tool — a direct, tool-news change to the AI filmmaker's toolkit this window.",
+      "published_iso": "2026-07-08T19:28:07Z",
+      "og_image": "https://i.ytimg.com/vi/epJiVrv4KVQ/maxresdefault.jpg",
+      "excerpt": "Theoretically Media covers Meta's newly shipped free Muse Image model (positioned as a Nano-Banana rival) plus a free AI video tool, breaking down what the releases mean for AI filmmakers' toolkits.",
+      "category": "social"
     },
     {
-      "url": "https://www.redsharknews.com/aiarty-video-enhancer-ai-upscaling-4k",
-      "source": "RedShark News",
-      "tool": "Aiarty",
-      "accent": "#7928ca",
+      "url": "https://www.youtube.com/watch?v=m6FqbpbKCOg",
+      "source": "stephanai films",
+      "tool": "Social",
+      "accent": "#3b6bff",
       "motif": "frame",
-      "rationale": "Included to round out the deck: a concrete AI post/restoration option — local, no-cloud upscaling that recovers texture lost to compression or old codecs, restoring low-res footage to 4K. Distinct vendor/product from the published Topaz/Adobe upscaling card, adding a local-processing alternative to the same craft problem.",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/AIVE%20header-image.jpg",
-      "excerpt": "An AI-powered video restoration tool that upscales low-resolution footage to 4K while reducing noise and reconstructing detail, with all processing running locally on the user's machine rather than in the cloud.",
-      "category": "movies"
+      "rationale": "Fresh creative-output card from a distinct creator: a trailer-polish AI-generated trailer for a Senegalese folk-tale film, showing independent creators using generative video to realize a culturally specific narrative and world. Chosen over this channel's older 'Close to Source' short — newer and the stronger, more distinct piece; kept to one video per channel.",
+      "published_iso": "2026-07-08T15:52:08Z",
+      "og_image": "https://i.ytimg.com/vi/m6FqbpbKCOg/maxresdefault.jpg",
+      "excerpt": "An AI-generated official trailer for a Senegalese folk-tale film, showcasing how independent creators use generative video to realize a culturally specific narrative and world at trailer polish.",
+      "category": "social"
     }
   ],
   "dedup_notes": {
     "dropped_as_duplicates": [
-      "runway-seed-audio (Runway) — same outlet as the kept Runway Dev card and a weaker standalone (thin changelog entry, no dedicated article page). Per the at-most-one-Runway rule, dropped in favor of the bigger Runway Dev platform story."
+      "screendaily.com 'Tilly Norwood creator developing feature Misaligned' — CONTENT duplicate of the already-published 2026-07-07 tilly-misaligned card (Variety). Same event/release, different outlet. Dropped per earliest-wins."
     ],
-    "history_checked": "candidates_filtered_movies.json is already URL-deduped vs the last 5 days of movies history. Content-checked the two flagged clusters against the published 7/10 deck: Aiarty Video Enhancer overlaps the Adobe/Topaz upscaling theme but is a DISTINCT vendor/product (local processing) — kept; Adobe Premiere Generative Media Tool is DISTINCT from the published Premiere Color Mode card (generative vs color grading) — kept. No URL or content duplication with published cards.",
-    "diversity": "outlets: provideocoalition.com x1, runwayml.com x1, redsharknews.com x1 — 3 distinct outlets, max 1 per outlet, within the <=2 guard. All share the single 'movies' category (section is single-category), so distinct accents assigned per pick.",
-    "shortfall": "3 picks vs the cap of 5. The fresh pool held only 4 items and two of those were same-vendor Runway product posts (one kept). After deduping to distinct stories, 3 genuinely fresh, design-relevant items remain. Floor of 3 met — not padded."
+    "dropped_within_pool": [
+      "youtube.com/watch?v=7DNndcFhipI 'CLOSE TO SOURCE' (stephanai films) — second video from the same channel and older (2026-07-01). Preferred a distinct creator/angle and kept only the stronger, fresher stephanai trailer; not padded as a weak second pick."
+    ],
+    "history_checked": "candidates_filtered_movies.json is already URL-deduped vs the last 5 days of movies history. Applied the flagged content-dedup: Tilly Norwood/Misaligned == published tilly-misaligned (dropped). Blender, Theoretically Media, and the stephanai trailer have no URL or content overlap with published movies cards.",
+    "diversity": "outlets: 80.lv x1, youtube.com x2 (Theoretically Media, stephanai films — distinct channels) — within the <=2-per-domain guard; 3 distinct sources. categories: movies x1, social x2 (<=2 guard). social picks share a category, so distinct accents assigned (#ff2d55, #3b6bff).",
+    "shortfall": "3 picks vs the cap of 5. After dropping the Tilly content-dup and the redundant second stephanai video, only 3 genuinely fresh, worthwhile items remain in a soft/social window. Floor of 3 met — not padded with the weak second stephanai short."
   }
 }

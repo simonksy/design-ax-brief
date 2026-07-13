@@ -1,44 +1,44 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "books",
-  "now_iso": "2026-07-10T23:12:40Z",
+  "now_iso": "2026-07-12T23:49:40Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
-      "source": "Publishers Weekly",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/30/guest-post-now-is-the-time-for-ai-in-peer-review-and-publishing-policies-need-to-recognize-this/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-06-30T13:30:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/03/iStock-2114984318.jpg",
+      "excerpt": "Elena Vicario argues scholarly-publishing policies must formally embrace AI in peer review to cope with research misconduct at scale: 'if AI is part of the problem, it also has to be part of the answer.' A concrete call to rewire the editorial/peer-review workflow around AI-supported reviewer tools.",
+      "note": "AI reshaping the publishing/editorial workflow (peer review). On-list (scholarlykitchen.sspnet.org). Published 2026-06-30; FRESH (~13 days). Not in books history."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/07/there-is-no-single-model-for-innovation-new-technologies-new-challenge/",
+      "source": "Publishing Perspectives",
       "category": "books",
       "published_iso": "2026-07-10T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6299-793x595.jpeg",
+      "excerpt": "At the IPA Congress in Malaysia, Asian publishers described how AI is transforming their markets in divergent ways -- 'there is no single model for innovation' as each ecosystem adapts generative tools to local reader needs and production realities.",
+      "note": "On-list. Published 2026-07-10; FRESH. Distinct session/angle (Asian-market AI adaptation) from the already-covered IPA Congress (7/8) and IPA Innovation Award (7/9) cards -- flagging the overlap for the curator; keep only if genuinely distinct."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=je-MwvQaJ0Y",
+      "source": "AI Tool Box (YouTube)",
+      "category": "books",
+      "published_iso": "2026-07-06T03:43:48Z",
+      "og_image": "https://i.ytimg.com/vi/je-MwvQaJ0Y/maxresdefault.jpg",
+      "excerpt": "Hands-on review of 'Steamy Co-Author,' an AI writing-assistant aimed at romance/genre novelists, walking through how the tool drafts and expands scenes in the author's voice. A snapshot of the AI co-writing-tool niche for indie fiction authors.",
+      "note": "Social (YouTube). uploadDate 2026-07-05T20:43:48-07:00 = 2026-07-06T03:43:48Z via watch-page JSON-LD; FRESH. Design/craft-relevant (AI co-writing tool) but low-authority affiliate-review channel -- weak; curator may drop for quality."
+    },
+    {
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/02/333741/audiobook-reading-in-australia-report-released/",
+      "source": "Books+Publishing",
+      "category": "books",
+      "published_iso": "2026-07-02T00:00:00Z",
       "og_image": "",
-      "excerpt": "Three AI-driven startups (Spain's Alighieria with Publisher OS, Germany's Lit-X, and New Zealand's Narrative Muse) are pitching publishers on data-analytics tools that target different parts of the acquisition and marketing pipeline, promising data can inform decisions long driven by instinct without replacing editorial judgment.",
-      "note": "Concrete new AI tools reshaping the acquisition/marketing workflow for publishers. Published 2026-07-10; FRESH. Not in books history."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-10T09:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "Take-a-Break's Fiction Feast magazine has told regular story contributors that 'AI tools will be used' on future in-house-created stories, signaling how a mass-market short-fiction outlet is changing the way it produces content.",
-      "note": "Creative-AI workflow shift at a fiction publisher. Published 2026-07-10; FRESH. Not in history."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-09T10:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
-      "excerpt": "Audiobook publisher Bolinda used interviews, archival research and human expertise to build an AI-generated voice replicating the late romance author Barbara Cartland, reviving a deceased author's distinctive narration for new audiobook editions.",
-      "note": "AI voice-cloning applied to audiobook narration craft. Distinct from the 7/7 Michael Caine/ElevenLabs story. Published 2026-07-09; FRESH."
-    },
-    {
-      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-07-08T14:00:00Z",
-      "og_image": "",
-      "excerpt": "A user discovered that text pasted from Claude into Archive of Our Own retains hidden markup flagging AI involvement, exposing popular fanfiction stories as AI-assisted despite anti-AI tags and dismaying the fan-writing community.",
-      "note": "Creative-writing craft/community shift around AI-assisted fiction and detectability. Published 2026-07-08; FRESH. Distinct outlet for source diversity."
+      "excerpt": "A new ANU report by Millicent Weber surveying 503 Australian and 500 German audiobook listeners finds 17.4% have already tried AI narration or text-to-speech, quantifying how fast synthetic narration is entering everyday listening.",
+      "note": "OFF-LIST (booksandpublishing.com.au) included under the off-list exception: on-list sources had no fresh coverage of this AI-narration adoption data. Published 2026-07-02; FRESH. Marginal design relevance (consumption-side AI narration); curator may drop. Paywalled body, date from article URL/header."
     }
   ]
 }

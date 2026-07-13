@@ -1,26 +1,21 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "books",
   "media": [
     {
-      "id": "pub-data-edge",
+      "id": "ipa-emerging-ai",
       "type": "image",
-      "src": "pipeline/media/pub-data-edge.png"
+      "src": "pipeline/media/ipa-emerging-ai.jpeg"
     },
     {
-      "id": "ao3-ai-markup",
-      "type": "image",
-      "src": "pipeline/media/ao3-ai-markup.png"
+      "id": "anu-audiobook",
+      "type": "svg"
     },
     {
-      "id": "cartland-clone",
-      "type": "image",
-      "src": "pipeline/media/cartland-clone.jpg"
-    },
-    {
-      "id": "fiction-feast-ai",
-      "type": "image",
-      "src": "pipeline/media/fiction-feast-ai.jpg"
+      "id": "steamy-coauthor",
+      "type": "video",
+      "src": "pipeline/media/steamy-coauthor.mp4",
+      "poster": "pipeline/media/steamy-coauthor.jpg"
     }
   ]
 }

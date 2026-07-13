@@ -1,14 +1,14 @@
 {
   "cards": [
     {
-      "id": "ubtech-u1",
+      "id": "ms-terminal",
       "eyebrow": "AI NEWS",
-      "headline": "UBTech 첫 실물 크기 휴머노이드\n떠난 이를 로봇으로 되살린다는 야심",
-      "body": "UBTech가 첫 실물 크기 휴머노이드 U1을 내놓으며 떠난 가족을 빼닮은 로봇까지 만들겠다고 밝혔다.",
-      "mini_headline": "UBTech 휴머노이드 U1",
-      "tool": "UBTech",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/ai-platforms-assistants/ubtech-just-introduced-its-first-full-size-ultra-bionic-humanoid-robot-but-what-it-really-wants-to-do-is-make-robot-replicas-of-loved-ones-thats-a-hard-no",
+      "headline": "Copilot에 안 묶이는 터미널\n로컬 LLM에 클로드 코드까지",
+      "body": "마이크로소프트 인텔리전트 터미널이 로컬 LLM과 클로드 코드·코덱스·제미나이를 그대로 돌린다.",
+      "mini_headline": "MS 인텔리전트 터미널",
+      "tool": "Microsoft",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/microsoft-new-intelligent-terminal-not-locked-running-local-llm/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -16,64 +16,64 @@
         "blocks": [
           {
             "t": "p",
-            "x": "중국-베트남 국경을 순찰하는 휴머노이드로 이름을 알린 UBTech가 이번엔 가장 섬뜩한 물건을 들고 나왔다. 첫 양산형 실물 크기 '울트라 바이오닉 휴머노이드' UWorld U1이다."
+            "x": "마이크로소프트가 Build 2026에서 공개한 실험용 '인텔리전트 터미널'은 윈도우 터미널을 갈래친 별도 앱이다. 기존 터미널을 대체하지 않고 따로 설치되며, 원하는 사람만 골라 쓰는 옵트인 방식이다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/gREUsk6DXP8X9RFAsEP6TB.jpg"
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-intelligent-terminal-1.png"
           },
           {
             "t": "p",
-            "x": "UWorld U1 시리즈는 UBTech에게 방향을 튼 제품에 가깝다. 그동안은 얼굴 없는 기업용·국경용 로봇을 주로 만들었지만, 소비자 시장을 향한 야심은 오래전부터 품어 왔다."
+            "x": "눈길을 끄는 대목은 이 터미널이 코파일럿에 묶여 있지 않다는 점이다. 기본 에이전트는 깃허브 코파일럿이지만, 클로드 코드와 오픈AI 코덱스, 구글 제미나이, Pi까지 나란히 붙일 수 있다."
           },
           {
             "t": "p",
-            "x": "실리콘 피부에 시선을 따라 움직이는 눈, 깜빡이는 속눈썹, 온몸에 걸친 88개의 자유도를 갖췄다. 회사가 '이중 축 생체모방 경추'라 부르는 구조도 얹어 움직임을 사람에 더 가깝게 다듬었다고 한다."
+            "x": "필자는 오픈소스 Pi에 로컬 모델 Qwen 3.6 27B를 연결하는 데 5분이면 충분했다. Computex 시연에서는 Qwen 3.6 35B-A3B로도 돌려 봤다. 클라우드 없이 데스크톱에서 도는 에이전트형 AI가 눈앞에 온 셈이다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-intelligent-terminal-3.png"
           },
           {
             "t": "p",
-            "x": "UBTech는 이번 주 중국 선전에서 성대한 행사를 열고 로봇을 선보였다. 반신형 U1 Lite, 전신 고성능 U1 Pro, 전신 고기동 U1 Ultra까지 세 모델이 나왔다."
-          },
-          {
-            "t": "video",
-            "yt": "90J5I8woxyo"
+            "x": "구조는 에이전트 클라이언트 프로토콜(ACP) 위에 얹혔다. stdio를 거쳐 JSON-RPC 2.0으로 주고받는 방식이라, 어떤 에이전트든 같은 규격으로 갈아 끼운다."
           },
           {
             "t": "p",
-            "x": "6월 30일 공개 무대에는 여러 대의 U1 Ultra가 실제 사람들과 뒤섞여 걸어 나왔다. 관객이 사람과 로봇을 헷갈리게 하려는 의도였겠지만, 정작 로봇들은 하나같이 조금 플라스틱 같았고 걸음도 어딘가 어색했다."
+            "x": "UI에도 손이 갔다. 화면 아래에는 에이전트 상태 표시줄이 늘 떠 있고, Ctrl+Shift+.로 여닫는 도킹 패널이 붙는다. Ctrl+Shift+/로는 세션을 한눈에 관리하고, 명령 팔레트에 접두어를 붙여 곧장 프롬프트를 던질 수도 있다."
           },
           {
             "t": "p",
-            "x": "U1에는 '감정 인식 LLM'이 들어가 미세한 감정 상태를 읽고 반응한다고 회사는 설명한다. 사람의 말에 1초도 안 되는 사이에 응답하는 능동형 동반자를 노린 셈이다."
+            "x": "명령이 어긋나면 터미널이 먼저 알아챈다. 윈도우에 없는 리눅스 편집기 'nano'를 입력하자, 에이전트는 상황을 짚어 내고 WinGet·Chocolatey·Scoop 설치나 메모장·VS Code 같은 대안을 제시했다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-intelligent-terminal-6.png"
           },
           {
             "t": "p",
-            "x": "UBTech는 홀로 사는 성인 9천만 명, 자녀가 떠난 노인 1억 1,800만 명에 이르는 중국의 현실을 겨냥했다고 밝혔다. 2026년에는 이 로봇 100대를 기부하겠다고도 했다."
+            "x": "방식 선택에는 의도가 읽힌다. 마이크로소프트는 이 기능을 메인 터미널에 밀어 넣는 대신 별도 앱으로 떼어 놨다. 2025년 그림판과 메모장에 코파일럿을 밀어붙였다가 이듬해 K2 품질 정비로 되돌린 전례를 의식한 흐름이다."
           },
           {
             "t": "p",
-            "x": "여기서 이야기가 기묘해진다. UBTech는 이렇게 말한다. \"이 유닛은 3D 안면 재구성과 성문 기반 신원 복제 기술을 넣어 지정한 인물을 재현하고, 감정 기반 상호작용 모델과 전용 장기 기억 시스템을 결합한다.\""
+            "x": "에이전트는 셸 명령 실행, 스스로 진단하고 고치기, 다른 AI 서비스로 위임, 단순 대화까지 네 갈래로 움직인다. 버전은 0.1, 일부러 단출하게 시작했다."
           },
           {
             "t": "p",
-            "x": "떠난 배우자든 멀리 사는 자녀든, 원하는 사람의 얼굴과 목소리를 빼닮은 맞춤형 U1 Ultra를 만들겠다는 뜻이다. 다만 그 차가운 실리콘과 어색한 걸음이 곁을 떠난 이의 빈자리를 대신하긴 어려워 보인다."
-          },
-          {
-            "t": "p",
-            "x": "관심이 있다면 중국으로 건너가 약 1만 8,000달러(약 £13,570 / AU$26,120)를 치러야 한다. 출시는 올해 안이다."
+            "x": "개방적인 태도를 두고는 회의적인 시선도 있다. 마이크로소프트에 자체 클라우드 모델이 마땅치 않아 문을 열어 둔 것일 뿐, 사정이 바뀌면 빗장을 다시 걸 수 있다는 지적이다."
           }
         ]
       }
     },
     {
-      "id": "solos-airgo",
+      "id": "nokia-ai-button",
       "eyebrow": "AI NEWS",
-      "headline": "카메라를 물리적으로 가리는\nSolos AI 안경 프라이버시 키트",
-      "body": "Solos가 AirGo V2 렌즈를 물리적으로 덮는 프라이버시 키트를 선보이며 상시 촬영 우려를 정면으로 다뤘다.",
-      "mini_headline": "Solos 프라이버시 키트",
-      "tool": "Solos",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/wearables/solos-latest-ai-glasses-are-getting-a-literal-privacy-mode/",
+      "headline": "D패드에 AI 버튼을 단\n노키아 피처폰 네 종",
+      "body": "HMD가 새 노키아 피처폰 네 종의 D패드에 AI 버튼을 넣어 온디바이스 시키 AI 비서를 불러온다.",
+      "mini_headline": "노키아 피처폰 AI 버튼",
+      "tool": "Nokia",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/hmd_announces_four_new_nokia_feature_phones_with_ai-news-73560.php",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -81,97 +81,52 @@
         "blocks": [
           {
             "t": "p",
-            "x": "AI 스마트 안경에는 신뢰라는 숙제가 있다. 녹화 중이 아니어도 얼굴에 카메라를 걸친 사람이 곁에 있으면 주변은 불편해진다. Solos가 내놓은 답은 또 하나의 깜빡이는 LED나 소프트웨어 스위치가 아니라, 한 조각의 플라스틱이다."
+            "x": "HMD가 피처폰을 놓지 않았다. 새로 내놓은 노키아 200 4G, 210 4G, 215 4G 2세대, 235 4G 2세대는 시대에 발을 맞춰 D패드 한가운데에 AI 버튼을 달았다."
           },
           {
             "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/07/solos-AirGo-V2-Featured.jpg?resize=1200%2C720"
+            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_001.jpg"
           },
           {
             "t": "p",
-            "x": "회사는 프라이버시에 초점을 둔 두 가지를 공개했다. 카메라를 아예 뺀 AirGo A6, 그리고 원할 때 카메라를 물리적으로 막아 주는 AirGo V2용 프라이버시 키트다."
+            "x": "이 버튼을 누르면 온디바이스 AI 비서가 뜬다. 시키 AI가 돌리며, 기본적인 질문에 답하고 음성으로 기기 기능을 다룬다. HMD 사양 페이지에 따르면 \"AI 비서는 첫 180일 동안 무료지만 이후에는 유료 구독이 필요하다.\" 재미있게도 그 구독을 사려면 진짜 스마트폰이 있어야 한다."
           },
           {
             "t": "p",
-            "x": "시장에 나온 여느 AI 안경과 달리 AirGo A6에는 카메라가 없다. 대신 Solos는 편안함과 프라이버시, 익숙한 안경 디자인을 앞세운 가벼운 일상용 안경으로 방향을 잡았다. 카메라만 없을 뿐 내장 마이크와 스피커로 음성 비서와 번역, 알림 같은 AI 기능은 그대로 쓴다."
+            "x": "네 모델 모두 VGA 카메라를 품고 Xpress 영상 채팅도 지원한다."
           },
           {
             "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/07/solos-AirGo-A6.jpg?resize=1800%2C1080"
+            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_007.jpg"
           },
           {
             "t": "p",
-            "x": "카메라가 완전히 사라진 건 아니다. Solos는 AirGo V2도 299달러부터 전 세계에 내놨다. 1,600만 화소 카메라로 2K 영상을 담고, 모듈형 프레임과 최대 12시간 배터리를 갖춘 시각형 AI 안경의 주력 모델이다."
+            "x": "화면은 조금씩 다르다. 노키아 210 4G와 215 4G는 2.4인치 QVGA를, 215와 235는 같은 해상도의 2.8인치 IPS 패널을 얹었다. 210 4G와 235 4G에는 후면 카메라가 붙고, 235는 2MP 센서를 담았다."
           },
           {
             "t": "p",
-            "x": "웨어러블 카메라를 둘러싼 우려에는 프라이버시 키트로 답한다. 소프트웨어 표시등이나 녹화등에 기대는 대신, 렌즈를 직접 덮어 카메라가 아무것도 보지 못한다는 사실을 곁에 있는 누구나 한눈에 알아채게 한다."
+            "x": "네 대 모두 S30+ 운영체제로 켜지고 1,450mAh 배터리를 쓴다. 블루투스 5.0과 3.5mm 이어폰 잭, FM 라디오, USB-C 충전도 갖췄다."
           },
           {
             "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/07/solos-AirGo-V2-Privacy-Kit.jpg?resize=1800%2C1080"
+            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_003.jpg"
           },
           {
             "t": "p",
-            "x": "AI가 안은 가장 큰 인식의 문제에 내놓은, 의외로 단순한 해법이다. 스마트 안경이 흔해질수록 나는 찍히지 않는다고 주변을 안심시키는 일은 안경을 살 사람을 설득하는 일만큼 중요해진다. 떼었다 붙이는 플라스틱 덮개가 미래적으로 들리진 않아도, 지금껏 본 AI 웨어러블 기능 중 가장 실용적일지 모른다."
+            "x": "가격과 출시 시점은 아직 밝히지 않았다."
           }
         ]
       }
     },
     {
-      "id": "sony-rx10v",
+      "id": "insta360-x6",
       "eyebrow": "AI NEWS",
-      "headline": "온디바이스 AI 인식 오토포커스\n소니 RX10 V로 되살아난 브리지 카메라",
-      "body": "소니가 온디바이스 AI로 새와 동물을 실시간 인식하는 오토포커스를 얹어 RX10 V 브리지 카메라를 되살렸다.",
-      "mini_headline": "소니 RX10 V AI 초점",
-      "tool": "Sony",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/home-theater/sony-revives-the-rx10-with-ai-autofocus-4k-120fps-and-a-longer-lasting-battery/",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "소니가 가장 사랑받던 올인원 카메라를 되살렸다. 이번엔 전문가용 알파 미러리스 라인에서 가져온 오토포커스 AI를 얹었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/07/Sony-RX10-V-featured-image.jpg?resize=1200%2C720"
-          },
-          {
-            "t": "p",
-            "x": "이전 세대를 좋게 만든 요소는 그대로다. 24mm에서 600mm를 F2.4~4.0으로 아우르는 ZEISS 바리오-조나 T* 렌즈, 1.0형 적층 센서, 그리고 콤팩트한 몸체가 남았다."
-          },
-          {
-            "t": "p",
-            "x": "그렇다면 RX10 V에서 정말 새로운 건 무엇인가. 온디바이스 BIONZ XR AI 프로세서가 돌리는 실시간 인식 AF다. 사람과 동물, 새, 곤충, 자동차, 기차, 비행기를 알아서 가려내며 실제 상황에서 카메라가 반응하는 방식을 바꾼다."
-          },
-          {
-            "t": "p",
-            "x": "블랙아웃 없는 초당 30장 연사와 초당 60회 AF/AE 연산이 더해지면서, 방향을 트는 백로를 비행 도중에 따라잡는 RX10은 이번이 처음이다."
-          },
-          {
-            "t": "p",
-            "x": "영상도 크게 뛰었다. RX10 IV가 4K 30fps에서 멈췄다면 RX10 V는 4K를 120fps로 담는다(화각은 다소 좁아진다). 배터리는 이전 모델보다 50% 늘어 NP-FZ100으로 약 630장을 찍는다. 368만 도트의 새 쿼드-VGA OLED 뷰파인더도 직사광 아래에서 구도를 또렷하게 잡아 준다."
-          },
-          {
-            "t": "p",
-            "x": "다만 가격은 2,299달러다. 1,699.99달러였던 RX10 IV보다 확실히 올랐다. 야생과 조류, 스포츠, 여행을 찍으면서 렌즈를 갈아 끼우지 않고 한 몸체로 전 구간을 담고 싶다면, 미러리스 조합이 내놓지 못하는 값이다. 미국 출시는 2026년 8월이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "kindle-ask-book",
-      "eyebrow": "AI NEWS",
-      "headline": "책에 직접 물어보는 킨들 AI\niOS 앱에 먼저 온 '이 책에 묻기'",
-      "body": "아마존이 iOS 킨들 앱에 스포일러 없이 줄거리를 답하는 '이 책에 묻기' 챗봇과 현재 위치 맞춤 요약을 먼저 넣었다.",
-      "mini_headline": "킨들 '이 책에 묻기'",
-      "tool": "Kindle",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2202142/kindle-app-features-ios-has-ereader-still-doesnt-have/",
+      "headline": "고프로 닮은 8K 360 캠\n인스타360 X6 이미지 유출",
+      "body": "인스타360 X6 유출 이미지가 고프로를 닮은 콤팩트한 몸체와 8K 360도 촬영을 예고했다.",
+      "mini_headline": "인스타360 X6 유출",
+      "tool": "Insta360",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/insta360s-next-action-cam-could-be-a-real-gopro-competitor-2000784303",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -179,47 +134,72 @@
         "blocks": [
           {
             "t": "p",
-            "x": "아마존이 킨들 독서 경험에 AI를 본격적으로 들이고 있다. 2026년 6월 공식 발표한 이 기능들을 회사는 '책에 더 몰입하도록 돕는' 장치라고 소개한다. 스포일러 없는 요약과 맥락을 짚어 주는 AI 비서가 핵심이다."
+            "x": "액션캠 시장에서 고프로는 오래도록 높은 자리를 지켜 왔다. 경쟁자 인스타360도 발판을 다져 왔는데, 곧 나올 X6가 그 격차를 좁힐지 모른다."
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/intro-1782429214.jpg"
+            "src": "https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-05.jpg"
           },
           {
             "t": "p",
-            "x": "다만 모두가 누리진 못한다. 요약 기능은 비교적 최신 킨들과 미국 iOS 이용자에게 먼저 열렸고, '이 책에 묻기' 챗봇은 당분간 미국판 iOS 킨들 앱에서만 쓴다. 킨들 기기와 안드로이드 앱은 2026년 말까지 순차로 받는다. 새 기능은 2024년 이후 나온 킨들에만 들어간다."
+            "x": "오늘 카메라 유출자 Mauro Tandoi를 통해 인스타360 X6의 이미지가 새로 돌았다. 새 카메라의 인증 서류가 온라인에 포착된 지 며칠 만이다. WinFuture가 전한 유출 이미지 속 X6는 X5보다 한결 작아진 몸체에, 여느 액션캠에 가까운 실루엣을 하고 있다. 인스타360의 이전 제품들보다 고프로를 더 닮은 모습이다. 물론 앞뒤 어안 렌즈 뒤에 센서 두 개를 두고 설정용 상태 표시창을 얹은 건 여전히 인스타360답다."
+          },
+          {
+            "t": "p",
+            "x": "유출 사양은 꽤 묵직하다. 360 모드에서 8K 해상도를 최대 초당 50프레임으로 담는다고 한다. 초당 30프레임에 머물던 X5와 견주면 큰 폭이다."
+          },
+          {
+            "t": "p",
+            "x": "다만 2026년답게 값도 올랐다. WinFuture에 따르면 유통가는 X6 본체가 약 800달러부터 시작하고, 정체 모를 액세서리를 묶은 '에센셜 번들'은 여기에 100달러쯤 더 붙는다고 전한다. 카메라 부품값을 생각하면 납득이 가고, 크기를 줄이면 값이 오르는 경우도 흔하다."
+          },
+          {
+            "t": "p",
+            "x": "출시일은 아직 없지만 시점은 절묘할 수 있다. 고프로가 이번 주 초 파산 신청을 내며 궁지에 몰렸기 때문이다. 고프로 CEO 니컬러스 우드먼은 회사를 당분간 버티게 하려고 자사주 2천만 달러어치를 사들였다고 전해진다. 그는 적절한 인수자가 나선다면 매각이나 합병에도 열려 있다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "800달러라면 보통 소비자에게 만만한 값은 아니다. 그래도 고프로가 사라진 자리라면 액션캠을 살 사람들에게 X6는 한층 매력적인 선택이 된다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "codex-macropad",
+      "eyebrow": "AI NEWS",
+      "headline": "코덱스 단축키를 버튼으로\n오픈AI × 워크라우더 매크로패드",
+      "body": "오픈AI가 워크라우더와 함께 코덱스 단축키를 물리 버튼으로 바꾸는 발광 매크로패드를 선보인다.",
+      "mini_headline": "코덱스 매크로패드",
+      "tool": "OpenAI",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/simon-says-buy-this-openai-mechanical-keyboard-thingy-2000779283",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "오픈AI와 기계식 키보드 업체 워크라우더가 뭔가를 함께 만든다. 오픈AI Developers X 계정 게시물을 근거로 하며, 공개는 7월 15일이다. 예고 문구는 이렇게 적었다. \"당신이 아끼는 코덱스 단축키가 한 단계 올라갑니다.\""
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/previously-on-kindle-1782429215.jpg"
+            "src": "https://gizmodo.com/app/uploads/2026/06/openai-work-louder.jpg"
           },
           {
             "t": "p",
-            "x": "'다음 화 미리보기'처럼 만든 리캡스는 시리즈 이전 권의 줄거리와 인물 전개를 빠르게 되짚어 준다. 여기에 새로 붙은 '스토리 소 파'는 지금 읽고 있는 위치에 맞춰 스포일러 없는 요약을 내준다. 물론 모든 책이 대상은 아니다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/your-new-ai-reading-assistant-1782429216.jpg"
+            "x": "코딩과 기계식 키보드라는 두 취향은 자연스레 맞물린다. 오픈AI가 내놓을 물건은 흔히 쓰는 코덱스 단축키를 버튼 하나로 바꾸고 조명 효과까지 얹은 기기로 보인다. 겉모습은 워크라우더 매크로패드를 손본 형태에 가깝다. Gizmodo가 2023년에 추천했던 그 제품이고, 피그마도 2023년 말 워크라우더 맞춤 매크로패드를 낸 적이 있다."
           },
           {
             "t": "p",
-            "x": "'이 책에 묻기'는 줄거리와 인물 관계, 주제를 읽는 흐름을 끊지 않고 바로 답하는 챗봇이다. 답은 지금 읽는 위치에 맞춰지지만, 책 전체를 두고 물어볼 수도 있다. 문장을 하이라이트해 그 대목만 콕 집어 질문하는 것도 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/a-controversial-new-feature-1782429217.jpg"
+            "x": "매크로패드는 책상에 올려 두는 작고 자유로운 입력 장치다. 일반 키보드보다 눈이 즐거운 몸체에서 키 입력과 노브 조작을 처리한다."
           },
           {
             "t": "p",
-            "x": "논란도 따라붙었다. 작가조합은 아마존이 저작권자의 사전 허락 없이 작품을 챗봇에 넣었다고 비판한다. 아마존은 '이 책에 묻기'가 책 내용을 프롬프트로만 쓸 뿐 모델 학습에는 쓰지 않으며, 이미 있는 검색 기능의 자연어 확장이라 별도 라이선스가 필요 없다고 반박했다."
-          },
-          {
-            "t": "p",
-            "x": "지금으로선 작가와 출판사가 자기 책을 챗봇에서 뺄 방법이 없다. 아마존은 '일관된 독서 경험'을 위해 빼는 선택지를 두지 않았다고 밝혔다. 전자책 시장의 약 4분의 3을 쥔 아마존 앞에서 반대할 여지는 더 좁다. 작가조합은 이 기능이 AI 기능 라이선스의 위험한 선례가 된다고 말한다."
+            "x": "딸깍이는 소리와 깜빡이는 불빛 같은 감각 피드백은 실수를 줄이고 일의 효율을 높이기도 한다. 물론 그저 업무를 게임 'Simon'처럼 만들고 싶은 사람도 있다."
           }
         ]
       }
     }
   ],
-  "date": "2026-07-11"
+  "date": "2026-07-13"
 }

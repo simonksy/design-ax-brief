@@ -1,62 +1,62 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "movies",
-  "now_iso": "2026-07-10T23:12:40Z",
   "window_hours": 336,
-  "run_notes": "HEAVILY PICKED-OVER SECTION + PENSKE PAYWALL. Ran the full movies keyword plan (all 26 working keywords, ~37 queries) across the non-Penske allowed_domains (nofilmschool, redsharknews, provideocoalition, beforesandafters, fxguide, awn, animationmagazine, cartoonbrew, 80.lv, definitionmagazine, postperspective, studiodaily, screendaily, theasc, motionographer, vfxvoice) plus vendor blogs (runwayml, lumalabs, openai) and YouTube social. Penske trades (variety/deadline/hollywoodreporter/indiewire) confirmed 402/tollbit on WebFetch this run, and every fresh Penske item surfaced by search was either ALREADY PUBLISHED (per news_data.json: seedance25, topaz-adobe, premiere-color, foster-f1, kviff, tilly, keitel, soulm8te, mj-discovery, a24-deepmind, hasbro, switchhdr, etc.) or failed relevance. Extensive date-verification via WebFetch killed most candidates as STALE (>336h, i.e. before 2026-06-26T23:12Z): nofilmschool 'Real AI Revolution behind the scenes' (Mar 18), 'AI logging' (Jul 2025), 'Lionsgate/Runway John Wick' (Jun 11), 'Peppa Pig AI' (Jun 25 — 2 days past cutoff), 'Academy vs AI' (May 4), 'Higgsfield Adobe plugin' (May 28); redshark 'Nuke 17.0' (Mar 3), 'Eddie AI' (Apr 26), 'Firefly AI Assistant beta' (Apr 27), 'Remarkable new AI' (2022); provideocoalition 'DaVinci Resolve 21' (Apr 13), 'Cinelytic' (Dec 17 2025), 'AI Tools Part 4' (2023); 80.lv 'OctaneStudio+ 2026' (Dec 2 2025), 'Blender Overgrown' (Jul 8 but explicitly NON-AI/anti-genAI — fails relevance); openai 'Disney-Sora' (~Dec 2025 per cartoonbrew '7 months ago'); animationmagazine/awn Digital Domain DDAI (May), Genvid Studio-Grade AI (Dec 2025), Netflix INKubator (May), Critterz (May); definitionmagazine 'AI on virtual stage' (May 10) / 'previs tools' (May 5). fxguide/awn article pages 403 to WebFetch (listings readable). YouTube social: watch-page JSON-LD uploadDate not exposed to WebFetch and WebSearch date hints were fuzzy/old (Corridor/Matt Wolfe/Curious Refuge already published or unverifiable) — per rules DROPPED all unverifiable social; social does not block the run. RESULT: 4 fresh, distinct, design-relevant, WebFetch-verified, NOT-already-published items survive (below the target of 5 — the section's fresh AI-film news is genuinely thin/exhausted after the 7/9 and 7/10 publishes). Outlet spread: RedShark x1, ProVideo Coalition x1, Runway x2 (within the wide-funnel per-source cap of 3; curator will tighten to <=2). Dates are byline-precision (these outlets do not expose article:published_time; Runway blog/changelog dates are the site's own posted dates) and all sit comfortably inside the 336h window. CLUSTER NOTE: #aiarty-video-enhancer is AI upscaling/restoration and overlaps the already-published #topaz-adobe card thematically but is a distinct vendor/product (Aiarty, local processing) — flagged for curator. #runway-dev and #runway-seed-audio are both Runway but distinct capabilities (dev API platform vs generative audio); curator should pick at most one Runway item for the final deck."
-,
+  "now_iso": "2026-07-12T23:49:40Z",
   "items": [
     {
-      "id": "aiarty-video-enhancer",
-      "title": "Aiarty Video Enhancer: local AI upscaling that restores low-res footage to 4K",
-      "url": "https://www.redsharknews.com/aiarty-video-enhancer-ai-upscaling-4k",
-      "source": "RedShark News",
-      "domain": "redsharknews.com",
+      "url": "https://www.screendaily.com/news/tilly-norwood-creator-developing-feature-film-misaligned-starring-the-ai-actor/5218374.article",
+      "title": "Tilly Norwood creator developing feature film 'Misaligned' starring the AI actor",
+      "source": "Screen International",
       "category": "movies",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "freshness": "FRESH",
-      "og_image": "https://www.redsharknews.com/hubfs/AIVE%20header-image.jpg",
-      "excerpt": "An AI-powered video restoration tool that upscales low-resolution footage to 4K while reducing noise and reconstructing detail, with all processing running locally on the user's machine rather than in the cloud.",
-      "why": "A concrete AI post/finishing-toolchain option for filmmakers and archivists: local (no-cloud) AI upscaling/restoration that recovers texture lost to compression or old codecs. Distinct vendor/product from the already-published Topaz/Adobe upscaling card, but the SAME upscaling-restoration cluster — curator should pick at most one of {aiarty, topaz-adobe}. Byline-date precision (Jun 29); RedShark, a non-Penske allowed domain."
+      "published_iso": "2026-07-07T08:36:00Z",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/0/8/1482808_unknown_2865_crop.jpeg",
+      "excerpt": "Particle 6, the UK company behind AI-generated actor Tilly Norwood, is developing 'Misaligned', its first feature to star the synthetic performer — a comedy-drama made on a hybrid model where directors, writers and editors work alongside AI specialists and traditional crew get AI training. A concrete look at how an AI-actor feature reshapes the production pipeline and the likeness debate."
     },
     {
-      "id": "runway-dev",
-      "title": "Runway Dev: one API to plug frontier image, video, audio and character models into any app",
-      "url": "https://runwayml.com/news/introducing-runway-dev",
-      "source": "Runway",
-      "domain": "runwayml.com",
+      "url": "https://80.lv/articles/blender-studio-announces-ambitious-feature-film-project",
+      "title": "Blender Studio Announces Ambitious Feature Film Project",
+      "source": "80 Level",
       "category": "movies",
-      "published_iso": "2026-07-08T12:00:00Z",
-      "freshness": "FRESH",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/news/runway-dev-cover.jpg",
-      "excerpt": "Runway Dev is a new AI media platform for developers: a single API to integrate the best image, video, audio and real-time character models, giving access to Runway's frontier models (Gen-4.5, Aleph 2.0, Act-Two) alongside third-party models like Seedance, GPT Image 2 and ElevenLabs, swappable by changing one line of code.",
-      "why": "Infrastructure that reshapes how AI-film tools and studios get built: a unified, model-agnostic API means creative-tool builders and production pipelines can wire frontier generative video/audio/character models (incl. Runway's own Gen-4.5 / Aleph 2.0 / Act-Two) into bespoke filmmaking workflows and swap models trivially. A product/platform release, not org/finance news. Runway's own posted date (Jul 8). NOTE: same outlet as #runway-seed-audio — distinct capability; curator pick <=1 Runway."
+      "published_iso": "2026-07-08T10:56:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49164/images/6a4e2cf08b32c/contain_1200x630.jpg",
+      "excerpt": "Blender Studio unveils 'Overgrown', an open-source, artist-centric large-scale animated feature explicitly built without cloud services or generative AI — pitched as a craft-forward counter-model to AI production pipelines. Design×AI relevance is via contrast/positioning rather than an AI tool; include as a craft-shift angle if a stronger news item is missing."
     },
     {
-      "id": "adobe-premiere-generative-media-tool",
-      "title": "Adobe Premiere adds a Generative Media Tool: type a prompt on the timeline to make video and sound effects",
-      "url": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
-      "source": "ProVideo Coalition",
-      "domain": "provideocoalition.com",
-      "category": "movies",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "freshness": "FRESH",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-000965-gen-media-tool.jpg",
-      "excerpt": "Scott Simmons details Premiere's new (beta) Generative Media Tool, which lets editors create generative video and sound effects directly in the timeline by dragging across empty space or double-clicking to type a prompt — Adobe's continued generative-AI push inside the dominant NLE.",
-      "why": "A generative-AI capability landing natively in the editor most of the industry already cuts in — prompt-to-clip / prompt-to-SFX inside the Premiere timeline is a real change to the day-to-day editing/finishing workflow. Distinct from the already-published Premiere Color Mode card (that was tonal/UI, this is generative). Byline-date precision (Jul 10); ProVideo Coalition, a non-Penske allowed domain."
+      "url": "https://www.youtube.com/watch?v=llFR17DcfMo",
+      "title": "Here's How I Built an Anime Using AI (Step-by-Step)",
+      "source": "Curious Refuge",
+      "category": "social",
+      "published_iso": "2026-06-30T17:52:04Z",
+      "og_image": "https://i.ytimg.com/vi/llFR17DcfMo/maxresdefault.jpg",
+      "excerpt": "Curious Refuge walks through a full step-by-step workflow for producing an anime sequence with current AI video/image tools — a practical creator-medium look at how AI animation is actually assembled shot by shot. Useful as a craft/workflow social card for the movies beat."
     },
     {
-      "id": "runway-seed-audio",
-      "title": "Runway Seed Audio 1.0: up to two minutes of prompt-generated speech, sound design and music",
-      "url": "https://runwayml.com/changelog",
-      "source": "Runway",
-      "domain": "runwayml.com",
-      "category": "movies",
-      "published_iso": "2026-06-29T12:00:00Z",
-      "freshness": "FRESH",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/news/runway-dev-cover.jpg",
-      "excerpt": "Runway's Seed Audio 1.0 generates up to 120 seconds of dynamic speech, sound design and music from simple text prompts — extending Runway's generative stack from image/video into film-relevant audio (scoring, sound design, ADR-style voice).",
-      "why": "Generative audio is an under-covered but real film-craft lever: prompt-driven speech, sound design and temp music/score inside the same toolchain filmmakers use for AI video. A concrete capability release (changelog-dated Jun 29). WEAKER as a standalone card (thin changelog entry, no dedicated article page) and SAME outlet as #runway-dev — included as pool depth; curator should pick at most one Runway item."
+      "url": "https://www.youtube.com/watch?v=epJiVrv4KVQ",
+      "title": "Meta's FREE \"Banana Killer\" & My AI Video Tool (Also Free!)",
+      "source": "Theoretically Media",
+      "category": "social",
+      "published_iso": "2026-07-08T19:28:07Z",
+      "og_image": "https://i.ytimg.com/vi/epJiVrv4KVQ/maxresdefault.jpg",
+      "excerpt": "Theoretically Media covers Meta's newly shipped free Muse Image model (positioned as a Nano-Banana rival) plus a free AI video tool, breaking down what the releases mean for AI filmmakers' toolkits. A fresh tool-news social item for the AI filmmaking workflow."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m6FqbpbKCOg",
+      "title": "The Princess and the Serpent | Official Trailer (Senegalese AI Folk Tale)",
+      "source": "stephanai films",
+      "category": "social",
+      "published_iso": "2026-07-08T15:52:08Z",
+      "og_image": "https://i.ytimg.com/vi/m6FqbpbKCOg/maxresdefault.jpg",
+      "excerpt": "An AI-generated official trailer for a Senegalese folk-tale film, showcasing how independent creators use generative video to realize a culturally specific narrative and world at trailer polish. A creative-output social card demonstrating AI cinematic storytelling."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7DNndcFhipI",
+      "title": "CLOSE TO SOURCE - An AI-Animated Near Death Experience",
+      "source": "stephanai films",
+      "category": "social",
+      "published_iso": "2026-07-01T09:37:43Z",
+      "og_image": "https://i.ytimg.com/vi/7DNndcFhipI/maxresdefault.jpg",
+      "excerpt": "An AI-animated short film depicting a near-death experience, an example of generative animation used for authored, mood-driven storytelling rather than tool demos. Second item from the same channel — keep only if a distinct creator is not needed."
     }
   ]
 }

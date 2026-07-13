@@ -1,61 +1,51 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "books",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
-      "source": "Publishers Weekly",
+      "url": "https://publishingperspectives.com/2026/07/there-is-no-single-model-for-innovation-new-technologies-new-challenge/",
+      "source": "Publishing Perspectives",
       "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Three AI-driven startups (Spain's Alighieria with Publisher OS, Germany's Lit-X, and New Zealand's Narrative Muse) are pitching publishers on data-analytics tools that target different parts of the acquisition and marketing pipeline, promising data can inform decisions long driven by instinct without replacing editorial judgment.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6299-793x595.jpeg",
+      "excerpt": "At the IPA Congress in Malaysia, Asian publishers described how AI is transforming their markets in divergent ways -- 'there is no single model for innovation' as each ecosystem adapts generative tools to local reader needs and production realities.",
       "category": "books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Concrete new AI tooling that changes how editorial/marketing teams make acquisition decisions — highest actionability and freshest release news, credible trade source."
+      "rationale": "Distinct IPA Congress session (Asian-market divergent AI adaptation) -- a genuinely new angle, not a reword of the already-published congress-overview or innovation-award cards; credible on-list source, useful strategic insight for publishers."
     },
     {
-      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-07-08T14:00:00Z",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/02/333741/audiobook-reading-in-australia-report-released/",
+      "source": "Books+Publishing",
+      "published_iso": "2026-07-02T00:00:00Z",
       "og_image": "",
-      "excerpt": "A user discovered that text pasted from Claude into Archive of Our Own retains hidden markup flagging AI involvement, exposing popular fanfiction stories as AI-assisted despite anti-AI tags and dismaying the fan-writing community.",
-      "category": "books",
-      "tool": "Books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "Actionable craft insight on hidden AI markup and detectability that directly affects how writers handle AI-assisted text; distinct outlet adds source diversity."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
-      "source": "The Bookseller",
-      "published_iso": "2026-07-09T10:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
-      "excerpt": "Audiobook publisher Bolinda used interviews, archival research and human expertise to build an AI-generated voice replicating the late romance author Barbara Cartland, reviving a deceased author's distinctive narration for new audiobook editions.",
       "category": "books",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Novel AI voice-cloning applied to audiobook narration craft; distinct from the prior Michael Caine/ElevenLabs story, credible trade source."
+      "excerpt": "A new ANU report by Millicent Weber surveying 503 Australian and 500 German audiobook listeners finds 17.4% have already tried AI narration or text-to-speech, quantifying how fast synthetic narration is entering everyday listening.",
+      "rationale": "Distinct, sourced research quantifying AI-narration adoption (17.4%) -- a data story, not a repeat of the prior product-announcement audiobook cards (Cartland clone, Caine/ElevenLabs, Libby filter); actionable market signal."
     },
     {
-      "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
-      "source": "The Bookseller",
-      "published_iso": "2026-07-10T09:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "Take-a-Break's Fiction Feast magazine has told regular story contributors that 'AI tools will be used' on future in-house-created stories, signaling how a mass-market short-fiction outlet is changing the way it produces content.",
+      "url": "https://www.youtube.com/watch?v=je-MwvQaJ0Y",
+      "source": "AI Tool Box (YouTube)",
+      "published_iso": "2026-07-06T03:43:48Z",
+      "og_image": "https://i.ytimg.com/vi/je-MwvQaJ0Y/maxresdefault.jpg",
       "category": "books",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Fresh signal of AI entering a mass-market fiction production workflow; a concrete change for contributing writers and editors."
+      "excerpt": "Hands-on review of 'Steamy Co-Author,' an AI writing-assistant aimed at romance/genre novelists, walking through how the tool drafts and expands scenes in the author's voice. A snapshot of the AI co-writing-tool niche for indie fiction authors.",
+      "rationale": "Included to meet floor 3 (orchestrator pre-cleared): low-authority channel but a genuinely on-topic, hands-on look at an AI co-writing tool indie fiction authors could adopt tomorrow. Deprioritized behind the two credible picks."
     }
   ],
   "dedup_notes": {
-    "dropped_as_published_duplicate": [],
+    "dropped_as_published_duplicate": [
+      "Scholarly Kitchen 'Now is the time for AI in peer review' (6/30) -- content dup of the prior `ai-peer-review` books card (same theme + same source + guest-post format; orchestrator-flagged). Even though the prior card has rolled off the 5-day deck, the freshness rule (a theme collected earlier must not reappear) governs; dropped."
+    ],
     "dropped_low_value": [],
-    "diversity": "4 picks across 3 outlets — The Bookseller x2 (at the <=2 per-outlet cap), Publishers Weekly x1, Jane Friedman x1. All single-category (books), each given a distinct accent from the palette.",
-    "shortfall": "Selected 4 vs cap of 5. Fresh candidate pool contained only 4 unique, never-before-seen items after URL/content dedup; all cleared the bar, none padded. Floor 3 met."
+    "diversity": "3 picks across 3 distinct outlets (Publishing Perspectives, Books+Publishing, AI Tool Box/YouTube) -- no outlet repeated. All single-category (books), each given a distinct palette accent (#f5a623, #7928ca, #2ec5c5).",
+    "shortfall": "Selected 3 vs cap of 5. Fresh pool was only 4 URL-deduped items; 1 dropped as a content duplicate (peer-review), leaving 3 unique never-before-seen stories. Floor 3 met exactly; not padded. One pick (Steamy Co-Author) is a low-authority YouTube review carried only to hold the floor."
   }
 }

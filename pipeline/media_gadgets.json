@@ -1,27 +1,10 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "gadgets",
   "media": [
-    {
-      "id": "ubtech-u1",
-      "type": "video",
-      "src": "pipeline/media/ubtech-u1.mp4",
-      "poster": "pipeline/media/ubtech-u1.jpg"
-    },
-    {
-      "id": "solos-airgo",
-      "type": "image",
-      "src": "pipeline/media/solos-airgo.jpg"
-    },
-    {
-      "id": "sony-rx10v",
-      "type": "image",
-      "src": "pipeline/media/sony-rx10v.jpg"
-    },
-    {
-      "id": "kindle-ask-book",
-      "type": "image",
-      "src": "pipeline/media/kindle-ask-book.jpg"
-    }
+    { "id": "ms-terminal", "type": "image", "src": "pipeline/media/ms-terminal.png" },
+    { "id": "nokia-ai-button", "type": "image", "src": "pipeline/media/nokia-ai-button.jpg" },
+    { "id": "insta360-x6", "type": "image", "src": "pipeline/media/insta360-x6.jpg" },
+    { "id": "codex-macropad", "type": "image", "src": "pipeline/media/codex-macropad.jpg" }
   ]
 }

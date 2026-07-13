@@ -1,53 +1,53 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "design",
   "window_hours": 72,
-  "now_iso": "2026-07-10T23:12:40Z",
+  "now_iso": "2026-07-12T23:49:40Z",
   "items": [
     {
-      "url": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/",
-      "title": "How Decagon uses AI for design system saturation",
-      "source": "Figma",
+      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b",
+      "title": "Taste cannot be delegated",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-12T21:32:05Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*IE9hoyTwzWtd3hUTEOI9Ow.png",
+      "excerpt": "An argument that as AI makes everyone a 'creator', taste and editorial judgment become the scarce design skill that can't be handed to a model — and that 'design by committee' dies precisely because someone still has to own the call. A design-leadership lens on where humans stay decisive in an AI workflow."
+    },
+    {
+      "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9",
+      "title": "The interface has left the building",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-12T09:30:15Z",
+      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*3TvKprbciicWhw1X",
+      "excerpt": "How chat, voice, and agentic AI are rewriting the first principles of UX — as the screen stops being the primary surface, designers have to rethink flows, affordances, and control for interfaces that are generated and negotiated at runtime rather than laid out in advance."
+    },
+    {
+      "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12",
+      "title": "Craft still matters, but it's about outcomes",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-10T14:41:01Z",
+      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.29:0.5/1*s8Oih5wlUh3XJRdb29Rg4w.png",
+      "excerpt": "AI has moved craft from production to judgment; the same tools can help protect quality if you write your standards down and keep humans reviewing. A practical take on encoding design standards so AI output stays on-brand and on-bar rather than drifting toward generic."
+    },
+    {
+      "url": "https://dev.to/haaaaaley/design-the-moment-an-ai-agent-needs-human-input-4mni",
+      "title": "Design the Moment an AI Agent Needs Human Input",
+      "source": "DEV Community",
       "category": "tokens",
-      "published_iso": "2026-07-10",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/a6469cadcc96476913042e85925c1eaf9e395d10-3840x2160.png?w=1632&h=918&q=75&fit=max&auto=format",
-      "excerpt": "Decagon uses Figma MCP to keep design specs and code in continuous alignment so AI coding agents can pull straight from the component library, and Figma Make to spin up multiple dashboard variants for customer feedback before committing engineering time — a concrete look at scaling a design system with AI in the loop."
+      "published_iso": "2026-07-10T10:08:59Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwqi2dt1vq740caixqy04.png",
+      "excerpt": "A recovery-first interaction model for long-running AI tasks: how to design the handoff points — interruptions, approvals, expiring decisions, safe resume — where an autonomous agent must pause for a human. Concrete UX patterns for agentic products. (Lower-authority individual post; include only if a stronger agentic-UX item is missing.)"
     },
     {
-      "url": "https://www.figma.com/blog/jen-dunham-lead-design-teams/",
-      "title": "How to Lead Design Teams Through the AI Era",
-      "source": "Figma",
-      "category": "workflow",
-      "published_iso": "2026-07-09",
-      "og_image": null,
-      "excerpt": "Design leader Jen Dunnam (ex-Patreon, Shopify) shares how she steadies teams amid constant AI-driven change — breaking problems down, rethinking what 'speed' means in design ops, choosing the right tools, and sharpening principles rather than chasing every new model."
-    },
-    {
-      "url": "https://www.creativebloq.com/design/advertising/the-economist-shades-ai-in-sharp-new-billboard-ads",
-      "title": "The Economist shades AI in sharp new billboard ads",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-07-10",
-      "og_image": null,
-      "excerpt": "Cocogun's new billboard campaign for The Economist leans on stripped-back, human-made visuals to position editorial craft against AI-generated sameness — a signal of how design and advertising teams are branding around (and against) generative AI."
-    },
-    {
-      "url": "https://vercel.com/changelog/you-can-now-deploy-lovable-apps-to-vercel",
-      "title": "You can now deploy Lovable apps to Vercel",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-07-09",
-      "og_image": null,
-      "excerpt": "Vercel added one-click deployment for apps built in Lovable, closing the loop from AI prompt-to-app to production hosting — another step in the design-to-code pipeline where non-engineers ship real software from a conversational builder."
-    },
-    {
-      "url": "https://cursor.com/changelog",
-      "title": "Cursor 3.11: Side Chats and Conversation Search",
-      "source": "Cursor",
-      "category": "figma",
-      "published_iso": "2026-07-10",
-      "og_image": null,
-      "excerpt": "Cursor 3.11 adds side chats for parallel agent conversations plus a local search index across thousands of past agent transcripts — quality-of-life upgrades for designers and builders running multiple AI coding threads in the visual-editor workflow."
+      "url": "https://www.youtube.com/watch?v=URKml8lgw8Y",
+      "title": "OpenAI is so back... GPT-5.6 Sol first look",
+      "source": "Fireship",
+      "category": "social",
+      "published_iso": "2026-07-11T00:25:44Z",
+      "og_image": "https://i.ytimg.com/vi/URKml8lgw8Y/maxresdefault.jpg",
+      "excerpt": "Fireship's fast hands-on first look at OpenAI's newly released GPT-5.6 Sol model and what it means for AI-assisted building. NOTE: the underlying GPT-5.6 Sol/Luna/Terra rollout was already covered on 2026-07-09 — include only as a social/creator-medium card if a fresh distinct social item is needed; otherwise drop to avoid the covered angle."
     }
   ],
   "dedup": {

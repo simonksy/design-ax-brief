@@ -1,60 +1,47 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "music",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://musictech.com/news/music/john-dahlback-how-he-uses-ai/",
-      "source": "MusicTech",
+      "url": "https://www.musicradar.com/artists/producers-engineers/everything-started-from-the-hand-of-a-human-being-italian-dj-and-producer-ciauru-wins-reply-ai-music-contest",
+      "source": "MusicRadar",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Strongest creator hook in the pool — a once-skeptical producer detailing exactly where AI (especially vocal processing) fits into a real production workflow, treating it as a creative instrument rather than a shortcut.",
-      "published_iso": "2026-07-06T13:39:35Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/john-dahlback@2000x1500-1068x801.jpg",
-      "excerpt": "Producer John Dahlback, once skeptical of AI, explains how he now folds AI tools — especially vocal processing — into his production workflow, treating them as a creative instrument rather than a shortcut."
+      "headline": "Italian producer Ciauru wins Reply AI Music Contest",
+      "rationale": "Strongest pick — a concrete creative-AI showcase where a working producer turned video footage into visual-sonic performance using AI platforms, modeling a human-led way to fold AI into creative practice.",
+      "published_iso": "2026-07-11T09:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/LJqZcGQnRf5zmTFYbHgkVZ.jpg",
+      "excerpt": "Italian electronic producer Ciauru (Simone Privitera) won the Reply AI Music Contest, a competition celebrating creative uses of AI in music and performance; his winning project transformed video footage into visual-sonic experiences using AI platforms, framed as showcasing how AI can be used positively in the creative industries."
     },
     {
-      "url": "https://www.hypebot.com/why-ai-song-generators-dont-grant-copyright/",
+      "url": "https://www.hypebot.com/how-to-audit-your-music-brand-on-google-seand-ai-now/",
       "source": "Hypebot",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Directly actionable legal reality for anyone using Suno-style tools — explains why single-prompt AI generation fails the human-authorship test, changing how creators approach ownership and workflow.",
-      "published_iso": "2026-07-09T12:22:26Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/07/pexels-yasinaydin-3796788.jpg",
-      "excerpt": "AI song generators like Suno don't confer copyright ownership because their product design spits out a finished track from a single prompt without capturing the human creative decisions courts require to establish authorship."
+      "headline": "How to audit your music brand on Google and AI now",
+      "rationale": "Directly actionable workflow — as buyers and labels increasingly discover artists via AI chatbots, this walks musicians through auditing how search and AI tools actually perceive their digital footprint, something a creator can act on tomorrow.",
+      "published_iso": "2026-07-09T12:00:00Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/photo-1743796055664-3473eedab36e.jpeg",
+      "excerpt": "As fans, talent buyers and even record labels increasingly discover music via AI chatbots rather than plain name searches, musicians are urged to audit their online presence in private browser windows to see how search algorithms and AI tools actually perceive their digital footprint."
     },
     {
-      "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
-      "source": "Music Business Worldwide",
+      "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
+      "source": "Complete Music Update",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Concrete emerging standard — RIAA/IFPI's two-tier 'AI-generated' vs 'AI-assisted' tagging would reshape how creators disclose AI use on streaming platforms; distinct from the earlier TIDAL-specific labeling story.",
-      "published_iso": "2026-07-10T11:51:07Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/05/shutterstock_2777587797.jpg",
-      "excerpt": "The RIAA and IFPI are leading an industry proposal for streaming platforms to label tracks with two tags — 'AI-generated' for fully AI-made songs and 'AI-assisted' for human-led works with some AI involvement."
-    },
-    {
-      "url": "https://www.hypebot.com/is-spotify-guarding-against-one-type-of-ai-market-distortion-while-monetizing-another/",
-      "source": "Hypebot",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Carries a real tool hook beneath the op-ed — surfaces Spotify's new UMG-partnered paid feature letting Premium users generate AI covers and remixes of licensed songs, a shift creators need to track.",
-      "published_iso": "2026-07-10T12:12:02Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/7-8-spotify-1.jpg",
-      "excerpt": "An op-ed argues Spotify is policing fraudulent AI uploads while simultaneously monetizing AI music through its new UMG-partnered paid feature that lets Premium users generate covers and remixes of licensed songs."
+      "headline": "BBC outlines AI transparency commitments — can it meet them?",
+      "rationale": "Emerging-standard signal for creators — the BBC's pledge to disclose when AI is used previews the kind of AI-labeling and disclosure expectations that will shape how musicians credit AI in their own output.",
+      "published_iso": "2026-07-07T15:56:36Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/BBC-AI.png",
+      "excerpt": "BBC music boss Lorna Clarke outlined the broadcaster's AI transparency commitments — including disclosing when AI is used in its output — though the piece questions whether the BBC can actually meet them without industry-wide disclosure standards."
     }
   ],
   "dedup_report": {
-    "dropped": [
-      {
-        "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
-        "reason": "Not a duplicate — dropped on relevance. Pure policy/commentary (BBC AI-transparency 'commitments, but can it meet them') with no creator or tool hook; fails the design-relevance test. Excluded rather than pad; publishing a solid 4."
-      }
-    ],
-    "note": "Pool pre-deduped vs history (candidates_filtered_music.json, URL-deduped upstream, dropped 0). Content-dedup vs last 5 days confirmed clean — RIAA/IFPI streaming-labeling proposal is a distinct event from the prior TIDAL-specific labeling story (earliest-wins respected). Diversity guard satisfied: 3 distinct outlets (MusicTech, Hypebot x2, Music Business Worldwide), Hypebot at the ≤2 cap, no URL collisions. Floor 3 met; BBC commentary excluded on relevance, not padded."
+    "dropped": [],
+    "note": "Pool arrived pre-deduped vs last-5-days history (candidates_filtered_music.json, URL-deduped upstream, dropped 0). Content-dedup confirmed clean against published music history: none of the 3 match a prior published story. The BBC/CMU transparency piece was dropped-on-relevance on 2026-07-11 (never published), so it is not a duplicate and is eligible now. Diversity guard satisfied: 3 distinct outlets (MusicRadar, Hypebot, Complete Music Update), no outlet at cap, no URL collisions. Pool was exactly 3 fresh items at the floor — all 3 selected; shortfall vs 5 is due to a genuinely small fresh pool, not padding."
   }
 }

@@ -1,22 +1,23 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "movies",
   "media": [
     {
-      "id": "premiere-genmedia",
+      "id": "blender-overgrown",
       "type": "image",
-      "src": "pipeline/media/premiere-genmedia.jpg"
+      "src": "pipeline/media/blender-overgrown.jpeg"
     },
     {
-      "id": "runway-dev",
+      "id": "meta-muse",
       "type": "video",
-      "src": "pipeline/media/runway-dev.mp4",
-      "poster": "pipeline/media/runway-dev.jpg"
+      "src": "pipeline/media/meta-muse.mp4",
+      "poster": "pipeline/media/meta-muse.jpg"
     },
     {
-      "id": "aiarty-4k",
-      "type": "image",
-      "src": "pipeline/media/aiarty-4k.jpg"
+      "id": "serpent-trailer",
+      "type": "video",
+      "src": "pipeline/media/serpent-trailer.mp4",
+      "poster": "pipeline/media/serpent-trailer.jpg"
     }
   ]
 }

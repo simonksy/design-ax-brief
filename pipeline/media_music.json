@@ -1,27 +1,22 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-13",
   "section": "music",
   "media": [
     {
-      "id": "dahlback-ai",
+      "id": "ciauru",
       "type": "video",
-      "src": "pipeline/media/dahlback-ai.mp4",
-      "poster": "pipeline/media/dahlback-ai.jpg"
+      "src": "pipeline/media/ciauru.mp4",
+      "poster": "pipeline/media/ciauru.jpg"
     },
     {
-      "id": "ai-song-copyright",
+      "id": "brand-audit-ai",
       "type": "image",
-      "src": "pipeline/media/ai-song-copyright.jpg"
+      "src": "pipeline/media/brand-audit-ai.jpg"
     },
     {
-      "id": "riaa-ai-labels",
+      "id": "bbc-ai-transparency",
       "type": "image",
-      "src": "pipeline/media/riaa-ai-labels.jpg"
-    },
-    {
-      "id": "spotify-umg-remix",
-      "type": "image",
-      "src": "pipeline/media/spotify-umg-remix.jpg"
+      "src": "pipeline/media/bbc-ai-transparency.png"
     }
   ]
 }
