@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-14",
+  "section": "science",
+  "now_iso": "2026-07-14T00:13:28Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-07-10T00:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-7.00.17-AM.png",
+      "excerpt": "Google researchers demonstrated a quantum processor that uses reinforcement learning to learn from its own error-correction data mid-computation, continuously recalibrating the hardware without pausing the run. The approach cut logical error rates about 20% beyond conventional calibration and kept performance 3.5x more stable under hardware drift on the Willow chip."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/07/13/quantum-companies-help-develop-hybrid-ai-for-immune-targeting-peptides/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Peptide.png",
+      "excerpt": "A hybrid quantum-classical AI pipeline designed immune-targeting peptides, with quantum-generated inputs showing particular promise for understudied genetic variants that lack enough data to train classical models alone. It is an early demonstration of quantum-assisted generative modeling feeding real immunology design."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-tool-speeds-search.jpg",
+      "excerpt": "University of Manchester researchers built a physics-informed machine-learning method that screened more than 10,000 candidate 2D materials for rare 'flat-band' electronic states tied to magnetism, unconventional superconductivity and topological behavior. The model confirmed flat-band behavior with 98.2% accuracy, published in Science Advances."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-2.jpg",
+      "excerpt": "Argonne National Laboratory released ChemGraph, an open-source AI agent framework that automates atomically precise computational-chemistry simulations. It lets researchers without deep computational-chemistry expertise run reliable quantum-chemistry workflows, aiming to translate better simulations into fewer failed experiments for battery, combustion and materials research."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-01T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/kagome-lattice-superconductivity.webp",
+      "excerpt": "Aalto University researchers used a machine-learning-guided search to identify new kagome-lattice superconductors YRu3B2 and LuRu3B2, narrowing the vast materials space that has to be tested experimentally. The work is part of the broader AI-driven hunt for room-temperature superconductors."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-free-text-llms-reveal-hidden.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-03T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/free-text-answers-and.jpg",
+      "excerpt": "In a PNAS study, TU Dresden researchers combined behavioral experiments with participants' own free-text explanations, analyzed by large language models, to uncover the hidden reasons behind human decisions. It shows LLMs can extract cognitive insight from open-ended text that choice data alone cannot capture, a new tool for cognitive science."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "",
+      "excerpt": "University of Osaka researchers trained an AI model on molecular-dynamics simulations to evaluate 16 competing structural descriptors of supercooled water. The model identified which descriptors best distinguish water's two proposed liquid states, sharpening the decades-old debate over water's liquid-liquid phase transition."
+    }
+  ]
+}

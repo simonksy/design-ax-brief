@@ -1,0 +1,11 @@
+{
+  "date": "2026-07-14",
+  "section": "science",
+  "media": [
+    { "id": "willow-self-learning", "type": "image", "src": "pipeline/media/willow-self-learning.png" },
+    { "id": "quantum-peptide-design", "type": "image", "src": "pipeline/media/quantum-peptide-design.png" },
+    { "id": "flatband-2d-screening", "type": "image", "src": "pipeline/media/flatband-2d-screening.jpg" },
+    { "id": "kagome-superconductors", "type": "image", "src": "pipeline/media/kagome-superconductors.jpg" },
+    { "id": "llm-decision-reasons", "type": "image", "src": "pipeline/media/llm-decision-reasons.jpg" }
+  ]
+}
