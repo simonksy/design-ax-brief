@@ -1,17 +1,8 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "music",
   "media": [
-    {
-      "id": "audiotool-nexus",
-      "type": "video",
-      "src": "pipeline/media/audiotool-nexus.mp4",
-      "poster": "pipeline/media/audiotool-nexus.jpg"
-    },
-    {
-      "id": "eldoraudio-midi",
-      "type": "image",
-      "src": "pipeline/media/eldoraudio-midi.jpg"
-    }
+    { "id": "suno-dev-api", "type": "image", "src": "pipeline/media/suno-dev-api.jpg" },
+    { "id": "m-compressor-2", "type": "image", "src": "pipeline/media/m-compressor-2.jpg" }
   ]
 }

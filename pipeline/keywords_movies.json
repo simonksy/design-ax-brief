@@ -1,26 +1,21 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "movies",
-  "note": "OVERRIDE run: user requested ALL keywords (no rotation). Working set = all 3 core + entire 23-keyword movies pool = 26 keywords, each still expanded. Keywords whose news already ran in the last 3 movies days of news_data.json (today block 2026-07-13 + day 2026-07-11; there is no 07-12 run) are flagged covered_recently and DEPRIORITIZED in the query plan (kept in working_keywords with full expansions, but given no dedicated fresh queries). Covered -> skipped for fresh queries: 'generative video film' (premiere-genmedia: Adobe Premiere generative media tool 07-11; meta-muse image/video model 07-13), 'Runway film' (runway-dev: Runway Dev developer API 07-11), 'AI film restoration' (aiarty-4k: Aiarty Video Enhancer local 4K upscaling 07-11), 'text-to-video film' (meta-muse: Meta Muse video model 07-13), 'AI short film' (serpent-trailer: AI-video Senegal/Gambia folklore short 07-13), 'AI trailer' (serpent-trailer official trailer 07-13), 'AI animation film' (blender-overgrown: Blender Studio open-source feature 'Overgrown' 07-13). Compared with the 07-13 run, three keywords rotate BACK IN as uncovered because their cards (07-09/07-10) now fall outside the 3-day window: AI color grading, AI motion capture, neural rendering film -> re-emphasized. Under-covered keywords emphasized this run: AI VFX, Sora film, virtual production AI, AI de-aging, AI storyboard previs, AI screenwriting, deepfake film, AI color grading, AI rotoscoping, AI dubbing lip sync, AI motion capture, neural rendering film, Kling film, Luma film, AI scene generation, Hollywood AI. Penske trades (Variety/Deadline/THR/IndieWire) are paywalling behind tollbit (HTTP 402), so queries lean on non-Penske allowed_domains (nofilmschool, beforesandafters, provideocoalition, redsharknews, animationmagazine, awn, cartoonbrew, fxguide, vfxvoice, postperspective, 80.lv) via site: filters; Penske domains kept only as last-resort fallback.",
+  "note": "ROTATING run (no user seeds). Working set = 3 core + a date-rotated subset of 14 pool keywords (offset by day-of-month 15), each expanded. Recency window = current news_data.json movies section: today 2026-07-14 (nvidia-neural = NVIDIA SIGGRAPH 2026 neural rendering + AI world-model keynote; meyer-top5 = Simon Meyer roundup of lesser-known AI production tools incl. Sora / Beeble SwitchX / Sync.so lip sync / SeedAudio) plus nearest days 2026-07-09 (iclone-personal = Reallusion iClone free + AI Studio, virtual production) and 2026-07-08 (switchhdr = Beeble SDR->HDR restoration; mj-discovery = Midjourney vs Disney/Universal/WB copyright discovery = Hollywood AI legal; a24-deepmind = A24 x DeepMind $75M partnership; greenscreen-less compositing). Keywords landed in that window are flagged covered_recently and either dropped from this rotation or given only light/combined queries: neural rendering film, virtual production AI, Sora film, Runway film, AI VFX, Hollywood AI, AI film restoration. Rotated back IN this run (were flagged covered on the 07-14 override but now fresh again): AI short film, text-to-video film, AI trailer. Penske trades (Variety/Deadline/THR/IndieWire) have been tollbit-paywalling (HTTP 402), so queries lean on non-Penske allowed_domains via site: filters; Penske domains kept only as last-resort fallback.",
   "user_seeds": [],
   "skipped_recently_covered": [
-    "generative video film",
+    "neural rendering film",
+    "virtual production AI",
+    "Sora film",
     "Runway film",
-    "AI film restoration",
-    "text-to-video film",
-    "AI short film",
-    "AI trailer",
-    "AI animation film"
+    "AI VFX",
+    "Hollywood AI",
+    "AI film restoration"
   ],
   "seeds": [
     "AI film",
     "AI 영화",
     "AI filmmaking",
-    "generative video film",
-    "AI VFX",
-    "Runway film",
-    "Sora film",
-    "virtual production AI",
     "AI de-aging",
     "AI storyboard previs",
     "AI screenwriting",
@@ -28,17 +23,13 @@
     "AI color grading",
     "AI rotoscoping",
     "AI dubbing lip sync",
+    "AI motion capture",
     "AI short film",
     "text-to-video film",
-    "AI motion capture",
-    "neural rendering film",
     "AI trailer",
-    "AI film restoration",
     "Kling film",
     "Luma film",
-    "AI animation film",
-    "AI scene generation",
-    "Hollywood AI"
+    "AI scene generation"
   ],
   "working_keywords": [
     {
@@ -58,36 +49,6 @@
       "type": "core",
       "covered_recently": false,
       "expansions": ["AI filmmaking tools 2026", "AI film production workflow", "AI cinematography", "hybrid live-action AI filmmaking"]
-    },
-    {
-      "keyword": "generative video film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["generative video model filmmaking", "gen-video studio pipeline", "Veo 3 film", "in-timeline generative media", "Meta Muse video"]
-    },
-    {
-      "keyword": "AI VFX",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["generative VFX 2026", "AI visual effects pipeline", "machine learning VFX", "AI compositing", "AI 후반작업 VFX"]
-    },
-    {
-      "keyword": "Runway film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["Runway Gen-4.5 filmmaker", "Runway Aleph 2.0 film", "Runway Act-Two performance", "Runway AI Film Festival", "Runway Dev API"]
-    },
-    {
-      "keyword": "Sora film",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["OpenAI Sora 2 short film", "Sora filmmaker 2026", "Sora Hollywood project", "Sora cameo cinematic"]
-    },
-    {
-      "keyword": "virtual production AI",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["AI LED volume", "generative backgrounds virtual production", "ICVFX AI", "Unreal Engine virtual production film"]
     },
     {
       "keyword": "AI de-aging",
@@ -129,19 +90,7 @@
       "keyword": "AI dubbing lip sync",
       "type": "pool",
       "covered_recently": false,
-      "expansions": ["AI visual dubbing film", "Flawless TrueSync", "Papercup AI dubbing", "AI 더빙 립싱크"]
-    },
-    {
-      "keyword": "AI short film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["AI short film festival 2026", "AI generated short film", "generative short film winner", "AI 단편 영화"]
-    },
-    {
-      "keyword": "text-to-video film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["text-to-video model release film", "Veo vs Sora vs Kling vs Seedance", "prompt-to-film", "Meta Muse video model"]
+      "expansions": ["AI visual dubbing film", "Flawless TrueSync", "Papercup AI dubbing", "Sync.so lip sync", "AI 더빙 립싱크"]
     },
     {
       "keyword": "AI motion capture",
@@ -150,22 +99,22 @@
       "expansions": ["markerless motion capture AI", "Move AI mocap", "AI performance capture film", "Wonder Dynamics Autodesk"]
     },
     {
-      "keyword": "neural rendering film",
+      "keyword": "AI short film",
       "type": "pool",
       "covered_recently": false,
-      "expansions": ["Gaussian splatting film 2026", "NeRF filmmaking", "neural rendering VFX", "radiance fields production"]
+      "expansions": ["AI short film festival 2026", "AI generated short film premiere", "generative short film winner", "AI 단편 영화"]
+    },
+    {
+      "keyword": "text-to-video film",
+      "type": "pool",
+      "covered_recently": false,
+      "expansions": ["text-to-video model release film", "Veo vs Sora vs Kling vs Seedance", "prompt-to-film", "cinematic text-to-video 2026"]
     },
     {
       "keyword": "AI trailer",
       "type": "pool",
-      "covered_recently": true,
+      "covered_recently": false,
       "expansions": ["AI generated movie trailer", "studio AI trailer marketing", "AI trailer editing tool", "AI teaser cut"]
-    },
-    {
-      "keyword": "AI film restoration",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["AI remaster 4K classic film", "film archive AI restoration", "Topaz Video AI restoration", "필름 복원 AI"]
     },
     {
       "keyword": "Kling film",
@@ -180,22 +129,10 @@
       "expansions": ["Luma Dream Machine film", "Luma Ray3 filmmaking", "Luma Modify Video", "Luma AI video model update"]
     },
     {
-      "keyword": "AI animation film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["AI animated feature film", "generative animation pipeline studio", "AI anime production", "AI 애니메이션 영화"]
-    },
-    {
       "keyword": "AI scene generation",
       "type": "pool",
       "covered_recently": false,
       "expansions": ["AI set extension film", "generative environment film production", "world model film scene", "AI 배경 생성 영화"]
-    },
-    {
-      "keyword": "Hollywood AI",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["Hollywood generative AI adoption 2026", "studio AI policy", "AI film labor debate", "AI likeness voice licensing actor", "AI in major studio production"]
     }
   ],
   "plan": [
@@ -227,38 +164,34 @@
         "hollywoodreporter.com",
         "indiewire.com",
         "deadline.com",
-        "lumalabs.ai",
-        "openai.com"
+        "lumalabs.ai"
       ],
-      "domain_note": "Non-Penske domains listed first / preferred. Penske trades (variety/hollywoodreporter/indiewire/deadline) kept as last-resort fallback only because tollbit is HTTP 402 paywalling them this run.",
+      "domain_note": "Non-Penske domains listed first / preferred. Penske trades (variety/hollywoodreporter/indiewire/deadline) kept as last-resort fallback only because tollbit is HTTP 402 paywalling them.",
       "queries": [
         "AI filmmaking workflow case study 2026",
         "AI 영화 제작 소식 2026",
         "생성형 AI 영화 산업 뉴스 2026",
         "site:nofilmschool.com AI filmmaking 2026",
-        "AI VFX generative visual effects pipeline 2026",
-        "site:fxguide.com machine learning AI VFX",
-        "site:beforesandafters.com AI VFX compositing 2026",
-        "OpenAI Sora 2 short film filmmaker 2026",
-        "virtual production AI LED volume generative backgrounds 2026",
-        "AI de-aging digital double film 2026",
+        "AI de-aging digital double film VFX 2026",
         "site:vfxvoice.com AI de-aging OR digital human",
-        "AI storyboard previs tool director LTX Studio 2026",
-        "site:provideocoalition.com AI previs OR post workflow 2026",
+        "AI storyboard previs previsualization director LTX Studio 2026",
+        "site:provideocoalition.com AI previs OR storyboard workflow 2026",
         "AI screenwriting Hollywood script development tool 2026",
         "deepfake synthetic actor likeness controversy film 2026",
         "AI color grading DaVinci Resolve color match tool 2026",
-        "AI rotoscoping auto-roto matte VFX tool 2026",
-        "AI visual dubbing lip sync film Flawless Papercup 2026",
+        "AI rotoscoping auto-roto matte extraction VFX tool 2026",
+        "AI visual dubbing lip sync film Flawless Papercup Sync 2026",
         "AI 더빙 립싱크 영화 현지화 2026",
         "markerless AI motion capture Move AI performance capture film 2026",
-        "neural rendering Gaussian splatting film production 2026",
-        "site:redsharknews.com AI film OR neural rendering 2026",
+        "AI short film festival premiere generative winner 2026",
+        "site:animationmagazine.net AI short film OR animation 2026",
+        "text-to-video AI model cinematic filmmaking 2026",
+        "AI movie trailer teaser editing marketing tool 2026",
         "Kling 3.0 AI film project cinematic 2026",
         "Luma Dream Machine Ray3 filmmaking 2026",
         "AI scene generation set extension environment film 2026",
+        "site:redsharknews.com AI film OR generative video 2026",
         "site:postperspective.com AI post production workflow 2026",
-        "Hollywood generative AI studio adoption actor likeness 2026",
         "AI cinema breakthrough this week July 2026"
       ]
     },
@@ -271,17 +204,17 @@
         "youtube.com",
         "youtu.be"
       ],
-      "rotation_note": "Prior emphasis: 07-10 Runway/Curious Refuge/fxguide, 07-11 Corridor Crew/Matt Wolfe/Runway, 07-13 Curious Refuge/fxguide/Corridor Crew. Rotate today (day 14) to the least-recently-carded creators: Matt Wolfe (last card 07-09 Palmier), Curious Refuge (07-07), fxguide. Deprioritize Corridor Crew (card 07-08) and Runway (Runway Dev card 07-11). No instagram_handles defined for the movies category, so IG is skipped this run.",
+      "rotation_note": "Movies youtube_channels = Runway, Corridor Crew, Curious Refuge, Matt Wolfe, fxguide. 07-14 used Simon Meyer (meyer-top5). Rotate today (day 15) to Corridor Crew, Curious Refuge, fxguide; deprioritize Matt Wolfe/Runway (recently emphasized across sections). No instagram_handles defined for the movies category, so IG is skipped.",
       "queries": [
-        "site:youtube.com Matt Wolfe AI film video tool 2026",
-        "site:youtube.com Curious Refuge AI film tutorial 2026",
+        "site:youtube.com \"Corridor Crew\" AI film VFX 2026",
+        "site:youtube.com \"Curious Refuge\" AI filmmaking tutorial 2026",
         "site:youtube.com fxguide AI VFX breakdown 2026"
       ]
     }
   ],
   "totals": {
-    "working_keywords": 26,
+    "working_keywords": 17,
     "categories": 2,
-    "queries": 31
+    "queries": 28
   }
 }

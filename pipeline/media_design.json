@@ -1,27 +1,11 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "design",
   "media": [
-    {
-      "id": "terminal-canvas",
-      "type": "image",
-      "src": "pipeline/media/terminal-canvas.png"
-    },
-    {
-      "id": "ax-orchestration",
-      "type": "image",
-      "src": "pipeline/media/ax-orchestration.png"
-    },
-    {
-      "id": "logo-quits",
-      "type": "video",
-      "src": "pipeline/media/logo-quits.mp4",
-      "poster": "pipeline/media/logo-quits.jpg"
-    },
-    {
-      "id": "trek-vfx-ai",
-      "type": "image",
-      "src": "pipeline/media/trek-vfx-ai.jpg"
-    }
+    { "id": "design-org", "type": "image", "src": "pipeline/media/design-org.jpg" },
+    { "id": "leaders-fast", "type": "image", "src": "pipeline/media/leaders-fast.jpg" },
+    { "id": "agents-design", "type": "image", "src": "pipeline/media/agents-design.png" },
+    { "id": "visual-native", "type": "image", "src": "pipeline/media/visual-native.jpg" },
+    { "id": "intern-desk", "type": "video", "src": "pipeline/media/intern-desk.mp4", "poster": "pipeline/media/intern-desk.jpg" }
   ]
 }

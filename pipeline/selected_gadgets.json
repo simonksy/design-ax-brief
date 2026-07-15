@@ -1,81 +1,69 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "Amazon",
+      "tool": "OpenAI",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.engadget.com/2210614/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/",
-      "source": "Engadget",
-      "published_iso": "2026-07-08T16:33:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/intro-1783528237.jpg",
-      "excerpt": "Amazon is reportedly building 'Moonraker,' a more powerful agentic version of Alexa+ that can chain multi-step tasks - like booking a ride while texting a friend - across Echo devices. The upgrade is meant to keep Alexa hardware competitive with agentic assistants from Google, Anthropic and OpenAI.",
-      "rationale": "Highest actionability — an agentic Alexa that chains multi-step tasks across Echo hardware signals mainstream on-device AI agents entering the home, reshaping how ambient assistants get designed for."
+      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
+      "source": "9to5Mac",
+      "published_iso": "2026-07-14T21:14:00Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600",
+      "excerpt": "A new report says OpenAI and Jony Ive's io first hardware device will be a portable, screenless smart speaker with a camera and sensors that read the user's surroundings - pitched as an AI-first 'home computer' rather than a phone-style gadget.",
+      "rationale": "Biggest, most novel story in the pool - the first concrete shape of the OpenAI x Jony Ive device (screenless AI-first speaker) signals where post-phone AI hardware is headed."
     },
     {
       "rank": 2,
-      "tool": "Wearables",
+      "tool": "Samsung",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
-      "source": "Engadget",
-      "published_iso": "2026-07-04T18:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/how-your-smartwatch-and-ai-can-detect-early-signs-of-illness/intro-1782925052.jpg",
-      "excerpt": "A look at how AI-enhanced smartwatches and health wearables are being trained to flag early signs of illness by fusing heart rate, temperature and other signals against a personal baseline. The piece frames where on-wrist AI health sensing is genuinely useful versus where it overpromises.",
-      "rationale": "Credible, insight-driven explainer on where on-wrist AI health sensing actually works vs overpromises — practical framing for anyone designing or evaluating wearable health features. Distinct health-wearable topic; Engadget's 2nd card at the <=2 outlet cap."
+      "url": "https://www.androidauthority.com/samsung-teases-galaxy-watch-9-and-ultra-2-official-teaser-3687113/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-14T06:01:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-8-scaled.jpg",
+      "excerpt": "Ahead of the July 22 Galaxy Unpacked, Samsung teased the Galaxy Watch 9 and Watch Ultra 2 as an 'AI-powered health companion' promising real-time AI health insights, better tracking accuracy and new internal hardware.",
+      "rationale": "Timely pre-Unpacked hardware teaser positioning on-wrist AI health as the headline; the single best-sourced version of a story doubled by GSMArena."
     },
     {
       "rank": 3,
-      "tool": "RB Labs",
+      "tool": "Meta",
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://gizmodo.com/finally-a-robot-designed-to-make-chatting-with-mark-zuckerberg-feel-natural-2000784133",
+      "url": "https://gizmodo.com/meta-is-slapping-subscriptions-on-its-smart-glasses-2000780073",
       "source": "Gizmodo",
-      "published_iso": "2026-07-10T16:20:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/RoberttheRobot.jpg",
-      "excerpt": "RB Labs unveiled 'Robert the Robot,' a humanoid with a digital screen-face, at the UN's AI for Good summit in Geneva - a live gut-check on how far embodied AI still is from natural human interaction. Its awkward expressions underline the gap between humanoid-robot hype and today's real capabilities.",
-      "rationale": "Freshest embodied-AI reality check — a distinct company and event (RB Labs at UN Geneva) from prior Agibot/UBTech humanoid coverage, and a useful counterweight to humanoid-robot hype."
+      "published_iso": "2026-07-01T13:55:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-06.jpg",
+      "excerpt": "Meta is adding rate limits to AI features on its Ray-Ban smart glasses, capping Conversation Focus at three hours a month free and gating 15 hours behind a $20/month Meta One Premium plan - an early sign of AI-glasses features moving to subscriptions.",
+      "rationale": "High-actionability trend signal - AI wearable features shifting behind subscriptions; distinct from the earlier super-sensing story and a real cost-of-AI shift for anyone building on the platform."
     },
     {
       "rank": 4,
-      "tool": "Honor",
+      "tool": "Galaxy Watch",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.gsmarena.com/honor_robot_phone_gets_a_rumored_launch_month-news-73606.php",
-      "source": "GSMArena",
-      "published_iso": "2026-07-07T12:00:00Z",
-      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/honor-robot-phone-launch-month/inline/-1200w5/gsmarena_001.jpg",
-      "excerpt": "Honor's 'Robot Phone' - an AI-hardware play with a 4DoF motorized gimbal camera that pops out and tracks subjects for hands-free mobile filmmaking - is now tipped for an August launch. Built on the Honor-ARRI partnership, it's one of the more radical attempts to fuse AI camera smarts with a moving robotic module in a phone.",
-      "rationale": "Novel, radical form factor — a phone with a pop-out 4DoF gimbal and AI subject tracking is a genuinely new device category cue for anyone thinking about AI-driven capture hardware."
-    },
-    {
-      "rank": 5,
-      "tool": "Rollme",
-      "category": "gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "url": "https://www.digitaltrends.com/wearables/rollmes-new-aircam-puts-a-camera-in-your-headphones-for-under-80/",
-      "source": "Digital Trends",
-      "published_iso": "2026-07-08T12:00:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Rollme-AirCam-in-black.jpg?resize=1200%2C720",
-      "excerpt": "Rollme's AirCam is a sub-$80 open-ear bone-conduction headset with an 8MP camera and onboard AI that does real-time object identification and live translation. It's a cheap, oddball stab at the camera-plus-AI wearable category that pricier pendants and smart glasses are chasing.",
-      "rationale": "Novel low-cost wearable — an under-$80 camera-plus-AI headset undercutting pricier pendants and smart glasses, expanding who can experiment with always-available AI capture."
+      "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-release-this-month/",
+      "source": "SamMobile",
+      "published_iso": "2026-07-02T07:42:00Z",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-tiles.jpg",
+      "excerpt": "Samsung's health notice signals One UI 9 Watch arriving this month, adding an AI-driven Blood Pressure Trend feature to Galaxy Watches while retiring Vascular Load in the US - a shift in the watch's on-device health-sensing stack.",
+      "rationale": "Concrete software/feature change (AI Blood Pressure Trend, Vascular Load retirement) distinct from the hardware teaser; a fourth distinct outlet keeps the final set at 4 unique stories and 4 outlets."
     }
   ],
   "dedup_notes": {
-    "checked_against": "pipeline/candidates_filtered_gadgets.json (already URL-deduped vs news_data.json history: dropped 1, kept 6). Content-dedup applied against published gadgets section (today + days, dates 2026-07-07 through 2026-07-12).",
+    "checked_against": "pipeline/candidates_filtered_gadgets.json (already URL-deduped vs news_data.json history: dropped 1, kept 7). Content-dedup applied against published gadgets section (today 2026-07-14 + days 2026-07-08 through 2026-07-13).",
     "collapsed_stories": [
-      "No content duplicates found — all six candidates cover distinct events. Prior humanoid coverage (Agibot London 07-09, UBTech U1 07-11) is a different company/event from RB Labs' 'Robert the Robot' at UN Geneva, so not a dup."
+      "OpenAI smart-speaker report: kept 9to5Mac, dropped Gizmodo (https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660) - same OpenAI x Jony Ive story; kept 9to5Mac for outlet diversity since Gizmodo is used for the Meta pick.",
+      "Galaxy Watch Unpacked teaser: kept Android Authority, dropped GSMArena (https://www.gsmarena.com/samsung_teases_the_next_galaxy_watch_and_its_aipowered_health_companion-news-73699.php) - same teaser event."
     ],
-    "dropped": "DROPPED Gizmodo 'Best gadgets of June 2026' https://gizmodo.com/best-gadgets-june-2026-2000778942 — evergreen roundup, low novelty/actionability; also keeps Gizmodo at 1 card within the diversity guard.",
-    "shortfall": "5 picks, none padded. Six-item pool minus one weak roundup yields exactly five distinct fresh stories.",
-    "diversity": "4 distinct outlets (Engadget x2 at the <=2 cap, Gizmodo, GSMArena, Digital Trends); five distinct topics (agentic home assistant, AI health wearable, humanoid robot, AI gimbal phone, AI camera-wearable); distinct accents assigned within the shared gadgets category."
+    "dropped": "DROPPED Digital Trends Nokia AI-button phones (https://www.digitaltrends.com/phones/hdm-just-launched-four-dumb-phones-with-a-nokia-badge-and-an-ai-button/) - content-dup of already-published nokia-ai-button (GSMArena, 2026-07-13): same HMD release, same four Nokia feature phones, same AI button + Sikey AI + 180-day subscription. Not a distinct angle.",
+    "shortfall": "4 picks, none padded. After dropping the Nokia dup and collapsing the two near-dupe pairs, the pool yields exactly 4 distinct never-before-seen stories (floor is 3, so 4 is valid).",
+    "diversity": "4 distinct outlets (9to5Mac, Android Authority, Gizmodo, SamMobile), max 1 card per outlet; distinct accents assigned within the shared gadgets category. Meta subscriptions pick confirmed distinct from published meta-super-sensing (2026-07-10, always-on FT report)."
   }
 }

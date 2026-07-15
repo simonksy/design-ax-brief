@@ -1,39 +1,39 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "movies",
   "window_hours": 336,
-  "now_iso": "2026-07-13T23:19:47Z",
+  "now_iso": "2026-07-15T01:35:00Z",
   "items": [
     {
-      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
-      "title": "NVIDIA 'Neural Rendering, World Models and Simulation' Keynote Set for SIGGRAPH 2026",
-      "source": "Animation World Network",
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-feature-odysseus-the-fall-1236646751/",
+      "title": "AI-Generated Odyssey Movie Costing a Few Thousand Dollars Unveiled Ahead of Nolan's $250 Million Feature",
+      "source": "The Hollywood Reporter",
       "category": "movies",
-      "published_iso": "2026-07-13T12:00:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg?itok=M3jKoqZZ",
-      "excerpt": "NVIDIA Research and Engineering leaders Neil Ashton, Ming-Yu Liu and Edward Liu will present the sponsored keynote 'Next Era of Graphics - Neural Rendering, World Models, and Simulation' at SIGGRAPH 2026 on July 20. The talk spotlights breakthrough neural rendering techniques and AI-built world models/simulation reshaping the computer graphics and VFX pipelines filmmakers depend on."
+      "published_iso": "2026-07-14T06:00:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/ODYSSEUS-_-The-Fall-still-11-H-2026.jpg?w=1296&h=730&crop=1",
+      "excerpt": "Fountain O unveiled 'Odysseus: The Fall,' a 135-minute AI-generated retelling of Homer's epic by director Ash Koosha, made for a mid-five-figure budget using Kling after OpenAI shuttered Sora. It launches to piggyback on Christopher Nolan's $250M traditional adaptation, dramatizing how generative video collapses feature-film budgets and workflows."
     },
     {
-      "url": "https://beforesandafters.com/2026/07/08/preview-the-computer-animation-festival-at-siggraph-in-this-stunning-trailer/",
-      "title": "Preview the Computer Animation Festival at SIGGRAPH in this stunning trailer",
-      "source": "befores & afters",
+      "url": "https://nofilmschool.com/ssff-asia-pitch-contest-2026",
+      "title": "Want ¥10 Million to Make Your Next Short? SSFF & ASIA Just Launched a Massive Pitch Competition",
+      "source": "No Film School",
       "category": "movies",
-      "published_iso": "2026-07-07T22:34:04Z",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/07/Apart.jpg",
-      "excerpt": "befores & afters shares the trailer for the Academy Award-qualifying SIGGRAPH 2026 Computer Animation Festival, previewing the animated shorts, visual effects, scientific visualizations and digital storytelling - including Best in Show winner 'Apart' - that define the current state of CG/animation craft. A craft-showcase angle adjacent to the AI-heavy SIGGRAPH program."
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/nihonchokuhan-presents-short-drama-pitch-contest.png?id=67114930&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C1",
+      "excerpt": "Short Shorts Film Festival & Asia opened a pitch competition offering ¥10 million in production funding for a winning short drama, permitting generative AI in pitch materials but requiring filmmakers to disclose exactly which sections used AI. A window into how major festivals are writing AI-disclosure rules into creative submissions."
     },
     {
-      "url": "https://www.youtube.com/watch?v=8d1UPMD4E3g",
-      "title": "Top 5 Secret A.I. Filmmaking Tools JULY 2026",
-      "source": "Simon Meyer",
-      "category": "social",
-      "published_iso": "2026-07-09T16:05:54Z",
-      "og_image": "https://i.ytimg.com/vi/8d1UPMD4E3g/maxresdefault.jpg",
-      "excerpt": "AI filmmaker Simon Meyer rounds up five lesser-known AI filmmaking tools for July 2026, walking through how each slots into a practical shot-by-shot generative-video workflow - a creator-medium look at the current AI film toolchain."
+      "url": "https://www.engadget.com/2208729/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/",
+      "title": "AI golem Tilly Norwood is reportedly 'starring' in a feature-length movie",
+      "source": "Engadget",
+      "category": "movies",
+      "published_iso": "2026-07-06T16:28:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/intro-1783355190.jpg",
+      "excerpt": "The AI-generated 'actress' Tilly Norwood is reportedly set to headline a feature called 'Misaligned' from Particle6 Productions — a 'coming-of-age story infused with existential AI chaos' set in the 'Tillyverse.' The move escalates the synthetic-performer fight (SAG-AFTRA: 'not an actor'), a live test of AI likeness/casting in narrative film."
     }
   ],
   "dedup": {
-    "dropped": 0,
+    "dropped": 2,
     "kept": 3,
     "against_days": 5
   }

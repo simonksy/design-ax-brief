@@ -1,22 +1,21 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "games",
   "media": [
     {
-      "id": "terrain-diffusion",
-      "type": "video",
-      "src": "pipeline/media/terrain-diffusion.mp4",
-      "poster": "pipeline/media/terrain-diffusion.jpg"
+      "id": "sts2-placeholder",
+      "type": "image",
+      "src": "pipeline/media/sts2-placeholder.jpg"
     },
     {
-      "id": "recomp-battleground",
+      "id": "lucas-ai-future",
       "type": "image",
-      "src": "pipeline/media/recomp-battleground.jpg"
+      "src": "pipeline/media/lucas-ai-future.jpg"
     },
     {
-      "id": "meccha-clone",
+      "id": "vibe-clone-steam",
       "type": "image",
-      "src": "pipeline/media/meccha-clone.jpg"
+      "src": "pipeline/media/vibe-clone-steam.jpg"
     }
   ]
 }

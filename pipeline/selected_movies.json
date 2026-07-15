@@ -1,40 +1,50 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "movies",
   "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
-      "source": "Animation World Network",
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-feature-odysseus-the-fall-1236646751/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Strongest, most distinct item: a specific NVIDIA sponsored keynote ('Next Era of Graphics — Neural Rendering, World Models, and Simulation') set for SIGGRAPH 2026 on July 20, spotlighting neural rendering and AI world models reshaping VFX/film pipelines. Concrete named-session news from a reputable trade outlet; no overlap with published SIGGRAPH cards, which covered the festival awards and general preview, not this keynote.",
-      "published_iso": "2026-07-13T12:00:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg?itok=M3jKoqZZ",
-      "excerpt": "NVIDIA Research and Engineering leaders Neil Ashton, Ming-Yu Liu and Edward Liu will present the sponsored keynote 'Next Era of Graphics - Neural Rendering, World Models, and Simulation' at SIGGRAPH 2026 on July 20. The talk spotlights breakthrough neural rendering techniques and AI-built world models/simulation reshaping the computer graphics and VFX pipelines filmmakers depend on.",
+      "rationale": "A full 135-min AI-generated feature made for five figures is a concrete shock to how filmmakers weigh budgets and generative-video pipelines — high actionability, novel, credible trade outlet.",
+      "published_iso": "2026-07-14T06:00:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/ODYSSEUS-_-The-Fall-still-11-H-2026.jpg?w=1296&h=730&crop=1",
+      "excerpt": "Fountain O unveiled 'Odysseus: The Fall,' a 135-minute AI-generated retelling of Homer's epic by director Ash Koosha, made for a mid-five-figure budget using Kling after OpenAI shuttered Sora. It launches to piggyback on Christopher Nolan's $250M traditional adaptation, dramatizing how generative video collapses feature-film budgets and workflows.",
       "category": "movies"
     },
     {
-      "url": "https://www.youtube.com/watch?v=8d1UPMD4E3g",
-      "source": "Simon Meyer",
-      "tool": "Social",
-      "accent": "#ff2d55",
+      "url": "https://nofilmschool.com/ssff-asia-pitch-contest-2026",
+      "source": "No Film School",
+      "tool": "Movies",
+      "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Most actionable social item: AI filmmaker Simon Meyer rounds up five lesser-known AI filmmaking tools for July 2026 and shows how each slots into a practical shot-by-shot generative-video workflow — a creator-medium look at the current AI film toolchain that changes what a filmmaker can reach for tomorrow. Fresh, distinct creator, no URL/content overlap with published movies cards.",
-      "published_iso": "2026-07-09T16:05:54Z",
-      "og_image": "https://i.ytimg.com/vi/8d1UPMD4E3g/maxresdefault.jpg",
-      "excerpt": "AI filmmaker Simon Meyer rounds up five lesser-known AI filmmaking tools for July 2026, walking through how each slots into a practical shot-by-shot generative-video workflow - a creator-medium look at the current AI film toolchain.",
-      "category": "social"
+      "rationale": "A funded festival competition that explicitly permits AI in pitches but mandates section-by-section disclosure — an actionable template for how filmmakers submit AI-assisted work now.",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/nihonchokuhan-presents-short-drama-pitch-contest.png?id=67114930&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C1",
+      "excerpt": "Short Shorts Film Festival & Asia opened a pitch competition offering ¥10 million in production funding for a winning short drama, permitting generative AI in pitch materials but requiring filmmakers to disclose exactly which sections used AI. A window into how major festivals are writing AI-disclosure rules into creative submissions.",
+      "category": "movies"
+    },
+    {
+      "url": "https://www.engadget.com/2208729/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/",
+      "source": "Engadget",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "A synthetic performer headlining a feature is a live escalation of the AI-casting/likeness fight that directly shapes how the industry treats performers — novel and consequential.",
+      "published_iso": "2026-07-06T16:28:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/intro-1783355190.jpg",
+      "excerpt": "The AI-generated 'actress' Tilly Norwood is reportedly set to headline a feature called 'Misaligned' from Particle6 Productions — a 'coming-of-age story infused with existential AI chaos' set in the 'Tillyverse.' The move escalates the synthetic-performer fight (SAG-AFTRA: 'not an actor'), a live test of AI likeness/casting in narrative film.",
+      "category": "movies"
     }
   ],
   "dedup_notes": {
-    "dropped_as_duplicates": [
-      "beforesandafters.com 'Preview the Computer Animation Festival at SIGGRAPH in this stunning trailer' (2026-07-07) — CONTENT near-duplicate of already-published movies cards: the 2026-07-09 'siggraph2026' general SIGGRAPH 2026 preview (Animation Magazine) and the 2026-07-07 'siggraph-caf' card (AWN), both of which already cover the SIGGRAPH 2026 Computer Animation Festival lineup and its Best-in-Show winner 'Apart'. Same event, reworded/different-outlet angle (a trailer of the same festival). Dropped per earliest-wins; not padded to reach the floor."
-    ],
+    "dropped_as_duplicates": [],
     "dropped_within_pool": [],
-    "history_checked": "candidates_filtered_movies.json (3 items) is already URL-deduped vs the last 5 days of movies history. Verified against sections.movies.today (2026-07-13) and days 2026-07-07/08/09. Applied content-dedup: the befores & afters CAF trailer overlaps published siggraph2026 + siggraph-caf coverage (dropped). NVIDIA keynote and the Simon Meyer video have no URL or content overlap with published movies cards.",
-    "diversity": "outlets: awn.com x1, youtube.com x1 (Simon Meyer) — 2 distinct sources/domains, within the <=2-per-domain guard. categories: movies x1, social x1 — no category exceeds the 1-2 guard; distinct accents already (#0070f3, #ff2d55).",
-    "shortfall": "2 picks vs the floor of 3. The fresh pool held only 3 items; the befores & afters CAF trailer was a content near-dup of already-published SIGGRAPH festival coverage and was dropped, leaving 2 genuinely fresh, distinct stories. No backfill remained, so publishing 2 rather than padding with a duplicate."
+    "history_checked": "candidates_filtered_movies.json (3 items) is already URL-deduped vs history. Applied content-dedup vs sections.movies today (2026-07-14: nvidia-neural, meyer-top5) and days 2026-07-08/09/10/11/13. Odysseus: The Fall is distinct from the 2026-07-09 keitel-ai card (that item is Michael Caine's AI voice for the ElevenLabs Odyssey AUDIOBOOK — a different event, not an AI-generated film). SSFF & ASIA pitch contest and Tilly Norwood have no URL or content overlap with any published movies card.",
+    "diversity": "outlets: hollywoodreporter.com x1, nofilmschool.com x1, engadget.com x1 — 3 distinct domains, within the <=2-per-domain guard. Single-category section (movies); distinct accents assigned (#0070f3, #f5a623, #7928ca).",
+    "shortfall": "3 picks — meets the floor of 3. The fresh pool held exactly 3 distinct, never-before-seen stories; none dropped as duplicates. No padding."
   }
 }

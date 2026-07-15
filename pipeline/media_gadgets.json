@@ -1,11 +1,26 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "gadgets",
   "media": [
-    { "id": "alexa-moonraker", "type": "image", "src": "pipeline/media/alexa-moonraker.jpg" },
-    { "id": "watch-illness-ai", "type": "image", "src": "pipeline/media/watch-illness-ai.jpg" },
-    { "id": "robert-robot", "type": "image", "src": "pipeline/media/robert-robot.jpg" },
-    { "id": "honor-robot-phone", "type": "image", "src": "pipeline/media/honor-robot-phone.jpg" },
-    { "id": "rollme-aircam", "type": "image", "src": "pipeline/media/rollme-aircam.jpg" }
+    {
+      "id": "openai-speaker",
+      "type": "image",
+      "src": "pipeline/media/openai-speaker.jpg"
+    },
+    {
+      "id": "galaxy-watch-teaser",
+      "type": "image",
+      "src": "pipeline/media/galaxy-watch-teaser.jpg"
+    },
+    {
+      "id": "meta-glasses-subscription",
+      "type": "image",
+      "src": "pipeline/media/meta-glasses-subscription.jpg"
+    },
+    {
+      "id": "one-ui-9-watch",
+      "type": "image",
+      "src": "pipeline/media/one-ui-9-watch.jpg"
+    }
   ]
 }

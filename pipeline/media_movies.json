@@ -1,17 +1,22 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "movies",
   "media": [
     {
-      "id": "nvidia-neural",
+      "id": "odysseus-fall",
       "type": "image",
-      "src": "pipeline/media/nvidia-neural.jpg"
+      "src": "pipeline/media/odysseus-fall.jpg"
     },
     {
-      "id": "meyer-top5",
+      "id": "ssff-asia-pitch",
       "type": "video",
-      "src": "pipeline/media/meyer-top5.mp4",
-      "poster": "pipeline/media/meyer-top5.jpg"
+      "src": "pipeline/media/ssff-asia-pitch.mp4",
+      "poster": "pipeline/media/ssff-asia-pitch.jpg"
+    },
+    {
+      "id": "tilly-norwood-misaligned",
+      "type": "image",
+      "src": "pipeline/media/tilly-norwood-misaligned.jpg"
     }
   ]
 }

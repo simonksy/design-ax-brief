@@ -1,41 +1,58 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "games",
-  "now_iso": "2026-07-13T23:19:47Z",
   "window_hours": 336,
-  "note": "SHORTFALL run — floor 3 met (3 verified-fresh, uncovered, design-relevant items), but well below the target of 5. The 14-day games window (>= 2026-06-29T23:19Z) remains heavily depleted, exactly as flagged and as yesterday's 1-item run predicted. WIDE sweep this run: all category keyword expansions site-scoped across the ~23 section allowed_domains; gamedeveloper.com full RSS (50 items) + Generative-AI-&-ML topic page; venturebeat games (Cloudflare-blocked); 80.lv /feed (10 latest) + AI/art keyword searches; pcgamer + gamesradar main RSS (50 each); kotaku / aftermath / thegamer feeds; and a full YouTube social slice — parsed the newest uploads (lockup metadata) from @NVIDIAGameDeveloper, @unity, @UnrealEngine, @inworldai, @TwoMinutePapers and verified uploadDate via each watch page's JSON-LD. Every published_time here was verified by fetching the article/watch HTML (og article:published_time / JSON-LD datePublished / YouTube uploadDate) — never a snippet date. WHAT KILLED THE FUNNEL: (1) COVERED/flagged dups per override + news_data games deck — NVIDIA ACE UE5.7 NPC (6/30 video, already ran 7/13), Steam AI-disclosure debate + Steam AI survey (7/10), Godot AI-code ban (7/1, dup 'godot-ai-ban'), DOOM DLSS, Unity AI debug, Slopfix, Amano, UE image/video gen, Unity scene-setup, Sega slop, C&C iOS vibe-code port, MetaHuman reel, Gaider 'plague', Sony synthetic assets, plus 20+ earlier. (2) STALE (< June 29) despite recent-looking hits — Cascadeur 2026.1 (Apr-09), Hyper3D Rodin Gen-2.5 (Jun-03), Roblox 4D/Cube (Feb-05), Tencent Hunyuan 3D (Nov-26), OctaneStudio+ (Dec-02), Fortnite UEFN Gemini/ElevenLabs NPC (Apr-19), Replica smart NPCs UE, Layer/Scenario art-tool coverage, Meta WorldGen (Nov-24), Genie 2/3 & SIMA 2 (earlier), 'developer use of gen AI declining' (Mar-06), all Inworld TTS-2/STT/video-gen uploads (Jan–Jun), NVIDIA DLSS4.5/path-tracing-hair/AI-C++-assistant/Ubisoft-Teammates videos (Apr–Jun). (3) DROPPED as business/industry noise per relevance test — gamedeveloper.com July RSS is exclusively layoffs/business (11 bit, Obsidian, id, Zenimax/Xbox 3,200 cuts, Atari, Blizzard, Nintendo, PlayStation physical-disc, Rockstar), pcgamer/gamesradar main feeds skew to hardware/security/AI-datacenter, EA-exec + 'major investor shocked' AI-sentiment op-eds. RESULT: 3 verified-FRESH uncovered design-relevant items below. Item 3 (Meccha AI-clone) is borderline culture/slop and tagged for the curator to weigh; items 1–2 are the workflow/tool-relevant picks. Reporting shortfall honestly per override; a limited/skipped roll is acceptable.",
+  "now_iso": "2026-07-15T01:35:00Z",
   "items": [
     {
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "source": "Two Minute Papers",
+      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+      "title": "Godot to ban (almost all) AI coding contributions",
+      "source": "Game Developer",
       "category": "games",
-      "title": "Minecraft Was Missing One Brilliant Idea",
-      "published_iso": "2026-07-12T15:48:43Z",
-      "og_image": "https://i.ytimg.com/vi/Ae9q7KsRbuI/maxresdefault.jpg",
-      "excerpt": "Two Minute Papers breaks down Terrain Diffusion — a diffusion-model mod (shipping on Modrinth/GitHub) that generates far richer, more varied Minecraft terrain than the game's hand-tuned noise system. A concrete example of generative AI as a real procedural-content-generation tool a game's modders/designers can actually install and use."
+      "published_iso": "2026-07-01T18:14:09Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf37f0e888236bac1/6a453c420818ce731dd5fb9c/godot-fb-tw-share-image-1920x1080-0abe26cbac38.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "The Godot Foundation updated its contribution policy to ban AI-generated code for substantial pieces of work, while still permitting narrow AI assists like code completion and regex helpers. A concrete engine-governance stance on how (and whether) generative AI belongs in a game-dev codebase: 'AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it.'"
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
-      "source": "PC Gamer",
-      "category": "games",
-      "title": "PC ports of old console games are the new AI vibe coding battleground",
-      "published_iso": "2026-07-09T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/cnYqvbCpcTAgL4NMej8Ea3-1213-80.jpg",
-      "excerpt": "With projects like Donkey Kong 64 Recompiled, human programmers are staking a claim on the craft of retro recompilation as a wave of AI-vibe-coded ports floods in — a look at how LLM-assisted coding is reshaping (and contesting) the workflow of bringing old games to PC."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/co-op/meccha-chameleon-awarded-steams-highest-honor-a-fast-follow-ai-ripoff-that-even-uses-the-same-name-in-some-regions/",
+      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
+      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
       "source": "GamesRadar+",
       "category": "games",
-      "title": "Meccha Chameleon awarded Steam's highest honor: a fast-follow AI ripoff that even uses the same name in some regions",
-      "published_iso": "2026-07-13T16:24:39Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/y53ariz5jKVciNeguYEeg5-1920-80.jpg",
-      "excerpt": "A generative-AI 'fast-follow' clone of the co-op hit Scribble Hunt tops a Steam chart — even reusing the original's name in some regions — spotlighting how cheap AI content pipelines are accelerating storefront clone-flooding. Borderline culture/slop item; flagged for the curator to weigh against the two workflow picks."
+      "published_iso": "2026-07-14T14:20:43Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
+      "excerpt": "Mega Crit's lead argues that deliberately rough hand-made placeholder art is a vital part of the early-access design process, and that swapping it for polished generative-AI art would distort how players judge an unfinished game. A working designer's craft case for why gen AI doesn't fit their iteration workflow."
+    },
+    {
+      "url": "https://aftermath.site/yoshitaka-amano-is-more-centrist-on-ai-than-youd-hope/",
+      "title": "Yoshitaka Amano Is More Centrist on AI Than You'd Hope",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-07-14T18:05:16Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/ZAN-Yoshitaka-Amano.jpg",
+      "excerpt": "Legendary Final Fantasy artist Yoshitaka Amano gives a notably measured take on generative AI in creative work, resisting a flat rejection. A prominent game-art voice weighing how AI intersects with hand-crafted illustration — useful context for how veteran creatives are positioning themselves on the tech."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/good-games-will-get-cloned-and-buried-ai-vibe-coding-is-one-of-the-biggest-threats-on-storefronts-like-steam-analyst-warns/",
+      "title": "'Good games will get cloned and buried' – AI vibe coding is one of the biggest threats on storefronts like Steam, analyst warns",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-14T19:13:29Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg",
+      "excerpt": "An industry analyst warns that AI 'vibe coding' will let opportunists rapidly clone successful games and flood storefronts, burying originals under low-effort copies. A discoverability-and-design-economics angle on how fast generative tooling is changing what shipping a game on Steam looks like."
+    },
+    {
+      "url": "https://kotaku.com/george-lucas-artificial-intelligence-ai-museum-art-2000715801",
+      "title": "George Lucas Goes To The Dark Side, Says AI Is 'The Future'",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-07-14T14:00:10Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-14-at-9.46.17-AM-1200x675.jpg",
+      "excerpt": "Star Wars creator George Lucas compares refusing to use AI to riding a horse in the age of cars, calling the tech inevitable for creative work. A high-profile creator framing generative AI as an unavoidable shift — the kind of stance shaping how studios and creatives debate adopting it."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 3,
+    "dropped": 1,
+    "kept": 5,
     "against_days": 5
   }
 }

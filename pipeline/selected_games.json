@@ -1,45 +1,62 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "games",
   "selection_mode": "agent",
   "shortfall": true,
   "picks": [
     {
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "source": "Two Minute Papers",
+      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
+      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-14T14:20:43Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
+      "excerpt": "Mega Crit's lead argues that deliberately rough hand-made placeholder art is a vital part of the early-access design process, and that swapping it for polished generative-AI art would distort how players judge an unfinished game. A working designer's craft case for why gen AI doesn't fit their iteration workflow.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Strongest pick: a real, installable generative-AI PCG tool. Terrain Diffusion is a diffusion-model Minecraft mod (shipping on Modrinth/GitHub) that generates richer terrain than hand-tuned noise — a concrete workflow a game's modders/designers can actually download and use. Distinct from the earlier JGS2 Two Minute Papers card (different video, different paper).",
-      "published_iso": "2026-07-12T15:48:43Z",
-      "og_image": "https://i.ytimg.com/vi/Ae9q7KsRbuI/maxresdefault.jpg",
-      "excerpt": "Two Minute Papers breaks down Terrain Diffusion — a diffusion-model mod (shipping on Modrinth/GitHub) that generates far richer, more varied Minecraft terrain than the game's hand-tuned noise system. A concrete example of generative AI as a real procedural-content-generation tool a game's modders/designers can actually install and use."
+      "rationale": "A working studio's concrete craft argument for why rough placeholder art beats gen-AI polish during iteration — directly actionable for how designers run early-access playtesting and manage player perception."
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
-      "source": "PC Gamer",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "Fresh trend analysis of how LLM-assisted 'vibe coding' is reshaping and contesting the craft of retro recompilation (e.g. Donkey Kong 64 Recompiled) as AI-vibe-coded ports flood in. Judged distinct from the 7/7 cnc-ios-vibeport C&C card: different URL, and a broader battleground/craft piece rather than that single iOS-port release.",
-      "published_iso": "2026-07-09T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/cnYqvbCpcTAgL4NMej8Ea3-1213-80.jpg",
-      "excerpt": "With projects like Donkey Kong 64 Recompiled, human programmers are staking a claim on the craft of retro recompilation as a wave of AI-vibe-coded ports floods in — a look at how LLM-assisted coding is reshaping (and contesting) the workflow of bringing old games to PC."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/co-op/meccha-chameleon-awarded-steams-highest-honor-a-fast-follow-ai-ripoff-that-even-uses-the-same-name-in-some-regions/",
-      "source": "GamesRadar+",
+      "url": "https://kotaku.com/george-lucas-artificial-intelligence-ai-museum-art-2000715801",
+      "title": "George Lucas Goes To The Dark Side, Says AI Is 'The Future'",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-07-14T14:00:10Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-14-at-9.46.17-AM-1200x675.jpg",
+      "excerpt": "Star Wars creator George Lucas compares refusing to use AI to riding a horse in the age of cars, calling the tech inevitable for creative work. A high-profile creator framing generative AI as an unavoidable shift — the kind of stance shaping how studios and creatives debate adopting it.",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Borderline culture/slop item taken to meet floor 3: a generative-AI 'fast-follow' clone of a co-op hit tops a Steam chart, spotlighting how cheap AI content pipelines accelerate storefront clone-flooding — a fresh, distinct story (no prior games-deck match) that credibly frames the ecosystem designers now ship into.",
-      "published_iso": "2026-07-13T16:24:39Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/y53ariz5jKVciNeguYEeg5-1920-80.jpg",
-      "excerpt": "A generative-AI 'fast-follow' clone of the co-op hit Scribble Hunt tops a Steam chart — even reusing the original's name in some regions — spotlighting how cheap AI content pipelines are accelerating storefront clone-flooding."
+      "rationale": "A landmark creator's blunt 'AI is inevitable' framing sits opposite the same day's craft-refusal takes — high novelty and credibility, sharpening the adoption debate studios and creatives are having right now."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/good-games-will-get-cloned-and-buried-ai-vibe-coding-is-one-of-the-biggest-threats-on-storefronts-like-steam-analyst-warns/",
+      "title": "'Good games will get cloned and buried' – AI vibe coding is one of the biggest threats on storefronts like Steam, analyst warns",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-14T19:13:29Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg",
+      "excerpt": "An industry analyst warns that AI 'vibe coding' will let opportunists rapidly clone successful games and flood storefronts, burying originals under low-effort copies. A discoverability-and-design-economics angle on how fast generative tooling is changing what shipping a game on Steam looks like.",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "A macro analyst view on AI-cloning as a discoverability threat — distinct from the specific Meccha clone incident already published — that changes how devs think about differentiation and launch strategy on storefronts."
     }
   ],
   "dedup_notes": {
-    "note": "User deferred (agent pick). Floor 3 MET, but below the target of 5 — the games 14-day window remains genuinely depleted (yesterday shipped 1; the librarian's wide sweep surfaced only 3 fresh, uncovered, URL+content-deduped items). All 3 verified NOT content dups of any published games card: (1) Terrain Diffusion is a different video/paper than the JGS2 Two Minute Papers card (uO5cvkzh3P0); (2) the PC Gamer recompilation-battleground trend piece is a distinct story and URL from the 7/7 cnc-ios-vibeport C&C-iOS-port card — broader craft/trend analysis, not the same release; (3) Meccha Chameleon has no prior match. Diversity guard satisfied: 3 distinct outlets (Two Minute Papers, PC Gamer, GamesRadar+), no outlet >2. Not padded.",
-    "dropped": []
+    "note": "User deferred (agent pick). Floor 3 MET, below target of 5 because the pool of 5 yielded only 3 fresh, uncovered, content-deduped stories — not padded. Content-dedup vs sections.games published history dropped 2. Diversity guard: GamesRadar+ x2 (at the cap), Kotaku x1; single-section 'games' category so accents varied across palette (#7928ca, #f5a623, #0070f3).",
+    "dropped": [
+      {
+        "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+        "title": "Godot to ban (almost all) AI coding contributions",
+        "reason": "Content duplicate — the Godot AI-code ban's substance AND its signature quote ('AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it') were already published in the 'slopfix' card (2026-07-09) and its stance reinforced in 'recomp-battleground' (2026-07-14). Also the oldest pool item (2026-07-01), barely fresh."
+      },
+      {
+        "url": "https://aftermath.site/yoshitaka-amano-is-more-centrist-on-ai-than-youd-hope/",
+        "title": "Yoshitaka Amano Is More Centrist on AI Than You'd Hope",
+        "reason": "Content duplicate of 'amano-zan' (Polygon, 2026-07-08) — same artist, same measured 'AI as tool, not creator' stance, same Anime Expo interview window, covered via a different outlet."
+      }
+    ]
   }
 }

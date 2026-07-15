@@ -1,21 +1,20 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "books",
   "media": [
     {
-      "id": "debbonaire-ai",
+      "id": "ai-audiobook-surveys",
       "type": "image",
-      "src": "pipeline/media/debbonaire-ai.jpg"
+      "src": "pipeline/media/ai-audiobook-surveys.jpg"
     },
     {
-      "id": "vancouver-standard",
+      "id": "kindle-translate-expand",
       "type": "image",
-      "src": "pipeline/media/vancouver-standard.jpg"
+      "src": "pipeline/media/kindle-translate-expand.jpg"
     },
     {
-      "id": "rakuten-discovery",
-      "type": "image",
-      "src": "pipeline/media/rakuten-discovery.png"
+      "id": "ipa-childrens-books",
+      "type": "svg"
     }
   ]
 }

@@ -1,98 +1,120 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "cards": [
     {
-      "id": "terminal-canvas",
-      "eyebrow": "AI NEWS",
-      "tool": "Figma",
-      "headline": "디자이너의 캔버스가\n터미널로 옮겨갔다",
-      "mini_headline": "터미널이 된 캔버스",
-      "body": "피그마 대신 터미널에서 에이전트에게 일을 맡기며, 몇 주 걸리던 작업을 하루에 끝낸다.",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1400/1*DWyRC6NyUUgkB5GW1mkmyQ.png" },
-          { "t": "p", "x": "커리어 내내 그의 창작 도구는 캔버스였다. 피그마, 일러스트레이터, 스케치북, 벽. 눈으로 보고 손으로 주무를 수 있는 무언가였다." },
-          { "t": "p", "x": "그런데 근 이 년째 그 캔버스는 터미널이다." },
-          { "t": "p", "x": "하루 종일 검은 화면 앞에서 에이전트에게 말을 걸고 명령을 돌리고 코드를 리뷰하고 피드백을 주고 또 다른 에이전트를 띄우며, 그것들이 뭘 하는지 놓치지 않으려 애쓴다." },
-          { "t": "p", "x": "이상한 건 이렇게까지 생산적인 적이 없다는 것이다. 몇 주 걸리던 걸 하루에 만들고, 하나가 아니라 열 개의 아이디어를 동시에 파고, 그 어느 때보다 빠르게 내놓는다." },
-          { "t": "p", "x": "좋다. 하지만 동시에 끔찍하다. (Medium 멤버 전용 글이라 이 카드는 공개된 도입부만 옮겼다.)" }
-        ]
-      }
-    },
-    {
-      "id": "ax-orchestration",
-      "eyebrow": "AI NEWS",
+      "id": "design-org",
       "tool": "AI Workflow",
-      "headline": "AX는 꾸밀 화면이 아니라\n디자이너가 쥔 조율 층이다",
-      "mini_headline": "화면 아래 조율 층",
-      "body": "화면이 사라진 자리에서 일은 없어진 게 아니라 한 층 아래로 내려갔고, 이제 디자이너가 그 조율 층을 맡는다.",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 디자인의 전부가 되면\n디자이너가 다듬을 대상은 조직이다",
+      "body": "AI가 디자인을 도맡는 시대에는 디자이너가 손대는 대상이 화면에서 조직 자체로 옮겨간다.",
+      "mini_headline": "이제 조직을 디자인한다",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45",
+      "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1400/1*oClaxaWA_8gphYwyopqP7g.png" },
-          { "t": "p", "x": "수동 다섯 단계가 하나의 위임으로 접히고, 그것들을 조율하던 모든 게 선 아래 아무도 그리라고 배운 적 없는 층으로 내려간다. 제미나이로 생성한 이미지." },
-          { "t": "p", "x": "존 마에다의 디자인 인 테크 리포트를 뒤늦게, 휴대폰으로, 이미 동의하는 글을 읽듯 반쯤 흘려보며 읽었다. 그는 이 변화에 이름을 붙였고 그 이름은 좋았다. UX에서 AX로. 사용자 경험에서 에이전트 경험으로." },
-          { "t": "p", "x": "그러다 한 단어에서 엄지가 멈췄다." },
-          { "t": "p", "x": "마에다는 새로운 일을 \"인터페이스를 만드는 데서 결과를 오케스트레이션하는 데로 옮겨 가는 것\"이라고 표현한다. 디자인도, 배치도, 흐름도 아닌 오케스트레이션. 그 단어를 담아 둔 폴더가 이미 있었는데, 이름표는 '트렌드'가 아니라 '층'이었다. 마에다는 그 말을 디자인이 향하는 방향, 곧 움직임을 가리키는 데 썼다." },
-          { "t": "p", "x": "움직임을 가리키는 말과 장소를 가리키는 이름 사이의 그 틈이 이 글의 주제다. 둘 중 하나가 틀려서가 아니다. 움직임은 눈에 잘 띈다. 피드가 온통 그 얘기다. 장소는 그렇지 않다. 그리고 실제 디자인 작업이 지금 사는 곳이 바로 그 장소다. (Medium 멤버 전용 글이라 공개된 도입부까지만 옮겼다.)" }
+          { "t": "p", "x": "전략 회의 자리를 떠올려 보자. 누군가 디자인 사고를 조직 전체에 심어야 한다고 힘줘 말하던 그 순간을." },
+          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg" },
+          { "t": "p", "x": "저자 Zeeshan Khalid가 던지는 질문은 이렇다. 통합 디자인이 조직 구석구석에 디자인이 배어드는 것이라면, AI가 디자인 구석구석에 배어들 때는 어떤 모습일까." },
+          { "t": "p", "x": "그는 AI를 그저 도구로 쓰는 것과, 디자인 과정 자체에 AI가 스며드는 것을 뚜렷이 구분한다." },
+          { "t": "p", "x": "마지막 물음은 정체성과 주도권으로 향한다. 모든 것을 디자인하는 그 존재마저 기계의 손에 다시 디자인되는 지금, 디자이너란 무엇이고 조직이란 무엇인가." },
+          { "t": "p", "x": "이 글은 Medium 회원 전용이라 공개된 도입부만 옮겼다." }
         ]
       }
     },
     {
-      "id": "logo-quits",
+      "id": "leaders-fast",
+      "tool": "Figma",
       "eyebrow": "AI NEWS",
-      "tool": "Social",
-      "headline": "AI가 나보다 낫다며\n로고 디자이너가 그만두다",
-      "mini_headline": "그만둔 로고 디자이너",
-      "body": "정상급 로고 디자이너가 AI가 낫다며 그만두자, 개리 사이먼이 페이블 5로 로고 9개를 만들어 검증한다.",
-      "source": "DesignCourse",
-      "url": "https://www.youtube.com/watch?v=k3_VO8HybME",
-      "accent": "#ff2d55",
+      "headline": "AI가 디자인을 빠르게 만들자\n리더 32명이 내놓은 답",
+      "body": "나흘 걸리던 작업이 몇 시간으로 줄자, 리더 32명이 완성도를 지키며 속도 압박을 견디는 법을 내놨다.",
+      "mini_headline": "속도 압박, 리더 32명의 답",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "사이버보안 업계의 한 디자인 총괄은 이렇게 말한다. 디자인 생산 시간을 나흘에서 여섯 시간 내지 여덟 시간으로 줄였고, 출시까지 걸리는 시간이 기하급수적으로 짧아졌다고. 다만 내부 프로세스를 다듬는 건 쉬운 축에 든다고 덧붙인다." },
+          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*gkRv4ROxY5MhgxY9URVs_w.jpeg" },
+          { "t": "p", "x": "AI 덕에 몇 주씩 걸리던 리서치가 며칠로, 오후 내내 붙잡던 콘셉트 스케치가 20분으로 줄었다." },
+          { "t": "p", "x": "문제는 경영진이 여기서 더 빨리를 주문한다는 데 있다. 생성은 빨라졌지만 생각하는 시간은 그대로다." },
+          { "t": "p", "x": "그래서 저자 Kai Wong은 속도 압박을 받을 때 디자인 리더 32명이 실제로 어떻게 움직이는지를 하나하나 짚는다." },
+          { "t": "p", "x": "전문은 Medium 회원 전용이라 공개분만 옮겼다." }
+        ]
+      }
+    },
+    {
+      "id": "agents-design",
+      "tool": "Design Tokens",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 코딩 도구의 뻔한 UI를\n디자인 시스템으로 바로잡다",
+      "body": "AI 코딩 도구가 늘 뽑아내는 뻔한 UI 대신, DESIGN.md와 프롬프트로 취향을 입히는 디자인 자료 모음이다.",
+      "mini_headline": "코딩 AI에 취향 입히기",
+      "source": "DEV Community",
+      "url": "https://dev.to/tranbathanhtung/agents-design-design-resources-built-for-cursor-claude-code-codex-v0-bolt-lovable-4f0o",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "p", "x": "Cursor, Claude Code, Codex, v0, Bolt, Lovable를 써 봤다면 익숙한 장면이 있다." },
+          { "t": "p", "x": "어디에나 Inter 폰트, 보라에서 인디고로 흐르는 그러데이션, 히어로 아래 기능 카드 세 장과 가격표. 채팅 안에서는 멀쩡해 보이다가 실제 서비스에 올리면 어김없이 템플릿 티가 난다." },
+          { "t": "p", "x": "탓할 것은 모델이 아니라, 모델에게 건네는 디자인 맥락이다." },
+          { "t": "img", "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyc71r1kuqsz6tjcx1t4r.png" },
+          { "t": "p", "x": "agents.design은 AI 코딩 에이전트를 위해 추려 모은 디자인 자료 갤러리다. 에이전트가 그대로 따라갈 DESIGN.md 명세와, 코딩 에이전트에 맞춰 다듬은 복붙용 프롬프트를 담았다." },
+          { "t": "p", "x": "쓰는 순서는 이렇다. 제품 분위기에 맞는 디자인을 고르고, 프롬프트를 복사하거나 템플릿과 DESIGN.md를 내려받아 Cursor나 Claude Code, Codex, v0, Bolt, Lovable에 붙여 넣는다." },
+          { "t": "p", "x": "AI 코딩 도구는 구현은 기막히게 잘하지만, 제대로 된 디자인 시스템과 구조, 제약을 손에 쥐여 주지 않으면 취향에서는 평범하다. 템플릿은 꾸준히 늘어나고, 무료 디자인부터 둘러보거나 전체 카탈로그를 통째로 열어 볼 수도 있다." }
+        ]
+      }
+    },
+    {
+      "id": "visual-native",
+      "tool": "AI Workflow",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 이제 말이 아니라\n이미지로 생각한다",
+      "body": "앤드루 다이의 Elorian은 이미지를 글로 옮기지 않고 곧장 3D로 그려 사고하는 모델을 만든다.",
+      "mini_headline": "이미지로 사고하는 AI",
+      "source": "Fast Company",
+      "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
+      "accent": "#3b6bff",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "video", "yt": "k3_VO8HybME" },
-          { "t": "p", "x": "지난주 벌어진 논란을 다룬다. 한 유명 로고 디자이너가 \"AI가 나보다 낫다\"며 공개적으로 손을 뗐다." },
-          { "t": "p", "x": "개리 사이먼은 페이블 5를 시험대에 올린다. 세 개의 사업체를 위한 로고 콘셉트 9개를 페이블 5에게 만들게 해, 얼마나 잘하는지 그리고 정말 프로 로고 디자이너보다 나은지 확인한다." },
-          { "t": "p", "x": "영상은 논란 소개로 시작해 사업체별 로고를 차례로 살펴본 뒤 그의 총평으로 마무리된다." }
+          { "t": "p", "x": "말 기반 대규모 언어 모델이 10년을 이끌어 온 끝에, 연구자들은 글이 아니라 이미지로 직접 추론하는 모델에 승부를 건다." },
+          { "t": "img", "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91571127-elorian-ai.jpg" },
+          { "t": "p", "x": "구글 딥마인드를 떠난 베테랑 AI 연구자 Andrew Dai는 스타트업 Elorian AI를 세웠고, 이 회사는 4월에 스텔스에서 벗어났다." },
+          { "t": "p", "x": "Elorian이 만드는 시각 추론 모델은 이미지를 놓고 곧장 생각한다. 사람이 머릿속으로 무언가를 그려 보듯, 이미지의 촘촘한 3D 내부 지도를 세운다." },
+          { "t": "p", "x": "지금의 멀티모달 방식과는 다르다. 구글의 Gemini 같은 모델은 이미지를 처리할 때 먼저 말로 촘촘히 묘사한 다음, 그 말을 두고 추론해 이미지에 관한 판단을 내린다." },
+          { "t": "p", "x": "Dai는 시각 이미지가 모델 지능에 언어만큼, 어쩌면 그 이상으로 근본이 된다고 본다. 그는 프런티어 언어 모델이 물리 세계를 제대로 추론하지 못해 벽에 부딪혔다고 말한다." },
+          { "t": "p", "x": "애플 출신 머신러닝 연구자 Yinfei Yang과 함께 세운 Elorian은, 모델 구조 안에서 시각 데이터에 언어 토큰과 똑같은 자리를 내준다." }
         ]
       }
     },
     {
-      "id": "trek-vfx-ai",
+      "id": "intern-desk",
+      "tool": "Figma",
       "eyebrow": "AI NEWS",
-      "tool": "KeyShot",
-      "headline": "인디 스타트렉 팀이\nAI로 그린스크린을 바꾼다",
-      "mini_headline": "AI로 푸는 그린스크린",
-      "body": "독일 팬무비 팀 로렐라이가 실시간 프리뷰와 개발 중인 AI 키잉으로 그린스크린 뒷작업을 줄인다.",
+      "headline": "책상 위 AI 비서가\n메일부터 코딩까지 맡는다",
+      "body": "Autonomous의 데스크형 AI 인턴 2가 목소리를 갖추고, 밤낮없이 메일부터 코딩까지 도맡는다.",
+      "mini_headline": "책상 위 24시간 AI 비서",
       "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/3d/vfx-cgi/why-this-indie-star-trek-film-team-thinks-ai-could-finally-fix-vfxs-biggest-headache",
-      "accent": "#f5a623",
-      "motif": "sphere",
+      "url": "https://www.creativebloq.com/tech/the-only-difference-between-the-coworker-sitting-next-to-you-and-intern-is-that-intern-works-unlimited-hours-new-ai-super-assistant-sits-on-your-desk-has-a-mind-and-voice-and-handles-everything-from-email-to-coding",
+      "accent": "#eb367f",
+      "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/TcLegdLJeR7EXKTk85zq5T.jpg" },
-          { "t": "p", "x": "그린스크린은 밖에서 보면 쉬워 보인다. 평평한 색 벽에 키만 따고 합성하면 끝일 것 같다. 하지만 독일 로렐라이 프로덕션의 하이코 티스와 소규모 팀에게 늘 문제는 가장자리였다. 깔끔하게 떨어지지 않는 머리카락, 가만있지 않는 모션 블러, 후반에 깊이 들어가서야 눈에 띄는 색 번짐." },
-          { "t": "p", "x": "촬영감독 티스는 \"그린스크린 작업은 늘 추측의 연속이었고, 후반에서 각 샷을 추적하려면 화면에 마커를 잔뜩 붙여야 했다\"고 말한다. 그 마커가 머리카락 가장자리처럼 원치 않는 곳에 겹쳐 \"나중에 키잉할 때 정말 성가시다\"고 덧붙인다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/rmmA97NXfHFwpegLUemBzF.jpg" },
-          { "t": "p", "x": "시작은 훨씬 작았다. 2020년 무렵 10분짜리 스타트렉 테스트 에피소드였고, 벤야민 슐츠와 데니스 슈트라우스가 이끄는 팬 몇 명이 좋아서 만든 것이었다. 규모가 커지며 에르스트콘탁트에 이르러선 작은 스튜디오처럼 움직였다. 온통 그린스크린, 언리얼 엔진 환경, CGI 함선까지. 티스가 촬영과 합성, 버추얼 프로덕션을 맡고 벤야민이 3ds Max로 무거운 CGI를 맡았다." },
-          { "t": "p", "x": "해법은 라이트크래프트의 젯셋이었다. 도구라기보다 세트와 후반을 잇는 공용 시각 기준에 가까웠다. 합성이 존재하기 전에 미리 들여다보는 창이다. 티스는 \"최종 샷이 어떻게 나올지 근사한 모습을 실제로 볼 수 있다\"고 말한다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/ubiaJcarXcRQX87qZAHwYS.jpg" },
-          { "t": "p", "x": "젯셋 시네는 여기서 한발 더 나간다. 타임코드 동기화, 오토샷의 테이크 연결, 액순 세모 4K로 들어오는 실시간 카메라 프리뷰까지 자동으로 처리한다. \"시네 버전은 이런 단계를 자동화해 후반 시간을 엄청나게 아껴 준다\"고 그는 말한다. 덕분에 세트에서 각 테이크를 바로 확인하고, 문제가 있으면 그 자리에서 다시 찍는다." },
-          { "t": "p", "x": "가장 큰 변화는 그린스크린 자체를 예전처럼 관리할 필요가 줄었다는 점이다. 프레임에 흩어진 추적 마커도, 머리카락을 가로지르는 걱정도 없다. \"그린스크린에 마커가 더는 없고, 키잉 결과가 훨씬 좋아졌다\"고 티스는 말한다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/nCyBQpiLPHUWsg3U8qJXkS.jpg" },
-          { "t": "p", "x": "팀은 다음 단계도 시험 중이다. 아직 개발 중인 AI 기반 키잉 시스템 코리더키 2.0인데, 초기 테스트부터 가능성이 보였다. 로렐라이가 노리는 건 더 큰 볼거리가 아니라, 촬영하는 순간 더 많은 부분이 이미 맞아떨어져 나중에 고칠 일이 줄어드는 파이프라인이다. 티스는 \"언젠가 가우시안 스플랫으로 홀로덱 장면을 만들지도 모른다\"고 농담한다." }
+          { "t": "p", "x": "Autonomous가 자사 AI 인턴의 새 버전을 내놨다. 책상 위에 올려 두고 바로 쓰는 플러그앤플레이 방식의 AI 슈퍼 비서다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/tp4DyZiXWrd6UMUjXTaSgY-2042-80.jpg" },
+          { "t": "p", "x": "이번 업그레이드로 인턴은 생각과 목소리를 얻었다. 회사의 표현을 빌리면, 옆자리 동료와 이 인턴의 유일한 차이는 인턴이 무제한으로 일한다는 점이다." },
+          { "t": "p", "x": "크리에이터를 겨냥한 이 기기는 소셜 미디어 게시물이나 일상적인 일정·행정 업무를 처리하고, 코딩처럼 손이 많이 가는 일까지 맡는다. 작은 크리에이티브 팀이 짊어지던 잡무를 얼마나 흡수하는지 시험하는 셈이다." },
+          { "t": "p", "x": "브라우저에 얹힌 AI 동료와 달리 이 하드웨어는 24시간 돌아간다. 메인 컴퓨터가 잠들어 있는 사이에도 일정을 챙기고 메일을 분류한다." },
+          { "t": "p", "x": "지시는 텍스트나 음성으로 하고, Slack이나 Discord, Telegram 같은 팀 채팅으로 일을 넘길 수도 있다. 처리는 클라우드가 아니라 기기 안에서 이뤄진다." }
         ]
       }
     }

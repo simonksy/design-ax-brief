@@ -1,64 +1,72 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "gadgets",
-  "now_iso": "2026-07-13T23:19:47Z",
+  "now_iso": "2026-07-15T01:35:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
-      "source": "Engadget",
+      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-01T20:23:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/space-x-is-reportedly-testing-a-handheld-ai-device/intro-1782937421.jpg",
-      "excerpt": "A report claims SpaceX demoed a handheld AI device to investors - a phone-like gadget slimmer than an iPhone, built around Qualcomm silicon and xAI's Grok assistant as a dedicated AI-first form factor. Elon Musk dismissed the report as 'utterly false,' but it adds to the wave of companies chasing a screenless AI hardware category."
+      "published_iso": "2026-07-14T21:14:00Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600",
+      "excerpt": "A new report says OpenAI and Jony Ive's io first hardware device will be a portable, screenless smart speaker with a camera and sensors that read the user's surroundings — pitched as an AI-first 'home computer' rather than a phone-style gadget."
     },
     {
-      "url": "https://www.engadget.com/2210614/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-08T16:33:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/intro-1783528237.jpg",
-      "excerpt": "Amazon is reportedly building 'Moonraker,' a more powerful agentic version of Alexa+ that can chain multi-step tasks - like booking a ride while texting a friend - across Echo devices. The upgrade is meant to keep Alexa hardware competitive with agentic assistants from Google, Anthropic and OpenAI."
-    },
-    {
-      "url": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-04T18:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/how-your-smartwatch-and-ai-can-detect-early-signs-of-illness/intro-1782925052.jpg",
-      "excerpt": "A look at how AI-enhanced smartwatches and health wearables are being trained to flag early signs of illness by fusing heart rate, temperature and other signals against a personal baseline. The piece frames where on-wrist AI health sensing is genuinely useful versus where it overpromises."
-    },
-    {
-      "url": "https://gizmodo.com/finally-a-robot-designed-to-make-chatting-with-mark-zuckerberg-feel-natural-2000784133",
+      "url": "https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660",
       "source": "Gizmodo",
       "category": "gadgets",
-      "published_iso": "2026-07-10T16:20:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/RoberttheRobot.jpg",
-      "excerpt": "RB Labs unveiled 'Robert the Robot,' a humanoid with a digital screen-face, at the UN's AI for Good summit in Geneva - a live gut-check on how far embodied AI still is from natural human interaction. Its awkward expressions underline the gap between humanoid-robot hype and today's real capabilities."
+      "published_iso": "2026-07-15T00:12:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone.jpg",
+      "excerpt": "Bloomberg reporting recasts the much-hyped OpenAI x Jony Ive gadget as 'a smart speaker that moves' — portable, screenless, with mechanical parts meant to make it feel 'alive,' priced around $200-$300 and not shipping before 2027."
     },
     {
-      "url": "https://gizmodo.com/best-gadgets-june-2026-2000778942",
-      "source": "Gizmodo",
+      "url": "https://www.androidauthority.com/samsung-teases-galaxy-watch-9-and-ultra-2-official-teaser-3687113/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-06-30T13:55:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/06/Best-Gadgets-June-2026-2.jpeg",
-      "excerpt": "Gizmodo's best-of-June roundup is dominated by AI hardware - Meta's Fury AI glasses running the Muse Spark model, an Insta360 computational vlogging camera, and a Galaxy AI phone with automated app actions. A useful snapshot of which AI devices actually shipped or impressed this month."
+      "published_iso": "2026-07-14T06:01:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-8-scaled.jpg",
+      "excerpt": "Ahead of the July 22 Galaxy Unpacked, Samsung teased the Galaxy Watch 9 and Watch Ultra 2 as an 'AI-powered health companion' promising real-time AI health insights, better tracking accuracy and new internal hardware."
     },
     {
-      "url": "https://www.gsmarena.com/honor_robot_phone_gets_a_rumored_launch_month-news-73606.php",
+      "url": "https://www.gsmarena.com/samsung_teases_the_next_galaxy_watch_and_its_aipowered_health_companion-news-73699.php",
       "source": "GSMArena",
       "category": "gadgets",
-      "published_iso": "2026-07-07T12:00:00Z",
-      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/honor-robot-phone-launch-month/inline/-1200w5/gsmarena_001.jpg",
-      "excerpt": "Honor's 'Robot Phone' - an AI-hardware play with a 4DoF motorized gimbal camera that pops out and tracks subjects for hands-free mobile filmmaking - is now tipped for an August launch. Built on the Honor-ARRI partnership, it's one of the more radical attempts to fuse AI camera smarts with a moving robotic module in a phone."
+      "published_iso": "2026-07-14T09:00:00Z",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-watch-teaser/-184x111/gsmarena_000.jpg",
+      "excerpt": "Samsung's teaser frames the next Galaxy Watch as a 'health-first, always-on gateway for advanced, personalized AI,' continuously tracking wellness metrics — a push to make on-wrist AI health the headline of Unpacked."
     },
     {
-      "url": "https://www.digitaltrends.com/wearables/rollmes-new-aircam-puts-a-camera-in-your-headphones-for-under-80/",
+      "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-release-this-month/",
+      "source": "SamMobile",
+      "category": "gadgets",
+      "published_iso": "2026-07-02T07:42:00Z",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-tiles.jpg",
+      "excerpt": "Samsung's health notice signals One UI 9 Watch arriving this month, adding an AI-driven Blood Pressure Trend feature to Galaxy Watches while retiring Vascular Load in the US — a shift in the watch's on-device health-sensing stack."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/hdm-just-launched-four-dumb-phones-with-a-nokia-badge-and-an-ai-button/",
       "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-07-08T12:00:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Rollme-AirCam-in-black.jpg?resize=1200%2C720",
-      "excerpt": "Rollme's AirCam is a sub-$80 open-ear bone-conduction headset with an 8MP camera and onboard AI that does real-time object identification and live translation. It's a cheap, oddball stab at the camera-plus-AI wearable category that pricier pendants and smart glasses are chasing."
+      "published_iso": "2026-07-06T12:00:00Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Nokia-210.jpg?resize=1200%2C720",
+      "excerpt": "HMD launched four Nokia-badged 4G feature phones with a dedicated AI button that triggers an on-device Sikey AI voice assistant for torch, alarms, reminders and calls — a curious low-end take on putting AI in your hand (with a subscription after 180 days)."
+    },
+    {
+      "url": "https://www.gsmarena.com/hmd_announces_four_new_nokia_feature_phones_with_ai-news-73560.php",
+      "source": "GSMArena",
+      "category": "gadgets",
+      "published_iso": "2026-07-03T09:00:00Z",
+      "og_image": null,
+      "excerpt": "HMD announced the Nokia 210 4G, 200 4G, 215 4G and 235 4G feature phones, each with an AI button on the D-pad that fires a Sikey-AI voice assistant for basic queries and device controls — AI reaching into the cheapest 'dumbphone' tier."
+    },
+    {
+      "url": "https://gizmodo.com/meta-is-slapping-subscriptions-on-its-smart-glasses-2000780073",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-07-01T13:55:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-06.jpg",
+      "excerpt": "Meta is adding rate limits to AI features on its Ray-Ban smart glasses, capping Conversation Focus at three hours a month free and gating 15 hours behind a $20/month Meta One Premium plan — an early sign of AI-glasses features moving to subscriptions."
     }
   ]
 }

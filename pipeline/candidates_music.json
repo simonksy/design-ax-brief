@@ -1,31 +1,53 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "music",
   "window_hours": 336,
+  "now_iso": "2026-07-15T01:35:00Z",
   "items": [
     {
-      "url": "https://www.synthtopia.com/content/2026/07/07/spectralayers-13-takes-unmixing-to-a-new-level/",
-      "source": "Synthtopia",
+      "url": "https://www.musicradar.com/music-tech/its-a-major-step-forward-in-stem-separation-technology-zplanes-peel-stems-2-nearly-halves-the-latency-of-its-real-time-stem-separation-plugin",
+      "title": "\"It's a major step forward in stem separation technology\": Zplane's Peel Stems 2 nearly halves the latency of its real-time stem separation plugin",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-07-07T15:00:00Z",
-      "og_image": "",
-      "excerpt": "Steinberg has released SpectraLayers 13, a major update to its spectral-editing app whose AI-assisted 'unmixing' separates a finished recording into independent instrumental stems and isolates individual sound components with new accuracy."
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/adQPnMzB4fBAGqGHUSxYQi.png",
+      "excerpt": "zplane's Peel Stems 2 cuts real-time stem-separation latency from 483ms to 245ms at 44.1kHz, letting producers split a mix into drums, bass, vocals and 'other' and rebalance elements live inside their DAW. A concrete AI-audio craft upgrade for remixing, sampling and live workflows."
     },
     {
-      "url": "https://musictech.com/news/gear/audiotool-3-nexus/",
-      "source": "MusicTech",
+      "url": "https://www.soundonsound.com/news/techivation-release-m-compressor-2",
+      "title": "Techivation release M-Compressor 2",
+      "source": "Sound on Sound",
       "category": "music",
-      "published_iso": "2026-07-13T10:19:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg",
-      "excerpt": "Audiotool 3.0 rebuilds the browser-based multiplayer DAW as an open platform via a new SDK called NEXUS, which lets creators build custom instruments/plugins and supports AI integrations through MCP so producers can connect their own LLMs to the workflow."
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/techivation_m-compressor_2-TvIvyE7Qeq8UiOcsBlz0Y54SG.6wIA8N.jpg",
+      "excerpt": "Techivation's M-Compressor 2 adds an intelligent Mix Assistant that analyses incoming audio and generates 12 tailored compression settings, collapsing the plugin's controls into a single blendable macro. An AI-assist angle on the everyday mixing chore of dialling in compression."
     },
     {
-      "url": "https://bedroomproducersblog.com/2026/07/13/eldoraudio-guitar-midi-converter/",
+      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
+      "title": "Pixelsncodes releases Lumen, a FREE open-source Windows synth that turns images into sound",
       "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-07-13T09:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/guitar-midi-1-728x364.jpg",
-      "excerpt": "Eldoraudio launched a free browser-based tool that uses a note-detection model to convert guitar recordings into editable MIDI files — upload audio, set the BPM, and get a MIDI transcription ready to drop into a DAW, with a dedicated model for distorted/overdriven guitar planned."
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen-728x364.jpg",
+      "excerpt": "Lumen is a free, open-source Windows synth built with the Claude AI coding agent whose image-to-wavetable engine reads an image's bytes and turns them into a playable wavetable. A grassroots example of AI-vibe-coded instruments and cross-modal sound design entering the plugin space."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
+      "title": "Suno explores developer API, seeking apps 'that unlock experiences generative music makes possible for the first time'",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-07-02T00:00:00Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg",
+      "excerpt": "Suno CPO Jack Brody says the AI-music company is exploring a developer API, starting with a curated set of partners, to let apps build new interactive experiences on top of generative music. A platform-capability shift that could reshape how creative tools embed AI song generation."
+    },
+    {
+      "url": "https://www.soundonsound.com/news/steinberg-spectralayers-13-now-available",
+      "title": "Steinberg SpectraLayers 13 now available",
+      "source": "Sound on Sound",
+      "category": "music",
+      "published_iso": "2026-07-02T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/s/steinberg_spectralayers_13-IloBBd_uon6hZQ57TGRCphCsXskMPUgA.jpg",
+      "excerpt": "SpectraLayers 13 extends its AI neural-network spectral editing with Unmix Sound Effects, Unmix Two Voices, Voice DeCrosstalk and a new Reconstruct resynthesis module, targeting creative unmixing and audio repair. Broadens the AI stem/spectral toolkit for producers and post-production."
     }
   ]
 }

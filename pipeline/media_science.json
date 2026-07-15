@@ -1,11 +1,31 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "science",
   "media": [
-    { "id": "willow-self-learning", "type": "image", "src": "pipeline/media/willow-self-learning.png" },
-    { "id": "quantum-peptide-design", "type": "image", "src": "pipeline/media/quantum-peptide-design.png" },
-    { "id": "flatband-2d-screening", "type": "image", "src": "pipeline/media/flatband-2d-screening.jpg" },
-    { "id": "kagome-superconductors", "type": "image", "src": "pipeline/media/kagome-superconductors.jpg" },
-    { "id": "llm-decision-reasons", "type": "image", "src": "pipeline/media/llm-decision-reasons.jpg" }
+    {
+      "id": "pinn-drug-release",
+      "type": "image",
+      "src": "pipeline/media/pinn-drug-release.jpg"
+    },
+    {
+      "id": "betadescribe-protein",
+      "type": "image",
+      "src": "pipeline/media/betadescribe-protein.jpg"
+    },
+    {
+      "id": "rhine-rprocess",
+      "type": "image",
+      "src": "pipeline/media/rhine-rprocess.jpg"
+    },
+    {
+      "id": "ai-black-box-science",
+      "type": "image",
+      "src": "pipeline/media/ai-black-box-science.jpg"
+    },
+    {
+      "id": "anthropic-jspace",
+      "type": "image",
+      "src": "pipeline/media/anthropic-jspace.jpg"
+    }
   ]
 }

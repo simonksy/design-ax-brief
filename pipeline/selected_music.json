@@ -1,41 +1,46 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "section": "music",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://musictech.com/news/gear/audiotool-3-nexus/",
-      "source": "MusicTech",
+      "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
+      "source": "Music Business Worldwide",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Audiotool 3.0 opens browser DAW with NEXUS SDK and MCP AI",
-      "rationale": "Browser DAW opening an SDK with MCP means producers can wire their own LLMs into the workflow — directly changes how music makers can build and automate their setup tomorrow.",
-      "published_iso": "2026-07-13T10:19:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg",
-      "excerpt": "Audiotool 3.0 rebuilds the browser-based multiplayer DAW as an open platform via a new SDK called NEXUS, which lets creators build custom instruments/plugins and supports AI integrations through MCP so producers can connect their own LLMs to the workflow."
+      "headline": "Suno explores a developer API to open generative music to third-party apps",
+      "rationale": "Highest-novelty platform shift: Suno opening a curated developer API could reshape how creative tools embed AI song generation — a structural change makers should track now.",
+      "published_iso": "2026-07-02T00:00:00Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg",
+      "excerpt": "Suno CPO Jack Brody says the AI-music company is exploring a developer API, starting with a curated set of partners, to let apps build new interactive experiences on top of generative music. A platform-capability shift that could reshape how creative tools embed AI song generation."
     },
     {
-      "url": "https://bedroomproducersblog.com/2026/07/13/eldoraudio-guitar-midi-converter/",
-      "source": "Bedroom Producers Blog",
+      "url": "https://www.soundonsound.com/news/techivation-release-m-compressor-2",
+      "source": "Sound on Sound",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Eldoraudio's free ML tool converts guitar recordings to MIDI",
-      "rationale": "Free ML guitar-to-MIDI transcription in the browser is an immediately usable workflow win for producers who want editable MIDI from live guitar takes.",
-      "published_iso": "2026-07-13T09:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/guitar-midi-1-728x364.jpg",
-      "excerpt": "Eldoraudio launched a free browser-based tool that uses a note-detection model to convert guitar recordings into editable MIDI files — upload audio, set the BPM, and get a MIDI transcription ready to drop into a DAW, with a dedicated model for distorted/overdriven guitar planned."
+      "headline": "Techivation's M-Compressor 2 adds an AI Mix Assistant that dials in compression",
+      "rationale": "Actionable craft upgrade: an AI Mix Assistant that analyses audio and generates tailored compression settings speeds up an everyday mixing chore for producers tomorrow.",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/techivation_m-compressor_2-TvIvyE7Qeq8UiOcsBlz0Y54SG.6wIA8N.jpg",
+      "excerpt": "Techivation's M-Compressor 2 adds an intelligent Mix Assistant that analyses incoming audio and generates 12 tailored compression settings, collapsing the plugin's controls into a single blendable macro. An AI-assist angle on the everyday mixing chore of dialling in compression."
     }
   ],
   "dedup_report": {
     "dropped": [
       {
-        "url": "https://www.synthtopia.com/content/2026/07/07/spectralayers-13-takes-unmixing-to-a-new-level/",
-        "reason": "Content duplicate of already-published `spectralayers13` card (Steinberg SpectraLayers 13 AI unmixing, published 2026-07-06, now rolled off deck). Same product/release covered again — dropped per hard exclusion."
+        "url": "https://www.musicradar.com/music-tech/its-a-major-step-forward-in-stem-separation-technology-zplanes-peel-stems-2-nearly-halves-the-latency-of-its-real-time-stem-separation-plugin",
+        "reason": "Content duplicate of already-published `peel-stems2` card (music/2026-07-09, url bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/). Same zplane Peel Stems 2 release, same 483ms->245ms latency claim, different outlet (MusicRadar vs Bedroom Producers Blog)."
+      },
+      {
+        "url": "https://www.soundonsound.com/news/steinberg-spectralayers-13-now-available",
+        "reason": "Re-run of the Steinberg SpectraLayers 13 release already published as card `spectralayers13` on 2026-07-06 (now rolled off the 5-day deck, per the prior 07-14 curator run which also dropped a synthtopia.com version of this same story). Earliest-wins: this product/release was already covered, so it must not reappear on a later date. This distinct soundonsound.com URL escaped the collector's URL-level dedup but is a content duplicate."
       }
     ],
     "shortfall": true,
-    "note": "Started from 3 URL-deduped candidates. Dropped 1 content dup (SpectraLayers 13), leaving 2 genuinely fresh, never-before-published stories. This is below the floor of 3, but the fresh window is genuinely exhausted — not padding with the known dup. Both picks are music category; second pick given a distinct palette accent (#0070f3). Two distinct outlets (MusicTech, Bedroom Producers Blog), no URL collisions."
+    "floor": 3,
+    "note": "Started from 4 URL-deduped candidates. Dropped 2 content/earliest-wins duplicates (Peel Stems 2 via MusicRadar; SpectraLayers 13 re-run), leaving 2 genuinely fresh, never-before-published stories. This is below the floor of 3, but the fresh window is genuinely exhausted — not padding with a known re-run. Both picks are music category; second pick given a distinct palette accent (#0070f3). Two distinct outlets (Music Business Worldwide, Sound on Sound), no URL collisions."
   }
 }
