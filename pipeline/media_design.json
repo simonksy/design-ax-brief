@@ -2,10 +2,9 @@
   "date": "2026-07-15",
   "section": "design",
   "media": [
-    { "id": "design-org", "type": "image", "src": "pipeline/media/design-org.jpg" },
-    { "id": "leaders-fast", "type": "image", "src": "pipeline/media/leaders-fast.jpg" },
-    { "id": "agents-design", "type": "image", "src": "pipeline/media/agents-design.png" },
-    { "id": "visual-native", "type": "image", "src": "pipeline/media/visual-native.jpg" },
-    { "id": "intern-desk", "type": "video", "src": "pipeline/media/intern-desk.mp4", "poster": "pipeline/media/intern-desk.jpg" }
+    { "id": "canva-code2", "type": "image", "src": "pipeline/media/canva-code2.jpg" },
+    { "id": "tokens-prompts", "type": "svg" },
+    { "id": "generative-ui2", "type": "image", "src": "pipeline/media/generative-ui2.png" },
+    { "id": "novineer-cad", "type": "image", "src": "pipeline/media/novineer-cad.jpg" }
   ]
 }

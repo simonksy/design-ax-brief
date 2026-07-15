@@ -1,26 +1,35 @@
 {
   "date": "2026-07-15",
   "section": "books",
-  "now_iso": "2026-07-15T01:35:00Z",
+  "now_iso": "2026-07-15T02:24:24Z",
   "window_hours": 336,
   "items": [
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100804-2026-ipa-congress-spotlights-children-s-books-and-literacy.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": null,
-      "excerpt": "At the 35th IPA Congress in Kuala Lumpur, three sessions on children's publishing argued that format and quality of content — not AI itself — shape how digital-native kids read, and pressed publishers on closing a widening global literacy gap.",
-      "note": "On-list (publishersweekly.com). Publish date Jul 9 2026 (date-only on page) -> 2026-07-09T00:00:00Z; freshness.py -> FRESH. KEPT by coordinator through dedup. Children's-books/literacy angle distinct from the general IPA-AI recaps."
-    },
     {
       "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
       "source": "Publishers Weekly",
       "category": "books",
       "published_iso": "2026-07-14T00:00:00Z",
       "og_image": null,
-      "excerpt": "Two dueling surveys on AI audiobook narration: a Spoken-commissioned study found 61% of listeners mistook AI voices for human and favored them in multi-character scenes, while an Audio Publishers Association study shows willingness to try AI narration fell from 70% (2025) to 61% (2026) — human narration still preferred.",
-      "note": "On-list (publishersweekly.com). Publish date Jul 14 2026 -> 2026-07-14T00:00:00Z; freshness.py -> FRESH. KEPT by coordinator through dedup. Freshest EN item; audiobook-narration workflow hook with a concrete new data point (multi-cast AI voices)."
+      "excerpt": "Two dueling surveys on AI audiobook narration: a Spoken-commissioned study found 61% of listeners mistook AI voices for human and preferred them in multi-character scenes, while an Audio Publishers Association study shows willingness to try AI narration fell from 70% (2025) to 61% (2026), with human narration still preferred overall.",
+      "note": "On-list (publishersweekly.com). Date-only page -> 2026-07-14T00:00:00Z; freshness.py books -> FRESH. Freshest EN item; concrete audiobook-narration craft/workflow hook (multi-cast AI voices), a genuine creative-AI capability shift for how audiobooks are produced/cast."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100804-2026-ipa-congress-spotlights-children-s-books-and-literacy.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": null,
+      "excerpt": "At the 35th IPA Congress in Kuala Lumpur, three sessions on children's publishing argued that the format and quality of content — not AI itself — shape how digital-native kids read, and pressed publishers on closing a widening global literacy gap.",
+      "note": "On-list (publishersweekly.com). Date-only page -> 2026-07-09T00:00:00Z; freshness.py books -> FRESH. Children's-books/literacy craft angle, distinct from the general IPA-AI recaps. Second PW item (per-source cap allows up to 3)."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/07/u-s-publishers-sue-google-alleging-massive-copyright-infringement-behind-its-gemini-ai-service/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Googleplex_-_June_2019_5865-793x529.jpg",
+      "excerpt": "Publishers including Cengage, Elsevier and Hachette have filed a class-action suit against Google, accusing it of illegally copying millions of books to train its Gemini AI service — the latest front in the fight over whether published books can be used as AI training data.",
+      "note": "On-list (publishingperspectives.com). og:article date -> 2026-07-14; used 2026-07-14T00:00:00Z; freshness.py books -> FRESH. Borderline on override #4 (copyright/legal), kept because it is core AI×books/publishing news (training-data rights for books), freshest hard-news item, distinct outlet. Flag: one of two copyright items in the pool — curator may keep only one."
     },
     {
       "url": "https://goodereader.com/blog/kindle/the-amazon-kindle-has-new-ai-powered-translations",
@@ -28,13 +37,13 @@
       "category": "books",
       "published_iso": "2026-07-01T16:40:00Z",
       "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/01164056/assetsaboutamazon.jpg",
-      "excerpt": "Amazon has expanded Kindle Translate, its free AI-powered translation service for KDP indie authors, from two language pairs to six languages — English, Spanish, German, French, Italian and Portuguese. Authors can create, manage, price and publish fully formatted machine-translated editions of their books in a few clicks, with automatic accuracy checks before publication.",
-      "note": "On-list (goodereader.com). Publish date Jul 1 2026 (CDN timestamp 16:40) -> 2026-07-01T16:40:00Z; freshness.py -> FRESH (just inside the 336h window). ADDED per coordinator request for a distinct non-dup candidate. Strong design/workflow hook: a concrete AI literary-translation tool that changes how self-pub authors localize and reach global readers. Distinct outlet (goodereader — not the excluded kindle-recaps/kobo-h2-roadmap items) and distinct topic (AI translation tooling, not the scholarly/Rakuten/IPA angles). NOT in the excluded-URL list. Original Kindle Translate launch was Nov 2025; THIS is the July 1 six-language expansion news."
+      "excerpt": "Amazon expanded Kindle Translate, its free AI-powered translation service for KDP indie authors, from two language pairs to six languages (English, Spanish, German, French, Italian, Portuguese). Authors can create, price and publish fully formatted machine-translated editions in a few clicks, with automatic accuracy checks before publication.",
+      "note": "On-list (goodereader.com). CDN timestamp 16:40 Jul 1 -> 2026-07-01T16:40:00Z; freshness.py books -> FRESH (~322h, inside 336h window). Strong product/workflow hook: a concrete AI literary-translation tool that changes how self-pub authors localize/reach global readers. Distinct outlet and distinct topic (translation tooling, not the copyright/audiobook angles)."
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 3,
-    "against_days": 5
+    "dropped": 1,
+    "kept": 4,
+    "against_days": 6
   }
 }

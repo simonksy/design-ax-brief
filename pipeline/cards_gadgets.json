@@ -1,94 +1,208 @@
 {
   "date": "2026-07-15",
+  "section": "gadgets",
   "cards": [
     {
-      "id": "openai-speaker",
-      "tool": "OpenAI",
+      "id": "galaxy-z8",
+      "tool": "Samsung",
       "eyebrow": "AI NEWS",
-      "headline": "오픈AI 첫 기기, 카메라 품은\n화면 없는 스마트 스피커",
-      "body": "오픈AI의 첫 하드웨어는 화면 없이 카메라와 센서로 주변을 읽는 휴대용 스마트 스피커다.",
-      "mini_headline": "오픈AI의 화면 없는 스피커",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
+      "headline": "언팩을 앞두고 유출된\n갤럭시 Z 폴드·플립 8",
+      "body": "7월 22일 언팩을 앞두고 갤럭시 Z 플립·폴드 8과 워치 9·울트라 2의 공식 렌더가 최종 색상까지 그대로 유출됐다.",
+      "mini_headline": "갤럭시 언팩 렌더 유출",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600" },
-          { "t": "p", "x": "오픈AI가 내놓을 첫 하드웨어는 화면이 없는 휴대용 스마트 스피커다. 블룸버그 보도에 따르면 AI 홈 컴퓨터를 지향하는 기기로, 카메라와 여러 센서를 달아 주변 환경을 읽어낸다." },
-          { "t": "p", "x": "충전식 배터리를 넣어 집 안 이곳저곳으로 들고 다닐 수 있고, 그대로 꽂아 둔 채 써도 된다. 일반 스마트 스피커를 넘어서는 고성능 AI 모델을 얹었다." },
-          { "t": "p", "x": "오픈AI는 2025년 5월 조니 아이브의 io 프로덕츠를 인수하며 하드웨어 진출을 알렸다. 이 스피커는 개발 중인 다섯 개 안팎의 제품 가운데 하나로, 멀리는 스마트폰을 대체할 모바일 AI 기기까지 목표로 삼는다. 목걸이형 웨어러블과 가정용 로봇도 살펴본 것으로 전해진다." },
-          { "t": "p", "x": "오픈AI는 \"첫 제품이 어떤 영업비밀도 침해하지 않는다고 본다\"는 입장이다. 최근 애플이 오픈AI를 상대로 영업비밀 소송을 내면서 이 회사의 하드웨어 구상에 다시 관심이 쏠렸다." }
+          {
+            "t": "p",
+            "x": "안드로이드 헤드라인이 삼성 신제품 여러 종의 공식 렌더를 입수했다. 갤럭시 Z 플립 8과 Z 폴드 8, 갤럭시 워치 9, 워치 울트라 2가 한꺼번에 담겼다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/official-renders-for-samsungs-galaxy-z-flip-8-watch-9-watch-2-ultra-and-z-fold-8-leak/intro-1783527075.jpg",
+            "cap": "유출된 삼성 갤럭시 신제품 공식 렌더"
+          },
+          {
+            "t": "p",
+            "x": "Z 플립 8은 화이트, 그레이, 핑크 세 가지 색으로 나온다. 디자인은 Z 플립 7과 거의 판박이인데, 나쁘게 볼 일은 아니다. 카메라와 플래시 위치도 그대로다. 다만 플립 7의 유일한 약점이던 낡은 카메라만큼은 내부가 좀 나아졌기를 바란다."
+          },
+          {
+            "t": "p",
+            "x": "칩은 엑시노스 2600을 얹은 모델과 스냅드래곤 8 엘리트 Gen 5를 얹은 모델, 두 가지로 갈린다는 소문이 돈다. 전 세계 램 부족 탓에 이번엔 하드웨어를 크게 갈아엎진 않았을 거라는 관측이다. 힌지를 다시 손봤고 본체가 더 가벼워졌다는 이야기도 흘러나온다."
+          },
+          {
+            "t": "p",
+            "x": "Z 폴드 8은 삼성이 언팩 광고에서 넌지시 내비친 '넓은 폴더블'로 보인다. 짤막하고 넓은 형태에 색상은 네 가지다. 외부 화면은 5.5인치 QHD+에 16:10 비율로, 삼성 태블릿과 같은 비율이다. 안쪽은 좀 더 전통적인 7.6인치 4:3 패널이다. 무게는 200그램 안팎으로 아주 가볍고, 스냅드래곤 8 엘리트 Gen 5가 들어간다고 한다. 상위 모델인 Z 폴드 8 울트라도 준비 중인데, 그쪽 렌더는 지난주에 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "워치 9는 워치 8과 빼닮았고 색상 세 가지에 크기 두 종으로 나온다. 가격은 30~60달러 오를 거라는 소문이 있다. 워치 울트라 2는 47mm 한 가지 크기에 색상 두 가지이고, 역시 가격 인상설이 따라붙는다. 확정된 건 없지만 안드로이드 헤드라인은 유출 정보에 관해선 믿을 만한 곳이다. 언팩은 7월 22일에 열린다."
+          }
         ]
       }
     },
     {
-      "id": "galaxy-watch-teaser",
-      "tool": "Samsung",
+      "id": "meta-rayban-led",
+      "tool": "Meta",
       "eyebrow": "AI NEWS",
-      "headline": "삼성, 갤럭시 워치9·울트라2\n'AI 건강 동반자'로 예고",
-      "body": "삼성이 7월 22일 언팩을 앞두고 갤럭시 워치9와 울트라2를 AI 건강 동반자로 예고했다.",
-      "mini_headline": "갤럭시 워치9 AI로 예고",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-teases-galaxy-watch-9-and-ultra-2-official-teaser-3687113/",
+      "headline": "메타가 손본 레이밴 안경\n카메라 없는 설계가 답일까",
+      "body": "메타가 레이밴 안경의 녹화 LED 조작을 막도록 패치하자 카메라 없는 AI 안경이 답인지 논쟁에 다시 불이 붙었다.",
+      "mini_headline": "레이밴 LED 조작 차단",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-just-fixed-a-privacy-vulnerability-with-its-ray-ban-smart-glasses-but-could-cameraless-designs-be-the-better-future",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-8-scaled.jpg" },
-          { "t": "p", "x": "삼성이 다음 세대 갤럭시 워치 라인업을 공식적으로 예고하기 시작했다. 갤럭시 워치9 시리즈와 갤럭시 워치 울트라2로, 7월 22일 공개를 앞두고 있다." },
-          { "t": "p", "x": "언팩 행사는 7월 22일 오전 9시(미 동부시각, 태평양시각 오전 6시)에 열린다. 새 워치에는 \"완전히 새로운 내부 부품\"이 들어가고 배터리 수명도 늘어난다고 삼성은 밝혔다." },
-          { "t": "p", "x": "삼성은 이번 워치를 \"새로운 AI 건강 동반자\"로 부르며, 실시간 AI 건강 인사이트와 한층 정확해진 측정을 앞세운다. 개인화된 AI 비전의 한 축이라는 설명이다." },
-          { "t": "p", "x": "삼성은 새 갤럭시 워치가 \"사용자가 자신의 건강을 더 잘 이해하고 미리 챙기도록 돕는 지능형 실시간 건강 인사이트를 제공한다\"고 했다. 단순히 수치를 기록하던 기기에서, 백그라운드 AI가 끊임없이 돌며 건강 데이터를 \"능동적으로 해석하는\" 기기로 바뀌는 셈이다." },
-          { "t": "p", "x": "예고 영상에는 심박수 측정, 수면 무호흡 감지, 개인 맞춤 건강 코칭, 러닝 전용 액티비티 워치 페이스 등이 담겼다. 다만 구체적인 하드웨어나 배터리 수명은 이번 티저에서 밝혀지지 않았다." }
+          {
+            "t": "p",
+            "x": "메타가 레이밴 AI 안경을 손봤다. 녹화 표시등(LED)을 건드리면 카메라가 아예 꺼지도록 하는 패치다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/hEJdTA3TwbnfDQCMUCHyc9-2560-80.jpg",
+            "cap": "메타 레이밴 스마트 안경"
+          },
+          {
+            "t": "p",
+            "x": "이 조치는 모딩 진영에서 LED를 꺼 주는 서비스를 팔기 시작한 뒤에 나왔다. 녹화 중임을 알리는 불빛을 무력화하면 남몰래 촬영할 수 있다는 우려가 커졌기 때문이다."
+          },
+          {
+            "t": "p",
+            "x": "테크레이더는 이 일을 계기로 카메라 없는 AI 안경이 더 안전한 설계인지 다시 묻는다. 프라이버시를 앞세운 웨어러블을 저울질하는 사람에게는 곱씹어 볼 지점이다."
+          }
         ]
       }
     },
     {
-      "id": "meta-glasses-subscription",
-      "tool": "Meta",
+      "id": "google-home-speaker",
+      "tool": "Google",
       "eyebrow": "AI NEWS",
-      "headline": "메타, 레이밴 스마트 안경\nAI 기능에 구독제 도입",
-      "body": "메타가 레이밴 스마트 안경의 대화 집중 기능을 무료 월 3시간으로 묶고 나머지는 유료 구독에 넣었다.",
-      "mini_headline": "메타 안경 유료 구독",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/meta-is-slapping-subscriptions-on-its-smart-glasses-2000780073",
+      "headline": "NPU를 넣은 99달러\n구글 첫 제미나이 스피커",
+      "body": "구글이 온디바이스 AI 전용 NPU와 360도 음향을 갖춘 첫 제미나이 스피커를 99달러에 내놨다.",
+      "mini_headline": "구글 제미나이 스피커",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/accessories/smart-home/google-home-speaker-2026-review",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-06.jpg" },
-          { "t": "p", "x": "사람들이 메타 스마트 안경을 탐탁지 않아 하는 이유는 여러 가지였지만, 구독료는 그 목록에 없었다. 그런데 더버지가 짚은 갱신된 공식 안내 페이지를 보면, 메타가 AI 안경 기능에 \"이용 제한\"을 걸기 시작했다." },
-          { "t": "p", "x": "첫 대상은 대화 집중(Conversation Focus) 기능이다. 안경에 달린 마이크로 대화 상대의 목소리를 골라내 AI로 키워 주는 기능이다." },
-          { "t": "p", "x": "새 방식에서 무료 사용자는 이 기능을 한 달에 3시간까지 쓸 수 있다. 더 쓰려면 월 20달러짜리 메타 원 프리미엄 구독이 필요하고, 그러면 월 15시간이 열린다." },
-          { "t": "p", "x": "더버지는 대화 집중을 유료로 막은 게 아리송하다고 짚었다. 이 기능이 전적으로 기기 안에서, 인터넷 없이도 돌아가 서버 대역폭 비용이 들지 않기 때문이다. 게다가 청력이 약한 사람에게 도움이 되는 보조 기능이라 접근성 측면에서 유료화 논란이 더 크다." },
-          { "t": "p", "x": "메타가 왜 하필 대화 집중을 골랐는지, 앞으로 다른 AI 기능까지 제한이 번질지는 아직 분명하지 않다. 기즈모도는 메타에 입장을 물었다." }
+          {
+            "t": "p",
+            "x": "구글이 처음부터 제미나이를 겨냥해 새로 만든 스마트 스피커, 99달러짜리 '홈 스피커'를 직접 써 본 리뷰다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/NYZV4dx79XHGaCbAd57Y8J-2048-80.jpg",
+            "cap": "구글 홈 스피커"
+          },
+          {
+            "t": "p",
+            "x": "온디바이스 AI 연산을 맡는 전용 NPU를 넣었고, 소리는 360도로 퍼뜨린다. 집 안 기기는 제미나이와 대화하듯 다룬다."
+          },
+          {
+            "t": "p",
+            "x": "안드로이드 센트럴의 리뷰 제목은 '기본으로 돌아가다'로, 화려한 기능보다 기본기를 어떻게 살렸는지에 무게를 뒀다."
+          }
         ]
       }
     },
     {
-      "id": "one-ui-9-watch",
-      "tool": "Galaxy Watch",
+      "id": "roborock-saros20",
+      "tool": "Roborock",
       "eyebrow": "AI NEWS",
-      "headline": "원 UI 9 워치 이달 공개\nAI 혈압 추세 기능 추가",
-      "body": "삼성이 이달 원 UI 9 워치로 AI 혈압 추세 기능을 더하고 미국에선 혈관 부하 기능을 뺀다.",
-      "mini_headline": "원 UI 9 워치 혈압 추세",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-release-this-month/",
+      "headline": "AI로 장애물을 피하는\n로보락 사로스 20",
+      "body": "로보락 사로스 20은 AI 인식으로 장애물 300여 종을 피하고 솔리드스테이트 라이다로 스스로 길을 찾는다.",
+      "mini_headline": "AI 청소로봇 사로스 20",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/roborock-saros-20-review-jack-of-all-trades-master-of-most-2000782913",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-tiles.jpg" },
-          { "t": "p", "x": "삼성 헬스 앱에 뜬 기능 변경 안내로, 원 UI 9 워치가 이르면 7월 말 나올 수 있다는 신호가 잡혔다." },
-          { "t": "p", "x": "안내에 따르면 삼성은 미국에서 갤럭시 워치의 혈관 부하(Vascular Load) 기능을 뺀다. 대신 원 UI 9 워치와 함께 \"혈압 추세(Blood Pressure Trend)\"라는 새 기능이 들어온다. 삼성은 \"이 변경은 이달 안에 원 UI 9 워치와 함께 적용된다\"고 밝혔다." },
-          { "t": "img", "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Watch-9-Ultra-2-Blood-Pressure-Trend-Feature-Announced-Members-App.jpg" },
-          { "t": "p", "x": "원 UI 9 워치는 구글 웨어 OS 7을 기반으로 한다. 베타는 2024·2025년에 나온 갤럭시 워치8과 갤럭시 워치 울트라 모델에서 받아 볼 수 있을 전망이다." },
-          { "t": "p", "x": "새 버전에는 눈에 잘 띄지 않는 내부 개선도 크게 담길 것으로 기대된다. 곧 공개될 갤럭시 워치9과 갤럭시 워치 울트라2도 함께 나온다." }
+          {
+            "t": "p",
+            "x": "브렌트 로즈가 1,600달러짜리 로보락 사로스 20을 써 봤다. 로봇청소기는 흡입은 좋은데 구석을 못 닦거나, 물체는 잘 알아보는데 힘이 달리는 식으로 저마다 약점을 지니기 마련이다. 사로스 20은 모든 걸 고르게 잘 해내는 첫 제품이라고 그는 평했다. 기즈모도의 2026 에디터스 초이스다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-09.jpg",
+            "cap": "로보락 사로스 20"
+          },
+          {
+            "t": "p",
+            "x": "흡입력은 36,000Pa에 이른다. 2년 전만 해도 10,000Pa면 프리미엄으로 쳤다. 어댑트리프트 섀시 3.0은 최대 3.46인치 높이의 이중 문턱을 넘고, 새 스타사이트 2.0 내비게이션은 300종이 넘는 물체를 알아본다. 앞면에 이중 솔리드스테이트 라이다를 달아 예전의 회전식 레이저 센서(LDS)를 없앴고, 덕분에 몸체가 납작해져 3.13인치 높이 가구 밑까지 들어간다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-08.jpg",
+            "cap": "새로 설계한 도크"
+          },
+          {
+            "t": "p",
+            "x": "도크도 새로 짰다. 2시간 반이면 배터리를 100%까지 급속 충전한다. 깨끗한 물 4리터, 오수 3.5리터 탱크를 갖췄고, 물을 화씨 212도(끓는점)까지 데워 걸레를 적신 뒤 빨고, 다시 화씨 131도 바람으로 말린다. 걸레가 매번 살균되니 냄새가 나거나 세균을 퍼뜨릴 일이 없다. 세제 칸이 따로 있어 물만 채우면 되고, 설정에 따라 두 달까지 손대지 않아도 된다."
+          },
+          {
+            "t": "p",
+            "x": "AI 물체 인식은 인상적이었다. 멀티탭과 벽에 붙은 케이블을 가려냈고, 테이블 밑에 둔 슬리퍼를 '신발'로, 사무용 의자를 '갇히기 쉬운 가구'로 표시했다. 원룸 전체 청소는 90분, 주방만 하면 5분이면 끝난다. 집 안 지도를 그리는 데는 12분이 걸렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-01.jpg",
+            "cap": "완벽하진 않은 자율주행"
+          },
+          {
+            "t": "p",
+            "x": "약점도 뚜렷하다. 집을 비운 사이 소파와 테이블 틈에 끼여 빠져나오지 못하고 배터리를 다 써 버렸다. 무늬 있는 러그 위에서는 USB-C 케이블을 빨아들였고, 침대에 걸쳐 둔 가운 허리끈을 감아 올리기도 했다. 지정 구역을 8피트 넘게 벗어나 엉뚱한 곳을 돌기도 했다. 그래도 지금껏 써 본 로봇청소기 가운데 가장 낫다는 게 결론이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "surface-x2plus",
+      "tool": "Microsoft",
+      "eyebrow": "AI NEWS",
+      "headline": "스냅드래곤 X2 플러스를 단\n서피스 랩톱 13.8",
+      "body": "서피스 랩톱 13.8이 스냅드래곤 X2 플러스로 NPU와 CPU를 끌어올려 코파일럿+ 온디바이스 AI를 앞세운다.",
+      "mini_headline": "서피스 랩톱 X2 플러스",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "노트북체크가 2026년형 마이크로소프트 서피스 랩톱 13.8을 리뷰했다. 2년 만의 변화치고는 하드웨어를 거의 그대로 두고 퀄컴의 새 스냅드래곤 X2 플러스만 얹었는데, 그 성능 향상만으로도 값을 한다고 봤다. 종합 평점은 88%, '매우 우수'다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG",
+            "cap": "서피스 랩톱 13.8"
+          },
+          {
+            "t": "p",
+            "x": "스냅드래곤 X2 플러스(X2P-64-100)는 10코어다. 프라임 코어 6개가 4.0GHz, 퍼포먼스 코어 4개가 3.4GHz로 돈다. 소비 전력은 최대 28W, 지속 18W이고 내장 GPU는 아드레노 X2-45로 1350MHz다. 성능은 12코어짜리 X2 엘리트에 바짝 붙는다. 시네벤치 2024 멀티코어에서 854점(X2 엘리트 1078점, 애플 M5 957점), 긱벤치 6.7 멀티코어에서 14,277점을 냈다."
+          },
+          {
+            "t": "p",
+            "x": "화면은 13.8인치 3:2 IPS 터치스크린으로 2304×1536 해상도에 120Hz다. 최대 밝기 659cd/m², 명암비 1402:1이고 sRGB 97.8%, P3 96.5%를 덮는다. 광택 패널이지만 PWM 깜빡임은 없다."
+          },
+          {
+            "t": "p",
+            "x": "메모리는 16GB LPDDR5x-9523이 기판에 납땜돼 있어 늘릴 수 없다. SK하이닉스 512GB SSD는 M.2 2230 규격이라 교체할 수 있다. 배터리는 54Wh, 여기에 USB4 40Gbps 두 개와 USB-A 3.1, 와이파이 7, 서피스 커넥트를 갖췄다. 색상은 새 제이드에 플래티넘·듄·블랙이 더해지고 무게는 1.338kg이다. 코파일럿+ PC 인증을 받았다."
+          },
+          {
+            "t": "p",
+            "x": "기본 구성은 X2 플러스·16GB·512GB로 1,599달러(유럽 1,699유로)다. X2 엘리트와 성능 차가 미미해 램이나 저장 공간이 더 필요한 게 아니라면 굳이 바꿀 이유는 없다. 리뷰는 개인 고객에게 스냅드래곤만 강제하는 점을 아쉬워한다. GPU가 더 빠른 인텔판을 개인은 살 수 없기 때문이다."
+          }
         ]
       }
     }

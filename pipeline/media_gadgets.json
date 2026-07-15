@@ -2,25 +2,10 @@
   "date": "2026-07-15",
   "section": "gadgets",
   "media": [
-    {
-      "id": "openai-speaker",
-      "type": "image",
-      "src": "pipeline/media/openai-speaker.jpg"
-    },
-    {
-      "id": "galaxy-watch-teaser",
-      "type": "image",
-      "src": "pipeline/media/galaxy-watch-teaser.jpg"
-    },
-    {
-      "id": "meta-glasses-subscription",
-      "type": "image",
-      "src": "pipeline/media/meta-glasses-subscription.jpg"
-    },
-    {
-      "id": "one-ui-9-watch",
-      "type": "image",
-      "src": "pipeline/media/one-ui-9-watch.jpg"
-    }
+    { "id": "galaxy-z8", "type": "image", "src": "pipeline/media/galaxy-z8.jpg" },
+    { "id": "meta-rayban-led", "type": "image", "src": "pipeline/media/meta-rayban-led.jpg" },
+    { "id": "google-home-speaker", "type": "image", "src": "pipeline/media/google-home-speaker.jpg" },
+    { "id": "roborock-saros20", "type": "image", "src": "pipeline/media/roborock-saros20.jpg" },
+    { "id": "surface-x2plus", "type": "image", "src": "pipeline/media/surface-x2plus.jpg" }
   ]
 }
