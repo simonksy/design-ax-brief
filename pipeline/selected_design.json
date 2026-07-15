@@ -1,79 +1,72 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
   "section": "design",
-  "selection_mode": "curator",
+  "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.figma.com/release-notes/",
-      "title": "Run multiple AI image edits and keep designing while they load",
-      "source": "Figma Release Notes",
+      "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a",
+      "title": "When design becomes the organisation, and AI becomes the designer",
+      "source": "UX Collective",
+      "published_iso": "2026-07-13T11:09:48Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg",
+      "excerpt": "Argues that as AI takes over the act of designing, the designer's real object of work shifts to the organisation itself — shaping the systems, taste, and guardrails that machines design within. A fresh Design-AX framing distinct from the terminal/orchestration/taste essays already published.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "Fresh Design-AX framing — the designer's object of work moves from screens to the org itself; distinct from prior terminal/orchestration essays."
+    },
+    {
+      "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319",
+      "title": "What 32 design leaders do when told to move faster",
+      "source": "UX Collective",
+      "published_iso": "2026-07-14T11:00:40Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*gkRv4ROxY5MhgxY9URVs_w.jpeg",
+      "excerpt": "Design timelines are collapsing because AI turned weeks of research into days and afternoons of concepting into minutes — the piece surveys how 32 design leaders actually respond to the resulting speed pressure without wrecking craft.",
+      "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Official Figma release (Jul 7): parallel AI image edits without blocking the canvas — directly changes daily workflow; most actionable item in the pool.",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's Jul 7 release note: designers can now fire off multiple AI image edits simultaneously from the toolbar and keep designing while they load — no more waiting for one edit to finish before starting the next. (Page dated 'Jul 7, 2026'; no per-entry permalink, entry title above.)"
+      "rationale": "Actionable playbook from 32 leaders on absorbing AI speed pressure without wrecking craft — changes how design teams organize tomorrow."
     },
     {
-      "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
-      "title": "Meta built an AI detection tool to ID images and video created with its new models",
-      "source": "Engadget",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "New provenance layer for AI imagery: Meta's Content Seal watermark survives crops/screenshots but breaks C2PA/SynthID interop — a real issue for creative asset pipelines.",
-      "published_iso": "2026-07-07T19:23:00-04:00",
-      "og_image": "https://www.engadget.com/img/gallery/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/intro-1783466213.jpg",
-      "excerpt": "Meta previewed a web-based detector that reads Content Seal, the invisible watermark embedded in images made with its new Muse Image model (video via the upcoming Muse Video to follow). The mark survives cropping, compression and screenshots — but is incompatible with SynthID and C2PA Content Credentials, an interoperability headache for creatives."
+      "url": "https://dev.to/tranbathanhtung/agents-design-design-resources-built-for-cursor-claude-code-codex-v0-bolt-lovable-4f0o",
+      "title": "Agent's Design — design resources built for Cursor, Claude Code, Codex, v0, Bolt, Lovable",
+      "source": "DEV Community",
+      "published_iso": "2026-07-14T14:41:30Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyc71r1kuqsz6tjcx1t4r.png",
+      "excerpt": "A packaged set of design resources aimed at stopping AI coding agents from shipping the same generic UI — feeding Cursor, Claude Code, Codex, v0, Bolt and Lovable with reusable design-system context so generated interfaces carry real taste.",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "Concrete design-system resource that injects taste into AI coding agents (Cursor, Claude Code, v0, Bolt) — directly usable in a designer's toolchain."
     },
     {
-      "url": "https://www.engineering.com/trimble-adds-ai-tools-to-mep-estimating-software/",
-      "title": "Trimble adds AI tools to MEP estimating software",
-      "source": "Engineering.com",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Concrete shipped AI in CAD/estimating: symbol counting from drawings cuts takeoff time 50-60% plus a natural-language assistant — measurable workflow change, credible trade outlet.",
-      "published_iso": "2026-07-07T13:03:16+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/07/Trimble-adds-AI-tools-to-MEP-estimating-software.png",
-      "excerpt": "Trimble baked AI into its MEP estimating tools: automatic drawing-scale/naming detection, AI symbol counting from construction drawings (3M+ symbols auto-detected, manual takeoff time cut 50-60%), auto-routed conduit length takeoff, and a natural-language AI Smart Assistant in Accubid Anywhere (80%+ time saved on historical-pricing research)."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=VfA-vjsFQ1o",
-      "title": "Own the loop: how designers and researchers win with AI evals ft. Setor Zilevu (Figma) | Config 2026",
-      "source": "Figma (YouTube)",
-      "tool": "Social",
-      "accent": "#ff2d55",
+      "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
+      "title": "This new AI model thinks in images, not just words",
+      "source": "Fast Company",
+      "published_iso": "2026-07-13T10:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91571127-elorian-ai.jpg",
+      "excerpt": "After a decade of word-based LLMs, researchers are betting on models that reason directly in images rather than text — a shift toward visual-native AI that could reshape how designers and creatives collaborate with generative tools.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
       "motif": "frame",
-      "rationale": "Most designer-actionable of the three fresh Config 2026 uploads: why design/research should own AI evaluation loops — a skill shift, not a rehash; 1 of max 2 allowed from this outlet.",
-      "published_iso": "2026-07-06T14:51:52-07:00",
-      "og_image": "https://i.ytimg.com/vi/VfA-vjsFQ1o/maxresdefault.jpg",
-      "excerpt": "Freshly uploaded Config 2026 session: Figma's Setor Zilevu on why designers and researchers should own the AI evaluation loop — using evals as the design instrument that shapes the quality of model-powered products."
+      "rationale": "Novel visual-native reasoning shift with credible Fast Company reporting — reframes how designers may collaborate with generative tools."
     },
     {
-      "url": "https://www.uploadvr.com/meta-one-premium-subscription-now-required-for-longer-access-to-glasses-features/",
-      "title": "Subscription now required for longer access to some Meta glasses features",
-      "source": "UploadVR",
-      "tool": "VR Prototype",
+      "url": "https://www.creativebloq.com/tech/the-only-difference-between-the-coworker-sitting-next-to-you-and-intern-is-that-intern-works-unlimited-hours-new-ai-super-assistant-sits-on-your-desk-has-a-mind-and-voice-and-handles-everything-from-email-to-coding",
+      "title": "New AI super-assistant sits on your desk and 'works unlimited hours', handling everything from email to coding",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-14T10:51:42Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/tp4DyZiXWrd6UMUjXTaSgY-2042-80.jpg",
+      "excerpt": "Autonomous' Intern 2 is a desktop AI agent with a voice and 'a mind' pitched at creatives — promising to take on the work of a small creative team across email, research and coding, testing how much of a studio's grunt work an always-on agent can absorb.",
+      "category": "figma",
+      "tool": "Figma",
       "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "Fresh platform-policy news: AI generation allowances and reasoning mode on Meta glasses move behind a $20/mo tier — affects anyone prototyping for the device; adds vr category and a 5th outlet.",
-      "published_iso": "2026-07-07T00:20:25Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/07/Conversation-Focus-Meta-Connect-2025-shot.jpeg",
-      "excerpt": "Meta now gates longer use of some smart-glasses features behind the $20/mo Meta One Premium subscription — including bigger monthly AI usage allowances, more image/video generations with advanced models, and 'Thinking' mode reasoning. Free users get 3 hours of Conversation Focus vs 15 for subscribers, sparking criticism since the feature runs locally."
+      "motif": "frame",
+      "rationale": "A concrete always-on desktop agent pitched at creatives — tests how much studio grunt work an autonomous assistant can absorb."
     }
-  ],
-  "dedup_notes": {
-    "checked_against": "news_data.json sections.design — today 2026-07-07 plus days 07-01/07-02/07-03/07-04/07-06 (18 published cards)",
-    "duplicates_dropped": 0,
-    "not_picked": [
-      "AutoRemesher 1.0 (80.lv) — algorithmic, not AI; weakest AI relevance and would double up render category",
-      "Stop Naming CSS Variables After Colors (dev.to) — evergreen craft piece, thin AI hook; dev.to heavily represented in recent history",
-      "OKLCH palettes (dev.to) — craft/tooling piece, explicit AI angle thin",
-      "Config 2026 'Skill issue: OS for PMs' (YouTube/Figma) — 2nd of 3 same-outlet videos; Skills topic already covered by 07-03 figma-agent-skills card, evals session more designer-actionable",
-      "Config 2026 'Designing money' (YouTube/Figma) — 3rd from same outlet, over the ≤2-per-outlet guard"
-    ],
-    "diversity": "5 distinct outlets, 5 distinct categories (figma/render/cad/social/vr), no accent collisions"
-  }
+  ]
 }

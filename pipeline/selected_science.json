@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-15",
+  "section": "science",
+  "selection_mode": "auto",
+  "picks": [
+    {
+      "rank": 1,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "url": "https://phys.org/news/2026-07-physics-ai-drug-patches-bandages.html",
+      "source": "Phys.org",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-informed-ai-co.jpg",
+      "excerpt": "Brown University researchers built a physics-informed neural network that predicts how controlled-release materials dispense drugs, potentially slashing development time for therapeutic patches, bandages and implants by up to 94%.",
+      "rationale": "Physics-informed ML directly accelerates drug-delivery materials design — high actionability with a concrete 94% development-time cut. Bio/materials sub-domain."
+    },
+    {
+      "rank": 2,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "url": "https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html",
+      "source": "Phys.org",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-translates-p.jpg",
+      "excerpt": "Technion's BetaDescribe is an AI system that translates raw protein sequences into natural-language descriptions, generating evidence-based hypotheses about the functions of otherwise-uncharacterized proteins for drug discovery and biotech.",
+      "rationale": "Novel protein-to-text model surfaces functions of uncharacterized proteins, feeding real drug-discovery hypotheses. Distinct protein sub-domain."
+    },
+    {
+      "rank": 3,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
+      "source": "ScienceDaily",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/neutron-star-merger.webp",
+      "excerpt": "An international team at GSI/FAIR trained a deep neural network (RHINE) to model r-process heating in neutron-star mergers, letting simulations of how the universe forges its heaviest elements run far faster and more accurately.",
+      "rationale": "Neural network makes heavy-element nucleosynthesis simulations faster and more accurate — a concrete method advance in astrophysics from a credible GSI/FAIR team."
+    },
+    {
+      "rank": 4,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
+      "source": "Physics World",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
+      "excerpt": "From structural biology to particle physics, AI systems increasingly deliver results of remarkable power and accuracy — yet even their creators struggle to explain how they reach them, raising the question of what counts as understanding in science.",
+      "rationale": "Credible, very fresh (07-14) piece on how AI is reshaping scientific method and the meaning of understanding — physics/epistemology angle from a distinct outlet."
+    },
+    {
+      "rank": 5,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg",
+      "excerpt": "Anthropic's 'Jacobian lens' reveals a hidden 'J-space' inside Claude Opus 4.6 — words that shape a model's upcoming output without appearing in it — offering the clearest glimpse yet into how LLMs represent and weigh concepts internally.",
+      "rationale": "Concrete interpretability discovery into how LLMs internally represent concepts — cognition/AI-science sub-domain, top-tier outlet, high novelty."
+    }
+  ],
+  "dedup_notes": {
+    "checked_against": "sections.science in news_data.json — today (2026-07-14, 5 cards) plus days (empty). Published stories: Willow quantum self-learning, quantum-peptide design, flat-band 2D screening, kagome superconductors, LLM decision-reasons.",
+    "collapsed_stories": [],
+    "dropped": "None on dedup — all 7 filtered candidates are content-distinct from the 5 published cards (no shared event/URL/topic). Not selected: Psychology Today chatbot-vs-therapist (consumer-advice opinion, weak on the 'AI advances science' relevance test) and ScienceDaily Turing critique (overlaps the cognition slot already filled by the stronger Anthropic interpretability pick).",
+    "shortfall": "None. 5 distinct, never-before-published picks; no padding.",
+    "diversity": "4 distinct outlets: Phys.org x2 (cap respected), ScienceDaily, Physics World, MIT Technology Review. Sub-domains spread across bio/materials, protein, astro/physics, physics-epistemology, and cognition/AI-science. All share the science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f)."
+  }
+}

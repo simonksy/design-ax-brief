@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-15",
+  "section": "science",
+  "note": "Rotated by date 2026-07-15 (day-of-year 196). Working set = ALL 4 core + a rotating ~14-keyword slice of the section keywords list, biased across sub-domains. Skipped topics heavily covered in the 2026-07-14 brief (recency dedup): quantum error correction / Willow, quantum-photonic peptide design, 2D-material flatband screening, kagome superconductor discovery, free-text LLM decision analysis. This run leans into psychology/mental-health, life-science/drug-discovery, genomics, astronomy, fusion+climate physics, and research automation for fresh coverage. Single category 'science'; no social/youtube channels for this section.",
+  "working_keywords": [
+    {
+      "keyword": "AI science",
+      "origin": "core",
+      "expansions": ["AI in science 2026", "AI scientific research", "AI 과학 연구", "machine learning science breakthrough"]
+    },
+    {
+      "keyword": "AI for science",
+      "origin": "core",
+      "expansions": ["AI4Science", "AI for scientific research", "AI accelerating science", "foundation models for science"]
+    },
+    {
+      "keyword": "AI 과학",
+      "origin": "core",
+      "expansions": ["인공지능 과학 연구", "AI 과학 발견", "AI 기반 과학"]
+    },
+    {
+      "keyword": "AI scientific discovery",
+      "origin": "core",
+      "expansions": ["AI-driven discovery", "AI accelerated discovery", "automated scientific discovery", "AI research breakthrough 2026"]
+    },
+    {
+      "keyword": "AI mental health",
+      "origin": "keywords",
+      "expansions": ["AI therapy chatbot trial", "AI depression screening", "digital mental health AI 2026", "AI psychiatry"]
+    },
+    {
+      "keyword": "theory of mind AI",
+      "origin": "keywords",
+      "expansions": ["theory of mind LLM", "AI mental state inference", "false belief test AI", "social cognition AI"]
+    },
+    {
+      "keyword": "machine cognition",
+      "origin": "keywords",
+      "expansions": ["LLM reasoning study", "cognitive architecture AI", "AI cognitive modeling", "computational cognitive science"]
+    },
+    {
+      "keyword": "brain-computer interface",
+      "origin": "keywords",
+      "expansions": ["BCI AI decoding", "AI neural decoding speech", "Neuralink brain implant AI", "뇌-컴퓨터 인터페이스 AI"]
+    },
+    {
+      "keyword": "AlphaFold",
+      "origin": "keywords",
+      "expansions": ["AlphaFold 3", "DeepMind AlphaFold update", "protein structure prediction AI", "Isomorphic Labs AlphaFold"]
+    },
+    {
+      "keyword": "AI drug discovery",
+      "origin": "keywords",
+      "expansions": ["generative chemistry drug", "AI small molecule design", "AI clinical candidate 2026", "de novo protein design"]
+    },
+    {
+      "keyword": "AI genomics",
+      "origin": "keywords",
+      "expansions": ["genomic language model", "single-cell foundation model", "AI DNA sequence model", "AI variant prediction"]
+    },
+    {
+      "keyword": "AI 신약개발",
+      "origin": "keywords",
+      "expansions": ["AI 신약 후보물질", "생성형 AI 신약", "인공지능 신약개발", "AI drug discovery Korea 2026"]
+    },
+    {
+      "keyword": "AI exoplanet detection",
+      "origin": "keywords",
+      "expansions": ["machine learning exoplanet", "AI transit detection", "AI planet hunting", "neural network exoplanet 2026"]
+    },
+    {
+      "keyword": "machine learning cosmology",
+      "origin": "keywords",
+      "expansions": ["AI dark energy", "deep learning galaxy survey", "AI large-scale structure", "AI cosmological simulation 2026"]
+    },
+    {
+      "keyword": "AI fusion plasma control",
+      "origin": "keywords",
+      "expansions": ["AI tokamak control", "reinforcement learning plasma", "DeepMind fusion control", "AI 핵융합 플라즈마 2026"]
+    },
+    {
+      "keyword": "AI weather climate model",
+      "origin": "keywords",
+      "expansions": ["AI weather forecasting", "GraphCast GenCast", "AI climate modeling", "neural weather prediction 2026"]
+    },
+    {
+      "keyword": "AI co-scientist",
+      "origin": "keywords",
+      "expansions": ["Google AI co-scientist", "AI research assistant scientist", "agentic AI scientist", "autonomous hypothesis generation"]
+    },
+    {
+      "keyword": "AI 연구 자동화",
+      "origin": "keywords",
+      "expansions": ["self-driving lab", "autonomous laboratory AI", "AI lab automation 2026", "AI 과학자 에이전트"]
+    }
+  ],
+  "plan": [
+    {
+      "category": "science",
+      "label": "Science",
+      "allowed_domains": [
+        "quantamagazine.org",
+        "phys.org",
+        "sciencedaily.com",
+        "newscientist.com",
+        "scientificamerican.com",
+        "livescience.com",
+        "technologyreview.com",
+        "arxiv.org",
+        "biorxiv.org",
+        "space.com",
+        "universetoday.com",
+        "skyandtelescope.org",
+        "physicsworld.com",
+        "physics.aps.org",
+        "thequantuminsider.com",
+        "statnews.com",
+        "genengnews.com",
+        "fiercebiotech.com",
+        "psychologytoday.com",
+        "apa.org",
+        "deepmind.google",
+        "research.google",
+        "allenai.org",
+        "eurekalert.org",
+        "news.mit.edu"
+      ],
+      "queries": [
+        "AI mental health chatbot clinical study 2026",
+        "AI therapy digital mental health trial 2026",
+        "LLM theory of mind social reasoning 2026",
+        "machine cognition LLM reasoning study 2026",
+        "brain-computer interface AI neural decoding 2026",
+        "AI 정신건강 인공지능 연구 2026",
+        "AlphaFold 3 protein structure prediction 2026",
+        "AI drug discovery clinical candidate 2026",
+        "generative AI protein design de novo 2026",
+        "AI genomics single-cell foundation model 2026",
+        "AI DNA language model genomic variant 2026",
+        "AI 신약개발 생성형 AI 2026",
+        "machine learning exoplanet detection 2026",
+        "AI dark energy cosmology survey 2026",
+        "deep learning galaxy classification telescope 2026",
+        "AI 천문학 외계행성 탐지 2026",
+        "reinforcement learning fusion plasma control tokamak 2026",
+        "AI weather forecasting model GraphCast 2026",
+        "AI climate prediction neural model 2026",
+        "AI 핵융합 플라즈마 제어 2026",
+        "AI co-scientist hypothesis generation 2026",
+        "self-driving autonomous lab AI experiment 2026",
+        "foundation model for science 2026",
+        "AI 연구 자동화 자율실험실 2026",
+        "AI scientific discovery breakthrough 2026",
+        "site:quantamagazine.org AI machine learning 2026",
+        "site:phys.org AI science discovery 2026",
+        "site:technologyreview.com AI for science 2026",
+        "site:sciencedaily.com AI research method 2026",
+        "AI 과학 발견 2026"
+      ]
+    }
+  ]
+}

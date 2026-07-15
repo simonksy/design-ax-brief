@@ -1,262 +1,96 @@
 {
+  "date": "2026-07-15",
   "cards": [
     {
-      "id": "roomba-five",
+      "id": "openai-speaker",
+      "tool": "OpenAI",
       "eyebrow": "AI NEWS",
-      "headline": "파산 딛고 미국에 돌아온 아이로봇\n1,000달러 이하 자동 비움 룸바 5종",
-      "body": "라이다 지도에 회피 카메라까지 단 자동 비움 룸바 5종이 1,000달러 이하다.",
-      "mini_headline": "아이로봇 룸바 컴백",
-      "tool": "iRobot",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
+      "headline": "오픈AI 첫 기기, 카메라 품은\n화면 없는 스마트 스피커",
+      "body": "오픈AI의 첫 하드웨어는 화면 없이 카메라와 센서로 주변을 읽는 휴대용 스마트 스피커다.",
+      "mini_headline": "오픈AI의 화면 없는 스피커",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "지난 12월 파산을 신청하고 새 주인을 맞은 뒤 처음으로 아이로봇 미국 사업에 생기가 돈다. 회사는 오늘 자동 비움 도크를 갖춘 새 룸바 로봇청소기 5종의 미국 출시를 알렸다. 가격은 모두 1,000달러 이하다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Max-775-by-dock.jpg"
-          },
-          {
-            "t": "p",
-            "x": "간판은 1,000달러짜리 룸바 맥스 775 콤보 로봇 + 오토워시 도크다. 라이다 기반 매핑과 장애물 회피용 카메라, 엉킴 방지 롤러 브러시 두 개에 사이드 브러시 두 개를 갖췄다. 롤러형 물걸레는 옆으로 밀려 나와 벽 가장자리까지 닦고 카펫에 물이 묻지 않게 덮개가 걸레를 감싼다."
-          },
-          {
-            "t": "p",
-            "x": "아이로봇의 설명은 여느 로봇청소기 광고와 닮았다. 맥스 775가 앞에 놓인 큰 젖은·마른 오염을 알아보고 청소 횟수를 알아서 늘린다는 식이다. 자동 비움 도크는 먼지통을 비우고 화씨 165도 온수로 걸레를 빨아 최대 석 달까지 '완전 손 놓고' 지내게 해 준다는데, 걸레질을 자주 하는 집이라면 석 달은 후한 수치라는 게 필자의 평이다."
-          },
-          {
-            "t": "p",
-            "x": "요컨대 맥스 775는 더 비싼 경쟁작들, 특히 필자가 지난해 리뷰한 드리미 아쿠아10 울트라 롤러와 많이 닮았다. 그 제품도 스스로 덮이는 롤러 걸레와 걸레 세척 도크를 썼고 작은 다리로 몸을 들어 방 사이 문턱을 넘는 재주까지 있었다. 새 룸바가 배터리와 주행 실력에서는 그보다 낫기를 바랄 뿐이다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Plus-575-mopping.jpg"
-          },
-          {
-            "t": "p",
-            "x": "800달러짜리 룸바 플러스 575도 라이다 매핑과 카메라 장애물 회피를 쓴다(사실 신형 전부가 그렇다). 카펫 위에서 스스로 들리는 회전 걸레 패드가 달렸는데 필자의 경험상 이 방식은 줄무늬가 남기 쉽고 두꺼운 러그에서는 패드를 끌고 다니는 일이 잦았다."
-          },
-          {
-            "t": "p",
-            "x": "700달러 룸바 플러스 515와 600달러 플러스 415도 함께 나왔다. 둘 다 도크에서 자동 비움과 자동 세척이 된다. 플러스 515는 575처럼 몸집이 작고 화씨 167도 온수 걸레 세척을 지원하지만 415에는 온수 세척이 빠진 것으로 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Plus-415-in-dock.jpg"
-          },
-          {
-            "t": "p",
-            "x": "물걸레 없는 예외가 700달러 룸바 맥스 715다. 맥스 775처럼 바닥에 엉킴 방지 롤러 브러시 두 개를 달았지만 사이드 브러시는 하나뿐이고 걸레질은 하지 않는다. 위로 튀어나온 센서 뭉치 덕에 생김새부터 다른 신형들과 구별된다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Max-715.jpg"
-          },
-          {
-            "t": "p",
-            "x": "이번 5종은 지난해 말 피케아 로보틱스에 인수된 뒤 룸바가 미국에서 처음 발표한 모델이지만 두 회사가 함께 만든 첫 제품군은 아니다. 인수 전에도 피케아와 손잡고 룸바 8종을 내놓은 적이 있다. 신형들이 시장에 널린 수많은 모델과 비슷하게 들리는 이유도 여기에 있다. 다섯 모델 모두 오늘부터 아이로봇 웹사이트에서 살 수 있다."
-          }
+          { "t": "img", "src": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600" },
+          { "t": "p", "x": "오픈AI가 내놓을 첫 하드웨어는 화면이 없는 휴대용 스마트 스피커다. 블룸버그 보도에 따르면 AI 홈 컴퓨터를 지향하는 기기로, 카메라와 여러 센서를 달아 주변 환경을 읽어낸다." },
+          { "t": "p", "x": "충전식 배터리를 넣어 집 안 이곳저곳으로 들고 다닐 수 있고, 그대로 꽂아 둔 채 써도 된다. 일반 스마트 스피커를 넘어서는 고성능 AI 모델을 얹었다." },
+          { "t": "p", "x": "오픈AI는 2025년 5월 조니 아이브의 io 프로덕츠를 인수하며 하드웨어 진출을 알렸다. 이 스피커는 개발 중인 다섯 개 안팎의 제품 가운데 하나로, 멀리는 스마트폰을 대체할 모바일 AI 기기까지 목표로 삼는다. 목걸이형 웨어러블과 가정용 로봇도 살펴본 것으로 전해진다." },
+          { "t": "p", "x": "오픈AI는 \"첫 제품이 어떤 영업비밀도 침해하지 않는다고 본다\"는 입장이다. 최근 애플이 오픈AI를 상대로 영업비밀 소송을 내면서 이 회사의 하드웨어 구상에 다시 관심이 쏠렸다." }
         ]
       }
     },
     {
-      "id": "galaxy-glasses-leak",
-      "eyebrow": "AI NEWS",
-      "headline": "갤럭시 글래스 매니저 앱 유출\n워치와 링으로 제스처 조작까지",
-      "body": "유출된 관리 앱에서 원 UI XR 구동과 워치·링 제스처 조작 정황이 드러났다.",
-      "mini_headline": "갤럭시 글래스 유출",
+      "id": "galaxy-watch-teaser",
       "tool": "Samsung",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/major-samsung-galaxy-glasses-leak-reveals-many-interesting-details/",
+      "eyebrow": "AI NEWS",
+      "headline": "삼성, 갤럭시 워치9·울트라2\n'AI 건강 동반자'로 예고",
+      "body": "삼성이 7월 22일 언팩을 앞두고 갤럭시 워치9와 울트라2를 AI 건강 동반자로 예고했다.",
+      "mini_headline": "갤럭시 워치9 AI로 예고",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-teases-galaxy-watch-9-and-ultra-2-official-teaser-3687113/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Glasses-Gentle-Monster-Warby-Parker-1200x675.jpg"
-          },
-          {
-            "t": "p",
-            "x": "삼성은 다가오는 언팩 행사에서 여러 신제품을 공개한다. 이 자리에서 스마트 글래스 이야기를 더 꺼낼 것이라는 보도가 지난 몇 달간 이어졌다. 그리고 오늘 갤럭시 글래스 프로젝트의 흥미로운 세부를 담은 대형 유출이 온라인에 떴다."
-          },
-          {
-            "t": "p",
-            "x": "새미구루가 입수한 것은 갤럭시 글래스 매니저 앱이다. 스마트 글래스를 휴대폰에 연결하고 여러 기능에 접근할 때 쓰게 될 앱이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.sammobile.com/wp-content/uploads/2026/06/leaked-glasses-manager-app-1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "스크린샷 속 안경은 삼성의 갤럭시 글래스가 아니다. 삼성이 구글·퀄컴과 협업하는 워비파커 브랜드 제품이다."
-          },
-          {
-            "t": "p",
-            "x": "유출에 따르면 이 스마트 글래스는 원 UI XR로 돌아간다. 갤럭시 XR 헤드셋에서 이미 본 것이라 놀랍지는 않다. 구글이 개발한 안드로이드 XR 플랫폼 기반이다."
-          },
-          {
-            "t": "p",
-            "x": "설정 미세 조정, 소프트웨어 업데이트 설치, 안경으로 찍은 사진과 영상 옮기기까지 조작에 필요한 일은 전부 이 앱에서 처리한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.sammobile.com/wp-content/uploads/2026/06/leaked-glasses-manager-app-2.jpg"
-          },
-          {
-            "t": "p",
-            "x": "안경이 실제로 연결되지 않은 상태라 모든 기능을 깊이 들여다볼 수는 없었지만 앱 안의 코드 문자열이 더 많은 것을 알려 준다. 삼성은 갤럭시 스마트워치에 설치될 별도의 갤럭시 글래스 컨트롤러 앱을 만들고 있고 갤럭시 링을 이용한 제스처 조작의 흔적도 발견됐다."
-          },
-          {
-            "t": "p",
-            "x": "이 앱은 삼성 자체 스마트 글래스는 물론 워비파커·젠틀몬스터와 함께 개발 중인 제품과도 함께 쓰인다. 다가오는 언팩을 기다릴 이유가 하나 더 늘었다."
-          }
+          { "t": "img", "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-8-scaled.jpg" },
+          { "t": "p", "x": "삼성이 다음 세대 갤럭시 워치 라인업을 공식적으로 예고하기 시작했다. 갤럭시 워치9 시리즈와 갤럭시 워치 울트라2로, 7월 22일 공개를 앞두고 있다." },
+          { "t": "p", "x": "언팩 행사는 7월 22일 오전 9시(미 동부시각, 태평양시각 오전 6시)에 열린다. 새 워치에는 \"완전히 새로운 내부 부품\"이 들어가고 배터리 수명도 늘어난다고 삼성은 밝혔다." },
+          { "t": "p", "x": "삼성은 이번 워치를 \"새로운 AI 건강 동반자\"로 부르며, 실시간 AI 건강 인사이트와 한층 정확해진 측정을 앞세운다. 개인화된 AI 비전의 한 축이라는 설명이다." },
+          { "t": "p", "x": "삼성은 새 갤럭시 워치가 \"사용자가 자신의 건강을 더 잘 이해하고 미리 챙기도록 돕는 지능형 실시간 건강 인사이트를 제공한다\"고 했다. 단순히 수치를 기록하던 기기에서, 백그라운드 AI가 끊임없이 돌며 건강 데이터를 \"능동적으로 해석하는\" 기기로 바뀌는 셈이다." },
+          { "t": "p", "x": "예고 영상에는 심박수 측정, 수면 무호흡 감지, 개인 맞춤 건강 코칭, 러닝 전용 액티비티 워치 페이스 등이 담겼다. 다만 구체적인 하드웨어나 배터리 수명은 이번 티저에서 밝혀지지 않았다." }
         ]
       }
     },
     {
-      "id": "ios27-beta",
+      "id": "meta-glasses-subscription",
+      "tool": "Meta",
       "eyebrow": "AI NEWS",
-      "headline": "iOS 27 퍼블릭 베타 이달 온다\n새 시리 AI는 대기 명단 거쳐야",
-      "body": "개편된 시리 AI를 담은 iOS 27 퍼블릭 베타가 이달 안에 풀린다.",
-      "mini_headline": "iOS 27 베타 임박",
-      "tool": "Apple",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/07/ios-27-public-beta-is-coming-soon/",
+      "headline": "메타, 레이밴 스마트 안경\nAI 기능에 구독제 도입",
+      "body": "메타가 레이밴 스마트 안경의 대화 집중 기능을 무료 월 3시간으로 묶고 나머지는 유료 구독에 넣었다.",
+      "mini_headline": "메타 안경 유료 구독",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/meta-is-slapping-subscriptions-on-its-smart-glasses-2000780073",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "애플은 iOS 27 첫 퍼블릭 베타를 7월에 내놓겠다고 미리 밝혀 뒀다. 이달 안 어느 시점에는 받아 볼 수 있다는 얘기다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.macrumors.com/t/H9CMBRmw3tzFTEh1pfzWGGINEcI=/2500x/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg"
-          },
-          {
-            "t": "p",
-            "x": "퍼블릭 베타는 통상 세 번째나 네 번째 개발자 베타 뒤에 따라온다. 역대 기록을 보면 iOS 16부터 26까지 첫 퍼블릭 베타는 모두 7월 11일에서 24일 사이에 나왔다. iOS 26은 2025년 7월 24일, iOS 18은 2024년 7월 15일, iOS 17은 2023년 7월 12일, iOS 16은 2022년 7월 11일이었다."
-          },
-          {
-            "t": "p",
-            "x": "배포가 시작되면 누구나 호환 아이폰에 무료로 설치할 수 있다. beta.apple.com에서 무료로 등록한 뒤 설정 앱에서 일반 → 소프트웨어 업데이트 → 베타 업데이트로 들어가 iOS 27 퍼블릭 베타를 고르면 된다(항목이 안 보이면 아이폰을 재시동). 기다리기 어렵다면 개발자 베타를 지금 바로 설치하는 길도 있다."
-          },
-          {
-            "t": "p",
-            "x": "다만 첫 퍼블릭 베타가 첫 개발자 베타보다 안정적이라 해도 베타에는 버그와 성능 문제가 따르기 마련이다. 즐겨 쓰는 앱이 돌아가지 않을 수 있고 카플레이까지 말썽이 번지기도 한다. 설치 전 백업은 필수고 가능하다면 보조 아이폰에 올리는 편이 안전하다."
-          },
-          {
-            "t": "p",
-            "x": "iOS 27은 아이폰 11 이후 기종을 지원하지만 시리 AI 같은 애플 인텔리전스 기능은 아이폰 15 프로 이후에서만 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "새 단장한 시리에는 대기 명단이 있다. iOS 27 설정 앱의 Siri 항목에서 신청하면 되는데 시리 AI와 시리 앱 접근권을 받기까지 몇 주가 걸리기도 한다. 새 시리 외에도 iOS 27에는 리퀴드 글래스 디자인 개선, 성능 향상, 확대된 아동 안전 기능 등이 담겼다."
-          }
+          { "t": "img", "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-06.jpg" },
+          { "t": "p", "x": "사람들이 메타 스마트 안경을 탐탁지 않아 하는 이유는 여러 가지였지만, 구독료는 그 목록에 없었다. 그런데 더버지가 짚은 갱신된 공식 안내 페이지를 보면, 메타가 AI 안경 기능에 \"이용 제한\"을 걸기 시작했다." },
+          { "t": "p", "x": "첫 대상은 대화 집중(Conversation Focus) 기능이다. 안경에 달린 마이크로 대화 상대의 목소리를 골라내 AI로 키워 주는 기능이다." },
+          { "t": "p", "x": "새 방식에서 무료 사용자는 이 기능을 한 달에 3시간까지 쓸 수 있다. 더 쓰려면 월 20달러짜리 메타 원 프리미엄 구독이 필요하고, 그러면 월 15시간이 열린다." },
+          { "t": "p", "x": "더버지는 대화 집중을 유료로 막은 게 아리송하다고 짚었다. 이 기능이 전적으로 기기 안에서, 인터넷 없이도 돌아가 서버 대역폭 비용이 들지 않기 때문이다. 게다가 청력이 약한 사람에게 도움이 되는 보조 기능이라 접근성 측면에서 유료화 논란이 더 크다." },
+          { "t": "p", "x": "메타가 왜 하필 대화 집중을 골랐는지, 앞으로 다른 AI 기능까지 제한이 번질지는 아직 분명하지 않다. 기즈모도는 메타에 입장을 물었다." }
         ]
       }
     },
     {
-      "id": "nothing-ear3a",
+      "id": "one-ui-9-watch",
+      "tool": "Galaxy Watch",
       "eyebrow": "AI NEWS",
-      "headline": "45dB ANC에 42시간 배터리\n99달러 낫싱 이어 (3a) 공개",
-      "body": "마이크 3개에 AI 소음 제거를 얹고 최장 42시간을 버티는 99달러 이어버드다.",
-      "mini_headline": "낫싱 이어 (3a)",
-      "tool": "Nothing",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/nothing_ear_3a_unveiled_with_anc_and_up_to_42_hours_of_total_battery_life-news-73612.php",
-      "accent": "#2ec5c5",
+      "headline": "원 UI 9 워치 이달 공개\nAI 혈압 추세 기능 추가",
+      "body": "삼성이 이달 원 UI 9 워치로 AI 혈압 추세 기능을 더하고 미국에선 혈관 부하 기능을 뺀다.",
+      "mini_headline": "원 UI 9 워치 혈압 추세",
+      "source": "SamMobile",
+      "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-release-this-month/",
+      "accent": "#f5a623",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "낫싱이 낫싱 폰 (4b)와 함께 새 완전 무선 이어버드 낫싱 이어 (3a)를 공개했다."
-          },
-          {
-            "t": "p",
-            "x": "실리콘 이어팁을 쓰는 인이어 디자인으로 이번에 XS 사이즈가 새로 추가됐다. 유닛마다 12mm 다이내믹 드라이버가 들어가는데 낫싱은 이어 (a)보다 저음이 최대 5dB 강해졌다고 말한다."
-          },
-          {
-            "t": "img",
-            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-ear-3a-ofic/inline/-1200/gsmarena_001.jpg"
-          },
-          {
-            "t": "p",
-            "x": "액티브 노이즈 캔슬링은 최대 45dB이고 주변음 모드와 공간 음향도 지원한다. 각 이어버드에는 AI 소음 제거를 갖춘 마이크가 3개씩 달렸다. 내장 32MB 저장 공간에 소리를 직접 담는 녹음 기능도 새로 생겼는데 최대 1분까지 녹음되며 녹음을 시작하기 전 30초 소리까지 거슬러 담긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-ear-3a-ofic/inline/-1200/gsmarena_002.jpg"
-          },
-          {
-            "t": "p",
-            "x": "배터리는 ANC를 켠 상태로 이어버드 단독 최대 6시간, 충전 케이스 포함 25시간이다. ANC를 끄면 각각 10시간과 42시간까지 늘어난다. 고속 충전도 지원해 5분 충전으로 약 1시간을 듣는다. 연결은 블루투스 6.0에 구글 패스트 페어, 코덱은 SBC·AAC·LDAC를 지원한다."
-          },
-          {
-            "t": "img",
-            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-ear-3a-ofic/inline/-1200/gsmarena_003.jpg"
-          },
-          {
-            "t": "p",
-            "x": "이어버드 생김새는 구형 이어 (a) 그대로지만 충전 케이스는 더 둥근 모양으로 다시 빚었고 상태 표시등도 개선됐다. 색상은 블랙·핑크·화이트·옐로 네 가지, 가격은 99달러(99파운드/99유로)다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "surface-pro-oled",
-      "eyebrow": "AI NEWS",
-      "headline": "스냅드래곤 X2 엘리트를 품은\n서피스 프로 OLED 2026 리뷰",
-      "body": "노트북체크는 화면은 여전해도 300달러 오른 값 탓에 전작을 권했다.",
-      "mini_headline": "서피스 프로 OLED",
-      "tool": "Microsoft",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Flagship-convertible-with-Snapdragon-X2-Elite-Microsoft-Surface-Pro-OLED-2026-Review.1335724.0.html",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "노트북체크가 마이크로소프트 서피스 프로 OLED 2026을 리뷰했다. 퀄컴의 새 스냅드래곤 X2 엘리트를 얹은 플래그십 코파일럿+ 컨버터블로 총점은 84%, '좋음' 판정이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Pro_13_OLED/surface_pro_oled_x2_elite_case_04.JPG"
-          },
-          {
-            "t": "p",
-            "x": "탑재 칩은 스냅드래곤 X2 엘리트 라인업에서 가장 느린 X2E-78-100(12코어)과 가장 느린 아드레노 X2-85 GPU 조합이다. GPU 성능은 전 세대보다 눈에 띄게 올랐지만 CPU 향상 폭은 크지 않다. 긱벤치 6.7 멀티코어 15,102점, 싱글코어 3,287점, 시네벤치 2024 멀티코어 1,078점을 기록했고 인텔 팬서레이크를 얹은 비즈니스 모델과 성능이 비슷하다."
-          },
-          {
-            "t": "p",
-            "x": "13인치 OLED 패널(2880×1920, 120Hz)은 이번에도 강점이다. SDR 600니트, HDR 930니트 밝기에 색 정확도 ΔE 1.3, sRGB·P3 98.8% 커버리지가 나왔다. 다만 480Hz PWM 플리커가 측정됐고 터치 레이어 탓에 밝은 화면에서 옅은 격자가 비친다는 지적이 있다."
-          },
-          {
-            "t": "p",
-            "x": "무게 882g에 53Wh 배터리, 16GB 램과 교체 가능한 512GB M.2-2230 SSD, USB4 포트 두 개와 와이파이 7 구성이다. 3.5mm 이어폰 잭과 SD 카드 리더는 없고 게임 같은 고부하에서는 케이스가 뜨거워진다."
-          },
-          {
-            "t": "p",
-            "x": "문제는 가격이다. 기본 구성이 1,799달러로 2024년 모델보다 300달러 올랐다. 노트북체크는 두 모델의 차이가 아주 작다며 구할 수 있는 동안은 전작을 사라고 권했다."
-          }
+          { "t": "img", "src": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-tiles.jpg" },
+          { "t": "p", "x": "삼성 헬스 앱에 뜬 기능 변경 안내로, 원 UI 9 워치가 이르면 7월 말 나올 수 있다는 신호가 잡혔다." },
+          { "t": "p", "x": "안내에 따르면 삼성은 미국에서 갤럭시 워치의 혈관 부하(Vascular Load) 기능을 뺀다. 대신 원 UI 9 워치와 함께 \"혈압 추세(Blood Pressure Trend)\"라는 새 기능이 들어온다. 삼성은 \"이 변경은 이달 안에 원 UI 9 워치와 함께 적용된다\"고 밝혔다." },
+          { "t": "img", "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Watch-9-Ultra-2-Blood-Pressure-Trend-Feature-Announced-Members-App.jpg" },
+          { "t": "p", "x": "원 UI 9 워치는 구글 웨어 OS 7을 기반으로 한다. 베타는 2024·2025년에 나온 갤럭시 워치8과 갤럭시 워치 울트라 모델에서 받아 볼 수 있을 전망이다." },
+          { "t": "p", "x": "새 버전에는 눈에 잘 띄지 않는 내부 개선도 크게 담길 것으로 기대된다. 곧 공개될 갤럭시 워치9과 갤럭시 워치 울트라2도 함께 나온다." }
         ]
       }
     }
-  ],
-  "date": "2026-07-08"
+  ]
 }

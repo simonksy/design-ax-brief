@@ -1,20 +1,20 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "iRobot",
+      "tool": "OpenAI",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-07T12:35:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Roomba-Max-775.jpg",
-      "excerpt": "iRobot launched five new self-emptying Roomba robot vacuums priced at or under $1,000 — its first U.S. products since bankruptcy and acquisition by Picea Robotics. The flagship Roomba Max 775 pairs LiDAR mapping and camera obstacle avoidance with a self-cleaning mop dock for 'fully hands-free' operation.",
-      "rationale": "Major fresh hardware launch — iRobot's post-bankruptcy comeback with LiDAR + camera-AI Roombas under $1,000; strongest consumer-robot anchor of the day."
+      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
+      "source": "9to5Mac",
+      "published_iso": "2026-07-14T21:14:00Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600",
+      "excerpt": "A new report says OpenAI and Jony Ive's io first hardware device will be a portable, screenless smart speaker with a camera and sensors that read the user's surroundings - pitched as an AI-first 'home computer' rather than a phone-style gadget.",
+      "rationale": "Biggest, most novel story in the pool - the first concrete shape of the OpenAI x Jony Ive device (screenless AI-first speaker) signals where post-phone AI hardware is headed."
     },
     {
       "rank": 2,
@@ -22,69 +22,48 @@
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.sammobile.com/news/major-samsung-galaxy-glasses-leak-reveals-many-interesting-details/",
-      "source": "SamMobile",
-      "published_iso": "2026-07-01T10:48:00+02:00",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Glasses-Gentle-Monster-Warby-Parker-1200x675.jpg",
-      "excerpt": "A leaked Galaxy Glasses manager app reveals Samsung's AI eyewear will run One UI XR and integrate with Galaxy watches and rings for gesture control. The glasses, built with Google, Qualcomm, Warby Parker and Gentle Monster, are expected at the July 22 Unpacked.",
-      "rationale": "Best look yet at Samsung's Gemini-powered glasses ahead of the July 22 Unpacked; kept the original SamMobile leak, dropped Tom's Guide coverage of the same story family."
+      "url": "https://www.androidauthority.com/samsung-teases-galaxy-watch-9-and-ultra-2-official-teaser-3687113/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-14T06:01:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-8-scaled.jpg",
+      "excerpt": "Ahead of the July 22 Galaxy Unpacked, Samsung teased the Galaxy Watch 9 and Watch Ultra 2 as an 'AI-powered health companion' promising real-time AI health insights, better tracking accuracy and new internal hardware.",
+      "rationale": "Timely pre-Unpacked hardware teaser positioning on-wrist AI health as the headline; the single best-sourced version of a story doubled by GSMArena."
     },
     {
       "rank": 3,
-      "tool": "Apple",
+      "tool": "Meta",
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.macrumors.com/2026/07/07/ios-27-public-beta-is-coming-soon/",
-      "source": "MacRumors",
-      "published_iso": "2026-07-07T12:03:37-07:00",
-      "og_image": "https://images.macrumors.com/t/H9CMBRmw3tzFTEh1pfzWGGINEcI=/2500x/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg",
-      "excerpt": "Apple says the iOS 27 public beta arrives this month, bringing the waitlisted Siri AI revamp to a much wider pool of devices ahead of the fall release.",
-      "rationale": "Freshest, broadest angle of the overlapping iOS 27 / Siri AI cluster (chosen over Engadget supported-models and 9to5Mac beta 3) — the rebuilt Siri reaches the public this month."
+      "url": "https://gizmodo.com/meta-is-slapping-subscriptions-on-its-smart-glasses-2000780073",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-01T13:55:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-06.jpg",
+      "excerpt": "Meta is adding rate limits to AI features on its Ray-Ban smart glasses, capping Conversation Focus at three hours a month free and gating 15 hours behind a $20/month Meta One Premium plan - an early sign of AI-glasses features moving to subscriptions.",
+      "rationale": "High-actionability trend signal - AI wearable features shifting behind subscriptions; distinct from the earlier super-sensing story and a real cost-of-AI shift for anyone building on the platform."
     },
     {
       "rank": 4,
-      "tool": "Nothing",
-      "category": "gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "url": "https://www.gsmarena.com/nothing_ear_3a_unveiled_with_anc_and_up_to_42_hours_of_total_battery_life-news-73612.php",
-      "source": "GSMArena",
-      "published_iso": "2026-07-07T17:56:01+02:00",
-      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/nothing-ear-3a-ofic/-952x498w6/gsmarena_000.jpg",
-      "excerpt": "Nothing unveiled the $99 Ear (3a) true wireless earbuds with up to 45dB ANC and 42 hours of battery life. Each earbud carries three microphones with AI-powered noise reduction for intelligent sound filtering during calls and recordings.",
-      "rationale": "Same-day product launch with concrete specs and an AI noise-reduction hook; adds the earbuds/audio sub-topic no other pick covers."
-    },
-    {
-      "rank": 5,
-      "tool": "Microsoft",
+      "tool": "Galaxy Watch",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.notebookcheck.net/Flagship-convertible-with-Snapdragon-X2-Elite-Microsoft-Surface-Pro-OLED-2026-Review.1335724.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-07-07T18:08:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Pro_13_OLED/surface_pro_oled_x2_elite_case_04.JPG",
-      "excerpt": "Notebookcheck reviews the Microsoft Surface Pro OLED 2026, the flagship Copilot+ convertible with Qualcomm's Snapdragon X2 Elite SoC and OLED panel — a look at how far Arm-based NPU AI PCs have come.",
-      "rationale": "In-depth review of the flagship Copilot+ convertible on Snapdragon X2 Elite; covers the on-device-AI PC beat and is a distinct device from the earlier HP Omnibook card."
+      "url": "https://www.sammobile.com/news/one-ui-9-watch-beta-release-this-month/",
+      "source": "SamMobile",
+      "published_iso": "2026-07-02T07:42:00Z",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-tiles.jpg",
+      "excerpt": "Samsung's health notice signals One UI 9 Watch arriving this month, adding an AI-driven Blood Pressure Trend feature to Galaxy Watches while retiring Vascular Load in the US - a shift in the watch's on-device health-sensing stack.",
+      "rationale": "Concrete software/feature change (AI Blood Pressure Trend, Vascular Load retirement) distinct from the hardware teaser; a fourth distinct outlet keeps the final set at 4 unique stories and 4 outlets."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.gadgets today (2026-07-07) + days 2026-07-03, 2026-07-04, 2026-07-06",
-    "history_collisions": 0,
-    "dropped_same_story": [
-      "https://www.tomsguide.com/computing/smart-glasses/major-leak-reveals-samsung-galaxy-glasses-controls-pairing-modes-and-how-they-might-work-with-smart-watches-and-rings — same Galaxy Glasses leak as SamMobile pick",
-      "https://www.engadget.com/2206159/iphone-models-getting-new-siri-ai/ — iOS 27 Siri cluster; MacRumors public-beta angle chosen",
-      "https://9to5mac.com/2026/07/06/ios-27-beta-3/ — iOS 27 Siri cluster; MacRumors public-beta angle chosen"
+    "checked_against": "pipeline/candidates_filtered_gadgets.json (already URL-deduped vs news_data.json history: dropped 1, kept 7). Content-dedup applied against published gadgets section (today 2026-07-14 + days 2026-07-08 through 2026-07-13).",
+    "collapsed_stories": [
+      "OpenAI smart-speaker report: kept 9to5Mac, dropped Gizmodo (https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660) - same OpenAI x Jony Ive story; kept 9to5Mac for outlet diversity since Gizmodo is used for the Meta pick.",
+      "Galaxy Watch Unpacked teaser: kept Android Authority, dropped GSMArena (https://www.gsmarena.com/samsung_teases_the_next_galaxy_watch_and_its_aipowered_health_companion-news-73699.php) - same teaser event."
     ],
-    "dropped_for_diversity": [
-      "https://www.techradar.com/tech/robots-should-understand-you-talk-to-you-and-work-for-you-chinese-robotics-company-agibot-is-heralding-a-robot-revolution-i-met-the-humanoids-up-close — second robot story; iRobot launch is the stronger news",
-      "https://www.notebookcheck.net/Apple-Home-AI-features-in-iOS-27-and-macOS-27-require-expensive-subscription.1336583.0.html — second Apple story and would make Notebookcheck x2"
-    ],
-    "notes": [
-      "Galaxy Glasses leak kept vs history: 07-03 Tom's Guide Unpacked preview was a multi-device roundup, not this manager-app leak.",
-      "Surface Pro OLED review kept vs history: 07-04 HP Omnibook X2 card covered a different Snapdragon X2 Elite device.",
-      "Final 5: five distinct outlets, five distinct sub-topics (home robot / smart glasses / phone-OS AI / earbuds / AI PC)."
-    ]
+    "dropped": "DROPPED Digital Trends Nokia AI-button phones (https://www.digitaltrends.com/phones/hdm-just-launched-four-dumb-phones-with-a-nokia-badge-and-an-ai-button/) - content-dup of already-published nokia-ai-button (GSMArena, 2026-07-13): same HMD release, same four Nokia feature phones, same AI button + Sikey AI + 180-day subscription. Not a distinct angle.",
+    "shortfall": "4 picks, none padded. After dropping the Nokia dup and collapsing the two near-dupe pairs, the pool yields exactly 4 distinct never-before-seen stories (floor is 3, so 4 is valid).",
+    "diversity": "4 distinct outlets (9to5Mac, Android Authority, Gizmodo, SamMobile), max 1 card per outlet; distinct accents assigned within the shared gadgets category. Meta subscriptions pick confirmed distinct from published meta-super-sensing (2026-07-10, always-on FT report)."
   }
 }

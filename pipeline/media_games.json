@@ -1,28 +1,21 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
+  "section": "games",
   "media": [
     {
-      "id": "amano-zan",
-      "type": "video",
-      "src": "pipeline/media/amano-zan.mp4",
-      "poster": "pipeline/media/amano-zan.jpg"
-    },
-    {
-      "id": "ue-image-gen",
-      "type": "video",
-      "src": "pipeline/media/ue-image-gen.mp4",
-      "poster": "pipeline/media/ue-image-gen.jpg"
-    },
-    {
-      "id": "unity-scene-ai",
-      "type": "video",
-      "src": "pipeline/media/unity-scene-ai.mp4",
-      "poster": "pipeline/media/unity-scene-ai.jpg"
-    },
-    {
-      "id": "dreamcast-slop",
+      "id": "sts2-placeholder",
       "type": "image",
-      "src": "pipeline/media/dreamcast-slop.jpg"
+      "src": "pipeline/media/sts2-placeholder.jpg"
+    },
+    {
+      "id": "lucas-ai-future",
+      "type": "image",
+      "src": "pipeline/media/lucas-ai-future.jpg"
+    },
+    {
+      "id": "vibe-clone-steam",
+      "type": "image",
+      "src": "pipeline/media/vibe-clone-steam.jpg"
     }
   ]
 }

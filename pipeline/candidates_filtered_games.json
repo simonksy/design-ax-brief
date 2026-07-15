@@ -1,68 +1,58 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
   "section": "games",
-  "now_iso": "2026-07-07T23:46:48Z",
   "window_hours": 336,
-  "note": "Wide-funnel target (~16-28) not reachable: the 14-day games window was heavily harvested by the 2026-06-30..07-07 briefs (20 games cards already published). Sweep covered site-scoped WebSearch + RSS feeds of gamedeveloper.com, gamesindustry.biz, pcgamer.com (incl. /software/ai category page), kotaku.com, polygon.com, rockpapershotgun.com, eurogamer.net, vg247.com, destructoid.com (+/tag/ai), thegamer.com, gamespot.com, gamesradar.com, wccftech.com, venturebeat.com, gamingbolt.com, nme.com, aftermath.site (/tag/ai), 80.lv, roadtovr.com, unity.com/blog, unrealengine.com/rss, nvidia.com GeForce news, blog.roblox.com, deepmind.google, plus YouTube channel RSS for Unreal Engine, Unity, GDC, Two Minute Papers (and Inworld AI attempt). Everything else AI-related in-window was either already covered (Godot ban, Sweeney/Valve AI labels, EA creativity, Gaider, AoE2 study, Steam AI stigma, Sony annual-report AI, C&C vibe-port, Unity AI audit, caveman agents, JGS2, MetaHuman sizzle, Amazon AI guides, Hasbro voices, wildchat, Broche) or verified stale via og/JSON-LD published_time (UE 5.8 MCP video Jun 23 18:00Z misses the window by ~6h; Kotaku NVIDIA ArtFixer Jun 23 13:30Z; Aftermath UE6 dev-react Jun 17; NVIDIA ACE Game Agent SDK Jun 16; GI.biz 'AI costs' opinion Jun 19; GamesRadar Next Fest AI count Jun 16; Hi3D-adjacent 80.lv AI pieces May/Jun). GI.biz Jul 7 'Sony leadership says AI tools foundational' was skipped as a re-tread of the covered 7/02 Sony annual-report card. The 6 below are all deterministically FRESH via freshness.py and not previously covered.",
+  "now_iso": "2026-07-15T01:35:00Z",
   "items": [
     {
-      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
-      "title": "Final Fantasy artist Yoshitaka Amano explains why AI can't replace human creativity",
-      "source": "Polygon",
+      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+      "title": "Godot to ban (almost all) AI coding contributions",
+      "source": "Game Developer",
       "category": "games",
-      "published_iso": "2026-07-07T18:30:20Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/img_6751.JPG?w=1200&h=675&fit=crop",
-      "excerpt": "Interviewed at Anime Expo about ZAN, his new hand-drawn animated series, legendary Final Fantasy artist Yoshitaka Amano says he sees AI as a tool, not an enemy — but insists 'only humans can create the original,' arguing hand-drawn imperfection matters more than ever in an age of generative art."
+      "published_iso": "2026-07-01T18:14:09Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf37f0e888236bac1/6a453c420818ce731dd5fb9c/godot-fb-tw-share-image-1920x1080-0abe26cbac38.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "The Godot Foundation updated its contribution policy to ban AI-generated code for substantial pieces of work, while still permitting narrow AI assists like code completion and regex helpers. A concrete engine-governance stance on how (and whether) generative AI belongs in a game-dev codebase: 'AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it.'"
     },
     {
-      "url": "https://www.gamesradar.com/hardware/retro/sega-is-seemingly-letting-ai-turn-its-dreamcast-keychains-into-slop-but-the-final-product-could-be-safe/",
-      "title": "Sega is seemingly letting AI turn its Dreamcast keychains into slop, but the final product could be safe",
+      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
+      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-07T12:32:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NHUvfgQ2PsQUt3Q2uRsFBB-1920-80.jpg",
-      "excerpt": "Promo images for officially licensed Sega Dreamcast controller keychains appear AI-altered — zooming into the Sega logo reveals vague cursive-shaped lines instead of real letters — the latest case of AI-generated marketing art slipping into licensed game merchandise."
+      "published_iso": "2026-07-14T14:20:43Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
+      "excerpt": "Mega Crit's lead argues that deliberately rough hand-made placeholder art is a vital part of the early-access design process, and that swapping it for polished generative-AI art would distort how players judge an unfinished game. A working designer's craft case for why gen AI doesn't fit their iteration workflow."
     },
     {
-      "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
-      "title": "From prompt to reality: how to turn your idea into a physical 3D-printed collectible using Hi3D",
-      "source": "80 Level",
+      "url": "https://aftermath.site/yoshitaka-amano-is-more-centrist-on-ai-than-youd-hope/",
+      "title": "Yoshitaka Amano Is More Centrist on AI Than You'd Hope",
+      "source": "Aftermath",
       "category": "games",
-      "published_iso": "2026-07-06T13:07:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg",
-      "excerpt": "80 Level put Hi3D's AI 3D-maker platform through a full pipeline test: from a single text prompt to concept variations, watertight auto-repaired meshes, and a fully assembled, print-ready Space Marine miniature — a working text-to-physical-collectible workflow for game artists."
+      "published_iso": "2026-07-14T18:05:16Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/ZAN-Yoshitaka-Amano.jpg",
+      "excerpt": "Legendary Final Fantasy artist Yoshitaka Amano gives a notably measured take on generative AI in creative work, resisting a flat rejection. A prominent game-art voice weighing how AI intersects with hand-crafted illustration — useful context for how veteran creatives are positioning themselves on the tech."
     },
     {
-      "url": "https://www.youtube.com/watch?v=LGvsShWEH3k",
-      "title": "Using UE with Image and Video Generation (Coming Soon) | State of Unreal | Unreal Fest Chicago 2026",
-      "source": "Unreal Engine (YouTube)",
+      "url": "https://www.gamesradar.com/games/good-games-will-get-cloned-and-buried-ai-vibe-coding-is-one-of-the-biggest-threats-on-storefronts-like-steam-analyst-warns/",
+      "title": "'Good games will get cloned and buried' – AI vibe coding is one of the biggest threats on storefronts like Steam, analyst warns",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-06-24T07:00:05-07:00",
-      "og_image": "https://i.ytimg.com/vi/LGvsShWEH3k/maxresdefault.jpg",
-      "excerpt": "Epic's State of Unreal session shows how Unreal Engine tools used in tandem with image and video generation models let artists direct generative output with 'greater intention and creative control' — an official look at how genAI plugs into the UE art pipeline, coming soon."
+      "published_iso": "2026-07-14T19:13:29Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg",
+      "excerpt": "An industry analyst warns that AI 'vibe coding' will let opportunists rapidly clone successful games and flood storefronts, burying originals under low-effort copies. A discoverability-and-design-economics angle on how fast generative tooling is changing what shipping a game on Steam looks like."
     },
     {
-      "url": "https://www.youtube.com/watch?v=mGuaRAWdXPA",
-      "title": "Unreal Engine 6 | State of Unreal | Unreal Fest Chicago 2026",
-      "source": "Unreal Engine (YouTube)",
+      "url": "https://kotaku.com/george-lucas-artificial-intelligence-ai-museum-art-2000715801",
+      "title": "George Lucas Goes To The Dark Side, Says AI Is 'The Future'",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-06-24T11:00:19-07:00",
-      "og_image": "https://i.ytimg.com/vi/mGuaRAWdXPA/maxresdefault.jpg",
-      "excerpt": "Epic's official Unreal Engine 6 vision video: UE6 is pitched as evolving how games are shipped and operated — better rendering, faster cook times, and deep AI-assisted workflows baked into the engine. Note: the UE6 announcement itself dates to the Jun 17-18 State of Unreal show (this official video posted Jun 24); dev backlash to its AI features was covered by Aftermath on Jun 17 (outside window)."
-    },
-    {
-      "url": "https://www.youtube.com/shorts/_D26zKNPX7s",
-      "title": "Spend less time on scene setup with Unity AI",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-07-06T06:57:03-07:00",
-      "og_image": "https://i.ytimg.com/vi/_D26zKNPX7s/maxresdefault.jpg",
-      "excerpt": "New official Unity short demos Unity AI (Beta) automating scene setup so developers spend more time iterating on ideas — a sibling feature to the asset-audit workflow covered on 7/07, this one focused on AI-driven scene assembly inside the editor."
+      "published_iso": "2026-07-14T14:00:10Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-14-at-9.46.17-AM-1200x675.jpg",
+      "excerpt": "Star Wars creator George Lucas compares refusing to use AI to riding a horse in the age of cars, calling the tech inevitable for creative work. A high-profile creator framing generative AI as an unavoidable shift — the kind of stance shaping how studios and creatives debate adopting it."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 6,
+    "dropped": 1,
+    "kept": 5,
     "against_days": 5
   }
 }

@@ -1,75 +1,50 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
   "section": "movies",
   "selection_mode": "curator",
   "picks": [
     {
-      "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
-      "source": "No Film School",
-      "tool": "Beeble",
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-feature-odysseus-the-fall-1236646751/",
+      "source": "The Hollywood Reporter",
+      "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Freshest, most actionable craft-tool release: HDR reconstruction from SDR changes finishing, remastering and deliverable pipelines tomorrow.",
-      "published_iso": "2026-07-07T21:29:01Z",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67106787&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "excerpt": "Beeble has released SwitchHDR, a new frontier AI model that reconstructs HDR imagery from conventional SDR video — promising a way to bring dynamic range into footage that never had it, for post, delivery and restoration workflows.",
+      "rationale": "A full 135-min AI-generated feature made for five figures is a concrete shock to how filmmakers weigh budgets and generative-video pipelines — high actionability, novel, credible trade outlet.",
+      "published_iso": "2026-07-14T06:00:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/ODYSSEUS-_-The-Fall-still-11-H-2026.jpg?w=1296&h=730&crop=1",
+      "excerpt": "Fountain O unveiled 'Odysseus: The Fall,' a 135-minute AI-generated retelling of Homer's epic by director Ash Koosha, made for a mid-five-figure budget using Kling after OpenAI shuttered Sora. It launches to piggyback on Christopher Nolan's $250M traditional adaptation, dramatizing how generative video collapses feature-film budgets and workflows.",
       "category": "movies"
     },
     {
-      "url": "https://www.youtube.com/watch?v=Z36LDna4nZg",
-      "source": "Corridor Crew",
-      "tool": "Corridor Crew",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "High-craft, shot-by-shot demo of AI relighting/keying replacing a green-screen pipeline — distinct workflow story that pairs with the SwitchHDR release.",
-      "published_iso": "2026-07-05T16:00:26+00:00",
-      "og_image": "https://i.ytimg.com/vi/Z36LDna4nZg/maxresdefault.jpg",
-      "excerpt": "Corridor Crew reveals the AI VFX workflow behind their new season: Beeble's SwitchLight AI relighting plus their own CorridorKey keying let them composite actors into scenes without a traditional green-screen pipeline.",
-      "category": "social"
-    },
-    {
-      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
-      "source": "Variety",
-      "tool": "Midjourney",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "The studios-vs-AI lawsuit turned inside out — Hollywood's own AI use becomes evidence, shaping how openly studios can adopt generative tools.",
-      "published_iso": "2026-07-02T20:13:57+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2025/09/Screen-Shot-2025-09-04-at-1.13.03-PM.png?w=647&h=317&crop=1",
-      "excerpt": "Midjourney is appealing a magistrate judge's order limiting discovery into how Disney, Universal and Warner Bros. themselves use AI in their shows and movies, seeking to put studios' internal AI use on the record as part of its fair-use defense.",
-      "category": "movies"
-    },
-    {
-      "url": "https://nofilmschool.com/a24-google-deepmind",
+      "url": "https://nofilmschool.com/ssff-asia-pitch-contest-2026",
       "source": "No Film School",
-      "tool": "A24",
+      "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Strongest single angle on the A24×DeepMind story family (explainer kept; Deadline defense and THR boycott pieces dropped as same-story duplicates) — filmmaker-workflow framing of the most consequential studio-AI deal right now.",
-      "published_iso": "2026-06-30T22:05:18Z",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=60146940&width=1200&height=600&coordinates=0%2C30%2C0%2C31",
-      "excerpt": "No Film School unpacks A24's $75M research partnership with Google DeepMind — what the studio actually gets (AI storyboard tools, DeepMind researchers working alongside filmmakers) and whether the 'AI is infecting Hollywood' panic fits the facts.",
+      "rationale": "A funded festival competition that explicitly permits AI in pitches but mandates section-by-section disclosure — an actionable template for how filmmakers submit AI-assisted work now.",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/nihonchokuhan-presents-short-drama-pitch-contest.png?id=67114930&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C1",
+      "excerpt": "Short Shorts Film Festival & Asia opened a pitch competition offering ¥10 million in production funding for a winning short drama, permitting generative AI in pitch materials but requiring filmmakers to disclose exactly which sections used AI. A window into how major festivals are writing AI-disclosure rules into creative submissions.",
       "category": "movies"
     },
     {
-      "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
-      "source": "The Hollywood Reporter",
-      "tool": "Hasbro",
-      "accent": "#eb367f",
+      "url": "https://www.engadget.com/2208729/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/",
+      "source": "Engadget",
+      "tool": "Movies",
+      "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Voice-cloning consent at its sharpest edge case — minors — setting precedents for likeness and voice rights across screen production.",
-      "published_iso": "2026-06-25T17:19:49Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/peppa-pig-george-deaf.png?w=1440&h=810&crop=1",
-      "excerpt": "Hasbro's contracts for shows including Peppa Pig allegedly ask child voice actors to sign away rights for AI use of their voices; a UK agents' association warns a parent's approval 'should never be a blanket licence to capture, clone, train, or reuse a child's voice indefinitely.'",
+      "rationale": "A synthetic performer headlining a feature is a live escalation of the AI-casting/likeness fight that directly shapes how the industry treats performers — novel and consequential.",
+      "published_iso": "2026-07-06T16:28:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/intro-1783355190.jpg",
+      "excerpt": "The AI-generated 'actress' Tilly Norwood is reportedly set to headline a feature called 'Misaligned' from Particle6 Productions — a 'coming-of-age story infused with existential AI chaos' set in the 'Tillyverse.' The move escalates the synthetic-performer fight (SAG-AFTRA: 'not an actor'), a live test of AI likeness/casting in narrative film.",
       "category": "movies"
     }
   ],
   "dedup_notes": {
-    "dropped_as_duplicates": [
-      "mattwolfe-vibe-directing (content dupe of openart-director card published 2026-07-06)",
-      "a24-defends-google + a24-still-cool (same story family as a24-google-deepmind-explainer — one angle kept)"
-    ],
-    "history_checked": "movies section today 2026-07-07 (tilly-misaligned, friend-pornstar, siggraph-caf, runway-agent2, cr-anime) + days 2026-07-06/07-04/07-02/07-01; no URL or content overlap with the 5 picks",
-    "diversity": "outlets: nofilmschool.com x2, youtube.com x1, variety.com x1, hollywoodreporter.com x1 — 4 distinct outlets, max 2 per outlet"
+    "dropped_as_duplicates": [],
+    "dropped_within_pool": [],
+    "history_checked": "candidates_filtered_movies.json (3 items) is already URL-deduped vs history. Applied content-dedup vs sections.movies today (2026-07-14: nvidia-neural, meyer-top5) and days 2026-07-08/09/10/11/13. Odysseus: The Fall is distinct from the 2026-07-09 keitel-ai card (that item is Michael Caine's AI voice for the ElevenLabs Odyssey AUDIOBOOK — a different event, not an AI-generated film). SSFF & ASIA pitch contest and Tilly Norwood have no URL or content overlap with any published movies card.",
+    "diversity": "outlets: hollywoodreporter.com x1, nofilmschool.com x1, engadget.com x1 — 3 distinct domains, within the <=2-per-domain guard. Single-category section (movies); distinct accents assigned (#0070f3, #f5a623, #7928ca).",
+    "shortfall": "3 picks — meets the floor of 3. The fresh pool held exactly 3 distinct, never-before-seen stories; none dropped as duplicates. No padding."
   }
 }

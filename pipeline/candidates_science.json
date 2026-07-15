@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-15",
+  "section": "science",
+  "now_iso": "2026-07-15T01:35:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://phys.org/news/2026-07-physics-ai-drug-patches-bandages.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-informed-ai-co.jpg",
+      "excerpt": "Brown University researchers built a physics-informed neural network that predicts how controlled-release materials dispense drugs, potentially slashing development time for therapeutic patches, bandages and implants by up to 94%."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-translates-p.jpg",
+      "excerpt": "Technion's BetaDescribe is an AI system that translates raw protein sequences into natural-language descriptions, generating evidence-based hypotheses about the functions of otherwise-uncharacterized proteins for drug discovery and biotech."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/neutron-star-merger.webp",
+      "excerpt": "An international team at GSI/FAIR trained a deep neural network (RHINE) to model r-process heating in neutron-star mergers, letting simulations of how the universe forges its heaviest elements run far faster and more accurately."
+    },
+    {
+      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
+      "excerpt": "From structural biology to particle physics, AI systems increasingly deliver results of remarkable power and accuracy — yet even their creators struggle to explain how they reach them, raising the question of what counts as understanding in science."
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/think-your-way-to-health/202607/i-need-help-should-i-use-an-ai-chatbot-or-a-therapist",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/judith_beck.jpg",
+      "excerpt": "Judith S. Beck weighs AI mental-health chatbots against human therapists: chatbots are low-cost and available 24/7 but carry real risks, while clinicians tailor treatment with empathy and clinical judgment an LLM cannot yet replicate."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A new critique (Peter J. Denning, Taylor & Francis) argues Turing's 1950 assumption — that human intelligence can be encoded into a computer — may be wrong, contending common sense, intuition, culture and practical know-how resist formalization by AI."
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg",
+      "excerpt": "Anthropic's 'Jacobian lens' reveals a hidden 'J-space' inside Claude Opus 4.6 — words that shape a model's upcoming output without appearing in it — offering the clearest glimpse yet into how LLMs represent and weigh concepts internally."
+    }
+  ]
+}

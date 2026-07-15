@@ -1,32 +1,22 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
   "section": "movies",
   "media": [
     {
-      "id": "switchhdr",
+      "id": "odysseus-fall",
       "type": "image",
-      "src": "pipeline/media/switchhdr.jpg"
+      "src": "pipeline/media/odysseus-fall.jpg"
     },
     {
-      "id": "corridor-soad",
+      "id": "ssff-asia-pitch",
       "type": "video",
-      "src": "pipeline/media/corridor-soad.mp4",
-      "poster": "pipeline/media/corridor-soad.jpg"
+      "src": "pipeline/media/ssff-asia-pitch.mp4",
+      "poster": "pipeline/media/ssff-asia-pitch.jpg"
     },
     {
-      "id": "mj-discovery",
+      "id": "tilly-norwood-misaligned",
       "type": "image",
-      "src": "pipeline/media/mj-discovery.png"
-    },
-    {
-      "id": "a24-deepmind",
-      "type": "image",
-      "src": "pipeline/media/a24-deepmind.jpg"
-    },
-    {
-      "id": "hasbro-voices",
-      "type": "image",
-      "src": "pipeline/media/hasbro-voices.png"
+      "src": "pipeline/media/tilly-norwood-misaligned.jpg"
     }
   ]
 }

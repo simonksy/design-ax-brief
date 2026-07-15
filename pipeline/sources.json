@@ -47,6 +47,13 @@
       "categories": [
         "gadgets"
       ]
+    },
+    {
+      "section": "science",
+      "label": "Science",
+      "categories": [
+        "science"
+      ]
     }
   ],
   "categories": [
@@ -344,6 +351,38 @@
         "roadtovr.com",
         "venturebeat.com"
       ]
+    },
+    {
+      "category": "science",
+      "label": "Science",
+      "motif": "sphere",
+      "accent": "#2ec5c5",
+      "allowed_domains": [
+        "quantamagazine.org",
+        "phys.org",
+        "sciencedaily.com",
+        "newscientist.com",
+        "scientificamerican.com",
+        "livescience.com",
+        "technologyreview.com",
+        "arxiv.org",
+        "biorxiv.org",
+        "space.com",
+        "universetoday.com",
+        "skyandtelescope.org",
+        "physicsworld.com",
+        "physics.aps.org",
+        "thequantuminsider.com",
+        "statnews.com",
+        "genengnews.com",
+        "fiercebiotech.com",
+        "psychologytoday.com",
+        "apa.org",
+        "deepmind.google",
+        "research.google",
+        "allenai.org"
+      ],
+      "_note": "AI x science: psychology, cognitive science, life science, materials science, biology, astronomy, physics, quantum. Crawler-blocked/paywalled majors (nature.com, science.org) deliberately excluded — phys.org / quantamagazine / arxiv usually carry the same research with verifiable published times. Relevance test: keep only items where AI actually advances or intersects scientific research/method; drop pure AI-industry noise (funding, compute, hiring)."
     }
   ],
   "palette": [

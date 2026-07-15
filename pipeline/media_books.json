@@ -1,30 +1,20 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
+  "section": "books",
   "media": [
     {
-      "id": "ipa-congress",
+      "id": "ai-audiobook-surveys",
       "type": "image",
-      "src": "pipeline/media/ipa-congress.jpg"
+      "src": "pipeline/media/ai-audiobook-surveys.jpg"
     },
     {
-      "id": "pls-litigation",
+      "id": "kindle-translate-expand",
       "type": "image",
-      "src": "pipeline/media/pls-litigation.jpg"
+      "src": "pipeline/media/kindle-translate-expand.jpg"
     },
     {
-      "id": "proust-chatgpt",
-      "type": "image",
-      "src": "pipeline/media/proust-chatgpt.png"
-    },
-    {
-      "id": "cambridge-trace",
-      "type": "image",
-      "src": "pipeline/media/cambridge-trace.jpeg"
-    },
-    {
-      "id": "infinite-story",
-      "type": "image",
-      "src": "pipeline/media/infinite-story.png"
+      "id": "ipa-childrens-books",
+      "type": "svg"
     }
   ]
 }

@@ -1,63 +1,61 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
   "section": "games",
   "selection_mode": "agent",
+  "shortfall": true,
   "picks": [
     {
-      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
-      "source": "Polygon",
-      "tool": "Amano",
+      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
+      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-14T14:20:43Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
+      "excerpt": "Mega Crit's lead argues that deliberately rough hand-made placeholder art is a vital part of the early-access design process, and that swapping it for polished generative-AI art would distort how players judge an unfinished game. A working designer's craft case for why gen AI doesn't fit their iteration workflow.",
+      "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Freshest item in the pool (Jul 7): legendary Final Fantasy artist Yoshitaka Amano's nuanced 'AI is a tool, only humans create the original' stance is a high-credibility artist perspective the section hasn't covered.",
-      "published_iso": "2026-07-07T18:30:20Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/img_6751.JPG?w=1200&h=675&fit=crop",
-      "excerpt": "Interviewed at Anime Expo about ZAN, his new hand-drawn animated series, legendary Final Fantasy artist Yoshitaka Amano says he sees AI as a tool, not an enemy — but insists 'only humans can create the original,' arguing hand-drawn imperfection matters more than ever in an age of generative art."
+      "rationale": "A working studio's concrete craft argument for why rough placeholder art beats gen-AI polish during iteration — directly actionable for how designers run early-access playtesting and manage player perception."
     },
     {
-      "url": "https://www.youtube.com/watch?v=LGvsShWEH3k",
-      "source": "Unreal Engine (YouTube)",
-      "tool": "Unreal Engine",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "Most actionable pick: Epic's official State of Unreal demo of image/video generation models wired into the UE art pipeline directly changes how game artists will direct generative output.",
-      "published_iso": "2026-06-24T07:00:05-07:00",
-      "og_image": "https://i.ytimg.com/vi/LGvsShWEH3k/maxresdefault.jpg",
-      "excerpt": "Epic's State of Unreal session shows how Unreal Engine tools used in tandem with image and video generation models let artists direct generative output with 'greater intention and creative control' — an official look at how genAI plugs into the UE art pipeline, coming soon."
-    },
-    {
-      "url": "https://www.youtube.com/shorts/_D26zKNPX7s",
-      "source": "Unity (YouTube)",
-      "tool": "Unity AI",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "Usable today in the free Unity AI beta; a distinct feature (AI-driven scene assembly) from the 7/07 asset-audit card, and keeps engine coverage balanced between Unreal and Unity.",
-      "published_iso": "2026-07-06T06:57:03-07:00",
-      "og_image": "https://i.ytimg.com/vi/_D26zKNPX7s/maxresdefault.jpg",
-      "excerpt": "New official Unity short demos Unity AI (Beta) automating scene setup so developers spend more time iterating on ideas — a sibling feature to the asset-audit workflow covered on 7/07, this one focused on AI-driven scene assembly inside the editor."
-    },
-    {
-      "url": "https://www.gamesradar.com/hardware/retro/sega-is-seemingly-letting-ai-turn-its-dreamcast-keychains-into-slop-but-the-final-product-could-be-safe/",
-      "source": "GamesRadar+",
-      "tool": "Sega",
+      "url": "https://kotaku.com/george-lucas-artificial-intelligence-ai-museum-art-2000715801",
+      "title": "George Lucas Goes To The Dark Side, Says AI Is 'The Future'",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-07-14T14:00:10Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-14-at-9.46.17-AM-1200x675.jpg",
+      "excerpt": "Star Wars creator George Lucas compares refusing to use AI to riding a horse in the age of cars, calling the tech inevitable for creative work. A high-profile creator framing generative AI as an unavoidable shift — the kind of stance shaping how studios and creatives debate adopting it.",
+      "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Fresh (Jul 7) cautionary case of AI slop slipping into officially licensed game merch marketing — distinct from the earlier Sonic ARG data story and adds an industry-watch angle to the mix.",
-      "published_iso": "2026-07-07T12:32:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NHUvfgQ2PsQUt3Q2uRsFBB-1920-80.jpg",
-      "excerpt": "Promo images for officially licensed Sega Dreamcast controller keychains appear AI-altered — zooming into the Sega logo reveals vague cursive-shaped lines instead of real letters — the latest case of AI-generated marketing art slipping into licensed game merchandise."
+      "rationale": "A landmark creator's blunt 'AI is inevitable' framing sits opposite the same day's craft-refusal takes — high novelty and credibility, sharpening the adoption debate studios and creatives are having right now."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/good-games-will-get-cloned-and-buried-ai-vibe-coding-is-one-of-the-biggest-threats-on-storefronts-like-steam-analyst-warns/",
+      "title": "'Good games will get cloned and buried' – AI vibe coding is one of the biggest threats on storefronts like Steam, analyst warns",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-14T19:13:29Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg",
+      "excerpt": "An industry analyst warns that AI 'vibe coding' will let opportunists rapidly clone successful games and flood storefronts, burying originals under low-effort copies. A discoverability-and-design-economics angle on how fast generative tooling is changing what shipping a game on Steam looks like.",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "A macro analyst view on AI-cloning as a discoverability threat — distinct from the specific Meccha clone incident already published — that changes how devs think about differentiation and launch strategy on storefronts."
     }
   ],
   "dedup_notes": {
-    "note": "User deferred. Pool after hard exclusion: 5 usable candidates. Verified against sections.games today (2026-07-07) and days 2026-07-01..07-06 in news_data.json — no URL or content overlap among the 4 picks. YouTube capped at 2 of 3 per final-5 diversity guard, yielding 4 picks from 4 distinct outlets (floor 3 met, never padded).",
+    "note": "User deferred (agent pick). Floor 3 MET, below target of 5 because the pool of 5 yielded only 3 fresh, uncovered, content-deduped stories — not padded. Content-dedup vs sections.games published history dropped 2. Diversity guard: GamesRadar+ x2 (at the cap), Kotaku x1; single-section 'games' category so accents varied across palette (#7928ca, #f5a623, #0070f3).",
     "dropped": [
       {
-        "url": "https://80.lv/articles/from-prompt-to-reality-how-to-turn-your-idea-into-a-physical-3d-printed-collectible-using-hi3d",
-        "reason": "Hard exclusion — same story published 2026-07-07 in the design section."
+        "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
+        "title": "Godot to ban (almost all) AI coding contributions",
+        "reason": "Content duplicate — the Godot AI-code ban's substance AND its signature quote ('AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it') were already published in the 'slopfix' card (2026-07-09) and its stance reinforced in 'recomp-battleground' (2026-07-14). Also the oldest pool item (2026-07-01), barely fresh."
       },
       {
-        "url": "https://www.youtube.com/watch?v=mGuaRAWdXPA",
-        "reason": "Diversity guard — third youtube.com item (cap 2). Lowest freshness of the three (Jun 24 video of the Jun 17-18 State of Unreal announcement) and keeping it would double the Unreal Engine outlet while dropping Unity."
+        "url": "https://aftermath.site/yoshitaka-amano-is-more-centrist-on-ai-than-youd-hope/",
+        "title": "Yoshitaka Amano Is More Centrist on AI Than You'd Hope",
+        "reason": "Content duplicate of 'amano-zan' (Polygon, 2026-07-08) — same artist, same measured 'AI as tool, not creator' stance, same Anime Expo interview window, covered via a different outlet."
       }
     ]
   }

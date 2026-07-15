@@ -1,84 +1,62 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-15",
   "section": "books",
-  "now_iso": "2026-07-07T23:46:48Z",
+  "now_iso": "2026-07-15T01:35:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100773-international-publishers-convene-in-malaysia-for-ipa-congress-2026.html",
+      "url": "https://www.etnews.com/20260706000183",
+      "source": "Electronic Times (전자신문)",
+      "category": "books",
+      "published_iso": "2026-07-06T08:00:00Z",
+      "og_image": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.64bf7d155b834bf4a1b35034fe6d1658_P1.png",
+      "excerpt": "China's free web-novel platforms are aggressively purging AI-generated fiction — Fanqie Novel rejected 100,000+ low-quality titles in June alone — but AI detectors are so imperfect that human authors now anxiously self-edit to avoid 'writing like an AI.' The piece frames the paradox of AI screening reshaping the web-novel writing craft.",
+      "note": "On-list (etnews.com). Byline date Jul 6 2026 17:00 KST -> 2026-07-06T08:00:00Z UTC; freshness.py -> FRESH. NOTE (coordinator): already published as books history 'cn-webnovel-ai' — DEDUP/DROP. Retained here only for the record."
+    },
+    {
+      "url": "https://www.etnews.com/20260701000374",
+      "source": "Electronic Times (전자신문)",
+      "category": "books",
+      "published_iso": "2026-07-01T04:46:00Z",
+      "og_image": "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.1b4fcc88c9e044b6ae8011e9c39409e2_P1.jpg",
+      "excerpt": "Naver Webtoon launched 'byUs,' an interactive AI story-chat that lets readers become the protagonist and converse with characters from creator-authorized webtoon IP, offering both canon-based and fan-created story branches. First featured title: 'Job Transfer Log.'",
+      "note": "On-list (etnews.com). Byline date Jul 1 2026 13:46 KST -> 2026-07-01T04:46:00Z UTC; freshness.py -> FRESH. NOTE (coordinator): already published as books history 'byus-storychat' — DEDUP/DROP. Retained here only for the record."
+    },
+    {
+      "url": "https://www.etnews.com/20260707000235",
+      "source": "Electronic Times (전자신문)",
+      "category": "books",
+      "published_iso": "2026-07-07T07:00:00Z",
+      "og_image": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.ddb290e0f1a642af8284446eb68da1a3_P1.png",
+      "excerpt": "Feature on 'digital reading' futures: Mirae-en's AI learning platform 'Choco' with services like 'Daldal Reading Comprehension' and 'Choco-toon' aims to rebuild reading and critical-thinking habits for digital-native children through AI-guided, reward-based literacy content.",
+      "note": "On-list (etnews.com). Byline date Jul 7 2026 16:00 KST -> 2026-07-07T07:00:00Z UTC (print Jul 8); freshness.py -> FRESH. NOTE (coordinator): already published as books history 'choco-daldal' — DEDUP/DROP. Retained here only for the record."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100804-2026-ipa-congress-spotlights-children-s-books-and-literacy.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "",
-      "excerpt": "AI dominated keynotes, panels, and even opening remarks at the 35th International Publishers Association Congress in Kuala Lumpur (July 5-9, ~500 participants from 40 countries). Keynote speaker Thad McIlroy said publishing has moved past the 'golly-gee-whiz phase of AI' to the 'what the heck am I going to do about it?' phase, while IPA president Gvantsa Jobava called publishers' collective work 'the best source of training data for AI.'"
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": null,
+      "excerpt": "At the 35th IPA Congress in Kuala Lumpur, three sessions on children's publishing argued that format and quality of content — not AI itself — shape how digital-native kids read, and pressed publishers on closing a widening global literacy gap.",
+      "note": "On-list (publishersweekly.com). Publish date Jul 9 2026 (date-only on page) -> 2026-07-09T00:00:00Z; freshness.py -> FRESH. KEPT by coordinator through dedup. Children's-books/literacy angle distinct from the general IPA-AI recaps."
     },
     {
-      "url": "https://publishingperspectives.com/2026/07/35th-international-publishers-association-congress-highlights-collaboration-courage-and-ai/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Day-one coverage of the 35th IPA Congress in Kuala Lumpur, where the opening panel 'Ethics of Publishing: Accountability in the Age of AI and Misinformation' framed publishers as actively battling AI's ability to propagate misinformation at exponential rates and erode trust, alongside copyright and freedom-to-publish agendas."
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Two dueling surveys on AI audiobook narration: a Spoken-commissioned study found 61% of listeners mistook AI voices for human and favored them in multi-character scenes, while an Audio Publishers Association study shows willingness to try AI narration fell from 70% (2025) to 61% (2026) — human narration still preferred.",
+      "note": "On-list (publishersweekly.com). Publish date Jul 14 2026 -> 2026-07-14T00:00:00Z; freshness.py -> FRESH. KEPT by coordinator through dedup. Freshest EN item; audiobook-narration workflow hook with a concrete new data point (multi-cast AI voices)."
     },
     {
-      "url": "https://www.thebookseller.com/news/jamir-nazir-wins-commonwealth-short-story-prize-after-ai-review-clears-regional-winner",
-      "source": "The Bookseller",
+      "url": "https://goodereader.com/blog/kindle/the-amazon-kindle-has-new-ai-powered-translations",
+      "source": "Good e-Reader",
       "category": "books",
-      "published_iso": "2026-06-30T00:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/664/Jamir-Nazir.jpg",
-      "excerpt": "Jamir Nazir won the 2026 Commonwealth Short Story Prize for 'The Serpent in the Grove' after an unprecedented review cleared him of AI-use allegations that had surrounded his regional-winner entry — a landmark case of a literary prize formally adjudicating AI suspicion against a writer."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/ai-copyright-litigation-yet-to-resolve-key-questions-for-publishers-pls-conference-hears",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-      "excerpt": "Publishers are still waiting for 'clear' legal answers on AI training, outputs, and licensing, the Publishers' Licensing Services Conference heard — years of copyright litigation have yet to resolve the key questions publishers need answered before committing to AI licensing strategies."
-    },
-    {
-      "url": "https://janefriedman.com/links-of-interest-july-1-2026/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-07-01T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Friedman highlights new research analyzing 500,000 anonymized ChatGPT conversations that identifies 'infinite story demanders' — a small cohort of power users generating large volumes of repetitive AI fanfiction and erotica for personal consumption — evidence that LLMs enable interactive, playful, permutating story consumption outside traditional publishing."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-06-25T00:00:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/06/26-0508-Cambridge-Newton-Tree-scaled-e1781969265606-1024x915.jpeg",
-      "excerpt": "Cambridge University Press, COUNTER, and NISO convened nearly three dozen experts — libraries, AI tool developers, funders, publishers, platforms — to build frameworks that make AI use of scholarly content traceable and measurable: usage metrics, provenance, and attribution standards for generative AI systems."
-    },
-    {
-      "url": "https://lithub.com/can-chatgpt-produce-a-version-of-proust-worth-reading/",
-      "source": "Literary Hub",
-      "category": "books",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/06/proust-chatgpt.png",
-      "excerpt": "Bryan Charles traces AI's slow, steady invasion of literary translation through the test case of translating Proust with ChatGPT, talking with translators Andrew Rothwell and Sam Taylor about how AI tools have reduced the 'cognitive load' of literary translation — and what is lost when they do."
+      "published_iso": "2026-07-01T16:40:00Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/01164056/assetsaboutamazon.jpg",
+      "excerpt": "Amazon has expanded Kindle Translate, its free AI-powered translation service for KDP indie authors, from two language pairs to six languages — English, Spanish, German, French, Italian and Portuguese. Authors can create, manage, price and publish fully formatted machine-translated editions of their books in a few clicks, with automatic accuracy checks before publication.",
+      "note": "On-list (goodereader.com). Publish date Jul 1 2026 (CDN timestamp 16:40) -> 2026-07-01T16:40:00Z; freshness.py -> FRESH (just inside the 336h window). ADDED per coordinator request for a distinct non-dup candidate. Strong design/workflow hook: a concrete AI literary-translation tool that changes how self-pub authors localize and reach global readers. Distinct outlet (goodereader — not the excluded kindle-recaps/kobo-h2-roadmap items) and distinct topic (AI translation tooling, not the scholarly/Rakuten/IPA angles). NOT in the excluded-URL list. Original Kindle Translate launch was Nov 2025; THIS is the July 1 six-language expansion news."
     }
-  ],
-  "collection_notes": {
-    "outlets": ["publishersweekly.com", "publishingperspectives.com", "thebookseller.com (x2)", "janefriedman.com", "scholarlykitchen.sspnet.org", "lithub.com"],
-    "dropped_stale": [
-      "thebookseller.com Fox & Fable AI answer-engines interview (2026-06-19)",
-      "publishingperspectives.com BISG/BookNet AI survey (2026-06-22, misses 336h cutoff by ~2 days)",
-      "publishersweekly.com USBS CEOs 'AI witch hunt' (2026-06-04)",
-      "lithub.com Granta AI story (2026-05-19), Kreizman AI detection (2026-04-16), Anthropic Project Panama (2026-02-06)",
-      "goodereader.com Kindle Scribe AI features (2026-06-05), Kobo Writing Life AI ToS (2025-06)",
-      "insights.bookbub.com authors AI survey (2025-05-15)",
-      "writersdigest.com AI made me a better writer (2025-04-13)",
-      "thebookseller.com chain-of-trust (2026-06-02), craft-and-creativity (2024-10-03), new-moral-right (2025-02-12)"
-    ],
-    "dropped_dup_or_published": [
-      "publishingperspectives.com Around the Book World July 6 (zoom-books card published 7/7)",
-      "bookriot.com Today in Books July 5 (only AI item duplicates Bookseller Commonwealth Prize story)",
-      "goodereader.com Kindle 5.19.5 / Story So Far (published 7/6 card kindle-story-so-far)"
-    ],
-    "social": "YouTube swept (Creative Penn, Nerdy Novelist, Self Publishing with Dale, David Gaughran): no verifiable fresh AI-topic uploads found in window; Creative Penn's July 6 episode is not AI-focused. Instagram not applicable to books allowed_domains.",
-    "exhaustion_note": "Wide funnel target not reachable: 5 books-section AI stories were published on 2026-07-07 (Libby, Caine/ElevenLabs, PLS collective licensing, Sudowrite, Zoom Books) plus earlier July cards, consuming much of the fresh pool. Swept 14 of 24 allowed domains plus expansions (KDP policy, Audible, NovelAI/Novelcrafter/Atticus, Anthropic settlement, BookBub survey, Tokarczuk) — remaining hits were stale or off-list SEO content."
-  }
+  ]
 }
