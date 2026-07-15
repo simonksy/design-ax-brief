@@ -2,48 +2,39 @@
   "date": "2026-07-15",
   "section": "music",
   "window_hours": 336,
-  "now_iso": "2026-07-15T01:35:00Z",
+  "now_iso": "2026-07-15T02:24:24Z",
   "items": [
     {
-      "url": "https://www.musicradar.com/music-tech/its-a-major-step-forward-in-stem-separation-technology-zplanes-peel-stems-2-nearly-halves-the-latency-of-its-real-time-stem-separation-plugin",
-      "title": "\"It's a major step forward in stem separation technology\": Zplane's Peel Stems 2 nearly halves the latency of its real-time stem separation plugin",
+      "url": "https://www.synthtopia.com/content/2026/07/07/spectralayers-13-takes-unmixing-to-a-new-level/",
+      "title": "SpectraLayers 13 Takes 'Unmixing' To A New Level",
+      "source": "Synthtopia",
+      "category": "music",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Steinberg's SpectraLayers 13 pushes AI-assisted unmixing further with tools like Unmix Chorus (separating lead from backing vocals), Voice Enhance and generative reconstruction, broadening the AI stem/spectral toolkit for producers and post-production."
+    },
+    {
+      "url": "https://www.musicradar.com/music-tech/you-can-now-control-fl-studio-with-an-ai-chatbot-from-inside-the-daw",
+      "title": "You can now control FL Studio with an agentic AI chatbot from inside the DAW",
       "source": "MusicRadar",
       "category": "music",
+      "published_iso": "2026-07-10T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7JZA5WS4Bj9XbhdqgxNdHj.png",
+      "excerpt": "FL Studio 2026 introduces Gopher, an agentic AI chatbot that controls the DAW directly — organising tracks, routing mixer channels, setting levels, tweaking plugin parameters and generating Piano Roll content from natural-language prompts."
+    },
+    {
+      "url": "https://www.gearnews.com/ai-labeling-music-industry-tech/",
+      "title": "AI Labeling: Two New Labels Are Meant to Tell You Whether AI Sang on Your Favorite Track",
+      "source": "GearNews",
+      "category": "wildcard",
       "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/adQPnMzB4fBAGqGHUSxYQi.png",
-      "excerpt": "zplane's Peel Stems 2 cuts real-time stem-separation latency from 483ms to 245ms at 44.1kHz, letting producers split a mix into drums, bass, vocals and 'other' and rebalance elements live inside their DAW. A concrete AI-audio craft upgrade for remixing, sampling and live workflows."
-    },
-    {
-      "url": "https://www.soundonsound.com/news/techivation-release-m-compressor-2",
-      "title": "Techivation release M-Compressor 2",
-      "source": "Sound on Sound",
-      "category": "music",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/techivation_m-compressor_2-TvIvyE7Qeq8UiOcsBlz0Y54SG.6wIA8N.jpg",
-      "excerpt": "Techivation's M-Compressor 2 adds an intelligent Mix Assistant that analyses incoming audio and generates 12 tailored compression settings, collapsing the plugin's controls into a single blendable macro. An AI-assist angle on the everyday mixing chore of dialling in compression."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
-      "title": "Suno explores developer API, seeking apps 'that unlock experiences generative music makes possible for the first time'",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-07-02T00:00:00Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg",
-      "excerpt": "Suno CPO Jack Brody says the AI-music company is exploring a developer API, starting with a curated set of partners, to let apps build new interactive experiences on top of generative music. A platform-capability shift that could reshape how creative tools embed AI song generation."
-    },
-    {
-      "url": "https://www.soundonsound.com/news/steinberg-spectralayers-13-now-available",
-      "title": "Steinberg SpectraLayers 13 now available",
-      "source": "Sound on Sound",
-      "category": "music",
-      "published_iso": "2026-07-02T00:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/s/steinberg_spectralayers_13-IloBBd_uon6hZQ57TGRCphCsXskMPUgA.jpg",
-      "excerpt": "SpectraLayers 13 extends its AI neural-network spectral editing with Unmix Sound Effects, Unmix Two Voices, Voice DeCrosstalk and a new Reconstruct resynthesis module, targeting creative unmixing and audio repair. Broadens the AI stem/spectral toolkit for producers and post-production."
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/AI-Label-BVMI-T-770x425.jpg",
+      "excerpt": "Major industry bodies including IFPI, RIAA and BVMI introduce two new labels — 'AI-Generated' and 'AI-Assisted' — to flag whether AI was used on a recording, though the biggest streaming platforms have not yet adopted the system."
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 4,
-    "against_days": 5
+    "dropped": 3,
+    "kept": 3,
+    "against_days": 6
   }
 }

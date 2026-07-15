@@ -41,10 +41,20 @@
     }
   ],
   "dedup_notes": {
-    "dropped_as_duplicates": [],
+    "pool_size": 5,
+    "dropped_as_duplicates": [
+      {
+        "url": "https://www.provideocoalition.com/beebles-switchhdr-ai-model-for-hdr-reconstruction-from-sdr-video/",
+        "reason": "Content duplicate of published card 'switchhdr' (sections.movies, day 2026-07-08, No Film School: nofilmschool.com/beeble-switchhdr-ai-model). Same Beeble SwitchHDR SDR->HDR release (16-bit EXR), different outlet. Earliest-wins."
+      },
+      {
+        "url": "https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/",
+        "reason": "Content duplicate of published card 'mj-discovery' (sections.movies, day 2026-07-08, Variety: variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/). Same Midjourney-vs-studios discovery motion event, different outlet. Earliest-wins."
+      }
+    ],
     "dropped_within_pool": [],
-    "history_checked": "candidates_filtered_movies.json (3 items) is already URL-deduped vs history. Applied content-dedup vs sections.movies today (2026-07-14: nvidia-neural, meyer-top5) and days 2026-07-08/09/10/11/13. Odysseus: The Fall is distinct from the 2026-07-09 keitel-ai card (that item is Michael Caine's AI voice for the ElevenLabs Odyssey AUDIOBOOK — a different event, not an AI-generated film). SSFF & ASIA pitch contest and Tilly Norwood have no URL or content overlap with any published movies card.",
-    "diversity": "outlets: hollywoodreporter.com x1, nofilmschool.com x1, engadget.com x1 — 3 distinct domains, within the <=2-per-domain guard. Single-category section (movies); distinct accents assigned (#0070f3, #f5a623, #7928ca).",
-    "shortfall": "3 picks — meets the floor of 3. The fresh pool held exactly 3 distinct, never-before-seen stories; none dropped as duplicates. No padding."
+    "history_checked": "Baseline: news_data.prev.json (same-date idempotent re-run; only 2026-07-14 and earlier count). Checked sections.movies today (2026-07-14: nvidia-neural, meyer-top5) and days 2026-07-08/09/10/11/13. Odysseus: The Fall is distinct from the 2026-07-09 keitel-ai card (that item is Michael Caine's AI voice for the ElevenLabs Odyssey AUDIOBOOK — a different event, not an AI-generated film). SSFF & ASIA pitch contest and Tilly Norwood have no URL or content overlap with any published movies card.",
+    "diversity": "Outlets: hollywoodreporter.com x1, nofilmschool.com x1, engadget.com x1 — 3 distinct domains, within the <=2-per-domain guard. Single-category section (movies); distinct accents assigned (#0070f3, #f5a623, #7928ca).",
+    "shortfall": "3 picks — meets the floor of 3. Of the 5-item pool, 2 were content duplicates of 2026-07-08 movies cards, leaving exactly 3 distinct never-before-seen stories. Pool exhausted — no backfill available. No padding."
   }
 }

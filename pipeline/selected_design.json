@@ -4,69 +4,56 @@
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a",
-      "title": "When design becomes the organisation, and AI becomes the designer",
-      "source": "UX Collective",
-      "published_iso": "2026-07-13T11:09:48Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg",
-      "excerpt": "Argues that as AI takes over the act of designing, the designer's real object of work shifts to the organisation itself — shaping the systems, taste, and guardrails that machines design within. A fresh Design-AX framing distinct from the terminal/orchestration/taste essays already published.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Fresh Design-AX framing — the designer's object of work moves from screens to the org itself; distinct from prior terminal/orchestration essays."
-    },
-    {
-      "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319",
-      "title": "What 32 design leaders do when told to move faster",
-      "source": "UX Collective",
-      "published_iso": "2026-07-14T11:00:40Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*gkRv4ROxY5MhgxY9URVs_w.jpeg",
-      "excerpt": "Design timelines are collapsing because AI turned weeks of research into days and afternoons of concepting into minutes — the piece surveys how 32 design leaders actually respond to the resulting speed pressure without wrecking craft.",
+      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+      "title": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
+      "source": "VentureBeat",
+      "published_iso": "2026-07-14T13:00:00Z",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=1200&q=60",
+      "excerpt": "Canva launched Canva Code 2.0, a major upgrade to its AI-powered coding tool that turns plain-language prompts into interactive websites, apps and experiences — now available to every user, including free accounts.",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Actionable playbook from 32 leaders on absorbing AI speed pressure without wrecking craft — changes how design teams organize tomorrow."
+      "rationale": "Major prompt-to-website release now free for every Canva user — instantly changes what designers can ship without code tomorrow."
     },
     {
-      "url": "https://dev.to/tranbathanhtung/agents-design-design-resources-built-for-cursor-claude-code-codex-v0-bolt-lovable-4f0o",
-      "title": "Agent's Design — design resources built for Cursor, Claude Code, Codex, v0, Bolt, Lovable",
+      "url": "https://dev.to/mauriciojuba/design-tokens-are-prompts-now-fif",
+      "title": "Design tokens are prompts now",
       "source": "DEV Community",
-      "published_iso": "2026-07-14T14:41:30Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyc71r1kuqsz6tjcx1t4r.png",
-      "excerpt": "A packaged set of design resources aimed at stopping AI coding agents from shipping the same generic UI — feeding Cursor, Claude Code, Codex, v0, Bolt and Lovable with reusable design-system context so generated interfaces carry real taste.",
+      "published_iso": "2026-07-14T17:29:27Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0rrc7gvfxwh373tz90i.png",
+      "excerpt": "The primary consumer of a design system has changed species: tokens are no longer written for human engineers but parsed by AI models, reframing design tokens as prompts for machine-driven UI generation.",
       "category": "tokens",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Concrete design-system resource that injects taste into AI coding agents (Cursor, Claude Code, v0, Bolt) — directly usable in a designer's toolchain."
+      "rationale": "Reframes design tokens as machine prompts — an actionable shift in how designers should author systems for AI consumers."
     },
     {
-      "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
-      "title": "This new AI model thinks in images, not just words",
-      "source": "Fast Company",
-      "published_iso": "2026-07-13T10:00:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91571127-elorian-ai.jpg",
-      "excerpt": "After a decade of word-based LLMs, researchers are betting on models that reason directly in images rather than text — a shift toward visual-native AI that could reshape how designers and creatives collaborate with generative tools.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Novel visual-native reasoning shift with credible Fast Company reporting — reframes how designers may collaborate with generative tools."
-    },
-    {
-      "url": "https://www.creativebloq.com/tech/the-only-difference-between-the-coworker-sitting-next-to-you-and-intern-is-that-intern-works-unlimited-hours-new-ai-super-assistant-sits-on-your-desk-has-a-mind-and-voice-and-handles-everything-from-email-to-coding",
-      "title": "New AI super-assistant sits on your desk and 'works unlimited hours', handling everything from email to coding",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-14T10:51:42Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/tp4DyZiXWrd6UMUjXTaSgY-2042-80.jpg",
-      "excerpt": "Autonomous' Intern 2 is a desktop AI agent with a voice and 'a mind' pitched at creatives — promising to take on the work of a small creative team across email, research and coding, testing how much of a studio's grunt work an always-on agent can absorb.",
+      "url": "https://dev.to/mauriciojuba/the-store-that-rearranges-itself-generative-ui-part-2-2mn9",
+      "title": "The store that rearranges itself — Generative UI, Part 2",
+      "source": "DEV Community",
+      "published_iso": "2026-07-14T17:21:30Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs7guf3zv61k8bd71n6je.png",
+      "excerpt": "An experiment takes generative UI from blueprint to a working e-commerce funnel — five personas, a live model in the loop, 200 simulated shoppers — and argues page-level generative UI is closer to production than it looks.",
       "category": "figma",
       "tool": "Figma",
-      "accent": "#eb367f",
+      "accent": "#3b6bff",
       "motif": "frame",
-      "rationale": "A concrete always-on desktop agent pitched at creatives — tests how much studio grunt work an autonomous assistant can absorb."
+      "rationale": "A concrete, tested generative-UI funnel showing page-level personalization is near production — a fresh look at where UI design is heading."
+    },
+    {
+      "url": "https://develop3d.com/3d-printing/qa-ali-tamijani-ceo-of-novineer/",
+      "title": "Q&A: Ali Tamijani, CEO of Novineer",
+      "source": "DEVELOP3D",
+      "published_iso": "2026-07-14T10:13:33Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/Novineer_NoviVision-Heropng.jpg",
+      "excerpt": "DEVELOP3D talks with Novineer CEO Ali Tamijani about the startup's AI-driven reverse engineering and generative design tools for additive manufacturing and product design.",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "AI-driven reverse engineering and generative design for additive manufacturing — a credible signal for product/CAD designers' workflows."
     }
   ]
 }

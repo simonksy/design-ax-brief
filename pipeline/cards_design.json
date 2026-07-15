@@ -1,120 +1,218 @@
 {
   "date": "2026-07-15",
+  "section": "design",
   "cards": [
     {
-      "id": "design-org",
-      "tool": "AI Workflow",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 디자인의 전부가 되면\n디자이너가 다듬을 대상은 조직이다",
-      "body": "AI가 디자인을 도맡는 시대에는 디자이너가 손대는 대상이 화면에서 조직 자체로 옮겨간다.",
-      "mini_headline": "이제 조직을 디자인한다",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "p", "x": "전략 회의 자리를 떠올려 보자. 누군가 디자인 사고를 조직 전체에 심어야 한다고 힘줘 말하던 그 순간을." },
-          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg" },
-          { "t": "p", "x": "저자 Zeeshan Khalid가 던지는 질문은 이렇다. 통합 디자인이 조직 구석구석에 디자인이 배어드는 것이라면, AI가 디자인 구석구석에 배어들 때는 어떤 모습일까." },
-          { "t": "p", "x": "그는 AI를 그저 도구로 쓰는 것과, 디자인 과정 자체에 AI가 스며드는 것을 뚜렷이 구분한다." },
-          { "t": "p", "x": "마지막 물음은 정체성과 주도권으로 향한다. 모든 것을 디자인하는 그 존재마저 기계의 손에 다시 디자인되는 지금, 디자이너란 무엇이고 조직이란 무엇인가." },
-          { "t": "p", "x": "이 글은 Medium 회원 전용이라 공개된 도입부만 옮겼다." }
-        ]
-      }
-    },
-    {
-      "id": "leaders-fast",
+      "id": "canva-code2",
       "tool": "Figma",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 디자인을 빠르게 만들자\n리더 32명이 내놓은 답",
-      "body": "나흘 걸리던 작업이 몇 시간으로 줄자, 리더 32명이 완성도를 지키며 속도 압박을 견디는 법을 내놨다.",
-      "mini_headline": "속도 압박, 리더 32명의 답",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319",
+      "headline": "프롬프트가 웹사이트가 된다\nCanva Code 2.0, 무료까지 개방",
+      "body": "Canva가 평범한 문장을 인터랙티브 웹사이트와 앱으로 바꿔주는 Code 2.0을 무료 계정까지 모두에게 열었다.",
+      "mini_headline": "Canva Code 2.0 개방",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "사이버보안 업계의 한 디자인 총괄은 이렇게 말한다. 디자인 생산 시간을 나흘에서 여섯 시간 내지 여덟 시간으로 줄였고, 출시까지 걸리는 시간이 기하급수적으로 짧아졌다고. 다만 내부 프로세스를 다듬는 건 쉬운 축에 든다고 덧붙인다." },
-          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*gkRv4ROxY5MhgxY9URVs_w.jpeg" },
-          { "t": "p", "x": "AI 덕에 몇 주씩 걸리던 리서치가 며칠로, 오후 내내 붙잡던 콘셉트 스케치가 20분으로 줄었다." },
-          { "t": "p", "x": "문제는 경영진이 여기서 더 빨리를 주문한다는 데 있다. 생성은 빨라졌지만 생각하는 시간은 그대로다." },
-          { "t": "p", "x": "그래서 저자 Kai Wong은 속도 압박을 받을 때 디자인 리더 32명이 실제로 어떻게 움직이는지를 하나하나 짚는다." },
-          { "t": "p", "x": "전문은 Medium 회원 전용이라 공개분만 옮겼다." }
+          {
+            "t": "p",
+            "x": "Canva가 화요일 Canva Code 2.0을 내놨다. 평범한 말로 쓴 프롬프트로 인터랙티브 웹사이트와 앱, 각종 경험을 만들고, 그 결과를 Canva 프레젠테이션 고치듯 손보게 해주는 AI 코딩 도구의 큰 업그레이드다. 이번엔 월 2억 6,500만 명이 넘는 전체 이용자에게, 무료 계정까지 포함해 모든 요금제에서 열렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=1200&q=60",
+            "cap": "프롬프트가 완성된 웹사이트로 바뀌는 모습"
+          },
+          {
+            "t": "p",
+            "x": "'바이브 코딩' 시장을 향한 Canva의 가장 공격적인 행보다. 18개월 전만 해도 없다시피 하던 분야가 벌써 조 단위 스타트업을 여럿 냈다. Lovable, Replit, Bolt.new 같은 경쟁사가 프롬프트로 돌아가는 코드를 뽑는 데 집중했다면, Canva는 다르게 건다. 진짜 병목은 코드가 아니라 결과물을 보기 좋게 만드는 데 있다는 판단이다."
+          },
+          {
+            "t": "p",
+            "x": "Canva의 AI 제품 총괄 Danny Wu는 VentureBeat 인터뷰에서 겨냥하는 대상을 분명히 했다. \"우리는 의도적으로 비개발자를 겨냥하고 있다\"고 그는 말했다. Canva Code는 개발자용이 아니라, AI 코딩의 힘을 Canva 안으로 들여와 더 많은 상호작용과 맞춤 편집, 유연함을 원하는 이용자 요구에 답하려는 것이라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "이번 업데이트엔 코드 생성과 완성된 결과물 사이의 거리를 좁히는 기능이 여럿 담겼다. 화이트보드나 프레젠테이션, 단독 페이지 안에서 바로 Canva Code 프로젝트를 만들고, 인터랙티브 디자인용 템플릿 50종 이상이 새로 붙었다. 다른 AI 코딩 도구에서 만든 원본 HTML을 불러와 편집 가능한 Canva 디자인으로 바꾸는 기능도 들어갔다."
+          },
+          {
+            "t": "p",
+            "x": "성능도 눈에 띄게 나아졌다. Canva는 평균 코드 생성 시간을 75% 줄였고, 첫 프롬프트에서 사이트 게시까지 걸리는 중간값 시간을 30% 단축했다고 밝혔다. Canva Code를 편집기 전반에 통합해 코딩 결과물을 여느 디자인 요소처럼 다루게 하면서 활성 Code 이용자가 25% 늘었다고도 했다."
+          },
+          {
+            "t": "p",
+            "x": "가장 두드러지는 건 편집 경험이다. 생성된 요소를 직접 클릭해 글자를 바꾸고, Canva의 1억 2,000만 개가 넘는 템플릿·소재에서 이미지를 끌어다 놓고, 툴바로 색과 글꼴을 바꾸거나, 특정 요소를 골라 대화형 AI로 다듬는다. 결과물은 완전히 인터랙티브하고 화면 크기에 맞춰 자동 조정되며 모바일 미리보기도 있다."
+          },
+          {
+            "t": "p",
+            "x": "Luminix AI가 2026년 5월 낸 조사에 따르면 바이브 코딩·AI 앱 빌더 시장은 2026년 47억 달러 규모로, 2027년 123억 달러까지 연 38%가량 성장할 전망이다. 전 세계 코드의 약 41%가 이미 AI가 만든 것으로 추정된다. Lovable은 2026년 초 연간 반복 매출(ARR) 약 4억 달러에 이르렀고, Replit은 기업가치를 90억 달러로 세 배 키우며 연말 10억 달러 런레이트를 노린다. Bolt.new는 몇 달 만에 ARR을 400만 달러에서 4,000만 달러로 늘렸다."
+          },
+          {
+            "t": "p",
+            "x": "HTML 불러오기는 ChatGPT, Claude, Lovable, Bolt 등 어떤 도구로 만든 코드든 편집 가능한 Canva 디자인으로 가져온다. AI가 만든 코드가 마무리 손질을 받는 곳으로 Canva를 앉히려는 포석이다. Canva Code를 돌리는 모델은 OpenAI와 Anthropic을 포함해 자체 모델과 외부 모델을 섞지만 정확한 조합은 공개하지 않았다. 도입 1년 만에 이용자가 게시한 사이트는 600만 개를 넘겼다."
+          }
         ]
       }
     },
     {
-      "id": "agents-design",
+      "id": "tokens-prompts",
       "tool": "Design Tokens",
       "eyebrow": "AI NEWS",
-      "headline": "AI 코딩 도구의 뻔한 UI를\n디자인 시스템으로 바로잡다",
-      "body": "AI 코딩 도구가 늘 뽑아내는 뻔한 UI 대신, DESIGN.md와 프롬프트로 취향을 입히는 디자인 자료 모음이다.",
-      "mini_headline": "코딩 AI에 취향 입히기",
+      "headline": "디자인 토큰은 이제\nAI가 읽는 프롬프트다",
+      "body": "디자인 시스템을 읽는 쪽이 사람 엔지니어에서 AI 모델로 바뀌면서, 토큰은 UI를 만드는 프롬프트로 다시 정의된다.",
+      "mini_headline": "토큰이 곧 프롬프트",
       "source": "DEV Community",
-      "url": "https://dev.to/tranbathanhtung/agents-design-design-resources-built-for-cursor-claude-code-codex-v0-bolt-lovable-4f0o",
+      "url": "https://dev.to/mauriciojuba/design-tokens-are-prompts-now-fif",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "Cursor, Claude Code, Codex, v0, Bolt, Lovable를 써 봤다면 익숙한 장면이 있다." },
-          { "t": "p", "x": "어디에나 Inter 폰트, 보라에서 인디고로 흐르는 그러데이션, 히어로 아래 기능 카드 세 장과 가격표. 채팅 안에서는 멀쩡해 보이다가 실제 서비스에 올리면 어김없이 템플릿 티가 난다." },
-          { "t": "p", "x": "탓할 것은 모델이 아니라, 모델에게 건네는 디자인 맥락이다." },
-          { "t": "img", "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyc71r1kuqsz6tjcx1t4r.png" },
-          { "t": "p", "x": "agents.design은 AI 코딩 에이전트를 위해 추려 모은 디자인 자료 갤러리다. 에이전트가 그대로 따라갈 DESIGN.md 명세와, 코딩 에이전트에 맞춰 다듬은 복붙용 프롬프트를 담았다." },
-          { "t": "p", "x": "쓰는 순서는 이렇다. 제품 분위기에 맞는 디자인을 고르고, 프롬프트를 복사하거나 템플릿과 DESIGN.md를 내려받아 Cursor나 Claude Code, Codex, v0, Bolt, Lovable에 붙여 넣는다." },
-          { "t": "p", "x": "AI 코딩 도구는 구현은 기막히게 잘하지만, 제대로 된 디자인 시스템과 구조, 제약을 손에 쥐여 주지 않으면 취향에서는 평범하다. 템플릿은 꾸준히 늘어나고, 무료 디자인부터 둘러보거나 전체 카탈로그를 통째로 열어 볼 수도 있다." }
+          {
+            "t": "p",
+            "x": "10년 동안 저자는 사람 엔지니어를 위해 디자인 토큰을 썼다. 2026년, 디자인 시스템을 소비하는 주체의 종이 바뀌었다. 토큰은 늘 계약이었다. 우리가 뜻하는 파란색은 이것, 간격 리듬은 이것이라고 데이터로 적어, 디자이너 없이도 코드가 그 값을 쓰게 한 약속이다."
+          },
+          {
+            "t": "p",
+            "x": "저자는 Dell에서 그 생각으로 토큰 구조를 다시 세웠다. 토대는 탄탄했지만 시스템은 블랙박스처럼 멈춰 있었다. 진짜 걸림돌은 경영진이 짐작한 거버넌스가 아니라, 토큰을 디자이너가 디자이너를 위해 이름 붙였고 내보내기 파이프라인이 없다는 점이었다. 정작 토큰을 쓰는 프런트엔드 엔지니어가 이름 짓기에서 빠졌다. 단순화한 코어에 시맨틱 위계를 얹고 라이트·다크를 갖춰 JSON과 CSS로 dell.com 전 화면에 배포했다. 교훈은 하나다. 이름 짓기는 제품 결정이고, 글쓴이가 아니라 실제 소비자에 맞춰야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0rrc7gvfxwh373tz90i.png",
+            "cap": "토큰이 곧 기계를 위한 프롬프트가 된 흐름"
+          },
+          {
+            "t": "p",
+            "x": "그 소비자가 또 바뀌었다. 2026년엔 새 UI 코드의 상당수를 기계가 만든다. 설문에 답한 디자이너의 절반이 AI가 생성한 코드를 프로덕션에 올려봤다고 답했다. Claude Design은 팀의 디자인 시스템을 코드베이스에서 바로 읽어 적용하고, Figma는 네이티브 AI 디자인 에이전트를 내놨다. 제품팀마다 코딩 에이전트가 디자인 리뷰가 못 따라잡을 속도로 컴포넌트를 뱉는다."
+          },
+          {
+            "t": "p",
+            "x": "생성된 UI엔 특유의 실패 방식이 있다. 기억 없는 속도다. 세션마다 모델마다 프롬프트마다 제 나름의 여백과 회색, 모서리 둥글기를 지어낸다. 하나씩 보면 그럴듯한데 모으면 어긋난다. 예전엔 조직이 몇 분기에 걸쳐 겪던 드리프트를 에이전트 무리는 반나절이면 만든다."
+          },
+          {
+            "t": "p",
+            "x": "여기서 로드맵이 바뀐다. 에이전트가 UI를 생성할 때 읽는 건 Figma 라이브러리가 아니라 저장소다. 토큰 파일, 컴포넌트 시그니처, 파싱되는 형식이면 문서까지. Figma도 Dev Mode MCP 서버를 두고 결과물 품질이 시스템의 연결도를 따라간다고 했고, 기록된 실패 방식은 기계가 못 읽을 때 하드코딩된 값이 끼어드는 것이다. 이제 기계를 마주하는 면이 주된 인터페이스다. 토큰 파일은 내보내기 산출물이길 그만두고 프롬프트가 됐다."
+          },
+          {
+            "t": "p",
+            "x": "토큰이 프롬프트라면 새 문제가 생긴다. 프롬프트는 제안이라, 모델도 바쁜 사람처럼 따르다 만다. 관습에 기댄 거버넌스는 늘 무너졌고, 무너지지 않는 유일한 집행 지점은 빌드다. 저자는 Rust로 만든 저작 IDE를 위해 shadcn/ui 디자인 언어를 egui용으로 다시 만들며 컴포넌트 60개 이상을 토큰 우선으로 지었다. 토큰 계층 위 어디든 색·글꼴 크기·간격 리터럴이 박히면 빌드가 깨지도록 테스트로 못 박았다. 몇 주 동안 매일 코딩 에이전트와 짝을 이뤘는데도 시스템은 드리프트하지 않았다. 모델이 절제해서가 아니라 빌드가 그렇게 만들어서다."
+          },
+          {
+            "t": "p",
+            "x": "목업은 애초에 제품이 아니었고, 이제는 컴포넌트 라이브러리조차 제품이 아니다. 제품은 생성된 화면 천 개를 여전히 당신 것으로 알아보게 하는 제약 시스템이다. 그 일은 취향과 위계, 의도지만 토큰·테스트·타입·문서로 실린다. 그 계층을 쓸 줄 아는 디자이너가 조직에서 가장 레버리지가 큰 사람이 되고 있다. 브랜드 가이드라인 PDF는 두 번 죽었다. 처음엔 사람이 산문이 아니라 데이터를 원해 토큰이 대체했고, 이제 기계를 마주하는 면이 주가 되며 그 산문이 다시 죽는다. 디자인 토큰은 이제 프롬프트다. 빌드가 리뷰어다."
+          }
         ]
       }
     },
     {
-      "id": "visual-native",
-      "tool": "AI Workflow",
+      "id": "generative-ui2",
+      "tool": "Figma",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 이제 말이 아니라\n이미지로 생각한다",
-      "body": "앤드루 다이의 Elorian은 이미지를 글로 옮기지 않고 곧장 3D로 그려 사고하는 모델을 만든다.",
-      "mini_headline": "이미지로 사고하는 AI",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91571127/this-new-ai-model-think-in-images-not-just-words",
+      "headline": "스스로 재배치되는 상점\n생성형 UI, 두 번째 실험",
+      "body": "가상 쇼퍼 200명을 돌린 실험은 페이지 단위 생성형 UI가 보기보다 상용화에 가깝다는 걸 보여준다.",
+      "mini_headline": "생성형 UI 상용화",
+      "source": "DEV Community",
+      "url": "https://dev.to/mauriciojuba/the-store-that-rearranges-itself-generative-ui-part-2-2mn9",
       "accent": "#3b6bff",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "말 기반 대규모 언어 모델이 10년을 이끌어 온 끝에, 연구자들은 글이 아니라 이미지로 직접 추론하는 모델에 승부를 건다." },
-          { "t": "img", "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91571127-elorian-ai.jpg" },
-          { "t": "p", "x": "구글 딥마인드를 떠난 베테랑 AI 연구자 Andrew Dai는 스타트업 Elorian AI를 세웠고, 이 회사는 4월에 스텔스에서 벗어났다." },
-          { "t": "p", "x": "Elorian이 만드는 시각 추론 모델은 이미지를 놓고 곧장 생각한다. 사람이 머릿속으로 무언가를 그려 보듯, 이미지의 촘촘한 3D 내부 지도를 세운다." },
-          { "t": "p", "x": "지금의 멀티모달 방식과는 다르다. 구글의 Gemini 같은 모델은 이미지를 처리할 때 먼저 말로 촘촘히 묘사한 다음, 그 말을 두고 추론해 이미지에 관한 판단을 내린다." },
-          { "t": "p", "x": "Dai는 시각 이미지가 모델 지능에 언어만큼, 어쩌면 그 이상으로 근본이 된다고 본다. 그는 프런티어 언어 모델이 물리 세계를 제대로 추론하지 못해 벽에 부딪혔다고 말한다." },
-          { "t": "p", "x": "애플 출신 머신러닝 연구자 Yinfei Yang과 함께 세운 Elorian은, 모델 구조 안에서 시각 데이터에 언어 토큰과 똑같은 자리를 내준다." }
+          {
+            "t": "p",
+            "x": "1편의 주장은 단순했다. 웹페이지가 유능한 판매원처럼 굴 수 있다는 것이다. 동의 아래 관찰하고, 행동으로 분류하고, 방문자마다 마찰을 없앤다. 다만 런타임 동작을 두고 하는 말은 시험 전엔 이론일 뿐이다. 그래서 저자는 ui-morph로 IBM Carbon 위에 이커머스 상점을 통째로 만들어, 진입 페이지부터 주문 확인까지 실제 모델이 화면 변형을 제안하고 결정론적 가상 쇼퍼 200명을 재생하는 실험실을 돌렸다. 개념은 성립했고 경제성도 맞았다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs7guf3zv61k8bd71n6je.png",
+            "cap": "다섯 쇼퍼, 한 상점, 같은 다섯 조작 — 페르소나만 달랐다"
+          },
+          {
+            "t": "p",
+            "x": "NOVA라 부르는 시연 상점은 노트북과 장비를 판다. 버전은 하나, 페이지당 HTML 하나, 경로당 매니페스트 하나, 허용된 조작은 다섯 가지다. 보이는 차이는 전부 방문자의 양자화된 페르소나를 보고 엔진이 내린 결정에서 나왔다. 기술에 밝은 방문자는 데이터 우선의 다크 테마를, 게이머는 보라색 강조가 든 g100 토큰을 받는다. 둘 다 남들과 똑같은 URL로 들어왔다."
+          },
+          {
+            "t": "p",
+            "x": "가장 눈에 띄는 건 기술색이 옅은 페르소나다. \"Dona Marta\"는 \"laptop fino branco presente\"(선물용 얇고 흰 노트북) 광고를 보고 들어오고, 그 검색어가 곧 첫 신호가 된다. 상품 페이지에선 엔진이 갤러리를 사양표 앞으로 옮기고, 일상 사물과 크기를 비교해 보여주고, 흰색을 미리 골라두고, 사양은 접고, 결제는 게스트 모드로 보낸다. 조작마다 이유를 감사 로그에 평범한 말로 남긴다. 이 페이지들을 페르소나별로 만든 디자이너는 없다. 엔진이 페이지가 이미 선언해 둔 어휘에서 골라 짜맞췄을 뿐이다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5iqwq5kwh1ddw23tklvd.webp",
+            "cap": "Dona Marta의 상품 페이지: 갤러리 먼저, 크기 비교, 흰색 기본 선택"
+          },
+          {
+            "t": "p",
+            "x": "1편의 핵심 약속은 사전 적응이었다. 방문자가 현재 페이지에 머무는 동안 다음 페이지의 변경을 미리 컴파일해 경계에서 적용하면, 레이아웃이 커서 밑에서 움직이지 않는다. 실험실은 씨앗을 심은 스크립트 쇼퍼를 퍼널 전체에 결정론적으로 재생했다. 200개 세션에서 페이지 도착은 1,000회를 넘겼고, 그중 72%가 캐시에서 응답됐다. 정확한 히트와 유사도 대체가 반씩이다. 세션 초반엔 페이지마다 페르소나가 자라 정확한 키가 자꾸 빗나갔지만, 양자화된 키의 결정론적 유사도가 그 틈을 메워 이제 전체 도착의 3분의 1을 홀로 감당한다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftsewceyfre1smtuv3f0w.webp",
+            "cap": "이용자가 이전 페이지에 있는 동안 미리 맞춰진 액세서리 페이지"
+          },
+          {
+            "t": "p",
+            "x": "여정 대부분에서 콜드 패스는 사람이 쓴 결정론적 목업이었다. 이후 실제 모델이 넘겨받아 같은 선물 페르소나를 두고 다르지만 그럴 법한 선택을 했다. 히어로는 살리고 비교표는 감추고 선물 가이드를 앞세웠다. 중간값 교환엔 방문자가 한 번도 기다린 적 없는 배경 시간 5.5초가 들었다."
+          },
+          {
+            "t": "p",
+            "x": "20년 동안 인터페이스 디자인은 모두에게 하나의 배치를 고르는 일이었다. 가장 믿는 페르소나를 정하면 페이지가 얼어붙고 나머지는 절충안을 본다. 생성형 UI는 그 제약을 없애고 디자이너의 매체를 한 단계 올린다. 배치가 아니라 허용된 배치의 공간을 만든다. 무엇이 움직여도 되는지, 어떤 변형과 테마를 내줄지, 보호 구역과 읽을 특성·목표를 정한다. 엔진이 읽어낸 순간 Dona Marta는 이미 있던 컴포넌트로 자기 페이지를 받았다. 롱테일을 섬기는 경제성이 뒤집힌다."
+          },
+          {
+            "t": "p",
+            "x": "다음 단계는 순서가 정해져 있다. 페르소나를 돕지 못한 체인이 스스로 퇴출·재컴파일되는 결과 피드백 루프, React와 Vue 상점 어댑터, 매핑 안 된 검색어 12개를 살린 더 풍부한 특성 어휘, 컴파일된 적응을 공동 지식으로 바꾸는 공유 체인 스토어, 실제 트래픽이 도는 실사이트 파일럿이다."
+          }
         ]
       }
     },
     {
-      "id": "intern-desk",
-      "tool": "Figma",
+      "id": "novineer-cad",
+      "tool": "Text-to-CAD",
       "eyebrow": "AI NEWS",
-      "headline": "책상 위 AI 비서가\n메일부터 코딩까지 맡는다",
-      "body": "Autonomous의 데스크형 AI 인턴 2가 목소리를 갖추고, 밤낮없이 메일부터 코딩까지 도맡는다.",
-      "mini_headline": "책상 위 24시간 AI 비서",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/tech/the-only-difference-between-the-coworker-sitting-next-to-you-and-intern-is-that-intern-works-unlimited-hours-new-ai-super-assistant-sits-on-your-desk-has-a-mind-and-voice-and-handles-everything-from-email-to-coding",
-      "accent": "#eb367f",
-      "motif": "frame",
+      "headline": "AI가 역설계하고\n스스로 설계하는 제조",
+      "body": "Novineer의 Ali Tamijani가 적층 제조와 제품 설계를 겨냥한 AI 기반 역설계·제너레이티브 디자인 도구를 풀어놓는다.",
+      "mini_headline": "AI 역설계 CAD",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/3d-printing/qa-ali-tamijani-ceo-of-novineer/",
+      "accent": "#7928ca",
+      "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "Autonomous가 자사 AI 인턴의 새 버전을 내놨다. 책상 위에 올려 두고 바로 쓰는 플러그앤플레이 방식의 AI 슈퍼 비서다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/tp4DyZiXWrd6UMUjXTaSgY-2042-80.jpg" },
-          { "t": "p", "x": "이번 업그레이드로 인턴은 생각과 목소리를 얻었다. 회사의 표현을 빌리면, 옆자리 동료와 이 인턴의 유일한 차이는 인턴이 무제한으로 일한다는 점이다." },
-          { "t": "p", "x": "크리에이터를 겨냥한 이 기기는 소셜 미디어 게시물이나 일상적인 일정·행정 업무를 처리하고, 코딩처럼 손이 많이 가는 일까지 맡는다. 작은 크리에이티브 팀이 짊어지던 잡무를 얼마나 흡수하는지 시험하는 셈이다." },
-          { "t": "p", "x": "브라우저에 얹힌 AI 동료와 달리 이 하드웨어는 24시간 돌아간다. 메인 컴퓨터가 잠들어 있는 사이에도 일정을 챙기고 메일을 분류한다." },
-          { "t": "p", "x": "지시는 텍스트나 음성으로 하고, Slack이나 Discord, Telegram 같은 팀 채팅으로 일을 넘길 수도 있다. 처리는 클라우드가 아니라 기기 안에서 이뤄진다." }
+          {
+            "t": "p",
+            "x": "DEVELOP3D가 스타트업 Novineer의 CEO Ali Tamijani를 만났다. Novineer 플랫폼은 역설계부터 성능 시뮬레이션, 적층 제조용 제너레이티브 디자인까지 아우르는 AI 기반 도구 묶음이다. 먼저 NoviVision은 스마트폰 사진 몇 장으로 약 2분 만에 편집 가능한 CAD 모델을 만들어, 전용 장비와 3D 스캔, 수작업 복원을 대신한다."
+          },
+          {
+            "t": "img",
+            "src": "https://develop3d.com/wp-content/uploads/2026/07/Novineer_NoviVision-Heropng.jpg",
+            "cap": "Novineer의 NoviVision"
+          },
+          {
+            "t": "p",
+            "x": "이어 NoviPath는 적층 제조 부품의 강성·강도·파손을 인쇄 전에 예측하는 폴리머 성능 시뮬레이션 도구다. 인쇄 부품을 균일한 고체로 보는 기존 FEA와 달리, 실제 툴패스 데이터로 재료 압출의 층별 특성을 반영한다. Stratasys의 GrabCAD Print Pro와 전략적 제휴로 통합돼 있다. NoviDesign은 제너레이티브 디자인을 맡아, 편집·제조가 가능한 최적화된 CAD 모델을 뽑아 묶음을 완성한다."
+          },
+          {
+            "t": "p",
+            "x": "가장 큰 효과가 나는 곳은 적층 제조(AM) 위탁 제조사다. CNC나 사출로 만들던 부품을 이제 FDM으로 찍고 싶어 하는 고객이다. 예로 한 대형 항공사가 좌석 팔걸이 부품을 교체하려 하는데, 위탁사엔 3D 모델이 없어 엔지니어와 스캐너를 격납고로 보내 좌석을 뜯고 스캔해야 한다. 설계에 들어가도 파손 하중 기준 물성 데이터가 없어 범용 FEA에 기댄다. 이후 3D 프린팅 테스트와 다른 기관의 인증을 거친다. 전 과정에 약 3주, 비용은 1만 5,000달러에서 2만 달러가 든다."
+          },
+          {
+            "t": "p",
+            "x": "Novineer를 쓰면 항공사 직원이 사진 몇 장과 기본 참고 데이터만 넘기면 된다. NoviVision이 이미지를 AI로 처리해 3D 모델을 만들어, 격납고에 가지 않고도 견적을 낸다. 출장도 스캐너도 사라진다. Stratasys 소재처럼 잘 알려진 FDM 소재는 물성 데이터가 있어 따로 시험할 필요가 없고, NoviPath로 실제 인쇄에 쓸 툴패스 데이터 그대로 시뮬레이션한다. Tamijani는 말한다. \"우리 방식이 물리적 시험을 대체하나요? 아닙니다. 하지만 설계 과정의 모든 반복에 시험이 필요한 건 아닙니다. 끝까지 미뤄도 됩니다.\""
+          },
+          {
+            "t": "p",
+            "x": "AI가 어디에 쓰이냐는 물음에 그는 AI 자체가 목표는 아니라고 답한다. 문제는 CAD 모델이 없을 때 어떻게 하느냐다. 대형 언어 모델(LLM)은 정확도에 따라 사진 네댓 장에서 모델을 얻도록 돕는다. 정확한 시뮬레이션엔 작고 촘촘한 요소가 많이 필요해 시간이 걸리는데, 머신러닝이 촘촘한 메시를 성긴 메시로 바꿔 해석한 뒤 다시 되돌린다. AI는 특정 작업을 거들 뿐 엔지니어링 사고나 물리를 대체하진 않는다."
+          },
+          {
+            "t": "p",
+            "x": "AI 플랫폼은 직접 만든다. 항공우주·방위 분야에선 사설 서버에 둬야 해, 다른 플랫폼에 올리면 늘 클라우드에 묶이기 때문이다. 그래서 클라우드용과 사설 서버용을 함께 낸다. 성장은 전략 파트너 Stratasys를 통해 OEM과 위탁 제조사 수백 곳과 닿고, 또 다른 파트너 AM Craft는 EASA 인증으로 비행 부품 3만 5,000개 이상을 만들어 항공사·MRO·OEM에 공급하며 Novineer를 항공사·항공우주 OEM과 이어준다."
+          },
+          {
+            "t": "p",
+            "x": "지금 NoviVision의 정확도는 부품에 따라 95~97% 수준으로 평균 오차가 3%다. 1%일 때도 2%일 때도 있다. 그 정도로는 더 정밀한 모델이 필요한 절삭 가공엔 맞지 않아 당분간은 AM에 집중한다. 다만 부품을 일일이 그리는 대신 보유 부품을 한눈에 파악하는 디지털 지도를 만드는 데도 쓸 수 있다."
+          }
         ]
       }
     }

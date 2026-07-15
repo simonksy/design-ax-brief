@@ -2,7 +2,7 @@
   "date": "2026-07-15",
   "section": "movies",
   "window_hours": 336,
-  "now_iso": "2026-07-15T01:35:00Z",
+  "now_iso": "2026-07-15T02:24:24Z",
   "items": [
     {
       "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-feature-odysseus-the-fall-1236646751/",
@@ -30,11 +30,29 @@
       "published_iso": "2026-07-06T16:28:00Z",
       "og_image": "https://www.engadget.com/img/gallery/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/intro-1783355190.jpg",
       "excerpt": "The AI-generated 'actress' Tilly Norwood is reportedly set to headline a feature called 'Misaligned' from Particle6 Productions — a 'coming-of-age story infused with existential AI chaos' set in the 'Tillyverse.' The move escalates the synthetic-performer fight (SAG-AFTRA: 'not an actor'), a live test of AI likeness/casting in narrative film."
+    },
+    {
+      "url": "https://www.provideocoalition.com/beebles-switchhdr-ai-model-for-hdr-reconstruction-from-sdr-video/",
+      "title": "Beeble's SwitchHDR: AI model for HDR reconstruction from SDR video",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/switchhdr002-1024x576.jpg",
+      "excerpt": "Beeble announced SwitchHDR, an AI model that reconstructs HDR imagery from conventional SDR video, outputting scene-linear 16-bit EXR sequences for professional post-production. A concrete AI post/finishing tool aimed at colorists and VFX artists working with legacy or SDR footage."
+    },
+    {
+      "url": "https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/",
+      "title": "Midjourney wants the Hollywood studios that sued it to show the court how they use AI",
+      "source": "Engadget",
+      "category": "movies",
+      "published_iso": "2026-07-04T11:33:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/midjourney-wants-the-studios-that-sued-it-to-show-the-court-how-they-use-ai/intro-1783164583.jpg",
+      "excerpt": "In the Disney/Universal/Warner Bros. copyright suit, Midjourney is pushing the studios to disclose how they themselves use generative AI, arguing it bolsters a fair-use defense. A live test of how the studios-vs-AI-image-tools fight will shape what generative tools filmmakers can legally build on."
     }
   ],
   "dedup": {
     "dropped": 2,
-    "kept": 3,
-    "against_days": 5
+    "kept": 5,
+    "against_days": 6
   }
 }

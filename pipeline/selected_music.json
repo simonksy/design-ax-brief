@@ -29,18 +29,26 @@
     }
   ],
   "dedup_report": {
-    "dropped": [
+    "candidates_filtered_music_evaluated": [
       {
-        "url": "https://www.musicradar.com/music-tech/its-a-major-step-forward-in-stem-separation-technology-zplanes-peel-stems-2-nearly-halves-the-latency-of-its-real-time-stem-separation-plugin",
-        "reason": "Content duplicate of already-published `peel-stems2` card (music/2026-07-09, url bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/). Same zplane Peel Stems 2 release, same 483ms->245ms latency claim, different outlet (MusicRadar vs Bedroom Producers Blog)."
+        "url": "https://www.synthtopia.com/content/2026/07/07/spectralayers-13-takes-unmixing-to-a-new-level/",
+        "verdict": "DROP",
+        "reason": "Re-run of the Steinberg SpectraLayers 13 release already published as card `spectralayers13` on 2026-07-06 (now rolled off the visible 5-day deck; the prior 07-14 curator run also dropped a synthtopia.com version of this same story). Earliest-wins hard rule: a story published on an earlier date must never reappear later, even after it ages out of the 5-day window."
       },
       {
-        "url": "https://www.soundonsound.com/news/steinberg-spectralayers-13-now-available",
-        "reason": "Re-run of the Steinberg SpectraLayers 13 release already published as card `spectralayers13` on 2026-07-06 (now rolled off the 5-day deck, per the prior 07-14 curator run which also dropped a synthtopia.com version of this same story). Earliest-wins: this product/release was already covered, so it must not reappear on a later date. This distinct soundonsound.com URL escaped the collector's URL-level dedup but is a content duplicate."
+        "url": "https://www.musicradar.com/music-tech/you-can-now-control-fl-studio-with-an-ai-chatbot-from-inside-the-daw",
+        "verdict": "DROP",
+        "reason": "Content duplicate of published card `fl2026-gopher` (Attack Magazine, music/2026-07-10). Same FL Studio 2026 Gopher agentic-AI release; excerpt matches near word-for-word (organising tracks, routing mixer channels, setting levels, tweaking plugin parameters, generating Piano Roll content). Different outlet/URL, same event."
+      },
+      {
+        "url": "https://www.gearnews.com/ai-labeling-music-industry-tech/",
+        "verdict": "DROP",
+        "reason": "Content duplicate of published card `riaa-ai-labels` (Music Business Worldwide, music/2026-07-11). Same record-industry AI-Generated / AI-Assisted labeling initiative (RIAA/IFPI, plus BVMI). Different outlet/URL, same event."
       }
     ],
     "shortfall": true,
     "floor": 3,
-    "note": "Started from 4 URL-deduped candidates. Dropped 2 content/earliest-wins duplicates (Peel Stems 2 via MusicRadar; SpectraLayers 13 re-run), leaving 2 genuinely fresh, never-before-published stories. This is below the floor of 3, but the fresh window is genuinely exhausted — not padding with a known re-run. Both picks are music category; second pick given a distinct palette accent (#0070f3). Two distinct outlets (Music Business Worldwide, Sound on Sound), no URL collisions."
+    "note": "All 3 candidates in candidates_filtered_music.json are duplicates/re-runs of already-published music stories, so none could be added. The 2 picks retained here are the genuinely fresh, never-before-published stories (Suno developer API; Techivation M-Compressor 2) surfaced by the earlier pass of this same-date re-run — preserved rather than overwritten. This is below the floor of 3, but the fresh window is genuinely exhausted; not padded with any known duplicate/re-run. Both picks are music category; second pick given a distinct palette accent (#0070f3). Two distinct outlets (Music Business Worldwide, Sound on Sound), no URL collisions.",
+    "baseline": "news_data.prev.json -> sections.music (today 2026-07-14 + days 2026-07-08/09/10/11/13); same-date idempotent re-run, 2026-07-15 not counted."
   }
 }

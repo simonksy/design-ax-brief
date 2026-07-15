@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "section": "science",
-  "now_iso": "2026-07-15T01:35:00Z",
+  "now_iso": "2026-07-15T02:24:24Z",
   "window_hours": 336,
   "items": [
     {
@@ -21,12 +21,28 @@
       "excerpt": "Technion's BetaDescribe is an AI system that translates raw protein sequences into natural-language descriptions, generating evidence-based hypotheses about the functions of otherwise-uncharacterized proteins for drug discovery and biotech."
     },
     {
+      "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-2.jpg",
+      "excerpt": "Argonne National Laboratory's ChemGraph is an open-source AI framework that uses LLMs and specialized agents to translate natural-language scientific problems into executable computational-chemistry calculations, automating battery, combustion and materials simulations for non-experts."
+    },
+    {
       "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
       "source": "ScienceDaily",
       "category": "science",
       "published_iso": "2026-07-08T00:00:00Z",
       "og_image": "https://www.sciencedaily.com/images/1920/neutron-star-merger.webp",
       "excerpt": "An international team at GSI/FAIR trained a deep neural network (RHINE) to model r-process heating in neutron-star mergers, letting simulations of how the universe forges its heaviest elements run far faster and more accurately."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A new critique (Peter J. Denning, Taylor & Francis) argues Turing's 1950 assumption — that human intelligence can be encoded into a computer — may be wrong, contending common sense, intuition, culture and practical know-how resist formalization by AI."
     },
     {
       "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
@@ -45,14 +61,6 @@
       "excerpt": "Judith S. Beck weighs AI mental-health chatbots against human therapists: chatbots are low-cost and available 24/7 but carry real risks, while clinicians tailor treatment with empathy and clinical judgment an LLM cannot yet replicate."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "",
-      "excerpt": "A new critique (Peter J. Denning, Taylor & Francis) argues Turing's 1950 assumption — that human intelligence can be encoded into a computer — may be wrong, contending common sense, intuition, culture and practical know-how resist formalization by AI."
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "source": "MIT Technology Review",
       "category": "science",
@@ -63,7 +71,7 @@
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 7,
-    "against_days": 5
+    "kept": 8,
+    "against_days": 6
   }
 }

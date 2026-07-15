@@ -1,137 +1,228 @@
 {
   "date": "2026-07-15",
   "section": "design",
-  "mode": "rotating_subset",
-  "generated_by": "ax-planner",
-  "_note": "Normal rotating run (the previous 07-14 file was a 모든 키워드 full-pool override). Rotation basis: day-of-month=15, day-of-year=196 — offsets each pool slice so consecutive days emphasize different keywords. Working set = 3 core + a 14-keyword rotating sample drawn ACROSS all 7 pool categories, biased to design×AI. Skipped angles already published in the last 2 days (07-14 + 07-13): terminal/agent design workflow, AX orchestration layer (Maeda UX→AX), AI logo generation (DesignCourse Fable 5), Star Trek VFX AI keying (Lightcraft Jetset), 'taste cannot be delegated', 'the interface has left the building' generative-UI, agent-handoff UX, Fireship GPT-5.6 Sol. Social creators rotated toward Vercel/DesignCourse/Jesse Showalter/Google Design/The AI Advantage (07-14 leaned Matt Wolfe/Two Minute Papers/AI Jason/Microsoft Design; 07-13 leaned Google Design/Fireship/DesignCourse). ~28 queries.",
-  "core": ["AI Design Tool", "Design AX", "AI Workflow"],
-  "seeds": [],
-  "covered_angles_to_avoid": [
-    "'The terminal became my canvas' agent-driven design workflow (07-14)",
-    "'AX is just the orchestration layer' Maeda UX→AX essay (07-14)",
-    "DesignCourse Fable 5 AI logo-generation test (07-14)",
-    "Indie Star Trek team AI green-screen keying / Lightcraft Jetset (07-14)",
-    "'Taste cannot be delegated' judgment-vs-AI essay (07-13)",
-    "'The interface has left the building' generative-UI chat/voice/agent UX (07-13)",
-    "'Design the moment an AI agent needs human input' agent-handoff (07-13)",
-    "Fireship GPT-5.6 Sol first-impressions video (07-13)"
-  ],
+  "mode": "UNATTENDED FULL-SET run (override): no date-subset rotation. Working set = ALL core (3) + the ENTIRE design pool across every category (tools_creative, tools_design_code, models_labs, concepts, people, frontier_broad, social) = 83 seed keywords, each expanded, so the librarian has the widest possible funnel to fill 5 cards. Search plan spans all sources.json design categories (figma, render, cad, tokens, vr, workflow, social) plus a wildcard. Social channels/handles picked via day-of-year 196 rotation.",
+  "note": "Recency window = last 2 days of news_data.json. Because this is the override full-set run, NO seeds are dropped for recency (the entire pool is seeded); today's brief already covered org-scale design AX (uxdesign 'when design becomes the organisation') and design leaders moving faster with AI, so the plan biases queries toward fresh tool/model releases and feature angles rather than the same essay-style workflow pieces. Core (AI Design Tool / Design AX / AI Workflow) always searched.",
   "working_keywords": [
-    { "keyword": "AI Design Tool", "category": "core", "recently_covered": false, "expansions": ["AI UI design tool July 2026", "generative design software launch", "AI 디자인 도구 신기능", "designer AI copilot release"] },
-    { "keyword": "Design AX", "category": "core", "recently_covered": false, "expansions": ["design AI transformation 2026", "디자인 조직 AI 전환 사례", "design team AI adoption case study", "agent experience design"] },
-    { "keyword": "AI Workflow", "category": "core", "recently_covered": true, "expansions": ["AI design workflow shift 2026", "creative pipeline automation", "AI 워크플로 디자이너", "designer AI workflow case study (steer off orchestration/taste essays)"] },
+    {"keyword": "AI Design Tool", "expansions": ["AI design tool launch 2026", "AI UI design generator", "AI 디자인 툴", "design tool AI feature update"]},
+    {"keyword": "Design AX", "expansions": ["design AX transformation", "디자인 AX", "design AI transformation case study", "design org AI adoption"]},
+    {"keyword": "AI Workflow", "expansions": ["AI design workflow", "AI 워크플로우", "designer AI workflow shift", "AI-assisted design process"]},
 
-    { "keyword": "Adobe Firefly", "category": "tools_creative", "recently_covered": false, "expansions": ["Firefly new image model 2026", "Adobe Firefly video update", "Firefly Boards", "파이어플라이"] },
-    { "keyword": "Krea", "category": "tools_creative", "recently_covered": false, "expansions": ["Krea AI realtime canvas", "Krea 3D texture 2026", "Krea image model", "크레아"] },
-    { "keyword": "Flux", "category": "tools_creative", "recently_covered": false, "expansions": ["Black Forest Labs Flux", "Flux Kontext image editing", "Flux 2 model 2026"] },
+    {"keyword": "Higgsfield", "expansions": ["Higgsfield AI video", "Higgsfield motion control", "Higgsfield update 2026"]},
+    {"keyword": "Kling", "expansions": ["Kling AI video", "Kling 2.5", "Kuaishou Kling model"]},
+    {"keyword": "Runway", "expansions": ["Runway Gen-4", "Runway Aleph", "Runway video model 2026"]},
+    {"keyword": "Sora", "expansions": ["OpenAI Sora 2", "Sora video generation", "Sora API"]},
+    {"keyword": "Midjourney", "expansions": ["Midjourney v7", "Midjourney video", "Midjourney update 2026"]},
+    {"keyword": "Adobe Firefly", "expansions": ["Adobe Firefly video", "Firefly image model", "Adobe Firefly update 2026"]},
+    {"keyword": "Google Veo", "expansions": ["Veo 3", "Google Veo video", "DeepMind Veo"]},
+    {"keyword": "Luma Dream Machine", "expansions": ["Luma Ray3", "Luma Dream Machine update", "Luma AI video"]},
+    {"keyword": "Pika", "expansions": ["Pika 2.0", "Pika AI video", "Pika update 2026"]},
+    {"keyword": "Krea", "expansions": ["Krea AI", "Krea real-time image", "Krea video 2026"]},
+    {"keyword": "Stable Diffusion", "expansions": ["Stability AI SD", "Stable Diffusion 3.5", "SD image model"]},
+    {"keyword": "Flux", "expansions": ["Flux.1", "Black Forest Labs Flux", "Flux Kontext"]},
 
-    { "keyword": "Framer AI", "category": "tools_design_code", "recently_covered": false, "expansions": ["Framer AI website builder 2026", "Framer Workshop AI", "Framer generative site", "프레이머 AI"] },
-    { "keyword": "Cursor", "category": "tools_design_code", "recently_covered": false, "expansions": ["Cursor AI editor 2026", "Cursor for designers", "Cursor composer update", "커서 AI"] },
-    { "keyword": "Bolt", "category": "tools_design_code", "recently_covered": false, "expansions": ["Bolt.new StackBlitz", "Bolt AI app builder 2026", "Bolt design-to-app"] },
+    {"keyword": "Figma", "expansions": ["Figma Make", "Figma AI", "Figma Weave", "Figma Config 2026"]},
+    {"keyword": "Claude Design", "expansions": ["Claude design", "Claude Artifacts UI", "Anthropic Claude design tool"]},
+    {"keyword": "Claude Code", "expansions": ["Claude Code agent", "Anthropic Claude Code", "Claude Code design workflow"]},
+    {"keyword": "v0 Vercel", "expansions": ["v0 by Vercel", "Vercel v0 generative UI", "v0 design to code"]},
+    {"keyword": "Framer AI", "expansions": ["Framer AI website", "Framer AI update 2026", "Framer generative"]},
+    {"keyword": "Cursor", "expansions": ["Cursor AI editor", "Cursor agent", "Cursor 2026 update"]},
+    {"keyword": "Lovable", "expansions": ["Lovable AI app builder", "Lovable 2.0", "Lovable vibe coding"]},
+    {"keyword": "Bolt", "expansions": ["Bolt.new", "StackBlitz Bolt", "Bolt AI app builder"]},
+    {"keyword": "Generative UI", "expansions": ["generative UI", "AI UI generation", "genUI"]},
+    {"keyword": "Design-to-code", "expansions": ["design to code AI", "Figma to code", "design handoff AI"]},
+    {"keyword": "Vibe coding", "expansions": ["vibe coding", "vibe coding tools", "vibe coding designers"]},
+    {"keyword": "Model Context Protocol", "expansions": ["MCP", "MCP servers", "Figma MCP", "Anthropic MCP"]},
 
-    { "keyword": "Gemini", "category": "models_labs", "recently_covered": false, "expansions": ["Google Gemini 3 design", "Gemini image Nano Banana", "Gemini creative workflow 2026", "제미나이"] },
-    { "keyword": "DeepSeek", "category": "models_labs", "recently_covered": false, "expansions": ["DeepSeek new model 2026", "DeepSeek open source designers", "딥시크"] },
+    {"keyword": "OpenAI", "expansions": ["OpenAI GPT-5", "OpenAI release 2026", "OpenAI design"]},
+    {"keyword": "ChatGPT", "expansions": ["ChatGPT update", "ChatGPT canvas", "ChatGPT image"]},
+    {"keyword": "Anthropic", "expansions": ["Anthropic Claude", "Claude Opus 2026", "Anthropic release"]},
+    {"keyword": "Gemini", "expansions": ["Google Gemini 3", "Gemini update 2026", "Gemini image Nano Banana"]},
+    {"keyword": "Meta", "expansions": ["Meta AI", "Llama 4", "Meta superintelligence"]},
+    {"keyword": "Ollama", "expansions": ["Ollama local AI", "Ollama models", "run LLM locally"]},
+    {"keyword": "Llama", "expansions": ["Llama 4", "Meta Llama model", "open Llama"]},
+    {"keyword": "Mistral", "expansions": ["Mistral AI", "Mistral Large", "Le Chat"]},
+    {"keyword": "Grok xAI", "expansions": ["xAI Grok", "Grok 4", "Grok image"]},
+    {"keyword": "DeepSeek", "expansions": ["DeepSeek R2", "DeepSeek model", "DeepSeek update 2026"]},
 
-    { "keyword": "World models", "category": "concepts", "recently_covered": false, "expansions": ["world model AI 2026", "generative world model design", "Genie world model", "월드 모델"] },
-    { "keyword": "Multimodal AI", "category": "concepts", "recently_covered": false, "expansions": ["multimodal AI design tool 2026", "vision-language design model", "멀티모달 AI"] },
+    {"keyword": "AI Agent", "expansions": ["AI agent", "autonomous agent", "agent design workflow"]},
+    {"keyword": "Agentic AI", "expansions": ["agentic AI", "agentic workflow", "agentic design"]},
+    {"keyword": "Physical AI", "expansions": ["physical AI", "Nvidia physical AI", "physical AI design"]},
+    {"keyword": "Embodied AI", "expansions": ["embodied AI", "embodied agents", "robot embodied AI"]},
+    {"keyword": "World models", "expansions": ["world model", "Genie world model", "AI world model"]},
+    {"keyword": "Multimodal AI", "expansions": ["multimodal AI", "multimodal model", "vision language model"]},
 
-    { "keyword": "Fei-Fei Li", "category": "people", "recently_covered": false, "expansions": ["Fei-Fei Li World Labs 2026", "spatial intelligence 3D world model", "Marble World Labs", "페이페이 리"] },
+    {"keyword": "Yann LeCun", "expansions": ["Yann LeCun", "LeCun world model", "Meta LeCun"]},
+    {"keyword": "Andrej Karpathy", "expansions": ["Karpathy", "Karpathy software 3.0", "Karpathy vibe coding"]},
+    {"keyword": "Dario Amodei", "expansions": ["Dario Amodei", "Amodei Anthropic", "Amodei AI essay"]},
+    {"keyword": "Sam Altman", "expansions": ["Sam Altman", "Altman OpenAI", "Altman AI"]},
+    {"keyword": "Demis Hassabis", "expansions": ["Demis Hassabis", "Hassabis DeepMind", "Hassabis AI"]},
+    {"keyword": "Fei-Fei Li", "expansions": ["Fei-Fei Li", "World Labs", "spatial intelligence"]},
+    {"keyword": "Ilya Sutskever", "expansions": ["Ilya Sutskever", "SSI Safe Superintelligence", "Sutskever"]},
+    {"keyword": "Mira Murati", "expansions": ["Mira Murati", "Thinking Machines Lab", "Murati AI"]},
+    {"keyword": "Jensen Huang", "expansions": ["Jensen Huang", "Nvidia CEO", "Huang keynote"]},
 
-    { "keyword": "Apple Vision Pro", "category": "frontier_broad", "recently_covered": false, "expansions": ["Vision Pro visionOS design tool 2026", "Apple Vision Pro prototyping", "spatial design Vision Pro", "비전 프로"] },
-    { "keyword": "Spatial computing", "category": "frontier_broad", "recently_covered": false, "expansions": ["spatial computing design 2026", "spatial UI prototype", "3D interface AI", "공간 컴퓨팅"] },
-    { "keyword": "Enterprise AI agents", "category": "frontier_broad", "recently_covered": false, "expansions": ["enterprise AI agents 2026", "AI agents design org", "agent rollout case study", "기업 AI 에이전트"] },
+    {"keyword": "Nvidia", "expansions": ["Nvidia AI", "Nvidia GTC 2026", "Nvidia Omniverse"]},
+    {"keyword": "Figure AI", "expansions": ["Figure 03", "Figure humanoid", "Figure AI robot"]},
+    {"keyword": "Tesla Optimus", "expansions": ["Tesla Optimus", "Optimus robot", "Tesla humanoid"]},
+    {"keyword": "1X robot", "expansions": ["1X Neo", "1X humanoid", "1X robot home"]},
+    {"keyword": "Boston Dynamics", "expansions": ["Boston Dynamics Atlas", "Atlas robot", "Boston Dynamics AI"]},
+    {"keyword": "Humanoid robot", "expansions": ["humanoid robot", "humanoid robot 2026", "AI humanoid"]},
+    {"keyword": "Apple Vision Pro", "expansions": ["Apple Vision Pro", "visionOS", "Vision Pro design"]},
+    {"keyword": "Meta Quest", "expansions": ["Meta Quest", "Quest 4", "Quest VR"]},
+    {"keyword": "Spatial computing", "expansions": ["spatial computing", "spatial design", "spatial UI"]},
+    {"keyword": "Meta Ray-Ban", "expansions": ["Meta Ray-Ban Display", "Ray-Ban smart glasses", "Meta AI glasses"]},
+    {"keyword": "Suno", "expansions": ["Suno AI music", "Suno v5", "Suno song"]},
+    {"keyword": "Udio", "expansions": ["Udio music", "Udio model", "Udio update"]},
+    {"keyword": "ElevenLabs", "expansions": ["ElevenLabs voice", "ElevenLabs music", "ElevenLabs agent"]},
+    {"keyword": "Hugging Face", "expansions": ["Hugging Face", "HF models", "Hugging Face Spaces"]},
+    {"keyword": "open-source AI", "expansions": ["open source AI", "open weights model", "open model release"]},
+    {"keyword": "AGI", "expansions": ["AGI", "artificial general intelligence", "path to AGI"]},
+    {"keyword": "superintelligence", "expansions": ["superintelligence", "ASI", "Meta Superintelligence Labs"]},
+    {"keyword": "AI safety", "expansions": ["AI safety", "AI alignment", "safety research"]},
+    {"keyword": "AI regulation", "expansions": ["AI regulation", "EU AI Act", "AI policy 2026"]},
+    {"keyword": "Enterprise AI agents", "expansions": ["enterprise AI agents", "enterprise AI", "AI agents business"]},
 
-    { "keyword": "Vercel YouTube", "category": "social", "recently_covered": false, "expansions": ["site:youtube.com Vercel v0 generative UI 2026"] },
-    { "keyword": "DesignCourse", "category": "social", "recently_covered": true, "expansions": ["site:youtube.com DesignCourse AI UI tutorial 2026 (steer off Fable 5 logo video)"] },
-    { "keyword": "Jesse Showalter", "category": "social", "recently_covered": false, "expansions": ["site:youtube.com Jesse Showalter AI design tool 2026"] },
-    { "keyword": "The AI Advantage", "category": "social", "recently_covered": false, "expansions": ["site:youtube.com The AI Advantage design workflow 2026"] },
-    { "keyword": "design AI reel", "category": "social", "recently_covered": false, "expansions": ["site:instagram.com designspiration AI", "site:instagram.com awwwards"] }
+    {"keyword": "Figma YouTube", "expansions": ["Figma YouTube", "Figma Config talk", "Figma channel"]},
+    {"keyword": "Vercel YouTube", "expansions": ["Vercel YouTube", "Vercel Ship", "v0 tutorial"]},
+    {"keyword": "Matt Wolfe AI", "expansions": ["Matt Wolfe", "Matt Wolfe AI news", "futuretools"]},
+    {"keyword": "The AI Advantage", "expansions": ["The AI Advantage", "AI Advantage YouTube", "Igor Pogany"]},
+    {"keyword": "Fireship AI", "expansions": ["Fireship", "Fireship AI", "Fireship code report"]},
+    {"keyword": "DesignCourse", "expansions": ["DesignCourse", "Gary Simon", "DesignCourse AI UI"]},
+    {"keyword": "AI design tutorial YouTube", "expansions": ["AI design tutorial", "AI UX tutorial", "AI design youtube"]},
+    {"keyword": "Midjourney Instagram", "expansions": ["Midjourney Instagram", "Midjourney reel", "MJ showcase"]},
+    {"keyword": "Runway Instagram", "expansions": ["Runway Instagram", "Runway reel", "Runway showcase"]},
+    {"keyword": "Awwwards", "expansions": ["Awwwards", "Awwwards AI", "award winning AI site"]},
+    {"keyword": "design AI reel", "expansions": ["design AI reel", "AI design Instagram", "design inspiration AI"]}
   ],
-  "plan": [
+  "categories": [
     {
       "category": "figma",
-      "label": "Figma",
-      "allowed_domains": ["figma.com", "vercel.com", "builder.io", "logrocket.com", "uxdesign.cc", "dev.to", "creativebloq.com", "framer.com", "cursor.com"],
       "queries": [
-        "Framer AI website builder new feature July 2026",
-        "Cursor AI editor for designers 2026",
-        "Bolt.new AI app builder update 2026",
-        "site:vercel.com v0 generative UI design-to-code 2026"
+        "Figma Make Weave AI design to code new feature 2026",
+        "Vercel v0 Framer AI Cursor Lovable Bolt generative UI update 2026",
+        "vibe coding design-to-code Model Context Protocol designers 2026",
+        "Claude design tool AI UI generation Figma plugin 2026"
+      ],
+      "allowed_domains": [
+        "figma.com",
+        "vercel.com",
+        "builder.io",
+        "logrocket.com",
+        "uxdesign.cc",
+        "dev.to",
+        "creativebloq.com",
+        "smashingmagazine.com"
       ]
     },
     {
       "category": "render",
-      "label": "KeyShot",
-      "allowed_domains": ["cgchannel.com", "keyshot.com", "80.lv", "fxguide.com", "nvidia.com", "engadget.com"],
       "queries": [
-        "Adobe Firefly new image model render 2026",
-        "site:80.lv Krea Flux AI texture generation designers 2026",
-        "site:keyshot.com KeyShot AI rendering feature 2026",
-        "site:nvidia.com Nvidia generative AI neural rendering 2026"
+        "KeyShot AI rendering product visualization 2026",
+        "Runway Sora Google Veo Luma AI video model update 2026",
+        "Midjourney Krea Flux Stable Diffusion new image model 2026",
+        "Nvidia neural rendering real-time AI render Omniverse 2026"
+      ],
+      "allowed_domains": [
+        "cgchannel.com",
+        "keyshot.com",
+        "80.lv",
+        "fxguide.com",
+        "nvidia.com",
+        "engadget.com",
+        "theverge.com"
       ]
     },
     {
       "category": "cad",
-      "label": "Text-to-CAD",
-      "allowed_domains": ["engineering.com", "getleo.ai", "autodesk.com", "all3dp.com", "develop3d.com", "zoo.dev"],
       "queries": [
-        "site:autodesk.com Autodesk AI generative design 2026",
-        "text-to-CAD AI parametric model July 2026",
-        "AI 3D 모델 생성 제품 디자인 2026"
+        "text-to-CAD generative CAD AI 2026",
+        "Autodesk AI Fusion generative design update 2026",
+        "Leo.ai text to CAD engineering AI product design 2026"
+      ],
+      "allowed_domains": [
+        "engineering.com",
+        "getleo.ai",
+        "autodesk.com",
+        "all3dp.com",
+        "develop3d.com"
       ]
     },
     {
       "category": "tokens",
-      "label": "Design Tokens",
-      "allowed_domains": ["parallelhq.com", "mindstudio.ai", "smashingmagazine.com", "css-tricks.com", "dev.to"],
       "queries": [
-        "site:smashingmagazine.com design tokens AI automation 2026",
-        "multimodal AI design system components 2026",
-        "site:dev.to AI design tokens sync workflow 2026"
+        "AI design tokens design system automation 2026",
+        "design tokens AI generate theme variables 2026",
+        "AI design system component generation 2026"
+      ],
+      "allowed_domains": [
+        "parallelhq.com",
+        "mindstudio.ai",
+        "smashingmagazine.com",
+        "css-tricks.com",
+        "dev.to"
       ]
     },
     {
       "category": "vr",
-      "label": "VR Prototype",
-      "allowed_domains": ["sgwdesignworks.com", "boston-engineering.com", "roadtovr.com", "uploadvr.com", "apple.com"],
       "queries": [
-        "site:roadtovr.com Apple Vision Pro spatial design tool 2026",
-        "spatial computing design prototype AI 2026",
-        "Fei-Fei Li World Labs spatial intelligence world model 2026"
+        "Apple Vision Pro spatial design prototyping AI 2026",
+        "Meta Quest Ray-Ban smart glasses AI design 2026",
+        "spatial computing AI 3D prototype design 2026"
+      ],
+      "allowed_domains": [
+        "sgwdesignworks.com",
+        "boston-engineering.com",
+        "roadtovr.com",
+        "uploadvr.com",
+        "apple.com"
       ]
     },
     {
       "category": "workflow",
-      "label": "AI Workflow",
-      "allowed_domains": ["orq.ai", "fastcompany.com", "cio.com", "eleken.co", "palettt.com", "theverge.com", "venturebeat.com"],
       "queries": [
-        "site:venturebeat.com enterprise AI agents design workflow 2026",
-        "Google Gemini 3 design workflow feature 2026",
-        "site:fastcompany.com AI design team transformation case study 2026",
-        "AI 디자인 워크플로 조직 전환 2026"
+        "Design AX AI workflow designers case study 2026",
+        "AI agent agentic AI design workflow enterprise 2026",
+        "OpenAI ChatGPT Anthropic Claude Gemini design update 2026",
+        "AI 디자인 워크플로우 디자이너 도구 사례 2026",
+        "multimodal AI world model physical AI design 2026"
+      ],
+      "allowed_domains": [
+        "orq.ai",
+        "fastcompany.com",
+        "cio.com",
+        "eleken.co",
+        "palettt.com",
+        "theverge.com",
+        "venturebeat.com"
       ]
     },
     {
       "category": "social",
-      "label": "Social",
-      "allowed_domains": ["youtube.com", "youtu.be", "instagram.com"],
       "queries": [
-        "site:youtube.com Vercel v0 AI design 2026",
-        "site:youtube.com \"Jesse Showalter\" AI design tool 2026",
-        "site:youtube.com \"The AI Advantage\" design workflow 2026",
-        "site:youtube.com \"Google Design\" AI 2026",
-        "site:instagram.com designspiration",
-        "site:instagram.com awwwards"
+        "site:youtube.com \"Figma\" AI design 2026",
+        "site:youtube.com \"Matt Wolfe\" AI design tool 2026",
+        "site:youtube.com \"DesignCourse\" AI UI design 2026",
+        "site:instagram.com awwwards AI design"
+      ],
+      "allowed_domains": [
+        "youtube.com",
+        "youtu.be",
+        "instagram.com"
+      ]
+    },
+    {
+      "category": "wildcard",
+      "queries": [
+        "AI design tool trending launch July 2026"
+      ],
+      "allowed_domains": [
+        "theverge.com",
+        "venturebeat.com",
+        "techcrunch.com",
+        "fastcompany.com",
+        "creativebloq.com"
       ]
     }
-  ],
-  "wildcard": {
-    "query": "AI design tool launch designers workflow this week July 2026",
-    "allowed_domains": ["theverge.com", "venturebeat.com", "creativebloq.com", "80.lv", "uxdesign.cc"]
-  },
-  "counts": {
-    "working_keywords": 22,
-    "categories": 7,
-    "queries": 28
-  }
+  ]
 }

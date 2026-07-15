@@ -3,14 +3,19 @@
   "section": "books",
   "media": [
     {
+      "id": "kindle-translate-expand",
+      "type": "image",
+      "src": "pipeline/media/kindle-translate-expand.jpg"
+    },
+    {
       "id": "ai-audiobook-surveys",
       "type": "image",
       "src": "pipeline/media/ai-audiobook-surveys.jpg"
     },
     {
-      "id": "kindle-translate-expand",
+      "id": "google-gemini-suit",
       "type": "image",
-      "src": "pipeline/media/kindle-translate-expand.jpg"
+      "src": "pipeline/media/google-gemini-suit.jpg"
     },
     {
       "id": "ipa-childrens-books",

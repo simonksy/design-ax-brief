@@ -3,29 +3,28 @@
   "section": "science",
   "media": [
     {
-      "id": "pinn-drug-release",
+      "id": "chemgraph",
       "type": "image",
-      "src": "pipeline/media/pinn-drug-release.jpg"
+      "src": "pipeline/media/chemgraph.jpg"
     },
     {
-      "id": "betadescribe-protein",
+      "id": "betadescribe",
       "type": "image",
-      "src": "pipeline/media/betadescribe-protein.jpg"
+      "src": "pipeline/media/betadescribe.jpg"
     },
     {
-      "id": "rhine-rprocess",
+      "id": "rhine",
       "type": "image",
-      "src": "pipeline/media/rhine-rprocess.jpg"
+      "src": "pipeline/media/rhine.jpg"
     },
     {
-      "id": "ai-black-box-science",
-      "type": "image",
-      "src": "pipeline/media/ai-black-box-science.jpg"
+      "id": "chatbot-therapy",
+      "type": "svg"
     },
     {
-      "id": "anthropic-jspace",
+      "id": "jacobian-lens",
       "type": "image",
-      "src": "pipeline/media/anthropic-jspace.jpg"
+      "src": "pipeline/media/jacobian-lens.jpg"
     }
   ]
 }

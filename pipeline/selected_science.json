@@ -9,12 +9,12 @@
       "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-physics-ai-drug-patches-bandages.html",
+      "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
       "source": "Phys.org",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-informed-ai-co.jpg",
-      "excerpt": "Brown University researchers built a physics-informed neural network that predicts how controlled-release materials dispense drugs, potentially slashing development time for therapeutic patches, bandages and implants by up to 94%.",
-      "rationale": "Physics-informed ML directly accelerates drug-delivery materials design — high actionability with a concrete 94% development-time cut. Bio/materials sub-domain."
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-2.jpg",
+      "excerpt": "Argonne National Laboratory's ChemGraph is an open-source AI framework that uses LLMs and specialized agents to translate natural-language scientific problems into executable computational-chemistry calculations, automating battery, combustion and materials simulations for non-experts.",
+      "rationale": "Open-source LLM-agent framework lets non-experts run computational-chemistry and materials simulations from plain language — high actionability, materials sub-domain."
     },
     {
       "rank": 2,
@@ -27,7 +27,7 @@
       "published_iso": "2026-07-06T00:00:00Z",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-translates-p.jpg",
       "excerpt": "Technion's BetaDescribe is an AI system that translates raw protein sequences into natural-language descriptions, generating evidence-based hypotheses about the functions of otherwise-uncharacterized proteins for drug discovery and biotech.",
-      "rationale": "Novel protein-to-text model surfaces functions of uncharacterized proteins, feeding real drug-discovery hypotheses. Distinct protein sub-domain."
+      "rationale": "Novel protein-to-text model surfaces functions of uncharacterized proteins, feeding real drug-discovery hypotheses — distinct biology/protein sub-domain."
     },
     {
       "rank": 3,
@@ -48,12 +48,12 @@
       "category": "science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
-      "source": "Physics World",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
-      "excerpt": "From structural biology to particle physics, AI systems increasingly deliver results of remarkable power and accuracy — yet even their creators struggle to explain how they reach them, raising the question of what counts as understanding in science.",
-      "rationale": "Credible, very fresh (07-14) piece on how AI is reshaping scientific method and the meaning of understanding — physics/epistemology angle from a distinct outlet."
+      "url": "https://www.psychologytoday.com/us/blog/think-your-way-to-health/202607/i-need-help-should-i-use-an-ai-chatbot-or-a-therapist",
+      "source": "Psychology Today",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/judith_beck.jpg",
+      "excerpt": "Judith S. Beck weighs AI mental-health chatbots against human therapists: chatbots are low-cost and available 24/7 but carry real risks, while clinicians tailor treatment with empathy and clinical judgment an LLM cannot yet replicate.",
+      "rationale": "Clinician-authored assessment of where AI mental-health chatbots help and where they fail — mental-health/cognition sub-domain from a domain-expert source."
     },
     {
       "rank": 5,
@@ -66,14 +66,14 @@
       "published_iso": "2026-07-13T00:00:00Z",
       "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg",
       "excerpt": "Anthropic's 'Jacobian lens' reveals a hidden 'J-space' inside Claude Opus 4.6 — words that shape a model's upcoming output without appearing in it — offering the clearest glimpse yet into how LLMs represent and weigh concepts internally.",
-      "rationale": "Concrete interpretability discovery into how LLMs internally represent concepts — cognition/AI-science sub-domain, top-tier outlet, high novelty."
+      "rationale": "Concrete interpretability discovery into how LLMs internally represent concepts — top-tier outlet, high novelty, distinct interpretability sub-domain."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.science in news_data.json — today (2026-07-14, 5 cards) plus days (empty). Published stories: Willow quantum self-learning, quantum-peptide design, flat-band 2D screening, kagome superconductors, LLM decision-reasons.",
+    "checked_against": "sections.science in news_data.prev.json (same-date idempotent baseline — only 2026-07-14 and earlier count). Published 2026-07-14 science stories: Willow quantum self-learning, quantum-peptide design, flat-band 2D screening, kagome superconductors, LLM decision-reasons.",
     "collapsed_stories": [],
-    "dropped": "None on dedup — all 7 filtered candidates are content-distinct from the 5 published cards (no shared event/URL/topic). Not selected: Psychology Today chatbot-vs-therapist (consumer-advice opinion, weak on the 'AI advances science' relevance test) and ScienceDaily Turing critique (overlaps the cognition slot already filled by the stronger Anthropic interpretability pick).",
+    "dropped": "None on dedup — all 8 filtered candidates are content-distinct from published cards (no shared event/URL/topic). Not selected: physics-informed drug-patches (materials slot filled by ChemGraph, which is more distinct from the protein/biology pick), ChemGraph vs drug-patches resolved in ChemGraph's favor; Physics World AI black-box and ScienceDaily Turing critique both overlap the interpretability/cognition slots already filled by the stronger Anthropic and Psychology Today picks.",
     "shortfall": "None. 5 distinct, never-before-published picks; no padding.",
-    "diversity": "4 distinct outlets: Phys.org x2 (cap respected), ScienceDaily, Physics World, MIT Technology Review. Sub-domains spread across bio/materials, protein, astro/physics, physics-epistemology, and cognition/AI-science. All share the science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f)."
+    "diversity": "4 distinct outlets: Phys.org x2 (cap respected), ScienceDaily, Psychology Today, MIT Technology Review. Sub-domains spread across materials, biology/protein, astrophysics, mental-health/cognition, and interpretability. All share the science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f)."
   }
 }
