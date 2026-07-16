@@ -1,72 +1,93 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.smashingmagazine.com/2026/07/people-dont-want-more-ai/",
-      "title": "People don't want more AI",
-      "source": "Smashing Magazine",
-      "published_iso": "2026-07-15T10:00:00Z",
-      "og_image": "https://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
-      "excerpt": "A counter-narrative arguing users are fatigued by AI features bolted onto every product, and what that backlash means for how designers should — and shouldn't — integrate AI into real experiences.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Credible counter-narrative to AI-everywhere; directly changes where a designer chooses to add or withhold AI tomorrow."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=6OpWU-HrsuQ",
-      "title": "The best AI design tools of 2026, ranked",
-      "source": "Build Great Products (YouTube)",
-      "published_iso": "2026-07-14T14:30:18Z",
-      "og_image": "https://i.ytimg.com/vi/6OpWU-HrsuQ/maxresdefault.jpg",
-      "excerpt": "Designer channel Build Great Products ranks the major 2026 AI design tools — Figma, Anthropic's Claude Design and Google Stitch — testing each on the same brief to see which actually fits real product-design workflows.",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "Hands-on head-to-head of Figma vs Claude Design vs Stitch on one brief — actionable tool-choice guidance for a designer's next project."
-    },
-    {
-      "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9",
-      "title": "AI systems are demanding new interaction models — are designers ready?",
-      "source": "UX Collective",
-      "published_iso": "2026-07-15T19:48:49Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*xueXM438PdvFdB4J8p3z_A.png",
-      "excerpt": "Argues generative AI is driving the first major shift in software interaction models in years, and asks whether designers are ready to invent the new patterns that go beyond chat boxes and prompts.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Frames the concrete design work of inventing post-chat interaction patterns — a shift designers must start prototyping now."
-    },
-    {
-      "url": "https://www.creativebloq.com/design/fonts-typography/this-optical-illusion-font-was-created-to-baffle-ai-and-it-actually-works-for-now",
-      "title": "This optical-illusion font was created to baffle AI — and it actually works (for now)",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-15T07:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KSVwbVdmgFXa26FozrvfJ7-1910-80.png",
-      "excerpt": "A new optical-illusion typeface is engineered to be unreadable to AI/OCR systems while staying legible to humans — a craft-led designer pushback against machines scraping and reinterpreting visual work.",
+      "url": "https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/",
+      "title": "Workflow Lab: deploying designs directly with Figma Make",
+      "source": "Figma",
+      "published_iso": "2026-07-16T12:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/e4e2d4b63595cc24b996f961f4b28e0049e7efb9-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma walks through a workflow where designers connect a production codebase to Figma Make, implement accessibility and polish refinements themselves, and open a pull request — collapsing the traditional design-to-engineering handoff.",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Novel, tangible craft tool — a typeface designers can actually use to resist AI/OCR scraping; a fresh angle no prior card covered."
+      "rationale": "Highest actionability in the pool: a first-party, step-by-step workflow a designer can run tomorrow to ship a PR without a handoff."
     },
     {
-      "url": "https://www.creativebloq.com/3d/ai-has-amplified-my-20-years-of-experience-believes-concept-artist-daniel-porto",
-      "title": "AI has amplified my 20 years of experience, believes concept artist Daniel Porto",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-15T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/w2frQCRmA29oa6Dy8McJwU-1600-80.jpg",
-      "excerpt": "Veteran concept artist Daniel Porto argues AI has amplified rather than replaced his 20 years of craft, with creative vision and direction — not the tool — becoming the real competitive advantage in an AI-assisted workflow.",
+      "url": "https://www.cgchannel.com/2026/07/sidefx-just-released-houdini-22/",
+      "title": "SideFX just released Houdini 22",
+      "source": "CG Channel",
+      "published_iso": "2026-07-16T10:07:37Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260716_Houdini22.jpg",
+      "excerpt": "SideFX shipped Houdini 22 with a full 3D Gaussian Splatting toolset — including training splats from real-world reference photos — plus KineFX rigging and Copernicus image-processing upgrades.",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Practitioner view from a working concept artist on folding AI into a craft pipeline — adds the 3D/render category for spread."
+      "rationale": "Major shipped release, not commentary: a full Gaussian Splatting toolset lands in a mainstream 3D DCC and changes what reference photos are good for."
+    },
+    {
+      "url": "https://dev.to/rohit_raghuvansh_2f04aca3/design-tokens-in-2026-figma-variables-vs-tokens-studio-4cg3",
+      "title": "Design tokens in 2026: Figma Variables vs Tokens Studio",
+      "source": "DEV Community",
+      "published_iso": "2026-07-16T04:18:15Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fiili.io%2FCVRoz2p.png",
+      "excerpt": "With the W3C DTCG token format stabilized, Figma Variables and Tokens Studio both export compliant JSON — ending tool lock-in and shifting the choice to actual theming complexity rather than format compatibility.",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "Concrete tooling decision with a real hinge — DTCG stabilizing removes lock-in, so token teams can pick on theming needs alone."
+    },
+    {
+      "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
+      "title": "OpenAI launches a physical keypad for controlling agents",
+      "source": "Engadget",
+      "published_iso": "2026-07-15T18:31:30Z",
+      "og_image": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/l-intro-1784140173.jpg",
+      "excerpt": "OpenAI and Work Louder shipped the $230 Codex Micro, a physical keypad with programmable keys, LED status lights and a reasoning-level dial — an early attempt at hardware interaction design for agentic work.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "rationale": "Back-fill for the cross-section SmartRoto conflict: a shipped product rather than a think-piece, and the most novel item left — a physical control surface for agents makes the section's AX thesis tangible."
+    },
+    {
+      "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932",
+      "title": "From vibe to specs: reclaiming the design process with the SAID framework",
+      "source": "UX Collective",
+      "published_iso": "2026-07-16T22:20:27Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*1RklWXLSQOBIIMkGOcZ9TA.png",
+      "excerpt": "A proposed SAID framework pushes back on vibe-coding drift by reclaiming specs as the designer's leverage point, turning loose AI prompting into a structured, reviewable design process.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "A named, reusable framework rather than another AI-anxiety essay — gives designers a concrete way to reclaim specs from vibe-coding drift."
     }
-  ]
+  ],
+  "dedup": {
+    "pool_size": 17,
+    "dropped_as_duplicate": 0,
+    "dropped_cross_section": 1,
+    "checked_against": "sections.design — today (2026-07-16) + days 2026-07-10, 07-11, 07-13, 07-14, 07-15",
+    "notes": [
+      "fxguide SmartRoto (foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do) — was design pick #4; removed on the coordinator's cross-section conflict call (also picked by movies today, which keeps it as the native VFX beat). Slot back-filled with Engadget Codex Micro.",
+      "figma.com/blog/sightlines-issue-no1 — NOT a hard duplicate of jen-dunnam (2026-07-11, Figma, Config Leadership Collective), but same source + adjacent Leadership Collective topic; deprioritized rather than picked.",
+      "uxdesign.cc design-system-contracts and dev.to why-every-ai-generated-app-looks-the-same — both adjacent to tokens-prompts (2026-07-15, DEV, 'design tokens are prompts'); distinct articles and arguments, kept in pool but not picked to avoid a third tokens-drift take.",
+      "dev.to HyperShots (selcukatli) — strongest back-fill on raw actionability, but dev.to maps only to the figma/tokens categories in sources.json, so the card chip would read 'Figma' on a story unrelated to Figma; passed over for the accurate-label Codex Micro.",
+      "engadget Google AI Mode + Canva — distinct event from canva-code2 (2026-07-15, VentureBeat, Canva Code 2.0); not a duplicate, dropped on ranking only.",
+      "creativebloq England-players-as-Queen — thematically adjacent to not-ai-slop (2026-07-10) and economist-billboard (2026-07-11); distinct article, dropped for low actionability."
+    ]
+  },
+  "diversity_guard": {
+    "outlets": ["Figma", "CG Channel", "DEV Community", "Engadget", "UX Collective"],
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "categories": { "figma": 1, "render": 1, "tokens": 1, "workflow": 2 },
+    "accent_note": "Two workflow picks carry distinct accents — Codex Micro #3b6bff, SAID #ff5a4d."
+  }
 }

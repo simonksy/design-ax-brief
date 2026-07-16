@@ -1,68 +1,103 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "OpenAI",
+      "tool": "Google",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
-      "source": "Engadget",
-      "published_iso": "2026-07-15T08:37:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
-      "excerpt": "OpenAI's first hardware product is reportedly a portable, screenless 'AI companion' speaker: per Bloomberg it runs an advanced GPT-Live voice mode, has moving mechanical parts to feel 'alive,' and packs cameras and sensors for contextual awareness.",
-      "rationale": "OpenAI's debut hardware is the marquee gadget story; kept the strongest of four outlets covering it (original Bloomberg-sourced report, most complete)."
+      "url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
+      "source": "Tom's Guide",
+      "published_iso": "2026-07-16T15:25:15Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/sXHN6dZcCoRwNcjRKb2pGm-2000-80.jpg",
+      "excerpt": "An exclusive look inside Google's plan for the AI glasses it and Samsung will ship this fall - the designs, the privacy backlash it wants to avoid, and how it intends to fight Meta and Apple for a place on your face.",
+      "rationale": "Exclusive, same-day look inside the fall Google/Samsung AI glasses: it frames the privacy design problem rather than reporting a spec, which is the decision designers actually face."
     },
     {
       "rank": 2,
-      "tool": "Apple",
+      "tool": "1X",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://gizmodo.com/apple-fcking-did-it-one-month-with-siri-ai-2000784845",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-13T21:55:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3.jpg",
-      "excerpt": "After a year's delay, Apple's rebuilt Siri AI - now powered by Google's Gemini models - ships in iOS 27; a month of use finds it genuinely useful for searching personal data and multi-step tasks, though still short of flawless.",
-      "rationale": "Shipping-now, one-month verdict on the Gemini-powered Siri in iOS 27; actionable for anyone leaning on Apple's assistant, and distinct from the prior watchOS/visionOS beta-seeding notes."
+      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
+      "source": "TechRadar",
+      "published_iso": "2026-07-16T20:30:02Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DXVLUwA6f3dvwjjfFPUetY-1920-80.jpg",
+      "excerpt": "1X's Neo Beta home robot shows off new hands that can assemble LEGO, unzip a jacket and open a snack bag - the most human-like manipulation yet from a consumer humanoid.",
+      "rationale": "A concrete, demonstrable manipulation leap on a consumer humanoid - fresh, and a different device class from the glasses/phone bulk of the pool."
     },
     {
       "rank": 3,
-      "tool": "Google",
+      "tool": "Signal",
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
-      "source": "9to5Google",
-      "published_iso": "2026-07-14T17:10:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Google's Gemma 4 E2B runs directly on the Pixel 10's Tensor G5 TPU, enabling on-device offline AI chat, image recognition and voice transcription with no internet connection - a push for local, private generative AI on the phone.",
-      "rationale": "Concrete on-device / offline generative AI on shipping hardware - a real shift toward local, private phone AI that changes how designers can rely on it."
+      "url": "https://www.techradar.com/health-fitness/no-sleep-score-no-steps-this-signal-smart-ring-from-an-ex-google-head-is-focused-on-cracking-cuffless-calibration-less-blood-pressure-readings",
+      "source": "TechRadar",
+      "published_iso": "2026-07-16T19:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/brJjeQ9ZaTQXUWgXhYbkhk-2560-80.jpg",
+      "excerpt": "The Signal Ring, from an ex-Google health lead, drops sleep scores and step counts entirely to chase one thing: cuffless, calibration-free blood pressure sensing that Apple and Samsung haven't cracked.",
+      "rationale": "A wearable that subtracts features to solve one hard sensing problem - a sharp product-scoping lesson, and more novel than the Oura Ring 5 iteration review in the same pool."
     },
     {
       "rank": 4,
-      "tool": "Meta",
+      "tool": "nubia",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://9to5google.com/2026/07/02/meta-glasses-get-premium-usage-limits/",
-      "source": "9to5Google",
-      "published_iso": "2026-07-02T16:55:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg",
-      "excerpt": "Meta starts charging $20/month for Meta One Premium, gating the smart glasses' AI 'Conversation Focus' feature to just 3 hours/month free (15 hours paid) - a look at how on-device AI capabilities on wearables are being monetized.",
-      "rationale": "First clear signal of how AI wearable features get monetized; distinct topic (pricing/subscription) from the published Meta glasses privacy/super-sensing stories."
+      "url": "https://www.gsmarena.com/nubia_navix_ultra_unveiled_their_take_onn_aiagent_phone-news-73744.php",
+      "source": "GSMArena",
+      "published_iso": "2026-07-16T12:00:02Z",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/-952x498w6/gsmarena_00.jpg",
+      "excerpt": "nubia unveils the NaviX Ultra, its take on the 'AI agentic phone' - the concept Chinese phone makers are racing to define, with an on-device agent driving the whole UI.",
+      "rationale": "An agent-driven phone UI shipping as a real product - the clearest look yet at what the 'agentic phone' interface actually becomes once it leaves the concept deck."
+    },
+    {
+      "rank": 5,
+      "tool": "PrismML",
+      "category": "gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "url": "https://9to5mac.com/2026/07/14/prismml-releases-bonsai-27b-claiming-first-major-ai-model-of-its-size-fit-for-iphone/",
+      "source": "9to5Mac",
+      "published_iso": "2026-07-14T18:02:52Z",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/cosmic-orange-17-pro.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "PrismML released Bonsai 27B, claiming it's the first model of that size that actually runs on an iPhone - a push to move frontier-class on-device AI onto phone silicon.",
+      "rationale": "A 27B model claimed to run on an iPhone redraws the ceiling for on-device AI - the constraint that decides which features can stay local and private."
     }
   ],
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-15 + days 2026-07-09 through 2026-07-14).",
-    "collapsed_stories": [
-      "OpenAI companion speaker: kept Engadget /2215417 (cand 1), dropped Digital Trends (cand 2), Android Authority (cand 3) and 9to5Mac (cand 4) - same story via different outlets, kept the strongest single."
+    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-16 + days 2026-07-10, 07-11, 07-14, 07-15).",
+    "dropped_as_published_dup": [
+      {
+        "url": "https://www.tomshardware.com/peripherals/keyboards/openais-first-hardware-device-is-an-rgb-macropod-codex-micro-features-13-low-profile-keys-and-a-joystick-for-controlling-ai-coding-agents",
+        "reason": "Content dup of published card 'codex-macropad' (Gizmodo, 2026-07-11) - same OpenAI x Work Louder macropad release, previously covered at teaser stage. Consistent with the prior run's call on the same product."
+      },
+      {
+        "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
+        "reason": "Content dup of published card 'codex-macropad' (2026-07-11), and a within-pool dup of the Tom's Hardware Codex Micro item."
+      },
+      {
+        "url": "https://www.uploadvr.com/meta-still-internally-debating-privacy-of-always-on-ai-glasses/",
+        "reason": "Content dup of published card 'meta-super-sensing' (Android Authority, 2026-07-10) - same FT report on Meta's internal debate over the always-on glasses privacy LED."
+      },
+      {
+        "url": "https://9to5mac.com/2026/07/13/watchos-27-public-beta/",
+        "reason": "Content dup of published card 'watchos27-siri' (9to5Mac, 2026-07-10) - same watchOS 27 Siri AI release, dev beta vs public beta beat."
+      },
+      {
+        "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta/",
+        "reason": "Content dup of published card 'siri-gemini' (Gizmodo, 2026-07-16, still in today) - same iOS 27 rebuilt Siri story."
+      }
     ],
-    "dropped_as_published_dup": "OpenAI Codex keypad (Engadget /2215952, cand 5) DROPPED - content-duplicate of already-published 'codex-macropad' (Gizmodo, 2026-07-13): same OpenAI x Work Louder Codex keypad product/release, only a later beat (teaser -> named launch). Per the hard dedup rule (earliest-wins, never reappear on a later day) it is dropped despite the override note asking to keep it; flagging so it can be reinstated if the launch is judged a genuinely distinct beat.",
-    "shortfall": "4 picks (above the floor of 3), none padded. After dedup no further unique, never-before-seen fresh candidate remains to backfill to 5.",
-    "diversity": "3 distinct outlets (Engadget, Gizmodo, 9to5Google x2, <=2 per outlet). Single-category section (gadgets); distinct accents assigned within the shared category."
+    "collapsed_stories": [
+      "Google AI glasses privacy: kept Tom's Guide exclusive, dropped Android Central 'anti-tampering protections in Android XR' - same Google briefing, published 1 minute apart by sibling Future outlets.",
+      "XREAL budget glasses: Road to VR 'xbx a01+ $300' and 9to5Google 'a01 comparison' are the same launch; collapsed to one, and neither made the final 5 on diversity grounds."
+    ],
+    "backfill": "5 distinct, never-before-published stories selected after dropping 5 published dups and collapsing 2 within-pool story clusters. Pool of 23 was deep enough to backfill fully; nothing padded.",
+    "diversity": "4 distinct outlets (Tom's Guide, TechRadar x2, GSMArena, 9to5Mac) - max 2 per outlet. Single-category section, so device classes were spread instead: smart glasses / humanoid robot / health wearable / smartphone / on-device model. Deliberately kept only ONE glasses story despite 7 glasses-or-XR-display candidates in the pool; distinct accents assigned within the shared gadgets category."
   }
 }

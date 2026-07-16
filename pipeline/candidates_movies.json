@@ -1,35 +1,53 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "movies",
   "window_hours": 336,
-  "now_iso": "2026-07-16T00:15:00Z",
+  "now_iso": "2026-07-16T23:10:00Z",
   "items": [
     {
-      "url": "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/",
-      "title": "Vigloo Studio: New AI Platform for Short-Form Microdramas",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Vigloo launched Vigloo Studio, an AI-native production platform built for creators of serialized short-form (microdrama) storytelling, consolidating fragmented pre-to-post workflows into a single environment for episodic drama creation. A concrete example of AI restructuring how short-form narrative content is produced end to end."
-    },
-    {
-      "url": "https://vfxvoice.com/expanding-the-vfx-playbook-for-ted-season-2/",
-      "title": "Expanding the VFX Playbook for Ted Season 2",
-      "source": "VFX Voice",
-      "category": "movies",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "",
-      "excerpt": "For Ted Season 2, the team blended AI, CG, real-time tools and digital environments, using Deep Voodoo's proprietary software to build a period-accurate Bill Clinton head replacement for Seth MacFarlane that captured speech and facial nuance beyond traditional CG. Shows how generative/AI face tools are entering mainstream episodic VFX pipelines."
-    },
-    {
-      "url": "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/",
-      "title": "Jamie Hearing on how Clear Angle is scanning the future of VFX",
+      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
+      "title": "Foundry's SmartRoto: AI-assisted roto that aims to work the way you do",
       "source": "fxguide",
       "category": "movies",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Clear Angle Studios has become a key part of the modern VFX pipeline, capturing real-world actors and environments via LiDAR and Gaussian splats for teams to reconstruct in production. A look at how machine-learning-assisted scanning is reshaping on-set data capture for filmmakers and VFX artists."
+      "published_iso": "2026-07-16T16:59:49Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
+      "excerpt": "Foundry released SmartRoto, an AI-powered Nuke plugin that accelerates rotoscoping by automating keyframe animation while preserving artist control and precision at image edges. It targets the single most labour-heavy manual task in the VFX pipeline without taking the spline away from the artist."
+    },
+    {
+      "url": "https://postperspective.com/foundry-adds-griptape-enterprise-for-pro-grade-ai-in-vfx/",
+      "title": "Foundry Adds Griptape Enterprise for Pro-Grade AI in VFX",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-07-16T12:00:01Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/11-624x416.jpg",
+      "excerpt": "Foundry introduced Griptape Enterprise, a licensing tier for high-end media production with studio-controlled governance, on-prem infrastructure options and security controls that keep sensitive IP inside the facility while enabling AI-integrated creative workflows."
+    },
+    {
+      "url": "https://www.awn.com/news/foundry-launches-griptape-enterprise-secure-ai-accelerated-vfx-workflows",
+      "title": "Foundry Launches Griptape Enterprise for Secure AI-Accelerated VFX Workflows",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-07-16T16:25:40Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/small_featured/public/image/featured/09_mixed_permissions_limited_api_model_use_-_focusing_on_all_local_-1280.jpg?itok=618XQ3qh",
+      "excerpt": "New tier adds studio-controlled licensing, project management and governance tools for high-end media production, giving pipeline supervisors control over which AI models artists use. Studios can run workflows on-premises or in private cloud to keep sensitive IP, prompts and training data inside the facility."
+    },
+    {
+      "url": "https://postperspective.com/llatest-dalet-flex-lts-boosts-ai-workflows-deepens-dalia-integration/",
+      "title": "Latest Dalet Flex LTS Boosts AI Workflows, Deepens Dalia Integration",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-07-16T19:07:29Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Image-3-Dalet-Flex-Dark-624x416.jpg",
+      "excerpt": "Dalet's latest Long-Term Supported release of Dalet Flex introduces intelligent automation across the media production lifecycle, expanding AI-powered capabilities through deeper Dalia integration to streamline workflows from content acquisition through delivery."
+    },
+    {
+      "url": "https://www.provideocoalition.com/great-ways-to-use-auto-mask-in-final-cut-pro/",
+      "title": "Great ways to use Auto Mask in Final Cut Pro",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-07-16T13:50:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/auto-mask-ui-1.jpg",
+      "excerpt": "Auto Mask in Final Cut Pro 12.3 recognizes people, body parts, scene elements and even pets on every frame with no tracking required, opening up fast selective color correction and VFX work. A practical look at ML-driven masking replacing manual roto inside an NLE."
     },
     {
       "url": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
@@ -38,25 +56,70 @@
       "category": "movies",
       "published_iso": "2026-07-10T00:00:00Z",
       "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-000965-gen-media-tool.jpg",
-      "excerpt": "Adobe's Premiere beta adds a Generative Media Tool that lets editors generate new video and sound effects directly on the timeline without leaving the NLE. A concrete editing-workflow shift folding generative AI into the professional post-production pipeline."
+      "excerpt": "Adobe introduced a Generative Media Tool in Premiere (beta) that lets editors generate video and sound effects directly on the timeline, offering a choice of multiple AI models. Results still require experimentation and consume generative credits."
+    },
+    {
+      "url": "https://www.awn.com/news/nfb-brings-gaussian-splatting-animation-session-siggraph",
+      "title": "NFB Brings Gaussian Splatting Animation Session to SIGGRAPH",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-07-15T16:15:32Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/small_featured/public/image/featured/nfb2-1280.jpg?itok=KQP6kLKI",
+      "excerpt": "Eloi Champagne and Jimmy Fournier lead a July 22 Birds of a Feather session covering Gaussian-based animation workflows, hybrid pipelines and production uses from acquisition through delivery, with examples from NFB works in progress and technical explorations with NVIDIA's Spatial Intelligence Lab and the University of Toronto's Dynamic Graphics Project."
+    },
+    {
+      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
+      "title": "NVIDIA 'Neural Rendering, World Models and Simulation' Keynote Set for SIGGRAPH 2026",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-07-13T18:38:32Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/small_featured/public/image/featured/siggraph1.jpg?itok=P0YDvmmY",
+      "excerpt": "NVIDIA Research and Engineering leaders Neil Ashton, Ming-Yu Liu and Edward Liu will present advances in neural rendering, world models and AI-driven simulation on July 20; SIGGRAPH 2026 runs July 19-23 in Los Angeles."
     },
     {
       "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
-      "title": "SwitchHDR: an AI model for HDR reconstruction from SDR video",
+      "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
       "source": "fxguide",
       "category": "movies",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Beeble unveiled SwitchHDR, an AI model that reconstructs HDR imagery from standard SDR video, outputting scene-linear 16-bit EXR sequences ready for professional HDR VFX and post pipelines. A workflow-changing tool that lets filmmakers pull legacy SDR footage into modern HDR grading and compositing."
+      "published_iso": "2026-07-09T18:15:02Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2.jpg",
+      "excerpt": "Beeble's new AI model reconstructs HDR imagery from standard dynamic range video, outputting scene-linear 16-bit EXR sequences in ACES2065-1 for professional post pipelines. Unlike naive SDR expansion, it is trained on real HDR footage to infer plausible high dynamic range detail."
     },
     {
-      "url": "https://www.provideocoalition.com/topaz-video-in-depth-review/",
-      "title": "Topaz Video - In Depth Review",
-      "source": "ProVideo Coalition",
+      "url": "https://www.redsharknews.com/beeble-switchhdr-sdr-to-hdr-reconstruction",
+      "title": "Beeble launches SwitchHDR to reconstruct HDR from SDR footage",
+      "source": "RedShark News",
       "category": "movies",
-      "published_iso": "2026-07-08T00:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/topaz-thumb.jpg",
-      "excerpt": "An in-depth review of Topaz Video, the AI upscaling and restoration tool (noise reduction, de-interlacing, stabilization) now on a subscription model following Adobe's acquisition of Topaz Labs. Details how AI upscaling/restoration fits into real filmmaker and archival workflows."
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/beeble%20switch%20hdr.jpg",
+      "excerpt": "Beeble released SwitchHDR, an AI-powered tool that reconstructs HDR video from SDR footage, outputting scene-linear 16-bit EXR sequences in ACES2065-1 (AP0) for professional post-production workflows. Service starts at $16/month on pro tiers."
+    },
+    {
+      "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
+      "title": "Beeble's SwitchHDR AI Model Turns SDR Footage Into HDR",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-07-07T21:29:01Z",
+      "og_image": "",
+      "excerpt": "No Film School's take on Beeble's SwitchHDR, an AI model that reconstructs high dynamic range imagery from ordinary SDR video for grading and VFX work — framed for indie filmmakers rescuing legacy or clipped footage."
+    },
+    {
+      "url": "https://www.animationmagazine.net/2026/07/this-is-a-black-and-white-issue-jorge-r-gutierrez-says-death-threats-drove-decision-to-axe-his-genai-animated-project-at-amazon/",
+      "title": "'This Is a Black-and-White Issue': Jorge R. Gutierrez Says Death Threats Drove Decision to Axe His GenAI Animated Project at Amazon",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-07-15T18:21:00Z",
+      "og_image": "",
+      "excerpt": "Director Jorge R. Gutierrez explains why he walked away from Amazon MGM's generative-AI animation initiative, describing the backlash and threats that followed the announcement. A stark read on how far the creative community's tolerance for genAI-native animation production actually extends."
+    },
+    {
+      "url": "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/",
+      "title": "Vigloo Studio: New AI Platform for Short-Form Microdramas",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-07-15T17:21:52Z",
+      "og_image": "",
+      "excerpt": "Korean microdrama platform Vigloo debuted beta access to Vigloo Studio, an AI-native production platform for serialized short-form storytelling that consolidates pre-to-post workflows into one environment. (Note: likely already covered on 2026-07-16 — backfill only.)"
     }
   ]
 }

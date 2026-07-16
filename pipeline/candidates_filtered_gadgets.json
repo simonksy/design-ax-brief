@@ -1,77 +1,197 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "gadgets",
-  "now_iso": "2026-07-16T00:15:00Z",
+  "now_iso": "2026-07-16T23:10:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
-      "source": "Engadget",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-07-15T08:37:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
-      "excerpt": "OpenAI's first hardware product is reportedly a portable, screenless 'AI companion' speaker: per Bloomberg it runs an advanced GPT-Live voice mode, has moving mechanical parts to feel 'alive,' and packs cameras and sensors for contextual awareness."
+      "published_iso": "2026-07-16T15:25:15Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/sXHN6dZcCoRwNcjRKb2pGm-2000-80.jpg",
+      "excerpt": "An exclusive look inside Google's plan for the AI glasses it and Samsung will ship this fall — the designs, the privacy backlash it wants to avoid, and how it intends to fight Meta and Apple for a place on your face."
     },
     {
-      "url": "https://www.digitaltrends.com/cool-tech/openais-first-hardware-product-sounds-more-like-a-companion-than-a-speaker/",
-      "source": "Digital Trends",
+      "url": "https://www.androidcentral.com/wearables/google-integrating-ai-glasses-anti-tampering-protections-android-xr-from-day-one",
+      "source": "Android Central",
       "category": "gadgets",
-      "published_iso": "2026-07-14T20:13:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2025/03/open-ai-331.jpg?resize=1200%2C720",
-      "excerpt": "OpenAI's debut device is framed less as a smart speaker and more as a proactive AI companion — a mobile, context-aware gadget (co-designed with Jony Ive's io) expected to launch in 2027."
+      "published_iso": "2026-07-16T15:26:25Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7Yb2YxiTmNyMZWUkHorksn-2048-80.jpg",
+      "excerpt": "Google is baking anti-tampering protections for the recording indicator into Android XR from day one, saying privacy and trust — not optics or AI — are the biggest hurdles facing smart glasses."
     },
     {
-      "url": "https://www.androidauthority.com/openai-device-screenless-speaker-chatgpt-leak-3687560/",
-      "source": "Android Authority",
+      "url": "https://www.tomshardware.com/peripherals/keyboards/openais-first-hardware-device-is-an-rgb-macropod-codex-micro-features-13-low-profile-keys-and-a-joystick-for-controlling-ai-coding-agents",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-07-14T22:20:00Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/09/OpenAI-on-website-on-smartphone-stock-photo-2.jpg",
-      "excerpt": "A leak describes OpenAI's first hardware as a movable, screenless smart speaker built as a physical ChatGPT companion that can control smart-home appliances, play media and answer questions — half-speaker, half-robot."
+      "published_iso": "2026-07-16T11:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/FfNHvj66S9MmZ5erWjsqAX-1920-80.png",
+      "excerpt": "OpenAI's first shipping hardware turns out to be the Codex Micro, an RGB macropad with 13 low-profile keys and a joystick built to dispatch and steer AI coding agents from a physical control surface."
     },
     {
-      "url": "https://9to5mac.com/2026/07/15/openais-hardware-device-may-partly-compete-with-airpods-ultra/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-07-15T13:02:00Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/OpenAIs-hardware-device-may-partly-compete-with-the-upcoming-AirPods-Ultra.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Analysis argues OpenAI's camera-and-sensor smart speaker would partly overlap with Apple's upcoming AirPods Ultra — but that a wearable form factor is more practical for portable AI than a device you have to carry around."
-    },
-    {
-      "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-15T19:31:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/intro-1784140173.jpg",
-      "excerpt": "OpenAI's first shipping hardware is the Codex Micro, a $230 keypad built with Work Louder to drive its agentic coding tool — customizable LED-status keys, a dial for reasoning levels and a joystick for navigating agent workflows."
-    },
-    {
-      "url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-14T17:10:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Google's Gemma 4 E2B runs directly on the Pixel 10's Tensor G5 TPU, enabling on-device offline AI chat, image recognition and voice transcription with no internet connection — a push for local, private generative AI on the phone."
-    },
-    {
-      "url": "https://gizmodo.com/apple-fcking-did-it-one-month-with-siri-ai-2000784845",
+      "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
       "source": "Gizmodo",
       "category": "gadgets",
-      "published_iso": "2026-07-13T21:55:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3.jpg",
-      "excerpt": "After a year's delay, Apple's rebuilt Siri AI — now powered by Google's Gemini models — ships in iOS 27; a month of use finds it genuinely useful for searching personal data and multi-step tasks, though still short of flawless."
+      "published_iso": "2026-07-15T21:25:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
+      "excerpt": "OpenAI's $230 Codex Micro, made with Work Louder, is a programmable keypad for bossing around AI agents — mechanical switches, a joystick, and illuminated keys that show live agent status."
     },
     {
-      "url": "https://9to5google.com/2026/07/02/meta-glasses-get-premium-usage-limits/",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/asus-rog-xreal-r1-review",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-07-16T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GxAeakJPUPHV95Rw4RxmRG-2560-80.jpg",
+      "excerpt": "Review of the Asus ROG Xreal R1: gaming-focused AR glasses with a 240 Hz display and RGB styling, positioned as the best wearable display for the gaming crowd."
+    },
+    {
+      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-07-16T20:30:02Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DXVLUwA6f3dvwjjfFPUetY-1920-80.jpg",
+      "excerpt": "1X's Neo Beta home robot shows off new hands that can assemble LEGO, unzip a jacket and open a snack bag — the most human-like manipulation yet from a consumer humanoid."
+    },
+    {
+      "url": "https://www.techradar.com/health-fitness/no-sleep-score-no-steps-this-signal-smart-ring-from-an-ex-google-head-is-focused-on-cracking-cuffless-calibration-less-blood-pressure-readings",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-07-16T19:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/brJjeQ9ZaTQXUWgXhYbkhk-2560-80.jpg",
+      "excerpt": "The Signal Ring, from an ex-Google health lead, drops sleep scores and step counts entirely to chase one thing: cuffless, calibration-free blood pressure sensing that Apple and Samsung haven't cracked."
+    },
+    {
+      "url": "https://www.androidauthority.com/oura-ring-5-review-3681682/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-07-16T10:15:05Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Oura-Ring-5-Hand-scaled.jpg",
+      "excerpt": "Oura Ring 5 review: Oura didn't reinvent the smart ring this year, but a slimmer build and refined AI advisor make it the first one that feels like jewelry you'd actually buy."
+    },
+    {
+      "url": "https://www.androidauthority.com/viture-beast-review-3686604/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-07-15T10:00:32Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Viture-Beast-9-scaled.jpg",
+      "excerpt": "VITURE Beast review: the XR glasses fix nearly everything that held back the Luma Pro for $50 more, and are the first pair the reviewer wants to travel with."
+    },
+    {
+      "url": "https://www.gsmarena.com/nubia_navix_ultra_unveiled_their_take_onn_aiagent_phone-news-73744.php",
+      "source": "GSMArena",
+      "category": "gadgets",
+      "published_iso": "2026-07-16T12:00:02Z",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/-952x498w6/gsmarena_00.jpg",
+      "excerpt": "nubia unveils the NaviX Ultra, its take on the 'AI agentic phone' — the concept Chinese phone makers are racing to define, with an on-device agent driving the whole UI."
+    },
+    {
+      "url": "https://www.androidcentral.com/accessories/audio/viaim-recdot-ai-earbuds-transformed-my-meetings",
+      "source": "Android Central",
+      "category": "gadgets",
+      "published_iso": "2026-07-15T13:00:52Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/sNR7cuHj5v7GqNKA5ezyVg-2560-80.jpg",
+      "excerpt": "Hands-on with the Viaim RecDot AI earbuds, which record, transcribe and summarize meetings in real time — an AI hearable that doubles as a note-taker."
+    },
+    {
+      "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-07-13T18:35:45Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg",
+      "excerpt": "Palmer Luckey quietly teased a strikingly compact pair of unannounced Anduril AR glasses — not just smart glasses, he says, but built for full AR."
+    },
+    {
+      "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-07-10T12:59:00Z",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?fit=1920%2C1080&quality=89&ssl=1",
+      "excerpt": "XREAL's new 'X by Xreal' sub-brand brings its first budget XR glasses out of China: the xbx a01+ lands in the US at $300 via Amazon, Best Buy, B&H and Micro Center."
+    },
+    {
+      "url": "https://roadtovr.com/eu-exempt-smart-glasses-battery-privacy/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-07-15T07:15:31Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/ray-ban-prescription.jpg",
+      "excerpt": "The European Commission is moving to exempt smart glasses and other wearables from the EU's user-replaceable battery rules — a legislative tweak that keeps sealed AI glasses shippable in Europe."
+    },
+    {
+      "url": "https://www.uploadvr.com/18birdies-arccos-meta-glasses-ai-golf-caddy/",
+      "source": "UploadVR",
+      "category": "gadgets",
+      "published_iso": "2026-07-07T21:56:23Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/18Birdies-and-Arccos-on-Meta-smart-glasses.png",
+      "excerpt": "The 18Birdies and Arccos apps now plug into Meta AI on Ray-Ban glasses in the US and Canada, turning the wearable into a hands-free AI golf caddy that reads the hole and recommends clubs."
+    },
+    {
+      "url": "https://www.uploadvr.com/meta-still-internally-debating-privacy-of-always-on-ai-glasses/",
+      "source": "UploadVR",
+      "category": "gadgets",
+      "published_iso": "2026-07-09T19:47:40Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/07/Ray-Ban-Meta-next-generation.webp",
+      "excerpt": "Per the FT, Meta is still internally debating how to handle the privacy LED on its next glasses with always-on AI — a design decision that defines whether continuous capture is socially acceptable."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/08/gemini-nest-hub-answer-weather-redesign/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-07-02T16:55:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg",
-      "excerpt": "Meta starts charging $20/month for Meta One Premium, gating the smart glasses' AI 'Conversation Focus' feature to just 3 hours/month free (15 hours paid) — a look at how on-device AI capabilities on wearables are being monetized."
+      "published_iso": "2026-07-08T18:21:28Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Gemini-Nest-Hub-Audio-cover-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Gemini for Home is redesigning its visual answers on Nest Hub and Smart Displays, starting with weather and knowledge cards — the assistant's screen UI being rebuilt around LLM responses."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/09/pixel-magic-cue-gemini/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-09T18:07:01Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Phone-Magic-Cue-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Google appears set to rebrand Pixel's Magic Cue as Gemini 'Proactive Assistance,' folding the phone's ambient, context-aware suggestions under the Gemini umbrella."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/13/xreal-a01-glasses-comparison/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-13T16:15:00Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/xreal-a01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "How XREAL's new $299 a01 glasses stack up against the rest of the lineup — the cheapest entry yet into wearable-display glasses, aimed at movies and games."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/14/prismml-releases-bonsai-27b-claiming-first-major-ai-model-of-its-size-fit-for-iphone/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-07-14T18:02:52Z",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/cosmic-orange-17-pro.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "PrismML released Bonsai 27B, claiming it's the first model of that size that actually runs on an iPhone — a push to move frontier-class on-device AI onto phone silicon."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/13/watchos-27-public-beta/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-07-13T20:45:12Z",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/watchOS-27-public.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "The first watchOS 27 public beta brings the rebuilt Siri AI to Apple Watch, along with a smarter app grid and widgets — Apple Intelligence arriving on the wrist surface."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-07-13T20:45:07Z",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Apple's iOS 27 public beta is out, giving iPhone users their first open shot at the rebuilt Siri AI plus broad performance upgrades."
+    },
+    {
+      "url": "https://www.engadget.com/2217151/activist-group-takes-over-london-bus-stops-with-fake-meta-glasses-ads/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-07-16T22:41:27Z",
+      "og_image": "https://www.engadget.com/img/gallery/activist-group-takes-over-london-bus-stops-with-fake-meta-glasses-ads/l-intro-1784241474.jpg",
+      "excerpt": "An activist group hijacked London bus-stop ad panels with spoof Meta Glasses campaigns, using the brand's own visual language to attack always-on camera wearables."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 8,
+    "kept": 23,
     "against_days": 5
   }
 }

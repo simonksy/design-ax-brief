@@ -1,58 +1,148 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "music",
   "window_hours": 336,
-  "now_iso": "2026-07-16T00:15:00Z",
+  "now_iso": "2026-07-16T23:10:00Z",
   "items": [
     {
-      "url": "https://www.synthtopia.com/content/2026/07/04/tidal-will-label-ai-generated-music-block-it-from-earning-royalties/",
-      "title": "TIDAL Will Label AI-Generated Music, Block It From Earning Royalties",
-      "source": "Synthtopia",
+      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
+      "title": "Pixelsncodes releases Lumen, a FREE open-source Windows synth that turns images into sound",
+      "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-07-04T00:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg",
-      "excerpt": "TIDAL will begin labeling tracks it determines are entirely AI-generated and will block them from earning royalties, prioritizing payouts for music 'directly produced, written, and performed by people' — a policy that directly affects how AI-music creators distribute and get paid."
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen-728x364.jpg",
+      "excerpt": "Pixelsncodes built Lumen — a free open-source wavetable synth with an image-to-wavetable engine that turns pixel data into sound — using the Claude AI coding agent. It is a concrete example of a solo developer shipping a real instrument via AI-assisted coding rather than AI-generated audio."
     },
     {
-      "url": "https://www.soundonsound.com/news/ik-multimedia-introduce-resing-voices-brazilian-pack",
-      "title": "IK Multimedia introduce ReSing Voices Brazilian Pack",
+      "url": "https://www.gearnews.com/peel-stems-2-zplane-studio/",
+      "title": "PEEL STEMS 2: zplane Finally Makes High-Quality Real-Time Stem Separation Actually Fast",
+      "source": "gearnews",
+      "category": "music",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/zplane-PEEL-STEMS-2-T.jpg",
+      "excerpt": "zplane's PEEL STEMS 2 cuts neural stem-separation latency from 483ms to 245ms at 44.1kHz, running entirely locally inside the DAW. The speed-up moves AI demixing from an offline chore into something usable live in a session."
+    },
+    {
+      "url": "https://www.attackmagazine.com/news/peel-stems-2-is-here-with-lower-latency-for-real-time-stem-separation/",
+      "title": "PEEL STEMS 2 Is Here With Lower Latency For Real-Time Stem Separation",
+      "source": "Attack Magazine",
+      "category": "music",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/07/Attack-Mag-News-Feat-Images-Peel-Stems-1.jpg",
+      "excerpt": "zplane's upgraded real-time stem separator nearly halves processing latency while improving separation quality, making AI demixing practical for active production and performance workflows inside the DAW."
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
+      "title": "zplane launches PEEL STEMS 2 with improved real-time stem separation",
+      "source": "Bedroom Producers Blog",
+      "category": "music",
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/peel-stems-728x364.jpg",
+      "excerpt": "PEEL STEMS 2 delivers real-time stem separation inside the DAW with significantly reduced latency and improved audio quality. All processing happens locally, so unreleased or client material never leaves the machine."
+    },
+    {
+      "url": "https://www.soundonsound.com/news/peel-stems-2-zplane",
+      "title": "Peel Stems 2 from zplane",
       "source": "Sound On Sound",
       "category": "music",
-      "published_iso": "2026-07-14T10:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/ik_multimedia_resing_brazilian_voices-_myCd9eY2RT2_VX_LNEwx7kV.VASHyZr.jpg",
-      "excerpt": "IK Multimedia expands its ReSing AI vocal-synthesis platform with eight new Brazilian Portuguese voice models, letting producers turn a scratch vocal into a professional-sounding performance in a new language — a fresh AI-vocals craft tool, launched alongside a Singer Showcase discovery platform."
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg",
+      "excerpt": "zplane has released an updated real-time stem-separation plug-in with processing latency reduced from 483ms to 245ms at 44.1kHz, alongside improved quality and clarity of the separated audio."
     },
     {
-      "url": "https://musictech.com/reviews/plug-ins/meaw-chain-review/",
-      "title": "Can Meaw Chain make 'vibe mixing' a thing?",
-      "source": "MusicTech",
+      "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
+      "title": "Eldoraudio Guitar Audio to MIDI Converter",
+      "source": "gearnews",
       "category": "music",
-      "published_iso": "2026-07-14T18:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg",
-      "excerpt": "Meaw Chain is an AI-powered plugin that analyses your audio and assembles a suitable chain of effects from a natural-language text prompt — pitching 'vibe mixing' as a way to build processing chains by describing the sound you want rather than dialling in each plugin by hand."
+      "published_iso": "2026-07-16T00:00:00Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg",
+      "excerpt": "Eldoraudio's browser-based tool uses AI to convert guitar recordings into editable MIDI automatically, with the first 30 seconds free and paid conversion from $0.25/minute. It removes the manual transcription step between playing a riff and editing it as MIDI."
     },
     {
-      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
-      "title": "Fender Studio Pro 8.1 DAW review",
-      "source": "MusicTech",
+      "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
+      "title": "BandLab Technologies buys Aiode, an AI music studio built on 'fully-licensed' audio",
+      "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-07-15T09:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg",
-      "excerpt": "Fender's Studio Pro 8.1 DAW folds in a suite of AI features — a beta Studio Assistant chatbot, Moises-powered stem separation and generation, voice replacement and Vocal Tune pitch correction — with the review calling the Moises stem quality among the best it has heard."
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Aiode lets creators build tracks with audio-to-audio models made with professional session musicians, directing performances section by section and generating alternate takes for individual parts. BandLab adds it alongside BandLab and Cakewalk, betting that traceable, fully-licensed training audio becomes the default for AI music tools."
     },
     {
       "url": "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/",
-      "title": "BandLab Technologies acquires AI-powered music-making platform Aiode",
+      "title": "BandLab Technologies acquires AI-powered music making platform Aiode",
       "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-15T18:00:00Z",
+      "published_iso": "2026-07-15T15:46:31Z",
       "og_image": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg",
-      "excerpt": "BandLab Technologies has acquired Aiode, an AI music studio that lets creators produce tracks using fully-licensed audio from professional musicians and producers — folding a rights-cleared generative music tool into BandLab's creator platform and signalling where its AI making tools head next."
+      "excerpt": "Aiode is an AI music studio that lets creators compose tracks using fully-licensed professional musician performances, with all training audio sourced and traceable back to the players who made it. BandLab positions it as its AI-native counterpart to mobile BandLab and desktop Cakewalk."
+    },
+    {
+      "url": "https://www.musicradar.com/music-tech/suno-scraped-millions-of-songs-from-youtube-deezer-and-stock-music-libraries-according-to-hacked-data",
+      "title": "Suno scraped millions of songs from YouTube, Deezer and stock music libraries, according to hacked data",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-07-16T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/LDxLT52xLaMhdvEGpwdLwM.jpg",
+      "excerpt": "Hacked data indicates Suno pulled 2,013,545 music clips from YouTube Music alone, plus material from Deezer and stock libraries, to train its models. It is the clearest look yet at what actually sits inside the model producers are prompting."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/suno-scraped-youtube-deezer-and-genius-to-train-its-ai-hacked-code-reveals/",
+      "title": "Suno scraped YouTube, Deezer and Genius to train its AI, hacked code reveals",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-07-16T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Hacked source code shows Suno ingested over 266,000 hours of material from YouTube Music alone, contradicting its claims about respecting paywalls. The revelation reshapes the provenance question for every creator building on Suno's models."
+    },
+    {
+      "url": "https://djmag.com/news/ai-music-platform-suno-scraped-song-data-youtube-deezer-and-genius-hack-reveals",
+      "title": "AI music platform Suno scraped song data from YouTube, Deezer and Genius, hack reveals",
+      "source": "DJ Mag",
+      "category": "music",
+      "published_iso": "2026-07-16T13:24:00Z",
+      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-07/suno-logo-2024-billboard-1548.webp",
+      "excerpt": "A hack reveals Suno scraped millions of songs and lyrics from YouTube, Deezer and Genius to train its generative models, while a November 2025 breach also exposed payment data for hundreds of thousands of users."
+    },
+    {
+      "url": "https://musictech.com/news/industry/ai-music-tagging-system/",
+      "title": "Music industry proposes new system to tag AI-generated songs",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-07-13T09:45:06Z",
+      "og_image": "",
+      "excerpt": "A voluntary labeling scheme would distinguish fully AI-generated tracks from songs that merely used AI as a creative tool, forcing producers to decide how to declare their own AI use. Fans, the industry argues, want to know whether and how generative AI shaped what they hear."
+    },
+    {
+      "url": "https://www.gearnews.com/ai-labeling-music-industry-tech/",
+      "title": "AI Labeling: the music industry introduces 'AI-Generated' and 'AI-Assisted' tags",
+      "source": "gearnews",
+      "category": "music",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/AI-Label-BVMI-T-770x425.jpg",
+      "excerpt": "IFPI, RIAA and others introduce two tags separating tracks where AI creates the core vocal or instrumental from those where humans lead and AI assists. The scheme excludes lyrics and compositions, is entirely voluntary, and Spotify and Apple Music are so far absent."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "source": "TechCrunch",
+      "category": "music",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?w=1024",
+      "excerpt": "Spotify is rolling out a conversational AI feature letting Premium subscribers chat their way to music, blending Spotify's own models with external ones. It launches first in the US, Ireland and Sweden on iOS and Android."
+    },
+    {
+      "url": "https://www.hypebot.com/talk-to-spotify-what-ai-chatbots-mean-for-music-marketing/",
+      "title": "Talk to Spotify: What AI Chatbots Mean for Music Marketing",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-07-16T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Talk-To-Spotify.png",
+      "excerpt": "With Spotify's conversational assistant, discovery shifts from passive algorithms to dialogue — so artists must now treat metadata, bio storytelling and off-platform SEO as the surface an LLM reads. It is a concrete change to how musicians make themselves findable."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 5,
+    "dropped": 1,
+    "kept": 15,
     "against_days": 5
   }
 }

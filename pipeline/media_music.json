@@ -1,10 +1,11 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "music",
   "media": [
-    { "id": "fender-studio-pro", "type": "image", "src": "pipeline/media/fender-studio-pro.jpg" },
-    { "id": "meaw-chain", "type": "image", "src": "pipeline/media/meaw-chain.jpg" },
-    { "id": "resing-brazilian", "type": "image", "src": "pipeline/media/resing-brazilian.jpg" },
-    { "id": "tidal-ai-label", "type": "image", "src": "pipeline/media/tidal-ai-label.jpg" }
+    { "id": "peelstems2", "type": "svg" },
+    { "id": "suno-leak", "type": "image", "src": "pipeline/media/suno-leak.jpg" },
+    { "id": "aiode", "type": "image", "src": "pipeline/media/aiode.jpg" },
+    { "id": "lumen", "type": "image", "src": "pipeline/media/lumen.jpg" },
+    { "id": "spotify-chat", "type": "image", "src": "pipeline/media/spotify-chat.jpg" }
   ]
 }

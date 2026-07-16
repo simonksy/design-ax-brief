@@ -1,69 +1,103 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "music",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
-      "source": "MusicTech",
+      "url": "https://www.soundonsound.com/news/peel-stems-2-zplane",
+      "source": "Sound On Sound",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Fender Studio Pro 8.1 review: an AI-loaded DAW",
-      "rationale": "A full DAW baking in a Studio Assistant chatbot, best-in-class Moises stem separation and vocal replacement/tuning — directly changes how producers work day to day.",
-      "published_iso": "2026-07-15T09:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg",
-      "excerpt": "Fender's Studio Pro 8.1 DAW folds in a suite of AI features — a beta Studio Assistant chatbot, Moises-powered stem separation and generation, voice replacement and Vocal Tune pitch correction — with the review calling the Moises stem quality among the best it has heard."
+      "headline": "Peel Stems 2 from zplane",
+      "rationale": "Halving demixing latency from 483ms to 245ms moves AI stem separation from an offline chore into something usable live in a session — the most directly actionable release in the pool.",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg",
+      "excerpt": "zplane has released an updated real-time stem-separation plug-in with processing latency reduced from 483ms to 245ms at 44.1kHz, alongside improved quality and clarity of the separated audio."
     },
     {
-      "url": "https://musictech.com/reviews/plug-ins/meaw-chain-review/",
-      "source": "MusicTech",
+      "url": "https://www.musicradar.com/music-tech/suno-scraped-millions-of-songs-from-youtube-deezer-and-stock-music-libraries-according-to-hacked-data",
+      "source": "MusicRadar",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Can Meaw Chain make 'vibe mixing' a thing?",
-      "rationale": "Builds an effects chain from a natural-language prompt — a genuinely new interaction model for mixing, high novelty and directly actionable at the desk.",
-      "published_iso": "2026-07-14T18:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg",
-      "excerpt": "Meaw Chain is an AI-powered plugin that analyses your audio and assembles a suitable chain of effects from a natural-language text prompt — pitching 'vibe mixing' as a way to build processing chains by describing the sound you want rather than dialling in each plugin by hand."
+      "headline": "Suno scraped millions of songs from YouTube, Deezer and stock music libraries, according to hacked data",
+      "rationale": "The clearest evidence yet of what actually sits inside a model millions of producers prompt daily — it reshapes the provenance question for anyone building on Suno.",
+      "published_iso": "2026-07-16T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/LDxLT52xLaMhdvEGpwdLwM.jpg",
+      "excerpt": "Hacked data indicates Suno pulled 2,013,545 music clips from YouTube Music alone, plus material from Deezer and stock libraries, to train its models. It is the clearest look yet at what actually sits inside the model producers are prompting."
     },
     {
-      "url": "https://www.soundonsound.com/news/ik-multimedia-introduce-resing-voices-brazilian-pack",
-      "source": "Sound On Sound",
+      "url": "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/",
+      "source": "MusicTech",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "IK Multimedia adds Brazilian voices to its ReSing AI vocal engine",
-      "rationale": "A concrete new AI-vocals release — turn a scratch vocal into a pro performance in a new language — from a credible maker; adds outlet and craft-tool diversity.",
-      "published_iso": "2026-07-14T10:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/ik_multimedia_resing_brazilian_voices-_myCd9eY2RT2_VX_LNEwx7kV.VASHyZr.jpg",
-      "excerpt": "IK Multimedia expands its ReSing AI vocal-synthesis platform with eight new Brazilian Portuguese voice models, letting producers turn a scratch vocal into a professional-sounding performance in a new language — a fresh AI-vocals craft tool, launched alongside a Singer Showcase discovery platform."
+      "headline": "BandLab Technologies acquires AI-powered music making platform Aiode",
+      "rationale": "A fully-licensed, traceable training corpus lands inside a mainstream DAW maker — the direct counterpoint to the Suno leak, and a bet on where AI music tooling settles.",
+      "published_iso": "2026-07-15T15:46:31Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg",
+      "excerpt": "Aiode is an AI music studio that lets creators compose tracks using fully-licensed professional musician performances, with all training audio sourced and traceable back to the players who made it. BandLab positions it as its AI-native counterpart to mobile BandLab and desktop Cakewalk."
     },
     {
-      "url": "https://www.synthtopia.com/content/2026/07/04/tidal-will-label-ai-generated-music-block-it-from-earning-royalties/",
-      "source": "Synthtopia",
+      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
+      "source": "Bedroom Producers Blog",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "headline": "TIDAL will label AI-generated music and block it from earning royalties",
-      "rationale": "A concrete platform policy — not just an industry proposal — flagging fully AI-generated tracks and cutting their royalties; distinct actor and payment angle vs the earlier RIAA/Spotify labeling items.",
-      "published_iso": "2026-07-04T00:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg",
-      "excerpt": "TIDAL will begin labeling tracks it determines are entirely AI-generated and will block them from earning royalties, prioritizing payouts for music 'directly produced, written, and performed by people' — a policy that directly affects how AI-music creators distribute and get paid."
+      "headline": "Pixelsncodes releases Lumen, a FREE open-source Windows synth that turns images into sound",
+      "rationale": "A free instrument a solo developer shipped with an AI coding agent — AI as a way to build tools rather than generate audio, and it costs nothing to try tomorrow.",
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen-728x364.jpg",
+      "excerpt": "Pixelsncodes built Lumen — a free open-source wavetable synth with an image-to-wavetable engine that turns pixel data into sound — using the Claude AI coding agent. It is a concrete example of a solo developer shipping a real instrument via AI-assisted coding rather than AI-generated audio."
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "source": "TechCrunch",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "headline": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "rationale": "Discovery shifts from passive algorithm to dialogue on the largest streaming platform — the surface artists optimise for changes with it.",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?w=1024",
+      "excerpt": "Spotify is rolling out a conversational AI feature letting Premium subscribers chat their way to music, blending Spotify's own models with external ones. It launches first in the US, Ireland and Sweden on iOS and Android."
     }
   ],
-  "dedup_report": {
-    "baseline": "news_data.json -> sections.music (today 2026-07-15 + days 2026-07-10/11/13/14). 13 published URLs/topics scanned; none match the candidate pool.",
-    "candidates_evaluated": [
-      { "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/", "verdict": "KEEP", "reason": "Fresh — no prior Fender Studio DAW story in music history." },
-      { "url": "https://musictech.com/reviews/plug-ins/meaw-chain-review/", "verdict": "KEEP", "reason": "Fresh — new plugin, no prior coverage." },
-      { "url": "https://www.soundonsound.com/news/ik-multimedia-introduce-resing-voices-brazilian-pack", "verdict": "KEEP", "reason": "Fresh — new IK ReSing pack, no match." },
-      { "url": "https://www.synthtopia.com/content/2026/07/04/tidal-will-label-ai-generated-music-block-it-from-earning-royalties/", "verdict": "KEEP", "reason": "Fresh — distinct from riaa-ai-labels (07-11) and spotify-umg-remix: single-platform royalty-blocking action, different actor/angle." },
-      { "url": "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/", "verdict": "DROP", "reason": "Not a dedup drop — dropped by the FINAL-5 DIVERSITY GUARD. MusicTech had 3 candidates (cap is 2); kept the two most actionable tool reviews (Fender, Meaw Chain) and dropped this acquisition/industry-news item as least actionable." }
+  "dedup_notes": {
+    "checked_against": "news_data.json sections.music — today (2026-07-16) + days 2026-07-10..2026-07-15, 18 published cards",
+    "clusters_collapsed": [
+      "PEEL STEMS 2 — 4 articles (gearnews, Attack Magazine, Bedroom Producers Blog, Sound On Sound) are one release; kept Sound On Sound (freshest, concrete latency figures, own image).",
+      "Suno scraping leak — 3 articles (MusicRadar, MBW, DJ Mag) are one story; kept MusicRadar (has og_image, hardest numbers).",
+      "BandLab/Aiode acquisition — 2 articles (MBW, MusicTech) are one story; kept MusicTech (the MBW entry has no og_image).",
+      "Spotify conversational assistant — TechCrunch and Hypebot cover the same launch; kept TechCrunch. Hypebot's metadata/SEO thesis also overlaps the published 2026-07-13 Hypebot card 'brand-audit-ai'."
     ],
-    "diversity_guard": "Final 4: MusicTech x2, Sound On Sound x1, Synthtopia x1 — 3 distinct outlets, <=2 per outlet.",
-    "shortfall": true,
-    "floor": 3,
-    "note": "4 picks (above floor of 3, below cap of 5). The pool held 5 fresh items but the MusicTech cap of 2 limits the achievable diverse total to 4; not padded."
+    "dropped_as_published_duplicates": [
+      {
+        "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
+        "reason": "Same Eldoraudio Guitar Audio-to-MIDI release already published 2026-07-14 as card 'eldoraudio-midi' (Bedroom Producers Blog)."
+      },
+      {
+        "url": "https://musictech.com/news/industry/ai-music-tagging-system/",
+        "reason": "Same IFPI/RIAA voluntary AI-labeling proposal already published 2026-07-11 as card 'riaa-ai-labels' (Music Business Worldwide)."
+      },
+      {
+        "url": "https://www.gearnews.com/ai-labeling-music-industry-tech/",
+        "reason": "Same IFPI/RIAA 'AI-Generated'/'AI-Assisted' tag scheme already published 2026-07-11 as card 'riaa-ai-labels'."
+      }
+    ]
+  },
+  "diversity_check": {
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "outlets": [
+      "Sound On Sound",
+      "MusicRadar",
+      "MusicTech",
+      "Bedroom Producers Blog",
+      "TechCrunch"
+    ],
+    "accents_distinct": true,
+    "note": "The music section has a single category, so each pick takes a distinct accent from the sources.json palette. Topic spread: tooling / provenance / industry M&A / free instrument / streaming platform."
   }
 }

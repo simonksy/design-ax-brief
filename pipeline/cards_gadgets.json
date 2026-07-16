@@ -1,84 +1,108 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "gadgets",
   "cards": [
     {
-      "id": "openai-speaker",
-      "tool": "OpenAI",
+      "id": "google-eyewear",
+      "tool": "Google",
       "eyebrow": "AI NEWS",
-      "headline": "오픈AI의 첫 하드웨어는\n화면 없는 AI 동반 스피커",
-      "body": "오픈AI의 첫 기기는 화면 없는 휴대용 AI 스피커로, 카메라와 센서로 상황을 파악한다고 블룸버그가 전했다.",
-      "mini_headline": "오픈AI 첫 AI 스피커",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
+      "headline": "구글 AI 안경은 디자인이 먼저\n사양은 그 안에서 정한다",
+      "body": "구글은 올가을 삼성·와비파커와 내놓을 AI 안경을 오디오 전용으로 시작하며 디자인을 첫 조건으로 걸었다.",
+      "mini_headline": "AI 안경, 디자인이 먼저",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "video",
+            "yt": "33Sx5FyYrg4"
+          },
+          {
             "t": "p",
-            "x": "오픈AI가 만드는 첫 하드웨어 제품이 화면 없는 휴대용 'AI 동반' 스피커라고 블룸버그가 전했다."
+            "x": "구글 글래스 2.0은 아니다. 구글은 올가을 삼성·와비파커·젠틀몬스터와 손잡고 안드로이드 XR로 돌아가는 'Intelligent Eyewear'를 내놓는다. 메타를, 그리고 애플이 준비 중인 무언가를 겨냥한 진입이다."
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
-            "cap": "오픈AI 첫 기기 상상도"
+            "src": "https://cdn.mos.cms.futurecdn.net/CwDkA8mS3z2mknLGPrYAd5.jpg",
+            "cap": "초대 구글 글래스"
           },
           {
             "t": "p",
-            "x": "고급 GPT-Live 음성 모드로 돌아가고, 살아 있는 듯한 느낌을 주려고 기계적으로 움직이는 부품을 넣었다는 이야기다."
+            "x": "톰스가이드와 만난 구글 XR 제품관리 총괄 저스턴 페인은 2012년 구글 글래스의 실패 이유로 세 가지를 꼽았다. 안경처럼 보이지 않던 형태, 콘텐츠 부재, 다재다능함. 비전은 좋았지만 기술이 못 따라갔다는 것이다. 하드웨어와 플랫폼과 AI라는 블록이 통째로 비어 있었다고 그는 말한다."
           },
           {
             "t": "p",
-            "x": "카메라와 여러 센서를 달아 주변을 읽고 맥락을 파악하도록 설계했다고 한다. 충전식으로, 들고 다니는 것을 염두에 뒀다."
+            "x": "1세대는 오디오만 쓴다. 디스플레이 모델은 나중이고 올해 안에 신뢰 테스터 프로그램을 연다. 제미나이가 개인 맥락을 읽어 일정과 경기 점수를 답하고, 카메라로 위치를 잡아 내비게이션을 안내한다. 번역과 요리 단계 안내도 화면 없이 굴러간다. 페인은 디스플레이를 필수가 아니라 오디오를 거드는 쪽으로 본다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/BR5qJseLxE3fwAfDXh8vCg.jpg",
+            "cap": "스냅 스펙스를 쓴 에번 스피걸 스냅 CEO"
+          },
+          {
+            "t": "p",
+            "x": "순서는 분명하다. 디자인을 앞세우고 나서 그 제약 안에서 무엇을 만들 수 있는지 묻는다. 젠틀몬스터는 런웨이에 올려도 어색하지 않을 오벌 렌즈, 와비파커는 조금 두툼한 레트로다. 스냅 스펙스처럼 티 나는 형태로 새 경험을 밀어붙이는 길도 있지만 구글의 방식은 아니라고 페인은 선을 그었다."
+          },
+          {
+            "t": "p",
+            "x": "남은 지뢰밭은 프라이버시다. 공공장소 촬영을 어떻게 다룰지가 관건인데, 페인의 진단은 짧다. 쓰는 게 불편하면 사람들은 그냥 안 쓴다."
           }
         ]
       }
     },
     {
-      "id": "siri-gemini",
-      "tool": "Apple",
+      "id": "neo-hands",
+      "tool": "1X",
       "eyebrow": "AI NEWS",
-      "headline": "제미나이로 다시 만든 시리\niOS 27에 드디어 담겼다",
-      "body": "제미나이로 새로 만든 시리가 iOS 27에 실렸고, 한 달 써 보니 개인 정보 검색과 다단계 작업에 쓸 만했다.",
-      "mini_headline": "새 시리, 한 달 써 보니",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/apple-fcking-did-it-one-month-with-siri-ai-2000784845",
+      "headline": "1X 네오의 손이 레고를 쌓고\n과자 봉지를 뜯는다",
+      "body": "1X는 모터를 손 밖 팔로 빼고 힘줄처럼 당기는 방식으로 네오의 손에 25자유도를 구현했다.",
+      "mini_headline": "손이 사람에 가까워졌다",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "1년 미뤄졌던 애플의 새 시리가 iOS 27에 실렸다. 이번 시리는 구글 제미나이 모델로 돌아간다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3.jpg",
-            "cap": "iOS 27의 새 시리를 써 보는 모습"
+            "t": "video",
+            "yt": "QRyXV3csReA"
           },
           {
             "t": "p",
-            "x": "기즈모도가 한 달 동안 써 보니, 개인 데이터를 뒤지거나 여러 단계를 거치는 작업에서 제법 쓸 만했다."
+            "x": "1X가 유튜브에 올린 데모에서 네오 베타의 새 손은 전구를 돌려 끼우고, 포도알을 한 알씩 떼어 통에 담고, 나사를 집고, 재킷 지퍼를 내린다. 퍼니언스 과자 봉지도 뜯는다. 듀플로 블록이긴 해도 레고 탑도 제법 쌓는다. 느리지만 사람 손으로 착각할 만큼 매끄럽다."
           },
           {
             "t": "p",
-            "x": "다만 흠 하나 없이 매끄러운 수준까지는 아직 이르지 못했다는 평이다. 그래도 애플 비서에 기대는 사람이라면 챙겨 볼 만한 변화다."
+            "x": "비결은 구조에 있다. 1X는 이 방수 손을 'closed-loop tendon-driven system'이라 부른다. 모터와 서보를 손에서 빼내 팔 쪽으로 옮긴 덕에 손 자체가 작고 유연해졌다. 팔로 물러난 모터는 힘줄 같은 연결선 뭉치를 당기고 놓으며 손을 움직인다. 근육과 힘줄이 아래팔 안에서 당겨지는 사람 손과 닮은 방식이다."
+          },
+          {
+            "t": "p",
+            "x": "손가락과 손바닥, 엄지를 합쳐 25자유도. 영상에서는 사람보다 더 뒤로 꺾이기도 한다. 힘도 만만찮아서 20파운드 덤벨을 들고 손가락 하나로 도르래 추를 감아올린다. 손가락에 센서가 들어가 무엇을 쥐었는지, 힘을 얼마나 줘야 하는지를 안다. 그래서 전구를 깨뜨리지 않는다. 옆에서 휘두른 망치는 달랐지만."
+          },
+          {
+            "t": "p",
+            "x": "지난주 로봇 두 대가 돼지 담낭 수술을 해냈다는 소식과는 결이 다르다. 그쪽은 복강경 조작기를 쥐었을 뿐 미세 조작은 기구 끝에서 일어났다. 메스를 직접 다룬 로봇 손은 없었다."
+          },
+          {
+            "t": "p",
+            "x": "2만 달러짜리 네오가 가정에 들어오면 이 손은 집안일에 쓰인다. 자기 자신을 돌보는 데도 쓴다. 영상 속 네오 베타는 맥세이프 방식 충전 퍽을 집어 제 허리에 붙인다. 1X는 이 손이 현실 세계의 새 학습 데이터를 로봇 개발에 돌려준다고 밝혔다."
           }
         ]
       }
     },
     {
-      "id": "pixel10-gemma4",
-      "tool": "Google",
+      "id": "signal-ring",
+      "tool": "Signal",
       "eyebrow": "AI NEWS",
-      "headline": "픽셀 10 텐서 G5에서\n오프라인으로 도는 젬마 4",
-      "body": "젬마 4가 픽셀 10의 텐서 G5에서 바로 돌아가, 인터넷 없이 AI 대화와 이미지 인식, 음성 받아쓰기를 처리한다.",
-      "mini_headline": "오프라인 도는 젬마 4",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
+      "headline": "커프도 보정도 없이\n혈압 하나만 노리는 반지",
+      "body": "Signal Ring은 수면 점수와 걸음 수를 걷어내고 커프도 보정도 필요 없는 혈압 측정 하나만 남겼다.",
+      "mini_headline": "혈압 하나만 남겼다",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/health-fitness/no-sleep-score-no-steps-this-signal-smart-ring-from-an-ex-google-head-is-focused-on-cracking-cuffless-calibration-less-blood-pressure-readings",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -86,33 +110,45 @@
         "blocks": [
           {
             "t": "p",
-            "x": "구글의 젬마 4 E2B가 픽셀 10의 텐서 G5 TPU에서 바로 돌아간다."
+            "x": "혈압은 오래 PPG 웨어러블의 '성배'로 불렸다. 재려면, 최소한 보정이라도 하려면 부풀리는 커프가 있어야 했다. 화웨이 워치 D는 시계 안에 커프를 넣었고, 애플의 고혈압 감지는 30일치 데이터로 가능성만 짚을 뿐 수치를 주지 않는다. LED 방식으로 이 문제를 푼 곳은 없었다."
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
-            "cap": "구글 텐서 G5 칩"
+            "src": "https://cdn.mos.cms.futurecdn.net/KhRo4yNKAhyXbV5gZBxTNc.jpg",
+            "cap": "Signal Ring"
           },
           {
             "t": "p",
-            "x": "인터넷에 연결하지 않고도 AI 대화와 이미지 인식, 음성 받아쓰기를 폰 안에서 처리한다."
+            "x": "Signal Ring은 구글에서 안드로이드를 이끌었던 톰 모스가 만들었다. 오우라 링 5나 갤럭시 링처럼 지표를 늘어놓지도, 핏빗 에어처럼 AI 비서를 얹지도 않는다. 출발점은 모스 본인이 겪은 '고혈압 응급'이었다. 혈압이 250까지 올랐던 경험을 그는 말이 안 되는 압력이었다고 표현했다."
           },
           {
             "t": "p",
-            "x": "데이터를 밖으로 내보내지 않는 로컬 방식의 생성형 AI로 한 걸음 옮겨 가는 셈이다. 사생활을 앞세운 온디바이스 AI 흐름과 맞닿아 있다."
+            "x": "그 뒤 시중의 혈압 추적 기기를 죄다 사봤지만 쓸 만한 게 없었다고 한다. 갤럭시 워치류는 커프로 한 번 보정한 뒤 다른 생체 신호로 추정하는데, 모스가 원한 건 기준선 대비 변화가 아니라 혈압 자체를 재는 방법이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/EjY65NAh9EEGtJszvzJerL.jpg"
+          },
+          {
+            "t": "p",
+            "x": "LED 심박 센싱 특허로 애플을 고소했던 마시모 출신 과학자·엔지니어들과 3년을 붙어 만들었다. 즉석에서 혈압을 재고, '평균 동맥압'이라는 단일 수치로 하루 종일 수동 추적한 뒤 블루투스로 앱에 보낸다. 애플도 삼성도 못 한 걸 어떻게 했느냐는 물음에 모스는 전문성을 들었다. AI도 마법 같은 신기술도 아니고, 하나의 문제에 가장 잘하는 사람들을 붙였을 뿐이라는 것이다. 걸음 수용 가속도계 같은 센서를 욱여넣지 않은 것도 그래서다."
+          },
+          {
+            "t": "p",
+            "x": "정확도는 기존 혈압 측정과 견주는 실제 테스트로만 확인된다. 사전 주문은 열려 있고 가격은 399달러(약 £295 / AU$770), 구독료는 없다. 출하는 10월이다."
           }
         ]
       }
     },
     {
-      "id": "meta-one-premium",
-      "tool": "Meta",
+      "id": "navix-ultra",
+      "tool": "nubia",
       "eyebrow": "AI NEWS",
-      "headline": "메타 스마트 안경 AI 기능\n월 20달러 유료로 나뉜다",
-      "body": "메타가 월 20달러 '메타 원 프리미엄'을 내놓고, 안경의 AI '대화 집중' 기능을 무료 월 3시간으로 묶었다.",
-      "mini_headline": "메타 안경 AI 유료화",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/07/02/meta-glasses-get-premium-usage-limits/",
+      "headline": "AI 에이전트 폰이라는 이름을\n누비아가 먼저 붙였다",
+      "body": "누비아는 NaviX Ultra를 세계 첫 AI 에이전트 폰으로 내걸었지만 사양은 아직 밝히지 않았다.",
+      "mini_headline": "누비아의 에이전트 폰",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/nubia_navix_ultra_unveiled_their_take_onn_aiagent_phone-news-73744.php",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -120,20 +156,62 @@
         "blocks": [
           {
             "t": "p",
-            "x": "메타가 월 20달러짜리 '메타 원 프리미엄' 구독을 시작했다."
+            "x": "지난주 중국 세계인공지능대회(WAIC)에서 예고했던 물건을 누비아가 공개했다. AI 에이전트가 움직이는 스마트폰, nubia NaviX Ultra다."
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg",
-            "cap": "메타·오클리 스마트 안경"
+            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/inline/-1200/gsmarena_001.jpg",
+            "cap": "nubia NaviX Ultra"
           },
           {
             "t": "p",
-            "x": "스마트 안경의 AI '대화 집중' 기능은 무료로 쓰면 월 3시간까지만 열어 두고, 유료로 올리면 월 15시간까지 늘려 준다."
+            "x": "사양은 아직 나오지 않았다. 대신 웨이보에 디자인을 풀면서 세계 최초의 AI 에이전트 스마트폰이라고 내걸었다. 확인된 건 두바오(Doubao) 모바일 어시스턴트를 얹는다는 점, 그리고 픽셀식 카메라 바 안에 후면 트리플 카메라를 담았다는 점 정도다."
+          },
+          {
+            "t": "img",
+            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_003.jpg"
           },
           {
             "t": "p",
-            "x": "웨어러블에 담긴 온디바이스 AI 기능을 어떻게 돈으로 바꾸는지 보여 주는 첫 신호다."
+            "x": "색상은 Blue Horizon, Black, Dreamscape, White 네 가지. 누비아는 NaviX Ultra가 WAIC 2026에 앞서 2026 SAIL(Super AI Leader) 어워드를 받았다고도 밝혔다. 사양과 가격, 출시 시점은 며칠 안에 더 나올 전망이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bonsai27b",
+      "tool": "PrismML",
+      "eyebrow": "AI NEWS",
+      "headline": "27B 모델을 아이폰 안에\n밀어 넣었다는 주장",
+      "body": "1비트로 약 4GB까지 줄인 Bonsai 27B가 아이폰이 앱에 내주는 6GB 한도를 처음 통과했다.",
+      "mini_headline": "27B가 폰에 들어갔다",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/14/prismml-releases-bonsai-27b-claiming-first-major-ai-model-of-its-size-fit-for-iphone/",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "AI 스타트업 PrismML이 아이폰·아이패드·맥에서 돌아간다는 Bonsai 27B를 내놨다. 같은 날 CEO는 CNBC에 애플이 자사 기술을 들여다보고 있다고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/cosmic-orange-17-pro.webp",
+            "cap": "아이폰 17 프로"
+          },
+          {
+            "t": "p",
+            "x": "휴대폰에 들어간다는 건 저장 용량 숫자가 주는 인상보다 훨씬 빡빡한 관문이다. 폰은 앱에 메모리 전체를 열어주지 않는다. 12GB 아이폰이 온디바이스 모델에 내주는 몫은 6GB 남짓이고, 그 예산을 KV 캐시·활성값과 나눠 써야 한다. 27B 모델을 통상적인 방식으로 빌드하면 근처에도 못 간다. 1비트 Bonsai 27B는 약 4GB로, 여유를 남기고 이 문을 통과한 첫 사례라는 게 회사 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "회사가 밝힌 속도는 NVIDIA GeForce RTX 5090에서 1비트 최대 163 tok/s, 터너리 134 tok/s. M5 Max에서는 각각 87 tok/s와 58 tok/s다. 하이브리드 어텐션 구조에 맞춘 자체 저비트 커널로 MLX를 거쳐 애플 기기에서, CUDA를 거쳐 NVIDIA GPU에서 네이티브로 돈다. 가중치는 Apache 2.0으로 열렸고 기간 한정 무료 개발자 프리뷰 API도 함께 연다."
+          },
+          {
+            "t": "p",
+            "x": "CEO 바박 하시비는 애플을 비롯한 여러 회사가 속도와 전력 효율, 기기 성능을 재보는 중이라며 논의가 아주 초기 단계라고 했다. 애플은 논평 요청에 즉시 답하지 않았다. 9to5Mac은 두 가지를 갈라서 보라고 짚는다. 기술 검증은 전문가 몫이고, 애플 얘기는 신제품 화제 몰이에 쓰이는 중이라는 것이다."
           }
         ]
       }

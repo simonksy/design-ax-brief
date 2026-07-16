@@ -1,84 +1,115 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "cards": [
     {
-      "id": "fender-studio-pro",
+      "id": "peelstems2",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "AI를 가득 채운 DAW\nFender Studio Pro 8.1",
-      "body": "스튜디오 어시스턴트 챗봇과 최상급 Moises 스템 분리, 보컬 교체·튜닝까지 한 DAW에 담았다.",
-      "mini_headline": "AI 가득한 펜더 DAW",
-      "source": "MusicTech",
-      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
+      "headline": "실시간 스템 분리 지연이\n483ms에서 245ms로",
+      "body": "44.1kHz 기준 처리 지연이 483ms에서 245ms로 줄었고 분리 음질도 함께 나아졌다.",
+      "mini_headline": "지연 절반 줄인 스템 분리",
+      "source": "Sound On Sound",
+      "url": "https://www.soundonsound.com/news/peel-stems-2-zplane",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg" },
-          { "t": "p", "x": "펜더의 DAW Fender Studio Pro 8.1이 AI 기능 한 묶음을 끌어안았다." },
-          { "t": "p", "x": "베타로 들어온 스튜디오 어시스턴트 챗봇, Moises 기반 스템 분리와 생성, 보컬 교체, 음정을 잡아 주는 Vocal Tune까지 담겼다." },
-          { "t": "p", "x": "리뷰는 Moises 스템 품질을 지금껏 들어 본 것 가운데 가장 뛰어난 축으로 꼽았다." }
+          { "t": "img", "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg" },
+          { "t": "p", "x": "zplane이 실시간 스템 분리 플러그인 Peel Stems의 2버전을 내놨다. 속도와 음질, 사용성을 두루 손봤다." },
+          { "t": "p", "x": "44.1kHz에서 처리 지연이 483ms에서 245ms로 49% 내려갔다. 아티팩트가 줄어 스템이 더 깨끗하게 갈리고, 아이솔레이션 슬라이더는 효과 폭과 조절 범위가 넓어졌다. Focus EQ의 Focus Frame에는 상·하단 컷오프 주파수가 뜬다. Intel 맥도 계속 지원한다(지연 385ms)." },
+          { "t": "p", "x": "공동창업자 겸 CTO Tim Flohrer는 DAW 안에서 도는 실시간 스템 분리를 한 걸음 더 밀어붙이려 했다고 말한다." },
+          { "t": "p", "x": "AU·VST3·AAX를 지원하는 DAW에서 곧바로 돌아가고, 처리는 로컬에서 끝나 저작물을 서버에 올릴 일이 없다. 구독 없는 1회 구매로 €59, 기존 사용자는 €19에 업그레이드한다. Windows 10 이상, macOS 13 이상." }
         ]
       }
     },
     {
-      "id": "meaw-chain",
+      "id": "suno-leak",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "말로 이펙트 체인을 짜는\nMeaw Chain",
-      "body": "Meaw Chain은 오디오를 분석해 자연어 프롬프트만으로 어울리는 이펙트 체인을 짜 준다.",
-      "mini_headline": "말로 짜는 이펙트 체인",
-      "source": "MusicTech",
-      "url": "https://musictech.com/reviews/plug-ins/meaw-chain-review/",
+      "headline": "해킹 데이터가 드러낸\nSuno의 음원 수집 규모",
+      "body": "해킹 데이터를 보면 Suno는 YouTube Music에서만 음악 클립 2,013,545개를 학습에 끌어다 썼다.",
+      "mini_headline": "Suno 학습 데이터 유출",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/music-tech/suno-scraped-millions-of-songs-from-youtube-deezer-and-stock-music-libraries-according-to-hacked-data",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg" },
-          { "t": "p", "x": "Meaw Chain은 오디오를 분석해 어울리는 이펙트 체인을 자연어 프롬프트로 짜 주는 AI 플러그인이다." },
-          { "t": "p", "x": "플러그인을 하나씩 손으로 맞추는 대신 원하는 소리를 말로 풀어 처리 체인을 세우는 방식으로, '바이브 믹싱'이라는 개념을 내세운다." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/LDxLT52xLaMhdvEGpwdLwM.jpg" },
+          { "t": "p", "x": "404 Media가 입수한 해킹 데이터에 따르면 Suno는 YouTube Music, Deezer, Genius, 여러 스톡 음악 라이브러리에서 수백만 곡의 음악과 가사, 팟캐스트를 긁어모은 정황이 있다. Ellie.191이라는 가명의 해커가 2023년과 2024년 소스 코드를 해킹해 얻은 자료다." },
+          { "t": "p", "x": "한 파일에는 YouTube Music에서만 최소 음악 클립 2,013,545개를 가져갔다고 적혀 있다. 다른 파일의 데이터셋 목록을 보면 YouTube Music 113,879시간, 스톡 라이브러리 Pond5 62,117시간, Deezer 12,287시간, Genius 17,615시간 분량이다. 보컬 모델은 YouTube의 아카펠라 버전으로 학습시켰고, PodcastIndex를 거쳐 팟캐스트 약 100만 시간을 내려받으려 한 흔적도 남았다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/bNuzMzALrFrK9PmFZNDTdk.png", "cap": "(Image credit: Suno/Web)" },
+          { "t": "p", "x": "2023년 출시된 Suno는 유료 구독자 200만 명을 넘겼고 기업가치 54억 달러에 4억 달러 넘는 투자를 받았다. 2024년 RIAA가 대리한 메이저 레이블들이 건 저작권 소송이 아직 진행 중이다. Suno는 학습 목적의 복제가 공정이용이라는 입장이고, CEO Mikey Shulman은 “learning is not infringing”이라고 썼다." },
+          { "t": "p", "x": "2025년 11월 Warner Music이 3대 메이저 중 처음으로 라이선스 계약을 맺고 소송을 접었다. 올 2월에는 아티스트 단체가 Say No To Suno 캠페인을 열고 공개서한을 냈다." }
         ]
       }
     },
     {
-      "id": "resing-brazilian",
+      "id": "aiode",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "ReSing에 브라질 목소리\n여덟 종을 더하다",
-      "body": "IK Multimedia가 ReSing에 브라질 포르투갈어 보이스 여덟 종을 더해, 가이드 보컬을 새 언어로 완성한다.",
-      "mini_headline": "ReSing, 브라질 보이스",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/ik-multimedia-introduce-resing-voices-brazilian-pack",
+      "headline": "BandLab이 인수한 Aiode,\n학습 음원 전부 라이선스",
+      "body": "BandLab Technologies가 학습 오디오 100%를 라이선스한 AI 음악 스튜디오 Aiode를 인수했다.",
+      "mini_headline": "BandLab, Aiode 인수",
+      "source": "MusicTech",
+      "url": "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/ik_multimedia_resing_brazilian_voices-_myCd9eY2RT2_VX_LNEwx7kV.VASHyZr.jpg" },
-          { "t": "p", "x": "IK Multimedia가 AI 보컬 합성 플랫폼 ReSing에 브라질 포르투갈어 보이스 모델 여덟 종을 더했다." },
-          { "t": "p", "x": "가이드 보컬을 새 언어의 프로급 완성본으로 바꿔 주는 AI 보컬 도구로, 아티스트를 발굴하는 Singer Showcase 플랫폼과 함께 나왔다." }
+          { "t": "img", "src": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg", "cap": "Credit: BandLab Technologies/Aiode" },
+          { "t": "p", "x": "BandLab, Cakewalk, ReverbNation, Airbit를 만든 BandLab Technologies가 Aiode를 인수했다. 전문 세션 연주자와 프로듀서의 연주를 전량 라이선스한 오디오로 곡을 만드는 AI 스튜디오다. BandLab, Cakewalk에 이은 세 번째 제작 플랫폼이 됐다." },
+          { "t": "p", "x": "빈 프로젝트에서 시작하거나 자기 오디오를 불러온 뒤 연주자와 스타일 모델을 골라 트랙 위에 연주시킨다. 구간별로 연주를 지시하고, 특정 파트만 다른 테이크로 다시 뽑아도 나머지 곡은 그대로다. 완성본은 스템이나 믹스로 내려받는다." },
+          { "t": "p", "x": "Aiode 모델을 학습시킨 오디오는 연주자의 연주를 포함해 100% 라이선스를 받았고 출처까지 되짚을 수 있다. 인수 뒤에도 별도 제품으로 남고 기존 사용자 서비스도 끊기지 않는다." },
+          { "t": "p", "x": "2022년 창업한 Idan Dobrecki와 Blue Dobrecky가 각각 CEO와 COO로 계속 이끈다. 네이티브 오디오 레코딩과 DAW 기능 확장은 다음 버전 몫이다." }
         ]
       }
     },
     {
-      "id": "tidal-ai-label",
+      "id": "lumen",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "AI 생성곡에 표시 달고\n로열티를 막는 TIDAL",
-      "body": "TIDAL이 전부 AI로 만든 곡에 표시를 달고 로열티 지급을 막아, 사람이 만든 음악에 수익을 몰아준다.",
-      "mini_headline": "TIDAL, AI곡 로열티 차단",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/07/04/tidal-will-label-ai-generated-music-block-it-from-earning-royalties/",
+      "headline": "이미지를 소리로 바꾸는\n무료 오픈소스 신스 Lumen",
+      "body": "Pixelsncodes가 Claude 코딩 에이전트로 만든 Lumen은 이미지를 웨이브테이블로 읽어낸다.",
+      "mini_headline": "이미지로 소리 만드는 Lumen",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg" },
-          { "t": "p", "x": "TIDAL이 전부 AI로 만들었다고 판단한 트랙에 표시를 달기 시작하고, 그 곡의 로열티 적립도 막는다." },
-          { "t": "p", "x": "\"사람이 직접 제작하고 쓰고 연주한\" 음악에 지급을 몰아주려는 정책으로, AI 음악 창작자가 곡을 유통하고 대가를 받는 방식에 곧장 영향을 준다." }
+          { "t": "img", "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen.jpg" },
+          { "t": "p", "x": "개발자 Pixelsncodes가 Lumen을 공개했다. 이미지를 소리로 바꾸는 무료 오픈소스 웨이브테이블 신스로, 윈도우 전용이다. Claude AI 코딩 에이전트로 만들었다." },
+          { "t": "p", "x": "웨이브테이블 오실레이터 두 개에 Morph, Pan, Unison, Detune, Width, Blend를 따로 물렸다. 멀티웨이브 서브 오실레이터와 멀티모드 노이즈, 드라이브 달린 스테이트 배리어블 필터로 질감을 더한다. ADSR 엔벨로프 세 개, 드래그 앤 드롭 LFO 세 개, Drive·Chorus·Delay·Reverb를 묶은 멀티 FX도 들어간다." },
+          { "t": "p", "x": "가장 낯선 건 이미지의 바이트를 읽어 웨이브테이블로 만드는 엔진이다. 아무 이미지나 끌어다 놓으면 된다. 새로운 발상은 아니어서, Serum이나 Ableton의 Image2Wavetable Max for Live 디바이스도 픽셀 밝기를 소리로 옮긴다." },
+          { "t": "p", "x": "화면은 Play와 Deep 둘. Deep에서 모든 파라미터를 만지고, Play에는 이미지 엔진과 Tone·Motion·Space·Texture 매크로 넷만 남는다. 프리셋 32개가 Bass, Leads, Pads, Keys, Textures로 나뉘어 함께 온다. 지금은 GitHub에서 윈도우용 VST3와 스탠드얼론으로 받고, macOS 버전은 개발 중이다." }
+        ]
+      }
+    },
+    {
+      "id": "spotify-chat",
+      "tool": "Music",
+      "eyebrow": "AI NEWS",
+      "headline": "Spotify에 말을 거는\n대화형 음악 어시스턴트",
+      "body": "Spotify가 Premium 이용자용 대화형 AI를 미국·아일랜드·스웨덴의 iOS와 Android에 먼저 연다.",
+      "mini_headline": "Spotify 대화형 AI 베타",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "video", "src": "https://cdn.jwplayer.com/videos/wmO3PYGZ-lF2gWf1A.mp4" },
+          { "t": "p", "x": "Spotify Premium 사용자가 이제 앱과 대화를 주고받으며 무엇을 들을지 고른다. 미국, 아일랜드, 스웨덴에서 iOS와 Android에 먼저 열리고, 만 18세 이상 영어로만 쓴다. 베타라 매번 매끄럽진 않겠지만 피드백으로 다듬겠다는 설명이다." },
+          { "t": "p", "x": "밑에서 도는 기술은 자세히 밝히지 않았다. Spotify는 TechCrunch에 자사 모델과 여러 공급사 모델을 섞어 쓰며 작업에 맞는 쪽을 고른다고 확인해줬다." },
+          { "t": "img", "src": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png", "cap": "You can now talk to Spotify" },
+          { "t": "p", "x": "대화 범위가 기존 AI DJ 밖으로 넓어져, 모바일 홈과 재생 화면에서 타이핑이나 목소리로 말을 건다. 곡의 영감이나 앨범 발매일을 묻고, 지금 듣는 음악을 근거로 다른 아티스트를 추천받는다. 어떤 곡을 처음 재생한 게 언제인지 같은 자기 기록도 물을 수 있다." },
+          { "t": "p", "x": "“처음 들어보는 아티스트를 틀어줘”라고 한 뒤 특정 아티스트를 이름으로 넣거나 최근 곡으로 좁히는 식으로 이어간다. 곡 저장, 큐 추가, 아티스트 팔로우도 이 안에서 시킨다. 해당 지역 모바일에 순차 배포 중이다." }
         ]
       }
     }

@@ -1,80 +1,168 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "science",
-  "now_iso": "2026-07-16T00:15:00Z",
+  "now_iso": "2026-07-16T23:10:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
-      "source": "Physics World",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/nobel-prize-winning-physicist-and-team-use-claude-ai-to-solve-decades-old-math-puzzle",
+      "source": "Live Science",
       "category": "science",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
-      "excerpt": "As AI systems become embedded across physics research — from particle detection to materials discovery — Physics World examines the 'black box' problem: researchers increasingly struggle to understand how these models reach their conclusions, raising questions about whether science is entering an era of discoveries without full comprehension.",
-      "note": "SURVIVOR re-included. On-list (physicsworld.com). Verified via WebFetch: published July 14, 2026; freshness.py science -> FRESH. Directly about how AI is changing scientific method/practice (interpretability of AI-driven discovery). Distinct outlet."
+      "published_iso": "2026-07-16T19:16:53Z",
+      "og_image": null,
+      "excerpt": "Nobel laureate Giorgio Parisi and Francesco Zamponi used Anthropic's Claude to crack a decade-old problem in jamming physics, proving why two parameters always sum to 1. The team reached a publishable proof in roughly 40 prompts, shifting their view of what LLMs can contribute to theoretical physics."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "url": "https://www.genengnews.com/topics/genome-editing/ai-designed-synthetic-crispr-like-nucleases-show-activity-in-cells/",
+      "source": "GEN",
+      "category": "science",
+      "published_iso": "2026-07-16T18:15:55Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2023/06/GettyImages-1396008671.jpg",
+      "excerpt": "Researchers used AI to design synthetic RNA-guided nucleases with properties not found in nature, matching or exceeding the activity of natural CRISPR enzymes in cells. The Science paper lays out a strategy for generating non-natural genome-editing proteins from scratch."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/c426b813-2ec9-45c5-96ed-52b96a74ca63/graph-blue.jpg",
+      "excerpt": "OpenAI's GPT-5.6 Sol resolved the cycle double cover conjecture, open for more than 50 years. The account details the prompting scaffolding — parallel agents, persistent nudging — that turned a chatbot into a working proof collaborator."
+    },
+    {
+      "url": "https://www.universetoday.com/articles/artificial-intelligence-is-easily-fooled-in-the-search-for-life",
+      "source": "Universe Today",
+      "category": "science",
+      "published_iso": "2026-07-14T19:21:52Z",
+      "og_image": "https://www.universetoday.com/article_images/ooastrobiology.9_20260714_185400.jpg",
+      "excerpt": "Neural networks trained to spot biosignatures can be fooled into confidently misclassifying molecules that fall outside their training distribution. Researchers drove false-positive rates to 100% with as few as 150 modifications, arguing for human verification in life-detection missions."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-powered-electronic-nose-distinguish.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-that-smells-and.jpg",
+      "excerpt": "DGIST researchers built an artificial olfactory system pairing metal-organic frameworks with AI that can discriminate tens of thousands of distinct odors. It mimics human smell via combinatorial coding across sensors, with uses from disease diagnosis to environmental monitoring."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-tool-equations-complex.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/clarkson-researchers-d.jpg",
+      "excerpt": "Clarkson University unveiled KANDy, an AI system that recovers the governing equations of complex, chaotic systems directly from data. Unlike black-box predictors, it returns interpretable symbolic dynamics alongside its forecasts."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-optimizing-rna-ai-ising-machine.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/optimizing-rna-design.jpg",
+      "excerpt": "Keio University researchers used a machine-learning framework called FMQA with an Ising machine to design RNA sequences that fold into target structures. The study finds the encoding strategy is decisive to how well AI and quantum-inspired optimizers perform."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
       "source": "ScienceDaily",
       "category": "science",
-      "published_iso": "2026-07-07T02:50:47Z",
-      "og_image": null,
-      "excerpt": "Researchers at the University of Osaka trained an AI model on molecular-dynamics simulations to evaluate 16 structural descriptors and identify the most effective ways to distinguish water's two competing liquid states, helping pin down a hidden 'critical point' in supercooled water and clarifying the origin of water's anomalous properties.",
-      "note": "SURVIVOR re-included. On-list (sciencedaily.com). Verified: published 2026-07-07T02:50:47Z; freshness.py science -> FRESH. AI applied to a long-standing physics/chemistry problem (structure of water). Distinct outlet."
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+      "excerpt": "Computer scientist Peter J. Denning argues AI has been built on a flawed assumption traceable to Turing's 1950 paper. His claim: machines cannot encode tacit knowledge — common sense, embodied skill — so human-level AI stays out of reach."
     },
     {
-      "url": "https://phys.org/news/2026-07-physics-ai-drug-patches-bandages.html",
-      "source": "Phys.org",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp",
+      "excerpt": "University of Illinois researchers found the brain begins deciding earlier than assumed, with primary sensory regions participating through feedback loops. The team frames it as a lesson for AI: feedforward CNN-style architectures may be missing a cheaper, biologically grounded design."
+    },
+    {
+      "url": "https://physicsworld.com/a/ai-enhanced-rare-event-sampling-helps-predict-extreme-weather/",
+      "source": "Physics World",
       "category": "science",
       "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-informed-ai-co.jpg",
-      "excerpt": "Brown University researchers show that physics-informed neural networks combining Fick's law of diffusion with sparse experimental data can accurately predict long-term drug-release rates from controlled-release patches and bandages, matching outcomes using roughly 6% of the data for simple geometries and about 33% for complex ones.",
-      "note": "NEW. On-list (phys.org). Verified via WebFetch: published July 6, 2026; freshness.py science -> FRESH. AI-advances-method hook: physics-informed ML slashes experimental burden in drug-delivery materials design. phys.org item 1 of 3 (collection cap). Not in exclusion list."
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/6-07-26-urban-heat-seattle-1187838-istock-dizzo.jpg",
+      "excerpt": "An AI+RES framework couples machine learning emulators with rare-event sampling to estimate how often extreme heatwaves occur. It matches conventional climate simulations while using up to 1,000x less compute, making rare-event statistics tractable."
     },
     {
-      "url": "https://phys.org/news/2026-07-ai-reveals-hidden-san-andreas.html",
-      "source": "Phys.org",
+      "url": "https://physicsworld.com/a/large-physics-models-boost-the-performance-of-passenger-cars/",
+      "source": "Physics World",
       "category": "science",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/san-andreas-fault-hidd.jpg",
-      "excerpt": "Scientists at the GFZ Helmholtz Centre for Geosciences used artificial intelligence to detect previously hidden slow-slip ('silent') events on California's San Andreas Fault, finding these creeping fault movements are followed by measurably increased seismic activity — a new AI-enabled window into earthquake precursors.",
-      "note": "NEW. On-list (phys.org). Verified via WebFetch: published July 9, 2026; freshness.py science -> FRESH. AI applied to geophysics/seismology discovery. phys.org item 2 of 3. Not in exclusion list."
+      "published_iso": "2026-07-16T13:30:08Z",
+      "og_image": null,
+      "excerpt": "A Physics World episode on 'large physics models' — AI systems trained on physics rather than text — applied to vehicle aerodynamics. David Wheater explains blending computational fluid dynamics with wind-tunnel data to build surrogate models."
     },
     {
-      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
-      "source": "Phys.org",
+      "url": "https://www.chemistryworld.com/news/protein-wrappers-designed-by-ai-solve-membrane-proteins-solubility-problem/4023797.article",
+      "source": "Chemistry World",
+      "category": "science",
+      "published_iso": "2026-07-03T07:12:00Z",
+      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xany/9/6/3/549963_wc29_06_2026_proteinwrapsinarticle_785389.jpg",
+      "excerpt": "University of Washington researchers designed AI-generated protein sheaths ('Wraps') that solubilise membrane proteins while preserving their structure and function. The sequences are genetically encoded and co-expressed with the target protein in E. coli."
+    },
+    {
+      "url": "https://www.statnews.com/2026/07/14/anthropic-claude-science-kendall-square/",
+      "source": "STAT",
       "category": "science",
       "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/ai-and-medical.jpg",
-      "excerpt": "North Carolina State University researchers built BINND (Binding and Interaction Neural Network for DNA), a deep-learning model trained on 144 million DNA sequence pairs that predicts which DNA strands bind to one another with 83.5% accuracy — at least 10% better than prior methods — with applications in DNA computing, data storage and diagnostics.",
-      "note": "NEW. On-list (phys.org). Verified via WebFetch: published July 14, 2026; freshness.py science -> FRESH. Distinct genomics/DNA-nanotech story (not the excluded protein-sequence or ChemGraph items). phys.org item 3 of 3 (collection cap reached)."
+      "og_image": null,
+      "excerpt": "Anthropic unveiled Claude Science, an AI application aimed at biopharma research labs. The piece frames it as a test of whether AI in the lab advances discovery rather than just trimming cost."
     },
     {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/virtual-cells-go-multiscale-to-predict-complex-biology/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "url": "https://www.scientificamerican.com/article/can-the-chances-of-a-successful-ivf-pregnancy-be-improved-with-ai/",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/06/AI_Virtual-Modeling-2-Ginkgo-Datapoints-Firefly-Upscaler-2x-scale-copy-e1783601898859.jpg",
-      "excerpt": "GEN surveys how AI-based 'virtual cell' foundation models are moving multiscale — integrating molecular, cellular and tissue-level data to predict how cells respond to genetic and chemical perturbations — reshaping drug discovery through better therapeutic targeting and disease modeling.",
-      "note": "NEW. On-list (genengnews.com). Verified via WebFetch: published July 9, 2026; freshness.py science -> FRESH. AI-advances-method hook in computational biology (virtual cell models). Distinct outlet for diversity; not AI-industry funding noise."
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/440d2277-8fcc-49b8-b76c-099f8c9c0701/Embryos.jpg",
+      "excerpt": "Fertility clinics are deploying AI for sperm and embryo selection, but experts are split on whether it raises live-birth rates. Limited clinical validation and ethical questions dominate the debate."
     },
     {
-      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
-      "source": "Quanta Magazine",
+      "url": "https://www.scientificamerican.com/article/is-ai-ruining-our-skills-early-results-are-in-and-theyre-not-good/",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp",
-      "excerpt": "Quanta explores thermodynamic computers — chips (from startups Normal Computing and Extropic) that harness thermal fluctuations and noise to compute, promising to run generative-AI algorithms with dramatically lower energy use, a physics-driven rethink of the hardware substrate underlying modern AI.",
-      "note": "NEW. On-list (quantamagazine.org). Verified via WebFetch: published July 15, 2026; freshness.py science -> FRESH. Physics-of-computing story with a direct AI hook (energy-efficient hardware for generative AI). Distinct outlet."
+      "published_iso": "2026-07-05T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/m/3e3647770b00ff66/original/GettyImages-2217548501_resized.jpeg",
+      "excerpt": "Early evidence suggests AI-driven 'deskilling' is already measurable in medicine and software engineering. The piece reviews studies where professionals leaning on AI tools lose independent proficiency."
     },
     {
-      "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
-      "source": "MIT News",
+      "url": "https://www.genengnews.com/topics/bioprocessing/modular-modeling-drives-smarter-mrna-manufacturing/",
+      "source": "GEN",
+      "category": "science",
+      "published_iso": "2026-07-15T16:00:59Z",
+      "og_image": null,
+      "excerpt": "A mechanistic modeling framework augmented with machine learning optimizes mRNA process parameters and enables quality-by-design manufacturing. The modular approach links unit operations so models transfer across processes."
+    },
+    {
+      "url": "https://www.genengnews.com/topics/bioprocessing/ai-could-give-cgt-sector-greater-manufacturing-insights-and-control/",
+      "source": "GEN",
+      "category": "science",
+      "published_iso": "2026-07-15T16:00:38Z",
+      "og_image": null,
+      "excerpt": "Machine learning applied to cell and gene therapy manufacturing promises predictive control and real-time anomaly detection. Proponents argue it could turn a batch-art process into a measurable, closed-loop one."
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.06.736700v1",
+      "source": "bioRxiv",
+      "category": "science",
+      "published_iso": "2026-07-16T00:00:00Z",
+      "og_image": null,
+      "excerpt": "A preprint shows biological continued pretraining reshapes a foundation model's capability profile without catastrophic forgetting — 'biological CPT does not degrade the model; it lifts it' across knowledge, code and biomedical benchmarks. Evidence that domain science data can improve general models rather than narrow them."
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.08.737358v1",
+      "source": "bioRxiv",
       "category": "science",
       "published_iso": "2026-07-13T00:00:00Z",
       "og_image": null,
-      "excerpt": "MIT CSAIL researchers built 'SceneSmith,' a system that uses three collaborating AI agents to assemble realistic 3D indoor scenes — objects, walls and overall look — giving robots virtual playgrounds to practice skills and generate the training data they need before real-world deployment.",
-      "note": "NEW. On-list (news.mit.edu). Verified via WebFetch: published July 13, 2026; freshness.py science -> FRESH. Borderline-but-kept for funnel width: agentic-AI method for generating scientific/robotics training data. Distinct outlet; curator may deprioritize vs. pure discovery items."
+      "excerpt": "EcoXAI is an autonomous agentic ecosystem for explainable AI in biomedical discovery, grounding multi-agent analysis in established biological knowledge. It targets the interpretability gap that blocks AI findings from entering the literature."
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.11.737987v1",
+      "source": "bioRxiv",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": null,
+      "excerpt": "MolMAE is a surface-centric multimodal masked autoencoder for molecular representation learning. It fuses molecular surface, graph and sequence views to improve property prediction across diverse tasks."
     }
   ]
 }
