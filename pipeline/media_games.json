@@ -1,9 +1,31 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "games",
   "media": [
-    { "id": "steam-ai-flood", "type": "image", "src": "pipeline/media/steam-ai-flood.jpg" },
-    { "id": "sony-synthetic-assets", "type": "image", "src": "pipeline/media/sony-synthetic-assets.jpg" },
-    { "id": "capybara-vibe-code", "type": "image", "src": "pipeline/media/capybara-vibe-code.jpg" }
+    {
+      "id": "joga-100",
+      "type": "image",
+      "src": "pipeline/media/joga-100.jpg"
+    },
+    {
+      "id": "unity-mcp",
+      "type": "image",
+      "src": "pipeline/media/unity-mcp.jpg"
+    },
+    {
+      "id": "mw4-ai",
+      "type": "image",
+      "src": "pipeline/media/mw4-ai.jpg"
+    },
+    {
+      "id": "dear-passengers",
+      "type": "image",
+      "src": "pipeline/media/dear-passengers.jpg"
+    },
+    {
+      "id": "cnc-vibe-port",
+      "type": "image",
+      "src": "pipeline/media/cnc-vibe-port.jpg"
+    }
   ]
 }

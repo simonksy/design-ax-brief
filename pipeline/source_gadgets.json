@@ -1,0 +1,104 @@
+{
+  "section": "gadgets",
+  "items": [
+    {
+      "url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
+      "headline": "No, not Google Glass 2.0 — this is what’s really going on with the smart glasses coming this fall from Google and Samsung",
+      "body_text": "This is very much not Google Glass 2.0. Google is entering the AI smartglasses arena this fall to go up against Meta (and whatever Apple is cooking), and it’s partnering with Samsung, Warby Parker and Gentle Monster to make “Intelligent Eyewear” powered by Android XR.\n\nAs you might expect, Gemini is the headline feature. Having a smart assistant as your literal eyes has the potential to help you get a lot done on the go without having to constantly whip out your phone. But Juston Payne, who leads the product management team for XR at Google, also knows that the smart glasses category is fraught with controversy, especially over how to handle recording in public and user privacy.\n\n“If people don't feel comfortable wearing these glasses, and privacy is part of this, they just won't wear the glasses. It’s as simple as that,” Payne said.\n\nI had a chance to sit down with Payne to discuss these issues and a lot more ahead of the Intelligent Eyewear launch, including how to design for the masses, the roadmap to built-in displays and the totally separate Android XR spatial computing glasses coming from Xreal this year.\n\nThe lessons of Google Glass\n\nAnyone old enough to remember the original Google Glass from 2012 probably remembers them for embarrassing reasons.\n\nFor me, my mind instantly goes to that infamous photo of Robert Scoble in the shower, which became a symbol for the device’s voyeuristic dangers. And then there’s that SNL Weekend Update bit, during which Fred Armisen lampooned how difficult the interface was to use.\n\nI asked Payne directly about the lessons of Google Glass, and he admits that they were ahead of their time.\n\n“The trouble was that the vision was good, but the reality was that the tech just wasn't quite there yet,” Payne said.\n\nHe cites three reasons for the Google Glasses flop that Intelligent Eyewear hopes to get right. First was the nerdy form factor. They didn’t really look like regular glasses. There was also a lack of content, which you now get with Android XR. And the third thing is versatility, which AI brings to the table.\n\n“So there were these huge building blocks missing,” Payne said, “Hardware, platform, AI.”\n\nAnd that brings us to the present…\n\nWhat does Intelligent Eyewear do?\n\nFor the first round of Intelligent Eyewear, the glasses will be audio-only. Glasses with single and dual displays will be coming later, though Google will start offering a trusted tester program sometime this year.\n\nIn the meantime, the glasses coming this year from Samsung, Gentle Monster and Warby Parker will leverage Android XR to (hopefully) make your day easier by having Gemini always at the ready.\n\n“Gemini can take your personal context — we call it personal intelligence — and then it can start feeding that into your experience,” Payne said. “These glasses are designed to give you ambient assistance throughout the day while keeping you connected to your digital world and the real world.”\n\nFor example, because Gemini has personal intelligence built in, it knows you, and you can ask about what’s on your calendar, the score of a sports game or a random fact.\n\n“Just having a real-time conversational interface all day long is incredibly valuable for a lot of people,” Payne continued. For example, when Payne is driving with Intelligent Eyewear on he can ask about other podcasts Gemini might recommend based on the one he’s currently listening to and do it on the fly.\n\nPayne cited a couple other major use cases for Intelligent Eyewear. The first is navigation, such as looking up a local restaurant that might be good around you.\n\n“The audio experience for that is fantastic,” Payne said. “It uses the camera to localize you, so it knows that you're pointing in the right direction. It can give you contextual navigation to help you get to where you're going without being vague, you know, like ‘turn right there.’”\n\nTranslation is another potential killer app for Intelligent Eyewear, promising a quick “UN translator experience.” And when you’re cooking you can get step-by-step instructions even without a display.\n\nBut Payne argues that display glasses are nice to have as opposed to a must-have, such as seeing that your upcoming turn is 300 feet away.\n\n“We think of the display more as almost an augmentation to the audio experience rather than something that is a hard dependency in many cases,” Payne said.\n\nDesign first, features second\n\nAnyone who has been paying attention to the smart glasses market knows that there’s a sliding scale of geekiness. The Ray-Ban Meta glasses and Meta Glasses look very much like regular sunglasses or glasses. But the Meta Ray-Ban Display glasses are bulkier, and the even more ambitious Snap Specs look pretty geeky with their extra-wide frames.\n\nFor Google, the approach is pretty simple: they have to be great glasses first.\n\n“We lead with design and then we ask the question ‘what can you make within the constraints of a great design?’” Payne said. “Can we make a product that is genuinely valuable for people so that if they walk out of their house and they forgot them, they'll actually go back and get them?”\n\nThe early design from Gentle Monster has chic oval-shaped lenses that wouldn’t look out of place on a runway, while the Warby Parker design is a bit chunkier and more retro. They both feature dual cameras, but they look a bit more discreet on the Gentle Monster specs.\n\nGoogle doesn’t seem willing to push the limits and risk the sort of backlash the Snap Specs have been getting for their overtly techy look.\n\n“If you make a product that provides really novel new experiences, people might be willing to tolerate a design that has some larger compromises. I think it's great that people are out there testing that theory. It's just not the approach that Google's taking. We're really leading with design,” Payne said.\n\nMajor privacy landmines — and what Google is doing about it\n\nBy now you’ve probably heard some of the horror stories coming out of the Meta glasses camp ",
+      "images": [
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/CwDkA8mS3z2mknLGPrYAd5.jpg",
+          "cap": "The original Google Glass"
+        },
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/fz4XBcbPXhwgcdeHuyGDSG.jpg",
+          "cap": ""
+        },
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/hckNM3nJS8FwPGcUgvvux3.jpg",
+          "cap": ""
+        },
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/BR5qJseLxE3fwAfDXh8vCg.jpg",
+          "cap": "Snap CEO Evan Spiegel wearing Snap Specs"
+        },
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/KE83H8jLeoNWVUT2HH745U.jpg",
+          "cap": "Meta Ray-Ban (gen 2) smart glasses"
+        },
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/6JcBdfjD9WrKrKamaijHRW.jpg",
+          "cap": "Meta Glasses by Kylie"
+        }
+      ],
+      "video": {
+        "yt": "33Sx5FyYrg4"
+      }
+    },
+    {
+      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
+      "headline": "Neo robot hands breakthrough can build LEGOs, unzip jackets, and open a bag of Funyuns — I can't tell if I'm thrilled or terrified",
+      "body_text": "Neo Beta robot hands have human-level dexterity\n\nThey use tendon-like controls instead of in-hand motors\n\nThey're waterproof and can perform many skills normally reserved for human hands\n\nNeo's new robot hands are so good and lifelike, you might assume that they're gloved human hands, and then you might wonder why someone is swinging a hammer at them.\n\nIn a new demo video recently released on YouTube by Neo Beta robot parent company 1X, you can watch a pair of Neo Hands screw in a lightbulb and pull the chain switch (before someone inexplicably shatters the bulb with a hammer), pluck grapes off a bunch and drop each one in a container, carefully pickup a screw, unzip a jacket (a bit creepy), and even open a small bag of Funyuns onion ring snacks .\n\nIn that last bit, someone swings a hammer at the hands while they work, which they pay no mind to, before the bag is unsealed.\n\nIt even expertly builds a small Lego stack. Okay, okay, they're the larger Duplo blocks, but it still does as good a job as your average kindergartner.\n\nThe hands move slowly but also with a grace and ease you might mistake for humanness. This appears to be down to the underlying technology.\n\nAs 1X described it, the rubber-covered, waterproof hands use a \"closed-loop tendon-driven system\". This means that 1X moves the motors or servos out of the hand and back along the arm , which keeps the hand smaller and more supple. Those motors are then connected to an intricate system of tendon-like connectors that are pulled and released to enable the robot hands' movement and manipulation. That style of control more closely resembles our own hands, which, while including muscle, are also filled with tendons that are pulled inside the forearm.\n\n1X says the fingers, palm, and thumb have 25 degrees of freedom, but, as evidenced in the video, they can also over-extend backward in a rather unnatural or certainly more-than-human way.\n\nThe robot hands feature some impressive strength, too, lifting a 20 lb. dumbbell and then, with just one finger, curling a smaller pulley weight.\n\nNaturally, the fingers include sensors so that the hands and robot know when it's gripping something and how much force is or should be applied. That's how the Neo robot hand avoids breaking that light bulb (unlike that hammer).\n\nI know, just last week, we heard about a pair of robots performing gall-bladder surgery on a pig . You'd think that those humanoid hands must've been far more graceful. However, those robots each simply gripped a pair of laparoscopic controls so that the finer control, where the cutting and suturing was done, happened at the end of those devices. No robot hand directly manipulated the scalpels.\n\nWhile Neo's robot hands will be useful for all kinds of home helper chores when the $20,000 Neo finally arrives in consumer homes (early adopters may be receiving them now), the hands are also useful for helping itself: In the video, a Neo Beta robot uses the hands to pick up its MagSafe-style charging puck, which it carefully attaches to its robot hip.\n\n1X writes that these hands will deliver new real-world training data to its robotic development, and one would assume this will ultimately make the Neo robots even better home helpers, companions, and enablers (all those Funyuns).",
+      "images": [],
+      "video": {
+        "yt": "QRyXV3csReA"
+      }
+    },
+    {
+      "url": "https://www.techradar.com/health-fitness/no-sleep-score-no-steps-this-signal-smart-ring-from-an-ex-google-head-is-focused-on-cracking-cuffless-calibration-less-blood-pressure-readings",
+      "headline": "The Signal Ring might have finally solved a problem that everyone from Apple to Samsung have been trying to crack for years",
+      "body_text": "Blood pressure has long been considered the \"holy grail\" of PPG-powered wearable tech. Because (up until now) you really need an inflatable cuff to measure, or at least to calibrate, blood pressure readings, and that's been difficult to do with a smartwatch alone.\n\nThe Huawei Watch D series incorporated a cuff into the smartwatch itself, while Apple has introduced its Hypertension Detection feature, which earmarks possible hypertension after 30 days of using an Apple Watch , but doesn't actually provide blood pressure readings. No LED-based device has really been able to crack it. Until now, apparently.\n\nThe Signal Ring is the brainchild of Tom Moss, an ex-head of Android at Google who's founded several companies since leaving Google and co-founded several other companies, including drone business Skydio, which eventually ended up being bought by Razr.\n\nSignal is a smart ring with a difference: rather than provide lots of different metrics such as the Oura Ring 5 or the Samsung Galaxy Ring , or use AI assistants like the Google Fitbit Air, it's designed by \"a very smart group of multidisciplined people focused on a single problem\" — and that problem is blood pressure, which Moss was inspired to tackle after a cardiac event, a 'hypertensive emergency',\n\n\"My blood pressure was 250. If you can imagine, for blood pressure, 120 [over 80] is healthy and fine,\" Moss told me. \"So 250 is just like an insane amount of pressure.\"\n\nAfter his event, Moss attempted to track his blood pressure, but had difficulty with incorrectly-sized cuffs and sought a more technical solution. \"I went online, I bought every kind of device that told me it could track my blood pressure, wearable or otherwise, and they're all garbage.\"\n\nSome watches, such as the Samsung Galaxy Watch series, use an initial blood pressure cuff reading to calibrate, then estimate your blood pressure by looking at other vital signs in between calibrations. But Moss found this approach frustrating and inaccurate. \"We needed a way to measure blood pressure from a wearable, not just measure changes from a baseline.\"\n\nWorking with scientists and engineers from Masimo ( the company that sued Apple over infringement of LED-based heart rate sensing technology ) Moss developed the Signal Ring over three years, which can take on-the-spot blood pressure readings and use a single number — a metric called 'mean arterial pressure' — to passively track blood pressure throughout the day, broadcasting the information to its companion app over Bluetooth like any other wearable.\n\nI asked him how a startup could do something that Apple, Oura, Samsung, Google, and others had failed to do, and his response was one of specialism.\n\n\"This is our sole focus as a company,\" said Moss. \"My co-founders have decades of knowledge on PPG, state-of-the-art processing... we have a very smart group of multidisciplinary people focused on a single problem.\"\n\nWithout needing to cram in sensors required for other features, such as accelerometers for counting steps, the team was reportedly able to crack the blood pressure mystery. \"It's not AI or anything, it's not that we use some sort of new, magic technology. We put the best people, the most equipped, to work on it.\"\n\nExciting stuff in the wearables space, but only real testing will confirm its accuracy compared to conventional blood pressure measurements. Pre-orders for the Signal Ring are available now, priced at $399 (around £295 / AU$770) with no subscription (thank goodness!) and are likely to ship in October.",
+      "images": [
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/KhRo4yNKAhyXbV5gZBxTNc.jpg",
+          "cap": ""
+        },
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/EjY65NAh9EEGtJszvzJerL.jpg",
+          "cap": ""
+        }
+      ],
+      "video": null
+    },
+    {
+      "url": "https://www.gsmarena.com/nubia_navix_ultra_unveiled_their_take_onn_aiagent_phone-news-73744.php",
+      "headline": "nubia NaviX Ultra is the company's take on an AI Agentic phone",
+      "body_text": "Last week, nubia teased the arrival of an AI agent-powered smartphone at the World Artificial Intelligence Conference (WAIC) in China. The company has now officially unveiled the nubia NaviX Ultra.\n\nnubia is yet to reveal the NaviX Ultra's specifications, but the company has showcased its design on Weibo and is branding it as the world's first AI agent smartphone.\n\nThe company has confirmed that the NaviX Ultra will run the Doubao mobile assistant. It features a triple rear camera setup housed inside a Pixel-style camera bar.\n\nAccording to nubia, the phone will be available in Blue Horizon, Black, Dreamscape, and White color options when it goes on sale.\n\nnubia also revealed that the NaviX Ultra has received the 2026 SAIL (Super AI Leader) Award ahead of WAIC 2026.\n\nThe company is likely to share additional details, including the phone’s specs, pricing, and availability, in the coming days.",
+      "images": [
+        {
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/inline/-1200/gsmarena_001.jpg",
+          "cap": ""
+        },
+        {
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_002.jpg",
+          "cap": ""
+        },
+        {
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_003.jpg",
+          "cap": ""
+        },
+        {
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_004.jpg",
+          "cap": ""
+        },
+        {
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_005.jpg",
+          "cap": ""
+        }
+      ],
+      "video": null
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/14/prismml-releases-bonsai-27b-claiming-first-major-ai-model-of-its-size-fit-for-iphone/",
+      "headline": "PrismML releases Bonsai 27B, claiming first major AI model of its size fit for iPhone",
+      "body_text": "PrismML is back in the news today after the AI startup’s CEO told CNBC that Apple is looking at the company’s technology. The company has also released its Bonsai 27B model that it says runs on iPhone, iPad, and Mac.\n\nPrismML first made headlines last week when The Information reported on the AI startup.\n\nThat report included mention of PrismML holding meetings with Apple about “ways it could use its technology.”\n\nThe report also noted PrismML’s Bonsai 27B model, scheduled for release today.\n\nAs expected, PrismML has now released that model:\n\nBonsai 27B reaches up to 163 tok/s in 1-bit and 134 tok/s in Ternary on an NVIDIA GeForce RTX 5090. On an M5 Max, it reaches up to 87 tok/s in 1-bit and 58 tok/s in Ternary.\n\nFitting a phone is a stricter gate than storage numbers suggest. A phone never exposes its full memory to an app – a 12 GB iPhone offers about 6 GB for the model to use on-device, and the model shares that budget with its KV cache and activations. No conventional build of a 27B model comes close to clearing it. At about 4 GB, 1-bit Bonsai 27B is the first to pass through with room to work.\n\nThe press release specifically mentions running the new model natively on Apple hardware:\n\nBonsai 27B runs natively on Apple devices (Mac, iPhone, iPad) via MLX and on NVIDIA GPUs via CUDA, through custom low-bit kernels built for its hybrid-attention architecture. Model weights are available today under the Apache 2.0 License. With this release, we’re offering a free, limited-time developer preview API so developers can easily try our model.\n\nMeanwhile, PrismML CEO Babak Hassibi tells CNBC that Apple is interested in PrismML’s tech:\n\nPrismML CEO Babak Hassibi told CNBC that Apple and other companies have been evaluating the startup’s models and measuring their speed, energy efficiency and performance on devices.\n\n“They’re really evaluating our technology right now,” Hassibi said of Apple.\n\nHe characterized the discussions as very early and said it remains unclear where they will lead, but that “things are progressing nicely.”\n\nApple did not immediately respond to a request for comment.\n\nYou can learn more about PrismML’s Bonsai 27B model here , and read the CNBC piece in full here .\n\nIt’s worth separating two things here. We’ll leave it to the AI experts to evaluate PrismML’s claims and technology.\n\nAs for the Apple connection, it’s clear that the AI startup is touting communication with Apple as a way to generate buzz around its new release.\n\nIt’s generally wise to keep any serious discussions between startups and Apple on the quieter side. Otherwise, an environment for strong skepticism is created.\n\nAt any rate, PrismML has managed to capture attention from The Information and CNBC around their latest release. Short-term mission accomplished.",
+      "images": [
+        {
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/cosmic-orange-17-pro.webp",
+          "cap": ""
+        }
+      ],
+      "video": null
+    }
+  ]
+}

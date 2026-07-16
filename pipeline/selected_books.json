@@ -1,51 +1,70 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "books",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://publishingperspectives.com/2026/07/in-guatemala-a-growing-book-market-faces-some-familiar-challenges/",
+      "url": "https://publishingperspectives.com/2026/07/at-closing-gala-ipa-announces-2026-innovation-award-winners/",
       "source": "Publishing Perspectives",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
       "category": "books",
-      "headline": "Guatemala's growing book market debates 'AI and Authorship'",
-      "published_iso": "2026-07-13T12:36:15Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-12-at-9.31.32-PM.png",
-      "excerpt": "Coverage of Guatemala's book market includes a CONTEC Guatemala panel titled 'AI and Authorship' where a literary translator, publisher, and writer debate how translators can leverage AI tools while arguing human translators remain essential because literary translation requires original linguistic solutions tailored to each text.",
-      "rationale": "Single-topic craft hook on how literary translators can fold AI into their workflow while defending human judgment - actionable for translation/authorship work, and not previously published (distinct from the IPA sessions)."
+      "headline": "IPA hands its 2026 Innovation award to two AI companies: Shimmr and Ailaysa",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6452-793x595.jpeg",
+      "excerpt": "The IPA gave its 2026 Innovation in Publishing Award to two AI companies — Shimmr (AI book marketing) and Ailaysa (multilingual AI for publishers, maker of the Chai Reader discovery platform) — at the Kuala Lumpur congress closing gala.",
+      "rationale": "The one IPA-cluster item allowed: it names the two specific AI vendors the industry just formally endorsed, so it is a concrete tool signal rather than another congress recap."
     },
     {
-      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-6th-2026/",
-      "source": "Publishing Perspectives",
+      "url": "https://lithub.com/can-chatgpt-produce-a-version-of-proust-worth-reading/",
+      "source": "Literary Hub",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
       "category": "books",
-      "headline": "AI narration adoption and LLM book-scanning surface in the week's book-world roundup",
-      "published_iso": "2026-07-06T11:16:11Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "excerpt": "Weekly roundup touching several AI-and-books threads: an Australian audiobook survey found 17.4% of respondents had tried AI narration/text-to-speech, and reports that U.S. AI firms are buying (and scanning) large quantities of secondhand German-language books to train LLMs.",
-      "rationale": "Two fresh, distinct AI-and-books data points (a new Australian AI-narration adoption survey and physical-book scanning for LLM training) not in the published history - the audiobook thread is a different survey/geography than the already-published US Spoken/APA study."
+      "headline": "Can ChatGPT produce a version of Proust worth reading?",
+      "published_iso": "2026-07-07T00:00:00Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/06/proust-chatgpt.png",
+      "excerpt": "Bryan Charles tests ChatGPT against working Proust translators, tracing how AI is quietly encroaching on literary translation — and how skilled translators are actually deploying (and resisting) it.",
+      "rationale": "A hands-on craft test of AI output against professional literary translators — distinct from the 07-16 CONTEC 'AI and Authorship' panel (policy debate) and the 07-15 Kindle Translate story (tooling rollout), neither of which compared actual translation quality."
     },
     {
-      "url": "https://bookriot.com/today-in-books-july-5-2026/",
-      "source": "Book Riot",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/15/334627/australian-publishers-association-encouraged-by-government-signals-as-albanese-to-announce-office-of-ai/",
+      "source": "Books+Publishing",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "category": "books",
-      "headline": "AI-accused writer wins a major prize as Google Play Books adds a Gemini reading companion",
-      "published_iso": "2026-07-05T15:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
-      "excerpt": "Weekly book-news roundup whose lead items include a writer accused of using AI winning the Commonwealth Short Story Prize and Google Play Books rolling out 'Book Insights,' a Gemini-built reading companion offering recaps and spoiler-free in-book Q&A.",
-      "rationale": "Distinct outlet with two design-relevant AI hooks - a shipping Google Play Books Gemini reading feature and an AI-in-creative-writing prize controversy - neither of which appears in the 5-day published history."
+      "headline": "Australian publishers 'encouraged' on copyright as Albanese readies an Office of AI",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/creators-protest-ai-in-parliament-400x267.jpg",
+      "excerpt": "The Australian Publishers Association said it is 'encouraged' by government signals on copyright as PM Anthony Albanese prepares to announce an Office of AI within his department, amid pressure from AI firms to loosen text-and-data-mining rules.",
+      "rationale": "Freshest item in the pool (07-15) and the only live text-and-data-mining policy story; adds regional and outlet diversity to a US/UK-heavy week."
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100773-international-publishers-convene-in-malaysia-for-ipa-congress-2026.html",
+      "reason": "IPA Congress 2026 cluster. The same event is already published in this section on 07-13 (PP, emerging-markets session) and 07-15 (PW, children's-books sessions); this is a general congress overview, i.e. reworded coverage of an event already carried. The single permitted IPA slot went to the Innovation Award announcement."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/07/35th-international-publishers-association-congress-highlights-collaboration-courage-and-ai/",
+      "reason": "IPA Congress 2026 cluster — congress opening overview from the same outlet that already ran the 07-13 congress card. Within-pool duplicate of the two other IPA items."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/",
+      "reason": "Librarian-flagged padding: thin news value (argument piece) and a same-source sibling of the 07-14 'shared standard for AI disclosure' card already published. Permitted only to avoid falling below the floor of 3; the floor was met without it."
     }
   ],
   "dedup_notes": {
-    "history_checked": "Checked all 3 filtered candidates against sections.books published history in news_data.json (today 07-15 + days 07-09 through 07-14). No URL or content duplicates. Guatemala 'AI and Authorship' panel is distinct from IPA sessions; the around-the-book-world Australian AI-narration survey is a different study/geography than the published US Spoken/APA audiobook surveys; Book Riot's Google Play Books 'Book Insights' and Commonwealth Prize items are not in the published window.",
-    "diversity": "outlets: publishingperspectives.com x2 (within <=2-per-domain guard) + bookriot.com x1 = 2 distinct outlets. Only 3 candidates survived (thin section) so >=3-outlet target is unreachable without padding. categories: books x3 (single-category section); distinct accents assigned (#f5a623, #7928ca, #2ec5c5).",
-    "count": "3 picks from 3 available fresh candidates - meets the floor of 3. All carry genuine AI x books hooks; none dropped, no padding, no backfill possible (pool exhausted)."
+    "history_checked": "Checked all 6 pre-filtered candidates against sections.books in news_data.json (today 07-16 + days 07-10, 07-11, 07-13, 07-14, 07-15 = 20 published cards). No pick shares a URL or a story with published history. Proust/LitHub is a different article and angle from guatemala-ai-authorship (07-16) and kindle-translate-expand (07-15). The IPA Innovation Award is a distinct announcement from ipa-emerging-ai (07-13) and ipa-childrens-books (07-15). Books+Publishing Albanese/Office of AI is unrelated to anu-audiobook (07-13, same outlet, different story) and to debbonaire-ai (07-14, UK licensing).",
+    "diversity": "3 distinct outlets (Publishing Perspectives, Literary Hub, Books+Publishing), max 1 per domain — meets the >=3-outlet target. Single-category section (books x3); distinct accents assigned from sources.json palette (#f5a623, #7928ca, #2ec5c5).",
+    "count": "3 picks — floor met, target of 5 not reached. Pool was 6 after the URL pre-filter (13 -> 6). Two of the six were IPA-Congress siblings dropped under the one-IPA-story rule plus event-level dedup against 07-13/07-15; the sixth was flagged padding. No backfill available — no padding, no duplicates published."
+  },
+  "shortfall": {
+    "target": 5,
+    "picked": 3,
+    "honest_note": "Genuinely thin section this cycle. The July 5-9 IPA Congress dominated the fresh pool and was already covered twice in the published window, so only one IPA item could survive. Reporting 3 rather than padding with the Scholarly Kitchen or duplicate congress recaps."
   }
 }

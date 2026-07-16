@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "games",
   "cards": [
     {
-      "id": "steam-ai-flood",
+      "id": "joga-100",
       "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "스팀 신작 급증의 대부분이\nAI 게임이지만 돈은 못 번다",
-      "body": "스팀 월간 신작 증가분의 60~90%가 AI 게임이지만 매출은 10%에 그친다.",
-      "mini_headline": "AI가 채운 스팀 신작",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/",
+      "headline": "일본 온라인 게임 개발사 100%가\nAI를 쓰지만, 대부분 이용자 분석",
+      "body": "일본 온라인 게임 개발사 100%가 AI를 쓰지만, 용도는 이용자 선호 분석과 행동 예측에 쏠린다.",
+      "mini_headline": "개발사 100%가 AI, 용도는 분석",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/gaming-industry/poll-finds-100-percent-of-japanese-online-game-developers-are-using-ai-though-mostly-for-user-preference-analysis-and-user-behavior-prediction/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -18,65 +18,70 @@
         "blocks": [
           {
             "t": "p",
-            "x": "게임 매체 GamesRadar+가 전한 한 연구는 2023년 7월부터 2026년 7월 사이 스팀(Steam)에 올라온 신작 53,597종을 뜯어봤다. 그 결과 월간 신작이 늘어난 몫의 대부분, 많게는 60~90%가 AI를 표기한 게임에서 나온 것으로 드러났다."
+            "x": "일본 온라인게임협회(JOGA)와 카도카와 아스키 종합연구소가 낸 조사를 패미통이 전했다. 온라인 게임을 만드는 일본 개발사 100%가 어떤 형태로든 생성형 AI를 쓴다는 결과다. 응답사 기준이라는 단서는 붙지만, 숫자 자체는 빠져나갈 구석이 없다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/5BCLDn9uWa9YYLdeqYWPBL.png",
+            "cap": "(Image credit: Square Enix)"
           },
           {
             "t": "p",
-            "x": "AI 게임의 월간 출시량은 한 달 약 530종까지 치솟았다. 하지만 이 물량이 곧장 수익으로 이어지지는 않았다. 2026년 2분기 기준 AI 게임은 전체 출시작의 33%를 차지했지만, 매출에서 가져간 몫은 10%가량에 머물렀다."
+            "x": "정작 눈여겨볼 대목은 용도다. 대부분의 스튜디오가 꼽은 쓰임새는 아트도 음악도 성우도 아닌 \"user preference analysis\"와 \"user behavior prediction\"이었다. AI 도입 자체를 반대할 근거야 얼마든지 있지만, 창작 노동에 미치는 파장만 놓고 보면 이쪽 용례는 비교적 무해한 축에 든다. PC Gamer 필자도 딱 그 선에서 인정한다. 물론 '대부분'이 '전부'는 아니라는 단서를 함께 달았다."
           },
           {
             "t": "p",
-            "x": "생성형 도구가 게임 제작의 물량과 상점의 경제 구조를 어떻게 흔들고 있는지 보여주는 냉정한 데이터다. 만드는 양은 불어나도 발견성과 돈벌이는 따라오지 못하는 현실이 그대로 드러난다."
+            "x": "모델 점유율도 나왔다. 구글 제미나이가 94%로 가장 높고, Claude가 84%, GitHub Copilot이 76%로 뒤를 이었다."
+          },
+          {
+            "t": "p",
+            "x": "이용자가 AI에 무덤덤하다는 뜻은 아니다. 같은 조사에서 플레이어들은 \"모든 게임이 비슷해 보이기 시작한다\"는 우려를 내놨다. 영어권 플랫폼의 리뷰 폭탄식 반발이 문화적 진공에서 터지는 일은 아닌 셈이다. PC Gamer는 데이터센터의 전력 소비와 소음 문제도 함께 짚었다."
           }
         ]
       }
     },
     {
-      "id": "sony-synthetic-assets",
+      "id": "unity-mcp",
       "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "소니, AI는 전략을 떠받치는\n핵심 기반 기술이라 말한다",
-      "body": "플레이스테이션 경영진이 합성 에셋을 만드는 AI를 소니 전략의 핵심 기반으로 못박았다.",
-      "mini_headline": "합성 에셋 품는 소니",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/sony-says-ai-is-exciting-great-for-synthetic-assets-and-an-important-foundational-technology-supporting-our-strategy/",
+      "headline": "Unity MCP에 에이전트를 붙여\n메뉴 UI를 목업으로 뽑는다",
+      "body": "Unity MCP 서버에 에이전트를 붙여 임시 메인 메뉴를 만들고, 버튼 로직은 스크립트로 직접 잇는다.",
+      "mini_headline": "MCP로 메뉴 UI 목업",
+      "source": "Unity",
+      "url": "https://www.youtube.com/shorts/3hp-NNCNVPY",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "소니(Sony) 경영진이 AI를, 그중에서도 게임 개발에 쓰려고 만들어내는 '합성 에셋(synthetic assets)'을 회사 전략을 떠받치는 기반 기술로 규정했다. \"흥미롭다\"는 표현까지 붙였다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Ew9bQTUUihnM5rx7nh6UHD-1920-80.jpg"
+            "t": "video",
+            "yt": "3hp-NNCNVPY"
           },
           {
             "t": "p",
-            "x": "경영진은 AI가 제작 효율과 플레이어 경험, 콘텐츠 발견까지 두루 아우른다고 봤다. 대형 퍼스트파티 퍼블리셔가 생성형 에셋 파이프라인을 대놓고 끌어안은 셈이다."
+            "x": "유니티가 올린 짧은 Unity 6 팁 영상이다. Unity MCP와 UI Toolkit으로 자리만 잡아두는 임시 UI를 빠르게 세우는 흐름을 보여준다."
           },
           {
             "t": "p",
-            "x": "AAA 제작 현장 안으로 AI가 성큼 들어오고 있음을 보여주는 신호다."
+            "x": "쓰던 AI 에이전트를 Unity MCP 서버에 연결하는 것부터 시작한다. 반투명 배경에 버튼 세 개짜리 메인 메뉴를 만들어 달라고 프롬프트를 넣으면 씬 안에 바로 나온다. 여기에 스크립트를 붙여 버튼 로직을 이으면, 팀이 나중에 다시 스타일링할 기본 메뉴가 준비된다."
+          },
+          {
+            "t": "p",
+            "x": "설명란에는 UI Toolkit 문서 링크가 함께 걸려 있다. 쇼츠 분량이라 원본이 담은 내용은 여기까지다."
           }
         ]
       }
     },
     {
-      "id": "capybara-vibe-code",
+      "id": "mw4-ai",
       "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 짠 2만 7천 줄 코드로\n만든 게임이 상금을 받았다",
-      "body": "한 개발자가 Claude Code로 코드 2만 7천 줄을 전부 생성해 2만 5천 달러 상금을 받았다.",
-      "mini_headline": "AI가 만든 상금 게임",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/ios-developer-made-capybara-game-using-vibe-coding-and-won-25000/",
+      "headline": "모던 워페어 4 스튜디오 대표\n\"쓸 수 있는 도구는 다 쓴다\"",
+      "body": "인피니티 워드 공동 대표 마크 그릭스비는 MW4 개발에 AI 도구를 쓴다고 인정했고, 스팀 페이지에도 이미 적혀 있다.",
+      "mini_headline": "MW4, AI는 그냥 도구",
+      "source": "Destructoid",
+      "url": "https://www.destructoid.com/mw4-studio-head-ai-game-dev-whatever-tools-we-can/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -84,19 +89,100 @@
         "blocks": [
           {
             "t": "p",
-            "x": "한 iOS 개발자가 '카피바라 음식 배달(Capybara Food Delivery)'이라는 모바일 게임을 만들어 출시했다. 약 27,000줄에 이르는 코드는 전부 Claude Code가 '바이브 코딩(vibe coding)' 방식으로 써냈다."
+            "x": "지난해 콜 오브 듀티는 칭호 카드를 비롯한 코스메틱이 누가 봐도 AI로 만든 티가 난다는 이유로 뭇매를 맞았다. 출시를 몇 달 앞둔 모던 워페어 4에서도 그 흐름이 이어질지 궁금해할 만하다."
           },
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg"
+            "src": "https://www.destructoid.com/wp-content/uploads/2026/05/MW4_CAM_013_BRANDED.jpg",
+            "cap": "Image via Activision"
           },
           {
             "t": "p",
-            "x": "이 게임은 상금 2만 5천 달러가 걸린 대회에서 우승했다. 처음부터 끝까지 AI가 쓴 코드로 완성한 게임이라는 점에서 손에 잡히는 사례로 남는다."
+            "x": "뉴욕에서 열린 단체 프레젠테이션에서 결국 질문이 나왔다. 인피니티 워드 공동 스튜디오 대표 마크 그릭스비는 살얼음판을 걷는 시늉을 해 보인 뒤 답했다. 짧게 말하면 썼다. \"We use whatever tools we have to enhance and help our developers to complete [tasks] on time\"이라고 그는 말했다."
           },
           {
             "t": "p",
-            "x": "프롬프트로 이끄는 개발이 단순한 자동완성 보조를 넘어 어디까지 왔는지 가늠하게 해준다."
+            "x": "새삼스러운 고백은 아니다. MW4 스팀 페이지에는 개발팀이 일부 인게임 에셋 제작에 생성형 AI 도구를 쓴다고 이미 적혀 있다. 지난 11월 블랙 옵스 7 출시 직후 반발이 일었을 때 액티비전이 내놓은 입장과도 결이 같다. 창작 과정은 스튜디오의 사람들이 이끈다는 문장이 늘 따라붙는다."
+          },
+          {
+            "t": "p",
+            "x": "정작 이 도구들이 현장에서 어떻게 쓰이는지는 여전히 불투명하다. Destructoid는 개발 시간을 줄이는 지름길 노릇일 것으로 짐작하면서, 사람의 일자리를 실제로 대체하는지는 더 지켜봐야 한다고 적었다. 다만 일상적인 게임 개발에서 판도라의 상자는 이미 열렸다는 판단이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dear-passengers",
+      "tool": "Games",
+      "eyebrow": "AI NEWS",
+      "headline": "바이럴 프렌드슬롭 신작이\n엡스타인 농담과 생성형 AI로 역풍",
+      "body": "Dear Passengers가 위시리스트 수십만을 모으자마자 엡스타인 농담과 생성형 AI 구인 공고가 도마에 올랐다.",
+      "mini_headline": "프렌드슬롭 신작 역풍",
+      "source": "TheGamer",
+      "url": "https://www.thegamer.com/dear-passengers-friendslop-backlash-epstein-jokes-generative-ai/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Dear Passengers는 친구들과 비행기를 몰고 승객을 챙기며 임무를 해내는 협동 게임이다. 래그돌 물리와 무작위 이벤트, 무엇보다 서로의 어설픔과 씨름하게 된다. Peak과 비슷하되 무대가 비행기라고 보면 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/two-airplane-pilots-having-a-barbeque-oin-the-wing-of-a-plne.jpg",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "하루 만에 위시리스트가 수십만 장 쌓였고 소셜 미디어에서 불길처럼 번졌다. 주말을 통째로 삼킬 다음 인디 프렌드슬롭이 될 참이었는데, 몇몇이 곱지 않은 대목을 짚어냈다."
+          },
+          {
+            "t": "p",
+            "x": "트레일러 속 캐릭터 이름표 하나가 Epst. J다. 네덜란드의 European Pilot Selection & Training 약자라는 해명도 나왔지만, 뒤에 J가 붙은 이상 제프리 엡스타인을 겨냥한 이름으로 읽힌다. PDaddy라는 캐릭터도 있다. 공식 디스코드에는 한 개발자가 엡스타인의 행위를 옹호하지 않는다고 밝힌 글과, 같은 사람이 밈 채널에서 엡스타인 농담을 더 달라고 부추긴 메시지가 나란히 남아 있다."
+          },
+          {
+            "t": "p",
+            "x": "생성형 AI 의혹은 채용 공고에서 불거졌다. \"adept at using generative AI for concept creation\"을 요구한 공고가 발견됐는데, 알려진 뒤 개발사 웹사이트에서 해당 문구가 사라졌다. 엡스타인 농담을 해명한 그 개발자는 개발팀 누구도 생성형 AI를 쓰지 않았다고 주장했고, 스팀 페이지에도 AI 표기는 없다. 스팀이 공개를 강제하지 않는 탓에 확인할 증거는 없다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cnc-vibe-port",
+      "tool": "Games",
+      "eyebrow": "AI NEWS",
+      "headline": "소스 코드를 쥔 바이브 코딩이\n커맨드 앤 컨커를 iOS로 옮겼다",
+      "body": "아마르 레시가 Fable 5로 제너럴스 제로 아워를 iOS에 네이티브 포팅했는데, 소스 코드와 기존 이식본이 발판이었다.",
+      "mini_headline": "소스 쥔 바이브 코딩 포팅",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/software/ai/googles-ai-studio-lead-has-vibe-coded-a-port-of-command-and-conquer-for-ios/",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "앤트로픽이 Claude Fable 5를 배포한 지 며칠 만에, 2003년작 커맨드 앤 컨커: 제너럴스 – 제로 아워가 iOS로 옮겨졌다. 구글 AI 스튜디오 제품·디자인 총괄 아마르 레시가 7월 4일 X에 올리며 알려졌다. 에뮬레이터가 아니라 실제 2003년 엔진을 ARM64로 네이티브 컴파일했고, 캠페인과 스커미시가 RTS용 터치 조작으로 돌아간다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/Ny5gxLuhNTziwfznwoUfDV.jpg",
+            "cap": "(Image credit: Ammaar Reshi)"
+          },
+          {
+            "t": "p",
+            "x": "맨땅에서 나온 결과는 아니다. 레시 본인이 앞선 이식과 현대화 작업을 딛고 섰다고 밝혔고, The Super Hackers의 리눅스·macOS 빌드를 곧장 포크했다. 소스 코드와 기존 포팅, 사람 손질이 모두 필요했다."
+          },
+          {
+            "t": "p",
+            "x": "레시는 이를 사람과 AI의 협업으로 정리한다. 코드와 디버깅은 Claude가 맡고 플레이테스트는 사람 몫이었다. '미니맵이 검다', '새 우는 소리가 들린다' 같은 문제를 그가 짚으면 모델이 고쳤다. \"Neither half ships this alone: one of us can't write C++, and the other can't hear the chirping.\""
+          },
+          {
+            "t": "p",
+            "x": "다른 게임에도 통할지는 미지수다. 레시부터 레드 얼럿 2에는 회의적인데, EA가 소스 코드를 잃어버린 듯해서다. 찾아낸다 한들 리마스터 판매를 앞둔 회사가 바이브 코더에게 코드를 넘길 이유도 없다. 비용도 붙는다. 레시는 Claude Max 구독을 이틀 만에 소진했다고 밝혔고, 토큰 값만 100~200달러쯤 든 셈이다. Opus 4.8로는 Ultra Code를 동원하고도 해내지 못했다고 한다."
           }
         ]
       }

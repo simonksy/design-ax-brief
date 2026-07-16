@@ -1,31 +1,31 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "science",
   "media": [
     {
-      "id": "thermo-computing",
+      "id": "claude-jamming",
       "type": "image",
-      "src": "pipeline/media/thermo-computing.jpg"
+      "src": "pipeline/media/claude-jamming.jpg"
     },
     {
-      "id": "san-andreas",
+      "id": "syntnpb",
       "type": "image",
-      "src": "pipeline/media/san-andreas.jpg"
+      "src": "pipeline/media/syntnpb.jpg"
     },
     {
-      "id": "binnd",
+      "id": "biosignature-ai",
       "type": "image",
-      "src": "pipeline/media/binnd.jpg"
+      "src": "pipeline/media/biosignature-ai.jpg"
     },
     {
-      "id": "supercooled-water",
+      "id": "claude-science",
       "type": "image",
-      "src": "pipeline/media/supercooled-water.jpg"
+      "src": "pipeline/media/claude-science.jpg"
     },
     {
-      "id": "black-box-physics",
+      "id": "feedback-brain",
       "type": "image",
-      "src": "pipeline/media/black-box-physics.jpg"
+      "src": "pipeline/media/feedback-brain.jpg"
     }
   ]
 }

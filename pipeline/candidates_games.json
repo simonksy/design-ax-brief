@@ -1,53 +1,98 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-07-16T00:15:00Z",
+  "now_iso": "2026-07-16T23:10:00Z",
   "items": [
     {
-      "url": "https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/",
-      "title": "Steam study of over 53,000 games finds \"60-90% of the growth\" in monthly releases is from games using AI - and almost none of them make money",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-07-15T16:00:50Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg",
-      "excerpt": "A study of 53,597 Steam releases (July 2023-July 2026) finds AI-flagged games now drive the overwhelming majority of monthly-release growth - up to ~530 new titles a month - yet make almost none of the sales (33% of releases, ~10% of revenue in Q2 2026). A hard data snapshot of how generative tooling is reshaping game production volume and storefront economics."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/sony-says-ai-is-exciting-great-for-synthetic-assets-and-an-important-foundational-technology-supporting-our-strategy/",
-      "title": "Sony says AI is \"exciting,\" great for \"synthetic assets,\" and an \"important foundational technology supporting our strategy\"",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-07-02T15:00:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Ew9bQTUUihnM5rx7nh6UHD-1920-80.jpg",
-      "excerpt": "PlayStation leadership frames AI - including 'synthetic assets' generated for game development - as a foundational pillar of Sony's strategy, spanning production efficiency, player experience and content discovery. A major first-party publisher openly committing to generative asset pipelines signals how AI is moving into AAA workflows."
-    },
-    {
-      "url": "https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336",
-      "title": "People Are Quickly Cloning Indie Games Using AI Tools",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-07-15T22:15:12Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg",
-      "excerpt": "Within days of indie developers posting a game concept online, AI-coding tools like Claude let a single person vibe-code and publish playable knockoffs across PC, console and mobile stores before the original ships. A concrete look at how fast generative dev tools are collapsing the copy-a-game timeline and threatening indie discoverability."
-    },
-    {
-      "url": "https://wccftech.com/ios-developer-made-capybara-game-using-vibe-coding-and-won-25000/",
-      "title": "An iOS Developer Vibe-Coded A \"Capybara Food Delivery\" Game Using Claude Code, 27,000 Lines Made Entirely By AI, And Won $25,000",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-07-13T16:21:17Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg",
-      "excerpt": "A developer built and shipped a full mobile game whose ~27,000 lines of code were generated entirely by Claude Code through 'vibe coding,' taking a $25,000 contest prize. A concrete case study of an end-to-end AI-authored game, showing how far prompt-driven development has moved beyond assistive autocomplete."
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
-      "title": "PC ports of old console games are the new AI vibe coding battleground",
+      "url": "https://www.pcgamer.com/gaming-industry/poll-finds-100-percent-of-japanese-online-game-developers-are-using-ai-though-mostly-for-user-preference-analysis-and-user-behavior-prediction/",
+      "title": "Poll finds 100% of Japanese online game developers are using AI, though mostly for 'user preference analysis' and 'user behavior prediction'",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-07-09T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/cnYqvbCpcTAgL4NMej8Ea3-1213-80.jpg",
-      "excerpt": "Opportunists are using AI vibe-coding tools to rush unofficial PC ports of old console games onto storefronts, opening a new front in the debate over AI-generated game content and quality. A look at how generative coding is changing who ships games - and what counts as legitimate development work."
+      "published_iso": "2026-07-15T15:36:08Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5BCLDn9uWa9YYLdeqYWPBL-1920-80.png",
+      "excerpt": "A Japan Online Game Association survey reports that every responding online game developer now uses AI somewhere in their pipeline, but overwhelmingly for player-preference analysis and behavior prediction rather than asset or content generation. It is a rare hard data point on where AI actually lands in production workflows versus where the discourse assumes it lands."
+    },
+    {
+      "url": "https://www.pcgamer.com/software/ai/googles-ai-studio-lead-has-vibe-coded-a-port-of-command-and-conquer-for-ios/",
+      "title": "It seems like engineers are vibe coding game ports with access to the source code",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-07-06T10:58:05Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Ny5gxLuhNTziwfznwoUfDV-1920-80.jpg",
+      "excerpt": "Google's AI Studio lead vibe-coded an iOS port of Command & Conquer using the released source code, reframing LLM-assisted porting as a real engineering workflow rather than a toy demo. It sharpens the question of what 'vibe coding' means when the model is handed a legitimate codebase instead of a prompt."
+    },
+    {
+      "url": "https://www.pcgamer.com/games/sports/the-devil-works-hard-but-ai-ripoffs-work-harder-as-meccha-chameleon-falls-victim-to-hordes-of-copycats-coming-out-of-the-woodwork/",
+      "title": "The devil works hard but AI ripoffs work harder as Meccha Chameleon falls victim to hordes of copycats coming out of the woodwork",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-07-15T12:02:40Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZN7xvf8i7THqwZBW5VGL5X-1920-80.jpg",
+      "excerpt": "Breakout hit Meccha Chameleon has been swarmed by AI-generated Steam clones within days of release, some reusing its name in certain regions. The speed of the copy cycle is becoming a design and discovery problem for small studios, not just a moderation one."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
+      "title": "Half of all games released on Steam will use AI by 2028, study predicts: \"AI lowers the barrier not just to make a game, but to make several\"",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-16T21:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
+      "excerpt": "A new study projects that AI-disclosed titles will make up half of all Steam releases by 2028, arguing the tech lowers the barrier not just to shipping one game but to shipping many. The forward-looking projection reframes AI adoption as a throughput shift in how studios plan output."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/survey-finds-only-31-percent-of-steam-users-have-a-problem-with-ai-in-games-with-43-percent-totally-fine-with-it/",
+      "title": "Survey finds only 31% of Steam users have a problem with AI in games, with 43% totally fine with it",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-08T00:00:23Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iYbJwiXnDe6Rccst38FsBF-1920-80.jpg",
+      "excerpt": "A player-side survey finds only 31% of Steam users object to AI in games while 43% are entirely comfortable with it, complicating the assumption that disclosure automatically means backlash. It is a useful counterweight to developer-sentiment data that skews far more negative."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/destiny/epic-ceo-tim-sweeney-suggests-ai-couldve-saved-destiny-2-and-will-enable-games-like-destiny-to-thrive/",
+      "title": "Epic CEO Tim Sweeney suggests AI could've saved Destiny 2 and will \"enable games like Destiny to thrive!\"",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-02T23:59:34Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NYDrLbwGCaKmtKTvRuwqD-1920-80.jpg",
+      "excerpt": "Tim Sweeney argues that AI-driven content production could have sustained Destiny 2's live-service content treadmill and will let similar games thrive. Coming from the Unreal vendor, it is a direct claim about AI changing the economics of live-service content pipelines."
+    },
+    {
+      "url": "https://www.thegamer.com/dear-passengers-friendslop-backlash-epstein-jokes-generative-ai/",
+      "title": "New Viral Friendslop Game Criticized For Epstein Jokes And Generative AI",
+      "source": "TheGamer",
+      "category": "games",
+      "published_iso": "2026-07-15T17:37:28Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/two-airplane-pilots-having-a-barbeque-oin-the-wing-of-a-plne.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Viral co-op title Dear Passengers is drawing backlash over both its humor and its use of generative AI assets, showing how quickly the 'friendslop' genre's fast production cadence collides with player scrutiny. It is a live case of AI-accelerated content shipping ahead of its own art direction."
+    },
+    {
+      "url": "https://www.destructoid.com/mw4-studio-head-ai-game-dev-whatever-tools-we-can/",
+      "title": "Modern Warfare 4 studio head on AI in game dev: 'We use whatever tools we can'",
+      "source": "Destructoid",
+      "category": "games",
+      "published_iso": "2026-07-15T19:33:14Z",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/06/MW4_DMZ_08_BRANDED.jpg?quality=75",
+      "excerpt": "Infinity Ward's studio head takes a matter-of-fact line on AI in Modern Warfare 4's development, framing it as one more tool available to the team. It is a rare AAA-scale statement of AI as ordinary pipeline tooling rather than a strategic announcement."
+    },
+    {
+      "url": "https://www.youtube.com/shorts/_D26zKNPX7s",
+      "title": "Spend less time on scene setup with Unity AI",
+      "source": "Unity",
+      "category": "games",
+      "published_iso": "2026-07-06T13:57:03Z",
+      "og_image": "https://i.ytimg.com/vi/_D26zKNPX7s/maxresdefault.jpg",
+      "excerpt": "Unity demonstrates its AI Beta handling scene setup so developers can spend more time iterating on ideas instead of assembling environments. A concrete look at where Unity is positioning generative tooling inside the editor's day-to-day workflow."
+    },
+    {
+      "url": "https://www.youtube.com/shorts/3hp-NNCNVPY",
+      "title": "Build a mockup UI with Unity MCP",
+      "source": "Unity",
+      "category": "games",
+      "published_iso": "2026-07-13T14:04:35Z",
+      "og_image": "https://i.ytimg.com/vi/3hp-NNCNVPY/maxresdefault.jpg",
+      "excerpt": "Unity shows how to connect an AI agent to the Unity MCP server and prompt it to generate a placeholder main menu with UI Toolkit, then wire up button logic by hand. It is a practical demo of MCP-driven agents doing greybox UI work that a team restyles later."
     }
   ]
 }

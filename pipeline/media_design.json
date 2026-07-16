@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "section": "design",
   "media": [
-    { "id": "no-more-ai", "type": "image", "src": "pipeline/media/no-more-ai.jpg" },
-    { "id": "best-ai-tools-2026", "type": "video", "src": "pipeline/media/best-ai-tools-2026.mp4", "poster": "pipeline/media/best-ai-tools-2026.jpg" },
-    { "id": "post-chat-ui", "type": "image", "src": "pipeline/media/post-chat-ui.png" },
-    { "id": "illusion-font", "type": "image", "src": "pipeline/media/illusion-font.png" },
-    { "id": "daniel-porto", "type": "image", "src": "pipeline/media/daniel-porto.jpg" }
+    { "id": "figma-make-pr", "type": "image", "src": "pipeline/media/figma-make-pr.png" },
+    { "id": "houdini22", "type": "video", "src": "pipeline/media/houdini22.mp4", "poster": "pipeline/media/houdini22.jpg" },
+    { "id": "tokens2026", "type": "image", "src": "pipeline/media/tokens2026.png" },
+    { "id": "codex-micro", "type": "video", "src": "pipeline/media/codex-micro.mp4", "poster": "pipeline/media/codex-micro.jpg" },
+    { "id": "said-framework", "type": "image", "src": "pipeline/media/said-framework.png" }
   ]
 }
