@@ -1,53 +1,54 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "books",
-  "now_iso": "2026-07-15T02:24:24Z",
+  "now_iso": "2026-07-16T00:15:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Two dueling surveys on AI audiobook narration: a Spoken-commissioned study found 61% of listeners mistook AI voices for human and preferred them in multi-character scenes, while an Audio Publishers Association study shows willingness to try AI narration fell from 70% (2025) to 61% (2026), with human narration still preferred overall.",
-      "note": "On-list (publishersweekly.com). Date-only page -> 2026-07-14T00:00:00Z; freshness.py books -> FRESH. Freshest EN item; concrete audiobook-narration craft/workflow hook (multi-cast AI voices), a genuine creative-AI capability shift for how audiobooks are produced/cast."
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100804-2026-ipa-congress-spotlights-children-s-books-and-literacy.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": null,
-      "excerpt": "At the 35th IPA Congress in Kuala Lumpur, three sessions on children's publishing argued that the format and quality of content — not AI itself — shape how digital-native kids read, and pressed publishers on closing a widening global literacy gap.",
-      "note": "On-list (publishersweekly.com). Date-only page -> 2026-07-09T00:00:00Z; freshness.py books -> FRESH. Children's-books/literacy craft angle, distinct from the general IPA-AI recaps. Second PW item (per-source cap allows up to 3)."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/07/u-s-publishers-sue-google-alleging-massive-copyright-infringement-behind-its-gemini-ai-service/",
+      "url": "https://publishingperspectives.com/2026/07/in-guatemala-a-growing-book-market-faces-some-familiar-challenges/",
       "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Googleplex_-_June_2019_5865-793x529.jpg",
-      "excerpt": "Publishers including Cengage, Elsevier and Hachette have filed a class-action suit against Google, accusing it of illegally copying millions of books to train its Gemini AI service — the latest front in the fight over whether published books can be used as AI training data.",
-      "note": "On-list (publishingperspectives.com). og:article date -> 2026-07-14; used 2026-07-14T00:00:00Z; freshness.py books -> FRESH. Borderline on override #4 (copyright/legal), kept because it is core AI×books/publishing news (training-data rights for books), freshest hard-news item, distinct outlet. Flag: one of two copyright items in the pool — curator may keep only one."
+      "published_iso": "2026-07-13T12:36:15Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-12-at-9.31.32-PM.png",
+      "excerpt": "Coverage of Guatemala's book market includes a CONTEC Guatemala panel titled 'AI and Authorship' where a literary translator, publisher, and writer debate how translators can leverage AI tools while arguing human translators remain essential because literary translation requires original linguistic solutions tailored to each text.",
+      "note": "On-list (publishingperspectives.com). article:published_time 2026-07-13T12:36:15Z; freshness.py books -> FRESH. Single-topic craft hook: AI in literary translation/authorship workflow. First PP item (per-source cap allows up to 3)."
     },
     {
-      "url": "https://www.thebookseller.com/news/ai-copyright-litigation-yet-to-resolve-key-questions-for-publishers-pls-conference-hears",
-      "source": "The Bookseller",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg",
-      "excerpt": "At the Publishers' Licensing Services conference, speakers said publishers still lack clear legal answers on AI training, AI outputs and licensing, leaving rights-holders navigating uncertainty as litigation drags on.",
-      "note": "On-list (thebookseller.com). WebFetch date 'July 6, 2026' -> 2026-07-06T00:00:00Z; freshness.py books -> FRESH. Distinct outlet. Secondary copyright/licensing item; flagged as redundant with the Google/Gemini suit — included for funnel breadth, curator may drop one."
+      "published_iso": "2026-07-10T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Three AI-driven startups are pitching publishers data-analytics tools designed to sharpen acquisition, marketing, and editorial decision-making while, they say, preserving human editorial judgment.",
+      "note": "On-list (publishersweekly.com). WebFetch gives published July 10, 2026 (date-only -> 2026-07-10T00:00:00Z); freshness.py books -> FRESH. Borderline relevance: leans publishing-ops analytics, but framed as a workflow-tooling shift for how publishing houses acquire/edit — kept as a weaker design-adjacent candidate for the curator; drop if judged pure business noise. Distinct outlet from the PP cluster."
     },
     {
-      "url": "https://goodereader.com/blog/kindle/the-amazon-kindle-has-new-ai-powered-translations",
-      "source": "Good e-Reader",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-13th-2026/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-01T16:40:00Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/01164056/assetsaboutamazon.jpg",
-      "excerpt": "Amazon expanded Kindle Translate, its free AI-powered translation service for KDP indie authors, from two language pairs to six languages (English, Spanish, German, French, Italian, Portuguese). Authors can create, price and publish fully formatted machine-translated editions in a few clicks, with automatic accuracy checks before publication.",
-      "note": "On-list (goodereader.com). CDN timestamp 16:40 Jul 1 -> 2026-07-01T16:40:00Z; freshness.py books -> FRESH (~322h, inside 336h window). Strong product/workflow hook: a concrete AI literary-translation tool that changes how self-pub authors localize/reach global readers. Distinct outlet and distinct topic (translation tooling, not the copyright/audiobook angles)."
+      "published_iso": "2026-07-13T09:29:25Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "Weekly international roundup led by an AI-and-books item: Rakuten Books' Tokyo strategy briefing named 'personalized discovery using Rakuten data and AI' as one of four priorities for refocusing its online bookstore, underscoring AI's growing role in retail book discovery.",
+      "note": "On-list (publishingperspectives.com). article:published_time 2026-07-13T09:29:25Z; freshness.py books -> FRESH. Roundup format; the load-bearing hook is AI-driven book discovery (Rakuten). Second PP item."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-6th-2026/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-07-06T11:16:11Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "Weekly roundup touching several AI-and-books threads: an Australian audiobook survey found 17.4% of respondents had tried AI narration/text-to-speech, and reports that U.S. AI firms are buying (and scanning) large quantities of secondhand German-language books to train LLMs.",
+      "note": "On-list (publishingperspectives.com). datePublished 2026-07-06T11:16:11Z; freshness.py books -> FRESH. Roundup; carries AI-narration adoption + AI-training-data angles. Third PP item (at per-source cap of 3)."
+    },
+    {
+      "url": "https://bookriot.com/today-in-books-july-5-2026/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-07-05T15:00:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+      "excerpt": "Weekly book-news roundup whose lead items include a writer accused of using AI winning the Commonwealth Short Story Prize and Google Play Books rolling out 'Book Insights,' a Gemini-built reading companion offering recaps and spoiler-free in-book Q&A.",
+      "note": "On-list (bookriot.com). article:published_time 2026-07-05T15:00:00Z; freshness.py books -> FRESH. Roundup; design-relevant hooks are the Google Play Books AI reading-assistant feature and AI-in-creative-writing prize controversy. Distinct outlet."
     }
-  ]
+  ],
+  "collection_note": "Books x AI is genuinely thin inside the 14-day window (2026-07-02..07-16). Nearly all strong single-topic items surfaced (Commonwealth/Granta AI-prize story via thebookseller 2026-06-30 and bookriot 2026-07-01; Google Play Books 'Book Insights' bookriot 2026-06-17 / goodereader 2026-04-06; Barnes & Noble AI books 2026-05-20; Sudowrite Muse; Kobo AI self-pub 2025-06-29; multiple lithub essays Apr-May) fell just OUTSIDE the window and were dropped by the deterministic freshness gate. Items already covered in news_data (Kindle Translate expansion 2026-07-15, AI audiobook surveys, publishers-sue-Google-Gemini, IPA children's/literacy) were deprioritized per the keyword plan. Extensive sweeps of goodereader, janefriedman, writersdigest, kindlepreneur, reedsy, teleread, the-digital-reader, scholarlykitchen, electricliterature, lithub returned only stale/evergreen pages. Result: 5 FRESH candidates but only 3 distinct outlets (Publishing Perspectives x3 at cap, Publishers Weekly x1, Book Riot x1) and 3 are weekly roundups. Floor of 3 exceeded; the section's fresh single-topic AI news is effectively exhausted for this window."
 }

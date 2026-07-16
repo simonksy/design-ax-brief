@@ -1,61 +1,51 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "books",
-  "selection_mode": "curator",
+  "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://goodereader.com/blog/kindle/the-amazon-kindle-has-new-ai-powered-translations",
-      "source": "Good e-Reader",
+      "url": "https://publishingperspectives.com/2026/07/in-guatemala-a-growing-book-market-faces-some-familiar-challenges/",
+      "source": "Publishing Perspectives",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Concrete, actionable AI tool release: Amazon expanded Kindle Translate, its free AI translation service for KDP indie authors, from two language pairs to six languages (EN, ES, DE, FR, IT, PT), with in-tool formatting, pricing, publishing and automatic accuracy checks. Directly changes how self-pub authors localize and reach global readers. Distinct outlet and topic from published kindle-recaps and Ailaysa translation AI.",
-      "published_iso": "2026-07-01T16:40:00Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/01164056/assetsaboutamazon.jpg",
-      "excerpt": "Amazon has expanded Kindle Translate, its free AI-powered translation service for KDP indie authors, from two language pairs to six languages - English, Spanish, German, French, Italian and Portuguese. Authors can create, manage, price and publish fully formatted machine-translated editions of their books in a few clicks, with automatic accuracy checks before publication.",
-      "category": "books"
+      "category": "books",
+      "headline": "Guatemala's growing book market debates 'AI and Authorship'",
+      "published_iso": "2026-07-13T12:36:15Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-12-at-9.31.32-PM.png",
+      "excerpt": "Coverage of Guatemala's book market includes a CONTEC Guatemala panel titled 'AI and Authorship' where a literary translator, publisher, and writer debate how translators can leverage AI tools while arguing human translators remain essential because literary translation requires original linguistic solutions tailored to each text.",
+      "rationale": "Single-topic craft hook on how literary translators can fold AI into their workflow while defending human judgment - actionable for translation/authorship work, and not previously published (distinct from the IPA sessions)."
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
-      "source": "Publishers Weekly",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-6th-2026/",
+      "source": "Publishing Perspectives",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Freshest craft/production hook: two dueling new surveys on AI audiobook narration - a Spoken study found 61% of listeners mistook AI voices for human and favored them in multi-character scenes, while an Audio Publishers Association study shows willingness to try AI narration fell from 70% (2025) to 61% (2026). A concrete new data point (multi-cast AI voices) that changes how audiobook producers weigh AI narration; distinct survey/angle from the published anu-audiobook report and cartland-clone story.",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Two dueling surveys on AI audiobook narration: a Spoken-commissioned study found 61% of listeners mistook AI voices for human and favored them in multi-character scenes, while an Audio Publishers Association study shows willingness to try AI narration fell from 70% (2025) to 61% (2026) - human narration still preferred.",
-      "category": "books"
+      "category": "books",
+      "headline": "AI narration adoption and LLM book-scanning surface in the week's book-world roundup",
+      "published_iso": "2026-07-06T11:16:11Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "Weekly roundup touching several AI-and-books threads: an Australian audiobook survey found 17.4% of respondents had tried AI narration/text-to-speech, and reports that U.S. AI firms are buying (and scanning) large quantities of secondhand German-language books to train LLMs.",
+      "rationale": "Two fresh, distinct AI-and-books data points (a new Australian AI-narration adoption survey and physical-book scanning for LLM training) not in the published history - the audiobook thread is a different survey/geography than the already-published US Spoken/APA study."
     },
     {
-      "url": "https://publishingperspectives.com/2026/07/u-s-publishers-sue-google-alleging-massive-copyright-infringement-behind-its-gemini-ai-service/",
-      "source": "Publishing Perspectives",
+      "url": "https://bookriot.com/today-in-books-july-5-2026/",
+      "source": "Book Riot",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "The single AI-legal pick kept (override #4): a new class-action by Cengage, Elsevier and Hachette accusing Google of copying millions of books to train Gemini - a distinct lawsuit from the earlier PLS litigation already published. Sets the terms for whether books can be used as AI training data, materially affecting authors and publishers. Distinct outlet (Publishing Perspectives).",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Googleplex_-_June_2019_5865-793x529.jpg",
-      "excerpt": "Publishers including Cengage, Elsevier and Hachette have filed a class-action suit against Google, accusing it of illegally copying millions of books to train its Gemini AI service - the latest front in the fight over whether published books can be used as AI training data.",
-      "category": "books"
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100804-2026-ipa-congress-spotlights-children-s-books-and-literacy.html",
-      "source": "Publishers Weekly",
-      "tool": "Books",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "rationale": "Distinct IPA Congress angle not yet published: three sessions on children's publishing argue that format and content quality - not AI itself - shape how digital-native kids read, and press publishers on closing a widening global literacy gap. Separate session/sub-topic from the already-published IPA cards (opening recap, innovation awards, emerging-markets session). Second Publishers Weekly pick, given a distinct accent from the first PW card.",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": null,
-      "excerpt": "At the 35th IPA Congress in Kuala Lumpur, three sessions on children's publishing argued that format and quality of content - not AI itself - shape how digital-native kids read, and pressed publishers on closing a widening global literacy gap.",
-      "category": "books"
+      "category": "books",
+      "headline": "AI-accused writer wins a major prize as Google Play Books adds a Gemini reading companion",
+      "published_iso": "2026-07-05T15:00:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+      "excerpt": "Weekly book-news roundup whose lead items include a writer accused of using AI winning the Commonwealth Short Story Prize and Google Play Books rolling out 'Book Insights,' a Gemini-built reading companion offering recaps and spoiler-free in-book Q&A.",
+      "rationale": "Distinct outlet with two design-relevant AI hooks - a shipping Google Play Books Gemini reading feature and an AI-in-creative-writing prize controversy - neither of which appears in the 5-day published history."
     }
   ],
   "dedup_notes": {
-    "history_checked": "candidates_filtered_books.json (4 items) already URL-deduped vs the last 5 days of books history in news_data.prev.json (2026-07-14 and earlier; same-date 07-15 cards excluded as idempotent replacements). All 4 are genuinely fresh, distinct stories: Kindle Translate is a distinct product from kindle-recaps and Ailaysa; the PW audiobook-surveys item is a distinct survey/data angle from anu-audiobook and cartland-clone; the Google/Gemini class-action is a distinct lawsuit from the earlier pls-litigation card (07-08); the PW IPA-children item is a distinct congress session from the published IPA cards.",
-    "diversity": "outlets: publishersweekly.com x2 (within the <=2-per-domain guard) + goodereader.com x1 + publishingperspectives.com x1 = 3 distinct outlets. categories: books x4 (single-category section, unavoidable); distinct accents assigned (#f5a623, #7928ca, #2ec5c5, #eb367f).",
-    "override_4": "Pool held exactly one AI-copyright/legal item (Google/Gemini suit); the PLS-conference legal item was not in the filtered pool. Kept the single legal item and led with product/craft picks to avoid AI-business noise.",
-    "count": "4 picks from 4 available - above the floor of 3, below the cap of 5. All fresh distinct items kept; no padding, no backfill needed."
+    "history_checked": "Checked all 3 filtered candidates against sections.books published history in news_data.json (today 07-15 + days 07-09 through 07-14). No URL or content duplicates. Guatemala 'AI and Authorship' panel is distinct from IPA sessions; the around-the-book-world Australian AI-narration survey is a different study/geography than the published US Spoken/APA audiobook surveys; Book Riot's Google Play Books 'Book Insights' and Commonwealth Prize items are not in the published window.",
+    "diversity": "outlets: publishingperspectives.com x2 (within <=2-per-domain guard) + bookriot.com x1 = 2 distinct outlets. Only 3 candidates survived (thin section) so >=3-outlet target is unreachable without padding. categories: books x3 (single-category section); distinct accents assigned (#f5a623, #7928ca, #2ec5c5).",
+    "count": "3 picks from 3 available fresh candidates - meets the floor of 3. All carry genuine AI x books hooks; none dropped, no padding, no backfill possible (pool exhausted)."
   }
 }

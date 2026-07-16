@@ -1,10 +1,11 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "design",
   "media": [
-    { "id": "canva-code2", "type": "image", "src": "pipeline/media/canva-code2.jpg" },
-    { "id": "tokens-prompts", "type": "svg" },
-    { "id": "generative-ui2", "type": "image", "src": "pipeline/media/generative-ui2.png" },
-    { "id": "novineer-cad", "type": "image", "src": "pipeline/media/novineer-cad.jpg" }
+    { "id": "no-more-ai", "type": "image", "src": "pipeline/media/no-more-ai.jpg" },
+    { "id": "best-ai-tools-2026", "type": "video", "src": "pipeline/media/best-ai-tools-2026.mp4", "poster": "pipeline/media/best-ai-tools-2026.jpg" },
+    { "id": "post-chat-ui", "type": "image", "src": "pipeline/media/post-chat-ui.png" },
+    { "id": "illusion-font", "type": "image", "src": "pipeline/media/illusion-font.png" },
+    { "id": "daniel-porto", "type": "image", "src": "pipeline/media/daniel-porto.jpg" }
   ]
 }

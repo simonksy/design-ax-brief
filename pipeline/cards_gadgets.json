@@ -1,58 +1,50 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "gadgets",
   "cards": [
     {
-      "id": "galaxy-z8",
-      "tool": "Samsung",
+      "id": "openai-speaker",
+      "tool": "OpenAI",
       "eyebrow": "AI NEWS",
-      "headline": "언팩을 앞두고 유출된\n갤럭시 Z 폴드·플립 8",
-      "body": "7월 22일 언팩을 앞두고 갤럭시 Z 플립·폴드 8과 워치 9·울트라 2의 공식 렌더가 최종 색상까지 그대로 유출됐다.",
-      "mini_headline": "갤럭시 언팩 렌더 유출",
+      "headline": "오픈AI의 첫 하드웨어는\n화면 없는 AI 동반 스피커",
+      "body": "오픈AI의 첫 기기는 화면 없는 휴대용 AI 스피커로, 카메라와 센서로 상황을 파악한다고 블룸버그가 전했다.",
+      "mini_headline": "오픈AI 첫 AI 스피커",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/",
+      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "안드로이드 헤드라인이 삼성 신제품 여러 종의 공식 렌더를 입수했다. 갤럭시 Z 플립 8과 Z 폴드 8, 갤럭시 워치 9, 워치 울트라 2가 한꺼번에 담겼다."
+            "x": "오픈AI가 만드는 첫 하드웨어 제품이 화면 없는 휴대용 'AI 동반' 스피커라고 블룸버그가 전했다."
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/official-renders-for-samsungs-galaxy-z-flip-8-watch-9-watch-2-ultra-and-z-fold-8-leak/intro-1783527075.jpg",
-            "cap": "유출된 삼성 갤럭시 신제품 공식 렌더"
+            "src": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
+            "cap": "오픈AI 첫 기기 상상도"
           },
           {
             "t": "p",
-            "x": "Z 플립 8은 화이트, 그레이, 핑크 세 가지 색으로 나온다. 디자인은 Z 플립 7과 거의 판박이인데, 나쁘게 볼 일은 아니다. 카메라와 플래시 위치도 그대로다. 다만 플립 7의 유일한 약점이던 낡은 카메라만큼은 내부가 좀 나아졌기를 바란다."
+            "x": "고급 GPT-Live 음성 모드로 돌아가고, 살아 있는 듯한 느낌을 주려고 기계적으로 움직이는 부품을 넣었다는 이야기다."
           },
           {
             "t": "p",
-            "x": "칩은 엑시노스 2600을 얹은 모델과 스냅드래곤 8 엘리트 Gen 5를 얹은 모델, 두 가지로 갈린다는 소문이 돈다. 전 세계 램 부족 탓에 이번엔 하드웨어를 크게 갈아엎진 않았을 거라는 관측이다. 힌지를 다시 손봤고 본체가 더 가벼워졌다는 이야기도 흘러나온다."
-          },
-          {
-            "t": "p",
-            "x": "Z 폴드 8은 삼성이 언팩 광고에서 넌지시 내비친 '넓은 폴더블'로 보인다. 짤막하고 넓은 형태에 색상은 네 가지다. 외부 화면은 5.5인치 QHD+에 16:10 비율로, 삼성 태블릿과 같은 비율이다. 안쪽은 좀 더 전통적인 7.6인치 4:3 패널이다. 무게는 200그램 안팎으로 아주 가볍고, 스냅드래곤 8 엘리트 Gen 5가 들어간다고 한다. 상위 모델인 Z 폴드 8 울트라도 준비 중인데, 그쪽 렌더는 지난주에 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "워치 9는 워치 8과 빼닮았고 색상 세 가지에 크기 두 종으로 나온다. 가격은 30~60달러 오를 거라는 소문이 있다. 워치 울트라 2는 47mm 한 가지 크기에 색상 두 가지이고, 역시 가격 인상설이 따라붙는다. 확정된 건 없지만 안드로이드 헤드라인은 유출 정보에 관해선 믿을 만한 곳이다. 언팩은 7월 22일에 열린다."
+            "x": "카메라와 여러 센서를 달아 주변을 읽고 맥락을 파악하도록 설계했다고 한다. 충전식으로, 들고 다니는 것을 염두에 뒀다."
           }
         ]
       }
     },
     {
-      "id": "meta-rayban-led",
-      "tool": "Meta",
+      "id": "siri-gemini",
+      "tool": "Apple",
       "eyebrow": "AI NEWS",
-      "headline": "메타가 손본 레이밴 안경\n카메라 없는 설계가 답일까",
-      "body": "메타가 레이밴 안경의 녹화 LED 조작을 막도록 패치하자 카메라 없는 AI 안경이 답인지 논쟁에 다시 불이 붙었다.",
-      "mini_headline": "레이밴 LED 조작 차단",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-just-fixed-a-privacy-vulnerability-with-its-ray-ban-smart-glasses-but-could-cameraless-designs-be-the-better-future",
+      "headline": "제미나이로 다시 만든 시리\niOS 27에 드디어 담겼다",
+      "body": "제미나이로 새로 만든 시리가 iOS 27에 실렸고, 한 달 써 보니 개인 정보 검색과 다단계 작업에 쓸 만했다.",
+      "mini_headline": "새 시리, 한 달 써 보니",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/apple-fcking-did-it-one-month-with-siri-ai-2000784845",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -60,33 +52,33 @@
         "blocks": [
           {
             "t": "p",
-            "x": "메타가 레이밴 AI 안경을 손봤다. 녹화 표시등(LED)을 건드리면 카메라가 아예 꺼지도록 하는 패치다."
+            "x": "1년 미뤄졌던 애플의 새 시리가 iOS 27에 실렸다. 이번 시리는 구글 제미나이 모델로 돌아간다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/hEJdTA3TwbnfDQCMUCHyc9-2560-80.jpg",
-            "cap": "메타 레이밴 스마트 안경"
+            "src": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3.jpg",
+            "cap": "iOS 27의 새 시리를 써 보는 모습"
           },
           {
             "t": "p",
-            "x": "이 조치는 모딩 진영에서 LED를 꺼 주는 서비스를 팔기 시작한 뒤에 나왔다. 녹화 중임을 알리는 불빛을 무력화하면 남몰래 촬영할 수 있다는 우려가 커졌기 때문이다."
+            "x": "기즈모도가 한 달 동안 써 보니, 개인 데이터를 뒤지거나 여러 단계를 거치는 작업에서 제법 쓸 만했다."
           },
           {
             "t": "p",
-            "x": "테크레이더는 이 일을 계기로 카메라 없는 AI 안경이 더 안전한 설계인지 다시 묻는다. 프라이버시를 앞세운 웨어러블을 저울질하는 사람에게는 곱씹어 볼 지점이다."
+            "x": "다만 흠 하나 없이 매끄러운 수준까지는 아직 이르지 못했다는 평이다. 그래도 애플 비서에 기대는 사람이라면 챙겨 볼 만한 변화다."
           }
         ]
       }
     },
     {
-      "id": "google-home-speaker",
+      "id": "pixel10-gemma4",
       "tool": "Google",
       "eyebrow": "AI NEWS",
-      "headline": "NPU를 넣은 99달러\n구글 첫 제미나이 스피커",
-      "body": "구글이 온디바이스 AI 전용 NPU와 360도 음향을 갖춘 첫 제미나이 스피커를 99달러에 내놨다.",
-      "mini_headline": "구글 제미나이 스피커",
-      "source": "Android Central",
-      "url": "https://www.androidcentral.com/accessories/smart-home/google-home-speaker-2026-review",
+      "headline": "픽셀 10 텐서 G5에서\n오프라인으로 도는 젬마 4",
+      "body": "젬마 4가 픽셀 10의 텐서 G5에서 바로 돌아가, 인터넷 없이 AI 대화와 이미지 인식, 음성 받아쓰기를 처리한다.",
+      "mini_headline": "오프라인 도는 젬마 4",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -94,33 +86,33 @@
         "blocks": [
           {
             "t": "p",
-            "x": "구글이 처음부터 제미나이를 겨냥해 새로 만든 스마트 스피커, 99달러짜리 '홈 스피커'를 직접 써 본 리뷰다."
+            "x": "구글의 젬마 4 E2B가 픽셀 10의 텐서 G5 TPU에서 바로 돌아간다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/NYZV4dx79XHGaCbAd57Y8J-2048-80.jpg",
-            "cap": "구글 홈 스피커"
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
+            "cap": "구글 텐서 G5 칩"
           },
           {
             "t": "p",
-            "x": "온디바이스 AI 연산을 맡는 전용 NPU를 넣었고, 소리는 360도로 퍼뜨린다. 집 안 기기는 제미나이와 대화하듯 다룬다."
+            "x": "인터넷에 연결하지 않고도 AI 대화와 이미지 인식, 음성 받아쓰기를 폰 안에서 처리한다."
           },
           {
             "t": "p",
-            "x": "안드로이드 센트럴의 리뷰 제목은 '기본으로 돌아가다'로, 화려한 기능보다 기본기를 어떻게 살렸는지에 무게를 뒀다."
+            "x": "데이터를 밖으로 내보내지 않는 로컬 방식의 생성형 AI로 한 걸음 옮겨 가는 셈이다. 사생활을 앞세운 온디바이스 AI 흐름과 맞닿아 있다."
           }
         ]
       }
     },
     {
-      "id": "roborock-saros20",
-      "tool": "Roborock",
+      "id": "meta-one-premium",
+      "tool": "Meta",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 장애물을 피하는\n로보락 사로스 20",
-      "body": "로보락 사로스 20은 AI 인식으로 장애물 300여 종을 피하고 솔리드스테이트 라이다로 스스로 길을 찾는다.",
-      "mini_headline": "AI 청소로봇 사로스 20",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/roborock-saros-20-review-jack-of-all-trades-master-of-most-2000782913",
+      "headline": "메타 스마트 안경 AI 기능\n월 20달러 유료로 나뉜다",
+      "body": "메타가 월 20달러 '메타 원 프리미엄'을 내놓고, 안경의 AI '대화 집중' 기능을 무료 월 3시간으로 묶었다.",
+      "mini_headline": "메타 안경 AI 유료화",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/07/02/meta-glasses-get-premium-usage-limits/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -128,80 +120,20 @@
         "blocks": [
           {
             "t": "p",
-            "x": "브렌트 로즈가 1,600달러짜리 로보락 사로스 20을 써 봤다. 로봇청소기는 흡입은 좋은데 구석을 못 닦거나, 물체는 잘 알아보는데 힘이 달리는 식으로 저마다 약점을 지니기 마련이다. 사로스 20은 모든 걸 고르게 잘 해내는 첫 제품이라고 그는 평했다. 기즈모도의 2026 에디터스 초이스다."
+            "x": "메타가 월 20달러짜리 '메타 원 프리미엄' 구독을 시작했다."
           },
           {
             "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-09.jpg",
-            "cap": "로보락 사로스 20"
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg",
+            "cap": "메타·오클리 스마트 안경"
           },
           {
             "t": "p",
-            "x": "흡입력은 36,000Pa에 이른다. 2년 전만 해도 10,000Pa면 프리미엄으로 쳤다. 어댑트리프트 섀시 3.0은 최대 3.46인치 높이의 이중 문턱을 넘고, 새 스타사이트 2.0 내비게이션은 300종이 넘는 물체를 알아본다. 앞면에 이중 솔리드스테이트 라이다를 달아 예전의 회전식 레이저 센서(LDS)를 없앴고, 덕분에 몸체가 납작해져 3.13인치 높이 가구 밑까지 들어간다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-08.jpg",
-            "cap": "새로 설계한 도크"
+            "x": "스마트 안경의 AI '대화 집중' 기능은 무료로 쓰면 월 3시간까지만 열어 두고, 유료로 올리면 월 15시간까지 늘려 준다."
           },
           {
             "t": "p",
-            "x": "도크도 새로 짰다. 2시간 반이면 배터리를 100%까지 급속 충전한다. 깨끗한 물 4리터, 오수 3.5리터 탱크를 갖췄고, 물을 화씨 212도(끓는점)까지 데워 걸레를 적신 뒤 빨고, 다시 화씨 131도 바람으로 말린다. 걸레가 매번 살균되니 냄새가 나거나 세균을 퍼뜨릴 일이 없다. 세제 칸이 따로 있어 물만 채우면 되고, 설정에 따라 두 달까지 손대지 않아도 된다."
-          },
-          {
-            "t": "p",
-            "x": "AI 물체 인식은 인상적이었다. 멀티탭과 벽에 붙은 케이블을 가려냈고, 테이블 밑에 둔 슬리퍼를 '신발'로, 사무용 의자를 '갇히기 쉬운 가구'로 표시했다. 원룸 전체 청소는 90분, 주방만 하면 5분이면 끝난다. 집 안 지도를 그리는 데는 12분이 걸렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-01.jpg",
-            "cap": "완벽하진 않은 자율주행"
-          },
-          {
-            "t": "p",
-            "x": "약점도 뚜렷하다. 집을 비운 사이 소파와 테이블 틈에 끼여 빠져나오지 못하고 배터리를 다 써 버렸다. 무늬 있는 러그 위에서는 USB-C 케이블을 빨아들였고, 침대에 걸쳐 둔 가운 허리끈을 감아 올리기도 했다. 지정 구역을 8피트 넘게 벗어나 엉뚱한 곳을 돌기도 했다. 그래도 지금껏 써 본 로봇청소기 가운데 가장 낫다는 게 결론이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "surface-x2plus",
-      "tool": "Microsoft",
-      "eyebrow": "AI NEWS",
-      "headline": "스냅드래곤 X2 플러스를 단\n서피스 랩톱 13.8",
-      "body": "서피스 랩톱 13.8이 스냅드래곤 X2 플러스로 NPU와 CPU를 끌어올려 코파일럿+ 온디바이스 AI를 앞세운다.",
-      "mini_headline": "서피스 랩톱 X2 플러스",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "노트북체크가 2026년형 마이크로소프트 서피스 랩톱 13.8을 리뷰했다. 2년 만의 변화치고는 하드웨어를 거의 그대로 두고 퀄컴의 새 스냅드래곤 X2 플러스만 얹었는데, 그 성능 향상만으로도 값을 한다고 봤다. 종합 평점은 88%, '매우 우수'다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG",
-            "cap": "서피스 랩톱 13.8"
-          },
-          {
-            "t": "p",
-            "x": "스냅드래곤 X2 플러스(X2P-64-100)는 10코어다. 프라임 코어 6개가 4.0GHz, 퍼포먼스 코어 4개가 3.4GHz로 돈다. 소비 전력은 최대 28W, 지속 18W이고 내장 GPU는 아드레노 X2-45로 1350MHz다. 성능은 12코어짜리 X2 엘리트에 바짝 붙는다. 시네벤치 2024 멀티코어에서 854점(X2 엘리트 1078점, 애플 M5 957점), 긱벤치 6.7 멀티코어에서 14,277점을 냈다."
-          },
-          {
-            "t": "p",
-            "x": "화면은 13.8인치 3:2 IPS 터치스크린으로 2304×1536 해상도에 120Hz다. 최대 밝기 659cd/m², 명암비 1402:1이고 sRGB 97.8%, P3 96.5%를 덮는다. 광택 패널이지만 PWM 깜빡임은 없다."
-          },
-          {
-            "t": "p",
-            "x": "메모리는 16GB LPDDR5x-9523이 기판에 납땜돼 있어 늘릴 수 없다. SK하이닉스 512GB SSD는 M.2 2230 규격이라 교체할 수 있다. 배터리는 54Wh, 여기에 USB4 40Gbps 두 개와 USB-A 3.1, 와이파이 7, 서피스 커넥트를 갖췄다. 색상은 새 제이드에 플래티넘·듄·블랙이 더해지고 무게는 1.338kg이다. 코파일럿+ PC 인증을 받았다."
-          },
-          {
-            "t": "p",
-            "x": "기본 구성은 X2 플러스·16GB·512GB로 1,599달러(유럽 1,699유로)다. X2 엘리트와 성능 차가 미미해 램이나 저장 공간이 더 필요한 게 아니라면 굳이 바꿀 이유는 없다. 리뷰는 개인 고객에게 스냅드래곤만 강제하는 점을 아쉬워한다. GPU가 더 빠른 인텔판을 개인은 살 수 없기 때문이다."
+            "x": "웨어러블에 담긴 온디바이스 AI 기능을 어떻게 돈으로 바꾸는지 보여 주는 첫 신호다."
           }
         ]
       }

@@ -1,21 +1,9 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "games",
   "media": [
-    {
-      "id": "sts2-placeholder",
-      "type": "image",
-      "src": "pipeline/media/sts2-placeholder.jpg"
-    },
-    {
-      "id": "lucas-ai-future",
-      "type": "image",
-      "src": "pipeline/media/lucas-ai-future.jpg"
-    },
-    {
-      "id": "vibe-clone-steam",
-      "type": "image",
-      "src": "pipeline/media/vibe-clone-steam.jpg"
-    }
+    { "id": "steam-ai-flood", "type": "image", "src": "pipeline/media/steam-ai-flood.jpg" },
+    { "id": "sony-synthetic-assets", "type": "image", "src": "pipeline/media/sony-synthetic-assets.jpg" },
+    { "id": "capybara-vibe-code", "type": "image", "src": "pipeline/media/capybara-vibe-code.jpg" }
   ]
 }

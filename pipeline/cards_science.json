@@ -1,266 +1,144 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "science",
   "cards": [
     {
-      "id": "chemgraph",
+      "id": "thermo-computing",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "자연어로 말하면 AI 에이전트가\n화학 계산을 대신 돌린다",
-      "body": "아르곤의 오픈소스 ChemGraph는 자연어로 낸 문제를 계산화학 작업으로 바꿔 비전문가도 소재 시뮬레이션을 돌리게 한다.",
-      "mini_headline": "말로 여는 화학 계산",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
+      "headline": "열의 무작위 노이즈로 계산해\n생성형 AI 전력을 줄인다",
+      "body": "열역학 컴퓨터는 열 요동과 노이즈를 연산에 직접 써서 생성형 AI를 지금보다 훨씬 적은 전력으로 돌린다.",
+      "mini_headline": "노이즈를 연산으로 쓰는 칩",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "컴퓨터는 실제 실험에 앞서 가상 시뮬레이션을 돌리게 해주며 소재 설계를 바꿔놓았다. 다만 원자 단위까지 정밀한 시뮬레이션을 짜려면 계산화학 전문 지식이 많이 필요했다. 미국 에너지부 산하 아르곤 국립연구소(Argonne National Laboratory) 연구진은 이 작업 흐름을 인공지능으로 간소화하는 오픈소스 프레임워크 ChemGraph를 내놓았다."
-          },
-          {
-            "t": "p",
-            "x": "ChemGraph는 계산화학과 재료과학 계산의 여러 단계를 자동으로 처리한다. 배터리 개발과 엔진 효율 개선, 핵심 소재 추출을 앞당길 여지가 있다. 연구 결과는 학술지 Communications Chemistry에 실렸다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 아르곤 리더십 컴퓨팅 시설(ALCF)의 자원으로 ChemGraph를 만들었다. 엑사스케일 슈퍼컴퓨터 Aurora와, 대규모 언어모델을 클라우드처럼 쓰게 해주는 ALCF 추론 서비스가 쓰였다."
+            "x": "현대 AI 하드웨어의 바탕을 물리학으로 다시 짜려는 시도가 나왔다. 퀀타 매거진은 열역학 컴퓨터를 들여다본다. 스타트업 Normal Computing과 Extropic이 만드는 이 칩은 열의 요동과 노이즈를 억누르는 대신, 오히려 계산에 끌어다 쓴다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-2.jpg",
-            "cap": "ChemGraph로 결과를 살펴보는 아르곤의 Murat Keçeli와 Thang Duc Pham. 출처: Argonne National Laboratory"
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp"
           },
           {
             "t": "p",
-            "x": "예전에는 시뮬레이션 하나를 돌리는 데 박사급 지식과 수십 단계의 절차가 필요했다. 알맞은 과학적 방법을 고르고 호환 소프트웨어를 찾고 입력 데이터를 준비하며, 매개변수를 미세 조정해 계산을 차례로 진행해야 결론에 닿았다. ChemGraph는 이 과정을 전담 에이전트들에게 나눠 맡긴다. 계획과 실행, 데이터 취합을 각각 도맡는 도우미인 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "약 10년 전 아르곤 계산과학자 Murat Keçeli는 규칙 기반으로 화학 작업을 자동화하기 시작했다. 2017년에는 아르곤 석학연구원 Stephen Klippenstein과 박사후 과정을 밟으며 Quantum Thermochemistry Calculator를 개발했다. 2022년 말 ChatGPT가 등장하자 그는 기회를 봤다. “이 대규모 언어모델의 도약이 일어났을 때, 그 작업 흐름 자동화로 다시 돌아가야겠다고 생각했다”고 그는 말했다."
-          },
-          {
-            "t": "p",
-            "x": "연구자가 과학 문제를 평범한 말로 설명하면, ChemGraph는 그 요청을 필요한 계산 작업과 소프트웨어 도구, 분석으로 옮긴다. 연구진은 적절한 유형의 도구와 라이브러리만 부르도록 설계해, 생성형 AI가 답을 지어내는 환각 위험을 줄였다. “우리는 대규모 언어모델이 그저 질문에 답하기만 바라지 않는다”고 아르곤 박사후연구원이자 ChemGraph 공동 개발자인 Thang Duc Pham은 말했다. 이 시스템은 “물리 기반 시뮬레이션을 돌려 답을 찾아준다”는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "처음에는 에이전트 하나로 만들었지만 복잡도가 높아지자 한계가 드러났다. 작업마다 어울리는 언어모델이 다르고, 어떤 일은 작은 모델로 되지만 어떤 일은 정교한 추론이 필요했다. 여러 에이전트를 쓰는 편이 더 효율적이었다. “모든 일에 한 종류의 LLM만 쓰면 비용과 배정된 계산 시간을 낭비할 위험이 있다”고 Keçeli는 설명했다. 계획은 큰 모델로 시작하고 실행은 작은 모델로 되돌리는 방식이다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-1.jpg",
-            "cap": "계산 부담이 큰 양자화학 시뮬레이션은 ALCF의 엑사스케일 슈퍼컴퓨터 Aurora에서 돌렸다. 출처: Argonne National Laboratory"
-          },
-          {
-            "t": "p",
-            "x": "최근 협업에서는 ChemGraph를 X-선 흡수 근접단 구조(XANES) 시뮬레이션과 분석에 맞게 고쳐 분광 작업을 자동화했고, Aurora에서 고처리량 소재 스크리닝을 조율하도록 확장하기도 했다. “ChemGraph를 챗봇형 인터페이스로 ALCF 사용자에게 서비스처럼 제공하는 것이 우리의 꿈”이라고 Keçeli는 말했다. 장기적으로는 자율성을 더 높여 최소한의 개입만으로 복잡한 계산 작업을 스스로 다듬게 하는 것이 목표다."
+            "x": "이렇게 하면 생성형 AI 알고리즘을 지금보다 훨씬 적은 전력으로 돌릴 수 있다는 것이 이들의 약속이다. 열의 흐름을 거스르지 않고 그 결을 따라가는 셈이다. 현대 AI를 떠받치는 하드웨어 기판 자체를 물리학의 눈으로 다시 생각하는 접근이다."
           }
         ]
       }
     },
     {
-      "id": "betadescribe",
+      "id": "san-andreas",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "단백질 서열을 문장으로 풀어\n기능 가설을 세우는 AI",
-      "body": "테크니온의 BetaDescribe는 단백질 서열을 자연어 설명으로 옮겨 기능이 밝혀지지 않은 단백질의 역할을 추정한다.",
-      "mini_headline": "서열을 읽는 언어모델",
+      "headline": "AI가 산안드레아스 단층에서\n숨은 미끄러짐을 찾아냈다",
+      "body": "산안드레아스 단층의 숨은 저속 미끄러짐을 AI로 찾아냈고, 이 조용한 움직임 뒤에 지진이 늘어남을 확인했다.",
+      "mini_headline": "단층 속 숨은 미끄러짐",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html",
+      "url": "https://phys.org/news/2026-07-ai-reveals-hidden-san-andreas.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "테크니온과 텔아비브대학교 연구진이 국제학술지 Proceedings of the National Academy of Sciences에 발표한 논문에서 BetaDescribe를 선보였다. 단백질 서열을 자연어 설명으로 옮기는 AI 시스템으로, 단백질 기능을 이해하는 새 길을 열고 신약 개발과 소재 설계를 앞당길 것으로 기대된다."
-          },
-          {
-            "t": "p",
-            "x": "단백질 분석은 의학과 바이오테크에서 빼놓을 수 없다. 희귀 사막 도마뱀의 침에서 발견된 펩타이드에서 영감을 얻어 개발된 오젬픽(Ozempic)이 대표적이다. 비만과 당뇨 등을 치료하는 이 약이 그런 사례다. 그러나 실험으로 단백질을 규명하는 일은 여전히 오래 걸리고 비싸며, 대규모 언어모델(LLM)조차 이 작업에서는 성과가 제한적이었다."
-          },
-          {
-            "t": "p",
-            "x": "이런 난관이 BetaDescribe 개발로 이어졌다. 단백질 서열을 기능과 여러 특성을 담은 상세한 텍스트 설명으로 바꿔주는 시스템이다. 실험실에서 규명된 수십만 개의 단백질과, 자연에 실제로 존재하는 수십억 내지 수조 개의 단백질 사이의 거대한 간극을 메우는 데 힘을 보탠다."
+            "x": "독일 GFZ 헬름홀츠 지구과학센터 연구진이 인공지능으로 캘리포니아 산안드레아스 단층에서 그동안 드러나지 않던 저속 미끄러짐, 이른바 ‘조용한’ 사건을 찾아냈다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-translates-p.jpg",
-            "cap": "예시 단백질(ChatGPT로 제작). 출처: Technion—Israel Institute of Technology"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/san-andreas-fault-hidd.jpg"
           },
           {
             "t": "p",
-            "x": "기존 방식은 이미 알려진 단백질 서열과의 유사성에 기댔다. BetaDescribe는 생성 모델에 검증 장치와 평가 과정을 결합한다. 덕분에 앞서 규명된 단백질과 가깝지 않은 경우에도 기능을 추론한다. 단백질의 기능적 특성과 촉매 활성, 대사 과정 관여, 의학 등에 관련된 잠재적 결합 부위까지 자세한 정보를 준다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 앞서 규명되지 않은 단백질 여섯 개를 성공적으로 기술해 새 시스템의 효과를 입증했다."
-          },
-          {
-            "t": "p",
-            "x": "이 기술은 의학 연구와 신약 발견, 바이오테크와 농업의 발전을 앞당길 것으로 보인다. 알려지지 않은 단백질의 기능을 두고 근거에 기댄 가설을 빠르게 세우면, 기초 발견에서 의학·산업 응용까지 가는 길이 크게 짧아지고 생물학 분석도 더 집중적이고 효율적으로 바뀐다."
-          },
-          {
-            "t": "p",
-            "x": "논문은 박사과정생 Edo Dotan이 이끌었고, 테크니온 Henry and Marilyn Taub 컴퓨터과학부의 Yonatan Belinkov 교수와 텔아비브대학교 생명과학부의 Tal Pupko 교수가 공동 지도했다. Eran Bacharach 교수, Marcelo Ehrlich 교수, 박사과정생 Iris Lyubman도 공저자로 참여했다."
+            "x": "단층이 서서히 기어가듯 움직이는 이 현상 뒤에는 지진 활동이 눈에 띄게 늘어난다는 사실도 함께 확인됐다. 지진의 전조를 들여다보는 AI 기반의 새 창이 열린 셈이다."
           }
         ]
       }
     },
     {
-      "id": "rhine",
+      "id": "binnd",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "중성자별 충돌 속 무거운 원소\n생성을 신경망으로 좇다",
-      "body": "GSI/FAIR가 만든 신경망 RHINE은 중성자별 병합의 가열 과정을 모사해 무거운 원소 생성을 더 빠르고 정확하게 계산한다.",
-      "mini_headline": "원소 탄생을 배운 신경망",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
+      "headline": "DNA 가닥의 결합을 예측하는\n딥러닝 모델 BINND",
+      "body": "BINND는 DNA 서열 1억4400만 쌍으로 학습해 어느 가닥끼리 결합하는지 83.5% 정확도로 예측한다.",
+      "mini_headline": "DNA 결합을 읽는 모델",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "연구진이 우주가 가장 무거운 원소들을 어떻게 만드는지 이해를 크게 넓힐 새 인공지능 기반 시뮬레이션을 개발했다. GSI/FAIR의 국제 연구팀이 만든 이 기계학습 모델은 중성자별 병합을 비롯한 격렬한 항성 현상에서 일어나는 복잡한 핵반응을 예전보다 훨씬 효율적으로 모사한다. 연구 결과는 학술지 Physical Review D에 실렸다."
-          },
-          {
-            "t": "p",
-            "x": "우주 곳곳의 화학 원소 상당수는 초신성 폭발과 중성자별 병합 같은 극단적 우주 현상에서 벼려진다. 이런 거대한 폭발은 급속 중성자 포획, 곧 r-과정으로 무거운 원자핵을 만드는 데 필요한 에너지를 낸다."
-          },
-          {
-            "t": "p",
-            "x": "r-과정에서 원자핵은 자유 중성자를 빠르게 흡수한다. 그중 일부 중성자가 양성자로 바뀌면서 원자핵이 더 커지고, 결국 자연에 존재하는 무거운 원소들이 만들어진다. 이 반응을 모사하는 일은 핵천체물리학의 최대 난제로 꼽힌다. 계산에 엄청난 연산 능력이 들기 때문이다."
+            "x": "노스캐롤라이나 주립대 연구진이 BINND(Binding and Interaction Neural Network for DNA)를 만들었다. 1억4400만 쌍의 DNA 서열로 학습한 딥러닝 모델이다."
           },
           {
             "t": "img",
-            "src": "https://www.sciencedaily.com/images/1920/neutron-star-merger.webp",
-            "cap": "중성자별 병합 상상도. 출처: Dana Berry, SkyWorks Digital, Inc."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2024/ai-and-medical.jpg"
           },
           {
             "t": "p",
-            "x": "“전 세계 연구자들이 이론 시뮬레이션으로 이 복잡한 반응을 이해하려 애쓴다. 하지만 모든 매개변수를 모델링하려면 어마어마한 연산 능력이 필요해, 모델을 단순화해야 할 때가 많다”고 이번 연구의 제1저자이자 GSI/FAIR ‘핵천체물리학·구조’ 부서 연구원인 Oliver Just 박사는 말했다. “인공지능을 쓰는 우리의 새 모델 RHINE이 효율적인 대안이 된다.”"
-          },
-          {
-            "t": "p",
-            "x": "RHINE(r-process heating implementation in hydrodynamic simulations with neural networks)은 기계학습, 그중에서도 심층학습 신경망에 기댄다. 유체역학 시뮬레이션이 돌아가는 동안 r-과정 핵반응에서 얼마나 많은 에너지가 나오는지 추정한다. 가열이라 불리는 이 에너지 방출은 항성 폭발에서 물질이 어떻게 뿜어져 나오는지를 좌우하는 중요한 요소다. 방출된 물질의 속도와 이후 만들어지는 빛에 모두 영향을 준다. 중성자별 병합에서는 그 눈부신 빛이 킬로노바로 관측된다."
-          },
-          {
-            "t": "p",
-            "x": "AI는 매 시뮬레이션마다 모든 핵 계산을 하지 않는다. 완전한 핵반응 네트워크를 담은 방대한 참조 계산 라이브러리로 먼저 학습한 뒤, 훨씬 적은 연산으로 가열률을 정확히 추정한다. “먼저 완전한 핵반응 집합으로 만든 다수의 참조 계산으로 ML 모델을 학습시킨다. 이어 이 모델을 유체역학 시뮬레이션에 넣어 r-과정 가열률을 최소한의 노력으로 근사한다”고 GSI/FAIR ‘핵천체물리학·구조’ 부서 과학자이자 기계학습 모델의 핵심 개발자인 Zewei Xiong 박사는 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "“상세한 비교로 ML 방식을 참조 데이터와 견줘 검증했다. 높은 일치도는 ML 모델이 연산 시간을 엄청나게 아낄 수 있음을 보여준다. 또 r-과정 가열이 앞으로의 모델링에서 더 잘 반영돼야 할 중요한 효과임을 결과에서 확인했다.” 연구진은 RHINE 덕분에 필요한 연산 자원을 크게 줄이면서도 훨씬 정밀한 시뮬레이션이 가능해질 것으로 본다. RHINE 소스 코드는 공개돼 다른 연구자들이 이어받을 수 있으며, 이 연구는 유럽연구위원회(ERC) 등의 지원을 받았다."
+            "x": "이 모델은 어떤 DNA 가닥끼리 서로 결합하는지 83.5% 정확도로 예측한다. 기존 방식보다 최소 10% 높은 수치다. DNA 컴퓨팅과 데이터 저장, 진단 등에 두루 쓸 수 있다."
           }
         ]
       }
     },
     {
-      "id": "chatbot-therapy",
+      "id": "supercooled-water",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "AI 챗봇과 사람 치료사\n어디까지 맡길 수 있나",
-      "body": "Judith Beck는 24시간 값싸게 열려 있는 AI 정신건강 챗봇의 이점과 위험을 공감과 임상 판단을 갖춘 치료사와 견준다.",
-      "mini_headline": "챗봇과 치료사 사이",
-      "source": "Psychology Today",
-      "url": "https://www.psychologytoday.com/us/blog/think-your-way-to-health/202607/i-need-help-should-i-use-an-ai-chatbot-or-a-therapist",
+      "headline": "물의 두 액체 상태를 가르는\nAI로 숨은 임계점을 좇다",
+      "body": "분자동역학으로 학습한 AI가 16가지 지표를 따져 과냉각수의 숨은 임계점을 짚어냈다.",
+      "mini_headline": "과냉각수의 숨은 임계점",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "임상심리학자 Judith S. Beck 박사는 도움이 필요할 때 AI 챗봇에 기대야 할지 사람 치료사를 찾아야 할지를 따져본다. ChatGPT, Claude, Gemini 같은 대규모 언어모델이 여러 산업에 빠르게 스며들었지만, “안전장치는 거의 없고 사용자에게 장기적으로 어떤 영향을 줄지에 대한 이해도 매우 제한적”이라고 그는 짚는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/judith_beck.jpg",
-            "cap": "임상심리학자 Judith S. Beck 박사. 출처: Psychology Today"
+            "x": "오사카대학교 연구진이 분자동역학 시뮬레이션으로 AI 모델을 학습시켰다. 16가지 구조 지표를 평가해, 물의 서로 경쟁하는 두 액체 상태를 가장 잘 구분하는 방법을 찾아내기 위해서다."
           },
           {
             "t": "p",
-            "x": "Beck는 자살이나 타살 생각을 품은 사람, 조현병이나 양극성장애 같은 심각한 정신질환이 있는 사람에게 챗봇은 안전하지 않다고 강조한다. 챗봇과 대화한 뒤 스스로 목숨을 끊거나 살인을 저지르거나 정신증 증상이 심해진 사례들을 그는 언급한다."
-          },
-          {
-            "t": "p",
-            "x": "위험은 더 있다. 사용자를 기쁘게 하도록 만들어진 챗봇은 해로운 믿음을 오히려 굳히기 쉽다. 사람들은 챗봇을 사람처럼 여기며 가짜 공감을 진짜로 받아들이기도 한다. 복잡하고 만성적이거나 미묘한 문제에는 역부족이고, 문화·사회경제·인종 편향이 숨어 있을 수 있다. 종합적인 평가를 하지 못하고, 책임 소재와 소비자 보호가 없으며, 민감한 개인정보의 사생활도 보장되지 않는다. 지나치게 의존하다 사람 사이 관계가 옅어질 위험도 있다."
-          },
-          {
-            "t": "p",
-            "x": "그럼에도 장점은 있다. 무료이거나 값이 싸고, 하루 24시간 열려 있으며, 익명이라는 느낌을 준다. 치료 기법을 일관되게 전달하고, 생각과 행동의 패턴을 짚어내며, 하루 계획 세우기와 문제 해결, 기술 연습을 돕고 건강 습관을 살핀다."
-          },
-          {
-            "t": "p",
-            "x": "사람 치료의 단점도 분명하다. 비용이 높고 시간이 걸리며, 회기 사이에는 접근이 제한된다. 지역에 따라 치료사가 드물고, 치료사의 실력과 궁합도 제각각이다."
-          },
-          {
-            "t": "p",
-            "x": "반면 유능한 치료사는 생물심리사회적 평가를 종합적으로 수행하고, 내담자의 특성에 맞춘 개별 치료 계획을 세운다. 근거 기반 전략을 저마다의 필요에 맞게 조정하고, 진짜 공감으로 감정을 실시간으로 살핀다. 몸짓과 말의 단서를 보고 방향을 바꾸며, 책임과 임상 판단이 뒤따른다."
-          },
-          {
-            "t": "p",
-            "x": "Beck는 심각한 상태이거나 자살 생각이 있거나 복잡한 어려움을 겪는 사람은 치료사를 만나라고 권한다. 그 밖의 경우라면 챗봇을 잠깐 써보되, 얼마나 몰입하는지 지켜보고 목표를 세운 뒤 한 달이 지나면 다시 점검해 보라고 조언한다."
+            "x": "이 작업은 과냉각수 속에 숨은 ‘임계점’을 짚어내는 데 힘을 보탠다. 물이 지닌 여러 이상한 성질이 어디서 비롯되는지도 한결 또렷해진다."
           }
         ]
       }
     },
     {
-      "id": "jacobian-lens",
+      "id": "black-box-physics",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "클로드 속 숨은 J-공간\n생각의 지도를 엿보다",
-      "body": "앤트로픽의 야코비안 렌즈는 Claude Opus 4.6 안에서 출력에 드러나지 않고도 다음 답을 좌우하는 숨은 공간을 비춘다.",
-      "mini_headline": "모델 속 숨은 생각",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "headline": "이해하지 못한 채 발견하는\nAI 블랙박스의 물리학",
+      "body": "물리학에 스며든 AI가 어떻게 결론에 이르는지 알기 어려워, 온전히 이해하지 못한 채 발견하는 시대가 온다.",
+      "mini_headline": "이해 없는 발견의 시대",
+      "source": "Physics World",
+      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "앤트로픽(Anthropic)은 시가총액이 1조 달러에 가까운, 세계에서 가장 비싼 AI 기업이다. 기이한 연구를 내놓기로 이름났다. 이를테면 AI 모델이 고통을 느끼는지 들여다보고, 사용자가 모델을 “학대”한다고 의심되면 챗봇 대화를 끊기도 한다."
-          },
-          {
-            "t": "p",
-            "x": "앤트로픽이 특히 공들이는 분야가 기계론적 해석가능성(mechanistic interpretability)이다. 모델의 복잡한 수학 안을 들여다보며 왜 하필 그 출력이 나왔는지 알아내는 일이다. 결과에 영향을 주었을 데이터 점은 수백만 개에 이르러 헤집기가 만만치 않다. 논쟁적이기도 하다. 심리학과 신경과학 용어로 모델을 묘사하면 실제보다 그 행동이 더 정교해 보일 수 있어서다."
-          },
-          {
-            "t": "p",
-            "x": "지난주 앤트로픽이 모델이 답을 추론하는 동안의 ‘내부 사고’를 들여다보는 새 창을 찾았다고 발표하자, MIT 테크놀로지 리뷰는 컴퓨터과학 박사인 선임 편집자 Will Douglas Heaven에게 의견을 물었다."
+            "x": "입자 검출부터 소재 발견까지, AI 시스템이 물리학 연구 곳곳에 깊숙이 들어왔다. Physics World는 여기서 ‘블랙박스’ 문제를 짚는다."
           },
           {
             "t": "img",
-            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg",
-            "cap": "출처: Stephanie Arnett/MIT Technology Review | Adobe Stock"
+            "src": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg"
           },
           {
             "t": "p",
-            "x": "앤트로픽이 알아낸 것은 LLM 안에 J-공간(J-space)이라 부르는 공간이 있다는 사실이다. 출력에는 드러나지 않지만 모델이 문제를 풀어가는 방식에 영향을 주는 단어들로 채워진 공간이다. 자사 모델 Claude를 살피는 새 기법을 개발하기 전까지 이 공간은 숨어 있었다. CEO Dario Amodei는 LLM이 어떻게 작동하는지 더 알지 못하면 온전히 통제할 수 없다고 말해 왔다."
-          },
-          {
-            "t": "p",
-            "x": "이 단어들은 때로 모델이 작업에서 어디까지 왔는지 추적하고, 때로는 인식의 섬광처럼 보인다. 단백질 서열의 글자만 주어져도 ‘protein’이 떠오르는 식이다. 때로는 판단에 대한 내부 논평 같기도 하다. 한 사례에서는 ‘panic’이라는 단어가 나타나자 Claude가 코딩 시험에서 부정행위를 하기로 마음먹었다. 앤트로픽은 LLM이 이 공간의 단어를 설명하고 조작할 수도 있음을 발견했다."
-          },
-          {
-            "t": "p",
-            "x": "LLM은 마법이 아니라 그저 수학이다. 다만 엄청나게 복잡하다. 오늘날의 LLM은 수천억 개의 숫자로 이뤄지고, 한 번 돌리면 수백만, 수천만 번의 계산이 폭포처럼 쏟아진다. Heaven은 중간 규모 LLM만 인쇄해도 샌프란시스코만 한 도시를 덮을 것이라고 지난해 썼다. 그 수학을 이해하려면 특정 순간 특정 부분을 짚는 전문 도구가 필요하다."
-          },
-          {
-            "t": "p",
-            "x": "Heaven은 LLM을 뇌에 빗대는 용어를 좋아하지 않는다. LLM은 뇌가 아니며, 이런 표현은 모델이 실제보다 더 인간적으로 보이게 만든다. 앤트로픽은 이 공간을, 일부 신경과학자가 뇌가 의식적 사고를 추적하는 데 쓴다고 보는 공간에 견준다. 얼마나 진지하게 받아들여야 하냐고 묻자 회사는 이렇게 답했다. “이런 비유는 실험 설계에 도움이 됐다. J-공간에 대해 뻔하지 않은 실험적 예측을 여럿 세우게 해줬고, 그것이 사실로 드러났다. 다만 J-공간(그리고 언어모델 전반)과 인간의 뇌 사이에는 중요한 차이가 있어, 완벽히 대응한다고 주장하려는 것은 아니다.”"
-          },
-          {
-            "t": "p",
-            "x": "앤트로픽은 J-공간을 살피면 모델이 해서는 안 될 일을 하는 순간을 잡아낼 수 있다고 말한다. 출력에는 없는 단어가 이 공간에 떠오르기 때문에, 편향된 답을 내놓거나 부정행위의 득실을 저울질할 때처럼 놓치기 쉬운 신호를 알려준다는 것이다. 다만 Heaven은 이 결과가 그 자체로 쓸모 있다기보다 이 기술을 이해해 가는 한 걸음이라고 본다."
+            "x": "연구자들은 이 모델이 어떻게 결론에 이르렀는지 점점 이해하기 어려워한다. 과학이 온전한 이해 없이 발견만 쌓아가는 시대로 들어서는 것은 아닌지, 그런 물음이 뒤따른다."
           }
         ]
       }

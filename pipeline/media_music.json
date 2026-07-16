@@ -1,8 +1,10 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "music",
   "media": [
-    { "id": "suno-dev-api", "type": "image", "src": "pipeline/media/suno-dev-api.jpg" },
-    { "id": "m-compressor-2", "type": "image", "src": "pipeline/media/m-compressor-2.jpg" }
+    { "id": "fender-studio-pro", "type": "image", "src": "pipeline/media/fender-studio-pro.jpg" },
+    { "id": "meaw-chain", "type": "image", "src": "pipeline/media/meaw-chain.jpg" },
+    { "id": "resing-brazilian", "type": "image", "src": "pipeline/media/resing-brazilian.jpg" },
+    { "id": "tidal-ai-label", "type": "image", "src": "pipeline/media/tidal-ai-label.jpg" }
   ]
 }

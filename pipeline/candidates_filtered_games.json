@@ -1,58 +1,49 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-07-15T02:24:24Z",
+  "now_iso": "2026-07-16T00:15:00Z",
   "items": [
     {
-      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
-      "title": "Godot to ban (almost all) AI coding contributions",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-07-01T18:14:09Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf37f0e888236bac1/6a453c420818ce731dd5fb9c/godot-fb-tw-share-image-1920x1080-0abe26cbac38.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "The Godot Foundation updated its contribution policy to ban AI-generated code for substantial pieces of work, while still permitting narrow AI assists like code completion and regex helpers. A concrete engine-governance stance on how (and whether) generative AI belongs in a game-dev codebase: 'AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it.'"
-    },
-    {
-      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
-      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
+      "url": "https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/",
+      "title": "Steam study of over 53,000 games finds \"60-90% of the growth\" in monthly releases is from games using AI - and almost none of them make money",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-14T14:20:43Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
-      "excerpt": "Mega Crit's lead argues that deliberately rough hand-made placeholder art is a vital part of the early-access design process, and that swapping it for polished generative-AI art would distort how players judge an unfinished game. A working designer's craft case for why gen AI doesn't fit their iteration workflow."
+      "published_iso": "2026-07-15T16:00:50Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg",
+      "excerpt": "A study of 53,597 Steam releases (July 2023-July 2026) finds AI-flagged games now drive the overwhelming majority of monthly-release growth - up to ~530 new titles a month - yet make almost none of the sales (33% of releases, ~10% of revenue in Q2 2026). A hard data snapshot of how generative tooling is reshaping game production volume and storefront economics."
     },
     {
-      "url": "https://aftermath.site/yoshitaka-amano-is-more-centrist-on-ai-than-youd-hope/",
-      "title": "Yoshitaka Amano Is More Centrist on AI Than You'd Hope",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-07-14T18:05:16Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/ZAN-Yoshitaka-Amano.jpg",
-      "excerpt": "Legendary Final Fantasy artist Yoshitaka Amano gives a notably measured take on generative AI in creative work, resisting a flat rejection. A prominent game-art voice weighing how AI intersects with hand-crafted illustration — useful context for how veteran creatives are positioning themselves on the tech."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/good-games-will-get-cloned-and-buried-ai-vibe-coding-is-one-of-the-biggest-threats-on-storefronts-like-steam-analyst-warns/",
-      "title": "'Good games will get cloned and buried' – AI vibe coding is one of the biggest threats on storefronts like Steam, analyst warns",
+      "url": "https://www.gamesradar.com/games/sony-says-ai-is-exciting-great-for-synthetic-assets-and-an-important-foundational-technology-supporting-our-strategy/",
+      "title": "Sony says AI is \"exciting,\" great for \"synthetic assets,\" and an \"important foundational technology supporting our strategy\"",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-14T19:13:29Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg",
-      "excerpt": "An industry analyst warns that AI 'vibe coding' will let opportunists rapidly clone successful games and flood storefronts, burying originals under low-effort copies. A discoverability-and-design-economics angle on how fast generative tooling is changing what shipping a game on Steam looks like."
+      "published_iso": "2026-07-02T15:00:51Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Ew9bQTUUihnM5rx7nh6UHD-1920-80.jpg",
+      "excerpt": "PlayStation leadership frames AI - including 'synthetic assets' generated for game development - as a foundational pillar of Sony's strategy, spanning production efficiency, player experience and content discovery. A major first-party publisher openly committing to generative asset pipelines signals how AI is moving into AAA workflows."
     },
     {
-      "url": "https://kotaku.com/george-lucas-artificial-intelligence-ai-museum-art-2000715801",
-      "title": "George Lucas Goes To The Dark Side, Says AI Is 'The Future'",
+      "url": "https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336",
+      "title": "People Are Quickly Cloning Indie Games Using AI Tools",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-07-14T14:00:10Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-14-at-9.46.17-AM-1200x675.jpg",
-      "excerpt": "Star Wars creator George Lucas compares refusing to use AI to riding a horse in the age of cars, calling the tech inevitable for creative work. A high-profile creator framing generative AI as an unavoidable shift — the kind of stance shaping how studios and creatives debate adopting it."
+      "published_iso": "2026-07-15T22:15:12Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg",
+      "excerpt": "Within days of indie developers posting a game concept online, AI-coding tools like Claude let a single person vibe-code and publish playable knockoffs across PC, console and mobile stores before the original ships. A concrete look at how fast generative dev tools are collapsing the copy-a-game timeline and threatening indie discoverability."
+    },
+    {
+      "url": "https://wccftech.com/ios-developer-made-capybara-game-using-vibe-coding-and-won-25000/",
+      "title": "An iOS Developer Vibe-Coded A \"Capybara Food Delivery\" Game Using Claude Code, 27,000 Lines Made Entirely By AI, And Won $25,000",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-07-13T16:21:17Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg",
+      "excerpt": "A developer built and shipped a full mobile game whose ~27,000 lines of code were generated entirely by Claude Code through 'vibe coding,' taking a $25,000 contest prize. A concrete case study of an end-to-end AI-authored game, showing how far prompt-driven development has moved beyond assistive autocomplete."
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 5,
-    "against_days": 6
+    "kept": 4,
+    "against_days": 5
   }
 }

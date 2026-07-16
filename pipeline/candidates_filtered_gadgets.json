@@ -1,93 +1,77 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "gadgets",
-  "now_iso": "2026-07-15T02:24:24Z",
+  "now_iso": "2026-07-16T00:15:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-07-13T20:45:00Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Apple's first iOS 27 public beta is live, headlined by the rebuilt Siri AI: it can hold ongoing conversations, search your personal data, read on-screen content and take in-app actions — the biggest on-device Apple Intelligence overhaul yet."
-    },
-    {
-      "url": "https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/",
+      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-08T16:12:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/official-renders-for-samsungs-galaxy-z-flip-8-watch-9-watch-2-ultra-and-z-fold-8-leak/intro-1783527075.jpg",
-      "excerpt": "Official-looking renders of Samsung's Galaxy Z Flip 8, Z Fold 8, Watch 9 and Watch Ultra 2 leaked ahead of the July 22 Unpacked, giving the first full look at the Galaxy AI foldable and wearable lineup in its final colors and designs."
+      "published_iso": "2026-07-15T08:37:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
+      "excerpt": "OpenAI's first hardware product is reportedly a portable, screenless 'AI companion' speaker: per Bloomberg it runs an advanced GPT-Live voice mode, has moving mechanical parts to feel 'alive,' and packs cameras and sensors for contextual awareness."
     },
     {
-      "url": "https://www.sammobile.com/news/samsung-galaxy-unpacked-event-july-22-2026-z-flip-fold-8/",
-      "source": "SamMobile",
+      "url": "https://www.digitaltrends.com/cool-tech/openais-first-hardware-product-sounds-more-like-a-companion-than-a-speaker/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-07-08T03:57:08Z",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Unpacked-2026-Invite-July-22-1200x675.jpg",
-      "excerpt": "Samsung set Galaxy Unpacked for July 22 in London, with a teaser that unfolds into the Galaxy AI logo — signaling Z Fold 8, Z Flip 8, new Galaxy Watches and its rumored first smart glasses as an AI-first hardware push."
+      "published_iso": "2026-07-14T20:13:00Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2025/03/open-ai-331.jpg?resize=1200%2C720",
+      "excerpt": "OpenAI's debut device is framed less as a smart speaker and more as a proactive AI companion — a mobile, context-aware gadget (co-designed with Jony Ive's io) expected to launch in 2027."
     },
     {
-      "url": "https://9to5google.com/2026/07/14/samsung-galaxy-watch-9-official-tease/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-14T13:50:00Z",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-official-teaser-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Samsung officially teased the Galaxy Watch 9 as an 'AI-powered health companion,' confirming all-new internals, a Snapdragon Wear Elite chip, a Vitals metric bundle and Gemini raise-to-talk ahead of Unpacked."
-    },
-    {
-      "url": "https://www.sammobile.com/news/samsung-teases-ai-powered-galaxy-watch-with-all-new-internal-components/",
-      "source": "SamMobile",
-      "category": "gadgets",
-      "published_iso": "2026-07-13T23:00:00Z",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-6.jpg",
-      "excerpt": "Samsung's teaser frames the next Galaxy Watch as an always-on gateway for personalized AI health, promising 'all-new internal components,' longer battery life and more accurate tracking to power real-time on-wrist AI insights."
-    },
-    {
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-just-fixed-a-privacy-vulnerability-with-its-ray-ban-smart-glasses-but-could-cameraless-designs-be-the-better-future",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-08T18:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hEJdTA3TwbnfDQCMUCHyc9-2560-80.jpg",
-      "excerpt": "Meta is patching its Ray-Ban AI glasses to disable the camera if the recording LED is tampered with, after a modding scene sold LED-kill services — reigniting the debate over whether cameraless AI glasses are the safer design future."
-    },
-    {
-      "url": "https://www.androidauthority.com/meta-smart-glasses-led-camera-3685162/",
+      "url": "https://www.androidauthority.com/openai-device-screenless-speaker-chatgpt-leak-3687560/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-07-08T09:21:06Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/How-People-Secretly-Record-You-With-Ray-Ban-Meta-Glasses.jpg",
-      "excerpt": "Meta will push a software update that disables the camera on its Ray-Ban smart glasses if the capture LED is damaged or covered, closing a privacy hole exploited by a paid modding community."
+      "published_iso": "2026-07-14T22:20:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/09/OpenAI-on-website-on-smartphone-stock-photo-2.jpg",
+      "excerpt": "A leak describes OpenAI's first hardware as a movable, screenless smart speaker built as a physical ChatGPT companion that can control smart-home appliances, play media and answer questions — half-speaker, half-robot."
     },
     {
-      "url": "https://www.androidcentral.com/accessories/smart-home/google-home-speaker-2026-review",
-      "source": "Android Central",
+      "url": "https://9to5mac.com/2026/07/15/openais-hardware-device-may-partly-compete-with-airpods-ultra/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-04T12:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NYZV4dx79XHGaCbAd57Y8J-2048-80.jpg",
-      "excerpt": "A hands-on review of Google's first ground-up Gemini smart speaker — the $99 Home Speaker with a dedicated NPU for on-device AI processing, 360-degree audio and Gemini-driven conversational control of the home."
+      "published_iso": "2026-07-15T13:02:00Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/OpenAIs-hardware-device-may-partly-compete-with-the-upcoming-AirPods-Ultra.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "Analysis argues OpenAI's camera-and-sensor smart speaker would partly overlap with Apple's upcoming AirPods Ultra — but that a wearable form factor is more practical for portable AI than a device you have to carry around."
     },
     {
-      "url": "https://gizmodo.com/roborock-saros-20-review-jack-of-all-trades-master-of-most-2000782913",
+      "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-07-15T19:31:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/intro-1784140173.jpg",
+      "excerpt": "OpenAI's first shipping hardware is the Codex Micro, a $230 keypad built with Work Louder to drive its agentic coding tool — customizable LED-status keys, a dial for reasoning levels and a joystick for navigating agent workflows."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-14T17:10:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "Google's Gemma 4 E2B runs directly on the Pixel 10's Tensor G5 TPU, enabling on-device offline AI chat, image recognition and voice transcription with no internet connection — a push for local, private generative AI on the phone."
+    },
+    {
+      "url": "https://gizmodo.com/apple-fcking-did-it-one-month-with-siri-ai-2000784845",
       "source": "Gizmodo",
       "category": "gadgets",
-      "published_iso": "2026-07-13T11:30:15Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-09-1200x675.jpg",
-      "excerpt": "Roborock's Saros 20 uses AI object recognition to identify and dodge 300+ obstacle types, plus solid-state lidar and a climbing chassis — a review of how far on-device AI has pushed robot-vacuum autonomy in 2026."
+      "published_iso": "2026-07-13T21:55:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3.jpg",
+      "excerpt": "After a year's delay, Apple's rebuilt Siri AI — now powered by Google's Gemini models — ships in iOS 27; a month of use finds it genuinely useful for searching personal data and multi-step tasks, though still short of flawless."
     },
     {
-      "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
-      "source": "Notebookcheck",
+      "url": "https://9to5google.com/2026/07/02/meta-glasses-get-premium-usage-limits/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-07-08T19:00:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG",
-      "excerpt": "Microsoft's 2026 Surface Laptop 13.8 gets Qualcomm's new Snapdragon X2 Plus, delivering a big NPU/CPU jump for Copilot+ on-device AI — a review of what the next-gen Arm silicon means for AI PC performance."
+      "published_iso": "2026-07-02T16:55:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg",
+      "excerpt": "Meta starts charging $20/month for Meta One Premium, gating the smart glasses' AI 'Conversation Focus' feature to just 3 hours/month free (15 hours paid) — a look at how on-device AI capabilities on wearables are being monetized."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 10,
-    "against_days": 6
+    "kept": 8,
+    "against_days": 5
   }
 }

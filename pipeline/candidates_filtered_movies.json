@@ -1,58 +1,58 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "movies",
   "window_hours": 336,
-  "now_iso": "2026-07-15T02:24:24Z",
+  "now_iso": "2026-07-16T00:15:00Z",
   "items": [
     {
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-feature-odysseus-the-fall-1236646751/",
-      "title": "AI-Generated Odyssey Movie Costing a Few Thousand Dollars Unveiled Ahead of Nolan's $250 Million Feature",
-      "source": "The Hollywood Reporter",
+      "url": "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/",
+      "title": "Vigloo Studio: New AI Platform for Short-Form Microdramas",
+      "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-07-14T06:00:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/ODYSSEUS-_-The-Fall-still-11-H-2026.jpg?w=1296&h=730&crop=1",
-      "excerpt": "Fountain O unveiled 'Odysseus: The Fall,' a 135-minute AI-generated retelling of Homer's epic by director Ash Koosha, made for a mid-five-figure budget using Kling after OpenAI shuttered Sora. It launches to piggyback on Christopher Nolan's $250M traditional adaptation, dramatizing how generative video collapses feature-film budgets and workflows."
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Vigloo launched Vigloo Studio, an AI-native production platform built for creators of serialized short-form (microdrama) storytelling, consolidating fragmented pre-to-post workflows into a single environment for episodic drama creation. A concrete example of AI restructuring how short-form narrative content is produced end to end."
     },
     {
-      "url": "https://nofilmschool.com/ssff-asia-pitch-contest-2026",
-      "title": "Want ¥10 Million to Make Your Next Short? SSFF & ASIA Just Launched a Massive Pitch Competition",
-      "source": "No Film School",
+      "url": "https://vfxvoice.com/expanding-the-vfx-playbook-for-ted-season-2/",
+      "title": "Expanding the VFX Playbook for Ted Season 2",
+      "source": "VFX Voice",
       "category": "movies",
       "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/nihonchokuhan-presents-short-drama-pitch-contest.png?id=67114930&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C1",
-      "excerpt": "Short Shorts Film Festival & Asia opened a pitch competition offering ¥10 million in production funding for a winning short drama, permitting generative AI in pitch materials but requiring filmmakers to disclose exactly which sections used AI. A window into how major festivals are writing AI-disclosure rules into creative submissions."
+      "og_image": "",
+      "excerpt": "For Ted Season 2, the team blended AI, CG, real-time tools and digital environments, using Deep Voodoo's proprietary software to build a period-accurate Bill Clinton head replacement for Seth MacFarlane that captured speech and facial nuance beyond traditional CG. Shows how generative/AI face tools are entering mainstream episodic VFX pipelines."
     },
     {
-      "url": "https://www.engadget.com/2208729/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/",
-      "title": "AI golem Tilly Norwood is reportedly 'starring' in a feature-length movie",
-      "source": "Engadget",
+      "url": "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/",
+      "title": "Jamie Hearing on how Clear Angle is scanning the future of VFX",
+      "source": "fxguide",
       "category": "movies",
-      "published_iso": "2026-07-06T16:28:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/intro-1783355190.jpg",
-      "excerpt": "The AI-generated 'actress' Tilly Norwood is reportedly set to headline a feature called 'Misaligned' from Particle6 Productions — a 'coming-of-age story infused with existential AI chaos' set in the 'Tillyverse.' The move escalates the synthetic-performer fight (SAG-AFTRA: 'not an actor'), a live test of AI likeness/casting in narrative film."
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Clear Angle Studios has become a key part of the modern VFX pipeline, capturing real-world actors and environments via LiDAR and Gaussian splats for teams to reconstruct in production. A look at how machine-learning-assisted scanning is reshaping on-set data capture for filmmakers and VFX artists."
     },
     {
-      "url": "https://www.provideocoalition.com/beebles-switchhdr-ai-model-for-hdr-reconstruction-from-sdr-video/",
-      "title": "Beeble's SwitchHDR: AI model for HDR reconstruction from SDR video",
+      "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
+      "title": "SwitchHDR: an AI model for HDR reconstruction from SDR video",
+      "source": "fxguide",
+      "category": "movies",
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Beeble unveiled SwitchHDR, an AI model that reconstructs HDR imagery from standard SDR video, outputting scene-linear 16-bit EXR sequences ready for professional HDR VFX and post pipelines. A workflow-changing tool that lets filmmakers pull legacy SDR footage into modern HDR grading and compositing."
+    },
+    {
+      "url": "https://www.provideocoalition.com/topaz-video-in-depth-review/",
+      "title": "Topaz Video - In Depth Review",
       "source": "ProVideo Coalition",
       "category": "movies",
       "published_iso": "2026-07-08T00:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/switchhdr002-1024x576.jpg",
-      "excerpt": "Beeble announced SwitchHDR, an AI model that reconstructs HDR imagery from conventional SDR video, outputting scene-linear 16-bit EXR sequences for professional post-production. A concrete AI post/finishing tool aimed at colorists and VFX artists working with legacy or SDR footage."
-    },
-    {
-      "url": "https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/",
-      "title": "Midjourney wants the Hollywood studios that sued it to show the court how they use AI",
-      "source": "Engadget",
-      "category": "movies",
-      "published_iso": "2026-07-04T11:33:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/midjourney-wants-the-studios-that-sued-it-to-show-the-court-how-they-use-ai/intro-1783164583.jpg",
-      "excerpt": "In the Disney/Universal/Warner Bros. copyright suit, Midjourney is pushing the studios to disclose how they themselves use generative AI, arguing it bolsters a fair-use defense. A live test of how the studios-vs-AI-image-tools fight will shape what generative tools filmmakers can legally build on."
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/topaz-thumb.jpg",
+      "excerpt": "An in-depth review of Topaz Video, the AI upscaling and restoration tool (noise reduction, de-interlacing, stabilization) now on a subscription model following Adobe's acquisition of Topaz Labs. Details how AI upscaling/restoration fits into real filmmaker and archival workflows."
     }
   ],
   "dedup": {
-    "dropped": 2,
+    "dropped": 1,
     "kept": 5,
-    "against_days": 6
+    "against_days": 5
   }
 }
