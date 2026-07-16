@@ -1,62 +1,53 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "music",
   "window_hours": 336,
-  "now_iso": "2026-07-15T02:24:24Z",
+  "now_iso": "2026-07-16T00:15:00Z",
   "items": [
     {
-      "url": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
-      "title": "zplane launches PEEL STEMS 2 with improved real-time stem separation",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/peel-stems-728x364.jpg",
-      "excerpt": "zplane's PEEL STEMS 2 is an updated real-time AI stem-separation plugin that runs directly inside the DAW, cutting latency from 483ms to 245ms at 44.1kHz while improving separation quality. A concrete AI-audio craft upgrade for remixing, sampling and live workflows."
-    },
-    {
-      "url": "https://www.synthtopia.com/content/2026/07/07/spectralayers-13-takes-unmixing-to-a-new-level/",
-      "title": "SpectraLayers 13 Takes 'Unmixing' To A New Level",
+      "url": "https://www.synthtopia.com/content/2026/07/04/tidal-will-label-ai-generated-music-block-it-from-earning-royalties/",
+      "title": "TIDAL Will Label AI-Generated Music, Block It From Earning Royalties",
       "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Steinberg's SpectraLayers 13 pushes AI-assisted unmixing further with tools like Unmix Chorus (separating lead from backing vocals), Voice Enhance and generative reconstruction, broadening the AI stem/spectral toolkit for producers and post-production."
+      "published_iso": "2026-07-04T00:00:00Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg",
+      "excerpt": "TIDAL will begin labeling tracks it determines are entirely AI-generated and will block them from earning royalties, prioritizing payouts for music 'directly produced, written, and performed by people' — a policy that directly affects how AI-music creators distribute and get paid."
     },
     {
-      "url": "https://www.musicradar.com/music-tech/you-can-now-control-fl-studio-with-an-ai-chatbot-from-inside-the-daw",
-      "title": "You can now control FL Studio with an agentic AI chatbot from inside the DAW",
-      "source": "MusicRadar",
+      "url": "https://www.soundonsound.com/news/ik-multimedia-introduce-resing-voices-brazilian-pack",
+      "title": "IK Multimedia introduce ReSing Voices Brazilian Pack",
+      "source": "Sound On Sound",
       "category": "music",
-      "published_iso": "2026-07-10T00:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7JZA5WS4Bj9XbhdqgxNdHj.png",
-      "excerpt": "FL Studio 2026 introduces Gopher, an agentic AI chatbot that controls the DAW directly — organising tracks, routing mixer channels, setting levels, tweaking plugin parameters and generating Piano Roll content from natural-language prompts."
+      "published_iso": "2026-07-14T10:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/ik_multimedia_resing_brazilian_voices-_myCd9eY2RT2_VX_LNEwx7kV.VASHyZr.jpg",
+      "excerpt": "IK Multimedia expands its ReSing AI vocal-synthesis platform with eight new Brazilian Portuguese voice models, letting producers turn a scratch vocal into a professional-sounding performance in a new language — a fresh AI-vocals craft tool, launched alongside a Singer Showcase discovery platform."
     },
     {
-      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
-      "title": "Pixelsncodes releases Lumen, a FREE open-source Windows synth that turns images into sound",
-      "source": "Bedroom Producers Blog",
+      "url": "https://musictech.com/reviews/plug-ins/meaw-chain-review/",
+      "title": "Can Meaw Chain make 'vibe mixing' a thing?",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen-728x364.jpg",
-      "excerpt": "Lumen is a free, open-source Windows synth built with the Claude AI coding agent whose image-to-wavetable engine reads an image's bytes and turns them into a playable wavetable. A grassroots example of AI-vibe-coded instruments and cross-modal sound design."
+      "published_iso": "2026-07-14T18:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg",
+      "excerpt": "Meaw Chain is an AI-powered plugin that analyses your audio and assembles a suitable chain of effects from a natural-language text prompt — pitching 'vibe mixing' as a way to build processing chains by describing the sound you want rather than dialling in each plugin by hand."
     },
     {
-      "url": "https://www.gearnews.com/ai-labeling-music-industry-tech/",
-      "title": "AI Labeling: Two New Labels Are Meant to Tell You Whether AI Sang on Your Favorite Track",
-      "source": "GearNews",
-      "category": "wildcard",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/AI-Label-BVMI-T-770x425.jpg",
-      "excerpt": "Major industry bodies including IFPI, RIAA and BVMI introduce two new labels — 'AI-Generated' and 'AI-Assisted' — to flag whether AI was used on a recording, though the biggest streaming platforms have not yet adopted the system."
+      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
+      "title": "Fender Studio Pro 8.1 DAW review",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-07-15T09:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg",
+      "excerpt": "Fender's Studio Pro 8.1 DAW folds in a suite of AI features — a beta Studio Assistant chatbot, Moises-powered stem separation and generation, voice replacement and Vocal Tune pitch correction — with the review calling the Moises stem quality among the best it has heard."
     },
     {
-      "url": "https://www.hypebot.com/why-ai-song-generators-dont-grant-copyright/",
-      "title": "Why AI Song Generators Don't Grant Copyright",
-      "source": "Hypebot",
-      "category": "wildcard",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/pexels-yasinaydin-3796788.jpg",
-      "excerpt": "An argument that AI song generators like Suno lack any mechanism to establish human authorship: the prompt-to-file design creates an 'authorship gap' that leaves creators without a defensible copyright claim over their AI-made tracks."
+      "url": "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/",
+      "title": "BandLab Technologies acquires AI-powered music-making platform Aiode",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-07-15T18:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg",
+      "excerpt": "BandLab Technologies has acquired Aiode, an AI music studio that lets creators produce tracks using fully-licensed audio from professional musicians and producers — folding a rights-cleared generative music tool into BandLab's creator platform and signalling where its AI making tools head next."
     }
   ]
 }

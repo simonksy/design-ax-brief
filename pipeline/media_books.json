@@ -1,25 +1,9 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "books",
   "media": [
-    {
-      "id": "kindle-translate-expand",
-      "type": "image",
-      "src": "pipeline/media/kindle-translate-expand.jpg"
-    },
-    {
-      "id": "ai-audiobook-surveys",
-      "type": "image",
-      "src": "pipeline/media/ai-audiobook-surveys.jpg"
-    },
-    {
-      "id": "google-gemini-suit",
-      "type": "image",
-      "src": "pipeline/media/google-gemini-suit.jpg"
-    },
-    {
-      "id": "ipa-childrens-books",
-      "type": "svg"
-    }
+    { "id": "guatemala-ai-authorship", "type": "image", "src": "pipeline/media/guatemala-ai-authorship.png" },
+    { "id": "book-world-roundup", "type": "image", "src": "pipeline/media/book-world-roundup.png" },
+    { "id": "google-play-book-insights", "type": "image", "src": "pipeline/media/google-play-book-insights.jpg" }
   ]
 }

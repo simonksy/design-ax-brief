@@ -1,56 +1,84 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "cards": [
     {
-      "id": "suno-dev-api",
+      "id": "fender-studio-pro",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "수노, 생성 음악을 외부 앱에 여는\n개발자 API 검토",
-      "body": "수노가 소수 파트너부터 개발자 API를 열어 외부 앱이 생성 음악을 활용하게 한다.",
-      "mini_headline": "수노, 개발자 API 검토",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
+      "headline": "AI를 가득 채운 DAW\nFender Studio Pro 8.1",
+      "body": "스튜디오 어시스턴트 챗봇과 최상급 Moises 스템 분리, 보컬 교체·튜닝까지 한 DAW에 담았다.",
+      "mini_headline": "AI 가득한 펜더 DAW",
+      "source": "MusicTech",
+      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "수노가 자사 AI 음악 생성 플랫폼용 개발자 API 출시를 검토한다." },
-          { "t": "p", "x": "최고제품책임자 잭 브로디가 7월 1일 수요일 링크드인에 이 계획을 올렸다. 개발자에게 사전 접근을 신청받는 폼 링크도 함께 걸었다." },
-          { "t": "img", "src": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg" },
-          { "t": "p", "x": "브로디는 이번 시도가 수노가 말하는 \"파트너 기반 모델\"로 가는 앞 단계라고 설명했다." },
-          { "t": "p", "x": "\"파트너 기반 모델에 앞서 개발자 API를 검토하고 있고, 만들기 시작하기 전에 여러분 이야기를 듣고 싶다\"고 브로디는 적었다." },
-          { "t": "p", "x": "\"신중하게 다듬으려고 엄선한 파트너 그룹부터 시작할 계획이고, 생성 음악이 처음으로 가능케 하는 경험을 여는 애플리케이션에 특히 관심이 있다\"고 그는 덧붙였다." },
-          { "t": "p", "x": "수노는 아직 공식 공개 API를 제공하지 않는다. 외부 개발자들이 플랫폼을 감싼 비공식 API 래퍼를 만들어 왔지만 회사가 셀프서브 개발자 접근이나 자체 문서를 낸 적은 없다." },
-          { "t": "p", "x": "API는 한 소프트웨어가 다른 소프트웨어와 통신해 그 기능을 불러 쓰게 해준다. 수노라면 개발자 API를 거쳐 외부 앱이 음악 생성 모델에 텍스트 프롬프트를 보내고 완성된 오디오를 돌려받는다." },
-          { "t": "p", "x": "그러면 개발자는 사용자를 수노 앱이나 웹사이트로 보내지 않고 자기 제품에 음악 생성을 바로 넣는다." },
-          { "t": "p", "x": "타입폼 신청서에는 \"엄선한 파트너 그룹부터 개발자 API를 탐색하기 시작한다\"며 관심 있으면 알려 달라고 적혀 있다. 수노는 API 출시 시점을 밝히지 않았다." },
-          { "t": "p", "x": "개발자 API 검토는 수노가 빠르게 크는 시기와 맞물린다. 회사는 6월 시리즈 D로 4억 달러 넘게 조달해 투자 후 기업가치 54억 달러를 찍었고 2월에는 유료 구독자 200만 명과 연간반복매출 3억 달러를 넘겼다." },
-          { "t": "p", "x": "수노가 메이저 음악사와 맺은 유일한 라이선스 제휴는 2025년 11월 워너뮤직그룹 계약뿐이다. 유니버설뮤직그룹과 소니뮤직엔터테인먼트는 아직 소송 중이다." }
+          { "t": "img", "src": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg" },
+          { "t": "p", "x": "펜더의 DAW Fender Studio Pro 8.1이 AI 기능 한 묶음을 끌어안았다." },
+          { "t": "p", "x": "베타로 들어온 스튜디오 어시스턴트 챗봇, Moises 기반 스템 분리와 생성, 보컬 교체, 음정을 잡아 주는 Vocal Tune까지 담겼다." },
+          { "t": "p", "x": "리뷰는 Moises 스템 품질을 지금껏 들어 본 것 가운데 가장 뛰어난 축으로 꼽았다." }
         ]
       }
     },
     {
-      "id": "m-compressor-2",
+      "id": "meaw-chain",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "테키베이션 M-컴프레서 2,\nAI 믹스 어시스턴트 탑재",
-      "body": "M-컴프레서 2가 오디오를 분석해 압축 설정 12가지를 만들어 주는 믹스 어시스턴트를 새로 담았다.",
-      "mini_headline": "M-컴프레서 2, AI 믹스 보조",
-      "source": "Sound on Sound",
-      "url": "https://www.soundonsound.com/news/techivation-release-m-compressor-2",
+      "headline": "말로 이펙트 체인을 짜는\nMeaw Chain",
+      "body": "Meaw Chain은 오디오를 분석해 자연어 프롬프트만으로 어울리는 이펙트 체인을 짜 준다.",
+      "mini_headline": "말로 짜는 이펙트 체인",
+      "source": "MusicTech",
+      "url": "https://musictech.com/reviews/plug-ins/meaw-chain-review/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/techivation_m-compressor_2-TvIvyE7Qeq8UiOcsBlz0Y54SG.6wIA8N.jpg" },
-          { "t": "p", "x": "테키베이션이 스펙트럴 압축 플러그인의 개선판 M-컴프레서 2를 내놨다. 눈에 띄게 달라진 곳이 여럿이다." },
-          { "t": "p", "x": "원본의 핵심 기능은 그대로라 업워드 압축과 다운워드 압축, 게이팅을 함께 쓴다. Up, Down, Gate 기능마다 독립 임계값을 두는데, Down 임계값을 넘는 신호는 보통의 다운워드 압축으로 줄어들고 Up과 Gate 임계값 사이 신호는 부스팅되며 Gate 임계값 아래는 감쇠된다." },
-          { "t": "p", "x": "스펙트럴 컴프레서인 만큼 멀티밴드 분할 없이 주파수 대역마다 압축량을 달리 건다. 사용자가 스펙트럴 파라미터를 직접 만지거나 들어오는 오디오를 계속 분석해 \"탁하거나\" \"거친\" 소리를 막도록 압축을 조절하는 Shaping 컨트롤을 켠다." },
-          { "t": "p", "x": "간판 기능은 새로 들어온 믹스 어시스턴트 툴이다. 플러그인의 모든 파라미터를 컨트롤 하나로 묶는다. 이 툴이 들어오는 오디오를 분석해 트랙에 맞춘 압축 설정 12가지를 만든다. 사용자는 그중 네 가지를 골라 사이를 매끄럽게 오가며 원하는 압축 성격을 직관적으로 잡는다." },
-          { "t": "p", "x": "호환 환경은 윈도우 7 이상과 macOS 10.15 이상이며 VST와 VST3, AU, AAX 포맷으로 나온다." },
-          { "t": "p", "x": "가격은 2026년 7월 20일까지 도입가 55달러이고 그 뒤로는 149달러로 오른다. 지금 바로 살 수 있다." }
+          { "t": "img", "src": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg" },
+          { "t": "p", "x": "Meaw Chain은 오디오를 분석해 어울리는 이펙트 체인을 자연어 프롬프트로 짜 주는 AI 플러그인이다." },
+          { "t": "p", "x": "플러그인을 하나씩 손으로 맞추는 대신 원하는 소리를 말로 풀어 처리 체인을 세우는 방식으로, '바이브 믹싱'이라는 개념을 내세운다." }
+        ]
+      }
+    },
+    {
+      "id": "resing-brazilian",
+      "tool": "Music",
+      "eyebrow": "AI NEWS",
+      "headline": "ReSing에 브라질 목소리\n여덟 종을 더하다",
+      "body": "IK Multimedia가 ReSing에 브라질 포르투갈어 보이스 여덟 종을 더해, 가이드 보컬을 새 언어로 완성한다.",
+      "mini_headline": "ReSing, 브라질 보이스",
+      "source": "Sound On Sound",
+      "url": "https://www.soundonsound.com/news/ik-multimedia-introduce-resing-voices-brazilian-pack",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/ik_multimedia_resing_brazilian_voices-_myCd9eY2RT2_VX_LNEwx7kV.VASHyZr.jpg" },
+          { "t": "p", "x": "IK Multimedia가 AI 보컬 합성 플랫폼 ReSing에 브라질 포르투갈어 보이스 모델 여덟 종을 더했다." },
+          { "t": "p", "x": "가이드 보컬을 새 언어의 프로급 완성본으로 바꿔 주는 AI 보컬 도구로, 아티스트를 발굴하는 Singer Showcase 플랫폼과 함께 나왔다." }
+        ]
+      }
+    },
+    {
+      "id": "tidal-ai-label",
+      "tool": "Music",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 생성곡에 표시 달고\n로열티를 막는 TIDAL",
+      "body": "TIDAL이 전부 AI로 만든 곡에 표시를 달고 로열티 지급을 막아, 사람이 만든 음악에 수익을 몰아준다.",
+      "mini_headline": "TIDAL, AI곡 로열티 차단",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/07/04/tidal-will-label-ai-generated-music-block-it-from-earning-royalties/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg" },
+          { "t": "p", "x": "TIDAL이 전부 AI로 만들었다고 판단한 트랙에 표시를 달기 시작하고, 그 곡의 로열티 적립도 막는다." },
+          { "t": "p", "x": "\"사람이 직접 제작하고 쓰고 연주한\" 음악에 지급을 몰아주려는 정책으로, AI 음악 창작자가 곡을 유통하고 대가를 받는 방식에 곧장 영향을 준다." }
         ]
       }
     }

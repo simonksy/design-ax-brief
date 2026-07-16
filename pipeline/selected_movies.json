@@ -1,60 +1,77 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "movies",
-  "selection_mode": "curator",
+  "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-feature-odysseus-the-fall-1236646751/",
-      "source": "The Hollywood Reporter",
-      "tool": "Movies",
+      "url": "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/",
+      "source": "postPerspective",
+      "tool": "Vigloo Studio",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A full 135-min AI-generated feature made for five figures is a concrete shock to how filmmakers weigh budgets and generative-video pipelines — high actionability, novel, credible trade outlet.",
-      "published_iso": "2026-07-14T06:00:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/ODYSSEUS-_-The-Fall-still-11-H-2026.jpg?w=1296&h=730&crop=1",
-      "excerpt": "Fountain O unveiled 'Odysseus: The Fall,' a 135-minute AI-generated retelling of Homer's epic by director Ash Koosha, made for a mid-five-figure budget using Kling after OpenAI shuttered Sora. It launches to piggyback on Christopher Nolan's $250M traditional adaptation, dramatizing how generative video collapses feature-film budgets and workflows.",
-      "category": "movies"
+      "headline": "Vigloo Studio: an AI-native production platform for short-form microdramas",
+      "rationale": "Highest-novelty structural shift: an AI-native platform consolidating pre-to-post into one environment shows how episodic short-form content will actually get produced end to end.",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Vigloo launched Vigloo Studio, an AI-native production platform built for creators of serialized short-form (microdrama) storytelling, consolidating fragmented pre-to-post workflows into a single environment for episodic drama creation. A concrete example of AI restructuring how short-form narrative content is produced end to end."
     },
     {
-      "url": "https://nofilmschool.com/ssff-asia-pitch-contest-2026",
-      "source": "No Film School",
-      "tool": "Movies",
+      "url": "https://vfxvoice.com/expanding-the-vfx-playbook-for-ted-season-2/",
+      "source": "VFX Voice",
+      "tool": "Deep Voodoo",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "A funded festival competition that explicitly permits AI in pitches but mandates section-by-section disclosure — an actionable template for how filmmakers submit AI-assisted work now.",
+      "headline": "How Ted Season 2 blended AI face tools into a mainstream episodic VFX pipeline",
+      "rationale": "Credible production case study: an AI-driven Clinton head replacement in a mainstream show signals generative face tools moving into everyday episodic VFX work.",
       "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/nihonchokuhan-presents-short-drama-pitch-contest.png?id=67114930&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C1",
-      "excerpt": "Short Shorts Film Festival & Asia opened a pitch competition offering ¥10 million in production funding for a winning short drama, permitting generative AI in pitch materials but requiring filmmakers to disclose exactly which sections used AI. A window into how major festivals are writing AI-disclosure rules into creative submissions.",
-      "category": "movies"
+      "og_image": "",
+      "excerpt": "For Ted Season 2, the team blended AI, CG, real-time tools and digital environments, using Deep Voodoo's proprietary software to build a period-accurate Bill Clinton head replacement for Seth MacFarlane that captured speech and facial nuance beyond traditional CG. Shows how generative/AI face tools are entering mainstream episodic VFX pipelines."
     },
     {
-      "url": "https://www.engadget.com/2208729/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/",
-      "source": "Engadget",
-      "tool": "Movies",
+      "url": "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/",
+      "source": "fxguide",
+      "tool": "Clear Angle",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "A synthetic performer headlining a feature is a live escalation of the AI-casting/likeness fight that directly shapes how the industry treats performers — novel and consequential.",
-      "published_iso": "2026-07-06T16:28:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/ai-golem-tilly-norwood-is-reportedly-starring-in-a-feature-length-movie/intro-1783355190.jpg",
-      "excerpt": "The AI-generated 'actress' Tilly Norwood is reportedly set to headline a feature called 'Misaligned' from Particle6 Productions — a 'coming-of-age story infused with existential AI chaos' set in the 'Tillyverse.' The move escalates the synthetic-performer fight (SAG-AFTRA: 'not an actor'), a live test of AI likeness/casting in narrative film.",
-      "category": "movies"
+      "headline": "Clear Angle on scanning the future of VFX with LiDAR and Gaussian splats",
+      "rationale": "Insight into on-set data capture: ML-assisted LiDAR and Gaussian-splat scanning is reshaping how actors and environments are reconstructed in production.",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Clear Angle Studios has become a key part of the modern VFX pipeline, capturing real-world actors and environments via LiDAR and Gaussian splats for teams to reconstruct in production. A look at how machine-learning-assisted scanning is reshaping on-set data capture for filmmakers and VFX artists."
+    },
+    {
+      "url": "https://www.provideocoalition.com/topaz-video-in-depth-review/",
+      "source": "ProVideo Coalition",
+      "tool": "Topaz Video",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "headline": "Topaz Video, in depth: AI upscaling and restoration on a new subscription model",
+      "rationale": "Practical tool review: shows exactly how AI upscaling, noise reduction and de-interlacing fit real filmmaker and archival workflows now that Topaz has shifted to subscription.",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/topaz-thumb.jpg",
+      "excerpt": "An in-depth review of Topaz Video, the AI upscaling and restoration tool (noise reduction, de-interlacing, stabilization) now on a subscription model following Adobe's acquisition of Topaz Labs. Details how AI upscaling/restoration fits into real filmmaker and archival workflows."
     }
   ],
-  "dedup_notes": {
-    "pool_size": 5,
+  "dedup_report": {
+    "candidates_evaluated": 5,
+    "kept": 4,
+    "dropped": 1,
     "dropped_as_duplicates": [
       {
-        "url": "https://www.provideocoalition.com/beebles-switchhdr-ai-model-for-hdr-reconstruction-from-sdr-video/",
-        "reason": "Content duplicate of published card 'switchhdr' (sections.movies, day 2026-07-08, No Film School: nofilmschool.com/beeble-switchhdr-ai-model). Same Beeble SwitchHDR SDR->HDR release (16-bit EXR), different outlet. Earliest-wins."
-      },
-      {
-        "url": "https://www.engadget.com/2207936/midjourney-wants-studios-that-sued-show-court-ai-use/",
-        "reason": "Content duplicate of published card 'mj-discovery' (sections.movies, day 2026-07-08, Variety: variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/). Same Midjourney-vs-studios discovery motion event, different outlet. Earliest-wins."
+        "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
+        "reason": "Content duplicate (earliest-wins). Same Beeble SwitchHDR SDR->HDR reconstruction release already published in sections.movies as card `switchhdr` on 2026-07-08 (No Film School, nofilmschool.com/beeble-switchhdr-ai-model), per the prior 2026-07-15 curator run which dropped a ProVideo Coalition version of the same story. That 07-08 card has since aged off the visible 5-day window, but earliest-wins is absolute: a story published on an earlier date must never reappear later. Different outlet/URL, same event -> DROP."
       }
     ],
-    "dropped_within_pool": [],
-    "history_checked": "Baseline: news_data.prev.json (same-date idempotent re-run; only 2026-07-14 and earlier count). Checked sections.movies today (2026-07-14: nvidia-neural, meyer-top5) and days 2026-07-08/09/10/11/13. Odysseus: The Fall is distinct from the 2026-07-09 keitel-ai card (that item is Michael Caine's AI voice for the ElevenLabs Odyssey AUDIOBOOK — a different event, not an AI-generated film). SSFF & ASIA pitch contest and Tilly Norwood have no URL or content overlap with any published movies card.",
-    "diversity": "Outlets: hollywoodreporter.com x1, nofilmschool.com x1, engadget.com x1 — 3 distinct domains, within the <=2-per-domain guard. Single-category section (movies); distinct accents assigned (#0070f3, #f5a623, #7928ca).",
-    "shortfall": "3 picks — meets the floor of 3. Of the 5-item pool, 2 were content duplicates of 2026-07-08 movies cards, leaving exactly 3 distinct never-before-seen stories. Pool exhausted — no backfill available. No padding."
+    "kept_but_noted": [
+      {
+        "url": "https://www.provideocoalition.com/topaz-video-in-depth-review/",
+        "note": "Content-adjacent to published cards `topaz-adobe` (Adobe acquires Topaz Labs, movies/2026-07-10) and `aiarty-4k` (Aiarty upscaling, movies/2026-07-14), but DISTINCT: a hands-on Topaz Video product review, not the acquisition event and a different product from Aiarty. Different URL and core topic -> kept as fresh."
+      }
+    ],
+    "diversity": "Single-category section (movies), so the per-category cap is moot. Outlet spread = 4 distinct outlets (postPerspective, VFX Voice, fxguide, ProVideo Coalition), each <=2 -> passes the diversity guard. Distinct palette accents assigned (#0070f3, #f5a623, #7928ca, #2ec5c5). No URL collisions.",
+    "shortfall": true,
+    "floor": 3,
+    "note": "4 picks -> above the floor of 3. Pool was 5; 1 (SwitchHDR) dropped as an earliest-wins content duplicate of a previously published movies card, leaving 4 genuinely fresh, never-before-seen stories. No backfill available (pool exhausted); not padded.",
+    "baseline": "news_data.json -> sections.movies (today 2026-07-15 + days 2026-07-14/13/11/10, plus earliest-wins carry-over from the 2026-07-15 run recording card `switchhdr` on 2026-07-08). Candidates pre-URL-deduped in candidates_filtered_movies.json (1 dropped upstream)."
   }
 }

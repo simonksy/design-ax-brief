@@ -1,21 +1,10 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "movies",
   "media": [
-    {
-      "id": "odysseus-fall",
-      "type": "image",
-      "src": "pipeline/media/odysseus-fall.jpg"
-    },
-    {
-      "id": "ssff-asia-pitch",
-      "type": "image",
-      "src": "pipeline/media/ssff-asia-pitch.png"
-    },
-    {
-      "id": "tilly-norwood-misaligned",
-      "type": "image",
-      "src": "pipeline/media/tilly-norwood-misaligned.jpg"
-    }
+    { "id": "vigloo", "type": "image", "src": "pipeline/media/vigloo.jpg" },
+    { "id": "ted-deepvoodoo", "type": "image", "src": "pipeline/media/ted-deepvoodoo.jpg" },
+    { "id": "clearangle", "type": "image", "src": "pipeline/media/clearangle.jpg" },
+    { "id": "topaz-video", "type": "image", "src": "pipeline/media/topaz-video.jpg" }
   ]
 }

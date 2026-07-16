@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "Samsung",
+      "tool": "OpenAI",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/",
+      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
       "source": "Engadget",
-      "published_iso": "2026-07-08T16:12:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/official-renders-for-samsungs-galaxy-z-flip-8-watch-9-watch-2-ultra-and-z-fold-8-leak/intro-1783527075.jpg",
-      "excerpt": "Official-looking renders of Samsung's Galaxy Z Flip 8, Z Fold 8, Watch 9 and Watch Ultra 2 leaked ahead of the July 22 Unpacked, giving the first full look at the Galaxy AI foldable and wearable lineup in its final colors and designs.",
-      "rationale": "Flagship Galaxy AI lineup revealed in final form days before Unpacked - kept as the single Samsung item over the near-dup Unpacked-date and Watch-9 teasers to maximize device spread."
+      "published_iso": "2026-07-15T08:37:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
+      "excerpt": "OpenAI's first hardware product is reportedly a portable, screenless 'AI companion' speaker: per Bloomberg it runs an advanced GPT-Live voice mode, has moving mechanical parts to feel 'alive,' and packs cameras and sensors for contextual awareness.",
+      "rationale": "OpenAI's debut hardware is the marquee gadget story; kept the strongest of four outlets covering it (original Bloomberg-sourced report, most complete)."
     },
     {
       "rank": 2,
-      "tool": "Meta",
+      "tool": "Apple",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-just-fixed-a-privacy-vulnerability-with-its-ray-ban-smart-glasses-but-could-cameraless-designs-be-the-better-future",
-      "source": "TechRadar",
-      "published_iso": "2026-07-08T18:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hEJdTA3TwbnfDQCMUCHyc9-2560-80.jpg",
-      "excerpt": "Meta is patching its Ray-Ban AI glasses to disable the camera if the recording LED is tampered with, after a modding scene sold LED-kill services - reigniting the debate over whether cameraless AI glasses are the safer design future.",
-      "rationale": "Distinct from the published Meta 'super-sensing' story; TechRadar's cameraless-design framing is the more actionable angle for designers weighing privacy-first AI wearables. Kept over the near-dup Android Authority version."
+      "url": "https://gizmodo.com/apple-fcking-did-it-one-month-with-siri-ai-2000784845",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-13T21:55:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3.jpg",
+      "excerpt": "After a year's delay, Apple's rebuilt Siri AI - now powered by Google's Gemini models - ships in iOS 27; a month of use finds it genuinely useful for searching personal data and multi-step tasks, though still short of flawless.",
+      "rationale": "Shipping-now, one-month verdict on the Gemini-powered Siri in iOS 27; actionable for anyone leaning on Apple's assistant, and distinct from the prior watchOS/visionOS beta-seeding notes."
     },
     {
       "rank": 3,
@@ -35,49 +35,34 @@
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.androidcentral.com/accessories/smart-home/google-home-speaker-2026-review",
-      "source": "Android Central",
-      "published_iso": "2026-07-04T12:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NYZV4dx79XHGaCbAd57Y8J-2048-80.jpg",
-      "excerpt": "A hands-on review of Google's first ground-up Gemini smart speaker - the $99 Home Speaker with a dedicated NPU for on-device AI processing, 360-degree audio and Gemini-driven conversational control of the home.",
-      "rationale": "Shipping, buy-decision review of Google's first ground-up Gemini speaker with an on-device NPU - concrete on-device AI hardware, distinct outlet and device category."
+      "url": "https://9to5google.com/2026/07/14/pixel-10-gemma-4/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-14T17:10:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "Google's Gemma 4 E2B runs directly on the Pixel 10's Tensor G5 TPU, enabling on-device offline AI chat, image recognition and voice transcription with no internet connection - a push for local, private generative AI on the phone.",
+      "rationale": "Concrete on-device / offline generative AI on shipping hardware - a real shift toward local, private phone AI that changes how designers can rely on it."
     },
     {
       "rank": 4,
-      "tool": "Roborock",
+      "tool": "Meta",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://gizmodo.com/roborock-saros-20-review-jack-of-all-trades-master-of-most-2000782913",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-13T11:30:15Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-09-1200x675.jpg",
-      "excerpt": "Roborock's Saros 20 uses AI object recognition to identify and dodge 300+ obstacle types, plus solid-state lidar and a climbing chassis - a review of how far on-device AI has pushed robot-vacuum autonomy in 2026.",
-      "rationale": "Fresh review showing how far on-device AI vision has pushed robot-vacuum autonomy; different brand and product class from the published iRobot Roomba story."
-    },
-    {
-      "rank": 5,
-      "tool": "Microsoft",
-      "category": "gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-07-08T19:00:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG",
-      "excerpt": "Microsoft's 2026 Surface Laptop 13.8 gets Qualcomm's new Snapdragon X2 Plus, delivering a big NPU/CPU jump for Copilot+ on-device AI - a review of what the next-gen Arm silicon means for AI PC performance.",
-      "rationale": "AI-PC silicon benchmark that shifts device recommendations; distinct from the published Surface Pro OLED / X2 Elite review (different device and chip tier)."
+      "url": "https://9to5google.com/2026/07/02/meta-glasses-get-premium-usage-limits/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-02T16:55:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg",
+      "excerpt": "Meta starts charging $20/month for Meta One Premium, gating the smart glasses' AI 'Conversation Focus' feature to just 3 hours/month free (15 hours paid) - a look at how on-device AI capabilities on wearables are being monetized.",
+      "rationale": "First clear signal of how AI wearable features get monetized; distinct topic (pricing/subscription) from the published Meta glasses privacy/super-sensing stories."
     }
   ],
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.prev.json -> sections.gadgets (today 2026-07-14 + days 2026-07-08 through 2026-07-13, 26 published cards). Same-date idempotent re-run, so 2026-07-15 cards are not treated as dups.",
-    "dropped": "DROPPED candidate 1, 9to5Mac 'iOS 27 public beta is live' (https://9to5mac.com/2026/07/13/ios-27-public-beta/) - content-dup of already-published ios27-beta (MacRumors, 2026-07-08): same iOS 27 public-beta release and rebuilt-Siri/waitlist focus. Earliest-wins.",
+    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-15 + days 2026-07-09 through 2026-07-14).",
     "collapsed_stories": [
-      "Samsung Unpacked: kept Engadget renders leak (cand 2), dropped SamMobile Unpacked-date (cand 3) - same Unpacked lineup preview.",
-      "Galaxy Watch 9 teaser: dropped both 9to5Google (cand 4) and SamMobile (cand 5) to avoid a second Samsung entry and maximize distinct-device spread.",
-      "Meta Ray-Ban camera-LED patch: kept TechRadar (cand 6), dropped Android Authority (cand 7) - same patch/event, TechRadar has the design angle."
+      "OpenAI companion speaker: kept Engadget /2215417 (cand 1), dropped Digital Trends (cand 2), Android Authority (cand 3) and 9to5Mac (cand 4) - same story via different outlets, kept the strongest single."
     ],
-    "shortfall": "5 picks, none padded. Pool of 10 collapses to 6 distinct fresh stories after dedup; selected 5 for maximum device/brand and outlet spread.",
-    "diversity": "5 distinct outlets (Engadget, TechRadar, Android Central, Gizmodo, Notebookcheck), max 1 card per outlet; 5 distinct device categories (foldables, smart glasses, smart speaker, robot vacuum, AI laptop); distinct accents assigned within the shared gadgets category."
+    "dropped_as_published_dup": "OpenAI Codex keypad (Engadget /2215952, cand 5) DROPPED - content-duplicate of already-published 'codex-macropad' (Gizmodo, 2026-07-13): same OpenAI x Work Louder Codex keypad product/release, only a later beat (teaser -> named launch). Per the hard dedup rule (earliest-wins, never reappear on a later day) it is dropped despite the override note asking to keep it; flagging so it can be reinstated if the launch is judged a genuinely distinct beat.",
+    "shortfall": "4 picks (above the floor of 3), none padded. After dedup no further unique, never-before-seen fresh candidate remains to backfill to 5.",
+    "diversity": "3 distinct outlets (Engadget, Gizmodo, 9to5Google x2, <=2 per outlet). Single-category section (gadgets); distinct accents assigned within the shared category."
   }
 }

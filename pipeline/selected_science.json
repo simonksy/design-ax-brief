@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "science",
   "selection_mode": "auto",
   "picks": [
@@ -9,12 +9,12 @@
       "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
-      "source": "Phys.org",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-2.jpg",
-      "excerpt": "Argonne National Laboratory's ChemGraph is an open-source AI framework that uses LLMs and specialized agents to translate natural-language scientific problems into executable computational-chemistry calculations, automating battery, combustion and materials simulations for non-experts.",
-      "rationale": "Open-source LLM-agent framework lets non-experts run computational-chemistry and materials simulations from plain language — high actionability, materials sub-domain."
+      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "source": "Quanta Magazine",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp",
+      "excerpt": "Quanta explores thermodynamic computers — chips (from startups Normal Computing and Extropic) that harness thermal fluctuations and noise to compute, promising to run generative-AI algorithms with dramatically lower energy use, a physics-driven rethink of the hardware substrate underlying modern AI.",
+      "rationale": "Freshest pick (07-15) and highest novelty: a physics-of-computing rethink promising far lower energy for generative AI — computing sub-domain, distinct outlet."
     },
     {
       "rank": 2,
@@ -22,12 +22,12 @@
       "category": "science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html",
+      "url": "https://phys.org/news/2026-07-ai-reveals-hidden-san-andreas.html",
       "source": "Phys.org",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-translates-p.jpg",
-      "excerpt": "Technion's BetaDescribe is an AI system that translates raw protein sequences into natural-language descriptions, generating evidence-based hypotheses about the functions of otherwise-uncharacterized proteins for drug discovery and biotech.",
-      "rationale": "Novel protein-to-text model surfaces functions of uncharacterized proteins, feeding real drug-discovery hypotheses — distinct biology/protein sub-domain."
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/san-andreas-fault-hidd.jpg",
+      "excerpt": "Scientists at the GFZ Helmholtz Centre for Geosciences used artificial intelligence to detect previously hidden slow-slip ('silent') events on California's San Andreas Fault, finding these creeping fault movements are followed by measurably increased seismic activity — a new AI-enabled window into earthquake precursors.",
+      "rationale": "Concrete AI-enabled discovery in seismology — hidden slow-slip events as earthquake precursors — high-impact, distinct geophysics sub-domain."
     },
     {
       "rank": 3,
@@ -35,12 +35,12 @@
       "category": "science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-07-08T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/neutron-star-merger.webp",
-      "excerpt": "An international team at GSI/FAIR trained a deep neural network (RHINE) to model r-process heating in neutron-star mergers, letting simulations of how the universe forges its heaviest elements run far faster and more accurately.",
-      "rationale": "Neural network makes heavy-element nucleosynthesis simulations faster and more accurate — a concrete method advance in astrophysics from a credible GSI/FAIR team."
+      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
+      "source": "Phys.org",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/ai-and-medical.jpg",
+      "excerpt": "North Carolina State University researchers built BINND (Binding and Interaction Neural Network for DNA), a deep-learning model trained on 144 million DNA sequence pairs that predicts which DNA strands bind to one another with 83.5% accuracy — at least 10% better than prior methods — with applications in DNA computing, data storage and diagnostics.",
+      "rationale": "New model with a clear accuracy gain (83.5%, +10% over prior) spanning genomics and DNA computing/storage — biology sub-domain; 2nd and final phys.org pick under the outlet cap."
     },
     {
       "rank": 4,
@@ -48,12 +48,12 @@
       "category": "science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://www.psychologytoday.com/us/blog/think-your-way-to-health/202607/i-need-help-should-i-use-an-ai-chatbot-or-a-therapist",
-      "source": "Psychology Today",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/judith_beck.jpg",
-      "excerpt": "Judith S. Beck weighs AI mental-health chatbots against human therapists: chatbots are low-cost and available 24/7 but carry real risks, while clinicians tailor treatment with empathy and clinical judgment an LLM cannot yet replicate.",
-      "rationale": "Clinician-authored assessment of where AI mental-health chatbots help and where they fail — mental-health/cognition sub-domain from a domain-expert source."
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "source": "ScienceDaily",
+      "published_iso": "2026-07-07T02:50:47Z",
+      "og_image": null,
+      "excerpt": "Researchers at the University of Osaka trained an AI model on molecular-dynamics simulations to evaluate 16 structural descriptors and identify the most effective ways to distinguish water's two competing liquid states, helping pin down a hidden 'critical point' in supercooled water and clarifying the origin of water's anomalous properties.",
+      "rationale": "AI applied to a long-standing physical-chemistry puzzle (supercooled water's critical point) — adds a distinct materials/chemistry sub-domain and a 4th outlet."
     },
     {
       "rank": 5,
@@ -61,19 +61,19 @@
       "category": "science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg",
-      "excerpt": "Anthropic's 'Jacobian lens' reveals a hidden 'J-space' inside Claude Opus 4.6 — words that shape a model's upcoming output without appearing in it — offering the clearest glimpse yet into how LLMs represent and weigh concepts internally.",
-      "rationale": "Concrete interpretability discovery into how LLMs internally represent concepts — top-tier outlet, high novelty, distinct interpretability sub-domain."
+      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
+      "source": "Physics World",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
+      "excerpt": "As AI systems become embedded across physics research — from particle detection to materials discovery — Physics World examines the 'black box' problem: researchers increasingly struggle to understand how these models reach their conclusions, raising questions about whether science is entering an era of discoveries without full comprehension.",
+      "rationale": "Insight piece on how AI is reshaping the scientific method itself (interpretability of AI-driven physics) — credible outlet, physics-method angle that rounds out the sub-domain spread."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.science in news_data.prev.json (same-date idempotent baseline — only 2026-07-14 and earlier count). Published 2026-07-14 science stories: Willow quantum self-learning, quantum-peptide design, flat-band 2D screening, kagome superconductors, LLM decision-reasons.",
-    "collapsed_stories": [],
-    "dropped": "None on dedup — all 8 filtered candidates are content-distinct from published cards (no shared event/URL/topic). Not selected: physics-informed drug-patches (materials slot filled by ChemGraph, which is more distinct from the protein/biology pick), ChemGraph vs drug-patches resolved in ChemGraph's favor; Physics World AI black-box and ScienceDaily Turing critique both overlap the interpretability/cognition slots already filled by the stronger Anthropic and Psychology Today picks.",
+    "checked_against": "sections.science in news_data.json (today 2026-07-15 + day 2026-07-14). Published science stories: ChemGraph, BetaDescribe (protein->text), RHINE (neutron-star r-process), AI therapy-chatbot, Anthropic J-space; Willow quantum self-learning, quantum-peptide design, flat-band 2D screening, kagome superconductors, LLM decision-reasons.",
+    "dropped_duplicates": "None — all 8 filtered candidates are content-distinct from published cards (no shared event/URL/topic). BINND DNA is distinct from published BetaDescribe (DNA-binding vs protein-function). ChemGraph and flat-band 2D are prior candidates now published and were not in this pool.",
+    "not_selected": "phys.org physics-informed drug-patches (would breach the phys.org<=2 cap; San Andreas and BINND ranked higher); GEN virtual-cell foundation models (bio slot already held by BINND, overlap); MIT SceneSmith (robotics-tooling, weakest AIxscience-advances relevance).",
     "shortfall": "None. 5 distinct, never-before-published picks; no padding.",
-    "diversity": "4 distinct outlets: Phys.org x2 (cap respected), ScienceDaily, Psychology Today, MIT Technology Review. Sub-domains spread across materials, biology/protein, astrophysics, mental-health/cognition, and interpretability. All share the science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f)."
+    "diversity": "4 distinct outlets: Phys.org x2 (cap respected, dropped its 3rd candidate), Quanta Magazine, ScienceDaily, Physics World. Sub-domains spread across computing/hardware, seismology/geophysics, biology/DNA, physical-chemistry, and physics-method. All share the science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f)."
   }
 }

@@ -1,44 +1,68 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "design",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
-      "source": "VentureBeat",
-      "category": "figma",
-      "published_iso": "2026-07-14T13:00:00Z",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=1200&q=60",
-      "excerpt": "Canva launched Canva Code 2.0, a major upgrade to its AI-powered coding tool that turns plain-language prompts into interactive websites, apps and experiences — now available to every user, including free accounts."
+      "url": "https://www.creativebloq.com/design/fonts-typography/this-optical-illusion-font-was-created-to-baffle-ai-and-it-actually-works-for-now",
+      "source": "Creative Bloq",
+      "category": "wildcard",
+      "published_iso": "2026-07-15T07:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KSVwbVdmgFXa26FozrvfJ7-1910-80.png",
+      "excerpt": "A new optical-illusion typeface is engineered to be unreadable to AI/OCR systems while staying legible to humans — a craft-led designer pushback against machines scraping and reinterpreting visual work."
     },
     {
-      "url": "https://dev.to/mauriciojuba/design-tokens-are-prompts-now-fif",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-07-14T17:29:27Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0rrc7gvfxwh373tz90i.png",
-      "excerpt": "The primary consumer of a design system has changed species: tokens are no longer written for human engineers but parsed by AI models, reframing design tokens as prompts for machine-driven UI generation."
+      "url": "https://www.creativebloq.com/3d/ai-has-amplified-my-20-years-of-experience-believes-concept-artist-daniel-porto",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-07-15T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/w2frQCRmA29oa6Dy8McJwU-1600-80.jpg",
+      "excerpt": "Veteran concept artist Daniel Porto argues AI has amplified rather than replaced his 20 years of craft, with creative vision and direction — not the tool — becoming the real competitive advantage in an AI-assisted workflow."
     },
     {
-      "url": "https://dev.to/mauriciojuba/the-store-that-rearranges-itself-generative-ui-part-2-2mn9",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-07-14T17:21:30Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs7guf3zv61k8bd71n6je.png",
-      "excerpt": "An experiment takes generative UI from blueprint to a working e-commerce funnel — five personas, a live model in the loop, 200 simulated shoppers — and argues page-level generative UI is closer to production than it looks."
+      "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-15T19:48:49Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*xueXM438PdvFdB4J8p3z_A.png",
+      "excerpt": "Argues generative AI is driving the first major shift in software interaction models in years, and asks whether designers are ready to invent the new patterns that go beyond chat boxes and prompts."
     },
     {
-      "url": "https://develop3d.com/3d-printing/qa-ali-tamijani-ceo-of-novineer/",
+      "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-13T11:09:48Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg",
+      "excerpt": "A design-AX essay: as AI absorbs execution work, design shifts from a craft function into the operating logic of the whole organisation, reshaping how design teams are structured and how they work."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+      "source": "Smashing Magazine",
+      "category": "workflow",
+      "published_iso": "2026-07-15T10:00:00Z",
+      "og_image": "https://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg",
+      "excerpt": "A counter-narrative arguing users are fatigued by AI features bolted onto every product, and what that backlash means for how designers should — and shouldn't — integrate AI into real experiences."
+    },
+    {
+      "url": "https://develop3d.com/design/qa-ali-tamijani-ceo-of-novineer/",
       "source": "DEVELOP3D",
       "category": "cad",
       "published_iso": "2026-07-14T10:13:33Z",
       "og_image": "https://develop3d.com/wp-content/uploads/2026/07/Novineer_NoviVision-Heropng.jpg",
-      "excerpt": "DEVELOP3D talks with Novineer CEO Ali Tamijani about the startup's AI-driven reverse engineering and generative design tools for additive manufacturing and product design."
+      "excerpt": "DEVELOP3D interviews Novineer CEO Ali Tamijani on the startup's AI-driven reverse engineering that turns smartphone photos into optimised 3D models for additive-manufacturing and generative product design."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6OpWU-HrsuQ",
+      "source": "Build Great Products (YouTube)",
+      "category": "social",
+      "published_iso": "2026-07-14T14:30:18Z",
+      "og_image": "https://i.ytimg.com/vi/6OpWU-HrsuQ/maxresdefault.jpg",
+      "excerpt": "Designer channel Build Great Products ranks the major 2026 AI design tools — Figma, Anthropic's Claude Design and Google Stitch — testing each on the same brief to see which actually fits real product-design workflows."
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 4,
-    "against_days": 6
+    "dropped": 1,
+    "kept": 7,
+    "against_days": 5
   }
 }

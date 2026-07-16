@@ -1,11 +1,10 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "section": "gadgets",
   "media": [
-    { "id": "galaxy-z8", "type": "image", "src": "pipeline/media/galaxy-z8.jpg" },
-    { "id": "meta-rayban-led", "type": "image", "src": "pipeline/media/meta-rayban-led.jpg" },
-    { "id": "google-home-speaker", "type": "image", "src": "pipeline/media/google-home-speaker.jpg" },
-    { "id": "roborock-saros20", "type": "image", "src": "pipeline/media/roborock-saros20.jpg" },
-    { "id": "surface-x2plus", "type": "image", "src": "pipeline/media/surface-x2plus.jpg" }
+    { "id": "openai-speaker", "type": "image", "src": "pipeline/media/openai-speaker.jpg" },
+    { "id": "siri-gemini", "type": "image", "src": "pipeline/media/siri-gemini.jpg" },
+    { "id": "pixel10-gemma4", "type": "image", "src": "pipeline/media/pixel10-gemma4.jpg" },
+    { "id": "meta-one-premium", "type": "image", "src": "pipeline/media/meta-one-premium.jpg" }
   ]
 }
