@@ -1,94 +1,40 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-07-16T23:10:00Z",
+  "now_iso": "2026-07-18T23:00:29Z",
   "items": [
     {
-      "url": "https://www.pcgamer.com/gaming-industry/poll-finds-100-percent-of-japanese-online-game-developers-are-using-ai-though-mostly-for-user-preference-analysis-and-user-behavior-prediction/",
-      "title": "Poll finds 100% of Japanese online game developers are using AI, though mostly for 'user preference analysis' and 'user behavior prediction'",
-      "source": "PC Gamer",
+      "url": "https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336",
+      "title": "People Are Quickly Cloning Indie Games Using AI Tools",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-07-15T15:36:08Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/5BCLDn9uWa9YYLdeqYWPBL-1920-80.png",
-      "excerpt": "A Japan Online Game Association survey reports that every responding online game developer now uses AI somewhere in their pipeline, but overwhelmingly for player-preference analysis and behavior prediction rather than asset or content generation. It is a rare hard data point on where AI actually lands in production workflows versus where the discourse assumes it lands."
+      "published_iso": "2026-07-15T22:15:12Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg",
+      "excerpt": "Solo developers are using AI coding tools to spin up playable clones of indie games within days, sometimes before the original even ships, and push them to storefronts first. It is a concrete workflow shift that is reshaping how small studios share and protect in-progress work."
     },
     {
-      "url": "https://www.pcgamer.com/software/ai/googles-ai-studio-lead-has-vibe-coded-a-port-of-command-and-conquer-for-ios/",
-      "title": "It seems like engineers are vibe coding game ports with access to the source code",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-07-06T10:58:05Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Ny5gxLuhNTziwfznwoUfDV-1920-80.jpg",
-      "excerpt": "Google's AI Studio lead vibe-coded an iOS port of Command & Conquer using the released source code, reframing LLM-assisted porting as a real engineering workflow rather than a toy demo. It sharpens the question of what 'vibe coding' means when the model is handed a legitimate codebase instead of a prompt."
-    },
-    {
-      "url": "https://www.pcgamer.com/games/sports/the-devil-works-hard-but-ai-ripoffs-work-harder-as-meccha-chameleon-falls-victim-to-hordes-of-copycats-coming-out-of-the-woodwork/",
-      "title": "The devil works hard but AI ripoffs work harder as Meccha Chameleon falls victim to hordes of copycats coming out of the woodwork",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-07-15T12:02:40Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZN7xvf8i7THqwZBW5VGL5X-1920-80.jpg",
-      "excerpt": "Breakout hit Meccha Chameleon has been swarmed by AI-generated Steam clones within days of release, some reusing its name in certain regions. The speed of the copy cycle is becoming a design and discovery problem for small studios, not just a moderation one."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
-      "title": "Half of all games released on Steam will use AI by 2028, study predicts: \"AI lowers the barrier not just to make a game, but to make several\"",
+      "url": "https://www.gamesradar.com/games/devs-dont-buy-steam-disclosure-claiming-gen-ai-was-a-necessity-im-literally-unemployed-and-i-still-make-all-of-my-assets-by-hand/",
+      "title": "Devs don't buy Steam disclosure claiming gen AI was a necessity: \"I'm literally unemployed and I still make all of my assets by hand\"",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-16T21:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
-      "excerpt": "A new study projects that AI-disclosed titles will make up half of all Steam releases by 2028, arguing the tech lowers the barrier not just to shipping one game but to shipping many. The forward-looking projection reframes AI adoption as a throughput shift in how studios plan output."
+      "published_iso": "2026-07-09T17:11:01Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg",
+      "excerpt": "A dark-fantasy idle ARPG's Steam disclosure argued generative AI was a budget necessity, drawing sharp pushback from developers who say they still hand-make assets. The dispute is a live case study in how gen-AI reliance is being justified and contested inside real production pipelines."
     },
     {
-      "url": "https://www.gamesradar.com/games/destiny/epic-ceo-tim-sweeney-suggests-ai-couldve-saved-destiny-2-and-will-enable-games-like-destiny-to-thrive/",
-      "title": "Epic CEO Tim Sweeney suggests AI could've saved Destiny 2 and will \"enable games like Destiny to thrive!\"",
-      "source": "GamesRadar+",
+      "url": "https://www.gamespot.com/articles/in-an-era-of-ai-slop-meccha-chameleon-embraces-human-crafted-chaos/",
+      "title": "In An Era Of AI Slop, Meccha Chameleon Embraces Human-Crafted Chaos",
+      "source": "GameSpot",
       "category": "games",
-      "published_iso": "2026-07-02T23:59:34Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NYDrLbwGCaKmtKTvRuwqD-1920-80.jpg",
-      "excerpt": "Tim Sweeney argues that AI-driven content production could have sustained Destiny 2's live-service content treadmill and will let similar games thrive. Coming from the Unreal vendor, it is a direct claim about AI changing the economics of live-service content pipelines."
-    },
-    {
-      "url": "https://www.thegamer.com/dear-passengers-friendslop-backlash-epstein-jokes-generative-ai/",
-      "title": "New Viral Friendslop Game Criticized For Epstein Jokes And Generative AI",
-      "source": "TheGamer",
-      "category": "games",
-      "published_iso": "2026-07-15T17:37:28Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/two-airplane-pilots-having-a-barbeque-oin-the-wing-of-a-plne.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Viral co-op title Dear Passengers is drawing backlash over both its humor and its use of generative AI assets, showing how quickly the 'friendslop' genre's fast production cadence collides with player scrutiny. It is a live case of AI-accelerated content shipping ahead of its own art direction."
-    },
-    {
-      "url": "https://www.destructoid.com/mw4-studio-head-ai-game-dev-whatever-tools-we-can/",
-      "title": "Modern Warfare 4 studio head on AI in game dev: 'We use whatever tools we can'",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-07-15T19:33:14Z",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/06/MW4_DMZ_08_BRANDED.jpg?quality=75",
-      "excerpt": "Infinity Ward's studio head takes a matter-of-fact line on AI in Modern Warfare 4's development, framing it as one more tool available to the team. It is a rare AAA-scale statement of AI as ordinary pipeline tooling rather than a strategic announcement."
-    },
-    {
-      "url": "https://www.youtube.com/shorts/_D26zKNPX7s",
-      "title": "Spend less time on scene setup with Unity AI",
-      "source": "Unity",
-      "category": "games",
-      "published_iso": "2026-07-06T13:57:03Z",
-      "og_image": "https://i.ytimg.com/vi/_D26zKNPX7s/maxresdefault.jpg",
-      "excerpt": "Unity demonstrates its AI Beta handling scene setup so developers can spend more time iterating on ideas instead of assembling environments. A concrete look at where Unity is positioning generative tooling inside the editor's day-to-day workflow."
-    },
-    {
-      "url": "https://www.youtube.com/shorts/3hp-NNCNVPY",
-      "title": "Build a mockup UI with Unity MCP",
-      "source": "Unity",
-      "category": "games",
-      "published_iso": "2026-07-13T14:04:35Z",
-      "og_image": "https://i.ytimg.com/vi/3hp-NNCNVPY/maxresdefault.jpg",
-      "excerpt": "Unity shows how to connect an AI agent to the Unity MCP server and prompt it to generate a placeholder main menu with UI Toolkit, then wire up button logic by hand. It is a practical demo of MCP-driven agents doing greybox UI work that a team restyles later."
+      "published_iso": "2026-07-17T20:26:53Z",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/07/meccha-3.png",
+      "excerpt": "Breakout hit Meccha Chameleon is being positioned as a deliberately human-crafted counterpoint to the wave of AI-generated 'slop' and copycats flooding storefronts. It is a craft-and-design argument about handmade chaos as a competitive differentiator against generative pipelines."
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 9,
+    "dropped": 2,
+    "kept": 3,
     "against_days": 5
   }
 }

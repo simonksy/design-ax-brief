@@ -1,11 +1,9 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "music",
   "media": [
-    { "id": "peelstems2", "type": "svg" },
-    { "id": "suno-leak", "type": "image", "src": "pipeline/media/suno-leak.jpg" },
-    { "id": "aiode", "type": "image", "src": "pipeline/media/aiode.jpg" },
-    { "id": "lumen", "type": "image", "src": "pipeline/media/lumen.jpg" },
-    { "id": "spotify-chat", "type": "image", "src": "pipeline/media/spotify-chat.jpg" }
+    { "id": "devocean", "type": "image", "src": "pipeline/media/devocean.png" },
+    { "id": "suno-61k", "type": "image", "src": "pipeline/media/suno-61k.jpg" },
+    { "id": "josh-fawaz", "type": "image", "src": "pipeline/media/josh-fawaz.jpg" }
   ]
 }

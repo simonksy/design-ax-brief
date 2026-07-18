@@ -1,33 +1,11 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "gadgets",
   "media": [
-    {
-      "id": "google-eyewear",
-      "type": "video",
-      "src": "pipeline/media/google-eyewear.mp4",
-      "poster": "pipeline/media/google-eyewear.jpg"
-    },
-    {
-      "id": "neo-hands",
-      "type": "video",
-      "src": "pipeline/media/neo-hands.mp4",
-      "poster": "pipeline/media/neo-hands.jpg"
-    },
-    {
-      "id": "signal-ring",
-      "type": "image",
-      "src": "pipeline/media/signal-ring.jpg"
-    },
-    {
-      "id": "navix-ultra",
-      "type": "image",
-      "src": "pipeline/media/navix-ultra.jpg"
-    },
-    {
-      "id": "bonsai27b",
-      "type": "image",
-      "src": "pipeline/media/bonsai27b.jpg"
-    }
+    { "id": "samsung-gaia", "type": "image", "src": "pipeline/media/samsung-gaia.jpg" },
+    { "id": "sk-hynix-tetramem", "type": "image", "src": "pipeline/media/sk-hynix-tetramem.jpg" },
+    { "id": "dreame-x60", "type": "image", "src": "pipeline/media/dreame-x60.jpg" },
+    { "id": "smart-glasses-2026", "type": "image", "src": "pipeline/media/smart-glasses-2026.jpg" },
+    { "id": "apple-google-cloud", "type": "image", "src": "pipeline/media/apple-google-cloud.jpg" }
   ]
 }

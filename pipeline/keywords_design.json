@@ -1,8 +1,9 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "design",
-  "mode": "FULL-POOL run (rotation disabled by orchestrator override). Working set = ALL 3 core keywords + EVERY keyword in EVERY category of keyword_pool.json.sections.design.pool (tools_creative 12, tools_design_code 12, models_labs 10, concepts 6, people 9, frontier_broad 20, social 11) = 83 working keywords. No sampling. Because the pool is exhaustive, sibling keywords are GROUPED into shared queries: every pool keyword is represented by at least one query, but a single query may carry 2-5 siblings. Query total capped at 44 across all 7 sources.json design categories (figma, render, cad, tokens, vr, workflow, social) plus 1 wildcard. Social channel rotation basis = day-of-month 17 (day-of-year 198): today emphasizes Figma / Vercel / Fireship / DesignCourse / Two Minute Papers / Jesse Showalter, rotating off yesterday's Microsoft Design / Google Design emphasis.",
-  "note": "Recency window = last 2 days of news_data.json.sections.design (2026-07-15, 2026-07-16). Already covered and therefore DEPRIORITIZED (kept to a single grouped query each, angled away from the covered framing): Canva Code 2.0 and vibe-coding app builders (Lovable / Bolt); design-tokens-as-prompts (dev.to); generative-UI page experiments (dev.to); Novineer text-to-CAD reverse engineering (DEVELOP3D); the Figma vs Claude Design vs Google Stitch tool bake-off (YouTube); AI-fatigue / AI-slop / post-chat-UI essay pieces (Smashing, UX Collective, Creative Bloq). Queries bias toward fresh releases, features and case studies over repeat essay-style commentary. Tokens angle shifted from 'tokens as prompts' to MCP / Dev Mode / governance. CAD angle shifted from reverse engineering to generative design and text-to-CAD. Core (AI Design Tool / Design AX / AI Workflow) always searched.",
+  "now_iso": "2026-07-18T23:00:29Z",
+  "mode": "FULL-POOL run (rotation disabled by orchestrator override). Working set = ALL 3 core keywords + EVERY keyword in EVERY category of keyword_pool.json.sections.design.pool (tools_creative 12, tools_design_code 12, models_labs 10, concepts 6, people 9, frontier_broad 20, social 11) = 83 working keywords. No sampling. Because the pool is exhaustive, sibling keywords are GROUPED into shared queries: every pool keyword is represented by at least one query, but a single query may carry 2-5 siblings. Query total capped at 44 across all 7 sources.json design categories (figma, render, cad, tokens, vr, workflow, social) plus 1 wildcard. Social channel rotation basis = day-of-month 19 (day-of-year 200): today emphasizes Adobe / Microsoft Design / Google Design / AI Jason / Theo t3.gg / The AI Advantage, rotating off the 07-17 emphasis on Fireship / DesignCourse / Two Minute Papers / Jesse Showalter.",
+  "note": "Recency window = last 2 days of news_data.json.sections.design (2026-07-17, 2026-07-18). Already covered and therefore DEPRIORITIZED (kept to a single grouped query each, angled away from the covered framing): frontend-standards-as-installable-AI-skill (dev.to); AI-generated-UI score/gate loops (dev.to). Queries bias toward fresh releases, features and case studies over repeat essay/tutorial commentary. Tokens angle held on MCP / Dev Mode / design-system governance rather than tokens-as-prompts. CAD angle on generative design and text-to-CAD rather than reverse engineering. Core (AI Design Tool / Design AX / AI Workflow) always searched.",
   "working_keywords": [
     {"keyword": "AI Design Tool", "expansions": ["AI design tool launch 2026", "new AI UI design tool", "AI 디자인 툴 신기능", "AI design assistant feature"]},
     {"keyword": "Design AX", "expansions": ["design AI transformation", "디자인 AX", "design org AI adoption", "AI in design teams case study"]},
@@ -89,7 +90,7 @@
     {"keyword": "The AI Advantage", "expansions": ["The AI Advantage workflow video", "AI Advantage design tool 2026"]},
     {"keyword": "Fireship AI", "expansions": ["Fireship AI coding video", "Fireship 100 seconds AI 2026"]},
     {"keyword": "DesignCourse", "expansions": ["DesignCourse AI tutorial", "DesignCourse UI AI 2026"]},
-    {"keyword": "AI design tutorial YouTube", "expansions": ["AI design tutorial 2026", "AI UI design walkthrough video", "Jesse Showalter AI design"]},
+    {"keyword": "AI design tutorial YouTube", "expansions": ["AI design tutorial 2026", "AI UI design walkthrough video", "AI Jason design agent", "Theo t3.gg AI coding"]},
     {"keyword": "Midjourney Instagram", "expansions": ["site:instagram.com midjourney", "Midjourney IG showcase"]},
     {"keyword": "Runway Instagram", "expansions": ["site:instagram.com runway", "Runway IG film reel"]},
     {"keyword": "Awwwards", "expansions": ["Awwwards AI site of the day", "Awwwards AI web design 2026"]},
@@ -213,12 +214,12 @@
     {
       "category": "social",
       "queries": [
-        "site:youtube.com \"Figma\" AI design 2026",
-        "site:youtube.com \"Vercel\" v0 AI design 2026",
-        "site:youtube.com \"Fireship\" AI coding tool 2026",
-        "site:youtube.com \"DesignCourse\" AI design tutorial 2026",
-        "site:youtube.com \"Matt Wolfe\" OR \"The AI Advantage\" AI design tool 2026",
-        "site:youtube.com \"Two Minute Papers\" OR \"Jesse Showalter\" generative AI design 2026",
+        "site:youtube.com \"Adobe\" AI design Firefly 2026",
+        "site:youtube.com \"Microsoft Design\" OR \"Google Design\" AI 2026",
+        "site:youtube.com \"AI Jason\" AI agent design build 2026",
+        "site:youtube.com \"Theo\" t3.gg AI coding design 2026",
+        "site:youtube.com \"The AI Advantage\" OR \"Matt Wolfe\" AI design tool 2026",
+        "site:youtube.com \"Figma\" OR \"Vercel\" AI design 2026",
         "site:instagram.com midjourney OR runway OR awwwards design AI reel"
       ],
       "allowed_domains": [

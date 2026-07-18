@@ -1,154 +1,74 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "gadgets",
   "cards": [
     {
-      "id": "google-eyewear",
-      "tool": "Google",
+      "id": "samsung-gaia",
+      "tool": "Samsung",
       "eyebrow": "AI NEWS",
-      "headline": "구글 AI 안경은 디자인이 먼저\n사양은 그 안에서 정한다",
-      "body": "구글은 올가을 삼성·와비파커와 내놓을 AI 안경을 오디오 전용으로 시작하며 디자인을 첫 조건으로 걸었다.",
-      "mini_headline": "AI 안경, 디자인이 먼저",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
+      "headline": "삼성 가이아 NPU가 PC로 내려온다\nHP·레노버가 검증에 들어갔다",
+      "body": "삼성이 온디바이스 생성형 AI 노트북용 가이아 NPU를 준비하고, HP와 레노버가 이 칩을 검증하고 있다.",
+      "mini_headline": "삼성 가이아 NPU",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "33Sx5FyYrg4"
-          },
-          {
             "t": "p",
-            "x": "구글 글래스 2.0은 아니다. 구글은 올가을 삼성·와비파커·젠틀몬스터와 손잡고 안드로이드 XR로 돌아가는 'Intelligent Eyewear'를 내놓는다. 메타를, 그리고 애플이 준비 중인 무언가를 겨냥한 진입이다."
+            "x": "삼성이 클라이언트 PC용 AI 가속기 '가이아' NPU를 준비하고 있다. 생성형 AI를 노트북 안에서 바로 돌리기 위한 칩이다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/CwDkA8mS3z2mknLGPrYAd5.jpg",
-            "cap": "초대 구글 글래스"
+            "src": "https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "톰스가이드와 만난 구글 XR 제품관리 총괄 저스턴 페인은 2012년 구글 글래스의 실패 이유로 세 가지를 꼽았다. 안경처럼 보이지 않던 형태, 콘텐츠 부재, 다재다능함. 비전은 좋았지만 기술이 못 따라갔다는 것이다. 하드웨어와 플랫폼과 AI라는 블록이 통째로 비어 있었다고 그는 말한다."
-          },
-          {
-            "t": "p",
-            "x": "1세대는 오디오만 쓴다. 디스플레이 모델은 나중이고 올해 안에 신뢰 테스터 프로그램을 연다. 제미나이가 개인 맥락을 읽어 일정과 경기 점수를 답하고, 카메라로 위치를 잡아 내비게이션을 안내한다. 번역과 요리 단계 안내도 화면 없이 굴러간다. 페인은 디스플레이를 필수가 아니라 오디오를 거드는 쪽으로 본다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/BR5qJseLxE3fwAfDXh8vCg.jpg",
-            "cap": "스냅 스펙스를 쓴 에번 스피걸 스냅 CEO"
-          },
-          {
-            "t": "p",
-            "x": "순서는 분명하다. 디자인을 앞세우고 나서 그 제약 안에서 무엇을 만들 수 있는지 묻는다. 젠틀몬스터는 런웨이에 올려도 어색하지 않을 오벌 렌즈, 와비파커는 조금 두툼한 레트로다. 스냅 스펙스처럼 티 나는 형태로 새 경험을 밀어붙이는 길도 있지만 구글의 방식은 아니라고 페인은 선을 그었다."
-          },
-          {
-            "t": "p",
-            "x": "남은 지뢰밭은 프라이버시다. 공공장소 촬영을 어떻게 다룰지가 관건인데, 페인의 진단은 짧다. 쓰는 게 불편하면 사람들은 그냥 안 쓴다."
+            "x": "HP와 레노버가 이 칩을 차기 온디바이스 생성형 AI 노트북에 넣기 위해 검증 중인 것으로 전해진다. 로컬 AI 노트북의 다음 물결이 어디로 향하는지 가늠하게 하는 신호다."
           }
         ]
       }
     },
     {
-      "id": "neo-hands",
-      "tool": "1X",
+      "id": "sk-hynix-tetramem",
+      "tool": "SK hynix",
       "eyebrow": "AI NEWS",
-      "headline": "1X 네오의 손이 레고를 쌓고\n과자 봉지를 뜯는다",
-      "body": "1X는 모터를 손 밖 팔로 빼고 힘줄처럼 당기는 방식으로 네오의 손에 25자유도를 구현했다.",
-      "mini_headline": "손이 사람에 가까워졌다",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
+      "headline": "SK하이닉스가 멤리스터 칩으로\n엣지 AI 전력을 줄인다",
+      "body": "SK하이닉스와 테트라멤이 엣지 AI 추론의 전력을 크게 낮추는 멤리스터 기반 인메모리 컴퓨팅 칩을 함께 만든다.",
+      "mini_headline": "멤리스터 엣지 AI 칩",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "QRyXV3csReA"
+            "t": "p",
+            "x": "SK하이닉스와 테트라멤이 멤리스터 기반 인메모리 컴퓨팅 SoC를 만들고 있다. 연산을 메모리 안에서 처리해 전력 소모를 줄이는 방식이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/7mqMxYN2TCm5aj9QooiDgH-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "1X가 유튜브에 올린 데모에서 네오 베타의 새 손은 전구를 돌려 끼우고, 포도알을 한 알씩 떼어 통에 담고, 나사를 집고, 재킷 지퍼를 내린다. 퍼니언스 과자 봉지도 뜯는다. 듀플로 블록이긴 해도 레고 탑도 제법 쌓는다. 느리지만 사람 손으로 착각할 만큼 매끄럽다."
-          },
-          {
-            "t": "p",
-            "x": "비결은 구조에 있다. 1X는 이 방수 손을 'closed-loop tendon-driven system'이라 부른다. 모터와 서보를 손에서 빼내 팔 쪽으로 옮긴 덕에 손 자체가 작고 유연해졌다. 팔로 물러난 모터는 힘줄 같은 연결선 뭉치를 당기고 놓으며 손을 움직인다. 근육과 힘줄이 아래팔 안에서 당겨지는 사람 손과 닮은 방식이다."
-          },
-          {
-            "t": "p",
-            "x": "손가락과 손바닥, 엄지를 합쳐 25자유도. 영상에서는 사람보다 더 뒤로 꺾이기도 한다. 힘도 만만찮아서 20파운드 덤벨을 들고 손가락 하나로 도르래 추를 감아올린다. 손가락에 센서가 들어가 무엇을 쥐었는지, 힘을 얼마나 줘야 하는지를 안다. 그래서 전구를 깨뜨리지 않는다. 옆에서 휘두른 망치는 달랐지만."
-          },
-          {
-            "t": "p",
-            "x": "지난주 로봇 두 대가 돼지 담낭 수술을 해냈다는 소식과는 결이 다르다. 그쪽은 복강경 조작기를 쥐었을 뿐 미세 조작은 기구 끝에서 일어났다. 메스를 직접 다룬 로봇 손은 없었다."
-          },
-          {
-            "t": "p",
-            "x": "2만 달러짜리 네오가 가정에 들어오면 이 손은 집안일에 쓰인다. 자기 자신을 돌보는 데도 쓴다. 영상 속 네오 베타는 맥세이프 방식 충전 퍽을 집어 제 허리에 붙인다. 1X는 이 손이 현실 세계의 새 학습 데이터를 로봇 개발에 돌려준다고 밝혔다."
+            "x": "목표는 분명하다. 가벼운 모델을 기기 안에서 돌리는 엣지 AI 추론의 전력을 낮추는 것이다. 다만 실제 성능이 어느 정도일지는 아직 안갯속이다."
           }
         ]
       }
     },
     {
-      "id": "signal-ring",
-      "tool": "Signal",
+      "id": "dreame-x60",
+      "tool": "Dreame",
       "eyebrow": "AI NEWS",
-      "headline": "커프도 보정도 없이\n혈압 하나만 노리는 반지",
-      "body": "Signal Ring은 수면 점수와 걸음 수를 걷어내고 커프도 보정도 필요 없는 혈압 측정 하나만 남겼다.",
-      "mini_headline": "혈압 하나만 남겼다",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/health-fitness/no-sleep-score-no-steps-this-signal-smart-ring-from-an-ex-google-head-is-focused-on-cracking-cuffless-calibration-less-blood-pressure-readings",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "혈압은 오래 PPG 웨어러블의 '성배'로 불렸다. 재려면, 최소한 보정이라도 하려면 부풀리는 커프가 있어야 했다. 화웨이 워치 D는 시계 안에 커프를 넣었고, 애플의 고혈압 감지는 30일치 데이터로 가능성만 짚을 뿐 수치를 주지 않는다. LED 방식으로 이 문제를 푼 곳은 없었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/KhRo4yNKAhyXbV5gZBxTNc.jpg",
-            "cap": "Signal Ring"
-          },
-          {
-            "t": "p",
-            "x": "Signal Ring은 구글에서 안드로이드를 이끌었던 톰 모스가 만들었다. 오우라 링 5나 갤럭시 링처럼 지표를 늘어놓지도, 핏빗 에어처럼 AI 비서를 얹지도 않는다. 출발점은 모스 본인이 겪은 '고혈압 응급'이었다. 혈압이 250까지 올랐던 경험을 그는 말이 안 되는 압력이었다고 표현했다."
-          },
-          {
-            "t": "p",
-            "x": "그 뒤 시중의 혈압 추적 기기를 죄다 사봤지만 쓸 만한 게 없었다고 한다. 갤럭시 워치류는 커프로 한 번 보정한 뒤 다른 생체 신호로 추정하는데, 모스가 원한 건 기준선 대비 변화가 아니라 혈압 자체를 재는 방법이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/EjY65NAh9EEGtJszvzJerL.jpg"
-          },
-          {
-            "t": "p",
-            "x": "LED 심박 센싱 특허로 애플을 고소했던 마시모 출신 과학자·엔지니어들과 3년을 붙어 만들었다. 즉석에서 혈압을 재고, '평균 동맥압'이라는 단일 수치로 하루 종일 수동 추적한 뒤 블루투스로 앱에 보낸다. 애플도 삼성도 못 한 걸 어떻게 했느냐는 물음에 모스는 전문성을 들었다. AI도 마법 같은 신기술도 아니고, 하나의 문제에 가장 잘하는 사람들을 붙였을 뿐이라는 것이다. 걸음 수용 가속도계 같은 센서를 욱여넣지 않은 것도 그래서다."
-          },
-          {
-            "t": "p",
-            "x": "정확도는 기존 혈압 측정과 견주는 실제 테스트로만 확인된다. 사전 주문은 열려 있고 가격은 399달러(약 £295 / AU$770), 구독료는 없다. 출하는 10월이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "navix-ultra",
-      "tool": "nubia",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트 폰이라는 이름을\n누비아가 먼저 붙였다",
-      "body": "누비아는 NaviX Ultra를 세계 첫 AI 에이전트 폰으로 내걸었지만 사양은 아직 밝히지 않았다.",
-      "mini_headline": "누비아의 에이전트 폰",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/nubia_navix_ultra_unveiled_their_take_onn_aiagent_phone-news-73744.php",
+      "headline": "드림 로봇청소기가 AI 눈으로\n장애물 280종을 가려낸다",
+      "body": "드림의 플래그십 로봇청소기 X60 맥스 울트라는 듀얼 AI 카메라와 능동 조명으로 장애물 280종을 구분한다.",
+      "mini_headline": "드림 X60, 장애물 280종",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/dreame-x60-max-ultra-review-3684554/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -156,37 +76,57 @@
         "blocks": [
           {
             "t": "p",
-            "x": "지난주 중국 세계인공지능대회(WAIC)에서 예고했던 물건을 누비아가 공개했다. AI 에이전트가 움직이는 스마트폰, nubia NaviX Ultra다."
+            "x": "드림의 플래그십 로봇청소기 X60 맥스 울트라는 두 개의 AI 카메라를 쓴다. 어두운 구석을 먼저 밝히는 능동 조명까지 더했다."
           },
           {
             "t": "img",
-            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/inline/-1200/gsmarena_001.jpg",
-            "cap": "nubia NaviX Ultra"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Dreame-X60-Max-Ultra-tile.jpg"
           },
           {
             "t": "p",
-            "x": "사양은 아직 나오지 않았다. 대신 웨이보에 디자인을 풀면서 세계 최초의 AI 에이전트 스마트폰이라고 내걸었다. 확인된 건 두바오(Doubao) 모바일 어시스턴트를 얹는다는 점, 그리고 픽셀식 카메라 바 안에 후면 트리플 카메라를 담았다는 점 정도다."
-          },
-          {
-            "t": "img",
-            "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_003.jpg"
-          },
-          {
-            "t": "p",
-            "x": "색상은 Blue Horizon, Black, Dreamscape, White 네 가지. 누비아는 NaviX Ultra가 WAIC 2026에 앞서 2026 SAIL(Super AI Leader) 어워드를 받았다고도 밝혔다. 사양과 가격, 출시 시점은 며칠 안에 더 나올 전망이다."
+            "x": "이 조합으로 장애물 280종을 가려낸다. 가정용 로봇의 온디바이스 AI 비전이 얼마나 멀리 왔는지 보여주는 대목이다."
           }
         ]
       }
     },
     {
-      "id": "bonsai27b",
-      "tool": "PrismML",
+      "id": "smart-glasses-2026",
+      "tool": "Smart Glasses",
       "eyebrow": "AI NEWS",
-      "headline": "27B 모델을 아이폰 안에\n밀어 넣었다는 주장",
-      "body": "1비트로 약 4GB까지 줄인 Bonsai 27B가 아이폰이 앱에 내주는 6GB 한도를 처음 통과했다.",
-      "mini_headline": "27B가 폰에 들어갔다",
+      "headline": "5만 마일을 시험하고 고른\n2026 AI 안경 세 개",
+      "body": "톰스가이드가 1년간 직접 써보고 2026년 출시된 AI 스마트 안경 가운데 디스플레이형과 오디오형을 아우른 셋을 골랐다.",
+      "mini_headline": "올해의 AI 안경 셋",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/ive-traveled-over-50-000-miles-testing-smart-glasses-in-2026-here-are-my-3-favorites-that-have-launched-this-year-so-far",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "톰스가이드가 1년 동안 5만 마일을 오가며 AI 스마트 안경을 시험했다. 그 끝에 2026년 지금까지 출시된 제품 가운데 셋을 꼽았다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/G3Xc3jkMkkFvQMKqYnBi4k-1992-80.jpg"
+          },
+          {
+            "t": "p",
+            "x": "선택은 디스플레이형과 오디오 우선형을 두루 아우른다. 스마트 안경을 눈여겨보는 사람에게 두 갈래를 가늠하게 하는 현장 비교다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "apple-google-cloud",
+      "tool": "Apple",
+      "eyebrow": "AI NEWS",
+      "headline": "애플이 구글 클라우드로 보내는\nAI 기능에 팝업을 띄운다",
+      "body": "애플이 처리를 구글 클라우드로 넘기는 애플 인텔리전스 기능에 새 프라이버시 팝업을 붙이며 제미나이 기반 시리 개편을 예고했다.",
+      "mini_headline": "애플, 구글 클라우드 팝업",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/14/prismml-releases-bonsai-27b-claiming-first-major-ai-model-of-its-size-fit-for-iphone/",
+      "url": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -194,24 +134,15 @@
         "blocks": [
           {
             "t": "p",
-            "x": "AI 스타트업 PrismML이 아이폰·아이패드·맥에서 돌아간다는 Bonsai 27B를 내놨다. 같은 날 CEO는 CNBC에 애플이 자사 기술을 들여다보고 있다고 말했다."
+            "x": "애플이 애플 인텔리전스의 일부 기능에 새 프라이버시 팝업을 붙였다. 처리를 구글 클라우드로 넘기는 기능이 대상이다."
           },
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/cosmic-orange-17-pro.webp",
-            "cap": "아이폰 17 프로"
+            "src": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
           },
           {
             "t": "p",
-            "x": "휴대폰에 들어간다는 건 저장 용량 숫자가 주는 인상보다 훨씬 빡빡한 관문이다. 폰은 앱에 메모리 전체를 열어주지 않는다. 12GB 아이폰이 온디바이스 모델에 내주는 몫은 6GB 남짓이고, 그 예산을 KV 캐시·활성값과 나눠 써야 한다. 27B 모델을 통상적인 방식으로 빌드하면 근처에도 못 간다. 1비트 Bonsai 27B는 약 4GB로, 여유를 남기고 이 문을 통과한 첫 사례라는 게 회사 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "회사가 밝힌 속도는 NVIDIA GeForce RTX 5090에서 1비트 최대 163 tok/s, 터너리 134 tok/s. M5 Max에서는 각각 87 tok/s와 58 tok/s다. 하이브리드 어텐션 구조에 맞춘 자체 저비트 커널로 MLX를 거쳐 애플 기기에서, CUDA를 거쳐 NVIDIA GPU에서 네이티브로 돈다. 가중치는 Apache 2.0으로 열렸고 기간 한정 무료 개발자 프리뷰 API도 함께 연다."
-          },
-          {
-            "t": "p",
-            "x": "CEO 바박 하시비는 애플을 비롯한 여러 회사가 속도와 전력 효율, 기기 성능을 재보는 중이라며 논의가 아주 초기 단계라고 했다. 애플은 논평 요청에 즉시 답하지 않았다. 9to5Mac은 두 가지를 갈라서 보라고 짚는다. 기술 검증은 전문가 몫이고, 애플 얘기는 신제품 화제 몰이에 쓰이는 중이라는 것이다."
+            "x": "어떤 작업이 기기를 떠나 구글 클라우드로 가는지 드러내는 UI 변화다. 제미나이가 거드는 시리 개편이 아이폰에 다가오고 있다는 신호이기도 하다."
           }
         ]
       }

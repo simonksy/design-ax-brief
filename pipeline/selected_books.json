@@ -1,70 +1,44 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "books",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://publishingperspectives.com/2026/07/at-closing-gala-ipa-announces-2026-innovation-award-winners/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
+      "source": "Publishers Weekly",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
       "category": "books",
-      "headline": "IPA hands its 2026 Innovation award to two AI companies: Shimmr and Ailaysa",
-      "published_iso": "2026-07-08T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6452-793x595.jpeg",
-      "excerpt": "The IPA gave its 2026 Innovation in Publishing Award to two AI companies — Shimmr (AI book marketing) and Ailaysa (multilingual AI for publishers, maker of the Chai Reader discovery platform) — at the Kuala Lumpur congress closing gala.",
-      "rationale": "The one IPA-cluster item allowed: it names the two specific AI vendors the industry just formally endorsed, so it is a concrete tool signal rather than another congress recap."
-    },
-    {
-      "url": "https://lithub.com/can-chatgpt-produce-a-version-of-proust-worth-reading/",
-      "source": "Literary Hub",
-      "tool": "Books",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "category": "books",
-      "headline": "Can ChatGPT produce a version of Proust worth reading?",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/06/proust-chatgpt.png",
-      "excerpt": "Bryan Charles tests ChatGPT against working Proust translators, tracing how AI is quietly encroaching on literary translation — and how skilled translators are actually deploying (and resisting) it.",
-      "rationale": "A hands-on craft test of AI output against professional literary translators — distinct from the 07-16 CONTEC 'AI and Authorship' panel (policy debate) and the 07-15 Kindle Translate story (tooling rollout), neither of which compared actual translation quality."
-    },
-    {
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/15/334627/australian-publishers-association-encouraged-by-government-signals-as-albanese-to-announce-office-of-ai/",
-      "source": "Books+Publishing",
-      "tool": "Books",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "category": "books",
-      "headline": "Australian publishers 'encouraged' on copyright as Albanese readies an Office of AI",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/creators-protest-ai-in-parliament-400x267.jpg",
-      "excerpt": "The Australian Publishers Association said it is 'encouraged' by government signals on copyright as PM Anthony Albanese prepares to announce an Office of AI within his department, amid pressure from AI firms to loosen text-and-data-mining rules.",
-      "rationale": "Freshest item in the pool (07-15) and the only live text-and-data-mining policy story; adds regional and outlet diversity to a US/UK-heavy week."
+      "headline": "AI data-analytics startups pitch publishers on tools that inform — not replace — editorial instinct",
+      "published_iso": "2026-07-10T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Three AI data-analytics startups are pitching publishers on tools that target different parts of the acquisition and marketing pipeline, promising to inform instinct-driven decisions without replacing editorial judgment.",
+      "rationale": "Only genuinely fresh, non-duplicate item in the pool: a concrete look at three specific AI vendors and where in the acquisition/marketing pipeline they slot in — actionable for publishing teams and distinct from any published card."
     }
   ],
   "dropped": [
     {
+      "url": "https://goodereader.com/blog/digital-publishing/publishers-file-massive-lawsuit-against-google-gemini-training",
+      "reason": "Duplicate of already-published story. The Hachette/Cengage/Elsevier + Scott Turow v. Google (Gemini training) lawsuit was published in this section on 2026-07-14 as 'google-gemini-suit' (Publishing Perspectives). Same event via a different outlet = content duplicate."
+    },
+    {
+      "url": "https://bookriot.com/new-lawsuit-against-google-for-using-digital-books-to-train-ai/",
+      "reason": "Same Google Gemini books lawsuit as the Good e-Reader item and as the 07-14 published 'google-gemini-suit' card. Within-pool duplicate + already-published duplicate; dropped."
+    },
+    {
       "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100773-international-publishers-convene-in-malaysia-for-ipa-congress-2026.html",
-      "reason": "IPA Congress 2026 cluster. The same event is already published in this section on 07-13 (PP, emerging-markets session) and 07-15 (PW, children's-books sessions); this is a general congress overview, i.e. reworded coverage of an event already carried. The single permitted IPA slot went to the Innovation Award announcement."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/07/35th-international-publishers-association-congress-highlights-collaboration-courage-and-ai/",
-      "reason": "IPA Congress 2026 cluster — congress opening overview from the same outlet that already ran the 07-13 congress card. Within-pool duplicate of the two other IPA items."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/",
-      "reason": "Librarian-flagged padding: thin news value (argument piece) and a same-source sibling of the 07-14 'shared standard for AI disclosure' card already published. Permitted only to avoid falling below the floor of 3; the floor was met without it."
+      "reason": "IPA Congress 2026 cluster — already covered in this section on 07-13 (ipa-emerging-ai, PP), 07-14 (ipa-childrens-books, PW 100804) and 07-17 (IPA Innovation Award). General congress overview = reworded coverage of an event already carried. (This exact URL was also dropped for the same reason on 07-17.)"
     }
   ],
   "dedup_notes": {
-    "history_checked": "Checked all 6 pre-filtered candidates against sections.books in news_data.json (today 07-16 + days 07-10, 07-11, 07-13, 07-14, 07-15 = 20 published cards). No pick shares a URL or a story with published history. Proust/LitHub is a different article and angle from guatemala-ai-authorship (07-16) and kindle-translate-expand (07-15). The IPA Innovation Award is a distinct announcement from ipa-emerging-ai (07-13) and ipa-childrens-books (07-15). Books+Publishing Albanese/Office of AI is unrelated to anu-audiobook (07-13, same outlet, different story) and to debbonaire-ai (07-14, UK licensing).",
-    "diversity": "3 distinct outlets (Publishing Perspectives, Literary Hub, Books+Publishing), max 1 per domain — meets the >=3-outlet target. Single-category section (books x3); distinct accents assigned from sources.json palette (#f5a623, #7928ca, #2ec5c5).",
-    "count": "3 picks — floor met, target of 5 not reached. Pool was 6 after the URL pre-filter (13 -> 6). Two of the six were IPA-Congress siblings dropped under the one-IPA-story rule plus event-level dedup against 07-13/07-15; the sixth was flagged padding. No backfill available — no padding, no duplicates published."
+    "history_checked": "Checked all 4 pre-filtered candidates against sections.books in news_data.json (today 07-18 + days 07-16, 07-15, 07-14, 07-13). The Google/Gemini books lawsuit is already published (07-14 'google-gemini-suit', Publishing Perspectives), so both the Good e-Reader and Book Riot candidates are content duplicates. The PW IPA Congress overview duplicates the multi-day IPA cluster already carried on 07-13/07-14/07-17. Only the PW data-analytics-startups feature (07-10) is a distinct, never-published story; it is not the same as the 07-17 IPA Innovation Award (Shimmr/Ailaysa) nor referenced as a standalone card.",
+    "diversity": "Single surviving fresh item; single-category section (books). Default books accent #f5a623 / motif swatch applied. Diversity guard is moot at one pick.",
+    "count": "1 pick. The pre-filter reported 4 survivors, but hard URL+content dedup against published history removed 3: two are the same Gemini lawsuit already published 07-14, and one is duplicate IPA-Congress coverage. No backfill available — the pool holds no further unique, unpublished items. Not padding."
   },
   "shortfall": {
-    "target": 5,
-    "picked": 3,
-    "honest_note": "Genuinely thin section this cycle. The July 5-9 IPA Congress dominated the fresh pool and was already covered twice in the published window, so only one IPA item could survive. Reporting 3 rather than padding with the Scholarly Kitchen or duplicate congress recaps."
+    "target": 3,
+    "picked": 1,
+    "honest_note": "Genuinely thin cycle. Of 4 filtered candidates, 3 collapse under the hard dedup rule: the Google Gemini books lawsuit was already published on 07-14, and the PW IPA Congress overview repeats IPA-cluster coverage already run on 07-13/07-14/07-17. Only the PW data-analytics-startups feature survives. Reporting 1 rather than republishing a lawsuit the reader already saw or padding with duplicate congress recaps."
   }
 }

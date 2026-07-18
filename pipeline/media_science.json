@@ -1,31 +1,11 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "science",
   "media": [
-    {
-      "id": "claude-jamming",
-      "type": "image",
-      "src": "pipeline/media/claude-jamming.jpg"
-    },
-    {
-      "id": "syntnpb",
-      "type": "image",
-      "src": "pipeline/media/syntnpb.jpg"
-    },
-    {
-      "id": "biosignature-ai",
-      "type": "image",
-      "src": "pipeline/media/biosignature-ai.jpg"
-    },
-    {
-      "id": "claude-science",
-      "type": "image",
-      "src": "pipeline/media/claude-science.jpg"
-    },
-    {
-      "id": "feedback-brain",
-      "type": "image",
-      "src": "pipeline/media/feedback-brain.jpg"
-    }
+    { "id": "platon", "type": "image", "src": "pipeline/media/platon.jpg" },
+    { "id": "paper-mill", "type": "image", "src": "pipeline/media/paper-mill.jpg" },
+    { "id": "novotags", "type": "image", "src": "pipeline/media/novotags.jpg" },
+    { "id": "ai-res", "type": "image", "src": "pipeline/media/ai-res.jpg" },
+    { "id": "lab-animal-ai", "type": "image", "src": "pipeline/media/lab-animal-ai.jpg" }
   ]
 }

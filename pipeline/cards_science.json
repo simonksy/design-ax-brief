@@ -1,119 +1,107 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "science",
   "cards": [
     {
-      "id": "claude-jamming",
+      "id": "platon",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "노벨상 물리학자, 클로드와\n10년 묵은 증명을 끝냈다",
-      "body": "파리시와 잠포니는 프롬프트 40번 만에 재밍 임계의 a+b=1을 끝내 증명했다.",
-      "mini_headline": "프롬프트 40번의 증명",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/physics-mathematics/mathematics/nobel-prize-winning-physicist-and-team-use-claude-ai-to-solve-decades-old-math-puzzle",
+      "headline": "카메라와 AI로 입자 궤적을\n3D로 되살리는 검출기",
+      "body": "PLATON은 조각내지 않은 섬광체 한 덩이 안에서 빛으로 입자 궤적을 3차원으로 복원한다.",
+      "mini_headline": "빛으로 그리는 검출기",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "물리학자 두 사람이 생성형 AI를 붙잡고 10년 넘게 풀리지 않던 문제를 풀었다. 해법은 7월 1일 Journal of Statistical Mechanics: Theory and Experiment에 실렸다. 주제는 재밍(jamming), 유체 상태의 계가 무질서한 채로 갑자기 굳어버리는 전이다. 당구공을 계속 채워 넣다 보면 빈틈이 사라지고 공마다 이웃에 붙들려 꼼짝 못 하는 상태를 떠올리면 된다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/psftQRQ69aMQmthVeb4fnT.jpg", "cap": "여러 단 위로 공이 쌓여 있는 일러스트. 유체 상태의 계는 무엇 때문에 얼어붙은 '재밍' 상태로 넘어갈까. 물리학자들이 오래된 답을 증명하는 데 클로드 AI의 도움을 받았다. (Image credit: Yuuji via Getty Images)" },
-          { "t": "p", "x": "저자는 2021년 노벨 물리학상을 받은 조르조 파리시와 프란체스코 잠포니. 둘 다 로마 사피엔차 대학 물리학자다. 두 사람은 동료들과 함께 2014년 논문에서 재밍을 수학으로 기술하고 수치해를 내놨는데, 그때 매개변수 a와 b의 합이 늘 1이 되는 현상을 발견했다. a와 b는 계가 임계 재밍 지점에 닿을 때 접촉력과 공 사이 틈의 분포가 어떻게 스케일하는지를 결정한다. 스위스 EPFL의 마티외 위아르가 전혀 다른 길로 가서도 같은 관계에 이르렀지만, a+b=1을 수학적으로 증명한 사람은 10년째 없었다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/FNRvfJ2XGBwNFhUBygH7c5.jpg", "cap": "연구진은 재밍 문제의 출판 가능한 해를 얻기까지 클로드에 40번 프롬프트를 넣었다." },
-          { "t": "p", "x": "벽에 부딪힌 파리시가 앤스로픽의 클로드를 꺼냈다. 클로드가 2014년 수치 결과를 재현하자 이번엔 a+b=1을 증명해보라고 시켰다. 출력물을 비행기에서 읽은 잠포니는 클로드가 만든 LaTeX 파일에서 핵심 아이디어가 맞다는 걸 바로 알아봤고, 그 순간 이 모델들이 이론물리에서 무엇을 해내는가를 보는 자기 관점이 크게 달라졌다고 라이브사이언스에 말했다. 초기 출력에는 손볼 오류가 섞여 있었지만 뼈대는 옳았다. 프롬프트 40번 만에 검증까지 마친 출판 가능한 해석해가 나왔다. 해는 외부의 물리적 가정도, 함수 사이의 깊은 연결도 없이 방정식 안에 그대로 숨어 있었다." },
-          { "t": "p", "x": "잠포니는 이런 방정식을 전업으로 다루는 순수 수학자라면 해를 알아봤을 수도 있다고 인정하면서, 평소 자기 영역 밖에 놓여 있던 수학 훈련과 형식적 기술에 클로드가 즉시 닿게 해준 점을 중요하게 봤다. 클로드가 문헌을 훑어 패턴 매칭을 한 건지 창의성 비슷한 걸 발휘한 건지는 그에게 의미가 없다. \"우리는 앞으로 갈 길이 보이지 않았고, 클로드는 봤으니까요.\" 지금 그는 같은 방식을 \"단단한 초구의 무작위 순차 추가\" 문제에 적용한다. AI가 코드 작성과 최적화는 확 앞당겨주지만 개념은 대부분 자기가 냈고, 적어도 이 경우엔 사람의 안내가 여전히 없어서는 안 된다는 게 그의 정리다." }
+          { "t": "p", "x": "ETH 취리히 연구진이 PLATON이라는 입자 검출기를 만들었다. 라이트필드 카메라 광학과 AI를 써서, 눈에 보이지 않는 입자의 궤적을 섬광체 한 덩이 안에서 3차원으로 되살린다." },
+          { "t": "img", "src": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp", "cap": "카메라 광학과 AI로 입자의 상호작용을 재구성하는 PLATON의 개념." },
+          { "t": "p", "x": "흔히 검출기는 여러 조각으로 잘게 나눠 만들지만, 이 방식은 조각내지 않은 통짜 섬광체 하나로 궤적을 읽어낸다." },
+          { "t": "p", "x": "시뮬레이션에서는 오늘날 최고 수준의 검출기에 맞먹거나 그것을 넘어서는 성능이 나왔다. 구조가 훨씬 단순해 크게 키우기도 쉽다는 점이 강점으로 꼽힌다." }
         ]
       }
     },
     {
-      "id": "syntnpb",
+      "id": "paper-mill",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 설계한 인공 절단효소가\n세포 안에서 작동했다",
-      "body": "AI 설계 SynTnpB가 세포에서 자연 TnpB의 활성에 맞먹거나 앞섰다.",
-      "mini_headline": "자연을 넘은 설계 효소",
-      "source": "GEN",
-      "url": "https://www.genengnews.com/topics/genome-editing/ai-designed-synthetic-crispr-like-nucleases-show-activity-in-cells/",
+      "headline": "AI가 암 논문 260만 편에서\n25만 편을 가짜로 지목했다",
+      "body": "BERT 기반 분류기가 암 논문 260만 편을 훑어 25만 편 넘게 페이퍼밀 의심작으로 골라냈다.",
+      "mini_headline": "가려낸 가짜 논문 25만",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "사이언스에 실린 새 논문이 AI로 설계한 합성 RNA 유도 뉴클레이스를 보고했다. 활성은 자연 효소에 맞먹거나 그 이상이었다. 제목은 \"Structure and evolution-guided design of minimal RNA-guided nucleases\". 연구진은 이 결과가 비자연 RNA 유도 뉴클레이스와 구조 변화로 작동하는 핵산 결합 단백질을 만드는 전략을 세우고 설계 가능한 단백질 공간을 넓힌다고 썼다." },
-          { "t": "img", "src": "https://www.genengnews.com/wp-content/uploads/2023/06/GettyImages-1396008671.jpg", "cap": "Credit: luismmolina / iStock / Getty Images Plus" },
-          { "t": "p", "x": "참여 기관은 UC 버클리의 Innovative Genomics Institute와 California Institute for Quantitative Bioscience, 그리고 다른 기관의 공동연구자들이다. 자연에 없는 성질까지 갖춘 RNA 유도 뉴클레이스로 CRISPR 도구상자를 넓히는 데 AI가 쓸모 있다는 이야기다. 단백질 설계 쪽에서는 오래 어려웠던 과제였다. 다중 도메인 단백질은 복잡하고, 서로 다른 구조 상태에서 RNA와 DNA를 인식하고 활성화하고 절단하는 과정이 맞물려 돌아가야 활성이 나온다. 작아 보이는 변화 하나가 효소를 망가뜨리기도 한다." },
-          { "t": "p", "x": "서열 기반 생물 언어모델은 서열-기능 관계를 추론해 새 뉴클레이스를 설계해왔지만, 학습에 쓴 참조 서열과 거의 닮은 단백질을 내놓는 일이 잦다. 구조 기반 합리적 설계는 크게 갈라진 서열이나 자연에 없는 구조까지 표본으로 삼아 동적 스위치와 DNA 결합체를 만드는 데 쓰였다. 그래도 기능 도메인과 구조가 여럿인 RNA 유도 뉴클레이스는 난제로 남았다." },
-          { "t": "p", "x": "연구진은 ESM Inverse Folding(ESM-IF1) 모델에 진화 정보로 뽑은 잔기 제약을 결합한 대안을 제시한다. 시험대는 TnpB, RNA 유도 DNA 절단을 매개하고 전사 조절 같은 일을 맡는 CRISPR-cas12 계열 뉴클레이스 집단이다. 프로그래밍 가능한 DNA 표적화와 여러 자연 기능을 최소한의 구조에 묶어둔 덕에 설계 대상으로 매력적이라고 연구진은 설명했다. 서열 기반 모델이 자연 상동체와 99% 넘게 같은 결합 도메인을 내놓은 반면, 이 접근이 만든 DNA·RNA 상호작용 로브는 자연의 가장 가까운 짝과 각각 83%, 72% 동일성에 그쳤다." },
-          { "t": "p", "x": "설계한 단백질에는 SynTnpB라는 이름이 붙었다. 먼저 세균 세포에서 활성을 걸러내고, 가장 활발한 것들을 골라 식물과 사람 세포에서 다시 시험했다. 가장 많이 갈라진 변이체는 극저온 전자현미경으로 구조를 확인했다. AI가 설계한 뉴클레이스 상당수가 여러 세포 유형에서 자연 TnpB의 활성을 유지하거나 앞섰다. 현미경 분석에서는 이 단백질들이 새 정전기·수소결합 네트워크를 만들어 여러 구조 상태에 걸쳐 RNA-DNA 접촉면을 안정시킨다는 점도 드러났다." }
+          { "t": "p", "x": "BERT 기반 기계학습 분류기가 암 관련 논문 260만 편을 훑었다. 그중 25만 편이 넘는 논문에서, 가짜 논문 공장인 이른바 '페이퍼밀'이 찍어낸 글과 닮은 문체 패턴이 잡혔다." },
+          { "t": "img", "src": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp", "cap": "가짜 정보를 상징하는 이미지." },
+          { "t": "p", "x": "결과는 의학 학술지 The BMJ에 실렸다." },
+          { "t": "p", "x": "의심 논문 비율은 2000년대 초 1% 안팎에서 2022년 16% 넘게 치솟았다. 연구 신뢰성에 큰 구멍이 뚫려 있다는 신호다." }
         ]
       }
     },
     {
-      "id": "biosignature-ai",
+      "id": "novotags",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "생명을 찾는 AI는\n150번 만에 속아 넘어갔다",
-      "body": "99.7% 정확도 신경망이 코드 150번 수정에 100% 확신으로 생명을 오판했다.",
-      "mini_headline": "속기 쉬운 생명 탐지",
-      "source": "Universe Today",
-      "url": "https://www.universetoday.com/articles/artificial-intelligence-is-easily-fooled-in-the-search-for-life",
+      "headline": "AI가 설계한 단백질 표지가\n살아있는 세포를 밝힌다",
+      "body": "EMBL 연구진이 AI로 설계한 단백질 표지 NovoTags가 형광 염료와 붙어 세포 속 단백질을 추적한다.",
+      "mini_headline": "세포를 밝히는 표지",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-07-ai-proteins-scientists-cells.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "패턴 인식은 사람 인지의 바닥에 깔린 벽돌이다. 위협에 즉각 반응하게 만들기도 하고, 과학자가 방대한 데이터에서 규칙을 더듬을 때처럼 느리고 집요하게 작동하기도 한다. 문제는 오작동이다. 바위에서 사람 얼굴을 읽어내는 파레이돌리아처럼, 없는 패턴을 보는 일이 흔하다. AI도 사실상 패턴 인식 위에 서 있고, 새 연구는 AI의 패턴 인식 역시 같은 방식으로 무너진다고 말한다. 그것도 하필 생명을 탐지하는 일에서." },
-          { "t": "img", "src": "https://www.universetoday.com/article_images/ooastrobiology.9_20260714_185400.jpg", "cap": "태양계 어딘가에서 생명 혹은 과거 생명의 흔적을 찾는 일이 오늘날 우주 탐사를 끌고 간다. 하지만 믿고 기댈 결정적인 화학 생체지표는 없다. 대신 앞으로의 임무는 정보를 다루고 스스로를 복제하는 분자를 찾는 데 AI를 쓸 예정이다. 새 연구는 그 방법이 위양성투성이라고 말한다. Image Credit: NASA" },
-          { "t": "p", "x": "미시간 주립대의 Ankit Gupta와 Christoph Adami가 쓴 \"Can AI Detect Life? Lessons from Artificial Life\"는 8월 캐나다 워털루에서 열리는 2026 Conference on Artificial Life에서 발표된다. 두 사람은 외계 시료가 지구의 생물·비생물 표본이 만든 분포 바깥에 놓일 가능성이 크고, 그래서 AI로 생명을 탐지하면 위양성이 대거 나오기 쉽다고 적었다. 현대 기계학습 기법이 분포 밖 샘플에 쉽게 속는 성질 탓이다. 개와 고양이만 배운 분류기 앞에 말이 나타나면 어떻게 되는가, 하는 이야기를 분자 수준으로 옮긴 셈이다." },
-          { "t": "p", "x": "보편적인 화학 생체지표가 없으니, 생명의 기본 성질에서 단서를 찾는 흐름이 있다. 그중 하나가 정보를 담는다는 성질이라고 공동저자 Adami는 보도자료에서 말했다. DNA가 사슬 모양으로 정보를 싣고 옮기듯, 연구진은 정보를 다룰 수 있는 분자와 그렇지 못한 분자를 AI가 얼마나 갈라내는지 시험했다." },
-          { "t": "img", "src": "https://www.universetoday.com/article_images/PIA25738-scaled_20260714_185915.jpg", "cap": "퍼서비어런스 로버가 그동안 모은 시료 튜브 일부. 언젠가 지구로 돌아올 예정이다. 미래의 로버가 시료를 모으면서 AI로 생명의 증거를 판정한다면 어떨까. 그 방식은 위양성에 시달릴 테고, 사람 팩트체커가 붙어야 할 가능성이 크다. Image Credit: NASA/JPL-Caltech/MSSS" },
-          { "t": "p", "x": "실험 도구는 디지털 생명 플랫폼 Avida였다. 자기복제하는 컴퓨터 프로그램이 돌연변이를 일으키고 자원을 두고 경쟁하며 진화하는 판이다. 연구진은 수만 개의 디지털 생물을 만들어 복제 명령을 가진 쪽과 아닌 쪽으로 나눴고, 신경망은 이 분포 안에서 99.7% 정확도로 둘을 갈라냈다. 그다음이 문제였다. 복제를 못 한다고 신경망이 쉽게 알아본 개체를 놓고 복제를 막던 코드를 조금씩 갈아 끼웠더니 신경망이 흔들렸다. 150번만 손대도, 복제하지 못하는 개체를 두고 생명을 찾았다고 확신했다. \"모든 실행에서 150번 모델 질의 만에 100% 스푸핑 확신에 도달했다\"고 저자들은 썼다. Gupta는 어떤 명령 서열에서 출발하든 100% 속일 수 있었다고 말했고, 속일 수 있는 서열이 워낙 많아 그런 서열과 마주칠 확률도 상당하다는 게 Adami의 덧붙임이다." }
+          { "t": "p", "x": "EMBL 연구진이 AI로 NovoTags를 설계했다. 형광 염료와 결합하는 작은 인공(de novo) 단백질 표지로, 연구자가 살아 있는 세포 안에서 특정 단백질을 콕 집어 추적하도록 돕는다." },
+          { "t": "img", "src": "https://scx1.b-cdn.net/csz/news/800a/2026/novotags-ai-designed-p.jpg", "cap": "AI로 설계한 단백질 표지 NovoTags의 개념 이미지." },
+          { "t": "p", "x": "여기에 스위치처럼 켜고 끌 수 있는 변이체 NovoSplit도 있다. 분자 스위치로 작동하는 것이다." },
+          { "t": "p", "x": "발광 스펙트럼과 형광 수명을 함께 읽으면 한 번에 최대 30가지 단백질까지 구분할 수 있다." }
         ]
       }
     },
     {
-      "id": "claude-science",
+      "id": "ai-res",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "앤스로픽의 클로드 사이언스가\n켄들 스퀘어로 향한다",
-      "body": "앤스로픽이 바이오파마 연구실 겨냥한 앱 클로드 사이언스를 조용히 공개했다.",
-      "mini_headline": "연구실로 온 클로드",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/07/14/anthropic-claude-science-kendall-square/",
+      "headline": "계산을 1000배 줄여\n극한 폭염을 예측한다",
+      "body": "AI+RES는 물리 모델을 확률 높은 시나리오로만 이끌어 극한 폭염 빈도를 최대 1000배 적은 계산으로 예측한다.",
+      "mini_headline": "1000배 빠른 폭염 예측",
+      "source": "Physics World",
+      "url": "https://physicsworld.com/a/ai-enhanced-rare-event-sampling-helps-predict-extreme-weather/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "앤스로픽의 클로드 사이언스가 켄들 스퀘어를 겨눈다. 매사추세츠 케임브리지와 보스턴의 생명의학 생태계가 걸어둔 것이 아주 많다는 게 기사의 부제다. 보스턴 글로브 로버트 와이스먼이 2026년 7월 14일 STAT에 썼다." },
-          { "t": "img", "src": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2261973888.jpg", "cap": "Michael M. Santiago/Getty Images" },
-          { "t": "p", "x": "공개된 도입부의 논지는 이렇다. 올해 AI는 공론장에서 본격적인 괴물로 떠올랐다. 졸업생들은 1967년 영화 <졸업>의 진로 조언 \"플라스틱\"에 AI를 빗대는 축사 연사에게 야유를 보내고, 회사가 비용 절감과 인력 감축의 칼로 AI를 휘두르면 노동자는 몸을 사린다. 경계심 많은 교황 레오 14세마저 AI를 핵전쟁 수행 체계에 융합하는 일을 경고했다." },
-          { "t": "p", "x": "그런 해에 이달 조용히 공개된 것이 클로드 사이언스다. 앤스로픽의 대규모 언어모델을 바이오파마 연구실에 맞춘 앱으로, AI가 기업 인원 감축과 문명 위협 말고도 할 일이 남아 있다는 사실을 때맞춰 상기시켰다는 것이 필자의 출발점이다." },
-          { "t": "p", "x": "이 기사는 STAT+ 구독자 전용이라 본문은 여기서 잘린다. 이후 내용은 확인하지 못했다." }
+          { "t": "p", "x": "연구진이 AI를 붙인 희귀사건 표집 기법 AI+RES를 내놨다. 극한 폭염이 얼마나 자주 닥칠지를 예측하는데, 기존 기후 모델링보다 계산을 최대 1000배 덜 쓴다." },
+          { "t": "img", "src": "https://physicsworld.com/wp-content/uploads/2026/07/6-07-26-urban-heat-seattle-1187838-istock-dizzo.jpg", "cap": "도시를 덮치는 극한 폭염." },
+          { "t": "p", "x": "비결은 역할 분담이다. AI가 물리 기반 모델을 확률 높은 시나리오로만 이끌어, 딥러닝의 효율과 물리의 신뢰성을 한자리에 묶었다." }
         ]
       }
     },
     {
-      "id": "feedback-brain",
+      "id": "lab-animal-ai",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "뇌는 우리 생각보다\n일찍 결정을 시작한다",
-      "body": "일리노이대 연구진이 1차 체성감각피질에서도 피드백을 타고 온 결정 활동을 찾아냈다.",
-      "mini_headline": "결정은 감각에서 시작한다",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "headline": "AI가 생쥐의 이상을\n3~5일 먼저 알아챈다",
+      "body": "럿거스 연구진의 AI가 생쥐의 활동량을 계속 지켜보며 겉으로 드러나기 3~5일 전에 건강 이상을 잡아낸다.",
+      "mini_headline": "먼저 읽는 이상 신호",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-07-lab-animals-ai.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "일리노이대 어배너-섐페인 연구진이 뇌와 AI를 보는 시각을 함께 흔들 증거를 내놨다. 결정은 기존 이론이 말하는 것보다 훨씬 이른 단계에서 시작되고, 여기서 더 유능하면서 에너지는 훨씬 덜 먹는 AI 설계의 실마리가 나온다는 이야기다." },
-          { "t": "img", "src": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp", "cap": "뇌가 예상보다 이른 시점에 결정을 시작한다는 사실을 과학자들이 찾아냈다. AI의 미래를 다시 그릴 수 있는 발견이다. Credit: AI/ScienceDaily.com" },
-          { "t": "p", "x": "그레인저 공대의 전기컴퓨터공학 교수 Yurii Vlasov가 이끈 연구는 Proceedings of the National Academy of Science(PNAS)에 실렸다. 감각 초기 영역이 결정에 예상 밖의 몫을 한다는 결과로, 정보가 뇌 영역의 엄격한 위계를 다 통과한 뒤에야 결정이 나온다는 오랜 통념에 반한다." },
-          { "t": "p", "x": "합성곱 신경망을 비롯한 다수의 AI 체계는 뇌가 정보를 한 방향으로 흘려보낸다는 그림에서 출발했다. 감각 정보가 점점 복잡한 영역을 거쳐 위로 올라가 전두피질에 닿으면 거기서 결정이 난다는 모형이다. Vlasov를 비롯한 연구자들은 이 그림이 전부인지 점점 의심해왔다. 대신 수억 년 진화가 다듬은 자연 지능 쪽 모형을 살핀다. 여기서 뇌는 단계별 전달에만 기대지 않는다. 영역 사이를 양방향으로 오가는 피드백 회로도 결정에 관여한다. 생물 지능이 오늘날 AI보다 훨씬 적은 에너지로 복잡한 일을 해내니, 이 구조를 이해하면 앞으로의 AI 개발에 길잡이가 될 만하다." },
-          { "t": "p", "x": "\"10억 년의 진화에서 배우고 싶습니다.\" Vlasov가 말했다. \"그 생물학적 지능은 구조적으로 어떻게 짜여 있을까요? 뇌의 구조를 배우고 흉내 내서 AI를 지금보다 더 효과적이고 덜 전기 먹고 더 똑똑하게 만들 수 있을까요? 결정을 내리는 수준, 바로 거기가 지금 AI에 부족한 지점입니다.\"" },
-          { "t": "p", "x": "연구팀은 가상현실 복도를 지나며 지각 판단을 내리는 생쥐의 신경 활동을 기록했다. 뇌의 가장 이른 감각 처리 영역 중 하나인 1차 체성감각피질(S1)에서 결정과 관련된 활동이 잡혔다. S1은 정보를 앞으로 넘기기만 하지 않고 상위 영역의 피드백 회로에 영향을 받는 듯 보였다. 결정이 한 방향 흐름이 아니라 여러 영역 사이의 계속되는 대화 속에서 이뤄진다는 뜻이다." },
-          { "t": "p", "x": "연구진은 이 연구가 더 나은 AI의 설계도는 아니라고 못 박는다. 뇌가 결정을 어떻게 조직하는지에 새 시야를 줄 뿐이고, 언젠가 AI 구조에 영감이 될 여지가 있다는 정도다. 다음 단계로 Vlasov 팀은 신경 신호의 타이밍을 더 파고들고, 피드백 회로가 어떻게 생겨나 여러 처리 층위를 조율하는지 보려고 신경 활동 측정 기술을 새로 개발할 계획이다." }
+          { "t": "p", "x": "럿거스대가 이끈 연구진이 생쥐의 운동 활동량을 쉼 없이 지켜보는 AI 시스템을 만들었다. 기계학습이 그 데이터에서 건강 이상을 짚어내는데, 겉으로 뚜렷한 임상 징후가 나타나기 3~5일 전에 문제를 알아챘다." },
+          { "t": "img", "src": "https://scx1.b-cdn.net/csz/news/800a/2026/assessing-lab-animals.jpg", "cap": "실험동물의 건강 상태를 AI로 평가한다." },
+          { "t": "p", "x": "결과는 학술지 Lab Animal에 실렸다. 연구진은 이 도구로 실험동물의 복지를 높이고, 동물 실험의 신뢰성도 끌어올릴 수 있다고 본다." }
         ]
       }
     }

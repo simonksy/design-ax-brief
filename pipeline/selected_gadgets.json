@@ -1,103 +1,91 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "Google",
+      "tool": "Samsung",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/exclusive-inside-googles-plan-to-win-over-your-face-with-ai-glasses-and-avoid-metas-privacy-missteps",
-      "source": "Tom's Guide",
-      "published_iso": "2026-07-16T15:25:15Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/sXHN6dZcCoRwNcjRKb2pGm-2000-80.jpg",
-      "excerpt": "An exclusive look inside Google's plan for the AI glasses it and Samsung will ship this fall - the designs, the privacy backlash it wants to avoid, and how it intends to fight Meta and Apple for a place on your face.",
-      "rationale": "Exclusive, same-day look inside the fall Google/Samsung AI glasses: it frames the privacy design problem rather than reporting a spec, which is the decision designers actually face."
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-07-10T10:20:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg",
+      "excerpt": "Samsung is readying its Gaia AI accelerator NPU for client PCs, with HP and Lenovo reportedly validating the chip for future on-device generative-AI laptops.",
+      "rationale": "A concrete on-device NPU with named OEM validation - signals the next wave of local-AI laptops designers will build for."
     },
     {
       "rank": 2,
-      "tool": "1X",
+      "tool": "SK hynix",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
-      "source": "TechRadar",
-      "published_iso": "2026-07-16T20:30:02Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/DXVLUwA6f3dvwjjfFPUetY-1920-80.jpg",
-      "excerpt": "1X's Neo Beta home robot shows off new hands that can assemble LEGO, unzip a jacket and open a snack bag - the most human-like manipulation yet from a consumer humanoid.",
-      "rationale": "A concrete, demonstrable manipulation leap on a consumer humanoid - fresh, and a different device class from the glasses/phone bulk of the pool."
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-07-10T16:58:53Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7mqMxYN2TCm5aj9QooiDgH-1920-80.jpg",
+      "excerpt": "SK hynix and TetraMem are building a memristor-based in-memory-compute SoC aimed at slashing power draw for on-device edge-AI inference in lightweight models on future gadgets.",
+      "rationale": "Novel in-memory-compute silicon aimed squarely at low-power edge-AI inference - a distinct hardware angle from the NPU race."
     },
     {
       "rank": 3,
-      "tool": "Signal",
-      "category": "gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "url": "https://www.techradar.com/health-fitness/no-sleep-score-no-steps-this-signal-smart-ring-from-an-ex-google-head-is-focused-on-cracking-cuffless-calibration-less-blood-pressure-readings",
-      "source": "TechRadar",
-      "published_iso": "2026-07-16T19:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/brJjeQ9ZaTQXUWgXhYbkhk-2560-80.jpg",
-      "excerpt": "The Signal Ring, from an ex-Google health lead, drops sleep scores and step counts entirely to chase one thing: cuffless, calibration-free blood pressure sensing that Apple and Samsung haven't cracked.",
-      "rationale": "A wearable that subtracts features to solve one hard sensing problem - a sharp product-scoping lesson, and more novel than the Oura Ring 5 iteration review in the same pool."
-    },
-    {
-      "rank": 4,
-      "tool": "nubia",
+      "tool": "Dreame",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.gsmarena.com/nubia_navix_ultra_unveiled_their_take_onn_aiagent_phone-news-73744.php",
-      "source": "GSMArena",
-      "published_iso": "2026-07-16T12:00:02Z",
-      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/-952x498w6/gsmarena_00.jpg",
-      "excerpt": "nubia unveils the NaviX Ultra, its take on the 'AI agentic phone' - the concept Chinese phone makers are racing to define, with an on-device agent driving the whole UI.",
-      "rationale": "An agent-driven phone UI shipping as a real product - the clearest look yet at what the 'agentic phone' interface actually becomes once it leaves the concept deck."
+      "url": "https://www.androidauthority.com/dreame-x60-max-ultra-review-3684554/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-11T11:15:36+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Dreame-X60-Max-Ultra-tile.jpg",
+      "excerpt": "Dreame's flagship robot vacuum uses dual AI cameras and proactive illumination to detect 280 types of obstacles, showing how far on-device AI vision has come in home robots.",
+      "rationale": "Hands-on data point on how far on-device AI vision has come in home robots; a distinct product from the earlier Roborock review."
+    },
+    {
+      "rank": 4,
+      "tool": "Smart Glasses",
+      "category": "gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/ive-traveled-over-50-000-miles-testing-smart-glasses-in-2026-here-are-my-3-favorites-that-have-launched-this-year-so-far",
+      "source": "Tom's Guide",
+      "published_iso": "2026-07-07T09:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/G3Xc3jkMkkFvQMKqYnBi4k-1992-80.jpg",
+      "excerpt": "After a year of hands-on testing, Tom's Guide picks its three favorite AI smart glasses launched in 2026 so far, spanning display and audio-first AI eyewear designs.",
+      "rationale": "Grounded field comparison of shipping AI eyewear - useful orientation on the display-vs-audio-first split for anyone eyeing smart glasses."
     },
     {
       "rank": 5,
-      "tool": "PrismML",
+      "tool": "Apple",
       "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://9to5mac.com/2026/07/14/prismml-releases-bonsai-27b-claiming-first-major-ai-model-of-its-size-fit-for-iphone/",
+      "url": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
       "source": "9to5Mac",
-      "published_iso": "2026-07-14T18:02:52Z",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/cosmic-orange-17-pro.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "PrismML released Bonsai 27B, claiming it's the first model of that size that actually runs on an iPhone - a push to move frontier-class on-device AI onto phone silicon.",
-      "rationale": "A 27B model claimed to run on an iPhone redraws the ceiling for on-device AI - the constraint that decides which features can stay local and private."
+      "published_iso": "2026-07-06T19:27:07+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Apple has added a new privacy popup for Apple Intelligence features that offload processing to Google Cloud, a signal of its Gemini-assisted Siri overhaul coming to iPhones.",
+      "rationale": "A concrete UI change exposing which Apple Intelligence tasks leave the device for Google's cloud - a real privacy signal for the Gemini-Siri shift, distinct from the earlier Siri hands-on."
     }
   ],
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-16 + days 2026-07-10, 07-11, 07-14, 07-15).",
+    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-18 + days 2026-07-13 through 07-17).",
     "dropped_as_published_dup": [
       {
-        "url": "https://www.tomshardware.com/peripherals/keyboards/openais-first-hardware-device-is-an-rgb-macropod-codex-micro-features-13-low-profile-keys-and-a-joystick-for-controlling-ai-coding-agents",
-        "reason": "Content dup of published card 'codex-macropad' (Gizmodo, 2026-07-11) - same OpenAI x Work Louder macropad release, previously covered at teaser stage. Consistent with the prior run's call on the same product."
+        "url": "https://www.digitaltrends.com/wearables/this-smart-ring-makes-a-blood-pressure-promise-apple-and-oura-still-wont/",
+        "reason": "Content dup of published card 'signal-ring' (TechRadar, 2026-07-17) - same blood-pressure-only smart ring that Apple/Oura 'won't' commit to; different outlet, same product/event."
       },
       {
-        "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
-        "reason": "Content dup of published card 'codex-macropad' (2026-07-11), and a within-pool dup of the Tom's Hardware Codex Micro item."
+        "url": "https://www.androidauthority.com/samsung-galaxy-unpacked-july-2026-what-to-expect-3688548/",
+        "reason": "Same July 22 Samsung Unpacked / foldables story already covered across 'galaxy-z8' render leak (07-15) and today's Galaxy Watch/Buds cards - a preview of the same event."
       },
       {
-        "url": "https://www.uploadvr.com/meta-still-internally-debating-privacy-of-always-on-ai-glasses/",
-        "reason": "Content dup of published card 'meta-super-sensing' (Android Authority, 2026-07-10) - same FT report on Meta's internal debate over the always-on glasses privacy LED."
-      },
-      {
-        "url": "https://9to5mac.com/2026/07/13/watchos-27-public-beta/",
-        "reason": "Content dup of published card 'watchos27-siri' (9to5Mac, 2026-07-10) - same watchOS 27 Siri AI release, dev beta vs public beta beat."
-      },
-      {
-        "url": "https://9to5mac.com/2026/07/13/ios-27-public-beta/",
-        "reason": "Content dup of published card 'siri-gemini' (Gizmodo, 2026-07-16, still in today) - same iOS 27 rebuilt Siri story."
+        "url": "https://9to5google.com/2026/07/07/samsung-galaxy-z-fold-8-launch-event-date-confirmed/",
+        "reason": "Same Samsung July 22 Unpacked event; date-confirmation beat of the already-covered foldables story. Within-pool dup of the Android Authority Unpacked preview."
       }
     ],
-    "collapsed_stories": [
-      "Google AI glasses privacy: kept Tom's Guide exclusive, dropped Android Central 'anti-tampering protections in Android XR' - same Google briefing, published 1 minute apart by sibling Future outlets.",
-      "XREAL budget glasses: Road to VR 'xbx a01+ $300' and 9to5Google 'a01 comparison' are the same launch; collapsed to one, and neither made the final 5 on diversity grounds."
-    ],
-    "backfill": "5 distinct, never-before-published stories selected after dropping 5 published dups and collapsing 2 within-pool story clusters. Pool of 23 was deep enough to backfill fully; nothing padded.",
-    "diversity": "4 distinct outlets (Tom's Guide, TechRadar x2, GSMArena, 9to5Mac) - max 2 per outlet. Single-category section, so device classes were spread instead: smart glasses / humanoid robot / health wearable / smartphone / on-device model. Deliberately kept only ONE glasses story despite 7 glasses-or-XR-display candidates in the pool; distinct accents assigned within the shared gadgets category."
+    "backfill": "5 distinct, never-before-published stories selected after dropping 3 published/within-pool dups. Pool had 8 fresh candidates; backfilled fully to 5 without padding.",
+    "diversity": "4 distinct outlets (Tom's Hardware x2, Android Authority, Tom's Guide, 9to5Mac) - max 2 per outlet. Single-category section, so device/topic classes were spread instead: PC NPU silicon / edge-AI memristor SoC / AI-vision home robot / smart glasses / on-device-vs-cloud AI. Distinct accents assigned within the shared gadgets category. AI x hardware hooks led the ranking per brief."
   }
 }
