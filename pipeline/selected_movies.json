@@ -1,104 +1,58 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "movies",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
-      "source": "fxguide",
-      "tool": "Foundry SmartRoto",
+      "url": "https://nofilmschool.com/martini-ai-film-set",
+      "source": "No Film School",
+      "tool": "Movies",
+      "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "headline": "Foundry's SmartRoto: AI-assisted roto that aims to work the way you do",
-      "rationale": "Highest actionability in the pool: it automates the single most labour-heavy manual task in the VFX pipeline (rotoscoping) inside Nuke while leaving the spline under artist control — a compositor's Monday changes because of this.",
-      "published_iso": "2026-07-16T16:59:49Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
-      "excerpt": "Foundry released SmartRoto, an AI-powered Nuke plugin that accelerates rotoscoping by automating keyframe animation while preserving artist control and precision at image edges. It targets the single most labour-heavy manual task in the VFX pipeline without taking the spline away from the artist."
+      "headline": "Meet Martini: A Film Set for AI Video That Aims to Help Filmmakers Streamline Their Shots",
+      "rationale": "Highest actionability in the fresh pool: a new, shipping web platform that replaces prompt roulette with a shared 2D/3D pre-production 'film set' for AI video, with a free indie tier that lowers the barrier for small crews tomorrow.",
+      "published_iso": "2026-07-17T12:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+      "excerpt": "Martini is a collaborative, web-based platform pitched as a 'film set' for AI video: filmmakers upload their own sets and reference images or generate them, then compose shots in 2D or 3D environments to escape prompt roulette and give crews a shared pre-production hub. Out now with a free indie tier and paid plans from $15/month."
     },
     {
-      "url": "https://www.provideocoalition.com/great-ways-to-use-auto-mask-in-final-cut-pro/",
-      "source": "ProVideo Coalition",
-      "tool": "Final Cut Pro",
-      "accent": "#f5a623",
+      "url": "https://www.youtube.com/watch?v=GsZmUTLW4wA",
+      "source": "Curious Refuge",
+      "tool": "Social",
+      "category": "social",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "headline": "Great ways to use Auto Mask in Final Cut Pro",
-      "rationale": "Practical, hands-on ML masking inside an NLE — per-frame recognition of people, body parts and pets with no tracking, replacing manual roto for selective grading and VFX right in the timeline.",
-      "published_iso": "2026-07-16T13:50:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/auto-mask-ui-1.jpg",
-      "excerpt": "Auto Mask in Final Cut Pro 12.3 recognizes people, body parts, scene elements and even pets on every frame with no tracking required, opening up fast selective color correction and VFX work. A practical look at ML-driven masking replacing manual roto inside an NLE."
-    },
-    {
-      "url": "https://www.awn.com/news/foundry-launches-griptape-enterprise-secure-ai-accelerated-vfx-workflows",
-      "source": "Animation World Network",
-      "tool": "Griptape Enterprise",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "headline": "Foundry Launches Griptape Enterprise for Secure AI-Accelerated VFX Workflows",
-      "rationale": "The governance half of the AI-in-VFX story: studio-controlled licensing plus on-prem/private-cloud options decide which AI models artists may actually use and whether IP stays in the facility.",
-      "published_iso": "2026-07-16T16:25:40Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/small_featured/public/image/featured/09_mixed_permissions_limited_api_model_use_-_focusing_on_all_local_-1280.jpg?itok=618XQ3qh",
-      "excerpt": "New tier adds studio-controlled licensing, project management and governance tools for high-end media production, giving pipeline supervisors control over which AI models artists use. Studios can run workflows on-premises or in private cloud to keep sensitive IP, prompts and training data inside the facility."
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/07/this-is-a-black-and-white-issue-jorge-r-gutierrez-says-death-threats-drove-decision-to-axe-his-genai-animated-project-at-amazon/",
-      "source": "Animation Magazine",
-      "tool": "GenAI Animation",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "headline": "'This Is a Black-and-White Issue': Jorge R. Gutierrez Says Death Threats Drove Decision to Axe His GenAI Animated Project at Amazon",
-      "rationale": "The sharpest read this cycle on the social ceiling for genAI-native animation — a named director walking away from a major studio initiative marks the real limit of the creative community's tolerance.",
-      "published_iso": "2026-07-15T18:21:00Z",
-      "og_image": "",
-      "excerpt": "Director Jorge R. Gutierrez explains why he walked away from Amazon MGM's generative-AI animation initiative, describing the backlash and threats that followed the announcement. A stark read on how far the creative community's tolerance for genAI-native animation production actually extends."
-    },
-    {
-      "url": "https://postperspective.com/llatest-dalet-flex-lts-boosts-ai-workflows-deepens-dalia-integration/",
-      "source": "postPerspective",
-      "tool": "Dalet Flex",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "headline": "Latest Dalet Flex LTS Boosts AI Workflows, Deepens Dalia Integration",
-      "rationale": "Covers the AI shift further up the media supply chain — intelligent automation from acquisition through delivery, the layer most artist-facing tool coverage skips.",
-      "published_iso": "2026-07-16T19:07:29Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Image-3-Dalet-Flex-Dark-624x416.jpg",
-      "excerpt": "Dalet's latest Long-Term Supported release of Dalet Flex introduces intelligent automation across the media production lifecycle, expanding AI-powered capabilities through deeper Dalia integration to streamline workflows from content acquisition through delivery."
+      "headline": "NEW AI Film Tools: The Biggest Updates for Artists",
+      "rationale": "Credible practitioner roundup from a listed movies-section channel, surfacing the week's newest AI motion-control workflows and tool updates; lead with the video block. Adds an outlet and format distinct from the No Film School pick.",
+      "published_iso": "2026-07-17T21:42:20Z",
+      "og_image": "https://i.ytimg.com/vi/GsZmUTLW4wA/maxresdefault.jpg",
+      "excerpt": "Curious Refuge rounds up the week's biggest AI filmmaking releases for artists, with a focus on new AI motion-control workflows and tool updates that change how creators direct and refine AI-generated shots."
     }
   ],
   "dedup_report": {
-    "candidates_evaluated": 10,
-    "kept": 5,
-    "dropped": 5,
+    "candidates_evaluated": 4,
+    "kept": 2,
+    "dropped": 2,
+    "floor": 3,
+    "shortfall": true,
+    "shortfall_reason": "Only 2 of 4 candidates are genuinely fresh, never-before-seen stories. The other 2 are already-published stories (earliest-wins duplicates); re-using either to hit the floor of 3 would violate the never-reappear rule. Not padded.",
     "dropped_as_duplicates": [
       {
-        "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
-        "reason": "Content duplicate (earliest-wins). Beeble SwitchHDR SDR->HDR reconstruction was already published in sections.movies as card `switchhdr` on 2026-07-08 (No Film School). This exact fxguide URL was already dropped as a duplicate by the 2026-07-16 curator run and has resurfaced in the pool. The 07-08 card has aged off the visible 5-day window, but earliest-wins is absolute -> DROP."
-      },
-      {
-        "url": "https://www.redsharknews.com/beeble-switchhdr-sdr-to-hdr-reconstruction",
-        "reason": "Content duplicate of the same Beeble SwitchHDR release published 2026-07-08 (card `switchhdr`). Different outlet/URL, same event -> DROP."
-      },
-      {
         "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
-        "reason": "Exact URL of the already-published card `switchhdr` (movies, 2026-07-08). Hard URL duplicate -> DROP. Its presence in today's pool independently corroborates the 07-08 publication recorded by the prior run."
+        "reason": "Earliest-wins duplicate. This exact No Film School URL was already published in sections.movies (Beeble SwitchHDR, 2026-07-08 per orchestrator drop list and documented by prior curator runs). The 07-08 card has aged off the visible 5-day window, which is why the upstream filter re-surfaced it, but earliest-wins is absolute -> DROP."
       },
       {
-        "url": "https://postperspective.com/foundry-adds-griptape-enterprise-for-pro-grade-ai-in-vfx/",
-        "reason": "Within-pool duplicate: same Foundry Griptape Enterprise launch as the Animation World Network item. Kept the AWN article (more detail on model permissions, on-prem/private-cloud IP handling) as the single strongest source -> DROP."
-      },
-      {
-        "url": "https://www.awn.com/news/nfb-brings-gaussian-splatting-animation-session-siggraph",
-        "reason": "Not a strict duplicate, but deprioritized on double topical overlap with two recently published movies cards: `clearangle` (fxguide, Gaussian splats in VFX, 2026-07-16) and `nvidia-neural` (AWN SIGGRAPH 2026 session preview, 2026-07-14). As an event notice it also scores low on actionability. Ranked 6th; not needed to reach 5."
+        "url": "https://www.screendaily.com/news/tilly-norwood-creator-developing-feature-film-misaligned-starring-the-ai-actor/5218374.article",
+        "reason": "Content duplicate. Same event (Particle 6 developing the Tilly Norwood feature 'Misaligned') already published in sections.movies as card `tilly-norwood-misaligned` on 2026-07-15 (Engadget, engadget.com/2208729/...). Different outlet/URL, same story -> DROP."
       }
     ],
-    "vigloo_check": {
-      "flagged_by": "librarian",
-      "result": "no collision in the surviving pool",
-      "detail": "Card `vigloo` (postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/) was published in sections.movies today-block dated 2026-07-16. No candidate in candidates_filtered_movies.json references Vigloo or Vigloo Studio by URL or content — the upstream URL pre-filter (13 -> 10) already removed it. Verified, nothing further to drop."
-    },
-    "diversity": "Single-category section (movies), so the per-category cap is moot. Outlet spread = 5 distinct outlets (fxguide, ProVideo Coalition, Animation World Network, Animation Magazine, postPerspective), 1 card each -> comfortably passes the <=2-per-outlet / >=3-distinct-outlets guard. Distinct palette accents assigned (#0070f3, #f5a623, #7928ca, #2ec5c5, #eb367f). No URL collisions among the final 5.",
-    "shortfall": false,
-    "floor": 3,
-    "note": "Target of 5 met. Pool of 10 -> 5 dropped (3 SwitchHDR duplicates of the 2026-07-08 card, 1 within-pool Griptape duplicate, 1 deprioritized NFB SIGGRAPH item) -> 5 distinct, never-before-seen stories selected via backfill. Not padded.",
-    "baseline": "news_data.json -> sections.movies: today 2026-07-16 (vigloo, ted-deepvoodoo, clearangle, topaz-video) + days 2026-07-15 (odysseus-fall, ssff-asia-pitch, tilly-norwood-misaligned), 2026-07-14 (nvidia-neural, meyer-top5), 2026-07-13 (blender-overgrown, meta-muse, serpent-trailer), 2026-07-11 (premiere-genmedia, runway-dev, aiarty-4k), 2026-07-10 (seedance25, topaz-adobe, premiere-color); plus earliest-wins carry-over of card `switchhdr` (2026-07-08) recorded by the prior run. Candidates pre-URL-deduped upstream (13 -> 10)."
+    "verified_not_duplicate": [
+      "Martini (nofilmschool.com/martini-ai-film-set) — not present anywhere in sections.movies history.",
+      "Curious Refuge (youtube GsZmUTLW4wA) — not present in sections.movies history; distinct from prior YouTube movie cards (meta-muse, serpent-trailer, meyer-top5).",
+      "Orchestrator-flagged 'possibly fresh' items are in fact already published and would have been dropped if present in the pool: fxguide Foundry SmartRoto (sections.movies card `smartroto`, 2026-07-17) and the AWN NVIDIA neural-rendering/world-models SIGGRAPH keynote (card `nvidia-neural`, 2026-07-14). Neither was in this candidate pool."
+    ],
+    "diversity": "Single-category section (movies). Final 2 span 2 distinct outlets (No Film School, YouTube/Curious Refuge), 1 card each, 2 distinct categories (Movies + Social) with distinct palette accents (#0070f3, #ff2d55). No URL collisions. The <=2-per-outlet guard is met; the >=3-distinct-outlets aim is limited only by the small fresh pool.",
+    "baseline": "news_data.json -> sections.movies: today 2026-07-18 + days 2026-07-17 (incl. smartroto, automask), 2026-07-16, 2026-07-15 (odysseus-fall, ssff-asia-pitch, tilly-norwood-misaligned), 2026-07-14 (nvidia-neural, meyer-top5), 2026-07-13 (blender-overgrown, meta-muse, serpent-trailer); plus earliest-wins carry-over of Beeble SwitchHDR (2026-07-08)."
   }
 }

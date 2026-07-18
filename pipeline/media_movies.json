@@ -1,11 +1,8 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "movies",
   "media": [
-    { "id": "smartroto", "type": "image", "src": "pipeline/media/smartroto.jpg" },
-    { "id": "automask", "type": "video", "src": "pipeline/media/automask.mp4", "poster": "pipeline/media/automask.jpg" },
-    { "id": "griptape", "type": "image", "src": "pipeline/media/griptape.jpg" },
-    { "id": "gutierrez", "type": "image", "src": "pipeline/media/gutierrez.jpg" },
-    { "id": "daletflex", "type": "image", "src": "pipeline/media/daletflex.jpg" }
+    { "id": "martini", "type": "image", "src": "pipeline/media/martini.jpg" },
+    { "id": "curious-refuge-ai-tools", "type": "video", "src": "pipeline/media/curious-refuge-ai-tools.mp4", "poster": "pipeline/media/curious-refuge-ai-tools.jpg" }
   ]
 }

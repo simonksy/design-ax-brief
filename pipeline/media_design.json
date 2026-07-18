@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "design",
   "media": [
-    { "id": "figma-make-pr", "type": "image", "src": "pipeline/media/figma-make-pr.png" },
-    { "id": "houdini22", "type": "video", "src": "pipeline/media/houdini22.mp4", "poster": "pipeline/media/houdini22.jpg" },
-    { "id": "tokens2026", "type": "image", "src": "pipeline/media/tokens2026.png" },
-    { "id": "codex-micro", "type": "video", "src": "pipeline/media/codex-micro.mp4", "poster": "pipeline/media/codex-micro.jpg" },
-    { "id": "said-framework", "type": "image", "src": "pipeline/media/said-framework.png" }
+    { "id": "zephyr9", "type": "image", "src": "pipeline/media/zephyr9.jpg" },
+    { "id": "hallmark", "type": "image", "src": "pipeline/media/hallmark.png" },
+    { "id": "dscontract", "type": "image", "src": "pipeline/media/dscontract.png" },
+    { "id": "lightcraft", "type": "video", "src": "pipeline/media/lightcraft.mp4", "poster": "pipeline/media/lightcraft.jpg" },
+    { "id": "aibluff", "type": "image", "src": "pipeline/media/aibluff.jpg" }
   ]
 }

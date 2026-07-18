@@ -1,115 +1,64 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "cards": [
     {
-      "id": "peelstems2",
+      "id": "devocean",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "실시간 스템 분리 지연이\n483ms에서 245ms로",
-      "body": "44.1kHz 기준 처리 지연이 483ms에서 245ms로 줄었고 분리 음질도 함께 나아졌다.",
-      "mini_headline": "지연 절반 줄인 스템 분리",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/peel-stems-2-zplane",
+      "headline": "AI 에이전트가 곁에서 함께 패치하는\n145종 모듈러 신스 데브오션",
+      "body": "AI 에이전트 마야는 결과를 한 번에 뽑지 않고 사용자와 나란히 145종 모듈러 신스를 함께 패치한다.",
+      "mini_headline": "AI가 함께 짜는 모듈러 신스",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg" },
-          { "t": "p", "x": "zplane이 실시간 스템 분리 플러그인 Peel Stems의 2버전을 내놨다. 속도와 음질, 사용성을 두루 손봤다." },
-          { "t": "p", "x": "44.1kHz에서 처리 지연이 483ms에서 245ms로 49% 내려갔다. 아티팩트가 줄어 스템이 더 깨끗하게 갈리고, 아이솔레이션 슬라이더는 효과 폭과 조절 범위가 넓어졌다. Focus EQ의 Focus Frame에는 상·하단 컷오프 주파수가 뜬다. Intel 맥도 계속 지원한다(지연 385ms)." },
-          { "t": "p", "x": "공동창업자 겸 CTO Tim Flohrer는 DAW 안에서 도는 실시간 스템 분리를 한 걸음 더 밀어붙이려 했다고 말한다." },
-          { "t": "p", "x": "AU·VST3·AAX를 지원하는 DAW에서 곧바로 돌아가고, 처리는 로컬에서 끝나 저작물을 서버에 올릴 일이 없다. 구독 없는 1회 구매로 €59, 기존 사용자는 €19에 업그레이드한다. Windows 10 이상, macOS 13 이상." }
+          { "t": "img", "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/DevOcean-Modular-Screenshot.png" },
+          { "t": "p", "x": "Ocean Swift가 소프트웨어 신시사이저이자 사운드 디자인 환경인 DevOcean Modular를 내놨다. 모듈 145종을 담은 큰 규모의 모듈러 랙이다." },
+          { "t": "p", "x": "가장 눈에 띄는 건 모듈러 AI 에이전트 MaYa다. 결과 하나를 자동으로 뽑아 던져주는 방식이 아니라, 사용자 곁에서 함께 모듈러 셋업을 짜고 케이블을 물려가며 패치를 완성해 나간다." },
+          { "t": "p", "x": "덕분에 사운드 디자이너는 방대한 모듈을 혼자 헤매는 대신, 만들고 싶은 소리를 두고 에이전트와 주고받으며 패치를 다듬을 수 있다. 협업하듯 패치를 쌓아가는 흐름이 이 도구의 핵심이다." }
         ]
       }
     },
     {
-      "id": "suno-leak",
+      "id": "suno-61k",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "해킹 데이터가 드러낸\nSuno의 음원 수집 규모",
-      "body": "해킹 데이터를 보면 Suno는 YouTube Music에서만 음악 클립 2,013,545개를 학습에 끌어다 썼다.",
-      "mini_headline": "Suno 학습 데이터 유출",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/suno-scraped-millions-of-songs-from-youtube-deezer-and-stock-music-libraries-according-to-hacked-data",
-      "accent": "#0070f3",
+      "headline": "6만 1천 곡 음원을 둘러싼 다툼이\nAI 음악 라이선스의 미래를 가른다",
+      "body": "UMG·소니의 음원 6만 1천 곡 추가에 수노가 맞서면서, 이 공정 이용 판단이 AI 음악 라이선스의 선례가 된다.",
+      "mini_headline": "AI 음악 라이선스 선례",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/why-a-fight-over-61000-recordings-could-shape-the-future-of-ai-music-licensing/",
+      "accent": "#3b6bff",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/LDxLT52xLaMhdvEGpwdLwM.jpg" },
-          { "t": "p", "x": "404 Media가 입수한 해킹 데이터에 따르면 Suno는 YouTube Music, Deezer, Genius, 여러 스톡 음악 라이브러리에서 수백만 곡의 음악과 가사, 팟캐스트를 긁어모은 정황이 있다. Ellie.191이라는 가명의 해커가 2023년과 2024년 소스 코드를 해킹해 얻은 자료다." },
-          { "t": "p", "x": "한 파일에는 YouTube Music에서만 최소 음악 클립 2,013,545개를 가져갔다고 적혀 있다. 다른 파일의 데이터셋 목록을 보면 YouTube Music 113,879시간, 스톡 라이브러리 Pond5 62,117시간, Deezer 12,287시간, Genius 17,615시간 분량이다. 보컬 모델은 YouTube의 아카펠라 버전으로 학습시켰고, PodcastIndex를 거쳐 팟캐스트 약 100만 시간을 내려받으려 한 흔적도 남았다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/bNuzMzALrFrK9PmFZNDTdk.png", "cap": "(Image credit: Suno/Web)" },
-          { "t": "p", "x": "2023년 출시된 Suno는 유료 구독자 200만 명을 넘겼고 기업가치 54억 달러에 4억 달러 넘는 투자를 받았다. 2024년 RIAA가 대리한 메이저 레이블들이 건 저작권 소송이 아직 진행 중이다. Suno는 학습 목적의 복제가 공정이용이라는 입장이고, CEO Mikey Shulman은 “learning is not infringing”이라고 썼다." },
-          { "t": "p", "x": "2025년 11월 Warner Music이 3대 메이저 중 처음으로 라이선스 계약을 맺고 소송을 접었다. 올 2월에는 아티스트 단체가 Say No To Suno 캠페인을 열고 공개서한을 냈다." }
+          { "t": "p", "x": "Suno가 UMG와 Sony의 요구에 맞섰다. 두 레이블은 진행 중인 저작권 소송에 음원 6만 1천 곡을 새로 더하려 했고, Suno는 이 시도를 막아 달라고 반박했다." },
+          { "t": "p", "x": "쟁점은 공정 이용(fair use)이다. 학습을 위한 복제가 어디까지 허용되는지에 대한 이번 판단이, AI 음악 도구를 합법적으로 학습시키고 라이선스하는 방식을 정하는 선례가 될 수 있다." },
+          { "t": "p", "x": "그래서 이 다툼은 두 회사 사이의 일로 그치지 않는다. 어떤 음원을, 어떤 조건으로 AI 학습에 쓸 수 있는지를 가르는 기준선이 여기서 그어질 참이다." }
         ]
       }
     },
     {
-      "id": "aiode",
+      "id": "josh-fawaz",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "BandLab이 인수한 Aiode,\n학습 음원 전부 라이선스",
-      "body": "BandLab Technologies가 학습 오디오 100%를 라이선스한 AI 음악 스튜디오 Aiode를 인수했다.",
-      "mini_headline": "BandLab, Aiode 인수",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/",
+      "headline": "논란 끝에 AI 크레딧을 붙인\n조시 파와즈의 'Like a Prayer'",
+      "body": "생성형 AI 사용이 조사로 드러나자, 조시 파와즈가 3800만 스트리밍 커버곡에 AI 보컬·드럼 크레딧을 더했다.",
+      "mini_headline": "AI 크레딧 붙인 커버곡",
+      "source": "Rolling Stone",
+      "url": "https://au.rollingstone.com/music/music-news/josh-fawaz-adds-ai-credits-like-a-prayer-spotify-98573/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg", "cap": "Credit: BandLab Technologies/Aiode" },
-          { "t": "p", "x": "BandLab, Cakewalk, ReverbNation, Airbit를 만든 BandLab Technologies가 Aiode를 인수했다. 전문 세션 연주자와 프로듀서의 연주를 전량 라이선스한 오디오로 곡을 만드는 AI 스튜디오다. BandLab, Cakewalk에 이은 세 번째 제작 플랫폼이 됐다." },
-          { "t": "p", "x": "빈 프로젝트에서 시작하거나 자기 오디오를 불러온 뒤 연주자와 스타일 모델을 골라 트랙 위에 연주시킨다. 구간별로 연주를 지시하고, 특정 파트만 다른 테이크로 다시 뽑아도 나머지 곡은 그대로다. 완성본은 스템이나 믹스로 내려받는다." },
-          { "t": "p", "x": "Aiode 모델을 학습시킨 오디오는 연주자의 연주를 포함해 100% 라이선스를 받았고 출처까지 되짚을 수 있다. 인수 뒤에도 별도 제품으로 남고 기존 사용자 서비스도 끊기지 않는다." },
-          { "t": "p", "x": "2022년 창업한 Idan Dobrecki와 Blue Dobrecky가 각각 CEO와 COO로 계속 이끈다. 네이티브 오디오 레코딩과 DAW 기능 확장은 다음 버전 몫이다." }
-        ]
-      }
-    },
-    {
-      "id": "lumen",
-      "tool": "Music",
-      "eyebrow": "AI NEWS",
-      "headline": "이미지를 소리로 바꾸는\n무료 오픈소스 신스 Lumen",
-      "body": "Pixelsncodes가 Claude 코딩 에이전트로 만든 Lumen은 이미지를 웨이브테이블로 읽어낸다.",
-      "mini_headline": "이미지로 소리 만드는 Lumen",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "img", "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen.jpg" },
-          { "t": "p", "x": "개발자 Pixelsncodes가 Lumen을 공개했다. 이미지를 소리로 바꾸는 무료 오픈소스 웨이브테이블 신스로, 윈도우 전용이다. Claude AI 코딩 에이전트로 만들었다." },
-          { "t": "p", "x": "웨이브테이블 오실레이터 두 개에 Morph, Pan, Unison, Detune, Width, Blend를 따로 물렸다. 멀티웨이브 서브 오실레이터와 멀티모드 노이즈, 드라이브 달린 스테이트 배리어블 필터로 질감을 더한다. ADSR 엔벨로프 세 개, 드래그 앤 드롭 LFO 세 개, Drive·Chorus·Delay·Reverb를 묶은 멀티 FX도 들어간다." },
-          { "t": "p", "x": "가장 낯선 건 이미지의 바이트를 읽어 웨이브테이블로 만드는 엔진이다. 아무 이미지나 끌어다 놓으면 된다. 새로운 발상은 아니어서, Serum이나 Ableton의 Image2Wavetable Max for Live 디바이스도 픽셀 밝기를 소리로 옮긴다." },
-          { "t": "p", "x": "화면은 Play와 Deep 둘. Deep에서 모든 파라미터를 만지고, Play에는 이미지 엔진과 Tone·Motion·Space·Texture 매크로 넷만 남는다. 프리셋 32개가 Bass, Leads, Pads, Keys, Textures로 나뉘어 함께 온다. 지금은 GitHub에서 윈도우용 VST3와 스탠드얼론으로 받고, macOS 버전은 개발 중이다." }
-        ]
-      }
-    },
-    {
-      "id": "spotify-chat",
-      "tool": "Music",
-      "eyebrow": "AI NEWS",
-      "headline": "Spotify에 말을 거는\n대화형 음악 어시스턴트",
-      "body": "Spotify가 Premium 이용자용 대화형 AI를 미국·아일랜드·스웨덴의 iOS와 Android에 먼저 연다.",
-      "mini_headline": "Spotify 대화형 AI 베타",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "video", "src": "https://cdn.jwplayer.com/videos/wmO3PYGZ-lF2gWf1A.mp4" },
-          { "t": "p", "x": "Spotify Premium 사용자가 이제 앱과 대화를 주고받으며 무엇을 들을지 고른다. 미국, 아일랜드, 스웨덴에서 iOS와 Android에 먼저 열리고, 만 18세 이상 영어로만 쓴다. 베타라 매번 매끄럽진 않겠지만 피드백으로 다듬겠다는 설명이다." },
-          { "t": "p", "x": "밑에서 도는 기술은 자세히 밝히지 않았다. Spotify는 TechCrunch에 자사 모델과 여러 공급사 모델을 섞어 쓰며 작업에 맞는 쪽을 고른다고 확인해줬다." },
-          { "t": "img", "src": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png", "cap": "You can now talk to Spotify" },
-          { "t": "p", "x": "대화 범위가 기존 AI DJ 밖으로 넓어져, 모바일 홈과 재생 화면에서 타이핑이나 목소리로 말을 건다. 곡의 영감이나 앨범 발매일을 묻고, 지금 듣는 음악을 근거로 다른 아티스트를 추천받는다. 어떤 곡을 처음 재생한 게 언제인지 같은 자기 기록도 물을 수 있다." },
-          { "t": "p", "x": "“처음 들어보는 아티스트를 틀어줘”라고 한 뒤 특정 아티스트를 이름으로 넣거나 최근 곡으로 좁히는 식으로 이어간다. 곡 저장, 큐 추가, 아티스트 팔로우도 이 안에서 시킨다. 해당 지역 모바일에 순차 배포 중이다." }
+          { "t": "p", "x": "호주 DJ 조시 파와즈가 마돈나 'Like a Prayer' 커버에 AI 크레딧을 새로 달았다. 스트리밍 3800만 회를 넘긴 곡이다." },
+          { "t": "p", "x": "발단은 ABC의 취재였다. 조사 과정에서 이 곡에 생성형 AI가 폭넓게 쓰였다는 사실이 드러났고, 뒤이어 거센 비판이 쏟아졌다." },
+          { "t": "p", "x": "논란이 커지자 파와즈는 Spotify에 올린 곡에 AI 보컬과 AI 드럼 크레딧을 덧붙였다. AI로 만든 히트곡을 어떻게 표기할지, 그 관행을 정면으로 비추는 사례다." }
         ]
       }
     }

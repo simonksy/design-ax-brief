@@ -1,183 +1,50 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "movies",
-  "note": "Parallel override run -> written to keywords_movies.json (not keywords.json). NO ROTATION this run: working set = ALL 3 core + ALL 23 pool keywords = 26 working keywords, each expanded; sibling keywords grouped into shared queries so every pool keyword is represented by >=1 query while total stays capped. Recency window = news_data.json movies section: 'today' is now 2026-07-16 (4 cards: vigloo = Vigloo Studio AI-native short-form microdrama production platform; ted-deepvoodoo = 'Ted' S2 Deep Voodoo AI face replacement of Seth MacFarlane as period Bill Clinton; clearangle = Clear Angle LiDAR + gaussian-splat actor/environment scanning for VFX; topaz-video = Topaz Video AI upscaling/restoration review, now subscription post-Adobe). Prior movies days: 2026-07-15 (Odysseus: The Fall Kling-made AI feature vs Nolan's Odyssey; SSFF Asia generative-AI-disclosed pitch contest; Tilly Norwood synthetic actor in 'Misaligned') and 2026-07-10 (Seedance 2.5; Adobe acquires Topaz Labs; AI 'Princess and the Serpent' trailer; Premiere zone color mode). Pool keywords matching those are flagged covered_recently and get only a single new-angle query so upstream diversity fills other cards. Carried forward from the 07-16 plan: Penske trades (variety/hollywoodreporter/indiewire/deadline) tollbit-paywall at HTTP 402, so queries lean on non-Penske allowed_domains via site: filters; Penske kept only as last-resort fallback.",
+  "now_iso": "2026-07-18T23:00:29Z",
+  "note": "Parallel override run -> written to keywords_movies.json (not keywords.json). Unattended run: NO ROTATION -> working set = ALL 3 core + ALL 23 pool keywords = 26 working keywords, each expanded; sibling keywords grouped into shared queries so every pool keyword is represented by >=1 query while total stays capped. covered_recently flags reflect the movies section of news_data.json: recent 'today' 2026-07-16 (vigloo AI-native microdrama platform; ted-deepvoodoo Deep Voodoo AI face replacement; clearangle LiDAR+gaussian-splat scanning; topaz-video upscaling/restoration) and prior days 2026-07-15 (Odysseus:The Fall Kling feature; SSFF Asia generative-AI pitch; Tilly Norwood synthetic actor) and 2026-07-10 (Seedance 2.5; Adobe acquires Topaz; AI trailer; Premiere color). Recently-covered pool keywords get a fresh new-angle query so upstream diversity fills other cards. Penske trades (variety/hollywoodreporter/indiewire/deadline) tollbit-paywalled at HTTP 402 -> queries lean on non-Penske allowed_domains via site: filters; Penske kept last-resort only.",
   "user_seeds": [],
   "rotation": {
-    "day_of_month": 17,
+    "day_of_month": 19,
     "pool_size": 23,
     "mode": "none — full-pool override for this unattended run",
     "slice_taken": 23,
     "covered_recently_deprioritized": [
-      "AI de-aging",
-      "neural rendering film",
-      "AI film restoration",
       "generative video film",
+      "AI de-aging",
+      "AI film restoration",
+      "neural rendering film",
       "Kling film",
-      "deepfake film",
-      "AI short film",
-      "Hollywood AI",
-      "AI trailer",
-      "text-to-video film"
+      "deepfake film"
     ]
   },
   "working_keywords": [
-    {
-      "keyword": "AI film",
-      "type": "core",
-      "covered_recently": false,
-      "expansions": ["AI film 2026", "AI-generated movie", "AI feature film", "생성형 AI 영화"]
-    },
-    {
-      "keyword": "AI 영화",
-      "type": "core",
-      "covered_recently": false,
-      "expansions": ["AI 영화 제작", "AI 영상 제작 워크플로우", "AI VFX 스튜디오", "AI 영화 산업 뉴스"]
-    },
-    {
-      "keyword": "AI filmmaking",
-      "type": "core",
-      "covered_recently": false,
-      "expansions": ["AI filmmaking workflow", "AI on set", "filmmaker AI tools", "AI post-production pipeline"]
-    },
-    {
-      "keyword": "generative video film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["generative video production", "gen AI video studio", "AI-native production platform", "AI microdrama"]
-    },
-    {
-      "keyword": "AI VFX",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["AI visual effects pipeline", "VFX studio machine learning", "AI compositing", "ILM Wētā AI"]
-    },
-    {
-      "keyword": "Runway film",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["Runway Gen-4", "Runway Aleph", "Runway studio partnership", "Runway filmmakers"]
-    },
-    {
-      "keyword": "Sora film",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["Sora 2", "OpenAI Sora filmmaking", "Sora shutdown alternative", "Sora studio deal"]
-    },
-    {
-      "keyword": "virtual production AI",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["LED volume AI", "Unreal virtual production", "real-time on-set AI", "ICVFX"]
-    },
-    {
-      "keyword": "AI de-aging",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["digital youthification", "AI face replacement actor", "digital double", "Metaphysic"]
-    },
-    {
-      "keyword": "AI storyboard previs",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["AI previsualization", "AI storyboard generator", "LTX Studio previs", "AI concept art film"]
-    },
-    {
-      "keyword": "AI screenwriting",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["AI script development", "writers guild AI rules", "AI story development studio", "AI 시나리오 도구"]
-    },
-    {
-      "keyword": "deepfake film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["synthetic performer", "digital replica consent", "SAG-AFTRA AI likeness", "AI actor"]
-    },
-    {
-      "keyword": "AI color grading",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["DaVinci Resolve AI", "AI colorist tools", "AI color match", "AI 컬러 그레이딩"]
-    },
-    {
-      "keyword": "AI rotoscoping",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["AI roto masking", "After Effects roto AI", "AI matte extraction", "Premiere AI masking"]
-    },
-    {
-      "keyword": "AI dubbing lip sync",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["AI localization film", "visual dubbing", "Flawless TrueSync", "ElevenLabs dubbing"]
-    },
-    {
-      "keyword": "AI short film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["AI film festival", "AI short film competition", "AI filmmaker showcase"]
-    },
-    {
-      "keyword": "text-to-video film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["text-to-video model", "Veo 3 film", "prompt-to-film", "AI video model release"]
-    },
-    {
-      "keyword": "AI motion capture",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["markerless mocap", "AI performance capture", "Move AI", "video-to-animation"]
-    },
-    {
-      "keyword": "neural rendering film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["gaussian splatting production", "NeRF virtual production", "neural radiance film set", "volumetric capture"]
-    },
-    {
-      "keyword": "AI trailer",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["AI movie marketing", "AI teaser edit", "studio AI promo"]
-    },
-    {
-      "keyword": "AI film restoration",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["AI remaster archive", "AI upscaling classic film", "SDR to HDR AI", "film archive machine learning"]
-    },
-    {
-      "keyword": "Kling film",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["Kling 2.5", "Kuaishou Kling", "Kling AI filmmakers"]
-    },
-    {
-      "keyword": "Luma film",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["Luma Ray3", "Dream Machine", "Modify Video", "Luma AI production"]
-    },
-    {
-      "keyword": "AI animation film",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["AI animated feature", "animation studio AI pipeline", "AI 2D inbetweening", "Toonstar"]
-    },
-    {
-      "keyword": "AI scene generation",
-      "type": "pool",
-      "covered_recently": false,
-      "expansions": ["AI world model video", "AI set extension", "AI environment generation film"]
-    },
-    {
-      "keyword": "Hollywood AI",
-      "type": "pool",
-      "covered_recently": true,
-      "expansions": ["studio AI strategy", "AI production company", "Hollywood AI union deal", "AI copyright film"]
-    }
+    { "keyword": "AI film", "type": "core", "covered_recently": false, "expansions": ["AI film 2026", "AI-generated movie", "AI feature film", "생성형 AI 영화"] },
+    { "keyword": "AI 영화", "type": "core", "covered_recently": false, "expansions": ["AI 영화 제작", "AI 영상 제작 워크플로우", "AI VFX 스튜디오", "AI 영화 산업 뉴스"] },
+    { "keyword": "AI filmmaking", "type": "core", "covered_recently": false, "expansions": ["AI filmmaking workflow", "AI on set", "filmmaker AI tools", "AI post-production pipeline"] },
+    { "keyword": "generative video film", "type": "pool", "covered_recently": true, "expansions": ["generative video production", "gen AI video studio", "AI-native production platform", "AI microdrama"] },
+    { "keyword": "AI VFX", "type": "pool", "covered_recently": false, "expansions": ["AI visual effects pipeline", "VFX studio machine learning", "AI compositing", "ILM Wētā AI"] },
+    { "keyword": "Runway film", "type": "pool", "covered_recently": false, "expansions": ["Runway Gen-4", "Runway Aleph", "Runway studio partnership", "Runway filmmakers"] },
+    { "keyword": "Sora film", "type": "pool", "covered_recently": false, "expansions": ["Sora 2", "OpenAI Sora filmmaking", "Sora studio deal", "Sora cinematic"] },
+    { "keyword": "virtual production AI", "type": "pool", "covered_recently": false, "expansions": ["LED volume AI", "Unreal virtual production", "real-time on-set AI", "ICVFX"] },
+    { "keyword": "AI de-aging", "type": "pool", "covered_recently": true, "expansions": ["digital youthification", "AI face replacement actor", "digital double", "Metaphysic"] },
+    { "keyword": "AI storyboard previs", "type": "pool", "covered_recently": false, "expansions": ["AI previsualization", "AI storyboard generator", "LTX Studio previs", "AI concept art film"] },
+    { "keyword": "AI screenwriting", "type": "pool", "covered_recently": false, "expansions": ["AI script development", "writers guild AI rules", "AI story development studio", "AI 시나리오 도구"] },
+    { "keyword": "deepfake film", "type": "pool", "covered_recently": true, "expansions": ["synthetic performer", "digital replica consent", "SAG-AFTRA AI likeness", "AI actor"] },
+    { "keyword": "AI color grading", "type": "pool", "covered_recently": false, "expansions": ["DaVinci Resolve AI", "AI colorist tools", "AI color match", "AI 컬러 그레이딩"] },
+    { "keyword": "AI rotoscoping", "type": "pool", "covered_recently": false, "expansions": ["AI roto masking", "After Effects roto AI", "AI matte extraction", "Premiere AI masking"] },
+    { "keyword": "AI dubbing lip sync", "type": "pool", "covered_recently": false, "expansions": ["AI localization film", "visual dubbing", "Flawless TrueSync", "ElevenLabs dubbing"] },
+    { "keyword": "AI short film", "type": "pool", "covered_recently": false, "expansions": ["AI film festival", "AI short film competition", "AI filmmaker showcase"] },
+    { "keyword": "text-to-video film", "type": "pool", "covered_recently": false, "expansions": ["text-to-video model", "Veo 3 film", "prompt-to-film", "AI video model release"] },
+    { "keyword": "AI motion capture", "type": "pool", "covered_recently": false, "expansions": ["markerless mocap", "AI performance capture", "Move AI", "video-to-animation"] },
+    { "keyword": "neural rendering film", "type": "pool", "covered_recently": true, "expansions": ["gaussian splatting production", "NeRF virtual production", "neural radiance film set", "volumetric capture"] },
+    { "keyword": "AI trailer", "type": "pool", "covered_recently": false, "expansions": ["AI movie marketing", "AI teaser edit", "studio AI promo"] },
+    { "keyword": "AI film restoration", "type": "pool", "covered_recently": true, "expansions": ["AI remaster archive", "AI upscaling classic film", "SDR to HDR AI", "film archive machine learning"] },
+    { "keyword": "Kling film", "type": "pool", "covered_recently": true, "expansions": ["Kling 2.5", "Kuaishou Kling", "Kling AI filmmakers"] },
+    { "keyword": "Luma film", "type": "pool", "covered_recently": false, "expansions": ["Luma Ray3", "Dream Machine", "Modify Video", "Luma AI production"] },
+    { "keyword": "AI animation film", "type": "pool", "covered_recently": false, "expansions": ["AI animated feature", "animation studio AI pipeline", "AI 2D inbetweening", "Toonstar"] },
+    { "keyword": "AI scene generation", "type": "pool", "covered_recently": false, "expansions": ["AI world model video", "AI set extension", "AI environment generation film"] },
+    { "keyword": "Hollywood AI", "type": "pool", "covered_recently": false, "expansions": ["studio AI strategy", "AI production company", "Hollywood AI union deal", "AI copyright film"] }
   ],
   "plan": [
     {
@@ -221,7 +88,7 @@
         "site:fxguide.com AI VFX OR virtual production 2026",
         "Runway Gen-4 Aleph filmmaker AI video 2026",
         "Sora 2 OpenAI filmmaker studio deal 2026",
-        "Kling 2.5 Luma Ray3 Modify Video AI film model 2026",
+        "Kling Luma Ray3 Modify Video AI film model 2026",
         "AI virtual production LED volume real-time on set 2026",
         "AI storyboard previs previsualization LTX Studio 2026",
         "site:provideocoalition.com AI previs OR editing workflow 2026",
@@ -254,11 +121,11 @@
         "youtube.com",
         "youtu.be"
       ],
-      "rotation_note": "Movies youtube_channels = Runway, Corridor Crew, Curious Refuge, Matt Wolfe, fxguide. 07-16 emphasized Corridor Crew / Curious Refuge / fxguide. Rotate today (day 17) to Runway, Matt Wolfe, Corridor Crew. No instagram_handles defined for the movies category, so IG is skipped.",
+      "rotation_note": "Movies youtube_channels = Runway, Corridor Crew, Curious Refuge, Matt Wolfe, fxguide. 07-17 emphasized Runway/Matt Wolfe/Corridor Crew. Rotate today (day 19) to Curious Refuge, fxguide, Runway. No instagram_handles defined for the movies category, so IG is skipped.",
       "queries": [
-        "site:youtube.com Runway AI filmmaking film 2026",
-        "site:youtube.com \"Matt Wolfe\" AI video filmmaking tool 2026",
-        "site:youtube.com \"Corridor Crew\" AI VFX 2026"
+        "site:youtube.com \"Curious Refuge\" AI film filmmaking 2026",
+        "site:youtube.com fxguide AI VFX virtual production 2026",
+        "site:youtube.com Runway AI filmmaking film 2026"
       ]
     }
   ],

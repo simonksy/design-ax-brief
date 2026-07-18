@@ -1,62 +1,22 @@
 {
-  "date": "2026-07-17",
-  "section": "books",
-  "now_iso": "2026-07-16T23:10:00Z",
+  "date": "2026-07-19",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
-      "source": "The Bookseller",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-6th-2026/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Audiobook publisher Bolinda built an AI voice clone of the late romance author Barbara Cartland, using archival interviews, research and human direction to narrate her backlist. Bolinda staff walk through how consent, estate approval and human oversight were handled.",
-      "note": "On-list (thebookseller.com). Byline date 9 July 2026; freshness.py books -> FRESH. Strong craft/production hook: estate voice licensing + AI narration workflow. Distinct from the 07-16 '17.4% AI narration' stat roundup and the 07-15 AI-audiobook survey — this is a specific production/voice-licensing deal. TBS item 1 of 2."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-10T00:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "Take a Break's Fiction Feast told its regular freelance short-story writers that 'AI tools will be used' on stories produced in-house going forward, raising questions about paid markets for human short fiction.",
-      "note": "On-list (thebookseller.com). article:published_time 10 July 2026; freshness.py books -> FRESH. Direct craft-of-writing hook: a commissioning market swapping freelance human fiction for AI-assisted in-house copy. TBS item 2 of 2."
-    },
-    {
-      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
-      "excerpt": "A sleuth found that Claude output pasted into Archive of Our Own carried identifying markers, revealing that many fanfics tagged as human-written were in fact LLM-generated — despite strong community opposition to AI.",
-      "note": "On-list (janefriedman.com). Post date 2026-07-15; freshness.py books -> FRESH. Craft/disclosure hook: AI-detection-by-artifact and how writing communities police AI labeling. Fresh sub-angle not covered in the last 2 days."
-    },
-    {
-      "url": "https://lithub.com/can-chatgpt-produce-a-version-of-proust-worth-reading/",
-      "source": "Literary Hub",
-      "category": "books",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/06/proust-chatgpt.png",
-      "excerpt": "Bryan Charles tests ChatGPT against working Proust translators, tracing how AI is quietly encroaching on literary translation — and how skilled translators are actually deploying (and resisting) it.",
-      "note": "On-list (lithub.com). Author-archive + page date 7 July 2026; freshness.py books -> FRESH. Requeried at the craft angle per plan's 'AI literary translation' deprioritization — this is translator-craft, not the 07-16 CONTEC panel or 07-15 Kindle Translate story."
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-07-10T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Three AI startups — Spain's Alighieria (Publisher OS), Germany's Lit-X and New Zealand's Narrative Muse — are pitching publishers on data tools spanning acquisition, trend-spotting and recommendation, promising data-informed decisions without replacing editorial judgment.",
-      "note": "On-list (publishersweekly.com). Dateline 10 July 2026; freshness.py books -> FRESH. Workflow hook: AI entering acquisition/marketing decisions. Adjacent to but distinct from the 07-14 Rakuten discovery and 07-11 pub-data items (different vendors, editorial-acquisition angle). PW item 1 of 2."
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+      "excerpt": "U.S. AI companies are reportedly buying large quantities of second-hand and out-of-print books in German-speaking countries to train large language models, with the volumes scanned and then destroyed afterward."
     },
     {
       "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100773-international-publishers-convene-in-malaysia-for-ipa-congress-2026.html",
       "source": "Publishers Weekly",
       "category": "books",
       "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": null,
-      "excerpt": "AI dominated the 35th IPA Congress in Kuala Lumpur, with IPA president Gvantsa Jobava framing publishers' catalogues as 'the best source of training data for AI' and keynoter Thad McIlroy saying the trade has moved past the 'golly-gee-whiz phase' into practical implementation.",
-      "note": "On-list (publishersweekly.com). Dateline 6 July 2026; freshness.py books -> FRESH. Industry-craft hook (training-data leverage + adoption posture), not pure business noise. PW item 2 of 2."
+      "og_image": "",
+      "excerpt": "AI dominated the 35th International Publishers Association Congress in Kuala Lumpur, as leaders moved past the 'golly-gee-whiz phase' to concrete strategy debates over how publishers should respond to AI."
     },
     {
       "url": "https://publishingperspectives.com/2026/07/at-closing-gala-ipa-announces-2026-innovation-award-winners/",
@@ -64,63 +24,39 @@
       "category": "books",
       "published_iso": "2026-07-08T00:00:00Z",
       "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6452-793x595.jpeg",
-      "excerpt": "The IPA gave its 2026 Innovation in Publishing Award to two AI companies — Shimmr (AI book marketing) and Ailaysa (multilingual AI for publishers, maker of the Chai Reader discovery platform) — at the Kuala Lumpur congress closing gala.",
-      "note": "On-list (publishingperspectives.com). Published 8 July 2026; freshness.py books -> FRESH. Tool/vendor hook: which AI publishing tools the industry is formally endorsing. PP item 1 of 3."
+      "excerpt": "The IPA gave its 2026 Innovation in Publishing Award to two AI firms: Shimmr, whose 'Advertising as a Service' platform automates book marketing, and Ailaysa, a multilingual AI company behind the Chai Reader discovery platform."
     },
     {
-      "url": "https://publishingperspectives.com/2026/07/there-is-no-single-model-for-innovation-new-technologies-new-challenge/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
+      "source": "Publishers Weekly",
       "category": "books",
       "published_iso": "2026-07-10T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6299-793x595.jpeg",
-      "excerpt": "An IPA Congress panel on Asian markets examined AI's reshaping of publishing workflows, including the problem of AI-generated books being submitted for legal-deposit compensation in Korea.",
-      "note": "On-list (publishingperspectives.com). Published 10 July 2026; freshness.py books -> FRESH. Includes a Korea-specific AI-flood/legal-deposit angle (matches the plan's 'AI 출판' Korean expansion). PP item 2 of 3."
+      "og_image": "",
+      "excerpt": "Three AI data-analytics startups are pitching publishers on tools that target different parts of the acquisition and marketing pipeline, promising to inform instinct-driven decisions without replacing editorial judgment."
     },
     {
-      "url": "https://publishingperspectives.com/2026/07/35th-international-publishers-association-congress-highlights-collaboration-courage-and-ai/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Ann-Patchett-Dayton-LPP-1.png",
-      "excerpt": "The 35th IPA Congress opened in Kuala Lumpur with AI, copyright protection and publishers' role against misinformation as the through-lines of the program.",
-      "note": "On-list (publishingperspectives.com). Published 7 July 2026; freshness.py books -> FRESH. Overlaps the PW IPA item — curator should pick at most one IPA-congress story. PP item 3 of 3 (per-source cap reached)."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/02/iStock-2226074210-1024x683.jpg",
-      "excerpt": "A global effort via WCRI/COPE/STM is building a shared 'Vancouver Standard' taxonomy for disclosing AI use in research writing, after a 2026 survey found about a third of researchers have never disclosed their AI use when publishing.",
-      "note": "On-list (scholarlykitchen.sspnet.org). Published 2026-07-13; freshness.py books -> FRESH. Changes how books/papers get written and disclosed — an authorship-labeling standard, on-topic per override #5. SK item 1 of 2."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://goodereader.com/blog/digital-publishing/publishers-file-massive-lawsuit-against-google-gemini-training",
+      "source": "Good e-Reader",
       "category": "books",
       "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/Figure-1.jpg",
-      "excerpt": "Open science must move past access to interpretability, the authors argue: 'Access without interpretability leaves a knowledge system that is formally open but functionally opaque' once AI mediates how readers reach text.",
-      "note": "On-list (scholarlykitchen.sspnet.org). article:published_time 2026-07-14; freshness.py books -> FRESH. Reading/comprehension-layer hook for publishers. Weaker news value than the disclosure-standard piece — backup. SK item 2 of 2."
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/14014241/Gemini_Hero-1.webp",
+      "excerpt": "Major publishers including Hachette, Cengage, and Elsevier, plus author Scott Turow, filed suit accusing Google of willful copyright infringement for using copyrighted books to train its Gemini AI models."
     },
     {
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/15/334627/australian-publishers-association-encouraged-by-government-signals-as-albanese-to-announce-office-of-ai/",
-      "source": "Books+Publishing",
-      "category": "books",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/creators-protest-ai-in-parliament-400x267.jpg",
-      "excerpt": "The Australian Publishers Association said it is 'encouraged' by government signals on copyright as PM Anthony Albanese prepares to announce an Office of AI within his department, amid pressure from AI firms to loosen text-and-data-mining rules.",
-      "note": "booksandpublishing.com.au is listed in keywords_books.json's allowed_domains but not in sources.json's books list. Kept per the off-list exception: books-sector copyright/licensing story (on-topic per override #5) and no on-list source carried the Australian angle fresh. Published 2026-07-15; freshness.py books -> FRESH. Adds outlet + regional diversity."
-    },
-    {
-      "url": "https://bookriot.com/today-in-books-july-5-2026/",
+      "url": "https://bookriot.com/new-lawsuit-against-google-for-using-digital-books-to-train-ai/",
       "source": "Book Riot",
       "category": "books",
-      "published_iso": "2026-07-05T00:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
-      "excerpt": "Book Riot's final Today in Books newsletter rounds up the week's publishing news, led by the writer accused of AI use who won the Commonwealth Short Story Prize.",
-      "note": "On-list (bookriot.com). Post date 2026-07-05; freshness.py books -> FRESH. WEAKEST of the pool: a roundup newsletter, and its AI lead (Commonwealth prize) is a May–June story resurfacing. Included only to widen the funnel/outlet spread — curator should prefer single-topic items."
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/Untitled-design65.jpg.optimal.jpg",
+      "excerpt": "Three publishers and author Scott Turow brought what Book Riot calls the most straightforward case yet against a tech company's use of books to train AI, focused on how Google sourced its training books rather than training legality overall."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A survey commissioned by AI audiobook company Spoken found listeners rated multi-voice AI narration highly against human narrators for character-driven fiction, even as overall willingness to try AI-narrated titles fell from 70% to 61% year over year."
     }
-  ],
-  "collection_note": "13 fresh candidates across 8 outlets (window 336h = 2026-07-02T23:10Z .. 2026-07-16T23:10Z). Per-source caps respected: Publishing Perspectives 3 (cap), Publishers Weekly 2, The Bookseller 2, Scholarly Kitchen 2, Jane Friedman 1, Literary Hub 1, Books+Publishing 1, Book Riot 1. EXPANDED aggressively per override #4 beyond keywords_books.json: added sibling/vendor terms (Bolinda, Barbara Cartland voice clone, Take a Break Fiction Feast, ElevenLabs, Audible, Alighieria/Lit-X/Narrative Muse, BookID/Get Lost, Shimmr, Ailaysa, OverDrive Libby, Kobo Writing Life, Archive of Our Own fanfiction, 'We Are Better Than This' illustrator campaign, ASA/APA contract AI clauses, Albanese Office of AI, Media Transformation Summit) plus Korean sweeps (AI 출판, 인공지능 웹소설, 전자책, AI 도서 요약) and two extra domains (booksandpublishing.com.au, authorsguild.org). DROPPED by the deterministic gate or rules: Books+Publishing 'Funder/Griffiths urge government to hold the line on copyright' (2026-07-02, gate returned STALE at ~346h — just outside the window, not eyeballed); Good e-Reader Kobo AI self-publishing (2025-06-01), OverDrive Libby 'Inspire Me' (2025-08-29), 'Do customers want AI on their e-readers' (2026-06-05), Book Riot AI-publishing-news newsletter (2026-05-20/21), LitHub 'Everyone is an AI Cop Now' (2026-05-22) and 'The Future Will be Translated' (2025-04-16) — all STALE. DROPPED as already-covered duplicates: the US-publishers-v-Google/Gemini suit (carried by publishingperspectives, goodereader 07-14, techcrunch 07-14, thebookseller — section published 'google-gemini-suit' on 07-15) and the Debbonaire AI interview (thebookseller 07-10, published 07-14). Kindlepreneur/Reedsy/Creative Penn surfaced only evergreen 'updated' listicles with no verifiable news published_time, and The Creative Penn's three July posts (07-06/07-13/07-15) are not AI-related — so no candidates from them. YouTube: the Sudowrite/Creative Penn channel queries returned only third-party comparison videos with no verifiable fresh AI-news hook; none added. Genuinely thin section: the July 5-9 IPA Congress is the dominant fresh cluster (4 items across PW+PP), so the curator should take at most one IPA story and lean on the Bolinda voice clone, Fiction Feast, fanfiction-AI-detection, Proust translation and AI-disclosure-standard items for topical spread."
+  ]
 }

@@ -1,129 +1,108 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "design",
   "cards": [
     {
-      "id": "figma-make-pr",
+      "id": "zephyr9",
       "eyebrow": "AI NEWS",
-      "headline": "티켓 없이 디자이너가\nPR까지 올린다",
-      "mini_headline": "디자이너가 여는 PR",
-      "body": "Figma Make에 프로덕션 코드를 연결한 디자이너가 접근성 수정을 직접 고치고 PR까지 올린다.",
-      "tool": "Figma",
-      "source": "Figma",
-      "url": "https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "p", "x": "Figma의 Workflow Lab 코너가 이번엔 핸드오프 자체를 뒤집는 흐름을 보여준다. 등장 제품은 Figma Design과 Figma Make, 도구는 Figma 에이전트와 GitHub 연동, 주석. 팀은 디자이너와 엔지니어, PM 셋이다. 질문은 하나다. 사이트를 더 포용적으로 만드는 그 작은 수정들이 굳이 백로그에서 순서를 기다려야 할까." },
-          { "t": "img", "src": "https://cdn.sanity.io/images/599r6htc/regionalized/109e9f7c7d82c472f812ee14861b883dd4b1665a-3840x2160.png", "cap": "Figma 캔버스에 열린 MOSF 사이트. 모호한 내비게이션 레이블, 대비가 낮은 날짜 선택기, 눈에 잘 안 띄는 CTA가 표시돼 있다." },
-          { "t": "p", "x": "예시는 가상의 박물관 MOSF다. 구조를 전면 재작성하면서 접근성도 손봐야 하는데 인력이 빠듯하다. PM이 낸 절충안은 이렇다. 무거운 일은 엔지니어가 쥐고, 손이 덜 가는 완성도 수준의 수정은 디자이너가 Make에서 프로덕션 코드로 끝까지 맡는다." },
-          { "t": "p", "x": "디자이너는 먼저 Figma 에이전트로 합성 페르소나를 만든다. 처음 방문한 사람, 재방문 회원, 스크린 리더 사용자가 각각 사이트를 돌아다니며 남긴 지적은 구체적이고 대체로 잘다. 헷갈리는 레이블, 놓치기 쉬운 CTA, 한눈에 안 들어오는 날짜 선택기, 결과 없는 검색이 막히는 빈 화면." },
-          { "t": "p", "x": "GitHub 저장소를 Make에 붙이자 캔버스가 못 보여주던 사실이 드러난다. 날짜 선택기는 일회성이 아니라 이벤트 캘린더와 멤버십 가입 흐름에서도 쓰는 공용 컴포넌트였다. 티켓이었다면 전시 페이지 한 곳만 고치고 나머지 둘은 옛 버전으로 남았을 일이다. 코드 안에 있으니 의존 관계가 지금 보이고, 고칠 자리에서 한 번에 고친다." },
-          { "t": "p", "x": "리뷰에서 접근성 목표가 구체화된다. 공용 날짜 선택기가 읽어줄 aria-label, 화면 문구와 맞아떨어지는 스크린 리더 레이블, CTA를 건너뛰지 않는 포커스 순서, 결과 없는 검색이 침묵으로 끝나지 않게 하는 빈 상태 메시지까지 팀이 그 자리에서 주석으로 남긴다." },
-          { "t": "img", "src": "https://cdn.sanity.io/images/599r6htc/regionalized/628c4e0be22c0b09849c1f76966f85e7136641a3-3840x2160.png", "cap": "병합된 풀 리퀘스트에는 리뷰 코멘트와 접근성 주석을 포함한 전체 이력이 그대로 남는다." },
-          { "t": "p", "x": "디자이너가 Make에서 곧바로 PR을 올리고 엔지니어가 리뷰해 병합한다. 분기 내내 백로그에 있었을 수정이 하루 만에 나갔다. 티켓은 닫히면 그 안의 결정도 함께 사라지지만, 병합된 변경은 코멘트와 주석, 날짜 선택기를 공용으로 둔 이유까지 남긴다. 디자이너에게 엔지니어가 되라는 얘기가 아니라, 판단이 가장 필요한 자리에 각자 서라는 얘기다." }
-        ]
-      }
-    },
-    {
-      "id": "houdini22",
-      "eyebrow": "AI NEWS",
-      "headline": "Houdini 22가 가우시안\n스플랫 툴셋을 들였다",
-      "mini_headline": "스플랫, DCC로 들어오다",
-      "body": "Houdini 22는 참조 사진으로 스플랫을 학습하는 3D 가우시안 스플래팅 툴셋을 통째로 갖췄다.",
+      "headline": "3DF Zephyr 9.0,\n가우시안 스플랫을 품다",
+      "body": "3DF Zephyr 9.0은 이미지나 영상에서 포인트 클라우드와 메시에 더해 3D 가우시안 스플랫까지 만들어낸다.",
+      "mini_headline": "스플랫, 촬영에서 3D로",
       "tool": "KeyShot",
       "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/07/sidefx-just-released-houdini-22/",
+      "url": "https://www.cgchannel.com/2026/07/3dflow-releases-3df-zephyr-9-0-with-3d-gaussian-splatting/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "video", "yt": "Arzhko0h8xk" },
-          { "t": "p", "x": "SideFX가 VFX와 게임 개발, 모션 그래픽용 절차적 3D 소프트웨어의 다음 메이저 버전 Houdini 22를 내놨다. 위 영상은 새 기능을 훑은 키노트 녹화본이다." },
-          { "t": "p", "x": "간판은 제대로 갖춘 3D 가우시안 스플래팅 툴셋이다. 실사 참조 사진으로 스플랫을 학습시키거나 3D 씬에서 생성하고, 표준 Houdini 디포메이션 노드로 애니메이션을 넣는다. 주변 환경에 맞춘 재조명도, Karma 렌더러로의 렌더링도 된다. 참조 사진의 쓰임새가 달라지는 지점이다." },
-          { "t": "p", "x": "캐릭터 쪽 KineFX도 크게 바뀌었다. 재사용 가능한 리그 템플릿, 리그 인버전, 새 Set Driven Keys 컴포넌트가 들어왔다. 애니메이터에겐 APEX 캐릭터 피커와 Motion Mixer의 중첩 클립 지원, Ragdoll용 새 포스와 임팩트 임계값이 주어진다. CFX는 좀 더 점진적인데, 셋업을 더 일찍 만들고 시험해보는 데 초점을 뒀다. 그룸은 헤어 워크플로를 처음부터 끝까지 손봤다." },
-          { "t": "p", "x": "이미지 처리 프레임워크 Copernicus 역시 크게 손봤다. 그런지 맵 노드와 실험 단계의 3D 텍스처 페인팅, 2D 리플 솔버가 붙었고, 지형용 하이트필드와 파고 스펙트럼·포말이 있는 바다 표면까지 들어오면서 월드 빌딩 툴셋 노릇도 한다. UI는 새로 단장했고 3D 모델링과 Pyro FX·파쇄·강체 역학, Solaris와 Karma에도 자잘한 개선이 붙었다." },
-          { "t": "p", "x": "Windows 11, macOS 11.0 이상, 리눅스 배포판에서 돌아간다. 풀 에디션 Houdini FX는 노드 락 $4,495, 플로팅 $6,995. 고급 시뮬레이션이 빠진 Houdini Core는 각각 $1,995와 $2,995다. 무료 교육용 Apprentice와 렌털 전용 Indie도 있는데 둘 다 별도 파일 포맷으로 저장한다." }
+          { "t": "p", "x": "3Dflow가 포토그래메트리 소프트웨어 3DF Zephyr의 9.0 버전을 내놨다. 핵심은 3D 가우시안 스플랫 생성이다. 이제 원본 이미지나 영상만 있으면 포인트 클라우드와 메시에 더해 가우시안 스플랫까지 한 흐름 안에서 뽑아낼 수 있다." },
+          { "t": "p", "x": "가우시안 스플랫은 뉴럴 래디언스 계열의 캡처 방식으로, 실사에 가까운 장면을 가볍게 재현하는 데 강점이 있다. 그동안 연구·실험 영역에 머물던 이 기법이 대중적인 촬영 도구 안으로 들어왔다는 점이 이번 릴리스의 의미다." },
+          { "t": "p", "x": "덕분에 촬영에서 3D로 넘어가는 작업자들은 오늘 당장 써볼 수 있는 새 제작 경로를 얻게 됐다. 논평이 아니라 실제 출시된 기능이라는 점에서 곧바로 파이프라인에 태워볼 만하다." }
         ]
       }
     },
     {
-      "id": "tokens2026",
+      "id": "hallmark",
       "eyebrow": "AI NEWS",
-      "headline": "포맷 전쟁이 끝난 뒤\n토큰 도구를 고르는 법",
-      "mini_headline": "토큰, 락인의 끝",
-      "body": "DTCG 포맷이 굳으면서 두 도구 모두 같은 JSON을 내보내고, 선택 기준은 테마 복잡도만 남았다.",
-      "tool": "Design Tokens",
+      "headline": "AI가 만든 밋밋한 UI를\n바로잡는 디자인 스킬",
+      "body": "Hallmark 스킬은 Inter 폰트와 보라색 그라디언트로 뻔해진 AI UI를 브랜드다운 디자인으로 되돌린다.",
+      "mini_headline": "AI 슬롭 잡는 스킬",
+      "tool": "Figma",
       "source": "DEV Community",
-      "url": "https://dev.to/rohit_raghuvansh_2f04aca3/design-tokens-in-2026-figma-variables-vs-tokens-studio-4cg3",
+      "url": "https://dev.to/rohit_raj_8c7902b7d37cf21/the-anti-ai-slop-design-skill-how-hallmark-fixes-generic-ai-ui-in-2026-15gh",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Frohitraj.tech%2Fimages%2Fhallmark.png" },
+          { "t": "p", "x": "에이전트가 만든 화면에는 특유의 냄새가 있다. Inter 폰트, 보라색 그라디언트, 똑같이 생긴 카드. 한눈에 'AI가 그렸구나' 싶은 이 뻔한 인상을 글쓴이는 'AI 슬롭'이라 부른다." },
+          { "t": "p", "x": "Hallmark는 이 기본값을 가로채는 디자인 스킬이다. Claude Code, Cursor, Codex에 물려두면 에이전트가 UI를 짤 때 개성 없는 초기 스타일 대신 브랜드를 아는 디자인 쪽으로 방향을 튼다." },
+          { "t": "p", "x": "포인트는 실천 가능성이다. 담론이 아니라 지금 도구에 바로 얹을 수 있는 장치이고, 디자이너 입장에서는 내일 당장 설치해 그 뻔한 티를 지워볼 수 있다." }
+        ]
+      }
+    },
+    {
+      "id": "dscontract",
+      "eyebrow": "AI NEWS",
+      "headline": "컴포넌트는 피그마에도\n코드에도 살지 않는다",
+      "body": "진짜 컴포넌트를 가운데 계약으로 두고 피그마와 코드를 그 정직한 사본으로 다루자는 제안이다.",
+      "mini_headline": "컴포넌트라는 계약",
+      "tool": "Design Tokens",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "디자인 토큰을 쓰는 프로덕트 팀이 1년 만에 56%에서 84%로 뛰었다. 그 시점에 W3C가 Design Tokens Format Module의 첫 안정 버전을 냈고 Adobe·Google·Meta·Figma·Salesforce·Shopify가 뒤를 받쳤다. 토큰을 어떻게 다룰지 오래 싸운 두 진영이 있는데, 그 싸움의 재미가 확 줄었다." },
-          { "t": "img", "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/le4k4q0cpvzwlacrbtq5.png", "cap": "디자인 토큰을 관리하는 두 갈래, 네이티브 Figma Variables와 Tokens Studio를 소유권·테마 깊이·내보내기 포맷으로 나란히 비교한 표" },
-          { "t": "p", "x": "한쪽은 네이티브다. 2023년에 나온 Figma Variables가 색·간격·타입 값을 담는 자리를 Styles에서 넘겨받았고, 2026년 업데이트로 플러그인이나 커스텀 스크립트 없이 DTCG 규격 JSON을 내보낸다. 모든 토큰에 $value와 $type을 주는 이 모양은 Style Dictionary, Theo, Specify, Supernova, Penpot이 이미 읽는다. 약한 곳은 대규모 다중 모드 테마다. 라이트·다크는 무난하지만 브랜드 여덟에 밀도 셋, 플랫폼별 오버라이드까지 얹히면 평평한 모드 체계가 발목을 잡는다." },
-          { "t": "img", "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/urattiekscr3ew18makh.png", "cap": "디자인 토큰 파이프라인: Figma Variables 또는 Tokens Studio가 DTCG 규격 JSON을 내보내면 Style Dictionary가 CSS·Swift·Android 결과물로 변환한다" },
-          { "t": "p", "x": "다른 쪽은 Tokens Studio다. 토큰을 여러 파일로 다루고 git과 곧바로 동기화한다. 조합되는 토큰 세트, 파일을 넘나드는 별칭, 저장소로 직결되는 통로가 여기 있다. 걸리는 건 포맷이 DTCG보다 먼저 나온 탓에 Style Dictionary로 다리를 놓으려면 @tokens-studio/sd-transforms를 먼저 돌려야 한다는 점이다. 의존성이 하나 늘고 버전이 어긋날 여지도 생긴다." },
-          { "t": "p", "x": "진짜 이야기는 Figma 대 Tokens Studio가 아니다. 2025년 10월 DTCG 명세가 안정화되기 전에는 도구마다 JSON 모양이 달라서 토큰 도구를 고르는 일이 곧 락인을 고르는 일이었다. 이제 모양은 하나고 두 진영 모두 그리로 내보낸다. 몇 주 걸리던 리브랜드가 이틀이면 핵심 UI를 지나 사흘이면 전면 적용되는 이유다. Salesforce가 2014년 Lightning Design System에서 그 말을 만든 지 12년 만에, 업계는 약속을 도구 사이로 옮길 공통 포맷을 갖췄다." },
-          { "t": "img", "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/cc3tuqkjf84h0x8iuiaq.png", "cap": "AI 코딩 에이전트가 DESIGN.md 파일과 DTCG 토큰 내보내기를 함께 읽어, 그럴싸한 근사치를 짐작하는 대신 브랜드에 맞는 UI를 만드는 방식" },
-          { "t": "p", "x": "테이블에는 두 진영이 셈에 넣지 않은 네 번째 손님도 앉아 있다. AI 코딩 에이전트다. 새 컴포넌트를 맡기려면 그럴듯한 파랑이 아니라 브랜드의 정확한 파랑을 알려줘야 하고, 구조화된 토큰 파일이 그걸 준다. 토큰 값을 YAML 프런트매터에 두고 그 아래 산문으로 근거를 적은 DESIGN.md를 AGENTS.md에서 참조하게 두는 패턴이 빠르게 퍼지는 배경이다. 토큰이 값을 주고 산문이 판단을 준다." },
-          { "t": "p", "x": "결론은 단순하다. 단일 브랜드에 플랫폼이 몇 개뿐이라면 네이티브 Variables에 DTCG 내보내기를 붙여 Style Dictionary로 보내면 충분하다. 브랜드가 여럿이거나 테마가 복잡하거나 이미 git 동기화 파이프라인이 무르익었다면 Tokens Studio를 골라라. 지난 직장에서 쓰던 걸 고르는 것만 피하면 된다. 두 길 모두 같은 JSON을 말한다." }
+          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*aJoJclHmavEMRUGzBN3ThA.png" },
+          { "t": "p", "x": "디자인 시스템의 컴포넌트는 피그마에 있을까, 코드에 있을까. 글쓴이의 답은 '둘 다 아니다'이다. 진짜 컴포넌트는 가운데의 계약이고, 피그마와 코드는 그 계약을 각자 정직하게 옮겨 적은 두 개의 사본일 뿐이라는 것이다." },
+          { "t": "p", "x": "이 관점은 AI 에이전트가 양쪽을 모두 생성하기 시작하면서 더 급해진다. 디자인과 코드를 각각 다른 에이전트가 만들어낼 때, 무엇이 원본인지 정하지 않으면 두 사본은 조용히 어긋나기 시작한다." },
+          { "t": "p", "x": "컴포넌트를 계약으로 보면 디자인 시스템 팀은 구체적인 관리 모델을 얻는다. 피그마와 코드 어느 쪽도 진실의 자리를 독점하지 않고, 둘 다 계약을 지켰는지로 검증받는 구조다." }
         ]
       }
     },
     {
-      "id": "codex-micro",
+      "id": "lightcraft",
       "eyebrow": "AI NEWS",
-      "headline": "에이전트를 손으로 만지는\n230달러짜리 키패드",
-      "mini_headline": "에이전트용 키패드",
-      "body": "OpenAI와 Work Louder가 추론 강도 다이얼과 상태 LED를 단 230달러 키패드 Codex Micro를 내놨다.",
-      "tool": "AI Workflow",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
+      "headline": "규칙을 바꾼 인디 영화,\n이제 도구가 따라잡는다",
+      "body": "실시간 버추얼 프로덕션과 AI 도구가 마침내 따라붙어 1인 창작자도 스튜디오급 야심을 품게 됐다.",
+      "mini_headline": "도구가 따라잡다",
+      "tool": "KeyShot",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/3d/vfx-cgi/backrooms-and-obsession-changed-the-rules-of-filmmaking-now-the-tools-are-finally-catching-up",
       "accent": "#3b6bff",
-      "motif": "frame",
+      "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "video", "yt": "3-2OH6ReiPM" },
-          { "t": "p", "x": "OpenAI의 첫 하드웨어가 나왔다. Jony Ive와는 무관하다. 이름은 Codex Micro, 키보드 제조사 Work Louder와 함께 만든 키패드로 OpenAI의 에이전트형 코딩 기능 Codex를 조작하려고 설계했다. 두 회사는 6월부터 이 액세서리를 흘렸고, 지금 $230에 주문할 수 있다. 소문이 도는 Jony Ive 디자인 스마트 스피커보다 먼저다." },
-          { "t": "img", "src": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/intro-1784140173.jpg", "cap": "OpenAI / Work Louder" },
-          { "t": "p", "x": "Work Louder의 Creator Micro 2나 Framer와 함께 만든 Framer Micro를 봤다면 마감의 결은 짐작이 갈 것이다. 프로스트 처리한 키 여섯 개에 달린 LED가 Codex 안 에이전트의 상태를 따라간다. 나머지 키에는 코드 수락과 거절, 스레드 분기, 음성 입력 같은 동작을 할당한다. 추론 수준을 오가는 다이얼과 워크플로를 넘기는 조이스틱도 달렸고, 여분 키캡까지 들어 있다." },
-          { "t": "img", "src": "https://www.engadget.com/img/uploads/embed/it-C4p6U2-1784139199.jpg", "cap": "Work Louder" },
-          { "t": "p", "x": "OpenAI는 최근 Codex 앱을 슈퍼 앱으로 바꿨다. 일반 ChatGPT의 기능에 Codex, 그리고 생산성에 초점을 둔 새 에이전트 도구 ChatGPT Work를 합친 형태다. 전용 컨트롤 없이도 앱은 다 쓸 수 있지만, 깊이 파고드는 사용자라면 Codex Micro로 이동이 한결 수월해진다." },
-          { "t": "p", "x": "OpenAI가 굴리는 하드웨어 중에서는 Codex Micro가 가장 조용한 축이다. 스마트 스피커 쪽은 이미 Apple의 소송으로 꼬였다. Apple은 현 OpenAI 직원 Tang Yew Tan과 Chang Liu가 영업비밀을 빼돌렸다고 주장하는데, 둘 다 전에 Apple에서 일했다. 키패드는 OpenAI와 Work Louder 양쪽에서 $230에 주문할 수 있고, Work Louder는 수량 한정이라고 밝혔다." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/uuzxVBhnozpvDLqUpGabYk-1920-80.jpg" },
+          { "t": "p", "x": "Lightcraft CEO 엘리엇 맥은 Backrooms나 Obsession 같은 화제의 인디 프로젝트가 영화 만드는 규칙을 다시 썼다고 본다. 소수의 인원, 적은 예산으로도 관객을 사로잡는 작품이 나오면서 스튜디오만의 것이던 스케일이 흔들렸다는 것이다." },
+          { "t": "p", "x": "그리고 이제 도구가 그 야심을 따라잡는 중이라고 말한다. 실시간 버추얼 프로덕션과 AI 보조 도구가 맞물리면서, 예전이라면 대형 스튜디오가 필요했을 작업을 훨씬 작은 팀이 감당할 수 있게 됐다." },
+          { "t": "p", "x": "결국 새 창작자에게 스튜디오급 규모의 상상을 허락하는 방향이다. 아이디어와 실행 사이의 문턱이 낮아지면서, 혼자서도 큰 그림을 그릴 수 있는 조건이 갖춰지고 있다." }
         ]
       }
     },
     {
-      "id": "said-framework",
+      "id": "aibluff",
       "eyebrow": "AI NEWS",
-      "headline": "바이브 대신 스펙을\n다시 손에 쥔다",
-      "mini_headline": "스펙이 곧 레버리지",
-      "body": "느슨한 프롬프트 대신 스펙을 축에 둔 SAID 루프로 디자이너가 설계 과정을 되찾자는 제안이다.",
+      "headline": "AI가 디자인의\n허풍을 들췄다",
+      "body": "인터페이스 뒤에 숨어 온 디자이너에게 남는 건 판단과 취향, 문제를 세우는 힘이라는 지적이다.",
+      "mini_headline": "남는 건 판단과 취향",
       "tool": "AI Workflow",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932",
+      "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "글 Darren Yeo. 다섯 달 전 Anthropic의 디자인 총괄 Jenny Wen이 \"디자인 프로세스는 죽었다\"고 했을 때 사람들은 제대로 된 이유로 다퉜다. 오늘 더 날 선 버전은 간단하다. 낡고 순차적인 디자인 프로세스로는 AI 네이티브 팀이 제품을 만드는 방식을 감당하지 못한다. 엔지니어링과 프로덕트, 디자인, 데이터 사이언스가 섞이면서 직무를 갈라놓던 선이 움직이는 중이다." },
-          { "t": "img", "src": "https://miro.medium.com/v2/1*rtx0K47dZJZ_Zx8rm29-bA.png", "cap": "핸드오프의 직선 컨베이어 대신 피드백 루프로 도는 현대 워크플로. 앞단의 전략 단계가 가드레일을 세워두면 팀은 정렬을 잃지 않고 프로토타이핑(Loop A)과 프로덕션 경화(Loop B)의 빠른 사이클로 갈라진다. (이미지 출처: Yeo)" },
-          { "t": "p", "x": "디자인 작업이 구현과 반복, 판단 쪽으로 당겨진다는 게 핵심이다. Anthropic 공동창업자 Boris Cherny가 공유한 다섯 원형이 그 그림을 보여준다. 버려질 걸 알면서 거친 아이디어를 쏟아내는 Prototyper, 검증된 프로토타입을 프로덕션 인프라로 바꾸는 Builder, UI를 정리하고 군더더기를 걷어내는 Sweeper, 반복해 PMF를 넓히는 Grower, 성숙한 시스템을 지켜내는 Maintainer. 강한 팀은 직함의 집합이 아니라 그 사이를 오갈 수 있는 사람들의 집합이다." },
-          { "t": "p", "x": "도구가 흩어진 건 원래 비용으로 쳤다. Miro로 생각하고 Figma로 그리고 Confluence로 문서화하고 Jira로 추적하고 GitHub로 만들었다. 이제 그 분리가 발을 잡는다. AI 네이티브 팀에서는 제품 대화가 구현 가까이에서 벌어지고, Git이 스펙과 코드와 반복을 함께 두는 공유 작업 공간으로 자리를 넓혔다. 화면도 여전히 중요하지만 진실의 출처로서 스펙의 무게가 커졌다." },
-          { "t": "img", "src": "https://miro.medium.com/v2/0*pjug_UJs8JOTNXvk", "cap": "느슨한 프롬프팅은 규모에서 무너진다. Spec Driven Development(SDD)는 무엇과 어떻게를 갈라, AI 에이전트에게 오해 없는 진실의 출처를 준다. (이미지 출처: Bao)" },
-          { "t": "p", "x": "그렇다면 디자이너가 마크다운을 쓰는 엔지니어가 되어야 할까. 그렇지는 않다. 다만 의도를 코드와 부딪혀도 살아남는 형태로 표현하는 법은 익혀야 한다. 이 시대의 스펙은 건조한 문서가 아니라 로직과 사용자 의도, 시스템 상태, 디자인 제약을 구체로 적어낸 것이다. 어떤 아이디어가 동작과 제약, 시험 가능한 규칙으로 옮겨지지 않는다면 아직 규모를 감당하기엔 모호하다." },
-          { "t": "img", "src": "https://miro.medium.com/v2/1*PCEB4CR-N-WjeQ5JKBEWmw.png", "cap": "인간과 에이전트의 협업을 위한 Anthropic의 청사진. 이 인지 분업이 바이브 코딩에서 스펙 주도 라이프사이클로 넘어가는 구조적 뼈대가 된다. (이미지 출처: Anthropic)" },
-          { "t": "p", "x": "Peter Senge는 『제5경영』에서 구조가 행동을 낳는다고 썼다. 팀에게 다르게 일하라고 말해봐야 아무것도 바뀌지 않고, 일하는 시스템을 바꿔야 바뀐다. 디자이너에게 더 협업하라거나 엔지니어에게 UX를 신경 쓰라는 구호가 늘 헛도는 이유다. Anthropic의 4D AI Fluency Framework가 그 전환의 지도가 된다. 사람과 에이전트의 몫을 가르는 Delegation, 의도와 규칙을 흐릿함 없이 쓰는 Description, 승인 전에 출력을 검증하는 Discernment, 가드레일과 품질 점검을 심는 Diligence." },
-          { "t": "p", "x": "4D를 Agentic SDD와 합치면 새 라이프사이클이 드러난다. 저자는 이를 SAID라 부른다. 의도를 명세하고, 에이전트에게 위임하고, 반복해 기술하며, 사람이 판단하고 규율을 세우는 연속 루프다. AI 네이티브를 우선순위로 세우는 Initiate와 마찰을 짚는 Discover로 시작해 경계와 승인권을 정하고, 초기 스펙을 함께 쓰고, 구현 전에 Git에서 검토·승인하고, 거버넌스를 제도화한다. 그다음 제안에서 프로토타입까지가 Loop A, 프로토타입에서 제품까지가 Loop B로 빠르게 돈다." },
-          { "t": "p", "x": "SAID가 쓸모 있는 이유는 속도에 맞기 때문이다. 완벽한 스펙을 기다렸다가 배우지 않아도 된다. 대신 무엇을 받아들이고 무엇을 버릴지에 대한 규율이 더 필요해진다. 검토 없는 속도는 더 빨리 틀리는 방법일 뿐이다. 초기 자동차는 틸러라는 막대로 방향을 잡았고, 시간이 지나서야 핸들이 도로에 맞는 모델임을 알았다. 지금의 바이브 코딩과 수동 프롬프팅이 그 틸러다. 스케치와 와이어프레임은 앞으로도 중요하지만, 더 센 기술은 동작을 빚고 제약을 정의하며 에이전트와 잘 협업하는 쪽에 있다." }
+          { "t": "img", "src": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv" },
+          { "t": "p", "x": "글쓴이는 지난 10년간 디자이너가 인터페이스 뒤에 숨어 있었다고 말한다. 화면을 정교하게 다듬는 일 자체가 곧 실력의 증거처럼 여겨졌다는 것이다." },
+          { "t": "p", "x": "그런데 AI가 인터페이스를 직접 만들어내기 시작하면서 그 방패가 사라졌다. 픽셀을 밀고 당기던 작업이 자동화되자, 그 뒤에 무엇이 남는가 하는 질문이 정면으로 떠오른다." },
+          { "t": "p", "x": "남는 것은 판단과 취향, 그리고 문제를 어떻게 세울지 정하는 능력이다. 화면을 그리는 손이 아니라 무엇을 왜 만드는지를 가르는 감각이, 이제 디자이너의 진짜 레버리지라는 이야기다." }
         ]
       }
     }

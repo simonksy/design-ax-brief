@@ -1,103 +1,85 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "music",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.soundonsound.com/news/peel-stems-2-zplane",
-      "source": "Sound On Sound",
+      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
+      "source": "Synthtopia",
       "tool": "Music",
+      "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Peel Stems 2 from zplane",
-      "rationale": "Halving demixing latency from 483ms to 245ms moves AI stem separation from an offline chore into something usable live in a session — the most directly actionable release in the pool.",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg",
-      "excerpt": "zplane has released an updated real-time stem-separation plug-in with processing latency reduced from 483ms to 245ms at 44.1kHz, alongside improved quality and clarity of the separated audio."
+      "headline": "Ocean Swift intros DevOcean Modular with MaYa, an AI agent that patches alongside you",
+      "rationale": "Highest actionability in the fresh pool: a shipping 145-module synthesis environment whose AI agent collaboratively builds and patches modular setups with the producer instead of one-shot generating — a concrete change to how sound designers work tomorrow.",
+      "published_iso": "2026-07-17T22:47:40Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/DevOcean-Modular-Screenshot.png",
+      "excerpt": "Ocean Swift's DevOcean Modular is a 145-module software synthesis and sound-design environment whose standout is MaYa, a modular AI agent that builds and patches modular setups collaboratively alongside the user rather than just auto-generating a result."
     },
     {
-      "url": "https://www.musicradar.com/music-tech/suno-scraped-millions-of-songs-from-youtube-deezer-and-stock-music-libraries-according-to-hacked-data",
-      "source": "MusicRadar",
+      "url": "https://www.musicbusinessworldwide.com/why-a-fight-over-61000-recordings-could-shape-the-future-of-ai-music-licensing/",
+      "source": "Music Business Worldwide",
       "tool": "Music",
-      "accent": "#0070f3",
+      "category": "music",
+      "accent": "#3b6bff",
       "motif": "sphere",
-      "headline": "Suno scraped millions of songs from YouTube, Deezer and stock music libraries, according to hacked data",
-      "rationale": "The clearest evidence yet of what actually sits inside a model millions of producers prompt daily — it reshapes the provenance question for anyone building on Suno.",
-      "published_iso": "2026-07-16T00:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/LDxLT52xLaMhdvEGpwdLwM.jpg",
-      "excerpt": "Hacked data indicates Suno pulled 2,013,545 music clips from YouTube Music alone, plus material from Deezer and stock libraries, to train its models. It is the clearest look yet at what actually sits inside the model producers are prompting."
+      "headline": "Why a fight over 61,000 recordings could shape the future of AI music licensing",
+      "rationale": "A distinct court development (not the earlier Suno data-leak card) whose fair-use precedent will govern how AI music tools can legally be trained and licensed — the most consequential industry story in the fresh pool.",
+      "published_iso": "2026-07-14T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Suno challenged UMG and Sony's bid to add over 61,000 recordings to their copyright suit; the fair-use fight could set the precedent shaping how AI music tools can legally be trained and licensed."
     },
     {
-      "url": "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/",
-      "source": "MusicTech",
+      "url": "https://au.rollingstone.com/music/music-news/josh-fawaz-adds-ai-credits-like-a-prayer-spotify-98573/",
+      "source": "Rolling Stone",
       "tool": "Music",
+      "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "BandLab Technologies acquires AI-powered music making platform Aiode",
-      "rationale": "A fully-licensed, traceable training corpus lands inside a mainstream DAW maker — the direct counterpoint to the Suno leak, and a bet on where AI music tooling settles.",
-      "published_iso": "2026-07-15T15:46:31Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg",
-      "excerpt": "Aiode is an AI music studio that lets creators compose tracks using fully-licensed professional musician performances, with all training audio sourced and traceable back to the players who made it. BandLab positions it as its AI-native counterpart to mobile BandLab and desktop Cakewalk."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/07/06/pixelsncodes-releases-lumen-a-free-open-source-windows-synth-that-turns-images-into-sound/",
-      "source": "Bedroom Producers Blog",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "headline": "Pixelsncodes releases Lumen, a FREE open-source Windows synth that turns images into sound",
-      "rationale": "A free instrument a solo developer shipped with an AI coding agent — AI as a way to build tools rather than generate audio, and it costs nothing to try tomorrow.",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen-728x364.jpg",
-      "excerpt": "Pixelsncodes built Lumen — a free open-source wavetable synth with an image-to-wavetable engine that turns pixel data into sound — using the Claude AI coding agent. It is a concrete example of a solo developer shipping a real instrument via AI-assisted coding rather than AI-generated audio."
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "source": "TechCrunch",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "headline": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "rationale": "Discovery shifts from passive algorithm to dialogue on the largest streaming platform — the surface artists optimise for changes with it.",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?w=1024",
-      "excerpt": "Spotify is rolling out a conversational AI feature letting Premium subscribers chat their way to music, blending Spotify's own models with external ones. It launches first in the US, Ireland and Sweden on iOS and Android."
+      "headline": "Josh Fawaz Adds AI Credits to 'Like a Prayer' on Spotify After Widespread Backlash",
+      "rationale": "A concrete, high-profile disclosure case (38M streams) showing the emerging norm of crediting AI vocals/drums — the real-world practice behind the labeling debates, and directly relevant to how creators tag AI work.",
+      "published_iso": "2026-07-17T03:07:00Z",
+      "og_image": "",
+      "excerpt": "After an ABC investigation revealed heavy generative-AI use, Australian DJ Josh Fawaz added AI-vocal and AI-drum credits to his 38M-stream Madonna cover 'Like a Prayer,' spotlighting disclosure norms for AI-made hits."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.music — today (2026-07-16) + days 2026-07-10..2026-07-15, 18 published cards",
-    "clusters_collapsed": [
-      "PEEL STEMS 2 — 4 articles (gearnews, Attack Magazine, Bedroom Producers Blog, Sound On Sound) are one release; kept Sound On Sound (freshest, concrete latency figures, own image).",
-      "Suno scraping leak — 3 articles (MusicRadar, MBW, DJ Mag) are one story; kept MusicRadar (has og_image, hardest numbers).",
-      "BandLab/Aiode acquisition — 2 articles (MBW, MusicTech) are one story; kept MusicTech (the MBW entry has no og_image).",
-      "Spotify conversational assistant — TechCrunch and Hypebot cover the same launch; kept TechCrunch. Hypebot's metadata/SEO thesis also overlaps the published 2026-07-13 Hypebot card 'brand-audit-ai'."
-    ],
+    "checked_against": "news_data.json sections.music — today (2026-07-18) + days 2026-07-13..2026-07-17, plus orchestrator earliest-wins drop list",
     "dropped_as_published_duplicates": [
       {
+        "url": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
+        "reason": "Same zplane PEEL STEMS 2 release already published in sections.music (earliest-wins). Different outlet, same release."
+      },
+      {
         "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
-        "reason": "Same Eldoraudio Guitar Audio-to-MIDI release already published 2026-07-14 as card 'eldoraudio-midi' (Bedroom Producers Blog)."
+        "reason": "Same Eldoraudio Guitar Audio-to-MIDI release already published in sections.music (earliest-wins)."
       },
       {
-        "url": "https://musictech.com/news/industry/ai-music-tagging-system/",
-        "reason": "Same IFPI/RIAA voluntary AI-labeling proposal already published 2026-07-11 as card 'riaa-ai-labels' (Music Business Worldwide)."
+        "url": "https://www.billboard.com/pro/bandlab-acquires-ai-digital-music-studio-aiode/",
+        "reason": "Same BandLab/Aiode acquisition already published in sections.music (earliest-wins)."
       },
       {
-        "url": "https://www.gearnews.com/ai-labeling-music-industry-tech/",
-        "reason": "Same IFPI/RIAA 'AI-Generated'/'AI-Assisted' tag scheme already published 2026-07-11 as card 'riaa-ai-labels'."
+        "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
+        "reason": "Same RIAA/IFPI voluntary AI-labeling proposal already published in sections.music (earliest-wins). Must not reappear."
+      },
+      {
+        "url": "https://www.hypebot.com/new-ai-labeling-standard-for-music-draws-support-and-hesitation/",
+        "reason": "Reaction piece on the same RIAA/IFPI AI-labeling standard — same event, reworded framing. Collapses to the single already-published story."
       }
+    ],
+    "clusters_collapsed": [
+      "AI labeling standard — MBW proposal (#4) and Hypebot reactions (#5) are the same RIAA/IFPI event; both dropped as duplicates of the previously published story."
     ]
   },
   "diversity_check": {
-    "distinct_outlets": 5,
+    "distinct_outlets": 3,
     "max_per_outlet": 1,
     "outlets": [
-      "Sound On Sound",
-      "MusicRadar",
-      "MusicTech",
-      "Bedroom Producers Blog",
-      "TechCrunch"
+      "Synthtopia",
+      "Music Business Worldwide",
+      "Rolling Stone"
     ],
     "accents_distinct": true,
-    "note": "The music section has a single category, so each pick takes a distinct accent from the sources.json palette. Topic spread: tooling / provenance / industry M&A / free instrument / streaming platform."
+    "note": "Meets the floor of 3. After dedup, 5 of 8 candidates duplicate already-published stories; 3 genuinely fresh, never-before-seen stories remain (DevOcean/MaYa, the 61,000-recordings fight, Josh Fawaz AI credits). Not padded. Single-category section, so each pick takes a distinct palette accent (#ff2d55, #3b6bff, #f5a623)."
   }
 }

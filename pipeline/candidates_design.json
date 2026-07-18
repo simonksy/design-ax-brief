@@ -1,31 +1,15 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "design",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-07-16T12:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/e4e2d4b63595cc24b996f961f4b28e0049e7efb9-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma walks through a workflow where designers connect a production codebase to Figma Make, implement accessibility and polish refinements themselves, and open a pull request — collapsing the traditional design-to-engineering handoff."
-    },
-    {
-      "url": "https://www.figma.com/blog/sightlines-issue-no1/",
-      "source": "Figma",
-      "category": "workflow",
-      "published_iso": "2026-07-16T16:37:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/30f2f73daae48e5afd10855e40c230b4a85b63fa-1920x1080.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's first Sightlines newsletter distills how design and product leaders at Config's Leadership Collective are integrating AI without losing quality, arguing human judgment becomes the competitive advantage as automation accelerates."
-    },
-    {
-      "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932",
+      "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-07-16T22:20:27Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*1RklWXLSQOBIIMkGOcZ9TA.png",
-      "excerpt": "A proposed SAID framework pushes back on vibe-coding drift by reclaiming specs as the designer's leverage point, turning loose AI prompting into a structured, reviewable design process."
+      "published_iso": "2026-07-17T11:13:57Z",
+      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv",
+      "excerpt": "Argues that for a decade designers hid behind the interface, and now that AI can generate the interface itself, the craft that remains is judgment, taste and problem framing rather than pixel-pushing."
     },
     {
       "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067",
@@ -33,47 +17,7 @@
       "category": "tokens",
       "published_iso": "2026-07-16T22:17:34Z",
       "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*aJoJclHmavEMRUGzBN3ThA.png",
-      "excerpt": "Argues the real design-system component lives in neither Figma nor code but in the contract between them — a shift that matters most once AI agents are the ones generating both sides."
-    },
-    {
-      "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-07-16T06:01:00Z",
-      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.5/1*eZ-4eCa5SciUUmO1jEuA9Q.png",
-      "excerpt": "Makes the case that leaning on web standards — semantic HTML, native platform primitives — is the most durable playbook for designers in an AI moment where agents generate the markup."
-    },
-    {
-      "url": "https://dev.to/goodbarber/why-every-ai-generated-app-looks-the-same-the-architecture-that-gets-you-out-5ajb",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-07-16T07:24:10Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Falj5re4f6py4imgxchhf.png",
-      "excerpt": "AI-generated apps look identical because models output the statistical average of their training data; the fix isn't better prompts but a parameterized design system that enforces a distinct visual identity while AI handles assembly."
-    },
-    {
-      "url": "https://dev.to/rohit_raghuvansh_2f04aca3/design-tokens-in-2026-figma-variables-vs-tokens-studio-4cg3",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-07-16T04:18:15Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fiili.io%2FCVRoz2p.png",
-      "excerpt": "With the W3C DTCG token format stabilized, Figma Variables and Tokens Studio both export compliant JSON — ending tool lock-in and shifting the choice to actual theming complexity rather than format compatibility."
-    },
-    {
-      "url": "https://dev.to/selcukatli/image-models-kept-getting-my-app-store-screenshots-rejected-so-i-made-my-coding-agent-render-them-3afp",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-07-16T22:23:49Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ppmjtbko6g9gdwkfwmu.png",
-      "excerpt": "After image models kept failing Apple's exact spec, a developer built HyperShots: deterministic CSS/HTML rendering by a coding agent handles precise dimensions and text, with generative AI reserved for the decorative layer."
-    },
-    {
-      "url": "https://www.builder.io/blog/what-agent-native-means-for-the-whole-team",
-      "source": "Builder.io",
-      "category": "workflow",
-      "published_iso": "2026-07-15T18:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/23a33a081f674befa034d2c073202ac1?width=1200",
-      "excerpt": "Builder.io argues AI only pays off when it is agent-native — embedded in the actual workflow — which is why developers benefit from coding agents while designers, marketers and PMs still stitch the process together by hand."
+      "excerpt": "Proposes treating the real design-system component as a contract in the middle, with Figma and code as two honest copies of it — a shift the author argues becomes urgent once AI agents generate both sides."
     },
     {
       "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
@@ -81,71 +25,47 @@
       "category": "render",
       "published_iso": "2026-07-16T16:59:49Z",
       "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-RotoFoundry.jpg",
-      "excerpt": "Foundry's SmartRoto uses ML to propagate artist-drawn splines across a sequence while treating every hand-placed keyframe as immutable — an AI tool designed to accelerate roto artists up to 4x rather than override their judgment."
+      "excerpt": "Foundry has released SmartRoto, an AI-powered plugin for Nuke, NukeX, Nuke Studio and Nuke Indie that aims to take the grind out of rotoscoping while keeping artists in control of the workflow."
     },
     {
-      "url": "https://www.cgchannel.com/2026/07/google-open-sources-gnm-head-its-parametric-human-head-model/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-07-15T10:30:30Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260715_GoogleOpenSourcesGNM_FreeParametric3DHeadGenerator_BlenderAddOn.jpg",
-      "excerpt": "Google open-sourced GNM Head, a parametric 3D human head model with 250+ shape controls and 380+ expression controls built from real scan data, already spawning community Blender and Houdini tools."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/07/sidefx-just-released-houdini-22/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-07-16T10:07:37Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260716_Houdini22.jpg",
-      "excerpt": "SideFX shipped Houdini 22 with a full 3D Gaussian Splatting toolset — including training splats from real-world reference photos — plus KineFX rigging and Copernicus image-processing upgrades."
-    },
-    {
-      "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
-      "source": "Engadget",
-      "category": "wildcard",
-      "published_iso": "2026-07-16T16:28:46Z",
-      "og_image": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/l-intro-1784219278.jpg",
-      "excerpt": "Google's AI Mode in Search now calls Canva directly, letting users generate design templates without ever opening a design tool — pushing graphic design one more step into the ambient search layer."
-    },
-    {
-      "url": "https://www.engadget.com/2217106/roblox-will-offer-ai-generated-game-creation-on-mobile-later-this-year/",
-      "source": "Engadget",
-      "category": "wildcard",
-      "published_iso": "2026-07-16T21:32:54Z",
-      "og_image": "https://www.engadget.com/img/gallery/roblox-will-offer-ai-generated-game-creation-on-mobile-later-this-year/l-intro-1784239478.jpg",
-      "excerpt": "Roblox will let users generate playable games from prompts on mobile later this year, extending prompt-to-artifact creation tools to a phone-first, non-professional creator base."
-    },
-    {
-      "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
-      "source": "Engadget",
-      "category": "workflow",
-      "published_iso": "2026-07-15T18:31:30Z",
-      "og_image": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/l-intro-1784140173.jpg",
-      "excerpt": "OpenAI and Work Louder shipped the $230 Codex Micro, a physical keypad with programmable keys, LED status lights and a reasoning-level dial — an early attempt at hardware interaction design for agentic work."
-    },
-    {
-      "url": "https://adsknews.autodesk.com/en/news/2026-ai-jobs-report/",
-      "source": "Autodesk",
-      "category": "cad",
-      "published_iso": "2026-07-13T23:44:27Z",
-      "og_image": "https://adsknews.autodesk.com/app/uploads/2026/07/Slide1-2-1.jpg",
-      "excerpt": "Autodesk's 2026 AI Jobs Report finds AI-related hiring across Design and Make industries has more than doubled, reshaping which skills design and engineering teams actually recruit for."
-    },
-    {
-      "url": "https://www.creativebloq.com/ai/i-laughed-at-this-image-of-england-players-as-queen-but-it-reveals-ais-biggest-problem",
+      "url": "https://www.creativebloq.com/3d/vfx-cgi/backrooms-and-obsession-changed-the-rules-of-filmmaking-now-the-tools-are-finally-catching-up",
       "source": "Creative Bloq",
-      "category": "wildcard",
-      "published_iso": "2026-07-15T11:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/usXebV4esvbbZSA3BXkvv4-1309-80.jpg",
-      "excerpt": "A viral AI mashup of England footballers as Queen becomes the hook for a sharper craft argument: generative AI has become pop culture's greatest tribute band, endlessly recombining rather than originating."
+      "category": "render",
+      "published_iso": "2026-07-18T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uuzxVBhnozpvDLqUpGabYk-1920-80.jpg",
+      "excerpt": "Lightcraft CEO Eliot Mack argues that viral indie projects like Backrooms and Obsession rewrote filmmaking, and that real-time virtual production and AI-assisted tools are finally catching up to give new creators studio-scale ambition."
     },
     {
-      "url": "https://develop3d.com/3d-printing/qa-ali-tamijani-ceo-of-novineer/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "published_iso": "2026-07-14T10:13:33Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/Novineer_NoviVision-Heropng.jpg",
-      "excerpt": "Novineer CEO Ali Tamijani on AI-driven reverse engineering that turns smartphone photos into optimised 3D models for generative product design and additive manufacturing."
+      "url": "https://www.cgchannel.com/2026/07/3dflow-releases-3df-zephyr-9-0-with-3d-gaussian-splatting/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-07-17T15:14:37Z",
+      "og_image": "",
+      "excerpt": "3Dflow's 3DF Zephyr 9.0 photogrammetry software can now generate 3D Gaussian Splats from source images or video, alongside point clouds and meshes, extending neural radiance-style capture into a production 3D pipeline."
+    },
+    {
+      "url": "https://dev.to/harish_s_93e5d1c9d87ae5a/spotting-ai-ui-is-too-easy-and-how-to-fix-it-in-cursorbolt-4h76",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-07-18T11:28:34Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com",
+      "excerpt": "Walks through why LLM-generated UI in Cursor and Bolt lands in an uncanny valley of functional-but-generic layouts, and offers concrete prompt and design-system fixes to push AI output past the tell-tale defaults."
+    },
+    {
+      "url": "https://dev.to/rohit_raj_8c7902b7d37cf21/the-anti-ai-slop-design-skill-how-hallmark-fixes-generic-ai-ui-in-2026-15gh",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-07-18T09:31:33Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Frohitraj.tech%2Fimages%2Fhallmark.png",
+      "excerpt": "Introduces Hallmark, a design skill for Claude Code, Cursor and Codex that intercepts the default 'AI slop' look — Inter font, purple gradients, identical cards — and steers agent-built UIs toward distinctive, brand-aware design."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-07-18T07:02:51Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg",
+      "excerpt": "A pointed critique of Meta walking back a scrapped AI creative tool, questioning whether the reversal reflects genuine concern for creators or damage control — a signal of how platform AI decisions ripple into design and creative work."
     }
   ]
 }

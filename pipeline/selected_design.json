@@ -1,93 +1,92 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-19",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/",
-      "title": "Workflow Lab: deploying designs directly with Figma Make",
-      "source": "Figma",
-      "published_iso": "2026-07-16T12:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/e4e2d4b63595cc24b996f961f4b28e0049e7efb9-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma walks through a workflow where designers connect a production codebase to Figma Make, implement accessibility and polish refinements themselves, and open a pull request — collapsing the traditional design-to-engineering handoff.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Highest actionability in the pool: a first-party, step-by-step workflow a designer can run tomorrow to ship a PR without a handoff."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/07/sidefx-just-released-houdini-22/",
-      "title": "SideFX just released Houdini 22",
+      "url": "https://www.cgchannel.com/2026/07/3dflow-releases-3df-zephyr-9-0-with-3d-gaussian-splatting/",
+      "title": "3Dflow releases 3DF Zephyr 9.0 with 3D Gaussian Splatting",
       "source": "CG Channel",
-      "published_iso": "2026-07-16T10:07:37Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260716_Houdini22.jpg",
-      "excerpt": "SideFX shipped Houdini 22 with a full 3D Gaussian Splatting toolset — including training splats from real-world reference photos — plus KineFX rigging and Copernicus image-processing upgrades.",
+      "published_iso": "2026-07-17T15:14:37Z",
+      "og_image": "",
+      "excerpt": "3Dflow's 3DF Zephyr 9.0 photogrammetry software can now generate 3D Gaussian Splats from source images or video, alongside point clouds and meshes, extending neural radiance-style capture into a production 3D pipeline.",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Major shipped release, not commentary: a full Gaussian Splatting toolset lands in a mainstream 3D DCC and changes what reference photos are good for."
+      "rationale": "A shipped release, not commentary: Gaussian Splatting arrives in a mainstream photogrammetry tool, so capture-to-3D artists get a new production path they can run today."
     },
     {
-      "url": "https://dev.to/rohit_raghuvansh_2f04aca3/design-tokens-in-2026-figma-variables-vs-tokens-studio-4cg3",
-      "title": "Design tokens in 2026: Figma Variables vs Tokens Studio",
+      "url": "https://dev.to/rohit_raj_8c7902b7d37cf21/the-anti-ai-slop-design-skill-how-hallmark-fixes-generic-ai-ui-in-2026-15gh",
+      "title": "The anti-AI-slop design skill: how Hallmark fixes generic AI UI in 2026",
       "source": "DEV Community",
-      "published_iso": "2026-07-16T04:18:15Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fiili.io%2FCVRoz2p.png",
-      "excerpt": "With the W3C DTCG token format stabilized, Figma Variables and Tokens Studio both export compliant JSON — ending tool lock-in and shifting the choice to actual theming complexity rather than format compatibility.",
+      "published_iso": "2026-07-18T09:31:33Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Frohitraj.tech%2Fimages%2Fhallmark.png",
+      "excerpt": "Introduces Hallmark, a design skill for Claude Code, Cursor and Codex that intercepts the default 'AI slop' look — Inter font, purple gradients, identical cards — and steers agent-built UIs toward distinctive, brand-aware design.",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Highest actionability in the fresh pool: a concrete, installable skill a designer can drop into agent tooling tomorrow to kill the tell-tale default look."
+    },
+    {
+      "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067",
+      "title": "Design system contracts: the component lives in neither Figma nor code",
+      "source": "UX Collective",
+      "published_iso": "2026-07-16T22:17:34Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*aJoJclHmavEMRUGzBN3ThA.png",
+      "excerpt": "Proposes treating the real design-system component as a contract in the middle, with Figma and code as two honest copies of it — a shift the author argues becomes urgent once AI agents generate both sides.",
       "category": "tokens",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Concrete tooling decision with a real hinge — DTCG stabilizing removes lock-in, so token teams can pick on theming needs alone."
+      "rationale": "A structural reframing with teeth: as agents generate both Figma and code, treating the component as a contract gives design-system teams a concrete governance model."
     },
     {
-      "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
-      "title": "OpenAI launches a physical keypad for controlling agents",
-      "source": "Engadget",
-      "published_iso": "2026-07-15T18:31:30Z",
-      "og_image": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/l-intro-1784140173.jpg",
-      "excerpt": "OpenAI and Work Louder shipped the $230 Codex Micro, a physical keypad with programmable keys, LED status lights and a reasoning-level dial — an early attempt at hardware interaction design for agentic work.",
-      "category": "workflow",
-      "tool": "AI Workflow",
+      "url": "https://www.creativebloq.com/3d/vfx-cgi/backrooms-and-obsession-changed-the-rules-of-filmmaking-now-the-tools-are-finally-catching-up",
+      "title": "Backrooms and Obsession changed the rules of filmmaking — now the tools are finally catching up",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-18T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uuzxVBhnozpvDLqUpGabYk-1920-80.jpg",
+      "excerpt": "Lightcraft CEO Eliot Mack argues that viral indie projects like Backrooms and Obsession rewrote filmmaking, and that real-time virtual production and AI-assisted tools are finally catching up to give new creators studio-scale ambition.",
+      "category": "render",
+      "tool": "KeyShot",
       "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Back-fill for the cross-section SmartRoto conflict: a shipped product rather than a think-piece, and the most novel item left — a physical control surface for agents makes the section's AX thesis tangible."
+      "motif": "sphere",
+      "rationale": "Second render pick with a distinct accent: a working-tools view of how real-time virtual production plus AI lowers the bar to studio-scale output for solo creators."
     },
     {
-      "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932",
-      "title": "From vibe to specs: reclaiming the design process with the SAID framework",
+      "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae",
+      "title": "AI just called design's bluff",
       "source": "UX Collective",
-      "published_iso": "2026-07-16T22:20:27Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*1RklWXLSQOBIIMkGOcZ9TA.png",
-      "excerpt": "A proposed SAID framework pushes back on vibe-coding drift by reclaiming specs as the designer's leverage point, turning loose AI prompting into a structured, reviewable design process.",
+      "published_iso": "2026-07-17T11:13:57Z",
+      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv",
+      "excerpt": "Argues that for a decade designers hid behind the interface, and now that AI can generate the interface itself, the craft that remains is judgment, taste and problem framing rather than pixel-pushing.",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "A named, reusable framework rather than another AI-anxiety essay — gives designers a concrete way to reclaim specs from vibe-coding drift."
+      "rationale": "Carries the workflow slot and category spread: a sharp, reputable reframing of where a designer's leverage now sits once the interface itself is generated."
     }
   ],
   "dedup": {
-    "pool_size": 17,
-    "dropped_as_duplicate": 0,
+    "pool_size": 8,
+    "dropped_as_duplicate": 1,
     "dropped_cross_section": 1,
-    "checked_against": "sections.design — today (2026-07-16) + days 2026-07-10, 07-11, 07-13, 07-14, 07-15",
+    "checked_against": "sections.design — today (2026-07-18) + days 2026-07-13, 07-14, 07-15, 07-16, 07-17",
     "notes": [
-      "fxguide SmartRoto (foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do) — was design pick #4; removed on the coordinator's cross-section conflict call (also picked by movies today, which keeps it as the native VFX beat). Slot back-filled with Engadget Codex Micro.",
-      "figma.com/blog/sightlines-issue-no1 — NOT a hard duplicate of jen-dunnam (2026-07-11, Figma, Config Leadership Collective), but same source + adjacent Leadership Collective topic; deprioritized rather than picked.",
-      "uxdesign.cc design-system-contracts and dev.to why-every-ai-generated-app-looks-the-same — both adjacent to tokens-prompts (2026-07-15, DEV, 'design tokens are prompts'); distinct articles and arguments, kept in pool but not picked to avoid a third tokens-drift take.",
-      "dev.to HyperShots (selcukatli) — strongest back-fill on raw actionability, but dev.to maps only to the figma/tokens categories in sources.json, so the card chip would read 'Figma' on a story unrelated to Figma; passed over for the accurate-label Codex Micro.",
-      "engadget Google AI Mode + Canva — distinct event from canva-code2 (2026-07-15, VentureBeat, Canva Code 2.0); not a duplicate, dropped on ranking only.",
-      "creativebloq England-players-as-Queen — thematically adjacent to not-ai-slop (2026-07-10) and economist-billboard (2026-07-11); distinct article, dropped for low actionability."
+      "fxguide SmartRoto (foundrys-smartroto-ai-assisted-roto) — strongest raw render candidate, but yesterday's design selection handed it to movies as the native VFX beat and it was published there; re-picking would be a visible cross-section repeat of a 3-day-old story. Excluded; slot back-filled with Creative Bloq Backrooms/Lightcraft.",
+      "dev.to spotting-ai-ui-is-too-easy (harish_s) — same core topic as the Hallmark pick (fixing generic AI-generated UI), same source, same day; a content-hub pair. Kept the stronger, tool-specific Hallmark article and dropped this one.",
+      "uxdesign design-system-contracts — adjacent to tokens-prompts (2026-07-15) and tokens2026 (2026-07-17), but a distinct article with a different thesis (the component as a contract between Figma and code); NOT a duplicate, and it was only deprioritized (not published) yesterday, so it is picked now.",
+      "uxdesign ai-just-called-designs-bluff — thematically adjacent to the designer-role essays taste-cannot-be-delegated / interface-left (07-13) and ax-orchestration (07-14); distinct essay and URL, not a duplicate. Kept as the workflow representative.",
+      "creativebloq Meta-scrapped-AI-tool and creativebloq backrooms — both Creative Bloq; kept only the higher-actionability Backrooms/Lightcraft piece; the Meta op-ed dropped on low actionability."
     ]
   },
   "diversity_guard": {
-    "outlets": ["Figma", "CG Channel", "DEV Community", "Engadget", "UX Collective"],
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "categories": { "figma": 1, "render": 1, "tokens": 1, "workflow": 2 },
-    "accent_note": "Two workflow picks carry distinct accents — Codex Micro #3b6bff, SAID #ff5a4d."
+    "outlets": ["CG Channel", "DEV Community", "UX Collective", "Creative Bloq"],
+    "distinct_outlets": 4,
+    "max_per_outlet": 2,
+    "categories": { "render": 2, "figma": 1, "tokens": 1, "workflow": 1 },
+    "accent_note": "Two render picks carry distinct accents — 3DF Zephyr #f5a623, Backrooms/Lightcraft #3b6bff."
   }
 }
