@@ -1,8 +1,7 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-21",
   "section": "movies",
   "media": [
-    { "id": "martini", "type": "image", "src": "pipeline/media/martini.jpg" },
-    { "id": "curious-refuge-ai-tools", "type": "video", "src": "pipeline/media/curious-refuge-ai-tools.mp4", "poster": "pipeline/media/curious-refuge-ai-tools.jpg" }
+    { "id": "switchlight3", "type": "image", "src": "pipeline/media/switchlight3.jpg" }
   ]
 }

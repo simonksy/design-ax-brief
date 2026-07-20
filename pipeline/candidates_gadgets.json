@@ -1,135 +1,64 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-21",
   "section": "gadgets",
+  "now_iso": "2026-07-20T23:02:21Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.digitaltrends.com/wearables/this-smart-ring-makes-a-blood-pressure-promise-apple-and-oura-still-wont/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-07-16T13:32:53+00:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2025/02/best-smart-rings-testing-flying-digital-trends-2.jpg?resize=1200%2C630",
-      "excerpt": "A new AI smart ring is promising continuous blood-pressure monitoring — a health metric Apple and Oura still won't commit to — pushing AI-driven smart-ring health tracking into new territory."
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-07-10T16:58:53Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7mqMxYN2TCm5aj9QooiDgH-1920-80.jpg",
-      "excerpt": "SK hynix and TetraMem are building a memristor-based in-memory-compute SoC aimed at slashing power draw for on-device edge-AI inference in lightweight models on future gadgets."
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-07-10T10:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg",
-      "excerpt": "Samsung is readying its Gaia AI accelerator NPU for client PCs, with HP and Lenovo reportedly validating the chip for future on-device generative-AI laptops."
-    },
-    {
-      "url": "https://www.androidauthority.com/dreame-x60-max-ultra-review-3684554/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-07-11T11:15:36+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Dreame-X60-Max-Ultra-tile.jpg",
-      "excerpt": "Dreame's flagship robot vacuum uses dual AI cameras and proactive illumination to detect 280 types of obstacles, showing how far on-device AI vision has come in home robots."
-    },
-    {
-      "url": "https://www.androidauthority.com/samsung-galaxy-unpacked-july-2026-what-to-expect-3688548/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-07-18T09:00:56+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-unpacked-july-2026.jpg",
-      "excerpt": "Ahead of the July 22 Unpacked, Samsung's foldables are set to debut new Galaxy AI features like Gemini-powered real-time Scam Detection across the Z Fold 8 and Z Flip 8."
-    },
-    {
-      "url": "https://9to5google.com/2026/07/07/samsung-galaxy-z-fold-8-launch-event-date-confirmed/",
+      "url": "https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-07-07T23:00:00+00:00",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-unpacked-invite-july-22-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Samsung confirmed its July 22 Galaxy Unpacked for the Z Fold 8 series and Watch 9, with Galaxy AI on-device features expected front and center."
+      "published_iso": "2026-07-07T18:25:00-07:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&strip=all&w=1200",
+      "excerpt": "Meta is rolling out a mandatory v26 update that disables the camera on its Ray-Ban and Oakley smart glasses if the privacy LED is physically tampered with or destroyed, hardening the AI camera-glasses against privacy circumvention."
     },
     {
-      "url": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
+      "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-07-14T14:37:00-07:00",
+      "og_image": "https://images.macrumors.com/t/FMZ4VEFNaWhhfL2H4pxHQCZlJ6w=/400x0/article-new/2025/11/openai-chatgpt-logo.jpg?lossy",
+      "excerpt": "OpenAI's first hardware product will reportedly be a portable, screenless smart speaker designed as a 'humanlike AI companion' for the home, with a camera, sensors, moving mechanical elements and ChatGPT at its core."
+    },
+    {
+      "url": "https://gizmodo.com/what-were-expecting-at-samsungs-july-galaxy-unpacked-2026-2000787025",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-07-19T08:45:00-04:00",
+      "og_image": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48.jpg",
+      "excerpt": "Ahead of the July 22 Unpacked, Samsung is expected to debut the Galaxy Z Fold 8, Z Flip 8 and new smartwatches with expanded Galaxy AI features spanning predictive, agentic and generative photo-editing tools."
+    },
+    {
+      "url": "https://9to5google.com/2026/07/08/gemini-nest-hub-answer-weather-redesign/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-08T11:21:00-07:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/Gemini-Nest-Hub-Audio-cover-1.jpg",
+      "excerpt": "Gemini for Home is upgrading the Nest Hub and Smart Display experience with redesigned visual cards for weather forecasts and knowledge answers, using new Material 3 layouts as the AI assistant takes over Google's smart home."
+    },
+    {
+      "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-07-07T12:35:00-04:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Roomba-Plus-575-mopping.jpg",
+      "excerpt": "iRobot launched five new self-emptying Roomba robot vacuums under new owner Picea Robotics, led by the Roomba Max 775 with AI-driven navigation, a self-covering roller mop and a dock that washes mops with 165-degree water."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4/",
       "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-06T19:27:07+00:00",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Apple has added a new privacy popup for Apple Intelligence features that offload processing to Google Cloud, a signal of its Gemini-assisted Siri overhaul coming to iPhones."
+      "published_iso": "2026-07-20T10:05:00-07:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-27-b4.jpg",
+      "excerpt": "iOS 27 beta 4 continues Apple's rollout of the revamped Siri AI, bringing richer on-device conversations, personal context, on-screen awareness and deeper in-app actions to iPhones this summer."
     },
     {
-      "url": "https://gizmodo.com/finally-a-robot-designed-to-make-chatting-with-mark-zuckerberg-feel-natural-2000784133",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-07-10T16:20:27+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/RoberttheRobot-1200x675.jpg",
-      "excerpt": "A humanoid robot shown at the UN AI for Good summit is designed for natural face-to-face conversation, underscoring the push toward AI-driven companion and home robots."
-    },
-    {
-      "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
+      "url": "https://www.notebookcheck.net/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.1346280.0.html",
       "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-07-08T21:00:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG",
-      "excerpt": "Microsoft's Surface Laptop 13.8 (2026) moves to Qualcomm's Snapdragon X2 Plus with an 80 TOPS NPU, bringing big performance and battery gains for Copilot+ on-device AI."
-    },
-    {
-      "url": "https://www.tomsguide.com/computing/smart-glasses/ive-traveled-over-50-000-miles-testing-smart-glasses-in-2026-here-are-my-3-favorites-that-have-launched-this-year-so-far",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-07-07T09:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/G3Xc3jkMkkFvQMKqYnBi4k-1992-80.jpg",
-      "excerpt": "After a year of hands-on testing, Tom's Guide picks its three favorite AI smart glasses launched in 2026 so far, spanning display and audio-first AI eyewear designs."
-    },
-    {
-      "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-07-15T17:25:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
-      "excerpt": "OpenAI unveiled its first hardware product — the $230 Codex Micro, a programmable macro pad made with Work Louder for its AI coding agent, with 13 mechanical switches, a touch sensor, rotary dial, and joystick."
-    },
-    {
-      "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-15T14:31:00-04:00",
-      "og_image": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/intro-1784140173.jpg",
-      "excerpt": "OpenAI's Codex Micro, a $230 keypad developed with keyboard maker Work Louder, has six frosted keys with LEDs that track the status of Codex agents plus a dial to adjust reasoning level."
-    },
-    {
-      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-15T04:37:00-04:00",
-      "og_image": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
-      "excerpt": "OpenAI's first hardware device will reportedly be a portable, screenless 'humanlike AI companion' speaker using an advanced version of GPT-Live to converse naturally and control smart home gadgets."
-    },
-    {
-      "url": "https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-07-14T20:12:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone.jpg",
-      "excerpt": "Per Bloomberg's Mark Gurman, OpenAI's Jony Ive device collaboration will reportedly be a screenless smart speaker with mechanical components that can move, designed to act as an AI companion."
-    },
-    {
-      "url": "https://www.androidauthority.com/gemini-for-home-visual-improvements-3685543/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-07-08T16:34:00-04:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-nest-hub-google-home-speaker-hero-1-scaled.jpg",
-      "excerpt": "Google Home is rolling out visual enhancements for weather and sports on smart displays, and Gemini's voice assistant now handles back-to-back commands more reliably without interrupting for voice verification."
-    },
-    {
-      "url": "https://www.engadget.com/2202348/nothing-announces-ear-3a-sub-dollar100-anc-earbuds/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-07T06:30:00-04:00",
-      "og_image": "https://www.engadget.com/img/gallery/nothing-announces-ear-3a-sub-100-anc-earbuds/intro-1782482143.jpg",
-      "excerpt": "Nothing's shipping $99 Ear (3a) earbuds add an on-device Audio Snapshot recorder — pinch to capture up to 60 seconds — with AI transcription, summaries and speaker ID in the Nothing X app, plus ChatGPT integration."
+      "published_iso": "2026-07-19T01:48:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg",
+      "excerpt": "BrainCo demonstrated a brain-controlled robot AI platform at Shanghai's 2026 World AI Conference: an EEG headset reads brain signals and decodes them into robot commands within 200 milliseconds, hands-free."
     }
   ]
 }

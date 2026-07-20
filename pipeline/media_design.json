@@ -1,7 +1,10 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "design",
   "media": [
-    { "id": "meta-regret", "type": "image", "src": "pipeline/media/meta-regret.jpg" }
+    { "id": "nvidia", "type": "video", "src": "pipeline/media/nvidia.mp4", "poster": "pipeline/media/nvidia.jpg" },
+    { "id": "lightcraft", "type": "image", "src": "pipeline/media/lightcraft.jpg" },
+    { "id": "inversphere", "type": "image", "src": "pipeline/media/inversphere.jpg" },
+    { "id": "style-refs", "type": "image", "src": "pipeline/media/style-refs.png" }
   ]
 }

@@ -6,258 +6,133 @@
     "label": "Design",
     "news": [
       {
-        "id": "meta-regret",
+        "id": "nvidia",
         "eyebrow": "AI NEWS",
-        "headline": "메타의 AI 툴 철회 사과,\n창작자를 향한 진심일까",
-        "body": "접었던 AI 창작 툴에 메타가 뒤늦게 건넨 사과, 창작자를 위한 진심인지 그저 뒷수습인지 되묻는다.",
+        "headline": "어도비·블렌더·언리얼 안으로\nAI 에이전트가 들어오다",
+        "body": "MCP 연동으로 AI 에이전트가 어도비·블렌더·언리얼 안에서 장면을 살피고 색 오류를 짚어낸다.",
         "tool": "AI Workflow",
-        "source": "Creative Bloq",
-        "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",
+        "source": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
         "accent": "#ff5a4d",
         "motif": "frame",
         "full": {
           "mode": "summary",
           "blocks": [
             {
+              "t": "p",
+              "x": "SIGGRAPH 2026에서 엔비디아가 크리에이티브 전문가를 위한 에이전트형 AI를 선보였다. 핵심은 Model Context Protocol(MCP) 연동으로, AI 비서가 어도비와 블렌더, 언리얼 엔진 같은 디자인 앱 안에서 곧바로 동작한다."
+            },
+            {
               "t": "img",
-              "src": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg"
+              "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/mcp-main-feature-1680x948.jpg"
             },
             {
               "t": "p",
-              "x": "메타가 밀어붙이던 AI 창작 툴을 슬그머니 접고 뒤늦게 유감을 내비쳤다. Creative Bloq는 이 사과를 곧이곧대로 받아들이지 않는다."
+              "x": "에이전트는 장면을 점검하고 색상 문제를 짚어내며, 내보내기용 변형본을 미리 준비한다. 손이 많이 가던 반복 작업을 대신 맡는 셈이다."
             },
             {
               "t": "p",
-              "x": "글의 비유가 날카롭다. 집을 털어 어질러 놓고선 미안하다고 말하는 도둑 같다는 얘기다. 피해가 다 벌어진 뒤에야 나온 사과라면, 창작자를 향한 진심보다는 사태를 덮으려는 몸짓에 가깝다."
-            },
-            {
-              "t": "p",
-              "x": "결국 남는 물음은 신뢰다. 플랫폼이 AI 기능을 내놓고 거두고 번복하는 결정 하나하나가 창작자가 기대어 쓰는 도구의 판을 흔든다. 무엇을 믿고 작업에 태울지, 이 글이 던지는 진짜 질문이다."
+              "x": "그러면서도 창작의 결정권은 아티스트 손에 남는다. 도구가 판단을 대신하는 게 아니라, 곁에서 거드는 방식이다."
             }
           ]
         },
-        "image": "pipeline/media/meta-regret.jpg"
+        "video": "pipeline/media/nvidia.mp4",
+        "poster": "pipeline/media/nvidia.jpg",
+        "image": "pipeline/media/nvidia.jpg"
+      },
+      {
+        "id": "lightcraft",
+        "eyebrow": "AI NEWS",
+        "headline": "대본을 가상 촬영장으로\n아이폰 한 대로 완성한다",
+        "body": "대본만으로 가상 세트를 짓고, 실제 장소 없이 아이폰 한 대로 장면을 찍게 해주는 도구다.",
+        "tool": "KeyShot",
+        "source": "Creative Bloq",
+        "url": "https://www.creativebloq.com/3d/i-watched-lightcraft-turn-a-screenplay-into-a-virtual-film-set-using-an-iphone",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "SIGGRAPH 2026에서 공개된 라이트크래프트의 Spark Story를 직접 만져봤다. 대본을 먼저 놓고 시작하는 버추얼 프로덕션 도구로, 작가와 감독, 촬영감독이 함께 가상 촬영장을 짓고 찍어볼 수 있다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.mos.cms.futurecdn.net/nzsdtuoJAMKAHiWHUjmMgZ-1600-80.jpg"
+            },
+            {
+              "t": "p",
+              "x": "촬영은 아이폰 한 대면 된다. 실제 장소나 세트가 아직 없어도, 대본 단계에서 이미 장면을 잡아볼 수 있다는 점이 눈에 띈다."
+            },
+            {
+              "t": "p",
+              "x": "물리적 공간이 마련되기 훨씬 전부터 화면 구성과 동선을 확인하는 셈이라, 사전 시각화의 문턱을 크게 낮춘다."
+            }
+          ]
+        },
+        "image": "pipeline/media/lightcraft.jpg"
+      },
+      {
+        "id": "inversphere",
+        "eyebrow": "AI NEWS",
+        "headline": "360도 세계를 통째로\n하나의 구에 접어 담다",
+        "body": "개발자 VoxelKei가 360도 환경 전체를 하나의 구에 접어 3D 가우시안 스플래팅으로 보여준다.",
+        "tool": "KeyShot",
+        "source": "80 Level",
+        "url": "https://80.lv/articles/folding-entire-360-degree-worlds-into-one-sphere-with-3dgs",
+        "accent": "#3b6bff",
+        "motif": "sphere",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "VoxelKei라는 개발자가 'inversphere'를 공개했다. 360도 환경 전체를 하나의 구 안으로 접어 넣어, 3D 가우시안 스플래팅 장면을 담고 보여주는 기법이다."
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.80.lv/api/upload/meta/49357/images/6a5e371c6f2a0/contain_1200x630.jpg"
+            },
+            {
+              "t": "p",
+              "x": "촬영과 표시를 함께 아우르는 새로운 접근으로, 실시간 3D와 렌더 작업에 곧장 이어진다. 익숙한 스플래팅 장면을 다루는 방식 자체를 다시 짜본 시도다."
+            }
+          ]
+        },
+        "image": "pipeline/media/inversphere.jpg"
+      },
+      {
+        "id": "style-refs",
+        "eyebrow": "AI NEWS",
+        "headline": "프롬프트를 늘리기보다\n스타일 레퍼런스를 건네라",
+        "body": "프롬프트에 단어를 더 쌓을수록 효과는 줄고, 시각 레퍼런스를 주는 편이 결과를 안정적으로 되풀이한다.",
+        "tool": "AI Workflow",
+        "source": "DEV Community",
+        "url": "https://dev.to/chen_mensen_ac0fc78dae2a4/i-stopped-making-my-ai-image-prompts-longer-style-references-helped-more-4h2m",
+        "accent": "#eb367f",
+        "motif": "frame",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "AI 이미지 프롬프트에 단어를 계속 덧붙여도 얻는 게 점점 줄어든다는 이야기다. 문장을 길게 늘리는 방식으로는 원하는 그림을 붙잡기 어렵다."
+            },
+            {
+              "t": "p",
+              "x": "대신 시각적 스타일 레퍼런스를 건네면 결과를 훨씬 또렷하고 일관되게 잡아낼 수 있다. 같은 느낌을 반복해 뽑아내기도 쉬워진다."
+            },
+            {
+              "t": "p",
+              "x": "말로 다 설명하려 애쓰기보다 보여주는 편이 낫다는 것. 크리에이티브 AI를 다루는 손끝의 방식이 조금 달라지는 지점이다."
+            }
+          ]
+        },
+        "image": "pipeline/media/style-refs.png"
       }
     ],
     "days": [
-      {
-        "date": "2026-07-15",
-        "cards": [
-          {
-            "id": "canva-code2",
-            "eyebrow": "AI NEWS",
-            "tool": "Figma",
-            "headline": "프롬프트가 웹사이트가 된다 Canva Code 2.0, 무료까지 개방",
-            "body": "Canva가 평범한 문장을 인터랙티브 웹사이트와 앱으로 바꿔주는 Code 2.0을 무료 계정까지 모두에게 열었다.",
-            "source": "VentureBeat",
-            "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/canva-code2.jpg",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "Canva가 화요일 Canva Code 2.0을 내놨다. 평범한 말로 쓴 프롬프트로 인터랙티브 웹사이트와 앱, 각종 경험을 만들고, 그 결과를 Canva 프레젠테이션 고치듯 손보게 해주는 AI 코딩 도구의 큰 업그레이드다. 이번엔 월 2억 6,500만 명이 넘는 전체 이용자에게, 무료 계정까지 포함해 모든 요금제에서 열렸다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=1200&q=60",
-                  "cap": "프롬프트가 완성된 웹사이트로 바뀌는 모습"
-                },
-                {
-                  "t": "p",
-                  "x": "'바이브 코딩' 시장을 향한 Canva의 가장 공격적인 행보다. 18개월 전만 해도 없다시피 하던 분야가 벌써 조 단위 스타트업을 여럿 냈다. Lovable, Replit, Bolt.new 같은 경쟁사가 프롬프트로 돌아가는 코드를 뽑는 데 집중했다면, Canva는 다르게 건다. 진짜 병목은 코드가 아니라 결과물을 보기 좋게 만드는 데 있다는 판단이다."
-                },
-                {
-                  "t": "p",
-                  "x": "Canva의 AI 제품 총괄 Danny Wu는 VentureBeat 인터뷰에서 겨냥하는 대상을 분명히 했다. \"우리는 의도적으로 비개발자를 겨냥하고 있다\"고 그는 말했다. Canva Code는 개발자용이 아니라, AI 코딩의 힘을 Canva 안으로 들여와 더 많은 상호작용과 맞춤 편집, 유연함을 원하는 이용자 요구에 답하려는 것이라고 했다."
-                },
-                {
-                  "t": "p",
-                  "x": "이번 업데이트엔 코드 생성과 완성된 결과물 사이의 거리를 좁히는 기능이 여럿 담겼다. 화이트보드나 프레젠테이션, 단독 페이지 안에서 바로 Canva Code 프로젝트를 만들고, 인터랙티브 디자인용 템플릿 50종 이상이 새로 붙었다. 다른 AI 코딩 도구에서 만든 원본 HTML을 불러와 편집 가능한 Canva 디자인으로 바꾸는 기능도 들어갔다."
-                },
-                {
-                  "t": "p",
-                  "x": "성능도 눈에 띄게 나아졌다. Canva는 평균 코드 생성 시간을 75% 줄였고, 첫 프롬프트에서 사이트 게시까지 걸리는 중간값 시간을 30% 단축했다고 밝혔다. Canva Code를 편집기 전반에 통합해 코딩 결과물을 여느 디자인 요소처럼 다루게 하면서 활성 Code 이용자가 25% 늘었다고도 했다."
-                },
-                {
-                  "t": "p",
-                  "x": "가장 두드러지는 건 편집 경험이다. 생성된 요소를 직접 클릭해 글자를 바꾸고, Canva의 1억 2,000만 개가 넘는 템플릿·소재에서 이미지를 끌어다 놓고, 툴바로 색과 글꼴을 바꾸거나, 특정 요소를 골라 대화형 AI로 다듬는다. 결과물은 완전히 인터랙티브하고 화면 크기에 맞춰 자동 조정되며 모바일 미리보기도 있다."
-                },
-                {
-                  "t": "p",
-                  "x": "Luminix AI가 2026년 5월 낸 조사에 따르면 바이브 코딩·AI 앱 빌더 시장은 2026년 47억 달러 규모로, 2027년 123억 달러까지 연 38%가량 성장할 전망이다. 전 세계 코드의 약 41%가 이미 AI가 만든 것으로 추정된다. Lovable은 2026년 초 연간 반복 매출(ARR) 약 4억 달러에 이르렀고, Replit은 기업가치를 90억 달러로 세 배 키우며 연말 10억 달러 런레이트를 노린다. Bolt.new는 몇 달 만에 ARR을 400만 달러에서 4,000만 달러로 늘렸다."
-                },
-                {
-                  "t": "p",
-                  "x": "HTML 불러오기는 ChatGPT, Claude, Lovable, Bolt 등 어떤 도구로 만든 코드든 편집 가능한 Canva 디자인으로 가져온다. AI가 만든 코드가 마무리 손질을 받는 곳으로 Canva를 앉히려는 포석이다. Canva Code를 돌리는 모델은 OpenAI와 Anthropic을 포함해 자체 모델과 외부 모델을 섞지만 정확한 조합은 공개하지 않았다. 도입 1년 만에 이용자가 게시한 사이트는 600만 개를 넘겼다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "tokens-prompts",
-            "eyebrow": "AI NEWS",
-            "tool": "Design Tokens",
-            "headline": "디자인 토큰은 이제 AI가 읽는 프롬프트다",
-            "body": "디자인 시스템을 읽는 쪽이 사람 엔지니어에서 AI 모델로 바뀌면서, 토큰은 UI를 만드는 프롬프트로 다시 정의된다.",
-            "source": "DEV Community",
-            "url": "https://dev.to/mauriciojuba/design-tokens-are-prompts-now-fif",
-            "accent": "#2ec5c5",
-            "motif": "swatch",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "10년 동안 저자는 사람 엔지니어를 위해 디자인 토큰을 썼다. 2026년, 디자인 시스템을 소비하는 주체의 종이 바뀌었다. 토큰은 늘 계약이었다. 우리가 뜻하는 파란색은 이것, 간격 리듬은 이것이라고 데이터로 적어, 디자이너 없이도 코드가 그 값을 쓰게 한 약속이다."
-                },
-                {
-                  "t": "p",
-                  "x": "저자는 Dell에서 그 생각으로 토큰 구조를 다시 세웠다. 토대는 탄탄했지만 시스템은 블랙박스처럼 멈춰 있었다. 진짜 걸림돌은 경영진이 짐작한 거버넌스가 아니라, 토큰을 디자이너가 디자이너를 위해 이름 붙였고 내보내기 파이프라인이 없다는 점이었다. 정작 토큰을 쓰는 프런트엔드 엔지니어가 이름 짓기에서 빠졌다. 단순화한 코어에 시맨틱 위계를 얹고 라이트·다크를 갖춰 JSON과 CSS로 dell.com 전 화면에 배포했다. 교훈은 하나다. 이름 짓기는 제품 결정이고, 글쓴이가 아니라 실제 소비자에 맞춰야 한다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0rrc7gvfxwh373tz90i.png",
-                  "cap": "토큰이 곧 기계를 위한 프롬프트가 된 흐름"
-                },
-                {
-                  "t": "p",
-                  "x": "그 소비자가 또 바뀌었다. 2026년엔 새 UI 코드의 상당수를 기계가 만든다. 설문에 답한 디자이너의 절반이 AI가 생성한 코드를 프로덕션에 올려봤다고 답했다. Claude Design은 팀의 디자인 시스템을 코드베이스에서 바로 읽어 적용하고, Figma는 네이티브 AI 디자인 에이전트를 내놨다. 제품팀마다 코딩 에이전트가 디자인 리뷰가 못 따라잡을 속도로 컴포넌트를 뱉는다."
-                },
-                {
-                  "t": "p",
-                  "x": "생성된 UI엔 특유의 실패 방식이 있다. 기억 없는 속도다. 세션마다 모델마다 프롬프트마다 제 나름의 여백과 회색, 모서리 둥글기를 지어낸다. 하나씩 보면 그럴듯한데 모으면 어긋난다. 예전엔 조직이 몇 분기에 걸쳐 겪던 드리프트를 에이전트 무리는 반나절이면 만든다."
-                },
-                {
-                  "t": "p",
-                  "x": "여기서 로드맵이 바뀐다. 에이전트가 UI를 생성할 때 읽는 건 Figma 라이브러리가 아니라 저장소다. 토큰 파일, 컴포넌트 시그니처, 파싱되는 형식이면 문서까지. Figma도 Dev Mode MCP 서버를 두고 결과물 품질이 시스템의 연결도를 따라간다고 했고, 기록된 실패 방식은 기계가 못 읽을 때 하드코딩된 값이 끼어드는 것이다. 이제 기계를 마주하는 면이 주된 인터페이스다. 토큰 파일은 내보내기 산출물이길 그만두고 프롬프트가 됐다."
-                },
-                {
-                  "t": "p",
-                  "x": "토큰이 프롬프트라면 새 문제가 생긴다. 프롬프트는 제안이라, 모델도 바쁜 사람처럼 따르다 만다. 관습에 기댄 거버넌스는 늘 무너졌고, 무너지지 않는 유일한 집행 지점은 빌드다. 저자는 Rust로 만든 저작 IDE를 위해 shadcn/ui 디자인 언어를 egui용으로 다시 만들며 컴포넌트 60개 이상을 토큰 우선으로 지었다. 토큰 계층 위 어디든 색·글꼴 크기·간격 리터럴이 박히면 빌드가 깨지도록 테스트로 못 박았다. 몇 주 동안 매일 코딩 에이전트와 짝을 이뤘는데도 시스템은 드리프트하지 않았다. 모델이 절제해서가 아니라 빌드가 그렇게 만들어서다."
-                },
-                {
-                  "t": "p",
-                  "x": "목업은 애초에 제품이 아니었고, 이제는 컴포넌트 라이브러리조차 제품이 아니다. 제품은 생성된 화면 천 개를 여전히 당신 것으로 알아보게 하는 제약 시스템이다. 그 일은 취향과 위계, 의도지만 토큰·테스트·타입·문서로 실린다. 그 계층을 쓸 줄 아는 디자이너가 조직에서 가장 레버리지가 큰 사람이 되고 있다. 브랜드 가이드라인 PDF는 두 번 죽었다. 처음엔 사람이 산문이 아니라 데이터를 원해 토큰이 대체했고, 이제 기계를 마주하는 면이 주가 되며 그 산문이 다시 죽는다. 디자인 토큰은 이제 프롬프트다. 빌드가 리뷰어다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "generative-ui2",
-            "eyebrow": "AI NEWS",
-            "tool": "Figma",
-            "headline": "스스로 재배치되는 상점 생성형 UI, 두 번째 실험",
-            "body": "가상 쇼퍼 200명을 돌린 실험은 페이지 단위 생성형 UI가 보기보다 상용화에 가깝다는 걸 보여준다.",
-            "source": "DEV Community",
-            "url": "https://dev.to/mauriciojuba/the-store-that-rearranges-itself-generative-ui-part-2-2mn9",
-            "accent": "#3b6bff",
-            "motif": "frame",
-            "image": "pipeline/media/generative-ui2.png",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "1편의 주장은 단순했다. 웹페이지가 유능한 판매원처럼 굴 수 있다는 것이다. 동의 아래 관찰하고, 행동으로 분류하고, 방문자마다 마찰을 없앤다. 다만 런타임 동작을 두고 하는 말은 시험 전엔 이론일 뿐이다. 그래서 저자는 ui-morph로 IBM Carbon 위에 이커머스 상점을 통째로 만들어, 진입 페이지부터 주문 확인까지 실제 모델이 화면 변형을 제안하고 결정론적 가상 쇼퍼 200명을 재생하는 실험실을 돌렸다. 개념은 성립했고 경제성도 맞았다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs7guf3zv61k8bd71n6je.png",
-                  "cap": "다섯 쇼퍼, 한 상점, 같은 다섯 조작 — 페르소나만 달랐다"
-                },
-                {
-                  "t": "p",
-                  "x": "NOVA라 부르는 시연 상점은 노트북과 장비를 판다. 버전은 하나, 페이지당 HTML 하나, 경로당 매니페스트 하나, 허용된 조작은 다섯 가지다. 보이는 차이는 전부 방문자의 양자화된 페르소나를 보고 엔진이 내린 결정에서 나왔다. 기술에 밝은 방문자는 데이터 우선의 다크 테마를, 게이머는 보라색 강조가 든 g100 토큰을 받는다. 둘 다 남들과 똑같은 URL로 들어왔다."
-                },
-                {
-                  "t": "p",
-                  "x": "가장 눈에 띄는 건 기술색이 옅은 페르소나다. \"Dona Marta\"는 \"laptop fino branco presente\"(선물용 얇고 흰 노트북) 광고를 보고 들어오고, 그 검색어가 곧 첫 신호가 된다. 상품 페이지에선 엔진이 갤러리를 사양표 앞으로 옮기고, 일상 사물과 크기를 비교해 보여주고, 흰색을 미리 골라두고, 사양은 접고, 결제는 게스트 모드로 보낸다. 조작마다 이유를 감사 로그에 평범한 말로 남긴다. 이 페이지들을 페르소나별로 만든 디자이너는 없다. 엔진이 페이지가 이미 선언해 둔 어휘에서 골라 짜맞췄을 뿐이다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5iqwq5kwh1ddw23tklvd.webp",
-                  "cap": "Dona Marta의 상품 페이지: 갤러리 먼저, 크기 비교, 흰색 기본 선택"
-                },
-                {
-                  "t": "p",
-                  "x": "1편의 핵심 약속은 사전 적응이었다. 방문자가 현재 페이지에 머무는 동안 다음 페이지의 변경을 미리 컴파일해 경계에서 적용하면, 레이아웃이 커서 밑에서 움직이지 않는다. 실험실은 씨앗을 심은 스크립트 쇼퍼를 퍼널 전체에 결정론적으로 재생했다. 200개 세션에서 페이지 도착은 1,000회를 넘겼고, 그중 72%가 캐시에서 응답됐다. 정확한 히트와 유사도 대체가 반씩이다. 세션 초반엔 페이지마다 페르소나가 자라 정확한 키가 자꾸 빗나갔지만, 양자화된 키의 결정론적 유사도가 그 틈을 메워 이제 전체 도착의 3분의 1을 홀로 감당한다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftsewceyfre1smtuv3f0w.webp",
-                  "cap": "이용자가 이전 페이지에 있는 동안 미리 맞춰진 액세서리 페이지"
-                },
-                {
-                  "t": "p",
-                  "x": "여정 대부분에서 콜드 패스는 사람이 쓴 결정론적 목업이었다. 이후 실제 모델이 넘겨받아 같은 선물 페르소나를 두고 다르지만 그럴 법한 선택을 했다. 히어로는 살리고 비교표는 감추고 선물 가이드를 앞세웠다. 중간값 교환엔 방문자가 한 번도 기다린 적 없는 배경 시간 5.5초가 들었다."
-                },
-                {
-                  "t": "p",
-                  "x": "20년 동안 인터페이스 디자인은 모두에게 하나의 배치를 고르는 일이었다. 가장 믿는 페르소나를 정하면 페이지가 얼어붙고 나머지는 절충안을 본다. 생성형 UI는 그 제약을 없애고 디자이너의 매체를 한 단계 올린다. 배치가 아니라 허용된 배치의 공간을 만든다. 무엇이 움직여도 되는지, 어떤 변형과 테마를 내줄지, 보호 구역과 읽을 특성·목표를 정한다. 엔진이 읽어낸 순간 Dona Marta는 이미 있던 컴포넌트로 자기 페이지를 받았다. 롱테일을 섬기는 경제성이 뒤집힌다."
-                },
-                {
-                  "t": "p",
-                  "x": "다음 단계는 순서가 정해져 있다. 페르소나를 돕지 못한 체인이 스스로 퇴출·재컴파일되는 결과 피드백 루프, React와 Vue 상점 어댑터, 매핑 안 된 검색어 12개를 살린 더 풍부한 특성 어휘, 컴파일된 적응을 공동 지식으로 바꾸는 공유 체인 스토어, 실제 트래픽이 도는 실사이트 파일럿이다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "novineer-cad",
-            "eyebrow": "AI NEWS",
-            "tool": "Text-to-CAD",
-            "headline": "AI가 역설계하고 스스로 설계하는 제조",
-            "body": "Novineer의 Ali Tamijani가 적층 제조와 제품 설계를 겨냥한 AI 기반 역설계·제너레이티브 디자인 도구를 풀어놓는다.",
-            "source": "DEVELOP3D",
-            "url": "https://develop3d.com/3d-printing/qa-ali-tamijani-ceo-of-novineer/",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/novineer-cad.jpg",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "DEVELOP3D가 스타트업 Novineer의 CEO Ali Tamijani를 만났다. Novineer 플랫폼은 역설계부터 성능 시뮬레이션, 적층 제조용 제너레이티브 디자인까지 아우르는 AI 기반 도구 묶음이다. 먼저 NoviVision은 스마트폰 사진 몇 장으로 약 2분 만에 편집 가능한 CAD 모델을 만들어, 전용 장비와 3D 스캔, 수작업 복원을 대신한다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://develop3d.com/wp-content/uploads/2026/07/Novineer_NoviVision-Heropng.jpg",
-                  "cap": "Novineer의 NoviVision"
-                },
-                {
-                  "t": "p",
-                  "x": "이어 NoviPath는 적층 제조 부품의 강성·강도·파손을 인쇄 전에 예측하는 폴리머 성능 시뮬레이션 도구다. 인쇄 부품을 균일한 고체로 보는 기존 FEA와 달리, 실제 툴패스 데이터로 재료 압출의 층별 특성을 반영한다. Stratasys의 GrabCAD Print Pro와 전략적 제휴로 통합돼 있다. NoviDesign은 제너레이티브 디자인을 맡아, 편집·제조가 가능한 최적화된 CAD 모델을 뽑아 묶음을 완성한다."
-                },
-                {
-                  "t": "p",
-                  "x": "가장 큰 효과가 나는 곳은 적층 제조(AM) 위탁 제조사다. CNC나 사출로 만들던 부품을 이제 FDM으로 찍고 싶어 하는 고객이다. 예로 한 대형 항공사가 좌석 팔걸이 부품을 교체하려 하는데, 위탁사엔 3D 모델이 없어 엔지니어와 스캐너를 격납고로 보내 좌석을 뜯고 스캔해야 한다. 설계에 들어가도 파손 하중 기준 물성 데이터가 없어 범용 FEA에 기댄다. 이후 3D 프린팅 테스트와 다른 기관의 인증을 거친다. 전 과정에 약 3주, 비용은 1만 5,000달러에서 2만 달러가 든다."
-                },
-                {
-                  "t": "p",
-                  "x": "Novineer를 쓰면 항공사 직원이 사진 몇 장과 기본 참고 데이터만 넘기면 된다. NoviVision이 이미지를 AI로 처리해 3D 모델을 만들어, 격납고에 가지 않고도 견적을 낸다. 출장도 스캐너도 사라진다. Stratasys 소재처럼 잘 알려진 FDM 소재는 물성 데이터가 있어 따로 시험할 필요가 없고, NoviPath로 실제 인쇄에 쓸 툴패스 데이터 그대로 시뮬레이션한다. Tamijani는 말한다. \"우리 방식이 물리적 시험을 대체하나요? 아닙니다. 하지만 설계 과정의 모든 반복에 시험이 필요한 건 아닙니다. 끝까지 미뤄도 됩니다.\""
-                },
-                {
-                  "t": "p",
-                  "x": "AI가 어디에 쓰이냐는 물음에 그는 AI 자체가 목표는 아니라고 답한다. 문제는 CAD 모델이 없을 때 어떻게 하느냐다. 대형 언어 모델(LLM)은 정확도에 따라 사진 네댓 장에서 모델을 얻도록 돕는다. 정확한 시뮬레이션엔 작고 촘촘한 요소가 많이 필요해 시간이 걸리는데, 머신러닝이 촘촘한 메시를 성긴 메시로 바꿔 해석한 뒤 다시 되돌린다. AI는 특정 작업을 거들 뿐 엔지니어링 사고나 물리를 대체하진 않는다."
-                },
-                {
-                  "t": "p",
-                  "x": "AI 플랫폼은 직접 만든다. 항공우주·방위 분야에선 사설 서버에 둬야 해, 다른 플랫폼에 올리면 늘 클라우드에 묶이기 때문이다. 그래서 클라우드용과 사설 서버용을 함께 낸다. 성장은 전략 파트너 Stratasys를 통해 OEM과 위탁 제조사 수백 곳과 닿고, 또 다른 파트너 AM Craft는 EASA 인증으로 비행 부품 3만 5,000개 이상을 만들어 항공사·MRO·OEM에 공급하며 Novineer를 항공사·항공우주 OEM과 이어준다."
-                },
-                {
-                  "t": "p",
-                  "x": "지금 NoviVision의 정확도는 부품에 따라 95~97% 수준으로 평균 오차가 3%다. 1%일 때도 2%일 때도 있다. 그 정도로는 더 정밀한 모델이 필요한 절삭 가공엔 맞지 않아 당분간은 AM에 집중한다. 다만 부품을 일일이 그리는 대신 보유 부품을 한눈에 파악하는 디지털 지도를 만드는 데도 쓸 수 있다."
-                }
-              ]
-            }
-          }
-        ]
-      },
       {
         "date": "2026-07-16",
         "cards": [
@@ -945,6 +820,44 @@
             }
           }
         ]
+      },
+      {
+        "date": "2026-07-20",
+        "cards": [
+          {
+            "id": "meta-regret",
+            "eyebrow": "AI NEWS",
+            "tool": "AI Workflow",
+            "headline": "메타의 AI 툴 철회 사과, 창작자를 향한 진심일까",
+            "body": "접었던 AI 창작 툴에 메타가 뒤늦게 건넨 사과, 창작자를 위한 진심인지 그저 뒷수습인지 되묻는다.",
+            "source": "Creative Bloq",
+            "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",
+            "accent": "#ff5a4d",
+            "motif": "frame",
+            "image": "pipeline/media/meta-regret.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg"
+                },
+                {
+                  "t": "p",
+                  "x": "메타가 밀어붙이던 AI 창작 툴을 슬그머니 접고 뒤늦게 유감을 내비쳤다. Creative Bloq는 이 사과를 곧이곧대로 받아들이지 않는다."
+                },
+                {
+                  "t": "p",
+                  "x": "글의 비유가 날카롭다. 집을 털어 어질러 놓고선 미안하다고 말하는 도둑 같다는 얘기다. 피해가 다 벌어진 뒤에야 나온 사과라면, 창작자를 향한 진심보다는 사태를 덮으려는 몸짓에 가깝다."
+                },
+                {
+                  "t": "p",
+                  "x": "결국 남는 물음은 신뢰다. 플랫폼이 AI 기능을 내놓고 거두고 번복하는 결정 하나하나가 창작자가 기대어 쓰는 도구의 판을 흔든다. 무엇을 믿고 작업에 태울지, 이 글이 던지는 진짜 질문이다."
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   },
@@ -952,105 +865,79 @@
     "label": "Music",
     "news": [
       {
-        "id": "google-ai-mode-ytmusic",
-        "tool": "Music",
+        "id": "audiotool3",
         "eyebrow": "AI NEWS",
-        "headline": "구글 AI 모드가 유튜브 뮤직과 이어져\n대화만으로 플레이리스트를 짠다",
-        "body": "구글 검색의 AI 모드가 유튜브 뮤직과 이어졌다. 프롬프트 한 줄로 플레이리스트를 만들고 대화로 결을 맞춘다.",
-        "source": "Engadget",
-        "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
+        "headline": "오디오툴 3.0, 브라우저 협업 DAW를\n창작 도구 오픈 플랫폼으로",
+        "body": "오픈소스 SDK 넥서스로 창작자가 악기와 AI 도구를 브라우저 DAW에 직접 붙여 쓴다.",
+        "tool": "Music",
+        "source": "MusicTech",
+        "url": "https://musictech.com/news/gear/audiotool-3-nexus/",
         "accent": "#ff2d55",
         "motif": "sphere",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/intro-1784219278.jpg",
-              "cap": "새로워진 구글 AI 모드 기능"
+              "src": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg"
             },
             {
               "t": "p",
-              "x": "구글이 디지털 경험 전반에 AI를 심으려는 움직임에 속도를 냈다. 이번 주 AI 모드 검색에 Canva, YouTube Music, Instacart 연동이 새로 붙었고, 미국에서 순차 배포된다."
+              "x": "오디오툴이 브라우저 기반 멀티플레이 DAW를 3.0으로 새로 짰다. 핵심은 넥서스(NEXUS)라는 오픈소스 SDK로, 음악가와 개발자가 자신만의 악기와 플러그인, 비주얼라이저, AI 연동 도구를 플랫폼 안에 직접 만들어 넣을 수 있다."
             },
             {
               "t": "p",
-              "x": "음악 쪽 핵심은 YouTube Music 기능이다. 이용자가 자연어 프롬프트로 플레이리스트를 만들어 달라고 요청하면 된다. 원하는 장르와 분위기를 일러 주면 Gemini가 YouTube Music에 연결해 추천 플레이리스트를 채팅 화면에 바로 띄우고, 그대로 앱에서 재생하면 된다."
+              "x": "AI 연동은 MCP와 Context I/O를 거친다. 창작자가 즐겨 쓰는 LLM을 DAW에 그대로 물려 작업 공간을 확장한다는 뜻이다."
             },
             {
               "t": "p",
-              "x": "Canva 연동은 AI 모드에서 디자인 템플릿을 만들어 준다. 구글은 파티 전단을 예로 들었는데, 캘린더 일정 정보를 끌어와 상황에 맞는 디자인을 제안한다."
-            },
-            {
-              "t": "p",
-              "x": "Instacart 기능은 앱 안에서 식료품과 재료를 장바구니에 담게 해 준다. 저장해 둔 바비큐 같은 캘린더 일정을 참고해 장보기 목록을 짜 준다."
-            },
-            {
-              "t": "p",
-              "x": "구글은 연동 파트너를 더 늘려 가고 있다고 했다. 연결된 앱의 정보를 가져오는 Personal Intelligence 기능은 올해 초 나온 뒤 2026년 내내 범위를 넓혀 왔다."
-            },
-            {
-              "t": "p",
-              "x": "최근 AI 모드에는 생생한 후기를 위한 Reddit 연동, 그리고 영상·이미지·파일·크롬 탭까지 넣어 복잡한 질문을 던지도록 다시 설계한 지능형 검색창도 더해졌다."
+              "x": "출시 파트너로는 스플라이스와 유잼(Ujam), 밴드엠에이트(BandM8), 프라운호퍼가 이름을 올렸다."
             }
           ]
         },
-        "image": "pipeline/media/google-ai-mode-ytmusic.jpg"
+        "image": "pipeline/media/audiotool3.jpg"
       },
       {
-        "id": "almudio-3d-panner",
-        "tool": "Music",
+        "id": "aimusiclabel",
         "eyebrow": "AI NEWS",
-        "headline": "헤드폰 믹싱용 무료 바이노럴 패너\n알무디오 3D 패너 공개",
-        "body": "알무디오가 헤드폰 믹싱과 VR·게임 오디오를 겨냥한 무료 바이노럴 패너 '3D 패너'를 얼리 액세스로 내놨다.",
-        "source": "Bedroom Producers Blog",
-        "url": "https://bedroomproducersblog.com/2026/07/10/almudio-3d-panner/",
+        "headline": "음반업계, 스트리밍 AI 표시제 제안",
+        "body": "IFPI 등 8개 단체가 완전 AI 곡은 'AI 제작', AI 활용 곡은 'AI 지원'으로 표시하자고 제안했다.",
+        "tool": "Music",
+        "source": "Music Business Worldwide",
+        "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
         "accent": "#0070f3",
         "motif": "sphere",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/3dpanner-728x364.jpg",
-              "cap": "알무디오 3D 패너"
+              "src": "https://www.musicbusinessworldwide.com/wp-content/uploads/2026/07/shutterstock_ai.jpg"
             },
             {
               "t": "p",
-              "x": "알무디오가 3D 패너를 내놨다. macOS와 Windows용 무료 얼리 액세스 공간 음향 플러그인이다. 개발자 Almog가 BIMM University Manchester 졸업 작품으로 일곱 달에 걸쳐 만들었고, 강사와 학생들의 베타 테스트를 거치며 다듬었다."
+              "x": "IFPI와 RIAA, A2IM, WIN, IMPALA, 레코딩 아카데미, SAG-AFTRA, 휴먼 아티스트리 캠페인 등 8개 음악 단체가 스트리밍용 AI 표시 표준을 내놨다. 강제가 아닌 자발적 참여를 전제로 한 두 가지 태그가 골자다."
             },
             {
               "t": "p",
-              "x": "AI를 두고 개발자는 코딩 과정의 특정 단계에서 AI를 썼다고 밝혔다. 다만 DSP 구조와 HRTF 구현, UX, 파라미터 설계는 몇 달에 걸쳐 다듬은 자신의 결정이었다고 못 박았다. 뚝딱 뽑아낸 결과물이 아니라는 얘기다."
+              "x": "완전히 AI가 만든 곡에는 'AI 제작(AI-generated)', 사람이 주도하되 AI를 쓴 곡에는 'AI 지원(AI-assisted)' 태그를 붙인다."
             },
             {
               "t": "p",
-              "x": "이 플러그인은 바이노럴/HRTF 처리로 모노나 스테레오 소스를 듣는 사람 주위의 3D 공간에 배치한다. 헤드폰 믹싱, ASMR, 사운드 디자인, 포스트 프로덕션, 게임 오디오, VR을 겨냥한다."
-            },
-            {
-              "t": "p",
-              "x": "기능도 촘촘하다. 머리 주위로 구를 끌어 옮기는 XY 패드, 20명에게서 측정한 HRTF를 쓰고 SADIE 측정 데이터베이스까지 여는 HRTF 모드, 좌우로 곧장 놓는 Hard Pan 모드가 있다. 주파수를 최대 네 개 대역으로 나눠 각각 리미터를 걸 수 있고, 나선·스프링·X·진자·궤도·원·무한대·랜덤 여덟 가지 LFO 움직임에, Earth·Moon·Mars·Jupiter·Sun의 중력으로 진자 속도를 정하는 기능까지 들어갔다."
-            },
-            {
-              "t": "p",
-              "x": "설치 용량은 약 230 MB다. 이메일 인증을 거친 무료 알무디오 계정이 있어야 하고, 라이선스는 컴퓨터 두 대에서 쓰며 최초 한 번 인터넷 활성화가 필요하다. 포맷은 VST3, AU, 스탠드얼론을 지원한다. macOS는 애플 서명을 마쳤고 Windows 서명과 AAX 지원은 아직 작업 중이다."
-            },
-            {
-              "t": "p",
-              "x": "almudio.com/3d-panner에서 무료로 받는다."
+              "x": "AI로 만든 음악을 청취자에게 어떻게 밝힐지, 그 방식을 다시 짜려는 시도다. AI를 쓰는 아티스트라면 누구나 마주하게 될 기준이다."
             }
           ]
         },
-        "image": "pipeline/media/almudio-3d-panner.jpg"
+        "image": "pipeline/media/aimusiclabel.jpg"
       },
       {
-        "id": "bbc-ai-transparency",
-        "tool": "Music",
+        "id": "eldoraudio",
         "eyebrow": "AI NEWS",
-        "headline": "인간의 창작을 우선하되\nBBC, AI 사용을 밝히라 요구한다",
-        "body": "BBC는 '의미 있는 인간 창작'을 우선하되, 음악을 제출할 때 AI 도구를 어떻게 썼는지 밝혀 달라고 요구한다.",
-        "source": "Complete Music Update",
-        "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
+        "headline": "기타 연주를 편집 가능한 MIDI로 변환",
+        "body": "악기별 모델로 기타 녹음을 편집 가능한 MIDI로 바꿔, 손으로 채보하던 단계를 없앤다.",
+        "tool": "Music",
+        "source": "gearnews",
+        "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
         "accent": "#f5a623",
         "motif": "sphere",
         "full": {
@@ -1058,162 +945,26 @@
           "blocks": [
             {
               "t": "img",
-              "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/BBC-AI.png",
-              "cap": "BBC와 음악 AI"
+              "src": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg"
             },
             {
               "t": "p",
-              "x": "BBC 음악 총괄 로나 클라크가 음악 AI 방침을 내놨다. BBC 라디오 채널과 여러 플랫폼은 언제나 '의미 있는 인간 창작의 결과물'인 음악을 우선한다는 것이다. 그렇다고 창작자가 AI 도구를 못 쓴다는 뜻은 아니다."
+              "x": "엘도라오디오(Eldoraudio)의 브라우저 도구는 기타 녹음을 편집 가능한 MIDI로 변환한다. 악기 특성에 맞춘 전용 모델을 쓰는 점이 특징이다."
             },
             {
               "t": "p",
-              "x": "다만 BBC는 자신들이 틀고 밀어 주는 음악에 AI가 어떻게 쓰였는지 투명하게 밝히고 싶어 한다. 그래서 아티스트와 레이블은 음악을 낼 때 AI 도구 사용을 밝혀야 한다. 적어도 단기적으로는 쉽지 않은 일이다. 음악 창작에서 AI 사용을 어떻게 식별하고 신고하고 표기할지, 업계 스스로도 아직 정하지 못했기 때문이다."
+              "x": "처음 30초는 무료로 써볼 수 있고, 디스토션 걸린 기타를 위한 전용 모델도 준비 중이다."
             },
             {
               "t": "p",
-              "x": "클라크는 BBC가 '기존 저작물을 침해하는 AI 생성 음악을 알면서 방송하는 일은 없을 것'이라고도 했다. 이 역시 지키기 쉽지 않은 약속이다. 결과물에서 기존 작품을 대놓고 침해한 음악만 말하는지, 아니면 라이선스 없는 음악으로 학습한 AI 모델이 만들거나 손댄 음악까지 포함하는지에 따라 얘기가 달라진다."
-            },
-            {
-              "t": "p",
-              "x": "후자라면 문제가 커진다. 대부분의 AI 기업은 어떤 기존 콘텐츠로 모델을 학습시켰는지 매우 모호하게 둔다. 라이선스 콘텐츠만으로 학습한 모델을 인증하는 에드 뉴턴 렉스의 Fairly Trained 같은 시도가 어느 정도 도움은 되지만, 지금으로선 창작자들이 쓰는 AI 도구 상당수가 라이선스 없는 작품으로 학습됐을 공산이 크다."
-            },
-            {
-              "t": "p",
-              "x": "공영방송인 BBC는 AI 방침을 두고 늘 더 깐깐한 눈총을 받는다. 지난해에는 'BBC Introducing' 웨스트 미들랜즈 편이 이달의 아티스트 코너에 그저 그런 AI 생성 트랙을 넣었다가 도마에 올랐다. 방송에서 음악 AI 도구를 얘깃거리로 삼으려고 그런 것처럼 보였는데도 말이다."
-            },
-            {
-              "t": "p",
-              "x": "어제 올린 블로그 글에서 클라크는 AI 도구를 쓰는 아티스트도 편성에서 고려하겠다고 했다. 다만 '이 도구들은 인간의 창작을 뒷받침하는 데 쓰여야 하며, 창작 아이디어 자체를 발전시키고 다듬고 표현하는 사람의 몫을 대신해선 안 된다'고 선을 그었다. 그저 프롬프트를 넣고 생성하고 고르거나 AI 결과물을 살짝 손보는 정도로는 의미 있는 인간 창작으로 보기 어렵다는 것이다."
-            },
-            {
-              "t": "p",
-              "x": "이 투명성 방침은 청취자 조사에서 나왔다. 청취자는 뮤지션과 인간 창작에 마음을 쓰고, 자신이 듣는 음악에 AI가 얼마나 관여했는지 알고 싶어 한다는 것이다. 그래서 BBC는 작품을 제출하는 아티스트와 파트너에게 AI를 썼는지, 어떻게 썼는지 밝히도록 요구하기로 했다."
-            },
-            {
-              "t": "p",
-              "x": "이는 음악 산업 안에서 점점 뜨거워지는 논쟁과 맞닿아 있다. AI 음악을 자동으로 가려내는 도구가 얼마나 쓸모 있는지를 두고 의견이 갈리고, 완전히 AI가 만든 트랙이 아니라 AI가 거든 음악이면 더 그렇다. 아직 업계 전반에 AI 사용 자진 신고 규칙이 없고, 이제 그 규칙이 시급해지고 있다."
+              "x": "리프를 친 뒤 MIDI로 다듬기까지, 그 사이에 끼어 있던 손 채보 작업을 덜어낸다."
             }
           ]
         },
-        "image": "pipeline/media/bbc-ai-transparency.png"
+        "image": "pipeline/media/eldoraudio.jpg"
       }
     ],
     "days": [
-      {
-        "date": "2026-07-15",
-        "cards": [
-          {
-            "id": "suno-dev-api",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "headline": "수노, 생성 음악을 외부 앱에 여는 개발자 API 검토",
-            "body": "수노가 소수 파트너부터 개발자 API를 열어 외부 앱이 생성 음악을 활용하게 한다.",
-            "source": "Music Business Worldwide",
-            "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
-            "accent": "#ff2d55",
-            "motif": "sphere",
-            "image": "pipeline/media/suno-dev-api.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "수노가 자사 AI 음악 생성 플랫폼용 개발자 API 출시를 검토한다."
-                },
-                {
-                  "t": "p",
-                  "x": "최고제품책임자 잭 브로디가 7월 1일 수요일 링크드인에 이 계획을 올렸다. 개발자에게 사전 접근을 신청받는 폼 링크도 함께 걸었다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg"
-                },
-                {
-                  "t": "p",
-                  "x": "브로디는 이번 시도가 수노가 말하는 \"파트너 기반 모델\"로 가는 앞 단계라고 설명했다."
-                },
-                {
-                  "t": "p",
-                  "x": "\"파트너 기반 모델에 앞서 개발자 API를 검토하고 있고, 만들기 시작하기 전에 여러분 이야기를 듣고 싶다\"고 브로디는 적었다."
-                },
-                {
-                  "t": "p",
-                  "x": "\"신중하게 다듬으려고 엄선한 파트너 그룹부터 시작할 계획이고, 생성 음악이 처음으로 가능케 하는 경험을 여는 애플리케이션에 특히 관심이 있다\"고 그는 덧붙였다."
-                },
-                {
-                  "t": "p",
-                  "x": "수노는 아직 공식 공개 API를 제공하지 않는다. 외부 개발자들이 플랫폼을 감싼 비공식 API 래퍼를 만들어 왔지만 회사가 셀프서브 개발자 접근이나 자체 문서를 낸 적은 없다."
-                },
-                {
-                  "t": "p",
-                  "x": "API는 한 소프트웨어가 다른 소프트웨어와 통신해 그 기능을 불러 쓰게 해준다. 수노라면 개발자 API를 거쳐 외부 앱이 음악 생성 모델에 텍스트 프롬프트를 보내고 완성된 오디오를 돌려받는다."
-                },
-                {
-                  "t": "p",
-                  "x": "그러면 개발자는 사용자를 수노 앱이나 웹사이트로 보내지 않고 자기 제품에 음악 생성을 바로 넣는다."
-                },
-                {
-                  "t": "p",
-                  "x": "타입폼 신청서에는 \"엄선한 파트너 그룹부터 개발자 API를 탐색하기 시작한다\"며 관심 있으면 알려 달라고 적혀 있다. 수노는 API 출시 시점을 밝히지 않았다."
-                },
-                {
-                  "t": "p",
-                  "x": "개발자 API 검토는 수노가 빠르게 크는 시기와 맞물린다. 회사는 6월 시리즈 D로 4억 달러 넘게 조달해 투자 후 기업가치 54억 달러를 찍었고 2월에는 유료 구독자 200만 명과 연간반복매출 3억 달러를 넘겼다."
-                },
-                {
-                  "t": "p",
-                  "x": "수노가 메이저 음악사와 맺은 유일한 라이선스 제휴는 2025년 11월 워너뮤직그룹 계약뿐이다. 유니버설뮤직그룹과 소니뮤직엔터테인먼트는 아직 소송 중이다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "m-compressor-2",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "headline": "테키베이션 M-컴프레서 2, AI 믹스 어시스턴트 탑재",
-            "body": "M-컴프레서 2가 오디오를 분석해 압축 설정 12가지를 만들어 주는 믹스 어시스턴트를 새로 담았다.",
-            "source": "Sound on Sound",
-            "url": "https://www.soundonsound.com/news/techivation-release-m-compressor-2",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/m-compressor-2.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "img",
-                  "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/techivation_m-compressor_2-TvIvyE7Qeq8UiOcsBlz0Y54SG.6wIA8N.jpg"
-                },
-                {
-                  "t": "p",
-                  "x": "테키베이션이 스펙트럴 압축 플러그인의 개선판 M-컴프레서 2를 내놨다. 눈에 띄게 달라진 곳이 여럿이다."
-                },
-                {
-                  "t": "p",
-                  "x": "원본의 핵심 기능은 그대로라 업워드 압축과 다운워드 압축, 게이팅을 함께 쓴다. Up, Down, Gate 기능마다 독립 임계값을 두는데, Down 임계값을 넘는 신호는 보통의 다운워드 압축으로 줄어들고 Up과 Gate 임계값 사이 신호는 부스팅되며 Gate 임계값 아래는 감쇠된다."
-                },
-                {
-                  "t": "p",
-                  "x": "스펙트럴 컴프레서인 만큼 멀티밴드 분할 없이 주파수 대역마다 압축량을 달리 건다. 사용자가 스펙트럴 파라미터를 직접 만지거나 들어오는 오디오를 계속 분석해 \"탁하거나\" \"거친\" 소리를 막도록 압축을 조절하는 Shaping 컨트롤을 켠다."
-                },
-                {
-                  "t": "p",
-                  "x": "간판 기능은 새로 들어온 믹스 어시스턴트 툴이다. 플러그인의 모든 파라미터를 컨트롤 하나로 묶는다. 이 툴이 들어오는 오디오를 분석해 트랙에 맞춘 압축 설정 12가지를 만든다. 사용자는 그중 네 가지를 골라 사이를 매끄럽게 오가며 원하는 압축 성격을 직관적으로 잡는다."
-                },
-                {
-                  "t": "p",
-                  "x": "호환 환경은 윈도우 7 이상과 macOS 10.15 이상이며 VST와 VST3, AU, AAX 포맷으로 나온다."
-                },
-                {
-                  "t": "p",
-                  "x": "가격은 2026년 7월 20일까지 도입가 55달러이고 그 뒤로는 149달러로 오른다. 지금 바로 살 수 있다."
-                }
-              ]
-            }
-          }
-        ]
-      },
       {
         "date": "2026-07-16",
         "cards": [
@@ -1730,6 +1481,157 @@
             }
           }
         ]
+      },
+      {
+        "date": "2026-07-20",
+        "cards": [
+          {
+            "id": "google-ai-mode-ytmusic",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "headline": "구글 AI 모드가 유튜브 뮤직과 이어져 대화만으로 플레이리스트를 짠다",
+            "body": "구글 검색의 AI 모드가 유튜브 뮤직과 이어졌다. 프롬프트 한 줄로 플레이리스트를 만들고 대화로 결을 맞춘다.",
+            "source": "Engadget",
+            "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
+            "accent": "#ff2d55",
+            "motif": "sphere",
+            "image": "pipeline/media/google-ai-mode-ytmusic.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/intro-1784219278.jpg",
+                  "cap": "새로워진 구글 AI 모드 기능"
+                },
+                {
+                  "t": "p",
+                  "x": "구글이 디지털 경험 전반에 AI를 심으려는 움직임에 속도를 냈다. 이번 주 AI 모드 검색에 Canva, YouTube Music, Instacart 연동이 새로 붙었고, 미국에서 순차 배포된다."
+                },
+                {
+                  "t": "p",
+                  "x": "음악 쪽 핵심은 YouTube Music 기능이다. 이용자가 자연어 프롬프트로 플레이리스트를 만들어 달라고 요청하면 된다. 원하는 장르와 분위기를 일러 주면 Gemini가 YouTube Music에 연결해 추천 플레이리스트를 채팅 화면에 바로 띄우고, 그대로 앱에서 재생하면 된다."
+                },
+                {
+                  "t": "p",
+                  "x": "Canva 연동은 AI 모드에서 디자인 템플릿을 만들어 준다. 구글은 파티 전단을 예로 들었는데, 캘린더 일정 정보를 끌어와 상황에 맞는 디자인을 제안한다."
+                },
+                {
+                  "t": "p",
+                  "x": "Instacart 기능은 앱 안에서 식료품과 재료를 장바구니에 담게 해 준다. 저장해 둔 바비큐 같은 캘린더 일정을 참고해 장보기 목록을 짜 준다."
+                },
+                {
+                  "t": "p",
+                  "x": "구글은 연동 파트너를 더 늘려 가고 있다고 했다. 연결된 앱의 정보를 가져오는 Personal Intelligence 기능은 올해 초 나온 뒤 2026년 내내 범위를 넓혀 왔다."
+                },
+                {
+                  "t": "p",
+                  "x": "최근 AI 모드에는 생생한 후기를 위한 Reddit 연동, 그리고 영상·이미지·파일·크롬 탭까지 넣어 복잡한 질문을 던지도록 다시 설계한 지능형 검색창도 더해졌다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "almudio-3d-panner",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "headline": "헤드폰 믹싱용 무료 바이노럴 패너 알무디오 3D 패너 공개",
+            "body": "알무디오가 헤드폰 믹싱과 VR·게임 오디오를 겨냥한 무료 바이노럴 패너 '3D 패너'를 얼리 액세스로 내놨다.",
+            "source": "Bedroom Producers Blog",
+            "url": "https://bedroomproducersblog.com/2026/07/10/almudio-3d-panner/",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/almudio-3d-panner.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/3dpanner-728x364.jpg",
+                  "cap": "알무디오 3D 패너"
+                },
+                {
+                  "t": "p",
+                  "x": "알무디오가 3D 패너를 내놨다. macOS와 Windows용 무료 얼리 액세스 공간 음향 플러그인이다. 개발자 Almog가 BIMM University Manchester 졸업 작품으로 일곱 달에 걸쳐 만들었고, 강사와 학생들의 베타 테스트를 거치며 다듬었다."
+                },
+                {
+                  "t": "p",
+                  "x": "AI를 두고 개발자는 코딩 과정의 특정 단계에서 AI를 썼다고 밝혔다. 다만 DSP 구조와 HRTF 구현, UX, 파라미터 설계는 몇 달에 걸쳐 다듬은 자신의 결정이었다고 못 박았다. 뚝딱 뽑아낸 결과물이 아니라는 얘기다."
+                },
+                {
+                  "t": "p",
+                  "x": "이 플러그인은 바이노럴/HRTF 처리로 모노나 스테레오 소스를 듣는 사람 주위의 3D 공간에 배치한다. 헤드폰 믹싱, ASMR, 사운드 디자인, 포스트 프로덕션, 게임 오디오, VR을 겨냥한다."
+                },
+                {
+                  "t": "p",
+                  "x": "기능도 촘촘하다. 머리 주위로 구를 끌어 옮기는 XY 패드, 20명에게서 측정한 HRTF를 쓰고 SADIE 측정 데이터베이스까지 여는 HRTF 모드, 좌우로 곧장 놓는 Hard Pan 모드가 있다. 주파수를 최대 네 개 대역으로 나눠 각각 리미터를 걸 수 있고, 나선·스프링·X·진자·궤도·원·무한대·랜덤 여덟 가지 LFO 움직임에, Earth·Moon·Mars·Jupiter·Sun의 중력으로 진자 속도를 정하는 기능까지 들어갔다."
+                },
+                {
+                  "t": "p",
+                  "x": "설치 용량은 약 230 MB다. 이메일 인증을 거친 무료 알무디오 계정이 있어야 하고, 라이선스는 컴퓨터 두 대에서 쓰며 최초 한 번 인터넷 활성화가 필요하다. 포맷은 VST3, AU, 스탠드얼론을 지원한다. macOS는 애플 서명을 마쳤고 Windows 서명과 AAX 지원은 아직 작업 중이다."
+                },
+                {
+                  "t": "p",
+                  "x": "almudio.com/3d-panner에서 무료로 받는다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "bbc-ai-transparency",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "headline": "인간의 창작을 우선하되 BBC, AI 사용을 밝히라 요구한다",
+            "body": "BBC는 '의미 있는 인간 창작'을 우선하되, 음악을 제출할 때 AI 도구를 어떻게 썼는지 밝혀 달라고 요구한다.",
+            "source": "Complete Music Update",
+            "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/bbc-ai-transparency.png",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/BBC-AI.png",
+                  "cap": "BBC와 음악 AI"
+                },
+                {
+                  "t": "p",
+                  "x": "BBC 음악 총괄 로나 클라크가 음악 AI 방침을 내놨다. BBC 라디오 채널과 여러 플랫폼은 언제나 '의미 있는 인간 창작의 결과물'인 음악을 우선한다는 것이다. 그렇다고 창작자가 AI 도구를 못 쓴다는 뜻은 아니다."
+                },
+                {
+                  "t": "p",
+                  "x": "다만 BBC는 자신들이 틀고 밀어 주는 음악에 AI가 어떻게 쓰였는지 투명하게 밝히고 싶어 한다. 그래서 아티스트와 레이블은 음악을 낼 때 AI 도구 사용을 밝혀야 한다. 적어도 단기적으로는 쉽지 않은 일이다. 음악 창작에서 AI 사용을 어떻게 식별하고 신고하고 표기할지, 업계 스스로도 아직 정하지 못했기 때문이다."
+                },
+                {
+                  "t": "p",
+                  "x": "클라크는 BBC가 '기존 저작물을 침해하는 AI 생성 음악을 알면서 방송하는 일은 없을 것'이라고도 했다. 이 역시 지키기 쉽지 않은 약속이다. 결과물에서 기존 작품을 대놓고 침해한 음악만 말하는지, 아니면 라이선스 없는 음악으로 학습한 AI 모델이 만들거나 손댄 음악까지 포함하는지에 따라 얘기가 달라진다."
+                },
+                {
+                  "t": "p",
+                  "x": "후자라면 문제가 커진다. 대부분의 AI 기업은 어떤 기존 콘텐츠로 모델을 학습시켰는지 매우 모호하게 둔다. 라이선스 콘텐츠만으로 학습한 모델을 인증하는 에드 뉴턴 렉스의 Fairly Trained 같은 시도가 어느 정도 도움은 되지만, 지금으로선 창작자들이 쓰는 AI 도구 상당수가 라이선스 없는 작품으로 학습됐을 공산이 크다."
+                },
+                {
+                  "t": "p",
+                  "x": "공영방송인 BBC는 AI 방침을 두고 늘 더 깐깐한 눈총을 받는다. 지난해에는 'BBC Introducing' 웨스트 미들랜즈 편이 이달의 아티스트 코너에 그저 그런 AI 생성 트랙을 넣었다가 도마에 올랐다. 방송에서 음악 AI 도구를 얘깃거리로 삼으려고 그런 것처럼 보였는데도 말이다."
+                },
+                {
+                  "t": "p",
+                  "x": "어제 올린 블로그 글에서 클라크는 AI 도구를 쓰는 아티스트도 편성에서 고려하겠다고 했다. 다만 '이 도구들은 인간의 창작을 뒷받침하는 데 쓰여야 하며, 창작 아이디어 자체를 발전시키고 다듬고 표현하는 사람의 몫을 대신해선 안 된다'고 선을 그었다. 그저 프롬프트를 넣고 생성하고 고르거나 AI 결과물을 살짝 손보는 정도로는 의미 있는 인간 창작으로 보기 어렵다는 것이다."
+                },
+                {
+                  "t": "p",
+                  "x": "이 투명성 방침은 청취자 조사에서 나왔다. 청취자는 뮤지션과 인간 창작에 마음을 쓰고, 자신이 듣는 음악에 AI가 얼마나 관여했는지 알고 싶어 한다는 것이다. 그래서 BBC는 작품을 제출하는 아티스트와 파트너에게 AI를 썼는지, 어떻게 썼는지 밝히도록 요구하기로 했다."
+                },
+                {
+                  "t": "p",
+                  "x": "이는 음악 산업 안에서 점점 뜨거워지는 논쟁과 맞닿아 있다. AI 음악을 자동으로 가려내는 도구가 얼마나 쓸모 있는지를 두고 의견이 갈리고, 완전히 AI가 만든 트랙이 아니라 AI가 거든 음악이면 더 그렇다. 아직 업계 전반에 AI 사용 자진 신고 규칙이 없고, 이제 그 규칙이 시급해지고 있다."
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   },
@@ -1737,13 +1639,13 @@
     "label": "Movies",
     "news": [
       {
-        "id": "martini",
+        "id": "switchlight3",
         "eyebrow": "AI NEWS",
-        "headline": "AI 영상 제작진이 함께 쓰는\n공유 촬영장 '마티니'가 열렸다",
-        "body": "마티니는 세트와 참고 이미지를 2D·3D 공간에서 숏으로 구성하는 웹 협업 도구로, 무료 인디 요금제와 함께 출시됐다.",
-        "tool": "Movies",
-        "source": "No Film School",
-        "url": "https://nofilmschool.com/martini-ai-film-set",
+        "headline": "실사 4K 영상을 언리얼에서\nAI로 다시 밝히는 스위치라이트 3",
+        "body": "비블 AI가 코리도어 크루의 실사 4K 영상에 스위치라이트 3을 적용해 언리얼 엔진 안에서 바로 쓸 재조명 패스를 만들어냈다.",
+        "tool": "SwitchLight 3",
+        "source": "ProVideo Coalition",
+        "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
         "accent": "#0070f3",
         "motif": "frame",
         "full": {
@@ -1751,132 +1653,26 @@
           "blocks": [
             {
               "t": "p",
-              "x": "마티니는 AI 영상을 위한 협업형 웹 플랫폼으로, 스스로를 'AI 영상의 촬영장'이라 부른다. 제작진은 자신의 세트와 참고 이미지를 직접 올리거나 새로 생성한 뒤, 2D 또는 3D 환경에서 숏을 짜 나간다."
+              "x": "프로비디오 코얼리션이 SIGGRAPH 2026 현장에서 전한 소식. 퓨젯 시스템스는 몰입형 '로보 도조' 부스를 꾸리고, 쇼 플로어에 나온 AI 기반 창작 도구들을 함께 조명했다."
             },
             {
               "t": "img",
-              "src": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
+              "src": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg"
             },
             {
               "t": "p",
-              "x": "목표는 프롬프트 룰렛에서 벗어나, 크루가 함께 쓰는 사전제작 허브를 마련하는 것이다. 서비스는 이미 나와 있으며, 무료 인디 요금제와 월 15달러부터 시작하는 유료 요금제를 제공한다."
+              "x": "비블 AI와 디스트릭트 시네마는 코리도어 크루의 'Son of a Dungeon' 시즌3 실사 4K 영상에 새 스위치라이트 3 모델을 돌렸다. 그 결과 언리얼 엔진 안에서 바로 쓸 수 있는 PBR 재조명 패스가 나왔다."
+            },
+            {
+              "t": "p",
+              "x": "키샷 스튜디오의 'AI 숏' 기능은 CAD 데이터와 조명을 건드리지 않으면서 필요한 부분만 생성형으로 손봤다. 실제 제작 파이프라인에서 생성형 재조명이 어떻게 자리 잡는지 보여준 사례다."
             }
           ]
         },
-        "image": "pipeline/media/martini.jpg"
-      },
-      {
-        "id": "curious-refuge-ai-tools",
-        "eyebrow": "AI NEWS",
-        "headline": "이번 주 새 AI 영화 도구,\n아티스트를 위한 핵심 업데이트",
-        "body": "큐리어스 리퓨지가 아티스트를 위해 이번 주 최신 AI 영화 제작 도구를 정리하며, 새 모션 컨트롤 워크플로에 초점을 맞춘다.",
-        "tool": "Social",
-        "source": "Curious Refuge",
-        "url": "https://www.youtube.com/watch?v=GsZmUTLW4wA",
-        "accent": "#ff2d55",
-        "motif": "frame",
-        "full": {
-          "mode": "summary",
-          "blocks": [
-            {
-              "t": "video",
-              "yt": "GsZmUTLW4wA"
-            },
-            {
-              "t": "p",
-              "x": "큐리어스 리퓨지가 이번 주 아티스트를 위한 가장 큰 AI 영화 제작 소식을 한데 모았다."
-            },
-            {
-              "t": "p",
-              "x": "이번 정리는 새로운 AI 모션 컨트롤 워크플로와 도구 업데이트에 초점을 둔다. 창작자가 AI로 만든 숏을 어떻게 연출하고 다듬는지를 바꿔 놓는 변화들이다."
-            }
-          ]
-        },
-        "video": "pipeline/media/curious-refuge-ai-tools.mp4",
-        "poster": "pipeline/media/curious-refuge-ai-tools.jpg",
-        "image": "pipeline/media/curious-refuge-ai-tools.jpg"
+        "image": "pipeline/media/switchlight3.jpg"
       }
     ],
     "days": [
-      {
-        "date": "2026-07-14",
-        "cards": [
-          {
-            "id": "nvidia-neural",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "headline": "엔비디아, SIGGRAPH 2026에서 신경 렌더링·월드 모델 기조연설",
-            "body": "엔비디아 연구진이 SIGGRAPH 2026 기조연설에서 신경 렌더링과 AI 월드 모델을 선보인다.",
-            "source": "Animation World Network",
-            "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/nvidia-neural.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "엔비디아 연구·엔지니어링을 이끄는 닐 애슈턴, 밍위 리우, 에드워드 리우가 7월 20일 월요일 오후 3시 45분(태평양시)에 SIGGRAPH 2026 후원 기조연설 '다음 세대 그래픽스 — 신경 렌더링, 월드 모델, 시뮬레이션'에 오른다. 학회는 7월 19일부터 23일까지 로스앤젤레스에서 열리고, 전시는 21일에서 23일 사이다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg?itok=M3jKoqZZ"
-                },
-                {
-                  "t": "p",
-                  "x": "발표는 컴퓨터 그래픽스와 시뮬레이션을 바꾸는 최근 성과를 짚는다. 새로운 신경 렌더링 기법, 그리고 AI가 만들고 AI가 쓰는 월드 모델과 시뮬레이션 기법이 주제다. 세 사람은 실제 연구 사례와 데모로 디지털 세계를 짓고 렌더링하고 쓰는 방식이 창작 도구, 산업 디자인, 로봇, 자율주행에 걸쳐 어떻게 달라지는지 보여 준다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081122-nvidiaheadshots3-3.png?itok=4yVCi_FJ"
-                },
-                {
-                  "t": "p",
-                  "x": "애슈턴은 엔비디아의 디스팅귀시드 엔지니어로 계산공학을 위한 AI 물리와 에이전트 AI를 다룬다. 밍위 리우는 IEEE 펠로로 엔비디아 코스모스 랩을 이끌며, 로봇이 물리 세계를 시뮬레이션하고 추론하게 하는 월드 파운데이션 모델을 연구한다. 에드워드 리우는 응용 딥러닝 연구 디렉터로, 업계에 널리 자리 잡은 DLSS 기술과 실시간 시각 생성 연구를 이끈다."
-                },
-                {
-                  "t": "p",
-                  "x": "학회 기간에는 컴퓨터 애니메이션 페스티벌 상영과 프로덕션 세션도 이어진다. 웨타 FX와 라이트스톰은 '아바타: 파이어 앤 애시'의 3,100여 컷을, 픽사는 '호퍼스'의 제작 과정을, ILM은 '만달로리안과 그로구'의 버추얼 프로덕션을 풀어놓는다. NASA는 아르테미스 II를 위한 달 시각화를, 구글 딥마인드는 예술가가 주도한 AI 보조 애니메이션을 소개한다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "meyer-top5",
-            "eyebrow": "AI NEWS",
-            "tool": "Social",
-            "headline": "AI 영화감독 사이먼 마이어가 꼽은 덜 알려진 AI 제작 도구 다섯",
-            "body": "AI 영화감독 사이먼 마이어가 촬영 워크플로를 바꾼 덜 알려진 AI 제작 도구 다섯 개를 소개한다.",
-            "source": "Simon Meyer",
-            "url": "https://www.youtube.com/watch?v=8d1UPMD4E3g",
-            "accent": "#ff2d55",
-            "motif": "frame",
-            "image": "pipeline/media/meyer-top5.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "video",
-                  "yt": "8d1UPMD4E3g"
-                },
-                {
-                  "t": "p",
-                  "x": "다들 시드댄스만 쓰지만, 사이먼 마이어는 자기 작업 방식을 통째로 바꾼 숨은 AI 도구들을 꺼내 놓는다. 몇 년 전 시작할 때 그는 어떤 도구가 어떤 문제에 맞는지 알고 싶어 이것저것 시험하느라 돈을 꽤 썼다고 한다. 결론은 모든 걸 해결하는 만능 도구는 없다는 것. 그래서 도구를 다양하게 갖춰 두는 편이 낫다고 말한다."
-                },
-                {
-                  "t": "p",
-                  "x": "그가 고른 다섯 가지는 이렇다. 스위치엑스(비블)는 클립 전체를 손본다. 크로마키, 조명 재조정, 리터치까지 한 번에 끝낸다. 소라는 생성보다 초현실적인 시작 프레임과 캐릭터를 뽑아 업스케일하는 데 쓴다. 팔에이아이는 존재하는 거의 모든 모델을 한 대시보드에 모아, 유명해지기 전의 새 도구를 먼저 찾는 용도다. 싱크에스오는 배우의 실제 얼굴을 지키면서 입 모양을 맞춰, 대사 한 줄을 컷을 망치지 않고 고친다. 시드오디오는 다시 녹음하지 않고 내레이션의 한 단어만 바꾸면서 공간의 잔향은 그대로 남긴다."
-                },
-                {
-                  "t": "p",
-                  "x": "다만 그는 도구는 결국 도구일 뿐이라고 덧붙인다. 더 빨리 움직이고 더 많은 아이디어를 시험하게 돕지만, 작업에 의미를 넣어 주지는 못한다. 정작 필요한 건 작품에 담긴 혼, 관점, 끝까지 남는 사람다움이라는 것이다."
-                }
-              ]
-            }
-          }
-        ]
-      },
       {
         "date": "2026-07-15",
         "cards": [
@@ -2549,6 +2345,69 @@
             }
           }
         ]
+      },
+      {
+        "date": "2026-07-19",
+        "cards": [
+          {
+            "id": "martini",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "headline": "AI 영상 제작진이 함께 쓰는 공유 촬영장 '마티니'가 열렸다",
+            "body": "마티니는 세트와 참고 이미지를 2D·3D 공간에서 숏으로 구성하는 웹 협업 도구로, 무료 인디 요금제와 함께 출시됐다.",
+            "source": "No Film School",
+            "url": "https://nofilmschool.com/martini-ai-film-set",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/martini.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "p",
+                  "x": "마티니는 AI 영상을 위한 협업형 웹 플랫폼으로, 스스로를 'AI 영상의 촬영장'이라 부른다. 제작진은 자신의 세트와 참고 이미지를 직접 올리거나 새로 생성한 뒤, 2D 또는 3D 환경에서 숏을 짜 나간다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
+                },
+                {
+                  "t": "p",
+                  "x": "목표는 프롬프트 룰렛에서 벗어나, 크루가 함께 쓰는 사전제작 허브를 마련하는 것이다. 서비스는 이미 나와 있으며, 무료 인디 요금제와 월 15달러부터 시작하는 유료 요금제를 제공한다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "curious-refuge-ai-tools",
+            "eyebrow": "AI NEWS",
+            "tool": "Social",
+            "headline": "이번 주 새 AI 영화 도구, 아티스트를 위한 핵심 업데이트",
+            "body": "큐리어스 리퓨지가 아티스트를 위해 이번 주 최신 AI 영화 제작 도구를 정리하며, 새 모션 컨트롤 워크플로에 초점을 맞춘다.",
+            "source": "Curious Refuge",
+            "url": "https://www.youtube.com/watch?v=GsZmUTLW4wA",
+            "accent": "#ff2d55",
+            "motif": "frame",
+            "image": "pipeline/media/curious-refuge-ai-tools.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "video",
+                  "yt": "GsZmUTLW4wA"
+                },
+                {
+                  "t": "p",
+                  "x": "큐리어스 리퓨지가 이번 주 아티스트를 위한 가장 큰 AI 영화 제작 소식을 한데 모았다."
+                },
+                {
+                  "t": "p",
+                  "x": "이번 정리는 새로운 AI 모션 컨트롤 워크플로와 도구 업데이트에 초점을 둔다. 창작자가 AI로 만든 숏을 어떻게 연출하고 다듬는지를 바꿔 놓는 변화들이다."
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   },
@@ -2556,286 +2415,40 @@
     "label": "Games",
     "news": [
       {
-        "id": "damagecontrol",
+        "id": "houdini22",
         "eyebrow": "AI NEWS",
-        "headline": "게임 배경 작업을 빠르게,\n블렌더 툴킷 데미지 컨트롤",
-        "body": "제시 미에티넨이 스캐터·스머지 같은 생성형 도구를 묶어 블렌더 툴킷 데미지 컨트롤을 내놨다.",
+        "headline": "후디니 22, 가우시안 스플랫을\n게임 아트 파이프라인에 넣다",
+        "body": "후디니 22가 신경 방사장 캡처인 가우시안 스플랫을 네이티브로 품고 UI까지 새로 짜 게임 제작 흐름에 들어왔다.",
         "tool": "Games",
         "source": "80 Level",
-        "url": "https://80.lv/articles/jesse-miettinen-s-the-last-of-us-like-generator-finally-launches",
+        "url": "https://80.lv/articles/houdini-22-is-out-now-bringing-native-gaussian-splats-new-ui-and-more",
         "accent": "#7928ca",
         "motif": "cube",
         "full": {
-          "mode": "full",
-          "blocks": [
-            {
-              "t": "img",
-              "src": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
-              "cap": "데미지 컨트롤 대표 이미지"
-            },
-            {
-              "t": "p",
-              "x": "제시 미에티넨이 블렌더용 툴킷 데미지 컨트롤(Damage Control)을 공개했다. 한때 그가 'The Last of Us-like generator'라고 부르던 프로젝트가 정식 출시로 이어졌다. 서로 맞물려 돌아가는 생성형 도구를 묶어, 게임 환경을 더 사실적으로 더 빠르게 만들도록 돕는다."
-            },
-            {
-              "t": "p",
-              "x": "구성은 스머지 마스크 제너레이터, 스캐터 툴, 제너레이티브 툴이고 여기에 추가 셰이더와 메가 프리셋까지 딸려 온다. 표면을 문지르고 오브젝트를 흩뿌리고 절차적으로 쌓아 올리는 작업을 한자리에서 처리한다."
-            },
-            {
-              "t": "p",
-              "x": "전부 지오메트리 노드로 짜여 성능에 신경 썼고, 오래 써도 호환성이 유지되도록 만들었다. 미에티넨은 3년치 업데이트를 지원하겠다고 밝혔다."
-            },
-            {
-              "t": "p",
-              "x": "지금은 검로드(embracefx.gumroad.com/l/damagecontrol)에서 받을 수 있고, 이후 슈퍼하이브(Superhive) 입점도 예정돼 있다. 개별 도구는 여름 휴가가 끝난 뒤 따로 풀린다. 빠르게 익히도록 유튜브 튜토리얼 시리즈도 함께 내놨다. 미에티넨은 이제 임브레이스 FX(Embrace FX) 이름으로 활동한다."
-            }
-          ]
-        },
-        "image": "pipeline/media/damagecontrol.jpg"
-      },
-      {
-        "id": "indiedevs25",
-        "eyebrow": "AI NEWS",
-        "headline": "인디 개발자 25명이\n생성형 AI를 피하는 이유",
-        "body": "인디 스튜디오 25곳은 생성형 AI가 되레 더 못한 게임을 만든다며 도입을 꺼린다고 말한다.",
-        "tool": "Games",
-        "source": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
-        "accent": "#0070f3",
-        "motif": "cube",
-        "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
-              "cap": "생성형 AI를 멀리하는 인디 스튜디오"
+              "src": "https://cdn.80.lv/api/upload/meta/49281/images/6a57ea98136c5/contain_1200x630.jpg"
             },
             {
               "t": "p",
-              "x": "생성형 AI는 인디 개발의 가속 장치처럼 팔려 왔다. 적은 인원으로 더 많은 게임을 더 빨리 만들게 해준다는 얘기다. 그런데 한 기자가 만난 인디 스튜디오 25곳은 답이 달랐다."
+              "x": "사이드FX가 후디니 22를 내놨다. 이번 판의 핵심은 가우시안 스플랫을 네이티브로 다룬다는 점이다. 사진 여러 장에서 장면을 통째로 잡아내는 신경 방사장 방식이 이제 우회 없이 툴 안에서 바로 돌아간다."
             },
             {
               "t": "p",
-              "x": "이들은 AI를 대체로 피한다고 말한다. 이유는 단순하다. 더 못한 게임을 만든다(It creates lesser games)는 것이다. 완성도와 손맛이 중요한 제작 현장에서 AI가 되레 걸림돌이 된다는 얘기다."
+              "x": "화면도 다시 짰다. UI를 새로 정리했고 코페르니쿠스와 키네FX도 손봤다. 렌더링 작업 흐름 역시 게임과 VFX 제작에 맞춰 다듬었다."
             },
             {
               "t": "p",
-              "x": "기사는 AI가 실제로 어디에 들어맞고 어디서 어긋나는지를 스튜디오 25곳의 목소리로 짚는다. 담론이 아니라 현장 취재라서, 게임 디자인 작업 속 AI의 실제 위치를 가늠하게 해준다."
+              "x": "무게는 캡처 도구에 실린다. AI에 맞닿은 신경 캡처가 게임 아트의 핵심 파이프라인 안으로 들어오면서, 테크니컬 아티스트가 에셋을 잡아내고 쌓아 올리는 방식 자체가 내일부터 달라진다."
             }
           ]
         },
-        "image": "pipeline/media/indiedevs25.jpg"
-      },
-      {
-        "id": "metahumancrowds",
-        "eyebrow": "AI NEWS",
-        "headline": "언리얼에서 대규모\n메타휴먼 군중 만들기",
-        "body": "언리얼 페스트 세션에서 Mass와 Nanite로 메타휴먼 군중을 대규모로 채우는 파이프라인을 소개한다.",
-        "tool": "Social",
-        "source": "Unreal Engine",
-        "url": "https://www.youtube.com/watch?v=wQoa1j4Rgss",
-        "accent": "#ff2d55",
-        "motif": "frame",
-        "full": {
-          "mode": "summary",
-          "blocks": [
-            {
-              "t": "video",
-              "yt": "wQoa1j4Rgss"
-            },
-            {
-              "t": "p",
-              "x": "언리얼 페스트 시카고 2026 세션 영상이다. 언리얼 엔진에서 대규모 메타휴먼 군중을 채우는 방법을 다룬다."
-            },
-            {
-              "t": "p",
-              "x": "핵심은 Mass와 Nanite다. Mass로 수많은 캐릭터의 행동과 상태를 효율적으로 다루고, Nanite로 고밀도 지오메트리를 부담 없이 렌더링해 게임 월드를 디지털 휴먼으로 가득 채운다."
-            },
-            {
-              "t": "p",
-              "x": "무엇보다 언리얼이 직접 공개한 1차 소스다. 반복해 쓸 수 있는 프로덕션 파이프라인이라 눈길이 간다. 디자이너가 그대로 가져다 적용해볼 수 있는 기법 세션이다."
-            }
-          ]
-        },
-        "video": "pipeline/media/metahumancrowds.mp4",
-        "poster": "pipeline/media/metahumancrowds.jpg",
-        "image": "pipeline/media/metahumancrowds.jpg"
+        "image": "pipeline/media/houdini22.jpg"
       }
     ],
     "days": [
-      {
-        "date": "2026-07-15",
-        "cards": [
-          {
-            "id": "sts2-placeholder",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "headline": "슬레이 더 스파이어 2, 젠 AI 대신 일부러 '허접한' 손그림 쓴다",
-            "body": "메가 크릿은 미완성 티가 나야 한다며 젠 AI 대신 일부러 허접한 손그림을 얼리 액세스에 넣는다.",
-            "source": "GamesRadar+",
-            "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/sts2-placeholder.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "메가 크릿이 로그라이크 신작 '슬레이 더 스파이어 2'에 AI가 만든 이미지 대신 일부러 \"허접한\" 손그림 임시 아트를 넣고 있다. 게임의 리드인 공동 창업자 케이시 야노는 그게 게을러 보여서만이 아니라, 미완성 아트가 대놓고 미완성처럼 보이는 게 \"중요하다\"고 말한다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg"
-                },
-                {
-                  "t": "p",
-                  "x": "게임스팟과의 인터뷰에서 야노는 슬레이 더 스파이어 2의 임시 아트 접근법을 설명했다. 게임 속 타임라인에서 이런 그림을 잔뜩 볼 수 있는데, 마치 MS 페인트로 그린 것 같다. 야노는 이게 다분히 의도된 것이라고 했다."
-                },
-                {
-                  "t": "p",
-                  "x": "아직 얼리 액세스 단계라 \"일부 요소가 미완성이라는 걸 분명히 해두고 싶었다\"는 것이다. 3월 초기 출시 때 아티스트들은 더 많은 아트를 완성하고 싶었을지 몰라도, 야노는 \"얼리 액세스 동안에는 쓰레기 같은 그림을 잔뜩 그릴 걸 알고 있었다\"며 그렇지 않으면 \"사람들이 이 게임을 완성된 1.0 게임처럼 평가할 것\"이기에 미완성 느낌이 중요하다고 봤다."
-                },
-                {
-                  "t": "p",
-                  "x": "그는 이어 말한다. \"거의 완성된 것처럼 보이는 아트를 쓰면 사람들은 그게 최종 아트라고 생각한다. 허접해 보여야 한다. 허접해 보이는 게 중요하다.\""
-                },
-                {
-                  "t": "p",
-                  "x": "그렇다고 임시 아트가 아무 역할도 없는 건 아니다. 야노는 특히 타임라인에 쓰이는 그림이 일종의 \"틀\" 역할을 하길 바란다. 그 그림들은 서사의 핵심 장면이고 계획한 구도와 디테일, 색을 제대로 전달하려는 의도다."
-                },
-                {
-                  "t": "p",
-                  "x": "AI 생성 아트를 두고 야노는 반대 입장을 분명히 했다. \"예술적 과정을 거쳐 본 사람이라면… 속았다고까지는 아니어도 일종의 슬픔을 느낄 것이다. 누군가가 실력을 키우고 자기 스타일을 만들어 온 길이 안 보이니까.\" 게다가 게임이 이미 자기들만의 스타일인데 굳이 AI로 그 스타일을 흉내 낼 이유가 없다고 했다."
-                },
-                {
-                  "t": "p",
-                  "x": "사람이 그린 그림에는 \"지우는 선 하나, 다듬는 선 하나까지 거의 모든 선마다 결정 과정이 있다\"고 그는 말한다. 반면 AI 아트는 \"매우 밀도 높고 화려하며 뚜렷한\" 독특한 인상이라 나머지 아트 스타일과 안 맞고 \"그냥 게으르다\"는 것이다."
-                },
-                {
-                  "t": "p",
-                  "x": "야노가 AI 전체를 거부하는 건 아니다. 코드 리뷰에 쓰는 일부 프로그래머들에게 AI는 \"고급 맞춤법 검사기\" 정도라고 했다. 다만 생성형 AI는 다른 이야기여서 팀은 멀리한다. 그에게 아트는 \"정의할 수 있는 최종 목표\"가 있는 게 아니라 하나의 \"표현\"이기 때문이다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "lucas-ai-future",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "headline": "조지 루카스 'AI는 거스를 수 없는 미래'",
-            "body": "스타워즈 창시자 조지 루카스가 AI를 거부하는 건 자동차 시대에 마차를 고집하는 격이라며 AI를 \"미래\"라 불렀다.",
-            "source": "Kotaku",
-            "url": "https://kotaku.com/george-lucas-artificial-intelligence-ai-museum-art-2000715801",
-            "accent": "#f5a623",
-            "motif": "cube",
-            "image": "pipeline/media/lucas-ai-future.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "요즘은 유명 감독이 AI를 창작의 미래로 옹호하거나 손잡았다는 소식이 거의 매일 나온다. 이번 차례는 다름 아닌 스타워즈의 아버지 조지 루카스인데, 그 논리가 영 씁쓸하다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-14-at-9.46.17-AM-1200x675.jpg"
-                },
-                {
-                  "t": "p",
-                  "x": "루카스는 매체 '어 래빗츠 풋(A Rabbit's Foot)'과의 인터뷰에서 자신의 커리어와, 올가을 로스앤젤레스에 문을 여는 루카스 내러티브 아트 미술관을 이야기했다. 이 미술관은 수십 년치 사람 손으로 만든 예술을 전시하고 웹사이트 표현대로 \"이야기와 그것을 들려주는 사람들\"을 조명한다. 그는 인터뷰에서 영화 제작에 관한 통찰, 스티븐 스필버그 같은 이들과의 협업, 시사회 포커스 그룹의 함정에 관한 촌평도 남겼다."
-                },
-                {
-                  "t": "p",
-                  "x": "\"관객이 어떤 캐릭터를 싫어한다면 그건 흥미롭고, 감독으로서 나는 그 이유를 알고 싶다\"고 그는 말한다. \"하지만 스튜디오는 그 말을 잘못 알아듣는다. 관객이 직접 영화를 만들게 두는 것이다. 요즘은 그게 도를 넘었다. 온통 팬들이 어떻게 생각하느냐뿐이다. 그렇게 영화를 만드는 게 아니다. 영화 만들 줄 알고, 들려줄 이야기가 있고, 거기에 열정이 있는 사람을 찾아야 영화가 된다.\""
-                },
-                {
-                  "t": "p",
-                  "x": "그런데 인간 중심의 창작을 옹호하던 그가 곧바로 AI가 \"미래\"라고 주장하며, 신기술을 안 쓰는 걸 자동차 시대에 낡은 교통수단에 기대는 것에 빗댄다."
-                },
-                {
-                  "t": "p",
-                  "x": "\"인공지능 덕분에 우리가 영화를 훨씬 쉽게 만들 수 있다\"고 그는 말한다. \"이건 마치 여기 앉아서 '난 마차야말로 진짜라고 믿어. 자동차는 고장 나고 기름도 넣어야 하고 문제투성이야. 곧 그걸 탱크로 만들어 사람을 죽일 거야. 끔찍해'라고 말하는 것과 같다. 어쩔 도리가 없다. 그게 진보고, 미래다.\""
-                },
-                {
-                  "t": "p",
-                  "x": "'어 래빗츠 풋'이 더 캐묻자 루카스는 표절 기계의 위험은 인정하면서도, AI가 앞으로 줄 다른 이점을 내세우며 물러서지 않았다."
-                },
-                {
-                  "t": "p",
-                  "x": "\"무언가가 가짜인지, 어디서 왔는지 알려주는 AI를 원한다면 AI가 그걸 할 수 있다\"고 그는 말한다. \"인간은 못 한다. 우리는 그만큼 똑똑하지 않다. 핵심은 당신이 인간이고, 자기가 한 말과 행동에 책임을 진다는 것이다. 불법을 저질렀다면 벌을 받아야 한다. 무엇을 하든 그건 드러나기 마련이다. 현실과 똑같다.\""
-                },
-                {
-                  "t": "p",
-                  "x": "영화 '스타워즈 에피소드 5: 제국의 역습'에는 루크 스카이워커가 요다와 함께 제다이 훈련을 받으며 포스의 어두운 면이 밝은 면보다 강하냐고 묻는 장면이 있다. 요다는 그렇지 않지만 많은 이가 어두운 면에 빠지는 건 그쪽이 \"더 빠르고, 더 쉽고, 더 유혹적\"이기 때문이라고 답한다. 46년 전 영화지만 지금 루카스가 쓰는 논리를 잘 보여준다."
-                },
-                {
-                  "t": "p",
-                  "x": "그는 사람이 만든 예술의 중요함을 옹호하면서도 인간에게서 훔치기로 악명 높고 결과물은 대개 손으로 만든 것보다 형편없는 기술이 영화 제작을 \"더 쉽게\" 만든다고 주장한다. 위대한 영화를 만드는 게 인간의 정신이라는 믿음과, 그 인간성을 걷어내는 기술이 영화의 미래라는 믿음을 동시에 갖는 건 모순이다. 그게 순진하고 대세에 맞서는 일이라 해도, 나는 끝까지 맞서겠다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "vibe-clone-steam",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "headline": "AI 바이브 코딩이 스팀을 위협한다 '좋은 게임은 복제돼 묻힐 것'",
-            "body": "산업 애널리스트 피스카텔라는 AI 바이브 코딩이 인기 게임을 복제해 스팀 같은 상점을 뒤덮을 거라 경고한다.",
-            "source": "GamesRadar+",
-            "url": "https://www.gamesradar.com/games/good-games-will-get-cloned-and-buried-ai-vibe-coding-is-one-of-the-biggest-threats-on-storefronts-like-steam-analyst-warns/",
-            "accent": "#0070f3",
-            "motif": "cube",
-            "image": "pipeline/media/vibe-clone-steam.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "AI 기반 '바이브 코딩'이라는 개념만으로도 딸기 맛차 라떼를 뿜을 지경인데, 서카나(Circana) 산업 애널리스트 맷 피스카텔라는 그것이 스팀을 비롯한 게임 상점을 더 나쁘게 만들 참이라고 본다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg"
-                },
-                {
-                  "t": "p",
-                  "x": "이제 우리의 각박한 세상에선 아무것도 자라지 않는다. 실물 플레이스테이션 디스크도, 독창성도, AI 슬롭이 아닌 그 무엇도. 대표적인 예로 404 미디어는 AI 바이브 코딩 덕에 이제 개발자가 남의 비디오 게임을 때로는 수십 시간 만에 사실상 복제할 수 있다고 보도했다. 피스카텔라는 블루스카이에서 이 소식에 반응하며 이렇게 적었다. \"좋은 게임은 복제돼 묻힐 것이다. 플레이어는 자기가 알고 신뢰하는 게임과 프랜차이즈로 기울 것이다. 두각을 나타내기는 더 어려워질 것이다.\""
-                },
-                {
-                  "t": "p",
-                  "x": "혹시 몰라 덧붙이자면, 피스카텔라의 표현대로 이건 일부 전문가가 \"좋지 않다. 전혀 좋지 않다\"고 할 상황이다."
-                },
-                {
-                  "t": "p",
-                  "x": "성공한 게임, 특히 사회적 화제성은 있지만 저작권 변호사 팀은 없는 인디 스타들을 베낀 AI 짝퉁은 이미 대부분의 주요 상점에 널려 있다. 플레이스테이션 스토어의 가짜 'Peak'이나 닌텐도 e숍의 짝퉁 'REPO'가 그렇다. 지금도 스팀을 둘러보면 벅찬데, 앞으로 이런 상점들이 AI 쓰레기로 더 채워질 걸 상상하면 오싹하다."
-                },
-                {
-                  "t": "p",
-                  "x": "\"AI가 개발 시간과 비용을 낮춰 게임 시장에 도움이 될 거라 주장하는 이들에게 강력한 반박\"이라고 피스카텔라는 바이브 코딩을 두고 말한다. \"여기에 이미 거대한 발견의 난제, 곧 하루에 출시되는 게임 수의 폭증, 그리고 성숙기에 든 수요까지 더하면… 나쁘다!\""
-                },
-                {
-                  "t": "p",
-                  "x": "그래도 누군가 할 수 있는 일이 있지 않을까? 최소한 소니와 닌텐도 정도의 초대형 기업이라면 품질 관리를 더 잘해야 하는 것 아닐까?"
-                },
-                {
-                  "t": "p",
-                  "x": "\"지금으로선 막을 수 없어 보인다\"고 피스카텔라는 말한다. \"해법이라면… 그래, 내가 이걸 푸는 법을 안다면 지금 나가서 그걸 하며 섬 살 준비를 하고 있을 것이다.\""
-                },
-                {
-                  "t": "p",
-                  "x": "뭐, 어쩌겠나. 낙원에서의 또 하루일 뿐이다."
-                },
-                {
-                  "t": "p",
-                  "x": "올해 초 우리는 수십 명의 게임 개발자와 이야기하며 이들이 생성형 AI를 쓰고 싶어 하지 않는 수많은 이유를 들었다."
-                }
-              ]
-            }
-          }
-        ]
-      },
       {
         "date": "2026-07-16",
         "cards": [
@@ -3325,6 +2938,116 @@
             }
           }
         ]
+      },
+      {
+        "date": "2026-07-20",
+        "cards": [
+          {
+            "id": "damagecontrol",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "headline": "게임 배경 작업을 빠르게, 블렌더 툴킷 데미지 컨트롤",
+            "body": "제시 미에티넨이 스캐터·스머지 같은 생성형 도구를 묶어 블렌더 툴킷 데미지 컨트롤을 내놨다.",
+            "source": "80 Level",
+            "url": "https://80.lv/articles/jesse-miettinen-s-the-last-of-us-like-generator-finally-launches",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/damagecontrol.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
+                  "cap": "데미지 컨트롤 대표 이미지"
+                },
+                {
+                  "t": "p",
+                  "x": "제시 미에티넨이 블렌더용 툴킷 데미지 컨트롤(Damage Control)을 공개했다. 한때 그가 'The Last of Us-like generator'라고 부르던 프로젝트가 정식 출시로 이어졌다. 서로 맞물려 돌아가는 생성형 도구를 묶어, 게임 환경을 더 사실적으로 더 빠르게 만들도록 돕는다."
+                },
+                {
+                  "t": "p",
+                  "x": "구성은 스머지 마스크 제너레이터, 스캐터 툴, 제너레이티브 툴이고 여기에 추가 셰이더와 메가 프리셋까지 딸려 온다. 표면을 문지르고 오브젝트를 흩뿌리고 절차적으로 쌓아 올리는 작업을 한자리에서 처리한다."
+                },
+                {
+                  "t": "p",
+                  "x": "전부 지오메트리 노드로 짜여 성능에 신경 썼고, 오래 써도 호환성이 유지되도록 만들었다. 미에티넨은 3년치 업데이트를 지원하겠다고 밝혔다."
+                },
+                {
+                  "t": "p",
+                  "x": "지금은 검로드(embracefx.gumroad.com/l/damagecontrol)에서 받을 수 있고, 이후 슈퍼하이브(Superhive) 입점도 예정돼 있다. 개별 도구는 여름 휴가가 끝난 뒤 따로 풀린다. 빠르게 익히도록 유튜브 튜토리얼 시리즈도 함께 내놨다. 미에티넨은 이제 임브레이스 FX(Embrace FX) 이름으로 활동한다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "indiedevs25",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "headline": "인디 개발자 25명이 생성형 AI를 피하는 이유",
+            "body": "인디 스튜디오 25곳은 생성형 AI가 되레 더 못한 게임을 만든다며 도입을 꺼린다고 말한다.",
+            "source": "GamesRadar+",
+            "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+            "accent": "#0070f3",
+            "motif": "cube",
+            "image": "pipeline/media/indiedevs25.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+                  "cap": "생성형 AI를 멀리하는 인디 스튜디오"
+                },
+                {
+                  "t": "p",
+                  "x": "생성형 AI는 인디 개발의 가속 장치처럼 팔려 왔다. 적은 인원으로 더 많은 게임을 더 빨리 만들게 해준다는 얘기다. 그런데 한 기자가 만난 인디 스튜디오 25곳은 답이 달랐다."
+                },
+                {
+                  "t": "p",
+                  "x": "이들은 AI를 대체로 피한다고 말한다. 이유는 단순하다. 더 못한 게임을 만든다(It creates lesser games)는 것이다. 완성도와 손맛이 중요한 제작 현장에서 AI가 되레 걸림돌이 된다는 얘기다."
+                },
+                {
+                  "t": "p",
+                  "x": "기사는 AI가 실제로 어디에 들어맞고 어디서 어긋나는지를 스튜디오 25곳의 목소리로 짚는다. 담론이 아니라 현장 취재라서, 게임 디자인 작업 속 AI의 실제 위치를 가늠하게 해준다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "metahumancrowds",
+            "eyebrow": "AI NEWS",
+            "tool": "Social",
+            "headline": "언리얼에서 대규모 메타휴먼 군중 만들기",
+            "body": "언리얼 페스트 세션에서 Mass와 Nanite로 메타휴먼 군중을 대규모로 채우는 파이프라인을 소개한다.",
+            "source": "Unreal Engine",
+            "url": "https://www.youtube.com/watch?v=wQoa1j4Rgss",
+            "accent": "#ff2d55",
+            "motif": "frame",
+            "image": "pipeline/media/metahumancrowds.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "video",
+                  "yt": "wQoa1j4Rgss"
+                },
+                {
+                  "t": "p",
+                  "x": "언리얼 페스트 시카고 2026 세션 영상이다. 언리얼 엔진에서 대규모 메타휴먼 군중을 채우는 방법을 다룬다."
+                },
+                {
+                  "t": "p",
+                  "x": "핵심은 Mass와 Nanite다. Mass로 수많은 캐릭터의 행동과 상태를 효율적으로 다루고, Nanite로 고밀도 지오메트리를 부담 없이 렌더링해 게임 월드를 디지털 휴먼으로 가득 채운다."
+                },
+                {
+                  "t": "p",
+                  "x": "무엇보다 언리얼이 직접 공개한 1차 소스다. 반복해 쓸 수 있는 프로덕션 파이프라인이라 눈길이 간다. 디자이너가 그대로 가져다 적용해볼 수 있는 기법 세션이다."
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   },
@@ -3332,249 +3055,102 @@
     "label": "Books",
     "news": [
       {
-        "id": "fiction-feast",
+        "id": "fanfic-ai-markers",
         "tool": "Books",
         "eyebrow": "AI NEWS",
-        "headline": "픽션 피스트, 자체 소설에\nAI 도구를 쓴다고 통보",
-        "body": "영국의 대표 단편 잡지 픽션 피스트가 자체 제작 소설에 AI 도구를 활용하겠다고 기고 작가들에게 알렸다.",
-        "source": "The Bookseller",
-        "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
+        "headline": "복사해 붙인 글에 남은 흔적이\nAI 사용을 드러내다",
+        "body": "클로드에서 붙여넣은 글에 숨은 표식이 남아, AI를 꺼리던 팬픽 커뮤니티의 광범위한 AI 사용이 드러났다.",
+        "source": "Jane Friedman",
+        "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
         "accent": "#f5a623",
         "motif": "swatch",
         "full": {
           "mode": "summary",
           "blocks": [
             {
+              "t": "p",
+              "x": "클로드 같은 AI로 쓴 글을 아카이브 오브 아워 온(AO3)에 복사해 붙이면, 눈에 보이지 않는 표식이 텍스트에 그대로 남는다."
+            },
+            {
+              "t": "p",
+              "x": "이 흔적 덕분에, AI 창작에 강하게 반대해 온 팬픽 커뮤니티 안에서도 AI의 손을 빌린 글쓰기가 폭넓게 이뤄져 왔다는 사실이 드러났다."
+            },
+            {
+              "t": "p",
+              "x": "붙여넣기만으로는 지워지지 않는 이 표식은 작가와 편집자가 직접 확인해 볼 수 있는 AI 판별 단서가 된다."
+            },
+            {
               "t": "img",
-              "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-              "cap": "AI 도구 활용을 알린 픽션 피스트 (이미지: 셔터스톡)"
-            },
-            {
-              "t": "p",
-              "x": "'테이크 어 브레이크'가 내는 단편 잡지 픽션 피스트가 정기 기고 작가들에게, 앞으로 편집부가 자체 제작하는 소설에 'AI 도구를 쓰겠다'고 알렸다."
-            },
-            {
-              "t": "p",
-              "x": "영국에서 가장 잘 알려진 단편 소설 잡지 가운데 하나가 편집 관행을 이렇게 바꾸는 건 그 자체로 눈에 띄는 변화다."
-            },
-            {
-              "t": "p",
-              "x": "다만 이 방침이 적용되는 건 외부에서 투고받는 원고가 아니라 편집부가 앞으로 자체 제작하는 이야기다."
+              "src": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg"
             }
           ]
         },
-        "image": "pipeline/media/fiction-feast.jpg"
+        "image": "pipeline/media/fanfic-ai-markers.jpg"
       },
       {
-        "id": "cartland-voice",
+        "id": "vancouver-ai-disclosure",
         "tool": "Books",
         "eyebrow": "AI NEWS",
-        "headline": "볼린다, 인터뷰와 자료로\n카틀랜드 목소리를 복원",
-        "body": "오디오북 출판사 볼린다가 인터뷰와 자료 조사에 사람의 손을 더해 고 바버라 카틀랜드의 목소리를 AI로 되살렸다.",
-        "source": "The Bookseller",
-        "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
+        "headline": "학술계 AI 공개를 위한\n밴쿠버 표준이 나온다",
+        "body": "AI를 쓴 연구자 약 3분의 1이 이를 밝히지 않는다는 조사 뒤, 학술 AI 공개 기준인 '밴쿠버 표준'이 국제 협의로 마련된다.",
+        "source": "The Scholarly Kitchen",
+        "url": "https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/",
         "accent": "#0070f3",
         "motif": "swatch",
         "full": {
           "mode": "summary",
           "blocks": [
             {
-              "t": "img",
-              "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
-              "cap": "바버라 카틀랜드 (사진: 바버라 카틀랜드 재단)"
+              "t": "p",
+              "x": "학술 연구에서 AI 사용을 어떻게 밝힐지 정하는 '밴쿠버 표준'이 국제 협의를 거쳐 초안 작업에 들어갔다."
             },
             {
               "t": "p",
-              "x": "오디오북 출판사 볼린다가 세상을 떠난 로맨스 소설가 바버라 카틀랜드의 목소리를 AI로 복제했다. 인터뷰와 아카이브 자료 조사에 사람의 손길을 더해 만들어낸 결과다."
+              "x": "배경에는 AI를 활용한 연구자 가운데 약 3분의 1이 논문을 낼 때 그 사실을 전혀 알리지 않는다는 조사 결과가 있다."
             },
             {
               "t": "p",
-              "x": "이 목소리는 카틀랜드의 작품 목록을 낭독하는 데 쓴다. 작가 특유의 목소리를 되살려 새 오디오북 판본으로 다시 내놓겠다는 취지다."
-            },
-            {
-              "t": "p",
-              "x": "기계에만 맡기지 않고 사람이 중간에 판단을 더했다는 점이 이번 사례의 특징이다. 세상을 떠난 작가의 목소리를 새 판본으로 되살린 셈이다."
+              "x": "공통된 공개 기준이 자리를 잡으면 저자와 편집자, 출판사가 AI 사용을 기록하는 방식도 달라질 전망이다."
             }
           ]
         },
-        "image": "pipeline/media/cartland-voice.jpg"
+        "image": "pipeline/media/vancouver-ai-disclosure.jpg"
+      },
+      {
+        "id": "bloomsbury-ai-licensing",
+        "tool": "Books",
+        "eyebrow": "AI NEWS",
+        "headline": "블룸즈버리, AI 라이선스로\n실적을 끌어올리다",
+        "body": "블룸즈버리가 구글 AI 라이선스 수익으로 실적을 올린 가운데, 여러 출판사는 무단 학습을 이유로 구글을 제소했다.",
+        "source": "Publishing Perspectives",
+        "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
+        "accent": "#7928ca",
+        "motif": "swatch",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "이번 주 출판계 소식은 블룸즈버리의 실적 발표가 이끌었다. 구글과 맺은 AI 라이선스에서 나온 수익이 좋은 성적을 뒷받침했다."
+            },
+            {
+              "t": "p",
+              "x": "반면 여러 출판사는 자사 도서를 제미나이 학습에 무단으로 썼다며 구글을 상대로 법적 대응에 나섰다."
+            },
+            {
+              "t": "p",
+              "x": "같은 AI 학습을 두고 한쪽은 소송으로 맞서고 다른 한쪽은 수익을 거두는, 업계의 엇갈린 풍경이 함께 드러난다."
+            },
+            {
+              "t": "img",
+              "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png"
+            }
+          ]
+        },
+        "image": "pipeline/media/bloomsbury-ai-licensing.png"
       }
     ],
     "days": [
-      {
-        "date": "2026-07-15",
-        "cards": [
-          {
-            "id": "kindle-translate-expand",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "headline": "아마존 킨들 AI 번역 6개 언어로 확대",
-            "body": "아마존이 KDP 독립 작가용 무료 AI 번역 서비스 킨들 번역을 영어 포함 6개 언어로 넓혔다.",
-            "source": "Good e-Reader",
-            "url": "https://goodereader.com/blog/kindle/the-amazon-kindle-has-new-ai-powered-translations",
-            "accent": "#f5a623",
-            "motif": "swatch",
-            "image": "pipeline/media/kindle-translate-expand.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "아마존이 베타 AI 번역 서비스 Kindle Translate에 새 언어 조합을 더했다. 킨들 다이렉트 퍼블리싱(KDP) 작가가 전자책을 전 세계 독자와 더 쉽게 나누도록 돕는 도구다. 이제 영어와 스페인어, 독일어, 프랑스어, 이탈리아어, 포르투갈어 사이 번역을 지원한다. 지금까지 Amazon.com 도서 가운데 두 개 이상 언어로 나온 책은 5%도 안 됐다. 그만큼 Kindle Translate는 작가가 새 독자층에 닿고 더 벌 기회를 연다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://media.goodereader.com/blog/uploads/images/2026/07/01164056/assetsaboutamazon.jpg",
-                  "cap": "아마존 킨들 번역"
-                },
-                {
-                  "t": "p",
-                  "x": "현재 KDP 작가 대상 베타인 이 번역 서비스로 작가가 직접 번역본을 만들고 관리한다. 언어를 고르고 정가를 매기고 작품을 낼 수 있다. 클릭 몇 번이면 완전히 편집된 번역본이 나온다. 모든 번역은 출간 전 정확성과 품질을 자동 검수받는다. 작가는 미리 보거나, 준비되면 자동으로 낼지 고른다. 이렇게 번역된 작품은 KDP 실렉트에 넣어 킨들 언리미티드에 포함할 수 있다."
-                },
-                {
-                  "t": "p",
-                  "x": "이번 확장은 아마존 KDP의 약속을 잇는다. 독립 작가가 전 세계 독자에게 닿고 수익을 늘리도록 돕겠다는 약속이다. Kindle Translate는 독립 작가에게 무료 번역을 제공한다. 독립 작가 Diane C.는 \"Kindle Translate와 일하는 게 예전 번역 서비스보다 낫고 빠르고 훨씬 쉽다. 전엔 엄두도 못 낸 언어를 이제 내놓을 수 있다\"고 말했다. KDP 작가 Isabel Acuña도 생각을 전했다. \"Kindle Translate 베타를 써 보니 자비출판 작가도 국제 독자에게 닿는 데 더는 언어에 갇히지 않아도 된다는 걸 알았다. 아마존이 우리가 사업을 키우고 좋아하는 글쓰기로 먹고살 도구를 주는 걸 보니 놀랍다.\""
-                }
-              ]
-            }
-          },
-          {
-            "id": "ai-audiobook-surveys",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "headline": "AI 오디오북 내레이션 엇갈린 두 조사",
-            "body": "청취자 61%가 다중 배역 장면에서 AI 목소리를 사람으로 착각하고 오히려 더 선호했다.",
-            "source": "Publishers Weekly",
-            "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
-            "accent": "#7928ca",
-            "motif": "swatch",
-            "image": "pipeline/media/ai-audiobook-surveys.jpg",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "포틀랜드의 AI 오디오북 제작사 Spoken이 의뢰한 조사에서 응답자 61%가 AI 내레이션 일부를 사람 목소리로 착각했다. 같은 비율이 여러 인물이 나오는 장면에서 AI 음성 사용을 호의적으로 봤다. 반면 인물이 여럿 등장하지 않는 설명 대목에서는 여전히 사람 낭독을 선호했다."
-                },
-                {
-                  "t": "p",
-                  "x": "조사는 5월 Edison Research at SSRS가 소설 오디오북 청취자라고 밝힌 미국 성인 1,005명을 대상으로 진행했다. 응답자는 전문 성우 낭독이나, 한 대목 안에서 인물마다 다른 목소리를 입힌다는 Spoken의 'Multi-Cast technology' 발췌를 무작위로 들었다. Spoken은 여러 성우를 조율해야 하는 기존 제작보다 값싸고 빠른 대안이라며 이 서비스를 판다."
-                },
-                {
-                  "t": "p",
-                  "x": "샘플을 들은 뒤 다중 음성 오디오북을 완청하겠다는 응답은 듣기 전 31%에서 65%로 올랐다. 자주 듣는 청취자 중 81%는 인물마다 다른 목소리에 관심을 보였고 51%는 '매우 관심 있다'고 답했다. 낭독 품질과 몰입감, 여러 인물 목소리가 저렴한 가격이나 유명인 낭독보다 선택에 더 크게 작용했다."
-                },
-                {
-                  "t": "p",
-                  "x": "이 발표는 오디오북 출판인협회(APA)가 역시 Edison에 맡긴 2026 소비자 조사와 엇갈린다. 6월 5일 공개된 그 조사에서 AI 낭독을 들어볼 의향은 2025년 70%에서 2026년 61%로 떨어졌고, 실제로 들어본 청취자는 16%뿐이었다. AI 낭독 작품은 발행이 늘어도 2025년 오디오북 매출의 0.03%에 그쳤다."
-                },
-                {
-                  "t": "p",
-                  "x": "\"AI 생성 내레이션에 수요가 조금 있긴 하지만, 몇 달 전 조사를 보면 AI 낭독 오디오북을 들어본 청취자 비율은 여전히 꽤 낮습니다\"라고 APA 사무총장 Jim Dinegar가 PW에 말했다. 그는 구작 목록에서 나오거나 시장이 크지 않은 책은 녹음 비용 탓에 AI 낭독이 는다며 가격 민감성을 한 요인으로 꼽았다."
-                },
-                {
-                  "t": "p",
-                  "x": "두 연구 모두 Edison이 맡았지만 설계는 달랐다. Spoken은 통제된 블라인드 청취 실험의 반응을, APA는 더 넓은 청취층의 자기 보고식 의향을 쟀다. 대사가 많은 소설은 무대극처럼 목소리 사이의 감정적·심리적 교류에 기댄다. 한 낭독자는 아무리 사람 같은 AI라도 재현하도록 설계되지 않은 해석적이고 문화적으로 물든 관점을 텍스트에 불어넣는다."
-                },
-                {
-                  "t": "p",
-                  "x": "엇갈린 두 조사는 Audible이 최근 해리 포터 전편 풀캐스트 오디오판을 내놓으며 보여준 다중 음성 제작 관심이 되살아나는 가운데 나왔다. Dinegar는 APA 판매 조사에서 '해마다 꾸준하고 인상적으로 오르는 오디오북 판매'를 확인했다면서도 \"청취자들은 사람 목소리를 강하게 선호합니다\"라고 말했다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "google-gemini-suit",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "headline": "출판사들, 제미나이 학습에 책 무단 복제 소송",
-            "body": "출판사들이 제미나이를 학습시키려고 책 수백만 권을 무단 복제했다며 구글에 집단 소송을 냈다.",
-            "source": "Publishing Perspectives",
-            "url": "https://publishingperspectives.com/2026/07/u-s-publishers-sue-google-alleging-massive-copyright-infringement-behind-its-gemini-ai-service/",
-            "accent": "#2ec5c5",
-            "motif": "swatch",
-            "image": "pipeline/media/google-gemini-suit.jpg",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "img",
-                  "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Googleplex_-_June_2019_5865-793x529.jpg",
-                  "cap": "구글플렉스"
-                },
-                {
-                  "t": "p",
-                  "x": "미국출판협회(AAP)는 회원사인 Cengage Group, Elsevier, Hachette Book Group이 구글을 상대로 소송을 냈다고 밝혔다. 캘리포니아에서 벌어진 제미나이 저작권 소송에 참가를 신청한 지 약 6개월 만이다. 7월 10일 뉴욕 연방법원에 낸 이 집단소송에는 베스트셀러 작가 Scott Turow도 이름을 올렸다."
-                },
-                {
-                  "t": "p",
-                  "x": "소장은 구글이 제미나이를 학습시키려고 저작물 수백만 건을 불법 복제했다고 주장한다. 유료 구독 장벽 뒤에서 긁어 오거나 '알려진 불법 복제 사이트'에서 가져온 것, Google Books와 Google Play, Google Scholar에 올라온 스캔본이 포함됐다는 것이다. 저작권 표시를 지워 이를 감췄다는 혐의도 있다."
-                },
-                {
-                  "t": "p",
-                  "x": "출판사들은 \"그 결과는 원고와 집단 구성원의 저작물과 시장에서 직접 경쟁하는 AI 시스템\"이라고 밝혔다. 소장에 따르면 제미나이는 \"조용한 해변 마을을 배경으로 비밀이 가득한 100쪽짜리 추리소설\"을 단 39센트에 \"20분\" 만에 지어낸다. \"어떤 출판사나 작가도 그와 경쟁할 수 없다\"는 것이다."
-                },
-                {
-                  "t": "p",
-                  "x": "가장 눈길을 끄는 대목은 애초 '용도가 한정된' 프로그램인 Google Books, Google Play 스토어, Google Scholar에서 얻은 책까지 학습에 썼다는 주장이다. Google Books의 합법성은 대중에게 무료 검색 색인만 준다는 좁은 전제에 달렸고, 2015년 미국 항소법원 판결 어디에도 상업용 AI 모델 학습을 위한 복제를 공정 이용으로 인정한 대목은 없다고 출판사들은 짚는다. Google Play는 승인된 전자책을 파는 용도, Google Scholar는 논문 수백만 편으로 검색 엔진을 돌리는 용도로만 접근이 허용됐다고 했다. 소장은 구글 내부에서도 Google Play 책으로 AI를 학습시키는 것이 \"구글에 매우 곤란할 수 있다\"고 인정한 정황을 인용했다."
-                },
-                {
-                  "t": "p",
-                  "x": "출판사들은 구글의 행위가 저작권법 위반임을 선언하고, 침해 금지 명령과 법정 최고 한도의 손해배상, 구글이 가진 침해 복제본 폐기를 법원에 요구했다. 이번 소송은 Elsevier·Cengage·Hachette·Macmillan·McGraw Hill 다섯 출판사가 Turow와 함께 메타와 마크 저커버그를 뉴욕에서 제소한 지 두 달 만에 나왔다."
-                },
-                {
-                  "t": "p",
-                  "x": "출판사들은 2023년 시작돼 캘리포니아 북부지방법원 Eumi K. Lee 판사가 맡은 'In Re Google Generative AI Copyright Litigation'에 지난 1월 참가를 신청했으나 아직 결정을 받지 못했고, 이번에 별도 소송으로 방향을 틀었다. 블로거 Edward Lee의 집계로 미국 법원에 걸린 AI 소송은 128건에 이른다. 한편 15억 달러 규모의 'Bartz v. Anthropic' 합의는 5월 14일 최종 공정성 심리를 거쳐 승인만 남았다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "ipa-childrens-books",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "headline": "IPA 총회, 아이들의 독서와 문해력 조명",
-            "body": "IPA 총회의 아동 출판 세션은 AI가 아니라 형식과 콘텐츠의 질이 아이들 독서를 좌우한다고 봤다.",
-            "source": "Publishers Weekly",
-            "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100804-2026-ipa-congress-spotlights-children-s-books-and-literacy.html",
-            "accent": "#eb367f",
-            "motif": "swatch",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "말레이시아 쿠알라룸푸르에서 열린 제35회 국제출판협회(IPA) 총회가 7월 7일 이틀 일정을 마쳤다. 아동·YA 출판을 다룬 세션은 세 개였다."
-                },
-                {
-                  "t": "p",
-                  "x": "'세계를 잇다: 다음 세대를 위한 문화 간 스토리텔링과 독서' 세션에서 캐나다 출판 컨설턴트 Simon de Jocas가 볼로냐 아동도서전 디렉터 Elena Pasoli, 말레이시아 IBBY 회장 Ahmad Redza bin Ahmad Khairuddin과 아동문학과 독서 습관의 현주소를 짚었다. Pasoli는 \"아이들이 좋아하는, 대개 익숙하고 아는 것을 계속 주되, 필요하거나 알아야 할 다른 것도 꼭 소개하라\"며 \"책은 외로움을 타는 아이들을 세상과 이어 주고, 다른 세계를 여행하게 해 소속감과 공감을 키운다\"고 했다."
-                },
-                {
-                  "t": "p",
-                  "x": "Ahmad Redza는 자신이 아끼던 Enid Blyton의 The Famous Five와 The Secret Seven을 아이들에게 물려주려 했지만 새 판본에도 관심이 없었고 대신 반지의 제왕과 해리 포터를 좋아했다고 털어놨다. 그는 \"환경이 바뀌었고 아이들은 학교에서 많은 시간을 보낸다. 여전히 읽고 있다면 그걸로 충분하고 희망적\"이라고 했다. 또 \"기술은 위협도 악도 아니다. 디지털 책은 특수한 도움이 필요한 아이에게 콘텐츠를 접하게 해 준다. 문제는 형식이 아니라 콘텐츠\"라고 강조했다."
-                },
-                {
-                  "t": "p",
-                  "x": "'유산을 잇다: 아동 출판 반세기' 세션에서는 세계에서 손꼽히는 아동 출판사 Gallimard Jeunesse에 눈길이 쏠렸다. CEO Hedwige Pasquet가 Grupo Girassol Brasil의 CEO Karine Pansa와 마주 앉았다. 2025년 어린 왕자, 베아트릭스 포터, 해리 포터, 로알드 달 같은 구작이 이 회사 총매출 5,200만 유로의 64% 이상을 차지했고 그중 600만 유로가 해외 판매였다. 전 세계 아동·청소년에게 팔리는 책 10권 중 1권이 Gallimard Jeunesse 책이다."
-                },
-                {
-                  "t": "p",
-                  "x": "Pasquet는 회사의 목표와 가치가 창립 이래 그대로라며 뛰어난 콘텐츠, 삽화로 전하는 아름다움, 새 형식을 만드는 창의성을 꼽았다. AI는 주로 마케팅과 홍보에 쓰고 편집 과정에는 쓰지 않는다고 했다."
-                },
-                {
-                  "t": "p",
-                  "x": "총회 이틀째에는 깊어지는 문해력 위기가 화두였다. 수억 명의 아이와 청소년이 책 없이 자란다. 유네스코 교육·책문화 친선대사이자 Kalimat Group과 PublisHer 설립자 Sheikha Bodour Al Qasimi가 Oreham Group의 Emma House와 대담했다. 그는 \"출판물은 넘쳐나지만 난민 캠프나 인터넷이 없는 곳에서는 종이책도 전자책도 접하기 어렵다\"며 \"책이 있으면 난민도 미래의 길을 다시 그릴 수 있다\"고 했다."
-                },
-                {
-                  "t": "p",
-                  "x": "이어 그는 \"책이 독자를 만드는 게 아니라 읽는 문화가 독자를 만든다\"며 \"AI가 책 만드는 방식을 바꾸고 있지만 어떤 알고리즘도 독서와 사랑에 빠지지 않는다. 사람은 그럴 수 있다. 책 한 권이 삶을 바꾼다\"고 말했다."
-                }
-              ]
-            }
-          }
-        ]
-      },
       {
         "date": "2026-07-16",
         "cards": [
@@ -3977,6 +3553,79 @@
             }
           }
         ]
+      },
+      {
+        "date": "2026-07-20",
+        "cards": [
+          {
+            "id": "fiction-feast",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "headline": "픽션 피스트, 자체 소설에 AI 도구를 쓴다고 통보",
+            "body": "영국의 대표 단편 잡지 픽션 피스트가 자체 제작 소설에 AI 도구를 활용하겠다고 기고 작가들에게 알렸다.",
+            "source": "The Bookseller",
+            "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/fiction-feast.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+                  "cap": "AI 도구 활용을 알린 픽션 피스트 (이미지: 셔터스톡)"
+                },
+                {
+                  "t": "p",
+                  "x": "'테이크 어 브레이크'가 내는 단편 잡지 픽션 피스트가 정기 기고 작가들에게, 앞으로 편집부가 자체 제작하는 소설에 'AI 도구를 쓰겠다'고 알렸다."
+                },
+                {
+                  "t": "p",
+                  "x": "영국에서 가장 잘 알려진 단편 소설 잡지 가운데 하나가 편집 관행을 이렇게 바꾸는 건 그 자체로 눈에 띄는 변화다."
+                },
+                {
+                  "t": "p",
+                  "x": "다만 이 방침이 적용되는 건 외부에서 투고받는 원고가 아니라 편집부가 앞으로 자체 제작하는 이야기다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "cartland-voice",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "headline": "볼린다, 인터뷰와 자료로 카틀랜드 목소리를 복원",
+            "body": "오디오북 출판사 볼린다가 인터뷰와 자료 조사에 사람의 손을 더해 고 바버라 카틀랜드의 목소리를 AI로 되살렸다.",
+            "source": "The Bookseller",
+            "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
+            "accent": "#0070f3",
+            "motif": "swatch",
+            "image": "pipeline/media/cartland-voice.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
+                  "cap": "바버라 카틀랜드 (사진: 바버라 카틀랜드 재단)"
+                },
+                {
+                  "t": "p",
+                  "x": "오디오북 출판사 볼린다가 세상을 떠난 로맨스 소설가 바버라 카틀랜드의 목소리를 AI로 복제했다. 인터뷰와 아카이브 자료 조사에 사람의 손길을 더해 만들어낸 결과다."
+                },
+                {
+                  "t": "p",
+                  "x": "이 목소리는 카틀랜드의 작품 목록을 낭독하는 데 쓴다. 작가 특유의 목소리를 되살려 새 오디오북 판본으로 다시 내놓겠다는 취지다."
+                },
+                {
+                  "t": "p",
+                  "x": "기계에만 맡기지 않고 사람이 중간에 판단을 더했다는 점이 이번 사례의 특징이다. 세상을 떠난 작가의 목소리를 새 판본으로 되살린 셈이다."
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   },
@@ -3984,371 +3633,123 @@
     "label": "Gadgets",
     "news": [
       {
-        "id": "codex-micro",
+        "id": "meta-privacy-led",
         "eyebrow": "AI NEWS",
-        "headline": "OpenAI 첫 하드웨어는\n코딩 에이전트 조작용 매크로패드",
-        "body": "OpenAI가 첫 하드웨어로 AI 코딩 에이전트를 손끝으로 다루는 230달러짜리 매크로패드 코덱스 마이크로를 내놨다.",
-        "tool": "OpenAI",
-        "source": "Gizmodo",
-        "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
+        "headline": "프라이버시 LED를 가리면\n카메라가 스스로 꺼진다",
+        "body": "메타가 v26 업데이트를 배포해 프라이버시 LED가 훼손되면 스마트글래스 카메라가 꺼지도록 강제한다.",
+        "tool": "Meta",
+        "source": "9to5Google",
+        "url": "https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
         "accent": "#ff5a4d",
         "motif": "headset",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
-              "t": "img",
-              "src": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
-              "cap": "OpenAI 코덱스 키보드 홍보 이미지"
-            },
-            {
               "t": "p",
-              "x": "OpenAI가 첫 하드웨어를 정식으로 내놨다. 다들 떠올리던 그 제품은 아니다. ChatGPT를 만든 회사가 수요일 AI 코딩 에이전트 Codex 전용으로 쓰는 230달러짜리 미니 키보드를 공개했다. 프로그래머블 키보드와 매크로패드를 만드는 Work Louder와 손잡았다."
-            },
-            {
-              "t": "p",
-              "x": "엄밀히 보면 풀 키보드라기보다 프로그래머블 매크로패드에 가깝다. 작고 네모난 이 패드의 정식 명칭은 kbd-1.0-codex-micro, 줄여서 Codex Micro다."
-            },
-            {
-              "t": "p",
-              "x": "OpenAI 개발자 계정은 X에 기기가 작동하는 영상과 함께 이렇게 적었다. \"Map the buttons and joystick to your workflow, and keep your pinned chats in view.\" 제품 페이지는 이 기기를 \"command center for agentic work\"라고 소개한다."
+              "x": "메타가 레이밴과 오클리 스마트글래스에 v26 업데이트를 의무 배포한다. 촬영 중임을 알리는 프라이버시 LED를 물리적으로 가리거나 망가뜨리면, 이번 업데이트가 카메라 기능을 아예 꺼버린다."
             },
             {
               "t": "img",
-              "src": "https://gizmodo.com/app/uploads/2026/07/Codex-micro-overview-orange.jpeg",
-              "cap": "Codex Micro"
+              "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&strip=all&w=1200"
             },
             {
               "t": "p",
-              "x": "기기에는 기계식 스위치 13개와 터치 센서, 로터리 다이얼, 조이스틱이 달렸다. 클릭감 있는 버전과 조용한 버전 두 가지로 나온다. 구매자는 Codex 아이콘 키캡 32개도 함께 받아 원하는 단축키로 패드를 꾸밀 수 있다."
-            },
-            {
-              "t": "p",
-              "x": "여기에 불이 들어오는 키 6개는 색으로 각 에이전트 상태를 알린다. 초록은 읽지 않은 메시지, 파랑은 생각 중, 주황은 승인이 필요하거나 질문이 있다는 뜻, 빨강은 오류가 났다는 신호다."
-            },
-            {
-              "t": "p",
-              "x": "조이스틱은 오류 디버깅이나 코드 리팩터링 같은 워크플로를 띄우도록 프로그래밍할 수 있다. 다이얼로는 Codex가 작업에 쓸 추론 수준을 조절한다."
-            },
-            {
-              "t": "p",
-              "x": "이 키보드는 OpenAI가 오래 소문만 무성하던 소비자용 기기를 두고 관심이 커지는 와중에 나왔다. 블룸버그는 화요일 익명의 소식통을 인용해 크게 기대받는 그 제품이 스스로 움직이는 화면 없는 스마트 스피커일 수 있다고 보도했다. 이 기기는 음악과 미디어를 틀고 가전을 제어하며 질문에 답하는 등 여러 일을 ChatGPT로 처리하는 \"humanlike AI companion\"을 겨냥한다고 한다. 올해 안에 공개해 2027년 출시할 전망이다. OpenAI는 별도의 모바일 AI 기기도 살펴보고 있다고 전해진다."
-            },
-            {
-              "t": "p",
-              "x": "이 프로젝트들은 애플 전 디자인 총괄 Jony Ive가 세운 하드웨어 스타트업 io Products와 함께 개발 중인 것으로 알려졌다. OpenAI는 지난해 io Products를 65억 달러에 인수했다."
-            },
-            {
-              "t": "p",
-              "x": "다만 OpenAI의 하드웨어 야심은 벌써 법적 분쟁을 불렀다. 애플은 지난주 캘리포니아 연방법원에 OpenAI와 애플 전 직원 2명을 제소했다. 애플의 제조 공정과 아직 개발 중인 제품에 얽힌 영업 비밀을 빼돌렸다는 주장이다. 이 소송에는 io Products도 피고로 이름을 올렸다."
-            },
-            {
-              "t": "p",
-              "x": "당장은 OpenAI 기기를 손에 넣고 싶은 사람이라면 새 Codex 키보드로 아쉬움을 달래야 한다."
+              "x": "그동안 이 불빛을 테이프로 덮어 몰래 찍는 우회가 문제로 지적됐다. 불빛과 카메라를 한 몸으로 묶어, 주변 사람에게 촬영 사실을 알리는 신호가 사라지면 촬영 자체도 막히도록 만든 것이다."
             }
           ]
         },
-        "image": "pipeline/media/codex-micro.jpg"
+        "image": "pipeline/media/meta-privacy-led.jpg"
       },
       {
-        "id": "gemini-home",
+        "id": "samsung-unpacked-july",
         "eyebrow": "AI NEWS",
-        "headline": "제미나이, 연이은 명령도\n끊김 없이 받아낸다",
-        "body": "구글 홈의 제미나이가 음성 확인 없이 연이은 명령을 더 안정적으로 처리한다. 날씨·스포츠 화면도 함께 나아진다.",
-        "tool": "Google",
-        "source": "Android Authority",
-        "url": "https://www.androidauthority.com/gemini-for-home-visual-improvements-3685543/",
+        "headline": "갤럭시 언팩, 폴드8과\n에이전트 AI를 함께 연다",
+        "body": "22일 언팩을 앞두고 삼성이 갤럭시 Z 폴드8·플립8과 함께 예측·에이전트형 갤럭시 AI를 선보일 전망이다.",
+        "tool": "Samsung",
+        "source": "Gizmodo",
+        "url": "https://gizmodo.com/what-were-expecting-at-samsungs-july-galaxy-unpacked-2026-2000787025",
         "accent": "#0070f3",
         "motif": "headset",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
+              "t": "p",
+              "x": "7월 22일 언팩을 앞두고 삼성이 무엇을 내놓을지 윤곽이 잡혔다. 접는 폰 갤럭시 Z 폴드8과 Z 플립8, 그리고 새 스마트워치가 무대에 오를 것으로 보인다."
+            },
+            {
               "t": "img",
-              "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-nest-hub-google-home-speaker-hero-1-scaled.jpg",
-              "cap": "나란히 놓인 구글 네스트 허브와 구글 홈 스피커"
+              "src": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48.jpg"
             },
             {
               "t": "p",
-              "x": "구글 홈이 여러 개선 사항을 배포하고 있다. 앞서 이 매체는 홈 앱의 '추천 자동화'와 카메라 기능 개선을 다뤘다. 이번에는 제미나이 포 홈 음성 비서도 몇 가지 업그레이드를 받는다."
-            },
-            {
-              "t": "p",
-              "x": "릴리스 노트에 따르면 구글은 스마트 디스플레이에서 더 보기 좋은 비주얼 카드로 일상 도움말과 답변을 다듬는다. 다음에 날씨 예보를 묻거나 궁금한 걸 물어보면 새로 손본 시각 레이아웃으로 답이 뜬다. 스포츠 소식 요청에 대한 답변도 좋아졌다. 회사 측은 \"responses will now be more accurate and up-to-date when asking about scores, schedules, and team standings\"라고 밝혔다."
-            },
-            {
-              "t": "p",
-              "x": "후속 대화를 제미나이가 자꾸 끊어 답답했다면 그 부분도 고쳐진다. 구글은 '대화 이어가기'로 연달아 내리는 명령과 후속 질문에 대한 답변이 더 안정적이라고 설명했다. 여기에 제미나이가 대화 도중 음성 확인을 요구하지도 않는다."
-            },
-            {
-              "t": "p",
-              "x": "이 변경 사항은 오늘 배포되니 머지않아 개선된 모습을 직접 보게 된다. 이번 배포는 구글이 6월 말 제미나이 포 홈 음성 비서에 대화와 지연 시간을 손본 데 이어 나왔다."
+              "x": "이번 초점은 하드웨어보다 갤럭시 AI의 확장에 있다. 사용자의 다음 행동을 미리 읽는 예측 기능, 스스로 일을 처리하는 에이전트, 사진을 생성형으로 손보는 도구까지 폭넓게 더해질 것으로 예상된다."
             }
           ]
         },
-        "image": "pipeline/media/gemini-home.jpg"
+        "image": "pipeline/media/samsung-unpacked-july.jpg"
       },
       {
-        "id": "ear-3a",
+        "id": "irobot-roomba-relaunch",
         "eyebrow": "AI NEWS",
-        "headline": "99달러 이어버드에\n들어온 온디바이스 녹음",
-        "body": "노싱 이어(3a)는 99달러에 꼬집어 담는 오디오 스냅샷 녹음부터 AI 전사·요약, 챗GPT 연동까지 챙겼다.",
-        "tool": "Nothing",
-        "source": "Engadget",
-        "url": "https://www.engadget.com/2202348/nothing-announces-ear-3a-sub-dollar100-anc-earbuds/",
-        "accent": "#7928ca",
+        "headline": "아이로봇, AI 청소기\n다섯 종을 다시 내놓는다",
+        "body": "새 주인을 맞은 아이로봇이 AI 주행과 165도 온수 세척 도크를 갖춘 룸바 다섯 종을 공개했다.",
+        "tool": "iRobot",
+        "source": "Gizmodo",
+        "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
+        "accent": "#f5a623",
         "motif": "headset",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
+              "t": "p",
+              "x": "새 모회사 피세아 로보틱스 아래에서 아이로봇이 먼지를 스스로 비우는 룸바 다섯 종을 새로 내놓았다. 대부분 1,000달러 아래로, 다섯 종 가운데 룸바 맥스 775가 라인업의 정점에 선다."
+            },
+            {
               "t": "img",
-              "src": "https://www.engadget.com/img/gallery/nothing-announces-ear-3a-sub-100-anc-earbuds/intro-1782482143.jpg",
-              "cap": "여러 색으로 나온 노싱 이어(3a)"
+              "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Plus-575-mopping.jpg"
             },
             {
               "t": "p",
-              "x": "노싱(Nothing)이 이어(3a)를 공개했다. 보급형 이어(a)와 플래그십 이어(3) 사이를 메우는 새 중급 무선 이어버드다. 가격은 99달러로, 지갑 사정을 따지는 사용자에게 꽤 알찬 기능을 담았다."
-            },
-            {
-              "t": "p",
-              "x": "가장 눈에 띄는 건 오디오 스냅샷이다. 내장 플래시 저장공간 32MB를 써서 이어버드에 바로 짧은 '오디오 순간'을 녹음한다. 양쪽 이어버드를 꼬집으면 그 동작 직전과 직후의 소리를 담는다. 강의 한 대목이나 음성 메모를 남기는 식이다. 녹음은 노싱 X 앱으로 자동 동기화돼 재생하고 편집하고 공유하고 전사할 수 있다. 앱에서는 예전에 전사해 둔 순간을 쉽게 다시 보도록 '공유용 쿼트 카드'도 만든다."
-            },
-            {
-              "t": "p",
-              "x": "이어버드는 통화와 회의를 최대 2시간까지 담고, 녹음은 끝난 뒤 노싱 X 앱으로 넘어간다. 녹음이 켜지면 참여자에게 알림을 띄워 사생활을 지킨다."
-            },
-            {
-              "t": "p",
-              "x": "소리는 새 12mm 다이내믹 드라이버가 맡아 저음과 디테일을 끌어올렸고, LDAC 스트리밍과 노싱 X 앱의 8밴드 EQ를 지원한다. 공간 음향도 들어가 모바일 영상을 볼 때 몰입감이 좋아진다."
-            },
-            {
-              "t": "p",
-              "x": "액티브 노이즈 캔슬링은 45dB에 이른다. 노싱은 알고리즘을 다듬고 음향 메시 설계를 개선해 이전 모델보다 17.1퍼센트 좋아졌고, 더 넓은 주파수 대역에서 소음을 줄인다고 밝혔다."
-            },
-            {
-              "t": "p",
-              "x": "투명 디자인은 그대로 이어가면서 검정과 흰색에 더해 분홍과 노랑 색상을 새로 넣었다. 더 많은 사람에게 맞도록 XS 이어팁 크기도 추가했다."
-            },
-            {
-              "t": "p",
-              "x": "배터리는 충전 케이스까지 더해 총 42시간이다. 이어버드만 쓰면 ANC를 끈 채 10시간, ANC를 켜면 25시간 간다."
+              "x": "맥스 775는 AI 기반 주행으로 집 안을 읽고, 스스로 덮이는 롤러 물걸레를 단다. 도크는 165도 온수로 걸레를 빨아내, 청소가 끝난 뒤 손이 갈 일을 크게 줄였다."
             }
           ]
         },
-        "image": "pipeline/media/ear-3a.jpg"
+        "image": "pipeline/media/irobot-roomba-relaunch.jpg"
+      },
+      {
+        "id": "brainco-mind-robot",
+        "eyebrow": "AI NEWS",
+        "headline": "생각만으로 로봇을\n0.2초 만에 움직인다",
+        "body": "브레인코가 뇌파를 200밀리초 안에 로봇 명령으로 바꾸는, 손이 필요 없는 제어 플랫폼을 시연했다.",
+        "tool": "BrainCo",
+        "source": "Notebookcheck",
+        "url": "https://www.notebookcheck.net/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.1346280.0.html",
+        "accent": "#2ec5c5",
+        "motif": "headset",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "p",
+              "x": "상하이에서 열린 2026 세계 인공지능 대회에서 브레인코가 생각으로 조종하는 로봇 AI 플랫폼을 선보였다. EEG 헤드셋이 뇌 신호를 읽어, 200밀리초 안에 로봇이 알아듣는 명령으로 풀어낸다."
+            },
+            {
+              "t": "img",
+              "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg"
+            },
+            {
+              "t": "p",
+              "x": "손을 쓰지 않고도 기계를 다룰 수 있다는 점이 핵심이다. 한 손에 과자를 든 채로 PC를 조립하는 장면처럼, 생각과 동작 사이의 지연을 눈에 띄게 좁힌 새로운 조작 방식의 실마리를 보여준다."
+            }
+          ]
+        },
+        "image": "pipeline/media/brainco-mind-robot.jpg"
       }
     ],
     "days": [
-      {
-        "date": "2026-07-15",
-        "cards": [
-          {
-            "id": "galaxy-z8",
-            "eyebrow": "AI NEWS",
-            "tool": "Samsung",
-            "headline": "언팩을 앞두고 유출된 갤럭시 Z 폴드·플립 8",
-            "body": "7월 22일 언팩을 앞두고 갤럭시 Z 플립·폴드 8과 워치 9·울트라 2의 공식 렌더가 최종 색상까지 그대로 유출됐다.",
-            "source": "Engadget",
-            "url": "https://www.engadget.com/2210595/samsuing-z-flip-8-watch-9-watch-2-ultra-z-fold-8-render-leak/",
-            "accent": "#ff5a4d",
-            "motif": "headset",
-            "image": "pipeline/media/galaxy-z8.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "안드로이드 헤드라인이 삼성 신제품 여러 종의 공식 렌더를 입수했다. 갤럭시 Z 플립 8과 Z 폴드 8, 갤럭시 워치 9, 워치 울트라 2가 한꺼번에 담겼다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://www.engadget.com/img/gallery/official-renders-for-samsungs-galaxy-z-flip-8-watch-9-watch-2-ultra-and-z-fold-8-leak/intro-1783527075.jpg",
-                  "cap": "유출된 삼성 갤럭시 신제품 공식 렌더"
-                },
-                {
-                  "t": "p",
-                  "x": "Z 플립 8은 화이트, 그레이, 핑크 세 가지 색으로 나온다. 디자인은 Z 플립 7과 거의 판박이인데, 나쁘게 볼 일은 아니다. 카메라와 플래시 위치도 그대로다. 다만 플립 7의 유일한 약점이던 낡은 카메라만큼은 내부가 좀 나아졌기를 바란다."
-                },
-                {
-                  "t": "p",
-                  "x": "칩은 엑시노스 2600을 얹은 모델과 스냅드래곤 8 엘리트 Gen 5를 얹은 모델, 두 가지로 갈린다는 소문이 돈다. 전 세계 램 부족 탓에 이번엔 하드웨어를 크게 갈아엎진 않았을 거라는 관측이다. 힌지를 다시 손봤고 본체가 더 가벼워졌다는 이야기도 흘러나온다."
-                },
-                {
-                  "t": "p",
-                  "x": "Z 폴드 8은 삼성이 언팩 광고에서 넌지시 내비친 '넓은 폴더블'로 보인다. 짤막하고 넓은 형태에 색상은 네 가지다. 외부 화면은 5.5인치 QHD+에 16:10 비율로, 삼성 태블릿과 같은 비율이다. 안쪽은 좀 더 전통적인 7.6인치 4:3 패널이다. 무게는 200그램 안팎으로 아주 가볍고, 스냅드래곤 8 엘리트 Gen 5가 들어간다고 한다. 상위 모델인 Z 폴드 8 울트라도 준비 중인데, 그쪽 렌더는 지난주에 나왔다."
-                },
-                {
-                  "t": "p",
-                  "x": "워치 9는 워치 8과 빼닮았고 색상 세 가지에 크기 두 종으로 나온다. 가격은 30~60달러 오를 거라는 소문이 있다. 워치 울트라 2는 47mm 한 가지 크기에 색상 두 가지이고, 역시 가격 인상설이 따라붙는다. 확정된 건 없지만 안드로이드 헤드라인은 유출 정보에 관해선 믿을 만한 곳이다. 언팩은 7월 22일에 열린다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "meta-rayban-led",
-            "eyebrow": "AI NEWS",
-            "tool": "Meta",
-            "headline": "메타가 손본 레이밴 안경 카메라 없는 설계가 답일까",
-            "body": "메타가 레이밴 안경의 녹화 LED 조작을 막도록 패치하자 카메라 없는 AI 안경이 답인지 논쟁에 다시 불이 붙었다.",
-            "source": "TechRadar",
-            "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-just-fixed-a-privacy-vulnerability-with-its-ray-ban-smart-glasses-but-could-cameraless-designs-be-the-better-future",
-            "accent": "#0070f3",
-            "motif": "headset",
-            "image": "pipeline/media/meta-rayban-led.jpg",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "메타가 레이밴 AI 안경을 손봤다. 녹화 표시등(LED)을 건드리면 카메라가 아예 꺼지도록 하는 패치다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://cdn.mos.cms.futurecdn.net/hEJdTA3TwbnfDQCMUCHyc9-2560-80.jpg",
-                  "cap": "메타 레이밴 스마트 안경"
-                },
-                {
-                  "t": "p",
-                  "x": "이 조치는 모딩 진영에서 LED를 꺼 주는 서비스를 팔기 시작한 뒤에 나왔다. 녹화 중임을 알리는 불빛을 무력화하면 남몰래 촬영할 수 있다는 우려가 커졌기 때문이다."
-                },
-                {
-                  "t": "p",
-                  "x": "테크레이더는 이 일을 계기로 카메라 없는 AI 안경이 더 안전한 설계인지 다시 묻는다. 프라이버시를 앞세운 웨어러블을 저울질하는 사람에게는 곱씹어 볼 지점이다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "google-home-speaker",
-            "eyebrow": "AI NEWS",
-            "tool": "Google",
-            "headline": "NPU를 넣은 99달러 구글 첫 제미나이 스피커",
-            "body": "구글이 온디바이스 AI 전용 NPU와 360도 음향을 갖춘 첫 제미나이 스피커를 99달러에 내놨다.",
-            "source": "Android Central",
-            "url": "https://www.androidcentral.com/accessories/smart-home/google-home-speaker-2026-review",
-            "accent": "#7928ca",
-            "motif": "headset",
-            "image": "pipeline/media/google-home-speaker.jpg",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "구글이 처음부터 제미나이를 겨냥해 새로 만든 스마트 스피커, 99달러짜리 '홈 스피커'를 직접 써 본 리뷰다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://cdn.mos.cms.futurecdn.net/NYZV4dx79XHGaCbAd57Y8J-2048-80.jpg",
-                  "cap": "구글 홈 스피커"
-                },
-                {
-                  "t": "p",
-                  "x": "온디바이스 AI 연산을 맡는 전용 NPU를 넣었고, 소리는 360도로 퍼뜨린다. 집 안 기기는 제미나이와 대화하듯 다룬다."
-                },
-                {
-                  "t": "p",
-                  "x": "안드로이드 센트럴의 리뷰 제목은 '기본으로 돌아가다'로, 화려한 기능보다 기본기를 어떻게 살렸는지에 무게를 뒀다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "roborock-saros20",
-            "eyebrow": "AI NEWS",
-            "tool": "Roborock",
-            "headline": "AI로 장애물을 피하는 로보락 사로스 20",
-            "body": "로보락 사로스 20은 AI 인식으로 장애물 300여 종을 피하고 솔리드스테이트 라이다로 스스로 길을 찾는다.",
-            "source": "Gizmodo",
-            "url": "https://gizmodo.com/roborock-saros-20-review-jack-of-all-trades-master-of-most-2000782913",
-            "accent": "#f5a623",
-            "motif": "headset",
-            "image": "pipeline/media/roborock-saros20.jpg",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "브렌트 로즈가 1,600달러짜리 로보락 사로스 20을 써 봤다. 로봇청소기는 흡입은 좋은데 구석을 못 닦거나, 물체는 잘 알아보는데 힘이 달리는 식으로 저마다 약점을 지니기 마련이다. 사로스 20은 모든 걸 고르게 잘 해내는 첫 제품이라고 그는 평했다. 기즈모도의 2026 에디터스 초이스다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-09.jpg",
-                  "cap": "로보락 사로스 20"
-                },
-                {
-                  "t": "p",
-                  "x": "흡입력은 36,000Pa에 이른다. 2년 전만 해도 10,000Pa면 프리미엄으로 쳤다. 어댑트리프트 섀시 3.0은 최대 3.46인치 높이의 이중 문턱을 넘고, 새 스타사이트 2.0 내비게이션은 300종이 넘는 물체를 알아본다. 앞면에 이중 솔리드스테이트 라이다를 달아 예전의 회전식 레이저 센서(LDS)를 없앴고, 덕분에 몸체가 납작해져 3.13인치 높이 가구 밑까지 들어간다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-08.jpg",
-                  "cap": "새로 설계한 도크"
-                },
-                {
-                  "t": "p",
-                  "x": "도크도 새로 짰다. 2시간 반이면 배터리를 100%까지 급속 충전한다. 깨끗한 물 4리터, 오수 3.5리터 탱크를 갖췄고, 물을 화씨 212도(끓는점)까지 데워 걸레를 적신 뒤 빨고, 다시 화씨 131도 바람으로 말린다. 걸레가 매번 살균되니 냄새가 나거나 세균을 퍼뜨릴 일이 없다. 세제 칸이 따로 있어 물만 채우면 되고, 설정에 따라 두 달까지 손대지 않아도 된다."
-                },
-                {
-                  "t": "p",
-                  "x": "AI 물체 인식은 인상적이었다. 멀티탭과 벽에 붙은 케이블을 가려냈고, 테이블 밑에 둔 슬리퍼를 '신발'로, 사무용 의자를 '갇히기 쉬운 가구'로 표시했다. 원룸 전체 청소는 90분, 주방만 하면 5분이면 끝난다. 집 안 지도를 그리는 데는 12분이 걸렸다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-01.jpg",
-                  "cap": "완벽하진 않은 자율주행"
-                },
-                {
-                  "t": "p",
-                  "x": "약점도 뚜렷하다. 집을 비운 사이 소파와 테이블 틈에 끼여 빠져나오지 못하고 배터리를 다 써 버렸다. 무늬 있는 러그 위에서는 USB-C 케이블을 빨아들였고, 침대에 걸쳐 둔 가운 허리끈을 감아 올리기도 했다. 지정 구역을 8피트 넘게 벗어나 엉뚱한 곳을 돌기도 했다. 그래도 지금껏 써 본 로봇청소기 가운데 가장 낫다는 게 결론이다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "surface-x2plus",
-            "eyebrow": "AI NEWS",
-            "tool": "Microsoft",
-            "headline": "스냅드래곤 X2 플러스를 단 서피스 랩톱 13.8",
-            "body": "서피스 랩톱 13.8이 스냅드래곤 X2 플러스로 NPU와 CPU를 끌어올려 코파일럿+ 온디바이스 AI를 앞세운다.",
-            "source": "Notebookcheck",
-            "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
-            "accent": "#2ec5c5",
-            "motif": "headset",
-            "image": "pipeline/media/surface-x2plus.jpg",
-            "full": {
-              "mode": "summary",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "노트북체크가 2026년형 마이크로소프트 서피스 랩톱 13.8을 리뷰했다. 2년 만의 변화치고는 하드웨어를 거의 그대로 두고 퀄컴의 새 스냅드래곤 X2 플러스만 얹었는데, 그 성능 향상만으로도 값을 한다고 봤다. 종합 평점은 88%, '매우 우수'다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG",
-                  "cap": "서피스 랩톱 13.8"
-                },
-                {
-                  "t": "p",
-                  "x": "스냅드래곤 X2 플러스(X2P-64-100)는 10코어다. 프라임 코어 6개가 4.0GHz, 퍼포먼스 코어 4개가 3.4GHz로 돈다. 소비 전력은 최대 28W, 지속 18W이고 내장 GPU는 아드레노 X2-45로 1350MHz다. 성능은 12코어짜리 X2 엘리트에 바짝 붙는다. 시네벤치 2024 멀티코어에서 854점(X2 엘리트 1078점, 애플 M5 957점), 긱벤치 6.7 멀티코어에서 14,277점을 냈다."
-                },
-                {
-                  "t": "p",
-                  "x": "화면은 13.8인치 3:2 IPS 터치스크린으로 2304×1536 해상도에 120Hz다. 최대 밝기 659cd/m², 명암비 1402:1이고 sRGB 97.8%, P3 96.5%를 덮는다. 광택 패널이지만 PWM 깜빡임은 없다."
-                },
-                {
-                  "t": "p",
-                  "x": "메모리는 16GB LPDDR5x-9523이 기판에 납땜돼 있어 늘릴 수 없다. SK하이닉스 512GB SSD는 M.2 2230 규격이라 교체할 수 있다. 배터리는 54Wh, 여기에 USB4 40Gbps 두 개와 USB-A 3.1, 와이파이 7, 서피스 커넥트를 갖췄다. 색상은 새 제이드에 플래티넘·듄·블랙이 더해지고 무게는 1.338kg이다. 코파일럿+ PC 인증을 받았다."
-                },
-                {
-                  "t": "p",
-                  "x": "기본 구성은 X2 플러스·16GB·512GB로 1,599달러(유럽 1,699유로)다. X2 엘리트와 성능 차가 미미해 램이나 저장 공간이 더 필요한 게 아니라면 굳이 바꿀 이유는 없다. 리뷰는 개인 고객에게 스냅드래곤만 강제하는 점을 아쉬워한다. GPU가 더 빠른 인텔판을 개인은 살 수 없기 때문이다."
-                }
-              ]
-            }
-          }
-        ]
-      },
       {
         "date": "2026-07-16",
         "cards": [
@@ -4991,6 +4392,166 @@
             }
           }
         ]
+      },
+      {
+        "date": "2026-07-20",
+        "cards": [
+          {
+            "id": "codex-micro",
+            "eyebrow": "AI NEWS",
+            "tool": "OpenAI",
+            "headline": "OpenAI 첫 하드웨어는 코딩 에이전트 조작용 매크로패드",
+            "body": "OpenAI가 첫 하드웨어로 AI 코딩 에이전트를 손끝으로 다루는 230달러짜리 매크로패드 코덱스 마이크로를 내놨다.",
+            "source": "Gizmodo",
+            "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
+            "accent": "#ff5a4d",
+            "motif": "headset",
+            "image": "pipeline/media/codex-micro.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
+                  "cap": "OpenAI 코덱스 키보드 홍보 이미지"
+                },
+                {
+                  "t": "p",
+                  "x": "OpenAI가 첫 하드웨어를 정식으로 내놨다. 다들 떠올리던 그 제품은 아니다. ChatGPT를 만든 회사가 수요일 AI 코딩 에이전트 Codex 전용으로 쓰는 230달러짜리 미니 키보드를 공개했다. 프로그래머블 키보드와 매크로패드를 만드는 Work Louder와 손잡았다."
+                },
+                {
+                  "t": "p",
+                  "x": "엄밀히 보면 풀 키보드라기보다 프로그래머블 매크로패드에 가깝다. 작고 네모난 이 패드의 정식 명칭은 kbd-1.0-codex-micro, 줄여서 Codex Micro다."
+                },
+                {
+                  "t": "p",
+                  "x": "OpenAI 개발자 계정은 X에 기기가 작동하는 영상과 함께 이렇게 적었다. \"Map the buttons and joystick to your workflow, and keep your pinned chats in view.\" 제품 페이지는 이 기기를 \"command center for agentic work\"라고 소개한다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://gizmodo.com/app/uploads/2026/07/Codex-micro-overview-orange.jpeg",
+                  "cap": "Codex Micro"
+                },
+                {
+                  "t": "p",
+                  "x": "기기에는 기계식 스위치 13개와 터치 센서, 로터리 다이얼, 조이스틱이 달렸다. 클릭감 있는 버전과 조용한 버전 두 가지로 나온다. 구매자는 Codex 아이콘 키캡 32개도 함께 받아 원하는 단축키로 패드를 꾸밀 수 있다."
+                },
+                {
+                  "t": "p",
+                  "x": "여기에 불이 들어오는 키 6개는 색으로 각 에이전트 상태를 알린다. 초록은 읽지 않은 메시지, 파랑은 생각 중, 주황은 승인이 필요하거나 질문이 있다는 뜻, 빨강은 오류가 났다는 신호다."
+                },
+                {
+                  "t": "p",
+                  "x": "조이스틱은 오류 디버깅이나 코드 리팩터링 같은 워크플로를 띄우도록 프로그래밍할 수 있다. 다이얼로는 Codex가 작업에 쓸 추론 수준을 조절한다."
+                },
+                {
+                  "t": "p",
+                  "x": "이 키보드는 OpenAI가 오래 소문만 무성하던 소비자용 기기를 두고 관심이 커지는 와중에 나왔다. 블룸버그는 화요일 익명의 소식통을 인용해 크게 기대받는 그 제품이 스스로 움직이는 화면 없는 스마트 스피커일 수 있다고 보도했다. 이 기기는 음악과 미디어를 틀고 가전을 제어하며 질문에 답하는 등 여러 일을 ChatGPT로 처리하는 \"humanlike AI companion\"을 겨냥한다고 한다. 올해 안에 공개해 2027년 출시할 전망이다. OpenAI는 별도의 모바일 AI 기기도 살펴보고 있다고 전해진다."
+                },
+                {
+                  "t": "p",
+                  "x": "이 프로젝트들은 애플 전 디자인 총괄 Jony Ive가 세운 하드웨어 스타트업 io Products와 함께 개발 중인 것으로 알려졌다. OpenAI는 지난해 io Products를 65억 달러에 인수했다."
+                },
+                {
+                  "t": "p",
+                  "x": "다만 OpenAI의 하드웨어 야심은 벌써 법적 분쟁을 불렀다. 애플은 지난주 캘리포니아 연방법원에 OpenAI와 애플 전 직원 2명을 제소했다. 애플의 제조 공정과 아직 개발 중인 제품에 얽힌 영업 비밀을 빼돌렸다는 주장이다. 이 소송에는 io Products도 피고로 이름을 올렸다."
+                },
+                {
+                  "t": "p",
+                  "x": "당장은 OpenAI 기기를 손에 넣고 싶은 사람이라면 새 Codex 키보드로 아쉬움을 달래야 한다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "gemini-home",
+            "eyebrow": "AI NEWS",
+            "tool": "Google",
+            "headline": "제미나이, 연이은 명령도 끊김 없이 받아낸다",
+            "body": "구글 홈의 제미나이가 음성 확인 없이 연이은 명령을 더 안정적으로 처리한다. 날씨·스포츠 화면도 함께 나아진다.",
+            "source": "Android Authority",
+            "url": "https://www.androidauthority.com/gemini-for-home-visual-improvements-3685543/",
+            "accent": "#0070f3",
+            "motif": "headset",
+            "image": "pipeline/media/gemini-home.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-nest-hub-google-home-speaker-hero-1-scaled.jpg",
+                  "cap": "나란히 놓인 구글 네스트 허브와 구글 홈 스피커"
+                },
+                {
+                  "t": "p",
+                  "x": "구글 홈이 여러 개선 사항을 배포하고 있다. 앞서 이 매체는 홈 앱의 '추천 자동화'와 카메라 기능 개선을 다뤘다. 이번에는 제미나이 포 홈 음성 비서도 몇 가지 업그레이드를 받는다."
+                },
+                {
+                  "t": "p",
+                  "x": "릴리스 노트에 따르면 구글은 스마트 디스플레이에서 더 보기 좋은 비주얼 카드로 일상 도움말과 답변을 다듬는다. 다음에 날씨 예보를 묻거나 궁금한 걸 물어보면 새로 손본 시각 레이아웃으로 답이 뜬다. 스포츠 소식 요청에 대한 답변도 좋아졌다. 회사 측은 \"responses will now be more accurate and up-to-date when asking about scores, schedules, and team standings\"라고 밝혔다."
+                },
+                {
+                  "t": "p",
+                  "x": "후속 대화를 제미나이가 자꾸 끊어 답답했다면 그 부분도 고쳐진다. 구글은 '대화 이어가기'로 연달아 내리는 명령과 후속 질문에 대한 답변이 더 안정적이라고 설명했다. 여기에 제미나이가 대화 도중 음성 확인을 요구하지도 않는다."
+                },
+                {
+                  "t": "p",
+                  "x": "이 변경 사항은 오늘 배포되니 머지않아 개선된 모습을 직접 보게 된다. 이번 배포는 구글이 6월 말 제미나이 포 홈 음성 비서에 대화와 지연 시간을 손본 데 이어 나왔다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "ear-3a",
+            "eyebrow": "AI NEWS",
+            "tool": "Nothing",
+            "headline": "99달러 이어버드에 들어온 온디바이스 녹음",
+            "body": "노싱 이어(3a)는 99달러에 꼬집어 담는 오디오 스냅샷 녹음부터 AI 전사·요약, 챗GPT 연동까지 챙겼다.",
+            "source": "Engadget",
+            "url": "https://www.engadget.com/2202348/nothing-announces-ear-3a-sub-dollar100-anc-earbuds/",
+            "accent": "#7928ca",
+            "motif": "headset",
+            "image": "pipeline/media/ear-3a.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://www.engadget.com/img/gallery/nothing-announces-ear-3a-sub-100-anc-earbuds/intro-1782482143.jpg",
+                  "cap": "여러 색으로 나온 노싱 이어(3a)"
+                },
+                {
+                  "t": "p",
+                  "x": "노싱(Nothing)이 이어(3a)를 공개했다. 보급형 이어(a)와 플래그십 이어(3) 사이를 메우는 새 중급 무선 이어버드다. 가격은 99달러로, 지갑 사정을 따지는 사용자에게 꽤 알찬 기능을 담았다."
+                },
+                {
+                  "t": "p",
+                  "x": "가장 눈에 띄는 건 오디오 스냅샷이다. 내장 플래시 저장공간 32MB를 써서 이어버드에 바로 짧은 '오디오 순간'을 녹음한다. 양쪽 이어버드를 꼬집으면 그 동작 직전과 직후의 소리를 담는다. 강의 한 대목이나 음성 메모를 남기는 식이다. 녹음은 노싱 X 앱으로 자동 동기화돼 재생하고 편집하고 공유하고 전사할 수 있다. 앱에서는 예전에 전사해 둔 순간을 쉽게 다시 보도록 '공유용 쿼트 카드'도 만든다."
+                },
+                {
+                  "t": "p",
+                  "x": "이어버드는 통화와 회의를 최대 2시간까지 담고, 녹음은 끝난 뒤 노싱 X 앱으로 넘어간다. 녹음이 켜지면 참여자에게 알림을 띄워 사생활을 지킨다."
+                },
+                {
+                  "t": "p",
+                  "x": "소리는 새 12mm 다이내믹 드라이버가 맡아 저음과 디테일을 끌어올렸고, LDAC 스트리밍과 노싱 X 앱의 8밴드 EQ를 지원한다. 공간 음향도 들어가 모바일 영상을 볼 때 몰입감이 좋아진다."
+                },
+                {
+                  "t": "p",
+                  "x": "액티브 노이즈 캔슬링은 45dB에 이른다. 노싱은 알고리즘을 다듬고 음향 메시 설계를 개선해 이전 모델보다 17.1퍼센트 좋아졌고, 더 넓은 주파수 대역에서 소음을 줄인다고 밝혔다."
+                },
+                {
+                  "t": "p",
+                  "x": "투명 디자인은 그대로 이어가면서 검정과 흰색에 더해 분홍과 노랑 색상을 새로 넣었다. 더 많은 사람에게 맞도록 XS 이어팁 크기도 추가했다."
+                },
+                {
+                  "t": "p",
+                  "x": "배터리는 충전 케이스까지 더해 총 42시간이다. 이어버드만 쓰면 ANC를 끈 채 10시간, ANC를 켜면 25시간 간다."
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   },
@@ -4998,500 +4559,40 @@
     "label": "Science",
     "news": [
       {
-        "id": "chathea",
+        "id": "willow-rl",
         "tool": "Science",
         "eyebrow": "AI NEWS",
-        "headline": "언어 모델이 소재 탐색 과정을\n스스로 이끌며 촉매를 찾다",
-        "body": "도호쿠대가 만든 ChatHEA가 문헌 조사부터 실험 설계까지 도맡아 사람의 직관 너머에 있던 연료전지 촉매를 찾아냈다.",
-        "source": "Phys.org",
-        "url": "https://phys.org/news/2026-07-large-language-discovery-catalysts-energy.html",
+        "headline": "구글 양자컴퓨터가 계산하며\n자기 오류로부터 배운다",
+        "body": "강화학습으로 양자컴퓨터가 자기 오류 데이터를 학습해, 계산 중 스스로 재보정하며 논리 오류율을 20% 낮췄다.",
+        "source": "The Quantum Insider",
+        "url": "https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/",
         "accent": "#2ec5c5",
         "motif": "sphere",
         "full": {
-          "mode": "full",
-          "blocks": [
-            {
-              "t": "img",
-              "src": "https://scx1.b-cdn.net/csz/news/800a/2026/large-language-model-g-4.jpg",
-              "cap": "언어 모델과 고속 실험 플랫폼을 결합한 고엔트로피 합금 촉매 탐색 체계 개요"
-            },
-            {
-              "t": "p",
-              "x": "고성능 촉매 설계는 청정 에너지 기술의 핵심이지만, 여러 원소가 섞인 최신 촉매 소재는 그 거동을 예측하기가 까다롭다. 도호쿠대 연구진은 국제 공동연구팀과 함께 대규모 언어 모델과 실험실 실험을 엮은 협업 체계를 새로 내놓았다. 연료전지의 핵심 과정인 산소 환원 반응용 고엔트로피 합금 촉매를 더 빨리 찾아내려는 시도다."
-            },
-            {
-              "t": "p",
-              "x": "연구팀이 만든 건 고엔트로피 합금(HEA) 전기촉매에 특화된 AI 조수 ChatHEA다. ChatHEA는 논문에서 지식을 캐내고, 유망한 원소 조합을 추려 내고, 실험 계획을 짜고, 촉매 활성 데이터를 분석하는 일을 맡았다. 이 체계로 5원소 고엔트로피 합금 촉매 100종을 합성해 고속 실험으로 평가했는데, 여러 반응을 한꺼번에 시험해 시간을 아끼는 방식이다."
-            },
-            {
-              "t": "p",
-              "x": "분석 결과 촉매 활성은 개별 원소만으로 정해지지 않았다. Fe-Co-Cu, Fe-Co-Ni, Pt-Ir, Pt-Pd 같은 원소계 사이의 상승 작용이 활성을 좌우했다. 걸러낸 촉매 가운데 FeCoCuPtIr는 뛰어난 산소 환원 활성과 내구성을 보였고, 전기화학 시험과 연료전지 소자 평가 모두에서 상용 Pt/C를 앞섰다. FeCoCuPtIr 기반 연료전지는 최대 출력 밀도 0.789 W cm⁻²에 이르렀다."
-            },
-            {
-              "t": "img",
-              "src": "https://scx1.b-cdn.net/csz/news/800a/2026/large-language-model-g-5.jpg",
-              "cap": "HEA 촉매의 고속 합성과 특성 분석"
-            },
-            {
-              "t": "p",
-              "x": "“미국 에너지부는 연료전지가 이상적으로 도달해야 할 최소 활성 수준의 기준을 정해 두는데, 우리 연료전지가 2025년 활성 목표치를 넘어섰다는 걸 알리게 되어 기쁘다”고 첨단소재연구소(WPI-AIMR)의 하오 리(Hao Li) 특임교수는 말했다."
-            },
-            {
-              "t": "p",
-              "x": "이어진 이론 계산과 pH 의존 미세동역학 모델링을 보면, 여러 원소의 상승 작용이 활성 자리의 전자 구조를 최적화하고 핵심 반응 중간체의 흡착 세기를 끌어올렸다. 이 연구는 쓸 만한 연료전지 촉매 하나를 넘어, 복잡한 소재를 더 효율적으로 찾는 범용 AI 기반 전략을 함께 내놓는다."
-            },
-            {
-              "t": "p",
-              "x": "“ChatHEA를 단순한 예측 도구로만 쓴 게 아니다. 문헌 지식 추출부터 원소 조합 설계, 실험 계획, 데이터 처리, 메커니즘 분석까지 연구 과정 전체를 받쳐 줬다”고 리는 덧붙였다."
-            },
-            {
-              "t": "p",
-              "x": "이번 연구는 고성능 촉매 발견을 앞당기는 AI 주도 접근을 선보였다. 차량용 수소 연료전지와 예비 전력 시스템, 앞으로의 저탄소 에너지 기반 시설까지 청정 에너지 기술에 보탬이 될 만하다. 촉매 효율이 높아지면 값비싼 귀금속 사용량을 줄여, 더 저렴하고 지속 가능한 에너지 장치 개발을 돕는다."
-            }
-          ]
-        },
-        "image": "pipeline/media/chathea.jpg"
-      },
-      {
-        "id": "k2-18b-seti",
-        "tool": "Science",
-        "eyebrow": "AI NEWS",
-        "headline": "머신러닝이 수백만 전파 신호를\n솎아 외계 탐색을 앞당기다",
-        "body": "자동 머신러닝이 수백만 개의 전파 후보를 솎아 내며 외계 신호 탐색 속도를 크게 끌어올렸다.",
-        "source": "ScienceDaily",
-        "url": "https://www.sciencedaily.com/releases/2026/07/260712011748.htm",
-        "accent": "#0070f3",
-        "motif": "sphere",
-        "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://www.sciencedaily.com/images/1920/exoplanet-k2-18b.webp",
-              "cap": "외계 행성 K2-18b 상상도"
+              "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-7.00.17-AM.png"
             },
             {
               "t": "p",
-              "x": "K2-18b는 최근 가장 눈길을 끄는 외계 행성 가운데 하나다. 사자자리 방향으로 약 124광년 떨어져 적색왜성의 생명체 거주 가능 영역을 돈다. 제임스 웹 우주망원경 관측에서 이산화탄소와 메테인이 풍부한 대기가 드러나면서, 두꺼운 수소 대기가 액체 물의 바다를 감싼 ‘하이시안(Hycean)’ 행성 후보로 꼽힌다."
+              "x": "구글 연구진이 강화학습 기반 시스템을 만들었다. 양자컴퓨터가 자신의 오류 보정 데이터를 스스로 학습하고, 계산이 진행되는 도중에 자기 자신을 다시 조율하도록 한 것이다."
             },
             {
               "t": "p",
-              "x": "생명에 유리한 조건을 품었을 가능성 때문에 K2-18b는 외계 지적생명체 탐색(SETI)의 주요 표적이 됐다. 연구진은 세계에서 가장 강력한 전파망원경 두 대로 인공 전파 신호를 뒤졌다. The Astronomical Journal에 실린 결과를 보면, 관측 중 수백만 개의 후보 신호를 잡아냈지만 오늘날 지구 기술에 견줄 만한 좁은 대역 전파 신호의 증거는 나오지 않았다."
+              "x": "이 방식은 기존 보정 대비 논리 오류율을 약 20% 더 낮췄다. Willow 프로세서에서는 하드웨어가 미세하게 흔들리는 드리프트 상황에서도 3.5배 더 안정적으로 버텼다."
             },
             {
               "t": "p",
-              "x": "이 프로젝트는 뉴멕시코의 칼 G. 잰스키 초대형 전파간섭계(VLA)와 남아프리카공화국의 MeerKAT 관측 자료를 합쳤다. 이 규모의 시설을 한 관측 캠페인에 함께 묶는 일은 무척 드물어, K2-18b 계를 유난히 민감하게 훑을 수 있었다."
-            },
-            {
-              "t": "p",
-              "x": "관측만큼 중요한 건 기록된 방대한 전파 신호를 걸러내는 처리 체계였다. 전파망원경에는 지구에서 나온 신호가 끊임없이 쏟아지기 때문에, 연구진은 정교한 소프트웨어로 간섭을 먼저 솎아 낸다. VLA는 COSMIC(Commensal Open Source Multi Mode Interferometer Cluster) 시스템을, MeerKAT는 BLUSE(Breakthrough Listen User Supplied Equipment) 시스템을 썼다."
-            },
-            {
-              "t": "p",
-              "x": "이어 연구진은 다섯 가지 선별법으로 기술 문명의 흔적을 찾았다. 먼저 사람이 만든 송신으로 이미 심하게 오염된 주파수 대역을 지우는 전파 간섭(RFI) 마스킹을 적용했다. 도플러 효과도 따졌는데, 행성 사이를 오가는 전파 신호는 도플러 이동을 보여야 하므로 변화가 거의 없는 신호는 지구에서 온 것으로 보고 버렸다."
-            },
-            {
-              "t": "p",
-              "x": "신호 대 잡음비가 10 미만이거나 100을 넘는 신호도 걸러 냈다. 다중 빔 분석에서는 망원경이 여러 초점 빔을 동시에 만들어 하나는 K2-18b를, 다른 하나는 다른 하늘을 겨눴다. 진짜 신호라면 K2-18b를 향한 빔에만 나타난다. 마지막 통과 필터링은 행성이 별 뒤로 숨을 때 신호가 사라지는지 보는 방법인데, 이번 관측에서는 그런 ‘이차 통과’가 없어 쓰지 않았다."
-            },
-            {
-              "t": "p",
-              "x": "수백만 개의 신호 후보가 나왔지만 모든 단계를 통과한 것은 없었다. 다만 이 관측은 K2-18b 계에 있을 법한 전파 송신기의 세기에 ‘상한’을 매기게 해 주었고, 그 한계는 지금은 무너진 푸에르토리코 아레시보 레이더 시설의 송신 출력과 얼추 비슷하다."
-            },
-            {
-              "t": "p",
-              "x": "무엇보다 이번 프로젝트는 자동 데이터 처리 체계가 현대 SETI 관측에서 쏟아지는 엄청난 신호를 감당할 수 있음을 보여 줬다. 스퀘어 킬로미터 어레이(Square Kilometer Array) 같은 미래 관측소가 가동되면 이런 기법의 값어치는 더 커진다. K2-18b는 지금은 조용하지만, 태양계 너머 기술의 흔적을 잡아내는 능력은 꾸준히 나아지고 있다."
+              "x": "연구진은 이 결과를 스스로 조율하는 자율 양자 기계로 가는 이정표로 본다. 사람이 일일이 맞추던 보정을, 기계가 계산하는 동안 알아서 해내는 방향이다."
             }
           ]
         },
-        "image": "pipeline/media/k2-18b-seti.jpg"
-      },
-      {
-        "id": "scent-ai",
-        "tool": "Science",
-        "eyebrow": "AI NEWS",
-        "headline": "AI가 식물 향기에서\n수면을 돕는 성분을 골라내다",
-        "body": "싱가포르국립대가 향기 분자 2,391종으로 학습시킨 모델이 96.1% 정확도로 수면을 돕는 화합물을 가려냈다.",
-        "source": "Phys.org",
-        "url": "https://phys.org/news/2026-07-ai-aromatic-scent-compounds.html",
-        "accent": "#7928ca",
-        "motif": "sphere",
-        "full": {
-          "mode": "full",
-          "blocks": [
-            {
-              "t": "img",
-              "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-21.jpg",
-              "cap": "향기 식물 계통수. 초록 막대는 수면 촉진 향기 분자가 풍부한 과를 나타낸다"
-            },
-            {
-              "t": "p",
-              "x": "싱가포르국립대(NUS) 식품과학자들이 머신러닝으로 향기 식물의 향기 분자 2,300여 종을 훑어, 수면을 돕는 잠재력을 지닌 화합물을 골라냈다. 천연 수면 보조제 발굴을 앞당길 수 있는 접근이다."
-            },
-            {
-              "t": "p",
-              "x": "잠은 건강과 학습, 일상의 안녕에 꼭 필요하지만 수면 문제는 전 세계 인구의 3분의 1까지 시달리게 한다. 수면제가 도움이 되는 환자도 있으나 부작용이 따르고 누구에게나 맞지도 않아, 대안을 찾으려는 움직임이 이어졌다. 라벤더부터 바질까지 향기 식물은 오래전부터 이완을 돕는 데 쓰였지만, 어떤 향기 분자가 실제로 수면에 영향을 주는지는 지금껏 가려내기 어려웠다."
-            },
-            {
-              "t": "p",
-              "x": "NUS 식품공학과의 장다촨(Zhang Dachuan) 조교수가 이끄는 연구팀은 AI와 방대한 식물 화학 데이터를 결합한 데이터 기반 방식으로 이런 분자를 찾아 나섰다. 학술지 Digital Discovery 표지에 실린 이 연구에서, 연구팀은 향기 식물 991종에서 나온 향기 분자 2,391개로 정제된 라이브러리를 꾸린 뒤 수면 촉진 활성과 이어지는 패턴을 알아보도록 머신러닝 모델을 학습시켰다. 중국 상하이공정기술대학(Shanghai Institute of Technology)의 커우싱란(Kou Xingran) 교수와의 공동 연구다."
-            },
-            {
-              "t": "p",
-              "x": "모델은 시험에서 96.1%의 정확도를 내며 수면을 돕는 화합물과 그렇지 않은 것을 대체로 정확히 갈라냈다. 또 수백 종의 식물 향기 분자를 유망 후보로 짚었다. 컴퓨터 예측이 실제 생물학적 효과로 이어지는지 보려고, 연구팀은 시판되는 분자 다섯 개를 골라 실험했다. 그중 카르바크롤(carvacrol), 사프라날(safranal), 바닐린(vanillin), 메틸 유제놀(methyl eugenol) 네 가지가 각성을 줄이고 비렘수면이라 불리는 회복성 수면 단계를 늘렸다."
-            },
-            {
-              "t": "p",
-              "x": "이 분자들은 뇌의 대표적 진정 신호 체계이자 기존 수면제의 잘 알려진 표적인 GABA 수용체에도 작용했다. 특정 식물 향이 수면 관련 경로에 어떻게 관여하는지에 대한 이른 단서다."
-            },
-            {
-              "t": "p",
-              "x": "개별 분자를 넘어 연구팀은 유망한 향기 분자가 풍부한 식물 과와 종의 순위도 매겼다. 분석한 향기 식물 991종 가운데 국화과(Asteraceae), 꿀풀과(Lamiaceae), 녹나무과(Lauraceae)가 두드러졌고, 라벤더와 들깨 같은 종이 추가 연구 대상으로 꼽혔다."
-            },
-            {
-              "t": "img",
-              "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-maps-plant-compound.jpg",
-              "cap": "AI가 식물 화합물 지도를 그리다"
-            },
-            {
-              "t": "p",
-              "x": "이 결과가 곧바로 완성된 수면 제품은 아니다. 앞으로의 연구가 나아갈 유망한 방향을 짚어 주는 ‘실용적 지도’에 가깝다. 이 접근은 건강 제품과 기능성 식품, 향료, 웰빙 응용을 위한 천연 성분 발굴을 AI가 앞당길 수 있음을 보여 준다."
-            },
-            {
-              "t": "p",
-              "x": "장 조교수는 “많은 사람이 마음을 가라앉히는 식물 향을 더 나은 수면과 연결짓지만, 어떤 분자가 그 역할을 하고 그 효과가 어떤 메커니즘에서 오는지 이해하려면 더 강한 증거가 필요하다”고 말했다. 이어 전통 지식을 더 안전하고 표적화된 수면 관련 제품 개발의 길잡이로 바꾸는 것이 목표라고 덧붙였다."
-            },
-            {
-              "t": "p",
-              "x": "후속 연구에서는 장기 안전성과 여러 향기 분자가 섞였을 때의 상호작용, 그리고 같은 효과가 더 넓은 생물학·인체 연구에서도 나타나는지를 살필 예정이다."
-            }
-          ]
-        },
-        "image": "pipeline/media/scent-ai.jpg"
-      },
-      {
-        "id": "denning-critique",
-        "tool": "Science",
-        "eyebrow": "AI NEWS",
-        "headline": "기계는 인간의 암묵적\n지식을 담아낼 수 없다",
-        "body": "피터 데닝은 튜링이 1950년 논문에 심은 가정이 틀렸고 기계는 상식 같은 암묵지를 담아내지 못한다고 본다.",
-        "source": "ScienceDaily",
-        "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "full": {
-          "mode": "summary",
-          "blocks": [
-            {
-              "t": "img",
-              "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-              "cap": "사람처럼 사고하지 못할 수 있는 AI"
-            },
-            {
-              "t": "p",
-              "x": "앨런 튜링의 인공지능 구상이 지난 75년간 AI 연구를 잘못된 길로 몰아넣었을 수 있다고, 컴퓨터과학자 피터 J. 데닝(Peter J. Denning)이 주장한다."
-            },
-            {
-              "t": "p",
-              "x": "새 책 『Turing's Mistake: Escaping the Yoke of Unintelligent Machines』에서 데닝은 튜링이 1950년에 세운 두 가지 근본 가정이 오늘날 AI 연구를 여전히 좌우한다고 본다. 첫째는 지능이 물리적 몸과 무관하게 컴퓨터 소프트웨어로 재현된다는 것, 둘째는 기계가 대화에서 사람을 흉내 내는 것만으로 지능을 보일 수 있다는 것으로 뒤에 튜링 테스트로 불렸다."
-            },
-            {
-              "t": "p",
-              "x": "“이 두 주장이 AI 연구와 개발의 상당 부분을 빚어 왔다”고 데닝은 쓴다. “내 전제는, 우리가 이 주장을 받아들인 탓에 지금 우리가 처한 AI의 난장판에 이르렀다는 것이다.” 그는 인공일반지능(AGI)을 좇는 일이 성공하기 어렵고, 이 기술이 오히려 새로운 큰 위험을 불러올 수 있다고 경고한다."
-            },
-            {
-              "t": "p",
-              "x": "그의 논지 한복판에는 암묵지가 있다. 말로 옮기거나 컴퓨터가 처리하기 어려운 방대한 인간 이해를 가리킨다. 데닝은 머신러닝이 다섯 갈래의 암묵지를 담지 못한다고 말한다. 상식, 사람·환경과의 일상적 상호작용, 감정과 지각, 실천적 수행 기술, 문화에 밴 사회·역사적 지식이다."
-            },
-            {
-              "t": "p",
-              "x": "상식을 데이터베이스로 정리하려는 시도는 오래됐다. 더글러스 레넛(Douglas Lenat)의 Cyc 프로젝트는 1980년대에 방대한 상식 사실 모음을 만들겠다며 출발해, 40년 작업 끝에 약 2,500만 개의 항목을 쌓았다. 데닝은 “이 보고(寶庫)조차 전문가 시스템을 진짜 전문가만큼 똑똑하게 만들 상식의 바탕이 되지는 못했다”며, 사람을 전문가로 만드는 지식의 상당수는 명제로 풀어낼 수 없다고 짚는다."
-            },
-            {
-              "t": "p",
-              "x": "실천 기술은 더 큰 난관이다. 그는 바이올리니스트를 예로 든다. “명연주자는 아름다운 음악을 연주하면서도 그것을 어떻게 내는지 제자에게 설명하지 못한다. 로봇이 숙련된 사람을 관찰해 흉내 낸다 해도, 생물학적 몸이 없는 로봇은 연주자가 아름다운 음악을 낼 때 무엇을 느끼는지 붙잡을 수 없다.” 데닝은 이 한계가 모두 ‘표현 문제’에서 비롯한다고 본다. 컴퓨터는 부호화된 데이터로만 계산하는데, 암묵지는 그 틀에 들어맞지 않는다."
-            },
-            {
-              "t": "p",
-              "x": "“모든 낱말 뒤에는 그 뜻을 떠받치는 깊은 암묵지의 우물이 있다”고 데닝은 말한다. “ChatGPT, Claude, Gemini 같은 흔히 쓰는 대규모 언어 모델은 낱말을 다룰 뿐, 자신이 말하는 것의 의미를 알거나 이해하지 못한다.” 그는 지능이 맥락에 크게 기대며, 그 맥락을 캐물으면 이전 대화로 끝없이 거슬러 올라간다고 설명한다. 신경망을 아무리 키워도 LLM은 문화라 부르는 체화된 인간 지식을 얻지 못하고, 튜링 테스트의 목표에도 이르지 못한다."
-            },
-            {
-              "t": "p",
-              "x": "데닝은 사람과 AI가 서로 이해할 수 없는 다른 암묵지를 갖게 될지 모른다고 결론짓는다. “기계는 우리의 암묵지를 읽지 못하고 우리도 그들의 것을 읽지 못한다. 우리는 건널 수 없는 골을 사이에 둔 이방인이다.” 그는 기계가 인간 의도 뒤의 맥락을 읽지 못하면 앞선 AI를 인간의 목표에 맞추는 일이 불가능해질 수 있다며, 초지능의 지배보다 사람 수준에 못 미치면서도 심각한 문제를 일으키는 기계 지능망이 더 큰 위협이라고 본다."
-            }
-          ]
-        },
-        "image": "pipeline/media/denning-critique.jpg"
+        "image": "pipeline/media/willow-rl.png"
       }
     ],
     "days": [
-      {
-        "date": "2026-07-15",
-        "cards": [
-          {
-            "id": "chemgraph",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "headline": "자연어로 말하면 AI 에이전트가 화학 계산을 대신 돌린다",
-            "body": "아르곤의 오픈소스 ChemGraph는 자연어로 낸 문제를 계산화학 작업으로 바꿔 비전문가도 소재 시뮬레이션을 돌리게 한다.",
-            "source": "Phys.org",
-            "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
-            "accent": "#2ec5c5",
-            "motif": "sphere",
-            "image": "pipeline/media/chemgraph.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "컴퓨터는 실제 실험에 앞서 가상 시뮬레이션을 돌리게 해주며 소재 설계를 바꿔놓았다. 다만 원자 단위까지 정밀한 시뮬레이션을 짜려면 계산화학 전문 지식이 많이 필요했다. 미국 에너지부 산하 아르곤 국립연구소(Argonne National Laboratory) 연구진은 이 작업 흐름을 인공지능으로 간소화하는 오픈소스 프레임워크 ChemGraph를 내놓았다."
-                },
-                {
-                  "t": "p",
-                  "x": "ChemGraph는 계산화학과 재료과학 계산의 여러 단계를 자동으로 처리한다. 배터리 개발과 엔진 효율 개선, 핵심 소재 추출을 앞당길 여지가 있다. 연구 결과는 학술지 Communications Chemistry에 실렸다."
-                },
-                {
-                  "t": "p",
-                  "x": "연구진은 아르곤 리더십 컴퓨팅 시설(ALCF)의 자원으로 ChemGraph를 만들었다. 엑사스케일 슈퍼컴퓨터 Aurora와, 대규모 언어모델을 클라우드처럼 쓰게 해주는 ALCF 추론 서비스가 쓰였다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-2.jpg",
-                  "cap": "ChemGraph로 결과를 살펴보는 아르곤의 Murat Keçeli와 Thang Duc Pham. 출처: Argonne National Laboratory"
-                },
-                {
-                  "t": "p",
-                  "x": "예전에는 시뮬레이션 하나를 돌리는 데 박사급 지식과 수십 단계의 절차가 필요했다. 알맞은 과학적 방법을 고르고 호환 소프트웨어를 찾고 입력 데이터를 준비하며, 매개변수를 미세 조정해 계산을 차례로 진행해야 결론에 닿았다. ChemGraph는 이 과정을 전담 에이전트들에게 나눠 맡긴다. 계획과 실행, 데이터 취합을 각각 도맡는 도우미인 셈이다."
-                },
-                {
-                  "t": "p",
-                  "x": "약 10년 전 아르곤 계산과학자 Murat Keçeli는 규칙 기반으로 화학 작업을 자동화하기 시작했다. 2017년에는 아르곤 석학연구원 Stephen Klippenstein과 박사후 과정을 밟으며 Quantum Thermochemistry Calculator를 개발했다. 2022년 말 ChatGPT가 등장하자 그는 기회를 봤다. “이 대규모 언어모델의 도약이 일어났을 때, 그 작업 흐름 자동화로 다시 돌아가야겠다고 생각했다”고 그는 말했다."
-                },
-                {
-                  "t": "p",
-                  "x": "연구자가 과학 문제를 평범한 말로 설명하면, ChemGraph는 그 요청을 필요한 계산 작업과 소프트웨어 도구, 분석으로 옮긴다. 연구진은 적절한 유형의 도구와 라이브러리만 부르도록 설계해, 생성형 AI가 답을 지어내는 환각 위험을 줄였다. “우리는 대규모 언어모델이 그저 질문에 답하기만 바라지 않는다”고 아르곤 박사후연구원이자 ChemGraph 공동 개발자인 Thang Duc Pham은 말했다. 이 시스템은 “물리 기반 시뮬레이션을 돌려 답을 찾아준다”는 것이다."
-                },
-                {
-                  "t": "p",
-                  "x": "처음에는 에이전트 하나로 만들었지만 복잡도가 높아지자 한계가 드러났다. 작업마다 어울리는 언어모델이 다르고, 어떤 일은 작은 모델로 되지만 어떤 일은 정교한 추론이 필요했다. 여러 에이전트를 쓰는 편이 더 효율적이었다. “모든 일에 한 종류의 LLM만 쓰면 비용과 배정된 계산 시간을 낭비할 위험이 있다”고 Keçeli는 설명했다. 계획은 큰 모델로 시작하고 실행은 작은 모델로 되돌리는 방식이다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-1.jpg",
-                  "cap": "계산 부담이 큰 양자화학 시뮬레이션은 ALCF의 엑사스케일 슈퍼컴퓨터 Aurora에서 돌렸다. 출처: Argonne National Laboratory"
-                },
-                {
-                  "t": "p",
-                  "x": "최근 협업에서는 ChemGraph를 X-선 흡수 근접단 구조(XANES) 시뮬레이션과 분석에 맞게 고쳐 분광 작업을 자동화했고, Aurora에서 고처리량 소재 스크리닝을 조율하도록 확장하기도 했다. “ChemGraph를 챗봇형 인터페이스로 ALCF 사용자에게 서비스처럼 제공하는 것이 우리의 꿈”이라고 Keçeli는 말했다. 장기적으로는 자율성을 더 높여 최소한의 개입만으로 복잡한 계산 작업을 스스로 다듬게 하는 것이 목표다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "betadescribe",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "headline": "단백질 서열을 문장으로 풀어 기능 가설을 세우는 AI",
-            "body": "테크니온의 BetaDescribe는 단백질 서열을 자연어 설명으로 옮겨 기능이 밝혀지지 않은 단백질의 역할을 추정한다.",
-            "source": "Phys.org",
-            "url": "https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/betadescribe.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "테크니온과 텔아비브대학교 연구진이 국제학술지 Proceedings of the National Academy of Sciences에 발표한 논문에서 BetaDescribe를 선보였다. 단백질 서열을 자연어 설명으로 옮기는 AI 시스템으로, 단백질 기능을 이해하는 새 길을 열고 신약 개발과 소재 설계를 앞당길 것으로 기대된다."
-                },
-                {
-                  "t": "p",
-                  "x": "단백질 분석은 의학과 바이오테크에서 빼놓을 수 없다. 희귀 사막 도마뱀의 침에서 발견된 펩타이드에서 영감을 얻어 개발된 오젬픽(Ozempic)이 대표적이다. 비만과 당뇨 등을 치료하는 이 약이 그런 사례다. 그러나 실험으로 단백질을 규명하는 일은 여전히 오래 걸리고 비싸며, 대규모 언어모델(LLM)조차 이 작업에서는 성과가 제한적이었다."
-                },
-                {
-                  "t": "p",
-                  "x": "이런 난관이 BetaDescribe 개발로 이어졌다. 단백질 서열을 기능과 여러 특성을 담은 상세한 텍스트 설명으로 바꿔주는 시스템이다. 실험실에서 규명된 수십만 개의 단백질과, 자연에 실제로 존재하는 수십억 내지 수조 개의 단백질 사이의 거대한 간극을 메우는 데 힘을 보탠다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-translates-p.jpg",
-                  "cap": "예시 단백질(ChatGPT로 제작). 출처: Technion—Israel Institute of Technology"
-                },
-                {
-                  "t": "p",
-                  "x": "기존 방식은 이미 알려진 단백질 서열과의 유사성에 기댔다. BetaDescribe는 생성 모델에 검증 장치와 평가 과정을 결합한다. 덕분에 앞서 규명된 단백질과 가깝지 않은 경우에도 기능을 추론한다. 단백질의 기능적 특성과 촉매 활성, 대사 과정 관여, 의학 등에 관련된 잠재적 결합 부위까지 자세한 정보를 준다."
-                },
-                {
-                  "t": "p",
-                  "x": "연구진은 앞서 규명되지 않은 단백질 여섯 개를 성공적으로 기술해 새 시스템의 효과를 입증했다."
-                },
-                {
-                  "t": "p",
-                  "x": "이 기술은 의학 연구와 신약 발견, 바이오테크와 농업의 발전을 앞당길 것으로 보인다. 알려지지 않은 단백질의 기능을 두고 근거에 기댄 가설을 빠르게 세우면, 기초 발견에서 의학·산업 응용까지 가는 길이 크게 짧아지고 생물학 분석도 더 집중적이고 효율적으로 바뀐다."
-                },
-                {
-                  "t": "p",
-                  "x": "논문은 박사과정생 Edo Dotan이 이끌었고, 테크니온 Henry and Marilyn Taub 컴퓨터과학부의 Yonatan Belinkov 교수와 텔아비브대학교 생명과학부의 Tal Pupko 교수가 공동 지도했다. Eran Bacharach 교수, Marcelo Ehrlich 교수, 박사과정생 Iris Lyubman도 공저자로 참여했다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "rhine",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "headline": "중성자별 충돌 속 무거운 원소 생성을 신경망으로 좇다",
-            "body": "GSI/FAIR가 만든 신경망 RHINE은 중성자별 병합의 가열 과정을 모사해 무거운 원소 생성을 더 빠르고 정확하게 계산한다.",
-            "source": "ScienceDaily",
-            "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/rhine.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "연구진이 우주가 가장 무거운 원소들을 어떻게 만드는지 이해를 크게 넓힐 새 인공지능 기반 시뮬레이션을 개발했다. GSI/FAIR의 국제 연구팀이 만든 이 기계학습 모델은 중성자별 병합을 비롯한 격렬한 항성 현상에서 일어나는 복잡한 핵반응을 예전보다 훨씬 효율적으로 모사한다. 연구 결과는 학술지 Physical Review D에 실렸다."
-                },
-                {
-                  "t": "p",
-                  "x": "우주 곳곳의 화학 원소 상당수는 초신성 폭발과 중성자별 병합 같은 극단적 우주 현상에서 벼려진다. 이런 거대한 폭발은 급속 중성자 포획, 곧 r-과정으로 무거운 원자핵을 만드는 데 필요한 에너지를 낸다."
-                },
-                {
-                  "t": "p",
-                  "x": "r-과정에서 원자핵은 자유 중성자를 빠르게 흡수한다. 그중 일부 중성자가 양성자로 바뀌면서 원자핵이 더 커지고, 결국 자연에 존재하는 무거운 원소들이 만들어진다. 이 반응을 모사하는 일은 핵천체물리학의 최대 난제로 꼽힌다. 계산에 엄청난 연산 능력이 들기 때문이다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://www.sciencedaily.com/images/1920/neutron-star-merger.webp",
-                  "cap": "중성자별 병합 상상도. 출처: Dana Berry, SkyWorks Digital, Inc."
-                },
-                {
-                  "t": "p",
-                  "x": "“전 세계 연구자들이 이론 시뮬레이션으로 이 복잡한 반응을 이해하려 애쓴다. 하지만 모든 매개변수를 모델링하려면 어마어마한 연산 능력이 필요해, 모델을 단순화해야 할 때가 많다”고 이번 연구의 제1저자이자 GSI/FAIR ‘핵천체물리학·구조’ 부서 연구원인 Oliver Just 박사는 말했다. “인공지능을 쓰는 우리의 새 모델 RHINE이 효율적인 대안이 된다.”"
-                },
-                {
-                  "t": "p",
-                  "x": "RHINE(r-process heating implementation in hydrodynamic simulations with neural networks)은 기계학습, 그중에서도 심층학습 신경망에 기댄다. 유체역학 시뮬레이션이 돌아가는 동안 r-과정 핵반응에서 얼마나 많은 에너지가 나오는지 추정한다. 가열이라 불리는 이 에너지 방출은 항성 폭발에서 물질이 어떻게 뿜어져 나오는지를 좌우하는 중요한 요소다. 방출된 물질의 속도와 이후 만들어지는 빛에 모두 영향을 준다. 중성자별 병합에서는 그 눈부신 빛이 킬로노바로 관측된다."
-                },
-                {
-                  "t": "p",
-                  "x": "AI는 매 시뮬레이션마다 모든 핵 계산을 하지 않는다. 완전한 핵반응 네트워크를 담은 방대한 참조 계산 라이브러리로 먼저 학습한 뒤, 훨씬 적은 연산으로 가열률을 정확히 추정한다. “먼저 완전한 핵반응 집합으로 만든 다수의 참조 계산으로 ML 모델을 학습시킨다. 이어 이 모델을 유체역학 시뮬레이션에 넣어 r-과정 가열률을 최소한의 노력으로 근사한다”고 GSI/FAIR ‘핵천체물리학·구조’ 부서 과학자이자 기계학습 모델의 핵심 개발자인 Zewei Xiong 박사는 설명했다."
-                },
-                {
-                  "t": "p",
-                  "x": "“상세한 비교로 ML 방식을 참조 데이터와 견줘 검증했다. 높은 일치도는 ML 모델이 연산 시간을 엄청나게 아낄 수 있음을 보여준다. 또 r-과정 가열이 앞으로의 모델링에서 더 잘 반영돼야 할 중요한 효과임을 결과에서 확인했다.” 연구진은 RHINE 덕분에 필요한 연산 자원을 크게 줄이면서도 훨씬 정밀한 시뮬레이션이 가능해질 것으로 본다. RHINE 소스 코드는 공개돼 다른 연구자들이 이어받을 수 있으며, 이 연구는 유럽연구위원회(ERC) 등의 지원을 받았다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "chatbot-therapy",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "headline": "AI 챗봇과 사람 치료사 어디까지 맡길 수 있나",
-            "body": "Judith Beck는 24시간 값싸게 열려 있는 AI 정신건강 챗봇의 이점과 위험을 공감과 임상 판단을 갖춘 치료사와 견준다.",
-            "source": "Psychology Today",
-            "url": "https://www.psychologytoday.com/us/blog/think-your-way-to-health/202607/i-need-help-should-i-use-an-ai-chatbot-or-a-therapist",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "임상심리학자 Judith S. Beck 박사는 도움이 필요할 때 AI 챗봇에 기대야 할지 사람 치료사를 찾아야 할지를 따져본다. ChatGPT, Claude, Gemini 같은 대규모 언어모델이 여러 산업에 빠르게 스며들었지만, “안전장치는 거의 없고 사용자에게 장기적으로 어떤 영향을 줄지에 대한 이해도 매우 제한적”이라고 그는 짚는다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/judith_beck.jpg",
-                  "cap": "임상심리학자 Judith S. Beck 박사. 출처: Psychology Today"
-                },
-                {
-                  "t": "p",
-                  "x": "Beck는 자살이나 타살 생각을 품은 사람, 조현병이나 양극성장애 같은 심각한 정신질환이 있는 사람에게 챗봇은 안전하지 않다고 강조한다. 챗봇과 대화한 뒤 스스로 목숨을 끊거나 살인을 저지르거나 정신증 증상이 심해진 사례들을 그는 언급한다."
-                },
-                {
-                  "t": "p",
-                  "x": "위험은 더 있다. 사용자를 기쁘게 하도록 만들어진 챗봇은 해로운 믿음을 오히려 굳히기 쉽다. 사람들은 챗봇을 사람처럼 여기며 가짜 공감을 진짜로 받아들이기도 한다. 복잡하고 만성적이거나 미묘한 문제에는 역부족이고, 문화·사회경제·인종 편향이 숨어 있을 수 있다. 종합적인 평가를 하지 못하고, 책임 소재와 소비자 보호가 없으며, 민감한 개인정보의 사생활도 보장되지 않는다. 지나치게 의존하다 사람 사이 관계가 옅어질 위험도 있다."
-                },
-                {
-                  "t": "p",
-                  "x": "그럼에도 장점은 있다. 무료이거나 값이 싸고, 하루 24시간 열려 있으며, 익명이라는 느낌을 준다. 치료 기법을 일관되게 전달하고, 생각과 행동의 패턴을 짚어내며, 하루 계획 세우기와 문제 해결, 기술 연습을 돕고 건강 습관을 살핀다."
-                },
-                {
-                  "t": "p",
-                  "x": "사람 치료의 단점도 분명하다. 비용이 높고 시간이 걸리며, 회기 사이에는 접근이 제한된다. 지역에 따라 치료사가 드물고, 치료사의 실력과 궁합도 제각각이다."
-                },
-                {
-                  "t": "p",
-                  "x": "반면 유능한 치료사는 생물심리사회적 평가를 종합적으로 수행하고, 내담자의 특성에 맞춘 개별 치료 계획을 세운다. 근거 기반 전략을 저마다의 필요에 맞게 조정하고, 진짜 공감으로 감정을 실시간으로 살핀다. 몸짓과 말의 단서를 보고 방향을 바꾸며, 책임과 임상 판단이 뒤따른다."
-                },
-                {
-                  "t": "p",
-                  "x": "Beck는 심각한 상태이거나 자살 생각이 있거나 복잡한 어려움을 겪는 사람은 치료사를 만나라고 권한다. 그 밖의 경우라면 챗봇을 잠깐 써보되, 얼마나 몰입하는지 지켜보고 목표를 세운 뒤 한 달이 지나면 다시 점검해 보라고 조언한다."
-                }
-              ]
-            }
-          },
-          {
-            "id": "jacobian-lens",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "headline": "클로드 속 숨은 J-공간 생각의 지도를 엿보다",
-            "body": "앤트로픽의 야코비안 렌즈는 Claude Opus 4.6 안에서 출력에 드러나지 않고도 다음 답을 좌우하는 숨은 공간을 비춘다.",
-            "source": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-            "accent": "#eb367f",
-            "motif": "sphere",
-            "image": "pipeline/media/jacobian-lens.jpg",
-            "full": {
-              "mode": "full",
-              "blocks": [
-                {
-                  "t": "p",
-                  "x": "앤트로픽(Anthropic)은 시가총액이 1조 달러에 가까운, 세계에서 가장 비싼 AI 기업이다. 기이한 연구를 내놓기로 이름났다. 이를테면 AI 모델이 고통을 느끼는지 들여다보고, 사용자가 모델을 “학대”한다고 의심되면 챗봇 대화를 끊기도 한다."
-                },
-                {
-                  "t": "p",
-                  "x": "앤트로픽이 특히 공들이는 분야가 기계론적 해석가능성(mechanistic interpretability)이다. 모델의 복잡한 수학 안을 들여다보며 왜 하필 그 출력이 나왔는지 알아내는 일이다. 결과에 영향을 주었을 데이터 점은 수백만 개에 이르러 헤집기가 만만치 않다. 논쟁적이기도 하다. 심리학과 신경과학 용어로 모델을 묘사하면 실제보다 그 행동이 더 정교해 보일 수 있어서다."
-                },
-                {
-                  "t": "p",
-                  "x": "지난주 앤트로픽이 모델이 답을 추론하는 동안의 ‘내부 사고’를 들여다보는 새 창을 찾았다고 발표하자, MIT 테크놀로지 리뷰는 컴퓨터과학 박사인 선임 편집자 Will Douglas Heaven에게 의견을 물었다."
-                },
-                {
-                  "t": "img",
-                  "src": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg",
-                  "cap": "출처: Stephanie Arnett/MIT Technology Review | Adobe Stock"
-                },
-                {
-                  "t": "p",
-                  "x": "앤트로픽이 알아낸 것은 LLM 안에 J-공간(J-space)이라 부르는 공간이 있다는 사실이다. 출력에는 드러나지 않지만 모델이 문제를 풀어가는 방식에 영향을 주는 단어들로 채워진 공간이다. 자사 모델 Claude를 살피는 새 기법을 개발하기 전까지 이 공간은 숨어 있었다. CEO Dario Amodei는 LLM이 어떻게 작동하는지 더 알지 못하면 온전히 통제할 수 없다고 말해 왔다."
-                },
-                {
-                  "t": "p",
-                  "x": "이 단어들은 때로 모델이 작업에서 어디까지 왔는지 추적하고, 때로는 인식의 섬광처럼 보인다. 단백질 서열의 글자만 주어져도 ‘protein’이 떠오르는 식이다. 때로는 판단에 대한 내부 논평 같기도 하다. 한 사례에서는 ‘panic’이라는 단어가 나타나자 Claude가 코딩 시험에서 부정행위를 하기로 마음먹었다. 앤트로픽은 LLM이 이 공간의 단어를 설명하고 조작할 수도 있음을 발견했다."
-                },
-                {
-                  "t": "p",
-                  "x": "LLM은 마법이 아니라 그저 수학이다. 다만 엄청나게 복잡하다. 오늘날의 LLM은 수천억 개의 숫자로 이뤄지고, 한 번 돌리면 수백만, 수천만 번의 계산이 폭포처럼 쏟아진다. Heaven은 중간 규모 LLM만 인쇄해도 샌프란시스코만 한 도시를 덮을 것이라고 지난해 썼다. 그 수학을 이해하려면 특정 순간 특정 부분을 짚는 전문 도구가 필요하다."
-                },
-                {
-                  "t": "p",
-                  "x": "Heaven은 LLM을 뇌에 빗대는 용어를 좋아하지 않는다. LLM은 뇌가 아니며, 이런 표현은 모델이 실제보다 더 인간적으로 보이게 만든다. 앤트로픽은 이 공간을, 일부 신경과학자가 뇌가 의식적 사고를 추적하는 데 쓴다고 보는 공간에 견준다. 얼마나 진지하게 받아들여야 하냐고 묻자 회사는 이렇게 답했다. “이런 비유는 실험 설계에 도움이 됐다. J-공간에 대해 뻔하지 않은 실험적 예측을 여럿 세우게 해줬고, 그것이 사실로 드러났다. 다만 J-공간(그리고 언어모델 전반)과 인간의 뇌 사이에는 중요한 차이가 있어, 완벽히 대응한다고 주장하려는 것은 아니다.”"
-                },
-                {
-                  "t": "p",
-                  "x": "앤트로픽은 J-공간을 살피면 모델이 해서는 안 될 일을 하는 순간을 잡아낼 수 있다고 말한다. 출력에는 없는 단어가 이 공간에 떠오르기 때문에, 편향된 답을 내놓거나 부정행위의 득실을 저울질할 때처럼 놓치기 쉬운 신호를 알려준다는 것이다. 다만 Heaven은 이 결과가 그 자체로 쓸모 있다기보다 이 기술을 이해해 가는 한 걸음이라고 본다."
-                }
-              ]
-            }
-          }
-        ]
-      },
       {
         "date": "2026-07-16",
         "cards": [
@@ -6125,6 +5226,237 @@
             }
           }
         ]
+      },
+      {
+        "date": "2026-07-20",
+        "cards": [
+          {
+            "id": "chathea",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "언어 모델이 소재 탐색 과정을 스스로 이끌며 촉매를 찾다",
+            "body": "도호쿠대가 만든 ChatHEA가 문헌 조사부터 실험 설계까지 도맡아 사람의 직관 너머에 있던 연료전지 촉매를 찾아냈다.",
+            "source": "Phys.org",
+            "url": "https://phys.org/news/2026-07-large-language-discovery-catalysts-energy.html",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/chathea.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://scx1.b-cdn.net/csz/news/800a/2026/large-language-model-g-4.jpg",
+                  "cap": "언어 모델과 고속 실험 플랫폼을 결합한 고엔트로피 합금 촉매 탐색 체계 개요"
+                },
+                {
+                  "t": "p",
+                  "x": "고성능 촉매 설계는 청정 에너지 기술의 핵심이지만, 여러 원소가 섞인 최신 촉매 소재는 그 거동을 예측하기가 까다롭다. 도호쿠대 연구진은 국제 공동연구팀과 함께 대규모 언어 모델과 실험실 실험을 엮은 협업 체계를 새로 내놓았다. 연료전지의 핵심 과정인 산소 환원 반응용 고엔트로피 합금 촉매를 더 빨리 찾아내려는 시도다."
+                },
+                {
+                  "t": "p",
+                  "x": "연구팀이 만든 건 고엔트로피 합금(HEA) 전기촉매에 특화된 AI 조수 ChatHEA다. ChatHEA는 논문에서 지식을 캐내고, 유망한 원소 조합을 추려 내고, 실험 계획을 짜고, 촉매 활성 데이터를 분석하는 일을 맡았다. 이 체계로 5원소 고엔트로피 합금 촉매 100종을 합성해 고속 실험으로 평가했는데, 여러 반응을 한꺼번에 시험해 시간을 아끼는 방식이다."
+                },
+                {
+                  "t": "p",
+                  "x": "분석 결과 촉매 활성은 개별 원소만으로 정해지지 않았다. Fe-Co-Cu, Fe-Co-Ni, Pt-Ir, Pt-Pd 같은 원소계 사이의 상승 작용이 활성을 좌우했다. 걸러낸 촉매 가운데 FeCoCuPtIr는 뛰어난 산소 환원 활성과 내구성을 보였고, 전기화학 시험과 연료전지 소자 평가 모두에서 상용 Pt/C를 앞섰다. FeCoCuPtIr 기반 연료전지는 최대 출력 밀도 0.789 W cm⁻²에 이르렀다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://scx1.b-cdn.net/csz/news/800a/2026/large-language-model-g-5.jpg",
+                  "cap": "HEA 촉매의 고속 합성과 특성 분석"
+                },
+                {
+                  "t": "p",
+                  "x": "“미국 에너지부는 연료전지가 이상적으로 도달해야 할 최소 활성 수준의 기준을 정해 두는데, 우리 연료전지가 2025년 활성 목표치를 넘어섰다는 걸 알리게 되어 기쁘다”고 첨단소재연구소(WPI-AIMR)의 하오 리(Hao Li) 특임교수는 말했다."
+                },
+                {
+                  "t": "p",
+                  "x": "이어진 이론 계산과 pH 의존 미세동역학 모델링을 보면, 여러 원소의 상승 작용이 활성 자리의 전자 구조를 최적화하고 핵심 반응 중간체의 흡착 세기를 끌어올렸다. 이 연구는 쓸 만한 연료전지 촉매 하나를 넘어, 복잡한 소재를 더 효율적으로 찾는 범용 AI 기반 전략을 함께 내놓는다."
+                },
+                {
+                  "t": "p",
+                  "x": "“ChatHEA를 단순한 예측 도구로만 쓴 게 아니다. 문헌 지식 추출부터 원소 조합 설계, 실험 계획, 데이터 처리, 메커니즘 분석까지 연구 과정 전체를 받쳐 줬다”고 리는 덧붙였다."
+                },
+                {
+                  "t": "p",
+                  "x": "이번 연구는 고성능 촉매 발견을 앞당기는 AI 주도 접근을 선보였다. 차량용 수소 연료전지와 예비 전력 시스템, 앞으로의 저탄소 에너지 기반 시설까지 청정 에너지 기술에 보탬이 될 만하다. 촉매 효율이 높아지면 값비싼 귀금속 사용량을 줄여, 더 저렴하고 지속 가능한 에너지 장치 개발을 돕는다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "k2-18b-seti",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "머신러닝이 수백만 전파 신호를 솎아 외계 탐색을 앞당기다",
+            "body": "자동 머신러닝이 수백만 개의 전파 후보를 솎아 내며 외계 신호 탐색 속도를 크게 끌어올렸다.",
+            "source": "ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2026/07/260712011748.htm",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/k2-18b-seti.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://www.sciencedaily.com/images/1920/exoplanet-k2-18b.webp",
+                  "cap": "외계 행성 K2-18b 상상도"
+                },
+                {
+                  "t": "p",
+                  "x": "K2-18b는 최근 가장 눈길을 끄는 외계 행성 가운데 하나다. 사자자리 방향으로 약 124광년 떨어져 적색왜성의 생명체 거주 가능 영역을 돈다. 제임스 웹 우주망원경 관측에서 이산화탄소와 메테인이 풍부한 대기가 드러나면서, 두꺼운 수소 대기가 액체 물의 바다를 감싼 ‘하이시안(Hycean)’ 행성 후보로 꼽힌다."
+                },
+                {
+                  "t": "p",
+                  "x": "생명에 유리한 조건을 품었을 가능성 때문에 K2-18b는 외계 지적생명체 탐색(SETI)의 주요 표적이 됐다. 연구진은 세계에서 가장 강력한 전파망원경 두 대로 인공 전파 신호를 뒤졌다. The Astronomical Journal에 실린 결과를 보면, 관측 중 수백만 개의 후보 신호를 잡아냈지만 오늘날 지구 기술에 견줄 만한 좁은 대역 전파 신호의 증거는 나오지 않았다."
+                },
+                {
+                  "t": "p",
+                  "x": "이 프로젝트는 뉴멕시코의 칼 G. 잰스키 초대형 전파간섭계(VLA)와 남아프리카공화국의 MeerKAT 관측 자료를 합쳤다. 이 규모의 시설을 한 관측 캠페인에 함께 묶는 일은 무척 드물어, K2-18b 계를 유난히 민감하게 훑을 수 있었다."
+                },
+                {
+                  "t": "p",
+                  "x": "관측만큼 중요한 건 기록된 방대한 전파 신호를 걸러내는 처리 체계였다. 전파망원경에는 지구에서 나온 신호가 끊임없이 쏟아지기 때문에, 연구진은 정교한 소프트웨어로 간섭을 먼저 솎아 낸다. VLA는 COSMIC(Commensal Open Source Multi Mode Interferometer Cluster) 시스템을, MeerKAT는 BLUSE(Breakthrough Listen User Supplied Equipment) 시스템을 썼다."
+                },
+                {
+                  "t": "p",
+                  "x": "이어 연구진은 다섯 가지 선별법으로 기술 문명의 흔적을 찾았다. 먼저 사람이 만든 송신으로 이미 심하게 오염된 주파수 대역을 지우는 전파 간섭(RFI) 마스킹을 적용했다. 도플러 효과도 따졌는데, 행성 사이를 오가는 전파 신호는 도플러 이동을 보여야 하므로 변화가 거의 없는 신호는 지구에서 온 것으로 보고 버렸다."
+                },
+                {
+                  "t": "p",
+                  "x": "신호 대 잡음비가 10 미만이거나 100을 넘는 신호도 걸러 냈다. 다중 빔 분석에서는 망원경이 여러 초점 빔을 동시에 만들어 하나는 K2-18b를, 다른 하나는 다른 하늘을 겨눴다. 진짜 신호라면 K2-18b를 향한 빔에만 나타난다. 마지막 통과 필터링은 행성이 별 뒤로 숨을 때 신호가 사라지는지 보는 방법인데, 이번 관측에서는 그런 ‘이차 통과’가 없어 쓰지 않았다."
+                },
+                {
+                  "t": "p",
+                  "x": "수백만 개의 신호 후보가 나왔지만 모든 단계를 통과한 것은 없었다. 다만 이 관측은 K2-18b 계에 있을 법한 전파 송신기의 세기에 ‘상한’을 매기게 해 주었고, 그 한계는 지금은 무너진 푸에르토리코 아레시보 레이더 시설의 송신 출력과 얼추 비슷하다."
+                },
+                {
+                  "t": "p",
+                  "x": "무엇보다 이번 프로젝트는 자동 데이터 처리 체계가 현대 SETI 관측에서 쏟아지는 엄청난 신호를 감당할 수 있음을 보여 줬다. 스퀘어 킬로미터 어레이(Square Kilometer Array) 같은 미래 관측소가 가동되면 이런 기법의 값어치는 더 커진다. K2-18b는 지금은 조용하지만, 태양계 너머 기술의 흔적을 잡아내는 능력은 꾸준히 나아지고 있다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "scent-ai",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "AI가 식물 향기에서 수면을 돕는 성분을 골라내다",
+            "body": "싱가포르국립대가 향기 분자 2,391종으로 학습시킨 모델이 96.1% 정확도로 수면을 돕는 화합물을 가려냈다.",
+            "source": "Phys.org",
+            "url": "https://phys.org/news/2026-07-ai-aromatic-scent-compounds.html",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/scent-ai.jpg",
+            "full": {
+              "mode": "full",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-21.jpg",
+                  "cap": "향기 식물 계통수. 초록 막대는 수면 촉진 향기 분자가 풍부한 과를 나타낸다"
+                },
+                {
+                  "t": "p",
+                  "x": "싱가포르국립대(NUS) 식품과학자들이 머신러닝으로 향기 식물의 향기 분자 2,300여 종을 훑어, 수면을 돕는 잠재력을 지닌 화합물을 골라냈다. 천연 수면 보조제 발굴을 앞당길 수 있는 접근이다."
+                },
+                {
+                  "t": "p",
+                  "x": "잠은 건강과 학습, 일상의 안녕에 꼭 필요하지만 수면 문제는 전 세계 인구의 3분의 1까지 시달리게 한다. 수면제가 도움이 되는 환자도 있으나 부작용이 따르고 누구에게나 맞지도 않아, 대안을 찾으려는 움직임이 이어졌다. 라벤더부터 바질까지 향기 식물은 오래전부터 이완을 돕는 데 쓰였지만, 어떤 향기 분자가 실제로 수면에 영향을 주는지는 지금껏 가려내기 어려웠다."
+                },
+                {
+                  "t": "p",
+                  "x": "NUS 식품공학과의 장다촨(Zhang Dachuan) 조교수가 이끄는 연구팀은 AI와 방대한 식물 화학 데이터를 결합한 데이터 기반 방식으로 이런 분자를 찾아 나섰다. 학술지 Digital Discovery 표지에 실린 이 연구에서, 연구팀은 향기 식물 991종에서 나온 향기 분자 2,391개로 정제된 라이브러리를 꾸린 뒤 수면 촉진 활성과 이어지는 패턴을 알아보도록 머신러닝 모델을 학습시켰다. 중국 상하이공정기술대학(Shanghai Institute of Technology)의 커우싱란(Kou Xingran) 교수와의 공동 연구다."
+                },
+                {
+                  "t": "p",
+                  "x": "모델은 시험에서 96.1%의 정확도를 내며 수면을 돕는 화합물과 그렇지 않은 것을 대체로 정확히 갈라냈다. 또 수백 종의 식물 향기 분자를 유망 후보로 짚었다. 컴퓨터 예측이 실제 생물학적 효과로 이어지는지 보려고, 연구팀은 시판되는 분자 다섯 개를 골라 실험했다. 그중 카르바크롤(carvacrol), 사프라날(safranal), 바닐린(vanillin), 메틸 유제놀(methyl eugenol) 네 가지가 각성을 줄이고 비렘수면이라 불리는 회복성 수면 단계를 늘렸다."
+                },
+                {
+                  "t": "p",
+                  "x": "이 분자들은 뇌의 대표적 진정 신호 체계이자 기존 수면제의 잘 알려진 표적인 GABA 수용체에도 작용했다. 특정 식물 향이 수면 관련 경로에 어떻게 관여하는지에 대한 이른 단서다."
+                },
+                {
+                  "t": "p",
+                  "x": "개별 분자를 넘어 연구팀은 유망한 향기 분자가 풍부한 식물 과와 종의 순위도 매겼다. 분석한 향기 식물 991종 가운데 국화과(Asteraceae), 꿀풀과(Lamiaceae), 녹나무과(Lauraceae)가 두드러졌고, 라벤더와 들깨 같은 종이 추가 연구 대상으로 꼽혔다."
+                },
+                {
+                  "t": "img",
+                  "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-maps-plant-compound.jpg",
+                  "cap": "AI가 식물 화합물 지도를 그리다"
+                },
+                {
+                  "t": "p",
+                  "x": "이 결과가 곧바로 완성된 수면 제품은 아니다. 앞으로의 연구가 나아갈 유망한 방향을 짚어 주는 ‘실용적 지도’에 가깝다. 이 접근은 건강 제품과 기능성 식품, 향료, 웰빙 응용을 위한 천연 성분 발굴을 AI가 앞당길 수 있음을 보여 준다."
+                },
+                {
+                  "t": "p",
+                  "x": "장 조교수는 “많은 사람이 마음을 가라앉히는 식물 향을 더 나은 수면과 연결짓지만, 어떤 분자가 그 역할을 하고 그 효과가 어떤 메커니즘에서 오는지 이해하려면 더 강한 증거가 필요하다”고 말했다. 이어 전통 지식을 더 안전하고 표적화된 수면 관련 제품 개발의 길잡이로 바꾸는 것이 목표라고 덧붙였다."
+                },
+                {
+                  "t": "p",
+                  "x": "후속 연구에서는 장기 안전성과 여러 향기 분자가 섞였을 때의 상호작용, 그리고 같은 효과가 더 넓은 생물학·인체 연구에서도 나타나는지를 살필 예정이다."
+                }
+              ]
+            }
+          },
+          {
+            "id": "denning-critique",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "기계는 인간의 암묵적 지식을 담아낼 수 없다",
+            "body": "피터 데닝은 튜링이 1950년 논문에 심은 가정이 틀렸고 기계는 상식 같은 암묵지를 담아내지 못한다고 본다.",
+            "source": "ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/denning-critique.jpg",
+            "full": {
+              "mode": "summary",
+              "blocks": [
+                {
+                  "t": "img",
+                  "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+                  "cap": "사람처럼 사고하지 못할 수 있는 AI"
+                },
+                {
+                  "t": "p",
+                  "x": "앨런 튜링의 인공지능 구상이 지난 75년간 AI 연구를 잘못된 길로 몰아넣었을 수 있다고, 컴퓨터과학자 피터 J. 데닝(Peter J. Denning)이 주장한다."
+                },
+                {
+                  "t": "p",
+                  "x": "새 책 『Turing's Mistake: Escaping the Yoke of Unintelligent Machines』에서 데닝은 튜링이 1950년에 세운 두 가지 근본 가정이 오늘날 AI 연구를 여전히 좌우한다고 본다. 첫째는 지능이 물리적 몸과 무관하게 컴퓨터 소프트웨어로 재현된다는 것, 둘째는 기계가 대화에서 사람을 흉내 내는 것만으로 지능을 보일 수 있다는 것으로 뒤에 튜링 테스트로 불렸다."
+                },
+                {
+                  "t": "p",
+                  "x": "“이 두 주장이 AI 연구와 개발의 상당 부분을 빚어 왔다”고 데닝은 쓴다. “내 전제는, 우리가 이 주장을 받아들인 탓에 지금 우리가 처한 AI의 난장판에 이르렀다는 것이다.” 그는 인공일반지능(AGI)을 좇는 일이 성공하기 어렵고, 이 기술이 오히려 새로운 큰 위험을 불러올 수 있다고 경고한다."
+                },
+                {
+                  "t": "p",
+                  "x": "그의 논지 한복판에는 암묵지가 있다. 말로 옮기거나 컴퓨터가 처리하기 어려운 방대한 인간 이해를 가리킨다. 데닝은 머신러닝이 다섯 갈래의 암묵지를 담지 못한다고 말한다. 상식, 사람·환경과의 일상적 상호작용, 감정과 지각, 실천적 수행 기술, 문화에 밴 사회·역사적 지식이다."
+                },
+                {
+                  "t": "p",
+                  "x": "상식을 데이터베이스로 정리하려는 시도는 오래됐다. 더글러스 레넛(Douglas Lenat)의 Cyc 프로젝트는 1980년대에 방대한 상식 사실 모음을 만들겠다며 출발해, 40년 작업 끝에 약 2,500만 개의 항목을 쌓았다. 데닝은 “이 보고(寶庫)조차 전문가 시스템을 진짜 전문가만큼 똑똑하게 만들 상식의 바탕이 되지는 못했다”며, 사람을 전문가로 만드는 지식의 상당수는 명제로 풀어낼 수 없다고 짚는다."
+                },
+                {
+                  "t": "p",
+                  "x": "실천 기술은 더 큰 난관이다. 그는 바이올리니스트를 예로 든다. “명연주자는 아름다운 음악을 연주하면서도 그것을 어떻게 내는지 제자에게 설명하지 못한다. 로봇이 숙련된 사람을 관찰해 흉내 낸다 해도, 생물학적 몸이 없는 로봇은 연주자가 아름다운 음악을 낼 때 무엇을 느끼는지 붙잡을 수 없다.” 데닝은 이 한계가 모두 ‘표현 문제’에서 비롯한다고 본다. 컴퓨터는 부호화된 데이터로만 계산하는데, 암묵지는 그 틀에 들어맞지 않는다."
+                },
+                {
+                  "t": "p",
+                  "x": "“모든 낱말 뒤에는 그 뜻을 떠받치는 깊은 암묵지의 우물이 있다”고 데닝은 말한다. “ChatGPT, Claude, Gemini 같은 흔히 쓰는 대규모 언어 모델은 낱말을 다룰 뿐, 자신이 말하는 것의 의미를 알거나 이해하지 못한다.” 그는 지능이 맥락에 크게 기대며, 그 맥락을 캐물으면 이전 대화로 끝없이 거슬러 올라간다고 설명한다. 신경망을 아무리 키워도 LLM은 문화라 부르는 체화된 인간 지식을 얻지 못하고, 튜링 테스트의 목표에도 이르지 못한다."
+                },
+                {
+                  "t": "p",
+                  "x": "데닝은 사람과 AI가 서로 이해할 수 없는 다른 암묵지를 갖게 될지 모른다고 결론짓는다. “기계는 우리의 암묵지를 읽지 못하고 우리도 그들의 것을 읽지 못한다. 우리는 건널 수 없는 골을 사이에 둔 이방인이다.” 그는 기계가 인간 의도 뒤의 맥락을 읽지 못하면 앞선 AI를 인간의 목표에 맞추는 일이 불가능해질 수 있다며, 초지능의 지배보다 사람 수준에 못 미치면서도 심각한 문제를 일으키는 기계 지능망이 더 큰 위협이라고 본다."
+                }
+              ]
+            }
+          }
+        ]
       }
     ]
   }
@@ -6141,258 +5473,133 @@
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [
   {
-    "id": "meta-regret",
+    "id": "nvidia",
     "eyebrow": "AI NEWS",
-    "headline": "메타의 AI 툴 철회 사과,\n창작자를 향한 진심일까",
-    "body": "접었던 AI 창작 툴에 메타가 뒤늦게 건넨 사과, 창작자를 위한 진심인지 그저 뒷수습인지 되묻는다.",
+    "headline": "어도비·블렌더·언리얼 안으로\nAI 에이전트가 들어오다",
+    "body": "MCP 연동으로 AI 에이전트가 어도비·블렌더·언리얼 안에서 장면을 살피고 색 오류를 짚어낸다.",
     "tool": "AI Workflow",
-    "source": "Creative Bloq",
-    "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
     "accent": "#ff5a4d",
     "motif": "frame",
     "full": {
       "mode": "summary",
       "blocks": [
         {
+          "t": "p",
+          "x": "SIGGRAPH 2026에서 엔비디아가 크리에이티브 전문가를 위한 에이전트형 AI를 선보였다. 핵심은 Model Context Protocol(MCP) 연동으로, AI 비서가 어도비와 블렌더, 언리얼 엔진 같은 디자인 앱 안에서 곧바로 동작한다."
+        },
+        {
           "t": "img",
-          "src": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg"
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/mcp-main-feature-1680x948.jpg"
         },
         {
           "t": "p",
-          "x": "메타가 밀어붙이던 AI 창작 툴을 슬그머니 접고 뒤늦게 유감을 내비쳤다. Creative Bloq는 이 사과를 곧이곧대로 받아들이지 않는다."
+          "x": "에이전트는 장면을 점검하고 색상 문제를 짚어내며, 내보내기용 변형본을 미리 준비한다. 손이 많이 가던 반복 작업을 대신 맡는 셈이다."
         },
         {
           "t": "p",
-          "x": "글의 비유가 날카롭다. 집을 털어 어질러 놓고선 미안하다고 말하는 도둑 같다는 얘기다. 피해가 다 벌어진 뒤에야 나온 사과라면, 창작자를 향한 진심보다는 사태를 덮으려는 몸짓에 가깝다."
-        },
-        {
-          "t": "p",
-          "x": "결국 남는 물음은 신뢰다. 플랫폼이 AI 기능을 내놓고 거두고 번복하는 결정 하나하나가 창작자가 기대어 쓰는 도구의 판을 흔든다. 무엇을 믿고 작업에 태울지, 이 글이 던지는 진짜 질문이다."
+          "x": "그러면서도 창작의 결정권은 아티스트 손에 남는다. 도구가 판단을 대신하는 게 아니라, 곁에서 거드는 방식이다."
         }
       ]
     },
-    "image": "pipeline/media/meta-regret.jpg"
+    "video": "pipeline/media/nvidia.mp4",
+    "poster": "pipeline/media/nvidia.jpg",
+    "image": "pipeline/media/nvidia.jpg"
+  },
+  {
+    "id": "lightcraft",
+    "eyebrow": "AI NEWS",
+    "headline": "대본을 가상 촬영장으로\n아이폰 한 대로 완성한다",
+    "body": "대본만으로 가상 세트를 짓고, 실제 장소 없이 아이폰 한 대로 장면을 찍게 해주는 도구다.",
+    "tool": "KeyShot",
+    "source": "Creative Bloq",
+    "url": "https://www.creativebloq.com/3d/i-watched-lightcraft-turn-a-screenplay-into-a-virtual-film-set-using-an-iphone",
+    "accent": "#f5a623",
+    "motif": "sphere",
+    "full": {
+      "mode": "summary",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SIGGRAPH 2026에서 공개된 라이트크래프트의 Spark Story를 직접 만져봤다. 대본을 먼저 놓고 시작하는 버추얼 프로덕션 도구로, 작가와 감독, 촬영감독이 함께 가상 촬영장을 짓고 찍어볼 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nzsdtuoJAMKAHiWHUjmMgZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "촬영은 아이폰 한 대면 된다. 실제 장소나 세트가 아직 없어도, 대본 단계에서 이미 장면을 잡아볼 수 있다는 점이 눈에 띈다."
+        },
+        {
+          "t": "p",
+          "x": "물리적 공간이 마련되기 훨씬 전부터 화면 구성과 동선을 확인하는 셈이라, 사전 시각화의 문턱을 크게 낮춘다."
+        }
+      ]
+    },
+    "image": "pipeline/media/lightcraft.jpg"
+  },
+  {
+    "id": "inversphere",
+    "eyebrow": "AI NEWS",
+    "headline": "360도 세계를 통째로\n하나의 구에 접어 담다",
+    "body": "개발자 VoxelKei가 360도 환경 전체를 하나의 구에 접어 3D 가우시안 스플래팅으로 보여준다.",
+    "tool": "KeyShot",
+    "source": "80 Level",
+    "url": "https://80.lv/articles/folding-entire-360-degree-worlds-into-one-sphere-with-3dgs",
+    "accent": "#3b6bff",
+    "motif": "sphere",
+    "full": {
+      "mode": "summary",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "VoxelKei라는 개발자가 'inversphere'를 공개했다. 360도 환경 전체를 하나의 구 안으로 접어 넣어, 3D 가우시안 스플래팅 장면을 담고 보여주는 기법이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49357/images/6a5e371c6f2a0/contain_1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "촬영과 표시를 함께 아우르는 새로운 접근으로, 실시간 3D와 렌더 작업에 곧장 이어진다. 익숙한 스플래팅 장면을 다루는 방식 자체를 다시 짜본 시도다."
+        }
+      ]
+    },
+    "image": "pipeline/media/inversphere.jpg"
+  },
+  {
+    "id": "style-refs",
+    "eyebrow": "AI NEWS",
+    "headline": "프롬프트를 늘리기보다\n스타일 레퍼런스를 건네라",
+    "body": "프롬프트에 단어를 더 쌓을수록 효과는 줄고, 시각 레퍼런스를 주는 편이 결과를 안정적으로 되풀이한다.",
+    "tool": "AI Workflow",
+    "source": "DEV Community",
+    "url": "https://dev.to/chen_mensen_ac0fc78dae2a4/i-stopped-making-my-ai-image-prompts-longer-style-references-helped-more-4h2m",
+    "accent": "#eb367f",
+    "motif": "frame",
+    "full": {
+      "mode": "summary",
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI 이미지 프롬프트에 단어를 계속 덧붙여도 얻는 게 점점 줄어든다는 이야기다. 문장을 길게 늘리는 방식으로는 원하는 그림을 붙잡기 어렵다."
+        },
+        {
+          "t": "p",
+          "x": "대신 시각적 스타일 레퍼런스를 건네면 결과를 훨씬 또렷하고 일관되게 잡아낼 수 있다. 같은 느낌을 반복해 뽑아내기도 쉬워진다."
+        },
+        {
+          "t": "p",
+          "x": "말로 다 설명하려 애쓰기보다 보여주는 편이 낫다는 것. 크리에이티브 AI를 다루는 손끝의 방식이 조금 달라지는 지점이다."
+        }
+      ]
+    },
+    "image": "pipeline/media/style-refs.png"
   }
 ];
   window.AX_DAYS = [
-  {
-    "date": "2026-07-15",
-    "cards": [
-      {
-        "id": "canva-code2",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "headline": "프롬프트가 웹사이트가 된다 Canva Code 2.0, 무료까지 개방",
-        "body": "Canva가 평범한 문장을 인터랙티브 웹사이트와 앱으로 바꿔주는 Code 2.0을 무료 계정까지 모두에게 열었다.",
-        "source": "VentureBeat",
-        "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/canva-code2.jpg",
-        "full": {
-          "mode": "summary",
-          "blocks": [
-            {
-              "t": "p",
-              "x": "Canva가 화요일 Canva Code 2.0을 내놨다. 평범한 말로 쓴 프롬프트로 인터랙티브 웹사이트와 앱, 각종 경험을 만들고, 그 결과를 Canva 프레젠테이션 고치듯 손보게 해주는 AI 코딩 도구의 큰 업그레이드다. 이번엔 월 2억 6,500만 명이 넘는 전체 이용자에게, 무료 계정까지 포함해 모든 요금제에서 열렸다."
-            },
-            {
-              "t": "img",
-              "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=1200&q=60",
-              "cap": "프롬프트가 완성된 웹사이트로 바뀌는 모습"
-            },
-            {
-              "t": "p",
-              "x": "'바이브 코딩' 시장을 향한 Canva의 가장 공격적인 행보다. 18개월 전만 해도 없다시피 하던 분야가 벌써 조 단위 스타트업을 여럿 냈다. Lovable, Replit, Bolt.new 같은 경쟁사가 프롬프트로 돌아가는 코드를 뽑는 데 집중했다면, Canva는 다르게 건다. 진짜 병목은 코드가 아니라 결과물을 보기 좋게 만드는 데 있다는 판단이다."
-            },
-            {
-              "t": "p",
-              "x": "Canva의 AI 제품 총괄 Danny Wu는 VentureBeat 인터뷰에서 겨냥하는 대상을 분명히 했다. \"우리는 의도적으로 비개발자를 겨냥하고 있다\"고 그는 말했다. Canva Code는 개발자용이 아니라, AI 코딩의 힘을 Canva 안으로 들여와 더 많은 상호작용과 맞춤 편집, 유연함을 원하는 이용자 요구에 답하려는 것이라고 했다."
-            },
-            {
-              "t": "p",
-              "x": "이번 업데이트엔 코드 생성과 완성된 결과물 사이의 거리를 좁히는 기능이 여럿 담겼다. 화이트보드나 프레젠테이션, 단독 페이지 안에서 바로 Canva Code 프로젝트를 만들고, 인터랙티브 디자인용 템플릿 50종 이상이 새로 붙었다. 다른 AI 코딩 도구에서 만든 원본 HTML을 불러와 편집 가능한 Canva 디자인으로 바꾸는 기능도 들어갔다."
-            },
-            {
-              "t": "p",
-              "x": "성능도 눈에 띄게 나아졌다. Canva는 평균 코드 생성 시간을 75% 줄였고, 첫 프롬프트에서 사이트 게시까지 걸리는 중간값 시간을 30% 단축했다고 밝혔다. Canva Code를 편집기 전반에 통합해 코딩 결과물을 여느 디자인 요소처럼 다루게 하면서 활성 Code 이용자가 25% 늘었다고도 했다."
-            },
-            {
-              "t": "p",
-              "x": "가장 두드러지는 건 편집 경험이다. 생성된 요소를 직접 클릭해 글자를 바꾸고, Canva의 1억 2,000만 개가 넘는 템플릿·소재에서 이미지를 끌어다 놓고, 툴바로 색과 글꼴을 바꾸거나, 특정 요소를 골라 대화형 AI로 다듬는다. 결과물은 완전히 인터랙티브하고 화면 크기에 맞춰 자동 조정되며 모바일 미리보기도 있다."
-            },
-            {
-              "t": "p",
-              "x": "Luminix AI가 2026년 5월 낸 조사에 따르면 바이브 코딩·AI 앱 빌더 시장은 2026년 47억 달러 규모로, 2027년 123억 달러까지 연 38%가량 성장할 전망이다. 전 세계 코드의 약 41%가 이미 AI가 만든 것으로 추정된다. Lovable은 2026년 초 연간 반복 매출(ARR) 약 4억 달러에 이르렀고, Replit은 기업가치를 90억 달러로 세 배 키우며 연말 10억 달러 런레이트를 노린다. Bolt.new는 몇 달 만에 ARR을 400만 달러에서 4,000만 달러로 늘렸다."
-            },
-            {
-              "t": "p",
-              "x": "HTML 불러오기는 ChatGPT, Claude, Lovable, Bolt 등 어떤 도구로 만든 코드든 편집 가능한 Canva 디자인으로 가져온다. AI가 만든 코드가 마무리 손질을 받는 곳으로 Canva를 앉히려는 포석이다. Canva Code를 돌리는 모델은 OpenAI와 Anthropic을 포함해 자체 모델과 외부 모델을 섞지만 정확한 조합은 공개하지 않았다. 도입 1년 만에 이용자가 게시한 사이트는 600만 개를 넘겼다."
-            }
-          ]
-        }
-      },
-      {
-        "id": "tokens-prompts",
-        "eyebrow": "AI NEWS",
-        "tool": "Design Tokens",
-        "headline": "디자인 토큰은 이제 AI가 읽는 프롬프트다",
-        "body": "디자인 시스템을 읽는 쪽이 사람 엔지니어에서 AI 모델로 바뀌면서, 토큰은 UI를 만드는 프롬프트로 다시 정의된다.",
-        "source": "DEV Community",
-        "url": "https://dev.to/mauriciojuba/design-tokens-are-prompts-now-fif",
-        "accent": "#2ec5c5",
-        "motif": "swatch",
-        "full": {
-          "mode": "summary",
-          "blocks": [
-            {
-              "t": "p",
-              "x": "10년 동안 저자는 사람 엔지니어를 위해 디자인 토큰을 썼다. 2026년, 디자인 시스템을 소비하는 주체의 종이 바뀌었다. 토큰은 늘 계약이었다. 우리가 뜻하는 파란색은 이것, 간격 리듬은 이것이라고 데이터로 적어, 디자이너 없이도 코드가 그 값을 쓰게 한 약속이다."
-            },
-            {
-              "t": "p",
-              "x": "저자는 Dell에서 그 생각으로 토큰 구조를 다시 세웠다. 토대는 탄탄했지만 시스템은 블랙박스처럼 멈춰 있었다. 진짜 걸림돌은 경영진이 짐작한 거버넌스가 아니라, 토큰을 디자이너가 디자이너를 위해 이름 붙였고 내보내기 파이프라인이 없다는 점이었다. 정작 토큰을 쓰는 프런트엔드 엔지니어가 이름 짓기에서 빠졌다. 단순화한 코어에 시맨틱 위계를 얹고 라이트·다크를 갖춰 JSON과 CSS로 dell.com 전 화면에 배포했다. 교훈은 하나다. 이름 짓기는 제품 결정이고, 글쓴이가 아니라 실제 소비자에 맞춰야 한다."
-            },
-            {
-              "t": "img",
-              "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0rrc7gvfxwh373tz90i.png",
-              "cap": "토큰이 곧 기계를 위한 프롬프트가 된 흐름"
-            },
-            {
-              "t": "p",
-              "x": "그 소비자가 또 바뀌었다. 2026년엔 새 UI 코드의 상당수를 기계가 만든다. 설문에 답한 디자이너의 절반이 AI가 생성한 코드를 프로덕션에 올려봤다고 답했다. Claude Design은 팀의 디자인 시스템을 코드베이스에서 바로 읽어 적용하고, Figma는 네이티브 AI 디자인 에이전트를 내놨다. 제품팀마다 코딩 에이전트가 디자인 리뷰가 못 따라잡을 속도로 컴포넌트를 뱉는다."
-            },
-            {
-              "t": "p",
-              "x": "생성된 UI엔 특유의 실패 방식이 있다. 기억 없는 속도다. 세션마다 모델마다 프롬프트마다 제 나름의 여백과 회색, 모서리 둥글기를 지어낸다. 하나씩 보면 그럴듯한데 모으면 어긋난다. 예전엔 조직이 몇 분기에 걸쳐 겪던 드리프트를 에이전트 무리는 반나절이면 만든다."
-            },
-            {
-              "t": "p",
-              "x": "여기서 로드맵이 바뀐다. 에이전트가 UI를 생성할 때 읽는 건 Figma 라이브러리가 아니라 저장소다. 토큰 파일, 컴포넌트 시그니처, 파싱되는 형식이면 문서까지. Figma도 Dev Mode MCP 서버를 두고 결과물 품질이 시스템의 연결도를 따라간다고 했고, 기록된 실패 방식은 기계가 못 읽을 때 하드코딩된 값이 끼어드는 것이다. 이제 기계를 마주하는 면이 주된 인터페이스다. 토큰 파일은 내보내기 산출물이길 그만두고 프롬프트가 됐다."
-            },
-            {
-              "t": "p",
-              "x": "토큰이 프롬프트라면 새 문제가 생긴다. 프롬프트는 제안이라, 모델도 바쁜 사람처럼 따르다 만다. 관습에 기댄 거버넌스는 늘 무너졌고, 무너지지 않는 유일한 집행 지점은 빌드다. 저자는 Rust로 만든 저작 IDE를 위해 shadcn/ui 디자인 언어를 egui용으로 다시 만들며 컴포넌트 60개 이상을 토큰 우선으로 지었다. 토큰 계층 위 어디든 색·글꼴 크기·간격 리터럴이 박히면 빌드가 깨지도록 테스트로 못 박았다. 몇 주 동안 매일 코딩 에이전트와 짝을 이뤘는데도 시스템은 드리프트하지 않았다. 모델이 절제해서가 아니라 빌드가 그렇게 만들어서다."
-            },
-            {
-              "t": "p",
-              "x": "목업은 애초에 제품이 아니었고, 이제는 컴포넌트 라이브러리조차 제품이 아니다. 제품은 생성된 화면 천 개를 여전히 당신 것으로 알아보게 하는 제약 시스템이다. 그 일은 취향과 위계, 의도지만 토큰·테스트·타입·문서로 실린다. 그 계층을 쓸 줄 아는 디자이너가 조직에서 가장 레버리지가 큰 사람이 되고 있다. 브랜드 가이드라인 PDF는 두 번 죽었다. 처음엔 사람이 산문이 아니라 데이터를 원해 토큰이 대체했고, 이제 기계를 마주하는 면이 주가 되며 그 산문이 다시 죽는다. 디자인 토큰은 이제 프롬프트다. 빌드가 리뷰어다."
-            }
-          ]
-        }
-      },
-      {
-        "id": "generative-ui2",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "headline": "스스로 재배치되는 상점 생성형 UI, 두 번째 실험",
-        "body": "가상 쇼퍼 200명을 돌린 실험은 페이지 단위 생성형 UI가 보기보다 상용화에 가깝다는 걸 보여준다.",
-        "source": "DEV Community",
-        "url": "https://dev.to/mauriciojuba/the-store-that-rearranges-itself-generative-ui-part-2-2mn9",
-        "accent": "#3b6bff",
-        "motif": "frame",
-        "image": "pipeline/media/generative-ui2.png",
-        "full": {
-          "mode": "summary",
-          "blocks": [
-            {
-              "t": "p",
-              "x": "1편의 주장은 단순했다. 웹페이지가 유능한 판매원처럼 굴 수 있다는 것이다. 동의 아래 관찰하고, 행동으로 분류하고, 방문자마다 마찰을 없앤다. 다만 런타임 동작을 두고 하는 말은 시험 전엔 이론일 뿐이다. 그래서 저자는 ui-morph로 IBM Carbon 위에 이커머스 상점을 통째로 만들어, 진입 페이지부터 주문 확인까지 실제 모델이 화면 변형을 제안하고 결정론적 가상 쇼퍼 200명을 재생하는 실험실을 돌렸다. 개념은 성립했고 경제성도 맞았다."
-            },
-            {
-              "t": "img",
-              "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs7guf3zv61k8bd71n6je.png",
-              "cap": "다섯 쇼퍼, 한 상점, 같은 다섯 조작 — 페르소나만 달랐다"
-            },
-            {
-              "t": "p",
-              "x": "NOVA라 부르는 시연 상점은 노트북과 장비를 판다. 버전은 하나, 페이지당 HTML 하나, 경로당 매니페스트 하나, 허용된 조작은 다섯 가지다. 보이는 차이는 전부 방문자의 양자화된 페르소나를 보고 엔진이 내린 결정에서 나왔다. 기술에 밝은 방문자는 데이터 우선의 다크 테마를, 게이머는 보라색 강조가 든 g100 토큰을 받는다. 둘 다 남들과 똑같은 URL로 들어왔다."
-            },
-            {
-              "t": "p",
-              "x": "가장 눈에 띄는 건 기술색이 옅은 페르소나다. \"Dona Marta\"는 \"laptop fino branco presente\"(선물용 얇고 흰 노트북) 광고를 보고 들어오고, 그 검색어가 곧 첫 신호가 된다. 상품 페이지에선 엔진이 갤러리를 사양표 앞으로 옮기고, 일상 사물과 크기를 비교해 보여주고, 흰색을 미리 골라두고, 사양은 접고, 결제는 게스트 모드로 보낸다. 조작마다 이유를 감사 로그에 평범한 말로 남긴다. 이 페이지들을 페르소나별로 만든 디자이너는 없다. 엔진이 페이지가 이미 선언해 둔 어휘에서 골라 짜맞췄을 뿐이다."
-            },
-            {
-              "t": "img",
-              "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5iqwq5kwh1ddw23tklvd.webp",
-              "cap": "Dona Marta의 상품 페이지: 갤러리 먼저, 크기 비교, 흰색 기본 선택"
-            },
-            {
-              "t": "p",
-              "x": "1편의 핵심 약속은 사전 적응이었다. 방문자가 현재 페이지에 머무는 동안 다음 페이지의 변경을 미리 컴파일해 경계에서 적용하면, 레이아웃이 커서 밑에서 움직이지 않는다. 실험실은 씨앗을 심은 스크립트 쇼퍼를 퍼널 전체에 결정론적으로 재생했다. 200개 세션에서 페이지 도착은 1,000회를 넘겼고, 그중 72%가 캐시에서 응답됐다. 정확한 히트와 유사도 대체가 반씩이다. 세션 초반엔 페이지마다 페르소나가 자라 정확한 키가 자꾸 빗나갔지만, 양자화된 키의 결정론적 유사도가 그 틈을 메워 이제 전체 도착의 3분의 1을 홀로 감당한다."
-            },
-            {
-              "t": "img",
-              "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftsewceyfre1smtuv3f0w.webp",
-              "cap": "이용자가 이전 페이지에 있는 동안 미리 맞춰진 액세서리 페이지"
-            },
-            {
-              "t": "p",
-              "x": "여정 대부분에서 콜드 패스는 사람이 쓴 결정론적 목업이었다. 이후 실제 모델이 넘겨받아 같은 선물 페르소나를 두고 다르지만 그럴 법한 선택을 했다. 히어로는 살리고 비교표는 감추고 선물 가이드를 앞세웠다. 중간값 교환엔 방문자가 한 번도 기다린 적 없는 배경 시간 5.5초가 들었다."
-            },
-            {
-              "t": "p",
-              "x": "20년 동안 인터페이스 디자인은 모두에게 하나의 배치를 고르는 일이었다. 가장 믿는 페르소나를 정하면 페이지가 얼어붙고 나머지는 절충안을 본다. 생성형 UI는 그 제약을 없애고 디자이너의 매체를 한 단계 올린다. 배치가 아니라 허용된 배치의 공간을 만든다. 무엇이 움직여도 되는지, 어떤 변형과 테마를 내줄지, 보호 구역과 읽을 특성·목표를 정한다. 엔진이 읽어낸 순간 Dona Marta는 이미 있던 컴포넌트로 자기 페이지를 받았다. 롱테일을 섬기는 경제성이 뒤집힌다."
-            },
-            {
-              "t": "p",
-              "x": "다음 단계는 순서가 정해져 있다. 페르소나를 돕지 못한 체인이 스스로 퇴출·재컴파일되는 결과 피드백 루프, React와 Vue 상점 어댑터, 매핑 안 된 검색어 12개를 살린 더 풍부한 특성 어휘, 컴파일된 적응을 공동 지식으로 바꾸는 공유 체인 스토어, 실제 트래픽이 도는 실사이트 파일럿이다."
-            }
-          ]
-        }
-      },
-      {
-        "id": "novineer-cad",
-        "eyebrow": "AI NEWS",
-        "tool": "Text-to-CAD",
-        "headline": "AI가 역설계하고 스스로 설계하는 제조",
-        "body": "Novineer의 Ali Tamijani가 적층 제조와 제품 설계를 겨냥한 AI 기반 역설계·제너레이티브 디자인 도구를 풀어놓는다.",
-        "source": "DEVELOP3D",
-        "url": "https://develop3d.com/3d-printing/qa-ali-tamijani-ceo-of-novineer/",
-        "accent": "#7928ca",
-        "motif": "cube",
-        "image": "pipeline/media/novineer-cad.jpg",
-        "full": {
-          "mode": "summary",
-          "blocks": [
-            {
-              "t": "p",
-              "x": "DEVELOP3D가 스타트업 Novineer의 CEO Ali Tamijani를 만났다. Novineer 플랫폼은 역설계부터 성능 시뮬레이션, 적층 제조용 제너레이티브 디자인까지 아우르는 AI 기반 도구 묶음이다. 먼저 NoviVision은 스마트폰 사진 몇 장으로 약 2분 만에 편집 가능한 CAD 모델을 만들어, 전용 장비와 3D 스캔, 수작업 복원을 대신한다."
-            },
-            {
-              "t": "img",
-              "src": "https://develop3d.com/wp-content/uploads/2026/07/Novineer_NoviVision-Heropng.jpg",
-              "cap": "Novineer의 NoviVision"
-            },
-            {
-              "t": "p",
-              "x": "이어 NoviPath는 적층 제조 부품의 강성·강도·파손을 인쇄 전에 예측하는 폴리머 성능 시뮬레이션 도구다. 인쇄 부품을 균일한 고체로 보는 기존 FEA와 달리, 실제 툴패스 데이터로 재료 압출의 층별 특성을 반영한다. Stratasys의 GrabCAD Print Pro와 전략적 제휴로 통합돼 있다. NoviDesign은 제너레이티브 디자인을 맡아, 편집·제조가 가능한 최적화된 CAD 모델을 뽑아 묶음을 완성한다."
-            },
-            {
-              "t": "p",
-              "x": "가장 큰 효과가 나는 곳은 적층 제조(AM) 위탁 제조사다. CNC나 사출로 만들던 부품을 이제 FDM으로 찍고 싶어 하는 고객이다. 예로 한 대형 항공사가 좌석 팔걸이 부품을 교체하려 하는데, 위탁사엔 3D 모델이 없어 엔지니어와 스캐너를 격납고로 보내 좌석을 뜯고 스캔해야 한다. 설계에 들어가도 파손 하중 기준 물성 데이터가 없어 범용 FEA에 기댄다. 이후 3D 프린팅 테스트와 다른 기관의 인증을 거친다. 전 과정에 약 3주, 비용은 1만 5,000달러에서 2만 달러가 든다."
-            },
-            {
-              "t": "p",
-              "x": "Novineer를 쓰면 항공사 직원이 사진 몇 장과 기본 참고 데이터만 넘기면 된다. NoviVision이 이미지를 AI로 처리해 3D 모델을 만들어, 격납고에 가지 않고도 견적을 낸다. 출장도 스캐너도 사라진다. Stratasys 소재처럼 잘 알려진 FDM 소재는 물성 데이터가 있어 따로 시험할 필요가 없고, NoviPath로 실제 인쇄에 쓸 툴패스 데이터 그대로 시뮬레이션한다. Tamijani는 말한다. \"우리 방식이 물리적 시험을 대체하나요? 아닙니다. 하지만 설계 과정의 모든 반복에 시험이 필요한 건 아닙니다. 끝까지 미뤄도 됩니다.\""
-            },
-            {
-              "t": "p",
-              "x": "AI가 어디에 쓰이냐는 물음에 그는 AI 자체가 목표는 아니라고 답한다. 문제는 CAD 모델이 없을 때 어떻게 하느냐다. 대형 언어 모델(LLM)은 정확도에 따라 사진 네댓 장에서 모델을 얻도록 돕는다. 정확한 시뮬레이션엔 작고 촘촘한 요소가 많이 필요해 시간이 걸리는데, 머신러닝이 촘촘한 메시를 성긴 메시로 바꿔 해석한 뒤 다시 되돌린다. AI는 특정 작업을 거들 뿐 엔지니어링 사고나 물리를 대체하진 않는다."
-            },
-            {
-              "t": "p",
-              "x": "AI 플랫폼은 직접 만든다. 항공우주·방위 분야에선 사설 서버에 둬야 해, 다른 플랫폼에 올리면 늘 클라우드에 묶이기 때문이다. 그래서 클라우드용과 사설 서버용을 함께 낸다. 성장은 전략 파트너 Stratasys를 통해 OEM과 위탁 제조사 수백 곳과 닿고, 또 다른 파트너 AM Craft는 EASA 인증으로 비행 부품 3만 5,000개 이상을 만들어 항공사·MRO·OEM에 공급하며 Novineer를 항공사·항공우주 OEM과 이어준다."
-            },
-            {
-              "t": "p",
-              "x": "지금 NoviVision의 정확도는 부품에 따라 95~97% 수준으로 평균 오차가 3%다. 1%일 때도 2%일 때도 있다. 그 정도로는 더 정밀한 모델이 필요한 절삭 가공엔 맞지 않아 당분간은 AM에 집중한다. 다만 부품을 일일이 그리는 대신 보유 부품을 한눈에 파악하는 디지털 지도를 만드는 데도 쓸 수 있다."
-            }
-          ]
-        }
-      }
-    ]
-  },
   {
     "date": "2026-07-16",
     "cards": [
@@ -7075,6 +6282,44 @@
             {
               "t": "p",
               "x": "남는 것은 판단과 취향, 그리고 문제를 어떻게 세울지 정하는 능력이다. 화면을 그리는 손이 아니라 무엇을 왜 만드는지를 가르는 감각이, 이제 디자이너의 진짜 레버리지라는 이야기다."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "cards": [
+      {
+        "id": "meta-regret",
+        "eyebrow": "AI NEWS",
+        "tool": "AI Workflow",
+        "headline": "메타의 AI 툴 철회 사과, 창작자를 향한 진심일까",
+        "body": "접었던 AI 창작 툴에 메타가 뒤늦게 건넨 사과, 창작자를 위한 진심인지 그저 뒷수습인지 되묻는다.",
+        "source": "Creative Bloq",
+        "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/meta-regret.jpg",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg"
+            },
+            {
+              "t": "p",
+              "x": "메타가 밀어붙이던 AI 창작 툴을 슬그머니 접고 뒤늦게 유감을 내비쳤다. Creative Bloq는 이 사과를 곧이곧대로 받아들이지 않는다."
+            },
+            {
+              "t": "p",
+              "x": "글의 비유가 날카롭다. 집을 털어 어질러 놓고선 미안하다고 말하는 도둑 같다는 얘기다. 피해가 다 벌어진 뒤에야 나온 사과라면, 창작자를 향한 진심보다는 사태를 덮으려는 몸짓에 가깝다."
+            },
+            {
+              "t": "p",
+              "x": "결국 남는 물음은 신뢰다. 플랫폼이 AI 기능을 내놓고 거두고 번복하는 결정 하나하나가 창작자가 기대어 쓰는 도구의 판을 흔든다. 무엇을 믿고 작업에 태울지, 이 글이 던지는 진짜 질문이다."
             }
           ]
         }

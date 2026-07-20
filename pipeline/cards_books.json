@@ -1,45 +1,66 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
+  "section": "books",
   "cards": [
     {
-      "id": "fiction-feast",
+      "id": "fanfic-ai-markers",
       "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "픽션 피스트, 자체 소설에\nAI 도구를 쓴다고 통보",
-      "body": "영국의 대표 단편 잡지 픽션 피스트가 자체 제작 소설에 AI 도구를 활용하겠다고 기고 작가들에게 알렸다.",
-      "mini_headline": "픽션 피스트의 AI 전환",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
+      "headline": "복사해 붙인 글에 남은 흔적이\nAI 사용을 드러내다",
+      "body": "클로드에서 붙여넣은 글에 숨은 표식이 남아, AI를 꺼리던 팬픽 커뮤니티의 광범위한 AI 사용이 드러났다.",
+      "mini_headline": "붙여넣기가 남긴 AI 흔적",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg", "cap": "AI 도구 활용을 알린 픽션 피스트 (이미지: 셔터스톡)" },
-          { "t": "p", "x": "'테이크 어 브레이크'가 내는 단편 잡지 픽션 피스트가 정기 기고 작가들에게, 앞으로 편집부가 자체 제작하는 소설에 'AI 도구를 쓰겠다'고 알렸다." },
-          { "t": "p", "x": "영국에서 가장 잘 알려진 단편 소설 잡지 가운데 하나가 편집 관행을 이렇게 바꾸는 건 그 자체로 눈에 띄는 변화다." },
-          { "t": "p", "x": "다만 이 방침이 적용되는 건 외부에서 투고받는 원고가 아니라 편집부가 앞으로 자체 제작하는 이야기다." }
+          { "t": "p", "x": "클로드 같은 AI로 쓴 글을 아카이브 오브 아워 온(AO3)에 복사해 붙이면, 눈에 보이지 않는 표식이 텍스트에 그대로 남는다." },
+          { "t": "p", "x": "이 흔적 덕분에, AI 창작에 강하게 반대해 온 팬픽 커뮤니티 안에서도 AI의 손을 빌린 글쓰기가 폭넓게 이뤄져 왔다는 사실이 드러났다." },
+          { "t": "p", "x": "붙여넣기만으로는 지워지지 않는 이 표식은 작가와 편집자가 직접 확인해 볼 수 있는 AI 판별 단서가 된다." },
+          { "t": "img", "src": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg" }
         ]
       }
     },
     {
-      "id": "cartland-voice",
+      "id": "vancouver-ai-disclosure",
       "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "볼린다, 인터뷰와 자료로\n카틀랜드 목소리를 복원",
-      "body": "오디오북 출판사 볼린다가 인터뷰와 자료 조사에 사람의 손을 더해 고 바버라 카틀랜드의 목소리를 AI로 되살렸다.",
-      "mini_headline": "카틀랜드 목소리 복원",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
+      "headline": "학술계 AI 공개를 위한\n밴쿠버 표준이 나온다",
+      "body": "AI를 쓴 연구자 약 3분의 1이 이를 밝히지 않는다는 조사 뒤, 학술 AI 공개 기준인 '밴쿠버 표준'이 국제 협의로 마련된다.",
+      "mini_headline": "AI 공개, 밴쿠버 표준",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg", "cap": "바버라 카틀랜드 (사진: 바버라 카틀랜드 재단)" },
-          { "t": "p", "x": "오디오북 출판사 볼린다가 세상을 떠난 로맨스 소설가 바버라 카틀랜드의 목소리를 AI로 복제했다. 인터뷰와 아카이브 자료 조사에 사람의 손길을 더해 만들어낸 결과다." },
-          { "t": "p", "x": "이 목소리는 카틀랜드의 작품 목록을 낭독하는 데 쓴다. 작가 특유의 목소리를 되살려 새 오디오북 판본으로 다시 내놓겠다는 취지다." },
-          { "t": "p", "x": "기계에만 맡기지 않고 사람이 중간에 판단을 더했다는 점이 이번 사례의 특징이다. 세상을 떠난 작가의 목소리를 새 판본으로 되살린 셈이다." }
+          { "t": "p", "x": "학술 연구에서 AI 사용을 어떻게 밝힐지 정하는 '밴쿠버 표준'이 국제 협의를 거쳐 초안 작업에 들어갔다." },
+          { "t": "p", "x": "배경에는 AI를 활용한 연구자 가운데 약 3분의 1이 논문을 낼 때 그 사실을 전혀 알리지 않는다는 조사 결과가 있다." },
+          { "t": "p", "x": "공통된 공개 기준이 자리를 잡으면 저자와 편집자, 출판사가 AI 사용을 기록하는 방식도 달라질 전망이다." }
+        ]
+      }
+    },
+    {
+      "id": "bloomsbury-ai-licensing",
+      "tool": "Books",
+      "eyebrow": "AI NEWS",
+      "headline": "블룸즈버리, AI 라이선스로\n실적을 끌어올리다",
+      "body": "블룸즈버리가 구글 AI 라이선스 수익으로 실적을 올린 가운데, 여러 출판사는 무단 학습을 이유로 구글을 제소했다.",
+      "mini_headline": "블룸즈버리 AI 수익",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "이번 주 출판계 소식은 블룸즈버리의 실적 발표가 이끌었다. 구글과 맺은 AI 라이선스에서 나온 수익이 좋은 성적을 뒷받침했다." },
+          { "t": "p", "x": "반면 여러 출판사는 자사 도서를 제미나이 학습에 무단으로 썼다며 구글을 상대로 법적 대응에 나섰다." },
+          { "t": "p", "x": "같은 AI 학습을 두고 한쪽은 소송으로 맞서고 다른 한쪽은 수익을 거두는, 업계의 엇갈린 풍경이 함께 드러난다." },
+          { "t": "img", "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png" }
         ]
       }
     }

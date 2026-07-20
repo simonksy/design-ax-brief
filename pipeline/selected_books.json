@@ -1,56 +1,63 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "books",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
-      "source": "The Bookseller",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "category": "books",
-      "headline": "Take-a-Break's Fiction Feast tells contributors AI tools will be used on in-house stories",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "Take-a-Break's Fiction Feast magazine has told its regular contributors that 'AI tools will be used' on upcoming in-house stories, a notable shift in editorial practice for one of the UK's best-known short-fiction titles.",
-      "rationale": "Concrete, first-of-its-kind editorial-practice shift at a well-known UK short-fiction title — actionable for writers/editors and distinct from all published books cards."
+      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-07-15T12:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
+      "excerpt": "Text pasted from Claude into Archive of Our Own retains hidden markers that expose AI involvement, revealing widespread AI-assisted writing inside a fan community with a strong anti-AI stance.",
+      "rationale": "Novel and concrete: hidden LLM markers surviving copy-paste give writers and editors a real, testable AI-detection signal to reckon with tomorrow."
     },
     {
-      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
-      "source": "The Bookseller",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "category": "books",
-      "headline": "Bolinda builds AI clone of Barbara Cartland's voice using interviews, research and human input",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
-      "excerpt": "Audiobook publisher Bolinda used interviews, archival research and human input to build an AI clone of the late romance novelist Barbara Cartland's voice, using it to narrate her catalogue and revive a distinctive authorial voice for new audiobook editions.",
-      "rationale": "Novel human-in-the-loop AI voice-cloning of a late author for audiobooks — a fresh, credible case study in reviving authorial voice, with real rights/ethics implications for publishing."
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-07-13T12:00:00Z",
+      "og_image": "",
+      "excerpt": "A global consultation is drafting a 'Vancouver Standard' for disclosing AI use in scholarly work, after findings that roughly a third of researchers using AI never report it when publishing.",
+      "rationale": "Actionable emerging norm — a shared AI-disclosure standard directly reshapes how authors, editors and publishers document AI use in their workflow."
+    },
+    {
+      "tool": "Books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-07-20T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+      "excerpt": "Weekly book-world roundup: Bloomsbury posts strong results boosted by AI licensing revenue from Google, even as multiple publishers pursue legal action against Google over alleged unauthorized Gemini training on their books.",
+      "rationale": "Fresh week's roundup led by a genuinely new story — Bloomsbury monetizing AI licensing — showing the industry both suing over and profiting from AI training."
     }
   ],
   "dropped": [
     {
       "url": "https://goodereader.com/blog/digital-publishing/publishers-file-massive-lawsuit-against-google-gemini-training",
-      "reason": "Content-duplicate of already-published 'google-gemini-suit' (books, 2026-07-15) — same Hachette/Cengage/Elsevier + Scott Turow v. Google (Gemini training) lawsuit via a different outlet. Backstop drop."
+      "reason": "Content duplicate of already-published 'google-gemini-suit' (books, 2026-07-15, Publishing Perspectives) — same Turow + Hachette/Cengage/Elsevier v. Google (Gemini training) lawsuit via a different outlet. Also within-pool duplicate of the Book Riot item."
     },
     {
       "url": "https://bookriot.com/new-lawsuit-against-google-for-using-digital-books-to-train-ai/",
-      "reason": "Same Google/Gemini books lawsuit as the Good e-Reader item and as the 2026-07-15 published 'google-gemini-suit' card. Within-pool + already-published duplicate; dropped."
+      "reason": "Content duplicate of 'google-gemini-suit' (2026-07-15) — same Google/Gemini books-training lawsuit. Per instruction, keep at most one of the Good e-Reader / Book Riot pair, and drop entirely since the lawsuit was already published 07-15."
     },
     {
       "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100773-international-publishers-convene-in-malaysia-for-ipa-congress-2026.html",
-      "reason": "Duplicate IPA Congress 2026 coverage. The 35th IPA Congress is already carried across the books cluster (07-15 'ipa-childrens-books' plus prior IPA cards); this general overview is reworded coverage of an already-published event and was itself dropped on 07-17 and 07-19."
+      "reason": "Duplicate IPA Congress 2026 coverage. The 35th IPA Congress is already carried across the books cluster ('ipa-childrens-books' 07-15, 'ipa-innovation' 07-17); this general overview is reworded coverage of an already-published event."
     }
   ],
   "dedup_notes": {
-    "history_checked": "Checked all 5 pre-filtered candidates against sections.books history in news_data.json. The Google/Gemini books lawsuit is already published (07-15 'google-gemini-suit'), so both the Good e-Reader and Book Riot candidates are content duplicates. The PW IPA Congress overview (100773) duplicates the multi-day IPA cluster already carried and was already dropped on 07-17/07-19. Two genuinely-new items survive: the Bookseller Take-a-Break Fiction Feast story (07-10) and the newly-added Bookseller Bolinda / Barbara Cartland voice-clone (07-09).",
-    "diversity": "Both surviving fresh items are from The Bookseller — within the <=2-per-outlet final cap. Single-category section (books); second pick given distinct accent #0070f3 from palette."
+    "history_checked": "All 6 filtered candidates checked against sections.books history in news_data.json (today 2026-07-20 + days 07-15..07-19). Google/Gemini books-training lawsuit already published 07-15, so both the Good e-Reader and Book Riot lawsuit items dropped. PW IPA Congress overview dropped as duplicate of the multi-day IPA cluster (07-15, 07-17). The three survivors (Jane Friedman fanfiction AI, Scholarly Kitchen AI-disclosure standard, Publishing Perspectives July-20 roundup) each have distinct URLs and content not present in history — the history's Jane Friedman entries are the July-8 and July-15 links roundups, and the history's Publishing Perspectives roundup is the July-6 edition.",
+    "diversity": "3 distinct outlets (Jane Friedman, The Scholarly Kitchen, Publishing Perspectives), 1 per outlet — within the <=2-per-outlet guard. Single category (books) as expected for a single-category section."
   },
   "shortfall": {
-    "target": 3,
-    "picked": 2,
-    "honest_note": "Below the floor of 3 but genuinely exhausted, not padding. Of 5 filtered candidates, 3 collapse under hard dedup: two are the Google/Gemini lawsuit already published 07-15, and one is duplicate IPA-Congress coverage already run and dropped. The two distinct Bookseller stories are the only never-before-seen items available."
+    "target": 5,
+    "picked": 3,
+    "honest_note": "Only 3 never-before-seen fresh stories survive hard dedup; the other 3 filtered candidates are the already-published Google/Gemini lawsuit (x2) and the already-published IPA Congress. Meets the floor of 3 without padding."
   }
 }

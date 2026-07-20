@@ -1,73 +1,84 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "gadgets",
-  "selection_mode": "agent",
+  "selection_mode": "auto",
   "picks": [
     {
       "rank": 1,
-      "tool": "OpenAI",
+      "tool": "Meta",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-15T17:25:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
-      "excerpt": "OpenAI unveiled its first hardware product - the $230 Codex Micro, a programmable macro pad made with Work Louder for its AI coding agent, with 13 mechanical switches, a touch sensor, rotary dial, and joystick.",
-      "rationale": "OpenAI's first shipping hardware and a genuinely new physical UI for driving AI coding agents - novel, on-bias, and directly changes how developers/designers wire up agent workflows."
+      "url": "https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-07T18:25:00-07:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&strip=all&w=1200",
+      "excerpt": "Meta is rolling out a mandatory v26 update that disables the camera on its Ray-Ban and Oakley smart glasses if the privacy LED is physically tampered with or destroyed, hardening the AI camera-glasses against privacy circumvention.",
+      "rationale": "Concrete new firmware policy hard-linking the privacy LED to camera function - a real consent/UX signal for wearable AI cameras, distinct from prior Meta cards (super-sensing, premium tier)."
     },
     {
       "rank": 2,
-      "tool": "Google",
+      "tool": "Samsung",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.androidauthority.com/gemini-for-home-visual-improvements-3685543/",
-      "source": "Android Authority",
-      "published_iso": "2026-07-08T16:34:00-04:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-nest-hub-google-home-speaker-hero-1-scaled.jpg",
-      "excerpt": "Google Home is rolling out visual enhancements for weather and sports on smart displays, and Gemini's voice assistant now handles back-to-back commands more reliably without interrupting for voice verification.",
-      "rationale": "Concrete shipping update to ambient AI in the home - Gemini handling chained commands more fluidly is an on-bias signal of how assistant UX is maturing on smart displays."
+      "url": "https://gizmodo.com/what-were-expecting-at-samsungs-july-galaxy-unpacked-2026-2000787025",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-19T08:45:00-04:00",
+      "og_image": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48.jpg",
+      "excerpt": "Ahead of the July 22 Unpacked, Samsung is expected to debut the Galaxy Z Fold 8, Z Flip 8 and new smartwatches with expanded Galaxy AI features spanning predictive, agentic and generative photo-editing tools.",
+      "rationale": "Timely full-event expectations roundup on the eve of the July 22 Unpacked; distinct from the earlier date-confirmation card (galaxy-z8) by centering the agentic/generative Galaxy AI feature set."
     },
     {
       "rank": 3,
-      "tool": "Nothing",
+      "tool": "iRobot",
       "category": "gadgets",
-      "accent": "#7928ca",
+      "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.engadget.com/2202348/nothing-announces-ear-3a-sub-dollar100-anc-earbuds/",
-      "source": "Engadget",
-      "published_iso": "2026-07-07T06:30:00-04:00",
-      "og_image": "https://www.engadget.com/img/gallery/nothing-announces-ear-3a-sub-100-anc-earbuds/intro-1782482143.jpg",
-      "excerpt": "Nothing's shipping $99 Ear (3a) earbuds add an on-device Audio Snapshot recorder - pinch to capture up to 60 seconds - with AI transcription, summaries and speaker ID in the Nothing X app, plus ChatGPT integration.",
-      "rationale": "New shipping product that bakes on-device capture, AI transcription/summaries and ChatGPT into $99 earbuds - a concrete, affordable example of ambient AI moving into everyday wearables."
+      "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-07T12:35:00-04:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Roomba-Plus-575-mopping.jpg",
+      "excerpt": "iRobot launched five new self-emptying Roomba robot vacuums under new owner Picea Robotics, led by the Roomba Max 775 with AI-driven navigation, a self-covering roller mop and a dock that washes mops with 165-degree water.",
+      "rationale": "iRobot's post-acquisition relaunch with AI navigation and novel self-cleaning mop hardware - a fresh, concrete product line distinct from prior Roborock review coverage."
+    },
+    {
+      "rank": 4,
+      "tool": "BrainCo",
+      "category": "gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "url": "https://www.notebookcheck.net/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.1346280.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-07-19T01:48:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg",
+      "excerpt": "BrainCo demonstrated a brain-controlled robot AI platform at Shanghai's 2026 World AI Conference: an EEG headset reads brain signals and decodes them into robot commands within 200 milliseconds, hands-free.",
+      "rationale": "Novel EEG-to-robot control demo with sub-200ms latency - a frontier hands-free interaction paradigm worth surfacing for future AI interface design."
     }
   ],
+  "shortfall": {
+    "target": 5,
+    "floor": 3,
+    "selected": 4,
+    "reason": "Above the floor of 3 but one short of target 5 - fresh pool genuinely too small after dedup, not padded. The 7-item candidate pool yielded only 4 distinct never-before-published stories; the other 3 are content duplicates of already-published cards."
+  },
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-19 + days 2026-07-14 through 07-18).",
+    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-20 + days 2026-07-15 through 07-19).",
     "dropped_as_published_dup": [
       {
-        "url": "https://www.digitaltrends.com/wearables/this-smart-ring-makes-a-blood-pressure-promise-apple-and-oura-still-wont/",
-        "reason": "Content dup of published card 'signal-ring' (TechRadar, 07-17) - same cuffless blood-pressure-focused smart ring pitched against Apple/Oura; different outlet, same product/story."
+        "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
+        "reason": "Content dup of published 'openai-speaker' (Engadget, 07-16) - same Bloomberg/Gurman report on OpenAI's screenless AI-companion smart speaker, different outlet."
       },
       {
-        "url": "https://www.androidauthority.com/samsung-galaxy-unpacked-july-2026-what-to-expect-3688548/",
-        "reason": "Same July 22 Galaxy Unpacked event already covered via 'galaxy-z8' render leak (07-15) plus the Galaxy Watch/Buds cards (07-18) - a preview of an already-published event cluster."
+        "url": "https://9to5google.com/2026/07/08/gemini-nest-hub-answer-weather-redesign/",
+        "reason": "Content dup of published 'gemini-home' (Android Authority, 07-20, 'Gemini for Home visual improvements') - same release redesigning Gemini for Home / Nest Hub answer and weather cards, different outlet."
       },
       {
-        "url": "https://9to5google.com/2026/07/07/samsung-galaxy-z-fold-8-launch-event-date-confirmed/",
-        "reason": "Same July 22 Galaxy Unpacked event; date-confirmation beat of the already-covered foldables story and a within-pool dup of the Android Authority Unpacked preview."
-      },
-      {
-        "url": "https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660",
-        "reason": "Same story as published 'openai-speaker' (Engadget, 07-16) - OpenAI's Jony Ive screenless AI-companion smart speaker. Also the OpenAI-hardware overlap: at most one OpenAI-device card kept (Codex Micro)."
-      },
-      {
-        "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
-        "reason": "Same story as pick rank 1 (Gizmodo) - OpenAI Codex Micro keypad. Within-pool consolidation; kept the single strongest article."
+        "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4/",
+        "reason": "Content dup of published 'siri-gemini' (Gizmodo, 07-16) - same ongoing story of the revamped Gemini-powered Siri arriving in iOS 27; beta 4 adds no net-new hook (same on-device conversation / personal context / on-screen awareness features)."
       }
     ],
-    "backfill": "3 distinct never-before-published stories remain after dedup: OpenAI Codex Micro keypad, Gemini for Home, and Nothing Ear (3a) - all confirmed absent from the gadgets history. Of the 8 candidates, 3 duplicate already-published gadgets stories (blood-pressure ring = signal-ring, OpenAI speaker = openai-speaker, and the July 22 Unpacked event x2) and 1 more consolidates the second Codex Micro article. Fresh pool is exhausted at 3, which meets the section floor; not padded.",
-    "diversity": "3 distinct outlets (Gizmodo, Android Authority, Engadget) - satisfies >=3 outlets and the max-2-per-outlet cap. Single-category section; the three shared-gadgets picks carry distinct accents (#ff5a4d, #0070f3, #7928ca). At most one OpenAI-device card kept."
+    "backfill": "After dropping the 3 duplicates above, 4 distinct never-before-published stories remain and all 4 are kept. No further unique fresh candidates exist in the 7-item pool - backfill cannot reach target 5. Not padded.",
+    "diversity": "Final 4: Gizmodo x2 (at the <=2 cap), 9to5Google x1, Notebookcheck x1 = 3 distinct outlets (>=3 satisfied). Single-category section (gadgets); category spread guard not binding. Shared category accents made distinct per pick from the sources.json palette (#ff5a4d, #0070f3, #f5a623, #2ec5c5)."
   }
 }

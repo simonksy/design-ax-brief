@@ -1,108 +1,36 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "games",
   "cards": [
     {
-      "id": "damagecontrol",
+      "id": "houdini22",
       "eyebrow": "AI NEWS",
-      "headline": "게임 배경 작업을 빠르게,\n블렌더 툴킷 데미지 컨트롤",
-      "body": "제시 미에티넨이 스캐터·스머지 같은 생성형 도구를 묶어 블렌더 툴킷 데미지 컨트롤을 내놨다.",
-      "mini_headline": "데미지 컨트롤 공개",
+      "headline": "후디니 22, 가우시안 스플랫을\n게임 아트 파이프라인에 넣다",
+      "body": "후디니 22가 신경 방사장 캡처인 가우시안 스플랫을 네이티브로 품고 UI까지 새로 짜 게임 제작 흐름에 들어왔다.",
+      "mini_headline": "후디니 22 출시",
       "tool": "Games",
       "source": "80 Level",
-      "url": "https://80.lv/articles/jesse-miettinen-s-the-last-of-us-like-generator-finally-launches",
+      "url": "https://80.lv/articles/houdini-22-is-out-now-bringing-native-gaussian-splats-new-ui-and-more",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
-            "cap": "데미지 컨트롤 대표 이미지"
-          },
-          {
-            "t": "p",
-            "x": "제시 미에티넨이 블렌더용 툴킷 데미지 컨트롤(Damage Control)을 공개했다. 한때 그가 'The Last of Us-like generator'라고 부르던 프로젝트가 정식 출시로 이어졌다. 서로 맞물려 돌아가는 생성형 도구를 묶어, 게임 환경을 더 사실적으로 더 빠르게 만들도록 돕는다."
-          },
-          {
-            "t": "p",
-            "x": "구성은 스머지 마스크 제너레이터, 스캐터 툴, 제너레이티브 툴이고 여기에 추가 셰이더와 메가 프리셋까지 딸려 온다. 표면을 문지르고 오브젝트를 흩뿌리고 절차적으로 쌓아 올리는 작업을 한자리에서 처리한다."
-          },
-          {
-            "t": "p",
-            "x": "전부 지오메트리 노드로 짜여 성능에 신경 썼고, 오래 써도 호환성이 유지되도록 만들었다. 미에티넨은 3년치 업데이트를 지원하겠다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "지금은 검로드(embracefx.gumroad.com/l/damagecontrol)에서 받을 수 있고, 이후 슈퍼하이브(Superhive) 입점도 예정돼 있다. 개별 도구는 여름 휴가가 끝난 뒤 따로 풀린다. 빠르게 익히도록 유튜브 튜토리얼 시리즈도 함께 내놨다. 미에티넨은 이제 임브레이스 FX(Embrace FX) 이름으로 활동한다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "indiedevs25",
-      "eyebrow": "AI NEWS",
-      "headline": "인디 개발자 25명이\n생성형 AI를 피하는 이유",
-      "body": "인디 스튜디오 25곳은 생성형 AI가 되레 더 못한 게임을 만든다며 도입을 꺼린다고 말한다.",
-      "mini_headline": "AI를 피하는 인디들",
-      "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
-            "cap": "생성형 AI를 멀리하는 인디 스튜디오"
+            "src": "https://cdn.80.lv/api/upload/meta/49281/images/6a57ea98136c5/contain_1200x630.jpg"
           },
           {
             "t": "p",
-            "x": "생성형 AI는 인디 개발의 가속 장치처럼 팔려 왔다. 적은 인원으로 더 많은 게임을 더 빨리 만들게 해준다는 얘기다. 그런데 한 기자가 만난 인디 스튜디오 25곳은 답이 달랐다."
+            "x": "사이드FX가 후디니 22를 내놨다. 이번 판의 핵심은 가우시안 스플랫을 네이티브로 다룬다는 점이다. 사진 여러 장에서 장면을 통째로 잡아내는 신경 방사장 방식이 이제 우회 없이 툴 안에서 바로 돌아간다."
           },
           {
             "t": "p",
-            "x": "이들은 AI를 대체로 피한다고 말한다. 이유는 단순하다. 더 못한 게임을 만든다(It creates lesser games)는 것이다. 완성도와 손맛이 중요한 제작 현장에서 AI가 되레 걸림돌이 된다는 얘기다."
+            "x": "화면도 다시 짰다. UI를 새로 정리했고 코페르니쿠스와 키네FX도 손봤다. 렌더링 작업 흐름 역시 게임과 VFX 제작에 맞춰 다듬었다."
           },
           {
             "t": "p",
-            "x": "기사는 AI가 실제로 어디에 들어맞고 어디서 어긋나는지를 스튜디오 25곳의 목소리로 짚는다. 담론이 아니라 현장 취재라서, 게임 디자인 작업 속 AI의 실제 위치를 가늠하게 해준다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "metahumancrowds",
-      "eyebrow": "AI NEWS",
-      "headline": "언리얼에서 대규모\n메타휴먼 군중 만들기",
-      "body": "언리얼 페스트 세션에서 Mass와 Nanite로 메타휴먼 군중을 대규모로 채우는 파이프라인을 소개한다.",
-      "mini_headline": "메타휴먼 군중 파이프라인",
-      "tool": "Social",
-      "source": "Unreal Engine",
-      "url": "https://www.youtube.com/watch?v=wQoa1j4Rgss",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "wQoa1j4Rgss"
-          },
-          {
-            "t": "p",
-            "x": "언리얼 페스트 시카고 2026 세션 영상이다. 언리얼 엔진에서 대규모 메타휴먼 군중을 채우는 방법을 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "핵심은 Mass와 Nanite다. Mass로 수많은 캐릭터의 행동과 상태를 효율적으로 다루고, Nanite로 고밀도 지오메트리를 부담 없이 렌더링해 게임 월드를 디지털 휴먼으로 가득 채운다."
-          },
-          {
-            "t": "p",
-            "x": "무엇보다 언리얼이 직접 공개한 1차 소스다. 반복해 쓸 수 있는 프로덕션 파이프라인이라 눈길이 간다. 디자이너가 그대로 가져다 적용해볼 수 있는 기법 세션이다."
+            "x": "무게는 캡처 도구에 실린다. AI에 맞닿은 신경 캡처가 게임 아트의 핵심 파이프라인 안으로 들어오면서, 테크니컬 아티스트가 에셋을 잡아내고 쌓아 올리는 방식 자체가 내일부터 달라진다."
           }
         ]
       }
