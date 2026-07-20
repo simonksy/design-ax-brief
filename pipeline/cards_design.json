@@ -1,25 +1,86 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "design",
   "cards": [
     {
-      "id": "meta-regret",
+      "id": "nvidia",
       "eyebrow": "AI NEWS",
-      "headline": "메타의 AI 툴 철회 사과,\n창작자를 향한 진심일까",
-      "body": "접었던 AI 창작 툴에 메타가 뒤늦게 건넨 사과, 창작자를 위한 진심인지 그저 뒷수습인지 되묻는다.",
-      "mini_headline": "메타의 뒤늦은 사과",
+      "headline": "어도비·블렌더·언리얼 안으로\nAI 에이전트가 들어오다",
+      "mini_headline": "앱 속으로 들어온 AI",
+      "body": "MCP 연동으로 AI 에이전트가 어도비·블렌더·언리얼 안에서 장면을 살피고 색 오류를 짚어낸다.",
       "tool": "AI Workflow",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg" },
-          { "t": "p", "x": "메타가 밀어붙이던 AI 창작 툴을 슬그머니 접고 뒤늦게 유감을 내비쳤다. Creative Bloq는 이 사과를 곧이곧대로 받아들이지 않는다." },
-          { "t": "p", "x": "글의 비유가 날카롭다. 집을 털어 어질러 놓고선 미안하다고 말하는 도둑 같다는 얘기다. 피해가 다 벌어진 뒤에야 나온 사과라면, 창작자를 향한 진심보다는 사태를 덮으려는 몸짓에 가깝다." },
-          { "t": "p", "x": "결국 남는 물음은 신뢰다. 플랫폼이 AI 기능을 내놓고 거두고 번복하는 결정 하나하나가 창작자가 기대어 쓰는 도구의 판을 흔든다. 무엇을 믿고 작업에 태울지, 이 글이 던지는 진짜 질문이다." }
+          { "t": "p", "x": "SIGGRAPH 2026에서 엔비디아가 크리에이티브 전문가를 위한 에이전트형 AI를 선보였다. 핵심은 Model Context Protocol(MCP) 연동으로, AI 비서가 어도비와 블렌더, 언리얼 엔진 같은 디자인 앱 안에서 곧바로 동작한다." },
+          { "t": "img", "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/mcp-main-feature-1680x948.jpg" },
+          { "t": "p", "x": "에이전트는 장면을 점검하고 색상 문제를 짚어내며, 내보내기용 변형본을 미리 준비한다. 손이 많이 가던 반복 작업을 대신 맡는 셈이다." },
+          { "t": "p", "x": "그러면서도 창작의 결정권은 아티스트 손에 남는다. 도구가 판단을 대신하는 게 아니라, 곁에서 거드는 방식이다." }
+        ]
+      }
+    },
+    {
+      "id": "lightcraft",
+      "eyebrow": "AI NEWS",
+      "headline": "대본을 가상 촬영장으로\n아이폰 한 대로 완성한다",
+      "mini_headline": "아이폰으로 짓는 세트",
+      "body": "대본만으로 가상 세트를 짓고, 실제 장소 없이 아이폰 한 대로 장면을 찍게 해주는 도구다.",
+      "tool": "KeyShot",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/3d/i-watched-lightcraft-turn-a-screenplay-into-a-virtual-film-set-using-an-iphone",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "SIGGRAPH 2026에서 공개된 라이트크래프트의 Spark Story를 직접 만져봤다. 대본을 먼저 놓고 시작하는 버추얼 프로덕션 도구로, 작가와 감독, 촬영감독이 함께 가상 촬영장을 짓고 찍어볼 수 있다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/nzsdtuoJAMKAHiWHUjmMgZ-1600-80.jpg" },
+          { "t": "p", "x": "촬영은 아이폰 한 대면 된다. 실제 장소나 세트가 아직 없어도, 대본 단계에서 이미 장면을 잡아볼 수 있다는 점이 눈에 띈다." },
+          { "t": "p", "x": "물리적 공간이 마련되기 훨씬 전부터 화면 구성과 동선을 확인하는 셈이라, 사전 시각화의 문턱을 크게 낮춘다." }
+        ]
+      }
+    },
+    {
+      "id": "inversphere",
+      "eyebrow": "AI NEWS",
+      "headline": "360도 세계를 통째로\n하나의 구에 접어 담다",
+      "mini_headline": "구에 접은 360도 세계",
+      "body": "개발자 VoxelKei가 360도 환경 전체를 하나의 구에 접어 3D 가우시안 스플래팅으로 보여준다.",
+      "tool": "KeyShot",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/folding-entire-360-degree-worlds-into-one-sphere-with-3dgs",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "VoxelKei라는 개발자가 'inversphere'를 공개했다. 360도 환경 전체를 하나의 구 안으로 접어 넣어, 3D 가우시안 스플래팅 장면을 담고 보여주는 기법이다." },
+          { "t": "img", "src": "https://cdn.80.lv/api/upload/meta/49357/images/6a5e371c6f2a0/contain_1200x630.jpg" },
+          { "t": "p", "x": "촬영과 표시를 함께 아우르는 새로운 접근으로, 실시간 3D와 렌더 작업에 곧장 이어진다. 익숙한 스플래팅 장면을 다루는 방식 자체를 다시 짜본 시도다." }
+        ]
+      }
+    },
+    {
+      "id": "style-refs",
+      "eyebrow": "AI NEWS",
+      "headline": "프롬프트를 늘리기보다\n스타일 레퍼런스를 건네라",
+      "mini_headline": "긴 문장보다 레퍼런스",
+      "body": "프롬프트에 단어를 더 쌓을수록 효과는 줄고, 시각 레퍼런스를 주는 편이 결과를 안정적으로 되풀이한다.",
+      "tool": "AI Workflow",
+      "source": "DEV Community",
+      "url": "https://dev.to/chen_mensen_ac0fc78dae2a4/i-stopped-making-my-ai-image-prompts-longer-style-references-helped-more-4h2m",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "AI 이미지 프롬프트에 단어를 계속 덧붙여도 얻는 게 점점 줄어든다는 이야기다. 문장을 길게 늘리는 방식으로는 원하는 그림을 붙잡기 어렵다." },
+          { "t": "p", "x": "대신 시각적 스타일 레퍼런스를 건네면 결과를 훨씬 또렷하고 일관되게 잡아낼 수 있다. 같은 느낌을 반복해 뽑아내기도 쉬워진다." },
+          { "t": "p", "x": "말로 다 설명하려 애쓰기보다 보여주는 편이 낫다는 것. 크리에이티브 AI를 다루는 손끝의 방식이 조금 달라지는 지점이다." }
         ]
       }
     }

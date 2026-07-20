@@ -1,32 +1,79 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",
-      "title": "Meta's regret over its scrapped AI tool is like a burglar apologising for the mess",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-18T07:02:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg",
-      "excerpt": "A pointed critique of Meta walking back a scrapped AI creative tool, questioning whether the reversal reflects genuine concern for creators or damage control — a signal of how platform AI decisions ripple into design and creative work.",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "title": "NVIDIA brings agentic AI into Adobe, Blender and Unreal at SIGGRAPH 2026",
+      "source": "NVIDIA Blog",
+      "published_iso": "2026-07-20T15:00:53Z",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/mcp-main-feature-1680x948.jpg",
+      "excerpt": "At SIGGRAPH 2026 NVIDIA rolled out agentic AI for creative pros, with Model Context Protocol integrations that let AI assistants act inside Adobe, Blender, Unreal Engine and other design apps — inspecting scenes, flagging color issues and preparing export variants while artists keep creative control.",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "The only clean, never-before-published design candidate this window: a reputable-outlet read on how platform-AI reversals shape the tools creators can trust."
+      "rationale": "Major SIGGRAPH release from a top-tier source that puts AI agents directly inside the apps designers use daily — high actionability and credibility."
+    },
+    {
+      "url": "https://www.creativebloq.com/3d/i-watched-lightcraft-turn-a-screenplay-into-a-virtual-film-set-using-an-iphone",
+      "title": "I watched Lightcraft turn a screenplay into a virtual film set using an iPhone",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-20T15:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/nzsdtuoJAMKAHiWHUjmMgZ-1600-80.jpg",
+      "excerpt": "Hands-on with Lightcraft's Spark Story, unveiled at SIGGRAPH 2026: a screenplay-first virtual production tool that lets writers, directors and cinematographers build and shoot a virtual film set — recording shots with just an iPhone — long before any physical location or set exists.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Fresh SIGGRAPH product unveiling with a genuinely new screenplay-to-set workflow shot from a phone — hands-on verified and distinct from the earlier Lightcraft vision interview."
+    },
+    {
+      "url": "https://80.lv/articles/folding-entire-360-degree-worlds-into-one-sphere-with-3dgs",
+      "title": "'inversphere' folds entire 360-degree worlds into one sphere with 3DGS",
+      "source": "80 Level",
+      "published_iso": "2026-07-20T14:56:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49357/images/6a5e371c6f2a0/contain_1200x630.jpg",
+      "excerpt": "A developer called VoxelKei released 'inversphere,' a technique that folds entire 360-degree environments into a single sphere for displaying 3D Gaussian Splatting scenes — a novel capture-and-display approach feeding real-time 3D and render workflows.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "A novel just-released 3DGS display technique — distinct from published 3DGS-generation tool releases — with a distinct accent from the other render pick."
+    },
+    {
+      "url": "https://dev.to/chen_mensen_ac0fc78dae2a4/i-stopped-making-my-ai-image-prompts-longer-style-references-helped-more-4h2m",
+      "title": "I stopped making my AI image prompts longer — style references helped more",
+      "source": "DEV Community",
+      "published_iso": "2026-07-20T09:13:50Z",
+      "og_image": "",
+      "excerpt": "Argues that piling more words into AI image prompts yields diminishing returns, and that supplying visual style references gives designers far more reliable, repeatable control over generated output — a practical shift in creative-AI craft.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "Practical craft shift that immediately changes how designers get repeatable results from image models — distinct accent from the other workflow pick."
     }
   ],
   "dedup": {
-    "pool_size": 2,
-    "kept": 1,
+    "pool_size": 6,
+    "kept": 4,
     "dropped_as_duplicate": 1,
-    "checked_against": "sections.design — today (2026-07-19) + days 2026-07-14, 07-15, 07-16, 07-17, 07-18",
+    "dropped_for_diversity": 1,
+    "checked_against": "sections.design — today (2026-07-20) + days 2026-07-15, 07-16, 07-17, 07-18, 07-19",
     "notes": [
-      "dev.to spotting-ai-ui-is-too-easy (harish_s) — DROPPED. Same core topic and same source (DEV Community) as the already-published Hallmark card (07-19): fixing the tell-tale generic look of AI-generated UI in Cursor/Bolt/Codex via prompt + design-system fixes. Also overlaps ui-score-gate (07-18) and frontend-skill (07-18). Reworded content duplicate of published material.",
-      "creativebloq Meta-scrapped-AI-tool — KEPT. No Meta-AI-tool story exists anywhere in the 5-day design history (URL + content unique). Passes the dedup backstop."
+      "dev.to spotting-ai-ui-is-too-easy (harish_s) — DROPPED as content duplicate. Same core topic as published 'hallmark' (07-19: how Hallmark fixes generic AI UI in Cursor/Codex/Claude Code) and overlaps 'ui-score-gate' + 'frontend-skill' (07-18): the tell-tale generic look of AI-generated UI and prompt/design-system fixes. Reworded rehash of already-published material. This was the only 'figma' candidate.",
+      "dev.to information-architecture-for-ai-chatbots (rohit_raghuvansh) — DROPPED for category diversity. Fresh and unique, but it is a third 'workflow' item; keeping it would put 3 cards in one category, violating the max 1-2 per category guard. Held out in favor of the two stronger workflow picks.",
+      "Lightcraft Spark Story (Creative Bloq) — KEPT. Distinct from the 07-19 Lightcraft card (a CEO vision interview with no product); this is a specific SIGGRAPH 2026 product unveiling (Spark Story, iPhone virtual set). Different URL and concrete new-release news.",
+      "inversphere (80 Level) — KEPT. Distinct from published 3DGS releases houdini22 (07-17) and zephyr9 (07-19), which add 3DGS generation to DCC/photogrammetry tools; this is a novel display technique by an indie dev.",
+      "NVIDIA SIGGRAPH agentic AI — KEPT. No prior NVIDIA/MCP card in the 5-day design history."
     ],
-    "below_floor": true,
-    "below_floor_reason": "Design 72h window genuinely exhausted after two expansion passes; only 1 of 2 candidates survives URL+CONTENT dedup. Not padding per orchestrator instruction — fewer than 3 is acceptable here."
+    "diversity_guard": {
+      "outlets": "4 distinct (NVIDIA, Creative Bloq, 80 Level, DEV Community); dev.to capped at 1 of its 3 candidates",
+      "categories": "render x2, workflow x2 — max 2 per category respected"
+    },
+    "below_target": true,
+    "below_target_reason": "Target is 5, but after dropping the figma content-duplicate the only remaining categories are render and workflow. Delivering a 5th would force a 3rd workflow card, violating category diversity. Four clean, unique, fresh picks selected; not padding per instructions."
   }
 }

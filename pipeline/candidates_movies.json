@@ -1,36 +1,9 @@
 {
   "date": "2026-07-20",
   "section": "movies",
+  "now_iso": "2026-07-20T23:02:21Z",
   "window_hours": 336,
-  "now_iso": "2026-07-19T23:00:00Z",
   "items": [
-    {
-      "url": "https://nofilmschool.com/martini-ai-film-set",
-      "title": "Meet Martini: A Film Set for AI Video That Aims to Help Filmmakers Streamline Their Shots",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-      "excerpt": "Martini is a collaborative, web-based platform pitched as a 'film set' for AI video: filmmakers upload or generate their own sets and reference images, then compose shots in 2D or 3D environments to escape prompt roulette and give crews a shared pre-production hub. Out now with a free indie tier and paid plans from $15/month."
-    },
-    {
-      "url": "https://www.engadget.com/2217157/netflix-says-it-s-already-used-ai-in-roughly-300-titles-this-year/",
-      "title": "Netflix says it's already used AI in 'roughly 300' titles this year",
-      "source": "Engadget",
-      "category": "movies",
-      "published_iso": "2026-07-16T22:51:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/netflix-says-its-already-used-ai-in-roughly-300-titles-this-year/intro-1784242266.jpg",
-      "excerpt": "Netflix disclosed that generative-AI workflows have been folded into roughly 300 of its 2026 titles, with the heaviest concentration in post-production, framing the tools as a way to hit results faster and cheaper than conventional VFX and finishing work."
-    },
-    {
-      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
-      "title": "Foundry's SmartRoto: AI-assisted roto that aims to work the way you do",
-      "source": "fxguide",
-      "category": "movies",
-      "published_iso": "2026-07-16T12:00:00Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
-      "excerpt": "Foundry unveiled SmartRoto, an AI-powered Nuke plugin that speeds rotoscoping by automatically propagating keyframes while keeping artists in creative control through a 'smart keys' and 'user keys' system, targeting one of VFX's most tedious manual bottlenecks."
-    },
     {
       "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
       "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
@@ -48,6 +21,15 @@
       "published_iso": "2026-07-07T08:36:00Z",
       "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/0/8/1482808_unknown_2865_crop.jpeg",
       "excerpt": "Particle 6, the UK company behind AI-generated 'actor' Tilly Norwood, is developing its first feature, the comedy-drama 'Misaligned,' using a hybrid production model that pairs traditional filmmaking roles with AI specialists — a concrete test of how synthetic-performer pipelines reshape a production."
+    },
+    {
+      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
+      "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-07-20T14:51:18Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg",
+      "excerpt": "ProVideo Coalition's SIGGRAPH 2026 dispatch spotlights AI-driven creative tools on the show floor: Beeble AI and District Cinema ran the new SwitchLight 3 model on native 4K cinematic footage from Corridor Crew's 'Son of a Dungeon' S3 to generate production-ready PBR relighting passes inside Unreal Engine, and Keyshot Studio's 'AI Shots' made focused generative edits while respecting CAD data and lighting — a concrete look at generative relighting in a real production pipeline."
     }
   ]
 }

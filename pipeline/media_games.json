@@ -1,22 +1,11 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "games",
   "media": [
     {
-      "id": "damagecontrol",
+      "id": "houdini22",
       "type": "image",
-      "src": "pipeline/media/damagecontrol.jpg"
-    },
-    {
-      "id": "indiedevs25",
-      "type": "image",
-      "src": "pipeline/media/indiedevs25.jpg"
-    },
-    {
-      "id": "metahumancrowds",
-      "type": "video",
-      "src": "pipeline/media/metahumancrowds.mp4",
-      "poster": "pipeline/media/metahumancrowds.jpg"
+      "src": "pipeline/media/houdini22.jpg"
     }
   ]
 }

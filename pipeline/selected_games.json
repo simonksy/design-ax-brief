@@ -1,56 +1,30 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "games",
-  "selection_mode": "agent",
+  "selection_mode": "auto",
   "shortfall": true,
+  "shortfall_count": 4,
+  "shortfall_note": "Fresh games pool is genuinely thin. Of 2 candidates: the PC Gamer 'more than half of Steam games will have an AI disclosure by 2027-2028' item was DROPPED as a CONTENT duplicate of the already-published 'steam-ai-flood' card (2026-07-16, GamesRadar+) — both cover the same ~53,600-release Steam AI study/dataset. Only the 80.lv Houdini 22 item is a distinct, never-before-published story. Selecting 1; not padding. 4 short of the target of 5 (2 short of the floor of 3).",
   "picks": [
     {
-      "url": "https://80.lv/articles/jesse-miettinen-s-the-last-of-us-like-generator-finally-launches",
-      "title": "Jesse Miettinen Released Damage Control, Powerful New Blender Toolkit",
+      "id": "houdini22",
+      "url": "https://80.lv/articles/houdini-22-is-out-now-bringing-native-gaussian-splats-new-ui-and-more",
+      "headline": "Houdini 22 Is Out Now, Bringing Native Gaussian Splats, New UI, and More",
       "source": "80 Level",
+      "published_iso": "2026-07-15T20:16:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49281/images/6a57ea98136c5/contain_1200x630.jpg",
+      "excerpt": "SideFX shipped Houdini 22 with native Gaussian Splats (neural radiance-field capture), a redesigned UI, Copernicus and KineFX upgrades, and new rendering workflows for game and VFX production. Brings AI-adjacent neural-capture tooling into a core game-art content pipeline.",
       "category": "games",
-      "published_iso": "2026-07-14T14:26:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
-      "excerpt": "Jesse Miettinen has launched Damage Control, a Blender toolkit of interconnected generative tools (Smudge Mask Generator, Scatter Tools, Generative Tools, plus shaders and Mega Presets) to help artists scatter, smudge, and procedurally build more lifelike game environments faster.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Concrete new tool a game artist can install tomorrow - a procedural/generative Blender toolkit that directly speeds environment craft."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
-      "title": "\"It creates lesser games\": Indie game studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-07-19T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
-      "excerpt": "A reporter interviews 25 indie studios about why they avoid generative AI despite it being pitched as an indie accelerator, surfacing how AI actually fits (or fails to fit) into working game-design craft and production workflows.",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "Freshest pick and original field reporting (25 studios) on where gen-AI really helps vs. hurts craft - kept over the same-study Steam-prediction piece."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=wQoa1j4Rgss",
-      "title": "How to Build Scalable MetaHuman Crowds in Unreal Engine | Unreal Fest Chicago 2026",
-      "source": "Unreal Engine",
-      "category": "social",
-      "published_iso": "2026-07-18T14:00:26Z",
-      "og_image": "https://i.ytimg.com/vi/wQoa1j4Rgss/maxresdefault.jpg",
-      "excerpt": "An Unreal Fest Chicago 2026 session on building scalable MetaHuman crowds in Unreal Engine with Mass and Nanite - a production pipeline for populating game worlds with AI-authored digital-human characters at scale.",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "First-party Unreal Fest technique session - a repeatable production pipeline for AI-authored digital-human crowds designers can apply directly."
+      "rationale": "SideFX's Houdini 22 lands native Gaussian Splats and a redesigned UI directly in a core game-art pipeline — an actionable first-party tooling release that changes how technical artists capture and build assets tomorrow."
     }
   ],
-  "dedup_notes": {
-    "note": "User deferred (unattended agent pick). Candidate pool was pre-deduped upstream (freshness + games history). Backstop applied: the two GamesRadar pieces derive from the same Steam-AI study - kept only the fresher 07-19 '25 devs avoid it' reporting and dropped the 07-16 'half of Steam games by 2028' prediction as a near-duplicate. That leaves 3 distinct fresh stories across 3 distinct outlets (80 Level, GamesRadar+, Unreal Engine). Fewer than 5 because the fresh pool is genuinely small after the near-dup collapse, not padded (shortfall: true). Diversity guard satisfied: 3 outlets, max 2 in the games category (80 Level + GamesRadar) with distinct accents, 1 in social.",
-    "dropped": [
-      {
-        "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
-        "reason": "NEAR-DUPLICATE - same underlying Steam-AI study as the kept GamesRadar '25 devs I spoke to avoid it' piece (same source, same core topic). Kept the single strongest/freshest article per the content-hub rule."
-      }
-    ]
-  }
+  "dropped": [
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
+      "reason": "CONTENT DUPLICATE - same ~53,600-release Steam AI-disclosure study already published as 'steam-ai-flood' (2026-07-16, GamesRadar+); different outlet/reword of the same dataset."
+    }
+  ]
 }

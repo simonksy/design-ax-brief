@@ -1,9 +1,10 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "gadgets",
   "media": [
-    { "id": "codex-micro", "type": "image", "src": "pipeline/media/codex-micro.jpg" },
-    { "id": "gemini-home", "type": "image", "src": "pipeline/media/gemini-home.jpg" },
-    { "id": "ear-3a", "type": "image", "src": "pipeline/media/ear-3a.jpg" }
+    { "id": "meta-privacy-led", "type": "image", "src": "pipeline/media/meta-privacy-led.jpg" },
+    { "id": "samsung-unpacked-july", "type": "image", "src": "pipeline/media/samsung-unpacked-july.jpg" },
+    { "id": "irobot-roomba-relaunch", "type": "image", "src": "pipeline/media/irobot-roomba-relaunch.jpg" },
+    { "id": "brainco-mind-robot", "type": "image", "src": "pipeline/media/brainco-mind-robot.jpg" }
   ]
 }

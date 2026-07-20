@@ -2,17 +2,8 @@
   "date": "2026-07-20",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-07-19T23:00:00Z",
+  "now_iso": "2026-07-20T23:02:21Z",
   "items": [
-    {
-      "url": "https://80.lv/articles/jesse-miettinen-s-the-last-of-us-like-generator-finally-launches",
-      "title": "Jesse Miettinen Released Damage Control, Powerful New Blender Toolkit",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-07-14T14:26:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
-      "excerpt": "Jesse Miettinen has launched Damage Control, a Blender toolkit of interconnected generative tools (Smudge Mask Generator, Scatter Tools, Generative Tools, plus shaders and Mega Presets) to help artists scatter, smudge, and procedurally build more lifelike game environments faster."
-    },
     {
       "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
       "title": "\"It creates lesser games\": Indie game studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
@@ -20,34 +11,34 @@
       "category": "games",
       "published_iso": "2026-07-19T16:00:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
-      "excerpt": "A reporter interviews 25 indie studios about why they avoid generative AI despite it being pitched as an indie accelerator, surfacing how AI actually fits (or fails to fit) into working game-design craft and production workflows."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
-      "title": "Half of all games released on Steam will use AI by 2028, study predicts: \"AI lowers the barrier not just to make a game but to make several\"",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-07-16T21:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
-      "excerpt": "A study of ~53,600 Steam releases projects generative AI will feature in roughly half of all Steam games by 2028, arguing AI lowers the barrier not just to make a game but to make several — a shift reshaping how small teams produce and ship content."
+      "excerpt": "GamesRadar interviewed 25 indie developers about why they steer clear of generative AI despite promises of faster production, finding most feel it yields lower-quality work for often higher cost. A craft-and-workflow snapshot of how gen AI is actually landing in small-studio design pipelines."
     },
     {
       "url": "https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/",
-      "title": "Steam study of over 53,000 games finds \"60 – 90% of the growth\" in monthly releases on Valve's store is from games using AI and \"almost none of them make money\"",
+      "title": "Steam study of over 53,000 games finds \"60-90% of the growth\" in monthly releases is from games using AI, and \"almost none of them make money\"",
       "source": "GamesRadar+",
       "category": "games",
       "published_iso": "2026-07-15T16:00:50Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg",
-      "excerpt": "The same large Steam dataset attributes 60-90% of the growth in monthly releases to games using AI, while finding almost none of them earn money — a hard-data reframing of how AI-assisted production is flooding the storefront versus commercial results."
+      "excerpt": "A study of 53,000+ Steam titles finds AI-flagged games now drive 60-90% of the growth in monthly releases, even as nearly none find commercial success. A data-driven look at how generative AI is reshaping what independent creators actually ship."
     },
     {
-      "url": "https://www.youtube.com/watch?v=wQoa1j4Rgss",
-      "title": "How to Build Scalable MetaHuman Crowds in Unreal Engine | Unreal Fest Chicago 2026",
-      "source": "Unreal Engine",
-      "category": "social",
-      "published_iso": "2026-07-18T14:00:26Z",
-      "og_image": "https://i.ytimg.com/vi/wQoa1j4Rgss/maxresdefault.jpg",
-      "excerpt": "An Unreal Fest Chicago 2026 session on building scalable MetaHuman crowds in Unreal Engine with Mass and Nanite — a production pipeline for populating game worlds with AI-authored digital-human characters at scale."
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
+      "title": "Steam Week in Review: more than half of new Steam games will have an AI disclosure by 2027-2028",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-07-20T03:35:52Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/AWsSzZBSvPQVFFuS2oKTcL-1200-80.png",
+      "excerpt": "Tracking Steam's AI-disclosure data, PC Gamer projects that AI-flagged games cross the 50% mark of all releases between 2027 and 2028, with roughly one in three new games already disclosing generative-AI content. Signals how mainstream AI-assisted game-making is becoming."
+    },
+    {
+      "url": "https://80.lv/articles/houdini-22-is-out-now-bringing-native-gaussian-splats-new-ui-and-more",
+      "title": "Houdini 22 Is Out Now, Bringing Native Gaussian Splats, New UI, and More",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-07-15T20:16:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49281/images/6a57ea98136c5/contain_1200x630.jpg",
+      "excerpt": "SideFX shipped Houdini 22 with native Gaussian Splats (neural radiance-field capture), a redesigned UI, Copernicus and KineFX upgrades, and new rendering workflows for game and VFX production. Brings AI-adjacent neural-capture tooling into a core game-art content pipeline."
     }
   ]
 }

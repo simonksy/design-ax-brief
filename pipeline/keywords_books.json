@@ -1,18 +1,14 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "books",
-  "note": "Section-aware plan (books x AI). Written to keywords_books.json per parallel-run override. Books has a single sources.json category ('books'), so the working set keeps ALL 3 core + ALL 22 pool keywords (25 total) but ROTATES EMPHASIS by date: keywords whose story already ran in the last 2 days (2026-07-19 today + 2026-07-18) are collapsed into shared queries aimed at a fresh sub-angle, while uncovered craft/tooling keywords get their own dedicated query. Total held to 27 books + 3 social + 1 wildcard. YouTube channel rotation seed = day-of-month 20 mod 3 = 2, so today leads with Sudowrite, then The Creative Penn, then Self Publishing with Dale (Dale led on 07-19).",
+  "note": "Section-aware plan (books x AI). Written to keywords_books.json per parallel-run override. Books has a single sources.json category ('books'), so the working set keeps ALL 3 core + ALL 22 pool keywords (25 total) but ROTATES EMPHASIS by date: keywords whose story already ran in the last 2 days (2026-07-20 today + 2026-07-19) or the recent deck are collapsed into fresh-sub-angle queries, while uncovered craft/tooling keywords get their own dedicated query. Total held to 27 books + 3 social + 1 wildcard. YouTube channel rotation seed = day-of-month 21 mod 3 = 0, so today leads with The Creative Penn, then Self Publishing with Dale, then Sudowrite (Sudowrite led on 07-20).",
   "skipped_recently_covered": [
-    {"keyword": "AI textbook", "reason": "2026-07-18 'textbook-3d' (generative AI lowers cost of interactive 3D digital textbooks) — deprioritized; requeried at K-12/higher-ed adaptive-learning platform deals, not the 3D-model cost angle"},
-    {"keyword": "AI reading assistant", "reason": "2026-07-18 'kindle-ai' (on-device AI reading/recap features on late-2026 Kindles) — deprioritized; requeried at non-Amazon chat-with-book / e-reader assistant features"},
-    {"keyword": "AI book marketing", "reason": "2026-07-19 'pw-ai-analytics' (AI data-analytics startups pitch publishers on acquisition + marketing) — deprioritized; requeried at author-facing BookTok/metadata tools, not the publisher-analytics wave"},
-    {"keyword": "AI manuscript", "reason": "2026-07-19 'pw-ai-analytics' also covers AI acquisition scoring — deprioritized; requeried at literary-agent slush-pile / submission-policy angle"},
-    {"keyword": "AI copyright authors", "reason": "2026-07-18 'uk-copyright' (UK law fails to stop AI-training harm) — deprioritized; requeried at US collective-licensing / settlement angle, not the UK legal analysis"},
-    {"keyword": "AI children's book", "reason": "2026-07-15 'ipa-childrens-books' (IPA Congress children's literacy; AI framed as marketing-only) — deprioritized; requeried at AI picture-book generation/illustration angle"},
-    {"keyword": "AI literary translation", "reason": "2026-07-17 'chatgpt-proust' + 2026-07-16 'guatemala-ai-authorship' — deprioritized; requeried only at the rights/licensing deal angle"},
-    {"keyword": "AI audiobook narration", "reason": "2026-07-15 'ai-audiobook-surveys' + 2026-07-16 'book-world-roundup' — deprioritized; requeried only at the production/deal angle"},
-    {"keyword": "AI narration voices", "reason": "same audiobook cluster — deprioritized; requeried only at the voice-licensing/consent angle"},
-    {"keyword": "AI book recommendation", "reason": "2026-07-14 'rakuten-discovery' (Rakuten data+AI discovery) — deprioritized; requeried at reader-facing discovery, not retailer tooling"}
+    {"keyword": "generative fiction", "reason": "2026-07-20 'fiction-feast' (UK short-fiction mag Fiction Feast to use AI tools on in-house stories) — deprioritized; requeried at AI-generated novel / interactive-fiction platform angle, not the magazine editorial-policy angle"},
+    {"keyword": "AI narration voices", "reason": "2026-07-20 'cartland-voice' (Bolinda AI-cloned Barbara Cartland's voice with human input) — deprioritized; requeried only at the voice-licensing/consent deal angle, not the single-author revival"},
+    {"keyword": "AI audiobook narration", "reason": "2026-07-15 'ai-audiobook-surveys' + 'book-world-roundup' (mixed AI-narration surveys, 17.4% listenership) — deprioritized; requeried only at the production/catalog-deal angle"},
+    {"keyword": "AI literary translation", "reason": "2026-07-15 'kindle-translate-expand' (Kindle Translate to 6 languages for KDP authors) — deprioritized; requeried only at the rights/licensing-deal + translators-association angle, not the Amazon feature"},
+    {"keyword": "AI reading assistant", "reason": "2026-07-15 'google-play-book-insights' (Google Play Books Gemini reading helper) — deprioritized; requeried at non-Google chat-with-book / e-reader assistant features"},
+    {"keyword": "AI copyright authors", "reason": "2026-07-15 'australia office of AI' (APA encouraged by govt copyright signals) + recurring TDM debate — deprioritized; requeried at US collective-licensing / settlement angle, not the AU/UK policy signal"}
   ],
   "working_keywords": [
     {"keyword": "AI writing", "source": "core", "expansions": ["AI writing tool for authors 2026", "AI-assisted drafting novelists", "AI creative writing assistant release", "AI 글쓰기 도구 작가"]},
@@ -51,7 +47,7 @@
         "AI co-writing craft tool novelists 2026",
         "Sudowrite NovelAI Novelcrafter AI fiction app update 2026",
         "AI ghostwriting service authors ethics 2026",
-        "generative AI fiction interactive novel platform 2026",
+        "generative AI novel interactive fiction platform launch 2026",
         "AI book cover design generator publisher indie authors 2026",
         "AI copyediting developmental editing tool authors 2026",
         "AI ebook tools formatting Atticus Vellum Kobo AI feature 2026",
@@ -72,9 +68,9 @@
         "AI copyright authors collective licensing settlement United States 2026",
         "인공지능 소설 AI 웹소설 웹툰 제작 2026",
         "AI 도서 편집 교정 자가출판 도구 2026",
-        "site:youtube.com Sudowrite AI writing authors 2026",
         "site:youtube.com \"The Creative Penn\" AI writing authors 2026",
-        "site:youtube.com \"Self Publishing with Dale\" AI book publishing 2026"
+        "site:youtube.com \"Self Publishing with Dale\" AI book publishing 2026",
+        "site:youtube.com Sudowrite AI writing 2026"
       ],
       "allowed_domains": [
         "publishersweekly.com",

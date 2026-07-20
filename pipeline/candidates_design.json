@@ -1,24 +1,48 @@
 {
   "date": "2026-07-20",
   "section": "design",
-  "now_iso": "2026-07-19T23:00:00Z",
+  "now_iso": "2026-07-20T23:02:21Z",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.cgchannel.com/2026/07/3dflow-releases-3df-zephyr-9-0-with-3d-gaussian-splatting/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-07-17T15:14:37Z",
-      "og_image": "",
-      "excerpt": "3Dflow's 3DF Zephyr 9.0 photogrammetry software can now generate 3D Gaussian Splats from source images or video, alongside point clouds and meshes, extending neural radiance-style capture into a production 3D pipeline."
-    },
-    {
-      "url": "https://www.creativebloq.com/3d/vfx-cgi/backrooms-and-obsession-changed-the-rules-of-filmmaking-now-the-tools-are-finally-catching-up",
+      "url": "https://www.creativebloq.com/3d/i-watched-lightcraft-turn-a-screenplay-into-a-virtual-film-set-using-an-iphone",
       "source": "Creative Bloq",
       "category": "render",
-      "published_iso": "2026-07-18T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/uuzxVBhnozpvDLqUpGabYk-1920-80.jpg",
-      "excerpt": "Lightcraft CEO Eliot Mack argues that viral indie projects like Backrooms and Obsession rewrote filmmaking, and that real-time virtual production and AI-assisted tools are finally catching up to give new creators studio-scale ambition."
+      "published_iso": "2026-07-20T15:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/nzsdtuoJAMKAHiWHUjmMgZ-1600-80.jpg",
+      "excerpt": "Hands-on with Lightcraft's Spark Story, unveiled at SIGGRAPH 2026: a screenplay-first virtual production tool that lets writers, directors and cinematographers build and shoot a virtual film set — recording shots with just an iPhone — long before any physical location or set exists."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "source": "NVIDIA Blog",
+      "category": "workflow",
+      "published_iso": "2026-07-20T15:00:53Z",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/mcp-main-feature-1680x948.jpg",
+      "excerpt": "At SIGGRAPH 2026 NVIDIA rolled out agentic AI for creative pros, with Model Context Protocol integrations that let AI assistants act inside Adobe, Blender, Unreal Engine and other design apps — inspecting scenes, flagging color issues and preparing export variants while artists keep creative control."
+    },
+    {
+      "url": "https://80.lv/articles/folding-entire-360-degree-worlds-into-one-sphere-with-3dgs",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-07-20T14:56:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49357/images/6a5e371c6f2a0/contain_1200x630.jpg",
+      "excerpt": "A developer called VoxelKei released 'inversphere,' a technique that folds entire 360-degree environments into a single sphere for displaying 3D Gaussian Splatting scenes — a novel capture-and-display approach feeding real-time 3D and render workflows."
+    },
+    {
+      "url": "https://dev.to/chen_mensen_ac0fc78dae2a4/i-stopped-making-my-ai-image-prompts-longer-style-references-helped-more-4h2m",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-07-20T09:13:50Z",
+      "og_image": "",
+      "excerpt": "Argues that piling more words into AI image prompts yields diminishing returns, and that supplying visual style references gives designers far more reliable, repeatable control over generated output — a practical shift in creative-AI craft."
+    },
+    {
+      "url": "https://dev.to/rohit_raghuvansh_2f04aca3/information-architecture-for-ai-chatbots-why-your-bot-needs-a-sitemap-2bb6",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-07-20T04:26:17Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Ffiles.catbox.moe%2Fydfffo.png",
+      "excerpt": "Makes the case that every AI chatbot has an implicit information architecture whether or not anyone designed it, and shows how UX designers can map a bot's capabilities and decision paths like a sitemap to make conversational products coherent."
     },
     {
       "url": "https://dev.to/harish_s_93e5d1c9d87ae5a/spotting-ai-ui-is-too-easy-and-how-to-fix-it-in-cursorbolt-4h76",
@@ -27,22 +51,6 @@
       "published_iso": "2026-07-18T11:28:34Z",
       "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com",
       "excerpt": "Walks through why LLM-generated UI in Cursor and Bolt lands in an uncanny valley of functional-but-generic layouts, and offers concrete prompt and design-system fixes to push AI output past the tell-tale defaults."
-    },
-    {
-      "url": "https://dev.to/rohit_raj_8c7902b7d37cf21/the-anti-ai-slop-design-skill-how-hallmark-fixes-generic-ai-ui-in-2026-15gh",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-07-18T09:31:33Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Frohitraj.tech%2Fimages%2Fhallmark.png",
-      "excerpt": "Introduces Hallmark, a design skill for Claude Code, Cursor and Codex that intercepts the default 'AI slop' look — Inter font, purple gradients, identical cards — and steers agent-built UIs toward distinctive, brand-aware design."
-    },
-    {
-      "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-07-17T11:13:57Z",
-      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv",
-      "excerpt": "Argues that for a decade designers hid behind the interface, and now that AI can generate the interface itself, the craft that remains is judgment, taste and problem framing rather than pixel-pushing."
     },
     {
       "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",

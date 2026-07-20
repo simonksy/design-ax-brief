@@ -1,6 +1,7 @@
 {
   "date": "2026-07-20",
   "section": "books",
+  "now_iso": "2026-07-20T23:02:21Z",
   "window_hours": 336,
   "items": [
     {
@@ -9,7 +10,15 @@
       "category": "books",
       "published_iso": "2026-07-08T12:00:00Z",
       "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6452-793x595.jpeg",
-      "excerpt": "At the 35th International Publishers Association Congress closing gala, two AI companies won the IPA Innovation in Publishing Award: Shimmr, whose 'Advertising as a Service' platform automates book marketing, and Ailaysa, a multilingual AI firm behind the Chai Reader discovery platform."
+      "excerpt": "At the 35th International Publishers Association Congress closing gala, two AI companies won the IPA Innovation in Publishing Award: Shimmr, whose 'Advertising as a Service' platform automates book marketing, and Ailaysa, a multilingual AI firm behind a cross-language book-discovery platform."
+    },
+    {
+      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-07-09T12:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
+      "excerpt": "Audiobook publisher Bolinda used interviews, archival research and human input to build an AI clone of the late romance novelist Barbara Cartland's voice, using it to narrate her catalogue and revive a distinctive authorial voice for new audiobook editions."
     },
     {
       "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
@@ -17,7 +26,15 @@
       "category": "books",
       "published_iso": "2026-07-10T12:00:00Z",
       "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "Take-a-Break's Fiction Feast magazine has told its regular contributors that 'AI tools will be used' on upcoming in-house stories, a notable shift in editorial practice for one of the UK's best-known short-fiction titles."
+      "excerpt": "Take-a-Break's Fiction Feast magazine has told its regular contributors that 'AI tools will be used' on upcoming in-house stories, a notable editorial-craft shift for one of the UK's best-known short-fiction titles."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-07-13T12:00:00Z",
+      "og_image": "",
+      "excerpt": "A global consultation is drafting a 'Vancouver Standard' for disclosing AI use in scholarly work, after findings that roughly a third of researchers using AI never report it when publishing."
     },
     {
       "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
@@ -28,44 +45,20 @@
       "excerpt": "A survey commissioned by AI audiobook company Spoken found listeners rated multi-voice AI narration favorably for character-driven fiction, even as overall willingness to try AI-narrated titles slipped from 70% to 61% year over year."
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100773-international-publishers-convene-in-malaysia-for-ipa-congress-2026.html",
-      "source": "Publishers Weekly",
+      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-07-06T12:00:00Z",
-      "og_image": "",
-      "excerpt": "AI dominated the 35th International Publishers Association Congress in Kuala Lumpur, with IPA president Gvantsa Jobava stressing that 'our books are valuable individually and collectively' as training data and the industry moving from fascination to practical implementation questions."
+      "published_iso": "2026-07-15T12:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
+      "excerpt": "Text pasted from Claude into Archive of Our Own retains hidden markers that expose AI involvement, revealing widespread AI-assisted writing inside a fan community with a strong anti-AI stance."
     },
     {
-      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-6th-2026/",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
       "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-06T12:00:00Z",
+      "published_iso": "2026-07-20T12:00:00Z",
       "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
-      "excerpt": "A weekly roundup reports that US AI firms are buying large quantities of secondhand German-language nonfiction books, said to be scanned then destroyed for model training, raising cultural-heritage concerns, alongside survey data on how few audiobook listeners have knowingly tried AI narration."
-    },
-    {
-      "url": "https://bookriot.com/new-lawsuit-against-google-for-using-digital-books-to-train-ai/",
-      "source": "Book Riot",
-      "category": "books",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/Untitled-design65.jpg.optimal.jpg",
-      "excerpt": "Publishers and author Scott Turow filed what Book Riot calls the most straightforward case yet against a tech company's use of books to train AI, alleging Google used titles from its Scholar, Books, and Play Store platforms outside their agreed uses."
-    },
-    {
-      "url": "https://goodereader.com/blog/digital-publishing/publishers-file-massive-lawsuit-against-google-gemini-training",
-      "source": "Good e-Reader",
-      "category": "books",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/14014241/Gemini_Hero-1.webp",
-      "excerpt": "A copyright lawsuit filed in New York names Hachette, Cengage, and Elsevier, plus author Scott Turow, alleging Google unlawfully used copyrighted books to train its Gemini AI models."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
-      "excerpt": "Audiobook publisher Bolinda used interviews, archival research and human input to build an AI clone of the late romance novelist Barbara Cartland's voice, using it to narrate her catalogue and revive a distinctive authorial voice for new audiobook editions."
+      "excerpt": "Weekly book-world roundup: Bloomsbury posts strong results boosted by AI licensing revenue from Google, even as multiple publishers pursue legal action against Google over alleged unauthorized Gemini training on their books."
     }
   ]
 }

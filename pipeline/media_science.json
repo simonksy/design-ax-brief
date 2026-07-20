@@ -1,26 +1,11 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-21",
   "section": "science",
   "media": [
     {
-      "id": "chathea",
+      "id": "willow-rl",
       "type": "image",
-      "src": "pipeline/media/chathea.jpg"
-    },
-    {
-      "id": "k2-18b-seti",
-      "type": "image",
-      "src": "pipeline/media/k2-18b-seti.jpg"
-    },
-    {
-      "id": "scent-ai",
-      "type": "image",
-      "src": "pipeline/media/scent-ai.jpg"
-    },
-    {
-      "id": "denning-critique",
-      "type": "image",
-      "src": "pipeline/media/denning-critique.jpg"
+      "src": "pipeline/media/willow-rl.png"
     }
   ]
 }

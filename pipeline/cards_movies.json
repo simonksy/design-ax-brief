@@ -1,44 +1,25 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-21",
   "section": "movies",
   "cards": [
     {
-      "id": "martini",
+      "id": "switchlight3",
       "eyebrow": "AI NEWS",
-      "headline": "AI 영상 제작진이 함께 쓰는\n공유 촬영장 '마티니'가 열렸다",
-      "mini_headline": "AI 영상 촬영장 '마티니'",
-      "body": "마티니는 세트와 참고 이미지를 2D·3D 공간에서 숏으로 구성하는 웹 협업 도구로, 무료 인디 요금제와 함께 출시됐다.",
-      "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/martini-ai-film-set",
+      "headline": "실사 4K 영상을 언리얼에서\nAI로 다시 밝히는 스위치라이트 3",
+      "mini_headline": "AI 재조명 스위치라이트 3",
+      "body": "비블 AI가 코리도어 크루의 실사 4K 영상에 스위치라이트 3을 적용해 언리얼 엔진 안에서 바로 쓸 재조명 패스를 만들어냈다.",
+      "tool": "SwitchLight 3",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "마티니는 AI 영상을 위한 협업형 웹 플랫폼으로, 스스로를 'AI 영상의 촬영장'이라 부른다. 제작진은 자신의 세트와 참고 이미지를 직접 올리거나 새로 생성한 뒤, 2D 또는 3D 환경에서 숏을 짜 나간다."},
-          {"t": "img", "src": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"},
-          {"t": "p", "x": "목표는 프롬프트 룰렛에서 벗어나, 크루가 함께 쓰는 사전제작 허브를 마련하는 것이다. 서비스는 이미 나와 있으며, 무료 인디 요금제와 월 15달러부터 시작하는 유료 요금제를 제공한다."}
-        ]
-      }
-    },
-    {
-      "id": "curious-refuge-ai-tools",
-      "eyebrow": "AI NEWS",
-      "headline": "이번 주 새 AI 영화 도구,\n아티스트를 위한 핵심 업데이트",
-      "mini_headline": "이번 주 AI 영화 도구 정리",
-      "body": "큐리어스 리퓨지가 아티스트를 위해 이번 주 최신 AI 영화 제작 도구를 정리하며, 새 모션 컨트롤 워크플로에 초점을 맞춘다.",
-      "tool": "Social",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=GsZmUTLW4wA",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {"t": "video", "yt": "GsZmUTLW4wA"},
-          {"t": "p", "x": "큐리어스 리퓨지가 이번 주 아티스트를 위한 가장 큰 AI 영화 제작 소식을 한데 모았다."},
-          {"t": "p", "x": "이번 정리는 새로운 AI 모션 컨트롤 워크플로와 도구 업데이트에 초점을 둔다. 창작자가 AI로 만든 숏을 어떻게 연출하고 다듬는지를 바꿔 놓는 변화들이다."}
+          {"t": "p", "x": "프로비디오 코얼리션이 SIGGRAPH 2026 현장에서 전한 소식. 퓨젯 시스템스는 몰입형 '로보 도조' 부스를 꾸리고, 쇼 플로어에 나온 AI 기반 창작 도구들을 함께 조명했다."},
+          {"t": "img", "src": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg"},
+          {"t": "p", "x": "비블 AI와 디스트릭트 시네마는 코리도어 크루의 'Son of a Dungeon' 시즌3 실사 4K 영상에 새 스위치라이트 3 모델을 돌렸다. 그 결과 언리얼 엔진 안에서 바로 쓸 수 있는 PBR 재조명 패스가 나왔다."},
+          {"t": "p", "x": "키샷 스튜디오의 'AI 숏' 기능은 CAD 데이터와 조명을 건드리지 않으면서 필요한 부분만 생성형으로 손봤다. 실제 제작 파이프라인에서 생성형 재조명이 어떻게 자리 잡는지 보여준 사례다."}
         ]
       }
     }

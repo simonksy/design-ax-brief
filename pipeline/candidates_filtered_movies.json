@@ -1,8 +1,8 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "movies",
+  "now_iso": "2026-07-20T23:02:21Z",
   "window_hours": 336,
-  "now_iso": "2026-07-19T23:00:00Z",
   "items": [
     {
       "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
@@ -21,11 +21,24 @@
       "published_iso": "2026-07-07T08:36:00Z",
       "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/0/8/1482808_unknown_2865_crop.jpeg",
       "excerpt": "Particle 6, the UK company behind AI-generated 'actor' Tilly Norwood, is developing its first feature, the comedy-drama 'Misaligned,' using a hybrid production model that pairs traditional filmmaking roles with AI specialists — a concrete test of how synthetic-performer pipelines reshape a production."
+    },
+    {
+      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
+      "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-07-20T14:51:18Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg",
+      "excerpt": "ProVideo Coalition's SIGGRAPH 2026 dispatch spotlights AI-driven creative tools on the show floor: Beeble AI and District Cinema ran the new SwitchLight 3 model on native 4K cinematic footage from Corridor Crew's 'Son of a Dungeon' S3 to generate production-ready PBR relighting passes inside Unreal Engine, and Keyshot Studio's 'AI Shots' made focused generative edits while respecting CAD data and lighting — a concrete look at generative relighting in a real production pipeline."
+    },
+    {
+      "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
+      "title": "Beeble Releases SwitchHDR, an AI Model for HDR Reconstruction From SDR Video",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-07-07T12:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/beeble-switchhdr.jpg?id=67106787&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+      "excerpt": "Beeble's SwitchHDR is an AI frontier model that reconstructs HDR imagery from ordinary SDR video, outputting scene-linear 16-bit EXR sequences for professional post. It targets the reality that most existing footage is SDR while productions increasingly demand HDR-quality assets."
     }
-  ],
-  "dedup": {
-    "dropped": 3,
-    "kept": 2,
-    "against_days": 5
-  }
+  ]
 }

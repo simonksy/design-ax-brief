@@ -1,65 +1,54 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "music",
-  "selection_mode": "agent",
+  "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
-      "source": "Engadget",
+      "title": "Audiotool 3.0 turns its multiplayer online DAW into an open platform for creator-built music tools",
+      "url": "https://musictech.com/news/gear/audiotool-3-nexus/",
+      "source": "MusicTech",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg",
+      "excerpt": "Audiotool 3.0 rebuilds its multiplayer browser DAW around NEXUS, a new open-source SDK that lets musicians and developers build their own instruments, plugins, visualisers and AI-connected music tools directly into the platform — with AI integrations via MCP and Context I/O so creators can wire their preferred LLMs into the DAW. Launch partners include Splice, Ujam, BandM8 and Fraunhofer.",
       "tool": "Music",
-      "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Google AI Mode now integrates with Canva, YouTube Music and Instacart",
-      "rationale": "Fresh, credible product news: conversational AI playlist curation lands in a mainstream platform, distinct from the earlier Spotify/TIDAL cards.",
-      "published_iso": "2026-07-16T16:28:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/intro-1784219278.jpg",
-      "excerpt": "Google's AI Mode in Search now hooks into YouTube Music, letting users generate and shape playlists conversationally from a prompt, alongside a Canva design integration. It pushes AI-driven, chat-based curation deeper into how listeners assemble music."
+      "rationale": "Fresh, high-actionability platform release: an open SDK + MCP/LLM hooks that lets producers wire AI tools straight into a browser DAW — changes how creators extend their workspace."
     },
     {
-      "url": "https://bedroomproducersblog.com/2026/07/10/almudio-3d-panner/",
-      "source": "Bedroom Producers Blog",
+      "title": "Record industry proposes AI labeling system for streaming platforms",
+      "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-07-10T12:00:00Z",
+      "og_image": "https://www.musicbusinessworldwide.com/wp-content/uploads/2026/07/shutterstock_ai.jpg",
+      "excerpt": "A coalition of eight music organizations (IFPI, RIAA, A2IM, WIN, IMPALA, the Recording Academy, SAG-AFTRA and the Human Artistry Campaign) proposes a voluntary streaming labeling standard with two tags — 'AI-generated' for fully AI tracks and 'AI-assisted' for human-led tracks that use AI — reshaping how AI-made music is disclosed to listeners.",
       "tool": "Music",
-      "category": "music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Almudio releases 3D Panner, a FREE binaural spatial audio plugin",
-      "rationale": "Highly actionable free tool producers can grab today, plus a candid window into the AI-assisted plugin-development debate.",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/3dpanner-728x364.jpg",
-      "excerpt": "A free early-access binaural/HRTF panner for headphone mixing, ASMR, game audio and VR. The developer is candid about using AI during the coding process while insisting the DSP, HRTF and UX decisions were his own — a window into the ongoing craft debate over AI-assisted audio-plugin development."
+      "rationale": "The single strongest of the RIAA/IFPI labeling cluster (Hypebot + Suno-response variants dropped): the source proposal itself sets a two-tag disclosure standard every AI-using artist will have to reckon with."
     },
     {
-      "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
-      "source": "Complete Music Update",
+      "title": "Eldoraudio Guitar Audio to MIDI Converter",
+      "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
+      "source": "gearnews",
+      "published_iso": "2026-07-16T09:00:00Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg",
+      "excerpt": "Eldoraudio's browser tool converts guitar recordings into editable MIDI using instrument-specific models, with the first 30 seconds free and a dedicated distorted-guitar model coming. It removes the manual transcription step between playing a riff and editing it as MIDI.",
       "tool": "Music",
-      "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "BBC's music boss Lorna Clarke outlines broadcaster's AI transparency commitments — but can it actually meet them?",
-      "rationale": "Signals a concrete disclosure expectation from a major broadcaster that directly affects how creators submit AI-assisted work.",
-      "published_iso": "2026-07-07T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/BBC-AI.png",
-      "excerpt": "The BBC will keep prioritising music that is 'the result of meaningful human creativity' while allowing AI-assisted work — but wants artists and labels to disclose how AI tools were used when submitting music. It signals how AI-in-the-workflow is becoming a labelling/disclosure expectation for creators, not just a licensing fight."
+      "rationale": "Fresh, concrete workflow win: instrument-specific audio-to-MIDI that deletes the manual transcription step between playing a riff and editing it — distinct topic from the DAW and policy picks."
     }
   ],
+  "shortfall": true,
   "dedup_notes": {
-    "checked_against": "news_data.json sections.music — today (2026-07-19) + days 2026-07-14..2026-07-18",
-    "verified_no_duplicates": [
-      "Google AI Mode/YouTube Music — related theme to spotify-chat but distinct product, event and outlet; kept.",
-      "Almudio 3D Panner — no matching release in history; kept.",
-      "BBC Lorna Clarke AI transparency — related theme to tidal-ai-label/josh-fawaz but distinct event, subject and outlet; kept."
-    ]
-  },
-  "diversity_check": {
-    "distinct_outlets": 3,
-    "max_per_outlet": 1,
-    "outlets": [
-      "Engadget",
-      "Bedroom Producers Blog",
-      "Complete Music Update"
+    "checked_against": "news_data.json sections.music — today (2026-07-20) + days 2026-07-15..2026-07-19",
+    "dropped_as_duplicates": [
+      "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/ — same story as published card id 'peelstems2' (music/day 2026-07-17, zplane PEEL STEMS 2 via Sound On Sound). Different outlet, same release.",
+      "https://www.billboard.com/pro/bandlab-acquires-ai-digital-music-studio-aiode/ — same story as published card id 'aiode' (music/day 2026-07-17, BandLab acquires Aiode via MusicTech). Different outlet, same acquisition.",
+      "https://www.hypebot.com/new-ai-labeling-standard-for-music-draws-support-and-hesitation/ — same RIAA/IFPI AI-labeling story cluster as the kept MBW proposal; reactions-angle rewording, dropped as intra-pool duplicate.",
+      "https://www.musicbusinessworldwide.com/suno-sued-by-major-labels-says-transparency-is-important-as-record-industry-proposes-ai-labeling-system/ — same RIAA/IFPI AI-labeling story cluster (Suno-response angle); dropped as intra-pool duplicate, kept the source proposal."
     ],
-    "accents_distinct": true,
-    "note": "Meets the floor of 3. Only 3 clean candidates in the fresh pool; all 3 pass URL+content dedup. Not padded. Single-category section, so each pick takes a distinct palette accent (#ff2d55, #0070f3, #f5a623)."
+    "note": "7 candidates -> 4 dropped (2 as duplicates of already-published stories, 2 as intra-pool duplicates of the labeling cluster) -> 3 distinct fresh picks. Pool genuinely offered only 3 unique never-before-seen stories, so 3 picks (floor) rather than pad. Diversity guard satisfied: 3 distinct outlets (MusicTech, MBW, gearnews), <=2 per outlet."
   }
 }
