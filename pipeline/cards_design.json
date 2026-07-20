@@ -1,108 +1,25 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "design",
   "cards": [
     {
-      "id": "zephyr9",
+      "id": "meta-regret",
       "eyebrow": "AI NEWS",
-      "headline": "3DF Zephyr 9.0,\n가우시안 스플랫을 품다",
-      "body": "3DF Zephyr 9.0은 이미지나 영상에서 포인트 클라우드와 메시에 더해 3D 가우시안 스플랫까지 만들어낸다.",
-      "mini_headline": "스플랫, 촬영에서 3D로",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/07/3dflow-releases-3df-zephyr-9-0-with-3d-gaussian-splatting/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "p", "x": "3Dflow가 포토그래메트리 소프트웨어 3DF Zephyr의 9.0 버전을 내놨다. 핵심은 3D 가우시안 스플랫 생성이다. 이제 원본 이미지나 영상만 있으면 포인트 클라우드와 메시에 더해 가우시안 스플랫까지 한 흐름 안에서 뽑아낼 수 있다." },
-          { "t": "p", "x": "가우시안 스플랫은 뉴럴 래디언스 계열의 캡처 방식으로, 실사에 가까운 장면을 가볍게 재현하는 데 강점이 있다. 그동안 연구·실험 영역에 머물던 이 기법이 대중적인 촬영 도구 안으로 들어왔다는 점이 이번 릴리스의 의미다." },
-          { "t": "p", "x": "덕분에 촬영에서 3D로 넘어가는 작업자들은 오늘 당장 써볼 수 있는 새 제작 경로를 얻게 됐다. 논평이 아니라 실제 출시된 기능이라는 점에서 곧바로 파이프라인에 태워볼 만하다." }
-        ]
-      }
-    },
-    {
-      "id": "hallmark",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 만든 밋밋한 UI를\n바로잡는 디자인 스킬",
-      "body": "Hallmark 스킬은 Inter 폰트와 보라색 그라디언트로 뻔해진 AI UI를 브랜드다운 디자인으로 되돌린다.",
-      "mini_headline": "AI 슬롭 잡는 스킬",
-      "tool": "Figma",
-      "source": "DEV Community",
-      "url": "https://dev.to/rohit_raj_8c7902b7d37cf21/the-anti-ai-slop-design-skill-how-hallmark-fixes-generic-ai-ui-in-2026-15gh",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "img", "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Frohitraj.tech%2Fimages%2Fhallmark.png" },
-          { "t": "p", "x": "에이전트가 만든 화면에는 특유의 냄새가 있다. Inter 폰트, 보라색 그라디언트, 똑같이 생긴 카드. 한눈에 'AI가 그렸구나' 싶은 이 뻔한 인상을 글쓴이는 'AI 슬롭'이라 부른다." },
-          { "t": "p", "x": "Hallmark는 이 기본값을 가로채는 디자인 스킬이다. Claude Code, Cursor, Codex에 물려두면 에이전트가 UI를 짤 때 개성 없는 초기 스타일 대신 브랜드를 아는 디자인 쪽으로 방향을 튼다." },
-          { "t": "p", "x": "포인트는 실천 가능성이다. 담론이 아니라 지금 도구에 바로 얹을 수 있는 장치이고, 디자이너 입장에서는 내일 당장 설치해 그 뻔한 티를 지워볼 수 있다." }
-        ]
-      }
-    },
-    {
-      "id": "dscontract",
-      "eyebrow": "AI NEWS",
-      "headline": "컴포넌트는 피그마에도\n코드에도 살지 않는다",
-      "body": "진짜 컴포넌트를 가운데 계약으로 두고 피그마와 코드를 그 정직한 사본으로 다루자는 제안이다.",
-      "mini_headline": "컴포넌트라는 계약",
-      "tool": "Design Tokens",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*aJoJclHmavEMRUGzBN3ThA.png" },
-          { "t": "p", "x": "디자인 시스템의 컴포넌트는 피그마에 있을까, 코드에 있을까. 글쓴이의 답은 '둘 다 아니다'이다. 진짜 컴포넌트는 가운데의 계약이고, 피그마와 코드는 그 계약을 각자 정직하게 옮겨 적은 두 개의 사본일 뿐이라는 것이다." },
-          { "t": "p", "x": "이 관점은 AI 에이전트가 양쪽을 모두 생성하기 시작하면서 더 급해진다. 디자인과 코드를 각각 다른 에이전트가 만들어낼 때, 무엇이 원본인지 정하지 않으면 두 사본은 조용히 어긋나기 시작한다." },
-          { "t": "p", "x": "컴포넌트를 계약으로 보면 디자인 시스템 팀은 구체적인 관리 모델을 얻는다. 피그마와 코드 어느 쪽도 진실의 자리를 독점하지 않고, 둘 다 계약을 지켰는지로 검증받는 구조다." }
-        ]
-      }
-    },
-    {
-      "id": "lightcraft",
-      "eyebrow": "AI NEWS",
-      "headline": "규칙을 바꾼 인디 영화,\n이제 도구가 따라잡는다",
-      "body": "실시간 버추얼 프로덕션과 AI 도구가 마침내 따라붙어 1인 창작자도 스튜디오급 야심을 품게 됐다.",
-      "mini_headline": "도구가 따라잡다",
-      "tool": "KeyShot",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/3d/vfx-cgi/backrooms-and-obsession-changed-the-rules-of-filmmaking-now-the-tools-are-finally-catching-up",
-      "accent": "#3b6bff",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/uuzxVBhnozpvDLqUpGabYk-1920-80.jpg" },
-          { "t": "p", "x": "Lightcraft CEO 엘리엇 맥은 Backrooms나 Obsession 같은 화제의 인디 프로젝트가 영화 만드는 규칙을 다시 썼다고 본다. 소수의 인원, 적은 예산으로도 관객을 사로잡는 작품이 나오면서 스튜디오만의 것이던 스케일이 흔들렸다는 것이다." },
-          { "t": "p", "x": "그리고 이제 도구가 그 야심을 따라잡는 중이라고 말한다. 실시간 버추얼 프로덕션과 AI 보조 도구가 맞물리면서, 예전이라면 대형 스튜디오가 필요했을 작업을 훨씬 작은 팀이 감당할 수 있게 됐다." },
-          { "t": "p", "x": "결국 새 창작자에게 스튜디오급 규모의 상상을 허락하는 방향이다. 아이디어와 실행 사이의 문턱이 낮아지면서, 혼자서도 큰 그림을 그릴 수 있는 조건이 갖춰지고 있다." }
-        ]
-      }
-    },
-    {
-      "id": "aibluff",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 디자인의\n허풍을 들췄다",
-      "body": "인터페이스 뒤에 숨어 온 디자이너에게 남는 건 판단과 취향, 문제를 세우는 힘이라는 지적이다.",
-      "mini_headline": "남는 건 판단과 취향",
+      "headline": "메타의 AI 툴 철회 사과,\n창작자를 향한 진심일까",
+      "body": "접었던 AI 창작 툴에 메타가 뒤늦게 건넨 사과, 창작자를 위한 진심인지 그저 뒷수습인지 되묻는다.",
+      "mini_headline": "메타의 뒤늦은 사과",
       "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv" },
-          { "t": "p", "x": "글쓴이는 지난 10년간 디자이너가 인터페이스 뒤에 숨어 있었다고 말한다. 화면을 정교하게 다듬는 일 자체가 곧 실력의 증거처럼 여겨졌다는 것이다." },
-          { "t": "p", "x": "그런데 AI가 인터페이스를 직접 만들어내기 시작하면서 그 방패가 사라졌다. 픽셀을 밀고 당기던 작업이 자동화되자, 그 뒤에 무엇이 남는가 하는 질문이 정면으로 떠오른다." },
-          { "t": "p", "x": "남는 것은 판단과 취향, 그리고 문제를 어떻게 세울지 정하는 능력이다. 화면을 그리는 손이 아니라 무엇을 왜 만드는지를 가르는 감각이, 이제 디자이너의 진짜 레버리지라는 이야기다." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg" },
+          { "t": "p", "x": "메타가 밀어붙이던 AI 창작 툴을 슬그머니 접고 뒤늦게 유감을 내비쳤다. Creative Bloq는 이 사과를 곧이곧대로 받아들이지 않는다." },
+          { "t": "p", "x": "글의 비유가 날카롭다. 집을 털어 어질러 놓고선 미안하다고 말하는 도둑 같다는 얘기다. 피해가 다 벌어진 뒤에야 나온 사과라면, 창작자를 향한 진심보다는 사태를 덮으려는 몸짓에 가깝다." },
+          { "t": "p", "x": "결국 남는 물음은 신뢰다. 플랫폼이 AI 기능을 내놓고 거두고 번복하는 결정 하나하나가 창작자가 기대어 쓰는 도구의 판을 흔든다. 무엇을 믿고 작업에 태울지, 이 글이 던지는 진짜 질문이다." }
         ]
       }
     }

@@ -1,26 +1,17 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "movies",
   "window_hours": 336,
-  "now_iso": "2026-07-18T23:00:29Z",
+  "now_iso": "2026-07-19T23:00:00Z",
   "items": [
     {
-      "url": "https://nofilmschool.com/martini-ai-film-set",
-      "title": "Meet Martini: A Film Set for AI Video That Aims to Help Filmmakers Streamline Their Shots",
-      "source": "No Film School",
+      "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
+      "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
+      "source": "fxguide",
       "category": "movies",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-      "excerpt": "Martini is a collaborative, web-based platform pitched as a 'film set' for AI video: filmmakers upload their own sets and reference images or generate them, then compose shots in 2D or 3D environments to escape prompt roulette and give crews a shared pre-production hub. Out now with a free indie tier and paid plans from $15/month."
-    },
-    {
-      "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
-      "title": "Beeble Releases SwitchHDR, an AI Model for HDR Reconstruction From SDR Video",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-07-07T12:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/beeble-switchhdr.jpg?id=67106787&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-      "excerpt": "Beeble's SwitchHDR is an AI frontier model that reconstructs HDR imagery from ordinary SDR video, outputting scene-linear 16-bit EXR sequences for professional post. It targets the reality that most existing footage is SDR while productions increasingly demand HDR-quality assets."
+      "published_iso": "2026-07-09T12:00:00Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
+      "excerpt": "Beeble's SwitchHDR is a machine-learning model that reconstructs HDR imagery from ordinary SDR video for professional post, addressing the reality that most existing footage is SDR while productions increasingly demand HDR-quality assets."
     },
     {
       "url": "https://www.screendaily.com/news/tilly-norwood-creator-developing-feature-film-misaligned-starring-the-ai-actor/5218374.article",
@@ -30,20 +21,11 @@
       "published_iso": "2026-07-07T08:36:00Z",
       "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/0/8/1482808_unknown_2865_crop.jpeg",
       "excerpt": "Particle 6, the UK company behind AI-generated 'actor' Tilly Norwood, is developing its first feature, the comedy-drama 'Misaligned,' using a hybrid production model that pairs traditional filmmaking roles with AI specialists — a concrete test of how synthetic-performer pipelines reshape a production."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=GsZmUTLW4wA",
-      "title": "NEW AI Film Tools: The Biggest Updates for Artists",
-      "source": "Curious Refuge",
-      "category": "social",
-      "published_iso": "2026-07-17T21:42:20Z",
-      "og_image": "https://i.ytimg.com/vi/GsZmUTLW4wA/maxresdefault.jpg",
-      "excerpt": "Curious Refuge rounds up the week's biggest AI filmmaking releases for artists, with a focus on new AI motion-control workflows and tool updates that change how creators direct and refine AI-generated shots."
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 4,
+    "dropped": 3,
+    "kept": 2,
     "against_days": 5
   }
 }

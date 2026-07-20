@@ -9,12 +9,12 @@
       "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
-      "excerpt": "ETH Zurich researchers built PLATON, a particle detector that uses light-field camera optics and AI to reconstruct invisible particle tracks in 3D inside a single unsegmented block of scintillator. Simulations suggest it could match or surpass today's best detectors while being far simpler to scale.",
-      "rationale": "Novel AI-enabled detector architecture from a top lab (ETH); a genuinely new instrument approach, distinct from the already-published AMBer neutrino card, and credible via ScienceDaily — physics/instrumentation sub-domain."
+      "url": "https://phys.org/news/2026-07-large-language-discovery-catalysts-energy.html",
+      "source": "Phys.org",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/large-language-model-g-4.jpg",
+      "excerpt": "Tohoku University researchers built ChatHEA, a domain-specific large language model that ran the full discovery workflow, from literature mining and element-combination design to experimental planning and mechanistic analysis, to identify high-entropy alloy catalysts for fuel cells. The AI-guided high-throughput loop surfaced strong oxygen-reduction catalysts beyond human intuition.",
+      "rationale": "A domain-specific LLM autonomously runs the entire materials-discovery loop and finds real fuel-cell catalysts — the strongest AI-advances-method pick in the pool, credible (Phys.org)."
     },
     {
       "rank": 2,
@@ -22,12 +22,12 @@
       "category": "science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011748.htm",
       "source": "ScienceDaily",
-      "published_iso": "2026-07-16T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp",
-      "excerpt": "A BERT-based machine-learning classifier screened 2.6 million cancer papers and flagged more than 250,000 with writing patterns resembling fraudulent 'paper mill' output, published in The BMJ. Suspect papers rose from about 1% in the early 2000s to more than 16% in 2022, exposing a large research-integrity problem.",
-      "rationale": "High-impact AI-for-research-integrity result published in The BMJ; broad relevance to how science is trusted, no prior coverage in the section, distinct sub-domain (meta-science / scientometrics). Second science pick given a distinct palette accent (#0070f3)."
+      "published_iso": "2026-07-12T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/exoplanet-k2-18b.webp",
+      "excerpt": "Astronomers combined VLA and MeerKAT radio observations of Hycean world K2-18b with an automated machine-learning pipeline trained to separate human interference from genuine narrowband signals across millions of candidates. No technosignature was found, but the ML approach makes future SETI searches far faster.",
+      "rationale": "An automated ML pipeline sifts millions of radio-signal candidates, retooling how SETI searches are run — a novel method advance in astronomy; distinct palette accent (#0070f3)."
     },
     {
       "rank": 3,
@@ -35,12 +35,12 @@
       "category": "science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-ai-proteins-scientists-cells.html",
+      "url": "https://phys.org/news/2026-07-ai-aromatic-scent-compounds.html",
       "source": "Phys.org",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/novotags-ai-designed-p.jpg",
-      "excerpt": "EMBL scientists used AI to design NovoTags, small de novo protein tags that bind fluorescent dyes so researchers can track specific proteins inside living cells. An inducible variant, NovoSplit, acts as a molecular switch and could distinguish up to 30 proteins at once by combining emission spectrum and fluorescence lifetime.",
-      "rationale": "Actionable, ready-to-use AI-designed lab tool for live-cell imaging from a leading institute (EMBL); a de novo protein-design result distinct from the already-published BetaDescribe (sequence-to-text) and SynTnpB (nuclease) cards. Third science pick gets a distinct palette accent (#7928ca) and shifts outlet to Phys.org."
+      "published_iso": "2026-07-06T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-21.jpg",
+      "excerpt": "National University of Singapore scientists trained a machine-learning model on 2,391 scent molecules from 991 aromatic plants, reaching 96.1% accuracy in identifying sleep-promoting compounds. The work shows AI mining plant chemistry to surface candidate bioactive fragrances for research.",
+      "rationale": "ML mines plant chemistry at 96.1% accuracy to nominate bioactive sleep compounds — AI directly accelerating life-science discovery, a sub-domain distinct from the other picks; distinct palette accent (#7928ca)."
     },
     {
       "rank": 4,
@@ -48,33 +48,21 @@
       "category": "science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://physicsworld.com/a/ai-enhanced-rare-event-sampling-helps-predict-extreme-weather/",
-      "source": "Physics World",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/6-07-26-urban-heat-seattle-1187838-istock-dizzo.jpg",
-      "excerpt": "Researchers developed an AI-enhanced rare-event sampling framework (AI+RES) that predicts the frequency of extreme heatwaves using up to 1000 times less compute than conventional climate modeling. The AI directs full physics-based models to simulate only the high-probability scenarios, bridging deep-learning efficiency with physical reliability.",
-      "rationale": "Novel hybrid AI + physics method with a concrete 1000x compute win for extreme-weather prediction; credible (Physics World), climate/earth-science sub-domain, and adds a third distinct outlet to the mix. Distinct palette accent (#f5a623)."
-    },
-    {
-      "rank": 5,
-      "tool": "Science",
-      "category": "science",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-lab-animals-ai.html",
-      "source": "Phys.org",
-      "published_iso": "2026-07-10T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/assessing-lab-animals.jpg",
-      "excerpt": "A Rutgers-led team built an AI system that continuously monitors mouse locomotor activity and applies machine learning to flag health problems, detecting issues 3-5 days before obvious clinical signs appeared. The tool, reported in Lab Animal, aims to improve welfare and reliability in laboratory animal research.",
-      "rationale": "Practical AI monitoring tool with an early-detection edge (3-5 days) that changes how labs run animal studies; life-science / research-practice sub-domain, no prior coverage. Fifth pick; distinct palette accent (#eb367f). Second Phys.org card, holding the outlet cap at 2."
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "source": "ScienceDaily",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+      "excerpt": "Computer scientist Peter Denning argues that mainstream AI has inherited a flawed assumption from Turing's 1950 paper, contending that machines cannot encode the tacit, embodied knowledge, like common sense and practical skill, that underlies human cognition. The critique reframes how cognitive science should evaluate claims of human-level machine understanding.",
+      "rationale": "A cognitive-science reframing of how machine understanding should be evaluated — intersects AI with cognitive science and adds category diversity beyond the discovery-tool picks; distinct palette accent (#f5a623)."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.science in news_data.json — today (2026-07-18) + days (2026-07-17, 2026-07-16, 2026-07-15, 2026-07-14). Published stories include: amber, kandy, nanoshape; claude-jamming, syntnpb, biosignature-ai, claude-science, feedback-brain; thermo-computing, san-andreas, binnd, supercooled-water, black-box-physics; chemgraph, betadescribe, rhine, chatbot-therapy, jacobian-lens; willow-self-learning, quantum-peptide-design, flatband-2d-screening, kagome-superconductors, llm-decision-reasons.",
-    "dropped_duplicates": "1 dropped. Candidate 'phys.org supercooled water' (https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html) duplicates the already-published 'supercooled-water' card (2026-07-16, https://www.sciencedaily.com/releases/2026/07/260707025047.htm): same University of Osaka research — neural network on molecular-dynamics simulations, 16 competing structural descriptors, distinguishing water's two proposed liquid states / hidden critical point. Different outlet + URL, same event, so a content duplicate — dropped per earliest-wins.",
+    "checked_against": "sections.science in news_data.json — today (2026-07-19) + days (2026-07-18, 2026-07-17, 2026-07-16, 2026-07-15, 2026-07-14). Published stories: platon, paper-mill, novotags, ai-res, lab-animal-ai; amber, kandy, nanoshape; claude-jamming, syntnpb, biosignature-ai, claude-science, feedback-brain; thermo-computing, san-andreas, binnd, supercooled-water, black-box-physics; chemgraph, betadescribe, rhine, chatbot-therapy, jacobian-lens; willow-self-learning, quantum-peptide-design, flatband-2d-screening, kagome-superconductors, llm-decision-reasons.",
+    "dropped_duplicates": "None. All 4 filtered candidates have URLs and content not present in the published science history (checked by URL + event/topic). No overlap with existing catalyst, protein-design, astronomy, or cognitive-science cards.",
     "dropped_within_pool": "None.",
-    "not_selected": "None held back — after dropping the supercooled-water duplicate the filtered pool held exactly 5 unique, never-before-seen items, all selected.",
-    "shortfall": "None — hit the cap of 5 distinct fresh stories.",
-    "diversity": "Outlets: ScienceDaily x2 (PLATON, BERT), Phys.org x2 (NovoTags, lab-animal), Physics World x1 (AI+RES) — 3 distinct outlets, none exceeding the <=2/outlet cap. Sub-domains spread across particle-physics instrumentation, meta-science/research integrity, de novo protein design, climate/earth science, and lab-animal welfare. All share the single science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f)."
+    "not_selected": "None — the filtered pool held exactly 4 unique, never-before-seen, relevance-passing items; all selected (target up to 4). Never padded.",
+    "shortfall": "None relative to the pool size (4 clean candidates). Below the cap of 5 only because the fresh pool is genuinely small.",
+    "relevance": "All 4 pass the AI-x-science test: ChatHEA (LLM-run catalyst discovery), K2-18b (ML SETI pipeline), scent compounds (ML bioactive-molecule discovery) clearly advance research method; the Denning piece intersects cognitive science (framework for evaluating machine understanding), consistent with the section's precedent of AI-critique cards (e.g. biosignature-ai, black-box-physics, jacobian-lens). No AI-industry noise (funding/compute/hiring) admitted.",
+    "diversity": "Outlets: Phys.org x2 (ChatHEA, scent), ScienceDaily x2 (SETI, Denning) — 2 distinct outlets, each at the <=2/outlet cap. The filtered pool contains only these two outlets, so 3 distinct outlets is not reachable. Sub-domains spread across materials/energy catalysis, astronomy/SETI, life-science chemistry, and cognitive science. All share the science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623)."
   }
 }

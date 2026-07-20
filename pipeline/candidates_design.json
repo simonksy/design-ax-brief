@@ -1,31 +1,16 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "design",
+  "now_iso": "2026-07-19T23:00:00Z",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-07-17T11:13:57Z",
-      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv",
-      "excerpt": "Argues that for a decade designers hid behind the interface, and now that AI can generate the interface itself, the craft that remains is judgment, taste and problem framing rather than pixel-pushing."
-    },
-    {
-      "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067",
-      "source": "UX Collective",
-      "category": "tokens",
-      "published_iso": "2026-07-16T22:17:34Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*aJoJclHmavEMRUGzBN3ThA.png",
-      "excerpt": "Proposes treating the real design-system component as a contract in the middle, with Figma and code as two honest copies of it — a shift the author argues becomes urgent once AI agents generate both sides."
-    },
-    {
-      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
-      "source": "fxguide",
+      "url": "https://www.cgchannel.com/2026/07/3dflow-releases-3df-zephyr-9-0-with-3d-gaussian-splatting/",
+      "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-07-16T16:59:49Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-RotoFoundry.jpg",
-      "excerpt": "Foundry has released SmartRoto, an AI-powered plugin for Nuke, NukeX, Nuke Studio and Nuke Indie that aims to take the grind out of rotoscoping while keeping artists in control of the workflow."
+      "published_iso": "2026-07-17T15:14:37Z",
+      "og_image": "",
+      "excerpt": "3Dflow's 3DF Zephyr 9.0 photogrammetry software can now generate 3D Gaussian Splats from source images or video, alongside point clouds and meshes, extending neural radiance-style capture into a production 3D pipeline."
     },
     {
       "url": "https://www.creativebloq.com/3d/vfx-cgi/backrooms-and-obsession-changed-the-rules-of-filmmaking-now-the-tools-are-finally-catching-up",
@@ -34,14 +19,6 @@
       "published_iso": "2026-07-18T13:00:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/uuzxVBhnozpvDLqUpGabYk-1920-80.jpg",
       "excerpt": "Lightcraft CEO Eliot Mack argues that viral indie projects like Backrooms and Obsession rewrote filmmaking, and that real-time virtual production and AI-assisted tools are finally catching up to give new creators studio-scale ambition."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/07/3dflow-releases-3df-zephyr-9-0-with-3d-gaussian-splatting/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-07-17T15:14:37Z",
-      "og_image": "",
-      "excerpt": "3Dflow's 3DF Zephyr 9.0 photogrammetry software can now generate 3D Gaussian Splats from source images or video, alongside point clouds and meshes, extending neural radiance-style capture into a production 3D pipeline."
     },
     {
       "url": "https://dev.to/harish_s_93e5d1c9d87ae5a/spotting-ai-ui-is-too-easy-and-how-to-fix-it-in-cursorbolt-4h76",
@@ -58,6 +35,14 @@
       "published_iso": "2026-07-18T09:31:33Z",
       "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Frohitraj.tech%2Fimages%2Fhallmark.png",
       "excerpt": "Introduces Hallmark, a design skill for Claude Code, Cursor and Codex that intercepts the default 'AI slop' look — Inter font, purple gradients, identical cards — and steers agent-built UIs toward distinctive, brand-aware design."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-17T11:13:57Z",
+      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv",
+      "excerpt": "Argues that for a decade designers hid behind the interface, and now that AI can generate the interface itself, the craft that remains is judgment, taste and problem framing rather than pixel-pushing."
     },
     {
       "url": "https://www.creativebloq.com/design/metas-regret-over-its-scrapped-ai-tool-is-like-a-burglar-apologising-for-the-mess",

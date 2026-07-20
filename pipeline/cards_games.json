@@ -1,90 +1,108 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "games",
   "cards": [
     {
-      "id": "meccha-chameleon",
-      "tool": "Games",
+      "id": "damagecontrol",
       "eyebrow": "AI NEWS",
-      "headline": "AI 양산물의 시대, 손으로 빚은\n혼돈을 택한 메카 카멜레온",
-      "body": "메카 카멜레온은 AI가 쏟아내는 양산형 게임 사이에서 손으로 빚은 혼돈을 무기로 내세운다.",
-      "mini_headline": "손으로 빚은 혼돈",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/in-an-era-of-ai-slop-meccha-chameleon-embraces-human-crafted-chaos/",
+      "headline": "게임 배경 작업을 빠르게,\n블렌더 툴킷 데미지 컨트롤",
+      "body": "제시 미에티넨이 스캐터·스머지 같은 생성형 도구를 묶어 블렌더 툴킷 데미지 컨트롤을 내놨다.",
+      "mini_headline": "데미지 컨트롤 공개",
+      "tool": "Games",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/jesse-miettinen-s-the-last-of-us-like-generator-finally-launches",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "화제작 메카 카멜레온이 상점가를 뒤덮은 AI 생성물과 모방작의 물결에, 사람이 직접 만든 대항마로 자리를 잡아 가고 있다."
-          },
-          {
             "t": "img",
-            "src": "https://www.gamespot.com/wp-content/uploads/2026/07/meccha-3.png"
+            "src": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
+            "cap": "데미지 컨트롤 대표 이미지"
           },
           {
             "t": "p",
-            "x": "손으로 빚어낸 혼돈을 생성형 파이프라인과 갈라서는 경쟁력으로 내세운다. 제작과 디자인의 언어로 풀어낸 하나의 반론인 셈이다."
+            "x": "제시 미에티넨이 블렌더용 툴킷 데미지 컨트롤(Damage Control)을 공개했다. 한때 그가 'The Last of Us-like generator'라고 부르던 프로젝트가 정식 출시로 이어졌다. 서로 맞물려 돌아가는 생성형 도구를 묶어, 게임 환경을 더 사실적으로 더 빠르게 만들도록 돕는다."
+          },
+          {
+            "t": "p",
+            "x": "구성은 스머지 마스크 제너레이터, 스캐터 툴, 제너레이티브 툴이고 여기에 추가 셰이더와 메가 프리셋까지 딸려 온다. 표면을 문지르고 오브젝트를 흩뿌리고 절차적으로 쌓아 올리는 작업을 한자리에서 처리한다."
+          },
+          {
+            "t": "p",
+            "x": "전부 지오메트리 노드로 짜여 성능에 신경 썼고, 오래 써도 호환성이 유지되도록 만들었다. 미에티넨은 3년치 업데이트를 지원하겠다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "지금은 검로드(embracefx.gumroad.com/l/damagecontrol)에서 받을 수 있고, 이후 슈퍼하이브(Superhive) 입점도 예정돼 있다. 개별 도구는 여름 휴가가 끝난 뒤 따로 풀린다. 빠르게 익히도록 유튜브 튜토리얼 시리즈도 함께 내놨다. 미에티넨은 이제 임브레이스 FX(Embrace FX) 이름으로 활동한다."
           }
         ]
       }
     },
     {
-      "id": "ai-clone",
-      "tool": "Games",
+      "id": "indiedevs25",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 인디 게임을 통째로 복제해\n원작보다 먼저 내놓는다",
-      "body": "일부 개발자가 AI 코딩 도구로 인디 게임을 며칠 만에 복제해 원작보다 먼저 상점에 올린다.",
-      "mini_headline": "AI 인디 복제 경쟁",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "1인 개발자들이 AI 코딩 도구로 인디 게임의 플레이 가능한 복제본을 며칠 만에 찍어 낸다. 때로는 원작이 세상에 나오기도 전에 먼저 상점에 올려 버린다."
-          },
-          {
-            "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg"
-          },
-          {
-            "t": "p",
-            "x": "작은 스튜디오가 작업 중인 결과물을 어떻게 공개하고 지켜 낼지, 그 방식 자체를 흔들어 놓는 구체적인 변화다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "steam-genai",
+      "headline": "인디 개발자 25명이\n생성형 AI를 피하는 이유",
+      "body": "인디 스튜디오 25곳은 생성형 AI가 되레 더 못한 게임을 만든다며 도입을 꺼린다고 말한다.",
+      "mini_headline": "AI를 피하는 인디들",
       "tool": "Games",
-      "eyebrow": "AI NEWS",
-      "headline": "생성형 AI가 불가피했다는 해명에\n개발자들은 고개를 젓는다",
-      "body": "한 다크 판타지 게임이 생성형 AI를 예산 탓으로 정당화하자 수작업 개발자들이 반발한다.",
-      "mini_headline": "예산 탓 생성형 AI",
       "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/devs-dont-buy-steam-disclosure-claiming-gen-ai-was-a-necessity-im-literally-unemployed-and-i-still-make-all-of-my-assets-by-hand/",
+      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "한 다크 판타지 아이들 ARPG가 스팀 고지에서 생성형 AI를 예산상 어쩔 수 없는 선택이라고 밝혔다. 그러자 지금도 손으로 에셋을 만든다는 개발자들의 거센 반박이 쏟아졌다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+            "cap": "생성형 AI를 멀리하는 인디 스튜디오"
           },
           {
             "t": "p",
-            "x": "생성형 AI 의존이 실제 제작 현장 안에서 어떻게 정당화되고 또 어떻게 반박되는지, 그 온도차를 고스란히 보여 주는 사례다."
+            "x": "생성형 AI는 인디 개발의 가속 장치처럼 팔려 왔다. 적은 인원으로 더 많은 게임을 더 빨리 만들게 해준다는 얘기다. 그런데 한 기자가 만난 인디 스튜디오 25곳은 답이 달랐다."
+          },
+          {
+            "t": "p",
+            "x": "이들은 AI를 대체로 피한다고 말한다. 이유는 단순하다. 더 못한 게임을 만든다(It creates lesser games)는 것이다. 완성도와 손맛이 중요한 제작 현장에서 AI가 되레 걸림돌이 된다는 얘기다."
+          },
+          {
+            "t": "p",
+            "x": "기사는 AI가 실제로 어디에 들어맞고 어디서 어긋나는지를 스튜디오 25곳의 목소리로 짚는다. 담론이 아니라 현장 취재라서, 게임 디자인 작업 속 AI의 실제 위치를 가늠하게 해준다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "metahumancrowds",
+      "eyebrow": "AI NEWS",
+      "headline": "언리얼에서 대규모\n메타휴먼 군중 만들기",
+      "body": "언리얼 페스트 세션에서 Mass와 Nanite로 메타휴먼 군중을 대규모로 채우는 파이프라인을 소개한다.",
+      "mini_headline": "메타휴먼 군중 파이프라인",
+      "tool": "Social",
+      "source": "Unreal Engine",
+      "url": "https://www.youtube.com/watch?v=wQoa1j4Rgss",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "wQoa1j4Rgss"
+          },
+          {
+            "t": "p",
+            "x": "언리얼 페스트 시카고 2026 세션 영상이다. 언리얼 엔진에서 대규모 메타휴먼 군중을 채우는 방법을 다룬다."
+          },
+          {
+            "t": "p",
+            "x": "핵심은 Mass와 Nanite다. Mass로 수많은 캐릭터의 행동과 상태를 효율적으로 다루고, Nanite로 고밀도 지오메트리를 부담 없이 렌더링해 게임 월드를 디지털 휴먼으로 가득 채운다."
+          },
+          {
+            "t": "p",
+            "x": "무엇보다 언리얼이 직접 공개한 1차 소스다. 반복해 쓸 수 있는 프로덕션 파이프라인이라 눈길이 간다. 디자이너가 그대로 가져다 적용해볼 수 있는 기법 세션이다."
           }
         ]
       }

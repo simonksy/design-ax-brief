@@ -1,91 +1,73 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "gadgets",
   "selection_mode": "agent",
   "picks": [
     {
       "rank": 1,
-      "tool": "Samsung",
+      "tool": "OpenAI",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-07-10T10:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg",
-      "excerpt": "Samsung is readying its Gaia AI accelerator NPU for client PCs, with HP and Lenovo reportedly validating the chip for future on-device generative-AI laptops.",
-      "rationale": "A concrete on-device NPU with named OEM validation - signals the next wave of local-AI laptops designers will build for."
+      "url": "https://gizmodo.com/openai-just-launched-its-first-hardware-product-and-its-a-tiny-keyboard-for-bossing-around-ai-agents-2000786080",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-15T17:25:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
+      "excerpt": "OpenAI unveiled its first hardware product - the $230 Codex Micro, a programmable macro pad made with Work Louder for its AI coding agent, with 13 mechanical switches, a touch sensor, rotary dial, and joystick.",
+      "rationale": "OpenAI's first shipping hardware and a genuinely new physical UI for driving AI coding agents - novel, on-bias, and directly changes how developers/designers wire up agent workflows."
     },
     {
       "rank": 2,
-      "tool": "SK hynix",
+      "tool": "Google",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sk-hynix-and-tetramem-collaborate-on-experimental-chip-to-bolster-energy-efficiency-for-edge-ai-devices-memristor-based-in-memory-soc-research-leaves-performance-questions-up-in-the-air",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-07-10T16:58:53Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7mqMxYN2TCm5aj9QooiDgH-1920-80.jpg",
-      "excerpt": "SK hynix and TetraMem are building a memristor-based in-memory-compute SoC aimed at slashing power draw for on-device edge-AI inference in lightweight models on future gadgets.",
-      "rationale": "Novel in-memory-compute silicon aimed squarely at low-power edge-AI inference - a distinct hardware angle from the NPU race."
+      "url": "https://www.androidauthority.com/gemini-for-home-visual-improvements-3685543/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-08T16:34:00-04:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-nest-hub-google-home-speaker-hero-1-scaled.jpg",
+      "excerpt": "Google Home is rolling out visual enhancements for weather and sports on smart displays, and Gemini's voice assistant now handles back-to-back commands more reliably without interrupting for voice verification.",
+      "rationale": "Concrete shipping update to ambient AI in the home - Gemini handling chained commands more fluidly is an on-bias signal of how assistant UX is maturing on smart displays."
     },
     {
       "rank": 3,
-      "tool": "Dreame",
-      "category": "gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "url": "https://www.androidauthority.com/dreame-x60-max-ultra-review-3684554/",
-      "source": "Android Authority",
-      "published_iso": "2026-07-11T11:15:36+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Dreame-X60-Max-Ultra-tile.jpg",
-      "excerpt": "Dreame's flagship robot vacuum uses dual AI cameras and proactive illumination to detect 280 types of obstacles, showing how far on-device AI vision has come in home robots.",
-      "rationale": "Hands-on data point on how far on-device AI vision has come in home robots; a distinct product from the earlier Roborock review."
-    },
-    {
-      "rank": 4,
-      "tool": "Smart Glasses",
+      "tool": "Nothing",
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/ive-traveled-over-50-000-miles-testing-smart-glasses-in-2026-here-are-my-3-favorites-that-have-launched-this-year-so-far",
-      "source": "Tom's Guide",
-      "published_iso": "2026-07-07T09:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/G3Xc3jkMkkFvQMKqYnBi4k-1992-80.jpg",
-      "excerpt": "After a year of hands-on testing, Tom's Guide picks its three favorite AI smart glasses launched in 2026 so far, spanning display and audio-first AI eyewear designs.",
-      "rationale": "Grounded field comparison of shipping AI eyewear - useful orientation on the display-vs-audio-first split for anyone eyeing smart glasses."
-    },
-    {
-      "rank": 5,
-      "tool": "Apple",
-      "category": "gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "url": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
-      "source": "9to5Mac",
-      "published_iso": "2026-07-06T19:27:07+00:00",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Apple has added a new privacy popup for Apple Intelligence features that offload processing to Google Cloud, a signal of its Gemini-assisted Siri overhaul coming to iPhones.",
-      "rationale": "A concrete UI change exposing which Apple Intelligence tasks leave the device for Google's cloud - a real privacy signal for the Gemini-Siri shift, distinct from the earlier Siri hands-on."
+      "url": "https://www.engadget.com/2202348/nothing-announces-ear-3a-sub-dollar100-anc-earbuds/",
+      "source": "Engadget",
+      "published_iso": "2026-07-07T06:30:00-04:00",
+      "og_image": "https://www.engadget.com/img/gallery/nothing-announces-ear-3a-sub-100-anc-earbuds/intro-1782482143.jpg",
+      "excerpt": "Nothing's shipping $99 Ear (3a) earbuds add an on-device Audio Snapshot recorder - pinch to capture up to 60 seconds - with AI transcription, summaries and speaker ID in the Nothing X app, plus ChatGPT integration.",
+      "rationale": "New shipping product that bakes on-device capture, AI transcription/summaries and ChatGPT into $99 earbuds - a concrete, affordable example of ambient AI moving into everyday wearables."
     }
   ],
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-18 + days 2026-07-13 through 07-17).",
+    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-19 + days 2026-07-14 through 07-18).",
     "dropped_as_published_dup": [
       {
         "url": "https://www.digitaltrends.com/wearables/this-smart-ring-makes-a-blood-pressure-promise-apple-and-oura-still-wont/",
-        "reason": "Content dup of published card 'signal-ring' (TechRadar, 2026-07-17) - same blood-pressure-only smart ring that Apple/Oura 'won't' commit to; different outlet, same product/event."
+        "reason": "Content dup of published card 'signal-ring' (TechRadar, 07-17) - same cuffless blood-pressure-focused smart ring pitched against Apple/Oura; different outlet, same product/story."
       },
       {
         "url": "https://www.androidauthority.com/samsung-galaxy-unpacked-july-2026-what-to-expect-3688548/",
-        "reason": "Same July 22 Samsung Unpacked / foldables story already covered across 'galaxy-z8' render leak (07-15) and today's Galaxy Watch/Buds cards - a preview of the same event."
+        "reason": "Same July 22 Galaxy Unpacked event already covered via 'galaxy-z8' render leak (07-15) plus the Galaxy Watch/Buds cards (07-18) - a preview of an already-published event cluster."
       },
       {
         "url": "https://9to5google.com/2026/07/07/samsung-galaxy-z-fold-8-launch-event-date-confirmed/",
-        "reason": "Same Samsung July 22 Unpacked event; date-confirmation beat of the already-covered foldables story. Within-pool dup of the Android Authority Unpacked preview."
+        "reason": "Same July 22 Galaxy Unpacked event; date-confirmation beat of the already-covered foldables story and a within-pool dup of the Android Authority Unpacked preview."
+      },
+      {
+        "url": "https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660",
+        "reason": "Same story as published 'openai-speaker' (Engadget, 07-16) - OpenAI's Jony Ive screenless AI-companion smart speaker. Also the OpenAI-hardware overlap: at most one OpenAI-device card kept (Codex Micro)."
+      },
+      {
+        "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
+        "reason": "Same story as pick rank 1 (Gizmodo) - OpenAI Codex Micro keypad. Within-pool consolidation; kept the single strongest article."
       }
     ],
-    "backfill": "5 distinct, never-before-published stories selected after dropping 3 published/within-pool dups. Pool had 8 fresh candidates; backfilled fully to 5 without padding.",
-    "diversity": "4 distinct outlets (Tom's Hardware x2, Android Authority, Tom's Guide, 9to5Mac) - max 2 per outlet. Single-category section, so device/topic classes were spread instead: PC NPU silicon / edge-AI memristor SoC / AI-vision home robot / smart glasses / on-device-vs-cloud AI. Distinct accents assigned within the shared gadgets category. AI x hardware hooks led the ranking per brief."
+    "backfill": "3 distinct never-before-published stories remain after dedup: OpenAI Codex Micro keypad, Gemini for Home, and Nothing Ear (3a) - all confirmed absent from the gadgets history. Of the 8 candidates, 3 duplicate already-published gadgets stories (blood-pressure ring = signal-ring, OpenAI speaker = openai-speaker, and the July 22 Unpacked event x2) and 1 more consolidates the second Codex Micro article. Fresh pool is exhausted at 3, which meets the section floor; not padded.",
+    "diversity": "3 distinct outlets (Gizmodo, Android Authority, Engadget) - satisfies >=3 outlets and the max-2-per-outlet cap. Single-category section; the three shared-gadgets picks carry distinct accents (#ff5a4d, #0070f3, #7928ca). At most one OpenAI-device card kept."
   }
 }

@@ -2,10 +2,25 @@
   "date": "2026-07-19",
   "section": "science",
   "media": [
-    { "id": "platon", "type": "image", "src": "pipeline/media/platon.jpg" },
-    { "id": "paper-mill", "type": "image", "src": "pipeline/media/paper-mill.jpg" },
-    { "id": "novotags", "type": "image", "src": "pipeline/media/novotags.jpg" },
-    { "id": "ai-res", "type": "image", "src": "pipeline/media/ai-res.jpg" },
-    { "id": "lab-animal-ai", "type": "image", "src": "pipeline/media/lab-animal-ai.jpg" }
+    {
+      "id": "chathea",
+      "type": "image",
+      "src": "pipeline/media/chathea.jpg"
+    },
+    {
+      "id": "k2-18b-seti",
+      "type": "image",
+      "src": "pipeline/media/k2-18b-seti.jpg"
+    },
+    {
+      "id": "scent-ai",
+      "type": "image",
+      "src": "pipeline/media/scent-ai.jpg"
+    },
+    {
+      "id": "denning-critique",
+      "type": "image",
+      "src": "pipeline/media/denning-critique.jpg"
+    }
   ]
 }

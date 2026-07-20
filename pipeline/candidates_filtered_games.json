@@ -1,40 +1,49 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-07-18T23:00:29Z",
+  "now_iso": "2026-07-19T23:00:00Z",
   "items": [
     {
-      "url": "https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336",
-      "title": "People Are Quickly Cloning Indie Games Using AI Tools",
-      "source": "Kotaku",
+      "url": "https://80.lv/articles/jesse-miettinen-s-the-last-of-us-like-generator-finally-launches",
+      "title": "Jesse Miettinen Released Damage Control, Powerful New Blender Toolkit",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-07-15T22:15:12Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg",
-      "excerpt": "Solo developers are using AI coding tools to spin up playable clones of indie games within days, sometimes before the original even ships, and push them to storefronts first. It is a concrete workflow shift that is reshaping how small studios share and protect in-progress work."
+      "published_iso": "2026-07-14T14:26:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
+      "excerpt": "Jesse Miettinen has launched Damage Control, a Blender toolkit of interconnected generative tools (Smudge Mask Generator, Scatter Tools, Generative Tools, plus shaders and Mega Presets) to help artists scatter, smudge, and procedurally build more lifelike game environments faster."
     },
     {
-      "url": "https://www.gamesradar.com/games/devs-dont-buy-steam-disclosure-claiming-gen-ai-was-a-necessity-im-literally-unemployed-and-i-still-make-all-of-my-assets-by-hand/",
-      "title": "Devs don't buy Steam disclosure claiming gen AI was a necessity: \"I'm literally unemployed and I still make all of my assets by hand\"",
+      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+      "title": "\"It creates lesser games\": Indie game studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-09T17:11:01Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg",
-      "excerpt": "A dark-fantasy idle ARPG's Steam disclosure argued generative AI was a budget necessity, drawing sharp pushback from developers who say they still hand-make assets. The dispute is a live case study in how gen-AI reliance is being justified and contested inside real production pipelines."
+      "published_iso": "2026-07-19T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+      "excerpt": "A reporter interviews 25 indie studios about why they avoid generative AI despite it being pitched as an indie accelerator, surfacing how AI actually fits (or fails to fit) into working game-design craft and production workflows."
     },
     {
-      "url": "https://www.gamespot.com/articles/in-an-era-of-ai-slop-meccha-chameleon-embraces-human-crafted-chaos/",
-      "title": "In An Era Of AI Slop, Meccha Chameleon Embraces Human-Crafted Chaos",
-      "source": "GameSpot",
+      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
+      "title": "Half of all games released on Steam will use AI by 2028, study predicts: \"AI lowers the barrier not just to make a game but to make several\"",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-17T20:26:53Z",
-      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/07/meccha-3.png",
-      "excerpt": "Breakout hit Meccha Chameleon is being positioned as a deliberately human-crafted counterpoint to the wave of AI-generated 'slop' and copycats flooding storefronts. It is a craft-and-design argument about handmade chaos as a competitive differentiator against generative pipelines."
+      "published_iso": "2026-07-16T21:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
+      "excerpt": "A study of ~53,600 Steam releases projects generative AI will feature in roughly half of all Steam games by 2028, arguing AI lowers the barrier not just to make a game but to make several — a shift reshaping how small teams produce and ship content."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wQoa1j4Rgss",
+      "title": "How to Build Scalable MetaHuman Crowds in Unreal Engine | Unreal Fest Chicago 2026",
+      "source": "Unreal Engine",
+      "category": "social",
+      "published_iso": "2026-07-18T14:00:26Z",
+      "og_image": "https://i.ytimg.com/vi/wQoa1j4Rgss/maxresdefault.jpg",
+      "excerpt": "An Unreal Fest Chicago 2026 session on building scalable MetaHuman crowds in Unreal Engine with Mass and Nanite — a production pipeline for populating game worlds with AI-authored digital-human characters at scale."
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 3,
+    "dropped": 1,
+    "kept": 4,
     "against_days": 5
   }
 }
