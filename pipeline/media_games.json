@@ -1,21 +1,22 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "games",
   "media": [
     {
-      "id": "meccha-chameleon",
+      "id": "damagecontrol",
       "type": "image",
-      "src": "pipeline/media/meccha-chameleon.png"
+      "src": "pipeline/media/damagecontrol.jpg"
     },
     {
-      "id": "ai-clone",
+      "id": "indiedevs25",
       "type": "image",
-      "src": "pipeline/media/ai-clone.jpg"
+      "src": "pipeline/media/indiedevs25.jpg"
     },
     {
-      "id": "steam-genai",
-      "type": "image",
-      "src": "pipeline/media/steam-genai.jpg"
+      "id": "metahumancrowds",
+      "type": "video",
+      "src": "pipeline/media/metahumancrowds.mp4",
+      "poster": "pipeline/media/metahumancrowds.jpg"
     }
   ]
 }

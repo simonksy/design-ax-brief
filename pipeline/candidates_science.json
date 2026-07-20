@@ -1,64 +1,80 @@
 {
   "date": "2026-07-19",
   "section": "science",
-  "now_iso": "2026-07-18T23:00:29Z",
+  "now_iso": "2026-07-19T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
-      "source": "ScienceDaily",
+      "url": "https://phys.org/news/2026-07-ai-reveals-hidden-san-andreas.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-07T00:00:00Z",
-      "og_image": "https://sciencedaily.com/images/1920/kagome-lattice-superconductivity.webp",
-      "excerpt": "An international team combined machine learning with quantum physics to identify two new superconductors, YRu3B2 and LuRu3B2, and built a much faster pipeline to screen candidate materials. The approach narrows a near-limitless combinatorial space toward the long-sought goal of a room-temperature superconductor."
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/san-andreas-fault-hidd.jpg",
+      "excerpt": "GFZ Helmholtz Centre researchers used a machine-learning approach to detect previously hidden slow-slip events on California's San Andreas Fault. These silent creep movements were found to systematically precede bursts of low-frequency earthquakes, a new window on how stress builds toward quakes."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
-      "excerpt": "ETH Zurich researchers built PLATON, a particle detector that uses light-field camera optics and AI to reconstruct invisible particle tracks in 3D inside a single unsegmented block of scintillator. Simulations suggest it could match or surpass today's best detectors while being far simpler to scale."
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
-      "source": "ScienceDaily",
+      "url": "https://www.genengnews.com/topics/genome-editing/ai-designed-synthetic-crispr-like-nucleases-show-activity-in-cells/",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
       "category": "science",
       "published_iso": "2026-07-16T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp",
-      "excerpt": "A BERT-based machine-learning classifier screened 2.6 million cancer papers and flagged more than 250,000 with writing patterns resembling fraudulent 'paper mill' output, published in The BMJ. Suspect papers rose from about 1% in the early 2000s to more than 16% in 2022, exposing a large research-integrity problem."
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2023/06/GettyImages-1396008671.jpg",
+      "excerpt": "Using the ESM inverse-folding protein-design model, researchers generated fully synthetic RNA-guided nucleases (SynTnpBs) that match or exceed the gene-editing activity of their natural TnpB reference in human cells. The Science paper shows AI can expand the CRISPR toolbox with entirely designed enzymes."
     },
     {
-      "url": "https://phys.org/news/2026-07-ai-protein-sequences-text-reveal.html",
+      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
+      "excerpt": "As AI systems increasingly produce correct physics results whose reasoning researchers cannot explain, this feature examines the interpretability crisis in AI-driven discovery. It probes whether a black-box model that predicts nature without yielding understanding actually counts as scientific knowledge."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011748.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-12T00:00:00Z",
+      "og_image": "/images/1920/exoplanet-k2-18b.webp",
+      "excerpt": "Astronomers combined VLA and MeerKAT radio observations of Hycean world K2-18b with an automated machine-learning pipeline trained to separate human interference from genuine narrowband signals across millions of candidates. No technosignature was found, but the ML approach makes future SETI searches far faster."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-aromatic-scent-compounds.html",
       "source": "Phys.org",
       "category": "science",
       "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-translates-p.jpg",
-      "excerpt": "Technion researchers built BetaDescribe, an AI system that translates raw protein sequences into natural-language descriptions of their likely function. The tool aims to reveal the roles of uncharacterized proteins and accelerate drug discovery and biotechnology."
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-21.jpg",
+      "excerpt": "National University of Singapore scientists trained a machine-learning model on 2,391 scent molecules from 991 aromatic plants, reaching 96.1% accuracy in identifying sleep-promoting compounds. The work shows AI mining plant chemistry to surface candidate bioactive fragrances for research."
     },
     {
-      "url": "https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/ai-decodes-water.webp",
+      "excerpt": "University of Osaka researchers trained a neural network on molecular-dynamics simulations to objectively evaluate 16 competing structural descriptors of supercooled water, then used explainable AI to identify which molecular features matter. The framework helps adjudicate water's long-debated two-liquid-state mystery."
+    },
+    {
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/nobel-prize-winning-physicist-and-team-use-claude-ai-to-solve-decades-old-math-puzzle",
+      "source": "Live Science",
+      "category": "science",
+      "published_iso": "2026-07-16T19:16:53Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/psftQRQ69aMQmthVeb4fnT-2000-80.jpg",
+      "excerpt": "Nobel laureate Giorgio Parisi and Francesco Zamponi used Anthropic's Claude to finally prove a decade-old mathematical relation (a+b=1) in the physics of jamming, prompting the model roughly 40 times to reach a publishable derivation. A rare case of generative AI contributing a genuine theoretical-physics result."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-large-language-discovery-catalysts-energy.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-06T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/out-of-order-using-ai.jpg",
-      "excerpt": "University of Osaka researchers trained a neural network on molecular-dynamics simulations to evaluate 16 competing structural descriptors of supercooled water. The AI framework pinpointed the most effective ways to distinguish water's two proposed liquid states, one of the field's stubborn mysteries."
+      "published_iso": "2026-07-08T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/large-language-model-g-4.jpg",
+      "excerpt": "Tohoku University researchers built ChatHEA, a domain-specific large language model that ran the full discovery workflow, from literature mining and element-combination design to experimental planning and mechanistic analysis, to identify high-entropy alloy catalysts for fuel cells. The AI-guided high-throughput loop surfaced strong oxygen-reduction catalysts beyond human intuition."
     },
     {
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Technology Review",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "source": "ScienceDaily",
       "category": "science",
       "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg",
-      "excerpt": "Anthropic describes a hidden internal layer it calls 'J-space' containing words that steer a model's reasoning without ever appearing in its output, offering a new window into how LLMs think. The piece weighs what this interpretability finding does and doesn't actually demonstrate about machine cognition."
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-07-10T00:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-7.00.17-AM.png",
-      "excerpt": "Google researchers built a reinforcement-learning system that continuously learns from quantum error-correction data to keep a processor calibrated while it computes. On the Willow chip it cut logical error rates about 20% beyond conventional calibration and made performance 3.5x more stable under hardware drift."
+      "og_image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+      "excerpt": "Computer scientist Peter Denning argues that mainstream AI has inherited a flawed assumption from Turing's 1950 paper, contending that machines cannot encode the tacit, embodied knowledge, like common sense and practical skill, that underlies human cognition. The critique reframes how cognitive science should evaluate claims of human-level machine understanding."
     }
   ]
 }

@@ -1,64 +1,77 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "cards": [
     {
-      "id": "devocean",
+      "id": "google-ai-mode-ytmusic",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트가 곁에서 함께 패치하는\n145종 모듈러 신스 데브오션",
-      "body": "AI 에이전트 마야는 결과를 한 번에 뽑지 않고 사용자와 나란히 145종 모듈러 신스를 함께 패치한다.",
-      "mini_headline": "AI가 함께 짜는 모듈러 신스",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
+      "headline": "구글 AI 모드가 유튜브 뮤직과 이어져\n대화만으로 플레이리스트를 짠다",
+      "body": "구글 검색의 AI 모드가 유튜브 뮤직과 이어졌다. 프롬프트 한 줄로 플레이리스트를 만들고 대화로 결을 맞춘다.",
+      "mini_headline": "대화로 짜는 유튜브 뮤직",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/DevOcean-Modular-Screenshot.png" },
-          { "t": "p", "x": "Ocean Swift가 소프트웨어 신시사이저이자 사운드 디자인 환경인 DevOcean Modular를 내놨다. 모듈 145종을 담은 큰 규모의 모듈러 랙이다." },
-          { "t": "p", "x": "가장 눈에 띄는 건 모듈러 AI 에이전트 MaYa다. 결과 하나를 자동으로 뽑아 던져주는 방식이 아니라, 사용자 곁에서 함께 모듈러 셋업을 짜고 케이블을 물려가며 패치를 완성해 나간다." },
-          { "t": "p", "x": "덕분에 사운드 디자이너는 방대한 모듈을 혼자 헤매는 대신, 만들고 싶은 소리를 두고 에이전트와 주고받으며 패치를 다듬을 수 있다. 협업하듯 패치를 쌓아가는 흐름이 이 도구의 핵심이다." }
+          { "t": "img", "src": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/intro-1784219278.jpg", "cap": "새로워진 구글 AI 모드 기능" },
+          { "t": "p", "x": "구글이 디지털 경험 전반에 AI를 심으려는 움직임에 속도를 냈다. 이번 주 AI 모드 검색에 Canva, YouTube Music, Instacart 연동이 새로 붙었고, 미국에서 순차 배포된다." },
+          { "t": "p", "x": "음악 쪽 핵심은 YouTube Music 기능이다. 이용자가 자연어 프롬프트로 플레이리스트를 만들어 달라고 요청하면 된다. 원하는 장르와 분위기를 일러 주면 Gemini가 YouTube Music에 연결해 추천 플레이리스트를 채팅 화면에 바로 띄우고, 그대로 앱에서 재생하면 된다." },
+          { "t": "p", "x": "Canva 연동은 AI 모드에서 디자인 템플릿을 만들어 준다. 구글은 파티 전단을 예로 들었는데, 캘린더 일정 정보를 끌어와 상황에 맞는 디자인을 제안한다." },
+          { "t": "p", "x": "Instacart 기능은 앱 안에서 식료품과 재료를 장바구니에 담게 해 준다. 저장해 둔 바비큐 같은 캘린더 일정을 참고해 장보기 목록을 짜 준다." },
+          { "t": "p", "x": "구글은 연동 파트너를 더 늘려 가고 있다고 했다. 연결된 앱의 정보를 가져오는 Personal Intelligence 기능은 올해 초 나온 뒤 2026년 내내 범위를 넓혀 왔다." },
+          { "t": "p", "x": "최근 AI 모드에는 생생한 후기를 위한 Reddit 연동, 그리고 영상·이미지·파일·크롬 탭까지 넣어 복잡한 질문을 던지도록 다시 설계한 지능형 검색창도 더해졌다." }
         ]
       }
     },
     {
-      "id": "suno-61k",
+      "id": "almudio-3d-panner",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "6만 1천 곡 음원을 둘러싼 다툼이\nAI 음악 라이선스의 미래를 가른다",
-      "body": "UMG·소니의 음원 6만 1천 곡 추가에 수노가 맞서면서, 이 공정 이용 판단이 AI 음악 라이선스의 선례가 된다.",
-      "mini_headline": "AI 음악 라이선스 선례",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/why-a-fight-over-61000-recordings-could-shape-the-future-of-ai-music-licensing/",
-      "accent": "#3b6bff",
+      "headline": "헤드폰 믹싱용 무료 바이노럴 패너\n알무디오 3D 패너 공개",
+      "body": "알무디오가 헤드폰 믹싱과 VR·게임 오디오를 겨냥한 무료 바이노럴 패너 '3D 패너'를 얼리 액세스로 내놨다.",
+      "mini_headline": "무료 바이노럴 패너",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/07/10/almudio-3d-panner/",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "p", "x": "Suno가 UMG와 Sony의 요구에 맞섰다. 두 레이블은 진행 중인 저작권 소송에 음원 6만 1천 곡을 새로 더하려 했고, Suno는 이 시도를 막아 달라고 반박했다." },
-          { "t": "p", "x": "쟁점은 공정 이용(fair use)이다. 학습을 위한 복제가 어디까지 허용되는지에 대한 이번 판단이, AI 음악 도구를 합법적으로 학습시키고 라이선스하는 방식을 정하는 선례가 될 수 있다." },
-          { "t": "p", "x": "그래서 이 다툼은 두 회사 사이의 일로 그치지 않는다. 어떤 음원을, 어떤 조건으로 AI 학습에 쓸 수 있는지를 가르는 기준선이 여기서 그어질 참이다." }
+          { "t": "img", "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/3dpanner-728x364.jpg", "cap": "알무디오 3D 패너" },
+          { "t": "p", "x": "알무디오가 3D 패너를 내놨다. macOS와 Windows용 무료 얼리 액세스 공간 음향 플러그인이다. 개발자 Almog가 BIMM University Manchester 졸업 작품으로 일곱 달에 걸쳐 만들었고, 강사와 학생들의 베타 테스트를 거치며 다듬었다." },
+          { "t": "p", "x": "AI를 두고 개발자는 코딩 과정의 특정 단계에서 AI를 썼다고 밝혔다. 다만 DSP 구조와 HRTF 구현, UX, 파라미터 설계는 몇 달에 걸쳐 다듬은 자신의 결정이었다고 못 박았다. 뚝딱 뽑아낸 결과물이 아니라는 얘기다." },
+          { "t": "p", "x": "이 플러그인은 바이노럴/HRTF 처리로 모노나 스테레오 소스를 듣는 사람 주위의 3D 공간에 배치한다. 헤드폰 믹싱, ASMR, 사운드 디자인, 포스트 프로덕션, 게임 오디오, VR을 겨냥한다." },
+          { "t": "p", "x": "기능도 촘촘하다. 머리 주위로 구를 끌어 옮기는 XY 패드, 20명에게서 측정한 HRTF를 쓰고 SADIE 측정 데이터베이스까지 여는 HRTF 모드, 좌우로 곧장 놓는 Hard Pan 모드가 있다. 주파수를 최대 네 개 대역으로 나눠 각각 리미터를 걸 수 있고, 나선·스프링·X·진자·궤도·원·무한대·랜덤 여덟 가지 LFO 움직임에, Earth·Moon·Mars·Jupiter·Sun의 중력으로 진자 속도를 정하는 기능까지 들어갔다." },
+          { "t": "p", "x": "설치 용량은 약 230 MB다. 이메일 인증을 거친 무료 알무디오 계정이 있어야 하고, 라이선스는 컴퓨터 두 대에서 쓰며 최초 한 번 인터넷 활성화가 필요하다. 포맷은 VST3, AU, 스탠드얼론을 지원한다. macOS는 애플 서명을 마쳤고 Windows 서명과 AAX 지원은 아직 작업 중이다." },
+          { "t": "p", "x": "almudio.com/3d-panner에서 무료로 받는다." }
         ]
       }
     },
     {
-      "id": "josh-fawaz",
+      "id": "bbc-ai-transparency",
       "tool": "Music",
       "eyebrow": "AI NEWS",
-      "headline": "논란 끝에 AI 크레딧을 붙인\n조시 파와즈의 'Like a Prayer'",
-      "body": "생성형 AI 사용이 조사로 드러나자, 조시 파와즈가 3800만 스트리밍 커버곡에 AI 보컬·드럼 크레딧을 더했다.",
-      "mini_headline": "AI 크레딧 붙인 커버곡",
-      "source": "Rolling Stone",
-      "url": "https://au.rollingstone.com/music/music-news/josh-fawaz-adds-ai-credits-like-a-prayer-spotify-98573/",
+      "headline": "인간의 창작을 우선하되\nBBC, AI 사용을 밝히라 요구한다",
+      "body": "BBC는 '의미 있는 인간 창작'을 우선하되, 음악을 제출할 때 AI 도구를 어떻게 썼는지 밝혀 달라고 요구한다.",
+      "mini_headline": "BBC의 AI 표기 요구",
+      "source": "Complete Music Update",
+      "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "호주 DJ 조시 파와즈가 마돈나 'Like a Prayer' 커버에 AI 크레딧을 새로 달았다. 스트리밍 3800만 회를 넘긴 곡이다." },
-          { "t": "p", "x": "발단은 ABC의 취재였다. 조사 과정에서 이 곡에 생성형 AI가 폭넓게 쓰였다는 사실이 드러났고, 뒤이어 거센 비판이 쏟아졌다." },
-          { "t": "p", "x": "논란이 커지자 파와즈는 Spotify에 올린 곡에 AI 보컬과 AI 드럼 크레딧을 덧붙였다. AI로 만든 히트곡을 어떻게 표기할지, 그 관행을 정면으로 비추는 사례다." }
+          { "t": "img", "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/BBC-AI.png", "cap": "BBC와 음악 AI" },
+          { "t": "p", "x": "BBC 음악 총괄 로나 클라크가 음악 AI 방침을 내놨다. BBC 라디오 채널과 여러 플랫폼은 언제나 '의미 있는 인간 창작의 결과물'인 음악을 우선한다는 것이다. 그렇다고 창작자가 AI 도구를 못 쓴다는 뜻은 아니다." },
+          { "t": "p", "x": "다만 BBC는 자신들이 틀고 밀어 주는 음악에 AI가 어떻게 쓰였는지 투명하게 밝히고 싶어 한다. 그래서 아티스트와 레이블은 음악을 낼 때 AI 도구 사용을 밝혀야 한다. 적어도 단기적으로는 쉽지 않은 일이다. 음악 창작에서 AI 사용을 어떻게 식별하고 신고하고 표기할지, 업계 스스로도 아직 정하지 못했기 때문이다." },
+          { "t": "p", "x": "클라크는 BBC가 '기존 저작물을 침해하는 AI 생성 음악을 알면서 방송하는 일은 없을 것'이라고도 했다. 이 역시 지키기 쉽지 않은 약속이다. 결과물에서 기존 작품을 대놓고 침해한 음악만 말하는지, 아니면 라이선스 없는 음악으로 학습한 AI 모델이 만들거나 손댄 음악까지 포함하는지에 따라 얘기가 달라진다." },
+          { "t": "p", "x": "후자라면 문제가 커진다. 대부분의 AI 기업은 어떤 기존 콘텐츠로 모델을 학습시켰는지 매우 모호하게 둔다. 라이선스 콘텐츠만으로 학습한 모델을 인증하는 에드 뉴턴 렉스의 Fairly Trained 같은 시도가 어느 정도 도움은 되지만, 지금으로선 창작자들이 쓰는 AI 도구 상당수가 라이선스 없는 작품으로 학습됐을 공산이 크다." },
+          { "t": "p", "x": "공영방송인 BBC는 AI 방침을 두고 늘 더 깐깐한 눈총을 받는다. 지난해에는 'BBC Introducing' 웨스트 미들랜즈 편이 이달의 아티스트 코너에 그저 그런 AI 생성 트랙을 넣었다가 도마에 올랐다. 방송에서 음악 AI 도구를 얘깃거리로 삼으려고 그런 것처럼 보였는데도 말이다." },
+          { "t": "p", "x": "어제 올린 블로그 글에서 클라크는 AI 도구를 쓰는 아티스트도 편성에서 고려하겠다고 했다. 다만 '이 도구들은 인간의 창작을 뒷받침하는 데 쓰여야 하며, 창작 아이디어 자체를 발전시키고 다듬고 표현하는 사람의 몫을 대신해선 안 된다'고 선을 그었다. 그저 프롬프트를 넣고 생성하고 고르거나 AI 결과물을 살짝 손보는 정도로는 의미 있는 인간 창작으로 보기 어렵다는 것이다." },
+          { "t": "p", "x": "이 투명성 방침은 청취자 조사에서 나왔다. 청취자는 뮤지션과 인간 창작에 마음을 쓰고, 자신이 듣는 음악에 AI가 얼마나 관여했는지 알고 싶어 한다는 것이다. 그래서 BBC는 작품을 제출하는 아티스트와 파트너에게 AI를 썼는지, 어떻게 썼는지 밝히도록 요구하기로 했다." },
+          { "t": "p", "x": "이는 음악 산업 안에서 점점 뜨거워지는 논쟁과 맞닿아 있다. AI 음악을 자동으로 가려내는 도구가 얼마나 쓸모 있는지를 두고 의견이 갈리고, 완전히 AI가 만든 트랙이 아니라 AI가 거든 음악이면 더 그렇다. 아직 업계 전반에 AI 사용 자진 신고 규칙이 없고, 이제 그 규칙이 시급해지고 있다." }
         ]
       }
     }

@@ -1,58 +1,28 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "movies",
   "selection_mode": "agent",
-  "picks": [
-    {
-      "url": "https://nofilmschool.com/martini-ai-film-set",
-      "source": "No Film School",
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "headline": "Meet Martini: A Film Set for AI Video That Aims to Help Filmmakers Streamline Their Shots",
-      "rationale": "Highest actionability in the fresh pool: a new, shipping web platform that replaces prompt roulette with a shared 2D/3D pre-production 'film set' for AI video, with a free indie tier that lowers the barrier for small crews tomorrow.",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-      "excerpt": "Martini is a collaborative, web-based platform pitched as a 'film set' for AI video: filmmakers upload their own sets and reference images or generate them, then compose shots in 2D or 3D environments to escape prompt roulette and give crews a shared pre-production hub. Out now with a free indie tier and paid plans from $15/month."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=GsZmUTLW4wA",
-      "source": "Curious Refuge",
-      "tool": "Social",
-      "category": "social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "headline": "NEW AI Film Tools: The Biggest Updates for Artists",
-      "rationale": "Credible practitioner roundup from a listed movies-section channel, surfacing the week's newest AI motion-control workflows and tool updates; lead with the video block. Adds an outlet and format distinct from the No Film School pick.",
-      "published_iso": "2026-07-17T21:42:20Z",
-      "og_image": "https://i.ytimg.com/vi/GsZmUTLW4wA/maxresdefault.jpg",
-      "excerpt": "Curious Refuge rounds up the week's biggest AI filmmaking releases for artists, with a focus on new AI motion-control workflows and tool updates that change how creators direct and refine AI-generated shots."
-    }
-  ],
+  "picks": [],
   "dedup_report": {
-    "candidates_evaluated": 4,
-    "kept": 2,
+    "candidates_evaluated": 2,
+    "kept": 0,
     "dropped": 2,
     "floor": 3,
     "shortfall": true,
-    "shortfall_reason": "Only 2 of 4 candidates are genuinely fresh, never-before-seen stories. The other 2 are already-published stories (earliest-wins duplicates); re-using either to hit the floor of 3 would violate the never-reappear rule. Not padded.",
+    "shortfall_reason": "Movies 14-day window is genuinely exhausted (orchestrator delivered only 2 clean candidates after two expansion passes). Re-applying URL+CONTENT dedup, BOTH are earliest-wins duplicates of already-published movies stories. Zero never-before-seen items remain. Not padded, and no dropped story re-used.",
     "dropped_as_duplicates": [
       {
-        "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
-        "reason": "Earliest-wins duplicate. This exact No Film School URL was already published in sections.movies (Beeble SwitchHDR, 2026-07-08 per orchestrator drop list and documented by prior curator runs). The 07-08 card has aged off the visible 5-day window, which is why the upstream filter re-surfaced it, but earliest-wins is absolute -> DROP."
+        "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
+        "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
+        "reason": "Content duplicate (earliest-wins). Same Beeble SwitchHDR release/event already published in sections.movies on 2026-07-08 (No Film School URL nofilmschool.com/beeble-switchhdr-ai-model), as documented and dropped by the prior curator run in selected_movies.json on 2026-07-19. This fxguide article covers the identical release via a different outlet -> 'same event covered via a different outlet' rule -> DROP. The 07-08 card has aged off the visible 5-day window, which is why the upstream filter re-surfaced it, but earliest-wins is absolute."
       },
       {
         "url": "https://www.screendaily.com/news/tilly-norwood-creator-developing-feature-film-misaligned-starring-the-ai-actor/5218374.article",
-        "reason": "Content duplicate. Same event (Particle 6 developing the Tilly Norwood feature 'Misaligned') already published in sections.movies as card `tilly-norwood-misaligned` on 2026-07-15 (Engadget, engadget.com/2208729/...). Different outlet/URL, same story -> DROP."
+        "title": "Tilly Norwood creator developing feature film 'Misaligned' starring the AI actor",
+        "reason": "Content duplicate. Same event (Particle 6 developing the Tilly Norwood feature 'Misaligned') already published in sections.movies as card `tilly-norwood-misaligned` on 2026-07-15 (Engadget, engadget.com/2208729/...). Both cite Variety. Different outlet/URL, same story -> DROP."
       }
     ],
-    "verified_not_duplicate": [
-      "Martini (nofilmschool.com/martini-ai-film-set) — not present anywhere in sections.movies history.",
-      "Curious Refuge (youtube GsZmUTLW4wA) — not present in sections.movies history; distinct from prior YouTube movie cards (meta-muse, serpent-trailer, meyer-top5).",
-      "Orchestrator-flagged 'possibly fresh' items are in fact already published and would have been dropped if present in the pool: fxguide Foundry SmartRoto (sections.movies card `smartroto`, 2026-07-17) and the AWN NVIDIA neural-rendering/world-models SIGGRAPH keynote (card `nvidia-neural`, 2026-07-14). Neither was in this candidate pool."
-    ],
-    "diversity": "Single-category section (movies). Final 2 span 2 distinct outlets (No Film School, YouTube/Curious Refuge), 1 card each, 2 distinct categories (Movies + Social) with distinct palette accents (#0070f3, #ff2d55). No URL collisions. The <=2-per-outlet guard is met; the >=3-distinct-outlets aim is limited only by the small fresh pool.",
-    "baseline": "news_data.json -> sections.movies: today 2026-07-18 + days 2026-07-17 (incl. smartroto, automask), 2026-07-16, 2026-07-15 (odysseus-fall, ssff-asia-pitch, tilly-norwood-misaligned), 2026-07-14 (nvidia-neural, meyer-top5), 2026-07-13 (blender-overgrown, meta-muse, serpent-trailer); plus earliest-wins carry-over of Beeble SwitchHDR (2026-07-08)."
+    "baseline": "news_data.json -> sections.movies: today 2026-07-19 (martini, curious-refuge-ai-tools) + days 2026-07-18, 2026-07-17 (smartroto), 2026-07-16, 2026-07-15 (odysseus-fall, ssff-asia-pitch, tilly-norwood-misaligned), 2026-07-14 (nvidia-neural, meyer-top5); plus earliest-wins carry-over of Beeble SwitchHDR published 2026-07-08 (documented in the prior curator run).",
+    "diversity": "N/A — no picks. Single-category section; pool exhausted."
   }
 }

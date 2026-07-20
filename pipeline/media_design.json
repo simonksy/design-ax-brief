@@ -1,11 +1,7 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "design",
   "media": [
-    { "id": "zephyr9", "type": "image", "src": "pipeline/media/zephyr9.jpg" },
-    { "id": "hallmark", "type": "image", "src": "pipeline/media/hallmark.png" },
-    { "id": "dscontract", "type": "image", "src": "pipeline/media/dscontract.png" },
-    { "id": "lightcraft", "type": "video", "src": "pipeline/media/lightcraft.mp4", "poster": "pipeline/media/lightcraft.jpg" },
-    { "id": "aibluff", "type": "image", "src": "pipeline/media/aibluff.jpg" }
+    { "id": "meta-regret", "type": "image", "src": "pipeline/media/meta-regret.jpg" }
   ]
 }

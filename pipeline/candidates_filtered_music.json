@@ -1,85 +1,40 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "music",
   "window_hours": 336,
-  "now_iso": "2026-07-18T23:00:29Z",
+  "now_iso": "2026-07-19T23:00:00Z",
   "items": [
     {
-      "url": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
-      "title": "zplane launches PEEL STEMS 2 with improved real-time stem separation",
+      "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
+      "title": "Google AI Mode now integrates with Canva, YouTube Music and Instacart",
+      "source": "Engadget",
+      "category": "music",
+      "published_iso": "2026-07-16T16:28:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/intro-1784219278.jpg",
+      "excerpt": "Google's AI Mode in Search now hooks into YouTube Music, letting users generate and shape playlists conversationally from a prompt, alongside a Canva design integration. It pushes AI-driven, chat-based curation deeper into how listeners assemble music."
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/07/10/almudio-3d-panner/",
+      "title": "Almudio releases 3D Panner, a FREE binaural spatial audio plugin",
       "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/peel-stems-728x364.jpg",
-      "excerpt": "zplane released PEEL STEMS 2, a real-time AI stem-separation plugin that cuts latency from 483ms to 245ms at 44.1kHz while keeping all processing local. Priced at €59, it moves AI demixing from an offline chore into a live, in-session tool."
+      "published_iso": "2026-07-10T12:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/3dpanner-728x364.jpg",
+      "excerpt": "A free early-access binaural/HRTF panner for headphone mixing, ASMR, game audio and VR. The developer is candid about using AI during the coding process while insisting the DSP, HRTF and UX decisions were his own — a window into the ongoing craft debate over AI-assisted audio-plugin development."
     },
     {
-      "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
-      "title": "Eldoraudio Guitar Audio to MIDI Converter",
-      "source": "gearnews",
+      "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
+      "title": "BBC's music boss Lorna Clarke outlines broadcaster's AI transparency commitments — but can it actually meet them?",
+      "source": "Complete Music Update",
       "category": "music",
-      "published_iso": "2026-07-16T09:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg",
-      "excerpt": "Eldoraudio's browser tool converts guitar recordings into editable MIDI using instrument-specific models, with the first 30 seconds free and a dedicated distorted-guitar model coming. It removes the manual transcription step between playing a riff and editing it as MIDI."
-    },
-    {
-      "url": "https://www.billboard.com/pro/bandlab-acquires-ai-digital-music-studio-aiode/",
-      "title": "BandLab Technologies Acquires AI-Powered Digital Music Studio Aiode",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-07-15T14:00:00Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/07/Aiode-Logo-Billboard-1800.jpg",
-      "excerpt": "BandLab acquired Aiode, an AI music creation tool trained on licensed material that lets musicians upload half-finished tracks and complete them stem-by-stem using audio-to-audio models built with professional session musicians."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
-      "title": "Record industry proposes AI labeling system for streaming platforms",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-07-10T09:00:00Z",
-      "og_image": "",
-      "excerpt": "RIAA, IFPI and partners proposed an industry AI labeling standard with two tags — 'AI-generated' for fully AI-made tracks and 'AI-assisted' for tracks using some AI — surfaced on streaming platforms similarly to explicit-content markers."
-    },
-    {
-      "url": "https://www.hypebot.com/new-ai-labeling-standard-for-music-draws-support-and-hesitation/",
-      "title": "New AI Labeling Standard for Music Draws Support — and Hesitation",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-07-13T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/7-13-AI-news.jpg",
-      "excerpt": "The industry's voluntary framework to label AI-generated and AI-assisted recordings draws support for transparency while sparking debate over how creators should implement standardized labels and metadata."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/why-a-fight-over-61000-recordings-could-shape-the-future-of-ai-music-licensing/",
-      "title": "Why a fight over 61,000 recordings could shape the future of AI music licensing",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Suno challenged UMG and Sony's bid to add over 61,000 recordings to their copyright suit; the fair-use fight could set the precedent shaping how AI music tools can legally be trained and licensed."
-    },
-    {
-      "url": "https://au.rollingstone.com/music/music-news/josh-fawaz-adds-ai-credits-like-a-prayer-spotify-98573/",
-      "title": "Josh Fawaz Adds AI Credits to 'Like a Prayer' on Spotify After Widespread Backlash",
-      "source": "Rolling Stone",
-      "category": "wildcard",
-      "published_iso": "2026-07-17T03:07:00Z",
-      "og_image": "",
-      "excerpt": "After an ABC investigation revealed heavy generative-AI use, Australian DJ Josh Fawaz added AI-vocal and AI-drum credits to his 38M-stream Madonna cover 'Like a Prayer,' spotlighting disclosure norms for AI-made hits."
-    },
-    {
-      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
-      "title": "Ocean Swift intros DevOcean Modular with MaYa, an AI agent that patches alongside you",
-      "source": "Synthtopia",
-      "category": "music",
-      "published_iso": "2026-07-17T22:47:40Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/DevOcean-Modular-Screenshot.png",
-      "excerpt": "Ocean Swift's DevOcean Modular is a 145-module software synthesis and sound-design environment whose standout is MaYa, a modular AI agent that builds and patches modular setups collaboratively alongside the user rather than just auto-generating a result."
+      "published_iso": "2026-07-07T12:00:00Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/BBC-AI.png",
+      "excerpt": "The BBC will keep prioritising music that is 'the result of meaningful human creativity' while allowing AI-assisted work — but wants artists and labels to disclose how AI tools were used when submitting music. It signals how AI-in-the-workflow is becoming a labelling/disclosure expectation for creators, not just a licensing fight."
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 8,
+    "kept": 3,
     "against_days": 5
   }
 }

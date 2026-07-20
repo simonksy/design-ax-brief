@@ -1,85 +1,65 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "music",
   "selection_mode": "agent",
   "picks": [
     {
-      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
-      "source": "Synthtopia",
+      "url": "https://www.engadget.com/2216707/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/",
+      "source": "Engadget",
       "tool": "Music",
       "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Ocean Swift intros DevOcean Modular with MaYa, an AI agent that patches alongside you",
-      "rationale": "Highest actionability in the fresh pool: a shipping 145-module synthesis environment whose AI agent collaboratively builds and patches modular setups with the producer instead of one-shot generating — a concrete change to how sound designers work tomorrow.",
-      "published_iso": "2026-07-17T22:47:40Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/DevOcean-Modular-Screenshot.png",
-      "excerpt": "Ocean Swift's DevOcean Modular is a 145-module software synthesis and sound-design environment whose standout is MaYa, a modular AI agent that builds and patches modular setups collaboratively alongside the user rather than just auto-generating a result."
+      "headline": "Google AI Mode now integrates with Canva, YouTube Music and Instacart",
+      "rationale": "Fresh, credible product news: conversational AI playlist curation lands in a mainstream platform, distinct from the earlier Spotify/TIDAL cards.",
+      "published_iso": "2026-07-16T16:28:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/intro-1784219278.jpg",
+      "excerpt": "Google's AI Mode in Search now hooks into YouTube Music, letting users generate and shape playlists conversationally from a prompt, alongside a Canva design integration. It pushes AI-driven, chat-based curation deeper into how listeners assemble music."
     },
     {
-      "url": "https://www.musicbusinessworldwide.com/why-a-fight-over-61000-recordings-could-shape-the-future-of-ai-music-licensing/",
-      "source": "Music Business Worldwide",
+      "url": "https://bedroomproducersblog.com/2026/07/10/almudio-3d-panner/",
+      "source": "Bedroom Producers Blog",
       "tool": "Music",
       "category": "music",
-      "accent": "#3b6bff",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Why a fight over 61,000 recordings could shape the future of AI music licensing",
-      "rationale": "A distinct court development (not the earlier Suno data-leak card) whose fair-use precedent will govern how AI music tools can legally be trained and licensed — the most consequential industry story in the fresh pool.",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Suno challenged UMG and Sony's bid to add over 61,000 recordings to their copyright suit; the fair-use fight could set the precedent shaping how AI music tools can legally be trained and licensed."
+      "headline": "Almudio releases 3D Panner, a FREE binaural spatial audio plugin",
+      "rationale": "Highly actionable free tool producers can grab today, plus a candid window into the AI-assisted plugin-development debate.",
+      "published_iso": "2026-07-10T12:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/3dpanner-728x364.jpg",
+      "excerpt": "A free early-access binaural/HRTF panner for headphone mixing, ASMR, game audio and VR. The developer is candid about using AI during the coding process while insisting the DSP, HRTF and UX decisions were his own — a window into the ongoing craft debate over AI-assisted audio-plugin development."
     },
     {
-      "url": "https://au.rollingstone.com/music/music-news/josh-fawaz-adds-ai-credits-like-a-prayer-spotify-98573/",
-      "source": "Rolling Stone",
+      "url": "https://completemusicupdate.com/bbcs-music-boss-lorna-clarke-outlines-broadcasters-ai-transparency-commitments-but-can-it-actually-meet-them/",
+      "source": "Complete Music Update",
       "tool": "Music",
       "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "Josh Fawaz Adds AI Credits to 'Like a Prayer' on Spotify After Widespread Backlash",
-      "rationale": "A concrete, high-profile disclosure case (38M streams) showing the emerging norm of crediting AI vocals/drums — the real-world practice behind the labeling debates, and directly relevant to how creators tag AI work.",
-      "published_iso": "2026-07-17T03:07:00Z",
-      "og_image": "",
-      "excerpt": "After an ABC investigation revealed heavy generative-AI use, Australian DJ Josh Fawaz added AI-vocal and AI-drum credits to his 38M-stream Madonna cover 'Like a Prayer,' spotlighting disclosure norms for AI-made hits."
+      "headline": "BBC's music boss Lorna Clarke outlines broadcaster's AI transparency commitments — but can it actually meet them?",
+      "rationale": "Signals a concrete disclosure expectation from a major broadcaster that directly affects how creators submit AI-assisted work.",
+      "published_iso": "2026-07-07T12:00:00Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/BBC-AI.png",
+      "excerpt": "The BBC will keep prioritising music that is 'the result of meaningful human creativity' while allowing AI-assisted work — but wants artists and labels to disclose how AI tools were used when submitting music. It signals how AI-in-the-workflow is becoming a labelling/disclosure expectation for creators, not just a licensing fight."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.music — today (2026-07-18) + days 2026-07-13..2026-07-17, plus orchestrator earliest-wins drop list",
-    "dropped_as_published_duplicates": [
-      {
-        "url": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
-        "reason": "Same zplane PEEL STEMS 2 release already published in sections.music (earliest-wins). Different outlet, same release."
-      },
-      {
-        "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
-        "reason": "Same Eldoraudio Guitar Audio-to-MIDI release already published in sections.music (earliest-wins)."
-      },
-      {
-        "url": "https://www.billboard.com/pro/bandlab-acquires-ai-digital-music-studio-aiode/",
-        "reason": "Same BandLab/Aiode acquisition already published in sections.music (earliest-wins)."
-      },
-      {
-        "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
-        "reason": "Same RIAA/IFPI voluntary AI-labeling proposal already published in sections.music (earliest-wins). Must not reappear."
-      },
-      {
-        "url": "https://www.hypebot.com/new-ai-labeling-standard-for-music-draws-support-and-hesitation/",
-        "reason": "Reaction piece on the same RIAA/IFPI AI-labeling standard — same event, reworded framing. Collapses to the single already-published story."
-      }
-    ],
-    "clusters_collapsed": [
-      "AI labeling standard — MBW proposal (#4) and Hypebot reactions (#5) are the same RIAA/IFPI event; both dropped as duplicates of the previously published story."
+    "checked_against": "news_data.json sections.music — today (2026-07-19) + days 2026-07-14..2026-07-18",
+    "verified_no_duplicates": [
+      "Google AI Mode/YouTube Music — related theme to spotify-chat but distinct product, event and outlet; kept.",
+      "Almudio 3D Panner — no matching release in history; kept.",
+      "BBC Lorna Clarke AI transparency — related theme to tidal-ai-label/josh-fawaz but distinct event, subject and outlet; kept."
     ]
   },
   "diversity_check": {
     "distinct_outlets": 3,
     "max_per_outlet": 1,
     "outlets": [
-      "Synthtopia",
-      "Music Business Worldwide",
-      "Rolling Stone"
+      "Engadget",
+      "Bedroom Producers Blog",
+      "Complete Music Update"
     ],
     "accents_distinct": true,
-    "note": "Meets the floor of 3. After dedup, 5 of 8 candidates duplicate already-published stories; 3 genuinely fresh, never-before-seen stories remain (DevOcean/MaYa, the 61,000-recordings fight, Josh Fawaz AI credits). Not padded. Single-category section, so each pick takes a distinct palette accent (#ff2d55, #3b6bff, #f5a623)."
+    "note": "Meets the floor of 3. Only 3 clean candidates in the fresh pool; all 3 pass URL+content dedup. Not padded. Single-category section, so each pick takes a distinct palette accent (#ff2d55, #0070f3, #f5a623)."
   }
 }

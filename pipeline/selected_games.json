@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "games",
   "selection_mode": "agent",
   "shortfall": true,
   "picks": [
     {
-      "url": "https://www.gamespot.com/articles/in-an-era-of-ai-slop-meccha-chameleon-embraces-human-crafted-chaos/",
-      "title": "In An Era Of AI Slop, Meccha Chameleon Embraces Human-Crafted Chaos",
-      "source": "GameSpot",
+      "url": "https://80.lv/articles/jesse-miettinen-s-the-last-of-us-like-generator-finally-launches",
+      "title": "Jesse Miettinen Released Damage Control, Powerful New Blender Toolkit",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-07-17T20:26:53Z",
-      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/07/meccha-3.png",
-      "excerpt": "Breakout hit Meccha Chameleon is being positioned as a deliberately human-crafted counterpoint to the wave of AI-generated 'slop' and copycats flooding storefronts. It is a craft-and-design argument about handmade chaos as a competitive differentiator against generative pipelines.",
+      "published_iso": "2026-07-14T14:26:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
+      "excerpt": "Jesse Miettinen has launched Damage Control, a Blender toolkit of interconnected generative tools (Smudge Mask Generator, Scatter Tools, Generative Tools, plus shaders and Mega Presets) to help artists scatter, smudge, and procedurally build more lifelike game environments faster.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Freshest pick and a concrete craft/design argument - handmade chaos framed as a deliberate differentiator against gen-AI pipelines."
+      "rationale": "Concrete new tool a game artist can install tomorrow - a procedural/generative Blender toolkit that directly speeds environment craft."
     },
     {
-      "url": "https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336",
-      "title": "People Are Quickly Cloning Indie Games Using AI Tools",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-07-15T22:15:12Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg",
-      "excerpt": "Solo developers are using AI coding tools to spin up playable clones of indie games within days, sometimes before the original even ships, and push them to storefronts first. It is a concrete workflow shift that is reshaping how small studios share and protect in-progress work.",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "Actionable workflow shift for indie devs - AI clone-before-release changes how small studios reveal and protect in-progress work."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/devs-dont-buy-steam-disclosure-claiming-gen-ai-was-a-necessity-im-literally-unemployed-and-i-still-make-all-of-my-assets-by-hand/",
-      "title": "Devs don't buy Steam disclosure claiming gen AI was a necessity: \"I'm literally unemployed and I still make all of my assets by hand\"",
+      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+      "title": "\"It creates lesser games\": Indie game studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-09T17:11:01Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg",
-      "excerpt": "A dark-fantasy idle ARPG's Steam disclosure argued generative AI was a budget necessity, drawing sharp pushback from developers who say they still hand-make assets. The dispute is a live case study in how gen-AI reliance is being justified and contested inside real production pipelines.",
+      "published_iso": "2026-07-19T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+      "excerpt": "A reporter interviews 25 indie studios about why they avoid generative AI despite it being pitched as an indie accelerator, surfacing how AI actually fits (or fails to fit) into working game-design craft and production workflows.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A live case study in how gen-AI reliance gets justified and contested inside real asset/production pipelines."
+      "rationale": "Freshest pick and original field reporting (25 studios) on where gen-AI really helps vs. hurts craft - kept over the same-study Steam-prediction piece."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wQoa1j4Rgss",
+      "title": "How to Build Scalable MetaHuman Crowds in Unreal Engine | Unreal Fest Chicago 2026",
+      "source": "Unreal Engine",
+      "category": "social",
+      "published_iso": "2026-07-18T14:00:26Z",
+      "og_image": "https://i.ytimg.com/vi/wQoa1j4Rgss/maxresdefault.jpg",
+      "excerpt": "An Unreal Fest Chicago 2026 session on building scalable MetaHuman crowds in Unreal Engine with Mass and Nanite - a production pipeline for populating game worlds with AI-authored digital-human characters at scale.",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "rationale": "First-party Unreal Fest technique session - a repeatable production pipeline for AI-authored digital-human crowds designers can apply directly."
     }
   ],
   "dedup_notes": {
-    "note": "User deferred (agent pick). Thin fresh pool: only 3 candidates survived upstream filtering. Dedup scope: sections.games today (2026-07-18) plus days 07-15, 07-14, 07-13. All 3 candidates verified distinct from published history and picked - fewer than 5 because the fresh pool is genuinely small, not padded (shortfall: true). Diversity guard: 3 distinct outlets (GameSpot, Kotaku, GamesRadar+), one card each. Single-category section, so each pick carries a distinct accent from the sources.json palette.",
+    "note": "User deferred (unattended agent pick). Candidate pool was pre-deduped upstream (freshness + games history). Backstop applied: the two GamesRadar pieces derive from the same Steam-AI study - kept only the fresher 07-19 '25 devs avoid it' reporting and dropped the 07-16 'half of Steam games by 2028' prediction as a near-duplicate. That leaves 3 distinct fresh stories across 3 distinct outlets (80 Level, GamesRadar+, Unreal Engine). Fewer than 5 because the fresh pool is genuinely small after the near-dup collapse, not padded (shortfall: true). Diversity guard satisfied: 3 outlets, max 2 in the games category (80 Level + GamesRadar) with distinct accents, 1 in social.",
     "dropped": [
       {
-        "url": "https://www.gamespot.com/articles/in-an-era-of-ai-slop-meccha-chameleon-embraces-human-crafted-chaos/",
-        "reason": "KEPT - not a duplicate. Subject overlaps the published 2026-07-14 'meccha-clone' card, but that card covered the AI clone 'Scribble Hunt' appearing on Steam; this is a distinct craft/design feature on the original game embracing human-made art, different outlet (GameSpot vs GamesRadar+), published 3 days later."
+        "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
+        "reason": "NEAR-DUPLICATE - same underlying Steam-AI study as the kept GamesRadar '25 devs I spoke to avoid it' piece (same source, same core topic). Kept the single strongest/freshest article per the content-hub rule."
       }
     ]
   }

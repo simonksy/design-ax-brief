@@ -1,11 +1,9 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "section": "gadgets",
   "media": [
-    { "id": "samsung-gaia", "type": "image", "src": "pipeline/media/samsung-gaia.jpg" },
-    { "id": "sk-hynix-tetramem", "type": "image", "src": "pipeline/media/sk-hynix-tetramem.jpg" },
-    { "id": "dreame-x60", "type": "image", "src": "pipeline/media/dreame-x60.jpg" },
-    { "id": "smart-glasses-2026", "type": "image", "src": "pipeline/media/smart-glasses-2026.jpg" },
-    { "id": "apple-google-cloud", "type": "image", "src": "pipeline/media/apple-google-cloud.jpg" }
+    { "id": "codex-micro", "type": "image", "src": "pipeline/media/codex-micro.jpg" },
+    { "id": "gemini-home", "type": "image", "src": "pipeline/media/gemini-home.jpg" },
+    { "id": "ear-3a", "type": "image", "src": "pipeline/media/ear-3a.jpg" }
   ]
 }
