@@ -1,46 +1,66 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "movies",
   "selection_mode": "auto",
   "picks": [
     {
-      "tool": "SwitchLight 3",
+      "tool": "SwitchHDR",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
-      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-07-20T14:51:18Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg",
-      "excerpt": "ProVideo Coalition's SIGGRAPH 2026 dispatch spotlights AI-driven creative tools on the show floor: Beeble AI and District Cinema ran the new SwitchLight 3 model on native 4K cinematic footage from Corridor Crew's 'Son of a Dungeon' S3 to generate production-ready PBR relighting passes inside Unreal Engine, and Keyshot Studio's 'AI Shots' made focused generative edits while respecting CAD data and lighting — a concrete look at generative relighting in a real production pipeline.",
-      "rationale": "Only genuinely new movies story in the pool (published 2026-07-20); shows SwitchLight 3 generating production-ready PBR relighting passes in Unreal on real 4K footage plus Keyshot AI Shots — directly actionable generative-relighting workflow for VFX/design artists, from a credible post-production outlet."
+      "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
+      "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
+      "source": "fxguide",
+      "published_iso": "2026-07-09T12:00:00Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2-830x415.jpg",
+      "excerpt": "Beeble unveiled SwitchHDR, an AI model that reconstructs HDR imagery from standard SDR footage, outputting scene-linear 16-bit EXR sequences for professional VFX and post pipelines. 'Where real detail survives we recover it; where it's fully clipped, the artist decides how it gets rebuilt,' says CEO Hoon Kim.",
+      "rationale": "New AI model turning SDR footage into scene-linear 16-bit EXR HDR for VFX/post — directly changes how a colorist or comp artist works tomorrow, from a credible outlet."
+    },
+    {
+      "tool": "NVIDIA Research",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "title": "NVIDIA 'Neural Rendering, World Models and Simulation' Keynote Set for SIGGRAPH 2026",
+      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
+      "source": "Animation World Network",
+      "published_iso": "2026-07-13T18:38:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg",
+      "excerpt": "NVIDIA Research leaders Neil Ashton, Ming-Yu Liu and Edward Liu will deliver a SIGGRAPH 2026 keynote on advances in neural rendering, world models and AI-driven simulation, signaling where generative graphics for film and VFX are headed.",
+      "rationale": "Agenda-setting keynote signaling where neural rendering and world models take film/VFX next — credible and forward-looking for artists tracking the pipeline shift."
+    },
+    {
+      "tool": "Spark Story",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "title": "Lightcraft Launches Beta for Spark Story Interactive Previz Tool",
+      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
+      "source": "postPerspective",
+      "published_iso": "2026-07-17T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Lightcraft opened a rolling beta of Spark Story, an interactive previz tool that lets filmmakers block scenes, populate asset libraries and render full-quality 'superdailies' in real time — working with AI or blue/greenscreen keyers to compress previsualization and cut early production costs.",
+      "rationale": "Interactive previz tool now in open beta — real-time superdailies and scene blocking filmmakers can sign up for today to compress previz and cut early production cost."
+    },
+    {
+      "tool": "Project Indigo",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "title": "Adobe adds experimental AI Playground to Project Indigo camera app",
+      "url": "https://www.redsharknews.com/adobe-project-indigo-ai-playground",
+      "source": "RedShark News",
+      "published_iso": "2026-07-21T09:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg",
+      "excerpt": "Adobe added an experimental AI Playground to its Project Indigo computational-photography app, letting shooters apply generative editing directly after capture — pushing on-device generative image manipulation well beyond simple style transfer.",
+      "rationale": "Fresh Adobe release putting on-device generative editing right after capture — a hands-on new capability shooters can try today, from a reputable outlet."
     }
   ],
   "dedup_report": {
     "candidates_evaluated": 4,
-    "kept": 1,
-    "dropped": 3,
+    "kept": 4,
+    "dropped": 0,
     "floor": 3,
-    "shortfall": true,
-    "shortfall_reason": "After URL+CONTENT dedup vs sections.movies (with earliest-wins carry-over documented by prior curator runs), only 1 never-before-seen story remains. The two SwitchHDR items and the Screen Daily Tilly Norwood item are all earliest-wins duplicates of already-published movies cards. Not padded; no dropped story re-used.",
-    "dropped_as_duplicates": [
-      {
-        "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
-        "title": "Beeble Releases SwitchHDR, an AI Model for HDR Reconstruction From SDR Video",
-        "reason": "Exact-URL republish. This No Film School URL was already published in sections.movies on 2026-07-08 (documented in prior curator runs; card has since aged off the visible 5-day window). Earliest-wins is absolute -> DROP."
-      },
-      {
-        "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
-        "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
-        "reason": "Same Beeble SwitchHDR release/event covered via a different outlet (fxguide) than the already-published No Film School card from 2026-07-08. 'Same event via a different outlet' + earliest-wins -> DROP. (Also the designated within-pool merge partner of the No Film School item.)"
-      },
-      {
-        "url": "https://www.screendaily.com/news/tilly-norwood-creator-developing-feature-film-misaligned-starring-the-ai-actor/5218374.article",
-        "title": "Tilly Norwood creator developing feature film 'Misaligned' starring the AI actor",
-        "reason": "Content duplicate. Same event (Particle 6 developing the Tilly Norwood feature 'Misaligned') already published in sections.movies as card `tilly-norwood-misaligned` (Engadget, engadget.com/2208729/...), verified present in news_data.json. Different outlet/URL, same story -> DROP."
-      }
-    ],
-    "baseline": "news_data.json -> sections.movies visible window: today/days across 2026-07-16..2026-07-20 (odysseus, ssff-asia-pitch, tilly-norwood-misaligned, vigloo, ted-deepvoodoo, clearangle, topaz-video, smartroto, automask, netflix-300-ai, tippett-sentinel-siggraph, nfb-gaussian-splatting, siggraph-2026-preview); plus earliest-wins carry-over of Beeble SwitchHDR published 2026-07-08 (nofilmschool.com/beeble-switchhdr-ai-model), documented by prior curator runs.",
-    "diversity": "Single-category section; 1 pick, no diversity guard needed."
+    "cap": 5,
+    "shortfall": false,
+    "baseline": "news_data.json -> sections.movies retained window (today 2026-07-21 + days 2026-07-15..2026-07-19): switchlight3, odysseus-fall, ssff-asia-pitch, tilly-norwood-misaligned, vigloo, ted-deepvoodoo, clearangle, topaz-video, smartroto, automask, griptape, gutierrez, daletflex, netflix-300-ai, tippett-sentinel-siggraph, nfb-gaussian-splatting, siggraph-2026-preview, martini, curious-refuge-ai-tools.",
+    "notes": "All 4 filtered candidates are distinct fresh stories vs the movies 5-day window. Today's switchlight3 card is Beeble SwitchLight 3 (a relighting model) — a different product/article from SwitchHDR (HDR reconstruction), so not a duplicate. The design-section Lightcraft Spark Story card is a different section and different URL (creativebloq vs postperspective); per-section dedup keeps Spark Story here. A prior (2026-07-21) run flagged a 2026-07-08 Beeble SwitchHDR publication, but that item is outside the retained 5-day non-repeat window and is not present in the current source of truth; today's upstream filter re-vetted and kept it.",
+    "diversity": "Single-category section (movies). 4 distinct outlets (fxguide, Animation World Network, postPerspective, RedShark News); no outlet exceeds 2. Distinct accents assigned since all share the movies category."
   }
 }

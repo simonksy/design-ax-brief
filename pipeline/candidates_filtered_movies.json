@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "movies",
-  "now_iso": "2026-07-20T23:02:21Z",
+  "now_iso": "2026-07-21T23:06:40Z",
   "window_hours": 336,
   "items": [
     {
@@ -10,35 +10,40 @@
       "source": "fxguide",
       "category": "movies",
       "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
-      "excerpt": "Beeble's SwitchHDR is a machine-learning model that reconstructs HDR imagery from ordinary SDR video for professional post, addressing the reality that most existing footage is SDR while productions increasingly demand HDR-quality assets."
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2-830x415.jpg",
+      "excerpt": "Beeble unveiled SwitchHDR, an AI model that reconstructs HDR imagery from standard SDR footage, outputting scene-linear 16-bit EXR sequences for professional VFX and post pipelines. 'Where real detail survives we recover it; where it's fully clipped, the artist decides how it gets rebuilt,' says CEO Hoon Kim."
     },
     {
-      "url": "https://www.screendaily.com/news/tilly-norwood-creator-developing-feature-film-misaligned-starring-the-ai-actor/5218374.article",
-      "title": "Tilly Norwood creator developing feature film 'Misaligned' starring the AI actor",
-      "source": "Screen Daily",
+      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
+      "title": "NVIDIA 'Neural Rendering, World Models and Simulation' Keynote Set for SIGGRAPH 2026",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-07-07T08:36:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/0/8/1482808_unknown_2865_crop.jpeg",
-      "excerpt": "Particle 6, the UK company behind AI-generated 'actor' Tilly Norwood, is developing its first feature, the comedy-drama 'Misaligned,' using a hybrid production model that pairs traditional filmmaking roles with AI specialists — a concrete test of how synthetic-performer pipelines reshape a production."
+      "published_iso": "2026-07-13T18:38:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg",
+      "excerpt": "NVIDIA Research leaders Neil Ashton, Ming-Yu Liu and Edward Liu will deliver a SIGGRAPH 2026 keynote on advances in neural rendering, world models and AI-driven simulation, signaling where generative graphics for film and VFX are headed."
     },
     {
-      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
-      "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
-      "source": "ProVideo Coalition",
+      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
+      "title": "Lightcraft Launches Beta for Spark Story Interactive Previz Tool",
+      "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-07-20T14:51:18Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg",
-      "excerpt": "ProVideo Coalition's SIGGRAPH 2026 dispatch spotlights AI-driven creative tools on the show floor: Beeble AI and District Cinema ran the new SwitchLight 3 model on native 4K cinematic footage from Corridor Crew's 'Son of a Dungeon' S3 to generate production-ready PBR relighting passes inside Unreal Engine, and Keyshot Studio's 'AI Shots' made focused generative edits while respecting CAD data and lighting — a concrete look at generative relighting in a real production pipeline."
+      "published_iso": "2026-07-17T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Lightcraft opened a rolling beta of Spark Story, an interactive previz tool that lets filmmakers block scenes, populate asset libraries and render full-quality 'superdailies' in real time — working with AI or blue/greenscreen keyers to compress previsualization and cut early production costs."
     },
     {
-      "url": "https://nofilmschool.com/beeble-switchhdr-ai-model",
-      "title": "Beeble Releases SwitchHDR, an AI Model for HDR Reconstruction From SDR Video",
-      "source": "No Film School",
+      "url": "https://www.redsharknews.com/adobe-project-indigo-ai-playground",
+      "title": "Adobe adds experimental AI Playground to Project Indigo camera app",
+      "source": "RedShark News",
       "category": "movies",
-      "published_iso": "2026-07-07T12:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/beeble-switchhdr.jpg?id=67106787&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-      "excerpt": "Beeble's SwitchHDR is an AI frontier model that reconstructs HDR imagery from ordinary SDR video, outputting scene-linear 16-bit EXR sequences for professional post. It targets the reality that most existing footage is SDR while productions increasingly demand HDR-quality assets."
+      "published_iso": "2026-07-21T09:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg",
+      "excerpt": "Adobe added an experimental AI Playground to its Project Indigo computational-photography app, letting shooters apply generative editing directly after capture — pushing on-device generative image manipulation well beyond simple style transfer."
     }
-  ]
+  ],
+  "dedup": {
+    "dropped": 3,
+    "kept": 4,
+    "against_days": 5
+  }
 }

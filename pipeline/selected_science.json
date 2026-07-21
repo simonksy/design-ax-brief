@@ -1,31 +1,70 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "science",
   "selection_mode": "auto",
   "target": 5,
   "floor": 3,
-  "selected_count": 1,
-  "shortfall": 2,
+  "selected_count": 4,
+  "shortfall": 0,
   "picks": [
     {
       "tool": "Science",
-      "headline": "Google's quantum computer learns from its own errors mid-computation",
-      "url": "https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-07-10T00:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-7.00.17-AM.png",
-      "excerpt": "Google researchers built a reinforcement-learning system that lets a quantum computer learn from its own error-correction data and recalibrate itself mid-computation. The approach cut logical error rates about 20% beyond conventional calibration and stayed 3.5x more stable under hardware drift on the Willow processor, pointing toward autonomously self-tuning quantum machines.",
+      "headline": "Physics-informed machine learning speeds the hunt for 2D flat-band quantum materials",
+      "url": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-09T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-tool-speeds-search.jpg",
+      "excerpt": "A University of Manchester team developed a physics-informed machine-learning method that hunts for two-dimensional 'flat-band' quantum materials, screening over 10,000 candidates with 98.2% accuracy. The approach replaces slow density-functional-theory calculations, dramatically speeding the search for exotic quantum materials.",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Novel, credible result (Google/Willow) where RL turns error-correction data into live self-recalibration — a concrete method advance, distinct from every published science card and never previously covered."
+      "rationale": "New physics-informed ML screens 10,000+ candidates at 98.2% accuracy, replacing slow DFT — a concrete method shift for quantum-materials discovery; no URL or content match in published science history."
+    },
+    {
+      "tool": "Science",
+      "headline": "Inside David Baker's Institute for Protein Design and its open 'communal brain'",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/protein-designs-ai-revolution-inside-david-bakers-communal-brain/",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/07/David-Baker-group-photo-all-collegues-2-CREDIT-Nobel-Prize-Outreach-Photo-Clement-Morin-2048x1365-1-696x464.jpeg",
+      "excerpt": "A look inside David Baker's Institute for Protein Design, where a 100+ researcher lab and its open 'communal brain' of deep-learning tools (RFdiffusion and successors) now design proteins from scratch with atomic precision. The piece maps how AI-driven protein design is reshaping how biotech invents antibodies, enzymes and medicines.",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Insider map of David Baker's open AI protein-design toolchain (RFdiffusion et al.) reshaping how biotech invents medicines; distinct topic and outlet, credible, not previously published."
+    },
+    {
+      "tool": "Science",
+      "headline": "Open AI drug-metabolism contest ends in a 28-way tie — data quality, not model size, wins",
+      "url": "https://www.statnews.com/2026/07/14/openadmet-ai-drug-metabolism-prediction-inductive-bio/",
+      "source": "STAT News",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/Untitled-1-645x645.jpg",
+      "excerpt": "An open AI competition to predict drug metabolism (whether compounds activate the PXR receptor that clears roughly half of all marketed drugs) ended in a 28-way statistical tie, with startup Inductive Bio narrowly on top. The result suggests data quality, not raw model size, drives performance in AI-for-drug-discovery, reshaping how the field benchmarks its models.",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "Actionable benchmarking insight for AI-drug-discovery — an open PXR-metabolism contest ties 28 ways, showing data quality beats model scale; net-new, credible outlet, distinct topic and source."
+    },
+    {
+      "tool": "Science",
+      "headline": "GOFLOW reconstructs fine-scale ocean currents from satellite thermal imagery",
+      "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-20T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg",
+      "excerpt": "Tel Aviv University researchers built GOFLOW, an AI system that reconstructs fine-scale ocean surface currents from satellite thermal imagery, revealing small-scale dynamics that standard models miss. Better maps of these currents sharpen climate, weather and ocean-atmosphere gas-exchange predictions.",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Newest pick (07-20): GOFLOW recovers small-scale ocean currents from thermal satellite data that standard models miss, sharpening climate and weather prediction; net-new, distinct outlet and Earth-science topic."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.science in news_data.json — today (2026-07-20) + days (2026-07-19..2026-07-15).",
-    "kept": "The Quantum Insider (Google quantum error-correction RL) — no URL or content match against published science history.",
-    "dropped_duplicates": "Candidate #2 MIT Technology Review 'Anthropic found a hidden space where Claude puzzles over concepts' (2026/07/09/1140293) = CONTENT duplicate of published card 'jacobian-lens' (2026-07-15, technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery...): same Anthropic J-space / Jacobian-lens interpretability release, different outlet URL. Candidate #3 phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html = CONTENT duplicate of published card 'supercooled-water' (2026-07-16, ScienceDaily 260707025047): same University of Osaka study — molecular-dynamics-trained neural net, 16 structural descriptors, distinguishing water's two liquid states / hidden critical point. Same event via a different outlet; earliest-wins (07/16 already ran).",
-    "override_note": "Orchestrator flagged candidate #3 (Phys.org molecular-liquid framework) as 'distinct', but hard content-dedup (which overrides even hand-picks) shows it is the same Osaka supercooled-water study already published 2026-07-16. Dropped to honor 'each distinct story appears on exactly one date.'",
-    "shortfall": "Selected 1 of target 5 (floor 3). After dedup only 1 unique never-before-published story remained. Not padded and no dropped item re-used; below floor with noted shortfall of 2 (per instruction: science is thin, do NOT pad).",
-    "diversity": "Single pick — diversity guard N/A."
+    "checked_against": "sections.science in news_data.json — today (2026-07-21, willow-rl) + days (2026-07-20..2026-07-16).",
+    "kept": "Phys.org (2D flat-band quantum-materials ML), GEN (David Baker protein-design profile), STAT News (openADMET drug-metabolism contest), Tech Xplore (GOFLOW ocean currents) — no URL or content match in published science history.",
+    "dropped_duplicates": "Candidate #1 phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html = CONTENT duplicate of published card 'syntnpb' (2026-07-17, genengnews.com/.../ai-designed-synthetic-crispr-like-nucleases-show-activity-in-cells): same AI-designed SynTnpB gene-editing nucleases, same Science paper 'Structure and evolution-guided design of minimal RNA-guided nucleases', different outlet. Same release, earliest-wins (07/17 already ran).",
+    "shortfall": "Selected 4 of target 5 (above floor 3). After dropping the SynTnpB duplicate, only 4 unique never-before-published stories remained in the filtered pool. Not padded and no dropped item re-used.",
+    "diversity": "Four picks across four distinct outlets (Phys.org, GEN, STAT News, Tech Xplore) — well within the max-2-per-outlet guard. Single science category, so each pick given a distinct palette accent (#2ec5c5, #7928ca, #0070f3, #f5a623)."
   }
 }

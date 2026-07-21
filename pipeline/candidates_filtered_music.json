@@ -1,71 +1,49 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "music",
-  "now_iso": "2026-07-20T23:02:21Z",
+  "now_iso": "2026-07-21T23:06:40Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://musictech.com/news/gear/audiotool-3-nexus/",
-      "title": "Audiotool 3.0 turns its multiplayer online DAW into an open platform for creator-built music tools",
-      "source": "MusicTech",
+      "url": "https://www.engadget.com/2216558/suno-brings-gen-ai-music-gunk-to-imessage/",
+      "title": "Suno brings its gen AI music to iMessage",
+      "source": "Engadget",
       "category": "music",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg",
-      "excerpt": "Audiotool 3.0 rebuilds its multiplayer browser DAW around NEXUS, a new open-source SDK that lets musicians and developers build their own instruments, plugins, visualisers and AI-connected music tools directly into the platform — with AI integrations via MCP and Context I/O so creators can wire their preferred LLMs into the DAW. Launch partners include Splice, Ujam, BandM8 and Fraunhofer."
+      "published_iso": "2026-07-16T14:50:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/suno-brings-its-gen-ai-music-gunk-to-imessage/intro-1784212721.jpg",
+      "excerpt": "Suno added an iMessage keyboard extension that lets iPhone users generate a ~30-second AI song from a text or voice prompt without leaving Messages, alongside a new Mashup feature that fuses any two tracks. It pushes prompt-to-song generation into an everyday, conversational surface."
     },
     {
-      "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
-      "title": "Record industry proposes AI labeling system for streaming platforms",
-      "source": "Music Business Worldwide",
+      "url": "https://musically.com/2026/07/20/ais-new-usb-port-what-the-mcp-standard-means-for-the-music-industry/",
+      "title": "AI's new USB port: what the MCP standard means for the music industry",
+      "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "https://www.musicbusinessworldwide.com/wp-content/uploads/2026/07/shutterstock_ai.jpg",
-      "excerpt": "A coalition of eight music organizations (IFPI, RIAA, A2IM, WIN, IMPALA, the Recording Academy, SAG-AFTRA and the Human Artistry Campaign) proposes a voluntary streaming labeling standard with two tags — 'AI-generated' for fully AI tracks and 'AI-assisted' for human-led tracks that use AI — reshaping how AI-made music is disclosed to listeners."
+      "published_iso": "2026-07-20T12:00:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/Gemini_Generated_Image_s6lbi7s6lbi7s6lb-scaled-e1784536005307.png",
+      "excerpt": "Model Context Protocol (MCP) is emerging as the connective 'USB port' that lets music-industry platforms wire their catalogues and data directly into ChatGPT, Claude and other AI assistants, so creators and teams can query many tools at once. It signals how AI music workflows will plug together rather than live in silos."
     },
     {
-      "url": "https://www.hypebot.com/new-ai-labeling-standard-for-music-draws-support-and-hesitation/",
-      "title": "New AI labeling standard for music draws support — and hesitation",
+      "url": "https://completemusicupdate.com/ai-generated-tracks-now-account-for-more-than-50-of-deezers-uploads/",
+      "title": "AI-generated tracks now account for more than 50% of Deezer's uploads",
+      "source": "Complete Music Update",
+      "category": "music",
+      "published_iso": "2026-07-21T12:00:00Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/Deezer-AI.png",
+      "excerpt": "Deezer says fully AI-generated music now makes up more than half of daily uploads, averaging around 90,000 tracks a day in June — a milestone showing generative-AI tools now out-produce human uploads on a major platform. Deezer is purging AI tracks tied to stream fraud or left unplayed for six months."
+    },
+    {
+      "url": "https://www.hypebot.com/talk-to-spotify-what-ai-chatbots-mean-for-music-marketing/",
+      "title": "Talk to Spotify: what AI chatbots mean for music marketing",
       "source": "Hypebot",
       "category": "music",
-      "published_iso": "2026-07-13T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/7-13-AI-news.jpg",
-      "excerpt": "The recorded-music industry's proposed two-label framework for AI music draws broad agreement that transparency matters but exposes differing views on implementation, with responses from Suno and the Digital Media Association. The system remains voluntary and no major streaming service has committed to adopting it yet."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/suno-sued-by-major-labels-says-transparency-is-important-as-record-industry-proposes-ai-labeling-system/",
-      "title": "Suno says 'transparency is important' as record industry proposes AI labeling system",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-07-13T12:00:00Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/07/unnamed-6.png",
-      "excerpt": "AI music generator Suno backs the industry's proposed AI labeling system, saying it is investing in watermarking, audio fingerprinting and other tools 'that empower artists to disclose if they used AI in a song' — a notable stance from a platform still facing major-label copyright lawsuits."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/",
-      "title": "zplane launches PEEL STEMS 2 with improved real-time stem separation",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/peel-stems-728x364.jpg",
-      "excerpt": "zplane released PEEL STEMS 2, a real-time AI stem-separation plugin that cuts latency from 483ms to 245ms at 44.1kHz while keeping all processing local. Priced at €59, it moves AI demixing from an offline chore into a live, in-session tool."
-    },
-    {
-      "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
-      "title": "Eldoraudio Guitar Audio to MIDI Converter",
-      "source": "gearnews",
-      "category": "music",
-      "published_iso": "2026-07-16T09:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg",
-      "excerpt": "Eldoraudio's browser tool converts guitar recordings into editable MIDI using instrument-specific models, with the first 30 seconds free and a dedicated distorted-guitar model coming. It removes the manual transcription step between playing a riff and editing it as MIDI."
-    },
-    {
-      "url": "https://www.billboard.com/pro/bandlab-acquires-ai-digital-music-studio-aiode/",
-      "title": "BandLab Technologies Acquires AI-Powered Digital Music Studio Aiode",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-07-15T14:00:00Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/07/Aiode-Logo-Billboard-1800.jpg",
-      "excerpt": "BandLab acquired Aiode, an AI music creation tool trained on licensed material that lets musicians upload half-finished tracks and complete them stem-by-stem using audio-to-audio models built with professional session musicians."
+      "published_iso": "2026-07-16T12:00:00Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Talk-To-Spotify.png",
+      "excerpt": "Spotify's new conversational 'Talk to Spotify' assistant replaces passive algorithmic discovery with prompt-based, interactive listening — reshaping how artists and marketers earn attention, making metadata and storytelling as pivotal as editorial-playlist placement."
     }
-  ]
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 4,
+    "against_days": 5
+  }
 }

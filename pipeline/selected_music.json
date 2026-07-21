@@ -1,54 +1,51 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "music",
   "selection_mode": "auto",
   "picks": [
     {
-      "title": "Audiotool 3.0 turns its multiplayer online DAW into an open platform for creator-built music tools",
-      "url": "https://musictech.com/news/gear/audiotool-3-nexus/",
-      "source": "MusicTech",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg",
-      "excerpt": "Audiotool 3.0 rebuilds its multiplayer browser DAW around NEXUS, a new open-source SDK that lets musicians and developers build their own instruments, plugins, visualisers and AI-connected music tools directly into the platform — with AI integrations via MCP and Context I/O so creators can wire their preferred LLMs into the DAW. Launch partners include Splice, Ujam, BandM8 and Fraunhofer.",
+      "title": "Suno brings its gen AI music to iMessage",
+      "url": "https://www.engadget.com/2216558/suno-brings-gen-ai-music-gunk-to-imessage/",
+      "source": "Engadget",
+      "published_iso": "2026-07-16T14:50:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/suno-brings-its-gen-ai-music-gunk-to-imessage/intro-1784212721.jpg",
+      "excerpt": "Suno added an iMessage keyboard extension that lets iPhone users generate a ~30-second AI song from a text or voice prompt without leaving Messages, alongside a new Mashup feature that fuses any two tracks. It pushes prompt-to-song generation into an everyday, conversational surface.",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Fresh, high-actionability platform release: an open SDK + MCP/LLM hooks that lets producers wire AI tools straight into a browser DAW — changes how creators extend their workspace."
+      "rationale": "Fresh Suno release that pushes prompt-to-song generation into an everyday messaging surface — a concrete new distribution channel creators can try immediately."
     },
     {
-      "title": "Record industry proposes AI labeling system for streaming platforms",
-      "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "https://www.musicbusinessworldwide.com/wp-content/uploads/2026/07/shutterstock_ai.jpg",
-      "excerpt": "A coalition of eight music organizations (IFPI, RIAA, A2IM, WIN, IMPALA, the Recording Academy, SAG-AFTRA and the Human Artistry Campaign) proposes a voluntary streaming labeling standard with two tags — 'AI-generated' for fully AI tracks and 'AI-assisted' for human-led tracks that use AI — reshaping how AI-made music is disclosed to listeners.",
+      "title": "AI's new USB port: what the MCP standard means for the music industry",
+      "url": "https://musically.com/2026/07/20/ais-new-usb-port-what-the-mcp-standard-means-for-the-music-industry/",
+      "source": "Music Ally",
+      "published_iso": "2026-07-20T12:00:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/Gemini_Generated_Image_s6lbi7s6lbi7s6lb-scaled-e1784536005307.png",
+      "excerpt": "Model Context Protocol (MCP) is emerging as the connective 'USB port' that lets music-industry platforms wire their catalogues and data directly into ChatGPT, Claude and other AI assistants, so creators and teams can query many tools at once. It signals how AI music workflows will plug together rather than live in silos.",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "The single strongest of the RIAA/IFPI labeling cluster (Hypebot + Suno-response variants dropped): the source proposal itself sets a two-tag disclosure standard every AI-using artist will have to reckon with."
+      "rationale": "Explains the MCP standard now wiring music platforms into AI assistants — a workflow shift that changes how creators and teams query their tools going forward."
     },
     {
-      "title": "Eldoraudio Guitar Audio to MIDI Converter",
-      "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
-      "source": "gearnews",
-      "published_iso": "2026-07-16T09:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg",
-      "excerpt": "Eldoraudio's browser tool converts guitar recordings into editable MIDI using instrument-specific models, with the first 30 seconds free and a dedicated distorted-guitar model coming. It removes the manual transcription step between playing a riff and editing it as MIDI.",
+      "title": "AI-generated tracks now account for more than 50% of Deezer's uploads",
+      "url": "https://completemusicupdate.com/ai-generated-tracks-now-account-for-more-than-50-of-deezers-uploads/",
+      "source": "Complete Music Update",
+      "published_iso": "2026-07-21T12:00:00Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/Deezer-AI.png",
+      "excerpt": "Deezer says fully AI-generated music now makes up more than half of daily uploads, averaging around 90,000 tracks a day in June — a milestone showing generative-AI tools now out-produce human uploads on a major platform. Deezer is purging AI tracks tied to stream fraud or left unplayed for six months.",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Fresh, concrete workflow win: instrument-specific audio-to-MIDI that deletes the manual transcription step between playing a riff and editing it — distinct topic from the DAW and policy picks."
+      "rationale": "Landmark data point — AI now out-produces humans on a major platform — that reframes the distribution landscape every releasing artist has to compete in."
     }
   ],
   "shortfall": true,
   "dedup_notes": {
-    "checked_against": "news_data.json sections.music — today (2026-07-20) + days 2026-07-15..2026-07-19",
+    "checked_against": "news_data.json sections.music — today (2026-07-21) + days 2026-07-16..2026-07-19",
     "dropped_as_duplicates": [
-      "https://bedroomproducersblog.com/2026/07/08/zplane-peel-stems-2/ — same story as published card id 'peelstems2' (music/day 2026-07-17, zplane PEEL STEMS 2 via Sound On Sound). Different outlet, same release.",
-      "https://www.billboard.com/pro/bandlab-acquires-ai-digital-music-studio-aiode/ — same story as published card id 'aiode' (music/day 2026-07-17, BandLab acquires Aiode via MusicTech). Different outlet, same acquisition.",
-      "https://www.hypebot.com/new-ai-labeling-standard-for-music-draws-support-and-hesitation/ — same RIAA/IFPI AI-labeling story cluster as the kept MBW proposal; reactions-angle rewording, dropped as intra-pool duplicate.",
-      "https://www.musicbusinessworldwide.com/suno-sued-by-major-labels-says-transparency-is-important-as-record-industry-proposes-ai-labeling-system/ — same RIAA/IFPI AI-labeling story cluster (Suno-response angle); dropped as intra-pool duplicate, kept the source proposal."
+      "https://www.hypebot.com/talk-to-spotify-what-ai-chatbots-mean-for-music-marketing/ — same Spotify 'Talk to Spotify' conversational-assistant release already published as card id 'spotify-chat' (music/day, TechCrunch). Different outlet + marketing-angle rewording, same underlying release."
     ],
-    "note": "7 candidates -> 4 dropped (2 as duplicates of already-published stories, 2 as intra-pool duplicates of the labeling cluster) -> 3 distinct fresh picks. Pool genuinely offered only 3 unique never-before-seen stories, so 3 picks (floor) rather than pad. Diversity guard satisfied: 3 distinct outlets (MusicTech, MBW, gearnews), <=2 per outlet."
+    "note": "Filtered pool of 4 -> 1 dropped as duplicate of already-published spotify-chat story -> 3 distinct fresh picks. Pool genuinely offered only 3 unique never-before-seen stories, so 3 (floor) rather than pad. Diversity guard satisfied: 3 distinct outlets (Engadget, Music Ally, Complete Music Update), one per category."
   }
 }

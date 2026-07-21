@@ -1,24 +1,72 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-22",
   "section": "science",
-  "now_iso": "2026-07-20T23:02:21Z",
+  "now_iso": "2026-07-21T23:06:40Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://thequantuminsider.com/2026/07/10/google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes/",
-      "source": "The Quantum Insider",
+      "url": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-10T00:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-7.00.17-AM.png",
-      "excerpt": "Google researchers built a reinforcement-learning system that lets a quantum computer learn from its own error-correction data and recalibrate itself mid-computation. The approach cut logical error rates about 20% beyond conventional calibration and stayed 3.5x more stable under hardware drift on the Willow processor, pointing toward autonomously self-tuning quantum machines."
+      "published_iso": "2026-07-17T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-designs-rna-g.jpg",
+      "excerpt": "Scientists used AI to design synthetic TnpB gene-editing enzymes (SynTnpBs) that outperform their natural counterparts, reaching up to 46-50% editing efficiency in human cells versus 28% for the original. Published in Science, the work shows generative models can invent new gene-editing tools with properties evolution never produced, expanding the CRISPR toolbox."
     },
     {
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "MIT Technology Review",
+      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/ai-and-medical.jpg",
+      "excerpt": "Researchers at NC State built a deep-learning model called BINND that predicts which DNA sequences will bind to each other with 83.5% accuracy, trained on 144 million sequence pairs and beating existing methods by at least 10%. Better modeling of these binding relationships has uses from biomedical diagnostics to DNA computing."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
+      "source": "Phys.org",
       "category": "science",
       "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg",
-      "excerpt": "Anthropic researchers built the \"Jacobian lens\" (J-lens) to probe inside Claude Opus 4.6, revealing a hidden \"J-space\" of words tied to the model's likely future outputs. It is one of the clearest glimpses yet at how a large language model internally anticipates what it will say next, advancing mechanistic interpretability."
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-tool-speeds-search.jpg",
+      "excerpt": "A University of Manchester team developed a physics-informed machine-learning method that hunts for two-dimensional 'flat-band' quantum materials, screening over 10,000 candidates with 98.2% accuracy. The approach replaces slow density-functional-theory calculations, dramatically speeding the search for exotic quantum materials."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-14T22:55:38Z",
+      "og_image": "https://sciencedaily.com/images/1920/fake-news-blocks.webp",
+      "excerpt": "A machine-learning system built by Queensland University of Technology researchers flagged more than 250,000 cancer research papers potentially linked to 'paper mills' selling fraudulent studies, detecting suspicious writing patterns with 91% accuracy. It surfaces one of the largest integrity problems yet found in modern science."
+    },
+    {
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/protein-designs-ai-revolution-inside-david-bakers-communal-brain/",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/07/David-Baker-group-photo-all-collegues-2-CREDIT-Nobel-Prize-Outreach-Photo-Clement-Morin-2048x1365-1-696x464.jpeg",
+      "excerpt": "A look inside David Baker's Institute for Protein Design, where a 100+ researcher lab and its open 'communal brain' of deep-learning tools (RFdiffusion and successors) now design proteins from scratch with atomic precision. The piece maps how AI-driven protein design is reshaping how biotech invents antibodies, enzymes and medicines."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-13T08:48:50Z",
+      "og_image": "https://sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+      "excerpt": "Computer scientist Peter J. Denning argues that AI research has followed a flawed path rooted in Turing's 1950 assumptions, contending that human tacit knowledge (common sense, intuition, practical skill) cannot be fully encoded into machines. The cognitive-science critique questions whether today's AI can reach genuine human-level understanding."
+    },
+    {
+      "url": "https://www.statnews.com/2026/07/14/openadmet-ai-drug-metabolism-prediction-inductive-bio/",
+      "source": "STAT News",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/Untitled-1-645x645.jpg",
+      "excerpt": "An open AI competition to predict drug metabolism (whether compounds activate the PXR receptor that clears roughly half of all marketed drugs) ended in a 28-way statistical tie, with startup Inductive Bio narrowly on top. The result suggests data quality, not raw model size, drives performance in AI-for-drug-discovery, reshaping how the field benchmarks its models."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-20T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg",
+      "excerpt": "Tel Aviv University researchers built GOFLOW, an AI system that reconstructs fine-scale ocean surface currents from satellite thermal imagery, revealing small-scale dynamics that standard models miss. Better maps of these currents sharpen climate, weather and ocean-atmosphere gas-exchange predictions."
     }
   ]
 }

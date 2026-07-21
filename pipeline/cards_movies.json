@@ -1,25 +1,84 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "movies",
   "cards": [
     {
-      "id": "switchlight3",
+      "id": "switchhdr",
       "eyebrow": "AI NEWS",
-      "headline": "실사 4K 영상을 언리얼에서\nAI로 다시 밝히는 스위치라이트 3",
-      "mini_headline": "AI 재조명 스위치라이트 3",
-      "body": "비블 AI가 코리도어 크루의 실사 4K 영상에 스위치라이트 3을 적용해 언리얼 엔진 안에서 바로 쓸 재조명 패스를 만들어냈다.",
-      "tool": "SwitchLight 3",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
+      "headline": "SDR 영상에서 HDR을\n복원하는 AI 모델 등장",
+      "body": "비블이 공개한 SwitchHDR는 일반 SDR 영상을 장면 선형 16비트 EXR로 복원해 VFX·후반 작업에 바로 넘긴다.",
+      "mini_headline": "SDR을 HDR로 복원",
+      "tool": "SwitchHDR",
+      "source": "fxguide",
+      "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "프로비디오 코얼리션이 SIGGRAPH 2026 현장에서 전한 소식. 퓨젯 시스템스는 몰입형 '로보 도조' 부스를 꾸리고, 쇼 플로어에 나온 AI 기반 창작 도구들을 함께 조명했다."},
-          {"t": "img", "src": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg"},
-          {"t": "p", "x": "비블 AI와 디스트릭트 시네마는 코리도어 크루의 'Son of a Dungeon' 시즌3 실사 4K 영상에 새 스위치라이트 3 모델을 돌렸다. 그 결과 언리얼 엔진 안에서 바로 쓸 수 있는 PBR 재조명 패스가 나왔다."},
-          {"t": "p", "x": "키샷 스튜디오의 'AI 숏' 기능은 CAD 데이터와 조명을 건드리지 않으면서 필요한 부분만 생성형으로 손봤다. 실제 제작 파이프라인에서 생성형 재조명이 어떻게 자리 잡는지 보여준 사례다."}
+          {"t": "p", "x": "비블(Beeble)이 SwitchHDR를 공개했다. 평범한 SDR 영상에서 HDR 화면을 복원해 내는 AI 모델로, 결과물을 장면 선형(scene-linear) 16비트 EXR 시퀀스로 뽑아 전문 VFX와 후반 파이프라인에 곧바로 얹을 수 있다."},
+          {"t": "img", "src": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2-830x415.jpg"},
+          {"t": "p", "x": "\"실제 디테일이 살아남은 곳은 그대로 되살리고, 완전히 날아간 부분은 어떻게 다시 채울지 아티스트가 정한다.\" 훈 킴(Hoon Kim) 대표의 설명이다."},
+          {"t": "p", "x": "클리핑으로 사라진 하이라이트까지 기계가 임의로 메우지 않고, 판단의 몫은 작업자에게 남겨 둔 점이 눈에 띈다."}
+        ]
+      }
+    },
+    {
+      "id": "nvidia-keynote",
+      "eyebrow": "AI NEWS",
+      "headline": "뉴럴 렌더링과 월드 모델\n엔비디아가 방향을 짚는다",
+      "body": "엔비디아 리서치가 SIGGRAPH 2026 기조연설에서 뉴럴 렌더링과 월드 모델, AI 시뮬레이션의 다음 방향을 짚는다.",
+      "mini_headline": "엔비디아 기조연설",
+      "tool": "NVIDIA Research",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "p", "x": "엔비디아 리서치의 닐 애슈턴(Neil Ashton), 밍위 리우(Ming-Yu Liu), 에드워드 리우(Edward Liu)가 SIGGRAPH 2026 기조연설에 나선다. 주제는 뉴럴 렌더링, 월드 모델, 그리고 AI 기반 시뮬레이션의 최신 진전이다."},
+          {"t": "img", "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg"},
+          {"t": "p", "x": "영화와 VFX를 위한 생성형 그래픽스가 어디로 향하는지 가늠해 볼 자리다. 파이프라인의 변화를 좇는 아티스트라면 눈여겨볼 만하다."}
+        ]
+      }
+    },
+    {
+      "id": "spark-story",
+      "eyebrow": "AI NEWS",
+      "headline": "실시간 프리비즈 도구\n스파크 스토리 베타 열렸다",
+      "body": "라이트크래프트의 스파크 스토리는 장면을 블로킹하고 풀 화질 슈퍼데일리를 실시간으로 뽑아 프리비즈 단계를 압축한다.",
+      "mini_headline": "스파크 스토리 베타",
+      "tool": "Spark Story",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "p", "x": "라이트크래프트(Lightcraft)가 스파크 스토리(Spark Story)의 순차 베타를 열었다. 필름메이커가 장면을 블로킹하고 에셋 라이브러리를 채우며, 풀 화질 '슈퍼데일리(superdailies)'를 실시간으로 렌더링할 수 있는 인터랙티브 프리비주얼라이제이션 도구다."},
+          {"t": "p", "x": "AI 키어나 블루·그린스크린 키어와 함께 물려 쓸 수 있어, 프리비즈 단계를 줄이고 초기 제작 비용을 낮추는 데 초점을 맞췄다. 베타는 지금 신청해 볼 수 있다."}
+        ]
+      }
+    },
+    {
+      "id": "project-indigo",
+      "eyebrow": "AI NEWS",
+      "headline": "어도비 프로젝트 인디고에\n생성형 AI 놀이터가 열린다",
+      "body": "어도비가 카메라 앱 프로젝트 인디고에 실험적 AI 플레이그라운드를 더해, 촬영 직후 생성형 편집을 곧바로 적용하게 했다.",
+      "mini_headline": "인디고 AI 놀이터",
+      "tool": "Project Indigo",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/adobe-project-indigo-ai-playground",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "p", "x": "어도비가 컴퓨테이셔널 포토그래피 앱 '프로젝트 인디고(Project Indigo)'에 실험 기능 'AI 플레이그라운드(AI Playground)'를 붙였다. 촬영을 마친 직후, 찍은 사진에 곧바로 생성형 편집을 얹을 수 있다."},
+          {"t": "img", "src": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg"},
+          {"t": "p", "x": "단순한 스타일 전이를 넘어, 기기 안에서 도는 온디바이스 생성형 이미지 조작을 한 단계 더 밀어붙인 시도다."}
         ]
       }
     }

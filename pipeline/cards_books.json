@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "books",
   "cards": [
     {
-      "id": "fanfic-ai-markers",
+      "id": "ai-narration",
       "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "복사해 붙인 글에 남은 흔적이\nAI 사용을 드러내다",
-      "body": "클로드에서 붙여넣은 글에 숨은 표식이 남아, AI를 꺼리던 팬픽 커뮤니티의 광범위한 AI 사용이 드러났다.",
-      "mini_headline": "붙여넣기가 남긴 AI 흔적",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
+      "headline": "청취자 61%가 AI 낭독을\n사람 목소리로 착각했다",
+      "body": "스포큰 조사에서 청취자 61%가 AI 낭독을 사람 목소리로 착각했고, 다역 장면에선 AI 낭독을 선호했다.",
+      "mini_headline": "AI 낭독, 사람으로 착각",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "클로드 같은 AI로 쓴 글을 아카이브 오브 아워 온(AO3)에 복사해 붙이면, 눈에 보이지 않는 표식이 텍스트에 그대로 남는다." },
-          { "t": "p", "x": "이 흔적 덕분에, AI 창작에 강하게 반대해 온 팬픽 커뮤니티 안에서도 AI의 손을 빌린 글쓰기가 폭넓게 이뤄져 왔다는 사실이 드러났다." },
-          { "t": "p", "x": "붙여넣기만으로는 지워지지 않는 이 표식은 작가와 편집자가 직접 확인해 볼 수 있는 AI 판별 단서가 된다." },
-          { "t": "img", "src": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg" }
+          { "t": "p", "x": "오디오북 스타트업 스포큰이 의뢰한 조사에서, 청취자의 61%가 AI 낭독을 사람 목소리로 착각한 것으로 나타났다. 같은 비율은 여러 인물이 등장하는 다역 장면에서 오히려 AI 낭독을 선호한다고 답했다." },
+          { "t": "p", "x": "다만 흐름이 한쪽으로만 흐르는 건 아니다. 오디오출판협회(APA)가 따로 진행한 조사에서는 AI 낭독 오디오북을 한번 들어 보겠다는 응답이 지난해보다 오히려 줄었다." },
+          { "t": "p", "x": "사람 목소리와 구분하기 어려운 다역 장면에는 마음을 열면서도, AI 낭독 전반을 향한 관심은 식어 가는 셈이다. 오디오북 제작사와 1인 출판 저자들이 다역 작품에 AI 낭독을 어디까지 쓸지 저울질할 때 곱씹어 볼 대목이다." }
         ]
       }
     },
     {
-      "id": "vancouver-ai-disclosure",
+      "id": "ai-uptake",
       "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "학술계 AI 공개를 위한\n밴쿠버 표준이 나온다",
-      "body": "AI를 쓴 연구자 약 3분의 1이 이를 밝히지 않는다는 조사 뒤, 학술 AI 공개 기준인 '밴쿠버 표준'이 국제 협의로 마련된다.",
-      "mini_headline": "AI 공개, 밴쿠버 표준",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/",
+      "headline": "출판이 전 창작 산업에서\nAI 도입률 가장 낮은 6%",
+      "body": "크리에이티브 액세스 조사에서 출판의 AI 도입률은 전 창작 산업을 통틀어 가장 낮은 6%로 집계됐다.",
+      "mini_headline": "출판 AI 도입률 6%, 최저",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/publishing-has-lowest-uptake-of-ai-across-creative-industries-according-to-new-report",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "학술 연구에서 AI 사용을 어떻게 밝힐지 정하는 '밴쿠버 표준'이 국제 협의를 거쳐 초안 작업에 들어갔다." },
-          { "t": "p", "x": "배경에는 AI를 활용한 연구자 가운데 약 3분의 1이 논문을 낼 때 그 사실을 전혀 알리지 않는다는 조사 결과가 있다." },
-          { "t": "p", "x": "공통된 공개 기준이 자리를 잡으면 저자와 편집자, 출판사가 AI 사용을 기록하는 방식도 달라질 전망이다." }
+          { "t": "p", "x": "크리에이티브 액세스가 펴낸 2026년 '스라이브(Thrive)' 보고서에 따르면, 출판업의 AI 도입률은 6%에 그쳤다. 조사에 오른 여러 창작 산업 가운데 가장 낮은 수치다." },
+          { "t": "img", "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg" },
+          { "t": "p", "x": "인접한 창작 분야들이 훨씬 빠르게 AI 도구를 받아들이는 사이에도, 출판만 유독 뒤처져 있다는 뜻이다. 보고서는 그 배경으로 저작권과 저자 권리를 둘러싼 해묵은 우려를 짚었다." },
+          { "t": "p", "x": "6%라는 숫자는 출판계가 다른 창작 부문과 견줘 어디쯤 서 있는지 가늠하게 하는 단단한 좌표가 된다." }
         ]
       }
     },
     {
-      "id": "bloomsbury-ai-licensing",
+      "id": "hologram",
       "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "블룸즈버리, AI 라이선스로\n실적을 끌어올리다",
-      "body": "블룸즈버리가 구글 AI 라이선스 수익으로 실적을 올린 가운데, 여러 출판사는 무단 학습을 이유로 구글을 제소했다.",
-      "mini_headline": "블룸즈버리 AI 수익",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
+      "headline": "책 대신 AI 요약본을 읽는\n출판의 '홀로그램 문제'",
+      "body": "로버트 무어는 AI 요약과 챗봇이 책의 알맹이를 대신 전하면서 독자가 원작 대신 복제물을 소비하게 된다고 본다.",
+      "mini_headline": "출판의 '홀로그램 문제'",
+      "source": "Literary Hub",
+      "url": "https://lithub.com/publishing-has-a-hologram-problem-and-its-growing/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "이번 주 출판계 소식은 블룸즈버리의 실적 발표가 이끌었다. 구글과 맺은 AI 라이선스에서 나온 수익이 좋은 성적을 뒷받침했다." },
-          { "t": "p", "x": "반면 여러 출판사는 자사 도서를 제미나이 학습에 무단으로 썼다며 구글을 상대로 법적 대응에 나섰다." },
-          { "t": "p", "x": "같은 AI 학습을 두고 한쪽은 소송으로 맞서고 다른 한쪽은 수익을 거두는, 업계의 엇갈린 풍경이 함께 드러난다." },
-          { "t": "img", "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png" }
+          { "t": "p", "x": "로버트 무어는 오늘날 출판이 점점 커지는 '홀로그램 문제'와 마주하고 있다고 말한다. AI 요약 도구와 챗봇, 마케팅 문구, 팟캐스트가 책의 알맹이를 너무나 그럴듯하게 전해 주는 탓이다." },
+          { "t": "img", "src": "https://s26162.pcdn.co/wp-content/uploads/2026/07/book-scaled.jpg" },
+          { "t": "p", "x": "그 결과 독자는 책 자체를 펼치는 대신, 책을 본뜬 복제물을 소비하는 쪽으로 기운다. 원작을 읽지 않고도 다 읽은 듯한 착각에 이르는 것이다." },
+          { "t": "p", "x": "무어는 이런 변화가 책을 쓰고 파는 방식은 물론, 읽는 방식까지 새로 짜고 있다고 짚는다. 편집자와 마케터에게는 발견 가능성과 책 자체의 가치를 다시 묻게 하는 물음이다." }
         ]
       }
     }

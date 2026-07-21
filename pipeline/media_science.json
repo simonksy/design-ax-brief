@@ -1,11 +1,10 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "science",
   "media": [
-    {
-      "id": "willow-rl",
-      "type": "image",
-      "src": "pipeline/media/willow-rl.png"
-    }
+    { "id": "flatband", "type": "image", "src": "pipeline/media/flatband.jpg" },
+    { "id": "baker", "type": "image", "src": "pipeline/media/baker.jpeg" },
+    { "id": "openadmet", "type": "image", "src": "pipeline/media/openadmet.jpg" },
+    { "id": "goflow", "type": "image", "src": "pipeline/media/goflow.jpg" }
   ]
 }
