@@ -1,30 +1,66 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "games",
   "selection_mode": "auto",
-  "shortfall": true,
-  "shortfall_count": 4,
-  "shortfall_note": "Fresh games pool is genuinely thin. Of 2 candidates: the PC Gamer 'more than half of Steam games will have an AI disclosure by 2027-2028' item was DROPPED as a CONTENT duplicate of the already-published 'steam-ai-flood' card (2026-07-16, GamesRadar+) — both cover the same ~53,600-release Steam AI study/dataset. Only the 80.lv Houdini 22 item is a distinct, never-before-published story. Selecting 1; not padding. 4 short of the target of 5 (2 short of the floor of 3).",
   "picks": [
     {
-      "id": "houdini22",
-      "url": "https://80.lv/articles/houdini-22-is-out-now-bringing-native-gaussian-splats-new-ui-and-more",
-      "headline": "Houdini 22 Is Out Now, Bringing Native Gaussian Splats, New UI, and More",
-      "source": "80 Level",
-      "published_iso": "2026-07-15T20:16:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49281/images/6a57ea98136c5/contain_1200x630.jpg",
-      "excerpt": "SideFX shipped Houdini 22 with native Gaussian Splats (neural radiance-field capture), a redesigned UI, Copernicus and KineFX upgrades, and new rendering workflows for game and VFX production. Brings AI-adjacent neural-capture tooling into a core game-art content pipeline.",
+      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
+      "title": "Unity unveils Unity 7 roadmap at Unite Seoul",
+      "source": "Game Developer",
+      "published_iso": "2026-07-21T02:00:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Unity revealed its Unity 7 roadmap at Unite Seoul: same Unity 6 architecture with zero-rebuild upgrades, AI-assisted graphics optimization and integration with the Unity Vector AI engine. Unity says the release is 'built for a future where humans and coding agents can work together,' while promising studios that keep AI out of creative work aren't sidelined.",
       "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "SideFX's Houdini 22 lands native Gaussian Splats and a redesigned UI directly in a core game-art pipeline — an actionable first-party tooling release that changes how technical artists capture and build assets tomorrow."
+      "rationale": "Major engine roadmap from a top-tier source that bakes AI-assisted optimization and coding agents into Unity 7 with a no-rebuild upgrade path — directly changes how game teams plan tomorrow."
+    },
+    {
+      "url": "https://www.pcgamer.com/hardware/nvidia-finally-reveals-what-controls-devs-actually-have-for-dlss-5-and-dont-worry-folks-there-are-two-main-sliders-to-control-the-ai-filter/",
+      "title": "NVIDIA reveals the controls devs actually have for DLSS 5's AI filter",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-21T11:11:37Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GB4RKTAnxZ8BWDNa7sq4hB-1094-80.jpg",
+      "excerpt": "PC Gamer breaks down the two main sliders NVIDIA is giving developers to steer the DLSS 5 AI filter, after concerns that the neural renderer removes artistic control over the final image. More dev-facing controls are reportedly being built.",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "Concrete, credible detail on the exact controls artists get over DLSS 5's neural render — actionable for tech artists worried about losing creative say over the final frame. Distinct accent from the other games picks."
+    },
+    {
+      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner/",
+      "title": "Meshy wants AI to feel less like a prompt and more like a creative partner",
+      "source": "80 Level",
+      "published_iso": "2026-07-21T15:00:00Z",
+      "og_image": "",
+      "excerpt": "Meshy launched a 3D Agent Beta, a conversational AI that keeps context across steps so game artists can brainstorm, generate stylistically consistent asset collections and iterate — positioning AI as a creative partner rather than a one-shot prompt. Assets export to Blender, Unreal Engine and Unity pipelines.",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "Fresh tool release (3D Agent Beta) that shifts 3D asset generation from one-shot prompts to iterative, context-aware collaboration exporting straight into Blender/Unreal/Unity — immediately useful for game artists. Distinct accent from the other games picks."
     }
   ],
-  "dropped": [
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
-      "reason": "CONTENT DUPLICATE - same ~53,600-release Steam AI-disclosure study already published as 'steam-ai-flood' (2026-07-16, GamesRadar+); different outlet/reword of the same dataset."
-    }
-  ]
+  "dedup": {
+    "pool_size": 5,
+    "kept": 3,
+    "dropped_as_duplicate": 2,
+    "dropped_for_diversity": 0,
+    "checked_against": "sections.games — today (2026-07-21) + days 2026-07-16, 07-17, 07-18, 07-19",
+    "notes": [
+      "GamesRadar 'Half of all Steam games will use AI by 2028' — DROPPED as content-hub duplicate. Its own excerpt says 'The same large Steam study,' i.e. the identical 53,597-game Steam study already published 2026-07-16 as 'steam-ai-flood' (GamesRadar). Same source + same study + same date = one story, earliest-wins.",
+      "Wccftech 'NVIDIA DLSS 5 hands full control to artists' — DROPPED as within-pool duplicate of the PC Gamer DLSS 5 dev-controls story (same NVIDIA reveal of the DLSS 5 artist/dev sliders). Kept the PC Gamer version for higher credibility and the concrete 'two sliders' detail.",
+      "Unity 7 roadmap (Game Developer) — KEPT. No prior Unity 7 / Unite Seoul card in the 5-day games history (published 'unity-mcp' 07-19 is an unrelated Unity 6 MCP shorts tip).",
+      "Meshy 3D Agent Beta (80 Level) — KEPT. New standalone tool release, no prior Meshy card in games history.",
+      "PC Gamer DLSS 5 (kept) — KEPT. No prior DLSS 5 card in games history."
+    ],
+    "diversity_guard": {
+      "outlets": "3 distinct (Game Developer, PC Gamer, 80 Level); no outlet exceeds 1 card — GamesRadar and Wccftech near-duplicates each collapsed to a single best story",
+      "categories": "games x3 (single-category section)"
+    },
+    "below_target": true,
+    "below_target_reason": "Target is up to 5, but the filtered pool of 5 contained one published-Steam-study duplicate and one DLSS-5 near-duplicate. After earliest-wins dedup only 3 distinct, never-before-seen stories remain. Delivering 3 (the floor) rather than padding, per instructions."
+  }
 }

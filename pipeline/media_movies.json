@@ -1,7 +1,10 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "movies",
   "media": [
-    { "id": "switchlight3", "type": "image", "src": "pipeline/media/switchlight3.jpg" }
+    { "id": "switchhdr", "type": "video", "src": "pipeline/media/switchhdr.mp4", "poster": "pipeline/media/switchhdr.jpg" },
+    { "id": "nvidia-keynote", "type": "image", "src": "pipeline/media/nvidia-keynote.jpg" },
+    { "id": "spark-story", "type": "image", "src": "pipeline/media/spark-story.jpg" },
+    { "id": "project-indigo", "type": "image", "src": "pipeline/media/project-indigo.jpg" }
   ]
 }

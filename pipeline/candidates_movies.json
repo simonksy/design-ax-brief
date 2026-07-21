@@ -1,7 +1,7 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-22",
   "section": "movies",
-  "now_iso": "2026-07-20T23:02:21Z",
+  "now_iso": "2026-07-21T23:06:40Z",
   "window_hours": 336,
   "items": [
     {
@@ -10,26 +10,62 @@
       "source": "fxguide",
       "category": "movies",
       "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
-      "excerpt": "Beeble's SwitchHDR is a machine-learning model that reconstructs HDR imagery from ordinary SDR video for professional post, addressing the reality that most existing footage is SDR while productions increasingly demand HDR-quality assets."
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2-830x415.jpg",
+      "excerpt": "Beeble unveiled SwitchHDR, an AI model that reconstructs HDR imagery from standard SDR footage, outputting scene-linear 16-bit EXR sequences for professional VFX and post pipelines. 'Where real detail survives we recover it; where it's fully clipped, the artist decides how it gets rebuilt,' says CEO Hoon Kim."
     },
     {
-      "url": "https://www.screendaily.com/news/tilly-norwood-creator-developing-feature-film-misaligned-starring-the-ai-actor/5218374.article",
-      "title": "Tilly Norwood creator developing feature film 'Misaligned' starring the AI actor",
-      "source": "Screen Daily",
+      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
+      "title": "NVIDIA 'Neural Rendering, World Models and Simulation' Keynote Set for SIGGRAPH 2026",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-07-07T08:36:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/0/8/1482808_unknown_2865_crop.jpeg",
-      "excerpt": "Particle 6, the UK company behind AI-generated 'actor' Tilly Norwood, is developing its first feature, the comedy-drama 'Misaligned,' using a hybrid production model that pairs traditional filmmaking roles with AI specialists — a concrete test of how synthetic-performer pipelines reshape a production."
+      "published_iso": "2026-07-13T18:38:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg",
+      "excerpt": "NVIDIA Research leaders Neil Ashton, Ming-Yu Liu and Edward Liu will deliver a SIGGRAPH 2026 keynote on advances in neural rendering, world models and AI-driven simulation, signaling where generative graphics for film and VFX are headed."
+    },
+    {
+      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
+      "title": "Foundry's SmartRoto: AI-assisted roto that aims to work the way you do",
+      "source": "fxguide",
+      "category": "movies",
+      "published_iso": "2026-07-16T12:00:00Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS.jpg",
+      "excerpt": "Foundry released SmartRoto, an AI-powered rotoscoping plugin for Nuke that predicts spline movement across frames while treating artist keys as authoritative constraints, reportedly delivering 2-4x faster roto for $499/year and running locally without cloud transmission."
+    },
+    {
+      "url": "https://www.awn.com/news/foundry-launches-griptape-enterprise-secure-ai-accelerated-vfx-workflows",
+      "title": "Foundry Launches Griptape Enterprise for Secure AI-Accelerated VFX Workflows",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-07-16T16:25:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/09_mixed_permissions_limited_api_model_use_-_focusing_on_all_local_-1280.jpg",
+      "excerpt": "Foundry launched Griptape Enterprise, a governance tier that lets VFX pipeline supervisors curate which AI models artists use and run generative workflows on-premise, keeping AI-accelerated film and episodic production vetted, compliant and production-ready."
     },
     {
       "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
       "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
       "source": "ProVideo Coalition",
       "category": "movies",
-      "published_iso": "2026-07-20T14:51:18Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg",
-      "excerpt": "ProVideo Coalition's SIGGRAPH 2026 dispatch spotlights AI-driven creative tools on the show floor: Beeble AI and District Cinema ran the new SwitchLight 3 model on native 4K cinematic footage from Corridor Crew's 'Son of a Dungeon' S3 to generate production-ready PBR relighting passes inside Unreal Engine, and Keyshot Studio's 'AI Shots' made focused generative edits while respecting CAD data and lighting — a concrete look at generative relighting in a real production pipeline."
+      "published_iso": "2026-07-20T12:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003-1024x682.jpg",
+      "excerpt": "At SIGGRAPH 2026, Beeble AI and District Cinema demonstrated the new SwitchLight 3 model generating production-ready PBR relighting passes from native 4K footage of Corridor Crew's 'Son of a Dungeon,' then imported those passes into Unreal Engine for high-quality real-time rendering on a Puget workstation."
+    },
+    {
+      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
+      "title": "Lightcraft Launches Beta for Spark Story Interactive Previz Tool",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-07-17T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Lightcraft opened a rolling beta of Spark Story, an interactive previz tool that lets filmmakers block scenes, populate asset libraries and render full-quality 'superdailies' in real time — working with AI or blue/greenscreen keyers to compress previsualization and cut early production costs."
+    },
+    {
+      "url": "https://www.redsharknews.com/adobe-project-indigo-ai-playground",
+      "title": "Adobe adds experimental AI Playground to Project Indigo camera app",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-07-21T09:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg",
+      "excerpt": "Adobe added an experimental AI Playground to its Project Indigo computational-photography app, letting shooters apply generative editing directly after capture — pushing on-device generative image manipulation well beyond simple style transfer."
     }
   ]
 }

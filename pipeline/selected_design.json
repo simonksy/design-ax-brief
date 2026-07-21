@@ -1,79 +1,66 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "title": "NVIDIA brings agentic AI into Adobe, Blender and Unreal at SIGGRAPH 2026",
-      "source": "NVIDIA Blog",
-      "published_iso": "2026-07-20T15:00:53Z",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/mcp-main-feature-1680x948.jpg",
-      "excerpt": "At SIGGRAPH 2026 NVIDIA rolled out agentic AI for creative pros, with Model Context Protocol integrations that let AI assistants act inside Adobe, Blender, Unreal Engine and other design apps — inspecting scenes, flagging color issues and preparing export variants while artists keep creative control.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Major SIGGRAPH release from a top-tier source that puts AI agents directly inside the apps designers use daily — high actionability and credibility."
-    },
-    {
-      "url": "https://www.creativebloq.com/3d/i-watched-lightcraft-turn-a-screenplay-into-a-virtual-film-set-using-an-iphone",
-      "title": "I watched Lightcraft turn a screenplay into a virtual film set using an iPhone",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-20T15:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/nzsdtuoJAMKAHiWHUjmMgZ-1600-80.jpg",
-      "excerpt": "Hands-on with Lightcraft's Spark Story, unveiled at SIGGRAPH 2026: a screenplay-first virtual production tool that lets writers, directors and cinematographers build and shoot a virtual film set — recording shots with just an iPhone — long before any physical location or set exists.",
+      "url": "https://www.cgchannel.com/2026/07/chaos-releases-v-ray-7-4-for-blender/",
+      "title": "Chaos releases V-Ray 7.4 for Blender",
+      "source": "CG Channel",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/270721_VRay74Blender_f.jpg",
+      "excerpt": "Chaos shipped V-Ray 7.4 for Blender, adding a Quick Sun Caustics system, UDIM support, Cycles-to-V-Ray lighting conversion, and tighter integration with Veras, its architectural AI rendering software.",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Fresh SIGGRAPH product unveiling with a genuinely new screenplay-to-set workflow shot from a phone — hands-on verified and distinct from the earlier Lightcraft vision interview."
+      "rationale": "Major renderer update for the huge Blender user base — Cycles-to-V-Ray conversion and AI (Veras) integration directly change how 3D/arch artists render tomorrow."
     },
     {
-      "url": "https://80.lv/articles/folding-entire-360-degree-worlds-into-one-sphere-with-3dgs",
-      "title": "'inversphere' folds entire 360-degree worlds into one sphere with 3DGS",
-      "source": "80 Level",
-      "published_iso": "2026-07-20T14:56:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49357/images/6a5e371c6f2a0/contain_1200x630.jpg",
-      "excerpt": "A developer called VoxelKei released 'inversphere,' a technique that folds entire 360-degree environments into a single sphere for displaying 3D Gaussian Splatting scenes — a novel capture-and-display approach feeding real-time 3D and render workflows.",
+      "url": "https://www.cgchannel.com/2026/07/foundry-releases-new-ai-powered-smartroto-add-on-for-nuke/",
+      "title": "Foundry releases new AI-powered SmartRoto add-on for Nuke",
+      "source": "CG Channel",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Foundry released an AI-powered SmartRoto add-on for Nuke that automatically propagates and deforms roto splines across a shot, claiming to speed up rotoscoping 'up to 4x' versus manual work.",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#3b6bff",
       "motif": "sphere",
-      "rationale": "A novel just-released 3DGS display technique — distinct from published 3DGS-generation tool releases — with a distinct accent from the other render pick."
+      "rationale": "AI that automates one of VFX's most tedious tasks — up-to-4x faster rotoscoping in Nuke is an immediately actionable workflow change; distinct accent since it shares the render category."
     },
     {
-      "url": "https://dev.to/chen_mensen_ac0fc78dae2a4/i-stopped-making-my-ai-image-prompts-longer-style-references-helped-more-4h2m",
-      "title": "I stopped making my AI image prompts longer — style references helped more",
-      "source": "DEV Community",
-      "published_iso": "2026-07-20T09:13:50Z",
+      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
+      "title": "Meshy wants AI to feel less like a prompt and more like a creative partner",
+      "source": "80 Level",
+      "published_iso": "2026-07-21T00:00:00Z",
       "og_image": "",
-      "excerpt": "Argues that piling more words into AI image prompts yields diminishing returns, and that supplying visual style references gives designers far more reliable, repeatable control over generated output — a practical shift in creative-AI craft.",
+      "excerpt": "Meshy's new conversational 3D Agent keeps context across a session so creators can set art direction and generate stylistically consistent, production-ready 3D assets, positioning AI as a creative partner rather than a one-shot prompt.",
       "category": "workflow",
       "tool": "AI Workflow",
-      "accent": "#eb367f",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Practical craft shift that immediately changes how designers get repeatable results from image models — distinct accent from the other workflow pick."
+      "rationale": "A conversational 3D Agent that holds art-direction context across a session reframes prompt-based 3D generation as a collaborative workflow — novel and directly relevant to designers' asset pipelines; adds a distinct outlet and category."
     }
   ],
   "dedup": {
-    "pool_size": 6,
-    "kept": 4,
-    "dropped_as_duplicate": 1,
+    "pool_size": 4,
+    "kept": 3,
+    "dropped_as_duplicate": 0,
     "dropped_for_diversity": 1,
-    "checked_against": "sections.design — today (2026-07-20) + days 2026-07-15, 07-16, 07-17, 07-18, 07-19",
+    "checked_against": "sections.design — today (2026-07-21) + days 2026-07-16, 07-17, 07-18, 07-19, 07-20",
     "notes": [
-      "dev.to spotting-ai-ui-is-too-easy (harish_s) — DROPPED as content duplicate. Same core topic as published 'hallmark' (07-19: how Hallmark fixes generic AI UI in Cursor/Codex/Claude Code) and overlaps 'ui-score-gate' + 'frontend-skill' (07-18): the tell-tale generic look of AI-generated UI and prompt/design-system fixes. Reworded rehash of already-published material. This was the only 'figma' candidate.",
-      "dev.to information-architecture-for-ai-chatbots (rohit_raghuvansh) — DROPPED for category diversity. Fresh and unique, but it is a third 'workflow' item; keeping it would put 3 cards in one category, violating the max 1-2 per category guard. Held out in favor of the two stronger workflow picks.",
-      "Lightcraft Spark Story (Creative Bloq) — KEPT. Distinct from the 07-19 Lightcraft card (a CEO vision interview with no product); this is a specific SIGGRAPH 2026 product unveiling (Spark Story, iPhone virtual set). Different URL and concrete new-release news.",
-      "inversphere (80 Level) — KEPT. Distinct from published 3DGS releases houdini22 (07-17) and zephyr9 (07-19), which add 3DGS generation to DCC/photogrammetry tools; this is a novel display technique by an indie dev.",
-      "NVIDIA SIGGRAPH agentic AI — KEPT. No prior NVIDIA/MCP card in the 5-day design history."
+      "All 4 filtered candidates are fresh — none match any URL or story already published in the 5-day design history (published cgchannel cards were houdini22 and zephyr9, both distinct releases).",
+      "ArcBrush 1.5 (CG Channel, 07-19) — DROPPED for the outlet-diversity guard. It is the 3rd CG Channel candidate, and the final set may hold at most 2 per outlet; it is also the weakest item (niche $49 node editor) and the oldest, so it yields to the two stronger CG Channel releases.",
+      "V-Ray 7.4 for Blender (CG Channel) — KEPT. Major renderer release for a broad audience.",
+      "Foundry SmartRoto for Nuke (CG Channel) — KEPT. AI-powered rotoscoping, highly actionable.",
+      "Meshy 3D Agent (80 Level) — KEPT. Only non-CG-Channel candidate; adds outlet + category spread."
     ],
     "diversity_guard": {
-      "outlets": "4 distinct (NVIDIA, Creative Bloq, 80 Level, DEV Community); dev.to capped at 1 of its 3 candidates",
-      "categories": "render x2, workflow x2 — max 2 per category respected"
+      "outlets": "2 distinct (CG Channel x2, 80 Level x1); CG Channel capped at 2 of its 3 candidates — only 2 outlets exist in the pool, so >=3 distinct outlets was not possible",
+      "categories": "render x2, workflow x1 — max 2 per category respected"
     },
     "below_target": true,
-    "below_target_reason": "Target is 5, but after dropping the figma content-duplicate the only remaining categories are render and workflow. Delivering a 5th would force a 3rd workflow card, violating category diversity. Four clean, unique, fresh picks selected; not padding per instructions."
+    "below_target_reason": "Filtered pool held only 4 candidates across 2 outlets, 3 of them from CG Channel. The <=2-per-outlet diversity guard caps CG Channel at 2, leaving 2 render + 1 workflow = 3 distinct fresh picks. Floor of 3 met; not padding a 4th that would violate the outlet cap."
   }
 }

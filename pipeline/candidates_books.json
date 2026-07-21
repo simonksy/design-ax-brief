@@ -1,64 +1,49 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "section": "books",
-  "now_iso": "2026-07-20T23:02:21Z",
+  "now_iso": "2026-07-21T23:06:40Z",
   "window_hours": 336,
+  "note": "Books AI beat was largely exhausted this cycle: most fresh (post-July-7) single-topic, design-relevant items surfaced by search were ALREADY PUBLISHED in the last 5 days per news_data.json (IPA Innovation Award winners, PP 'Around the Book World' July 20 roundup, The Bookseller Bolinda/Barbara Cartland voice clone + Take-a-Break Fiction Feast, Jane Friedman fanfiction AI markers, Scholarly Kitchen 'Vancouver Standard' AI disclosure, PW 'Global AI data analytics startups', goodereader interactive-3D textbooks). Remaining NOVEL fresh items cluster on AI audiobook multi-cast narration (a topic the rotation de-emphasized but which is the only genuinely fresh, unpublished cluster). WebSearch budget (200) was exhausted mid-run; YouTube upload dates verified via curl+JSON-LD. Social: Creative Penn July 12-14 uploads not AI; Sudowrite 'review' video (QUASA, uploaded 2026-07-03) fell just outside 336h. IG skipped (no handles for books). TOP-UP 2026-07-21T23:06:40Z: WebSearch budget already exhausted (200/200); ran the top-up entirely via WebFetch against books allowed_domains listing/tag pages (publishingperspectives, thebookseller, goodereader, lithub, kindlepreneur, writersdigest, thecreativepenn, scholarlykitchen, bookriot, the-digital-reader[403], teleread, publishersweekly digital+publisher-news, electricliterature[404], mediabistro[404]). Nearly all fresh non-published items were legal/funding noise (US publishers v. Google/Gemini lawsuit July 14 across PP/goodereader/bookriot; Anthropic $1.5B settlement) which was DROPPED per rules, or already-published (Scholarly Kitchen July 13 disclosure, The Bookseller AI-uptake report). Added ONE net-new distinct story: Literary Hub's 'hologram problem' (July 15) on AI summary/chat tools displacing actual reading. Books AI beat beyond audiobook narration + legal noise is genuinely thin this cycle.",
   "items": [
-    {
-      "url": "https://publishingperspectives.com/2026/07/at-closing-gala-ipa-announces-2026-innovation-award-winners/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-07-08T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6452-793x595.jpeg",
-      "excerpt": "At the 35th International Publishers Association Congress closing gala, two AI companies won the IPA Innovation in Publishing Award: Shimmr, whose 'Advertising as a Service' platform automates book marketing, and Ailaysa, a multilingual AI firm behind a cross-language book-discovery platform."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/interviews-research-and-human-input-used-by-bolinda-to-create-ai-clone-of-barbara-cartlands-voice",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg",
-      "excerpt": "Audiobook publisher Bolinda used interviews, archival research and human input to build an AI clone of the late romance novelist Barbara Cartland's voice, using it to narrate her catalogue and revive a distinctive authorial voice for new audiobook editions."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/take-a-breaks-fiction-feast-to-use-ai-tools-on-stories-created-in-house",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "Take-a-Break's Fiction Feast magazine has told its regular contributors that 'AI tools will be used' on upcoming in-house stories, a notable editorial-craft shift for one of the UK's best-known short-fiction titles."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/13/guest-post-research-needs-a-shared-standard-for-ai-disclosure/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-07-13T12:00:00Z",
-      "og_image": "",
-      "excerpt": "A global consultation is drafting a 'Vancouver Standard' for disclosing AI use in scholarly work, after findings that roughly a third of researchers using AI never report it when publishing."
-    },
     {
       "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
       "source": "Publishers Weekly",
       "category": "books",
       "published_iso": "2026-07-14T12:00:00Z",
       "og_image": "",
-      "excerpt": "A survey commissioned by AI audiobook company Spoken found listeners rated multi-voice AI narration favorably for character-driven fiction, even as overall willingness to try AI-narrated titles slipped from 70% to 61% year over year."
+      "excerpt": "A Spoken-commissioned survey found 61% of listeners mistook AI narration for human voices and the same share favored AI narration in multi-character scenes, even as a separate Audio Publishers Association study showed overall willingness to try AI-narrated audiobooks slipping year over year."
     },
     {
-      "url": "https://janefriedman.com/fanfiction-sites-reveal-plenty-of-ai-assisted-writing-to-community-dismay/",
+      "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
       "source": "Jane Friedman",
       "category": "books",
       "published_iso": "2026-07-15T12:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
-      "excerpt": "Text pasted from Claude into Archive of Our Own retains hidden markers that expose AI involvement, revealing widespread AI-assisted writing inside a fan community with a strong anti-AI stance."
+      "og_image": "",
+      "excerpt": "An Edison Research blind test found listeners rated AI multi-cast narration slightly better than single human narration for character-driven scenes, with 65% saying they'd try the full audiobook after hearing the AI version versus only 31% willing to try an AI-narrated title upfront."
     },
     {
-      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.thebookseller.com/news/publishing-has-lowest-uptake-of-ai-across-creative-industries-according-to-new-report",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-07-20T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
-      "excerpt": "Weekly book-world roundup: Bloomsbury posts strong results boosted by AI licensing revenue from Google, even as multiple publishers pursue legal action against Google over alleged unauthorized Gemini training on their books."
+      "published_iso": "2026-07-17T12:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg",
+      "excerpt": "Creative Access's 2026 'Thrive' report finds publishing has the lowest AI uptake of any creative industry at just 6%, reflecting ongoing concerns around copyright and authorship even as adjacent creative sectors adopt AI tools far faster."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TXlnWH0Kngg",
+      "source": "The Self-Publishing with Dale Podcast",
+      "category": "social",
+      "published_iso": "2026-07-16T14:15:36Z",
+      "og_image": "https://i.ytimg.com/vi/TXlnWH0Kngg/maxresdefault.jpg",
+      "excerpt": "Self-Publishing News (July 16, 2026): Dale L. Roberts breaks down the new survey data showing listeners increasingly accept AI multi-cast audiobook narration, and what the human-vs-AI narration split means for indie authors' production and budgeting decisions."
+    },
+    {
+      "url": "https://lithub.com/publishing-has-a-hologram-problem-and-its-growing/",
+      "source": "Literary Hub",
+      "category": "books",
+      "published_iso": "2026-07-15T09:10:26Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/07/book-scaled.jpg",
+      "excerpt": "Robert Moor argues publishing faces a growing 'hologram problem': AI summarizers, chat tools, marketing blurbs and podcasts now convey a book's substance so convincingly that readers increasingly consume the simulacrum instead of reading the book itself, reshaping how titles are written, sold and read."
     }
   ]
 }

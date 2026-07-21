@@ -1,120 +1,84 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "gadgets",
   "cards": [
     {
-      "id": "meta-privacy-led",
+      "id": "oneui9",
       "eyebrow": "AI NEWS",
-      "headline": "프라이버시 LED를 가리면\n카메라가 스스로 꺼진다",
-      "mini_headline": "가리면 카메라 정지",
-      "body": "메타가 v26 업데이트를 배포해 프라이버시 LED가 훼손되면 스마트글래스 카메라가 꺼지도록 강제한다.",
-      "tool": "Meta",
+      "headline": "원 UI 9, 갤럭시에\n에이전트형 제미나이 탑재",
+      "mini_headline": "갤럭시에 온 제미나이",
+      "body": "원 UI 9가 제미나이로 앱을 넘나들며 작업을 대신하고, 문장만으로 위젯을 만들어 준다.",
+      "tool": "One UI",
       "source": "9to5Google",
-      "url": "https://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "메타가 레이밴과 오클리 스마트글래스에 v26 업데이트를 의무 배포한다. 촬영 중임을 알리는 프라이버시 LED를 물리적으로 가리거나 망가뜨리면, 이번 업데이트가 카메라 기능을 아예 꺼버린다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&strip=all&w=1200"
-          },
-          {
-            "t": "p",
-            "x": "그동안 이 불빛을 테이프로 덮어 몰래 찍는 우회가 문제로 지적됐다. 불빛과 카메라를 한 몸으로 묶어, 주변 사람에게 촬영 사실을 알리는 신호가 사라지면 촬영 자체도 막히도록 만든 것이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "samsung-unpacked-july",
-      "eyebrow": "AI NEWS",
-      "headline": "갤럭시 언팩, 폴드8과\n에이전트 AI를 함께 연다",
-      "mini_headline": "언팩, AI 전면에",
-      "body": "22일 언팩을 앞두고 삼성이 갤럭시 Z 폴드8·플립8과 함께 예측·에이전트형 갤럭시 AI를 선보일 전망이다.",
-      "tool": "Samsung",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/what-were-expecting-at-samsungs-july-galaxy-unpacked-2026-2000787025",
+      "url": "https://9to5google.com/2026/07/14/one-ui-9-all-the-features-you-need-to-know-video/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "7월 22일 언팩을 앞두고 삼성이 무엇을 내놓을지 윤곽이 잡혔다. 접는 폰 갤럭시 Z 폴드8과 Z 플립8, 그리고 새 스마트워치가 무대에 오를 것으로 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48.jpg"
-          },
-          {
-            "t": "p",
-            "x": "이번 초점은 하드웨어보다 갤럭시 AI의 확장에 있다. 사용자의 다음 행동을 미리 읽는 예측 기능, 스스로 일을 처리하는 에이전트, 사진을 생성형으로 손보는 도구까지 폭넓게 더해질 것으로 예상된다."
-          }
+          { "t": "p", "x": "원 UI 9가 갤럭시에서 제미나이 인텔리전스를 처음 선보인다. 묻고 답하는 데서 그치지 않고, 여러 앱을 넘나들며 할 일을 대신 처리하는 에이전트형 자동화가 핵심이다." },
+          { "t": "img", "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" },
+          { "t": "p", "x": "문장 하나만 넣으면 원하는 위젯을 만들어 주고, 자동 채우기는 한결 똑똑해졌다. 말을 글로 옮기는 램블러(Rambler)까지 새로 들어왔다." }
         ]
       }
     },
     {
-      "id": "irobot-roomba-relaunch",
+      "id": "galaxyglasses",
       "eyebrow": "AI NEWS",
-      "headline": "아이로봇, AI 청소기\n다섯 종을 다시 내놓는다",
-      "mini_headline": "룸바의 재출발",
-      "body": "새 주인을 맞은 아이로봇이 AI 주행과 165도 온수 세척 도크를 갖춘 룸바 다섯 종을 공개했다.",
-      "tool": "iRobot",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/irobot-debuts-five-self-emptying-roombas-most-under-1000-2000782317",
+      "headline": "삼성 갤럭시 글래스 유출\n스냅드래곤 AR1에 제미나이",
+      "mini_headline": "갤럭시 글래스 유출",
+      "body": "유출된 갤럭시 글래스는 스냅드래곤 AR1과 듀얼 카메라를 얹고, 제미나이로 촬영과 번역을 손 안 대고 해낸다.",
+      "tool": "Samsung",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-glasses-specs-leak-3689677/",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "언팩을 앞두고 삼성의 안드로이드 XR 기기 '갤럭시 글래스' 사양이 유출됐다. 스냅드래곤 AR1 젠 1 칩과 듀얼 카메라를 얹은 것으로 전해진다." },
+          { "t": "img", "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glasses-leak.jpg" },
+          { "t": "p", "x": "제미나이가 깊숙이 맞물려, 손을 대지 않고도 눈앞의 장면을 찍고 번역하고 길을 안내받는다는 설명이다. 손 없이 쓰는 AI 웨어러블이 어디로 향하는지 가늠하게 하는 신호다." }
+        ]
+      }
+    },
+    {
+      "id": "snapdragonx2e",
+      "eyebrow": "AI NEWS",
+      "headline": "스냅드래곤 X2 엘리트 AI PC\n인텔·AMD와 정면 비교",
+      "mini_headline": "X2 엘리트 벤치마크",
+      "body": "노트북체크가 80-TOPS 헥사곤 NPU를 얹은 스냅드래곤 X2 엘리트를 최신 인텔·AMD 노트북과 맞대어 봤다.",
+      "tool": "Qualcomm",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/After-testing-several-Snapdragon-X2E-systems-this-is-how-they-compare-to-the-latest-Intel-and-AMD-laptops.1343280.0.html",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "새 모회사 피세아 로보틱스 아래에서 아이로봇이 먼지를 스스로 비우는 룸바 다섯 종을 새로 내놓았다. 대부분 1,000달러 아래로, 다섯 종 가운데 룸바 맥스 775가 라인업의 정점에 선다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Plus-575-mopping.jpg"
-          },
-          {
-            "t": "p",
-            "x": "맥스 775는 AI 기반 주행으로 집 안을 읽고, 스스로 덮이는 롤러 물걸레를 단다. 도크는 165도 온수로 걸레를 빨아내, 청소가 끝난 뒤 손이 갈 일을 크게 줄였다."
-          }
+          { "t": "p", "x": "노트북체크가 스냅드래곤 X2 엘리트를 얹은 여러 시스템을 직접 돌려 보고, 최신 인텔·AMD 노트북과 나란히 세웠다." },
+          { "t": "img", "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lenovoyoga714snapdragon.jpg" },
+          { "t": "p", "x": "80 TOPS급 헥사곤 NPU를 갖춘 이 AI PC들이 성능과 효율에서 어디쯤 서는지를 실측으로 짚었다. 온디바이스 AI 노트북을 고르려는 이들에게 쓸 만한 잣대가 된다." }
         ]
       }
     },
     {
-      "id": "brainco-mind-robot",
+      "id": "surfacelaptop138",
       "eyebrow": "AI NEWS",
-      "headline": "생각만으로 로봇을\n0.2초 만에 움직인다",
-      "mini_headline": "뇌파로 로봇 제어",
-      "body": "브레인코가 뇌파를 200밀리초 안에 로봇 명령으로 바꾸는, 손이 필요 없는 제어 플랫폼을 시연했다.",
-      "tool": "BrainCo",
+      "headline": "서피스 랩톱 13.8, X2 플러스로\n코파일럿+ 기준을 넘다",
+      "mini_headline": "서피스 랩톱 13.8",
+      "body": "서피스 랩톱 13.8은 스냅드래곤 X2 플러스로 CPU가 크게 빨라졌고, NPU가 코파일럿+ 온디바이스 AI 기준을 넘어선다.",
+      "tool": "Microsoft",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.1346280.0.html",
-      "accent": "#2ec5c5",
+      "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
+      "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "상하이에서 열린 2026 세계 인공지능 대회에서 브레인코가 생각으로 조종하는 로봇 AI 플랫폼을 선보였다. EEG 헤드셋이 뇌 신호를 읽어, 200밀리초 안에 로봇이 알아듣는 명령으로 풀어낸다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg"
-          },
-          {
-            "t": "p",
-            "x": "손을 쓰지 않고도 기계를 다룰 수 있다는 점이 핵심이다. 한 손에 과자를 든 채로 PC를 조립하는 장면처럼, 생각과 동작 사이의 지연을 눈에 띄게 좁힌 새로운 조작 방식의 실마리를 보여준다."
-          }
+          { "t": "p", "x": "마이크로소프트가 스냅드래곤 X2 플러스를 얹은 서피스 랩톱 13.8(2026)을 내놨다. 코파일럿+ AI PC로, 앞선 세대보다 CPU가 확연히 빨라졌다." },
+          { "t": "img", "src": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG" },
+          { "t": "p", "x": "무엇보다 NPU가 마이크로소프트가 내건 온디바이스 AI 성능 기준을 넘어선다. 주류 가격대의 기기가 코파일럿+ 조건을 무리 없이 채운다는 점이 눈에 띈다." }
         ]
       }
     }

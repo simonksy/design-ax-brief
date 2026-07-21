@@ -1,11 +1,21 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "games",
   "media": [
     {
-      "id": "houdini22",
+      "id": "unity7",
       "type": "image",
-      "src": "pipeline/media/houdini22.jpg"
+      "src": "pipeline/media/unity7.png"
+    },
+    {
+      "id": "dlss5",
+      "type": "image",
+      "src": "pipeline/media/dlss5.jpg"
+    },
+    {
+      "id": "meshy3dagent",
+      "type": "image",
+      "src": "pipeline/media/meshy3dagent.png"
     }
   ]
 }

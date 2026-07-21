@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "books",
   "media": [
-    { "id": "fanfic-ai-markers", "type": "image", "src": "pipeline/media/fanfic-ai-markers.jpg" },
-    { "id": "vancouver-ai-disclosure", "type": "image", "src": "pipeline/media/vancouver-ai-disclosure.jpg" },
-    { "id": "bloomsbury-ai-licensing", "type": "image", "src": "pipeline/media/bloomsbury-ai-licensing.png" }
+    { "id": "ai-narration", "type": "image", "src": "pipeline/media/ai-narration.jpg" },
+    { "id": "ai-uptake", "type": "image", "src": "pipeline/media/ai-uptake.jpg" },
+    { "id": "hologram", "type": "image", "src": "pipeline/media/hologram.jpg" }
   ]
 }

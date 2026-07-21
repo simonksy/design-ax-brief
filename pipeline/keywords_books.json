@@ -1,77 +1,57 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "section": "books",
-  "note": "Section-aware plan (books x AI). Written to keywords_books.json per parallel-run override. Books has a single sources.json category ('books'), so the working set keeps ALL 3 core + ALL 22 pool keywords (25 total) but ROTATES EMPHASIS by date: keywords whose story already ran in the last 2 days (2026-07-20 today + 2026-07-19) or the recent deck are collapsed into fresh-sub-angle queries, while uncovered craft/tooling keywords get their own dedicated query. Total held to 27 books + 3 social + 1 wildcard. YouTube channel rotation seed = day-of-month 21 mod 3 = 0, so today leads with The Creative Penn, then Self Publishing with Dale, then Sudowrite (Sudowrite led on 07-20).",
-  "skipped_recently_covered": [
-    {"keyword": "generative fiction", "reason": "2026-07-20 'fiction-feast' (UK short-fiction mag Fiction Feast to use AI tools on in-house stories) — deprioritized; requeried at AI-generated novel / interactive-fiction platform angle, not the magazine editorial-policy angle"},
-    {"keyword": "AI narration voices", "reason": "2026-07-20 'cartland-voice' (Bolinda AI-cloned Barbara Cartland's voice with human input) — deprioritized; requeried only at the voice-licensing/consent deal angle, not the single-author revival"},
-    {"keyword": "AI audiobook narration", "reason": "2026-07-15 'ai-audiobook-surveys' + 'book-world-roundup' (mixed AI-narration surveys, 17.4% listenership) — deprioritized; requeried only at the production/catalog-deal angle"},
-    {"keyword": "AI literary translation", "reason": "2026-07-15 'kindle-translate-expand' (Kindle Translate to 6 languages for KDP authors) — deprioritized; requeried only at the rights/licensing-deal + translators-association angle, not the Amazon feature"},
-    {"keyword": "AI reading assistant", "reason": "2026-07-15 'google-play-book-insights' (Google Play Books Gemini reading helper) — deprioritized; requeried at non-Google chat-with-book / e-reader assistant features"},
-    {"keyword": "AI copyright authors", "reason": "2026-07-15 'australia office of AI' (APA encouraged by govt copyright signals) + recurring TDM debate — deprioritized; requeried at US collective-licensing / settlement angle, not the AU/UK policy signal"}
-  ],
+  "user_seeds": [],
+  "note": "Parallel override run -> written to keywords_books.json (not keywords.json). Books section maps to a single 'books' category in sources.json; a 'social' block is added for the books youtube_channels (The Creative Penn, Self Publishing with Dale, Sudowrite). Normal rotation run (not broad): working set = 3 core + a day-22 rotating slice of 14 pool keywords, each expanded. Rotation biases toward UNCOVERED + design-relevant angles: book covers, children's books, comic/manga, self-publishing/KDP tooling, Sudowrite/ghostwriting/ebook tools, poetry, textbooks, recommendation. Deliberately SKIPPED keywords whose topics ran in the last 2 days of news_data.json: AI literary translation (heavy — Proust/Guatemala), AI audiobook narration / AI narration voices (17.4% survey, Kindle), AI reading assistant (Kindle AI, Google Play Book Insights), AI copyright authors / licensing (Bloomsbury+Google, publisher lawsuits, Australia Office of AI), AI book marketing (Shimmr/IPA), AI book summarization (Google Play insights). Downstream curator still dedups against the last 5 days.",
+  "rotation": {
+    "day_of_month": 22,
+    "pool_size": 22,
+    "mode": "rotating slice",
+    "slice_taken": 14,
+    "emphasis_today": [
+      "Self-publishing tooling (KDP, ebook tools, Sudowrite)",
+      "Visual book creation (AI book covers, children's books, comic/manga) — design-org relevant",
+      "AI co-writing / ghostwriting / manuscript drafting",
+      "AI proofreading & editing craft",
+      "AI poetry, textbooks & book discovery/recommendation"
+    ],
+    "skipped_recently_covered": [
+      "AI literary translation",
+      "AI audiobook narration",
+      "AI narration voices",
+      "AI reading assistant",
+      "AI copyright authors",
+      "AI book marketing",
+      "AI book summarization"
+    ],
+    "social_channels_emphasized": ["The Creative Penn", "Self Publishing with Dale", "Sudowrite"]
+  },
   "working_keywords": [
-    {"keyword": "AI writing", "source": "core", "expansions": ["AI writing tool for authors 2026", "AI-assisted drafting novelists", "AI creative writing assistant release", "AI 글쓰기 도구 작가"]},
-    {"keyword": "AI 출판", "source": "core", "expansions": ["출판사 인공지능 도입", "AI 전자책 제작", "한국 출판계 AI 전략", "AI 도서 제작 자동화"]},
-    {"keyword": "AI publishing", "source": "core", "expansions": ["publisher AI workflow 2026", "publishing house AI adoption case study", "AI for publishers platform launch", "AI-generated books market data"]},
-    {"keyword": "AI co-writing", "source": "keywords", "expansions": ["human-AI co-authored novel", "AI writing partner tool", "collaborative AI drafting", "AI 공동집필"]},
-    {"keyword": "AI book cover", "source": "keywords", "expansions": ["AI generated book cover design", "Midjourney book cover indie authors", "AI cover art publisher policy", "AI 책 표지"]},
-    {"keyword": "generative fiction", "source": "keywords", "expansions": ["AI generated novel published", "AI interactive fiction platform", "LLM story generation study", "AI fiction studio launch"]},
-    {"keyword": "AI ghostwriting", "source": "keywords", "expansions": ["AI ghostwriter service", "automated ghostwriting ethics", "AI memoir writing tool", "AI 대필"]},
-    {"keyword": "AI ebook tools", "source": "keywords", "expansions": ["AI ebook creation software", "AI ebook formatting layout", "Atticus AI features", "Vellum ebook AI", "Kobo AI feature"]},
-    {"keyword": "AI editing proofreading", "source": "keywords", "expansions": ["AI copyediting tool authors", "AI developmental editing", "ProWritingAid Grammarly AI", "AI 교정 교열"]},
-    {"keyword": "Sudowrite", "source": "keywords", "expansions": ["Sudowrite Muse update", "Sudowrite Story Bible", "NovelAI update 2026", "Novelcrafter AI"]},
-    {"keyword": "AI self-publishing", "source": "keywords", "expansions": ["indie author AI workflow 2026", "self-publishing AI tool stack", "Draft2Digital AI", "자가출판 AI"]},
-    {"keyword": "KDP AI", "source": "keywords", "expansions": ["Amazon KDP AI content policy", "KDP AI disclosure limit", "retailer AI-book policy update", "Apple Books AI rules"]},
-    {"keyword": "AI poetry", "source": "keywords", "expansions": ["AI generated poetry collection", "AI poetry prize controversy", "poetry LLM creativity study", "AI 시 창작"]},
-    {"keyword": "AI comic manga", "source": "keywords", "expansions": ["AI manga generation", "AI webtoon production", "manga AI localization", "AI 웹툰 제작"]},
-    {"keyword": "AI book summarization", "source": "keywords", "expansions": ["AI book summary app", "AI chapter recap feature", "Blinkist AI summaries", "AI 도서 요약"]},
-    {"keyword": "AI textbook", "source": "keywords", "expansions": ["AI educational publishing", "Pearson McGraw Hill AI learning", "AI 교과서", "adaptive AI textbook platform"]},
-    {"keyword": "AI reading assistant", "source": "keywords", "expansions": ["AI reading companion app", "chat-with-book AI", "e-reader AI assistant feature", "AI 독서 보조"]},
-    {"keyword": "AI book marketing", "source": "keywords", "expansions": ["AI book metadata optimization", "AI ad copy publisher campaign", "AI BookTok marketing tool", "AI 도서 마케팅"]},
-    {"keyword": "AI manuscript", "source": "keywords", "expansions": ["AI slush pile screening agents", "literary agent AI submission policy", "AI manuscript assessment", "AI 원고 심사"]},
-    {"keyword": "AI copyright authors", "source": "keywords", "expansions": ["collective licensing AI training books", "authors guild AI licensing deal", "AI training data settlement authors", "AI 저작권 작가"]},
-    {"keyword": "AI children's book", "source": "keywords", "expansions": ["AI picture book illustration", "children's publisher AI policy", "AI 그림책", "AI storybook app kids"]},
-    {"keyword": "AI literary translation", "source": "keywords", "expansions": ["AI translation rights deal publisher", "machine translation literary fiction debate", "translator association AI stance", "AI 문학 번역"]},
-    {"keyword": "AI audiobook narration", "source": "keywords", "expansions": ["AI audiobook production deal", "synthetic narration catalog", "Audible AI narration program", "AI 오디오북 제작"]},
-    {"keyword": "AI narration voices", "source": "keywords", "expansions": ["AI voice licensing narrators", "ElevenLabs audiobook voices", "voice actor AI consent deal", "AI 성우 음성 라이선스"]},
-    {"keyword": "AI book recommendation", "source": "keywords", "expansions": ["AI book discovery engine", "bookstore AI recommendation", "Goodreads AI feature", "AI 도서 추천"]}
+    { "keyword": "AI writing", "type": "core", "covered_recently": false, "expansions": ["AI writing tool 2026", "AI creative writing news", "AI author writing assistant", "AI writing workflow"] },
+    { "keyword": "AI 출판", "type": "core", "covered_recently": false, "expansions": ["AI 출판 도구", "생성형 AI 출판", "AI 전자책 제작", "AI 자가출판"] },
+    { "keyword": "AI publishing", "type": "core", "covered_recently": false, "expansions": ["AI publishing industry 2026", "AI in book publishing", "publisher AI tools", "AI publishing workflow"] },
+    { "keyword": "AI book cover", "type": "pool", "covered_recently": false, "expansions": ["AI generated book cover design", "AI cover art author", "book cover generator AI 2026", "AI cover design tool"] },
+    { "keyword": "generative fiction", "type": "pool", "covered_recently": false, "expansions": ["AI generated novel 2026", "generative fiction experiment", "AI interactive fiction", "AI-written story"] },
+    { "keyword": "AI ghostwriting", "type": "pool", "covered_recently": false, "expansions": ["AI ghostwriter tool", "AI drafting book", "AI co-author", "ghostwriting AI controversy"] },
+    { "keyword": "AI ebook tools", "type": "pool", "covered_recently": false, "expansions": ["AI ebook formatting tool", "AI ebook creation app", "AI ebook layout", "ebook generator AI 2026"] },
+    { "keyword": "AI editing proofreading", "type": "pool", "covered_recently": false, "expansions": ["AI proofreading tool 2026", "AI copyediting book", "AI manuscript editing", "AI grammar developmental edit"] },
+    { "keyword": "Sudowrite", "type": "pool", "covered_recently": false, "expansions": ["Sudowrite update 2026", "Sudowrite Muse model", "Sudowrite Story Bible", "AI fiction writing app"] },
+    { "keyword": "AI self-publishing", "type": "pool", "covered_recently": false, "expansions": ["AI self-publishing tools 2026", "indie author AI", "AI self-publishing platform", "self-publishing AI workflow"] },
+    { "keyword": "KDP AI", "type": "pool", "covered_recently": false, "expansions": ["Amazon KDP AI policy", "Kindle Direct Publishing AI disclosure", "KDP AI content rules 2026", "Amazon KDP AI books limit"] },
+    { "keyword": "AI co-writing", "type": "pool", "covered_recently": false, "expansions": ["AI co-writing tool", "human AI collaborative writing", "AI writing partner novel", "co-writing assistant 2026"] },
+    { "keyword": "AI poetry", "type": "pool", "covered_recently": false, "expansions": ["AI generated poetry 2026", "AI poetry collection", "AI poem generator", "poetry AI debate"] },
+    { "keyword": "AI children's book", "type": "pool", "covered_recently": false, "expansions": ["AI children's picture book", "AI illustrated kids book", "children's book AI illustration", "AI kids book controversy 2026"] },
+    { "keyword": "AI comic manga", "type": "pool", "covered_recently": false, "expansions": ["AI manga generation 2026", "AI webtoon tool", "AI comic art", "AI manga translation art"] },
+    { "keyword": "AI textbook", "type": "pool", "covered_recently": false, "expansions": ["AI generated textbook", "AI educational publishing", "AI textbook personalization", "AI academic publishing tool"] },
+    { "keyword": "AI manuscript", "type": "pool", "covered_recently": false, "expansions": ["AI manuscript submission", "AI slush pile", "AI manuscript evaluation", "publisher AI manuscript screening"] },
+    { "keyword": "AI book recommendation", "type": "pool", "covered_recently": false, "expansions": ["AI book discovery tool 2026", "AI reading recommendation app", "personalized AI book picks", "Goodreads AI recommendation"] }
   ],
-  "categories": [
+  "plan": [
     {
       "category": "books",
-      "queries": [
-        "AI publishing industry news July 2026",
-        "AI 출판 인공지능 출판업계 뉴스 2026",
-        "AI writing tool authors release 2026",
-        "AI co-writing craft tool novelists 2026",
-        "Sudowrite NovelAI Novelcrafter AI fiction app update 2026",
-        "AI ghostwriting service authors ethics 2026",
-        "generative AI novel interactive fiction platform launch 2026",
-        "AI book cover design generator publisher indie authors 2026",
-        "AI copyediting developmental editing tool authors 2026",
-        "AI ebook tools formatting Atticus Vellum Kobo AI feature 2026",
-        "AI self-publishing indie author workflow tools 2026",
-        "Amazon KDP AI-generated books policy disclosure 2026",
-        "AI poetry collection prize controversy 2026",
-        "AI manga webtoon production localization tool 2026",
-        "AI book summary chapter recap app feature 2026",
-        "AI picture book illustration generation kids storybook 2026",
-        "AI literary translation rights deal translators publisher 2026",
-        "AI audiobook production deal publisher catalog 2026",
-        "AI voice licensing narrator ElevenLabs Audible consent 2026",
-        "AI manuscript slush pile literary agent submission policy 2026",
-        "AI book marketing metadata BookTok ad campaign authors 2026",
-        "AI reading assistant chat with book e-reader feature 2026",
-        "AI book discovery recommendation reader-facing bookstore 2026",
-        "AI textbook educational publishing adaptive learning deal 2026",
-        "AI copyright authors collective licensing settlement United States 2026",
-        "인공지능 소설 AI 웹소설 웹툰 제작 2026",
-        "AI 도서 편집 교정 자가출판 도구 2026",
-        "site:youtube.com \"The Creative Penn\" AI writing authors 2026",
-        "site:youtube.com \"Self Publishing with Dale\" AI book publishing 2026",
-        "site:youtube.com Sudowrite AI writing 2026"
-      ],
+      "label": "Books",
+      "accent": "#f5a623",
+      "motif": "swatch",
       "allowed_domains": [
         "publishersweekly.com",
         "thebookseller.com",
@@ -94,17 +74,72 @@
         "techcrunch.com",
         "goodreads.com",
         "bookbub.com",
-        "arstechnica.com",
-        "reedsy.com",
-        "booksandpublishing.com.au",
-        "authorsguild.org",
+        "arstechnica.com"
+      ],
+      "queries": [
+        "AI writing tool for authors news July 2026",
+        "AI 출판 도구 뉴스 2026",
+        "AI publishing industry announcement 2026",
+        "AI generated book cover design tool 2026",
+        "generative fiction AI written novel 2026",
+        "AI ghostwriting co-author book controversy 2026",
+        "AI ebook creation formatting tool 2026",
+        "AI proofreading copyediting manuscript tool 2026",
+        "Sudowrite update Muse Story Bible fiction AI 2026",
+        "AI self-publishing tools indie author 2026",
+        "Amazon KDP AI content policy disclosure 2026",
+        "AI co-writing human collaboration novel 2026",
+        "AI generated poetry collection debate 2026",
+        "AI children's picture book illustration 2026",
+        "AI manga webtoon comic generation tool 2026",
+        "AI textbook educational publishing personalization 2026",
+        "AI manuscript submission slush pile screening 2026",
+        "AI book recommendation discovery reading app 2026",
+        "site:kindlepreneur.com AI self-publishing tool 2026",
+        "site:janefriedman.com AI writing authors 2026",
+        "site:publishersweekly.com AI publishing 2026",
+        "AI 웹툰 만화 생성 도구 2026"
+      ]
+    },
+    {
+      "category": "social",
+      "label": "Social (books YouTube)",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "allowed_domains": [
         "youtube.com",
         "youtu.be"
+      ],
+      "rotation_note": "Books youtube_channels = The Creative Penn, Self Publishing with Dale, Sudowrite. Small list, so day-22 rotation uses all three; phrasing emphasizes self-publishing tooling and AI fiction-writing workflow. No instagram_handles defined for the books category, so IG is skipped.",
+      "queries": [
+        "site:youtube.com \"The Creative Penn\" AI writing publishing 2026",
+        "site:youtube.com \"Self Publishing with Dale\" AI self-publishing tool 2026",
+        "site:youtube.com Sudowrite AI fiction writing 2026",
+        "site:youtube.com AI author self-publishing workflow 2026"
+      ]
+    },
+    {
+      "category": "books",
+      "label": "Books (wildcard/trending)",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "allowed_domains": [
+        "publishersweekly.com",
+        "thebookseller.com",
+        "goodereader.com",
+        "lithub.com",
+        "wired.com",
+        "theverge.com",
+        "arstechnica.com"
+      ],
+      "queries": [
+        "AI books publishing breakthrough this week July 2026"
       ]
     }
   ],
-  "wildcard": {
-    "query": "AI books publishing breakthrough trending July 2026",
-    "note": "1 broad trending sweep to catch off-list authoritative coverage the funnel might miss"
+  "totals": {
+    "working_keywords": 18,
+    "categories": 2,
+    "queries": 27
   }
 }
