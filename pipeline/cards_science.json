@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "science",
   "cards": [
     {
-      "id": "flatband",
+      "id": "oled-ai",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "물리 지식을 담은 AI가\n2D 양자물질 탐색을 앞당긴다",
-      "body": "물리 법칙을 학습한 모델이 후보 1만여 개를 98.2% 정확도로 가려내, 느린 양자 계산을 대신한다.",
-      "mini_headline": "양자물질 찾는 물리 AI",
+      "headline": "AI와 양자화학을 결합해\n효율적 청색 OLED 소재를 찾다",
+      "body": "나고야대가 양자화학 데이터로 학습한 AI로 분자 1만 7000여 개를 훑어 유망한 청색 발광체를 찾아냈다.",
+      "mini_headline": "AI로 청색 OLED 소재 발굴",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
+      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -18,61 +18,28 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-tool-speeds-search.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg"
           },
           {
             "t": "p",
-            "x": "맨체스터대 연구진이 물리 지식을 반영한 머신러닝 기법을 내놨다. 이차원 '플랫밴드' 양자물질을 찾아내는 방법으로, 후보 물질 1만여 개를 98.2% 정확도로 걸러낸다."
+            "x": "나고야대 연구진이 기계학습과 양자화학을 하나로 묶어, 효율 좋은 청색 OLED 소재를 찾아 나섰다. 먼저 분자 1000개의 양자화학 계산 결과로 모델을 가르친 뒤, 그 모델로 후보 물질 1만 7000여 개를 걸러냈다."
           },
           {
             "t": "p",
-            "x": "그동안 이런 탐색은 느린 밀도범함수이론(DFT) 계산에 기대야 했다. 새 방법은 이 과정을 대신해, 좀처럼 찾기 어려운 양자물질을 발굴하는 속도를 크게 끌어올린다."
+            "x": "AI가 앞단에서 후보를 추리자 무거운 계산 비용이 크게 줄었고, 그렇게 골라낸 유망한 발광체는 실험으로 성능을 다시 확인했다. 연구진은 이런 생성형 스크리닝이 새 소재를 찾는 속도를 한층 앞당길 수 있다고 본다."
           }
         ]
       }
     },
     {
-      "id": "baker",
+      "id": "deeptimegate",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "단백질을 처음부터 설계하는\n베이커 연구소의 열린 뇌",
-      "body": "100여 명이 모인 베이커 연구소가 딥러닝 도구를 함께 쓰며, 항체와 효소를 원자 단위로 새로 설계한다.",
-      "mini_headline": "단백질 새로 짓는 AI",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/protein-designs-ai-revolution-inside-david-bakers-communal-brain/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.genengnews.com/wp-content/uploads/2026/07/David-Baker-group-photo-all-collegues-2-CREDIT-Nobel-Prize-Outreach-Photo-Clement-Morin-2048x1365-1-696x464.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "데이비드 베이커가 이끄는 단백질설계연구소를 들여다본 글이다. 연구자 100여 명이 모인 이 실험실은 열린 '공동의 뇌'라 부르는 딥러닝 도구 묶음을 함께 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "RFdiffusion과 그 후속 도구들이 그 중심에 있다. 이제 단백질을 밑바닥부터, 원자 하나까지 맞춘 정밀도로 설계한다."
-          },
-          {
-            "t": "p",
-            "x": "이런 AI 단백질 설계는 바이오테크가 항체와 효소, 의약품을 만들어내는 방식을 다시 짜고 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "openadmet",
-      "tool": "Science",
-      "eyebrow": "AI NEWS",
-      "headline": "약물 대사 예측 대회에서\n크기보다 데이터가 이겼다",
-      "body": "약물 대사 예측 공개 대회가 28개 팀 공동 1위로 끝나, 성능은 모델 크기가 아니라 데이터 질이 가른다.",
-      "mini_headline": "데이터가 이긴 AI 대회",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/07/14/openadmet-ai-drug-metabolism-prediction-inductive-bio/",
+      "headline": "물리 법칙을 실시간 검증하는\nAI가 산란 매질 너머를 본다",
+      "body": "UCLA의 딥타임게이트는 물리 법칙을 실시간 잣대로 삼아 산란 매질 너머를 저가 카메라로 찍어낸다.",
+      "mini_headline": "산란 너머 보는 물리 AI",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -80,52 +47,44 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/07/Untitled-1-645x645.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/biomedical-imaging-aut.jpg"
           },
           {
             "t": "p",
-            "x": "약물 대사를 예측하는 공개 AI 대회가 열렸다. 시판 약의 절반가량을 몸에서 제거하는 PXR 수용체를, 특정 화합물이 활성화하는지 맞히는 문제였다."
+            "x": "UCLA 연구진이 내놓은 딥타임게이트(DeepTimeGate)는 물리 원리를 품은 기계학습 틀로, 빛을 흩뜨리는 매질 너머의 상을 복원한다. 영상을 만드는 재구성 신경망과, 물리의 기본 법칙을 실시간으로 대조해 결과가 어긋나지 않는지 살피는 두 번째 알고리즘이 짝을 이룬다."
           },
           {
             "t": "p",
-            "x": "결과는 28개 팀이 통계적으로 나란히 공동 1위. 스타트업 인덕티브 바이오(Inductive Bio)가 근소하게 앞섰다."
-          },
-          {
-            "t": "p",
-            "x": "이 결과는 AI 신약 개발에서 성능을 가르는 것이 모델 크기가 아니라 데이터의 질임을 보여준다. 이 분야가 모델을 평가하는 방식도 달라질 수 있다."
+            "x": "물리 법칙을 일종의 안전장치로 두자, 값비싼 장비 없이 저가 카메라로도 선명한 영상을 얻을 수 있었다. 연구진은 이 방식을 의료 영상은 물론 자율주행차의 감지 분야에도 쓸 수 있다고 본다."
           }
         ]
       }
     },
     {
-      "id": "goflow",
+      "id": "qewc",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "위성 열영상으로 미세한\n바다 표층 해류를 복원한다",
-      "body": "GOFLOW가 위성 열영상에서 기존 모델이 놓친 미세 해류를 복원해, 기후·날씨 예측을 더 정밀하게 한다.",
-      "mini_headline": "해류 읽는 위성 AI",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
-      "accent": "#f5a623",
+      "headline": "양자 기하학으로 양자 AI의\n'치명적 망각'을 막다",
+      "body": "QEWC는 양자 상태의 기하 구조에 학습을 묶어, 새 과제를 익혀도 앞서 배운 능력을 잃지 않게 한다.",
+      "mini_headline": "양자 AI의 망각을 막다",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/07/22/new-framework-uses-quantum-geometry-to-help-quantum-ai-systems-remember-what-they-learn/",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg"
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-10.30.52-AM.png"
           },
           {
             "t": "p",
-            "x": "텔아비브대 연구진이 GOFLOW라는 AI 시스템을 만들었다. 위성 열영상에서 바다 표층의 해류를, 아주 작은 규모까지 되살려낸다."
+            "x": "연구진이 선보인 QEWC는 양자 기하학을 활용해 '치명적 망각'을 막는 양자 기계학습 틀이다. 치명적 망각이란 모델이 새 과제를 배우는 사이 앞서 익힌 능력을 잃어버리는 현상을 말한다."
           },
           {
             "t": "p",
-            "x": "일반 모델이 놓치던 작은 규모의 흐름이 이 지도에서 드러난다."
-          },
-          {
-            "t": "p",
-            "x": "해류 지도가 정교해지면 기후와 날씨, 바다와 대기 사이 기체 교환을 읽는 예측도 한층 날카로워진다."
+            "x": "QEWC는 학습을 양자 상태의 기하 구조에 단단히 붙들어 둔다. 이렇게 하면 양자 AI가 여러 과제를 차례로 배워도 그동안 쌓아 온 것을 그대로 지켜낼 수 있다."
           }
         ]
       }

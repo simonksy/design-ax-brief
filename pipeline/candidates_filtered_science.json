@@ -1,53 +1,45 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "science",
-  "now_iso": "2026-07-21T23:06:40Z",
+  "now_iso": "2026-07-22T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html",
+      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-designs-rna-g.jpg",
-      "excerpt": "Scientists used AI to design synthetic TnpB gene-editing enzymes (SynTnpBs) that outperform their natural counterparts, reaching up to 46-50% editing efficiency in human cells versus 28% for the original. Published in Science, the work shows generative models can invent new gene-editing tools with properties evolution never produced, expanding the CRISPR toolbox."
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg",
+      "excerpt": "Nagoya University researchers combined machine learning with quantum chemistry to hunt for efficient blue OLED materials, training a model on quantum-chemistry data for 1,000 molecules and then screening more than 17,000 candidates. The AI slashed computational cost and surfaced promising emitters that were then validated experimentally, showing generative screening can accelerate materials discovery."
     },
     {
-      "url": "https://phys.org/news/2026-07-physics-based-machine-method-2d.html",
+      "url": "https://phys.org/news/2026-07-faster-quantum.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-09T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-tool-speeds-search.jpg",
-      "excerpt": "A University of Manchester team developed a physics-informed machine-learning method that hunts for two-dimensional 'flat-band' quantum materials, screening over 10,000 candidates with 98.2% accuracy. The approach replaces slow density-functional-theory calculations, dramatically speeding the search for exotic quantum materials."
+      "published_iso": "2026-07-15T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/faster-quantum-compute.jpg",
+      "excerpt": "A reinforcement-learning algorithm continuously monitors error-detection patterns from a quantum processor's qubits and automatically fine-tunes thousands of control settings, letting the machine 'learn from its own mistakes' while a calculation is still running. The approach keeps quantum computers more stable without costly recalibration pauses, a step toward practical fault-tolerant machines."
     },
     {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/protein-designs-ai-revolution-inside-david-bakers-communal-brain/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "url": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/07/David-Baker-group-photo-all-collegues-2-CREDIT-Nobel-Prize-Outreach-Photo-Clement-Morin-2048x1365-1-696x464.jpeg",
-      "excerpt": "A look inside David Baker's Institute for Protein Design, where a 100+ researcher lab and its open 'communal brain' of deep-learning tools (RFdiffusion and successors) now design proteins from scratch with atomic precision. The piece maps how AI-driven protein design is reshaping how biotech invents antibodies, enzymes and medicines."
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/biomedical-imaging-aut.jpg",
+      "excerpt": "UCLA researchers built DeepTimeGate, a physics-informed machine-learning framework that images through scattering media by pairing a reconstruction network with a second algorithm that enforces the fundamental rules of physics as a real-time reality check. The method enables high-quality imaging with low-cost cameras, with uses in biomedical imaging and autonomous-vehicle sensing."
     },
     {
-      "url": "https://www.statnews.com/2026/07/14/openadmet-ai-drug-metabolism-prediction-inductive-bio/",
-      "source": "STAT News",
+      "url": "https://thequantuminsider.com/2026/07/22/new-framework-uses-quantum-geometry-to-help-quantum-ai-systems-remember-what-they-learn/",
+      "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/Untitled-1-645x645.jpg",
-      "excerpt": "An open AI competition to predict drug metabolism (whether compounds activate the PXR receptor that clears roughly half of all marketed drugs) ended in a 28-way statistical tie, with startup Inductive Bio narrowly on top. The result suggests data quality, not raw model size, drives performance in AI-for-drug-discovery, reshaping how the field benchmarks its models."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-20T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg",
-      "excerpt": "Tel Aviv University researchers built GOFLOW, an AI system that reconstructs fine-scale ocean surface currents from satellite thermal imagery, revealing small-scale dynamics that standard models miss. Better maps of these currents sharpen climate, weather and ocean-atmosphere gas-exchange predictions."
+      "published_iso": "2026-07-22T14:30:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-10.30.52-AM.png",
+      "excerpt": "Researchers introduced QEWC, a quantum machine-learning framework that uses quantum geometry to stop 'catastrophic forgetting'—the tendency of models to lose earlier skills when trained on new tasks. By anchoring learning to the geometry of quantum states, quantum AI systems can retain what they have learned across sequential tasks."
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 5,
+    "dropped": 1,
+    "kept": 4,
     "against_days": 5
   }
 }

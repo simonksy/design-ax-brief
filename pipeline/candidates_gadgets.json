@@ -1,88 +1,48 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "gadgets",
-  "now_iso": "2026-07-21T23:06:40Z",
+  "now_iso": "2026-07-22T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/samsung-readies-gaia-ai-accelerator-for-client-devices-hp-and-lenovo-are-reportedly-validating-the-npu",
-      "source": "Tom's Hardware",
+      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-10T10:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg",
-      "excerpt": "Samsung is readying a dedicated 'Gaia' AI accelerator (NPU) for client PCs, with HP and Lenovo reportedly validating the 4nm-class part to speed on-device generative AI workloads."
+      "published_iso": "2026-07-15T08:37:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
+      "excerpt": "OpenAI's first hardware product, designed with Jony Ive's LoveFrom, is reportedly a screenless, rechargeable smart speaker with a camera and sensors built to behave like a 'humanlike' AI companion running an advanced ChatGPT model."
     },
     {
-      "url": "https://www.androidauthority.com/samsung-galaxy-glasses-specs-leak-3689677/",
-      "source": "Android Authority",
+      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-21T14:01:42Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glasses-leak.jpg",
-      "excerpt": "Leaked specs for Samsung's Android XR Galaxy Glasses point to a Snapdragon AR1 Gen 1 chip, dual cameras and deep Gemini integration for hands-free AI capture, translation and navigation ahead of Unpacked."
+      "published_iso": "2026-07-14T21:14:00Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600",
+      "excerpt": "New reporting details OpenAI's debut device as a portable, screenless speaker with a camera and other sensors, positioned as a proactive AI companion and the first consumer product from the Ive-led io team."
     },
     {
-      "url": "https://www.androidauthority.com/samsung-teases-galaxy-watch-9-and-ultra-2-official-teaser-3687113/",
-      "source": "Android Authority",
+      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-14T06:01:29Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-8-scaled.jpg",
-      "excerpt": "Samsung's official teaser frames the Galaxy Watch 9 and Watch Ultra 2 as 'AI-powered health companions,' promising real-time on-device health insights, a personal health coach and new Vitals tracking."
+      "published_iso": "2026-07-20T18:04:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg",
+      "excerpt": "Adobe adds a generative 'AI Playground' to its experimental Project Indigo camera app, letting mobile shooters remove distractions, apply artistic styles and get real-time photo guidance at the point of capture."
     },
     {
-      "url": "https://www.androidauthority.com/galaxy-watch-9-ultra-2-leak-color-specs-health-features-3689062/",
-      "source": "Android Authority",
+      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-20T06:08:52Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/09/Samsung-Galaxy-Watch-Ultra-Complicationist-scaled.jpg",
-      "excerpt": "A pre-Unpacked leak details the Galaxy Watch 9 and Ultra 2 colors, specs and AI-driven health features, including new internal components tuned for longer, more accurate on-device health monitoring."
+      "published_iso": "2026-07-21T15:07:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg",
+      "excerpt": "Samsung launches a beta 'Health Assistant,' an AI chatbot inside Samsung Health that interprets data from Galaxy phones, watches and rings and offers physician-validated wellness guidance across its device ecosystem."
     },
     {
-      "url": "https://9to5google.com/2026/07/14/samsung-galaxy-watch-9-official-tease/",
-      "source": "9to5Google",
+      "url": "https://www.digitaltrends.com/computing/samsung-wants-to-put-its-own-chip-in-your-next-pc-and-its-all-about-speeding-up-ai-chores/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-07-14T13:50:00Z",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-official-teaser-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Samsung officially confirms the Galaxy Watch 9 as an AI health companion, teasing a personalized health coach, Vitals, Heart Health Score and sleep apnea tracking built on on-device intelligence."
-    },
-    {
-      "url": "https://9to5google.com/2026/07/08/gemini-nest-hub-answer-weather-redesign/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-08T18:21:28Z",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Gemini-Nest-Hub-Audio-cover-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Gemini for Home redesigns how the Nest Hub renders weather and general-knowledge answers on-screen, part of Google's push to make its AI smart-display assistant more visual and reliable."
-    },
-    {
-      "url": "https://9to5google.com/2026/07/14/one-ui-9-all-the-features-you-need-to-know-video/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-14T16:00:00Z",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "One UI 9 debuts Gemini Intelligence on Galaxy devices, adding agentic automation that acts across apps, plus AI features like text-prompt widget creation, smarter autofill and voice-to-text Rambler."
-    },
-    {
-      "url": "https://www.androidcentral.com/accessories/smart-home/gemini-wont-cut-you-off-as-much-and-its-reliability-improved-in-google-home",
-      "source": "Android Central",
-      "category": "gadgets",
-      "published_iso": "2026-07-09T17:54:44Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QExQGGkk7eoF2QJj3Lp48i-2048-80.jpg",
-      "excerpt": "A Google Home update improves Gemini's reliability on speakers and displays, reducing mid-conversation cutoffs and adding smarter sports and continued-conversation handling for the AI assistant."
-    },
-    {
-      "url": "https://www.notebookcheck.net/After-testing-several-Snapdragon-X2E-systems-this-is-how-they-compare-to-the-latest-Intel-and-AMD-laptops.1343280.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-07-15T16:06:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lenovoyoga714snapdragon.jpg",
-      "excerpt": "After testing several Snapdragon X2 Elite systems, Notebookcheck compares the 80-TOPS Hexagon NPU AI PCs against the latest Intel and AMD laptops on performance and efficiency."
-    },
-    {
-      "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-07-08T19:00:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG",
-      "excerpt": "Review of Microsoft's Surface Laptop 13.8 (2026) built on the Snapdragon X2 Plus, a Copilot+ AI PC with a much faster CPU and an NPU that clears Microsoft's on-device AI requirements."
+      "published_iso": "2026-07-09T12:00:00Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2025/12/Samsung-Custom-Chip.jpg?resize=1200%2C720",
+      "excerpt": "Samsung's System LSI division is developing a dedicated 'Gaia' AI accelerator for PCs, a companion NPU to offload on-device generative AI, real-time translation and image generation, with HP and Lenovo reportedly validating prototypes."
     }
   ]
 }

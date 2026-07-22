@@ -1,71 +1,89 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "movies",
-  "now_iso": "2026-07-21T23:06:40Z",
+  "now_iso": "2026-07-22T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
-      "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
-      "source": "fxguide",
+      "url": "https://nofilmschool.com/martini-ai-film-set",
+      "title": "Martini: A Virtual 'Film Set' for AI Video That Aims to Streamline Filmmakers' Shots",
+      "source": "No Film School",
       "category": "movies",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2-830x415.jpg",
-      "excerpt": "Beeble unveiled SwitchHDR, an AI model that reconstructs HDR imagery from standard SDR footage, outputting scene-linear 16-bit EXR sequences for professional VFX and post pipelines. 'Where real detail survives we recover it; where it's fully clipped, the artist decides how it gets rebuilt,' says CEO Hoon Kim."
+      "published_iso": "2026-07-17T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+      "excerpt": "Martini is a new collaborative, web-based platform that functions as a virtual film set for AI video production. It moves filmmakers beyond basic prompt-based workflows with cinematic controls and the ability to compose shots in 2D or 3D environments, doubling as a pre-production hub for traditional teams."
     },
     {
-      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
-      "title": "NVIDIA 'Neural Rendering, World Models and Simulation' Keynote Set for SIGGRAPH 2026",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-07-13T18:38:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg",
-      "excerpt": "NVIDIA Research leaders Neil Ashton, Ming-Yu Liu and Edward Liu will deliver a SIGGRAPH 2026 keynote on advances in neural rendering, world models and AI-driven simulation, signaling where generative graphics for film and VFX are headed."
-    },
-    {
-      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
-      "title": "Foundry's SmartRoto: AI-assisted roto that aims to work the way you do",
-      "source": "fxguide",
-      "category": "movies",
-      "published_iso": "2026-07-16T12:00:00Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS.jpg",
-      "excerpt": "Foundry released SmartRoto, an AI-powered rotoscoping plugin for Nuke that predicts spline movement across frames while treating artist keys as authoritative constraints, reportedly delivering 2-4x faster roto for $499/year and running locally without cloud transmission."
-    },
-    {
-      "url": "https://www.awn.com/news/foundry-launches-griptape-enterprise-secure-ai-accelerated-vfx-workflows",
-      "title": "Foundry Launches Griptape Enterprise for Secure AI-Accelerated VFX Workflows",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-07-16T16:25:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/09_mixed_permissions_limited_api_model_use_-_focusing_on_all_local_-1280.jpg",
-      "excerpt": "Foundry launched Griptape Enterprise, a governance tier that lets VFX pipeline supervisors curate which AI models artists use and run generative workflows on-premise, keeping AI-accelerated film and episodic production vetted, compliant and production-ready."
-    },
-    {
-      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
-      "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
-      "source": "ProVideo Coalition",
-      "category": "movies",
-      "published_iso": "2026-07-20T12:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003-1024x682.jpg",
-      "excerpt": "At SIGGRAPH 2026, Beeble AI and District Cinema demonstrated the new SwitchLight 3 model generating production-ready PBR relighting passes from native 4K footage of Corridor Crew's 'Son of a Dungeon,' then imported those passes into Unreal Engine for high-quality real-time rendering on a Puget workstation."
-    },
-    {
-      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
-      "title": "Lightcraft Launches Beta for Spark Story Interactive Previz Tool",
+      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
+      "title": "Autodesk Adds AI and 3D Gaussian Splat Tools Across Maya, 3ds Max and Arnold",
       "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Lightcraft opened a rolling beta of Spark Story, an interactive previz tool that lets filmmakers block scenes, populate asset libraries and render full-quality 'superdailies' in real time — working with AI or blue/greenscreen keyers to compress previsualization and cut early production costs."
+      "published_iso": "2026-07-22T18:35:11Z",
+      "og_image": null,
+      "excerpt": "At SIGGRAPH 2026, Autodesk introduced AI-powered capabilities across Maya, 3ds Max and Arnold, including MotionMaker's 'Bring Your Own Data' custom motion models, editable 3D Gaussian splats in 3ds Max, unified review in Flow Production Tracking, and Arnold interactive viewport rendering, all aimed at streamlining animation and VFX workflows."
     },
     {
-      "url": "https://www.redsharknews.com/adobe-project-indigo-ai-playground",
-      "title": "Adobe adds experimental AI Playground to Project Indigo camera app",
-      "source": "RedShark News",
+      "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
+      "title": "SwitchHDR: An AI Model for HDR Reconstruction From SDR Video",
+      "source": "fxguide",
       "category": "movies",
-      "published_iso": "2026-07-21T09:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg",
-      "excerpt": "Adobe added an experimental AI Playground to its Project Indigo computational-photography app, letting shooters apply generative editing directly after capture — pushing on-device generative image manipulation well beyond simple style transfer."
+      "published_iso": "2026-07-09T18:15:02Z",
+      "og_image": null,
+      "excerpt": "SwitchHDR is an AI model trained on real HDR footage to reconstruct high-dynamic-range imagery from standard video, outputting scene-linear 16-bit EXR sequences. It lets VFX artists and filmmakers pull the huge library of existing SDR footage into modern HDR pipelines while keeping creative control over the reconstruction."
+    },
+    {
+      "url": "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html",
+      "title": "Disney Jr. and French AI Animation Outfit Animaj Quietly Release 'Ozzy Fox' on YouTube",
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "published_iso": "2026-07-17T17:01:20Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Ozzy-Fox.jpg",
+      "excerpt": "Disney Jr. and French AI animation company Animaj released a new preschool series, 'Ozzy Fox,' on YouTube, a look at how an AI-driven animation studio is producing kids' content at speed. The show reached nearly 800,000 views within two days of launch."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GsZmUTLW4wA",
+      "title": "NEW AI Film Tools: The Biggest Updates for Artists",
+      "source": "Curious Refuge",
+      "category": "social",
+      "published_iso": "2026-07-17T21:42:20Z",
+      "og_image": "https://i.ytimg.com/vi/GsZmUTLW4wA/maxresdefault.jpg",
+      "excerpt": "Curious Refuge rounds up the latest AI filmmaking tool releases and updates for artists, including new generative-video model features and AI motion-control workflows shaping how AI filmmakers work this week."
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "title": "Neill Blomkamp's New Zombie AI 'Film' Is Just Slop Warmed Over",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-07-21T22:06:43Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all",
+      "excerpt": "Neill Blomkamp's zombie short 'Nightborne,' produced for AI startup Barley Studios using ByteDance's Seedance generative-video model, becomes a high-profile stress test of AI filmmaking, and lands as evidence that text-to-video generators still can't reliably churn out quality films."
+    },
+    {
+      "url": "https://postperspective.com/hp-and-adobe-offer-digital-twin-capture-built-for-scale/",
+      "title": "HP Z Captis + Adobe Substance 3D: Digital Twin Capture Built for Scale",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-07-22T17:45:57Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2.jpg",
+      "excerpt": "HP and Adobe's updated HP Z Captis, paired with Adobe Substance 3D, delivers faster capture speeds, finer imaging control and new frame-rate and resolution options for producing photoreal digital twins at scale, feeding scanned real-world assets into VFX and virtual-production pipelines."
+    },
+    {
+      "url": "https://nofilmschool.com/adobe-substance-3d-updates-openpbr",
+      "title": "Adobe Announces Major Substance 3D Updates Including OpenPBR Support Across Entire Ecosystem",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-07-22T17:07:37Z",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67521076&width=1200&height=600",
+      "excerpt": "Adobe rolled out a major round of Substance 3D updates, headlined by expanded OpenPBR material support and new innovations in Substance 3D Painter, tightening the texturing and look-development toolset that VFX and virtual-production artists rely on for photoreal film assets."
+    },
+    {
+      "url": "https://variety.com/2026/film/global/raindance-israel-ai-platform-imgn-development-fund-1236809594/",
+      "title": "Raindance Film Festival and AI Platform IMGN Launch New Film Fund and Development Hub",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-07-16T11:57:42Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/07/Raindance.jpg?w=1000",
+      "excerpt": "Raindance Film Festival is partnering with AI platform IMGN to launch a film fund and development hub for indie filmmakers, an institutional push to fold generative-AI tools into how independent films are developed and produced."
     }
   ]
 }

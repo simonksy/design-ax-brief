@@ -1,66 +1,108 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "design",
   "cards": [
     {
-      "id": "vray74",
+      "id": "maya20262",
       "eyebrow": "AI NEWS",
-      "headline": "Chaos, 블렌더용 V-Ray 7.4 공개",
-      "mini_headline": "블렌더 V-Ray 7.4",
-      "body": "Chaos가 블렌더용 V-Ray 7.4를 내놓으며 태양광 코스틱과 UDIM, 사이클스 조명 변환 기능을 새로 담았다.",
+      "headline": "마야 2026.2, 스튜디오가\n직접 AI 애니메이션을 학습시킨다",
+      "mini_headline": "마야, 나만의 AI 학습",
+      "body": "새 '브링 유어 오운 데이터'로 자체 키프레임과 모캡을 넣어 모션메이커 AI 모델을 직접 길들일 수 있다.",
       "tool": "KeyShot",
       "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/07/chaos-releases-v-ray-7-4-for-blender/",
+      "url": "https://www.cgchannel.com/2026/07/maya-2026-2-lets-you-train-your-own-ai-animation-models/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/270721_VRay74Blender_f.jpg" },
-          { "t": "p", "x": "Chaos가 블렌더용 V-Ray의 새 버전 7.4를 공개했다. 방대한 블렌더 사용자층을 겨냥한 이번 업데이트에는 렌더링 방식 자체를 바꿔 놓을 만한 굵직한 기능들이 담겼다." },
-          { "t": "p", "x": "먼저 눈에 띄는 건 Quick Sun Caustics다. 물이나 유리처럼 빛이 굴절되며 만드는 밝은 무늬, 이른바 코스틱을 태양광 아래에서 손쉽게 얻도록 정리한 시스템이다. 여기에 UDIM 텍스처 지원이 더해져 고해상도 에셋을 다루기가 한결 수월해졌다." },
-          { "t": "p", "x": "블렌더 기본 렌더러인 사이클스로 짜 둔 조명을 V-Ray 조명으로 그대로 옮기는 변환 기능도 들어왔다. 기존 씬을 처음부터 다시 세팅하지 않고도 V-Ray로 넘어올 수 있다는 뜻이다." },
-          { "t": "p", "x": "Chaos의 건축 특화 AI 렌더링 도구 Veras와의 연동도 한층 촘촘해졌다. 3D 아티스트와 건축 시각화 작업자에게는 당장 파이프라인이 달라질 만한 릴리스다." }
+          { "t": "img", "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260722_Maya20272_f.jpg" },
+          { "t": "p", "x": "마야 2026.2가 새로 들고 나온 '브링 유어 오운 데이터(Bring Your Own Data)' 기능은, 스튜디오가 자기 데이터로 AI 모델을 직접 학습시키는 길을 연다. 모션메이커 애니메이션 시스템에 그동안 쌓아 둔 키프레임이나 모캡을 그대로 먹여, 결과물의 결을 스스로 정한다." },
+          { "t": "p", "x": "그간 생성형 애니메이션은 안을 들여다볼 수 없는 블랙박스에 가까웠다. 이번 변화의 핵심은 그 상자를 스튜디오가 손볼 수 있는 사내 워크플로로 바꿔 놓은 데 있다. 모델이 뽑아내는 움직임이 곧 그 팀의 데이터와 스타일을 닮아 간다는 뜻이다." },
+          { "t": "p", "x": "결국 관건은 어떤 데이터를 넣느냐다. 팀의 감각이 밴 애니메이션을 학습에 태울수록, 생성 결과도 그 손맛을 되돌려준다." }
         ]
       }
     },
     {
-      "id": "smartroto",
+      "id": "3dsmax20262",
       "eyebrow": "AI NEWS",
-      "headline": "Foundry, Nuke에 AI 로토\n스마트로토를 붙이다",
-      "mini_headline": "Nuke AI 로토",
-      "body": "Foundry가 Nuke용 SmartRoto를 선보여, 로토 스플라인을 샷 전체에 자동 전파·변형해 수작업보다 최대 4배 빠르다.",
+      "headline": "3ds Max 2026.2, 가우시안\n스플랫을 직접 편집한다",
+      "mini_headline": "3ds Max 스플랫 편집",
+      "body": "3D 가우시안 스플랫을 불러와 편집하고 조명을 다시 넣어 렌더까지, 방사휘도 캡처가 주류 파이프라인에 들어온다.",
       "tool": "KeyShot",
       "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/07/foundry-releases-new-ai-powered-smartroto-add-on-for-nuke/",
+      "url": "https://www.cgchannel.com/2026/07/autodesk-releases-3ds-max-2026-2-with-editable-gaussian-splats/",
       "accent": "#3b6bff",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "Foundry가 Nuke용 애드온 SmartRoto를 새로 내놨다. VFX 작업에서 가장 손이 많이 가고 지루한 축에 드는 로토스코핑을 AI가 대신 떠맡는다." },
-          { "t": "p", "x": "핵심은 자동 전파다. 한 프레임에 그려 둔 로토 스플라인을 SmartRoto가 샷 전체 프레임에 걸쳐 스스로 퍼뜨리고, 피사체 움직임에 맞춰 모양을 변형해 준다. 매 프레임 일일이 점을 찍어 가며 마스크를 다듬던 작업이 크게 줄어드는 셈이다." },
-          { "t": "p", "x": "Foundry는 이 방식이 손으로 하던 로토스코핑보다 '최대 4배' 빠르다고 밝혔다. 반복 작업을 자동으로 걷어 내는 만큼, 아티스트가 곧바로 체감할 워크플로 변화다." }
+          { "t": "p", "x": "오토데스크가 내놓은 3ds Max 2026.2는 3D 가우시안 스플랫 데이터를 소프트웨어 안에서 곧바로 불러오고, 편집하고, 조명을 다시 넣고, 렌더까지 하도록 열어 준다. 그동안 따로 놀던 방사휘도 필드(radiance field) 캡처가 익숙한 디자인·렌더 작업 흐름 안으로 자연스럽게 들어온다." },
+          { "t": "p", "x": "핵심은 '편집 가능한' 스플랫이라는 점이다. 촬영으로 붙잡은 장면을 손댈 수 없는 결과물이 아니라, 여느 3D 데이터처럼 만지고 다시 밝히는 소재로 다룰 수 있게 됐다." },
+          { "t": "p", "x": "이번 릴리스는 스플랫 지원 말고도 여러 기능을 함께 담았다. 그중에서도 방사휘도 캡처가 주류 파이프라인에 자리 잡았다는 사실이 가장 눈에 띈다." }
         ]
       }
     },
     {
-      "id": "meshy",
+      "id": "ux-review-ai",
       "eyebrow": "AI NEWS",
-      "headline": "Meshy, 프롬프트 대신\n대화하는 3D 파트너로",
-      "mini_headline": "Meshy 3D 에이전트",
-      "body": "Meshy의 새 대화형 3D 에이전트는 세션 내내 맥락을 기억해, 스타일이 일관된 3D 에셋을 뽑아낸다.",
+      "headline": "UX 리뷰를 AI에게\n통째로 맡겨 봤다",
+      "mini_headline": "UX 리뷰, AI에 맡기다",
+      "body": "AI는 UX 리뷰의 든든한 파트너지만 전문가를 대신하진 못하고, 정확도는 모델이 아니라 넣어 준 전문성에서 나온다.",
       "tool": "AI Workflow",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "Meshy가 새로 선보인 대화형 3D 에이전트는 AI를 한 번 던지고 마는 프롬프트가 아니라, 곁에서 함께 만드는 창작 파트너로 자리매김하려 한다." },
-          { "t": "p", "x": "가장 큰 차이는 맥락을 붙들고 있다는 점이다. 에이전트는 한 세션 내내 대화의 흐름을 기억한다. 그래서 창작자가 원하는 아트 디렉션을 먼저 정해 두면, 그 방향에 맞춰 스타일이 일관된 에셋을 이어서 만들어 낸다." },
-          { "t": "p", "x": "결과물은 곧바로 실무에 쓸 수 있는 프로덕션 레디 3D 에셋이다. 프롬프트를 한 줄씩 던지며 운에 기대던 기존 방식과 달리, 방향을 잡고 대화로 다듬어 가는 협업형 워크플로로 3D 생성의 결을 바꿔 놓는다." }
+          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*We3RETarXYEoHVKQy0GX_g.jpeg" },
+          { "t": "p", "x": "한 디자이너가 UX 리뷰 전 과정을 통째로 AI에 넘겨 보고 그 결과를 정리했다. 결론부터 말하면, AI는 UX 리뷰에서 꽤 든든한 파트너였지만 전문가를 대신할 존재는 아니었다." },
+          { "t": "p", "x": "눈여겨볼 대목은 정확도가 어디서 오느냐다. 리뷰의 질을 가른 건 모델 자체의 똑똑함이 아니라, 사람이 넣어 준 도메인 지식이었다. 좋은 맥락과 기준을 쥐여 줄수록 AI의 답도 날카로워졌다." },
+          { "t": "p", "x": "그래서 남는 그림은 분명하다. 판단의 축은 여전히 디자이너 몫이고, AI는 그 판단을 넓혀 주는 도구 자리에 선다." }
+        ]
+      }
+    },
+    {
+      "id": "screens-demoted",
+      "eyebrow": "AI NEWS",
+      "headline": "화면은 이제\n주인공 자리에서 밀려난다",
+      "mini_headline": "화면, 중심에서 밀려나다",
+      "body": "AI가 유능해질수록 화면 UI는 중심에서 물러나고, 디자이너의 일은 어떤 화면이 정말 필요한지 가리는 쪽으로 바뀐다.",
+      "tool": "AI Workflow",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*MYZNJTIK1o6qlF7KDs9T5Q.png" },
+          { "t": "p", "x": "AI가 점점 더 많은 일을 해내면서, 화면 위의 UI가 제품의 주인공 자리에서 내려온다. 사용자가 굳이 화면을 거치지 않고도 원하는 걸 얻는 순간이 늘어나기 때문이다." },
+          { "t": "p", "x": "이 글은 그 흐름 위에서 디자이너의 일을 다시 정의한다. 상호작용이 에이전트와 앰비언트 인터페이스로 옮겨 갈 때, 던져야 할 질문은 '이 화면을 어떻게 그릴까'가 아니라 '이 화면이 애초에 필요한가'다." },
+          { "t": "p", "x": "결국 남는 건 화면을 더 잘 만드는 능력이 아니라, 어떤 화면을 남기고 어떤 화면을 지울지 가려내는 판단이다." }
+        ]
+      }
+    },
+    {
+      "id": "art-director-edge",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 시대, 아트 디렉터의\n진짜 무기는 안목이다",
+      "mini_headline": "아트 디렉터의 안목",
+      "body": "생성형 워크플로의 승부처는 더 나은 프롬프트나 도구가 아니라 방향과 취향, 비평으로 다듬은 훈련된 눈이다.",
+      "tool": "AI Workflow",
+      "source": "DEV Community",
+      "url": "https://dev.to/designbytk/art-directors-advantage-in-the-ai-gen-era-4a3k",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmzybsuqkpu7os4s766d.png" },
+          { "t": "p", "x": "한 아트 디렉터는 생성형 디자인 워크플로에서 진짜 경쟁력은 더 나은 프롬프트나 최신 도구에 있지 않다고 말한다. 결정적인 건 오래 훈련해 온 시각적 판단, 곧 방향을 잡고 취향을 세우며 결과를 비평하는 힘이다." },
+          { "t": "p", "x": "AI는 이미지를 끝없이 뽑아낸다. 다만 그 산더미 같은 결과 가운데 무엇이 쓸 만한지 가려내는 일은 사람의 몫이다. 좋고 나쁨을 짚어내는 눈이 없으면 생성량이 아무리 많아도 소용이 없다." },
+          { "t": "p", "x": "그래서 저자가 힘주어 말하는 우위는 도구가 아니라 안목이다. 방향과 취향, 비평이라는 인간의 감각이 결국 AI의 산출물을 쓸 만한 결과로 바꿔 놓는다." }
         ]
       }
     }

@@ -1,23 +1,23 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "games",
   "user_seeds": [],
-  "note": "Parallel override run -> written to keywords_games.json (not keywords.json). STANDARD run: working set = 3 core (always) + a date-rotated slice of the 24-keyword games pool (day-of-month 22 -> slice offset 22, ~15 pool keywords), each expanded into 3-4 sibling phrases. Games section maps to a single 'games' category in sources.json; a 'social' block is added for the games youtube_channels (no instagram_handles defined for games, so IG is skipped). Recently covered in news_data.json (last runs) and therefore dropped from the working slice: 'AI game art' (Houdini 22 native Gaussian splats, 07-21), 'generative game assets' (Sony synthetic assets, 07-16), 'vibe coding games' (capybara Claude Code $25k win, 07-16), plus Steam AI-release flood (07-16) and Japan devs 100% AI usage (07-17). Today emphasizes NPC/dialogue/character AI, world models, and engine integration instead. Final dedup enforced downstream by the curator.",
+  "note": "Parallel override run -> written to keywords_games.json (not keywords.json). Working set = 3 core (always) + a date-rotated slice of the 24-keyword games pool (day-of-month 23 -> slice offset 23, ~15 pool keywords), each expanded into 3-4 sibling phrases. Games section maps to a single 'games' category in sources.json; a 'social' block is added for the games youtube_channels (no instagram_handles defined for games, so IG is skipped). Dropped from today's slice because covered in the last 2 days of news_data.json: 'Unity Muse' (Unity 7 AI-optimization roadmap, 07-22), 'AI game art' / 'generative game assets' (Meshy 3D agent, 07-22; Houdini 22 native Gaussian splats, 07-21), 'text-to-game' (Roblox Build text-to-game, 07-18), 'procedural generation AI' (Damage Control Blender toolkit, 07-20), 'vibe coding games' (C&C iOS port, 07-17). Today rotates IN: AI playable worlds, AI localization games, AI game design tool. Emphasis shifts toward playtesting/QA, localization, voice/animation, and world models. Final dedup enforced downstream by the curator.",
   "rotation": {
-    "day_of_month": 22,
-    "day_of_year": 203,
+    "day_of_month": 23,
+    "day_of_year": 204,
     "pool_size": 24,
     "mode": "rotating slice",
-    "slice_offset": 22,
+    "slice_offset": 23,
     "slice_taken": 15,
     "emphasis_today": [
-      "AI NPC / character AI (Inworld, NVIDIA ACE)",
-      "AI game dialogue & branching narrative",
-      "world models / playable worlds (Genie)",
-      "engine integration (Unreal Engine AI, Unity Muse)",
-      "procedural generation & AI level design"
+      "AI playtesting / QA / bug detection",
+      "AI localization for games",
+      "AI voice acting & animation for games",
+      "world models / playable worlds (Genie, AI playable worlds)",
+      "NPC & character AI (Inworld, NVIDIA ACE)"
     ],
-    "social_channels_emphasized": ["Inworld AI", "GDC", "Two Minute Papers"]
+    "social_channels_emphasized": ["Unreal Engine", "GDC", "Two Minute Papers"]
   },
   "working_keywords": [
     { "keyword": "AI game", "type": "core", "covered_recently": false, "expansions": ["AI game development news 2026", "AI in game development 2026", "AI game industry 2026", "generative AI games release"] },
@@ -25,19 +25,20 @@
     { "keyword": "generative game", "type": "core", "covered_recently": false, "expansions": ["generative game AI tool", "generative game content 2026", "AI game generator", "generative gameplay model"] },
     { "keyword": "AI NPC", "type": "pool", "covered_recently": false, "expansions": ["intelligent NPC AI", "AI-driven characters game", "LLM NPC dialogue", "living NPC game 2026"] },
     { "keyword": "Inworld AI", "type": "pool", "covered_recently": false, "expansions": ["Inworld AI character engine", "Inworld game NPC", "Inworld AI update 2026", "Inworld runtime game"] },
-    { "keyword": "procedural generation AI", "type": "pool", "covered_recently": false, "expansions": ["AI procedural world generation", "procedural content generation game", "AI generated game levels", "PCG machine learning game"] },
     { "keyword": "AI playtesting", "type": "pool", "covered_recently": false, "expansions": ["AI automated playtesting", "AI QA game testing", "AI bot playtest", "AI game balancing test"] },
+    { "keyword": "AI bug detection games", "type": "pool", "covered_recently": false, "expansions": ["AI game bug detection", "AI QA regression game", "automated game testing AI", "AI crash detection game"] },
     { "keyword": "neural game engine", "type": "pool", "covered_recently": false, "expansions": ["neural rendering game engine", "real-time neural game generation", "AI game engine model", "learned game simulation"] },
     { "keyword": "AI level design", "type": "pool", "covered_recently": false, "expansions": ["AI level generator", "AI map design game", "generative level layout", "AI environment design game"] },
     { "keyword": "AI game dialogue", "type": "pool", "covered_recently": false, "expansions": ["AI branching narrative", "generative dialogue system game", "AI conversation NPC", "AI dynamic story game"] },
     { "keyword": "Unreal Engine AI", "type": "pool", "covered_recently": false, "expansions": ["Unreal Engine AI tools 2026", "Unreal MetaHuman AI", "Unreal Engine generative workflow", "Epic Games AI features"] },
-    { "keyword": "Unity Muse", "type": "pool", "covered_recently": false, "expansions": ["Unity Muse update 2026", "Unity AI generative tools", "Unity Sentis AI", "Unity AI asset workflow"] },
     { "keyword": "NVIDIA ACE", "type": "pool", "covered_recently": false, "expansions": ["NVIDIA ACE digital humans", "NVIDIA ACE game NPC", "NVIDIA ACE autonomous characters", "NVIDIA game AI 2026"] },
     { "keyword": "AI character creation", "type": "pool", "covered_recently": false, "expansions": ["AI game avatar generator", "AI 3D character tool game", "generative character design game", "AI MetaHuman creation"] },
+    { "keyword": "AI playable worlds", "type": "pool", "covered_recently": false, "expansions": ["generative playable world", "AI world simulation game", "real-time generated world", "neural world model game"] },
     { "keyword": "Genie world model", "type": "pool", "covered_recently": false, "expansions": ["Google Genie 3 world model", "DeepMind Genie playable world", "AI generated interactive worlds", "world model game 2026"] },
     { "keyword": "AI voice acting games", "type": "pool", "covered_recently": false, "expansions": ["AI voice game characters", "synthetic voice acting game", "AI TTS game dialogue", "AI voice actor rights game"] },
     { "keyword": "AI animation games", "type": "pool", "covered_recently": false, "expansions": ["AI game animation tool", "AI motion generation game", "generative character animation", "AI mocap game 2026"] },
-    { "keyword": "text-to-game", "type": "pool", "covered_recently": false, "expansions": ["text-to-game generation", "prompt to playable game", "AI generate game from text", "text-to-game model 2026"] }
+    { "keyword": "AI localization games", "type": "pool", "covered_recently": false, "expansions": ["AI game translation", "AI localization pipeline game", "게임 AI 현지화", "machine translation game 2026"] },
+    { "keyword": "AI game design tool", "type": "pool", "covered_recently": false, "expansions": ["AI game design assistant", "AI game dev tool release 2026", "generative game design software", "AI copilot game development"] }
   ],
   "plan": [
     {
@@ -67,7 +68,9 @@
         "gamingbolt.com",
         "aftermath.site",
         "nme.com",
-        "destructoid.com"
+        "destructoid.com",
+        "nvidia.com",
+        "deepmind.google"
       ],
       "queries": [
         "AI game development news July 2026",
@@ -75,21 +78,22 @@
         "generative game AI tool launch 2026",
         "AI NPC intelligent characters game 2026",
         "Inworld AI game character engine 2026",
-        "procedural generation AI game worlds 2026",
         "AI playtesting automated QA game 2026",
+        "AI game bug detection QA tool 2026",
         "neural game engine real-time generation 2026",
         "AI level design generator game 2026",
         "AI game dialogue branching narrative 2026",
-        "Unreal Engine AI tools MetaHuman update 2026",
-        "Unity Muse generative AI game tools 2026",
+        "Unreal Engine AI MetaHuman toolkit 2026",
         "NVIDIA ACE AI game NPC digital humans 2026",
-        "AI character creation game avatar tool 2026",
+        "AI character creation game avatar 3D tool 2026",
+        "AI playable worlds generative interactive game 2026",
         "Google Genie world model playable world 2026",
         "AI voice acting game synthetic voice 2026",
-        "AI game animation motion generation tool 2026",
-        "text-to-game AI generation prompt 2026",
+        "AI game animation motion capture tool 2026",
+        "AI localization game translation pipeline 2026",
         "AI game design tool studio workflow 2026",
         "game studio AI adoption case study 2026",
+        "AI 게임 에셋 제작 도구 2026",
         "site:gamedeveloper.com AI game development 2026",
         "AI game breakthrough this week July 2026"
       ]
@@ -103,18 +107,18 @@
         "youtube.com",
         "youtu.be"
       ],
-      "rotation_note": "Games youtube_channels = Unreal Engine, Unity, Inworld AI, GDC, Two Minute Papers. Day 22 rotation emphasizes Inworld AI, GDC and Two Minute Papers (Unreal Engine / Unity are already covered by the engine-integration queries in the games category). No instagram_handles defined for the games category, so IG is skipped.",
+      "rotation_note": "Games youtube_channels = Unreal Engine, Unity, Inworld AI, GDC, Two Minute Papers. Day 23 rotation emphasizes Unreal Engine, GDC and Two Minute Papers (Unity de-emphasized this run since Unity 7 was covered 07-22; Inworld AI kept as a 4th since NPC/character AI is a core games×AI axis). No instagram_handles defined for the games category, so IG is skipped.",
       "queries": [
-        "site:youtube.com \"Inworld AI\" game NPC character 2026",
+        "site:youtube.com \"Unreal Engine\" AI generative tools 2026",
         "site:youtube.com GDC AI game development 2026",
         "site:youtube.com \"Two Minute Papers\" AI game world model 2026",
-        "site:youtube.com \"Unreal Engine\" OR Unity AI generative tools 2026"
+        "site:youtube.com \"Inworld AI\" game NPC character 2026"
       ]
     }
   ],
   "totals": {
-    "working_keywords": 18,
+    "working_keywords": 19,
     "categories": 2,
-    "queries": 26
+    "queries": 27
   }
 }

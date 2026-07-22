@@ -1,66 +1,91 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.cgchannel.com/2026/07/chaos-releases-v-ray-7-4-for-blender/",
-      "title": "Chaos releases V-Ray 7.4 for Blender",
+      "url": "https://www.cgchannel.com/2026/07/maya-2026-2-lets-you-train-your-own-ai-animation-models/",
+      "title": "Maya 2026.2 lets you train your own AI animation models",
       "source": "CG Channel",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/270721_VRay74Blender_f.jpg",
-      "excerpt": "Chaos shipped V-Ray 7.4 for Blender, adding a Quick Sun Caustics system, UDIM support, Cycles-to-V-Ray lighting conversion, and tighter integration with Veras, its architectural AI rendering software.",
+      "published_iso": "2026-07-22T14:01:23Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260722_Maya20272_f.jpg",
+      "excerpt": "Maya 2026.2's new 'Bring Your Own Data' feature lets studios train their own AI models for the MotionMaker animation system using their own keyframe or mocap data, moving generative animation from a black box toward a studio-tunable, in-house workflow.",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Major renderer update for the huge Blender user base — Cycles-to-V-Ray conversion and AI (Veras) integration directly change how 3D/arch artists render tomorrow."
+      "rationale": "Highly actionable release — 'Bring Your Own Data' turns generative animation from a fixed black box into a studio-tunable, in-house model."
     },
     {
-      "url": "https://www.cgchannel.com/2026/07/foundry-releases-new-ai-powered-smartroto-add-on-for-nuke/",
-      "title": "Foundry releases new AI-powered SmartRoto add-on for Nuke",
+      "url": "https://www.cgchannel.com/2026/07/autodesk-releases-3ds-max-2026-2-with-editable-gaussian-splats/",
+      "title": "Autodesk releases 3ds Max 2026.2 with editable Gaussian Splats",
       "source": "CG Channel",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Foundry released an AI-powered SmartRoto add-on for Nuke that automatically propagates and deforms roto splines across a shot, claiming to speed up rotoscoping 'up to 4x' versus manual work.",
+      "published_iso": "2026-07-22T15:49:23Z",
+      "og_image": null,
+      "excerpt": "3ds Max 2026.2 makes it possible to import, edit, relight and render 3D Gaussian Splat data directly inside the software, bringing radiance-field capture into a mainstream design/render pipeline alongside its other new features.",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#3b6bff",
       "motif": "sphere",
-      "rationale": "AI that automates one of VFX's most tedious tasks — up-to-4x faster rotoscoping in Nuke is an immediately actionable workflow change; distinct accent since it shares the render category."
+      "rationale": "Distinct release (not the earlier Houdini splat toolset) — editable radiance-field capture lands in a mainstream 3ds Max render pipeline; distinct accent since it shares the render category."
     },
     {
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
-      "title": "Meshy wants AI to feel less like a prompt and more like a creative partner",
-      "source": "80 Level",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Meshy's new conversational 3D Agent keeps context across a session so creators can set art direction and generate stylistically consistent, production-ready 3D assets, positioning AI as a creative partner rather than a one-shot prompt.",
+      "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe",
+      "title": "I handed a UX review over to AI — here's what happened",
+      "source": "UX Collective",
+      "published_iso": "2026-07-21T21:36:56Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*We3RETarXYEoHVKQy0GX_g.jpeg",
+      "excerpt": "A designer hands a full UX review over to AI and reports back: AI is a powerful partner for UX reviews but not a replacement for the expert, with accuracy coming from the domain expertise you feed it rather than the model itself.",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "A conversational 3D Agent that holds art-direction context across a session reframes prompt-based 3D generation as a collaborative workflow — novel and directly relevant to designers' asset pipelines; adds a distinct outlet and category."
+      "rationale": "Concrete, tomorrow-usable account of AI-assisted UX reviews and where a designer's own expertise still has to lead; adds a new outlet and category."
+    },
+    {
+      "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04",
+      "title": "The screens are getting demoted",
+      "source": "UX Collective",
+      "published_iso": "2026-07-22T22:21:01Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*MYZNJTIK1o6qlF7KDs9T5Q.png",
+      "excerpt": "As AI grows more capable, the on-screen UI stops being the main focus of a product -- this piece reframes the designer's job around deciding which screens are still needed at all when interactions move to agents and ambient interfaces.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "Forward-looking reframe of the designer's role as interactions move to agents and ambient interfaces; distinct accent since it shares the workflow category."
+    },
+    {
+      "url": "https://dev.to/designbytk/art-directors-advantage-in-the-ai-gen-era-4a3k",
+      "title": "The art director's advantage in the AI-gen era",
+      "source": "DEV Community",
+      "published_iso": "2026-07-22T18:53:42Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmzybsuqkpu7os4s766d.png",
+      "excerpt": "An art director argues the real edge in AI generative design workflows isn't better prompts or tools but trained visual judgment -- direction, taste and critique -- the human skills that decide whether AI output is usable.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Third outlet plus a distinct angle — trained visual judgment, not prompting, as the durable human edge in gen-AI workflows; distinct accent since it shares the workflow category."
     }
   ],
   "dedup": {
-    "pool_size": 4,
-    "kept": 3,
-    "dropped_as_duplicate": 0,
-    "dropped_for_diversity": 1,
-    "checked_against": "sections.design — today (2026-07-21) + days 2026-07-16, 07-17, 07-18, 07-19, 07-20",
+    "pool_size": 6,
+    "kept": 5,
+    "dropped_as_duplicate": 1,
+    "dropped_for_diversity": 0,
+    "checked_against": "sections.design — today (2026-07-22) + days 2026-07-17 through 07-21",
     "notes": [
-      "All 4 filtered candidates are fresh — none match any URL or story already published in the 5-day design history (published cgchannel cards were houdini22 and zephyr9, both distinct releases).",
-      "ArcBrush 1.5 (CG Channel, 07-19) — DROPPED for the outlet-diversity guard. It is the 3rd CG Channel candidate, and the final set may hold at most 2 per outlet; it is also the weakest item (niche $49 node editor) and the oldest, so it yields to the two stronger CG Channel releases.",
-      "V-Ray 7.4 for Blender (CG Channel) — KEPT. Major renderer release for a broad audience.",
-      "Foundry SmartRoto for Nuke (CG Channel) — KEPT. AI-powered rotoscoping, highly actionable.",
-      "Meshy 3D Agent (80 Level) — KEPT. Only non-CG-Channel candidate; adds outlet + category spread."
+      "Meshy 3D Agent (80 Level) was NOT in the filtered pool — already removed by the URL-dedup filter as a known dup of the 07-22 brief. Nothing to drop there.",
+      "Creative Bloq 'Autodesk SIGGRAPH round-up' — DROPPED as a content-level duplicate. It is an umbrella piece covering the SAME two releases as the two CG Channel articles (Maya 2026.2 AI animation + 3ds Max 2026.2 Gaussian Splats); the specific release pieces are more actionable, so the round-up yields.",
+      "Maya 2026.2 (CG Channel) and 3ds Max 2026.2 (CG Channel) are distinct product releases (train-your-own AI animation vs editable Gaussian Splats) — kept both as separate stories.",
+      "3ds Max Gaussian Splats is NOT a dup of the 07-17 Houdini 22 splat toolset — different product and release.",
+      "Three UX/workflow think-pieces (UX review to AI, screens demoted, art director) cover distinct angles — kept all three; UX Collective capped at 2 per outlet cap."
     ],
     "diversity_guard": {
-      "outlets": "2 distinct (CG Channel x2, 80 Level x1); CG Channel capped at 2 of its 3 candidates — only 2 outlets exist in the pool, so >=3 distinct outlets was not possible",
-      "categories": "render x2, workflow x1 — max 2 per category respected"
+      "outlets": "3 distinct (CG Channel x2, UX Collective x2, DEV Community x1) — each at or under the 2-per-outlet cap",
+      "categories": "render x2, workflow x3 — the filtered pool spanned only these 2 categories, so a wider spread was not possible; no under-represented category candidate existed to swap in"
     },
-    "below_target": true,
-    "below_target_reason": "Filtered pool held only 4 candidates across 2 outlets, 3 of them from CG Channel. The <=2-per-outlet diversity guard caps CG Channel at 2, leaving 2 render + 1 workflow = 3 distinct fresh picks. Floor of 3 met; not padding a 4th that would violate the outlet cap."
+    "below_target": false
   }
 }

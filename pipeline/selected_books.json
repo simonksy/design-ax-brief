@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-23",
   "section": "books",
   "selection_mode": "auto",
   "picks": [
@@ -7,55 +7,44 @@
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100855-norway-s-beat-spins-out-zedoc-a-new-agentic-ai-platform.html",
       "source": "Publishers Weekly",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "og_image": "",
-      "excerpt": "A Spoken-commissioned survey found 61% of listeners mistook AI narration for human voices and the same share favored AI narration in multi-character scenes, even as a separate Audio Publishers Association study showed overall willingness to try AI-narrated audiobooks slipping year over year.",
-      "rationale": "Strongest of the audiobook cluster: PW is the most authoritative trade outlet and the concrete survey figures directly inform how audiobook producers and indie authors weigh AI narration for multi-cast titles."
+      "published_iso": "2026-07-17T12:00:00Z",
+      "og_image": null,
+      "excerpt": "Zedoc, a new agentic AI metadata platform spun out of Norway's Beat Technology, streamlines publisher workflows: subject classification (Thema, BISAC, Dewey), accessibility enrichment, speech-to-text, ONIX record generation, audiobook chapterization, and structuring product data for AI-driven discovery.",
+      "rationale": "Concrete new agentic AI tool that reshapes day-to-day publisher metadata and ONIX workflows — highest actionability and novelty, from the most authoritative trade outlet."
     },
     {
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "url": "https://www.thebookseller.com/news/publishing-has-lowest-uptake-of-ai-across-creative-industries-according-to-new-report",
-      "source": "The Bookseller",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg",
-      "excerpt": "Creative Access's 2026 'Thrive' report finds publishing has the lowest AI uptake of any creative industry at just 6%, reflecting ongoing concerns around copyright and authorship even as adjacent creative sectors adopt AI tools far faster.",
-      "rationale": "Distinct benchmark story from a reputable trade source: the 6% uptake figure gives publishing professionals a hard data point on where their industry sits versus other creative sectors."
+      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png",
+      "excerpt": "A new four-week online program for publishing professionals aims to help teams understand AI technology, build practical AI workflow systems, and set organizational guidelines around usage and protection.",
+      "rationale": "Practical, hands-on program giving publishing teams a concrete way to build AI workflows and internal policy — directly actionable and freshly announced."
     },
     {
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "url": "https://lithub.com/publishing-has-a-hologram-problem-and-its-growing/",
-      "source": "Literary Hub",
-      "published_iso": "2026-07-15T09:10:26Z",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/07/book-scaled.jpg",
-      "excerpt": "Robert Moor argues publishing faces a growing 'hologram problem': AI summarizers, chat tools, marketing blurbs and podcasts now convey a book's substance so convincingly that readers increasingly consume the simulacrum instead of reading the book itself, reshaping how titles are written, sold and read.",
-      "rationale": "Distinct, forward-looking argument on AI summary/chat tools displacing actual reading — reframes how editors and marketers think about discoverability and the value of the book itself, from a credible literary outlet."
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
-      "reason": "Same story as the kept Publishers Weekly pick — 'AI multi-cast audiobook narration acceptance.' Per the same-story rule the audiobook cluster collapses to a single card; PW is the stronger, more authoritative source."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=TXlnWH0Kngg",
-      "reason": "Derivative of the same audiobook-narration survey story — the Self-Publishing with Dale podcast simply breaks down the survey data covered by the PW/Jane Friedman items. Collapsed into the single kept audiobook card."
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
+      "source": "Books+Publishing",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": null,
+      "excerpt": "University of Melbourne and RMIT researchers have launched a survey of Australian publishers and editors on how they actually use generative AI in their work, focusing on text-based LLMs across editorial and publishing practice.",
+      "rationale": "Fresh academic research mapping real-world editorial AI adoption — credible source and a distinct angle from the tool and policy picks."
     }
   ],
   "dedup_notes": {
-    "history_checked": "All three picks checked against sections.books history in news_data.json (today 2026-07-21 + days 07-16..07-20). None appears in history. PW 100825 (audiobook narration) is a different article from the published PW 100778 (analytics startups, 07-19); the audiobook-narration survey is also distinct from the July-6 roundup's separate 17.4% Australian AI-narration figure. The Bookseller Creative Access 'Thrive' report differs from the two published Bookseller items (fiction-feast 07-20, cartland-voice 07-20). The LitHub 'hologram problem' piece is a different article/topic from the published LitHub Proust-translation piece (07-17).",
-    "cluster_collapse": "3 of the 5 filtered candidates (Publishers Weekly, Jane Friedman, Self-Publishing with Dale) all cover the same 'AI multi-cast audiobook narration acceptance' story via different outlets/angles. Kept the single strongest (PW); dropped the other two as same-story.",
-    "diversity": "3 distinct outlets (Publishers Weekly, The Bookseller, Literary Hub), 1 per outlet — within the <=2-per-outlet guard and meeting >=3 distinct outlets. Single category (books) as expected for a single-category section; second and third picks given distinct accents (#0070f3, #7928ca)."
+    "history_checked": "All three picks checked against sections.books history in news_data.json (today 2026-07-22 + days 07-17..07-21). None appears in history. PW 100855 (Zedoc agentic platform) is distinct from published PW 100825 (audiobook narration) and PW 100778 (analytics startups). The Books+Publishing 334844 survey is distinct from the published 334627 (APA Office of AI, 07-17). The Publishing Perspectives course article differs from the two published PP items (IPA innovation award 07-17, around-the-book-world 07-20).",
+    "diversity": "3 distinct outlets (Publishers Weekly, Publishing Perspectives, Books+Publishing), 1 per outlet — meets >=3 distinct outlets and the <=2-per-outlet guard. Single category (books) as expected; second and third picks given distinct accents (#0070f3, #7928ca)."
   },
   "shortfall": {
     "target_floor": 3,
     "picked": 3,
     "below_floor": false,
-    "honest_note": "Floor of 3 met exactly. The wide funnel yielded 3 distinct never-before-seen stories after the audiobook cluster (3 candidates) collapsed to one. No padding — the remaining pool has no further unique fresh items beyond these three."
+    "honest_note": "Floor of 3 met exactly. The filtered pool held only 3 distinct never-before-seen stories (1 already dropped upstream). No padding — no further unique fresh items exist."
   }
 }

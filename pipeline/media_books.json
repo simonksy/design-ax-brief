@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "books",
   "media": [
-    { "id": "ai-narration", "type": "image", "src": "pipeline/media/ai-narration.jpg" },
-    { "id": "ai-uptake", "type": "image", "src": "pipeline/media/ai-uptake.jpg" },
-    { "id": "hologram", "type": "image", "src": "pipeline/media/hologram.jpg" }
+    { "id": "zedoc", "type": "image", "src": "pipeline/media/zedoc.png" },
+    { "id": "ai-course", "type": "image", "src": "pipeline/media/ai-course.png" },
+    { "id": "editor-ai-survey", "type": "image", "src": "pipeline/media/editor-ai-survey.jpg" }
   ]
 }

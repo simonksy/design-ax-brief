@@ -1,21 +1,27 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "games",
   "media": [
     {
-      "id": "unity7",
-      "type": "image",
-      "src": "pipeline/media/unity7.png"
+      "id": "nvidia-siggraph",
+      "type": "video",
+      "src": "pipeline/media/nvidia-siggraph.mp4",
+      "poster": "pipeline/media/nvidia-siggraph.jpg"
     },
     {
-      "id": "dlss5",
+      "id": "ai-2d-to-3d",
       "type": "image",
-      "src": "pipeline/media/dlss5.jpg"
+      "src": "pipeline/media/ai-2d-to-3d.jpg"
     },
     {
-      "id": "meshy3dagent",
+      "id": "atelico",
       "type": "image",
-      "src": "pipeline/media/meshy3dagent.png"
+      "src": "pipeline/media/atelico.png"
+    },
+    {
+      "id": "kaneko",
+      "type": "image",
+      "src": "pipeline/media/kaneko.jpg"
     }
   ]
 }

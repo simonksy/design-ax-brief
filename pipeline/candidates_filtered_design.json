@@ -1,45 +1,62 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "design",
-  "now_iso": "2026-07-21T23:06:40Z",
+  "now_iso": "2026-07-22T23:00:00Z",
   "window_hours": 72,
+  "note": "RECOVERY PASS. Prior run yielded 0 publishable (1 dup). WebSearch budget was already exhausted (200/200), so this pass ran entirely off curl'd RSS/article metadata (og:article:published_time + JSON-LD datePublished verified for every item). Added 6 NET-NEW fresh design x AI items not present in news_data.json.sections.design: Autodesk SIGGRAPH round-up (Creative Bloq), Maya 2026.2 train-your-own AI animation models + 3ds Max 2026.2 editable Gaussian Splats (CG Channel), two UX Collective/uxdesign pieces on AI in the design workflow, and a dev.to art-director-in-the-AI-era piece. All verified published after 2026-07-19T23:00Z. VentureBeat AI feed was all enterprise-compute/agent-security business noise (dropped per relevance test). The pre-existing Meshy 3D Agent item is retained but is a known dup of the 07-22 brief (curator will dedup).",
   "items": [
     {
-      "url": "https://www.cgchannel.com/2026/07/foundry-releases-new-ai-powered-smartroto-add-on-for-nuke/",
-      "source": "CG Channel",
+      "url": "https://www.creativebloq.com/3d/autodesks-siggraph-announcements-look-unrelated-but-they-all-solve-the-same-huge-problem",
+      "source": "Creative Bloq",
       "category": "render",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Foundry released an AI-powered SmartRoto add-on for Nuke that automatically propagates and deforms roto splines across a shot, claiming to speed up rotoscoping 'up to 4x' versus manual work."
+      "published_iso": "2026-07-22T14:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ixkM5tqng8Ex8QtuiFrXrE-1920-80.png",
+      "excerpt": "Creative Bloq argues Autodesk's scattered SIGGRAPH 2026 announcements -- new AI animation, editable Gaussian Splats and rendering tools across Maya and 3ds Max -- all converge on one goal: collapsing the gap between capture and creative iteration for artists."
     },
     {
-      "url": "https://www.cgchannel.com/2026/07/chaos-releases-v-ray-7-4-for-blender/",
+      "url": "https://www.cgchannel.com/2026/07/maya-2026-2-lets-you-train-your-own-ai-animation-models/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/270721_VRay74Blender_f.jpg",
-      "excerpt": "Chaos shipped V-Ray 7.4 for Blender, adding a Quick Sun Caustics system, UDIM support, Cycles-to-V-Ray lighting conversion, and tighter integration with Veras, its architectural AI rendering software."
+      "published_iso": "2026-07-22T14:01:23Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260722_Maya20272_f.jpg",
+      "excerpt": "Maya 2026.2's new 'Bring Your Own Data' feature lets studios train their own AI models for the MotionMaker animation system using their own keyframe or mocap data, moving generative animation from a black box toward a studio-tunable, in-house workflow."
     },
     {
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
-      "source": "80 Level",
+      "url": "https://www.cgchannel.com/2026/07/autodesk-releases-3ds-max-2026-2-with-editable-gaussian-splats/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-07-22T15:49:23Z",
+      "og_image": null,
+      "excerpt": "3ds Max 2026.2 makes it possible to import, edit, relight and render 3D Gaussian Splat data directly inside the software, bringing radiance-field capture into a mainstream design/render pipeline alongside its other new features."
+    },
+    {
+      "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe",
+      "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Meshy's new conversational 3D Agent keeps context across a session so creators can set art direction and generate stylistically consistent, production-ready 3D assets, positioning AI as a creative partner rather than a one-shot prompt."
+      "published_iso": "2026-07-21T21:36:56Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*We3RETarXYEoHVKQy0GX_g.jpeg",
+      "excerpt": "A designer hands a full UX review over to AI and reports back: AI is a powerful partner for UX reviews but not a replacement for the expert, with accuracy coming from the domain expertise you feed it rather than the model itself."
     },
     {
-      "url": "https://www.cgchannel.com/2026/07/arcbrush-1-5-is-an-interesting-49-node-based-image-editor/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-07-19T00:00:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260719_ArcBrush15_Composite.jpg",
-      "excerpt": "Albert Omoss released ArcBrush 1.5, a $49 node-based image editor for VFX and motion graphics that adds a 32-bit pipeline, Cryptomatte support, and cloud-based AI upscaling and background-removal features."
+      "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-22T22:21:01Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*MYZNJTIK1o6qlF7KDs9T5Q.png",
+      "excerpt": "As AI grows more capable, the on-screen UI stops being the main focus of a product -- this piece reframes the designer's job around deciding which screens are still needed at all when interactions move to agents and ambient interfaces."
+    },
+    {
+      "url": "https://dev.to/designbytk/art-directors-advantage-in-the-ai-gen-era-4a3k",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-07-22T18:53:42Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmzybsuqkpu7os4s766d.png",
+      "excerpt": "An art director argues the real edge in AI generative design workflows isn't better prompts or tools but trained visual judgment -- direction, taste and critique -- the human skills that decide whether AI output is usable."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 4,
+    "dropped": 1,
+    "kept": 6,
     "against_days": 5
   }
 }

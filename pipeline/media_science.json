@@ -1,10 +1,9 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "science",
   "media": [
-    { "id": "flatband", "type": "image", "src": "pipeline/media/flatband.jpg" },
-    { "id": "baker", "type": "image", "src": "pipeline/media/baker.jpeg" },
-    { "id": "openadmet", "type": "image", "src": "pipeline/media/openadmet.jpg" },
-    { "id": "goflow", "type": "image", "src": "pipeline/media/goflow.jpg" }
+    { "id": "oled-ai", "type": "image", "src": "pipeline/media/oled-ai.jpg" },
+    { "id": "deeptimegate", "type": "image", "src": "pipeline/media/deeptimegate.jpg" },
+    { "id": "qewc", "type": "image", "src": "pipeline/media/qewc.png" }
   ]
 }

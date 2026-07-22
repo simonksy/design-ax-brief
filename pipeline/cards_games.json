@@ -1,99 +1,84 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "games",
   "cards": [
     {
-      "id": "unity7",
+      "id": "nvidia-siggraph",
       "eyebrow": "AI NEWS",
-      "headline": "유니티 7, 빌드를 다시 짜지 않는\nAI 최적화 업그레이드 로드맵",
-      "body": "유니티 7은 기존 6 구조를 그대로 둔 채 빌드 재작성 없이 올라가고, AI 그래픽 최적화를 새로 얹는다.",
-      "mini_headline": "유니티 7 로드맵 공개",
+      "headline": "시그래프서 공개된 뉴럴 렌더링과\n툴 속으로 들어온 AI 에이전트",
+      "mini_headline": "창작 도구 속 AI 에이전트",
+      "body": "엔비디아가 시그래프에서 뉴럴 렌더링과 코스모스 3 월드 모델을 공개해 실시간 4K 창작을 앞당겼다.",
       "tool": "Games",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop"
-          },
-          {
-            "t": "p",
-            "x": "유니티가 유나이트 서울에서 유니티 7 로드맵을 꺼냈다. 골자는 하나다. 유니티 6 구조를 그대로 두고, 빌드를 다시 만들 필요 없이 그 위로 올라간다."
-          },
-          {
-            "t": "p",
-            "x": "여기에 AI가 거드는 그래픽 최적화와 유니티 벡터 AI 엔진 연동이 더해진다. 유니티는 이번 버전을 두고 \"사람과 코딩 에이전트가 함께 일하는 미래를 위해 만들었다\"고 했다."
-          },
-          {
-            "t": "p",
-            "x": "그러면서도 창작 과정에서 AI를 빼기로 한 스튜디오가 뒤로 밀리는 일은 없다고 못 박았다. 팀이 내일을 어떻게 설계할지, 그 밑그림이 이 로드맵에서 바로 바뀐다."
-          }
+          { "t": "img", "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SIGGRAPH-2026-Keynote-21-1680x945.jpg" },
+          { "t": "p", "x": "엔비디아가 시그래프 2026에서 뉴럴 렌더링 신기술과 월드 파운데이션 모델 코스모스 3 엣지를 선보였다. 실시간 4K 콘텐츠를 더 세밀하게 다룰 수 있게 하는 것이 핵심으로, 창작자의 예술적 통제권을 넓히는 데 초점을 맞췄다. 이번 발표에는 그래픽 연구 성과 22건도 함께 담겼다." },
+          { "t": "p", "x": "모델 컨텍스트 프로토콜(MCP) 연동도 넓어졌다. 이제 AI 에이전트가 블렌더, 언리얼 엔진, 어도비 크리에이티브 클라우드 같은 창작 도구 안에서 곧바로 작업을 거든다. 다만 무엇을 만들지 결정하는 몫은 여전히 사람에게 남겨, 창작의 판단은 사람이 쥔다는 원칙을 지켰다." }
         ]
       }
     },
     {
-      "id": "dlss5",
+      "id": "ai-2d-to-3d",
       "eyebrow": "AI NEWS",
-      "headline": "엔비디아, DLSS 5 AI 필터를\n조절하는 슬라이더 둘을 공개",
-      "body": "엔비디아가 DLSS 5 신경 렌더를 손볼 슬라이더 둘을 개발자에게 열어 주고, 제어 장치를 더 늘리고 있다.",
-      "mini_headline": "DLSS 5 슬라이더 공개",
+      "headline": "2D 도면을 게임용 3D로\n바꾸는 새 AI 기법 공개",
+      "mini_headline": "2D를 3D로 바꾸는 AI",
+      "body": "평면 2D 그림을 게임에 바로 쓸 수 있는 3D 형상으로 바꿔, 수작업 모델링 부담을 크게 던다.",
       "tool": "Games",
       "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/hardware/nvidia-finally-reveals-what-controls-devs-actually-have-for-dlss-5-and-dont-worry-folks-there-are-two-main-sliders-to-control-the-ai-filter/",
+      "url": "https://www.pcgamer.com/software/ai/new-method-teaches-ai-to-make-2d-designs-3d-and-now-im-afraid-this-will-be-how-the-robots-learn-to-build-themselves-without-us/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/GB4RKTAnxZ8BWDNa7sq4hB-1094-80.jpg"
-          },
-          {
-            "t": "p",
-            "x": "엔비디아가 DLSS 5의 AI 필터를 개발자가 직접 다룰 수 있는 두 개의 주요 슬라이더를 내놓고, 그 작동 방식을 처음으로 풀어 놓았다."
-          },
-          {
-            "t": "p",
-            "x": "신경 렌더러가 최종 화면의 손맛을 앗아 간다는 우려가 나온 뒤였다. PC 게이머는 이 두 슬라이더가 각각 어디까지 손을 대는지 하나하나 뜯어봤다."
-          },
-          {
-            "t": "p",
-            "x": "엔비디아는 개발자 쪽 제어 장치를 더 만들고 있다고 한다. 최종 프레임에 대한 발언권을 잃을까 걱정하던 테크 아티스트라면, 지금 짚어 둘 만한 대목이다."
-          }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg" },
+          { "t": "p", "x": "연구진이 평면 2D 디자인과 드로잉을 온전한 3D 모델로 바꾸는 새 AI 기법을 내놨다. 그림 한 장을 입체 형상으로 끌어올리는 방식으로, 손으로 하나씩 다듬던 모델링 과정을 크게 줄인다." },
+          { "t": "p", "x": "게임 에셋 제작 흐름에는 곧바로 와닿는 변화다. 콘셉트 아트를 게임에 바로 쓸 수 있는 지오메트리로 옮기면서, 스케치에서 완성 모델에 이르는 길이 한결 짧아진다." }
         ]
       }
     },
     {
-      "id": "meshy3dagent",
+      "id": "atelico",
       "eyebrow": "AI NEWS",
-      "headline": "메시 3D 에이전트, 단발 프롬프트를\n대화형 창작 파트너로 바꾸다",
-      "body": "메시 3D 에이전트 베타가 대화로 맥락을 이어 스타일이 일관된 에셋을 만들고, 블렌더와 언리얼, 유니티로 내보낸다.",
-      "mini_headline": "메시 3D 에이전트 공개",
+      "headline": "저전력 온디바이스 AI를\n내건 스튜디오 아텔리코",
+      "mini_headline": "온디바이스 윤리 AI",
+      "body": "스튜디오 아텔리코가 저전력 온디바이스 생성형 AI와 정당한 보수를 앞세워 데뷔작을 준비한다.",
       "tool": "Games",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner/",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "메시가 3D 에이전트 베타를 선보였다. 단계를 넘나들며 맥락을 기억하는 대화형 AI다. 게임 아티스트는 이 안에서 아이디어를 주고받고, 스타일이 한 결로 맞춰진 에셋 묶음을 만들며 계속 다듬어 간다."
-          },
-          {
-            "t": "p",
-            "x": "핵심은 태도의 전환이다. 한 번의 프롬프트로 끝내는 도구가 아니라, 곁에서 함께 궁리하는 창작 파트너 쪽으로 자리를 옮겼다."
-          },
-          {
-            "t": "p",
-            "x": "만들어진 에셋은 블렌더와 언리얼 엔진, 유니티 파이프라인으로 곧장 내보낼 수 있다. 손에 쥐자마자 실제 제작에 쓸 수 있다는 뜻이다."
-          }
+          { "t": "img", "src": "https://assetsio.gnwcdn.com/bobium-brawlers-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp" },
+          { "t": "p", "x": "스튜디오 아텔리코가 게임 속 생성형 AI의 방향을 윤리적이고 저전력이며, 기기 안에서 도는 온디바이스 방식으로 잡았다. 서버에 기대지 않고 단말에서 처리하는 구조로, 지금 업계가 안고 있는 고민을 다르게 풀어보려는 시도다." },
+          { "t": "p", "x": "데뷔작 보비움 브롤러스는 \"고전적인 게임 디자인에 AI의 가능성을 더한\" 작품을 지향한다. 무엇보다 참여한 아티스트 모두에게 정당한 보수를 지급했다는 점을 내세워, 창작물을 착취적으로 긁어모으는 AI 흐름에 선을 긋는다." }
+        ]
+      }
+    },
+    {
+      "id": "kaneko",
+      "eyebrow": "AI NEWS",
+      "headline": "페르소나 아티스트, 다음 작품엔\n생성형 AI를 쓰지 않는다",
+      "mini_headline": "손그림으로 돌아간 카네코",
+      "body": "카네코 카즈마가 두 차례 반발을 겪은 뒤, 직접 그리는 편이 빠르다며 차기작에 생성형 AI를 뺀다.",
+      "tool": "Games",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/rpg/persona-and-shin-megami-tensei-artist-isnt-using-generative-ai-in-his-next-game-following-backlash-to-his-last-2-deckbuilders/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/BYZMRqeh5vBYm4F9o39HHL-2560-80.jpg" },
+          { "t": "p", "x": "페르소나와 진 여신전생을 그려온 베테랑 아티스트 카네코 카즈마가 차기작에는 생성형 AI를 쓰지 않겠다고 밝혔다. 앞서 AI의 도움을 받아 만든 덱빌더 두 편이 팬들의 반발을 산 뒤에 나온 결정이다." },
+          { "t": "p", "x": "그는 \"내가 직접 그리는 편이 더 빠르다\"고 말했다. 게임 아트 작업에서 여전히 손으로 그린 결과가 AI를 앞서는 지점이 어디인지, 그 경계를 또렷하게 짚어주는 사례다." }
         ]
       }
     }

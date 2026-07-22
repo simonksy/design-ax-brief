@@ -1,48 +1,48 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "music",
-  "now_iso": "2026-07-21T23:06:40Z",
+  "now_iso": "2026-07-22T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.engadget.com/2216558/suno-brings-gen-ai-music-gunk-to-imessage/",
-      "title": "Suno brings its gen AI music to iMessage",
-      "source": "Engadget",
+      "url": "https://www.gearnews.com/ai-labeling-music-industry-tech/",
+      "title": "AI Labeling: Two new labels are meant to tell you whether AI was used on a track",
+      "source": "Gearnews",
       "category": "music",
-      "published_iso": "2026-07-16T14:50:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/suno-brings-its-gen-ai-music-gunk-to-imessage/intro-1784212721.jpg",
-      "excerpt": "Suno added an iMessage keyboard extension that lets iPhone users generate a ~30-second AI song from a text or voice prompt without leaving Messages, alongside a new Mashup feature that fuses any two tracks. It pushes prompt-to-song generation into an everyday, conversational surface."
+      "published_iso": "2026-07-13T09:00:00Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/AI-Label-BVMI-T.jpg",
+      "excerpt": "The industry's biggest trade bodies — IFPI, RIAA, A2IM, WIN, IMPALA, the Grammys, SAG-AFTRA and the Human Artistry Campaign — jointly introduced two standard labels, 'AI-Generated' and 'AI-Assisted,' to disclose how AI was used on a track. It sets a shared disclosure standard that directly shapes how AI-assisted creators tag and release their work."
     },
     {
-      "url": "https://musically.com/2026/07/20/ais-new-usb-port-what-the-mcp-standard-means-for-the-music-industry/",
-      "title": "AI's new USB port: what the MCP standard means for the music industry",
-      "source": "Music Ally",
+      "url": "https://musictech.com/reviews/plug-ins/meaw-chain-review/",
+      "title": "Meaw Chain review: can it make “vibe mixing” a thing?",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-20T12:00:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/Gemini_Generated_Image_s6lbi7s6lbi7s6lb-scaled-e1784536005307.png",
-      "excerpt": "Model Context Protocol (MCP) is emerging as the connective 'USB port' that lets music-industry platforms wire their catalogues and data directly into ChatGPT, Claude and other AI assistants, so creators and teams can query many tools at once. It signals how AI music workflows will plug together rather than live in silos."
+      "published_iso": "2026-07-14T12:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg",
+      "excerpt": "Safari Audio's Meaw Chain uses AI to generate entire plugin/mixing chains from a text prompt, offering producers an accessible route to a finished-sounding mix. MusicTech weighs whether AI-driven 'vibe mixing' is genuinely useful across different skill levels."
     },
     {
-      "url": "https://completemusicupdate.com/ai-generated-tracks-now-account-for-more-than-50-of-deezers-uploads/",
-      "title": "AI-generated tracks now account for more than 50% of Deezer's uploads",
-      "source": "Complete Music Update",
+      "url": "https://musictech.com/features/interviews/roland-neutone-project-lydia/",
+      "title": "Neutone and Roland want you to design your own AI model — and play it live",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/Deezer-AI.png",
-      "excerpt": "Deezer says fully AI-generated music now makes up more than half of daily uploads, averaging around 90,000 tracks a day in June — a milestone showing generative-AI tools now out-produce human uploads on a major platform. Deezer is purging AI tracks tied to stream fraud or left unplayed for six months."
+      "published_iso": "2026-07-17T08:00:16Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500-1068x801.jpg",
+      "excerpt": "Roland and Neutone's Project LYDIA is a prototype AI effects pedal that lets musicians build their own custom AI models and perform with them in real time, using 'neural sampling' to transfer the timbre of one sound onto another while preserving a player's dynamics and nuance."
     },
     {
-      "url": "https://www.hypebot.com/talk-to-spotify-what-ai-chatbots-mean-for-music-marketing/",
-      "title": "Talk to Spotify: what AI chatbots mean for music marketing",
-      "source": "Hypebot",
+      "url": "https://musictech.com/reviews/digital-audio-workstations/ace-studio-2-review/",
+      "title": "ACE Studio 2 review: Next-gen AI features, stone age workflows",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-16T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Talk-To-Spotify.png",
-      "excerpt": "Spotify's new conversational 'Talk to Spotify' assistant replaces passive algorithmic discovery with prompt-based, interactive listening — reshaping how artists and marketers earn attention, making metadata and storytelling as pivotal as editorial-playlist placement."
+      "published_iso": "2026-07-16T08:00:40Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/ACE-Studio-2.0-interface-hero-credit-press@2000x1500-1068x801.jpg",
+      "excerpt": "ACE Studio 2 is an AI-centric DAW built around vocal synthesis (140+ voices and 36 AI virtual instruments) plus generative 'Add a Layer' and 'Music Enhancer' tools. MusicTech finds the next-gen AI capabilities genuinely powerful but hampered by sluggish rendering and rough workflows."
     }
   ],
   "dedup": {
-    "dropped": 0,
+    "dropped": 1,
     "kept": 4,
     "against_days": 5
   }

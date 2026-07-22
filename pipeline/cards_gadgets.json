@@ -1,84 +1,64 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "gadgets",
   "cards": [
     {
-      "id": "oneui9",
+      "id": "adobe-indigo",
       "eyebrow": "AI NEWS",
-      "headline": "원 UI 9, 갤럭시에\n에이전트형 제미나이 탑재",
-      "mini_headline": "갤럭시에 온 제미나이",
-      "body": "원 UI 9가 제미나이로 앱을 넘나들며 작업을 대신하고, 문장만으로 위젯을 만들어 준다.",
-      "tool": "One UI",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/07/14/one-ui-9-all-the-features-you-need-to-know-video/",
+      "headline": "어도비가 실험 카메라 앱에\n생성형 AI를 대거 담았다",
+      "mini_headline": "촬영 순간의 생성형 AI",
+      "body": "어도비가 프로젝트 인디고에 AI 플레이그라운드를 더해, 촬영하는 순간 방해물을 지우고 원하는 스타일을 입힌다.",
+      "tool": "Adobe",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg" },
+          { "t": "p", "x": "어도비가 실험용 카메라 앱 프로젝트 인디고에 'AI 플레이그라운드'라는 생성형 기능을 새로 넣었다. 사진을 찍고 나서 편집 앱으로 옮겨 가던 흐름을 촬영하는 그 순간으로 끌어당긴 셈이다." },
+          { "t": "p", "x": "모바일로 찍는 사람은 이 기능으로 화면 속 방해 요소를 지우거나 원하는 예술적 스타일을 입힐 수 있다. 촬영 시점에 실시간으로 사진에 대한 안내까지 받는다." }
+        ]
+      }
+    },
+    {
+      "id": "openai-speaker",
+      "eyebrow": "AI NEWS",
+      "headline": "오픈AI의 첫 기기는 카메라 달린\n휴대용 스피커라는 보도",
+      "mini_headline": "오픈AI의 첫 하드웨어",
+      "body": "오픈AI의 첫 기기는 카메라와 센서를 단 화면 없는 휴대용 스피커로, 먼저 나서 돕는 AI 동반자를 지향한다고 전해진다.",
+      "tool": "OpenAI",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "원 UI 9가 갤럭시에서 제미나이 인텔리전스를 처음 선보인다. 묻고 답하는 데서 그치지 않고, 여러 앱을 넘나들며 할 일을 대신 처리하는 에이전트형 자동화가 핵심이다." },
-          { "t": "img", "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" },
-          { "t": "p", "x": "문장 하나만 넣으면 원하는 위젯을 만들어 주고, 자동 채우기는 한결 똑똑해졌다. 말을 글로 옮기는 램블러(Rambler)까지 새로 들어왔다." }
+          { "t": "img", "src": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600" },
+          { "t": "p", "x": "새 보도에 따르면 오픈AI가 처음 내놓을 기기는 화면이 없는 휴대용 스피커다. 카메라와 여러 센서를 달아, 사용자가 묻기 전에 먼저 상황을 읽고 돕는 AI 동반자로 그려진다." },
+          { "t": "p", "x": "이 제품은 조너선 아이브가 이끄는 io 팀이 만든 첫 소비자 기기이기도 하다. 화면 대신 목소리와 감지 능력에 기대는, 지금까지의 스마트 기기와는 결이 다른 형태다." }
         ]
       }
     },
     {
-      "id": "galaxyglasses",
+      "id": "samsung-health-assistant",
       "eyebrow": "AI NEWS",
-      "headline": "삼성 갤럭시 글래스 유출\n스냅드래곤 AR1에 제미나이",
-      "mini_headline": "갤럭시 글래스 유출",
-      "body": "유출된 갤럭시 글래스는 스냅드래곤 AR1과 듀얼 카메라를 얹고, 제미나이로 촬영과 번역을 손 안 대고 해낸다.",
+      "headline": "삼성, 흩어진 건강 데이터를\n풀어 주는 AI 건강 비서",
+      "mini_headline": "삼성 헬스의 AI 비서",
+      "body": "삼성이 삼성 헬스에 AI 건강 비서 베타를 더해, 갤럭시 폰·워치·링 데이터를 읽고 의사가 검증한 조언을 건넨다.",
       "tool": "Samsung",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-galaxy-glasses-specs-leak-3689677/",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "p", "x": "언팩을 앞두고 삼성의 안드로이드 XR 기기 '갤럭시 글래스' 사양이 유출됐다. 스냅드래곤 AR1 젠 1 칩과 듀얼 카메라를 얹은 것으로 전해진다." },
-          { "t": "img", "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glasses-leak.jpg" },
-          { "t": "p", "x": "제미나이가 깊숙이 맞물려, 손을 대지 않고도 눈앞의 장면을 찍고 번역하고 길을 안내받는다는 설명이다. 손 없이 쓰는 AI 웨어러블이 어디로 향하는지 가늠하게 하는 신호다." }
-        ]
-      }
-    },
-    {
-      "id": "snapdragonx2e",
-      "eyebrow": "AI NEWS",
-      "headline": "스냅드래곤 X2 엘리트 AI PC\n인텔·AMD와 정면 비교",
-      "mini_headline": "X2 엘리트 벤치마크",
-      "body": "노트북체크가 80-TOPS 헥사곤 NPU를 얹은 스냅드래곤 X2 엘리트를 최신 인텔·AMD 노트북과 맞대어 봤다.",
-      "tool": "Qualcomm",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/After-testing-several-Snapdragon-X2E-systems-this-is-how-they-compare-to-the-latest-Intel-and-AMD-laptops.1343280.0.html",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "노트북체크가 스냅드래곤 X2 엘리트를 얹은 여러 시스템을 직접 돌려 보고, 최신 인텔·AMD 노트북과 나란히 세웠다." },
-          { "t": "img", "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lenovoyoga714snapdragon.jpg" },
-          { "t": "p", "x": "80 TOPS급 헥사곤 NPU를 갖춘 이 AI PC들이 성능과 효율에서 어디쯤 서는지를 실측으로 짚었다. 온디바이스 AI 노트북을 고르려는 이들에게 쓸 만한 잣대가 된다." }
-        ]
-      }
-    },
-    {
-      "id": "surfacelaptop138",
-      "eyebrow": "AI NEWS",
-      "headline": "서피스 랩톱 13.8, X2 플러스로\n코파일럿+ 기준을 넘다",
-      "mini_headline": "서피스 랩톱 13.8",
-      "body": "서피스 랩톱 13.8은 스냅드래곤 X2 플러스로 CPU가 크게 빨라졌고, NPU가 코파일럿+ 온디바이스 AI 기준을 넘어선다.",
-      "tool": "Microsoft",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Snapdragon-X2-Plus-is-much-faster-Microsoft-Surface-Laptop-13-8-2026-Review.1334131.0.html",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "p", "x": "마이크로소프트가 스냅드래곤 X2 플러스를 얹은 서피스 랩톱 13.8(2026)을 내놨다. 코파일럿+ AI PC로, 앞선 세대보다 CPU가 확연히 빨라졌다." },
-          { "t": "img", "src": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG" },
-          { "t": "p", "x": "무엇보다 NPU가 마이크로소프트가 내건 온디바이스 AI 성능 기준을 넘어선다. 주류 가격대의 기기가 코파일럿+ 조건을 무리 없이 채운다는 점이 눈에 띈다." }
+          { "t": "img", "src": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg" },
+          { "t": "p", "x": "삼성이 삼성 헬스 안에 'AI 건강 비서' 베타를 열었다. 갤럭시 폰과 워치, 링이 각자 모아 온 건강 데이터를 하나로 읽어, 사용자가 알아듣기 쉬운 말로 풀어 주는 챗봇이다." },
+          { "t": "p", "x": "비서가 건네는 조언은 의사가 검증한 웰니스 지침을 따른다. 흩어져 있던 기기별 기록을 삼성 생태계 전체에서 엮어 본다는 점이 이번 기능의 핵심이다." }
         ]
       }
     }
