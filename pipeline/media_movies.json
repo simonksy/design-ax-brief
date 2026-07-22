@@ -1,10 +1,11 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "movies",
   "media": [
-    { "id": "switchhdr", "type": "video", "src": "pipeline/media/switchhdr.mp4", "poster": "pipeline/media/switchhdr.jpg" },
-    { "id": "nvidia-keynote", "type": "image", "src": "pipeline/media/nvidia-keynote.jpg" },
-    { "id": "spark-story", "type": "image", "src": "pipeline/media/spark-story.jpg" },
-    { "id": "project-indigo", "type": "image", "src": "pipeline/media/project-indigo.jpg" }
+    { "id": "autodesk", "type": "image", "src": "pipeline/media/autodesk.jpg" },
+    { "id": "animaj", "type": "video", "src": "pipeline/media/animaj.mp4", "poster": "pipeline/media/animaj.jpg" },
+    { "id": "nightborne", "type": "video", "src": "pipeline/media/nightborne.mp4", "poster": "pipeline/media/nightborne.jpg" },
+    { "id": "hpzcaptis", "type": "image", "src": "pipeline/media/hpzcaptis.jpg" },
+    { "id": "substance3d", "type": "video", "src": "pipeline/media/substance3d.mp4", "poster": "pipeline/media/substance3d.jpg" }
   ]
 }

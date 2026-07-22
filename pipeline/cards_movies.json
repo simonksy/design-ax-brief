@@ -1,84 +1,104 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "movies",
   "cards": [
     {
-      "id": "switchhdr",
+      "id": "autodesk",
       "eyebrow": "AI NEWS",
-      "headline": "SDR 영상에서 HDR을\n복원하는 AI 모델 등장",
-      "body": "비블이 공개한 SwitchHDR는 일반 SDR 영상을 장면 선형 16비트 EXR로 복원해 VFX·후반 작업에 바로 넘긴다.",
-      "mini_headline": "SDR을 HDR로 복원",
-      "tool": "SwitchHDR",
-      "source": "fxguide",
-      "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
+      "headline": "오토데스크, 마야·3ds Max·아널드에\nAI와 가우시안 스플랫 도입",
+      "body": "시그래프 2026에서 편집 가능한 가우시안 스플랫과 맞춤 모션 모델로 애니메이션·VFX 작업 흐름을 다듬는다.",
+      "mini_headline": "오토데스크 AI 대응",
+      "tool": "Autodesk",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "비블(Beeble)이 SwitchHDR를 공개했다. 평범한 SDR 영상에서 HDR 화면을 복원해 내는 AI 모델로, 결과물을 장면 선형(scene-linear) 16비트 EXR 시퀀스로 뽑아 전문 VFX와 후반 파이프라인에 곧바로 얹을 수 있다."},
-          {"t": "img", "src": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2-830x415.jpg"},
-          {"t": "p", "x": "\"실제 디테일이 살아남은 곳은 그대로 되살리고, 완전히 날아간 부분은 어떻게 다시 채울지 아티스트가 정한다.\" 훈 킴(Hoon Kim) 대표의 설명이다."},
-          {"t": "p", "x": "클리핑으로 사라진 하이라이트까지 기계가 임의로 메우지 않고, 판단의 몫은 작업자에게 남겨 둔 점이 눈에 띈다."}
+          {"t": "p", "x": "오토데스크가 시그래프 2026에서 마야, 3ds Max, 아널드 전반에 걸친 AI 기능을 내놨다. 애니메이션과 VFX 작업을 매끄럽게 잇는 데 초점을 맞춘 갱신이다."},
+          {"t": "p", "x": "핵심은 네 가지다. 모션메이커에는 자신의 데이터를 학습시켜 쓰는 'Bring Your Own Data' 맞춤 모션 모델이 붙었고, 3ds Max에서는 3D 가우시안 스플랫을 직접 편집할 수 있게 됐다. 여기에 플로우 프로덕션 트래킹의 통합 리뷰, 아널드의 인터랙티브 뷰포트 렌더링이 더해졌다."},
+          {"t": "p", "x": "편집 가능한 스플랫과 맞춤 모션 모델은 VFX·애니메이션 아티스트의 일상 파이프라인을 곧바로 바꾸는 대목이다."}
         ]
       }
     },
     {
-      "id": "nvidia-keynote",
+      "id": "animaj",
       "eyebrow": "AI NEWS",
-      "headline": "뉴럴 렌더링과 월드 모델\n엔비디아가 방향을 짚는다",
-      "body": "엔비디아 리서치가 SIGGRAPH 2026 기조연설에서 뉴럴 렌더링과 월드 모델, AI 시뮬레이션의 다음 방향을 짚는다.",
-      "mini_headline": "엔비디아 기조연설",
-      "tool": "NVIDIA Research",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
+      "headline": "디즈니 주니어와 애니마주가\nAI 애니 '오지 폭스' 공개",
+      "body": "AI 스튜디오 애니마주가 만든 미취학용 시리즈로, 공개 이틀 만에 조회수 약 80만을 기록했다.",
+      "mini_headline": "AI 애니 '오지 폭스'",
+      "tool": "Animaj",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "엔비디아 리서치의 닐 애슈턴(Neil Ashton), 밍위 리우(Ming-Yu Liu), 에드워드 리우(Edward Liu)가 SIGGRAPH 2026 기조연설에 나선다. 주제는 뉴럴 렌더링, 월드 모델, 그리고 AI 기반 시뮬레이션의 최신 진전이다."},
-          {"t": "img", "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg"},
-          {"t": "p", "x": "영화와 VFX를 위한 생성형 그래픽스가 어디로 향하는지 가늠해 볼 자리다. 파이프라인의 변화를 좇는 아티스트라면 눈여겨볼 만하다."}
+          {"t": "img", "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Ozzy-Fox.jpg"},
+          {"t": "p", "x": "디즈니 주니어와 프랑스 AI 애니메이션 회사 애니마주가 새 미취학용 시리즈 '오지 폭스'를 유튜브에 조용히 올렸다. AI 기반 스튜디오가 아이들 콘텐츠를 얼마나 빠르게 찍어내는지 보여주는 사례다."},
+          {"t": "p", "x": "반응은 빨랐다. 공개 이틀 만에 조회수가 80만에 가까워졌다. 대형 방송사가 AI로 제작한 시리즈를 실제로 내보냈다는 점에서, AI 애니메이션 스튜디오가 콘텐츠를 어떻게 규모 있게 찍어내는지 가늠하게 하는 신호다."}
         ]
       }
     },
     {
-      "id": "spark-story",
+      "id": "nightborne",
       "eyebrow": "AI NEWS",
-      "headline": "실시간 프리비즈 도구\n스파크 스토리 베타 열렸다",
-      "body": "라이트크래프트의 스파크 스토리는 장면을 블로킹하고 풀 화질 슈퍼데일리를 실시간으로 뽑아 프리비즈 단계를 압축한다.",
-      "mini_headline": "스파크 스토리 베타",
-      "tool": "Spark Story",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
+      "headline": "블롬캄프의 좀비 AI 단편,\n결국 데운 슬롭에 그친다",
+      "body": "바이트댄스 시드댄스로 만든 '나이트본'은 텍스트-투-비디오가 아직 좋은 영화를 못 만든다는 증거로 남았다.",
+      "mini_headline": "AI 좀비 단편의 한계",
+      "tool": "Barley Studios",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "라이트크래프트(Lightcraft)가 스파크 스토리(Spark Story)의 순차 베타를 열었다. 필름메이커가 장면을 블로킹하고 에셋 라이브러리를 채우며, 풀 화질 '슈퍼데일리(superdailies)'를 실시간으로 렌더링할 수 있는 인터랙티브 프리비주얼라이제이션 도구다."},
-          {"t": "p", "x": "AI 키어나 블루·그린스크린 키어와 함께 물려 쓸 수 있어, 프리비즈 단계를 줄이고 초기 제작 비용을 낮추는 데 초점을 맞췄다. 베타는 지금 신청해 볼 수 있다."}
+          {"t": "img", "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all"},
+          {"t": "p", "x": "닐 블롬캄프의 좀비 단편 '나이트본'은 AI 스타트업 발리 스튜디오를 위해 만들어졌다. 바이트댄스의 생성형 비디오 모델 시드댄스를 썼고, 이름값 있는 감독이 나선 만큼 AI 영화 제작의 실력을 가늠하는 시험대가 됐다."},
+          {"t": "p", "x": "결과는 냉정했다. 이 단편은 텍스트-투-비디오 생성기가 아직 쓸 만한 영화를 안정적으로 뽑아내지 못한다는 증거로 착지했다. 감독이 붙은 실전 테스트인 만큼, 지금 AI 영화 도구가 정확히 어디서 무너지는지를 솔직하게 보여준다."}
         ]
       }
     },
     {
-      "id": "project-indigo",
+      "id": "hpzcaptis",
       "eyebrow": "AI NEWS",
-      "headline": "어도비 프로젝트 인디고에\n생성형 AI 놀이터가 열린다",
-      "body": "어도비가 카메라 앱 프로젝트 인디고에 실험적 AI 플레이그라운드를 더해, 촬영 직후 생성형 편집을 곧바로 적용하게 했다.",
-      "mini_headline": "인디고 AI 놀이터",
-      "tool": "Project Indigo",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/adobe-project-indigo-ai-playground",
+      "headline": "HP Z 캡티스와 어도비 서브스턴스,\n대규모 디지털 트윈 캡처",
+      "body": "더 빠른 캡처와 정밀한 이미징으로 실사 디지털 트윈을 대량 생성해 VFX 파이프라인에 공급한다.",
+      "mini_headline": "디지털 트윈 캡처",
+      "tool": "HP Z Captis",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/hp-and-adobe-offer-digital-twin-capture-built-for-scale/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "어도비가 컴퓨테이셔널 포토그래피 앱 '프로젝트 인디고(Project Indigo)'에 실험 기능 'AI 플레이그라운드(AI Playground)'를 붙였다. 촬영을 마친 직후, 찍은 사진에 곧바로 생성형 편집을 얹을 수 있다."},
-          {"t": "img", "src": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg"},
-          {"t": "p", "x": "단순한 스타일 전이를 넘어, 기기 안에서 도는 온디바이스 생성형 이미지 조작을 한 단계 더 밀어붙인 시도다."}
+          {"t": "img", "src": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2.jpg"},
+          {"t": "p", "x": "HP와 어도비가 새로 손본 HP Z 캡티스를 어도비 서브스턴스 3D와 묶었다. 캡처 속도는 빨라졌고, 이미징 제어는 더 촘촘해졌으며, 프레임레이트와 해상도 선택지도 늘었다."},
+          {"t": "p", "x": "목표는 실사 수준의 디지털 트윈을 대규모로 뽑아내는 것이다. 스캔한 실제 자산을 VFX와 버추얼 프로덕션 파이프라인으로 곧장 흘려보내, 에셋 제작 현장에서 바로 쓸 수 있게 했다."}
+        ]
+      }
+    },
+    {
+      "id": "substance3d",
+      "eyebrow": "AI NEWS",
+      "headline": "어도비 서브스턴스 3D,\n생태계 전반에 OpenPBR 지원",
+      "body": "OpenPBR 머티리얼 지원을 넓히고 페인터를 개선해 실사 에셋의 텍스처링 도구를 한층 조인다.",
+      "mini_headline": "서브스턴스 OpenPBR",
+      "tool": "Substance 3D",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/adobe-substance-3d-updates-openpbr",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "img", "src": "https://nofilmschool.com/media-library/image.webp?id=67521076&width=1200&height=600"},
+          {"t": "p", "x": "어도비가 서브스턴스 3D를 크게 손봤다. 이번 갱신의 중심은 OpenPBR 머티리얼 지원 확대다. 여기에 서브스턴스 3D 페인터의 새 기능이 더해졌다."},
+          {"t": "p", "x": "OpenPBR을 생태계 전반에서 받아들이면 머티리얼 포맷이 하나로 정리된다. VFX와 버추얼 프로덕션 아티스트가 실사 영화 에셋을 만들 때 기대는 텍스처링·룩 개발 도구가 그만큼 촘촘해지는 셈이다."}
         ]
       }
     }

@@ -1,71 +1,53 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "games",
-  "now_iso": "2026-07-21T23:06:40Z",
+  "now_iso": "2026-07-22T23:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
-      "title": "Unity unveils Unity 7 roadmap at Unite Seoul",
-      "source": "Game Developer",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "title": "At SIGGRAPH, NVIDIA advances graphics and simulation with agentic and physical AI",
+      "source": "NVIDIA Blog",
       "category": "games",
-      "published_iso": "2026-07-21T02:00:00Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Unity revealed its Unity 7 roadmap at Unite Seoul: same Unity 6 architecture with zero-rebuild upgrades, AI-assisted graphics optimization and integration with the Unity Vector AI engine. Unity says the release is 'built for a future where humans and coding agents can work together,' while promising studios that keep AI out of creative work aren't sidelined."
+      "published_iso": "2026-07-20T00:00:00Z",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SIGGRAPH-2026-Keynote-21-1680x945.jpg",
+      "excerpt": "At SIGGRAPH 2026 NVIDIA unveiled neural-rendering breakthroughs and world foundation models (Cosmos 3 Edge) for real-time 4K content creation with more artistic control, plus 22 graphics-research advances. It also expanded Model Context Protocol integrations so AI agents can work directly inside creative tools like Blender, Unreal Engine and Adobe Creative Cloud while keeping creative decisions under human supervision."
     },
     {
-      "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
-      "title": "NVIDIA DLSS 5 hands full control to artists to direct the final frame",
-      "source": "Wccftech",
+      "url": "https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai",
+      "title": "Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-07-21T19:35:40Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
-      "excerpt": "NVIDIA detailed the developer controls in DLSS 5, giving artists tools and sliders to direct the final AI-upscaled frame and retain 'artistic integrity.' It responds directly to fears that neural rendering strips creative control over how a game ultimately looks."
+      "published_iso": "2026-07-21T11:00:03Z",
+      "og_image": "https://assetsio.gnwcdn.com/bobium-brawlers-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Studio Atelico lays out a vision for ethical, low-power, on-device generative AI in games. Its debut title, Bobium Brawlers, blends \"classic game design with the possibilities of AI\" — and, importantly, all the artists on the project are paid, positioning the studio against the extractive-AI backlash in the industry."
     },
     {
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner/",
-      "title": "Meshy wants AI to feel less like a prompt and more like a creative partner",
-      "source": "80 Level",
+      "url": "https://www.gamesradar.com/games/rpg/persona-and-shin-megami-tensei-artist-isnt-using-generative-ai-in-his-next-game-following-backlash-to-his-last-2-deckbuilders/",
+      "title": "Persona and Shin Megami Tensei artist isn't using generative AI in his next game following backlash to his last 2 deckbuilders",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-21T15:00:00Z",
-      "og_image": null,
-      "excerpt": "Meshy launched a 3D Agent Beta, a conversational AI that keeps context across steps so game artists can brainstorm, generate stylistically consistent asset collections and iterate — positioning AI as a creative partner rather than a one-shot prompt. Assets export to Blender, Unreal Engine and Unity pipelines."
+      "published_iso": "2026-07-22T13:08:21Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BYZMRqeh5vBYm4F9o39HHL-2560-80.jpg",
+      "excerpt": "Veteran Persona and Shin Megami Tensei artist Kazuma Kaneko says he will not use generative AI in his next game after fan backlash to his last two AI-assisted deckbuilders, noting \"it's quicker for me to draw it myself\" — a pointed data point on where hand-craft still beats AI in game art workflows."
     },
     {
-      "url": "https://www.pcgamer.com/hardware/nvidia-finally-reveals-what-controls-devs-actually-have-for-dlss-5-and-dont-worry-folks-there-are-two-main-sliders-to-control-the-ai-filter/",
-      "title": "NVIDIA reveals the controls devs actually have for DLSS 5's AI filter",
+      "url": "https://www.pcgamer.com/software/ai/new-method-teaches-ai-to-make-2d-designs-3d-and-now-im-afraid-this-will-be-how-the-robots-learn-to-build-themselves-without-us/",
+      "title": "New method teaches AI to make 2D designs 3D",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-07-21T11:11:37Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/GB4RKTAnxZ8BWDNa7sq4hB-1094-80.jpg",
-      "excerpt": "PC Gamer breaks down the two main sliders NVIDIA is giving developers to steer the DLSS 5 AI filter, after concerns that the neural renderer removes artistic control over the final image. More dev-facing controls are reportedly being built."
+      "published_iso": "2026-07-22T14:51:10Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg",
+      "excerpt": "Researchers demonstrate a new AI method that converts flat 2D designs and drawings into fully realized 3D models — a capability with direct implications for game asset-creation pipelines, letting concept art be lifted into game-ready geometry with far less manual modeling."
     },
     {
-      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
-      "title": "'It creates lesser games': why 25 indie devs avoid generative AI",
-      "source": "GamesRadar+",
+      "url": "https://www.rockpapershotgun.com/built-for-that-world-doesnt-mean-built-to-require-it-unity-reveal-their-next-game-engine-while-walking-a-careful-line-around-generative-ai",
+      "title": "\"Built for that world doesn't mean built to require it\": Unity reveal their next game engine while walking a careful line around generative AI",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-07-19T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
-      "excerpt": "GamesRadar interviewed 25 indie studios who deliberately avoid generative AI, arguing it 'creates lesser games' by removing the human craft that makes titles memorable — a counter-narrative to the industry push toward AI tooling in game development."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/",
-      "title": "Steam study: 60-90% of release growth is from games using AI",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-07-15T16:00:50Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg",
-      "excerpt": "A study of over 53,000 Steam games finds 60–90% of the growth in monthly releases now comes from games using AI — 'and almost none of them make money.' It quantifies how generative tools are flooding storefronts with low-earning output."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
-      "title": "Half of all Steam games will use AI by 2028, study predicts",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-07-16T21:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
-      "excerpt": "The same large Steam study predicts AI-disclosed games will cross ~50% of all releases by 2027–2028, noting AI 'lowers the barrier not just to make a game but to make several.' A data-driven look at how fast AI game creation is scaling."
+      "published_iso": "2026-07-21T09:34:08Z",
+      "og_image": "https://assetsio.gnwcdn.com/Unity7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Unity announced Unity 7, and — in a pleasant shock — it doesn't appear to break existing projects. RPS digs into how Unity is positioning generative AI in the new engine: built to support AI-assisted workflows without requiring them, an explicit stance amid developer wariness about AI-first tooling."
     }
   ]
 }

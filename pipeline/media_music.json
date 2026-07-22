@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "music",
   "media": [
-    { "id": "suno-imessage", "type": "image", "src": "pipeline/media/suno-imessage.jpg" },
-    { "id": "mcp-music", "type": "image", "src": "pipeline/media/mcp-music.png" },
-    { "id": "deezer-ai", "type": "image", "src": "pipeline/media/deezer-ai.png" }
+    { "id": "lydia", "type": "video", "src": "pipeline/media/lydia.mp4", "poster": "pipeline/media/lydia.jpg" },
+    { "id": "acestudio2", "type": "video", "src": "pipeline/media/acestudio2.mp4", "poster": "pipeline/media/acestudio2.jpg" },
+    { "id": "meawchain", "type": "image", "src": "pipeline/media/meawchain.jpg" }
   ]
 }

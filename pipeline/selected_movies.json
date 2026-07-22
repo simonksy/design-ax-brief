@@ -1,66 +1,78 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "section": "movies",
   "selection_mode": "auto",
   "picks": [
     {
-      "tool": "SwitchHDR",
+      "tool": "Autodesk",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "SwitchHDR, an AI model for HDR reconstruction from SDR video",
-      "url": "https://www.fxguide.com/fxfeatured/switchhdr-an-ai-model-for-hdr-reconstruction-from-sdr-video/",
-      "source": "fxguide",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2-830x415.jpg",
-      "excerpt": "Beeble unveiled SwitchHDR, an AI model that reconstructs HDR imagery from standard SDR footage, outputting scene-linear 16-bit EXR sequences for professional VFX and post pipelines. 'Where real detail survives we recover it; where it's fully clipped, the artist decides how it gets rebuilt,' says CEO Hoon Kim.",
-      "rationale": "New AI model turning SDR footage into scene-linear 16-bit EXR HDR for VFX/post — directly changes how a colorist or comp artist works tomorrow, from a credible outlet."
+      "title": "Autodesk Adds AI and 3D Gaussian Splat Tools Across Maya, 3ds Max and Arnold",
+      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
+      "source": "postPerspective",
+      "published_iso": "2026-07-22T18:35:11Z",
+      "og_image": null,
+      "excerpt": "At SIGGRAPH 2026, Autodesk introduced AI-powered capabilities across Maya, 3ds Max and Arnold, including MotionMaker's 'Bring Your Own Data' custom motion models, editable 3D Gaussian splats in 3ds Max, unified review in Flow Production Tracking, and Arnold interactive viewport rendering, all aimed at streamlining animation and VFX workflows.",
+      "rationale": "Concrete SIGGRAPH release across Maya/3ds Max/Arnold — editable Gaussian splats and custom motion models directly change VFX and animation artists' daily pipeline."
     },
     {
-      "tool": "NVIDIA Research",
+      "tool": "Animaj",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "NVIDIA 'Neural Rendering, World Models and Simulation' Keynote Set for SIGGRAPH 2026",
-      "url": "https://www.awn.com/news/nvidia-neural-rendering-world-models-and-simulation-keynote-set-siggraph-2026",
-      "source": "Animation World Network",
-      "published_iso": "2026-07-13T18:38:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/siggraph1.jpg",
-      "excerpt": "NVIDIA Research leaders Neil Ashton, Ming-Yu Liu and Edward Liu will deliver a SIGGRAPH 2026 keynote on advances in neural rendering, world models and AI-driven simulation, signaling where generative graphics for film and VFX are headed.",
-      "rationale": "Agenda-setting keynote signaling where neural rendering and world models take film/VFX next — credible and forward-looking for artists tracking the pipeline shift."
+      "title": "Disney Jr. and French AI Animation Outfit Animaj Quietly Release 'Ozzy Fox' on YouTube",
+      "url": "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-07-17T17:01:20Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Ozzy-Fox.jpg",
+      "excerpt": "Disney Jr. and French AI animation company Animaj released a new preschool series, 'Ozzy Fox,' on YouTube, a look at how an AI-driven animation studio is producing kids' content at speed. The show reached nearly 800,000 views within two days of launch.",
+      "rationale": "A major broadcaster shipping an AI-produced series is a real industry signal on how AI animation studios scale content — novel and credibly sourced."
     },
     {
-      "tool": "Spark Story",
+      "tool": "Barley Studios",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Lightcraft Launches Beta for Spark Story Interactive Previz Tool",
-      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
-      "source": "postPerspective",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Lightcraft opened a rolling beta of Spark Story, an interactive previz tool that lets filmmakers block scenes, populate asset libraries and render full-quality 'superdailies' in real time — working with AI or blue/greenscreen keyers to compress previsualization and cut early production costs.",
-      "rationale": "Interactive previz tool now in open beta — real-time superdailies and scene blocking filmmakers can sign up for today to compress previz and cut early production cost."
+      "title": "Neill Blomkamp's New Zombie AI 'Film' Is Just Slop Warmed Over",
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "source": "The Verge",
+      "published_iso": "2026-07-21T22:06:43Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all",
+      "excerpt": "Neill Blomkamp's zombie short 'Nightborne,' produced for AI startup Barley Studios using ByteDance's Seedance generative-video model, becomes a high-profile stress test of AI filmmaking, and lands as evidence that text-to-video generators still can't reliably churn out quality films.",
+      "rationale": "A named-director stress test of generative text-to-video gives filmmakers a candid read on where AI film tools actually break — high credibility, distinct story type."
     },
     {
-      "tool": "Project Indigo",
+      "tool": "HP Z Captis",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "Adobe adds experimental AI Playground to Project Indigo camera app",
-      "url": "https://www.redsharknews.com/adobe-project-indigo-ai-playground",
-      "source": "RedShark News",
-      "published_iso": "2026-07-21T09:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg",
-      "excerpt": "Adobe added an experimental AI Playground to its Project Indigo computational-photography app, letting shooters apply generative editing directly after capture — pushing on-device generative image manipulation well beyond simple style transfer.",
-      "rationale": "Fresh Adobe release putting on-device generative editing right after capture — a hands-on new capability shooters can try today, from a reputable outlet."
+      "title": "HP Z Captis + Adobe Substance 3D: Digital Twin Capture Built for Scale",
+      "url": "https://postperspective.com/hp-and-adobe-offer-digital-twin-capture-built-for-scale/",
+      "source": "postPerspective",
+      "published_iso": "2026-07-22T17:45:57Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2.jpg",
+      "excerpt": "HP and Adobe's updated HP Z Captis, paired with Adobe Substance 3D, delivers faster capture speeds, finer imaging control and new frame-rate and resolution options for producing photoreal digital twins at scale, feeding scanned real-world assets into VFX and virtual-production pipelines.",
+      "rationale": "New capture hardware feeding photoreal digital twins into Substance 3D is directly actionable for VFX and virtual-production asset pipelines."
+    },
+    {
+      "tool": "Substance 3D",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "title": "Adobe Announces Major Substance 3D Updates Including OpenPBR Support Across Entire Ecosystem",
+      "url": "https://nofilmschool.com/adobe-substance-3d-updates-openpbr",
+      "source": "No Film School",
+      "published_iso": "2026-07-22T17:07:37Z",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67521076&width=1200&height=600",
+      "excerpt": "Adobe rolled out a major round of Substance 3D updates, headlined by expanded OpenPBR material support and new innovations in Substance 3D Painter, tightening the texturing and look-development toolset that VFX and virtual-production artists rely on for photoreal film assets.",
+      "rationale": "Ecosystem-wide OpenPBR support standardizes the material format for texturing/look-dev — a concrete workflow change for VFX artists, distinct from the HP capture story."
     }
   ],
   "dedup_report": {
-    "candidates_evaluated": 4,
-    "kept": 4,
-    "dropped": 0,
+    "candidates_evaluated": 6,
+    "kept": 5,
+    "dropped": 1,
     "floor": 3,
     "cap": 5,
     "shortfall": false,
-    "baseline": "news_data.json -> sections.movies retained window (today 2026-07-21 + days 2026-07-15..2026-07-19): switchlight3, odysseus-fall, ssff-asia-pitch, tilly-norwood-misaligned, vigloo, ted-deepvoodoo, clearangle, topaz-video, smartroto, automask, griptape, gutierrez, daletflex, netflix-300-ai, tippett-sentinel-siggraph, nfb-gaussian-splatting, siggraph-2026-preview, martini, curious-refuge-ai-tools.",
-    "notes": "All 4 filtered candidates are distinct fresh stories vs the movies 5-day window. Today's switchlight3 card is Beeble SwitchLight 3 (a relighting model) — a different product/article from SwitchHDR (HDR reconstruction), so not a duplicate. The design-section Lightcraft Spark Story card is a different section and different URL (creativebloq vs postperspective); per-section dedup keeps Spark Story here. A prior (2026-07-21) run flagged a 2026-07-08 Beeble SwitchHDR publication, but that item is outside the retained 5-day non-repeat window and is not present in the current source of truth; today's upstream filter re-vetted and kept it.",
-    "diversity": "Single-category section (movies). 4 distinct outlets (fxguide, Animation World Network, postPerspective, RedShark News); no outlet exceeds 2. Distinct accents assigned since all share the movies category."
+    "baseline": "news_data.json -> sections.movies 5-day window (today 2026-07-22 + days 2026-07-16..2026-07-21): switchhdr, nvidia-keynote, spark-story, project-indigo, vigloo, ted-deepvoodoo, clearangle, topaz-video, smartroto, automask, griptape, gutierrez, daletflex, netflix-300-ai, tippett-sentinel-siggraph, nfb-gaussian-splatting, siggraph-2026-preview, martini, curious-refuge-ai-tools, switchlight3.",
+    "notes": "All 6 filtered candidates are distinct fresh stories vs the movies 5-day window (no URL or content matches). Candidate 6 (Variety/Raindance-IMGN film fund, published 2026-07-16) was dropped by scoring as weakest on actionability and oldest. Candidates HP Z Captis and Substance 3D OpenPBR both touch Adobe Substance 3D but are distinct product announcements (capture hardware vs material-format support), different URLs and outlets — kept as separate stories, not a duplicate.",
+    "diversity": "Single-category section (movies). 4 distinct outlets (postPerspective x2, Cartoon Brew, The Verge, No Film School); no outlet exceeds the 2-per-outlet cap. Distinct accents assigned since all share the movies category."
   }
 }
