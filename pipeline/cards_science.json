@@ -1,90 +1,260 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "science",
   "cards": [
     {
-      "id": "oled-ai",
-      "tool": "Science",
+      "id": "cyclecover",
       "eyebrow": "AI NEWS",
-      "headline": "AI와 양자화학을 결합해\n효율적 청색 OLED 소재를 찾다",
-      "body": "나고야대가 양자화학 데이터로 학습한 AI로 분자 1만 7000여 개를 훑어 유망한 청색 발광체를 찾아냈다.",
-      "mini_headline": "AI로 청색 OLED 소재 발굴",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
+      "headline": "GPT-5.6이 50년 묵은\n그래프 이론 난제를 증명했다",
+      "mini_headline": "50년 난제 푼 AI 증명",
+      "body": "GPT-5.6 Sol이 50년 넘게 풀리지 않던 순환 이중 덮개 추측을 증명했다.",
+      "tool": "Science",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "OpenAI가 7월 11일 금요일 공개한 GPT-5.6 Sol이 순환 이중 덮개 추측을 풀었다. 1970년대에 여러 수학자가 내놓은 뒤 50년 넘게 열려 있던 문제다."
+          },
+          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg"
+            "src": "https://static.scientificamerican.com/dam/asset/c426b813-2ec9-45c5-96ed-52b96a74ca63/graph-blue.jpg",
+            "cap": "그래프를 형상화한 이미지. Yuichiro Chino/Getty Images"
           },
           {
             "t": "p",
-            "x": "나고야대 연구진이 기계학습과 양자화학을 하나로 묶어, 효율 좋은 청색 OLED 소재를 찾아 나섰다. 먼저 분자 1000개의 양자화학 계산 결과로 모델을 가르친 뒤, 그 모델로 후보 물질 1만 7000여 개를 걸러냈다."
+            "x": "추측은 거의 모든 그래프를 고리로 덮을 수 있고, 이때 각 변이 정확히 두 고리에 속한다고 말한다. AI가 내놓은 증명은 큰 덩어리끼리 변 하나로만 이어진 그래프를 빼면 어떤 그래프든 여덟 개를 넘지 않는 고리로 이중으로 덮인다는 것을 보인다."
           },
           {
             "t": "p",
-            "x": "AI가 앞단에서 후보를 추리자 무거운 계산 비용이 크게 줄었고, 그렇게 골라낸 유망한 발광체는 실험으로 성능을 다시 확인했다. 연구진은 이런 생성형 스크리닝이 새 소재를 찾는 속도를 한층 앞당길 수 있다고 본다."
+            "x": "프롬프트가 남달랐다. AI 에이전트 64개를 동시에 띄워 함께 붙들게 했고, 여기에 한 줄을 덧붙였다. \"돌아오거나 포기할 생각을 하기 전에 최소 8시간은 여기에 쏟아라.\""
+          },
+          {
+            "t": "p",
+            "x": "프린스턴대의 Noga Alon은 \"AI 도구가 수학 연구를 크게 바꿀 것이고 이미 바꾸고 있다는 점을 보여주는 또 하나의 인상적인 사례\"라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "MIT의 Andrew Sutherland는 어렵다는 평판 자체가 사람의 손길을 줄이고 자기실현적 예언이 되어 진전을 막는다고 봤다. \"이런 사례를 계속 보게 될 것 같다. 어렵다고 여겨지던 문제에 LLM이 쉬운 해법을 찾아내는 일 말이다.\" 실제로 이번 증명은 새 아이디어를 거의 쓰지 않고 사람이 이미 만들어 둔 방법을 엮었다."
           }
         ]
       }
     },
     {
-      "id": "deeptimegate",
-      "tool": "Science",
+      "id": "scoresmooth",
       "eyebrow": "AI NEWS",
-      "headline": "물리 법칙을 실시간 검증하는\nAI가 산란 매질 너머를 본다",
-      "body": "UCLA의 딥타임게이트는 물리 법칙을 실시간 잣대로 삼아 산란 매질 너머를 저가 카메라로 찍어낸다.",
-      "mini_headline": "산란 너머 보는 물리 AI",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
+      "headline": "확산 모델은 왜 베끼지 않고\n새 이미지를 그려내는가",
+      "mini_headline": "확산 모델의 창의성",
+      "body": "신경망 규제로 점수 함수가 뭉툭해지면서 확산 모델이 훈련 데이터 사이를 메운다.",
+      "tool": "Science",
+      "source": "Google Research",
+      "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "확산 모델은 이미지 생성부터 분자 탐색까지 해내는 생성 도구다. 학습 데이터 바깥으로 넘어가는 결과를 내놓는데, 연구자들은 이를 '창의성'이라 부른다. 그렇다면 그 창의성은 어디서 오는가."
+          },
+          {
+            "t": "p",
+            "x": "Google Research의 Zhengdao Chen 연구원은 ICLR 2026 논문에서 이 물음을 수학으로 파고들었다. 창의성은 무작위성에서 오지 않는다. 신경망 학습이 노이즈에서 데이터로 돌아오는 변환을 자연스럽게 매끄럽게 만드는 데서 나온다."
+          },
+          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/biomedical-imaging-aut.jpg"
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/Interpolation-effect-2.width-1250.png",
+            "cap": "점수 함수가 순수한 노이즈를 의미 있는 데이터로 바꾸는 디노이징 과정을 이끈다."
           },
           {
             "t": "p",
-            "x": "UCLA 연구진이 내놓은 딥타임게이트(DeepTimeGate)는 물리 원리를 품은 기계학습 틀로, 빛을 흩뜨리는 매질 너머의 상을 복원한다. 영상을 만드는 재구성 신경망과, 물리의 기본 법칙을 실시간으로 대조해 결과가 어긋나지 않는지 살피는 두 번째 알고리즘이 짝을 이룬다."
+            "x": "학습은 사진 같은 실제 표본을 알아볼 수 없을 만큼 노이즈로 망가뜨리는 데서 시작한다. 모델은 그 과정을 되돌리는 법을 배운다. 학습 데이터에서 디노이징이 완벽하다면 생성 때도 원본을 그대로 복제할 텐데, 이를 암기라 한다. 실제 확산 모델은 그러지 않고 새 표본을 만든다."
           },
           {
             "t": "p",
-            "x": "물리 법칙을 일종의 안전장치로 두자, 값비싼 장비 없이 저가 카메라로도 선명한 영상을 얻을 수 있었다. 연구진은 이 방식을 의료 영상은 물론 자율주행차의 감지 분야에도 쓸 수 있다고 본다."
+            "x": "디노이징은 힘의 장 속 입자와 비슷하게 움직인다. 입자가 어디로 갈지는 학습 데이터에서 얻은 점수 함수가 정한다. 점수 함수를 완벽히 배우면 입자는 학습 지점으로 정확히 빨려 들어가고, 그 끝이 암기다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-3.png",
+            "cap": "'완벽한' 점수 함수는 디노이징을 학습 데이터로 주저앉혀 암기를 부른다. 배경색과 진하기는 당기는 방향과 세기를 뜻하고, 붉은색은 오른쪽 파란색은 왼쪽이다."
+          },
+          {
+            "t": "p",
+            "x": "1차원으로 줄여 보자. 학습 지점이 +1과 -1 둘뿐이면 '완벽한' 점수 함수는 딱 중간에서 방향이 뚝 꺾인다. 입자는 둘 중 한쪽으로 날카롭게 모인다. 순수한 암기다."
+          },
+          {
+            "t": "p",
+            "x": "실제 신경망은 점수 함수를 근사할 뿐이다. 가중치 감쇠 같은 규제가 걸리면 절벽 같은 모양은 배우기 어렵고, 더 완만한 형태를 배운다. 연구진은 AdamW로 2층 ReLU 신경망을 학습시키며 가중치 감쇠를 달리해 봤다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-4.png",
+            "cap": "규제를 받고 학습한 신경망은 점수 함수의 더 매끄러운 판본을 배운다."
+          },
+          {
+            "t": "p",
+            "x": "감쇠가 셀수록 가운데가 부드러워졌다. 그 구간의 입자는 느리게 흐르다가 학습 지점 사이 '보간 구간'에 자리를 잡았다. 연구진은 함수 공간에서의 신경망 규제 이론과 디노이징 수학을 붙여 이 연결을 정량화했다. 점수 평활화는 명시적 규제뿐 아니라 경사 기반 학습에 내재한 암묵적 규제에서도 나왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-5.png",
+            "cap": "점수 평활화가 학습 데이터 사이에 '보간 구간'을 만든다."
+          },
+          {
+            "t": "p",
+            "x": "고해상도 이미지 같은 데이터는 고차원 픽셀 공간에 놓이지만, 그중 사람이 알아볼 수 있는 이미지는 극히 일부다. 이 작은 구조를 데이터 매니폴드라 한다. 모델은 유한한 표본에서 이 매니폴드를 짐작하고 그 위에 새 점을 찍어야 한다."
+          },
+          {
+            "t": "p",
+            "x": "점수 평활화의 효과는 방향마다 다르다. 매니폴드와 나란한 접선 방향에서는 1차원 때처럼 입자를 늦춘다. 매니폴드로 향하는 방향에서는 원래 점수 함수가 이미 완만해서 더 매끄럽게 해도 달라지는 게 거의 없다. 모든 방향에 제동을 걸면 입자가 노이즈뿐인 빈 공간에 멈춰 흐릿한 그림이 나온다. 그렇게 되지 않기에 이미지는 매니폴드에 닿아 사실적이면서도, 원래 학습 지점 사이에 앉아 새롭다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 확산 모델의 창의성이 예측 가능한 수학적 귀결이라고 본다. 신경망이 결코 완벽하게 날카로워지지 못하니 아는 데이터 사이에 보간의 다리를 놓는다. 이미지 생성이든 신약 탐색이든 모델은 본 것을 외우지 않고 주변 공간을 뒤져 여러 입력의 흔적이 섞인 새 조합을 내민다. 데이터 분포나 신경망 구조가 더 복잡해질 때, 또 조건부 생성에서 어떻게 되는지는 다른 연구자들이 보고 있다. 이 행동의 뿌리가 신경망 학습의 기본에 있다는 것이 드러난 만큼, 암기에 빠지지 않으면서 창의성을 지키는 더 나은 '보간기'를 의도적으로 설계할 여지가 생긴다."
           }
         ]
       }
     },
     {
-      "id": "qewc",
-      "tool": "Science",
+      "id": "peptiverse",
       "eyebrow": "AI NEWS",
-      "headline": "양자 기하학으로 양자 AI의\n'치명적 망각'을 막다",
-      "body": "QEWC는 양자 상태의 기하 구조에 학습을 묶어, 새 과제를 익혀도 앞서 배운 능력을 잃지 않게 한다.",
-      "mini_headline": "양자 AI의 망각을 막다",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/07/22/new-framework-uses-quantum-geometry-to-help-quantum-ai-systems-remember-what-they-learn/",
+      "headline": "합성하기 전에 펩타이드 성질을\n먼저 알려주는 오픈소스 AI",
+      "mini_headline": "펩타이드 성질 예측 AI",
+      "body": "PeptiVerse는 합성 전에 펩타이드의 용해도·독성·체내 지속 시간을 계산한다.",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-07-source-ai-key-peptide-traits.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "펜실베이니아대 연구진이 오픈소스 AI 플랫폼 PeptiVerse를 내놨다. 돈과 시간이 드는 합성과 실험에 들어가기 전에 펩타이드의 핵심 성질을 미리 계산해 준다. 연구는 Nature Communications(2026)에 실렸다."
+          },
+          {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-10.30.52-AM.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-platform-could-spee.jpg",
+            "cap": "펩타이드 합성 장비 옆에 놓인 노트북의 PeptiVerse 화면."
           },
           {
             "t": "p",
-            "x": "연구진이 선보인 QEWC는 양자 기하학을 활용해 '치명적 망각'을 막는 양자 기계학습 틀이다. 치명적 망각이란 모델이 새 과제를 배우는 사이 앞서 익힌 능력을 잃어버리는 현상을 말한다."
+            "x": "약이 되려면 넘어야 할 성질이 여럿이다. 용해도와 세포 투과성, 독성과 단백질 응집 저항성, 생체 이용률과 체내 지속 시간까지 PeptiVerse가 예측한다. 신약 개발의 병목을 계산으로 먼저 걸러내자는 발상이다."
           },
           {
             "t": "p",
-            "x": "QEWC는 학습을 양자 상태의 기하 구조에 단단히 붙들어 둔다. 이렇게 하면 양자 AI가 여러 과제를 차례로 배워도 그동안 쌓아 온 것을 그대로 지켜낼 수 있다."
+            "x": "한 모델로 전부를 예측하지는 않는다. 성질마다 그에 맞춘 기계학습 구조를 따로 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "기존 계산 도구는 프로그래밍을 알아야 손댈 수 있었다. PeptiVerse는 웹 화면에 펩타이드 서열을 넣으면 예측을 그림으로 돌려준다. 제1저자 Yinuo Zhang은 \"연구자가 파이썬 패키지를 내려받는 데서 끝나지 않고, 안에서 무슨 일이 벌어지는지 볼 수 있기를 바랐다\"고 했다."
+          },
+          {
+            "t": "p",
+            "x": "학습에 쓴 데이터도 함께 보여준다. 실험하는 사람은 이미 성질이 밝혀진 분자와 견주며 예측을 읽는다."
+          },
+          {
+            "t": "p",
+            "x": "책임저자 Pranam Chatterjee는 유망해 보이던 분자가 결국 약이 될 수 없다는 사실을 \"너무 늦게\" 알게 되는 일을 막아준다고 했다. 선별에서 끝나지도 않는다. 원하는 치료 특성을 갖춘 새 펩타이드를 생성 AI가 설계할 때 길잡이 노릇도 한다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "medmia",
+      "eyebrow": "AI NEWS",
+      "headline": "의료 AI는 생각보다\n환자 정보를 훨씬 많이 흘린다",
+      "mini_headline": "의료 AI의 정보 유출",
+      "body": "의료 AI에서 환자 정보가 알려진 것보다 쉽게 샜고, 위험은 소수 집단에 쏠렸다.",
+      "tool": "Science",
+      "source": "Physics World",
+      "url": "https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "뮌헨공대와 Imperial College London, Hasso Plattner Institute 연구진이 의료 AI 모델을 겨눈 멤버십 추론 공격(MIA)의 프라이버시 위험이 알려진 것보다 크다는 결과를 내놨다. 논문은 Nature에 실렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://physicsworld.com/wp-content/uploads/2026/07/21-07-26-medical-ai-fig1.jpg",
+            "cap": "의료 AI 모델의 프라이버시 위험을 다룬 연구 이미지."
+          },
+          {
+            "t": "p",
+            "x": "앞선 연구들은 MIA의 성적이 평균적으로 \"무작위 추측보다 나을 게 없다\"고 봤다. 이번 연구는 평균 대신 환자 한 사람이 지는 위험을 들여다봤고, 그 위험이 \"평균 위험보다 훨씬 크다\"는 것을 확인했다."
+          },
+          {
+            "t": "p",
+            "x": "박사과정생 Moritz Knolle이 Daniel Rückert(TUM)의 지도로 연구했고, Georg Kaissis(HPI)가 함께했다. 심전도 21,799건과 흉부 X선 377,110장을 포함해 의료 데이터셋 일곱 개를 시험했다."
+          },
+          {
+            "t": "p",
+            "x": "\"평균적으로만 지켜지는 프라이버시는 별 의미가 없다\"고 Knolle은 말했다. 그러면서 자기 개인 데이터를 의료 AI 학습에 내놓을 수 있겠느냐고 스스로에게 물었다."
+          },
+          {
+            "t": "p",
+            "x": "위험은 고르게 퍼지지 않았다. \"학습 데이터에서 과소 대표된 소수 집단 환자가 극단적 위험 99 백분위에 과대 대표되는 경향이 있다.\" 모델이 이미 가장 못 챙기던 사람들이 프라이버시 비용까지 더 무겁게 진다."
+          },
+          {
+            "t": "p",
+            "x": "해법으로는 차등 프라이버시(DP)가 있다. 학습 중에 가우시안 노이즈를 섞어 프라이버시 위험에 \"수학적으로 증명 가능한 상한\"을 걸면서 진단 정확도는 지킨다. 다만 병원과 진료 현장에서 DP 도구는 아직 거의 쓰이지 않는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "curiobot",
+      "eyebrow": "AI NEWS",
+      "headline": "호기심을 심은 로봇이\n언어를 두 배 빨리 배웠다",
+      "mini_headline": "호기심 덕에 두 배 빨리",
+      "body": "호기심을 보상받은 로봇은 언어를 두 배 빨리 익혔고, 유아처럼 문법 오류를 거쳤다.",
+      "tool": "Science",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-07-playful-ai-robots-mirror-toddlers.html",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "오키나와과학기술대학원대학(OIST) 연구진이 호기심을 학습 신호로 넣은 가상 로봇을 만들었다. 호기심 없는 로봇보다 언어 이해를 두 배 빨리 익혔다. 연구는 Science Advances에 실렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/curious-robots-mimic-h-2.jpg",
+            "cap": "호기심을 학습 신호로 받은 OIST의 가상 로봇."
+          },
+          {
+            "t": "p",
+            "x": "로봇은 뇌에서 착안한 예측 부호화 신경망 PV-RNN을 썼다. 새로운 행동에 보상을 받은 쪽, 곧 호기심을 가진 로봇이 언어 과제를 훨씬 빨리 배웠다. 여러 단계를 거쳐야 하는 복잡한 과제에서 특히 벌어졌다."
+          },
+          {
+            "t": "p",
+            "x": "학습 중반에는 시키지도 않은 놀이가 나타났다. 호기심 있는 로봇은 \"명령받은 것과 완전히 다른 행동을 반복해서 실험\"했다. 따로 프로그래밍한 적 없는 행동이 저절로 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "언어 환경의 다양성도 크게 작용했다. 동사·형용사·목적어 조합을 48개 접한 로봇은 일반화 성공률이 25%에 그쳤지만, 180개를 접한 로봇은 85%까지 올랐다. 말의 종류가 늘수록 전이 학습이 좋아졌다."
+          },
+          {
+            "t": "p",
+            "x": "U자 곡선도 그대로 나왔다. 처음엔 곧잘 맞히다가 새 규칙을 배우는 동안 성적이 떨어지고, 예외를 익히면서 다시 올라온다. 유아가 보이는 과잉 일반화와 같은 패턴이 모델에서 저절로 떠올랐다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 촘스키가 말한 '자극의 빈곤' 문제를 겨눈다. 입력이 빈약한데도 아이가 언어를 빠르게 익히는 이유를 호기심과 환경의 풍부함으로 설명할 수 있다고 본다."
           }
         ]
       }

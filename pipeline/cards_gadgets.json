@@ -1,64 +1,259 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "gadgets",
   "cards": [
     {
-      "id": "adobe-indigo",
+      "id": "frameworkdesk",
       "eyebrow": "AI NEWS",
-      "headline": "어도비가 실험 카메라 앱에\n생성형 AI를 대거 담았다",
-      "mini_headline": "촬영 순간의 생성형 AI",
-      "body": "어도비가 프로젝트 인디고에 AI 플레이그라운드를 더해, 촬영하는 순간 방해물을 지우고 원하는 스타일을 입힌다.",
-      "tool": "Adobe",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
+      "headline": "프레임워크가 192GB 미니 PC로\n로컬 AI를 책상에 올린다",
+      "mini_headline": "192GB 로컬 AI 미니 PC",
+      "body": "프레임워크가 192GB 메모리를 얹은 미니 PC를 내놔, DeepSeek V4 Flash 같은 모델을 로컬에서 돌린다.",
+      "tool": "Framework",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/framework-desktop-brings-ryzen-ai-max-192gb-ram-and-local-ai-to-a-mini-pc/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg" },
-          { "t": "p", "x": "어도비가 실험용 카메라 앱 프로젝트 인디고에 'AI 플레이그라운드'라는 생성형 기능을 새로 넣었다. 사진을 찍고 나서 편집 앱으로 옮겨 가던 흐름을 촬영하는 그 순간으로 끌어당긴 셈이다." },
-          { "t": "p", "x": "모바일로 찍는 사람은 이 기능으로 화면 속 방해 요소를 지우거나 원하는 예술적 스타일을 입힐 수 있다. 촬영 시점에 실시간으로 사진에 대한 안내까지 받는다." }
+          {
+            "t": "img",
+            "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-feature-scaled.jpg?resize=1200%2C720"
+          },
+          {
+            "t": "p",
+            "x": "프레임워크는 다른 PC 제조사가 시도조차 안 하는 물건을 내놓는 회사로 이름을 얻었는데, 이번 티저도 그 결을 잇는다. AMD의 Advancing AI 행사에서 새 Framework Desktop을 미리 보여줬고 목적은 하나로 뚜렷하다. 큰 AI 모델을 내 컴퓨터에서 직접 돌리는 것. 로컬 AI를 노려 왔다면 지켜볼 만한 기계다."
+          },
+          {
+            "t": "p",
+            "x": "이 PC에는 Ryzen AI Max+ Pro 495가 들어간다. Zen 5 코어 16개에 부스트 클럭 5.2GHz다. 여기에 AMD 통합 그래픽 중 가장 빠른 Radeon 8065S가 붙는데, 3GHz로 도는 RDNA 3.5 연산 유닛이 40개다. 외장 GPU 없이도 1080p AAA 게임은 무난하다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-desktop-192GB-RAM-specs.jpg?resize=2000%2C1246",
+            "cap": "Framework Desktop 192GB 사양"
+          },
+          {
+            "t": "p",
+            "x": "진짜 핵심은 LPDDR5x 192GB다. 프레임워크는 이 정도 메모리면 DeepSeek V4 Flash 같은 무거운 모델을 로컬에서 돌리고도 컨텍스트 길이까지 여유가 남는다고 말한다. 더 큰 카드를 꽂을 개방형 PCIe x4 슬롯도 있다. 소프트웨어는 윈도우, 아니면 리눅스가 미리 깔린 완제품 중에 고른다."
+          },
+          {
+            "t": "p",
+            "x": "여기서 끝이 아니다. 프레임워크는 데스크톱 두 대를 50GbE 네트워크 카드로 묶은 개념 증명도 선보였다. 이렇게 하면 두 기기의 메모리 384GB가 하나로 묶인다. 이만한 덩치의 기계에서는 꽤 과한 이야기다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-open.jpg?resize=2000%2C1200",
+            "cap": "내부를 연 Framework Desktop"
+          },
+          {
+            "t": "p",
+            "x": "값은 만만치 않다고 프레임워크가 미리 못 박았다. 지금 파는 Ryzen AI Max+ 395의 128GB 모델만 해도 3,449달러인데, 2025년 2월 처음 나왔을 때는 1,999달러였다. 메모리와 저장장치 값이 오른 탓이다."
+          },
+          {
+            "t": "p",
+            "x": "램 값이 계속 오르는 흐름을 보면 192GB 모델이 4,500달러를 넘겨도 놀랄 일은 아니다. 공식 가격도 출시일도 아직 없다. 지금은 그저 탐나는 예고편이고, 전례를 보면 기다린 보람은 있겠지만 지갑이 먼저 앓는다."
+          }
         ]
       }
     },
     {
-      "id": "openai-speaker",
+      "id": "mouthpad",
       "eyebrow": "AI NEWS",
-      "headline": "오픈AI의 첫 기기는 카메라 달린\n휴대용 스피커라는 보도",
-      "mini_headline": "오픈AI의 첫 하드웨어",
-      "body": "오픈AI의 첫 기기는 카메라와 센서를 단 화면 없는 휴대용 스피커로, 먼저 나서 돕는 AI 동반자를 지향한다고 전해진다.",
-      "tool": "OpenAI",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
+      "headline": "혀로 굴리는 트랙패드에\n바이브 코더가 눈독을 들인다",
+      "mini_headline": "혀로 쓰는 트랙패드",
+      "body": "접근성 기기로 나온 Augmental의 MouthPad와 Vox를 AI 코더들이 손 안 쓰는 입력 장치로 데려간다.",
+      "tool": "Augmental",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/vibe-coders-ai-augmental-mouthpad-keyboard-mouse-2000789866",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600" },
-          { "t": "p", "x": "새 보도에 따르면 오픈AI가 처음 내놓을 기기는 화면이 없는 휴대용 스피커다. 카메라와 여러 센서를 달아, 사용자가 묻기 전에 먼저 상황을 읽고 돕는 AI 동반자로 그려진다." },
-          { "t": "p", "x": "이 제품은 조너선 아이브가 이끄는 io 팀이 만든 첫 소비자 기기이기도 하다. 화면 대신 목소리와 감지 능력에 기대는, 지금까지의 스마트 기기와는 결이 다른 형태다." }
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/07/mouthpad-hero-7.jpg",
+            "cap": "Augmental의 MouthPad 마우스피스 © Augmental"
+          },
+          {
+            "t": "p",
+            "x": "AI가 장애가 있는 사람의 접근성을 크게 끌어올린다는 이야기는 늘 있었다. 문제는 접근성 기기가 돈 되는 물건으로 취급받지 못한다는 데 있다. 그래서 모든 혁신이 자기들 것이라 믿는 테크 브로들이 곧잘 가로챈다."
+          },
+          {
+            "t": "p",
+            "x": "Augmental이 딱 그런 경우다. 이 스타트업은 스스로를 접근성 기술 회사라고 분명히 내세운다. 회사 소개 페이지에는 이렇게 적혀 있다. \"We build first for people with the greatest need: people living with quadriplegia, ALS, spinal cord injury, or severe motor limitations.\" 상업성과 대중성이 접근성을 뒷전으로 밀어내기 쉬운 업계에서 흔치 않은 태도다."
+          },
+          {
+            "t": "p",
+            "x": "이번 주 Augmental은 스스로 '스킨웨어(skinware)'라 부르는 기기 두 개를 내놓으며 온라인에서 화제가 됐다. 하나는 혀로 조작하는 트랙패드 MouthPad, 다른 하나는 청진기처럼 생긴 마이크 펜던트 Vox다. Vox는 구음장애가 있거나 성대가 상해 아주 작게 말하는 사람의 말을 잡아 받아쓴다."
+          },
+          {
+            "t": "p",
+            "x": "쓰임새가 분명하고 설계도 사려 깊어 보이는 기술이다. 그런데 이걸 보고 첫 생각이 \"이걸로 바이브 코딩하면 되겠는데\"인 사람들이 있다."
+          },
+          {
+            "t": "p",
+            "x": "AI 신봉자들은 이 기술이 사람과 컴퓨터가 만나는 방식을 바꾼다고 오래 주장해 왔다. 챗봇으로 코딩하고 검색하는 일이 놀랄 만큼 늘긴 했어도 그 주장이 현실이 된 건 아니다. 그런 이들이 Augmental의 새 기술을 보고 드디어 마우스와 키보드를 버릴 길이 열렸다며 군침을 흘린다."
+          },
+          {
+            "t": "p",
+            "x": "트위터의 대표적인 AI '효과적 가속주의자' Beff Jezos는 MouthPad 영상을 다시 올리며 \"This + subvocalization = new optimal vibe coding setup\"이라고 적었다. 이어 Vox를 가리켜 \"You may not like it, but this is what peak vibe coding performance apparatus looks like. We are in the beginning of a soft merge with non-invasive brain-machine interfaces\"라고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "혁신에 던지는 가벼운 농담이었을 여지도 있다. 다만 가속주의자들의 이념은 패러디와 구분이 안 된다. 이들은 하루라도 빨리 기계와 합쳐지고 싶어 한다. 아직 뇌에 인터페이스를 심지 못하니 조금이라도 가까운 무엇이면 붙잡는다. 자기들을 위해 만들어지지도 않은 마우스피스까지 포함해서."
+          },
+          {
+            "t": "p",
+            "x": "Jezos가 미는 또 하나는 이미 사람들을 성가시게 하는 습관, AI에게 속삭이기다. 월스트리트저널은 최근 사무실이 AI와 말하는 사람들로 뒤덮여 콜센터처럼 변했다고 보도했다. 다들 자기 일을 대신할 AI 에이전트를 말로 붙들고 있다는 이야기다. 기사의 전제는 옆자리 동료에게 이 흐름이 짜증스럽다는 쪽이었는데, 가속주의자들은 성가심 자체를 정체성으로 삼아 온 사람들이라 오히려 기회로 본다."
+          },
+          {
+            "t": "p",
+            "x": "Augmental이 하는 일은 흥미롭다. 그러니 이 기술이 정말 필요한 사람의 손에, 정확히는 입에 먼저 닿게 두면 안 될까. 월-E 속 인간처럼 살겠다고 스스로 달려들지 말고."
+          }
         ]
       }
     },
     {
-      "id": "samsung-health-assistant",
+      "id": "voicepad",
       "eyebrow": "AI NEWS",
-      "headline": "삼성, 흩어진 건강 데이터를\n풀어 주는 AI 건강 비서",
-      "mini_headline": "삼성 헬스의 AI 비서",
-      "body": "삼성이 삼성 헬스에 AI 건강 비서 베타를 더해, 갤럭시 폰·워치·링 데이터를 읽고 의사가 검증한 조언을 건넨다.",
-      "tool": "Samsung",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
+      "headline": "macOS 27 베타에 숨어 있던\n시리 '보이스 패드'",
+      "mini_headline": "숨어 있던 보이스 패드",
+      "body": "macOS 27 베타에 숨은 화면에서 커서를 움직이면 미국식 영어 목소리 13종이 공간 음향으로 가까워지고 멀어진다.",
+      "tool": "Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/07/23/macos-27-beta-hidden-siri-voice-ui/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg" },
-          { "t": "p", "x": "삼성이 삼성 헬스 안에 'AI 건강 비서' 베타를 열었다. 갤럭시 폰과 워치, 링이 각자 모아 온 건강 데이터를 하나로 읽어, 사용자가 알아듣기 쉬운 말로 풀어 주는 챗봇이다." },
-          { "t": "p", "x": "비서가 건네는 조언은 의사가 검증한 웰니스 지침을 따른다. 흩어져 있던 기기별 기록을 삼성 생태계 전체에서 엮어 본다는 점이 이번 기능의 핵심이다." }
+          {
+            "t": "img",
+            "src": "https://images.macrumors.com/t/iwIllyfONk3Cy6W_Z_MxFcuS9e0=/400x0/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg?lossy",
+            "cap": "macOS·iOS 27 시리 앱"
+          },
+          {
+            "t": "p",
+            "x": "애플이 macOS 27 Golden Gate에서 시리 AI의 목소리를 고르는 새 화면을 만들고 있다는 정황이 최신 베타에서 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "맥루머스 포럼 회원 \"mactracker\"가 macOS 27 beta 4에 숨어 있는 '보이스 패드(voice pad)'를 공개했다. 이 베타는 월요일에 나왔다. 화면을 켜면 시스템 설정의 시리 목소리 항목이 거의 검은 캔버스로 바뀌고, 지금 고른 목소리만 색점 하나로 남는다."
+          },
+          {
+            "t": "p",
+            "x": "포인터로 패드를 누른 채 움직이면 화면이 살아난다. 여러 색이 번지듯 지나가고 점이 하나씩 나타나며 목소리의 성격도 함께 바뀐다. 점은 숨은 별자리에서 별이 드러나듯 허공에서 떠오른다."
+          },
+          {
+            "t": "p",
+            "x": "시각 효과는 공간 음향으로 커서 움직임에 반응한다. 포인터가 어떤 목소리에 다가가면 그 소리가 또렷하고 가깝게 들리고, 멀리 있는 목소리는 배경처럼 흐려진다. 공간 믹서가 포인터의 거리와 각도, 속도를 따라가며 목소리와 배경음의 음량, 잔향, 차폐, 필터를 조절한다."
+          },
+          {
+            "t": "p",
+            "x": "패드에는 목소리 자리 13개가 느슨한 격자로 놓인다. 애플이 시리 AI에 커스텀 목소리를 최대 13개까지 붙일 준비를 한다는 뜻으로 읽힌다."
+          },
+          {
+            "t": "p",
+            "x": "지금 macOS 27 베타에는 필요한 음성 모델이 빠져 있어 기존 커스텀 목소리 두 개로 대체된다. 다만 베타에서 함께 발견된 파일이 미국식 영어 목소리 13종을 성별과 나이, 성격으로 설명해 뒀다. 조용조용한 젊은 여성 목소리부터 낮게 깔리는 성인 남성 목소리, 나이 든 느낌의 목소리 둘까지 폭이 넓다."
+          },
+          {
+            "t": "p",
+            "x": "이 화면이 macOS 27 최종본까지 살아남으면 지금과는 꽤 달라진다. 현재 베타에서 시리 AI의 목소리는 미국식 하나뿐이고, 표현력과 속도만 슬라이더로 만진다."
+          },
+          {
+            "t": "p",
+            "x": "그래서 이 화면은 시리의 기본 목소리를 고르는 첫 설정 단계에 가깝다. 고른 다음에는 기존 선택기의 Pace와 Expressivity로 다듬는 식이다. 아직 미완성인데도 44개 언어로 현지화됐다고 한다. iOS 27과 같은 시리 설정 프레임워크를 쓰는 만큼 아이폰과 아이패드에서도 볼 여지가 있다."
+          },
+          {
+            "t": "p",
+            "x": "이번 주 초에 다룬 숨은 시리 팝오버와 달리 이 기능은 베타 테스터가 쉽게 켜지 못한다. SIP(System Integrity Protection)를 끄고 디버거로 내부 코드를 덮어써야 한다."
+          },
+          {
+            "t": "p",
+            "x": "대규모 언어 모델을 얹은 새 시리 AI는 올해 9월 iOS 27과 macOS 27을 비롯한 애플 소프트웨어 업데이트와 함께 지원 지역에 도착한다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ultrahumanemerald",
+      "eyebrow": "AI NEWS",
+      "headline": "울트라휴먼이 분석을 전부\n반지 안으로 옮겼다",
+      "mini_headline": "반지 안에서 도는 분석",
+      "body": "울트라휴먼이 앱을 에메랄드로 갈아엎고 분석을 전부 기기에서 처리해, 인터넷이 끊겨도 인사이트가 나온다.",
+      "tool": "Ultrahuman",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2220780/ultrahuman-overhauls-app-brings-all-of-its-analysis-on-device/",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/ultrahuman-overhauls-its-app-brings-all-of-its-analysis-on-device/intro-1784735062.jpg",
+            "cap": "새로워진 울트라휴먼 앱"
+          },
+          {
+            "t": "p",
+            "x": "울트라휴먼 앱의 빽빽하고 데이터 많은 화면을 나는 늘 좋아했는데, 다들 그렇지는 않았던 모양이다. 그래서 회사는 화면을 단순하게 정리하고 읽기 쉽게 만드는 쪽으로 플랫폼을 크게 뜯어고쳤다. 코드명 Emerald인 이번 앱은 기본 탭에 그때그때 나에게 필요한 정보를 골라 올린다."
+          },
+          {
+            "t": "p",
+            "x": "두 번째로 큰 변화는 Ultrasphere다. 회사는 이걸 \"next best actions\"를 뽑아 주는 \"decision engine\"이라 부른다. 자체 AI인 Jade가 생체 신호와 상황 데이터를 보고 건강을 지킬 요령을 알려 준다. 아홉 시부터 여섯 시까지 일하다 오후 3시에 기운이 꺾이면, 커피를 들이켜기보다 햇빛 아래서 10분 걷는 편이 잠을 깨는 데 낫다고 권하는 식이다."
+          },
+          {
+            "t": "p",
+            "x": "이번 개편으로 울트라휴먼 앱은 인사이트 처리를 전부 기기에서 한다. 폰이 연결돼 있지 않아도 돌아간다는 뜻이다. 비행기 안처럼 정작 필요할 때 쓸 수 있다는 점이 크다."
+          },
+          {
+            "t": "p",
+            "x": "VO2 Max 계산 알고리즘도 손봐서 혈중 산소 수치를 더 정확하게 본다고 회사는 말한다. 심방세동(AFib) 감지와 공유 기능도 바뀌었고, 심박수 데이터를 앱에서 실시간으로 볼 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "울트라휴먼의 Emerald 업데이트는 오늘부터 전 사용자에게 배포된다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "geminilivemini",
+      "eyebrow": "AI NEWS",
+      "headline": "1세대 구글 홈 미니까지\n제미나이 라이브가 내려온다",
+      "mini_headline": "옛 스피커에 온 제미나이",
+      "body": "구글이 1세대 홈 미니와 네스트 허브에 제미나이 라이브를 풀어, 오래된 스피커와 주고받는 대화가 열린다.",
+      "tool": "Google",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/gemini-live-expands-to-first-gen-google-speakers-3690874/",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2019/01/google-home-mini-colors-ces-2019.jpg",
+            "cap": "구글 홈 미니"
+          },
+          {
+            "t": "p",
+            "x": "구글은 작년 10월부터 스마트 스피커에 Gemini Live를 풀기 시작했다. Nest Mini와 Nest Audio, Nest Hub, Nest Hub Max까지 들어갔고, 얼마 전 나온 Google Home Speaker에도 올라갔다. 이번에는 1세대 스피커와 디스플레이 차례다."
+          },
+          {
+            "t": "p",
+            "x": "구글은 1세대 Google Home Mini와 Google Nest Hub에 Gemini Live를 배포한다고 밝혔다. Google Home Premium 구독자이면서 이 기기를 갖고 있다면 이제 챗봇과 주고받는 대화를 할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Gemini Live가 처음이라면 \"Hey Google, let's chat\"이라고 말해 대화를 연다. 종소리가 울리면 대화 모드가 켜졌다는 신호다. 저녁 메뉴부터 외계 생명체까지 아무 이야기나 꺼내도 된다."
+          },
+          {
+            "t": "p",
+            "x": "1세대 Google Home Mini와 Google Nest Hub 배포는 오늘 시작된다."
+          }
         ]
       }
     }

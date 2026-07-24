@@ -1,51 +1,84 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "music",
   "selection_mode": "auto",
   "picks": [
     {
-      "title": "Neutone and Roland want you to design your own AI model — and play it live",
-      "url": "https://musictech.com/features/interviews/roland-neutone-project-lydia/",
-      "source": "MusicTech",
-      "published_iso": "2026-07-17T08:00:16Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500-1068x801.jpg",
-      "excerpt": "Roland and Neutone's Project LYDIA is a prototype AI effects pedal that lets musicians build their own custom AI models and perform with them in real time, using 'neural sampling' to transfer the timbre of one sound onto another while preserving a player's dynamics and nuance.",
+      "title": "How Charli XCX's producers ran a jam session through an AI sampling plugin to make No One Lasts Forever",
+      "url": "https://www.musicradar.com/artists/we-were-running-around-the-studio-with-as-many-things-plugged-in-as-possible-just-doing-the-worst-sounds-trying-to-find-the-ugliest-things-how-charli-xcxs-producers-ran-a-jam-session-through-an-ai-sampling-plugin-to-make-no-one-lasts-forever",
+      "source": "MusicRadar",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Y7T4rzJF2Cusczjn5oEtA6.jpg",
+      "excerpt": "A. G. Cook and Finn Keane describe on the Tape Notes podcast how they ran a chaotic studio jam through Concatenator, an AI-powered concatenative-synthesis sampling plugin that turns arbitrary sample material into a playable instrument, to build the track's texture.",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Novel hardware direction — a real-time, player-trainable AI pedal changes how performers use generative models on stage, not just in the box."
+      "rationale": "A named-record, step-by-step account of AI sampling used as a texture engine — the rare craft story a producer can copy in their own session tomorrow."
     },
     {
-      "title": "ACE Studio 2 review: Next-gen AI features, stone age workflows",
-      "url": "https://musictech.com/reviews/digital-audio-workstations/ace-studio-2-review/",
-      "source": "MusicTech",
-      "published_iso": "2026-07-16T08:00:40Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/ACE-Studio-2.0-interface-hero-credit-press@2000x1500-1068x801.jpg",
-      "excerpt": "ACE Studio 2 is an AI-centric DAW built around vocal synthesis (140+ voices and 36 AI virtual instruments) plus generative 'Add a Layer' and 'Music Enhancer' tools. MusicTech finds the next-gen AI capabilities genuinely powerful but hampered by sluggish rendering and rough workflows.",
+      "title": "Peel Stems 2 from zplane",
+      "url": "https://www.soundonsound.com/news/peel-stems-2-zplane",
+      "source": "Sound On Sound",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg",
+      "excerpt": "zplane's real-time stem-separation plug-in cuts processing latency from 483ms to 245ms at 44.1kHz with cleaner separation and fewer artefacts, running natively in VST3/AU/AAX with no cloud upload, subscription or login.",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Hands-on review of an AI vocal-synthesis DAW gives producers a concrete verdict on where the tool actually helps versus where it slows work down."
+      "rationale": "Halved latency plus fully local processing turns AI stem separation from an offline chore into a live, in-session tool — a concrete workflow upgrade."
     },
     {
-      "title": "Meaw Chain review: can it make \"vibe mixing\" a thing?",
-      "url": "https://musictech.com/reviews/plug-ins/meaw-chain-review/",
-      "source": "MusicTech",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg",
-      "excerpt": "Safari Audio's Meaw Chain uses AI to generate entire plugin/mixing chains from a text prompt, offering producers an accessible route to a finished-sounding mix. MusicTech weighs whether AI-driven 'vibe mixing' is genuinely useful across different skill levels.",
+      "title": "Sony Music sues Udio for a second time, with the extra 30,000 recordings that could result in $4.5 billion damages",
+      "url": "https://completemusicupdate.com/sony-music-sues-udio-for-a-second-time-with-the-extra-30-000-recordings-that-could-result-in-4-5-billion-damages/",
+      "source": "Complete Music Update",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w100/2026/07/Sony-sues-Udio.png",
+      "excerpt": "After a judge refused to let Sony amend its original complaint, the label filed a fresh action over 30,000+ additional recordings — an expanded list that could expose Udio to more than $4.5 billion in statutory damages.",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Text-prompt-to-mixing-chain is a directly actionable workflow shift; the review tests whether it holds up for real producers rather than just hype."
+      "rationale": "The one major label still without a Udio deal escalates to existential damages — a direct signal on whether Udio stays a safe tool to build releases on."
+    },
+    {
+      "title": "SOCAN and Musical AI to Track (and Eventually Pay) Creators for AI Use",
+      "url": "https://www.hypebot.com/socan-and-musical-ai-to-track-and-eventually-pay-creators-for-ai-use/",
+      "source": "Hypebot",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/7-21-socan.jpg",
+      "excerpt": "Canada's largest rights organisation is building attribution infrastructure with Musical AI to detect when members' works influence AI-generated output, establishing consent mechanisms and a route to eventual royalty payments.",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "First real attribution plumbing from a major PRO — the mechanism by which training influence could actually become a royalty line for working writers."
+    },
+    {
+      "title": "AI artists are already making millions from Spotify and YouTube – and they're only getting bigger",
+      "url": "https://musictech.com/news/industry/ai-music-earnings/",
+      "source": "MusicTech",
+      "published_iso": "2026-07-23T19:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2023/12/money-music@2000x1500.jpg",
+      "excerpt": "New analysis puts the top ten AI acts at roughly $6.1 million in combined earnings, with audiences in the tens of millions, hundreds of chart entries and major playlist placements — evidence AI music has moved from novelty to a real revenue tier.",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Hard revenue and chart numbers replace speculation: AI acts are now a competitive tier that human artists share playlists and payouts with."
     }
   ],
-  "shortfall": true,
+  "shortfall": false,
   "dedup_notes": {
-    "checked_against": "news_data.json sections.music — today (2026-07-22) + days 2026-07-17..2026-07-21",
+    "checked_against": "news_data.json sections.music — today (2026-07-23) + days 2026-07-18..2026-07-22",
     "dropped_as_duplicates": [
-      "https://www.gearnews.com/ai-labeling-music-industry-tech/ — same event/release as already-published card id 'aimusiclabel' (2026-07-21, Music Business Worldwide): the IFPI/RIAA/A2IM/WIN/IMPALA/Grammys/SAG-AFTRA/Human Artistry Campaign 'AI-Generated' and 'AI-Assisted' labeling standard. Different outlet + reworded headline, same underlying story."
+      "https://djmag.com/news/ai-generated-music-surpasses-50-of-daily-uploads-deezer — same event as published card 'deezer-ai' (2026-07-22, Complete Music Update): AI-generated tracks passing 50% of Deezer's daily uploads (~90k/day). Different outlet, same story.",
+      "https://www.hypebot.com/new-ai-labeling-standard-for-music-draws-support-and-hesitation/ — same event as published card 'aimusiclabel' (2026-07-21, Music Business Worldwide): the IFPI/RIAA-led voluntary 'AI-Generated' / 'AI-Assisted' labeling standard.",
+      "https://www.gearnews.com/ai-labeling-music-industry-tech/ — same IFPI/RIAA/BVMI labeling standard as published card 'aimusiclabel' (2026-07-21).",
+      "https://musictech.com/news/industry/udio-is-suing-sony-again/ — within-pool duplicate of the Complete Music Update report on Sony's second Udio suit; kept CMU for the fuller damages detail and a usable og_image."
     ],
-    "note": "Filtered pool of 4 -> 1 dropped as content duplicate of published 'aimusiclabel' -> 3 distinct fresh picks. Pool genuinely offered only 3 unique never-before-seen stories, so 3 (floor) rather than pad. Diversity guard could not be satisfied: no other fresh candidates existed to backfill or diversify outlets, so all 3 survivors are MusicTech; dropping below floor 3 or padding would be worse."
+    "dropped_as_out_of_scope": [
+      "https://www.musicbusinessworldwide.com/suno-admits-data-breach-that-reportedly-leaked-55-3-million-users-data/ — pure security/breach story with no music-craft hook.",
+      "https://www.engadget.com/2215772/a-hacker-accessed-suno-source-code-that-reportedly-details-how-the-company-scraped-millions-of-songs/ — hack-sourced leak, same Suno-breach news cycle; provenance angle interesting but still a breach story and older (07-15).",
+      "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/ — acquisition/business news, no craft change for producers.",
+      "https://www.hypebot.com/talk-to-spotify-what-ai-chatbots-mean-for-music-marketing/ — marketing commentary, weaker than picks; also would have made Hypebot a second card in an already-full slate."
+    ],
+    "note": "13 filtered candidates -> 4 dropped as content duplicates, 4 dropped as business/security noise -> 5 distinct fresh picks. Diversity guard satisfied: 5 distinct outlets (MusicRadar, Sound On Sound, Complete Music Update, Hypebot, MusicTech), max 1 per outlet, and a spread across craft/tool, tooling, legal, rights infrastructure and market data."
   }
 }

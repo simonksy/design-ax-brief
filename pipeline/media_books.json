@@ -1,9 +1,11 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "books",
   "media": [
-    { "id": "zedoc", "type": "image", "src": "pipeline/media/zedoc.png" },
-    { "id": "ai-course", "type": "image", "src": "pipeline/media/ai-course.png" },
-    { "id": "editor-ai-survey", "type": "image", "src": "pipeline/media/editor-ai-survey.jpg" }
+    { "id": "anthropic-final", "type": "image", "src": "pipeline/media/anthropic-final.jpg" },
+    { "id": "bloomsbury-payout", "type": "image", "src": "pipeline/media/bloomsbury-payout.jpg" },
+    { "id": "substack-pangram", "type": "svg" },
+    { "id": "wiley-genesis", "type": "image", "src": "pipeline/media/wiley-genesis.jpg" },
+    { "id": "ipa-congress-ai", "type": "svg" }
   ]
 }

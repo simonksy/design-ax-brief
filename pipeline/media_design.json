@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "design",
   "media": [
-    { "id": "maya20262", "type": "image", "src": "pipeline/media/maya20262.jpg" },
-    { "id": "3dsmax20262", "type": "video", "src": "pipeline/media/3dsmax20262.mp4", "poster": "pipeline/media/3dsmax20262.jpg" },
-    { "id": "ux-review-ai", "type": "image", "src": "pipeline/media/ux-review-ai.jpg" },
-    { "id": "screens-demoted", "type": "image", "src": "pipeline/media/screens-demoted.png" },
-    { "id": "art-director-edge", "type": "image", "src": "pipeline/media/art-director-edge.png" }
+    { "id": "agentface", "type": "image", "src": "pipeline/media/agentface.png" },
+    { "id": "ailegible", "type": "image", "src": "pipeline/media/ailegible.png" },
+    { "id": "figmotion", "type": "video", "src": "pipeline/media/figmotion.mp4", "poster": "pipeline/media/figmotion.jpg" },
+    { "id": "trusttest", "type": "image", "src": "pipeline/media/trusttest.png" },
+    { "id": "zcaptis", "type": "image", "src": "pipeline/media/zcaptis.jpg" }
   ]
 }

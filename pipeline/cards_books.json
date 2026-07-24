@@ -1,63 +1,220 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "books",
   "cards": [
     {
-      "id": "zedoc",
+      "id": "anthropic-final",
       "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "노르웨이 Beat에서 갈라져 나온\n에이전틱 메타데이터 플랫폼",
-      "body": "주제 분류와 접근성 보강, ONIX 생성과 오디오북 챕터 분할을 한 흐름으로 묶어 자동으로 처리한다.",
-      "mini_headline": "메타데이터 다루는 AI",
+      "headline": "Anthropic 해적판 학습 소송\n15억 달러 합의가 최종 확정",
+      "body": "판사는 작품당 약 3,000달러가 고의 침해 법정 최저 배상액의 네 배라며 합의안을 승인했다.",
+      "mini_headline": "합의금 15억 달러 확정",
       "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100855-norway-s-beat-spins-out-zedoc-a-new-agentic-ai-platform.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100888-judge-gives-final-approval-in-1-5-billion-settlement-in-anthropic-copyright-case.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "p", "x": "노르웨이의 Beat Technology가 새 회사 Zedoc을 분사했다. 출판사의 메타데이터 작업을 스스로 처리하는 에이전틱 AI 플랫폼이다." },
-          { "t": "p", "x": "Zedoc이 맡는 일은 폭이 넓다. Thema와 BISAC, Dewey 같은 주제 분류를 붙이고, 접근성 정보를 채우며, 음성을 텍스트로 옮긴다. ONIX 레코드를 만들고 오디오북을 챕터 단위로 나누는 일까지 이어진다." },
-          { "t": "p", "x": "결국 겨냥하는 지점은 AI 기반 검색과 발견이다. 제품 데이터를 그에 맞게 정리해 두면, 흩어져 반복되던 편집 실무가 하나의 흐름으로 정돈된다." }
+          {
+            "t": "p",
+            "x": "Araceli Martínez-Olguín 판사가 Anthropic을 상대로 한 저작권 집단소송에서 15억 달러 합의안을 최종 승인했다. 대규모 언어모델을 학습시키며 저작물을 침해했다고 다툰 사건이다."
+          },
+          {
+            "t": "p",
+            "x": "판결문에서 판사는 이 합의가 \"집단 구성원이 받을 수 있는 배상의 합리적 범위를 감안할 때 의미 있는 구제를 제공한다\"고 봤다. 소송을 더 끌면 복잡하고 비싸고 길고 위험해진다는 점도 이유로 달았다."
+          },
+          {
+            "t": "p",
+            "x": "작품당 약 3,000달러라는 금액을 두고는 \"고의 침해에 대한 법정 최저 손해배상액의 네 배\"이자, 저작권 소송에서 가장 흔한 판결액인 750달러의 네 배라고 짚었다. 청구 자체가 전례 없는 성격이라 이 합의가 \"집단에 상당한 이익을 준다\"고 봤고, 재판까지 갔다면 승소를 장담할 수 없었으며 지면 아무것도 남지 않았을 거라고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "이 사건을 먼저 맡은 사람은 2025년 말 은퇴한 William Alsup 연방지방법원 판사다. 그는 합법적으로 구한 책을 학습에 쓴 것은 공정이용이지만, 해적판을 내려받아 영구 보관한 행위는 저작권법을 어긴다고 판단했다. Anthropic도 Library Genesis와 Pirate Library Mirror의 해적판 책을 가져다 썼다고 인정했다. 사건은 그 뒤 Martínez-Olguín 판사에게 넘어갔다."
+          },
+          {
+            "t": "p",
+            "x": "불법으로 내려받은 책은 약 50만 종. 배상 대상 가운데 저자와 출판사 모두 92%가 집단소송에 참여하겠다고 밝혔고, Martínez-Olguín 판사는 두 건을 뺀 나머지 제외 신청을 전부 기각했다."
+          },
+          {
+            "t": "p",
+            "x": "미국출판협회(AAP) 회장 겸 CEO Maria Pallante는 \"법원의 최종 승인을 환영한다\"며 \"저자와 출판사에게 분명히 속한 지적·창작 재산을 빅테크가 부도덕하게 가져다 쓴 데 책임을 묻는 더 큰 싸움에서 중요한 승리\"라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "해적 사이트에서 내려받는 행위를 법원이 어떻게 봤는지도 그는 짚었다. \"침해자의 효율이라는 이름으로 그냥 받아들일 선택지가 아니며, 오히려 결코 정상으로 굳어져선 안 될 끔찍한 행동\"이라는 대목이다. 공정이용이 기술 기업의 저작물 복제까지 감싸선 안 되고, AI 학습은 라이선스 계약으로 풀어야 한다는 주장도 폈다."
+          }
         ]
       }
     },
     {
-      "id": "ai-course",
+      "id": "bloomsbury-payout",
       "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "AI 시대를 책임 있게 건너가려는\n출판인을 위한 4주 과정",
-      "body": "4주짜리 온라인 프로그램으로 AI 기술을 익히고 실무 워크플로와 사내 사용 지침까지 함께 세운다.",
-      "mini_headline": "출판인 AI 4주 과정",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
+      "headline": "Bloomsbury가 AI 합의금으로\n1400만 파운드를 받는다",
+      "body": "합의 명단에 오른 자사 도서 14,087종 덕에 수수료를 뗀 1870만 달러를 저자와 나눈다.",
+      "mini_headline": "1400만 파운드 배분",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/bloomsbury-lands-14m-in-anthropic-ai-settlement",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png" },
-          { "t": "p", "x": "출판 종사자를 위한 4주짜리 온라인 프로그램이 새로 열린다. AI 시대를 책임 있게 건너가도록 돕는다는 것이 취지다." },
-          { "t": "p", "x": "과정은 세 갈래로 짜였다. AI 기술이 무엇인지 이해하고, 실무에 쓸 수 있는 워크플로를 직접 만들며, 조직 안에서 사용과 보호의 기준을 세우는 일이다. 도구를 겉핥기로 보여 주기보다 팀이 스스로 원칙을 세우도록 이끄는 데 무게가 실렸다." }
+          {
+            "t": "p",
+            "x": "Bloomsbury가 Anthropic 저작권 합의에서 약 1870만 달러, 1400만 파운드가량을 받게 됐다. 출판사 한 곳의 카탈로그가 AI 학습 데이터로 쓰였을 때 실제로 얼마가 돌아오는지 보여주는 첫 구체적인 숫자다."
+          },
+          {
+            "t": "img",
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd27.jpg",
+            "cap": "© Shutterstock"
+          },
+          {
+            "t": "p",
+            "x": "계산은 단순하다. 합의 명단에 오른 Bloomsbury 도서가 14,087종, 작품당 배상액이 약 3,000달러다. 여기서 변호사 비용을 비롯한 경비로 10%쯤 빠지고, 남은 돈을 출판사와 저자가 나눠 갖는다."
+          },
+          {
+            "t": "p",
+            "x": "Bloomsbury는 Sarah J. Maas와 Susanna Clarke, J.K. Rowling의 책을 낸 곳이다. 합의금은 한꺼번에 들어오지 않는다. 분할로 나뉘어 이번 회계연도 하반기부터 들어오기 시작할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "뿌리에 있는 사건은 Anthropic이 Claude를 학습시키며 해적판 책을 가져다 쓴 일이다. 전체 합의 규모는 15억 달러, 작품당 약 3,000달러로 정리됐다. Bloomsbury의 1400만 파운드는 그 총액이 개별 출판사 장부에 어떻게 찍히는지 처음 드러난 사례다."
+          }
         ]
       }
     },
     {
-      "id": "editor-ai-survey",
+      "id": "substack-pangram",
       "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "멜버른대와 RMIT가 나선\n편집자 AI 사용 실태 조사",
-      "body": "두 대학 연구진이 호주의 출판사와 편집자가 생성형 AI를 실제로 어떻게 쓰는지 설문으로 살핀다.",
-      "mini_headline": "편집 현장 AI 조사",
-      "source": "Books+Publishing",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
+      "headline": "Substack이 붙인 AI 탐지 라벨\n작성자가 끄면 사라진다",
+      "body": "Pangram이 돌린 판독 결과를 독자가 열어볼 수 있지만, 작성자가 끄면 표시가 사라진다.",
+      "mini_headline": "끌 수 있는 AI 라벨",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/substack-adds-ai-detection-tools-but-creators-can-disable-them/",
       "accent": "#7928ca",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Substack이 어제 새 기능을 내놨다. 독자가 글을 스캔해 AI의 도움을 얼마나 받아 쓴 글인지 확인하는 기능이다. 엔진은 AI 탐지 분야의 선두 업체 Pangram이 맡았다. 창업자 Chris Best는 \"여러분의 Substack 앱이 LinkedIn처럼 변할 때까지 기다렸다가 배우고 나아가고 싶지는 않다\"며 \"그래서 투명성을 높이고 여러분의 피드백을 받을 근거가 될 새 도구부터 내놓는다\"고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "본론에 앞서 짚어둘 조건이 셋 있다. AI 분석은 독자가 요청할 때만 보인다. 창작자는 자기 글에서 이 기능을 꺼둘 수 있다. 그리고 태평양 시간 7월 21일 오전 8시 30분 이후에 발행된, 100단어가 넘는 글에만 작동한다."
+          },
+          {
+            "t": "p",
+            "x": "Substack은 창작자가 \"How I make this\"라는 설명을 덧붙여 자기 작업 방식을 밝히고 독자의 기대치를 맞추도록 하는 도구도 함께 붙였다."
+          },
+          {
+            "t": "p",
+            "x": "회사 쪽은 AI로 작업을 돕는 것 자체에 반대하지 않는다고 못 박았다. 금지 조항도 없고, 목표는 투명성이라고 말한다. Pangram은 발행 전 초고에 직접 돌려볼 수 있고, 잘못됐다고 보는 스캔 결과는 신고해 지울 수 있으며, 독자에게 보이는 AI 탐지 기능을 아예 끄는 선택지도 남아 있다."
+          },
+          {
+            "t": "p",
+            "x": "작가들 반응은 대체로 싸늘하다. AI 탐지 도구가 100% 정확하지 않은데도 사람의 판단이나 맥락 없이 징벌적으로, 이른바 \"마녀사냥\"에 쓰일 수 있다는 걱정이 크다. 사람이 얼마나 개입했는지는 알려주지도 못하면서 순수성만 따지는 시험이라는 비판도 나온다. Jane Friedman은 두 지적 모두 타당하다면서도, 기능이 지금처럼 제한적이고 작가가 끌 수도 있는 이상 큰 해가 될지는 모르겠다고 적었다."
+          },
+          {
+            "t": "p",
+            "x": "Substack 편을 드는 게 썩 내키지는 않는다고 그는 덧붙인다. 그러면서도 AI로 쓴 글이 급격히 늘어난 상황을 지금 시점에 다루고 독자에게 최소한의 투명성을 주려는 태도는 책임감 있다고 봤다. 도구에 흠이 있긴 해도 사람들이 생각하는 만큼 형편없지는 않다는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "Substack이 아직 과신하거나 단정하지 않는 점도 마음에 든다고 했다. 답을 모른다고 말하는 첫걸음이 AI 글쓰기와 출판을 둘러싼 논의, 나아가 규범을 만드는 데 보탬이 되리라 본다. 일이 어그러지면 Substack이 방향을 틀 테고, 그보다는 커뮤니티가 적응하는 쪽에 무게를 둔다. 플랫폼은 콘텐츠의 출처를 살피고 무엇이 AI로 만들어졌거나 AI의 도움을 받았는지 최선을 다해 가려내야 한다. 사람이 만든 것의 가치를 지키려면 그렇다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "wiley-genesis",
+      "tool": "Books",
+      "eyebrow": "AI NEWS",
+      "headline": "Genesis Mission에 들어간\n유일한 과학 출판사 Wiley",
+      "body": "Nvidia와 AWS, Microsoft, IBM 사이에서 동료심사 콘텐츠를 대는 유일한 출판사로 합류했다.",
+      "mini_headline": "국책 AI에 붙은 Wiley",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/07/wiley-joins-genesis-mission-consortium-in-support-of-u-s-ai-goals/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Wiley가 Genesis Mission Consortium에 합류했다고 밝혔다. 미국 에너지부가 이끄는 Genesis Mission을 뒷받침하는 민관 협력체로, \"AI가 앞당기는 혁신과 발견의 새 시대를 여는 국가 차원의 공동 노력\"을 내걸었다."
+          },
+          {
+            "t": "img",
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Wiley_Genesis-Mission-Consortium-793x446.jpg",
+            "cap": "Wiley, Genesis Mission Consortium 합류"
+          },
+          {
+            "t": "p",
+            "x": "컨소시엄에는 Nvidia와 Amazon Web Services, Microsoft, IBM, Advanced Micro Devices가 이름을 올렸다. 그 가운데 과학 출판사는 Wiley 하나뿐이다. 발표는 7월 22일 워싱턴 D.C.에서 열린 첫 Genesis Mission 연례 서밋에 맞춰 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "Genesis Mission은 2025년 11월 24일 Trump 대통령의 행정명령으로 만들어졌다. \"미국의 에너지 우위를 확보하고 과학적 발견을 앞당기며 국가 안보를 강화할 결정적 돌파구\"를 내놓겠다는 목표다. 2025년 1월 행정명령 'Removing Barriers to American Leadership In Artificial Intelligence', 2025년 7월에 나온 'America's AI Action Plan'의 연장선에 있다."
+          },
+          {
+            "t": "p",
+            "x": "Wiley는 컨소시엄의 일원으로 \"에너지부 산하 모든 국립연구소 연구자에게 자사 리서치 인텔리전스 도구를 제공할 계획\"이라고 했다. 컨소시엄이 구상하는 \"기초 지식 계층\" 설계에도 참여한다. 근거로 든 것은 \"이미 전 세계 과학 AI 응용에서 가장 많이 인용되고 라이선스되고 통합된 축에 드는 콘텐츠와 데이터\"다."
+          },
+          {
+            "t": "p",
+            "x": "Wiley의 AI·데이터 애널리틱스 팀은 \"AI 모델을 과학적 근거에 비추어 검증하는 방법, 과학 데이터를 관리하는 방법\"을 다루는 작업 그룹에도 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "Wiley CEO Matthew Kissner는 \"Genesis Mission은 AI와 데이터 애널리틱스에서 우리가 먼저 이룬 성과를 국가적으로 중요한 프로그램에 적용할 좋은 기회\"라고 말했다. 이어 \"과학을 빚어내는 AI 시스템이 전문가가 검증한 워크플로 위에 서고 권위 있는 동료심사 콘텐츠에 뿌리내리도록 다른 회원사와 함께 일하게 되어 자랑스럽다\"며 \"과학적 성과를 앞당기려면 신뢰할 수 있는 근거 위에 선 AI가 필요하다. 그게 Wiley의 AI 플랫폼과 워크플로, 파트너십을 관통하는 원칙\"이라고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "이번 합류는 Wiley가 벌여온 AI 사업의 최신 사례다. 2024년 이후 AI 라이선싱으로만 1억 달러가 넘는 매출을 올렸고, 여러 AI 기업과 손잡았으며, \"과학적 발견을 이끄는 상호운용 리서치 인텔리전스 플랫폼\"이라는 Wiley AI Gateway도 내놓았다. 1월에는 Armughan Rafat을 신설 직책인 최고 AI·데이터서비스 책임자로 앉혀 \"AI 개발사와 기업 R&D 팀을 겨냥한 AI 대응 콘텐츠·데이터 상품\"에 힘을 실었다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ipa-congress-ai",
+      "tool": "Books",
+      "eyebrow": "AI NEWS",
+      "headline": "쿠알라룸푸르 IPA 총회 패널을\n생성형 AI가 뒤덮었다",
+      "body": "학습 데이터 라이선싱부터 편집·제작 조직 개편까지, 패널 토론마다 생성형 AI가 중심에 놓였다.",
+      "mini_headline": "IPA 총회 덮은 AI",
+      "source": "Books+Publishing",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/22/334849/ai-dominates-global-publishing-conversation-at-ipa-congress/",
+      "accent": "#eb367f",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "멜버른대학과 RMIT의 연구진이 호주의 출판사와 편집자를 상대로 설문 조사를 시작했다. 생성형 AI를 실제 업무에서 어떻게 쓰는지 들여다보려는 것이다." },
-          { "t": "p", "x": "초점은 텍스트 기반 대규모언어모델에 맞췄다. 편집과 출판 현장의 여러 단계에서 이런 도구가 어디까지, 어떤 방식으로 스며들었는지를 실제 사용의 결을 따라 확인한다." }
+          {
+            "t": "p",
+            "x": "7월 5일부터 9일까지 말레이시아 쿠알라룸푸르에서 열린 International Publishers Congress에서 패널 토론의 최대 화두는 생성형 AI였다. 국제출판협회(IPA)가 주최한 자리다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/IPA-congress-400x473.jpg",
+            "cap": "International Publishers Congress"
+          },
+          {
+            "t": "p",
+            "x": "이야기의 폭은 넓었다. 책을 AI 학습 데이터로 라이선싱하는 문제에서 시작해, 출판사가 편집과 제작 업무를 AI에 맞춰 어떻게 다시 짤 것인지까지 이어졌다."
+          },
+          {
+            "t": "p",
+            "x": "Books+Publishing은 총회에 다녀온 호주 출판인 세 사람, Agata Mrva-Montoya와 Andrea Hanke, Louise Stark에게 현장 분위기를 물었다."
+          },
+          {
+            "t": "p",
+            "x": "35회째를 맞은 이번 총회의 주제는 'Publishing Intelligence, Sustaining Forward'였다. 40개국에서 500명가량이 모였고, 여섯 대륙에서 온 연사 70여 명이 무대에 섰다. AI 시대의 책임을 다루는 윤리 세션과 번역의 앞날을 짚는 세션이 나란히 놓였다."
+          }
         ]
       }
     }

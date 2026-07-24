@@ -1,21 +1,31 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "gadgets",
   "media": [
     {
-      "id": "adobe-indigo",
+      "id": "frameworkdesk",
       "type": "image",
-      "src": "pipeline/media/adobe-indigo.jpg"
+      "src": "pipeline/media/frameworkdesk.jpg"
     },
     {
-      "id": "openai-speaker",
+      "id": "mouthpad",
       "type": "image",
-      "src": "pipeline/media/openai-speaker.jpg"
+      "src": "pipeline/media/mouthpad.jpg"
     },
     {
-      "id": "samsung-health-assistant",
+      "id": "voicepad",
       "type": "image",
-      "src": "pipeline/media/samsung-health-assistant.jpg"
+      "src": "pipeline/media/voicepad.jpg"
+    },
+    {
+      "id": "ultrahumanemerald",
+      "type": "image",
+      "src": "pipeline/media/ultrahumanemerald.jpg"
+    },
+    {
+      "id": "geminilivemini",
+      "type": "image",
+      "src": "pipeline/media/geminilivemini.jpg"
     }
   ]
 }

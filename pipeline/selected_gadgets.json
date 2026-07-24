@@ -1,73 +1,130 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "gadgets",
   "selection_mode": "auto",
   "picks": [
     {
       "rank": 1,
-      "headline": "Adobe crams multiple AI tools into its experimental camera app",
-      "tool": "Adobe",
+      "headline": "Framework Desktop packs Ryzen AI Max, up to 192GB of RAM, and local AI into a mini PC",
+      "tool": "Framework",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
-      "source": "Engadget",
-      "published_iso": "2026-07-20T18:04:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg",
-      "excerpt": "Adobe adds a generative 'AI Playground' to its experimental Project Indigo camera app, letting mobile shooters remove distractions, apply artistic styles and get real-time photo guidance at the point of capture.",
-      "rationale": "Most actionable for creatives: generative AI moves into the camera at capture time, changing how designers and photographers shoot and edit on mobile."
+      "url": "https://www.digitaltrends.com/computing/framework-desktop-brings-ryzen-ai-max-192gb-ram-and-local-ai-to-a-mini-pc/",
+      "source": "Digital Trends",
+      "published_iso": "2026-07-23T03:36:00Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-feature-scaled.jpg?resize=1200%2C720",
+      "excerpt": "Framework's new Desktop pairs a Ryzen AI Max+ Pro 495 with up to 192GB of unified memory so creators can run frontier-class models like DeepSeek-V4-Flash entirely on a single local box.",
+      "rationale": "Highest actionability: a shipping desk-side box that lets a studio run frontier-class models locally, changing what design teams can do without sending work to the cloud."
     },
     {
       "rank": 2,
-      "headline": "Report: OpenAI's first device will be a portable speaker with a camera and sensors",
-      "tool": "OpenAI",
+      "headline": "Voicepilled vibe coders are drooling over this touchpad you control with your tongue",
+      "tool": "Augmental",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
-      "source": "9to5Mac",
-      "published_iso": "2026-07-14T21:14:00Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600",
-      "excerpt": "New reporting details OpenAI's debut device as a portable, screenless speaker with a camera and other sensors, positioned as a proactive AI companion and the first consumer product from the Ive-led io team.",
-      "rationale": "High-interest look at OpenAI's Jony Ive-designed first consumer device; 9to5Mac chosen over the duplicate Engadget version to hold Engadget at the outlet cap and diversify sources."
+      "url": "https://gizmodo.com/vibe-coders-ai-augmental-mouthpad-keyboard-mouse-2000789866",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-23T19:00:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/mouthpad-hero-7.jpg",
+      "excerpt": "Augmental's MouthPad tongue-controlled trackpad and whisper-detecting mic were built as accessibility devices, but AI-first coders are adopting them as a hands-free input layer for agent workflows.",
+      "rationale": "Genuinely new input paradigm: an accessibility device repurposed as the hands-free control surface for agentic work, the freshest interaction-design signal in the pool."
     },
     {
       "rank": 3,
-      "headline": "Samsung's new AI Health Assistant makes sense of your device data",
-      "tool": "Samsung",
+      "headline": "macOS 27 beta reveals hidden Siri 'Voice Pad' interface",
+      "tool": "Apple",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
+      "url": "https://www.macrumors.com/2026/07/23/macos-27-beta-hidden-siri-voice-ui/",
+      "source": "MacRumors",
+      "published_iso": "2026-07-23T10:53:00Z",
+      "og_image": "https://images.macrumors.com/t/iwIllyfONk3Cy6W_Z_MxFcuS9e0=/400x0/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg?lossy",
+      "excerpt": "A hidden macOS 27 interface lets you pick Siri's voice from an interactive spatial-audio grid of up to 13 American English voices that responds as the cursor moves.",
+      "rationale": "A rare look at how Apple designs a voice-selection UI as a spatial, cursor-responsive grid - directly instructive for anyone designing AI voice interfaces."
+    },
+    {
+      "rank": 4,
+      "headline": "Ultrahuman overhauls its app, brings all of its analysis on-device",
+      "tool": "Ultrahuman",
+      "category": "gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "url": "https://www.engadget.com/2220780/ultrahuman-overhauls-app-brings-all-of-its-analysis-on-device/",
       "source": "Engadget",
-      "published_iso": "2026-07-21T15:07:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg",
-      "excerpt": "Samsung launches a beta 'Health Assistant,' an AI chatbot inside Samsung Health that interprets data from Galaxy phones, watches and rings and offers physician-validated wellness guidance across its device ecosystem.",
-      "rationale": "Fresh ecosystem-level AI feature (distinct from the 07-18 Galaxy Watch hardware tease): an assistant that reads across Samsung's whole phone/watch/ring sensor stack."
+      "published_iso": "2026-07-23T13:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/ultrahuman-overhauls-its-app-brings-all-of-its-analysis-on-device/intro-1784735062.jpg",
+      "excerpt": "Ultrahuman's redesigned Emerald app simplifies the interface and moves all health analysis onto the ring itself, so its AI insights keep working with no internet connection.",
+      "rationale": "AI changes what the device does: moving the whole analysis layer onto the ring makes insights work offline, plus a full app redesign built around that shift."
+    },
+    {
+      "rank": 5,
+      "headline": "Google expands Gemini Live to some of its oldest smart speakers and displays",
+      "tool": "Google",
+      "category": "gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "url": "https://www.androidauthority.com/gemini-live-expands-to-first-gen-google-speakers-3690874/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-23T16:19:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2019/01/google-home-mini-colors-ces-2019.jpg",
+      "excerpt": "Google is rolling out Gemini Live to first-generation Google Home Mini and Nest Hub hardware, letting years-old speakers hold free-form conversational sessions instead of one-shot commands.",
+      "rationale": "A shipping rollout that turns years-old hardware into a free-form conversational device - the clearest case of AI changing what an existing product actually is."
     }
   ],
   "shortfall": {
     "target": 5,
     "floor": 3,
-    "selected": 3,
-    "reason": "At the floor of 3, not padded. Of the 5 filtered candidates, one is a hard content duplicate of a published story (Samsung Gaia) and two are the same OpenAI-speaker story (within-pool dup, kept once), leaving only 3 distinct never-before-published items."
+    "selected": 5,
+    "reason": "Target met."
   },
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-22 + days 2026-07-17 through 07-21).",
+    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-23 + days 2026-07-18 through 07-22).",
     "dropped_as_published_dup": [
       {
-        "url": "https://www.digitaltrends.com/computing/samsung-wants-to-put-its-own-chip-in-your-next-pc-and-its-all-about-speeding-up-ai-chores/",
-        "reason": "Content dup of published 'samsung-gaia' (Tom's Hardware, 07-19) - same Samsung Gaia AI-accelerator NPU story with HP/Lenovo validating the client-PC chip, reworded via a different outlet."
+        "url": "https://www.androidauthority.com/openai-device-screenless-speaker-chatgpt-leak-3687560/",
+        "reason": "Content dup of published 'openai-speaker' (9to5Mac, 07-23): same screenless portable ChatGPT speaker story via a different outlet."
+      },
+      {
+        "url": "https://www.androidauthority.com/google-home-july-update-conversational-memory-3690896/",
+        "reason": "Content dup of published 'gemini-home' (Android Authority, 07-20), which already covered Gemini for Home's continued-conversation fix for follow-up commands; also a same-day, same-source content-hub sibling of the kept Gemini Live piece."
+      },
+      {
+        "url": "https://www.gsmarena.com/samsung_unveils_intelligent_eyewear_smart_glasses_powered_by_android_xr-news-73811.php",
+        "reason": "Same product and core topic as published 'galaxyglasses' (Android Authority, 07-22): Samsung's Android XR eyewear on Snapdragon AR1 with Gemini built in."
+      },
+      {
+        "url": "https://www.gsmarena.com/eyeson_first_look_at_the_samsung_gentle_monster_and_warby_parker_smart_glasses-news-73841.php",
+        "reason": "Hands-on of the same Samsung Android XR eyewear already published as 'galaxyglasses' (07-22); also a within-pool dup of the two other smart-glasses candidates."
+      },
+      {
+        "url": "https://roadtovr.com/samsung-google-smart-glasses-designs-gentle-monster-warby-parker-release/",
+        "reason": "Same Samsung Intelligent Eyewear reveal as 'galaxyglasses' (07-22) and as the two GSMArena pieces; the whole cluster collapses to one already-published story."
       }
     ],
     "dropped_within_pool_dup": [
       {
-        "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
-        "reason": "Same OpenAI-first-device screenless-speaker story as the kept 9to5Mac article (07-14). Kept the earlier-dated 9to5Mac version to respect the Engadget <=2 outlet cap."
+        "url": "https://9to5google.com/2026/07/22/gemini-task-automation-samsung/",
+        "reason": "Overlaps the published 'oneui9' card (9to5Google, 07-22) on agentic Gemini automation across Galaxy apps, and repeats the Samsung XR glasses cluster in its second half."
       }
     ],
-    "backfill": "After dropping the Samsung Gaia hard dup and collapsing the two OpenAI-speaker articles into one, only 3 distinct never-before-published stories remain (Adobe AI Playground, OpenAI speaker, Samsung Health Assistant); all 3 are kept. No further unique fresh candidates exist in the 5-item pool - backfill cannot reach target 5. Not padded.",
-    "openai_speaker_note": "The OpenAI screenless-speaker rumor was mentioned in passing within the published 'codex-micro' card (07-20, about a different product - the Codex macropad), but is a distinct device story with its own dedicated reporting, so it is treated as a separate, publishable item.",
-    "diversity": "Final 3: Engadget x2 (at the <=2 cap), 9to5Mac x1 = 2 distinct outlets. Pool too small for >=3 outlets. Single-category section (gadgets); shared-category accents made distinct per pick from the sources.json palette (#ff5a4d, #0070f3, #f5a623). Topic spread: creative camera AI, AI companion hardware, health AI assistant."
+    "dropped_as_noise": [
+      {
+        "url": "https://www.digitaltrends.com/computing/samsungs-humanoid-ambitions-are-real-but-factories-come-first/",
+        "reason": "Corporate strategy/division news with no device behavior change - business noise per the section brief."
+      }
+    ],
+    "considered_not_selected": [
+      "9to5Google Gemini Nano 4 / Gemini Intelligence on Fold 8 - distinct from the published One UI 9 card, but adds a fourth consecutive day of Samsung-Unpacked Gemini coverage; held back for topic spread.",
+      "9to5Mac iOS 27 public beta 2 with Siri AI - solid but incremental beta news, and Apple is already represented by the macOS 27 Voice Pad pick.",
+      "Notebookcheck Honor Robot Phone gimbal leak - novel hardware but a week-old leaked video, lower credibility than the shipping items chosen.",
+      "SamMobile Galaxy My FanCam and MacRumors Apple Store shopping assistant - narrower, single-feature items.",
+      "Engadget Instagram bans on Meta-glasses filming - adjacent to the published 07-21 Meta privacy-LED story and more platform policy than device capability.",
+      "Digital Trends Cuddle-Fish floating robot - 07-12, oldest in the pool and research-demo rather than actionable."
+    ],
+    "backfill": "Seven candidates were dropped (five published dups, one within-pool dup, one business-noise item); each slot was refilled by walking down the ranked pool, reaching a full 5 distinct never-before-published stories.",
+    "diversity": "Final 5 spans 5 distinct outlets (Digital Trends, Gizmodo, MacRumors, Engadget, Android Authority), max 1 per domain - well inside the <=2 cap. Single-category section (gadgets); each pick gets a distinct accent from the sources.json palette (#ff5a4d, #0070f3, #f5a623, #7928ca, #2ec5c5). Topic spread: local-AI desktop, hands-free input, voice-UI design, on-device wearable health, smart-home assistant rollout - no two picks share a topic, and none repeats the smart-glasses / Samsung-Unpacked threads that dominated 07-18 through 07-23."
   }
 }

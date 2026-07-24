@@ -1,84 +1,190 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "games",
   "cards": [
     {
-      "id": "nvidia-siggraph",
+      "id": "fnaivoice",
       "eyebrow": "AI NEWS",
-      "headline": "시그래프서 공개된 뉴럴 렌더링과\n툴 속으로 들어온 AI 에이전트",
-      "mini_headline": "창작 도구 속 AI 에이전트",
-      "body": "엔비디아가 시그래프에서 뉴럴 렌더링과 코스모스 3 월드 모델을 공개해 실시간 4K 창작을 앞당겼다.",
+      "headline": "7월 30일부터 Fortnite 섬에\n말을 받아치는 AI NPC가 선다",
+      "mini_headline": "Fortnite AI NPC 정식화",
+      "body": "Epic이 Gemini로 움직이는 캐릭터 음성 36종을 열고, 7월 30일 UEFN 대화 시스템이 실험 딱지를 뗀다.",
       "tool": "Games",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/epic-games-ai-fortnite/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SIGGRAPH-2026-Keynote-21-1680x945.jpg" },
-          { "t": "p", "x": "엔비디아가 시그래프 2026에서 뉴럴 렌더링 신기술과 월드 파운데이션 모델 코스모스 3 엣지를 선보였다. 실시간 4K 콘텐츠를 더 세밀하게 다룰 수 있게 하는 것이 핵심으로, 창작자의 예술적 통제권을 넓히는 데 초점을 맞췄다. 이번 발표에는 그래픽 연구 성과 22건도 함께 담겼다." },
-          { "t": "p", "x": "모델 컨텍스트 프로토콜(MCP) 연동도 넓어졌다. 이제 AI 에이전트가 블렌더, 언리얼 엔진, 어도비 크리에이티브 클라우드 같은 창작 도구 안에서 곧바로 작업을 거든다. 다만 무엇을 만들지 결정하는 몫은 여전히 사람에게 남겨, 창작의 판단은 사람이 쥔다는 원칙을 지켰다." }
+          {
+            "t": "img",
+            "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/disneyvillains-1.jpg",
+            "cap": "Image: Epic Games"
+          },
+          {
+            "t": "p",
+            "x": "Epic Games가 Fortnite 캐릭터 36종에 일관된 목소리와 페르소나를 붙였다. Agent Jones, The Imagined 같은 기존 얼굴들이 대상이다. 이 목소리는 Unreal Editor for Fortnite(UEFN)용이라, 창작자가 자기 섬에 캐릭터와 음성을 같이 올릴 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "음성을 돌리는 건 Google의 Gemini AI다. 연기는 독립 전문 배우들이 개발자 제작 섬에 쓰이는 조건으로 따로 녹음했다. 에픽은 블로그에서 배우들이 자신의 연기를 음성 모델 개발에 쓰는 데 동의했다고 밝혔고, 다음 순서로 관련 길드와 Fortnite 배틀로얄에 참여했던 성우들을 만나 원래 목소리를 생태계 전반에 여는 길을 찾겠다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "AI 캐릭터를 넣는 대화 시스템은 올해 4월에 나왔다. 플레이어가 말을 걸면 캐릭터가 받아치고, 세션 안에서 벌어진 일을 기억해 행동을 바꾸며, 게임 속 이벤트까지 건드린다."
+          },
+          {
+            "t": "p",
+            "x": "지금까지는 Experimental 딱지가 붙어 있었다. 만들 수는 있어도 퍼블리시는 막혔다. 7월 30일이면 그 딱지가 떨어지고, 대규모 언어 모델로 움직이는 NPC를 심은 섬을 그대로 공개할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Fortnite의 AI 이력이 매끄럽기만 했던 건 아니다. Disney가 허락해 로비에 등장한 AI Darth Vader는 플레이어들이 욕설을 뱉게 만드는 구멍을 금세 찾아냈다. 패치로 막았지만 소문은 이미 퍼진 뒤였다. 세계 최대 퍼블리셔가 성우 연기를 LLM으로 대체한다는 사실 자체가 업계 배우들에게는 무거운 소식이다."
+          }
         ]
       }
     },
     {
-      "id": "ai-2d-to-3d",
+      "id": "openriglogic",
       "eyebrow": "AI NEWS",
-      "headline": "2D 도면을 게임용 3D로\n바꾸는 새 AI 기법 공개",
-      "mini_headline": "2D를 3D로 바꾸는 AI",
-      "body": "평면 2D 그림을 게임에 바로 쓸 수 있는 3D 형상으로 바꿔, 수작업 모델링 부담을 크게 던다.",
+      "headline": "MetaHuman 릭을 Blender로\n그대로 옮기는 OpenRigLogic",
+      "mini_headline": "Blender 속 MetaHuman 릭",
+      "body": "Poly Hammer가 OpenRigLogic을 Blender에 붙여, MetaHuman DNA의 거동을 Unreal 밖에서 손본다.",
+      "tool": "Social",
+      "source": "Unreal Engine (YouTube)",
+      "url": "https://www.youtube.com/watch?v=WZhDr5Ktf9c",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "WZhDr5Ktf9c"
+          },
+          {
+            "t": "p",
+            "x": "Unreal Fest에서 Epic이 MetaHuman Devkit을 공식 발표한 뒤, Poly Hammer가 OpenRigLogic을 Blender 안으로 통합했다. 이번 Inside Unreal 세션은 그 결과물을 직접 보여준다."
+          },
+          {
+            "t": "p",
+            "x": "핵심은 무료 애드온이다. Unreal Engine에서 쓰던 MetaHuman 릭을 1대1로 옮겨, Blender에서도 같은 리그를 그대로 잡는다."
+          },
+          {
+            "t": "p",
+            "x": "세션 후반은 고급 워크플로로 넘어간다. Blender만 가지고 MetaHuman DNA의 거동을 어떻게 바꾸는지 다룬다. 릭 로직이 Unreal 밖에서도 돈다는 뜻이라, Blender를 축으로 캐릭터를 만드는 아티스트에게는 얼굴 리그를 다룰 통로가 하나 더 생겼다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "steamcensus",
+      "eyebrow": "AI NEWS",
+      "headline": "Steam 신작 셋 중 하나가\n이미 AI 사용을 밝히고 있다",
+      "mini_headline": "Steam AI 표기 30.8%",
+      "body": "2026년 Steam 신작의 30.8%가 AI 사용을 표기했고, 이 기울기면 2027~2028년에 절반을 넘긴다.",
       "tool": "Games",
       "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/new-method-teaches-ai-to-make-2d-designs-3d-and-now-im-afraid-this-will-be-how-the-robots-learn-to-build-themselves-without-us/",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg" },
-          { "t": "p", "x": "연구진이 평면 2D 디자인과 드로잉을 온전한 3D 모델로 바꾸는 새 AI 기법을 내놨다. 그림 한 장을 입체 형상으로 끌어올리는 방식으로, 손으로 하나씩 다듬던 모델링 과정을 크게 줄인다." },
-          { "t": "p", "x": "게임 에셋 제작 흐름에는 곧바로 와닿는 변화다. 콘셉트 아트를 게임에 바로 쓸 수 있는 지오메트리로 옮기면서, 스케치에서 완성 모델에 이르는 길이 한결 짧아진다." }
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/AWsSzZBSvPQVFFuS2oKTcL-1200-80.png"
+          },
+          {
+            "t": "p",
+            "x": "2017년 6월 Steam Direct가 열리기 전까지, 한 달에 500종을 넘긴 적은 2016년 12월 518종 딱 한 번이었다. 2025년 2월 이후로는 월 1,500종 아래로 내려간 달이 없다. 2025년 한 해 출시량은 21,382종, 2026년은 7월 중순에 벌써 13,359종이 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "이 숫자를 다시 들여다보게 만든 건 Sulka Haro의 글이다. 얼리 액세스 MMO Pax Dei를 만드는 핀란드 스튜디오의 공동창업자로, Habbo Hotel과 The Walking Dead 게임들을 거쳤다. 그는 2023년 중반부터 2026년 중반까지 나온 약 53,600종을 전수 조사해 AI 표기를 단 게임을 셌다. 표기란 자체는 2024년 1월에야 생겼다."
+          },
+          {
+            "t": "p",
+            "x": "2024년에는 10.9%, 2025년에는 19.9%였다. 2026년 7월 시점에서 올해 나온 게임의 30.8%가 AI 표기를 달고 있다. Haro는 Steam의 출시량이 크게 늘었지만 그 증가가 고르게 퍼지지 않았다고 적었다. AI를 쓰지 않은 신작은 월 1,030종에서 1,320종으로 완만히 올랐고, AI 표기 신작은 의무화 전 월 13종 수준에서 530종으로 뛰었다."
+          },
+          {
+            "t": "p",
+            "x": "이 기울기가 유지되면 2027년에서 2028년 사이 어느 지점에서 Steam 게임의 절반이 AI 표기를 달게 된다. 정작 그중 돈을 버는 게임은 사실상 없고, 리뷰가 붙는 경우도 드물다. 퍼블리셔 없이 움직이는 소규모 개발자가 매대에서 눈에 띄기는 그만큼 더 어려워진다."
+          }
         ]
       }
     },
     {
-      "id": "atelico",
+      "id": "mkwiicomp",
       "eyebrow": "AI NEWS",
-      "headline": "저전력 온디바이스 AI를\n내건 스튜디오 아텔리코",
-      "mini_headline": "온디바이스 윤리 AI",
-      "body": "스튜디오 아텔리코가 저전력 온디바이스 생성형 AI와 정당한 보수를 앞세워 데뷔작을 준비한다.",
+      "headline": "Mario Kart Wii를 PC로 옮긴\n첫 정적 리컴파일, 문제는 AI",
+      "mini_headline": "AI로 짠 Wii 리컴파일",
+      "body": "patchzy가 AI 코딩으로 Mario Kart Wii를 PC용 정적 리컴파일로 옮겼고, 팬들은 곧장 등을 돌렸다.",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/racing/mario-kart-wii-is-being-rebuilt-for-pc-but-the-projects-ai-vibe-coding-instantly-soured-many-nintendo-fans-on-the-project/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://assetsio.gnwcdn.com/bobium-brawlers-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp" },
-          { "t": "p", "x": "스튜디오 아텔리코가 게임 속 생성형 AI의 방향을 윤리적이고 저전력이며, 기기 안에서 도는 온디바이스 방식으로 잡았다. 서버에 기대지 않고 단말에서 처리하는 구조로, 지금 업계가 안고 있는 고민을 다르게 풀어보려는 시도다." },
-          { "t": "p", "x": "데뷔작 보비움 브롤러스는 \"고전적인 게임 디자인에 AI의 가능성을 더한\" 작품을 지향한다. 무엇보다 참여한 아티스트 모두에게 정당한 보수를 지급했다는 점을 내세워, 창작물을 착취적으로 긁어모으는 AI 흐름에 선을 긋는다." }
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/dz78u7jn2wiEyfBAbmj6e3-1920-80.jpg"
+          },
+          {
+            "t": "p",
+            "x": "개발자 patchzy가 Mario Kart Wiicompiled를 공개했다. 티저 영상과 함께 올린 글에서 Wii 게임을 정적 리컴파일한 첫 사례라고 밝혔고, 8월 베타에 온라인 플레이와 선택형 Retro Rewind 지원, 트랙 200개 이상을 예고했다."
+          },
+          {
+            "t": "p",
+            "x": "Wii 게임에 정적 리컴파일이 통한다면 그것만으로도 반길 일이다. 다른 Wii 타이틀이 PC로 넘어올 문이 열리기 때문이다. 디컴파일과 리컴파일은 고전 게임 커뮤니티를 묶어온 축이기도 하다. 곧 나올 Spyro 프로젝트만 해도 개발진이 AI를 쓰지 않았다고 앞세운다."
+          },
+          {
+            "t": "p",
+            "x": "Mario Kart Wiicompiled에는 그런 약속이 없다. 프로젝트 Discord는 코드에 AI를 썼다고 못 박았다. AI 아트나 에셋은 만들지 않았다는 단서를 달았지만, 원 트윗 답글을 조금만 내려보면 AI로 짠 프로젝트를 아예 거부하겠다는 반응이 줄줄이 달린다."
+          },
+          {
+            "t": "p",
+            "x": "비슷한 신경전은 곳곳에 있다. PS3 에뮬레이터 RPCS3 개발자들은 기여자들에게 AI가 뱉은 코드를 그만 보내달라고 호소했다. Donkey Kong 64: Recompiled 팀은 vibe coding 경쟁작을 앞지르려 프로젝트를 일찍 공개했다. 엉성한 AI 프로젝트가 먼저 나와버리면 제대로 만들려던 개발자가 손을 놓는다는 걱정이, 고전 게임 PC 이식판 전반에 깔려 있다."
+          }
         ]
       }
     },
     {
-      "id": "kaneko",
+      "id": "inworldtts",
       "eyebrow": "AI NEWS",
-      "headline": "페르소나 아티스트, 다음 작품엔\n생성형 AI를 쓰지 않는다",
-      "mini_headline": "손그림으로 돌아간 카네코",
-      "body": "카네코 카즈마가 두 차례 반발을 겪은 뒤, 직접 그리는 편이 빠르다며 차기작에 생성형 AI를 뺀다.",
-      "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/rpg/persona-and-shin-megami-tensei-artist-isnt-using-generative-ai-in-his-next-game-following-backlash-to-his-last-2-deckbuilders/",
+      "headline": "잘 뽑힌 AI 음성 테이크를\n다시 불러오는 Inworld 기록",
+      "mini_headline": "AI 음성에 붙은 히스토리",
+      "body": "Inworld TTS Playground가 뽑아낸 음성마다 보이스와 모델, 설정을 남겨 언제든 되살린다.",
+      "tool": "Social",
+      "source": "Inworld AI (YouTube)",
+      "url": "https://www.youtube.com/watch?v=0uPl_pmFwAQ",
       "accent": "#2ec5c5",
-      "motif": "cube",
+      "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/BYZMRqeh5vBYm4F9o39HHL-2560-80.jpg" },
-          { "t": "p", "x": "페르소나와 진 여신전생을 그려온 베테랑 아티스트 카네코 카즈마가 차기작에는 생성형 AI를 쓰지 않겠다고 밝혔다. 앞서 AI의 도움을 받아 만든 덱빌더 두 편이 팬들의 반발을 산 뒤에 나온 결정이다." },
-          { "t": "p", "x": "그는 \"내가 직접 그리는 편이 더 빠르다\"고 말했다. 게임 아트 작업에서 여전히 손으로 그린 결과가 AI를 앞서는 지점이 어디인지, 그 경계를 또렷하게 짚어주는 사례다." }
+          {
+            "t": "video",
+            "yt": "0uPl_pmFwAQ"
+          },
+          {
+            "t": "p",
+            "x": "Inworld TTS Playground가 생성 기록을 통째로 남기기 시작했다. Clint가 시연하는 화면을 보면, 뽑아낸 클립이 보이스와 모델, 텍스트, 스티어링 태그를 달고 히스토리 패널에 차곡차곡 쌓인다."
+          },
+          {
+            "t": "p",
+            "x": "쌓인 테이크는 바로 다시 들을 수 있다. 마음에 드는 클립을 고르면 그때 쓴 설정이 플레이그라운드로 그대로 돌아오고, 파일로 내려받는 것도 된다. 여러 번 굴리다 좋은 테이크를 흘려버리는 일이 사라진다."
+          },
+          {
+            "t": "p",
+            "x": "찾는 방법도 갖췄다. 텍스트로 검색하고 보이스, 모델, 날짜로 거른다. 여러 개를 한꺼번에 골라 내려받거나 지울 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "Inworld는 소비자용 앱을 겨냥한 실시간 음성 AI 플랫폼이다. 상위권 텍스트 투 스피치와 음성 인식, LLM 라우터, 대화 규모를 감당하는 Realtime API를 한데 묶었다. 게임 대사를 다루는 사운드 팀 입장에서는 그동안 비어 있던 버전 관리 층이 하나 생긴 셈이다."
+          }
         ]
       }
     }
