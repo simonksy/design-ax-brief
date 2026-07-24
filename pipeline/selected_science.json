@@ -1,57 +1,84 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "science",
   "selection_mode": "auto",
   "target": 5,
   "floor": 3,
-  "selected_count": 3,
+  "selected_count": 5,
   "shortfall": 0,
   "picks": [
     {
       "tool": "Science",
-      "headline": "AI와 양자화학을 엮어 효율적인 청색 OLED 소재를 찾다",
-      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
-      "source": "Phys.org",
+      "headline": "GPT-5.6이 50년 묵은 그래프 이론 난제를 증명했다",
+      "url": "https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg",
-      "excerpt": "Nagoya University researchers combined machine learning with quantum chemistry to hunt for efficient blue OLED materials, training a model on quantum-chemistry data for 1,000 molecules and then screening more than 17,000 candidates. The AI slashed computational cost and surfaced promising emitters that were then validated experimentally, showing generative screening can accelerate materials discovery.",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/c426b813-2ec9-45c5-96ed-52b96a74ca63/graph-blue.jpg",
+      "excerpt": "OpenAI's GPT-5.6 Sol produced a proof of the cycle double cover conjecture, a graph-theory problem open for more than 50 years. Mathematicians say the result shows AI tools are already changing how mathematical research gets done, not just how it gets checked.",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Generative ML + quantum-chemistry screen of 17,000+ molecules, with hits validated experimentally — a concrete materials-discovery method; no URL or content match in published science history."
+      "rationale": "A machine-generated proof of a 50-year-old open conjecture is the highest-novelty AI-in-science result in the pool, and it shifts AI from proof-checker to proof-producer."
     },
     {
       "tool": "Science",
-      "headline": "물리 법칙을 실시간으로 검증하는 AI가 산란 매질 너머를 본다",
-      "url": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
-      "source": "Phys.org",
+      "headline": "확산 모델은 왜 베끼지 않고 새로 그리는가",
+      "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+      "source": "Google Research",
       "category": "science",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/biomedical-imaging-aut.jpg",
-      "excerpt": "UCLA researchers built DeepTimeGate, a physics-informed machine-learning framework that images through scattering media by pairing a reconstruction network with a second algorithm that enforces the fundamental rules of physics as a real-time reality check. The method enables high-quality imaging with low-cost cameras, with uses in biomedical imaging and autonomous-vehicle sensing.",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-1.gif",
+      "excerpt": "Google Research offers a mathematical account of why diffusion models produce genuinely new images rather than copies: a 'score smoothing' effect that emerges from neural-network training. The models interpolate between training examples along a hidden data manifold instead of memorizing them.",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Physics-as-a-guardrail architecture (DeepTimeGate) lets low-cost cameras image through scatter — actionable for biomedical and autonomous sensing; net-new, distinct topic from the OLED pick."
+      "rationale": "A first-party mathematical explanation of image-model originality — directly changes how designers reason about what a generative model is actually doing with training data."
     },
     {
       "tool": "Science",
-      "headline": "양자 기하학으로 양자 AI의 '치명적 망각'을 막다",
-      "url": "https://thequantuminsider.com/2026/07/22/new-framework-uses-quantum-geometry-to-help-quantum-ai-systems-remember-what-they-learn/",
-      "source": "The Quantum Insider",
+      "headline": "합성하기 전에 펩타이드 성질을 예측하는 오픈소스 AI",
+      "url": "https://phys.org/news/2026-07-source-ai-key-peptide-traits.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-22T14:30:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-10.30.52-AM.png",
-      "excerpt": "Researchers introduced QEWC, a quantum machine-learning framework that uses quantum geometry to stop 'catastrophic forgetting'—the tendency of models to lose earlier skills when trained on new tasks. By anchoring learning to the geometry of quantum states, quantum AI systems can retain what they have learned across sequential tasks.",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-platform-could-spee.jpg",
+      "excerpt": "Penn Engineers released PeptiVerse, an open-source AI platform that forecasts the chemical and biological properties of peptides before anyone synthesizes them. Screening in silico first could cut the cost and time of developing peptide drugs such as weight-loss therapeutics.",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Novel geometry-anchored fix for continual-learning forgetting in quantum ML, from a credible quantum-focused outlet — distinct topic and a third outlet for diversity."
+      "rationale": "An actually-released open-source platform (not a paper promise) that lets labs screen peptide candidates in silico before synthesis — usable capability, not commentary."
+    },
+    {
+      "tool": "Science",
+      "headline": "의료 AI는 생각보다 환자 정보를 훨씬 많이 흘린다",
+      "url": "https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/21-07-26-medical-ai-fig1.jpg",
+      "excerpt": "New work shows membership-inference attacks can pull sensitive patient information out of medical AI models far more effectively than the field assumed. The leakage is concentrated among underrepresented patient groups, meaning the privacy cost falls hardest on the people models already serve worst.",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "A measured attack result that resets a safety assumption for anyone training models on sensitive data, with a sharp fairness twist — the leakage concentrates on underrepresented groups."
+    },
+    {
+      "tool": "Science",
+      "headline": "호기심을 심은 로봇이 언어를 두 배 빨리 배웠다",
+      "url": "https://techxplore.com/news/2026-07-playful-ai-robots-mirror-toddlers.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/curious-robots-mimic-h-2.jpg",
+      "excerpt": "Okinawa Institute of Science and Technology researchers gave robots a curiosity-driven learning signal and found they picked up language roughly twice as fast as incurious counterparts. The robots spontaneously played and reproduced the same characteristic grammatical errors human toddlers make before recovering from them.",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Freshest item in the pool (07-23) and a genuine capability result: an intrinsic-curiosity signal doubles language-learning speed while reproducing human developmental error patterns."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.science in news_data.json — today (2026-07-22) + days (2026-07-21..2026-07-18).",
-    "kept": "Phys.org (Nagoya AI+quantum-chemistry OLED screening), Phys.org (UCLA DeepTimeGate imaging through scatter), The Quantum Insider (QEWC quantum-geometry continual learning) — no URL or content match in published science history.",
-    "dropped_duplicates": "Candidate #2 phys.org/news/2026-07-faster-quantum.html = CONTENT duplicate of published card 'willow-rl' (2026-07-21, thequantuminsider.com/.../google-study-shows-quantum-computer-can-learn-from-its-own-errors-while-it-computes): both describe a reinforcement-learning system that lets a quantum computer learn from its own error data and self-recalibrate mid-computation; same Google/Willow release, different outlet. Earliest-wins (07/21 already ran).",
-    "shortfall": "Selected 3 of target 5 (meets floor 3). Filtered pool held only 4 items; after dropping the quantum-self-correction duplicate, 3 unique never-before-published stories remained. Not padded and no dropped item re-used.",
-    "diversity": "Three picks across two outlets (Phys.org x2, The Quantum Insider x1) — within the max-2-per-outlet guard; a third distinct outlet was unavailable because the fresh pool was exhausted. Single science category, so each pick given a distinct palette accent (#2ec5c5, #0070f3, #7928ca)."
+    "checked_against": "sections.science in news_data.json — today (2026-07-23: oled-ai, deeptimegate, qewc) + days 2026-07-22 (flatband, baker, openadmet, goflow), 2026-07-21 (willow-rl), 2026-07-20 (chathea, k2-18b-seti, scent-ai, denning-critique), 2026-07-19 (platon, paper-mill, novotags, ai-res, lab-animal-ai), 2026-07-18 (amber, kandy, nanoshape).",
+    "dropped_duplicates": "techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html (Tohoku 'AI-powered closed-loop framework' coupling ML to automated experiments to speed clean-energy materials) = CONTENT duplicate of published card 'chathea' (2026-07-20, phys.org/news/2026-07-large-language-discovery-catalysts-energy.html), which is the same Tohoku AI-plus-high-throughput-experiment loop for clean-energy catalyst discovery, covered via a different outlet. Earliest-wins, so dropped and backfilled.",
+    "dropped_offtopic": "statnews.com hospital-AI-governance (leadership/accountability, not an AI-in-science result), thequantuminsider.com IonQ/QuantumBasel energy-advantage study (vendor projection, single workload; quantum-AI already ran twice in the last 4 days via willow-rl and qewc).",
+    "backfill": "After the Tohoku drop, selection continued down the ranked pool; the fifth slot went to the next-best surviving candidate (OIST curiosity robots) rather than re-using any dropped item.",
+    "runners_up": "Universe Today (AI biosignature classifiers fooled with 100% confidence), Google Research SymptomAI national study, Phys.org CAMulator subseasonal emulator, Phys.org extended-Higgs ML scan, MIT News neural transparency.",
+    "diversity": "Five picks across five distinct outlets (Scientific American, Google Research, Phys.org, Physics World, Tech Xplore) — max 1 per outlet, well inside the max-2 guard. Topic spread: pure math, generative-model theory, drug discovery, medical-AI privacy, developmental robotics. Single science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f). No two picks share a URL."
   }
 }

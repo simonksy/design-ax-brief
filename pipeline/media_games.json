@@ -1,27 +1,33 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "games",
   "media": [
     {
-      "id": "nvidia-siggraph",
+      "id": "fnaivoice",
+      "type": "image",
+      "src": "pipeline/media/fnaivoice.jpg"
+    },
+    {
+      "id": "openriglogic",
       "type": "video",
-      "src": "pipeline/media/nvidia-siggraph.mp4",
-      "poster": "pipeline/media/nvidia-siggraph.jpg"
+      "src": "pipeline/media/openriglogic.mp4",
+      "poster": "pipeline/media/openriglogic.jpg"
     },
     {
-      "id": "ai-2d-to-3d",
+      "id": "steamcensus",
       "type": "image",
-      "src": "pipeline/media/ai-2d-to-3d.jpg"
+      "src": "pipeline/media/steamcensus.png"
     },
     {
-      "id": "atelico",
+      "id": "mkwiicomp",
       "type": "image",
-      "src": "pipeline/media/atelico.png"
+      "src": "pipeline/media/mkwiicomp.jpg"
     },
     {
-      "id": "kaneko",
-      "type": "image",
-      "src": "pipeline/media/kaneko.jpg"
+      "id": "inworldtts",
+      "type": "video",
+      "src": "pipeline/media/inworldtts.mp4",
+      "poster": "pipeline/media/inworldtts.jpg"
     }
   ]
 }

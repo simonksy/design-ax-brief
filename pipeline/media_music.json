@@ -1,9 +1,11 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "music",
   "media": [
-    { "id": "lydia", "type": "video", "src": "pipeline/media/lydia.mp4", "poster": "pipeline/media/lydia.jpg" },
-    { "id": "acestudio2", "type": "video", "src": "pipeline/media/acestudio2.mp4", "poster": "pipeline/media/acestudio2.jpg" },
-    { "id": "meawchain", "type": "image", "src": "pipeline/media/meawchain.jpg" }
+    { "id": "concatenator", "type": "video", "src": "pipeline/media/concatenator.mp4", "poster": "pipeline/media/concatenator.jpg" },
+    { "id": "peelstems2", "type": "image", "src": "pipeline/media/peelstems2.jpg" },
+    { "id": "sonyudio2", "type": "image", "src": "pipeline/media/sonyudio2.jpg" },
+    { "id": "socanmai", "type": "image", "src": "pipeline/media/socanmai.jpg" },
+    { "id": "aiacts61m", "type": "image", "src": "pipeline/media/aiacts61m.jpg" }
   ]
 }

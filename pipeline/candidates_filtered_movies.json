@@ -1,67 +1,148 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "movies",
-  "now_iso": "2026-07-22T23:00:00Z",
+  "now_iso": "2026-07-24T00:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
-      "title": "Autodesk Adds AI and 3D Gaussian Splat Tools Across Maya, 3ds Max and Arnold",
-      "source": "postPerspective",
+      "url": "https://www.awn.com/news/higgsfield-debuts-k-k-b-r-showcasing-hybrid-human-ai-animation-pipeline",
+      "title": "Higgsfield Debuts 'Kök Börü' Showcasing Hybrid Human-AI Animation Pipeline",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-07-22T18:35:11Z",
-      "og_image": null,
-      "excerpt": "At SIGGRAPH 2026, Autodesk introduced AI-powered capabilities across Maya, 3ds Max and Arnold, including MotionMaker's 'Bring Your Own Data' custom motion models, editable 3D Gaussian splats in 3ds Max, unified review in Flow Production Tracking, and Arnold interactive viewport rendering, all aimed at streamlining animation and VFX workflows."
+      "published_iso": "2026-07-23T18:15:44Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/kokboru1.jpg?itok=GWcRy1zx",
+      "excerpt": "Premiering at SIGGRAPH 2026, the 15-minute animated short — a historical drama rooted in Central Asian folklore — was made by a team of 12 in two weeks on the Higgsfield platform. The studio walked through a hybrid, human-conditioned pipeline built on hand-drawn character designs, props and painted textures."
     },
     {
-      "url": "https://www.cartoonbrew.com/series/disney-jr-animaj-ozzy-youtube-264646.html",
-      "title": "Disney Jr. and French AI Animation Outfit Animaj Quietly Release 'Ozzy Fox' on YouTube",
+      "url": "https://www.awn.com/news/autodesk-adds-maya-3ds-max-flow-production-tracking-and-arnold-tools",
+      "title": "Autodesk Adds Maya, 3ds Max, Flow Production Tracking and Arnold Tools",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-07-23T16:30:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/mm-byod-still-21-1280.jpg?itok=_UNe9HHM",
+      "excerpt": "Autodesk's SIGGRAPH 2026 announcements include MotionMaker 'Bring Your Own Data' in Maya, letting animators condition AI-assisted motion on their own performance data, plus editable 3D Gaussian Splats in 3ds Max, Review in Flow Production Tracking and real-time Arnold viewport rendering."
+    },
+    {
+      "url": "https://www.awn.com/news/lightcraft-technology-opens-spark-story-beta-siggraph-2026",
+      "title": "Lightcraft Technology Opens Spark Story Beta at SIGGRAPH 2026",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-07-20T20:17:05Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/web_library_locations-1280.jpg?itok=NDkiU7Xb",
+      "excerpt": "Lightcraft launched a rolling beta of Spark Story, its interactive previs tool, adding a 3D asset library, real-time compositing, Spark Atlas and direct USD loading — pushing generative previsualization closer to a working shot-planning pipeline."
+    },
+    {
+      "url": "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/",
+      "title": "SIGGRAPH: 'Kök Börü' Director Amina Ömirjan Talks Frankly About the Making of Higgsfield AI's New Short",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-07-22T23:51:33Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Kok-Boru-trailer-sc.jpg",
+      "excerpt": "Co-director Amina Ömirjan discusses the craft realities of making Higgsfield AI's animated short 'Kök Börü' — where human artists led design and where generative tooling took over — and answers hard questions about AI animation."
+    },
+    {
+      "url": "https://www.animationmagazine.net/2026/07/siggraph-autodesk-announces-new-tools-to-accelerate-animation-vfx-workflows/",
+      "title": "SIGGRAPH: Autodesk Announces New Tools to Accelerate Animation & VFX Workflows",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-07-22T17:23:21Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Kok-Boru-trailer-sc.jpg",
+      "excerpt": "Animation Magazine's SIGGRAPH 2026 write-up of Autodesk's AI-assisted animation and VFX updates across Maya, 3ds Max, Flow Production Tracking and Arnold, aimed at the time-sinks in blocking, environment rebuild and review."
+    },
+    {
+      "url": "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/",
+      "title": "Vigloo Studio: New AI Platform for Short-Form Microdramas",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vigaloo-624x416.jpg",
+      "excerpt": "Korean microdrama platform Vigloo launched the beta of Vigloo Studio, an AI-native production tool for serialized short-form storytelling. It consolidates AI video and image generation, character management and community features into one environment, replacing workflows that previously spanned up to 15 external tools."
+    },
+    {
+      "url": "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/",
+      "title": "Jamie Hearing on how Clear Angle is scanning the future of VFX",
+      "source": "fxguide",
+      "category": "movies",
+      "published_iso": "2026-07-14T14:48:48Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-clear_angle.jpg",
+      "excerpt": "From LiDAR to Gaussian splats, Clear Angle is capturing the real world so VFX teams can rebuild it — one scan, one face and one lava field at a time. A look at how neural capture is reshaping on-set data acquisition."
+    },
+    {
+      "url": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
+      "title": "Adobe Premiere is adding a Generative Media Tool",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-07-10T12:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-000965-gen-media-tool.jpg",
+      "excerpt": "Adobe's new Generative Media Tool lets editors create AI-generated video and sound effects directly on the Premiere timeline — drag across empty track space, prompt, and choose a model — without leaving the NLE."
+    },
+    {
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/netflix-genai-300-titles-in-first-half-2026-264631.html",
+      "title": "Netflix Used GenAI Workflows On Nearly 300 Titles This Year So Far",
       "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-07-17T17:01:20Z",
+      "published_iso": "2026-07-17T13:00:44Z",
       "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Ozzy-Fox.jpg",
-      "excerpt": "Disney Jr. and French AI animation company Animaj released a new preschool series, 'Ozzy Fox,' on YouTube, a look at how an AI-driven animation studio is producing kids' content at speed. The show reached nearly 800,000 views within two days of launch."
+      "excerpt": "Netflix says generative-AI workflows touched roughly 300 titles in the first half of 2026, concentrated in post-production — crowd extension, establishing shots and historical sequences."
     },
     {
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "title": "Neill Blomkamp's New Zombie AI 'Film' Is Just Slop Warmed Over",
-      "source": "The Verge",
+      "url": "https://deadline.com/2026/07/christopher-nolan-praises-gen-z-utterly-rejecting-ai-1236979769/",
+      "title": "Christopher Nolan Praises Gen Z For \"Utterly Rejecting\" AI Slop",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-07-21T22:06:43Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all",
-      "excerpt": "Neill Blomkamp's zombie short 'Nightborne,' produced for AI startup Barley Studios using ByteDance's Seedance generative-video model, becomes a high-profile stress test of AI filmmaking, and lands as evidence that text-to-video generators still can't reliably churn out quality films."
+      "published_iso": "2026-07-11T02:32:41Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/07/P11896ND-e1783736549717.jpg?w=1024",
+      "excerpt": "As Christopher Nolan prepares to take viewers on an IMAX odyssey, he argues the next generation of filmmakers is rejecting generative output on craft grounds — 'it's hitting at exactly the wrong time.'"
     },
     {
-      "url": "https://postperspective.com/hp-and-adobe-offer-digital-twin-capture-built-for-scale/",
-      "title": "HP Z Captis + Adobe Substance 3D: Digital Twin Capture Built for Scale",
-      "source": "postPerspective",
+      "url": "https://deadline.com/2026/07/sag-aftra-recommends-members-opt-out-meta-ai-feature-1236979025/",
+      "title": "SAG-AFTRA Recommends Members Opt-Out Of Meta's AI Feature",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-07-22T17:45:57Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2.jpg",
-      "excerpt": "HP and Adobe's updated HP Z Captis, paired with Adobe Substance 3D, delivers faster capture speeds, finer imaging control and new frame-rate and resolution options for producing photoreal digital twins at scale, feeding scanned real-world assets into VFX and virtual-production pipelines."
+      "published_iso": "2026-07-10T03:49:07Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/07/Meta-AI-SAG-AFTRA-2-shot.jpg?w=1024",
+      "excerpt": "As Meta's new AI image feature sparks likeness concerns, SAG-AFTRA is telling performers how to opt out and protect their image — a practical marker for how synthetic-performer consent is being handled."
     },
     {
-      "url": "https://nofilmschool.com/adobe-substance-3d-updates-openpbr",
-      "title": "Adobe Announces Major Substance 3D Updates Including OpenPBR Support Across Entire Ecosystem",
-      "source": "No Film School",
+      "url": "https://deadline.com/2026/07/tubi-substitute-teacher-house-rules-ai-wall-of-entertainment-1236981789/",
+      "title": "Tubi's 'Substitute Teacher' & 'House Rules' Partner With AI Platform",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-07-22T17:07:37Z",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67521076&width=1200&height=600",
-      "excerpt": "Adobe rolled out a major round of Substance 3D updates, headlined by expanded OpenPBR material support and new innovations in Substance 3D Painter, tightening the texturing and look-development toolset that VFX and virtual-production artists rely on for photoreal film assets."
+      "published_iso": "2026-07-14T17:00:00Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/07/subsitute-teacher.jpeg?w=1024",
+      "excerpt": "Tubi series 'Substitute Teacher' and 'House Rules', produced by Wall of Entertainment, have partnered with AI platform Chronicle Media — a streaming-scale test of AI tooling inside episodic production."
     },
     {
       "url": "https://variety.com/2026/film/global/raindance-israel-ai-platform-imgn-development-fund-1236809594/",
-      "title": "Raindance Film Festival and AI Platform IMGN Launch New Film Fund and Development Hub",
+      "title": "Raindance Film Festival, AI Platform IMGN Launch New Film Fund and Development Hub for Indie Filmmakers",
       "source": "Variety",
       "category": "movies",
       "published_iso": "2026-07-16T11:57:42Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/Raindance.jpg?w=1000",
-      "excerpt": "Raindance Film Festival is partnering with AI platform IMGN to launch a film fund and development hub for indie filmmakers, an institutional push to fold generative-AI tools into how independent films are developed and produced."
+      "og_image": "https://variety.com/wp-content/uploads/2026/07/Raindance.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Raindance and AI platform IMGN are launching a development hub that puts generative production tooling — plus financing — in the hands of independent filmmakers."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-films-promise-sharknado-doctor-who-1236648616/",
+      "title": "Creatives from 'Sharknado' and 'Doctor Who' Are Now Making AI Films",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-07-15T15:00:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/PromiseTuning.png?w=960&h=540&crop=1",
+      "excerpt": "For its new slate, the startup Promise AI is pairing traditional screenwriters and showrunners with generative creators — including releasing the animated AI film 'Tuning In' — as a test of what a hybrid AI film crew looks like."
+    },
+    {
+      "url": "https://www.youtube.com/shorts/Tr0AzAljYUE",
+      "title": "FREE SAM2 Matting Tool",
+      "source": "Curious Refuge",
+      "category": "social",
+      "published_iso": "2026-07-23T18:17:59Z",
+      "og_image": "https://i.ytimg.com/vi/Tr0AzAljYUE/maxresdefault.jpg",
+      "excerpt": "A free SAM2-based matting tool demoed for AI filmmakers — segmentation-driven roto/matte extraction that slots into a generative-video post workflow."
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 6,
+    "dropped": 7,
+    "kept": 15,
     "against_days": 5
   }
 }

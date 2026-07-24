@@ -1,62 +1,198 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "design",
-  "now_iso": "2026-07-22T23:00:00Z",
+  "now_iso": "2026-07-24T00:00:00Z",
   "window_hours": 72,
-  "note": "RECOVERY PASS. Prior run yielded 0 publishable (1 dup). WebSearch budget was already exhausted (200/200), so this pass ran entirely off curl'd RSS/article metadata (og:article:published_time + JSON-LD datePublished verified for every item). Added 6 NET-NEW fresh design x AI items not present in news_data.json.sections.design: Autodesk SIGGRAPH round-up (Creative Bloq), Maya 2026.2 train-your-own AI animation models + 3ds Max 2026.2 editable Gaussian Splats (CG Channel), two UX Collective/uxdesign pieces on AI in the design workflow, and a dev.to art-director-in-the-AI-era piece. All verified published after 2026-07-19T23:00Z. VentureBeat AI feed was all enterprise-compute/agent-security business noise (dropped per relevance test). The pre-existing Meshy 3D Agent item is retained but is a known dup of the 07-22 brief (curator will dedup).",
+  "note": "Day-24 BROAD pass across the 7 design categories. Search-engine site: filters proved unreliable, so most collection ran off allowed_domain listing pages + RSS/Atom feeds with published times verified from og:article:published_time / JSON-LD datePublished (curl). CG Channel exposes no og/JSON-LD date, so its three items use the on-page byline date (Jul 22-23) at a nominal 12:00Z -- all safely inside the 72h window either way. Dropped for staleness: Engadget 'Adobe Project Indigo AI camera app' (2026-07-20T18:04Z, 78h), fxguide SwitchHDR (Jul 9), all uxdesign.cc AX/interface essays from Jul 1-13, Smashing Magazine / CSS-Tricks (nothing AI+design inside window), LogRocket (newest AI piece Jul 9), Fast Company design RSS (newest Jul 17), MindStudio (Jul 22 posts are finance/ops automation, no design hook). Dropped for design-relevance: CIO Gemini / OpenAI-Presence / AI-talent-war items, Fireship 'open-weight 2.8T params', Verge Patreon layoffs and Anthropic voice mode, Vercel Agent (devops incident agent, and its Jul 21T00:00Z stamp sits exactly on the cutoff). Deprioritised as already-covered per keywords note: uxdesign 'The screens are getting demoted', 'I handed a UX review over to AI', Autodesk Maya/3ds Max SIGGRAPH items. Instagram attempted but login-walled -- zero verifiable post times, contributed nothing. Per-source cap respected: CG Channel 3, DEVELOP3D 3, UX Collective 3, 80 Level 2, Creative Bloq 2, Engadget 1, YouTube counted per-channel (Figma 2, DesignCourse 1, Adobe 1). 23 fresh candidates across 12 distinct outlets.",
   "items": [
     {
-      "url": "https://www.creativebloq.com/3d/autodesks-siggraph-announcements-look-unrelated-but-they-all-solve-the-same-huge-problem",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-07-22T14:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ixkM5tqng8Ex8QtuiFrXrE-1920-80.png",
-      "excerpt": "Creative Bloq argues Autodesk's scattered SIGGRAPH 2026 announcements -- new AI animation, editable Gaussian Splats and rendering tools across Maya and 3ds Max -- all converge on one goal: collapsing the gap between capture and creative iteration for artists."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/07/maya-2026-2-lets-you-train-your-own-ai-animation-models/",
+      "url": "https://www.cgchannel.com/2026/07/pilgway-releases-3dcoat-2026-and-3dcoattextura-2026/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-07-22T14:01:23Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260722_Maya20272_f.jpg",
-      "excerpt": "Maya 2026.2's new 'Bring Your Own Data' feature lets studios train their own AI models for the MotionMaker animation system using their own keyframe or mocap data, moving generative animation from a black box toward a studio-tunable, in-house workflow."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/07/autodesk-releases-3ds-max-2026-2-with-editable-gaussian-splats/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-07-22T15:49:23Z",
+      "published_iso": "2026-07-23T12:00:00Z",
       "og_image": null,
-      "excerpt": "3ds Max 2026.2 makes it possible to import, edit, relight and render 3D Gaussian Splat data directly inside the software, bringing radiance-field capture into a mainstream design/render pipeline alongside its other new features."
+      "excerpt": "Pilgway released 3DCoat 2026 and the cut-down 3DCoatTextura 2026, headlined by a new GPU-accelerated node-based texturing system plus updates to sculpting, retopology and painting. Note: byline date only (no og/JSON-LD timestamp on CG Channel); no AI features in this release."
     },
     {
-      "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-07-21T21:36:56Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*We3RETarXYEoHVKQy0GX_g.jpeg",
-      "excerpt": "A designer hands a full UX review over to AI and reports back: AI is a powerful partner for UX reviews but not a replacement for the expert, with accuracy coming from the domain expertise you feed it rather than the model itself."
+      "url": "https://www.cgchannel.com/2026/07/autodesk-releases-arnold-7-5-3/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260723_Arnold753_ShaderToRGBA.jpg",
+      "excerpt": "Autodesk's Arnold 7.5.3 adds new BSDF nodes for toon shading and an Accelerated Viewport mode for Maya, speeding up interactive look-dev. Byline date only (CG Channel exposes no og:published_time)."
     },
     {
-      "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-07-22T22:21:01Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*MYZNJTIK1o6qlF7KDs9T5Q.png",
-      "excerpt": "As AI grows more capable, the on-screen UI stops being the main focus of a product -- this piece reframes the designer's job around deciding which screens are still needed at all when interactions move to agents and ambient interfaces."
+      "url": "https://www.cgchannel.com/2026/07/sisir-is-a-promising-new-free-standalone-hair-grooming-tool/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/07/260722_Sisir_StandaloneFreeHairGroomingSoftware_UI.jpg",
+      "excerpt": "Sisir is a new free standalone hair-grooming tool that lets artists draw guides directly onto 3D characters and export the groom to Blender, Maya and UE5 -- a guide-based workflow that sidesteps each DCC's own hair system. Byline date only."
     },
     {
-      "url": "https://dev.to/designbytk/art-directors-advantage-in-the-ai-gen-era-4a3k",
+      "url": "https://80.lv/articles/arcbrush-1-5-upgrades-to-color-managed-32-bit-float-image-pipeline",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-07-23T15:26:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49434/images/6a6232b8948f6/contain_1200x630.jpg",
+      "excerpt": "ArcBrush 1.5 moves to a color-managed 32-bit float image pipeline with Cryptomatte support and eleven new nodes, while explicitly reducing the tool's focus on AI and simplifying licensing to a $49 Pro tier -- a rare counter-move to the AI-first trend in texturing tools."
+    },
+    {
+      "url": "https://80.lv/articles/this-tool-gives-every-blender-object-its-own-undo-history",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-07-23T16:22:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49435/images/6a623fcfb8785/contain_1200x630.jpg",
+      "excerpt": "A new Blender add-on gives every object its own independent undo history, working across Object Mode, Sculpt, Paint, Pose and Animation editors -- a small but structural change to how non-linear 3D iteration feels."
+    },
+    {
+      "url": "https://www.fxguide.com/quicktakes/stem3-know-your-led-volume-before-you-shoot/",
+      "source": "fxguide",
+      "category": "render",
+      "published_iso": "2026-07-23T21:02:40Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-ASC_volume.jpg",
+      "excerpt": "StEM3 gives filmmakers a free, standardised toolkit to test, validate and trust an LED volume before the cameras roll -- calibration infrastructure for virtual-production stages."
+    },
+    {
+      "url": "https://develop3d.com/visualisation/nvidia-backs-hybrid-ai-to-reshape-computer-graphics/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-07-22T12:12:31Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/nvidia-omniverse-libraries-1.jpg",
+      "excerpt": "At SIGGRAPH Nvidia laid out a 'hybrid AI' strategy for graphics: AI agents orchestrating classical rendering tools through new Omniverse libraries, aimed at controllable, physically accurate virtual worlds rather than one-shot generation."
+    },
+    {
+      "url": "https://develop3d.com/3d-scanning/hp-z-captis-adobe-substance/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-07-22T10:20:50Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/media_1eccf2340900cccd14c541eee88ca854c8c713dd9.jpg-copy.jpg",
+      "excerpt": "HP's Z Captis 3D scanner gains an AI boost through integration with Adobe Substance 3D Sampler, tightening the loop from physical object capture to production-ready materials and assets."
+    },
+    {
+      "url": "https://develop3d.com/manufacture/moduleworks-brings-physics-based-toolpaths-directly-into-nx-cam/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-07-23T11:04:50Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/moduleworks-nx-CAM-xcelerator.jpg",
+      "excerpt": "ModuleWorks is bringing physics-based toolpath generation directly into Siemens NX CAM as Xcelerator plugins, pushing simulation-informed machining upstream into the design-to-manufacture handoff."
+    },
+    {
+      "url": "https://www.builder.io/blog/why-every-agent-needs-a-face",
+      "source": "Builder.io",
+      "category": "figma",
+      "published_iso": "2026-07-23T18:00:00Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/e4c684308790474e89718aeee905de81?width=1200",
+      "excerpt": "Builder.io argues designers should 'treat AI as your next user, not another feature' -- giving every agent a visible surface, state and personality instead of burying it behind a chat box."
+    },
+    {
+      "url": "https://www.figma.com/blog/how-figma-stays-ahead-of-vulnerabilities-with-agents/",
+      "source": "Figma",
+      "category": "figma",
+      "published_iso": "2026-07-23T21:23:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/0aafc60d3967aa228537a2f8379ce3308849f643-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma details a year of running security agents that guard code as it is written and review every pull request -- how the design-tool vendor itself operationalises always-on agents inside a product org."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/advertising/the-kylie-jenner-optical-illusion-advert-says-what-everyones-really-thinking-about-metas-ai-glasses",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-07-23T07:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/RWTK2JQQwG2SZKzxqgqPW7-1920-80.webp",
+      "excerpt": "An optical-illusion 'advert' featuring Kylie Jenner has become the sharpest piece of creative commentary on Meta's AI glasses -- a case study in art direction carrying a critique that copy cannot."
+    },
+    {
+      "url": "https://dev.to/chris_fa_8fca9f4ba09d963/the-design-handoff-changed-heres-what-ai-legible-specs-look-like-38ki",
       "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-07-22T09:44:37Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frasr4fgxg3t9vw4gyjfj.png",
+      "excerpt": "A practical breakdown of how the design handoff changes once a coding agent is the first reader: what 'AI-legible' specs, token naming and component contracts actually look like in a repo."
+    },
+    {
+      "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30",
+      "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-07-22T18:53:42Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmzybsuqkpu7os4s766d.png",
-      "excerpt": "An art director argues the real edge in AI generative design workflows isn't better prompts or tools but trained visual judgment -- direction, taste and critique -- the human skills that decide whether AI output is usable."
+      "published_iso": "2026-07-23T21:43:31Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*v-ZMSxT2f8iivdbfPNtyQQ.png",
+      "excerpt": "A 'trust test' of four questions every design tool -- Figma included -- should be able to answer about how it trains on and uses customer work, framed for design leads doing vendor due diligence."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-21T21:36:21Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*V7-aOEPvds-IyQ2Xa7YmEw.jpeg",
+      "excerpt": "With AI able to generate a plausible design portfolio end to end, the piece argues hiring signal has moved to the follow-up question -- the reasoning behind a decision, not the artifact."
+    },
+    {
+      "url": "https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-22T11:17:19Z",
+      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:1/1*yoAsr0ISrtzXRwc3UMcS7g.jpeg",
+      "excerpt": "An argument that the interface layers we keep adding -- now including AI-mediated ones -- have become a wall between people and the task they came to do."
+    },
+    {
+      "url": "https://www.engadget.com/2222159/meta-pro-ai-ad-campaign-is-conspicuously-light-on-ai/",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-07-23T20:37:45Z",
+      "og_image": "https://www.engadget.com/img/gallery/metas-pro-ai-ad-campaign-is-conspicuously-light-on-ai/l-intro-1784838855.jpg",
+      "excerpt": "Meta's new pro-AI ad campaign is conspicuously light on actual AI-generated craft -- a telling signal about where brands still believe human-made creative carries more trust."
+    },
+    {
+      "url": "https://www.roadtovr.com/samsung-google-smart-glasses-designs-gentle-monster-warby-parker-release/",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-07-22T17:31:43Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/warby-monster-smart.png",
+      "excerpt": "Samsung unveiled more smart-glasses designs made with Gentle Monster and Warby Parker ahead of a fall release -- eyewear-first industrial design used to make an AI wearable socially wearable."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OxoV79nv4v0",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-07-22T14:47:00Z",
+      "og_image": "https://i.ytimg.com/vi/OxoV79nv4v0/maxresdefault.jpg",
+      "excerpt": "'Motion for people who are scared of motion software' -- a Figma Motion walkthrough where the Figma agent generates a starting animation the designer then refines on canvas, with no After Effects round-trip."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PxEK-k6Efi0",
+      "source": "DesignCourse (YouTube)",
+      "category": "social",
+      "published_iso": "2026-07-21T15:36:09Z",
+      "og_image": "https://i.ytimg.com/vi/PxEK-k6Efi0/maxresdefault.jpg",
+      "excerpt": "Gary Simon walks from ordinary photos of objects to a working Three.js 3D scene in minutes using AI image-to-3D reconstruction -- a concrete web-design pipeline rather than a demo reel."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RjUESeyt6U4",
+      "source": "Adobe (YouTube)",
+      "category": "social",
+      "published_iso": "2026-07-23T21:59:05Z",
+      "og_image": "https://i.ytimg.com/vi/RjUESeyt6U4/maxresdefault.jpg",
+      "excerpt": "'The Future of Creativity Is #NotGenerated' -- an Adobe x Parsons collaboration positioning human-made craft as the differentiator, from the company shipping the generative tools."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8hpEKTCFe7M",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-07-22T20:21:16Z",
+      "og_image": "https://i.ytimg.com/vi/8hpEKTCFe7M/maxresdefault.jpg",
+      "excerpt": "Short tutorial on animating loading states with the arc tool inside Figma Motion -- native timeline animation replacing a hand-off to After Effects or Lottie for a common UI pattern."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/branding/the-making-of-coca-colas-new-branding-uncovered-in-illuminating-video",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/nKD95Situqi8dUxAvRrJ34-2560-80.jpg",
+      "excerpt": "A behind-the-scenes video on Coca-Cola's new branding system and custom typeface -- a large-scale identity process shown end to end, useful as a contrast case to prompt-driven brand work. (Low AI hook; backfill only.)"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 6,
+    "dropped": 0,
+    "kept": 23,
     "against_days": 5
   }
 }

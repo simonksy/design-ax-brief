@@ -1,7 +1,8 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "science",
-  "rotation_note": "Rotated by day-of-year 204 (2026-07-23). Yesterday (07-22) leaned psychology/BCI/neuro-symbolic; today rotates to the materials / quantum / climate-cosmology / drug-genomics / fusion slice. Skips topics already in the last brief days: AI-designed CRISPR & protein design (SynTnpB / AlphaFold), astrobiology biosignature detection, Anthropic Claude Science co-scientist, brain/neuroscience decision-making, AMBer particle-physics model discovery.",
+  "freshness_days": 14,
+  "rotation_note": "BROAD MODE, rotated by day-of-year 205 (2026-07-24). Seed universe = ALL science `core` + the entire flat `keywords` list; the working set below spans every cluster (psychology/cognition, life science, materials, astronomy, physics, quantum, research automation). DE-EMPHASIZED because already covered in the last 2 days of news_data.json → sections.science: quantum-chemistry screening for blue OLED emitters (07-23 oled-ai), physics-verified imaging through scattering media (07-23 deeptimegate), quantum-geometry ML catastrophic forgetting / QEWC (07-23 qewc), physics-informed ML for 2D flatband quantum materials (07-22 flatband), de novo AI protein design at the Baker lab (07-22 baker), AI drug-metabolism/ADMET prediction contest (07-22 openadmet), AI ocean-current reconstruction for climate (07-22 goflow). Also recently used (07-18~21): AMBer particle-physics model building, KANDy equation discovery, nanoparticle-shape ML, SETI signal triage at K2-18b, ChatHEA catalyst discovery, scent-molecule screening, Turing/tacit-knowledge critique, Google Willow RL error correction. ROTATING TOWARD under-covered clusters: psychology & cognitive science (mental health, therapy chatbots, affective computing, persuasion, theory of mind, consciousness, neuro-symbolic, BCI), genomics/single-cell/computational biology, astronomy & survey cosmology, fusion plasma control & differentiable physics, and the AI co-scientist / self-driving lab / research-automation cluster. Single source category ('science'); no social channels defined for this section.",
   "core_keywords": [
     "AI science",
     "AI for science",
@@ -12,140 +13,135 @@
   "working_keywords": [
     {
       "keyword": "AI science",
-      "expansions": [
-        "AI for science 2026",
-        "foundation model for science",
-        "machine learning in science",
-        "AI 과학 연구"
-      ]
+      "core": true,
+      "expansions": ["AI in scientific research 2026", "machine learning research result", "AI-driven science study", "AI 과학 연구"]
     },
     {
-      "keyword": "AI materials discovery",
-      "expansions": [
-        "AI new material 2026",
-        "generative materials model",
-        "AI crystal structure prediction",
-        "AI 신소재 발견"
-      ]
+      "keyword": "AI for science",
+      "core": true,
+      "expansions": ["AI4Science initiative 2026", "DeepMind science AI", "Allen Institute AI for science", "science-specific AI model"]
     },
     {
-      "keyword": "GNoME",
-      "expansions": [
-        "DeepMind GNoME stable crystals",
-        "AI predicted inorganic materials",
-        "novel materials AI database"
-      ]
+      "keyword": "AI 과학",
+      "core": true,
+      "expansions": ["인공지능 과학 발견", "AI 과학 연구 2026", "머신러닝 연구 성과", "AI 실험 자동화"]
     },
     {
-      "keyword": "MatterGen",
-      "expansions": [
-        "Microsoft MatterGen generative materials",
-        "diffusion model inorganic materials design",
-        "generative model new materials 2026"
-      ]
-    },
-    {
-      "keyword": "autonomous materials lab",
-      "expansions": [
-        "self-driving lab robotic chemistry",
-        "A-Lab autonomous synthesis",
-        "closed-loop experimentation AI",
-        "AI 연구 자동화"
-      ]
-    },
-    {
-      "keyword": "AI battery materials",
-      "expansions": [
-        "AI solid-state electrolyte discovery",
-        "machine learning energy storage materials",
-        "AI battery chemistry 2026",
-        "AI 배터리 소재"
-      ]
-    },
-    {
-      "keyword": "quantum machine learning",
-      "expansions": [
-        "quantum AI algorithm 2026",
-        "hybrid quantum-classical model",
-        "QML advantage research",
-        "양자 머신러닝"
-      ]
-    },
-    {
-      "keyword": "AI quantum error correction",
-      "expansions": [
-        "AlphaQubit neural decoder",
-        "machine learning qubit decoder",
-        "fault-tolerant quantum AI 2026"
-      ]
-    },
-    {
-      "keyword": "quantum chemistry AI",
-      "expansions": [
-        "neural network wavefunction",
-        "AI molecular simulation DFT",
-        "machine learning electronic structure"
-      ]
-    },
-    {
-      "keyword": "AI weather climate model",
-      "expansions": [
-        "AI weather forecasting GenCast",
-        "GraphCast successor neural weather",
-        "AI climate emulator 2026",
-        "AI 기후 모델"
-      ]
-    },
-    {
-      "keyword": "machine learning cosmology",
-      "expansions": [
-        "AI dark matter mapping",
-        "simulation-based inference cosmology",
-        "ML large-scale structure survey",
-        "AI 천문학"
-      ]
-    },
-    {
-      "keyword": "AI fusion plasma control",
-      "expansions": [
-        "reinforcement learning tokamak control",
-        "AI plasma confinement",
-        "machine learning nuclear fusion 2026",
-        "AI 핵융합"
-      ]
-    },
-    {
-      "keyword": "AI drug discovery",
-      "expansions": [
-        "AI drug design clinical candidate 2026",
-        "generative chemistry molecule design",
-        "Isomorphic Labs drug discovery",
-        "AI 신약개발"
-      ]
-    },
-    {
-      "keyword": "AI genomics",
-      "expansions": [
-        "genomic language model DNA",
-        "Evo genome foundation model",
-        "machine learning gene regulation"
-      ]
-    },
-    {
-      "keyword": "single-cell AI",
-      "expansions": [
-        "single-cell foundation model",
-        "AI virtual cell model",
-        "AI cell atlas 2026"
-      ]
+      "keyword": "AI scientific discovery",
+      "core": true,
+      "expansions": ["AI discovers new", "machine learning enables discovery 2026", "AI accelerates discovery study", "AI 과학적 발견"]
     },
     {
       "keyword": "AI mental health",
-      "expansions": [
-        "AI therapy chatbot study 2026",
-        "LLM mental health support research",
-        "AI 심리 치료 챗봇"
-      ]
+      "expansions": ["AI mental health study 2026", "LLM depression screening research", "digital mental health AI trial", "AI 정신건강 연구"]
+    },
+    {
+      "keyword": "AI therapy chatbot",
+      "expansions": ["therapy chatbot randomized trial 2026", "LLM counseling study", "AI psychotherapy research", "chatbot emotional support study"]
+    },
+    {
+      "keyword": "affective computing",
+      "expansions": ["emotion AI research 2026", "AI emotion recognition study", "empathy in large language models", "감정 인식 AI 연구"]
+    },
+    {
+      "keyword": "LLM persuasion study",
+      "expansions": ["AI persuasion experiment 2026", "LLM changes human opinion study", "AI influence on beliefs research", "chatbot persuasion trial"]
+    },
+    {
+      "keyword": "AI and human behavior",
+      "expansions": ["LLM simulated participants study", "AI social science experiment 2026", "human-AI interaction behavioral research", "AI 인간 행동 연구"]
+    },
+    {
+      "keyword": "theory of mind AI",
+      "expansions": ["theory of mind LLM benchmark 2026", "machine social cognition study", "AI mental state inference", "false belief task LLM"]
+    },
+    {
+      "keyword": "LLM reasoning study",
+      "expansions": ["LLM reasoning failure research 2026", "chain-of-thought cognitive study", "reasoning model evaluation science", "LLM 추론 연구"]
+    },
+    {
+      "keyword": "AI consciousness",
+      "expansions": ["machine consciousness research 2026", "AI sentience debate scientists", "consciousness science AI model", "machine cognition study"]
+    },
+    {
+      "keyword": "neuro-symbolic AI",
+      "expansions": ["neurosymbolic reasoning 2026", "symbolic regression for science", "hybrid neural-symbolic model", "interpretable AI reasoning research"]
+    },
+    {
+      "keyword": "brain-computer interface",
+      "expansions": ["BCI AI speech decoding 2026", "neural decoder deep learning study", "brain implant AI research", "뇌-컴퓨터 인터페이스 AI"]
+    },
+    {
+      "keyword": "AI genomics",
+      "expansions": ["genomic foundation model 2026", "DNA language model study", "AI variant effect prediction", "AI 유전체 분석"]
+    },
+    {
+      "keyword": "single-cell AI",
+      "expansions": ["single-cell foundation model 2026", "AI virtual cell model", "AI cell atlas study", "transcriptomics deep learning"]
+    },
+    {
+      "keyword": "computational biology",
+      "expansions": ["deep learning biology 2026", "AI microscopy image analysis study", "AI enzyme function prediction", "AI 생명과학 연구"]
+    },
+    {
+      "keyword": "AlphaFold",
+      "expansions": ["AlphaFold successor 2026", "protein structure prediction model", "RoseTTAFold Boltz open model", "단백질 구조 예측 AI"]
+    },
+    {
+      "keyword": "AI exoplanet detection",
+      "expansions": ["machine learning exoplanet candidates 2026", "AI planet detection survey", "neural network transit detection", "AI 외계행성 탐색"]
+    },
+    {
+      "keyword": "machine learning cosmology",
+      "expansions": ["AI cosmological simulation 2026", "deep learning dark matter map", "neural emulator cosmology", "simulation-based inference survey"]
+    },
+    {
+      "keyword": "AI telescope survey",
+      "expansions": ["Rubin Observatory AI alert stream 2026", "AI transient classification survey", "JWST data machine learning", "AI galaxy classification study"]
+    },
+    {
+      "keyword": "AI 천문학",
+      "expansions": ["AI 천체 관측 데이터 분석", "머신러닝 은하 분류", "AI 우주 시뮬레이션 2026", "AI 망원경 데이터"]
+    },
+    {
+      "keyword": "AI fusion plasma control",
+      "expansions": ["reinforcement learning tokamak control 2026", "AI plasma disruption prediction", "fusion reactor machine learning", "AI 핵융합 제어"]
+    },
+    {
+      "keyword": "differentiable physics",
+      "expansions": ["differentiable simulation neural solver 2026", "physics-informed neural network study", "neural operator PDE surrogate", "AI simulation speedup physics"]
+    },
+    {
+      "keyword": "AI particle physics",
+      "expansions": ["machine learning LHC analysis 2026", "AI detector reconstruction study", "neural network collider data", "AI 입자물리"]
+    },
+    {
+      "keyword": "machine learning physics",
+      "expansions": ["AI condensed matter physics 2026", "neural network many-body simulation", "AI discovers physical law", "AI 물리 연구"]
+    },
+    {
+      "keyword": "self-driving lab",
+      "expansions": ["autonomous laboratory experiment 2026", "robotic chemist closed-loop discovery", "A-Lab autonomous synthesis", "자율 실험실 AI"]
+    },
+    {
+      "keyword": "AI lab automation",
+      "expansions": ["robotic lab AI automation 2026", "AI runs experiments autonomously", "automated synthesis platform AI", "AI 실험 로봇"]
+    },
+    {
+      "keyword": "AI co-scientist",
+      "expansions": ["AI co-scientist agent 2026", "autonomous research agent science", "AI generates research hypothesis", "agentic AI scientific workflow"]
+    },
+    {
+      "keyword": "AI hypothesis generation",
+      "expansions": ["AI proposes new hypothesis 2026", "literature mining AI discovery", "LLM idea generation research study", "AI 가설 생성"]
+    },
+    {
+      "keyword": "foundation model for science",
+      "expansions": ["scientific foundation model 2026", "large model trained on experimental data", "multimodal science model release", "과학용 파운데이션 모델"]
+    },
+    {
+      "keyword": "AI 연구 자동화",
+      "expansions": ["AI 논문 분석 자동화", "자율 과학 에이전트 2026", "AI 실험 설계 자동화", "AI 연구 조수"]
     }
   ],
   "plan": [
@@ -157,6 +153,7 @@
       "allowed_domains": [
         "quantamagazine.org",
         "phys.org",
+        "techxplore.com",
         "sciencedaily.com",
         "newscientist.com",
         "scientificamerican.com",
@@ -179,37 +176,42 @@
         "research.google",
         "allenai.org",
         "news.mit.edu",
-        "eurekalert.org"
+        "eurekalert.org",
+        "sciencealert.com"
       ],
       "queries": [
-        "AI materials discovery new material 2026",
-        "generative materials model crystal structure 2026",
-        "GNoME DeepMind stable crystals materials 2026",
-        "Microsoft MatterGen generative inorganic materials 2026",
-        "self-driving lab autonomous chemistry robot 2026",
-        "AI battery materials solid-state electrolyte 2026",
-        "AI 신소재 발견 2026",
-        "quantum machine learning breakthrough 2026",
-        "AlphaQubit AI quantum error correction decoder 2026",
-        "양자 머신러닝 2026",
-        "quantum chemistry neural network wavefunction 2026",
-        "AI weather forecasting GenCast climate model 2026",
-        "machine learning cosmology dark matter survey 2026",
-        "AI 천문학 머신러닝 2026",
-        "reinforcement learning fusion plasma control tokamak 2026",
-        "AI drug discovery clinical candidate molecule 2026",
-        "AI 신약개발 2026",
-        "genomic language model single-cell foundation model 2026",
-        "AI virtual cell biology model 2026",
-        "AI mental health therapy chatbot study 2026",
-        "foundation model for science 2026",
-        "AI hypothesis generation lab automation 2026",
-        "AI 연구 자동화 2026",
-        "differentiable physics AI simulation 2026",
-        "AI materials science research Nature 2026",
-        "AI scientific discovery breakthrough 2026"
+        "AI scientific discovery study July 2026",
+        "AI 과학 연구 발견 2026",
+        "AI mental health research study 2026",
+        "AI therapy chatbot clinical trial results 2026",
+        "affective computing emotion recognition research 2026",
+        "LLM persuasion human opinion experiment 2026",
+        "LLM simulated participants social science study 2026",
+        "theory of mind large language model study 2026",
+        "LLM reasoning cognitive science evaluation 2026",
+        "AI consciousness machine cognition research 2026",
+        "neuro-symbolic AI symbolic regression science 2026",
+        "brain-computer interface AI speech decoding 2026",
+        "AI 심리 인지과학 연구 2026",
+        "AI co-scientist autonomous research agent 2026",
+        "AI hypothesis generation scientific literature 2026",
+        "self-driving lab autonomous experiment discovery 2026",
+        "AI lab automation robotic chemist 2026",
+        "foundation model for science release 2026",
+        "AI 연구 자동화 자율 실험실 2026",
+        "genomic foundation model DNA language model 2026",
+        "single-cell AI virtual cell model 2026",
+        "computational biology deep learning study 2026",
+        "protein structure prediction model beyond AlphaFold 2026",
+        "machine learning exoplanet detection survey 2026",
+        "machine learning cosmology dark matter simulation 2026",
+        "AI telescope survey transient galaxy classification 2026",
+        "AI 천문학 머신러닝 관측 2026",
+        "reinforcement learning fusion plasma tokamak control 2026",
+        "differentiable physics neural operator simulation 2026",
+        "machine learning particle physics detector analysis 2026"
       ]
     }
   ],
-  "wildcard": "AI scientific discovery breakthrough July 2026"
+  "wildcard": "AI research breakthrough scientists announced this week 2026"
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "books",
   "selection_mode": "auto",
   "picks": [
@@ -7,44 +7,97 @@
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100855-norway-s-beat-spins-out-zedoc-a-new-agentic-ai-platform.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100888-judge-gives-final-approval-in-1-5-billion-settlement-in-anthropic-copyright-case.html",
       "source": "Publishers Weekly",
-      "published_iso": "2026-07-17T12:00:00Z",
+      "published_iso": "2026-07-21T12:00:00Z",
       "og_image": null,
-      "excerpt": "Zedoc, a new agentic AI metadata platform spun out of Norway's Beat Technology, streamlines publisher workflows: subject classification (Thema, BISAC, Dewey), accessibility enrichment, speech-to-text, ONIX record generation, audiobook chapterization, and structuring product data for AI-driven discovery.",
-      "rationale": "Concrete new agentic AI tool that reshapes day-to-day publisher metadata and ONIX workflows — highest actionability and novelty, from the most authoritative trade outlet."
+      "excerpt": "Judge Araceli Martinez-Olguin granted final approval to the landmark $1.5 billion settlement over Anthropic's use of pirated books to train its models. Roughly 500,000 titles were downloaded illegally; 92% of eligible authors and publishers opted in, at about $3,000 per infringed work.",
+      "rationale": "The largest copyright class action in US history is now final — it fixes a going rate ($3,000 per work) and a destroy-the-dataset condition that every publisher will negotiate against."
     },
     {
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png",
-      "excerpt": "A new four-week online program for publishing professionals aims to help teams understand AI technology, build practical AI workflow systems, and set organizational guidelines around usage and protection.",
-      "rationale": "Practical, hands-on program giving publishing teams a concrete way to build AI workflows and internal policy — directly actionable and freshly announced."
+      "url": "https://www.thebookseller.com/news/bloomsbury-lands-14m-in-anthropic-ai-settlement",
+      "source": "The Bookseller",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd27.jpg",
+      "excerpt": "Bloomsbury has secured roughly $18.7m (£14m) from the Anthropic copyright settlement, one of the first concrete figures showing what an individual trade publisher recovers when its catalogue is used as AI training data.",
+      "rationale": "First hard number on what a single trade house actually recovers — turns the abstract settlement into a benchmark publishers can price their own catalogue against."
     },
     {
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
+      "url": "https://janefriedman.com/substack-adds-ai-detection-tools-but-creators-can-disable-them/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2024/08/cropped-JF-website-header-2024-v2.png",
+      "excerpt": "Substack rolled out AI-detection labelling powered by Pangram so readers can see whether a post was AI-assisted — but writers can switch the badge off entirely, making disclosure effectively opt-in.",
+      "rationale": "A live platform-level AI disclosure system writers can toggle today — the opt-out design decides how much an AI label actually tells a reader."
+    },
+    {
+      "tool": "Books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "url": "https://publishingperspectives.com/2026/07/wiley-joins-genesis-mission-consortium-in-support-of-u-s-ai-goals/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Wiley_Genesis-Mission-Consortium-793x446.jpg",
+      "excerpt": "Wiley is the only scientific publisher inside the US Department of Energy's Genesis Mission Consortium, joining Nvidia, AWS, Microsoft, IBM and AMD to supply peer-reviewed content for 'AI-accelerated innovation and discovery'.",
+      "rationale": "The licensing counter-move to the lawsuits: a major publisher feeding peer-reviewed content straight into a state-backed AI program — a template other houses will copy."
+    },
+    {
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/22/334849/ai-dominates-global-publishing-conversation-at-ipa-congress/",
       "source": "Books+Publishing",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": null,
-      "excerpt": "University of Melbourne and RMIT researchers have launched a survey of Australian publishers and editors on how they actually use generative AI in their work, focusing on text-based LLMs across editorial and publishing practice.",
-      "rationale": "Fresh academic research mapping real-world editorial AI adoption — credible source and a distinct angle from the tool and policy picks."
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/IPA-congress-400x473.jpg",
+      "excerpt": "Generative AI was the biggest topic across panels at the International Publishers Congress in Kuala Lumpur, from licensing books as training data to how houses restructure editorial and production work around AI.",
+      "rationale": "Global read on where the trade actually stands — training-data licensing and editorial restructuring ran through every panel at the industry's biggest congress."
     }
   ],
   "dedup_notes": {
-    "history_checked": "All three picks checked against sections.books history in news_data.json (today 2026-07-22 + days 07-17..07-21). None appears in history. PW 100855 (Zedoc agentic platform) is distinct from published PW 100825 (audiobook narration) and PW 100778 (analytics startups). The Books+Publishing 334844 survey is distinct from the published 334627 (APA Office of AI, 07-17). The Publishing Perspectives course article differs from the two published PP items (IPA innovation award 07-17, around-the-book-world 07-20).",
-    "diversity": "3 distinct outlets (Publishers Weekly, Publishing Perspectives, Books+Publishing), 1 per outlet — meets >=3 distinct outlets and the <=2-per-outlet guard. Single category (books) as expected; second and third picks given distinct accents (#0070f3, #7928ca)."
+    "history_checked": "Checked against sections.books in news_data.json — today (2026-07-23: zedoc, ai-course, editor-ai-survey) plus days 2026-07-18 (kindle-ai, libby-filter, textbook-3d, uk-copyright), 07-19 (pw-ai-analytics), 07-20 (fiction-feast, cartland-voice), 07-21 (fanfic-ai-markers, vancouver-ai-disclosure, bloomsbury-ai-licensing), 07-22 (ai-narration, ai-uptake, hologram). None of the five picks matches a published URL or story.",
+    "dropped_as_duplicates": [
+      {
+        "url": "https://publishingperspectives.com/2026/07/court-grants-final-approval-to-landmark-1-5-billion-anthropic-settlement/",
+        "reason": "within-pool duplicate of the Anthropic final-approval story — kept Publishers Weekly as the single strongest source"
+      },
+      {
+        "url": "https://www.thebookseller.com/news/anthropics-15-billion-copyright-settlement-approved",
+        "reason": "within-pool duplicate of the Anthropic final-approval story"
+      },
+      {
+        "url": "https://www.booksandpublishing.com.au/articles/2026/07/22/334990/anthropic-settlement-approved/",
+        "reason": "within-pool duplicate of the Anthropic final-approval story"
+      },
+      {
+        "url": "https://goodereader.com/blog/digital-publishing/publishers-file-massive-lawsuit-against-google-gemini-training",
+        "reason": "story already published 2026-07-21 in card 'bloomsbury-ai-licensing' (Publishing Perspectives roundup reported publishers suing Google over Gemini training)"
+      },
+      {
+        "url": "https://www.thebookseller.com/news/us-publishers-file-lawsuit-against-google-for-training-gemini-on-copyrighted-books",
+        "reason": "same Google/Gemini lawsuit already covered on 2026-07-21"
+      },
+      {
+        "url": "https://bookriot.com/new-lawsuit-against-google-for-using-digital-books-to-train-ai/",
+        "reason": "same Google/Gemini lawsuit already covered on 2026-07-21"
+      }
+    ],
+    "ranked_below_final_five": [
+      "https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/ — evergreen essay, 10 days old",
+      "https://www.booksandpublishing.com.au/articles/2026/07/16/334694/industry-bodies-welcome-prime-ministers-comments-on-ai-and-copyright/ — 8 days old, and would have been a second Books+Publishing card",
+      "https://americanlibrariesmagazine.org/2026/07/14/2026-annual-conference-wrap-up/ — 10 days old, outlet outside the books allowlist"
+    ],
+    "diversity": "5 distinct outlets (Publishers Weekly, The Bookseller, Jane Friedman, Publishing Perspectives, Books+Publishing), 1 card per outlet — comfortably inside the <=2-per-outlet cap and >=3-outlet aim. Single category (books) as expected, so picks 2-5 take distinct accents from the sources.json palette (#0070f3, #7928ca, #2ec5c5, #eb367f). Topic spread: copyright ruling, publisher payout, platform disclosure tooling, content licensing, industry outlook."
   },
   "shortfall": {
     "target_floor": 3,
-    "picked": 3,
+    "picked": 5,
     "below_floor": false,
-    "honest_note": "Floor of 3 met exactly. The filtered pool held only 3 distinct never-before-seen stories (1 already dropped upstream). No padding — no further unique fresh items exist."
+    "honest_note": "Full five picked from 14 filtered candidates after collapsing two large duplicate clusters (4-way Anthropic settlement, 3-way Google/Gemini lawsuit). No padding."
   }
 }

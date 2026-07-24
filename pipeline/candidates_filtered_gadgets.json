@@ -1,53 +1,184 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "gadgets",
-  "now_iso": "2026-07-22T23:00:00Z",
+  "now_iso": "2026-07-24T00:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.engadget.com/2215417/openai-first-device-humanlike-rechargeable-speaker/",
-      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-15T08:37:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/openais-first-device-will-reportedly-be-a-humanlike-rechargeable-speaker/intro-1784104534.jpg",
-      "excerpt": "OpenAI's first hardware product, designed with Jony Ive's LoveFrom, is reportedly a screenless, rechargeable smart speaker with a camera and sensors built to behave like a 'humanlike' AI companion running an advanced ChatGPT model."
+      "title": "Google expands Gemini Live to some of its oldest smart speakers and displays",
+      "url": "https://www.androidauthority.com/gemini-live-expands-to-first-gen-google-speakers-3690874/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-23T16:19:00Z",
+      "excerpt": "Google is rolling out Gemini Live to first-generation Google Home Mini and Nest Hub hardware, letting years-old speakers hold free-form conversational sessions instead of one-shot commands.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2019/01/google-home-mini-colors-ces-2019.jpg"
     },
     {
-      "url": "https://9to5mac.com/2026/07/14/report-openais-first-device-will-be-a-portable-speaker-with-a-camera-and-other-sensors/",
-      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-14T21:14:00Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600",
-      "excerpt": "New reporting details OpenAI's debut device as a portable, screenless speaker with a camera and other sensors, positioned as a proactive AI companion and the first consumer product from the Ive-led io team."
+      "title": "Google Home's latest update tackles one of voice control's biggest annoyances",
+      "url": "https://www.androidauthority.com/google-home-july-update-conversational-memory-3690896/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-23T21:12:00Z",
+      "excerpt": "Google Home's July update gives Gemini a 15-minute conversational memory, so follow-up smart-home commands no longer need to restate context.",
+      "og_image": null
     },
     {
-      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
-      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-20T18:04:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg",
-      "excerpt": "Adobe adds a generative 'AI Playground' to its experimental Project Indigo camera app, letting mobile shooters remove distractions, apply artistic styles and get real-time photo guidance at the point of capture."
+      "title": "OpenAI's first hardware device sounds half-speaker, half-robot",
+      "url": "https://www.androidauthority.com/openai-device-screenless-speaker-chatgpt-leak-3687560/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-14T22:20:00Z",
+      "excerpt": "OpenAI's debut hardware is reportedly a portable, screenless smart speaker meant to act as a humanlike physical manifestation of ChatGPT, controlling smart-home gear and media by voice alone.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/09/OpenAI-on-website-on-smartphone-stock-photo-2.jpg"
     },
     {
-      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
-      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-21T15:07:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg",
-      "excerpt": "Samsung launches a beta 'Health Assistant,' an AI chatbot inside Samsung Health that interprets data from Galaxy phones, watches and rings and offers physician-validated wellness guidance across its device ecosystem."
+      "title": "Gemini Intelligence and Gemini Nano 4 launch with Galaxy Z Fold 8, Flip 8",
+      "url": "https://9to5google.com/2026/07/22/gemini-nano-4-intelligence-samsung-fold-8/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-22T19:41:00Z",
+      "excerpt": "Samsung's new foldables are the first devices to ship Gemini Intelligence and the on-device Gemini Nano 4 model, which supports over 140 languages and improved multimodal understanding.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-with-Gemini-Intelligence.jpg?quality=82&strip=all&w=1600"
     },
     {
-      "url": "https://www.digitaltrends.com/computing/samsung-wants-to-put-its-own-chip-in-your-next-pc-and-its-all-about-speeding-up-ai-chores/",
+      "category": "gadgets",
+      "title": "Gemini task automation expands to 40+ apps, Samsung shows off two more Android XR glasses",
+      "url": "https://9to5google.com/2026/07/22/gemini-task-automation-samsung/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-22T13:05:00Z",
+      "excerpt": "Google expanded Gemini's agentic task automation from six apps to over 40 services across shopping, travel and dining, alongside two more Android XR glasses designs from Samsung.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-task-automation-fold-8-1.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Voicepilled Vibe Coders Are Drooling Over This Touchpad You Control With Your Tongue",
+      "url": "https://gizmodo.com/vibe-coders-ai-augmental-mouthpad-keyboard-mouse-2000789866",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-23T19:00:00Z",
+      "excerpt": "Augmental's MouthPad tongue-controlled trackpad and whisper-detecting mic were built as accessibility devices, but AI-first coders are adopting them as a hands-free input layer for agent workflows.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/mouthpad-hero-7.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Framework Desktop packs Ryzen AI Max, up to 192GB of RAM, and local AI into a mini PC",
+      "url": "https://www.digitaltrends.com/computing/framework-desktop-brings-ryzen-ai-max-192gb-ram-and-local-ai-to-a-mini-pc/",
       "source": "Digital Trends",
+      "published_iso": "2026-07-23T03:36:00Z",
+      "excerpt": "Framework's new Desktop pairs a Ryzen AI Max+ Pro 495 with up to 192GB of unified memory so creators can run frontier-class models like DeepSeek-V4-Flash entirely on a single local box.",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-feature-scaled.jpg?resize=1200%2C720"
+    },
+    {
       "category": "gadgets",
-      "published_iso": "2026-07-09T12:00:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2025/12/Samsung-Custom-Chip.jpg?resize=1200%2C720",
-      "excerpt": "Samsung's System LSI division is developing a dedicated 'Gaia' AI accelerator for PCs, a companion NPU to offload on-device generative AI, real-time translation and image generation, with HP and Lenovo reportedly validating prototypes."
+      "title": "This floating AI robot looks like it escaped a Studio Ghibli film, and that's exactly the point",
+      "url": "https://www.digitaltrends.com/computing/this-floating-ai-robot-looks-like-it-escaped-a-studio-ghibli-film-and-thats-exactly-the-point/",
+      "source": "Digital Trends",
+      "published_iso": "2026-07-12T00:00:00Z",
+      "excerpt": "Keio University and MIT Media Lab researchers built Cuddle-Fish, a soft lighter-than-air companion robot that drifts silently through the home - a deliberate design rebuttal to noisy, hard-shelled home robots.",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-13T083354.327.jpg?resize=1200%2C720"
+    },
+    {
+      "category": "gadgets",
+      "title": "Samsung's humanoid ambitions are real, but factories come first",
+      "url": "https://www.digitaltrends.com/computing/samsungs-humanoid-ambitions-are-real-but-factories-come-first/",
+      "source": "Digital Trends",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "excerpt": "Samsung stood up a new RX robotics division that will target factory humanoids before consumer machines, setting expectations for when embodied AI actually reaches the home.",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Robot-Touch-Human-Finger.jpg?resize=1200%2C720"
+    },
+    {
+      "category": "gadgets",
+      "title": "Samsung Unveils More Smart Glasses Designs from Gentle Monster & Warby Parker Ahead of Fall Release",
+      "url": "https://roadtovr.com/samsung-google-smart-glasses-designs-gentle-monster-warby-parker-release/",
+      "source": "Road to VR",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "excerpt": "Samsung showed four Gentle Monster and Warby Parker frames at Unpacked in London - all shipping this fall as effectively the first consumer glasses running Google's Android XR.",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/warby-monster-smart.png?resize=1068%2C712&quality=80&ssl=1"
+    },
+    {
+      "category": "gadgets",
+      "title": "iOS 27 public beta 2 is here with Siri AI, iPhone speed upgrades, and more",
+      "url": "https://9to5mac.com/2026/07/22/ios-27-public-beta-2-is-here-with-siri-ai-iphone-speed-upgrades-and-more/",
+      "source": "9to5Mac",
+      "published_iso": "2026-07-22T17:38:00Z",
+      "excerpt": "Apple pushed iOS 27 public beta 2 with the rebuilt Siri AI powered by new on-device Apple Foundation Models, plus systemwide performance work ahead of the fall release.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "category": "gadgets",
+      "title": "Samsung unveils AI smart glasses powered by Android XR",
+      "url": "https://www.gsmarena.com/samsung_unveils_intelligent_eyewear_smart_glasses_powered_by_android_xr-news-73811.php",
+      "source": "GSMArena",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "excerpt": "Samsung's Intelligent Eyewear runs Android XR on a Snapdragon AR1 Gen 1 with Gemini built in, deliberately shipping without a display so the interface is audio and voice first.",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-smart-glasses/popup/-326/gsmarena_001.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Eyes-on: First look at the Samsung Gentle Monster and Warby Parker smart glasses",
+      "url": "https://www.gsmarena.com/eyeson_first_look_at_the_samsung_gentle_monster_and_warby_parker_smart_glasses-news-73841.php",
+      "source": "GSMArena",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "excerpt": "A hands-on with Samsung's fashion-house AI eyewear: both frames run Android XR with no internal screens, so nothing clutters your sight line and everything happens through Gemini's voice layer.",
+      "og_image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-intelligent-eyewear-gentle-monster-warby-parker-hands-on/-184x111/gsmarena_000.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Ultrahuman overhauls its app, brings all of its analysis on-device",
+      "url": "https://www.engadget.com/2220780/ultrahuman-overhauls-app-brings-all-of-its-analysis-on-device/",
+      "source": "Engadget",
+      "published_iso": "2026-07-23T13:00:00Z",
+      "excerpt": "Ultrahuman's redesigned Emerald app simplifies the interface and moves all health analysis onto the ring itself, so its AI insights keep working with no internet connection.",
+      "og_image": "https://www.engadget.com/img/gallery/ultrahuman-overhauls-its-app-brings-all-of-its-analysis-on-device/intro-1784735062.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Instagram is now banning users who make creepy content with Meta glasses",
+      "url": "https://www.engadget.com/2222008/instagram-is-now-banning-users-who-make-creepy-content-with-meta-glasses/",
+      "source": "Engadget",
+      "published_iso": "2026-07-23T19:02:00Z",
+      "excerpt": "Instagram has started removing accounts that use Meta's camera glasses to covertly film strangers, drawing the first hard platform line around always-on AI eyewear capture.",
+      "og_image": "https://www.engadget.com/img/gallery/instagram-is-now-banning-users-who-make-creepy-content-with-meta-glasses/intro-1784833261.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "macOS 27 Beta Reveals Hidden Siri 'Voice Pad' Interface",
+      "url": "https://www.macrumors.com/2026/07/23/macos-27-beta-hidden-siri-voice-ui/",
+      "source": "MacRumors",
+      "published_iso": "2026-07-23T10:53:00Z",
+      "excerpt": "A hidden macOS 27 interface lets you pick Siri's voice from an interactive spatial-audio grid of up to 13 American English voices that responds as the cursor moves.",
+      "og_image": "https://images.macrumors.com/t/iwIllyfONk3Cy6W_Z_MxFcuS9e0=/400x0/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg?lossy"
+    },
+    {
+      "category": "gadgets",
+      "title": "Apple Store App Getting AI Shopping Assistant",
+      "url": "https://www.macrumors.com/2026/07/22/apple-store-app-shopping-assistant/",
+      "source": "MacRumors",
+      "published_iso": "2026-07-22T20:25:00Z",
+      "excerpt": "Apple's updated privacy policy reveals a virtual shopping assistant coming to the Apple Store app, using account, device and location context to recommend hardware through a chat interface.",
+      "og_image": "https://images.macrumors.com/t/Fli5UMUmSaTKFhaD1iptv8lQtKs=/400x0/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg?lossy"
+    },
+    {
+      "category": "gadgets",
+      "title": "Honor Robot Phone leaked hands-on video shows thickness, camera gimbal in action",
+      "url": "https://www.notebookcheck.net/Honor-Robot-Phone-leaked-hands-on-video-shows-thickness-camera-gimbal-in-action.1345687.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-07-17T18:34:00Z",
+      "excerpt": "A leaked hands-on shows Honor's Robot Phone motorized gimbal arm repositioning itself to track subjects - an AI camera that physically moves rather than cropping in software.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/honor-robot-phone-leak41.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Galaxy Z Fold 8 and Flip 8 use AI to turn group videos into personal fan cams",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-z-fold-8-flip-8-my-fancam-ai/",
+      "source": "SamMobile",
+      "published_iso": "2026-07-22T17:24:00Z",
+      "excerpt": "My FanCam is a new Galaxy AI feature that reprocesses saved group videos in the Gallery app, tracking a chosen subject and re-centering the frame into a personal cut.",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-Z-Fold-8-Ultra-My-FanCam-5-1200x674.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 5,
+    "kept": 19,
     "against_days": 5
   }
 }

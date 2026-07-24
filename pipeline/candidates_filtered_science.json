@@ -1,45 +1,173 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "section": "science",
-  "now_iso": "2026-07-22T23:00:00Z",
+  "now_iso": "2026-07-24T00:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
-      "source": "Phys.org",
+      "url": "https://techxplore.com/news/2026-07-ai-chatbots-effective-humans-emotional.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg",
-      "excerpt": "Nagoya University researchers combined machine learning with quantum chemistry to hunt for efficient blue OLED materials, training a model on quantum-chemistry data for 1,000 molecules and then screening more than 17,000 candidates. The AI slashed computational cost and surfaced promising emitters that were then validated experimentally, showing generative screening can accelerate materials discovery."
+      "published_iso": "2026-07-22T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chatbot.jpg",
+      "excerpt": "A University of Manchester study found AI chatbots can match or even exceed human responders at providing emotional support, especially for anger and fear. The decisive factor was not warmth but 'specific, actionable guidance' rather than generic reassurance."
     },
     {
-      "url": "https://phys.org/news/2026-07-faster-quantum.html",
-      "source": "Phys.org",
+      "url": "https://techxplore.com/news/2026-07-playful-ai-robots-mirror-toddlers.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-07-15T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/faster-quantum-compute.jpg",
-      "excerpt": "A reinforcement-learning algorithm continuously monitors error-detection patterns from a quantum processor's qubits and automatically fine-tunes thousands of control settings, letting the machine 'learn from its own mistakes' while a calculation is still running. The approach keeps quantum computers more stable without costly recalibration pauses, a step toward practical fault-tolerant machines."
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/curious-robots-mimic-h-2.jpg",
+      "excerpt": "Okinawa Institute of Science and Technology researchers gave robots a curiosity-driven learning signal and found they picked up language roughly twice as fast as incurious counterparts. The robots spontaneously played and reproduced the same characteristic grammatical errors human toddlers make before recovering from them."
     },
     {
-      "url": "https://phys.org/news/2026-07-physics-based-ai-boost-biomedical.html",
-      "source": "Phys.org",
+      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/biomedical-imaging-aut.jpg",
-      "excerpt": "UCLA researchers built DeepTimeGate, a physics-informed machine-learning framework that images through scattering media by pairing a reconstruction network with a second algorithm that enforces the fundamental rules of physics as a real-time reality check. The method enables high-quality imaging with low-cost cameras, with uses in biomedical imaging and autonomous-vehicle sensing."
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
+      "excerpt": "Tohoku University unveiled an AI-powered closed-loop framework that couples machine learning to automated experiments so predictions are continuously refined by real lab feedback. The team says the self-driving-lab approach could shorten clean-energy materials development by years."
     },
     {
-      "url": "https://thequantuminsider.com/2026/07/22/new-framework-uses-quantum-geometry-to-help-quantum-ai-systems-remember-what-they-learn/",
+      "url": "https://phys.org/news/2026-07-machine-narrows-additional-particles-higgs.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/exploring-the-hidden-f-1.jpg",
+      "excerpt": "IIT Gandhinagar physicists used machine learning to sweep the huge parameter space of extended Higgs theories and narrow it to the configurations still allowed by collider data. The surviving scenarios include a possible lighter Higgs sibling near 82 GeV, giving experimentalists a concrete place to look."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-source-ai-key-peptide-traits.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-platform-could-spee.jpg",
+      "excerpt": "Penn Engineers released PeptiVerse, an open-source AI platform that forecasts the chemical and biological properties of peptides before anyone synthesizes them. Screening in silico first could cut the cost and time of developing peptide drugs such as weight-loss therapeutics."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-subseasonal-ai.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chasing-subseasonal-fo.jpg",
+      "excerpt": "NSF NCAR researchers are building AI emulators such as CAMulator to attack the notoriously hard two-to-six-week 'subseasonal' forecast gap. CAMulator can generate 480 simulated years per day, roughly 350 times faster than the physics model CAM6 it learned from."
+    },
+    {
+      "url": "https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/21-07-26-medical-ai-fig1.jpg",
+      "excerpt": "New work shows membership-inference attacks can pull sensitive patient information out of medical AI models far more effectively than the field assumed. The leakage is concentrated among underrepresented patient groups, meaning the privacy cost falls hardest on the people models already serve worst."
+    },
+    {
+      "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": null,
+      "excerpt": "MIT CSAIL's SceneSmith uses three collaborating AI agents to author realistic 3D indoor scenes for robot training, packing in far more objects than prior generators. The synthetic playgrounds let robots rehearse everyday manipulation before ever touching a real room."
+    },
+    {
+      "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": null,
+      "excerpt": "In MIT's four-week JARVIS Challenge, student teams designed, built and test-fired a working jet engine with AI copilots at their side. The verdict: AI can substantially accelerate safety-critical hardware engineering, but human engineering judgment was still the decisive differentiator between teams."
+    },
+    {
+      "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": null,
+      "excerpt": "MIT Media Lab researchers propose 'neural transparency' — surfacing a model's internal activation patterns to ordinary users while they are still designing a personalized chatbot. The goal is to let people anticipate a system's behavioral risks at design time instead of discovering them after deployment."
+    },
+    {
+      "url": "https://www.statnews.com/2026/07/16/brain-computer-interface-implant-restores-sensation-double-neural-bypass/",
+      "source": "STAT News",
+      "category": "science",
+      "published_iso": "2026-07-16T00:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/02-chadkeith-645x645.jpg",
+      "excerpt": "A 'double neural bypass' brain-computer interface restored both movement and the sensation of touch to a man paralyzed since a 2020 diving accident, by stimulating brain and spinal cord together. Keith Thomas, the trial participant, had wanted one thing above all: to feel his dog again."
+    },
+    {
+      "url": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/",
+      "source": "STAT News",
+      "category": "science",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1859455353-645x645.jpeg",
+      "excerpt": "Most U.S. hospitals still monitor clinical AI with governance frameworks built for static, pre-LLM software, leaving silent model drift undetected. The authors argue responsibility for continuous evaluation belongs with senior leadership, not the IT department."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/chatgpt-just-proved-another-50-year-old-math-conjecture/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/c426b813-2ec9-45c5-96ed-52b96a74ca63/graph-blue.jpg",
+      "excerpt": "OpenAI's GPT-5.6 Sol produced a proof of the cycle double cover conjecture, a graph-theory problem open for more than 50 years. Mathematicians say the result shows AI tools are already changing how mathematical research gets done, not just how it gets checked."
+    },
+    {
+      "url": "https://www.universetoday.com/articles/artificial-intelligence-is-easily-fooled-in-the-search-for-life",
+      "source": "Universe Today",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://www.universetoday.com/article_images/ooastrobiology.9_20260714_185400.jpg",
+      "excerpt": "Neural networks trained to detect biosignatures in Earth-based chemistry can be spoofed by unfamiliar molecular patterns, confidently labeling non-living samples as alive with 100% confidence. The finding is a warning for astrobiology missions that plan to lean on AI classifiers to flag life beyond Earth."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/07/21/ionq-quantumbasel-study-suggests-hybrid-ai-workloads-could-gain-energy-advantages-from-quantum-hardware-as-systems-scale/",
       "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-07-22T14:30:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-10.30.52-AM.png",
-      "excerpt": "Researchers introduced QEWC, a quantum machine-learning framework that uses quantum geometry to stop 'catastrophic forgetting'—the tendency of models to lose earlier skills when trained on new tasks. By anchoring learning to the geometry of quantum states, quantum AI systems can retain what they have learned across sequential tasks."
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-21-at-4.07.54-AM.png",
+      "excerpt": "IonQ and QuantumBasel report that a hybrid quantum-classical model matched selected classical methods on a machine-learning task while its energy use grew only linearly with qubit count. They project a crossover against GPU simulation near 34 qubits, though the result covers a single workload and quantum inference only."
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/beautiful-minds/202607/why-ai-cant-be-creative-yet",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/photo-1641909240303-50ea61824b16_copy.jpg?itok=Sps3nFOA",
+      "excerpt": "Creativity researcher Scott Barry Kaufman shows that prompting a language model to 'be maximally creative' makes its output more predictable, not more original. His argument: models trained to predict statistically common patterns are structurally biased against the statistical rarity that defines original ideas."
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/can-ai-help-us-learn-to-like-each-other",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Where recommendation algorithms reinforce what people already believe, a new study tests a dialogic AI chatbot deliberately built to challenge assumptions and surface competing viewpoints. Students who used it reasoned more deeply and were more willing to revise their initial positions on contested topics."
+    },
+    {
+      "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-1.gif",
+      "excerpt": "Google Research offers a mathematical account of why diffusion models produce genuinely new images rather than copies: a 'score smoothing' effect that emerges from neural-network training. The models interpolate between training examples along a hidden data manifold instead of memorizing them."
+    },
+    {
+      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
+      "excerpt": "Google Research ran a national-scale study of SymptomAI, a conversational agent for everyday symptom assessment, with 13,917 participants. Clinicians preferred SymptomAI's differential diagnosis over that of other clinicians in more than half of cases."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-07-13T00:00:00Z",
+      "og_image": null,
+      "excerpt": "University of Illinois researchers found the brain starts committing to a decision far earlier than assumed, with higher regions feeding rapid top-down signals back into primary sensory cortex. The feedback-loop architecture is a template engineers could borrow for future AI systems built less like feedforward stacks."
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 4,
+    "dropped": 0,
+    "kept": 20,
     "against_days": 5
   }
 }
