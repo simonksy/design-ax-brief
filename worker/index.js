@@ -68,14 +68,22 @@ export default {
         return new Response("Patreon 계정에 이메일이 필요합니다.", { status: 400 });
 
       const now = Math.floor(Date.now() / 1000);
-      const existing = await env.DB.prepare("SELECT created_at FROM subscribers WHERE email = ?").bind(email).first();
+      const existing = await env.DB.prepare("SELECT created_at, provider, status FROM subscribers WHERE email = ?").bind(email).first();
       const createdAt = existing ? existing.created_at : now;
-      await env.DB.prepare(
-        "INSERT OR REPLACE INTO subscribers (email,status,current_period_end,provider,created_at,updated_at) VALUES (?,?,NULL,'patreon',?,?)"
-      ).bind(email, active ? "active" : "canceled", createdAt, now).run();
+      // A manually-granted active row (provider='manual' — e.g. the creator, comps,
+      // support fixes) is an OVERRIDE: a Patreon login must never downgrade it just
+      // because this person isn't a paying patron of the campaign (the creator of a
+      // campaign is not its patron). Patreon results only apply to patreon-managed rows.
+      const manualActive = existing && existing.provider === "manual" && existing.status === "active";
+      if (!manualActive) {
+        await env.DB.prepare(
+          "INSERT OR REPLACE INTO subscribers (email,status,current_period_end,provider,created_at,updated_at) VALUES (?,?,NULL,'patreon',?,?)"
+        ).bind(email, active ? "active" : "canceled", createdAt, now).run();
+      }
 
+      const entitledNow = active || manualActive;
       const session = await signSession(email, env.SESSION_SIGNING_KEY);
-      const location = active ? "/" : "/?patreon=inactive";
+      const location = entitledNow ? "/" : "/?patreon=inactive";
       return new Response(null, { status: 302, headers: { location, "set-cookie": sessionSetCookie(session) } });
     }
 

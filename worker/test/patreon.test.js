@@ -99,6 +99,25 @@ describe("Patreon OAuth callback", () => {
     expect(me).toEqual({ loggedIn: true, email: "lapsed@x.com", entitled: false });
   });
 
+  it("manual-active row survives a non-patron Patreon login (creator/comp override)", async () => {
+    const now = Math.floor(Date.now() / 1000);
+    await env.DB.prepare(
+      "INSERT OR REPLACE INTO subscribers (email,status,current_period_end,provider,created_at,updated_at) VALUES ('creator@x.com','active',NULL,'manual',?,?)"
+    ).bind(now, now).run();
+    const state = await issueMagicToken(env.AUTH_TOKENS, "patreon-oauth-state");
+    mockPatreonExchange({ email: "creator@x.com", patronStatus: null }); // not a patron of own campaign
+
+    const res = await call(`/api/auth/patreon/callback?code=goodcode&state=${state}`);
+    expect(res.status).toBe(302);
+    expect(res.headers.get("location")).toBe("/"); // entitled via manual override
+    const sess = res.headers.get("set-cookie").split(";")[0].split("=")[1];
+    const me = await (await call("/api/me", { headers: { cookie: "ax_session=" + sess } })).json();
+    expect(me).toEqual({ loggedIn: true, email: "creator@x.com", entitled: true });
+
+    const row = await env.DB.prepare("SELECT provider, status FROM subscribers WHERE email='creator@x.com'").first();
+    expect(row).toEqual({ provider: "manual", status: "active" }); // untouched
+  });
+
   it("state reused a second time -> 400 (single-use)", async () => {
     const state = await issueMagicToken(env.AUTH_TOKENS, "patreon-oauth-state");
     mockPatreonExchange({ email: "reuse@x.com", patronStatus: "active_patron" });
