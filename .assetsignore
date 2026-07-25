@@ -12,3 +12,10 @@ pipeline/runs
 # otherwise choke on; .wrangler is local build/state, not part of the site.
 node_modules
 .wrangler
+
+# Server-side source files: worker logic, DB schema, tests, and package management
+# should never be publicly accessible.
+worker/
+package.json
+package-lock.json
+vitest.config.js
