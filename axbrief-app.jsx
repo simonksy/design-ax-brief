@@ -408,36 +408,25 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
-/* magic-link login modal — used by the paywall's "로그인 / 구독" pill. Posts an email to
-   /api/auth/request; the worker emails a one-time login link (no password ever entered here). */
-function LoginModal({ onClose, t }) {
-  const [email, setEmail] = useState('');
-  const [sent, setSent] = useState(false);
-  const submit = async () => {
-    await fetch('/api/auth/request', {
-      method: 'POST', headers: { 'content-type': 'application/json' },
-      credentials: 'same-origin', body: JSON.stringify({ email }),
-    });
-    setSent(true);
-  };
+/* subscribe CTA modal — replaces the old magic-link LoginModal. There is no real
+   entitlement system in this teaser-paywall iteration: every "구독하기" tap here is
+   a placeholder (no email, no /api call, no unlock). It exists purely so the locked
+   placeholder cards and the deep-dive fade CTA have somewhere to point. */
+function SubscribeModal({ onClose, t }) {
+  const [clicked, setClicked] = useState(false);
   return (
     <div onClick={onClose} style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
       display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
         padding: 24, width: 320, maxWidth: '88vw', fontFamily: 'Pretendard, system-ui' }}>
-        {sent ? (
-          <p style={{ margin: 0, fontSize: 14.5, lineHeight: 1.6 }}>
-            메일함을 확인하세요. 로그인 링크를 보냈습니다 (15분 내 유효).
-          </p>
+        <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>Design AX Brief 구독</p>
+        <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
+          구독하면 모든 카테고리의 전체 뉴스와 심층분석을 볼 수 있어요.
+        </p>
+        {clicked ? (
+          <p style={{ margin: 0, fontSize: 13.5, lineHeight: 1.6, color: '#8a827a' }}>곧 오픈합니다. 조금만 기다려 주세요 🙏</p>
         ) : (
-          <React.Fragment>
-            <p style={{ margin: '0 0 12px', fontSize: 15, fontWeight: 600 }}>구독자 로그인</p>
-            <input type="email" value={email} placeholder="you@example.com"
-              onChange={(e) => setEmail(e.target.value)}
-              style={{ width: '100%', padding: '10px 12px', borderRadius: 10,
-                border: '1px solid #ddd', fontSize: 14, marginBottom: 12 }} />
-            <AxPill label="로그인 링크 받기" onClick={submit} t={t} />
-          </React.Fragment>
+          <AxPill label="구독하기" onClick={() => setClicked(true)} t={t} />
         )}
       </div>
     </div>
@@ -532,71 +521,37 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
   );
 }
 
-/* ---- FullArticle: the flip back — Korean-translated article (text+img+video),
-   capped to a fixed scroll box (full if it fits, else a summary that fits). ---- */
-function FullArticle({ item, t, section, auth, onClose }) {
+/* ---- FullArticle: the flip back — Korean-translated article teaser (text+img+video),
+   capped to a fixed scroll box. The public payload only ever carries the FIRST
+   paragraph of the deep-dive (item.full.blocks has at most 1 entry) plus a boolean
+   item.full.hasMore; there is no entitlement, no fetch, nothing further to unlock
+   here — a reader who wants the rest sees a fade-out + "구독하고 이어보기" CTA that
+   opens SubscribeModal (a placeholder, no real unlock yet). ---- */
+function FullArticle({ item, t, section, onClose }) {
   const it = axEnrich(item);
   const solid = t.cardSolid || '#fbf8f3';   // opaque base for the floating-close fade
-  // item.full no longer arrives in the public payload — only the boolean item.hasFull does.
-  // When the reader is entitled we lazy-fetch the real blocks from /api/premium/full;
-  // otherwise the paywall below is shown instead (no deep-dive content ever reaches the DOM).
-  const [full, setFull] = useState(item.full || null);
-  const [showLogin, setShowLogin] = useState(false);
-  useEffect(() => {
-    if (item.hasFull && !full && auth && auth.entitled) {
-      fetch(`/api/premium/full?section=${encodeURIComponent(section || '')}&id=${encodeURIComponent(item.id)}`, { credentials: 'same-origin' })
-        .then((r) => (r.ok ? r.json() : null))
-        .then((d) => { if (d && d.full) setFull(d.full); })
-        .catch(() => {});
-    }
-  }, [item.id, auth && auth.entitled]);
+  const [showSubscribe, setShowSubscribe] = useState(false);
 
   // Defensive: FlipCard only ever mounts FullArticle for hasFull cards (see its own
   // hasFull gate above), so this should be unreachable — but never render deep-dive
   // chrome for a card that isn't supposed to have one.
   if (!item.hasFull) return null;
 
-  // Not logged in / not entitled → paywall. No blocks, no fetch result, nothing premium
-  // is rendered here — just the upsell and (if already logged in) the close pill so the
-  // reader can flip back to the card front.
-  if (!auth || !auth.entitled) {
-    return (
-      <div className="ax-full ax-body" style={{ color: t.body, padding: 26, paddingBottom: 92, position: 'relative', height: '100%', boxSizing: 'border-box' }}>
-        <p style={{ fontSize: 15, fontWeight: 600, margin: '0 0 8px' }}>심층 분석은 구독자 전용입니다</p>
-        <p style={{ fontSize: 14, lineHeight: 1.6, color: t.faint, margin: '0 0 16px' }}>
-          유료 구독 시 이 기사의 전체 번역·심층 분석을 읽을 수 있습니다.
-        </p>
-        <AxPill label={auth && auth.loggedIn ? '구독하기' : '로그인 / 구독'} t={t}
-          onClick={() => (auth && auth.loggedIn ? (window.location.href = '/#subscribe') : setShowLogin(true))} />
-        {showLogin && <LoginModal t={t} onClose={() => setShowLogin(false)} />}
-        {/* floating close — same pinned pill as the full-view below, so a paywalled reader isn't stuck */}
-        {onClose && (
-          <div style={{ position: 'absolute', left: 0, right: 0, bottom: 0, padding: '18px 22px',
-            paddingBottom: 'calc(18px + env(safe-area-inset-bottom))',
-            background: `linear-gradient(to top, ${solid} 56%, ${solid}d9 78%, ${solid}00)`,
-            pointerEvents: 'none', zIndex: 5 }}>
-            <div style={{ pointerEvents: 'auto', maxWidth: 520, margin: '0 auto' }}>
-              <AxPill label="close" onClick={onClose} t={t} />
-            </div>
-          </div>
-        )}
-      </div>
-    );
-  }
-
-  const blocks = (full && full.blocks) || [];
+  const full = item.full || {};
+  const blocks = full.blocks || [];
+  const hasMore = !!full.hasMore;
   return (
     <React.Fragment>
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
         <div style={{ minWidth: 0 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
-            {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {full && full.mode === 'summary' ? '요약본(번역)' : '전문(번역)'}</span>
+            {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · 미리보기(번역)</span>
           </div>
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
       </div>
-      {/* extra bottom padding so the last line clears the floating close pill */}
-      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92 }}>
+      {/* extra bottom padding so the last line clears the floating close/CTA pill */}
+      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92, position: 'relative' }}>
         {blocks.map((b, i) => {
           if (b.t === 'img') return <img key={i} src={b.src} alt={b.cap || ''} loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />;
           if (b.t === 'video') return (
@@ -608,9 +563,24 @@ function FullArticle({ item, t, section, auth, onClose }) {
           );
           return <p key={i}>{b.x}</p>;
         })}
-        <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
-          <SourceLine item={it} t={t} />
-        </div>
+        {/* teaser cutoff: a soft fade over the last visible line, then the CTA — only
+            when the public payload told us there's more (hasMore). No further blocks
+            are ever fetched; there is nothing more in the client to reveal. */}
+        {hasMore && (
+          <React.Fragment>
+            <div aria-hidden style={{ height: 64, marginTop: -64,
+              background: `linear-gradient(to bottom, ${solid}00, ${solid})`, pointerEvents: 'none' }} />
+            <div style={{ marginTop: 4 }}>
+              <AxPill label="구독하고 이어보기" onClick={() => setShowSubscribe(true)} t={t} />
+            </div>
+          </React.Fragment>
+        )}
+        {!hasMore && (
+          <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
+            <SourceLine item={it} t={t} />
+          </div>
+        )}
+        {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
       </div>
       {/* floating close — the same pill as Read, always pinned to the bottom of the view */}
       {onClose && (
@@ -627,11 +597,39 @@ function FullArticle({ item, t, section, auth, onClose }) {
   );
 }
 
+/* ---- LockedCard: a locked placeholder tile standing in for a today card that was
+   removed from the public payload entirely (there is no article content to show —
+   the public build never received it). Card-shaped so it slots into the same
+   carousel as the free card; muted/dimmed rather than a blank gap. Tapping it (or
+   Enter/Space) opens the SubscribeModal CTA. ---- */
+function LockedCard({ lockedCount, t, mobile }) {
+  const [showSubscribe, setShowSubscribe] = useState(false);
+  return (
+    <div role="button" tabIndex={0} aria-label={`구독하고 ${lockedCount}개 더 보기`}
+      onClick={() => setShowSubscribe(true)}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setShowSubscribe(true); } }}
+      style={{ height: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
+        gap: 14, textAlign: 'center', padding: 32, cursor: 'pointer', boxSizing: 'border-box',
+        background: 'linear-gradient(150deg, rgba(120,110,100,.12), rgba(120,110,100,.2))',
+        filter: 'saturate(.55)' }}>
+      <div aria-hidden style={{ width: 46, height: 46, borderRadius: '50%', display: 'flex', alignItems: 'center',
+        justifyContent: 'center', background: 'rgba(255,255,255,.5)', fontSize: 19, color: t.hl, opacity: .75 }}>🔒</div>
+      <div className="ax-hl" style={{ fontSize: mobile ? 17 : 19, color: t.hl, opacity: .82 }}>
+        구독하고 {lockedCount}개 더 보기
+      </div>
+      <p className="ax-body" style={{ fontSize: 13, color: t.faint, margin: 0, maxWidth: 260 }}>
+        오늘의 나머지 소식은 구독자에게 공개됩니다
+      </p>
+      {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
+    </div>
+  );
+}
+
 /* ---- FlipCard: front = LayoutEditorial summary; tap + to flip (revolving door)
    to the FullArticle back. Desktop-first (the back uses absolute faces that need a
    fixed-height card; on mobile, where the hero is content-height, fall back to the
    plain summary card for now). ---- */
-function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section, auth }) {
+function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section }) {
   const [flipped, setFlipped] = useState(false);
   const [flipping, setFlipping] = useState(false);   // true during the rotate animation
   const flipTimer = useRef();
@@ -643,8 +641,13 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
   useEffect(() => { if (!active) { setFlipped(false); setFlipping(false); } }, [active]);
   useEffect(() => { if (onFlipChange) onFlipChange(flipped); }, [flipped, onFlipChange]);
   useEffect(() => () => clearTimeout(flipTimer.current), []);
-  // public payload carries hasFull as a plain boolean now (no `full` block up front);
-  // the real blocks are lazy-fetched inside FullArticle once the reader is entitled.
+  // locked placeholder — stands in for a today card that never arrived in the
+  // public payload; nothing to flip, just the lock tile + subscribe CTA.
+  if (item.locked) {
+    return <LockedCard lockedCount={item.lockedCount} t={t} mobile={mobile} />;
+  }
+  // public payload carries hasFull as a plain boolean; item.full (when present) is
+  // already a first-paragraph teaser — see FullArticle.
   const hasFull = !!item.hasFull;
   if (!hasFull) {
     return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
@@ -662,7 +665,7 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
         {/* hide the back when flat (no backface-visibility in a flat context) so it can't
             bleed over the front; only the active card mounts the heavy article. */}
         <div className="ax-flip-face ax-flip-back" style={{ background: t.cardSolid || t.cardBg, visibility: use3d ? 'visible' : 'hidden' }}>
-          {active && <FullArticle item={item} t={t} section={section} auth={auth} onClose={() => doFlip(false)} />}
+          {active && <FullArticle item={item} t={t} section={section} onClose={() => doFlip(false)} />}
         </div>
       </div>
     </div>
@@ -693,7 +696,7 @@ function NavButton({ dir, disabled, onClick, t }) {
    Frame (radius/border/shadow/glass) lives on the window so the
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
-function Carousel({ items, t, initialIndex = 0, mobile, section, auth }) {
+function Carousel({ items, t, initialIndex = 0, mobile, section }) {
   const [idx, setIdx] = useState(initialIndex);
   const idxRef = useRef(initialIndex);
   const trackRef = useRef(null);
@@ -762,7 +765,7 @@ function Carousel({ items, t, initialIndex = 0, mobile, section, auth }) {
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} auth={auth} />
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} />
             </div>
           ))}
         </div>
@@ -1199,16 +1202,19 @@ function ThemedPage({ themeKey }) {
   const sections = window.AX_SECTIONS || { design: { label: 'Design', news: window.AX_NEWS || [], days: window.AX_DAYS || [] } };
   const order = (window.AX_SECTION_ORDER || Object.keys(sections)).filter((s) => sections[s]);
   const [section, setSection] = useState(order[0] || 'design');
-  // entitlement — fetched once on mount; threaded down to the full-view (FullArticle)
-  // via Carousel → FlipCard so the paywall/premium-fetch logic knows who's asking.
-  const [auth, setAuth] = useState({ loggedIn: false, entitled: false, email: null });
-  useEffect(() => {
-    fetch('/api/me', { credentials: 'same-origin' })
-      .then((r) => r.json()).then(setAuth).catch(() => {});
-  }, []);
+  // Nobody is ever entitled in this teaser-paywall build (no login, no /api calls,
+  // no auth fetch) — the free card always shows a first-paragraph teaser, and
+  // section.lockedCount today cards are represented as locked placeholder tiles
+  // appended to the hero carousel right after the free card. See heroItems below.
+  const heroItems = (s) => {
+    const news = (s && s.news) || [];
+    const lockedCount = (s && s.lockedCount) || 0;
+    const locked = Array.from({ length: lockedCount }, (_, i) => ({ id: `__locked-${i}`, locked: true, lockedCount }));
+    return news.concat(locked);
+  };
   const cur = sections[section] || { label: section, news: [], days: [] };
   const heroRef = useRef();
-  const [hero, setHero] = useState(() => ({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: 0, day: null }));
+  const [hero, setHero] = useState(() => ({ items: heroItems(sections[order[0]]), index: 0, key: 0, day: null }));
   const [intro, setIntro] = useState(null);
   // Mobile flips the card in place (same as desktop), so there's no separate "expanded"
   // full-screen state to track — the FlipCard owns its own flip state.
@@ -1261,7 +1267,7 @@ function ThemedPage({ themeKey }) {
     const today = s.news || [];
     const ti = today.findIndex((x) => x.id === cid);
     if (ti >= 0) {
-      setHero({ items: today, index: ti, key: Date.now(), day: null });
+      setHero({ items: heroItems(s), index: ti, key: Date.now(), day: null });
     } else {
       for (const day of (s.days || [])) {
         const di = (day.cards || []).findIndex((x) => x.id === cid);
@@ -1279,7 +1285,7 @@ function ThemedPage({ themeKey }) {
   const switchSection = (s) => {
     if (s === section) return;
     setSection(s); setIntro(null);
-    setHero({ items: (sections[s] || { news: [] }).news, index: 0, key: Date.now(), day: null });
+    setHero({ items: heroItems(sections[s]), index: 0, key: Date.now(), day: null });
   };
   const openDay = (day, cardIdx) => {
     setHero({ items: day.cards, index: cardIdx, key: Date.now(), day });
@@ -1288,13 +1294,13 @@ function ThemedPage({ themeKey }) {
   };
   const backToToday = () => {
     setIntro(null);
-    setHero({ items: cur.news, index: 0, key: Date.now(), day: null });
+    setHero({ items: heroItems(cur), index: 0, key: Date.now(), day: null });
     scrollToHero();
   };
   // logo → home: reset to the first section's today and scroll to the top.
   const goHome = () => {
     setSection(order[0] || 'design'); setIntro(null);
-    setHero({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: Date.now(), day: null });
+    setHero({ items: heroItems(sections[order[0]]), index: 0, key: Date.now(), day: null });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
   const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
@@ -1334,7 +1340,7 @@ function ThemedPage({ themeKey }) {
                 doesn't cover its top. */}
             <div ref={heroRef} className="ax-hero-wrap"
               style={isMobile && stuckTabs ? { marginTop: 104, transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' } : { transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' }}>
-              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} section={section} auth={auth} />
+              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} section={section} />
               {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} mobile={isMobile} onDone={() => setIntro(null)} />}
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
