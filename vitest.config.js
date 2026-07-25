@@ -13,6 +13,8 @@ export default defineWorkersConfig({
             SESSION_SIGNING_KEY: "test-signing-key-1234567890",
             RESEND_API_KEY: "test-resend-key",
             BASE_URL: "http://localhost",
+            PATREON_CLIENT_ID: "test-patreon-client",
+            PATREON_CLIENT_SECRET: "test-patreon-secret",
           },
         },
       },

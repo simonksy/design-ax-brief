@@ -10,7 +10,10 @@
     "binding": "ASSETS",
     "run_worker_first": ["/api/*", "/premium/*"]
   },
-  "vars": { "BASE_URL": "https://axitdesign.simonksy.workers.dev" },
+  "vars": {
+    "BASE_URL": "https://axitdesign.simonksy.workers.dev",
+    "PATREON_CLIENT_ID": "PLACEHOLDER_PATREON_CLIENT_ID"
+  },
   "d1_databases": [
     { "binding": "DB", "database_name": "axbrief-subscribers", "database_id": "PLACEHOLDER_LOCAL" }
   ],

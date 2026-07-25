@@ -5,9 +5,9 @@ import schema from "../schema.sql?raw";
 import premiumMap from "../../premium/full.json"; // real build output (Task 1)
 import { signSession } from "../lib/crypto.js";
 
-const FIRST_KEY = Object.keys(premiumMap)[0];         // e.g. "design/agentface"
+const FIRST_KEY = Object.keys(premiumMap.cards)[0];   // e.g. "design/agentface"
 const [SECTION, ID] = FIRST_KEY.split("/");
-const SECRET = premiumMap[FIRST_KEY].blocks[0].x;     // real deep-dive text to check for leaks
+const SECRET = premiumMap.cards[FIRST_KEY].blocks[0].x; // real deep-dive text to check for leaks
 
 beforeAll(async () => {
   for (const stmt of schema.split(";").map(s => s.trim()).filter(Boolean))
