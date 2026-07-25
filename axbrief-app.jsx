@@ -1104,15 +1104,13 @@ function WeeklyTimeline({ t, onOpen, days, entitled }) {
       <div style={{ textAlign: 'center', marginBottom: 8 }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '7px 16px',
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 9, margin: '18px 0 8px' }}>
-          <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: 0 }}>어제까지의 모든 소식</h2>
-          {!entitled && <ProBadge onClick={() => setShowSubscribe(true)} />}
-        </div>
+        <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: '18px 0 8px' }}>어제까지의 모든 소식</h2>
         <p className="ax-body" style={{ fontSize: 15, color: t.body, margin: 0 }}>
           {entitled
             ? "날짜에 올리면 그날의 카드가 펼쳐지고, 카드를 누르면 위에서 크게 열립니다 · 과거 소식을 본 뒤엔 상단의 '오늘 소식으로'로 돌아옵니다"
             : '지난 소식 전체는 Pro 구독자에게 열립니다'}
         </p>
+        {!entitled && <div style={{ marginTop: 12 }}><ProBadge onClick={() => setShowSubscribe(true)} /></div>}
       </div>
       <div style={{ position: 'relative', display: 'flex', alignItems: 'flex-start', padding: '178px 40px 0' }}>
         <div style={{ position: 'absolute', left: 40, right: 40, top: 178 + 148, height: 1, background: t.rule, zIndex: 0 }} />
@@ -1204,14 +1202,12 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
       <div style={{ textAlign: 'center', marginBottom: 6, padding: '0 16px' }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '6px 14px',
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8, margin: '13px 0 6px' }}>
-          <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: 0 }}>어제까지의 모든 소식</h2>
-          {!entitled && <ProBadge onClick={() => setShowSubscribe(true)} />}
-        </div>
+        <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: '13px 0 6px' }}>어제까지의 모든 소식</h2>
         <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>
           {entitled ? '어제부터 시작해 옆으로 밀면 과거로 · 카드를 누르면 위에서 크게 열립니다'
             : '지난 소식 전체는 Pro 구독자에게 열립니다'}
         </p>
+        {!entitled && <div style={{ marginTop: 10 }}><ProBadge onClick={() => setShowSubscribe(true)} /></div>}
       </div>
       <div className="ax-strip" ref={stripRef}>
         {days.map((day) => {
