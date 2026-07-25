@@ -1,11 +1,10 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "music",
   "media": [
-    { "id": "concatenator", "type": "video", "src": "pipeline/media/concatenator.mp4", "poster": "pipeline/media/concatenator.jpg" },
-    { "id": "peelstems2", "type": "image", "src": "pipeline/media/peelstems2.jpg" },
-    { "id": "sonyudio2", "type": "image", "src": "pipeline/media/sonyudio2.jpg" },
-    { "id": "socanmai", "type": "image", "src": "pipeline/media/socanmai.jpg" },
-    { "id": "aiacts61m", "type": "image", "src": "pipeline/media/aiacts61m.jpg" }
+    { "id": "maqam-archive", "type": "image", "src": "pipeline/media/maqam-archive.png" },
+    { "id": "talk-to-spotify", "type": "image", "src": "pipeline/media/talk-to-spotify.png" },
+    { "id": "landr-fair-trade", "type": "image", "src": "pipeline/media/landr-fair-trade.png" },
+    { "id": "lorde-about-the-song", "type": "image", "src": "pipeline/media/lorde-about-the-song.png" }
   ]
 }

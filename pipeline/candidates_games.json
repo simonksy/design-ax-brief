@@ -1,189 +1,81 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "games",
-  "now_iso": "2026-07-24T00:00:00Z",
+  "now_iso": "2026-07-24T23:07:43Z",
   "window_hours": 336,
-  "count": 20,
+  "count": 7,
   "items": [
     {
-      "title": "Roblox announce plans to let people AI generate basic games using text prompts stuck into a mobile app, but claim that won't fill their homepage with AI slop",
-      "url": "https://www.rockpapershotgun.com/roblox-announce-plans-to-let-people-ai-generate-basic-games-using-text-prompts-stuck-into-a-mobile-app-but-claim-that-wont-fill-their-homepage-with-ai-slop",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-07-16T15:32:31+00:00",
-      "excerpt": "Roblox have announced Build, a genAI-powered means of creating games on mobile, plus a load of other plans to AI-up the game making process. Public alpha starts July 28 in New Zealand.",
-      "og_image": "https://assetsio.gnwcdn.com/roblox-build-ai-game-generator-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Unity unveils Unity 7 roadmap with update path that won't break your build",
+      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
+      "source": "Game Developer",
+      "published_iso": "2026-07-21T02:00:00Z",
+      "excerpt": "At Unite Seoul, Unity detailed Unity 7, its next-gen authoring platform built around AI-driven authoring — a new CLI, public API and a free MCP that let coding agents observe, act on and verify a live project alongside developers and artists.",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop",
       "category": "games"
     },
     {
-      "title": "\"They would feel a kind of sadness, right?\": Slay the Spire 2 dev on using slightly rubbish placeholder art over AI",
-      "url": "https://www.rockpapershotgun.com/they-would-feel-a-kind-of-sadness-right-slay-the-spire-2-dev-on-using-slightly-rubbish-placeholder-art-over-ai",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-07-14T16:02:12+00:00",
-      "excerpt": "Mega Crit's Casey Yano explains why the Slay the Spire 2 team deliberately uses scrappy hand-made placeholder art instead of generative AI during production. \"You don't see the path that somebody took to get better and develop their own style.\"",
-      "og_image": "https://assetsio.gnwcdn.com/slay-the-spire-2-placeholder-art-3_huBgeTU.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "source": "NVIDIA Blog",
+      "published_iso": "2026-07-20T15:00:53Z",
+      "excerpt": "NVIDIA's SIGGRAPH 2026 rollup spans neural rendering, world models and MotionBricks — a real-time motion model trained on 350,000+ clips that lets creators direct and connect character movements at game-engine speed for games, film and robots.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg",
       "category": "games"
     },
     {
-      "title": "\"Built for that world doesn't mean built to require it\": Unity reveal their next game engine while walking a careful line around generative AI",
-      "url": "https://www.rockpapershotgun.com/built-for-that-world-doesnt-mean-built-to-require-it-unity-reveal-their-next-game-engine-while-walking-a-careful-line-around-generative-ai",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-07-21T09:34:08+00:00",
-      "excerpt": "Unity have announced Unity 7, the latest incarnation of their game creation platform, positioning AI-native tooling as optional rather than mandatory for developers.",
-      "og_image": "https://assetsio.gnwcdn.com/Unity7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "NVIDIA Graphics Research Accelerates Simulation & Physical AI Through 21 Breakthrough Technologies at SIGGRAPH",
+      "url": "https://wccftech.com/nvidia-graphics-research-accelerates-simulation-physical-ai-21-breakthroughs-siggraph/",
+      "source": "Wccftech",
+      "published_iso": "2026-07-20T15:00:14Z",
+      "excerpt": "NVIDIA's 21 accepted SIGGRAPH 2026 papers are becoming the foundation of real-time systems that generate 3D-grounded, physics-governed virtual worlds directed by creators — spanning neural rendering, materials and world models applicable to game production.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-20_13-20-31-1920x1080.jpg",
       "category": "games"
     },
     {
-      "title": "Take cover, because it looks like more than half of Steam games will have an AI-disclosure by 2027-2028",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
-      "source": "PC Gamer",
-      "published_iso": "2026-07-20T03:35:52+00:00",
-      "excerpt": "A full census of 53,597 Steam releases finds 30.8% of 2026 games carry an AI disclosure, with the curve pointing at a majority by 2027-2028. Most of that growth comes from games that barely earn anything.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/AWsSzZBSvPQVFFuS2oKTcL-1200-80.png",
-      "category": "games"
-    },
-    {
-      "title": "New MIT research teaches AI to make 2D designs 3D much more efficiently",
-      "url": "https://www.pcgamer.com/software/ai/new-method-teaches-ai-to-make-2d-designs-3d-and-now-im-afraid-this-will-be-how-the-robots-learn-to-build-themselves-without-us/",
-      "source": "PC Gamer",
-      "published_iso": "2026-07-22T14:51:10+00:00",
-      "excerpt": "MIT researchers describe a far cheaper method for turning flat 2D designs into usable 3D geometry, a direct shortcut for game asset and environment pipelines.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg",
-      "category": "games"
-    },
-    {
-      "title": "Mario Kart Wii is being \"rebuilt for PC,\" but the project's AI vibe coding instantly soured many Nintendo fans on the project",
-      "url": "https://www.gamesradar.com/games/racing/mario-kart-wii-is-being-rebuilt-for-pc-but-the-projects-ai-vibe-coding-instantly-soured-many-nintendo-fans-on-the-project/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-23T21:55:25+00:00",
-      "excerpt": "\"The first static recompilation of a Wii game\" was largely produced with AI coding agents, and the disclosure immediately split the modding community.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dz78u7jn2wiEyfBAbmj6e3-1920-80.jpg",
+      "title": "NVIDIA DLSS 5 Hands Over Full Control To Artists To \"Direct The Final Frame\"",
+      "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
+      "source": "Wccftech",
+      "published_iso": "2026-07-21T19:35:40Z",
+      "excerpt": "A SIGGRAPH technical demo shows DLSS 5's neural rendering going beyond upscaling into AI image synthesis — taking a game's color and motion vectors and letting artists direct photoreal lighting and materials in real time at 4K.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
       "category": "games"
     },
     {
       "title": "\"Steam's required AI disclosure is the right move\": Devs say gen AI should be called out in games and support Valve's store mandate",
       "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
       "source": "GamesRadar+",
-      "published_iso": "2026-07-21T20:21:08+00:00",
-      "excerpt": "Developers push back on Tim Sweeney's criticism of Valve's AI labels, arguing disclosure is a baseline creative-credit issue and asking other storefronts to follow.",
+      "published_iso": "2026-07-21T20:21:08Z",
+      "excerpt": "Developers push back on Tim Sweeney's criticism of Valve's AI labels, arguing disclosure of generative AI content shipped to players is a baseline transparency and creative-credit issue that other storefronts should adopt.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
       "category": "games"
     },
     {
-      "title": "According to a poll, Generative AI is being used at a whopping 100% Japanese online game developers, as copyright infringement concerns climb",
-      "url": "https://www.eurogamer.net/generative-ai-100-percent-japanese-online-game-developers",
-      "source": "Eurogamer",
-      "published_iso": "2026-07-15T09:18:53+00:00",
-      "excerpt": "The JOGA Online Game Market Research Report 2026 finds universal generative AI adoption among surveyed Japanese online game developers, alongside rising player concern about copyright.",
-      "og_image": "https://assetsio.gnwcdn.com/shodan_6g3Vfa5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Steam Week in Review: more than half of new Steam games will have an AI-disclosure by 2027-2028",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-20T03:35:52Z",
+      "excerpt": "A census of Steam releases finds 30.8% of 2026 games now carry an AI disclosure, up from 10.9% in 2024, with the trajectory pointing at a majority of new releases labelling generative-AI content within two years.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/AWsSzZBSvPQVFFuS2oKTcL-1200-80.png",
       "category": "games"
     },
     {
-      "title": "Reddit is forcing Google AI into hallucinating The Duskbloods characters before FromSoftware's Switch 2 exclusive is even out",
-      "url": "https://www.eurogamer.net/the-duskbloods-google-ai-hallucinations",
-      "source": "Eurogamer",
-      "published_iso": "2026-07-22T09:28:39+00:00",
-      "excerpt": "Fan-invented lore posted on Reddit is being treated as fact by Google's AI search, showing how generative summarisation now shapes a game's public identity before launch.",
-      "og_image": "https://assetsio.gnwcdn.com/duskbloods-gemini.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "category": "games"
-    },
-    {
-      "title": "Even sexy Skyrim mods aren't safe from AI slop anymore",
-      "url": "https://www.polygon.com/skyrim-ai-mods-sex-downloads-popular-best-slop-nexus/",
-      "source": "Polygon",
-      "published_iso": "2026-07-21T17:53:57+00:00",
-      "excerpt": "Bethesda's RPG is seeing a surge of AI-generated mod content on Nexus, some downloaded millions of times, forcing modding communities to rethink curation and labelling.",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/skyrimmods1.JPG?w=1600&h=900&fit=crop",
-      "category": "games"
-    },
-    {
-      "title": "Fortnite creators won't be able to escape AI come the end of July",
-      "url": "https://www.polygon.com/epic-games-ai-fortnite/",
-      "source": "Polygon",
-      "published_iso": "2026-07-17T12:04:03+00:00",
-      "excerpt": "From July 30, UEFN creators will be able to place AI-powered characters on their Fortnite islands, pushing conversational NPCs into mainstream UGC creation.",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/disneyvillains-1.jpg?w=1600&h=900&fit=crop",
-      "category": "games"
-    },
-    {
-      "title": "Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI",
-      "url": "https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-07-21T11:00:03+00:00",
-      "excerpt": "The studio's debut game, Bobium Brawlers, blends \"classic game design with the possibilities of AI\" using on-device models — and all the artists are paid.",
-      "og_image": "https://assetsio.gnwcdn.com/bobium-brawlers-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "NVIDIA Brings Local AI Agents To Its DGX Station Workstation With The NVIDIA Agent Toolkit & Omniverse",
+      "url": "https://wccftech.com/nvidia-brings-local-ai-agents-to-dgx-station-pc-with-agent-toolkit/",
+      "source": "Wccftech",
+      "published_iso": "2026-07-20T15:00:13Z",
+      "excerpt": "NVIDIA's Agent Toolkit lets DGX Station users run personal AI agents locally in about 30 minutes, combining Nemotron models and Omniverse libraries so agents can access tools and skills in a secure on-device runtime for creator and dev workflows.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/NVIDIA-Agent-Toolkit-on-DGX-Station.jpg",
       "category": "games"
     },
     {
       "title": "Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner",
       "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
       "source": "80 Level",
-      "published_iso": "2026-07-21T15:00:00+00:00",
-      "excerpt": "Rather than a one-shot generator, Meshy's new conversational 3D Agent is designed to help artists brainstorm, iterate and build style-consistent assets before exporting production-ready models into existing pipelines.",
+      "published_iso": "2026-07-21T15:00:00Z",
+      "excerpt": "Meshy has opened its new 3D Agent beta to all users — the first fully conversational, multi-step AI agent built for 3D creation. It keeps context across a chat so game artists can brainstorm, generate style-consistent asset families, and export rigged models straight into Blender, Maya, Unreal, Unity, Godot and Roblox pipelines.",
       "og_image": "https://cdn.80.lv/api/upload/meta/49153/images/6a4d6809c69e0/contain_1200x630.png",
       "category": "games"
-    },
-    {
-      "title": "New Viral Friendslop Game Criticized For Epstein Jokes And Generative AI",
-      "url": "https://www.thegamer.com/dear-passengers-friendslop-backlash-epstein-jokes-generative-ai/",
-      "source": "TheGamer",
-      "published_iso": "2026-07-15T17:37:28+00:00",
-      "excerpt": "Dear Passengers blew up overnight on Steam, but its use of generative AI assets became the flashpoint for a rapid player backlash.",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/two-airplane-pilots-having-a-barbeque-oin-the-wing-of-a-plne.jpg?w=1600&h=900&fit=crop",
-      "category": "games"
-    },
-    {
-      "title": "Persona Artist Promises No AI In Next Game Following Backlash",
-      "url": "https://www.thegamer.com/metaphor-persona-artist-no-generative-ai-next-game/",
-      "source": "TheGamer",
-      "published_iso": "2026-07-22T16:16:40+00:00",
-      "excerpt": "Persona and Metaphor artist Kazuma Kaneko says his next game will contain no AI-driven mechanics after fan criticism of an earlier AI-assisted project.",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/10/metaphor-refantazio-image-of-will.jpg?w=1600&h=900&fit=crop",
-      "category": "games"
-    },
-    {
-      "title": "'GTA 6' is the \"last great game\" before AI takes over, says analyst",
-      "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-the-last-great-game-ai-cheap-3957119",
-      "source": "NME",
-      "published_iso": "2026-07-15T10:46:41+00:00",
-      "excerpt": "An analyst argues GTA 6 marks the end of the hand-crafted blockbuster era, with AI-produced content set to reshape how big games are made and priced.",
-      "og_image": "https://www.nme.com/wp-content/uploads/2026/06/Grand-Theft-Auto-6-Ultimate-Edition.jpg",
-      "category": "games"
-    },
-    {
-      "title": "Text to speech history: save, replay, and reload every AI voice take (Inworld Text-to-Speech)",
-      "url": "https://www.youtube.com/watch?v=0uPl_pmFwAQ",
-      "source": "Inworld AI (YouTube)",
-      "published_iso": "2026-07-22T02:01:23+00:00",
-      "excerpt": "Inworld's TTS Playground now keeps a full history of every generated voice take, with voice, model and settings preserved — a version-control layer for AI game dialogue.",
-      "og_image": "https://i.ytimg.com/vi/0uPl_pmFwAQ/maxresdefault.jpg",
-      "category": "social"
-    },
-    {
-      "title": "Keynote | Unite Seoul 2026",
-      "url": "https://www.youtube.com/watch?v=n-3XvhUzMc0",
-      "source": "Unity (YouTube)",
-      "published_iso": "2026-07-21T12:06:52+00:00",
-      "excerpt": "Unity's Unite Seoul keynote gives first looks at major engine updates and the company's AI roadmap for the Unity 7 era.",
-      "og_image": "https://i.ytimg.com/vi/n-3XvhUzMc0/maxresdefault.jpg",
-      "category": "social"
-    },
-    {
-      "title": "MetaHumans in Blender: Using OpenRigLogic to Customize DNA's Behavior | Inside Unreal",
-      "url": "https://www.youtube.com/watch?v=WZhDr5Ktf9c",
-      "source": "Unreal Engine (YouTube)",
-      "published_iso": "2026-07-23T19:26:01+00:00",
-      "excerpt": "Following Epic's MetaHuman Devkit announcement at Unreal Fest, Poly Hammer shows OpenRigLogic running inside Blender to customise MetaHuman DNA behaviour outside Unreal.",
-      "og_image": "https://i.ytimg.com/vi/WZhDr5Ktf9c/maxresdefault.jpg",
-      "category": "social"
-    },
-    {
-      "title": "Minecraft Was Missing One Brilliant Idea",
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "source": "Two Minute Papers (YouTube)",
-      "published_iso": "2026-07-12T15:48:43+00:00",
-      "excerpt": "A walkthrough of new terrain-diffusion research that generates coherent, editable game worlds — a diffusion-model take on procedural level and world generation.",
-      "og_image": "https://i.ytimg.com/vi/Ae9q7KsRbuI/maxresdefault.jpg",
-      "category": "social"
     }
   ]
 }

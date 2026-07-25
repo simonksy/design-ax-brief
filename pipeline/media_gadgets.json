@@ -1,31 +1,10 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "gadgets",
   "media": [
-    {
-      "id": "frameworkdesk",
-      "type": "image",
-      "src": "pipeline/media/frameworkdesk.jpg"
-    },
-    {
-      "id": "mouthpad",
-      "type": "image",
-      "src": "pipeline/media/mouthpad.jpg"
-    },
-    {
-      "id": "voicepad",
-      "type": "image",
-      "src": "pipeline/media/voicepad.jpg"
-    },
-    {
-      "id": "ultrahumanemerald",
-      "type": "image",
-      "src": "pipeline/media/ultrahumanemerald.jpg"
-    },
-    {
-      "id": "geminilivemini",
-      "type": "image",
-      "src": "pipeline/media/geminilivemini.jpg"
-    }
+    {"id": "gemma-4-pixel-tpu", "type": "image", "src": "pipeline/media/gemma-4-pixel-tpu.jpg"},
+    {"id": "gemini-nano-4-fold8", "type": "image", "src": "pipeline/media/gemini-nano-4-fold8.jpg"},
+    {"id": "samsung-intelligent-eyewear", "type": "image", "src": "pipeline/media/samsung-intelligent-eyewear.jpg"},
+    {"id": "garmin-cirqa-band", "type": "image", "src": "pipeline/media/garmin-cirqa-band.jpg"}
   ]
 }

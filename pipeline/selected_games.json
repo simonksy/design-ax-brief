@@ -1,93 +1,55 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "games",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.polygon.com/epic-games-ai-fortnite/",
-      "title": "Fortnite creators won't be able to escape AI come the end of July",
-      "source": "Polygon",
-      "published_iso": "2026-07-17T12:04:03+00:00",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/disneyvillains-1.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "From July 30, UEFN creators will be able to place AI-powered characters on their Fortnite islands, pushing conversational NPCs into mainstream UGC creation.",
+      "url": "https://wccftech.com/nvidia-brings-local-ai-agents-to-dgx-station-pc-with-agent-toolkit/",
+      "title": "NVIDIA Brings Local AI Agents To Its DGX Station Workstation With The NVIDIA Agent Toolkit & Omniverse",
+      "source": "Wccftech",
+      "published_iso": "2026-07-20T15:00:13Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/NVIDIA-Agent-Toolkit-on-DGX-Station.jpg",
+      "excerpt": "NVIDIA's Agent Toolkit lets DGX Station users run personal AI agents locally in about 30 minutes, combining Nemotron models and Omniverse libraries so agents can access tools and skills in a secure on-device runtime for creator and dev workflows.",
       "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A dated, concrete platform change — from July 30 UEFN creators can drop conversational AI NPCs into islands, rewriting how UGC designers script characters next week."
+      "rationale": "Fresh, distinct topic (on-device personal-agent runtime via Agent Toolkit + Omniverse) with no match in games history; the published nvidia-siggraph rollup covers neural rendering / Cosmos 3 / MCP-in-DCC-tools, not this local DGX workstation runtime. Actionable for creator/dev pipelines wanting local agents stood up in minutes."
     },
     {
-      "url": "https://www.youtube.com/watch?v=WZhDr5Ktf9c",
-      "title": "MetaHumans in Blender: Using OpenRigLogic to Customize DNA's Behavior | Inside Unreal",
-      "source": "Unreal Engine (YouTube)",
-      "published_iso": "2026-07-23T19:26:01+00:00",
-      "og_image": "https://i.ytimg.com/vi/WZhDr5Ktf9c/maxresdefault.jpg",
-      "excerpt": "Following Epic's MetaHuman Devkit announcement at Unreal Fest, Poly Hammer shows OpenRigLogic running inside Blender to customise MetaHuman DNA behaviour outside Unreal.",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "First-party Epic session showing MetaHuman rig logic running outside Unreal — a directly reusable character pipeline for Blender-based artists."
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
-      "title": "Take cover, because it looks like more than half of Steam games will have an AI-disclosure by 2027-2028",
-      "source": "PC Gamer",
-      "published_iso": "2026-07-20T03:35:52+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/AWsSzZBSvPQVFFuS2oKTcL-1200-80.png",
-      "excerpt": "A full census of 53,597 Steam releases finds 30.8% of 2026 games carry an AI disclosure, with the curve pointing at a majority by 2027-2028. Most of that growth comes from games that barely earn anything.",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "A full 53,597-title census rather than a vibe check — it gives teams a hard baseline for where AI disclosure sits on the storefront and where the curve is heading."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/racing/mario-kart-wii-is-being-rebuilt-for-pc-but-the-projects-ai-vibe-coding-instantly-soured-many-nintendo-fans-on-the-project/",
-      "title": "Mario Kart Wii is being \"rebuilt for PC,\" but the project's AI vibe coding instantly soured many Nintendo fans on the project",
+      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
+      "title": "\"Steam's required AI disclosure is the right move\": Devs say gen AI should be called out in games and support Valve's store mandate",
       "source": "GamesRadar+",
-      "published_iso": "2026-07-23T21:55:25+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dz78u7jn2wiEyfBAbmj6e3-1920-80.jpg",
-      "excerpt": "\"The first static recompilation of a Wii game\" was largely produced with AI coding agents, and the disclosure immediately split the modding community.",
+      "published_iso": "2026-07-21T20:21:08Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
+      "excerpt": "Developers push back on Tim Sweeney's criticism of Valve's AI labels, arguing disclosure of generative AI content shipped to players is a baseline transparency and creative-credit issue that other storefronts should adopt.",
       "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Freshest item in the pool and a genuine technical first — AI coding agents completing a static recompilation, plus the community credibility cost of disclosing it."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=0uPl_pmFwAQ",
-      "title": "Text to speech history: save, replay, and reload every AI voice take (Inworld Text-to-Speech)",
-      "source": "Inworld AI (YouTube)",
-      "published_iso": "2026-07-22T02:01:23+00:00",
-      "og_image": "https://i.ytimg.com/vi/0uPl_pmFwAQ/maxresdefault.jpg",
-      "excerpt": "Inworld's TTS Playground now keeps a full history of every generated voice take, with voice, model and settings preserved — a version-control layer for AI game dialogue.",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "Small feature, real workflow fix: persistent take history with voice/model/settings gives AI game dialogue the versioning audio designers have been missing."
+      "rationale": "Distinct event (Sweeney-vs-Valve disclosure debate and developer endorsement of the mandate), separate from the published 07-24 steamcensus card, which is a statistical study of disclosure rates. Adds a policy / creative-credit angle from a different outlet."
     }
   ],
   "dedup": {
-    "pool_size": 16,
-    "kept": 5,
-    "dropped_as_duplicate": 3,
-    "dropped_by_scoring": 8,
+    "pool_size": 8,
+    "kept": 2,
+    "dropped_as_duplicate": 6,
     "floor": 3,
     "cap": 5,
-    "below_target": false,
-    "checked_against": "sections.games — today (2026-07-23) + days 2026-07-18, 07-19, 07-20, 07-21, 07-22: nvidia-siggraph, ai-2d-to-3d, atelico, kaneko, roblox-build, mw4-gunny, hi3d, meccha-chameleon, ai-clone, steam-genai, damagecontrol, indiedevs25, metahumancrowds, houdini22, unity7, dlss5, meshy3dagent",
+    "below_target": true,
+    "checked_against": "sections.games — today (2026-07-24: openriglogic, steamcensus, mkwiicomp, inworldtts) + days 2026-07-19 (meccha-chameleon, ai-clone, steam-genai), 07-20 (damagecontrol, indiedevs25, metahumancrowds), 07-21 (houdini22), 07-22 (unity7, dlss5, meshy3dagent), 07-23 (nvidia-siggraph, ai-2d-to-3d, atelico, kaneko/fnaivoice)",
     "notes": [
-      "TheGamer 'Persona Artist Promises No AI In Next Game Following Backlash' — DROPPED as content duplicate. Same event as the published 'kaneko' card (GamesRadar+, 2026-07-23): Kazuma Kaneko ruling out generative AI in his next game after backlash. Different outlet, one story, earliest-wins.",
-      "Rock Paper Shotgun 'Unity reveal their next game engine while walking a careful line around generative AI' — DROPPED as content duplicate of the published 'unity7' card (Game Developer, 2026-07-22), same Unity 7 / Unite Seoul reveal.",
-      "Unity (YouTube) 'Keynote | Unite Seoul 2026' — DROPPED as duplicate of the same Unity 7 reveal (both cross-day vs 'unity7' and within-pool vs the RPS piece).",
-      "Unreal Engine 'MetaHumans in Blender' (kept) is NOT a duplicate of the 2026-07-20 'metahumancrowds' card: different video, different subject (OpenRigLogic DNA behaviour in Blender vs Mass/Nanite crowd rendering). Same channel, genuinely different article/content.",
-      "Scoring drops (not dedup): Slay the Spire 2 placeholder-art interview (oldest at 07-14 and thematically adjacent to the published 'indiedevs25' anti-genAI framing), Eurogamer JOGA 100%-adoption poll (second adoption-statistics story after the Steam census), Duskbloods Google AI hallucinations, Polygon Skyrim AI mod slop, TheGamer Dear Passengers backlash, NME GTA 6 'last great game' analyst take (opinion, low actionability), Two Minute Papers terrain diffusion (07-12, oldest)."
+      "RE-CURATION VERDICT ON MESHY 3D AGENT — DROPPED as a hard duplicate. The recovery-pass candidate 'Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner' (80.lv, 2026-07-21) is the SAME story already published as card 'meshy3dagent' under games date 2026-07-22: same URL (only a trailing-slash difference: .../meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner), same outlet (80 Level), same content (conversational 3D Agent beta, style-consistent asset families, export to Blender/Unreal/Unity). Earliest-wins; the DEDUP hard rule overrides the 'keep Meshy' guidance — never republish a same-URL story to reach the floor.",
+      "Unity 7 (Game Developer) — DROPPED as duplicate of published 'unity7' card (07-22), same gamedeveloper.com URL.",
+      "NVIDIA SIGGRAPH rollup (NVIDIA Blog, blogs.nvidia.com/siggraph-news-2026) — DROPPED as exact-URL duplicate of published 'nvidia-siggraph' card (07-23).",
+      "NVIDIA 'Graphics Research Accelerates ... 21 Breakthroughs at SIGGRAPH' (Wccftech) — DROPPED as content duplicate of the same SIGGRAPH 2026 graphics-research announcement carried by published 'nvidia-siggraph'. Different outlet, same event.",
+      "NVIDIA DLSS 5 'Direct The Final Frame' (Wccftech) — DROPPED as content duplicate of published 'dlss5' card (PC Gamer, 07-22): same DLSS 5 neural-render-control-for-artists story.",
+      "Steam Week in Review AI-disclosure census (PC Gamer) — DROPPED as exact-URL duplicate of published 'steamcensus' card (07-24).",
+      "Result is 2 fresh stories, below the floor of 3. NOT padded: every remaining candidate is a known same-URL or same-event duplicate of an already-published games card, and the guidance is to never republish a duplicate to reach the floor."
     ],
     "diversity_guard": {
-      "outlets": "5 distinct (Polygon, Unreal Engine YouTube, PC Gamer, GamesRadar+, Inworld AI YouTube); no outlet appears more than once",
-      "categories": "games x3, social x2 — distinct accents assigned within each shared category"
+      "outlets": "2 distinct (Wccftech, GamesRadar+); no outlet appears more than once",
+      "categories": "games x2 — distinct accents (#7928ca, #f5a623) assigned within the shared category"
     }
   }
 }

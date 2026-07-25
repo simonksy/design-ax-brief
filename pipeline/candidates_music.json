@@ -1,152 +1,44 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "music",
-  "now_iso": "2026-07-24T00:00:00Z",
+  "now_iso": "2026-07-24T23:07:43Z",
   "window_hours": 336,
   "items": [
     {
       "category": "music",
-      "source": "MusicRadar",
-      "title": "How Charli XCX's producers ran a jam session through an AI sampling plugin to make No One Lasts Forever",
-      "url": "https://www.musicradar.com/artists/we-were-running-around-the-studio-with-as-many-things-plugged-in-as-possible-just-doing-the-worst-sounds-trying-to-find-the-ugliest-things-how-charli-xcxs-producers-ran-a-jam-session-through-an-ai-sampling-plugin-to-make-no-one-lasts-forever",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "excerpt": "A. G. Cook and Finn Keane describe on the Tape Notes podcast how they ran a chaotic studio jam through Concatenator, an AI-powered concatenative-synthesis sampling plugin that turns arbitrary sample material into a playable instrument, to build the track's texture.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Y7T4rzJF2Cusczjn5oEtA6.jpg"
-    },
-    {
-      "category": "music",
-      "source": "MusicTech",
-      "title": "AI artists are already making millions from Spotify and YouTube – and they're only getting bigger",
-      "url": "https://musictech.com/news/industry/ai-music-earnings/",
-      "published_iso": "2026-07-23T19:00:00Z",
-      "excerpt": "New analysis puts the top ten AI acts at roughly $6.1 million in combined earnings, with audiences in the tens of millions, hundreds of chart entries and major playlist placements — evidence AI music has moved from novelty to a real revenue tier.",
-      "og_image": "https://musictech.com/wp-content/uploads/2023/12/money-music@2000x1500.jpg"
-    },
-    {
-      "category": "music",
-      "source": "MusicTech",
-      "title": "Sony is suing Udio again…",
-      "url": "https://musictech.com/news/industry/udio-is-suing-sony-again/",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "excerpt": "Sony Music has filed a second suit against Udio covering 30,117 recordings a judge excluded from the original case, identified via audio fingerprinting during discovery. Sony remains the only major label without a Udio licensing deal.",
-      "og_image": null
-    },
-    {
-      "category": "music",
-      "source": "MusicTech",
-      "title": "BandLab Technologies acquires AI-powered music making platform Aiode",
-      "url": "https://musictech.com/news/industry/bandlab-technologies-acquires-aiode/",
-      "published_iso": "2026-07-16T00:00:00Z",
-      "excerpt": "BandLab has acquired Aiode, an AI music studio built on fully-licensed audio-to-audio models trained with professional session musicians and producers. Aiode continues as a standalone product inside BandLab's tool portfolio.",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg"
-    },
-    {
-      "category": "music",
-      "source": "Complete Music Update",
-      "title": "AI-generated tracks now account for more than 50% of Deezer's uploads",
-      "url": "https://completemusicupdate.com/ai-generated-tracks-now-account-for-more-than-50-of-deezers-uploads/",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "excerpt": "Deezer says fully AI-generated music passed half of all daily uploads in June, averaging about 90,000 tracks a day. The platform will strip AI tracks tied to streaming fraud and purge those with no plays for six months.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w100/2026/07/Deezer-AI.png"
-    },
-    {
-      "category": "music",
-      "source": "DJ Mag",
-      "title": "AI-generated music surpasses 50% of daily uploads on Deezer",
-      "url": "https://djmag.com/news/ai-generated-music-surpasses-50-of-daily-uploads-deezer",
-      "published_iso": "2026-07-21T17:36:00Z",
-      "excerpt": "Roughly 90,000 artificially generated tracks are now submitted to Deezer every day — the first time synthetic uploads have outnumbered human-made ones on the service, a sharp jump from April's figures.",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-07/deezer-ai-generated-music-half-50-percent-report.jpg.webp"
-    },
-    {
-      "category": "music",
-      "source": "Complete Music Update",
-      "title": "Sony Music sues Udio for a second time, with the extra 30,000 recordings that could result in $4.5 billion damages",
-      "url": "https://completemusicupdate.com/sony-music-sues-udio-for-a-second-time-with-the-extra-30-000-recordings-that-could-result-in-4-5-billion-damages/",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "excerpt": "After a judge refused to let Sony amend its original complaint, the label filed a fresh action over 30,000+ additional recordings — an expanded list that could expose Udio to more than $4.5 billion in statutory damages.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w100/2026/07/Sony-sues-Udio.png"
-    },
-    {
-      "category": "music",
-      "source": "Hypebot",
-      "title": "SOCAN and Musical AI to Track (and Eventually Pay) Creators for AI Use",
-      "url": "https://www.hypebot.com/socan-and-musical-ai-to-track-and-eventually-pay-creators-for-ai-use/",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "excerpt": "Canada's largest rights organisation is building attribution infrastructure with Musical AI to detect when members' works influence AI-generated output, establishing consent mechanisms and a route to eventual royalty payments.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/7-21-socan.jpg"
+      "source": "CDM Create Digital Music",
+      "title": "Digital Arabic Maqam Archive and open-source MIDI plug-in now available",
+      "url": "https://cdm.link/digital-arabic-maqam-archive-and-open-source-midi-plug-in/",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "excerpt": "Khyam Allami's long-term research project puts hundreds of Arabic tuning systems, ajnas and maqamat into a free, open archive, paired with a free open-source MIDI plug-in (Tanghim) that lets producers work in microtonal, non-Western tunings directly inside their DAW.",
+      "og_image": "https://cdm.link/app/uploads/2026/07/tanghim-ui-1-1024x799.png"
     },
     {
       "category": "music",
       "source": "Hypebot",
       "title": "Talk to Spotify: What AI Chatbots Mean for Music Marketing",
       "url": "https://www.hypebot.com/talk-to-spotify-what-ai-chatbots-mean-for-music-marketing/",
-      "published_iso": "2026-07-16T00:00:00Z",
-      "excerpt": "Spotify's ChatGPT-style conversational assistant turns discovery from algorithmic curation into dialogue, pushing artists and marketers toward metadata optimisation and narrative framing to stay findable in an LLM-mediated catalogue.",
+      "published_iso": "2026-07-16T12:00:00Z",
+      "excerpt": "Spotify's new 'Talk to Spotify' ChatGPT-style assistant replaces passive algorithmic discovery with interactive, prompt-based listening, shifting how artists and marketers must optimise metadata and off-platform SEO to stay discoverable.",
       "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Talk-To-Spotify.png"
     },
     {
       "category": "music",
-      "source": "Hypebot",
-      "title": "New AI Labeling Standard for Music Draws Support — and Hesitation",
-      "url": "https://www.hypebot.com/new-ai-labeling-standard-for-music-draws-support-and-hesitation/",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "excerpt": "A coalition of recorded-music bodies proposed a voluntary framework separating 'AI-Generated' from 'AI-Assisted' recordings, drawing qualified backing from Suno while streaming platforms hold off on committing.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/7-13-AI-news.jpg"
-    },
-    {
-      "category": "music",
-      "source": "gearnews",
-      "title": "Guitar Audio to MIDI: No More Replaying Guitar Parts from Scratch",
-      "url": "https://www.gearnews.com/guitar-audio-to-midi-eldoraudio-tech/",
-      "published_iso": "2026-07-16T00:00:00Z",
-      "excerpt": "Eldoraudio launched a browser-based converter that turns guitar recordings into editable MIDI using a machine-learning model tuned specifically for clean guitar tone — steel-string, nylon, clean electric and jazz — with a distorted-guitar model in development.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg"
-    },
-    {
-      "category": "music",
-      "source": "gearnews",
-      "title": "AI Labeling: Two New Labels Are Meant to Tell You Whether AI Sang on Your Favorite Track",
-      "url": "https://www.gearnews.com/ai-labeling-music-industry-tech/",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "excerpt": "IFPI, RIAA and BVMI agreed on two badges — 'AI-Generated' for AI lead vocals or key instruments, 'AI-Assisted' for selective AI enhancement — but the scheme excludes lyrics and composition and has no buy-in yet from Spotify or Apple Music.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/07/AI-Label-BVMI-T-770x425.jpg"
-    },
-    {
-      "category": "music",
-      "source": "Engadget",
-      "title": "Suno brings its gen AI music gunk to iMessage",
-      "url": "https://www.engadget.com/2216558/suno-brings-gen-ai-music-gunk-to-imessage/",
-      "published_iso": "2026-07-16T14:50:00Z",
-      "excerpt": "Suno shipped an iMessage integration that lets users generate 30-second AI tracks inside a chat thread. Both parties need the Suno app installed to share and play the result — a push to make prompt-to-song a conversational, social act.",
-      "og_image": "https://www.engadget.com/img/gallery/suno-brings-its-gen-ai-music-gunk-to-imessage/intro-1784212721.jpg"
-    },
-    {
-      "category": "music",
-      "source": "Engadget",
-      "title": "A hacker accessed Suno source code that reportedly details how the company scraped millions of songs",
-      "url": "https://www.engadget.com/2215772/a-hacker-accessed-suno-source-code-that-reportedly-details-how-the-company-scraped-millions-of-songs/",
-      "published_iso": "2026-07-15T16:13:00Z",
-      "excerpt": "Leaked source code reportedly documents Suno's training-data pipeline — pulling from YouTube Music, Deezer, Genius and podcast RSS feeds — putting hard numbers on the provenance question every AI-music tool user now faces.",
-      "og_image": "https://www.engadget.com/img/gallery/a-hacker-accessed-suno-source-code-that-reportedly-details-how-the-company-scraped-millions-of-songs/intro-1784131934.jpg"
-    },
-    {
-      "category": "music",
-      "source": "Music Business Worldwide",
-      "title": "Suno admits data breach that reportedly leaked 55.3 million users' data",
-      "url": "https://www.musicbusinessworldwide.com/suno-admits-data-breach-that-reportedly-leaked-55-3-million-users-data/",
-      "published_iso": "2026-07-22T00:00:00Z",
-      "excerpt": "Suno confirmed a November 2025 breach exposing data on roughly 55.3 million accounts, surfaced by Have I Been Pwned on July 20 — a trust problem for the largest consumer AI music platform and the creators who publish through it.",
+      "source": "Digital Music News",
+      "title": "Lorde Calls Out Spotify's AI 'About the Song' Feature",
+      "url": "https://www.digitalmusicnews.com/2026/07/16/lorde-spotify-about-the-song-feature/",
+      "published_iso": "2026-07-16T12:00:00Z",
+      "excerpt": "Lorde publicly rejected Spotify's AI-generated 'About the Song' descriptions after the feature surfaced inaccurate context on one of her tracks, arguing that reducing a song to an AI-generated meaning at the source limits free interpretation. Spotify removed the text in question.",
       "og_image": null
     },
     {
       "category": "music",
-      "source": "Sound On Sound",
-      "title": "Peel Stems 2 from zplane",
-      "url": "https://www.soundonsound.com/news/peel-stems-2-zplane",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "excerpt": "zplane's real-time stem-separation plug-in cuts processing latency from 483ms to 245ms at 44.1kHz with cleaner separation and fewer artefacts, running natively in VST3/AU/AAX with no cloud upload, subscription or login.",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg"
+      "source": "Digital Music News",
+      "title": "Inside LANDR's Fair Trade AI Program for Indie Artists",
+      "url": "https://www.digitalmusicnews.com/2026/07/14/landr-fair-trade-ai-program-indie-artists/",
+      "published_iso": "2026-07-14T12:00:00Z",
+      "excerpt": "LANDR's Fair Trade AI program pairs upfront cash advances with ongoing revenue sharing when it licenses curated music datasets to AI developers, allocating 25% of net resulting revenue to participating indie artists whose work trains the models.",
+      "og_image": null
     }
   ]
 }
