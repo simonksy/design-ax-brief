@@ -408,12 +408,12 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
-/* subscribe CTA modal — replaces the old magic-link LoginModal. There is no real
-   entitlement system in this teaser-paywall iteration: every "구독하기" tap here is
-   a placeholder (no email, no /api call, no unlock). It exists purely so the
-   blurred locked cards have somewhere to point. */
+/* subscribe CTA modal — replaces the old magic-link LoginModal. There is no
+   in-site entitlement system in this teaser-paywall iteration: "구독하기" opens
+   the Patreon membership checkout in a new tab (no email, no /api call; unlock
+   comes later when payment webhooks are wired). */
+const SUBSCRIBE_URL = 'https://www.patreon.com/simonksy';  // ← Patreon 페이지 URL (확정되면 교체)
 function SubscribeModal({ onClose, t }) {
-  const [clicked, setClicked] = useState(false);
   return (
     <div onClick={onClose} style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
       display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
@@ -423,11 +423,11 @@ function SubscribeModal({ onClose, t }) {
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
           구독하면 모든 카테고리의 전체 뉴스와 심층분석을 볼 수 있어요.
         </p>
-        {clicked ? (
-          <p style={{ margin: 0, fontSize: 13.5, lineHeight: 1.6, color: '#8a827a' }}>곧 오픈합니다. 조금만 기다려 주세요 🙏</p>
-        ) : (
-          <AxPill label="구독하기" onClick={() => setClicked(true)} t={t} />
-        )}
+        <AxPill label="Patreon에서 구독하기" t={t}
+          onClick={() => { window.open(SUBSCRIBE_URL, '_blank', 'noopener'); onClose(); }} />
+        <p style={{ margin: '10px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center' }}>
+          Patreon 결제 페이지가 새 탭으로 열립니다
+        </p>
       </div>
     </div>
   );
