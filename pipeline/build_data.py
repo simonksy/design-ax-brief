@@ -48,63 +48,65 @@ def assert_no_duplicates(section, today, days):
         raise DuplicateCardError("; ".join(dups))
 
 def split_teaser(data):
-    """Teaser paywall split (replaces the old split_full "entire deep-dive behind
-    login" model).
+    """Teaser paywall split — v2 (revises the v1 "first-paragraph teaser + removed
+    locked cards" model after live user feedback: the free card's deep-dive should
+    be fully readable, and locked cards should render as real cards, blurred, not
+    disappear).
 
     Per section:
-      - today.cards[0] ("free card") stays public, but its `full` is truncated to
-        a first-paragraph teaser: `{"blocks": blocks[:1], "hasMore": len(blocks) > 1}`.
-        Its ORIGINAL full blocks are stashed in `premium` for a future unlock.
-      - today.cards[1:] ("locked cards") are REMOVED from the public payload
-        entirely; their whole original card dict (front + full) is stashed in
-        `premium_locked`. `today["lockedCount"]` records how many were removed.
-      - Archive (`days`) cards are NOT locked/removed — they stay visible, but get
-        the same first-paragraph teaser treatment as the free card, with their
-        original full blocks stashed in `premium`.
+      - today.cards[0] (the "free card") stays public with its COMPLETE original
+        `full` (all blocks) — no truncation, no fade, no CTA. `free: True` is set,
+        and `hasFull` reflects whether the card had any deep-dive blocks at all.
+      - today.cards[1:] ("locked cards") STAY in the public payload — front fields
+        (id, eyebrow, headline, body, tool, source, url, accent, motif, image) are
+        untouched — but `full` is stripped out and stashed in `premium` for a
+        future unlock. `locked: True` is set, and `hasFull` reflects whether the
+        card had any deep-dive blocks (so the UI knows a locked card "has more"
+        even though it can't render it).
+      - `today["lockedCount"]` still records how many today cards are locked.
+      - Archive (`days`) cards are fully public — COMPLETE `full`, never teased,
+        never locked (v1 teased archive cards; v2 restores them in full).
 
-    Mutates `data` in place. Returns (premium, premium_locked):
-      premium        { "<section>/<id>": {"blocks": <ORIGINAL full blocks>} }
-                     — teaser remainders for the free card + every archive card.
-      premium_locked { "<section>/<id>": <ORIGINAL card dict> }
-                     — today cards removed from the public payload.
+    Mutates `data` in place. Returns premium:
+      premium { "<section>/<id>": {"blocks": <ORIGINAL full blocks>} }
+              — locked (today.cards[1:]) cards' stashed deep-dive blocks only.
+                Free cards and archive cards need no stash: their full content is
+                already public.
     """
     sections = data.get("sections")
     if sections is None:
         sections = {"design": {"today": data.get("today", {"cards": []}),
                                "days": data.get("days", [])}}
     premium = {}
-    premium_locked = {}
 
-    def tease(c, sec):
-        blocks = ((c.get("full") or {}).get("blocks")) or []
-        cid = c.get("id")
-        if cid:
-            premium["%s/%s" % (sec, cid)] = {"blocks": blocks}
-        c["full"] = {"blocks": blocks[:1], "hasMore": len(blocks) > 1}
-        c["hasFull"] = len(blocks) > 0
+    def blocks_of(c):
+        return ((c.get("full") or {}).get("blocks")) or []
 
     for sec, s in sections.items():
         today = s.get("today") or {"cards": []}
         cards = list(today.get("cards", []))
-        # locked cards: cards[1:] — stash the whole original card, then drop them
-        # from the public payload.
-        for c in cards[1:]:
-            cid = c.get("id")
-            if cid:
-                premium_locked["%s/%s" % (sec, cid)] = c
         today["lockedCount"] = max(0, len(cards) - 1)
         if cards:
             free = cards[0]
-            tease(free, sec)
             free["free"] = True
-            today["cards"] = [free]
+            free["hasFull"] = len(blocks_of(free)) > 0
+            # free["full"] stays exactly as-is: the complete, untruncated deep-dive.
+            for c in cards[1:]:
+                blocks = blocks_of(c)
+                cid = c.get("id")
+                if cid and blocks:
+                    premium["%s/%s" % (sec, cid)] = {"blocks": blocks}
+                c["hasFull"] = len(blocks) > 0
+                c["locked"] = True
+                c.pop("full", None)   # strip the deep-dive out of the public card
+            today["cards"] = cards
         else:
             today["cards"] = []
-        # archive cards: teaser only, never locked/removed.
+        # archive cards: fully public — no teaser, no locking. full stays as-is.
         for day in s.get("days", []):
             for c in day.get("cards", []):
-                tease(c, sec)
-    return premium, premium_locked
+                c["hasFull"] = len(blocks_of(c)) > 0
+    return premium
 
 def to_js(data):
     # Back-compat: accept an old non-sectioned file too.
@@ -217,15 +219,15 @@ def main():
                     help="absolute origin for OG urls/images in share pages")
     a = ap.parse_args()
     data = json.load(open(a.inp, encoding="utf-8"))
-    # teaser paywall split: truncates today's free card + every archive card to a
-    # first-paragraph teaser, and removes today's remaining cards from the public
-    # payload entirely (see split_teaser docstring).
-    premium, premium_locked = split_teaser(data)
+    # teaser paywall split (v2): free card's deep-dive is fully public; locked
+    # (today.cards[1:]) cards keep their front fields public but have `full`
+    # stripped out (stashed in premium); archive is fully public (see docstring).
+    premium = split_teaser(data)
     open(a.out, "w", encoding="utf-8").write(to_js(data))
     prem_dir = os.path.join(os.path.dirname(os.path.abspath(a.out)), "premium")
     os.makedirs(prem_dir, exist_ok=True)
     with open(os.path.join(prem_dir, "full.json"), "w", encoding="utf-8") as f:
-        json.dump({"cards": premium, "locked": premium_locked}, f, ensure_ascii=False, indent=2)
+        json.dump({"cards": premium}, f, ensure_ascii=False, indent=2)
     if a.share_root:
         sections = data.get("sections") or {
             "design": {"news": data.get("today", {}).get("cards", []), "days": data.get("days", [])}}

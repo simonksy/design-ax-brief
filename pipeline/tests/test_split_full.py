@@ -18,50 +18,59 @@ def sample():
 
 def run():
     data = sample()
-    premium, premium_locked = bd.split_teaser(data)
+    premium = bd.split_teaser(data)
 
     today = data["sections"]["design"]["today"]
     cards = today["cards"]
 
-    # only the free card remains public
-    assert len(cards) == 1, "today.cards must be pruned to just the free card"
+    # ALL today cards stay public (v2: locked cards are no longer removed)
+    assert len(cards) == 3, "today.cards must keep every card (free + locked) public"
+
+    # free card: COMPLETE, untruncated full — no teaser cutoff, no hasMore
     free = cards[0]
     assert free["id"] == "alpha"
     assert free["free"] is True
-
-    # free card: teaser-only full (first block + hasMore)
-    assert free["full"]["blocks"] == [{"t": "p", "x": "DEEP1"}], "free card keeps only the first block"
-    assert free["full"]["hasMore"] is True, "free card had 2 blocks -> hasMore True"
+    assert free["full"]["blocks"] == [{"t": "p", "x": "DEEP1"}, {"t": "p", "x": "DEEP2"}], \
+        "free card keeps ALL its blocks in the public payload"
     assert free["hasFull"] is True
+    assert "hasMore" not in free["full"], "v2 free card has no hasMore/teaser cutoff"
 
-    # lockedCount reflects the 2 removed cards (beta, gamma)
-    assert today["lockedCount"] == 2, "lockedCount must count the removed cards"
+    # locked cards: present in public news with front fields, NO full key, locked: True
+    beta = next(c for c in cards if c["id"] == "beta")
+    gamma = next(c for c in cards if c["id"] == "gamma")
+    assert beta["locked"] is True and gamma["locked"] is True
+    assert "full" not in beta, "locked card's full must be stripped from the public payload"
+    assert "full" not in gamma
+    assert beta["headline"] == "B" and beta["body"] == "b" and beta["url"] == "u2", \
+        "locked card keeps its front fields public"
+    assert beta["hasFull"] is True   # had blocks
+    assert gamma["hasFull"] is False  # never had a full at all
 
-    # locked cards are gone from public cards but present (whole, untruncated) in premium_locked
-    ids_public = {c["id"] for c in cards}
-    assert "beta" not in ids_public and "gamma" not in ids_public, "locked cards removed from public payload"
-    assert premium_locked["design/beta"]["full"]["blocks"] == [{"t": "p", "x": "LOCKED_DEEP"}], \
-        "locked card stored whole (front+full) in premium_locked"
-    assert premium_locked["design/gamma"]["id"] == "gamma"
+    # locked cards' blocks land in the premium map, keyed "<section>/<id>"
+    assert premium["design/beta"]["blocks"] == [{"t": "p", "x": "LOCKED_DEEP"}]
+    assert "design/gamma" not in premium, "gamma never had blocks, nothing to stash"
+    assert "design/alpha" not in premium, "free card needs no premium stash (already public)"
 
-    # premium carries the free card's ORIGINAL (untruncated) full
-    assert premium["design/alpha"]["blocks"] == [{"t": "p", "x": "DEEP1"}, {"t": "p", "x": "DEEP2"}]
+    # lockedCount reflects the 2 locked cards (beta, gamma)
+    assert today["lockedCount"] == 2, "lockedCount must count the locked cards"
 
-    # archive cards: teased in place (NOT removed/locked), original stashed in premium
+    # archive cards: fully public — no teaser, no locking
     day0 = data["sections"]["design"]["days"][0]
     arch_card = day0["cards"][0]
-    assert arch_card["full"]["blocks"] == [{"t": "p", "x": "ARCHIVE1"}], "archive card teased to first block"
-    assert arch_card["full"]["hasMore"] is True
+    assert arch_card["full"]["blocks"] == [{"t": "p", "x": "ARCHIVE1"}, {"t": "p", "x": "ARCHIVE2"}], \
+        "archive card keeps ALL its blocks"
     assert arch_card["hasFull"] is True
-    assert premium["design/delta"]["blocks"] == [{"t": "p", "x": "ARCHIVE1"}, {"t": "p", "x": "ARCHIVE2"}]
+    assert "locked" not in arch_card
+    assert "design/delta" not in premium, "archive cards need no premium stash (already public)"
 
-    # public JS must carry lockedCount + hasMore, and never leak locked/deep content
+    # public JS must carry lockedCount + every card's full front content; only
+    # locked-card deep-dive blocks must never leak.
     js = bd.to_js(data)
     assert '"lockedCount": 2' in js, "public JS carries per-section lockedCount"
-    assert "DEEP2" not in js, "free card's 2nd paragraph must not leak into public JS"
-    assert "LOCKED_DEEP" not in js, "locked card content must not leak into public JS"
-    assert "ARCHIVE2" not in js, "archive card's 2nd paragraph must not leak into public JS"
-    assert '"hasMore": true' in js, "public JS carries hasMore flag"
+    assert "DEEP1" in js and "DEEP2" in js, "free card's full deep-dive IS public"
+    assert "ARCHIVE1" in js and "ARCHIVE2" in js, "archive card's full deep-dive IS public"
+    assert "LOCKED_DEEP" not in js, "locked card's deep-dive must not leak into public JS"
+    assert '"locked": true' in js, "public JS marks locked cards"
     assert '"hasFull"' in js, "public JS carries hasFull flag"
 
     print("PASS test_split_full")
