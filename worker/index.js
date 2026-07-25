@@ -50,7 +50,21 @@ export default {
       return json({ loggedIn: true, email, entitled: ent.entitled });
     }
 
-    // /api/premium/full lands in Task 5.
+    if (p === "/api/premium/full") {
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 402);
+      const ent = await getEntitlement(env.DB, email);
+      if (!ent.entitled) return json({ reason: "subscription_required" }, 402);
+      const section = url.searchParams.get("section");
+      const id = url.searchParams.get("id");
+      const res = await env.ASSETS.fetch(new URL("/premium/full.json", env.BASE_URL));
+      if (!res.ok) return json({ reason: "unavailable" }, 503);
+      const map = await res.json();
+      const full = map[`${section}/${id}`];
+      if (!full) return json({ reason: "not_found" }, 404);
+      return json({ full });
+    }
+
     return env.ASSETS.fetch(request);
   },
 };
