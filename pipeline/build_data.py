@@ -47,28 +47,64 @@ def assert_no_duplicates(section, today, days):
     if dups:
         raise DuplicateCardError("; ".join(dups))
 
-def split_full(data):
-    """Move every card's `full` deep-dive out of the public payload.
-    Mutates cards in place (pops `full`, sets `hasFull`); returns the premium
-    map { "<section>/<id>": <full block> } for premium/full.json."""
+def split_teaser(data):
+    """Teaser paywall split (replaces the old split_full "entire deep-dive behind
+    login" model).
+
+    Per section:
+      - today.cards[0] ("free card") stays public, but its `full` is truncated to
+        a first-paragraph teaser: `{"blocks": blocks[:1], "hasMore": len(blocks) > 1}`.
+        Its ORIGINAL full blocks are stashed in `premium` for a future unlock.
+      - today.cards[1:] ("locked cards") are REMOVED from the public payload
+        entirely; their whole original card dict (front + full) is stashed in
+        `premium_locked`. `today["lockedCount"]` records how many were removed.
+      - Archive (`days`) cards are NOT locked/removed — they stay visible, but get
+        the same first-paragraph teaser treatment as the free card, with their
+        original full blocks stashed in `premium`.
+
+    Mutates `data` in place. Returns (premium, premium_locked):
+      premium        { "<section>/<id>": {"blocks": <ORIGINAL full blocks>} }
+                     — teaser remainders for the free card + every archive card.
+      premium_locked { "<section>/<id>": <ORIGINAL card dict> }
+                     — today cards removed from the public payload.
+    """
     sections = data.get("sections")
     if sections is None:
         sections = {"design": {"today": data.get("today", {"cards": []}),
                                "days": data.get("days", [])}}
     premium = {}
+    premium_locked = {}
+
+    def tease(c, sec):
+        blocks = ((c.get("full") or {}).get("blocks")) or []
+        cid = c.get("id")
+        if cid:
+            premium["%s/%s" % (sec, cid)] = {"blocks": blocks}
+        c["full"] = {"blocks": blocks[:1], "hasMore": len(blocks) > 1}
+        c["hasFull"] = len(blocks) > 0
+
     for sec, s in sections.items():
-        cards = list((s.get("today") or {}).get("cards", []))
-        for day in s.get("days", []):
-            cards += day.get("cards", [])
-        for c in cards:
+        today = s.get("today") or {"cards": []}
+        cards = list(today.get("cards", []))
+        # locked cards: cards[1:] — stash the whole original card, then drop them
+        # from the public payload.
+        for c in cards[1:]:
             cid = c.get("id")
-            full = c.pop("full", None)
-            if full and cid:
-                premium["%s/%s" % (sec, cid)] = full
-                c["hasFull"] = True
-            else:
-                c["hasFull"] = False
-    return premium
+            if cid:
+                premium_locked["%s/%s" % (sec, cid)] = c
+        today["lockedCount"] = max(0, len(cards) - 1)
+        if cards:
+            free = cards[0]
+            tease(free, sec)
+            free["free"] = True
+            today["cards"] = [free]
+        else:
+            today["cards"] = []
+        # archive cards: teaser only, never locked/removed.
+        for day in s.get("days", []):
+            for c in day.get("cards", []):
+                tease(c, sec)
+    return premium, premium_locked
 
 def to_js(data):
     # Back-compat: accept an old non-sectioned file too.
@@ -88,7 +124,8 @@ def to_js(data):
         if sec != "design" and not today.get("cards") and not days:
             continue
         ax_sections[sec] = {"label": SECTION_LABELS.get(sec, sec.title()),
-                            "news": today.get("cards", []), "days": days}
+                            "news": today.get("cards", []), "days": days,
+                            "lockedCount": today.get("lockedCount", 0)}
 
     design = ax_sections.get("design", {"news": [], "days": []})
 
@@ -180,12 +217,15 @@ def main():
                     help="absolute origin for OG urls/images in share pages")
     a = ap.parse_args()
     data = json.load(open(a.inp, encoding="utf-8"))
-    premium = split_full(data)  # strips `full`, adds `hasFull`, returns premium map
+    # teaser paywall split: truncates today's free card + every archive card to a
+    # first-paragraph teaser, and removes today's remaining cards from the public
+    # payload entirely (see split_teaser docstring).
+    premium, premium_locked = split_teaser(data)
     open(a.out, "w", encoding="utf-8").write(to_js(data))
     prem_dir = os.path.join(os.path.dirname(os.path.abspath(a.out)), "premium")
     os.makedirs(prem_dir, exist_ok=True)
     with open(os.path.join(prem_dir, "full.json"), "w", encoding="utf-8") as f:
-        json.dump(premium, f, ensure_ascii=False, indent=2)
+        json.dump({"cards": premium, "locked": premium_locked}, f, ensure_ascii=False, indent=2)
     if a.share_root:
         sections = data.get("sections") or {
             "design": {"news": data.get("today", {}).get("cards", []), "days": data.get("days", [])}}
