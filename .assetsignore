@@ -6,3 +6,24 @@
 .superpowers
 .playwright-mcp
 pipeline/runs
+
+# Worker toolchain: node_modules ships a >25 MiB workerd binary that the
+# static-assets uploader (and local miniflare via vitest-pool-workers) would
+# otherwise choke on; .wrangler is local build/state, not part of the site.
+node_modules
+.wrangler
+
+# Server-side source files: worker logic, DB schema, tests, and package management
+# should never be publicly accessible.
+worker/
+package.json
+package-lock.json
+vitest.config.js
+
+# Pipeline build inputs (news_data.json etc.) contain the un-split `full`
+# deep-dives — must NOT be publicly served, or the paywall is bypassed.
+# Scoped to *.json so pipeline/media/ (card images the site serves) stays public.
+pipeline/*.json
+
+# Internal design docs / specs / plans — not part of the public site.
+docs/superpowers
