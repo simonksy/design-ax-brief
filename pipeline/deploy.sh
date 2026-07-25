@@ -48,4 +48,4 @@ fi
 
 git push origin "$DEPLOY_BRANCH"
 echo "OK: '$DEPLOY_BRANCH' synced with main and pushed → Cloudflare Workers build triggered."
-echo "Verify in ~30-120s: curl -s https://axitdesign.simonksy.workers.dev/axbrief-data.js | grep -c <today-card-id>"
+echo "Verify in ~30-120s: curl -s https://axitnow.simonksy.workers.dev/axbrief-data.js | grep -c <today-card-id>"
