@@ -54,21 +54,25 @@ def run():
     # lockedCount reflects the 2 locked cards (beta, gamma)
     assert today["lockedCount"] == 2, "lockedCount must count the locked cards"
 
-    # archive cards: fully public — no teaser, no locking
+    # archive cards: gated like locked today-cards — locked: True, no full,
+    # front fields public, blocks stashed in premium
     day0 = data["sections"]["design"]["days"][0]
     arch_card = day0["cards"][0]
-    assert arch_card["full"]["blocks"] == [{"t": "p", "x": "ARCHIVE1"}, {"t": "p", "x": "ARCHIVE2"}], \
-        "archive card keeps ALL its blocks"
+    assert "full" not in arch_card, "archive card's full must be stripped from the public payload"
+    assert arch_card["locked"] is True, "archive card must be locked"
     assert arch_card["hasFull"] is True
-    assert "locked" not in arch_card
-    assert "design/delta" not in premium, "archive cards need no premium stash (already public)"
+    assert arch_card["headline"] == "D" and arch_card["body"] == "b" and arch_card["url"] == "u4", \
+        "archive card keeps its front fields public"
+    assert premium["design/delta"]["blocks"] == [{"t": "p", "x": "ARCHIVE1"}, {"t": "p", "x": "ARCHIVE2"}], \
+        "archive card's deep-dive blocks land in the premium map"
 
-    # public JS must carry lockedCount + every card's full front content; only
-    # locked-card deep-dive blocks must never leak.
+    # public JS must carry lockedCount + free card's full front content; locked
+    # (today AND archive) deep-dive blocks must never leak.
     js = bd.to_js(data)
     assert '"lockedCount": 2' in js, "public JS carries per-section lockedCount"
     assert "DEEP1" in js and "DEEP2" in js, "free card's full deep-dive IS public"
-    assert "ARCHIVE1" in js and "ARCHIVE2" in js, "archive card's full deep-dive IS public"
+    assert "ARCHIVE1" not in js and "ARCHIVE2" not in js, \
+        "archive card's deep-dive must not leak into public JS"
     assert "LOCKED_DEEP" not in js, "locked card's deep-dive must not leak into public JS"
     assert '"locked": true' in js, "public JS marks locked cards"
     assert '"hasFull"' in js, "public JS carries hasFull flag"
