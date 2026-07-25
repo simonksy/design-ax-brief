@@ -64,14 +64,20 @@ def split_teaser(data):
         card had any deep-dive blocks (so the UI knows a locked card "has more"
         even though it can't render it).
       - `today["lockedCount"]` still records how many today cards are locked.
-      - Archive (`days`) cards are fully public — COMPLETE `full`, never teased,
-        never locked (v1 teased archive cards; v2 restores them in full).
+      - Archive (`days`) cards are gated like locked today-cards (v3: the Past
+        Days archive is now Pro-only). For every archive card: `full` is
+        stripped out and stashed in `premium` (same map, keyed
+        "<section>/<id>"), `locked: True` is set, and `hasFull` reflects
+        whether the card had any deep-dive blocks at all. Front fields stay
+        public (visible blurred, same policy as locked today cards).
 
     Mutates `data` in place. Returns premium:
       premium { "<section>/<id>": {"blocks": <ORIGINAL full blocks>} }
-              — locked (today.cards[1:]) cards' stashed deep-dive blocks only.
-                Free cards and archive cards need no stash: their full content is
-                already public.
+              — locked (today.cards[1:]) cards' AND all archive cards' stashed
+                deep-dive blocks. Free cards need no stash: their full content
+                is already public. IDs are unique per section; if an archive
+                card and a locked today-card ever shared an id, the later
+                entry wins (acceptable — ids are unique per section).
     """
     sections = data.get("sections")
     if sections is None:
@@ -102,10 +108,17 @@ def split_teaser(data):
             today["cards"] = cards
         else:
             today["cards"] = []
-        # archive cards: fully public — no teaser, no locking. full stays as-is.
+        # archive cards: gated like locked today-cards — full stripped + stashed,
+        # locked: True set, front fields stay public.
         for day in s.get("days", []):
             for c in day.get("cards", []):
-                c["hasFull"] = len(blocks_of(c)) > 0
+                blocks = blocks_of(c)
+                cid = c.get("id")
+                if cid and blocks:
+                    premium["%s/%s" % (sec, cid)] = {"blocks": blocks}
+                c["hasFull"] = len(blocks) > 0
+                c["locked"] = True
+                c.pop("full", None)
     return premium
 
 def to_js(data):
@@ -219,9 +232,10 @@ def main():
                     help="absolute origin for OG urls/images in share pages")
     a = ap.parse_args()
     data = json.load(open(a.inp, encoding="utf-8"))
-    # teaser paywall split (v2): free card's deep-dive is fully public; locked
+    # teaser paywall split (v3): free card's deep-dive is fully public; locked
     # (today.cards[1:]) cards keep their front fields public but have `full`
-    # stripped out (stashed in premium); archive is fully public (see docstring).
+    # stripped out (stashed in premium); archive (days) cards are now gated the
+    # same way — locked, front fields public, full stashed (see docstring).
     premium = split_teaser(data)
     open(a.out, "w", encoding="utf-8").write(to_js(data))
     prem_dir = os.path.join(os.path.dirname(os.path.abspath(a.out)), "premium")
