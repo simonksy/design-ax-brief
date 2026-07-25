@@ -51,4 +51,13 @@ describe("auth + entitlement", () => {
     const me = await (await call("/api/me", { headers: { cookie: "ax_session=" + sess } })).json();
     expect(me).toEqual({ loggedIn: true, email: "free@x.com", entitled: false });
   });
+
+  it("returns ok (no crash) for a non-string email value", async () => {
+    const res = await call("/api/auth/request", {
+      method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ email: 123 }),
+    });
+    expect(res.status).toBe(200);
+    expect((await res.json()).ok).toBe(true);
+  });
 });

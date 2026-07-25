@@ -23,7 +23,7 @@ export default {
     if (p === "/api/auth/request" && request.method === "POST") {
       let email = "";
       try { email = (await request.json()).email; } catch {}
-      email = (email || "").trim().toLowerCase();
+      email = String(email || "").trim().toLowerCase();
       if (email) {
         const token = await issueMagicToken(env.AUTH_TOKENS, email);
         const link = `${env.BASE_URL}/api/auth/callback?token=${token}`;
