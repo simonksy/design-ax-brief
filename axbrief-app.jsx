@@ -412,7 +412,7 @@ function AxPill({ label, onClick, t, style }) {
    in-site entitlement system in this teaser-paywall iteration: "구독하기" opens
    the Patreon membership checkout in a new tab (no email, no /api call; unlock
    comes later when payment webhooks are wired). */
-const SUBSCRIBE_URL = 'https://www.patreon.com/simonksy';  // ← Patreon 페이지 URL (확정되면 교체)
+const SUBSCRIBE_URL = 'https://www.patreon.com/cw/axitnow';  // Patreon 멤버십 (Pro $9.99/월)
 function SubscribeModal({ onClose, t }) {
   return (
     <div onClick={onClose} style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
