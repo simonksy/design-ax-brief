@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "books",
   "selection_mode": "auto",
   "picks": [
@@ -7,97 +7,50 @@
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100888-judge-gives-final-approval-in-1-5-billion-settlement-in-anthropic-copyright-case.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "og_image": null,
-      "excerpt": "Judge Araceli Martinez-Olguin granted final approval to the landmark $1.5 billion settlement over Anthropic's use of pirated books to train its models. Roughly 500,000 titles were downloaded illegally; 92% of eligible authors and publishers opted in, at about $3,000 per infringed work.",
-      "rationale": "The largest copyright class action in US history is now final — it fixes a going rate ($3,000 per work) and a destroy-the-dataset condition that every publisher will negotiate against."
+      "url": "https://bookriot.com/tools-used-by-book-banners-2026/",
+      "source": "Book Riot",
+      "published_iso": "2026-07-24T12:00:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2024/08/site-book-censorship-image.jpg.optimal.jpg",
+      "excerpt": "A look at the software now shaping which books get flagged, including BookLens, an AI-powered book-rating tool that 'hallucinates' and fabricates content details for titles that sometimes don't even exist. A cautionary case study in how unreliable generative-AI book analysis is being wired into discovery, rating and gatekeeping decisions across schools and libraries.",
+      "rationale": "Names a specific AI book-rating tool (BookLens) and its hallucination failure mode being wired into real gatekeeping — the most actionable design x AI story in the pool for anyone building or trusting AI book-analysis tools."
     },
     {
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "url": "https://www.thebookseller.com/news/bloomsbury-lands-14m-in-anthropic-ai-settlement",
-      "source": "The Bookseller",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd27.jpg",
-      "excerpt": "Bloomsbury has secured roughly $18.7m (£14m) from the Anthropic copyright settlement, one of the first concrete figures showing what an individual trade publisher recovers when its catalogue is used as AI training data.",
-      "rationale": "First hard number on what a single trade house actually recovers — turns the abstract settlement into a benchmark publishers can price their own catalogue against."
+      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": null,
+      "excerpt": "When NYT journalist Kashmir Hill found an AI-generated biography of herself for sale on Amazon, she bought and read it, then tried to trace its author, exposing how machine-written nonfiction is quietly filling retail catalogs. A pointed look at AI-authored books and the collapse of authorship signals for readers.",
+      "rationale": "Concrete, traceable case of AI-generated nonfiction flooding Amazon under a real person's name — actionable for authors, editors and readers weighing authorship trust."
     },
     {
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "url": "https://janefriedman.com/substack-adds-ai-detection-tools-but-creators-can-disable-them/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2024/08/cropped-JF-website-header-2024-v2.png",
-      "excerpt": "Substack rolled out AI-detection labelling powered by Pangram so readers can see whether a post was AI-assisted — but writers can switch the badge off entirely, making disclosure effectively opt-in.",
-      "rationale": "A live platform-level AI disclosure system writers can toggle today — the opt-out design decides how much an AI label actually tells a reader."
-    },
-    {
-      "tool": "Books",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "url": "https://publishingperspectives.com/2026/07/wiley-joins-genesis-mission-consortium-in-support-of-u-s-ai-goals/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Wiley_Genesis-Mission-Consortium-793x446.jpg",
-      "excerpt": "Wiley is the only scientific publisher inside the US Department of Energy's Genesis Mission Consortium, joining Nvidia, AWS, Microsoft, IBM and AMD to supply peer-reviewed content for 'AI-accelerated innovation and discovery'.",
-      "rationale": "The licensing counter-move to the lawsuits: a major publisher feeding peer-reviewed content straight into a state-backed AI program — a template other houses will copy."
-    },
-    {
-      "tool": "Books",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/22/334849/ai-dominates-global-publishing-conversation-at-ipa-congress/",
-      "source": "Books+Publishing",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/IPA-congress-400x473.jpg",
-      "excerpt": "Generative AI was the biggest topic across panels at the International Publishers Congress in Kuala Lumpur, from licensing books as training data to how houses restructure editorial and production work around AI.",
-      "rationale": "Global read on where the trade actually stands — training-data licensing and editorial restructuring ran through every panel at the industry's biggest congress."
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-07-14T12:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/Figure-1.jpg",
+      "excerpt": "As AI assistants increasingly mediate how research is discovered and read, this essay argues open science must shift focus from mere access to trust, interpretation and effective communication. It reframes what publishers and libraries owe readers when a machine, not a person, is doing the reading.",
+      "rationale": "Reframes scholarly publishing strategy for an AI-mediated reading layer — moves the goalpost from access to trust and interpretation, a distinct angle from prior disclosure-standard coverage."
     }
   ],
   "dedup_notes": {
-    "history_checked": "Checked against sections.books in news_data.json — today (2026-07-23: zedoc, ai-course, editor-ai-survey) plus days 2026-07-18 (kindle-ai, libby-filter, textbook-3d, uk-copyright), 07-19 (pw-ai-analytics), 07-20 (fiction-feast, cartland-voice), 07-21 (fanfic-ai-markers, vancouver-ai-disclosure, bloomsbury-ai-licensing), 07-22 (ai-narration, ai-uptake, hologram). None of the five picks matches a published URL or story.",
+    "history_checked": "Checked against sections.books in news_data.json — today (2026-07-24: anthropic-final, bloomsbury-payout, substack-pangram, wiley-genesis, ipa-congress-ai) plus days 07-19 (pw-ai-analytics), 07-20 (fiction-feast, cartland-voice, bloomsbury-ai-licensing), 07-21 (fanfic-ai-markers, vancouver-ai-disclosure, bloomsbury-ai-licensing), 07-22 (ai-narration, ai-uptake, hologram), 07-23 (zedoc, ai-course, editor-ai-survey). None of the three picks matches a published URL or story: Book Riot BookLens has no prior bookriot coverage; the Jane Friedman NYT-nonfiction piece is distinct from published janefriedman cards (fanfic-ai-markers, substack-pangram); the Scholarly Kitchen Open Science 2.0 essay is a different URL and topic from the published vancouver-ai-disclosure standard piece.",
     "dropped_as_duplicates": [
       {
-        "url": "https://publishingperspectives.com/2026/07/court-grants-final-approval-to-landmark-1-5-billion-anthropic-settlement/",
-        "reason": "within-pool duplicate of the Anthropic final-approval story — kept Publishers Weekly as the single strongest source"
-      },
-      {
-        "url": "https://www.thebookseller.com/news/anthropics-15-billion-copyright-settlement-approved",
-        "reason": "within-pool duplicate of the Anthropic final-approval story"
-      },
-      {
-        "url": "https://www.booksandpublishing.com.au/articles/2026/07/22/334990/anthropic-settlement-approved/",
-        "reason": "within-pool duplicate of the Anthropic final-approval story"
-      },
-      {
-        "url": "https://goodereader.com/blog/digital-publishing/publishers-file-massive-lawsuit-against-google-gemini-training",
-        "reason": "story already published 2026-07-21 in card 'bloomsbury-ai-licensing' (Publishing Perspectives roundup reported publishers suing Google over Gemini training)"
-      },
-      {
         "url": "https://www.thebookseller.com/news/us-publishers-file-lawsuit-against-google-for-training-gemini-on-copyrighted-books",
-        "reason": "same Google/Gemini lawsuit already covered on 2026-07-21"
-      },
-      {
-        "url": "https://bookriot.com/new-lawsuit-against-google-for-using-digital-books-to-train-ai/",
-        "reason": "same Google/Gemini lawsuit already covered on 2026-07-21"
+        "reason": "Same Google/Gemini training lawsuit (Hachette, Cengage, Elsevier, Scott Turow) already published 2026-07-20 in card 'bloomsbury-ai-licensing' (Publishing Perspectives roundup reported publishers suing Google over Gemini training on their books). Earliest-wins — drop."
       }
-    ],
-    "ranked_below_final_five": [
-      "https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/ — evergreen essay, 10 days old",
-      "https://www.booksandpublishing.com.au/articles/2026/07/16/334694/industry-bodies-welcome-prime-ministers-comments-on-ai-and-copyright/ — 8 days old, and would have been a second Books+Publishing card",
-      "https://americanlibrariesmagazine.org/2026/07/14/2026-annual-conference-wrap-up/ — 10 days old, outlet outside the books allowlist"
-    ],
-    "diversity": "5 distinct outlets (Publishers Weekly, The Bookseller, Jane Friedman, Publishing Perspectives, Books+Publishing), 1 card per outlet — comfortably inside the <=2-per-outlet cap and >=3-outlet aim. Single category (books) as expected, so picks 2-5 take distinct accents from the sources.json palette (#0070f3, #7928ca, #2ec5c5, #eb367f). Topic spread: copyright ruling, publisher payout, platform disclosure tooling, content licensing, industry outlook."
+    ]
   },
+  "diversity": "3 distinct outlets (Book Riot, Jane Friedman, The Scholarly Kitchen), 1 card each — well inside the <=2-per-outlet cap and meeting the >=3-outlet aim. Single-category section (books) as expected, so picks 2 and 3 take distinct palette accents (#0070f3, #7928ca). Topic spread: AI book-rating tool reliability vs. AI-authored nonfiction / retail integrity vs. AI-mediated scholarly reading.",
   "shortfall": {
     "target_floor": 3,
-    "picked": 5,
+    "picked": 3,
     "below_floor": false,
-    "honest_note": "Full five picked from 14 filtered candidates after collapsing two large duplicate clusters (4-way Anthropic settlement, 3-way Google/Gemini lawsuit). No padding."
+    "honest_note": "Pool was 4 after URL-dedup. Content-dedup dropped the Google/Gemini lawsuit as a repeat of the 2026-07-20 coverage, leaving exactly 3 genuinely fresh stories — floor met without padding."
   }
 }

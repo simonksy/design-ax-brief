@@ -1,91 +1,77 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.builder.io/blog/why-every-agent-needs-a-face",
-      "title": "Why every agent needs a face",
-      "source": "Builder.io",
-      "published_iso": "2026-07-23T18:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/e4c684308790474e89718aeee905de81?width=1200",
-      "excerpt": "Builder.io argues designers should 'treat AI as your next user, not another feature' -- giving every agent a visible surface, state and personality instead of burying it behind a chat box.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Turns vague 'design for agents' talk into a concrete UI stance — give the agent a surface, state and presence — that a product designer can apply to a screen tomorrow."
+      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
+      "title": "Black Forest Labs launches FLUX 3, generating images and 20-second video with audio",
+      "source": "VentureBeat",
+      "published_iso": "2026-07-23T17:58:07+00:00",
+      "og_image": "",
+      "excerpt": "Black Forest Labs unveiled FLUX 3, a new generative model that produces both still images and up to 20-second video clips with audio, extending the FLUX line from image generation into audiovisual output for creative work. It ships in limited release to start.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Major model release extending FLUX from stills into 20-second audiovisual output — directly widens the generative toolkit designers can reach for; reputable source, high novelty."
     },
     {
-      "url": "https://dev.to/chris_fa_8fca9f4ba09d963/the-design-handoff-changed-heres-what-ai-legible-specs-look-like-38ki",
-      "title": "The design handoff changed: here's what AI-legible specs look like",
-      "source": "DEV Community",
-      "published_iso": "2026-07-22T09:44:37Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frasr4fgxg3t9vw4gyjfj.png",
-      "excerpt": "A practical breakdown of how the design handoff changes once a coding agent is the first reader: what 'AI-legible' specs, token naming and component contracts actually look like in a repo.",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "Highest actionability in the pool: rewrites the artifact every design team ships daily — the spec — for a world where an agent, not a developer, reads it first."
+      "url": "https://www.creativebloq.com/3d/chaos-just-fixed-one-of-the-biggest-problems-with-gaussian-splats-you-can-finally-relight-them",
+      "title": "Chaos just fixed one of the biggest problems with gaussian splats — you can finally relight them",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-23T11:00:00+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4JFkQxqABwmoB7fUoDxTdG-1600-80.jpg",
+      "excerpt": "Chaos has cracked one of the biggest limitations of Gaussian splats: relighting. Captured splat scenes can now react to new lighting inside a production render pipeline, closing a long-standing gap between neural capture and traditional CG lookdev.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "Relightable splats close a real production gap between neural capture and CG lookdev — actionable for render/lookdev artists; distinct Chaos release, not a repeat of prior splat items."
     },
     {
-      "url": "https://www.youtube.com/watch?v=OxoV79nv4v0",
-      "title": "Motion for people who are scared of motion software",
-      "source": "Figma (YouTube)",
-      "published_iso": "2026-07-22T14:47:00Z",
-      "og_image": "https://i.ytimg.com/vi/OxoV79nv4v0/maxresdefault.jpg",
-      "excerpt": "'Motion for people who are scared of motion software' -- a Figma Motion walkthrough where the Figma agent generates a starting animation the designer then refines on canvas, with no After Effects round-trip.",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "Shows the agent-generates-then-designer-refines loop working inside Figma Motion, removing the After Effects round-trip for UI animation — usable the same day."
-    },
-    {
-      "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30",
-      "title": "The trust test: four questions every tool (even Figma) should answer about AI training and model usage",
+      "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4",
+      "title": "The aggressively mediocre fight: the battle we have with AI and creativity",
       "source": "UX Collective",
-      "published_iso": "2026-07-23T21:43:31Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*v-ZMSxT2f8iivdbfPNtyQQ.png",
-      "excerpt": "A 'trust test' of four questions every design tool -- Figma included -- should be able to answer about how it trains on and uses customer work, framed for design leads doing vendor due diligence.",
+      "published_iso": "2026-07-24T11:09:23+00:00",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
+      "excerpt": "Designer Chris R Becker on the daily battle creatives face with AI — how leaning on generative tools can pull work toward the 'aggressively mediocre,' and what designers must do to push past the default output.",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Gives design leads a four-question checklist for AI-training due diligence — governance a team can run against its own tool stack this week."
+      "rationale": "A workflow-level take on resisting default generative output — changes how a designer approaches AI-assisted work tomorrow; adds category spread beyond render."
     },
     {
-      "url": "https://develop3d.com/3d-scanning/hp-z-captis-adobe-substance/",
-      "title": "HP Z Captis 3D scanner gets an AI boost via Adobe Substance 3D Sampler",
-      "source": "DEVELOP3D",
-      "published_iso": "2026-07-22T10:20:50Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/media_1eccf2340900cccd14c541eee88ca854c8c713dd9.jpg-copy.jpg",
-      "excerpt": "HP's Z Captis 3D scanner gains an AI boost through integration with Adobe Substance 3D Sampler, tightening the loop from physical object capture to production-ready materials and assets.",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "A concrete capture-to-material pipeline shipping between two real products, pulling AI-assisted scanning into the industrial-design and 3D asset workflow."
+      "url": "https://dev.to/parweb/how-to-make-a-landing-page-that-doesnt-look-ai-generated-7-concrete-fixes-i83",
+      "title": "How to Make a Landing Page That Doesn't Look AI-Generated (7 Concrete Fixes)",
+      "source": "DEV Community",
+      "published_iso": "2026-07-24T13:08:28+00:00",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F67g50i36575bo9fg0i25.png",
+      "excerpt": "A practical designer's guide with seven concrete fixes for making AI-assisted landing pages stop looking generic — the spacing, type, imagery and copy tells that give away 'AI-generated' work and how to correct them.",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Seven concrete, apply-tomorrow fixes for de-genericizing AI-assisted UI — highly actionable and hands-on; distinct from the prior anti-slop 'Hallmark' piece."
     }
   ],
   "dedup": {
-    "pool_size": 23,
-    "kept": 5,
+    "pool_size": 5,
+    "kept": 4,
     "dropped_as_duplicate": 1,
     "dropped_for_diversity": 0,
-    "checked_against": "sections.design — today (2026-07-23) + days 2026-07-18 through 07-22 (18 published cards)",
+    "checked_against": "sections.design — today (2026-07-24, 5 cards) + days 2026-07-19 through 07-23 (published cards)",
     "notes": [
-      "DROPPED as content duplicate: https://develop3d.com/visualisation/nvidia-backs-hybrid-ai-to-reshape-computer-graphics/ — same event/release as published card 'nvidia' (2026-07-21, NVIDIA Blog, https://blogs.nvidia.com/blog/siggraph-news-2026/): Nvidia's SIGGRAPH 2026 agentic-AI-for-creative-tools push (AI agents orchestrating classical rendering via Omniverse libraries). Different outlet, same announcement.",
-      "Near-dup deprioritised: https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374 — same core argument (interface layers losing their central role under AI) as published card 'screens-demoted' (2026-07-23, UX Collective).",
-      "Within-pool cluster noted: Creative Bloq's Kylie Jenner / Meta AI-glasses advert piece and Engadget's 'Meta's pro-AI ad campaign is light on AI' are distinct articles but one Meta-advertising-and-AI cluster; at most one was eligible and neither outscored the picks.",
-      "Two Figma-YouTube tutorials were in the pool (Motion agent walkthrough, arc-tool loading states). Same channel + same Figma Motion topic dropped together — kept only the stronger agent-generated-animation one.",
-      "Backfill: after the Nvidia drop, 22 survivors remained and the slate was filled to a full 5 with never-before-published stories."
+      "DROPPED as content duplicate: https://develop3d.com/visualisation/nvidia-backs-hybrid-ai-to-reshape-computer-graphics/ — same NVIDIA SIGGRAPH 2026 release already published as card 'nvidia' (2026-07-21, https://blogs.nvidia.com/blog/siggraph-news-2026/). This exact URL was also judged a content duplicate in the 2026-07-24 curation and never published; earliest-wins keeps it out again.",
+      "Chaos relightable-splats verified distinct from prior splat cards (zephyr9 07-19, inversphere 07-21, 3dsmax20262 editable splats 07-23, vray74 07-22) — different product/feature and URL.",
+      "FLUX 3, aggressively-mediocre, and landing-page items have no prior URL or content match in the 5-day design history.",
+      "No backfill available: filtered pool held only 5 items; after the one duplicate drop, 4 unique fresh stories remain. Landing at 4 (above floor 3), not padded."
     ],
     "diversity_guard": {
-      "outlets": "5 distinct (Builder.io, DEV Community, Figma/YouTube, UX Collective, DEVELOP3D) — 1 each, well under the 2-per-outlet cap",
-      "categories": "5 distinct (figma, tokens, social, workflow, cad) — 1 each, so every pick uses its own sources.json accent with no collisions"
+      "outlets": "4 distinct (VentureBeat, Creative Bloq, UX Collective, DEV Community) — 1 each, under the 2-per-outlet cap",
+      "categories": "render x2 (distinct accents #f5a623 / #3b6bff), workflow x1, figma x1 — within the max-2-per-category aim; render pair is genuinely distinct sub-topics from distinct outlets"
     },
-    "below_target": false
+    "below_target": true
   }
 }

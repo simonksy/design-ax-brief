@@ -1,11 +1,9 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "books",
   "media": [
-    { "id": "anthropic-final", "type": "image", "src": "pipeline/media/anthropic-final.jpg" },
-    { "id": "bloomsbury-payout", "type": "image", "src": "pipeline/media/bloomsbury-payout.jpg" },
-    { "id": "substack-pangram", "type": "svg" },
-    { "id": "wiley-genesis", "type": "image", "src": "pipeline/media/wiley-genesis.jpg" },
-    { "id": "ipa-congress-ai", "type": "svg" }
+    { "id": "booklens-hallucinate", "type": "image", "src": "pipeline/media/booklens-hallucinate.jpg" },
+    { "id": "ai-nonfiction-hill", "type": "image", "src": "pipeline/media/ai-nonfiction-hill.png" },
+    { "id": "open-science-2", "type": "image", "src": "pipeline/media/open-science-2.jpg" }
   ]
 }

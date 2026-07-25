@@ -1,11 +1,10 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "design",
   "media": [
-    { "id": "agentface", "type": "image", "src": "pipeline/media/agentface.png" },
-    { "id": "ailegible", "type": "image", "src": "pipeline/media/ailegible.png" },
-    { "id": "figmotion", "type": "video", "src": "pipeline/media/figmotion.mp4", "poster": "pipeline/media/figmotion.jpg" },
-    { "id": "trusttest", "type": "image", "src": "pipeline/media/trusttest.png" },
-    { "id": "zcaptis", "type": "image", "src": "pipeline/media/zcaptis.jpg" }
+    {"id": "flux3", "type": "image", "src": "pipeline/media/flux3.png"},
+    {"id": "chaossplat", "type": "image", "src": "pipeline/media/chaossplat.jpg"},
+    {"id": "mediocre", "type": "image", "src": "pipeline/media/mediocre.png"},
+    {"id": "landing7", "type": "image", "src": "pipeline/media/landing7.png"}
   ]
 }

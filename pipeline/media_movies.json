@@ -1,11 +1,9 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "movies",
   "media": [
-    { "id": "premiere-genmedia", "type": "image", "src": "pipeline/media/premiere-genmedia.jpg" },
-    { "id": "kokboru", "type": "image", "src": "pipeline/media/kokboru.jpg" },
-    { "id": "sam2matte", "type": "video", "src": "pipeline/media/sam2matte.mp4", "poster": "pipeline/media/sam2matte.jpg" },
-    { "id": "promiseai", "type": "image", "src": "pipeline/media/promiseai.png" },
-    { "id": "raindanceimgn", "type": "image", "src": "pipeline/media/raindanceimgn.jpg" }
+    { "id": "smartroto", "type": "image", "src": "pipeline/media/smartroto.jpg" },
+    { "id": "sparkstory", "type": "image", "src": "pipeline/media/sparkstory.jpg" },
+    { "id": "griptape", "type": "image", "src": "pipeline/media/griptape.jpg" }
   ]
 }

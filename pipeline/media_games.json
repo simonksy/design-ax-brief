@@ -1,33 +1,17 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "games",
   "media": [
     {
-      "id": "fnaivoice",
+      "id": "nvidia-dgx-agents",
       "type": "image",
-      "src": "pipeline/media/fnaivoice.jpg"
+      "src": "pipeline/media/nvidia-dgx-agents.jpg"
     },
     {
-      "id": "openriglogic",
+      "id": "steam-aidisclosure-devs",
       "type": "video",
-      "src": "pipeline/media/openriglogic.mp4",
-      "poster": "pipeline/media/openriglogic.jpg"
-    },
-    {
-      "id": "steamcensus",
-      "type": "image",
-      "src": "pipeline/media/steamcensus.png"
-    },
-    {
-      "id": "mkwiicomp",
-      "type": "image",
-      "src": "pipeline/media/mkwiicomp.jpg"
-    },
-    {
-      "id": "inworldtts",
-      "type": "video",
-      "src": "pipeline/media/inworldtts.mp4",
-      "poster": "pipeline/media/inworldtts.jpg"
+      "src": "pipeline/media/steam-aidisclosure-devs.mp4",
+      "poster": "pipeline/media/steam-aidisclosure-devs.jpg"
     }
   ]
 }

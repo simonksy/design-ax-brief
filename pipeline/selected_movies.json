@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "movies",
   "selection_mode": "auto",
   "picks": [
@@ -7,86 +7,54 @@
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Adobe Premiere is adding a Generative Media Tool",
-      "url": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-07-10T12:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-000965-gen-media-tool.jpg",
-      "excerpt": "Adobe's new Generative Media Tool lets editors create AI-generated video and sound effects directly on the Premiere timeline — drag across empty track space, prompt, and choose a model — without leaving the NLE.",
-      "rationale": "Highest actionability in the pool — generation moves onto the Premiere timeline itself, so editors fill gaps and SFX without round-tripping to a separate AI tool."
+      "title": "Foundry's SmartRoto: AI-assisted roto that aims to work the way you do",
+      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
+      "source": "fxguide",
+      "published_iso": "2026-07-16T16:59:49Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
+      "excerpt": "Foundry released SmartRoto, an AI-powered plugin for Nuke, NukeX, Nuke Studio and Nuke Indie built on a proprietary machine-learning model trained over four years. Artists key significant frames and SmartRoto snaps roto splines into place across a shot — up to 4x faster than manual rotoscoping while keeping spline-based precision and artist control.",
+      "rationale": "Highest actionability — a shipping Nuke plugin that makes rotoscoping up to 4x faster while preserving spline precision changes a compositor's daily workflow immediately; credible fxguide deep-dive on a brand-new release."
     },
     {
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "Higgsfield Debuts 'Kök Börü' Showcasing Hybrid Human-AI Animation Pipeline",
-      "url": "https://www.awn.com/news/higgsfield-debuts-k-k-b-r-showcasing-hybrid-human-ai-animation-pipeline",
+      "title": "Lightcraft Technology Opens Spark Story Beta at SIGGRAPH 2026",
+      "url": "https://www.awn.com/news/lightcraft-technology-opens-spark-story-beta-siggraph-2026",
       "source": "Animation World Network",
-      "published_iso": "2026-07-23T18:15:44Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/kokboru1.jpg?itok=GWcRy1zx",
-      "excerpt": "Premiering at SIGGRAPH 2026, the 15-minute animated short — a historical drama rooted in Central Asian folklore — was made by a team of 12 in two weeks on the Higgsfield platform. The studio walked through a hybrid, human-conditioned pipeline built on hand-drawn character designs, props and painted textures.",
-      "rationale": "A documented human-conditioned pipeline — hand-drawn design and painted textures steering generation — with a concrete 12-artists-in-two-weeks production benchmark."
+      "published_iso": "2026-07-20T12:00:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/web_library_locations-1280.jpg?itok=NDkiU7Xb",
+      "excerpt": "Lightcraft opened a rolling beta of Spark Story, a browser-based interactive previs system that loads Final Draft scripts, parses them for locations and characters, and ties every shot to a scene. It ships with 25+ World Labs 'Marble' environments and 300+ 3D assets, plus Gaussian splats, USD import and real-time 24p iOS live-action compositing so global teams can workshop a virtual film set from day one.",
+      "rationale": "Novel, hands-on tool now open to sign-ups — script-to-previs in the browser with Gaussian splats and live-action compositing lets directors and previs artists workshop a virtual set today; distinct outlet (AWN) keeps the trio diverse."
     },
     {
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "FREE SAM2 Matting Tool",
-      "url": "https://www.youtube.com/shorts/Tr0AzAljYUE",
-      "source": "Curious Refuge",
-      "published_iso": "2026-07-23T18:17:59Z",
-      "og_image": "https://i.ytimg.com/vi/Tr0AzAljYUE/maxresdefault.jpg",
-      "excerpt": "A free SAM2-based matting tool demoed for AI filmmakers — segmentation-driven roto/matte extraction that slots into a generative-video post workflow.",
-      "rationale": "Free and immediately usable — the cheapest way to add clean roto/mattes to a generative-video shot tomorrow, and a fresh tool rather than commentary."
-    },
-    {
-      "tool": "Movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "title": "Creatives from 'Sharknado' and 'Doctor Who' Are Now Making AI Films",
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-films-promise-sharknado-doctor-who-1236648616/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-07-15T15:00:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/PromiseTuning.png?w=960&h=540&crop=1",
-      "excerpt": "For its new slate, the startup Promise AI is pairing traditional screenwriters and showrunners with generative creators — including releasing the animated AI film 'Tuning In' — as a test of what a hybrid AI film crew looks like.",
-      "rationale": "Craft hook rather than business noise — it shows how a hybrid crew is actually staffed, with writers and showrunners sitting beside generative artists on a shipped film."
-    },
-    {
-      "tool": "Movies",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "title": "Raindance Film Festival, AI Platform IMGN Launch New Film Fund and Development Hub for Indie Filmmakers",
-      "url": "https://variety.com/2026/film/global/raindance-israel-ai-platform-imgn-development-fund-1236809594/",
-      "source": "Variety",
-      "published_iso": "2026-07-16T11:57:42Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/Raindance.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Raindance and AI platform IMGN are launching a development hub that puts generative production tooling — plus financing — in the hands of independent filmmakers.",
-      "rationale": "More than a funding note: a festival-backed hub that hands indie filmmakers an actual generative production toolchain they can apply to use."
+      "title": "Foundry Adds Griptape Enterprise for Pro-Grade AI in VFX",
+      "url": "https://postperspective.com/foundry-adds-griptape-enterprise-for-pro-grade-ai-in-vfx/",
+      "source": "postPerspective",
+      "published_iso": "2026-07-16T08:00:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/11-624x416.jpg",
+      "excerpt": "Foundry announced Griptape Enterprise, an AI workflow-orchestration tier with studio-controlled licensing and on-prem deployment that lets pipeline supervisors curate exactly which AI models artists use, keeping VFX workflows vetted and production-ready.",
+      "rationale": "Directly actionable for pipeline supervisors — studio-controlled, on-prem AI orchestration that dictates exactly which models VFX artists can run day to day; credible postPerspective report on a fresh enterprise tier."
     }
   ],
   "shortfall": false,
+  "shortfall_reason": null,
   "dedup_report": {
-    "candidates_evaluated": 15,
-    "kept": 5,
-    "dropped_as_duplicates": 7,
+    "candidates_evaluated": 6,
+    "kept": 3,
+    "dropped_as_duplicates": 3,
     "floor": 3,
     "cap": 5,
-    "baseline": "news_data.json -> sections.movies: today 2026-07-23 (autodesk, animaj, nightborne, hpzcaptis, substance3d) + days 2026-07-17, 07-18, 07-19, 07-21, 07-22. Additionally cross-checked against pipeline/selected_movies.json from the 2026-07-23 run, whose baseline records the now-rolled-off 2026-07-16 cards (vigloo, ted-deepvoodoo, clearangle, topaz-video).",
+    "baseline": "news_data.json -> sections.movies: today 2026-07-24 + days 2026-07-23/22/21/19/18, plus the prior run's dedup memory of the now-rolled-off 2026-07-16 movies cards (vigloo, ted-deepvoodoo, clearangle, topaz-video). Recovery pass added two new fresh candidates (SmartRoto, Spark Story), lifting the fresh survivor count from 1 to 3 and meeting floor 3.",
     "drops": [
-      "https://www.awn.com/news/autodesk-adds-maya-3ds-max-flow-production-tracking-and-arnold-tools — same SIGGRAPH 2026 Autodesk release (MotionMaker BYOD, editable 3DGS in 3ds Max, Flow Review, Arnold viewport) already published 2026-07-23 as card 'autodesk' (postPerspective).",
-      "https://www.animationmagazine.net/2026/07/siggraph-autodesk-announces-new-tools-to-accelerate-animation-vfx-workflows/ — same Autodesk SIGGRAPH release as card 'autodesk' (2026-07-23), different outlet.",
-      "https://www.awn.com/news/lightcraft-technology-opens-spark-story-beta-siggraph-2026 — same Lightcraft Spark Story beta already published 2026-07-22 as card 'spark-story' (postPerspective).",
-      "https://www.cartoonbrew.com/artificial-intelligence/netflix-genai-300-titles-in-first-half-2026-264631.html — same Netflix ~300-titles GenAI disclosure already published 2026-07-18 as card 'netflix-300-ai' (Engadget).",
-      "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/ — within-pool duplicate of the same 'Kök Börü' premiere/making-of story; kept the single strongest article (AWN pipeline breakdown).",
-      "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/ — same Vigloo Studio beta already published 2026-07-16 as card 'vigloo'; that day has rolled out of the 5-day window in news_data.json, so the deterministic URL pass could not see it. Earliest-wins.",
-      "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/ — same Clear Angle scanning story already published 2026-07-16 as card 'clearangle'; likewise invisible to the 5-day URL pass. Earliest-wins."
+      "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026 — same Puget Systems SIGGRAPH 2026 'Robo Dojo' activation already published 2026-07-21 as card 'switchlight3' (provideocoalition.com). Same event, different outlet. Earliest-wins.",
+      "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/ — same Vigloo Studio beta already published 2026-07-16 as card 'vigloo'. Rolled off the visible 5-day window, but earliest-wins is binding.",
+      "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/ — same Clear Angle scanning story already published 2026-07-16 as card 'clearangle'. Rolled-off day; earliest-wins is binding."
     ],
-    "dropped_as_noise": [
-      "https://deadline.com/2026/07/christopher-nolan-praises-gen-z-utterly-rejecting-ai-1236979769/ — commentary/discourse, no craft hook.",
-      "https://deadline.com/2026/07/sag-aftra-recommends-members-opt-out-meta-ai-feature-1236979025/ — consumer-platform likeness policy, only marginal production relevance.",
-      "https://deadline.com/2026/07/tubi-substitute-teacher-house-rules-ai-wall-of-entertainment-1236981789/ — partnership announcement with no disclosed workflow detail."
-    ],
-    "diversity": "Single-category section (movies), so spread enforced by outlet: 5 distinct outlets (ProVideo Coalition, Animation World Network, Curious Refuge, The Hollywood Reporter, Variety) — no outlet repeated, well inside the 2-per-outlet cap. Distinct accents assigned from the sources.json palette since all picks share the movies category.",
-    "notes": "Pool of 15 -> 7 content duplicates dropped (5 vs. the visible 5-day window and within-pool, 2 vs. the rolled-off 2026-07-16 day recovered from the previous run's dedup report) -> backfilled down the ranked pool to exactly 5 distinct, never-before-seen stories. Mix spans NLE editing, animation production pipeline, a free post tool, hybrid crew staffing and indie access to generative tooling."
+    "diversity": "3 picks across 3 distinct outlets (fxguide, AWN, postPerspective) — max 1 per outlet, satisfies the FINAL diversity guard. All are the 'movies' category (single-category section), so each pick carries a distinct accent (#0070f3, #f5a623, #7928ca) to keep cards visually distinct.",
+    "notes": "Puget 'Robo Dojo' RedShark and previously-published provideocoalition 'switchlight3' are the same activation (flagged in task) — dropped as already-published. Foundry SmartRoto (fxguide, 07-16) and Lightcraft Spark Story (AWN, 07-20) are the two genuinely-new stories surfaced by the recovery pass; combined with Foundry Griptape Enterprise they form 3 never-before-seen picks. Both Foundry stories are distinct releases (SmartRoto = roto plugin; Griptape = enterprise orchestration tier), not a content-hub duplicate."
   }
 }

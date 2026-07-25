@@ -1,239 +1,101 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "music",
   "cards": [
     {
-      "id": "concatenator",
+      "id": "maqam-archive",
       "eyebrow": "AI NEWS",
-      "headline": "스튜디오 잼을 AI 샘플러에 통째로 넣어\nCharli XCX의 드럼이 나왔다",
-      "mini_headline": "AI 샘플러로 짠 드럼",
-      "body": "A. G. Cook은 잼 녹음을 Concatenator에 넣어 드럼 패턴을 짰다.",
+      "headline": "미분음 아랍 마캄 튜닝을\nDAW 안으로 가져오는 무료 플러그인",
+      "body": "카얌 알라미 연구팀이 수백 개 아랍 마캄 튜닝을 무료 아카이브와 오픈소스 플러그인 탕힘으로 함께 공개했다.",
+      "mini_headline": "아랍 마캄 튜닝 오픈소스",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/artists/we-were-running-around-the-studio-with-as-many-things-plugged-in-as-possible-just-doing-the-worst-sounds-trying-to-find-the-ugliest-things-how-charli-xcxs-producers-ran-a-jam-session-through-an-ai-sampling-plugin-to-make-no-one-lasts-forever",
+      "source": "CDM Create Digital Music",
+      "url": "https://cdm.link/digital-arabic-maqam-archive-and-open-source-midi-plug-in/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "Charli XCX의 일곱 번째 정규작 《Music, Fashion, Film》이 7월 24일 나왔다. 《Brat》의 일렉트로 팝에서 기타 중심의 내성적인 소리로 방향을 튼 앨범이다."
-          },
-          {
-            "t": "video",
-            "yt": "_OhDEvEODsc"
-          },
-          {
-            "t": "p",
-            "x": "수록곡 'No One Lasts Forever'에는 데이비드 크로넨버그가 임사 체험을 이야기하는 낭독이 들어간다. Charli는 이 곡 때문에 자기 삶과 작업을 보는 방식이 바뀌었다고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/evpNS9KhvWNNpr6gRcMmF6.jpg",
-            "cap": "A. G. Cook과 Finn Keane"
-          },
-          {
-            "t": "p",
-            "x": "프로듀서 A. G. Cook과 Finn Keane은 이 곡을 거의 라이브로 쌓았다. 심하게 왜곡한 기타에 미니무그와 PPG Wave 같은 옛 신시사이저를 늘어놓고 녹음했고, MIDI 프로그래밍은 거의 쓰지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "Tape Notes 팟캐스트에서 두 사람은 그날의 잼을 이렇게 옮겼다. 스튜디오를 뛰어다니며 연결할 수 있는 건 다 연결했고, 제일 형편없는 소리를 내면서 가장 못생긴 걸 찾아다녔다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/WJ44S9ZzJgqRc32UcJT3fY.jpg",
-            "cap": "Datamind Audio의 오디오 모자이킹 플러그인"
-          },
-          {
-            "t": "p",
-            "x": "그렇게 모인 소리 더미를 Datamind Audio의 Concatenator에 넣었다. 샘플을 음색과 음정, 진폭으로 분석해 두었다가 들어오는 오디오를 비슷한 조각으로 실시간에 이어 붙이는 '오디오 모자이킹' 플러그인이다. 연결 합성을 AI로 돌린다고 보면 된다."
-          },
-          {
-            "t": "p",
-            "x": "Cook은 이 도구로 잼에서 나온 재료만 가지고 드럼 패턴을 짰다. 대화 진행은 Tape Notes의 John Kennedy가 맡았다."
-          }
+          { "t": "p", "x": "카얌 알라미가 수백 개에 이르는 아랍 튜닝 체계와 아즈나스, 마카마트를 무료 공개 아카이브로 묶고 여기에 맞물리는 MIDI 플러그인을 함께 선보였다. 베이루트에서 발표한 연구에서 출발한 작업으로, 크게 두 갈래다." },
+          { "t": "p", "x": "첫째는 디지털 아랍 마캄 아카이브다. 베이루트 아메리칸대학교 음악지능연구소의 카얌 알라미 박사와 이브라힘 엘 칸사가 만든 다국어 오픈소스 플랫폼으로, 아랍 마캄 이론을 담은 말뭉치이자 API 역할을 한다. diarmaqar.net에서 영어·아랍어·프랑스어로 볼 수 있고 깃허브에도 소스가 열려 있다." },
+          { "t": "img", "src": "https://cdm.link/app/uploads/2026/07/archive-1024x772.png", "cap": "여러 튜닝 모델을 나란히 보여주는 마캄 아카이브 화면" },
+          { "t": "p", "x": "아카이브는 현 길이와 프렛 위치, 음군, 오선 기보, 센트 등 여러 방식으로 튜닝을 시각화한다. 서양과 아랍의 이론 모델을 현대와 역사 양쪽 관점에서 나란히 살펴보게 해준다." },
+          { "t": "p", "x": "둘째는 탕힘 MIDI 플러그인이다. macOS와 윈도우, 리눅스용 무료 오픈소스 도구로, 소프트웨어 안에서 튜닝을 걸고 실시간으로 조정하게 해준다. Oddsound MTS-ESP와 MPE, 모노포닉 피치 벤드를 모두 지원해 오래된 MIDI 장비와도 맞물린다. MIDI 이펙트를 기본 지원하지 않는 에이블톤 라이브를 위해 Max for Live 기기도 함께 담았다." },
+          { "t": "img", "src": "https://cdm.link/app/uploads/2026/07/tanghim-ui-1-1024x799.png", "cap": "실시간 튜닝을 조정하는 탕힘 플러그인 인터페이스" },
+          { "t": "p", "x": "탕힘은 아랍어로 음을 잡고 소리를 세우는 행위를 뜻한다. 악기 현을 기계적으로 맞추는 두잔과는 다른 개념으로, 연주자가 실제로 음을 조율하고 옮겨 다니는 방식을 담으려 했다. 알라미와 학자 사미 슈메이스는 기존 소프트웨어가 연주자의 실제 행동을 제대로 담지 못한다고 지적해 왔다." },
+          { "t": "p", "x": "알라미는 이 작업을 20세기 이론과 기술이 표준화하며 눌러온 음악을 다시 여는 시도로 본다. 아랍 마캄을 넘어 다른 음악 전통에도 같은 접근을 쓸 수 있다는 얘기다." }
         ]
       }
     },
     {
-      "id": "peelstems2",
+      "id": "talk-to-spotify",
       "eyebrow": "AI NEWS",
-      "headline": "스템 분리 지연을 절반으로 줄인\nzplane Peel Stems 2",
-      "mini_headline": "지연 절반 낸 스템 분리",
-      "body": "44.1kHz 처리 지연이 483ms에서 245ms로 줄고 잡음도 함께 줄었다.",
+      "headline": "스포티파이 대화형 AI가\n음악 발견의 규칙을 바꾼다",
+      "body": "스포티파이가 챗봇형 ‘토크 투 스포티파이’를 베타 공개하며, 프롬프트로 음악을 찾는 대화형 발견을 실험한다.",
+      "mini_headline": "프롬프트로 음악 발견",
       "tool": "Music",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/peel-stems-2-zplane",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/talk-to-spotify-what-ai-chatbots-mean-for-music-marketing/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg",
-            "cap": "zplane Peel Stems 2"
-          },
-          {
-            "t": "p",
-            "x": "zplane이 실시간 스템 분리 플러그인 Peel Stems를 2로 올렸다. 속도와 음질, 손에 잡히는 쓰임새를 한꺼번에 손본 판이다."
-          },
-          {
-            "t": "p",
-            "x": "가장 크게 바뀐 건 지연이다. 44.1kHz에서 483ms이던 처리 지연이 245ms로 떨어졌다. 49% 감소다. 인텔 맥에서는 385ms로 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "갈라낸 소리도 잡음이 줄었다. isolation 슬라이더는 먹히는 범위가 넓어졌고, Focus EQ는 위아래 컷오프 주파수를 함께 띄운다. GUI는 스템 색 구성을 새로 짜서 다시 그렸다."
-          },
-          {
-            "t": "p",
-            "x": "zplane 공동창업자 겸 CTO Tim Flohrer는 \"Peel Stems 2로 DAW 안에서 돌아가는 실시간 스템 분리를 더 밀어붙이고 싶었다\"며, 지연을 크게 줄이고 음질을 끌어올린 이번 버전이 스템 분리 기술의 큰 진전이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "AU와 VST3, AAX를 받는 DAW라면 그 자리에서 스템이 갈라진다. 주파수와 스테레오 영역을 좁혀 듣는 스펙트럴 처리도 안에 들어 있다. 처리는 전부 로컬에서 끝나 클라우드 업로드가 없고, 구독이나 로그인도 요구하지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "윈도우 10 이상과 macOS 13 이상을 지원하며 VST3·AU·AAX로 나온다. 가격은 59유로, 기존 사용자는 19유로에 올릴 수 있다."
-          }
+          { "t": "p", "x": "스포티파이가 챗GPT 방식의 대화형 AI ‘토크 투 스포티파이’를 내놨다. 미국과 아일랜드, 스웨덴의 18세 이상 프리미엄 사용자를 대상으로 한 베타로, 홈 화면과 재생 화면에서 바로 부를 수 있다. 수동적인 알고리즘 추천 대신 프롬프트로 주고받는 능동적 감상으로 방향을 튼다." },
+          { "t": "img", "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Talk-To-Spotify.png", "cap": "대화형 AI 기능 ‘토크 투 스포티파이’ 소개 이미지" },
+          { "t": "p", "x": "사용자는 ‘안 들어본 아티스트를 틀어줘’ 같은 요청으로 세션을 실시간으로 바꾸고 ‘좀 더 신나게’ 하고 다시 다듬는다. 재생 중인 곡의 발매일이나 장르, 작곡 배경을 묻거나, 올해 자신이 그 곡을 언제 처음 들었는지도 확인한다." },
+          { "t": "p", "x": "그동안 음악 발견은 검색과 디스커버 위클리 같은 수동적 알고리즘에 기대 왔다. 대화형 방식은 이를 사람마다 다른 구체적인 대화로 바꿔, 틈새 아티스트에게도 기회를 넓힌다. AI는 요청을 처리하며 메타데이터와 태그, 음원 프로필을 훑는다." },
+          { "t": "p", "x": "아티스트와 마케터가 준비할 것도 뚜렷해진다. 우선 장르와 무드, BPM, 크레딧 같은 메타데이터가 협상 불가의 기본이 된다. ‘지난 3년치 신나는 숨은 곡’ 같은 요청에 걸리려면 배포 단계에서 세부 정보를 꼼꼼히 채워야 한다." },
+          { "t": "p", "x": "스포티파이 포 아티스트의 정보도 채워둬야 한다. AI가 생태계 안 데이터를 그대로 끌어오는 만큼, 바이오에 영향과 고향, 최근 이력을 적고 클립과 캔버스로 재생 화면에 팬을 붙잡아 둔다. 작곡·프로듀서 크레딧까지 있으면 제작 관련 질문에도 답이 나간다." },
+          { "t": "p", "x": "플랫폼 밖도 중요하다. 챗봇은 인터넷으로 학습한 언어 모델에 기대므로 인터뷰나 지니어스 주석, 보도자료, 위키백과가 곧 답의 출처가 된다. 지니어스 가사에 의미를 달아두고 서사와 주제를 담은 보도자료를 블로그에 돌리는 편이 유리하다. 틱톡이나 릴스에서 팬에게 프롬프트 쓰는 법을 알려 ‘토크 투 스포티파이에 내 신곡을 틀어달라고 해봐’처럼 유도하는 방법도 있다." }
         ]
       }
     },
     {
-      "id": "sonyudio2",
+      "id": "landr-fair-trade",
       "eyebrow": "AI NEWS",
-      "headline": "소니가 녹음 3만여 건으로\nUdio를 다시 고소했다",
-      "mini_headline": "소니, Udio 재소송",
-      "body": "녹음 3만여 건을 따로 묶은 새 소송으로 배상액이 45억 달러를 넘길 수 있다.",
+      "headline": "AI 학습에 쓰인 곡값을\n인디 아티스트에게 돌려준다",
+      "body": "랜더가 AI 학습용 데이터셋 라이선스 순수익의 25%를 참여 아티스트에게 나누고 곡당 5달러도 선지급한다.",
+      "mini_headline": "AI 수익 25% 분배",
       "tool": "Music",
-      "source": "Complete Music Update",
-      "url": "https://completemusicupdate.com/sony-music-sues-udio-for-a-second-time-with-the-extra-30-000-recordings-that-could-result-in-4-5-billion-damages/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/07/14/landr-fair-trade-ai-program-indie-artists/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "소니 뮤직이 음악 AI 회사 Udio를 다시 고소했다. 기존 소송을 넓히려던 시도가 막히자 아예 별건으로 새 소장을 냈다. 녹음 3만여 건이 새로 걸렸고, 소니가 이기면 법정 손해배상은 45억 달러를 넘어선다."
-          },
-          {
-            "t": "p",
-            "x": "Alvin K Hellerstein 판사는 지금 소장을 확대하면 Udio가 \"실질적으로 불이익\"을 입는다고 봤다. 다만 소니가 침해당했다고 주장하는 녹음 전부에 권리를 행사할 수 있고, 그 일을 이 소송에서 해야 한다는 요건은 없다고 덧붙였다. 소니는 이 문장을 따로 소송하라는 뜻으로 읽었다."
-          },
-          {
-            "t": "p",
-            "x": "2년 전 소니는 유니버설 뮤직, 워너 뮤직과 함께 Udio를 걸었다. 두 곳은 그 뒤 합의하고 라이선스까지 맺었다. 첫 소송에 오른 녹음은 333건뿐이었고, 나머지 3만여 건이 이번에 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "새 소장의 주장은 세 갈래다. Udio가 유튜브에서 \"불법 '스트림 리핑'\"으로 녹음을 긁어갔다. AI가 찍어낸 음악이 시장을 희석해 사람이 만든 음악을 값싸게 만든다. 공정 이용도 성립하지 않는다. 마지막 근거로 소니는 Udio가 내놓는 것이 기계가 흉내 낸 음악이지 인간의 창작이 아니라고 적었다."
-          },
-          {
-            "t": "p",
-            "x": "소니는 유니버설과 워너의 라이선스 계약 자체를 지렛대로 쓴다. AI 음악 라이선스 시장이 이미 굴러가고 있고, Udio도 허락이 필요하다는 걸 스스로 인정한 셈이라는 논리다."
-          }
+          { "t": "p", "x": "랜더가 페어 트레이드 AI 프로그램을 새 단계로 넘겼다. 선지급 제도를 더하고 수익 배분 모델을 넓혀, AI 학습에 쓰인 음악에 독립 아티스트가 직접 보상받도록 했다. 참여 아티스트는 3만 명을 넘었고, 첫 정산은 이달부터 나간다." },
+          { "t": "img", "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/landr-fair-ai-trade.png", "cap": "랜더 페어 트레이드 AI 프로그램" },
+          { "t": "p", "x": "핵심은 트랙당 5달러를 미리 주는 한시적 선지급 제도다. 첫 회차는 7월 20일까지 열린다. 금액 자체는 크지 않아도 AI 학습 데이터를 구하고 값을 매기는 방식에서는 분명한 변화다. 그동안 대부분의 아티스트는 자기 음악이 모델 학습에 쓰여도 아무 대가를 받지 못했다." },
+          { "t": "p", "x": "선지급 너머에는 데이터셋 라이선스에 연동된 꾸준한 수익원이 있다. 랜더가 선별한 음악 데이터셋을 AI 개발사에 라이선스하면 순수익의 25%가 참여 아티스트에게 돌아간다. 배분은 각자 낸 트랙 수에 비례한다." },
+          { "t": "p", "x": "랜더 CEO 파스칼 필롱은 “AI와 음악을 둘러싼 논의는 거의 창작자가 무엇을 잃느냐에만 쏠려 있었다”며 “우리는 동의에 기반해 아티스트에게 수익을 주는 다른 길이 있음을 증명하고 있다”고 말했다. 기술이 계속 바뀌어도 아티스트에게는 참여할지 고를 권리와 그 가치에서 이익을 볼 기회가 있어야 한다는 것이다." },
+          { "t": "p", "x": "2024년 처음 공개된 이 프로그램은 동의 기반 라이선스를 원칙으로 삼는다. 허락 없이 음악을 긁어가는 관행과 정반대로, 아티스트가 직접 참여를 고르고 자기 카탈로그를 계속 통제한다. 선지급을 받은 경우 금액을 회수한 뒤나 24개월이 지난 뒤 중 이른 시점에 빠질 수 있고, 잔액을 갚으면 곧바로 나갈 수도 있다." },
+          { "t": "p", "x": "디스트로키드가 CVC 캐피털에 인수된 뒤 몇 안 남은 독립 배포사인 랜더는, 스트리밍으로 곡을 보내는 통로를 넘어 인디 아티스트와 AI 개발사를 잇는 중개자로 자리를 옮기고 있다. 참여는 현재 랜더 배포 이용자에게만 열려 있어, 카탈로그 이전을 부르는 유인이 되기도 한다." }
         ]
       }
     },
     {
-      "id": "socanmai",
+      "id": "lorde-about-the-song",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 누구 음악을 참고했는지\nSOCAN이 추적하기로 했다",
-      "mini_headline": "AI 사용을 추적한다",
-      "body": "SOCAN과 Musical AI가 회원 곡이 AI 결과물에 섞인 정도를 가려낸다.",
+      "headline": "로드가 스포티파이 AI 곡 해설\n기능을 공개적으로 밀어냈다",
+      "body": "로드가 자기 곡을 잘못 설명한 스포티파이 AI ‘어바웃 더 송’을 공개 비판하자, 스포티파이가 해당 문구를 지웠다.",
+      "mini_headline": "로드, AI 해설 거부",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/socan-and-musical-ai-to-track-and-eventually-pay-creators-for-ai-use/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/7-21-socan.jpg",
-            "cap": "Musical AI CEO Sean Power(왼쪽)와 SOCAN CEO Jennifer Brown"
-          },
-          {
-            "t": "p",
-            "x": "캐나다 최대 회원 소유 음악 권리 단체 SOCAN이 자국 기술 회사 Musical AI와 손잡았다. 회원의 곡이 AI 생성 음악에 영향을 줬을 때 작곡가와 작사가, 퍼블리셔에게 크레딧과 대가가 돌아가게 하는 구조를 짠다."
-          },
-          {
-            "t": "p",
-            "x": "출발점은 둘이다. 자기 음악을 AI 시스템에 넣을지는 창작자가 정한다. 그 음악이 결과물에 기여했다면 이름과 돈이 따라온다."
-          },
-          {
-            "t": "p",
-            "x": "이번 합의로 SOCAN은 Musical AI를 귀속 서비스의 승인 기술 파트너로 인정했다. 두 곳은 동의와 귀속, 리포팅 인프라를 함께 들여다본다. 회원 작품이 AI에 어떻게 쓰였는지 파악하고 분배 기준을 세우려는 작업이다. 당장 새 AI 로열티 제도가 생기지는 않는다. 그 밑에 깔 기술과 틀을 먼저 만든다."
-          },
-          {
-            "t": "p",
-            "x": "Musical AI CEO Sean Power는 \"첫 단계는 동의이고, 다음 단계는 음악이 결과물에 어떻게 기여했는지, 가치가 아티스트와 작곡가에게 어떻게 흘러야 하는지 보여주는 귀속\"이라고 말했다. 카탈로그가 아무리 커도 허락 여부를 분명히 관리하도록 만든 동의 도구도 함께 검토한다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Screenshot-2026-07-21-at-2.47.04---PM.png",
-            "cap": "Musical AI 제공 화면"
-          },
-          {
-            "t": "p",
-            "x": "Musical AI의 귀속 기술은 AI 결과물을 뜯어 어떤 라이선스 소스가 영향을 줬는지 짚는다. 음원과 악곡의 기여를 따로 재고, 라이선싱과 책임 소재, 보상을 뒷받침하는 리포트를 낸다. AI 음악판 스플릿 시트인 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "이미 라이선스료를 걷고 로열티를 나누는 SOCAN 같은 저작권 단체에는 이 배관이 특히 크다. SOCAN CEO Jennifer Brown은 AI가 음악 산업을 다시 짜는 지금 음악 창작자에게 투명성과 크레딧, 공정한 보상이 있어야 한다며, 이번 협업이 귀속과 보상의 토대를 놓는다고 말했다. 캐나다 인공지능·디지털혁신부 장관 Evan Solomon은 이를 책임 있는 캐나다식 혁신이라고 평했다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "aiacts61m",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 아티스트 상위 10팀이\n610만 달러를 벌었다",
-      "mini_headline": "AI 아티스트 610만 달러",
-      "body": "상위 10개 AI 아티스트가 재생 23억 회로 약 610만 달러를 벌었다.",
-      "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/industry/ai-music-earnings/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/07/16/lorde-spotify-about-the-song-feature/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2023/12/money-music@2000x1500.jpg",
-            "cap": "AI 음악의 수익 구간"
-          },
-          {
-            "t": "p",
-            "x": "AI 음악은 스트리밍 서비스를 채우는 데서 멈추지 않았다. 돈이 붙었다. 디저가 하루 업로드의 절반 이상이 AI 트랙이라고 밝힌 직후 나온 이야기다."
-          },
-          {
-            "t": "p",
-            "x": "Kapwing이 Songstats와 AiMCharts 데이터를 뜯어보니, 상위 10개 AI 음악 아티스트가 스포티파이 스트리밍과 유튜브 조회 23억 회를 합쳐 약 610만 달러를 벌었다. 스포티파이가 약 5억 9500만 스트리밍에 238만 달러, 유튜브가 17억 5000만 조회에 370만 달러다."
-          },
-          {
-            "t": "p",
-            "x": "보고서는 AI 음악이 신기한 물건이라는 지위를 이미 벗어났다고 적었다. 앞선 팀들은 수천만 명의 청취자를 모았고, 차트에 수백 번 이름을 올렸으며, 팔로워가 수백만인 플레이리스트에 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "1950년대풍 보컬로 소개된 Enlly Blue가 스포티파이 1위다. 9520만 스트리밍에 약 38만 800달러. 유튜브에서는 Cherry 葵 Nightcore가 9억 4100만 조회로 200만 달러를 벌었다."
-          },
-          {
-            "t": "p",
-            "x": "AI 신스록 프로젝트 Masters of Prophecy는 플랫폼을 합쳐 3610만 팔로워로 가장 크다. 'BBL Drizzy'로 알려진 King Willonius는 차트 진입 500회로 최다다. 프로듀서 Don Bnnr의 곡은 플레이리스트 1852개에 실렸고, 그 팔로워를 더하면 4670만 명이다."
-          },
-          {
-            "t": "p",
-            "x": "되돌리기 어려운 지점을 지났다는 이야기다. 남은 문제는 사람 아티스트가 불리한 조건에서 경쟁하지 않게 막는 쪽으로 옮겨갔다. 플랫폼과 권리자도 AI 음악을 밀어내기보다 투명성과 귀속, 정당한 수익 배분을 챙기는 쪽으로 움직인다. 디저는 AI 탐지 도구를 넓혔고, IFPI와 RIAA, Human Artistry Campaign은 자율 라벨링을 제안했으며, 타이달은 전부 AI로 만든 트랙에 로열티를 주지 않기로 했다. 이 정도로 확산 속도가 잡힐지는 아직 모른다."
-          }
+          { "t": "p", "x": "로드가 스포티파이를 정면으로 비판했다. AI 기반 ‘어바웃 더 송’ 기능이 자기 곡의 맥락을 틀리게 설명한 뒤였다." },
+          { "t": "img", "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/lorde-calls-out-spotify-over-ai-feature-1024x576.png", "cap": "스포티파이 AI 기능을 저격한 로드" },
+          { "t": "p", "x": "로드는 인스타그램 스토리에 “무리해서 말하자면, 우리는 이걸 원하지 않는다”고 적었다. “부정확할 뿐 아니라, 곡을 만들자마자 AI가 뽑은 의미로 줄여버리는 건 자유로운 해석을 가두는 느낌”이라며 “최소한 아티스트가 빠질 수 있게는 해달라”고 덧붙였다." },
+          { "t": "p", "x": "‘어바웃 더 송’은 2월 제한 공개를 거쳐 현재 베타 단계다. 온라인의 제3자 자료를 긁어 곡의 배경과 정보를 모아준다. 로드의 경우 그 설명이 실제 곡과 맞지 않았다. 스포티파이 대변인은 로드가 지적한 문구가 이미 “삭제됐다”고 확인했다." },
+          { "t": "p", "x": "로드의 지적은 AI를 둘러싼 업계의 우려와 맞닿아 있다. 많은 AI 도구가 아직 개발 중이고, 부정확하거나 진짜 같지 않다는 비판을 받는다." },
+          { "t": "p", "x": "SZA도 최근 인스타그램에서 무분별한 AI 데이터 수집에 분통을 터뜨렸다. AI 기업 수노를 콕 집어 “음악가인데 이런 짓을 지지한다면 역겹다”고 했다. 수노가 흑인 작가와 프로듀서의 재능으로 제품을 학습시키고 있다고도 주장했다." },
+          { "t": "p", "x": "그는 “우리는 미국 인구의 13%지만 우리 사운드와 관점으로 세계에 영향을 준다”며 “당신의 천재성을 AI에 학습시키지 말라”고 적었다." }
         ]
       }
     }

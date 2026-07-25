@@ -1,11 +1,26 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "science",
   "media": [
-    { "id": "cyclecover", "type": "image", "src": "pipeline/media/cyclecover.jpg" },
-    { "id": "scoresmooth", "type": "image", "src": "pipeline/media/scoresmooth.png" },
-    { "id": "peptiverse", "type": "image", "src": "pipeline/media/peptiverse.jpg" },
-    { "id": "medmia", "type": "image", "src": "pipeline/media/medmia.jpg" },
-    { "id": "curiobot", "type": "image", "src": "pipeline/media/curiobot.jpg" }
+    {
+      "id": "hiddenvars",
+      "type": "image",
+      "src": "pipeline/media/hiddenvars.jpg"
+    },
+    {
+      "id": "xrayagent",
+      "type": "image",
+      "src": "pipeline/media/xrayagent.jpg"
+    },
+    {
+      "id": "cellforge",
+      "type": "image",
+      "src": "pipeline/media/cellforge.png"
+    },
+    {
+      "id": "creepnorm",
+      "type": "image",
+      "src": "pipeline/media/creepnorm.jpg"
+    }
   ]
 }
