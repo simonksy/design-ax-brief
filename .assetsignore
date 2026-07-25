@@ -6,3 +6,9 @@
 .superpowers
 .playwright-mcp
 pipeline/runs
+
+# Worker toolchain: node_modules ships a >25 MiB workerd binary that the
+# static-assets uploader (and local miniflare via vitest-pool-workers) would
+# otherwise choke on; .wrangler is local build/state, not part of the site.
+node_modules
+.wrangler
