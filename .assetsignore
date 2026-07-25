@@ -19,3 +19,11 @@ worker/
 package.json
 package-lock.json
 vitest.config.js
+
+# Pipeline build inputs (news_data.json etc.) contain the un-split `full`
+# deep-dives — must NOT be publicly served, or the paywall is bypassed.
+# Scoped to *.json so pipeline/media/ (card images the site serves) stays public.
+pipeline/*.json
+
+# Internal design docs / specs / plans — not part of the public site.
+docs/superpowers
