@@ -27,3 +27,6 @@ pipeline/candidates_filtered.json
 __pycache__/
 **/__pycache__/
 pipeline/seed/
+node_modules/
+.wrangler/
+.dev.vars

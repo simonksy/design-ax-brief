@@ -2,13 +2,22 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "axitdesign",
   "compatibility_date": "2026-07-07",
-  "observability": {
-    "enabled": true
-  },
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": { "enabled": true },
+  "main": "worker/index.js",
   "assets": {
-    "directory": "."
+    "directory": ".",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*", "/premium/*"]
   },
-  "compatibility_flags": [
-    "nodejs_compat"
+  "vars": {
+    "BASE_URL": "https://axitdesign.simonksy.workers.dev",
+    "PATREON_CLIENT_ID": "En9WUM2-Pdq56jtOwF6kGZwDqppxQxE92MHR-d1XLcR7886AKQVDDgJuNy32794s"
+  },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "axbrief-subscribers", "database_id": "a82e6d9c-8393-4a6e-9d7b-4cfcbe08ea44" }
+  ],
+  "kv_namespaces": [
+    { "binding": "AUTH_TOKENS", "id": "075a714ceb014be0a95ee4ff01442991" }
   ]
 }

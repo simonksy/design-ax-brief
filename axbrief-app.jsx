@@ -408,6 +408,38 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
+/* subscribe CTA modal — replaces the old magic-link LoginModal. There is no
+   in-site entitlement system in this teaser-paywall iteration: "구독하기" opens
+   the Patreon membership checkout in a new tab (no email, no /api call; unlock
+   comes later when payment webhooks are wired). */
+const SUBSCRIBE_URL = 'https://www.patreon.com/cw/axitnow';  // Patreon 멤버십 (Pro $9.99/월)
+function SubscribeModal({ onClose, t }) {
+  return (
+    <div onClick={onClose} style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
+      display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
+      <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
+        padding: 24, width: 320, maxWidth: '88vw', fontFamily: 'Pretendard, system-ui' }}>
+        <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>Design AX Brief 구독</p>
+        <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
+          구독하면 모든 카테고리의 전체 뉴스와 심층분석을 볼 수 있어요.
+        </p>
+        <AxPill label="Patreon에서 구독하기" t={t}
+          onClick={() => { window.open(SUBSCRIBE_URL, '_blank', 'noopener'); onClose(); }} />
+        <p style={{ margin: '10px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center' }}>
+          Patreon 결제 페이지가 새 탭으로 열립니다
+        </p>
+        <p style={{ margin: '12px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center',
+          fontFamily: 'Pretendard, system-ui' }}>
+          이미 구독 중이신가요?{' '}
+          <a href="/api/auth/patreon" style={{ color: '#a09890', textDecoration: 'underline' }}>
+            Patreon으로 로그인
+          </a>
+        </p>
+      </div>
+    </div>
+  );
+}
+
 /* round share button — copies a deep link to THIS card and flashes "link copied". */
 function ShareButton({ url, t }) {
   const [copied, setCopied] = useState(false);
@@ -496,36 +528,53 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
   );
 }
 
-/* ---- FullArticle: the flip back — Korean-translated article (text+img+video),
-   capped to a fixed scroll box (full if it fits, else a summary that fits). ---- */
-function FullArticle({ item, t, onClose }) {
+/* shared block renderer — text/img/video blocks used by both the inline FullArticle
+   (free/archive cards, whose complete deep-dive already rides in the public payload)
+   and PremiumFullArticle (an entitled member's view of a locked card, whose deep-dive
+   is fetched lazily from /api/premium/full). */
+function renderFullBlocks(blocks) {
+  return blocks.map((b, i) => {
+    if (b.t === 'img') return <img key={i} src={b.src} alt={b.cap || ''} loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />;
+    if (b.t === 'video') return (
+      <div key={i} className="ax-vid">
+        {b.yt
+          ? <iframe src={`https://www.youtube.com/embed/${b.yt}`} title="video" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowFullScreen />
+          : <video src={b.src} poster={b.poster || undefined} controls playsInline />}
+      </div>
+    );
+    return <p key={i}>{b.x}</p>;
+  });
+}
+
+/* ---- FullArticle: the flip back — Korean-translated article deep-dive (text+img+video),
+   capped to a fixed scroll box. v2: the public payload carries the COMPLETE deep-dive
+   for any card that reaches this component (free card or an archive card — locked
+   cards never mount this, see FlipCard's `item.locked` gate), so it renders fully,
+   with no cutoff, no fade, and no subscribe CTA. ---- */
+function FullArticle({ item, t, section, onClose }) {
   const it = axEnrich(item);
-  const full = item.full || { blocks: [] };
-  const blocks = full.blocks || [];
   const solid = t.cardSolid || '#fbf8f3';   // opaque base for the floating-close fade
+
+  // Defensive: FlipCard only ever mounts FullArticle for hasFull cards (see its own
+  // hasFull gate above), so this should be unreachable — but never render deep-dive
+  // chrome for a card that isn't supposed to have one.
+  if (!item.hasFull) return null;
+
+  const full = item.full || {};
+  const blocks = full.blocks || [];
   return (
     <React.Fragment>
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
         <div style={{ minWidth: 0 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
-            {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {full.mode === 'summary' ? '요약본(번역)' : '전문(번역)'}</span>
+            {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · 미리보기(번역)</span>
           </div>
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
       </div>
       {/* extra bottom padding so the last line clears the floating close pill */}
-      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92 }}>
-        {blocks.map((b, i) => {
-          if (b.t === 'img') return <img key={i} src={b.src} alt={b.cap || ''} loading="lazy" onError={(e) => { e.currentTarget.style.display = 'none'; }} />;
-          if (b.t === 'video') return (
-            <div key={i} className="ax-vid">
-              {b.yt
-                ? <iframe src={`https://www.youtube.com/embed/${b.yt}`} title="video" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowFullScreen />
-                : <video src={b.src} poster={b.poster || undefined} controls playsInline />}
-            </div>
-          );
-          return <p key={i}>{b.x}</p>;
-        })}
+      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92, position: 'relative' }}>
+        {renderFullBlocks(blocks)}
         <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
           <SourceLine item={it} t={t} />
         </div>
@@ -545,11 +594,102 @@ function FullArticle({ item, t, onClose }) {
   );
 }
 
+/* ---- PremiumFullArticle: the flip back for an ENTITLED member viewing a locked
+   card. The public payload never carries a locked card's deep-dive (see
+   split_teaser) — so unlike FullArticle, this lazy-fetches it from
+   /api/premium/full once mounted (i.e. once its card is the active carousel
+   slide, matching FullArticle's own "only the active card mounts" rule), shows
+   a quiet loading line until it arrives, and a Korean retry line on failure. ---- */
+function PremiumFullArticle({ item, t, section, onClose }) {
+  const it = axEnrich(item);
+  const solid = t.cardSolid || '#fbf8f3';
+  const [state, setState] = useState({ status: 'loading', blocks: null });
+  useEffect(() => {
+    let alive = true;
+    setState({ status: 'loading', blocks: null });
+    fetch(`/api/premium/full?section=${encodeURIComponent(section || '')}&id=${encodeURIComponent(item.id || '')}`, { credentials: 'same-origin' })
+      .then((r) => (r.ok ? r.json() : Promise.reject(new Error('http_' + r.status))))
+      .then((d) => { if (alive) setState({ status: 'ready', blocks: (d.full && d.full.blocks) || [] }); })
+      .catch(() => { if (alive) setState({ status: 'error', blocks: null }); });
+    return () => { alive = false; };
+  }, [section, item.id]);
+  return (
+    <React.Fragment>
+      <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
+        <div style={{ minWidth: 0 }}>
+          <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>{it.eyebrow} · {it.tool}</div>
+          <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
+        </div>
+      </div>
+      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92, position: 'relative' }}>
+        {state.status === 'loading' && <p style={{ color: t.faint }}>불러오는 중…</p>}
+        {state.status === 'error' && <p style={{ color: t.faint }}>잠시 후 다시 시도해 주세요.</p>}
+        {state.status === 'ready' && (
+          <React.Fragment>
+            {renderFullBlocks(state.blocks)}
+            <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
+              <SourceLine item={it} t={t} />
+            </div>
+          </React.Fragment>
+        )}
+      </div>
+      {onClose && (
+        <div style={{ position: 'absolute', left: 0, right: 0, bottom: 0, padding: '18px 22px',
+          paddingBottom: 'calc(18px + env(safe-area-inset-bottom))',
+          background: `linear-gradient(to top, ${solid} 56%, ${solid}d9 78%, ${solid}00)`,
+          pointerEvents: 'none', zIndex: 5 }}>
+          <div style={{ pointerEvents: 'auto', maxWidth: 520, margin: '0 auto' }}>
+            <AxPill label="close" onClick={onClose} t={t} />
+          </div>
+        </div>
+      )}
+    </React.Fragment>
+  );
+}
+
+/* ---- LockedCard: a REAL card (headline/body/image, all public front fields),
+   rendered blurred behind a subscribe overlay — v2 replaces v1's empty gray
+   placeholder tile per user feedback ("나머지 카드들에 대해서는 뒤에 흐릿하게 보이고
+   지금처럼 구독 유도하게"). The blur/dim is applied to an INNER wrapper around the
+   card content only (not the outer frame), so the card silhouette + rounded
+   corners stay crisp — only the overlay sits on top, sharp and legible. Tapping
+   the overlay (or Enter/Space) opens SubscribeModal; the underlying card content
+   is inert (pointerEvents: none) and never flips/expands — there is no `full` in
+   the payload for a locked card, so there's nothing to open. ---- */
+function LockedCard({ item, index, total, t, mobile, section }) {
+  const [showSubscribe, setShowSubscribe] = useState(false);
+  return (
+    <div style={{ height: '100%', position: 'relative', overflow: 'hidden', borderRadius: 'inherit' }}>
+      <div aria-hidden style={{ height: '100%', pointerEvents: 'none',
+        filter: 'blur(10px) saturate(.7) brightness(.94)', transform: 'scale(1.04)' }}>
+        <LayoutEditorial item={item} index={index} total={total} active={false} t={t} mobile={mobile} section={section} />
+      </div>
+      <div role="button" tabIndex={0} aria-label="구독하고 모두 보기"
+        onClick={() => setShowSubscribe(true)}
+        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setShowSubscribe(true); } }}
+        style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
+          gap: 14, textAlign: 'center', padding: 32, cursor: 'pointer', boxSizing: 'border-box',
+          background: 'rgba(28,24,18,.32)' }}>
+        <div aria-hidden style={{ width: 46, height: 46, borderRadius: '50%', display: 'flex', alignItems: 'center',
+          justifyContent: 'center', background: 'rgba(255,255,255,.9)', fontSize: 19, color: '#1c1a18' }}>🔒</div>
+        <div className="ax-hl" style={{ fontSize: mobile ? 17 : 19, color: '#fff', textShadow: '0 1px 8px rgba(0,0,0,.45)' }}>
+          구독하고 모두 보기
+        </div>
+        <p className="ax-body" style={{ fontSize: 13, color: 'rgba(255,255,255,.9)', margin: 0, maxWidth: 260,
+          textShadow: '0 1px 5px rgba(0,0,0,.4)' }}>
+          오늘의 나머지 소식은 구독자에게 공개됩니다
+        </p>
+        {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
+      </div>
+    </div>
+  );
+}
+
 /* ---- FlipCard: front = LayoutEditorial summary; tap + to flip (revolving door)
    to the FullArticle back. Desktop-first (the back uses absolute faces that need a
    fixed-height card; on mobile, where the hero is content-height, fall back to the
    plain summary card for now). ---- */
-function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section }) {
+function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section, entitled }) {
   const [flipped, setFlipped] = useState(false);
   const [flipping, setFlipping] = useState(false);   // true during the rotate animation
   const flipTimer = useRef();
@@ -561,7 +701,17 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
   useEffect(() => { if (!active) { setFlipped(false); setFlipping(false); } }, [active]);
   useEffect(() => { if (onFlipChange) onFlipChange(flipped); }, [flipped, onFlipChange]);
   useEffect(() => () => clearTimeout(flipTimer.current), []);
-  const hasFull = item.full && Array.isArray(item.full.blocks) && item.full.blocks.length > 0;
+  // locked card — a real card (front fields are public) rendered blurred behind a
+  // subscribe overlay; it has no `full` in the payload, so it must never flip.
+  // EXCEPT for an entitled Patreon member: they get the normal flip card below,
+  // whose back (PremiumFullArticle) lazy-fetches the deep-dive from the Worker.
+  if (item.locked && !entitled) {
+    return <LockedCard item={item} index={index} total={total} t={t} mobile={mobile} section={section} />;
+  }
+  // public payload carries hasFull as a plain boolean; item.full (when present) is
+  // the COMPLETE deep-dive (free/archive cards only — see FullArticle). A locked
+  // card reaching this point is only here because the viewer is entitled.
+  const hasFull = item.locked ? true : !!item.hasFull;
   if (!hasFull) {
     return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
   }
@@ -578,7 +728,9 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
         {/* hide the back when flat (no backface-visibility in a flat context) so it can't
             bleed over the front; only the active card mounts the heavy article. */}
         <div className="ax-flip-face ax-flip-back" style={{ background: t.cardSolid || t.cardBg, visibility: use3d ? 'visible' : 'hidden' }}>
-          {active && <FullArticle item={item} t={t} onClose={() => doFlip(false)} />}
+          {active && (item.locked
+            ? <PremiumFullArticle item={item} t={t} section={section} onClose={() => doFlip(false)} />
+            : <FullArticle item={item} t={t} section={section} onClose={() => doFlip(false)} />)}
         </div>
       </div>
     </div>
@@ -609,7 +761,7 @@ function NavButton({ dir, disabled, onClick, t }) {
    Frame (radius/border/shadow/glass) lives on the window so the
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
-function Carousel({ items, t, initialIndex = 0, mobile, section }) {
+function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
   const [idx, setIdx] = useState(initialIndex);
   const idxRef = useRef(initialIndex);
   const trackRef = useRef(null);
@@ -678,7 +830,7 @@ function Carousel({ items, t, initialIndex = 0, mobile, section }) {
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} />
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} entitled={entitled} />
             </div>
           ))}
         </div>
@@ -1115,9 +1267,31 @@ function ThemedPage({ themeKey }) {
   const sections = window.AX_SECTIONS || { design: { label: 'Design', news: window.AX_NEWS || [], days: window.AX_DAYS || [] } };
   const order = (window.AX_SECTION_ORDER || Object.keys(sections)).filter((s) => sections[s]);
   const [section, setSection] = useState(order[0] || 'design');
+  // Entitlement: default logged-out/not-entitled so the STATIC preview (no Worker
+  // behind it) renders identically to before — the /api/me fetch 404s there, the
+  // r.ok guard keeps it from throwing, and the catch keeps it silent (no console
+  // spam beyond the one failed request). Once the Worker is live, a signed-in
+  // Patreon member's /api/me returns {loggedIn:true, entitled:true} and every
+  // locked card (below) renders unblurred with a lazy-fetched deep-dive instead
+  // of the LockedCard subscribe overlay.
+  const [auth, setAuth] = useState({ loggedIn: false, entitled: false });
+  useEffect(() => {
+    fetch('/api/me', { credentials: 'same-origin' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (d) setAuth(d); })
+      .catch(() => {});
+  }, []);
+  // The free card (news[0]) shows its full deep-dive, and every other today card
+  // (news[1:]) already arrives in the public payload as a real, front-fields-public
+  // card with `locked: true` (see build_data.py's split_teaser) — FlipCard renders
+  // those as a blurred LockedCard UNLESS the viewer is entitled (see FlipCard).
+  // heroItems is kept as a thin passthrough (rather than inlining `s.news` at every
+  // call site) so all 5 call sites stay in one place if the hero deck ever needs
+  // shaping again.
+  const heroItems = (s) => (s && s.news) || [];
   const cur = sections[section] || { label: section, news: [], days: [] };
   const heroRef = useRef();
-  const [hero, setHero] = useState(() => ({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: 0, day: null }));
+  const [hero, setHero] = useState(() => ({ items: heroItems(sections[order[0]]), index: 0, key: 0, day: null }));
   const [intro, setIntro] = useState(null);
   // Mobile flips the card in place (same as desktop), so there's no separate "expanded"
   // full-screen state to track — the FlipCard owns its own flip state.
@@ -1170,7 +1344,7 @@ function ThemedPage({ themeKey }) {
     const today = s.news || [];
     const ti = today.findIndex((x) => x.id === cid);
     if (ti >= 0) {
-      setHero({ items: today, index: ti, key: Date.now(), day: null });
+      setHero({ items: heroItems(s), index: ti, key: Date.now(), day: null });
     } else {
       for (const day of (s.days || [])) {
         const di = (day.cards || []).findIndex((x) => x.id === cid);
@@ -1188,7 +1362,7 @@ function ThemedPage({ themeKey }) {
   const switchSection = (s) => {
     if (s === section) return;
     setSection(s); setIntro(null);
-    setHero({ items: (sections[s] || { news: [] }).news, index: 0, key: Date.now(), day: null });
+    setHero({ items: heroItems(sections[s]), index: 0, key: Date.now(), day: null });
   };
   const openDay = (day, cardIdx) => {
     setHero({ items: day.cards, index: cardIdx, key: Date.now(), day });
@@ -1197,13 +1371,13 @@ function ThemedPage({ themeKey }) {
   };
   const backToToday = () => {
     setIntro(null);
-    setHero({ items: cur.news, index: 0, key: Date.now(), day: null });
+    setHero({ items: heroItems(cur), index: 0, key: Date.now(), day: null });
     scrollToHero();
   };
   // logo → home: reset to the first section's today and scroll to the top.
   const goHome = () => {
     setSection(order[0] || 'design'); setIntro(null);
-    setHero({ items: (sections[order[0]] || { news: [] }).news, index: 0, key: Date.now(), day: null });
+    setHero({ items: heroItems(sections[order[0]]), index: 0, key: Date.now(), day: null });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
   const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
@@ -1243,7 +1417,7 @@ function ThemedPage({ themeKey }) {
                 doesn't cover its top. */}
             <div ref={heroRef} className="ax-hero-wrap"
               style={isMobile && stuckTabs ? { marginTop: 104, transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' } : { transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' }}>
-              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} section={section} />
+              <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} section={section} entitled={auth.entitled} />
               {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} mobile={isMobile} onDone={() => setIntro(null)} />}
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
@@ -1264,4 +1438,4 @@ function ThemedPage({ themeKey }) {
   );
 }
 
-Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, FlipCard, FullArticle, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, SectionTabs, ThemedPage });
+Object.assign(window, { THEMES, MediaScene, Motif, axEnrich, LayoutEditorial, Carousel, FlipCard, FullArticle, PremiumFullArticle, MiniCard, DayDeck, WeeklyTimeline, HeroDeckIntro, useIsMobile, MobileFilmstrip, SectionTabs, ThemedPage });
