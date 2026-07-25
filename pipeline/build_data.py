@@ -47,6 +47,29 @@ def assert_no_duplicates(section, today, days):
     if dups:
         raise DuplicateCardError("; ".join(dups))
 
+def split_full(data):
+    """Move every card's `full` deep-dive out of the public payload.
+    Mutates cards in place (pops `full`, sets `hasFull`); returns the premium
+    map { "<section>/<id>": <full block> } for premium/full.json."""
+    sections = data.get("sections")
+    if sections is None:
+        sections = {"design": {"today": data.get("today", {"cards": []}),
+                               "days": data.get("days", [])}}
+    premium = {}
+    for sec, s in sections.items():
+        cards = list((s.get("today") or {}).get("cards", []))
+        for day in s.get("days", []):
+            cards += day.get("cards", [])
+        for c in cards:
+            cid = c.get("id")
+            full = c.pop("full", None)
+            if full and cid:
+                premium["%s/%s" % (sec, cid)] = full
+                c["hasFull"] = True
+            else:
+                c["hasFull"] = False
+    return premium
+
 def to_js(data):
     # Back-compat: accept an old non-sectioned file too.
     sections = data.get("sections")
@@ -157,7 +180,12 @@ def main():
                     help="absolute origin for OG urls/images in share pages")
     a = ap.parse_args()
     data = json.load(open(a.inp, encoding="utf-8"))
+    premium = split_full(data)  # strips `full`, adds `hasFull`, returns premium map
     open(a.out, "w", encoding="utf-8").write(to_js(data))
+    prem_dir = os.path.join(os.path.dirname(os.path.abspath(a.out)), "premium")
+    os.makedirs(prem_dir, exist_ok=True)
+    with open(os.path.join(prem_dir, "full.json"), "w", encoding="utf-8") as f:
+        json.dump(premium, f, ensure_ascii=False, indent=2)
     if a.share_root:
         sections = data.get("sections") or {
             "design": {"news": data.get("today", {}).get("cards", []), "days": data.get("days", [])}}
