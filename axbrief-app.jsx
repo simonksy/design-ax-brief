@@ -1024,26 +1024,43 @@ function MiniCard({ card, i, mode, t, onEnter, onClick }) {
   );
 }
 
-/* ---- DayDeck: one day — stacked deck + axis tick + date label ---- */
-function DayDeck({ day, idx, t, isLast, expanded, hoveredCard, shift, onDayEnter, onCardEnter, onOpen }) {
+/* ---- DayDeck: one day — stacked deck + axis tick + date label. When `locked`
+   (non-entitled viewer), the deck content is blurred (inner wrapper only — the
+   deck frame/positioning stays crisp, same blur-an-inner-wrapper approach as
+   LockedCard) and a small 🔒 badge sits on top, unblurred. Clicking any card in
+   a locked deck is redirected by the caller's `onOpen` (WeeklyTimeline passes a
+   version that opens SubscribeModal instead of the day when not entitled). ---- */
+function DayDeck({ day, idx, t, isLast, expanded, hoveredCard, shift, onDayEnter, onCardEnter, onOpen, locked }) {
   const deckRef = useRef();
   const d = new Date(day.date);
   const dow = ['일', '월', '화', '수', '목', '금', '토'][d.getDay()];
   const md = `${d.getMonth() + 1}.${String(d.getDate()).padStart(2, '0')}`;
   const handleClick = (ci) => {
+    if (locked) { onOpen(day, ci, null); return; }
     const rects = Array.from(deckRef.current.querySelectorAll('.ax-mini')).map((el) => el.getBoundingClientRect());
     onOpen(day, ci, rects);
   };
   return (
     <div className="ax-day" tabIndex={0} style={{ flex: '1 1 0', transform: `translateX(${shift}px)`, zIndex: expanded ? 60 : 1 }}
       onMouseEnter={() => onDayEnter(idx)} onFocus={() => onDayEnter(idx)}>
-      <div ref={deckRef} className="ax-deck" style={{ position: 'relative', width: 92, height: 126, marginBottom: 22,
-        filter: expanded ? 'none' : 'grayscale(1) opacity(.5)' }}>
-        {day.cards.map((c, i) => (
-          <MiniCard key={i} card={c} i={i} t={t}
-            mode={expanded ? (hoveredCard === i ? 'front' : 'fan') : 'stack'}
-            onEnter={onCardEnter} onClick={handleClick} />
-        ))}
+      <div style={{ position: 'relative', width: 92, marginBottom: 22 }}>
+        <div ref={deckRef} className="ax-deck" style={{ position: 'relative', width: 92, height: 126,
+          filter: (expanded ? 'none' : 'grayscale(1) opacity(.5)') }}>
+          <div aria-hidden={locked || undefined} style={{ height: '100%',
+            filter: locked ? 'blur(7px) saturate(.7) brightness(.94)' : 'none' }}>
+            {day.cards.map((c, i) => (
+              <MiniCard key={i} card={c} i={i} t={t}
+                mode={expanded ? (hoveredCard === i ? 'front' : 'fan') : 'stack'}
+                onEnter={onCardEnter} onClick={handleClick} />
+            ))}
+          </div>
+        </div>
+        {locked && (
+          <div aria-hidden style={{ position: 'absolute', top: -6, right: 2, width: 22, height: 22, borderRadius: '50%',
+            display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 11, lineHeight: 1,
+            background: 'rgba(28,24,18,.82)', color: '#fff', zIndex: 65, boxShadow: '0 3px 10px -3px rgba(0,0,0,.5)',
+            pointerEvents: 'none' }}>🔒</div>
+        )}
       </div>
       <div className="ax-tick" style={{ width: 9, height: 9, borderRadius: '50%', background: t.hl,
         transform: expanded ? 'scale(1.55)' : 'none', boxShadow: '0 0 0 4px #f1ece4' }} />
@@ -1055,21 +1072,47 @@ function DayDeck({ day, idx, t, isLast, expanded, hoveredCard, shift, onDayEnter
   );
 }
 
-/* ---- WeeklyTimeline: 5-day axis; hover fans a deck + pushes neighbors ---- */
-function WeeklyTimeline({ t, onOpen, days }) {
+/* ---- Small dark pill badge — "Become a Pro" next to the Past Days heading. ---- */
+function ProBadge({ onClick }) {
+  return (
+    <span role="button" tabIndex={0} onClick={onClick}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onClick(); } }}
+      style={{ display: 'inline-flex', alignItems: 'center', cursor: 'pointer', background: '#1c1a18', color: '#fff',
+        fontFamily: 'Pretendard, system-ui', fontSize: 11.5, fontWeight: 600, letterSpacing: '.01em',
+        padding: '5px 12px', borderRadius: 999, whiteSpace: 'nowrap' }}>
+      Become a Pro
+    </span>
+  );
+}
+
+/* ---- WeeklyTimeline: 5-day axis; hover fans a deck + pushes neighbors. When
+   `!entitled`, the whole archive is Pro-gated: every deck renders blurred with
+   a 🔒 badge (see DayDeck), a "Become a Pro" pill sits next to the heading, the
+   helper copy hints at the paywall, and any click (deck or badge) opens
+   SubscribeModal instead of the day. ---- */
+function WeeklyTimeline({ t, onOpen, days, entitled }) {
   days = days || [];
   const [hd, setHd] = useState(null);   // hovered day index
   const [hc, setHc] = useState(null);   // hovered card index within the day
+  const [showSubscribe, setShowSubscribe] = useState(false);
   const PUSH = 168;
   const enterDay = (i) => { setHd(i); setHc(null); };
   const clear = () => { setHd(null); setHc(null); };
+  const handleOpen = entitled ? onOpen : () => setShowSubscribe(true);
   return (
     <section style={{ paddingTop: 92 }} onMouseLeave={clear}>
       <div style={{ textAlign: 'center', marginBottom: 8 }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '7px 16px',
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
-        <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: '18px 0 8px' }}>어제까지의 모든 소식</h2>
-        <p className="ax-body" style={{ fontSize: 15, color: t.body, margin: 0 }}>날짜에 올리면 그날의 카드가 펼쳐지고, 카드를 누르면 위에서 크게 열립니다 · 과거 소식을 본 뒤엔 상단의 '오늘 소식으로'로 돌아옵니다</p>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 9, margin: '18px 0 8px' }}>
+          <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: 0 }}>어제까지의 모든 소식</h2>
+          {!entitled && <ProBadge onClick={() => setShowSubscribe(true)} />}
+        </div>
+        <p className="ax-body" style={{ fontSize: 15, color: t.body, margin: 0 }}>
+          {entitled
+            ? "날짜에 올리면 그날의 카드가 펼쳐지고, 카드를 누르면 위에서 크게 열립니다 · 과거 소식을 본 뒤엔 상단의 '오늘 소식으로'로 돌아옵니다"
+            : '지난 소식 전체는 Pro 구독자에게 열립니다'}
+        </p>
       </div>
       <div style={{ position: 'relative', display: 'flex', alignItems: 'flex-start', padding: '178px 40px 0' }}>
         <div style={{ position: 'absolute', left: 40, right: 40, top: 178 + 148, height: 1, background: t.rule, zIndex: 0 }} />
@@ -1078,10 +1121,11 @@ function WeeklyTimeline({ t, onOpen, days }) {
           return (
             <DayDeck key={day.date} day={day} idx={i} t={t} isLast={i === days.length - 1}
               expanded={hd === i} hoveredCard={hd === i ? hc : null} shift={shift}
-              onDayEnter={enterDay} onCardEnter={setHc} onOpen={onOpen} />
+              onDayEnter={enterDay} onCardEnter={setHc} onOpen={handleOpen} locked={!entitled} />
           );
         })}
       </div>
+      {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     </section>
   );
 }
@@ -1140,9 +1184,10 @@ function useIsMobile(maxW) {
    RIGHT so yesterday is shown first and swiping left travels into the past. Each
    day is a block with its date pinned above its cards. Tap a card → opens it large
    in the hero (same flow as the desktop deck). Replaces WeeklyTimeline on mobile. ---- */
-function MobileFilmstrip({ t, onOpen, days }) {
+function MobileFilmstrip({ t, onOpen, days, entitled }) {
   days = days || [];
   const stripRef = useRef();
+  const [showSubscribe, setShowSubscribe] = useState(false);
   const lastDate = days.length ? days[days.length - 1].date : null;
   // Start at the right edge: yesterday (the newest day) is shown first.
   useEffect(() => {
@@ -1153,27 +1198,35 @@ function MobileFilmstrip({ t, onOpen, days }) {
     const d = new Date(date);
     return { md: `${d.getMonth() + 1}.${String(d.getDate()).padStart(2, '0')}`, dow: ['일', '월', '화', '수', '목', '금', '토'][d.getDay()] };
   };
+  const handleOpen = entitled ? onOpen : () => setShowSubscribe(true);
   return (
     <section style={{ paddingTop: 30 }}>
       <div style={{ textAlign: 'center', marginBottom: 6, padding: '0 16px' }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '6px 14px',
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
-        <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: '13px 0 6px' }}>어제까지의 모든 소식</h2>
-        <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>어제부터 시작해 옆으로 밀면 과거로 · 카드를 누르면 위에서 크게 열립니다</p>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8, margin: '13px 0 6px' }}>
+          <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: 0 }}>어제까지의 모든 소식</h2>
+          {!entitled && <ProBadge onClick={() => setShowSubscribe(true)} />}
+        </div>
+        <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>
+          {entitled ? '어제부터 시작해 옆으로 밀면 과거로 · 카드를 누르면 위에서 크게 열립니다'
+            : '지난 소식 전체는 Pro 구독자에게 열립니다'}
+        </p>
       </div>
       <div className="ax-strip" ref={stripRef}>
         {days.map((day) => {
           const { md, dow } = fmt(day.date);
           const isYesterday = day.date === lastDate;
           return (
-            <div className="ax-day-block" key={day.date}>
+            <div className="ax-day-block" key={day.date} style={{ position: 'relative' }}>
               <div className="ax-strip-datehead" style={{ background: t.feedSolid, border: t.cardBorder }}>
                 <span className="ax-hl" style={{ fontSize: 14, color: t.hl, lineHeight: 1 }}>{md}</span>
                 <span className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint }}>{dow}{isYesterday ? ' · 어제' : ''}</span>
               </div>
-              <div className="ax-day-cards">
+              <div aria-hidden={!entitled || undefined} className="ax-day-cards"
+                style={{ filter: entitled ? 'none' : 'blur(7px) saturate(.7) brightness(.94)' }}>
                 {day.cards.map((c, ci) => (
-                  <button key={ci} className="ax-strip-card" onClick={() => onOpen(day, ci)} style={{
+                  <button key={ci} className="ax-strip-card" onClick={() => handleOpen(day, ci)} style={{
                     width: 150, background: t.feedSolid, border: t.feedBorder,
                     boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
                     <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden', background: '#efe9e1' }}>
@@ -1196,10 +1249,17 @@ function MobileFilmstrip({ t, onOpen, days }) {
                   </button>
                 ))}
               </div>
+              {!entitled && (
+                <div aria-hidden style={{ position: 'absolute', top: 2, right: 6, width: 24, height: 24, borderRadius: '50%',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 12, lineHeight: 1,
+                  background: 'rgba(28,24,18,.82)', color: '#fff', zIndex: 5, boxShadow: '0 3px 10px -3px rgba(0,0,0,.5)',
+                  pointerEvents: 'none' }}>🔒</div>
+              )}
             </div>
           );
         })}
       </div>
+      {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     </section>
   );
 }
@@ -1429,8 +1489,8 @@ function ThemedPage({ themeKey }) {
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
             {(cur.days || []).length > 0 && (isMobile
-              ? <MobileFilmstrip t={t} onOpen={openDay} days={cur.days} />
-              : <WeeklyTimeline t={t} onOpen={openDay} days={cur.days} />)}
+              ? <MobileFilmstrip t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled} />
+              : <WeeklyTimeline t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled} />)}
           </React.Fragment>
         ) : (
           /* empty section (no news yet) */
