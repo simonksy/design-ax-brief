@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "axitdesign",
+  "name": "axitnow",
   "compatibility_date": "2026-07-07",
   "compatibility_flags": ["nodejs_compat"],
   "observability": { "enabled": true },
@@ -11,7 +11,7 @@
     "run_worker_first": ["/api/*", "/premium/*"]
   },
   "vars": {
-    "BASE_URL": "https://axitdesign.simonksy.workers.dev",
+    "BASE_URL": "https://axitnow.simonksy.workers.dev",
     "PATREON_CLIENT_ID": "En9WUM2-Pdq56jtOwF6kGZwDqppxQxE92MHR-d1XLcR7886AKQVDDgJuNy32794s"
   },
   "d1_databases": [

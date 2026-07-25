@@ -413,9 +413,15 @@ function AxPill({ label, onClick, t, style }) {
    the Patreon membership checkout in a new tab (no email, no /api call; unlock
    comes later when payment webhooks are wired). */
 const SUBSCRIBE_URL = 'https://www.patreon.com/cw/axitnow';  // Patreon 멤버십 (Pro $9.99/월)
+/* NOTE: rendered via createPortal to document.body — the carousel slides are CSS-
+   transformed, and position:fixed inside a transformed ancestor anchors to that
+   ancestor instead of the viewport (the modal appeared on the NEIGHBORING slide).
+   The portal escapes the transform so the popup opens over the card you tapped,
+   with the blurred locked card still visible behind the translucent backdrop. */
 function SubscribeModal({ onClose, t }) {
-  return (
-    <div onClick={onClose} style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
+  return ReactDOM.createPortal(
+    <div onClick={(e) => { e.stopPropagation(); onClose(); }}
+      style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
       display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
         padding: 24, width: 320, maxWidth: '88vw', fontFamily: 'Pretendard, system-ui' }}>
@@ -436,7 +442,8 @@ function SubscribeModal({ onClose, t }) {
           </a>
         </p>
       </div>
-    </div>
+    </div>,
+    document.body
   );
 }
 
@@ -679,8 +686,8 @@ function LockedCard({ item, index, total, t, mobile, section }) {
           textShadow: '0 1px 5px rgba(0,0,0,.4)' }}>
           오늘의 나머지 소식은 구독자에게 공개됩니다
         </p>
-        {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
       </div>
+      {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     </div>
   );
 }
@@ -971,7 +978,7 @@ function Masthead({ t, mobile, onHome }) {
       <div role="button" tabIndex={0} aria-label="홈으로" onClick={onHome}
         onKeyDown={(e) => { if (onHome && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); onHome(); } }}
         style={{ cursor: onHome ? 'pointer' : 'default' }}>
-        <MorphingTitle texts={['AX-it', 'DESIGN', 'NOW']} color={t.hl}
+        <MorphingTitle texts={['AX-it', 'NOW']} color={t.hl}
           fontSize={mobile ? 42 : 56} width={mobile ? 300 : 360} height={mobile ? 56 : 72} />
       </div>
       <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 5 : 8 }}>Daily Brief · {ds}</div>
@@ -1220,7 +1227,7 @@ function SectionTabs({ sections, order, active, onSelect, t, flush }) {
 
 /* ---- MobileStickyHeader: a compact two-row bar that curtains down from the top once
    the real masthead + tabs scroll out of view, and curtains up (fast) when they return.
-   Row 1: a STATIC "AX-it DESIGN NOW" title (no goo morph) on the left + Daily Brief on
+   Row 1: a STATIC "AX-it NOW" title (no goo morph) on the left + Daily Brief on
    the right. Row 2: the same section tabs. Mobile only. ---- */
 function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, order, active, onSelect, onTitle }) {
   const titleRef = useRef(); const tabsRef = useRef();
@@ -1249,7 +1256,7 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
       <div ref={titleRef} style={{ padding: `12px ${g}px 16px`, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
         <div onClick={onTitle} style={{ cursor: onTitle ? 'pointer' : 'default', flex: '0 0 auto',
           fontFamily: 'var(--font-sans)', fontWeight: 700, letterSpacing: '-0.03em', fontSize: 16,
-          color: t.hl, whiteSpace: 'nowrap', lineHeight: 1 }}>AX-it DESIGN NOW</div>
+          color: t.hl, whiteSpace: 'nowrap', lineHeight: 1 }}>AX-it NOW</div>
         <div className="ax-eyebrow" style={{ color: t.mute, whiteSpace: 'nowrap', lineHeight: 1 }}>Daily Brief · {ds}</div>
       </div>
       {/* row 2 — section tabs, flush to the same left edge as the title and the card */}
