@@ -48,4 +48,15 @@ fi
 
 git push origin "$DEPLOY_BRANCH"
 echo "OK: '$DEPLOY_BRANCH' synced with main and pushed → Cloudflare Workers build triggered."
-echo "Verify in ~30-120s: curl -s https://axitdesign.simonksy.workers.dev/axbrief-data.js | grep -c <today-card-id>"
+
+# Direct deploy as well — the Workers Builds CI project was created against the
+# old worker name (axitdesign); after the rename to axitnow the CI outcome is
+# not guaranteed, so ship directly too (idempotent; same assets+worker).
+# wrangler 4.114 needs Node >=22 → prefer homebrew node.
+export PATH="/opt/homebrew/bin:$PATH"
+if npx wrangler deploy >/tmp/axbrief-wrangler-deploy.log 2>&1; then
+  echo "OK: direct wrangler deploy → axitnow updated ($(date '+%H:%M:%S'))"
+else
+  echo "WARN: direct wrangler deploy failed (see /tmp/axbrief-wrangler-deploy.log) — relying on CI build" >&2
+fi
+echo "Verify in ~30-120s: curl -s https://axitnow.simonksy.workers.dev/axbrief-data.js | grep -c <today-card-id>"
