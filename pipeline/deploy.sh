@@ -54,6 +54,7 @@ echo "OK: '$DEPLOY_BRANCH' synced with main and pushed → Cloudflare Workers bu
 # not guaranteed, so ship directly too (idempotent; same assets+worker).
 # wrangler 4.114 needs Node >=22 → prefer homebrew node.
 export PATH="/opt/homebrew/bin:$PATH"
+unset NODE_OPTIONS   # a stale session-injected preload can break node; wrangler needs a clean env
 if npx wrangler deploy >/tmp/axbrief-wrangler-deploy.log 2>&1; then
   echo "OK: direct wrangler deploy → axitnow updated ($(date '+%H:%M:%S'))"
 else
