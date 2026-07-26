@@ -5,7 +5,8 @@
   "compatibility_flags": ["nodejs_compat"],
   "observability": { "enabled": true },
   "main": "worker/index.js",
-  "workers_dev": true,
+  "workers_dev": false,
+  "preview_urls": false,
   "routes": [
     { "pattern": "axitnow.com", "custom_domain": true },
     { "pattern": "www.axitnow.com", "custom_domain": true }
