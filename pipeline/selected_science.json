@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "science",
   "selection_mode": "auto",
   "target": 5,
@@ -9,61 +9,61 @@
   "picks": [
     {
       "tool": "Science",
-      "headline": "숨은 변수 몇 개로 거대 물질계를 예측하는 AI",
-      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
-      "source": "Tech Xplore",
+      "headline": "AI가 20년치 아르고 관측으로 대서양 순환을 복원하다",
+      "url": "https://phys.org/news/2026-07-ai-atlantic-circulation-insights-years.html",
+      "source": "Phys.org",
       "category": "science",
       "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
-      "excerpt": "National University of Singapore researchers built AI methods that automatically identify a small set of hidden variables capturing a material's collective behavior, letting them predict very large stochastic systems from simulations of much smaller ones. The work (Physical Review Materials and ICML 2026) sharply cuts the compute needed for materials modeling.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-unlocks-atlantic-ci.jpg",
+      "excerpt": "Helmholtz researchers combined machine learning with established physical models to reconstruct Atlantic Ocean circulation from 20 years of Argo profiling-float data, extracting more signal from sparse measurements than physics-only methods. The hybrid approach sharpens understanding of key circulation systems that drive climate.",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Peer-reviewed method (PRM + ICML 2026) that discovers a few hidden collective variables to predict very large systems from small simulations — directly changes how computational scientists scale materials modeling."
+      "rationale": "Climate/ocean pick: a hybrid ML-plus-physics method that pulls more signal from sparse Argo float data than physics-only models, improving how ocean scientists reconstruct climate-driving circulation. Distinct study and URL from the 07-22 GOFLOW ocean-current card."
     },
     {
       "tool": "Science",
-      "headline": "싱크로트론 실험을 스스로 정렬하는 에이전트형 'X선 과학자'",
-      "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
+      "headline": "AI가 DNA 가닥끼리의 결합을 83.5% 정확도로 예측하다",
+      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg",
-      "excerpt": "Stanford and SLAC researchers built an agentic AI 'X-ray scientist' that autonomously aligns crystal samples at synchrotron beamlines, reasoning about experimental conditions and issuing instrument commands. Published in Nature Machine Intelligence, it points toward self-running beamline experiments.",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "High-credibility (Nature Machine Intelligence), high-novelty result: an agent that reasons about conditions and drives real beamline instruments, a concrete step toward self-running experiments."
-    },
-    {
-      "tool": "Science",
-      "headline": "바이오 생산 현장에 맞춘 AI 세포 공학 모델",
-      "url": "https://www.genengnews.com/topics/bioprocessing/ai-protein-engineering-model-designed-for-biomanufacturing/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
-      "category": "science",
-      "published_iso": "2026-07-22T00:00:00Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/07/Dutton-Photo-4-small.png",
-      "excerpt": "Triplebar Bio, UC Berkeley and BioMADE are developing an AI cell-engineering model built specifically for the biomanufacturing environment to optimize host-cell performance, reduce development timelines and streamline platform design. It targets a data regime that generic protein models miss.",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/ai-and-medical.jpg",
+      "excerpt": "North Carolina State University researchers built an AI model, BINND, that predicts which DNA molecules will bind to each other with 83.5% accuracy after training on 144 million sequence pairs, beating prior methods by at least 10%. Better modeling of these hypercomplex binding relationships could aid biomedical diagnostics and DNA computing.",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Applied life-science pick: a purpose-built AI cell-engineering model for the biomanufacturing regime that generic protein models miss — distinct topic and outlet from the earlier Baker protein-design card."
+      "rationale": "Life-science pick: a concrete new model (BINND) that beats prior methods by 10%+ on DNA-DNA binding prediction, a foundational capability for diagnostics and DNA computing. Fresh topic and outlet-distinct from the earlier biomanufacturing card."
     },
     {
       "tool": "Science",
-      "headline": "생명과학 연구에 소리 없이 스며드는 LLM, 경계는 아직 없다",
-      "url": "https://phys.org/news/2026-07-large-language-quietly-reshaping-life.html",
-      "source": "Phys.org",
+      "headline": "열 요동을 계산 자원으로 삼는 열역학 컴퓨터의 부상",
+      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "source": "Quanta Magazine",
       "category": "science",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-creeping-normality.jpg",
-      "excerpt": "A study led by Ivan Jaric warns that LLMs are becoming normalized in life-sciences research before clear usage boundaries exist, potentially eroding cross-disciplinary collaboration and core scientific skills. It argues routine reliance could reshape the foundations of scientific practice and culture.",
-      "accent": "#f5a623",
+      "published_iso": "2026-07-15T00:00:00Z",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp",
+      "excerpt": "Quanta surveys a new class of thermodynamic computers that harness random thermal fluctuations as a computational resource rather than fighting them, aiming to run generative-AI algorithms with orders-of-magnitude less energy. Physicists like Normal Computing's Patrick Coles argue exploiting thermodynamics could reshape the hardware substrate of AI.",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A critical, method-level counterpoint on how LLMs are silently reshaping the practice and culture of life-sciences research — balances the tool-launch cards and rounds out topic diversity."
+      "rationale": "Physics pick from a top-credibility outlet (Quanta): a novel hardware paradigm that exploits thermal noise to run generative AI with far less energy. Genuine physics research intersecting AI, not industry noise, and the run's only physics-substrate story."
+    },
+    {
+      "tool": "Science",
+      "headline": "AI는 '분위기'를 읽을 수 있는가 — 관건은 맥락이다",
+      "url": "https://www.psychologytoday.com/sg/blog/in-one-lifespan/202607/can-ai-read-the-room",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-07-24T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Psychologist Michael Hogan describes research using AI-driven analytics to code non-verbal behavior such as silence during group work at millisecond precision, finding that identical pauses carry different meanings by context. The takeaway: the hard problem is not teaching AI to notice behavior, but to interpret it in context.",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Psychology/behavior pick: AI-driven millisecond coding of non-verbal cues (silence in group work) reframes the hard problem as context interpretation, not detection. Adds a distinct behavioral-science angle and a third outlet to the spread."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.science in news_data.json — today (2026-07-24: cyclecover, scoresmooth, peptiverse, medmia, curiobot) + days 2026-07-23 (oled-ai, deeptimegate, qewc), 2026-07-22 (flatband, baker, openadmet, goflow), 2026-07-21 (willow-rl), 2026-07-20 (chathea, k2-18b-seti, scent-ai, denning-critique), 2026-07-19 (platon, paper-mill, novotags, ai-res, lab-animal-ai).",
-    "dropped_duplicates": "phys.org/news/2026-07-faster-quantum.html (Google Quantum AI ML re-tunes a quantum computer as it runs, ~3.5x greater stability by reusing error-detection events) = CONTENT duplicate of published card 'willow-rl' (2026-07-21, thequantuminsider.com) — same Google research, same in-computation RL re-tuning, same 3.5x stability figure, different outlet. techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html (Tohoku closed-loop self-driving lab fusing databases/ML potentials/LLMs/agents/auto-lab for clean-energy materials) = CONTENT duplicate of published card 'chathea' (2026-07-20, phys.org/news/2026-07-large-language-discovery-catalysts-energy.html), the same Tohoku AI-plus-automated-experiment loop for clean-energy materials covered via a different outlet; this candidate was already adjudicated a duplicate in the 2026-07-24 run and remains so under earliest-wins. Both dropped.",
-    "shortfall_reason": "Pool held 6 URL-deduped candidates; 2 were content-duplicates of already-published stories (willow-rl, chathea). The 4 survivors are all distinct and fresh; no further unique fresh items existed, so selection stops at 4 (above floor 3) rather than padding to 5.",
-    "diversity": "Four picks across three distinct outlets (Tech Xplore, Phys.org x2, GEN) — inside the max-2-per-outlet guard. Topic spread: materials modeling, autonomous instrumentation, biomanufacturing cell engineering, LLMs-in-research critique. Single science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623). No two picks share a URL."
+    "checked_against": "sections.science in news_data.json — today (2026-07-25: hiddenvars, xrayagent, cellforge, creepnorm) + days 2026-07-24 (cyclecover, scoresmooth, peptiverse, medmia, curiobot), 2026-07-23 (oled-ai, deeptimegate, qewc), 2026-07-22 (flatband, baker, openadmet, goflow), 2026-07-21 (willow-rl), 2026-07-20 (chathea, k2-18b-seti, scent-ai, denning-critique). Also cross-checked the prior selected_science.json record of the 2026-07-19 brief (platon, paper-mill, novotags, ai-res, lab-animal-ai), now rolled out of the 5-day file window.",
+    "dropped_duplicates": "sciencedaily.com/releases/2026/07/260716023610.htm (ETH Zurich PLATON single-block particle detector, article dated 2026-07-16) = CONTENT duplicate of the already-published card 'platon' from the 2026-07-19 brief (recorded in the prior selected_science.json dedup_notes) — same PLATON detector story re-fed after the dedup window slid; dropped under earliest-wins. sciencedaily.com/releases/2026/07/260714225538.htm (QUT AI screening 2.6M cancer papers, flagging 250k+ as suspicious, article dated 2026-07-16) = CONTENT duplicate of the already-published card 'paper-mill' from the 2026-07-19 brief; the research-integrity story already ran and is dropped to avoid a reader-visible repeat. Both articles pre-date the current window and were surfaced again only because the 07-19 day aged out of news_data.json, but the earliest-wins hard rule means a story appears on exactly one date.",
+    "shortfall_reason": "Pool held 6 URL-deduped candidates; 2 (PLATON, cancer paper-mill) are content re-feeds of stories already published on 2026-07-19. The 4 survivors are all distinct and fresh with no further unique items available, so selection stops at 4 (above floor 3) rather than padding to 5 or resurfacing a dropped story.",
+    "diversity": "Four picks across three distinct outlets (Phys.org x2, Quanta Magazine, Psychology Today) — inside the max-2-per-outlet guard, three distinct outlets. Topic spread hits four of the requested science buckets: climate/ocean (Atlantic circulation), bio (DNA binding), physics (thermodynamic computing), psychology/behavior (reading the room). Single science category, so each pick carries a distinct palette accent (#2ec5c5, #7928ca, #0070f3, #eb367f). No two picks share a URL."
   }
 }

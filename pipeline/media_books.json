@@ -1,9 +1,7 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "books",
   "media": [
-    { "id": "booklens-hallucinate", "type": "image", "src": "pipeline/media/booklens-hallucinate.jpg" },
-    { "id": "ai-nonfiction-hill", "type": "image", "src": "pipeline/media/ai-nonfiction-hill.png" },
-    { "id": "open-science-2", "type": "image", "src": "pipeline/media/open-science-2.jpg" }
+    { "id": "textbook-3d-selective", "type": "image", "src": "pipeline/media/textbook-3d-selective.jpg" }
   ]
 }

@@ -1,55 +1,68 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "games",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://wccftech.com/nvidia-brings-local-ai-agents-to-dgx-station-pc-with-agent-toolkit/",
-      "title": "NVIDIA Brings Local AI Agents To Its DGX Station Workstation With The NVIDIA Agent Toolkit & Omniverse",
-      "source": "Wccftech",
-      "published_iso": "2026-07-20T15:00:13Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/NVIDIA-Agent-Toolkit-on-DGX-Station.jpg",
-      "excerpt": "NVIDIA's Agent Toolkit lets DGX Station users run personal AI agents locally in about 30 minutes, combining Nemotron models and Omniverse libraries so agents can access tools and skills in a secure on-device runtime for creator and dev workflows.",
-      "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Fresh, distinct topic (on-device personal-agent runtime via Agent Toolkit + Omniverse) with no match in games history; the published nvidia-siggraph rollup covers neural rendering / Cosmos 3 / MCP-in-DCC-tools, not this local DGX workstation runtime. Actionable for creator/dev pipelines wanting local agents stood up in minutes."
+      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
+      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-07-14T14:20:43Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
+      "excerpt": "Slay the Spire 2's lead defends deliberately rough hand-made placeholder art in Early Access, arguing generative AI 'would ruin it' because polished AI fill-ins make players judge an unfinished build as a finished 1.0 — a craft-and-iteration case against gen AI in the art pipeline.",
+      "rationale": "A concrete craft argument from a shipping studio lead — why rough hand-made placeholders beat polished AI fill-ins during Early Access reframes how designers stage unfinished art; credible GamesRadar+ interview on a fresh, distinct release."
     },
     {
-      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
-      "title": "\"Steam's required AI disclosure is the right move\": Devs say gen AI should be called out in games and support Valve's store mandate",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-21T20:21:08Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
-      "excerpt": "Developers push back on Tim Sweeney's criticism of Valve's AI labels, arguing disclosure of generative AI content shipped to players is a baseline transparency and creative-credit issue that other storefronts should adopt.",
-      "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Distinct event (Sweeney-vs-Valve disclosure debate and developer endorsement of the mandate), separate from the published 07-24 steamcensus card, which is a statistical study of disclosure rates. Adds a policy / creative-credit angle from a different outlet."
+      "title": "iOS developer made a Capybara game using vibe-coding and won $25,000",
+      "url": "https://wccftech.com/ios-developer-made-capybara-game-using-vibe-coding-and-won-25000/",
+      "source": "Wccftech",
+      "published_iso": "2026-07-13T16:21:17Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg",
+      "excerpt": "An iOS developer built a Capybara food-delivery game almost entirely by 'vibe-coding' with Claude Code and won a $25,000 prize — a concrete example of AI coding agents collapsing the barrier for a solo creator to ship a finished mobile game.",
+      "rationale": "Highly actionable proof point — a solo dev shipping and winning $25K on a Claude Code vibe-coded game shows exactly how AI coding agents lower the barrier to finishing a mobile title; distinct outlet keeps the section diverse."
+    },
+    {
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "title": "MMO life sim Seed's AI-powered avatars prove once again that nothing shatters immersion quicker than crappy chatbot dialogue",
+      "url": "https://www.pcgamer.com/games/sim/mmo-life-sim-seeds-ai-powered-avatars-prove-once-again-that-nothing-shatters-immersion-quicker-than-crappy-chatbot-dialogue/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-24T21:14:39Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Td7M8ni6EarYZoh34DHUD7-1200-80.jpg",
+      "excerpt": "PC Gamer tries the AI-driven NPCs in the relaunched MMO life sim Seed and finds the generative chatbot dialogue breaks immersion rather than deepening it — a hands-on craft verdict on where real-time LLM avatars still fall short in shipped games.",
+      "rationale": "The freshest pick and a hands-on reality check — a shipped MMO's real-time LLM avatars breaking immersion tells designers exactly where generative NPC dialogue still fails; third distinct outlet (PC Gamer)."
+    },
+    {
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "title": "Steam study of over 53,000 games finds \"60–90% of the growth\" in monthly releases is from games using AI and \"almost none of them make money\"",
+      "url": "https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-07-15T16:00:50Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg",
+      "excerpt": "A study of 53,597 Steam titles finds AI-made games now drive 60–90% of the growth in monthly releases yet almost none earn money — hard data on how generative AI is reshaping (and flooding) the storefront where designers' work has to compete for attention.",
+      "rationale": "Hard data over vibes — a 53,597-title study quantifying how AI games flood Steam yet earn nothing directly shapes how designers weigh AI-scale output against the storefront they must compete in; credible GamesRadar+ report on a distinct study."
     }
   ],
-  "dedup": {
-    "pool_size": 8,
-    "kept": 2,
-    "dropped_as_duplicate": 6,
+  "shortfall": false,
+  "shortfall_reason": null,
+  "dedup_report": {
+    "candidates_evaluated": 4,
+    "kept": 4,
+    "dropped_as_duplicates": 0,
     "floor": 3,
     "cap": 5,
-    "below_target": true,
-    "checked_against": "sections.games — today (2026-07-24: openriglogic, steamcensus, mkwiicomp, inworldtts) + days 2026-07-19 (meccha-chameleon, ai-clone, steam-genai), 07-20 (damagecontrol, indiedevs25, metahumancrowds), 07-21 (houdini22), 07-22 (unity7, dlss5, meshy3dagent), 07-23 (nvidia-siggraph, ai-2d-to-3d, atelico, kaneko/fnaivoice)",
-    "notes": [
-      "RE-CURATION VERDICT ON MESHY 3D AGENT — DROPPED as a hard duplicate. The recovery-pass candidate 'Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner' (80.lv, 2026-07-21) is the SAME story already published as card 'meshy3dagent' under games date 2026-07-22: same URL (only a trailing-slash difference: .../meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner), same outlet (80 Level), same content (conversational 3D Agent beta, style-consistent asset families, export to Blender/Unreal/Unity). Earliest-wins; the DEDUP hard rule overrides the 'keep Meshy' guidance — never republish a same-URL story to reach the floor.",
-      "Unity 7 (Game Developer) — DROPPED as duplicate of published 'unity7' card (07-22), same gamedeveloper.com URL.",
-      "NVIDIA SIGGRAPH rollup (NVIDIA Blog, blogs.nvidia.com/siggraph-news-2026) — DROPPED as exact-URL duplicate of published 'nvidia-siggraph' card (07-23).",
-      "NVIDIA 'Graphics Research Accelerates ... 21 Breakthroughs at SIGGRAPH' (Wccftech) — DROPPED as content duplicate of the same SIGGRAPH 2026 graphics-research announcement carried by published 'nvidia-siggraph'. Different outlet, same event.",
-      "NVIDIA DLSS 5 'Direct The Final Frame' (Wccftech) — DROPPED as content duplicate of published 'dlss5' card (PC Gamer, 07-22): same DLSS 5 neural-render-control-for-artists story.",
-      "Steam Week in Review AI-disclosure census (PC Gamer) — DROPPED as exact-URL duplicate of published 'steamcensus' card (07-24).",
-      "Result is 2 fresh stories, below the floor of 3. NOT padded: every remaining candidate is a known same-URL or same-event duplicate of an already-published games card, and the guidance is to never republish a duplicate to reach the floor."
-    ],
-    "diversity_guard": {
-      "outlets": "2 distinct (Wccftech, GamesRadar+); no outlet appears more than once",
-      "categories": "games x2 — distinct accents (#7928ca, #f5a623) assigned within the shared category"
-    }
+    "baseline": "news_data.json -> sections.games: today 2026-07-25 (nvidia-dgx-agents, steam-aidisclosure-devs) + days 2026-07-24 (fnaivoice, openriglogic, ...), 07-23 (nvidia-siggraph, ai-2d-to-3d, atelico, kaneko), 07-22 (unity7, dlss5, meshy3dagent), 07-21 (houdini22), 07-20 (damagecontrol, indiedevs25, metahumancrowds). Pre-deduped filtered pool (4 items) re-verified by URL and content.",
+    "drops": [],
+    "diversity": "4 picks across 3 distinct outlets — GamesRadar+ (2), Wccftech (1), PC Gamer (1). Max 2 per outlet satisfied; >=3 distinct outlets satisfied. Single-category section (games), so each pick carries a distinct accent (#7928ca, #f5a623, #0070f3, #2ec5c5) for visual separation; motif 'cube' per the games category.",
+    "notes": "No overlap with published games cards. Candidate 1 (Slay the Spire 2 'gen AI would ruin it') is thematically adjacent to the 07-20 'indiedevs25' card (25 indie devs avoid gen AI) but is a distinct story — one named studio lead's specific defense of placeholder art, different URL and event. Candidate 4 (Steam 53k-title market study) is distinct from the 07-25 'steam-aidisclosure-devs' card (AI disclosure mandate debate) — different topic, URL and event. No general AI-business noise present; all four are games craft/design relevant."
   }
 }

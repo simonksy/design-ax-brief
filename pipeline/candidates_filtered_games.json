@@ -1,50 +1,50 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "games",
-  "now_iso": "2026-07-24T23:07:43Z",
+  "now_iso": "2026-07-25T23:00:47Z",
   "window_hours": 336,
-  "count": 7,
+  "count": 4,
   "items": [
     {
-      "title": "NVIDIA Graphics Research Accelerates Simulation & Physical AI Through 21 Breakthrough Technologies at SIGGRAPH",
-      "url": "https://wccftech.com/nvidia-graphics-research-accelerates-simulation-physical-ai-21-breakthroughs-siggraph/",
-      "source": "Wccftech",
-      "published_iso": "2026-07-20T15:00:14Z",
-      "excerpt": "NVIDIA's 21 accepted SIGGRAPH 2026 papers are becoming the foundation of real-time systems that generate 3D-grounded, physics-governed virtual worlds directed by creators — spanning neural rendering, materials and world models applicable to game production.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-20_13-20-31-1920x1080.jpg",
-      "category": "games"
-    },
-    {
-      "title": "NVIDIA DLSS 5 Hands Over Full Control To Artists To \"Direct The Final Frame\"",
-      "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
-      "source": "Wccftech",
-      "published_iso": "2026-07-21T19:35:40Z",
-      "excerpt": "A SIGGRAPH technical demo shows DLSS 5's neural rendering going beyond upscaling into AI image synthesis — taking a game's color and motion vectors and letting artists direct photoreal lighting and materials in real time at 4K.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
-      "category": "games"
-    },
-    {
-      "title": "\"Steam's required AI disclosure is the right move\": Devs say gen AI should be called out in games and support Valve's store mandate",
-      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
+      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
+      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
       "source": "GamesRadar+",
-      "published_iso": "2026-07-21T20:21:08Z",
-      "excerpt": "Developers push back on Tim Sweeney's criticism of Valve's AI labels, arguing disclosure of generative AI content shipped to players is a baseline transparency and creative-credit issue that other storefronts should adopt.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
+      "published_iso": "2026-07-14T14:20:43Z",
+      "excerpt": "Slay the Spire 2's lead defends deliberately rough hand-made placeholder art in Early Access, arguing generative AI 'would ruin it' because polished AI fill-ins make players judge an unfinished build as a finished 1.0 — a craft-and-iteration case against gen AI in the art pipeline.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
       "category": "games"
     },
     {
-      "title": "NVIDIA Brings Local AI Agents To Its DGX Station Workstation With The NVIDIA Agent Toolkit & Omniverse",
-      "url": "https://wccftech.com/nvidia-brings-local-ai-agents-to-dgx-station-pc-with-agent-toolkit/",
+      "title": "iOS developer made a Capybara game using vibe-coding and won $25,000",
+      "url": "https://wccftech.com/ios-developer-made-capybara-game-using-vibe-coding-and-won-25000/",
       "source": "Wccftech",
-      "published_iso": "2026-07-20T15:00:13Z",
-      "excerpt": "NVIDIA's Agent Toolkit lets DGX Station users run personal AI agents locally in about 30 minutes, combining Nemotron models and Omniverse libraries so agents can access tools and skills in a secure on-device runtime for creator and dev workflows.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/NVIDIA-Agent-Toolkit-on-DGX-Station.jpg",
+      "published_iso": "2026-07-13T16:21:17Z",
+      "excerpt": "An iOS developer built a Capybara food-delivery game almost entirely by 'vibe-coding' with Claude Code and won a $25,000 prize — a concrete example of AI coding agents collapsing the barrier for a solo creator to ship a finished mobile game.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg",
+      "category": "games"
+    },
+    {
+      "title": "MMO life sim Seed's AI-powered avatars prove once again that nothing shatters immersion quicker than crappy chatbot dialogue",
+      "url": "https://www.pcgamer.com/games/sim/mmo-life-sim-seeds-ai-powered-avatars-prove-once-again-that-nothing-shatters-immersion-quicker-than-crappy-chatbot-dialogue/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-24T21:14:39Z",
+      "excerpt": "PC Gamer tries the AI-driven NPCs in the relaunched MMO life sim Seed and finds the generative chatbot dialogue breaks immersion rather than deepening it — a hands-on craft verdict on where real-time LLM avatars still fall short in shipped games.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Td7M8ni6EarYZoh34DHUD7-1200-80.jpg",
+      "category": "games"
+    },
+    {
+      "title": "Steam study of over 53,000 games finds \"60–90% of the growth\" in monthly releases is from games using AI and \"almost none of them make money\"",
+      "url": "https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-07-15T16:00:50Z",
+      "excerpt": "A study of 53,597 Steam titles finds AI-made games now drive 60–90% of the growth in monthly releases yet almost none earn money — hard data on how generative AI is reshaping (and flooding) the storefront where designers' work has to compete for attention.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg",
       "category": "games"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 4,
+    "dropped": 3,
+    "kept": 2,
     "against_days": 5
   }
 }

@@ -1,54 +1,36 @@
 {
   "date": "2026-07-25",
   "section": "design",
-  "now_iso": "2026-07-24T23:07:43Z",
+  "now_iso": "2026-07-25T23:00:47Z",
   "window_hours": 72,
-  "count": 5,
+  "count": 3,
   "items": [
     {
-      "title": "Nvidia backs hybrid AI to reshape computer graphics",
-      "url": "https://develop3d.com/visualisation/nvidia-backs-hybrid-ai-to-reshape-computer-graphics/",
-      "source": "DEVELOP3D",
-      "published_iso": "2026-07-22T12:12:31+00:00",
-      "excerpt": "Nvidia is pushing a 'hybrid' path that fuses neural networks with traditional rendering, with new Omniverse libraries and AI models aimed at reshaping how computer graphics and real-time visualisation get produced for designers and engineers.",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/nvidia-omniverse-libraries-1.jpg",
-      "category": "render"
-    },
-    {
-      "title": "Black Forest Labs launches FLUX 3, capable of generating images and 20-second video with audio, but in limited release to start",
-      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
-      "source": "VentureBeat",
-      "published_iso": "2026-07-23T17:58:07+00:00",
-      "excerpt": "Black Forest Labs unveiled FLUX 3, a new generative model that produces both still images and up to 20-second video clips with audio, extending the FLUX line from image generation into audiovisual output for creative work. It ships in limited release to start.",
-      "og_image": "",
-      "category": "render"
-    },
-    {
-      "title": "Chaos just fixed one of the biggest problems with gaussian splats — you can finally relight them",
-      "url": "https://www.creativebloq.com/3d/chaos-just-fixed-one-of-the-biggest-problems-with-gaussian-splats-you-can-finally-relight-them",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-23T11:00:00+00:00",
-      "excerpt": "Chaos has cracked one of the biggest limitations of Gaussian splats: relighting. Captured splat scenes can now react to new lighting inside a production render pipeline, closing a long-standing gap between neural capture and traditional CG lookdev.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4JFkQxqABwmoB7fUoDxTdG-1600-80.jpg",
-      "category": "render"
-    },
-    {
-      "title": "The aggressively mediocre fight: the battle we have with AI and creativity",
-      "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4",
+      "title": "Four questions every tool should answer (even Figma) about AI training and model usage",
+      "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30",
       "source": "UX Collective",
-      "published_iso": "2026-07-24T11:09:23+00:00",
-      "excerpt": "Designer Chris R Becker on the daily battle creatives face with AI — how leaning on generative tools can pull work toward the 'aggressively mediocre,' and what designers must do to push past the default output.",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
+      "published_iso": "2026-07-23T21:43:32+00:00",
+      "excerpt": "Patrick Neeman argues Figma's class action isn't really about copyright — it's about defaults, and defaults are a design decision. He lays out four questions every design tool (Figma included) should answer about how it uses your work to train AI models.",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*v-ZMSxT2f8iivdbfPNtyQQ.png",
+      "category": "figma"
+    },
+    {
+      "title": "Hate generative AI? Maybe it's time to boycott Netflix",
+      "url": "https://www.creativebloq.com/ai/hate-generative-ai-maybe-its-time-to-boycott-netflix",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-25T06:00:00+00:00",
+      "excerpt": "With Netflix leaning into generative AI across production, Creative Bloq argues creatives angry about AI's encroachment should vote with their subscriptions — a look at how a major studio's gen-AI adoption reshapes the creative industry.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/UmPnkcxYmjFmqxG4TxStr9-596-80.jpg",
       "category": "workflow"
     },
     {
-      "title": "How to Make a Landing Page That Doesn't Look AI-Generated (7 Concrete Fixes)",
-      "url": "https://dev.to/parweb/how-to-make-a-landing-page-that-doesnt-look-ai-generated-7-concrete-fixes-i83",
-      "source": "DEV Community",
-      "published_iso": "2026-07-24T13:08:28+00:00",
-      "excerpt": "A practical designer's guide with seven concrete fixes for making AI-assisted landing pages stop looking generic — the spacing, type, imagery and copy tells that give away 'AI-generated' work and how to correct them.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F67g50i36575bo9fg0i25.png",
-      "category": "figma"
+      "title": "Anthropic releases Claude Opus 5 for both AI coding and general office work",
+      "url": "https://www.fastcompany.com/91578762/anthropic-releases-claude-opus-5-for-both-ai-coding-and-general-office-work",
+      "source": "Fast Company",
+      "published_iso": "2026-07-24T17:00:00+00:00",
+      "excerpt": "Anthropic's new frontier model Claude Opus 5 is a cheaper, stronger model for coding and agents — the class of model that now powers AI design tools like Claude Design, Cursor, Lovable and Figma Make, so its release ripples directly into designers' AI workflows.",
+      "og_image": "",
+      "category": "workflow"
     }
   ]
 }

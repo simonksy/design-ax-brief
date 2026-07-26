@@ -1,56 +1,40 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "books",
   "selection_mode": "auto",
   "picks": [
     {
+      "rank": 1,
+      "headline": "Can Interactive 3D Improve Digital Textbooks Without Making Reading More Complicated?",
       "tool": "Books",
+      "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://bookriot.com/tools-used-by-book-banners-2026/",
-      "source": "Book Riot",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2024/08/site-book-censorship-image.jpg.optimal.jpg",
-      "excerpt": "A look at the software now shaping which books get flagged, including BookLens, an AI-powered book-rating tool that 'hallucinates' and fabricates content details for titles that sometimes don't even exist. A cautionary case study in how unreliable generative-AI book analysis is being wired into discovery, rating and gatekeeping decisions across schools and libraries.",
-      "rationale": "Names a specific AI book-rating tool (BookLens) and its hallucination failure mode being wired into real gatekeeping — the most actionable design x AI story in the pool for anyone building or trusting AI book-analysis tools."
-    },
-    {
-      "tool": "Books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": null,
-      "excerpt": "When NYT journalist Kashmir Hill found an AI-generated biography of herself for sale on Amazon, she bought and read it, then tried to trace its author, exposing how machine-written nonfiction is quietly filling retail catalogs. A pointed look at AI-authored books and the collapse of authorship signals for readers.",
-      "rationale": "Concrete, traceable case of AI-generated nonfiction flooding Amazon under a real person's name — actionable for authors, editors and readers weighing authorship trust."
-    },
-    {
-      "tool": "Books",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/Figure-1.jpg",
-      "excerpt": "As AI assistants increasingly mediate how research is discovered and read, this essay argues open science must shift focus from mere access to trust, interpretation and effective communication. It reframes what publishers and libraries owe readers when a machine, not a person, is doing the reading.",
-      "rationale": "Reframes scholarly publishing strategy for an AI-mediated reading layer — moves the goalpost from access to trust and interpretation, a distinct angle from prior disclosure-standard coverage."
+      "url": "https://goodereader.com/blog/digital-publishing/can-interactive-3d-improve-digital-textbooks-without-making-reading-more-complicated",
+      "source": "Good e-Reader",
+      "published_iso": "2026-07-12T12:00:00Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/12220738/unnamed-1.jpg",
+      "excerpt": "Digital textbook publishers can now use AI text-to-3D tools to turn lesson descriptions into interactive 3D models, but the piece argues they should deploy the technology selectively where it clarifies spatial or internal structures that flat images cannot.",
+      "rationale": "Fresh, actionable angle for educational publishers: AI text-to-3D as a selective tool for spatial concepts - a new production use-case not covered anywhere in the books history."
     }
   ],
-  "dedup_notes": {
-    "history_checked": "Checked against sections.books in news_data.json — today (2026-07-24: anthropic-final, bloomsbury-payout, substack-pangram, wiley-genesis, ipa-congress-ai) plus days 07-19 (pw-ai-analytics), 07-20 (fiction-feast, cartland-voice, bloomsbury-ai-licensing), 07-21 (fanfic-ai-markers, vancouver-ai-disclosure, bloomsbury-ai-licensing), 07-22 (ai-narration, ai-uptake, hologram), 07-23 (zedoc, ai-course, editor-ai-survey). None of the three picks matches a published URL or story: Book Riot BookLens has no prior bookriot coverage; the Jane Friedman NYT-nonfiction piece is distinct from published janefriedman cards (fanfic-ai-markers, substack-pangram); the Scholarly Kitchen Open Science 2.0 essay is a different URL and topic from the published vancouver-ai-disclosure standard piece.",
-    "dropped_as_duplicates": [
-      {
-        "url": "https://www.thebookseller.com/news/us-publishers-file-lawsuit-against-google-for-training-gemini-on-copyrighted-books",
-        "reason": "Same Google/Gemini training lawsuit (Hachette, Cengage, Elsevier, Scott Turow) already published 2026-07-20 in card 'bloomsbury-ai-licensing' (Publishing Perspectives roundup reported publishers suing Google over Gemini training on their books). Earliest-wins — drop."
-      }
-    ]
-  },
-  "diversity": "3 distinct outlets (Book Riot, Jane Friedman, The Scholarly Kitchen), 1 card each — well inside the <=2-per-outlet cap and meeting the >=3-outlet aim. Single-category section (books) as expected, so picks 2 and 3 take distinct palette accents (#0070f3, #7928ca). Topic spread: AI book-rating tool reliability vs. AI-authored nonfiction / retail integrity vs. AI-mediated scholarly reading.",
   "shortfall": {
-    "target_floor": 3,
-    "picked": 3,
-    "below_floor": false,
-    "honest_note": "Pool was 4 after URL-dedup. Content-dedup dropped the Google/Gemini lawsuit as a repeat of the 2026-07-20 coverage, leaving exactly 3 genuinely fresh stories — floor met without padding."
+    "target": 2,
+    "floor": 3,
+    "selected": 1,
+    "reason": "Section is genuinely exhausted (only 2 filtered candidates after the 14-day recovery window). Of those two, the Jane Friedman AI multi-cast narration study is a content duplicate of the already-published 2026-07-22 'ai-narration' card, so it was dropped per the dedup hard rule. Only 1 distinct never-before-published story survives, one below the expected 2 and below the floor of 3. Not padded with off-topic or stale items."
+  },
+  "dedup_notes": {
+    "checked_against": "pipeline/news_data.json -> sections.books (today 2026-07-25 + days 2026-07-20 through 07-24).",
+    "dropped_as_published_dup": [
+      {
+        "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
+        "reason": "Content dup of published 'ai-narration' card (Publishers Weekly, 2026-07-22, .../100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html). Same Spoken-commissioned blind-test study finding listeners rate AI multi-cast narration favorably versus human on character-driven scenes - reworded headline via a different outlet, same event/release. Earliest-wins: drop."
+      }
+    ],
+    "dropped_within_pool_dup": [],
+    "considered_not_selected": [],
+    "backfill": "No further candidates exist to backfill - the filtered pool held only 2 items and one is a published dup. Cannot reach 2; not padded.",
+    "diversity": "Single surviving pick (Good e-Reader). Single-category section (books): accent #f5a623, motif swatch per sources.json."
   }
 }

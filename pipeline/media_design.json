@@ -1,10 +1,9 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "design",
   "media": [
-    {"id": "flux3", "type": "image", "src": "pipeline/media/flux3.png"},
-    {"id": "chaossplat", "type": "image", "src": "pipeline/media/chaossplat.jpg"},
-    {"id": "mediocre", "type": "image", "src": "pipeline/media/mediocre.png"},
-    {"id": "landing7", "type": "image", "src": "pipeline/media/landing7.png"}
+    {"id": "opus5daily", "type": "svg", "motif": "frame", "accent": "#ff5a4d"},
+    {"id": "handfont", "type": "image", "src": "pipeline/media/handfont.png"},
+    {"id": "bookdrift", "type": "image", "src": "pipeline/media/bookdrift.png"}
   ]
 }

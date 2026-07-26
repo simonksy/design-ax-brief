@@ -1,59 +1,59 @@
 {
   "date": "2026-07-25",
   "section": "design",
-  "now_iso": "2026-07-24T23:07:43Z",
+  "now_iso": "2026-07-25T23:00:47Z",
   "window_hours": 72,
   "count": 5,
   "items": [
     {
-      "title": "Nvidia backs hybrid AI to reshape computer graphics",
-      "url": "https://develop3d.com/visualisation/nvidia-backs-hybrid-ai-to-reshape-computer-graphics/",
-      "source": "DEVELOP3D",
-      "published_iso": "2026-07-22T12:12:31+00:00",
-      "excerpt": "Nvidia is pushing a 'hybrid' path that fuses neural networks with traditional rendering, with new Omniverse libraries and AI models aimed at reshaping how computer graphics and real-time visualisation get produced for designers and engineers.",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/07/nvidia-omniverse-libraries-1.jpg",
-      "category": "render"
-    },
-    {
-      "title": "Black Forest Labs launches FLUX 3, capable of generating images and 20-second video with audio, but in limited release to start",
-      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
-      "source": "VentureBeat",
-      "published_iso": "2026-07-23T17:58:07+00:00",
-      "excerpt": "Black Forest Labs unveiled FLUX 3, a new generative model that produces both still images and up to 20-second video clips with audio, extending the FLUX line from image generation into audiovisual output for creative work. It ships in limited release to start.",
-      "og_image": "",
-      "category": "render"
-    },
-    {
-      "title": "Chaos just fixed one of the biggest problems with gaussian splats — you can finally relight them",
-      "url": "https://www.creativebloq.com/3d/chaos-just-fixed-one-of-the-biggest-problems-with-gaussian-splats-you-can-finally-relight-them",
+      "title": "Hate generative AI? Maybe it's time to boycott Netflix",
+      "url": "https://www.creativebloq.com/ai/hate-generative-ai-maybe-its-time-to-boycott-netflix",
       "source": "Creative Bloq",
-      "published_iso": "2026-07-23T11:00:00+00:00",
-      "excerpt": "Chaos has cracked one of the biggest limitations of Gaussian splats: relighting. Captured splat scenes can now react to new lighting inside a production render pipeline, closing a long-standing gap between neural capture and traditional CG lookdev.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4JFkQxqABwmoB7fUoDxTdG-1600-80.jpg",
-      "category": "render"
-    },
-    {
-      "title": "The aggressively mediocre fight: the battle we have with AI and creativity",
-      "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4",
-      "source": "UX Collective",
-      "published_iso": "2026-07-24T11:09:23+00:00",
-      "excerpt": "Designer Chris R Becker on the daily battle creatives face with AI — how leaning on generative tools can pull work toward the 'aggressively mediocre,' and what designers must do to push past the default output.",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
+      "published_iso": "2026-07-25T06:00:00+00:00",
+      "excerpt": "With Netflix leaning into generative AI across production, Creative Bloq argues creatives angry about AI's encroachment should vote with their subscriptions — a look at how a major studio's gen-AI adoption reshapes the creative industry.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/UmPnkcxYmjFmqxG4TxStr9-596-80.jpg",
       "category": "workflow"
     },
     {
-      "title": "How to Make a Landing Page That Doesn't Look AI-Generated (7 Concrete Fixes)",
-      "url": "https://dev.to/parweb/how-to-make-a-landing-page-that-doesnt-look-ai-generated-7-concrete-fixes-i83",
+      "title": "Anthropic releases Claude Opus 5 for both AI coding and general office work",
+      "url": "https://www.fastcompany.com/91578762/anthropic-releases-claude-opus-5-for-both-ai-coding-and-general-office-work",
+      "source": "Fast Company",
+      "published_iso": "2026-07-24T17:00:00+00:00",
+      "excerpt": "Anthropic's new frontier model Claude Opus 5 is a cheaper, stronger model for coding and agents — the class of model that now powers AI design tools like Claude Design, Cursor, Lovable and Figma Make, so its release ripples directly into designers' AI workflows.",
+      "og_image": "",
+      "category": "workflow"
+    },
+    {
+      "title": "When generation is free, taste is everything",
+      "url": "https://dev.to/goodbarber/when-generation-is-free-taste-is-everything-3k30",
       "source": "DEV Community",
-      "published_iso": "2026-07-24T13:08:28+00:00",
-      "excerpt": "A practical designer's guide with seven concrete fixes for making AI-assisted landing pages stop looking generic — the spacing, type, imagery and copy tells that give away 'AI-generated' work and how to correct them.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F67g50i36575bo9fg0i25.png",
+      "published_iso": "2026-07-23T08:45:20Z",
+      "excerpt": "GoodBarber's Mathieu Poli argues that as generative AI makes execution free and infinite, a designer's real value shifts to taste and judgment — the one thing the machine can't supply. A designer-facing take on where craft still matters in an AI workflow.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp6xflwxm1mfpiq2d5cat.png",
+      "category": "figma"
+    },
+    {
+      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
+      "url": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
+      "source": "DEV Community",
+      "published_iso": "2026-07-24T07:54:20Z",
+      "excerpt": "A designer photographed a single page of handwritten letters in dim light and ran an open-sourced pipeline that outputs an installable TTF — a hands-on look at AI-assisted type design and how far automated font generation has come.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs317mgv90ccea2sm3zrr.png",
+      "category": "figma"
+    },
+    {
+      "title": "Character Consistency Across 24 Pages of a Generated Picture Book",
+      "url": "https://dev.to/clarajbennett/character-consistency-across-24-pages-of-a-generated-picture-book-4i80",
+      "source": "DEV Community",
+      "published_iso": "2026-07-24T19:36:08Z",
+      "excerpt": "Generating one AI illustration of a child from a reference photo is easy now; keeping that same character consistent across 24 pages is the hard part. A practical walkthrough of character-consistency techniques for generative illustration and design workflows.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftfk1ruku3mjh0mlcya1a.png",
       "category": "figma"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 5,
+    "dropped": 1,
+    "kept": 2,
     "against_days": 5
   }
 }

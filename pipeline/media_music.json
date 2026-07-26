@@ -1,10 +1,9 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "music",
   "media": [
-    { "id": "maqam-archive", "type": "image", "src": "pipeline/media/maqam-archive.png" },
-    { "id": "talk-to-spotify", "type": "image", "src": "pipeline/media/talk-to-spotify.png" },
-    { "id": "landr-fair-trade", "type": "image", "src": "pipeline/media/landr-fair-trade.png" },
-    { "id": "lorde-about-the-song", "type": "image", "src": "pipeline/media/lorde-about-the-song.png" }
+    { "id": "bandlab-aiode", "type": "image", "src": "pipeline/media/bandlab-aiode.jpg" },
+    { "id": "gema-plai", "type": "image", "src": "pipeline/media/gema-plai.jpg" },
+    { "id": "tonefield-grid", "type": "image", "src": "pipeline/media/tonefield-grid.jpg" }
   ]
 }
