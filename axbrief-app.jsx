@@ -1499,6 +1499,12 @@ function ThemedPage({ themeKey }) {
               이 섹션에는 아직 오늘 소식이 없습니다. 곧 채워집니다.</p>
           </div>
         )}
+        {/* site footer — minimal: copyright + privacy policy (required by AdSense) */}
+        <footer style={{ textAlign: 'center', padding: '48px 20px 40px' }}>
+          <p className="ax-body" style={{ fontSize: 12.5, color: t.faint, margin: 0 }}>
+            © AX-it NOW · <a href="/privacy.html" style={{ color: t.faint, textDecoration: 'underline' }}>개인정보처리방침</a>
+          </p>
+        </footer>
       </div>
     </div>
   );

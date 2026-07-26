@@ -22,6 +22,22 @@
   body { background: #f1ece4; overflow-x: hidden; }
   * { box-sizing: border-box; }
 </style>
+
+<!-- Google AdSense — loaded ONLY for non-Pro visitors (ad-free reading is a Pro perk).
+     The review crawler is logged-out → sees the script; entitled members never load it. -->
+<script>(function () {
+  fetch('/api/me', { credentials: 'same-origin' })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (d) {
+      if (d && d.entitled) return;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4207807235259397';
+      s.crossOrigin = 'anonymous';
+      document.head.appendChild(s);
+    })
+    .catch(function () {});
+})();</script>
 </head>
 <body>
 <div id="root"></div>
