@@ -59,4 +59,4 @@ if npx wrangler deploy >/tmp/axbrief-wrangler-deploy.log 2>&1; then
 else
   echo "WARN: direct wrangler deploy failed (see /tmp/axbrief-wrangler-deploy.log) — relying on CI build" >&2
 fi
-echo "Verify in ~30-120s: curl -s https://axitnow.simonksy.workers.dev/axbrief-data.js | grep -c <today-card-id>"
+echo "Verify in ~30-120s: curl -s https://axitnow.com/axbrief-data.js | grep -c <today-card-id>"
