@@ -15,7 +15,7 @@
         "url": "https://www.fastcompany.com/91578762/anthropic-releases-claude-opus-5-for-both-ai-coding-and-general-office-work",
         "accent": "#ff5a4d",
         "motif": "frame",
-        "image": "",
+        "image": "pipeline/media/opus5daily.jpg",
         "full": {
           "mode": "summary",
           "blocks": [
@@ -2198,7 +2198,7 @@
         "url": "https://www.psychologytoday.com/sg/blog/in-one-lifespan/202607/can-ai-read-the-room",
         "accent": "#eb367f",
         "motif": "sphere",
-        "image": "",
+        "image": "pipeline/media/readroom.jpg",
         "hasFull": true,
         "locked": true
       }
@@ -2492,7 +2492,7 @@
     "url": "https://www.fastcompany.com/91578762/anthropic-releases-claude-opus-5-for-both-ai-coding-and-general-office-work",
     "accent": "#ff5a4d",
     "motif": "frame",
-    "image": "",
+    "image": "pipeline/media/opus5daily.jpg",
     "full": {
       "mode": "summary",
       "blocks": [
