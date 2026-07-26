@@ -520,14 +520,17 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
         {/* desktop pushes the source line to the card bottom; on mobile the card is
             content-height so the line simply follows the body (never clipped). */}
         <div style={{ flex: 1, minHeight: 14 }} />
-        {/* footer: divider, source link, then a full-width "Read" pill at the bottom */}
+        {/* footer: divider, then one clean row — full-width "Read" pill + share button.
+            The source link lives only inside the full view now (bottom of the article);
+            cards WITHOUT a Read button keep the source line so the link isn't lost. */}
         <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18 }}>
-          <SourceLine item={it} t={t} />
-          {onExpand && (
-            <div style={{ marginTop: 14, display: 'flex', alignItems: 'center', gap: 9 }}>
+          {onExpand ? (
+            <div style={{ display: 'flex', alignItems: 'center', gap: 9 }}>
               <div style={{ flex: 1, minWidth: 0 }}><AxPill label="Read" onClick={onExpand} t={t} /></div>
               {shareUrl && <ShareButton url={shareUrl} t={t} />}
             </div>
+          ) : (
+            <SourceLine item={it} t={t} />
           )}
         </div>
       </div>
