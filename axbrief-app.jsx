@@ -412,7 +412,7 @@ function AxPill({ label, onClick, t, style }) {
    in-site entitlement system in this teaser-paywall iteration: "구독하기" opens
    the Patreon membership checkout in a new tab (no email, no /api call; unlock
    comes later when payment webhooks are wired). */
-const SUBSCRIBE_URL = 'https://www.patreon.com/checkout/axitnow?rid=29184670';  // Pro 티어 결제 직행 (rid=Pro)
+const SUBSCRIBE_URL = 'https://www.patreon.com/join/axitnow';  // 멤버십 선택 페이지 (Pro 설명 + 무료체험 버튼)
 /* NOTE: rendered via createPortal to document.body — the carousel slides are CSS-
    transformed, and position:fixed inside a transformed ancestor anchors to that
    ancestor instead of the viewport (the modal appeared on the NEIGHBORING slide).
