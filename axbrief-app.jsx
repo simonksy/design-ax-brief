@@ -1502,7 +1502,7 @@ function ThemedPage({ themeKey }) {
         {/* site footer — minimal: copyright + privacy policy (required by AdSense) */}
         <footer style={{ textAlign: 'center', padding: '48px 20px 40px' }}>
           <p className="ax-body" style={{ fontSize: 12.5, color: t.faint, margin: 0 }}>
-            © AX-it NOW · <a href="/privacy.html" style={{ color: t.faint, textDecoration: 'underline' }}>개인정보처리방침</a>
+            © AX-it NOW · <a href="/privacy" style={{ color: t.faint, textDecoration: 'underline' }}>개인정보처리방침</a>
           </p>
         </footer>
       </div>
