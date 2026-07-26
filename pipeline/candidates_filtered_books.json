@@ -1,49 +1,32 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "books",
-  "now_iso": "2026-07-24T23:19:04Z",
+  "now_iso": "2026-07-25T23:00:47Z",
   "window_hours": 336,
+  "count": 2,
   "items": [
     {
       "category": "books",
-      "source": "The Bookseller",
-      "title": "US publishers file lawsuit against Google for 'training Gemini on copyrighted books'",
-      "url": "https://www.thebookseller.com/news/us-publishers-file-lawsuit-against-google-for-training-gemini-on-copyrighted-books",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "excerpt": "Hachette, Cengage, Elsevier and author Scott Turow filed a new US class action against Google, alleging it illegally copied millions of copyrighted works from Google Books, Play and Scholar to train its Gemini AI models. It is the first major AI-training suit to target Google beyond the Anthropic/Bloomsbury frame.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/657/12.jpg"
+      "source": "Good e-Reader",
+      "title": "Can Interactive 3D Improve Digital Textbooks Without Making Reading More Complicated?",
+      "url": "https://goodereader.com/blog/digital-publishing/can-interactive-3d-improve-digital-textbooks-without-making-reading-more-complicated",
+      "published_iso": "2026-07-12T12:00:00Z",
+      "excerpt": "Digital textbook publishers can now use AI text-to-3D tools to turn lesson descriptions into interactive 3D models, but the piece argues they should deploy the technology selectively where it clarifies spatial or internal structures that flat images cannot.",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/12220738/unnamed-1.jpg"
     },
     {
       "category": "books",
       "source": "Jane Friedman",
-      "title": "New York Times journalist investigates origins of AI-generated nonfiction",
-      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "When NYT journalist Kashmir Hill found an AI-generated biography of herself for sale on Amazon, she bought and read it, then tried to trace its author, exposing how machine-written nonfiction is quietly filling retail catalogs. A pointed look at AI-authored books and the collapse of authorship signals for readers.",
-      "og_image": null
-    },
-    {
-      "category": "books",
-      "source": "The Scholarly Kitchen",
-      "title": "Open Science 2.0: Building Understanding in an AI-Mediated World",
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "excerpt": "As AI assistants increasingly mediate how research is discovered and read, this essay argues open science must shift focus from mere access to trust, interpretation and effective communication. It reframes what publishers and libraries owe readers when a machine, not a person, is doing the reading.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/Figure-1.jpg"
-    },
-    {
-      "category": "books",
-      "source": "Book Riot",
-      "title": "The Tools Book Banners Are Using to Target Books in 2026",
-      "url": "https://bookriot.com/tools-used-by-book-banners-2026/",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "excerpt": "A look at the software now shaping which books get flagged, including BookLens, an AI-powered book-rating tool that 'hallucinates' and fabricates content details for titles that sometimes don't even exist. A cautionary case study in how unreliable generative-AI book analysis is being wired into discovery, rating and gatekeeping decisions across schools and libraries.",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2024/08/site-book-censorship-image.jpg.optimal.jpg"
+      "title": "New study: audiobook listeners willing to try AI multi-cast narration; rate it favorably",
+      "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
+      "published_iso": "2026-07-15T12:00:00Z",
+      "excerpt": "A new study commissioned by AI audiobook producer Spoken found that in blind testing, listeners rated AI multi-cast narration as slightly better than human narration on character-driven scenes, a signal that AI-voiced production tools may be nearing acceptance for full-cast fiction audiobooks.",
+      "og_image": ""
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 4,
+    "dropped": 4,
+    "kept": 2,
     "against_days": 5
   }
 }

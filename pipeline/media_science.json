@@ -1,26 +1,25 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "science",
   "media": [
     {
-      "id": "hiddenvars",
+      "id": "argomoc",
       "type": "image",
-      "src": "pipeline/media/hiddenvars.jpg"
+      "src": "pipeline/media/argomoc.jpg"
     },
     {
-      "id": "xrayagent",
+      "id": "binndna",
       "type": "image",
-      "src": "pipeline/media/xrayagent.jpg"
+      "src": "pipeline/media/binndna.jpg"
     },
     {
-      "id": "cellforge",
+      "id": "thermoflux",
       "type": "image",
-      "src": "pipeline/media/cellforge.png"
+      "src": "pipeline/media/thermoflux.jpg"
     },
     {
-      "id": "creepnorm",
-      "type": "image",
-      "src": "pipeline/media/creepnorm.jpg"
+      "id": "readroom",
+      "type": "svg"
     }
   ]
 }

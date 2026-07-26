@@ -1,67 +1,40 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "movies",
-  "now_iso": "2026-07-24T23:07:43Z",
+  "now_iso": "2026-07-25T23:00:47Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
-      "title": "Puget Systems at SIGGRAPH 2026: The Robo Dojo",
+      "category": "movies",
+      "source": "postPerspective",
+      "title": "Foundry Launches SmartRoto AI Plugin for Nuke",
+      "url": "https://postperspective.com/foundry-launches-smartroto-ai-plugin-for-nuke/",
+      "published_iso": "2026-07-16T00:00:00Z",
+      "excerpt": "Foundry announced SmartRoto, an AI-powered plugin for Nuke that automates one of VFX's most tedious jobs, letting artists work up to four times faster while keeping full control over spline adjustments. Foundry demoed it at SIGGRAPH 2026.",
+      "og_image": null
+    },
+    {
+      "category": "movies",
       "source": "RedShark News",
-      "category": "movies",
-      "published_iso": "2026-07-22T09:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
-      "excerpt": "Puget Systems and Form Studios built a SIGGRAPH activation where attendees control a fully-realized MetaHuman in real time to fight AI robots, now driven by a single-sensor LiDAR system instead of a camera-heavy mocap rig. The booth also demoed Beeble AI relighting and Volinga 3D Gaussian Splatting."
+      "title": "Puget Systems at SIGGRAPH 2026: The Robo Dojo",
+      "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "excerpt": "Puget Systems' SIGGRAPH 2026 booth spotlighted AI-in-VFX workflows: a real-time MetaHuman driven by body movement, Beeble AI running SwitchLight 3 to generate PBR relighting passes on native 4K footage (used on Corridor Crew's Son of a Dungeon S3), and Keyshot Studio's AI Shots applying generative changes while preserving CAD data.",
+      "og_image": null
     },
     {
-      "url": "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/",
-      "title": "Vigloo Studio: New AI Platform for Short-Form Microdramas",
-      "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-07-15T13:21:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vigaloo-624x416.jpg",
-      "excerpt": "Vigloo Studio, an AI-native production platform from Korea, launched in beta to help creators produce serialized short-form dramas at sharply reduced cost, consolidating AI video and image generation and character management into a single environment."
-    },
-    {
-      "url": "https://postperspective.com/foundry-adds-griptape-enterprise-for-pro-grade-ai-in-vfx/",
-      "title": "Foundry Adds Griptape Enterprise for Pro-Grade AI in VFX",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-07-16T08:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/11-624x416.jpg",
-      "excerpt": "Foundry announced Griptape Enterprise, an AI workflow-orchestration tier with studio-controlled licensing and on-prem deployment that lets pipeline supervisors curate exactly which AI models artists use, keeping VFX workflows vetted and production-ready."
-    },
-    {
-      "url": "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/",
-      "title": "Jamie Hearing on how Clear Angle is scanning the future of VFX",
-      "source": "fxguide",
-      "category": "movies",
-      "published_iso": "2026-07-13T12:00:00Z",
-      "og_image": null,
-      "excerpt": "From LiDAR to Gaussian splats, Clear Angle Studios has become a key part of the modern VFX pipeline, capturing faces, objects and locations so teams can rebuild the real world digitally — a look at how neural capture is reshaping on-set data acquisition."
-    },
-    {
-      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
-      "title": "Foundry's SmartRoto: AI-assisted roto that aims to work the way you do",
-      "source": "fxguide",
-      "category": "movies",
-      "published_iso": "2026-07-16T16:59:49Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
-      "excerpt": "Foundry released SmartRoto, an AI-powered plugin for Nuke, NukeX, Nuke Studio and Nuke Indie built on a proprietary machine-learning model trained over four years. Artists key significant frames and SmartRoto snaps roto splines into place across a shot — up to 4x faster than manual rotoscoping while keeping spline-based precision and artist control."
-    },
-    {
-      "url": "https://www.awn.com/news/lightcraft-technology-opens-spark-story-beta-siggraph-2026",
-      "title": "Lightcraft Technology Opens Spark Story Beta at SIGGRAPH 2026",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-07-20T12:00:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/web_library_locations-1280.jpg?itok=NDkiU7Xb",
-      "excerpt": "Lightcraft opened a rolling beta of Spark Story, a browser-based interactive previs system that loads Final Draft scripts, parses them for locations and characters, and ties every shot to a scene. It ships with 25+ World Labs 'Marble' environments and 300+ 3D assets, plus Gaussian splats, USD import and real-time 24p iOS live-action compositing so global teams can workshop a virtual film set from day one."
+      "source": "Animation Magazine",
+      "title": "SIGGRAPH: 'Kok Boru' Director Amina Omirjan on the Making of Higgsfield AI's New Short",
+      "url": "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "excerpt": "Higgsfield premiered 'Kok Boru' at SIGGRAPH 2026, a 15-minute historical drama rooted in Central Asian folklore made by a team of 12 in two weeks via a hybrid human-AI pipeline: hand-drawn character designs and painted textures condition the generative AI output shot by shot. NOTE: published time inferred from SIGGRAPH 2026 premiere week + permalink (/2026/07/); site 403s the crawler, body metadata unverified.",
+      "og_image": null
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 6,
+    "dropped": 2,
+    "kept": 3,
     "against_days": 5
   }
 }

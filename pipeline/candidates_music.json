@@ -1,43 +1,34 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "music",
-  "now_iso": "2026-07-24T23:07:43Z",
+  "now_iso": "2026-07-25T23:00:47Z",
   "window_hours": 336,
   "items": [
     {
       "category": "music",
-      "source": "CDM Create Digital Music",
-      "title": "Digital Arabic Maqam Archive and open-source MIDI plug-in now available",
-      "url": "https://cdm.link/digital-arabic-maqam-archive-and-open-source-midi-plug-in/",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "Khyam Allami's long-term research project puts hundreds of Arabic tuning systems, ajnas and maqamat into a free, open archive, paired with a free open-source MIDI plug-in (Tanghim) that lets producers work in microtonal, non-Western tunings directly inside their DAW.",
-      "og_image": "https://cdm.link/app/uploads/2026/07/tanghim-ui-1-1024x799.png"
-    },
-    {
-      "category": "music",
-      "source": "Hypebot",
-      "title": "Talk to Spotify: What AI Chatbots Mean for Music Marketing",
-      "url": "https://www.hypebot.com/talk-to-spotify-what-ai-chatbots-mean-for-music-marketing/",
-      "published_iso": "2026-07-16T12:00:00Z",
-      "excerpt": "Spotify's new 'Talk to Spotify' ChatGPT-style assistant replaces passive algorithmic discovery with interactive, prompt-based listening, shifting how artists and marketers must optimise metadata and off-platform SEO to stay discoverable.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Talk-To-Spotify.png"
+      "source": "MusicRadar",
+      "title": "How Charli XCX's producers ran a jam session through an AI sampling plugin to make 'No One Lasts Forever'",
+      "url": "https://www.musicradar.com/artists/we-were-running-around-the-studio-with-as-many-things-plugged-in-as-possible-just-doing-the-worst-sounds-trying-to-find-the-ugliest-things-how-charli-xcxs-producers-ran-a-jam-session-through-an-ai-sampling-plugin-to-make-no-one-lasts-forever",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "excerpt": "AG Cook and Finn Keane reveal how they ran chaotic studio jams through the AI sampling/audio-mosaicking plugin Concatenator to build the audio-heavy production of 'No One Lasts Forever' from Charli XCX's new album 'Music, Fashion, Film' - a concrete look at generative sampling inside a mainstream pop workflow.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Y7T4rzJF2Cusczjn5oEtA6.jpg"
     },
     {
       "category": "music",
       "source": "Digital Music News",
-      "title": "Lorde Calls Out Spotify's AI 'About the Song' Feature",
-      "url": "https://www.digitalmusicnews.com/2026/07/16/lorde-spotify-about-the-song-feature/",
-      "published_iso": "2026-07-16T12:00:00Z",
-      "excerpt": "Lorde publicly rejected Spotify's AI-generated 'About the Song' descriptions after the feature surfaced inaccurate context on one of her tracks, arguing that reducing a song to an AI-generated meaning at the source limits free interpretation. Spotify removed the text in question.",
+      "title": "BandLab Acquires Fully Licensed AI-Powered Music Studio Aiode",
+      "url": "https://www.digitalmusicnews.com/2026/07/15/bandlab-acquires-aiode/",
+      "published_iso": "2026-07-15T12:00:00Z",
+      "excerpt": "BandLab Technologies has acquired Aiode, an AI-powered music studio built on fully licensed audio-to-audio models developed with professional session musicians and producers, adding it as a third music-making platform alongside BandLab and Cakewalk - bringing consent-based generative tools to a mass creator base.",
       "og_image": null
     },
     {
       "category": "music",
       "source": "Digital Music News",
-      "title": "Inside LANDR's Fair Trade AI Program for Indie Artists",
-      "url": "https://www.digitalmusicnews.com/2026/07/14/landr-fair-trade-ai-program-indie-artists/",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "excerpt": "LANDR's Fair Trade AI program pairs upfront cash advances with ongoing revenue sharing when it licenses curated music datasets to AI developers, allocating 25% of net resulting revenue to participating indie artists whose work trains the models.",
+      "title": "GEMA Launches Fully Cleared 'PLAI' Music Dataset for AI Training",
+      "url": "https://www.digitalmusicnews.com/2026/07/24/gema-plai-launch/",
+      "published_iso": "2026-07-24T12:00:00Z",
+      "excerpt": "Germany's GEMA officially launched PLAI, a fully cleared music dataset and licensing system for AI developers spanning almost 180,000 recordings across 60+ genres - infrastructure aimed at enabling legally clean, consent-based AI music generation tools rather than scraped models.",
       "og_image": null
     }
   ]

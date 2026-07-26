@@ -1,48 +1,50 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "games",
   "user_seeds": [],
-  "freshness_window_days": 14,
-  "note": "Standard rotation run (not broad mode) -> written to keywords_games.json. Working set = ALL 3 core + a rotating 14-keyword slice of the 24-entry games flat `keywords` list (17 seeds total), each expanded into 3-4 sibling phrases (synonyms, named vendors/engines, feature angles, Korean equivalents). Games maps to a single 'games' category in sources.json; a 'social' block is added for the games youtube_channels (no instagram_handles defined for games, so IG is skipped). Deprioritized because covered in the last 2 days of news_data.json: AI NPC / AI voice acting / AI game dialogue (Fortnite Gemini voices + Inworld TTS Playground, 07-24) -> skipped this rotation; vibe coding games (Mario Kart Wii recompile, 07-24) -> skipped; NVIDIA neural rendering / Cosmos 3 world model / DLSS (07-22, 07-23) -> 'neural game engine' kept but steered toward learned-simulation research and away from NVIDIA rendering; generative 3D asset agents (Meshy, 2D-to-3D method, 07-22, 07-23) -> 'generative game assets' flagged covered and de-emphasized; Unreal MetaHuman (OpenRigLogic, 07-24) -> 'Unreal Engine AI' flagged covered, steered to non-MetaHuman tooling. Yesterday (day 24) emphasized modding/UGC, dynamic difficulty, procedural/level design, text-to-game/vibe coding, dialogue systems -> today rotates toward automated QA (playtesting, bug detection), localization, animation, character creation, game-design copilots, and world models (Genie, distinct from the already-covered Cosmos). Final dedup enforced downstream by the curator.",
+  "freshness_days": 14,
+  "note": "ROTATING-SUBSET run (path override: keywords_games.json). Working set = 3 core + a day-26 rotating slice of 14 pool keywords, each with 2-5 sibling expansions (vendors, feature angles, Korean equivalents). Emphasis rotated OFF what the last ~5 days of games cards already covered: 07-25 Damage Control Blender toolkit / indie-devs-avoid-AI / MetaHuman crowds (Unreal, social); 07-24 Fortnite AI NPC voices via Gemini+UEFN, DLSS 5 sliders (NVIDIA neural render), Meshy 3D Agent; 07-23 NVIDIA SIGGRAPH neural rendering + Cosmos 3 world model, AI 2D-to-3D asset method, Studio Atelico on-device gen-AI, Kaneko/Persona artist AI backlash; 07-22 Unity 7 roadmap + AI graphics optimization; 07-21 Houdini 22 native Gaussian splats. Those keywords are deprioritized (AI NPC, AI voice acting games, Unity Muse, NVIDIA ACE, neural game engine, generative game assets/AI game art, Genie/Cosmos world models, Unreal Engine AI). Today leans TOWARD rested design/production-workflow + player-facing systems angles: procedural generation, AI playtesting, AI level design, AI game design tool, AI character creation, AI animation, AI mod/UGC, text-to-game, AI dynamic difficulty, AI localization, AI bug detection, vibe coding games, Inworld AI, AI playable worlds. Games maps to a single 'games' category in sources.json; a best-effort social block covers rested youtube_channels. Final dedup enforced downstream by the curator.",
   "rotation": {
-    "day_of_month": 25,
-    "day_of_year": 206,
+    "day_of_month": 26,
+    "day_of_year": 207,
+    "mode": "rotating subset — core always + day-26 slice of the flat pool, emphasis rotated off the last ~5 days of published cards",
     "pool_size": 24,
-    "mode": "standard (rotating ~14-keyword slice, emphasis rotated by date)",
-    "seeds_taken": 17,
+    "rotating_keywords_taken": 14,
     "emphasis_today": [
-      "AI playtesting & automated QA (bug detection)",
-      "AI localization games",
-      "AI animation & character creation for games",
-      "AI game design copilots / tooling",
-      "world models & playable worlds (Genie, distinct from Cosmos)"
+      "production/design workflow: procedural generation AI, AI level design, AI game design tool, AI character creation, AI animation games",
+      "QA & pipeline: AI playtesting, AI bug detection games, AI localization games",
+      "player-facing systems: AI dynamic difficulty, AI playable worlds, Inworld AI",
+      "creator/indie: AI mod UGC, text-to-game, vibe coding games"
     ],
-    "de_emphasized_today": [
-      "AI NPC / AI voice acting / AI game dialogue (Fortnite Gemini + Inworld TTS, covered 07-24)",
-      "vibe coding games (Mario Kart Wii recompile, covered 07-24)",
-      "NVIDIA neural rendering / Cosmos 3 / DLSS (covered 07-22, 07-23)",
-      "generative 3D asset agents & Unreal MetaHuman (covered 07-22..07-24)"
+    "deprioritized_covered_last_5_days": [
+      "AI NPC + AI voice acting games (Fortnite AI voices via Gemini/UEFN, 07-24)",
+      "NVIDIA ACE / neural game engine (SIGGRAPH neural rendering + DLSS 5 sliders, 07-23/07-24)",
+      "generative game assets / AI game art (Meshy 3D Agent 07-24, AI 2D-to-3D 07-23, Damage Control 07-25)",
+      "Genie world model (Cosmos 3 world model, 07-23)",
+      "Unity Muse (Unity 7 roadmap + AI graphics optimization, 07-22)",
+      "Unreal Engine AI (MetaHuman crowds session, 07-25)"
     ],
-    "social_channels_emphasized": ["Two Minute Papers", "GDC", "Unreal Engine", "Unity"]
+    "social_channels_emphasized": ["Inworld AI", "GDC", "Two Minute Papers"],
+    "social_channels_rested": ["Unreal Engine", "Unity"]
   },
   "working_keywords": [
-    { "keyword": "AI game", "type": "core", "covered_recently": false, "expansions": ["AI game development news 2026", "AI in game development 2026", "AI game industry shift 2026", "generative AI games release"] },
-    { "keyword": "AI 게임", "type": "core", "covered_recently": false, "expansions": ["AI 게임 개발", "생성형 AI 게임", "AI 게임 제작 도구", "AI 게임 뉴스 2026"] },
-    { "keyword": "generative game", "type": "core", "covered_recently": false, "expansions": ["generative game AI tool", "generative gameplay model", "AI game generator", "generative game content 2026"] },
-    { "keyword": "AI playtesting", "type": "pool", "covered_recently": false, "expansions": ["AI automated playtesting", "AI bot playtest agents", "AI game balancing test", "reinforcement learning playtest"] },
-    { "keyword": "AI bug detection games", "type": "pool", "covered_recently": false, "expansions": ["AI game bug detection", "automated game testing AI", "AI crash regression detection game", "AI QA tooling studio"] },
-    { "keyword": "AI localization games", "type": "pool", "covered_recently": false, "expansions": ["AI game translation pipeline", "게임 AI 현지화", "AI subtitle dubbing game", "machine translation game QA"] },
-    { "keyword": "AI animation games", "type": "pool", "covered_recently": false, "expansions": ["AI game animation tool", "AI motion generation game", "generative character animation", "AI mocap cleanup game"] },
-    { "keyword": "AI character creation", "type": "pool", "covered_recently": false, "expansions": ["AI game avatar generator", "AI 3D character tool game", "generative character design game", "AI character customization game"] },
-    { "keyword": "AI game design tool", "type": "pool", "covered_recently": false, "expansions": ["AI game design assistant", "AI copilot game development", "generative game design software", "AI game dev tool launch 2026"] },
-    { "keyword": "procedural generation AI", "type": "pool", "covered_recently": false, "expansions": ["AI procedural world generation", "generative terrain city game", "PCG machine learning game", "AI procedural content pipeline"] },
-    { "keyword": "AI level design", "type": "pool", "covered_recently": false, "expansions": ["AI level generator", "AI map layout design game", "generative level blockout", "AI environment design game"] },
-    { "keyword": "neural game engine", "type": "pool", "covered_recently": true, "expansions": ["learned game simulation model", "real-time neural game generation", "diffusion game engine research", "AI simulated interactive environment"] },
-    { "keyword": "Genie world model", "type": "pool", "covered_recently": false, "expansions": ["Google Genie 3 world model", "DeepMind Genie playable world", "world foundation model game", "AI generated interactive worlds"] },
-    { "keyword": "AI playable worlds", "type": "pool", "covered_recently": false, "expansions": ["generative playable world", "AI world simulation game", "real-time generated world model", "interactive world generation demo"] },
-    { "keyword": "AI mod UGC", "type": "pool", "covered_recently": false, "expansions": ["AI modding tools game", "AI user generated content platform game", "Roblox AI creator tools", "AI mod community policy"] },
-    { "keyword": "generative game assets", "type": "pool", "covered_recently": true, "expansions": ["AI 3D asset pipeline game", "generative texture material game", "AI asset library game studio", "AI props environment kit"] },
-    { "keyword": "Unreal Engine AI", "type": "pool", "covered_recently": true, "expansions": ["Unreal Engine AI tools 2026", "Epic Games AI feature update", "Unreal Engine generative plugin", "Unreal AI editor workflow"] }
+    { "keyword": "AI game", "type": "core", "covered_recently": false, "expansions": ["AI game development news July 2026", "AI in games this month 2026", "AI game studio announcement 2026", "AI 게임 개발 뉴스"] },
+    { "keyword": "AI 게임", "type": "core", "covered_recently": false, "expansions": ["AI 게임 제작 도구", "생성형 AI 게임 개발", "AI 게임 에셋 자동화", "AI 게임 스타트업 2026"] },
+    { "keyword": "generative game", "type": "core", "covered_recently": false, "expansions": ["generative game content model", "generative gameplay AI", "AI generated game demo 2026", "generative game world release"] },
+    { "keyword": "procedural generation AI", "type": "pool", "covered_recently": false, "expansions": ["AI procedural content generation PCG", "machine learning level generation", "AI world building tool games", "절차적 생성 AI 게임"] },
+    { "keyword": "AI playtesting", "type": "pool", "covered_recently": false, "expansions": ["AI QA agent games", "automated playtest bot", "reinforcement learning game testing", "AI balance testing tool"] },
+    { "keyword": "AI level design", "type": "pool", "covered_recently": false, "expansions": ["AI map generation game", "AI level editor assistant", "generative level layout tool", "AI environment design games"] },
+    { "keyword": "AI game design tool", "type": "pool", "covered_recently": false, "expansions": ["AI copilot game engine", "AI assistant game development", "generative design middleware games", "AI game prototyping tool"] },
+    { "keyword": "AI character creation", "type": "pool", "covered_recently": false, "expansions": ["AI character generator game", "AI 3D character rigging", "generative avatar tool games", "AI creature design"] },
+    { "keyword": "AI animation games", "type": "pool", "covered_recently": false, "expansions": ["AI motion generation games", "AI motion matching animation", "text-to-motion character animation", "AI facial animation game"] },
+    { "keyword": "AI mod UGC", "type": "pool", "covered_recently": false, "expansions": ["AI user-generated content games", "AI mod creation tool", "generative UGC platform game", "Roblox AI creation tool"] },
+    { "keyword": "text-to-game", "type": "pool", "covered_recently": false, "expansions": ["prompt to game generator", "AI make a game from text", "text-to-game engine demo 2026", "no-code AI game builder"] },
+    { "keyword": "AI dynamic difficulty", "type": "pool", "covered_recently": false, "expansions": ["AI adaptive difficulty games", "AI player modeling balancing", "personalized game difficulty AI", "AI difficulty adjustment system"] },
+    { "keyword": "AI localization games", "type": "pool", "covered_recently": false, "expansions": ["AI game translation tool", "AI localization pipeline studio", "machine translation game dialogue", "게임 AI 현지화 번역"] },
+    { "keyword": "AI bug detection games", "type": "pool", "covered_recently": false, "expansions": ["AI QA testing games", "AI automated bug finding game", "AI game debugging tool", "AI regression testing games"] },
+    { "keyword": "vibe coding games", "type": "pool", "covered_recently": false, "expansions": ["vibe coding game jam", "AI coding agent game dev", "Cursor Claude Code game project", "indie AI coded game 2026"] },
+    { "keyword": "Inworld AI", "type": "pool", "covered_recently": false, "expansions": ["Inworld AI engine partnership", "Inworld character brain SDK", "AI NPC platform vendor 2026", "Inworld game integration"] },
+    { "keyword": "AI playable worlds", "type": "pool", "covered_recently": false, "expansions": ["interactive world model game", "playable AI generated world", "real-time generative game world", "AI simulated game environment"] }
   ],
   "plan": [
     {
@@ -72,33 +74,32 @@
         "gamingbolt.com",
         "aftermath.site",
         "nme.com",
-        "destructoid.com",
-        "nvidia.com",
-        "deepmind.google"
+        "destructoid.com"
       ],
       "queries": [
-        "AI game development news July 2026",
-        "AI 게임 개발 소식 2026",
-        "generative game AI tool announcement 2026",
-        "AI playtesting automated QA agents game studio 2026",
-        "AI bug detection automated game testing tool 2026",
-        "AI localization game translation pipeline 2026",
-        "게임 AI 현지화 자막 더빙 2026",
-        "AI animation motion generation game tool 2026",
-        "AI character creation 3D avatar game tool 2026",
-        "AI game design copilot assistant tool launch 2026",
-        "procedural generation AI game world tool 2026",
-        "AI level design generator map layout 2026",
-        "neural game engine learned simulation research 2026",
-        "Genie world model playable world DeepMind 2026",
-        "AI playable worlds real-time generated interactive 2026",
-        "AI modding tools user generated content game 2026",
-        "Roblox AI creator tools UGC platform 2026",
-        "generative game assets AI 3D pipeline studio 2026",
-        "Unreal Engine AI tools editor workflow update 2026",
-        "AI 게임 캐릭터 제작 도구 2026",
-        "AI game QA testing automation studio case study 2026",
-        "biggest AI game news this week July 2026"
+        "AI procedural content generation game tool July 2026",
+        "절차적 생성 AI 게임 제작 뉴스 2026",
+        "AI playtesting automated QA agent game studio 2026",
+        "AI level design map generation editor assistant 2026",
+        "AI game design tool copilot engine assistant 2026",
+        "AI character creation generator 3D game 2026",
+        "AI animation motion generation text-to-motion game 2026",
+        "AI mod UGC generative user content Roblox game 2026",
+        "text-to-game prompt AI game generator demo 2026",
+        "AI dynamic difficulty adaptive player modeling game 2026",
+        "AI localization translation game dialogue pipeline 2026",
+        "게임 AI 현지화 번역 자동화 2026",
+        "AI bug detection QA testing game debugging tool 2026",
+        "vibe coding game AI coding agent indie dev 2026",
+        "Inworld AI NPC engine partnership SDK game 2026",
+        "AI playable world interactive world model game 2026",
+        "AI 게임 개발 도구 생성형 AI 뉴스 2026",
+        "generative game content model release July 2026",
+        "site:80.lv AI game asset workflow 2026",
+        "site:gamedeveloper.com AI game development July 2026",
+        "site:gamesindustry.biz AI games studio 2026",
+        "site:venturebeat.com AI game generation 2026",
+        "AI game engine feature launch this month 2026"
       ]
     },
     {
@@ -110,12 +111,11 @@
         "youtube.com",
         "youtu.be"
       ],
-      "rotation_note": "Games youtube_channels = Unreal Engine, Unity, Inworld AI, GDC, Two Minute Papers. Day 25 rotates emphasis to Two Minute Papers (AI research demos), GDC (design talks) and Unreal Engine + Unity (1st-party AI tooling); Inworld AI de-emphasized this run since its TTS Playground was already covered 07-24. No instagram_handles defined for the games category, so IG is skipped.",
+      "rotation_note": "Games youtube_channels = Unreal Engine, Unity, Inworld AI, GDC, Two Minute Papers. Day-26 offset (26 mod 5 = 1) rotates to Inworld AI + GDC + Two Minute Papers, resting Unreal Engine (MetaHuman crowds covered 07-25) and Unity (Unity 7 covered 07-22). No instagram_handles are defined for the games category in sources.json, so IG is skipped per source config. Social is best-effort; never block on it.",
       "queries": [
-        "site:youtube.com \"Two Minute Papers\" AI game world model 2026",
+        "site:youtube.com \"Inworld AI\" NPC game 2026",
         "site:youtube.com GDC AI game design talk 2026",
-        "site:youtube.com \"Unreal Engine\" AI generative workflow 2026",
-        "site:youtube.com Unity AI tools game development 2026"
+        "site:youtube.com \"Two Minute Papers\" AI game world model 2026"
       ]
     }
   ],

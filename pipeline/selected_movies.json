@@ -43,18 +43,19 @@
   "shortfall": false,
   "shortfall_reason": null,
   "dedup_report": {
-    "candidates_evaluated": 6,
-    "kept": 3,
+    "candidates_evaluated": 3,
+    "kept": 0,
     "dropped_as_duplicates": 3,
     "floor": 3,
     "cap": 5,
-    "baseline": "news_data.json -> sections.movies: today 2026-07-24 + days 2026-07-23/22/21/19/18, plus the prior run's dedup memory of the now-rolled-off 2026-07-16 movies cards (vigloo, ted-deepvoodoo, clearangle, topaz-video). Recovery pass added two new fresh candidates (SmartRoto, Spark Story), lifting the fresh survivor count from 1 to 3 and meeting floor 3.",
+    "baseline": "news_data.json -> sections.movies: today 2026-07-25 (smartroto, sparkstory, griptape) + days 2026-07-24/23/22/21/19. The three locked picks above are the already-published today cards and remain the movies brief; this run's candidate pool (candidates_filtered_movies.json, 3 items) added no never-before-seen movies story.",
+    "this_run_candidate_pool": "pipeline/candidates_filtered_movies.json (3 items) — all three dropped as duplicates of already-published movies cards. No fresh survivors, so the locked 3 picks are unchanged (still meets floor 3, 3 distinct outlets, distinct accents).",
     "drops": [
-      "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026 — same Puget Systems SIGGRAPH 2026 'Robo Dojo' activation already published 2026-07-21 as card 'switchlight3' (provideocoalition.com). Same event, different outlet. Earliest-wins.",
-      "https://postperspective.com/vigloo-studio-new-ai-platform-for-short-form-microdramas/ — same Vigloo Studio beta already published 2026-07-16 as card 'vigloo'. Rolled off the visible 5-day window, but earliest-wins is binding.",
-      "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/ — same Clear Angle scanning story already published 2026-07-16 as card 'clearangle'. Rolled-off day; earliest-wins is binding."
+      "https://postperspective.com/foundry-launches-smartroto-ai-plugin-for-nuke/ — same Foundry SmartRoto for Nuke release already published today as card 'smartroto' (fxguide). Different outlet / reworded headline, same launch. Earliest-wins.",
+      "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026 — same Puget Systems SIGGRAPH 2026 'Robo Dojo' activation (Beeble SwitchLight 3 on Corridor Crew's Son of a Dungeon S3, real-time MetaHuman, KeyShot AI Shots) already published 2026-07-21 as card 'switchlight3' (provideocoalition.com). Same event, different outlet. Earliest-wins.",
+      "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/ — same Higgsfield 'Kok Boru' / 'Kök Börü' SIGGRAPH 2026 short + hybrid human-AI pipeline already published 2026-07-24 as card 'kokboru' (awn.com). Different outlet / director-interview angle, same film. Earliest-wins."
     ],
-    "diversity": "3 picks across 3 distinct outlets (fxguide, AWN, postPerspective) — max 1 per outlet, satisfies the FINAL diversity guard. All are the 'movies' category (single-category section), so each pick carries a distinct accent (#0070f3, #f5a623, #7928ca) to keep cards visually distinct.",
-    "notes": "Puget 'Robo Dojo' RedShark and previously-published provideocoalition 'switchlight3' are the same activation (flagged in task) — dropped as already-published. Foundry SmartRoto (fxguide, 07-16) and Lightcraft Spark Story (AWN, 07-20) are the two genuinely-new stories surfaced by the recovery pass; combined with Foundry Griptape Enterprise they form 3 never-before-seen picks. Both Foundry stories are distinct releases (SmartRoto = roto plugin; Griptape = enterprise orchestration tier), not a content-hub duplicate."
+    "diversity": "Locked picks: 3 across 3 distinct outlets (fxguide, AWN, postPerspective) — max 1 per outlet, satisfies the FINAL diversity guard. Single-category 'movies' section, so each pick carries a distinct accent (#0070f3, #f5a623, #7928ca).",
+    "notes": "Task flagged the animationmagazine 'Kok Boru' item as a possible overlap with the published AWN 'Higgsfield debuts K-K-B-R' card — confirmed a true content duplicate (same film/release) and dropped. All 3 handed candidates deduped out; the previously-locked SmartRoto / Spark Story / Griptape trio stands as the movies brief."
   }
 }

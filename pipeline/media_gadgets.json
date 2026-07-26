@@ -1,10 +1,9 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "section": "gadgets",
   "media": [
-    {"id": "gemma-4-pixel-tpu", "type": "image", "src": "pipeline/media/gemma-4-pixel-tpu.jpg"},
-    {"id": "gemini-nano-4-fold8", "type": "image", "src": "pipeline/media/gemini-nano-4-fold8.jpg"},
-    {"id": "samsung-intelligent-eyewear", "type": "image", "src": "pipeline/media/samsung-intelligent-eyewear.jpg"},
-    {"id": "garmin-cirqa-band", "type": "image", "src": "pipeline/media/garmin-cirqa-band.jpg"}
+    {"id": "meta-glasses-299-review", "type": "image", "src": "pipeline/media/meta-glasses-299-review.jpg"},
+    {"id": "z-flip8-cover-screen", "type": "image", "src": "pipeline/media/z-flip8-cover-screen.jpg"},
+    {"id": "ai-camera-earbuds", "type": "image", "src": "pipeline/media/ai-camera-earbuds.jpg"}
   ]
 }

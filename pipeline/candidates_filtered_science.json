@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "section": "science",
-  "now_iso": "2026-07-24T23:19:04Z",
+  "now_iso": "2026-07-25T23:00:47Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
-      "source": "Tech Xplore",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "source": "Science Daily",
       "category": "science",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
-      "excerpt": "National University of Singapore researchers built AI methods that automatically identify a small set of hidden variables capturing a material's collective behavior, letting them predict very large stochastic systems from simulations of much smaller ones. The work (Physical Review Materials and ICML 2026) sharply cuts the compute needed for materials modeling."
+      "published_iso": "2026-07-17T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
+      "excerpt": "ETH Zurich physicists unveiled PLATON, a particle detector that swaps millions of tiny components for a single block of light-producing material, reading particle tracks in fast 3D via a light-field camera, SPAD photon sensors and AI reconstruction. Simulations suggest it could match or beat today's best detectors while being far easier to scale, with spin-off potential for sharper PET medical scans."
     },
     {
-      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
-      "source": "Tech Xplore",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
+      "source": "Science Daily",
       "category": "science",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
-      "excerpt": "Tohoku University unveiled a closed-loop framework that fuses materials databases, machine-learning interatomic potentials, LLMs, AI agents and automated lab workflows so predictions are continuously refined by real experimental feedback. The team says the self-driving-lab approach could shorten clean-energy materials development by years."
+      "published_iso": "2026-07-16T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp",
+      "excerpt": "A new AI tool from Queensland University of Technology screened 2.6 million cancer papers published between 1999 and 2024 and flagged more than 250,000 as suspicious, matching writing and data patterns seen in known fraudulent work. The system points at one of the largest research-integrity problems in modern science, showing AI turned on the literature that produced it."
     },
     {
-      "url": "https://phys.org/news/2026-07-faster-quantum.html",
+      "url": "https://phys.org/news/2026-07-ai-atlantic-circulation-insights-years.html",
       "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-unlocks-atlantic-ci.jpg",
+      "excerpt": "Helmholtz researchers combined machine learning with established physical models to reconstruct Atlantic Ocean circulation from 20 years of Argo profiling-float data, extracting more signal from sparse measurements than physics-only methods. The hybrid approach sharpens understanding of key circulation systems that drive climate."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/ai-and-medical.jpg",
+      "excerpt": "North Carolina State University researchers built an AI model, BINND, that predicts which DNA molecules will bind to each other with 83.5% accuracy after training on 144 million sequence pairs, beating prior methods by at least 10%. Better modeling of these hypercomplex binding relationships could aid biomedical diagnostics and DNA computing."
+    },
+    {
+      "url": "https://www.psychologytoday.com/sg/blog/in-one-lifespan/202607/can-ai-read-the-room",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-07-24T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Psychologist Michael Hogan describes research using AI-driven analytics to code non-verbal behavior such as silence during group work at millisecond precision, finding that identical pauses carry different meanings by context. The takeaway: the hard problem is not teaching AI to notice behavior, but to interpret it in context."
+    },
+    {
+      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
+      "source": "Quanta Magazine",
       "category": "science",
       "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/faster-quantum-compute.jpg",
-      "excerpt": "Google Quantum AI developed a machine-learning approach that continuously re-tunes a quantum computer as it runs, reusing error-detection events to stabilize the system and achieving about 3.5x greater stability than existing methods. It could let quantum calculations run far longer without costly interruptions."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg",
-      "excerpt": "Stanford and SLAC researchers built an agentic AI 'X-ray scientist' that autonomously aligns crystal samples at synchrotron beamlines, reasoning about experimental conditions and issuing instrument commands. Published in Nature Machine Intelligence, it points toward self-running beamline experiments."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-large-language-quietly-reshaping-life.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-13T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-creeping-normality.jpg",
-      "excerpt": "A study led by Ivan Jaric warns that LLMs are becoming normalized in life-sciences research before clear usage boundaries exist, potentially eroding cross-disciplinary collaboration and core scientific skills. It argues routine reliance could reshape the foundations of scientific practice and culture."
-    },
-    {
-      "url": "https://www.genengnews.com/topics/bioprocessing/ai-protein-engineering-model-designed-for-biomanufacturing/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
-      "category": "science",
-      "published_iso": "2026-07-22T00:00:00Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/07/Dutton-Photo-4-small.png",
-      "excerpt": "Triplebar Bio, UC Berkeley and BioMADE are developing an AI cell-engineering model built specifically for the biomanufacturing environment to optimize host-cell performance, reduce development timelines and streamline platform design. It targets a data regime that generic protein models miss."
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp",
+      "excerpt": "Quanta surveys a new class of thermodynamic computers that harness random thermal fluctuations as a computational resource rather than fighting them, aiming to run generative-AI algorithms with orders-of-magnitude less energy. Physicists like Normal Computing's Patrick Coles argue exploiting thermodynamics could reshape the hardware substrate of AI."
     }
   ],
   "dedup": {
