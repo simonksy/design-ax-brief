@@ -110,6 +110,14 @@ Build an ordered candidate list:
 2. **og:image (fallback):** the `og_image` from selected.json.
 3. **SVG (last resort):** the generated accent+motif scene.
 
+**Bot-blocked sources (403/anti-bot walls — e.g. Fast Company, Psychology Today,
+Bloomberg):** if the article page itself returns 403/429 or an anti-bot challenge so
+you can't extract a lead image, do NOT give up on the visual. In order: (a) still try
+the `og_image` URL from selected.json directly — image CDNs usually aren't gated even
+when the HTML is; (b) guess the og:image via the outlet's CDN pattern if evident;
+(c) fall through to the SVG motif scene. A bot wall changes HOW you get the visual,
+never WHETHER the card gets one.
+
 Walk the list and pick the first image that:
 - downloads cleanly (`curl -fsSL -o pipeline/media/<id>.<ext> "<candidate>"`; non-zero
   exit or empty file = skip), AND
@@ -138,4 +146,11 @@ the accent+motif scene — no file needed).
 OUTPUT
 ================================================================
 Write `pipeline/media.json` per the README schema — one entry per card, in card order.
+
+**HARD RULE — no card ships without a visual.** Before writing media.json, check every
+entry: an empty/missing image (and no video) is a STEP FAILURE, not an acceptable
+outcome. If any card ended up visual-less (bot wall, dead CDN, whatever), generate the
+SVG motif scene for it right then — the SVG fallback requires nothing from the source
+site, so there is never a legitimate reason for an empty visual.
+
 Then reply one line: "V videos, K images, M svg fallbacks".
