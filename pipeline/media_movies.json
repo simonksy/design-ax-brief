@@ -1,10 +1,8 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "movies",
   "media": [
-    { "id": "netflix300", "type": "image", "src": "pipeline/media/netflix300.jpg" },
-    { "id": "grokodyssey", "type": "image", "src": "pipeline/media/grokodyssey.jpg" },
-    { "id": "servicemake", "type": "video", "src": "pipeline/media/servicemake.mp4", "poster": "pipeline/media/servicemake.jpg" },
-    { "id": "meshyagent", "type": "video", "src": "pipeline/media/meshyagent.mp4", "poster": "pipeline/media/meshyagent.jpg" }
+    { "id": "martini", "type": "image", "src": "pipeline/media/martini.jpg" },
+    { "id": "aitoolvetting", "type": "image", "src": "pipeline/media/aitoolvetting.jpg" }
   ]
 }

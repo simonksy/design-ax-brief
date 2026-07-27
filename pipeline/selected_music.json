@@ -1,77 +1,51 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "music",
-  "selection_mode": "auto",
+  "selection_mode": "directed",
   "picks": [
     {
-      "title": "Ocean Swift Intros Dev Ocean Modular Synthesis & Sound Design Environment",
-      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
-      "source": "Synthtopia",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "og_image": null,
-      "excerpt": "Ocean Swift released DevOcean Modular, a 145-module software modular synthesis and sound-design environment. Its standout feature is MaYa, a built-in modular AI agent that patches alongside the user, suggesting and wiring modules during the creative process. It is an early example of a generative AI 'co-patcher' embedded directly inside a modular synth workflow rather than a text-to-song generator. Available now for EUR 129.99 (35% off EUR 199 MSRP until September 1, 2026).",
+      "rank": 1,
+      "headline": "BandLab Technologies buys Aiode, an AI music studio built on 'fully-licensed' audio",
       "tool": "Music",
+      "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "A generative AI 'co-patcher' living inside a modular synth — a creation-tool shift that changes how sound designers build patches, not just another text-to-song generator; no prior music card covers it."
+      "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-07-15T12:00:00Z",
+      "og_image": null,
+      "excerpt": "BandLab Technologies acquired Aiode, an AI-powered music studio that lets creators build tracks using audio-to-audio models developed with professional session musicians. Its distinguishing pitch is that 100% of the training audio is licensed and traceable. Creators can generate performances section by section, spin up alternate takes and export projects as stems or full mixes - positioning it as a 'responsible' route for making music with AI.",
+      "rationale": "A licensed-by-design AI music studio joining BandLab is a concrete signal of where 'responsible' generative music tooling is heading for creators. NOTE: content-overlaps the already-published card 'bandlab-aiode' (07-26, digitalmusicnews); kept only because the orchestrator directed floor-3 on this exhausted beat."
     },
     {
-      "title": "90,000 AI tracks flood Deezer daily - passing 50% of all new music uploads for the first time",
-      "url": "https://www.musicbusinessworldwide.com/90000-ai-tracks-flood-deezer-daily-passing-half-of-new-music-uploads-for-the-first-time/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-      "excerpt": "Deezer revealed that fully AI-generated music topped 50% of daily uploads for the first time in June 2026, with roughly 90,000 AI tracks arriving each day - up from 75,000 in April. The platform says up to 85% of streams from such tracks were fraudulent, and it is removing AI content used for stream manipulation as well as tracks with no plays in six months. A concrete data point on how generative AI is reshaping what lands on streaming and how listeners encounter it.",
+      "rank": 2,
+      "headline": "Spotify expands its AI push with a ChatGPT-like music assistant",
       "tool": "Music",
+      "category": "music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "First-ever 50% milestone with hard June numbers (90k/day, 85% fraudulent streams) — the environment every releasing artist now competes in; a distinct full report only glancingly referenced in the earlier AI-earnings card."
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "source": "TechCrunch",
+      "published_iso": "2026-07-14T12:00:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?w=1024",
+      "rationale": "A conversational, voice-or-text music assistant pushes AI discovery past the AI DJ and changes how listeners steer a catalog. NOTE: content-overlaps the already-published card 'talk-to-spotify' (07-25, hypebot); kept only under the directed floor-3."
     },
     {
-      "title": "Fender Studio Pro 8.1 review: AI stem separation, generation and a Studio Assistant land in Fender's DAW",
-      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
-      "source": "MusicTech",
-      "published_iso": "2026-07-15T08:00:51Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg",
-      "excerpt": "MusicTech reviews Fender's free Studio Pro 8.1 DAW, which now leans heavily on AI: a Moises-powered engine handles both stem separation and stem generation, alongside voice replacement and AI vocal pitch-correction. A new beta 'Studio Assistant' chatbot (Pro+ tier) answers production questions inside the app. It marks a mainstream, no-cost DAW folding Moises-grade AI directly into the mixing/mastering workflow rather than as an add-on.",
+      "rank": 3,
+      "headline": "Lorde slams Spotify's 'About the Song' feature over inaccurate AI-generated descriptions",
       "tool": "Music",
+      "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "A free, mainstream DAW folding Moises-grade AI (stem separation + generation, voice replacement, a Studio Assistant chatbot) straight into the production workflow — changes what a bedroom producer can do tomorrow at zero cost; net-new creation-side item."
-    },
-    {
-      "title": "iZotope VEA - one-knob AI vocal enhancement built from RX and Nectar tech - is free until July 31",
-      "url": "https://bedroomproducersblog.com/2026/07/26/izotope-japan-vea-free/",
-      "source": "Bedroom Producers Blog",
-      "published_iso": "2026-07-26T17:50:58Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/vea-728x364.jpg",
-      "excerpt": "iZotope is giving away VEA (normally $29), a stripped-down vocal-enhancement plugin that repackages the AI-assisted processing from its RX, Ozone and Nectar suites into three controls - Clean, Shape and Boost - for de-noising, tone-shaping and presence. Aimed at podcasters, streamers and producers who want RX-grade cleanup without the deep interface, it lowers the barrier to iZotope's machine-learning audio tools. The free window runs through July 31, 2026, tied to Boris FX's acquisition of iZotope.",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "RX/Nectar-grade AI vocal cleanup distilled into three knobs and free through July 31 — an accessibility shift that puts machine-learning audio repair in reach of any creator; net-new and time-sensitive."
+      "url": "https://www.musicradar.com/artists/hey-spotify-im-going-to-go-out-on-a-limb-and-say-we-dont-want-this-not-only-is-this-inaccurate-but-reducing-a-song-to-an-ai-generated-meaning-right-at-the-source-feels-like-it-limits-free-interpretation-lorde-slams-spotifys-about-the-song-feature",
+      "source": "MusicRadar",
+      "published_iso": "2026-07-17T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/U6vopy9RoswUBrqr8Nk8Ji.jpg",
+      "rationale": "An artist backlash over AI-generated song descriptions crystallizes the fight over AI mediating a song's meaning at the source. NOTE: content-overlaps the already-published card 'lorde-about-the-song' (07-25, digitalmusicnews); kept only under the directed floor-3."
     }
   ],
-  "shortfall": false,
-  "dedup_notes": {
-    "checked_against": "news_data.json sections.music — today (2026-07-26) + days 2026-07-21..2026-07-25",
-    "dropped_as_duplicates": [
-      {
-        "candidate": "TechCrunch — Spotify expands its AI push with a ChatGPT-like music assistant",
-        "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-        "reason": "Same event as published card 'talk-to-spotify' (2026-07-25): Spotify's conversational AI assistant beta for Premium users in the US, Ireland and Sweden, 18+. Same launch, different outlet."
-      },
-      {
-        "candidate": "Music Business Worldwide — BandLab Technologies buys Aiode, an AI music studio built on 'fully-licensed' audio",
-        "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
-        "reason": "Same event as published card 'bandlab-aiode' in TODAY (2026-07-26; Digital Music News): BandLab Technologies acquiring the licensed audio-to-audio AI studio Aiode. Same acquisition, different outlet."
-      },
-      {
-        "candidate": "MusicRadar — Lorde slams Spotify's 'About the Song' feature over inaccurate AI-generated descriptions",
-        "url": "https://www.musicradar.com/artists/hey-spotify-im-going-to-go-out-on-a-limb-and-say-we-dont-want-this-not-only-is-this-inaccurate-but-reducing-a-song-to-an-ai-generated-meaning-right-at-the-source-feels-like-it-limits-free-interpretation-lorde-slams-spotifys-about-the-song-feature",
-        "reason": "Same event as published card 'lorde-about-the-song' (2026-07-25; Digital Music News): Lorde criticizing Spotify's AI 'About the Song' feature; Spotify removed the text. Same flashpoint, different outlet."
-      }
-    ],
-    "note": "Recovery re-curation: 2 net-new creation-side items (Fender Studio Pro 8.1 / MusicTech; iZotope VEA / Bedroom Producers Blog) added to the earlier survivors (Dev Ocean / Synthtopia; Deezer AI-flood / MBW) for a final 4 distinct, never-before-published stories. Diversity guard: 4 distinct outlets (Synthtopia, Music Business Worldwide, MusicTech, Bedroom Producers Blog), no outlet over the max-2 cap. All share the music category, so distinct accents assigned (#ff2d55, #0070f3, #f5a623, #7928ca). Sub-topics spread across two creation-side tools (modular AI co-patcher; AI DAW + AI vocal plugin) and one consumption/streaming-side data shift (Deezer AI-upload milestone)."
+  "dedup_flag": {
+    "against": "sections.music (today 07-27 + days 07-22..07-26)",
+    "finding": "All 3 filtered candidates are content-duplicates of stories already published this week via different outlets: rank1=bandlab-aiode (07-26), rank2=talk-to-spotify (07-25), rank3=lorde-about-the-song (07-25). Per ax-curator's hard dedup rule these would normally be dropped (beat exhausted this cycle, per librarian note). They are published here only because the FINISH directive explicitly required picking all 3 to hold floor 3. Fresh outlets, fresh Korean copy, and distinct media are used so cards are not byte-identical repeats."
   }
 }

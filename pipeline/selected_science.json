@@ -1,83 +1,63 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "science",
   "selection_mode": "auto",
-  "target": 5,
-  "floor": 3,
-  "selected_count": 5,
-  "shortfall": 0,
   "picks": [
     {
+      "rank": 1,
+      "headline": "AI-designed gene-editing enzymes expand the CRISPR toolbox",
       "tool": "Science",
-      "headline": "Starting protein evolution from AI-designed scaffolds beats nature",
-      "url": "https://phys.org/news/2026-07-combining-ai-protein-laboratory-evolution.html",
-      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-24T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/combining-ai-with-labo.jpg",
-      "excerpt": "Broad Institute researchers found that starting laboratory protein evolution from AI-designed, more stable proteins beats starting from natural ones: an AI-designed scaffold gave a protease more room to acquire new mutations. They reprogrammed botulinum-neurotoxin proteases to target ataxin-2, achieving a 79-fold improvement over naturally derived versions. The result suggests generative protein design and directed evolution are complementary rather than competing tools for engineering therapeutic enzymes.",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Protein/bio pick: a concrete, actionable AI-x-bio method — AI-designed scaffolds as a better launchpad for directed evolution, with a hard 79x result. Distinct study and URL from prior Baker/protein-design and biomanufacturing cards."
+      "url": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html",
+      "source": "Phys.org",
+      "published_iso": "2026-07-17T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-designs-rna-g.jpg",
+      "excerpt": "Scientists used the ESM Inverse Folding (ESM-IF1) AI protein-design model to generate synthetic TnpB gene-editing enzymes, dubbed SynTnpBs, starting from the known TnpB structure. In a study published in Science, several AI-designed variants outperformed the natural reference enzyme, reaching roughly 46-50% editing efficiency in human cells versus 28% for the original, expanding the compact genome-editing toolbox beyond CRISPR-Cas.",
+      "rationale": "AI-designed SynTnpB enzymes beating the natural reference (46-50% vs 28% editing efficiency), published in Science, is a concrete, high-credibility advance in AI-driven genome editing not in the science history."
     },
     {
+      "rank": 2,
+      "headline": "AI tool predicts how DNA sequences switch on genes across different cell types",
       "tool": "Science",
-      "headline": "AI weather emulators forecast subseasonal climate at 350x lower compute",
-      "url": "https://phys.org/news/2026-07-subseasonal-ai.html",
-      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chasing-subseasonal-fo.jpg",
-      "excerpt": "NSF NCAR researchers are building AI weather-climate emulators such as CAMulator that reproduce complex atmospheric models at roughly 350x lower compute cost, enabling rapid subseasonal (2-8 week) forecasts. Once trained, the emulators generate long simulations in a fraction of the time supercomputer physics models require. The work targets the notoriously hard 2-8 week forecast gap between weather and seasonal climate prediction.",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Climate/weather pick: a 350x compute cut that reopens the hard 2-8 week subseasonal forecast gap; credible NCAR source and distinct from the ocean-circulation cards (07-26 AMOC, 07-22 GOFLOW)."
+      "url": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
+      "source": "Phys.org",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-based-tool-allo.jpg",
+      "excerpt": "Martin Vingron's bioinformatics group at the Max Planck Institute for Molecular Genetics built Corgi (Context-aware Regulatory Genomics Inference), an AI tool that predicts how the genome behaves — which genes switch on and off — across different cell types. The work could sharpen efforts to model cell activity virtually, with applications in basic research and medicine.",
+      "rationale": "Corgi predicts cell-type-specific gene activity, a step toward virtual-cell modeling; distinct from the 07-26 DNA-binding card and directly useful to computational biologists."
     },
     {
+      "rank": 3,
+      "headline": "The emerging field of cognitive brain-computer interfaces",
       "tool": "Science",
-      "headline": "Princeton's PPPL builds an AI to autonomously run fusion-heating gyrotrons",
-      "url": "https://www.eurekalert.org/news-releases/1137137",
-      "source": "EurekAlert!",
       "category": "science",
-      "published_iso": "2026-07-22T00:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d6a27945-de14-4d41-a94c-c9d5d733665e/Rendition/low-res/Content/Public",
-      "excerpt": "Princeton Plasma Physics Laboratory will lead a Genesis Mission project to build an AI system that autonomously operates the gyrotrons used to heat fusion plasmas, alongside virtual simulations of the hardware. The effort is part of a US national initiative to harness AI for fusion-energy scientific discovery. Autonomous control of heating hardware is a step toward AI-managed operation of future fusion reactors.",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Fusion/physics-energy pick: AI as an autonomous operator of real fusion-heating hardware, a concrete AI-for-science control problem from a top-tier lab. Adds outlet diversity beyond phys.org."
+      "url": "https://www.eurekalert.org/news-releases/1136848",
+      "source": "EurekAlert! (Mount Sinai)",
+      "published_iso": "2026-07-17T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A review in Trends in Cognitive Sciences (Mount Sinai) outlines a roadmap for the next generation of brain-computer interfaces aimed at cognitive disorders — depression, anxiety, PTSD, OCD — rather than motor function. Unlike today's movement- and speech-decoding BCIs, cognitive BCIs would rely on AI algorithms that decode dysfunctional brain states in real time and drive adaptive, closed-loop neurostimulation.",
+      "rationale": "A roadmap for AI-driven cognitive BCIs targeting depression, anxiety, PTSD and OCD via closed-loop neurostimulation — a fresh neuro/cognitive-science angle absent from the history."
     },
     {
+      "rank": 4,
+      "headline": "Scientists built a camera that can track invisible particles in 3D",
       "tool": "Science",
-      "headline": "Closed-loop AI 'self-driving lab' could cut clean-energy materials search by years",
-      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
-      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
-      "excerpt": "Tohoku University researchers built an AI-driven framework that fuses materials databases, machine-learning interatomic potentials, large language models, intelligent AI agents and automated experiments into a continuous feedback loop they call the '4th+ paradigm.' Experimental results feed back to refine AI predictions iteratively, dramatically cutting the time needed to discover advanced energy materials. The self-driving-lab approach targets longstanding trial-and-error bottlenecks in materials science.",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Materials-science pick: a full closed-loop 'self-driving lab' that wires LLMs, agents and automated experiments into one feedback loop — a distinct method story from prior screening-only materials cards (oled-ai, hiddenvars), and keeps outlets spread to a fourth source."
-    },
-    {
-      "tool": "Science",
-      "headline": "AI's black-box problem: physics discoveries no one fully understands",
-      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
-      "source": "Physics World",
-      "category": "science",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
-      "excerpt": "AI systems are accelerating physics discovery by finding hidden patterns in massive datasets, from particle detection at CERN to materials innovation at Argonne, yet the opacity of these models means researchers often get accurate results without understanding how the AI reached them. The article asks whether science is entering an era of 'discoveries without comprehension' and what that means for reproducibility and researcher training. It weighs the changing relationship between human physicists and increasingly autonomous AI systems.",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "Meta/physics pick: a high-credibility Physics World synthesis on AI opacity in scientific discovery — directly relevant to how researchers should trust and train around AI. Fifth distinct outlet, distinct reflective angle rather than a single new result."
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "source": "ScienceDaily (ETH Zurich)",
+      "published_iso": "2026-07-17T00:00:00Z",
+      "og_image": "",
+      "excerpt": "An ETH Zurich / EPFL team built PLATON, a particle detector that pairs a light-field (plenoptic) camera and single-photon avalanche-diode sensors with a Transformer-based neural network adapted from large language models to reconstruct particle paths in fast, detailed 3D from a single block of scintillator. Simulations suggest it could match or surpass today's best detectors while replacing millions of components, with potential spillover to sharper PET medical scans.",
+      "rationale": "PLATON pairs a light-field camera with a Transformer network borrowed from LLMs to reconstruct 3D particle tracks from one scintillator block — an AI-central particle-physics advance with PET-scan spillover, distinct from prior physics cards."
     }
-  ],
-  "dedup_notes": {
-    "checked_against": "sections.science in news_data.json — today (2026-07-26: argomoc, binndna, thermoflux, readroom) + days 2026-07-25 (hiddenvars, xrayagent, cellforge, creepnorm), 2026-07-24 (cyclecover, scoresmooth, peptiverse, medmia, curiobot), 2026-07-23 (oled-ai, deeptimegate, qewc), 2026-07-22 (flatband, baker, openadmet, goflow), 2026-07-21 (willow-rl).",
-    "dropped_duplicates": "None dropped as dupes. All 5 picks are URL-distinct and content-distinct from every published science card in the window. Closest adjacencies checked and cleared: combining-ai-protein-laboratory-evolution (Broad directed-evolution) vs baker/cellforge/peptiverse (different labs, methods, targets); subseasonal-ai (atmospheric emulator) vs argomoc/goflow (ocean circulation/currents); loop-ai-framework (closed-loop self-driving lab) vs oled-ai/hiddenvars (screening/prediction only).",
-    "not_selected": "From the 8-item pool, two phys.org items were left out to honor the max-2-per-outlet guard: uncovering-multidimensional-effects-generative-ai (learning-illusion) would have been a 3rd phys.org card, and eurekalert AI-BIOME would have been a 2nd materials + 2nd eurekalert. UC Davis perovskite (techxplore) dropped as a 2nd materials/2nd techxplore.",
-    "shortfall_reason": "None — 5 distinct fresh stories selected.",
-    "diversity": "Five picks span five research angles (protein/bio, climate/weather, fusion/physics-energy, materials science, AI-in-physics meta). Outlet mix is Phys.org x2 + EurekAlert! x1 + Tech Xplore x1 + Physics World x1 = 4 distinct outlets, satisfying max-2-per-outlet and >=3-outlet guards. Single science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f). No two picks share a URL."
-  }
+  ]
 }

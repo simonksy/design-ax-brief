@@ -1,88 +1,79 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "music",
   "cards": [
     {
-      "id": "devocean",
+      "id": "aiode-licensed-studio",
       "eyebrow": "AI NEWS",
-      "headline": "곁에서 함께 패치하는 AI,\n모듈러 신스 안으로 들어오다",
-      "body": "145개 모듈을 갖춘 모듈러 신스에 함께 패치를 짜주는 AI 에이전트 MaYa가 들어갔다.",
-      "mini_headline": "패치 짜는 AI 신스",
       "tool": "Music",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
+      "headline": "밴드랩, 전량 라이선스 오디오로\n학습한 AI 스튜디오 인수",
+      "body": "밴드랩이 세션 뮤지션과 함께 만든 오디오만 학습한 AI 스튜디오 아이오드를 사들였다.",
+      "mini_headline": "밴드랩, 아이오드 인수",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "image": null,
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {"t": "p", "x": "Ocean Swift가 145개 모듈을 담은 소프트웨어 모듈러 신스이자 사운드 디자인 환경 DevOcean Modular를 내놨다. 눈에 띄는 건 안에 들어앉은 모듈러 AI 에이전트 MaYa다. 사용자와 나란히 패치를 짜면서 어떤 모듈을 쓸지 제안하고 직접 연결까지 거들어 준다."},
-          {"t": "p", "x": "글로 노래를 뽑아내는 생성기와는 결이 다르다. 모듈러 신스 작업 흐름 한복판에 '함께 패치하는' 생성형 AI를 심은 이른 사례로, 사운드를 만드는 방식 자체를 건드린다."},
-          {"t": "p", "x": "가격은 129.99유로다. 정가 199유로에서 35% 낮춘 값으로, 할인은 2026년 9월 1일까지 이어진다."}
+          { "t": "p", "x": "밴드랩 테크놀로지스가 AI 음악 스튜디오 아이오드를 7월 15일 인수했다고 밝혔다. 싱가포르에 자리한 이 회사는 모바일의 밴드랩, 데스크톱의 케이크워크에 이어 AI에 특화한 세 번째 창작 도구를 갖췄다." },
+          { "t": "p", "x": "아이오드는 전문 세션 뮤지션과 프로듀서가 함께 개발한 오디오 투 오디오 모델로 트랙을 만든다. 학습에 쓴 오디오가 전부 라이선스를 받았고 출처까지 추적된다는 점을 내세운다." },
+          { "t": "p", "x": "작업은 빈 프로젝트나 가져온 오디오에서 출발한다. 뮤지션이나 스타일 기반 모델을 골라 구간별로 방향을 지시하고, 나머지는 그대로 둔 채 특정 파트만 다른 테이크로 다시 뽑을 수도 있다. 완성한 곡은 스템이나 완성 믹스로 내려받는다." },
+          { "t": "p", "x": "공동창업자 겸 CEO 이단 도브레키는 \"아이오드는 밴드랩 테크놀로지스의 혁신 정신을 공유한다\"며 창작자의 예술성을 존중하는 기술을 강조했다. 공동창업자 겸 COO 블루 도브레키는 \"손쉬운 창작과 전문 제작을 모두 이해하는 곳에 합류하는 건 드문 인연\"이라고 했다." },
+          { "t": "p", "x": "밴드랩 테크놀로지스는 비트와 멜로디, 코드 진행을 만들어 주는 생성 도구 송스타터를 비롯해 여러 AI 사업을 벌여 왔다. 2025년 7월에는 아티스트와 레이블, 퍼블리셔가 곡을 'AI 라이선싱 허용'으로 표시하도록 서비스를 넓혔고, 2023년 10월에는 유니버설 뮤직 그룹과 AI 개발 파트너십을 맺었다." },
+          { "t": "p", "x": "라이선스를 받은 학습 데이터를 앞세운 전략은 업계의 오랜 갈등을 겨눈다. 메이저 레이블들은 2024년 수노와 유디오가 저작권 있는 음원을 허락 없이 학습했다며 소송을 냈다. 이후 워너 뮤직 그룹이 두 곳과, 유니버설 뮤직 그룹이 2025년 말 유디오와 라이선스 합의에 이르렀다." },
+          { "t": "p", "x": "인수 금액은 공개되지 않았다. 케이크워크(2018년), 리버브네이션(2021년), 에어비트(2023년)로 이어진 인수 흐름의 연장선이다. 아이오드는 기존 사용자를 위해 독립 제품으로 계속 운영되고, 두 창업자도 CEO와 COO 자리를 지킨다." }
         ]
       }
     },
     {
-      "id": "deezer-ai-flood",
+      "id": "spotify-music-assistant",
       "eyebrow": "AI NEWS",
-      "headline": "AI 음원, 처음으로 디저\n신규 업로드의 절반을 넘겼다",
-      "body": "2026년 6월 디저에는 하루 9만 곡꼴로 AI 음원이 올라와 신규 업로드의 절반을 처음 넘겼다.",
-      "mini_headline": "AI 음원 절반 돌파",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/90000-ai-tracks-flood-deezer-daily-passing-half-of-new-music-uploads-for-the-first-time/",
+      "headline": "스포티파이, 대화로 음악 고르는\nAI 어시스턴트 공개",
+      "body": "스포티파이가 프리미엄 사용자를 위해 대화로 음악을 골라 주는 AI 어시스턴트를 베타로 내놨다.",
+      "mini_headline": "스포티파이 음악 AI",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
       "accent": "#0070f3",
       "motif": "sphere",
-      "image": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {"t": "p", "x": "2026년 6월, 디저에 올라오는 하루 신규 업로드에서 온전히 AI가 만든 음원이 처음으로 절반을 넘겼다. 하루 약 9만 곡꼴이다. 4월의 7만 5천 곡에서 다시 크게 늘었다."},
-          {"t": "p", "x": "디저는 이런 음원에서 나온 스트리밍 가운데 최대 85%가 조작된 것이라고 밝혔다. 스트림 수를 부풀리는 데 쓰인 AI 음원과 6개월 동안 재생이 한 건도 없는 곡을 걸러내고 있다."},
-          {"t": "p", "x": "생성형 AI가 스트리밍에 올라오는 것과 청취자가 음악을 만나는 방식을 어떻게 바꿔 놓는지 보여 주는 구체적인 수치다."}
+          { "t": "p", "x": "스포티파이가 AI를 청취 경험에 한 걸음 더 들이며, 화요일 프리미엄 사용자가 앱과 대화하며 무엇을 들을지 고를 수 있다고 알렸다." },
+          { "t": "img", "src": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png" },
+          { "t": "p", "x": "처음에는 미국과 아일랜드, 스웨덴에서 iOS와 안드로이드로, 18세 이상 영어 사용자에게 열린다. 베타라서 늘 완벽하게 돌아가지는 않지만 사용자 피드백으로 다듬겠다고 회사는 설명했다." },
+          { "t": "p", "x": "스포티파이는 어떤 AI 기술을 썼는지 자세히 밝히지 않았지만, 자체 AI와 여러 업체의 모델을 작업에 맞게 섞어 쓴다고 테크크런치에 확인해 줬다." },
+          { "t": "p", "x": "이 기능은 방대한 음악과 팟캐스트, 오디오북을 다루도록 스포티파이가 AI를 활용해 온 흐름의 최신 사례다. 직접 말을 거는 AI DJ, 프롬프트로 플레이리스트를 짜는 도구, 챗GPT 같은 외부 챗봇과 연결하는 기능도 이미 있다." },
+          { "t": "p", "x": "새 기능은 AI DJ를 넘어 홈과 재생 화면에서도 스포티파이와 대화하도록 넓힌다. 타이핑하거나 말로 주고받으며 다음 곡을 고르고, 자신의 청취 기록을 묻거나 좋아하는 음악을 더 깊이 파고들 수도 있다." },
+          { "t": "p", "x": "이를테면 어떤 곡이 어떤 영감에서 나왔는지, 앨범 발매일은 언제인지 물을 수 있고, 지금 듣는 곡을 바탕으로 다른 아티스트를 추천받는다. 특정 트랙을 처음 재생한 때나 요즘 자주 듣는 장르도 되짚어 본다." },
+          { "t": "p", "x": "스포티파이는 활용법도 몇 가지 제안한다. \"처음 듣는 아티스트를 틀어 줘\"라고 한 뒤 특정 아티스트를 이름으로 더하거나 최신 곡으로 좁히는 식으로 이어 가고, \"더 신나게\" 같은 주문으로 방향을 바꾼다. 곡 저장이나 대기열 추가, 아티스트 팔로우도 이 기능으로 된다. 지금 해당 지역의 모바일에서 순차 배포되고 있다." }
         ]
       }
     },
     {
-      "id": "fender-studio-pro",
+      "id": "lorde-song-meaning",
       "eyebrow": "AI NEWS",
-      "headline": "무료 DAW 펜더 스튜디오에\nAI 편집 도구가 들어왔다",
-      "body": "펜더의 무료 DAW 스튜디오 프로 8.1이 Moises 기반 스템 분리·생성과 AI 보컬 보정을 품었다.",
-      "mini_headline": "AI 품은 무료 DAW",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
+      "headline": "로드, 곡 의미를 AI가 정하는\n스포티파이 기능에 반발",
+      "body": "로드가 곡을 AI 해설로 규정하는 스포티파이 '어바웃 더 송' 기능이 부정확하고 해석을 제한한다며 비판했다.",
+      "mini_headline": "로드의 AI 해설 비판",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/artists/hey-spotify-im-going-to-go-out-on-a-limb-and-say-we-dont-want-this-not-only-is-this-inaccurate-but-reducing-a-song-to-an-ai-generated-meaning-right-at-the-source-feels-like-it-limits-free-interpretation-lorde-slams-spotifys-about-the-song-feature",
       "accent": "#f5a623",
       "motif": "sphere",
-      "image": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {"t": "p", "x": "MusicTech가 펜더의 무료 DAW 스튜디오 프로 8.1을 살펴봤다. 이번 버전은 AI에 부쩍 기댄다. Moises 엔진이 스템 분리와 스템 생성을 함께 처리하고, 보컬 교체와 AI 음정 보정도 함께 붙었다."},
-          {"t": "p", "x": "새로 들어온 베타 기능 '스튜디오 어시스턴트'는 앱 안에서 프로덕션 관련 질문에 답하는 챗봇이다. Pro+ 등급에서 쓸 수 있다."},
-          {"t": "p", "x": "Moises급 AI를 별도 확장이 아니라 믹싱·마스터링 흐름 안에 그대로 녹인 무료 DAW라는 점이 눈에 띈다. 방 안에서 음악 만드는 사람이 당장 내일 할 수 있는 일이 달라진다."}
-        ]
-      }
-    },
-    {
-      "id": "izotope-vea",
-      "eyebrow": "AI NEWS",
-      "headline": "노브 세 개로 끝내는\nAI 보컬 보정, 지금은 공짜",
-      "body": "iZotope가 RX·Nectar의 AI 처리를 노브 세 개로 줄인 보컬 플러그인 VEA를 7월 31일까지 무료로 푼다.",
-      "mini_headline": "무료 AI 보컬 보정",
-      "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/07/26/izotope-japan-vea-free/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/vea-728x364.jpg",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {"t": "p", "x": "iZotope가 원래 29달러짜리 보컬 보정 플러그인 VEA를 무료로 푼다. RX와 Ozone, Nectar에 들어간 AI 처리를 노브 세 개로 압축한 물건이다. Clean으로 잡음을 걷어내고, Shape로 톤을 다듬고, Boost로 존재감을 살린다."},
-          {"t": "p", "x": "복잡한 인터페이스 없이 RX급 정리를 원하는 팟캐스터와 스트리머, 프로듀서를 겨냥했다. 머신러닝 기반 오디오 도구로 들어가는 문턱을 낮춘 셈이다."},
-          {"t": "p", "x": "무료 기간은 2026년 7월 31일까지다. Boris FX의 iZotope 인수와 맞물려 열린 창구다."}
+          { "t": "p", "x": "로드가 스포티파이의 새 기능 '어바웃 더 송'을 정면으로 겨눴다. 지금 재생 중인 곡의 정보를 제3자 출처에서 긁어와 보여 주는 기능이다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/U6vopy9RoswUBrqr8Nk8Ji.jpg" },
+          { "t": "p", "x": "지난해 발표돼 지금은 베타로 쓸 수 있지만, 로드는 정확성과 발상 자체를 모두 문제 삼았다." },
+          { "t": "p", "x": "그는 2025년 앨범 '울트라사운드'에 실린 곡 '커런트 어페어스'의 해설을 예로 들었다. 해설은 \"울트라사운드 월드투어에서 로드는 커런트 어페어스를 하나의 퍼포먼스로 바꿔, 속옷 차림으로 무대에 서고 댄서가 배 위로 물을 부어 무대에서 말하던 샤워 장면처럼 곡이 흘러가게 한다\"고 적었다." },
+          { "t": "p", "x": "이 내용은 브리즈번에서 열린 울트라사운드 투어 공연 리뷰에서 따온 것으로, 오스트레일리아 웹사이트 더 뮤직에 실렸지만 사실과 다르다고 한다." },
+          { "t": "p", "x": "\"이봐요 스포티파이, 나는 위험을 무릅쓰고 우리가 이걸 원하지 않는다고 말하겠어요\"라고 로드는 적었다. \"부정확할 뿐 아니라(내가 그렇게 한 곡은 그 곡이 아니에요), 곡을 AI가 만든 의미로 축소하는 건 곡의 근원에서부터 자유로운 해석을 가둔다고 봐요. 적어도 아티스트가 빠질 수 있게는 해 주세요.\"" },
+          { "t": "video", "yt": "8la0W5wYMkY" },
+          { "t": "p", "x": "스포티파이는 문제의 문구를 삭제했다고 할리우드 리포터에 확인했지만, 다른 출처에서 온 어바웃 더 송 정보는 그대로 남아 있다. 스포티파이 대변인은 \"어바웃 더 송은 제3자 출처의 인용 정보를 보여 주는 베타 기능이며, 아티스트와 팬의 피드백을 바탕으로 계속 개선하고 있다\"고 했다." },
+          { "t": "p", "x": "어바웃 더 송은 스포티파이가 트랙에 참여한 모든 기여자로 크레딧을 넓힌다고 밝힌 시점에 함께 공개됐다. 협업자와 샘플, 커버를 한자리에서 잇는 새 인터랙티브 화면 송DNA도 순차 공개되고 있다." }
         ]
       }
     }

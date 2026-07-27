@@ -1,70 +1,57 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.figma.com/release-notes/",
-      "title": "Figma July release notes: auto layout now aligns with CSS to cut design-to-code handoff friction",
-      "source": "Figma",
-      "published_iso": "2026-07-24T00:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's July 24 release-notes entry, 'Design closer to CSS with the updated auto layout option,' reworks auto layout so its behavior matches how CSS handles layout, reducing the developer workarounds needed at handoff. It lands in a July run that also bound code-backed screens to existing file variables (July 16) and shipped GPT-5.6 inside Figma Make (July 9) — incremental but real changes tightening the design-to-code loop that AI-assisted workflows now depend on.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "First-party Figma change that alters handoff tomorrow: CSS-aligned auto layout removes the dev workarounds designers hit at every handoff. High actionability, top credibility."
-    },
-    {
-      "url": "https://dev.to/dublecc/designmd-the-cursorrules-for-your-design-system-that-stops-ai-ui-style-drift-1hj4",
-      "title": "DESIGN.md: the '.cursorrules for your design system' that stops AI UI style drift",
+      "url": "https://dev.to/matttdamon/from-feedback-to-merged-pr-making-ui-feedback-agent-actionable-12a8",
+      "title": "From feedback to merged PR: making UI feedback agent-actionable",
       "source": "DEV Community",
-      "published_iso": "2026-07-25T05:45:23Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl5jd4ji0ykfs5iueat99.png",
-      "excerpt": "The piece proposes DESIGN.md as a portable, structured file that stops AI coding agents from 'guessing' a design system and drifting on colors, spacing, and component behavior across sessions. It uses a dual layer — machine-readable YAML front matter for exact design tokens plus human-readable Markdown for the intent behind them — so agents build UI against a durable source of truth, positioned as the design-system analogue to a .cursorrules file. A concrete answer to visual-identity drift, the biggest consistency failure in agentic UI generation.",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "Directly actionable pattern designers can adopt this week to stop AI agents drifting off the design system — a token-level fix for the top consistency failure in agentic UI. Distinct tools/tokens category."
-    },
-    {
-      "url": "https://dev.to/helkyn_coello/vibe-coding-wont-kill-developers-itll-kill-the-middle-2c61",
-      "title": "Vibe coding won't kill developers — it'll kill the middle",
-      "source": "DEV Community",
-      "published_iso": "2026-07-26T21:47:12Z",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/t7fhyguq11l0u3fmvwrz.png",
-      "excerpt": "The essay argues AI-assisted 'vibe coding' won't eliminate builders as a class but will liquify the middle tier — the implementation work done against known specs — much as cheap cameras spared top photographers while gutting commodity work. Value concentrates in roles requiring architectural judgment, domain expertise, taste, and strategy. A sharp framing of the AX skills shift facing designers-who-build and design engineers as prompt-to-app tools commoditize execution.",
+      "published_iso": "2026-07-27T00:00:00Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png",
+      "excerpt": "As teams wire AI coding agents (Cursor, Claude) into implementation, the shape of design feedback has to change: notes captured directly on the live app with page URLs, element selectors, screenshots, and viewport context can be converted straight into pull requests without a human translation step. A concrete look at agentic design-to-code handoff — how design critique becomes machine-actionable rather than a Figma comment or Slack thread.",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Sharp AX skills-shift framing for designers-who-build: where value concentrates as prompt-to-app tools commoditize execution. Freshest item in the pool (07-26)."
+      "rationale": "Reframes how design feedback reaches code: notes captured on the live app with selectors and viewport context become pull requests directly, no human translation step. Changes the design-to-code handoff a team runs tomorrow."
     },
     {
-      "url": "https://www.creativebloq.com/ai/ai-art/google-thinks-maths-proves-its-ai-is-genuinely-creative-but-is-it",
-      "title": "Google thinks maths proves its AI is genuinely creative — but is it?",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-26T07:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zLhmVnzDtQ7QXJPpAfKq4o-1920-80.png",
-      "excerpt": "Creative Bloq interrogates Google's claim — resting on AI systems solving and generating novel mathematics — that its models are 'genuinely creative,' weighing what mathematical novelty does and doesn't prove about creativity for artists and designers. The framing matters for creatives because 'is the machine creative?' underpins how much of ideation and concepting teams are willing to hand to generative tools.",
+      "url": "https://dev.to/lyd_lyd_d4869af25d33ce0eb/why-do-ai-generated-websites-all-look-the-same-k2j",
+      "title": "Why Do AI-Generated Websites All Look the Same?",
+      "source": "DEV Community",
+      "published_iso": "2026-07-27T00:00:00Z",
+      "og_image": "",
+      "excerpt": "AI website builders now ship clean, responsive code, yet the output converges on the same visual signatures — glassmorphism, identical hero layouts, standardized card grids. The piece argues models reproduce common patterns rather than truly design, a pointed 'AI slop' critique of homogenized generative UI and what it means for brand differentiation and design taste.",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Adds a distinct ideation/creativity-debate angle relevant to how much concepting teams hand to generative tools — reputable outlet, fresh (07-26). Distinct palette accent (#3b6bff) vs the other workflow pick (#ff5a4d)."
+      "motif": "cube",
+      "rationale": "Names the design cost of generative UI: builders converge on glassmorphism, identical heroes, and standard card grids because models reproduce patterns instead of designing. A taste-and-differentiation read every design team wrestling with AI tools needs. Distinct accent from the other workflow pick."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/hate-generative-ai-maybe-its-time-to-boycott-netflix",
+      "title": "Hate generative AI? Maybe it's time to boycott Netflix",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-25T06:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/UmPnkcxYmjFmqxG4TxStr9-596-80.jpg",
+      "excerpt": "With Netflix leaning into generative AI across its productions, Creative Bloq argues creatives angry about AI's encroachment on craft should vote with their subscriptions. It's a look at how a major studio's gen-AI adoption reshapes creative and design work and the leverage audiences and practitioners still hold — a culture-and-craft read on the design/creative industry's AI backlash.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "The culture-and-craft angle on the AI backlash: a major studio's gen-AI push and the leverage practitioners and audiences still hold. Adds an industry-context read alongside the tool and workflow picks. Distinct accent from the other workflow cards."
     }
   ],
   "dedup": {
-    "pool_size": 5,
+    "pool_size": 4,
     "kept": 4,
-    "dropped": 1,
-    "checked_against": "sections.design — today (2026-07-26, 3 cards) + days 2026-07-21 through 07-25 (all published cards)",
+    "dropped": 0,
+    "checked_against": "sections.design — today (2026-07-26/27, 4 cards) + days 2026-07-22 through 07-26 (all published cards)",
     "notes": [
-      "All 5 filtered candidates verified against the full 5-day design history by URL and by content/event: none had previously run (no Figma release-notes card, no DESIGN.md/token-spec card, no vibe-coding essay, no Google-creativity or Netflix-boycott piece appeared before). Zero URL/content duplicates.",
-      "Diversity guard: outlets were within cap (Figma x1, dev.to x2, Creative Bloq x2), but 3 of 5 candidates were category 'workflow' — over the 1-2/category cap. No swap candidate existed (pool exhausted at 5), so the weakest, most-redundant workflow item (Creative Bloq 'boycott Netflix', pure activism / lowest actionability / overlaps the Google-creativity culture angle) was dropped to reach a balanced 4: figma x1, tokens x1, workflow x2, across 3 outlets.",
-      "Final 4 is above the floor of 3; not padded. Second workflow pick given a distinct palette accent (#3b6bff) vs the first (#ff5a4d)."
+      "All 4 filtered candidates verified against the full design history by URL and by content/event: none previously ran. The Creative Bloq 'boycott Netflix' piece was dropped (never published) during the 2026-07-27 run, so it is fresh/unpublished and eligible today; its URL and event do not appear in any published card.",
+      "Diversity guard: outlets within cap (dev.to x2, 80 Level x1, Creative Bloq x1), 3 distinct outlets. Three of four are category 'workflow' (over the 1-2/category ideal) but the pool is at the floor (4 candidates) with no swap candidate available, so no pad and no drop; the three workflow picks were each given a distinct palette accent (#ff5a4d, #3b6bff, #2ec5c5) and distinct motifs (frame, cube, swatch) for visual separation.",
+      "Final 4 is above the floor of 3; not padded."
     ],
     "below_target": false
   }

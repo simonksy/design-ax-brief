@@ -1,84 +1,50 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "movies",
   "cards": [
     {
-      "id": "netflix300",
+      "id": "martini",
       "eyebrow": "AI NEWS",
-      "headline": "넷플릭스, 올해 300여 편에\n이미 AI를 썼다",
-      "mini_headline": "넷플릭스 AI 300편",
-      "body": "넷플릭스가 올해 공개·제작한 약 300편에 후반작업 중심으로 생성형 AI를 썼다고 밝혔다.",
+      "headline": "마티니, 프롬프트 대신 카메라로\n숏을 짜는 AI 촬영장",
+      "mini_headline": "마티니 AI 가상 촬영장",
+      "body": "마티니는 피그마처럼 웹에서 여럿이 함께 카메라를 움직여 AI 영상의 숏을 짜는 가상 촬영장이다.",
       "tool": "Movies",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2217157/netflix-says-it-s-already-used-ai-in-roughly-300-titles-this-year/",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/martini-ai-film-set",
       "accent": "#0070f3",
       "motif": "frame",
-      "image": "https://www.engadget.com/img/gallery/netflix-says-its-already-used-ai-in-roughly-300-titles-this-year/intro-1784242266.jpg",
+      "image": "pipeline/media/martini.jpg",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "p", "x": "넷플릭스가 2분기 주주서한에서 2026년 공개하거나 제작한 약 300편에 생성형 AI 작업을 썼다고 밝혔다. 대부분은 후반작업 단계였다. 군중 장면을 늘리거나 역사 전투 시퀀스, 설정 숏을 다듬는 데 쓰였다." },
-          { "t": "p", "x": "회사는 인도 작품 'Glory', 'Brasil 70: A Saga do Tri', 'The American Experiment'를 사례로 들었다. 이런 도구가 결과물의 질을 높이면서도 더 빠르고 저렴하게 만들어 준다는 것이다. 그러면서도 사람의 전문성은 여전히 핵심이라고 덧붙였다." }
+          { "t": "p", "x": "AI는 제작 전반을 계속 바꾸고 있다. 그 사이 생성형 AI 영상 모델과 워크플로 도구가 갈라지기 시작했고, 어떤 쓰임은 창작자에게 도움이 되지만 어떤 쓰임은 그렇지 않다는 인식도 자리 잡았다. 마티니는 AI 영상과 일반 영상 제작 모두를 위한 '촬영장'을 표방하는 새 웹 협업 플랫폼이다." },
+          { "t": "img", "src": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0" },
+          { "t": "p", "x": "마티니는 웹에서 돌아가는 협업 플랫폼으로, AI 영상을 위한 촬영장 역할을 한다. 사용자는 가상 촬영장에 직접 만든 세트나 참고 이미지를 올리고, 이미지와 영상을 새로 뽑기도 한다. 인터페이스 디자인에서 피그마가 하는 일을 생성형 영상 작업으로 옮겨 온 셈이다. 핵심은 생성형 AI 영상의 '프롬프트 룰렛'에서 벗어나 2D나 3D 공간 안에서 실제 카메라를 다루듯 숏을 짜는 데 있다. 전통적인 제작에서는 여러 스태프와 이해관계자가 프레이밍, 배우 디렉션, 카메라 무빙을 함께 잡는 프리프로덕션 허브로도 쓴다." },
+          { "t": "p", "x": "가상 세트에서는 장면 안을 자유롭게 돌아다니며 가상 카메라로 정확한 커버리지를 찾는다. 촬영감독이나 전통적인 필름메이커가 특히 반길 기능이다. 실시간 협업 덕분에 감독과 촬영감독, 편집자가 어디에 있든 동시에 손을 댄다. 타임라인 편집기는 다른 편집 프로그램을 써 본 사람에게 낯설지 않고, XML 내보내기로 프리미어 프로나 다빈치 리졸브 같은 표준 소프트웨어로 바로 넘긴다. 주요 AI 모델과 연동해 프리프로덕션과 AI 영상 생성을 모두 받쳐 준다." },
+          { "t": "p", "x": "마티니는 독립 영화인을 위한 무료 요금제로 출발했다. 공개 프로젝트와 모든 AI 모델을 쓸 수 있고, 유료는 월 15달러부터다. 일부 생성형 AI 모델은 크레딧을 따로 써야 한다. 자세한 요금 구성은 플랫폼 웹사이트에 나와 있다." }
         ]
       }
     },
     {
-      "id": "grokodyssey",
+      "id": "aitoolvetting",
       "eyebrow": "AI NEWS",
-      "headline": "그록, 연내 '오디세이'를\n장편 영화로 만든다",
-      "mini_headline": "그록의 오디세이",
-      "body": "일론 머스크가 xAI의 그록 이미지가 연말까지 호메로스 '오디세이'를 장편 영화로 만든다고 주장했다.",
+      "headline": "검증 안 된 AI 도구는\n결국 쌓이는 리스크다",
+      "mini_headline": "AI 도구 검증 다섯 질문",
+      "body": "제프 그린버그는 포스트 현장에 쏟아지는 소규모 AI 도구를 믿기 전 다섯 가지를 따져 리스크를 재라고 짚는다.",
       "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/elon-musk-claims-grok-will-make-a-historically-accurate-odyssey-by-the-end-of-the-year",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/the-rise-of-the-independent-ai-assisted-developer-tools-warnings-and-considerations/",
       "accent": "#f5a623",
       "motif": "frame",
-      "image": "https://www.redsharknews.com/hubfs/odyssey%20grok%20imagine.jpg",
+      "image": "pipeline/media/aitoolvetting.jpg",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "일론 머스크는 xAI의 그록 이미지(Grok Imagine)가 연말까지 호메로스의 '오디세이'를 장편 영화로 만들어 낸다고 밝혔다. '역사적으로 정확한' 각색이라는 표현을 쓰며, 텍스트로 영상을 생성하는 이 방식을 크리스토퍼 놀런의 극장판에 맞세웠다." },
-          { "t": "p", "x": "다만 지금까지 공개된 샘플 영상은 품질 문제가 뚜렷하다. 그래서 이 주장은 AI가 장편 한 편을 실제로 어디까지 만들어 내는지 가늠하는 시험대에 가깝다." }
-        ]
-      }
-    },
-    {
-      "id": "servicemake",
-      "eyebrow": "AI NEWS",
-      "headline": "루마로 하루 만에\n납품용 컷을 뽑는다",
-      "mini_headline": "루마로 하루 컷",
-      "body": "서비스플랜 메이크가 루마의 생성형 비디오로 며칠 걸리던 촬영을 하루 만에 납품용 컷으로 끝낸다.",
-      "tool": "Movies",
-      "source": "Luma AI",
-      "url": "https://lumalabs.ai/news/how-serviceplan-make-uses-luma-to-put-creativity-first",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "image": "https://cdn.sanity.io/images/2ylxvaa2/production/dc33a436e1a717f5fe42bc0927c8a98a6ca68003-1920x1080.png",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "p", "x": "사례 연구다. 광고 대행사 서비스플랜 메이크는 루마의 생성형 비디오로 콘셉트를 시각화하고, 며칠씩 걸리던 스튜디오 촬영 대신 하루 만에 클라이언트에게 보여 줄 컷을 뽑는다." },
-          { "t": "p", "x": "작업의 무게중심이 옮겨졌다. 실행과 후반작업에 쓰던 시간이 콘셉트를 다듬고 클라이언트 피드백을 빠르게 주고받는 쪽으로 넘어갔다." }
-        ]
-      }
-    },
-    {
-      "id": "meshyagent",
-      "eyebrow": "AI NEWS",
-      "headline": "메시, 대화로 아트 방향을\n지켜주는 3D 에이전트",
-      "mini_headline": "메시 3D 에이전트",
-      "body": "메시가 세션 내내 맥락을 유지해 일관된 아트 방향으로 3D 에셋을 만드는 대화형 에이전트 베타를 공개했다.",
-      "tool": "Movies",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "image": "",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "p", "x": "메시가 3D 에이전트 베타를 내놓았다. 한 번의 프롬프트로 끝나는 도구가 아니라 대화로 함께 작업하는 협업자에 가깝다. 세션 내내 맥락을 유지해, 아티스트가 일관된 아트 방향을 잡고 스타일이 통일된 3D 에셋 묶음을 만들 수 있다." },
-          { "t": "p", "x": "메시는 이 도구를 영화·VFX와 애니메이션 파이프라인의 초기 콘셉트 탐색용으로 내세운다. 최종 판단권은 창작자에게 남겨 둔다." }
+          { "t": "p", "x": "여섯 달 전에 쓴 '바이브 코딩' 리스크 글의 후속이다. 나는 머신러닝을 곁에 두고 10년 가까이 컨설팅해 왔고, 2022년 11월 챗GPT가 나오자마자 유료로 쓴 축에 든다. 지난 18개월 동안 소프트웨어를 열 개 넘게 만들었는데 전부 바이브 코딩이었다. 레딧 /r/editors도 운영하는데, 이제 매달 새 도구 스레드가 따로 열린다. 이런 도구가 폭발하는 걸 거기서 봤다." },
+          { "t": "img", "src": "https://www.provideocoalition.com/wp-content/uploads/image-20260722162716907-1024x185.png" },
+          { "t": "p", "x": "여기엔 대체로 두 갈래가 있다. 골드러시 쪽은 뭔가 독특한 걸 만들었다며 구독료를 받고 싶어 하지만, 시장에 서두르다 정작 사용자를 이해하지 못한다. 문제 해결 쪽은 실제로 막힌 지점을 만나 직접 고친 작은 팀이다. 자기가 쓰려고 만든 도구라면 위험이 적고 그대로 써도 된다. 정작 둘 다 같은 약점을 안고 있는데, 바로 리스크다. 실제로 한 대형 프로덕션이 쓸 만해 보이는 작은 소프트웨어를 믿고 돌리다가, 아무도 모르는 사이 SAN에 작은 파일 수천 개가 쌓인 적이 있다." },
+          { "t": "p", "x": "그래서 어떤 도구를 실무에 들이기 전 나는 다섯 가지를 묻는다. 만든 사람이 사라지면 누가 유지보수하나. API나 플랫폼이 바뀌면 어떻게 되나. 어떻게 테스트했나, 무엇을 깨뜨려 봤나. 자격 증명이나 개인정보를 저장하나, 보안은 어떤가. 버전과 체인지로그가 있는 살아 있는 제품인가. 어느 하나만으로 도구를 탈락시키진 않는다. 다만 내가 지금 떠안는 리스크가 얼마인지, 문제가 터졌을 때 나와 클라이언트가 감당할 수 있는지를 재는 잣대다." },
+          { "t": "p", "x": "현장을 지탱하는 건 신뢰성이고, 그게 곧 제품이다. 이런 도구 열 개를 조용히 쌓아 둔 현장은 API 한 번 바뀌거나 개발자가 흥미를 잃는 순간 무너진다. 그러니 빠져나갈 길부터 확보해라. 남의 도구 위에 워크플로를 올리기 전에, 그게 죽었을 때 내 작업물을 어떻게 되찾을지 알아 둬라. 뒷단이 클라이언트가 꺼릴 나라에 있진 않은지, 클라이언트의 IP를 학습에 넣고 있진 않은지도 확인해야 한다. 답이 애초에 '아니오'가 될 리는 없었다. '예'다, 단 눈을 뜬 채로." }
         ]
       }
     }

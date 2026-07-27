@@ -1,64 +1,10 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "gadgets",
-  "now_iso": "2026-07-26T23:27:43Z",
+  "now_iso": "2026-07-27T22:05:00Z",
   "window_hours": 336,
-  "note": "WebSearch budget (200 shared calls) exhausted after ~5 queries, so the funnel was expanded by mining allowed-domain RSS feeds (engadget, techradar, tomsguide, gizmodo, digitaltrends, tomshardware, 9to5google, 9to5mac, macrumors, notebookcheck, cnet, uploadvr, roadtovr, venturebeat) and dating every item via curl'd article:published_time / JSON-LD / RSS pubDate, then gating each with pipeline/freshness.py (336h). Rotated AWAY from 07-26 saturation (Meta Ray-Ban glasses, Galaxy Z Fold8/Flip8, Snapdragon X2/Copilot+ PCs, OpenAI speaker was 07-14 so kept as still-fresh) toward rotated-in beats: home/humanoid robots (1X Neo hands, BYD Xiao Di, BrainCo BCI robot), non-Meta smart/AI glasses (Apple, Samsung/Warby/Gentle Monster, Looki pendant-cam), Gemini smart home, edge-AI silicon (AMD X100 for robots, Ryzen AI mini-PC), novel AI-device form factors (Honor Robot Phone, Garmin Cirqa screen-free AI band), AI wearables. DROPPED as STALE (pre 2026-07-12): Engadget/TechRadar 1X Neo preorder (Oct 2025), Rabbit next-gen/LAM/teach-mode, Rokid review (Apr), AR-glasses-race Gizmodo (06-29), Google Translate earbuds (Dec/Mar/Apr), CES 2026 pieces, Timekettle. DROPPED as AI-business/data-center noise: Nvidia/SK $500B, AMD MI455X/Cerebras data-center accelerators, HuggingFace breach, AI memory shortage, kill-switch bill, EssilorLuxottica/Lynx acquisition, Gentle Monster retail expansion, US space combat robot. 15 candidates across 11 outlets (notebookcheck capped at 3). Expansion WAS used (RSS + sibling keywords).",
+  "note": "Freshness window 336h (cutoff 2026-07-13T22:05Z); every item gated FRESH via pipeline/freshness.py with a verified published_iso. Shared WebSearch budget (200 calls) was exhausted mid-run, so the pool combines fresh WebFetch-verified finds with the still-fresh, not-yet-published items mined by the prior run — after DROPPING every item that has since been published as a card in news_data (07-22..07-27): OpenAI companion speaker (7/14-15), 1X Neo robot hands (7/16), Garmin Cirqa (7/21), Apple smart-glasses privacy Engadget+Verge (7/26), Gemini for Home 15-min (7/23), Honor Robot Phone (7/17). Also dropped as duplicates of cards already published 07-26: Meta Glasses $299 review (7/20) and the smart-glasses+earbuds combo (7/15). Remaining 8 are distinct, uncovered, device/hardware-AI items across 6 outlets (Tom's Hardware x2, Notebookcheck x2, CNET, Engadget, Gizmodo, Road to VR). Expansion WAS used (named vendors/devices + prior-run RSS mining).",
   "items": [
-    {
-      "category": "gadgets",
-      "title": "OpenAI's first hardware product sounds more like a companion than a speaker",
-      "url": "https://www.digitaltrends.com/cool-tech/openais-first-hardware-product-sounds-more-like-a-companion-than-a-speaker/",
-      "source": "Digital Trends",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "excerpt": "OpenAI's debut hardware is shaping up to be a mobile, screenless smart speaker positioned as an always-present AI companion rather than a conventional device. Powered by GPT-Live, it will pack a camera and environmental sensors to read context and proactively anticipate needs throughout the day, with a rechargeable battery for portability. It is one of five hardware products in development under Jony Ive's LoveFrom, with the first device slated for 2027.",
-      "og_image": "https://www.digitaltrends.com/tachyon/2025/03/open-ai-331.jpg?resize=1200%2C720"
-    },
-    {
-      "category": "gadgets",
-      "title": "The OpenAI Mystery Device Will Reportedly Be Basically Just a Smart Speaker",
-      "url": "https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-15T00:12:00Z",
-      "excerpt": "According to Bloomberg's sources, OpenAI's much-hyped device with Jony Ive will be a portable, battery-powered smart speaker with mechanical components that let it move, giving the impression of being 'alive.' The device aims to function as an AI companion that grows increasingly personalized and proactive over time. It faces steep skepticism given the revolutionary expectations Altman and Ive have set for it.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Neo robot hands breakthrough can build LEGOs, unzip jackets, and open a bag of Funyuns",
-      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
-      "source": "TechRadar",
-      "published_iso": "2026-07-16T20:30:02Z",
-      "excerpt": "1X has shown new dexterity demos for its Neo home humanoid, with the robot's hands building LEGO sets, unzipping jackets and opening snack bags. The fine-motor control marks a step toward the household chores 1X promises Neo will eventually handle autonomously via its Redwood AI model. The clips reignite both excitement and unease about capable humanoids entering the home.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/DXVLUwA6f3dvwjjfFPUetY-1920-80.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Garmin Cirqa Smart Band launch: Garmin debuts a screen-free Whoop and Fitbit Air competitor",
-      "url": "https://www.tomsguide.com/wellness/fitness-trackers/garmin-cirqa-smart-band-launch-garmin-debuts-a-screen-free-whoop-and-fitbit-air-competitor",
-      "source": "Tom's Guide",
-      "published_iso": "2026-07-21T11:19:16Z",
-      "excerpt": "Garmin has unveiled the Cirqa, a screen-free smart band that takes on Whoop and the Fitbit Air with subscription-free AI-driven health and sleep tracking. The wearable leans on Garmin's algorithms for recovery, readiness and coaching insights delivered through the app rather than an on-body display. It signals the growing category of minimalist, always-on AI health wearables.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ehLfvMLtc89egfv55WkLCQ-2560-80.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
-      "url": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
-      "source": "Engadget",
-      "published_iso": "2026-07-26T17:43:38Z",
-      "excerpt": "The Apple team behind its upcoming AI smart glasses is reportedly reworking the device around user-privacy safeguards, contributing to a delayed timeline. Apple is said to be exploring several tweaks so the camera-equipped, assistant-driven wearable handles bystander recording and data capture more responsibly than rivals. The glasses are now expected to be revealed at WWDC 2027.",
-      "og_image": "https://www.engadget.com/img/gallery/apples-smart-glasses-delay-reportedly-stems-in-part-from-major-privacy-concerns/l-intro-1785087373.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Apple is banking on privacy to set its smart glasses apart",
-      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "source": "The Verge",
-      "published_iso": "2026-07-26T19:36:38Z",
-      "excerpt": "Apple reportedly plans to differentiate its long-rumored AI smart glasses from Meta's Ray-Bans chiefly through privacy, exploring on-device processing and clearer recording indicators. The privacy-first engineering is said to be one reason the product slipped, with a reveal now expected next June at WWDC. The move frames privacy as Apple's central pitch as it enters the crowded AI-glasses race.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200"
-    },
     {
       "category": "gadgets",
       "title": "AMD's new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' into robots",
@@ -79,24 +25,6 @@
     },
     {
       "category": "gadgets",
-      "title": "Gemini for Home context memory expands to 15 mins, Nest Cam July 2026 update rolling out",
-      "url": "https://9to5google.com/2026/07/23/nest-cam-july-2026-update/",
-      "source": "9to5Google",
-      "published_iso": "2026-07-23T19:36:50Z",
-      "excerpt": "Google is rolling out new Gemini for Home capabilities, extending the assistant's context memory to 15 minutes so it can follow multi-step conversations across the smart home. A parallel Nest Cam firmware update accompanies the release. The upgrades push Google's generative AI deeper into everyday smart-home hardware and camera devices.",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    },
-    {
-      "category": "gadgets",
-      "title": "Honor Robot Phone leaked hands-on video shows thickness, camera gimbal in action",
-      "url": "https://www.notebookcheck.net/Honor-Robot-Phone-leaked-hands-on-video-shows-thickness-camera-gimbal-in-action.1345687.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-07-17T18:34:00Z",
-      "excerpt": "A leaked hands-on video of Honor's 'Robot Phone' shows the device's added thickness and a motorized, gimbal-mounted AI camera that can physically move and track. Honor plans to showcase the AI-centric handset at WAIC in China on July 18. The unusual robotic form factor is Honor's bid to reimagine the smartphone as an active, agentic AI device.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/honor-robot-phone-leak41.jpg"
-    },
-    {
-      "category": "gadgets",
       "title": "New Tesla Optimus rival: Leak reveals first details about BYD's AI robot 'Xiao Di'",
       "url": "https://www.notebookcheck.net/New-Tesla-Optimus-rival-Leak-reveals-first-details-about-BYD-s-AI-robot.1352248.0.html",
       "source": "Notebookcheck",
@@ -106,12 +34,12 @@
     },
     {
       "category": "gadgets",
-      "title": "OpenAI Is 'Very Interested' in Building Out ChatGPT Integrations for Wearables",
-      "url": "https://www.cnet.com/tech/services-and-software/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wearables/",
-      "source": "CNET",
-      "published_iso": "2026-07-24T20:59:06Z",
-      "excerpt": "OpenAI President Greg Brockman signaled strong interest in bringing ChatGPT's increasingly 'Jarvis-like' AI agents to wearable hardware. He hinted at where the company's agentic assistants could head next and in what device forms, beyond the rumored screenless companion speaker. The comments underline OpenAI's ambition to embed ChatGPT into always-available, on-body AI devices.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Meta.glasses.2026.jpg"
+      "title": "BrainCo unveils brain-controlled robot AI platform at WAIC 2026",
+      "url": "https://www.notebookcheck.net/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.1346280.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-07-18T23:48:00Z",
+      "excerpt": "At WAIC 2026, BrainCo demonstrated remotely controlling robotic hands, arms and humanoids using only a user's thoughts, via its brain-computer interface (BCI) and a brain-controlled robot AI platform. The system translates neural signals into precise robot manipulation in real time. It points toward hands-free, thought-driven control as an interface layer for AI-powered robots.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg"
     },
     {
       "category": "gadgets",
@@ -124,6 +52,24 @@
     },
     {
       "category": "gadgets",
+      "title": "Everything announced at Samsung Unpacked 2026: new Galaxy Watch 9 and Watch Ultra 2 with an AI Health Assistant",
+      "url": "https://www.engadget.com/2220316/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/",
+      "source": "Engadget",
+      "published_iso": "2026-07-22T14:19:00Z",
+      "excerpt": "At Unpacked 2026 Samsung debuted the Galaxy Watch 9 and Watch Ultra 2, both built around an AI-powered Health Assistant that interprets sleep, heart-rate and blood-oxygen data and flags meaningful variations from your baseline. It marks a shift from watches that merely record health metrics to ones that actively interpret and coach on them.",
+      "og_image": "https://www.engadget.com/img/gallery/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/intro-1784730503.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Meta Is Rethinking Subscriptions on Its Smart Glasses",
+      "url": "https://gizmodo.com/meta-is-rethinking-subscriptions-on-its-smart-glasses-2000791288",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-27T15:05:00Z",
+      "excerpt": "Meta paused plans to paywall Conversation Focus — the on-glasses AI feature that uses the smart glasses' microphones to help wearers hear a conversation more clearly — after user backlash, though it signaled other AI features could still land behind a subscription. The episode highlights the tension over how always-on AI hardware features get monetized.",
+      "og_image": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-12.jpg"
+    },
+    {
+      "category": "gadgets",
       "title": "Samsung Unveils More Smart Glasses Designs from Gentle Monster & Warby Parker",
       "url": "https://roadtovr.com/samsung-google-smart-glasses-designs-gentle-monster-warby-parker-release/",
       "source": "Road to VR",
@@ -133,8 +79,8 @@
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 14,
+    "dropped": 0,
+    "kept": 8,
     "against_days": 5
   }
 }

@@ -1,59 +1,50 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
+  "section": "books",
   "cards": [
     {
-      "id": "google-gemini-suit",
-      "tool": "Books",
+      "id": "udgooglebooks",
       "eyebrow": "AI NEWS",
-      "headline": "주요 출판사들이 구글 제미나이\n학습을 무단 사용이라며 고소했다",
-      "body": "아셰트 등 주요 출판사가 구글이 도서 데이터를 제미나이 학습에 무단으로 썼다며 소송을 냈다.",
-      "mini_headline": "구글 AI 학습 소송",
-      "source": "janefriedman.com",
-      "url": "https://janefriedman.com/publishers-file-lawsuit-against-google-for-ai-training/",
+      "tool": "Books",
+      "headline": "델라웨어대, 구글 북스에 장서 제공해\nAI 학습용 학술 자료를 큐레이션",
+      "body": "델라웨어대가 장서 10만여 권을 구글 북스에 디지털화해 AI가 신뢰할 학술 자료로 학습하도록 돕는다.",
+      "mini_headline": "AI 학습용 학술 장서 큐레이션",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
       "accent": "#f5a623",
       "motif": "swatch",
-      "image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
+      "image": "https://library.udel.edu/news/wp-content/uploads/sites/33/2026/05/GoogleBooks_News_FeatureImage_840x473.jpg",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "아셰트, 센게이지, 엘스비어를 비롯한 주요 출판사가 구글을 상대로 소송을 냈다. 구글이 구글 북스와 구글 플레이, 구글 스콜라에 있는 디지털 사본을 허락 없이 제미나이 모델 학습에 썼다는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "소장에 따르면 구글은 내부에서 이 방식을 'highly problematic'(매우 문제가 크다)이라 짚었고, 수십억 달러 규모의 벌금 위험을 경고받고도 그대로 밀고 나갔다."
-          },
-          {
-            "t": "p",
-            "x": "책의 본문이 AI 모델 학습에 쓰여도 되는지, 쓴다면 어떻게 써야 하는지를 두고 권리와 동의를 가리는 싸움이다."
-          }
+          {"t": "img", "src": "https://library.udel.edu/news/wp-content/uploads/sites/33/2026/05/GoogleBooks_News_FeatureImage_840x473.jpg"},
+          {"t": "p", "x": "델라웨어대 도서관이 구글 북스 라이브러리 프로젝트에 참여한다. 앞으로 3년 동안 장서 10만여 권을 디지털로 옮기기로 했고, 희귀본이나 절판본처럼 그동안 온라인에서 보기 어렵던 자료가 전 세계에서 검색된다. 디지털로 바꾼 자료는 하티트러스트(HathiTrust)에도 함께 보존한다."},
+          {"t": "p", "x": "트레버 A. 도스 부총장은 도서관이 지식을 큐레이션하고 보존하는 데 그치지 않고 그 지식이 발견되고 공유되도록 하는 곳이라고 말했다."},
+          {"t": "p", "x": "도스 부총장은 구글이 디지털로 옮긴 자료로 AI 모델을 학습시킨다는 점을 짚었다. 검증된 학술 장서를 출처와 함께 넘기면 앞으로 나올 AI가 신뢰할 만하고 잘 정리된 학술 자료로 배운다."},
+          {"t": "p", "x": "수집 대상은 델라웨어 관련 자료와 옛 상품 카탈로그, 다른 구글 파트너에는 없는 특색 있는 판본이다. 문학과 역사, 정치학, 미술, 교육을 두루 아우른다."}
         ]
       }
     },
     {
-      "id": "elevenlabs-odyssey",
-      "tool": "Books",
+      "id": "hkbookfair",
       "eyebrow": "AI NEWS",
-      "headline": "일레븐랩스가 마이클 케인 목소리로\n오디세이 오디오북을 냈다",
-      "body": "일레븐랩스가 마이클 케인의 합성 음성으로 낭독한 정식 라이선스 오디세이 오디오북을 내놨다.",
-      "mini_headline": "AI 목소리 오디세이",
-      "source": "bookriot.com",
-      "url": "https://bookriot.com/library-news-round-up-july-2026/",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
+      "tool": "Books",
+      "headline": "홍콩 도서전이 'AI 시대에 모두의 읽기'를\n올해 주제로 삼고 공진화를 논하다",
+      "body": "36회 홍콩 도서전이 'AI 시대의 읽기'를 주제로 삼아 AI가 읽기 효율과 깊은 사고를 어떻게 키울지 논했다.",
+      "mini_headline": "AI 시대의 읽기 내건 홍콩 도서전",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-july-27-2026/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg/1280px-HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg"
+      ,
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "북라이엇의 7월 도서관 소식 정리에서 가장 눈에 띈 건 일레븐랩스다. 마이클 케인의 합성 음성을 써서 정식 라이선스를 받은 오디세이 AI 낭독판을 내놨다. 같은 묶음에는 독서 위기를 다룬 소식도 함께 실렸다."
-          },
-          {
-            "t": "p",
-            "x": "라이선스를 갖춘 합성 음성 낭독이 상업 오디오북 시장에 들어온 셈이다. 그만큼 사람 낭독자의 일자리를 두고 던지는 물음도 뒤따른다."
-          }
+          {"t": "img", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg/1280px-HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg"},
+          {"t": "p", "x": "홍콩무역발전국(HKTDC)에 따르면 제36회 홍콩 도서전이 7월 21일 막을 내렸다. 시작 무렵 궂은 날씨가 있었지만 참여 열기는 높았고, 올해는 첫 아세안 문학 축제도 함께 열렸다."},
+          {"t": "p", "x": "전문가 프로그램으로 열린 연례 국제출판포럼과 IP 라운드테이블에는 250명 넘게 모였다. 'AI 시대에 모두를 위한 읽기: 재구성과 공진화'라는 주제 아래, 출판인들은 AI가 읽기 효율을 높이고 비판적이고 깊이 있는 사고를 기르도록 도울 수 있을지, 또 여러 분야가 손잡아 읽기 문화를 어떻게 키울지 이야기했다."},
+          {"t": "p", "x": "한편 미국의소리(VOA)를 비롯한 여러 매체는 '정치 서적을 내는 출판사 몇 곳'이 올해 도서전 참가를 막았다고 전했다. 주최 측은 판매 도서를 따로 검열하지 않는다고 밝혔지만, 이번 도서전은 2020년 시행된 새 국가보안법 아래 서점 관계자 여러 명이 최근 구금된 뒤 열렸다."}
         ]
       }
     }

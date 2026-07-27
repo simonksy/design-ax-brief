@@ -1,53 +1,36 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "books",
-  "now_iso": "2026-07-26T23:27:43Z",
+  "now_iso": "2026-07-27T22:05:00Z",
   "window_hours": 336,
-  "note": "Librarian pass (window 336h -> since 2026-07-12T23:27:43Z). Search budget was exhausted by the parallel multi-section run, so this pass combined the ~9 WebSearch results obtained before the cap with WebFetch mining of allowed-domain hub/tag/category pages (publishersweekly.com, thebookseller.com, publishingperspectives.com, goodereader.com, janefriedman.com, lithub.com, bookriot.com, the-digital-reader.com, teleread.org, electricliterature.com, writersdigest.com, thecreativepenn.com). EXPANSION USED: co-writing/Sudowrite/NovelAI, book covers, literary translation, generative fiction, ghostwriting, ebook tools, KDP policy, book marketing, reading assistant, poetry, children's books, AI manga/webtoon, recommendation, plus Korean equivalents. Every candidate's published time was verified via WebFetch (article:published_time / JSON-LD / byline / listing date) and gated with pipeline/freshness.py <iso> 2026-07-26T23:27:43Z books. IMPORTANT OVERLAP WARNING: consistent with the earlier recovery pass recorded in git history, the AI x books beat in this 14-day window is nearly exhausted. Every FRESH in-window item found maps to a story that appears to be already-published/held (NYT AI-nonfiction flood, Substack Pangram detection, Publishers v. Google Gemini lawsuit, Anthropic $1.5B final settlement, ElevenLabs/Michael-Caine Odyssey narration). Net-new is likely ~0-1; curator should expect heavy dedup against sections.books history. Dropped as STALE (before 07-12): Olga Tokarczuk AI-novel (lithub 05-19), Granta AI prize story (lithub 05-19), 'harder to spot AI' (lithub 04-16), USBS CEOs 'AI witch hunt' (PW 06-04), Ink AI ebook generator (goodereader 2023), Korean webtoon AI (goodereader 2024), Japan AI manga controversy (goodereader 2023), Stardust/Eisner AI withdrawal (PW 05-27), janefriedman 'Top AI tools' (07-11, just outside window). Dropped as AI-business/industry NOISE per relevance test: Wiley Genesis Mission Consortium (PP 07-22), Wiley fiscal-2026 AI gains (PW), GlobalComix $13M raise, US audiobook sales +13%.",
-  "exhaustion_report": {
-    "fresh_in_window_found": 5,
-    "estimated_net_new_after_dedup": "0-1",
-    "distinct_outlets": 3,
-    "reason": "Search cap hit early (shared 200-call budget across parallel librarians); hub-page mining of 12 allowed domains surfaced only copyright/AI-detection/audiobook stories already covered in the last week's briefs. No fresh (07-13..07-26) items surfaced on the rested creative-tool angles (co-writing tools, book covers, generative fiction, ghostwriting, KDP policy, poetry, children's books, webtoon/manga tools, reading/recommendation apps, literary translation) -- all such hits were 2023-early-2026 and STALE."
-  },
+  "note": "Librarian pass, window 336h -> keep only items published on/after 2026-07-13T22:05:00Z. Searched ONLY books allowed_domains (publishersweekly.com, thebookseller.com, goodereader.com, janefriedman.com, lithub.com, publishingperspectives.com, bookriot.com, teleread.org, writersdigest.com, kindlepreneur.com, thecreativepenn.com, electricliterature.com, scholarlykitchen.sspnet.org, mediabistro.com, the-digital-reader.com; wired/arstechnica are crawler-blocked for our agent). Every published time verified via WebFetch (article:published_time / JSON-LD / byline) and gated with pipeline/freshness.py <iso> 2026-07-27T22:05:00Z books. EXPANSION USED (beyond keyword_pool): co-writing/Sudowrite/Novelcrafter/NovelAI, AI book covers, AI literary translation (Kindle Translate), generative fiction / AI slop, AI ghostwriting, KDP/self-publishing AI policy, AI ebook + reading-assistant apps (Kindle Recaps/Ask this Book, Storytel AI Genie, Google Play Books Gemini), AI comics/manga/webtoon (Emaqi, Korean webtoon), AI poetry, AI children's books, book discovery/recommendation, plus AI-nonfiction-flood and scholarly-publishing AI angles. EXHAUSTION: the AI x books beat in this 14-day window is nearly tapped for NET-NEW. Most FRESH in-window items are ALREADY published as cards in sections.books (news_data.json today+days): Publishers/Hachette v. Google Gemini lawsuit (today), ElevenLabs/Michael-Caine Odyssey narration (today), Anthropic $1.5B final settlement + Bloomsbury payout (07-24), Substack Pangram AI-detection (07-24), Wiley Genesis Mission (07-24), IPA Congress AI (07-24), Spoken 61% AI-narration study (07-22), publisher AI-adoption 6% report + lithub 'hologram problem' (07-22). Dropped as STALE (before 07-13T22:05): scholarlykitchen 'shared standard for AI disclosure' (07-13, ~358h old, just outside), PW 'Global AI Data Analytics Startups' Alighieria/Lit-X/Narrative Muse (07-10), Emaqi AI manga (07-01), Storytel AI Genie (06-17), Google Play Books Gemini (04-06), Kindle Recaps/Ask this Book (06-09), Amazon Kindle Translate (2025-11), lithub NZ Ockham AI-cover disqualification (2025-11), bookriot '20,000 AI stories' (06-21), Commonwealth cleared (06-25), lithub Granta AI story (05-19), Rebind app (2024), Viwoods AI Reader C (2025-12), Wiley $44m no-opt-out (2024), Penguin Random House AI rebuff (2024). Dropped as NOT-AI-central per relevance test: S&S 'Simon Stream' self-pub imprint (07-24), Springer Nature 'Nature Books' imprint (07-17). NET-NEW distinct items this pass = the University of Delaware / Google Books Library Project AI-training move and the Hong Kong Book Fair 'Reading for All in the Age of AI' theme; the Kashmir Hill / NYT AI-nonfiction investigation is strong but may overlap an already-held story. WebSearch budget hit 200/200 during the pass. [RECOVERY 07-28: WebSearch budget already 200/200; ran a WebFetch listing-page sweep of allowed books domains using ADJACENT terms not previously tried (AI literary translation, AI audiobook deals, scholarly/academic AI publishing, AI comics/manga/webtoon, bookselling/discovery AI, library/AI licensing). Result = ZERO net-new fresh, verifiable, AI-central items: the 336h window is fully tapped and every in-window AI story is already a published card. Checked: publishingperspectives (tag+home+roundups — only Google-lawsuit/Anthropic-1.5B/AI-course/Wiley-Genesis, all carded), janefriedman (all 5 fresh = carded), thebookseller (/news = Anthropic-approved/lowest-uptake/Bloomsbury, all carded), publishersweekly (content-and-ebooks, copyright, comics, publisher-news, AI-edition — copyright feed newest = Anthropic-1.5B 07-21 carded + Google class-action 07-13T14:00Z which is STALE vs 07-13T22:05Z cutoff AND carded), scholarlykitchen (only in-window AI = Open Science 2.0 07-14, already carded 07-25), lithub (Proust-translation essay 07-07 STALE), goodereader (digital-publishing/audiobooks/business-news — no fresh AI; Odyssey-audiobook 07-27 not AI-central), bookriot/electricliterature/teleread (all stale), booksandpublishing/mediabistro/kindlepreneur/thecreativepenn/goodreads/bookbub (no fresh AI). 403/blocked: the-digital-reader, ireaderreview, awn; not-crawlable: wired/techcrunch/arstechnica/theverge. Net-new books this run stays at 2 (University of Delaware/Google Books Library AI-training + Hong Kong Book Fair AI theme); NYT AI-nonfiction item #1 duplicates the published 07-25 janefriedman card.]",
   "items": [
     {
-      "url": "https://janefriedman.com/publishers-file-lawsuit-against-google-for-ai-training/",
-      "source": "janefriedman.com",
-      "category": "books",
-      "headline": "Publishers file lawsuit against Google for AI training",
-      "published_iso": "2026-07-15T12:00:00Z",
-      "excerpt": "Major publishers including Hachette, Cengage and Elsevier sued Google, alleging it used digital copies from Google Books, Google Play and Google Scholar to train its Gemini model without permission. The complaint claims Google internally flagged the practice as 'highly problematic' and warned of billions in potential fines yet proceeded anyway. A rights/consent story shaping whether and how book text feeds AI models.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
-      "freshness": "FRESH",
-      "overlap_flag": "likely maps to already-held 'Google Gemini training lawsuit' story"
-    },
-    {
-      "url": "https://bookriot.com/library-news-round-up-july-2026/",
-      "source": "bookriot.com",
-      "category": "books",
-      "headline": "Library News Round-Up, July 2026 (incl. ElevenLabs' AI-narrated Odyssey)",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "excerpt": "Book Riot's July library round-up highlights ElevenLabs releasing an officially licensed AI-narrated edition of The Odyssey using a synthetic Michael Caine voice, alongside broader reading-crisis coverage. The item captures the arrival of licensed synthetic-voice narration in the commercial audiobook market and the job-displacement questions it raises for human narrators. A creative-AI capability landing in mainstream publishing.",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
-      "freshness": "FRESH",
-      "overlap_flag": "AI item (ElevenLabs/Michael-Caine Odyssey) likely already-held; round-up date is fresh"
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/07/court-grants-final-approval-to-landmark-1-5-billion-anthropic-settlement/",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
       "source": "publishingperspectives.com",
       "category": "books",
-      "headline": "Court grants final approval to landmark $1.5 billion Anthropic settlement",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "excerpt": "A federal judge granted final approval to the $1.5 billion Bartz v. Anthropic copyright settlement, with nearly 500,000 eligible works registered and authors set to receive up to about $3,000 per work while larger publishers gain tens of millions. The ruling establishes a concrete payout precedent for using copyrighted books to train large language models. Landmark rights outcome for the AI-and-books landscape.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-05-15-at-8.39.24-AM.png",
+      "headline": "University of Delaware joins Google Books Library Project to curate scholarly sources for AI training",
+      "published_iso": "2026-07-20T08:00:00Z",
+      "excerpt": "The University of Delaware announced it has joined the Google Books Library Project, saying its participation will help ensure future AI systems are trained on reliable, scholarly, well-curated sources while preserving source attribution and bibliographic context. It reframes the library/AI-training debate around consented, high-quality corpora rather than scraped pirate libraries.",
+      "og_image": "",
       "freshness": "FRESH",
-      "overlap_flag": "likely maps to already-held 'Anthropic $1.5B final settlement' story"
+      "overlap_flag": "net-new; not present in sections.books history"
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-july-27-2026/",
+      "source": "publishingperspectives.com",
+      "category": "books",
+      "headline": "Hong Kong Book Fair centers its 2026 edition on 'Reading for All in the Age of AI'",
+      "published_iso": "2026-07-27T08:00:00Z",
+      "excerpt": "The 36th HKTDC Hong Kong Book Fair, which closed July 21, ran under the theme 'Reading for All in the Age of AI: Reshaping and Co-evolution,' with publishers debating how AI could raise reading efficiency and cultivate critical, in-depth thinking through cross-sector cooperation. A snapshot of how a major Asian trade fair is framing AI's role in reading and publishing culture.",
+      "og_image": "",
+      "freshness": "FRESH",
+      "overlap_flag": "net-new AI angle; distinct from the already-carded IPA Congress AI panel (07-24)"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 3,
+    "dropped": 1,
+    "kept": 2,
     "against_days": 5
   }
 }
