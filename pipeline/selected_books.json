@@ -1,56 +1,43 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "books",
   "selection_mode": "auto",
+  "target": 5,
+  "floor": 3,
+  "selected_count": 2,
+  "shortfall": 3,
   "picks": [
     {
-      "rank": 1,
-      "headline": "Publishers file lawsuit against Google for AI training",
       "tool": "Books",
+      "headline": "University of Delaware joins Google Books Library Project to curate scholarly sources for AI training",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
+      "source": "Publishing Perspectives",
       "category": "books",
+      "published_iso": "2026-07-20T08:00:00Z",
+      "og_image": "https://library.udel.edu/news/wp-content/uploads/sites/33/2026/05/GoogleBooks_News_FeatureImage_840x473.jpg",
+      "excerpt": "The University of Delaware Library announced it has joined the Google Books Library Project, committing to digitize more than 100,000 volumes within three years and preserve them in HathiTrust. Vice Provost Trevor A. Dawes said contributing vetted, well-curated academic volumes with retained source attribution will help ensure future AI systems are trained on reliable, scholarly sources rather than scraped pirate libraries.",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://janefriedman.com/publishers-file-lawsuit-against-google-for-ai-training/",
-      "source": "janefriedman.com",
-      "published_iso": "2026-07-15T12:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
-      "excerpt": "Major publishers including Hachette, Cengage and Elsevier sued Google, alleging it used digital copies from Google Books, Google Play and Google Scholar to train its Gemini model without permission. The complaint claims Google internally flagged the practice as 'highly problematic' and warned of billions in potential fines yet proceeded anyway. A rights/consent story shaping whether and how book text feeds AI models.",
-      "rationale": "A live class action over Gemini training sets a concrete copyright/consent precedent that directly shapes how publishers and authors handle AI-training rights; the suit never had its own card, so it is a genuinely distinct net-new story rather than a rehash of the Bloomsbury earnings round-up's passing mention."
+      "rationale": "Net-new, distinct URL and content from every published books card. Reframes the library/AI-training debate around consented, curated scholarly corpora with source attribution — a concrete institutional move rather than another lawsuit story."
     },
     {
-      "rank": 2,
-      "headline": "Library News Round-Up, July 2026 (incl. ElevenLabs' AI-narrated Odyssey)",
       "tool": "Books",
+      "headline": "Hong Kong Book Fair centers its 2026 edition on 'Reading for All in the Age of AI'",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-july-27-2026/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "url": "https://bookriot.com/library-news-round-up-july-2026/",
-      "source": "bookriot.com",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
-      "excerpt": "Book Riot's July library round-up highlights ElevenLabs releasing an officially licensed AI-narrated edition of The Odyssey using a synthetic Michael Caine voice, alongside broader reading-crisis coverage. The item captures the arrival of licensed synthetic-voice narration in the commercial audiobook market and the job-displacement questions it raises for human narrators. A creative-AI capability landing in mainstream publishing.",
-      "rationale": "Licensed synthetic-voice narration (Michael Caine) reaching a commercial audiobook release is a net-new creative-AI capability with clear implications for narrators and audio publishers; no Odyssey/ElevenLabs card exists anywhere in the books history, so it is genuinely fresh."
+      "published_iso": "2026-07-27T08:00:00Z",
+      "og_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg/1280px-HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg",
+      "excerpt": "The 36th HKTDC Hong Kong Book Fair closed July 21 under the theme 'Reading for All in the Age of AI: Reshaping and Co-evolution.' At the International Publishing Forum and IP Roundtable, which drew more than 250 participants, publishers explored how AI could raise reading efficiency and cultivate critical, in-depth thinking, and how cross-sector cooperation could foster reading culture.",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Net-new AI angle distinct from the already-carded IPA Congress AI panel; a snapshot of how a major Asian trade fair frames AI's role in reading and publishing. Second books pick takes a distinct palette accent (#7928ca) and motif from the first."
     }
   ],
-  "shortfall": {
-    "target": 3,
-    "floor": 3,
-    "selected": 2,
-    "reason": "The AI-x-books beat is genuinely exhausted this cycle. The filtered pool held only 3 candidates. One (Publishing Perspectives' Anthropic $1.5B final-approval settlement) is a hard content duplicate of two already-published 07-24 cards (anthropic-final, bloomsbury-payout) covering the exact same court event, so it was dropped. The remaining 2 are distinct, never-before-published stories and are kept. Publishing below the floor of 3 is expected here and not padded with stale, duplicate, or off-topic items."
-  },
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.books (today 2026-07-26 + last 5 days 07-22..07-25). Published stories in window: fanfic-ai-markers, vancouver-ai-disclosure, bloomsbury-ai-licensing, ai-narration, ai-uptake, hologram, zedoc, ai-course, editor-ai-survey, anthropic-final, bloomsbury-payout, substack-pangram, wiley-genesis, ipa-congress-ai, booklens-hallucinate, ai-nonfiction-hill, open-science-2. Neither the Google/Gemini publisher lawsuit (as a dedicated card) nor the ElevenLabs/Odyssey narration story appears among them.",
-    "dropped_as_duplicate": [
-      {
-        "url": "https://publishingperspectives.com/2026/07/court-grants-final-approval-to-landmark-1-5-billion-anthropic-settlement/",
-        "reason": "Same event as already-published anthropic-final (Publishers Weekly) and bloomsbury-payout (The Bookseller) on 2026-07-24 — the $1.5B Bartz v. Anthropic final court approval — reworded via a different outlet. Hard content duplicate; earliest-wins."
-      }
-    ],
-    "content_overlap_reviewed": {
-      "url": "https://janefriedman.com/publishers-file-lawsuit-against-google-for-ai-training/",
-      "note": "Librarian flagged possible overlap with a 'Google Gemini training lawsuit' story. The only prior touch in books history is a single passing sentence inside the bloomsbury-ai-licensing earnings round-up (whose reported news was Bloomsbury's licensing revenue, not the suit). Consistent with prior pipeline practice, that contextual mention does not count as publishing the lawsuit; the dedicated suit is treated as net-new and kept."
-    },
-    "backfill": "No further candidates to backfill — the filtered pool contained only these 3 items. Cannot reach floor of 3 after dropping the Anthropic duplicate; not padded.",
-    "diversity": "Two distinct outlets (janefriedman.com, bookriot.com). Single-category section (books): pick 1 uses the category accent #f5a623; pick 2 given a distinct palette accent #0070f3 to differentiate. Both motif swatch per sources.json."
+    "checked_against": "sections.books in news_data.json — today + last 5 days (Publishers/Hachette v. Google Gemini, ElevenLabs/Odyssey narration, Anthropic $1.5B settlement + Bloomsbury, Substack Pangram detection, Wiley Genesis Mission, IPA Congress AI, Spoken 61% AI-narration study, publisher AI-adoption report, lithub 'hologram problem').",
+    "dropped_duplicates": "None among the final 2. Both are URL-distinct and content-distinct from every published books card. UD/Google Books item cleared vs the Anthropic/Bloomsbury licensing cards (distinct institution, consented-corpus framing). HK Book Fair AI theme cleared vs the IPA Congress AI panel (different event, different framing).",
+    "shortfall_reason": "Section is BELOW floor. Librarian recovery cap exhausted (WebSearch 200/200); only 2 fresh net-new, verifiable, AI-central items survived the 336h window. Not padded with stale/off-topic/duplicate items.",
+    "diversity": "Single books category, so the two picks carry distinct palette accents (#f5a623, #7928ca) and distinct motifs (swatch, frame). Both from Publishing Perspectives roundups but pointing at distinct primary events; each gets a distinct primary-source visual."
   }
 }

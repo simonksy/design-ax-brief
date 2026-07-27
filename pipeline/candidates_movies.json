@@ -1,62 +1,44 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "movies",
   "window_hours": 336,
-  "now_iso": "2026-07-26T23:27:43Z",
-  "note": "Unattended movies collection. Movies AI-craft press is thin in the 14-day window and the strongest outlets (Variety/Hollywood Reporter/IndieWire/Deadline route through tollbit -> HTTP 402; AWN/Animation Magazine -> HTTP 403) could not be date-verified, so those were dropped per the 'no verifiable published time' rule (e.g. Variety 'Utopai Most Serious Fart', 'Panjaya x Shortical AI dubbing', 'Google $75M into A24'; AWN 'Higgsfield Kok Boru', 'Digital Domain DDAI'; Animation Magazine 'Disney Jr Ozzy Fox'). Result: 6 fresh, non-duplicate, AI-film-craft items across 6 distinct outlets (engadget, nofilmschool, redsharknews, lumalabs, 80.lv, postperspective). Dropped as STALE (out of 336h window): fxguide SwitchHDR (Jul 9), nofilmschool Seedance 2.5 (Jun 23)/Doug Liman gray box (Apr 15)/Beeble Canvas (May 19)/Runway Gen-4.5 (Jan 22)/Kling 3.0 (Feb 6)/Adobe MotionStream (Apr 10)/Imagen (Apr 21), redsharknews SwitchLight 3.0 (Dec 10)/NVIDIA DLSS5 (Mar 20), postperspective Pixotope-Volinga (May 13)/Tether (Jan 26), 80.lv OctaneStudio+ (Dec 2)/OctaneRender 2027.1 (Mar 17)/SALT (2022)/Blender Overgrown (Jul 8)/Hyper3D Rodin (Jun 3), fxguide Foundry Griptape (Feb 19)/Champion (2022)/Wonder Animation (2024). Dropped as duplicates of already-published cards (covered_recently per keywords note): Foundry SmartRoto (postperspective/fxguide Jul 16), Lightcraft Spark Story previz (postperspective Jul 17). lumalabs.ai is off the allowed_domains whitelist but kept under the off-list exception: a genuine AI generative-video workflow case study that on-list sources did not cover. freshness.py gated every kept item with section=movies -> all FRESH.",
+  "now_iso": "2026-07-27T22:05:00Z",
+  "note": "Unattended movies collection for 07-28. Movies AI-craft press is thin inside the 14-day (336h) window and, worse, most of the fresh vein was already published in the 07-21..07-27 cards (Netflix AI-in-300-titles, Grok Odyssey, Luma Serviceplan, Meshy 3D Agent, SwitchLight 3 / SwitchHDR relighting, NVIDIA neural-rendering keynote, Autodesk MotionMaker/3DGS, Lightcraft Spark Story previz, Adobe Premiere generative beta, Foundry SmartRoto + Griptape, Kok Boru anim short). Extensive expansion beyond keyword_pool: AI VFX, virtual production, de-aging/digital-likeness, screenwriting, dubbing/lip-sync, short-film festivals, text-to-video, markerless mocap (Move AI), AI scene/set generation (Cuebric), AI color grading (ColourLab/Imagen), AI trailer, AI animation, Hollywood AI deals, plus YouTube social (Matt Wolfe / Corridor Crew) — swept variety, hollywoodreporter, deadline, indiewire, screendaily, nofilmschool, fxguide, provideocoalition, postperspective, redsharknews, 80.lv, engadget, cartoonbrew, animationmagazine, awn, vfxvoice, beforesandafters, definitionmagazine, studiodaily, youtube. HARD BLOCKERS this run: (a) Variety/Hollywood Reporter/Deadline/IndieWire all route through tollbit -> HTTP 402/307, so genuinely fresh items there (Tilly Norwood 'Misaligned', Google $75M A24, Jon Erwin 'Young Washington' ~100 AI shots, Gossip Goblin AI feature 'Gods Don't Give Gifts', Koreeda 'Sheep in the Box') could NOT be date-verified and were dropped per the no-verifiable-time rule; (b) AWN and animationmagazine.net (SIGGRAPH festival winner 'Apart', DeepMind 'Dear Upstairs Neighbors' AI-assisted short) return HTTP 403 -> unverifiable, dropped; (c) theverge.com not crawlable by our agent. Dropped as STALE (pre 07-13T22:05Z): Tilly Norwood engadget (Jul 6), Netflix INKubator (May), CapCut Seedance 2.0 (Mar 26), Higgsfield all-in-one (Jan 30), Scriptlaunch (Apr 21), Roger Avary AI films (Feb 16), Aronofsky Primordial Soup (May 2025), Runway Seedance 2.0 (Apr 7), ColourLab Look Designer 2 (2021), Framestore CopyCat (2021), Premiere AI Assistant (Jun 18), Avid+Gemini (Apr), Move AI Genesis (Apr), Cuebric (NAB Apr / 2023), Beeble SwitchX (Feb/Mar), Val Kilmer 'As Deep as the Grave' (Apr 15), Autodesk 80.lv (Mar 25), fxguide VES panel (Feb 2025)/SIGGRAPH-AI-videos (2023). Result: 3 fresh, on-topic, verifiable items across 3 outlets. NOTE FOR CURATOR: items #2 (ProVideo, Jul 20) and #3 (RedShark, Jul 22) both cover the SAME SIGGRAPH 2026 Puget Systems booth AI-relighting demo (Beeble SwitchLight 3 on Corridor Crew's 'Son of a Dungeon' -> Unreal), from two outlets/angles — pick ONE. WebSearch budget (200/200) was exhausted during the sweep. freshness.py gated every kept item section=movies -> all FRESH. [RECOVERY 07-28: WebSearch budget already 200/200, so ran a WebFetch listing-page sweep of allowed movies domains with ADJACENT terms not previously tried (AI dubbing/localization, AI animation-studio pipelines, AI short-film festivals, post-production AI-tool adoption/risk). Added +1 net-new, verifiable, in-window item: ProVideo Coalition (Jeff Greenberg, Jul 24) on vetting independent AI-assisted tools in post pipelines. Cartoonbrew (Netflix-300 / Disney-Jr Animaj Ozzy) = already-carded dupes; fxguide (SmartRoto/SwitchHDR/ComfyUI), postperspective (Autodesk/Foundry/HP), beforesandafters (Reallusion, Jun 26 stale) all dupes or stale; awn/animationmagazine 403; screendaily/studiodaily 404/redirect. NOTE: existing item #2 ProVideo Puget Robo Dojo (Jul 20) duplicates a published 07-21 card — curator should treat #3 RedShark Puget as its net-new twin.]",
   "items": [
-    {
-      "category": "movies",
-      "source": "Engadget",
-      "title": "Netflix says it's already used AI in 'roughly 300' titles this year",
-      "url": "https://www.engadget.com/2217157/netflix-says-it-s-already-used-ai-in-roughly-300-titles-this-year/",
-      "published_iso": "2026-07-16T22:51:00Z",
-      "excerpt": "Netflix disclosed in its Q2 shareholder letter that generative-AI workflows were used in roughly 300 titles released or produced in 2026, concentrated in post-production (enhanced crowds, historical battle sequences, establishing shots). It named Glory (India), Brasil 70: A Saga do Tri and The American Experiment as examples, arguing the tools deliver higher-quality output faster and cheaper while human expertise stays essential.",
-      "og_image": "https://www.engadget.com/img/gallery/netflix-says-its-already-used-ai-in-roughly-300-titles-this-year/intro-1784242266.jpg"
-    },
     {
       "category": "movies",
       "source": "No Film School",
       "title": "Meet Martini: A Film Set for AI Video That Aims to Help Filmmakers Streamline Their Shots",
       "url": "https://nofilmschool.com/martini-ai-film-set",
       "published_iso": "2026-07-17T12:00:00Z",
-      "excerpt": "Martini is a collaborative web-based platform pitched as a 'film set' for AI video production, giving filmmakers real cinematic controls and shot composition in 2D or 3D environments instead of trial-and-error prompt generation. It doubles as a pre-production hub where crews can plan and block shots together in real time, with a free indie tier and paid plans from $15/month.",
+      "excerpt": "Martini is a collaborative, web-based platform pitched as a virtual 'film set' for AI video production: filmmakers get real cinematic controls — fly around a 2D/3D scene and operate a virtual camera to find coverage — instead of prompt-roulette with generative video models. It doubles as a real-time collaborative pre-production hub with NLE-compatible timeline and XML export, launching freemium with paid tiers from $15/month.",
       "og_image": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
     },
     {
       "category": "movies",
+      "source": "ProVideo Coalition",
+      "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
+      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
+      "published_iso": "2026-07-20T12:00:00Z",
+      "excerpt": "At SIGGRAPH 2026 Puget Systems' booth showcased a stack of generative-AI film workflows: Beeble Studio running SwitchLight 3 on native 4K footage to generate PBR relighting passes that import into Unreal Engine for real-time rendering; Volinga building/training/editing 3D Gaussian-splat scenes independent of Unreal; and a KeyShot Studio 'AI Shots' workflow that applies generative changes to an image while preserving CAD data, lighting and perspective.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg"
+    },
+    {
+      "category": "movies",
       "source": "RedShark News",
-      "title": "Elon Musk claims Grok will make a 'historically accurate' Odyssey by the end of the year",
-      "url": "https://www.redsharknews.com/elon-musk-claims-grok-will-make-a-historically-accurate-odyssey-by-the-end-of-the-year",
-      "published_iso": "2026-07-26T09:00:00Z",
-      "excerpt": "Elon Musk says xAI's Grok Imagine will generate a full-length, 'historically accurate' film adaptation of Homer's Odyssey by year's end, framing generative text-to-video as a rival to Christopher Nolan's theatrical version. The sample footage shown so far has significant quality issues, making the claim a test of how far AI feature generation can actually go.",
-      "og_image": "https://www.redsharknews.com/hubfs/odyssey%20grok%20imagine.jpg"
-    },
-    {
-      "category": "movies",
-      "source": "Luma AI",
-      "title": "How Serviceplan MAKE Uses Luma to Put Creativity First",
-      "url": "https://lumalabs.ai/news/how-serviceplan-make-uses-luma-to-put-creativity-first",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "excerpt": "Case study: agency Serviceplan MAKE uses Luma's generative video to visualize concepts and deliver client-ready shots in a single day instead of multi-day studio production. The workflow shift moves time away from execution/post toward concept refinement and faster client feedback.",
-      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/dc33a436e1a717f5fe42bc0927c8a98a6ca68003-1920x1080.png"
-    },
-    {
-      "category": "movies",
-      "source": "80 Level",
-      "title": "Meshy Wants AI to Feel Less Like a Prompt and More Like a Creative Partner",
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "excerpt": "Meshy launched its 3D Agent Beta, a conversational AI that acts as a creative collaborator rather than a one-shot prompt tool, holding context across a session so artists can set a consistent art direction and generate stylistically unified families of 3D assets. It positions AI for early-stage concept exploration for film/VFX and animation pipelines while keeping artistic control with the creator.",
-      "og_image": ""
-    },
-    {
-      "category": "movies",
-      "source": "postPerspective",
-      "title": "Autodesk Adds AI and 3DGS Tools Across Maya, 3ds Max and More at SIGGRAPH 2026",
-      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
+      "title": "Puget Systems at SIGGRAPH 2026: The Robo Dojo",
+      "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
       "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "At SIGGRAPH 2026 Autodesk unveiled AI and 3D Gaussian Splats updates across its creative suite: MotionMaker in Maya gains 'Bring Your Own Data' so teams can train custom generative motion models on their own rigs and animation datasets, 3ds Max adds fully editable 3DGS with native Arnold rendering, and Flow Production Tracking adds real-time collaborative review. The tools target repetitive animation, real-world object recreation and iterative lighting.",
+      "excerpt": "RedShark's SIGGRAPH 2026 report on the Puget Systems Robo Dojo booth highlights Beeble AI and District Cinema demonstrating the AI lighting workflow behind Corridor Crew's 'Son of a Dungeon' Season 3: SwitchLight 3 generates physically based rendering passes for relighting and scene reconstruction from 4K cinematic footage, then feeds them into Unreal Engine for real-time rendering on an NVIDIA RTX PRO 6000 Blackwell workstation.",
+      "og_image": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg"
+    },
+    {
+      "category": "movies",
+      "source": "ProVideo Coalition",
+      "title": "The rise of the independent AI-assisted developer tools: warnings and considerations",
+      "url": "https://www.provideocoalition.com/the-rise-of-the-independent-ai-assisted-developer-tools-warnings-and-considerations/",
+      "published_iso": "2026-07-24T12:00:00Z",
+      "excerpt": "ProVideo Coalition's Jeff Greenberg examines the flood of small, AI-assisted independent tools now entering post-production pipelines, sorting them into 'Gold Rush' profit plays vs genuine 'Problem Solver' utilities. He lays out five questions editors and facilities should ask before trusting one on client work — maintenance if the developer vanishes, API/platform compatibility, documented failure conditions, credential/data security, and update cadence — arguing that in a craft where reliability is the product, unvetted AI tools are accumulated risk.",
       "og_image": ""
     }
   ]

@@ -1,10 +1,21 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "design",
   "media": [
-    {"id": "figma", "type": "image", "src": "pipeline/media/figma.png"},
-    {"id": "designmd", "type": "image", "src": "pipeline/media/designmd.png"},
-    {"id": "vibecoding", "type": "image", "src": "pipeline/media/vibecoding.png"},
-    {"id": "google-creativity", "type": "image", "src": "pipeline/media/google-creativity.png"}
+    {
+      "id": "pincushion-ui-feedback",
+      "type": "image",
+      "src": "pipeline/media/pincushion-ui-feedback.png"
+    },
+    {
+      "id": "ai-websites-samey",
+      "type": "image",
+      "src": "pipeline/media/ai-websites-samey.png"
+    },
+    {
+      "id": "netflix-genai-boycott",
+      "type": "image",
+      "src": "pipeline/media/netflix-genai-boycott.jpg"
+    }
   ]
 }

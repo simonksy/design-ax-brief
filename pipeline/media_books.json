@@ -1,8 +1,16 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "books",
   "media": [
-    { "id": "google-gemini-suit", "type": "svg" },
-    { "id": "elevenlabs-odyssey", "type": "image", "src": "pipeline/media/elevenlabs-odyssey.jpg" }
+    {
+      "id": "udgooglebooks",
+      "type": "image",
+      "src": "pipeline/media/udgooglebooks.jpg"
+    },
+    {
+      "id": "hkbookfair",
+      "type": "image",
+      "src": "pipeline/media/hkbookfair.jpg"
+    }
   ]
 }

@@ -1,11 +1,31 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "gadgets",
   "media": [
-    { "id": "apple-glasses", "type": "image", "src": "pipeline/media/apple-glasses.jpg" },
-    { "id": "cirqa", "type": "image", "src": "pipeline/media/cirqa.jpg" },
-    { "id": "neo", "type": "video", "src": "pipeline/media/neo.mp4", "poster": "pipeline/media/neo.jpg" },
-    { "id": "gemini-home", "type": "image", "src": "pipeline/media/gemini-home.jpg" },
-    { "id": "robot-phone", "type": "image", "src": "pipeline/media/robot-phone.jpg" }
+    {
+      "id": "amd-x100-robots",
+      "type": "image",
+      "src": "pipeline/media/amd-x100-robots.jpg"
+    },
+    {
+      "id": "byd-xiaodi-robot",
+      "type": "image",
+      "src": "pipeline/media/byd-xiaodi-robot.jpg"
+    },
+    {
+      "id": "brainco-bci-robot",
+      "type": "image",
+      "src": "pipeline/media/brainco-bci-robot.jpg"
+    },
+    {
+      "id": "looki-ai-pendant",
+      "type": "image",
+      "src": "pipeline/media/looki-ai-pendant.jpg"
+    },
+    {
+      "id": "meta-glasses-subscription",
+      "type": "image",
+      "src": "pipeline/media/meta-glasses-subscription.jpg"
+    }
   ]
 }

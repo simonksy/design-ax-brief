@@ -1,73 +1,50 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "section": "movies",
   "selection_mode": "auto",
   "picks": [
     {
+      "title": "Meet Martini: A Film Set for AI Video That Aims to Help Filmmakers Streamline Their Shots",
+      "headline": "Meet Martini: A Film Set for AI Video That Aims to Help Filmmakers Streamline Their Shots",
+      "url": "https://nofilmschool.com/martini-ai-film-set",
+      "source": "No Film School",
+      "published_iso": "2026-07-17T12:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/martini-ai-film-set.jpg?id=67500437&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+      "excerpt": "Martini is a collaborative, web-based platform pitched as a virtual 'film set' for AI video production: filmmakers get real cinematic controls — fly around a 2D/3D scene and operate a virtual camera to find coverage — instead of prompt-roulette with generative video models. It doubles as a real-time collaborative pre-production hub with NLE-compatible timeline and XML export, launching freemium with paid tiers from $15/month.",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Netflix says it's already used AI in 'roughly 300' titles this year",
-      "url": "https://www.engadget.com/2217157/netflix-says-it-s-already-used-ai-in-roughly-300-titles-this-year/",
-      "source": "Engadget",
-      "published_iso": "2026-07-16T22:51:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/netflix-says-its-already-used-ai-in-roughly-300-titles-this-year/intro-1784242266.jpg",
-      "excerpt": "Netflix disclosed in its Q2 shareholder letter that generative-AI workflows were used in roughly 300 titles released or produced in 2026, concentrated in post-production (enhanced crowds, historical battle sequences, establishing shots). It named Glory (India), Brasil 70: A Saga do Tri and The American Experiment as examples, arguing the tools deliver higher-quality output faster and cheaper while human expertise stays essential.",
-      "rationale": "Hard scale signal from a major studio-buyer — AI post is now baseline across ~300 titles, reframing where VFX and post craft time actually goes; credible Engadget report on a fresh Q2 disclosure."
+      "rationale": "A concrete new craft tool: a Figma-like virtual film set that swaps prompt-roulette for real camera/coverage controls and exports XML to Premiere/Resolve — directly changes how filmmakers and DPs approach AI-video shots. Fresh, distinct, and net-new to the movies section."
     },
     {
+      "title": "The rise of the independent AI-assisted developer tools: warnings and considerations",
+      "headline": "The rise of the independent AI-assisted developer tools: warnings and considerations",
+      "url": "https://www.provideocoalition.com/the-rise-of-the-independent-ai-assisted-developer-tools-warnings-and-considerations/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-07-24T12:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Reddit-vibe-coder-1024x512.jpg",
+      "excerpt": "ProVideo Coalition's Jeff Greenberg examines the flood of small, AI-assisted independent tools now entering post-production pipelines, sorting them into 'Gold Rush' profit plays vs genuine 'Problem Solver' utilities. He lays out five questions editors and facilities should ask before trusting one on client work — maintenance if the developer vanishes, API/platform compatibility, documented failure conditions, credential/data security, and update cadence — arguing that in a craft where reliability is the product, unvetted AI tools are accumulated risk.",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "Elon Musk claims Grok will make a 'historically accurate' Odyssey by the end of the year",
-      "url": "https://www.redsharknews.com/elon-musk-claims-grok-will-make-a-historically-accurate-odyssey-by-the-end-of-the-year",
-      "source": "RedShark News",
-      "published_iso": "2026-07-26T09:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/odyssey%20grok%20imagine.jpg",
-      "excerpt": "Elon Musk says xAI's Grok Imagine will generate a full-length, 'historically accurate' film adaptation of Homer's Odyssey by year's end, framing generative text-to-video as a rival to Christopher Nolan's theatrical version. The sample footage shown so far has significant quality issues, making the claim a test of how far AI feature generation can actually go.",
-      "rationale": "Novel and freshest item — sets a public year-end benchmark for feature-length text-to-video against a Nolan release, a concrete stake-in-the-ground for how far gen-video craft is being pushed; distinct outlet keeps the set diverse."
-    },
-    {
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "title": "How Serviceplan MAKE Uses Luma to Put Creativity First",
-      "url": "https://lumalabs.ai/news/how-serviceplan-make-uses-luma-to-put-creativity-first",
-      "source": "Luma AI",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/dc33a436e1a717f5fe42bc0927c8a98a6ca68003-1920x1080.png",
-      "excerpt": "Case study: agency Serviceplan MAKE uses Luma's generative video to visualize concepts and deliver client-ready shots in a single day instead of multi-day studio production. The workflow shift moves time away from execution/post toward concept refinement and faster client feedback.",
-      "rationale": "Highest actionability — a concrete production-workflow case study that collapses multi-day studio shoots to same-day client-ready shots, directly changing how a craft team allocates time tomorrow."
-    },
-    {
-      "tool": "Movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "title": "Meshy Wants AI to Feel Less Like a Prompt and More Like a Creative Partner",
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
-      "source": "80 Level",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Meshy launched its 3D Agent Beta, a conversational AI that acts as a creative collaborator rather than a one-shot prompt tool, holding context across a session so artists can set a consistent art direction and generate stylistically unified families of 3D assets. It positions AI for early-stage concept exploration for film/VFX and animation pipelines while keeping artistic control with the creator.",
-      "rationale": "Actionable pipeline shift for film/VFX concepting — a context-holding 3D agent that keeps art direction consistent across an asset family, changing how previz and asset exploration is done; adds an under-represented tool/outlet to the set."
+      "rationale": "A practitioner's decision framework — five concrete questions to vet AI tools before they touch client work — that changes how editors and post facilities adopt the wave of small AI utilities tomorrow. High actionability, credible craft voice, distinct angle from the tool-release stories."
     }
   ],
-  "shortfall": false,
-  "shortfall_reason": null,
+  "shortfall": true,
+  "shortfall_reason": "Only 2 of the 3 filtered candidates survived dedup. Candidate #2 (RedShark News, 'Puget Systems at SIGGRAPH 2026: The Robo Dojo', 2026-07-22) covers the identical event/demo already published on 2026-07-21 as the 'switchlight3' card: Beeble AI + District Cinema relighting Corridor Crew's 'Son of a Dungeon' with SwitchLight 3 into Unreal Engine at the Puget Robo Dojo booth. Per the ax-curator hard dedup rule ('same event/release covered via a different outlet = duplicate; each distinct story appears on exactly one date'), it was dropped even though the collector flagged it as a 'net-new twin' — publishing it would repeat the same SIGGRAPH relighting demo on the site within one week. The pool is genuinely exhausted (WebSearch budget 200/200; recovery sweep already run), so the floor of 3 cannot be met without padding a duplicate. Publishing the 2 genuinely fresh, distinct stories (Martini, ProVideo independent-tools).",
   "dedup_report": {
-    "candidates_evaluated": 4,
-    "kept": 4,
-    "dropped_as_duplicates": 0,
+    "candidates_evaluated": 3,
+    "kept": 2,
+    "dropped_as_duplicates": 1,
     "floor": 3,
     "cap": 5,
-    "baseline": "news_data.json -> sections.movies: today 2026-07-25 (smartroto fxguide, sparkstory awn, griptape postperspective) + days 2026-07-24/23/22/21/19 (premiere-genmedia, kokboru, sam2matte, promiseai, hpzcaptis, substance3d, switchhdr, nvidia-keynote, spark-story, project-indigo, blomkamp nightborn, martini, curious-refuge-ai-tools, switchlight3). Checked all four fresh candidates by URL and content against that history.",
-    "this_run_candidate_pool": "pipeline/candidates_filtered_movies.json (4 items). Section is thin in-window; all 4 are fresh, non-duplicate AI-film-craft stories across 4 distinct outlets. Selected all 4 (pool exhausted below cap of 5).",
-    "no_match_notes": [
-      "Engadget 'Netflix ~300 titles' — no prior Netflix-AI-scale card in movies history; distinct URL and content.",
-      "RedShark 'Grok Odyssey' — distinct from the previously published redsharknews 'Adobe Project Indigo AI Playground' card; different URL, different story.",
-      "Luma 'Serviceplan MAKE' — new case study, no prior Luma or Serviceplan card in movies history.",
-      "80.lv 'Meshy 3D Agent Beta' — not present in movies section history; fresh for this section. (An identical-URL card ran in the DESIGN section on 2026-07-22, but per-section dedup governs here and movies history has no match, so it is kept.)"
-    ],
-    "diversity": "4 picks across 4 distinct outlets (Engadget, RedShark News, Luma AI, 80 Level) — max 1 per outlet, satisfies the final diversity guard. Single-category 'movies' section, so each pick carries a distinct accent (#0070f3, #f5a623, #7928ca, #2ec5c5) and the shared 'frame' motif."
+    "drops": [
+      {
+        "title": "Puget Systems at SIGGRAPH 2026: The Robo Dojo",
+        "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
+        "source": "RedShark News",
+        "reason": "Content-duplicate of already-published 2026-07-21 card 'switchlight3' (ProVideo Coalition, Puget Robo Dojo) — same Beeble SwitchLight 3 / Corridor Crew 'Son of a Dungeon' -> Unreal relighting demo at the same SIGGRAPH 2026 booth."
+      }
+    ]
   }
 }
