@@ -160,10 +160,10 @@ SHARE_TMPL = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{title} · Design AX Brief</title>
+<title>{title} · AX-it NOW</title>
 <meta name="description" content="{desc}">
 <meta property="og:type" content="article">
-<meta property="og:site_name" content="Design AX Brief">
+<meta property="og:site_name" content="AX-it NOW">
 <meta property="og:locale" content="ko_KR">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{desc}">
@@ -176,7 +176,7 @@ SHARE_TMPL = """<!DOCTYPE html>
 <script>location.replace({appurl_js})</script>
 </head>
 <body style="margin:0;height:100vh;display:flex;align-items:center;justify-content:center;background:#f1ece4;font-family:Pretendard,system-ui,sans-serif;color:#171717">
-<a href="{appurl}" style="color:#171717;text-decoration:none;font-size:15px">Design AX Brief — 카드 열기 →</a>
+<a href="{appurl}" style="color:#171717;text-decoration:none;font-size:15px">AX-it NOW — 카드 열기 →</a>
 </body>
 </html>
 """
