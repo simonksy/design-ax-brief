@@ -425,7 +425,7 @@ function SubscribeModal({ onClose, t }) {
       display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
         padding: 24, width: 320, maxWidth: '88vw', fontFamily: 'Pretendard, system-ui' }}>
-        <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>Design AX Brief 구독</p>
+        <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>AX-it NOW 구독</p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
           구독하면 모든 카테고리의 전체 뉴스와 심층분석을 볼 수 있어요.
         </p>
