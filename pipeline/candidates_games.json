@@ -1,53 +1,99 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "games",
-  "now_iso": "2026-07-25T23:00:47Z",
+  "now_iso": "2026-07-26T23:27:43Z",
   "window_hours": 336,
-  "count": 5,
+  "count": 10,
+  "note": "Fresh (14-day) AI x games news is largely exhausted / already covered in the last week of cards. The rotated keyword set (procedural gen, playtesting/QA, level design, animation/mocap, text-to-game, dynamic difficulty, localization, bug detection, NVIDIA ACE, character creation, mod/UGC, world models) plus siblings (Inworld, Convai, Roblox, Unity 6.5, Godot AI Hub, Meshy, Tripo/Hunyuan/Rodin, Korean 게임 AI) was swept across the full allowed_domains list. Almost every on-topic result dated Jan-Jun 2026 or 2023-2025 (STALE): Roblox Cube model (Feb 5), Take-Two/GTA6 (Feb 4), Unity 6.5 in-editor AI beta (May 5), Sony/Larian (May 8/12), Hyper3D Rodin (Jun 3), Maya MotionMaker (Jun 6), UE6 Claude/Gemini State-of-Unreal (Jun 17), gamedeveloper GDC surveys (Mar), Tencent VISVISE (Aug 2025), Kaneko/Persona (Jul 22, already covered), Let's Build a Dungeon (Jul 25, no AI hook). WebFetch returns nav-only/JS-empty on pcgamer & gamesradar and HTTP 403 on wccftech/gamespot and 429 on venturebeat, so published_time was verified by curling raw HTML and reading JSON-LD datePublished / og article:published_time. Off-list items dropped for whitelist discipline: Roblox 'Build' mobile text-to-game (Jul 16, a genuinely strong rested item but only on techcrunch/gameshub/gamerant/massivelyop; gameshub returned a JS shell so date unverifiable, and techcrunch is the specifically-warned general-tech backfill outlet), Godot AI Assistant Hub 2.0 (Jul 12, GitHub/asset-library only), Kimi K3 & General Intuition $320M (general-AI/funding noise). Pool skews to two topic clusters (Steam AI-disclosure, NVIDIA SIGGRAPH neural rendering) plus Meshy 3D-agent; both SIGGRAPH/Steam clusters overlap prior cards, so curator should dedup against published URLs and may fall short of 5 fully-rested picks this cycle. Outlets: 80.lv 1, PC Gamer 1, GamesRadar+ 2, Wccftech 2 (all <=3 cap). | RECOVERY PASS (WebSearch budget exhausted; used curl of allowed-domain RSS/tag pages + JSON-LD/og:published_time). Appended 4 NET-NEW fresh non-dup items avoiding the 3 already-published clusters (Steam AI-disclosure study, DLSS 5, NVIDIA SIGGRAPH) and all other covered stories in news_data.json: Roblox 'Build' text-to-game (RPS, 07-16), PC Gamer AI videogame music discussion (07-26), PC Gamer poll 100% Japanese online devs using AI (07-15), Eurogamer Duskbloods Google AI hallucination (07-22, weaker design hook). Mainstream game-press AI feeds (gamesindustry.biz AI feed freshest net-new = Studio Atelico already covered; gamedeveloper/80.lv/ign/gamespot/gamesradar/eurogamer/vg247/thegamer/venturebeat/deepmind/unity/unreal) were swept and are otherwise dry or stale for net-new AI x games design stories in the 336h window. Per-source cap respected: PC Gamer now 3 (incl. prior Steam item), all others <=3; distinct outlets = 6.",
   "items": [
     {
-      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
-      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-14T14:20:43Z",
-      "excerpt": "Slay the Spire 2's lead defends deliberately rough hand-made placeholder art in Early Access, arguing generative AI 'would ruin it' because polished AI fill-ins make players judge an unfinished build as a finished 1.0 — a craft-and-iteration case against gen AI in the art pipeline.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
+      "title": "Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner",
+      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
+      "source": "80 Level",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "excerpt": "Meshy has opened its 3D Agent Beta to all users — a fully conversational, multi-step AI agent built for 3D creation that keeps context across an ongoing chat, so artists can brainstorm concepts, refine ideas, and batch-generate style-consistent game assets before converting selected concepts into textured 3D models. The company positions AI as a creative collaborator for concept exploration and background/secondary assets rather than a replacement for professional artists, and says more than 12 million registered users have generated over 100 million 3D models on the platform.",
+      "og_image": null,
       "category": "games"
     },
     {
-      "title": "Mario Kart Wii is being rebuilt for PC, but the project's AI vibe-coding instantly soured many Nintendo fans",
-      "url": "https://www.gamesradar.com/games/racing/mario-kart-wii-is-being-rebuilt-for-pc-but-the-projects-ai-vibe-coding-instantly-soured-many-nintendo-fans-on-the-project/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-23T21:55:25Z",
-      "excerpt": "A fan effort billed as 'the first static recompilation of a Wii game' has drawn backlash after the team leaned on AI vibe-coding, reopening the debate over whether AI-assisted tooling yields quality PC ports or low-effort output that erodes trust in preservation projects.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dz78u7jn2wiEyfBAbmj6e3-1920-80.jpg",
-      "category": "games"
-    },
-    {
-      "title": "\"Steam's required AI disclosure is the right move\": Devs say gen AI should be called out in games and support Valve's store mandate",
-      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-21T20:21:08Z",
-      "excerpt": "Developers push back on Epic's Tim Sweeney over Valve's AI labels, arguing that disclosing generative-AI content shipped to players is a baseline transparency and creative-credit standard — a workflow/ethics question every storefront and studio now has to answer.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
-      "category": "games"
-    },
-    {
-      "title": "Steam Week in Review: more than half of new Steam games will have an AI-disclosure by 2027-2028",
+      "title": "Steam Week in Review: Take cover, because it looks like more than half of new Steam games will have an AI-disclosure by 2027-2028",
       "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
       "source": "PC Gamer",
       "published_iso": "2026-07-20T03:35:52Z",
-      "excerpt": "A census of Steam releases finds 30.8% of 2026 games now carry an AI-content disclosure, up from 10.9% in 2024, with the trajectory pointing at a majority of new releases labelling generative-AI content within two years — a fast-shifting norm for how studios ship AI-made assets.",
+      "excerpt": "Roughly 31% of games released on Steam in 2026 so far carry a generative-AI content disclosure, and at the current trajectory PC Gamer projects around half of all new Steam releases will be AI-flagged somewhere between 2027 and 2028. The weekly roundup tracks how fast AI-assisted development is spreading across the storefront and what Valve's mandatory disclosure data reveals about the shift.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/AWsSzZBSvPQVFFuS2oKTcL-1200-80.png",
       "category": "games"
     },
     {
-      "title": "iOS developer made a Capybara game using vibe-coding and won $25,000",
-      "url": "https://wccftech.com/ios-developer-made-capybara-game-using-vibe-coding-and-won-25000/",
+      "title": "Half of all games released on Steam will use AI by 2028, study predicts: 'AI lowers the barrier not just to make a game but to make several'",
+      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-07-16T21:05:00Z",
+      "excerpt": "A study analyzing more than 53,000 Steam releases from 2023 to 2026 finds AI-use disclosures climbing steeply, predicting that AI-flagged titles will cross roughly half of all new Steam releases around 2027-2028. Researchers argue generative AI 'lowers the barrier not just to make a game but to make several,' fueling worries about storefront discoverability and a flood of low-effort, near-duplicate games.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
+      "category": "games"
+    },
+    {
+      "title": "'Steam's required AI disclosure is the right move': Devs say gen AI should be called out in games and support Valve's store mandate",
+      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-07-21T20:21:08Z",
+      "excerpt": "Developers interviewed by GamesRadar+ back Valve's mandatory AI-use disclosures on Steam, arguing that generative AI baked into a shipped game should be clearly labeled so players can make informed choices. The piece collects developer reactions endorsing store-level transparency and wishing other platforms would adopt the same requirement as AI-assisted content becomes more common.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
+      "category": "games"
+    },
+    {
+      "title": "NVIDIA DLSS 5 Hands Over Full Control To Artists To 'Direct The Final Frame', As SIGGRAPH Technical Demo Shows Neural Rendering Hitting 4K 'Life-Like' Visuals On A Single GPU",
+      "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
       "source": "Wccftech",
-      "published_iso": "2026-07-13T16:21:17Z",
-      "excerpt": "An iOS developer built a Capybara food-delivery game almost entirely by 'vibe-coding' with Claude Code and won a $25,000 prize — a concrete example of AI coding agents collapsing the barrier for a solo creator to ship a finished mobile game.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg",
+      "published_iso": "2026-07-21T19:35:40Z",
+      "excerpt": "At SIGGRAPH 2026 NVIDIA detailed DLSS 5's neural rendering pipeline, distilling knowledge from much larger models into a compact single-purpose 'one-step pixel-space diffusion transform' that targets 4K at 60+ FPS with low latency on a single GPU. Responding to early concerns, NVIDIA emphasized new developer-facing controls that let technical artists retain 'artistic integrity' and direct the final frame rather than cede look-development entirely to the AI model.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
+      "category": "games"
+    },
+    {
+      "title": "NVIDIA Graphics Research Accelerates Simulation & Physical AI Through 21 Breakthrough Technologies at SIGGRAPH",
+      "url": "https://wccftech.com/nvidia-graphics-research-accelerates-simulation-physical-ai-21-breakthroughs-siggraph/",
+      "source": "Wccftech",
+      "published_iso": "2026-07-20T15:00:14Z",
+      "excerpt": "NVIDIA Graphics Research presented 22 technical breakthroughs at SIGGRAPH 2026 spanning neural rendering, differentiable simulation, world models, and physical AI. The advances target real-time graphics and AI-assisted content pipelines — the underlying tech that increasingly feeds game rendering, simulation, and generative asset/animation workflows rather than just film VFX.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-20_13-20-31-1920x1080.jpg",
+      "category": "games"
+    },
+    {
+      "title": "Roblox announce plans to let people AI-generate basic games using text prompts in a mobile app, but claim it won't fill their homepage with AI slop",
+      "url": "https://www.rockpapershotgun.com/roblox-announce-plans-to-let-people-ai-generate-basic-games-using-text-prompts-stuck-into-a-mobile-app-but-claim-that-wont-fill-their-homepage-with-ai-slop",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-07-16T15:32:31Z",
+      "excerpt": "Roblox has unveiled 'Build', a mobile app that lets anyone generate a basic playable game from natural-language text prompts, part of a push to lower the barrier to creation on the platform. The company insists the AI-generated experiences won't flood its homepage with low-effort 'slop', framing the tool as an on-ramp for new creators rather than a replacement for its established Studio pipeline. It's a notable text-to-game milestone from one of the biggest UGC platforms, raising fresh questions about discoverability and quality control.",
+      "og_image": "https://assetsio.gnwcdn.com/roblox-build-ai-game-generator-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "category": "games"
+    },
+    {
+      "title": "How do you feel about AI videogame music?",
+      "url": "https://www.pcgamer.com/games/how-do-you-feel-about-ai-videogame-music/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-26T17:00:00Z",
+      "excerpt": "PC Gamer opens a discussion on the growing use of generative AI to compose and produce game soundtracks, asking whether game music still requires 'the human touch'. The piece weighs the creative and craft implications for composers and audio designers as AI music tools become cheap and capable enough to score games, and gathers reader sentiment on where AI-generated scores cross the line for players.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HT5w8rM5i6Rai5xqgTLpmK-1920-80.jpg",
+      "category": "games"
+    },
+    {
+      "title": "Poll finds 100% of Japanese online game developers are using AI, though mostly for user preference analysis and user behavior prediction",
+      "url": "https://www.pcgamer.com/gaming-industry/poll-finds-100-percent-of-japanese-online-game-developers-are-using-ai-though-mostly-for-user-preference-analysis-and-user-behavior-prediction/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-15T15:36:08Z",
+      "excerpt": "A survey from Japan's Online Game Association finds that every polled Japanese online-game developer now uses AI in some form, though adoption skews toward analytics - user-preference analysis and player-behavior prediction - rather than generative content creation. The data offers a rare, concrete snapshot of how a major games market is actually integrating AI into development and live-ops workflows, and where studios are (and aren't) yet trusting it in the creative pipeline.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5BCLDn9uWa9YYLdeqYWPBL-1920-80.png",
+      "category": "games"
+    },
+    {
+      "title": "Reddit is forcing Google AI into hallucinating The Duskbloods characters before FromSoftware's game is even out",
+      "url": "https://www.eurogamer.net/the-duskbloods-google-ai-hallucinations",
+      "source": "Eurogamer",
+      "published_iso": "2026-07-22T09:28:39Z",
+      "excerpt": "Bored fans have spent months inventing fake lore and bosses for FromSoftware's unreleased The Duskbloods on Reddit, and Google's AI Overviews are now surfacing those fabrications as fact. The case is a vivid example of generative AI confidently hallucinating game content from unreliable community sources - a growing headache for studios trying to control the information and narrative around unreleased titles.",
+      "og_image": "https://assetsio.gnwcdn.com/duskbloods-gemini.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "category": "games"
     }
   ]

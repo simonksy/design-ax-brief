@@ -1,96 +1,131 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "section": "gadgets",
   "selection_mode": "auto",
   "picks": [
     {
       "rank": 1,
-      "headline": "Meta Glasses review: a bit less polish, a lot more baggage",
-      "tool": "Meta",
+      "headline": "Apple is banking on privacy to set its smart glasses apart",
+      "tool": "Apple",
       "category": "gadgets",
-      "accent": "#ff5a4d",
+      "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.engadget.com/2217722/meta-glasses-review/",
-      "source": "Engadget",
-      "published_iso": "2026-07-20T13:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/meta-glasses-review-a-bit-less-polish-a-lot-more-baggage/intro-1784311371.jpg",
-      "excerpt": "Meta's new $299 branded AI glasses deliver the same Meta AI voice assistant and camera features as pricier Ray-Ban models, testing whether cheaper hardware can push AI eyewear mainstream.",
-      "rationale": "A real hands-on review of Meta's cheaper $299 AI glasses - the Meta-eyewear counterpoint to Samsung's Unpacked reveals, and a concrete read on whether lower-cost AI glasses are ready for daily use."
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "source": "The Verge",
+      "published_iso": "2026-07-26T19:36:38Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200",
+      "excerpt": "Apple reportedly plans to differentiate its long-rumored AI smart glasses from Meta's Ray-Bans chiefly through privacy, exploring on-device processing and clearer recording indicators. The privacy-first engineering is said to be one reason the product slipped, with a reveal now expected next June at WWDC. The move frames privacy as Apple's central pitch as it enters the crowded AI-glasses race.",
+      "rationale": "Apple staking its AI-glasses entry on privacy (on-device processing, clearer capture indicators) sets the design bar rivals will be measured against — a fresh, high-credibility strategic signal not yet in the gadgets history."
     },
     {
       "rank": 2,
-      "headline": "Samsung's slimmer Galaxy Z Flip 8 brings apps and AI to the cover screen",
-      "tool": "Samsung",
+      "headline": "Garmin Cirqa Smart Band launch: Garmin debuts a screen-free Whoop and Fitbit Air competitor",
+      "tool": "Garmin",
       "category": "gadgets",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.engadget.com/2220510/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/",
-      "source": "Engadget",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/l-intro-1784726324.jpg",
-      "excerpt": "The Galaxy Z Flip 8 pushes Galaxy AI and full apps onto its expanded cover display, letting Gemini-powered features run without opening the phone.",
-      "rationale": "The foldables/Galaxy AI pick - a distinct cover-screen UX story (full apps + Gemini without opening the phone), not the already-published Gemini Nano 4 on-device model announcement."
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/garmin-cirqa-smart-band-launch-garmin-debuts-a-screen-free-whoop-and-fitbit-air-competitor",
+      "source": "Tom's Guide",
+      "published_iso": "2026-07-21T11:19:16Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ehLfvMLtc89egfv55WkLCQ-2560-80.jpg",
+      "excerpt": "Garmin has unveiled the Cirqa, a screen-free smart band that takes on Whoop and the Fitbit Air with subscription-free AI-driven health and sleep tracking. The wearable leans on Garmin's algorithms for recovery, readiness and coaching insights delivered through the app rather than an on-body display. It signals the growing category of minimalist, always-on AI health wearables.",
+      "rationale": "A shipping, subscription-free AI health band from a major brand — actionable for anyone tracking the screen-free wearable category, and distinct from any published gadget."
     },
     {
       "rank": 3,
-      "headline": "An unholy union of smart glasses and wireless earbuds is upon us",
-      "tool": "Gadgets",
+      "headline": "Neo robot hands breakthrough can build LEGOs, unzip jackets, and open a bag of Funyuns",
+      "tool": "1X Neo",
+      "category": "gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
+      "source": "TechRadar",
+      "published_iso": "2026-07-16T20:30:02Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DXVLUwA6f3dvwjjfFPUetY-1920-80.jpg",
+      "excerpt": "1X has shown new dexterity demos for its Neo home humanoid, with the robot's hands building LEGO sets, unzipping jackets and opening snack bags. The fine-motor control marks a step toward the household chores 1X promises Neo will eventually handle autonomously via its Redwood AI model. The clips reignite both excitement and unease about capable humanoids entering the home.",
+      "rationale": "Concrete fine-motor dexterity progress on a consumer home humanoid — a fresh, tangible milestone (distinct from the earlier BrainCo BCI-robot story) showing where household robotics is heading."
+    },
+    {
+      "rank": 4,
+      "headline": "Gemini for Home context memory expands to 15 mins, Nest Cam July 2026 update rolling out",
+      "tool": "Google",
       "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://gizmodo.com/an-unholy-union-of-smart-glasses-and-wireless-earbuds-is-upon-us-2000785435",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-15T12:30:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/smart-glasses-earbuds.jpg",
-      "excerpt": "A new category of camera-equipped wireless earbuds with onboard AI is emerging, letting wearers ask an AI model about what's in front of them without pulling out a phone - earbuds edging into smart-glasses territory.",
-      "rationale": "The camera-earbuds angle - a genuinely new device category (AI camera earbuds) distinct from every Samsung/Meta glasses story, signaling where hands-free ambient AI wearables are heading."
+      "url": "https://9to5google.com/2026/07/23/nest-cam-july-2026-update/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-23T19:36:50Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Google is rolling out new Gemini for Home capabilities, extending the assistant's context memory to 15 minutes so it can follow multi-step conversations across the smart home. A parallel Nest Cam firmware update accompanies the release. The upgrades push Google's generative AI deeper into everyday smart-home hardware and camera devices.",
+      "rationale": "A shipping smart-home update — 15-minute conversational context memory plus a Nest Cam refresh — that concretely changes how Gemini behaves on home devices today; fresh and distinct from prior Samsung/Google glasses items."
+    },
+    {
+      "rank": 5,
+      "headline": "Honor Robot Phone leaked hands-on video shows thickness, camera gimbal in action",
+      "tool": "Honor",
+      "category": "gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "url": "https://www.notebookcheck.net/Honor-Robot-Phone-leaked-hands-on-video-shows-thickness-camera-gimbal-in-action.1345687.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-07-17T18:34:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/honor-robot-phone-leak41.jpg",
+      "excerpt": "A leaked hands-on video of Honor's 'Robot Phone' shows the device's added thickness and a motorized, gimbal-mounted AI camera that can physically move and track. Honor plans to showcase the AI-centric handset at WAIC in China on July 18. The unusual robotic form factor is Honor's bid to reimagine the smartphone as an active, agentic AI device.",
+      "rationale": "A genuinely novel AI-device form factor — a phone with a motorized gimbal camera that physically moves — adding a distinct category to the mix and signaling how agentic AI reshapes hardware design."
     }
   ],
   "shortfall": {
     "target": 5,
     "floor": 3,
-    "selected": 3,
-    "reason": "The 11-item pool is dominated by the Samsung Galaxy Unpacked glasses reveal (5 near-identical items) plus 2 Unpacked live-blogs, all of which duplicate stories already published in sections.gadgets (samsung-intelligent-eyewear, galaxyglasses). The two foldable items both re-cover the same Unpacked launch already represented by gemini-nano-4-fold8 / oneui9; only the Z Flip 8 cover-screen sub-story is distinct enough to keep. After dedup only 3 distinct never-before-seen stories survive. Above floor; not padded."
+    "selected": 5,
+    "reason": "Rich 14-item pool yielded 5 distinct, never-before-published stories across five outlets and five device types. No shortfall."
   },
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-25 + days 2026-07-20 through 07-24).",
+    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-26 + days 2026-07-21 through 07-24).",
     "dropped_as_published_dup": [
       {
-        "url": "https://www.techradar.com/ai-platforms-assistants/we-got-a-first-look-at-samsung-intelligent-eyewear-the-smart-glasses-entering-a-fraught-market-worried-about-privacy",
-        "reason": "Same Samsung Intelligent Eyewear reveal already published as 'samsung-intelligent-eyewear' (Android Central hands-on) - different outlet, same event."
+        "url": "https://www.digitaltrends.com/cool-tech/openais-first-hardware-product-sounds-more-like-a-companion-than-a-speaker/",
+        "reason": "Same OpenAI first-device screenless companion-speaker (io) story already published as 'openai-speaker' (9to5Mac, 2026-07-24). Reworded headline, same report. Duplicate."
       },
       {
-        "url": "https://www.engadget.com/2220934/samsung-just-revealed-more-details-about-its-upcoming-smart-glasses-including-battery-life/",
-        "reason": "Same Samsung eyewear reveal/battery specs already covered by published 'samsung-intelligent-eyewear' (Snapdragon AR1, ~9h + case). Reworded, same event."
-      },
-      {
-        "url": "https://www.androidauthority.com/samsung-galaxy-gemini-smart-glasses-3689544/",
-        "reason": "Same Samsung Gemini/Android XR smart glasses reveal as published 'samsung-intelligent-eyewear' / 'galaxyglasses'. Duplicate."
-      },
-      {
-        "url": "https://gizmodo.com/samsung-let-me-touch-its-warby-parker-x-gentle-monster-smart-glasses-but-not-wear-them-2000788835",
-        "reason": "Hands-on of the same Warby Parker x Gentle Monster Samsung eyewear already published as 'samsung-intelligent-eyewear'. Duplicate."
-      },
-      {
-        "url": "https://9to5google.com/2026/07/23/inbox-newsletter-4/",
-        "reason": "Privacy-angle analysis of the same Samsung/Google Android XR smart glasses whose reveal (incl. privacy LED/wear detection) is already published in 'samsung-intelligent-eyewear' and 'meta-privacy-led'. Same core topic."
-      },
-      {
-        "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-3688636/",
-        "reason": "Galaxy Z Fold 8 Unpacked reveal + Gemini Intelligence 40+ app task-automation already covered by published 'gemini-nano-4-fold8' (same foldable launch) and 'oneui9' (agentic Gemini across apps). Same event; would duplicate two published cards."
-      },
-      {
-        "url": "https://www.androidcentral.com/phones/live/samsung-galaxy-unpacked-2026-launch-live-z-fold-8-ultra-z-fold-8-z-flip-8-galaxy-glasses-and-all-the-news",
-        "reason": "Unpacked live-blog content hub covering the same Z Fold 8 / Flip 8 / Galaxy Glasses reveals already published across gadgets history. Duplicate hub."
-      },
-      {
-        "url": "https://www.techradar.com/news/live/samsung-galaxy-unpacked-2026-july",
-        "reason": "Unpacked live-blog content hub for the same reveals already published. Duplicate hub."
+        "url": "https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660",
+        "reason": "Same OpenAI screenless companion-speaker story as above and as published 'openai-speaker'. Different outlet, same Bloomberg-sourced report. Duplicate (and within-pool dup of the Digital Trends speaker item)."
       }
     ],
-    "dropped_within_pool_dup": [],
-    "considered_not_selected": [],
-    "backfill": "After dropping 8 duplicates, only 3 distinct fresh stories remain (Meta Glasses review, Galaxy Z Flip 8 cover-screen, smart-glasses-earbuds category). No further unique fresh candidates exist to backfill toward 5. Not padded.",
-    "diversity": "Final 3 spans 2 outlets (Engadget x2, Gizmodo x1) - within the <=2-per-domain cap; a 3rd distinct outlet is unavailable because every non-Engadget/Gizmodo fresh item is a published dup. Single-category section (gadgets); each pick gets a distinct palette accent (#ff5a4d, #eb367f, #2ec5c5). Topic spread deliberately avoids 5 near-identical Unpacked glasses stories: Meta glasses / Samsung foldable cover-screen AI / camera-earbuds category - three different device angles."
+    "dropped_within_pool_dup": [
+      {
+        "kept": "The Verge 'Apple is banking on privacy' (rank 1)",
+        "dropped": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
+        "reason": "Two candidates cover the identical Apple-smart-glasses-privacy-delay report (Engadget + The Verge). Kept the single strongest (The Verge, clearest framing of privacy as Apple's differentiator); dropped Engadget per the at-most-one-per-cluster rule."
+      }
+    ],
+    "considered_not_selected": [
+      {
+        "url": "https://www.cnet.com/tech/services-and-software/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wearables/",
+        "reason": "Distinct from the published openai-speaker story but soft/speculative (Brockman comments, no product); lower actionability. Also keeps the OpenAI-device cluster to at most one — and none was strong enough to make the final 5."
+      },
+      {
+        "url": "https://www.cnet.com/tech/mobile/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-come/",
+        "reason": "Novel always-on AI pendant, but thematically overlaps the Apple privacy/always-on-recording pick; deprioritized for topic spread and CNET outlet balance."
+      },
+      {
+        "url": "https://www.notebookcheck.net/New-Tesla-Optimus-rival-Leak-reveals-first-details-about-BYD-s-AI-robot.1352248.0.html",
+        "reason": "Fresh humanoid-robot leak, but overlaps the Neo robot pick on the robotics topic; dropped to avoid two robot cards and to keep Notebookcheck at one."
+      },
+      {
+        "url": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
+        "reason": "Strong novel edge-AI silicon story, but robotics-adjacent to the Neo pick and shares the Tom's Hardware outlet with the Arctic review; dropped to preserve outlet and topic diversity."
+      },
+      {
+        "url": "https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review",
+        "reason": "Solid mini-PC review but lower novelty and Tom's-Hardware duplicate outlet; not selected."
+      },
+      {
+        "url": "https://roadtovr.com/samsung-google-smart-glasses-designs-gentle-monster-warby-parker-release/",
+        "reason": "Samsung Android XR glasses design reveal overlaps the already-published 'galaxyglasses' Samsung-glasses story (07-22) as the same product hub, and the smart-glasses topic is already covered by the Apple pick; deprioritized."
+      }
+    ],
+    "backfill": "After dropping the two published OpenAI-speaker duplicates and the within-pool Engadget Apple duplicate, the ranked pool still yielded 5 distinct fresh stories. Selected the top-5 balancing actionability, novelty and topic/outlet spread.",
+    "diversity": "Final 5 spans five distinct outlets (The Verge, Tom's Guide, TechRadar, 9to5Google, Notebookcheck) — one each, well within the <=2-per-domain cap. Single-category section (gadgets); each pick gets a distinct palette accent (#0070f3, #f5a623, #7928ca, #2ec5c5, #eb367f) and the picks span five device types: smart glasses / health wearable / home humanoid robot / smart-home assistant / robotic AI phone."
   }
 }

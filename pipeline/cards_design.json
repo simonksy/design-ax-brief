@@ -1,71 +1,92 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
+  "section": "design",
   "cards": [
     {
-      "id": "opus5daily",
+      "id": "figma",
       "eyebrow": "AI NEWS",
-      "headline": "앤트로픽 오퍼스 5, 절반 값에\n코딩부터 사무까지 한 모델로",
-      "body": "클로드 오퍼스 5가 프런티어급 성능을 절반 값에 내놓으며, 커서·러버블·피그마 메이크 등 디자인 툴의 엔진을 통째로 끌어올렸다.",
-      "mini_headline": "절반 값의 오퍼스 5",
-      "tool": "AI Workflow",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91578762/anthropic-releases-claude-opus-5-for-both-ai-coding-and-general-office-work",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "image": "",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {"t": "p", "x": "앤트로픽이 7월 24일 새 프런티어 모델 클로드 오퍼스 5를 내놨다. 프런티어급에 가까운 지능을 절반 값에 준다는 게 핵심으로, 입력 100만 토큰당 5달러, 출력 100만 토큰당 25달러다. 2.5배 빠른 패스트 모드는 요금이 두 배($10/$50)이고, 프롬프트 캐싱으로 최대 90%, 배치 처리로 50%를 아낀다."},
-          {"t": "p", "x": "성능도 값에 걸맞다. 프런티어-벤치 v0.1에서 오퍼스 4.8 점수를 두 배 넘게 올리며 다른 모델을 모두 앞섰고, CursorBench 3.2에서는 태스크당 비용 절반으로 페이블 5 최고치와 0.5% 안쪽까지 붙었다. 낮음·중간·높음 세 단계 노력 조절 다이얼로 비용과 성능을 직접 저울질한다. 다만 며칠씩 자율로 도는 최고 난도 작업에는 앤트로픽이 여전히 더 큰 페이블 5를 권한다."},
-          {"t": "p", "x": "디자이너에게 중요한 대목은 이 모델이 클로드 디자인, 커서, 러버블, 피그마 메이크 같은 AI 디자인 툴을 떠받치는 엔진이라는 점이다. 더 싸고 강해진 오퍼스 5는 디자인-투-코드 스택을 그대로 끌어올려 매일 만지는 작업 흐름에 곧장 스며든다. 오퍼스 5는 Claude.ai·Claude Code·Claude Cowork·API에서 쓸 수 있고, Claude Max의 기본, Claude Pro의 최상위 모델이다."}
-        ]
-      }
-    },
-    {
-      "id": "handfont",
-      "eyebrow": "AI NEWS",
-      "headline": "손글씨 사진 한 장이 폰트로\n전 과정을 오픈소스로 풀었다",
-      "body": "어두운 조명에서 찍은 손글씨 한 페이지를 넣으면 설치되는 TTF가 나오는 파이프라인을, 시스템 의존성 없는 순수 npm 패키지로 만들어 MIT로 공개했다.",
-      "mini_headline": "손글씨가 폰트로",
+      "headline": "피그마 오토 레이아웃이\n이제 CSS를 그대로 따른다",
+      "body": "오토 레이아웃이 CSS 방식대로 동작하면서, 디자인을 코드로 넘길 때 개발자가 손볼 일이 줄었다.",
+      "mini_headline": "CSS 따라가는 오토 레이아웃",
       "tool": "Figma",
-      "source": "DEV Community",
-      "url": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
+      "source": "Figma",
+      "url": "https://www.figma.com/release-notes/",
       "accent": "#0070f3",
       "motif": "frame",
-      "image": "",
+      "image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "img", "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs317mgv90ccea2sm3zrr.png", "cap": "손글씨 사진에서 폰트를 뽑아내는 draw-your-font 파이프라인"},
-          {"t": "p", "x": "나선 노트에 알파벳을 적고 어두운 데서 사진 한 장을 찍었더니 설치 가능한 TTF가 나왔다. 이제 컴퓨터가 내 손글씨로 글자를 친다. 전부 오픈소스(MIT), 로컬에서 돌아가고, npm 라이브러리·CLI·그 위에 얹은 Claude Code 스킬 세 층으로 되어 있다. 저장소는 github.com/danilo-znamerovszkij/draw-your-font, 브라우저 데모는 danilo-znamerovszkij.github.io/draw-your-font/다."},
-          {"t": "p", "x": "커스텀 폰트를 만들려면 늘 고생을 각오해야 했다. 폰트 편집기는 글리프를 태블릿 펜으로 하나하나 그리라 하고, 사진을 받아주는 Calligraphr는 정식판이 월 8달러다. 정작 조각은 수년째 오픈소스였다. 이미지 처리 sharp, 벡터화는 potrace의 JS 포트, 조립은 svg2ttf. 아무도 이걸 설치 없는 한 패키지로 엮지 않았을 뿐이다. 가장 가까운 builtree/handwrite는 파이썬에 FontForge와 potrace를 시스템 전역에 깔아야 하는 게 진짜 장벽이었다."},
-          {"t": "p", "x": "그래서 노린 빈틈은 순수 npm, 시스템 의존성 제로, 자유롭게 찍은 사진도 견디는 것이었다. npx skills add danilo-znamerovszkij/draw-your-font를 깔고 Claude Code에 사진을 끌어다 '내 폰트 만들어줘'라고 하면, Claude가 글자를 찾아 비전으로 라벨을 붙이고 폰트를 만든 뒤 당신이 지적하기 전에 스스로 결과를 비평한다. 사진은 라벨링에만 모델로 가고, 형상 데이터는 기기를 벗어나지 않는다. Node 18+ 말고는 필요 없다."},
-          {"t": "p", "x": "동작은 여섯 단계다. 적응형 임계화로 그림자 속 잉크를 살리고, 연결 요소로 잉크 덩어리를 찾고, 번호 붙인 대조표를 비전으로 읽어 'blob 14는 소문자 g'라고 라벨을 붙인다. 벡터화는 FontForge·Inkscape에 든 그 potrace가 맡고, AI는 곡선 한 줄도 그리지 않는다. 메트릭 단계에서 각 글자가 공용 em 사각형 안 세로 띠를 받아 g는 기준선 아래로 처지고 o는 O보다 작게 남는다. 끝으로 윤곽과 메트릭이 TTF·WOFF/WOFF2와 @font-face 조각으로 조립된다. 조건은 어두운 펜, 서로 안 붙은 글자뿐. 만든 폰트는 100% 당신 것이고 상업적 사용도 된다."}
+          { "t": "img", "src": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format" },
+          { "t": "p", "x": "피그마가 7월 24일 릴리스 노트에서 오토 레이아웃을 손봤다. 레이아웃을 다루는 방식을 CSS와 맞춰, 핸드오프 단계에서 개발자가 억지로 우회하던 작업을 줄였다." },
+          { "t": "p", "x": "7월 내내 이어진 변화의 하나다. 16일에는 코드 기반 화면을 기존 파일 변수와 연결했고, 9일에는 Figma Make 안에 GPT-5.6을 넣었다. 작지만 실질적인 개선이 디자인과 코드 사이의 고리를 촘촘히 조인다." },
+          { "t": "p", "x": "AI가 낀 워크플로가 기대는 지점이 바로 이 고리다." }
         ]
       }
     },
     {
-      "id": "bookdrift",
+      "id": "designmd",
       "eyebrow": "AI NEWS",
-      "headline": "24페이지 그림책 내내\n같은 아이 얼굴 지키기",
-      "body": "생성형 일러스트로 그림책을 만들 때 진짜 난관은 24페이지 내내 같은 아이를 흔들림 없이 지키는 것으로, 한 장씩이 아니라 책 전체를 한 단위로 다시 생성해야 한다.",
-      "mini_headline": "24페이지 얼굴 고정",
-      "tool": "Figma",
+      "headline": "AI가 디자인 시스템을 흔들지 않게\nDESIGN.md로 붙잡는다",
+      "body": "색과 여백, 컴포넌트 규칙을 담은 DESIGN.md 한 파일로 AI 코딩 에이전트의 스타일 흔들림을 막는다.",
+      "mini_headline": "AI 스타일 흔들림 막기",
+      "tool": "Design Tokens",
       "source": "DEV Community",
-      "url": "https://dev.to/clarajbennett/character-consistency-across-24-pages-of-a-generated-picture-book-4i80",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "image": "",
+      "url": "https://dev.to/dublecc/designmd-the-cursorrules-for-your-design-system-that-stops-ai-ui-style-drift-1hj4",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl5jd4ji0ykfs5iueat99.png",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "이제 참조 사진으로 아이 한 명을 그린 일러스트 하나를 만드는 건 쉽다. 같은 아이를, 같은 스타일로, 다른 장면에서, 흔들림 없이 스물네 장 만드는 건 다른 얘기다."},
-          {"t": "p", "x": "각 페이지를 따로 생성하면 한 장씩은 다 그럴듯하다. 그런데 순서대로 늘어놓으면 4페이지와 11페이지 사이에서 아이가 세 살은 먹고, 머리 길이가 바뀌고, 코 모양이 흐트러진다. 한 장만 보면 아무도 눈치채지 못하지만 책으로 묶으면 누구나 알아본다. 그림책은 이어지는 흐름으로 읽히니, 단일 이미지 지표로는 잡히지 않는 방식으로 일관성 오류가 쌓인다."},
-          {"t": "p", "x": "정체성과 스타일은 별개의 문제다. 고치는 법이 다르니 일찍 갈라두는 게 낫다. 정체성 일관성은 '알아볼 만큼 같은 아이인가'로, 참조 임베딩과 생성마다 그걸 얼마나 강하게 반영하느냐에 달렸다. 스타일 일관성은 '모든 페이지가 한 일러스트레이터가 그린 것처럼 보이는가'로, 수채 질감·선 굵기·팔레트·종이 결이 여기 든다. 둘 중 스타일이 쉽다. 스타일용 시드 기여분을 고정하고, 같은 스타일 프롬프트 조각을 쓰고, 샘플러 설정을 그대로 두면 된다. 정체성은 장면마다 바뀌는 포즈·표정·조명을 버텨야 해서 더 까다롭다."},
-          {"t": "p", "x": "버티는 방법은 이렇다. 바꿀 수 있는 건 다 고정한다. 같은 베이스 모델 버전, 같은 샘플러, 같은 스텝 수, 책 전체에서 같은 스타일 토큰. 자유 변수 하나하나가 흔들릴 틈이다. 뻔한 소리 같지만 페이지마다 제 파라미터를 정하게 두는 파이프라인이 흔히 어긴다. 한 페이지가 아니라 책 전체를 다시 생성한다. 9페이지가 틀렸다고 그것만 다시 만들면 옆 페이지와 안 맞는다. 일관성은 집합의 속성이라 집합이 작업 단위다. 나쁜 페이지 하나가 전체 재생성을 부른다는 불편한 뜻이기도 하다. 정체성 조건은 필요해 보이는 것보다 세게 준다. 아이를 못 알아보는 실패가 포즈가 좀 뻣뻣한 실패보다 훨씬 나쁘다. 뻣뻣함은 봐줘도 '내 애가 아니잖아'는 못 봐준다. 장면 어휘도 좁힌다. 물속, 우주선, 밤 숲처럼 환경이 널뛰면 조명과 팔레트가 끌려다니고, 정체성이 유지돼도 스타일이 흔들린 것처럼 읽힌다."},
-          {"t": "p", "x": "이미지가 아니라 집합을 평가한다. 이미지별 품질 지표는 문제 자체를 놓친다. '한 권처럼 보인다'와 실제로 맞물리는 건 참조-페이지가 아니라 모든 페이지 쌍 사이의 얼굴 임베딩 거리이고, 평균보다 분산이 더 중요하다. 페이지 간 팔레트 거리, 그리고 드리프트가 가장 먼저 드러나는 가장 멀리 떨어진 쌍을 사람이 직접 확인하는 것까지 함께 본다."},
-          {"t": "p", "x": "목소리 층도 결이 같은 문제를 다르게 겪는다. 짧은 샘플로 부모 목소리를 복제해 읽어주려면, 챕터별로 따로 합성해도 그 목소리가 일관돼야 한다. 화자 임베딩과 합성 파라미터를 책 전체에서 고정하는 같은 규율이다. 글쓴이는 이걸 StoryMine(storymine.app)에서 다룬다. 사진 한 장을 넣으면 모든 페이지에 같은 얼굴이 담긴 수채 기념 책이 나온다. 다만 여기 내용은 전부 경험칙이고 모델마다 다르다. 실패 양상은 안정적이었지만 해법은 모델 세대마다 바뀌니, 구체적인 건 낡은 것으로, 범주는 오래가는 것으로 받아들이면 된다."}
+          { "t": "img", "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl5jd4ji0ykfs5iueat99.png" },
+          { "t": "p", "x": "이 글은 DESIGN.md라는 파일을 제안한다. AI 코딩 에이전트가 디자인 시스템을 제멋대로 추측하다 색과 여백, 컴포넌트 동작이 세션마다 어긋나는 문제를 막으려는 것이다." },
+          { "t": "p", "x": "구조는 두 겹이다. 기계가 읽는 YAML 앞머리에 정확한 디자인 토큰을 적고, 사람이 읽는 마크다운에 그 토큰이 왜 그런지 의도를 남긴다. 덕분에 에이전트는 흔들리지 않는 기준을 보고 UI를 짠다." },
+          { "t": "p", "x": ".cursorrules가 코드 규칙을 잡아주듯, DESIGN.md는 디자인 시스템의 기준점 역할을 한다. 에이전트가 만드는 UI에서 가장 자주 무너지던 시각 정체성 문제에 대한 구체적인 답이다." }
+        ]
+      }
+    },
+    {
+      "id": "vibecoding",
+      "eyebrow": "AI NEWS",
+      "headline": "바이브 코딩이 없애는 건\n개발자가 아니라 중간층이다",
+      "body": "정해진 명세대로 짜는 중간 단계는 AI가 대신하고, 설계 판단과 안목을 갖춘 자리에 가치가 몰린다.",
+      "mini_headline": "사라지는 건 중간층",
+      "tool": "AI Workflow",
+      "source": "DEV Community",
+      "url": "https://dev.to/helkyn_coello/vibe-coding-wont-kill-developers-itll-kill-the-middle-2c61",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/t7fhyguq11l0u3fmvwrz.png",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/t7fhyguq11l0u3fmvwrz.png" },
+          { "t": "p", "x": "이 에세이는 AI를 낀 바이브 코딩이 만드는 사람을 통째로 없애지는 않는다고 본다. 대신 정해진 명세대로 구현하는 중간 계층이 녹아내린다. 값싼 카메라가 최고의 사진가는 건드리지 못한 채 흔한 촬영 일감만 걷어낸 것과 닮았다." },
+          { "t": "p", "x": "가치는 설계 판단과 도메인 지식, 안목, 전략이 필요한 자리로 모인다." },
+          { "t": "p", "x": "프롬프트로 앱을 뽑는 도구가 실행을 값싸게 만들면서, 직접 만드는 디자이너와 디자인 엔지니어가 맞닥뜨린 역량 이동을 날카롭게 짚는다." }
+        ]
+      }
+    },
+    {
+      "id": "google-creativity",
+      "eyebrow": "AI NEWS",
+      "headline": "수학이 AI의 창의성을 증명한다는\n구글, 정말 그럴까",
+      "body": "구글은 AI가 새로운 수학을 풀고 만든다며 창의성을 내세우지만, 그것이 예술의 창의와 같은지는 의문이다.",
+      "mini_headline": "AI는 정말 창의적인가",
+      "tool": "AI Workflow",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/ai/ai-art/google-thinks-maths-proves-its-ai-is-genuinely-creative-but-is-it",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "image": "https://cdn.mos.cms.futurecdn.net/zLhmVnzDtQ7QXJPpAfKq4o-1920-80.png",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/zLhmVnzDtQ7QXJPpAfKq4o-1920-80.png" },
+          { "t": "p", "x": "크리에이티브 블로그는 구글의 주장을 따져 묻는다. AI가 새로운 수학을 풀고 만들어냈으니 모델이 진짜 창의적이라는 주장이다." },
+          { "t": "p", "x": "글은 수학에서의 새로움이 예술가와 디자이너에게 창의성을 얼마나 증명하는지, 또 무엇은 증명하지 못하는지 가늠한다." },
+          { "t": "p", "x": "창작자에게 이 물음이 중요한 이유는 분명하다. 기계가 창의적인가라는 질문이, 아이디어와 콘셉트 작업을 생성형 도구에 얼마나 맡길지를 가른다." }
         ]
       }
     }

@@ -1,25 +1,31 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "science",
   "media": [
     {
-      "id": "argomoc",
+      "id": "aiscaffold",
       "type": "image",
-      "src": "pipeline/media/argomoc.jpg"
+      "src": "pipeline/media/aiscaffold.jpg"
     },
     {
-      "id": "binndna",
+      "id": "camulator",
       "type": "image",
-      "src": "pipeline/media/binndna.jpg"
+      "src": "pipeline/media/camulator.jpg"
     },
     {
-      "id": "thermoflux",
+      "id": "gyrotron",
       "type": "image",
-      "src": "pipeline/media/thermoflux.jpg"
+      "src": "pipeline/media/gyrotron.jpg"
     },
     {
-      "id": "readroom",
-      "type": "svg"
+      "id": "selfdrivinglab",
+      "type": "image",
+      "src": "pipeline/media/selfdrivinglab.jpg"
+    },
+    {
+      "id": "blackbox",
+      "type": "image",
+      "src": "pipeline/media/blackbox.jpg"
     }
   ]
 }

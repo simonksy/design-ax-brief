@@ -1,64 +1,71 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.fastcompany.com/91578762/anthropic-releases-claude-opus-5-for-both-ai-coding-and-general-office-work",
-      "title": "Anthropic releases Claude Opus 5 for both AI coding and general office work",
-      "source": "Fast Company",
-      "published_iso": "2026-07-24T17:00:00+00:00",
-      "og_image": "",
-      "excerpt": "Anthropic's new frontier model Claude Opus 5 is a cheaper, stronger model for coding and agents — the class of model that now powers AI design tools like Claude Design, Cursor, Lovable and Figma Make, so its release ripples directly into designers' AI workflows.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "A cheaper/stronger frontier model is the engine under Claude Design, Cursor, Lovable and Figma Make — it upgrades the design-to-code stack designers touch daily; reputable source, high novelty."
-    },
-    {
-      "url": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
-      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
-      "source": "DEV Community",
-      "published_iso": "2026-07-24T07:54:20Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs317mgv90ccea2sm3zrr.png",
-      "excerpt": "A designer photographed a single page of handwritten letters in dim light and ran an open-sourced pipeline that outputs an installable TTF — a hands-on look at AI-assisted type design and how far automated font generation has come.",
+      "url": "https://www.figma.com/release-notes/",
+      "title": "Figma July release notes: auto layout now aligns with CSS to cut design-to-code handoff friction",
+      "source": "Figma",
+      "published_iso": "2026-07-24T00:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma's July 24 release-notes entry, 'Design closer to CSS with the updated auto layout option,' reworks auto layout so its behavior matches how CSS handles layout, reducing the developer workarounds needed at handoff. It lands in a July run that also bound code-backed screens to existing file variables (July 16) and shipped GPT-5.6 inside Figma Make (July 9) — incremental but real changes tightening the design-to-code loop that AI-assisted workflows now depend on.",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A reproducible, open-sourced photo-to-TTF pipeline puts AI type design in reach of any designer — concrete, novel, and immediately runnable."
+      "rationale": "First-party Figma change that alters handoff tomorrow: CSS-aligned auto layout removes the dev workarounds designers hit at every handoff. High actionability, top credibility."
     },
     {
-      "url": "https://dev.to/clarajbennett/character-consistency-across-24-pages-of-a-generated-picture-book-4i80",
-      "title": "Character Consistency Across 24 Pages of a Generated Picture Book",
+      "url": "https://dev.to/dublecc/designmd-the-cursorrules-for-your-design-system-that-stops-ai-ui-style-drift-1hj4",
+      "title": "DESIGN.md: the '.cursorrules for your design system' that stops AI UI style drift",
       "source": "DEV Community",
-      "published_iso": "2026-07-24T19:36:08Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftfk1ruku3mjh0mlcya1a.png",
-      "excerpt": "Generating one AI illustration of a child from a reference photo is easy now; keeping that same character consistent across 24 pages is the hard part. A practical walkthrough of character-consistency techniques for generative illustration and design workflows.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#eb367f",
+      "published_iso": "2026-07-25T05:45:23Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl5jd4ji0ykfs5iueat99.png",
+      "excerpt": "The piece proposes DESIGN.md as a portable, structured file that stops AI coding agents from 'guessing' a design system and drifting on colors, spacing, and component behavior across sessions. It uses a dual layer — machine-readable YAML front matter for exact design tokens plus human-readable Markdown for the intent behind them — so agents build UI against a durable source of truth, positioned as the design-system analogue to a .cursorrules file. A concrete answer to visual-identity drift, the biggest consistency failure in agentic UI generation.",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "Directly actionable pattern designers can adopt this week to stop AI agents drifting off the design system — a token-level fix for the top consistency failure in agentic UI. Distinct tools/tokens category."
+    },
+    {
+      "url": "https://dev.to/helkyn_coello/vibe-coding-wont-kill-developers-itll-kill-the-middle-2c61",
+      "title": "Vibe coding won't kill developers — it'll kill the middle",
+      "source": "DEV Community",
+      "published_iso": "2026-07-26T21:47:12Z",
+      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/t7fhyguq11l0u3fmvwrz.png",
+      "excerpt": "The essay argues AI-assisted 'vibe coding' won't eliminate builders as a class but will liquify the middle tier — the implementation work done against known specs — much as cheap cameras spared top photographers while gutting commodity work. Value concentrates in roles requiring architectural judgment, domain expertise, taste, and strategy. A sharp framing of the AX skills shift facing designers-who-build and design engineers as prompt-to-app tools commoditize execution.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Character consistency is the real blocker in production generative illustration — a hands-on technique walkthrough a design team can apply tomorrow."
+      "rationale": "Sharp AX skills-shift framing for designers-who-build: where value concentrates as prompt-to-app tools commoditize execution. Freshest item in the pool (07-26)."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/ai-art/google-thinks-maths-proves-its-ai-is-genuinely-creative-but-is-it",
+      "title": "Google thinks maths proves its AI is genuinely creative — but is it?",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-26T07:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zLhmVnzDtQ7QXJPpAfKq4o-1920-80.png",
+      "excerpt": "Creative Bloq interrogates Google's claim — resting on AI systems solving and generating novel mathematics — that its models are 'genuinely creative,' weighing what mathematical novelty does and doesn't prove about creativity for artists and designers. The framing matters for creatives because 'is the machine creative?' underpins how much of ideation and concepting teams are willing to hand to generative tools.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "rationale": "Adds a distinct ideation/creativity-debate angle relevant to how much concepting teams hand to generative tools — reputable outlet, fresh (07-26). Distinct palette accent (#3b6bff) vs the other workflow pick (#ff5a4d)."
     }
   ],
   "dedup": {
     "pool_size": 5,
-    "kept": 3,
-    "dropped_as_noise": 1,
-    "dropped_as_rehash": 1,
-    "checked_against": "sections.design — today (2026-07-25, 4 cards) + days 2026-07-20 through 07-24 (published cards)",
+    "kept": 4,
+    "dropped": 1,
+    "checked_against": "sections.design — today (2026-07-26, 3 cards) + days 2026-07-21 through 07-25 (all published cards)",
     "notes": [
-      "No URL duplicates: none of the 5 candidate URLs appear in the 5-day design history, and no same-event/same-release match was found.",
-      "DROPPED as general AI-business/culture noise: https://www.creativebloq.com/ai/hate-generative-ai-maybe-its-time-to-boycott-netflix — an editorial arguing creatives should boycott Netflix over gen-AI; does not change how a designer works and is not part of a design org's AI transformation.",
-      "DROPPED as low-novelty rehash: https://dev.to/goodbarber/when-generation-is-free-taste-is-everything-3k30 — the 'human taste/judgment is the differentiator' thesis already ran twice in the last 3 days (art-director-edge 2026-07-23 '안목', mediocre 2026-07-25 '적당한 평범함'). Not a hard URL/content duplicate, but redundant coverage; also keeping it would push DEV Community to 3 cards, breaking the 2-per-outlet diversity guard with no non-noise outlet available to swap in.",
-      "No backfill available: after removing the noise and rehash items, 3 unique, fresh, useful stories remain. Landing at 3 (floor met), not padded."
+      "All 5 filtered candidates verified against the full 5-day design history by URL and by content/event: none had previously run (no Figma release-notes card, no DESIGN.md/token-spec card, no vibe-coding essay, no Google-creativity or Netflix-boycott piece appeared before). Zero URL/content duplicates.",
+      "Diversity guard: outlets were within cap (Figma x1, dev.to x2, Creative Bloq x2), but 3 of 5 candidates were category 'workflow' — over the 1-2/category cap. No swap candidate existed (pool exhausted at 5), so the weakest, most-redundant workflow item (Creative Bloq 'boycott Netflix', pure activism / lowest actionability / overlaps the Google-creativity culture angle) was dropped to reach a balanced 4: figma x1, tokens x1, workflow x2, across 3 outlets.",
+      "Final 4 is above the floor of 3; not padded. Second workflow pick given a distinct palette accent (#3b6bff) vs the first (#ff5a4d)."
     ],
-    "diversity_guard": {
-      "outlets": "2 distinct (Fast Company x1, DEV Community x2) — within the 2-per-outlet cap; a 3rd outlet was unavailable without publishing the Netflix noise item",
-      "categories": "workflow x1, figma x2 (distinct accents #0070f3 / #eb367f) — within the max-2-per-category aim"
-    },
-    "below_target": true
+    "below_target": false
   }
 }

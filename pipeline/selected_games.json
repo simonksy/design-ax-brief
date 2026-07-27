@@ -1,68 +1,85 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "games",
   "selection_mode": "auto",
   "picks": [
     {
+      "title": "Roblox announce plans to let people AI-generate basic games using text prompts in a mobile app, but claim it won't fill their homepage with AI slop",
+      "headline": "Roblox announce plans to let people AI-generate basic games using text prompts in a mobile app, but claim it won't fill their homepage with AI slop",
+      "url": "https://www.rockpapershotgun.com/roblox-announce-plans-to-let-people-ai-generate-basic-games-using-text-prompts-stuck-into-a-mobile-app-but-claim-that-wont-fill-their-homepage-with-ai-slop",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-07-16T15:32:31Z",
+      "og_image": "https://assetsio.gnwcdn.com/roblox-build-ai-game-generator-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Roblox has unveiled 'Build', a mobile app that lets anyone generate a basic playable game from natural-language text prompts, part of a push to lower the barrier to creation on the platform. The company insists the AI-generated experiences won't flood its homepage with low-effort 'slop', framing the tool as an on-ramp for new creators rather than a replacement for its established Studio pipeline. It's a notable text-to-game milestone from one of the biggest UGC platforms, raising fresh questions about discoverability and quality control.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Slay the Spire 2 lead says the 'garbage' placeholder art is important and gen AI would ruin it",
-      "url": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2-lead-says-the-garbage-placeholder-art-is-important-and-gen-ai-would-ruin-it-people-would-judge-the-game-as-if-its-a-1-0-fully-developed-video-game/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-14T14:20:43Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg",
-      "excerpt": "Slay the Spire 2's lead defends deliberately rough hand-made placeholder art in Early Access, arguing generative AI 'would ruin it' because polished AI fill-ins make players judge an unfinished build as a finished 1.0 — a craft-and-iteration case against gen AI in the art pipeline.",
-      "rationale": "A concrete craft argument from a shipping studio lead — why rough hand-made placeholders beat polished AI fill-ins during Early Access reframes how designers stage unfinished art; credible GamesRadar+ interview on a fresh, distinct release."
+      "rationale": "Text-to-game from a major UGC platform is a concrete new capability that changes how solo/new creators prototype — high novelty, high actionability, reputable outlet."
     },
     {
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "title": "iOS developer made a Capybara game using vibe-coding and won $25,000",
-      "url": "https://wccftech.com/ios-developer-made-capybara-game-using-vibe-coding-and-won-25000/",
-      "source": "Wccftech",
-      "published_iso": "2026-07-13T16:21:17Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg",
-      "excerpt": "An iOS developer built a Capybara food-delivery game almost entirely by 'vibe-coding' with Claude Code and won a $25,000 prize — a concrete example of AI coding agents collapsing the barrier for a solo creator to ship a finished mobile game.",
-      "rationale": "Highly actionable proof point — a solo dev shipping and winning $25K on a Claude Code vibe-coded game shows exactly how AI coding agents lower the barrier to finishing a mobile title; distinct outlet keeps the section diverse."
-    },
-    {
+      "title": "How do you feel about AI videogame music?",
+      "headline": "How do you feel about AI videogame music?",
+      "url": "https://www.pcgamer.com/games/how-do-you-feel-about-ai-videogame-music/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-26T17:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HT5w8rM5i6Rai5xqgTLpmK-1920-80.jpg",
+      "excerpt": "PC Gamer opens a discussion on the growing use of generative AI to compose and produce game soundtracks, asking whether game music still requires 'the human touch'. The piece weighs the creative and craft implications for composers and audio designers as AI music tools become cheap and capable enough to score games, and gathers reader sentiment on where AI-generated scores cross the line for players.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "MMO life sim Seed's AI-powered avatars prove once again that nothing shatters immersion quicker than crappy chatbot dialogue",
-      "url": "https://www.pcgamer.com/games/sim/mmo-life-sim-seeds-ai-powered-avatars-prove-once-again-that-nothing-shatters-immersion-quicker-than-crappy-chatbot-dialogue/",
-      "source": "PC Gamer",
-      "published_iso": "2026-07-24T21:14:39Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Td7M8ni6EarYZoh34DHUD7-1200-80.jpg",
-      "excerpt": "PC Gamer tries the AI-driven NPCs in the relaunched MMO life sim Seed and finds the generative chatbot dialogue breaks immersion rather than deepening it — a hands-on craft verdict on where real-time LLM avatars still fall short in shipped games.",
-      "rationale": "The freshest pick and a hands-on reality check — a shipped MMO's real-time LLM avatars breaking immersion tells designers exactly where generative NPC dialogue still fails; third distinct outlet (PC Gamer)."
+      "rationale": "Directly relevant to audio designers/composers weighing generative music tools in game pipelines; freshest item in the pool (07-26) and a distinct craft angle from the visual-asset stories."
     },
     {
+      "title": "Poll finds 100% of Japanese online game developers are using AI, though mostly for user preference analysis and user behavior prediction",
+      "headline": "Poll finds 100% of Japanese online game developers are using AI, though mostly for user preference analysis and user behavior prediction",
+      "url": "https://www.pcgamer.com/gaming-industry/poll-finds-100-percent-of-japanese-online-game-developers-are-using-ai-though-mostly-for-user-preference-analysis-and-user-behavior-prediction/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-15T15:36:08Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5BCLDn9uWa9YYLdeqYWPBL-1920-80.png",
+      "excerpt": "A survey from Japan's Online Game Association finds that every polled Japanese online-game developer now uses AI in some form, though adoption skews toward analytics - user-preference analysis and player-behavior prediction - rather than generative content creation. The data offers a rare, concrete snapshot of how a major games market is actually integrating AI into development and live-ops workflows, and where studios are (and aren't) yet trusting it in the creative pipeline.",
       "tool": "Games",
-      "accent": "#2ec5c5",
+      "accent": "#f5a623",
       "motif": "cube",
-      "title": "Steam study of over 53,000 games finds \"60–90% of the growth\" in monthly releases is from games using AI and \"almost none of them make money\"",
-      "url": "https://www.gamesradar.com/games/steam-study-of-over-53-000-games-finds-60-90-percent-of-the-growth-in-monthly-releases-on-valves-store-is-from-games-using-ai-and-almost-none-of-them-make-money/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-15T16:00:50Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg",
-      "excerpt": "A study of 53,597 Steam titles finds AI-made games now drive 60–90% of the growth in monthly releases yet almost none earn money — hard data on how generative AI is reshaping (and flooding) the storefront where designers' work has to compete for attention.",
-      "rationale": "Hard data over vibes — a 53,597-title study quantifying how AI games flood Steam yet earn nothing directly shapes how designers weigh AI-scale output against the storefront they must compete in; credible GamesRadar+ report on a distinct study."
+      "rationale": "A hard adoption data point on where AI is (and isn't) trusted in a major games market — informs how teams position AI in dev/live-ops workflows; credible survey, distinct from creative-tool releases."
     }
   ],
-  "shortfall": false,
-  "shortfall_reason": null,
+  "shortfall": true,
+  "shortfall_reason": "Fresh, on-topic, design-relevant AI x games news is largely exhausted for this window. Three strong net-new stories (Roblox 'Build' text-to-game, AI videogame music, Japan 100%-AI-adoption poll) meet the floor of 3. A fourth net-new item (Eurogamer 'The Duskbloods' Google AI hallucination, 07-22) exists but is only marginally design-relevant; per instruction it was to be used ONLY to reach the floor, and since the floor is already met with three solid picks, it was excluded rather than pad the section with a low-relevance story.",
   "dedup_report": {
-    "candidates_evaluated": 4,
-    "kept": 4,
-    "dropped_as_duplicates": 0,
+    "candidates_evaluated": 7,
+    "kept": 3,
+    "dropped_as_duplicates": 3,
+    "dropped_as_marginal": 1,
     "floor": 3,
     "cap": 5,
-    "baseline": "news_data.json -> sections.games: today 2026-07-25 (nvidia-dgx-agents, steam-aidisclosure-devs) + days 2026-07-24 (fnaivoice, openriglogic, ...), 07-23 (nvidia-siggraph, ai-2d-to-3d, atelico, kaneko), 07-22 (unity7, dlss5, meshy3dagent), 07-21 (houdini22), 07-20 (damagecontrol, indiedevs25, metahumancrowds). Pre-deduped filtered pool (4 items) re-verified by URL and content.",
-    "drops": [],
-    "diversity": "4 picks across 3 distinct outlets — GamesRadar+ (2), Wccftech (1), PC Gamer (1). Max 2 per outlet satisfied; >=3 distinct outlets satisfied. Single-category section (games), so each pick carries a distinct accent (#7928ca, #f5a623, #0070f3, #2ec5c5) for visual separation; motif 'cube' per the games category.",
-    "notes": "No overlap with published games cards. Candidate 1 (Slay the Spire 2 'gen AI would ruin it') is thematically adjacent to the 07-20 'indiedevs25' card (25 indie devs avoid gen AI) but is a distinct story — one named studio lead's specific defense of placeholder art, different URL and event. Candidate 4 (Steam 53k-title market study) is distinct from the 07-25 'steam-aidisclosure-devs' card (AI disclosure mandate debate) — different topic, URL and event. No general AI-business noise present; all four are games craft/design relevant."
+    "baseline": "news_data.json -> sections.games: today 2026-07-26 (sts2-placeholder-art, capybara-vibejam, seed-ai-avatars, steam53k-study) + days 07-25 (nvidia-dgx-agents, steam-aidisclosure-devs), 07-24 (fnaivoice, openriglogic, steamcensus, mkwiicomp, inworldtts), 07-23 (nvidia-siggraph, ai-2d-to-3d, atelico, kaneko), 07-22 (unity7, dlss5, meshy3dagent), 07-21 (houdini22).",
+    "drops": [
+      {
+        "title": "Half of all games released on Steam will use AI by 2028, study predicts",
+        "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
+        "source": "GamesRadar+",
+        "reason": "CONTENT DUP of the Sulka Haro 53,597-title Steam AI-disclosure study, already published as 'steam53k-study' (07-26) and 'steamcensus' (07-24, PC Gamer). Same study, same 'half by 2027-2028' prediction, reworded headline."
+      },
+      {
+        "title": "NVIDIA DLSS 5 Hands Over Full Control To Artists To 'Direct The Final Frame'",
+        "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
+        "source": "Wccftech",
+        "reason": "CONTENT DUP of the DLSS 5 developer-control / artistic-integrity disclosure already published as 'dlss5' (07-22, PC Gamer — the two AI-filter sliders letting devs direct the final frame). Same SIGGRAPH 2026 release, different outlet."
+      },
+      {
+        "title": "NVIDIA Graphics Research Accelerates Simulation & Physical AI Through 21 Breakthrough Technologies at SIGGRAPH",
+        "url": "https://wccftech.com/nvidia-graphics-research-accelerates-simulation-physical-ai-21-breakthroughs-siggraph/",
+        "source": "Wccftech",
+        "reason": "CONTENT DUP of the NVIDIA SIGGRAPH 2026 research drop already published as 'nvidia-siggraph' (07-23, NVIDIA Blog), which bundled the 22 graphics-research breakthroughs (neural rendering, Cosmos 3, world models). Same content hub, different outlet."
+      },
+      {
+        "title": "Reddit is forcing Google AI into hallucinating The Duskbloods characters before FromSoftware's game is even out",
+        "url": "https://www.eurogamer.net/the-duskbloods-google-ai-hallucinations",
+        "source": "Eurogamer",
+        "reason": "NET-NEW and non-duplicate, but only marginally design-relevant (about AI Overviews hallucinating unreleased-game lore, not a design/dev workflow change). Reserved as floor-filler only; excluded because the floor of 3 is already met by three stronger, more design-relevant picks. Not padded in."
+      }
+    ],
+    "diversity": "3 distinct outlets across the 3 picks would be ideal; here Rock Paper Shotgun x1, PC Gamer x2, so 2 distinct outlets with PC Gamer at the max-2 cap. Single-category section (games/cube), so category spread is not applicable. Within the tiny fresh pool this is the strongest non-duplicate set; no under-represented outlet had an additional surviving on-topic item to swap in.",
+    "notes": "Hard dedup (never re-publish a story collected on an earlier day) confirmed against full 5-day games history via URL + content. All three picks are absent from that history. Accents differentiated within the shared games category: #7928ca, #0070f3, #f5a623; motif 'cube' for all."
   }
 }

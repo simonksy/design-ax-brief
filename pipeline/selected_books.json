@@ -1,40 +1,56 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "books",
   "selection_mode": "auto",
   "picks": [
     {
       "rank": 1,
-      "headline": "Can Interactive 3D Improve Digital Textbooks Without Making Reading More Complicated?",
+      "headline": "Publishers file lawsuit against Google for AI training",
       "tool": "Books",
       "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://goodereader.com/blog/digital-publishing/can-interactive-3d-improve-digital-textbooks-without-making-reading-more-complicated",
-      "source": "Good e-Reader",
-      "published_iso": "2026-07-12T12:00:00Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/12220738/unnamed-1.jpg",
-      "excerpt": "Digital textbook publishers can now use AI text-to-3D tools to turn lesson descriptions into interactive 3D models, but the piece argues they should deploy the technology selectively where it clarifies spatial or internal structures that flat images cannot.",
-      "rationale": "Fresh, actionable angle for educational publishers: AI text-to-3D as a selective tool for spatial concepts - a new production use-case not covered anywhere in the books history."
+      "url": "https://janefriedman.com/publishers-file-lawsuit-against-google-for-ai-training/",
+      "source": "janefriedman.com",
+      "published_iso": "2026-07-15T12:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
+      "excerpt": "Major publishers including Hachette, Cengage and Elsevier sued Google, alleging it used digital copies from Google Books, Google Play and Google Scholar to train its Gemini model without permission. The complaint claims Google internally flagged the practice as 'highly problematic' and warned of billions in potential fines yet proceeded anyway. A rights/consent story shaping whether and how book text feeds AI models.",
+      "rationale": "A live class action over Gemini training sets a concrete copyright/consent precedent that directly shapes how publishers and authors handle AI-training rights; the suit never had its own card, so it is a genuinely distinct net-new story rather than a rehash of the Bloomsbury earnings round-up's passing mention."
+    },
+    {
+      "rank": 2,
+      "headline": "Library News Round-Up, July 2026 (incl. ElevenLabs' AI-narrated Odyssey)",
+      "tool": "Books",
+      "category": "books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "url": "https://bookriot.com/library-news-round-up-july-2026/",
+      "source": "bookriot.com",
+      "published_iso": "2026-07-24T12:00:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
+      "excerpt": "Book Riot's July library round-up highlights ElevenLabs releasing an officially licensed AI-narrated edition of The Odyssey using a synthetic Michael Caine voice, alongside broader reading-crisis coverage. The item captures the arrival of licensed synthetic-voice narration in the commercial audiobook market and the job-displacement questions it raises for human narrators. A creative-AI capability landing in mainstream publishing.",
+      "rationale": "Licensed synthetic-voice narration (Michael Caine) reaching a commercial audiobook release is a net-new creative-AI capability with clear implications for narrators and audio publishers; no Odyssey/ElevenLabs card exists anywhere in the books history, so it is genuinely fresh."
     }
   ],
   "shortfall": {
-    "target": 2,
+    "target": 3,
     "floor": 3,
-    "selected": 1,
-    "reason": "Section is genuinely exhausted (only 2 filtered candidates after the 14-day recovery window). Of those two, the Jane Friedman AI multi-cast narration study is a content duplicate of the already-published 2026-07-22 'ai-narration' card, so it was dropped per the dedup hard rule. Only 1 distinct never-before-published story survives, one below the expected 2 and below the floor of 3. Not padded with off-topic or stale items."
+    "selected": 2,
+    "reason": "The AI-x-books beat is genuinely exhausted this cycle. The filtered pool held only 3 candidates. One (Publishing Perspectives' Anthropic $1.5B final-approval settlement) is a hard content duplicate of two already-published 07-24 cards (anthropic-final, bloomsbury-payout) covering the exact same court event, so it was dropped. The remaining 2 are distinct, never-before-published stories and are kept. Publishing below the floor of 3 is expected here and not padded with stale, duplicate, or off-topic items."
   },
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.books (today 2026-07-25 + days 2026-07-20 through 07-24).",
-    "dropped_as_published_dup": [
+    "checked_against": "pipeline/news_data.json -> sections.books (today 2026-07-26 + last 5 days 07-22..07-25). Published stories in window: fanfic-ai-markers, vancouver-ai-disclosure, bloomsbury-ai-licensing, ai-narration, ai-uptake, hologram, zedoc, ai-course, editor-ai-survey, anthropic-final, bloomsbury-payout, substack-pangram, wiley-genesis, ipa-congress-ai, booklens-hallucinate, ai-nonfiction-hill, open-science-2. Neither the Google/Gemini publisher lawsuit (as a dedicated card) nor the ElevenLabs/Odyssey narration story appears among them.",
+    "dropped_as_duplicate": [
       {
-        "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
-        "reason": "Content dup of published 'ai-narration' card (Publishers Weekly, 2026-07-22, .../100825-some-favor-ai-narration-for-multi-cast-audiobooks-even-as-interest-in-ai-voices-wanes.html). Same Spoken-commissioned blind-test study finding listeners rate AI multi-cast narration favorably versus human on character-driven scenes - reworded headline via a different outlet, same event/release. Earliest-wins: drop."
+        "url": "https://publishingperspectives.com/2026/07/court-grants-final-approval-to-landmark-1-5-billion-anthropic-settlement/",
+        "reason": "Same event as already-published anthropic-final (Publishers Weekly) and bloomsbury-payout (The Bookseller) on 2026-07-24 — the $1.5B Bartz v. Anthropic final court approval — reworded via a different outlet. Hard content duplicate; earliest-wins."
       }
     ],
-    "dropped_within_pool_dup": [],
-    "considered_not_selected": [],
-    "backfill": "No further candidates exist to backfill - the filtered pool held only 2 items and one is a published dup. Cannot reach 2; not padded.",
-    "diversity": "Single surviving pick (Good e-Reader). Single-category section (books): accent #f5a623, motif swatch per sources.json."
+    "content_overlap_reviewed": {
+      "url": "https://janefriedman.com/publishers-file-lawsuit-against-google-for-ai-training/",
+      "note": "Librarian flagged possible overlap with a 'Google Gemini training lawsuit' story. The only prior touch in books history is a single passing sentence inside the bloomsbury-ai-licensing earnings round-up (whose reported news was Bloomsbury's licensing revenue, not the suit). Consistent with prior pipeline practice, that contextual mention does not count as publishing the lawsuit; the dedicated suit is treated as net-new and kept."
+    },
+    "backfill": "No further candidates to backfill — the filtered pool contained only these 3 items. Cannot reach floor of 3 after dropping the Anthropic duplicate; not padded.",
+    "diversity": "Two distinct outlets (janefriedman.com, bookriot.com). Single-category section (books): pick 1 uses the category accent #f5a623; pick 2 given a distinct palette accent #0070f3 to differentiate. Both motif swatch per sources.json."
   }
 }

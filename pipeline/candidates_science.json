@@ -1,56 +1,81 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "section": "science",
-  "now_iso": "2026-07-25T23:00:47Z",
+  "now_iso": "2026-07-26T23:27:43Z",
   "window_hours": 336,
+  "note": "WebSearch budget (200/200) was already exhausted at run start (parallel-librarian limit), so discovery relied on WebFetch of section listing/tag pages + per-article date verification. All 8 items freshness-gated PASS (science 336h window; cutoff ~2026-07-12). Outlets: phys.org x3 (at cap), eurekalert x2, techxplore x2, physicsworld x1 (4 distinct outlets). EXPANDED beyond the day-208 emphasis: kept protein-design+directed-evolution, subseasonal weather emulator (CAMulator), generative-AI learning-illusion psychology, autonomous fusion-heating (gyrotron), autonomous bio-materials lab (AI-BIOME), plus new closed-loop energy-materials lab (Tohoku), ML perovskite-solar durability (UC Davis), and an AI-in-physics-discovery essay (physicsworld). DROPPED as STALE (<pre 07-12): space.com 10k exoplanets (May 8), physicsworld rare-event weather (Jul 6), sciam IVF/ECG/Roman-scrolls (Jun/Jul 6), all sciencedaily AI items (<=Jun 29), all quantamagazine (<=Jun 18). DROPPED as DUPES of prior-day cards per rotation note: techxplore GOFLOW ocean currents (07-22 card), techxplore NUS macroscopic-materials prediction (07-25 card), sciam GPT-5.6 cycle-double-cover math proof (07-24 cyclecover card), statnews openADMET drug-metabolism contest (07-22 openadmet card). DROPPED as AI-INDUSTRY NOISE (relevance test): all statnews items (Nabla/BMS/Anthropic funding, supercomputers, market share) and all genengnews items (Transcripta $24M, Insilico trials, Vertex/Crinetics acquisition, deals). ASTRONOMY + BCI + clinical-psychology yielded no fresh verifiable item (space.com/universetoday tag pages 404'd or stale; consistent with prior run). techxplore is phys.org's sister outlet and is whitelisted in keywords_science.json allowed_domains; used here for on-topic materials stories not mirrored on phys.org's own fresh feed.",
   "items": [
     {
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
-      "excerpt": "ETH Zurich physicists unveiled PLATON, a particle detector that swaps millions of tiny components for a single block of light-producing material, reading particle tracks in fast 3D via a light-field camera, SPAD photon sensors and AI reconstruction. Simulations suggest it could match or beat today's best detectors while being far easier to scale, with spin-off potential for sharper PET medical scans."
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
-      "source": "Science Daily",
-      "category": "science",
-      "published_iso": "2026-07-16T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp",
-      "excerpt": "A new AI tool from Queensland University of Technology screened 2.6 million cancer papers published between 1999 and 2024 and flagged more than 250,000 as suspicious, matching writing and data patterns seen in known fraudulent work. The system points at one of the largest research-integrity problems in modern science, showing AI turned on the literature that produced it."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-ai-atlantic-circulation-insights-years.html",
+      "url": "https://phys.org/news/2026-07-combining-ai-protein-laboratory-evolution.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-unlocks-atlantic-ci.jpg",
-      "excerpt": "Helmholtz researchers combined machine learning with established physical models to reconstruct Atlantic Ocean circulation from 20 years of Argo profiling-float data, extracting more signal from sparse measurements than physics-only methods. The hybrid approach sharpens understanding of key circulation systems that drive climate."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/ai-and-medical.jpg",
-      "excerpt": "North Carolina State University researchers built an AI model, BINND, that predicts which DNA molecules will bind to each other with 83.5% accuracy after training on 144 million sequence pairs, beating prior methods by at least 10%. Better modeling of these hypercomplex binding relationships could aid biomedical diagnostics and DNA computing."
-    },
-    {
-      "url": "https://www.psychologytoday.com/sg/blog/in-one-lifespan/202607/can-ai-read-the-room",
-      "source": "Psychology Today",
-      "category": "science",
+      "headline": "Combining AI protein design with laboratory evolution improves engineered enzymes",
       "published_iso": "2026-07-24T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Psychologist Michael Hogan describes research using AI-driven analytics to code non-verbal behavior such as silence during group work at millisecond precision, finding that identical pauses carry different meanings by context. The takeaway: the hard problem is not teaching AI to notice behavior, but to interpret it in context."
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/combining-ai-with-labo.jpg",
+      "excerpt": "Broad Institute researchers found that starting laboratory protein evolution from AI-designed, more stable proteins beats starting from natural ones: an AI-designed scaffold gave a protease more room to acquire new mutations. They reprogrammed botulinum-neurotoxin proteases to target ataxin-2, achieving a 79-fold improvement over naturally derived versions. The result suggests generative protein design and directed evolution are complementary rather than competing tools for engineering therapeutic enzymes."
     },
     {
-      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
-      "source": "Quanta Magazine",
+      "url": "https://phys.org/news/2026-07-subseasonal-ai.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp",
-      "excerpt": "Quanta surveys a new class of thermodynamic computers that harness random thermal fluctuations as a computational resource rather than fighting them, aiming to run generative-AI algorithms with orders-of-magnitude less energy. Physicists like Normal Computing's Patrick Coles argue exploiting thermodynamics could reshape the hardware substrate of AI."
+      "headline": "Chasing subseasonal forecasts with AI weather-climate emulators",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chasing-subseasonal-fo.jpg",
+      "excerpt": "NSF NCAR researchers are building AI weather-climate emulators such as CAMulator that reproduce complex atmospheric models at roughly 350x lower compute cost, enabling rapid subseasonal (2-8 week) forecasts. Once trained, the emulators generate long simulations in a fraction of the time supercomputer physics models require. The work targets the notoriously hard 2-8 week forecast gap between weather and seasonal climate prediction."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-uncovering-multidimensional-effects-generative-ai.html",
+      "source": "Phys.org",
+      "category": "science",
+      "headline": "Study uncovers multidimensional cognitive effects of generative AI on learning",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/generative-ai.jpg",
+      "excerpt": "A Sungkyunkwan University study finds generative AI improves students' problem-solving efficiency but that high AI-dependency learners score lower on tests while feeling they learned more, a gap the authors call the 'learning illusion.' The work maps multidimensional cognitive effects of leaning on AI during study, distinguishing performance gains from genuine understanding. It has direct implications for how educators and cognitive scientists measure AI's real effect on human learning."
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1137137",
+      "source": "EurekAlert!",
+      "category": "science",
+      "headline": "Princeton to build AI system to autonomously operate fusion-plasma gyrotrons",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d6a27945-de14-4d41-a94c-c9d5d733665e/Rendition/low-res/Content/Public",
+      "excerpt": "Princeton Plasma Physics Laboratory will lead a Genesis Mission project to build an AI system that autonomously operates the gyrotrons used to heat fusion plasmas, alongside virtual simulations of the hardware. The effort is part of a US national initiative to harness AI for fusion-energy scientific discovery. Autonomous control of heating hardware is a step toward AI-managed operation of future fusion reactors."
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1137370",
+      "source": "EurekAlert!",
+      "category": "science",
+      "headline": "CUNY wins $18.1M to build AI-BIOME, an AI-plus-robotics lab for bio-inspired materials",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/744dc79c-7ae8-404d-8a7e-4411b1de539b/Rendition/low-res/Content/Public",
+      "excerpt": "CUNY won an $18.1M NSF award to build AI-BIOME, a cloud-programmable national laboratory that pairs AI with robotics to speed the discovery, design and production of bio-inspired materials for uses such as sustainable plastics and drug delivery. It is a closed-loop autonomous-lab approach to materials science, letting AI propose candidates that robots then synthesize and test. The facility is designed to be remotely programmable by researchers across the country."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "headline": "Closed-loop AI framework could shorten clean energy materials development by years",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
+      "excerpt": "Tohoku University researchers built an AI-driven framework that fuses materials databases, machine-learning interatomic potentials, large language models, intelligent AI agents and automated experiments into a continuous feedback loop they call the '4th+ paradigm.' Experimental results feed back to refine AI predictions iteratively, dramatically cutting the time needed to discover advanced energy materials. The self-driving-lab approach targets longstanding trial-and-error bottlenecks in materials science."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-machine-longer-materials-solar-cells.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "headline": "Machine learning accelerates search for longer-lasting materials for solar cells",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-accel-1.jpg",
+      "excerpt": "UC Davis researchers trained machine-learning models on 137,000 measurements from 10 perovskite compositions to predict how untested compositions would respond to repeated heating. The models found that lower cesium levels let materials recover after thermal stress while higher cesium caused permanent degradation. The approach lets scientists prioritize the candidates most likely to survive real-world operating conditions instead of exhaustive lab trial-and-error."
+    },
+    {
+      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
+      "source": "Physics World",
+      "category": "science",
+      "headline": "AI's black box problem: discovering physics we don't understand",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
+      "excerpt": "AI systems are accelerating physics discovery by finding hidden patterns in massive datasets, from particle detection at CERN to materials innovation at Argonne, yet the opacity of these models means researchers often get accurate results without understanding how the AI reached them. The article asks whether science is entering an era of 'discoveries without comprehension' and what that means for reproducibility and researcher training. It weighs the changing relationship between human physicists and increasingly autonomous AI systems."
     }
   ]
 }

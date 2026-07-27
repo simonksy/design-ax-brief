@@ -1,9 +1,10 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "design",
   "media": [
-    {"id": "opus5daily", "type": "svg", "motif": "frame", "accent": "#ff5a4d"},
-    {"id": "handfont", "type": "image", "src": "pipeline/media/handfont.png"},
-    {"id": "bookdrift", "type": "image", "src": "pipeline/media/bookdrift.png"}
+    {"id": "figma", "type": "image", "src": "pipeline/media/figma.png"},
+    {"id": "designmd", "type": "image", "src": "pipeline/media/designmd.png"},
+    {"id": "vibecoding", "type": "image", "src": "pipeline/media/vibecoding.png"},
+    {"id": "google-creativity", "type": "image", "src": "pipeline/media/google-creativity.png"}
   ]
 }

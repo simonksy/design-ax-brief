@@ -1,53 +1,71 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "section": "books",
-  "now_iso": "2026-07-25T23:00:47Z",
+  "now_iso": "2026-07-26T23:27:43Z",
   "window_hours": 336,
+  "note": "Librarian pass (window 336h -> since 2026-07-12T23:27:43Z). Search budget was exhausted by the parallel multi-section run, so this pass combined the ~9 WebSearch results obtained before the cap with WebFetch mining of allowed-domain hub/tag/category pages (publishersweekly.com, thebookseller.com, publishingperspectives.com, goodereader.com, janefriedman.com, lithub.com, bookriot.com, the-digital-reader.com, teleread.org, electricliterature.com, writersdigest.com, thecreativepenn.com). EXPANSION USED: co-writing/Sudowrite/NovelAI, book covers, literary translation, generative fiction, ghostwriting, ebook tools, KDP policy, book marketing, reading assistant, poetry, children's books, AI manga/webtoon, recommendation, plus Korean equivalents. Every candidate's published time was verified via WebFetch (article:published_time / JSON-LD / byline / listing date) and gated with pipeline/freshness.py <iso> 2026-07-26T23:27:43Z books. IMPORTANT OVERLAP WARNING: consistent with the earlier recovery pass recorded in git history, the AI x books beat in this 14-day window is nearly exhausted. Every FRESH in-window item found maps to a story that appears to be already-published/held (NYT AI-nonfiction flood, Substack Pangram detection, Publishers v. Google Gemini lawsuit, Anthropic $1.5B final settlement, ElevenLabs/Michael-Caine Odyssey narration). Net-new is likely ~0-1; curator should expect heavy dedup against sections.books history. Dropped as STALE (before 07-12): Olga Tokarczuk AI-novel (lithub 05-19), Granta AI prize story (lithub 05-19), 'harder to spot AI' (lithub 04-16), USBS CEOs 'AI witch hunt' (PW 06-04), Ink AI ebook generator (goodereader 2023), Korean webtoon AI (goodereader 2024), Japan AI manga controversy (goodereader 2023), Stardust/Eisner AI withdrawal (PW 05-27), janefriedman 'Top AI tools' (07-11, just outside window). Dropped as AI-business/industry NOISE per relevance test: Wiley Genesis Mission Consortium (PP 07-22), Wiley fiscal-2026 AI gains (PW), GlobalComix $13M raise, US audiobook sales +13%.",
+  "exhaustion_report": {
+    "fresh_in_window_found": 5,
+    "net_new_after_dedup": 0,
+    "distinct_outlets_swept": 20,
+    "recovery_pass": "2026-07-26T23:27:43Z RECOVERY PASS (section had only 2 net-new picks, needs floor 3). WebSearch budget fully exhausted (200/200) as expected, so pivoted 100% to WebFetch of allowed-domain listing/tag/RSS/category pages. SWEPT: goodereader.com (blog, technology, digital-publishing, audiobooks, business-news, e-book-news, e-paper), thecreativepenn.com/blog, publishingperspectives.com (homepage + /2026/07/ archive), thebookseller.com (news + futurebook), bookriot.com/category/news, lithub.com/tag/artificial-intelligence, janefriedman.com/blog, publishersweekly.com (content-and-e-books, copyright, publisher-news, childrens-industry-news, authors, /pw/edition/ai.html), electricliterature.com, writersdigest.com, scholarlykitchen.sspnet.org, kindlepreneur.com/blog, teleread.org, booksandpublishing.com.au. BLOCKED/UNREACHABLE by Claude Code fetch: theverge.com, wired.com, arstechnica.com (all 'unable to fetch'); the-digital-reader.com (403 on every path). RESULT: ZERO net-new fresh non-dup items. Every FRESH (>=2026-07-13) in-window AI x books item maps to an already-published or already-held story: Anthropic $1.5B final settlement + attorney-fee reduction + Bloomsbury payout, Publishers/Hachette/Cengage/Elsevier v. Google Gemini (already kept), Substack Pangram AI detection, NYT AI-generated nonfiction (Bill Johns 450 books), Spoken 61% AI multi-cast narration study, Wiley Genesis Mission (noise), IPA Congress 'AI dominates', ElevenLabs/Michael-Caine Odyssey narration (already kept), scholarlykitchen Vancouver AI disclosure + Open Science 2.0, book-banners AI tools, textbook text-to-3D. All rested creative-tool angles explicitly probed (Sudowrite/NovelCrafter co-writing, AI book covers, AI literary translation, KDP/self-publishing AI policy, AI ebook reading assistants, AI comics/manga/webtoon, generative fiction, ghostwriting, AI poetry, children's books, book recommendation) surfaced ONLY stale 2023-early-2026 hits (Draft2Digital fees Apr-15, GlobalComix AI-localize Mar-25, Apple Books AI narration Jun-10, goodereader Google Play Books AI Apr-06, lithub ChatGPT-Proust Jul-07 just outside window, PW Europe translation-market AI Apr-09). No Korean AI-출판 sources exist in the books allowed_domains whitelist. CONCLUSION: the AI x books beat is genuinely exhausted for net-new in this 14-day window; the 5 pre-existing candidates below are retained but all carry overlap_flags to already-held stories.",
+    "prior_reason": "Search cap hit early (shared 200-call budget across parallel librarians); hub-page mining of 12 allowed domains surfaced only copyright/AI-detection/audiobook stories already covered in the last week's briefs. No fresh (07-13..07-26) items surfaced on the rested creative-tool angles (co-writing tools, book covers, generative fiction, ghostwriting, KDP policy, poetry, children's books, webtoon/manga tools, reading/recommendation apps, literary translation) -- all such hits were 2023-early-2026 and STALE."
+  },
   "items": [
     {
+      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
+      "source": "janefriedman.com",
       "category": "books",
-      "source": "Publishers Weekly",
-      "title": "Norway's Beat Spins Out Zedoc, a New Agentic AI Platform",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100855-norway-s-beat-spins-out-zedoc-a-new-agentic-ai-platform.html",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "excerpt": "Norway's Beat Technology has spun out Zedoc, an agentic-AI metadata platform for publishers that cleans and enriches book data, generates ONIX records, does subject classification (Thema/BISAC/Dewey), speech-to-text and audiobook chapterization to make titles discoverable to AI systems.",
-      "og_image": null
+      "headline": "New York Times journalist investigates origins of AI-generated nonfiction",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "excerpt": "NYT journalist Kashmir Hill traced an AI-written biography of herself on Amazon back to Bill Johns, a 70-year-old retiree who has self-published more than 450 AI-generated books that still sell several hundred print copies a month. The piece maps how machine-generated titles are flooding the marketplace and what that means for human authors' discoverability and trust. A concrete look at the economics and craft consequences of AI book generation at scale.",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
+      "freshness": "FRESH",
+      "overlap_flag": "likely maps to already-held 'NYT AI-nonfiction' story"
     },
     {
+      "url": "https://janefriedman.com/substack-adds-ai-detection-tools-but-creators-can-disable-them/",
+      "source": "janefriedman.com",
       "category": "books",
-      "source": "Good e-Reader",
-      "title": "Can Interactive 3D Improve Digital Textbooks Without Making Reading More Complicated?",
-      "url": "https://goodereader.com/blog/digital-publishing/can-interactive-3d-improve-digital-textbooks-without-making-reading-more-complicated",
-      "published_iso": "2026-07-12T12:00:00Z",
-      "excerpt": "Digital textbook publishers can now use AI text-to-3D tools to turn lesson descriptions into interactive 3D models, but the piece argues they should deploy the technology selectively where it clarifies spatial or internal structures that flat images cannot.",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/07/12220738/unnamed-1.jpg"
+      "headline": "Substack adds AI detection tools, but creators can disable them",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "excerpt": "Substack rolled out reader-facing AI-detection powered by Pangram that flags AI-assisted writing, while letting individual creators opt out of the scan. Friedman argues the limited, opt-in approach is a responsible way to surface disclosure norms without banning AI outright, and frames it as an emerging template for how publishing platforms handle machine-written text. Directly relevant to how writers disclose and readers evaluate AI-assisted work.",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
+      "freshness": "FRESH",
+      "overlap_flag": "likely maps to already-held 'Substack Pangram detection' story"
     },
     {
+      "url": "https://janefriedman.com/publishers-file-lawsuit-against-google-for-ai-training/",
+      "source": "janefriedman.com",
       "category": "books",
-      "source": "The Bookseller",
-      "title": "Publishing has 'lowest uptake of AI across creative industries', according to new report",
-      "url": "https://www.thebookseller.com/news/publishing-has-lowest-uptake-of-ai-across-creative-industries-according-to-new-report",
+      "headline": "Publishers file lawsuit against Google for AI training",
+      "published_iso": "2026-07-15T12:00:00Z",
+      "excerpt": "Major publishers including Hachette, Cengage and Elsevier sued Google, alleging it used digital copies from Google Books, Google Play and Google Scholar to train its Gemini model without permission. The complaint claims Google internally flagged the practice as 'highly problematic' and warned of billions in potential fines yet proceeded anyway. A rights/consent story shaping whether and how book text feeds AI models.",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg",
+      "freshness": "FRESH",
+      "overlap_flag": "likely maps to already-held 'Google Gemini training lawsuit' story"
+    },
+    {
+      "url": "https://bookriot.com/library-news-round-up-july-2026/",
+      "source": "bookriot.com",
+      "category": "books",
+      "headline": "Library News Round-Up, July 2026 (incl. ElevenLabs' AI-narrated Odyssey)",
+      "published_iso": "2026-07-24T12:00:00Z",
+      "excerpt": "Book Riot's July library round-up highlights ElevenLabs releasing an officially licensed AI-narrated edition of The Odyssey using a synthetic Michael Caine voice, alongside broader reading-crisis coverage. The item captures the arrival of licensed synthetic-voice narration in the commercial audiobook market and the job-displacement questions it raises for human narrators. A creative-AI capability landing in mainstream publishing.",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/school-library.jpg.optimal.jpg",
+      "freshness": "FRESH",
+      "overlap_flag": "AI item (ElevenLabs/Michael-Caine Odyssey) likely already-held; round-up date is fresh"
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/07/court-grants-final-approval-to-landmark-1-5-billion-anthropic-settlement/",
+      "source": "publishingperspectives.com",
+      "category": "books",
+      "headline": "Court grants final approval to landmark $1.5 billion Anthropic settlement",
       "published_iso": "2026-07-21T12:00:00Z",
-      "excerpt": "A new report finds book publishing has the lowest AI adoption of any creative industry at just 6%, as copyright and authorship concerns keep editorial and production teams cautious about folding generative AI into their day-to-day workflows.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg"
-    },
-    {
-      "category": "books",
-      "source": "Publishing Perspectives",
-      "title": "Announcing a Course to Help Publishers Navigate the AI Age Responsibly",
-      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "Publishing Perspectives is launching 'AI in the Publishing Industry: A Workshop for Leaders and Doers,' a four-week online program teaching publishing professionals how to understand and responsibly implement AI across editorial and production workflows.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png"
-    },
-    {
-      "category": "books",
-      "source": "Publishing Perspectives",
-      "title": "Wiley Joins 'Genesis Mission Consortium' in Support of U.S. AI Goals",
-      "url": "https://publishingperspectives.com/2026/07/wiley-joins-genesis-mission-consortium-in-support-of-u-s-ai-goals/",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "Wiley joined the Genesis Mission Consortium, making its AI research-intelligence tools available to Department of Energy labs alongside Nvidia and Microsoft, a sign of how scholarly publishers are turning their catalogs into AI-mediated research workflows.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Wiley_Genesis-Mission-Consortium-793x446.jpg"
+      "excerpt": "A federal judge granted final approval to the $1.5 billion Bartz v. Anthropic copyright settlement, with nearly 500,000 eligible works registered and authors set to receive up to about $3,000 per work while larger publishers gain tens of millions. The ruling establishes a concrete payout precedent for using copyrighted books to train large language models. Landmark rights outcome for the AI-and-books landscape.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-05-15-at-8.39.24-AM.png",
+      "freshness": "FRESH",
+      "overlap_flag": "likely maps to already-held 'Anthropic $1.5B final settlement' story"
     }
   ]
 }

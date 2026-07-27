@@ -1,9 +1,11 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "gadgets",
   "media": [
-    {"id": "meta-glasses-299-review", "type": "image", "src": "pipeline/media/meta-glasses-299-review.jpg"},
-    {"id": "z-flip8-cover-screen", "type": "image", "src": "pipeline/media/z-flip8-cover-screen.jpg"},
-    {"id": "ai-camera-earbuds", "type": "image", "src": "pipeline/media/ai-camera-earbuds.jpg"}
+    { "id": "apple-glasses", "type": "image", "src": "pipeline/media/apple-glasses.jpg" },
+    { "id": "cirqa", "type": "image", "src": "pipeline/media/cirqa.jpg" },
+    { "id": "neo", "type": "video", "src": "pipeline/media/neo.mp4", "poster": "pipeline/media/neo.jpg" },
+    { "id": "gemini-home", "type": "image", "src": "pipeline/media/gemini-home.jpg" },
+    { "id": "robot-phone", "type": "image", "src": "pipeline/media/robot-phone.jpg" }
   ]
 }

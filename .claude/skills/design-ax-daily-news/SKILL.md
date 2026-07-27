@@ -31,6 +31,12 @@ widen to more of that section's `allowed_domains`, re-search, and keep going unt
 section reaches 5 fresh non-duplicate candidates or the topic is genuinely exhausted.
 Report what was added when expansion was used.
 
+**Recovery-pass cap (runtime guard).** After curation, sections still under floor may get
+a RECOVERY collection pass — but at most **2 recovery passes per run**, spent on the most
+deficient sections first. A recovery pass must NOT repeat already-used keywords: expand
+into related/adjacent terms (synonyms, parent/child topics, adjacent tools, people, event
+names). Sections still under floor after the cap ship as-is, flagged in the final report.
+
 Run STRICTLY in order within each section, and after each agent verify its artifact
 exists and is non-empty before the next. Intermediate artifacts are written per section
 (e.g. `pipeline/keywords.json`, `candidates.json`, … are reused per section — archive

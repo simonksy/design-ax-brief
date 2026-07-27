@@ -1,35 +1,72 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "music",
-  "now_iso": "2026-07-25T23:00:47Z",
+  "now_iso": "2026-07-26T23:27:43Z",
   "window_hours": 336,
+  "note": "Section=music, 14-day window (336h). 5 fresh, WebFetch-verified, distinct items across 4 outlets (Music Business Worldwide x2, within the 3/outlet cap). Funnel narrower than the 16-28 target because fresh music-AI news this window skews heavily to licensing/rights/legal (RIAA-IFPI AI labeling tags Jul 10, GEMA PLAI dataset Jul 24, Udio-BuyDRM walled garden Jul 17, AFM v UMG/WMG, UMG-NVIDIA) which the design-relevance filter drops as business noise, and digitalmusicnews.com (Lorde, GEMA PLAI, streamer tagging, Udio-BuyDRM) consistently returned HTTP 403 on WebFetch so their published times could not be verified. Expanded per override with sibling keywords/vendors (Suno v6, Udio, ElevenLabs Music, Stable Audio 3.0, Google Lyria 3/Flow, AI DJ/Apple AutoMix, iZotope Ozone 12, LANDR, Roland Melody Flip, DrumBot AI, RipX 8, ROLI Coach, Universal Audio LUNA, PEEL STEMS 2, Ableton/Logic AI, Riffusion, Korean 'AI 음악') — nearly all resolved STALE (published before 2026-07-12) once WebFetch surfaced the real datePublished. YouTube social (Benn Jordan, Andrew Huang) skipped: watch-page WebFetch returned only footer nav, so uploadDate could not be verified. Kept mix balances creation tools (Aiode audio-to-audio studio, Dev Ocean MaYa agent) with consumption/heard-side shifts (Spotify conversational assistant, Deezer AI-upload flood, Lorde vs Spotify AI song descriptions). | RECOVERY PASS (now 2026-07-26T23:27Z): appended 2 NET-NEW fresh AI-creation items after re-sweeping allowed-domain listing/tag/RSS pages (WebSearch budget exhausted). (1) Fender Studio Pro 8.1 review [musictech, Jul 15] - Moises AI stem separation/generation + Studio Assistant chatbot + AI voice replacement inside a free DAW. (2) iZotope VEA free giveaway [bedroomproducersblog, Jul 26] - AI-assisted (RX/Nectar-derived) 3-knob vocal enhancer, accessibility shift for creators. Extensive sweep of synthtopia, gearnews, bpb, musictech(news/reviews/features), soundonsound, cdm.link, attackmagazine, djmag, mixmag(403), factmag, hypebot, completemusicupdate, music-ally, engadget, techcrunch, ra.co, billboard(402) confirmed the 14-day window's remaining fresh AI news is dominated by legal/business (Sony v Udio 2nd suit, AFM AI clause, Canadian authorship, Suno 55M breach) and non-AI gear releases. STALE-dropped: FL Studio 2026 Gopher (Jul 9, 17d), TIDAL AI labeling (Jul 4), Ableton 12.3 stem sep (Sep 2025), SpectraLayers 13 (Feb). Non-AI-dropped: Vochlea DubBox (rule-based triggers), Gliff (MIDI-only), EastWest DrumX, UJAM Symphonic Elements, CDJ-1500X CoBeat (QR not AI), Musik Hack HyFi (DSP), PatchRig FX (preset 'prompts'), Reason 14.",
   "items": [
     {
       "category": "music",
-      "source": "MusicRadar",
-      "title": "How Charli XCX's producers ran a jam session through an AI sampling plugin to make 'No One Lasts Forever'",
-      "url": "https://www.musicradar.com/artists/we-were-running-around-the-studio-with-as-many-things-plugged-in-as-possible-just-doing-the-worst-sounds-trying-to-find-the-ugliest-things-how-charli-xcxs-producers-ran-a-jam-session-through-an-ai-sampling-plugin-to-make-no-one-lasts-forever",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "excerpt": "AG Cook and Finn Keane reveal how they ran chaotic studio jams through the AI sampling/audio-mosaicking plugin Concatenator to build the audio-heavy production of 'No One Lasts Forever' from Charli XCX's new album 'Music, Fashion, Film' - a concrete look at generative sampling inside a mainstream pop workflow.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Y7T4rzJF2Cusczjn5oEtA6.jpg"
+      "source": "Synthtopia",
+      "title": "Ocean Swift Intros Dev Ocean Modular Synthesis & Sound Design Environment",
+      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
+      "published_iso": "2026-07-17T12:00:00Z",
+      "excerpt": "Ocean Swift released DevOcean Modular, a 145-module software modular synthesis and sound-design environment. Its standout feature is MaYa, a built-in modular AI agent that patches alongside the user, suggesting and wiring modules during the creative process. It is an early example of a generative AI 'co-patcher' embedded directly inside a modular synth workflow rather than a text-to-song generator. Available now for EUR 129.99 (35% off EUR 199 MSRP until September 1, 2026).",
+      "og_image": null
     },
     {
       "category": "music",
-      "source": "Digital Music News",
-      "title": "BandLab Acquires Fully Licensed AI-Powered Music Studio Aiode",
-      "url": "https://www.digitalmusicnews.com/2026/07/15/bandlab-acquires-aiode/",
+      "source": "TechCrunch",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "published_iso": "2026-07-14T12:00:00Z",
+      "excerpt": "Spotify launched a conversational AI assistant for Premium subscribers that lets listeners chat by voice or text to discover and control music, podcasts and audiobooks. Available in beta on iOS and Android in the US, Ireland and Sweden for users 18+, it blends Spotify's own AI with third-party language models. Users can ask about a song, query their listening history, get recommendations and steer playback through back-and-forth conversation - pushing AI-driven discovery well beyond the existing AI DJ.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?w=1024"
+    },
+    {
+      "category": "music",
+      "source": "Music Business Worldwide",
+      "title": "90,000 AI tracks flood Deezer daily - passing 50% of all new music uploads for the first time",
+      "url": "https://www.musicbusinessworldwide.com/90000-ai-tracks-flood-deezer-daily-passing-half-of-new-music-uploads-for-the-first-time/",
+      "published_iso": "2026-07-21T12:00:00Z",
+      "excerpt": "Deezer revealed that fully AI-generated music topped 50% of daily uploads for the first time in June 2026, with roughly 90,000 AI tracks arriving each day - up from 75,000 in April. The platform says up to 85% of streams from such tracks were fraudulent, and it is removing AI content used for stream manipulation as well as tracks with no plays in six months. A concrete data point on how generative AI is reshaping what lands on streaming and how listeners encounter it.",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg"
+    },
+    {
+      "category": "music",
+      "source": "Music Business Worldwide",
+      "title": "BandLab Technologies buys Aiode, an AI music studio built on 'fully-licensed' audio",
+      "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
       "published_iso": "2026-07-15T12:00:00Z",
-      "excerpt": "BandLab Technologies has acquired Aiode, an AI-powered music studio built on fully licensed audio-to-audio models developed with professional session musicians and producers, adding it as a third music-making platform alongside BandLab and Cakewalk - bringing consent-based generative tools to a mass creator base.",
+      "excerpt": "BandLab Technologies acquired Aiode, an AI-powered music studio that lets creators build tracks using audio-to-audio models developed with professional session musicians. Its distinguishing pitch is that 100% of the audio used to train its models is licensed and traceable. Creators can generate performances section by section, spin up alternate takes and export projects as stems or full mixes - positioning it as a 'responsible' route for making music with AI.",
       "og_image": null
     },
     {
       "category": "music",
-      "source": "Digital Music News",
-      "title": "GEMA Launches Fully Cleared 'PLAI' Music Dataset for AI Training",
-      "url": "https://www.digitalmusicnews.com/2026/07/24/gema-plai-launch/",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "excerpt": "Germany's GEMA officially launched PLAI, a fully cleared music dataset and licensing system for AI developers spanning almost 180,000 recordings across 60+ genres - infrastructure aimed at enabling legally clean, consent-based AI music generation tools rather than scraped models.",
-      "og_image": null
+      "source": "MusicRadar",
+      "title": "Lorde slams Spotify's 'About the Song' feature over inaccurate AI-generated descriptions",
+      "url": "https://www.musicradar.com/artists/hey-spotify-im-going-to-go-out-on-a-limb-and-say-we-dont-want-this-not-only-is-this-inaccurate-but-reducing-a-song-to-an-ai-generated-meaning-right-at-the-source-feels-like-it-limits-free-interpretation-lorde-slams-spotifys-about-the-song-feature",
+      "published_iso": "2026-07-17T12:00:00Z",
+      "excerpt": "Lorde publicly criticized Spotify's beta 'About the Song' feature, which uses AI to generate song descriptions from third-party sources, after it published inaccurate details about her track 'Current Affairs.' She argued that reducing a song to an AI-generated meaning 'right at the source' limits free interpretation, and called for an artist opt-out. Spotify acknowledged the complaint and removed the offending text - a flashpoint over AI mediating how listeners understand music.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/U6vopy9RoswUBrqr8Nk8Ji.jpg"
+    },
+    {
+      "category": "music",
+      "source": "MusicTech",
+      "title": "Fender Studio Pro 8.1 review: AI stem separation, generation and a Studio Assistant land in Fender's DAW",
+      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
+      "published_iso": "2026-07-15T08:00:51Z",
+      "excerpt": "MusicTech reviews Fender's free Studio Pro 8.1 DAW, which now leans heavily on AI: a Moises-powered engine handles both stem separation and stem generation, alongside voice replacement and AI vocal pitch-correction. A new beta 'Studio Assistant' chatbot (Pro+ tier) answers production questions inside the app. It marks a mainstream, no-cost DAW folding Moises-grade AI directly into the mixing/mastering workflow rather than as an add-on.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg"
+    },
+    {
+      "category": "music",
+      "source": "Bedroom Producers Blog",
+      "title": "iZotope VEA - one-knob AI vocal enhancement built from RX and Nectar tech - is free until July 31",
+      "url": "https://bedroomproducersblog.com/2026/07/26/izotope-japan-vea-free/",
+      "published_iso": "2026-07-26T17:50:58Z",
+      "excerpt": "iZotope is giving away VEA (normally $29), a stripped-down vocal-enhancement plugin that repackages the AI-assisted processing from its RX, Ozone and Nectar suites into three controls - Clean, Shape and Boost - for de-noising, tone-shaping and presence. Aimed at podcasters, streamers and producers who want RX-grade cleanup without the deep interface, it lowers the barrier to iZotope's machine-learning audio tools. The free window runs through July 31, 2026, tied to Boris FX's acquisition of iZotope.",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/vea-728x364.jpg"
     }
   ]
 }

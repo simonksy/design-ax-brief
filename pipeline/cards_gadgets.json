@@ -1,75 +1,109 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "gadgets",
   "cards": [
     {
-      "id": "meta-glasses-299-review",
+      "id": "apple-glasses",
       "eyebrow": "AI NEWS",
-      "headline": "값은 내렸지만 짐은 늘어난\n메타의 299달러 AI 안경",
-      "body": "레이밴 모델과 같은 메타 AI와 카메라를 299달러에 담았지만, 마감은 조금 투박하고 고급 기능은 월 20달러 구독을 요구한다.",
-      "mini_headline": "메타의 299달러 AI 안경 리뷰",
-      "tool": "Meta",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2217722/meta-glasses-review/",
-      "accent": "#ff5a4d",
+      "headline": "애플, 스마트 글래스 차별점으로\n프라이버시를 내세운다",
+      "mini_headline": "애플 글래스와 프라이버시",
+      "body": "애플은 온디바이스 처리와 뚜렷한 녹화 표시로 프라이버시를 스마트 글래스의 차별점으로 삼는다.",
+      "tool": "Apple",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "accent": "#0070f3",
       "motif": "headset",
-      "image": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "메타가 새로 내놓은 브랜드 AI 안경은 299달러부터 시작한다. 더 비싼 레이밴·오클리 모델과 같은 메타 AI 음성 비서와 카메라 기능을 그대로 담으면서 값을 낮췄다. 카리사 벨의 평가 점수는 10점 만점에 8점이다."},
-          {"t": "p", "x": "프레임은 어드벤처러, 스타파이어, 퓨리 세 가지다. 색과 스타일 선택지가 레이밴보다 넓고, 코받침을 조절할 수 있어 착용감도 조금 더 맞춰진다. 대신 생김새는 레이밴 짝보다 두툼하고 덜 세련됐다. 특히 퓨리는 60그램으로 무거워 오래 쓰면 불편하다."},
-          {"t": "p", "x": "카메라는 1200만 화소다. 배터리는 여덟 시간 넘게 간다고 하지만, 음악을 계속 틀면 실제로는 4시간 30분쯤 버틴다. 단축 기능을 넣는 프로그래머블 액션 버튼, 연사로 담는 다이내믹 캡처 설정이 있고, 오디오 안내로 길을 잡아주는 보행 내비게이션은 곧 들어온다."},
-          {"t": "p", "x": "메타 AI는 뮤즈 스파크 모델이 돌린다. 다만 소음 속에서 대화에 집중하게 해주던 컨버세이션 포커스는 이제 월 20달러 메타 원 구독 뒤로 넘어가 횟수 제한이 걸렸다. 카메라 LED를 손대면 강제 펌웨어 업데이트가 카메라를 꺼버린다."},
-          {"t": "p", "x": "벨은 레이밴 메타에 견줘 값어치는 확실하다고 봤다. 그러나 메타 로고가 큼직하게 박히면서, 안경이 몰래 녹화한다는 프라이버시 걱정은 오히려 더 커졌다."}
+          { "t": "p", "x": "애플이 오래 소문만 돌던 AI 스마트 글래스를 메타의 레이밴과 구분 짓는 축으로 프라이버시를 잡았다고 한다. 데이터를 기기 안에서 처리하는 방식과 녹화 상태를 더 또렷이 알리는 표시를 검토 중이다." },
+          { "t": "p", "x": "프라이버시를 앞세운 설계는 출시가 미뤄진 이유 중 하나로 꼽힌다. 공개 시점은 내년 6월 WWDC로 점쳐진다." },
+          { "t": "p", "x": "붐비는 AI 글래스 경쟁에 뛰어들면서 애플은 프라이버시를 전면에 내세운다." }
         ]
       }
     },
     {
-      "id": "z-flip8-cover-screen",
+      "id": "cirqa",
       "eyebrow": "AI NEWS",
-      "headline": "더 얇아진 갤럭시 Z 플립 8,\n커버 화면에 앱과 AI를",
-      "body": "삼성이 커버 화면을 4.1인치로 키운 Z 플립 8을 공개했다. 폰을 열지 않고도 앱과 제미나이 인텔리전스를 커버 화면에서 바로 쓴다.",
-      "mini_headline": "커버 화면에 앱과 AI 담은 Z 플립 8",
-      "tool": "Samsung",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2220510/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/",
-      "accent": "#eb367f",
+      "headline": "가민, 화면 없는 스마트 밴드\n시르카를 내놓는다",
+      "mini_headline": "가민 시르카 밴드",
+      "body": "가민이 구독료 없이 AI로 회복과 수면을 재는 화면 없는 스마트 밴드 시르카를 공개했다.",
+      "tool": "Garmin",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/garmin-cirqa-smart-band-launch-garmin-debuts-a-screen-free-whoop-and-fitbit-air-competitor",
+      "accent": "#f5a623",
       "motif": "headset",
-      "image": "",
+      "image": "https://cdn.mos.cms.futurecdn.net/ehLfvMLtc89egfv55WkLCQ-2560-80.jpg",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "삼성이 갤럭시 언팩 2026에서 Z 플립 8을 갤럭시 Z 폴드 8, Z 폴드 8 울트라와 함께 선보였다. 앞선 모델의 디자인은 그대로 두면서 몸체를 더 얇게 다듬고, 커버 화면 기능을 키웠다."},
-          {"t": "p", "x": "접었을 때 크기는 85.7 x 75.4 x 13.1mm, 펼치면 166.9 x 75.4 x 6.1mm다. 무게는 180그램으로 전작보다 조금 더 가볍고 작고 얇아졌다."},
-          {"t": "p", "x": "메인 화면은 6.9인치 AMOLED 2X(1,080 x 2,520)에 120Hz 가변 주사율과 비전 부스터를 얹었다. 커버의 플렉스 윈도우는 4.1인치 948 x 1,048 AMOLED로 60/120Hz를 지원한다."},
-          {"t": "p", "x": "새 플렉스 윈도우는 커버 화면에서 앱과 인사이트, 액션을 다룬다. 한눈에 정보를 보여주는 나우 브리프도 여기 담겼다. 제미나이 인텔리전스 자동화는 측면 키나 음성으로 부른다."},
-          {"t": "p", "x": "카메라는 5000만 화소 f/1.8 메인(광각), 1200만 화소 초광각, 1000만 화소 셀피로 짜였다. 영상은 새 수평 잠금 기능과 함께 최대 4K 60fps까지 찍는다."},
-          {"t": "p", "x": "프로세서는 퀄컴 스냅드래곤 8 엘리트 5세대 for 갤럭시다. 배터리는 4,300mAh 듀얼 구성으로 그대로고, 충전은 유선 최대 25W·무선 15W로 바뀌지 않았다."},
-          {"t": "p", "x": "가격은 1,200달러부터로 전작보다 100달러 올랐다. 삼성, 베스트바이, 아마존 등에서 예약받고 배송은 8월 7일 시작한다."}
+          { "t": "p", "x": "가민이 화면 없는 스마트 밴드 시르카를 공개했다. 구독료 없이 AI로 건강과 수면을 재며 웁(Whoop)과 핏비트 에어에 맞선다." },
+          { "t": "p", "x": "회복과 준비 상태, 코칭 조언은 몸에 붙은 화면이 아니라 앱으로 전해진다. 가민의 알고리즘이 그 바탕이다." },
+          { "t": "p", "x": "미니멀하고 늘 켜져 있는 AI 건강 웨어러블이라는 흐름을 보여주는 제품이다." }
         ]
       }
     },
     {
-      "id": "ai-camera-earbuds",
+      "id": "neo",
       "eyebrow": "AI NEWS",
-      "headline": "스마트 안경과 무선 이어버드의\n어색한 결합이 다가온다",
-      "body": "카메라를 단 무선 이어버드가 새 범주로 떠오른다. 폰을 꺼내지 않고 눈앞의 사물을 AI에게 물어보는 기기들이 스마트 안경 영역을 넘본다.",
-      "mini_headline": "카메라 단 AI 이어버드의 등장",
-      "tool": "Gadgets",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/an-unholy-union-of-smart-glasses-and-wireless-earbuds-is-upon-us-2000785435",
+      "headline": "1X 네오의 로봇 손, 레고 조립에\n지퍼까지 해낸다",
+      "mini_headline": "네오 로봇 손 시연",
+      "body": "1X가 가정용 휴머노이드 네오의 손으로 레고를 조립하고 지퍼를 여는 정교한 손동작을 선보였다.",
+      "tool": "1X Neo",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "image": "https://cdn.mos.cms.futurecdn.net/DXVLUwA6f3dvwjjfFPUetY-1920-80.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "1X가 가정용 휴머노이드 네오의 새 손재주 시연을 공개했다. 로봇이 레고를 조립하고 재킷 지퍼를 열며 과자 봉지를 뜯는다." },
+          { "t": "p", "x": "이런 정교한 손동작은 네오가 레드우드(Redwood) AI로 언젠가 집안일을 스스로 해내겠다는 목표에 한 걸음 다가섰음을 보여준다." },
+          { "t": "p", "x": "영상은 유능한 휴머노이드가 집으로 들어오는 데 대한 기대와 불안을 다시 불러왔다." }
+        ]
+      }
+    },
+    {
+      "id": "gemini-home",
+      "eyebrow": "AI NEWS",
+      "headline": "제미나이 포 홈, 대화 기억이\n15분으로 늘어난다",
+      "mini_headline": "제미나이 홈 15분 기억",
+      "body": "구글이 제미나이 포 홈의 대화 기억을 15분으로 늘리고 네스트 캠 펌웨어도 함께 업데이트한다.",
+      "tool": "Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/07/23/nest-cam-july-2026-update/",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "image": "",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "스마트 안경 기능을 무선 이어버드에 합친 새 제품군이 나타나고 있다. 골전도 헤드셋이나 오픈이어 이어버드에 카메라를 달아, 컴퓨터 비전과 영상·사진 촬영까지 노린다."},
-          {"t": "p", "x": "오리뷰 X1은 골전도 헤드셋에 4K 카메라를 얹었다. 음악은 최대 30시간 이어 재생하는데, 레이밴 메타 2세대의 최대 8시간을 훌쩍 넘는다."},
-          {"t": "p", "x": "롤미 에어캠은 3-in-1 AI 카메라 이어버드를 내세운다. 16mm 하이파이 드라이버로 무손실 음질을 강조하며 녹음 기능을 함께 담았다. 뮤직캠과 모진 폴드 M1 프로도 비슷한 형태인데, 후자는 299달러에 연속 재생 40시간을 약속한다."},
-          {"t": "p", "x": "필자 제임스 페로는 이 흐름에 회의적이다. 겉으로 드러나는 기술을 꺼리는 미감 문제를 풀어주지 못하는데 누가 이런 걸 원하겠냐고 되묻는다. 카메라가 켜졌다고 알리는 LED 표시등이 없어 프라이버시도 짚는다."},
-          {"t": "p", "x": "대부분은 크라우드펀딩에 기댄 덜 알려진 회사들의 제품이라, 대중화 가능성은 크지 않아 보인다. 그래도 웨어러블 시장은 여전히 실험이 한창이다."}
+          { "t": "p", "x": "구글이 제미나이 포 홈의 새 기능을 배포한다. 맥락 기억을 15분으로 늘려 스마트홈 곳곳에서 여러 단계로 이어지는 대화를 따라간다." },
+          { "t": "p", "x": "여기에 맞춰 네스트 캠 펌웨어 업데이트도 함께 풀린다." },
+          { "t": "p", "x": "생성형 AI가 집안 기기와 카메라 속으로 더 깊이 들어가는 셈이다." }
+        ]
+      }
+    },
+    {
+      "id": "robot-phone",
+      "eyebrow": "AI NEWS",
+      "headline": "아너 로봇 폰, 움직이는\n짐벌 카메라를 드러낸다",
+      "mini_headline": "아너 로봇 폰 유출",
+      "body": "유출 영상에서 아너 로봇 폰의 두꺼운 몸체와 실제로 움직이는 짐벌 탑재 AI 카메라가 드러났다.",
+      "tool": "Honor",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Honor-Robot-Phone-leaked-hands-on-video-shows-thickness-camera-gimbal-in-action.1345687.0.html",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/honor-robot-phone-leak41.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "아너 '로봇 폰'의 유출 핸즈온 영상이 나왔다. 두툼해진 몸체와 함께 실제로 움직이며 대상을 따라가는 모터 달린 짐벌 AI 카메라가 보인다." },
+          { "t": "p", "x": "아너는 7월 18일 중국 WAIC에서 이 AI 중심 단말을 선보일 예정이다." },
+          { "t": "p", "x": "낯선 로봇형 디자인은 스마트폰을 능동적인 에이전트 AI 기기로 다시 그려보려는 아너의 시도다." }
         ]
       }
     }

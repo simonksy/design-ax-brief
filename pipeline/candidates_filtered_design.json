@@ -1,59 +1,60 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "section": "design",
-  "now_iso": "2026-07-25T23:00:47Z",
+  "now_iso": "2026-07-26T23:27:43Z",
   "window_hours": 72,
-  "count": 5,
+  "count": 6,
+  "note": "Design 72h window (fresh = after 2026-07-23T23:27Z) is genuinely thin this run; 6 items independently date-verified past the deterministic freshness gate, across 3 distinct outlets (dev.to x3 at the per-outlet cap, Creative Bloq x2, Figma x1). Two hard access blocks removed the richest product-news lanes: venturebeat.com sits behind a Vercel bot-check (429 to both WebFetch and curl — 'Vercel Security Checkpoint') and theverge.com + fastcompany.com return 400/403 to the crawler, so plausibly-relevant items (Krea 2 Raw/Turbo, Canva Code 2.0, FLUX 3, Adobe Firefly AI Assistant, Anthropic Claude Design overhaul, Runway Frames, Toyota generative vehicle design, Gemini Nano Banana) could NOT have a published time independently verified and were DROPPED per the no-date-drop rule. Expansion WAS used: swept every design category's allowed_domains and many sibling vendors/queries — Figma release-notes+blog+newsroom, Vercel changelog, LogRocket & uxdesign.cc (Medium), Smashing/CSS-Tricks/Builder.io, 80.lv + cgchannel + fxguide (render/VFX), getleo/engineering.com/all3dp/develop3d + Autodesk (CAD), roadtovr/uploadvr/Apple newsroom (VR/spatial), dev.to API across tags ai/design/ux/uidesign/generativeai/figma/designsystems/webdev, plus a YouTube sweep. Nearly everything else dated STALE (>72h): NVIDIA SIGGRAPH 2026-07-20, cgchannel Maya 2026.2 07-22 / V-Ray 7.4 07-10 / Zibra GDS 07-09, 80.lv Hyper3D Rodin 06-03 / Autodesk Maya updates 03-25 / OctaneStudio 12-02, engadget Adobe Project Indigo 07-20 / Google Video Remix 07-08, Figma blog 07-23 (security/agents, not design-AI), uxdesign SAID-framework & web-standards both 07-16, LogRocket 07-20/21, CSS-Tricks 06-29, Smashing Kirki 07-07, all verified via curl article:published_time / JSON-LD datePublished. Category mix skews to workflow because that is where the fresh, verifiable items landed.",
   "items": [
+    {
+      "title": "Figma July release notes: auto layout now aligns with CSS to cut design-to-code handoff friction",
+      "url": "https://www.figma.com/release-notes/",
+      "source": "Figma",
+      "category": "figma",
+      "published_iso": "2026-07-24T00:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma's July 24 release-notes entry, 'Design closer to CSS with the updated auto layout option,' reworks auto layout so its behavior matches how CSS handles layout, reducing the developer workarounds needed at handoff. It lands in a July run that also bound code-backed screens to existing file variables (July 16) and shipped GPT-5.6 inside Figma Make (July 9) — incremental but real changes tightening the design-to-code loop that AI-assisted workflows now depend on."
+    },
+    {
+      "title": "DESIGN.md: the '.cursorrules for your design system' that stops AI UI style drift",
+      "url": "https://dev.to/dublecc/designmd-the-cursorrules-for-your-design-system-that-stops-ai-ui-style-drift-1hj4",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-07-25T05:45:23Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl5jd4ji0ykfs5iueat99.png",
+      "excerpt": "The piece proposes DESIGN.md as a portable, structured file that stops AI coding agents from 'guessing' a design system and drifting on colors, spacing, and component behavior across sessions. It uses a dual layer — machine-readable YAML front matter for exact design tokens plus human-readable Markdown for the intent behind them — so agents build UI against a durable source of truth, positioned as the design-system analogue to a .cursorrules file. A concrete answer to visual-identity drift, the biggest consistency failure in agentic UI generation."
+    },
+    {
+      "title": "Vibe coding won't kill developers — it'll kill the middle",
+      "url": "https://dev.to/helkyn_coello/vibe-coding-wont-kill-developers-itll-kill-the-middle-2c61",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-07-26T21:47:12Z",
+      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/t7fhyguq11l0u3fmvwrz.png",
+      "excerpt": "The essay argues AI-assisted 'vibe coding' won't eliminate builders as a class but will liquify the middle tier — the implementation work done against known specs — much as cheap cameras spared top photographers while gutting commodity work. Value concentrates in roles requiring architectural judgment, domain expertise, taste, and strategy. A sharp framing of the AX skills shift facing designers-who-build and design engineers as prompt-to-app tools commoditize execution."
+    },
+    {
+      "title": "Google thinks maths proves its AI is genuinely creative — but is it?",
+      "url": "https://www.creativebloq.com/ai/ai-art/google-thinks-maths-proves-its-ai-is-genuinely-creative-but-is-it",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-07-26T07:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zLhmVnzDtQ7QXJPpAfKq4o-1920-80.png",
+      "excerpt": "Creative Bloq interrogates Google's claim — resting on AI systems solving and generating novel mathematics — that its models are 'genuinely creative,' weighing what mathematical novelty does and doesn't prove about creativity for artists and designers. The framing matters for creatives because 'is the machine creative?' underpins how much of ideation and concepting teams are willing to hand to generative tools."
+    },
     {
       "title": "Hate generative AI? Maybe it's time to boycott Netflix",
       "url": "https://www.creativebloq.com/ai/hate-generative-ai-maybe-its-time-to-boycott-netflix",
       "source": "Creative Bloq",
-      "published_iso": "2026-07-25T06:00:00+00:00",
-      "excerpt": "With Netflix leaning into generative AI across production, Creative Bloq argues creatives angry about AI's encroachment should vote with their subscriptions — a look at how a major studio's gen-AI adoption reshapes the creative industry.",
+      "category": "workflow",
+      "published_iso": "2026-07-25T06:00:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/UmPnkcxYmjFmqxG4TxStr9-596-80.jpg",
-      "category": "workflow"
-    },
-    {
-      "title": "Anthropic releases Claude Opus 5 for both AI coding and general office work",
-      "url": "https://www.fastcompany.com/91578762/anthropic-releases-claude-opus-5-for-both-ai-coding-and-general-office-work",
-      "source": "Fast Company",
-      "published_iso": "2026-07-24T17:00:00+00:00",
-      "excerpt": "Anthropic's new frontier model Claude Opus 5 is a cheaper, stronger model for coding and agents — the class of model that now powers AI design tools like Claude Design, Cursor, Lovable and Figma Make, so its release ripples directly into designers' AI workflows.",
-      "og_image": "",
-      "category": "workflow"
-    },
-    {
-      "title": "When generation is free, taste is everything",
-      "url": "https://dev.to/goodbarber/when-generation-is-free-taste-is-everything-3k30",
-      "source": "DEV Community",
-      "published_iso": "2026-07-23T08:45:20Z",
-      "excerpt": "GoodBarber's Mathieu Poli argues that as generative AI makes execution free and infinite, a designer's real value shifts to taste and judgment — the one thing the machine can't supply. A designer-facing take on where craft still matters in an AI workflow.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp6xflwxm1mfpiq2d5cat.png",
-      "category": "figma"
-    },
-    {
-      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
-      "url": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
-      "source": "DEV Community",
-      "published_iso": "2026-07-24T07:54:20Z",
-      "excerpt": "A designer photographed a single page of handwritten letters in dim light and ran an open-sourced pipeline that outputs an installable TTF — a hands-on look at AI-assisted type design and how far automated font generation has come.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs317mgv90ccea2sm3zrr.png",
-      "category": "figma"
-    },
-    {
-      "title": "Character Consistency Across 24 Pages of a Generated Picture Book",
-      "url": "https://dev.to/clarajbennett/character-consistency-across-24-pages-of-a-generated-picture-book-4i80",
-      "source": "DEV Community",
-      "published_iso": "2026-07-24T19:36:08Z",
-      "excerpt": "Generating one AI illustration of a child from a reference photo is easy now; keeping that same character consistent across 24 pages is the hard part. A practical walkthrough of character-consistency techniques for generative illustration and design workflows.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftfk1ruku3mjh0mlcya1a.png",
-      "category": "figma"
+      "excerpt": "With Netflix leaning into generative AI across its productions, Creative Bloq argues creatives angry about AI's encroachment on craft should vote with their subscriptions. It's a look at how a major studio's gen-AI adoption reshapes creative and design work and the leverage audiences and practitioners still hold — a culture-and-craft read on the design/creative industry's AI backlash."
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 2,
+    "kept": 5,
     "against_days": 5
   }
 }
