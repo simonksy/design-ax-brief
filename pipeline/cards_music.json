@@ -1,65 +1,88 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
+  "section": "music",
   "cards": [
     {
-      "id": "bandlab-aiode",
+      "id": "devocean",
       "eyebrow": "AI NEWS",
+      "headline": "곁에서 함께 패치하는 AI,\n모듈러 신스 안으로 들어오다",
+      "body": "145개 모듈을 갖춘 모듈러 신스에 함께 패치를 짜주는 AI 에이전트 MaYa가 들어갔다.",
+      "mini_headline": "패치 짜는 AI 신스",
       "tool": "Music",
-      "headline": "밴드랩, 라이선스 AI\n스튜디오 아이오드 인수",
-      "body": "밴드랩 테크놀로지스가 라이선스 오디오 모델 기반 AI 스튜디오 아이오드를 인수해, 밴드랩·케이크워크에 이은 세 번째 음악 플랫폼으로 삼았다.",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/07/15/bandlab-acquires-aiode/",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "image": "",
+      "image": null,
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "밴드랩 테크놀로지스가 AI 음악 스튜디오 아이오드를 인수했다. 아이오드는 프로 세션 뮤지션과 프로듀서가 함께 개발한 완전 라이선스 오디오-투-오디오 모델 위에 세운 스튜디오다." },
-          { "t": "p", "x": "이번 인수로 아이오드는 밴드랩, 케이크워크에 이어 회사의 세 번째 음악 제작 플랫폼이 됐다. 동의에 기반한 생성형 도구를 넓은 창작자층에게 열어준다는 게 핵심이다." }
+          {"t": "p", "x": "Ocean Swift가 145개 모듈을 담은 소프트웨어 모듈러 신스이자 사운드 디자인 환경 DevOcean Modular를 내놨다. 눈에 띄는 건 안에 들어앉은 모듈러 AI 에이전트 MaYa다. 사용자와 나란히 패치를 짜면서 어떤 모듈을 쓸지 제안하고 직접 연결까지 거들어 준다."},
+          {"t": "p", "x": "글로 노래를 뽑아내는 생성기와는 결이 다르다. 모듈러 신스 작업 흐름 한복판에 '함께 패치하는' 생성형 AI를 심은 이른 사례로, 사운드를 만드는 방식 자체를 건드린다."},
+          {"t": "p", "x": "가격은 129.99유로다. 정가 199유로에서 35% 낮춘 값으로, 할인은 2026년 9월 1일까지 이어진다."}
         ]
       }
     },
     {
-      "id": "gema-plai",
+      "id": "deezer-ai-flood",
       "eyebrow": "AI NEWS",
+      "headline": "AI 음원, 처음으로 디저\n신규 업로드의 절반을 넘겼다",
+      "body": "2026년 6월 디저에는 하루 9만 곡꼴로 AI 음원이 올라와 신규 업로드의 절반을 처음 넘겼다.",
+      "mini_headline": "AI 음원 절반 돌파",
       "tool": "Music",
-      "headline": "게마, 저작권 정리한\nAI 학습용 데이터셋 공개",
-      "body": "독일 게마가 60여 개 장르에 걸친 약 18만 곡을 담은 저작권 완비 데이터셋이자 라이선스 체계 PLAI를 공식 출시해, 무단 수집이 아닌 동의 기반 AI 음악 생성의 토대를 놓았다.",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/07/24/gema-plai-launch/",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/90000-ai-tracks-flood-deezer-daily-passing-half-of-new-music-uploads-for-the-first-time/",
       "accent": "#0070f3",
       "motif": "sphere",
-      "image": "",
+      "image": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "독일 저작권 단체 게마가 AI 개발자용 음악 데이터셋이자 라이선스 체계인 PLAI를 공식 출시했다. 60개가 넘는 장르에 걸쳐 약 18만 건의 녹음을 아우른다." },
-          { "t": "p", "x": "무단 수집으로 학습한 모델 대신, 법적으로 깨끗하고 동의에 기반한 AI 음악 생성 도구를 뒷받침하려는 인프라다." }
+          {"t": "p", "x": "2026년 6월, 디저에 올라오는 하루 신규 업로드에서 온전히 AI가 만든 음원이 처음으로 절반을 넘겼다. 하루 약 9만 곡꼴이다. 4월의 7만 5천 곡에서 다시 크게 늘었다."},
+          {"t": "p", "x": "디저는 이런 음원에서 나온 스트리밍 가운데 최대 85%가 조작된 것이라고 밝혔다. 스트림 수를 부풀리는 데 쓰인 AI 음원과 6개월 동안 재생이 한 건도 없는 곡을 걸러내고 있다."},
+          {"t": "p", "x": "생성형 AI가 스트리밍에 올라오는 것과 청취자가 음악을 만나는 방식을 어떻게 바꿔 놓는지 보여 주는 구체적인 수치다."}
         ]
       }
     },
     {
-      "id": "tonefield-grid",
+      "id": "fender-studio-pro",
       "eyebrow": "AI NEWS",
+      "headline": "무료 DAW 펜더 스튜디오에\nAI 편집 도구가 들어왔다",
+      "body": "펜더의 무료 DAW 스튜디오 프로 8.1이 Moises 기반 스템 분리·생성과 AI 보컬 보정을 품었다.",
+      "mini_headline": "AI 품은 무료 DAW",
       "tool": "Music",
-      "headline": "맥·윈도우용 생성형\n악기 톤필드 출시",
-      "body": "맷 굿럭이 단종된 톤패드 프로를 새로 빚은 맥·윈도우용 생성형 악기 톤필드를 내놨는데, 16×16 앰버 점 그리드에서 스케일·확률로 변주되는 패턴을 실시간 녹음해 MIDI·오디오로 내보낸다.",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/07/21/new-generative-instrument-for-mac-windows-tonefield/",
+      "source": "MusicTech",
+      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
       "accent": "#f5a623",
       "motif": "sphere",
-      "image": "",
+      "image": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "개발자이자 뮤지션인 맷 굿럭이 새 소프트웨어 악기 톤필드를 선보였다." },
-          { "t": "p", "x": "굿럭은 이제 구할 수 없는 옛 앱 톤패드 프로에서 영감을 받았다고 했다. 그는 '개념을 처음부터 다시 만들고, 현대적인 악기로 확장해 톤필드로 내놨다'고 말했다." },
-          { "t": "p", "x": "톤필드는 톤패드를 중독성 있게 만든 미니멀한 패턴 기반 작업 방식을 그대로 두면서, 선택 가능한 스케일과 모드, 패턴을 진화시키는 확률, 라이브 연주 녹음, MIDI 내보내기, 오디오 내보내기, 패턴 관리 같은 기능을 더했다." },
-          { "t": "p", "x": "그리드에 점을 찍고 재생을 누르면 음악이 펼쳐진다. 확률 컨트롤을 쓰면 루프를 돌 때마다 패턴이 달라진다." },
-          { "t": "p", "x": "기능을 보면 정밀한 감쇠를 갖춘 순수 사인파 신디시스의 오리지널 톤필드 클래식 사운드 엔진, 앰버 점 인터페이스의 16×16 스텝 시퀀서, 컬럼별 확률, 7개 모드와 펜타토닉 변형을 포함한 13개 스케일, 12개 키 전체, BPM 40–180, 벨로시티·게이트 컨트롤, 타임·피드백·필터·믹스를 갖춘 딜레이, 이름 붙은 8개 패턴 저장 슬롯이 담겼다." },
-          { "t": "p", "x": "라이브 연주는 WAV로 녹음해 확률에 따른 변주를 실시간으로 잡아내고, 패턴은 로직 프로·개러지밴드를 비롯한 어떤 DAW로든 MIDI로 내보낼 수 있다. 오디오는 WAV나 MP3로 저장하고, 패턴이 재생되는 동안 DAW로 라이브 MIDI를 보낸다. 플립·회전·시프트·랜덤화 같은 변형 도구도 있다." },
-          { "t": "p", "x": "톤필드는 지금 14.99달러에 구입할 수 있다." }
+          {"t": "p", "x": "MusicTech가 펜더의 무료 DAW 스튜디오 프로 8.1을 살펴봤다. 이번 버전은 AI에 부쩍 기댄다. Moises 엔진이 스템 분리와 스템 생성을 함께 처리하고, 보컬 교체와 AI 음정 보정도 함께 붙었다."},
+          {"t": "p", "x": "새로 들어온 베타 기능 '스튜디오 어시스턴트'는 앱 안에서 프로덕션 관련 질문에 답하는 챗봇이다. Pro+ 등급에서 쓸 수 있다."},
+          {"t": "p", "x": "Moises급 AI를 별도 확장이 아니라 믹싱·마스터링 흐름 안에 그대로 녹인 무료 DAW라는 점이 눈에 띈다. 방 안에서 음악 만드는 사람이 당장 내일 할 수 있는 일이 달라진다."}
+        ]
+      }
+    },
+    {
+      "id": "izotope-vea",
+      "eyebrow": "AI NEWS",
+      "headline": "노브 세 개로 끝내는\nAI 보컬 보정, 지금은 공짜",
+      "body": "iZotope가 RX·Nectar의 AI 처리를 노브 세 개로 줄인 보컬 플러그인 VEA를 7월 31일까지 무료로 푼다.",
+      "mini_headline": "무료 AI 보컬 보정",
+      "tool": "Music",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/07/26/izotope-japan-vea-free/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/vea-728x364.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "p", "x": "iZotope가 원래 29달러짜리 보컬 보정 플러그인 VEA를 무료로 푼다. RX와 Ozone, Nectar에 들어간 AI 처리를 노브 세 개로 압축한 물건이다. Clean으로 잡음을 걷어내고, Shape로 톤을 다듬고, Boost로 존재감을 살린다."},
+          {"t": "p", "x": "복잡한 인터페이스 없이 RX급 정리를 원하는 팟캐스터와 스트리머, 프로듀서를 겨냥했다. 머신러닝 기반 오디오 도구로 들어가는 문턱을 낮춘 셈이다."},
+          {"t": "p", "x": "무료 기간은 2026년 7월 31일까지다. Boris FX의 iZotope 인수와 맞물려 열린 창구다."}
         ]
       }
     }

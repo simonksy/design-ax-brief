@@ -1,7 +1,8 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "books",
   "media": [
-    { "id": "textbook-3d-selective", "type": "image", "src": "pipeline/media/textbook-3d-selective.jpg" }
+    { "id": "google-gemini-suit", "type": "svg" },
+    { "id": "elevenlabs-odyssey", "type": "image", "src": "pipeline/media/elevenlabs-odyssey.jpg" }
   ]
 }

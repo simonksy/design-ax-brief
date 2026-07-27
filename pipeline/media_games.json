@@ -1,26 +1,21 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "games",
   "media": [
     {
-      "id": "sts2-placeholder-art",
+      "id": "roblox-build",
       "type": "image",
-      "src": "pipeline/media/sts2-placeholder-art.jpg"
+      "src": "pipeline/media/roblox-build.jpg"
     },
     {
-      "id": "capybara-vibejam",
+      "id": "ai-game-music",
       "type": "image",
-      "src": "pipeline/media/capybara-vibejam.jpg"
+      "src": "pipeline/media/ai-game-music.jpg"
     },
     {
-      "id": "seed-ai-avatars",
+      "id": "japan-ai-poll",
       "type": "image",
-      "src": "pipeline/media/seed-ai-avatars.jpg"
-    },
-    {
-      "id": "steam53k-study",
-      "type": "image",
-      "src": "pipeline/media/steam53k-study.jpg"
+      "src": "pipeline/media/japan-ai-poll.png"
     }
   ]
 }

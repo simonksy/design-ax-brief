@@ -1,9 +1,29 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "music",
   "media": [
-    { "id": "bandlab-aiode", "type": "image", "src": "pipeline/media/bandlab-aiode.jpg" },
-    { "id": "gema-plai", "type": "image", "src": "pipeline/media/gema-plai.jpg" },
-    { "id": "tonefield-grid", "type": "image", "src": "pipeline/media/tonefield-grid.jpg" }
+    {
+      "id": "devocean",
+      "type": "video",
+      "src": "pipeline/media/devocean.mp4",
+      "poster": "pipeline/media/devocean.jpg"
+    },
+    {
+      "id": "deezer-ai-flood",
+      "type": "image",
+      "src": "pipeline/media/deezer.jpg"
+    },
+    {
+      "id": "fender-studio-pro",
+      "type": "video",
+      "src": "pipeline/media/fender.mp4",
+      "poster": "pipeline/media/fender.jpg"
+    },
+    {
+      "id": "izotope-vea",
+      "type": "video",
+      "src": "pipeline/media/izotope.mp4",
+      "poster": "pipeline/media/izotope.jpg"
+    }
   ]
 }

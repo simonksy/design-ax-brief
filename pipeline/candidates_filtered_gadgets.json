@@ -1,112 +1,140 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "section": "gadgets",
-  "now_iso": "2026-07-25T23:00:47Z",
+  "now_iso": "2026-07-26T23:27:43Z",
   "window_hours": 336,
+  "note": "WebSearch budget (200 shared calls) exhausted after ~5 queries, so the funnel was expanded by mining allowed-domain RSS feeds (engadget, techradar, tomsguide, gizmodo, digitaltrends, tomshardware, 9to5google, 9to5mac, macrumors, notebookcheck, cnet, uploadvr, roadtovr, venturebeat) and dating every item via curl'd article:published_time / JSON-LD / RSS pubDate, then gating each with pipeline/freshness.py (336h). Rotated AWAY from 07-26 saturation (Meta Ray-Ban glasses, Galaxy Z Fold8/Flip8, Snapdragon X2/Copilot+ PCs, OpenAI speaker was 07-14 so kept as still-fresh) toward rotated-in beats: home/humanoid robots (1X Neo hands, BYD Xiao Di, BrainCo BCI robot), non-Meta smart/AI glasses (Apple, Samsung/Warby/Gentle Monster, Looki pendant-cam), Gemini smart home, edge-AI silicon (AMD X100 for robots, Ryzen AI mini-PC), novel AI-device form factors (Honor Robot Phone, Garmin Cirqa screen-free AI band), AI wearables. DROPPED as STALE (pre 2026-07-12): Engadget/TechRadar 1X Neo preorder (Oct 2025), Rabbit next-gen/LAM/teach-mode, Rokid review (Apr), AR-glasses-race Gizmodo (06-29), Google Translate earbuds (Dec/Mar/Apr), CES 2026 pieces, Timekettle. DROPPED as AI-business/data-center noise: Nvidia/SK $500B, AMD MI455X/Cerebras data-center accelerators, HuggingFace breach, AI memory shortage, kill-switch bill, EssilorLuxottica/Lynx acquisition, Gentle Monster retail expansion, US space combat robot. 15 candidates across 11 outlets (notebookcheck capped at 3). Expansion WAS used (RSS + sibling keywords).",
   "items": [
     {
       "category": "gadgets",
-      "title": "We got a first look at Samsung Intelligent Eyewear, the smart glasses entering a fraught market worried about privacy",
-      "url": "https://www.techradar.com/ai-platforms-assistants/we-got-a-first-look-at-samsung-intelligent-eyewear-the-smart-glasses-entering-a-fraught-market-worried-about-privacy",
-      "source": "TechRadar",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "excerpt": "Samsung's display-less Intelligent Eyewear runs on the Snapdragon AR1 platform with an on-device Hexagon NPU, offering Gemini-powered visual search and real-time translation as Samsung takes on Meta in AI smart glasses.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/t28iXDFmkxJvjjw8HPVG3a-1920-80.jpg"
+      "title": "OpenAI's first hardware product sounds more like a companion than a speaker",
+      "url": "https://www.digitaltrends.com/cool-tech/openais-first-hardware-product-sounds-more-like-a-companion-than-a-speaker/",
+      "source": "Digital Trends",
+      "published_iso": "2026-07-14T12:00:00Z",
+      "excerpt": "OpenAI's debut hardware is shaping up to be a mobile, screenless smart speaker positioned as an always-present AI companion rather than a conventional device. Powered by GPT-Live, it will pack a camera and environmental sensors to read context and proactively anticipate needs throughout the day, with a rechargeable battery for portability. It is one of five hardware products in development under Jony Ive's LoveFrom, with the first device slated for 2027.",
+      "og_image": "https://www.digitaltrends.com/tachyon/2025/03/open-ai-331.jpg?resize=1200%2C720"
     },
     {
       "category": "gadgets",
-      "title": "Samsung just revealed more details about its upcoming smart glasses, including battery life",
-      "url": "https://www.engadget.com/2220934/samsung-just-revealed-more-details-about-its-upcoming-smart-glasses-including-battery-life/",
-      "source": "Engadget",
-      "published_iso": "2026-07-22T17:28:00Z",
-      "excerpt": "Samsung detailed specs for its Snapdragon AR1 Gen 1 smart glasses — nine hours of battery per charge plus a charging case for seven more — with the Hexagon NPU handling on-device AI tasks like visual search and translation.",
-      "og_image": "https://www.engadget.com/img/gallery/samsung-just-revealed-more-details-about-its-upcoming-smart-glasses-including-battery-life/intro-1784741226.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Samsung's answer to Meta's Ray-Bans is (almost) here, with a little help from Google",
-      "url": "https://www.androidauthority.com/samsung-galaxy-gemini-smart-glasses-3689544/",
-      "source": "Android Authority",
-      "published_iso": "2026-07-22T13:00:29Z",
-      "excerpt": "Samsung's Gemini-powered smart glasses run Android XR with live translation, navigation and a camera that feeds Gemini Live so the assistant can describe what you're looking at — its clearest rival yet to Ray-Ban Meta.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Samsung Let Me Touch Its Warby Parker x Gentle Monster Smart Glasses, but Not Wear Them",
-      "url": "https://gizmodo.com/samsung-let-me-touch-its-warby-parker-x-gentle-monster-smart-glasses-but-not-wear-them-2000788835",
+      "title": "The OpenAI Mystery Device Will Reportedly Be Basically Just a Smart Speaker",
+      "url": "https://gizmodo.com/the-openai-mystery-device-will-reportedly-be-basically-just-a-smart-speaker-2000785660",
       "source": "Gizmodo",
-      "published_iso": "2026-07-22T13:00:30Z",
-      "excerpt": "A hands-on with Samsung's fashion-forward Android XR glasses made with Warby Parker and Gentle Monster, running Gemini-powered features like live translation and camera-based visual assistance.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Samsung-Genius-Monster-Eyewear-Glasses-06-1200x675.jpg"
+      "published_iso": "2026-07-15T00:12:00Z",
+      "excerpt": "According to Bloomberg's sources, OpenAI's much-hyped device with Jony Ive will be a portable, battery-powered smart speaker with mechanical components that let it move, giving the impression of being 'alive.' The device aims to function as an AI companion that grows increasingly personalized and proactive over time. It faces steep skepticism given the revolutionary expectations Altman and Ive have set for it.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone.jpg"
     },
     {
       "category": "gadgets",
-      "title": "Samsung and Google are betting they can avoid Meta's 'perv glasses' problem",
-      "url": "https://9to5google.com/2026/07/23/inbox-newsletter-4/",
+      "title": "Neo robot hands breakthrough can build LEGOs, unzip jackets, and open a bag of Funyuns",
+      "url": "https://www.techradar.com/ai-platforms-assistants/neo-robot-hands-breakthrough-can-build-legos-unzip-jackets-and-open-a-bag-of-funyuns-i-cant-tell-if-im-thrilled-or-terrified",
+      "source": "TechRadar",
+      "published_iso": "2026-07-16T20:30:02Z",
+      "excerpt": "1X has shown new dexterity demos for its Neo home humanoid, with the robot's hands building LEGO sets, unzipping jackets and opening snack bags. The fine-motor control marks a step toward the household chores 1X promises Neo will eventually handle autonomously via its Redwood AI model. The clips reignite both excitement and unease about capable humanoids entering the home.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DXVLUwA6f3dvwjjfFPUetY-1920-80.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Garmin Cirqa Smart Band launch: Garmin debuts a screen-free Whoop and Fitbit Air competitor",
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/garmin-cirqa-smart-band-launch-garmin-debuts-a-screen-free-whoop-and-fitbit-air-competitor",
+      "source": "Tom's Guide",
+      "published_iso": "2026-07-21T11:19:16Z",
+      "excerpt": "Garmin has unveiled the Cirqa, a screen-free smart band that takes on Whoop and the Fitbit Air with subscription-free AI-driven health and sleep tracking. The wearable leans on Garmin's algorithms for recovery, readiness and coaching insights delivered through the app rather than an on-body display. It signals the growing category of minimalist, always-on AI health wearables.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ehLfvMLtc89egfv55WkLCQ-2560-80.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
+      "url": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
+      "source": "Engadget",
+      "published_iso": "2026-07-26T17:43:38Z",
+      "excerpt": "The Apple team behind its upcoming AI smart glasses is reportedly reworking the device around user-privacy safeguards, contributing to a delayed timeline. Apple is said to be exploring several tweaks so the camera-equipped, assistant-driven wearable handles bystander recording and data capture more responsibly than rivals. The glasses are now expected to be revealed at WWDC 2027.",
+      "og_image": "https://www.engadget.com/img/gallery/apples-smart-glasses-delay-reportedly-stems-in-part-from-major-privacy-concerns/l-intro-1785087373.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "source": "The Verge",
+      "published_iso": "2026-07-26T19:36:38Z",
+      "excerpt": "Apple reportedly plans to differentiate its long-rumored AI smart glasses from Meta's Ray-Bans chiefly through privacy, exploring on-device processing and clearer recording indicators. The privacy-first engineering is said to be one reason the product slipped, with a reveal now expected next June at WWDC. The move frames privacy as Apple's central pitch as it enters the crowded AI-glasses race.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200"
+    },
+    {
+      "category": "gadgets",
+      "title": "AMD's new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' into robots",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-07-23T18:30:00Z",
+      "excerpt": "AMD unveiled its X100 embedded APU lineup, putting Ryzen AI 'Strix Halo' silicon with Zen 5 CPU and RDNA 3.5 GPU cores into robots and other 'physical AI' machines. The chips are pitched as on-device brains for humanoids and edge devices, competing with Intel's Panther Lake and Nvidia's robotics platforms. It marks AMD's push into the emerging market for embedded edge-AI compute powering autonomous hardware.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Arctic Senza AI 370 review: Strix Point in a stealthy under-desk fanless design",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-07-23T13:00:54Z",
+      "excerpt": "The Arctic Senza AI 370 is a fanless mini PC built around AMD's Ryzen AI 300-series 'Strix Point' APU with a dedicated NPU for on-device AI workloads. Its silent, under-desk-mountable chassis targets buyers who want local Copilot+-class AI acceleration without noise. The review weighs its NPU-driven capabilities against thermal limits of the passively cooled design.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GY6EKhXGaN3QXqVJX7YV9G-2560-80.jpg"
+    },
+    {
+      "category": "gadgets",
+      "title": "Gemini for Home context memory expands to 15 mins, Nest Cam July 2026 update rolling out",
+      "url": "https://9to5google.com/2026/07/23/nest-cam-july-2026-update/",
       "source": "9to5Google",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "excerpt": "Analysis of how Samsung and Google are positioning their Gemini-powered Android XR smart glasses to dodge the privacy backlash that has dogged Meta's camera-equipped Ray-Bans.",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figure-glasses-mwc-2026-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      "published_iso": "2026-07-23T19:36:50Z",
+      "excerpt": "Google is rolling out new Gemini for Home capabilities, extending the assistant's context memory to 15 minutes so it can follow multi-step conversations across the smart home. A parallel Nest Cam firmware update accompanies the release. The upgrades push Google's generative AI deeper into everyday smart-home hardware and camera devices.",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
     },
     {
       "category": "gadgets",
-      "title": "The Galaxy Z Fold 8 is wider, lighter, and ready to fight the iPhone Ultra",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-3688636/",
-      "source": "Android Authority",
-      "published_iso": "2026-07-22T13:00:04Z",
-      "excerpt": "Samsung's Galaxy Z Fold 8 packs a Snapdragon 8 Elite Gen 5 for Galaxy chip and a Galaxy AI suite with a Gemini Intelligence task-automation tool spanning 40+ apps for on-device agentic actions.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Z-Fold-8-Pistachio-in-hand.jpg"
+      "title": "Honor Robot Phone leaked hands-on video shows thickness, camera gimbal in action",
+      "url": "https://www.notebookcheck.net/Honor-Robot-Phone-leaked-hands-on-video-shows-thickness-camera-gimbal-in-action.1345687.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-07-17T18:34:00Z",
+      "excerpt": "A leaked hands-on video of Honor's 'Robot Phone' shows the device's added thickness and a motorized, gimbal-mounted AI camera that can physically move and track. Honor plans to showcase the AI-centric handset at WAIC in China on July 18. The unusual robotic form factor is Honor's bid to reimagine the smartphone as an active, agentic AI device.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/honor-robot-phone-leak41.jpg"
     },
     {
       "category": "gadgets",
-      "title": "Samsung's slimmer Galaxy Z Flip 8 brings apps and AI to the cover screen",
-      "url": "https://www.engadget.com/2220510/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/",
-      "source": "Engadget",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "excerpt": "The Galaxy Z Flip 8 pushes Galaxy AI and full apps onto its expanded cover display, letting Gemini-powered features run without opening the phone.",
-      "og_image": "https://www.engadget.com/img/gallery/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/l-intro-1784726324.jpg"
+      "title": "New Tesla Optimus rival: Leak reveals first details about BYD's AI robot 'Xiao Di'",
+      "url": "https://www.notebookcheck.net/New-Tesla-Optimus-rival-Leak-reveals-first-details-about-BYD-s-AI-robot.1352248.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-07-26T14:49:00Z",
+      "excerpt": "EV giant BYD is reportedly preparing to unveil its own bipedal AI humanoid robot, called Xiao Di, positioning it as a rival to Tesla's Optimus. The robot is expected to make its public debut in August and could soon act as a sales assistant presenting EVs in BYD dealerships. It signals another major manufacturer entering the consumer-facing humanoid robot race.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BYD_KI_Roboter_Xiao_Di_AI_Robot_Teaser.jpg"
     },
     {
       "category": "gadgets",
-      "title": "Meta Glasses review: A bit less polish, a lot more baggage",
-      "url": "https://www.engadget.com/2217722/meta-glasses-review/",
-      "source": "Engadget",
-      "published_iso": "2026-07-20T13:00:00Z",
-      "excerpt": "Meta's new $299 branded AI glasses deliver the same Meta AI voice assistant and camera features as pricier Ray-Ban models, testing whether cheaper hardware can push AI eyewear mainstream.",
-      "og_image": "https://www.engadget.com/img/gallery/meta-glasses-review-a-bit-less-polish-a-lot-more-baggage/intro-1784311371.jpg"
+      "title": "OpenAI Is 'Very Interested' in Building Out ChatGPT Integrations for Wearables",
+      "url": "https://www.cnet.com/tech/services-and-software/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wearables/",
+      "source": "CNET",
+      "published_iso": "2026-07-24T20:59:06Z",
+      "excerpt": "OpenAI President Greg Brockman signaled strong interest in bringing ChatGPT's increasingly 'Jarvis-like' AI agents to wearable hardware. He hinted at where the company's agentic assistants could head next and in what device forms, beyond the rumored screenless companion speaker. The comments underline OpenAI's ambition to embed ChatGPT into always-available, on-body AI devices.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Meta.glasses.2026.jpg"
     },
     {
       "category": "gadgets",
-      "title": "An Unholy Union of Smart Glasses and Wireless Earbuds Is Upon Us",
-      "url": "https://gizmodo.com/an-unholy-union-of-smart-glasses-and-wireless-earbuds-is-upon-us-2000785435",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-15T12:30:00Z",
-      "excerpt": "A new category of camera-equipped wireless earbuds with onboard AI is emerging, letting wearers ask an AI model about what's in front of them without pulling out a phone — earbuds edging into smart-glasses territory.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/smart-glasses-earbuds.jpg"
+      "title": "My Life With Looki Is a Harbinger of Always-On Recording Glasses to Come",
+      "url": "https://www.cnet.com/tech/mobile/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-come/",
+      "source": "CNET",
+      "published_iso": "2026-07-24T13:00:00Z",
+      "excerpt": "CNET's Scott Stein lives with Looki, an almost always-on camera-equipped AI pendant that continuously captures and recalls your day. The wearable embodies the extreme assistive aspirations of memory-logging AI, while surfacing the social discomfort and privacy tension of persistent recording. Stein frames it as a preview of the always-on recording glasses and pendants arriving next.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.Scott_.Stein_.memory.1.jpg"
     },
     {
       "category": "gadgets",
-      "title": "Samsung Galaxy Unpacked July 2026: Live updates from the Z Fold 8, Flip 8, glasses and watches",
-      "url": "https://www.androidcentral.com/phones/live/samsung-galaxy-unpacked-2026-launch-live-z-fold-8-ultra-z-fold-8-z-flip-8-galaxy-glasses-and-all-the-news",
-      "source": "Android Central",
-      "published_iso": "2026-07-22T10:13:13Z",
-      "excerpt": "Live coverage of Samsung's Unpacked, where the company unveiled Gemini-powered Galaxy Glasses alongside the Z Fold 8, Z Flip 8 and new Galaxy AI features across its device lineup.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/admP2ULGQfosm5WFMFhbSc-2048-80.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Samsung Galaxy Unpacked 2026 live — Z Fold 8, Flip 8 and Galaxy Glasses",
-      "url": "https://www.techradar.com/news/live/samsung-galaxy-unpacked-2026-july",
-      "source": "TechRadar",
-      "published_iso": "2026-07-22T10:31:32Z",
-      "excerpt": "TechRadar's live blog of Samsung Unpacked, covering the reveal of the Gemini-powered Intelligent Eyewear and the Galaxy AI capabilities baked into the new foldables and watches.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hYuymsDTxZibYAE6okawrN-2000-80.jpg"
+      "title": "Samsung Unveils More Smart Glasses Designs from Gentle Monster & Warby Parker",
+      "url": "https://roadtovr.com/samsung-google-smart-glasses-designs-gentle-monster-warby-parker-release/",
+      "source": "Road to VR",
+      "published_iso": "2026-07-22T17:31:43Z",
+      "excerpt": "Samsung teased a fresh slate of Android XR smart-glasses designs, including new frames from eyewear partners Gentle Monster and Warby Parker. The Gemini-powered glasses, developed jointly with Google, expand the style options ahead of a wider release. The reveal fleshes out Samsung and Google's push to make AI smart glasses look like everyday eyewear.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/warby-monster-smart.png"
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 11,
+    "kept": 14,
     "against_days": 5
   }
 }

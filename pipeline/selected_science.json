@@ -1,69 +1,83 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "science",
   "selection_mode": "auto",
   "target": 5,
   "floor": 3,
-  "selected_count": 4,
-  "shortfall": 1,
+  "selected_count": 5,
+  "shortfall": 0,
   "picks": [
     {
       "tool": "Science",
-      "headline": "AI가 20년치 아르고 관측으로 대서양 순환을 복원하다",
-      "url": "https://phys.org/news/2026-07-ai-atlantic-circulation-insights-years.html",
+      "headline": "Starting protein evolution from AI-designed scaffolds beats nature",
+      "url": "https://phys.org/news/2026-07-combining-ai-protein-laboratory-evolution.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-24T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/combining-ai-with-labo.jpg",
+      "excerpt": "Broad Institute researchers found that starting laboratory protein evolution from AI-designed, more stable proteins beats starting from natural ones: an AI-designed scaffold gave a protease more room to acquire new mutations. They reprogrammed botulinum-neurotoxin proteases to target ataxin-2, achieving a 79-fold improvement over naturally derived versions. The result suggests generative protein design and directed evolution are complementary rather than competing tools for engineering therapeutic enzymes.",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Protein/bio pick: a concrete, actionable AI-x-bio method — AI-designed scaffolds as a better launchpad for directed evolution, with a hard 79x result. Distinct study and URL from prior Baker/protein-design and biomanufacturing cards."
+    },
+    {
+      "tool": "Science",
+      "headline": "AI weather emulators forecast subseasonal climate at 350x lower compute",
+      "url": "https://phys.org/news/2026-07-subseasonal-ai.html",
       "source": "Phys.org",
       "category": "science",
       "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-unlocks-atlantic-ci.jpg",
-      "excerpt": "Helmholtz researchers combined machine learning with established physical models to reconstruct Atlantic Ocean circulation from 20 years of Argo profiling-float data, extracting more signal from sparse measurements than physics-only methods. The hybrid approach sharpens understanding of key circulation systems that drive climate.",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "Climate/ocean pick: a hybrid ML-plus-physics method that pulls more signal from sparse Argo float data than physics-only models, improving how ocean scientists reconstruct climate-driving circulation. Distinct study and URL from the 07-22 GOFLOW ocean-current card."
-    },
-    {
-      "tool": "Science",
-      "headline": "AI가 DNA 가닥끼리의 결합을 83.5% 정확도로 예측하다",
-      "url": "https://phys.org/news/2026-07-ai-scientists-dna-sequences.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-14T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/ai-and-medical.jpg",
-      "excerpt": "North Carolina State University researchers built an AI model, BINND, that predicts which DNA molecules will bind to each other with 83.5% accuracy after training on 144 million sequence pairs, beating prior methods by at least 10%. Better modeling of these hypercomplex binding relationships could aid biomedical diagnostics and DNA computing.",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Life-science pick: a concrete new model (BINND) that beats prior methods by 10%+ on DNA-DNA binding prediction, a foundational capability for diagnostics and DNA computing. Fresh topic and outlet-distinct from the earlier biomanufacturing card."
-    },
-    {
-      "tool": "Science",
-      "headline": "열 요동을 계산 자원으로 삼는 열역학 컴퓨터의 부상",
-      "url": "https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/",
-      "source": "Quanta Magazine",
-      "category": "science",
-      "published_iso": "2026-07-15T00:00:00Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp",
-      "excerpt": "Quanta surveys a new class of thermodynamic computers that harness random thermal fluctuations as a computational resource rather than fighting them, aiming to run generative-AI algorithms with orders-of-magnitude less energy. Physicists like Normal Computing's Patrick Coles argue exploiting thermodynamics could reshape the hardware substrate of AI.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chasing-subseasonal-fo.jpg",
+      "excerpt": "NSF NCAR researchers are building AI weather-climate emulators such as CAMulator that reproduce complex atmospheric models at roughly 350x lower compute cost, enabling rapid subseasonal (2-8 week) forecasts. Once trained, the emulators generate long simulations in a fraction of the time supercomputer physics models require. The work targets the notoriously hard 2-8 week forecast gap between weather and seasonal climate prediction.",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Physics pick from a top-credibility outlet (Quanta): a novel hardware paradigm that exploits thermal noise to run generative AI with far less energy. Genuine physics research intersecting AI, not industry noise, and the run's only physics-substrate story."
+      "rationale": "Climate/weather pick: a 350x compute cut that reopens the hard 2-8 week subseasonal forecast gap; credible NCAR source and distinct from the ocean-circulation cards (07-26 AMOC, 07-22 GOFLOW)."
     },
     {
       "tool": "Science",
-      "headline": "AI는 '분위기'를 읽을 수 있는가 — 관건은 맥락이다",
-      "url": "https://www.psychologytoday.com/sg/blog/in-one-lifespan/202607/can-ai-read-the-room",
-      "source": "Psychology Today",
+      "headline": "Princeton's PPPL builds an AI to autonomously run fusion-heating gyrotrons",
+      "url": "https://www.eurekalert.org/news-releases/1137137",
+      "source": "EurekAlert!",
       "category": "science",
-      "published_iso": "2026-07-24T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Psychologist Michael Hogan describes research using AI-driven analytics to code non-verbal behavior such as silence during group work at millisecond precision, finding that identical pauses carry different meanings by context. The takeaway: the hard problem is not teaching AI to notice behavior, but to interpret it in context.",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d6a27945-de14-4d41-a94c-c9d5d733665e/Rendition/low-res/Content/Public",
+      "excerpt": "Princeton Plasma Physics Laboratory will lead a Genesis Mission project to build an AI system that autonomously operates the gyrotrons used to heat fusion plasmas, alongside virtual simulations of the hardware. The effort is part of a US national initiative to harness AI for fusion-energy scientific discovery. Autonomous control of heating hardware is a step toward AI-managed operation of future fusion reactors.",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Fusion/physics-energy pick: AI as an autonomous operator of real fusion-heating hardware, a concrete AI-for-science control problem from a top-tier lab. Adds outlet diversity beyond phys.org."
+    },
+    {
+      "tool": "Science",
+      "headline": "Closed-loop AI 'self-driving lab' could cut clean-energy materials search by years",
+      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
+      "excerpt": "Tohoku University researchers built an AI-driven framework that fuses materials databases, machine-learning interatomic potentials, large language models, intelligent AI agents and automated experiments into a continuous feedback loop they call the '4th+ paradigm.' Experimental results feed back to refine AI predictions iteratively, dramatically cutting the time needed to discover advanced energy materials. The self-driving-lab approach targets longstanding trial-and-error bottlenecks in materials science.",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Materials-science pick: a full closed-loop 'self-driving lab' that wires LLMs, agents and automated experiments into one feedback loop — a distinct method story from prior screening-only materials cards (oled-ai, hiddenvars), and keeps outlets spread to a fourth source."
+    },
+    {
+      "tool": "Science",
+      "headline": "AI's black-box problem: physics discoveries no one fully understands",
+      "url": "https://physicsworld.com/a/ais-black-box-problem-discovering-physics-we-dont-understand/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-07-14T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/2026-07-malone-robot-ai-questions-answers-2235850838-istock-useng.jpg",
+      "excerpt": "AI systems are accelerating physics discovery by finding hidden patterns in massive datasets, from particle detection at CERN to materials innovation at Argonne, yet the opacity of these models means researchers often get accurate results without understanding how the AI reached them. The article asks whether science is entering an era of 'discoveries without comprehension' and what that means for reproducibility and researcher training. It weighs the changing relationship between human physicists and increasingly autonomous AI systems.",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Psychology/behavior pick: AI-driven millisecond coding of non-verbal cues (silence in group work) reframes the hard problem as context interpretation, not detection. Adds a distinct behavioral-science angle and a third outlet to the spread."
+      "rationale": "Meta/physics pick: a high-credibility Physics World synthesis on AI opacity in scientific discovery — directly relevant to how researchers should trust and train around AI. Fifth distinct outlet, distinct reflective angle rather than a single new result."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.science in news_data.json — today (2026-07-25: hiddenvars, xrayagent, cellforge, creepnorm) + days 2026-07-24 (cyclecover, scoresmooth, peptiverse, medmia, curiobot), 2026-07-23 (oled-ai, deeptimegate, qewc), 2026-07-22 (flatband, baker, openadmet, goflow), 2026-07-21 (willow-rl), 2026-07-20 (chathea, k2-18b-seti, scent-ai, denning-critique). Also cross-checked the prior selected_science.json record of the 2026-07-19 brief (platon, paper-mill, novotags, ai-res, lab-animal-ai), now rolled out of the 5-day file window.",
-    "dropped_duplicates": "sciencedaily.com/releases/2026/07/260716023610.htm (ETH Zurich PLATON single-block particle detector, article dated 2026-07-16) = CONTENT duplicate of the already-published card 'platon' from the 2026-07-19 brief (recorded in the prior selected_science.json dedup_notes) — same PLATON detector story re-fed after the dedup window slid; dropped under earliest-wins. sciencedaily.com/releases/2026/07/260714225538.htm (QUT AI screening 2.6M cancer papers, flagging 250k+ as suspicious, article dated 2026-07-16) = CONTENT duplicate of the already-published card 'paper-mill' from the 2026-07-19 brief; the research-integrity story already ran and is dropped to avoid a reader-visible repeat. Both articles pre-date the current window and were surfaced again only because the 07-19 day aged out of news_data.json, but the earliest-wins hard rule means a story appears on exactly one date.",
-    "shortfall_reason": "Pool held 6 URL-deduped candidates; 2 (PLATON, cancer paper-mill) are content re-feeds of stories already published on 2026-07-19. The 4 survivors are all distinct and fresh with no further unique items available, so selection stops at 4 (above floor 3) rather than padding to 5 or resurfacing a dropped story.",
-    "diversity": "Four picks across three distinct outlets (Phys.org x2, Quanta Magazine, Psychology Today) — inside the max-2-per-outlet guard, three distinct outlets. Topic spread hits four of the requested science buckets: climate/ocean (Atlantic circulation), bio (DNA binding), physics (thermodynamic computing), psychology/behavior (reading the room). Single science category, so each pick carries a distinct palette accent (#2ec5c5, #7928ca, #0070f3, #eb367f). No two picks share a URL."
+    "checked_against": "sections.science in news_data.json — today (2026-07-26: argomoc, binndna, thermoflux, readroom) + days 2026-07-25 (hiddenvars, xrayagent, cellforge, creepnorm), 2026-07-24 (cyclecover, scoresmooth, peptiverse, medmia, curiobot), 2026-07-23 (oled-ai, deeptimegate, qewc), 2026-07-22 (flatband, baker, openadmet, goflow), 2026-07-21 (willow-rl).",
+    "dropped_duplicates": "None dropped as dupes. All 5 picks are URL-distinct and content-distinct from every published science card in the window. Closest adjacencies checked and cleared: combining-ai-protein-laboratory-evolution (Broad directed-evolution) vs baker/cellforge/peptiverse (different labs, methods, targets); subseasonal-ai (atmospheric emulator) vs argomoc/goflow (ocean circulation/currents); loop-ai-framework (closed-loop self-driving lab) vs oled-ai/hiddenvars (screening/prediction only).",
+    "not_selected": "From the 8-item pool, two phys.org items were left out to honor the max-2-per-outlet guard: uncovering-multidimensional-effects-generative-ai (learning-illusion) would have been a 3rd phys.org card, and eurekalert AI-BIOME would have been a 2nd materials + 2nd eurekalert. UC Davis perovskite (techxplore) dropped as a 2nd materials/2nd techxplore.",
+    "shortfall_reason": "None — 5 distinct fresh stories selected.",
+    "diversity": "Five picks span five research angles (protein/bio, climate/weather, fusion/physics-energy, materials science, AI-in-physics meta). Outlet mix is Phys.org x2 + EurekAlert! x1 + Tech Xplore x1 + Physics World x1 = 4 distinct outlets, satisfying max-2-per-outlet and >=3-outlet guards. Single science category, so each pick carries a distinct palette accent (#2ec5c5, #0070f3, #7928ca, #f5a623, #eb367f). No two picks share a URL."
   }
 }

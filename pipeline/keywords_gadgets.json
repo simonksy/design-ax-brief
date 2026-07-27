@@ -1,8 +1,8 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "section": "gadgets",
   "freshness_days": 14,
-  "rotation_note": "Rotated by day-of-year 207 (2026-07-26). Seed universe = gadgets `core` + the flat `keywords` list. DE-EMPHASIZED because saturated in the last 2 days of news_data.json → sections.gadgets: on-device AI / Gemini Nano (07-25 gemma-4-pixel-tpu, gemini-nano-4-fold8; 07-24 framework), smart glasses / Samsung Intelligent Eyewear / Warby Parker / Gentle Monster (07-25 samsung-intelligent-eyewear), Galaxy AI phone / foldables (07-25 gemini-nano-4-fold8), AI fitness band / wearable (07-25 garmin-cirqa-band), AI earbuds (07-24 ear-3a), Gemini smart home / speakers (07-24 gemini-home, geminilivemini), smart ring (07-24 ultrahumanemerald), Apple Intelligence / Siri (07-24 voicepad), OpenAI Codex hardware (07-20 codex-micro). Also RESTED for rotation (heavily worked yesterday, 07-25 plan): AI companion device, Humane AI Pin, AI speaker, Alexa+ device, AI toy. ROTATING TOWARD the aging-out AI-PC + robotics + XR cluster: humanoid & home robots, AI robot vacuums, edge AI chips, Snapdragon AI PC / Copilot+ PC / NPU laptops (07-19~22 coverage now >3 days old), XR/MR headsets, AI TVs, Meta Ray-Ban glasses angle, plus Rabbit R1, standalone AI cameras and broad AI-smartphone/robot coverage. Single source category ('gadgets'); no social channels defined for this section.",
+  "rotation_note": "Unattended run, rotated by day-of-year 208 / day-of-month 27 (2026-07-27). Working set = all 3 `core` + a 16-keyword rotating subset of the 29-item gadgets `keywords` list. Emphasis rotates AWAY from topics saturated in the last 2 days of news_data.json → sections.gadgets: Meta Ray-Ban / $299 Meta AI glasses (07-26), Galaxy Z Flip8/Fold8 + Gemini foldables (07-25/26), AI camera earbuds combos (07-26), Snapdragon X2 / Copilot+ / NPU laptops (07-22/24), Framework local on-device AI PC (07-24), Gemini/One UI agentic phone (07-22), robot vacuum (07-21), OpenAI speaker (07-23), Apple Siri voice UI (07-24). ROTATED IN (rested, still fresh in news terms): AI companion device, Humane AI Pin, Rabbit R1, AI speaker, Alexa+ device, Gemini smart home, AI toy, home/humanoid robot, edge AI chip, XR headset AI, plus wearable-pendant, non-Meta display-glasses vendors (Xreal/Rokid/Even Realities), translation earbuds and AI TV angles. Single source category ('gadgets'); no social channels defined for this section.",
   "core_keywords": [
     "AI gadget",
     "AI hardware",
@@ -10,81 +10,25 @@
   ],
   "seed_keywords": [],
   "working_keywords": [
-    {
-      "keyword": "AI gadget",
-      "core": true,
-      "expansions": ["new AI gadget launch 2026", "AI device announced this week 2026", "best AI gadgets 2026", "AI 가젯 신제품"]
-    },
-    {
-      "keyword": "AI hardware",
-      "core": true,
-      "expansions": ["consumer AI hardware 2026", "dedicated AI device silicon", "AI hardware startup product launch", "AI 하드웨어 신제품"]
-    },
-    {
-      "keyword": "AI 디바이스",
-      "core": true,
-      "expansions": ["AI 디바이스 출시 2026", "AI 기기 신제품", "인공지능 디바이스", "AI 전용 기기"]
-    },
-    {
-      "keyword": "humanoid robot",
-      "expansions": ["humanoid robot 2026 launch", "Figure Optimus 1X robot demo", "consumer humanoid robot price", "home humanoid robot AI", "휴머노이드 로봇"]
-    },
-    {
-      "keyword": "home robot",
-      "expansions": ["consumer home robot 2026", "AI household robot assistant", "domestic robot AI demo", "가정용 AI 로봇"]
-    },
-    {
-      "keyword": "AI robot vacuum",
-      "expansions": ["AI robot vacuum 2026", "robot vacuum obstacle recognition AI", "robot vacuum arm mop AI", "로봇청소기 AI"]
-    },
-    {
-      "keyword": "AI 로봇",
-      "expansions": ["AI 로봇 신제품 2026", "가정용 휴머노이드 로봇", "AI 로봇 데모", "인공지능 로봇 기기"]
-    },
-    {
-      "keyword": "edge AI chip",
-      "expansions": ["edge AI chip 2026", "NPU accelerator device launch", "on-device inference chip", "low-power edge AI processor", "엣지 AI 칩"]
-    },
-    {
-      "keyword": "Snapdragon AI PC",
-      "expansions": ["Snapdragon X2 AI PC 2026", "Qualcomm AI laptop chip", "Windows on Arm AI PC", "Snapdragon Copilot+ laptop"]
-    },
-    {
-      "keyword": "Copilot+ PC",
-      "expansions": ["Copilot+ PC 2026 features", "Copilot+ PC new laptop launch", "on-device Copilot AI PC", "코파일럿+ PC"]
-    },
-    {
-      "keyword": "NPU laptop",
-      "expansions": ["NPU laptop 2026 launch", "40 TOPS NPU laptop AI", "local AI laptop NPU performance", "AI 노트북 NPU"]
-    },
-    {
-      "keyword": "XR headset AI",
-      "expansions": ["AI XR headset 2026", "mixed reality headset AI features", "Apple Vision Pro Meta Quest AI update", "MR headset generative AI", "XR 헤드셋 AI"]
-    },
-    {
-      "keyword": "AI TV",
-      "expansions": ["AI TV 2026 features", "generative AI television", "AI upscaling smart TV processor", "AI TV 신기능"]
-    },
-    {
-      "keyword": "Meta Ray-Ban glasses",
-      "expansions": ["Meta Ray-Ban Display glasses 2026", "Meta AI glasses new feature", "Ray-Ban smart glasses AI update", "Meta smart glasses camera AI"]
-    },
-    {
-      "keyword": "AI companion device",
-      "expansions": ["AI companion gadget 2026", "screenless AI companion device", "OpenAI Jony Ive AI device", "personal AI assistant hardware", "AI 컴패니언 기기"]
-    },
-    {
-      "keyword": "Rabbit R1",
-      "expansions": ["Rabbit R1 update 2026", "Rabbit large action model device", "pocket AI assistant gadget", "Rabbit AI agent hardware"]
-    },
-    {
-      "keyword": "AI camera",
-      "expansions": ["standalone AI camera 2026", "generative AI camera device", "AI photography gadget launch", "on-device AI image processing camera"]
-    },
-    {
-      "keyword": "AI smartphone",
-      "expansions": ["agentic AI smartphone 2026", "AI phone hardware feature", "on-device AI phone model", "AI 스마트폰 신제품"]
-    }
+    { "keyword": "AI gadget", "core": true, "expansions": ["new AI gadget launch 2026", "best AI gadgets 2026 hands-on", "AI-powered consumer electronics", "AI 가젯 신제품"] },
+    { "keyword": "AI hardware", "core": true, "expansions": ["consumer AI hardware 2026", "dedicated AI device silicon", "AI hardware startup product launch", "AI 하드웨어 신제품"] },
+    { "keyword": "AI 디바이스", "core": true, "expansions": ["AI 디바이스 출시 2026", "AI 기기 신제품", "인공지능 디바이스", "AI 전용 기기"] },
+    { "keyword": "AI companion device", "expansions": ["screenless AI companion device 2026", "always-on personal AI assistant hardware", "OpenAI io AI device", "AI 컴패니언 기기"] },
+    { "keyword": "Humane AI Pin", "expansions": ["Humane AI Pin successor 2026", "wearable AI pin", "screenless lapel AI device", "AI pin comeback"] },
+    { "keyword": "Rabbit R1", "expansions": ["Rabbit R1 update 2026", "Rabbit large action model device", "pocket AI assistant gadget", "Rabbit AI agent hardware"] },
+    { "keyword": "AI wearable", "expansions": ["AI wearable pendant 2026", "AI necklace recorder", "wearable AI assistant Friend Limitless", "always-listening AI wearable"] },
+    { "keyword": "AI 웨어러블", "expansions": ["AI 웨어러블 신제품 2026", "AI 펜던트 기기", "웨어러블 AI 비서", "건강 AI 웨어러블"] },
+    { "keyword": "AI speaker", "expansions": ["AI smart speaker 2026", "LLM smart speaker", "generative voice assistant speaker", "AI 스피커 신제품"] },
+    { "keyword": "Alexa+ device", "expansions": ["Alexa Plus rollout 2026", "Amazon Echo generative AI device", "Alexa LLM assistant hardware", "generative Alexa gadget"] },
+    { "keyword": "Gemini smart home", "expansions": ["Gemini for Home 2026", "Google Home AI", "Nest Gemini assistant", "AI 스마트홈"] },
+    { "keyword": "AI toy", "expansions": ["AI toy 2026", "generative AI plush companion", "interactive AI toy kids", "AI 장난감"] },
+    { "keyword": "home robot", "expansions": ["consumer home robot 2026", "AI household robot assistant", "domestic robot AI demo", "가정용 AI 로봇"] },
+    { "keyword": "humanoid robot", "expansions": ["humanoid robot consumer home 2026", "Figure robot home", "1X Neo humanoid", "Tesla Optimus"] },
+    { "keyword": "AI 로봇", "expansions": ["AI 로봇 신제품 2026", "가정용 휴머노이드 로봇", "AI 반려 로봇", "인공지능 로봇 기기"] },
+    { "keyword": "edge AI chip", "expansions": ["edge AI chip 2026", "NPU accelerator device launch", "on-device inference chip", "엣지 AI 칩"] },
+    { "keyword": "XR headset AI", "expansions": ["AI XR headset 2026", "mixed reality headset AI features", "Vision Pro Quest AI update", "Android XR headset"] },
+    { "keyword": "AI earbuds", "expansions": ["AI translation earbuds 2026", "assistant earbuds real-time translation", "generative AI earbuds", "AI 이어버드"] },
+    { "keyword": "AI TV", "expansions": ["AI TV 2026 features", "generative AI television", "AI upscaling smart TV processor", "AI 티비 신기능"] }
   ],
   "plan": [
     {
@@ -112,37 +56,33 @@
         "notebookcheck.net",
         "uploadvr.com",
         "roadtovr.com",
-        "venturebeat.com",
-        "androidcentral.com",
-        "slashgear.com"
+        "venturebeat.com"
       ],
       "queries": [
-        "new AI gadget launch July 2026",
-        "consumer AI hardware device announced 2026",
-        "AI 디바이스 신제품 2026",
-        "humanoid robot consumer demo 2026",
-        "Figure 1X home humanoid robot AI 2026",
+        "AI companion device screenless assistant 2026 review",
+        "OpenAI io first AI device portable speaker 2026",
+        "Humane AI Pin successor wearable AI pin 2026",
+        "Rabbit R1 large action model agent update 2026",
+        "AI wearable pendant recorder Friend Limitless 2026",
+        "AI necklace always-listening wearable assistant 2026",
+        "AI smart speaker generative LLM voice assistant 2026",
+        "Alexa+ generative assistant Amazon Echo rollout 2026",
+        "Gemini for Home Google Nest AI smart home 2026",
+        "AI toy interactive generative companion kids 2026",
         "consumer home robot AI household assistant 2026",
-        "가정용 AI 로봇 휴머노이드 2026",
-        "AI robot vacuum obstacle recognition arm 2026",
-        "edge AI chip NPU on-device inference launch 2026",
-        "Snapdragon X2 AI PC laptop 2026",
-        "Copilot+ PC new AI laptop features 2026",
-        "NPU laptop local AI performance 2026",
-        "AI 노트북 NPU 온디바이스 2026",
-        "XR headset AI mixed reality features 2026",
-        "Apple Vision Pro Meta Quest AI update 2026",
-        "AI TV generative upscaling features 2026",
-        "Meta Ray-Ban Display AI glasses new feature 2026",
-        "AI companion device screenless assistant 2026",
-        "Rabbit R1 update large action model device 2026",
-        "standalone AI camera generative photography device 2026",
-        "agentic AI smartphone hardware feature 2026",
-        "AI 스마트폰 신기능 2026",
-        "엣지 AI 칩 온디바이스 NPU 2026",
-        "XR 헤드셋 AI 신제품 2026",
-        "best new AI devices hands-on review 2026",
-        "AI 가젯 신제품 리뷰 2026"
+        "humanoid robot home Figure 1X Neo consumer 2026",
+        "edge AI chip on-device NPU accelerator device 2026",
+        "XR headset AI Vision Pro Quest Android XR update 2026",
+        "display smart glasses AI Xreal Rokid Even Realities 2026",
+        "AI translation earbuds real-time assistant 2026",
+        "AI TV generative upscaling processor feature 2026",
+        "new AI gadget hands-on review July 2026",
+        "best AI hardware device launch 2026",
+        "AI 웨어러블 AI 펜던트 신제품 2026",
+        "AI 스피커 AI 스마트홈 신제품 2026",
+        "AI 로봇 가정용 반려 로봇 2026",
+        "AI 장난감 인터랙티브 AI 완구 2026",
+        "AI 디바이스 신제품 출시 2026"
       ]
     }
   ],

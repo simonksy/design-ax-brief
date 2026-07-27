@@ -1,78 +1,84 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "section": "movies",
   "cards": [
     {
-      "id": "smartroto",
+      "id": "netflix300",
       "eyebrow": "AI NEWS",
-      "headline": "파운드리가 AI 로토 플러그인\n스마트로토를 정식 공개했다",
-      "mini_headline": "AI 로토 최대 4배 가속",
-      "body": "아티스트가 주요 프레임만 지정하면 스플라인이 샷 전체에 자동으로 스냅돼 수작업보다 최대 4배 빠르다.",
+      "headline": "넷플릭스, 올해 300여 편에\n이미 AI를 썼다",
+      "mini_headline": "넷플릭스 AI 300편",
+      "body": "넷플릭스가 올해 공개·제작한 약 300편에 후반작업 중심으로 생성형 AI를 썼다고 밝혔다.",
       "tool": "Movies",
-      "source": "fxguide",
-      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2217157/netflix-says-it-s-already-used-ai-in-roughly-300-titles-this-year/",
       "accent": "#0070f3",
       "motif": "frame",
+      "image": "https://www.engadget.com/img/gallery/netflix-says-its-already-used-ai-in-roughly-300-titles-this-year/intro-1784242266.jpg",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "파운드리가 누크 계열 전용 로토 플러그인 스마트로토를 내놨다. AI 리서치 총괄 애덤 처벳지는 이걸 완전 자동화가 아니라 가속 도구라고 못 박는다. \"마법의 해결책이 아니다. 스플라인을 대신 다 그려주는 게 아니라 키프레이밍을 빠르게 해주는 것\"이라고 그는 말했다." },
-          { "t": "img", "src": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS.jpg", "cap": "스마트로토의 스플라인 작업 화면" },
-          { "t": "p", "x": "아티스트는 기존처럼 로토를 한다. 피사체가 뚜렷한 프레임에서 대상을 관절 단위 형태로 쪼갠다. 그다음 지루한 키프레이밍을 스마트로토가 맡아, 이미지 시퀀스 전체에 걸쳐 스플라인을 옮기고 변형한다." },
-          { "t": "p", "x": "연간 구독료는 499달러이고 노드 고정과 플로팅 라이선스 중에 고른다. 작업은 두 종류의 키로 굴러간다. 모델이 예측한 '스마트 키'와 아티스트가 직접 찍거나 고친 '유저 키'다. 처벳지는 유저 키만은 손대지 않는다고 선을 그었다. \"거기에 놓았다면 우리는 그걸 그대로 받아들여 바꾸지 않는다.\"" },
-          { "t": "img", "src": "https://www.fxguide.com/wp-content/uploads/2026/07/userkeys.jpg", "cap": "유저 키와 예측된 스마트 키" },
-          { "t": "p", "x": "스마트로토는 흔한 두 방식을 피했다. 처음엔 옵티컬 플로를 시도했지만 \"가장자리에서 무너진다. 정밀함이 필요한 곳이 바로 거기\"라고 처벳지는 말했다. 세그멘테이션 모델에 기대는 이미지 매팅도 버렸다. 대신 머신러닝 모델이 스플라인을 직접 전파하며 서브픽셀 정밀도를 지킨다." },
-          { "t": "p", "x": "내부 개발만 4년 넘게 걸렸고, 그보다 앞선 6~7년 전에는 DNEG, 배스대학교와 함께 문제를 파고들었다. 학습 데이터는 리서치 총괄이 직접 찍은 영상에 전문 로토 작업을 정밀하게 입힌 것으로, 모두 라이선스를 확보해 클라우드 전송 없이 로컬에서 처리한다. 모델은 해상도와 형태 수에 따라 약 8기가바이트의 VRAM을 쓴다." },
-          { "t": "p", "x": "전문 로토 아티스트와 2주간 진행한 테스트에서 작업 속도는 최대 4배까지 올랐다. 다만 처벳지는 이 수치를 과장하지 말라며 \"같은 샷을 꾸준히 두 배, 종종 그보다 훨씬 빠르게\"라고 다시 눌렀다. 로토 교본을 쓴 컴포지터 벤저민 브랫도 베타에 참여해 \"스마트로토가 이 정도로 좋을 줄 몰라 놀랐다\"고 했다." }
+          { "t": "p", "x": "넷플릭스가 2분기 주주서한에서 2026년 공개하거나 제작한 약 300편에 생성형 AI 작업을 썼다고 밝혔다. 대부분은 후반작업 단계였다. 군중 장면을 늘리거나 역사 전투 시퀀스, 설정 숏을 다듬는 데 쓰였다." },
+          { "t": "p", "x": "회사는 인도 작품 'Glory', 'Brasil 70: A Saga do Tri', 'The American Experiment'를 사례로 들었다. 이런 도구가 결과물의 질을 높이면서도 더 빠르고 저렴하게 만들어 준다는 것이다. 그러면서도 사람의 전문성은 여전히 핵심이라고 덧붙였다." }
         ]
       }
     },
     {
-      "id": "sparkstory",
+      "id": "grokodyssey",
       "eyebrow": "AI NEWS",
-      "headline": "스파크 스토리 베타 공개\n브라우저로 짜는 프리비스",
-      "mini_headline": "브라우저 프리비스 베타",
-      "body": "파이널 드래프트 대본을 불러와 장소와 인물을 분석하고 25종 넘는 마블 환경으로 가상 촬영장을 짠다.",
+      "headline": "그록, 연내 '오디세이'를\n장편 영화로 만든다",
+      "mini_headline": "그록의 오디세이",
+      "body": "일론 머스크가 xAI의 그록 이미지가 연말까지 호메로스 '오디세이'를 장편 영화로 만든다고 주장했다.",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/lightcraft-technology-opens-spark-story-beta-siggraph-2026",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/elon-musk-claims-grok-will-make-a-historically-accurate-odyssey-by-the-end-of-the-year",
       "accent": "#f5a623",
       "motif": "frame",
+      "image": "https://www.redsharknews.com/hubfs/odyssey%20grok%20imagine.jpg",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "라이트크래프트 테크놀로지가 스파크 스토리의 롤링 베타를 열었다. 필름메이커가 첫날부터 이야기를 함께 다듬도록 돕는 빠른 가상 촬영 시스템이다. 사실적인 디지털 환경과 물리적으로 정확한 움직임, 실제 카메라·렌즈 모델을 갖춰 초기 창작 결정이 촬영 현장까지 그대로 이어진다. 정식 출시는 올가을이다." },
-          { "t": "img", "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/web_library_locations-1280.jpg", "cap": "스파크 스토리의 환경·장소 라이브러리" },
-          { "t": "p", "x": "시스템은 시그라프 2026 부스 512에서 7월 21~23일 시연된다. 스파크 스토리는 브라우저나 모바일 앱에서 원작 이야기를 3D로 그리며 비용을 줄이고 샷을 잡도록 설계됐다. 전 세계 팀이 대본, 가우시안 스플랫, 불러온 USD 에셋, 카메라 움직임을 두고 실시간으로 함께 작업한다." },
-          { "t": "p", "x": "\"낡은 공식에서 벗어나려는 필름메이커에게 새로운 날이 밝았다. 백룸스와 옵세션은 시작일 뿐\"이라고 라이트크래프트 공동창업자이자 CEO 엘리엇 맥이 말했다. \"스파크 스토리로 야심 찬 팀은 큰 비용과 인프라 없이 원하는 프로젝트를 만든다.\"" },
-          { "t": "p", "x": "베타에는 새 3D 에셋·환경 라이브러리가 들어간다. 월드 랩스의 마블 환경 25종과 장르별로 고른 3D 에셋 300여 개다. iOS 앱은 원클릭 실시간 24p/25p 라이브액션 합성을 지원해, AI나 블루·그린 스크린 키어를 쓰는 사람도 촬영 도중 휴대폰에서 풀 품질 '슈퍼데일리'를 뽑는다." },
-          { "t": "p", "x": "라이트크래프트는 촬영본을 스파크 데이터베이스에 동기화해 알맞은 3D 장면과 대본 구간에 붙이는 크로스플랫폼 전송 앱 스파크 아틀라스도 함께 내놨다. 이제 블렌더, 언리얼 엔진, 마야의 USD 파일을 USDZ로 변환하지 않고 바로 불러온다." },
-          { "t": "p", "x": "라이트크래프트는 에미상을 받은 발명가 엘리엇 맥과 아비드 창업자 빌 워너 회장이 세운 회사다. 스파크 스토리 베타 신청은 열려 있고, 출시 전까지 순차적으로 접근 권한을 준다." }
+          { "t": "p", "x": "일론 머스크는 xAI의 그록 이미지(Grok Imagine)가 연말까지 호메로스의 '오디세이'를 장편 영화로 만들어 낸다고 밝혔다. '역사적으로 정확한' 각색이라는 표현을 쓰며, 텍스트로 영상을 생성하는 이 방식을 크리스토퍼 놀런의 극장판에 맞세웠다." },
+          { "t": "p", "x": "다만 지금까지 공개된 샘플 영상은 품질 문제가 뚜렷하다. 그래서 이 주장은 AI가 장편 한 편을 실제로 어디까지 만들어 내는지 가늠하는 시험대에 가깝다." }
         ]
       }
     },
     {
-      "id": "griptape",
+      "id": "servicemake",
       "eyebrow": "AI NEWS",
-      "headline": "스튜디오가 AI 모델을 고른다\n파운드리 그립테이프 엔터프라이즈",
-      "mini_headline": "스튜디오 통제형 AI",
-      "body": "파이프라인 감독이 아티스트가 쓸 AI 모델을 직접 고르고 온프레미스로 돌려 VFX 워크플로를 통제한다.",
+      "headline": "루마로 하루 만에\n납품용 컷을 뽑는다",
+      "mini_headline": "루마로 하루 컷",
+      "body": "서비스플랜 메이크가 루마의 생성형 비디오로 며칠 걸리던 촬영을 하루 만에 납품용 컷으로 끝낸다.",
       "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/foundry-adds-griptape-enterprise-for-pro-grade-ai-in-vfx/",
+      "source": "Luma AI",
+      "url": "https://lumalabs.ai/news/how-serviceplan-make-uses-luma-to-put-creativity-first",
       "accent": "#7928ca",
       "motif": "frame",
+      "image": "https://cdn.sanity.io/images/2ylxvaa2/production/dc33a436e1a717f5fe42bc0927c8a98a6ca68003-1920x1080.png",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "파운드리가 AI 워크플로 오케스트레이션 플랫폼 그립테이프에 엔터프라이즈 등급을 새로 얹었다. 고사양 미디어 제작 환경을 겨냥한 등급으로, 발표는 2026년 7월 16일에 나왔다." },
-          { "t": "img", "src": "https://postperspective.com/wp-content/uploads/2026/07/11-624x416.jpg", "cap": "그립테이프 엔터프라이즈" },
-          { "t": "p", "x": "엔터프라이즈 등급은 스튜디오가 통제하는 라이선스와 넓어진 프로젝트 관리 도구를 더한다. 파이프라인 감독이 아티스트가 어떤 AI 모델을 쓸지 직접 고르니, 워크플로가 검증되고 규정에 맞으며 제작에 바로 투입할 상태로 유지된다." },
-          { "t": "p", "x": "그립테이프 엔터프라이즈는 온프레미스나 프라이빗 클라우드에서 돌아가 민감한 지식재산 보안 걱정을 던다. 통제와 프라이버시를 핵심 기능으로 내세운다." },
-          { "t": "img", "src": "https://postperspective.com/wp-content/uploads/2026/07/05_Permission_Manager_Studio_Wide_or_Project_based-.png", "cap": "모델 접근 권한을 다루는 권한 관리자 화면" },
-          { "t": "p", "x": "그립테이프 공동창업자이자 전 CEO 카일 로시는 파운드리가 2026년 2월 이 플랫폼을 인수한 뒤 최고AI책임자로 합류했다. 로시는 \"파운드리는 30년 넘게 시각효과·애니메이션 스튜디오의 믿을 만한 기술 파트너였다\"고 말했다." },
-          { "t": "p", "x": "플랫폼은 파이썬 기반 구조로 여러 AI 모델과 에이전트를 오케스트레이션해 이미지 생성부터 메타데이터 관리까지 아우른다. 누크와 호환되는 이미지 시퀀스를 처리하고 색 파이프라인 관리에 오픈컬러IO를 쓴다. 기술감독은 그립테이프에서 워크플로를 짜 버전이 매겨진 누크 기즈모로 퍼블리시한다." },
-          { "t": "p", "x": "이미지·영상 생성 단계는 고정돼 있지 않아 다시 배열하고 다듬을 수 있고, 플럭스, 스테이블 디퓨전 XL, LTX, Wan 같은 모델을 스튜디오 로컬 GPU에서 돌린다. 그립테이프 엔터프라이즈는 곧바로 쓸 수 있다." }
+          { "t": "p", "x": "사례 연구다. 광고 대행사 서비스플랜 메이크는 루마의 생성형 비디오로 콘셉트를 시각화하고, 며칠씩 걸리던 스튜디오 촬영 대신 하루 만에 클라이언트에게 보여 줄 컷을 뽑는다." },
+          { "t": "p", "x": "작업의 무게중심이 옮겨졌다. 실행과 후반작업에 쓰던 시간이 콘셉트를 다듬고 클라이언트 피드백을 빠르게 주고받는 쪽으로 넘어갔다." }
+        ]
+      }
+    },
+    {
+      "id": "meshyagent",
+      "eyebrow": "AI NEWS",
+      "headline": "메시, 대화로 아트 방향을\n지켜주는 3D 에이전트",
+      "mini_headline": "메시 3D 에이전트",
+      "body": "메시가 세션 내내 맥락을 유지해 일관된 아트 방향으로 3D 에셋을 만드는 대화형 에이전트 베타를 공개했다.",
+      "tool": "Movies",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "image": "",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "메시가 3D 에이전트 베타를 내놓았다. 한 번의 프롬프트로 끝나는 도구가 아니라 대화로 함께 작업하는 협업자에 가깝다. 세션 내내 맥락을 유지해, 아티스트가 일관된 아트 방향을 잡고 스타일이 통일된 3D 에셋 묶음을 만들 수 있다." },
+          { "t": "p", "x": "메시는 이 도구를 영화·VFX와 애니메이션 파이프라인의 초기 콘셉트 탐색용으로 내세운다. 최종 판단권은 창작자에게 남겨 둔다." }
         ]
       }
     }

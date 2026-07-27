@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "section": "movies",
   "selection_mode": "auto",
   "picks": [
@@ -7,55 +7,67 @@
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Foundry's SmartRoto: AI-assisted roto that aims to work the way you do",
-      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
-      "source": "fxguide",
-      "published_iso": "2026-07-16T16:59:49Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS-830x479.jpg",
-      "excerpt": "Foundry released SmartRoto, an AI-powered plugin for Nuke, NukeX, Nuke Studio and Nuke Indie built on a proprietary machine-learning model trained over four years. Artists key significant frames and SmartRoto snaps roto splines into place across a shot — up to 4x faster than manual rotoscoping while keeping spline-based precision and artist control.",
-      "rationale": "Highest actionability — a shipping Nuke plugin that makes rotoscoping up to 4x faster while preserving spline precision changes a compositor's daily workflow immediately; credible fxguide deep-dive on a brand-new release."
+      "title": "Netflix says it's already used AI in 'roughly 300' titles this year",
+      "url": "https://www.engadget.com/2217157/netflix-says-it-s-already-used-ai-in-roughly-300-titles-this-year/",
+      "source": "Engadget",
+      "published_iso": "2026-07-16T22:51:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/netflix-says-its-already-used-ai-in-roughly-300-titles-this-year/intro-1784242266.jpg",
+      "excerpt": "Netflix disclosed in its Q2 shareholder letter that generative-AI workflows were used in roughly 300 titles released or produced in 2026, concentrated in post-production (enhanced crowds, historical battle sequences, establishing shots). It named Glory (India), Brasil 70: A Saga do Tri and The American Experiment as examples, arguing the tools deliver higher-quality output faster and cheaper while human expertise stays essential.",
+      "rationale": "Hard scale signal from a major studio-buyer — AI post is now baseline across ~300 titles, reframing where VFX and post craft time actually goes; credible Engadget report on a fresh Q2 disclosure."
     },
     {
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "Lightcraft Technology Opens Spark Story Beta at SIGGRAPH 2026",
-      "url": "https://www.awn.com/news/lightcraft-technology-opens-spark-story-beta-siggraph-2026",
-      "source": "Animation World Network",
-      "published_iso": "2026-07-20T12:00:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/web_library_locations-1280.jpg?itok=NDkiU7Xb",
-      "excerpt": "Lightcraft opened a rolling beta of Spark Story, a browser-based interactive previs system that loads Final Draft scripts, parses them for locations and characters, and ties every shot to a scene. It ships with 25+ World Labs 'Marble' environments and 300+ 3D assets, plus Gaussian splats, USD import and real-time 24p iOS live-action compositing so global teams can workshop a virtual film set from day one.",
-      "rationale": "Novel, hands-on tool now open to sign-ups — script-to-previs in the browser with Gaussian splats and live-action compositing lets directors and previs artists workshop a virtual set today; distinct outlet (AWN) keeps the trio diverse."
+      "title": "Elon Musk claims Grok will make a 'historically accurate' Odyssey by the end of the year",
+      "url": "https://www.redsharknews.com/elon-musk-claims-grok-will-make-a-historically-accurate-odyssey-by-the-end-of-the-year",
+      "source": "RedShark News",
+      "published_iso": "2026-07-26T09:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/odyssey%20grok%20imagine.jpg",
+      "excerpt": "Elon Musk says xAI's Grok Imagine will generate a full-length, 'historically accurate' film adaptation of Homer's Odyssey by year's end, framing generative text-to-video as a rival to Christopher Nolan's theatrical version. The sample footage shown so far has significant quality issues, making the claim a test of how far AI feature generation can actually go.",
+      "rationale": "Novel and freshest item — sets a public year-end benchmark for feature-length text-to-video against a Nolan release, a concrete stake-in-the-ground for how far gen-video craft is being pushed; distinct outlet keeps the set diverse."
     },
     {
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Foundry Adds Griptape Enterprise for Pro-Grade AI in VFX",
-      "url": "https://postperspective.com/foundry-adds-griptape-enterprise-for-pro-grade-ai-in-vfx/",
-      "source": "postPerspective",
-      "published_iso": "2026-07-16T08:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/11-624x416.jpg",
-      "excerpt": "Foundry announced Griptape Enterprise, an AI workflow-orchestration tier with studio-controlled licensing and on-prem deployment that lets pipeline supervisors curate exactly which AI models artists use, keeping VFX workflows vetted and production-ready.",
-      "rationale": "Directly actionable for pipeline supervisors — studio-controlled, on-prem AI orchestration that dictates exactly which models VFX artists can run day to day; credible postPerspective report on a fresh enterprise tier."
+      "title": "How Serviceplan MAKE Uses Luma to Put Creativity First",
+      "url": "https://lumalabs.ai/news/how-serviceplan-make-uses-luma-to-put-creativity-first",
+      "source": "Luma AI",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/dc33a436e1a717f5fe42bc0927c8a98a6ca68003-1920x1080.png",
+      "excerpt": "Case study: agency Serviceplan MAKE uses Luma's generative video to visualize concepts and deliver client-ready shots in a single day instead of multi-day studio production. The workflow shift moves time away from execution/post toward concept refinement and faster client feedback.",
+      "rationale": "Highest actionability — a concrete production-workflow case study that collapses multi-day studio shoots to same-day client-ready shots, directly changing how a craft team allocates time tomorrow."
+    },
+    {
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "title": "Meshy Wants AI to Feel Less Like a Prompt and More Like a Creative Partner",
+      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
+      "source": "80 Level",
+      "published_iso": "2026-07-21T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Meshy launched its 3D Agent Beta, a conversational AI that acts as a creative collaborator rather than a one-shot prompt tool, holding context across a session so artists can set a consistent art direction and generate stylistically unified families of 3D assets. It positions AI for early-stage concept exploration for film/VFX and animation pipelines while keeping artistic control with the creator.",
+      "rationale": "Actionable pipeline shift for film/VFX concepting — a context-holding 3D agent that keeps art direction consistent across an asset family, changing how previz and asset exploration is done; adds an under-represented tool/outlet to the set."
     }
   ],
   "shortfall": false,
   "shortfall_reason": null,
   "dedup_report": {
-    "candidates_evaluated": 3,
-    "kept": 0,
-    "dropped_as_duplicates": 3,
+    "candidates_evaluated": 4,
+    "kept": 4,
+    "dropped_as_duplicates": 0,
     "floor": 3,
     "cap": 5,
-    "baseline": "news_data.json -> sections.movies: today 2026-07-25 (smartroto, sparkstory, griptape) + days 2026-07-24/23/22/21/19. The three locked picks above are the already-published today cards and remain the movies brief; this run's candidate pool (candidates_filtered_movies.json, 3 items) added no never-before-seen movies story.",
-    "this_run_candidate_pool": "pipeline/candidates_filtered_movies.json (3 items) — all three dropped as duplicates of already-published movies cards. No fresh survivors, so the locked 3 picks are unchanged (still meets floor 3, 3 distinct outlets, distinct accents).",
-    "drops": [
-      "https://postperspective.com/foundry-launches-smartroto-ai-plugin-for-nuke/ — same Foundry SmartRoto for Nuke release already published today as card 'smartroto' (fxguide). Different outlet / reworded headline, same launch. Earliest-wins.",
-      "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026 — same Puget Systems SIGGRAPH 2026 'Robo Dojo' activation (Beeble SwitchLight 3 on Corridor Crew's Son of a Dungeon S3, real-time MetaHuman, KeyShot AI Shots) already published 2026-07-21 as card 'switchlight3' (provideocoalition.com). Same event, different outlet. Earliest-wins.",
-      "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/ — same Higgsfield 'Kok Boru' / 'Kök Börü' SIGGRAPH 2026 short + hybrid human-AI pipeline already published 2026-07-24 as card 'kokboru' (awn.com). Different outlet / director-interview angle, same film. Earliest-wins."
+    "baseline": "news_data.json -> sections.movies: today 2026-07-25 (smartroto fxguide, sparkstory awn, griptape postperspective) + days 2026-07-24/23/22/21/19 (premiere-genmedia, kokboru, sam2matte, promiseai, hpzcaptis, substance3d, switchhdr, nvidia-keynote, spark-story, project-indigo, blomkamp nightborn, martini, curious-refuge-ai-tools, switchlight3). Checked all four fresh candidates by URL and content against that history.",
+    "this_run_candidate_pool": "pipeline/candidates_filtered_movies.json (4 items). Section is thin in-window; all 4 are fresh, non-duplicate AI-film-craft stories across 4 distinct outlets. Selected all 4 (pool exhausted below cap of 5).",
+    "no_match_notes": [
+      "Engadget 'Netflix ~300 titles' — no prior Netflix-AI-scale card in movies history; distinct URL and content.",
+      "RedShark 'Grok Odyssey' — distinct from the previously published redsharknews 'Adobe Project Indigo AI Playground' card; different URL, different story.",
+      "Luma 'Serviceplan MAKE' — new case study, no prior Luma or Serviceplan card in movies history.",
+      "80.lv 'Meshy 3D Agent Beta' — not present in movies section history; fresh for this section. (An identical-URL card ran in the DESIGN section on 2026-07-22, but per-section dedup governs here and movies history has no match, so it is kept.)"
     ],
-    "diversity": "Locked picks: 3 across 3 distinct outlets (fxguide, AWN, postPerspective) — max 1 per outlet, satisfies the FINAL diversity guard. Single-category 'movies' section, so each pick carries a distinct accent (#0070f3, #f5a623, #7928ca).",
-    "notes": "Task flagged the animationmagazine 'Kok Boru' item as a possible overlap with the published AWN 'Higgsfield debuts K-K-B-R' card — confirmed a true content duplicate (same film/release) and dropped. All 3 handed candidates deduped out; the previously-locked SmartRoto / Spark Story / Griptape trio stands as the movies brief."
+    "diversity": "4 picks across 4 distinct outlets (Engadget, RedShark News, Luma AI, 80 Level) — max 1 per outlet, satisfies the final diversity guard. Single-category 'movies' section, so each pick carries a distinct accent (#0070f3, #f5a623, #7928ca, #2ec5c5) and the shared 'frame' motif."
   }
 }
