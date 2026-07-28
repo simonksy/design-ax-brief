@@ -1,8 +1,22 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "movies",
   "media": [
-    { "id": "martini", "type": "image", "src": "pipeline/media/martini.jpg" },
-    { "id": "aitoolvetting", "type": "image", "src": "pipeline/media/aitoolvetting.jpg" }
+    {
+      "id": "reluctant-ai",
+      "type": "video",
+      "src": "pipeline/media/reluctant-ai.mp4",
+      "poster": "pipeline/media/reluctant-ai.jpg"
+    },
+    {
+      "id": "gods-gifts",
+      "type": "image",
+      "src": "pipeline/media/gods-gifts.png"
+    },
+    {
+      "id": "reply-jury",
+      "type": "image",
+      "src": "pipeline/media/reply-jury.jpg"
+    }
   ]
 }

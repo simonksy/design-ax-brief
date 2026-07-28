@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "science",
   "media": [
-    { "id": "syntnpb", "type": "image", "src": "pipeline/media/syntnpb.jpg" },
-    { "id": "corgigenome", "type": "image", "src": "pipeline/media/corgigenome.jpg" },
-    { "id": "cognitivebci", "type": "svg", "src": "pipeline/media/cognitivebci.svg" },
-    { "id": "platondetector", "type": "image", "src": "pipeline/media/platondetector.jpg" }
+    { "id": "l2t", "type": "image", "src": "pipeline/media/l2t.jpg" },
+    { "id": "quasar", "type": "image", "src": "pipeline/media/quasar.jpg" },
+    { "id": "binn", "type": "image", "src": "pipeline/media/binn.jpg" },
+    { "id": "symptomai", "type": "image", "src": "pipeline/media/symptomai.png" }
   ]
 }

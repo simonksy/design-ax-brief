@@ -1,10 +1,19 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "music",
-  "now_iso": "2026-07-27T22:05:00Z",
+  "now_iso": "2026-07-28T22:00:52Z",
   "window_hours": 336,
-  "note": "Section=music, 14-day window (336h, start 2026-07-13T22:05Z). EXPANDED=yes but net-new is EXHAUSTED: an extensive sweep of the music allowed_domains for rested angles surfaced NO fresh AI-creation items that are not already published in the current brief (news_data music today 07-27 + days 07-22..07-26). The 6 items below are the WebFetch-verified, on-topic, distinct in-window candidates (all pass freshness.py FRESH); they overlap heavily with the 07-22..07-27 brief, so the downstream curator/publisher will dedup most/all against history — that is the true state of the beat this window, not padding. Tried keywords/vendors: Suno v4.5+/v5.5/API/Studio, Udio-BuyDRM, ElevenLabs Music v2/ElevenMusic, Stable Audio 6-min model, Google Lyria 3 Pro/MusicLM/ProducerAI, AI mastering (iZotope Ozone 12, LANDR Blueprints/Layers), AI DJ (Algoriddim djay Pro AI, Apple Music AutoMix, Serato/rekordbox), AI vocal cloning (SoundLabs/Vocalist AI/Voice-Swap), neural synth (Amorph, VS-1, ACE Studio 2, Obsidian Neural, Roland Project Lydia/Melody Flip), AI sample gen (Output Co-Producer, Stepista, ABYZOR Genesis), AI song cover/voice, Riffusion/ProducerAI, Logic Pro AI, AI music video (Timbaland TaTa, Snoop Dogg, Rolling Stones de-aging), AI songwriting, StaffPad Piano Capture/Songscription transcription, Moises AI Studio, RipX 8, Fender Studio (bpb variant), Epidemic Sound Adapt, Tamber, Mozart AI, Mureka, Clanker Records AI label, CDM AI-choral/Tau5, Korean 'AI 음악 생성'. STALE-dropped (real datePublished before 07-13 once WebFetched): iZotope Ozone 12 (2025-09-11), Roland Melody Flip (2026-03-18), Roland Project Lydia (May 2026), Deezer AI sniffer (2026-06-11), Modulate AI detection API (2026-06-24), StaffPad Piano Capture (2023), Songscription review (2025-12-08), LALAL.AI plugin (2026-05), Tamber launch (2026-05-19), Epidemic Sound Adapt (2025-09-18), RipX 8 (2025-12-11), Output Co-Producer (2023-12-12), Clanker Records (2026-05-08), UMG-Stability (2025-10-30), CDM AI-choral (2025-11-26), FL Studio 2026 (Jul 9). BUSINESS/LEGAL-dropped by relevance filter: GEMA PLAI dataset (07-24), Sony v Udio 2nd suit, RIAA/IFPI AI-labeling (Jul 10), Mozart AI $6M seed. Social (Andrew Huang/Venus Theory YouTube): watch-page WebFetch returned only footer nav, uploadDate unverifiable, skipped; music defines no instagram_handles. digitalmusicnews.com returned 403 on WebFetch; theverge.com/pitchfork.com blocked to the crawler.",
+  "note": "Section=music, 14-day window (336h; start 2026-07-14T22:00:52Z). Swept the music allowed_domains hard for rested angles (AI DJ, real-time/Lyria, Riffusion, Ableton/Logic AI, Udio, Stable Audio, ElevenLabs Music, MusicLM, AI songwriting, text-to-music, AI music video, licensing) plus vendors/Korean terms. Net-new AI-CREATION news this window is nearly exhausted (consistent with the 07-27 run). ONE genuinely net-new item surfaced: ElevenLabs' ElevenMusic References+Vocals update (07-23) — no allowed_domain outlet covered it, so it is included under the off-list exception via DigitalToday (real AI music-feature release, verified datePublished). The other 5 are the still-in-window, WebFetch-verified, on-topic, distinct-outlet items (all pass freshness.py FRESH). DROPPED as STALE (real datePublished outside window once WebFetched): Spotify AI music assistant / TechCrunch (07-14T12:00Z = 346h, just past 336h), Suno Studio DAW + v5 'most powerful' (2025-09-25), DrumBot AI (2026-04-02), Roland Project Lydia/Melody Flip, LANDR Blueprints (Jan), VirtualDJ 2026 (Dec 2025), FL Studio 2026 (Jul 9), Rolling Stone Timbaland 'Tata Taktumi' debut (2025-10-10), Claw.fm AI radio (2026-02-12), LALAL.AI plugin (05-22), Synthtopia Smol Sequencer (06-26). DROPPED as NOT-AI: Synthtopia ToneField (07-21, deterministic generative sequencer, no AI), AOFN Grizzly Gristleizer (07-26). DROPPED by relevance filter (business/legal, no craft hook): GEMA PLAI dataset (07-24), RIAA/A2IM AI-tagging (07-10), AFM v UMG/WMG dismissal (07-21), 'AIformusic' 50-company guidelines, AI speed-altering royalty theft. Billboard items (Tilly Norwood AI music video; imoliver AI-creator label deal, ~07-24) DROPPED: billboard.com 307-redirects to a paywalled tollbit host (402), so published time could not be verified. digitalmusicnews.com returned 403; music-ally returned 429 on WebFetch. Social: music defines no instagram_handles; Benn Jordan/Venus Theory YouTube watch-pages returned no verifiable uploadDate, skipped (social never blocks the run). Result: 6 FRESH, distinct-outlet candidates — above floor 3 and at target 5+; downstream dedup will drop any already published in the current brief.",
   "items": [
+    {
+      "category": "music",
+      "source": "DigitalToday",
+      "title": "ElevenLabs upgrades ElevenMusic: adds 'References' style-matching and 'Vocals' voice generation",
+      "url": "https://www.digitaltoday.co.kr/en/view/84703/elevenlabs-upgrades-ai-music-generation-service-adds-vocals-references",
+      "published_iso": "2026-07-23T08:05:13Z",
+      "excerpt": "ElevenLabs updated its AI music generator ElevenMusic with two features: 'References,' which lets users set a track's style and mood from 10s-5min of reference audio, and 'Vocals,' which generates original songs using the user's own voice or a voice library. Styles now officially supports the Music v2 model, and uploads must pass copyright checks before use.",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202607/686478_634663_48.png"
+    },
     {
       "category": "music",
       "source": "Music Business Worldwide",
@@ -13,15 +22,6 @@
       "published_iso": "2026-07-15T12:00:00Z",
       "excerpt": "BandLab Technologies acquired Aiode, an AI-powered music studio that lets creators build tracks using audio-to-audio models developed with professional session musicians. Its distinguishing pitch is that 100% of the training audio is licensed and traceable. Creators can generate performances section by section, spin up alternate takes and export projects as stems or full mixes - positioning it as a 'responsible' route for making music with AI.",
       "og_image": null
-    },
-    {
-      "category": "music",
-      "source": "TechCrunch",
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "excerpt": "Spotify launched a conversational AI assistant for Premium subscribers that lets listeners chat by voice or text to discover and control music, podcasts and audiobooks. In beta on iOS and Android in the US, Ireland and Sweden for users 18+, it blends Spotify's own AI with third-party language models, pushing AI-driven discovery well beyond the existing AI DJ.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?w=1024"
     },
     {
       "category": "music",

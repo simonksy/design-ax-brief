@@ -1,38 +1,20 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "games",
-  "now_iso": "2026-07-27T22:05:00Z",
+  "now_iso": "2026-07-28T22:00:52Z",
   "window_hours": 336,
-  "count": 4,
+  "count": 3,
   "expanded": true,
-  "tried": "Full keyword+expansion sweep across games allowed_domains via WebSearch until the 200/200 session budget was exhausted, then a curl-based recovery pass over RSS feeds, section-listing and archive pages (dates verified from JSON-LD datePublished / og article:published_time in raw HTML). This run deliberately excludes items already published in news_data.json (Roblox 'Build' text-to-game, AI videogame music, 100% Japanese devs poll, Unity 7 roadmap, DLSS 5 sliders, Meshy 3D Agent, SIGGRAPH neural rendering, 2D-to-3D method, Studio Atelico, Persona artist, Fortnite AI NPC, OpenRigLogic, Steam AI-disclosure devs-back-Valve, Mario Kart Wii recompile, Inworld TTS, Steam 53k study). Dropped as STALE (before 2026-07-13): Meshy Jun, Hyper3D Rodin Jun 3, Unity 'prompt games into existence' Feb 16, Deepdub Go (undatable — venturebeat 429 to WebFetch and empty to curl), Sony synthetic assets Jul 2, C&C vibe-coded port Jul 6, Steam-user survey Jul 8, devs-don't-buy-disclosure Jul 9, plus dozens of 2025 evergreen tool pieces. Dropped as general AI-business noise: Jensen Huang first X post, OpenAI rogue-prototype, Anthropic USD1.5B settlement, Xbox/ZeniMax layoffs, Take-Two/Larian exec stances. Blocked outlets: venturebeat.com (429), gamesindustry.biz/ign.com/polygon.com/eurogamer.net not reachable by the search agent (eurogamer dated via curl). Per-source cap respected (GamesRadar+ 2, others 1); distinct outlets = 3. Fresh, on-topic, net-new AI x games news in the 336h window is genuinely thin this cycle after a heavy week of coverage — floor of 3 met, short of the target of 5.",
+  "tried": "Full keyword+expansion sweep across the games allowed_domains. WebSearch domain scoping rejected 6 whitelisted outlets as non-crawlable (eurogamer.net, gamesindustry.biz, ign.com, polygon.com, rockpapershotgun.com, vg247.com); worked around eurogamer via curl (JSON-LD/og date verification). Because WebSearch kept surfacing evergreen/older pieces, ran curl-based date verification on ~30 candidate URLs plus RSS/keyword sweeps (gamedeveloper /keyword/generative-ai, 80.lv /feed, pcgamer /feeds/tag/ai, wccftech /feed, gamesradar feeds.xml, gamespot news feed, destructoid, aftermath, roadtovr, gamingbolt). Dates read from article:published_time / JSON-LD datePublished in raw HTML. Dropped as STALE (before 2026-07-14T22:00Z window edge): pcgamer Nvidia Audio2Face open-source (2025-09-24), pcgamer '100 million people making games' (2026-04-03), pcgamer Elon Musk AI studio (2025-10-07), pcgamer investor 'demonizing AI' (2026-03-14), gamesradar $75k AI contest apology (2026-05-14), gamedeveloper Godot AI ban (2026-07-01), gamedeveloper Capcom/Owlcat/Nexon/Take-Two/Tencent-genai (Jan-Apr 2026), 80.lv NVIDIA autonomous chars (2025-01-08) & AI game concepts (2025-10-28), kotaku Fortnite/UE genai (2026-06), roadtovr Meta Horizon AI NPCs (2025-08-28), wccftech capybara vibe-coding win (2026-07-13, ~1h outside window), gamesradar vibe-coding-clone analyst warning (2026-07-14T19:13, ~3h outside window). Excluded already-published (news_data / prior candidates): BlendCap video-mocap (published 07-28), Steam 53k-games study, 100% Japanese devs poll, DLSS 5 sliders, 2D-to-3D method, Inworld TTS, Mario Kart Wii recompile, Unity 7. Dropped as design-marginal noise: wccftech NVIDIA Halo game-ready driver DLSS 4.5 (fresh 07-28 but a GPU driver/upscaling item, not a creative/craft workflow shift), plus general AI-business items (Jensen Huang first X post, OpenAI rogue prototype, Anthropic $1.5B settlement, data-center/power stories, Xbox layoffs). Net-new, fresh, on-topic AI x games news in the 336h window is genuinely thin this cycle (consistent with the prior run and the games-beat note) — floor of 3 met, short of target 5. Per-source cap respected (1 each); 3 distinct outlets.",
   "items": [
     {
-      "title": "Full-Body, Hand & Facial Motion Capture From Any Video In Blender",
-      "url": "https://80.lv/articles/full-body-hand-facial-motion-capture-from-any-video-in-blender/",
-      "source": "80 Level",
+      "title": "iPadOS Gets Native Zelda: Ocarina of Time Port Via AI",
+      "url": "https://wccftech.com/ipados-gets-native-zelda-ocarina-of-time-port-via-ai/",
+      "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-07-27T11:19:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49475/images/6a673ea6b6a4e/contain_1200x630.jpg",
-      "excerpt": "BlendCap, a new Blender add-on from Arcomade, tracks full-body, hand, and facial motion from a single recorded video and retargets the performance onto game rigs (Rigify, Auto-Rig Pro, Mixamo, CloudRig) locally, with no internet required. It brings markerless video-to-motion capture — an ML pose-estimation capability that once needed suits and studios — directly into the game-character animation pipeline."
-    },
-    {
-      "title": "Reddit is forcing Google AI into hallucinating The Duskbloods characters before FromSoftware's game is even out",
-      "url": "https://www.eurogamer.net/the-duskbloods-google-ai-hallucinations",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-07-22T09:28:39Z",
-      "og_image": "https://assetsio.gnwcdn.com/duskbloods-gemini.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Fans have spent months inventing fake lore and bosses for FromSoftware's unreleased The Duskbloods on Reddit, and Google's AI Overviews are now surfacing those fabrications as fact. It's a vivid example of generative AI confidently hallucinating game content from unreliable community sources — a growing headache for studios trying to control the narrative and information around unreleased titles."
-    },
-    {
-      "title": "Good games will get cloned and buried: AI vibe coding is one of the biggest threats on storefronts like Steam, analyst warns",
-      "url": "https://www.gamesradar.com/games/good-games-will-get-cloned-and-buried-ai-vibe-coding-is-one-of-the-biggest-threats-on-storefronts-like-steam-analyst-warns/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-07-14T19:13:29Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg",
-      "excerpt": "An industry analyst warns that AI 'vibe coding' is one of the biggest threats on storefronts like Steam, cautioning that well-made games risk being cloned and buried under a flood of quickly AI-generated titles. A look at how low-friction, prompt-driven game-making is reshaping the economics and discoverability of the market."
+      "published_iso": "2026-07-28T13:35:38Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/The-Legend-of-Zelda-Ocarina-of-Time-running-natively-on-iPadOS-2.jpg",
+      "excerpt": "AI-assisted decompilation/recompilation has produced a native iPadOS port of The Legend of Zelda: Ocarina of Time, freeing the classic from N64 frame-rate caps and low-resolution constraints. A concrete example of generative/AI tooling reshaping game porting and preservation workflows — turning a months-long reverse-engineering effort into a far faster pipeline."
     },
     {
       "title": "Half of all games released on Steam will use AI by 2028, study predicts: 'AI lowers the barrier not just to make a game but to make several'",
@@ -41,12 +23,12 @@
       "category": "games",
       "published_iso": "2026-07-16T21:05:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
-      "excerpt": "A study predicts AI-flagged titles will cross roughly half of all new Steam releases around 2027-2028, arguing generative AI 'lowers the barrier not just to make a game but to make several.' A signal of how AI is reshaping game creation velocity and storefront discoverability."
+      "excerpt": "A new study projects that roughly half of games released on Steam will use AI by 2028, arguing 'AI lowers the barrier not just to make a game but to make several.' A data point on how generative tooling is reshaping the economics and volume of game-making — and what that means for designers competing for discoverability."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 4,
+    "dropped": 1,
+    "kept": 2,
     "against_days": 5
   }
 }

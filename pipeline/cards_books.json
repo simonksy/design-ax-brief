@@ -1,50 +1,26 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "books",
   "cards": [
     {
-      "id": "udgooglebooks",
+      "id": "audiobook-ai-multicast",
       "eyebrow": "AI NEWS",
       "tool": "Books",
-      "headline": "델라웨어대, 구글 북스에 장서 제공해\nAI 학습용 학술 자료를 큐레이션",
-      "body": "델라웨어대가 장서 10만여 권을 구글 북스에 디지털화해 AI가 신뢰할 학술 자료로 학습하도록 돕는다.",
-      "mini_headline": "AI 학습용 학술 장서 큐레이션",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-monday-july-20th-2026/",
+      "headline": "AI 멀티캐스트 내레이션\n블라인드 실험서 사람 앞섰다",
+      "body": "에디슨 리서치 블라인드 실험에서 청취자들이 AI 멀티캐스트를 단독 사람 낭독보다 조금 높게 평가했다.",
+      "mini_headline": "AI 낭독, 블라인드서 우세",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
       "accent": "#f5a623",
       "motif": "swatch",
-      "image": "https://library.udel.edu/news/wp-content/uploads/sites/33/2026/05/GoogleBooks_News_FeatureImage_840x473.jpg",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {"t": "img", "src": "https://library.udel.edu/news/wp-content/uploads/sites/33/2026/05/GoogleBooks_News_FeatureImage_840x473.jpg"},
-          {"t": "p", "x": "델라웨어대 도서관이 구글 북스 라이브러리 프로젝트에 참여한다. 앞으로 3년 동안 장서 10만여 권을 디지털로 옮기기로 했고, 희귀본이나 절판본처럼 그동안 온라인에서 보기 어렵던 자료가 전 세계에서 검색된다. 디지털로 바꾼 자료는 하티트러스트(HathiTrust)에도 함께 보존한다."},
-          {"t": "p", "x": "트레버 A. 도스 부총장은 도서관이 지식을 큐레이션하고 보존하는 데 그치지 않고 그 지식이 발견되고 공유되도록 하는 곳이라고 말했다."},
-          {"t": "p", "x": "도스 부총장은 구글이 디지털로 옮긴 자료로 AI 모델을 학습시킨다는 점을 짚었다. 검증된 학술 장서를 출처와 함께 넘기면 앞으로 나올 AI가 신뢰할 만하고 잘 정리된 학술 자료로 배운다."},
-          {"t": "p", "x": "수집 대상은 델라웨어 관련 자료와 옛 상품 카탈로그, 다른 구글 파트너에는 없는 특색 있는 판본이다. 문학과 역사, 정치학, 미술, 교육을 두루 아우른다."}
-        ]
-      }
-    },
-    {
-      "id": "hkbookfair",
-      "eyebrow": "AI NEWS",
-      "tool": "Books",
-      "headline": "홍콩 도서전이 'AI 시대에 모두의 읽기'를\n올해 주제로 삼고 공진화를 논하다",
-      "body": "36회 홍콩 도서전이 'AI 시대의 읽기'를 주제로 삼아 AI가 읽기 효율과 깊은 사고를 어떻게 키울지 논했다.",
-      "mini_headline": "AI 시대의 읽기 내건 홍콩 도서전",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-july-27-2026/",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg/1280px-HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg"
-      ,
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {"t": "img", "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg/1280px-HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg"},
-          {"t": "p", "x": "홍콩무역발전국(HKTDC)에 따르면 제36회 홍콩 도서전이 7월 21일 막을 내렸다. 시작 무렵 궂은 날씨가 있었지만 참여 열기는 높았고, 올해는 첫 아세안 문학 축제도 함께 열렸다."},
-          {"t": "p", "x": "전문가 프로그램으로 열린 연례 국제출판포럼과 IP 라운드테이블에는 250명 넘게 모였다. 'AI 시대에 모두를 위한 읽기: 재구성과 공진화'라는 주제 아래, 출판인들은 AI가 읽기 효율을 높이고 비판적이고 깊이 있는 사고를 기르도록 도울 수 있을지, 또 여러 분야가 손잡아 읽기 문화를 어떻게 키울지 이야기했다."},
-          {"t": "p", "x": "한편 미국의소리(VOA)를 비롯한 여러 매체는 '정치 서적을 내는 출판사 몇 곳'이 올해 도서전 참가를 막았다고 전했다. 주최 측은 판매 도서를 따로 검열하지 않는다고 밝혔지만, 이번 도서전은 2020년 시행된 새 국가보안법 아래 서점 관계자 여러 명이 최근 구금된 뒤 열렸다."}
+          {"t": "p", "x": "블라인드 테스트에서 오디오북 청취자들이 AI 멀티캐스트 내레이션을 단독 사람 낭독보다 조금 더 높게 평가했다. 등장인물 중심의 장면에서 나온 결과다. 오디오 시장 조사에서 정평이 난 에디슨 리서치가 진행했고, AI 오디오북 제작사 Spoken이 의뢰했다."},
+          {"t": "p", "x": "이 결과는 최근 소비자 조사와 견줘 보면 흥미롭다. 에디슨과 오디오출판협회(Audio Publishers Association)가 함께 한 조사에서는 청취자들이 2026년에 오히려 2025년보다 AI 낭독 오디오북을 덜 받아들이려는 것으로 나타났다. 다만 그 조사는 블라인드 테스트가 아니라 청취자가 스스로 밝힌 의향에 기댔다."},
+          {"t": "p", "x": "청취자는 품질과 무관하게 AI 낭독에 반감을 가질 수 있다. AI를 향한 여론이 좋지 않은 탓이다. 이번 조사는 어느 쪽이 AI인지 숨겨 그 편향을 지우려 했다. 그래도 결과는 조심해서 볼 필요가 있다. 청취자가 두 버전을 다 듣고 AI를 고른 게 아니어서, 사람보다 AI를 선호한다고 말하기는 무리다. 비교 대상도 여러 인물 목소리를 입힌 AI 오디오북과 한 명의 사람 낭독이다. 그래서 이 결과는 'AI가 사람을 이겼다'기보다 '청취자가 풀캐스트 제작을 좋아한다'에 가까울 수 있다. 실제로 조사도 여러 인물이 없는 설명 부분에서는 여전히 사람 낭독이 선호됐다는 단서를 달았다."},
+          {"t": "p", "x": "그럼에도 눈에 띄는 대목이 있다. AI 멀티캐스트를 들은 뒤 65퍼센트가 Spoken의 멀티캐스트로 오디오북 전체를 들어 보겠다고 답했다. 조사 시작 시점에 AI 오디오북을 듣겠다고 한 청취자는 31퍼센트뿐이었다."},
+          {"t": "p", "x": "이 조사는 Spoken이 내놓은 AI 멀티캐스트 제작을 알리려는 목적이 뚜렷하다. 글쓴이는 AI 낭독 작품을 마케팅하는 저자들의 성과 지표를 이어서 다뤄 보고 싶다고 했다. AI 낭독 작품은 아직 시장의 아주 작은 부분으로, 2025년 오디오북 판매 매출의 0.03퍼센트에 그치지만 앞으로 성장할 것으로 예상된다."}
         ]
       }
     }

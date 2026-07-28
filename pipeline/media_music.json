@@ -1,9 +1,7 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "music",
   "media": [
-    { "id": "aiode-licensed-studio", "type": "image", "src": "pipeline/media/aiode-licensed-studio.jpg" },
-    { "id": "spotify-music-assistant", "type": "image", "src": "pipeline/media/spotify-music-assistant.jpg" },
-    { "id": "lorde-song-meaning", "type": "image", "src": "pipeline/media/lorde-song-meaning.jpg" }
+    { "id": "elevenmusic-vocals-refs", "type": "svg" }
   ]
 }

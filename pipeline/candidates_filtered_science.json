@@ -1,59 +1,43 @@
 {
-  "date": "2026-07-28",
-  "section": "science",
-  "now_iso": "2026-07-27T22:05:00Z",
+  "date": "2026-07-29",
   "window_hours": 336,
-  "note": "AI x science collection, science window 336h (cutoff ~2026-07-13T22:05Z). All 5 items freshness-gated PASS via pipeline/freshness.py. Outlets: phys.org x3 (at collection cap), eurekalert x1, sciencedaily x1 (3 distinct outlets). Emphasis this run slid OFF today's just-published 07-27 cards (protein-design evolution, weather emulator, PPPL fusion, autonomous clean-energy materials lab, physics black-box). Kept clusters under-covered in the last ~6 days: GENOME EDITING (AI-designed synthetic TnpB / CRISPR toolbox), REGULATORY GENOMICS (Corgi cell-type gene-activity prediction; PATTY genomics-accuracy ML correction), COGNITIVE BCI (neuro), and AI-DRIVEN PARTICLE PHYSICS (PLATON light-field detector with a Transformer NN). DROPPED as DUPE of a prior/today card: phys.org 'Combining AI protein design with laboratory evolution' (=07-27 published card), phys.org 2D flat-band quantum materials 2026-07-09 (=07-22 flatband card), phys.org DNA-binding prediction (=07-26 binndna card). DROPPED as STALE (pre 07-13): sciencedaily/eurekalert room-temp superconductors YRu3B2/kagome (2026-07-01/07-07), space.com Milky Way 100B-star sim (2025-11-20), eurekalert RNA-splicing hierarchical AI (2026-06-22), physicsworld 'meta-design LLM quantum experiments' (2026-04-21), scientificamerican 'AI wrote a paper that passed peer review' (2026-03-27), all TESS/exoplanet AI items (2026-01/03), Psychology Today LLM mind-reading (2025-11). DROPPED as AI-INDUSTRY NOISE (relevance test): eurekalert Insilico/Bora strategic alliance (business), genengnews Chai-2/pharma-deal roundups, MIT Tech Review sponsored 'how AI helps design medicines' recruiting piece. ASTRONOMY/COSMOLOGY yielded no fresh verifiable AI-central item this run (space.com/universetoday/skyandtelescope all stale Jan-Nov). Single 'science' category; no social channels for this section. NOTE for curator: 3 of 5 are phys.org (final ax-curator cap is <=2/outlet), so expect to seat at most 2 of {CRISPR-TnpB, Corgi, PATTY} alongside the eurekalert BCI + sciencedaily PLATON items.",
   "items": [
     {
-      "url": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html",
+      "url": "https://techxplore.com/news/2026-07-children-ai-framework-theorize-world.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-1.jpg",
+      "excerpt": "KAIST researchers built a Learning-to-Theorize (L2T) framework, inspired by how children learn, that lets AI discover on its own which rule produced an observed change by composing reusable primitives into executable programs, generalizing far better than prediction-focused models."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
       "source": "Phys.org",
       "category": "science",
-      "headline": "AI-designed gene-editing enzymes expand the CRISPR toolbox",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-designs-rna-g.jpg",
-      "excerpt": "Scientists used the ESM Inverse Folding (ESM-IF1) AI protein-design model to generate synthetic TnpB gene-editing enzymes, dubbed SynTnpBs, starting from the known TnpB structure. In a study published in Science, several AI-designed variants outperformed the natural reference enzyme, reaching roughly 46-50% editing efficiency in human cells versus 28% for the original, expanding the compact genome-editing toolbox beyond CRISPR-Cas."
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-s-3.jpg",
+      "excerpt": "Ohio State astronomers trained AI on simulated lens examples to find seven candidate gravitationally lensed quasars among 800,000 DESI survey objects, roughly doubling the number found in past surveys."
     },
     {
-      "url": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
+      "url": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
       "source": "Phys.org",
       "category": "science",
-      "headline": "AI tool predicts how DNA sequences switch on genes across different cell types",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-based-tool-allo.jpg",
-      "excerpt": "Martin Vingron's bioinformatics group at the Max Planck Institute for Molecular Genetics built Corgi (Context-aware Regulatory Genomics Inference), an AI tool that predicts how the genome behaves — which genes switch on and off — across different cell types. The work could sharpen efforts to model cell activity virtually, with applications in basic research and medicine."
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/soil-carbon-effectivel-3.jpg",
+      "excerpt": "Cornell researchers developed a biogeochemistry-informed neural network (BINN) that measures soil carbon 50 times faster than prior methods while preserving accuracy and reducing regional bias, aiding climate-mitigation modeling."
     },
     {
-      "url": "https://phys.org/news/2026-07-machine-tool-accuracy-genomics.html",
-      "source": "Phys.org",
+      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+      "source": "Google Research",
       "category": "science",
-      "headline": "New machine-learning tool improves accuracy of genomics research",
-      "published_iso": "2026-07-20T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-machine-learning-t-1.jpg",
-      "excerpt": "University of Virginia researchers identified a widespread, previously unrecognized error in the popular CUT&Tag method used to map the epigenome, and built PATTY, a machine-learning tool that corrects it. The free software improves the reliability of genomics data drawn from very small samples, where chemical and structural modifications of chromosomes control which genes are turned on or off."
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1136848",
-      "source": "EurekAlert! (Mount Sinai)",
-      "category": "science",
-      "headline": "The emerging field of cognitive brain-computer interfaces",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "",
-      "excerpt": "A review in Trends in Cognitive Sciences (Mount Sinai) outlines a roadmap for the next generation of brain-computer interfaces aimed at cognitive disorders — depression, anxiety, PTSD, OCD — rather than motor function. Unlike today's movement- and speech-decoding BCIs, cognitive BCIs would rely on AI algorithms that decode dysfunctional brain states in real time and drive adaptive, closed-loop neurostimulation."
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "source": "ScienceDaily (ETH Zurich)",
-      "category": "science",
-      "headline": "Scientists built a camera that can track invisible particles in 3D",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "",
-      "excerpt": "An ETH Zurich / EPFL team built PLATON, a particle detector that pairs a light-field (plenoptic) camera and single-photon avalanche-diode sensors with a Transformer-based neural network adapted from large language models to reconstruct particle paths in fast, detailed 3D from a single block of scintillator. Simulations suggest it could match or surpass today's best detectors while replacing millions of components, with potential spillover to sharper PET medical scans."
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
+      "excerpt": "A national-scale Google Research study of SymptomAI, a conversational diagnostic agent, found clinicians preferred the AI's differential-diagnosis suggestions over those of other clinicians in more than half of real-world cases."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 5,
+    "dropped": 4,
+    "kept": 4,
     "against_days": 5
   }
 }
