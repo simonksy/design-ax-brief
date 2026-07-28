@@ -1,46 +1,30 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "games",
   "selection_mode": "auto",
+  "shortfall": true,
+  "shortfall_reason": "Fresh pool held only 2 candidates. Backstop dedup dropped 1 as a content duplicate of already-published games history, leaving 1 unique fresh story. Pool genuinely exhausted — not padded to floor.",
+  "dedup_dropped": [
+    {
+      "title": "Half of all games released on Steam will use AI by 2028, study predicts",
+      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
+      "source": "GamesRadar+",
+      "reason": "Content duplicate of the published games card 'steamcensus' (PC Gamer, 2026-07-24 days entry). Same underlying Steam AI-disclosure analysis (Sulka Haro, ~53.6k games) and the same core projection — roughly half of Steam games using/disclosing AI by 2027-2028, framed around discoverability/volume. Same event via a different outlet + reworded headline = duplicate under the hard dedup rule; earliest-wins, story already published."
+    }
+  ],
   "picks": [
     {
-      "title": "Full-Body, Hand & Facial Motion Capture From Any Video In Blender",
-      "headline": "Full-Body, Hand & Facial Motion Capture From Any Video In Blender",
-      "url": "https://80.lv/articles/full-body-hand-facial-motion-capture-from-any-video-in-blender/",
-      "source": "80 Level",
-      "published_iso": "2026-07-27T11:19:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49475/images/6a673ea6b6a4e/contain_1200x630.jpg",
-      "excerpt": "BlendCap, a new Blender add-on from Arcomade, tracks full-body, hand, and facial motion from a single recorded video and retargets the performance onto game rigs (Rigify, Auto-Rig Pro, Mixamo, CloudRig) locally, with no internet required. It brings markerless video-to-motion capture — an ML pose-estimation capability that once needed suits and studios — directly into the game-character animation pipeline.",
+      "title": "iPadOS Gets Native Zelda: Ocarina of Time Port Via AI",
+      "headline": "iPadOS Gets Native Zelda: Ocarina of Time Port Via AI",
+      "url": "https://wccftech.com/ipados-gets-native-zelda-ocarina-of-time-port-via-ai/",
+      "source": "Wccftech",
+      "published_iso": "2026-07-28T13:35:38Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/The-Legend-of-Zelda-Ocarina-of-Time-running-natively-on-iPadOS-2.jpg",
+      "excerpt": "AI-assisted decompilation/recompilation has produced a native iPadOS port of The Legend of Zelda: Ocarina of Time, freeing the classic from N64 frame-rate caps and low-resolution constraints. A concrete example of generative/AI tooling reshaping game porting and preservation workflows — turning a months-long reverse-engineering effort into a far faster pipeline.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Markerless video-to-mocap running locally inside Blender puts a studio-grade animation step within reach of a solo game artist — directly changes how character animation gets made."
-    },
-    {
-      "title": "Reddit is forcing Google AI into hallucinating The Duskbloods characters before FromSoftware's game is even out",
-      "headline": "Reddit is forcing Google AI into hallucinating The Duskbloods characters before FromSoftware's game is even out",
-      "url": "https://www.eurogamer.net/the-duskbloods-google-ai-hallucinations",
-      "source": "Eurogamer",
-      "published_iso": "2026-07-22T09:28:39Z",
-      "og_image": "https://assetsio.gnwcdn.com/duskbloods-gemini.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Fans have spent months inventing fake lore and bosses for FromSoftware's unreleased The Duskbloods on Reddit, and Google's AI Overviews are now surfacing those fabrications as fact. It's a vivid example of generative AI confidently hallucinating game content from unreliable community sources — a growing headache for studios trying to control the narrative and information around unreleased titles.",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "A concrete case of AI Overviews laundering fan fiction into 'fact' about an unreleased title shows how generative search reshapes the information a studio can control around its own game."
-    },
-    {
-      "title": "Good games will get cloned and buried: AI vibe coding is one of the biggest threats on storefronts like Steam, analyst warns",
-      "headline": "Good games will get cloned and buried: AI vibe coding is one of the biggest threats on storefronts like Steam, analyst warns",
-      "url": "https://www.gamesradar.com/games/good-games-will-get-cloned-and-buried-ai-vibe-coding-is-one-of-the-biggest-threats-on-storefronts-like-steam-analyst-warns/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-14T19:13:29Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg",
-      "excerpt": "An industry analyst warns that AI 'vibe coding' is one of the biggest threats on storefronts like Steam, cautioning that well-made games risk being cloned and buried under a flood of quickly AI-generated titles. A look at how low-friction, prompt-driven game-making is reshaping the economics and discoverability of the market.",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "An analyst framing vibe coding as a cloning-and-burying threat to storefront discoverability names the economic risk that fast AI game-making poses to the developers making original work."
+      "rationale": "Fresh (2026-07-28), concrete AI-decompilation workflow that speeds classic-game porting and preservation; distinct from the published Mario Kart Wii recompile card (different game, platform, and project)."
     }
   ]
 }

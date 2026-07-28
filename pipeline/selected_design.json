@@ -1,57 +1,57 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://dev.to/matttdamon/from-feedback-to-merged-pr-making-ui-feedback-agent-actionable-12a8",
-      "title": "From feedback to merged PR: making UI feedback agent-actionable",
-      "source": "DEV Community",
-      "published_iso": "2026-07-27T00:00:00Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png",
-      "excerpt": "As teams wire AI coding agents (Cursor, Claude) into implementation, the shape of design feedback has to change: notes captured directly on the live app with page URLs, element selectors, screenshots, and viewport context can be converted straight into pull requests without a human translation step. A concrete look at agentic design-to-code handoff — how design critique becomes machine-actionable rather than a Figma comment or Slack thread.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Reframes how design feedback reaches code: notes captured on the live app with selectors and viewport context become pull requests directly, no human translation step. Changes the design-to-code handoff a team runs tomorrow."
-    },
-    {
-      "url": "https://dev.to/lyd_lyd_d4869af25d33ce0eb/why-do-ai-generated-websites-all-look-the-same-k2j",
-      "title": "Why Do AI-Generated Websites All Look the Same?",
-      "source": "DEV Community",
-      "published_iso": "2026-07-27T00:00:00Z",
+      "url": "https://www.smashingmagazine.com/2026/07/digital-design-ai-era/",
+      "title": "Thinking Outside The Box: Digital Design In The AI Era",
+      "source": "Smashing Magazine",
+      "published_iso": "2026-07-28T00:00:00Z",
       "og_image": "",
-      "excerpt": "AI website builders now ship clean, responsive code, yet the output converges on the same visual signatures — glassmorphism, identical hero layouts, standardized card grids. The piece argues models reproduce common patterns rather than truly design, a pointed 'AI slop' critique of homogenized generative UI and what it means for brand differentiation and design taste.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "rationale": "Names the design cost of generative UI: builders converge on glassmorphism, identical heroes, and standard card grids because models reproduce patterns instead of designing. A taste-and-differentiation read every design team wrestling with AI tools needs. Distinct accent from the other workflow pick."
-    },
-    {
-      "url": "https://www.creativebloq.com/ai/hate-generative-ai-maybe-its-time-to-boycott-netflix",
-      "title": "Hate generative AI? Maybe it's time to boycott Netflix",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-25T06:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/UmPnkcxYmjFmqxG4TxStr9-596-80.jpg",
-      "excerpt": "With Netflix leaning into generative AI across its productions, Creative Bloq argues creatives angry about AI's encroachment on craft should vote with their subscriptions. It's a look at how a major studio's gen-AI adoption reshapes creative and design work and the leverage audiences and practitioners still hold — a culture-and-craft read on the design/creative industry's AI backlash.",
-      "category": "workflow",
-      "tool": "AI Workflow",
+      "excerpt": "A case study in designing AI interaction beyond the text box: how MacPaw built Eney, a character-based AI assistant that prioritizes humanization and personal connection over the default chat prompt. The piece argues human designers remain essential in the AI era and that interface craft, not just model output, is where creative differentiation lives.",
+      "category": "tokens",
+      "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "The culture-and-craft angle on the AI backlash: a major studio's gen-AI push and the leverage practitioners and audiences still hold. Adds an industry-context read alongside the tool and workflow picks. Distinct accent from the other workflow cards."
+      "rationale": "Actionable craft case study on designing AI interaction beyond the default chat box (MacPaw's Eney), from a top-tier design publication — argues interface craft is where differentiation lives."
+    },
+    {
+      "url": "https://dev.to/meravish/i-design-products-then-i-make-them-there-is-no-handoff-2bof",
+      "title": "I Design Products. Then I Make Them. There Is No Handoff.",
+      "source": "DEV Community",
+      "published_iso": "2026-07-27T00:00:00Z",
+      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ierh1778u6wtw2u015pd.png",
+      "excerpt": "Designer Merav Shaked describes rebuilding her portfolio in a single evening by directing AI as a tool rather than delegating to it, collapsing the designer-to-developer handoff entirely. A first-person account of how agentic AI lets one designer own vision through execution, keeping creative control while eliminating the traditional spec-and-throw-over-the-wall workflow.",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Concrete first-person account of collapsing the design-to-dev handoff with agentic AI — directly changes how a designer owns vision through execution tomorrow."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/07/otoy-releases-octanerender-2027-1-in-alpha/",
+      "title": "Otoy releases OctaneRender 2027.1 in alpha",
+      "source": "CG Channel",
+      "published_iso": "2026-07-28T12:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_AILight.jpg",
+      "excerpt": "Otoy's next major OctaneRender release adds a new neural-rendering mode that builds on its neural radiance cache to deliver near noise-free interactive rendering at low sample counts (DLSS-like), plus an updated AI Light 2.0 for multi-light scenes. A concrete example of machine learning reshaping the day-to-day rendering and look-dev workflow for designers and 3D artists.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Fresh, concrete release: neural rendering plus AI Light 2.0 reshape day-to-day render/look-dev for 3D artists, from a credible CG-industry source."
     }
   ],
   "dedup": {
-    "pool_size": 4,
-    "kept": 4,
+    "pool_size": 3,
+    "kept": 3,
     "dropped": 0,
-    "checked_against": "sections.design — today (2026-07-26/27, 4 cards) + days 2026-07-22 through 07-26 (all published cards)",
+    "checked_against": "sections.design — today (2026-07-28, 3 cards) + days 2026-07-23 through 07-27 (all published cards)",
     "notes": [
-      "All 4 filtered candidates verified against the full design history by URL and by content/event: none previously ran. The Creative Bloq 'boycott Netflix' piece was dropped (never published) during the 2026-07-27 run, so it is fresh/unpublished and eligible today; its URL and event do not appear in any published card.",
-      "Diversity guard: outlets within cap (dev.to x2, 80 Level x1, Creative Bloq x1), 3 distinct outlets. Three of four are category 'workflow' (over the 1-2/category ideal) but the pool is at the floor (4 candidates) with no swap candidate available, so no pad and no drop; the three workflow picks were each given a distinct palette accent (#ff5a4d, #3b6bff, #2ec5c5) and distinct motifs (frame, cube, swatch) for visual separation.",
-      "Final 4 is above the floor of 3; not padded."
+      "All 3 filtered candidates verified against the full design history by URL and by content/event: none previously ran. Distinct from prior CG Channel picks (maya20262, 3dsmax20262) and prior dev.to design pieces.",
+      "Diversity guard clean: 3 distinct outlets (Smashing Magazine, DEV Community, CG Channel), 3 distinct categories (tokens, figma, render), distinct accents and motifs.",
+      "Pool held only 3 unique fresh items (WIDE-funnel run landed at floor). Picked all 3 — at the floor of 3, not padded."
     ],
     "below_target": false
   }

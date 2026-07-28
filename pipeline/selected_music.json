@@ -1,51 +1,39 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "music",
-  "selection_mode": "directed",
+  "selection_mode": "auto",
   "picks": [
     {
       "rank": 1,
-      "headline": "BandLab Technologies buys Aiode, an AI music studio built on 'fully-licensed' audio",
+      "headline": "ElevenLabs upgrades ElevenMusic: adds 'References' style-matching and 'Vocals' voice generation",
       "tool": "Music",
       "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-07-15T12:00:00Z",
-      "og_image": null,
-      "excerpt": "BandLab Technologies acquired Aiode, an AI-powered music studio that lets creators build tracks using audio-to-audio models developed with professional session musicians. Its distinguishing pitch is that 100% of the training audio is licensed and traceable. Creators can generate performances section by section, spin up alternate takes and export projects as stems or full mixes - positioning it as a 'responsible' route for making music with AI.",
-      "rationale": "A licensed-by-design AI music studio joining BandLab is a concrete signal of where 'responsible' generative music tooling is heading for creators. NOTE: content-overlaps the already-published card 'bandlab-aiode' (07-26, digitalmusicnews); kept only because the orchestrator directed floor-3 on this exhausted beat."
-    },
-    {
-      "rank": 2,
-      "headline": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "tool": "Music",
-      "category": "music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "source": "TechCrunch",
-      "published_iso": "2026-07-14T12:00:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?w=1024",
-      "rationale": "A conversational, voice-or-text music assistant pushes AI discovery past the AI DJ and changes how listeners steer a catalog. NOTE: content-overlaps the already-published card 'talk-to-spotify' (07-25, hypebot); kept only under the directed floor-3."
-    },
-    {
-      "rank": 3,
-      "headline": "Lorde slams Spotify's 'About the Song' feature over inaccurate AI-generated descriptions",
-      "tool": "Music",
-      "category": "music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.musicradar.com/artists/hey-spotify-im-going-to-go-out-on-a-limb-and-say-we-dont-want-this-not-only-is-this-inaccurate-but-reducing-a-song-to-an-ai-generated-meaning-right-at-the-source-feels-like-it-limits-free-interpretation-lorde-slams-spotifys-about-the-song-feature",
-      "source": "MusicRadar",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/U6vopy9RoswUBrqr8Nk8Ji.jpg",
-      "rationale": "An artist backlash over AI-generated song descriptions crystallizes the fight over AI mediating a song's meaning at the source. NOTE: content-overlaps the already-published card 'lorde-about-the-song' (07-25, digitalmusicnews); kept only under the directed floor-3."
+      "url": "https://www.digitaltoday.co.kr/en/view/84703/elevenlabs-upgrades-ai-music-generation-service-adds-vocals-references",
+      "source": "DigitalToday",
+      "published_iso": "2026-07-23T08:05:13Z",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202607/686478_634663_48.png",
+      "excerpt": "ElevenLabs updated its AI music generator ElevenMusic with two features: 'References,' which lets users set a track's style and mood from 10s-5min of reference audio, and 'Vocals,' which generates original songs using the user's own voice or a voice library. Styles now officially supports the Music v2 model, and uploads must pass copyright checks before use.",
+      "rationale": "Net-new feature release that directly changes how creators steer AI music tomorrow: reference-audio style control plus own-voice vocal generation on the Music v2 model."
     }
   ],
-  "dedup_flag": {
-    "against": "sections.music (today 07-27 + days 07-22..07-26)",
-    "finding": "All 3 filtered candidates are content-duplicates of stories already published this week via different outlets: rank1=bandlab-aiode (07-26), rank2=talk-to-spotify (07-25), rank3=lorde-about-the-song (07-25). Per ax-curator's hard dedup rule these would normally be dropped (beat exhausted this cycle, per librarian note). They are published here only because the FINISH directive explicitly required picking all 3 to hold floor 3. Fresh outlets, fresh Korean copy, and distinct media are used so cards are not byte-identical repeats."
+  "shortfall": {
+    "target_floor": 3,
+    "kept": 1,
+    "reason": "Filtered pool held only 3 candidates and 2 are content-duplicates of stories already published in sections.music, so they were dropped per the hard URL+CONTENT dedup rule. No padding, no republished dupes.",
+    "dropped": [
+      {
+        "candidate": "BandLab Technologies buys Aiode (Music Business Worldwide)",
+        "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
+        "duplicate_of": "bandlab-aiode (2026-07-26, Digital Music News) — same acquisition event, different outlet"
+      },
+      {
+        "candidate": "Lorde slams Spotify's 'About the Song' feature (MusicRadar)",
+        "url": "https://www.musicradar.com/artists/hey-spotify-im-going-to-go-out-on-a-limb-and-say-we-dont-want-this-not-only-is-this-inaccurate-but-reducing-a-song-to-an-ai-generated-meaning-right-at-the-source-feels-like-it-limits-free-interpretation-lorde-slams-spotifys-about-the-song-feature",
+        "duplicate_of": "lorde-about-the-song (2026-07-25, Digital Music News) — same event/quotes, different outlet"
+      }
+    ],
+    "note": "The music AI-creation beat is genuinely exhausted for this window (consistent with the librarian note). Only 1 fresh, never-before-published story exists."
   }
 }

@@ -1,63 +1,63 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "science",
   "selection_mode": "auto",
   "picks": [
     {
       "rank": 1,
-      "headline": "AI-designed gene-editing enzymes expand the CRISPR toolbox",
+      "headline": "AI that theorizes the world by learning like a child",
       "tool": "Science",
       "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-aidesigned-geneediting-enzymes-crispr-toolbox.html",
-      "source": "Phys.org",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-designs-rna-g.jpg",
-      "excerpt": "Scientists used the ESM Inverse Folding (ESM-IF1) AI protein-design model to generate synthetic TnpB gene-editing enzymes, dubbed SynTnpBs, starting from the known TnpB structure. In a study published in Science, several AI-designed variants outperformed the natural reference enzyme, reaching roughly 46-50% editing efficiency in human cells versus 28% for the original, expanding the compact genome-editing toolbox beyond CRISPR-Cas.",
-      "rationale": "AI-designed SynTnpB enzymes beating the natural reference (46-50% vs 28% editing efficiency), published in Science, is a concrete, high-credibility advance in AI-driven genome editing not in the science history."
+      "url": "https://techxplore.com/news/2026-07-children-ai-framework-theorize-world.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-1.jpg",
+      "excerpt": "KAIST researchers built a Learning-to-Theorize (L2T) framework, inspired by how children learn, that lets AI discover on its own which rule produced an observed change by composing reusable primitives into executable programs, generalizing far better than prediction-focused models.",
+      "rationale": "New KAIST method: AI theorizes the rule behind an observed change by composing reusable primitives into executable programs — a fresh discovery paradigm distinct from prediction models and from the earlier toddler-language robot card."
     },
     {
       "rank": 2,
-      "headline": "AI tool predicts how DNA sequences switch on genes across different cell types",
+      "headline": "AI scan of DESI survey doubles the known lensed quasars",
       "tool": "Science",
       "category": "science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
+      "url": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
       "source": "Phys.org",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-based-tool-allo.jpg",
-      "excerpt": "Martin Vingron's bioinformatics group at the Max Planck Institute for Molecular Genetics built Corgi (Context-aware Regulatory Genomics Inference), an AI tool that predicts how the genome behaves — which genes switch on and off — across different cell types. The work could sharpen efforts to model cell activity virtually, with applications in basic research and medicine.",
-      "rationale": "Corgi predicts cell-type-specific gene activity, a step toward virtual-cell modeling; distinct from the 07-26 DNA-binding card and directly useful to computational biologists."
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-s-3.jpg",
+      "excerpt": "Ohio State astronomers trained AI on simulated lens examples to find seven candidate gravitationally lensed quasars among 800,000 DESI survey objects, roughly doubling the number found in past surveys.",
+      "rationale": "AI trained on simulated lenses mines 800,000 DESI objects and roughly doubles the known lensed-quasar count — the only astronomy pick, adding domain diversity and a concrete new result."
     },
     {
       "rank": 3,
-      "headline": "The emerging field of cognitive brain-computer interfaces",
+      "headline": "A neural network measures soil carbon 50x faster",
       "tool": "Science",
       "category": "science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://www.eurekalert.org/news-releases/1136848",
-      "source": "EurekAlert! (Mount Sinai)",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "",
-      "excerpt": "A review in Trends in Cognitive Sciences (Mount Sinai) outlines a roadmap for the next generation of brain-computer interfaces aimed at cognitive disorders — depression, anxiety, PTSD, OCD — rather than motor function. Unlike today's movement- and speech-decoding BCIs, cognitive BCIs would rely on AI algorithms that decode dysfunctional brain states in real time and drive adaptive, closed-loop neurostimulation.",
-      "rationale": "A roadmap for AI-driven cognitive BCIs targeting depression, anxiety, PTSD and OCD via closed-loop neurostimulation — a fresh neuro/cognitive-science angle absent from the history."
+      "url": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
+      "source": "Phys.org",
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/soil-carbon-effectivel-3.jpg",
+      "excerpt": "Cornell researchers developed a biogeochemistry-informed neural network (BINN) that measures soil carbon 50 times faster than prior methods while preserving accuracy and reducing regional bias, aiding climate-mitigation modeling.",
+      "rationale": "Cornell's biogeochemistry-informed net cuts soil-carbon measurement time 50x with less regional bias — a climate-science method advance, and distinct from NC State's DNA-binding BINND already published on 07-26."
     },
     {
       "rank": 4,
-      "headline": "Scientists built a camera that can track invisible particles in 3D",
+      "headline": "Clinicians preferred a conversational AI's diagnoses over peers",
       "tool": "Science",
       "category": "science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "source": "ScienceDaily (ETH Zurich)",
-      "published_iso": "2026-07-17T00:00:00Z",
-      "og_image": "",
-      "excerpt": "An ETH Zurich / EPFL team built PLATON, a particle detector that pairs a light-field (plenoptic) camera and single-photon avalanche-diode sensors with a Transformer-based neural network adapted from large language models to reconstruct particle paths in fast, detailed 3D from a single block of scintillator. Simulations suggest it could match or surpass today's best detectors while replacing millions of components, with potential spillover to sharper PET medical scans.",
-      "rationale": "PLATON pairs a light-field camera with a Transformer network borrowed from LLMs to reconstruct 3D particle tracks from one scintillator block — an AI-central particle-physics advance with PET-scan spillover, distinct from prior physics cards."
+      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+      "source": "Google Research",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
+      "excerpt": "A national-scale Google Research study of SymptomAI, a conversational diagnostic agent, found clinicians preferred the AI's differential-diagnosis suggestions over those of other clinicians in more than half of real-world cases.",
+      "rationale": "National-scale clinical study where physicians preferred SymptomAI's differential over peers in a majority of real-world cases — high credibility and clear medical-research impact, distinct from prior medical-AI privacy and diffusion cards."
     }
   ]
 }

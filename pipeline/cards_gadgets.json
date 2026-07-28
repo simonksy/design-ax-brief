@@ -1,121 +1,75 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "gadgets",
   "cards": [
     {
-      "id": "amd-x100-robots",
+      "id": "gemini-automation",
       "eyebrow": "AI NEWS",
-      "headline": "AMD, 로봇에 넣을 임베디드\n라이젠 AI 칩을 내놓는다",
-      "mini_headline": "로봇에 들어가는 AMD 칩",
-      "body": "AMD가 라이젠 AI 실리콘을 담은 X100 칩을 휴머노이드와 엣지 로봇의 두뇌로 내놨다.",
-      "tool": "AMD",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
+      "headline": "제미나이 작업 자동화가\n40개 넘는 앱으로 확장됐다",
+      "body": "갤럭시 Z 폴드8에 처음 실린 제미나이가 쇼핑과 예약, 여행까지 40개 넘는 앱에서 여러 단계 작업을 대신 처리한다.",
+      "mini_headline": "제미나이 자동화 40개 앱",
+      "tool": "Gemini",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/07/22/gemini-task-automation-samsung/",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {"t":"p","x":"갤럭시 언팩에서 구글이 갤럭시 Z 폴드8 울트라와 폴드8, 플립8을 위한 제미나이 업데이트를 여럿 공개했다."},
+          {"t":"img","src":"https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-task-automation-fold-8-1.jpg"},
+          {"t":"p","x":"안드로이드 쪽에서는 신형 기기들이 한층 나아진 \"네이티브 마이그레이션\" 기능을 갖춰, 아이폰에서 더 많은 종류의 데이터를 무선으로 옮긴다. 안드로이드 17의 일부로, 기존의 사진·영상·연락처·메시지·캘린더에 더해 구글 계정 정보와 비밀번호, 와이파이 자격 정보, eSIM 데이터까지 넘어온다. 이 기능은 픽셀 기기에 먼저 배포되고 다른 안드로이드 기기로도 넓혀간다."},
+          {"t":"p","x":"제미나이 작업 자동화가 올해 초 베타로 처음 나왔을 때는 픽셀 10과 갤럭시 S26 시리즈에서 승차 공유·배달 앱 여섯 개만 다뤘다. 이제 제미나이 인텔리전스의 일부로, 작업 자동화는 쇼핑과 식당 예약, 여행 예약, 이벤트 티켓까지 40개가 넘는 앱을 지원한다. Etsy와 Expedia도 여기 들어간다. 플립8에서는 전원 버튼을 길게 눌러 플렉스 윈도우에서 이 일상 지원 기능을 쓴다."},
+          {"t":"p","x":"제미나이 앱은 \"이제 고도화된 추론으로 화면에 무엇이 있는지 이해하고 복잡한 이미지를 프롬프트로 해석\"한다. 쇼핑 목록이나 영감을 주는 사진을 제미나이에게 보여주고 도움을 받을 수 있다."},
+          {"t":"img","src":"https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-1.jpg"},
+          {"t":"p","x":"최근 이름을 바꾼 제미나이 노트북은 삼성 신형 폴더블에 기본 탑재된다. 폴드8의 큰 화면에서는 \"사진과 문서, 화이트보드 이미지, 음성 녹음 등을 나란히 놓인 작업 공간에 곧바로 끌어다 놓을\" 수 있다."},
+          {"t":"p","x":"갤럭시 Z 폴드8 울트라와 폴드8, 플립8에는 구글 AI 프로 6개월 이용권이 딸려 온다."},
+          {"t":"p","x":"웨어러블에서는 갤럭시 워치9의 제미나이를 호출어 없이 손목을 들어 올리는 것만으로 부른다. 픽셀 워치4와 같은 방식이다."},
+          {"t":"p","x":"삼성과 구글은 가을 출시를 앞두고 젠틀몬스터와 와비파커의 안드로이드 XR 안경 디자인도 추가로 선보였다."}
+        ]
+      }
+    },
+    {
+      "id": "ai-activity-dashboard",
+      "eyebrow": "AI NEWS",
+      "headline": "백그라운드 AI를 지켜보는\n삼성의 새 대시보드",
+      "body": "원 UI 9은 제미나이가 백그라운드에서 처리한 작업을 한곳에서 확인하는 AI 활동 대시보드를 새로 담았다.",
+      "mini_headline": "백그라운드 AI 대시보드",
+      "tool": "Samsung",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-ai-assistant-activity-dashboard-3690155/",
       "accent": "#0070f3",
       "motif": "headset",
-      "image": "https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg",
       "full": {
         "mode": "full",
         "blocks": [
-          {"t": "p", "x": "AMD가 스트릭스 헤일로 APU를 피지컬 AI 영역으로 끌어들인다. 새 X100 시리즈는 클라이언트 기기에 쓰이던 라이젠 AI 맥스와 사양이 비슷하지만, 로봇처럼 24시간 돌아가는 임베디드 환경에 맞춰 10년 수명을 보장한다."},
-          {"t": "p", "x": "라인업은 세 종류다. 최상위 X199는 젠5 코어 16개와 RDNA 3.5 CU 40개를 담았고, X188은 12코어에 32CU, X168은 8코어에 32CU로 내려간다. 부스트 클럭은 최대 5.1GHz, 통합 메모리는 128GB까지 간다. 여기에 최대 50 TOPS의 XDNA 2 NPU가 붙고 TDP는 45~120W, 동작 온도는 영하 40도에서 105도까지 버틴다."},
-          {"t": "img", "src": "https://cdn.mos.cms.futurecdn.net/9sPH3tmCzcVsbEbQQLkUx4-1200-80.jpg"},
-          {"t": "p", "x": "겨냥하는 상대는 연초에 피지컬 AI용 팬서레이크를 내놓은 인텔이다. CPU와 AI 가속기, 메모리를 한 칩에 모아 지연을 줄인다는 논리는 양쪽이 같지만, X100은 팬서레이크보다 몸집이 커서 더 무거운 작업을 노린다."},
-          {"t": "p", "x": "칩만 파는 게 아니다. AMD는 X100을 크리아 SOM이나 로봇 개발 플랫폼 형태로도 내놓는다. 120mm 크기의 크리아 보드는 스파르탄 울트라스케일+ FPGA 베이스보드와 묶인 턴키 상자로, 지금은 얼리 액세스 단계고 4분기에 양산에 들어간다. AMD는 엔비디아의 토르, 젯슨 플랫폼과도 성능을 견준다."}
+          {"t":"p","x":"삼성이 오늘 갤럭시 Z 폴드8과 폴드8 울트라, 플립8을 내놓으면서 원 UI 9의 첫 정식 버전을 함께 공개했다. 공식 변경 이력은 아직 나오지 않았지만, 삼성은 신형 폴더블의 원 UI 9.0에 새로운 AI 어시스턴트 활동 대시보드가 들어간다고 밝혔다."},
+          {"t":"img","src":"https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard-3.jpg"},
+          {"t":"p","x":"원 UI의 AI 어시스턴트 활동 대시보드는 안드로이드 17이 개인정보 대시보드에 더한 AI 개선과 상당히 닮았다. 이 대시보드는 \"사용자를 대신해 돌아가는 AI 자동화를 한 화면에 모아 보여주고, 한곳에서 AI가 한 일을 살펴보며 필요하면 해당 에이전트로 바로 넘어가 맥락과 설정을 확인하게\" 해준다."},
+          {"t":"p","x":"이 대시보드가 더 중요해지는 건, 이번 삼성 폴더블이 앱 자동화를 가능케 하는 제미나이 인텔리전스를 처음 탑재한 기기여서다."},
+          {"t":"img","src":"https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard_4.jpg"},
+          {"t":"p","x":"새 갤럭시 Z8 시리즈에서는 제미나이에게 서드파티 앱 안에서 할 일을 시킨다. 음식 주문이나 이벤트 티켓 예약 같은 동작을 대신 처리하면서 지금 화면에 무엇이 떠 있는지도 읽는다. 이를테면 친구들과 저녁 약속을 이야기하는 중이라면, 제미나이가 그 맥락을 살펴 여러 앱을 오가지 않고도 식당을 찾아주거나 예약을 마무리한다. 이 작업 자동화 기능은 지금은 미국과 한국에서만 쓸 수 있다."},
+          {"t":"p","x":"작업은 백그라운드에서 돌아갈 수 있다. 그러다 보면 AI 어시스턴트가 뒤에서 일을 처리하고 있는지 깜빡하기 쉽다. 대시보드가 요긴해지는 지점이 여기다. 눈에 안 보이는 일꾼이 폰 뒤편에서 돌고 있는지, 어떤 AI 앱이었는지 애써 떠올려 찾아 헤맬 것 없이 알려준다."}
         ]
       }
     },
     {
-      "id": "byd-xiaodi-robot",
+      "id": "galaxy-watch-9-health",
       "eyebrow": "AI NEWS",
-      "headline": "BYD, 테슬라 옵티머스에 맞설\n휴머노이드 샤오디를 예고한다",
-      "mini_headline": "BYD의 휴머노이드 샤오디",
-      "body": "BYD가 테슬라 옵티머스에 맞설 이족보행 휴머노이드 로봇 샤오디를 8월 공개로 예고했다.",
-      "tool": "BYD",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/New-Tesla-Optimus-rival-Leak-reveals-first-details-about-BYD-s-AI-robot.1352248.0.html",
+      "headline": "갤럭시 워치9·울트라2에\nAI 건강 기능이 붙었다",
+      "body": "삼성이 갤럭시 워치9와 울트라2를 내놓으며 개인 건강 코치와 피트니스 지수, 혈관 부하 등 AI 건강 기능을 담았다.",
+      "mini_headline": "워치9·AI 건강 기능",
+      "tool": "Samsung",
+      "source": "Android Central",
+      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/galaxy-watch-9-watch-ultra-2-are-here-samsung-health-partners-launch",
       "accent": "#f5a623",
       "motif": "headset",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BYD_KI_Roboter_Xiao_Di_AI_Robot_Teaser.jpg",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {"t": "p", "x": "휴머노이드 AI 로봇 경쟁이 다음 단계로 들어섰다. 테슬라와 샤오펑이 옵티머스와 아이언으로 이미 양산 계획을 굴리는 가운데, 전기차 업체 BYD가 뒤늦게 뛰어든다. 정저우의 디 스페이스 체험관이 실수로 올렸다 지운 게시물과 중국 SNS의 이야기가 '샤오디'라는 프로젝트의 꽤 구체적인 정보를 흘렸다."},
-          {"t": "img", "src": "https://www.notebookcheck.net/fileadmin/_processed_/9/a/csm_BYD_KI_Roboter_Xiao_Di_AI_robot_01_d751459729.jpg"},
-          {"t": "p", "x": "유출된 정보를 보면 샤오디는 키 5피트 3인치에 몸무게 130파운드다. 손과 다리, 몸통, 목에 걸쳐 자유도가 31개라 움직임이 부드럽고 정밀하다. 손은 최대 2.2파운드를 0.04인치 정확도로 집는다. 360도 시야와 실시간 3D 모델링으로 물체와 얼굴, 손짓, 입 모양을 알아보고, 방언 여섯 가지와 외국어 여섯 가지를 실시간으로 통역한다."},
-          {"t": "p", "x": "이름부터 친근하게 지었다. 샤오디는 '작다'는 뜻의 '샤오'와 브랜드 약칭 '디'를 합친 말로, '작은 BYD'쯤 된다. BYD는 이 로봇을 여성으로 부른다. 스텔라 리 부사장은 앞서 매장마다 휴머노이드 두세 대를 판매 도우미로 둘 수 있다고 말했다. 손님을 맞고 전기차를 설명하며 시연까지 맡기겠다는 구상이다."},
-          {"t": "img", "src": "https://www.notebookcheck.net/fileadmin/_processed_/6/1/csm_BYD_KI_Roboter_Xiao_Di_AI_robot_04_7a92250d88.jpg"},
-          {"t": "p", "x": "중국 자동차 업계에서 로봇 경쟁이 본격화되고 있다. 체리는 이미 첫 아이모가 로봇을 팔고, SAIC-GM은 공장에 바퀴 달린 로봇을 쓴다. BYD는 자체 공장과 수백 개 전시장에 샤오디를 배치할 계획이다. 8월로 소문난 시제품 공개는 옵티머스와의 경쟁을 한층 달굴 수 있다."}
-        ]
-      }
-    },
-    {
-      "id": "brainco-bci-robot",
-      "eyebrow": "AI NEWS",
-      "headline": "브레인코, 생각만으로 로봇을\n조종하는 기술을 선보인다",
-      "mini_headline": "뇌로 조종하는 로봇",
-      "body": "브레인코가 WAIC 2026에서 뇌 신호만으로 로봇 손과 휴머노이드를 조종하는 기술을 시연했다.",
-      "tool": "BrainCo",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.1346280.0.html",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {"t": "p", "x": "브레인코가 상하이에서 열린 2026 세계인공지능대회(WAIC)에서 뇌로 조종하는 로봇 AI 플랫폼을 선보였다. 왼손이 없는 회사 관계자가 뇌-컴퓨터 인터페이스로 로봇 손을 생각만으로 움직였다. 공개 영상에서는 책상 위 로봇 팔과 휴머노이드도 멀리서 생각으로 조종했다."},
-          {"t": "img", "src": "https://www.notebookcheck.net/fileadmin/_processed_/6/f/csm_BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought-b_f0b8412cfb.jpg"},
-          {"t": "p", "x": "먼저 뇌 신호를 읽는 EEG 헤드셋, 이른바 브레인 캡을 쓴다. 컴퓨터에서 돌아가는 플랫폼이 이 신호를 해석해 동작으로 바꾼 뒤, 200밀리초 안에 로봇으로 명령을 보낸다."},
-          {"t": "p", "x": "생각이 복잡한 동작으로 이어지는 건 학습 덕분이다. 임베디드 AI 데이터 수집 솔루션이 EEG 데이터와 나란히 훈련 데이터를 모아, 빨래 개기 같은 작업까지 다루도록 시스템을 가르친다."}
-        ]
-      }
-    },
-    {
-      "id": "looki-ai-pendant",
-      "eyebrow": "AI NEWS",
-      "headline": "루키, 하루 종일 녹화하는\nAI 목걸이의 앞날을 비춘다",
-      "mini_headline": "늘 켜진 AI 목걸이 루키",
-      "body": "늘 켜진 AI 카메라 목걸이 루키를 석 달간 걸친 CNET 기자가 그 어색함과 사생활 부담을 전한다.",
-      "tool": "Looki",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-come/",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.Scott_.Stein_.memory.1.jpg",
       "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "p", "x": "CNET의 스콧 스타인이 루키(Looki)를 목에 걸고 살아 봤다. 거의 늘 켜져 있는 카메라 펜던트로, 하루를 계속 담았다가 다시 꺼내 보여 주는 기기다. 4월부터 애플 WWDC와 구글 I/O, 프린스턴 동문 모임까지 거의 쉬지 않고 걸치다가 어느 순간 멈췄다."},
-          {"t": "img", "src": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.L1.table_.pendant.1.jpg"},
-          {"t": "p", "x": "루키 L1은 시계만 한 작은 검은 펜던트다. 앞면에 카메라가 있고 마이크는 어딘가 숨어 있다. 스마트 글래스와 달리 배터리가 하루를 버티며 오디오와 영상 클립을 띄엄띄엄 녹화한다. 'AI 모드'는 5초 안팎의 짧은 영상을 알아서 찍는데, 석 달을 써도 어떤 기준으로 고르는지 종잡을 수 없었다."},
-          {"t": "p", "x": "가장 그럴듯한 기능은 자동으로 담은 장면을 만화풍 AI 이미지로 바꿔 주는 것이다. 가끔은 하루를 그럴싸한 이야기로 엮어 냈지만, 손댈 수 있는 설정이 없어 결과는 운에 맡겨야 했다. 나머지 기록은 대개 어정쩡했다. 얼굴이 잘리거나 엉뚱한 각도로 찍혔고, 상당수는 그가 휴대폰만 들여다보는 모습이었다."},
-          {"t": "img", "src": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.AI_.commute.cartoon.1.jpg"},
-          {"t": "p", "x": "무엇보다 걸치고 있는 내내 스파이가 된 듯 어색했다. 녹화 표시등은 메타 글래스보다 훨씬 눈에 덜 띄어 곁의 사람은 촬영 중인지 알기 어려웠다. 아들은 몇 번이나 벗으라고 했고, 그는 기차나 화장실에서 슬그머니 주머니에 넣곤 했다. 늘 켜진 녹화 안경이 다가온다는 예고편이라는 게 그의 결론이다."}
-        ]
-      }
-    },
-    {
-      "id": "meta-glasses-subscription",
-      "eyebrow": "AI NEWS",
-      "headline": "메타, 스마트 글래스 AI 기능에\n구독제를 다시 저울질한다",
-      "mini_headline": "메타 글래스 구독 재검토",
-      "body": "메타가 대화 초점 기능에 요금제를 붙이려던 계획을 반발에 접었지만 다른 기능의 유료화 여지는 남겼다.",
-      "tool": "Meta",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/meta-is-rethinking-subscriptions-on-its-smart-glasses-2000791288",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "image": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-12.jpg",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {"t": "p", "x": "구독료가 없던 자리에 구독을 들이미는 것만큼 사람을 거스르는 일도 드물다. 메타가 이달 초 스마트 글래스에 '요금 제한'을 걸겠다고 밝히며 바로 그 레버를 당겼다."},
-          {"t": "img", "src": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-12.jpg"},
-          {"t": "p", "x": "반발이 일자 메타는 계획을 도로 집어넣었다. 적어도 당분간은 그렇다. 더버지에 따르면 메타는 대화 초점(Conversation Focus)에 요금 제한을 붙이려던 방침을 멈췄다. 이 기능은 AI와 글래스의 마이크로 상대의 말을 더 또렷이 듣도록 돕는다."},
-          {"t": "p", "x": "메타 대변인은 더버지에 구독 자체를 접은 건 아니라고 선을 그었다. 일부 기능은 나중에 유료화할 계획이 여전히 남아 있고, 다만 대화 초점부터 시작하려던 방침만 멈췄다는 것이다."},
-          {"t": "p", "x": "사실 대화 초점으로 시작한다는 선택부터 이상했다. 이 기능은 오프라인에서 돌아가 메타 서버에 부담이 없는데도 파워 유저에게 요금 제한을 걸겠다는 건 앞뒤가 맞지 않는다. 접근성 기능으로 내세우진 않았지만, 잘 안 들리는 사람들이 주로 쓸 도구이기도 하다."},
-          {"t": "p", "x": "메타는 하드웨어 값을 보전하려고 요금 제한을 들인다고 설명한다. 다만 구독이 잔뜩 담긴 스마트 글래스가 실제로 더 싸질지는 아무도 모른다."}
+          {"t":"img","src":"https://cdn.mos.cms.futurecdn.net/pVHnWGB8JJwGSUs6EGiLE7-2048-80.jpg"},
+          {"t":"p","x":"삼성이 갤럭시 워치9와 견고한 워치 울트라2를 공개하며 AI 기반 건강 기능을 대거 얹었다. 개인 맞춤 건강 코치와 피트니스 지수, 혈관 부하, 한층 넓어진 수면·심장 분석이 새 AI 건강 어시스턴트로 묶인다."},
+          {"t":"p","x":"두 워치는 강화된 내부 부품에 기대어 몸에 붙어 더 오래, 더 정확하게 상태를 살핀다."}
         ]
       }
     }

@@ -1,21 +1,11 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "games",
   "media": [
     {
-      "id": "blendcap-mocap",
+      "id": "ocarina-ipad",
       "type": "image",
-      "src": "pipeline/media/blendcap-mocap.jpg"
-    },
-    {
-      "id": "duskbloods-ai-lore",
-      "type": "image",
-      "src": "pipeline/media/duskbloods-ai-lore.jpg"
-    },
-    {
-      "id": "vibe-coding-clone-threat",
-      "type": "image",
-      "src": "pipeline/media/vibe-coding-clone-threat.jpg"
+      "src": "pipeline/media/ocarina-ipad.jpg"
     }
   ]
 }

@@ -1,81 +1,54 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "gadgets",
-  "now_iso": "2026-07-27T22:05:00Z",
+  "now_iso": "2026-07-28T22:00:52Z",
   "window_hours": 336,
-  "note": "Freshness window 336h (cutoff 2026-07-13T22:05Z); every item gated FRESH via pipeline/freshness.py with a verified published_iso. Shared WebSearch budget (200 calls) was exhausted mid-run, so the pool combines fresh WebFetch-verified finds with the still-fresh, not-yet-published items mined by the prior run — after DROPPING every item that has since been published as a card in news_data (07-22..07-27): OpenAI companion speaker (7/14-15), 1X Neo robot hands (7/16), Garmin Cirqa (7/21), Apple smart-glasses privacy Engadget+Verge (7/26), Gemini for Home 15-min (7/23), Honor Robot Phone (7/17). Also dropped as duplicates of cards already published 07-26: Meta Glasses $299 review (7/20) and the smart-glasses+earbuds combo (7/15). Remaining 8 are distinct, uncovered, device/hardware-AI items across 6 outlets (Tom's Hardware x2, Notebookcheck x2, CNET, Engadget, Gizmodo, Road to VR). Expansion WAS used (named vendors/devices + prior-run RSS mining).",
+  "note": "Freshness window 336h (cutoff 2026-07-14T22:00:52Z). Every item gated FRESH via pipeline/freshness.py with a curl-verified published_iso (article:published_time / JSON-LD datePublished). Cast a WIDE funnel across the gadgets allowed_domains: AI PC/Copilot+, Snapdragon X2, edge AI chips, Alexa+, AI robot vacuums (Roborock/DJI/Dreame/iRobot), AI TV, home/humanoid robots, XR/Quest, Rabbit R1, Humane Pin, AI earbuds/translators (Nothing/Anker/Timekettle/Subtle), smart rings (Oura/Whoop), AI toys, AI cameras, Korean sources. RESULT: the July 14-28 fresh window is overwhelmingly dominated by Samsung Galaxy Unpacked (July 21-22); nearly all non-Samsung AI-gadget items surfaced were pre-July-14 (CES 2026, MWC, spring launches) and gated NOT-FRESH. Dropped as already-published cards in news_data: samsung-health-assistant (07-23), z-flip8-cover-screen (07-26), gemma-4-pixel-tpu / gemini-nano-4-fold8 (07-25), samsung-intelligent-eyewear (07-25), geminilivemini (07-24), plus yesterday's amd-x100-robots/byd-xiaodi-robot/brainco-bci-robot/looki-ai-pendant/meta-glasses-subscription. Dropped as too old: Meta LED-camera privacy update (07-08), Nothing Ear 3a (07-07), Roborock Saros 20 review (07-13, ~1.5d pre-cutoff), Copilot discrete-GPU (06-14), Snapdragon X2 (CES), Oura/Whoop AI (May), Google TV Gemini (Jan-Mar), DJI Romo P (Nov/Apr). Dropped as relevance noise: Roborock Saros 10R discount deal (07-28), Elon Musk AI-device-to-investors (business, 07-01). Remaining 5 are the distinct, uncovered, device-AI stories left in the window (4 outlets; 9to5Google x2 within cap). Non-Samsung fresh gadget news is genuinely exhausted for this 336h window.",
   "items": [
     {
       "category": "gadgets",
-      "title": "AMD's new X100 chip lineup puts embedded Ryzen AI 'Strix Halo' into robots",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-new-x100-chip-lineup-puts-strix-halo-into-robots-apus-for-physical-ai-bring-zen-5-cpu-rdna-3-5-gpu-cores-to-compete-with-intels-panther-lake",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-07-23T18:30:00Z",
-      "excerpt": "AMD unveiled its X100 embedded APU lineup, putting Ryzen AI 'Strix Halo' silicon with Zen 5 CPU and RDNA 3.5 GPU cores into robots and other 'physical AI' machines. The chips are pitched as on-device brains for humanoids and edge devices, competing with Intel's Panther Lake and Nvidia's robotics platforms. It marks AMD's push into the emerging market for embedded edge-AI compute powering autonomous hardware.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pXkThAfC4PkTjFgvWAPXYF-2560-80.jpg"
+      "title": "Gemini task automation expands to 40+ apps, Samsung shows off two more Android XR glasses",
+      "url": "https://9to5google.com/2026/07/22/gemini-task-automation-samsung/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-22T13:05:00Z",
+      "excerpt": "Google expanded Gemini's on-device task automation to over 40 apps across shopping, restaurant reservations, travel booking and event tickets, debuting on Samsung's new Galaxy Z foldables. The agentic assistant can read on-screen context and complete multi-step actions inside third-party apps without the user hopping between them.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-task-automation-fold-8-1.jpg?quality=82&strip=all&w=1600"
     },
     {
       "category": "gadgets",
-      "title": "Arctic Senza AI 370 review: Strix Point in a stealthy under-desk fanless design",
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/arctic-senza-ai-370-fanless-mini-pc-review",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-07-23T13:00:54Z",
-      "excerpt": "The Arctic Senza AI 370 is a fanless mini PC built around AMD's Ryzen AI 300-series 'Strix Point' APU with a dedicated NPU for on-device AI workloads. Its silent, under-desk-mountable chassis targets buyers who want local Copilot+-class AI acceleration without noise. The review weighs its NPU-driven capabilities against thermal limits of the passively cooled design.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/GY6EKhXGaN3QXqVJX7YV9G-2560-80.jpg"
+      "title": "Samsung's latest foldables gain a new way to keep tabs on AI",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-ai-assistant-activity-dashboard-3690155/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-22T13:00:00Z",
+      "excerpt": "One UI 9 on the Galaxy Z Fold 8, Fold 8 Ultra and Flip 8 introduces a central AI Assistant Activity dashboard, a single place to monitor the background AI automations that Gemini Intelligence performs on your behalf. It is Samsung's attempt to make on-device agentic AI transparent and controllable as assistants start acting autonomously.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard-3.jpg"
     },
     {
       "category": "gadgets",
-      "title": "New Tesla Optimus rival: Leak reveals first details about BYD's AI robot 'Xiao Di'",
-      "url": "https://www.notebookcheck.net/New-Tesla-Optimus-rival-Leak-reveals-first-details-about-BYD-s-AI-robot.1352248.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-07-26T14:49:00Z",
-      "excerpt": "EV giant BYD is reportedly preparing to unveil its own bipedal AI humanoid robot, called Xiao Di, positioning it as a rival to Tesla's Optimus. The robot is expected to make its public debut in August and could soon act as a sales assistant presenting EVs in BYD dealerships. It signals another major manufacturer entering the consumer-facing humanoid robot race.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BYD_KI_Roboter_Xiao_Di_AI_Robot_Teaser.jpg"
+      "title": "Galaxy Watch 9, Watch Ultra 2 are here: Samsung's health partners bring soft comfort and more",
+      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/galaxy-watch-9-watch-ultra-2-are-here-samsung-health-partners-launch",
+      "source": "Android Central",
+      "published_iso": "2026-07-22T13:00:00Z",
+      "excerpt": "Samsung launched the Galaxy Watch 9 and rugged Watch Ultra 2 with new AI-driven health features including a personalized health coach, a Fitness Index, Vascular Load and expanded sleep and heart insights tied to its new AI Health Assistant. The wearables lean on upgraded internals for longer, more accurate on-body monitoring.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pVHnWGB8JJwGSUs6EGiLE7-2048-80.jpg"
     },
     {
       "category": "gadgets",
-      "title": "BrainCo unveils brain-controlled robot AI platform at WAIC 2026",
-      "url": "https://www.notebookcheck.net/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.1346280.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-07-18T23:48:00Z",
-      "excerpt": "At WAIC 2026, BrainCo demonstrated remotely controlling robotic hands, arms and humanoids using only a user's thoughts, via its brain-computer interface (BCI) and a brain-controlled robot AI platform. The system translates neural signals into precise robot manipulation in real time. It points toward hands-free, thought-driven control as an interface layer for AI-powered robots.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg"
+      "title": "Samsung Galaxy Watch Ultra 2 review: the best Samsung watch ever created",
+      "url": "https://www.techradar.com/health-fitness/smartwatches/samsung-galaxy-watch-ultra-2-review",
+      "source": "TechRadar",
+      "published_iso": "2026-07-22T13:00:00Z",
+      "excerpt": "A hands-on review of Samsung's rugged flagship smartwatch finds its real-time AI health insights, improved tracking accuracy and returning Running Coach make it the strongest Galaxy watch to date. The verdict weighs how much of the AI coaching genuinely changes daily use versus adding noise.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/9EoGQZxdqZUqj9KveLmbMo-2560-80.jpg"
     },
     {
       "category": "gadgets",
-      "title": "My Life With Looki Is a Harbinger of Always-On Recording Glasses to Come",
-      "url": "https://www.cnet.com/tech/mobile/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-come/",
-      "source": "CNET",
-      "published_iso": "2026-07-24T13:00:00Z",
-      "excerpt": "CNET's Scott Stein lives with Looki, an almost always-on camera-equipped AI pendant that continuously captures and recalls your day. The wearable embodies the extreme assistive aspirations of memory-logging AI, while surfacing the social discomfort and privacy tension of persistent recording. Stein frames it as a preview of the always-on recording glasses and pendants arriving next.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.Scott_.Stein_.memory.1.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Everything announced at Samsung Unpacked 2026: new Galaxy Watch 9 and Watch Ultra 2 with an AI Health Assistant",
-      "url": "https://www.engadget.com/2220316/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/",
-      "source": "Engadget",
-      "published_iso": "2026-07-22T14:19:00Z",
-      "excerpt": "At Unpacked 2026 Samsung debuted the Galaxy Watch 9 and Watch Ultra 2, both built around an AI-powered Health Assistant that interprets sleep, heart-rate and blood-oxygen data and flags meaningful variations from your baseline. It marks a shift from watches that merely record health metrics to ones that actively interpret and coach on them.",
-      "og_image": "https://www.engadget.com/img/gallery/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/intro-1784730503.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Meta Is Rethinking Subscriptions on Its Smart Glasses",
-      "url": "https://gizmodo.com/meta-is-rethinking-subscriptions-on-its-smart-glasses-2000791288",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-27T15:05:00Z",
-      "excerpt": "Meta paused plans to paywall Conversation Focus — the on-glasses AI feature that uses the smart glasses' microphones to help wearers hear a conversation more clearly — after user backlash, though it signaled other AI features could still land behind a subscription. The episode highlights the tension over how always-on AI hardware features get monetized.",
-      "og_image": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-12.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Samsung Unveils More Smart Glasses Designs from Gentle Monster & Warby Parker",
-      "url": "https://roadtovr.com/samsung-google-smart-glasses-designs-gentle-monster-warby-parker-release/",
-      "source": "Road to VR",
-      "published_iso": "2026-07-22T17:31:43Z",
-      "excerpt": "Samsung teased a fresh slate of Android XR smart-glasses designs, including new frames from eyewear partners Gentle Monster and Warby Parker. The Gemini-powered glasses, developed jointly with Google, expand the style options ahead of a wider release. The reveal fleshes out Samsung and Google's push to make AI smart glasses look like everyday eyewear.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/warby-monster-smart.png"
+      "title": "I briefly tried Gemini Intelligence, and I'm still not sure who it's for",
+      "url": "https://9to5google.com/2026/07/23/i-briefly-tried-gemini-intelligence-and-im-still-not-sure-who-its-for/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-23T15:30:00Z",
+      "excerpt": "A hands-on with Gemini Intelligence, the new on-device agentic layer debuting on Samsung's Galaxy Z Fold 8, questions whether the automated task-running and gen-UI widgets actually fit how people use their phones. It is an early, skeptical read on the first wave of always-on agent hardware experiences.",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Gemini-Intelligence-Task-Automation-on-Galaxy-Z-Fold-8-wide-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
     }
   ]
 }

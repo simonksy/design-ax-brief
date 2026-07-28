@@ -1,31 +1,21 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "gadgets",
   "media": [
     {
-      "id": "amd-x100-robots",
+      "id": "gemini-automation",
       "type": "image",
-      "src": "pipeline/media/amd-x100-robots.jpg"
+      "src": "pipeline/media/gemini-automation.jpg"
     },
     {
-      "id": "byd-xiaodi-robot",
+      "id": "ai-activity-dashboard",
       "type": "image",
-      "src": "pipeline/media/byd-xiaodi-robot.jpg"
+      "src": "pipeline/media/ai-activity-dashboard.jpg"
     },
     {
-      "id": "brainco-bci-robot",
+      "id": "galaxy-watch-9-health",
       "type": "image",
-      "src": "pipeline/media/brainco-bci-robot.jpg"
-    },
-    {
-      "id": "looki-ai-pendant",
-      "type": "image",
-      "src": "pipeline/media/looki-ai-pendant.jpg"
-    },
-    {
-      "id": "meta-glasses-subscription",
-      "type": "image",
-      "src": "pipeline/media/meta-glasses-subscription.jpg"
+      "src": "pipeline/media/galaxy-watch-9-health.jpg"
     }
   ]
 }

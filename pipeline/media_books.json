@@ -1,16 +1,7 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "section": "books",
   "media": [
-    {
-      "id": "udgooglebooks",
-      "type": "image",
-      "src": "pipeline/media/udgooglebooks.jpg"
-    },
-    {
-      "id": "hkbookfair",
-      "type": "image",
-      "src": "pipeline/media/hkbookfair.jpg"
-    }
+    { "id": "audiobook-ai-multicast", "type": "svg" }
   ]
 }
