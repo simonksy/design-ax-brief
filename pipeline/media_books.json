@@ -1,7 +1,16 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "books",
   "media": [
-    { "id": "audiobook-ai-multicast", "type": "svg" }
+    {
+      "id": "daggermouth-60-percent-ai-study",
+      "type": "image",
+      "src": "pipeline/media/daggermouth-60-percent-ai-study.jpg"
+    },
+    {
+      "id": "publishing-perspectives-ai-course-2027",
+      "type": "image",
+      "src": "pipeline/media/publishing-perspectives-ai-course-2027.jpg"
+    }
   ]
 }

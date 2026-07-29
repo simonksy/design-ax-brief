@@ -1,7 +1,26 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "music",
   "media": [
-    { "id": "elevenmusic-vocals-refs", "type": "svg" }
+    {
+      "id": "labels-ban-ai-slop-charts",
+      "type": "image",
+      "src": "pipeline/media/labels-ban-ai-slop-charts.jpg"
+    },
+    {
+      "id": "audioauditor-ai-detect-toolkit",
+      "type": "image",
+      "src": "pipeline/media/audioauditor-ai-detect-toolkit.jpg"
+    },
+    {
+      "id": "canada-only-humans-authors-copyright",
+      "type": "image",
+      "src": "pipeline/media/canada-only-humans-authors-copyright.png"
+    },
+    {
+      "id": "human-first-label-needs-teeth",
+      "type": "image",
+      "src": "pipeline/media/human-first-label-needs-teeth.jpg"
+    }
   ]
 }

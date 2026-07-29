@@ -1,27 +1,54 @@
 {
   "date": "2026-07-29",
   "section": "movies",
-  "now_iso": "2026-07-28T22:00:52Z",
+  "now_iso": "2026-07-29T22:04:32Z",
   "window_hours": 336,
-  "note": "Section=movies, 14-day window (336h; start 2026-07-14T22:00:52Z). Swept the movies allowed_domains hard across the rested angles from keywords_movies.json (generative video models Kling/Sora/Runway/Luma, AI VFX/SIGGRAPH, previs, de-aging/digital-double/deepfake, AI color grading, AI dubbing/lip-sync, AI short-film festival, AI mocap, AI trailer, AI restoration, AI scene/set extension, Hollywood AI) plus vendor and Korean terms. Net-new, on-topic, in-window AI-filmmaking news is genuinely thin this run: most surfaced items WebFetch/curl-verified to real published times OUTSIDE the July 14-28 window. All 5 kept pass freshness.py FRESH (published_iso curl-verified via og:article:published_time / JSON-LD datePublished). NOTE ON PAYWALLS: variety.com, deadline.com and indiewire.com 307-redirect to a tollbit host that returns 402 for WebFetch; awn.com returns 403 for WebFetch. For all of these I extracted the real published_time + og:image + description via curl instead of eyeballing snippet dates. DROPPED as STALE (real datePublished outside 336h window): HR 'AI-generated Odysseus/Odyssey' feature (07-14T06:00 EDT = 352h) and Variety Fountain 0 Odyssey (07-14T13:00Z = 345h, both just past window); Deadline Christopher Nolan Gen-Z rejects AI (07-11); nofilmschool Kling 3.0 (02-06), Seedance 2.5 (06-23), Runway Gen-4.5 (01-22), Runway Seedance 2.0 (04-07), Beeble Canvas (05-19)/bg-remover (04-08)/camera-tracking (2025-11); redshark Adobe+Runway Gen-4.5 (2025-12-20) and Aiarty upscaler (06-29); engadget Firefly Assistant (04-15); HR Tilly Norwood Misaligned (07-06), Obsidian Studio (04-29); Variety Val Kilmer AI (03-18), Utopai PAI 2.0 (06-02), Young Washington/Jon Erwin (07-02), Chuck Russell (05-16), Shanghai takeaways (06-22); Deadline Dreams of Violets Tribeca (05-27), Thanksgiving Day festival (02-17), Runway festival categories (01-28), Seedance deepfakes (02-13); awn Apart-wins-SIGGRAPH (06-23), Nura Showcraft (04-30), Animaj Sketch-to-Motion (2024-11-13), Masterpiece Studio (2023-10); postperspective Beeble SwitchX (02-25), MTI DRSNova (2024-04); fxguide Weta Face Fabrication (2022-06), NVIDIA Real-Time-Live (2021), Pinscreen (2018), VES gen-AI panel (2025-02); provideocoalition DaVinci Resolve 21 (04-13), Premiere AI Assistant (06-18); vfxvoice AI/VFX roundtable (2023-10); beforesandafters Reallusion 2026 vision (04-14); animationmagazine Annecy AI policy (06-15). DROPPED by relevance filter (AI business/funding, no craft hook): Variety Darren Aronofsky Primordial Soup $15M raise (07-22); 80.lv Blender Studio 'Overgrown' (07-08, open-source feature, not an AI story). Social/YouTube: movies category defines no instagram_handles (IG skipped); Curious Refuge / AI-filmmaking YouTube watch-pages surfaced only evergreen tutorials with no verifiable in-window uploadDate, so skipped (social never blocks the run). Result: 5 FRESH candidates across 4 distinct outlets (Deadline x2, HR, No Film School, Variety) - at target 5, above floor 3. Items #4 and #5 are the same event (Reply AI Film Festival) from two outlets, kept for outlet diversity; downstream curator will topic-dedup.",
+  "note": "Section=movies, 14-day window (336h; window start 2026-07-15T22:04:32Z). Swept the movies allowed_domains across core + expanded angles (generative video models Runway/Sora/Veo/Kling/Luma, AI VFX, SIGGRAPH 2026 tools, previz, neural rendering, de-aging/dubbing, AI short film, deepfake tracing, Hollywood AI). SIGGRAPH 2026 (Jul 19-23, LA) drove most of the fresh craft news this run. All 10 kept pass freshness.py FRESH; every published_iso curl-verified via og:article:published_time / JSON-LD datePublished (never snippet dates). PAYWALL/BLOCK HANDLING: variety.com, deadline.com and indiewire.com 307-redirect to a tollbit host returning 402 for WebFetch; awn.com and animationmagazine.net return 403 for WebFetch. For all of these the real published_time + og:image were extracted via curl instead. DROPPED as STALE (real datePublished outside 336h window): Variety 'Odysseus: The Fall'/Fountain 0 (07-14T13:00Z = 345h, just past window); indiewire 'The Model Doesn't Matter' AI production platform (06-11); Variety Tilly Norwood 'Misaligned' (07-06); nofilmschool Beeble Canvas (05-19), Runway Gen-4.5 (01-22), Netflix Inkubator (05-15), SLAPSHOT camera tracking (2025-11-19), Beeble relighting (2025-12-08), Higgsfield Adobe plugin (05-28), Seedance 2.0 (02-11), Adobe NAB (04-15), Wonder Dynamics/Wallace (2021-01-05); redshark Beeble SwitchX (03-03), SLAPSHOT (2025-03-31); postperspective Electric Sheep (2025-07-17); fxguide DLSS 5 (03-17), SIGGRAPH AI panels (2023-08-20); provideocoalition Premiere AI Assistant (06-18); 80.lv Hyper3D Rodin (06-03). DROPPED by relevance filter (AI business/funding or booth-marketing, no craft hook): Variety Darren Aronofsky Primordial Soup raise; provideocoalition Puget Systems 'Robo Dojo' SIGGRAPH booth demo (07-20, marketing experience, not a workflow shift). Social: movies category defines no instagram_handles (IG skipped); Curious Refuge / Runway YouTube surfaced only evergreen tutorials with no verifiable in-window uploadDate, so skipped (social never blocks the run). Note on near-duplicates kept for outlet diversity: items pair up as (Gossip Goblin 'Gods Don't Give Gifts' = Deadline+Variety) and (Reply AI Film Festival = Deadline+Variety); downstream curator will topic-dedup. Result: 10 FRESH candidates across 6 distinct outlets (No Film School x2, postPerspective x2, Deadline x2, Variety x2, RedShark News x1, Animation Magazine x1) - well above floor 3 / target 5.",
   "items": [
     {
       "category": "movies",
-      "source": "The Hollywood Reporter",
-      "title": "“I Spent 15 Years Making Movies the Old Way. Now I’m, Reluctantly, an AI Guy”",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-moviemaking-production-1236647473/",
-      "published_iso": "2026-07-15T11:05:00Z",
-      "excerpt": "A producer with 15 years of traditional moviemaking experience walks through his shift to generative-AI tools in pre- and post-production, arguing that folding AI into the workflow can lower costs and democratize filmmaking rather than replace human creativity — a first-person view of how AI is reshaping a working film craftsperson's pipeline.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DSC00794-1.jpg?w=1296&h=730&crop=1"
+      "source": "No Film School",
+      "title": "This new tool aims to identify and trace AI videos back to their source models",
+      "url": "https://nofilmschool.com/ai-tracing-tool",
+      "published_iso": "2026-07-28T20:11:57Z",
+      "excerpt": "A UC Riverside team built SAGA (Source Attribution of Generative AI Videos), one of the first large-scale frameworks to trace an AI-generated clip back to the model that made it by reading the distinctive visual 'fingerprints' each generator leaves behind - a provenance tool with direct implications for deepfakes, rights and AI disclosure in filmmaking.",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334"
     },
     {
       "category": "movies",
-      "source": "Deadline",
-      "title": "AI feature 'Gods Don't Give Gifts' poised to make the leap from YouTube to the big screen",
-      "url": "https://deadline.com/2026/07/gossip-goblin-ai-feature-gods-dont-give-gifts-youtube-theaters-1236998952/",
-      "published_iso": "2026-07-22T16:09:41Z",
-      "excerpt": "'Gods Don't Give Gifts,' a fully AI-generated feature from the Gossip Goblin channel, is set to become the next AI film to jump from a large YouTube following to theatrical release — a concrete case study in generative-AI filmmaking reaching mainstream distribution.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/07/Gods-Dont-Give-Gifts-still.png?w=1024"
+      "source": "RedShark News",
+      "title": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026",
+      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
+      "published_iso": "2026-07-28T11:16:04Z",
+      "excerpt": "At SIGGRAPH 2026 NVIDIA introduced a Synthetic Video Detector NIM microservice to help newsrooms and broadcasters flag AI-generated video, and showcased AI-agent integrations (via MCP) reaching into creative tools like Adobe and Unreal Engine - signalling how detection and agentic AI are entering the production and post pipeline.",
+      "og_image": "https://www.redsharknews.com/hubfs/nvidia%20nemoclaw.jpg"
+    },
+    {
+      "category": "movies",
+      "source": "postPerspective",
+      "title": "Lightcraft launches beta for Spark Story interactive previz tool",
+      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
+      "published_iso": "2026-07-17T19:46:30Z",
+      "excerpt": "Lightcraft is opening a rolling beta of Spark Story, an interactive previz platform that pairs a 3D asset library (World Labs 'Marble' environments, 300+ assets), one-click real-time 24p/25p live-action compositing on iOS, and live global collaboration over scripts, Gaussian splats and USD assets - aimed at shaping shots and cutting costs from day one of preproduction.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Lightcraft-Launches-Beta-for-Spark-Story-MAIN.jpg"
+    },
+    {
+      "category": "movies",
+      "source": "Animation Magazine",
+      "title": "SIGGRAPH: 'Kok Boru' director Amina Omirjan talks frankly about the making of Higgsfield AI's new short",
+      "url": "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/",
+      "published_iso": "2026-07-22T23:51:33Z",
+      "excerpt": "Higgsfield premiered 'Kok Boru,' a 15-minute historical-drama short, at SIGGRAPH 2026, and its director details the hybrid human-AI pipeline: hand-drawn character designs, props and painted textures define look and performance before 'conditioning' the AI output - a candid, craft-first look at where generative animation actually helps and where it doesn't.",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Kok-Boru-trailer-sc.jpg"
+    },
+    {
+      "category": "movies",
+      "source": "Variety",
+      "title": "AI YouTuber Gossip Goblin plans to release AI film 'Gods Don't Give Gifts' in movie theaters",
+      "url": "https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068/",
+      "published_iso": "2026-07-22T16:00:00Z",
+      "excerpt": "Variety reports on Gossip Goblin's plan to bring the AI-generated anthology 'Gods Don't Give Gifts' to theaters this fall - a marker of AI-native creators moving from viral YouTube shorts to theatrical features. (Same story as the Deadline item; kept for outlet diversity.)",
+      "og_image": "https://variety.com/wp-content/uploads/2026/07/Corbin-Exclusive-Asset-1.png?w=1000&h=563&crop=1"
     },
     {
       "category": "movies",
@@ -29,22 +56,13 @@
       "title": "Venice-set Reply AI Film Festival unveils finalists and jury",
       "url": "https://deadline.com/2026/07/venice-set-reply-ai-film-festival-jury-gabriele-salvatores-1237005581/",
       "published_iso": "2026-07-28T13:59:22Z",
-      "excerpt": "The third Reply AI Film Festival, running alongside the Venice Film Festival, picked 10 AI-made shorts from 3,000 submissions across 76 countries and named a jury including Gabriele Salvatores, Catherine Hardwicke and Jed Weintrob. Winners for Best Short Film, an AI for Good Award and the Reply AI Studios Grand Prix will be announced September 6.",
+      "excerpt": "The third Reply AI Film Festival, running alongside the Venice Film Festival, selected 10 AI-made shorts from 3,000 submissions across 76 countries and named a jury including Gabriele Salvatores, Catherine Hardwicke and Jed Weintrob. Winners across Best Short Film, an AI for Good Award and the Reply AI Studios Grand Prix are announced September 6.",
       "og_image": "https://deadline.com/wp-content/uploads/2026/07/MixCollage-28-Jul-2026-02-49-PM-2514.jpg?w=1024"
-    },
-    {
-      "category": "movies",
-      "source": "Variety",
-      "title": "Reply AI Film Festival reveals jury: Rob Minkoff, Catherine Hardwicke",
-      "url": "https://variety.com/2026/film/festivals/reply-ai-film-festival-jury-rob-minkoff-catherine-hardwicke-1236822490/",
-      "published_iso": "2026-07-28T14:30:43Z",
-      "excerpt": "Variety reports the Venice-adjacent Reply AI Film Festival for AI-made shorts has revealed its jury, including 'The Lion King' director Rob Minkoff and 'Twilight' director Catherine Hardwicke, ahead of its winners announcement — a marker of established filmmakers engaging with generative-AI short-film craft. (Same festival as the Deadline item; kept for outlet diversity.)",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/minkoff-hardwicke.jpg?w=1000&h=563&crop=1"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 4,
+    "dropped": 4,
+    "kept": 6,
     "against_days": 5
   }
 }

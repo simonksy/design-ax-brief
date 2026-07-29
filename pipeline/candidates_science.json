@@ -3,28 +3,12 @@
   "window_hours": 336,
   "items": [
     {
-      "url": "https://techxplore.com/news/2026-07-children-ai-framework-theorize-world.html",
-      "source": "Tech Xplore",
+      "url": "https://phys.org/news/2026-07-molecular-ray-ai-tool-redesigns.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-1.jpg",
-      "excerpt": "KAIST researchers built a Learning-to-Theorize (L2T) framework, inspired by how children learn, that lets AI discover on its own which rule produced an observed change by composing reusable primitives into executable programs, generalizing far better than prediction-focused models."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
-      "excerpt": "National University of Singapore researchers developed AI methods that infer hidden variables from microscopic observations to predict large-scale material behavior, dramatically cutting the cost of simulations that would otherwise be prohibitively expensive."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
-      "excerpt": "Tohoku University built a closed-loop, self-driving-lab AI framework that pairs machine learning with automated experiments, feeding each new result back into the models to guide the next round and shorten clean-energy materials discovery by years."
+      "published_iso": "2026-07-29T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/like-a-molecular-shrin.jpg",
+      "excerpt": "Raygun, an AI framework from Duke University, converts proteins into standardized mathematical representations learned from millions of natural sequences, letting researchers create shorter, longer and highly modified versions of proteins while preserving their structure and function."
     },
     {
       "url": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
@@ -33,14 +17,6 @@
       "published_iso": "2026-07-27T12:00:00Z",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-s-3.jpg",
       "excerpt": "Ohio State astronomers trained AI on simulated lens examples to find seven candidate gravitationally lensed quasars among 800,000 DESI survey objects, roughly doubling the number found in past surveys."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-ai-atlantic-circulation-insights-years.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-unlocks-atlantic-ci.jpg",
-      "excerpt": "Helmholtz researchers used machine learning trained on ocean simulations to infer large-scale Atlantic circulation strengths from sparse Argo float point measurements, unlocking new insight into 20 years of ocean data."
     },
     {
       "url": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
@@ -65,6 +41,55 @@
       "published_iso": "2026-07-21T12:00:00Z",
       "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/21-07-26-medical-ai-fig1.jpg",
       "excerpt": "A new study finds membership-inference attacks can extract sensitive patient information from diagnostic medical-AI models far more effectively than believed, with the privacy risk concentrated among underrepresented minority groups in the training data."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-children-ai-framework-theorize-world.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-1.jpg",
+      "excerpt": "KAIST researchers built a Learning-to-Theorize (L2T) framework, inspired by how children learn, that lets AI discover on its own which rule produced an observed change by composing reusable primitives into executable programs, generalizing far better than prediction-focused models."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
+      "excerpt": "Tohoku University built a closed-loop, self-driving-lab AI framework that pairs machine learning with automated experiments, feeding each new result back into the models to guide the next round and shorten clean-energy materials discovery by years."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
+      "excerpt": "National University of Singapore researchers developed AI methods that infer hidden variables from microscopic observations to predict large-scale material behavior, dramatically cutting the cost of simulations that would otherwise be prohibitively expensive."
+    },
+    {
+      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
+      "excerpt": "Google Research demonstrated a reinforcement-learning framework in which an autonomous agent learns from quantum error detections to continuously steer thousands of control parameters, letting a quantum computer self-calibrate mid-computation instead of resetting."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-standardized-battery-database-ai-solid.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-29T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/accelerating-solid-sta.jpg",
+      "excerpt": "University of Maryland researchers built a standardized solid-state battery database of 245 records and 167 structured variables to enable consistent reporting and power AI-driven solid-state battery design and optimization."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-ai-powered-method-enables-instant.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/instant-ultrasound-ima.jpg",
+      "excerpt": "IMDEA Materials Institute researchers developed an AI-powered ultrasound method that reconstructs a complete, accurate image from a single fixed sensor capturing one signal at a single instant, eliminating the need for complex multisensor arrays."
     }
-  ]
+  ],
+  "count": 11
 }

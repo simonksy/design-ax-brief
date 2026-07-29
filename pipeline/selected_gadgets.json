@@ -1,72 +1,90 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "gadgets",
   "selection_mode": "auto",
   "picks": [
     {
       "rank": 1,
-      "headline": "Gemini task automation expands to 40+ apps, Samsung shows off two more Android XR glasses",
-      "tool": "Gemini",
+      "headline": "Meta's Ray-Ban Display glasses get a smarter on-board AI with the new Muse Spark model",
+      "tool": "Meta",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://9to5google.com/2026/07/22/gemini-task-automation-samsung/",
-      "source": "9to5Google",
-      "published_iso": "2026-07-22T13:05:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-task-automation-fold-8-1.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Google expanded Gemini's on-device task automation to over 40 apps across shopping, restaurant reservations, travel booking and event tickets, debuting on Samsung's new Galaxy Z foldables. The agentic assistant can read on-screen context and complete multi-step actions inside third-party apps without the user hopping between them.",
-      "rationale": "A concrete agentic capability designers must design around — Gemini now completes multi-step tasks inside 40+ third-party apps on-device, reading on-screen context."
+      "url": "https://gizmodo.com/the-meta-ray-ban-displays-dumb-smart-glasses-ai-is-dumb-no-more-2000791752",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-28T11:05:00-04:00",
+      "og_image": "https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17.jpg",
+      "excerpt": "Meta has begun rolling out an improved Muse Spark AI model to its Ray-Ban Display smart glasses, its only screen-equipped pair. The upgraded on-glasses assistant is described as snappier, more natural, and far better at following what the wearer is doing.",
+      "rationale": "A real on-device assistant upgrade shipping to screen glasses changes what designers can prototype for glanceable, context-aware AR AI today; distinct event from the earlier Meta glasses review card."
     },
     {
       "rank": 2,
-      "headline": "Samsung's latest foldables gain a new way to keep tabs on AI",
-      "tool": "Samsung",
+      "headline": "Oura Ring 5 review: a smaller smart ring with on-body Oura Advisor AI coaching",
+      "tool": "Oura",
       "category": "gadgets",
-      "accent": "#0070f3",
+      "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-ai-assistant-activity-dashboard-3690155/",
-      "source": "Android Authority",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard-3.jpg",
-      "excerpt": "One UI 9 on the Galaxy Z Fold 8, Fold 8 Ultra and Flip 8 introduces a central AI Assistant Activity dashboard, a single place to monitor the background AI automations that Gemini Intelligence performs on your behalf. It is Samsung's attempt to make on-device agentic AI transparent and controllable as assistants start acting autonomously.",
-      "rationale": "A shipping UX pattern for agent transparency — a dashboard to review and control what autonomous on-device AI did, directly relevant to designing agentic products."
+      "url": "https://gizmodo.com/oura-ring-5-review-the-best-smart-ring-right-now-and-its-not-close-2000785576",
+      "source": "Gizmodo",
+      "published_iso": "2026-07-28T07:00:00-04:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
+      "excerpt": "A review of the fifth-gen Oura smart ring, 40% smaller than before, with the built-in Oura Advisor AI delivering personalized health guidance from the wearer's biometric data. It makes the case for on-body AI wellness coaching over always-on companion gadgets.",
+      "rationale": "New hardware plus embedded Oura Advisor AI reframes wearable UX from passive tracking to proactive coaching; a distinct product from the already-published Ultrahuman ring."
     },
     {
       "rank": 3,
-      "headline": "Galaxy Watch 9, Watch Ultra 2 are here: Samsung's health partners bring soft comfort and more",
-      "tool": "Samsung",
+      "headline": "iOS 27's new Siri delivers on Apple Intelligence in every way I'd hoped",
+      "tool": "Apple",
       "category": "gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/galaxy-watch-9-watch-ultra-2-are-here-samsung-health-partners-launch",
-      "source": "Android Central",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pVHnWGB8JJwGSUs6EGiLE7-2048-80.jpg",
-      "excerpt": "Samsung launched the Galaxy Watch 9 and rugged Watch Ultra 2 with new AI-driven health features including a personalized health coach, a Fitness Index, Vascular Load and expanded sleep and heart insights tied to its new AI Health Assistant. The wearables lean on upgraded internals for longer, more accurate on-body monitoring.",
-      "rationale": "New wearable hardware plus AI-driven health metrics (Fitness Index, Vascular Load, health coach) show how on-body AI coaching gets productized — distinct from the earlier Health Assistant software card."
+      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
+      "source": "9to5Mac",
+      "published_iso": "2026-07-23T11:19:00-07:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "A hands-on with iOS 27's rebuilt Apple Intelligence Siri praises its expanded on-device knowledge, conversational interface, personal-context awareness, and unified in-app actions across iPhone, iPad, and Mac. It reads as the first Siri that finally delivers on Apple's AI promises.",
+      "rationale": "First credible hands-on of the overhauled Siri and its cross-app actions, a system-level AI surface designers must account for; distinct from the niche macOS voice-pad already covered."
+    },
+    {
+      "rank": 4,
+      "headline": "Amazon turns Alexa+ into a full-blown app store for smart-home makers",
+      "tool": "Alexa+",
+      "category": "gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "url": "https://www.digitaltrends.com/computing/amazon-just-turned-alexa-into-a-full-blown-app-store/",
+      "source": "Digital Trends",
+      "published_iso": "2026-07-23T12:00:00-04:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/06/Amazon-Echo-Hub-3.jpg?resize=1200%2C720",
+      "excerpt": "Amazon's new Alexa+ developer toolkit lets smart-home device makers plug their full feature sets directly into the AI assistant instead of burying them in separate apps. Bosch, Whirlpool, iRobot, Govee, Yale Home, and Eufy are the first partners onboard.",
+      "rationale": "An agent-first platform shift, exposing device features to the assistant rather than a companion app, that directly reshapes how designers plan smart-home product experiences."
     }
   ],
   "shortfall": {
     "target": 5,
     "floor": 3,
-    "selected": 3,
-    "reason": "5-item filtered pool collapsed to 3 distinct stories after within-pool dedup. The 336h fresh window is dominated by Samsung Galaxy Unpacked; two candidate pairs cover the same release: #1 (Gemini task automation) and #5 (9to5Google 'I tried Gemini Intelligence' hands-on) are the same source + same subject (Gemini Intelligence on Galaxy Z Fold 8) a day apart; #3 (Galaxy Watch Ultra 2 launch) and #4 (TechRadar Watch Ultra 2 review) are the same product release via different outlets. Kept the single strongest of each pair. 3 genuinely distinct stories remain — not padded to 5."
+    "selected": 4,
+    "reason": "The 5-item filtered pool yielded 4 distinct fresh stories after dedup. Candidate #5 (Galaxy Z Fold 8 hardware redesign, Android Authority) was dropped as a same-event / same-outlet content-hub duplicate of the already-published gemini-nano-4-fold8 (Android Authority, same Unpacked launch). No backfill available beyond the pool. 4 distinct stories meets the floor of 3; not padded to 5."
   },
   "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-28 + days 2026-07-23 through 07-27).",
-    "dropped_as_published_dup": [],
-    "dropped_within_pool_dup": [
+    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-29 + days 07-24 through 07-28).",
+    "dropped_as_published_dup": [
       {
-        "url": "https://9to5google.com/2026/07/23/i-briefly-tried-gemini-intelligence-and-im-still-not-sure-who-its-for/",
-        "reason": "Same source (9to5Google) and same core subject as pick #1 — Gemini Intelligence agentic layer on the Galaxy Z Fold 8, published a day apart. Content-hub duplicate; kept #1 (concrete feature news) over this hands-on opinion."
-      },
-      {
-        "url": "https://www.techradar.com/health-fitness/smartwatches/samsung-galaxy-watch-ultra-2-review",
-        "reason": "Same product release as pick #3 (Galaxy Watch Ultra 2) covered via a different outlet as a review. Same-release duplicate; kept the Android Central launch story, which also covers the Watch 9 and the AI health feature set."
+        "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-3688636/",
+        "reason": "Candidate #5. Same Galaxy Z Fold 8 launch (Unpacked), same outlet (Android Authority) as already-published gemini-nano-4-fold8 (androidauthority 3690495). Content-hub duplicate of the same product/event; dropped per orchestrator flag."
       }
     ],
-    "considered_not_selected": [],
-    "backfill": "No backfill available — after dropping the two within-pool same-release duplicates, the filtered pool held only 3 distinct fresh stories. Section note confirms non-Samsung fresh gadget news is exhausted for this window, so 3 is the true unique count, not a shortfall from padding.",
-    "diversity": "Final 3 spans three distinct outlets (9to5Google, Android Authority, Android Central) — well within the <=2-per-domain cap (9to5Google's second article was dropped as a dup, so it now appears once). Single-category section (gadgets); each pick gets a distinct accent (#ff5a4d category accent, then #0070f3, #f5a623) and the picks span three angles: agentic task automation / AI-agent transparency dashboard / AI wearable health hardware."
+    "dropped_within_pool_dup": [],
+    "kept_distinct_despite_topical_proximity": [
+      {
+        "url": "https://gizmodo.com/the-meta-ray-ban-displays-dumb-smart-glasses-ai-is-dumb-no-more-2000791752",
+        "reason": "Distinct event (Muse Spark on-glasses AI model rollout, Jul 28) vs the already-published Gizmodo Meta glasses review + subscriptions card."
+      },
+      {
+        "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
+        "reason": "Broad hands-on of the new Siri (9to5Mac) vs the published voicepad card (MacRumors), which covers only a niche hidden macOS voice-pad UI. Different hook, outlet and facts."
+      }
+    ],
+    "diversity": "Final 4 spans three distinct outlets: Gizmodo x2 (within the <=2-per-domain cap), 9to5Mac x1, Digital Trends x1. Single-category section (gadgets); each pick gets a distinct accent (#ff5a4d, #eb367f, #f5a623, #0070f3). Angles span AR glasses AI / wearable health AI / phone system assistant / smart-home agent platform."
   }
 }

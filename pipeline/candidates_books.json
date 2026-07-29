@@ -1,63 +1,54 @@
 {
   "date": "2026-07-29",
   "section": "books",
-  "now_iso": "2026-07-28T22:00:52Z",
+  "now_iso": "2026-07-29T22:04:32Z",
   "window_hours": 336,
-  "note": "Section=books, 14-day window (336h; start 2026-07-14T22:00:52Z). RECOVERY PASS appended (WebSearch quota exhausted 200/200): discovered fresh items by WebFetching news/index/RSS landing pages of the books allowed_domains (goodereader.com/blog, publishingperspectives.com + /tag/artificial-intelligence, thebookseller.com/news, lithub.com/tag/artificial-intelligence, thecreativepenn.com/blog, janefriedman.com/blog, teleread.org, bookriot.com/category/news, writersdigest.com, electricliterature.com, kindlepreneur.com, publishersweekly.com by-topic/digital + audio-books, booksandpublishing.com.au/daily) then WebFetch-verified each candidate's real published_time and gated with freshness.py. the-digital-reader.com returned HTTP 403 on every attempt (skipped). NEW fresh unique items found: 2, both from Jane Friedman (per-source cap 3, JF now at 3 total incl. existing Substack item; downstream ax-curator tightens to <=2/outlet). DROPPED as STALE/off-window: lithub 'Can ChatGPT Produce a Version of Proust' (Jul 7); goodereader AI tag all 2023-2025; PW 'Some Listeners Prefer AI Narration for Multi-Voice Audiobooks' (Jul 14, ~346h STALE, but the Jane Friedman write-up of the SAME Edison study is dated Jul 15 = FRESH so kept via JF). DROPPED as not-AI: goodereader 'New Odyssey movie driving audiobooks' (Jul 27, human narrators only), booksandpublishing 'Bookshop.org to offer audiobooks', PW 'BookBeat growth'. Already-published/avoid-list items (PP AI course, JF Substack detection, Books+Publishing editor survey, Book Riot library roundup, Anthropic settlement, Google/Gemini lawsuit) NOT re-added. Original pass note: net-new design/AI books news in this window is genuinely thin - the beat is sparse. Combined total: 6 candidates.",
+  "note": "Section=books, 14-day window (336h; start 2026-07-15T22:04:32Z). Searched ONLY the books category allowed_domains (publishersweekly.com, thebookseller.com, goodereader.com, janefriedman.com, lithub.com, publishingperspectives.com, bookriot.com, scholarlykitchen.sspnet.org, kindlepreneur.com, thecreativepenn.com, electricliterature.com, teleread.org, the-digital-reader.com). Each item WebFetched and gated with freshness.py against real published_time (og article:published_time / JSON-LD). The AI-in-books beat is GENUINELY SPARSE in this 14-day window - it is dominated by the Anthropic $1.5B copyright-settlement cluster plus the Stony Brook AI-detection study. Extensive keyword expansion (AI narration/audiobook, AI translation/KDP, AI book cover, generative fiction, AI ghostwriting, self-publishing, ElevenLabs, ScholarlyKitchen, Korean AI 출판) surfaced mostly STALE items (pre-Jul-15). DROPPED as STALE/off-window: Publishing Perspectives 'US Publishers Sue Google/Gemini' (Jul 14), PW 'New lawsuit aims to stop Google' (Jul 13), Good e-Reader 'Kindle new AI Translations' (Jul 1), PW 'Some Listeners Prefer AI Narration for Multi-Voice' (Jul 14), lithub Odyssey/Michael Caine + Authors-Guild-certify + Tokarczuk (all May-Jun), Good e-Reader Story So Far (Jun 9) / Ask This Book (Dec 2025), The Bookseller Michael Caine Odyssey (Jun 24) + Bloomsbury opt-in (Aug 2025), lithub 'harder to spot AI' (Apr 16), PW 'Global AI Data Analytics Startups' (Jul 10). NOTE: items #2 (Anthropic settlement) and #4 (PP AI course) also appeared in the 2026-07-28 run; kept here because still inside today's window - ax-curator will dedup against recent days and backfill. #1 (Daggermouth study, Jul 29) and #3 (Bloomsbury settlement figure, Jul 23) are net-new. Outlet spread: Book Riot 1, Publishers Weekly 1, The Bookseller 1, Publishing Perspectives 2 (<=3 cap OK). Total: 5 fresh candidates.",
   "items": [
+    {
+      "category": "books",
+      "source": "Book Riot",
+      "title": "Stony Brook study finds viral BookTok bestseller Daggermouth is 60% AI-written",
+      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
+      "published_iso": "2026-07-29T12:00:00Z",
+      "excerpt": "Using the AI-detection tool Pangram, Stony Brook University researchers found that roughly one in five randomly sampled Kindle ebooks contain substantial AI-generated text - and flagged #BookTok favorite Daggermouth by H.M. Wolfe as 60% AI-written. A concrete, method-driven look at how AI-generated fiction is slipping into bestseller lists and how detection now works.",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg"
+    },
+    {
+      "category": "books",
+      "source": "Publishers Weekly",
+      "title": "Judge gives final approval to the $1.5 billion Anthropic author-copyright settlement",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100888-judge-gives-final-approval-in-1-5-billion-settlement-in-anthropic-copyright-case.html",
+      "published_iso": "2026-07-21T12:00:00Z",
+      "excerpt": "A federal judge approved the landmark $1.5 billion settlement over Anthropic's use of roughly 500,000 pirated books to train its Claude models, with authors and publishers eligible for about $3,000 per infringed work. The largest reported copyright recovery to date, it sets a reference point for how AI training on books gets licensed and paid for.",
+      "og_image": ""
+    },
+    {
+      "category": "books",
+      "source": "The Bookseller",
+      "title": "Bloomsbury set to collect ~$18.7m from the Anthropic AI-copyright settlement",
+      "url": "https://www.thebookseller.com/news/bloomsbury-lands-14m-in-anthropic-ai-settlement",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "excerpt": "Bloomsbury became the first major publisher to quantify its share of the Anthropic settlement - about $18.7m across roughly 14,000 titles, generally split with authors. An early signal of how the AI-training copyright reckoning is beginning to translate into real payouts for publishers and writers.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd27.jpg"
+    },
     {
       "category": "books",
       "source": "Publishing Perspectives",
       "title": "Publishing Perspectives launches a course to help publishers navigate the AI age responsibly",
       "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
       "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "Publishing Perspectives is launching a four-week online course and live seminar series to give publishing professionals practical, up-to-the-moment knowledge of how to implement AI in editorial and production workflows and set organizational guidelines. A concrete signal of how houses are trying to operationalize AI rather than just debate it.",
+      "excerpt": "A four-week online course beginning January 2027 aims to give publishing professionals practical frameworks for implementing AI in editorial and production workflows and setting organizational policy. A signal of houses trying to operationalize AI in the craft rather than just debate it.",
       "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png"
     },
     {
       "category": "books",
-      "source": "Jane Friedman",
-      "title": "Substack adds Pangram-powered AI detection tools, but creators can disable them",
-      "url": "https://janefriedman.com/substack-adds-ai-detection-tools-but-creators-can-disable-them/",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "Substack has rolled out AI-detection labels powered by Pangram that scan posts for AI-generated text, though writers can switch the feature off. The tool only flags material published after 8:30am PT on July 21 and longer than 100 words - a live test of how AI-authorship labeling reshapes the writing/reading contract for authors.",
-      "og_image": ""
-    },
-    {
-      "category": "books",
-      "source": "Books+Publishing",
-      "title": "Researchers to investigate how editors and publishers actually use generative AI",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "excerpt": "University of Melbourne and RMIT researchers have launched a survey of publishers and editors about their real-world use of text-based generative AI (LLMs) in independent publishing, aiming to map how the tools are being applied across the editorial workflow rather than how the industry talks about them.",
-      "og_image": ""
-    },
-    {
-      "category": "books",
-      "source": "Book Riot",
-      "title": "ElevenLabs releases an AI-narrated Odyssey voiced by an AI-generated Michael Caine",
-      "url": "https://bookriot.com/library-news-round-up-july-2026/",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "excerpt": "Book Riot's roundup flags that AI audio company ElevenLabs has released an officially licensed audio retelling of The Odyssey narrated by an AI-generated Michael Caine voice, reviving the debate over synthetic celebrity narration and the erasure of human audiobook narrators' jobs.",
-      "og_image": ""
-    },
-    {
-      "category": "books",
-      "source": "Jane Friedman",
-      "title": "NYT's Kashmir Hill traces an AI-generated biography back to a retiree who has self-published 450+ AI books",
-      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "Journalist Kashmir Hill bought an AI-written biography of herself on Amazon and tracked it to Bill Johns, a 70-year-old retiree who has published over 450 AI-generated books. A vivid look at how generative AI is flooding retail bookshelves with machine-authored nonfiction and what it means for discoverability and reader trust.",
-      "og_image": ""
-    },
-    {
-      "category": "books",
-      "source": "Jane Friedman",
-      "title": "New Edison Research study: audiobook listeners are willing to try AI multi-cast narration and rate it favorably",
-      "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
-      "published_iso": "2026-07-15T12:00:00Z",
-      "excerpt": "A blind Edison Research study found audiobook listeners rated AI multi-cast narration favorably against single human narrators on character-driven scenes, though with notable caveats. A concrete data point on whether synthetic voices can win over listeners as AI narration moves from novelty to shipping product.",
-      "og_image": ""
+      "source": "Publishing Perspectives",
+      "title": "Around the Book World: Dutch publishers launch Bookpact.ai as AI-licensing control tightens",
+      "url": "https://publishingperspectives.com/2026/07/around-the-book-world-july-27-2026/",
+      "published_iso": "2026-07-27T12:00:00Z",
+      "excerpt": "This roundup gathers the week's AI-in-publishing moves: a Dutch publisher coalition's Bookpact.ai platform lets houses license books to AI firms title-by-title with set compensation, alongside the Bloomsbury/Anthropic payout and reports of AI firms buying secondhand German books for training. A snapshot of publishers building opt-in machinery for how their books feed AI.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png"
     }
   ]
 }

@@ -1,21 +1,22 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "design",
   "media": [
     {
-      "id": "macpaw-eney",
-      "type": "image",
-      "src": "pipeline/media/macpaw-eney.jpg"
+      "id": "agent-native-actions",
+      "type": "video",
+      "src": "pipeline/media/agent-native-actions.mp4",
+      "poster": "pipeline/media/agent-native-actions.jpg"
     },
     {
-      "id": "no-handoff",
+      "id": "where-ai-belongs-games",
       "type": "image",
-      "src": "pipeline/media/no-handoff.png"
+      "src": "pipeline/media/where-ai-belongs-games.jpg"
     },
     {
-      "id": "octane-neural",
+      "id": "nexthena-121-i18n",
       "type": "image",
-      "src": "pipeline/media/octane-neural.jpg"
+      "src": "pipeline/media/nexthena-121-i18n.png"
     }
   ]
 }

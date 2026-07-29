@@ -1,63 +1,82 @@
 {
   "date": "2026-07-29",
   "section": "music",
-  "now_iso": "2026-07-28T22:00:52Z",
+  "now_iso": "2026-07-29T22:04:32Z",
   "window_hours": 336,
-  "note": "Section=music, 14-day window (336h; start 2026-07-14T22:00:52Z). Swept the music allowed_domains hard for rested angles (AI DJ, real-time/Lyria, Riffusion, Ableton/Logic AI, Udio, Stable Audio, ElevenLabs Music, MusicLM, AI songwriting, text-to-music, AI music video, licensing) plus vendors/Korean terms. Net-new AI-CREATION news this window is nearly exhausted (consistent with the 07-27 run). ONE genuinely net-new item surfaced: ElevenLabs' ElevenMusic References+Vocals update (07-23) — no allowed_domain outlet covered it, so it is included under the off-list exception via DigitalToday (real AI music-feature release, verified datePublished). The other 5 are the still-in-window, WebFetch-verified, on-topic, distinct-outlet items (all pass freshness.py FRESH). DROPPED as STALE (real datePublished outside window once WebFetched): Spotify AI music assistant / TechCrunch (07-14T12:00Z = 346h, just past 336h), Suno Studio DAW + v5 'most powerful' (2025-09-25), DrumBot AI (2026-04-02), Roland Project Lydia/Melody Flip, LANDR Blueprints (Jan), VirtualDJ 2026 (Dec 2025), FL Studio 2026 (Jul 9), Rolling Stone Timbaland 'Tata Taktumi' debut (2025-10-10), Claw.fm AI radio (2026-02-12), LALAL.AI plugin (05-22), Synthtopia Smol Sequencer (06-26). DROPPED as NOT-AI: Synthtopia ToneField (07-21, deterministic generative sequencer, no AI), AOFN Grizzly Gristleizer (07-26). DROPPED by relevance filter (business/legal, no craft hook): GEMA PLAI dataset (07-24), RIAA/A2IM AI-tagging (07-10), AFM v UMG/WMG dismissal (07-21), 'AIformusic' 50-company guidelines, AI speed-altering royalty theft. Billboard items (Tilly Norwood AI music video; imoliver AI-creator label deal, ~07-24) DROPPED: billboard.com 307-redirects to a paywalled tollbit host (402), so published time could not be verified. digitalmusicnews.com returned 403; music-ally returned 429 on WebFetch. Social: music defines no instagram_handles; Benn Jordan/Venus Theory YouTube watch-pages returned no verifiable uploadDate, skipped (social never blocks the run). Result: 6 FRESH, distinct-outlet candidates — above floor 3 and at target 5+; downstream dedup will drop any already published in the current brief.",
+  "count": 8,
+  "note": "WIDE funnel for the single 'music' category, restricted to its allowed_domains. Music window = 14 days / 336h (start ~2026-07-15T22:04Z); every item gated FRESH via `python3 pipeline/freshness.py <iso> 2026-07-29T22:04:32Z music`. RECOVERY PASS (search budget exhausted mid-pass): the original 5 items are kept; downstream URL-dedup vs news_data.json already-published set left only 2 alive (djmag Deezer + Engadget charts) since Project LYDIA, ACE Studio 2.0 and AI-music-earnings were already published. Appended 3 genuinely-NEW fresh non-duplicate items from 3 outlets NOT yet used in this section (Hypebot, CMU, Bedroom Producers Blog), found by sweeping index/tag pages after WebSearch budget ran out. New adjacent terms tried this pass: Moises/iZotope/LANDR/Reason, Kits AI, AI cover/remix, Spotify+UMG remix deal, RIAA/IFPI AI tagging, AI royalties/copyright ruling, AI vibe-coding plugins, stem-separation tools, Canadian AI authorship, AI-slop labelling. Many on-topic hits were date-verified STALE and dropped: MusicRadar LANDR Blueprints/Layers (Jan 22), MusicRadar Neutron 5 vs human mix (Dec 12 2024), MusicRadar iZotope Neutron 5 update (Oct 29 2024), MusicRadar 11 stem-separation tools (Jan 7), MusicRadar Fender+Moises Studio Pro (Jun 9), MusicRadar AI-prompts-into-plugins (Jun 26), CMU Spotify+UMG superfan remix (May 22), CMU Supreme Court AI-copyright (Mar 3), Hypebot 9 non-generative AI tools (Jan 6), Hypebot Spotify Investor Day AI remixes (May 21), Billboard '8 stories to watch' (business listicle). CDM Expressive E Noisy 2.6 (Jul 23, fresh) dropped as NOT AI. MusicTech held at cap (its 3 items already in-pool/published), so its fresh Jul-29 stem-separation guide was not added. Outlet spread of the non-published pool: DJ Mag, Engadget, Hypebot, CMU, Bedroom Producers Blog = 5 distinct.",
   "items": [
     {
-      "category": "music",
-      "source": "DigitalToday",
-      "title": "ElevenLabs upgrades ElevenMusic: adds 'References' style-matching and 'Vocals' voice generation",
-      "url": "https://www.digitaltoday.co.kr/en/view/84703/elevenlabs-upgrades-ai-music-generation-service-adds-vocals-references",
-      "published_iso": "2026-07-23T08:05:13Z",
-      "excerpt": "ElevenLabs updated its AI music generator ElevenMusic with two features: 'References,' which lets users set a track's style and mood from 10s-5min of reference audio, and 'Vocals,' which generates original songs using the user's own voice or a voice library. Styles now officially supports the Music v2 model, and uploads must pass copyright checks before use.",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202607/686478_634663_48.png"
-    },
-    {
-      "category": "music",
+      "title": "Project LYDIA: Roland and Neutone's AI stompbox lets musicians design their own custom AI models",
+      "url": "https://musictech.com/features/interviews/roland-neutone-project-lydia/",
       "source": "MusicTech",
-      "title": "Fender Studio Pro 8.1 review: AI stem separation, generation and a Studio Assistant land in Fender's DAW",
-      "url": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/",
-      "published_iso": "2026-07-15T08:00:51Z",
-      "excerpt": "MusicTech reviews Fender's free Studio Pro 8.1 DAW, which now leans heavily on AI: a Moises-powered engine handles both stem separation and stem generation, alongside voice replacement and AI vocal pitch-correction. A new beta 'Studio Assistant' chatbot (Pro+ tier) answers production questions inside the app. A mainstream, no-cost DAW folding Moises-grade AI directly into the mixing workflow.",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Fender-Studio-Pro-8.1.-hero-credit-James-Langley@2000x1500.jpg"
+      "category": "music",
+      "published_iso": "2026-07-17T08:00:16Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
+      "excerpt": "Neutone and Roland's Project LYDIA is a neural-sampling effects-box prototype that lets musicians train and load their own custom AI models for real-time performance, turning any sound source into a playable timbre. A craft-forward take on putting generative AI directly in the performer's hands rather than in a prompt box."
     },
     {
+      "title": "ACE Studio 2.0 review: an ambitious all-in-one AI audio workstation",
+      "url": "https://musictech.com/reviews/digital-audio-workstations/ace-studio-2-review/",
+      "source": "MusicTech",
       "category": "music",
+      "published_iso": "2026-07-16T08:00:40Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/ACE-Studio-2.0-interface-hero-credit-press@2000x1500.jpg",
+      "excerpt": "A hands-on review of ACE Studio 2, an AI audio workstation built around generative vocals and instruments inside a DAW-style interface. MusicTech finds the ambition real but the render times slow and the generative features uninspiring, a grounded look at where AI-native music production tools actually stand for working producers."
+    },
+    {
+      "title": "AI artists are already making millions from Spotify and YouTube - and they're only getting bigger",
+      "url": "https://musictech.com/news/industry/ai-music-earnings/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-07-23T16:40:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2023/12/money-music@2000x1500.jpg",
+      "excerpt": "A new study finds the top 10 AI music acts have generated roughly $6.1 million combined from streaming, with audiences in the tens of millions, evidence that fully AI-generated artists have moved from novelty to a real commercial force. Relevant to creatives weighing how generative-music tools reshape who gets heard and paid."
+    },
+    {
+      "title": "AI-generated music surpasses 50% of daily uploads on Deezer",
+      "url": "https://djmag.com/news/ai-generated-music-surpasses-50-of-daily-uploads-deezer",
+      "source": "DJ Mag",
+      "category": "music",
+      "published_iso": "2026-07-21T16:36:51Z",
+      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-07/deezer-ai-generated-music-half-50-percent-report.jpg.webp",
+      "excerpt": "Deezer says fully AI-generated tracks now make up more than 50% of new daily uploads, averaging ~90,000 AI songs a day in June, and is moving to flag and de-monetise them. A signal of how fast generative-music tools like Suno and Udio are flooding streaming catalogues and forcing platform-side detection."
+    },
+    {
+      "title": "Major labels call for AI 'slop' songs to be banned from entering charts around the world",
+      "url": "https://www.engadget.com/2226234/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/",
+      "source": "Engadget",
+      "category": "music",
+      "published_iso": "2026-07-29T16:55:01Z",
+      "og_image": "https://www.engadget.com/img/gallery/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/l-intro-1785343993.jpg",
+      "excerpt": "Sony, Universal and Warner are pushing to disqualify fully AI-generated 'slop' tracks from global charts as tens of thousands of AI songs hit streaming daily, alongside an RIAA/IFPI proposal to label fully- or partly-AI songs in streaming apps. Frames the emerging rules of the road for AI-made music and how disclosure may shape creative practice."
+    },
+    {
+      "title": "'Human-First' is a promise nobody can check yet",
+      "url": "https://www.hypebot.com/human-first-is-a-promise-nobody-can-check-yet/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/pexels-pavel-danilyuk-8294663.jpg",
+      "excerpt": "As 'Human-First' and AI-disclosure labels proliferate across music, this argues they mean little without enforcement, proposing distributor-enforced, open-source-style attestations covering composition, performance, vocals and production. A craft-side look at how AI-use disclosure could actually work for the people making the music."
+    },
+    {
+      "title": "Only humans can be 'authors', say Canadian music publishers in AI copyright test case",
+      "url": "https://completemusicupdate.com/only-humans-can-be-authors-say-canadian-music-publishers-in-test-case-on-copyright-status-of-ai-generated-works/",
+      "source": "CMU",
+      "category": "music",
+      "published_iso": "2026-07-24T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/AI-Canada.png",
+      "excerpt": "Music Publishers Canada has intervened in a court case testing whether AI-generated works qualify for copyright and whether an AI tool can be named a co-author, arguing 'only a human can be an author'. Directly shapes how music creators can claim, protect and credit work made with generative tools."
+    },
+    {
+      "title": "AudioAuditor is a free, open-source audio toolkit with built-in AI music detection",
+      "url": "https://bedroomproducersblog.com/2026/07/28/audioauditor/",
       "source": "Bedroom Producers Blog",
-      "title": "iZotope VEA - one-knob AI vocal enhancement built from RX and Nectar tech - is free until July 31",
-      "url": "https://bedroomproducersblog.com/2026/07/26/izotope-japan-vea-free/",
-      "published_iso": "2026-07-26T17:50:58Z",
-      "excerpt": "iZotope is giving away VEA (normally $29), a stripped-down vocal-enhancement plugin that repackages the AI-assisted processing from its RX, Ozone and Nectar suites into three controls - Clean, Shape and Boost - for de-noising, tone-shaping and presence. Aimed at podcasters, streamers and producers who want RX-grade cleanup without the deep interface, it lowers the barrier to iZotope's machine-learning audio tools. Free window runs through July 31, 2026.",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/vea-728x364.jpg"
-    },
-    {
       "category": "music",
-      "source": "Synthtopia",
-      "title": "Ocean Swift Intros DevOcean Modular Synthesis & Sound Design Environment",
-      "url": "https://www.synthtopia.com/content/2026/07/17/ocean-swift-intros-dev-ocean-modular-synthesis-sound-design-environment/",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "excerpt": "Ocean Swift released DevOcean Modular, a 145-module software modular synthesis and sound-design environment. Its standout feature is MaYa, a built-in modular AI agent that patches alongside the user, suggesting and wiring modules during the creative process - an early example of a generative AI 'co-patcher' embedded inside a modular synth workflow rather than a text-to-song generator.",
-      "og_image": null
-    },
-    {
-      "category": "music",
-      "source": "Music Business Worldwide",
-      "title": "BandLab Technologies buys Aiode, an AI music studio built on 'fully-licensed' audio",
-      "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
-      "published_iso": "2026-07-15T12:00:00Z",
-      "excerpt": "BandLab Technologies acquired Aiode, an AI-powered music studio that lets creators build tracks using audio-to-audio models developed with professional session musicians. Its distinguishing pitch is that 100% of the training audio is licensed and traceable. Creators can generate performances section by section, spin up alternate takes and export projects as stems or full mixes - positioning it as a 'responsible' route for making music with AI.",
-      "og_image": null
-    },
-    {
-      "category": "music",
-      "source": "MusicRadar",
-      "title": "Lorde slams Spotify's 'About the Song' feature over inaccurate AI-generated descriptions",
-      "url": "https://www.musicradar.com/artists/hey-spotify-im-going-to-go-out-on-a-limb-and-say-we-dont-want-this-not-only-is-this-inaccurate-but-reducing-a-song-to-an-ai-generated-meaning-right-at-the-source-feels-like-it-limits-free-interpretation-lorde-slams-spotifys-about-the-song-feature",
-      "published_iso": "2026-07-17T12:00:00Z",
-      "excerpt": "Lorde publicly criticized Spotify's beta 'About the Song' feature, which uses AI to generate song descriptions from third-party sources, after it published inaccurate details about her track 'Current Affairs.' She argued that reducing a song to an AI-generated meaning 'right at the source' limits free interpretation, and called for an artist opt-out. Spotify removed the offending text - a flashpoint over AI mediating how listeners understand music.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/U6vopy9RoswUBrqr8Nk8Ji.jpg"
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/AudioAuditor-728x364.jpg",
+      "excerpt": "AudioAuditor is a free, open-source desktop/CLI player and audio-analysis toolkit that also tries to flag AI-generated music by inspecting watermarks and byte patterns (with the devs candid that detection is still unreliable). A hands-on tool letting producers and listeners probe whether a track was machine-made."
     }
   ]
 }

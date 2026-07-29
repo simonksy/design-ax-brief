@@ -1,21 +1,26 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "gadgets",
   "media": [
     {
-      "id": "gemini-automation",
+      "id": "meta-ray-ban-display-muse-spark",
       "type": "image",
-      "src": "pipeline/media/gemini-automation.jpg"
+      "src": "pipeline/media/meta-ray-ban-display-muse-spark.jpg"
     },
     {
-      "id": "ai-activity-dashboard",
+      "id": "oura-ring-5-advisor",
       "type": "image",
-      "src": "pipeline/media/ai-activity-dashboard.jpg"
+      "src": "pipeline/media/oura-ring-5-advisor.jpg"
     },
     {
-      "id": "galaxy-watch-9-health",
+      "id": "ios-27-siri-apple-intelligence",
       "type": "image",
-      "src": "pipeline/media/galaxy-watch-9-health.jpg"
+      "src": "pipeline/media/ios-27-siri-apple-intelligence.jpg"
+    },
+    {
+      "id": "alexa-plus-smart-home-app-store",
+      "type": "image",
+      "src": "pipeline/media/alexa-plus-smart-home-app-store.jpg"
     }
   ]
 }

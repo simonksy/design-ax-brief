@@ -1,41 +1,41 @@
 {
   "date": "2026-07-29",
   "section": "design",
-  "now_iso": "2026-07-28T22:00:52Z",
+  "now_iso": "2026-07-29T22:04:32Z",
   "window_hours": 72,
-  "count": 4,
-  "note": "WIDE funnel run across all 7 design categories (figma/render/cad/tokens/vr/workflow/social), restricted to each category's allowed_domains. The 72h window (start 2026-07-25T22:00:52Z) is genuinely sparse for design x AI in the extractable allowed-domains: the overwhelming majority of on-topic hits were evergreen '2026 guide' pages or news dated weeks/months back (all date-verified STALE via WebFetch + pipeline/freshness.py). Confirmed STALE and dropped: LogRocket design-engineering (May 14), dev.to Cursor 3 (Apr 3), dev.to Claude-vs-Figma (Apr 20), dev.to Figma-to-code shift (Jul 4), engineering.com 3-AI-features (Jan 6), develop3d Autodesk (Oct 13 2025), parallelhq design-systems (Mar 7), 80.lv Hyper3D Rodin Gen-2.5 (Jun 3), 80.lv PewDiePie Odysseus (Jun 2), 80.lv Meshy 3D Agent (Jul 21), 80.lv Autodesk Bernini (2024), uploadvr Quest 3D photos (May 14), roadtovr Meta immersive-web AI toolkit (May 11), nvidia FLUX.2 (Nov 25 2025), engadget Adobe AI camera (Jul 20), engadget Meta Muse (Jul 7), cgchannel Google GNM Head (Jul 15), Smashing Matching-AI-Modality (Jul 2). Richest FRESH daily source (VentureBeat: Claude Design overhaul, Adobe Firefly Assistant, Canva Code 2.0, Adobe agentic Creative Cloud) hard-blocked the fetch bot (persistent HTTP 429, 6 attempts) so their published times could not be verified; gstack browse OOM-killed (exit 137) so no fallback render. Two July-27 dev.to items (UI-feedback-to-PR, AI-website-sameness) skipped as already used in yesterday's (07-28) sections.design. Nexthena 1.2.1 (Jul 28) and 'Designing Conversations' (Jul 26) dropped as weak design x AI relevance (i18n release / micro-interactions, AI only peripheral); builder.io agent-first-apps skipped (dated Jul 29, future vs now, fails freshness). Landed at floor (3), 3 distinct outlets. NOTE on Creative Bloq item: Future's article bodies do not render for WebFetch (nav-only) and browse is unavailable, so exact minute-level time could not be pulled; published date 2026-07-26 was extracted from Creative Bloq's own /ai feed listing (reliable source), and since the entire calendar day 07-26 falls inside the 72h window the FRESH verdict is unambiguous (published_iso set to a nominal 09:00Z). RECOVERY PASS (WebSearch quota exhausted; used WebFetch against allowed-domain index/blog/feed pages only): swept dev.to/t/design & /t/ai, uxdesign.cc (Medium login redirect loop, no article list rendered), creativebloq /ai + /ai/ai-art (only already-collected Google-maths + off-topic scam/Netflix pieces), css-tricks (newest Jul 15, stale), smashingmagazine (only the already-kept Jul 28 piece), builder.io/blog (agent-first-apps dated Jul 29 = future, skip; agent-face Jul 23 already on avoid-list), vercel.com/blog (Jul 27 items are customer/security/agent = business noise, no design hook), figma release-notes (newest Jul 24 = pre-window, stale), logrocket ux-design (Jul 28 Double-Diamond + GUI-principles = evergreen, no AI hook), develop3d Kyrall AI CAD modeller (verified Jul 6, STALE), 80.lv (Jul 28 items all Blender art/tutorial, no AI), roadtovr/uploadvr (Jul 27-28 all VR hardware/games, no design-AI), nvidia deep-learning blog (Jul 26-27 = AI-safety-alliance + CPU-design, no creative tool), theverge/fastcompany/all3dp (HTTP 403/blocked or fetch-unable), venturebeat AI RSS (cached, newest real item May 19, stale), mindstudio.ai/blog (fresh Jul 26-28 but agentic-workflow/job-displacement/support-automation + a Claude-Opus-5 3D-GAME-generation piece = games/AI-industry noise, weak design-craft relevance -> dropped), getleo.ai/blog (undated evergreen text-to-CAD guides). cgchannel Jul 28 renderer wave checked for AI hooks: RenderMan 27.3 (MaterialX/Cryptomatte, NO AI), MoonRay 2026.29 (MaterialX, no AI), Maverick 2026.1 (cutaway/fSpy, no AI) -> all dropped on design x AI relevance. Only OctaneRender 2027.1 alpha (Jul 28) passed: genuine neural-rendering / neural-radiance-cache / AI Light 2.0 (DLSS-like) features -> ADDED (render category). Net +1 unique fresh candidate; total now 4 across 4 distinct outlets (Smashing, dev.to, Creative Bloq, CG Channel). Octane published_iso set to nominal 2026-07-28T12:00:00Z (cgchannel shows date only, no minute; entire Jul-28 day is inside window so FRESH is unambiguous, gated FRESH via pipeline/freshness.py).",
+  "count": 6,
+  "note": "WIDE funnel across all 7 design categories (figma/render/cad/tokens/vr/workflow/social), each search restricted to that category's allowed_domains. The 72h window (start 2026-07-26T22:04:32Z) is genuinely sparse for design x AI in the extractable allowed-domains, matching the prior two runs. Every kept item's published time was verified via WebFetch/curl and gated FRESH through pipeline/freshness.py. Date-only sources given a nominal intra-day time that sits unambiguously inside the window. IMPORTANT age-out: the two Creative Bloq /ai items that were FRESH yesterday (Google-maths-creativity + tai-chi-scammer-ads, both Jul 26) have now aged past the 72h boundary (window start moved to Jul 26 22:04) -> re-gated STALE and DROPPED. CONFIRMED STALE and dropped this run (date-verified): Adobe Firefly AI Assistant / agentic Creative Cloud cluster is NOT this week's news -- Engadget dates it Jun 17-18 2026 and Oct 28 2025 (Max 2025), so all the VentureBeat/FastCompany/CreativeBloq/Engadget Firefly-Assistant pieces are old (dropped); Figma 'the-figma-agent-is-here' (May 20), mindstudio Claude-Design-vs-Stitch (Apr 25), parallelhq automating-design-systems (Mar 7), Engadget Epic/Unreal gen-AI MCP (Jun 17), fxguide Foundry SmartRoto (Jul 16) + SwitchHDR (Jul 9), 80.lv Meshy 3D Agent (Jul 21), YouTube: UI Collective Claude/Codex/Figma (May 4), Build-Great-Products AI-tool-ranking (Jul 14), Nehmat Figma-Make (Jul 22), all Figma Weave demos (Apr-May), Matt Wolfe latest (Jul 24, also non-design Kimi-K3 news). BLOCKED/unverifiable (dropped, could not confirm published time): VentureBeat (Vercel security checkpoint, HTTP 429 + curl), FastCompany (HTTP 403 to both WebFetch and curl), CIO Firefly Boards (404), all3dp/mixed 403, engineering.com design feed 403. Social yielded nothing in-window: every verifiable YouTube design-AI upload predates the window; Instagram not attempted (login-walled). Feeds swept with no in-window design-AI hit: css-tricks (newest Jul 15), logrocket ux-design (Jul 28 Double-Diamond = no AI), vercel/blog (Jul 27 = customer/security, no design hook), keyshot/blog (Jul 21), orq.ai/blog (Apr), NVIDIA developer blog (Jul 26-29 all chip/robotics/quantum AI, no creative tool), cgchannel (Jul 28-29 RenderMan 27.3 / MoonRay / Physical-Atmosphere2 / RTX-Render = raster/path-tracing, no generative AI), uploadvr/roadtovr (Jul 27-28 all VR games/hardware), mindstudio/blog (Jul 26-28 fresh but AI-industry/automation/games noise -> weak design-craft relevance), uxdesign.cc (Medium global-identity login redirect, unrenderable). Landed at 6 across 4 distinct outlets (Smashing, DEV Community x3 [at per-source cap], Builder.io, 80 Level). Items 5 (80.lv game-AI-where-it-belongs) and 6 (Nexthena AI whiteboard release) are the weaker-relevance funnel tail; items 1-4 are the strong design x AI picks. og_image left blank where the source page did not expose a clean og:image to WebFetch.",
   "items": [
     {
-      "title": "Thinking Outside The Box: Digital Design In The AI Era",
-      "url": "https://www.smashingmagazine.com/2026/07/digital-design-ai-era/",
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "",
-      "excerpt": "A case study in designing AI interaction beyond the text box: how MacPaw built Eney, a character-based AI assistant that prioritizes humanization and personal connection over the default chat prompt. The piece argues human designers remain essential in the AI era and that interface craft, not just model output, is where creative differentiation lives."
-    },
-    {
-      "title": "I Design Products. Then I Make Them. There Is No Handoff.",
-      "url": "https://dev.to/meravish/i-design-products-then-i-make-them-there-is-no-handoff-2bof",
-      "source": "DEV Community",
+      "title": "How (and why) to build agent-first apps",
+      "url": "https://www.builder.io/blog/agent-first-apps",
+      "source": "Builder.io",
       "category": "figma",
-      "published_iso": "2026-07-27T00:00:00Z",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ierh1778u6wtw2u015pd.png",
-      "excerpt": "Designer Merav Shaked describes rebuilding her portfolio in a single evening by directing AI as a tool rather than delegating to it, collapsing the designer-to-developer handoff entirely. A first-person account of how agentic AI lets one designer own vision through execution, keeping creative control while eliminating the traditional spec-and-throw-over-the-wall workflow."
+      "published_iso": "2026-07-29T09:00:00Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F568e1abcbd01489e89f1512f5f4acf30?format=webp&width=800",
+      "excerpt": "Builder.io's Steve Sewell lays out an 'agent-native' design pattern where anything the UI can do, an agent can do too -- unifying human and agent actions through a shared action abstraction. A forward-looking take on how product/UX design must change when AI agents become first-class users of the interface."
     },
     {
-      "title": "Otoy releases OctaneRender 2027.1 in alpha",
-      "url": "https://www.cgchannel.com/2026/07/otoy-releases-octanerender-2027-1-in-alpha/",
-      "source": "CG Channel",
+      "title": "Game AI Expert Explains Where AI Actually Belongs in Game Development—And The Risks",
+      "url": "https://80.lv/articles/game-ai-expert-explains-where-ai-actually-belongs-in-game-development-and-the-risks",
+      "source": "80 Level",
       "category": "render",
+      "published_iso": "2026-07-29T12:00:00Z",
+      "og_image": "",
+      "excerpt": "AI researcher Luke Dicken (ex-Zynga innovation lead, former Head of AI at Take-Two) argues generative AI's real value is enabling adaptive, player-facing experiences rather than automating existing content pipelines, and that studios should invest in R&D that amplifies creative talent instead of replacing it. A creative-tooling perspective on where AI helps craft versus where it just adds risk."
+    },
+    {
+      "title": "Nexthena 1.2.1 released",
+      "url": "https://dev.to/blackstar/nexthena-121-released-2alp",
+      "source": "DEV Community",
+      "category": "tokens",
       "published_iso": "2026-07-28T12:00:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_AILight.jpg",
-      "excerpt": "Otoy's next major OctaneRender release adds a new neural-rendering mode that builds on its neural radiance cache to deliver near noise-free interactive rendering at low sample counts (DLSS-like), plus an updated AI Light 2.0 for multi-light scenes. A concrete example of machine learning reshaping the day-to-day rendering and look-dev workflow for designers and 3D artists."
+      "og_image": "",
+      "excerpt": "Release notes for Nexthena 1.2.1, an AI-assisted infinite-canvas whiteboard/design tool, adding new workflow and localization updates. A small but concrete example of AI moving into the everyday visual-collaboration and diagramming layer of a designer's toolkit."
     }
   ],
   "dedup": {
-    "dropped": 1,
+    "dropped": 3,
     "kept": 3,
     "against_days": 5
   }

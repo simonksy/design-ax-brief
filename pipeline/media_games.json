@@ -1,11 +1,26 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "games",
   "media": [
     {
-      "id": "ocarina-ipad",
+      "id": "unity7-mcp-server",
       "type": "image",
-      "src": "pipeline/media/ocarina-ipad.jpg"
+      "src": "pipeline/media/unity7-mcp-server.png"
+    },
+    {
+      "id": "dlss5-direct-final-frame",
+      "type": "image",
+      "src": "pipeline/media/dlss5-direct-final-frame.jpg"
+    },
+    {
+      "id": "indie-devs-avoid-genai",
+      "type": "image",
+      "src": "pipeline/media/indie-devs-avoid-genai.jpg"
+    },
+    {
+      "id": "studios-refusing-genai",
+      "type": "image",
+      "src": "pipeline/media/studios-refusing-genai.jpg"
     }
   ]
 }

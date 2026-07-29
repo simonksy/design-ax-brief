@@ -1,23 +1,32 @@
 {
   "date": "2026-07-29",
   "section": "books",
-  "now_iso": "2026-07-28T22:00:52Z",
+  "now_iso": "2026-07-29T22:04:32Z",
   "window_hours": 336,
-  "note": "Section=books, 14-day window (336h; start 2026-07-14T22:00:52Z). RECOVERY PASS appended (WebSearch quota exhausted 200/200): discovered fresh items by WebFetching news/index/RSS landing pages of the books allowed_domains (goodereader.com/blog, publishingperspectives.com + /tag/artificial-intelligence, thebookseller.com/news, lithub.com/tag/artificial-intelligence, thecreativepenn.com/blog, janefriedman.com/blog, teleread.org, bookriot.com/category/news, writersdigest.com, electricliterature.com, kindlepreneur.com, publishersweekly.com by-topic/digital + audio-books, booksandpublishing.com.au/daily) then WebFetch-verified each candidate's real published_time and gated with freshness.py. the-digital-reader.com returned HTTP 403 on every attempt (skipped). NEW fresh unique items found: 2, both from Jane Friedman (per-source cap 3, JF now at 3 total incl. existing Substack item; downstream ax-curator tightens to <=2/outlet). DROPPED as STALE/off-window: lithub 'Can ChatGPT Produce a Version of Proust' (Jul 7); goodereader AI tag all 2023-2025; PW 'Some Listeners Prefer AI Narration for Multi-Voice Audiobooks' (Jul 14, ~346h STALE, but the Jane Friedman write-up of the SAME Edison study is dated Jul 15 = FRESH so kept via JF). DROPPED as not-AI: goodereader 'New Odyssey movie driving audiobooks' (Jul 27, human narrators only), booksandpublishing 'Bookshop.org to offer audiobooks', PW 'BookBeat growth'. Already-published/avoid-list items (PP AI course, JF Substack detection, Books+Publishing editor survey, Book Riot library roundup, Anthropic settlement, Google/Gemini lawsuit) NOT re-added. Original pass note: net-new design/AI books news in this window is genuinely thin - the beat is sparse. Combined total: 6 candidates.",
+  "note": "Section=books, 14-day window (336h; start 2026-07-15T22:04:32Z). Searched ONLY the books category allowed_domains (publishersweekly.com, thebookseller.com, goodereader.com, janefriedman.com, lithub.com, publishingperspectives.com, bookriot.com, scholarlykitchen.sspnet.org, kindlepreneur.com, thecreativepenn.com, electricliterature.com, teleread.org, the-digital-reader.com). Each item WebFetched and gated with freshness.py against real published_time (og article:published_time / JSON-LD). The AI-in-books beat is GENUINELY SPARSE in this 14-day window - it is dominated by the Anthropic $1.5B copyright-settlement cluster plus the Stony Brook AI-detection study. Extensive keyword expansion (AI narration/audiobook, AI translation/KDP, AI book cover, generative fiction, AI ghostwriting, self-publishing, ElevenLabs, ScholarlyKitchen, Korean AI 출판) surfaced mostly STALE items (pre-Jul-15). DROPPED as STALE/off-window: Publishing Perspectives 'US Publishers Sue Google/Gemini' (Jul 14), PW 'New lawsuit aims to stop Google' (Jul 13), Good e-Reader 'Kindle new AI Translations' (Jul 1), PW 'Some Listeners Prefer AI Narration for Multi-Voice' (Jul 14), lithub Odyssey/Michael Caine + Authors-Guild-certify + Tokarczuk (all May-Jun), Good e-Reader Story So Far (Jun 9) / Ask This Book (Dec 2025), The Bookseller Michael Caine Odyssey (Jun 24) + Bloomsbury opt-in (Aug 2025), lithub 'harder to spot AI' (Apr 16), PW 'Global AI Data Analytics Startups' (Jul 10). NOTE: items #2 (Anthropic settlement) and #4 (PP AI course) also appeared in the 2026-07-28 run; kept here because still inside today's window - ax-curator will dedup against recent days and backfill. #1 (Daggermouth study, Jul 29) and #3 (Bloomsbury settlement figure, Jul 23) are net-new. Outlet spread: Book Riot 1, Publishers Weekly 1, The Bookseller 1, Publishing Perspectives 2 (<=3 cap OK). Total: 5 fresh candidates.",
   "items": [
     {
       "category": "books",
-      "source": "Jane Friedman",
-      "title": "New Edison Research study: audiobook listeners are willing to try AI multi-cast narration and rate it favorably",
-      "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
-      "published_iso": "2026-07-15T12:00:00Z",
-      "excerpt": "A blind Edison Research study found audiobook listeners rated AI multi-cast narration favorably against single human narrators on character-driven scenes, though with notable caveats. A concrete data point on whether synthetic voices can win over listeners as AI narration moves from novelty to shipping product.",
-      "og_image": ""
+      "source": "Book Riot",
+      "title": "Stony Brook study finds viral BookTok bestseller Daggermouth is 60% AI-written",
+      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
+      "published_iso": "2026-07-29T12:00:00Z",
+      "excerpt": "Using the AI-detection tool Pangram, Stony Brook University researchers found that roughly one in five randomly sampled Kindle ebooks contain substantial AI-generated text - and flagged #BookTok favorite Daggermouth by H.M. Wolfe as 60% AI-written. A concrete, method-driven look at how AI-generated fiction is slipping into bestseller lists and how detection now works.",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg"
+    },
+    {
+      "category": "books",
+      "source": "Publishing Perspectives",
+      "title": "Publishing Perspectives launches a course to help publishers navigate the AI age responsibly",
+      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "excerpt": "A four-week online course beginning January 2027 aims to give publishing professionals practical frameworks for implementing AI in editorial and production workflows and setting organizational policy. A signal of houses trying to operationalize AI in the craft rather than just debate it.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png"
     }
   ],
   "dedup": {
-    "dropped": 5,
-    "kept": 1,
+    "dropped": 3,
+    "kept": 2,
     "against_days": 5
   }
 }
