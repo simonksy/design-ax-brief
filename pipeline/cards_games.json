@@ -1,25 +1,148 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "games",
   "cards": [
     {
-      "id": "ocarina-ipad",
+      "id": "unity7-mcp-server",
       "eyebrow": "AI NEWS",
-      "headline": "AI 디컴파일로 되살린 오카리나\niPad에서 네이티브로 실행된다",
-      "body": "AI 디컴파일 기법으로 만든 이식판이 아이패드에서 N64의 프레임 제약 없이 네이티브로 돌아간다.",
-      "mini_headline": "AI로 되살린 오카리나",
+      "headline": "Unity 7, AI 에이전트에\n엔진을 여는 로드맵",
+      "body": "MCP 서버로 코딩 에이전트가 엔진을 다루고, Unity 6 빌드도 안 깨진다.",
+      "mini_headline": "AI에 열린 Unity 7",
       "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/ipados-gets-native-zelda-ocarina-of-time-port-via-ai/",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Unity가 유나이트 서울에서 Unity 7 로드맵을 공개했다. 얼리 베타는 2026년 12월, 정식 출시는 2027년 초로 잡혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop",
+            "cap": "Unity 7 발표 이미지"
+          },
+          {
+            "t": "p",
+            "x": "핵심은 업그레이드 방식이다. Unity 7은 Unity 6 아키텍처를 그대로 잇는 \"직접적인 연장선\"이라, 프로젝트도 코드도 다시 짤 필요 없이 넘어간다는 게 회사 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "새 CLI와 공개 API가 열리면서 아티스트와 개발자는 에디터 전체를 켜지 않고도 자기 도구에서 에셋을 검증하고 빌드를 올리며 협업할 수 있다. 에셋 맥락을 잡아주는 딥 링크, 브라우저에서 확인하는 씬 프리뷰도 함께 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "무료 MCP 서버는 코딩 에이전트를 엔진에 곧바로 연결한다. CoreCLR, 서피스 캐시 GI, AI 보조 그래픽 최적화도 플랫폼 전반에 얹혔다."
+          },
+          {
+            "t": "p",
+            "x": "AI를 두고 던지는 메시지는 절제돼 있다. 회사는 강요가 아니라 선택을 강조하며, AI를 창작에서 빼기로 한 스튜디오라도 이번 릴리스에서 뒷전이 아니라고 못박았다. Unity Vector 연동 역시 선택 사항이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dlss5-direct-final-frame",
+      "eyebrow": "AI NEWS",
+      "headline": "DLSS 5, 아티스트가\n최종 프레임을 지휘한다",
+      "body": "신경 렌더링이 단일 GPU에서 한 단계 확산만으로 4K 화면을 만들어낸다.",
+      "mini_headline": "지휘하는 최종 프레임",
+      "tool": "Games",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
         "mode": "summary",
         "blocks": [
-          {"t": "img", "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/The-Legend-of-Zelda-Ocarina-of-Time-running-natively-on-iPadOS-2.jpg", "cap": "iPadOS에서 네이티브로 실행되는 오카리나 오브 타임"},
-          {"t": "p", "x": "AI 디컴파일 기법으로 젤다의 전설: 오카리나 오브 타임이 iPadOS에서 곧바로 실행되는 네이티브 이식판으로 나왔다."},
-          {"t": "p", "x": "이 방식은 N64 시절의 프레임 상한과 낮은 해상도를 걷어내, 원작을 한층 선명하고 부드러운 화면으로 되살린다."},
-          {"t": "p", "x": "무엇보다 몇 달씩 걸리던 리버스 엔지니어링 작업을 크게 앞당기면서, 고전 게임의 이식과 보존 방식 자체를 바꿔 놓는 사례로 꼽힌다."}
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
+            "cap": "DLSS 5 신경 렌더링 시연"
+          },
+          {
+            "t": "p",
+            "x": "지그래프 기술 시연에서 DLSS 5의 신경 렌더링 파이프라인이 아티스트에게 통제권을 넘겨 최종 프레임을 직접 지휘하게 하는 모습이 공개됐다."
+          },
+          {
+            "t": "p",
+            "x": "한 단계짜리 픽셀 공간 확산 변환으로 단일 GPU에서 4K의 사실적인 화면에 도달한다. AI 업스케일링이 블랙박스에서 벗어나 아트 파이프라인 안에서 손대는 창작 도구로 옮겨가는 대목이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "indie-devs-avoid-genai",
+      "eyebrow": "AI NEWS",
+      "headline": "인디 개발자 25인이\n생성형 AI를 피하는 이유",
+      "body": "인디 스튜디오들이 생성형 AI가 게임의 질을 떨어뜨린다며 작업에서 밀어낸다.",
+      "mini_headline": "AI를 피하는 인디들",
+      "tool": "Games",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+            "cap": "인디 게임 개발 현장"
+          },
+          {
+            "t": "p",
+            "x": "인디 스튜디오는 생성형 AI의 가장 자연스러운 얼리어답터로 여겨진다. 그런데 개발자 25명은 오히려 그 도구를 자기 작업에서 밀어내는 이유를 털어놨다."
+          },
+          {
+            "t": "p",
+            "x": "이들은 그 도구가 더 못한 게임을 만들고, 플레이어가 체감하는 손으로 빚은 질감을 갉아먹는다고 말한다. 작은 팀에 워크플로의 약속이 좀처럼 와닿지 않는 이유를 현장의 목소리로 들여다본 글이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "studios-refusing-genai",
+      "eyebrow": "AI NEWS",
+      "headline": "생성형 AI를 거부하는\n게임 스튜디오 명단",
+      "body": "50곳 넘는 스튜디오가 생성형 AI를 개발에서 빼겠다고 공개 선언했다.",
+      "mini_headline": "AI 거부 스튜디오",
+      "tool": "Games",
+      "source": "Aftermath",
+      "url": "https://aftermath.site/video-games-no-ai/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "네이선 그레이슨이 정리한 이 글은 개발 과정에서 생성형 AI를 빼겠다고 공개적으로 밝힌 50곳 넘는 스튜디오를 담았다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg",
+            "cap": "생성형 AI를 거부한 스튜디오들"
+          },
+          {
+            "t": "p",
+            "x": "스튜디오들이 앞세우는 첫 이유는 주도권과 손맛이다. Blendo Games는 생성형 AI에 영원히 \"싫다, 꺼져\"라고 말할 수 있게 판을 짜고 있다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Blue Bottle Games는 인디로 나온 이유 자체가 우리 손으로 일하는 게 좋아서였다며, 재미있는 부분을 기계에 넘기고 싶지 않다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "윤리 문제도 빠지지 않는다. Apparition Games는 AI 회사들이 수많은 사람의 작업을 허락도 보상도 없이 훔쳤다고 지적했고, Daikon Games는 훔친 노동 위에 세운 본질적으로 비윤리적인 기술이라고 못박았다."
+          },
+          {
+            "t": "p",
+            "x": "Digital Extremes(Warframe), Hinterland Studio(The Long Dark), Strange Scaffold, Finji, Turbo Button 등 규모가 제각각인 스튜디오들이 이름을 올렸다."
+          }
         ]
       }
     }

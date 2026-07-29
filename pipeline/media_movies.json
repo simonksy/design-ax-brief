@@ -1,22 +1,16 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "movies",
   "media": [
     {
-      "id": "reluctant-ai",
-      "type": "video",
-      "src": "pipeline/media/reluctant-ai.mp4",
-      "poster": "pipeline/media/reluctant-ai.jpg"
+      "id": "saga-ai-video-source-attribution",
+      "type": "image",
+      "src": "pipeline/media/saga-ai-video-source-attribution.jpg"
     },
     {
-      "id": "gods-gifts",
+      "id": "nvidia-synthetic-video-detector-mcp-siggraph",
       "type": "image",
-      "src": "pipeline/media/gods-gifts.png"
-    },
-    {
-      "id": "reply-jury",
-      "type": "image",
-      "src": "pipeline/media/reply-jury.jpg"
+      "src": "pipeline/media/nvidia-synthetic-video-detector-mcp-siggraph.jpg"
     }
   ]
 }

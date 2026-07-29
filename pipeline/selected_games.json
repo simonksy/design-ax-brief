@@ -1,30 +1,69 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "games",
   "selection_mode": "auto",
   "shortfall": true,
-  "shortfall_reason": "Fresh pool held only 2 candidates. Backstop dedup dropped 1 as a content duplicate of already-published games history, leaving 1 unique fresh story. Pool genuinely exhausted — not padded to floor.",
+  "shortfall_reason": "Fresh pool held only 5 candidates. Backstop dedup dropped 1 as a content duplicate of already-published games history, leaving 4 unique fresh stories. Pool genuinely exhausted below the cap of 5 — not padded (floor 3 satisfied).",
   "dedup_dropped": [
     {
       "title": "Half of all games released on Steam will use AI by 2028, study predicts",
       "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
       "source": "GamesRadar+",
-      "reason": "Content duplicate of the published games card 'steamcensus' (PC Gamer, 2026-07-24 days entry). Same underlying Steam AI-disclosure analysis (Sulka Haro, ~53.6k games) and the same core projection — roughly half of Steam games using/disclosing AI by 2027-2028, framed around discoverability/volume. Same event via a different outlet + reworded headline = duplicate under the hard dedup rule; earliest-wins, story already published."
+      "reason": "Content duplicate of the published games card 'steamcensus' (PC Gamer, 2026-07-24 days entry, surfaced in today block). Same underlying Sulka Haro census of ~53,600 Steam titles, same 30.8%-of-2026-releases figure, and the same core projection that roughly half of Steam games disclose/use AI by 2027-2028. Same event via a different outlet + reworded headline = duplicate under the hard dedup rule; earliest-wins."
     }
   ],
   "picks": [
     {
-      "title": "iPadOS Gets Native Zelda: Ocarina of Time Port Via AI",
-      "headline": "iPadOS Gets Native Zelda: Ocarina of Time Port Via AI",
-      "url": "https://wccftech.com/ipados-gets-native-zelda-ocarina-of-time-port-via-ai/",
-      "source": "Wccftech",
-      "published_iso": "2026-07-28T13:35:38Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/The-Legend-of-Zelda-Ocarina-of-Time-running-natively-on-iPadOS-2.jpg",
-      "excerpt": "AI-assisted decompilation/recompilation has produced a native iPadOS port of The Legend of Zelda: Ocarina of Time, freeing the classic from N64 frame-rate caps and low-resolution constraints. A concrete example of generative/AI tooling reshaping game porting and preservation workflows — turning a months-long reverse-engineering effort into a far faster pipeline.",
+      "title": "Unity unveils Unity 7 roadmap with an update path that won't break your build",
+      "headline": "Unity unveils Unity 7 roadmap with an update path that won't break your build",
+      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
+      "source": "Game Developer",
+      "published_iso": "2026-07-21T02:00:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Unity's Unity 7 roadmap adds a CLI/public API and a free MCP server that wires coding agents directly into the engine, so creators and AI agents can validate assets, push builds, and collaborate side by side — framed as optional, with no breaking changes from Unity 6.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Fresh (2026-07-28), concrete AI-decompilation workflow that speeds classic-game porting and preservation; distinct from the published Mario Kart Wii recompile card (different game, platform, and project)."
+      "rationale": "Most actionable of the pool: a free MCP server plus CLI/public API lets AI coding agents drive the engine directly, changing how Unity devs script builds and validate assets tomorrow — with an explicit no-breaking-changes upgrade path."
+    },
+    {
+      "title": "NVIDIA DLSS 5 hands over full control to artists to 'direct the final frame'",
+      "headline": "NVIDIA DLSS 5 hands over full control to artists to 'direct the final frame'",
+      "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
+      "source": "Wccftech",
+      "published_iso": "2026-07-21T19:35:40Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
+      "excerpt": "A SIGGRAPH technical demo shows DLSS 5's neural rendering pipeline handing artists control to 'direct the final frame,' using a one-step pixel-space diffusion transform to reach 4K, life-like visuals on a single GPU. A craft shift: AI upscaling moves from a black box to a directable creative tool in the art pipeline.",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Novel craft shift from SIGGRAPH: neural upscaling turns from a black box into a directable tool artists can steer, giving game art teams new authorship over the final rendered frame."
+    },
+    {
+      "title": "'It creates lesser games': Indie studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
+      "headline": "'It creates lesser games': Indie studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
+      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-07-19T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+      "excerpt": "Indie studios are supposedly the natural adopters of generative AI, yet 25 developers explain why they keep it out of their craft — arguing the tools 'create lesser games' and erode the hand-made quality players can feel. A grounded look at why the workflow promise isn't landing with small teams.",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Reported insight from 25 named indie devs on why generative-AI workflows don't hold up in practice — a grounded counterweight that helps designers weigh where the tools actually help versus hurt the finished game."
+    },
+    {
+      "title": "All The Video Game Studios That Refuse To Use Generative AI",
+      "headline": "All The Video Game Studios That Refuse To Use Generative AI",
+      "url": "https://aftermath.site/video-games-no-ai/",
+      "source": "Aftermath",
+      "published_iso": "2026-07-29T18:24:46Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg",
+      "excerpt": "A running roll-call of game studios publicly pledging to keep generative AI out of their development, with devs framing it as a craft-and-values stance — 'ownership of the work has to be traceable' and 'AI art will never match sentient creation' — a counterweight to the industry's AI-adoption push.",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Freshest item (2026-07-29): a living directory of studios publicly refusing generative AI, useful signal on where the craft-and-provenance line is being drawn across the industry; distinct in outlet and framing from the GamesRadar indie-devs feature."
     }
   ]
 }

@@ -1,10 +1,26 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "science",
   "media": [
-    { "id": "l2t", "type": "image", "src": "pipeline/media/l2t.jpg" },
-    { "id": "quasar", "type": "image", "src": "pipeline/media/quasar.jpg" },
-    { "id": "binn", "type": "image", "src": "pipeline/media/binn.jpg" },
-    { "id": "symptomai", "type": "image", "src": "pipeline/media/symptomai.png" }
+    {
+      "id": "raygun-protein-redesign",
+      "type": "image",
+      "src": "pipeline/media/raygun-protein-redesign.jpg"
+    },
+    {
+      "id": "quantum-rl-self-calibration",
+      "type": "image",
+      "src": "pipeline/media/quantum-rl-self-calibration.png"
+    },
+    {
+      "id": "single-sensor-ultrasound-ai",
+      "type": "image",
+      "src": "pipeline/media/single-sensor-ultrasound-ai.jpg"
+    },
+    {
+      "id": "solid-state-battery-database",
+      "type": "image",
+      "src": "pipeline/media/solid-state-battery-database.jpg"
+    }
   ]
 }

@@ -1,30 +1,43 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "books",
   "selection_mode": "auto",
   "target": 5,
   "floor": 3,
-  "selected_count": 1,
-  "shortfall": 2,
+  "selected_count": 2,
+  "shortfall": 1,
   "picks": [
     {
       "tool": "Books",
-      "headline": "New Edison Research study: audiobook listeners are willing to try AI multi-cast narration and rate it favorably",
-      "url": "https://janefriedman.com/new-study-audiobook-listeners-willing-to-try-ai-multi-cast-narration-rate-it-favorably/",
-      "source": "Jane Friedman",
+      "headline": "Stony Brook study finds viral BookTok bestseller Daggermouth is 60% AI-written",
+      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
+      "source": "Book Riot",
       "category": "books",
-      "published_iso": "2026-07-15T12:00:00Z",
-      "og_image": "",
-      "excerpt": "A blind Edison Research study found audiobook listeners rated AI multi-cast narration favorably against single human narrators on character-driven scenes, though with notable caveats. A concrete data point on whether synthetic voices can win over listeners as AI narration moves from novelty to shipping product.",
+      "published_iso": "2026-07-29T12:00:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
+      "excerpt": "Using the AI-detection tool Pangram, Stony Brook University researchers found that roughly one in five randomly sampled Kindle ebooks contain substantial AI-generated text - and flagged #BookTok favorite Daggermouth by H.M. Wolfe as 60% AI-written. A concrete, method-driven look at how AI-generated fiction is slipping into bestseller lists and how detection now works.",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Net-new, distinct URL and content from every published books card. A blind listener study rating AI multi-cast narration favorably against human narrators gives authors and publishers hard data on when synthetic audiobook voices are viable — directly informing production decisions."
+      "rationale": "Net-new, URL- and content-distinct from every published books card (a different Book Riot article than the July book-banners and library round-up pieces). A method-driven detection study naming a BookTok bestseller as 60% AI-written is high-actionability for authors, publishers, and readers navigating AI fiction on the charts."
+    },
+    {
+      "tool": "Books",
+      "headline": "Publishing Perspectives launches a course to help publishers navigate the AI age responsibly",
+      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png",
+      "excerpt": "A four-week online course beginning January 2027 aims to give publishing professionals practical frameworks for implementing AI in editorial and production workflows and setting organizational policy. A signal of houses trying to operationalize AI in the craft rather than just debate it.",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "rationale": "Net-new and distinct from the other published Publishing Perspectives cards (Wiley/Genesis, the two 'Around the Book World' roundups). It shifts the AI-in-publishing story from litigation and debate toward operational, workflow-level frameworks editors and production teams can actually adopt. Given a distinct accent (#0070f3) since it shares the books category."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.books in news_data.json — today + last 5 days.",
-    "dropped_duplicates": "None. The pick is URL-distinct and content-distinct from every published books card, including the previously-published Jane Friedman Substack/Pangram detection piece and the Spoken 61% AI-narration study (this is the Edison multi-cast listener study, a different release and URL).",
-    "shortfall_reason": "Section is BELOW floor. Beat genuinely exhausted after two recovery passes (WebSearch 200/200); only 1 fresh net-new, verifiable, AI-central item survived the 336h window. Not padded with stale/off-topic/duplicate items.",
-    "diversity": "Single fresh candidate; no diversity guard needed."
+    "checked_against": "sections.books in news_data.json — today (2026-07-29) + days 2026-07-24 through 2026-07-28.",
+    "dropped_duplicates": "None. Both picks are URL-distinct and content-distinct from every published books card. Daggermouth is a Book Riot article separate from the published July book-banners (tools-used-by-book-banners-2026) and library round-up (library-news-round-up-july-2026) pieces. The PP AI course is a distinct URL/topic from the published Wiley-Genesis, udel-google-books (around-the-book-world-monday-july-20th) and Hong Kong book fair (around-the-book-world-july-27) cards; it appeared only as an unpublished candidate in the 2026-07-28 run, so it is not a republish.",
+    "shortfall_reason": "Section is BELOW floor of 3. Only 2 candidates survived the section's freshness/dedup filter; the AI-in-books beat is genuinely sparse in the 336h window (dominated by the Anthropic settlement cluster already published). Both survivors are on-topic AI x books/publishing and non-duplicate, so both selected. Not padded.",
+    "diversity": "2 distinct outlets (Book Riot, Publishing Perspectives), <=2 per outlet, both books category with distinct accents (#f5a623, #0070f3)."
   }
 }

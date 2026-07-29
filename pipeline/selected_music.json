@@ -2,38 +2,76 @@
   "date": "2026-07-29",
   "section": "music",
   "selection_mode": "auto",
+  "count": 4,
+  "note": "Auto-pick (user deferred). Pool held 5 fresh candidates; DJ Mag 'AI-generated music surpasses 50% of daily uploads on Deezer' DROPPED as a cross-outlet CONTENT duplicate of already-published 'deezer-ai-flood' (Music Business Worldwide, 2026-07-27) — same Deezer report/event. 4 distinct stories survive from 4 distinct outlets (Engadget, Bedroom Producers Blog, CMU, Hypebot). Floor 3 met; not padded.",
   "picks": [
     {
       "rank": 1,
-      "headline": "ElevenLabs upgrades ElevenMusic: adds 'References' style-matching and 'Vocals' voice generation",
+      "headline": "Major labels call for AI 'slop' songs to be banned from entering charts around the world",
       "tool": "Music",
       "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "url": "https://www.digitaltoday.co.kr/en/view/84703/elevenlabs-upgrades-ai-music-generation-service-adds-vocals-references",
-      "source": "DigitalToday",
-      "published_iso": "2026-07-23T08:05:13Z",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202607/686478_634663_48.png",
-      "excerpt": "ElevenLabs updated its AI music generator ElevenMusic with two features: 'References,' which lets users set a track's style and mood from 10s-5min of reference audio, and 'Vocals,' which generates original songs using the user's own voice or a voice library. Styles now officially supports the Music v2 model, and uploads must pass copyright checks before use.",
-      "rationale": "Net-new feature release that directly changes how creators steer AI music tomorrow: reference-audio style control plus own-voice vocal generation on the Music v2 model."
+      "url": "https://www.engadget.com/2226234/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/",
+      "source": "Engadget",
+      "published_iso": "2026-07-29T16:55:01Z",
+      "og_image": "https://www.engadget.com/img/gallery/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/l-intro-1785343993.jpg",
+      "excerpt": "Sony, Universal and Warner are pushing to disqualify fully AI-generated 'slop' tracks from global charts as tens of thousands of AI songs hit streaming daily, alongside an RIAA/IFPI proposal to label fully- or partly-AI songs in streaming apps. Frames the emerging rules of the road for AI-made music and how disclosure may shape creative practice.",
+      "rationale": "Fresh (07-29) industry-policy shift that redraws the rules for AI music on charts and streaming labels — high novelty, directly shapes how AI-made tracks compete."
+    },
+    {
+      "rank": 2,
+      "headline": "AudioAuditor is a free, open-source audio toolkit with built-in AI music detection",
+      "tool": "Music",
+      "category": "music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "url": "https://bedroomproducersblog.com/2026/07/28/audioauditor/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/AudioAuditor-728x364.jpg",
+      "excerpt": "AudioAuditor is a free, open-source desktop/CLI player and audio-analysis toolkit that also tries to flag AI-generated music by inspecting watermarks and byte patterns (with the devs candid that detection is still unreliable). A hands-on tool letting producers and listeners probe whether a track was machine-made.",
+      "rationale": "Most actionable pick — a free, hands-on tool producers can install tomorrow to probe whether audio is AI-generated; distinct from prior BPB coverage."
+    },
+    {
+      "rank": 3,
+      "headline": "Only humans can be 'authors', say Canadian music publishers in AI copyright test case",
+      "tool": "Music",
+      "category": "music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://completemusicupdate.com/only-humans-can-be-authors-say-canadian-music-publishers-in-test-case-on-copyright-status-of-ai-generated-works/",
+      "source": "CMU",
+      "published_iso": "2026-07-24T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/AI-Canada.png",
+      "excerpt": "Music Publishers Canada has intervened in a court case testing whether AI-generated works qualify for copyright and whether an AI tool can be named a co-author, arguing 'only a human can be an author'. Directly shapes how music creators can claim, protect and credit work made with generative tools.",
+      "rationale": "Legal test case that directly affects whether and how creators can copyright and credit AI-assisted work — credible, high-stakes, distinct from prior CMU/SOCAN cards."
+    },
+    {
+      "rank": 4,
+      "headline": "'Human-First' is a promise nobody can check yet",
+      "tool": "Music",
+      "category": "music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "url": "https://www.hypebot.com/human-first-is-a-promise-nobody-can-check-yet/",
+      "source": "Hypebot",
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/pexels-pavel-danilyuk-8294663.jpg",
+      "excerpt": "As 'Human-First' and AI-disclosure labels proliferate across music, this argues they mean little without enforcement, proposing distributor-enforced, open-source-style attestations covering composition, performance, vocals and production. A craft-side look at how AI-use disclosure could actually work for the people making the music.",
+      "rationale": "Craft-side analysis of how AI-disclosure labels could actually be enforced — practical framing for creators navigating the new labeling push; distinct Hypebot story."
     }
   ],
   "shortfall": {
     "target_floor": 3,
-    "kept": 1,
-    "reason": "Filtered pool held only 3 candidates and 2 are content-duplicates of stories already published in sections.music, so they were dropped per the hard URL+CONTENT dedup rule. No padding, no republished dupes.",
+    "kept": 4,
+    "reason": "Pool held 5 fresh candidates; 1 (DJ Mag Deezer 50%) dropped as a content-duplicate of published 'deezer-ai-flood' (MBW). 4 distinct fresh stories remain — above floor, so no shortfall. Not padded.",
     "dropped": [
       {
-        "candidate": "BandLab Technologies buys Aiode (Music Business Worldwide)",
-        "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
-        "duplicate_of": "bandlab-aiode (2026-07-26, Digital Music News) — same acquisition event, different outlet"
-      },
-      {
-        "candidate": "Lorde slams Spotify's 'About the Song' feature (MusicRadar)",
-        "url": "https://www.musicradar.com/artists/hey-spotify-im-going-to-go-out-on-a-limb-and-say-we-dont-want-this-not-only-is-this-inaccurate-but-reducing-a-song-to-an-ai-generated-meaning-right-at-the-source-feels-like-it-limits-free-interpretation-lorde-slams-spotifys-about-the-song-feature",
-        "duplicate_of": "lorde-about-the-song (2026-07-25, Digital Music News) — same event/quotes, different outlet"
+        "candidate": "AI-generated music surpasses 50% of daily uploads on Deezer (DJ Mag)",
+        "url": "https://djmag.com/news/ai-generated-music-surpasses-50-of-daily-uploads-deezer",
+        "duplicate_of": "deezer-ai-flood (2026-07-27, Music Business Worldwide) — same Deezer report that AI now exceeds 50% of daily uploads / ~90k tracks a day; different outlet, same event"
       }
-    ],
-    "note": "The music AI-creation beat is genuinely exhausted for this window (consistent with the librarian note). Only 1 fresh, never-before-published story exists."
+    ]
   }
 }

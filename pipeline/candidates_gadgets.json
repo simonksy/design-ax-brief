@@ -1,54 +1,49 @@
 {
   "date": "2026-07-29",
   "section": "gadgets",
-  "now_iso": "2026-07-28T22:00:52Z",
+  "now_iso": "2026-07-29T22:04:32Z",
   "window_hours": 336,
-  "note": "Freshness window 336h (cutoff 2026-07-14T22:00:52Z). Every item gated FRESH via pipeline/freshness.py with a curl-verified published_iso (article:published_time / JSON-LD datePublished). Cast a WIDE funnel across the gadgets allowed_domains: AI PC/Copilot+, Snapdragon X2, edge AI chips, Alexa+, AI robot vacuums (Roborock/DJI/Dreame/iRobot), AI TV, home/humanoid robots, XR/Quest, Rabbit R1, Humane Pin, AI earbuds/translators (Nothing/Anker/Timekettle/Subtle), smart rings (Oura/Whoop), AI toys, AI cameras, Korean sources. RESULT: the July 14-28 fresh window is overwhelmingly dominated by Samsung Galaxy Unpacked (July 21-22); nearly all non-Samsung AI-gadget items surfaced were pre-July-14 (CES 2026, MWC, spring launches) and gated NOT-FRESH. Dropped as already-published cards in news_data: samsung-health-assistant (07-23), z-flip8-cover-screen (07-26), gemma-4-pixel-tpu / gemini-nano-4-fold8 (07-25), samsung-intelligent-eyewear (07-25), geminilivemini (07-24), plus yesterday's amd-x100-robots/byd-xiaodi-robot/brainco-bci-robot/looki-ai-pendant/meta-glasses-subscription. Dropped as too old: Meta LED-camera privacy update (07-08), Nothing Ear 3a (07-07), Roborock Saros 20 review (07-13, ~1.5d pre-cutoff), Copilot discrete-GPU (06-14), Snapdragon X2 (CES), Oura/Whoop AI (May), Google TV Gemini (Jan-Mar), DJI Romo P (Nov/Apr). Dropped as relevance noise: Roborock Saros 10R discount deal (07-28), Elon Musk AI-device-to-investors (business, 07-01). Remaining 5 are the distinct, uncovered, device-AI stories left in the window (4 outlets; 9to5Google x2 within cap). Non-Samsung fresh gadget news is genuinely exhausted for this 336h window.",
+  "note": "Freshness window 336h (cutoff 2026-07-15T22:04:32Z). Every item gated FRESH via pipeline/freshness.py with a WebFetch-verified published_iso (byline/JSON-LD datePublished). Searched the gadgets allowed_domains WIDE across AI glasses, AI wearables/smart rings, on-device phone AI (Apple Intelligence/Galaxy AI/Pixel), Copilot+/NPU laptops, smart-home assistants (Gemini for Home/Alexa+), humanoid/home robots, robot vacuums, AI earbuds, XR. Blocked-to-crawler domains this run: theverge.com, cnet.com, wired.com, zdnet.com, arstechnica.com. REALITY: the July 15-29 fresh window is overwhelmingly dominated by Samsung Galaxy Unpacked (Jul 21-22), and news_data already has cards published for the bulk of it and adjacent stories: gemini-nano-4-fold8 (androidauthority 3690495), galaxy-watch-9-health (Android Central), samsung-intelligent-eyewear, gemini task automation, ai-activity-dashboard, gemini-live first-gen speakers, Pixel-10 Gemma-4 TPU, Meta glasses review + subscriptions (Gizmodo), 1X Neo hands, Honor Robot Phone, AMD X100/BYD/BrainCo robots, Nest Cam July update, Garmin Cirqa, Ultrahuman, Framework desktop, Augmental MouthPad. Those were EXCLUDED as duplicates. Most non-Samsung AI-gadget items that surfaced were pre-cutoff (CES 2026, MWC, Computex, spring launches) and gated NOT-FRESH (e.g. Meta AI pendant 05-30, Snapdragon C 05-28, Oura women's-health AI 02-25, Nothing Phone 4b 07-07, OpenAI keyboard 07-15 ~0.6h past cutoff, AMD Ryzen AI 400 01-05, Nvidia RTX Spark 06-03). The 5 below are the distinct, fresh, largely-uncovered device-AI stories left in the window (4 outlets; Gizmodo x2 within the <=3 cap). Item #5 (Fold 8 hardware redesign) overlaps published Fold 8 coverage in angle only; flagged for the curator to dedupe against news_data.",
   "items": [
     {
+      "url": "https://gizmodo.com/the-meta-ray-ban-displays-dumb-smart-glasses-ai-is-dumb-no-more-2000791752",
+      "source": "Gizmodo",
       "category": "gadgets",
-      "title": "Gemini task automation expands to 40+ apps, Samsung shows off two more Android XR glasses",
-      "url": "https://9to5google.com/2026/07/22/gemini-task-automation-samsung/",
-      "source": "9to5Google",
-      "published_iso": "2026-07-22T13:05:00Z",
-      "excerpt": "Google expanded Gemini's on-device task automation to over 40 apps across shopping, restaurant reservations, travel booking and event tickets, debuting on Samsung's new Galaxy Z foldables. The agentic assistant can read on-screen context and complete multi-step actions inside third-party apps without the user hopping between them.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-task-automation-fold-8-1.jpg?quality=82&strip=all&w=1600"
+      "published_iso": "2026-07-28T11:05:00-04:00",
+      "og_image": "https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17.jpg",
+      "excerpt": "Meta has begun rolling out an improved Muse Spark AI model to its Ray-Ban Display smart glasses, its only screen-equipped pair. The upgraded on-glasses assistant is described as snappier, more natural, and far better at following what the wearer is doing."
     },
     {
+      "url": "https://gizmodo.com/oura-ring-5-review-the-best-smart-ring-right-now-and-its-not-close-2000785576",
+      "source": "Gizmodo",
       "category": "gadgets",
-      "title": "Samsung's latest foldables gain a new way to keep tabs on AI",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-ai-assistant-activity-dashboard-3690155/",
+      "published_iso": "2026-07-28T07:00:00-04:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
+      "excerpt": "A review of the fifth-gen Oura smart ring, 40% smaller than before, with the built-in Oura Advisor AI delivering personalized health guidance from the wearer's biometric data. It makes the case for on-body AI wellness coaching over always-on companion gadgets."
+    },
+    {
+      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-07-23T11:19:00-07:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "A hands-on with iOS 27's rebuilt Apple Intelligence Siri praises its expanded on-device knowledge, conversational interface, personal-context awareness, and unified in-app actions across iPhone, iPad, and Mac. It reads as the first Siri that finally delivers on Apple's AI promises."
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/amazon-just-turned-alexa-into-a-full-blown-app-store/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-07-23T12:00:00-04:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/06/Amazon-Echo-Hub-3.jpg?resize=1200%2C720",
+      "excerpt": "Amazon's new Alexa+ developer toolkit lets smart-home device makers plug their full feature sets directly into the AI assistant instead of burying them in separate apps. Bosch, Whirlpool, iRobot, Govee, Yale Home, and Eufy are the first partners onboard."
+    },
+    {
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-3688636/",
       "source": "Android Authority",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "excerpt": "One UI 9 on the Galaxy Z Fold 8, Fold 8 Ultra and Flip 8 introduces a central AI Assistant Activity dashboard, a single place to monitor the background AI automations that Gemini Intelligence performs on your behalf. It is Samsung's attempt to make on-device agentic AI transparent and controllable as assistants start acting autonomously.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard-3.jpg"
-    },
-    {
       "category": "gadgets",
-      "title": "Galaxy Watch 9, Watch Ultra 2 are here: Samsung's health partners bring soft comfort and more",
-      "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/galaxy-watch-9-watch-ultra-2-are-here-samsung-health-partners-launch",
-      "source": "Android Central",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "excerpt": "Samsung launched the Galaxy Watch 9 and rugged Watch Ultra 2 with new AI-driven health features including a personalized health coach, a Fitness Index, Vascular Load and expanded sleep and heart insights tied to its new AI Health Assistant. The wearables lean on upgraded internals for longer, more accurate on-body monitoring.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pVHnWGB8JJwGSUs6EGiLE7-2048-80.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "Samsung Galaxy Watch Ultra 2 review: the best Samsung watch ever created",
-      "url": "https://www.techradar.com/health-fitness/smartwatches/samsung-galaxy-watch-ultra-2-review",
-      "source": "TechRadar",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "excerpt": "A hands-on review of Samsung's rugged flagship smartwatch finds its real-time AI health insights, improved tracking accuracy and returning Running Coach make it the strongest Galaxy watch to date. The verdict weighs how much of the AI coaching genuinely changes daily use versus adding noise.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/9EoGQZxdqZUqj9KveLmbMo-2560-80.jpg"
-    },
-    {
-      "category": "gadgets",
-      "title": "I briefly tried Gemini Intelligence, and I'm still not sure who it's for",
-      "url": "https://9to5google.com/2026/07/23/i-briefly-tried-gemini-intelligence-and-im-still-not-sure-who-its-for/",
-      "source": "9to5Google",
-      "published_iso": "2026-07-23T15:30:00Z",
-      "excerpt": "A hands-on with Gemini Intelligence, the new on-device agentic layer debuting on Samsung's Galaxy Z Fold 8, questions whether the automated task-running and gen-UI widgets actually fit how people use their phones. It is an early, skeptical read on the first wave of always-on agent hardware experiences.",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Gemini-Intelligence-Task-Automation-on-Galaxy-Z-Fold-8-wide-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      "published_iso": "2026-07-22T09:00:00-04:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-galaxy-z-fold-8-hero.jpg",
+      "excerpt": "Samsung's Galaxy Z Fold 8 arrives wider, thinner, and lighter, with a redesigned aspect ratio and Gemini-powered on-device AI at its center, positioning the foldable against Apple's upcoming first foldable and iPhone Ultra."
     }
   ]
 }

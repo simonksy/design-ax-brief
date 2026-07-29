@@ -1,64 +1,70 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "movies",
   "selection_mode": "auto",
-  "note": "User deferred (알아서) — curator auto-picked (unattended scheduled run). Input pool had 4 candidates; Deadline + Variety both covered the Reply AI Film Festival jury (same event) so only one was kept. That leaves 3 distinct fresh stories, all dedup-clean vs sections.movies history (07-22..07-28). Floor 3 met; pool exhausted so 3 picks (no padding). Kept the Variety Reply item over Deadline's to yield 3 distinct outlets (HR, Deadline, Variety); distinct palette accents assigned since all share the movies category.",
+  "note": "User deferred (알아서) — curator auto-picked. Fresh pool genuinely too small: of 6 candidates, 4 duplicate stories already published in sections.movies on 2026-07-29 and were dropped (see dedup_report). Only 2 never-before-seen fresh stories remain, so the set falls one short of floor 3 rather than pad or re-use a published story. Both surviving picks are from 2 distinct outlets; distinct palette accents assigned since both share the movies category.",
   "picks": [
     {
-      "title": "“I Spent 15 Years Making Movies the Old Way. Now I’m, Reluctantly, an AI Guy”",
-      "headline": "“I Spent 15 Years Making Movies the Old Way. Now I’m, Reluctantly, an AI Guy”",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-moviemaking-production-1236647473/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-07-15T11:05:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DSC00794-1.jpg?w=1296&h=730&crop=1",
-      "excerpt": "A producer with 15 years of traditional moviemaking experience walks through his shift to generative-AI tools in pre- and post-production, arguing that folding AI into the workflow can lower costs and democratize filmmaking rather than replace human creativity — a first-person view of how AI is reshaping a working film craftsperson's pipeline.",
+      "title": "This new tool aims to identify and trace AI videos back to their source models",
+      "headline": "This new tool aims to identify and trace AI videos back to their source models",
+      "url": "https://nofilmschool.com/ai-tracing-tool",
+      "source": "No Film School",
+      "published_iso": "2026-07-28T20:11:57Z",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334",
+      "excerpt": "A UC Riverside team built SAGA (Source Attribution of Generative AI Videos), one of the first large-scale frameworks to trace an AI-generated clip back to the model that made it by reading the distinctive visual 'fingerprints' each generator leaves behind - a provenance tool with direct implications for deepfakes, rights and AI disclosure in filmmaking.",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "High actionability: a working producer's concrete, first-person account of how generative AI folds into a real pre/post pipeline — changes how a filmmaker approaches tomorrow's workflow."
+      "rationale": "First large-scale framework to attribute an AI clip back to its generator model — a fresh, actionable provenance tool for rights, disclosure and deepfake tracing. Not previously published in this section."
     },
     {
-      "title": "AI feature 'Gods Don't Give Gifts' poised to make the leap from YouTube to the big screen",
-      "headline": "AI feature 'Gods Don't Give Gifts' poised to make the leap from YouTube to the big screen",
-      "url": "https://deadline.com/2026/07/gossip-goblin-ai-feature-gods-dont-give-gifts-youtube-theaters-1236998952/",
-      "source": "Deadline",
-      "published_iso": "2026-07-22T16:09:41Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/07/Gods-Dont-Give-Gifts-still.png?w=1024",
-      "excerpt": "'Gods Don't Give Gifts,' a fully AI-generated feature from the Gossip Goblin channel, is set to become the next AI film to jump from a large YouTube following to theatrical release — a concrete case study in generative-AI filmmaking reaching mainstream distribution.",
+      "title": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026",
+      "headline": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026",
+      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
+      "source": "RedShark News",
+      "published_iso": "2026-07-28T11:16:04Z",
+      "og_image": "https://www.redsharknews.com/hubfs/nvidia%20nemoclaw.jpg",
+      "excerpt": "At SIGGRAPH 2026 NVIDIA introduced a Synthetic Video Detector NIM microservice to help newsrooms and broadcasters flag AI-generated video, and showcased AI-agent integrations (via MCP) reaching into creative tools like Adobe and Unreal Engine - signalling how detection and agentic AI are entering the production and post pipeline.",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Novel milestone: a fully AI-generated feature crossing from a YouTube audience to theatrical release — a distribution data point every AI filmmaker will track. Distinct outlet and angle from the other picks."
-    },
-    {
-      "title": "Reply AI Film Festival reveals jury: Rob Minkoff, Catherine Hardwicke",
-      "headline": "Reply AI Film Festival reveals jury: Rob Minkoff, Catherine Hardwicke",
-      "url": "https://variety.com/2026/film/festivals/reply-ai-film-festival-jury-rob-minkoff-catherine-hardwicke-1236822490/",
-      "source": "Variety",
-      "published_iso": "2026-07-28T14:30:43Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/minkoff-hardwicke.jpg?w=1000&h=563&crop=1",
-      "excerpt": "The Venice-adjacent Reply AI Film Festival for AI-made shorts has revealed its jury, including 'The Lion King' director Rob Minkoff and 'Twilight' director Catherine Hardwicke, ahead of its winners announcement — a marker of established filmmakers engaging with generative-AI short-film craft.",
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "Credibility + signal: name-brand directors jurying an AI-shorts festival marks mainstream craft legitimacy. Kept over the duplicate Deadline coverage of the same event to give the final set three distinct outlets."
+      "rationale": "NVIDIA ships a Synthetic Video Detector microservice plus MCP agent hooks into Adobe/Unreal — a concrete detection + agentic shift for the post pipeline, from a distinct outlet. Not previously published in this section."
     }
   ],
-  "shortfall": false,
+  "shortfall": true,
   "dedup_report": {
-    "candidates_evaluated": 4,
-    "kept": 3,
-    "dropped_as_duplicates": 1,
+    "candidates_evaluated": 6,
+    "kept": 2,
+    "dropped_as_duplicates": 4,
     "floor": 3,
     "cap": 5,
+    "shortfall_reason": "Fresh pool genuinely too small — only 2 distinct never-before-published stories exist. Floor 3 not met; no padding and no re-use of already-published stories per the hard dedup rule.",
     "drops": [
+      {
+        "title": "Lightcraft launches beta for Spark Story interactive previz tool",
+        "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
+        "source": "postPerspective",
+        "reason": "Same event as published 'sparkstory' card (awn.com, 'Lightcraft opens Spark Story beta at SIGGRAPH 2026') in sections.movies — same release via a different outlet."
+      },
+      {
+        "title": "SIGGRAPH: 'Kok Boru' director Amina Omirjan talks frankly about the making of Higgsfield AI's new short",
+        "url": "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/",
+        "source": "Animation Magazine",
+        "reason": "Same story as published 'kok boru' card in sections.movies (Higgsfield Kök Börü short, human-conditioned production) — already covered."
+      },
+      {
+        "title": "AI YouTuber Gossip Goblin plans to release AI film 'Gods Don't Give Gifts' in movie theaters",
+        "url": "https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068/",
+        "source": "Variety",
+        "reason": "Same film as published 'gods-gifts' card (Deadline) in sections.movies — same event via a different outlet. Collector flagged this Deadline+Variety pair as topic-dedup."
+      },
       {
         "title": "Venice-set Reply AI Film Festival unveils finalists and jury",
         "url": "https://deadline.com/2026/07/venice-set-reply-ai-film-festival-jury-gabriele-salvatores-1237005581/",
         "source": "Deadline",
-        "reason": "Same event as the Variety 'Reply AI Film Festival reveals jury' item (Venice-adjacent Reply AI Film Festival jury reveal). Per the same-event dedup rule only the single best is kept; Variety retained to achieve three distinct outlets in the final set."
+        "reason": "Same festival announcement as published 'reply-jury' card (Variety) in sections.movies — same event via a different outlet. Collector flagged this Deadline+Variety pair as topic-dedup; earliest-wins (already published 07-29)."
       }
     ],
-    "history_checked_against": "news_data.json sections.movies today(07-28) + days(07-22..07-25); no URL or topic overlap with the 3 kept picks."
+    "history_checked_against": "news_data.json sections.movies today(07-29: reluctant-ai, gods-gifts, reply-jury) + days(07-23/07-24: autodesk, animaj, nightborne, hpzcaptis, premiere-genmedia, kok-boru, sam2matte, sparkstory)."
   }
 }

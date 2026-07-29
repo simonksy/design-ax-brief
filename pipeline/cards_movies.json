@@ -1,70 +1,85 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "movies",
   "cards": [
     {
-      "id": "reluctant-ai",
+      "id": "saga-ai-video-source-attribution",
       "eyebrow": "AI NEWS",
-      "headline": "15년 전통 영화 제작자\n이제 마지못해 AI로 간다",
-      "body": "무너지는 중예산 영화를 살리려, 15년 경력의 제작자가 마지못해 생성형 AI 제작 도구로 돌아섰다.",
-      "mini_headline": "마지못해 AI로 간 제작자",
+      "headline": "AI 영상을 만든 모델까지\n역추적하는 도구 SAGA",
+      "body": "UC 리버사이드 연구팀이 생성 영상에 남은 시각적 지문을 읽어 원본 모델을 추적한다.",
+      "mini_headline": "AI 영상 출처 추적",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-moviemaking-production-1236647473/",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/ai-tracing-tool",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {"t":"p","x":"15년 동안 나는 전통적인 방식으로 영화를 만들었다. 익스펜더블, 해즈 폴른, 히트맨의 경호원, 람보, 헬보이 같은 프랜차이즈에서 독립영화 임원으로 일하며 새벽 4시 촬영장의 마법을 알았다. AI가 사운드스테이지가 아니라 컴퓨터 안에서 영화를 만들어내는 걸 처음 봤을 때 나는 경이가 아니라 슬픔을 느꼈다."},
-          {"t":"img","src":"https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DSC00794-1.jpg?w=1296&h=730&crop=1","cap":"스콧 이스트우드와 제작자 조너선 융거가 2차 세계대전 배경 영화 '럭키 스트라이크' 촬영장에 있다."},
-          {"t":"p","x":"AI 옹호자가 되는 걸 나는 거부했다. 알고리즘이 감독을 대체하고 AI '여배우'가 스타가 된다는 생각이 불쾌하고 두려웠다. 그런데도 입장을 바꿨다. 열정이 아니라 어쩔 수 없어서였다."},
-          {"t":"p","x":"영화 경제학이 크게 흔들렸다. 한때 3,500만 달러였던 중예산 영화가 이제 무모한 도박 취급을 받고, 마진이 해마다 줄어 내 경력을 지탱하던 셈법이 통하지 않는다. 개봉작은 걸러 하나꼴로 속편이나 리부트, 기존 IP 각색이다. 진짜 희생양은 예산이 아니라 독창성이다. 스튜디오가 검증 안 된 이야기에 베팅할 명분을 못 찾으면서 다음 라이언 쿠글러나 클로이 자오, 폴 토머스 앤더슨이 나올 자리가 사라진다."},
-          {"t":"p","x":"영화를 아는 사람이 AI 도구 개발에서 빠지면 기술은 우리가 사랑하는 예술과 더 멀어진다. 기술은 어차피 온다. 문제는 누구의 손이 그것을 빚느냐다. 제작 현장의 AI는 사람을 대체하는 게 아니라, 애초에 본질이 아니었던 공정에서 비용과 마찰을 걷어내야 한다. 영화 한 편의 결정 수천 개 중 대부분은 연기나 대본이 아니라 반복과 조율, 아이디어를 완성된 프레임으로 바꾸는 값비싼 노동이다. 이 과정을 압축하면 4,000만 달러짜리 이야기가 일부 비용으로 가능해진다."},
-          {"t":"p","x":"값싼 영화가 늘면 영화가 많아지고 새 목소리에게 기회가 돌아간다. 지켜야 할 원칙은 하나, 창의성을 막지 않고 지키는 것이다. 이미 증명도 했다. 행크 호프먼과 나는 생성형 AI 도구 모음 아르카나(Arcana)를 만들었다. 대본에서 완성된 장면까지 서사의 통제력과 일관성을 지키고 데이터와 초상을 보호하는 통합 시스템이다."},
-          {"t":"p","x":"2025년 우리는 단편 에코 헌터(Echo Hunter)로 SAG-AFTRA 계약을 맺었다. AI로 만든 영화도 배우와 작가, 감독, 작곡가 같은 실제 사람을 중심에 둘 수 있음을 보이려 했다. 카반 더 키드가 연출한 이 작품은 배우의 목소리와 표정을 실제로 담은 뒤 애니메이션과 시각효과에 아르카나를 썼고, 제작비는 5만 달러가 채 안 됐다."},
-          {"t":"video","yt":"B-lfTmZp1DE"},
-          {"t":"p","x":"가장 자랑스러운 건 그 노조 계약이다. 에코 헌터는 AI 도구와 인간의 창의성이 노조도 인정할 조건에서 공존할 수 있음을 보여준다. 이 단편의 유튜브 조회수는 50만 회에 가깝다. 모든 스튜디오와 플랫폼이 곧 같은 결정을 마주한다. 내가 권하는 태도는 예술가가 이끄는 AI지, AI가 이끄는 예술이 아니다. 나는 영화인을 없애려고 회사를 시작한 게 아니라, 그들을 고용하는 산업이 싸워보지도 못하고 무너지는 걸 볼 수 없어서 시작했다. AI가 할리우드를 어떻게, 얼마나 빨리, 누구의 방식으로 바꿀지는 우리의 선택으로 남아 있다."}
+          {
+            "t": "p",
+            "x": "UC 리버사이드 연구팀이 SAGA(Source Attribution of Generative AI Videos)를 내놨다. 가짜인지 아닌지를 가리는 데서 그치지 않고, 그 영상을 만든 AI 시스템까지 되짚는 틀이다. 지도교수는 아밋 로이초두리, 이끈 사람은 박사과정 로힛 쿤두다."
+          },
+          {
+            "t": "p",
+            "x": "원리는 이렇다. 생성기가 프레임에 남기는 특유의 시각 패턴을 읽어낸다. 쿤두는 \"이 패턴은 생성 모델이 남긴 지문 같은 것\"이라고 설명했다. 생성기마다 서로 다른 포렌식 서명을 남기니, 이를 갈라낼 수 있다는 이야기다."
+          },
+          {
+            "t": "p",
+            "x": "프레임과 프레임 사이에서 시각 요소가 어떻게 바뀌는지를 뜯어본다. 생성기마다 이 전환을 다루는 방식이 다르고 남는 아티팩트도 제각각이라는 점을 파고든 접근이다."
+          },
+          {
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334",
+            "cap": "AI 생성 영상의 출처를 되짚는 SAGA 프레임워크"
+          },
+          {
+            "t": "p",
+            "x": "딥페이크와 AI 허위정보가 불어나는 지금, 디지털 포렌식 조사관이 허위정보 캠페인을 출처까지 되짚도록 돕는 장치다. 이 연구에는 유튜브, 구글 딥마인드가 함께 참여했다."
+          }
         ]
       }
     },
     {
-      "id": "gods-gifts",
+      "id": "nvidia-synthetic-video-detector-mcp-siggraph",
       "eyebrow": "AI NEWS",
-      "headline": "유튜브에서 태어난 AI 장편\n극장 개봉을 눈앞에 두다",
-      "body": "가십 고블린 채널이 통째로 AI로 만든 장편이 유튜브 구독층을 발판 삼아 극장 개봉으로 넘어갈 채비를 한다.",
-      "mini_headline": "극장 향하는 AI 장편",
+      "headline": "NVIDIA가 딥페이크 탐지와\nAI 에이전트를 함께 열다",
+      "body": "엔비디아가 시그래프 2026에서 합성 영상 탐지 NIM과 MCP를 공개했다.",
+      "mini_headline": "합성 영상 탐지 NIM",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/07/gossip-goblin-ai-feature-gods-dont-give-gifts-youtube-theaters-1236998952/",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {"t":"p","x":"유튜브 채널 가십 고블린(Gossip Goblin)이 만든 장편 '갓츠 돈트 기브 기프츠(Gods Don't Give Gifts)'가 처음부터 끝까지 AI로 제작됐다. 이 작품은 유튜브에서 쌓은 두터운 구독층을 발판 삼아 극장 개봉으로 넘어가는 다음 AI 영화가 될 참이다."},
-          {"t":"img","src":"https://deadline.com/wp-content/uploads/2026/07/Gods-Dont-Give-Gifts-still.png?w=1024","cap":"'갓츠 돈트 기브 기프츠' 스틸컷"},
-          {"t":"p","x":"온라인에서 모은 시청자를 그대로 극장으로 데려간다는 점에서, 생성형 AI로 만든 영화가 주류 배급에 닿는 구체적인 사례가 된다."}
-        ]
-      }
-    },
-    {
-      "id": "reply-jury",
-      "eyebrow": "AI NEWS",
-      "headline": "리플 AI 영화제 심사위원에\n롭 민코프·캐서린 하드윅",
-      "body": "AI 단편을 겨루는 리플 AI 영화제가 롭 민코프와 캐서린 하드윅을 심사위원으로 세웠다.",
-      "mini_headline": "AI 영화제 심사위원 공개",
-      "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/festivals/reply-ai-film-festival-jury-rob-minkoff-catherine-hardwicke-1236822490/",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {"t":"p","x":"베네치아와 나란히 열리는 리플 AI 영화제(Reply AI Film Festival)가 AI로 만든 단편을 겨루는 심사위원단을 공개했다. '라이온 킹'의 롭 민코프 감독과 '트와일라잇'의 캐서린 하드윅 감독이 이름을 올렸다."},
-          {"t":"img","src":"https://variety.com/wp-content/uploads/2026/07/minkoff-hardwicke.jpg?w=1000&h=563&crop=1","cap":"롭 민코프와 캐서린 하드윅"},
-          {"t":"p","x":"수상작 발표를 앞두고 나온 이번 명단은, 이미 자리를 잡은 감독들이 생성형 AI 단편 제작에 직접 관여하기 시작했다는 신호다."}
+          {
+            "t": "p",
+            "x": "엔비디아가 시그래프 2026에서 두 가지를 꺼냈다. 하나는 미디어 검증용 합성 영상 탐지기, 다른 하나는 MCP(Model Context Protocol)로 창작 도구 곳곳에 손을 뻗는 AI 에이전트다."
+          },
+          {
+            "t": "p",
+            "x": "합성 영상 탐지 NIM 마이크로서비스는 뉴스룸과 방송사가 합성 영상을 가려내도록 돕는다. 영상을 프레임 단위로 뜯어보고, 합성 요소가 섞였는지 분류 점수로 내놓는다. 편집팀은 이 점수로 \"검토 우선순위를 매기거나, 의심스러운 클립을 표시·격리하거나, 추가 확인으로 넘길\" 수 있다. 엔비디아는 이 도구가 \"기존 팩트체크를 대신하는 게 아니라 검증 과정에 보태는 신호\"라고 선을 그었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.redsharknews.com/hs-fs/hubfs/agentic-ai-nemoclaw-on-dgx-station-siggraph26-1920x1080-1.jpg?width=1920&height=1080&name=agentic-ai-nemoclaw-on-dgx-station-siggraph26-1920x1080-1.jpg",
+            "cap": "시그래프 2026 DGX 스테이션 위의 에이전틱 AI 네모클로"
+          },
+          {
+            "t": "p",
+            "x": "정확도는 무압축 영상에서 92%, 15% 압축에서 87%, 50% 압축에서 82%다. 처리 속도는 RTX에서 1080p 기준 22밀리초, L40 GPU에서는 30밀리초다. 뉴스룸과 소셜 영상에서 흔한 압축·리사이즈·크롭·재인코딩까지 감당하고, 온프레미스와 에지, 하이브리드, 에어갭 환경에 두루 배치된다. 첫 파트너로는 Waza가 자사 Video Intelligence Framework에 탐지기를 붙였다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.redsharknews.com/hs-fs/hubfs/nvidiaai%20agents.jpg?width=1920&height=1084&name=nvidiaai%20agents.jpg",
+            "cap": "창작 도구로 뻗어가는 엔비디아의 AI 에이전트"
+          },
+          {
+            "t": "p",
+            "x": "MCP 연동도 넓어졌다. 어도비는 Firefly·Express·크리에이티브 클라우드 전반으로 에이전트를 확장하고, Canva의 Affinity는 Claude용 AI 커넥터를 더해 레이어 이름 바꾸기와 대량 편집을 맡긴다. 블렌더, Boris FX Silhouette, Foundry Griptape, SideFX Houdini 22, 언리얼 엔진도 각자 MCP를 통해 에이전트가 씬과 프로젝트 상태를 읽고 다루도록 문을 열었다."
+          }
         ]
       }
     }
