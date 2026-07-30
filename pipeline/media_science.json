@@ -2,25 +2,9 @@
   "date": "2026-07-30",
   "section": "science",
   "media": [
-    {
-      "id": "raygun-protein-redesign",
-      "type": "image",
-      "src": "pipeline/media/raygun-protein-redesign.jpg"
-    },
-    {
-      "id": "quantum-rl-self-calibration",
-      "type": "image",
-      "src": "pipeline/media/quantum-rl-self-calibration.png"
-    },
-    {
-      "id": "single-sensor-ultrasound-ai",
-      "type": "image",
-      "src": "pipeline/media/single-sensor-ultrasound-ai.jpg"
-    },
-    {
-      "id": "solid-state-battery-database",
-      "type": "image",
-      "src": "pipeline/media/solid-state-battery-database.jpg"
-    }
+    { "id": "quantum-ml-neoantigen", "type": "image", "src": "pipeline/media/quantum-ml-neoantigen.png" },
+    { "id": "quantum-neural-net-barren", "type": "image", "src": "pipeline/media/quantum-neural-net-barren.png" },
+    { "id": "alphafold-impossible-structures", "type": "image", "src": "pipeline/media/alphafold-impossible-structures.jpg" },
+    { "id": "ai-drug-discovery-data-loop", "type": "image", "src": "pipeline/media/ai-drug-discovery-data-loop.jpg" }
   ]
 }

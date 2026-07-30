@@ -1,49 +1,91 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-31",
   "section": "gadgets",
-  "now_iso": "2026-07-29T22:04:32Z",
+  "now_iso": "2026-07-30T22:07:33Z",
   "window_hours": 336,
-  "note": "Freshness window 336h (cutoff 2026-07-15T22:04:32Z). Every item gated FRESH via pipeline/freshness.py with a WebFetch-verified published_iso (byline/JSON-LD datePublished). Searched the gadgets allowed_domains WIDE across AI glasses, AI wearables/smart rings, on-device phone AI (Apple Intelligence/Galaxy AI/Pixel), Copilot+/NPU laptops, smart-home assistants (Gemini for Home/Alexa+), humanoid/home robots, robot vacuums, AI earbuds, XR. Blocked-to-crawler domains this run: theverge.com, cnet.com, wired.com, zdnet.com, arstechnica.com. REALITY: the July 15-29 fresh window is overwhelmingly dominated by Samsung Galaxy Unpacked (Jul 21-22), and news_data already has cards published for the bulk of it and adjacent stories: gemini-nano-4-fold8 (androidauthority 3690495), galaxy-watch-9-health (Android Central), samsung-intelligent-eyewear, gemini task automation, ai-activity-dashboard, gemini-live first-gen speakers, Pixel-10 Gemma-4 TPU, Meta glasses review + subscriptions (Gizmodo), 1X Neo hands, Honor Robot Phone, AMD X100/BYD/BrainCo robots, Nest Cam July update, Garmin Cirqa, Ultrahuman, Framework desktop, Augmental MouthPad. Those were EXCLUDED as duplicates. Most non-Samsung AI-gadget items that surfaced were pre-cutoff (CES 2026, MWC, Computex, spring launches) and gated NOT-FRESH (e.g. Meta AI pendant 05-30, Snapdragon C 05-28, Oura women's-health AI 02-25, Nothing Phone 4b 07-07, OpenAI keyboard 07-15 ~0.6h past cutoff, AMD Ryzen AI 400 01-05, Nvidia RTX Spark 06-03). The 5 below are the distinct, fresh, largely-uncovered device-AI stories left in the window (4 outlets; Gizmodo x2 within the <=3 cap). Item #5 (Fold 8 hardware redesign) overlaps published Fold 8 coverage in angle only; flagged for the curator to dedupe against news_data.",
+  "count": 9,
+  "note": "Single-category ('gadgets') section, 14-day/336h freshness window (start 2026-07-16T22:07:33Z). Every kept item's published time was verified via curl on article:published_time / JSON-LD datePublished (search snippets never trusted) and gated FRESH through pipeline/freshness.py. Weighting followed the rotation plan: de-emphasize the just-published 07-30 clusters (Meta Ray-Ban smart glasses, Oura smart ring, iOS 27 Siri, Alexa+) and the prior AI-PC/ambient-home leaning; emphasize under-covered HUMANOID/HOME ROBOTS, EDGE AI SILICON, AI COMPANION/POCKET DEVICES, standalone AI CAMERA. Landed 9 fresh candidates across 6 distinct outlets. Per-outlet: engadget 3 (Friend / DJI Osmo / Sonos), androidauthority 2 (Halliday / Snap), theverge 1, macrumors 1, tomshardware 1, techradar 1 -- all within the wide-funnel <=3 cap. Cluster spread: robots/embodied-AI 1, AI companion device 1, AI companion wearable 1, AI camera 2, ambient AI audio 1, edge/on-device AI silicon 1, smart glasses 2 (held to 2 given the cluster is saturated). WebSearch budget was fully exhausted (200/200, shared across the parallel librarian run) partway through -- the pool was then completed via curl on outlet RSS feeds and article meta tags. DROPPED as STALE (date-verified, outside 336h window): Viaim RecDot AI earbuds (androidcentral 2026-07-15, just before window start), Acer AI TransBuds (tomsguide 2025-05-21), EarFun Air Pro 4+ AI translation (androidcentral 2026-02-11), Narwal Flow 2 review (techradar 2026-04-18), DJI Romo P vs Roborock obstacle (techradar 2026-04-12), Tom's Guide AI Awards 2026 (2026-05-08), TechRadar July gadgets roundup (2026-06-29), Snapdragon X2 Elite benchmark (tomsguide 2025-11-19), Zenbook A16 X2 review (tomshardware 2026-04-07), Apple wearable trifecta pendant (tomsguide 2026-02-18), UploadVR Android XR autospatialization (2025-12-08 / 2026-05-21), RoadToVR Pico Project Swan (2026-03-02) + Android XR glasses (2026-05-19) + Pico Vision Pro rival (2025-11-26), Engadget Gemini-for-Home camera automations (2026-05-27), IEEE Spectrum humanoid Video Friday items (2026-05-01 / 2026-06-12 / 2025-10-24), TechRadar Nvidia-Unitree-Sharpa (2026-06-01), 1X NEO preorder (engadget/notebookcheck 2025-10-28). DROPPED as off-topic (business/infra/policy, no design-craft hook): AMD Helios / Nvidia-SK $500B / OpenAI Codex Micro macropad funding-adjacent items, US FCC robot-vacuum ban (policy), Snapdragon price hike, SK hynix/SSD component-crisis pieces, Samsung smartphone-division loss, Amazon Claude overspend. BLOCKED (could not verify time, dropped): VentureBeat Figure self-correcting robot (HTTP 429 + empty curl meta), dpreview Caira camera (HTTP 403). Social: section defines no youtube/instagram channels, so none scoped. The 9to5google 'Gemini living room on wheels' home-robot item was dropped because its link resolved to a newsletter roundup, not a standalone article.",
   "items": [
     {
-      "url": "https://gizmodo.com/the-meta-ray-ban-displays-dumb-smart-glasses-ai-is-dumb-no-more-2000791752",
-      "source": "Gizmodo",
+      "title": "Google DeepMind's Gemini Robotics 2 can control a humanoid robot's entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-07-28T11:05:00-04:00",
-      "og_image": "https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17.jpg",
-      "excerpt": "Meta has begun rolling out an improved Muse Spark AI model to its Ray-Ban Display smart glasses, its only screen-equipped pair. The upgraded on-glasses assistant is described as snappier, more natural, and far better at following what the wearer is doing."
+      "published_iso": "2026-07-30T17:18:45Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200",
+      "excerpt": "Google DeepMind announced Gemini Robotics 2, a model that adds intelligent whole-body control so a humanoid robot can coordinate its arms, torso and base together -- tying up trash bags, unscrewing lightbulbs and handling multi-step chores. A concrete step toward general-purpose embodied AI in consumer-facing home robots."
     },
     {
-      "url": "https://gizmodo.com/oura-ring-5-review-the-best-smart-ring-right-now-and-its-not-close-2000785576",
-      "source": "Gizmodo",
+      "title": "OpenAI's first device is a screenless, movable AI companion speaker -- with a smartphone to follow",
+      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-07-28T07:00:00-04:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
-      "excerpt": "A review of the fifth-gen Oura smart ring, 40% smaller than before, with the built-in Oura Advisor AI delivering personalized health guidance from the wearer's biometric data. It makes the case for on-body AI wellness coaching over always-on companion gadgets."
+      "published_iso": "2026-07-28T18:00:00-07:00",
+      "og_image": "https://images.macrumors.com/t/bzVs-8bKuClS_OQgMN-mbh9HsqQ=/2500x/article-new/2026/05/OpenAI-Smartphone-Feature.jpg",
+      "excerpt": "OpenAI's hardware roadmap has sharpened: its first product is a portable, screenless smart speaker built with former Apple design chief Jony Ive as an at-home AI companion, with a camera to understand its surroundings and a smartphone reportedly arriving as soon as next year. A design-led rethink of what an AI-native home device looks like."
     },
     {
-      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
-      "source": "9to5Mac",
+      "title": "That Friend AI wearable you don't like just got worse",
+      "url": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-23T11:19:00-07:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "A hands-on with iOS 27's rebuilt Apple Intelligence Siri praises its expanded on-device knowledge, conversational interface, personal-context awareness, and unified in-app actions across iPhone, iPad, and Mac. It reads as the first Siri that finally delivers on Apple's AI promises."
+      "published_iso": "2026-07-30T21:34:11Z",
+      "og_image": "https://www.engadget.com/img/gallery/that-ai-wearable-you-dont-like-just-got-worse/l-intro-1785447171.jpg",
+      "excerpt": "The new Friend pendant adds a speaker and updated models but doubles down on the same off-putting always-listening AI-companion premise. A pointed look at how a physical AI wearable's interaction design -- not just its models -- shapes whether people actually want to live with it."
     },
     {
-      "url": "https://www.digitaltrends.com/computing/amazon-just-turned-alexa-into-a-full-blown-app-store/",
-      "source": "Digital Trends",
+      "title": "DJI Osmo Pocket 4P review: the gimbal camera goes pro with dual lenses",
+      "url": "https://www.engadget.com/2226364/dji-osmo-pocket-4p-review/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-23T12:00:00-04:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/06/Amazon-Echo-Hub-3.jpg?resize=1200%2C720",
-      "excerpt": "Amazon's new Alexa+ developer toolkit lets smart-home device makers plug their full feature sets directly into the AI assistant instead of burying them in separate apps. Bosch, Whirlpool, iRobot, Govee, Yale Home, and Eufy are the first partners onboard."
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/dji-osmo-pocket-4p-review/l-intro-1785434430.jpg",
+      "excerpt": "DJI's pocket gimbal camera goes 'pro' with two lenses, optical zoom, class-leading dynamic range and AI subject tracking. A creator-focused standalone AI camera that reshapes how solo shooters capture and follow subjects on the move."
     },
     {
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-3688636/",
+      "title": "Sonos schedules a September product event -- and it's likely about AI",
+      "url": "https://www.engadget.com/2227306/sonos-ai-product-event-september-2026/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-07-30T18:40:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/sonos-ai-product-event-september-2026/l-intro-1785439300.jpg",
+      "excerpt": "Sonos has set a September event that's expected to center on AI, signaling the audio maker's push to fold generative and assistant AI into its speakers and home-audio hardware. An early read on how ambient home-audio devices get reframed around AI."
+    },
+    {
+      "title": "Exploring Apple Silicon's local AI performance with the Mac Studio and M4 Max",
+      "url": "https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-07-30T14:52:28Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7CNCn9fXJZV5ZAHnri4ZWE-1920-80.jpg",
+      "excerpt": "A hands-on benchmark of on-device LLM performance across Apple's M4 Max, NVIDIA's GB10 and AMD Strix Halo, finding the M4 Max leads on decode throughput while memory bandwidth alone doesn't decide the winner. A concrete look at which consumer hardware actually runs local AI well for creative and dev workloads."
+    },
+    {
+      "title": "Halliday G2: camera-free smart glasses bring heads-up meeting AI",
+      "url": "https://www.androidauthority.com/halliday-g2-smart-glasses-launch-3689649/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-07-22T09:00:00-04:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/samsung-galaxy-z-fold-8-hero.jpg",
-      "excerpt": "Samsung's Galaxy Z Fold 8 arrives wider, thinner, and lighter, with a redesigned aspect ratio and Gemini-powered on-device AI at its center, positioning the foldable against Apple's upcoming first foldable and iPhone Ultra."
+      "published_iso": "2026-07-21T13:00:34Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Halliday-G2-with-Case.jpg",
+      "excerpt": "The Halliday G2 skips the camera and instead leans on binocular micro-LED displays and a 'Meeting Flow' AI that delivers live translation, captioning, research lookups and post-meeting transcripts in a sub-50g frame. A privacy-forward take on how AI eyewear can assist without recording everyone around you."
+    },
+    {
+      "title": "Snap sets a September event to launch its consumer AR Specs",
+      "url": "https://www.androidauthority.com/snap-specs-ar-glasses-september-event-3692940/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-07-30T17:45:44Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/snap-specs-launch-glass.jpg",
+      "excerpt": "Snap has scheduled a September event to launch its standalone consumer AR Specs, its bid to bring AI-powered spatial computing to a mainstream wearable. A signal of how the AR-glasses race is heating up beyond Meta and Google as a new AI-first consumer form factor."
+    },
+    {
+      "title": "Insta360's CEO on 'robot vision': where the camera maker's AI is heading",
+      "url": "https://www.techradar.com/cameras/exclusive-heres-what-insta360s-founder-and-ceo-told-me-when-i-asked-about-his-controversial-photography-robot-vision",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-07-29T12:50:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZKtx7XJHQMeibHmrgmauxc-2000-80.jpg",
+      "excerpt": "Insta360's founder discusses making the company's cameras more intelligent and autonomous through 'robot vision,' while insisting human experience and creativity stay central to the shooting process. A look at how AI is reshaping the craft of computational and autonomous photography gear."
     }
   ]
 }

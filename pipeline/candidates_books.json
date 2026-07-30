@@ -1,54 +1,46 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "books",
-  "now_iso": "2026-07-29T22:04:32Z",
+  "now_iso": "2026-07-30T22:07:33Z",
   "window_hours": 336,
-  "note": "Section=books, 14-day window (336h; start 2026-07-15T22:04:32Z). Searched ONLY the books category allowed_domains (publishersweekly.com, thebookseller.com, goodereader.com, janefriedman.com, lithub.com, publishingperspectives.com, bookriot.com, scholarlykitchen.sspnet.org, kindlepreneur.com, thecreativepenn.com, electricliterature.com, teleread.org, the-digital-reader.com). Each item WebFetched and gated with freshness.py against real published_time (og article:published_time / JSON-LD). The AI-in-books beat is GENUINELY SPARSE in this 14-day window - it is dominated by the Anthropic $1.5B copyright-settlement cluster plus the Stony Brook AI-detection study. Extensive keyword expansion (AI narration/audiobook, AI translation/KDP, AI book cover, generative fiction, AI ghostwriting, self-publishing, ElevenLabs, ScholarlyKitchen, Korean AI 출판) surfaced mostly STALE items (pre-Jul-15). DROPPED as STALE/off-window: Publishing Perspectives 'US Publishers Sue Google/Gemini' (Jul 14), PW 'New lawsuit aims to stop Google' (Jul 13), Good e-Reader 'Kindle new AI Translations' (Jul 1), PW 'Some Listeners Prefer AI Narration for Multi-Voice' (Jul 14), lithub Odyssey/Michael Caine + Authors-Guild-certify + Tokarczuk (all May-Jun), Good e-Reader Story So Far (Jun 9) / Ask This Book (Dec 2025), The Bookseller Michael Caine Odyssey (Jun 24) + Bloomsbury opt-in (Aug 2025), lithub 'harder to spot AI' (Apr 16), PW 'Global AI Data Analytics Startups' (Jul 10). NOTE: items #2 (Anthropic settlement) and #4 (PP AI course) also appeared in the 2026-07-28 run; kept here because still inside today's window - ax-curator will dedup against recent days and backfill. #1 (Daggermouth study, Jul 29) and #3 (Bloomsbury settlement figure, Jul 23) are net-new. Outlet spread: Book Riot 1, Publishers Weekly 1, The Bookseller 1, Publishing Perspectives 2 (<=3 cap OK). Total: 5 fresh candidates.",
+  "count": 4,
+  "note": "WIDE funnel for the single 'books' category, restricted to its allowed_domains. Books window = 14 days / 336h (start ~2026-07-16T22:07Z); every item gated FRESH via `python3 pipeline/freshness.py <iso> 2026-07-30T22:07:33Z books`. Fresh, design/craft-relevant books+AI news in this window was genuinely THIN and outlet diversity is low (3 Publishing Perspectives at the =3 collection cap + 1 Books+Publishing = 2 distinct outlets). WHY: the dominant fresh story of the window was the $1.5B Anthropic copyright-settlement final approval (PW article 100888, Jul 20; TheBookseller) which is a copyright/business/legal item with no design hook -> DROPPED per the relevance rule (and it was on the ax-planner's deprioritized 'training-data lawsuits' list). Almost every production/craft angle I searched (AI audiobook narration/voice-clone, ElevenLabs/Spotify/Audible, Sudowrite/NovelAI, AI book covers, AI children's-book illustration, AI webtoon/manga, AI literary translation tools, AI ghostwriting/editing) surfaced only date-verified STALE items: PW 'USBS 2026: Audible Not Done Growing' (Jun 1), PW 'ElevenLabs: A Voice in Publishing' (May 18), PW 'ElevenLabs adds 200K audiobooks' (May 28), PW 'Ghostwriting Group AI Best Practices' (Apr 23), PW 'PEN America translators' (Apr 7), PP 'IPA 2026 Innovation Awards' Shimmr/Ailaysa (Jul 8 -> 22d, stale), goodereader Amazon voice-replica narrators (Sep 2024) / Korean-webtoon-AI (Feb 2024) / Leeanna Morgan (Jun 2024), lithub Tokarczuk-AI-novel (May 19) / Bob-Dylan-AI-fiction (Mar 31) / NZ-Ockham-AI-covers-disqualified (Nov 2025) / 'Everyone is an AI Cop Now' (May 22), bookriot Google-Play-Books-Gemini-chatbot (Jun 17) / Jamir-Nazir-Commonwealth-prize (Jul 1) / '20,000 AI stories' (Jun 21), thebookseller Apple-AI-audiobooks (2023) / 'AI narration is inevitable' (2022), the-digital-reader Amazon-cover-generator (403, unverifiable), Scholarly Kitchen 'shared standard for AI disclosure' (Jul 13 -> STALE by ~3 days). Shared WebSearch budget hit 200/200 mid-recovery-pass, so no further keyword expansion (Sudowrite/NovelAI, AI poetry, AI reading-assistant, AI proofreading, Korean 동화책/웹툰 terms) could be swept. Instagram: no handles defined for books -> skipped. Downstream ax-curator should expect to backfill from other sections or accept <5 for books today.",
   "items": [
     {
-      "category": "books",
-      "source": "Book Riot",
-      "title": "Stony Brook study finds viral BookTok bestseller Daggermouth is 60% AI-written",
-      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "excerpt": "Using the AI-detection tool Pangram, Stony Brook University researchers found that roughly one in five randomly sampled Kindle ebooks contain substantial AI-generated text - and flagged #BookTok favorite Daggermouth by H.M. Wolfe as 60% AI-written. A concrete, method-driven look at how AI-generated fiction is slipping into bestseller lists and how detection now works.",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg"
-    },
-    {
-      "category": "books",
-      "source": "Publishers Weekly",
-      "title": "Judge gives final approval to the $1.5 billion Anthropic author-copyright settlement",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100888-judge-gives-final-approval-in-1-5-billion-settlement-in-anthropic-copyright-case.html",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "excerpt": "A federal judge approved the landmark $1.5 billion settlement over Anthropic's use of roughly 500,000 pirated books to train its Claude models, with authors and publishers eligible for about $3,000 per infringed work. The largest reported copyright recovery to date, it sets a reference point for how AI training on books gets licensed and paid for.",
-      "og_image": ""
-    },
-    {
-      "category": "books",
-      "source": "The Bookseller",
-      "title": "Bloomsbury set to collect ~$18.7m from the Anthropic AI-copyright settlement",
-      "url": "https://www.thebookseller.com/news/bloomsbury-lands-14m-in-anthropic-ai-settlement",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "excerpt": "Bloomsbury became the first major publisher to quantify its share of the Anthropic settlement - about $18.7m across roughly 14,000 titles, generally split with authors. An early signal of how the AI-training copyright reckoning is beginning to translate into real payouts for publishers and writers.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd27.jpg"
-    },
-    {
-      "category": "books",
-      "source": "Publishing Perspectives",
-      "title": "Publishing Perspectives launches a course to help publishers navigate the AI age responsibly",
+      "title": "Announcing a Course to Help Publishers Navigate the AI Age Responsibly",
       "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "A four-week online course beginning January 2027 aims to give publishing professionals practical frameworks for implementing AI in editorial and production workflows and setting organizational policy. A signal of houses trying to operationalize AI in the craft rather than just debate it.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png"
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png",
+      "excerpt": "Publishing Perspectives is launching a four-week online course and live seminar series to help publishing professionals build practical systems and organizational guidelines around AI usage across the workflow. A workflow/adoption angle for design and publishing orgs figuring out where generative AI fits into editorial, production and marketing craft."
     },
     {
-      "category": "books",
+      "title": "In Praise of the Translators Who Transport Us Across the Globe",
+      "url": "https://publishingperspectives.com/2026/07/in-praise-of-the-translators-who-transport-us-across-the-globe/",
       "source": "Publishing Perspectives",
-      "title": "Around the Book World: Dutch publishers launch Bookpact.ai as AI-licensing control tightens",
+      "category": "books",
+      "published_iso": "2026-07-29T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-28-at-12.53.51-PM-793x396.png",
+      "excerpt": "An argument for literary translation as cultural infrastructure and skilled craft, set against survey data showing translators losing work and income to generative AI. A craft-side counterweight to the industry's rush toward AI-assisted book translation."
+    },
+    {
+      "title": "Researchers to Investigate Local Editor and Publisher AI Use",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
+      "source": "Books+Publishing",
+      "category": "books",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "",
+      "excerpt": "University of Melbourne and RMIT researchers are surveying editors and publishers about how they actually use generative AI tools in independent publishing practice. A grounded look at where AI is entering real editorial and production workflows, rather than the hype."
+    },
+    {
+      "title": "Around the Book World: July 27, 2026",
       "url": "https://publishingperspectives.com/2026/07/around-the-book-world-july-27-2026/",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "excerpt": "This roundup gathers the week's AI-in-publishing moves: a Dutch publisher coalition's Bookpact.ai platform lets houses license books to AI firms title-by-title with set compensation, alongside the Bloomsbury/Anthropic payout and reports of AI firms buying secondhand German books for training. A snapshot of publishers building opt-in machinery for how their books feed AI.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png"
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-07-27T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+      "excerpt": "A weekly international roundup whose AI items include the Hong Kong Book Fair's 'Reading for All in the Age of AI' theme (how AI could reshape reading and critical thinking) and Bloomsbury's share of the $1.5B Anthropic copyright settlement. Lower-value roundup included only because single-story fresh books+AI items were scarce this window; curator may prefer a stronger pick if backfilling from other sections."
     }
   ]
 }

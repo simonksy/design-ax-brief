@@ -1,70 +1,66 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "movies",
   "selection_mode": "auto",
-  "note": "User deferred (알아서) — curator auto-picked. Fresh pool genuinely too small: of 6 candidates, 4 duplicate stories already published in sections.movies on 2026-07-29 and were dropped (see dedup_report). Only 2 never-before-seen fresh stories remain, so the set falls one short of floor 3 rather than pad or re-use a published story. Both surviving picks are from 2 distinct outlets; distinct palette accents assigned since both share the movies category.",
+  "count": 3,
+  "note": "User deferred (알아서) — curator auto-picked by scoring. Fresh pool after URL+CONTENT dedup vs sections.movies history held only 3 distinct stories: the candidates file had 4 items, of which items 3 & 4 were the SAME Puget 'Robo Dojo' SIGGRAPH event from two outlets (ProVideo + RedShark). Deduped Puget to the RedShark version so the final set spans 3 distinct outlets (postPerspective, ProVideo, RedShark) per the diversity guard. Picked 3 at the floor; not padded because no further unique fresh candidates exist. All three share the movies category, so distinct palette accents were assigned.",
   "picks": [
     {
-      "title": "This new tool aims to identify and trace AI videos back to their source models",
-      "headline": "This new tool aims to identify and trace AI videos back to their source models",
-      "url": "https://nofilmschool.com/ai-tracing-tool",
-      "source": "No Film School",
-      "published_iso": "2026-07-28T20:11:57Z",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334",
-      "excerpt": "A UC Riverside team built SAGA (Source Attribution of Generative AI Videos), one of the first large-scale frameworks to trace an AI-generated clip back to the model that made it by reading the distinctive visual 'fingerprints' each generator leaves behind - a provenance tool with direct implications for deepfakes, rights and AI disclosure in filmmaking.",
+      "title": "Autodesk Adds AI and 3DGS Tools Across Maya, 3ds Max and More",
+      "headline": "Autodesk Adds AI and 3DGS Tools Across Maya, 3ds Max and More",
+      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
+      "source": "postPerspective",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Autodesk-Updates-SIGGRAPH-MAIN-624x416.jpg",
+      "excerpt": "At SIGGRAPH 2026 Autodesk added a 'Bring Your Own Data' feature to Maya's MotionMaker, letting studios train custom generative motion models on their own rigs and mocap, plus editable 3D Gaussian splats in 3ds Max for folding AI-captured environments into shots. A craft-level shift in how animators and VFX artists generate and edit performance and scenes.",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "First large-scale framework to attribute an AI clip back to its generator model — a fresh, actionable provenance tool for rights, disclosure and deepfake tracing. Not previously published in this section."
+      "rationale": "Highest actionability: a concrete Maya/3ds Max release (BYOD generative motion models + editable 3DGS) that changes how animators and VFX artists work tomorrow; novel SIGGRAPH 2026 announcement from a credible post-production outlet."
     },
     {
-      "title": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026",
-      "headline": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026",
-      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
-      "source": "RedShark News",
-      "published_iso": "2026-07-28T11:16:04Z",
-      "og_image": "https://www.redsharknews.com/hubfs/nvidia%20nemoclaw.jpg",
-      "excerpt": "At SIGGRAPH 2026 NVIDIA introduced a Synthetic Video Detector NIM microservice to help newsrooms and broadcasters flag AI-generated video, and showcased AI-agent integrations (via MCP) reaching into creative tools like Adobe and Unreal Engine - signalling how detection and agentic AI are entering the production and post pipeline.",
+      "title": "Is this the future of filmmaking?",
+      "headline": "Is this the future of filmmaking?",
+      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-07-28T12:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+      "excerpt": "Damian Allen walks through a hybrid AI film-set approach built on Beeble's SwitchLight, where AI transforms backgrounds and relighting while real actor performances and camera work are preserved -- a middle ground between traditional production and fully synthetic generation. A hands-on read on how AI relighting reshapes the on-set and post workflow.",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "NVIDIA ships a Synthetic Video Detector microservice plus MCP agent hooks into Adobe/Unreal — a concrete detection + agentic shift for the post pipeline, from a distinct outlet. Not previously published in this section."
+      "rationale": "Hands-on workflow read on a hybrid AI set (SwitchLight relighting over real performance) that directly informs on-set and post decisions; distinct URL and content from the earlier stale SwitchLight 3.0 launch item."
+    },
+    {
+      "title": "Puget Systems' Robo Dojo proves SIGGRAPH attendees have all the fun",
+      "headline": "Puget Systems' Robo Dojo proves SIGGRAPH attendees have all the fun",
+      "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
+      "source": "RedShark News",
+      "published_iso": "2026-07-22T09:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
+      "excerpt": "Puget Systems' SIGGRAPH 2026 'Robo Dojo' turns attendees into real-time MetaHuman avatars battling AI robots using LiDAR scanning and LED-volume virtual production, a live demo of markerless motion capture and real-time rendering feeding a game-engine pipeline. A tactile snapshot of where performance capture and virtual production are heading for film.",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Snapshot of markerless mocap + real-time virtual production direction for film; deduped from the twin ProVideo item and kept via RedShark to reach three distinct outlets in the final set."
     }
   ],
   "shortfall": true,
   "dedup_report": {
-    "candidates_evaluated": 6,
-    "kept": 2,
-    "dropped_as_duplicates": 4,
+    "candidates_evaluated": 4,
+    "kept": 3,
+    "dropped_as_duplicates": 1,
     "floor": 3,
     "cap": 5,
-    "shortfall_reason": "Fresh pool genuinely too small — only 2 distinct never-before-published stories exist. Floor 3 not met; no padding and no re-use of already-published stories per the hard dedup rule.",
+    "shortfall_reason": "Floor 3 met exactly. Candidate pool had only 4 items; items 3 & 4 were the same Puget 'Robo Dojo' event, so one was dropped as an intra-pool duplicate. No further unique fresh stories exist — no padding, no re-use of published stories.",
     "drops": [
       {
-        "title": "Lightcraft launches beta for Spark Story interactive previz tool",
-        "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
-        "source": "postPerspective",
-        "reason": "Same event as published 'sparkstory' card (awn.com, 'Lightcraft opens Spark Story beta at SIGGRAPH 2026') in sections.movies — same release via a different outlet."
-      },
-      {
-        "title": "SIGGRAPH: 'Kok Boru' director Amina Omirjan talks frankly about the making of Higgsfield AI's new short",
-        "url": "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/",
-        "source": "Animation Magazine",
-        "reason": "Same story as published 'kok boru' card in sections.movies (Higgsfield Kök Börü short, human-conditioned production) — already covered."
-      },
-      {
-        "title": "AI YouTuber Gossip Goblin plans to release AI film 'Gods Don't Give Gifts' in movie theaters",
-        "url": "https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068/",
-        "source": "Variety",
-        "reason": "Same film as published 'gods-gifts' card (Deadline) in sections.movies — same event via a different outlet. Collector flagged this Deadline+Variety pair as topic-dedup."
-      },
-      {
-        "title": "Venice-set Reply AI Film Festival unveils finalists and jury",
-        "url": "https://deadline.com/2026/07/venice-set-reply-ai-film-festival-jury-gabriele-salvatores-1237005581/",
-        "source": "Deadline",
-        "reason": "Same festival announcement as published 'reply-jury' card (Variety) in sections.movies — same event via a different outlet. Collector flagged this Deadline+Variety pair as topic-dedup; earliest-wins (already published 07-29)."
+        "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
+        "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
+        "source": "ProVideo Coalition",
+        "reason": "Same Puget 'Robo Dojo' SIGGRAPH activation as the kept RedShark item — intra-pool duplicate. Kept the RedShark version to reach 3 distinct outlets in the final set (postPerspective, ProVideo, RedShark)."
       }
     ],
-    "history_checked_against": "news_data.json sections.movies today(07-29: reluctant-ai, gods-gifts, reply-jury) + days(07-23/07-24: autodesk, animaj, nightborne, hpzcaptis, premiere-genmedia, kok-boru, sam2matte, sparkstory)."
+    "history_checked_against": "news_data.json sections.movies today(07-30: kok-boru, sam2matte, promiseai, raindanceimgn) + days(07-25: smartroto, sparkstory, griptape; 07-27: netflix300, grokodyssey, servicemake, meshyagent; 07-28: martini, aitoolvetting; 07-29: reluctant-ai, gods-gifts, reply-jury). No candidate URL or story matched published history."
   }
 }

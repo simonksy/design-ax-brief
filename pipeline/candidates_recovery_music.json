@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-31",
+  "section": "music",
+  "now_iso": "2026-07-30T22:07:33Z",
+  "window_hours": 336,
+  "count": 2,
+  "note": "RECOVERY pass for music (floor 3; only 2 kept after dedup). WebSearch budget was exhausted (200/200), so this pass swept allowed_domains listing/tag pages via WebFetch: gearnews, cdm.link, synthtopia, musictech, bedroomproducersblog, musicradar, hypebot, attackmagazine, digitalmusicnews(403), theverge(blocked), djmag, mixmag(403), factmag, soundonsound, engadget/ai, plus YouTube channel pages (JS-only, no verifiable dates). The window (2026-07-16..07-30) is genuinely picked-over: nearly every fresh AI-craft item was already collected/published (Google Flow MBW, DubBox MusicRadar, ToneField+Dev Ocean Synthtopia, iZotope VEA, Deezer flood, ai-music-earnings, GEMA PLAI, BandLab/aiode) or STALE (FL Studio 2026 Gopher AI Jul 9, cdm Latent Terrain Jun 17, Synplant PhenoType Jun 10, iZotope->BorisFX Jul 2) or fresh-but-not-AI (reFX Rippler Jul 30, Reaktor 7 Jul 27, Super*Saw Jul 16) or fresh-but-business/legal (Hypebot AI-chart-standards Jul 30, Udio-sues-Sony, Suno-scraping). Two NEW distinct fresh AI-craft items surfaced via the MusicTech /tag/ai/ page and date-verified from JSON-LD: Project LYDIA (custom-AI live-performance pedal) and the Best Stem Separation Tools comparison. Both are musictech.com (within the =3/outlet collection cap; existing kept items are MBW + MusicRadar so overall outlet diversity holds). New items only; none duplicate candidates_music.json or news_data sections.music.",
+  "items": [
+    {
+      "title": "Neutone and Roland's Project LYDIA lets you design your own AI models for real-time performance",
+      "url": "https://musictech.com/features/interviews/roland-neutone-project-lydia/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-07-17T08:00:16Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
+      "excerpt": "Neutone and Roland are prototyping Project LYDIA, an AI effects pedal that lets musicians train, customise and hack their own neural-sampling AI models for real-time performance. 'You can open it up, you can hack it... you can really personalise it and make it your own,' says Neutone co-founder Andrew Fyfe — a hands-on, creator-owned take on AI as a live instrument rather than a black box."
+    },
+    {
+      "title": "Best stem separation tools 2026: 9 AI tools compared",
+      "url": "https://musictech.com/guides/buyers-guide/best-stem-separation-tools/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-07-29T04:00:26Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2025/07/Stem-Separation-guide-update-hero-credit-press@2000x1500.jpg",
+      "excerpt": "MusicTech tested nine leading AI stem-separation tools and found results vary sharply by track and instrument: Logic Pro wins for fast everyday splits, while MVSEP edges ahead on critical vocals and hardest-to-isolate parts. A practical, craft-side map of where neural source-separation actually helps producers in 2026. (Secondary pick: stem separation was rested in the day's rotation, included here to comfortably clear the recovery floor.)"
+    }
+  ]
+}

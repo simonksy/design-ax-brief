@@ -1,31 +1,50 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "books",
-  "now_iso": "2026-07-29T22:04:32Z",
+  "now_iso": "2026-07-30T22:07:33Z",
   "window_hours": 336,
-  "note": "Section=books, 14-day window (336h; start 2026-07-15T22:04:32Z). Searched ONLY the books category allowed_domains (publishersweekly.com, thebookseller.com, goodereader.com, janefriedman.com, lithub.com, publishingperspectives.com, bookriot.com, scholarlykitchen.sspnet.org, kindlepreneur.com, thecreativepenn.com, electricliterature.com, teleread.org, the-digital-reader.com). Each item WebFetched and gated with freshness.py against real published_time (og article:published_time / JSON-LD). The AI-in-books beat is GENUINELY SPARSE in this 14-day window - it is dominated by the Anthropic $1.5B copyright-settlement cluster plus the Stony Brook AI-detection study. Extensive keyword expansion (AI narration/audiobook, AI translation/KDP, AI book cover, generative fiction, AI ghostwriting, self-publishing, ElevenLabs, ScholarlyKitchen, Korean AI 출판) surfaced mostly STALE items (pre-Jul-15). DROPPED as STALE/off-window: Publishing Perspectives 'US Publishers Sue Google/Gemini' (Jul 14), PW 'New lawsuit aims to stop Google' (Jul 13), Good e-Reader 'Kindle new AI Translations' (Jul 1), PW 'Some Listeners Prefer AI Narration for Multi-Voice' (Jul 14), lithub Odyssey/Michael Caine + Authors-Guild-certify + Tokarczuk (all May-Jun), Good e-Reader Story So Far (Jun 9) / Ask This Book (Dec 2025), The Bookseller Michael Caine Odyssey (Jun 24) + Bloomsbury opt-in (Aug 2025), lithub 'harder to spot AI' (Apr 16), PW 'Global AI Data Analytics Startups' (Jul 10). NOTE: items #2 (Anthropic settlement) and #4 (PP AI course) also appeared in the 2026-07-28 run; kept here because still inside today's window - ax-curator will dedup against recent days and backfill. #1 (Daggermouth study, Jul 29) and #3 (Bloomsbury settlement figure, Jul 23) are net-new. Outlet spread: Book Riot 1, Publishers Weekly 1, The Bookseller 1, Publishing Perspectives 2 (<=3 cap OK). Total: 5 fresh candidates.",
+  "count": 4,
+  "note": "WIDE funnel for the single 'books' category, restricted to its allowed_domains. Books window = 14 days / 336h (start ~2026-07-16T22:07Z); every item gated FRESH via `python3 pipeline/freshness.py <iso> 2026-07-30T22:07:33Z books`. Fresh, design/craft-relevant books+AI news in this window was genuinely THIN and outlet diversity is low (3 Publishing Perspectives at the =3 collection cap + 1 Books+Publishing = 2 distinct outlets). WHY: the dominant fresh story of the window was the $1.5B Anthropic copyright-settlement final approval (PW article 100888, Jul 20; TheBookseller) which is a copyright/business/legal item with no design hook -> DROPPED per the relevance rule (and it was on the ax-planner's deprioritized 'training-data lawsuits' list). Almost every production/craft angle I searched (AI audiobook narration/voice-clone, ElevenLabs/Spotify/Audible, Sudowrite/NovelAI, AI book covers, AI children's-book illustration, AI webtoon/manga, AI literary translation tools, AI ghostwriting/editing) surfaced only date-verified STALE items: PW 'USBS 2026: Audible Not Done Growing' (Jun 1), PW 'ElevenLabs: A Voice in Publishing' (May 18), PW 'ElevenLabs adds 200K audiobooks' (May 28), PW 'Ghostwriting Group AI Best Practices' (Apr 23), PW 'PEN America translators' (Apr 7), PP 'IPA 2026 Innovation Awards' Shimmr/Ailaysa (Jul 8 -> 22d, stale), goodereader Amazon voice-replica narrators (Sep 2024) / Korean-webtoon-AI (Feb 2024) / Leeanna Morgan (Jun 2024), lithub Tokarczuk-AI-novel (May 19) / Bob-Dylan-AI-fiction (Mar 31) / NZ-Ockham-AI-covers-disqualified (Nov 2025) / 'Everyone is an AI Cop Now' (May 22), bookriot Google-Play-Books-Gemini-chatbot (Jun 17) / Jamir-Nazir-Commonwealth-prize (Jul 1) / '20,000 AI stories' (Jun 21), thebookseller Apple-AI-audiobooks (2023) / 'AI narration is inevitable' (2022), the-digital-reader Amazon-cover-generator (403, unverifiable), Scholarly Kitchen 'shared standard for AI disclosure' (Jul 13 -> STALE by ~3 days). Shared WebSearch budget hit 200/200 mid-recovery-pass, so no further keyword expansion (Sudowrite/NovelAI, AI poetry, AI reading-assistant, AI proofreading, Korean 동화책/웹툰 terms) could be swept. Instagram: no handles defined for books -> skipped. Downstream ax-curator should expect to backfill from other sections or accept <5 for books today.",
   "items": [
     {
+      "title": "In Praise of the Translators Who Transport Us Across the Globe",
+      "url": "https://publishingperspectives.com/2026/07/in-praise-of-the-translators-who-transport-us-across-the-globe/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "source": "Book Riot",
-      "title": "Stony Brook study finds viral BookTok bestseller Daggermouth is 60% AI-written",
-      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "excerpt": "Using the AI-detection tool Pangram, Stony Brook University researchers found that roughly one in five randomly sampled Kindle ebooks contain substantial AI-generated text - and flagged #BookTok favorite Daggermouth by H.M. Wolfe as 60% AI-written. A concrete, method-driven look at how AI-generated fiction is slipping into bestseller lists and how detection now works.",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg"
+      "published_iso": "2026-07-29T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-28-at-12.53.51-PM-793x396.png",
+      "excerpt": "An argument for literary translation as cultural infrastructure and skilled craft, set against survey data showing translators losing work and income to generative AI. A craft-side counterweight to the industry's rush toward AI-assisted book translation."
     },
     {
+      "title": "Researchers to Investigate Local Editor and Publisher AI Use",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
+      "source": "Books+Publishing",
       "category": "books",
-      "source": "Publishing Perspectives",
-      "title": "Publishing Perspectives launches a course to help publishers navigate the AI age responsibly",
-      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "excerpt": "A four-week online course beginning January 2027 aims to give publishing professionals practical frameworks for implementing AI in editorial and production workflows and setting organizational policy. A signal of houses trying to operationalize AI in the craft rather than just debate it.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png"
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "",
+      "excerpt": "University of Melbourne and RMIT researchers are surveying editors and publishers about how they actually use generative AI tools in independent publishing practice. A grounded look at where AI is entering real editorial and production workflows, rather than the hype."
+    },
+    {
+      "title": "Researchers attempt to prove that generative AI dilutes the market for books",
+      "url": "https://janefriedman.com/researchers-attempt-to-prove-that-generative-ai-dilutes-the-market-for-books/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-07-29T16:00:00Z",
+      "og_image": "",
+      "excerpt": "A new study tries to put empirical numbers on a fear authors have voiced for years: that the flood of generative-AI-written books measurably shrinks the market and attention available to human-authored work. A creative-industry counterpart to the AI-detection studies the beat already runs, framing how AI-generated output reshapes what gets read and sold."
+    },
+    {
+      "title": "Poetry Foundation Library Scraped, Used to Make AI-Generated Educational Content",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100955-poetry-foundation-library-scraped-used-to-make-ai-generated-educational-content.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-07-30T10:00:00Z",
+      "og_image": "",
+      "excerpt": "Giggle Academy, a 'free learning' platform founded by Binance's CZ Zhao, scraped hundreds of copyrighted poems from the Poetry Foundation to auto-generate illustrated lessons and storybooks with no human curation. A concrete look at AI-generated creative/educational content at scale — and what fully-automated book-making does to poets and publishers. (Carries a copyright/scraping dimension; included as a second recovery option.)"
     }
   ],
   "dedup": {
-    "dropped": 3,
+    "dropped": 2,
     "kept": 2,
     "against_days": 5
   }

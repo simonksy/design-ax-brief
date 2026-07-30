@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-30",
+  "section": "design",
+  "now_iso": "2026-07-30T22:07:33Z",
+  "window_hours": 72,
+  "count": 3,
+  "note": "RECOVERY pass. WebSearch budget was in fact still EXHAUSTED (200/200) despite the replenish note, so this pass used direct RSS/listing fetches + curl date-verification against design allowed_domains, expanding into adjacent/sibling lanes not in keywords_design.json (typography/anti-AI fonts, design-org AI adoption/AX leadership, design-in-the-age-of-AI essays). Every item's published time verified via og:article:published_time / JSON-LD and gated FRESH through pipeline/freshness.py (window start 2026-07-27T22:07:33Z). None duplicate the 1 already-collected candidate (Engadget Nano Banana) or any URL in candidates_design.json / news_data sections.design (last 5 days). CHECKED-AND-DROPPED as stale/out-of-window or non-design-AI: cgchannel feed served a stale 2024 cache; 80.lv fresh items all game-dev/Roblox craft (no AI design hook); roadtovr/uploadvr all VR gaming + hardware (Steam Frame, Quest) not design x AI; fxguide freshest AI item SmartRoto Jul 16 + SwitchHDR Jul 9 (out of window); develop3d Nvidia-hybrid-AI-graphics Jul 22 + HP Z Captis/Adobe Substance Jul 22 (out of window); css-tricks freshest Jul 21 (no AI); logrocket freshest in-window Jul 27 Tailwind-vs-StyleX (not AI); theverge Jul 30 AI items all industry/business (LinkedIn AI-slop button, AI-bet situational awareness, Gemini Robotics) no design hook; dev.to ai/design tags = spam + industry noise. Considered-and-dropped as AI-business/weak-hook: creativebloq 'Apple ridiculed AI strategy is actually working' (branding-strategy commentary) + 'Tyla AI allegations animated music video' (entertainment controversy). NET: 3 new fresh design-relevant candidates across 3 distinct outlets (Creative Bloq, Smashing Magazine, UX Collective), lifting the section from 1 to 4 total (above floor 3).",
+  "items": [
+    {
+      "title": "Type designers have created a free font that poisons AI",
+      "url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/hCZp4o3EEtij6rJHs3HXZF-2560-80.png",
+      "excerpt": "Type designers have released ShieldFont, a free typeface engineered to corrupt AI model training on scraped text and imagery. A concrete craft-level response from the design/typography community to generative-AI data harvesting, giving designers a defensive tool against having their work ingested."
+    },
+    {
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "source": "Smashing Magazine",
+      "category": "tokens",
+      "published_iso": "2026-07-29T13:00:00Z",
+      "og_image": "https://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
+      "excerpt": "Andy Budd examines how AI is reshaping product design: the bull case gives designers greater autonomy and less need for permission to act, while the bear case exposes the skill gaps that autonomy makes harder to hide. A framing piece for how design roles and workflows shift as AI removes handoff friction."
+    },
+    {
+      "title": "Your people get AI. Get out of their way",
+      "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-07-29T21:58:04Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg",
+      "excerpt": "With every design org now reaching for the same AI tools, the argument is that the winners will be those willing to trust the practitioners who already understand them. A design-leadership / AX-adoption take on how teams should reorganize around AI rather than gatekeep it."
+    }
+  ]
+}

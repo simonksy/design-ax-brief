@@ -1,26 +1,16 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "games",
   "media": [
     {
-      "id": "unity7-mcp-server",
+      "id": "2d-to-3d",
       "type": "image",
-      "src": "pipeline/media/unity7-mcp-server.png"
+      "src": "pipeline/media/2d-to-3d.jpg"
     },
     {
-      "id": "dlss5-direct-final-frame",
+      "id": "games-ai-culture-war",
       "type": "image",
-      "src": "pipeline/media/dlss5-direct-final-frame.jpg"
-    },
-    {
-      "id": "indie-devs-avoid-genai",
-      "type": "image",
-      "src": "pipeline/media/indie-devs-avoid-genai.jpg"
-    },
-    {
-      "id": "studios-refusing-genai",
-      "type": "image",
-      "src": "pipeline/media/studios-refusing-genai.jpg"
+      "src": "pipeline/media/games-ai-culture-war.jpg"
     }
   ]
 }

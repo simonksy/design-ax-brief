@@ -1,61 +1,42 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-31",
   "section": "games",
-  "now_iso": "2026-07-29T22:04:32Z",
+  "now_iso": "2026-07-30T22:07:33Z",
   "window_hours": 336,
-  "count": 5,
-  "expanded": true,
-  "tried": "Section-scoped sweep of the games allowed_domains for AI x games news fresh within the 336h (14-day) window and NOT already published in news_data.json. WebSearch domain scoping rejected several whitelisted outlets as non-crawlable (eurogamer.net, gamesindustry.biz, ign.com, polygon.com, rockpapershotgun.com, vg247.com), so dates were verified with curl-based reads of article:published_time / JSON-LD datePublished on ~45 candidate URLs across 80.lv, gamedeveloper.com, gamesradar.com, pcgamer.com, wccftech.com, venturebeat.com, gamespot.com, thegamer.com, aftermath.site, kotaku.com, nme.com, destructoid.com, unity.com, unrealengine.com. Expanded keywords beyond the pool (NVIDIA ACE, Inworld, Unity/Unreal AI, generative NPC, text-to-3D, neural rendering/DLSS, procedural generation, AI localization/voice, world models/Genie, vibe coding, AI game asset tools). Dropped as ALREADY PUBLISHED (matched news_data games section): 80.lv Meshy 3D Agent, gamesradar 'Steam disclosure is the right move', pcgamer 'Steam Week in Review 2027-2028', gamesradar Steam 53k-games study, eurogamer Duskbloods hallucinations, wccftech Zelda iPadOS AI port. Dropped as STALE (before 2026-07-15T22:04Z edge): gamesradar 'good games cloned' vibe-coding warning (07-14), gamesradar '31% of Steam users' survey (07-08), thegamer Neverness AI-assets rework (05-07), thegamer '2026 AI gaming annoying' (01-04), pcgamer friendslop/Tesana/Genie items (Apr-Jul-early), wccftech DLSS5 sliders (03-16) & RTX-AI-tools (05-05), 80.lv Unity 6.2 gen-AI (2025-08), 80.lv Nwiro (06-04) & Hyper3D Rodin (06-03), gamedeveloper Unreal Engine 6 (06-17) & GameMaker Claude Code (04-30) & Roblox/Tencent/Unity-casual (Nov 2025-Feb 2026), aftermath Unreal Engine 6 AI reaction (06-17), venturebeat items (bot-blocked, unverifiable date). VentureBeat returned empty bodies to both curl and WebFetch (429/blocked), so its Rho Engine / Yoroll world-model items could not be date-verified and were excluded. Net: 5 fresh, unpublished, on-topic candidates across 4 outlets (gamesradar capped at 2). Genuinely fresh AND net-new AI x games craft news in the window is thin this cycle; target 5 met, per-source cap respected (max 2).",
+  "count": 3,
+  "note": "WIDE funnel restricted to the games category's allowed_domains (site-scoped WebSearch, then per-article published-time verification via curl on article:published_time / JSON-LD datePublished, gated through pipeline/freshness.py at the 336h/14-day games window; start 2026-07-16T22:07:33Z). Games x AI news is GENUINELY THIN this fortnight -- the vast majority of extractable game-AI stories cluster in Jan-Jun 2026 and re-gated STALE. Confirmed-STALE-and-dropped (date-verified via curl): gamedeveloper Unity 'prompt full casual games' (Feb 16), gamedeveloper Nexon-CEO-every-company-uses-AI (Nov 13 2025), gamedeveloper Tencent+Ubisoft NVIDIA NPCs (Jan 2024), gamedeveloper Tencent AI-3D-asset-tool (Nov 26 2025), gamedeveloper Scenario-Inc (Jan 2023), gamedeveloper Google-Cloud-vision (Mar 11), gamedeveloper Tencent-genAI-animation (Mar 24), gamedeveloper devs-worried-quality (Sep 16 2025), gamedeveloper Genie-not-a-game-engine Take-Two (Feb 4), gamedeveloper Capcom-genAI (Mar 23), gamedeveloper Nexon-Arc-Raiders-AI (Apr 1), gamedeveloper Godot-tolerates-AI (Jun 22), gamedeveloper Owlcat-genAI-Expanse (Mar 27), gamedeveloper Palworld-genAI (Jun 18), gamedeveloper PlayStation-AI (May 8), gamedeveloper Control-Resonant-Remedy (Feb 10); gamesradar Neverness-devs-admit-AI (May 7), gamesradar EA-boss-50-percent-AI (May 8 2024), gamesradar streamlabs-AI-cohost (Jan 13 2025); pcgamer 95-percent-enjoy-AI-NPCs (Mar 12), pcgamer Jennifer-Hale-AI (May 31), pcgamer Ubisoft-invests-more-AI (Jan 21); 80.lv NVIDIA-autonomous-characters (Jan 8 2025), 80.lv Hyper3D-Rodin-2.5 (Jun 3), 80.lv Meshcapade-Epic (Feb 24), 80.lv Maya-2026.1-MotionMaker (Jun 6 2025), 80.lv convert-videos-motion-data (Mar 9), 80.lv Reblium (Sep 2024), 80.lv GameMaker-spring (Apr 30), 80.lv Ubisoft-pour-money-AI (Jan 22); wccftech Fortnite-UEFN-AI-NPC (Apr 19), wccftech Dragon-Quest-X-Gemini (Mar 23), wccftech Popul8 (Apr 2023), wccftech NVIDIA-ACE-PUBG-beta (Jun 17), wccftech NVIDIA-ACE-PUBG-Naraka-inZOI (Jan 7 2025), wccftech Google-Cloud-9in10 (Apr 23); techcrunch Voyage-AI-RPG (Apr 21). CROSS-SECTION DEDUP: the 80.lv 'game-ai-expert-explains-where-ai-actually-belongs' (Luke Dicken Q&A, Jul 29, FRESH) was DROPPED here because the keywords cross-section note says that exact piece already ran in the design deck -- avoided re-picking to prevent card-id/media collision; kept the distinct gamesradar Luke Dicken 'culture war' framing (different URL/outlet, GDC Trends quotes) as the games-native option, final content-dedup left to the curator. DROPPED for weak/unverifiable design-relevance: pcgamer 'the-ais-are-weebs-too' (Jul 22, FRESH but body paywall-rendered; reads as general AI-culture, no clear game-dev tool/workflow/craft hook). Feeds swept with no additional in-window game-AI hit: gamedeveloper /latest-news + /keyword/generative-ai (freshest AI items all pre-Jul-16), pcgamer /software/ai p1-2 (rest is general AI-industry noise: Elon/Altman, data-center power, Suno hack, George Lucas, Linux -- all fail the design-relevance test), gamesradar /tag/ai (rest hardware/RAM/PS6-supply), wccftech /tag/ai (hardware+finance), kotaku/venturebeat/80.lv category pages JS-rendered/empty to curl. Social: WebSearch budget exhausted before YouTube pass; youtube.com results page returned only footer to WebFetch, no verifiable in-window upload surfaced; Instagram not defined for games category (skipped). Net: 3 FRESH, on-topic, distinct items across 3 distinct outlets (80.lv, GamesRadar+, PC Gamer). Below the target of 5 because the section's fresh (last-14-day) game x AI news is genuinely exhausted, not for lack of searching.",
   "items": [
     {
-      "title": "NVIDIA DLSS 5 hands over full control to artists to 'direct the final frame'",
-      "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
-      "source": "Wccftech",
+      "title": "Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner",
+      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-07-21T19:35:40Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
-      "excerpt": "A SIGGRAPH technical demo shows DLSS 5's neural rendering pipeline handing artists control to 'direct the final frame,' using a one-step pixel-space diffusion transform to reach 4K, life-like visuals on a single GPU. A craft shift: AI upscaling moves from a black box to a directable creative tool in the art pipeline."
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49153/images/6a4d6809c69e0/contain_1200x630.png",
+      "excerpt": "Rather than treating AI as a one-shot generator, Meshy's new conversational 3D Agent is built to help game artists brainstorm, iterate, and build style-consistent asset families through an ongoing dialogue before exporting production-ready models into existing pipelines. It positions generative 3D as a collaborator for concept exploration and background props while artists keep hero assets, topology, and creative judgment."
     },
     {
-      "title": "Unity unveils Unity 7 roadmap with an update path that won't break your build",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-07-21T02:00:00Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Unity's Unity 7 roadmap adds a CLI/public API and a free MCP server that wires coding agents directly into the engine, so creators and AI agents can validate assets, push builds, and collaborate side by side — framed as optional, with no breaking changes from Unity 6."
-    },
-    {
-      "title": "'It creates lesser games': Indie studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
-      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+      "title": "\"A couple of companies have managed to ignite a culture war\": Games AI veteran says it can be useful, but we've made mountains out of ChatGPT's molehills",
+      "url": "https://www.gamesradar.com/games/a-couple-of-companies-have-managed-to-ignite-a-culture-war-and-bring-the-economy-to-the-brink-of-collapse-games-ai-veteran-says-it-can-be-useful-but-weve-made-mountains-out-of-chatgpts-molehills/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-19T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
-      "excerpt": "Indie studios are supposedly the natural adopters of generative AI, yet 25 developers explain why they keep it out of their craft — arguing the tools 'create lesser games' and erode the hand-made quality players can feel. A grounded look at why the workflow promise isn't landing with small teams."
+      "published_iso": "2026-07-30T20:01:40Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/n5ePDh9VeKLrM8XNBwZ4YX-1920-80.jpg",
+      "excerpt": "Veteran games-AI researcher Luke Dicken argues the industry's real opportunity is richer, more adaptive player experiences and smarter production tooling -- not replacing human talent -- and that the loudest genAI hype and backlash have both overshot the actual craft. A grounded read on where machine learning genuinely changes how games get designed and balanced."
     },
     {
-      "title": "Half of all games released on Steam will use AI by 2028, study predicts: 'AI lowers the barrier not just to make a game but to make several'",
-      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
-      "source": "GamesRadar+",
+      "title": "New method teaches AI to make 2D designs 3D",
+      "url": "https://www.pcgamer.com/software/ai/new-method-teaches-ai-to-make-2d-designs-3d-and-now-im-afraid-this-will-be-how-the-robots-learn-to-build-themselves-without-us/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-07-16T21:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Fu4TJCX2kRcbsfxswuJM33-1920-80.jpg",
-      "excerpt": "A census of 53,000+ Steam titles finds AI-flagged releases jumped from 10.9% (2024) to 30.8% (2026) and projects half of all Steam games will use AI by 2028, as generative tooling lowers the barrier to shipping several games at once — reshaping the economics designers compete inside."
-    },
-    {
-      "title": "All The Video Game Studios That Refuse To Use Generative AI",
-      "url": "https://aftermath.site/video-games-no-ai/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-07-29T18:24:46Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg",
-      "excerpt": "A running roll-call of game studios publicly pledging to keep generative AI out of their development, with devs framing it as a craft-and-values stance — 'ownership of the work has to be traceable' and 'AI art will never match sentient creation' — a counterweight to the industry's AI-adoption push."
+      "published_iso": "2026-07-22T14:51:10Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg",
+      "excerpt": "A new AI technique converts flat 2D designs into usable 3D geometry, a workflow shift directly relevant to how game artists could turn concept art into game-ready assets. PC Gamer walks through what the method does and where it could plug into asset-creation pipelines."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 5,
+    "kept": 3,
     "against_days": 5
   }
 }

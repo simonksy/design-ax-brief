@@ -1,44 +1,52 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-07-molecular-ray-ai-tool-redesigns.html",
+      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
+      "excerpt": "Cleveland Clinic and IBM researchers built Q-CHIPP, a quantum machine-learning framework that predicts which tumor neoantigens will trigger an immune response, outperforming classical methods under data-limited conditions by learning biological patterns from as few as 150 samples on 46 qubits."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-07-28T12:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png",
+      "excerpt": "A new theoretical framework proposes two scalable quantum-circuit architectures and a parallel training method that mathematically avoids 'barren plateaus,' aiming to make large quantum neural networks trainable while keeping them hard to simulate classically."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-tools-protein-chemically-impossible.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-29T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/like-a-molecular-shrin.jpg",
-      "excerpt": "Raygun, an AI framework from Duke University, converts proteins into standardized mathematical representations learned from millions of natural sequences, letting researchers create shorter, longer and highly modified versions of proteins while preserving their structure and function."
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dynamics.jpg",
+      "excerpt": "Rensselaer Polytechnic Institute researchers found that leading AI protein-structure prediction tools frequently generate physically and chemically impossible results, exposing blind spots and arguing that physics-based molecular-dynamics verification and human oversight remain essential."
     },
     {
-      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-      "source": "Google Research",
+      "url": "https://phys.org/news/2026-07-ai-drug-discovery-qa.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
-      "excerpt": "Google Research demonstrated a reinforcement-learning framework in which an autonomous agent learns from quantum error detections to continuously steer thousands of control parameters, letting a quantum computer self-calibrate mid-computation instead of resetting."
+      "published_iso": "2026-07-23T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/drug-discovery-1.jpg",
+      "excerpt": "A University of Washington Q&A explains how AI now designs and optimizes drug candidates for delivery, stability and pharmacokinetics, tackling the bottleneck in which roughly 90% of candidates never reach the market, tied to a new institute for AI-enabled molecular design."
     },
     {
-      "url": "https://techxplore.com/news/2026-07-standardized-battery-database-ai-solid.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/accelerating-solid-sta.jpg",
-      "excerpt": "University of Maryland researchers built a standardized solid-state battery database of 245 records and 167 structured variables to enable consistent reporting and power AI-driven solid-state battery design and optimization."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-07-ai-powered-method-enables-instant.html",
-      "source": "Tech Xplore",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Technology Review",
       "category": "science",
       "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/instant-ultrasound-ima.jpg",
-      "excerpt": "IMDEA Materials Institute researchers developed an AI-powered ultrasound method that reconstructs a complete, accurate image from a single fixed sensor capturing one signal at a single instant, eliminating the need for complex multisensor arrays."
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
+      "excerpt": "AI is identifying therapeutic targets faster than ever, but the speed is exposing physical lab bottlenecks and a need for better-quality experimental data to close the loop between AI predictions and validated drug candidates."
     }
   ],
-  "count": 11,
+  "count": 6,
   "dedup": {
-    "dropped": 7,
-    "kept": 4,
+    "dropped": 1,
+    "kept": 5,
     "against_days": 5
   }
 }

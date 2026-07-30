@@ -1,77 +1,71 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-31",
   "section": "music",
   "selection_mode": "auto",
   "count": 4,
-  "note": "Auto-pick (user deferred). Pool held 5 fresh candidates; DJ Mag 'AI-generated music surpasses 50% of daily uploads on Deezer' DROPPED as a cross-outlet CONTENT duplicate of already-published 'deezer-ai-flood' (Music Business Worldwide, 2026-07-27) — same Deezer report/event. 4 distinct stories survive from 4 distinct outlets (Engadget, Bedroom Producers Blog, CMU, Hypebot). Floor 3 met; not padded.",
+  "note": "Auto-pick (user deferred). Wide funnel yielded only 4 distinct FRESH creative-tool items across 3 outlets (MBW, MusicRadar, MusicTech x2) — the 14-day window was genuinely sparse (see candidates note; most covering tools date-verified STALE). All 4 clear the URL+CONTENT dedup vs sections.music history (today 07-30 + days 07-24..07-29): none share a URL or event with published cards. The MusicTech stem-separation guide is NOT a dup of published zplane 'peelstems2' (07-24) — that was a single-product launch, this is a 9-tool comparison. Both recovery items (Roland/Neutone LYDIA, stem-separation comparison) kept: they clear AI-craft relevance and there is no stronger alternative to displace them. Diversity guard OK: MusicTech 2, MBW 1, MusicRadar 1 = 3 outlets, <=2/outlet. Floor 3 met; 4 genuine distinct stories, not padded.",
   "picks": [
     {
       "rank": 1,
-      "headline": "Major labels call for AI 'slop' songs to be banned from entering charts around the world",
+      "headline": "Google's Flow Music adds song generation, editing and stem splitting to Spaces, its 'vibe coding' tool",
       "tool": "Music",
       "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "url": "https://www.engadget.com/2226234/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/",
-      "source": "Engadget",
-      "published_iso": "2026-07-29T16:55:01Z",
-      "og_image": "https://www.engadget.com/img/gallery/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/l-intro-1785343993.jpg",
-      "excerpt": "Sony, Universal and Warner are pushing to disqualify fully AI-generated 'slop' tracks from global charts as tens of thousands of AI songs hit streaming daily, alongside an RIAA/IFPI proposal to label fully- or partly-AI songs in streaming apps. Frames the emerging rules of the road for AI-made music and how disclosure may shape creative practice.",
-      "rationale": "Fresh (07-29) industry-policy shift that redraws the rules for AI music on charts and streaming labels — high novelty, directly shapes how AI-made tracks compete."
+      "url": "https://www.musicbusinessworldwide.com/googles-flow-music-adds-song-generation-editing-and-stem-splitting-to-spaces-its-vibe-coding-tool/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-07-29T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Google has expanded its Flow Music platform, adding song generation, editing and stem splitting to Spaces, its 'vibe coding' tool. Musicians can now generate a song, replace a verse, separate vocals, extend a track and create album art, lyrics and video from one workspace, built on Lyria 3 Pro plus Gemini, Veo and Nano Banana.",
+      "rationale": "Google folds generation, editing, stem-split and art/video into one Lyria 3 Pro workspace — a major, credible new all-in-one AI studio that changes a producer's day-one workflow. Highest actionability + novelty."
     },
     {
       "rank": 2,
-      "headline": "AudioAuditor is a free, open-source audio toolkit with built-in AI music detection",
+      "headline": "Beatbox your ideas into reality with Vochlea's DubBox, an app that converts your voice into drum loops",
       "tool": "Music",
       "category": "music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://bedroomproducersblog.com/2026/07/28/audioauditor/",
-      "source": "Bedroom Producers Blog",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/AudioAuditor-728x364.jpg",
-      "excerpt": "AudioAuditor is a free, open-source desktop/CLI player and audio-analysis toolkit that also tries to flag AI-generated music by inspecting watermarks and byte patterns (with the devs candid that detection is still unreliable). A hands-on tool letting producers and listeners probe whether a track was machine-made.",
-      "rationale": "Most actionable pick — a free, hands-on tool producers can install tomorrow to probe whether audio is AI-generated; distinct from prior BPB coverage."
+      "url": "https://www.musicradar.com/music-tech/beatbox-your-ideas-into-reality-with-vochleas-dubbox-an-app-that-converts-your-voice-into-drum-loops",
+      "source": "MusicRadar",
+      "published_iso": "2026-07-28T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/U3ZMS6JnHPWtMEZuABsvTG.jpg",
+      "excerpt": "Vochlea's new DubBox app uses machine learning to turn beatboxing into sample-based drum loops in real time. It learns up to eight of your vocal hits, triggers drum samples with velocity sensitivity, and uses 'Voice Warping' to time-stretch takes to the grid while preserving the feel of the original performance.",
+      "rationale": "ML that maps your beatboxing to velocity-sensitive, grid-locked drum loops in real time — a concrete new craft tool that changes how producers sketch rhythms. Novel release, reputable outlet."
     },
     {
       "rank": 3,
-      "headline": "Only humans can be 'authors', say Canadian music publishers in AI copyright test case",
+      "headline": "Neutone and Roland's Project LYDIA lets you design your own AI models for real-time performance",
       "tool": "Music",
       "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://completemusicupdate.com/only-humans-can-be-authors-say-canadian-music-publishers-in-test-case-on-copyright-status-of-ai-generated-works/",
-      "source": "CMU",
-      "published_iso": "2026-07-24T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/AI-Canada.png",
-      "excerpt": "Music Publishers Canada has intervened in a court case testing whether AI-generated works qualify for copyright and whether an AI tool can be named a co-author, arguing 'only a human can be an author'. Directly shapes how music creators can claim, protect and credit work made with generative tools.",
-      "rationale": "Legal test case that directly affects whether and how creators can copyright and credit AI-assisted work — credible, high-stakes, distinct from prior CMU/SOCAN cards."
+      "url": "https://musictech.com/features/interviews/roland-neutone-project-lydia/",
+      "source": "MusicTech",
+      "published_iso": "2026-07-17T08:00:16Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
+      "excerpt": "Neutone and Roland are prototyping Project LYDIA, an AI effects pedal that lets musicians train, customise and hack their own neural-sampling AI models for real-time performance. 'You can open it up, you can hack it... you can really personalise it and make it your own,' says Neutone co-founder Andrew Fyfe — a hands-on, creator-owned take on AI as a live instrument rather than a black box.",
+      "rationale": "Creator-owned, trainable neural models on a hackable pedal — a fresh AI-as-live-instrument angle. Clears AI-craft relevance decisively; distinct from any published LYDIA/Neutone card."
     },
     {
       "rank": 4,
-      "headline": "'Human-First' is a promise nobody can check yet",
+      "headline": "Best stem separation tools 2026: 9 AI tools compared",
       "tool": "Music",
       "category": "music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://www.hypebot.com/human-first-is-a-promise-nobody-can-check-yet/",
-      "source": "Hypebot",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/pexels-pavel-danilyuk-8294663.jpg",
-      "excerpt": "As 'Human-First' and AI-disclosure labels proliferate across music, this argues they mean little without enforcement, proposing distributor-enforced, open-source-style attestations covering composition, performance, vocals and production. A craft-side look at how AI-use disclosure could actually work for the people making the music.",
-      "rationale": "Craft-side analysis of how AI-disclosure labels could actually be enforced — practical framing for creators navigating the new labeling push; distinct Hypebot story."
+      "url": "https://musictech.com/guides/buyers-guide/best-stem-separation-tools/",
+      "source": "MusicTech",
+      "published_iso": "2026-07-29T04:00:26Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2025/07/Stem-Separation-guide-update-hero-credit-press@2000x1500.jpg",
+      "excerpt": "MusicTech tested nine leading AI stem-separation tools and found results vary sharply by track and instrument: Logic Pro wins for fast everyday splits, while MVSEP edges ahead on critical vocals and hardest-to-isolate parts. A practical, craft-side map of where neural source-separation actually helps producers in 2026.",
+      "rationale": "Head-to-head of nine neural source-separation tools with per-instrument verdicts — directly actionable for a producer choosing a stem workflow tomorrow. Distinct from the published single-product zplane Peel Stems 2 card."
     }
   ],
   "shortfall": {
     "target_floor": 3,
     "kept": 4,
-    "reason": "Pool held 5 fresh candidates; 1 (DJ Mag Deezer 50%) dropped as a content-duplicate of published 'deezer-ai-flood' (MBW). 4 distinct fresh stories remain — above floor, so no shortfall. Not padded.",
-    "dropped": [
-      {
-        "candidate": "AI-generated music surpasses 50% of daily uploads on Deezer (DJ Mag)",
-        "url": "https://djmag.com/news/ai-generated-music-surpasses-50-of-daily-uploads-deezer",
-        "duplicate_of": "deezer-ai-flood (2026-07-27, Music Business Worldwide) — same Deezer report that AI now exceeds 50% of daily uploads / ~90k tracks a day; different outlet, same event"
-      }
-    ]
+    "reason": "Wide funnel surfaced only 4 distinct fresh creative-tool items in a genuinely sparse 14-day window; all 4 survive dedup and are above floor 3. No fifth unique fresh item exists, so 4 is correct — not padded.",
+    "dropped": []
   }
 }

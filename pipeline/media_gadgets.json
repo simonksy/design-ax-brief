@@ -1,26 +1,31 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "gadgets",
   "media": [
     {
-      "id": "meta-ray-ban-display-muse-spark",
+      "id": "gemini-robotics2",
       "type": "image",
-      "src": "pipeline/media/meta-ray-ban-display-muse-spark.jpg"
+      "src": "pipeline/media/gemini-robotics2.png"
     },
     {
-      "id": "oura-ring-5-advisor",
+      "id": "openai-companion-speaker",
       "type": "image",
-      "src": "pipeline/media/oura-ring-5-advisor.jpg"
+      "src": "pipeline/media/openai-companion-speaker.jpg"
     },
     {
-      "id": "ios-27-siri-apple-intelligence",
+      "id": "m4-max-local-ai",
       "type": "image",
-      "src": "pipeline/media/ios-27-siri-apple-intelligence.jpg"
+      "src": "pipeline/media/m4-max-local-ai.jpg"
     },
     {
-      "id": "alexa-plus-smart-home-app-store",
+      "id": "dji-osmo-pocket4p",
       "type": "image",
-      "src": "pipeline/media/alexa-plus-smart-home-app-store.jpg"
+      "src": "pipeline/media/dji-osmo-pocket4p.jpg"
+    },
+    {
+      "id": "halliday-g2",
+      "type": "image",
+      "src": "pipeline/media/halliday-g2.jpg"
     }
   ]
 }

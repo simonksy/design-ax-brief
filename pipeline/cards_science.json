@@ -1,183 +1,135 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "science",
   "cards": [
     {
-      "id": "raygun-protein-redesign",
+      "id": "quantum-ml-neoantigen",
       "eyebrow": "AI NEWS",
-      "headline": "단백질을 수식으로 바꿔 다시 설계하는 Raygun",
-      "body": "듀크대 연구진이 단백질을 표준 수식으로 바꿔 크기와 형태를 자유롭게 다시 설계했다.",
-      "mini_headline": "단백질을 다시 짓는 AI",
+      "headline": "양자 머신러닝으로 종양 신항원의\n면역 반응을 예측하다",
+      "mini_headline": "양자 ML로 신항원 예측",
+      "body": "적은 표본으로도 어떤 신항원이 면역 반응을 일으킬지 예측해 고전 기법을 앞선다.",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-07-molecular-ray-ai-tool-redesigns.html",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "듀크대 의대 연구진이 자연의 진화에서나 볼 법한 규모로 단백질을 다시 설계하는 AI 프레임워크를 만들었다. 구조와 기능은 그대로 두면서 더 짧거나 길거나, 크게 바꾼 변형을 만들어낸다."
-          },
-          {
-            "t": "p",
-            "x": "이름은 Raygun. 단백질을 처음부터 그리는 대신, 수백만 개 자연 단백질 서열로 학습한 단백질 언어 모델 위에서 기존 단백질을 폭넓게 손본다. 연구는 Nature에 실렸다."
-          },
-          {
-            "t": "p",
-            "x": "\"단백질의 아미노산 서열이 어떻게 형태와 기능으로 이어지는지를 지배하는 언어가 있지만, 과학자들은 그 언어를 아직 온전히 이해하지 못한다\"고 공동 교신저자 로힛 싱 조교수는 말했다. \"단백질 언어 모델은 번역기처럼 수백만 개 서열에서 패턴을 배우고, 그것을 생물학적 구조·기능과 연결한다.\""
-          },
-          {
-            "t": "p",
-            "x": "Raygun은 여기에 단백질을 표현하는 새 방식을 더한다. 길이가 제각각인 아미노산 사슬로만 다루지 않고, AI가 배운 핵심 패턴을 담은 표준 수식 형태로 바꾼다. 크기가 어떻든 같은 형식으로 표현되니 비교하고 줄이고 늘리는 재설계가 가능하다."
-          },
-          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/like-a-molecular-shrin.jpg",
-            "cap": "듀크대 의대 실험실의 연구진. Credit: Eamon Queeney / Duke University School of Medicine"
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png"
           },
           {
             "t": "p",
-            "x": "연구자는 단 두 개의 설정으로 Raygun을 조율한다. 하나는 서열이 얼마나 바뀌는지, 다른 하나는 단백질을 짧게 할지 길게 할지를 정한다."
+            "x": "클리블랜드 클리닉과 IBM 연구진이 종양 신항원 가운데 어떤 것이 면역 반응을 일으킬지 예측하는 양자 머신러닝 틀 Q-CHIPP를 내놓았다."
           },
           {
             "t": "p",
-            "x": "여러 실험에서 AI가 만든 단백질은 예측된 구조 안정성과 중요한 기능 부위를 지켰다. 살아 있는 세포 실험은 영상용 형광 단백질과 필수 세포 작업을 맡는 효소에서 이를 확인했고, 수용체 결합 실험은 상처 치유에 관여하고 암과 얽힌 신호 경로와도 이어지는 상피세포 성장인자(EGF)의 변형을 검증했다."
+            "x": "이 모델은 46큐비트 위에서 150개 남짓한 표본만으로 생물학적 패턴을 학습한다. 데이터가 희박한 조건에서 기존 고전 기법을 앞섰다는 점이 핵심이다."
           },
           {
             "t": "p",
-            "x": "이 접근은 유전자 치료와 생명공학, 생의학 연구를 위한 도구를 더 효율적으로 설계하도록 돕는다. 동시에 단백질이 자연에서 어떻게 진화하는지에 대한 새 실마리를 준다."
+            "x": "신항원은 면역치료의 표적을 고르는 열쇠다. 표본을 많이 모으기 어려운 임상 현실에서, 적은 데이터로도 성능을 내는 접근은 쓸모가 크다."
           }
         ]
       }
     },
     {
-      "id": "quantum-rl-self-calibration",
+      "id": "quantum-neural-net-barren",
       "eyebrow": "AI NEWS",
-      "headline": "오류에서 배워 스스로 조율하는 양자컴퓨터",
-      "body": "구글의 강화학습 에이전트가 오류 신호로 수천 개 제어 변수를 실시간 보정했다.",
-      "mini_headline": "오류에서 배우는 양자",
+      "headline": "'불모의 고원'을 피해 커지는 양자 신경망",
+      "mini_headline": "불모의 고원 넘는 양자 신경망",
+      "body": "새 이론 틀은 확장 가능한 두 회로 구조와 병렬 학습법으로 배런 플래토를 수학적으로 피한다.",
       "tool": "Science",
-      "source": "Google Research",
-      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "복잡한 명곡을 연주하는 교향악단을 떠올려 보자. 몇 마디마다 바이올린 음이 어긋난다면 악단은 끊임없이 멈춰 조율해야 할 것이다. 다행히 실제 오케스트라에서는 그런 일이 없다. 그런데 양자컴퓨터를 돌리는 지금의 현실이 딱 그렇다."
-          },
-          {
-            "t": "p",
-            "x": "양자컴퓨터는 본질적으로 드리프트에 민감한 아날로그 기계다. 안정적으로 작동하려면 큐비트를 지휘하는 아날로그 신호의 주파수·진폭·위상을 쉼 없이 다시 맞춰야 한다. 오늘날 이 작업은 계산 전체를 완전히 멈춰야 가능하다. 며칠에서 몇 달씩 이어져야 하는 유용한 양자 알고리즘에게는 근본적인 병목이다."
-          },
-          {
-            "t": "p",
-            "x": "구글은 Nature에 실린 \"Reinforcement learning control of quantum error correction\"에서, 자율 에이전트가 양자 오류 검출에서 배워 수천 개 제어 변수를 실시간으로 조종하는 강화학습(RL) 틀을 선보였다. 연주가 이어지는 와중에 악기를 조율하는 방법을 찾은 셈이다."
-          },
-          {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-research2023-media/images/RL_for__QEC-2.width-1250.png",
-            "cap": "표면 코드(왼쪽)와 색 코드(오른쪽) 기반 양자 메모리에서 논리 정보의 수명을 늘리는 QEC. Credit: Google Research"
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png"
           },
           {
             "t": "p",
-            "x": "양자 오류 정정(QEC)은 여러 물리 큐비트로 '논리 큐비트'를 만들고, 패리티 검사로 아날로그 잡음을 이진 오류 검출 신호로 바꾼다. 다만 이 신호는 회로의 어느 시공간 영역에서 오류가 났다는 것만 알려줄 뿐 정확한 위치는 말해주지 않는다. AlphaQubit 같은 신경망 디코더, Tesseract 같은 알고리즘 디코더가 오류 위치를 추정해 정보를 복원한다."
+            "x": "새로운 이론 틀이 확장 가능한 양자 회로 구조 두 가지와 병렬 학습 방법을 제안했다."
           },
           {
             "t": "p",
-            "x": "구글은 대표 초전도 프로세서 Willow에서 이 RL 제어를 검증했다. 제어 변수에 인위적 드리프트를 일부러 넣고 실험한 결과, RL 조종은 오류 정정 코드의 논리 안정성을 3.5배 끌어올렸다. 전문가가 손으로 세심하게 보정한 뒤에도 RL 미세조정은 논리 오류율을 20% 더 낮췄다."
+            "x": "핵심은 '배런 플래토'를 수학적으로 피하는 데 있다. 배런 플래토는 회로가 커질수록 학습 신호가 사라져 큰 양자 신경망을 사실상 훈련할 수 없게 만드는 장벽이다."
           },
           {
             "t": "p",
-            "x": "이 실험은 논리 오류를 기록적으로 줄였다. 표면 코드에서는 오류 정정 주기 천 번당 한 번 미만, 색 코드에서는 백 번당 한 번 수준이었다."
-          },
-          {
-            "t": "p",
-            "x": "수백 개 큐비트와 수만 개 제어 변수로 돌린 시뮬레이션에서, 필요한 RL 학습 반복 횟수는 시스템 크기와 무관했다. 오류를 계속 정정하면서도 멈추지 않고, 스스로 배우는 양자컴퓨터라는 새 길이 열린다."
+            "x": "연구진은 이 구조가 훈련은 가능하게 하면서도 고전 컴퓨터로는 흉내 내기 어렵게 남겨 두는 것을 목표로 삼았다."
           }
         ]
       }
     },
     {
-      "id": "single-sensor-ultrasound-ai",
+      "id": "alphafold-impossible-structures",
       "eyebrow": "AI NEWS",
-      "headline": "센서 하나로 즉석 초음파 영상을 되살리는 AI",
-      "body": "IMDEA 연구진이 센서 하나가 잡은 신호만으로 완전한 초음파 영상을 복원했다.",
-      "mini_headline": "센서 하나로 영상 복원",
+      "headline": "AI 단백질 예측이 물리·화학적으로\n불가능한 구조를 내놓는다",
+      "mini_headline": "AI가 만든 불가능한 단백질",
+      "body": "주요 예측 도구가 물리·화학적으로 불가능한 구조를 자주 내놓아 분자동역학 검증과 사람 검토가 여전히 필요하다.",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-07-ai-powered-method-enables-instant.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-07-ai-tools-protein-chemically-impossible.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "IMDEA 머티리얼즈 연구소가 초음파 영상 같은 기술의 근본적 한계를 넘어서는 음향 영상 기법을 내놓았다. 고정된 센서 하나가 한순간 잡은 신호만으로 완전하고 정확한 영상을 복원한다. 여러 센서 배열도, 긴 스캔 시간도 필요 없다."
-          },
-          {
-            "t": "p",
-            "x": "기존 음향 영상은 여러 트랜스듀서를 단 탐침, 곧 센서 배열이 서로 다른 위치의 신호를 동시에 잡거나, 센서 하나가 움직이며 여러 번 측정해야 했다. \"전통적인 방식은 복잡성과 비용, 장비 크기가 만만치 않다\"고 IMDEA 머티리얼즈 책임연구원 요한 크리스텐센은 설명했다. \"새 방법은 물체의 모든 공간 정보를 소리 하나의 주파수 스펙트럼에 담아 이 문제를 푼다.\""
-          },
-          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/instant-ultrasound-ima.jpg",
-            "cap": "AI가 합성한 주파수 코덱으로 단일 신호 음향 영상을 만드는 원리. Credit: IMDEA Materials Institute"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dynamics.jpg"
           },
           {
             "t": "p",
-            "x": "Advanced Functional Materials에 실린 이 방법은 물체에 광대역 초음파 펄스 하나를 쏜다. 물체 형태 정보를 담은 산란파는 값싼 '무질서 매질'을 지난다. 실험에서 이 매질은 강철 구슬을 무작위로 박은 한천 시트로, 물리적 인코더 역할을 했다. 구조가 불규칙해 주파수 성분마다 경로가 조금씩 달라지고, 센서 하나가 잡는 독특한 스펙트럼 '지문'이 생긴다."
+            "x": "렌셀러 폴리테크닉 연구진은 대표적인 AI 단백질 구조 예측 도구들이 물리·화학적으로 불가능한 결과를 자주 만들어 낸다는 사실을 확인했다."
           },
           {
             "t": "p",
-            "x": "사람 눈에는 알아볼 수 없지만 이 지문에는 영상을 복원할 정보가 모두 들어 있다. 연구진은 디코더 역할을 하는 신경망을 학습시켰다. 학습을 마친 AI는 받은 신호를 해석해 수십 마이크로초 만에 원래 물체의 영상을 되살린다. 금속판에 새긴 손글씨 숫자를 복원한 실험에서는 원본과 최대 98.7%의 구조적 유사도를 기록했다."
+            "x": "겉보기에 그럴듯한 구조라도 실제 분자로는 성립하지 않는 경우가 있다는 것이다. 이런 맹점은 예측만 믿고 넘어갈 때 드러나지 않는다."
           },
           {
             "t": "p",
-            "x": "이 기술은 초소형·저비용 실시간 음향 영상 장치의 길을 연다. 뛰는 심장처럼 움직이는 장기를 훨씬 간단한 장비로 보는 의료 진단부터 산업 비파괴검사, 수중 물체 탐지까지 쓰임이 넓다. 연구진은 이 원리가 보편적이라 3차원 영상이나 다른 파동으로도 확장될 수 있다고 본다. 이번 연구는 난징대, 난징임업대, 우한폴리테크닉대(중국)와 IMDEA 머티리얼즈 연구소의 국제 협력으로 이뤄졌다."
+            "x": "연구진은 물리 기반의 분자동역학 검증과 사람의 검토가 여전히 필수라고 강조했다."
           }
         ]
       }
     },
     {
-      "id": "solid-state-battery-database",
+      "id": "ai-drug-discovery-data-loop",
       "eyebrow": "AI NEWS",
-      "headline": "고체 배터리 설계를 여는 표준 데이터베이스",
-      "body": "메릴랜드대가 245개 기록과 167개 변수를 표준화한 고체 배터리 DB를 내놓았다.",
-      "mini_headline": "AI를 위한 배터리 DB",
+      "headline": "AI 신약 발견의 병목은 이제 실험실 데이터다",
+      "mini_headline": "AI 신약의 새 병목, 데이터",
+      "body": "AI가 치료 표적을 빠르게 찾아낼수록 실험실의 물리적 한계와 양질의 실험 데이터 부족이 드러난다.",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-07-standardized-battery-database-ai-solid.html",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "배터리 소자를 다룬 동료평가 논문은 해마다 수천 편씩 쏟아진다. 그런데 그 안의 데이터는 형식이 제각각이고 상세함과 접근성도 들쭉날쭉하다. 이렇게 조각난 정보는 과학자와 엔지니어, 산업 파트너, 정책 결정자가 연구를 온전히 활용하고 혁신의 기회를 찾기 어렵게 만든다."
-          },
-          {
-            "t": "p",
-            "x": "메릴랜드대 화학·생체분자공학 부교수이자 메릴랜드 에너지혁신연구소 부소장인 폴 알베르투스가 이끄는 연구팀이 이 오랜 문제를 다룬 연구를 Joule에 실었다. 소재부터 부품, 제조, 소자 시험, 성능까지 아우르는 데이터베이스와 데이터셋은 배터리 보고의 빈틈을 메우고 분석·시각화·실험 설계·AI 연구의 토대를 마련한다."
-          },
-          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/accelerating-solid-sta.jpg",
-            "cap": "사상 최고조에 이른 고체 배터리 연구. 새 공개 데이터베이스가 흩어진 연구의 활용을 돕는다. Credit: Daniela Benites/A. James Clark School of Engineering"
+            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg"
           },
           {
             "t": "p",
-            "x": "이 연구는 세 가지를 배터리 연구 커뮤니티에 더한다. 고체 배터리 소자를 설명하는 데 필요한 정보를 온전히 통합하고, 학술 문헌 전반의 보고 관행을 살펴 빠진 정보의 존재와 중요성을 따지며, 명확히 정의한 변수와 표준 용어로 데이터 보고에 짜임새 있는 방식을 세운다."
+            "x": "AI는 그 어느 때보다 빠르게 치료 표적을 찾아내고 있다. 그런데 그 속도가 오히려 다음 병목을 드러냈다."
           },
           {
             "t": "p",
-            "x": "이 온톨로지 기반 데이터베이스는 연구 수준 고체 배터리 245개 기록과 167개 구조화 변수, 4만 개가 넘는 데이터 포인트를 담는다. 소재와 부품, 제조법, 시험 조건을 두루 포착하면서 찾기 쉽고 접근·상호운용·재사용이 가능한(FAIR) 데이터 원칙과 고급 분석, 시각화, 실험 설계, AI 활용을 뒷받침한다."
+            "x": "예측을 검증하려면 실제 실험이 뒤따라야 하는데, 실험실의 물리적 처리량이 이를 따라가지 못한다."
+          },
+          {
+            "t": "p",
+            "x": "AI 예측과 검증된 신약 후보 사이의 고리를 닫으려면 더 질 좋은 실험 데이터가 필요하다는 것이 이 글의 핵심이다."
           }
         ]
       }

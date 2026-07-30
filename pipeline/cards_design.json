@@ -1,80 +1,16 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "design",
   "cards": [
     {
-      "id": "agent-native-actions",
+      "id": "nanobanana-earth",
       "eyebrow": "AI NEWS",
-      "headline": "UI가 하는 일은 모두\n에이전트도 할 수 있다",
-      "body": "모든 기능을 액션 하나로 묶어, 화면에서 되는 일이면 에이전트도 똑같이 처리한다.",
-      "mini_headline": "UI가 하면 에이전트도 한다",
-      "tool": "Figma",
-      "source": "Builder.io",
-      "url": "https://www.builder.io/blog/agent-first-apps",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Builder.io의 스티브 슈얼은 2026년이라면 어떤 앱도 '에이전트 우선'으로 지어야 한다고 말한다. 그가 든 출발점은 Agent-Native 프레임워크로, 터미널에 명령 한 줄을 붙여넣어 to-do 앱을 세우는 데서 시작한다."
-          },
-          {
-            "t": "p",
-            "x": "핵심은 단순하다. 이 앱에서는 기본적으로 화면이 할 수 있는 일이라면 에이전트도 똑같이 한다. UI를 고치면 에이전트가 알아채고, 에이전트에 명령을 내리면 화면이 곧바로 따라 바뀐다."
-          },
-          {
-            "t": "p",
-            "x": "채팅만으로 앱 전체를 다룰 수도 있다. '내 할 일 보여줘'라고 하면 완전히 조작 가능한 to-do 화면이 대화 안으로 그대로 딸려 온다. URL 끝에 /mcp를 붙이면 Claude나 ChatGPT에 연결해 밖에서도 작업을 시킬 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdd7210b9cffb40b69ae9551771c51d3c?width=800",
-            "cap": "에이전트 앱 구조도"
-          },
-          {
-            "t": "p",
-            "x": "이 조각들을 매번 처음부터 짜는 것은 아니다. 채팅 UX, 통합, 에이전트 관리 같은 부품을 툴킷에서 가져와 조립한다. shadcn처럼 컴포넌트를 코드로 복사해 원하는 부분만 고칠 수 있어, Notion 스타일 편집기를 그대로 앱 안에 옮겨 넣기도 한다."
-          },
-          {
-            "t": "p",
-            "x": "밑바탕에는 '액션'이 있다. 모든 업무 로직을 액션으로 묶어 UI와 에이전트, HTTP, MCP, A2A, CLI가 하나의 추상으로 돌아간다. 앞단에 기능을 붙이면 에이전트가 그 기능을 자동으로 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트끼리 대화하는 A2A도 기본으로 딸려 온다. 하나의 모노레포 안에서 여러 에이전트가 서로를 찾아 데이터를 주고받고, 각자 목적에 맞는 UI를 갖는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fbe5c03caab54420bacefc9d571892582?width=800",
-            "cap": "팀이 소유하는 에이전트"
-          },
-          {
-            "t": "p",
-            "x": "슈얼은 이를 '복제 가능한 SaaS'라 부른다. 언젠가 Salesforce조차 복제하고 손봐서 쓰는 UI가 될 것이라는 전망이다. 앱과 에이전트의 경계는 사라지고, 모든 것이 둘 다인 세계다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fad7da09448634ed8a8df928209841d93?width=800",
-            "cap": "복제 가능한 SaaS 개념"
-          },
-          {
-            "t": "p",
-            "x": "전부 MIT 라이선스 오픈소스이고, Netlify처럼 앱을 올릴 수 있는 곳이면 어디든 배포된다. 특별한 에이전트 서버는 필요 없다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "where-ai-belongs-games",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 게임 개발에서\n진짜 있어야 할 자리",
-      "body": "디켄은 생성형 AI의 쓸모가 콘텐츠 자동화보다 저마다 다른 경험에 있다고 본다.",
-      "mini_headline": "게임 AI의 진짜 쓸모",
+      "headline": "나노 바나나가 구글 어스에서\n과거와 미래를 그려낸다",
+      "body": "나노 바나나가 구글 어스에 들어가 지도 위에서 옛 유적과 지어질 건물을 실사처럼 그려낸다.",
+      "mini_headline": "지도 위에 그려지는 실사",
       "tool": "KeyShot",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/game-ai-expert-explains-where-ai-actually-belongs-in-game-development-and-the-risks",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -82,61 +18,126 @@
         "blocks": [
           {
             "t": "p",
-            "x": "루크 디켄은 게임 업계에서 15년 넘게 AI를 연구해 왔다. Zynga에서 중앙 분석 그룹을 이끌었고, 절차적 콘텐츠와 플레이어 프로파일링을 파고드는 R&D 팀을 꾸렸다. 그 활동이 Take-Two 경영진의 눈에 들었지만, 조직을 확장한 지 1년도 안 돼 팀은 해고됐다."
+            "x": "구글이 이미지 생성 모델 나노 바나나를 구글 어스에 붙였다. 이제 지도 위에서 곧바로 실사에 가까운 장면을 만들어낼 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/nano-banana-image-generation-comes-to-google-earth/intro-1785351587.jpg"
           },
           {
             "t": "p",
-            "x": "그는 요즘의 생성형 AI 열기가 기술적 우위보다 사업 모델에서 나온다고 본다. '알고리즘은 눈에 띄지 않고 지루해야 한다'는 그의 말처럼, 로보틱스나 절차적 생성 같은 고전 AI는 수십 년간 조용히 정교한 시스템을 돌려 왔다. 지금의 화제성은 대기업의 막대한 마케팅 예산이 떠받친다."
+            "x": "쓰임새는 크게 둘이다. 하나는 사라진 과거를 되살리는 일이다. '78년의 폼페이' 같은 명령을 넣으면 지금은 없는 유적의 모습을 실사처럼 재현한다."
           },
           {
             "t": "p",
-            "x": "그가 가장 공들인 개념은 '던전 마스터' 비유다. 뛰어난 DM처럼 게임 지능도 전투 AI가 아니라 매치메이킹, 플레이어 프로파일링, 페이스 조절, 경제 설계를 엮어 플레이어마다 관리된 경험을 짜야 한다. 그는 Left 4 Dead(2008)의 AI 디렉터를 그런 통합의 드문 사례로 든다."
+            "x": "다른 하나는 아직 짓지 않은 것을 미리 보는 일이다. 앞으로 들어설 건설 프로젝트를 지도 위에 얹어, 완공 전 모습을 그려볼 수 있다."
           },
           {
             "t": "p",
-            "x": "생성형 AI의 실제 생산 가치는 제한적이라고 그는 짚는다. 코드 생성이나 문서 보조에서 점진적 이득은 있지만, 사람이 감당하지 못하는 규모의 문제를 풀 때만 빛난다. 파이프라인을 통째로 자동화하려 들면 '이상한 일'이 벌어지고, 스튜디오가 그 책임을 떠안기도 어렵다."
-          },
-          {
-            "t": "p",
-            "x": "비용 현실은 더 냉정하다. OpenAI는 주당 10억 달러 넘게 손실을 보며 사용료를 보조하고, Uber는 2026년 생성형 AI 예산을 넉 달 만에 소진했다. GitHub Copilot이 구독제에서 사용량 과금으로 옮기자 요금은 10~20배, 극단적으로는 1,000배까지 뛰었다. 그는 18개월 안에 가격 충격이 닥칠 것이라 본다."
-          },
-          {
-            "t": "p",
-            "x": "가장 걱정스러운 건 인재 파이프라인이라고 그는 말한다. 경영진이 생성형 AI를 비용 절감으로만 다루면 신입 자리가 사라지고, 후배들이 기술을 익힐 통로도 함께 막힌다. 진짜 질문은 하나라고 그는 정리한다. 전에는 불가능했고 플레이어에게 이로운 무엇을 이것이 비로소 가능하게 하는가."
+            "x": "생성형 이미지 AI가 공간 디자인과 건축 시각화, 장소 기반 콘셉트 렌더링 작업 안으로 구체적으로 걸어 들어온 사례다."
           }
         ]
       }
     },
     {
-      "id": "nexthena-121-i18n",
+      "id": "shieldfont-poison-ai",
       "eyebrow": "AI NEWS",
-      "headline": "AI 화이트보드 넥스테나\n다국어와 테마를 다듬다",
-      "body": "넥스테나 1.2.1이 영어·중국어 전환을 더해, 화이트보드가 OS 명암을 따른다.",
-      "mini_headline": "다국어 붙은 화이트보드",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/blackstar/nexthena-121-released-2alp",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
+      "headline": "AI 학습을 오염시키는\n무료 폰트 실드폰트",
+      "body": "타이포 디자이너들이 긁어간 글과 이미지로 AI가 학습하지 못하게 오염시키는 무료 폰트를 공개했다.",
+      "mini_headline": "AI를 오염시키는 폰트",
+      "tool": "Figma",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
+      "accent": "#0070f3",
+      "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "AI 보조 무한 캔버스 화이트보드 넥스테나가 1.2.1 버전을 내놨다. 이번 업데이트의 두 축은 다국어 지원과 시스템 테마 수정이다."
-          },
-          {
-            "t": "p",
-            "x": "이제 영어와 중국어를 기본으로 지원한다. UI는 하드코딩한 문구 대신 번역 키를 쓰고, 헤더의 언어 토글로 즉시 로케일을 바꾼다. 설정은 백엔드에 저장돼 다음 접속에도 이어진다. Excalidraw 화이트보드도 앱 로케일을 따라, 중국어를 고르면 zh-CN이 자동으로 적용된다."
+            "x": "타이포그래피 디자이너들이 실드폰트라는 무료 서체를 내놓았다. 긁어간 텍스트와 이미지로 AI 모델이 학습하는 과정을 일부러 망가뜨리도록 설계한 글꼴이다."
           },
           {
             "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rj99sj81lcekbfyqkhl.png",
-            "cap": "언어 전환 화면"
+            "src": "https://cdn.mos.cms.futurecdn.net/hCZp4o3EEtij6rJHs3HXZF-2560-80.png"
           },
           {
             "t": "p",
-            "x": "'시스템 따르기' 테마를 켰을 때 화이트보드와 코드 구문 강조가 OS의 명암 설정과 어긋나던 문제도 고쳤다. 이전에는 테마 값이 'system'으로만 넘어와 라이트 모드로 떨어졌는데, 이제 effectiveTheme 필드가 'dark'나 'light'로 확실히 정리돼 모든 컴포넌트가 이를 참조한다."
+            "x": "생성형 AI의 데이터 수집에 맞서 디자인·타이포 커뮤니티가 내놓은 장인 차원의 대응이다."
+          },
+          {
+            "t": "p",
+            "x": "디자이너에게는 자신의 작업이 학습 데이터로 빨려 드는 것을 막는 방어 도구가 손에 쥐어진 셈이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bull-bear-design-ai",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 디자이너에게 줄\n자율과 드러날 빈틈",
+      "body": "앤디 버드는 AI가 디자이너에게 더 큰 자율을 주는 동시에, 감춰 온 실력 격차를 드러낸다고 본다.",
+      "mini_headline": "디자인의 낙관과 비관",
+      "tool": "Design Tokens",
+      "source": "Smashing Magazine",
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "앤디 버드가 AI가 제품 디자인을 어떻게 다시 짜는지 짚었다. 그는 낙관과 비관, 두 시나리오로 나눠 본다."
+          },
+          {
+            "t": "img",
+            "src": "https://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
+          },
+          {
+            "t": "p",
+            "x": "낙관 쪽은 자율이다. 디자이너가 더 큰 자율을 얻고, 무언가를 하기 위해 굳이 허락을 구할 일이 줄어든다."
+          },
+          {
+            "t": "p",
+            "x": "비관 쪽은 그 자율이 드러내는 것이다. 자율이 커질수록 그동안 가려져 있던 실력 격차가 더 감추기 어려워진다."
+          },
+          {
+            "t": "p",
+            "x": "핸드오프의 마찰이 사라지면서 디자인 직무와 일하는 방식이 어디로 옮겨가는지를 가늠하는 글이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "get-out-of-their-way",
+      "eyebrow": "AI NEWS",
+      "headline": "AI를 이미 아는 팀에게\n자리를 내주어라",
+      "body": "모두 같은 AI 도구를 쥔 지금, 승부는 그 도구를 이미 이해한 실무자를 믿고 맡기는 팀에서 갈린다.",
+      "mini_headline": "실무자에게 길을 내주라",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "이제 어느 디자인 조직이든 같은 AI 도구로 손을 뻗는다. 그렇다면 승부는 어디서 갈리는가."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1200/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "글의 주장은 분명하다. 이기는 쪽은 그 도구를 이미 이해한 실무자를 믿는 조직이라는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "AI 도입을 두고 팀은 문을 걸어 잠글 게 아니라, 오히려 그 주위로 조직을 다시 짜야 한다는 리더십 관점의 제언이다."
           }
         ]
       }

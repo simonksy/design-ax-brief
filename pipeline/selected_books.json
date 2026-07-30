@@ -4,40 +4,54 @@
   "selection_mode": "auto",
   "target": 5,
   "floor": 3,
-  "selected_count": 2,
-  "shortfall": 1,
+  "selected_count": 3,
+  "shortfall": 0,
   "picks": [
     {
       "tool": "Books",
-      "headline": "Stony Brook study finds viral BookTok bestseller Daggermouth is 60% AI-written",
-      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
-      "source": "Book Riot",
+      "headline": "In Praise of the Translators Who Transport Us Across the Globe",
+      "url": "https://publishingperspectives.com/2026/07/in-praise-of-the-translators-who-transport-us-across-the-globe/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
-      "excerpt": "Using the AI-detection tool Pangram, Stony Brook University researchers found that roughly one in five randomly sampled Kindle ebooks contain substantial AI-generated text - and flagged #BookTok favorite Daggermouth by H.M. Wolfe as 60% AI-written. A concrete, method-driven look at how AI-generated fiction is slipping into bestseller lists and how detection now works.",
+      "published_iso": "2026-07-29T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-28-at-12.53.51-PM-793x396.png",
+      "excerpt": "An argument for literary translation as cultural infrastructure and skilled craft, set against survey data showing translators losing work and income to generative AI. A craft-side counterweight to the industry's rush toward AI-assisted book translation.",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Net-new, URL- and content-distinct from every published books card (a different Book Riot article than the July book-banners and library round-up pieces). A method-driven detection study naming a BookTok bestseller as 60% AI-written is high-actionability for authors, publishers, and readers navigating AI fiction on the charts."
+      "rationale": "Net-new URL, distinct from every published books card. A craft counterweight that reframes literary translation as skilled human labor against the AI-translation push - the strongest creative/craft hook in the pool."
     },
     {
       "tool": "Books",
-      "headline": "Publishing Perspectives launches a course to help publishers navigate the AI age responsibly",
-      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
-      "source": "Publishing Perspectives",
+      "headline": "Researchers to Investigate Local Editor and Publisher AI Use",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
+      "source": "Books+Publishing",
       "category": "books",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png",
-      "excerpt": "A four-week online course beginning January 2027 aims to give publishing professionals practical frameworks for implementing AI in editorial and production workflows and setting organizational policy. A signal of houses trying to operationalize AI in the craft rather than just debate it.",
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "",
+      "excerpt": "University of Melbourne and RMIT researchers are surveying editors and publishers about how they actually use generative AI tools in independent publishing practice. A grounded look at where AI is entering real editorial and production workflows, rather than the hype.",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "Net-new and distinct from the other published Publishing Perspectives cards (Wiley/Genesis, the two 'Around the Book World' roundups). It shifts the AI-in-publishing story from litigation and debate toward operational, workflow-level frameworks editors and production teams can actually adopt. Given a distinct accent (#0070f3) since it shares the books category."
+      "rationale": "Net-new URL and a distinct outlet (Books+Publishing). Actionable and workflow-grounded - maps where generative AI genuinely enters editorial and production practice rather than the litigation/hype cycle. Distinct accent since it shares the books category."
+    },
+    {
+      "tool": "Books",
+      "headline": "Poetry Foundation Library Scraped, Used to Make AI-Generated Educational Content",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100955-poetry-foundation-library-scraped-used-to-make-ai-generated-educational-content.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-07-30T10:00:00Z",
+      "og_image": "",
+      "excerpt": "Giggle Academy, a 'free learning' platform founded by Binance's CZ Zhao, scraped hundreds of copyrighted poems from the Poetry Foundation to auto-generate illustrated lessons and storybooks with no human curation. A concrete look at AI-generated creative/educational content at scale - and what fully-automated book-making does to poets and publishers.",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "rationale": "Kept as a recovery pick for its genuine creative-production hook - fully-automated AI book-making (illustrated storybooks and lessons) at scale, not merely the copyright angle. Distinct event from the published Google/Gemini and UDel Google Books scraping cards; net-new URL and a third distinct outlet (Publishers Weekly)."
     }
   ],
   "dedup_notes": {
-    "checked_against": "sections.books in news_data.json — today (2026-07-29) + days 2026-07-24 through 2026-07-28.",
-    "dropped_duplicates": "None. Both picks are URL-distinct and content-distinct from every published books card. Daggermouth is a Book Riot article separate from the published July book-banners (tools-used-by-book-banners-2026) and library round-up (library-news-round-up-july-2026) pieces. The PP AI course is a distinct URL/topic from the published Wiley-Genesis, udel-google-books (around-the-book-world-monday-july-20th) and Hong Kong book fair (around-the-book-world-july-27) cards; it appeared only as an unpublished candidate in the 2026-07-28 run, so it is not a republish.",
-    "shortfall_reason": "Section is BELOW floor of 3. Only 2 candidates survived the section's freshness/dedup filter; the AI-in-books beat is genuinely sparse in the 336h window (dominated by the Anthropic settlement cluster already published). Both survivors are on-topic AI x books/publishing and non-duplicate, so both selected. Not padded.",
-    "diversity": "2 distinct outlets (Book Riot, Publishing Perspectives), <=2 per outlet, both books category with distinct accents (#f5a623, #0070f3)."
+    "checked_against": "sections.books in news_data.json - today (2026-07-30: Daggermouth, PP AI-age course) + days 2026-07-25 through 2026-07-29 (book-banners tools, NYT AI-nonfiction, Open Science 2.0, interactive 3D textbooks, Google/Gemini suit, ElevenLabs Odyssey, UDel Google Books, HK Book Fair, AI multicast audiobook study).",
+    "dropped_duplicates": "None among the 3 picks - all URL- and content-distinct from published history.",
+    "dropped_candidates": "Jane Friedman 'Researchers attempt to prove that generative AI dilutes the market for books' dropped: a pure market-economics/dilution study with no craft or creative-production hook (per curator instruction on the market/copyright recovery items).",
+    "shortfall_reason": "Fresh AI x books pool genuinely thin in the 336h window (collector flagged low yield; dominant fresh stories were copyright/legal with no craft hook). 3 distinct, on-topic, non-duplicate survivors selected. Floor of 3 met; not padded to 5.",
+    "diversity": "3 distinct outlets (Publishing Perspectives, Books+Publishing, Publishers Weekly), <=2 per outlet; all books category with distinct accents (#f5a623, #0070f3, #7928ca)."
   }
 }

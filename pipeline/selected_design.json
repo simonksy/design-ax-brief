@@ -1,58 +1,72 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "design",
   "selection_mode": "auto",
   "picks": [
     {
-      "url": "https://www.builder.io/blog/agent-first-apps",
-      "title": "How (and why) to build agent-first apps",
-      "source": "Builder.io",
-      "published_iso": "2026-07-29T09:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F568e1abcbd01489e89f1512f5f4acf30?format=webp&width=800",
-      "excerpt": "Builder.io's Steve Sewell lays out an 'agent-native' design pattern where anything the UI can do, an agent can do too -- unifying human and agent actions through a shared action abstraction. A forward-looking take on how product/UX design must change when AI agents become first-class users of the interface.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Concrete design pattern (shared action abstraction) that changes how designers scope UI when agents are first-class users; distinct how-to follow-up published 5 days after the earlier agent-native piece."
-    },
-    {
-      "url": "https://80.lv/articles/game-ai-expert-explains-where-ai-actually-belongs-in-game-development-and-the-risks",
-      "title": "Game AI Expert Explains Where AI Actually Belongs in Game Development—And The Risks",
-      "source": "80 Level",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "og_image": "",
-      "excerpt": "AI researcher Luke Dicken (ex-Zynga innovation lead, former Head of AI at Take-Two) argues generative AI's real value is enabling adaptive, player-facing experiences rather than automating existing content pipelines, and that studios should invest in R&D that amplifies creative talent instead of replacing it. A creative-tooling perspective on where AI helps craft versus where it just adds risk.",
+      "url": "https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/",
+      "title": "Nano Banana image generation comes to Google Earth",
+      "source": "Engadget",
+      "published_iso": "2026-07-30T12:30:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/nano-banana-image-generation-comes-to-google-earth/intro-1785351587.jpg",
+      "excerpt": "Google has integrated its Nano Banana image-generation model into Google Earth, letting users generate photorealistic renderings of historical sites (e.g. 'Pompeii in 78 AD') and pre-visualize future construction projects directly on the map. A concrete push of generative image AI into spatial design, architectural visualization, and place-based concept rendering workflows.",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "A senior practitioner's framing of where AI amplifies creative craft vs. where it only adds risk — useful judgment for designers deciding where to adopt gen-AI in a pipeline."
+      "rationale": "Concrete new product feature that puts generative rendering directly into spatial/architectural pre-viz — high actionability and novelty from a credible outlet."
     },
     {
-      "url": "https://dev.to/blackstar/nexthena-121-released-2alp",
-      "title": "Nexthena 1.2.1 released",
-      "source": "DEV Community",
-      "published_iso": "2026-07-28T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Release notes for Nexthena 1.2.1, an AI-assisted infinite-canvas whiteboard/design tool, adding new workflow and localization updates. A small but concrete example of AI moving into the everyday visual-collaboration and diagramming layer of a designer's toolkit.",
+      "url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
+      "title": "Type designers have created a free font that poisons AI",
+      "source": "Creative Bloq",
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/hCZp4o3EEtij6rJHs3HXZF-2560-80.png",
+      "excerpt": "Type designers have released ShieldFont, a free typeface engineered to corrupt AI model training on scraped text and imagery. A concrete craft-level response from the design/typography community to generative-AI data harvesting, giving designers a defensive tool against having their work ingested.",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "A shipped, free, craft-level tool designers can use tomorrow to defend their work from training scrapers — novel and actionable."
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+      "source": "Smashing Magazine",
+      "published_iso": "2026-07-29T13:00:00Z",
+      "og_image": "https://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
+      "excerpt": "Andy Budd examines how AI is reshaping product design: the bull case gives designers greater autonomy and less need for permission to act, while the bear case exposes the skill gaps that autonomy makes harder to hide. A framing piece for how design roles and workflows shift as AI removes handoff friction.",
       "category": "tokens",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A concrete, shippable AI-assisted whiteboard release — novel tool news at the everyday visual-collaboration layer, from a distinct outlet and category."
+      "rationale": "Credible, well-argued framing from Andy Budd on how AI reshapes design roles and autonomy — a distinct Smashing article, not the earlier MacPaw piece."
+    },
+    {
+      "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8",
+      "title": "Your people get AI. Get out of their way",
+      "source": "UX Collective",
+      "published_iso": "2026-07-29T21:58:04Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg",
+      "excerpt": "With every design org now reaching for the same AI tools, the argument is that the winners will be those willing to trust the practitioners who already understand them. A design-leadership / AX-adoption take on how teams should reorganize around AI rather than gatekeep it.",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "rationale": "A design-leadership angle on AX adoption that complements the more tactical picks; second figma-category card so it takes a distinct accent (#3b6bff)."
     }
   ],
   "dedup": {
-    "pool_size": 3,
-    "kept": 3,
+    "pool_size": 4,
+    "kept": 4,
     "dropped": 0,
-    "checked_against": "sections.design — today (2026-07-29, 3 cards: macpaw-eney, no-handoff, octane-neural) + days 2026-07-24 through 07-28 (all published cards)",
+    "checked_against": "sections.design — today (2026-07-30, 3 cards: agent-native-actions, where-ai-belongs-games, nexthena-121-i18n) + days 2026-07-25 through 07-29 (all published cards)",
     "notes": [
-      "All 3 filtered candidates verified against the full design history by URL and by content/event: none previously ran.",
-      "builder.io/blog/agent-first-apps reviewed against the earlier builder.io/blog/why-every-agent-needs-a-face (agentface, 07-24): thematically adjacent (same author's agent-native thesis) but a distinct article — different URL, published 5 days apart (not a simultaneous content-hub drop), not the same event/release, and a distinct how-to angle (shared action abstraction vs. the earlier why-agents-need-a-visible-face argument). Kept under strict dedup criteria.",
-      "Diversity guard clean: 3 distinct outlets (Builder.io, 80 Level, DEV Community), 3 distinct categories (figma, render, tokens), distinct accents and motifs.",
-      "Pool held only 3 unique fresh items (WIDE-funnel run landed at floor). Picked all 3 — at the floor of 3, not padded."
+      "All 4 filtered candidates verified against the full design history by URL and by content/event: none previously ran.",
+      "smashingmagazine bull-and-bear (07-29) checked against the earlier smashingmagazine digital-design-ai-era / MacPaw Eney (published 07-29): distinct URL, distinct article and topic — kept.",
+      "uxdesign 'your-people-get-ai' checked against the earlier uxdesign 'aggressively-mediocre-fight' (07-25): distinct URL and article — kept.",
+      "Diversity guard clean: 4 distinct outlets (Engadget, Creative Bloq, Smashing Magazine, UX Collective), categories render/figma/tokens/figma (2 figma within the 1-2 cap), second figma card given a distinct accent #3b6bff.",
+      "WIDE-funnel run yielded only 4 unique fresh items; picked all 4 (above floor of 3, under cap of 5) — not padded."
     ],
     "below_target": false
   }

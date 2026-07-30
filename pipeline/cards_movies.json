@@ -1,84 +1,105 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "movies",
   "cards": [
     {
-      "id": "saga-ai-video-source-attribution",
+      "id": "autodesk-maya-3dgs-ai",
       "eyebrow": "AI NEWS",
-      "headline": "AI 영상을 만든 모델까지\n역추적하는 도구 SAGA",
-      "body": "UC 리버사이드 연구팀이 생성 영상에 남은 시각적 지문을 읽어 원본 모델을 추적한다.",
-      "mini_headline": "AI 영상 출처 추적",
+      "headline": "Autodesk가 마야·3ds Max에\nAI와 3DGS 도구를 더하다",
+      "body": "시그래프 2026에서 마야의 모션메이커가 스튜디오 자체 리그와 목캡으로 생성형 모션 모델을 학습한다.",
+      "mini_headline": "마야에 생성형 모션",
       "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/ai-tracing-tool",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "UC 리버사이드 연구팀이 SAGA(Source Attribution of Generative AI Videos)를 내놨다. 가짜인지 아닌지를 가리는 데서 그치지 않고, 그 영상을 만든 AI 시스템까지 되짚는 틀이다. 지도교수는 아밋 로이초두리, 이끈 사람은 박사과정 로힛 쿤두다."
-          },
-          {
-            "t": "p",
-            "x": "원리는 이렇다. 생성기가 프레임에 남기는 특유의 시각 패턴을 읽어낸다. 쿤두는 \"이 패턴은 생성 모델이 남긴 지문 같은 것\"이라고 설명했다. 생성기마다 서로 다른 포렌식 서명을 남기니, 이를 갈라낼 수 있다는 이야기다."
-          },
-          {
-            "t": "p",
-            "x": "프레임과 프레임 사이에서 시각 요소가 어떻게 바뀌는지를 뜯어본다. 생성기마다 이 전환을 다루는 방식이 다르고 남는 아티팩트도 제각각이라는 점을 파고든 접근이다."
+            "x": "시그래프 2026에서 오토데스크가 마야의 모션메이커에 'Bring Your Own Data' 기능을 더했다. 스튜디오가 자기 리그와 목캡 데이터로 생성형 모션 모델을 직접 학습시킬 수 있게 됐다."
           },
           {
             "t": "img",
-            "src": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334",
-            "cap": "AI 생성 영상의 출처를 되짚는 SAGA 프레임워크"
+            "src": "https://postperspective.com/wp-content/uploads/2026/07/Autodesk-Updates-SIGGRAPH-MAIN-624x416.jpg",
+            "cap": "시그래프 2026에서 공개된 오토데스크 업데이트"
           },
           {
             "t": "p",
-            "x": "딥페이크와 AI 허위정보가 불어나는 지금, 디지털 포렌식 조사관이 허위정보 캠페인을 출처까지 되짚도록 돕는 장치다. 이 연구에는 유튜브, 구글 딥마인드가 함께 참여했다."
+            "x": "3ds Max에는 편집 가능한 3D 가우시안 스플랫이 들어왔다. AI로 캡처한 환경을 샷 안으로 접어 넣는 길을 연 것이다."
+          },
+          {
+            "t": "p",
+            "x": "애니메이터와 VFX 아티스트가 퍼포먼스와 씬을 만들고 다듬는 방식이 공정 단위에서 바뀌는 변화다."
           }
         ]
       }
     },
     {
-      "id": "nvidia-synthetic-video-detector-mcp-siggraph",
+      "id": "beeble-switchlight-hybrid-set",
       "eyebrow": "AI NEWS",
-      "headline": "NVIDIA가 딥페이크 탐지와\nAI 에이전트를 함께 열다",
-      "body": "엔비디아가 시그래프 2026에서 합성 영상 탐지 NIM과 MCP를 공개했다.",
-      "mini_headline": "합성 영상 탐지 NIM",
+      "headline": "AI가 배경과 조명을 바꾸는\n하이브리드 촬영 현장",
+      "body": "비블의 스위치라이트로 배경과 조명은 AI가 바꾸고 배우의 연기와 카메라 워크는 그대로 남긴다.",
+      "mini_headline": "AI 리라이팅 현장",
       "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "엔비디아가 시그래프 2026에서 두 가지를 꺼냈다. 하나는 미디어 검증용 합성 영상 탐지기, 다른 하나는 MCP(Model Context Protocol)로 창작 도구 곳곳에 손을 뻗는 AI 에이전트다."
-          },
-          {
-            "t": "p",
-            "x": "합성 영상 탐지 NIM 마이크로서비스는 뉴스룸과 방송사가 합성 영상을 가려내도록 돕는다. 영상을 프레임 단위로 뜯어보고, 합성 요소가 섞였는지 분류 점수로 내놓는다. 편집팀은 이 점수로 \"검토 우선순위를 매기거나, 의심스러운 클립을 표시·격리하거나, 추가 확인으로 넘길\" 수 있다. 엔비디아는 이 도구가 \"기존 팩트체크를 대신하는 게 아니라 검증 과정에 보태는 신호\"라고 선을 그었다."
+            "x": "데미언 앨런이 AI를 섞은 하이브리드 촬영 방식을 짚는다. 토대는 비블의 스위치라이트다."
           },
           {
             "t": "img",
-            "src": "https://www.redsharknews.com/hs-fs/hubfs/agentic-ai-nemoclaw-on-dgx-station-siggraph26-1920x1080-1.jpg?width=1920&height=1080&name=agentic-ai-nemoclaw-on-dgx-station-siggraph26-1920x1080-1.jpg",
-            "cap": "시그래프 2026 DGX 스테이션 위의 에이전틱 AI 네모클로"
+            "src": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+            "cap": "AI 리라이팅으로 재구성한 촬영 장면"
           },
           {
             "t": "p",
-            "x": "정확도는 무압축 영상에서 92%, 15% 압축에서 87%, 50% 압축에서 82%다. 처리 속도는 RTX에서 1080p 기준 22밀리초, L40 GPU에서는 30밀리초다. 뉴스룸과 소셜 영상에서 흔한 압축·리사이즈·크롭·재인코딩까지 감당하고, 온프레미스와 에지, 하이브리드, 에어갭 환경에 두루 배치된다. 첫 파트너로는 Waza가 자사 Video Intelligence Framework에 탐지기를 붙였다."
+            "x": "배경을 바꾸고 조명을 다시 입히는 일은 AI가 맡되, 실제 배우의 연기와 카메라 워크는 그대로 지킨다. 전통적인 제작과 완전 합성 생성 사이의 중간 지대다."
+          },
+          {
+            "t": "p",
+            "x": "AI 리라이팅이 현장과 후반 작업 흐름을 어떻게 다시 짜는지, 직접 손을 대본 시선으로 풀어냈다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "puget-robo-dojo-siggraph",
+      "eyebrow": "AI NEWS",
+      "headline": "관객을 메타휴먼으로 바꾸는\n퓨젯의 로보 도조",
+      "body": "라이다 스캔과 LED 볼륨으로 관객을 실시간 메타휴먼 아바타로 바꿔 AI 로봇과 맞붙게 한다.",
+      "mini_headline": "실시간 메타휴먼 배틀",
+      "tool": "Movies",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "퓨젯 시스템스가 시그래프 2026에서 선보인 '로보 도조'는 관객을 실시간 메타휴먼 아바타로 바꿔 AI 로봇과 맞붙게 한다."
           },
           {
             "t": "img",
-            "src": "https://www.redsharknews.com/hs-fs/hubfs/nvidiaai%20agents.jpg?width=1920&height=1084&name=nvidiaai%20agents.jpg",
-            "cap": "창작 도구로 뻗어가는 엔비디아의 AI 에이전트"
+            "src": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
+            "cap": "시그래프 2026 퓨젯 스튜디오의 로보 도조"
           },
           {
             "t": "p",
-            "x": "MCP 연동도 넓어졌다. 어도비는 Firefly·Express·크리에이티브 클라우드 전반으로 에이전트를 확장하고, Canva의 Affinity는 Claude용 AI 커넥터를 더해 레이어 이름 바꾸기와 대량 편집을 맡긴다. 블렌더, Boris FX Silhouette, Foundry Griptape, SideFX Houdini 22, 언리얼 엔진도 각자 MCP를 통해 에이전트가 씬과 프로젝트 상태를 읽고 다루도록 문을 열었다."
+            "x": "라이다 스캔과 LED 볼륨 버추얼 프로덕션을 쓴다. 마커 없는 모션 캡처와 실시간 렌더링이 게임 엔진 파이프라인으로 곧장 흘러드는 라이브 데모다."
+          },
+          {
+            "t": "p",
+            "x": "퍼포먼스 캡처와 버추얼 프로덕션이 영화 쪽에서 어디로 향하는지, 손끝에 잡히는 한 장면이다."
           }
         ]
       }
