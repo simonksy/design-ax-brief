@@ -3,14 +3,19 @@
   "section": "books",
   "media": [
     {
-      "id": "daggermouth-60-percent-ai-study",
+      "id": "translators-craft-vs-ai",
       "type": "image",
-      "src": "pipeline/media/daggermouth-60-percent-ai-study.jpg"
+      "src": "pipeline/media/translators-craft-vs-ai.jpg"
     },
     {
-      "id": "publishing-perspectives-ai-course-2027",
+      "id": "editor-publisher-ai-survey",
       "type": "image",
-      "src": "pipeline/media/publishing-perspectives-ai-course-2027.jpg"
+      "src": "pipeline/media/editor-publisher-ai-survey.jpg"
+    },
+    {
+      "id": "poetry-foundation-scrape",
+      "type": "image",
+      "src": "pipeline/media/poetry-foundation-scrape.jpg"
     }
   ]
 }

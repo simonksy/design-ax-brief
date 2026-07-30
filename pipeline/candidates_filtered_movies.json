@@ -1,68 +1,51 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-31",
   "section": "movies",
-  "now_iso": "2026-07-29T22:04:32Z",
+  "now_iso": "2026-07-30T22:07:33Z",
   "window_hours": 336,
-  "note": "Section=movies, 14-day window (336h; window start 2026-07-15T22:04:32Z). Swept the movies allowed_domains across core + expanded angles (generative video models Runway/Sora/Veo/Kling/Luma, AI VFX, SIGGRAPH 2026 tools, previz, neural rendering, de-aging/dubbing, AI short film, deepfake tracing, Hollywood AI). SIGGRAPH 2026 (Jul 19-23, LA) drove most of the fresh craft news this run. All 10 kept pass freshness.py FRESH; every published_iso curl-verified via og:article:published_time / JSON-LD datePublished (never snippet dates). PAYWALL/BLOCK HANDLING: variety.com, deadline.com and indiewire.com 307-redirect to a tollbit host returning 402 for WebFetch; awn.com and animationmagazine.net return 403 for WebFetch. For all of these the real published_time + og:image were extracted via curl instead. DROPPED as STALE (real datePublished outside 336h window): Variety 'Odysseus: The Fall'/Fountain 0 (07-14T13:00Z = 345h, just past window); indiewire 'The Model Doesn't Matter' AI production platform (06-11); Variety Tilly Norwood 'Misaligned' (07-06); nofilmschool Beeble Canvas (05-19), Runway Gen-4.5 (01-22), Netflix Inkubator (05-15), SLAPSHOT camera tracking (2025-11-19), Beeble relighting (2025-12-08), Higgsfield Adobe plugin (05-28), Seedance 2.0 (02-11), Adobe NAB (04-15), Wonder Dynamics/Wallace (2021-01-05); redshark Beeble SwitchX (03-03), SLAPSHOT (2025-03-31); postperspective Electric Sheep (2025-07-17); fxguide DLSS 5 (03-17), SIGGRAPH AI panels (2023-08-20); provideocoalition Premiere AI Assistant (06-18); 80.lv Hyper3D Rodin (06-03). DROPPED by relevance filter (AI business/funding or booth-marketing, no craft hook): Variety Darren Aronofsky Primordial Soup raise; provideocoalition Puget Systems 'Robo Dojo' SIGGRAPH booth demo (07-20, marketing experience, not a workflow shift). Social: movies category defines no instagram_handles (IG skipped); Curious Refuge / Runway YouTube surfaced only evergreen tutorials with no verifiable in-window uploadDate, so skipped (social never blocks the run). Note on near-duplicates kept for outlet diversity: items pair up as (Gossip Goblin 'Gods Don't Give Gifts' = Deadline+Variety) and (Reply AI Film Festival = Deadline+Variety); downstream curator will topic-dedup. Result: 10 FRESH candidates across 6 distinct outlets (No Film School x2, postPerspective x2, Deadline x2, Variety x2, RedShark News x1, Animation Magazine x1) - well above floor 3 / target 5.",
+  "count": 5,
+  "note": "Section = movies (single 'movies' category), 14-day/336h window (start 2026-07-16T22:07:33Z). Every kept item's published time was verified via WebFetch (og/JSON-LD/byline) and gated FRESH through pipeline/freshness.py 'movies'. The fresh, extractable movies x AI beat this run is dominated by SIGGRAPH 2026 (July 19-23, LA) tool/craft announcements. DIVERSITY CAVEAT: items 4 and 5 cover the SAME story (Puget Systems 'Robo Dojo' SIGGRAPH activation) from two outlets (ProVideo + RedShark) -- kept as a wide-funnel outlet choice; curator should dedup to at most one. 4 distinct stories across 3 outlets (RedShark x2, ProVideo x2, postPerspective x1; all under the <=3/outlet collection cap). DEPRIORITIZED/SKIPPED (already-published or noted in keywords): fxguide Foundry SmartRoto (Jul 16, roto matting already carded), Lightcraft Spark Story previz (SIGGRAPH, already carded), Adobe Premiere Generative Media Tool (already carded). CONFIRMED STALE and dropped (date-verified via WebFetch): 80.lv OctaneStudio+ 2026 (Dec 2 2025), fxguide NUKE 17.0 Gaussian Splats beta (Dec 12 2025), nofilmschool Imagen Video color grading (Apr 21 2026), nofilmschool Runway Seedance 2.0 (Apr 7 2026), 80.lv Move Genesis mocap (Apr 9 2026), redsharknews Aiarty upscaler (Jun 29 2026), provideocoalition After Effects Portal (Jun 30 2026), fxguide SwitchHDR (Jul 9 2026, just outside window), fxguide DiffusionRenderer relighting (Jun 17 2025), redsharknews/postperspective Beeble SwitchLight 3.0 launch (Dec 10 2025), nofilmschool Kling 3.0 (Feb 2026), nofilmschool/postperspective Adobe Color Mode + Tether plugin (Jan-May 2026), postperspective Puget AI server (Aug 2023 -- search mixed old/new). BLOCKED/unverifiable (dropped, could not extract published_time -- all redirect to tollbit.* returning HTTP 402/307): several genuinely fresh Variety/Hollywood Reporter/Deadline/IndieWire AI-film items (Variety 'Young Washington' Jon Erwin AI VFX breakdown, Variety Panjaya x Shortical AI dubbing, Deadline Christopher Nolan on AI slop, HR AI-generated Odysseus feature, HR Aronofsky AI studio raise, IndieWire 'The Model Doesn't Matter' AI platform) -- WebFetch cannot pass the tollbit paywall so published time is unverifiable; per rules these are dropped. WebSearch budget (200) was fully exhausted; remaining verification done via WebFetch of listing/article pages. Social: movies category defines its own youtube_channels but no verifiable in-window AI upload surfaced within budget; IG not defined for movies (skipped). og_image taken from each page's hero/og image.",
   "items": [
     {
-      "category": "movies",
-      "source": "No Film School",
-      "title": "This new tool aims to identify and trace AI videos back to their source models",
-      "url": "https://nofilmschool.com/ai-tracing-tool",
-      "published_iso": "2026-07-28T20:11:57Z",
-      "excerpt": "A UC Riverside team built SAGA (Source Attribution of Generative AI Videos), one of the first large-scale frameworks to trace an AI-generated clip back to the model that made it by reading the distinctive visual 'fingerprints' each generator leaves behind - a provenance tool with direct implications for deepfakes, rights and AI disclosure in filmmaking.",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334"
-    },
-    {
-      "category": "movies",
-      "source": "RedShark News",
-      "title": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026",
-      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
-      "published_iso": "2026-07-28T11:16:04Z",
-      "excerpt": "At SIGGRAPH 2026 NVIDIA introduced a Synthetic Video Detector NIM microservice to help newsrooms and broadcasters flag AI-generated video, and showcased AI-agent integrations (via MCP) reaching into creative tools like Adobe and Unreal Engine - signalling how detection and agentic AI are entering the production and post pipeline.",
-      "og_image": "https://www.redsharknews.com/hubfs/nvidia%20nemoclaw.jpg"
-    },
-    {
-      "category": "movies",
+      "title": "Autodesk Adds AI and 3DGS Tools Across Maya, 3ds Max and More",
+      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
       "source": "postPerspective",
-      "title": "Lightcraft launches beta for Spark Story interactive previz tool",
-      "url": "https://postperspective.com/lightcraft-launches-beta-for-spark-story-interactive-previz-tool/",
-      "published_iso": "2026-07-17T19:46:30Z",
-      "excerpt": "Lightcraft is opening a rolling beta of Spark Story, an interactive previz platform that pairs a 3D asset library (World Labs 'Marble' environments, 300+ assets), one-click real-time 24p/25p live-action compositing on iOS, and live global collaboration over scripts, Gaussian splats and USD assets - aimed at shaping shots and cutting costs from day one of preproduction.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Lightcraft-Launches-Beta-for-Spark-Story-MAIN.jpg"
+      "category": "movies",
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Autodesk-Updates-SIGGRAPH-MAIN-624x416.jpg",
+      "excerpt": "At SIGGRAPH 2026 Autodesk added a 'Bring Your Own Data' feature to Maya's MotionMaker, letting studios train custom generative motion models on their own rigs and mocap, plus editable 3D Gaussian splats in 3ds Max for folding AI-captured environments into shots. A craft-level shift in how animators and VFX artists generate and edit performance and scenes."
     },
     {
+      "title": "Is this the future of filmmaking?",
+      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+      "source": "ProVideo Coalition",
       "category": "movies",
-      "source": "Animation Magazine",
-      "title": "SIGGRAPH: 'Kok Boru' director Amina Omirjan talks frankly about the making of Higgsfield AI's new short",
-      "url": "https://www.animationmagazine.net/2026/07/siggraph-kok-boru-director-amina-omirjan-talks-frankly-about-the-making-of-higgsfield-ais-new-short/",
-      "published_iso": "2026-07-22T23:51:33Z",
-      "excerpt": "Higgsfield premiered 'Kok Boru,' a 15-minute historical-drama short, at SIGGRAPH 2026, and its director details the hybrid human-AI pipeline: hand-drawn character designs, props and painted textures define look and performance before 'conditioning' the AI output - a candid, craft-first look at where generative animation actually helps and where it doesn't.",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Kok-Boru-trailer-sc.jpg"
+      "published_iso": "2026-07-28T12:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+      "excerpt": "Damian Allen walks through a hybrid AI film-set approach built on Beeble's SwitchLight, where AI transforms backgrounds and relighting while real actor performances and camera work are preserved -- a middle ground between traditional production and fully synthetic generation. A hands-on read on how AI relighting reshapes the on-set and post workflow."
     },
     {
+      "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
+      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
+      "source": "ProVideo Coalition",
       "category": "movies",
-      "source": "Variety",
-      "title": "AI YouTuber Gossip Goblin plans to release AI film 'Gods Don't Give Gifts' in movie theaters",
-      "url": "https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068/",
-      "published_iso": "2026-07-22T16:00:00Z",
-      "excerpt": "Variety reports on Gossip Goblin's plan to bring the AI-generated anthology 'Gods Don't Give Gifts' to theaters this fall - a marker of AI-native creators moving from viral YouTube shorts to theatrical features. (Same story as the Deadline item; kept for outlet diversity.)",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/Corbin-Exclusive-Asset-1.png?w=1000&h=563&crop=1"
+      "published_iso": "2026-07-20T12:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg",
+      "excerpt": "Puget Systems' SIGGRAPH 2026 'Robo Dojo' turns attendees into real-time MetaHuman avatars battling AI robots using LiDAR scanning and LED-volume virtual production, a live demo of markerless motion capture and real-time rendering feeding a game-engine pipeline. A tactile snapshot of where performance capture and virtual production are heading for film."
     },
     {
+      "title": "Puget Systems' Robo Dojo proves SIGGRAPH attendees have all the fun",
+      "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
+      "source": "RedShark News",
       "category": "movies",
-      "source": "Deadline",
-      "title": "Venice-set Reply AI Film Festival unveils finalists and jury",
-      "url": "https://deadline.com/2026/07/venice-set-reply-ai-film-festival-jury-gabriele-salvatores-1237005581/",
-      "published_iso": "2026-07-28T13:59:22Z",
-      "excerpt": "The third Reply AI Film Festival, running alongside the Venice Film Festival, selected 10 AI-made shorts from 3,000 submissions across 76 countries and named a jury including Gabriele Salvatores, Catherine Hardwicke and Jed Weintrob. Winners across Best Short Film, an AI for Good Award and the Reply AI Studios Grand Prix are announced September 6.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/07/MixCollage-28-Jul-2026-02-49-PM-2514.jpg?w=1024"
+      "published_iso": "2026-07-22T09:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
+      "excerpt": "RedShark's take on Puget Systems' SIGGRAPH 2026 Robo Dojo, where visitors drive a MetaHuman in real time to fight AI robots through body movement, showcasing advances in markerless motion capture and real-time virtual production. (Same event as the ProVideo item -- included as an outlet alternative; dedup to one.)"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 6,
+    "dropped": 1,
+    "kept": 4,
     "against_days": 5
   }
 }

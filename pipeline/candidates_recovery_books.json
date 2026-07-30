@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-31",
+  "section": "books",
+  "now_iso": "2026-07-30T22:07:33Z",
+  "window_hours": 336,
+  "count": 2,
+  "note": "RECOVERY pass for books (floor 3; only 2 kept after dedup). WebSearch budget was exhausted (200/200), so this pass swept allowed_domains listing/topic pages via WebFetch: Publishers Weekly (content-and-e-books, publisher-news, audio-books, apps, home), thebookseller, goodereader (home + digital-publishing), janefriedman, thecreativepenn, kindlepreneur, writersdigest, lithub(429), teleread, the-digital-reader(403), electricliterature(404), publishingperspectives (news + home), booksandpublishing, bookriot, scholarlykitchen, wired(blocked), arstechnica(blocked), goodreads blog, bookbub. The window (2026-07-16..07-30) is thin and picked-over: fresh AI items are dominated by copyright/legal/business (Anthropic $1.5B settlement Jul 20/21, Google Gemini publisher lawsuit Jul 14, Substack Pangram AI-detection Jul 22/29) or were already collected/published (course, translators, researchers-survey, DAGGERMOUTH 60% AI study, NYT AI-nonfiction, book-banner tools, around-the-book-world, multi-cast AI-narration study). Two NEW distinct fresh items with an AI-generated-content / creative-market hook surfaced and were date-verified: the janefriedman market-dilution research (a creative-industry counterpart to the already-run DAGGERMOUTH detection study) and the PW Poetry Foundation AI-generated-educational-content story. New items only; neither duplicates candidates_books.json or news_data sections.books. NOTE for curator: item 1 leans market-economics and item 2 carries a copyright/scraping dimension — both included to clear floor and offer a choice; drop whichever reads as too business/legal for the beat.",
+  "items": [
+    {
+      "title": "Researchers attempt to prove that generative AI dilutes the market for books",
+      "url": "https://janefriedman.com/researchers-attempt-to-prove-that-generative-ai-dilutes-the-market-for-books/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-07-29T16:00:00Z",
+      "og_image": "",
+      "excerpt": "A new study tries to put empirical numbers on a fear authors have voiced for years: that the flood of generative-AI-written books measurably shrinks the market and attention available to human-authored work. A creative-industry counterpart to the AI-detection studies the beat already runs, framing how AI-generated output reshapes what gets read and sold."
+    },
+    {
+      "title": "Poetry Foundation Library Scraped, Used to Make AI-Generated Educational Content",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100955-poetry-foundation-library-scraped-used-to-make-ai-generated-educational-content.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-07-30T10:00:00Z",
+      "og_image": "",
+      "excerpt": "Giggle Academy, a 'free learning' platform founded by Binance's CZ Zhao, scraped hundreds of copyrighted poems from the Poetry Foundation to auto-generate illustrated lessons and storybooks with no human curation. A concrete look at AI-generated creative/educational content at scale — and what fully-automated book-making does to poets and publishers. (Carries a copyright/scraping dimension; included as a second recovery option.)"
+    }
+  ]
+}

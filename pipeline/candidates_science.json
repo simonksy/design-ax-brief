@@ -1,95 +1,55 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-07-molecular-ray-ai-tool-redesigns.html",
+      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
+      "excerpt": "Cleveland Clinic and IBM researchers built Q-CHIPP, a quantum machine-learning framework that predicts which tumor neoantigens will trigger an immune response, outperforming classical methods under data-limited conditions by learning biological patterns from as few as 150 samples on 46 qubits."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-07-28T12:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png",
+      "excerpt": "A new theoretical framework proposes two scalable quantum-circuit architectures and a parallel training method that mathematically avoids 'barren plateaus,' aiming to make large quantum neural networks trainable while keeping them hard to simulate classically."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-subseasonal-ai.html",
       "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-29T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/like-a-molecular-shrin.jpg",
-      "excerpt": "Raygun, an AI framework from Duke University, converts proteins into standardized mathematical representations learned from millions of natural sequences, letting researchers create shorter, longer and highly modified versions of proteins while preserving their structure and function."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-s-3.jpg",
-      "excerpt": "Ohio State astronomers trained AI on simulated lens examples to find seven candidate gravitationally lensed quasars among 800,000 DESI survey objects, roughly doubling the number found in past surveys."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/soil-carbon-effectivel-3.jpg",
-      "excerpt": "Cornell researchers developed a biogeochemistry-informed neural network (BINN) that measures soil carbon 50 times faster than prior methods while preserving accuracy and reducing regional bias, aiding climate-mitigation modeling."
-    },
-    {
-      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
-      "source": "Google Research",
-      "category": "science",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
-      "excerpt": "A national-scale Google Research study of SymptomAI, a conversational diagnostic agent, found clinicians preferred the AI's differential-diagnosis suggestions over those of other clinicians in more than half of real-world cases."
-    },
-    {
-      "url": "https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/",
-      "source": "Physics World",
-      "category": "science",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/21-07-26-medical-ai-fig1.jpg",
-      "excerpt": "A new study finds membership-inference attacks can extract sensitive patient information from diagnostic medical-AI models far more effectively than believed, with the privacy risk concentrated among underrepresented minority groups in the training data."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-07-children-ai-framework-theorize-world.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-1.jpg",
-      "excerpt": "KAIST researchers built a Learning-to-Theorize (L2T) framework, inspired by how children learn, that lets AI discover on its own which rule produced an observed change by composing reusable primitives into executable programs, generalizing far better than prediction-focused models."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
-      "source": "Tech Xplore",
       "category": "science",
       "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
-      "excerpt": "Tohoku University built a closed-loop, self-driving-lab AI framework that pairs machine learning with automated experiments, feeding each new result back into the models to guide the next round and shorten clean-energy materials discovery by years."
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chasing-subseasonal-fo.jpg",
+      "excerpt": "NSF NCAR researchers use CAMulator, a machine-learning emulator that replicates a complex atmospheric model roughly 350 times faster, to push subseasonal weather forecasting (2-8 weeks out) by generating long simulations at a fraction of the compute cost."
     },
     {
-      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
-      "excerpt": "National University of Singapore researchers developed AI methods that infer hidden variables from microscopic observations to predict large-scale material behavior, dramatically cutting the cost of simulations that would otherwise be prohibitively expensive."
-    },
-    {
-      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-      "source": "Google Research",
-      "category": "science",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
-      "excerpt": "Google Research demonstrated a reinforcement-learning framework in which an autonomous agent learns from quantum error detections to continuously steer thousands of control parameters, letting a quantum computer self-calibrate mid-computation instead of resetting."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-07-standardized-battery-database-ai-solid.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/accelerating-solid-sta.jpg",
-      "excerpt": "University of Maryland researchers built a standardized solid-state battery database of 245 records and 167 structured variables to enable consistent reporting and power AI-driven solid-state battery design and optimization."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-07-ai-powered-method-enables-instant.html",
-      "source": "Tech Xplore",
+      "url": "https://phys.org/news/2026-07-ai-tools-protein-chemically-impossible.html",
+      "source": "Phys.org",
       "category": "science",
       "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/instant-ultrasound-ima.jpg",
-      "excerpt": "IMDEA Materials Institute researchers developed an AI-powered ultrasound method that reconstructs a complete, accurate image from a single fixed sensor capturing one signal at a single instant, eliminating the need for complex multisensor arrays."
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dynamics.jpg",
+      "excerpt": "Rensselaer Polytechnic Institute researchers found that leading AI protein-structure prediction tools frequently generate physically and chemically impossible results, exposing blind spots and arguing that physics-based molecular-dynamics verification and human oversight remain essential."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-drug-discovery-qa.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/drug-discovery-1.jpg",
+      "excerpt": "A University of Washington Q&A explains how AI now designs and optimizes drug candidates for delivery, stability and pharmacokinetics, tackling the bottleneck in which roughly 90% of candidates never reach the market, tied to a new institute for AI-enabled molecular design."
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "source": "MIT Technology Review",
+      "category": "science",
+      "published_iso": "2026-07-27T12:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
+      "excerpt": "AI is identifying therapeutic targets faster than ever, but the speed is exposing physical lab bottlenecks and a need for better-quality experimental data to close the loop between AI predictions and validated drug candidates."
     }
   ],
-  "count": 11
+  "count": 6
 }

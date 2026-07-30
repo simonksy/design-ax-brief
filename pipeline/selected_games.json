@@ -1,69 +1,44 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "games",
   "selection_mode": "auto",
+  "count": 2,
   "shortfall": true,
-  "shortfall_reason": "Fresh pool held only 5 candidates. Backstop dedup dropped 1 as a content duplicate of already-published games history, leaving 4 unique fresh stories. Pool genuinely exhausted below the cap of 5 — not padded (floor 3 satisfied).",
+  "shortfall_reason": "User deferred; curator auto-picked by scoring. Pool of 3. DROPPED 1: the Meshy 80.lv article is NOT in sections.games history but the exact URL is already LIVE and published in the movies section's current 'today' deck (2026-07-30, id 'meshyagent', full translated card + pipeline/media/meshyagent.jpg). Earliest-wins plus the known cross-section card-id/media collision rule => dropped rather than republish the same URL a day later in a second section. That leaves 2 genuinely-fresh, section-unique stories; below the floor of 3 only because the fortnight's game x AI pool is genuinely thin (collector confirmed the remainder STALE), not padded.",
   "dedup_dropped": [
     {
-      "title": "Half of all games released on Steam will use AI by 2028, study predicts",
-      "url": "https://www.gamesradar.com/games/half-of-all-games-released-on-steam-will-use-ai-by-2028-study-predicts-ai-lowers-the-barrier-not-just-to-make-a-game-but-to-make-several/",
-      "source": "GamesRadar+",
-      "reason": "Content duplicate of the published games card 'steamcensus' (PC Gamer, 2026-07-24 days entry, surfaced in today block). Same underlying Sulka Haro census of ~53,600 Steam titles, same 30.8%-of-2026-releases figure, and the same core projection that roughly half of Steam games disclose/use AI by 2027-2028. Same event via a different outlet + reworded headline = duplicate under the hard dedup rule; earliest-wins."
+      "title": "Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner",
+      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
+      "source": "80 Level",
+      "reason": "Cross-section duplicate: this exact URL is already published in the movies section's live 'today' deck (2026-07-30, id 'meshyagent'). Not in sections.games history, but earliest-wins (the story already appeared 2026-07-30) and the cross-section card-id + shared pipeline/media file collision rule mean it must not reappear in games on 2026-07-31."
     }
   ],
   "picks": [
     {
-      "title": "Unity unveils Unity 7 roadmap with an update path that won't break your build",
-      "headline": "Unity unveils Unity 7 roadmap with an update path that won't break your build",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
-      "source": "Game Developer",
-      "published_iso": "2026-07-21T02:00:00Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Unity's Unity 7 roadmap adds a CLI/public API and a free MCP server that wires coding agents directly into the engine, so creators and AI agents can validate assets, push builds, and collaborate side by side — framed as optional, with no breaking changes from Unity 6.",
+      "title": "New method teaches AI to make 2D designs 3D",
+      "headline": "New method teaches AI to make 2D designs 3D",
+      "url": "https://www.pcgamer.com/software/ai/new-method-teaches-ai-to-make-2d-designs-3d-and-now-im-afraid-this-will-be-how-the-robots-learn-to-build-themselves-without-us/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-22T14:51:10Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg",
+      "excerpt": "A new AI technique converts flat 2D designs into usable 3D geometry, a workflow shift directly relevant to how game artists could turn concept art into game-ready assets. PC Gamer walks through what the method does and where it could plug into asset-creation pipelines.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Most actionable of the pool: a free MCP server plus CLI/public API lets AI coding agents drive the engine directly, changing how Unity devs script builds and validate assets tomorrow — with an explicit no-breaking-changes upgrade path."
+      "rationale": "Most actionable of the pool: a concrete new 2D-to-3D method that plugs straight into a game artist's concept-art-to-asset pipeline; fresh, credible, and unique to the games section."
     },
     {
-      "title": "NVIDIA DLSS 5 hands over full control to artists to 'direct the final frame'",
-      "headline": "NVIDIA DLSS 5 hands over full control to artists to 'direct the final frame'",
-      "url": "https://wccftech.com/nvidia-dlss-5-hands-over-full-control-to-artists-to-direct-the-final-frame/",
-      "source": "Wccftech",
-      "published_iso": "2026-07-21T19:35:40Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
-      "excerpt": "A SIGGRAPH technical demo shows DLSS 5's neural rendering pipeline handing artists control to 'direct the final frame,' using a one-step pixel-space diffusion transform to reach 4K, life-like visuals on a single GPU. A craft shift: AI upscaling moves from a black box to a directable creative tool in the art pipeline.",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Novel craft shift from SIGGRAPH: neural upscaling turns from a black box into a directable tool artists can steer, giving game art teams new authorship over the final rendered frame."
-    },
-    {
-      "title": "'It creates lesser games': Indie studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
-      "headline": "'It creates lesser games': Indie studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
-      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+      "title": "\"A couple of companies have managed to ignite a culture war\": Games AI veteran says it can be useful, but we've made mountains out of ChatGPT's molehills",
+      "headline": "\"A couple of companies have managed to ignite a culture war\": Games AI veteran says it can be useful, but we've made mountains out of ChatGPT's molehills",
+      "url": "https://www.gamesradar.com/games/a-couple-of-companies-have-managed-to-ignite-a-culture-war-and-bring-the-economy-to-the-brink-of-collapse-games-ai-veteran-says-it-can-be-useful-but-weve-made-mountains-out-of-chatgpts-molehills/",
       "source": "GamesRadar+",
-      "published_iso": "2026-07-19T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
-      "excerpt": "Indie studios are supposedly the natural adopters of generative AI, yet 25 developers explain why they keep it out of their craft — arguing the tools 'create lesser games' and erode the hand-made quality players can feel. A grounded look at why the workflow promise isn't landing with small teams.",
+      "published_iso": "2026-07-30T20:01:40Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/n5ePDh9VeKLrM8XNBwZ4YX-1920-80.jpg",
+      "excerpt": "Veteran games-AI researcher Luke Dicken argues the industry's real opportunity is richer, more adaptive player experiences and smarter production tooling -- not replacing human talent -- and that the loudest genAI hype and backlash have both overshot the actual craft. A grounded read on where machine learning genuinely changes how games get designed and balanced.",
       "tool": "Games",
       "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Reported insight from 25 named indie devs on why generative-AI workflows don't hold up in practice — a grounded counterweight that helps designers weigh where the tools actually help versus hurt the finished game."
-    },
-    {
-      "title": "All The Video Game Studios That Refuse To Use Generative AI",
-      "headline": "All The Video Game Studios That Refuse To Use Generative AI",
-      "url": "https://aftermath.site/video-games-no-ai/",
-      "source": "Aftermath",
-      "published_iso": "2026-07-29T18:24:46Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg",
-      "excerpt": "A running roll-call of game studios publicly pledging to keep generative AI out of their development, with devs framing it as a craft-and-values stance — 'ownership of the work has to be traceable' and 'AI art will never match sentient creation' — a counterweight to the industry's AI-adoption push.",
-      "tool": "Games",
-      "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Freshest item (2026-07-29): a living directory of studios publicly refusing generative AI, useful signal on where the craft-and-provenance line is being drawn across the industry; distinct in outlet and framing from the GamesRadar indie-devs feature."
+      "rationale": "Newest item (Jul 30) and the most credible sober take on where ML actually changes game design and balancing; distinct GamesRadar URL not in games history. Second games-category card, so given a distinct palette accent."
     }
   ]
 }

@@ -1,90 +1,84 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "gadgets",
-  "selection_mode": "auto",
+  "count": 5,
+  "selection_mode": "curator_auto",
+  "note": "User deferred ('알아서'). Curator auto-picked top 5 from the 9-item fresh pool by actionability/novelty/credibility/diversity. Dedup vs sections.gadgets history (07-25 -> 07-30, today + days): checked all 9 candidates by URL + content against published stories (Meta Ray-Ban Display, Oura Ring 5, iOS 27 Siri, Alexa+, Samsung eyewear/Watch9/Z-flip8, Garmin CIRQA, Apple glasses, 1X Neo, AMD X100, BYD, BrainCo, Looki, Honor robot-phone, AI-camera-earbuds, Gemini automation/home) -- ZERO duplicates, no drops. FINAL-5 DIVERSITY GUARD satisfied: 5 distinct outlets (The Verge, MacRumors, Tom's Hardware, Engadget, Android Authority -- max 1 per outlet, under the <=2 cap) and 5 distinct clusters (embodied AI/robots, AI companion device, edge AI silicon, standalone AI camera, smart glasses -- no category doubled). Dropped from final: Engadget Sonos (event-teaser, weak actionability), Engadget Friend (would triple Engadget + overlaps companion-device cluster), TechRadar Insta360 (interview, would double the AI-camera cluster), Android Authority Snap (event-teaser + would double glasses cluster).",
   "picks": [
     {
       "rank": 1,
-      "headline": "Meta's Ray-Ban Display glasses get a smarter on-board AI with the new Muse Spark model",
-      "tool": "Meta",
-      "category": "gadgets",
+      "id": "gemini-robotics-2-whole-body",
+      "tool": "Google DeepMind",
+      "headline": "Google DeepMind's Gemini Robotics 2 can control a humanoid robot's entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge",
+      "published_iso": "2026-07-30T17:18:45Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200",
+      "excerpt": "Google DeepMind announced Gemini Robotics 2, a model that adds intelligent whole-body control so a humanoid robot can coordinate its arms, torso and base together -- tying up trash bags, unscrewing lightbulbs and handling multi-step chores. A concrete step toward general-purpose embodied AI in consumer-facing home robots.",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://gizmodo.com/the-meta-ray-ban-displays-dumb-smart-glasses-ai-is-dumb-no-more-2000791752",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-28T11:05:00-04:00",
-      "og_image": "https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17.jpg",
-      "excerpt": "Meta has begun rolling out an improved Muse Spark AI model to its Ray-Ban Display smart glasses, its only screen-equipped pair. The upgraded on-glasses assistant is described as snappier, more natural, and far better at following what the wearer is doing.",
-      "rationale": "A real on-device assistant upgrade shipping to screen glasses changes what designers can prototype for glanceable, context-aware AR AI today; distinct event from the earlier Meta glasses review card."
+      "category": "gadgets",
+      "rationale": "Highest novelty + credibility: a new foundation-model release that unlocks whole-body embodied control, the frontier of consumer home robots -- and the strongest fresh cluster not yet in gadgets history."
     },
     {
       "rank": 2,
-      "headline": "Oura Ring 5 review: a smaller smart ring with on-body Oura Advisor AI coaching",
-      "tool": "Oura",
-      "category": "gadgets",
-      "accent": "#eb367f",
+      "id": "openai-first-device-companion-speaker",
+      "tool": "OpenAI",
+      "headline": "OpenAI's first device is a screenless, movable AI companion speaker -- with a smartphone to follow",
+      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
+      "source": "MacRumors",
+      "published_iso": "2026-07-28T18:00:00-07:00",
+      "og_image": "https://images.macrumors.com/t/bzVs-8bKuClS_OQgMN-mbh9HsqQ=/2500x/article-new/2026/05/OpenAI-Smartphone-Feature.jpg",
+      "excerpt": "OpenAI's hardware roadmap has sharpened: its first product is a portable, screenless smart speaker built with former Apple design chief Jony Ive as an at-home AI companion, with a camera to understand its surroundings and a smartphone reportedly arriving as soon as next year. A design-led rethink of what an AI-native home device looks like.",
+      "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://gizmodo.com/oura-ring-5-review-the-best-smart-ring-right-now-and-its-not-close-2000785576",
-      "source": "Gizmodo",
-      "published_iso": "2026-07-28T07:00:00-04:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
-      "excerpt": "A review of the fifth-gen Oura smart ring, 40% smaller than before, with the built-in Oura Advisor AI delivering personalized health guidance from the wearer's biometric data. It makes the case for on-body AI wellness coaching over always-on companion gadgets.",
-      "rationale": "New hardware plus embedded Oura Advisor AI reframes wearable UX from passive tracking to proactive coaching; a distinct product from the already-published Ultrahuman ring."
+      "category": "gadgets",
+      "rationale": "Design-led product reveal (Jony Ive, screenless companion) that reframes what an AI-native home device looks like -- top-tier novelty for a designer audience, distinct companion-device cluster."
     },
     {
       "rank": 3,
-      "headline": "iOS 27's new Siri delivers on Apple Intelligence in every way I'd hoped",
+      "id": "apple-silicon-local-ai-m4-max",
       "tool": "Apple",
-      "category": "gadgets",
-      "accent": "#f5a623",
+      "headline": "Exploring Apple Silicon's local AI performance with the Mac Studio and M4 Max",
+      "url": "https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-07-30T14:52:28Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7CNCn9fXJZV5ZAHnri4ZWE-1920-80.jpg",
+      "excerpt": "A hands-on benchmark of on-device LLM performance across Apple's M4 Max, NVIDIA's GB10 and AMD Strix Halo, finding the M4 Max leads on decode throughput while memory bandwidth alone doesn't decide the winner. A concrete look at which consumer hardware actually runs local AI well for creative and dev workloads.",
+      "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
-      "source": "9to5Mac",
-      "published_iso": "2026-07-23T11:19:00-07:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "A hands-on with iOS 27's rebuilt Apple Intelligence Siri praises its expanded on-device knowledge, conversational interface, personal-context awareness, and unified in-app actions across iPhone, iPad, and Mac. It reads as the first Siri that finally delivers on Apple's AI promises.",
-      "rationale": "First credible hands-on of the overhauled Siri and its cross-app actions, a system-level AI surface designers must account for; distinct from the niche macOS voice-pad already covered."
+      "category": "gadgets",
+      "rationale": "Highest actionability: a hands-on benchmark telling designers/devs which hardware actually runs local AI best -- changes purchase and workflow decisions tomorrow. Distinct edge-silicon cluster."
     },
     {
       "rank": 4,
-      "headline": "Amazon turns Alexa+ into a full-blown app store for smart-home makers",
-      "tool": "Alexa+",
-      "category": "gadgets",
-      "accent": "#0070f3",
+      "id": "dji-osmo-pocket-4p-review",
+      "tool": "DJI",
+      "headline": "DJI Osmo Pocket 4P review: the gimbal camera goes pro with dual lenses",
+      "url": "https://www.engadget.com/2226364/dji-osmo-pocket-4p-review/",
+      "source": "Engadget",
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/dji-osmo-pocket-4p-review/l-intro-1785434430.jpg",
+      "excerpt": "DJI's pocket gimbal camera goes 'pro' with two lenses, optical zoom, class-leading dynamic range and AI subject tracking. A creator-focused standalone AI camera that reshapes how solo shooters capture and follow subjects on the move.",
+      "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://www.digitaltrends.com/computing/amazon-just-turned-alexa-into-a-full-blown-app-store/",
-      "source": "Digital Trends",
-      "published_iso": "2026-07-23T12:00:00-04:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/06/Amazon-Echo-Hub-3.jpg?resize=1200%2C720",
-      "excerpt": "Amazon's new Alexa+ developer toolkit lets smart-home device makers plug their full feature sets directly into the AI assistant instead of burying them in separate apps. Bosch, Whirlpool, iRobot, Govee, Yale Home, and Eufy are the first partners onboard.",
-      "rationale": "An agent-first platform shift, exposing device features to the assistant rather than a companion app, that directly reshapes how designers plan smart-home product experiences."
+      "category": "gadgets",
+      "rationale": "Actionable creator tool with a full hands-on review: AI subject tracking + dual lenses reshape how solo shooters capture -- the standalone AI-camera pick, chosen over the Insta360 interview to keep the cluster single."
+    },
+    {
+      "rank": 5,
+      "id": "halliday-g2-camera-free-glasses",
+      "tool": "Halliday",
+      "headline": "Halliday G2: camera-free smart glasses bring heads-up meeting AI",
+      "url": "https://www.androidauthority.com/halliday-g2-smart-glasses-launch-3689649/",
+      "source": "Android Authority",
+      "published_iso": "2026-07-21T13:00:34Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Halliday-G2-with-Case.jpg",
+      "excerpt": "The Halliday G2 skips the camera and instead leans on binocular micro-LED displays and a 'Meeting Flow' AI that delivers live translation, captioning, research lookups and post-meeting transcripts in a sub-50g frame. A privacy-forward take on how AI eyewear can assist without recording everyone around you.",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "category": "gadgets",
+      "rationale": "Actual shipping product (not an event teaser) with a distinct privacy-forward, camera-free design angle -- adds the 5th outlet and the smart-glasses cluster, chosen over Snap's teaser to give 5 distinct outlets and 5 distinct categories."
     }
-  ],
-  "shortfall": {
-    "target": 5,
-    "floor": 3,
-    "selected": 4,
-    "reason": "The 5-item filtered pool yielded 4 distinct fresh stories after dedup. Candidate #5 (Galaxy Z Fold 8 hardware redesign, Android Authority) was dropped as a same-event / same-outlet content-hub duplicate of the already-published gemini-nano-4-fold8 (Android Authority, same Unpacked launch). No backfill available beyond the pool. 4 distinct stories meets the floor of 3; not padded to 5."
-  },
-  "dedup_notes": {
-    "checked_against": "pipeline/news_data.json -> sections.gadgets (today 2026-07-29 + days 07-24 through 07-28).",
-    "dropped_as_published_dup": [
-      {
-        "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-3688636/",
-        "reason": "Candidate #5. Same Galaxy Z Fold 8 launch (Unpacked), same outlet (Android Authority) as already-published gemini-nano-4-fold8 (androidauthority 3690495). Content-hub duplicate of the same product/event; dropped per orchestrator flag."
-      }
-    ],
-    "dropped_within_pool_dup": [],
-    "kept_distinct_despite_topical_proximity": [
-      {
-        "url": "https://gizmodo.com/the-meta-ray-ban-displays-dumb-smart-glasses-ai-is-dumb-no-more-2000791752",
-        "reason": "Distinct event (Muse Spark on-glasses AI model rollout, Jul 28) vs the already-published Gizmodo Meta glasses review + subscriptions card."
-      },
-      {
-        "url": "https://9to5mac.com/2026/07/23/ios-27s-new-siri-delivers-in-every-single-way-id-hoped-for/",
-        "reason": "Broad hands-on of the new Siri (9to5Mac) vs the published voicepad card (MacRumors), which covers only a niche hidden macOS voice-pad UI. Different hook, outlet and facts."
-      }
-    ],
-    "diversity": "Final 4 spans three distinct outlets: Gizmodo x2 (within the <=2-per-domain cap), 9to5Mac x1, Digital Trends x1. Single-category section (gadgets); each pick gets a distinct accent (#ff5a4d, #eb367f, #f5a623, #0070f3). Angles span AR glasses AI / wearable health AI / phone system assistant / smart-home agent platform."
-  }
+  ]
 }

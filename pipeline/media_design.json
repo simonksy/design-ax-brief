@@ -1,22 +1,27 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "section": "design",
   "media": [
     {
-      "id": "agent-native-actions",
+      "id": "nanobanana-earth",
+      "type": "image",
+      "src": "pipeline/media/nanobanana-earth.jpg"
+    },
+    {
+      "id": "shieldfont-poison-ai",
       "type": "video",
-      "src": "pipeline/media/agent-native-actions.mp4",
-      "poster": "pipeline/media/agent-native-actions.jpg"
+      "src": "pipeline/media/shieldfont-poison-ai.mp4",
+      "poster": "pipeline/media/shieldfont-poison-ai.jpg"
     },
     {
-      "id": "where-ai-belongs-games",
+      "id": "bull-bear-design-ai",
       "type": "image",
-      "src": "pipeline/media/where-ai-belongs-games.jpg"
+      "src": "pipeline/media/bull-bear-design-ai.jpg"
     },
     {
-      "id": "nexthena-121-i18n",
+      "id": "get-out-of-their-way",
       "type": "image",
-      "src": "pipeline/media/nexthena-121-i18n.png"
+      "src": "pipeline/media/get-out-of-their-way.jpg"
     }
   ]
 }

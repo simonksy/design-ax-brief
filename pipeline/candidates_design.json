@@ -1,64 +1,19 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "section": "design",
-  "now_iso": "2026-07-29T22:04:32Z",
+  "now_iso": "2026-07-30T22:07:33Z",
   "window_hours": 72,
-  "count": 6,
-  "note": "WIDE funnel across all 7 design categories (figma/render/cad/tokens/vr/workflow/social), each search restricted to that category's allowed_domains. The 72h window (start 2026-07-26T22:04:32Z) is genuinely sparse for design x AI in the extractable allowed-domains, matching the prior two runs. Every kept item's published time was verified via WebFetch/curl and gated FRESH through pipeline/freshness.py. Date-only sources given a nominal intra-day time that sits unambiguously inside the window. IMPORTANT age-out: the two Creative Bloq /ai items that were FRESH yesterday (Google-maths-creativity + tai-chi-scammer-ads, both Jul 26) have now aged past the 72h boundary (window start moved to Jul 26 22:04) -> re-gated STALE and DROPPED. CONFIRMED STALE and dropped this run (date-verified): Adobe Firefly AI Assistant / agentic Creative Cloud cluster is NOT this week's news -- Engadget dates it Jun 17-18 2026 and Oct 28 2025 (Max 2025), so all the VentureBeat/FastCompany/CreativeBloq/Engadget Firefly-Assistant pieces are old (dropped); Figma 'the-figma-agent-is-here' (May 20), mindstudio Claude-Design-vs-Stitch (Apr 25), parallelhq automating-design-systems (Mar 7), Engadget Epic/Unreal gen-AI MCP (Jun 17), fxguide Foundry SmartRoto (Jul 16) + SwitchHDR (Jul 9), 80.lv Meshy 3D Agent (Jul 21), YouTube: UI Collective Claude/Codex/Figma (May 4), Build-Great-Products AI-tool-ranking (Jul 14), Nehmat Figma-Make (Jul 22), all Figma Weave demos (Apr-May), Matt Wolfe latest (Jul 24, also non-design Kimi-K3 news). BLOCKED/unverifiable (dropped, could not confirm published time): VentureBeat (Vercel security checkpoint, HTTP 429 + curl), FastCompany (HTTP 403 to both WebFetch and curl), CIO Firefly Boards (404), all3dp/mixed 403, engineering.com design feed 403. Social yielded nothing in-window: every verifiable YouTube design-AI upload predates the window; Instagram not attempted (login-walled). Feeds swept with no in-window design-AI hit: css-tricks (newest Jul 15), logrocket ux-design (Jul 28 Double-Diamond = no AI), vercel/blog (Jul 27 = customer/security, no design hook), keyshot/blog (Jul 21), orq.ai/blog (Apr), NVIDIA developer blog (Jul 26-29 all chip/robotics/quantum AI, no creative tool), cgchannel (Jul 28-29 RenderMan 27.3 / MoonRay / Physical-Atmosphere2 / RTX-Render = raster/path-tracing, no generative AI), uploadvr/roadtovr (Jul 27-28 all VR games/hardware), mindstudio/blog (Jul 26-28 fresh but AI-industry/automation/games noise -> weak design-craft relevance), uxdesign.cc (Medium global-identity login redirect, unrenderable). Landed at 6 across 4 distinct outlets (Smashing, DEV Community x3 [at per-source cap], Builder.io, 80 Level). Items 5 (80.lv game-AI-where-it-belongs) and 6 (Nexthena AI whiteboard release) are the weaker-relevance funnel tail; items 1-4 are the strong design x AI picks. og_image left blank where the source page did not expose a clean og:image to WebFetch.",
+  "count": 1,
+  "note": "WIDE funnel attempted across all 7 design categories (figma/render/cad/tokens/vr/workflow/social), each search restricted to that category's allowed_domains. The 72h window (start 2026-07-27T22:07:33Z) is genuinely sparse for design x AI in the extractable allowed-domains -- consistent with the prior three runs. Every kept item's published time was verified via WebFetch/curl and gated FRESH through pipeline/freshness.py. WebSearch budget (200 calls, shared across the parallel librarians) was EXHAUSTED partway, so the back half of the run relied on WebFetch + curl date-checks and RSS feeds on URLs already gathered. CONFIRMED STALE and dropped (date-verified): CG Channel Maya 2027.2 AI-animation (Jul 22), Reallusion Headshot 3.1 (Jul 7), Chaos V-Ray 7.4 for Blender w/ Veras AI (Jul 21), Esri CityEngine 2026 (Jul 13), 80.lv Meshy 3D Agent (Jul 21) + Hyper3D Rodin Gen-2.5 (Jun 3) + retopology tools (Oct 2025 / Jun 3), Smashing 'matching-ai-modality' (Jul 2), all Creative Bloq AI/3D hits (Aug 2025 - Jun 2026, incl. Nano-Banana-vs-Photoshop Aug 2025, Autodesk 3D-gen Mar 5, Apple SHARP Dec 2025, Adobe-Firefly-2026 Jan 2, ChatGPT-Images-2.0 Apr 24), Engadget Midjourney-scanner (Jun 23) + Google-Images-makeover (Jul 14) + Canva-AI-2.0 (Apr 16) + Microsoft MAI-Image-1 (Oct 2025) + Nano-Banana-Pro (Nov 2025) + Gemini-personalized-image (Jun 29), UploadVR visionOS 26.4 (Mar 28) + Road to VR visionOS 27 controllers (Jun 8), Autodesk Building-Layout-Explorer (early Jun). DUPLICATES of the 07-30 brief (fresh but already published, per keyword-planner dedup list) dropped: Smashing 'digital-design-ai-era' MacPaw Eney (Jul 28), Builder.io agent-first-apps (Jul 29), 80.lv game-AI-belongs (Jul 29), Nexthena 1.2.1 (Jul 28), dev.to no-handoff + AI-website-sameness (Jul 27, also now aged past window start). BLOCKED/unverifiable -> dropped (could not confirm published time): all VentureBeat design items (Krea 2, FLUX 3, Nano Banana 2 Lite, Canva Code 2.0, Lovart, Recraft) -- Vercel security checkpoint on curl + persistent HTTP 429 on WebFetch; RSS feed cross-check shows VB's actual Jul 29-30 output is entirely AI-industry/security/pricing (OpenAI price war, Mastercard/Hush/Cisco/NTT security, AI-ROI, Waymo evals) with NO design hook, and the design pieces are not in the recent feed -> confirmed not in-window. Fast Company blocked (HTTP 403 WebFetch + curl); RSS cross-check: /technology feed Jul 29-30 all AI-industry/policy (open-models, Samsung profit, AI compute, AI hackers, Kimi K3) = no design hook, and /section/design feed's freshest item is Jul 17 ('Designing for the edges', non-AI) -> nothing fresh + design-relevant. Social yielded nothing verifiable in-window (WebSearch exhausted before social sweep; no verifiable YouTube upload dates obtained; Instagram login-walled, not attempted). NET: exactly 1 fresh, design-relevant, non-duplicate candidate. This is well below the target of 5; the shortfall is a genuine exhaustion of in-window design x AI news from verifiable allowed-domains, compounded by the shared WebSearch-budget cap, not a collection shortcut.",
   "items": [
     {
-      "title": "Thinking Outside The Box: Digital Design In The AI Era",
-      "url": "https://www.smashingmagazine.com/2026/07/digital-design-ai-era/",
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "published_iso": "2026-07-28T09:00:00Z",
-      "og_image": "",
-      "excerpt": "A case study in designing AI interaction beyond the default text box: how MacPaw built Eney, a character-based AI assistant that prioritizes humanization and personality over a generic chat prompt. The piece argues human designers remain essential in the AI era and that interface craft, not just model output, is where creative differentiation lives."
-    },
-    {
-      "title": "I Design Products. Then I Make Them. There Is No Handoff.",
-      "url": "https://dev.to/meravish/i-design-products-then-i-make-them-there-is-no-handoff-2bof",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ierh1778u6wtw2u015pd.png",
-      "excerpt": "Designer Merav Shaked describes rebuilding her portfolio in a single evening by directing AI as a tool rather than delegating to it, collapsing the designer-to-developer handoff entirely. A first-person account of how agentic AI lets one designer own vision through execution while keeping creative control, eliminating the traditional spec-and-throw-over-the-wall workflow."
-    },
-    {
-      "title": "Why Do AI-Generated Websites All Look the Same?",
-      "url": "https://dev.to/lyd_lyd_d4869af25d33ce0eb/why-do-ai-generated-websites-all-look-the-same-k2j",
-      "source": "DEV Community",
-      "category": "workflow",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png",
-      "excerpt": "Argues that AI-generated websites converge on the same look because models reproduce the patterns they have seen thousands of times rather than truly designing. The author proposes 'FireBall Design,' a framework to steer AI toward more distinctive, context-appropriate interfaces -- a craft-level read on breaking out of generic AI aesthetics."
-    },
-    {
-      "title": "How (and why) to build agent-first apps",
-      "url": "https://www.builder.io/blog/agent-first-apps",
-      "source": "Builder.io",
-      "category": "figma",
-      "published_iso": "2026-07-29T09:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F568e1abcbd01489e89f1512f5f4acf30?format=webp&width=800",
-      "excerpt": "Builder.io's Steve Sewell lays out an 'agent-native' design pattern where anything the UI can do, an agent can do too -- unifying human and agent actions through a shared action abstraction. A forward-looking take on how product/UX design must change when AI agents become first-class users of the interface."
-    },
-    {
-      "title": "Game AI Expert Explains Where AI Actually Belongs in Game Development—And The Risks",
-      "url": "https://80.lv/articles/game-ai-expert-explains-where-ai-actually-belongs-in-game-development-and-the-risks",
-      "source": "80 Level",
+      "title": "Nano Banana image generation comes to Google Earth",
+      "url": "https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/",
+      "source": "Engadget",
       "category": "render",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "og_image": "",
-      "excerpt": "AI researcher Luke Dicken (ex-Zynga innovation lead, former Head of AI at Take-Two) argues generative AI's real value is enabling adaptive, player-facing experiences rather than automating existing content pipelines, and that studios should invest in R&D that amplifies creative talent instead of replacing it. A creative-tooling perspective on where AI helps craft versus where it just adds risk."
-    },
-    {
-      "title": "Nexthena 1.2.1 released",
-      "url": "https://dev.to/blackstar/nexthena-121-released-2alp",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-07-28T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Release notes for Nexthena 1.2.1, an AI-assisted infinite-canvas whiteboard/design tool, adding new workflow and localization updates. A small but concrete example of AI moving into the everyday visual-collaboration and diagramming layer of a designer's toolkit."
+      "published_iso": "2026-07-30T12:30:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/nano-banana-image-generation-comes-to-google-earth/intro-1785351587.jpg",
+      "excerpt": "Google has integrated its Nano Banana image-generation model into Google Earth, letting users generate photorealistic renderings of historical sites (e.g. 'Pompeii in 78 AD') and pre-visualize future construction projects directly on the map. A concrete push of generative image AI into spatial design, architectural visualization, and place-based concept rendering workflows."
     }
   ]
 }
