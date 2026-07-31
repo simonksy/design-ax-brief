@@ -1,21 +1,25 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-08-01",
   "section": "books",
   "media": [
     {
-      "id": "translators-craft-vs-ai",
+      "id": "ai-publishing-easier",
       "type": "image",
-      "src": "pipeline/media/translators-craft-vs-ai.jpg"
+      "src": "pipeline/media/ai-publishing-easier.jpg"
     },
     {
-      "id": "editor-publisher-ai-survey",
+      "id": "substack-ai-detection",
       "type": "image",
-      "src": "pipeline/media/editor-publisher-ai-survey.jpg"
+      "src": "pipeline/media/substack-ai-detection.png"
     },
     {
-      "id": "poetry-foundation-scrape",
+      "id": "genius-novel-pulled",
       "type": "image",
-      "src": "pipeline/media/poetry-foundation-scrape.jpg"
+      "src": "pipeline/media/genius-novel-pulled.jpg"
+    },
+    {
+      "id": "ai-dilutes-book-market",
+      "type": "svg"
     }
   ]
 }

@@ -4,41 +4,47 @@
   "selection_mode": "auto",
   "count": 2,
   "shortfall": true,
-  "shortfall_reason": "User deferred; curator auto-picked by scoring. Pool of 3. DROPPED 1: the Meshy 80.lv article is NOT in sections.games history but the exact URL is already LIVE and published in the movies section's current 'today' deck (2026-07-30, id 'meshyagent', full translated card + pipeline/media/meshyagent.jpg). Earliest-wins plus the known cross-section card-id/media collision rule => dropped rather than republish the same URL a day later in a second section. That leaves 2 genuinely-fresh, section-unique stories; below the floor of 3 only because the fortnight's game x AI pool is genuinely thin (collector confirmed the remainder STALE), not padded.",
+  "shortfall_reason": "User deferred; curator auto-picked. Filtered pool held 4 URL-distinct items; 2 are content/URL duplicates of already-published games cards, leaving 2 genuinely-fresh, section-unique stories. Below the floor of 3 solely because the fortnight's game x AI pool is genuinely thin (collector confirmed the remainder STALE), not padded.",
   "dedup_dropped": [
     {
       "title": "Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner",
       "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
       "source": "80 Level",
-      "reason": "Cross-section duplicate: this exact URL is already published in the movies section's live 'today' deck (2026-07-30, id 'meshyagent'). Not in sections.games history, but earliest-wins (the story already appeared 2026-07-30) and the cross-section card-id + shared pipeline/media file collision rule mean it must not reappear in games on 2026-07-31."
+      "reason": "Content/URL duplicate: this EXACT URL is already published as card 'meshyagent'. Earliest-wins keeps the original; a same-URL card here would also trip the build_data.py duplicate-URL hard-fail and the known card-id/shared-media collision."
+    },
+    {
+      "title": "Steam Week in Review: more than half of new Steam games could carry an AI disclosure by 2027-2028",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
+      "source": "PC Gamer",
+      "reason": "Content duplicate of already-published games card 'steam53k-study': the same Sulka Harro study of 53,597 Steam games and the identical 10.9% (2024) -> 30.8% (2026) AI-disclosure figures, reworded via a different outlet."
     }
   ],
   "picks": [
     {
-      "title": "New method teaches AI to make 2D designs 3D",
-      "headline": "New method teaches AI to make 2D designs 3D",
-      "url": "https://www.pcgamer.com/software/ai/new-method-teaches-ai-to-make-2d-designs-3d-and-now-im-afraid-this-will-be-how-the-robots-learn-to-build-themselves-without-us/",
-      "source": "PC Gamer",
-      "published_iso": "2026-07-22T14:51:10Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg",
-      "excerpt": "A new AI technique converts flat 2D designs into usable 3D geometry, a workflow shift directly relevant to how game artists could turn concept art into game-ready assets. PC Gamer walks through what the method does and where it could plug into asset-creation pipelines.",
+      "title": "The Relic: First Guardian director confirms AI use after YouTubers sound the alarm over a preview build",
+      "headline": "The Relic: First Guardian director confirms AI use after YouTubers sound the alarm over a preview build",
+      "url": "https://kotaku.com/director-of-new-soulslike-says-no-ai-used-in-the-final-game-after-big-youtubers-sounded-the-alarm-over-a-recent-preview-build-2000720260",
+      "source": "Kotaku",
+      "published_iso": "2026-07-30T19:15:26Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg",
+      "excerpt": "After creators flagged suspected AI content in a preview build of Soulslike The Relic: First Guardian, the director says AI touched only the early concept stage -- a few loading-screen concept pieces and consumable icons -- with none in the final game. A window into how studios are actually folding generative AI into the concept/design pipeline and the disclosure norms that now shape it.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Most actionable of the pool: a concrete new 2D-to-3D method that plugs straight into a game artist's concept-art-to-asset pipeline; fresh, credible, and unique to the games section."
+      "rationale": "A concrete look at where a studio actually draws the line on generative AI (concept-stage only) and the disclosure norms now shaping game production pipelines. Credible outlet, distinct URL not in games history."
     },
     {
-      "title": "\"A couple of companies have managed to ignite a culture war\": Games AI veteran says it can be useful, but we've made mountains out of ChatGPT's molehills",
-      "headline": "\"A couple of companies have managed to ignite a culture war\": Games AI veteran says it can be useful, but we've made mountains out of ChatGPT's molehills",
-      "url": "https://www.gamesradar.com/games/a-couple-of-companies-have-managed-to-ignite-a-culture-war-and-bring-the-economy-to-the-brink-of-collapse-games-ai-veteran-says-it-can-be-useful-but-weve-made-mountains-out-of-chatgpts-molehills/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-07-30T20:01:40Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/n5ePDh9VeKLrM8XNBwZ4YX-1920-80.jpg",
-      "excerpt": "Veteran games-AI researcher Luke Dicken argues the industry's real opportunity is richer, more adaptive player experiences and smarter production tooling -- not replacing human talent -- and that the loudest genAI hype and backlash have both overshot the actual craft. A grounded read on where machine learning genuinely changes how games get designed and balanced.",
+      "title": "Nexus Mods finally tightens the screws on AI — though it's still playing softball with the tide of slop",
+      "headline": "Nexus Mods finally tightens the screws on AI — though it's still playing softball with the tide of slop",
+      "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-31T15:46:26Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg",
+      "excerpt": "The largest PC game modding platform is toughening its policy on generative AI, now requiring modders to properly disclose AI-generated assets in their uploads — a workflow/craft shift for the modding community as the platform grapples with AI 'slop'.",
       "tool": "Games",
-      "accent": "#0070f3",
+      "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Newest item (Jul 30) and the most credible sober take on where ML actually changes game design and balancing; distinct GamesRadar URL not in games history. Second games-category card, so given a distinct palette accent."
+      "rationale": "A direct workflow rule change on the biggest PC modding platform: AI-generated assets now require disclosure, materially altering how modders publish and label their work. Distinct outlet-topic from the Kotaku pick; second same-category card gets a distinct accent from palette."
     }
   ]
 }

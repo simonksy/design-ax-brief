@@ -1,26 +1,21 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "music",
   "media": [
     {
-      "id": "flow-music-spaces",
+      "id": "lyria-35",
       "type": "image",
-      "src": "pipeline/media/flow-music-spaces.jpg"
+      "src": "pipeline/media/lyria-35.jpg"
     },
     {
-      "id": "vochlea-dubbox",
+      "id": "karst",
       "type": "image",
-      "src": "pipeline/media/vochlea-dubbox.jpg"
+      "src": "pipeline/media/karst.png"
     },
     {
-      "id": "roland-neutone-lydia",
+      "id": "silt",
       "type": "image",
-      "src": "pipeline/media/roland-neutone-lydia.jpg"
-    },
-    {
-      "id": "stem-separation-2026",
-      "type": "image",
-      "src": "pipeline/media/stem-separation-2026.jpg"
+      "src": "pipeline/media/silt.jpg"
     }
   ]
 }

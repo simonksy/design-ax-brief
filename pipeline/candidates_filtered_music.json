@@ -1,51 +1,42 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "music",
-  "now_iso": "2026-07-30T22:07:33Z",
+  "now_iso": "2026-07-31T22:00:41Z",
   "window_hours": 336,
-  "count": 4,
-  "note": "WIDE funnel for the single 'music' category, restricted to its allowed_domains. Music window = 14 days / 336h (start ~2026-07-16T22:07Z); every item date-verified FRESH via `python3 pipeline/freshness.py <iso> 2026-07-30T22:07:33Z music`. This run rotated onto the PRODUCTION/INSTRUMENT cluster (AI mastering, vocal cloning, neural synth, sample gen, song cover, songwriting, text-to-music, DJ). Nearly all covering tools for those keywords date-verified STALE (outside 14d): Suno v5.5 MILO-1080 (Mar 27), Roland Melody Flip (Mar 18), Splice Create/Variations (Jun 26 '24), Waves ILLUGEN (May '25), AutoTune Metamorph V1.1 (Feb 3), Apple Music AutoMix (Jun '25), Voice-Swap Stem-Swap (older), Stable Audio 3.0 (May 20), ElevenLabs Music v2 (May 27), LALAL.AI plugin (May 22), zplane PEEL STEMS 2 (Jul 8), Collaya (Jun 16), DrumBot AI (Apr 2), Napster AI app (Jan 30), YT Music AI playlist (Feb 16), Project LYDIA Phase 2 (May 7), Audiotool Studio/NEXUS (Jan 21), Output Co-Producer Re-imagine (Jul '25), FL Studio 2026 (2025), Suno iMessage (Jul 15 — just outside window), TIDAL AI-label (Jul 4), Synplant PhenoType (older). Fresh-but-DROPPED for relevance (business/licensing/legal, and heavily rested per keywords note): GEMA PLAI dataset (Jul 24), AFM lawsuit (Jul 27), 'AI Music Coming of Age' opinion (Jul 28), Hypebot AI-chart-standards/labeling (business). Fresh-but-not-AI dropped: ReFX Rippler (Jul 30, physical modelling), CDM DeafMan Ableton colors (Jul 29), NI Super*Saw (Jul 16). WebSearch budget (200) exhausted mid-sweep; index/tag pages of musictech, musicradar, gearnews, cdm.link, synthtopia scanned to confirm no other fresh AI creative-tool items. Genuinely sparse fresh window: 4 distinct fresh creative-tool items across 3 outlets (MBW, MusicRadar, Synthtopia x2 — within 3/outlet cap). digitalmusicnews 'Can Google Build the All-in-One AI Music Studio?' (Jul 29) omitted: 403 on fetch (could not verify meta) AND topic-duplicates the MBW Google Flow item.",
+  "count": 3,
+  "note": "WIDE-funnel sweep of the single 'music' category, restricted to its allowed_domains. Music window = 14 days / 336h (start ~2026-07-17T22:00Z); every kept item date-verified FRESH via `python3 pipeline/freshness.py <iso> 2026-07-31T22:00:41Z music` against the article's real published date (og/JSON-LD or the URL's dated slug on Synthtopia). theverge.com is blocked to our user agent and was skipped throughout. Genuinely sparse fresh window for NEW music-AI items: yesterday's run (07-31) already scooped the strongest still-fresh stories (Google Flow Music 07-29, Vochlea DubBox 07-28, ToneField 07-21, Ocean Swift Dev Ocean 07-17), so those were deliberately NOT re-collected to respect the rotation/dedup plan. Today's only NEW strong AI item is Google Lyria 3.5. Two Synthtopia generative-instrument items round out the pool via the section's core 'generative music' keyword (verified generative but not ML-based; kept as on-topic generative-music craft tools, same practice as yesterday's ToneField/Dev Ocean).\n\nKEYWORD EXPANSION USED (beyond keywords_music.json): swept MusicLM/Lyria RealTime, Riffusion, AI-in-Ableton (ChatDSP/Melosurf/Jamu), AI-in-Logic, Stable Audio/ElevenLabs, Suno/Udio stems+Song-Editor, AI DJ (Algoriddim/Serato/rekordbox/djay Pro 5), AI music video, AI songwriting (Kestrel Write), real-time AI music, SoundBoost natural-language mastering, WAVS/Acon AI plugins, YouTube AI voice-cloning, Korean 'AI 음악 생성/작곡', plus index/tag sweeps of synthtopia (artificial-intelligence tag), musictech gear, gearnews tech zone, bedroomproducersblog. Nearly every covering article date-verified STALE (outside 14d): Lyria 3/3 Pro (Feb/Mar), Suno v5.5 (Mar 27), Suno AI Song Editor (Jun 4 '25), ChatDSP (Mar 11), Jamu (Mar 10), Melosurf (Nov 2025), AI-prompts-to-plugins (Jun 26), Session42 HitCraft (Aug 2024), UMG x Splice (Dec 2025), UMG x Stability (Oct 2025), Tamber (May 19), Melodio/Kunlun (Aug 2024), Stability Audio 3.0 (May 20), ElevenLabs Music v2 (May 27), WAVS Sample Finder (Sep 2025), Acon Remix:Drums (Jul 11 '25), YouTube voice-cloning pilot (Nov 2023), Audacity Intel AI (Feb 2024).\n\nFRESH-but-DROPPED for relevance (business/legal/trend, no design-workflow hook): GEMA vs Suno Munich ruling (gearnews, Jul 31 - legal); IFPI/labels AI chart-eligibility rollout + AI-labeling (MBW/gearnews - policy); TechCrunch 'Deezer >50% daily uploads AI-generated' (Jul 21 - industry stat); DMN 'AI Agents Automating Music Companies' (Jul 29 - org automation); DMN 'AI Music: Coming of Age' + 'Can Google Build the All-in-One AI Studio?' (Jul 28/29 - opinion/analysis, topic-dup of already-served Google Flow).\n\nCOULD-NOT-VERIFY (dropped per rule): DMN 'SoundBoost natural-language mastering' (slug /2026/07/30/, a genuinely fresh AI-mastering tool) - digitalmusicnews.com returns HTTP 403 to WebFetch so the real published time could not be confirmed, and no on-list domain corroborated it. Social (YouTube: Benn Jordan / Venus Theory / Udio) - watch pages are JS-rendered and WebFetch returns only footer; no render/browse tool available, so no uploadDate could be verified. Music defines no instagram_handles; IG skipped. Per the social rule, unverifiable social contributes zero rather than blocking the run. Outlet diversity is only 2 domains (MBW x1, Synthtopia x2, within the 3/outlet cap) because the NEW-item window is genuinely thin after yesterday's scoop.",
   "items": [
     {
-      "title": "Google's Flow Music adds song generation, editing and stem splitting to Spaces, its 'vibe coding' tool",
-      "url": "https://www.musicbusinessworldwide.com/googles-flow-music-adds-song-generation-editing-and-stem-splitting-to-spaces-its-vibe-coding-tool/",
+      "title": "Watch out, Suno: Google upgrades Lyria AI music model with 'more realistic and emotionally nuanced vocals'",
+      "url": "https://www.musicbusinessworldwide.com/watch-out-suno-google-has-upgraded-lyria/",
       "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-07-29T12:00:00Z",
+      "published_iso": "2026-07-30T12:00:00Z",
       "og_image": "",
-      "excerpt": "Google has expanded its Flow Music platform, adding song generation, editing and stem splitting to Spaces, its 'vibe coding' tool. Musicians can now generate a song, replace a verse, separate vocals, extend a track and create album art, lyrics and video from one workspace, built on Lyria 3 Pro plus Gemini, Veo and Nano Banana."
+      "excerpt": "Google has launched Lyria 3.5, its upgraded AI music-generation model, inside Google Flow Music. DeepMind says the model brings 'significant advancements across musicality, lyrics and vocal quality', with more realistic, emotionally nuanced vocals, improved pronunciation and richer, more natural melodic structures."
     },
     {
-      "title": "Beatbox your ideas into reality with Vochlea's DubBox, an app that converts your voice into drum loops",
-      "url": "https://www.musicradar.com/music-tech/beatbox-your-ideas-into-reality-with-vochleas-dubbox-an-app-that-converts-your-voice-into-drum-loops",
-      "source": "MusicRadar",
+      "title": "Tunary Intros SILT Generative Tape-Loop Instrument",
+      "url": "https://www.synthtopia.com/content/2026/07/24/tunary-intros-silt-generative-tape-loop-instrument/",
+      "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-07-28T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/U3ZMS6JnHPWtMEZuABsvTG.jpg",
-      "excerpt": "Vochlea's new DubBox app uses machine learning to turn beatboxing into sample-based drum loops in real time. It learns up to eight of your vocal hits, triggers drum samples with velocity sensitivity, and uses 'Voice Warping' to time-stretch takes to the grid while preserving the feel of the original performance."
+      "published_iso": "2026-07-24T12:00:00Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/silt-728x615.jpg",
+      "excerpt": "Tunary Instruments has introduced SILT, a 'Generative Tape-Loop Instrument' built around four short melodic loops of different lengths that drift slowly out of phase through an emulated tape machine, generating evolving ambient patterns for producers with vintage warmth."
     },
     {
-      "title": "Neutone and Roland's Project LYDIA lets you design your own AI models for real-time performance",
-      "url": "https://musictech.com/features/interviews/roland-neutone-project-lydia/",
-      "source": "MusicTech",
+      "title": "Tim Exile Previews Karst Software Modular System",
+      "url": "https://www.synthtopia.com/content/2026/07/30/tim-exile-previews-karst-software-modular-system/",
+      "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-07-17T08:00:16Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
-      "excerpt": "Neutone and Roland are prototyping Project LYDIA, an AI effects pedal that lets musicians train, customise and hack their own neural-sampling AI models for real-time performance. 'You can open it up, you can hack it... you can really personalise it and make it your own,' says Neutone co-founder Andrew Fyfe — a hands-on, creator-owned take on AI as a live instrument rather than a black box."
-    },
-    {
-      "title": "Best stem separation tools 2026: 9 AI tools compared",
-      "url": "https://musictech.com/guides/buyers-guide/best-stem-separation-tools/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-07-29T04:00:26Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2025/07/Stem-Separation-guide-update-hero-credit-press@2000x1500.jpg",
-      "excerpt": "MusicTech tested nine leading AI stem-separation tools and found results vary sharply by track and instrument: Logic Pro wins for fast everyday splits, while MVSEP edges ahead on critical vocals and hardest-to-isolate parts. A practical, craft-side map of where neural source-separation actually helps producers in 2026. (Secondary pick: stem separation was rested in the day's rotation, included here to comfortably clear the recovery floor.)"
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Tim Exile previewed Karst, a digital modular system for making music through systems and algorithmic composition. It features a node editor, cableless patching with cloud sync, and an Event Core in every instrument that lets you hand-roll generative algorithms without wrestling event scheduling or polyphony."
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 2,
+    "dropped": 0,
+    "kept": 3,
     "against_days": 5
   }
 }

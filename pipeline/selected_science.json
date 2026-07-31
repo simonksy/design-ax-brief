@@ -1,63 +1,57 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-08-01",
   "section": "science",
   "selection_mode": "auto",
   "picks": [
     {
       "rank": 1,
-      "headline": "양자 머신러닝으로 종양 신항원의 면역 반응을 예측하다",
+      "headline": "AI and quantum chemistry combine to identify efficient blue OLED materials",
       "tool": "Science",
       "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
-      "excerpt": "Cleveland Clinic and IBM researchers built Q-CHIPP, a quantum machine-learning framework that predicts which tumor neoantigens will trigger an immune response, outperforming classical methods under data-limited conditions by learning biological patterns from as few as 150 samples on 46 qubits.",
-      "rationale": "07-30 최신 릴리스. 데이터가 희박한 면역치료 표적 선별에서 고전 기법을 앞선 구체적 양자 ML 도구로, 실용성과 신규성이 모두 높음."
+      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
+      "source": "Phys.org (Nagoya University)",
+      "published_iso": "2026-07-22T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg",
+      "excerpt": "Nagoya University researchers paired quantum-chemistry simulation with machine learning to design boron-free molecules that emit vivid, high-color-purity blue light for next-gen OLED displays. Shows ML compressing the search for new functional materials with a real display-tech payoff.",
+      "rationale": "Concrete new release pairing quantum chemistry + ML to crack the long-standing efficient-blue-OLED problem; a materials-discovery beat not covered in prior days."
     },
     {
       "rank": 2,
-      "headline": "'불모의 고원'을 피해 커지는 양자 신경망",
+      "headline": "AI-powered system offers unprecedented insight into the forces shaping Earth's climate",
       "tool": "Science",
       "category": "science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-07-28T12:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png",
-      "excerpt": "A new theoretical framework proposes two scalable quantum-circuit architectures and a parallel training method that mathematically avoids 'barren plateaus,' aiming to make large quantum neural networks trainable while keeping them hard to simulate classically.",
-      "rationale": "Q-CHIPP 카드와 뚜렷이 구분되는 별개 사안. 양자 ML 확장의 근본 장벽인 배런 플래토를 겨냥한 방법론 진전으로 재탕이 아님."
+      "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
+      "source": "Tech Xplore (Tel Aviv University)",
+      "published_iso": "2026-07-20T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg",
+      "excerpt": "Tel Aviv University's GOFLOW is an AI system that reconstructs hidden ocean-surface currents directly from satellite imagery, extracting dynamics previously inaccessible. A new ML method that turns existing observations into better climate prediction inputs.",
+      "rationale": "Distinct release (satellite-imagery method, Tel Aviv) from the earlier Argo-float AMOC card; turns existing observations into better climate inputs — an actionable geoscience-ML advance."
     },
     {
       "rank": 3,
-      "headline": "AI 단백질 예측이 물리·화학적으로 불가능한 구조를 내놓는다",
+      "headline": "AI extracts hidden material rules from microscopic data to predict large-scale behavior",
       "tool": "Science",
       "category": "science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-ai-tools-protein-chemically-impossible.html",
-      "source": "Phys.org",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dynamics.jpg",
-      "excerpt": "Rensselaer Polytechnic Institute researchers found that leading AI protein-structure prediction tools frequently generate physically and chemically impossible results, exposing blind spots and arguing that physics-based molecular-dynamics verification and human oversight remain essential.",
-      "rationale": "AlphaFold류 도구를 쓰는 연구자에게 실질적인 경고. 출력이 물리적으로 불가능할 수 있어 분자동역학 검증과 사람 검토가 여전히 필수라는 점을 짚음."
-    },
-    {
-      "rank": 4,
-      "headline": "AI 신약 발견의 병목은 이제 실험실 데이터다",
-      "tool": "Science",
-      "category": "science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
-      "excerpt": "AI is identifying therapeutic targets faster than ever, but the speed is exposing physical lab bottlenecks and a need for better-quality experimental data to close the loop between AI predictions and validated drug candidates.",
-      "rationale": "두 AI 신약 발견 후보 중 더 강한 쪽(신뢰도 높은 출처, 더 날카로운 통찰). 겹치는 phys.org UW Q&A는 중복으로 드롭. 4개가 병합 후 신선한 후보의 실제 상한이라 패딩 없음."
+      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
+      "source": "Tech Xplore (National University of Singapore)",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
+      "excerpt": "NUS researchers created ML methods that learn large-scale material behavior from microscopic data by discovering hidden variables that capture collective dynamics, cutting computational cost. A methods advance for predicting how materials evolve, relevant to energy and manufacturing.",
+      "rationale": "Methods-level advance (multiscale hidden-variable discovery) distinct from the Tohoku autonomous-lab card; cuts compute for predicting material evolution across energy and manufacturing."
     }
-  ]
+  ],
+  "dropped": [
+    {
+      "headline": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "reason": "Same outlet (MIT Technology Review) + same core topic (AI in drug discovery) as the just-published 07-31 card 'ai-drug-discovery-data-loop' (technologyreview.com/.../1139667). A sibling MIT-TR AI-drug-discovery insights piece; a second one on consecutive days is a same-source/same-topic repeat — dropped per dedup."
+    }
+  ],
+  "diversity_note": "3 fresh distinct stories — the genuine ceiling after dedup (pool of 4 minus 1 topic-dup), so a floor pick, not padding. Outlets: phys.org (1) + techxplore (2), within the hard max-2/outlet cap. Distinct accents assigned per pick since all share the single 'science' category."
 }

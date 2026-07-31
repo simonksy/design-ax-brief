@@ -1,110 +1,68 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "gadgets",
-  "count": 5,
+  "count": 3,
   "cards": [
     {
-      "id": "gemini-robotics2",
+      "id": "adobe-project-indigo",
       "eyebrow": "AI NEWS",
-      "headline": "제미나이 로보틱스 2, 휴머노이드의\n전신을 제어하다",
-      "mini_headline": "전신 제어하는 휴머노이드",
-      "body": "팔과 몸통, 이동 베이스를 함께 조율하는 전신 제어로 휴머노이드가 쓰레기봉투를 묶고 전구를 갈아 끼운다.",
-      "tool": "Google DeepMind",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "headline": "어도비 실험 카메라 앱에\n생성형 AI가 들어왔다",
+      "mini_headline": "인디고에 AI 편집",
+      "body": "어도비가 실험용 카메라 앱 프로젝트 인디고에 생성 편집과 스타일 변환을 얹은 AI 플레이그라운드를 더했다.",
+      "tool": "Gadgets",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200" },
-          { "t": "p", "x": "구글 딥마인드가 제미나이 로보틱스 2를 공개했다. 휴머노이드 로봇이 팔과 몸통, 이동 베이스를 하나로 묶어 움직이도록 지능형 전신 제어를 더한 모델이다." },
-          { "t": "p", "x": "덕분에 로봇은 쓰레기봉투를 묶고, 전구를 돌려 빼고, 여러 단계를 거치는 집안일을 이어서 처리한다." },
-          { "t": "p", "x": "가정으로 들어올 범용 임바디드 AI를 향한 구체적인 한 걸음으로 읽힌다." }
+          { "t": "img", "src": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg" },
+          { "t": "p", "x": "어도비의 실험용 카메라 앱 프로젝트 인디고가 AI 플레이그라운드라는 새 기능을 품었다. 촬영과 편집의 경계를 흐리며, 모바일에서 곧바로 이미지를 손보게 하려는 시도다." },
+          { "t": "p", "x": "플레이그라운드는 생성형 편집, 개별 객체 수정, 스타일 변환, 촬영 가이드를 하나로 묶는다. 사진 속 특정 대상을 지우거나 바꾸고, 분위기를 통째로 갈아입히는 작업이 앱 안에서 끝난다." },
+          { "t": "p", "x": "이 모든 기능은 구글의 나노 바나나 모델이 뒷받침한다. 사진가와 디자이너가 데스크톱을 거치지 않고, 찍은 자리에서 곧장 결과물을 다듬는 흐름을 어도비가 겨냥한 셈이다." }
         ]
       }
     },
     {
-      "id": "openai-companion-speaker",
+      "id": "samsung-health-assistant",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI의 첫 기기는 화면 없는\n이동형 AI 동반자 스피커",
-      "mini_headline": "오픈AI의 첫 하드웨어",
-      "body": "오픈AI의 첫 제품은 조니 아이브와 만든 화면 없는 휴대형 AI 동반자 스피커로, 카메라로 주변을 인식한다.",
-      "tool": "OpenAI",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
+      "headline": "삼성 건강 데이터를\nAI가 대신 읽어준다",
+      "mini_headline": "삼성 헬스에 AI",
+      "body": "삼성 헬스에 들어온 AI 챗봇 헬스 어시스턴트가 웰니스 데이터를 풀어 맞춤형 생활 조언을 건넨다.",
+      "tool": "Gadgets",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://images.macrumors.com/t/bzVs-8bKuClS_OQgMN-mbh9HsqQ=/2500x/article-new/2026/05/OpenAI-Smartphone-Feature.jpg" },
-          { "t": "p", "x": "오픈AI의 하드웨어 로드맵이 뚜렷해졌다. 첫 제품은 전 애플 디자인 총괄 조니 아이브와 함께 만든 휴대형 스피커로, 화면 없이 집 안의 AI 동반자 역할을 한다." },
-          { "t": "p", "x": "이 기기에는 주변 상황을 이해하는 카메라가 들어간다. 스마트폰은 이르면 내년에 뒤이어 나온다고 전해진다." },
-          { "t": "p", "x": "AI 네이티브 가정용 기기가 어떤 모습이어야 하는지, 디자인이 앞장선 재해석이다." }
+          { "t": "img", "src": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg" },
+          { "t": "p", "x": "삼성이 삼성 헬스 안에 헬스 어시스턴트라는 AI 챗봇을 넣었다. 쌓이기만 하던 웰니스 데이터를 사람이 알아듣는 말로 풀어주는 역할이다." },
+          { "t": "p", "x": "챗봇은 걸음 수, 심박, 수면 같은 기록을 읽고 그 의미를 해석한다. 그 위에서 개인에게 맞춘 생활 습관 조언을 건네는데, 이 조언은 의료진의 검증을 거쳤다." },
+          { "t": "p", "x": "웨어러블 생태계 전반을 아우른다는 점도 눈에 띈다. 대화형 AI가 일상의 건강 도구 위에 한 겹 더 얹히는 방향을 삼성이 분명히 보여준다." }
         ]
       }
     },
     {
-      "id": "m4-max-local-ai",
+      "id": "friend-2-pendant",
       "eyebrow": "AI NEWS",
-      "headline": "M4 Max로 살펴본\n애플 실리콘의 로컬 AI 성능",
-      "mini_headline": "로컬 AI, 어떤 칩이 빠른가",
-      "body": "맥 스튜디오의 M4 Max가 엔비디아 GB10, AMD 스트릭스 헤일로와의 로컬 LLM 벤치마크에서 디코드 처리량 선두를 차지했다.",
-      "tool": "Apple",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything",
-      "accent": "#7928ca",
+      "headline": "AI 목걸이 프렌드가\n스피커를 달고 돌아왔다",
+      "mini_headline": "돌아온 프렌드 2.0",
+      "body": "늘 듣고 있던 AI 동반자 프렌드가 249달러 2.0으로 돌아와 음성 응답과 월 구독 기억을 얹었다.",
+      "tool": "Gadgets",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/friend-is-back-with-a-new-ai-pendant-and-its-marketing-is-more-depressing-than-ever-2000793089",
+      "accent": "#f5a623",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/7CNCn9fXJZV5ZAHnri4ZWE-1920-80.jpg" },
-          { "t": "p", "x": "애플 M4 Max, 엔비디아 GB10, AMD 스트릭스 헤일로를 놓고 온디바이스 LLM 성능을 직접 측정했다." },
-          { "t": "p", "x": "결과를 보면 디코드 처리량에서는 M4 Max가 앞섰지만, 메모리 대역폭 하나만으로 승부가 갈리지는 않았다." },
-          { "t": "p", "x": "창작과 개발 작업에서 로컬 AI를 실제로 잘 돌리는 소비자 하드웨어가 무엇인지 구체적으로 보여준다." }
-        ]
-      }
-    },
-    {
-      "id": "dji-osmo-pocket4p",
-      "eyebrow": "AI NEWS",
-      "headline": "DJI 오스모 포켓 4P,\n듀얼 렌즈로 프로에 다가서다",
-      "mini_headline": "짐벌 카메라의 프로 전환",
-      "body": "두 개의 렌즈와 광학 줌, 넓은 다이내믹 레인지, AI 피사체 추적을 더해 1인 창작자의 촬영 방식을 새로 짠다.",
-      "tool": "DJI",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2226364/dji-osmo-pocket-4p-review/",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "img", "src": "https://www.engadget.com/img/gallery/dji-osmo-pocket-4p-review/l-intro-1785434430.jpg" },
-          { "t": "p", "x": "DJI의 포켓 짐벌 카메라가 렌즈 두 개를 달고 '프로'를 표방한다." },
-          { "t": "p", "x": "광학 줌과 동급 최고 수준의 다이내믹 레인지, AI 피사체 추적을 갖췄다." },
-          { "t": "p", "x": "혼자 움직이며 찍는 창작자가 피사체를 잡고 따라가는 방식을 다시 짜는, 독립형 AI 카메라다." }
-        ]
-      }
-    },
-    {
-      "id": "halliday-g2",
-      "eyebrow": "AI NEWS",
-      "headline": "할리데이 G2, 카메라 없이\n회의를 돕는 스마트 글래스",
-      "mini_headline": "카메라 없는 AI 안경",
-      "body": "카메라를 빼고 양안 마이크로 LED 디스플레이로 실시간 번역과 자막, 회의록을 50g 미만 프레임에 담았다.",
-      "tool": "Halliday",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/halliday-g2-smart-glasses-launch-3689649/",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "img", "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Halliday-G2-with-Case.jpg" },
-          { "t": "p", "x": "할리데이 G2는 카메라를 두지 않는다. 대신 양안 마이크로 LED 디스플레이와 '미팅 플로우' AI에 기댄다." },
-          { "t": "p", "x": "이 AI는 실시간 번역과 자막, 정보 검색, 회의가 끝난 뒤의 기록까지 50g이 안 되는 프레임 안에서 처리한다." },
-          { "t": "p", "x": "주변 사람을 모두 촬영하지 않으면서도 AI 안경이 도움을 줄 수 있다는, 프라이버시를 앞세운 접근이다." }
+          { "t": "img", "src": "https://gizmodo.com/app/uploads/2026/07/Friend2.0.jpg" },
+          { "t": "p", "x": "늘 곁에서 듣고 있던 AI 동반자 목걸이 프렌드가 프렌드 2.0으로 다시 나왔다. 가격은 249달러다." },
+          { "t": "p", "x": "이번엔 스피커가 들어갔다. 앱 화면으로만 대답하던 이전과 달리, 목걸이가 목소리로 곧장 답한다." },
+          { "t": "p", "x": "기억에는 조건이 붙었다. 30일이 지난 대화를 계속 붙들어 두려면 매달 10달러를 내야 한다. 웨어러블 AI가 향하는 지점을 프렌드 2.0이 담담하게 드러낸다." }
         ]
       }
     }

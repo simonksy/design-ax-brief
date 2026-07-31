@@ -1,51 +1,42 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "movies",
-  "now_iso": "2026-07-30T22:07:33Z",
+  "now_iso": "2026-07-31T22:00:41Z",
   "window_hours": 336,
   "count": 5,
-  "note": "Section = movies (single 'movies' category), 14-day/336h window (start 2026-07-16T22:07:33Z). Every kept item's published time was verified via WebFetch (og/JSON-LD/byline) and gated FRESH through pipeline/freshness.py 'movies'. The fresh, extractable movies x AI beat this run is dominated by SIGGRAPH 2026 (July 19-23, LA) tool/craft announcements. DIVERSITY CAVEAT: items 4 and 5 cover the SAME story (Puget Systems 'Robo Dojo' SIGGRAPH activation) from two outlets (ProVideo + RedShark) -- kept as a wide-funnel outlet choice; curator should dedup to at most one. 4 distinct stories across 3 outlets (RedShark x2, ProVideo x2, postPerspective x1; all under the <=3/outlet collection cap). DEPRIORITIZED/SKIPPED (already-published or noted in keywords): fxguide Foundry SmartRoto (Jul 16, roto matting already carded), Lightcraft Spark Story previz (SIGGRAPH, already carded), Adobe Premiere Generative Media Tool (already carded). CONFIRMED STALE and dropped (date-verified via WebFetch): 80.lv OctaneStudio+ 2026 (Dec 2 2025), fxguide NUKE 17.0 Gaussian Splats beta (Dec 12 2025), nofilmschool Imagen Video color grading (Apr 21 2026), nofilmschool Runway Seedance 2.0 (Apr 7 2026), 80.lv Move Genesis mocap (Apr 9 2026), redsharknews Aiarty upscaler (Jun 29 2026), provideocoalition After Effects Portal (Jun 30 2026), fxguide SwitchHDR (Jul 9 2026, just outside window), fxguide DiffusionRenderer relighting (Jun 17 2025), redsharknews/postperspective Beeble SwitchLight 3.0 launch (Dec 10 2025), nofilmschool Kling 3.0 (Feb 2026), nofilmschool/postperspective Adobe Color Mode + Tether plugin (Jan-May 2026), postperspective Puget AI server (Aug 2023 -- search mixed old/new). BLOCKED/unverifiable (dropped, could not extract published_time -- all redirect to tollbit.* returning HTTP 402/307): several genuinely fresh Variety/Hollywood Reporter/Deadline/IndieWire AI-film items (Variety 'Young Washington' Jon Erwin AI VFX breakdown, Variety Panjaya x Shortical AI dubbing, Deadline Christopher Nolan on AI slop, HR AI-generated Odysseus feature, HR Aronofsky AI studio raise, IndieWire 'The Model Doesn't Matter' AI platform) -- WebFetch cannot pass the tollbit paywall so published time is unverifiable; per rules these are dropped. WebSearch budget (200) was fully exhausted; remaining verification done via WebFetch of listing/article pages. Social: movies category defines its own youtube_channels but no verifiable in-window AI upload surfaced within budget; IG not defined for movies (skipped). og_image taken from each page's hero/og image.",
+  "note": "Section = movies (single 'movies' category), 14-day/336h window (start 2026-07-17T22:00:41Z). Every kept item's published time was extracted via WebFetch (og:published_time / JSON-LD datePublished / byline) and gated FRESH through pipeline/freshness.py 'movies'. FUNNEL WAS THIN this run and I could not reach a wide 24-32 pool: the in-window (Jul 18-31) movies x AI beat is dominated by SIGGRAPH 2026 tool announcements that were ALREADY carded in the 07-25..07-31 briefs (Autodesk Maya MotionMaker/3DGS, Foundry SmartRoto, Lightcraft Spark Story, Puget Robo Dojo, Beeble SwitchLight), and the genuinely-fresh non-SIGGRAPH items live almost entirely on paywalled trades. NEW this run (not in yesterday's candidates_movies.json): Vida Scene Search, HP Z Captis+Adobe digital twin, RedShark FrostFX. Carried (still in-window, strong, likely un-published): NVIDIA synthetic-video-detector (was a 07-31 candidate). Overlap flag: item 5 ProVideo 'future of filmmaking' is a Beeble SwitchLight hybrid-set piece and may collide with the already-carded 'Beeble SwitchLight AI relighting hybrid set' -- curator should dedup. Outlets: postPerspective x2, RedShark x2, ProVideo x1 (all <=3/outlet cap; only 3 distinct outlets -- diversity is below the >=6 goal because fresh fetchable sources are near-exhausted). CONFIRMED STALE and dropped (date-verified via WebFetch): nofilmschool Runway Gen-4.5 (Jan 22), Kling 3.0 (Feb 6), Adobe MotionStream (Apr 10), CapCut Seedance 2.0 (Mar 26), Netflix Inkubator (May 15), Imagen Video color grading (nofilmschool Apr 21 / postperspective Apr 22), redshark Avid+Google agentic AI (Apr 18), Beeble SwitchX (Mar 3), NVIDIA RTX Spark (Jun 2), engadget Google Video Remix (Jul 8), Tilly Norwood feature (Jul 6), Adobe Firefly audio/video (Oct 2025), engadget Prime Video AI dubbing (Mar 5 2025), postperspective Tether AE plugin (Jan 26), Digital Domain DDAI (May 28), redshark 'AI in post-production' (Dec 6 2024) & 'How AI transforms video production' (Jul 2023), 80.lv SALT (2022). BLOCKED/unverifiable (dropped per rules -- all redirect to tollbit.* returning HTTP 402/307, WebFetch cannot read published_time): genuinely-fresh Variety/Deadline/HR/IndieWire AI-film items incl. Reply AI Film Festival finalists+jury (~Jul 28, corroborated by businesswire URL 20260728 but article timestamp unverifiable), Bengaluru Short Film Festival AI 'Machine Made Movies' category, Deadline Christopher Nolan on AI slop, Variety Panjaya x Shortical AI dubbing, HR Aronofsky AI studio raise. The gstack browse skill (headless render fallback for JS/paywalled pages) crashed with exit 137 in this environment, so paywalled trades could not be rendered. AWN and cartoonbrew AI listings returned 403/no fresh in-window AI items. Social: movies category defines youtube_channels but no verifiable in-window AI upload surfaced; no instagram_handles defined (IG skipped).",
   "items": [
     {
-      "title": "Autodesk Adds AI and 3DGS Tools Across Maya, 3ds Max and More",
-      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
+      "title": "Vida Scene Search: AI Scene-Level Search With No Manual Logging Required",
+      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
       "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Autodesk-Updates-SIGGRAPH-MAIN-624x416.jpg",
-      "excerpt": "At SIGGRAPH 2026 Autodesk added a 'Bring Your Own Data' feature to Maya's MotionMaker, letting studios train custom generative motion models on their own rigs and mocap, plus editable 3D Gaussian splats in 3ds Max for folding AI-captured environments into shots. A craft-level shift in how animators and VFX artists generate and edit performance and scenes."
+      "published_iso": "2026-07-30T18:00:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vida-Scene-Search-624x416.jpg",
+      "excerpt": "Vida launched Scene Search, an offline AI-powered indexing tool inside Vida Content OS that lets editors and post teams search a video library at the scene level using natural language, with no manually logged metadata. A concrete craft shift for how film and TV post finds and reuses footage."
     },
     {
-      "title": "Is this the future of filmmaking?",
-      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
-      "source": "ProVideo Coalition",
+      "title": "HP Z Captis + Adobe Substance 3D: Digital Twin Capture Built for Scale",
+      "url": "https://postperspective.com/hp-and-adobe-offer-digital-twin-capture-built-for-scale/",
+      "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-07-28T12:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
-      "excerpt": "Damian Allen walks through a hybrid AI film-set approach built on Beeble's SwitchLight, where AI transforms backgrounds and relighting while real actor performances and camera work are preserved -- a middle ground between traditional production and fully synthetic generation. A hands-on read on how AI relighting reshapes the on-set and post workflow."
+      "published_iso": "2026-07-22T13:45:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2-624x416.jpg",
+      "excerpt": "HP and Adobe updated the HP Z Captis capture system with faster speeds and deeper Adobe Substance 3D Sampler integration, running hybrid AI inference on NVIDIA Jetson AGX to build production-ready digital twins for VFX and virtual production. A look at how AI-accelerated asset capture feeds the film pipeline."
     },
     {
-      "title": "Puget Systems at SIGGRAPH 2026: an immersive Robo Dojo",
-      "url": "https://www.provideocoalition.com/puget-systems-at-siggraph-2026-an-immersive-robo-dojo/",
-      "source": "ProVideo Coalition",
-      "category": "movies",
-      "published_iso": "2026-07-20T12:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg",
-      "excerpt": "Puget Systems' SIGGRAPH 2026 'Robo Dojo' turns attendees into real-time MetaHuman avatars battling AI robots using LiDAR scanning and LED-volume virtual production, a live demo of markerless motion capture and real-time rendering feeding a game-engine pipeline. A tactile snapshot of where performance capture and virtual production are heading for film."
-    },
-    {
-      "title": "Puget Systems' Robo Dojo proves SIGGRAPH attendees have all the fun",
-      "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
+      "title": "Why we chose it: Estonia's FrostFX on using AI as another creative tool in post",
+      "url": "https://www.redsharknews.com/vfx-frostfx-estonia",
       "source": "RedShark News",
       "category": "movies",
-      "published_iso": "2026-07-22T09:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
-      "excerpt": "RedShark's take on Puget Systems' SIGGRAPH 2026 Robo Dojo, where visitors drive a MetaHuman in real time to fight AI robots through body movement, showcasing advances in markerless motion capture and real-time virtual production. (Same event as the ProVideo item -- included as an outlet alternative; dedup to one.)"
+      "published_iso": "2026-07-31T09:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/frostfx%20marko%20post.jpg",
+      "excerpt": "Estonian VFX studio FrostFX details a post pipeline that treats AI not as a replacement for artists but as a tool that removes repetitive technical work so artists spend more time on creative decisions. A grounded studio-level view of how an AI-assisted VFX workflow actually shifts the craft."
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 4,
+    "dropped": 2,
+    "kept": 3,
     "against_days": 5
   }
 }

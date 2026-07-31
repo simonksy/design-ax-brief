@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-31",
+  "section": "games",
+  "now_iso": "2026-07-31T22:00:41Z",
+  "window_hours": 336,
+  "count": 2,
+  "note": "RECOVERY PASS for games (section at 1 pick, below floor 3). WebSearch budget exhausted; relied on WebFetch crawls of games outlets' AI tag/listing pages, then per-article published-time verification via curl (og article:published_time + JSON-LD datePublished), gated deterministically through pipeline/freshness.py at the 336h/14-day games window (window start 2026-07-17T22:00:41Z). Working listing crawls: pcgamer.com/tag/artificial-intelligence, aftermath.site/tag/ai, gamedeveloper.com/latest, 80.lv/tags/ai, pcgamer software/ai. NOT crawlable this run (403/404/429/blocked): gamesradar.com, rockpapershotgun.com, gamespot.com, destructoid.com, venturebeat.com, thegamer.com, gamesindustry.biz, ign.com, eurogamer.net, vg247.com. Dropped as general AI-industry noise with no craft hook: pcgamer software/ai run (Anthropic/OpenAI hacking, Meta data centers, book destruction, singularity), gamedeveloper EA CEO $38.6M pay. Dropped as already-live dups: pcgamer 2D-to-3D method (Jul 22), 80.lv Meshy. Genuinely thin fortnight for fresh games x AI craft news; 2 new distinct on-topic items found, bringing section to floor 3.",
+  "candidates": [
+    {
+      "category": "games",
+      "title": "Nexus Mods finally tightens the screws on AI — though it's still playing softball with the tide of slop",
+      "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
+      "source": "PC Gamer",
+      "published_iso": "2026-07-31T15:46:26Z",
+      "excerpt": "The largest PC game modding platform is toughening its policy on generative AI, now requiring modders to properly disclose AI-generated assets in their uploads — a workflow/craft shift for the modding community as the platform grapples with AI 'slop'.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg"
+    },
+    {
+      "category": "games",
+      "title": "All The Video Game Studios That Refuse To Use Generative AI",
+      "url": "https://aftermath.site/video-games-no-ai/",
+      "source": "Aftermath",
+      "published_iso": "2026-07-29T18:24:46Z",
+      "excerpt": "A running catalog of game studios publicly pledging to keep generative AI out of their development and art pipelines, spotlighting how a segment of the industry is defining craft and creative process against AI adoption.",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg"
+    }
+  ]
+}

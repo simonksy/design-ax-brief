@@ -1,31 +1,22 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "gadgets",
+  "count": 3,
   "media": [
     {
-      "id": "gemini-robotics2",
+      "id": "adobe-project-indigo",
       "type": "image",
-      "src": "pipeline/media/gemini-robotics2.png"
+      "src": "pipeline/media/adobe-project-indigo.jpg"
     },
     {
-      "id": "openai-companion-speaker",
+      "id": "samsung-health-assistant",
       "type": "image",
-      "src": "pipeline/media/openai-companion-speaker.jpg"
+      "src": "pipeline/media/samsung-health-assistant.jpg"
     },
     {
-      "id": "m4-max-local-ai",
+      "id": "friend-2-pendant",
       "type": "image",
-      "src": "pipeline/media/m4-max-local-ai.jpg"
-    },
-    {
-      "id": "dji-osmo-pocket4p",
-      "type": "image",
-      "src": "pipeline/media/dji-osmo-pocket4p.jpg"
-    },
-    {
-      "id": "halliday-g2",
-      "type": "image",
-      "src": "pipeline/media/halliday-g2.jpg"
+      "src": "pipeline/media/friend-2-pendant.jpg"
     }
   ]
 }

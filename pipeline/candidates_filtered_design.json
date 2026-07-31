@@ -1,51 +1,60 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-08-01",
   "section": "design",
-  "now_iso": "2026-07-30T22:07:33Z",
+  "now_iso": "2026-07-31T22:00:41Z",
   "window_hours": 72,
-  "count": 1,
-  "note": "WIDE funnel attempted across all 7 design categories (figma/render/cad/tokens/vr/workflow/social), each search restricted to that category's allowed_domains. The 72h window (start 2026-07-27T22:07:33Z) is genuinely sparse for design x AI in the extractable allowed-domains -- consistent with the prior three runs. Every kept item's published time was verified via WebFetch/curl and gated FRESH through pipeline/freshness.py. WebSearch budget (200 calls, shared across the parallel librarians) was EXHAUSTED partway, so the back half of the run relied on WebFetch + curl date-checks and RSS feeds on URLs already gathered. CONFIRMED STALE and dropped (date-verified): CG Channel Maya 2027.2 AI-animation (Jul 22), Reallusion Headshot 3.1 (Jul 7), Chaos V-Ray 7.4 for Blender w/ Veras AI (Jul 21), Esri CityEngine 2026 (Jul 13), 80.lv Meshy 3D Agent (Jul 21) + Hyper3D Rodin Gen-2.5 (Jun 3) + retopology tools (Oct 2025 / Jun 3), Smashing 'matching-ai-modality' (Jul 2), all Creative Bloq AI/3D hits (Aug 2025 - Jun 2026, incl. Nano-Banana-vs-Photoshop Aug 2025, Autodesk 3D-gen Mar 5, Apple SHARP Dec 2025, Adobe-Firefly-2026 Jan 2, ChatGPT-Images-2.0 Apr 24), Engadget Midjourney-scanner (Jun 23) + Google-Images-makeover (Jul 14) + Canva-AI-2.0 (Apr 16) + Microsoft MAI-Image-1 (Oct 2025) + Nano-Banana-Pro (Nov 2025) + Gemini-personalized-image (Jun 29), UploadVR visionOS 26.4 (Mar 28) + Road to VR visionOS 27 controllers (Jun 8), Autodesk Building-Layout-Explorer (early Jun). DUPLICATES of the 07-30 brief (fresh but already published, per keyword-planner dedup list) dropped: Smashing 'digital-design-ai-era' MacPaw Eney (Jul 28), Builder.io agent-first-apps (Jul 29), 80.lv game-AI-belongs (Jul 29), Nexthena 1.2.1 (Jul 28), dev.to no-handoff + AI-website-sameness (Jul 27, also now aged past window start). BLOCKED/unverifiable -> dropped (could not confirm published time): all VentureBeat design items (Krea 2, FLUX 3, Nano Banana 2 Lite, Canva Code 2.0, Lovart, Recraft) -- Vercel security checkpoint on curl + persistent HTTP 429 on WebFetch; RSS feed cross-check shows VB's actual Jul 29-30 output is entirely AI-industry/security/pricing (OpenAI price war, Mastercard/Hush/Cisco/NTT security, AI-ROI, Waymo evals) with NO design hook, and the design pieces are not in the recent feed -> confirmed not in-window. Fast Company blocked (HTTP 403 WebFetch + curl); RSS cross-check: /technology feed Jul 29-30 all AI-industry/policy (open-models, Samsung profit, AI compute, AI hackers, Kimi K3) = no design hook, and /section/design feed's freshest item is Jul 17 ('Designing for the edges', non-AI) -> nothing fresh + design-relevant. Social yielded nothing verifiable in-window (WebSearch exhausted before social sweep; no verifiable YouTube upload dates obtained; Instagram login-walled, not attempted). NET: exactly 1 fresh, design-relevant, non-duplicate candidate. This is well below the target of 5; the shortfall is a genuine exhaustion of in-window design x AI news from verifiable allowed-domains, compounded by the shared WebSearch-budget cap, not a collection shortcut.",
+  "count": 5,
+  "note": "WIDE funnel across all 7 design categories (figma/render/cad/tokens/vr/workflow/social), each search scoped to that category's allowed_domains, then cross-checked against live RSS/index feeds (80.lv, roadtovr, uploadvr, smashingmagazine, creativebloq, uxdesign.cc, dev.to, engadget) to find items actually inside the tight 72h window (start 2026-07-28T22:00:41Z). Every kept item's published time was extracted from og:article:published_time + JSON-LD datePublished via curl and gated FRESH through pipeline/freshness.py. The 72h design x AI window remains genuinely sparse (consistent with prior runs). KEYWORD EXPANSION used to fill the count beyond keyword_pool terms: swept feed-level for sibling angles (digital-painting-vs-AI tool releases, AI-collapsing-UI-into-chat UX theory, AI-fatigue designer workflow, generative-image-tools-in-mapping-products backlash). DROPPED as STALE (date-verified): Creative Bloq 'Canva update' (2023-03-23), '3D retopology AI tool' (2025-10-23); all Luma Ray3 / Krea 2 / Ideogram V4 / Recraft hits (May-Jun 2026 listicles/changelogs); Higgsfield (Jan 2026 funding, no design hook); text-to-CAD / Autodesk-Fusion-generative-design results (all evergreen listicles or undated). DROPPED as DUPLICATE/deprioritized per keyword-planner dedup list: Creative Bloq 'font that poisons AI' (Jul 30 = ShieldFont AI-poison typography, already covered), Smashing 'bull-and-bear case digital design age AI' (Jul 29, covered) + 'digital-design-ai-era' MacPaw Eney (Jul 28, covered), UX Collective 'your people get AI get out of their way' (Jul 29, covered). DROPPED as no-design-hook (relevance test): Engadget Jul 31 output was overwhelmingly policy/business/gaming (SpaceX turbines, Kalshi lawsuit, Snapchat AI-slop moderation, EU AI-content labels, EA-goes-private, $2-sticker Meta-glasses privacy hack); Creative Bloq 'Apple AI strategy is working' (branding/business commentary), 'Tyla AI music-video allegations' (entertainment). DROPPED as UNVERIFIABLE: engineering.com Autodesk-Fusion-MCP-servers (no extractable published time via curl or WebFetch -> dropped per rule); VentureBeat Claude-Design / Canva-Code-2.0 (HTTP 429 on WebFetch, VB /category/ai feed returns only stale Jan-May cached items -> could not confirm in-window). SOCIAL: WebSearch site:youtube/instagram returned no verifiable in-window upload dates; Instagram login-walled -> contributed 0 (expected). NET pool = 5 fresh, design-relevant, non-duplicate candidates across 3 outlets (Engadget, Creative Bloq, UX Collective x3 = at the collection per-source cap of 3). Outlet diversity is capped by genuine window sparsity, not collection shortcut; ax-curator can tighten to <=2/outlet from this pool.",
   "items": [
     {
-      "title": "Nano Banana image generation comes to Google Earth",
-      "url": "https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/",
+      "title": "Google rolls back the needless AI generation tools it added to Google Earth",
+      "url": "https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/",
       "source": "Engadget",
       "category": "render",
-      "published_iso": "2026-07-30T12:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/nano-banana-image-generation-comes-to-google-earth/intro-1785351587.jpg",
-      "excerpt": "Google has integrated its Nano Banana image-generation model into Google Earth, letting users generate photorealistic renderings of historical sites (e.g. 'Pompeii in 78 AD') and pre-visualize future construction projects directly on the map. A concrete push of generative image AI into spatial design, architectural visualization, and place-based concept rendering workflows."
+      "published_iso": "2026-07-31T19:08:23Z",
+      "og_image": "https://www.engadget.com/img/gallery/google-rolls-back-google-earth-image-generation/l-intro-1785524818.jpg",
+      "excerpt": "Days after adding its Nano Banana generative-image tools to Google Earth, Google is pulling them back following user backlash that AI-invented renderings degraded a trusted mapping/visualization product. A concrete signal on the limits of dropping generative image AI into spatial-design and place-based visualization workflows."
     },
     {
-      "title": "Type designers have created a free font that poisons AI",
-      "url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
+      "title": "Rebelle 8.3 proves the future of digital painting isn't AI, it's making brushes feel real",
+      "url": "https://www.creativebloq.com/art/digital-art-software/rebelle-8-3-proves-the-future-of-digital-painting-isnt-ai-its-making-brushes-feel-real",
       "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hCZp4o3EEtij6rJHs3HXZF-2560-80.png",
-      "excerpt": "Type designers have released ShieldFont, a free typeface engineered to corrupt AI model training on scraped text and imagery. A concrete craft-level response from the design/typography community to generative-AI data harvesting, giving designers a defensive tool against having their work ingested."
+      "category": "render",
+      "published_iso": "2026-07-31T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/mvo3TZvdBoXsZMkfVGT9TC-1497-80.jpg",
+      "excerpt": "Escape Motions' Rebelle 8.3 doubles down on physically realistic brush and watercolor simulation rather than generative AI, framing a deliberate craft-first counter-position in a design-tool market racing to bolt on AI. A useful read on where creative software is choosing simulation over generation."
     },
     {
-      "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
-      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "published_iso": "2026-07-29T13:00:00Z",
-      "og_image": "https://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
-      "excerpt": "Andy Budd examines how AI is reshaping product design: the bull case gives designers greater autonomy and less need for permission to act, while the bear case exposes the skill gaps that autonomy makes harder to hide. A framing piece for how design roles and workflows shift as AI removes handoff friction."
-    },
-    {
-      "title": "Your people get AI. Get out of their way",
-      "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8",
+      "title": "Jakob's Law: how to apply it as AI collapses surfaces into one chat box",
+      "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db",
       "source": "UX Collective",
       "category": "figma",
-      "published_iso": "2026-07-29T21:58:04Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg",
-      "excerpt": "With every design org now reaching for the same AI tools, the argument is that the winners will be those willing to trust the practitioners who already understand them. A design-leadership / AX-adoption take on how teams should reorganize around AI rather than gatekeep it."
+      "published_iso": "2026-07-30T23:19:52Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*SpJMK3a6F5z94Lj-6uKzRQ.png",
+      "excerpt": "As AI collapses distinct app surfaces and screens into a single conversational chat box, this piece reworks Jakob's Law of familiarity for generative UI - what patterns designers must preserve so users still feel oriented when the interface itself is generated on the fly."
+    },
+    {
+      "title": "Rethinking friction in an AI world",
+      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-30T22:33:37Z",
+      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:862/0*awQhwQtyDfSv3nDp",
+      "excerpt": "A designer's argument that 'frictionless' is the wrong default once AI can do almost anything instantly - reframing where intentional friction should be added back into AI-driven products to keep users in control, and how that reshapes the design process."
+    },
+    {
+      "title": "Battling AI fatigue as a designer and developer: a practical guide",
+      "url": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-07-29T21:57:28Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*i7d7zE7lb4_vuKCifaKtTQ.png",
+      "excerpt": "A practical field guide to 'AI fatigue' in design and dev teams - concrete tactics for deciding when to reach for AI tooling versus when it adds noise, aimed at keeping an AI-saturated creative workflow sustainable rather than exhausting."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 1,
+    "kept": 5,
     "against_days": 5
   }
 }

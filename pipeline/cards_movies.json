@@ -1,106 +1,67 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "movies",
   "cards": [
     {
-      "id": "autodesk-maya-3dgs-ai",
+      "id": "vida-scene-search",
       "eyebrow": "AI NEWS",
-      "headline": "Autodesk가 마야·3ds Max에\nAI와 3DGS 도구를 더하다",
-      "body": "시그래프 2026에서 마야의 모션메이커가 스튜디오 자체 리그와 목캡으로 생성형 모션 모델을 학습한다.",
-      "mini_headline": "마야에 생성형 모션",
+      "headline": "장면 단위로 찾는\n오프라인 AI 검색",
+      "body": "수작업 메타데이터 없이 자연어만으로 영상 라이브러리를 장면 단위로 뒤져 편집자가 필요한 장면을 곧바로 찾는다.",
+      "mini_headline": "장면 단위 검색",
       "tool": "Movies",
       "source": "postPerspective",
-      "url": "https://postperspective.com/autodesk-updates-bring-your-own-data-editable-3d-gaussian-splats-more/",
+      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "시그래프 2026에서 오토데스크가 마야의 모션메이커에 'Bring Your Own Data' 기능을 더했다. 스튜디오가 자기 리그와 목캡 데이터로 생성형 모션 모델을 직접 학습시킬 수 있게 됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/07/Autodesk-Updates-SIGGRAPH-MAIN-624x416.jpg",
-            "cap": "시그래프 2026에서 공개된 오토데스크 업데이트"
-          },
-          {
-            "t": "p",
-            "x": "3ds Max에는 편집 가능한 3D 가우시안 스플랫이 들어왔다. AI로 캡처한 환경을 샷 안으로 접어 넣는 길을 연 것이다."
-          },
-          {
-            "t": "p",
-            "x": "애니메이터와 VFX 아티스트가 퍼포먼스와 씬을 만들고 다듬는 방식이 공정 단위에서 바뀌는 변화다."
-          }
+          { "t": "img", "src": "https://postperspective.com/wp-content/uploads/2026/07/Vida-Scene-Search-624x416.jpg" },
+          { "t": "p", "x": "Vida가 Content OS 안에서 돌아가는 오프라인 AI 색인 도구 Scene Search를 내놨다. 편집자와 포스트 팀이 영상 라이브러리를 장면 단위로, 그것도 자연어로 검색할 수 있게 하는 도구다." },
+          { "t": "p", "x": "핵심은 사람이 일일이 메타데이터를 달아 둘 필요가 없다는 점이다. 그동안 장면을 다시 찾으려면 촬영본을 손으로 로깅해 두어야 했지만, 이제 그 과정이 사라진다." },
+          { "t": "p", "x": "필름과 TV 포스트가 촬영본을 찾고 다시 쓰는 방식이 실무 차원에서 바뀌는 셈이다. 검색이 클립이 아니라 장면 단위로 내려가면서, 원하는 순간에 곧장 닿을 수 있게 됐다." }
         ]
       }
     },
     {
-      "id": "beeble-switchlight-hybrid-set",
+      "id": "hp-z-captis-adobe",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 배경과 조명을 바꾸는\n하이브리드 촬영 현장",
-      "body": "비블의 스위치라이트로 배경과 조명은 AI가 바꾸고 배우의 연기와 카메라 워크는 그대로 남긴다.",
-      "mini_headline": "AI 리라이팅 현장",
+      "headline": "AI로 빨라진\n디지털 트윈 캡처",
+      "body": "HP Z Captis가 Substance 3D와 더 깊게 붙고 Jetson에서 AI 추론을 돌려 제작용 디지털 트윈을 빠르게 만든다.",
+      "mini_headline": "디지털 트윈 캡처",
       "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/hp-and-adobe-offer-digital-twin-capture-built-for-scale/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "데미언 앨런이 AI를 섞은 하이브리드 촬영 방식을 짚는다. 토대는 비블의 스위치라이트다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
-            "cap": "AI 리라이팅으로 재구성한 촬영 장면"
-          },
-          {
-            "t": "p",
-            "x": "배경을 바꾸고 조명을 다시 입히는 일은 AI가 맡되, 실제 배우의 연기와 카메라 워크는 그대로 지킨다. 전통적인 제작과 완전 합성 생성 사이의 중간 지대다."
-          },
-          {
-            "t": "p",
-            "x": "AI 리라이팅이 현장과 후반 작업 흐름을 어떻게 다시 짜는지, 직접 손을 대본 시선으로 풀어냈다."
-          }
+          { "t": "img", "src": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2-624x416.jpg" },
+          { "t": "p", "x": "HP와 Adobe가 캡처 시스템 HP Z Captis를 손봤다. 속도를 끌어올리고 Adobe Substance 3D Sampler와의 연동을 한층 깊게 다졌다." },
+          { "t": "p", "x": "핵심은 NVIDIA Jetson AGX 위에서 하이브리드 AI 추론을 돌린다는 데 있다. 이렇게 만든 결과물은 곧바로 제작에 쓸 수 있는 디지털 트윈이 된다." },
+          { "t": "p", "x": "겨냥하는 곳은 VFX와 버추얼 프로덕션이다. AI로 가속한 에셋 캡처가 필름 파이프라인에 어떻게 흘러 들어가는지 보여 주는, 규모를 염두에 둔 업데이트다." }
         ]
       }
     },
     {
-      "id": "puget-robo-dojo-siggraph",
+      "id": "frostfx",
       "eyebrow": "AI NEWS",
-      "headline": "관객을 메타휴먼으로 바꾸는\n퓨젯의 로보 도조",
-      "body": "라이다 스캔과 LED 볼륨으로 관객을 실시간 메타휴먼 아바타로 바꿔 AI 로봇과 맞붙게 한다.",
-      "mini_headline": "실시간 메타휴먼 배틀",
+      "headline": "AI는 대체가 아니라\n또 하나의 도구",
+      "body": "에스토니아 FrostFX는 AI로 반복적 기술 작업을 걷어내 아티스트가 창작 판단에 더 오래 머물게 한다고 말한다.",
+      "mini_headline": "또 하나의 도구",
       "tool": "Movies",
       "source": "RedShark News",
-      "url": "https://www.redsharknews.com/puget-systems-robo-dojo-siggraph-2026",
+      "url": "https://www.redsharknews.com/vfx-frostfx-estonia",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "퓨젯 시스템스가 시그래프 2026에서 선보인 '로보 도조'는 관객을 실시간 메타휴먼 아바타로 바꿔 AI 로봇과 맞붙게 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
-            "cap": "시그래프 2026 퓨젯 스튜디오의 로보 도조"
-          },
-          {
-            "t": "p",
-            "x": "라이다 스캔과 LED 볼륨 버추얼 프로덕션을 쓴다. 마커 없는 모션 캡처와 실시간 렌더링이 게임 엔진 파이프라인으로 곧장 흘러드는 라이브 데모다."
-          },
-          {
-            "t": "p",
-            "x": "퍼포먼스 캡처와 버추얼 프로덕션이 영화 쪽에서 어디로 향하는지, 손끝에 잡히는 한 장면이다."
-          }
+          { "t": "img", "src": "https://www.redsharknews.com/hubfs/frostfx%20marko%20post.jpg" },
+          { "t": "p", "x": "에스토니아의 VFX 스튜디오 FrostFX가 자사 포스트 파이프라인을 풀어놓았다. 이들은 AI를 아티스트의 대체재로 보지 않는다." },
+          { "t": "p", "x": "AI가 하는 일은 반복적인 기술 작업을 덜어 내는 쪽이다. 그렇게 비운 시간만큼 아티스트는 창작 판단에 더 오래 매달릴 수 있다." },
+          { "t": "p", "x": "AI를 곁들인 워크플로가 실제로 작업의 결을 어떻게 바꾸는지, 스튜디오 현장의 시선으로 담담히 짚은 이야기다." }
         ]
       }
     }

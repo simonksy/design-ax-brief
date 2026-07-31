@@ -1,96 +1,51 @@
 {
-  "date": "2026-07-31",
-  "section": "gadgets",
-  "now_iso": "2026-07-30T22:07:33Z",
+  "date": "2026-08-01",
   "window_hours": 336,
-  "count": 9,
-  "note": "Single-category ('gadgets') section, 14-day/336h freshness window (start 2026-07-16T22:07:33Z). Every kept item's published time was verified via curl on article:published_time / JSON-LD datePublished (search snippets never trusted) and gated FRESH through pipeline/freshness.py. Weighting followed the rotation plan: de-emphasize the just-published 07-30 clusters (Meta Ray-Ban smart glasses, Oura smart ring, iOS 27 Siri, Alexa+) and the prior AI-PC/ambient-home leaning; emphasize under-covered HUMANOID/HOME ROBOTS, EDGE AI SILICON, AI COMPANION/POCKET DEVICES, standalone AI CAMERA. Landed 9 fresh candidates across 6 distinct outlets. Per-outlet: engadget 3 (Friend / DJI Osmo / Sonos), androidauthority 2 (Halliday / Snap), theverge 1, macrumors 1, tomshardware 1, techradar 1 -- all within the wide-funnel <=3 cap. Cluster spread: robots/embodied-AI 1, AI companion device 1, AI companion wearable 1, AI camera 2, ambient AI audio 1, edge/on-device AI silicon 1, smart glasses 2 (held to 2 given the cluster is saturated). WebSearch budget was fully exhausted (200/200, shared across the parallel librarian run) partway through -- the pool was then completed via curl on outlet RSS feeds and article meta tags. DROPPED as STALE (date-verified, outside 336h window): Viaim RecDot AI earbuds (androidcentral 2026-07-15, just before window start), Acer AI TransBuds (tomsguide 2025-05-21), EarFun Air Pro 4+ AI translation (androidcentral 2026-02-11), Narwal Flow 2 review (techradar 2026-04-18), DJI Romo P vs Roborock obstacle (techradar 2026-04-12), Tom's Guide AI Awards 2026 (2026-05-08), TechRadar July gadgets roundup (2026-06-29), Snapdragon X2 Elite benchmark (tomsguide 2025-11-19), Zenbook A16 X2 review (tomshardware 2026-04-07), Apple wearable trifecta pendant (tomsguide 2026-02-18), UploadVR Android XR autospatialization (2025-12-08 / 2026-05-21), RoadToVR Pico Project Swan (2026-03-02) + Android XR glasses (2026-05-19) + Pico Vision Pro rival (2025-11-26), Engadget Gemini-for-Home camera automations (2026-05-27), IEEE Spectrum humanoid Video Friday items (2026-05-01 / 2026-06-12 / 2025-10-24), TechRadar Nvidia-Unitree-Sharpa (2026-06-01), 1X NEO preorder (engadget/notebookcheck 2025-10-28). DROPPED as off-topic (business/infra/policy, no design-craft hook): AMD Helios / Nvidia-SK $500B / OpenAI Codex Micro macropad funding-adjacent items, US FCC robot-vacuum ban (policy), Snapdragon price hike, SK hynix/SSD component-crisis pieces, Samsung smartphone-division loss, Amazon Claude overspend. BLOCKED (could not verify time, dropped): VentureBeat Figure self-correcting robot (HTTP 429 + empty curl meta), dpreview Caira camera (HTTP 403). Social: section defines no youtube/instagram channels, so none scoped. The 9to5google 'Gemini living room on wheels' home-robot item was dropped because its link resolved to a newsletter roundup, not a standalone article.",
   "items": [
     {
-      "title": "Google DeepMind's Gemini Robotics 2 can control a humanoid robot's entire body",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-07-30T17:18:45Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200",
-      "excerpt": "Google DeepMind announced Gemini Robotics 2, a model that adds intelligent whole-body control so a humanoid robot can coordinate its arms, torso and base together -- tying up trash bags, unscrewing lightbulbs and handling multi-step chores. A concrete step toward general-purpose embodied AI in consumer-facing home robots."
-    },
-    {
-      "title": "OpenAI's first device is a screenless, movable AI companion speaker -- with a smartphone to follow",
-      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-07-28T18:00:00-07:00",
-      "og_image": "https://images.macrumors.com/t/bzVs-8bKuClS_OQgMN-mbh9HsqQ=/2500x/article-new/2026/05/OpenAI-Smartphone-Feature.jpg",
-      "excerpt": "OpenAI's hardware roadmap has sharpened: its first product is a portable, screenless smart speaker built with former Apple design chief Jony Ive as an at-home AI companion, with a camera to understand its surroundings and a smartphone reportedly arriving as soon as next year. A design-led rethink of what an AI-native home device looks like."
-    },
-    {
-      "title": "That Friend AI wearable you don't like just got worse",
-      "url": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/",
+      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-30T21:34:11Z",
-      "og_image": "https://www.engadget.com/img/gallery/that-ai-wearable-you-dont-like-just-got-worse/l-intro-1785447171.jpg",
-      "excerpt": "The new Friend pendant adds a speaker and updated models but doubles down on the same off-putting always-listening AI-companion premise. A pointed look at how a physical AI wearable's interaction design -- not just its models -- shapes whether people actually want to live with it."
+      "published_iso": "2026-07-20T18:04:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg",
+      "excerpt": "Adobe's Project Indigo experimental camera app adds AI Playground, bringing generative editing, object edits, style transforms and photo guidance to mobile photographers, powered by Google's Nano Banana model."
     },
     {
-      "title": "DJI Osmo Pocket 4P review: the gimbal camera goes pro with dual lenses",
-      "url": "https://www.engadget.com/2226364/dji-osmo-pocket-4p-review/",
+      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/dji-osmo-pocket-4p-review/l-intro-1785434430.jpg",
-      "excerpt": "DJI's pocket gimbal camera goes 'pro' with two lenses, optical zoom, class-leading dynamic range and AI subject tracking. A creator-focused standalone AI camera that reshapes how solo shooters capture and follow subjects on the move."
+      "published_iso": "2026-07-21T15:07:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg",
+      "excerpt": "Samsung launched Health Assistant, an AI chatbot inside Samsung Health that interprets your wellness data and offers personalized, physician-validated lifestyle recommendations across its wearable ecosystem."
     },
     {
-      "title": "Sonos schedules a September product event -- and it's likely about AI",
-      "url": "https://www.engadget.com/2227306/sonos-ai-product-event-september-2026/",
-      "source": "Engadget",
+      "url": "https://www.digitaltrends.com/wearables/galaxy-watch-9-brings-a-new-chip-bigger-batteries-one-ui-9-watch-and-a-hefty-asking-price/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-07-30T18:40:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/sonos-ai-product-event-september-2026/l-intro-1785439300.jpg",
-      "excerpt": "Sonos has set a September event that's expected to center on AI, signaling the audio maker's push to fold generative and assistant AI into its speakers and home-audio hardware. An early read on how ambient home-audio devices get reframed around AI."
+      "published_iso": "2026-07-22T12:00:00Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Galaxy-Watch-9-in-silver-color-scaled.jpg?resize=1200%2C720",
+      "excerpt": "The Galaxy Watch 9 debuts Samsung's new AI health suite (FDA-cleared sleep apnea detection, Heart Health Score, Daily Cardio Load) on a Snapdragon Wear Elite chip with a dedicated NPU for on-device AI."
     },
     {
-      "title": "Exploring Apple Silicon's local AI performance with the Mac Studio and M4 Max",
-      "url": "https://www.tomshardware.com/desktops/exploring-apple-silicons-local-ai-performance-with-the-mac-studio-and-m4-max-m4-max-beats-gb10-and-strix-halo-in-decode-throughput-but-memory-bandwidth-isnt-everything",
-      "source": "Tom's Hardware",
+      "url": "https://gizmodo.com/friend-is-back-with-a-new-ai-pendant-and-its-marketing-is-more-depressing-than-ever-2000793089",
+      "source": "Gizmodo",
       "category": "gadgets",
-      "published_iso": "2026-07-30T14:52:28Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7CNCn9fXJZV5ZAHnri4ZWE-1920-80.jpg",
-      "excerpt": "A hands-on benchmark of on-device LLM performance across Apple's M4 Max, NVIDIA's GB10 and AMD Strix Halo, finding the M4 Max leads on decode throughput while memory bandwidth alone doesn't decide the winner. A concrete look at which consumer hardware actually runs local AI well for creative and dev workloads."
+      "published_iso": "2026-07-30T20:50:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/Friend2.0.jpg",
+      "excerpt": "Friend relaunches its always-listening AI companion pendant as Friend 2.0 for $249, now with a built-in speaker for voice replies and a $10/month subscription for memory beyond 30 days."
     },
     {
-      "title": "Halliday G2: camera-free smart glasses bring heads-up meeting AI",
-      "url": "https://www.androidauthority.com/halliday-g2-smart-glasses-launch-3689649/",
-      "source": "Android Authority",
+      "url": "https://9to5mac.com/2026/07/26/apples-ai-glasses-to-be-unveiled-at-wwdc27-report/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-21T13:00:34Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Halliday-G2-with-Case.jpg",
-      "excerpt": "The Halliday G2 skips the camera and instead leans on binocular micro-LED displays and a 'Meeting Flow' AI that delivers live translation, captioning, research lookups and post-meeting transcripts in a sub-50g frame. A privacy-forward take on how AI eyewear can assist without recording everyone around you."
-    },
-    {
-      "title": "Snap sets a September event to launch its consumer AR Specs",
-      "url": "https://www.androidauthority.com/snap-specs-ar-glasses-september-event-3692940/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-07-30T17:45:44Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/snap-specs-launch-glass.jpg",
-      "excerpt": "Snap has scheduled a September event to launch its standalone consumer AR Specs, its bid to bring AI-powered spatial computing to a mainstream wearable. A signal of how the AR-glasses race is heating up beyond Meta and Google as a new AI-first consumer form factor."
-    },
-    {
-      "title": "Insta360's CEO on 'robot vision': where the camera maker's AI is heading",
-      "url": "https://www.techradar.com/cameras/exclusive-heres-what-insta360s-founder-and-ceo-told-me-when-i-asked-about-his-controversial-photography-robot-vision",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-29T12:50:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZKtx7XJHQMeibHmrgmauxc-2000-80.jpg",
-      "excerpt": "Insta360's founder discusses making the company's cameras more intelligent and autonomous through 'robot vision,' while insisting human experience and creativity stay central to the shooting process. A look at how AI is reshaping the craft of computational and autonomous photography gear."
+      "published_iso": "2026-07-26T18:54:00Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "Apple's AI smart glasses are reportedly slated to be unveiled at WWDC27 for a late-2027 release, with the company weighing camera-free or recording-restricted designs to address privacy concerns."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 9,
+    "dropped": 1,
+    "kept": 5,
     "against_days": 5
   }
 }
