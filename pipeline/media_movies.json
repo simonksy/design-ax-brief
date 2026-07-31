@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "movies",
   "media": [
-    { "id": "autodesk-maya-3dgs-ai", "type": "image", "src": "pipeline/media/autodesk-maya-3dgs-ai.jpg" },
-    { "id": "beeble-switchlight-hybrid-set", "type": "image", "src": "pipeline/media/beeble-switchlight-hybrid-set.jpg" },
-    { "id": "puget-robo-dojo-siggraph", "type": "image", "src": "pipeline/media/puget-robo-dojo-siggraph.jpg" }
+    { "id": "vida-scene-search", "type": "image", "src": "pipeline/media/vida-scene-search.jpg" },
+    { "id": "hp-z-captis-adobe", "type": "image", "src": "pipeline/media/hp-z-captis-adobe.jpg" },
+    { "id": "frostfx", "type": "video", "src": "pipeline/media/frostfx.mp4", "poster": "pipeline/media/frostfx.jpg" }
   ]
 }

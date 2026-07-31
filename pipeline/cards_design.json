@@ -1,144 +1,88 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "design",
   "cards": [
     {
-      "id": "nanobanana-earth",
+      "id": "google-earth-rollback",
       "eyebrow": "AI NEWS",
-      "headline": "나노 바나나가 구글 어스에서\n과거와 미래를 그려낸다",
-      "body": "나노 바나나가 구글 어스에 들어가 지도 위에서 옛 유적과 지어질 건물을 실사처럼 그려낸다.",
-      "mini_headline": "지도 위에 그려지는 실사",
+      "headline": "구글, 지도에 붙인\n생성 AI 도구를 되돌리다",
+      "body": "구글이 지도의 신뢰를 해친다는 반발에 구글 어스의 생성형 이미지 도구를 며칠 만에 거둬들였다.",
+      "mini_headline": "구글 어스 AI 철회",
       "tool": "KeyShot",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/",
+      "url": "https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "구글이 이미지 생성 모델 나노 바나나를 구글 어스에 붙였다. 이제 지도 위에서 곧바로 실사에 가까운 장면을 만들어낼 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/nano-banana-image-generation-comes-to-google-earth/intro-1785351587.jpg"
-          },
-          {
-            "t": "p",
-            "x": "쓰임새는 크게 둘이다. 하나는 사라진 과거를 되살리는 일이다. '78년의 폼페이' 같은 명령을 넣으면 지금은 없는 유적의 모습을 실사처럼 재현한다."
-          },
-          {
-            "t": "p",
-            "x": "다른 하나는 아직 짓지 않은 것을 미리 보는 일이다. 앞으로 들어설 건설 프로젝트를 지도 위에 얹어, 완공 전 모습을 그려볼 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "생성형 이미지 AI가 공간 디자인과 건축 시각화, 장소 기반 콘셉트 렌더링 작업 안으로 구체적으로 걸어 들어온 사례다."
-          }
+          { "t": "p", "x": "구글이 구글 어스에 Nano Banana 생성형 이미지 도구를 붙인 지 며칠 만에 이를 다시 거둬들였다. 사용자들의 반발이 이어진 탓이다." },
+          { "t": "img", "src": "https://www.engadget.com/img/gallery/google-rolls-back-google-earth-image-generation/l-intro-1785524818.jpg" },
+          { "t": "p", "x": "지적의 핵심은 분명했다. AI가 지어낸 장면이 지도라는, 사실에 기대야 할 제품의 신뢰를 갉아먹는다는 것이다. 실제로 존재하지 않는 풍경을 그럴듯하게 그려내는 순간, 장소 기반 시각화 도구가 갖춰야 할 신뢰의 바탕이 흔들린다." },
+          { "t": "p", "x": "짧은 시간에 나온 이 되돌림은 하나의 신호로 읽힌다. 생성형 이미지 AI를 공간 디자인과 장소 기반 시각화 작업에 그대로 얹었을 때, 그 경계가 어디까지인지를 구체적으로 보여준 사례다." }
         ]
       }
     },
     {
-      "id": "shieldfont-poison-ai",
+      "id": "rebelle-brush",
       "eyebrow": "AI NEWS",
-      "headline": "AI 학습을 오염시키는\n무료 폰트 실드폰트",
-      "body": "타이포 디자이너들이 긁어간 글과 이미지로 AI가 학습하지 못하게 오염시키는 무료 폰트를 공개했다.",
-      "mini_headline": "AI를 오염시키는 폰트",
-      "tool": "Figma",
+      "headline": "생성 AI 대신\n붓의 감각을 택한 리벨",
+      "body": "리벨 8.3은 생성 AI를 좇는 대신 물리적으로 사실적인 붓과 수채 시뮬레이션에 더 깊이 파고든다.",
+      "mini_headline": "붓을 택한 리벨 8.3",
+      "tool": "KeyShot",
       "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
+      "url": "https://www.creativebloq.com/art/digital-art-software/rebelle-8-3-proves-the-future-of-digital-painting-isnt-ai-its-making-brushes-feel-real",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          { "t": "p", "x": "Escape Motions의 리벨 8.3은 방향을 다르게 잡았다. 생성 AI를 얹는 대신, 물리적으로 사실적인 붓과 수채 시뮬레이션을 한층 더 밀고 나간다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/mvo3TZvdBoXsZMkfVGT9TC-1497-80.jpg" },
+          { "t": "p", "x": "AI 기능을 서둘러 붙이는 디자인 도구 시장에서, 이 업데이트는 의도가 분명한 반대편에 선다. 그림을 대신 그려주는 생성이 아니라, 붓이 실제처럼 느껴지도록 하는 공예 우선의 태도다." },
+          { "t": "p", "x": "창작 소프트웨어가 생성보다 시뮬레이션을 고르는 흐름을 짚어볼 만한 사례다. 무엇을 자동화할 것인가보다, 손의 감각을 어디까지 되살릴 것인가를 묻는 선택이다." }
+        ]
+      }
+    },
+    {
+      "id": "jakobs-law-chatbox",
+      "eyebrow": "AI NEWS",
+      "headline": "화면이 채팅창 하나로\n합쳐질 때의 야코프 법칙",
+      "body": "AI가 여러 화면을 채팅창 하나로 합치는 지금, 사용자가 길을 잃지 않게 지킬 익숙함의 규칙을 다시 짚는다.",
+      "mini_headline": "채팅창 UI와 익숙함",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "타이포그래피 디자이너들이 실드폰트라는 무료 서체를 내놓았다. 긁어간 텍스트와 이미지로 AI 모델이 학습하는 과정을 일부러 망가뜨리도록 설계한 글꼴이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/hCZp4o3EEtij6rJHs3HXZF-2560-80.png"
-          },
-          {
-            "t": "p",
-            "x": "생성형 AI의 데이터 수집에 맞서 디자인·타이포 커뮤니티가 내놓은 장인 차원의 대응이다."
-          },
-          {
-            "t": "p",
-            "x": "디자이너에게는 자신의 작업이 학습 데이터로 빨려 드는 것을 막는 방어 도구가 손에 쥐어진 셈이다."
-          }
+          { "t": "p", "x": "AI가 서로 다른 앱 화면과 표면을 하나의 대화형 채팅창으로 합쳐가고 있다. 화면을 넘나들며 익히던 경험이, 이제 한 칸의 입력창으로 수렴한다." },
+          { "t": "img", "src": "https://miro.medium.com/v2/resize:fit:1200/1*SpJMK3a6F5z94Lj-6uKzRQ.png" },
+          { "t": "p", "x": "이 글은 익숙함을 다룬 야코프 법칙을 생성형 UI에 맞게 다시 짚는다. 인터페이스가 그때그때 만들어지는 상황에서도 사용자가 방향을 잃지 않으려면, 디자이너가 어떤 패턴을 남겨두어야 하는가를 묻는다." },
+          { "t": "p", "x": "핵심은 화면이 매번 달라지더라도 사용자가 자기 위치를 감지할 수 있게 하는 최소한의 익숙함이다. 생성의 자유와 방향 감각 사이에서 무엇을 붙들 것인가가 관건이 된다." }
         ]
       }
     },
     {
-      "id": "bull-bear-design-ai",
+      "id": "rethinking-friction",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 디자이너에게 줄\n자율과 드러날 빈틈",
-      "body": "앤디 버드는 AI가 디자이너에게 더 큰 자율을 주는 동시에, 감춰 온 실력 격차를 드러낸다고 본다.",
-      "mini_headline": "디자인의 낙관과 비관",
-      "tool": "Design Tokens",
-      "source": "Smashing Magazine",
-      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "앤디 버드가 AI가 제품 디자인을 어떻게 다시 짜는지 짚었다. 그는 낙관과 비관, 두 시나리오로 나눠 본다."
-          },
-          {
-            "t": "img",
-            "src": "https://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
-          },
-          {
-            "t": "p",
-            "x": "낙관 쪽은 자율이다. 디자이너가 더 큰 자율을 얻고, 무언가를 하기 위해 굳이 허락을 구할 일이 줄어든다."
-          },
-          {
-            "t": "p",
-            "x": "비관 쪽은 그 자율이 드러내는 것이다. 자율이 커질수록 그동안 가려져 있던 실력 격차가 더 감추기 어려워진다."
-          },
-          {
-            "t": "p",
-            "x": "핸드오프의 마찰이 사라지면서 디자인 직무와 일하는 방식이 어디로 옮겨가는지를 가늠하는 글이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "get-out-of-their-way",
-      "eyebrow": "AI NEWS",
-      "headline": "AI를 이미 아는 팀에게\n자리를 내주어라",
-      "body": "모두 같은 AI 도구를 쥔 지금, 승부는 그 도구를 이미 이해한 실무자를 믿고 맡기는 팀에서 갈린다.",
-      "mini_headline": "실무자에게 길을 내주라",
-      "tool": "Figma",
+      "headline": "AI 시대에 다시 묻는\n마찰의 쓸모",
+      "body": "AI가 무엇이든 즉시 해내는 지금, 사용자에게 통제권을 남기려면 마찰을 의도적으로 되돌려야 한다고 짚는다.",
+      "mini_headline": "다시 보는 마찰의 값",
+      "tool": "AI Workflow",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8",
-      "accent": "#3b6bff",
+      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e",
+      "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "이제 어느 디자인 조직이든 같은 AI 도구로 손을 뻗는다. 그렇다면 승부는 어디서 갈리는가."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1200/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "글의 주장은 분명하다. 이기는 쪽은 그 도구를 이미 이해한 실무자를 믿는 조직이라는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "AI 도입을 두고 팀은 문을 걸어 잠글 게 아니라, 오히려 그 주위로 조직을 다시 짜야 한다는 리더십 관점의 제언이다."
-          }
+          { "t": "p", "x": "AI가 거의 모든 일을 순식간에 처리하게 되면서, '마찰 없음'이 언제나 옳은 기본값인지 되묻는 글이다." },
+          { "t": "img", "src": "https://miro.medium.com/v2/da:true/resize:fit:862/0*awQhwQtyDfSv3nDp" },
+          { "t": "p", "x": "필자는 매끄러움만을 좇는 태도를 뒤집는다. AI 기반 제품에서 사용자가 스스로 흐름을 통제하도록, 의도된 마찰을 어디에 다시 넣어야 하는지를 짚는다." },
+          { "t": "p", "x": "이런 관점은 디자인 과정 자체도 바꿔놓는다. 무엇을 없앨지가 아니라, 어떤 멈춤과 확인을 남길지가 곧 사용자에게 판단의 여지를 돌려주는 설계가 된다." }
         ]
       }
     }

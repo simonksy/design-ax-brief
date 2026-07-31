@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "music",
   "cards": [
     {
-      "id": "flow-music-spaces",
+      "id": "lyria-35",
       "eyebrow": "AI NEWS",
-      "headline": "구글 플로우 뮤직이 노래 생성과 편집,\n스템 분리를 한 화면에 담는다",
-      "mini_headline": "플로우 뮤직, 올인원 스튜디오",
-      "body": "라이리아 3 프로 기반으로 노래 생성과 편집, 보컬 분리, 트랙 확장까지 한 작업 공간에서 이뤄진다.",
+      "headline": "구글 라이리아 3.5, 더 자연스럽고\n감정이 살아 있는 보컬로 올라선다",
+      "mini_headline": "라이리아 3.5, 보컬 진화",
+      "body": "음악성과 가사, 보컬 품질을 손봐 발음이 또렷해지고 멜로디 구조가 한결 자연스러워졌다.",
       "tool": "Music",
       "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/googles-flow-music-adds-song-generation-editing-and-stem-splitting-to-spaces-its-vibe-coding-tool/",
+      "url": "https://www.musicbusinessworldwide.com/watch-out-suno-google-has-upgraded-lyria/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -18,28 +18,28 @@
         "blocks": [
           {
             "t": "p",
-            "x": "구글이 플로우 뮤직 플랫폼을 넓혀, '바이브 코딩' 도구인 스페이스에 노래 생성과 편집, 스템 분리 기능을 더했다."
+            "x": "구글이 AI 음악 생성 모델을 손봐 라이리아 3.5를 플로우 뮤직 안에 내놓았다. 수노를 정면으로 겨냥한 업그레이드다."
           },
           {
             "t": "p",
-            "x": "이제 뮤지션은 한 작업 공간 안에서 노래를 만들고, 특정 벌스를 갈아 끼우고, 보컬을 분리하고, 트랙을 늘리고, 앨범 아트와 가사, 영상까지 함께 뽑아낼 수 있다."
+            "x": "딥마인드는 이번 모델이 음악성과 가사, 보컬 품질 전반에서 뚜렷하게 나아졌다고 설명한다. 보컬은 더 사실적이고 감정의 결이 살아 있으며, 발음도 한층 또렷해졌다."
           },
           {
             "t": "p",
-            "x": "이 모든 기능은 라이리아 3 프로에 제미나이와 베오, 나노 바나나를 얹어 돌아간다."
+            "x": "멜로디 구조 역시 더 풍성하고 자연스러워져, 프로듀서들이 내일부터 마주할 보컬 품질의 기준을 한 단계 끌어올린다."
           }
         ]
       }
     },
     {
-      "id": "vochlea-dubbox",
+      "id": "karst",
       "eyebrow": "AI NEWS",
-      "headline": "보클리아 덥박스, 비트박스를\n실시간 드럼 루프로 바꾼다",
-      "mini_headline": "목소리로 만드는 드럼 루프",
-      "body": "비트박스를 머신러닝으로 익혀, 벨로시티가 살아 있는 드럼 루프로 실시간 바꿔 준다.",
+      "headline": "팀 엑자일의 카스트, 시스템으로\n음악을 짜는 소프트웨어 모듈러",
+      "mini_headline": "카스트, 알고리즘 모듈러",
+      "body": "노드 에디터와 케이블 없는 패칭으로, 생성 알고리즘을 직접 손으로 짜 음악을 만든다.",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/beatbox-your-ideas-into-reality-with-vochleas-dubbox-an-app-that-converts-your-voice-into-drum-loops",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/07/30/tim-exile-previews-karst-software-modular-system/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -47,32 +47,28 @@
         "blocks": [
           {
             "t": "p",
-            "x": "보클리아가 내놓은 새 앱 덥박스는 머신러닝으로 비트박스를 실시간 샘플 기반 드럼 루프로 바꿔 준다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/U3ZMS6JnHPWtMEZuABsvTG.jpg"
+            "x": "팀 엑자일이 카스트를 미리 선보였다. 시스템과 알고리즘 작곡으로 음악을 만드는 디지털 모듈러 환경이다."
           },
           {
             "t": "p",
-            "x": "앱은 사용자의 목소리 타격을 최대 여덟 개까지 익힌 뒤, 벨로시티에 반응해 드럼 샘플을 울린다."
+            "x": "노드 에디터를 갖췄고, 케이블 없이 패칭하며 클라우드로 동기화된다. 모든 악기에 담긴 이벤트 코어가 특징이다."
           },
           {
             "t": "p",
-            "x": "'보이스 워핑' 기능은 연주한 테이크를 그리드에 맞춰 늘려 주면서도 원래 연주의 감은 그대로 남긴다."
+            "x": "이벤트 코어 덕분에 이벤트 스케줄링이나 폴리포니와 씨름하지 않고도, 생성 알고리즘을 직접 손으로 짤 수 있다."
           }
         ]
       }
     },
     {
-      "id": "roland-neutone-lydia",
+      "id": "silt",
       "eyebrow": "AI NEWS",
-      "headline": "뉴톤과 롤랜드의 프로젝트 리디아,\nAI 모델을 직접 만드는 페달",
-      "mini_headline": "훈련하는 AI 이펙트 페달",
-      "body": "실시간 연주를 위한 AI 이펙트 페달로, 뉴럴 샘플링 모델을 직접 훈련하고 뜯어고쳐 자기만의 악기로 만든다.",
+      "headline": "튜너리 실트, 테이프 루프로\n스스로 자라나는 앰비언트 악기",
+      "mini_headline": "실트, 생성형 테이프 루프",
+      "body": "길이가 다른 네 개의 짧은 루프가 테이프 위에서 천천히 어긋나며 앰비언트를 자아낸다.",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/features/interviews/roland-neutone-project-lydia/",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/07/24/tunary-intros-silt-generative-tape-loop-instrument/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -80,52 +76,19 @@
         "blocks": [
           {
             "t": "p",
-            "x": "뉴톤과 롤랜드가 프로젝트 리디아를 시제품으로 개발 중이다. 뮤지션이 자신만의 뉴럴 샘플링 AI 모델을 훈련하고 손보고 뜯어고칠 수 있는 AI 이펙트 페달이다."
+            "x": "튜너리 인스트루먼츠가 '생성형 테이프 루프 악기' 실트를 내놓았다."
           },
           {
             "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg"
+            "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/silt-728x615.jpg"
           },
           {
             "t": "p",
-            "x": "뉴톤 공동창업자 앤드루 파이프는 \"열어서 뜯어볼 수 있고... 정말 자기 것으로 개인화해 만들 수 있다\"고 말한다."
+            "x": "길이가 서로 다른 네 개의 짧은 멜로디 루프가, 에뮬레이션된 테이프 머신을 지나며 천천히 위상이 어긋난다."
           },
           {
             "t": "p",
-            "x": "블랙박스가 아니라 살아 있는 악기로서의 AI, 곧 창작자가 소유하는 손맛 있는 접근이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "stem-separation-2026",
-      "eyebrow": "AI NEWS",
-      "headline": "스템 분리 도구 아홉 종,\n트랙마다 최선은 달랐다",
-      "mini_headline": "스템 분리 도구 아홉 종 비교",
-      "body": "아홉 개 AI 스템 분리 도구를 시험한 결과, 로직 프로는 빠른 일상 작업에, MVSEP은 까다로운 보컬에 앞섰다.",
-      "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/guides/buyers-guide/best-stem-separation-tools/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "뮤직테크가 대표적인 AI 스템 분리 도구 아홉 종을 시험한 결과, 성능은 곡과 악기에 따라 크게 갈렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2025/07/Stem-Separation-guide-update-hero-credit-press@2000x1500.jpg"
-          },
-          {
-            "t": "p",
-            "x": "로직 프로는 빠르고 일상적인 분리에서 앞섰고, MVSEP은 까다로운 보컬과 가장 떼어내기 힘든 파트에서 한발 앞섰다."
-          },
-          {
-            "t": "p",
-            "x": "2026년 현재 뉴럴 음원 분리가 프로듀서에게 실제로 어디서 도움이 되는지 짚어 주는 실용 지도인 셈이다."
+            "x": "그렇게 계속 변해 가는 앰비언트 패턴이 만들어지며, 빈티지한 온기를 좇는 프로듀서를 위한 악기다."
           }
         ]
       }

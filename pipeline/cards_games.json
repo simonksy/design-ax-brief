@@ -1,68 +1,46 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "games",
   "cards": [
     {
-      "id": "2d-to-3d",
+      "id": "therelic",
       "eyebrow": "AI NEWS",
-      "headline": "평면 콘셉트 아트를 게임용\n3D 애셋으로 바꾸는 AI",
-      "body": "평면 콘셉트 아트를 게임에 바로 쓸 수 있는 3D 지오메트리로 바꾸는 새로운 AI 기법이 등장했다.",
-      "mini_headline": "2D를 3D로 바꾸는 AI",
+      "headline": "프리뷰 빌드 AI 의혹에\n디렉터가 선을 긋다",
+      "mini_headline": "AI는 콘셉트 단계뿐",
+      "body": "디렉터는 초기 콘셉트 단계의 로딩 화면과 소비 아이템 아이콘 일부에만 AI를 썼고 최종 게임엔 쓰지 않았다고 밝혔다.",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/new-method-teaches-ai-to-make-2d-designs-3d-and-now-im-afraid-this-will-be-how-the-robots-learn-to-build-themselves-without-us/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/director-of-new-soulslike-says-no-ai-used-in-the-final-game-after-big-youtubers-sounded-the-alarm-over-a-recent-preview-build-2000720260",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "새로운 AI 기법이 평면 2D 디자인을 실제로 쓸 수 있는 3D 지오메트리로 바꿔 놓는다. 콘셉트 아트를 게임에 바로 넣을 수 있는 애셋으로 옮기는 작업 흐름과 곧장 맞닿는 변화다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg",
-            "cap": "2D에서 3D로"
-          },
-          {
-            "t": "p",
-            "x": "PC Gamer는 이 방식이 무엇을 하는지, 그리고 애셋 제작 파이프라인의 어느 지점에 끼어들 수 있는지를 하나씩 짚어 나간다. 게임 아티스트가 그림 한 장을 곧바로 다룰 수 있는 형태로 세우는 길이 열리는 셈이다."
-          }
+          { "t": "p", "x": "소울라이크 '더 렐릭: 퍼스트 가디언'의 프리뷰 빌드를 두고, 크리에이터들이 AI로 만든 것으로 의심되는 요소를 짚으며 경고음을 냈다." },
+          { "t": "img", "src": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg" },
+          { "t": "p", "x": "디렉터의 답은 이랬다. AI가 손댄 건 초기 콘셉트 단계뿐이며, 로딩 화면 콘셉트 몇 점과 소비 아이템 아이콘 정도라는 것이다. 최종 게임에는 그중 무엇도 들어가지 않았다고 못박았다." },
+          { "t": "p", "x": "스튜디오가 생성형 AI를 콘셉트·디자인 파이프라인에 실제로 어디까지 끌어들이는지, 그리고 그 경계를 정하는 공개 규범이 지금 어떤 모습으로 자리 잡아 가는지 엿보게 하는 사례다." }
         ]
       }
     },
     {
-      "id": "games-ai-culture-war",
+      "id": "nexusmods",
       "eyebrow": "AI NEWS",
-      "headline": "AI는 분명 쓸모 있지만\n논쟁이 실제 기술을 가렸다",
-      "body": "게임 AI 베테랑 디켄은 진짜 기회가 인재 대체가 아니라 더 풍부한 플레이 경험에 있다고 본다.",
-      "mini_headline": "부풀려진 AI 논쟁",
+      "headline": "넥서스 모드, AI 자산\n공개를 의무화하다",
+      "mini_headline": "AI 자산 표기 의무화",
+      "body": "최대 PC 모딩 플랫폼 넥서스 모드가 AI로 만든 자산을 업로드할 때 반드시 표기하도록 정책을 조인다.",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/a-couple-of-companies-have-managed-to-ignite-a-culture-war-and-bring-the-economy-to-the-brink-of-collapse-games-ai-veteran-says-it-can-be-useful-but-weve-made-mountains-out-of-chatgpts-molehills/",
-      "accent": "#0070f3",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
+      "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "게임 AI 연구자 루크 디켄은 몇몇 회사가 문화 전쟁에 불을 붙였다고 말한다. AI가 쓸모 있는 건 맞지만, ChatGPT를 둘러싼 작은 일을 다들 산더미처럼 부풀렸다는 것이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/n5ePDh9VeKLrM8XNBwZ4YX-1920-80.jpg",
-            "cap": "게임 AI 베테랑 루크 디켄"
-          },
-          {
-            "t": "p",
-            "x": "그가 보는 진짜 기회는 사람을 밀어내는 데 있지 않다. 더 풍부하고 상황에 맞춰 반응하는 플레이 경험, 그리고 더 똑똑한 제작 도구 쪽이다."
-          },
-          {
-            "t": "p",
-            "x": "가장 시끄러운 생성형 AI 찬양도, 그에 맞선 반발도 정작 만드는 일의 본질은 지나쳐 버렸다고 그는 짚는다. 머신러닝이 게임의 설계와 밸런스를 실제로 어떻게 바꾸는지를 차분하게 들여다본 글이다."
-          }
+          { "t": "p", "x": "최대 규모의 PC 게임 모딩 플랫폼 넥서스 모드가 생성형 AI를 향한 정책의 나사를 조인다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg" },
+          { "t": "p", "x": "이제 모더는 올리는 결과물에 AI로 생성한 자산을 제대로 표기해야 한다. AI '슬롭'과 씨름하는 플랫폼으로서, 모딩 커뮤니티의 작업과 표기 방식을 실질적으로 바꾸는 조치다." },
+          { "t": "p", "x": "다만 밀려드는 슬롭의 규모에 비하면 여전히 무른 대응이라는 평가도 함께 따라붙는다." }
         ]
       }
     }

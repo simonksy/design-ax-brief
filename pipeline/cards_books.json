@@ -1,96 +1,86 @@
 {
-  "date": "2026-07-31",
   "section": "books",
+  "date": "2026-08-01",
   "cards": [
     {
-      "id": "translators-craft-vs-ai",
+      "id": "ai-publishing-easier",
       "eyebrow": "AI NEWS",
-      "headline": "세계를 건너 우리를 실어 나르는\n번역가들을 기리며",
-      "mini_headline": "번역가라는 기예",
-      "body": "생성형 AI 번역이 확산되는 흐름 속에서, 문학 번역을 숙련된 인간의 기예로 다시 세우자는 주장이 나온다.",
+      "headline": "AI가 출판을 덜어냈지만\n여전히 쉬운 일은 아니다",
+      "body": "한 창업자는 제작팀 대신 AI로 322권을 펴냈고, 기계가 읽기 좋은 구조가 편집 방식을 바꾸고 있다.",
+      "mini_headline": "AI가 바꾸는 출판 공정",
       "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/07/in-praise-of-the-translators-who-transport-us-across-the-globe/",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-28-at-12.53.51-PM-793x396.png",
-            "cap": "우리를 세계 곳곳으로 실어 나르는 번역가들"
-          },
-          {
-            "t": "p",
-            "x": "좋은 번역은 눈에 잘 띄지 않는다. 문장이 매끄럽게 읽힐수록 그 뒤에 선 번역가의 손길은 오히려 지워진다. 이 글은 그 지워진 노동을 다시 앞으로 끌어낸다. 문학 번역은 한 언어를 다른 언어로 옮기는 기계적 작업이 아니라, 문화와 문화를 잇는 기반 시설이자 오랜 시간 갈고닦은 기예라는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "이 옹호론의 배경에는 서늘한 설문 데이터가 깔려 있다. 생성형 AI가 번역 현장에 들어오면서, 번역가들이 일감과 수입을 함께 잃고 있다는 것이다. 비용을 아끼려는 업계는 AI 보조 번역 쪽으로 빠르게 기울고 있다."
-          },
-          {
-            "t": "p",
-            "x": "그 흐름에 대해, 이 글은 기예의 편에서 무게추를 반대편에 얹는다. 번역가는 단어를 바꾸는 사람이 아니라 낯선 세계를 독자 앞으로 실어 나르는 사람이며, 그 자리는 쉽게 자동화로 대체될 수 없다는 이야기다."
-          }
+          { "t": "p", "x": "7월 22일 미디어 트랜스포메이션 서밋에서 나온 진단은 분명했다. AI는 출판 제작 공정을 눈에 띄게 덜어내고 있지만, 그렇다고 출판이 쉬워진 것은 아니다." },
+          { "t": "p", "x": "한 창업자는 전통적인 제작팀을 두는 대신 AI를 그 자리에 앉혀 322권을 펴냈다. 사람이 붙어야 했던 공정 상당 부분을 기계가 대신한 셈이다." },
+          { "t": "p", "x": "더 큰 변화는 보이지 않는 쪽에서 일어나고 있다. 이제 AI 시스템이 기계가 읽기 좋은 구조의 콘텐츠를 먼저 골라내면서, 출판사는 줄거리 요약과 저자 소개, 이미지를 어떻게 내놓을지 다시 들여다보게 됐다." },
+          { "t": "p", "x": "생성형 AI가 실제 편집과 제작의 손끝을 어떻게 바꾸는지, 구체적으로 확인할 수 있는 자리였다." }
         ]
       }
     },
     {
-      "id": "editor-publisher-ai-survey",
+      "id": "substack-ai-detection",
       "eyebrow": "AI NEWS",
-      "headline": "편집자와 발행인의 실제 AI 사용을\n연구진이 들여다본다",
-      "mini_headline": "편집자의 AI 사용",
-      "body": "멜버른대와 RMIT 연구진이 독립 출판 현장의 편집자와 발행인이 생성형 AI를 실제로 어떻게 쓰는지 조사한다.",
+      "headline": "서브스택, AI 탐지 기능 도입\n다만 끄는 것도 가능하다",
+      "body": "독자는 팬그램으로 글의 AI 작성 비율을 확인하고, 창작자는 그 배지를 직접 꺼둘 수 있다.",
+      "mini_headline": "서브스택 AI 배지",
       "tool": "Books",
-      "source": "Books+Publishing",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/substack-adds-ai-detection-tools-but-creators-can-disable-them/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "AI가 출판에 미치는 영향을 두고 소송과 논쟁은 요란하지만, 정작 현장에서 편집자와 발행인이 이 도구를 어떻게 쓰는지는 잘 알려져 있지 않다. 멜버른대와 RMIT 연구진이 겨냥한 지점이 바로 그 빈칸이다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 독립 출판 실무자를 상대로, 생성형 AI 도구를 실제 어디에 쓰는지 설문을 돌린다. 원고 검토와 교정 같은 편집 단계부터 제작 공정에 이르기까지, AI가 진짜로 스며든 자리를 과장 없이 짚어 보려는 시도다."
-          },
-          {
-            "t": "p",
-            "x": "화제와 공포가 앞서기 쉬운 주제를, 현장 데이터로 되돌려 놓으려는 작업인 셈이다. 결과는 독립 출판사들이 도구 사용에 관한 각자의 기준을 세우는 데 밑그림이 될 수 있다."
-          }
+          { "t": "p", "x": "서브스택이 AI 탐지 기능을 새로 붙였다. 이제 독자는 팬그램(Pangram)을 돌려 특정 글이 AI로 쓰였을 가능성이 얼마나 되는지 직접 확인할 수 있다." },
+          { "t": "p", "x": "다만 창작자에게는 여지가 남아 있다. 글에 붙는 탐지 배지를 원치 않으면 꺼둘 수 있게 해둔 것이다." },
+          { "t": "p", "x": "AI 표기와 출처 문제를 매일 마주하는 작가와 출판사에게, 이 기능은 창작의 방식 자체에 직접 닿는 신호다. 무엇을 밝히고 무엇을 감출지, 그 선택이 다시 각자의 몫으로 돌아왔다." }
         ]
       }
     },
     {
-      "id": "poetry-foundation-scrape",
+      "id": "genius-novel-pulled",
       "eyebrow": "AI NEWS",
-      "headline": "시 재단 서고를 긁어\nAI 교육 콘텐츠를 찍어내다",
-      "mini_headline": "시 서고 AI 스크래핑",
-      "body": "CZ 자오가 세운 기글 아카데미가 시 재단의 저작권 시를 긁어 AI 교육 콘텐츠를 자동으로 찍어냈다.",
+      "headline": "억대 계약 맺은 화제작이\nAI 의혹으로 회수되다",
+      "body": "미국과 영국에서 6~7자릿수 계약을 따낸 범죄 소설이 AI 사용 의혹 끝에 판매에서 내려졌다.",
+      "mini_headline": "AI 의혹에 계약 파기",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100955-poetry-foundation-library-scraped-used-to-make-ai-generated-educational-content.html",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "바이낸스 창업자 CZ 자오가 세운 '무료 학습' 플랫폼 기글 아카데미가, 시 재단(Poetry Foundation) 서고에서 저작권이 걸린 시 수백 편을 긁어 갔다."
-          },
-          {
-            "t": "p",
-            "x": "긁어 온 시는 사람의 손을 거의 거치지 않은 채 곧바로 재료가 됐다. 삽화가 붙은 수업과 그림책을 자동으로 만들어 내는 데 쓰인 것이다. 편집자도, 큐레이터도 사이에 없었다."
-          },
-          {
-            "t": "p",
-            "x": "이 사건은 저작권 침해라는 한 겹을 넘어선다. AI가 창작·교육 콘텐츠를 대량으로 찍어내는 실제 풍경이자, 사람 없이 굴러가는 책 만들기가 시인과 출판사에 무엇을 남기는지 보여 주는 장면이기 때문이다."
-          }
+          { "t": "img", "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/672/asd3.jpg" },
+          { "t": "p", "x": "경매에서 미국과 영국 양쪽으로 6자릿수와 7자릿수 계약을 따낸 범죄 소설이 판매에서 내려졌다. 창작 과정에 AI가 쓰였다는 의혹이 불거진 뒤의 일이다." },
+          { "t": "p", "x": "에이전트는 문제의 책을 유통에서 아예 빼기로 했다. 큰 기대를 모으던 작품이 출간 문턱에서 멈춰 선 것이다." },
+          { "t": "p", "x": "AI의 출처와 표기 문제가 실제 계약과 편집 공정을 어떻게 뒤흔드는지 보여주는, 무게가 다른 사례다." }
+        ]
+      }
+    },
+    {
+      "id": "ai-dilutes-book-market",
+      "eyebrow": "AI NEWS",
+      "headline": "생성형 AI가 책 시장을\n묽게 만든다는 증명 시도",
+      "body": "작가들이 오래 우려해온 시장 잠식을 새 연구가 처음으로 실측 수치로 입증하려 나섰다.",
+      "mini_headline": "AI가 묽히는 책 시장",
+      "tool": "Books",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/researchers-attempt-to-prove-that-generative-ai-dilutes-the-market-for-books/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "p", "x": "작가들이 오래도록 입에 올려온 두려움이 있다. 생성형 AI가 쏟아낸 책들이 사람이 쓴 책의 몫과 관심을 실제로 갉아먹는다는 것이다." },
+          { "t": "p", "x": "새 연구는 이 막연한 불안을 수치로 옮겨보려 한다. AI로 쓰인 책의 범람이 시장과 주목을 얼마나 줄이는지, 감이 아니라 데이터로 재보겠다는 시도다." },
+          { "t": "p", "x": "그동안 이 분야가 돌려온 AI 탐지 연구의 창작 산업판 짝이라 할 만하다. AI가 뱉어낸 결과물이 결국 무엇이 읽히고 팔리는지를 어떻게 바꿔놓는지, 그 판을 다시 그린다." }
         ]
       }
     }

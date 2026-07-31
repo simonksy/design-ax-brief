@@ -1,27 +1,26 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "design",
   "media": [
     {
-      "id": "nanobanana-earth",
+      "id": "google-earth-rollback",
       "type": "image",
-      "src": "pipeline/media/nanobanana-earth.jpg"
+      "src": "pipeline/media/google-earth-rollback.jpg"
     },
     {
-      "id": "shieldfont-poison-ai",
-      "type": "video",
-      "src": "pipeline/media/shieldfont-poison-ai.mp4",
-      "poster": "pipeline/media/shieldfont-poison-ai.jpg"
+      "id": "rebelle-brush",
+      "type": "image",
+      "src": "pipeline/media/rebelle-brush.jpg"
     },
     {
-      "id": "bull-bear-design-ai",
+      "id": "jakobs-law-chatbox",
       "type": "image",
-      "src": "pipeline/media/bull-bear-design-ai.jpg"
+      "src": "pipeline/media/jakobs-law-chatbox.png"
     },
     {
-      "id": "get-out-of-their-way",
+      "id": "rethinking-friction",
       "type": "image",
-      "src": "pipeline/media/get-out-of-their-way.jpg"
+      "src": "pipeline/media/rethinking-friction.png"
     }
   ]
 }

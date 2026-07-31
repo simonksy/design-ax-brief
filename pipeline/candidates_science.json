@@ -1,55 +1,73 @@
 {
-  "date": "2026-07-30",
-  "window_hours": 336,
-  "items": [
-    {
-      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
-      "excerpt": "Cleveland Clinic and IBM researchers built Q-CHIPP, a quantum machine-learning framework that predicts which tumor neoantigens will trigger an immune response, outperforming classical methods under data-limited conditions by learning biological patterns from as few as 150 samples on 46 qubits."
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-07-28T12:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png",
-      "excerpt": "A new theoretical framework proposes two scalable quantum-circuit architectures and a parallel training method that mathematically avoids 'barren plateaus,' aiming to make large quantum neural networks trainable while keeping them hard to simulate classically."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-subseasonal-ai.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chasing-subseasonal-fo.jpg",
-      "excerpt": "NSF NCAR researchers use CAMulator, a machine-learning emulator that replicates a complex atmospheric model roughly 350 times faster, to push subseasonal weather forecasting (2-8 weeks out) by generating long simulations at a fraction of the compute cost."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-ai-tools-protein-chemically-impossible.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dynamics.jpg",
-      "excerpt": "Rensselaer Polytechnic Institute researchers found that leading AI protein-structure prediction tools frequently generate physically and chemically impossible results, exposing blind spots and arguing that physics-based molecular-dynamics verification and human oversight remain essential."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-ai-drug-discovery-qa.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/drug-discovery-1.jpg",
-      "excerpt": "A University of Washington Q&A explains how AI now designs and optimizes drug candidates for delivery, stability and pharmacokinetics, tackling the bottleneck in which roughly 90% of candidates never reach the market, tied to a new institute for AI-enabled molecular design."
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "MIT Technology Review",
-      "category": "science",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
-      "excerpt": "AI is identifying therapeutic targets faster than ever, but the speed is exposing physical lab bottlenecks and a need for better-quality experimental data to close the loop between AI predictions and validated drug candidates."
-    }
-  ],
-  "count": 6
+    "date": "2026-08-01",
+    "section": "science",
+    "now_iso": "2026-07-31T22:00:41Z",
+    "window_hours": 336,
+    "count": 7,
+    "note": "WIDE funnel for the single 'science' category, restricted to its allowed_domains. Science window = 14 days / 336h (start ~2026-07-17T22:00Z); every item date-verified via og article:published_time / JSON-LD / byline and gated FRESH via `python3 pipeline/freshness.py <iso> 2026-07-31T22:00:41Z science`. Per the rotation plan I emphasized fresher axes (astronomy/ML cosmology, quantum ML+chemistry, materials, climate/geoscience ML, research-automation) and de-emphasized the just-saturated protein/enzyme, genomics, QEC, BCI and battery beats. Outlet diversity is moderate: phys.org (3, at the =3 collection cap), techxplore.com (2), thequantuminsider.com (1), technologyreview.com (1) = 4 distinct outlets; ax-curator later tightens to <=2/outlet. WHY not wider: newscientist.com is blocked to our agent; physics.aps.org 'Quantum Neural Networks Face the Hardware Test' (v19/100, ~Jul 22) returned HTTP 403 (unverifiable -> dropped); space.com 'AI finds 27,000 asteroids' and universetoday 'ML classified half a million galaxies' had no extractable published date (dropped, never guessed). DROPPED as STALE after date-check: eurekalert 1134424 TUD 'LLMs reveal how people make decisions' (Jun 30), genengnews Illumina Billion Cell Atlas (Jan 13), sciencedaily 'AI wrote a paper that passed peer review' (SciAm, Mar 27), MIT News 'Helping AI models meet the real world' (Jul 14, 17d), sciencedaily cancer-paper-mill integrity tool (Jul 16) and superconductor ML (Jul 7). DROPPED per relevance rule: pure AI-industry/business items (pharma AI platform deals, NVIDIA GTC, funding pieces). No social channels defined for science -> none collected.",
+    "items": [
+        {
+            "title": "Seven possible quasar lenses emerge from AI scan of 800,000 DESI objects",
+            "url": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
+            "source": "Phys.org (Ohio State University)",
+            "category": "science",
+            "published_iso": "2026-07-27T00:00:00Z",
+            "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-s-3.jpg",
+            "excerpt": "Researchers trained an AI model on simulated quasar-galaxy spectra and applied it to ~800,000 DESI quasars, surfacing seven strong gravitational-lens candidates and roughly doubling the known sample. A concrete case of ML mining sky-survey data to find rare objects for studying early black holes and galaxy evolution."
+        },
+        {
+            "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
+            "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
+            "source": "Phys.org (Nagoya University)",
+            "category": "science",
+            "published_iso": "2026-07-22T00:00:00Z",
+            "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg",
+            "excerpt": "Nagoya University researchers paired quantum-chemistry simulation with machine learning to design boron-free molecules that emit vivid, high-color-purity blue light for next-gen OLED displays. Shows ML compressing the search for new functional materials with a real display-tech payoff."
+        },
+        {
+            "title": "Soil carbon effectively measured by new, efficient AI model",
+            "url": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
+            "source": "Phys.org (Cornell University)",
+            "category": "science",
+            "published_iso": "2026-07-27T00:00:00Z",
+            "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/soil-carbon-effectivel-3.jpg",
+            "excerpt": "Cornell researchers built BINN, a biogeochemistry-informed neural network that measures soil organic carbon about 50x faster than prior methods while keeping accuracy. One of the first AI tools advancing discovery in agriculture and biogeochemistry, with implications for climate modeling."
+        },
+        {
+            "title": "AI-powered system offers unprecedented insight into the forces shaping Earth's climate",
+            "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
+            "source": "Tech Xplore (Tel Aviv University)",
+            "category": "science",
+            "published_iso": "2026-07-20T00:00:00Z",
+            "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg",
+            "excerpt": "Tel Aviv University's GOFLOW is an AI system that reconstructs hidden ocean-surface currents directly from satellite imagery, extracting dynamics previously inaccessible. A new ML method that turns existing observations into better climate prediction inputs."
+        },
+        {
+            "title": "AI extracts hidden material rules from microscopic data to predict large-scale behavior",
+            "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
+            "source": "Tech Xplore (National University of Singapore)",
+            "category": "science",
+            "published_iso": "2026-07-23T00:00:00Z",
+            "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
+            "excerpt": "NUS researchers created ML methods that learn large-scale material behavior from microscopic data by discovering hidden variables that capture collective dynamics, cutting computational cost. A methods advance for predicting how materials evolve, relevant to energy and manufacturing."
+        },
+        {
+            "title": "Cleveland Clinic and IBM researchers create quantum machine learning framework to predict neoantigen immune response",
+            "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
+            "source": "The Quantum Insider",
+            "category": "science",
+            "published_iso": "2026-07-30T00:00:00Z",
+            "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
+            "excerpt": "Cleveland Clinic and IBM built Q-CHIPP, a quantum machine-learning framework that outperformed classical methods at predicting cancer neoantigens likely to trigger an immune response, learning from datasets as small as 150 samples on 46-qubit hardware. A concrete quantum-ML method for a data-scarce scientific problem."
+        },
+        {
+            "title": "How AI helps scientists design the next generation of medicines",
+            "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+            "source": "MIT Technology Review",
+            "category": "science",
+            "published_iso": "2026-07-23T00:00:00Z",
+            "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg",
+            "excerpt": "A look at how machine-learning models now enhance every stage of pharmaceutical R&D -- design, make, test, analyze -- compressing timelines and cracking previously intractable discovery problems. Maps how AI is reshaping the day-to-day method and craft of drug research."
+        }
+    ]
 }

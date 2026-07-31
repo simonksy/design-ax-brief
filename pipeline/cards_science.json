@@ -1,135 +1,102 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "science",
   "cards": [
     {
-      "id": "quantum-ml-neoantigen",
+      "id": "blue-oled",
       "eyebrow": "AI NEWS",
-      "headline": "양자 머신러닝으로 종양 신항원의\n면역 반응을 예측하다",
-      "mini_headline": "양자 ML로 신항원 예측",
-      "body": "적은 표본으로도 어떤 신항원이 면역 반응을 일으킬지 예측해 고전 기법을 앞선다.",
+      "headline": "양자화학과 AI로 찾은\n고순도 파란빛 OLED 소재",
+      "body": "나고야대 연구진이 양자화학 시뮬레이션과 기계학습을 결합해 붕소 없이 선명한 청색광을 내는 분자를 설계했다.",
+      "mini_headline": "AI가 찾은 청색 OLED",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
+      "source": "Phys.org (Nagoya University)",
+      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "선명한 파란빛은 오랫동안 OLED 디스플레이의 숙제였다. 붉은빛이나 초록빛에 비해 청색은 효율과 색순도를 함께 잡기가 까다로웠기 때문이다. 나고야대 연구진은 이 문제를 양자화학 시뮬레이션과 기계학습을 나란히 쓰는 방식으로 풀었다."
+          },
+          {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg"
           },
           {
             "t": "p",
-            "x": "클리블랜드 클리닉과 IBM 연구진이 종양 신항원 가운데 어떤 것이 면역 반응을 일으킬지 예측하는 양자 머신러닝 틀 Q-CHIPP를 내놓았다."
+            "x": "핵심은 붕소를 쓰지 않고도 높은 색순도의 청색을 내는 분자를 새로 설계한 데 있다. 양자화학 계산으로 분자의 발광 성질을 예측하고, 기계학습이 방대한 후보 물질 가운데 유망한 구조를 빠르게 좁혀 나갔다."
           },
           {
             "t": "p",
-            "x": "이 모델은 46큐비트 위에서 150개 남짓한 표본만으로 생물학적 패턴을 학습한다. 데이터가 희박한 조건에서 기존 고전 기법을 앞섰다는 점이 핵심이다."
-          },
-          {
-            "t": "p",
-            "x": "신항원은 면역치료의 표적을 고르는 열쇠다. 표본을 많이 모으기 어려운 임상 현실에서, 적은 데이터로도 성능을 내는 접근은 쓸모가 크다."
+            "x": "이렇게 하면 하나하나 실험으로 확인하던 탐색 과정이 크게 짧아진다. 연구진은 이 방법이 차세대 디스플레이 소재는 물론, 새로운 기능성 물질을 찾는 여러 분야로도 이어질 수 있다고 봤다."
           }
         ]
       }
     },
     {
-      "id": "quantum-neural-net-barren",
+      "id": "goflow",
       "eyebrow": "AI NEWS",
-      "headline": "'불모의 고원'을 피해 커지는 양자 신경망",
-      "mini_headline": "불모의 고원 넘는 양자 신경망",
-      "body": "새 이론 틀은 확장 가능한 두 회로 구조와 병렬 학습법으로 배런 플래토를 수학적으로 피한다.",
+      "headline": "위성 영상에서 숨은\n바다 표층 해류를 읽는 AI",
+      "body": "텔아비브대의 GOFLOW는 위성 영상만으로 그동안 볼 수 없던 바다 표층 해류를 복원해 기후 예측의 입력값을 넓힌다.",
+      "mini_headline": "해류 읽는 GOFLOW",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
+      "source": "Tech Xplore (Tel Aviv University)",
+      "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "바다 표면의 흐름은 지구 기후를 움직이는 큰 힘이지만, 그동안 관측만으로는 온전히 들여다보기 어려웠다. 텔아비브대 연구진이 내놓은 GOFLOW는 이 숨은 흐름을 위성 영상에서 직접 복원하는 AI 시스템이다."
+          },
+          {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg"
           },
           {
             "t": "p",
-            "x": "새로운 이론 틀이 확장 가능한 양자 회로 구조 두 가지와 병렬 학습 방법을 제안했다."
+            "x": "GOFLOW는 이미 쌓여 있는 위성 이미지를 학습해, 그 안에 담긴 바다 표층 해류의 움직임을 끌어낸다. 지금껏 접근하기 힘들었던 역학 정보를 새로운 관측 없이 기존 자료에서 뽑아낸다는 점이 특징이다."
           },
           {
             "t": "p",
-            "x": "핵심은 '배런 플래토'를 수학적으로 피하는 데 있다. 배런 플래토는 회로가 커질수록 학습 신호가 사라져 큰 양자 신경망을 사실상 훈련할 수 없게 만드는 장벽이다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 이 구조가 훈련은 가능하게 하면서도 고전 컴퓨터로는 흉내 내기 어렵게 남겨 두는 것을 목표로 삼았다."
+            "x": "연구진은 이렇게 되살린 흐름 정보가 기후 예측의 입력값을 한층 정교하게 만든다고 설명했다. 관측을 더 늘리지 않고도, 이미 가진 데이터로 지구 기후를 더 깊이 이해할 길을 연 셈이다."
           }
         ]
       }
     },
     {
-      "id": "alphafold-impossible-structures",
+      "id": "material-rules",
       "eyebrow": "AI NEWS",
-      "headline": "AI 단백질 예측이 물리·화학적으로\n불가능한 구조를 내놓는다",
-      "mini_headline": "AI가 만든 불가능한 단백질",
-      "body": "주요 예측 도구가 물리·화학적으로 불가능한 구조를 자주 내놓아 분자동역학 검증과 사람 검토가 여전히 필요하다.",
+      "headline": "미시 데이터에서 찾아낸\n물질의 숨은 거동 법칙",
+      "body": "싱가포르국립대 연구진이 미시 데이터 속 숨은 변수를 찾아내 물질의 대규모 거동을 예측하고 계산 비용을 줄였다.",
+      "mini_headline": "숨은 변수 찾는 AI",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-07-ai-tools-protein-chemically-impossible.html",
+      "source": "Tech Xplore (National University of Singapore)",
+      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dynamics.jpg"
-          },
-          {
             "t": "p",
-            "x": "렌셀러 폴리테크닉 연구진은 대표적인 AI 단백질 구조 예측 도구들이 물리·화학적으로 불가능한 결과를 자주 만들어 낸다는 사실을 확인했다."
+            "x": "작은 단위의 움직임에서 물질 전체의 거동을 예측하는 일은 늘 막대한 계산을 요구했다. 싱가포르국립대 연구진은 이 간극을 메우는 기계학습 방법을 새로 만들었다."
           },
-          {
-            "t": "p",
-            "x": "겉보기에 그럴듯한 구조라도 실제 분자로는 성립하지 않는 경우가 있다는 것이다. 이런 맹점은 예측만 믿고 넘어갈 때 드러나지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 물리 기반의 분자동역학 검증과 사람의 검토가 여전히 필수라고 강조했다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "ai-drug-discovery-data-loop",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 신약 발견의 병목은 이제 실험실 데이터다",
-      "mini_headline": "AI 신약의 새 병목, 데이터",
-      "body": "AI가 치료 표적을 빠르게 찾아낼수록 실험실의 물리적 한계와 양질의 실험 데이터 부족이 드러난다.",
-      "tool": "Science",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg"
           },
           {
             "t": "p",
-            "x": "AI는 그 어느 때보다 빠르게 치료 표적을 찾아내고 있다. 그런데 그 속도가 오히려 다음 병목을 드러냈다."
+            "x": "핵심은 미시 데이터 안에 숨어 있는 변수를 찾아내는 데 있다. 이 숨은 변수는 물질이 집단적으로 어떻게 움직이는지를 압축해 담아낸다. 덕분에 대규모 거동을 예측하면서도 계산 비용을 크게 덜 수 있었다."
           },
           {
             "t": "p",
-            "x": "예측을 검증하려면 실제 실험이 뒤따라야 하는데, 실험실의 물리적 처리량이 이를 따라가지 못한다."
-          },
-          {
-            "t": "p",
-            "x": "AI 예측과 검증된 신약 후보 사이의 고리를 닫으려면 더 질 좋은 실험 데이터가 필요하다는 것이 이 글의 핵심이다."
+            "x": "연구진은 이 방법이 물질이 시간에 따라 어떻게 변하는지 내다보는 데 쓰일 수 있다고 봤다. 에너지와 제조처럼 물질의 변화를 다뤄야 하는 분야에 폭넓게 닿을 수 있는 성과다."
           }
         ]
       }

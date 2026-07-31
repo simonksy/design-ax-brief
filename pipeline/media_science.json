@@ -1,10 +1,9 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-08-01",
   "section": "science",
   "media": [
-    { "id": "quantum-ml-neoantigen", "type": "image", "src": "pipeline/media/quantum-ml-neoantigen.png" },
-    { "id": "quantum-neural-net-barren", "type": "image", "src": "pipeline/media/quantum-neural-net-barren.png" },
-    { "id": "alphafold-impossible-structures", "type": "image", "src": "pipeline/media/alphafold-impossible-structures.jpg" },
-    { "id": "ai-drug-discovery-data-loop", "type": "image", "src": "pipeline/media/ai-drug-discovery-data-loop.jpg" }
+    { "id": "blue-oled", "type": "image", "src": "pipeline/media/blue-oled.jpg" },
+    { "id": "goflow", "type": "image", "src": "pipeline/media/goflow.jpg" },
+    { "id": "material-rules", "type": "image", "src": "pipeline/media/material-rules.jpg" }
   ]
 }
