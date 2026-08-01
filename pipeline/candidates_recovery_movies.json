@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-02",
+  "section": "movies",
+  "now_iso": "2026-08-01T22:00:36Z",
+  "window_hours": 336,
+  "count": 2,
+  "note": "RECOVERY pass for movies (14-day/336h window, start 2026-07-18T22:00:36Z). WebSearch budget was exhausted session-wide (200/200), so this pass worked entirely via WebFetch of allowed-domain listing/tag pages + curl meta-tag date extraction, then gated each through pipeline/freshness.py 'movies'. Only NEWLY-found, non-duplicate FRESH items are written here (the still-in-window Wonder Dynamics item stays in candidates_movies.json). 2 new: RedShark Frame.io AI-powered search + Comparison Viewer (Aug 1, distinct outlet), Luma Labs 'Introducing Layers' precision AI element-level editing (Jul 29, distinct outlet). Together with the kept Wonder Dynamics item this clears floor 3. CONFIRMED STALE and dropped (date-verified via curl JSON-LD/meta): fxguide Foundry SmartRoto AI roto (2026-07-16, ~2 days before window start), postPerspective's own SmartRoto writeup (2026-07-16), fxguide Beeble SwitchHDR (2026-07-09), fxguide ComfyUI podcast (2026-05-06), ProVideo 'Adobe Premiere generative media tool' (2026-07-10), VFX Voice Ted S2 (2026-07-14), beforesandafters Reallusion iClone/AI Studio (2026-06-26). DROPPED for weak film/design hook: Luma 'Pages' project-org tool (Jul 28, FRESH but org tooling not a craft shift), Luma 'Runs Production Inference on AMD/Tensorwave' (infra/compute business noise). BLOCKED/paywalled: indiewire (tollbit redirect), theverge (fetch blocked), animationmagazine.net + 80.lv tag pages (403), studiodaily (redirects off-domain to chiefmarketer), awn.com (403), cartoonbrew tech (all items months stale). Runway changelog latest was Jul 2 (stale). Social YouTube not re-attempted this recovery pass (JS-rendered watch pages returned empty last run).",
+  "items": [
+    {
+      "title": "Frame.io adds full-screen search and Comparison Viewer updates",
+      "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-08-01T06:42:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg",
+      "excerpt": "Adobe's Frame.io rolls out a dedicated full-screen search page with a toggle between standard and AI-powered search, plus Comparison Viewer updates, letting editors and post teams find and review footage across projects faster. A concrete workflow shift for how film/TV review-and-approval teams navigate media."
+    },
+    {
+      "title": "Introducing Layers",
+      "url": "https://lumalabs.ai/news/introducing-layers",
+      "source": "Luma AI",
+      "category": "movies",
+      "published_iso": "2026-07-29T17:28:48Z",
+      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+      "excerpt": "Luma AI launched Layers, giving creators precision editing and element-by-element control over any AI-generated image inside its filmmaking toolset, rather than re-rolling a whole prompt. A craft-level capability that pushes generative work toward the directed, revisable control filmmakers and previs artists expect."
+    }
+  ]
+}

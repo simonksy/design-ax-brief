@@ -1,25 +1,20 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "books",
   "media": [
     {
-      "id": "ai-publishing-easier",
+      "id": "ai-scholarship-ownership",
       "type": "image",
-      "src": "pipeline/media/ai-publishing-easier.jpg"
+      "src": "pipeline/media/ai-scholarship-ownership.jpg"
     },
     {
-      "id": "substack-ai-detection",
-      "type": "image",
-      "src": "pipeline/media/substack-ai-detection.png"
-    },
-    {
-      "id": "genius-novel-pulled",
-      "type": "image",
-      "src": "pipeline/media/genius-novel-pulled.jpg"
-    },
-    {
-      "id": "ai-dilutes-book-market",
+      "id": "nyt-ai-nonfiction",
       "type": "svg"
+    },
+    {
+      "id": "pope-ai-encyclical",
+      "type": "image",
+      "src": "pipeline/media/pope-ai-encyclical.png"
     }
   ]
 }

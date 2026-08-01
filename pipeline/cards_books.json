@@ -1,86 +1,66 @@
 {
   "section": "books",
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "cards": [
     {
-      "id": "ai-publishing-easier",
+      "id": "ai-scholarship-ownership",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 출판을 덜어냈지만\n여전히 쉬운 일은 아니다",
-      "body": "한 창업자는 제작팀 대신 AI로 322권을 펴냈고, 기계가 읽기 좋은 구조가 편집 방식을 바꾸고 있다.",
-      "mini_headline": "AI가 바꾸는 출판 공정",
+      "headline": "빅테크가 AI 참여 계층을\n장악하기 전에 표준을 세워라",
+      "body": "학술 출판사들이 빅테크에 AI 참여 계층을 빼앗기기 전에 표준 인프라를 함께 세워야 한다는 제언이다.",
+      "mini_headline": "AI 참여 표준 선점",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "7월 22일 미디어 트랜스포메이션 서밋에서 나온 진단은 분명했다. AI는 출판 제작 공정을 눈에 띄게 덜어내고 있지만, 그렇다고 출판이 쉬워진 것은 아니다." },
-          { "t": "p", "x": "한 창업자는 전통적인 제작팀을 두는 대신 AI를 그 자리에 앉혀 322권을 펴냈다. 사람이 붙어야 했던 공정 상당 부분을 기계가 대신한 셈이다." },
-          { "t": "p", "x": "더 큰 변화는 보이지 않는 쪽에서 일어나고 있다. 이제 AI 시스템이 기계가 읽기 좋은 구조의 콘텐츠를 먼저 골라내면서, 출판사는 줄거리 요약과 저자 소개, 이미지를 어떻게 내놓을지 다시 들여다보게 됐다." },
-          { "t": "p", "x": "생성형 AI가 실제 편집과 제작의 손끝을 어떻게 바꾸는지, 구체적으로 확인할 수 있는 자리였다." }
+          { "t": "img", "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg" },
+          { "t": "p", "x": "학술 연구에 AI가 어떻게 끼어들지, 그 규칙을 누가 쥐게 될까. 저자들은 이 물음을 미루지 말고 지금 던져야 한다고 말한다." },
+          { "t": "p", "x": "디지털 집적과 검색·발견의 계층을 결국 기술 기업이 손에 넣었던 전례가 있다. 같은 일이 AI 계층에서 되풀이되기 전에, 학술 출판사들이 먼저 인프라 표준을 함께 세워야 한다는 것이다." },
+          { "t": "p", "x": "AI 시대가 학술·전문 출판의 작업 흐름을 누가 통제하느냐 하는 문제를 다시 짜고 있다. 그 판을 구체적으로 들여다본 진단이다." }
         ]
       }
     },
     {
-      "id": "substack-ai-detection",
+      "id": "nyt-ai-nonfiction",
       "eyebrow": "AI NEWS",
-      "headline": "서브스택, AI 탐지 기능 도입\n다만 끄는 것도 가능하다",
-      "body": "독자는 팬그램으로 글의 AI 작성 비율을 확인하고, 창작자는 그 배지를 직접 꺼둘 수 있다.",
-      "mini_headline": "서브스택 AI 배지",
+      "headline": "AI 논픽션은 어디서 오는가\n450권 펴낸 은퇴자를 좇다",
+      "body": "한 은퇴자가 AI로 450권 넘게 자가출판해 소소한 인쇄 수익까지 올린 과정을 NYT가 추적했다.",
+      "mini_headline": "AI 논픽션의 진원",
       "tool": "Books",
       "source": "Jane Friedman",
-      "url": "https://janefriedman.com/substack-adds-ai-detection-tools-but-creators-can-disable-them/",
+      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "서브스택이 AI 탐지 기능을 새로 붙였다. 이제 독자는 팬그램(Pangram)을 돌려 특정 글이 AI로 쓰였을 가능성이 얼마나 되는지 직접 확인할 수 있다." },
-          { "t": "p", "x": "다만 창작자에게는 여지가 남아 있다. 글에 붙는 탐지 배지를 원치 않으면 꺼둘 수 있게 해둔 것이다." },
-          { "t": "p", "x": "AI 표기와 출처 문제를 매일 마주하는 작가와 출판사에게, 이 기능은 창작의 방식 자체에 직접 닿는 신호다. 무엇을 밝히고 무엇을 감출지, 그 선택이 다시 각자의 몫으로 돌아왔다." }
+          { "t": "p", "x": "뉴욕타임스가 AI로 만든 논픽션이 대체 어디서 비롯되는지, 그 작동 방식을 파고들었다." },
+          { "t": "p", "x": "취재의 중심에는 한 은퇴자가 있다. 그는 AI로 쓴 책을 450권 넘게 자가출판했고, 인쇄 판매로 적으나마 꾸준히 수익을 올리고 있다." },
+          { "t": "p", "x": "값싸고 자동화된 책 제작이 시장에 무엇을 쏟아내는지, 그 틈에서 사람 저자는 어떻게 경쟁해야 하는지를 선명하게 보여주는 사례다." }
         ]
       }
     },
     {
-      "id": "genius-novel-pulled",
+      "id": "pope-ai-encyclical",
       "eyebrow": "AI NEWS",
-      "headline": "억대 계약 맺은 화제작이\nAI 의혹으로 회수되다",
-      "body": "미국과 영국에서 6~7자릿수 계약을 따낸 범죄 소설이 AI 사용 의혹 끝에 판매에서 내려졌다.",
-      "mini_headline": "AI 의혹에 계약 파기",
+      "headline": "AI를 도덕의 문제로 되돌린\n교황의 회칙이 던진 물음",
+      "body": "레오 14세의 AI 회칙은 기술을 도덕적 중립으로 보지 말고 인간 중심 감독을 요구하라 말한다.",
+      "mini_headline": "교황의 AI 회칙",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "img", "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/672/asd3.jpg" },
-          { "t": "p", "x": "경매에서 미국과 영국 양쪽으로 6자릿수와 7자릿수 계약을 따낸 범죄 소설이 판매에서 내려졌다. 창작 과정에 AI가 쓰였다는 의혹이 불거진 뒤의 일이다." },
-          { "t": "p", "x": "에이전트는 문제의 책을 유통에서 아예 빼기로 했다. 큰 기대를 모으던 작품이 출간 문턱에서 멈춰 선 것이다." },
-          { "t": "p", "x": "AI의 출처와 표기 문제가 실제 계약과 편집 공정을 어떻게 뒤흔드는지 보여주는, 무게가 다른 사례다." }
-        ]
-      }
-    },
-    {
-      "id": "ai-dilutes-book-market",
-      "eyebrow": "AI NEWS",
-      "headline": "생성형 AI가 책 시장을\n묽게 만든다는 증명 시도",
-      "body": "작가들이 오래 우려해온 시장 잠식을 새 연구가 처음으로 실측 수치로 입증하려 나섰다.",
-      "mini_headline": "AI가 묽히는 책 시장",
-      "tool": "Books",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/researchers-attempt-to-prove-that-generative-ai-dilutes-the-market-for-books/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "p", "x": "작가들이 오래도록 입에 올려온 두려움이 있다. 생성형 AI가 쏟아낸 책들이 사람이 쓴 책의 몫과 관심을 실제로 갉아먹는다는 것이다." },
-          { "t": "p", "x": "새 연구는 이 막연한 불안을 수치로 옮겨보려 한다. AI로 쓰인 책의 범람이 시장과 주목을 얼마나 줄이는지, 감이 아니라 데이터로 재보겠다는 시도다." },
-          { "t": "p", "x": "그동안 이 분야가 돌려온 AI 탐지 연구의 창작 산업판 짝이라 할 만하다. AI가 뱉어낸 결과물이 결국 무엇이 읽히고 팔리는지를 어떻게 바꿔놓는지, 그 판을 다시 그린다." }
+          { "t": "img", "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png" },
+          { "t": "p", "x": "퍼블리싱 퍼스펙티브스는 레오 14세 교황의 AI 회칙을 지금까지 나온 가장 조리 있는 윤리적 틀 가운데 하나로 읽는다." },
+          { "t": "p", "x": "핵심은 이렇다. 출판계는 AI를 도덕적으로 중립인 기술로 다뤄선 안 되며, 기술 독점 기업을 향해 인간 중심의 감독을 요구해야 한다는 것이다." },
+          { "t": "p", "x": "출판 산업이 앞으로 헤쳐가야 할 윤리와 규제의 새로운 렌즈가 등장한 셈이다." }
         ]
       }
     }

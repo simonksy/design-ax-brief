@@ -1,9 +1,9 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "science",
   "media": [
-    { "id": "blue-oled", "type": "image", "src": "pipeline/media/blue-oled.jpg" },
-    { "id": "goflow", "type": "image", "src": "pipeline/media/goflow.jpg" },
-    { "id": "material-rules", "type": "image", "src": "pipeline/media/material-rules.jpg" }
+    { "id": "ai-telescope-stargazing", "type": "image", "src": "pipeline/media/ai-telescope-stargazing.jpg" },
+    { "id": "ai-agent-synchrotron", "type": "image", "src": "pipeline/media/ai-agent-synchrotron.jpg" },
+    { "id": "brain-age-sleep-eeg", "type": "image", "src": "pipeline/media/brain-age-sleep-eeg.jpg" }
   ]
 }

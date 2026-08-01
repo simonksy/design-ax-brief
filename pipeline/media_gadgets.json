@@ -1,22 +1,12 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "gadgets",
-  "count": 3,
+  "count": 1,
   "media": [
     {
-      "id": "adobe-project-indigo",
+      "id": "samsung-galaxy-glasses-gemini",
       "type": "image",
-      "src": "pipeline/media/adobe-project-indigo.jpg"
-    },
-    {
-      "id": "samsung-health-assistant",
-      "type": "image",
-      "src": "pipeline/media/samsung-health-assistant.jpg"
-    },
-    {
-      "id": "friend-2-pendant",
-      "type": "image",
-      "src": "pipeline/media/friend-2-pendant.jpg"
+      "src": "pipeline/media/samsung-galaxy-glasses-gemini.jpg"
     }
   ]
 }

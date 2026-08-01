@@ -1,67 +1,67 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "movies",
   "cards": [
     {
-      "id": "vida-scene-search",
+      "id": "luma-layers",
       "eyebrow": "AI NEWS",
-      "headline": "장면 단위로 찾는\n오프라인 AI 검색",
-      "body": "수작업 메타데이터 없이 자연어만으로 영상 라이브러리를 장면 단위로 뒤져 편집자가 필요한 장면을 곧바로 찾는다.",
-      "mini_headline": "장면 단위 검색",
+      "headline": "프롬프트 대신\n요소 단위로 고친다",
+      "body": "Luma의 Layers는 프롬프트를 통째로 다시 돌리는 대신 AI 이미지를 요소 하나하나 정밀하게 고치게 한다.",
+      "mini_headline": "요소 단위 편집",
       "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
+      "source": "Luma AI",
+      "url": "https://lumalabs.ai/news/introducing-layers",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://postperspective.com/wp-content/uploads/2026/07/Vida-Scene-Search-624x416.jpg" },
-          { "t": "p", "x": "Vida가 Content OS 안에서 돌아가는 오프라인 AI 색인 도구 Scene Search를 내놨다. 편집자와 포스트 팀이 영상 라이브러리를 장면 단위로, 그것도 자연어로 검색할 수 있게 하는 도구다." },
-          { "t": "p", "x": "핵심은 사람이 일일이 메타데이터를 달아 둘 필요가 없다는 점이다. 그동안 장면을 다시 찾으려면 촬영본을 손으로 로깅해 두어야 했지만, 이제 그 과정이 사라진다." },
-          { "t": "p", "x": "필름과 TV 포스트가 촬영본을 찾고 다시 쓰는 방식이 실무 차원에서 바뀌는 셈이다. 검색이 클립이 아니라 장면 단위로 내려가면서, 원하는 순간에 곧장 닿을 수 있게 됐다." }
+          { "t": "img", "src": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg" },
+          { "t": "p", "x": "Luma AI가 자사 영화 제작 도구 안에 Layers를 새로 얹었다. AI로 만든 이미지를 요소 단위로 만지며 정밀하게 편집할 수 있게 하는 기능이다." },
+          { "t": "p", "x": "그동안은 결과가 마음에 들지 않으면 프롬프트를 통째로 다시 돌려야 했다. Layers는 그 방식을 벗어나, 화면 속 개별 요소를 골라 하나씩 손볼 수 있게 한다." },
+          { "t": "p", "x": "생성형 작업을 프롬프트 운에 맡기는 단계에서 끌어내려, 감독하고 다시 고치는 통제된 작업으로 옮기는 셈이다. 필름메이커와 프리비주얼 아티스트가 기대하던 결의 제어다." }
         ]
       }
     },
     {
-      "id": "hp-z-captis-adobe",
+      "id": "frame-io-search",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 빨라진\n디지털 트윈 캡처",
-      "body": "HP Z Captis가 Substance 3D와 더 깊게 붙고 Jetson에서 AI 추론을 돌려 제작용 디지털 트윈을 빠르게 만든다.",
-      "mini_headline": "디지털 트윈 캡처",
+      "headline": "전체 화면 검색과\n비교 뷰어 개선",
+      "body": "Adobe Frame.io가 전체 화면 검색과 AI 검색 토글, 비교 뷰어 개선으로 촬영본을 더 빠르게 찾고 검토하게 한다.",
+      "mini_headline": "전체 화면 검색",
       "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/hp-and-adobe-offer-digital-twin-capture-built-for-scale/",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2-624x416.jpg" },
-          { "t": "p", "x": "HP와 Adobe가 캡처 시스템 HP Z Captis를 손봤다. 속도를 끌어올리고 Adobe Substance 3D Sampler와의 연동을 한층 깊게 다졌다." },
-          { "t": "p", "x": "핵심은 NVIDIA Jetson AGX 위에서 하이브리드 AI 추론을 돌린다는 데 있다. 이렇게 만든 결과물은 곧바로 제작에 쓸 수 있는 디지털 트윈이 된다." },
-          { "t": "p", "x": "겨냥하는 곳은 VFX와 버추얼 프로덕션이다. AI로 가속한 에셋 캡처가 필름 파이프라인에 어떻게 흘러 들어가는지 보여 주는, 규모를 염두에 둔 업데이트다." }
+          { "t": "img", "src": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg" },
+          { "t": "p", "x": "Adobe의 Frame.io가 전용 전체 화면 검색 페이지를 새로 내놨다. 일반 검색과 AI 검색을 토글로 오갈 수 있게 해, 원하는 촬영본을 더 빠르게 찾도록 했다." },
+          { "t": "p", "x": "여기에 비교 뷰어도 손봤다. 편집자와 포스트 팀이 여러 프로젝트를 넘나들며 촬영본을 찾아보고 검토하는 흐름이 한층 매끄러워진다." },
+          { "t": "p", "x": "필름과 TV의 리뷰·승인 팀이 미디어를 훑는 방식이 실무 차원에서 바뀌는 지점이다. 곧바로 쓸 수 있는, 구체적인 워크플로 변화다." }
         ]
       }
     },
     {
-      "id": "frostfx",
+      "id": "wonder-dynamics",
       "eyebrow": "AI NEWS",
-      "headline": "AI는 대체가 아니라\n또 하나의 도구",
-      "body": "에스토니아 FrostFX는 AI로 반복적 기술 작업을 걷어내 아티스트가 창작 판단에 더 오래 머물게 한다고 말한다.",
-      "mini_headline": "또 하나의 도구",
+      "headline": "연기를 CG로 옮기되\n손은 아티스트가",
+      "body": "Wonder Dynamics의 Flow Studio는 실사 연기를 CG 캐릭터로 옮기면서도 아티스트가 통제권을 쥐게 한다.",
+      "mini_headline": "연기를 CG로",
       "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/vfx-frostfx-estonia",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://www.redsharknews.com/hubfs/frostfx%20marko%20post.jpg" },
-          { "t": "p", "x": "에스토니아의 VFX 스튜디오 FrostFX가 자사 포스트 파이프라인을 풀어놓았다. 이들은 AI를 아티스트의 대체재로 보지 않는다." },
-          { "t": "p", "x": "AI가 하는 일은 반복적인 기술 작업을 덜어 내는 쪽이다. 그렇게 비운 시간만큼 아티스트는 창작 판단에 더 오래 매달릴 수 있다." },
-          { "t": "p", "x": "AI를 곁들인 워크플로가 실제로 작업의 결을 어떻게 바꾸는지, 스튜디오 현장의 시선으로 담담히 짚은 이야기다." }
+          { "t": "img", "src": "https://nofilmschool.com/media-library/wonder-dynamics.webp?id=67559520&width=1245&height=700&quality=50&coordinates=0%2C53%2C0%2C24" },
+          { "t": "p", "x": "Wonder Dynamics의 공동 창업자 타이 셰리든과 니콜라 토도로비치가 자신들의 필름메이킹 이력이 Autodesk Flow Studio를 어떻게 빚었는지 풀어놓았다." },
+          { "t": "p", "x": "Flow Studio는 실사 연기를 CG 캐릭터로 옮겨 주는 AI 도구다. 다만 손을 완전히 떼게 하지 않는다. 결정의 키는 아티스트가 쥐고, 기존 VFX 파이프라인과도 무리 없이 맞물린다." },
+          { "t": "p", "x": "연기를 CG로 옮기는 작업을 대체가 아니라 하나의 공예적 워크플로로 바라보는, 담담하고 현장감 있는 이야기다." }
         ]
       }
     }

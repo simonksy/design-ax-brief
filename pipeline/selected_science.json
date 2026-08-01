@@ -1,57 +1,47 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "science",
   "selection_mode": "auto",
+  "count": 3,
   "picks": [
     {
-      "rank": 1,
-      "headline": "AI and quantum chemistry combine to identify efficient blue OLED materials",
+      "id": "ai-telescope-stargazing",
       "tool": "Science",
-      "category": "science",
+      "headline": "First AI-driven telescope goes stargazing",
+      "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
+      "source": "Phys.org (Northwestern University)",
+      "published_iso": "2026-07-31T12:00:00Z",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
-      "source": "Phys.org (Nagoya University)",
-      "published_iso": "2026-07-22T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg",
-      "excerpt": "Nagoya University researchers paired quantum-chemistry simulation with machine learning to design boron-free molecules that emit vivid, high-color-purity blue light for next-gen OLED displays. Shows ML compressing the search for new functional materials with a real display-tech payoff.",
-      "rationale": "Concrete new release pairing quantum chemistry + ML to crack the long-standing efficient-blue-OLED problem; a materials-discovery beat not covered in prior days."
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg",
+      "excerpt": "Scientists from Northwestern, University of Chicago and Fermilab deployed a reinforcement-learning AI to autonomously schedule Dark Energy Camera observations, adapting the plan in real time as sky and weather conditions change -- a milestone toward self-running observatories, with performance the team rates comparable to a human scheduler.",
+      "rationale": "New milestone: a reinforcement-learning agent autonomously schedules a real survey telescope in real time -- a concrete step toward self-running observatories, AI directly advancing observational astronomy."
     },
     {
-      "rank": 2,
-      "headline": "AI-powered system offers unprecedented insight into the forces shaping Earth's climate",
+      "id": "ai-agent-synchrotron",
       "tool": "Science",
-      "category": "science",
+      "headline": "AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation",
+      "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
+      "source": "Phys.org (Stanford / SLAC)",
+      "published_iso": "2026-07-21T12:00:00Z",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
-      "source": "Tech Xplore (Tel Aviv University)",
-      "published_iso": "2026-07-20T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg",
-      "excerpt": "Tel Aviv University's GOFLOW is an AI system that reconstructs hidden ocean-surface currents directly from satellite imagery, extracting dynamics previously inaccessible. A new ML method that turns existing observations into better climate prediction inputs.",
-      "rationale": "Distinct release (satellite-imagery method, Tel Aviv) from the earlier Argo-float AMOC card; turns existing observations into better climate inputs — an actionable geoscience-ML advance."
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg",
+      "excerpt": "Stanford and SLAC researchers built an AI agent that autonomously aligns crystal samples at synchrotron X-ray beamlines -- reading detector images, experiment logs and scan results, then issuing instrument-control commands -- a step toward self-driving experimental facilities that free scientists from routine setup.",
+      "rationale": "Distinct lab-automation advance: an AI agent reads instrument data and issues control commands to align samples at a major user facility, pushing beamline science toward autonomous operation."
     },
     {
-      "rank": 3,
-      "headline": "AI extracts hidden material rules from microscopic data to predict large-scale behavior",
+      "id": "brain-age-sleep-eeg",
       "tool": "Science",
-      "category": "science",
+      "headline": "AI 'brain age' from sleep EEG flags sharply higher dementia risk",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "source": "ScienceDaily (UC San Francisco)",
+      "published_iso": "2026-07-31T12:00:00Z",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
-      "source": "Tech Xplore (National University of Singapore)",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
-      "excerpt": "NUS researchers created ML methods that learn large-scale material behavior from microscopic data by discovering hidden variables that capture collective dynamics, cutting computational cost. A methods advance for predicting how materials evolve, relevant to energy and manufacturing.",
-      "rationale": "Methods-level advance (multiscale hidden-variable discovery) distinct from the Tohoku autonomous-lab card; cuts compute for predicting material evolution across energy and manufacturing."
+      "og_image": "",
+      "excerpt": "UCSF researchers used machine learning on overnight sleep-EEG recordings from about 7,000 adults to estimate each person's 'brain age'; brains scoring older than the person's actual age were tied to a sharply elevated risk of developing dementia -- an AI biomarker turning routine sleep data into early neurological insight.",
+      "rationale": "Novel AI biomarker: machine learning on routine sleep-EEG estimates 'brain age' at scale (~7,000 adults) and links it to dementia risk -- AI intersecting neuroscience and clinical prediction, distinct from prior BCI/cognition coverage."
     }
-  ],
-  "dropped": [
-    {
-      "headline": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "reason": "Same outlet (MIT Technology Review) + same core topic (AI in drug discovery) as the just-published 07-31 card 'ai-drug-discovery-data-loop' (technologyreview.com/.../1139667). A sibling MIT-TR AI-drug-discovery insights piece; a second one on consecutive days is a same-source/same-topic repeat — dropped per dedup."
-    }
-  ],
-  "diversity_note": "3 fresh distinct stories — the genuine ceiling after dedup (pool of 4 minus 1 topic-dup), so a floor pick, not padding. Outlets: phys.org (1) + techxplore (2), within the hard max-2/outlet cap. Distinct accents assigned per pick since all share the single 'science' category."
+  ]
 }

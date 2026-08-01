@@ -1,26 +1,11 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "design",
   "media": [
-    {
-      "id": "google-earth-rollback",
-      "type": "image",
-      "src": "pipeline/media/google-earth-rollback.jpg"
-    },
-    {
-      "id": "rebelle-brush",
-      "type": "image",
-      "src": "pipeline/media/rebelle-brush.jpg"
-    },
-    {
-      "id": "jakobs-law-chatbox",
-      "type": "image",
-      "src": "pipeline/media/jakobs-law-chatbox.png"
-    },
-    {
-      "id": "rethinking-friction",
-      "type": "image",
-      "src": "pipeline/media/rethinking-friction.png"
-    }
+    { "id": "figma-make", "type": "image", "src": "pipeline/media/figma-make.png" },
+    { "id": "perplexity-color", "type": "image", "src": "pipeline/media/perplexity-color.png" },
+    { "id": "unwanted-ai-images", "type": "image", "src": "pipeline/media/unwanted-ai-images.jpg" },
+    { "id": "ai-fluency", "type": "image", "src": "pipeline/media/ai-fluency.png" },
+    { "id": "creative-technologists", "type": "image", "src": "pipeline/media/creative-technologists.png" }
   ]
 }

@@ -1,16 +1,11 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "games",
   "media": [
     {
-      "id": "therelic",
+      "id": "steamdisclosure",
       "type": "image",
-      "src": "pipeline/media/therelic.jpg"
-    },
-    {
-      "id": "nexusmods",
-      "type": "image",
-      "src": "pipeline/media/nexusmods.jpg"
+      "src": "pipeline/media/steamdisclosure.jpg"
     }
   ]
 }

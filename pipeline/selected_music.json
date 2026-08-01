@@ -1,57 +1,34 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "music",
   "selection_mode": "auto",
-  "count": 3,
-  "note": "Auto-pick (user deferred). Wide funnel yielded only 3 distinct FRESH candidates in a genuinely sparse 14-day window (see candidates note; yesterday's 07-31 run already scooped the strongest still-fresh AI items — Google Flow Music, Vochlea DubBox, ToneField, Dev Ocean — deliberately not re-collected). All 3 clear URL+CONTENT dedup vs sections.music history (today 07-31 + days 07-25..07-30): none share a URL or event with published cards. Lyria 3.5 is a distinct model-release event — the published 07-30 'labels ban AI slop charts' card only name-drops Lyria Pro 3 in passing, and 07-31 published no Lyria item. The two Synthtopia items use new dated slugs (07-24 SILT, 07-30 Karst), distinct from published ToneField (07-21) and Dev Ocean (07-17). Floor 3 met with all 3 kept; not padded. Outlet mix: Synthtopia 2 (at the 2/outlet cap), MBW 1 — a 3rd distinct outlet was unavailable in the fresh pool.",
+  "count": 1,
+  "note": "Auto-pick (user deferred). Pool had 2 candidates. SoundBoost is fresh + non-dup and kept. The DMN 'Google AI all-in-one music studio' (2026-07-29) covers the SAME Google Flow Music Spaces all-in-one release already published on 2026-07-31 as card 'flow-music-spaces' (Music Business Worldwide: song generation + editing + stem-splitting added to Spaces) — a cross-outlet CONTENT duplicate, so it was DROPPED per the URL+CONTENT dedup rule. No padding: only 1 distinct never-before-seen story survived dedup, below the floor of 3 but acceptable given the genuinely thin window.",
   "picks": [
     {
       "rank": 1,
-      "headline": "Watch out, Suno: Google upgrades Lyria AI music model with 'more realistic and emotionally nuanced vocals'",
+      "headline": "SoundBoost Brings Natural-Language AI Mixing and Mastering to 130,000+ Musicians",
       "tool": "Music",
       "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "url": "https://www.musicbusinessworldwide.com/watch-out-suno-google-has-upgraded-lyria/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Google has launched Lyria 3.5, its upgraded AI music-generation model, inside Google Flow Music. DeepMind says the model brings 'significant advancements across musicality, lyrics and vocal quality', with more realistic, emotionally nuanced vocals, improved pronunciation and richer, more natural melodic structures.",
-      "rationale": "Major, credible AI music-model upgrade that raises the vocal-quality bar producers work against tomorrow. Highest novelty + actionability."
-    },
-    {
-      "rank": 2,
-      "headline": "Tim Exile Previews Karst Software Modular System",
-      "tool": "Music",
-      "category": "music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "url": "https://www.synthtopia.com/content/2026/07/30/tim-exile-previews-karst-software-modular-system/",
-      "source": "Synthtopia",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Tim Exile previewed Karst, a digital modular system for making music through systems and algorithmic composition. It features a node editor, cableless patching with cloud sync, and an Event Core in every instrument that lets you hand-roll generative algorithms without wrestling event scheduling or polyphony.",
-      "rationale": "New generative-modular environment with a node editor and hand-rolled algorithms — a concrete craft tool that changes how sound designers build patches."
-    },
-    {
-      "rank": 3,
-      "headline": "Tunary Intros SILT Generative Tape-Loop Instrument",
-      "tool": "Music",
-      "category": "music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.synthtopia.com/content/2026/07/24/tunary-intros-silt-generative-tape-loop-instrument/",
-      "source": "Synthtopia",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/silt-728x615.jpg",
-      "excerpt": "Tunary Instruments has introduced SILT, a 'Generative Tape-Loop Instrument' built around four short melodic loops of different lengths that drift slowly out of phase through an emulated tape machine, generating evolving ambient patterns for producers with vintage warmth.",
-      "rationale": "Fresh generative instrument for evolving ambient textures — a novel, ready-to-use tool for producers chasing vintage warmth."
+      "url": "https://www.digitalmusicnews.com/2026/07/30/soundboost-natural-language-music-mastering-mixing/",
+      "source": "Digital Music News",
+      "published_iso": "2026-07-30T21:00:50Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/soundboost-scaled.jpg",
+      "excerpt": "SoundBoost brings AI mixing and mastering driven by natural-language text prompts, plus a free stem splitter and what it bills as ethically trained models, to a claimed 130,000-plus musicians — letting producers dial in a master by describing the sound they want.",
+      "rationale": "Actionable for producers: describe-the-sound mixing/mastering plus a free stem splitter changes how a track gets finished tomorrow, and the 'ethically trained' framing is a fresh, credible angle."
     }
   ],
   "shortfall": {
     "target_floor": 3,
-    "kept": 3,
-    "reason": "Wide funnel surfaced only 3 distinct fresh candidates after yesterday's run scooped the strongest still-fresh items; all 3 survive dedup and meet floor 3. No fourth unique fresh item exists, so 3 is correct — not padded.",
-    "dropped": []
+    "kept": 1,
+    "reason": "Pool held only 2 candidates; the Google Flow all-in-one item was a cross-outlet content duplicate of the published 07-31 'flow-music-spaces' card and was dropped. Only 1 unique fresh story remained. Not padded.",
+    "dropped": [
+      {
+        "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
+        "reason": "Content duplicate of published card 'flow-music-spaces' (2026-07-31, Music Business Worldwide) — same Google Flow Music Spaces all-in-one release, different outlet."
+      }
+    ]
   }
 }
