@@ -1,9 +1,22 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "movies",
   "media": [
-    { "id": "vida-scene-search", "type": "image", "src": "pipeline/media/vida-scene-search.jpg" },
-    { "id": "hp-z-captis-adobe", "type": "image", "src": "pipeline/media/hp-z-captis-adobe.jpg" },
-    { "id": "frostfx", "type": "video", "src": "pipeline/media/frostfx.mp4", "poster": "pipeline/media/frostfx.jpg" }
+    {
+      "id": "luma-layers",
+      "type": "video",
+      "src": "pipeline/media/luma-layers.mp4",
+      "poster": "pipeline/media/luma-layers.jpg"
+    },
+    {
+      "id": "frame-io-search",
+      "type": "image",
+      "src": "pipeline/media/frame-io-search.jpg"
+    },
+    {
+      "id": "wonder-dynamics",
+      "type": "image",
+      "src": "pipeline/media/wonder-dynamics.webp"
+    }
   ]
 }

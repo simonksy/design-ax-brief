@@ -1,50 +1,37 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-02",
   "section": "games",
   "selection_mode": "auto",
-  "count": 2,
+  "count": 1,
   "shortfall": true,
-  "shortfall_reason": "User deferred; curator auto-picked. Filtered pool held 4 URL-distinct items; 2 are content/URL duplicates of already-published games cards, leaving 2 genuinely-fresh, section-unique stories. Below the floor of 3 solely because the fortnight's game x AI pool is genuinely thin (collector confirmed the remainder STALE), not padded.",
+  "shortfall_reason": "User deferred; curator auto-picked. Filtered pool held only 3 items, and two independent dedup facts collapse it to 1 genuinely-fresh, publishable story: (1) the 80 Level Meshy article is the EXACT URL already published as card 'meshyagent' in the MOVIES section (news_data sections.movies, 2026-07-27) -- a cross-section duplicate that would trip the build_data.py duplicate-URL hard-fail and the known card-id/shared-media collision, so it is dropped; (2) the GamesRadar+ and PC Gamer items are the same Steam AI-disclosure content hub, so per the collapse rule only the single strongest (GamesRadar+, developer-sentiment/normative angle) is kept and the PC Gamer adoption-stat piece is dropped as a near-duplicate. Below the floor of 3 solely because the fortnight's game x AI pool is genuinely thin and the two collapses are forced by dedup -- not padded, no duplicate republished.",
   "dedup_dropped": [
     {
-      "title": "Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner",
+      "title": "Meshy wants AI for 3D creation to feel less like a prompt and more like a creative partner",
       "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
       "source": "80 Level",
-      "reason": "Content/URL duplicate: this EXACT URL is already published as card 'meshyagent'. Earliest-wins keeps the original; a same-URL card here would also trip the build_data.py duplicate-URL hard-fail and the known card-id/shared-media collision."
+      "reason": "Cross-section URL duplicate: identical URL already published as card 'meshyagent' in sections.movies (2026-07-27). Same-URL republish would fail the build's duplicate-URL guard and collide on card id / shared pipeline/media file. Earliest-wins keeps the movies card."
     },
     {
-      "title": "Steam Week in Review: more than half of new Steam games could carry an AI disclosure by 2027-2028",
+      "title": "Steam Week in Review: more than half of Steam games could carry an AI disclosure by 2027-2028",
       "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
       "source": "PC Gamer",
-      "reason": "Content duplicate of already-published games card 'steam53k-study': the same Sulka Harro study of 53,597 Steam games and the identical 10.9% (2024) -> 30.8% (2026) AI-disclosure figures, reworded via a different outlet."
+      "reason": "Same Steam AI-disclosure content hub as the kept GamesRadar+ pick (both cover Valve's store-mandate disclosure trend from the same news cycle). Collapsed to avoid a near-duplicate pair; GamesRadar+ kept as the stronger craft/sentiment angle over this adoption-stat rewrite."
     }
   ],
   "picks": [
     {
-      "title": "The Relic: First Guardian director confirms AI use after YouTubers sound the alarm over a preview build",
-      "headline": "The Relic: First Guardian director confirms AI use after YouTubers sound the alarm over a preview build",
-      "url": "https://kotaku.com/director-of-new-soulslike-says-no-ai-used-in-the-final-game-after-big-youtubers-sounded-the-alarm-over-a-recent-preview-build-2000720260",
-      "source": "Kotaku",
-      "published_iso": "2026-07-30T19:15:26Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg",
-      "excerpt": "After creators flagged suspected AI content in a preview build of Soulslike The Relic: First Guardian, the director says AI touched only the early concept stage -- a few loading-screen concept pieces and consumable icons -- with none in the final game. A window into how studios are actually folding generative AI into the concept/design pipeline and the disclosure norms that now shape it.",
+      "title": "\"Steam's required AI disclosure is the right move\": devs say gen AI should be called out in games",
+      "headline": "\"Steam's required AI disclosure is the right move\": devs say gen AI should be called out in games",
+      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-07-21T20:21:08Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
+      "excerpt": "Developers back Valve's mandate requiring generative-AI content to be disclosed on Steam store pages, saying gen AI shipped in a game should be flagged to players and wishing every storefront would adopt the same rule.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A concrete look at where a studio actually draws the line on generative AI (concept-stage only) and the disclosure norms now shaping game production pipelines. Credible outlet, distinct URL not in games history."
-    },
-    {
-      "title": "Nexus Mods finally tightens the screws on AI — though it's still playing softball with the tide of slop",
-      "headline": "Nexus Mods finally tightens the screws on AI — though it's still playing softball with the tide of slop",
-      "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
-      "source": "PC Gamer",
-      "published_iso": "2026-07-31T15:46:26Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg",
-      "excerpt": "The largest PC game modding platform is toughening its policy on generative AI, now requiring modders to properly disclose AI-generated assets in their uploads — a workflow/craft shift for the modding community as the platform grapples with AI 'slop'.",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "A direct workflow rule change on the biggest PC modding platform: AI-generated assets now require disclosure, materially altering how modders publish and label their work. Distinct outlet-topic from the Kotaku pick; second same-category card gets a distinct accent from palette."
+      "rationale": "Live norms-and-workflow signal: developers themselves backing Valve's disclosure mandate shapes how any team labels and ships AI-assisted content. Credible outlet, distinct URL not in games history, and the stronger of the two Steam-disclosure hub items."
     }
   ]
 }

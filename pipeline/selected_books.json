@@ -1,57 +1,45 @@
 {
   "section": "books",
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "selection_mode": "auto",
-  "count": 4,
-  "note": "Auto-pick (user deferred). 5-wide fresh pool, 1 dropped as content duplicate: The Bookseller 'Tor Bramble backs H M Wolfe over Daggermouth' is a direct continuation of the already-published 07-30 'daggermouth-60-percent-ai-study' (same Pangram 60% AI score / same book saga) -> DROPPED per dedup. Remaining 4 are distinct never-before-seen stories. Diversity guard OK: 3 distinct outlets (PW, Jane Friedman x2, The Bookseller), <=2 per outlet. Not padded to 5 — pool has no further unique fresh items.",
+  "count": 3,
+  "note": "Auto-pick (user deferred). Fresh pool had exactly 3 candidates; all 3 survive URL+CONTENT dedup vs the last 5 days of sections['books'] history (checked against publishersweekly, janefriedman x4, thebookseller, bookriot x2, publishingperspectives x4, booksandpublishing). No duplicates found — the three stories (scholarly-AI ownership, NYT AI-nonfiction investigation, Pope's AI encyclical) are all never-before-seen and topically distinct from prior lawsuit/audiobook/market-dilution/course coverage. Diversity guard OK: 3 distinct outlets, 1 per outlet. At floor 3 — not padded, pool has no further unique fresh items.",
   "picks": [
     {
       "tool": "Books",
-      "headline": "AI May Be Making Publishing Easier, But It's Still Not Easy",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-07-31T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Report from the July 22 Media Transformation Summit: AI is streamlining production workflows (one founder used AI in place of a traditional production team to publish 322 books) and AI systems now favor content with machine-friendly structure, pushing publishers to rethink how they present plot summaries, bios and images. A concrete look at how generative AI is reshaping real editorial and production craft.",
+      "headline": "The Third Time is NOT the Charm: Who Will Own How AI Participates in Scholarship?",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg",
+      "excerpt": "The authors argue scholarly publishers must collaboratively build the infrastructure standards for how AI participates in scholarship now, before technology companies own that layer the way they came to own digital aggregation and discovery. A concrete look at how the AI era is reshaping who controls scholarly and academic publishing workflows.",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Most actionable: concrete editorial/production workflow shifts (machine-friendly metadata, AI-run production) that change how a publishing designer works now."
+      "rationale": "Actionable strategic call for publishers to set AI-participation standards before Big Tech captures the layer — fresh, credible SSP source, no prior coverage."
     },
     {
       "tool": "Books",
-      "headline": "Substack adds AI detection tools, but creators can disable them",
-      "url": "https://janefriedman.com/substack-adds-ai-detection-tools-but-creators-can-disable-them/",
+      "headline": "New York Times journalist investigates origins of AI-generated nonfiction",
+      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
       "source": "Jane Friedman",
-      "published_iso": "2026-07-22T12:00:00Z",
+      "published_iso": "2026-07-22T14:00:00Z",
       "og_image": "",
-      "excerpt": "Substack now lets readers run Pangram to scan a post and see how much of it was likely AI-written, while giving creators the option to turn the badge off. A direct workflow/craft signal for writers and publishers navigating AI-disclosure and provenance in day-to-day authoring.",
+      "excerpt": "A New York Times investigation traces the mechanics of AI-generated nonfiction through a retiree who has self-published more than 450 AI-written books and earns modest print sales from them. A vivid case of how cheap automated book creation is reshaping what floods the market and how human authors compete.",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New platform feature (AI-detection badge + opt-out) that directly changes provenance/disclosure decisions for anyone publishing on Substack."
+      "rationale": "Concrete, reported case of the AI self-publishing flood human authors compete against — distinct from prior market-dilution and Daggermouth stories."
     },
     {
       "tool": "Books",
-      "headline": "'Genius' novel sold in major six- and seven-figure deals at auction pulled over AI allegations",
-      "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
-      "source": "The Bookseller",
+      "headline": "'Clarity of Thought and Responsibility': Can the Pope Move the Needle on AI Regulation?",
+      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
+      "source": "Publishing Perspectives",
       "published_iso": "2026-07-31T09:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/672/asd3.jpg",
-      "excerpt": "A crime novel that secured major six- and seven-figure deals in the US and UK has been withdrawn from sale after allegations that AI was used in its creation, with the agent pulling the book from circulation. A sharp real-world case of AI provenance and disclosure disrupting acquisition and editorial workflows in trade publishing.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png",
+      "excerpt": "Publishing Perspectives reads Pope Leo XIV's encyclical on AI as one of the most cogent ethical frameworks yet for regulating the technology, arguing publishers should not treat AI as morally neutral and must push for human-centered oversight of tech monopolies. An emerging ethical/regulatory lens the publishing industry will have to navigate.",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Fresh, high-stakes case of AI provenance killing a major book deal — distinct book/event from prior Daggermouth coverage, reputable trade source."
-    },
-    {
-      "tool": "Books",
-      "headline": "Researchers attempt to prove that generative AI dilutes the market for books",
-      "url": "https://janefriedman.com/researchers-attempt-to-prove-that-generative-ai-dilutes-the-market-for-books/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-07-29T16:00:00Z",
-      "og_image": "",
-      "excerpt": "A new study tries to put empirical numbers on a fear authors have voiced for years: that the flood of generative-AI-written books measurably shrinks the market and attention available to human-authored work. A creative-industry counterpart to the AI-detection studies the beat already runs, framing how AI-generated output reshapes what gets read and sold.",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "Novel empirical angle (market dilution measured, not just asserted) that reframes the commercial stakes of AI output for authors and publishers."
+      "rationale": "New ethical/regulatory framing the industry will have to reckon with — timely, credible, and unduplicated in the last five days."
     }
   ]
 }

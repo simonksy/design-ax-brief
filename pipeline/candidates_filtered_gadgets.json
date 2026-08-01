@@ -1,50 +1,59 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
+  "section": "gadgets",
+  "now_iso": "2026-08-01T22:00:36Z",
   "window_hours": 336,
+  "count": 5,
+  "note": "WIDE funnel for the single 'gadgets' category, restricted to its allowed_domains. Gadgets window = 14 days / 336h (start ~2026-07-18T22:00Z); every item date-verified via WebFetch (og article:published_time / JSON-LD / byline) and gated FRESH with `python3 pipeline/freshness.py <iso> 2026-08-01T22:00:36Z gadgets`. The fresh AI-hardware news this window was dominated by Samsung Galaxy Unpacked (London, Jul 22): Galaxy Glasses (Gemini/Android XR AI eyewear), Galaxy Watch 9's Snapdragon Wear Elite on-device Gemini, and the foldables/watches recap. Verified-fresh, on-topic, distinct items = 5 across 4 distinct outlets (Android Authority x2, Digital Trends, 9to5Google, Engadget). IMPORTANT: the shared WebSearch budget (200/200) was EXHAUSTED mid-collection by the parallel librarians, which cut short the search for non-Samsung fresh items (AI PC/Copilot+ July reviews, robot vacuum launches, AI earbuds) - several surfaced but could not be date-verified (e.g. TechRadar Qualcomm/MediaTek wearable-AI play ~Jul 29 and the Narwal Flow 2 AI robot-vacuum review were unreadable behind TechRadar's membership overlay on WebFetch, so DROPPED per the 'no verifiable published time -> drop' rule). Dropped as STALE (outside 336h): Engadget 'OpenAI humanlike rechargeable speaker' (Jul 15), Android Authority Oura Ring 5 (May 28), Google live-translation upgrade (May 22), UploadVR Snapdragon Reality Elite (Jun 16), Gizmodo Rabbit Cyberdeck (Jan 30), Engadget Feb Unpacked S26 recap (Feb 26). Topical concentration on Samsung is a known limitation of this window; curator downstream will tighten to <=2 per outlet and pick a diverse final set.",
   "items": [
     {
-      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
-      "source": "Engadget",
+      "title": "Samsung's answer to Meta's Ray-Bans is (almost) here, with a little help from Google",
+      "url": "https://www.androidauthority.com/samsung-galaxy-gemini-smart-glasses-3689544/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-07-20T18:04:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg",
-      "excerpt": "Adobe's Project Indigo experimental camera app adds AI Playground, bringing generative editing, object edits, style transforms and photo guidance to mobile photographers, powered by Google's Nano Banana model."
+      "published_iso": "2026-07-22T13:00:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg",
+      "excerpt": "At Unpacked, Samsung previewed two Gemini-powered smart glasses built with Google, Warby Parker and Gentle Monster: non-display frames with cameras that let Gemini see and analyze your surroundings for live translation, navigation and notification summaries. Heavy workloads run on the paired Galaxy phone, a clear design bet on glasses-as-companion AI form factor for creatives and everyday users."
     },
     {
-      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-21T15:07:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg",
-      "excerpt": "Samsung launched Health Assistant, an AI chatbot inside Samsung Health that interprets your wellness data and offers personalized, physician-validated lifestyle recommendations across its wearable ecosystem."
-    },
-    {
-      "url": "https://www.digitaltrends.com/wearables/galaxy-watch-9-brings-a-new-chip-bigger-batteries-one-ui-9-watch-and-a-hefty-asking-price/",
+      "title": "Samsung enters the AI glasses race with Gemini-powered Intelligent Eyewear and Android XR support",
+      "url": "https://www.digitaltrends.com/wearables/samsung-enters-the-ai-glasses-race-with-gemini-powered-intelligent-eyewear-and-android-xr-support/",
       "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Galaxy-Watch-9-in-silver-color-scaled.jpg?resize=1200%2C720",
-      "excerpt": "The Galaxy Watch 9 debuts Samsung's new AI health suite (FDA-cleared sleep apnea detection, Heart Health Score, Daily Cardio Load) on a Snapdragon Wear Elite chip with a dedicated NPU for on-device AI."
+      "published_iso": "2026-07-22T15:00:00Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/samsung-ai-glasses.jpg?resize=1200%2C720",
+      "excerpt": "Samsung's Intelligent Eyewear gives hands-free Gemini access for navigation, translation, messaging and note-taking - capture a whiteboard or meeting and have it auto-organized in Samsung Notes, with an eye-level camera, an LED privacy indicator and gesture control via a Galaxy Watch 9. A concrete look at how AI eyewear is being designed as an ambient capture-and-assist device."
     },
     {
-      "url": "https://gizmodo.com/friend-is-back-with-a-new-ai-pendant-and-its-marketing-is-more-depressing-than-ever-2000793089",
-      "source": "Gizmodo",
+      "title": "Galaxy Watch 9 is 'Powered by Snapdragon Wear Elite,' leaked images confirm",
+      "url": "https://9to5google.com/2026/07/18/galaxy-watch-9-is-powered-by-snapdragon-wear-elite-leaked-images-confirm-gallery/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-07-30T20:50:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Friend2.0.jpg",
-      "excerpt": "Friend relaunches its always-listening AI companion pendant as Friend 2.0 for $249, now with a built-in speaker for voice replies and a $10/month subscription for memory beyond 30 days."
+      "published_iso": "2026-07-18T22:30:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-snapdragon-2.jpg?quality=82&strip=all&w=1200",
+      "excerpt": "The Galaxy Watch 9 switches from Exynos to Qualcomm's Snapdragon Wear Elite, whose Hexagon NPU runs AI models with up to two billion parameters locally (~10 tokens/sec), enabling on-device Gemini and a Raise-to-Talk feature without a phone relay. A meaningful step for on-device AI on a mainstream wearable."
     },
     {
-      "url": "https://9to5mac.com/2026/07/26/apples-ai-glasses-to-be-unveiled-at-wwdc27-report/",
-      "source": "9to5Mac",
+      "title": "Everything announced at Samsung Unpacked 2026: three new foldables and two Galaxy Watches",
+      "url": "https://www.engadget.com/2220316/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-26T18:54:00Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Apple's AI smart glasses are reportedly slated to be unveiled at WWDC27 for a late-2027 release, with the company weighing camera-free or recording-restricted designs to address privacy concerns."
+      "published_iso": "2026-07-22T14:19:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/intro-1784730503.jpg",
+      "excerpt": "Engadget's hands-on recap of the July 22 London Unpacked: Z Fold 8 / Fold 8 Ultra / Flip 8 foldables, the Galaxy Watch 9 with new on-device AI health features and a Snapdragon Wear Elite chip, plus a brief look at Samsung's Snapdragon-AR1 AI glasses. Useful survey of where AI is landing across Samsung's 2026 hardware."
+    },
+    {
+      "title": "Leak reveals what to expect from Samsung's smart glasses at Unpacked tomorrow",
+      "url": "https://www.androidauthority.com/samsung-galaxy-glasses-specs-leak-3689677/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-07-21T14:01:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glasses-leak.jpg",
+      "excerpt": "Pre-Unpacked spec leak for Samsung's Android XR glasses: a Snapdragon AR1 Gen 1 chip, ~9 hours of battery with a charging case, and AI-powered camera capabilities for Gemini-driven capture and assistance. Detail on the hardware powering Samsung's first mainstream AI eyewear."
     }
   ],
   "dedup": {
-    "dropped": 1,
+    "dropped": 0,
     "kept": 5,
     "against_days": 5
   }

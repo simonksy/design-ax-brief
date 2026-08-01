@@ -1,46 +1,37 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "books",
-  "now_iso": "2026-07-31T22:00:41Z",
+  "now_iso": "2026-08-01T22:00:36Z",
   "window_hours": 336,
-  "count": 4,
-  "note": "RECOVERY PASS for books (section was at 2 kept, below floor 3). WebSearch budget was already exhausted (200/200) at start, so this pass ran entirely via WebFetch against outlet AI-tag / news-listing pages on the section's allowed_domains, favoring outlets NOT used in the first pass. TWO NEW distinct fresh items found this pass, both from The Bookseller (a NEW outlet vs pass 1's PW + Jane Friedman + Publishing Perspectives), both dated 2026-07-31 and gated FRESH: an AI-detection controversy (Pangram / Daggermouth, via The Atlantic) and a novel pulled from sale over suspected AI use. PLUS retained 2 still-in-window, distinct items carried from the prior recovery sweep (Jane Friedman generative-AI-market-dilution study Jul 29; PW Poetry Foundation library scraped for AI-generated lessons Jul 30) — both remain FRESH under the 336h window and are not duplicates of the 2 kept items (PW 100926, Jane Friedman Substack). Net: section can now reach 6 across 3 distinct outlets (PW, Jane Friedman, The Bookseller). Terms/angles that worked: AI provenance/detection controversies around published fiction. What was swept and yielded nothing fresh/on-topic this pass: Good e-Reader e-book-news (Kindle sample bug, audiobook sales — no AI hook), Scholarly Kitchen AI tag (Open Science 2.0, Jul 14 STALE), Lithub AI tag (ChatGPT-Proust, Jul 7 STALE), PW content-and-ebooks (AI multi-voice narration, Jul 14 STALE), Book Riot / Teleread / Electric Literature / Kindlepreneur / Writer's Digest (no fresh AI items), the-digital-reader.com (HTTP 403), thebookseller /tags/artificial-intelligence (404 — used /news). Deliberately DROPPED as pure legal/business with no design/craft hook: The Bookseller 'Anthropic $1.5bn copyright settlement approved'. Curator: items 3 & 4 (Bookseller, both Jul 31) are the strongest fresh craft/workflow picks; items 1 & 2 lean market-economics / copyright-scraping and are offered as secondary options.",
+  "count": 3,
+  "note": "RECOVERY PASS 2 for books (first pass yielded 0 usable after dedup). WebSearch budget was already exhausted (200/200) at start, so this pass ran entirely via WebFetch against outlet AI-tag / news-listing pages on the section's allowed_domains, EXPANDING into adjacent angles (scholarly/academic AI publishing, AI-generated nonfiction, AI regulation/ethics for publishers, AI audiobook narration, Kindle/Kobo AI, AI ebook tools) and favoring outlets NOT already used by today's published cards. THREE NEW distinct fresh items found, all gated FRESH under the 336h window and all with verifiable published times, none duplicating the already-published books URLs (PW ai-publishing-easier, JF substack-ai-detection, Bookseller genius-novel-pulled, JF ai-dilutes-book-market, JF google-gemini-suit, BookRiot elevenlabs-odyssey/daggermouth, PP udgooglebooks/hkbookfair/ai-course/translators, JF audiobook-ai-multicast, PW poetry-foundation-scrape, B&P editor-publisher-ai-survey). Distinct angles picked: (1) scholarly-publishing infrastructure ownership in the AI era (Scholarly Kitchen, a NEW outlet), (2) the flood of AI-generated nonfiction / a retiree self-publishing 450+ AI books, investigated by the NYT (Jane Friedman), (3) Pope Leo XIV's encyclical as an emerging ethical/regulatory frame publishers must navigate (Publishing Perspectives). EXCLUDED as near-duplicate: JF 'Update on Substack's AI detection using Pangram' (Jul 29) — same Substack/Pangram detection topic as the already-published substack-ai-detection card. DROPPED as pure legal/business with no craft hook: The Bookseller / PP / JF 'Anthropic $1.5bn settlement approved'. SWEPT but nothing fresh+on-topic: Teleread (latest Feb 2026, stale), Electric Literature AI tag (2016-2019, stale), Writer's Digest (no dated AI posts), Kindlepreneur (no dated blog), The Creative Penn (no recent AI), PW content-and-ebooks (AI narration Jul 14 STALE), Good e-Reader audiobooks/Kindle (Kindle AI Translate Jul 1 STALE; reTerminal AI display = gadget, no book craft hook). FETCH FAILURES: the-digital-reader.com (403), lithub.com tag (429), arstechnica.com / theverge.com / wired.com (blocked by fetcher), booksandpublishing.com.au/articles (404). Curator: items 1 & 2 are the strongest fresh craft/workflow picks; item 3 leans policy/ethics and is offered as a secondary option.",
   "items": [
     {
-      "title": "'Genius' novel sold in major six- and seven-figure deals at auction pulled over AI allegations",
-      "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
-      "source": "The Bookseller",
+      "title": "The Third Time is NOT the Charm: Who Will Own How AI Participates in Scholarship?",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-07-31T09:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/672/asd3.jpg",
-      "excerpt": "A crime novel that secured major six- and seven-figure deals in the US and UK has been withdrawn from sale after allegations that AI was used in its creation, with the agent pulling the book from circulation. A sharp real-world case of AI provenance and disclosure disrupting acquisition and editorial workflows in trade publishing."
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg",
+      "excerpt": "The authors argue scholarly publishers must collaboratively build the infrastructure standards for how AI participates in scholarship now, before technology companies own that layer the way they came to own digital aggregation and discovery. A concrete look at how the AI era is reshaping who controls scholarly and academic publishing workflows."
     },
     {
-      "title": "Tor Bramble backs H M Wolfe after AI-detection claims over Daggermouth",
-      "url": "https://www.thebookseller.com/news/tor-bramble-backs-h-m-wolfe-after-ai-detection-claims-over-daggermouth",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-31T10:30:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/637/H-M-Wolfe1.jpg",
-      "excerpt": "Publisher Tor Bramble publicly backed author H M Wolfe after her dystopian romance Daggermouth scored 60% on the AI-detection tool Pangram (as first reported by The Atlantic), spotlighting how unreliable AI detectors are becoming a live craft-and-trust problem for authors and editors. A concrete look at AI-detection tooling colliding with the writing and publishing process."
-    },
-    {
-      "title": "Researchers attempt to prove that generative AI dilutes the market for books",
-      "url": "https://janefriedman.com/researchers-attempt-to-prove-that-generative-ai-dilutes-the-market-for-books/",
+      "title": "New York Times journalist investigates origins of AI-generated nonfiction",
+      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
       "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-07-29T16:00:00Z",
+      "published_iso": "2026-07-22T14:00:00Z",
       "og_image": "",
-      "excerpt": "A new study tries to put empirical numbers on a fear authors have voiced for years: that the flood of generative-AI-written books measurably shrinks the market and attention available to human-authored work. A creative-industry counterpart to the AI-detection studies the beat already runs, framing how AI-generated output reshapes what gets read and sold."
+      "excerpt": "A New York Times investigation traces the mechanics of AI-generated nonfiction through a retiree who has self-published more than 450 AI-written books and earns modest print sales from them. A vivid case of how cheap automated book creation is reshaping what floods the market and how human authors compete."
     },
     {
-      "title": "Poetry Foundation Library Scraped, Used to Make AI-Generated Educational Content",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100955-poetry-foundation-library-scraped-used-to-make-ai-generated-educational-content.html",
-      "source": "Publishers Weekly",
+      "title": "'Clarity of Thought and Responsibility': Can the Pope Move the Needle on AI Regulation?",
+      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-30T10:00:00Z",
-      "og_image": "",
-      "excerpt": "Giggle Academy, a 'free learning' platform founded by Binance's CZ Zhao, scraped hundreds of copyrighted poems from the Poetry Foundation to auto-generate illustrated lessons and storybooks with no human curation. A concrete look at AI-generated creative/educational content at scale, and what fully-automated book-making does to poets and publishers."
+      "published_iso": "2026-07-31T09:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png",
+      "excerpt": "Publishing Perspectives reads Pope Leo XIV's encyclical on AI as one of the most cogent ethical frameworks yet for regulating the technology, arguing publishers should not treat AI as morally neutral and must push for human-centered oversight of tech monopolies. An emerging ethical/regulatory lens the publishing industry will have to navigate."
     }
   ]
 }

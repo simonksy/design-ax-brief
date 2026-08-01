@@ -1,42 +1,29 @@
-{
-  "date": "2026-08-01",
-  "section": "movies",
-  "now_iso": "2026-07-31T22:00:41Z",
-  "window_hours": 336,
-  "count": 5,
-  "note": "Section = movies (single 'movies' category), 14-day/336h window (start 2026-07-17T22:00:41Z). Every kept item's published time was extracted via WebFetch (og:published_time / JSON-LD datePublished / byline) and gated FRESH through pipeline/freshness.py 'movies'. FUNNEL WAS THIN this run and I could not reach a wide 24-32 pool: the in-window (Jul 18-31) movies x AI beat is dominated by SIGGRAPH 2026 tool announcements that were ALREADY carded in the 07-25..07-31 briefs (Autodesk Maya MotionMaker/3DGS, Foundry SmartRoto, Lightcraft Spark Story, Puget Robo Dojo, Beeble SwitchLight), and the genuinely-fresh non-SIGGRAPH items live almost entirely on paywalled trades. NEW this run (not in yesterday's candidates_movies.json): Vida Scene Search, HP Z Captis+Adobe digital twin, RedShark FrostFX. Carried (still in-window, strong, likely un-published): NVIDIA synthetic-video-detector (was a 07-31 candidate). Overlap flag: item 5 ProVideo 'future of filmmaking' is a Beeble SwitchLight hybrid-set piece and may collide with the already-carded 'Beeble SwitchLight AI relighting hybrid set' -- curator should dedup. Outlets: postPerspective x2, RedShark x2, ProVideo x1 (all <=3/outlet cap; only 3 distinct outlets -- diversity is below the >=6 goal because fresh fetchable sources are near-exhausted). CONFIRMED STALE and dropped (date-verified via WebFetch): nofilmschool Runway Gen-4.5 (Jan 22), Kling 3.0 (Feb 6), Adobe MotionStream (Apr 10), CapCut Seedance 2.0 (Mar 26), Netflix Inkubator (May 15), Imagen Video color grading (nofilmschool Apr 21 / postperspective Apr 22), redshark Avid+Google agentic AI (Apr 18), Beeble SwitchX (Mar 3), NVIDIA RTX Spark (Jun 2), engadget Google Video Remix (Jul 8), Tilly Norwood feature (Jul 6), Adobe Firefly audio/video (Oct 2025), engadget Prime Video AI dubbing (Mar 5 2025), postperspective Tether AE plugin (Jan 26), Digital Domain DDAI (May 28), redshark 'AI in post-production' (Dec 6 2024) & 'How AI transforms video production' (Jul 2023), 80.lv SALT (2022). BLOCKED/unverifiable (dropped per rules -- all redirect to tollbit.* returning HTTP 402/307, WebFetch cannot read published_time): genuinely-fresh Variety/Deadline/HR/IndieWire AI-film items incl. Reply AI Film Festival finalists+jury (~Jul 28, corroborated by businesswire URL 20260728 but article timestamp unverifiable), Bengaluru Short Film Festival AI 'Machine Made Movies' category, Deadline Christopher Nolan on AI slop, Variety Panjaya x Shortical AI dubbing, HR Aronofsky AI studio raise. The gstack browse skill (headless render fallback for JS/paywalled pages) crashed with exit 137 in this environment, so paywalled trades could not be rendered. AWN and cartoonbrew AI listings returned 403/no fresh in-window AI items. Social: movies category defines youtube_channels but no verifiable in-window AI upload surfaced; no instagram_handles defined (IG skipped).",
-  "items": [
-    {
-      "title": "Vida Scene Search: AI Scene-Level Search With No Manual Logging Required",
-      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-07-30T18:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vida-Scene-Search-624x416.jpg",
-      "excerpt": "Vida launched Scene Search, an offline AI-powered indexing tool inside Vida Content OS that lets editors and post teams search a video library at the scene level using natural language, with no manually logged metadata. A concrete craft shift for how film and TV post finds and reuses footage."
-    },
-    {
-      "title": "HP Z Captis + Adobe Substance 3D: Digital Twin Capture Built for Scale",
-      "url": "https://postperspective.com/hp-and-adobe-offer-digital-twin-capture-built-for-scale/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-07-22T13:45:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2-624x416.jpg",
-      "excerpt": "HP and Adobe updated the HP Z Captis capture system with faster speeds and deeper Adobe Substance 3D Sampler integration, running hybrid AI inference on NVIDIA Jetson AGX to build production-ready digital twins for VFX and virtual production. A look at how AI-accelerated asset capture feeds the film pipeline."
-    },
-    {
-      "title": "Why we chose it: Estonia's FrostFX on using AI as another creative tool in post",
-      "url": "https://www.redsharknews.com/vfx-frostfx-estonia",
-      "source": "RedShark News",
-      "category": "movies",
-      "published_iso": "2026-07-31T09:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/frostfx%20marko%20post.jpg",
-      "excerpt": "Estonian VFX studio FrostFX details a post pipeline that treats AI not as a replacement for artists but as a tool that removes repetitive technical work so artists spend more time on creative decisions. A grounded studio-level view of how an AI-assisted VFX workflow actually shifts the craft."
-    }
-  ],
-  "dedup": {
-    "dropped": 2,
-    "kept": 3,
-    "against_days": 5
+[
+  {
+    "title": "The Filmmakers at Wonder Dynamics Building AI for Filmmakers",
+    "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
+    "source": "No Film School",
+    "category": "movies",
+    "published_iso": "2026-07-30T00:00:00Z",
+    "og_image": "https://nofilmschool.com/media-library/wonder-dynamics.webp?id=67559520&width=1245&height=700&quality=50&coordinates=0%2C53%2C0%2C24",
+    "excerpt": "Wonder Dynamics co-founders Tye Sheridan and Nikola Todorovic discuss how their filmmaking backgrounds shaped Autodesk Flow Studio, an AI tool that transfers live-action performances onto CG characters while keeping artists in control and staying compatible with established VFX pipelines. A grounded look at AI-assisted performance-to-CG as a craft workflow, not a replacement."
+  },
+  {
+    "title": "Frame.io adds full-screen search and Comparison Viewer updates",
+    "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
+    "source": "RedShark News",
+    "category": "movies",
+    "published_iso": "2026-08-01T06:42:00Z",
+    "og_image": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg",
+    "excerpt": "Adobe's Frame.io rolls out a dedicated full-screen search page with a toggle between standard and AI-powered search, plus Comparison Viewer updates, letting editors and post teams find and review footage across projects faster. A concrete workflow shift for how film/TV review-and-approval teams navigate media."
+  },
+  {
+    "title": "Introducing Layers",
+    "url": "https://lumalabs.ai/news/introducing-layers",
+    "source": "Luma AI",
+    "category": "movies",
+    "published_iso": "2026-07-29T17:28:48Z",
+    "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+    "excerpt": "Luma AI launched Layers, giving creators precision editing and element-by-element control over any AI-generated image inside its filmmaking toolset, rather than re-rolling a whole prompt. A craft-level capability that pushes generative work toward the directed, revisable control filmmakers and previs artists expect."
   }
-}
+]

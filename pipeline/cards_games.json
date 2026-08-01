@@ -1,46 +1,25 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "games",
   "cards": [
     {
-      "id": "therelic",
+      "id": "steamdisclosure",
       "eyebrow": "AI NEWS",
-      "headline": "프리뷰 빌드 AI 의혹에\n디렉터가 선을 긋다",
-      "mini_headline": "AI는 콘셉트 단계뿐",
-      "body": "디렉터는 초기 콘셉트 단계의 로딩 화면과 소비 아이템 아이콘 일부에만 AI를 썼고 최종 게임엔 쓰지 않았다고 밝혔다.",
+      "headline": "게임에 쓴 생성형 AI는\n숨기지 말고 밝혀라",
+      "mini_headline": "AI 표기는 옳다",
+      "body": "개발자들은 게임에 쓴 생성형 AI를 스토어 페이지에 표기하도록 한 밸브의 방침을 지지한다고 밝혔다.",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/director-of-new-soulslike-says-no-ai-used-in-the-final-game-after-big-youtubers-sounded-the-alarm-over-a-recent-preview-build-2000720260",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "소울라이크 '더 렐릭: 퍼스트 가디언'의 프리뷰 빌드를 두고, 크리에이터들이 AI로 만든 것으로 의심되는 요소를 짚으며 경고음을 냈다." },
-          { "t": "img", "src": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg" },
-          { "t": "p", "x": "디렉터의 답은 이랬다. AI가 손댄 건 초기 콘셉트 단계뿐이며, 로딩 화면 콘셉트 몇 점과 소비 아이템 아이콘 정도라는 것이다. 최종 게임에는 그중 무엇도 들어가지 않았다고 못박았다." },
-          { "t": "p", "x": "스튜디오가 생성형 AI를 콘셉트·디자인 파이프라인에 실제로 어디까지 끌어들이는지, 그리고 그 경계를 정하는 공개 규범이 지금 어떤 모습으로 자리 잡아 가는지 엿보게 하는 사례다." }
-        ]
-      }
-    },
-    {
-      "id": "nexusmods",
-      "eyebrow": "AI NEWS",
-      "headline": "넥서스 모드, AI 자산\n공개를 의무화하다",
-      "mini_headline": "AI 자산 표기 의무화",
-      "body": "최대 PC 모딩 플랫폼 넥서스 모드가 AI로 만든 자산을 업로드할 때 반드시 표기하도록 정책을 조인다.",
-      "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "p", "x": "최대 규모의 PC 게임 모딩 플랫폼 넥서스 모드가 생성형 AI를 향한 정책의 나사를 조인다." },
-          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg" },
-          { "t": "p", "x": "이제 모더는 올리는 결과물에 AI로 생성한 자산을 제대로 표기해야 한다. AI '슬롭'과 씨름하는 플랫폼으로서, 모딩 커뮤니티의 작업과 표기 방식을 실질적으로 바꾸는 조치다." },
-          { "t": "p", "x": "다만 밀려드는 슬롭의 규모에 비하면 여전히 무른 대응이라는 평가도 함께 따라붙는다." }
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg" },
+          { "t": "p", "x": "생성형 AI가 들어간 게임은 스팀 스토어 페이지에 그 사실을 밝혀야 한다. 밸브가 내건 이 표기 의무를 두고, 정작 게임을 만드는 사람들이 옳은 방향이라며 손을 들어줬다." },
+          { "t": "p", "x": "개발자들은 게임에 실제로 담긴 생성형 AI라면 플레이어에게 알려야 한다고 말한다. 무엇으로 만든 게임인지, 살 사람에게는 알 권리가 있다는 것이다." },
+          { "t": "p", "x": "나아가 스팀만이 아니라 모든 스토어가 같은 규칙을 두었으면 한다는 바람도 이어졌다. 한 곳의 방침에 그치지 않고 업계의 기본선으로 자리 잡기를 바라는 셈이다." }
         ]
       }
     }

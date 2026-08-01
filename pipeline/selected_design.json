@@ -2,72 +2,73 @@
   "date": "2026-08-01",
   "section": "design",
   "selection_mode": "auto",
+  "generated_iso": "2026-08-01T22:00:36Z",
+  "count": 5,
   "picks": [
     {
-      "url": "https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/",
-      "title": "Google rolls back the needless AI generation tools it added to Google Earth",
-      "source": "Engadget",
-      "published_iso": "2026-07-31T19:08:23Z",
-      "og_image": "https://www.engadget.com/img/gallery/google-rolls-back-google-earth-image-generation/l-intro-1785524818.jpg",
-      "excerpt": "Days after adding its Nano Banana generative-image tools to Google Earth, Google is pulling them back following user backlash that AI-invented renderings degraded a trusted mapping/visualization product. A concrete signal on the limits of dropping generative image AI into spatial-design and place-based visualization workflows.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "A hard reversal after backlash — the strongest actionable signal on where generative image AI does and doesn't belong in spatial/place-based design; a genuine follow-up to the launch already covered, distinct URL and event."
-    },
-    {
-      "url": "https://www.creativebloq.com/art/digital-art-software/rebelle-8-3-proves-the-future-of-digital-painting-isnt-ai-its-making-brushes-feel-real",
-      "title": "Rebelle 8.3 proves the future of digital painting isn't AI, it's making brushes feel real",
-      "source": "Creative Bloq",
-      "published_iso": "2026-07-31T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mvo3TZvdBoXsZMkfVGT9TC-1497-80.jpg",
-      "excerpt": "Escape Motions' Rebelle 8.3 doubles down on physically realistic brush and watercolor simulation rather than generative AI, framing a deliberate craft-first counter-position in a design-tool market racing to bolt on AI. A useful read on where creative software is choosing simulation over generation.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "A concrete tool release staking a simulation-over-generation position — a credible craft-first counterpoint for tool choices; second render card, given a distinct accent (#7928ca)."
-    },
-    {
-      "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db",
-      "title": "Jakob's Law: how to apply it as AI collapses surfaces into one chat box",
-      "source": "UX Collective",
-      "published_iso": "2026-07-30T23:19:52Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*SpJMK3a6F5z94Lj-6uKzRQ.png",
-      "excerpt": "As AI collapses distinct app surfaces and screens into a single conversational chat box, this piece reworks Jakob's Law of familiarity for generative UI - what patterns designers must preserve so users still feel oriented when the interface itself is generated on the fly.",
+      "title": "A properties panel and annotations, now in Figma Make",
+      "url": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
+      "source": "Figma",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Reworks a foundational UX law for generative UI — directly changes how designers preserve orientation when interfaces are generated on the fly."
+      "published_iso": "2026-07-30T19:25:32Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/d1366af0a7f2c9945aa6a7a693f319518f22fc63-3840x2160.png",
+      "excerpt": "Figma Make adds a visual properties panel and annotations, letting designers edit AI-generated output directly and hand off intent to code without re-prompting. A real feature release tightening the design-to-code loop in Figma's AI builder.",
+      "rationale": "Concrete Figma Make feature release that changes the edit/handoff loop designers use tomorrow — highest actionability in the pool."
     },
     {
-      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e",
-      "title": "Rethinking friction in an AI world",
+      "title": "Perplexity diverges with color: building data color schemes with generative AI",
+      "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad",
       "source": "UX Collective",
-      "published_iso": "2026-07-30T22:33:37Z",
-      "og_image": "https://miro.medium.com/v2/da:true/resize:fit:862/0*awQhwQtyDfSv3nDp",
-      "excerpt": "A designer's argument that 'frictionless' is the wrong default once AI can do almost anything instantly - reframing where intentional friction should be added back into AI-driven products to keep users in control, and how that reshapes the design process.",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-08-01T02:47:35Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*2Uyw7GVZYWxyrQo80EZtYA.png",
+      "excerpt": "A hands-on look at using generative AI (via Perplexity) to construct diverging data-visualization color schemes and palette tokens. A concrete workflow for folding AI into the systematic, accessibility-sensitive craft of color-system design.",
+      "rationale": "Hands-on, reproducible method for generating accessible color-scheme tokens with AI — actionable craft, and adds category diversity beyond workflow."
+    },
+    {
+      "title": "From Tinder and Reddit to Amazon, unwanted AI images are freaking people out",
+      "url": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for",
+      "source": "Creative Bloq",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Challenges the frictionless default and argues where to add intentional friction back into AI products — an actionable reframe for everyday product-design decisions."
+      "published_iso": "2026-08-01T12:08:46Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/WXgEEFXG8UBjSLSnk2RFD8-2000-80.jpg",
+      "excerpt": "Across Amazon, Tinder and Reddit, products are now silently generating or editing users' photos with AI by default, with opt-out left to the user. A pointed product-design and UX-consent lesson as generative image AI gets pushed into mainstream interfaces without asking.",
+      "rationale": "A sharp product-design/consent case study on default-on generative AI across major apps — a UX-ethics signal designers should weigh in their own patterns."
+    },
+    {
+      "title": "AI fluency isn't the finish line",
+      "url": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
+      "source": "Figma",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "published_iso": "2026-07-31T21:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/b437cd59cfe0bda60b9a33da411e38252b56dbd1-1682x918.png",
+      "excerpt": "Ninety percent of product builders call AI skills essential, but Figma argues teams are optimizing for the wrong ones and reframes what design craft means past basic tool fluency. A pointed take on how AI is reshaping the skills a design org actually needs.",
+      "rationale": "Credible Figma-authored reframing of which AI-era design skills actually matter — shapes how teams train and hire, backed by survey data."
+    },
+    {
+      "title": "Creative technologists are moving from the margins to the center",
+      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6",
+      "source": "UX Collective",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "published_iso": "2026-08-01T02:44:36Z",
+      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.65/1*_ljUGVuohH1v0usJ-TpBCQ.png",
+      "excerpt": "Once a fringe job title, creative technology is becoming a core capability inside modern product teams as AI collapses the gap between design and code. Argues the designer-who-builds is shifting from novelty to default operating model for AI-era design orgs.",
+      "rationale": "Frames the designer-who-builds as the new default operating model — a role-shift insight for how design teams staff and structure around AI."
     }
-  ],
-  "dedup": {
-    "pool_size": 5,
-    "kept": 4,
-    "dropped": 1,
-    "checked_against": "sections.design — today (2026-07-31, 4 cards: nanobanana-earth, shieldfont-poison-ai, bull-bear-design-ai, get-out-of-their-way) + days 2026-07-26 through 07-30 (all published cards)",
-    "notes": [
-      "Engadget 'Google rolls back... Google Earth' checked against published 'nanobanana-earth' (Nano Banana COMES to Google Earth): distinct URL (2228142 vs 2226451) and a distinct later event (the backlash rollback vs the launch) — kept as a genuine follow-up, not a re-report.",
-      "Remaining candidates verified against full design history by URL and content: none previously ran.",
-      "Dropped 1 to the diversity guard: UX Collective supplied 3 candidates but the >=2/outlet cap allows only 2; 'Battling AI fatigue as a designer and developer' was the lowest-value UX Collective piece and no other outlet exists to backfill from.",
-      "Final 4: 3 distinct outlets (Engadget, Creative Bloq, UX Collective), categories render/render/figma/workflow (2 render within the 1-2 cap, second render given distinct accent #7928ca), UX Collective held to 2 cards.",
-      "WIDE-funnel run yielded only 3 viable outlets; the guard caps the count at 4 (above floor 3) — not padded, and a 5th would force 3 UX Collective cards."
-    ],
-    "below_target": false
-  }
+  ]
 }

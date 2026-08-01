@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "science",
   "cards": [
     {
-      "id": "blue-oled",
+      "id": "ai-telescope-stargazing",
       "eyebrow": "AI NEWS",
-      "headline": "양자화학과 AI로 찾은\n고순도 파란빛 OLED 소재",
-      "body": "나고야대 연구진이 양자화학 시뮬레이션과 기계학습을 결합해 붕소 없이 선명한 청색광을 내는 분자를 설계했다.",
-      "mini_headline": "AI가 찾은 청색 OLED",
+      "headline": "실시간으로 하늘을 살피며\n스스로 관측하는 AI 망원경",
+      "body": "노스웨스턴대 연구진의 강화학습 AI가 날씨와 하늘 상태에 맞춰 다크에너지카메라의 관측 일정을 스스로 짠다.",
+      "mini_headline": "밤하늘 살피는 AI 망원경",
       "tool": "Science",
-      "source": "Phys.org (Nagoya University)",
-      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
+      "source": "Phys.org (Northwestern University)",
+      "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -18,32 +18,32 @@
         "blocks": [
           {
             "t": "p",
-            "x": "선명한 파란빛은 오랫동안 OLED 디스플레이의 숙제였다. 붉은빛이나 초록빛에 비해 청색은 효율과 색순도를 함께 잡기가 까다로웠기 때문이다. 나고야대 연구진은 이 문제를 양자화학 시뮬레이션과 기계학습을 나란히 쓰는 방식으로 풀었다."
+            "x": "밤하늘을 관측할 때 무엇을, 언제, 어느 방향으로 볼지 정하는 일은 그동안 사람의 몫이었다. 노스웨스턴대와 시카고대, 페르미연구소가 함께한 이번 연구는 그 판단을 강화학습 AI에게 맡겼다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg"
           },
           {
             "t": "p",
-            "x": "핵심은 붕소를 쓰지 않고도 높은 색순도의 청색을 내는 분자를 새로 설계한 데 있다. 양자화학 계산으로 분자의 발광 성질을 예측하고, 기계학습이 방대한 후보 물질 가운데 유망한 구조를 빠르게 좁혀 나갔다."
+            "x": "AI는 다크에너지카메라의 관측 일정을 스스로 세운다. 하늘 상태와 날씨가 시시각각 달라지면 계획도 실시간으로 고쳐 잡는다. 사람이 일일이 조정하지 않아도 상황에 맞춰 다음 관측을 이어가는 방식이다."
           },
           {
             "t": "p",
-            "x": "이렇게 하면 하나하나 실험으로 확인하던 탐색 과정이 크게 짧아진다. 연구진은 이 방법이 차세대 디스플레이 소재는 물론, 새로운 기능성 물질을 찾는 여러 분야로도 이어질 수 있다고 봤다."
+            "x": "연구진은 이 AI의 성능이 숙련된 사람 일정 담당자와 견줄 만하다고 평가했다. 스스로 돌아가는 천문대로 가는 길에 놓인 하나의 이정표이자, AI가 관측천문학을 직접 밀어 올린 사례인 셈이다."
           }
         ]
       }
     },
     {
-      "id": "goflow",
+      "id": "ai-agent-synchrotron",
       "eyebrow": "AI NEWS",
-      "headline": "위성 영상에서 숨은\n바다 표층 해류를 읽는 AI",
-      "body": "텔아비브대의 GOFLOW는 위성 영상만으로 그동안 볼 수 없던 바다 표층 해류를 복원해 기후 예측의 입력값을 넓힌다.",
-      "mini_headline": "해류 읽는 GOFLOW",
+      "headline": "싱크로트론 실험을 스스로\n준비하는 AI 에이전트",
+      "body": "스탠퍼드·SLAC의 AI 에이전트가 검출기 영상과 실험 기록을 읽고 장비를 제어해 결정 시료를 스스로 정렬한다.",
+      "mini_headline": "실험 준비하는 AI 조수",
       "tool": "Science",
-      "source": "Tech Xplore (Tel Aviv University)",
-      "url": "https://techxplore.com/news/2026-07-ai-powered-unprecedented-insight-earth.html",
+      "source": "Phys.org (Stanford / SLAC)",
+      "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -51,32 +51,32 @@
         "blocks": [
           {
             "t": "p",
-            "x": "바다 표면의 흐름은 지구 기후를 움직이는 큰 힘이지만, 그동안 관측만으로는 온전히 들여다보기 어려웠다. 텔아비브대 연구진이 내놓은 GOFLOW는 이 숨은 흐름을 위성 영상에서 직접 복원하는 AI 시스템이다."
+            "x": "싱크로트론 X선 빔라인에서 실험을 시작하려면 결정 시료를 정확히 맞춰 놓는 준비 작업이 먼저다. 손이 많이 가는 이 과정을 스탠퍼드대와 SLAC 연구진이 AI 에이전트에게 맡겼다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg"
           },
           {
             "t": "p",
-            "x": "GOFLOW는 이미 쌓여 있는 위성 이미지를 학습해, 그 안에 담긴 바다 표층 해류의 움직임을 끌어낸다. 지금껏 접근하기 힘들었던 역학 정보를 새로운 관측 없이 기존 자료에서 뽑아낸다는 점이 특징이다."
+            "x": "에이전트는 검출기 영상과 실험 기록, 스캔 결과를 스스로 읽는다. 그렇게 얻은 정보를 바탕으로 장비를 제어하는 명령을 직접 내려, 사람의 개입 없이 시료를 정렬한다."
           },
           {
             "t": "p",
-            "x": "연구진은 이렇게 되살린 흐름 정보가 기후 예측의 입력값을 한층 정교하게 만든다고 설명했다. 관측을 더 늘리지 않고도, 이미 가진 데이터로 지구 기후를 더 깊이 이해할 길을 연 셈이다."
+            "x": "연구진은 이 방식이 반복적인 준비에서 과학자를 풀어 준다고 봤다. 스스로 굴러가는 실험 시설, 이른바 자율 운영으로 나아가는 한 걸음이다."
           }
         ]
       }
     },
     {
-      "id": "material-rules",
+      "id": "brain-age-sleep-eeg",
       "eyebrow": "AI NEWS",
-      "headline": "미시 데이터에서 찾아낸\n물질의 숨은 거동 법칙",
-      "body": "싱가포르국립대 연구진이 미시 데이터 속 숨은 변수를 찾아내 물질의 대규모 거동을 예측하고 계산 비용을 줄였다.",
-      "mini_headline": "숨은 변수 찾는 AI",
+      "headline": "수면 뇌파로 잰 뇌 나이가\n치매 위험을 앞서 짚는다",
+      "body": "UCSF 연구진이 성인 약 7천 명의 수면 뇌파로 뇌 나이를 추정하니, 실제보다 늙은 뇌는 치매 위험이 크게 높았다.",
+      "mini_headline": "수면 뇌파로 읽는 뇌 나이",
       "tool": "Science",
-      "source": "Tech Xplore (National University of Singapore)",
-      "url": "https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html",
+      "source": "ScienceDaily (UC San Francisco)",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -84,19 +84,15 @@
         "blocks": [
           {
             "t": "p",
-            "x": "작은 단위의 움직임에서 물질 전체의 거동을 예측하는 일은 늘 막대한 계산을 요구했다. 싱가포르국립대 연구진은 이 간극을 메우는 기계학습 방법을 새로 만들었다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg"
+            "x": "잠자는 동안 기록되는 뇌파에는 뇌의 상태가 고스란히 담긴다. UCSF 연구진은 성인 약 7천 명의 밤샘 수면 뇌파를 기계학습으로 분석해, 각 사람의 '뇌 나이'를 추정했다."
           },
           {
             "t": "p",
-            "x": "핵심은 미시 데이터 안에 숨어 있는 변수를 찾아내는 데 있다. 이 숨은 변수는 물질이 집단적으로 어떻게 움직이는지를 압축해 담아낸다. 덕분에 대규모 거동을 예측하면서도 계산 비용을 크게 덜 수 있었다."
+            "x": "핵심은 이 뇌 나이와 실제 나이의 차이였다. 실제 나이보다 뇌가 더 늙었다고 나온 사람들은 이후 치매에 걸릴 위험이 뚜렷하게 높았다."
           },
           {
             "t": "p",
-            "x": "연구진은 이 방법이 물질이 시간에 따라 어떻게 변하는지 내다보는 데 쓰일 수 있다고 봤다. 에너지와 제조처럼 물질의 변화를 다뤄야 하는 분야에 폭넓게 닿을 수 있는 성과다."
+            "x": "평범한 수면 검사 데이터가 신경계 변화를 일찍 읽어 내는 지표가 될 수 있다는 이야기다. 연구진은 이 AI 바이오마커가 치매를 앞서 살피는 실마리가 되리라 기대했다."
           }
         ]
       }

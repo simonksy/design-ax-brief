@@ -1,31 +1,49 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "section": "games",
-  "now_iso": "2026-07-31T22:00:41Z",
+  "now_iso": "2026-08-01T22:00:36Z",
   "window_hours": 336,
   "count": 6,
-  "note": "WIDE funnel restricted to the games category's allowed_domains (site-scoped WebSearch, then per-article published-time verification via curl on article:published_time / JSON-LD datePublished, gated deterministically through pipeline/freshness.py at the 336h/14-day games window; window start 2026-07-17T22:00:41Z). NOTE: gamesindustry.biz, ign.com, eurogamer.net, vg247.com are NOT crawlable by our user agent (400) -- swept the remaining allowed_domains instead. Games x AI news remains GENUINELY THIN this fortnight: the overwhelming majority of extractable game-AI stories re-gated STALE. Confirmed-STALE-and-dropped (date-verified via curl): pcgamer Google-DeepMind-720p-world (2025-08-06), pcgamer Nvidia-Audio2Face-open-source (2025-09-24), pcgamer Hassabis-full-circle (2025-08-13), pcgamer Summer-Game-Fest-AI (2026-06-03), pcgamer once-again-dev-apologizes (2026-06-10), pcgamer Genie-prototype-investors (2026-01-31); gamedeveloper Google-putrid-vision (Genie 2, 2024-12-06), gamedeveloper Keywords-FAQ-translation (2024-07-18), gamedeveloper GameMaker-Claude-Code (2026-04-30), gamedeveloper genAI-declining (2026-03-06); 80.lv Epic-veteran-AI-engine (2026-05-14), 80.lv Nwiro-AI-Pro (2026-05-28), 80.lv Tripo-CEO (2026-04-10), 80.lv Nwiro-integration-kit (2026-06-04), 80.lv Rodin-Gen-2.5 (2026-06-03), 80.lv Cascadeur-2026.1 (2026-04-09), 80.lv GTA-V-AI-mod (2023-08-10), 80.lv UE5.8-MetaHuman-crowds (2026-06-18); wccftech Fortnite-UEFN-AI-NPC (2026-04-19), wccftech Valve-Wolpaw-AI (2026-03-25); gamesradar devs-dont-buy-Steam-disclosure (2026-07-09, just outside 14d); kotaku people-cloning-indie-games-AI (2026-07-15, just outside 14d). CROSS-SECTION DEDUP: the 80.lv 'game-ai-expert-explains-where-ai-actually-belongs' Luke Dicken Q&A (2026-07-29, FRESH) was DROPPED again to avoid the design-deck card-id/media collision flagged in the keywords note; kept the DISTINCT gamesradar Luke Dicken 'culture war' piece (different URL/outlet) as the games-native option -- final content dedup left to curator. DROPPED for near-zero design-relevance: kotaku Ludwig-FMV-AI-slop (2026-07-31, FRESH but pure culture/slop, no craft/tool/workflow hook). Net: 6 FRESH, on-topic, distinct items across 5 distinct outlets (80.lv, GamesRadar+, PC Gamer, Kotaku, Game Developer); PC Gamer at 2 (<=3 collection cap). Below an abundant funnel because the section's fresh (last-14-day) game x AI news is genuinely sparse, not for lack of searching -- swept procedural-gen, PCG, playtesting/QA, neural engine, level design, NPC dialogue, Unreal/Unity/MetaHuman, Inworld/Convai/ElevenLabs/NVIDIA ACE, animation (Cascadeur), voice acting/SAG-AFTRA, localization (Deepdub/Keywords), Genie/world-models (Decart/Odyssey/World Labs/Muse), Roblox Cube, Krafton/Nexon/EA/Ubisoft, gamescom, plus Korean-language and YouTube (Two Minute Papers / Unreal / Inworld) passes. YouTube social: no in-window verifiable upload surfaced through allowed_domains WebSearch; Instagram not defined for games (skipped).",
+  "note": "WIDE funnel restricted to the games category's allowed_domains (site-scoped WebSearch, then per-article published-time verification via curl on article:published_time / JSON-LD datePublished, gated deterministically through pipeline/freshness.py at the 336h/14-day games window; window start 2026-07-18T22:00:36Z). NOT crawlable by our user agent (400 on WebSearch): gamesindustry.biz, ign.com, eurogamer.net, polygon.com, rockpapershotgun.com, vg247.com -- swept the remaining allowed_domains instead. VentureBeat is behind a Vercel bot checkpoint (429) so its world-model items (Yoroll engine-less platform, Google world-model bet, Convai x Unity) could NOT be date-verified and were DROPPED rather than guessed. Games x AI news is GENUINELY THIN this fortnight: the large majority of extractable game-AI stories re-gated STALE. Confirmed-STALE-and-dropped (date-verified via curl): pcgamer Genie-prototype-investors (2026-01-31), pcgamer PC-ports-vibe-coding (2026-07-09), pcgamer major-investor-shocked (2026-03-14), pcgamer Capcom-no-AI-assets (2026-03-23), pcgamer Steam-disclosure-update (2026-01-16), pcgamer once-again-dev-apologizes (2026-06-10), pcgamer Hassabis (2025-08-13), pcgamer Nvidia-Audio2Face-opensource (2025-09-24), pcgamer Veo3 (2025-07-03), pcgamer DeepMind-720p-world (2025-08-06), pcgamer GPT-4o-NPCs (2026-02-19), pcgamer SummerGameFest-AI (2026-06-03), pcgamer Steam-week-120-disclosures (2026-06-15), pcgamer Steam-week-capsule-slop (2026-06-22); gamesradar Steam-53k-study (2026-07-15), gamesradar devs-dont-buy-disclosure (2026-07-09), gamesradar Xbox-floodgates (2025-02-19), gamesradar Valve-softens (2026-01-20), gamesradar Sweeney-blasts-Valve (2026-06-29); gamedeveloper Ubisoft-Teammates (2025-11-21), gamedeveloper GameMaker-ClaudeCode (2026-04-30), gamedeveloper genAI-declining (2026-03-06), gamedeveloper Owlcat-Expanse (2026-03-27), gamedeveloper one-third-genAI (2026-02-03), gamedeveloper Unity-prompt-games (2026-02-16), gamedeveloper PlayStation-powerful-tool (2026-05-08), gamedeveloper Take-Two-Genie (2026-02-04), gamedeveloper Google-Cloud-vision (2026-03-11), gamedeveloper Godot-AI-slop (2026-02-20), gamedeveloper Square-Enix-QA (2025-11-06), gamedeveloper devs-not-warming (2025-01-22), gamedeveloper GameMaker-inevitable (2026-05-01), gamedeveloper Google-putrid-vision (2024-12-06); 80.lv GameMaker-spring (2026-04-30), 80.lv UE5.8-MetaHuman-crowds (2026-06-18), 80.lv Steam-clarified-rules (2026-01-19); kotaku Next-Unreal-genAI (2026-06-17), kotaku AI-clones-indie (2026-07-15, just outside 14d), kotaku NVIDIA-Convai-demo (2024-01-19), kotaku Villion-Code (2026-01-28); wccftech Fortnite-UEFN-AI-NPC (2026-04-19), wccftech Sony-embrace-AI (2026-05-08), wccftech Unity-2026-report (2026-03-09), wccftech Google-Genie-not-for-games (2026-03-11), wccftech Unity-authoring (2026-02-16); developer.nvidia.com ACE-Game-Agent-SDK (2026-06-16), Audio2Face-opensource (2025-09-24), In-Game-Inferencing-SDK (2025-02-20); gamingbolt Fable-no-genAI (2026-06-12), PlayStation-synthetic-assets (2026-07-06); aftermath vibe-coding-demoralizing (2025-04-07), the-alters (2025-06-30). RESTED per keywords note (published in sections.games last 2 days -- deliberately excluded): The Relic AI-concept controversy (Kotaku) and Nexus Mods AI-asset disclosure (PC Gamer). YouTube social: WebSearch budget for this parallel run was exhausted (200/200 shared across librarians) before a YouTube pass could verify an in-window upload; none contributed. Instagram not defined for games (skipped). Net: 6 FRESH, on-topic, distinct items across 4 distinct outlets (GamesRadar+ x3 at the <=3 collection cap, 80 Level, Aftermath, PC Gamer). Below an abundant funnel because the section's fresh (last-14-day) game x AI news is genuinely sparse AND WebSearch budget ran out mid-sweep -- not for lack of trying; date-verified ~55 candidate URLs. Design-relevance: Meshy 3D Agent is a concrete craft/tool release; the GamesRadar indie-devs piece is a workflow/craft story; the rest are adoption/disclosure context with a lighter craft hook.",
   "items": [
     {
-      "title": "Meshy Wants AI for 3D Creation to Feel More Like a Creative Partner",
+      "title": "Meshy wants AI for 3D creation to feel less like a prompt and more like a creative partner",
       "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
       "source": "80 Level",
       "category": "games",
       "published_iso": "2026-07-21T15:00:00Z",
       "og_image": "https://cdn.80.lv/api/upload/meta/49153/images/6a4d6809c69e0/contain_1200x630.png",
-      "excerpt": "Meshy has opened its conversational 3D Agent to all users -- a multi-step AI built specifically for 3D creation that keeps context across a chat so game artists can brainstorm, batch-generate related asset families, and convert concepts into textured, riggable models inside one workflow, positioning generative 3D as a creative collaborator rather than a one-shot prompt."
+      "excerpt": "Rather than a one-shot generator, Meshy's new conversational 3D Agent keeps context across a chat so game artists can brainstorm, iterate, and batch-build style-consistent asset families before exporting production-ready, riggable models into existing pipelines -- positioning generative 3D as a creative collaborator rather than a prompt box."
     },
     {
-      "title": "The Relic: First Guardian director confirms AI use after YouTubers sound the alarm over a preview build",
-      "url": "https://kotaku.com/director-of-new-soulslike-says-no-ai-used-in-the-final-game-after-big-youtubers-sounded-the-alarm-over-a-recent-preview-build-2000720260",
-      "source": "Kotaku",
+      "title": "\"It creates lesser games\": indie studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
+      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-07-30T19:15:26Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg",
-      "excerpt": "After creators flagged suspected AI content in a preview build of Soulslike The Relic: First Guardian, the director says AI touched only the early concept stage -- a few loading-screen concept pieces and consumable icons -- with none in the final game. A window into how studios are actually folding generative AI into the concept/design pipeline and the disclosure norms that now shape it."
+      "published_iso": "2026-07-19T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+      "excerpt": "GamesRadar interviewed 25 indie studios about why they keep generative AI out of their pipelines. The recurring verdict: it makes 'lesser games,' is slower to fix, and often ends up more expensive than doing the craft by hand -- a ground-level look at how designers weigh the tool against their workflow."
     },
     {
-      "title": "Steam Week in Review: more than half of new Steam games could carry an AI disclosure by 2027-2028",
+      "title": "\"Steam's required AI disclosure is the right move\": devs say gen AI should be called out in games",
+      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-21T20:21:08Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
+      "excerpt": "Developers back Valve's mandate requiring generative-AI content to be disclosed on Steam store pages, saying gen AI shipped in a game should be flagged to players and wishing every storefront would adopt the same rule."
+    },
+    {
+      "title": "All the video game studios that refuse to use generative AI",
+      "url": "https://aftermath.site/video-games-no-ai/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-07-29T18:24:46Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg",
+      "excerpt": "A running catalog of the game studios publicly pledging to keep generative AI out of their development and art pipelines, spotlighting how a segment of the industry is defining craft and creative process against AI adoption."
+    },
+    {
+      "title": "Steam Week in Review: more than half of Steam games could carry an AI disclosure by 2027-2028",
       "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
       "source": "PC Gamer",
       "category": "games",
@@ -34,27 +52,13 @@
       "excerpt": "Steam AI-disclosure rates have climbed from 10.9% of releases in 2024 to 30.8% so far in 2026; on trend, over half of new Steam games could be AI-flagged by 2027-2028 -- a concrete measure of how fast generative AI is being folded into game production. Weaker craft hook (an adoption stat), included as funnel context."
     },
     {
+      "title": "Games-AI veteran: the tech can be useful, but a couple of companies 'ignited a culture war'",
+      "url": "https://www.gamesradar.com/games/a-couple-of-companies-have-managed-to-ignite-a-culture-war-and-bring-the-economy-to-the-brink-of-collapse-games-ai-veteran-says-it-can-be-useful-but-weve-made-mountains-out-of-chatgpts-molehills/",
+      "source": "GamesRadar+",
       "category": "games",
-      "title": "Nexus Mods finally tightens the screws on AI — though it's still playing softball with the tide of slop",
-      "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
-      "source": "PC Gamer",
-      "published_iso": "2026-07-31T15:46:26Z",
-      "excerpt": "The largest PC game modding platform is toughening its policy on generative AI, now requiring modders to properly disclose AI-generated assets in their uploads — a workflow/craft shift for the modding community as the platform grapples with AI 'slop'.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg"
-    },
-    {
-      "category": "games",
-      "title": "All The Video Game Studios That Refuse To Use Generative AI",
-      "url": "https://aftermath.site/video-games-no-ai/",
-      "source": "Aftermath",
-      "published_iso": "2026-07-29T18:24:46Z",
-      "excerpt": "A running catalog of game studios publicly pledging to keep generative AI out of their development and art pipelines, spotlighting how a segment of the industry is defining craft and creative process against AI adoption.",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg"
+      "published_iso": "2026-07-30T20:01:40Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/n5ePDh9VeKLrM8XNBwZ4YX-1920-80.jpg",
+      "excerpt": "A veteran of game AI argues the tech can be genuinely useful for developers, but that a handful of companies have 'ignited a culture war' and blown ChatGPT's actual capabilities out of proportion -- a temperature check on where AI realistically fits in game craft."
     }
-  ],
-  "dedup": {
-    "dropped": 3,
-    "kept": 3,
-    "against_days": 5
-  }
+  ]
 }

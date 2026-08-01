@@ -1,21 +1,11 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "music",
   "media": [
     {
-      "id": "lyria-35",
+      "id": "soundboost",
       "type": "image",
-      "src": "pipeline/media/lyria-35.jpg"
-    },
-    {
-      "id": "karst",
-      "type": "image",
-      "src": "pipeline/media/karst.png"
-    },
-    {
-      "id": "silt",
-      "type": "image",
-      "src": "pipeline/media/silt.jpg"
+      "src": "pipeline/media/soundboost.jpg"
     }
   ]
 }

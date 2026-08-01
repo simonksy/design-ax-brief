@@ -1,37 +1,34 @@
 {
   "date": "2026-08-01",
   "section": "music",
-  "now_iso": "2026-07-31T22:00:41Z",
+  "now_iso": "2026-08-01T22:00:36Z",
   "window_hours": 336,
   "count": 3,
-  "note": "WIDE-funnel sweep of the single 'music' category, restricted to its allowed_domains. Music window = 14 days / 336h (start ~2026-07-17T22:00Z); every kept item date-verified FRESH via `python3 pipeline/freshness.py <iso> 2026-07-31T22:00:41Z music` against the article's real published date (og/JSON-LD or the URL's dated slug on Synthtopia). theverge.com is blocked to our user agent and was skipped throughout. Genuinely sparse fresh window for NEW music-AI items: yesterday's run (07-31) already scooped the strongest still-fresh stories (Google Flow Music 07-29, Vochlea DubBox 07-28, ToneField 07-21, Ocean Swift Dev Ocean 07-17), so those were deliberately NOT re-collected to respect the rotation/dedup plan. Today's only NEW strong AI item is Google Lyria 3.5. Two Synthtopia generative-instrument items round out the pool via the section's core 'generative music' keyword (verified generative but not ML-based; kept as on-topic generative-music craft tools, same practice as yesterday's ToneField/Dev Ocean).\n\nKEYWORD EXPANSION USED (beyond keywords_music.json): swept MusicLM/Lyria RealTime, Riffusion, AI-in-Ableton (ChatDSP/Melosurf/Jamu), AI-in-Logic, Stable Audio/ElevenLabs, Suno/Udio stems+Song-Editor, AI DJ (Algoriddim/Serato/rekordbox/djay Pro 5), AI music video, AI songwriting (Kestrel Write), real-time AI music, SoundBoost natural-language mastering, WAVS/Acon AI plugins, YouTube AI voice-cloning, Korean 'AI 음악 생성/작곡', plus index/tag sweeps of synthtopia (artificial-intelligence tag), musictech gear, gearnews tech zone, bedroomproducersblog. Nearly every covering article date-verified STALE (outside 14d): Lyria 3/3 Pro (Feb/Mar), Suno v5.5 (Mar 27), Suno AI Song Editor (Jun 4 '25), ChatDSP (Mar 11), Jamu (Mar 10), Melosurf (Nov 2025), AI-prompts-to-plugins (Jun 26), Session42 HitCraft (Aug 2024), UMG x Splice (Dec 2025), UMG x Stability (Oct 2025), Tamber (May 19), Melodio/Kunlun (Aug 2024), Stability Audio 3.0 (May 20), ElevenLabs Music v2 (May 27), WAVS Sample Finder (Sep 2025), Acon Remix:Drums (Jul 11 '25), YouTube voice-cloning pilot (Nov 2023), Audacity Intel AI (Feb 2024).\n\nFRESH-but-DROPPED for relevance (business/legal/trend, no design-workflow hook): GEMA vs Suno Munich ruling (gearnews, Jul 31 - legal); IFPI/labels AI chart-eligibility rollout + AI-labeling (MBW/gearnews - policy); TechCrunch 'Deezer >50% daily uploads AI-generated' (Jul 21 - industry stat); DMN 'AI Agents Automating Music Companies' (Jul 29 - org automation); DMN 'AI Music: Coming of Age' + 'Can Google Build the All-in-One AI Studio?' (Jul 28/29 - opinion/analysis, topic-dup of already-served Google Flow).\n\nCOULD-NOT-VERIFY (dropped per rule): DMN 'SoundBoost natural-language mastering' (slug /2026/07/30/, a genuinely fresh AI-mastering tool) - digitalmusicnews.com returns HTTP 403 to WebFetch so the real published time could not be confirmed, and no on-list domain corroborated it. Social (YouTube: Benn Jordan / Venus Theory / Udio) - watch pages are JS-rendered and WebFetch returns only footer; no render/browse tool available, so no uploadDate could be verified. Music defines no instagram_handles; IG skipped. Per the social rule, unverifiable social contributes zero rather than blocking the run. Outlet diversity is only 2 domains (MBW x1, Synthtopia x2, within the 3/outlet cap) because the NEW-item window is genuinely thin after yesterday's scoop.",
+  "note": "WIDE-funnel sweep of the single 'music' category, restricted to its allowed_domains. Music window = 14 days / 336h (start ~2026-07-18T22:00Z). Every kept item is date-verified FRESH via `python3 pipeline/freshness.py <iso> 2026-08-01T22:00:36Z music` against the article's REAL published time (og article:published_time / JSON-LD datePublished pulled by curl; WebFetch returned HTTP 403 on all digitalmusicnews.com pages, so DMN dates+og were confirmed via curl instead). DEDUP: the 08-01 music brief already carded Google Lyria 3.5 (MBW), Tim Exile Karst + Tunary SILT (Synthtopia) — all three deliberately EXCLUDED here as recent dups. theverge.com is blocked to our user agent; pitchfork.com is blocked; billboard.com redirects to a tollbit paywall proxy — all skipped.\n\nHONEST SHORTFALL: only 3 fresh, non-dup, design-relevant candidates surfaced (target 5). The new-item window is genuinely thin — nearly every strong AI-music tool/model story date-verified STALE (outside 14d): Suno v5.5 + MILO-1080 + Studio (Mar/Jan), Stable Audio 3.0 (May 20), ElevenLabs Music Marketplace (Mar 23), Lyria 3/3 Pro + Google ProducerAI (Feb/Mar), Roland Melody Flip (Mar 18) + Project Lydia Ph2 (May 8) + Melo-D AI guitar (Jun 10), Klang.io Transcription Studio (Mar 23), FL Studio 2026 / Gopher agentic AI (Jul 9-10), VirtualDJ 2026 (Dec 2025), Jamu Ableton co-producer (Mar 10), Claude-in-Ableton (May 4), Songscription (Nov 2025), Vocalist AI (Apr 2024), YouTube Music AI playlists (Feb 16), GEMA PLAI dataset (Jul 24 - but data-licensing, not a design tool), OpenAI music-tool report (Oct 2025). Synthtopia's only fresh 'AI/generative' items were Karst/SILT (already carded) and ToneField (verified NON-ML). WebSearch budget (200) was exhausted mid-run by the parallel librarians, so late passes relied on curl scrapes of listing pages (musictech, gearnews, cdm, hypebot, synthtopia AI-tag, bedroomproducersblog, attackmagazine, djmag/mixmag tech, rollingstone/engadget/billboard AI tags).\n\nFRESH-but-DROPPED for relevance (business/legal/policy/trend, no design-workflow hook): GEMA vs Suno Munich ruling (Jul 31, legal); labels+indies AI chart standards / Spotify won't label AI (Jul 28-30, policy); DMN 'music industry new infrastructure' (Jul 22, infra); DMN 'AI Music: Coming of Age' (Jul 28, opinion/trend AND topic-dups the kept Google Flow item); Weird Al AI commercial (Jul 2, stale + controversy). Social (YouTube: Andrew Huang / ElevenLabs / Suno / Benn Jordan) — watch pages are JS-rendered and WebFetch returned only page chrome; no render/browse tool available to verify uploadDate, so per the social rule they contribute zero rather than block the run. Music defines no instagram_handles; IG skipped. Outlet diversity is only 2 domains (DMN x2 within the 3/outlet cap, MusicRadar x1) — a consequence of the thin new-item window after the 08-01 scoop, not lack of sweeping.",
   "items": [
     {
-      "title": "Watch out, Suno: Google upgrades Lyria AI music model with 'more realistic and emotionally nuanced vocals'",
-      "url": "https://www.musicbusinessworldwide.com/watch-out-suno-google-has-upgraded-lyria/",
-      "source": "Music Business Worldwide",
+      "url": "https://www.digitalmusicnews.com/2026/07/30/soundboost-natural-language-music-mastering-mixing/",
+      "source": "Digital Music News",
       "category": "music",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Google has launched Lyria 3.5, its upgraded AI music-generation model, inside Google Flow Music. DeepMind says the model brings 'significant advancements across musicality, lyrics and vocal quality', with more realistic, emotionally nuanced vocals, improved pronunciation and richer, more natural melodic structures."
+      "published_iso": "2026-07-30T21:00:50Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/soundboost-scaled.jpg",
+      "excerpt": "SoundBoost brings AI mixing and mastering driven by natural-language text prompts, plus a free stem splitter and what it bills as ethically trained models, to a claimed 130,000-plus musicians — letting producers dial in a master by describing the sound they want."
     },
     {
-      "title": "Tunary Intros SILT Generative Tape-Loop Instrument",
-      "url": "https://www.synthtopia.com/content/2026/07/24/tunary-intros-silt-generative-tape-loop-instrument/",
-      "source": "Synthtopia",
+      "url": "https://www.musicradar.com/music-tech/beatbox-your-ideas-into-reality-with-vochleas-dubbox-an-app-that-converts-your-voice-into-drum-loops",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/silt-728x615.jpg",
-      "excerpt": "Tunary Instruments has introduced SILT, a 'Generative Tape-Loop Instrument' built around four short melodic loops of different lengths that drift slowly out of phase through an emulated tape machine, generating evolving ambient patterns for producers with vintage warmth."
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/U3ZMS6JnHPWtMEZuABsvTG.jpg",
+      "excerpt": "Vochlea's DubBox turns beatboxing and vocal percussion into drum loops in real time, training on a user's own voice so a hummed or beatboxed idea instantly triggers sample-based drum patterns."
     },
     {
-      "title": "Tim Exile Previews Karst Software Modular System",
-      "url": "https://www.synthtopia.com/content/2026/07/30/tim-exile-previews-karst-software-modular-system/",
-      "source": "Synthtopia",
+      "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
+      "source": "Digital Music News",
       "category": "music",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Tim Exile previewed Karst, a digital modular system for making music through systems and algorithmic composition. It features a node editor, cableless patching with cloud sync, and an Event Core in every instrument that lets you hand-roll generative algorithms without wrestling event scheduling or polyphony."
+      "published_iso": "2026-07-29T18:37:21Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/google-flow-music-gets-song-creation-editing-stem-splitting.png",
+      "excerpt": "Google's Flow Music Spaces gains an all-in-one update — folding song generation and editing, stem splitting, lyric writing, and image/video creation into one Lyria 3 Pro-powered AI workspace, pushing it toward a Suno/Udio-style full production suite."
     }
   ]
 }

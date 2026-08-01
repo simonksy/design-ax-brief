@@ -1,68 +1,26 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "section": "gadgets",
-  "count": 3,
+  "count": 1,
   "cards": [
     {
-      "id": "adobe-project-indigo",
+      "id": "samsung-galaxy-glasses-gemini",
       "eyebrow": "AI NEWS",
-      "headline": "어도비 실험 카메라 앱에\n생성형 AI가 들어왔다",
-      "mini_headline": "인디고에 AI 편집",
-      "body": "어도비가 실험용 카메라 앱 프로젝트 인디고에 생성 편집과 스타일 변환을 얹은 AI 플레이그라운드를 더했다.",
+      "headline": "메타 레이밴에 맞설 삼성 글래스가\n구글과 함께 온다",
+      "mini_headline": "삼성 제미나이 글래스",
+      "body": "삼성이 구글, 젠틀몬스터와 함께 만든 제미나이 스마트 글래스로 실시간 번역과 길 안내를 예고했다.",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2218980/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-gemini-smart-glasses-3689544/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg" },
-          { "t": "p", "x": "어도비의 실험용 카메라 앱 프로젝트 인디고가 AI 플레이그라운드라는 새 기능을 품었다. 촬영과 편집의 경계를 흐리며, 모바일에서 곧바로 이미지를 손보게 하려는 시도다." },
-          { "t": "p", "x": "플레이그라운드는 생성형 편집, 개별 객체 수정, 스타일 변환, 촬영 가이드를 하나로 묶는다. 사진 속 특정 대상을 지우거나 바꾸고, 분위기를 통째로 갈아입히는 작업이 앱 안에서 끝난다." },
-          { "t": "p", "x": "이 모든 기능은 구글의 나노 바나나 모델이 뒷받침한다. 사진가와 디자이너가 데스크톱을 거치지 않고, 찍은 자리에서 곧장 결과물을 다듬는 흐름을 어도비가 겨냥한 셈이다." }
-        ]
-      }
-    },
-    {
-      "id": "samsung-health-assistant",
-      "eyebrow": "AI NEWS",
-      "headline": "삼성 건강 데이터를\nAI가 대신 읽어준다",
-      "mini_headline": "삼성 헬스에 AI",
-      "body": "삼성 헬스에 들어온 AI 챗봇 헬스 어시스턴트가 웰니스 데이터를 풀어 맞춤형 생활 조언을 건넨다.",
-      "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2219698/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "img", "src": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg" },
-          { "t": "p", "x": "삼성이 삼성 헬스 안에 헬스 어시스턴트라는 AI 챗봇을 넣었다. 쌓이기만 하던 웰니스 데이터를 사람이 알아듣는 말로 풀어주는 역할이다." },
-          { "t": "p", "x": "챗봇은 걸음 수, 심박, 수면 같은 기록을 읽고 그 의미를 해석한다. 그 위에서 개인에게 맞춘 생활 습관 조언을 건네는데, 이 조언은 의료진의 검증을 거쳤다." },
-          { "t": "p", "x": "웨어러블 생태계 전반을 아우른다는 점도 눈에 띈다. 대화형 AI가 일상의 건강 도구 위에 한 겹 더 얹히는 방향을 삼성이 분명히 보여준다." }
-        ]
-      }
-    },
-    {
-      "id": "friend-2-pendant",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 목걸이 프렌드가\n스피커를 달고 돌아왔다",
-      "mini_headline": "돌아온 프렌드 2.0",
-      "body": "늘 듣고 있던 AI 동반자 프렌드가 249달러 2.0으로 돌아와 음성 응답과 월 구독 기억을 얹었다.",
-      "tool": "Gadgets",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/friend-is-back-with-a-new-ai-pendant-and-its-marketing-is-more-depressing-than-ever-2000793089",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "img", "src": "https://gizmodo.com/app/uploads/2026/07/Friend2.0.jpg" },
-          { "t": "p", "x": "늘 곁에서 듣고 있던 AI 동반자 목걸이 프렌드가 프렌드 2.0으로 다시 나왔다. 가격은 249달러다." },
-          { "t": "p", "x": "이번엔 스피커가 들어갔다. 앱 화면으로만 대답하던 이전과 달리, 목걸이가 목소리로 곧장 답한다." },
-          { "t": "p", "x": "기억에는 조건이 붙었다. 30일이 지난 대화를 계속 붙들어 두려면 매달 10달러를 내야 한다. 웨어러블 AI가 향하는 지점을 프렌드 2.0이 담담하게 드러낸다." }
+          { "t": "img", "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg" },
+          { "t": "p", "x": "삼성이 언팩에서 제미나이를 얹은 스마트 글래스 두 종을 미리 보였다. 구글, 그리고 안경 브랜드 워비파커와 젠틀몬스터가 함께 만든 제품이다." },
+          { "t": "p", "x": "화면 없는 안경테에 카메라가 달렸다. 제미나이가 이 눈으로 주변을 보고 읽어, 실시간 번역과 길 안내, 알림 요약을 곧바로 건넨다." },
+          { "t": "p", "x": "무거운 연산은 짝을 이룬 갤럭시 폰이 떠맡는다. 안경은 폰 곁에서 늘 켜져 있는 AI 창구가 되는 셈인데, 창작자와 일상 사용자 모두를 겨냥한 방향이 분명하다." }
         ]
       }
     }
