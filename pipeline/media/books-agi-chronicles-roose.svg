@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="The AGI Chronicles — Kevin Roose">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#141d3a"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b6bff"/>
+      <stop offset="1" stop-color="#6f8dff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(96,150)">
+    <rect x="0" y="0" width="150" height="150" rx="20" fill="url(#acc)"/>
+    <rect x="176" y="0" width="150" height="150" rx="20" fill="#3b6bff" opacity="0.55"/>
+    <rect x="352" y="0" width="150" height="150" rx="20" fill="#3b6bff" opacity="0.30"/>
+    <rect x="88" y="196" width="150" height="150" rx="20" fill="#3b6bff" opacity="0.42"/>
+    <rect x="264" y="196" width="150" height="150" rx="20" fill="url(#acc)" opacity="0.85"/>
+  </g>
+  <g transform="translate(660,250)" fill="#eaf0ff" font-family="Georgia, 'Times New Roman', serif">
+    <text x="0" y="0" font-size="52" font-weight="700">The AGI Chronicles</text>
+    <text x="0" y="60" font-size="30" fill="#9db0e6">Kevin Roose · Publishers Weekly</text>
+  </g>
+  <rect x="0" y="614" width="1200" height="16" fill="#3b6bff"/>
+</svg>
