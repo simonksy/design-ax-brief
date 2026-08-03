@@ -1,45 +1,28 @@
-{
-  "section": "books",
-  "date": "2026-08-02",
-  "selection_mode": "auto",
-  "count": 3,
-  "note": "Auto-pick (user deferred). Fresh pool had exactly 3 candidates; all 3 survive URL+CONTENT dedup vs the last 5 days of sections['books'] history (checked against publishersweekly, janefriedman x4, thebookseller, bookriot x2, publishingperspectives x4, booksandpublishing). No duplicates found — the three stories (scholarly-AI ownership, NYT AI-nonfiction investigation, Pope's AI encyclical) are all never-before-seen and topically distinct from prior lawsuit/audiobook/market-dilution/course coverage. Diversity guard OK: 3 distinct outlets, 1 per outlet. At floor 3 — not padded, pool has no further unique fresh items.",
-  "picks": [
-    {
-      "tool": "Books",
-      "headline": "The Third Time is NOT the Charm: Who Will Own How AI Participates in Scholarship?",
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg",
-      "excerpt": "The authors argue scholarly publishers must collaboratively build the infrastructure standards for how AI participates in scholarship now, before technology companies own that layer the way they came to own digital aggregation and discovery. A concrete look at how the AI era is reshaping who controls scholarly and academic publishing workflows.",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "rationale": "Actionable strategic call for publishers to set AI-participation standards before Big Tech captures the layer — fresh, credible SSP source, no prior coverage."
-    },
-    {
-      "tool": "Books",
-      "headline": "New York Times journalist investigates origins of AI-generated nonfiction",
-      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-07-22T14:00:00Z",
-      "og_image": "",
-      "excerpt": "A New York Times investigation traces the mechanics of AI-generated nonfiction through a retiree who has self-published more than 450 AI-written books and earns modest print sales from them. A vivid case of how cheap automated book creation is reshaping what floods the market and how human authors compete.",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "Concrete, reported case of the AI self-publishing flood human authors compete against — distinct from prior market-dilution and Daggermouth stories."
-    },
-    {
-      "tool": "Books",
-      "headline": "'Clarity of Thought and Responsibility': Can the Pope Move the Needle on AI Regulation?",
-      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-07-31T09:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png",
-      "excerpt": "Publishing Perspectives reads Pope Leo XIV's encyclical on AI as one of the most cogent ethical frameworks yet for regulating the technology, arguing publishers should not treat AI as morally neutral and must push for human-centered oversight of tech monopolies. An emerging ethical/regulatory lens the publishing industry will have to navigate.",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "rationale": "New ethical/regulatory framing the industry will have to reckon with — timely, credible, and unduplicated in the last five days."
-    }
-  ]
-}
+[
+  {
+    "id": "books-princeton-cashmere-licensing",
+    "title": "Princeton University Press Partners with Cashmere on AI Licensing",
+    "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
+    "source": "Publishers Weekly",
+    "category": "books",
+    "tool": "Cashmere",
+    "accent": "#f5a623",
+    "motif": "swatch",
+    "og_image": "",
+    "published_iso": "2026-08-03T12:00:00Z",
+    "excerpt": "Princeton University Press partnered with Cashmere, an AI content-licensing platform, to make its academic catalog available to 'copyright-compliant' AI tools focused on retrieval-augmented generation. A concrete shift toward publishers building sanctioned, no-training licensing pipelines they control rather than only fighting scraping."
+  },
+  {
+    "id": "books-anti-ai-literary-counterculture",
+    "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI 'Literary Counterculture'",
+    "url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+    "source": "Wired",
+    "category": "books",
+    "tool": "Books",
+    "accent": "#eb367f",
+    "motif": "frame",
+    "og_image": "https://media.wired.com/photos/6a694377c427a26bd27e4d1f/191:100/w_1280,c_limit/Anti-AI-Writing-Culture.jpg",
+    "published_iso": "2026-07-30T12:00:00Z",
+    "excerpt": "Novelists, journalists and essayists deliberately introduce typos, sentence fragments and fewer em-dashes to avoid sounding like a chatbot, forming an anti-AI 'literary counterculture'; some literary magazines now add 'no AI polish' notes to submission guidelines. A craft-level shift in how prose signals human authorship."
+  }
+]

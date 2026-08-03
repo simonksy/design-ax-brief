@@ -1,11 +1,24 @@
 {
-  "date": "2026-08-02",
-  "section": "design",
   "media": [
-    { "id": "figma-make", "type": "image", "src": "pipeline/media/figma-make.png" },
-    { "id": "perplexity-color", "type": "image", "src": "pipeline/media/perplexity-color.png" },
-    { "id": "unwanted-ai-images", "type": "image", "src": "pipeline/media/unwanted-ai-images.jpg" },
-    { "id": "ai-fluency", "type": "image", "src": "pipeline/media/ai-fluency.png" },
-    { "id": "creative-technologists", "type": "image", "src": "pipeline/media/creative-technologists.png" }
+    {
+      "id": "design-design-skill",
+      "type": "image",
+      "src": "pipeline/media/design-design-skill.png"
+    },
+    {
+      "id": "design-design-md",
+      "type": "image",
+      "src": "pipeline/media/design-design-md.png"
+    },
+    {
+      "id": "design-proxy",
+      "type": "image",
+      "src": "pipeline/media/design-proxy.png"
+    },
+    {
+      "id": "design-ai-art-row",
+      "type": "image",
+      "src": "pipeline/media/design-ai-art-row.jpg"
+    }
   ]
 }

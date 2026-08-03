@@ -1,11 +1,26 @@
 {
-  "date": "2026-08-02",
-  "section": "music",
   "media": [
     {
-      "id": "soundboost",
+      "id": "music-omni-daw",
+      "type": "video",
+      "src": "pipeline/media/music-omni-daw.mp4",
+      "poster": "pipeline/media/music-omni-daw.jpg"
+    },
+    {
+      "id": "music-soundid-voiceai-cpop",
       "type": "image",
-      "src": "pipeline/media/soundboost.jpg"
+      "src": "pipeline/media/music-soundid-voiceai-cpop.jpg"
+    },
+    {
+      "id": "music-artist-growth-mcp",
+      "type": "video",
+      "src": "pipeline/media/music-artist-growth-mcp.mp4",
+      "poster": "pipeline/media/music-artist-growth-mcp.jpg"
+    },
+    {
+      "id": "music-tonefield",
+      "type": "image",
+      "src": "pipeline/media/music-tonefield.jpg"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-04",
   "section": "science",
   "cards": [
     {
-      "id": "ai-telescope-stargazing",
+      "id": "science-brain-to-text",
       "eyebrow": "AI NEWS",
-      "headline": "실시간으로 하늘을 살피며\n스스로 관측하는 AI 망원경",
-      "body": "노스웨스턴대 연구진의 강화학습 AI가 날씨와 하늘 상태에 맞춰 다크에너지카메라의 관측 일정을 스스로 짠다.",
-      "mini_headline": "밤하늘 살피는 AI 망원경",
+      "headline": "수술 없이 뇌 신호를\n문장으로 받아 적는 AI",
+      "body": "메타 AI 연구진이 뇌전도와 뇌자도 신호만으로 문장을 받아 적어 문자 오류율을 29%까지 낮췄다.",
+      "mini_headline": "뇌 신호로 문장 쓰는 AI",
       "tool": "Science",
-      "source": "Phys.org (Northwestern University)",
-      "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
+      "source": "Tech Xplore (Meta AI, Universite PSL & Rothschild Foundation Hospital)",
+      "url": "https://techxplore.com/news/2026-08-noninvasive-ai-based-brain-written.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -18,81 +18,182 @@
         "blocks": [
           {
             "t": "p",
-            "x": "밤하늘을 관측할 때 무엇을, 언제, 어느 방향으로 볼지 정하는 일은 그동안 사람의 몫이었다. 노스웨스턴대와 시카고대, 페르미연구소가 함께한 이번 연구는 그 판단을 강화학습 AI에게 맡겼다."
+            "x": "메타 AI와 파리 PSL대, 아돌프 드 로칠드 재단 병원 연구진이 수술 없이 뇌 신호를 문장으로 바꾸는 시스템을 내놨다. 마비나 언어 장애로 말을 잃은 환자가 컴퓨터로 소통하도록 돕는 것이 목표다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra.jpg",
+            "cap": "참가자가 문장을 한 단어씩 보며 입력하는 동안 뇌전도와 뇌자도로 신호를 기록한다"
           },
           {
             "t": "p",
-            "x": "AI는 다크에너지카메라의 관측 일정을 스스로 세운다. 하늘 상태와 날씨가 시시각각 달라지면 계획도 실시간으로 고쳐 잡는다. 사람이 일일이 조정하지 않아도 상황에 맞춰 다음 관측을 이어가는 방식이다."
+            "x": "핵심은 Brain2Qwerty라는 세 단계 모델이다. 먼저 500밀리초 단위의 신호를 합성곱 모듈이 처리하고, 트랜스포머 모듈이 문장 단위로 학습한 뒤, 사전학습 언어 모델이 결과를 다듬어 오류를 바로잡는다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra-1.jpg",
+            "cap": "Brain2Qwerty의 세 단계 구조"
           },
           {
             "t": "p",
-            "x": "연구진은 이 AI의 성능이 숙련된 사람 일정 담당자와 견줄 만하다고 평가했다. 스스로 돌아가는 천문대로 가는 길에 놓인 하나의 이정표이자, AI가 관측천문학을 직접 밀어 올린 사례인 셈이다."
+            "x": "연구진은 건강한 자원자 35명에게 문장을 외워 입력하게 하고 그동안의 뇌 활동을 기록했다. 자기장을 재는 뇌자도에서는 문자 오류율이 평균 29%, 전기 신호를 재는 뇌전도에서는 65%였다. 성적이 가장 좋은 참가자는 18%까지 내려갔고, 처음 보는 문장을 완벽하게 풀어낸 경우도 있었다."
+          },
+          {
+            "t": "p",
+            "x": "야로드 레비와 밍팡 장 연구원은 아직 건강한 사람만 대상으로 했고 실제 환자에게 쓰려면 더 다듬어야 한다고 선을 그었다. 연구진은 논문에 “이 결과는 침습 방식과 비침습 방식의 격차를 좁혀, 말을 못 하는 환자를 위한 안전한 뇌-컴퓨터 인터페이스의 길을 연다”고 적었다. 논문은 학술지 Nature Neuroscience에 실렸다."
           }
         ]
       }
     },
     {
-      "id": "ai-agent-synchrotron",
+      "id": "science-ai-reasoning-wrong-reasons",
       "eyebrow": "AI NEWS",
-      "headline": "싱크로트론 실험을 스스로\n준비하는 AI 에이전트",
-      "body": "스탠퍼드·SLAC의 AI 에이전트가 검출기 영상과 실험 기록을 읽고 장비를 제어해 결정 시료를 스스로 정렬한다.",
-      "mini_headline": "실험 준비하는 AI 조수",
+      "headline": "AI가 정답을 맞혀도\n추론은 진짜가 아닐 수 있다",
+      "body": "애플의 ‘사고의 착시’ 논문은 조건이 조금만 복잡해져도 대형 추론 모델의 정확도가 무너진다고 지적했다.",
+      "mini_headline": "AI 추론은 진짜일까",
       "tool": "Science",
-      "source": "Phys.org (Stanford / SLAC)",
-      "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "싱크로트론 X선 빔라인에서 실험을 시작하려면 결정 시료를 정확히 맞춰 놓는 준비 작업이 먼저다. 손이 많이 가는 이 과정을 스탠퍼드대와 SLAC 연구진이 AI 에이전트에게 맡겼다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg"
-          },
-          {
-            "t": "p",
-            "x": "에이전트는 검출기 영상과 실험 기록, 스캔 결과를 스스로 읽는다. 그렇게 얻은 정보를 바탕으로 장비를 제어하는 명령을 직접 내려, 사람의 개입 없이 시료를 정렬한다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 이 방식이 반복적인 준비에서 과학자를 풀어 준다고 봤다. 스스로 굴러가는 실험 시설, 이른바 자율 운영으로 나아가는 한 걸음이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "brain-age-sleep-eeg",
-      "eyebrow": "AI NEWS",
-      "headline": "수면 뇌파로 잰 뇌 나이가\n치매 위험을 앞서 짚는다",
-      "body": "UCSF 연구진이 성인 약 7천 명의 수면 뇌파로 뇌 나이를 추정하니, 실제보다 늙은 뇌는 치매 위험이 크게 높았다.",
-      "mini_headline": "수면 뇌파로 읽는 뇌 나이",
-      "tool": "Science",
-      "source": "ScienceDaily (UC San Francisco)",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
       "accent": "#7928ca",
-      "motif": "sphere",
+      "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "잠자는 동안 기록되는 뇌파에는 뇌의 상태가 고스란히 담긴다. UCSF 연구진은 성인 약 7천 명의 밤샘 수면 뇌파를 기계학습으로 분석해, 각 사람의 '뇌 나이'를 추정했다."
+            "x": "대형 추론 모델이 답을 맞히는 장면은 이제 익숙하다. 문제는 이 모델이 정말 추론을 하는지, 아니면 추론처럼 보이는 지름길을 밟을 뿐인지가 아직 풀리지 않았다는 데 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Element-1.webp",
+            "cap": "일러스트: Celsius Pictor for Quanta Magazine"
           },
           {
             "t": "p",
-            "x": "핵심은 이 뇌 나이와 실제 나이의 차이였다. 실제 나이보다 뇌가 더 늙었다고 나온 사람들은 이후 치매에 걸릴 위험이 뚜렷하게 높았다."
+            "x": "회의적인 쪽의 증거는 쌓여 있다. 애플 연구진의 2025년 논문 ‘사고의 착시’(Illusion of Thinking)는 조건이 조금만 어려워져도 정확도가 통째로 무너지는 현상을 기록했다. 산타페연구소의 멜라니 미첼은 모델이 ARC-AGI 같은 퍼즐에서 표면적 지름길을 쓴다고 봤다."
           },
           {
             "t": "p",
-            "x": "평범한 수면 검사 데이터가 신경계 변화를 일찍 읽어 내는 지표가 될 수 있다는 이야기다. 연구진은 이 AI 바이오마커가 치매를 앞서 살피는 실마리가 되리라 기대했다."
+            "x": "애리조나주립대 수바라오 캄밤파티 연구진은 맞는 추론 과정을 틀리거나 엉뚱한 것으로 바꿔도 성능이 떨어지지 않았다고 밝혔다. 뉴욕대의 2024년 연구에서는 마침표만 찍은 무의미한 토큰이 추론 사슬 역할을 했고, 노스이스턴대와 UC 버클리 연구진은 사고 단계의 30~60%가 최종 답에 거의 영향을 주지 않는다고 계산했다."
+          },
+          {
+            "t": "p",
+            "x": "반대편도 성과를 든다. 오픈AI는 2026년 5월 단위 거리 문제라는 오랜 난제를 풀었고, 구글 딥마인드와 테런스 타오는 AI로 해석과 조합론, 기하, 정수론에 걸친 67개 문제의 답을 다시 찾거나 개선했다. 국제수학올림피아드 금메달급 성적도 나왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Element-6.webp",
+            "cap": "일러스트: Celsius Pictor for Quanta Magazine"
+          },
+          {
+            "t": "p",
+            "x": "캄밤파티는 “가짜 이론은 이론이 없다고 인정하는 것보다 나쁘다”고 못박았다. 겉으로 드러난 추론 문장이 실제 계산 과정을 그대로 비추는지는 여전히 열린 물음이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "science-clinical-chatbots-trust",
+      "eyebrow": "AI NEWS",
+      "headline": "의료 특화 AI가\n범용 모델보다 뒤처졌다",
+      "body": "뉴욕대 랑곤 헬스 연구진이 임상 질문으로 시험하자 의료 특화 AI가 범용 대형 언어 모델보다 낮은 성적을 냈다.",
+      "mini_headline": "범용에 밀린 의료 AI",
+      "tool": "Science",
+      "source": "STAT News (NYU Langone Health, Nature Medicine)",
+      "url": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "임상 현장에 특화된 AI 챗봇이 쏟아지지만, 의사가 이들을 믿어도 되는지를 두고 논쟁이 붙었다. 뉴욕대 랑곤 헬스 연구진이 2026년 6월 Nature Medicine에 낸 연구가 불씨가 됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.statnews.com/wp-content/uploads/2026/07/doctors-llms-1-645x645.jpg",
+            "cap": "의료 현장에 들어온 대형 언어 모델 (Camille MacMillin/STAT)"
+          },
+          {
+            "t": "p",
+            "x": "연구진은 세 묶음의 임상 질문으로 범용 모델과 의료 특화 모델을 나란히 시험했다. 특화 모델로는 OpenEvidence와 UpToDate Expert AI가 들어갔다. 결과는 통념과 반대였다. 의료 전용으로 만든 모델이 빅테크의 범용 대형 언어 모델보다 오히려 낮은 성적을 냈다."
+          },
+          {
+            "t": "p",
+            "x": "카이저 퍼머넌트의 한 부사장은 링크트인에 “논문 한 편이 이렇게까지 헬스 AI 업계를 들쑤신 경우는 처음 본다”고 적었다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "science-genome-gene-switching",
+      "eyebrow": "AI NEWS",
+      "headline": "같은 DNA가 세포마다\n다르게 켜지는 이유를 읽다",
+      "body": "막스플랑크 연구진이 만든 Corgi는 세포 종류에 따라 같은 DNA가 유전자를 어떻게 켜는지 예측한다.",
+      "mini_headline": "세포별 유전자 스위치 예측",
+      "tool": "Science",
+      "source": "Phys.org (Max Planck Institute for Molecular Genetics)",
+      "url": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
+      "accent": "#3b6bff",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "같은 DNA라도 세포마다 다르게 작동한다. 세포마다 조절 분자의 조합이 다르기 때문이다. 막스플랑크 분자유전학연구소의 마르틴 빙그론 연구팀이 만든 Corgi는 이 차이를 반영해 유전자가 언제 켜지는지를 예측한다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-based-tool-allo.jpg",
+            "cap": "세포의 유전자 조절을 본뜬 Corgi의 구조"
+          },
+          {
+            "t": "p",
+            "x": "Corgi는 유전자 발현과 염색질 접근성, 히스톤 변형처럼 유전체 활동과 얽힌 값을 짚어낸다. DNA 서열만 보던 기존 방식과 달리, 조절 유전자의 발현 데이터를 함께 넣어 세포 안의 실제 생물학에 더 가깝게 맞췄다."
+          },
+          {
+            "t": "p",
+            "x": "확장판인 Corgi+는 RNA 시퀀싱 데이터에서 후성유전 정보를 추론해, 모든 실험을 직접 하지 않고도 빈 데이터를 메운다. 제1저자 에킨 데니즈 악수는 “모델을 학습시키려고 세포 속 실제 생물학에 더 가까운 구조를 만들었다”고 말했다. 연구는 Nature Communications에 실렸으며, 약물 후보를 가상으로 걸러내거나 돌연변이가 질병을 일으키는 경로를 밝히는 데 쓰인다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "science-ai-cryptography-two-proofs",
+      "eyebrow": "AI NEWS",
+      "headline": "같은 난제 푼 두 논문\n3시간 차로 나란히 도착",
+      "body": "두 연구팀이 GPT-5.6 Sol Ultra로 같은 암호학 난제를 각자 풀어 3시간 18분 간격으로 논문을 올렸다.",
+      "mini_headline": "GPT로 푼 쌍둥이 증명",
+      "tool": "Science",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/ai-helped-produce-two-proofs-for-the-same-cryptography-problem/",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "누군가 미해결 문제를 꺼내면, 이제 사람들은 먼저 GPT가 푸는지부터 확인한다. 양자 암호학의 복제 불가 암호화를 둘러싼 오랜 난제가 그렇게 풀렸다. 두 연구팀이 같은 AI 모델로 몇 시간 사이에 나란히 답을 내놓았다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.scientificamerican.com/dam/asset/e97018e5-ae61-4316-a006-bdb874245d1d/Man-at-mathematics-blackboard.jpg",
+            "cap": "칠판 앞의 AI 선구자 존 매카시. 오늘날 AI는 수학 증명을 돕기 시작했다"
+          },
+          {
+            "t": "p",
+            "x": "MIT 박사과정생 세윤 라가반은 시스템에 두 시간씩 작업을 맡기고 중간중간 진행을 점검하며 방향을 다시 잡는 방식으로 증명을 얻어 정리했다. UC 샌타바버라의 프라반잔 아난스와 UCLA의 아미트 사하이는 모델이 해법을 제시하고 스스로 비판하도록 돕는 UCLA 자체 시스템을 썼다. 세 사람 모두 GPT-5.6 Sol Ultra를 사용했다."
+          },
+          {
+            "t": "p",
+            "x": "아난스와 사하이가 태평양 시간 오전 10시 35분 arXiv에 논문을 올렸고, 라가반은 3시간 18분 뒤에 올렸다. 두 논문 모두 핵심 아이디어를 GPT-5.6 Sol Ultra의 몫으로 적었다. 문제는 7월 초 사이먼스 컴퓨팅이론연구소에서 제기됐고, 아직 동료 심사는 거치지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "아난스는 “이제 일반적인 분위기는 이렇다. 누군가 미해결 문제를 말하면, 가장 먼저 GPT가 그걸 푸는지 본다”고 했다. 접근성을 걱정하는 목소리도 있다. 브로드벤트는 “가진 자와 못 가진 자를 두고 물음이 많이 생긴다”고 말했다."
           }
         ]
       }

@@ -1,34 +1,42 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-03",
   "section": "music",
-  "now_iso": "2026-08-01T22:00:36Z",
+  "now_iso": "2026-08-03T22:00:26Z",
   "window_hours": 336,
-  "count": 3,
-  "note": "WIDE-funnel sweep of the single 'music' category, restricted to its allowed_domains. Music window = 14 days / 336h (start ~2026-07-18T22:00Z). Every kept item is date-verified FRESH via `python3 pipeline/freshness.py <iso> 2026-08-01T22:00:36Z music` against the article's REAL published time (og article:published_time / JSON-LD datePublished pulled by curl; WebFetch returned HTTP 403 on all digitalmusicnews.com pages, so DMN dates+og were confirmed via curl instead). DEDUP: the 08-01 music brief already carded Google Lyria 3.5 (MBW), Tim Exile Karst + Tunary SILT (Synthtopia) — all three deliberately EXCLUDED here as recent dups. theverge.com is blocked to our user agent; pitchfork.com is blocked; billboard.com redirects to a tollbit paywall proxy — all skipped.\n\nHONEST SHORTFALL: only 3 fresh, non-dup, design-relevant candidates surfaced (target 5). The new-item window is genuinely thin — nearly every strong AI-music tool/model story date-verified STALE (outside 14d): Suno v5.5 + MILO-1080 + Studio (Mar/Jan), Stable Audio 3.0 (May 20), ElevenLabs Music Marketplace (Mar 23), Lyria 3/3 Pro + Google ProducerAI (Feb/Mar), Roland Melody Flip (Mar 18) + Project Lydia Ph2 (May 8) + Melo-D AI guitar (Jun 10), Klang.io Transcription Studio (Mar 23), FL Studio 2026 / Gopher agentic AI (Jul 9-10), VirtualDJ 2026 (Dec 2025), Jamu Ableton co-producer (Mar 10), Claude-in-Ableton (May 4), Songscription (Nov 2025), Vocalist AI (Apr 2024), YouTube Music AI playlists (Feb 16), GEMA PLAI dataset (Jul 24 - but data-licensing, not a design tool), OpenAI music-tool report (Oct 2025). Synthtopia's only fresh 'AI/generative' items were Karst/SILT (already carded) and ToneField (verified NON-ML). WebSearch budget (200) was exhausted mid-run by the parallel librarians, so late passes relied on curl scrapes of listing pages (musictech, gearnews, cdm, hypebot, synthtopia AI-tag, bedroomproducersblog, attackmagazine, djmag/mixmag tech, rollingstone/engadget/billboard AI tags).\n\nFRESH-but-DROPPED for relevance (business/legal/policy/trend, no design-workflow hook): GEMA vs Suno Munich ruling (Jul 31, legal); labels+indies AI chart standards / Spotify won't label AI (Jul 28-30, policy); DMN 'music industry new infrastructure' (Jul 22, infra); DMN 'AI Music: Coming of Age' (Jul 28, opinion/trend AND topic-dups the kept Google Flow item); Weird Al AI commercial (Jul 2, stale + controversy). Social (YouTube: Andrew Huang / ElevenLabs / Suno / Benn Jordan) — watch pages are JS-rendered and WebFetch returned only page chrome; no render/browse tool available to verify uploadDate, so per the social rule they contribute zero rather than block the run. Music defines no instagram_handles; IG skipped. Outlet diversity is only 2 domains (DMN x2 within the 3/outlet cap, MusicRadar x1) — a consequence of the thin new-item window after the 08-01 scoop, not lack of sweeping.",
+  "count": 4,
+  "note": "WIDE-funnel sweep of the single 'music' category, restricted to its allowed_domains (site: scoping). Music window = 14 days / 336h (start ~2026-07-20T22:00Z). Every kept item is date-verified FRESH via `python3 pipeline/freshness.py <iso> 2026-08-03T22:00:26Z music` against the article's REAL published time (og article:published_time / JSON-LD datePublished via WebFetch). 4 distinct outlets, ≤1 each — well under the 3/outlet cap. HONEST SHORTFALL: only 4 fresh, non-dup, design-relevant candidates surfaced (target 5). The new-item window is genuinely thin — the strongest AI-music tool/model stories date-verified STALE (outside 14d): Suno v5.5 (Mar 31), Moises AI Studio DAW (2025-08-20), Roland Melody Flip (Mar 19), Google ProducerAI acquisition (Feb 25), 'prompts-into-plugins' feature (Jun 26), Zplane Peel Stems 2 (Jul 13), LALAL.AI plugin (Feb 4), Acon Digital Remix (2023), Jerry Garcia ElevenLabs voice (2024-11), Claude-in-Ableton (May 4), Synplant 2 Genopatch (Jun), VirtualDJ 2026 (Dec 2025), FL Studio 2026 (2025). DEDUP vs history: excluded recent dups already carded — Google Lyria 3.5 / Flow Music (08-01, 07-31), GEMA vs Suno Munich ruling (today), Sony vs Udio 2nd suit (today), musicians-union suit (today), AudioAuditor (07-30), major labels AI-slop chart standards / hypebot 'Human-First' (07-28/30). FRESH-but-DROPPED for relevance (business/legal/policy, no creator-craft hook): none additional beyond the dups above; the Artist Growth item below is borderline (music-BUSINESS ops via MCP) but kept because it operationalizes agentic AI in real music workflows. WebSearch budget (200) was exhausted mid-run. Social: music defines YouTube channels (Suno/Udio/ElevenLabs/Andrew Huang/Benn Jordan/Venus Theory) but watch pages are JS-rendered and no render/browse tool verified uploadDate, so social contributes zero rather than block the run; no instagram_handles defined for music.",
   "items": [
     {
-      "url": "https://www.digitalmusicnews.com/2026/07/30/soundboost-natural-language-music-mastering-mixing/",
-      "source": "Digital Music News",
+      "url": "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/",
+      "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-07-30T21:00:50Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/soundboost-scaled.jpg",
-      "excerpt": "SoundBoost brings AI mixing and mastering driven by natural-language text prompts, plus a free stem splitter and what it bills as ethically trained models, to a claimed 130,000-plus musicians — letting producers dial in a master by describing the sound they want."
+      "published_iso": "2026-08-03T12:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/TomaszGluc-OMNi-728x364.jpg",
+      "excerpt": "OMNi (alpha v0.1) is a free, Rust-built DAW with native AI sample generation and image-to-sound synthesis, bundling 14 synth engines and 16 FX — folding generative AI directly into the workstation rather than a bolt-on plugin."
     },
     {
-      "url": "https://www.musicradar.com/music-tech/beatbox-your-ideas-into-reality-with-vochleas-dubbox-an-app-that-converts-your-voice-into-drum-loops",
-      "source": "MusicRadar",
+      "url": "https://www.soundonsound.com/news/sonarworks-expand-soundid-voiceai-library",
+      "source": "Sound on Sound",
+      "category": "music",
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
+      "excerpt": "Sonarworks expands its SoundID VoiceAI voice-changer with a C-pop Voices Expansion Pack — 10 studio-grade AI voice models trained on ethically sourced material for Mandopop/Cantopop — letting producers re-sing a take in a different voice inside the DAW."
+    },
+    {
+      "url": "https://www.hypebot.com/artist-growth-brings-secure-ai-to-music-business-operations/",
+      "source": "Hypebot",
       "category": "music",
       "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/U3ZMS6JnHPWtMEZuABsvTG.jpg",
-      "excerpt": "Vochlea's DubBox turns beatboxing and vocal percussion into drum loops in real time, training on a user's own voice so a hummed or beatboxed idea instantly triggers sample-based drum patterns."
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Matt-Urmy.jpg",
+      "excerpt": "Artist Growth launches what it calls the first MCP server for the music industry, anchoring ChatGPT, Claude and Gemini to permissioned operational data so managers and labels can safely automate real music-business workflows with agentic AI."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
-      "source": "Digital Music News",
+      "url": "https://www.synthtopia.com/content/2026/07/21/new-generative-instrument-for-mac-windows-tonefield/",
+      "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-07-29T18:37:21Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/google-flow-music-gets-song-creation-editing-stem-splitting.png",
-      "excerpt": "Google's Flow Music Spaces gains an all-in-one update — folding song generation and editing, stem splitting, lyric writing, and image/video creation into one Lyria 3 Pro-powered AI workspace, pushing it toward a Suno/Udio-style full production suite."
+      "published_iso": "2026-07-21T00:00:00Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/tonefield.jpg",
+      "excerpt": "Developer Matt Goodluck introduces ToneField, a generative software instrument for Mac and Windows that revives the discontinued TonePad Pro concept with modern generative-sequencing features for evolving, hands-off musical patterns."
     }
   ]
 }

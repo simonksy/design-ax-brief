@@ -1,37 +1,55 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-03",
   "section": "books",
-  "now_iso": "2026-08-01T22:00:36Z",
+  "now_iso": "2026-08-03T22:00:26Z",
   "window_hours": 336,
-  "count": 3,
-  "note": "WIDE funnel for the single 'books' category, restricted to its allowed_domains. Books window = 14 days / 336h (start ~2026-07-18T22:00Z); every item date-verified via WebFetch (og article:published_time / JSON-LD / byline) and gated FRESH with `python3 pipeline/freshness.py <iso> 2026-08-01T22:00:36Z books`. Fresh, design/craft-relevant books+AI news this window was THIN and outlet diversity low (PW x1, Publishing Perspectives x1, Books+Publishing x1 = 3 distinct outlets, 3 items). Ran ~20 WebSearches across every allowed_domain + ~25 WebFetch date-checks; the shared WebSearch budget hit 200/200 mid-sweep. DROPPED as just-STALE (published before the 07-18 window start): Amazon Kindle Translate AI expansion (goodereader Jul 1), ElevenLabs adds 200k audiobooks (PW May 28), Emaqi manga subscription (PW Jul 1), Global AI data-analytics startups (PW Jul 10), Michael Caine AI-voice Odyssey (Bookseller Jun 24). DROPPED per relevance rule as copyright/legal/business noise with no design hook: U.S. publishers v Google Gemini suit (PP Jul 14, also stale), Chicken Soup v AI firms (Mar), Books+Publishing 'PM comments on AI & copyright' (Jul 16, also stale), APA 'Office of AI' (Jul 15). Social: the 3 books YouTube channels (Creative Penn / Self Publishing with Dale / Sudowrite) surfaced only pre-window or JS-empty pages, none verifiable in-window; no IG handles for books -> skipped. Item 3 (Books+Publishing editor/publisher AI-use survey) is thematically adjacent to a 07-31 editor/publisher AI-use card; kept for the funnel but curator should dedup. Downstream curator should expect <5 strong distinct items for books today and backfill from other sections.",
+  "count": 5,
+  "note": "RECOVERY PASS (WebSearch budget exhausted at 200/200 — used curl w/ Googlebot UA over outlet RSS + topic pages, WebFetch for date extraction). Appended 2 NET-NEW book-craft AI items to the first pass's 3 (none dropped). Terms that worked: 'AI allegations / suspected AI use in a novel auction' (The Bookseller Genius story) and 'AI regulation encyclical' (Publishing Perspectives Pope piece). Swept RSS for publishersweekly.com, thebookseller.com, goodereader.com, janefriedman.com, lithub.com, publishingperspectives.com, bookriot.com, teleread.org, writersdigest.com, thecreativepenn.com, electricliterature.com, scholarlykitchen.sspnet.org, the-digital-reader.com. DROPPED as not-AI or noise: PW 'Defending the Literary Ecosystem / Polefrone' (about book censorship, not AI — verified via WebFetch), PW 'The New Manhattan Project: Kevin Roose' (a book ABOUT AGI, general AI content, doesn't change how writers work), PW Poetry Foundation scraping + 'AI May Be Making Publishing Easier' (already in news_data), PP 'Around the Book World Aug 3' + Jane Friedman 'Links of Interest' (roundups), Hachette/HBG earnings (financial noise). Good e-Reader AI-tag articles were all evergreen 2023-24 (stale). The Bookseller and Jane Friedman full text are paywalled; The Bookseller also 429-rate-limits curl (used WebFetch). Distinct outlets now = 5 (PW, Wired, The Verge, The Bookseller, Publishing Perspectives).",
   "items": [
     {
-      "title": "AI May Be Making Publishing Easier, But It's Still Not Easy",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
+      "title": "Princeton University Press Partners with Cashmere on AI Licensing",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-07-31T12:00:00Z",
+      "published_iso": "2026-08-03T12:00:00Z",
       "og_image": "",
-      "excerpt": "Report from the Media Transformation Summit: AI is streamlining publishing production workflows, but industry leaders stress the core craft challenge, deciding what to publish, remains unsolved and that successful AI adoption needs strong management support and machine-friendly content structures."
+      "excerpt": "Princeton University Press has partnered with Cashmere, an AI content-licensing platform, to make its academic catalog available to 'copyright-compliant' AI tools focused on retrieval-augmented generation. Shows scholarly publishers building sanctioned licensing pipelines for AI training/RAG instead of only fighting scraping — a concrete shift in how publishers monetize and control their catalogs for AI."
     },
     {
-      "title": "Announcing a Course to Help Publishers Navigate the AI Age Responsibly",
-      "url": "https://publishingperspectives.com/2026/07/announcing-a-course-to-help-publishers-navigate-the-ai-age-responsibly/",
+      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI 'Literary Counterculture'",
+      "url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "source": "Wired",
+      "category": "books",
+      "published_iso": "2026-07-30T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Novelists, journalists and essayists are deliberately introducing typos, sentence fragments and fewer em-dashes to avoid sounding like a chatbot, forming an anti-AI 'literary counterculture'; some literary magazines now add 'no AI polish' notes to submission guidelines. A craft-level shift in how prose signals human authorship. (Date verified via Lit Hub Daily Jul 30 2026 roundup + Nieman Lab; wired.com is crawler-blocked for direct fetch.)"
+    },
+    {
+      "title": "Illustrators, Authors and Musicians Are Winning Their AI Lawsuits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "source": "The Verge",
+      "category": "books",
+      "published_iso": "2026-07-29T12:00:00Z",
+      "og_image": "",
+      "excerpt": "A run of favorable rulings and settlements for illustrators, authors and musicians in AI copyright suits against Google, Meta and Anthropic is reshaping the rights landscape creators (including book authors) depend on. (Date sourced from Lit Hub Daily Jul 30 2026 roundup, which links this as that day's news; theverge.com is crawler-blocked for direct fetch — curator should treat the date as high-confidence but not article-extracted.)"
+    },
+    {
+      "title": "‘Genius’ Novel Sold in Six- and Seven-Figure Auction Deals Pulled Over Suspected AI Use",
+      "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A crime novel hailed as 'genius' that had secured six- and seven-figure US and UK publishing deals at auction was withdrawn by its agent after allegations the manuscript was AI-generated. A concrete case of AI detection reshaping acquisitions, author vetting and trust in the submission/auction pipeline. (The Bookseller is paywalled; date confirmed via article metadata, RECOVERY-pass via Googlebot RSS + WebFetch.)"
+    },
+    {
+      "title": "‘Clarity of Thought and Responsibility’: Can the Pope Move the Needle on AI Regulation?",
+      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
       "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-22T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png",
-      "excerpt": "Publishing Perspectives is launching a four-week online course to help publishing professionals build practical, responsible AI knowledge across editorial, production and rights workflows, a signal of how AI-implementation skills are becoming core craft in the book business."
-    },
-    {
-      "title": "Researchers to investigate local editor and publisher AI use",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/07/21/334844/researchers-to-investigate-local-editor-and-publisher-ai-use/",
-      "source": "Books+Publishing",
-      "category": "books",
-      "published_iso": "2026-07-21T12:00:00Z",
+      "published_iso": "2026-07-31T11:33:04Z",
       "og_image": "",
-      "excerpt": "University of Melbourne and RMIT researchers are surveying Australian publishers and editors on their use of generative AI tools, focusing on how text-based LLMs are actually being applied in independent publishing and editorial practice."
+      "excerpt": "Reading Pope Leo XIV's AI encyclical (itself now published as a Melville House trade paperback), Publishing Perspectives draws out seven takeaways for the book trade on data ownership, creative-sector copyright, the Anthropic $1.5B settlement and workplace transformation — framing how publishers and authors should engage AI regulation. (Date from RSS pubDate, RECOVERY pass.)"
     }
   ]
 }

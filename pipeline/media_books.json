@@ -1,20 +1,13 @@
 {
-  "date": "2026-08-02",
-  "section": "books",
   "media": [
     {
-      "id": "ai-scholarship-ownership",
-      "type": "image",
-      "src": "pipeline/media/ai-scholarship-ownership.jpg"
-    },
-    {
-      "id": "nyt-ai-nonfiction",
+      "id": "books-princeton-cashmere-licensing",
       "type": "svg"
     },
     {
-      "id": "pope-ai-encyclical",
+      "id": "books-anti-ai-literary-counterculture",
       "type": "image",
-      "src": "pipeline/media/pope-ai-encyclical.png"
+      "src": "pipeline/media/books-anti-ai-literary-counterculture.jpg"
     }
   ]
 }
