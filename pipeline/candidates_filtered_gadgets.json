@@ -1,60 +1,87 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "section": "gadgets",
-  "now_iso": "2026-08-01T22:00:36Z",
+  "now_iso": "2026-08-03T22:00:26Z",
   "window_hours": 336,
-  "count": 5,
-  "note": "WIDE funnel for the single 'gadgets' category, restricted to its allowed_domains. Gadgets window = 14 days / 336h (start ~2026-07-18T22:00Z); every item date-verified via WebFetch (og article:published_time / JSON-LD / byline) and gated FRESH with `python3 pipeline/freshness.py <iso> 2026-08-01T22:00:36Z gadgets`. The fresh AI-hardware news this window was dominated by Samsung Galaxy Unpacked (London, Jul 22): Galaxy Glasses (Gemini/Android XR AI eyewear), Galaxy Watch 9's Snapdragon Wear Elite on-device Gemini, and the foldables/watches recap. Verified-fresh, on-topic, distinct items = 5 across 4 distinct outlets (Android Authority x2, Digital Trends, 9to5Google, Engadget). IMPORTANT: the shared WebSearch budget (200/200) was EXHAUSTED mid-collection by the parallel librarians, which cut short the search for non-Samsung fresh items (AI PC/Copilot+ July reviews, robot vacuum launches, AI earbuds) - several surfaced but could not be date-verified (e.g. TechRadar Qualcomm/MediaTek wearable-AI play ~Jul 29 and the Narwal Flow 2 AI robot-vacuum review were unreadable behind TechRadar's membership overlay on WebFetch, so DROPPED per the 'no verifiable published time -> drop' rule). Dropped as STALE (outside 336h): Engadget 'OpenAI humanlike rechargeable speaker' (Jul 15), Android Authority Oura Ring 5 (May 28), Google live-translation upgrade (May 22), UploadVR Snapdragon Reality Elite (Jun 16), Gizmodo Rabbit Cyberdeck (Jan 30), Engadget Feb Unpacked S26 recap (Feb 26). Topical concentration on Samsung is a known limitation of this window; curator downstream will tighten to <=2 per outlet and pick a diverse final set.",
+  "count": 8,
+  "note": "WIDE funnel for the single 'gadgets' category, restricted to its allowed_domains. Gadgets window = 14 days / 336h (start ~2026-07-20T22:00Z). Every item date-verified (og article:published_time / JSON-LD datePublished via WebFetch + curl) and gated FRESH with `python3 pipeline/freshness.py <iso> 2026-08-03T22:00:26Z gadgets`. This window's fresh AI-hardware news is heavily concentrated on (a) Samsung Galaxy Unpacked (London, Jul 22) - Galaxy Glasses, on-device Gemini Nano 4, Gemini Intelligence, Gemini Notebook; (b) Meta Ray-Ban Display's Muse Spark AI-model upgrade (Jul 29); (c) the Friend AI pendant relaunch (Jul 30); (d) Jony Ive/OpenAI HomePad-style device rumor (Jul 30); (e) Google DeepMind Gemini Robotics 2 whole-body humanoid control (Jul 30). 8 verified-fresh, on-topic items across 5 distinct outlets (Android Authority x2, Engadget x3, 9to5Mac, Notebookcheck, 9to5Google) - all <=3/outlet. DEDUP-VS-PUBLISHED WARNINGS (news_data already carries these stories from other outlets, so curator should treat as content-dups and likely drop/replace): the Friend pendant (news_data has Gizmodo version), OpenAI first device (news_data has MacRumors Jul 28), Samsung Galaxy Glasses (news_data has Android Authority 3689544), Gemini Nano 4 foldables (news_data has Android Authority 3690495), Gemini Robotics 2 (news_data has The Verge whole-body). Cleanest NON-published picks this window: Meta Ray-Ban Muse Spark (AndroidAuthority) and Samsung Gemini Notebook (Engadget). WITHIN-POOL content clusters: items 4/6/7 all = Samsung Unpacked Gemini-on-device; items 2 and 3 are separate wearables. DROPPED as STALE (outside 336h, pre Jul-20): Android Authority INMO GO3 glasses (Jul 17), Gemma 4 E2B for TPU (Jul 14), Snapdragon Reality Elite (Jun 16); TechRadar S25 Gemini 'eyes' (Apr 2025), Digital Trends Meta prescription glasses (Apr 2), Tom's Guide Meta prescription (Mar 29), Tom's Hardware Snapdragon C (May 28) + Copilot+ discrete-GPU (Jun 14), XDA Snapdragon C (May 28), Engadget Broadcom on-device translation chip (Nov 2025), Engadget 1X Neo (Oct 2025), TechRadar rabbitOS 2 (Sep 2025). Robot-vacuum / AI-PC / AI-earbuds sweeps this window surfaced only CES-Jan or older items or already-published stories, so the fresh non-Samsung pool is genuinely thin.",
   "items": [
     {
-      "title": "Samsung's answer to Meta's Ray-Bans is (almost) here, with a little help from Google",
-      "url": "https://www.androidauthority.com/samsung-galaxy-gemini-smart-glasses-3689544/",
+      "title": "Meta Ray-Ban Display smart glasses are getting smarter with a significant AI model upgrade",
+      "url": "https://www.androidauthority.com/meta-ray-ban-display-muse-spark-3692414/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg",
-      "excerpt": "At Unpacked, Samsung previewed two Gemini-powered smart glasses built with Google, Warby Parker and Gentle Monster: non-display frames with cameras that let Gemini see and analyze your surroundings for live translation, navigation and notification summaries. Heavy workloads run on the paired Galaxy phone, a clear design bet on glasses-as-companion AI form factor for creatives and everyday users."
+      "published_iso": "2026-07-29T15:26:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display-2.jpg",
+      "excerpt": "Meta is upgrading its Ray-Ban Display glasses to its latest Muse Spark on-device AI model for smarter responses and better understanding of what the wearer sees, plus an extended Neural Handwriting feature that lets you invoke Meta AI by writing a prompt on any surface with your finger. A concrete on-device wearable-AI capability shift, not a rumor."
     },
     {
-      "title": "Samsung enters the AI glasses race with Gemini-powered Intelligent Eyewear and Android XR support",
-      "url": "https://www.digitaltrends.com/wearables/samsung-enters-the-ai-glasses-race-with-gemini-powered-intelligent-eyewear-and-android-xr-support/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-07-22T15:00:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/samsung-ai-glasses.jpg?resize=1200%2C720",
-      "excerpt": "Samsung's Intelligent Eyewear gives hands-free Gemini access for navigation, translation, messaging and note-taking - capture a whiteboard or meeting and have it auto-organized in Samsung Notes, with an eye-level camera, an LED privacy indicator and gesture control via a Galaxy Watch 9. A concrete look at how AI eyewear is being designed as an ambient capture-and-assist device."
-    },
-    {
-      "title": "Galaxy Watch 9 is 'Powered by Snapdragon Wear Elite,' leaked images confirm",
-      "url": "https://9to5google.com/2026/07/18/galaxy-watch-9-is-powered-by-snapdragon-wear-elite-leaked-images-confirm-gallery/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-07-18T22:30:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-snapdragon-2.jpg?quality=82&strip=all&w=1200",
-      "excerpt": "The Galaxy Watch 9 switches from Exynos to Qualcomm's Snapdragon Wear Elite, whose Hexagon NPU runs AI models with up to two billion parameters locally (~10 tokens/sec), enabling on-device Gemini and a Raise-to-Talk feature without a phone relay. A meaningful step for on-device AI on a mainstream wearable."
-    },
-    {
-      "title": "Everything announced at Samsung Unpacked 2026: three new foldables and two Galaxy Watches",
-      "url": "https://www.engadget.com/2220316/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/",
+      "title": "That Friend AI wearable you don't like just got worse",
+      "url": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-22T14:19:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/everything-announced-at-samsung-unpacked-2026-check-out-the-company-s-latest-galaxy-foldables-and-watches/intro-1784730503.jpg",
-      "excerpt": "Engadget's hands-on recap of the July 22 London Unpacked: Z Fold 8 / Fold 8 Ultra / Flip 8 foldables, the Galaxy Watch 9 with new on-device AI health features and a Snapdragon Wear Elite chip, plus a brief look at Samsung's Snapdragon-AR1 AI glasses. Useful survey of where AI is landing across Samsung's 2026 hardware."
+      "published_iso": "2026-07-30T21:34:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/that-ai-wearable-you-dont-like-just-got-worse/intro-1785447171.jpg",
+      "excerpt": "Friend relaunched its AI companion pendant as a $249 device with a built-in speaker (so the AI talks back) and updated models, but now gates memory beyond 30 days behind a $10/month subscription. A new AI-native form factor for always-on personal AI. NOTE: content-dup with the Gizmodo Friend-pendant story already in news_data."
     },
     {
-      "title": "Leak reveals what to expect from Samsung's smart glasses at Unpacked tomorrow",
-      "url": "https://www.androidauthority.com/samsung-galaxy-glasses-specs-leak-3689677/",
+      "title": "Jony Ive's first OpenAI hardware device sounds rather like ... a HomePad",
+      "url": "https://9to5mac.com/2026/07/30/jony-ives-first-openai-hardware-device-sounds-rather-like-a-homepad/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-07-30T11:13:00Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/homepod-with-screen-mockup-03.jpg",
+      "excerpt": "New reporting says the first OpenAI x Jony Ive consumer device is shaping up as a camera-equipped smart speaker with a display - an always-on, AI-native home device meant to be an ambient 'active participant.' A window into the first-gen AI-native hardware form factor. NOTE: content-dup with the MacRumors 'OpenAI first devices' story already in news_data."
+    },
+    {
+      "title": "Samsung Galaxy Glasses are official: Snapdragon AR1, Gemini cross-app AI, 2 designer frames",
+      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Glasses-are-official-Snapdragon-AR1-Gemini-cross-app-AI-2-designer-frames.1348992.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-07-22T13:00:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-glasses.png",
+      "excerpt": "Samsung's Galaxy Glasses, unveiled at Unpacked in London, run on Qualcomm's Snapdragon AR1 with Google Gemini as the primary AI engine for real-time translation, live navigation, message summaries and hands-free capture, in Gentle Monster and Warby Parker frames. NOTE: content-dup with the Android Authority Samsung-Gemini-glasses story already in news_data."
+    },
+    {
+      "title": "Samsung's new foldables come with Gemini Notebook pre-installed",
+      "url": "https://www.engadget.com/2220546/samsung-new-foldables-come-with-gemini-notebook/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-07-22T13:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/samsungs-new-foldables-come-with-gemini-notebook-pre-installed/l-intro-1784722468.jpg",
+      "excerpt": "The Galaxy Z Fold 8 and Flip 8 ship with Google's Gemini Notebook baked in - an AI research/notes surface that ingests your docs and turns them into summaries, audio overviews and study aids on-device-first, a distinct AI-tool angle beyond the usual Galaxy AI recap. Cleanest non-published pick of the Samsung Unpacked cluster."
+    },
+    {
+      "title": "Gemini Intelligence and Gemini Nano 4 launch with Galaxy Z Fold 8, Flip 8",
+      "url": "https://9to5google.com/2026/07/22/gemini-nano-4-intelligence-samsung-fold-8/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-22T19:41:56Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-with-Gemini-Intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Samsung's new foldables are the first devices to ship Google's on-device Gemini Nano 4 model (140+ languages, better multimodal understanding) alongside the debut of Gemini Intelligence agentic task automation across 40+ apps. NOTE: content-dup with the Android Authority Gemini Nano 4 foldables story already in news_data."
+    },
+    {
+      "title": "Galaxy Z Fold 8 and Flip 8 lead the Gemini Intelligence rollout",
+      "url": "https://www.androidauthority.com/gemini-intelligence-on-samsung-galaxy-z-fold-8-3689576/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-07-21T14:01:00Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glasses-leak.jpg",
-      "excerpt": "Pre-Unpacked spec leak for Samsung's Android XR glasses: a Snapdragon AR1 Gen 1 chip, ~9 hours of battery with a charging case, and AI-powered camera capabilities for Gemini-driven capture and assistance. Detail on the hardware powering Samsung's first mainstream AI eyewear."
+      "published_iso": "2026-07-22T13:00:33Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-Ultra-display-on-straight-on.jpg",
+      "excerpt": "The Galaxy Z Fold 8 and Flip 8 are the launch vehicles for Gemini Intelligence, Google's agentic on-device Android layer that automates multi-step tasks across apps and the web directly on the phone. WITHIN-POOL dup with items 4/6 (Samsung Unpacked Gemini-on-device cluster)."
+    },
+    {
+      "title": "Google's new Gemini Robotics 2 platform allows for 'intelligent whole-body control'",
+      "url": "https://www.engadget.com/2227268/google-gemini-robotics-2-platform-intelligent-whole-body-control/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-07-30T17:57:10Z",
+      "og_image": "https://www.engadget.com/img/gallery/googles-new-gemini-robotics-2-platform-allows-for-intelligent-whole-body-control/l-intro-1785434008.jpg",
+      "excerpt": "Google DeepMind's Gemini Robotics 2 gives humanoid robots whole-body control (legs, torso, arms, 22-DOF hands) under one policy, with an embodied-reasoning 'brain' and an on-device variant that runs locally and adapts to new robot bodies in a few hours. Physical-AI hardware capability leap. NOTE: content-dup with the Verge Gemini Robotics 2 story already in news_data."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 5,
+    "kept": 8,
     "against_days": 5
   }
 }

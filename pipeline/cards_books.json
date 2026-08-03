@@ -1,66 +1,83 @@
 {
+  "date": "2026-08-04",
   "section": "books",
-  "date": "2026-08-02",
   "cards": [
     {
-      "id": "ai-scholarship-ownership",
+      "id": "books-princeton-cashmere-licensing",
       "eyebrow": "AI NEWS",
-      "headline": "빅테크가 AI 참여 계층을\n장악하기 전에 표준을 세워라",
-      "body": "학술 출판사들이 빅테크에 AI 참여 계층을 빼앗기기 전에 표준 인프라를 함께 세워야 한다는 제언이다.",
-      "mini_headline": "AI 참여 표준 선점",
-      "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
+      "headline": "프린스턴대 출판부가 AI에\n학습 아닌 검색용으로 서고를 연다",
+      "body": "프린스턴대 출판부가 캐시미어와 손잡고 학술서를 AI 모델 학습이 아닌 검색용으로만 개방하기로 했다.",
+      "mini_headline": "학습 아닌 검색 라이선스",
+      "tool": "Cashmere",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
       "accent": "#f5a623",
       "motif": "swatch",
+      "og_image": "",
+      "published_iso": "2026-08-03T12:00:00Z",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg" },
-          { "t": "p", "x": "학술 연구에 AI가 어떻게 끼어들지, 그 규칙을 누가 쥐게 될까. 저자들은 이 물음을 미루지 말고 지금 던져야 한다고 말한다." },
-          { "t": "p", "x": "디지털 집적과 검색·발견의 계층을 결국 기술 기업이 손에 넣었던 전례가 있다. 같은 일이 AI 계층에서 되풀이되기 전에, 학술 출판사들이 먼저 인프라 표준을 함께 세워야 한다는 것이다." },
-          { "t": "p", "x": "AI 시대가 학술·전문 출판의 작업 흐름을 누가 통제하느냐 하는 문제를 다시 짜고 있다. 그 판을 구체적으로 들여다본 진단이다." }
+          {
+            "t": "p",
+            "x": "프린스턴대 출판부(PUP)가 AI 콘텐츠 라이선싱 플랫폼 캐시미어와 손잡고, 자사 도서 목록을 '저작권을 준수하는' AI 플랫폼이 이용하도록 열기로 했다."
+          },
+          {
+            "t": "p",
+            "x": "이번 계약은 캐시미어의 인프라로 PUP 도서를 신생 AI 리서치 도구가 검색하게 하며, 특히 실시간 검색과 정보 검색을 다루는 검색 증강 생성(RAG) 라이선싱에 초점을 둔다."
+          },
+          {
+            "t": "p",
+            "x": "PUP는 어떤 책을 어떤 조건으로 라이선싱할지 통제권을 그대로 쥔다. 캐시미어의 '모델 학습 금지' 방식은 이 계약을 모델 학습 개방이 아니라 기존 출판 라이선싱 관행에 맞추려는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "캐시미어 CEO 조너선 멍크는 발표문에서 '우리 목표는 출판사가 자기 조건으로 AI 경제에 참여하도록 자신감과 도구를 주는 것'이라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "크리스티 헨리 PUP 디렉터는 이번 협업이 '우리가 정한 조건으로, 저자와 독자가 마땅히 누려야 할 투명성과 윤리, 책임을 갖춰' 콘텐츠를 AI 애플리케이션에 제공할 인프라를 준다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "캐시미어는 올해 초 록펠러대 출판부, 슈프링거 퍼블리싱과도 손잡았고, 리치 캐피털이 주도한 500만 달러 시드 라운드를 마감했다. 이 라운드에는 잉그램 콘텐츠 그룹, 피어슨, 네이버가 참여했다."
+          }
         ]
       }
     },
     {
-      "id": "nyt-ai-nonfiction",
+      "id": "books-anti-ai-literary-counterculture",
       "eyebrow": "AI NEWS",
-      "headline": "AI 논픽션은 어디서 오는가\n450권 펴낸 은퇴자를 좇다",
-      "body": "한 은퇴자가 AI로 450권 넘게 자가출판해 소소한 인쇄 수익까지 올린 과정을 NYT가 추적했다.",
-      "mini_headline": "AI 논픽션의 진원",
+      "headline": "오타를 남기고 줄표를 지운다\nAI를 거부하는 문학의 반문화",
+      "body": "소설가와 기자들이 챗봇처럼 들리지 않으려고 일부러 오타와 문장 조각을 남기는 반AI 흐름을 만든다.",
+      "mini_headline": "AI를 거부하는 문장들",
       "tool": "Books",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
-      "accent": "#0070f3",
-      "motif": "swatch",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "og_image": "https://media.wired.com/photos/6a694377c427a26bd27e4d1f/191:100/w_1280,c_limit/Anti-AI-Writing-Culture.jpg",
+      "published_iso": "2026-07-30T12:00:00Z",
       "full": {
         "mode": "summary",
         "blocks": [
-          { "t": "p", "x": "뉴욕타임스가 AI로 만든 논픽션이 대체 어디서 비롯되는지, 그 작동 방식을 파고들었다." },
-          { "t": "p", "x": "취재의 중심에는 한 은퇴자가 있다. 그는 AI로 쓴 책을 450권 넘게 자가출판했고, 인쇄 판매로 적으나마 꾸준히 수익을 올리고 있다." },
-          { "t": "p", "x": "값싸고 자동화된 책 제작이 시장에 무엇을 쏟아내는지, 그 틈에서 사람 저자는 어떻게 경쟁해야 하는지를 선명하게 보여주는 사례다." }
-        ]
-      }
-    },
-    {
-      "id": "pope-ai-encyclical",
-      "eyebrow": "AI NEWS",
-      "headline": "AI를 도덕의 문제로 되돌린\n교황의 회칙이 던진 물음",
-      "body": "레오 14세의 AI 회칙은 기술을 도덕적 중립으로 보지 말고 인간 중심 감독을 요구하라 말한다.",
-      "mini_headline": "교황의 AI 회칙",
-      "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          { "t": "img", "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png" },
-          { "t": "p", "x": "퍼블리싱 퍼스펙티브스는 레오 14세 교황의 AI 회칙을 지금까지 나온 가장 조리 있는 윤리적 틀 가운데 하나로 읽는다." },
-          { "t": "p", "x": "핵심은 이렇다. 출판계는 AI를 도덕적으로 중립인 기술로 다뤄선 안 되며, 기술 독점 기업을 향해 인간 중심의 감독을 요구해야 한다는 것이다." },
-          { "t": "p", "x": "출판 산업이 앞으로 헤쳐가야 할 윤리와 규제의 새로운 렌즈가 등장한 셈이다." }
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6a694377c427a26bd27e4d1f/191:100/w_1280,c_limit/Anti-AI-Writing-Culture.jpg",
+            "cap": "반AI 문학 반문화를 다룬 와이어드 기사"
+          },
+          {
+            "t": "p",
+            "x": "소설가와 기자, 에세이스트들이 챗봇처럼 들리지 않으려고 일부러 오타와 문장 조각을 넣고 줄표(em dash)를 줄이면서 반AI '문학 반문화(literary counterculture)'를 만들고 있다."
+          },
+          {
+            "t": "p",
+            "x": "흠 없이 다듬은 문장이 오히려 챗봇 티로 읽히자, 매끄러움 대신 사람 손의 흔적을 남기는 쪽을 택한 것이다."
+          },
+          {
+            "t": "p",
+            "x": "일부 문예지는 투고 가이드라인에 'AI 윤문 금지(no AI polish)' 문구를 새로 넣어, 사람이 쓴 글임을 드러내는 신호를 요구하기 시작했다."
+          }
         ]
       }
     }

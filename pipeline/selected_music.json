@@ -1,34 +1,54 @@
-{
-  "date": "2026-08-02",
-  "section": "music",
-  "selection_mode": "auto",
-  "count": 1,
-  "note": "Auto-pick (user deferred). Pool had 2 candidates. SoundBoost is fresh + non-dup and kept. The DMN 'Google AI all-in-one music studio' (2026-07-29) covers the SAME Google Flow Music Spaces all-in-one release already published on 2026-07-31 as card 'flow-music-spaces' (Music Business Worldwide: song generation + editing + stem-splitting added to Spaces) — a cross-outlet CONTENT duplicate, so it was DROPPED per the URL+CONTENT dedup rule. No padding: only 1 distinct never-before-seen story survived dedup, below the floor of 3 but acceptable given the genuinely thin window.",
-  "picks": [
-    {
-      "rank": 1,
-      "headline": "SoundBoost Brings Natural-Language AI Mixing and Mastering to 130,000+ Musicians",
-      "tool": "Music",
-      "category": "music",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "url": "https://www.digitalmusicnews.com/2026/07/30/soundboost-natural-language-music-mastering-mixing/",
-      "source": "Digital Music News",
-      "published_iso": "2026-07-30T21:00:50Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/soundboost-scaled.jpg",
-      "excerpt": "SoundBoost brings AI mixing and mastering driven by natural-language text prompts, plus a free stem splitter and what it bills as ethically trained models, to a claimed 130,000-plus musicians — letting producers dial in a master by describing the sound they want.",
-      "rationale": "Actionable for producers: describe-the-sound mixing/mastering plus a free stem splitter changes how a track gets finished tomorrow, and the 'ethically trained' framing is a fresh, credible angle."
-    }
-  ],
-  "shortfall": {
-    "target_floor": 3,
-    "kept": 1,
-    "reason": "Pool held only 2 candidates; the Google Flow all-in-one item was a cross-outlet content duplicate of the published 07-31 'flow-music-spaces' card and was dropped. Only 1 unique fresh story remained. Not padded.",
-    "dropped": [
-      {
-        "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
-        "reason": "Content duplicate of published card 'flow-music-spaces' (2026-07-31, Music Business Worldwide) — same Google Flow Music Spaces all-in-one release, different outlet."
-      }
-    ]
+[
+  {
+    "id": "music-omni-daw",
+    "title": "OMNi is the world's first DAW with native AI sample generation and image-to-sound synthesis",
+    "url": "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/",
+    "source": "Bedroom Producers Blog",
+    "category": "music",
+    "tool": "Music",
+    "accent": "#10b981",
+    "motif": "grid",
+    "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/TomaszGluc-OMNi-728x364.jpg",
+    "published_iso": "2026-08-03T12:00:00Z",
+    "excerpt": "OMNi (alpha v0.1) is a free, Rust-built DAW with native AI sample generation and image-to-sound synthesis, bundling 14 synth engines and 16 FX — folding generative AI directly into the workstation rather than a bolt-on plugin."
+  },
+  {
+    "id": "music-soundid-voiceai-cpop",
+    "title": "Sonarworks expands SoundID VoiceAI with a C-pop Voices Expansion Pack",
+    "url": "https://www.soundonsound.com/news/sonarworks-expand-soundid-voiceai-library",
+    "source": "Sound on Sound",
+    "category": "music",
+    "tool": "Music",
+    "accent": "#ff2d7e",
+    "motif": "wave",
+    "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
+    "published_iso": "2026-07-31T00:00:00Z",
+    "excerpt": "Sonarworks expands its SoundID VoiceAI voice-changer with a C-pop Voices Expansion Pack — 10 studio-grade AI voice models trained on ethically sourced material for Mandopop/Cantopop — letting producers re-sing a take in a different voice inside the DAW."
+  },
+  {
+    "id": "music-artist-growth-mcp",
+    "title": "Artist Growth launches the first MCP server for the music industry",
+    "url": "https://www.hypebot.com/artist-growth-brings-secure-ai-to-music-business-operations/",
+    "source": "Hypebot",
+    "category": "music",
+    "tool": "Music",
+    "accent": "#3b82f6",
+    "motif": "orbit",
+    "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Matt-Urmy.jpg",
+    "published_iso": "2026-07-28T00:00:00Z",
+    "excerpt": "Artist Growth launches what it calls the first MCP server for the music industry, anchoring ChatGPT, Claude and Gemini to permissioned operational data so managers and labels can safely automate real music-business workflows with agentic AI."
+  },
+  {
+    "id": "music-tonefield",
+    "title": "ToneField is a new generative instrument for Mac and Windows",
+    "url": "https://www.synthtopia.com/content/2026/07/21/new-generative-instrument-for-mac-windows-tonefield/",
+    "source": "Synthtopia",
+    "category": "music",
+    "tool": "Music",
+    "accent": "#f5a623",
+    "motif": "bloom",
+    "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/tonefield.jpg",
+    "published_iso": "2026-07-21T00:00:00Z",
+    "excerpt": "Developer Matt Goodluck introduces ToneField, a generative software instrument for Mac and Windows that revives the discontinued TonePad Pro concept with modern generative-sequencing features for evolving, hands-off musical patterns."
   }
-}
+]

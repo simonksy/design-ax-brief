@@ -1,24 +1,15 @@
-{
-  "date": "2026-08-02",
-  "section": "gadgets",
-  "count": 1,
-  "selection_mode": "curator_auto",
-  "note": "User deferred. Pool of 5 was a single event (Samsung Unpacked, Jul 22). Strict URL+CONTENT dedup vs sections.gadgets history (07-27 -> 08-01, today + days). DROPPED as duplicates of already-published stories: 9to5Google 'Galaxy Watch 9 powered by Snapdragon Wear Elite' == same Watch 9 launch already published 07-29 (galaxy-watch-9-health, Android Central); Engadget 'Everything announced at Unpacked 2026' roundup overlaps already-published Unpacked stories (gemini-automation + ai-activity-dashboard, 07-29, the new foldables; galaxy-watch-9-health, 07-29, the watches). DROPPED as within-pool cluster dups: the three Galaxy Glasses items (Android Authority x2 + Digital Trends) are one story -- kept the single strongest (AA reveal). Backfill exhausted: after dedup only ONE genuinely never-before-published distinct story survives. Per 'never pad / never re-use a dropped or duplicate story,' the section falls below floor 3. FINAL-5 DIVERSITY GUARD trivially satisfied (1 outlet, 1 card).",
-  "picks": [
-    {
-      "rank": 1,
-      "id": "samsung-galaxy-glasses-gemini",
-      "tool": "Gadgets",
-      "headline": "Samsung's answer to Meta's Ray-Bans is (almost) here, with a little help from Google",
-      "url": "https://www.androidauthority.com/samsung-galaxy-gemini-smart-glasses-3689544/",
-      "source": "Android Authority",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg",
-      "excerpt": "At Unpacked, Samsung previewed two Gemini-powered smart glasses built with Google, Warby Parker and Gentle Monster: non-display frames with cameras that let Gemini see and analyze your surroundings for live translation, navigation and notification summaries. Heavy workloads run on the paired Galaxy phone, a clear design bet on glasses-as-companion AI form factor for creatives and everyday users.",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "category": "gadgets",
-      "rationale": "The only genuinely-new gadgets story in the pool after dedup: Samsung's first mainstream Gemini AI eyewear, with fashion partners (Gentle Monster, Warby Parker) and a see-and-analyze design bet that concretely reshapes ambient capture for creatives -- never previously published as its own card."
-    }
-  ]
-}
+[
+  {
+    "id": "gadgets-samsung-gemini-notebook",
+    "title": "Samsung's new foldables come with Gemini Notebook pre-installed",
+    "url": "https://www.engadget.com/2220546/samsung-new-foldables-come-with-gemini-notebook/",
+    "source": "Engadget",
+    "category": "gadgets",
+    "tool": "Gadgets",
+    "accent": "#7928ca",
+    "motif": "cube",
+    "og_image": "https://www.engadget.com/img/gallery/samsungs-new-foldables-come-with-gemini-notebook-pre-installed/l-intro-1784722468.jpg",
+    "published_iso": "2026-07-22T13:00:00Z",
+    "excerpt": "The Galaxy Z Fold 8 Ultra, Fold 8 and Flip 8 ship with Google's Gemini Notebook (formerly NotebookLM) pre-installed, an AI research tool that organizes web pages, videos and chats into one repository and turns them into slide decks, videos, flash cards and podcasts, with a chat function over your sources. Some features need paid Gemini; each device includes a six-month Google AI Pro trial. Distinct AI-tool angle from the rest of the Samsung Unpacked cluster."
+  }
+]

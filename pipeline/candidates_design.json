@@ -1,64 +1,50 @@
 {
-  "date": "2026-08-01",
-  "section": "design",
-  "now_iso": "2026-08-01T22:00:36Z",
-  "window_hours": 72,
-  "count": 6,
-  "note": "Design section, 72h window (cutoff ~2026-07-29T22:00Z). WebSearch budget was exhausted mid-run (shared across parallel librarians), so most collection was done via direct RSS/feed + og/JSON-LD date verification (curl) rather than search. The 72h design x AI hard-news pool was genuinely thin: SIGGRAPH 2026 (Jul 19-23) announcements, Adobe Firefly Assistant, Runway/Midjourney/Sora model news, Config 2026, Autodesk Neural CAD all fell outside the 72h window; VentureBeat and TheVerge were unfetchable (429 / blocked UA) so their FLUX 3 / Luma Uni-1 / Canva Code 2.0 items were DROPPED for lack of a verifiable published time. Dropped as off-topic/stale/covered: Rebelle 8.3 brushes-vs-AI (already covered 07-27..08-01), uxdesign 'Jakob's law one chat box' + 'Rethinking friction in an AI world' (both already covered), Google Earth Nano Banana rollback (covered), Snapchat AI-slop policy + Engadget lawsuits (no design workflow hook), 80.lv/roadtovr/uploadvr items (game-art/VR-hardware, not AI x design). Result: 6 fresh, design-relevant candidates across 3 distinct fetchable outlets (Creative Bloq, UX Collective, Figma) — enough for a diverse final 5 under the curator's <=2/outlet rule.",
-  "items": [
-    {
-      "title": "From Tinder and Reddit to Amazon, unwanted AI images are freaking people out",
-      "url": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-08-01T12:08:46Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/WXgEEFXG8UBjSLSnk2RFD8-2000-80.jpg",
-      "excerpt": "Across Amazon, Tinder and Reddit, products are now silently generating or editing users' photos with AI by default, with opt-out left to the user. A pointed product-design and UX-consent lesson as generative image AI gets pushed into mainstream interfaces without asking."
-    },
-    {
-      "title": "Type designers have created a free font that 'poisons' AI",
-      "url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
-      "source": "Creative Bloq",
-      "category": "tokens",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hCZp4o3EEtij6rJHs3HXZF-2560-80.png",
-      "excerpt": "ShieldFont is a free typeface engineered to corrupt AI training data that scrapes it, a craft-level countermeasure from the type-design community. Shows designers building AI-resistance directly into their assets rather than just opting out."
-    },
-    {
-      "title": "Creative technologists are moving from the margins to the center",
-      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-08-01T02:44:36Z",
-      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.65/1*_ljUGVuohH1v0usJ-TpBCQ.png",
-      "excerpt": "Once a fringe job title, creative technology is becoming a core capability inside modern product teams as AI collapses the gap between design and code. Argues the designer-who-builds is shifting from novelty to default operating model for AI-era design orgs."
-    },
-    {
-      "title": "Perplexity diverges with color: building data color schemes with generative AI",
-      "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad",
-      "source": "UX Collective",
-      "category": "tokens",
-      "published_iso": "2026-08-01T02:47:35Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*2Uyw7GVZYWxyrQo80EZtYA.png",
-      "excerpt": "A hands-on look at using generative AI (via Perplexity) to construct diverging data-visualization color schemes and palette tokens. A concrete workflow for folding AI into the systematic, accessibility-sensitive craft of color-system design."
-    },
-    {
-      "title": "A properties panel and annotations, now in Figma Make",
-      "url": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-07-30T19:25:32Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/d1366af0a7f2c9945aa6a7a693f319518f22fc63-3840x2160.png",
-      "excerpt": "Figma Make adds a visual properties panel and annotations, letting designers edit AI-generated output directly and hand off intent to code without re-prompting. A real feature release tightening the design-to-code loop in Figma's AI builder."
-    },
-    {
-      "title": "AI fluency isn't the finish line",
-      "url": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
-      "source": "Figma",
-      "category": "workflow",
-      "published_iso": "2026-07-31T21:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/b437cd59cfe0bda60b9a33da411e38252b56dbd1-1682x918.png",
-      "excerpt": "Ninety percent of product builders call AI skills essential, but Figma argues teams are optimizing for the wrong ones and reframes what design craft means past basic tool fluency. A pointed take on how AI is reshaping the skills a design org actually needs."
-    }
-  ]
+ "date": "2026-08-03",
+ "section": "design",
+ "now_iso": "2026-08-03T22:00:26Z",
+ "window_hours": 72,
+ "count": 5,
+ "note": "WIDE-funnel sweep of the design section's categories (figma, render, cad, tokens, vr, workflow, social), site:-scoped to each category's allowed_domains. Design window = 72h (start ~2026-07-31T22:00Z). Every kept item is date-verified FRESH via `python3 pipeline/freshness.py <iso> 2026-08-03T22:00:26Z design` against the article's REAL published time (JSON-LD datePublished / og article:published_time / RSS pubDate). HONEST DIVERSITY SHORTFALL: only 3 distinct outlets surfaced within 72h (uxdesign x3 at the collection cap, dev.to x1, creativebloq x1). Fresh design-relevant news this window is genuinely concentrated in uxdesign + dev.to. Two high-value outlets were BOT-BLOCKED and could not be date-verified: VentureBeat (Vercel security checkpoint -> HTTP 429 on both curl and WebFetch; would have added Anthropic Claude Design overhaul, Canva Code 2.0, Meshy-4, Luma Uni-1, Adobe agentic Creative Cloud) and Fast Company (HTTP 403/blocked). STALE (outside 72h), verified and dropped: creativebloq Adobe-Firefly-2026 (Jan 2), creativebloq Turntable (Mar 30), creativebloq Autodesk-modelling-AI (2025-09-16), creativebloq CorelDRAW (Mar 3), creativebloq Adobe-solves (Jun 18); 80.lv OctaneRender 2027.1 (already published) + Meshy creative partner (Jul 21) + Hyper3D Rodin Gen-2.5 (Jun 3); cgchannel RTX Render beta (Jul 29); uploadvr Autodesk VRED Vision Pro (Mar 20); parallelhq design-systems (2020); css-tricks Generative UI Notes (Mar 26); logrocket AI-ready frontend (Jan 15) + web-dev-trends (Dec 30); figma agent-custom-tools + connecting-weave + config-2026 (all Jun 24); smashing bull-and-bear (Jul 29, published) + digital-design-ai-era (Jul 28, published); several stale uxdesign (AX-orchestration Jul 13, SAID-framework Jul 16, last-interface Mar 8, AI-improv Jan 12, Claude-Code-workflows Oct 2025). Social: YouTube channel-RSS checked (Fireship 07-29 STALE; Matt Wolfe 08-01 fresh but general-AI Shorts, fail design-relevance) -> no verifiable+relevant social item, contributes 0 (expected). Already-published URLs (design last 5 days) consciously excluded: uxdesign Perplexity-color, uxdesign creative-technologists, creativebloq AI-copyright-payout, creativebloq platforms-AI-images, creativebloq Rebelle-8.3.",
+ "items": [
+  {
+   "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-08-03T06:10:34Z",
+   "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg",
+   "excerpt": "Argues that collapsing every AI agent into a chat box is a design failure: over-simplified conversational interfaces hide state, options and control that designers should be surfacing. A craft-level critique of the default AX pattern and what should replace it."
+  },
+  {
+   "url": "https://uxdesign.cc/design-md-the-one-standard-file-carries-your-visual-identity-for-humans-and-agents-9058d5b39d9b",
+   "source": "UX Collective",
+   "category": "tokens",
+   "published_iso": "2026-08-01T17:40:36Z",
+   "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*p5Jr0aI-8LwFs1VlzlgEaw.png",
+   "excerpt": "Proposes Design.md as a single machine- and human-readable source of truth for a brand's visual identity, so AI agents build from real tokens and conventions instead of falling back to generic components. A concrete design-system-for-agents pattern."
+  },
+  {
+   "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-08-02T14:12:47Z",
+   "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*p9ZSUqRu3IsE9au13EPvLg.png",
+   "excerpt": "As AI agents increasingly 'read' interfaces before humans do, the piece rethinks who a designer's real audience is and how frameworks built for human eyes must adapt when a machine proxy sees the design first."
+  },
+  {
+   "url": "https://dev.to/eliofbm/i-gave-my-ai-coding-assistant-a-design-degree-one-skill-875-likes-later-1ac0",
+   "source": "DEV Community",
+   "category": "workflow",
+   "published_iso": "2026-08-03T06:03:38Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flboi3qd02kzr0qaxktwe.png",
+   "excerpt": "A widely-shared walkthrough (875+ likes) of packaging design principles into a reusable 'skill' file that measurably improves an AI coding assistant's visual output — turning vague vibe-coded UIs into brand-consistent design. Practical AX craft for designers steering agents."
+  },
+  {
+   "url": "https://www.creativebloq.com/ai/everyone-in-this-ai-art-row-has-a-point-and-thats-what-worries-me",
+   "source": "Creative Bloq",
+   "category": "workflow",
+   "published_iso": "2026-08-03T05:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/3d8gDVhkWRwpqaqYHxNqwQ-1280-80.jpg",
+   "excerpt": "A Belfast gallery's decision to exhibit AI-generated art has split the creative community; the essay weighs both sides of how generative AI is reshaping what counts as art and authorship for working creatives. Marginal (opinion) — included for outlet diversity."
+  }
+ ]
 }

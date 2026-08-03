@@ -1,26 +1,38 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-04",
   "section": "gadgets",
-  "count": 1,
   "cards": [
     {
-      "id": "samsung-galaxy-glasses-gemini",
+      "id": "gadgets-samsung-gemini-notebook",
       "eyebrow": "AI NEWS",
-      "headline": "메타 레이밴에 맞설 삼성 글래스가\n구글과 함께 온다",
-      "mini_headline": "삼성 제미나이 글래스",
-      "body": "삼성이 구글, 젠틀몬스터와 함께 만든 제미나이 스마트 글래스로 실시간 번역과 길 안내를 예고했다.",
+      "headline": "삼성 새 폴더블에 구글 제미나이\n노트북이 기본으로 탑재된다",
+      "mini_headline": "제미나이 노트북 기본 탑재",
+      "body": "갤럭시 Z 폴드8과 플립8에 웹 자료를 팟캐스트나 슬라이드로 바꿔주는 제미나이 노트북이 깔려 있다.",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-galaxy-gemini-smart-glasses-3689544/",
-      "accent": "#ff5a4d",
-      "motif": "headset",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2220546/samsung-new-foldables-come-with-gemini-notebook/",
+      "accent": "#7928ca",
+      "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg" },
-          { "t": "p", "x": "삼성이 언팩에서 제미나이를 얹은 스마트 글래스 두 종을 미리 보였다. 구글, 그리고 안경 브랜드 워비파커와 젠틀몬스터가 함께 만든 제품이다." },
-          { "t": "p", "x": "화면 없는 안경테에 카메라가 달렸다. 제미나이가 이 눈으로 주변을 보고 읽어, 실시간 번역과 길 안내, 알림 요약을 곧바로 건넨다." },
-          { "t": "p", "x": "무거운 연산은 짝을 이룬 갤럭시 폰이 떠맡는다. 안경은 폰 곁에서 늘 켜져 있는 AI 창구가 되는 셈인데, 창작자와 일상 사용자 모두를 겨냥한 방향이 분명하다." }
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/samsungs-new-foldables-come-with-gemini-notebook-pre-installed/intro-1784722468.jpg",
+            "cap": "삼성 새 폴더블에 들어간 구글 AI 기능"
+          },
+          {
+            "t": "p",
+            "x": "삼성이 새 폴더블 갤럭시 Z 폴드8 울트라와 폴드8, 플립8에 구글 제미나이 노트북을 기본으로 넣어 내놨다. 예전 노트북LM을 이름만 바꾼 도구다."
+          },
+          {
+            "t": "p",
+            "x": "웹 페이지와 영상, 대화 내용 같은 자료를 한곳에 모으면, 제미나이 노트북이 이를 슬라이드나 영상, 플래시카드, 심지어 팟캐스트로 만들어 준다. 모아둔 주제를 두고 곧바로 물어보는 대화 기능도 있다."
+          },
+          {
+            "t": "p",
+            "x": "일부 기능은 유료 제미나이가 있어야 쓰는데, 기기를 사면 구글 AI 프로 6개월 체험판이 딸려 온다. 갤럭시 워치9에서는 손목을 들어 올리기만 하면 제미나이를 불러 질문을 건넨다."
+          }
         ]
       }
     }

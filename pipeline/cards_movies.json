@@ -1,67 +1,89 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-04",
   "section": "movies",
   "cards": [
     {
-      "id": "luma-layers",
+      "id": "movies-kokboru",
       "eyebrow": "AI NEWS",
-      "headline": "프롬프트 대신\n요소 단위로 고친다",
-      "body": "Luma의 Layers는 프롬프트를 통째로 다시 돌리는 대신 AI 이미지를 요소 하나하나 정밀하게 고치게 한다.",
-      "mini_headline": "요소 단위 편집",
+      "headline": "손그림과 생성 AI로\n2주 만에 완성한 단편",
+      "body": "힉스필드가 손그림과 생성 AI를 엮어 15분 단편을 12명이 2주 만에 완성했다.",
+      "mini_headline": "2주 만의 AI 단편",
       "tool": "Movies",
-      "source": "Luma AI",
-      "url": "https://lumalabs.ai/news/introducing-layers",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "img", "src": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg" },
-          { "t": "p", "x": "Luma AI가 자사 영화 제작 도구 안에 Layers를 새로 얹었다. AI로 만든 이미지를 요소 단위로 만지며 정밀하게 편집할 수 있게 하는 기능이다." },
-          { "t": "p", "x": "그동안은 결과가 마음에 들지 않으면 프롬프트를 통째로 다시 돌려야 했다. Layers는 그 방식을 벗어나, 화면 속 개별 요소를 골라 하나씩 손볼 수 있게 한다." },
-          { "t": "p", "x": "생성형 작업을 프롬프트 운에 맡기는 단계에서 끌어내려, 감독하고 다시 고치는 통제된 작업으로 옮기는 셈이다. 필름메이커와 프리비주얼 아티스트가 기대하던 결의 제어다." }
-        ]
-      }
-    },
-    {
-      "id": "frame-io-search",
-      "eyebrow": "AI NEWS",
-      "headline": "전체 화면 검색과\n비교 뷰어 개선",
-      "body": "Adobe Frame.io가 전체 화면 검색과 AI 검색 토글, 비교 뷰어 개선으로 촬영본을 더 빠르게 찾고 검토하게 한다.",
-      "mini_headline": "전체 화면 검색",
-      "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          { "t": "img", "src": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg" },
-          { "t": "p", "x": "Adobe의 Frame.io가 전용 전체 화면 검색 페이지를 새로 내놨다. 일반 검색과 AI 검색을 토글로 오갈 수 있게 해, 원하는 촬영본을 더 빠르게 찾도록 했다." },
-          { "t": "p", "x": "여기에 비교 뷰어도 손봤다. 편집자와 포스트 팀이 여러 프로젝트를 넘나들며 촬영본을 찾아보고 검토하는 흐름이 한층 매끄러워진다." },
-          { "t": "p", "x": "필름과 TV의 리뷰·승인 팀이 미디어를 훑는 방식이 실무 차원에서 바뀌는 지점이다. 곧바로 쓸 수 있는, 구체적인 워크플로 변화다." }
-        ]
-      }
-    },
-    {
-      "id": "wonder-dynamics",
-      "eyebrow": "AI NEWS",
-      "headline": "연기를 CG로 옮기되\n손은 아티스트가",
-      "body": "Wonder Dynamics의 Flow Studio는 실사 연기를 CG 캐릭터로 옮기면서도 아티스트가 통제권을 쥐게 한다.",
-      "mini_headline": "연기를 CG로",
-      "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/higgsfield-debuts-k-k-b-r-showcasing-hybrid-human-ai-animation-pipeline",
       "accent": "#7928ca",
-      "motif": "frame",
+      "motif": "bloom",
       "full": {
         "mode": "full",
         "blocks": [
-          { "t": "img", "src": "https://nofilmschool.com/media-library/wonder-dynamics.webp?id=67559520&width=1245&height=700&quality=50&coordinates=0%2C53%2C0%2C24" },
-          { "t": "p", "x": "Wonder Dynamics의 공동 창업자 타이 셰리든과 니콜라 토도로비치가 자신들의 필름메이킹 이력이 Autodesk Flow Studio를 어떻게 빚었는지 풀어놓았다." },
-          { "t": "p", "x": "Flow Studio는 실사 연기를 CG 캐릭터로 옮겨 주는 AI 도구다. 다만 손을 완전히 떼게 하지 않는다. 결정의 키는 아티스트가 쥐고, 기존 VFX 파이프라인과도 무리 없이 맞물린다." },
-          { "t": "p", "x": "연기를 CG로 옮기는 작업을 대체가 아니라 하나의 공예적 워크플로로 바라보는, 담담하고 현장감 있는 이야기다." }
+          {
+            "t": "video",
+            "yt": "BwVG_n9-jz4"
+          },
+          {
+            "t": "p",
+            "x": "힉스필드가 시그라프 2026에서 첫 15분짜리 애니메이션 Kök Börü를 공개하고 제작에 쓴 인간·AI 혼합 공정도 함께 선보였다. 15세기 중앙아시아 유목 문화와 설화에서 길어 올린 역사 드라마다."
+          },
+          {
+            "t": "p",
+            "x": "제목은 말을 탄 팀이 짐승 몸통을 골라인 너머로 끌고 가 점수를 내는 중앙아시아 전통 경기 kök börü에서 왔다. 감독은 키르기스스탄 출신 샤흐나자르 보르보예프와 카자흐스탄 출신 아미나 외미르잔·스테판 아브라모프다. 제작진은 애니메이터 다섯, 작가 둘, 사운드 프로듀서 셋, 컬러 아티스트와 사운드 슈퍼바이저를 더한 열두 명이었고 카자흐 배우들이 목소리를 맡았다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/kokboru1.jpg",
+            "cap": "시그라프 2026에서 공개된 Kök Börü의 한 장면"
+          },
+          {
+            "t": "p",
+            "x": "캐릭터 시트와 배경, 전체 환경은 먼저 힉스필드의 Soul Cartoon에서 만들었다. NVLink를 얹은 NVIDIA B300 클러스터로 학습한 모델이다. 여기서 나온 결과를 아티스트가 와콤 태블릿에서 전통 작화처럼 다시 손봤다. 실사 연기를 찍어 Motion Control로 캐릭터에 옮겨 수트도 마커도 그린스크린도 없이 사람 연기의 타이밍과 무게, 감정을 그대로 입혔다. 최종 애니메이션은 여러 모델을 지휘하는 AI 에이전트 Cinema Studio and Supercomputer에서 뽑았다."
+          },
+          {
+            "t": "p",
+            "x": "힉스필드는 이 방식으로 통상 1~2년과 100만~200만 달러가 드는 작업을 2주 만에 끝냈다고 밝혔다. 공동창업자이자 CEO인 알렉스 마슈라보프는 “목표는 결코 아티스트를 대체하는 게 아니라, 더 많은 이가 이 수준의 이야기를 만들 수단을 갖게 하는 것”이라고 말했다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-stranger-vfx",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 얼굴 교체 대신\n전통 CG로 되살린 어린 윌",
+      "body": "제작진은 ILM·웨타의 AI 얼굴 교체 대신 통제 쉬운 전통 CG 얼굴을 택했다.",
+      "mini_headline": "AI 대신 전통 CG",
+      "tool": "Movies",
+      "source": "fxguide",
+      "url": "https://www.fxguide.com/fxpodcasts/vecna-demogorgons-and-young-will-inside-the-vfx-of-stranger-things-s5/",
+      "accent": "#ff4d4d",
+      "motif": "orbit",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "시즌 5는 어린 윌을 되살리는 오프닝부터 난도가 높아 대본 단계부터 VFX 슈퍼바이저 패터슨의 위험 목록에 올라 있었다. 어린 시절 노아 슈납을 닮은 배우 루크를 캐스팅했고 슈납이 현장에서 겁먹은 눈과 떨리는 입 같은 원래 연기의 결을 코치했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.fxguide.com/wp-content/uploads/2026/07/onsetwires-830x414.jpg",
+            "cap": "와이어 스턴트가 걸린 현장 촬영"
+          },
+          {
+            "t": "p",
+            "x": "촬영에는 얼굴 추적 점과 메인 카메라에 붙인 위트니스 카메라 두 대, 숲 세트 둘레의 카메라 네 대가 동원됐고 웨타 FX 슈퍼바이저가 현장에서 데이터 수집을 챙겼다. 완성된 시퀀스의 얼굴 숏은 약 40개다. 점프와 낙하는 작은 체구의 스턴트 배우가 실제 몸으로 소화하고 머리만 디지털로 붙였다."
+          },
+          {
+            "t": "p",
+            "x": "패터슨은 ILM과 웨타 FX의 방식을 모두 검토했다. 머신러닝 얼굴 교체는 한 프레임씩 보면 훌륭했지만 특정 연출을 세밀하게 손볼 여지가 좁았다. 그래서 넉넉한 캡처 자료를 등에 업은 전통 풀 CG 얼굴이 더 안전한 길이었다. 웨타는 시즌 1 영상과 다른 테이크, 아웃테이크, 홍보 자료와 인터뷰까지 쓸 만한 어린 윌 이미지를 죄다 모았다. 가장 까다로운 건 입이었는데, 노래하는 장면에서 실마리를 풀었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.fxguide.com/wp-content/uploads/2026/07/progression-830x155.jpg",
+            "cap": "어린 윌 디지털 얼굴의 단계별 진행"
+          },
+          {
+            "t": "p",
+            "x": "베크나는 제이미 캠벨 바워가 거의 모든 숏을 현장에서 직접 연기했고 몸은 디지털로 갈아 끼웠다. “제이미의 연기라는 점이 모두에게 정말 중요했다”고 패터슨은 말했다. 데모고르곤은 새로 디자인하는 대신 어깨와 엉덩이 움직임, 달리기, 근육 시뮬레이션을 다듬었다. 창작물 대부분은 웨타 FX가 맡았고 슈퍼바이저는 마틴 힐이다. ILM은 뒤집힌 세계 파괴 같은 환경을 손봤다."
+          }
         ]
       }
     }

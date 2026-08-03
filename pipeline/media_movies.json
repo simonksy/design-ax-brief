@@ -1,22 +1,15 @@
 {
-  "date": "2026-08-02",
-  "section": "movies",
   "media": [
     {
-      "id": "luma-layers",
+      "id": "movies-kokboru",
       "type": "video",
-      "src": "pipeline/media/luma-layers.mp4",
-      "poster": "pipeline/media/luma-layers.jpg"
+      "src": "pipeline/media/movies-kokboru.mp4",
+      "poster": "pipeline/media/movies-kokboru.jpg"
     },
     {
-      "id": "frame-io-search",
+      "id": "movies-stranger-vfx",
       "type": "image",
-      "src": "pipeline/media/frame-io-search.jpg"
-    },
-    {
-      "id": "wonder-dynamics",
-      "type": "image",
-      "src": "pipeline/media/wonder-dynamics.webp"
+      "src": "pipeline/media/movies-stranger-vfx.jpg"
     }
   ]
 }

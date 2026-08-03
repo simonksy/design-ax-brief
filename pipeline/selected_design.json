@@ -1,74 +1,54 @@
-{
-  "date": "2026-08-01",
-  "section": "design",
-  "selection_mode": "auto",
-  "generated_iso": "2026-08-01T22:00:36Z",
-  "count": 5,
-  "picks": [
-    {
-      "title": "A properties panel and annotations, now in Figma Make",
-      "url": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
-      "source": "Figma",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-07-30T19:25:32Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/d1366af0a7f2c9945aa6a7a693f319518f22fc63-3840x2160.png",
-      "excerpt": "Figma Make adds a visual properties panel and annotations, letting designers edit AI-generated output directly and hand off intent to code without re-prompting. A real feature release tightening the design-to-code loop in Figma's AI builder.",
-      "rationale": "Concrete Figma Make feature release that changes the edit/handoff loop designers use tomorrow — highest actionability in the pool."
-    },
-    {
-      "title": "Perplexity diverges with color: building data color schemes with generative AI",
-      "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad",
-      "source": "UX Collective",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-08-01T02:47:35Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*2Uyw7GVZYWxyrQo80EZtYA.png",
-      "excerpt": "A hands-on look at using generative AI (via Perplexity) to construct diverging data-visualization color schemes and palette tokens. A concrete workflow for folding AI into the systematic, accessibility-sensitive craft of color-system design.",
-      "rationale": "Hands-on, reproducible method for generating accessible color-scheme tokens with AI — actionable craft, and adds category diversity beyond workflow."
-    },
-    {
-      "title": "From Tinder and Reddit to Amazon, unwanted AI images are freaking people out",
-      "url": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-08-01T12:08:46Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/WXgEEFXG8UBjSLSnk2RFD8-2000-80.jpg",
-      "excerpt": "Across Amazon, Tinder and Reddit, products are now silently generating or editing users' photos with AI by default, with opt-out left to the user. A pointed product-design and UX-consent lesson as generative image AI gets pushed into mainstream interfaces without asking.",
-      "rationale": "A sharp product-design/consent case study on default-on generative AI across major apps — a UX-ethics signal designers should weigh in their own patterns."
-    },
-    {
-      "title": "AI fluency isn't the finish line",
-      "url": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
-      "source": "Figma",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "published_iso": "2026-07-31T21:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/b437cd59cfe0bda60b9a33da411e38252b56dbd1-1682x918.png",
-      "excerpt": "Ninety percent of product builders call AI skills essential, but Figma argues teams are optimizing for the wrong ones and reframes what design craft means past basic tool fluency. A pointed take on how AI is reshaping the skills a design org actually needs.",
-      "rationale": "Credible Figma-authored reframing of which AI-era design skills actually matter — shapes how teams train and hire, backed by survey data."
-    },
-    {
-      "title": "Creative technologists are moving from the margins to the center",
-      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6",
-      "source": "UX Collective",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "published_iso": "2026-08-01T02:44:36Z",
-      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.65/1*_ljUGVuohH1v0usJ-TpBCQ.png",
-      "excerpt": "Once a fringe job title, creative technology is becoming a core capability inside modern product teams as AI collapses the gap between design and code. Argues the designer-who-builds is shifting from novelty to default operating model for AI-era design orgs.",
-      "rationale": "Frames the designer-who-builds as the new default operating model — a role-shift insight for how design teams staff and structure around AI."
-    }
-  ]
-}
+[
+  {
+    "id": "design-design-skill",
+    "title": "I Gave My AI Coding Assistant a Design Degree. One Skill, 875 Likes Later.",
+    "url": "https://dev.to/eliofbm/i-gave-my-ai-coding-assistant-a-design-degree-one-skill-875-likes-later-1ac0",
+    "source": "DEV Community",
+    "category": "workflow",
+    "tool": "Codex",
+    "accent": "#E8622C",
+    "motif": "prism",
+    "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flboi3qd02kzr0qaxktwe.png",
+    "published_iso": "2026-08-03T06:03:38Z",
+    "excerpt": "Packaging a complete zine design system into a reusable Codex skill file measurably turns generic AI output into intentional, gallery-worthy visuals."
+  },
+  {
+    "id": "design-design-md",
+    "title": "Design.md: the one standard file carries your visual identity for humans and agents",
+    "url": "https://uxdesign.cc/design-md-the-one-standard-file-carries-your-visual-identity-for-humans-and-agents-9058d5b39d9b",
+    "source": "UX Collective",
+    "category": "tokens",
+    "tool": "DESIGN.md",
+    "accent": "#2F6DF6",
+    "motif": "grid",
+    "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*p5Jr0aI-8LwFs1VlzlgEaw.png",
+    "published_iso": "2026-08-01T17:40:36Z",
+    "excerpt": "A single plain-text file pairs machine-readable design tokens with human-readable rationale so AI agents build from a real brand instead of generic defaults."
+  },
+  {
+    "id": "design-proxy",
+    "title": "Designing for the proxy",
+    "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335",
+    "source": "UX Collective",
+    "category": "workflow",
+    "tool": "LLM",
+    "accent": "#6B4FD6",
+    "motif": "orbit",
+    "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*p9ZSUqRu3IsE9au13EPvLg.png",
+    "published_iso": "2026-08-02T14:12:47Z",
+    "excerpt": "As language models read and summarize work before humans do, designers must decide what should be optimized for machines and what should stay human."
+  },
+  {
+    "id": "design-ai-art-row",
+    "title": "Everyone in this AI art row has a point – and that's what worries me",
+    "url": "https://www.creativebloq.com/ai/everyone-in-this-ai-art-row-has-a-point-and-thats-what-worries-me",
+    "source": "Creative Bloq",
+    "category": "workflow",
+    "tool": "Generative AI",
+    "accent": "#C43D5A",
+    "motif": "wave",
+    "og_image": "https://cdn.mos.cms.futurecdn.net/3d8gDVhkWRwpqaqYHxNqwQ-1280-80.jpg",
+    "published_iso": "2026-08-03T05:00:00Z",
+    "excerpt": "A Belfast gallery showing AI-generated art splits the creative community, with both the free-expression and the scraped-data objections holding real weight."
+  }
+]

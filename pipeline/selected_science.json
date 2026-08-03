@@ -1,47 +1,67 @@
-{
-  "date": "2026-08-02",
-  "section": "science",
-  "selection_mode": "auto",
-  "count": 3,
-  "picks": [
-    {
-      "id": "ai-telescope-stargazing",
-      "tool": "Science",
-      "headline": "First AI-driven telescope goes stargazing",
-      "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
-      "source": "Phys.org (Northwestern University)",
-      "published_iso": "2026-07-31T12:00:00Z",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg",
-      "excerpt": "Scientists from Northwestern, University of Chicago and Fermilab deployed a reinforcement-learning AI to autonomously schedule Dark Energy Camera observations, adapting the plan in real time as sky and weather conditions change -- a milestone toward self-running observatories, with performance the team rates comparable to a human scheduler.",
-      "rationale": "New milestone: a reinforcement-learning agent autonomously schedules a real survey telescope in real time -- a concrete step toward self-running observatories, AI directly advancing observational astronomy."
-    },
-    {
-      "id": "ai-agent-synchrotron",
-      "tool": "Science",
-      "headline": "AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation",
-      "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
-      "source": "Phys.org (Stanford / SLAC)",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg",
-      "excerpt": "Stanford and SLAC researchers built an AI agent that autonomously aligns crystal samples at synchrotron X-ray beamlines -- reading detector images, experiment logs and scan results, then issuing instrument-control commands -- a step toward self-driving experimental facilities that free scientists from routine setup.",
-      "rationale": "Distinct lab-automation advance: an AI agent reads instrument data and issues control commands to align samples at a major user facility, pushing beamline science toward autonomous operation."
-    },
-    {
-      "id": "brain-age-sleep-eeg",
-      "tool": "Science",
-      "headline": "AI 'brain age' from sleep EEG flags sharply higher dementia risk",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
-      "source": "ScienceDaily (UC San Francisco)",
-      "published_iso": "2026-07-31T12:00:00Z",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "og_image": "",
-      "excerpt": "UCSF researchers used machine learning on overnight sleep-EEG recordings from about 7,000 adults to estimate each person's 'brain age'; brains scoring older than the person's actual age were tied to a sharply elevated risk of developing dementia -- an AI biomarker turning routine sleep data into early neurological insight.",
-      "rationale": "Novel AI biomarker: machine learning on routine sleep-EEG estimates 'brain age' at scale (~7,000 adults) and links it to dementia risk -- AI intersecting neuroscience and clinical prediction, distinct from prior BCI/cognition coverage."
-    }
-  ]
-}
+[
+  {
+    "id": "science-brain-to-text",
+    "title": "Noninvasive AI-based system translates brain signals into written text",
+    "url": "https://techxplore.com/news/2026-08-noninvasive-ai-based-brain-written.html",
+    "source": "Tech Xplore (Meta AI, Universite PSL & Rothschild Foundation Hospital)",
+    "category": "science",
+    "tool": "Science",
+    "accent": "#2ec5c5",
+    "motif": "sphere",
+    "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra.jpg",
+    "published_iso": "2026-08-03T12:00:00Z",
+    "excerpt": "Researchers at Meta AI, Universite PSL and the Rothschild Foundation Hospital introduced a noninvasive brain-activity-to-text approach that decodes language from brain signals without surgery, a step toward accessible brain-computer interfaces."
+  },
+  {
+    "id": "science-ai-reasoning-wrong-reasons",
+    "title": "Is AI Reasoning Right for the Wrong Reasons?",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "source": "Quanta Magazine",
+    "category": "science",
+    "tool": "Science",
+    "accent": "#7928ca",
+    "motif": "cube",
+    "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Lede-scaled.webp",
+    "published_iso": "2026-07-31T10:00:00Z",
+    "excerpt": "The idea that AI can 'reason' is more intuitive than ever, but the science is far from settled; researchers probe whether models reason or merely appear to."
+  },
+  {
+    "id": "science-clinical-chatbots-trust",
+    "title": "Clinical chatbots are taking medicine by storm. Should doctors trust them?",
+    "url": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/",
+    "source": "STAT News (NYU Langone Health, Nature Medicine)",
+    "category": "science",
+    "tool": "Science",
+    "accent": "#ff5a4d",
+    "motif": "frame",
+    "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/doctors-llms-1-645x645.jpg",
+    "published_iso": "2026-07-29T12:00:00Z",
+    "excerpt": "A Nature Medicine study from NYU Langone Health tested general vs. specialized clinical AI models on clinical questions, finding specialized clinical AI performed worse than general models."
+  },
+  {
+    "id": "science-genome-gene-switching",
+    "title": "AI tool predicts how DNA sequences switch on genes across different cell types",
+    "url": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
+    "source": "Phys.org (Max Planck Institute)",
+    "category": "science",
+    "tool": "Science",
+    "accent": "#3b6bff",
+    "motif": "swatch",
+    "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-based-tool-allo.jpg",
+    "published_iso": "2026-07-21T09:00:00Z",
+    "excerpt": "Max Planck researchers built Corgi (Context-aware Regulatory Genomics Inference), a deep-learning tool that predicts how the genome behaves and switches on genes across different cell types."
+  },
+  {
+    "id": "science-ai-cryptography-two-proofs",
+    "title": "Two research efforts gave AI the same open problem. Their papers were submitted three hours apart",
+    "url": "https://www.scientificamerican.com/article/ai-helped-produce-two-proofs-for-the-same-cryptography-problem/",
+    "source": "Scientific American",
+    "category": "science",
+    "tool": "Science",
+    "accent": "#f5a623",
+    "motif": "headset",
+    "og_image": "https://static.scientificamerican.com/dam/asset/e97018e5-ae61-4316-a006-bdb874245d1d/Man-at-mathematics-blackboard.jpg",
+    "published_iso": "2026-07-31T12:00:00Z",
+    "excerpt": "An MIT PhD student and two UC cryptographers used GPT-5.6 Sol Ultra in different ways to solve the same open cryptography problem, raising new questions about independent discovery and scientific credit."
+  }
+]

@@ -1,9 +1,29 @@
 {
-  "date": "2026-08-02",
-  "section": "science",
   "media": [
-    { "id": "ai-telescope-stargazing", "type": "image", "src": "pipeline/media/ai-telescope-stargazing.jpg" },
-    { "id": "ai-agent-synchrotron", "type": "image", "src": "pipeline/media/ai-agent-synchrotron.jpg" },
-    { "id": "brain-age-sleep-eeg", "type": "image", "src": "pipeline/media/brain-age-sleep-eeg.jpg" }
+    {
+      "id": "science-brain-to-text",
+      "type": "image",
+      "src": "pipeline/media/science-brain-to-text.jpg"
+    },
+    {
+      "id": "science-ai-reasoning-wrong-reasons",
+      "type": "image",
+      "src": "pipeline/media/science-ai-reasoning-wrong-reasons.jpg"
+    },
+    {
+      "id": "science-clinical-chatbots-trust",
+      "type": "image",
+      "src": "pipeline/media/science-clinical-chatbots-trust.jpg"
+    },
+    {
+      "id": "science-genome-gene-switching",
+      "type": "image",
+      "src": "pipeline/media/science-genome-gene-switching.jpg"
+    },
+    {
+      "id": "science-ai-cryptography-two-proofs",
+      "type": "image",
+      "src": "pipeline/media/science-ai-cryptography-two-proofs.jpg"
+    }
   ]
 }

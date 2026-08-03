@@ -1,36 +1,162 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-04",
   "section": "music",
   "cards": [
     {
-      "id": "soundboost",
+      "id": "music-omni-daw",
       "eyebrow": "AI NEWS",
-      "headline": "사운드부스트, 원하는 소리를 말하면\nAI가 믹싱과 마스터링을 끝낸다",
-      "mini_headline": "사운드부스트, 말로 믹싱",
-      "body": "원하는 소리를 말로 설명하면 믹싱과 마스터링이 끝나고, 무료 스템 분리기까지 함께 제공된다.",
+      "headline": "AI 샘플 생성을 품은 첫 DAW\nOMNi가 무료 알파로 나왔다",
+      "body": "러스트로 만든 OMNi는 ElevenLabs 샘플 생성과 이미지를 소리로 바꾸는 합성을 워크스테이션에 그대로 담았다.",
+      "mini_headline": "AI 샘플 품은 첫 DAW",
       "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/07/30/soundboost-natural-language-music-mastering-mixing/",
-      "accent": "#ff2d55",
-      "motif": "sphere",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/",
+      "accent": "#10b981",
+      "motif": "grid",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "ZETNTQjv40I"
+          },
+          {
+            "t": "p",
+            "x": "OMNi는 개발자 Tomasz Głuc가 러스트로만 짜서 내놓은 무료 DAW다. 아직 알파 0.1 단계지만 오디오가 끊기지 않도록 락프리 구조를 깔아 성능과 안정성을 앞세웠다."
+          },
+          {
+            "t": "p",
+            "x": "OMNi를 남다르게 만드는 건 워크스테이션에 바로 붙인 AI다. 개발자는 이 프로그램을 두고 네이티브 AI 샘플 생성과 이미지-소리 합성을 갖춘 세계 첫 DAW라고 소개한다."
+          },
+          {
+            "t": "img",
+            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/TomaszGluc-OMNi-728x364.jpg",
+            "cap": "OMNi 인터페이스 (사진: Bedroom Producers Blog)"
+          },
+          {
+            "t": "p",
+            "x": "샘플 생성은 ElevenLabs가 맡는다. 길이나 프롬프트 반영 정도 같은 값을 지정하면 원하는 소리를 빠르게 뽑아낸다. 이미지를 스펙트럼으로 읽어 소리로 바꾸는 Iris 엔진도 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "속을 채운 도구도 두툼하다. 16보이스 폴리신스 PolySynth와 드럼신스, 물리 모델링 어쿠스틱 악기까지 신스 엔진이 14개, 정밀 EQ와 리미터, 그래뉼러 클라우드까지 내장 FX가 16개다."
+          },
+          {
+            "t": "p",
+            "x": "윈도우와 리눅스용 스탠드얼론으로 돌아가고 LV2·CLAP·VST3 플러그인도 지원한다. 다만 맥 버전은 아직 없다."
+          },
+          {
+            "t": "p",
+            "x": "필자 James Nugent는 개발 과정을 짚었다. \"개발자가 이 주제를 두고 나만큼 투명하게 이야기해 주지 않아 조금 아쉬웠다\"면서도, 이건 대충 만든 프로젝트가 아니라 러스트로 27만 줄 넘게 쌓아 올린 DAW라고 덧붙였다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-soundid-voiceai-cpop",
+      "eyebrow": "AI NEWS",
+      "headline": "Sonarworks 보이스 AI에\n중화권 목소리 10종 더해졌다",
+      "body": "정식 계약으로 확보한 소리로 학습한 10종으로, 프로듀서는 DAW 안에서 만다린·광둥어 팝을 다른 목소리로 다시 부른다.",
+      "mini_headline": "중화권 AI 보이스 10종",
+      "tool": "Music",
+      "source": "Sound on Sound",
+      "url": "https://www.soundonsound.com/news/sonarworks-expand-soundid-voiceai-library",
+      "accent": "#ff2d7e",
+      "motif": "wave",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Sonarworks가 보컬 변환 도구 SoundID VoiceAI에 C-pop 보이스 확장팩을 새로 붙였다. 남성 다섯, 여성 다섯으로 중화권 목소리 10종이 들어오는데, 만다린·광둥어 팝 같은 스타일에 맞춰 만들었다."
+          },
+          {
+            "t": "img",
+            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
+            "cap": "SoundID VoiceAI C-pop 중화권 보이스 확장팩 (사진: Sonarworks)"
+          },
+          {
+            "t": "p",
+            "x": "이 목소리들은 정식 계약을 맺고 저작권을 지킨 소리로만 학습했다. 싱크나 라이브러리 작업, 그리고 정작 부를 가수를 못 구했을 때 가이드나 데모를 만드는 창작자를 겨냥했다."
+          },
+          {
+            "t": "p",
+            "x": "Sonarworks는 AI 윤리를 강조한다. \"AI는 창의성을 대체하는 게 아니라 북돋아야 한다\"는 게 회사의 입장이다. SoundID VoiceAI는 사람을 밀어내지 않고 돕도록 만들었고, 모든 목소리는 뚜렷이 동의하고 정당하게 보상받은 전문 가수와 함께 만들었다고 설명한다."
+          },
+          {
+            "t": "p",
+            "x": "윈도우 10 이상과 macOS 11 이상에서 VST3·AU·AAX 플러그인으로 쓴다. 가격은 29달러이고 지금 바로 살 수 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-artist-growth-mcp",
+      "eyebrow": "AI NEWS",
+      "headline": "음악 산업 첫 MCP 서버가\nAI에 현업 데이터를 연결한다",
+      "body": "권한이 걸린 운영 데이터를 ChatGPT와 Claude에 물린 이 MCP 서버로, 45분짜리 작업을 20초 만에 끝낸다.",
+      "mini_headline": "음악 업계 첫 MCP 서버",
+      "tool": "Music",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/artist-growth-brings-secure-ai-to-music-business-operations/",
+      "accent": "#3b82f6",
+      "motif": "orbit",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "690at7zkkqk"
+          },
+          {
+            "t": "p",
+            "x": "Artist Growth가 음악 업계 첫 MCP 서버라고 내세운 제품을 공개했다. 에이전시와 매니저, 프로모터, 레이블이 쓰는 기업 데이터를 주요 AI 모델에 곧바로 잇는다."
+          },
+          {
+            "t": "p",
+            "x": "플랫폼 데이터를 ChatGPT·Claude·Gemini·Copilot 같은 대형 언어모델에 물리면, 투어 일정표나 런오브쇼 문서를 짜는 복잡한 행정 업무를 짧은 문장 몇 줄로 몇 초 만에 끝낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Matt-Urmy.jpg",
+            "cap": "Artist Growth 공동창업자 겸 CEO Matt Urmy (사진: Artist Growth)"
+          },
+          {
+            "t": "p",
+            "x": "공동창업자 겸 CEO Matt Urmy의 말이다. \"45분 걸리던 일이나 며칠씩 뒤져야 찾던 정보를 고객이 20초도 안 돼 끝내는 걸 직접 봤다.\""
+          },
+          {
+            "t": "p",
+            "x": "권한도 그대로 넘어간다. Artist Growth에서 사용자에게 준 역할별 권한이 언어모델로 이어져, 팀원이든 외부 파트너든 허락받은 데이터에만 손을 댄다. 덕분에 데이터가 새거나 일정이 어긋나는 사고를 막는다. MCP는 ChatGPT 앱스토어에 올라와 있고, Claude·Gemini·Copilot에는 커넥터로 몇 분 만에 붙인다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-tonefield",
+      "eyebrow": "AI NEWS",
+      "headline": "사라진 톤패드 프로의 감각을\nToneField가 되살려 냈다",
+      "body": "Matt Goodluck이 단종된 TonePad Pro를 새로 짜, 점을 찍고 확률로 스스로 자라나는 패턴을 만드는 악기로 되살렸다.",
+      "mini_headline": "톤패드를 되살린 악기",
+      "tool": "Music",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/07/21/new-generative-instrument-for-mac-windows-tonefield/",
+      "accent": "#f5a623",
+      "motif": "bloom",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "사운드부스트가 자연어 텍스트 프롬프트로 돌아가는 AI 믹싱·마스터링을 선보였다. 원하는 소리를 말로 풀어 주면, 프로듀서가 그대로 마스터를 잡아낼 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/soundboost-scaled.jpg"
+            "x": "개발자이자 뮤지션인 Matt Goodluck이 단종된 앱 TonePad Pro에서 영감을 받아 ToneField를 내놓았다. 개념을 처음부터 다시 짜서 현대적인 악기로 키운 뒤 ToneField라는 이름으로 냈다고 했다."
           },
           {
             "t": "p",
-            "x": "여기에 무료 스템 분리기가 더해지고, 회사는 자사 모델을 '윤리적으로 학습시킨' 것으로 내세운다."
+            "x": "쓰는 법은 단순하다. 격자에 점을 찍고 재생을 누르면 음악이 흘러나온다. 열마다 걸린 확률을 만지면 루프를 돌 때마다 패턴이 조금씩 달라진다. 순수 사인파 사운드 엔진에 16×16 시퀀서, 7개 모드를 포함한 13가지 스케일, 라이브 녹음과 MIDI·오디오 내보내기까지 담았다."
           },
           {
             "t": "p",
-            "x": "이미 13만 명이 넘는 뮤지션이 쓰고 있다고 밝히며, 트랙을 마무리하는 방식을 바꿔 놓겠다는 그림이다."
+            "x": "맥과 윈도우에서 쓸 수 있고 가격은 14.99달러다. tonefield.com.au에서 지금 바로 받는다."
           }
         ]
       }

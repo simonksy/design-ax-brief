@@ -1,59 +1,67 @@
-{
-  "date": "2026-08-02",
-  "section": "movies",
-  "selection_mode": "auto",
-  "count": 3,
-  "note": "User deferred — curator auto-picked by scoring. Fresh pool after URL+CONTENT dedup vs sections.movies history (today 08-01 + days 07-27..07-30) held exactly 3 distinct never-published stories: Luma Layers, Frame.io search/comparison update, Wonder Dynamics/Flow Studio. Picked all 3 at the floor; not padded because the filtered pool contains no further unique fresh candidates. Outlets: Luma AI, RedShark News, No Film School — 3 distinct outlets. All three share the single movies category, so distinct palette accents were assigned.",
-  "picks": [
-    {
-      "title": "Introducing Layers",
-      "headline": "Introducing Layers",
-      "url": "https://lumalabs.ai/news/introducing-layers",
-      "source": "Luma AI",
-      "published_iso": "2026-07-29T17:28:48Z",
-      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
-      "excerpt": "Luma AI launched Layers, giving creators precision editing and element-by-element control over any AI-generated image inside its filmmaking toolset, rather than re-rolling a whole prompt. A craft-level capability that pushes generative work toward the directed, revisable control filmmakers and previs artists expect.",
-      "tool": "Movies",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Highest actionability: a new release giving element-by-element control over AI-generated images — directed, revisable editing that moves generative film work off prompt-roulette for previs artists tomorrow."
-    },
-    {
-      "title": "Frame.io adds full-screen search and Comparison Viewer updates",
-      "headline": "Frame.io adds full-screen search and Comparison Viewer updates",
-      "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
-      "source": "RedShark News",
-      "published_iso": "2026-08-01T06:42:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg",
-      "excerpt": "Adobe's Frame.io rolls out a dedicated full-screen search page with a toggle between standard and AI-powered search, plus Comparison Viewer updates, letting editors and post teams find and review footage across projects faster. A concrete workflow shift for how film/TV review-and-approval teams navigate media.",
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "Concrete, ship-now feature update to a widely-used review platform — full-screen AI search and Comparison Viewer changes how post review-and-approval teams find and compare footage immediately."
-    },
-    {
-      "title": "The Filmmakers at Wonder Dynamics Building AI for Filmmakers",
-      "headline": "The Filmmakers at Wonder Dynamics Building AI for Filmmakers",
-      "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
-      "source": "No Film School",
-      "published_iso": "2026-07-30T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/wonder-dynamics.webp?id=67559520&width=1245&height=700&quality=50&coordinates=0%2C53%2C0%2C24",
-      "excerpt": "Wonder Dynamics co-founders Tye Sheridan and Nikola Todorovic discuss how their filmmaking backgrounds shaped Autodesk Flow Studio, an AI tool that transfers live-action performances onto CG characters while keeping artists in control and staying compatible with established VFX pipelines. A grounded look at AI-assisted performance-to-CG as a craft workflow, not a replacement.",
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "Insider view of Autodesk Flow Studio's performance-to-CG workflow and how it slots into established VFX pipelines — practical craft framing that keeps artists in control, from a distinct outlet."
-    }
-  ],
-  "shortfall": true,
-  "dedup_report": {
-    "candidates_evaluated": 3,
-    "kept": 3,
-    "dropped_as_duplicates": 0,
-    "floor": 3,
-    "cap": 5,
-    "shortfall_reason": "Floor 3 met exactly. The filtered candidate pool held only 3 items. No candidate matched movies published history by URL or content. No further unique fresh stories exist — no padding, no re-use of published stories.",
-    "drops": [],
-    "history_checked_against": "news_data.json sections.movies today(08-01: hp-z-captis-adobe, frostfx, +) + days(07-27: netflix300, grokodyssey, servicemake, meshyagent; 07-28: martini, aitoolvetting; 07-29: reluctant-ai, gods-gifts, reply-jury; 07-30: saga-ai-video-source-attribution). Frame.io != frostfx/grok-odyssey (distinct RedShark articles); Luma Layers != serviceplan case study; Wonder Dynamics != SAGA/martini. No URL or story matched."
+[
+  {
+    "id": "movies-kokboru",
+    "title": "Higgsfield Debuts 'Kök Börü', Showcasing Hybrid Human-AI Animation Pipeline",
+    "url": "https://www.awn.com/news/higgsfield-debuts-k-k-b-r-showcasing-hybrid-human-ai-animation-pipeline",
+    "source": "Animation World Network",
+    "category": "movies",
+    "tool": "Movies",
+    "accent": "#7928ca",
+    "motif": "bloom",
+    "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/kokboru1.jpg?itok=GWcRy1zx",
+    "published_iso": "2026-07-23T12:00:00Z",
+    "excerpt": "At SIGGRAPH 2026, AI video platform Higgsfield premiered Kök Börü, a 15-minute animated short pairing generative AI with hand-drawn digital animation. Character sheets and environments were generated in Higgsfield's Soul Cartoon (trained on an NVIDIA B300 cluster) then enhanced by artists on Wacom tablets, cutting a 1-2 year, $1-2M production down to about two weeks."
+  },
+  {
+    "id": "movies-stranger-vfx",
+    "title": "Vecna, Demogorgons and Young Will: Inside the VFX of Stranger Things S5",
+    "url": "https://www.fxguide.com/fxpodcasts/vecna-demogorgons-and-young-will-inside-the-vfx-of-stranger-things-s5/",
+    "source": "fxguide",
+    "category": "movies",
+    "tool": "Movies",
+    "accent": "#ff4d4d",
+    "motif": "orbit",
+    "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-STS5_fin.jpg",
+    "published_iso": "2026-08-03T20:03:01Z",
+    "excerpt": "The Stranger Things S5 VFX team weighed AI/ML face replacement from ILM and Weta FX for young Will's de-aging scenes, but ultimately chose a fully traditional CG face for the creative control it gave the Duffers when specific adjustments were needed."
+  },
+  {
+    "id": "movies-beeble",
+    "title": "Is this the future of filmmaking?",
+    "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+    "source": "ProVideo Coalition",
+    "category": "movies",
+    "tool": "Movies",
+    "accent": "#f5a623",
+    "motif": "prism",
+    "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut.jpg",
+    "published_iso": "2026-07-28T22:34:29Z",
+    "excerpt": "A look at Beeble's hybrid pipeline, where real actors are captured traditionally, then AI tools SwitchX (video-to-video) and SwitchLight (relighting, material extraction) reshape environments and lighting in post. The takeaway: 'the AI result is a pass, not a result,' feeding into Nuke or DaVinci compositing rather than replacing it."
+  },
+  {
+    "id": "movies-frostfx",
+    "title": "FrostFX: Estonia's world-leading VFX studio",
+    "url": "https://www.redsharknews.com/vfx-frostfx-estonia",
+    "source": "RedShark News",
+    "category": "movies",
+    "tool": "Movies",
+    "accent": "#10b981",
+    "motif": "wave",
+    "og_image": "https://www.redsharknews.com/hubfs/frostfx%20marko%20post.jpg",
+    "published_iso": "2026-07-31T09:32:49Z",
+    "excerpt": "Profile of Estonian studio FrostFX, which treats AI as a creative tool to strip out repetitive technical work rather than replace artists — running models continuously for inference, training and asset generation, exemplified by 'Nova on Mars,' an AI-native character that generates content in real time."
+  },
+  {
+    "id": "movies-saga",
+    "title": "This New AI Tool Can Trace Which AI Model Generated a Video",
+    "url": "https://nofilmschool.com/ai-tracing-tool",
+    "source": "No Film School",
+    "category": "movies",
+    "tool": "Movies",
+    "accent": "#0070f3",
+    "motif": "grid",
+    "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334",
+    "published_iso": "2026-07-28T20:11:57Z",
+    "excerpt": "UC Riverside researchers built SAGA (Source Attribution of Generative AI Videos), which identifies not just whether a video is AI-generated but which model made it, by detecting the distinctive visual 'fingerprints' each generative model leaves behind."
   }
-}
+]

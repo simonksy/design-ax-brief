@@ -1,11 +1,19 @@
 {
-  "date": "2026-08-02",
-  "section": "games",
   "media": [
     {
-      "id": "steamdisclosure",
+      "id": "games-meshy-3d-agent",
       "type": "image",
-      "src": "pipeline/media/steamdisclosure.jpg"
+      "src": "pipeline/media/games-meshy-3d-agent.png"
+    },
+    {
+      "id": "games-ludwig-fmv-ai-slop",
+      "type": "image",
+      "src": "pipeline/media/games-ludwig-fmv-ai-slop.jpeg"
+    },
+    {
+      "id": "games-duskbloods-ai-chatbots",
+      "type": "image",
+      "src": "pipeline/media/games-duskbloods-ai-chatbots.jpg"
     }
   ]
 }

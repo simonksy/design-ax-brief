@@ -1,29 +1,76 @@
-[
-  {
-    "title": "The Filmmakers at Wonder Dynamics Building AI for Filmmakers",
-    "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
-    "source": "No Film School",
-    "category": "movies",
-    "published_iso": "2026-07-30T00:00:00Z",
-    "og_image": "https://nofilmschool.com/media-library/wonder-dynamics.webp?id=67559520&width=1245&height=700&quality=50&coordinates=0%2C53%2C0%2C24",
-    "excerpt": "Wonder Dynamics co-founders Tye Sheridan and Nikola Todorovic discuss how their filmmaking backgrounds shaped Autodesk Flow Studio, an AI tool that transfers live-action performances onto CG characters while keeping artists in control and staying compatible with established VFX pipelines. A grounded look at AI-assisted performance-to-CG as a craft workflow, not a replacement."
-  },
-  {
-    "title": "Frame.io adds full-screen search and Comparison Viewer updates",
-    "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
-    "source": "RedShark News",
-    "category": "movies",
-    "published_iso": "2026-08-01T06:42:00Z",
-    "og_image": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg",
-    "excerpt": "Adobe's Frame.io rolls out a dedicated full-screen search page with a toggle between standard and AI-powered search, plus Comparison Viewer updates, letting editors and post teams find and review footage across projects faster. A concrete workflow shift for how film/TV review-and-approval teams navigate media."
-  },
-  {
-    "title": "Introducing Layers",
-    "url": "https://lumalabs.ai/news/introducing-layers",
-    "source": "Luma AI",
-    "category": "movies",
-    "published_iso": "2026-07-29T17:28:48Z",
-    "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
-    "excerpt": "Luma AI launched Layers, giving creators precision editing and element-by-element control over any AI-generated image inside its filmmaking toolset, rather than re-rolling a whole prompt. A craft-level capability that pushes generative work toward the directed, revisable control filmmakers and previs artists expect."
+{
+  "date": "2026-08-03",
+  "section": "movies",
+  "now_iso": "2026-08-03T22:00:26Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "category": "movies",
+      "source": "Animation World Network",
+      "title": "Higgsfield Debuts 'Kök Börü', Showcasing Hybrid Human-AI Animation Pipeline",
+      "url": "https://www.awn.com/news/higgsfield-debuts-k-k-b-r-showcasing-hybrid-human-ai-animation-pipeline",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "excerpt": "At SIGGRAPH 2026, AI video platform Higgsfield premiered Kök Börü, a 15-minute animated short pairing generative AI with hand-drawn digital animation. Character sheets and environments were generated in Higgsfield's Soul Cartoon (trained on an NVIDIA B300 cluster) then enhanced by artists on Wacom tablets, cutting a 1-2 year, $1-2M production down to about two weeks.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/kokboru1.jpg?itok=GWcRy1zx"
+    },
+    {
+      "category": "movies",
+      "source": "Variety",
+      "title": "Oscar-Qualifying Bengaluru International Short Film Festival Expands to 10 Arenas, Adds AI and Dance Competitions",
+      "url": "https://variety.com/2026/film/news/bengaluru-short-film-festival-ai-dance-competitions-2026-1236824897/",
+      "published_iso": "2026-07-31T08:56:53Z",
+      "excerpt": "India's Oscar-qualifying Bengaluru International Short Film Festival is expanding its 16th edition to 10 arenas of cinema, adding a dedicated AI-made films competition category — a signal of AI filmmaking moving into mainstream festival programming.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/07/Bandini.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "category": "movies",
+      "source": "ProVideo Coalition",
+      "title": "Orange County 48-Hour Film Challenge Comes to Brea",
+      "url": "https://www.provideocoalition.com/orange-county-48-hour-film-challenge-comes-to-brea/",
+      "published_iso": "2026-07-27T23:55:54Z",
+      "excerpt": "Film Lab 714's OC Film Workshop and 48-Hour Film Challenge (Aug 18-20, Brea, CA) includes sessions on visual effects and generative AI, framing how emerging tools can support production while keeping human creativity at the center of the filmmaking process.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/FilmLab714Main.jpg"
+    },
+    {
+      "category": "movies",
+      "source": "fxguide",
+      "title": "Vecna, Demogorgons and Young Will: Inside the VFX of Stranger Things S5",
+      "url": "https://www.fxguide.com/fxpodcasts/vecna-demogorgons-and-young-will-inside-the-vfx-of-stranger-things-s5/",
+      "published_iso": "2026-08-03T20:03:01Z",
+      "excerpt": "The Stranger Things S5 VFX team weighed AI/ML face replacement from ILM and Weta FX for young Will's de-aging scenes, but ultimately chose a fully traditional CG face for the creative control it gave the Duffers when specific adjustments were needed — a candid look at where neural de-aging still loses to hand-crafted VFX.",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-STS5_fin.jpg"
+    },
+    {
+      "category": "movies",
+      "source": "ProVideo Coalition",
+      "title": "Is this the future of filmmaking?",
+      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+      "published_iso": "2026-07-28T22:34:29Z",
+      "excerpt": "A look at Beeble's hybrid pipeline, where real actors are captured traditionally, then AI tools SwitchX (video-to-video) and SwitchLight (relighting, material extraction) reshape environments and lighting in post. The takeaway: 'the AI result is a pass, not a result,' feeding into Nuke or DaVinci compositing rather than replacing it.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut.jpg"
+    },
+    {
+      "category": "movies",
+      "source": "RedShark News",
+      "title": "FrostFX: Estonia's world-leading VFX studio",
+      "url": "https://www.redsharknews.com/vfx-frostfx-estonia",
+      "published_iso": "2026-07-31T09:32:49Z",
+      "excerpt": "Profile of Estonian studio FrostFX, which treats AI as a creative tool to strip out repetitive technical work rather than replace artists — running models continuously for inference, training and asset generation, exemplified by 'Nova on Mars,' an AI-native character that generates content in real time.",
+      "og_image": "https://www.redsharknews.com/hubfs/frostfx%20marko%20post.jpg"
+    },
+    {
+      "category": "movies",
+      "source": "No Film School",
+      "title": "This New AI Tool Can Trace Which AI Model Generated a Video",
+      "url": "https://nofilmschool.com/ai-tracing-tool",
+      "published_iso": "2026-07-28T20:11:57Z",
+      "excerpt": "UC Riverside researchers built SAGA (Source Attribution of Generative AI Videos), which identifies not just whether a video is AI-generated but which model made it, by detecting the distinctive visual 'fingerprints' each generative model leaves behind — a provenance tool for a filmmaking world flooded with synthetic footage.",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334"
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 7,
+    "against_days": 5
   }
-]
+}

@@ -1,55 +1,82 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "section": "science",
-  "now_iso": "2026-08-01T22:00:36Z",
+  "now_iso": "2026-08-03T22:00:26Z",
   "window_hours": 336,
-  "count": 5,
-  "note": "WIDE funnel for the single 'science' category, restricted to its allowed_domains. Science window = 14 days / 336h (start ~2026-07-18T22:00Z). Every item's published date was extracted from og article:published_time / JSON-LD / byline via WebFetch and gated FRESH with `python3 pipeline/freshness.py <iso> 2026-08-01T22:00:36Z science`. Aligned to TODAY's rotation (astronomy/ML cosmology, quantum ML, research/lab automation, AI cognition/neuroscience) and steered clear of yesterday's saturated beats (quantum-chemistry OLED, ocean-current/GOFLOW climate ML, material-rules ML, protein/enzyme, genomics, QEC, drug discovery, batteries). Outlet diversity: phys.org (3, at the =3 collection cap), thequantuminsider.com (1), sciencedaily.com (1) = 3 distinct outlets; ax-curator tightens to <=2/outlet downstream. WHY not wider: WebSearch budget (200 calls) was exhausted mid-run by the parallel librarians, and newscientist.com is blocked to our agent. DROPPED as STALE after date-check: statnews 'teens turn to chatbots' (Jul 2), eurekalert McBain adolescent-chatbot release (Jun 1) and 'chatbots worsen mental illness' (Feb 23), sciencedaily heart-blood-test CardiOmicScore (Jul 16, 16d) and neutron-star merger sims (Jun 26), superconductor ML (Jul 1). DROPPED unverifiable (no extractable published date, never guessed): space.com 'ExoMiner++ 10,091 exoplanets'. DROPPED per relevance rule: MIT Tech Review AI-drug-design/superintelligence/AI-hiring-bias (drug-discovery on avoid + AI-industry noise). No social channels defined for science -> none collected.",
+  "count": 8,
+  "note": "AI x science pool. Fresh window 14d (336h). 6 distinct outlets; techxplore (phys.org AI sibling) at cap of 3. Off-list note: techxplore.com is phys.org's technology-news/machine-learning-ai feed (phys.org's own AI category 301-redirects there) and prior runs used it; treated as within the phys.org family. Within-pool content overlap: #3 (Claude cryptography weaknesses) and #6 (SciAm dual AI cryptography proofs) are both 'AI cracks/proves cryptography math' stories, distinct labs/models but curator should keep at most one. #2 (brain-inspired cognition) and #5 (AI reasoning) are cognition-adjacent but distinct.",
   "items": [
     {
-      "title": "Seven possible quasar lenses emerge from AI scan of 800,000 DESI objects",
-      "url": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
-      "source": "Phys.org (Ohio State University)",
+      "title": "Noninvasive AI-based system translates brain signals into written text",
+      "url": "https://techxplore.com/news/2026-08-noninvasive-ai-based-brain-written.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-s-3.jpg",
-      "excerpt": "Ohio State researchers trained a neural network on simulated quasar-galaxy spectra and applied it to ~800,000 DESI quasars, surfacing seven strong gravitational-lens candidates and roughly doubling the known sample. A concrete case of ML mining sky-survey data to find rare objects for studying early black holes and cosmology."
+      "published_iso": "2026-08-03T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra.jpg",
+      "excerpt": "Researchers at Meta AI, Universite PSL and the Rothschild Foundation Hospital introduced a noninvasive brain-activity-to-text approach that decodes language from brain signals without surgery, a step toward accessible brain-computer interfaces."
     },
     {
-      "title": "First AI-driven telescope goes stargazing",
-      "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
-      "source": "Phys.org (Northwestern University)",
+      "title": "Brain-inspired AI is capable of flexible planning and problem-solving while using far less energy",
+      "url": "https://techxplore.com/news/2026-07-brain-ai-capable-flexible-problem.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-28T10:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-inspired-ai-deve.jpg",
+      "excerpt": "Graz University of Technology researchers built a brain-inspired AI model that plans flexibly and solves complex problems while consuming significantly less energy than conventional neural networks."
+    },
+    {
+      "title": "Claude AI finds cryptography weaknesses human experts missed",
+      "url": "https://techxplore.com/news/2026-07-claude-ai-cryptography-weaknesses-human.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-29T10:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-2.jpg",
+      "excerpt": "Anthropic reports that its Claude Mythos Preview model discovered previously unknown mathematical weaknesses in cryptographic algorithms that human researchers had overlooked."
+    },
+    {
+      "title": "Privacy risks from medical AI are greater than previously thought",
+      "url": "https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-07-21T10:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/21-07-26-medical-ai-fig1.jpg",
+      "excerpt": "A new study shows sensitive individual health information can be extracted from medical AI models far more effectively than earlier research indicated, raising the stakes for diagnostic model privacy."
+    },
+    {
+      "title": "Is AI Reasoning Right for the Wrong Reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "source": "Quanta Magazine",
+      "category": "science",
+      "published_iso": "2026-07-31T10:00:00Z",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Lede-scaled.webp",
+      "excerpt": "The idea that AI can 'reason' is more intuitive than ever, but the science is far from settled; researchers probe whether models reason or merely appear to."
+    },
+    {
+      "title": "Two research efforts gave AI the same open problem. Their papers were submitted three hours apart",
+      "url": "https://www.scientificamerican.com/article/ai-helped-produce-two-proofs-for-the-same-cryptography-problem/",
+      "source": "Scientific American",
       "category": "science",
       "published_iso": "2026-07-31T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg",
-      "excerpt": "Scientists from Northwestern, University of Chicago and Fermilab deployed a reinforcement-learning AI to autonomously schedule Dark Energy Camera observations, adapting the plan in real time as sky and weather conditions change -- a milestone toward self-running observatories, with performance the team rates comparable to a human scheduler."
+      "og_image": "https://static.scientificamerican.com/dam/asset/e97018e5-ae61-4316-a006-bdb874245d1d/Man-at-mathematics-blackboard.jpg",
+      "excerpt": "An MIT PhD student and two UC cryptographers used GPT-5.6 Sol Ultra in different ways to solve the same open cryptography problem, raising new questions about independent discovery and scientific credit."
     },
     {
-      "title": "AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation",
-      "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
-      "source": "Phys.org (Stanford / SLAC)",
+      "title": "Clinical chatbots are taking medicine by storm. Should doctors trust them?",
+      "url": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/",
+      "source": "STAT News",
       "category": "science",
-      "published_iso": "2026-07-21T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg",
-      "excerpt": "Stanford and SLAC researchers built an AI agent that autonomously aligns crystal samples at synchrotron X-ray beamlines -- reading detector images, experiment logs and scan results, then issuing instrument-control commands -- a step toward self-driving experimental facilities that free scientists from routine setup."
+      "published_iso": "2026-07-29T12:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/doctors-llms-1-645x645.jpg",
+      "excerpt": "A Nature Medicine study from NYU Langone Health tested general vs. specialized clinical AI models on clinical questions, finding specialized clinical AI performed worse than general models."
     },
     {
-      "title": "Cleveland Clinic and IBM researchers create quantum machine learning framework to predict neoantigen immune response",
-      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
-      "source": "The Quantum Insider",
+      "title": "AI tool predicts how DNA sequences switch on genes across different cell types",
+      "url": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
-      "excerpt": "Cleveland Clinic and IBM built Q-CHIPP, a quantum machine-learning framework whose quantum convolutional network beat classical methods at predicting cancer neoantigens likely to trigger an immune response, learning from datasets as small as 150 samples and scaling to full-length peptides on 46-qubit hardware. A concrete quantum-ML method for a data-scarce scientific problem."
-    },
-    {
-      "title": "AI 'brain age' from sleep EEG flags sharply higher dementia risk",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
-      "source": "ScienceDaily (UC San Francisco)",
-      "category": "science",
-      "published_iso": "2026-07-31T12:00:00Z",
-      "og_image": "",
-      "excerpt": "UCSF researchers used machine learning on overnight sleep-EEG recordings from about 7,000 adults to estimate each person's 'brain age'; brains scoring older than the person's actual age were tied to a sharply elevated risk of developing dementia -- an AI biomarker turning routine sleep data into early neurological insight."
+      "published_iso": "2026-07-21T09:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-based-tool-allo.jpg",
+      "excerpt": "Max Planck researchers built Corgi (Context-aware Regulatory Genomics Inference), a deep-learning tool that predicts how the genome behaves and switches on genes across different cell types."
     }
   ]
 }
