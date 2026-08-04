@@ -1,42 +1,159 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-05",
   "section": "games",
-  "now_iso": "2026-08-03T22:00:26Z",
+  "now_iso": "2026-08-04T22:00:29Z",
   "window_hours": 336,
-  "count": 3,
-  "note": "WIDE funnel restricted to the games category's allowed_domains (site-scoped WebSearch, then per-article published-time verification via curl on article:published_time / JSON-LD datePublished, gated deterministically through pipeline/freshness.py at the 336h/14-day games window; window start 2026-07-20T22:00:26Z). WebSearch budget (200/200 shared across the parallel librarian run) was EXHAUSTED mid-sweep; the rest of the pass ran on curl over outlet RSS/keyword/topic listing pages + per-URL date checks. VentureBeat is behind a Vercel bot checkpoint (429 to both curl and WebFetch) so its AI-native-engine / world-model items (Series AI Rho Engine, Yoroll engine-less platform, how-genAI-changes-dev-and-UGC) could NOT be date-verified and were DROPPED rather than guessed. Games x AI fresh news is GENUINELY THIN this fortnight: the large majority of extractable game-AI stories re-gated STALE, and the freshest wave (Jul 29-Aug 3) is already PUBLISHED in news_data.games (game-AI-expert, KH cover art, Shinji VA voice-cloning, Stellar Blade AI-slop MV, EA boss bonus, Unity 7 roadmap, DLSS 5, indie-devs-avoid-genAI, no-AI studios, 2D-to-3D method, chatgpt-molehills, soulslike-no-AI, Nexus Mods AI, Steam disclosure) so those were excluded as dups. Confirmed-FRESH-but-DROPPED-for-relevance: none kept beyond the 3 below. Confirmed-STALE-and-dropped (date-verified via curl, sample): 80.lv Room8-34-tools (2025-03-11), 80.lv Nwiro-kit (2026-06-04), 80.lv Google-Genie-2D (2024-02-26), 80.lv game-dev-simulator (2026-07-25, not-AI), 80.lv Aimator (2023-11-06), 80.lv Steam-clarified-rules (2026-01-19), 80.lv 10k-assets (2025-12-05), 80.lv Unity-6.2-genAI (2025-08-20), 80.lv Scenario-AWS (2023-08-11), 80.lv NVIDIA-autonomous-chars (2025-01-08); gamedeveloper Godot-ban-AI (2026-07-01, just outside 14d), gamedeveloper Godot-tolerates-AI (2026-06-22), gamedeveloper Side-Razer-playtests (2025-08-27), gamedeveloper Mindtail-2M (2026-05-07, funding-noise), gamedeveloper GameMaker-ClaudeCode (2026-04-30), gamedeveloper Roblox-object-model (2026-02-05), gamedeveloper Take-Two-Genie (2026-02-04), gamedeveloper Nexon-arc-raiders (2026-04-01), gamedeveloper Owlcat-Expanse (2026-03-27), gamedeveloper genAI-declining (2026-03-06), gamedeveloper PlayStation-tool (2026-05-08), gamedeveloper Tencent-genAI-animation (2026-03-24), gamedeveloper Valve-welcomes-AI (2024-01-10), gamedeveloper GameShark-AI-hint (2024-01-11); pcgamer Steam-week->half-2027 (2026-07-20T03:35, ~18h past window), pcgamer players-dont-realise-Google (2026-04-23), pcgamer EA-rise-of-creativity (2026-06-23), pcgamer Google-plays-with-you (2024-03-14), pcgamer once-again-dev-apologizes (2026-06-10), pcgamer tech-investor-AI-demo (2025-10-24), pcgamer Sweeney-future (2026-06-24), pcgamer Warframe-never-AI (2026-04-04); gamesradar Ubisoft-big-bet (2025-11-21), gamesradar Steam-31pct-survey (2026-07-08), gamesradar PS6-delay-AI (hardware); wccftech Round8-AI-Creator (2026-05-11), wccftech Nexon-frees-them (2026-04-02), wccftech NEOWIZ-Round8-pipeline (2026-05-12), wccftech Startup-Exists (2024-08-15), wccftech Startup-Tales (2024-10-16), wccftech MS-no-mandate (2025-05-06), wccftech modder-genAI (2023-04-21); roadtovr Meta-WorldGen (2025-11-24), roadtovr Google-Genie-VR (2026-01-30); destructoid Sweeney-irresponsible (2026-06-25); thegamer Steam-AI-popup (2025-12-01); uploadvr Meta-Horizon-3D (2025-04-15, off-list), uploadvr AssetGen-2.0 (2025-05-09, off-list). Vendor feeds swept (unrealengine.com, unity.com, roadtovr.com) had no in-window AI-specific item. Instagram: not defined for games (skipped). YouTube social: WebSearch budget exhausted before a channel pass; none verified. NET: 3 FRESH, on-topic, distinct items across 2 outlets (80 Level x1, Kotaku x2, within the <=3 collection cap). This MEETS the floor of 3 but is BELOW the target of 5 -- the section's fresh (last-14-day) game x AI news is genuinely sparse and its strongest items were already published. Design-relevance: Meshy 3D Agent is a concrete craft/tool release (strong); the two Kotaku items are creative-AI-in-shipped-games / AI-info culture stories (marginal craft hook) included so the curator has selectable depth.",
+  "count": 16,
+  "note": "WIDE funnel for the games section, restricted to sections.games allowed_domains. WebSearch was heavily rate-limited and several whitelisted outlets are not crawlable by the search user agent (gamesindustry.biz, polygon.com, eurogamer.net all returned 400), so discovery ran mostly on curl over outlet RSS feeds, AI topic/keyword listing pages and news sitemaps, plus Google-News RSS used ONLY as a date-sorted discovery index (every kept URL is on an allowed domain); a handful of targeted WebSearches resolved the remaining URLs. Every candidate's published time was verified per-article via og article:published_time / JSON-LD datePublished and gated through pipeline/freshness.py at the 336h games window (window start 2026-07-21T22:00:29Z). 16 kept across 11 distinct outlets, <=3 per outlet. CURATOR NOTES: items 4-8 are five outlets on ONE story (Shift Up CEO defending the Stellar Blade: Blood Rain AI music video) - pick at most one; the MV itself was already published as an 08-03 card, so this is the CEO-response follow-up. Items 1-2 are two outlets on the Koei Tecmo Atelier Ryza AI chat RPG - pick one. DROPPED as already-published dups: Kotaku 'The Relic: First Guardian director confirms AI use' (resolves to the same URL as the 08-01 card), Eurogamer/GameSpot/TheGamer Kingdom Hearts AI cover art, Eurogamer+GamesRadar+IGN Stellar Blade AI MV originals, PC Gamer Nexus Mods (08-01 card), gamedeveloper EA boss pay (08-03 card), 80.lv game-AI-expert (08-03 card). DROPPED as AI-business/hardware noise with no design hook: NVIDIA/AMD GPU and RAM price-hike stories (Eurogamer, RPS, Wccftech), blogs.nvidia.com + developer.nvidia.com infra/security posts, pcgamer.com/software/ai OpenAI-vs-Apple / Meta datacentre / book-scanning items, gamesindustry FirstPoint VC fund, gamedeveloper Meta datacentre spend. DATE-VERIFIED STALE and dropped (sample): 80.lv Hyper3D Rodin Gen-2.5 (2026-06-03), 80.lv Regression Games AI agents (2023-09-12), gamedeveloper Godot AI-slop PRs (2026-02-17), gamedeveloper Unity prompt-to-game (2026-02-16), gamedeveloper Capcom genAI (2026-03-23), gamedeveloper Control/Remedy genAI (2026-02-10), gamesindustry Atelico on-device genAI (2026-07-21T11:00, ~11h outside the window), gamesindustry Sony/PlayStation AI tooling (2026-05-11), gamesindustry Unity AI suite (2026-05-07), gamesindustry Roblox Reality upscaler (2026-05-01), RPS EVE x DeepMind (2026-05-29), RPS GDC genAI survey (2026-01-30), TheGamer ChatGPT-5 generated games (2025-08-26), pcgamer Where Winds Meet AI NPCs (2025-11-16), pcgamer inZOI NVIDIA NPC (2025-01-08), every inworld.ai blog post (newest 2026-06-15), and the Unity/Unreal AI blog posts (no extractable published time at all). COULD NOT VERIFY, therefore dropped rather than guessed: venturebeat.com (Yoroll engine-less world-model platform; 'how generative AI is changing game dev and UGC') - 429/bot checkpoint to both curl and WebFetch; gamespot.com and destructoid.com article pages - Cloudflare challenge, no extractable published time (costing the Destructoid Halo Campaign Evolved AI-voice-acting story); 80.lv listing and tag pages are client-rendered past page 1, so its AI back-catalogue was only reachable via search. Games defines no instagram_handles so IG was skipped, and no YouTube item cleared published-time verification this pass.",
   "items": [
     {
-      "title": "Meshy wants AI for 3D creation to feel less like a prompt and more like a creative partner",
-      "url": "https://80.lv/articles/meshy-wants-ai-to-feel-less-like-a-prompt-and-more-like-a-creative-partner",
+      "url": "https://www.polygon.com/koei-tecmo-atelier-ryza-chat-ai-rpg",
+      "source": "Polygon",
+      "category": "games",
+      "published_iso": "2026-08-04T18:50:55Z",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/atelier-ryza-3.jpg?w=1600&amp;h=900&amp;fit=crop",
+      "excerpt": "Koei Tecmo unveils an 'AI chat RPG' built on Atelier Ryza, where an LLM drives free-form conversation with the character instead of authored dialogue trees. A mainstream publisher shipping generative dialogue as the product, not a demo.",
+      "title": "Game Company Reveals ‘Ai Chat RPG’ That’s Basically an Anime Girlfriend Simulator"
+    },
+    {
+      "url": "https://www.thegamer.com/atelier-ryza-ai-powered-rpg-no-ai-development",
+      "source": "TheGamer",
+      "category": "games",
+      "published_iso": "2026-08-04T09:23:06Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/08/atelier-ryza-3-alchemist-of-the-end-the-secret-key.jpg?w=1600&amp;h=900&amp;fit=crop",
+      "excerpt": "TheGamer's read on the same reveal: the Atelier Ryza chat RPG runs on AI at runtime, but Koei Tecmo stresses no generative AI was used to make the game's art or assets. The split between AI-as-feature and AI-as-production-tool is now an explicit positioning choice.",
+      "title": "Atelier Ryza Is Getting An AI-Powered Chat RPG"
+    },
+    {
+      "url": "https://80.lv/articles/game-studios-are-moving-beyond-legacy-version-control-and-here-s-why",
       "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-07-21T15:00:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49153/images/6a4d6809c69e0/contain_1200x630.png",
-      "excerpt": "Rather than a one-shot generator, Meshy's new conversational 3D Agent keeps context across a chat so game artists can brainstorm, iterate, and batch-build style-consistent asset families before exporting production-ready, riggable models into existing pipelines -- positioning generative 3D as a creative collaborator rather than a prompt box."
+      "published_iso": "2026-08-04T16:04:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/48972/images/6a3c4c91e7417/contain_1200x630.png",
+      "excerpt": "Diversion pitches a version-control layer rebuilt for AI coding agents and mixed code/binary game projects, arguing studios shouldn't have to choose between Git-style tooling and artist-friendly asset workflows. Pipeline plumbing is where AI adoption actually breaks.",
+      "title": "Here's Why Game Studios Are Moving Beyond Legacy Version Control"
     },
     {
-      "title": "Twitch streamer Ludwig appears as an NPC in a Chinese FMV game -- stuffed with AI slop",
-      "url": "https://kotaku.com/ludwig-road-to-empress-2-chinese-fmv-game-ai-slop-2000720867",
-      "source": "Kotaku",
+      "url": "https://www.pcgamer.com/games/action/stellar-blade-boss-completely-misses-the-point-of-why-people-are-upset-with-blood-rains-ai-slop-video-the-ai-is-not-creating-evie-from-scratch",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-07-31T21:00:53Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/ludwig-badwig-road-to-empress-1200x675.jpeg",
-      "excerpt": "The live-action FMV game Road To Empress II casts streamer Ludwig as an NPC, but leans on generative-AI 'slop' for much of its visuals and content -- a concrete case study in how (and how badly) gen-AI is being folded into shipped commercial titles and how players react. Marginal craft hook; adoption/reception context."
+      "published_iso": "2026-08-04T11:38:28Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Zwa5CrAGW7z7YCYZ93F4Km-2560-80.png",
+      "excerpt": "Shift Up's CEO argues the AI music video is fine because Evie was human-designed first, and PC Gamer explains why that defence misses the objection. A live case study in how studios justify generative AI in marketing craft.",
+      "title": "Stellar Blade boss completely misses the point of why people are upset with Blood Rain's AI slop video: 'The AI is not creating [Evie] from scratch'"
     },
     {
-      "title": "Desperate for Duskbloods news? AI chatbots will just make it up",
-      "url": "https://kotaku.com/the-duskbloods-switch-2-fromsoftware-boss-reveal-guides-ai-llm-2000718369",
+      "url": "https://www.ign.com/articles/shift-up-ceo-defends-stellar-blade-blood-rain-ai-music-video-against-player-backlash",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-08-03T18:13:42.440Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/08/03/shift-up-ceo-defends-stellar-blade-blood-rain-ai-music-video-1785780603942.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "excerpt": "Shift Up CEO Kim Hyung-tae asks players to 'view the work with that understanding in mind,' framing the AI video as an experiment layered on existing human designs.",
+      "title": "'View the Work With That Understanding in Mind' — Shift Up CEO Defends Stellar Blade: Blood Rain AI Music Video Against Player Backlash"
+    },
+    {
+      "url": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-07-22T15:30:19Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/the-duskbloods-red-1200x675.jpg",
-      "excerpt": "AI chatbots are confidently presenting Reddit shitposts as fact about FromSoftware's unreleased Switch 2 game The Duskbloods -- a look at how generative-AI hallucination is reshaping how players source game information. Weak design/craft hook; included as fresh, games-specific funnel context."
+      "published_iso": "2026-08-04T13:27:11+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/stella-balde-e1785850013847.jpg",
+      "excerpt": "Kotaku on the backlash loop: the CEO's defence of the AI-generated promo video hardened fan opposition rather than settling it, a reminder that how you disclose AI is itself a design decision.",
+      "title": "CEO Defends Stellar Blade 2 Slop Video And Makes Fans Angrier"
+    },
+    {
+      "url": "https://www.eurogamer.net/stellar-blade-blood-rain-ai-response-ceo",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-08-04T08:47:17.446805+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/blood-rain-ai-slop.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "excerpt": "Eurogamer's account of Shift Up's response to the AI-generated Blood Rain music video, with the studio boss asking fans to judge the work 'with understanding in mind.'",
+      "title": "\"We would truly appreciate it if you could view the work with understanding in mind\" - Shift Up CEO defends Stellar Blade: Blood Rain's AI music video as online backlash grows"
+    },
+    {
+      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-studio-ceo-defends-ai-music-video-because-evie-was-originally-created-from-head-to-toe-by-the-devs-but-fans-say-thats-not-the-point",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-08-04T11:08:41Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QkweHvhGXwhG8kUpapjUXS-1920-80.jpg",
+      "excerpt": "GamesRadar frames the dispute as a question of provenance: the studio says the character was human-authored head to toe, fans say the AI-generated motion and rendering is exactly what they object to.",
+      "title": "Stellar Blade: Blood Rain studio CEO defends AI music video because Evie was originally \"created from head to toe\" by the devs, but fans say that's not the point"
+    },
+    {
+      "url": "https://www.pcgamer.com/games/sim/mmo-life-sim-seeds-ai-powered-avatars-prove-once-again-that-nothing-shatters-immersion-quicker-than-crappy-chatbot-dialogue",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-07-24T21:14:39Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Td7M8ni6EarYZoh34DHUD7-1200-80.jpg",
+      "excerpt": "Klang's decade-in-development MMO Seed ships LLM-driven avatars, and PC Gamer finds the conversations useful as a tutorial layer but corrosive to immersion. A rare in-the-wild verdict on generative NPC dialogue as shipped design.",
+      "title": "MMO life sim Seed's AI-powered avatars prove once again that nothing shatters immersion quicker than crappy chatbot dialogue"
+    },
+    {
+      "url": "https://www.gamesradar.com/games/racing/mario-kart-wii-is-being-rebuilt-for-pc-but-the-projects-ai-vibe-coding-instantly-soured-many-nintendo-fans-on-the-project",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-07-23T21:55:25Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dz78u7jn2wiEyfBAbmj6e3-1920-80.jpg",
+      "excerpt": "A static recompilation of Mario Kart Wii for PC admits AI was used 'for code' but not for art or assets, and the fan community rejected it anyway. Vibe coding is running into a credibility problem inside modding culture.",
+      "title": "Mario Kart Wii is being \"rebuilt for PC,\" but the project's AI vibe coding instantly soured many Nintendo fans on the project"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/nexus-mods-update-their-generative-ai-made-mod-tagging-policy-dividing-one-label-into-three-for-more-specific-search-filtering",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-07-31T15:18:18.489461+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/nexus-mods-logo-01.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "excerpt": "Nexus Mods splits its single generative-AI label into three so users can filter mods by which part of the work was AI-made. Granular disclosure taxonomy is becoming a real UX problem for creative platforms.",
+      "title": "Nexus Mods update their generative AI-made mod tagging policy, dividing one label into three for more specific search filtering"
+    },
+    {
+      "url": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-07-30T21:25:36.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/photo-1518601794912-1af91724e528.jpeg",
+      "excerpt": "Aftermath interviews workers quietly dodging, misdirecting and sabotaging their employers' AI mandates: sarcastic compliance, meeting boycotts, silent reversion to old methods. The internal politics of top-down AX rollouts, from the floor.",
+      "title": "Welcome To The Resistance: Meet The Workers Dodging (And Sabotaging) Their Employer's AI Mandates"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/why-new-eu-deepfake-legislation-means-games-need-to-be-careful-when-featuring-real-world-people-and-locations",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-07-27T08:51:45.787265+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/watch-dogs-legion_7vmqJGe.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "excerpt": "New EU deepfake rules put fresh constraints on games depicting real people and real places, with direct consequences for likeness capture, digital doubles and AI-assisted asset pipelines.",
+      "title": "Why new EU deepfake legislation means games need to be careful when featuring real-world people and locations"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-08-03T13:47:44.503611+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-08-03-144429.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "excerpt": "Reforged Labs, which sold AI-generated game ad creative, shuts down saying the gap it sold into is closing as platforms absorb the capability. A signal about which AI creative services survive as features rather than products.",
+      "title": "AI startup Reforged Labs shuts down as the \"gap we were selling into is closing\""
+    },
+    {
+      "url": "https://www.eurogamer.net/dragon-quest-tokyo-event-google-gemini",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-07-28T15:43:11.792798+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/DQX-Gemini-AI-event.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "excerpt": "Square Enix pairs Dragon Quest with Google's Gemini for an in-person Tokyo event, one of the first big JRPG IP collaborations built around a consumer AI assistant rather than an in-game system.",
+      "title": "Dragon Quest announces new collaboration with Google's Gemini for in-person event in Tokyo after DQX's controversial AI-powered companion"
+    },
+    {
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-07-27T13:57:55.356029+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "excerpt": "With no GTA 6 gameplay trailer in sight, AI-generated fake footage is pulling millions of views: a case study in how generative video fills an information vacuum and shapes expectations of a game's visual identity.",
+      "title": "As Grand Theft Auto 6 hopefuls grow anxious for a gameplay trailer, AI GTA 6 slop is getting millions of views on social media"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 3,
+    "kept": 16,
     "against_days": 5
   }
 }

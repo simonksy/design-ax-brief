@@ -1,60 +1,78 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-05",
   "section": "books",
-  "now_iso": "2026-08-03T22:00:26Z",
+  "now_iso": "2026-08-04T22:00:29Z",
   "window_hours": 336,
-  "count": 5,
-  "note": "RECOVERY PASS (WebSearch budget exhausted at 200/200 — used curl w/ Googlebot UA over outlet RSS + topic pages, WebFetch for date extraction). Appended 2 NET-NEW book-craft AI items to the first pass's 3 (none dropped). Terms that worked: 'AI allegations / suspected AI use in a novel auction' (The Bookseller Genius story) and 'AI regulation encyclical' (Publishing Perspectives Pope piece). Swept RSS for publishersweekly.com, thebookseller.com, goodereader.com, janefriedman.com, lithub.com, publishingperspectives.com, bookriot.com, teleread.org, writersdigest.com, thecreativepenn.com, electricliterature.com, scholarlykitchen.sspnet.org, the-digital-reader.com. DROPPED as not-AI or noise: PW 'Defending the Literary Ecosystem / Polefrone' (about book censorship, not AI — verified via WebFetch), PW 'The New Manhattan Project: Kevin Roose' (a book ABOUT AGI, general AI content, doesn't change how writers work), PW Poetry Foundation scraping + 'AI May Be Making Publishing Easier' (already in news_data), PP 'Around the Book World Aug 3' + Jane Friedman 'Links of Interest' (roundups), Hachette/HBG earnings (financial noise). Good e-Reader AI-tag articles were all evergreen 2023-24 (stale). The Bookseller and Jane Friedman full text are paywalled; The Bookseller also 429-rate-limits curl (used WebFetch). Distinct outlets now = 5 (PW, Wired, The Verge, The Bookseller, Publishing Perspectives).",
+  "count": 13,
+  "note": "Books section sweep of the category allowed_domains (publishersweekly, thebookseller, publishingperspectives, booksandpublishing, bookriot, lithub, scholarlykitchen, janefriedman, goodereader, electricliterature, writersdigest, kindlepreneur, thecreativepenn, teleread, the-digital-reader, authorsguild, techcrunch, youtube). Every published time verified by opening the page (og article:published_time / JSON-LD datePublished / WP REST date) and gated with pipeline/freshness.py against the 14-day books window. WebSearch returned mostly stale evergreen pages, so the pool was rebuilt from RSS / WP REST index sweeps of the allowed domains. Per-outlet collection cap of 3 enforced: Publishing Perspectives had 4 fresh AI items, so the weakest/oldest (07-22 'Announcing a Course to Help Publishers Navigate the AI Age Responsibly') was dropped. Dropped as AI-business noise or off-beat: TechCrunch 'Pangram raises $9M' (funding round), goodereader 'reTerminal Sticky AI e-ink display' (gadget, no books-craft hook), Book Riot 'Where the algorithm goes' (Goodreads list, not AI). Stale-and-dropped after date verification: PW 'Some Listeners Prefer AI Narration' (07-14), Jane Friedman 'Publishers file lawsuit against Google' + 'audiobook AI multi-cast study' (both 07-15), 'Fanfiction sites reveal AI-assisted writing' (07-08), PW 'Global AI Data Analytics Startups' (07-10), goodereader 'Kindle AI-powered Translations' (07-01). Social: YouTube books channels checked via channel RSS + watch-page JSON-LD uploadDate — The Creative Penn has no AI video in window (latest 07-29 is a Hollywood/story-demand episode); Sudowrite/NovelCrafter review videos verified at 2026-07-02, 2026-05-29, 2026-03-13, 2024-02-23 = all STALE; 'Self Publishing with Dale' channel ID could not be resolved, so no fabricated entry. Instagram: no instagram_handles configured for books, skipped. Dominant fresh story this window is the $2.4m crime-novel deal that collapsed over suspected AI authorship (3 outlets) — curator should pick one framing. Princeton UP x Cashmere appears again via Books+Publishing; it was already published on 08-04, flagged as a likely dedup drop.",
   "items": [
     {
-      "title": "Princeton University Press Partners with Cashmere on AI Licensing",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
+      "title": "After the Cancellation of 'Call Me, I'll Hide The Body,' What Comes Next?",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100983-after-the-cancellation-of-call-me-i-ll-hide-the-body-what-comes-next.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-08-03T12:00:00Z",
+      "published_iso": "2026-08-04T13:00:00Z",
       "og_image": "",
-      "excerpt": "Princeton University Press has partnered with Cashmere, an AI content-licensing platform, to make its academic catalog available to 'copyright-compliant' AI tools focused on retrieval-augmented generation. Shows scholarly publishers building sanctioned licensing pipelines for AI training/RAG instead of only fighting scraping — a concrete shift in how publishers monetize and control their catalogs for AI."
+      "excerpt": "Nigerian author Jerry Adedayo Falade's crime novel secured six- and seven-figure deals before being withdrawn from submission over AI-authorship allegations; Falade insists he wrote it himself and suggests the cancellation reflects bias. The case is becoming the industry's test of whether AI-detection signals can be trusted to end a book deal."
     },
     {
-      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI 'Literary Counterculture'",
-      "url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
-      "source": "Wired",
-      "category": "books",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Novelists, journalists and essayists are deliberately introducing typos, sentence fragments and fewer em-dashes to avoid sounding like a chatbot, forming an anti-AI 'literary counterculture'; some literary magazines now add 'no AI polish' notes to submission guidelines. A craft-level shift in how prose signals human authorship. (Date verified via Lit Hub Daily Jul 30 2026 roundup + Nieman Lab; wired.com is crawler-blocked for direct fetch.)"
-    },
-    {
-      "title": "Illustrators, Authors and Musicians Are Winning Their AI Lawsuits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "source": "The Verge",
-      "category": "books",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "og_image": "",
-      "excerpt": "A run of favorable rulings and settlements for illustrators, authors and musicians in AI copyright suits against Google, Meta and Anthropic is reshaping the rights landscape creators (including book authors) depend on. (Date sourced from Lit Hub Daily Jul 30 2026 roundup, which links this as that day's news; theverge.com is crawler-blocked for direct fetch — curator should treat the date as high-confidence but not article-extracted.)"
-    },
-    {
-      "title": "‘Genius’ Novel Sold in Six- and Seven-Figure Auction Deals Pulled Over Suspected AI Use",
-      "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
+      "title": "'It was inevitable': Agents react to major book deal that collapsed over suspected AI use",
+      "url": "https://www.thebookseller.com/news/it-was-inevitable-agents-react-to-major-book-deal-that-collapsed-over-suspected-ai-use",
       "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "",
-      "excerpt": "A crime novel hailed as 'genius' that had secured six- and seven-figure US and UK publishing deals at auction was withdrawn by its agent after allegations the manuscript was AI-generated. A concrete case of AI detection reshaping acquisitions, author vetting and trust in the submission/auction pipeline. (The Bookseller is paywalled; date confirmed via article metadata, RECOVERY-pass via Googlebot RSS + WebFetch.)"
+      "published_iso": "2026-08-04T00:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/578/110.jpg",
+      "excerpt": "A crime novel that sold for $2.4m in a 14-way US auction was pulled by its agent on 31 July over suspected AI-generated content, and literary agents tell The Bookseller they now have no reliable way to authenticate how a manuscript was made. Agents describe uncertainty and fear becoming the default posture on submission."
     },
     {
-      "title": "‘Clarity of Thought and Responsibility’: Can the Pope Move the Needle on AI Regulation?",
-      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
+      "title": "Agent pulls manuscript from sale, 'no longer able to authenticate' its development",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/08/03/335907/agent-pulls-manuscript-from-sale-no-longer-able-to-authenticate-its-development/",
+      "source": "Books+Publishing",
+      "category": "books",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Books+Publishing's account of the withdrawn crime novel focuses on the agent's stated reason — being 'no longer able to authenticate' how the manuscript was developed. It frames provenance-of-drafting, not output quality, as the new gate on acquisitions."
+    },
+    {
+      "title": "Local secondhand booksellers suspect AI companies behind bulk orders",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/08/03/335882/local-secondhand-booksellers-suspect-ai-companies-behind-orders/",
+      "source": "Books+Publishing",
+      "category": "books",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Secondhand booksellers across Australia and New Zealand report unusual bulk orders from Canadian recycling firm Zoom Books and suspect the stock is feeding AI training pipelines; Zoom Books denies digitising books for generative AI. Shows the physical-book supply chain becoming a training-data acquisition channel."
+    },
+    {
+      "title": "Around the Book World: August 3, 2026 — agents rewrite their ethics code for the AI era",
+      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-3-2026/",
       "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-31T11:33:04Z",
+      "published_iso": "2026-08-03T11:51:57Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "The Association of American Literary Agents has revised its Canon of Ethics to cover 'emerging technologies,' effective 1 September 2026; the same roundup notes Korean 20- and 30-somethings reading more as a counterweight to heavy AI use, and Hachette's parent expecting $22m+ from the Anthropic settlement."
+    },
+    {
+      "title": "Legal Battle Over U.S. Copyright Chief Heats Up Again",
+      "url": "https://publishingperspectives.com/2026/08/legal-battle-over-u-s-copyright-chief-heats-up-again/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-08-04T13:14:41Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-04-at-9.06.42-AM.png",
+      "excerpt": "The fight over who runs the U.S. Copyright Office is back in court, and the outcome shapes how the office rules on AI training and AI-assisted authorship registration. Lower-priority for a craft-focused brief, but it is the policy substrate under every AI-and-books story this week."
+    },
+    {
+      "title": "Princeton University Press partners with Cashmere on AI licensing",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/08/04/336002/princeton-university-press-partners-with-cashmere-on-ai-licensing/",
+      "source": "Books+Publishing",
+      "category": "books",
+      "published_iso": "2026-08-04T00:36:01Z",
       "og_image": "",
-      "excerpt": "Reading Pope Leo XIV's AI encyclical (itself now published as a Melville House trade paperback), Publishing Perspectives draws out seven takeaways for the book trade on data ownership, creative-sector copyright, the Anthropic $1.5B settlement and workplace transformation — framing how publishers and authors should engage AI regulation. (Date from RSS pubDate, RECOVERY pass.)"
+      "excerpt": "Princeton University Press has licensed selected academic content to AI content-management platform Cashmere for copyright-compliant, non-LLM AI platforms. NOTE: likely dedup drop — the same story ran as an 08-04 card via Publishers Weekly; included only as backfill depth."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 5,
+    "dropped": 6,
+    "kept": 7,
     "against_days": 5
   }
 }

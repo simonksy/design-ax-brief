@@ -1,26 +1,32 @@
 {
+  "date": "2026-08-05",
+  "section": "music",
   "media": [
     {
-      "id": "music-omni-daw",
-      "type": "video",
-      "src": "pipeline/media/music-omni-daw.mp4",
-      "poster": "pipeline/media/music-omni-daw.jpg"
-    },
-    {
-      "id": "music-soundid-voiceai-cpop",
+      "id": "music-i-am-choir",
       "type": "image",
-      "src": "pipeline/media/music-soundid-voiceai-cpop.jpg"
+      "src": "pipeline/media/music-i-am-choir.jpg"
     },
     {
-      "id": "music-artist-growth-mcp",
+      "id": "music-push-hack",
       "type": "video",
-      "src": "pipeline/media/music-artist-growth-mcp.mp4",
-      "poster": "pipeline/media/music-artist-growth-mcp.jpg"
+      "src": "pipeline/media/music-push-hack.mp4",
+      "poster": "pipeline/media/music-push-hack.jpg"
     },
     {
-      "id": "music-tonefield",
+      "id": "music-spotify-merlin-remix",
       "type": "image",
-      "src": "pipeline/media/music-tonefield.jpg"
+      "src": "pipeline/media/music-spotify-merlin-remix.jpg"
+    },
+    {
+      "id": "music-suno-vinyl",
+      "type": "image",
+      "src": "pipeline/media/music-suno-vinyl.jpg"
+    },
+    {
+      "id": "music-eu-ai-act-enforced",
+      "type": "image",
+      "src": "pipeline/media/music-eu-ai-act-enforced.png"
     }
   ]
 }

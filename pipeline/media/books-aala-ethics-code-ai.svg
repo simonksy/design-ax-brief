@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-label="A literary agents' code of ethics revised for the AI era, effective September 1">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f8f7"/>
+      <stop offset="1" stop-color="#d8f0ef"/>
+    </linearGradient>
+    <linearGradient id="acc2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2ec5c5"/>
+      <stop offset="1" stop-color="#1d8f92"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg2)"/>
+  <circle cx="960" cy="330" r="290" fill="#2ec5c5" opacity="0.12"/>
+  <circle cx="230" cy="880" r="230" fill="#2ec5c5" opacity="0.09"/>
+
+  <!-- the revised code: a clause sheet with a struck old line and a new one -->
+  <g transform="translate(150,330)">
+    <rect x="0" y="0" width="500" height="560" rx="18" fill="#ffffff" opacity="0.92"/>
+    <rect x="0" y="0" width="500" height="560" rx="18" fill="none" stroke="#1d8f92" stroke-width="6" opacity="0.5"/>
+    <g fill="#1d8f92">
+      <rect x="52" y="70"  width="300" height="20" rx="10" opacity="0.85"/>
+      <rect x="52" y="132" width="396" height="14" rx="7" opacity="0.35"/>
+      <rect x="52" y="176" width="352" height="14" rx="7" opacity="0.35"/>
+      <rect x="52" y="220" width="380" height="14" rx="7" opacity="0.22"/>
+      <rect x="52" y="264" width="300" height="14" rx="7" opacity="0.22"/>
+      <rect x="52" y="330" width="396" height="18" rx="9" fill="url(#acc2)"/>
+      <rect x="52" y="380" width="330" height="18" rx="9" fill="url(#acc2)" opacity="0.7"/>
+      <rect x="52" y="446" width="360" height="14" rx="7" opacity="0.22"/>
+      <rect x="52" y="490" width="270" height="14" rx="7" opacity="0.22"/>
+    </g>
+    <path d="M40 338 H470" stroke="#eb367f" stroke-width="0" />
+  </g>
+
+  <!-- seal: the rule takes effect -->
+  <g transform="translate(770,520)">
+    <circle cx="0" cy="0" r="150" fill="url(#acc2)"/>
+    <circle cx="0" cy="0" r="150" fill="none" stroke="#ffffff" stroke-width="10" opacity="0.7"/>
+    <path d="M-66 4 L-18 56 L70 -50" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="none" stroke="#1d8f92" stroke-width="8" stroke-linecap="round" opacity="0.55">
+      <path d="M-186 0 h-40 M186 0 h40 M0 -186 v-40 M0 186 v40"/>
+    </g>
+  </g>
+</svg>

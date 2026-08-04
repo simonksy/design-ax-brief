@@ -1,42 +1,114 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-05",
   "section": "music",
-  "now_iso": "2026-08-03T22:00:26Z",
+  "now_iso": "2026-08-04T22:00:29Z",
   "window_hours": 336,
-  "count": 4,
-  "note": "WIDE-funnel sweep of the single 'music' category, restricted to its allowed_domains (site: scoping). Music window = 14 days / 336h (start ~2026-07-20T22:00Z). Every kept item is date-verified FRESH via `python3 pipeline/freshness.py <iso> 2026-08-03T22:00:26Z music` against the article's REAL published time (og article:published_time / JSON-LD datePublished via WebFetch). 4 distinct outlets, ≤1 each — well under the 3/outlet cap. HONEST SHORTFALL: only 4 fresh, non-dup, design-relevant candidates surfaced (target 5). The new-item window is genuinely thin — the strongest AI-music tool/model stories date-verified STALE (outside 14d): Suno v5.5 (Mar 31), Moises AI Studio DAW (2025-08-20), Roland Melody Flip (Mar 19), Google ProducerAI acquisition (Feb 25), 'prompts-into-plugins' feature (Jun 26), Zplane Peel Stems 2 (Jul 13), LALAL.AI plugin (Feb 4), Acon Digital Remix (2023), Jerry Garcia ElevenLabs voice (2024-11), Claude-in-Ableton (May 4), Synplant 2 Genopatch (Jun), VirtualDJ 2026 (Dec 2025), FL Studio 2026 (2025). DEDUP vs history: excluded recent dups already carded — Google Lyria 3.5 / Flow Music (08-01, 07-31), GEMA vs Suno Munich ruling (today), Sony vs Udio 2nd suit (today), musicians-union suit (today), AudioAuditor (07-30), major labels AI-slop chart standards / hypebot 'Human-First' (07-28/30). FRESH-but-DROPPED for relevance (business/legal/policy, no creator-craft hook): none additional beyond the dups above; the Artist Growth item below is borderline (music-BUSINESS ops via MCP) but kept because it operationalizes agentic AI in real music workflows. WebSearch budget (200) was exhausted mid-run. Social: music defines YouTube channels (Suno/Udio/ElevenLabs/Andrew Huang/Benn Jordan/Venus Theory) but watch pages are JS-rendered and no render/browse tool verified uploadDate, so social contributes zero rather than block the run; no instagram_handles defined for music.",
+  "count": 13,
+  "note": "WIDE-funnel sweep of the single 'music' category, restricted to its allowed_domains. Music window = 14 days / 336h (start ~2026-07-21T22:00Z). Every item's published time was pulled from the article itself (og article:published_time / JSON-LD datePublished, fetched directly) and gated with `python3 pipeline/freshness.py <iso> 2026-08-04T22:00:29Z music` -> all FRESH. 11 distinct outlets, max 3 from any one (digitalmusicnews.com = 3, all others 1) — under the 3/outlet collection cap. DEDUP vs already-carded music stories: excluded OMNi alpha DAW (bpb), Sonarworks SoundID VoiceAI, Artist Growth MCP, ToneField, SILT, Vochlea DubBox, Roland x Neutone LYDIA, MusicTech stem-separation shootout, Charli XCX Concatenator plugin, Sony v. Udio, AFM suit, and the GEMA v. Suno Munich ruling (which re-surfaced this window on musictech / djmag / mixmag — all dropped as dups). NOTE: items 6-8 are the same Spotify x Merlin AI-remix story from three outlets (MBW / TechCrunch / Billboard) — kept as alternates for the curator, pick at most one. Items 12-13 (IFPI AI chart-eligibility rules; EU AI Act enforcement) are adjacent to the already-carded 'labels want AI-slop rules' story — flagged as dup-risk. SEARCH EXHAUSTION: the AI music-TOOL beat is genuinely thin this window. Date-verified STALE and therefore dropped: Attack Mag FL Studio 2026 Gopher smart assistance (Jul 9), Audiotool 3.0 NEXUS AI SDK (Jul 13), zplane PEEL STEMS 2 (Jul 8), LALAL.AI DAW plugin (May 22), Output Co-Producer (2025-03), Roland Melody Flip (Mar), Suno Studio review (Jan 13), Suno v5.5 Voices (Mar 26), ElevenLabs Music v2 / ElevenMusic iOS (Apr-May), Splice AI sample tools (Apr 16), Tamber launch (May 19), UMG x Stability AI (2025-10), YouTube Music AI playlists (Feb), Google Lyria on Gemini (Feb), n-Track / LANDR Stems (2024). Dropped on the design-relevance test: Billboard's Spotify Q2 'AI remix momentum' earnings piece, Milk & Honey AI-swindle lawsuit, Suno data-breach class actions. SOCIAL: YouTube rotation checked directly via watch-page uploadDate — Benn Jordan's newest is 2026-08-02 but is a steganography video with no music-AI hook (dropped on relevance); Venus Theory's newest is 2026-06-25 (STALE); @UdioMusic on YouTube is an unrelated legacy channel (2010-2011 uploads). No Instagram handles are configured for the music category, so IG was skipped.",
   "items": [
     {
-      "url": "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/",
-      "source": "Bedroom Producers Blog",
+      "url": "https://www.soundonsound.com/news/am-audio-launch-am-choir",
+      "source": "Sound On Sound",
       "category": "music",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/TomaszGluc-OMNi-728x364.jpg",
-      "excerpt": "OMNi (alpha v0.1) is a free, Rust-built DAW with native AI sample generation and image-to-sound synthesis, bundling 14 synth engines and 16 FX — folding generative AI directly into the workstation rather than a bolt-on plugin."
+      "published_iso": "2026-08-04T13:30:43+01:00",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/am_i_audio_i_am_choir-7A67gqQJWf3467Zt70zwv.fCbrj1BoxY.jpg",
+      "excerpt": "Am I Audio has launched I Am Choir, an AI vocal plug-in that turns a single vocal take into a full choral arrangement. It was built with singers who were credited, compensated and share in royalties — a consent-first model for AI vocal tooling."
     },
     {
-      "url": "https://www.soundonsound.com/news/sonarworks-expand-soundid-voiceai-library",
-      "source": "Sound on Sound",
+      "url": "https://www.gearnews.com/suno-vinyl-tech/",
+      "source": "gearnews",
       "category": "music",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
-      "excerpt": "Sonarworks expands its SoundID VoiceAI voice-changer with a C-pop Voices Expansion Pack — 10 studio-grade AI voice models trained on ethically sourced material for Mandopop/Cantopop — letting producers re-sing a take in a different voice inside the DAW."
+      "published_iso": "2026-08-04T10:00:00+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/suno-vinyl-ft.jpg",
+      "excerpt": "Suno has announced Suno Vinyl, a service that presses tracks from a user's AI-generated library onto custom 12-inch records with designed sleeves, around $45 per record. Prompt-made music gets a physical, art-directed output format."
     },
     {
-      "url": "https://www.hypebot.com/artist-growth-brings-secure-ai-to-music-business-operations/",
+      "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
+      "source": "CDM",
+      "category": "music",
+      "published_iso": "2026-08-03T13:59:45+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/08/Push-Hack-Installation.png",
+      "excerpt": "Federico Pepe's Push Hack opens up Ableton Push 3's display, file system, MIDI and LEDs via SSH — and he built it with AI-assisted coding agents, arguing reverse-engineering is exactly what ML is good at. A concrete look at AI agents as instrument-modding tools."
+    },
+    {
+      "url": "https://www.musicradar.com/artists/singers-songwriters/the-artists-that-are-against-it-youve-got-to-be-careful-because-its-going-to-come-and-swallow-you-like-the-boogie-monster-at-night-empire-of-the-suns-luke-steele-says-of-course-he-uses-ai",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-08-04T10:48:59Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/SQZsrwwMbxrnenxP6bF7PQ-1389-80.jpg",
+      "excerpt": "Empire Of The Sun's Luke Steele says \"of course\" he uses AI in his process and warns artists who refuse it that it will \"come and swallow you\". A working-artist read on where AI sits inside a real creative workflow."
+    },
+    {
+      "url": "https://www.hypebot.com/quiet-riot-ozzy-bassist-rudy-sarzo-on-how-he-uses-ai/",
       "source": "Hypebot",
       "category": "music",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Matt-Urmy.jpg",
-      "excerpt": "Artist Growth launches what it calls the first MCP server for the music industry, anchoring ChatGPT, Claude and Gemini to permissioned operational data so managers and labels can safely automate real music-business workflows with agentic AI."
+      "published_iso": "2026-08-04T12:05:05Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-4-Rudy-Sarzo.jpg",
+      "excerpt": "Quiet Riot / Ozzy Osbourne bassist Rudy Sarzo breaks down how he actually uses AI to make new music and why — a veteran player's practical account of folding generative tools into recording."
     },
     {
-      "url": "https://www.synthtopia.com/content/2026/07/21/new-generative-instrument-for-mac-windows-tonefield/",
-      "source": "Synthtopia",
+      "url": "https://www.musicbusinessworldwide.com/spotify-says-it-doesnt-need-deals-with-all-the-major-labels-to-launch-its-ai-covers-and-remixes-tool/",
+      "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-07-21T00:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/07/tonefield.jpg",
-      "excerpt": "Developer Matt Goodluck introduces ToneField, a generative software instrument for Mac and Windows that revives the discontinued TonePad Pro concept with modern generative-sequencing features for evolving, hands-off musical patterns."
+      "published_iso": "2026-08-04T20:23:49Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/05/AlexandGustav.jpg",
+      "excerpt": "Spotify says it doesn't need every major label on board to ship its AI covers and remixes product, hours after signing Merlin. Signals the fan-remix creation tool is close to a real launch. [ALT of items 7 & 8 — same story]"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch",
+      "category": "music",
+      "published_iso": "2026-08-04T15:50:06Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+      "excerpt": "Merlin, representing 30,000+ independent labels, joins Universal in backing Spotify's AI-powered remix and covers product. The paid tool will let fans generate AI covers and remixes of opted-in artists, with credit and compensation attached. [ALT of items 6 & 8]"
+    },
+    {
+      "url": "https://www.billboard.com/pro/merlin-spotify-licensing-agreement-ai-remixing/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-08-04T13:13:52Z",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/04/2246139317.jpg?w=1024",
+      "excerpt": "Spotify and Merlin sign a licensing agreement covering the streamer's AI remixing tool for Premium subscribers, widening the indie catalogue that fans will be able to rework generatively. [ALT of items 6 & 7]"
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-07-29T18:37:21Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/google-flow-music-gets-song-creation-editing-stem-splitting.png",
+      "excerpt": "Google's Flow Music Spaces update folds song generation, editing, stem splitting and video creation into one AI workspace — the case that Google is assembling an all-in-one AI music studio rather than a single generator."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/08/04/rapper-fenix-flexin-song-ai-generated-controversy/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-08-04T21:10:49Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/billboard-charting-hit-ai-generated-rapper-denies-allegations.png",
+      "excerpt": "A Billboard-charting single by LA rapper Fenix Flexin is being called AI-generated by listeners pointing at \"telltale\" artefacts; the rapper denies it. A live test of whether audiences can hear the difference — and of what disclosure norms are worth."
+    },
+    {
+      "url": "https://musictech.com/news/industry/ai-music-earnings/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-07-23T16:40:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2023/12/money-music@2000x1500-1068x801.jpg",
+      "excerpt": "A Kapwing study finds the biggest AI music acts have already built streaming audiences worth millions on Spotify and YouTube — and are still growing. Data on how far synthetic artists have already moved into the mainstream."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/08/02/ifpi-rules-for-ai-chart-eligibility/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-08-03T04:15:56Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ifpi-announces-three-rules-for-ai-chart-eligibility.png",
+      "excerpt": "The IFPI sets out three principles governing when a recording made with generative AI can qualify for the charts — a concrete disclosure standard creators will have to declare against. [DUP-RISK: adjacent to the already-carded 'labels propose AI chart rules' story]"
+    },
+    {
+      "url": "https://musically.com/2026/08/04/key-eu-ai-act-rules-now-being-enforced-so-how-does-that-affect-the-music-industry/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-08-04T11:30:00Z",
+      "og_image": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-71.png",
+      "excerpt": "The EU AI Act's transparency rules came into force on 2 August, and Music Ally breaks down what they mean in practice — most immediately for the AI tools musicians already use, including labelling of AI-generated output. [DUP-RISK: overlaps AI-labelling coverage]"
     }
   ]
 }

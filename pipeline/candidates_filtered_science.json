@@ -1,87 +1,139 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-05",
   "section": "science",
-  "now_iso": "2026-08-03T22:00:26Z",
+  "now_iso": "2026-08-04T22:00:29Z",
   "window_hours": 336,
-  "count": 8,
-  "note": "AI x science pool. Fresh window 14d (336h). 6 distinct outlets; techxplore (phys.org AI sibling) at cap of 3. Off-list note: techxplore.com is phys.org's technology-news/machine-learning-ai feed (phys.org's own AI category 301-redirects there) and prior runs used it; treated as within the phys.org family. Within-pool content overlap: #3 (Claude cryptography weaknesses) and #6 (SciAm dual AI cryptography proofs) are both 'AI cracks/proves cryptography math' stories, distinct labs/models but curator should keep at most one. #2 (brain-inspired cognition) and #5 (AI reasoning) are cognition-adjacent but distinct.",
   "items": [
     {
-      "title": "Noninvasive AI-based system translates brain signals into written text",
-      "url": "https://techxplore.com/news/2026-08-noninvasive-ai-based-brain-written.html",
-      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra.jpg",
-      "excerpt": "Researchers at Meta AI, Universite PSL and the Rothschild Foundation Hospital introduced a noninvasive brain-activity-to-text approach that decodes language from brain signals without surgery, a step toward accessible brain-computer interfaces."
-    },
-    {
-      "title": "Brain-inspired AI is capable of flexible planning and problem-solving while using far less energy",
-      "url": "https://techxplore.com/news/2026-07-brain-ai-capable-flexible-problem.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-28T10:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-inspired-ai-deve.jpg",
-      "excerpt": "Graz University of Technology researchers built a brain-inspired AI model that plans flexibly and solves complex problems while consuming significantly less energy than conventional neural networks."
-    },
-    {
-      "title": "Claude AI finds cryptography weaknesses human experts missed",
-      "url": "https://techxplore.com/news/2026-07-claude-ai-cryptography-weaknesses-human.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-07-29T10:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/claude-2.jpg",
-      "excerpt": "Anthropic reports that its Claude Mythos Preview model discovered previously unknown mathematical weaknesses in cryptographic algorithms that human researchers had overlooked."
-    },
-    {
-      "title": "Privacy risks from medical AI are greater than previously thought",
-      "url": "https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/",
-      "source": "Physics World",
-      "category": "science",
-      "published_iso": "2026-07-21T10:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/21-07-26-medical-ai-fig1.jpg",
-      "excerpt": "A new study shows sensitive individual health information can be extracted from medical AI models far more effectively than earlier research indicated, raising the stakes for diagnostic model privacy."
-    },
-    {
-      "title": "Is AI Reasoning Right for the Wrong Reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "source": "Quanta Magazine",
-      "category": "science",
-      "published_iso": "2026-07-31T10:00:00Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Lede-scaled.webp",
-      "excerpt": "The idea that AI can 'reason' is more intuitive than ever, but the science is far from settled; researchers probe whether models reason or merely appear to."
-    },
-    {
-      "title": "Two research efforts gave AI the same open problem. Their papers were submitted three hours apart",
-      "url": "https://www.scientificamerican.com/article/ai-helped-produce-two-proofs-for-the-same-cryptography-problem/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-07-31T12:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/e97018e5-ae61-4316-a006-bdb874245d1d/Man-at-mathematics-blackboard.jpg",
-      "excerpt": "An MIT PhD student and two UC cryptographers used GPT-5.6 Sol Ultra in different ways to solve the same open cryptography problem, raising new questions about independent discovery and scientific credit."
-    },
-    {
-      "title": "Clinical chatbots are taking medicine by storm. Should doctors trust them?",
-      "url": "https://www.statnews.com/2026/07/29/clinical-ai-vs-generalist-llm-benchmark-study-trust-accuracy-safety/",
-      "source": "STAT News",
-      "category": "science",
-      "published_iso": "2026-07-29T12:00:00Z",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/doctors-llms-1-645x645.jpg",
-      "excerpt": "A Nature Medicine study from NYU Langone Health tested general vs. specialized clinical AI models on clinical questions, finding specialized clinical AI performed worse than general models."
-    },
-    {
-      "title": "AI tool predicts how DNA sequences switch on genes across different cell types",
-      "url": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
       "source": "Phys.org",
+      "title": "Four labs find experimental differences can undermine AI catalyst predictions",
+      "url": "https://phys.org/news/2026-08-labs-experimental-differences-undermine-ai.html",
+      "published_iso": "2026-08-03T12:00:00Z",
+      "excerpt": "A four-laboratory round-robin led by SLAC found that tiny procedural differences — above all mixing intensity — produced inconsistent catalyst measurements, meaning the datasets used to train materials ML models can encode lab artifacts rather than chemistry. The authors argue standardized protocols and metadata are a precondition for AI-driven catalysis.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/for-ai-to-drive-scienc.jpg"
+    },
+    {
       "category": "science",
-      "published_iso": "2026-07-21T09:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-based-tool-allo.jpg",
-      "excerpt": "Max Planck researchers built Corgi (Context-aware Regulatory Genomics Inference), a deep-learning tool that predicts how the genome behaves and switches on genes across different cell types."
+      "source": "Phys.org",
+      "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
+      "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
+      "published_iso": "2026-08-03T12:00:00Z",
+      "excerpt": "Lawrence Berkeley National Laboratory researchers built an AI model that predicts how solid-state chemical reactions actually proceed by accounting for atomic diffusion, returning likely pathways and impurity phases in minutes instead of months of trial-and-error synthesis.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-modeling-approa.jpg"
+    },
+    {
+      "category": "science",
+      "source": "Phys.org",
+      "title": "Seven possible quasar lenses emerge from AI scan of 800,000 DESI objects",
+      "url": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
+      "published_iso": "2026-07-27T12:00:00Z",
+      "excerpt": "Ohio State astronomers trained a neural network on simulated imagery and turned it loose on 800,000 Dark Energy Spectroscopic Instrument objects, surfacing seven candidate gravitationally lensed quasars — roughly doubling the known sample of these rare cosmological rulers.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-s-3.jpg"
+    },
+    {
+      "category": "science",
+      "source": "Tech Xplore",
+      "title": "Adaptive decision support can fight overreliance on AI",
+      "url": "https://techxplore.com/news/2026-08-decision-overreliance-ai.html",
+      "published_iso": "2026-08-03T12:00:00Z",
+      "excerpt": "Harvard SEAS researchers used reinforcement learning to build an assistant that decides in the moment how much to help each person, rather than always volunteering a recommendation. In experiments the adaptive policy preserved human skill and judgment better than constant AI suggestions.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-recommendation.jpg"
+    },
+    {
+      "category": "science",
+      "source": "MIT News",
+      "title": "Solving the solvent problem",
+      "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+      "published_iso": "2026-08-04T12:00:00Z",
+      "excerpt": "An AI-guided algorithm generated 100,000 candidate solvent molecules, which MIT researchers narrowed to 200 and then synthesized, finding that shrinking solvent size breaks the usual trade-off between ion transport speed and electrolyte stability in sodium-metal batteries.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202607/MIT-nse-solvent-problem.jpg"
+    },
+    {
+      "category": "science",
+      "source": "MIT News",
+      "title": "The benefits of medical AI assistance vary based on user expertise",
+      "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+      "published_iso": "2026-08-04T12:00:00Z",
+      "excerpt": "In an MIT study of skin-disease diagnosis, AI assistance raised accuracy for both clinicians and non-experts — but non-experts deferred to the model even when it was wrong, while clinicians more often caught its mistakes. Expertise, not the model, determined who benefited.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-AI-Dermatology-01.jpg"
+    },
+    {
+      "category": "science",
+      "source": "Google Research",
+      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+      "published_iso": "2026-07-30T12:00:00Z",
+      "excerpt": "Google Research introduced Science One, an autonomous research framework that natively builds verifiable evidence chains behind every claim an AI system makes. In their evaluation the approach cut phantom-reference rates in AI-generated scientific papers from 21% to zero.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png"
+    },
+    {
+      "category": "science",
+      "source": "Allen Institute for AI",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://allenai.org/blog/olmoearth-infrastructure",
+      "published_iso": "2026-07-28T12:00:00Z",
+      "excerpt": "Ai2 detailed the infrastructure behind OlmoEarth, letting researchers fine-tune geospatial foundation models and run continent-scale satellite inference in about a day at fractions of a penny per square kilometer — turning Earth-observation science into a routine query.",
+      "og_image": "https://www.datocms-assets.com/64837/1784901152-olmoearth-engineering-blog-inference-google-docs-image-1.png"
+    },
+    {
+      "category": "science",
+      "source": "STAT News",
+      "title": "Are AI scribes useful tools in medical education, or a crutch that imperils learning?",
+      "url": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/",
+      "published_iso": "2026-08-03T12:00:00Z",
+      "excerpt": "Medical schools are debating whether to restrict AI scribes during training, worried that automating note-writing removes the cognitive work that builds diagnostic reasoning. \"The process of deliberately crafting the note forces us to use our brains,\" one educator argues.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1686952984-645x645.jpeg"
+    },
+    {
+      "category": "science",
+      "source": "STAT News",
+      "title": "We lead the Federation of State Medical Boards. Here's what we think about licensing AI to practice medicine",
+      "url": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/",
+      "published_iso": "2026-08-03T12:00:00Z",
+      "excerpt": "The Federation of State Medical Boards argues AI should be governed as a tool inside existing accountability structures rather than licensed as an independent practitioner, since a medical license is \"not just a permit to generate thoughtful and informed answers.\"",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1909065947-645x645.jpeg"
+    },
+    {
+      "category": "science",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "title": "AI Uses MRIs to Generate Brain Aging Maps for Neurodegenerative Disease Research",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/ai-uses-mris-to-generate-brain-aging-maps-for-neurodegenerative-disease-research/",
+      "published_iso": "2026-08-04T12:00:00Z",
+      "excerpt": "USC researchers trained an AI model on nearly 15,000 MRI scans to produce regional brain-aging maps, revealing that different brain regions age at very different rates — a finer-grained signal than a single brain-age number for spotting early neurodegeneration.",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2025/11/GettyImages-1496133518.jpg"
+    },
+    {
+      "category": "science",
+      "source": "ScienceDaily",
+      "title": "Your AI calorie-tracking app may be off by 345 calories",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
+      "published_iso": "2026-07-26T12:00:00Z",
+      "excerpt": "An American Society for Nutrition study tested popular AI-powered food-photo apps and found they can miss a large share of a meal, underestimating intake by hundreds of calories — a caution about treating consumer computer vision as measurement-grade data.",
+      "og_image": ""
+    },
+    {
+      "category": "science",
+      "source": "Psychology Today",
+      "title": "A Clinician's Field Guide to Vetting AI Mental Health Tools",
+      "url": "https://www.psychologytoday.com/us/blog/the-architecture-of-identity/202608/a-clinicians-field-guide-to-vetting-ai-mental-health-tools",
+      "published_iso": "2026-08-02T12:00:00Z",
+      "excerpt": "A practical six-question framework for clinicians evaluating AI mental health chatbots — covering legal status, crisis recognition, escalation behavior and data privacy — as therapy bots proliferate faster than the evidence base behind them.",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/sandip-karangiya-4rgdvweofdy-unsplash.jpg?itok=PIWv4brK"
+    },
+    {
+      "category": "science",
+      "source": "MIT Technology Review",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "published_iso": "2026-07-23T12:00:00Z",
+      "excerpt": "Away from the generative-AI spotlight, machine learning models are compressing drug-development timelines by rapidly triaging molecular candidates and opening previously \"undruggable\" targets, with closed-loop AI-plus-robotics discovery labs now being built to match.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 8,
+    "dropped": 3,
+    "kept": 14,
     "against_days": 5
   }
 }

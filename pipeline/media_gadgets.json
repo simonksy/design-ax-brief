@@ -1,9 +1,29 @@
 {
   "media": [
     {
-      "id": "gadgets-samsung-gemini-notebook",
+      "id": "gadgets-asus-googlebook-leak",
       "type": "image",
-      "src": "pipeline/media/gadgets-samsung-gemini-notebook.jpg"
+      "src": "pipeline/media/gadgets-asus-googlebook-leak.jpg"
+    },
+    {
+      "id": "gadgets-byd-xiao-di-humanoid",
+      "type": "image",
+      "src": "pipeline/media/gadgets-byd-xiao-di-humanoid.jpg"
+    },
+    {
+      "id": "gadgets-garmin-cirqa-screen-free",
+      "type": "image",
+      "src": "pipeline/media/gadgets-garmin-cirqa-screen-free.jpg"
+    },
+    {
+      "id": "gadgets-duckduckgo-anti-ai-glasses",
+      "type": "image",
+      "src": "pipeline/media/gadgets-duckduckgo-anti-ai-glasses.jpg"
+    },
+    {
+      "id": "gadgets-self-hosted-doc-assistants",
+      "type": "image",
+      "src": "pipeline/media/gadgets-self-hosted-doc-assistants.jpg"
     }
   ]
 }

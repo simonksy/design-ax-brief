@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-label="Secondhand bookshelves swept by bulk orders suspected of feeding AI training data">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f3ee"/>
+      <stop offset="1" stop-color="#e7dff5"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8b3ce0"/>
+      <stop offset="1" stop-color="#5a1d99"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+  <circle cx="215" cy="300" r="300" fill="#7928ca" opacity="0.10"/>
+  <circle cx="1010" cy="900" r="260" fill="#7928ca" opacity="0.08"/>
+
+  <!-- shelf of used books, thinning to the right: stock being swept up -->
+  <g transform="translate(120,392)">
+    <rect x="0"   y="0"   width="62" height="290" rx="8" fill="url(#acc)"/>
+    <rect x="78"  y="30"  width="50" height="260" rx="8" fill="#7928ca" opacity="0.84"/>
+    <rect x="144" y="14"  width="68" height="276" rx="8" fill="#7928ca" opacity="0.66"/>
+    <rect x="228" y="46"  width="44" height="244" rx="8" fill="#7928ca" opacity="0.5"/>
+    <rect x="288" y="24"  width="58" height="266" rx="8" fill="#7928ca" opacity="0.34"/>
+    <rect x="362" y="56"  width="46" height="234" rx="8" fill="#7928ca" opacity="0.2"/>
+    <rect x="424" y="36"  width="60" height="254" rx="8" fill="#7928ca" opacity="0.1"/>
+    <rect x="-20" y="302" width="530" height="16" rx="8" fill="#2f2743" opacity="0.32"/>
+  </g>
+
+  <!-- shipping crate: the bulk order leaving the shop -->
+  <g transform="translate(700,436)" fill="none" stroke="#2f2743" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.62">
+    <rect x="0" y="118" width="360" height="230" rx="14"/>
+    <path d="M0 178 H360"/>
+    <path d="M180 24 v76 M180 100 l-34-34 M180 100 l34-34"/>
+  </g>
+
+  <rect x="0" y="1160" width="1200" height="40" fill="#7928ca"/>
+</svg>

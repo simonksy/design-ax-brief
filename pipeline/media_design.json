@@ -1,24 +1,31 @@
 {
   "media": [
     {
-      "id": "design-design-skill",
-      "type": "image",
-      "src": "pipeline/media/design-design-skill.png"
+      "id": "design-flow-studio-3d-editor",
+      "type": "video",
+      "src": "pipeline/media/design-flow-studio-3d-editor.mp4",
+      "poster": "pipeline/media/design-flow-studio-3d-editor.jpg"
     },
     {
-      "id": "design-design-md",
+      "id": "design-backflip-mesh-to-cad",
       "type": "image",
-      "src": "pipeline/media/design-design-md.png"
+      "src": "pipeline/media/design-backflip-mesh-to-cad.jpg"
     },
     {
-      "id": "design-proxy",
+      "id": "design-eve-agent-browser",
       "type": "image",
-      "src": "pipeline/media/design-proxy.png"
+      "src": "pipeline/media/design-eve-agent-browser.png"
     },
     {
-      "id": "design-ai-art-row",
+      "id": "design-context-files-tokens",
       "type": "image",
-      "src": "pipeline/media/design-ai-art-row.jpg"
+      "src": "pipeline/media/design-context-files-tokens.png"
+    },
+    {
+      "id": "design-figma-motion-keyframes",
+      "type": "video",
+      "src": "pipeline/media/design-figma-motion-keyframes.mp4",
+      "poster": "pipeline/media/design-figma-motion-keyframes.jpg"
     }
   ]
 }
