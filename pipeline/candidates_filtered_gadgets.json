@@ -1,87 +1,240 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-05",
   "section": "gadgets",
-  "now_iso": "2026-08-03T22:00:26Z",
+  "now_iso": "2026-08-04T22:00:29Z",
   "window_hours": 336,
-  "count": 8,
-  "note": "WIDE funnel for the single 'gadgets' category, restricted to its allowed_domains. Gadgets window = 14 days / 336h (start ~2026-07-20T22:00Z). Every item date-verified (og article:published_time / JSON-LD datePublished via WebFetch + curl) and gated FRESH with `python3 pipeline/freshness.py <iso> 2026-08-03T22:00:26Z gadgets`. This window's fresh AI-hardware news is heavily concentrated on (a) Samsung Galaxy Unpacked (London, Jul 22) - Galaxy Glasses, on-device Gemini Nano 4, Gemini Intelligence, Gemini Notebook; (b) Meta Ray-Ban Display's Muse Spark AI-model upgrade (Jul 29); (c) the Friend AI pendant relaunch (Jul 30); (d) Jony Ive/OpenAI HomePad-style device rumor (Jul 30); (e) Google DeepMind Gemini Robotics 2 whole-body humanoid control (Jul 30). 8 verified-fresh, on-topic items across 5 distinct outlets (Android Authority x2, Engadget x3, 9to5Mac, Notebookcheck, 9to5Google) - all <=3/outlet. DEDUP-VS-PUBLISHED WARNINGS (news_data already carries these stories from other outlets, so curator should treat as content-dups and likely drop/replace): the Friend pendant (news_data has Gizmodo version), OpenAI first device (news_data has MacRumors Jul 28), Samsung Galaxy Glasses (news_data has Android Authority 3689544), Gemini Nano 4 foldables (news_data has Android Authority 3690495), Gemini Robotics 2 (news_data has The Verge whole-body). Cleanest NON-published picks this window: Meta Ray-Ban Muse Spark (AndroidAuthority) and Samsung Gemini Notebook (Engadget). WITHIN-POOL content clusters: items 4/6/7 all = Samsung Unpacked Gemini-on-device; items 2 and 3 are separate wearables. DROPPED as STALE (outside 336h, pre Jul-20): Android Authority INMO GO3 glasses (Jul 17), Gemma 4 E2B for TPU (Jul 14), Snapdragon Reality Elite (Jun 16); TechRadar S25 Gemini 'eyes' (Apr 2025), Digital Trends Meta prescription glasses (Apr 2), Tom's Guide Meta prescription (Mar 29), Tom's Hardware Snapdragon C (May 28) + Copilot+ discrete-GPU (Jun 14), XDA Snapdragon C (May 28), Engadget Broadcom on-device translation chip (Nov 2025), Engadget 1X Neo (Oct 2025), TechRadar rabbitOS 2 (Sep 2025). Robot-vacuum / AI-PC / AI-earbuds sweeps this window surfaced only CES-Jan or older items or already-published stories, so the fresh non-Samsung pool is genuinely thin.",
+  "count": 25,
+  "note": "WebSearch was near-useless for freshness (kept returning CES 2026 / evergreen best-of pages) and 5 of the section's allowed_domains are blocked to our agent (theverge.com, arstechnica.com, wired.com, cnet.com, zdnet.com). Method that worked: curl over each allowed outlet's RSS / tag feeds (engadget, techradar + /feeds/tag/{artificial-intelligence,wearables,smart-home}, tomsguide + /feeds/tag/ai, 9to5google, 9to5mac, androidauthority, androidcentral, digitaltrends + /home + /computing, roadtovr, uploadvr, notebookcheck, windowscentral, pcworld, xda, gizmodo, tomshardware, macrumors, venturebeat), then per-URL metadata extraction of og article:published_time / JSON-LD datePublished / <time datetime> via curl, then gating each with `python3 pipeline/freshness.py <iso> 2026-08-04T22:00:29Z gadgets` (all 25 printed FRESH). Every item is on-list; 11 distinct outlets; per-outlet cap <=3 respected (9to5mac 3, 9to5google 3, androidauthority 3, techradar 3, digitaltrends 3, roadtovr 3, engadget 2, tomsguide 2, notebookcheck 1, androidcentral 1, xda 1). Emphasis rotated per plan toward home/humanoid robots, AI robot vacuum, AI PC / Googlebook-class hardware, on-device agents and AI earbuds/wearables; smart-glasses items kept only from FRESH angles (DuckDuckGo anti-AI glasses, Even Realities G2 hands-on, Snap Specs, Unseen Reality URXR One, cheap Ray-Ban clones) since Samsung/Meta eyewear is saturated in recent days. Nothing here overlaps yesterday's pool (Meta Ray-Ban Muse Spark, Samsung Unpacked Gemini Nano 4, Friend pendant, Gemini Robotics 2). DROPPED as AI-business/no-design-hook noise: SpaceX earnings, Nvidia/OpenAI Ohio data center, Texas data-center moratorium, GPU/Snapdragon price hikes, the AI-slop bug-bounty story (Apple/Microsoft versions on 6 outlets), MacBook Air memory-crisis supply story, LinkedIn AI capex. DROPPED as no AI angle: Motorola Moto Watch Ultra leak, Pixel Watch 5 leak, Windows-on-Arm gaming / eGPU pieces, PlayStation VR2 sale, DJI Mic Mini 2S. DROPPED as same-story duplicates: pcworld + techradar Googlebook (kept androidauthority ASUS + digitaltrends Lenovo AI-mouse angle), 9to5google Honor Robot Phone (kept androidcentral AiMAGE/ARRI imaging angle), the engadget/9to5google/digitaltrends Gemini Spark Chrome-browsing trio, 9to5mac Apple-glasses-health (kept the roadtovr fitness version), techradar/digitaltrends/9to5google US foreign-robot ban trio.",
   "items": [
     {
-      "title": "Meta Ray-Ban Display smart glasses are getting smarter with a significant AI model upgrade",
-      "url": "https://www.androidauthority.com/meta-ray-ban-display-muse-spark-3692414/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-07-29T15:26:00Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display-2.jpg",
-      "excerpt": "Meta is upgrading its Ray-Ban Display glasses to its latest Muse Spark on-device AI model for smarter responses and better understanding of what the wearer sees, plus an extended Neural Handwriting feature that lets you invoke Meta AI by writing a prompt on any surface with your finger. A concrete on-device wearable-AI capability shift, not a rumor."
-    },
-    {
-      "title": "That Friend AI wearable you don't like just got worse",
-      "url": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-07-30T21:34:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/that-ai-wearable-you-dont-like-just-got-worse/intro-1785447171.jpg",
-      "excerpt": "Friend relaunched its AI companion pendant as a $249 device with a built-in speaker (so the AI talks back) and updated models, but now gates memory beyond 30 days behind a $10/month subscription. A new AI-native form factor for always-on personal AI. NOTE: content-dup with the Gizmodo Friend-pendant story already in news_data."
-    },
-    {
-      "title": "Jony Ive's first OpenAI hardware device sounds rather like ... a HomePad",
-      "url": "https://9to5mac.com/2026/07/30/jony-ives-first-openai-hardware-device-sounds-rather-like-a-homepad/",
+      "title": "DuckDuckGo anti-AI glasses offer zero cameras and notifications",
+      "url": "https://9to5mac.com/2026/08/03/duckduckgo-anti-ai-glasses-offer-zero-cameras-and-notifications/",
       "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-30T11:13:00Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/homepod-with-screen-mockup-03.jpg",
-      "excerpt": "New reporting says the first OpenAI x Jony Ive consumer device is shaping up as a camera-equipped smart speaker with a display - an always-on, AI-native home device meant to be an ambient 'active participant.' A window into the first-gen AI-native hardware form factor. NOTE: content-dup with the MacRumors 'OpenAI first devices' story already in news_data."
+      "published_iso": "2026-08-03T11:54:20+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/DuckDuckGo-glasses-offer-zero-cameras-and-notifications.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "DuckDuckGo is pitching deliberately 'dumb' eyewear - no camera, no display, no notifications - as a counter-position to the AI glasses race. A rare anti-feature product design statement in a category where every vendor is adding sensors."
     },
     {
-      "title": "Samsung Galaxy Glasses are official: Snapdragon AR1, Gemini cross-app AI, 2 designer frames",
-      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Glasses-are-official-Snapdragon-AR1-Gemini-cross-app-AI-2-designer-frames.1348992.0.html",
-      "source": "Notebookcheck",
+      "title": "Apple's rumored AirPods with cameras could potentially debut as soon as next month",
+      "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-glasses.png",
-      "excerpt": "Samsung's Galaxy Glasses, unveiled at Unpacked in London, run on Qualcomm's Snapdragon AR1 with Google Gemini as the primary AI engine for real-time translation, live navigation, message summaries and hands-free capture, in Gentle Monster and Warby Parker frames. NOTE: content-dup with the Android Authority Samsung-Gemini-glasses story already in news_data."
+      "published_iso": "2026-08-02T16:18:26+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/AirPods-Pro-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Camera-equipped AirPods built around Visual Intelligence are reportedly close to launch, putting a scene-reading AI sensor in the ear rather than on the face. Would make hearables an ambient input device, not just an output one."
     },
     {
-      "title": "Samsung's new foldables come with Gemini Notebook pre-installed",
-      "url": "https://www.engadget.com/2220546/samsung-new-foldables-come-with-gemini-notebook/",
-      "source": "Engadget",
+      "title": "First impressions of smart glasses with a display: the Even Realities G2",
+      "url": "https://9to5mac.com/2026/07/31/first-impressions-of-smart-glasses-with-a-display-the-even-realities-g2/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-07-22T13:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/samsungs-new-foldables-come-with-gemini-notebook-pre-installed/l-intro-1784722468.jpg",
-      "excerpt": "The Galaxy Z Fold 8 and Flip 8 ship with Google's Gemini Notebook baked in - an AI research/notes surface that ingests your docs and turns them into summaries, audio overviews and study aids on-device-first, a distinct AI-tool angle beyond the usual Galaxy AI recap. Cleanest non-published pick of the Samsung Unpacked cluster."
+      "published_iso": "2026-07-31T11:18:43+00:00",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Even-Realities-G2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Hands-on with a non-Meta, non-Samsung display-glasses maker: the Even Realities G2 puts a minimal heads-up layer into ordinary-looking frames. A useful read on how little UI a wearable display actually needs."
     },
     {
-      "title": "Gemini Intelligence and Gemini Nano 4 launch with Galaxy Z Fold 8, Flip 8",
-      "url": "https://9to5google.com/2026/07/22/gemini-nano-4-intelligence-samsung-fold-8/",
+      "title": "Nothing reportedly prioritizing AI devices like its leaked smartwatch over smartphones",
+      "url": "https://9to5google.com/2026/07/31/nothing-smartwatch-audio-devices-leak-with-ai-focus/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-07-22T19:41:56Z",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-with-Gemini-Intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Samsung's new foldables are the first devices to ship Google's on-device Gemini Nano 4 model (140+ languages, better multimodal understanding) alongside the debut of Gemini Intelligence agentic task automation across 40+ apps. NOTE: content-dup with the Android Authority Gemini Nano 4 foldables story already in news_data."
+      "published_iso": "2026-07-31T15:30:38+00:00",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Nothing-2026-devices-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Nothing is said to be shifting its roadmap away from phones toward AI-first wearables and audio hardware, starting with a leaked smartwatch. A design-led hardware brand betting the next form factor isn't a slab."
     },
     {
-      "title": "Galaxy Z Fold 8 and Flip 8 lead the Gemini Intelligence rollout",
-      "url": "https://www.androidauthority.com/gemini-intelligence-on-samsung-galaxy-z-fold-8-3689576/",
+      "title": "Samsung teases Android XR glasses, Galaxy Tab S12, S26 FE, and more",
+      "url": "https://9to5google.com/2026/07/30/samsung-teases-android-xr-glasses-galaxy-tab-s12-s26-fe-and-more/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-30T14:55:00+00:00",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-tab-s11-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Alongside its first-ever mobile division loss, Samsung confirmed Android XR glasses and a wider 2026 device slate. Signals how central AI eyewear has become to the Android hardware roadmap."
+    },
+    {
+      "title": "Gemini comes to Waymo for assistance and cabin controls",
+      "url": "https://9to5google.com/2026/07/29/gemini-waymo-ojai/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-07-29T19:18:12+00:00",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Gemini-Waymo-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Waymo's Ojai vehicles get Gemini plus a redesigned in-cabin interface for ride assistance and controls. A concrete case of an assistant replacing menu-driven UI inside a physical product."
+    },
+    {
+      "title": "Our first look at the ASUS Googlebook shows Google's laptop plans taking shape",
+      "url": "https://www.androidauthority.com/asus-googlebook-leak-3694565/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-07-22T13:00:33Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-Ultra-display-on-straight-on.jpg",
-      "excerpt": "The Galaxy Z Fold 8 and Flip 8 are the launch vehicles for Gemini Intelligence, Google's agentic on-device Android layer that automates multi-step tasks across apps and the web directly on the phone. WITHIN-POOL dup with items 4/6 (Samsung Unpacked Gemini-on-device cluster)."
+      "published_iso": "2026-08-04T20:24:11+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/01/ASUS-Zenbook-DUO-2024-2.jpg",
+      "excerpt": "Leaked images of the ASUS Googlebook CX9406 show an Aluminium OS laptop with Google's Glowbar and dedicated AI keyboard controls. First hardware evidence of what a Gemini-native laptop's physical UI looks like."
     },
     {
-      "title": "Google's new Gemini Robotics 2 platform allows for 'intelligent whole-body control'",
-      "url": "https://www.engadget.com/2227268/google-gemini-robotics-2-platform-intelligent-whole-body-control/",
+      "title": "Gemini could soon let anyone build an AI agent on their phone, no enterprise plan needed",
+      "url": "https://www.androidauthority.com/gemini-custom-ai-agent-android-apk-teardown-article-3693798/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-03T12:41:47+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/New-Gemini-app-2026-design-refresh-scaled.jpg",
+      "excerpt": "An APK teardown suggests custom AI agent creation is coming to the Gemini Android app for all users, not just paid enterprise tiers. Agent authoring moving onto the handset changes who can build a workflow."
+    },
+    {
+      "title": "You might soon be able to create Gemini Spark skills directly on your Android phone",
+      "url": "https://www.androidauthority.com/gemini-spark-skills-android-apk-teardown-3693782/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-03T11:37:11+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Gemini-Spark.jpg",
+      "excerpt": "Google app code points to Spark skill creation and management landing on Android, letting users build and edit agent workflows on the go. On-device authoring of automations, not just triggering them."
+    },
+    {
+      "title": "Agent Box packs surprising AI muscle into a compact mini PC",
+      "url": "https://www.techradar.com/pro/startup-backed-by-the-worlds-largest-battery-maker-just-launched-a-supercheap-mini-pc-that-competes-with-nvidias-usd5000-ai-dgx-spark-pc",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-08-02T18:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZUS6gZ3GwWhFF8hBEeFzvL-1920-80.png",
+      "excerpt": "A CATL-backed startup's Agent Box claims DGX Spark-class local inference at a fifth of the price, running large models entirely on-desk. Cheap local-LLM boxes put private model runs within reach of small studios."
+    },
+    {
+      "title": "I test smart glasses for a living - here's why you shouldn't buy cheap Meta Ray-Ban alternatives",
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/budget-meta-ray-ban-alternatives-are-selling-out-in-stores-but-please-dont-buy-them",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-08-04T20:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HvQHUDBQ3y38W4k2cpbW9a-2000-80.jpg",
+      "excerpt": "Budget AI-glasses clones are selling out, and a reviewer who tests them full-time argues the assistant quality, fit and privacy tradeoffs make them a bad buy. A practical map of what separates good AI eyewear from bad."
+    },
+    {
+      "title": "I tested the Xiaomi Robot Vacuum X20 Max and it's a great all-round performer - when it actually works",
+      "url": "https://www.techradar.com/home/robot-vacuums/xiaomi-robot-vacuum-x20-max-review",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-08-03T09:58:16Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7oJPxRx4iaUrYMsutPUDVb-2560-80.jpg",
+      "excerpt": "A long-term review of Xiaomi's X20 Max robovac finds strong AI obstacle recognition and cleaning, undercut by reliability problems after a year of use. A rare longitudinal read on whether home-robot smarts hold up."
+    },
+    {
+      "title": "Lenovo's Googlebook lineup could include two laptops, a 2-in-1 tablet, and an AI mouse",
+      "url": "https://www.digitaltrends.com/computing/lenovos-googlebook-lineup-could-include-two-laptops-a-2-in-1-tablet-and-an-ai-mouse-this-fall/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-07-31T09:13:38-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/05/Googlebook-featured.jpg?resize=1200%2C630",
+      "excerpt": "Leaks point to a Lenovo Googlebook family of laptops, a 2-in-1 tablet and an 'AI mouse' built around Google's Aluminium OS. The AI-mouse peripheral hints at new input hardware for assistant-first computing."
+    },
+    {
+      "title": "Remember Samsung's Ballie home robot? It may finally be inching closer to reality",
+      "url": "https://www.digitaltrends.com/cool-tech/remember-samsungs-ballie-home-robot-it-may-finally-be-inching-closer-to-reality/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-07-30T14:02:43-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/01/Samsung-Ballie-robot-featured.jpg?resize=1200%2C630",
+      "excerpt": "Leaked wireframes for Ballie's companion app are the clearest sign yet that Samsung's rolling home robot is still in development. The app UI leak shows how a mobile robot's controls get designed before the robot ships."
+    },
+    {
+      "title": "Apple's long-delayed smart home plans may finally start to take shape this fall",
+      "url": "https://www.digitaltrends.com/home/apples-long-delayed-smart-home-plans-may-finally-start-to-take-shape-this-fall/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-07-28T08:13:19-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2023/01/apple-homepod-2023-review-10.jpg?resize=1200%2C630",
+      "excerpt": "Bloomberg reporting points to a new Apple home hub, refreshed Apple TV and updated HomePod mini arriving over the coming months, built around the delayed Siri overhaul. Apple's answer to Gemini for Home and Alexa+."
+    },
+    {
+      "title": "CMF announces its first pair of open-ear earbuds for under $100",
+      "url": "https://www.engadget.com/2230147/cmf-announces-its-first-pair-of-open-ear-earbuds-for-under-dollar100/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-07-30T17:57:10Z",
-      "og_image": "https://www.engadget.com/img/gallery/googles-new-gemini-robotics-2-platform-allows-for-intelligent-whole-body-control/l-intro-1785434008.jpg",
-      "excerpt": "Google DeepMind's Gemini Robotics 2 gives humanoid robots whole-body control (legs, torso, arms, 22-DOF hands) under one policy, with an embodied-reasoning 'brain' and an on-device variant that runs locally and adapts to new robot bodies in a few hours. Physical-AI hardware capability leap. NOTE: content-dup with the Verge Gemini Robotics 2 story already in news_data."
+      "published_iso": "2026-08-04T17:12:57+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/cmf-announces-its-first-pair-of-open-ear-earbuds-for-under-100/l-intro-1785863498.jpg",
+      "excerpt": "Nothing's CMF sub-brand launched clip-style open-ear buds under $100, notably without the always-listening AI features of its flagship line. A brand explicitly designing AI out of a cheaper wearable."
+    },
+    {
+      "title": "Google will let Mac users talk to Gemini simply by pressing the 'fn' key",
+      "url": "https://www.engadget.com/2224915/google-lets-mad-users-talk-to-gemini-by-pressing-fn/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-07-29T15:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/google-will-let-mac-users-talk-to-gemini-simply-by-pressing-the-fn-key/l-intro-1785239770.jpg",
+      "excerpt": "Gemini for macOS maps voice control to a long-press of the fn key, taking over Apple's dictation shortcut as an assistant trigger. A small hardware-affordance grab in the fight over the assistant's entry point."
+    },
+    {
+      "title": "These XR Glasses Want to Be the Monitor You Wear All Day - Kickstarter Coming August 4th",
+      "url": "https://roadtovr.com/xr-glasses-unseen-reality-kickstarter/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-07-31T12:30:44+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/urxr-lrg.jpg",
+      "excerpt": "Unseen Reality's URXR One is a display-replacement MR glasses set pitched at all-day flatscreen work, with 6DOF and 3DOF comfort modes. A wearable-monitor take on XR aimed squarely at desk workflows."
+    },
+    {
+      "title": "Snap to Show In-depth Look at 'Specs' AR Glasses in September Event",
+      "url": "https://roadtovr.com/snap-specs-ar-glasses-launch-event-september/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-07-31T10:14:24+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-side.jpg",
+      "excerpt": "Snap will detail its consumer Specs AR glasses at a September 16 event, promising AI assistance, work tools and shared experiences. The clearest non-Meta consumer AR platform pitch of the year for creators."
+    },
+    {
+      "title": "Apple is Reportedly Eyeing Fitness as the Killer App for Future Smart Glasses",
+      "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-08-04T12:09:26+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/apple-glasses-fitness.jpg",
+      "excerpt": "Gurman reports Apple wants fitness and health coaching to anchor its future smart glasses and XR headsets, even though gen-one won't ship tracking. Suggests where Apple thinks wearable AI earns daily use."
+    },
+    {
+      "title": "BYD officially unveils AI robot Xiao Di - Tesla Optimus faces new rival as the U.S. blocks it",
+      "url": "https://www.notebookcheck.net/BYD-officially-unveils-AI-robot-Xiao-Di-Tesla-Optimus-faces-new-rival-as-the-U-S-blocks-it.1359680.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-08-04T15:28:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Google_KI_Generated_Image_BYD_Xiao_Di.png",
+      "excerpt": "BYD confirmed Xiao Di, a customer-facing humanoid robot debuting in its dealerships, just as the FCC moves to restrict Chinese humanoid imports. Humanoids are arriving as retail-floor interface hardware first."
+    },
+    {
+      "title": "Honor's AiMAGE and ARRI partnership aim for a 'cinematic' Robot Phone",
+      "url": "https://www.androidcentral.com/phones/honor-phones/honors-new-era-is-cinema-major-robot-phone-camera-details-aimage-image-engine-confirmed",
+      "source": "Android Central",
+      "category": "gadgets",
+      "published_iso": "2026-07-28T17:46:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/aq3QUiPTicK2Yrw3uWqzr6-2560-80.jpg",
+      "excerpt": "Honor detailed the Robot Phone's gimbal camera, AiMAGE imaging engine and an ARRI partnership aimed at cinematic capture from a phone with a moving camera arm. Motorized optics plus an AI pipeline is a genuinely new camera form factor."
+    },
+    {
+      "title": "'We don't want to overwhelm the consumer with AI': why Samsung is taking a different approach with Galaxy Z Fold 8 launch",
+      "url": "https://www.tomsguide.com/phones/samsung-phones/we-dont-want-to-overwhelm-the-consumer-with-ai-why-samsung-is-taking-a-different-approach-with-galaxy-z-fold-8-launch",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-07-31T07:15:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/CdhsuAu4DLMo5biUye6HoG-2000-80.jpg",
+      "excerpt": "After years of foregrounding Galaxy AI branding, Samsung executives say the Z Fold 8 pitch deliberately hides the AI and leads with the experience. A visible swing in how AI features get surfaced in product design and marketing."
+    },
+    {
+      "title": "Exclusive: Garmin Cirqa PM on launching a screen-free fitness tracker",
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/exclusive-garmin-cirqa-pm-says-it-just-felt-like-we-had-all-of-the-pieces-in-place-to-launch-a-screen-free-fitness-tracker",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-07-30T05:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/sg3JXoV6C6r56Fnc9YzB6X-2560-80.jpg",
+      "excerpt": "Garmin's product lead explains the design reasoning behind Cirqa, a screenless band whose coaching lives entirely in software rather than on the wrist. Screen-free wearables push the whole interface into the assistant layer."
+    },
+    {
+      "title": "I tried 3 self-hosted Claude alternatives on the same documents, and one crushed the others",
+      "url": "https://www.xda-developers.com/tried-self-hosted-claude-alternatives-on-same-documents-one-crushed-the-others/",
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "published_iso": "2026-08-04T22:00:10Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/cherry-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&h=900&fit=crop",
+      "excerpt": "A head-to-head of three self-hosted document-chat stacks running locally finds the client tooling matters more than the model itself. A practical guide to keeping client files on your own hardware instead of a cloud assistant."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 8,
+    "kept": 25,
     "against_days": 5
   }
 }

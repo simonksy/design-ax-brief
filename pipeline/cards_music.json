@@ -1,162 +1,272 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "section": "music",
   "cards": [
     {
-      "id": "music-omni-daw",
+      "id": "music-i-am-choir",
       "eyebrow": "AI NEWS",
-      "headline": "AI 샘플 생성을 품은 첫 DAW\nOMNi가 무료 알파로 나왔다",
-      "body": "러스트로 만든 OMNi는 ElevenLabs 샘플 생성과 이미지를 소리로 바꾸는 합성을 워크스테이션에 그대로 담았다.",
-      "mini_headline": "AI 샘플 품은 첫 DAW",
+      "headline": "보컬 한 테이크를 합창단으로\n노래한 사람들과 로열티를 나눈다",
+      "body": "보컬 한 트랙이 합창으로 바뀌고, 목소리를 빌려준 가수들은 로열티를 나눈다.",
+      "mini_headline": "한 테이크가 합창단으로",
       "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/",
-      "accent": "#10b981",
-      "motif": "grid",
+      "source": "Sound On Sound",
+      "url": "https://www.soundonsound.com/news/am-audio-launch-am-choir",
+      "accent": "#ff2d55",
+      "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
+          {
+            "t": "p",
+            "x": "Am I Audio가 몇 해에 걸친 개발 끝에 첫 플러그인을 내놨다. 도쿄의 음악기술 회사 Neurotone, Inc.와 함께 만든 I Am Choir는 보컬 한 트랙을 받아, 원래의 가사와 멜로디를 그대로 지킨 채 합창 편곡으로 펼쳐낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/am_i_audio_i_am_choir-7A67gqQJWf3467Zt70zwv.fCbrj1BoxY.jpg",
+            "cap": "Am I Audio I Am Choir — AI 보컬 앙상블 플러그인"
+          },
+          {
+            "t": "p",
+            "x": "회사는 이 플러그인을 작곡이나 작사 도구가 아니라 '음색 변환(timbre transfer)' 처리기로 봐 달라고 말한다. 앰프 시뮬레이터에 빗대는데, 소리가 앰프를 통과한 것처럼 나오는 대신 합창단이 부른 것처럼 나온다는 얘기다. 목소리를 여러 겹 만드는 데 더해, 입력 멜로디의 3도나 5도 위아래로 화음을 붙이는 하모니 엔진도 들어 있다. 음계와 조는 사용자가 고른다."
+          },
+          {
+            "t": "p",
+            "x": "클라우드는 끼지 않는다. 모든 처리가 사용자 컴퓨터에서 그대로 돌아간다."
+          },
+          {
+            "t": "p",
+            "x": "세 개의 합창단. 세 그룹의 가수들과 함께 만들었고, 이들 모두 자기 목소리가 어떻게 쓰이는지 알고 동의했다. 작업에 대한 대가를 받았고 플러그인 로열티도 나눠 받는다."
+          },
+          {
+            "t": "p",
+            "x": "가스펠 합창단은 Eric Howard가 조율한 로스앤젤레스 가스펠 합창단과, 어린이 합창단은 MUSYCA Children's Choir와 함께 훈련했다. Shout는 Am I Audio가 알고 지내던 아티스트·작가·프로듀서들의 목소리로 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "AI 사용에 대해 Am I Audio는 이렇게 밝혔다. \"I Am Choir는 뛰어난 가수들과 직접 협업해 만들었다. 모든 목소리는 알고, 동의한 상태에서, 윤리적으로 제공됐다. 참여한 가수들은 작업에 대한 보상을 받았고 이 도구의 성공을 로열티로 함께 나눈다.\""
+          },
+          {
+            "t": "p",
+            "x": "\"한 방에 모여 함께 노래하는 인간의 마법은 무엇도 대신할 수 없다고 믿는다. 이 도구는 그 경험의 대체물이 아니라 가능성의 확장\"이라는 말도 덧붙였다. 비용이나 물리적 거리 탓에 닿지 못했던 소리와 워크플로를 아티스트에게 열어주되, 그 소리를 만든 사람들을 존중하는 것이 목표라는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "macOS 12 이상에서 돌아가고 윈도우 버전은 개발 중이다. VST3, AU, AAX를 지원한다. 지금 살 수 있으며 2026년 9월 1일까지는 정가 199달러 대신 169달러의 출시 기념가가 붙는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-push-hack",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 코딩 에이전트로 뜯어낸\nPush 3의 화면과 MIDI",
+      "body": "AI 코딩 에이전트로 뜯어낸 비공식 해킹이 Push 3의 화면과 파일, MIDI, LED를 열어준다.",
+      "mini_headline": "AI로 뜯어낸 Push 3",
+      "tool": "Music",
+      "source": "CDM",
+      "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "무단 해킹이 불편하다면, 혹은 AI 코딩 에이전트로 만든 물건이 싫다면 이 글은 넘겨도 된다. 그게 아니라면 반가운 소식이다. Federico Pepe가 Push 3의 화면과 드라이브, MIDI까지 통째로 넘겨받는 비공식 해킹 Push Hack을 공개했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdm.link/app/uploads/2026/08/Push-Hack-Installation.png",
+            "cap": "SSH로 Push 3에 모듈형 해킹을 설치하는 화면"
+          },
+          {
+            "t": "p",
+            "x": "원리는 단순하다. Push 3 스탠드얼론은 속을 열면 결국 리눅스 컴퓨터다. SSH로 접속해 모듈 형태의 해킹을 설치한다. 개념 증명에 가깝지만, Ableton이 공식적으로 할 수 있는 일을 그대로 보여준다."
+          },
           {
             "t": "video",
-            "yt": "ZETNTQjv40I"
+            "yt": "fsYWSZ-MSDk"
           },
           {
             "t": "p",
-            "x": "OMNi는 개발자 Tomasz Głuc가 러스트로만 짜서 내놓은 무료 DAW다. 아직 알파 0.1 단계지만 오디오가 끊기지 않도록 락프리 구조를 깔아 성능과 안정성을 앞세웠다."
+            "x": "Federico Pepe는 Ableton Live 공인 트레이너이자 브랜드 매니저로 깊이 발을 담근 사람이다. Ableton Live의 Extensions 안에서 Flappy Bird와 Doom을 돌린 그 사람이라면 기억이 날지도 모르겠다."
           },
           {
             "t": "p",
-            "x": "OMNi를 남다르게 만드는 건 워크스테이션에 바로 붙인 AI다. 개발자는 이 프로그램을 두고 네이티브 AI 샘플 생성과 이미지-소리 합성을 갖춘 세계 첫 DAW라고 소개한다."
+            "x": "출시 시점의 모듈은 이렇다. 파일과 프로젝트를 올리고 내리는 Push Manager, USB-A 단자를 통한 USB 드라이브 지원, 이미지와 영상까지 띄우는 화면 완전 장악, 모든 버튼·패드·컨트롤을 양방향 피드백으로 다루는 MIDI 완전 장악, 색과 애니메이션을 전부 역설계한 LED 제어, 그리고 CPU·메모리·디스크·IP·핫스팟 비밀번호를 보여주는 시스템 상태."
           },
           {
             "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/TomaszGluc-OMNi-728x364.jpg",
-            "cap": "OMNi 인터페이스 (사진: Bedroom Producers Blog)"
+            "src": "https://cdm.link/app/uploads/2026/08/pushmidimonitordisplay.jpg",
+            "cap": "Push 3 하드웨어 디스플레이에 띄운 실시간 MIDI 모니터"
           },
           {
             "t": "p",
-            "x": "샘플 생성은 ElevenLabs가 맡는다. 길이나 프롬프트 반영 정도 같은 값을 지정하면 원하는 소리를 빠르게 뽑아낸다. 이미지를 스펙트럼으로 읽어 소리로 바꾸는 Iris 엔진도 들어 있다."
+            "x": "가장 흥미로운 건 MIDI 장악이다. Federico는 CDM에 이렇게 설명했다. \"'Intercept' 모드를 켜면 Push에서 오는 메시지를 읽되 Push 소프트웨어로 넘기지 않는다. 그래서 버튼이나 노브로 본체 소프트웨어를 건드리지 않고 다른 것을 제어할 수 있다. 'Forward' 모드도 넣어서 모든 MIDI 메시지가 Push UI 안의 라우팅 없이 MIDI 출력 포트로 바로 나가게 했다.\""
+          },
+          {
+            "t": "img",
+            "src": "https://cdm.link/app/uploads/2026/08/hackpushcolors.jpg",
+            "cap": "역설계한 LED 제어로 Push 3 패드에 모든 색을 입힌 모습"
           },
           {
             "t": "p",
-            "x": "속을 채운 도구도 두툼하다. 16보이스 폴리신스 PolySynth와 드럼신스, 물리 모델링 어쿠스틱 악기까지 신스 엔진이 14개, 정밀 EQ와 리미터, 그래뉼러 클라우드까지 내장 FX가 16개다."
+            "x": "더 갈 여지도 있다. \"MIDI와 화면, LED를 전부 쥐고 있으니 Push의 UI 위에 얹는 '섀도 UI'를 만들었다. Push Manager를 넘어 모든 걸 Push 자체에서 하자는 생각\"이라고 그는 말한다."
           },
           {
             "t": "p",
-            "x": "윈도우와 리눅스용 스탠드얼론으로 돌아가고 LV2·CLAP·VST3 플러그인도 지원한다. 다만 맥 버전은 아직 없다."
+            "x": "CDM은 Ableton Move 해킹만큼 큰 파장은 없으리라고 본다. 스탠드얼론 대수가 그만큼 많지 않고, 훨씬 강력한 대신 훨씬 복잡하다. 다만 우리가 산 기기에 지원되는 API가 있었으면 하는 바람은 남는다. Move의 공식·비공식 도구, Novation의 커스텀 SDK, monome 같은 개방적인 플랫폼에서 사용자 커뮤니티가 해낸 일들을 보면 투자만큼의 값은 돌아왔다."
           },
           {
             "t": "p",
-            "x": "필자 James Nugent는 개발 과정을 짚었다. \"개발자가 이 주제를 두고 나만큼 투명하게 이야기해 주지 않아 조금 아쉬웠다\"면서도, 이건 대충 만든 프로젝트가 아니라 러스트로 27만 줄 넘게 쌓아 올린 DAW라고 덧붙였다."
+            "x": "그리고 이런 식의 역설계야말로 머신러닝이 정말 잘하는 일이라고 CDM은 짚는다. 그 응용이 늘 선의는 아니라는 점까지 포함해서."
           }
         ]
       }
     },
     {
-      "id": "music-soundid-voiceai-cpop",
+      "id": "music-spotify-merlin-remix",
       "eyebrow": "AI NEWS",
-      "headline": "Sonarworks 보이스 AI에\n중화권 목소리 10종 더해졌다",
-      "body": "정식 계약으로 확보한 소리로 학습한 10종으로, 프로듀서는 DAW 안에서 만다린·광둥어 팝을 다른 목소리로 다시 부른다.",
-      "mini_headline": "중화권 AI 보이스 10종",
+      "headline": "3만여 인디 레이블이 합류한\n스포티파이 AI 커버·리믹스",
+      "body": "3만여 인디 레이블의 Merlin이 유니버설에 이어 스포티파이 AI 커버·리믹스에 합류했다.",
+      "mini_headline": "인디 3만 곳도 AI 리믹스",
       "tool": "Music",
-      "source": "Sound on Sound",
-      "url": "https://www.soundonsound.com/news/sonarworks-expand-soundid-voiceai-library",
-      "accent": "#ff2d7e",
-      "motif": "wave",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "accent": "#7928ca",
+      "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "Sonarworks가 보컬 변환 도구 SoundID VoiceAI에 C-pop 보이스 확장팩을 새로 붙였다. 남성 다섯, 여성 다섯으로 중화권 목소리 10종이 들어오는데, 만다린·광둥어 팝 같은 스타일에 맞춰 만들었다."
+            "x": "스포티파이가 화요일 2분기 실적 발표에서 신제품을 다시 흘렸다. 팬이 AI로 아티스트의 곡을 커버하고 리믹스하는 제품이며, 아티스트의 동의를 전제로 한다."
           },
           {
             "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
-            "cap": "SoundID VoiceAI C-pop 중화권 보이스 확장팩 (사진: Sonarworks)"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg",
+            "cap": "휴대폰 화면 속 스포티파이 로고 (사진: Klaudia Radecka/NurPhoto / Getty Images)"
           },
           {
             "t": "p",
-            "x": "이 목소리들은 정식 계약을 맺고 저작권을 지킨 소리로만 학습했다. 싱크나 라이브러리 작업, 그리고 정작 부를 가수를 못 구했을 때 가이드나 데모를 만드는 창작자를 겨냥했다."
+            "x": "함께 알린 소식은 Merlin의 합류다. 독립 레이블과 유통사를 대리하는 라이선싱 파트너 Merlin이 유니버설 뮤직 그룹(UMG)에 이어 이 AI 음악 프로젝트에 들어왔다. Merlin 네트워크의 3만 곳 넘는 레이블이 제품에 얹히고, 참여하겠다고 밝힌 아티스트의 곡으로 팬이 커버와 리믹스를 만들게 된다."
           },
           {
             "t": "p",
-            "x": "Sonarworks는 AI 윤리를 강조한다. \"AI는 창의성을 대체하는 게 아니라 북돋아야 한다\"는 게 회사의 입장이다. SoundID VoiceAI는 사람을 밀어내지 않고 돕도록 만들었고, 모든 목소리는 뚜렷이 동의하고 정당하게 보상받은 전문 가수와 함께 만들었다고 설명한다."
+            "x": "스포티파이는 완전한 인공 곡을 찍어내며 논란을 산 AI 음악 스타트업들과 자사 제품은 다르다고 선을 긋는다. 공동 CEO Gustav Söderström은 투자자들에게 \"가짜 아티스트가 아니라 진짜 아티스트\"에 관한 제품이라고 말했다."
           },
           {
             "t": "p",
-            "x": "윈도우 10 이상과 macOS 11 이상에서 VST3·AU·AAX 플러그인으로 쓴다. 가격은 29달러이고 지금 바로 살 수 있다."
+            "x": "공동 CEO Alex Norström이 덧붙였다. \"아티스트가 동의해서 자기 작업을 이 카탈로그에 넣고, 사람들이 그 작품을 바탕으로 커버와 리믹스를 가지고 놀 수 있길 바란다. 당연히 크레딧도 준다. 마지막으로, 동의와 크레딧에 더해 보상까지 우리가 만들어낸다. 인터랙티브 음악에 다가오는 AI 순풍에 합법적으로 올라타는 첫 방법인 셈이다.\""
+          },
+          {
+            "t": "p",
+            "x": "AI 음악은 이미 스트리밍을 뒤덮었다. Deezer는 최근 하루 업로드 트랙의 50% 이상이 AI로 만들어졌다고 밝혔다. 2025년 1월의 10%에서 뛴 수치다."
+          },
+          {
+            "t": "p",
+            "x": "리서치 프리뷰는 일부 사용자에게 먼저 열린다. 전체 카탈로그가 없어도 시작할 수 있다고 했지만 시점은 밝히지 않았다. 제품은 유료 부가 상품으로 나오고, 아티스트에게는 새 수익원이 붙는다. Söderström은 \"일반적인 생성 음악은 우리가 있든 없든 일어난다. 이 제품은 우리 없이는 일어나지 않고, 기존 아티스트가 참여하려면 존재해야 한다\"고 말했다."
           }
         ]
       }
     },
     {
-      "id": "music-artist-growth-mcp",
+      "id": "music-suno-vinyl",
       "eyebrow": "AI NEWS",
-      "headline": "음악 산업 첫 MCP 서버가\nAI에 현업 데이터를 연결한다",
-      "body": "권한이 걸린 운영 데이터를 ChatGPT와 Claude에 물린 이 MCP 서버로, 45분짜리 작업을 20초 만에 끝낸다.",
-      "mini_headline": "음악 업계 첫 MCP 서버",
+      "headline": "프롬프트로 만든 트랙을\n12인치 바이닐로 찍어 보낸다",
+      "body": "Suno 라이브러리에서 고른 46분을 맞춤 슬리브 12인치로 눌러 장당 약 45달러에 보내준다.",
+      "mini_headline": "AI 곡을 바이닐로",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/artist-growth-brings-secure-ai-to-music-business-operations/",
-      "accent": "#3b82f6",
-      "motif": "orbit",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "690at7zkkqk"
-          },
-          {
-            "t": "p",
-            "x": "Artist Growth가 음악 업계 첫 MCP 서버라고 내세운 제품을 공개했다. 에이전시와 매니저, 프로모터, 레이블이 쓰는 기업 데이터를 주요 AI 모델에 곧바로 잇는다."
-          },
-          {
-            "t": "p",
-            "x": "플랫폼 데이터를 ChatGPT·Claude·Gemini·Copilot 같은 대형 언어모델에 물리면, 투어 일정표나 런오브쇼 문서를 짜는 복잡한 행정 업무를 짧은 문장 몇 줄로 몇 초 만에 끝낸다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Matt-Urmy.jpg",
-            "cap": "Artist Growth 공동창업자 겸 CEO Matt Urmy (사진: Artist Growth)"
-          },
-          {
-            "t": "p",
-            "x": "공동창업자 겸 CEO Matt Urmy의 말이다. \"45분 걸리던 일이나 며칠씩 뒤져야 찾던 정보를 고객이 20초도 안 돼 끝내는 걸 직접 봤다.\""
-          },
-          {
-            "t": "p",
-            "x": "권한도 그대로 넘어간다. Artist Growth에서 사용자에게 준 역할별 권한이 언어모델로 이어져, 팀원이든 외부 파트너든 허락받은 데이터에만 손을 댄다. 덕분에 데이터가 새거나 일정이 어긋나는 사고를 막는다. MCP는 ChatGPT 앱스토어에 올라와 있고, Claude·Gemini·Copilot에는 커넥터로 몇 분 만에 붙인다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-tonefield",
-      "eyebrow": "AI NEWS",
-      "headline": "사라진 톤패드 프로의 감각을\nToneField가 되살려 냈다",
-      "body": "Matt Goodluck이 단종된 TonePad Pro를 새로 짜, 점을 찍고 확률로 스스로 자라나는 패턴을 만드는 악기로 되살렸다.",
-      "mini_headline": "톤패드를 되살린 악기",
-      "tool": "Music",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/07/21/new-generative-instrument-for-mac-windows-tonefield/",
+      "source": "gearnews",
+      "url": "https://www.gearnews.com/suno-vinyl-tech/",
       "accent": "#f5a623",
-      "motif": "bloom",
+      "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "개발자이자 뮤지션인 Matt Goodluck이 단종된 앱 TonePad Pro에서 영감을 받아 ToneField를 내놓았다. 개념을 처음부터 다시 짜서 현대적인 악기로 키운 뒤 ToneField라는 이름으로 냈다고 했다."
+            "x": "AI 음악 플랫폼 Suno가 바이닐 프레싱과 배송 서비스를 시작한다. 곧 열릴 Suno Vinyl은 내 라이브러리의 트랙리스트를 맞춤 슬리브가 딸린 12인치 레코드 한 장으로 만들어준다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/suno-vinyl-ft.jpg",
+            "cap": "Suno Vinyl — AI로 만든 음악을 바이닐로"
           },
           {
             "t": "p",
-            "x": "쓰는 법은 단순하다. 격자에 점을 찍고 재생을 누르면 음악이 흘러나온다. 열마다 걸린 확률을 만지면 루프를 돌 때마다 패턴이 조금씩 달라진다. 순수 사인파 사운드 엔진에 16×16 시퀀서, 7개 모드를 포함한 13가지 스케일, 라이브 녹음과 MIDI·오디오 내보내기까지 담았다."
+            "x": "Suno는 짧은 텍스트 프롬프트만으로 보컬과 악기가 얹힌 완성 트랙을 즉석에서 만들어내는 플랫폼이다. 프리미엄 등급마다 월 크레딧이 주어지고, 나온 결과물은 구간을 늘리거나 리믹스하거나 스템으로 분리할 수 있다."
           },
           {
             "t": "p",
-            "x": "맥과 윈도우에서 쓸 수 있고 가격은 14.99달러다. tonefield.com.au에서 지금 바로 받는다."
+            "x": "과정은 세 단계다. 개인 Suno 라이브러리에서 총 46분 분량의 트랙을 고르고, 슬리브와 레코드 양면 라벨에 쓸 컬러 아트워크를 올리면, 프레싱과 품질 검사를 거쳐 원하는 주소로 배송된다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/suno-vinyl.jpg",
+            "cap": "Suno Vinyl 맞춤 12인치 레코드와 슬리브"
+          },
+          {
+            "t": "p",
+            "x": "레코드 소재는 PETG다. 내구성이 좋고 친환경적이라는 설명이 붙는다."
+          },
+          {
+            "t": "p",
+            "x": "Suno는 웹사이트에 개인 라이브러리의 트랙에서 시작한다고만 적어 뒀다. Suno AI로 만들지 않은 업로드 트랙도 찍을 수 있는지는 아직 분명하지 않다."
+          },
+          {
+            "t": "p",
+            "x": "어느 쪽이든 쓸 구석은 있다. 스템과 비트, 드럼 브레이크 같은 소재를 한 장에 채워 넣고 다시 샘플링하면 바이닐 특유의 질감을 얻는 도구가 된다. 잘라 쓰는 데 샘플 클리어런스나 소송을 걱정할 일도 없다."
+          },
+          {
+            "t": "p",
+            "x": "공식 사이트 기준 가격은 배송비를 빼고 장당 약 45달러다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-eu-ai-act-enforced",
+      "eyebrow": "AI NEWS",
+      "headline": "EU AI법 투명성 규정이\n8월 2일부터 실제로 작동한다",
+      "body": "AI 생성물에는 라벨과 워터마크가 붙고, GPAI 개발사는 학습 데이터 요약을 공개해야 한다.",
+      "mini_headline": "EU AI법, 이제 집행",
+      "tool": "Music",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/08/04/key-eu-ai-act-rules-now-being-enforced-so-how-does-that-affect-the-music-industry/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "8월 2일 일요일, EU 인공지능법이 한 단계 더 조여졌다. 소비자를 향한 투명성 규정과 AI 컴플라이언스 요건, 규제 집행 권한이 한꺼번에 발효됐다. 법의 갈래는 많지만 당장 내 일에 닿는 건 이미 쓰고 있는 도구 쪽일 가능성이 높다. 음악 산업에 걸리는 지점을 Music Ally가 추렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-71.png",
+            "cap": "Music Ally의 EU AI법 해설에 붙은 EU 깃발 일러스트"
+          },
+          {
+            "t": "p",
+            "x": "투명성과 라벨링. DSP에서 이미 눈에 보이기 시작한 대목이다. AI로 만들거나 수정한 이미지·오디오·영상·텍스트에는 눈에 보이는 라벨이 붙어야 한다. 플랫폼과 사용자가 AI 콘텐츠를 가려낼 수 있도록 기계가 읽는 워터마크도 심어야 한다. 최근 AI 음악 라벨링 체계와 Genotone 같은 '사람이 만들었다'는 지문 스타트업이 튀어나온 배경이다."
+          },
+          {
+            "t": "p",
+            "x": "학습 데이터 요약 공개. 파장이 더 클 수 있는 건 53조다. EU가 '범용 AI(GPAI)'라 부르는, OpenAI나 Udio처럼 방대한 데이터로 학습한 대형 모델은 기술 문서를 갖추고 학습 데이터 요약을 공개해야 한다. 단순하게 읽으면 EU에서 GPAI 음악 모델을 굴리는 회사는 학습에 쓴 곡 목록을 내놓아야 한다는 뜻이다. 과연 그럴까. 지금까지 AI 음악 회사 다수는 버텨 왔다."
+          },
+          {
+            "t": "p",
+            "x": "AI 규제 원칙을 세우고, 독일에서 Suno를 상대로 소송을 이기고, 데이터 투명성을 밀어붙여 온 음악 업계는 이 조항이 어떻게 먹힐지 눈여겨보고 있다. 유럽 법원은 이제 소송의 증거개시 단계에서 AI 개발사에 EU AI법이 요구하는 문서를 내놓으라고 강제할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "옵트아웃. 작곡가와 실연자의 작업을 AI 모델에 쓸 때 옵트인이냐 옵트아웃이냐를 두고 업계는 오래 씨름해 왔다. 법은 GPAI 개발사가 권리자의 옵트아웃을 감지하고 존중하고 집행하는 정책을 갖추라고 못박는다. 권리자가 곡에 디지털 옵트아웃 메타데이터를 붙이면, AI 회사는 유료 라이선스 없이 EU 시장용으로 그 곡을 학습에 쓸 수 없다."
+          },
+          {
+            "t": "p",
+            "x": "위반에는 무거운 과징금과 EU 내 플랫폼 차단이 따라붙는다. 완전히 라이선스된 생성 AI 음악 모델의 등장을 앞당길 수도 있다. 기업 쪽 부담도 이미 드러났다. UMG는 2025년 연차 재무 보고서에서 EU AI법 같은 규제와 관련해 \"모니터링과 컴플라이언스에 상당한 의무와 비용\"이 생길 수 있다고 짚었다."
           }
         ]
       }

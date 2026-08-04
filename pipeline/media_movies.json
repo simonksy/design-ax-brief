@@ -1,15 +1,32 @@
 {
+  "date": "2026-08-05",
+  "section": "movies",
   "media": [
     {
-      "id": "movies-kokboru",
-      "type": "video",
-      "src": "pipeline/media/movies-kokboru.mp4",
-      "poster": "pipeline/media/movies-kokboru.jpg"
+      "id": "movies-indiewire-a16z-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-indiewire-a16z-ai.jpg"
     },
     {
-      "id": "movies-stranger-vfx",
+      "id": "movies-snapchat-ai-ban",
       "type": "image",
-      "src": "pipeline/media/movies-stranger-vfx.jpg"
+      "src": "pipeline/media/movies-snapchat-ai-ban.jpg"
+    },
+    {
+      "id": "movies-seedance-nvidia",
+      "type": "video",
+      "src": "pipeline/media/movies-seedance-nvidia.mp4",
+      "poster": "pipeline/media/movies-seedance-nvidia.jpg"
+    },
+    {
+      "id": "movies-tech-reviews-blender5",
+      "type": "image",
+      "src": "pipeline/media/movies-tech-reviews-blender5.jpg"
+    },
+    {
+      "id": "movies-reply-ai-film-festival",
+      "type": "image",
+      "src": "pipeline/media/movies-reply-ai-film-festival.jpg"
     }
   ]
 }

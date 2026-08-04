@@ -1,19 +1,30 @@
 {
   "media": [
     {
-      "id": "games-meshy-3d-agent",
-      "type": "image",
-      "src": "pipeline/media/games-meshy-3d-agent.png"
+      "id": "games-atelier-ryza-chat-rpg",
+      "type": "video",
+      "src": "pipeline/media/games-atelier-ryza-chat-rpg.mp4",
+      "poster": "pipeline/media/games-atelier-ryza-chat-rpg.jpg"
     },
     {
-      "id": "games-ludwig-fmv-ai-slop",
+      "id": "games-eu-deepfake-law",
       "type": "image",
-      "src": "pipeline/media/games-ludwig-fmv-ai-slop.jpeg"
+      "src": "pipeline/media/games-eu-deepfake-law.jpg"
     },
     {
-      "id": "games-duskbloods-ai-chatbots",
+      "id": "games-ai-mandate-resistance",
       "type": "image",
-      "src": "pipeline/media/games-duskbloods-ai-chatbots.jpg"
+      "src": "pipeline/media/games-ai-mandate-resistance.jpg"
+    },
+    {
+      "id": "games-version-control-ai-agents",
+      "type": "image",
+      "src": "pipeline/media/games-version-control-ai-agents.png"
+    },
+    {
+      "id": "games-seed-ai-avatars",
+      "type": "image",
+      "src": "pipeline/media/games-seed-ai-avatars.jpg"
     }
   ]
 }
