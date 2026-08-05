@@ -1,72 +1,90 @@
-[
-  {
-    "id": "music-i-am-choir",
-    "title": "Am I Audio launches I Am Choir, an AI vocal plug-in built with credited, royalty-sharing singers",
-    "url": "https://www.soundonsound.com/news/am-audio-launch-am-choir",
-    "source": "Sound On Sound",
-    "category": "music",
-    "tool": "Music",
-    "accent": "#ff2d55",
-    "motif": "sphere",
-    "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/am_i_audio_i_am_choir-7A67gqQJWf3467Zt70zwv.fCbrj1BoxY.jpg",
-    "published_iso": "2026-08-04T13:30:43+01:00",
-    "excerpt": "Am I Audio has launched I Am Choir, an AI vocal plug-in that turns a single vocal take into a full choral arrangement. It was built with singers who were credited, compensated and share in royalties — a consent-first model for AI vocal tooling.",
-    "rationale": "A shipping plug-in that changes a session tomorrow — one take becomes a choir — and it pairs the capability with a credited, royalty-sharing consent model that sets a bar for AI vocal tools."
+{
+  "date": "2026-08-06",
+  "section": "music",
+  "picks": [
+    {
+      "url": "https://www.musicbusinessworldwide.com/south-koreas-komca-ends-its-ban-on-ai-assisted-songs-false-filings-now-risk-royalty-holds-and-contract-termination/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-08-05T11:36:01Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2025/04/Korea-flag.jpg",
+      "excerpt": "KOMCA's amended rules took effect August 3, ending South Korea's blanket ban on registering AI-assisted songs — but writers must now declare AI use, with false filings risking royalty holds and contract termination. Changes how Korean songwriters document an AI-touched session.",
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "rationale": "Korean songwriters can finally register AI-assisted works — with a mandatory disclosure that changes session documentation from August 3."
+    },
+    {
+      "url": "https://completemusicupdate.com/record-labels-come-together-to-propose-rules-for-when-ai-generated-tracks-can-get-into-the-music-charts/",
+      "source": "Complete Music Update",
+      "published_iso": "2026-07-29T16:05:10Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/AI-charts.png",
+      "excerpt": "Majors and indies jointly proposed chart-eligibility rules for AI: only AI-assisted tracks may chart, only legitimate AI tools may be used, and AI use must be labelled. A labelling standard that will land directly in artists' release workflow.",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "Majors and indies agree on the first chart-eligibility standard for AI tracks — labelling becomes part of the release checklist."
+    },
+    {
+      "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
+      "source": "CDM",
+      "published_iso": "2026-08-05T16:25:00Z",
+      "og_image": "https://cdm.link/app/uploads/2026/08/smokethissong.jpg",
+      "excerpt": "CDM spots an emerging scene of producers deliberately recording strange or 'bad' music in the hope AI scrapers will train on it — data poisoning as a creative genre. A craft-level response to generative models that turns the training pipeline itself into material.",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Producers are turning scraper data-poisoning into an actual genre — the training pipeline itself becomes creative material."
+    },
+    {
+      "url": "https://musictech.com/features/interviews/sound-free-concert/",
+      "source": "MusicTech",
+      "published_iso": "2026-07-27T12:56:36Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-hero-credit-OutcomePath@2000x1500-1068x801.jpg",
+      "excerpt": "A London 'sound-free concert' used generative AI music platforms plus Bluetooth-connected cochlear implants to stream audio directly to d/Deaf attendees. Generative music as an accessibility design surface rather than a content firehose.",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Generative music paired with cochlear implants turns a concert into an accessibility design problem, not a content-volume one."
+    },
+    {
+      "url": "https://musically.com/2026/08/05/is-that-viral-fenix-flexin-song-ai-generated-after-all-and-if-so-what-does-that-mean/",
+      "source": "Music Ally",
+      "published_iso": "2026-08-05T12:30:00Z",
+      "og_image": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-74.png",
+      "excerpt": "Music Ally revisits Fenix Flexin's viral 'Rubberz' and the accusations that it is AI-generated, pulling apart why the question is now almost unanswerable when most DAW tools already embed AI. A useful test case for where 'AI-assisted' ends and 'AI-generated' begins.",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "A charting viral hit shows the 'AI-assisted vs AI-generated' line is now nearly undecidable — the exact line the new chart rules depend on."
+    }
+  ],
+  "dedup_notes": {
+    "checked_against_days": ["2026-07-31", "2026-08-01", "2026-08-02", "2026-08-03", "2026-08-04", "2026-08-05"],
+    "dropped": [
+      {
+        "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
+        "reason": "Same story as published 2026-07-31 card 'flow-music-spaces' (MBW) — Google Flow Music Spaces song generation / editing / stem splitting."
+      },
+      {
+        "url": "https://www.digitalmusicnews.com/2026/08/04/komca-ai-policy/",
+        "reason": "Within-pool duplicate of the KOMCA policy reversal; kept the stronger MBW article (adds declaration requirement, royalty-hold and termination penalties)."
+      },
+      {
+        "url": "https://www.digitalmusicnews.com/2026/08/04/rapper-fenix-flexin-song-ai-generated-controversy/",
+        "reason": "Within-pool duplicate of the Fenix Flexin AI-generation controversy; kept the more analytical Music Ally piece."
+      }
+    ],
+    "not_selected": [
+      "MBW Saregama AI music videos — solid production case, but would have put two cards from the same outlet in the final five.",
+      "MBW 'what gets wanted' column — opinion, low actionability.",
+      "DJ Mag Bangalter / MusicRadar Luke Steele — artist-quote takes on AI, no workflow change.",
+      "MusicTech AI music earnings — business/streams data, closer to AI-business noise.",
+      "ElevenLabs 11 Voices YouTube — promotional brand documentary."
+    ]
   },
-  {
-    "id": "music-push-hack",
-    "title": "Push Hack opens Ableton Push 3's display, files and MIDI — built with AI coding agents",
-    "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
-    "source": "CDM",
-    "category": "music",
-    "tool": "Music",
-    "accent": "#0070f3",
-    "motif": "sphere",
-    "og_image": "https://cdm.link/app/uploads/2026/08/Push-Hack-Installation.png",
-    "published_iso": "2026-08-03T13:59:45+00:00",
-    "excerpt": "Federico Pepe's Push Hack opens up Ableton Push 3's display, file system, MIDI and LEDs via SSH — and he built it with AI-assisted coding agents, arguing reverse-engineering is exactly what ML is good at. A concrete look at AI agents as instrument-modding tools.",
-    "rationale": "The most actionable new use of AI in the pool: coding agents used to reverse-engineer closed hardware, turning a Push 3 into an open, hackable instrument surface."
-  },
-  {
-    "id": "music-spotify-merlin-remix",
-    "title": "Spotify adds Merlin to its AI music remix and covers effort",
-    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "source": "TechCrunch",
-    "category": "music",
-    "tool": "Music",
-    "accent": "#7928ca",
-    "motif": "sphere",
-    "og_image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
-    "published_iso": "2026-08-04T15:50:06Z",
-    "excerpt": "Merlin, representing 30,000+ independent labels, joins Universal in backing Spotify's AI-powered remix and covers product. The paid tool will let fans generate AI covers and remixes of opted-in artists, with credit and compensation attached.",
-    "rationale": "With Merlin's 30,000+ indie labels on board, Spotify's fan-facing AI remix tool moves from rumour to imminent — the biggest distribution shift in the pool. Chosen over the MBW and Billboard versions of the same story."
-  },
-  {
-    "id": "music-suno-vinyl",
-    "title": "Suno Vinyl presses your AI-generated tracks onto custom 12-inch records",
-    "url": "https://www.gearnews.com/suno-vinyl-tech/",
-    "source": "gearnews",
-    "category": "music",
-    "tool": "Music",
-    "accent": "#f5a623",
-    "motif": "sphere",
-    "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/suno-vinyl-ft.jpg",
-    "published_iso": "2026-08-04T10:00:00+02:00",
-    "excerpt": "Suno has announced Suno Vinyl, a service that presses tracks from a user's AI-generated library onto custom 12-inch records with designed sleeves, around $45 per record. Prompt-made music gets a physical, art-directed output format.",
-    "rationale": "Novel and design-relevant: prompt-generated audio gets an art-directed physical object, pulling sleeve design and packaging into the generative-music workflow."
-  },
-  {
-    "id": "music-eu-ai-act-enforced",
-    "title": "Key EU AI Act rules are now being enforced — what that means for music",
-    "url": "https://musically.com/2026/08/04/key-eu-ai-act-rules-now-being-enforced-so-how-does-that-affect-the-music-industry/",
-    "source": "Music Ally",
-    "category": "music",
-    "tool": "Music",
-    "accent": "#2ec5c5",
-    "motif": "sphere",
-    "og_image": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-71.png",
-    "published_iso": "2026-08-04T11:30:00Z",
-    "excerpt": "The EU AI Act's transparency rules came into force on 2 August, and Music Ally breaks down what they mean in practice — most immediately for the AI tools musicians already use, including labelling of AI-generated output.",
-    "rationale": "Rules that are live, not proposed: transparency and labelling obligations that reach the AI tools producers already have open, so it changes what they must disclose today."
+  "diversity_check": {
+    "outlets": ["Music Business Worldwide", "Complete Music Update", "CDM", "MusicTech", "Music Ally"],
+    "max_per_outlet": 1,
+    "distinct_urls": 5
   }
-]
+}

@@ -1,31 +1,31 @@
 {
+  "date": "2026-08-06",
+  "section": "design",
   "media": [
     {
-      "id": "design-flow-studio-3d-editor",
-      "type": "video",
-      "src": "pipeline/media/design-flow-studio-3d-editor.mp4",
-      "poster": "pipeline/media/design-flow-studio-3d-editor.jpg"
-    },
-    {
-      "id": "design-backflip-mesh-to-cad",
+      "id": "design-code-connect-mcp",
       "type": "image",
-      "src": "pipeline/media/design-backflip-mesh-to-cad.jpg"
+      "src": "pipeline/media/design-code-connect-mcp.jpg"
     },
     {
-      "id": "design-eve-agent-browser",
+      "id": "design-v0-api",
       "type": "image",
-      "src": "pipeline/media/design-eve-agent-browser.png"
+      "src": "pipeline/media/design-v0-api.png"
     },
     {
-      "id": "design-context-files-tokens",
+      "id": "design-material-creator",
       "type": "image",
-      "src": "pipeline/media/design-context-files-tokens.png"
+      "src": "pipeline/media/design-material-creator.jpg"
     },
     {
-      "id": "design-figma-motion-keyframes",
-      "type": "video",
-      "src": "pipeline/media/design-figma-motion-keyframes.mp4",
-      "poster": "pipeline/media/design-figma-motion-keyframes.jpg"
+      "id": "design-chat-wrong-interface",
+      "type": "image",
+      "src": "pipeline/media/design-chat-wrong-interface.jpg"
+    },
+    {
+      "id": "design-agent-evidence-approval",
+      "type": "image",
+      "src": "pipeline/media/design-agent-evidence-approval.png"
     }
   ]
 }

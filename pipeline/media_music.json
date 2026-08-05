@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "section": "music",
   "media": [
     {
-      "id": "music-i-am-choir",
+      "id": "music-komca-ai-disclosure",
       "type": "image",
-      "src": "pipeline/media/music-i-am-choir.jpg"
+      "src": "pipeline/media/music-komca-ai-disclosure.jpg"
     },
     {
-      "id": "music-push-hack",
+      "id": "music-ai-chart-rules",
+      "type": "image",
+      "src": "pipeline/media/music-ai-chart-rules.png"
+    },
+    {
+      "id": "music-ai-poison-genre",
+      "type": "image",
+      "src": "pipeline/media/music-ai-poison-genre.jpg"
+    },
+    {
+      "id": "music-sound-free-concert",
+      "type": "image",
+      "src": "pipeline/media/music-sound-free-concert.jpg"
+    },
+    {
+      "id": "music-fenix-flexin-ai",
       "type": "video",
-      "src": "pipeline/media/music-push-hack.mp4",
-      "poster": "pipeline/media/music-push-hack.jpg"
-    },
-    {
-      "id": "music-spotify-merlin-remix",
-      "type": "image",
-      "src": "pipeline/media/music-spotify-merlin-remix.jpg"
-    },
-    {
-      "id": "music-suno-vinyl",
-      "type": "image",
-      "src": "pipeline/media/music-suno-vinyl.jpg"
-    },
-    {
-      "id": "music-eu-ai-act-enforced",
-      "type": "image",
-      "src": "pipeline/media/music-eu-ai-act-enforced.png"
+      "src": "pipeline/media/music-fenix-flexin-ai.mp4",
+      "poster": "pipeline/media/music-fenix-flexin-ai.jpg"
     }
   ]
 }

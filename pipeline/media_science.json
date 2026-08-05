@@ -1,29 +1,32 @@
 {
+  "date": "2026-08-06",
+  "section": "science",
   "media": [
     {
-      "id": "science-one-chain-of-evidence",
+      "id": "science-ai-solid-state-synthesis",
       "type": "image",
-      "src": "pipeline/media/science-one-chain-of-evidence.png"
+      "src": "pipeline/media/science-ai-solid-state-synthesis.jpg"
     },
     {
-      "id": "science-catalyst-lab-variance",
+      "id": "science-escapemap-spike-variants",
       "type": "image",
-      "src": "pipeline/media/science-catalyst-lab-variance.jpg"
+      "src": "pipeline/media/science-escapemap-spike-variants.jpg"
     },
     {
-      "id": "science-ai-solvent-sodium-battery",
-      "type": "image",
-      "src": "pipeline/media/science-ai-solvent-sodium-battery.png"
+      "id": "science-erdos-problems-ai",
+      "type": "video",
+      "src": "pipeline/media/science-erdos-problems-ai.mp4",
+      "poster": "pipeline/media/science-erdos-problems-ai.jpg"
     },
     {
-      "id": "science-medical-ai-expertise-gap",
+      "id": "science-quantum-circuits-drug-molecules",
       "type": "image",
-      "src": "pipeline/media/science-medical-ai-expertise-gap.jpg"
+      "src": "pipeline/media/science-quantum-circuits-drug-molecules.png"
     },
     {
-      "id": "science-olmoearth-planetary-inference",
+      "id": "science-ai-scribes-medical-education",
       "type": "image",
-      "src": "pipeline/media/science-olmoearth-planetary-inference.png"
+      "src": "pipeline/media/science-ai-scribes-medical-education.jpg"
     }
   ]
 }

@@ -1,29 +1,32 @@
 {
+  "date": "2026-08-06",
+  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-asus-googlebook-leak",
+      "id": "gadgets-google-assistant-shutdown",
       "type": "image",
-      "src": "pipeline/media/gadgets-asus-googlebook-leak.jpg"
+      "src": "pipeline/media/gadgets-google-assistant-shutdown.jpg"
     },
     {
-      "id": "gadgets-byd-xiao-di-humanoid",
-      "type": "image",
-      "src": "pipeline/media/gadgets-byd-xiao-di-humanoid.jpg"
+      "id": "gadgets-siri-ai-device-tiering",
+      "type": "video",
+      "src": "pipeline/media/gadgets-siri-ai-device-tiering.mp4",
+      "poster": "pipeline/media/gadgets-siri-ai-device-tiering.jpg"
     },
     {
-      "id": "gadgets-garmin-cirqa-screen-free",
+      "id": "gadgets-chrome-on-device-ai-cost",
       "type": "image",
-      "src": "pipeline/media/gadgets-garmin-cirqa-screen-free.jpg"
+      "src": "pipeline/media/gadgets-chrome-on-device-ai-cost.jpg"
     },
     {
-      "id": "gadgets-duckduckgo-anti-ai-glasses",
+      "id": "gadgets-nothing-cmf-ai-marketing",
       "type": "image",
-      "src": "pipeline/media/gadgets-duckduckgo-anti-ai-glasses.jpg"
+      "src": "pipeline/media/gadgets-nothing-cmf-ai-marketing.jpg"
     },
     {
-      "id": "gadgets-self-hosted-doc-assistants",
+      "id": "gadgets-peloton-ai-tracking-camera",
       "type": "image",
-      "src": "pipeline/media/gadgets-self-hosted-doc-assistants.jpg"
+      "src": "pipeline/media/gadgets-peloton-ai-tracking-camera.jpg"
     }
   ]
 }

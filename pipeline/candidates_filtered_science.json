@@ -1,139 +1,101 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "section": "science",
-  "now_iso": "2026-08-04T22:00:29Z",
+  "now_iso": "2026-08-05T22:25:00Z",
   "window_hours": 336,
   "items": [
     {
-      "category": "science",
-      "source": "Phys.org",
-      "title": "Four labs find experimental differences can undermine AI catalyst predictions",
-      "url": "https://phys.org/news/2026-08-labs-experimental-differences-undermine-ai.html",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "excerpt": "A four-laboratory round-robin led by SLAC found that tiny procedural differences — above all mixing intensity — produced inconsistent catalyst measurements, meaning the datasets used to train materials ML models can encode lab artifacts rather than chemistry. The authors argue standardized protocols and metadata are a precondition for AI-driven catalysis.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/for-ai-to-drive-scienc.jpg"
-    },
-    {
-      "category": "science",
-      "source": "Phys.org",
-      "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
       "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "excerpt": "Lawrence Berkeley National Laboratory researchers built an AI model that predicts how solid-state chemical reactions actually proceed by accounting for atomic diffusion, returning likely pathways and impurity phases in minutes instead of months of trial-and-error synthesis.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-modeling-approa.jpg"
-    },
-    {
-      "category": "science",
       "source": "Phys.org",
-      "title": "Seven possible quasar lenses emerge from AI scan of 800,000 DESI objects",
-      "url": "https://phys.org/news/2026-07-quasar-lenses-emerge-ai-scan.html",
-      "published_iso": "2026-07-27T12:00:00Z",
-      "excerpt": "Ohio State astronomers trained a neural network on simulated imagery and turned it loose on 800,000 Dark Energy Spectroscopic Instrument objects, surfacing seven candidate gravitationally lensed quasars — roughly doubling the known sample of these rare cosmological rulers.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-s-3.jpg"
+      "category": "science",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-modeling-approa.jpg",
+      "excerpt": "Lawrence Berkeley National Laboratory researchers built an AI model that couples thermodynamics with atom-transport kinetics to simulate solid-state reaction pathways in minutes, predicting intermediates, final products and impurities. It reproduced decades of barium-titanium oxide experiments, pointing to faster, higher-purity materials synthesis."
     },
     {
+      "url": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
+      "source": "Phys.org",
       "category": "science",
-      "source": "Tech Xplore",
-      "title": "Adaptive decision support can fight overreliance on AI",
-      "url": "https://techxplore.com/news/2026-08-decision-overreliance-ai.html",
+      "published_iso": "2026-08-01T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co.jpg",
+      "excerpt": "Emory and Georgia Tech researchers built CapuchinAI, a battery-powered field rig that uses facial recognition to identify an approaching wild capuchin, serve a cognitive task tailored to that individual on a touchscreen, and dispense a reward. Field trials hit 97% ID accuracy, opening automated cognition studies outside the lab."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-sars-cov-variants-prevalent.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-sars-cov-2.jpg",
+      "excerpt": "École Normale Supérieure and Institut Pasteur researchers built EscapeMap, a generative AI framework that designs heavily mutated but still functional SARS-CoV-2 spike variants by balancing sequence viability, ACE2 affinity and immune selection. Most AI-generated variants escaped prevalent antibodies, giving a way to stress-test therapeutics against future strains."
+    },
+    {
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "source": "Quanta Magazine",
+      "category": "science",
       "published_iso": "2026-08-03T12:00:00Z",
-      "excerpt": "Harvard SEAS researchers used reinforcement learning to build an assistant that decides in the moment how much to help each person, rather than always volunteering a recommendation. In experiments the adaptive policy preserved human skill and judgment better than constant AI suggestions.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-recommendation.jpg"
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2022/10/Konstantin_Kakaes.jpg",
+      "excerpt": "AI models have begun knocking down long-standing problems posed by Paul Erdős, and mathematicians are trying to work out why this particular corpus is falling first. The piece treats the Erdős problems as a natural test bed for how far machine-generated proof search can go, and what it means for the rest of math."
     },
     {
-      "category": "science",
-      "source": "MIT News",
-      "title": "Solving the solvent problem",
-      "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
-      "published_iso": "2026-08-04T12:00:00Z",
-      "excerpt": "An AI-guided algorithm generated 100,000 candidate solvent molecules, which MIT researchers narrowed to 200 and then synthesized, finding that shrinking solvent size breaks the usual trade-off between ion transport speed and electrolyte stability in sodium-metal batteries.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202607/MIT-nse-solvent-problem.jpg"
-    },
-    {
-      "category": "science",
-      "source": "MIT News",
-      "title": "The benefits of medical AI assistance vary based on user expertise",
-      "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-      "published_iso": "2026-08-04T12:00:00Z",
-      "excerpt": "In an MIT study of skin-disease diagnosis, AI assistance raised accuracy for both clinicians and non-experts — but non-experts deferred to the model even when it was wrong, while clinicians more often caught its mistakes. Expertise, not the model, determined who benefited.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-AI-Dermatology-01.jpg"
-    },
-    {
-      "category": "science",
-      "source": "Google Research",
-      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
-      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "excerpt": "Google Research introduced Science One, an autonomous research framework that natively builds verifiable evidence chains behind every claim an AI system makes. In their evaluation the approach cut phantom-reference rates in AI-generated scientific papers from 21% to zero.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png"
-    },
-    {
-      "category": "science",
-      "source": "Allen Institute for AI",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://allenai.org/blog/olmoearth-infrastructure",
-      "published_iso": "2026-07-28T12:00:00Z",
-      "excerpt": "Ai2 detailed the infrastructure behind OlmoEarth, letting researchers fine-tune geospatial foundation models and run continent-scale satellite inference in about a day at fractions of a penny per square kilometer — turning Earth-observation science into a routine query.",
-      "og_image": "https://www.datocms-assets.com/64837/1784901152-olmoearth-engineering-blog-inference-google-docs-image-1.png"
-    },
-    {
-      "category": "science",
-      "source": "STAT News",
-      "title": "Are AI scribes useful tools in medical education, or a crutch that imperils learning?",
-      "url": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "excerpt": "Medical schools are debating whether to restrict AI scribes during training, worried that automating note-writing removes the cognitive work that builds diagnostic reasoning. \"The process of deliberately crafting the note forces us to use our brains,\" one educator argues.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1686952984-645x645.jpeg"
-    },
-    {
-      "category": "science",
-      "source": "STAT News",
-      "title": "We lead the Federation of State Medical Boards. Here's what we think about licensing AI to practice medicine",
-      "url": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "excerpt": "The Federation of State Medical Boards argues AI should be governed as a tool inside existing accountability structures rather than licensed as an independent practitioner, since a medical license is \"not just a permit to generate thoughtful and informed answers.\"",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1909065947-645x645.jpeg"
-    },
-    {
-      "category": "science",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
-      "title": "AI Uses MRIs to Generate Brain Aging Maps for Neurodegenerative Disease Research",
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/ai-uses-mris-to-generate-brain-aging-maps-for-neurodegenerative-disease-research/",
-      "published_iso": "2026-08-04T12:00:00Z",
-      "excerpt": "USC researchers trained an AI model on nearly 15,000 MRI scans to produce regional brain-aging maps, revealing that different brain regions age at very different rates — a finer-grained signal than a single brain-age number for spotting early neurodegeneration.",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2025/11/GettyImages-1496133518.jpg"
-    },
-    {
-      "category": "science",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801042834.htm",
       "source": "ScienceDaily",
-      "title": "Your AI calorie-tracking app may be off by 345 calories",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
-      "published_iso": "2026-07-26T12:00:00Z",
-      "excerpt": "An American Society for Nutrition study tested popular AI-powered food-photo apps and found they can miss a large share of a meal, underestimating intake by hundreds of calories — a caution about treating consumer computer vision as measurement-grade data.",
-      "og_image": ""
+      "category": "science",
+      "published_iso": "2026-08-02T00:00:00Z",
+      "og_image": "",
+      "excerpt": "University of South Florida and NOAA scientists trained a deep learning model on 1.2 million satellite images to produce the first global assessment of floating algae, revealing blooms spreading across much of the world's ocean. The team links the expansion to shifts in ocean temperature, currents and nutrients."
     },
     {
+      "url": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/",
+      "source": "STAT News",
       "category": "science",
-      "source": "Psychology Today",
-      "title": "A Clinician's Field Guide to Vetting AI Mental Health Tools",
-      "url": "https://www.psychologytoday.com/us/blog/the-architecture-of-identity/202608/a-clinicians-field-guide-to-vetting-ai-mental-health-tools",
-      "published_iso": "2026-08-02T12:00:00Z",
-      "excerpt": "A practical six-question framework for clinicians evaluating AI mental health chatbots — covering legal status, crisis recognition, escalation behavior and data privacy — as therapy bots proliferate faster than the evidence base behind them.",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/sandip-karangiya-4rgdvweofdy-unsplash.jpg?itok=PIWv4brK"
+      "published_iso": "2026-08-03T10:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1686952984-645x645.jpeg",
+      "excerpt": "Medical schools are deciding whether students may use AI scribes that auto-generate clinical notes. Hospitals adopted them to cut burnout, but educators warn that offloading the act of writing a differential removes the cognitive struggle that builds diagnostic reasoning."
     },
     {
+      "url": "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/",
+      "source": "STAT News",
       "category": "science",
-      "source": "MIT Technology Review",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "published_iso": "2026-07-23T12:00:00Z",
-      "excerpt": "Away from the generative-AI spotlight, machine learning models are compressing drug-development timelines by rapidly triaging molecular candidates and opening previously \"undruggable\" targets, with closed-loop AI-plus-robotics discovery labs now being built to match.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg"
+      "published_iso": "2026-08-05T10:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_RamyFarid-645x645.png",
+      "excerpt": "Schrödinger CEO Ramy Farid, long a skeptic who bet on physics-based simulation over machine learning, explains what changed his mind about AI in drug discovery. He argues that within five years the field will have a much sharper read on what AI can and cannot do for molecular design."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/08/04/openai-says-next-generation-model-solved-10-major-open-problems-in-quantum-complexity-mathematics/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-08-04T09:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/15863000.jpeg",
+      "excerpt": "OpenAI says an internal version of its next-generation Astra model resolved 10 longstanding open problems in mathematics, quantum complexity theory and theoretical computer science, including results on quantum parallel repetition and lattice problems. No detailed proofs or peer review have been released, so the claims await independent scrutiny."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/07/30/researchers-ai-can-learn-to-build-quantum-circuits-for-drug-molecules-cutting-design-time-by-orders-of-magnitude/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-07-30T08:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-4.05.37-AM.png",
+      "excerpt": "Quantinuum, NVIDIA and Pfizer researchers combined a transformer language model with reinforcement learning to generate molecular ground-state quantum circuits in a single inference step, thousands of times faster than ADAPT-VQE at matching or better accuracy. They demonstrated it on Quantinuum's Helios machine using the drug molecule imipramine."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-07-loop-ai-framework-shorten-energy.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-closed-loop.jpg",
+      "excerpt": "Tohoku University researchers wired materials databases, machine-learning interatomic potentials, LLMs, AI agents and automated lab workflows into one closed loop for clean-energy materials. Each round of experiments feeds back into the models to guide the next, potentially cutting years off development."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-08-grid-ai-blackout-precise-power.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/connected-grid-ai-coul.jpg",
+      "excerpt": "Florida State University engineers built GridFusionX, an AI forecasting system that fuses multiple data streams to predict electricity demand and renewable generation more precisely. Treating the grid as a dynamic puzzle, the model aims to give operators earlier warning and reduce blackout risk."
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 14,
+    "dropped": 0,
+    "kept": 11,
     "against_days": 5
   }
 }

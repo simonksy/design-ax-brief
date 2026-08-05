@@ -1,161 +1,136 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "section": "movies",
-  "now_iso": "2026-08-04T22:00:29Z",
+  "now_iso": "2026-08-05T22:10:00Z",
   "window_hours": 336,
+  "count": 14,
+  "note": "WIDE funnel for the movies section, restricted to sections.movies allowed_domains. Discovery ran mostly via index/tag-page WebFetch rather than WebSearch (search budget shared across 7 sections). IMPORTANT ACCESS NOTE: variety.com, hollywoodreporter.com, indiewire.com and deadline.com now 307-redirect to tollbit.<host> and return HTTP 402 Payment Required for both tag pages and article pages, so ZERO candidates could be verified from the four trade outlets this run (stories seen in search snippets but unverifiable: Autodesk Flow Studio AI filmmaking tools on THR - also a cross-section dup with today's design deck; Neill Blomkamp AI studio + Seedance 2.0 short; Midjourney discovery motion vs Disney/Universal/WB - dropped anyway as lawsuit noise). awn.com and animationmagazine.net return 403 on index pages and expose no published_time on article pages, so three otherwise good AI leads were DROPPED for lack of a verifiable date: Foundry Griptape Enterprise (postPerspective's version of the same story is 2026-07-16 = STALE), Animaj 'Sketch-to-Motion', Cartwheel 3D animation AI suite. theverge.com is not fetchable by this agent. Also gated out as STALE: fxguide Foundry SmartRoto (07-16), postPerspective Lightcraft Spark Story previz (07-17), fxguide Sony FX5 / Gareth Edwards (07-22), vfxvoice Ted S2 (07-14), nofilmschool Martini AI film set (07-17) and Beeble SwitchHDR (07-07). Dropped by the design-relevance test: Boris FX acquires iZotope (acquisition), Hallstone AI media fund (funding). Avoided all 19 movies URLs published in the last 5 days (Higgsfield Kok Boru, Stranger Things S5 fxguide, Snapchat AI-video ban, Reply AI Film Festival, IndieWire x a16z, Blender5/Silhouette/Resolve reviews, Autodesk splats, Vida, Frame.io, Luma Layers, Wonder Dynamics, AE Portal, 80.lv mocap, Project Indigo, FrostFX, Robo Dojo, HP digital twin). Per-outlet caps respected (max 3: redsharknews 3, nofilmschool 2, fxguide 1, beforesandafters 2, postperspective 2, vfxvoice 1, engadget 1, motionographer 1, provideocoalition 1) across 9 distinct outlets. Strongest AI-hook picks: NVIDIA synthetic-video detector + MCP agents (RedShark), SAGA AI-video forensic tracing (No Film School), YouTube AI-slop monetization rules (Engadget), Grok Odyssey feature claim (RedShark), AI script coverage / Greenlight (No Film School), ChikaBOOM generative-craft interview (Motionographer). Instagram not defined for this section; YouTube channel pages (Corridor Crew) returned only the localized footer with no video list or uploadDate, so no social candidates were verifiable.",
   "items": [
     {
-      "category": "movies",
-      "source": "The Hollywood Reporter",
-      "title": "A New Tool Aimed at Solving Synthetic Filmmaking Is Being Unwrapped at Autodesk",
-      "url": "https://www.hollywoodreporter.com/business/digital/autodesk-flow-studio-ai-filmmaking-tools-1236663552/",
-      "published_iso": "2026-08-04T15:00:00Z",
-      "excerpt": "Autodesk is unveiling a 3D Editor and node-based Canvas layer for Flow Studio, letting filmmakers block scenes, direct performance and set camera moves in 3D before generative models render the shot. The pitch is control: adding a 3D component to generative editing to make AI output less 'stodgy and random.'",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/CanvasAfter.png?w=1440&h=810&crop=1"
-    },
-    {
-      "category": "movies",
-      "source": "Animation World Network",
-      "title": "Autodesk's New Flow Studio Tools Let Creators Block and Direct AI Shots in 3D",
-      "url": "https://www.awn.com/news/autodesks-new-flow-studio-tools-let-creators-block-and-direct-ai-shots-3d",
-      "published_iso": "2026-08-04T14:51:23Z",
-      "excerpt": "Autodesk's Flow Studio release adds a 3D Editor plus a node-based 2D Canvas, bringing characters, environments, animation, camera tracks and AI mocap data into one workspace. AWN notes it lays groundwork for expanded Maya/DCC integrations, AI-assisted scene construction and agent-driven directing.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/autodesk_flow_studio-final-for_stills.00_00_36_19.still011-1280.jpg?itok=Al8jXwQQ"
-    },
-    {
-      "category": "movies",
-      "source": "The Hollywood Reporter",
-      "title": "Snapchat Banning Entirely AI-Generated Videos From Its Spotlight Platform",
-      "url": "https://www.hollywoodreporter.com/business/digital/snapchat-bans-ai-generated-videos-spotlight-platform-1236660994/",
-      "published_iso": "2026-07-31T18:49:11Z",
-      "excerpt": "Snap is barring fully AI-generated videos from Spotlight, its short-form discovery surface, while still allowing creators to use AI to edit or enhance footage. It draws a distribution-level line between AI-assisted craft and wholly synthetic output.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2271501657.jpg?crop=0px%2C123px%2C6000px%2C3357px&resize=1440%2C810"
-    },
-    {
-      "category": "movies",
-      "source": "Variety",
-      "title": "Reply AI Film Festival Unveils Jury Featuring 'The Lion King' Director Rob Minkoff",
-      "url": "https://variety.com/2026/film/global/reply-ai-film-festival-jury-rob-minkoff-catherine-hardwicke-1236822490/",
-      "published_iso": "2026-07-28T14:30:43Z",
-      "excerpt": "The Reply AI Film Festival, which runs in tandem with Venice, named a jury including 'The Lion King' director Rob Minkoff and Catherine Hardwicke. Mainstream directors judging AI-made shorts marks another step in generative filmmaking's festival legitimization.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/minkoff-hardwicke.jpg?w=1000&h=563&crop=1"
-    },
-    {
-      "category": "movies",
-      "source": "Deadline",
-      "title": "Venice-Set Reply AI Film Festival Unveils Finalists & Jury",
-      "url": "https://deadline.com/2026/07/venice-set-reply-ai-film-festival-jury-gabriele-salvatores-1237005581/",
-      "published_iso": "2026-07-28T13:59:22Z",
-      "excerpt": "Deadline details the Reply AI Film Festival's finalist shorts and its jury led by Gabriele Salvatores, with Catherine Hardwicke and Jed Weintrob. Winners are announced on the Lido during the Venice Film Festival.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/07/MixCollage-28-Jul-2026-02-49-PM-2514.jpg?w=1024"
-    },
-    {
-      "category": "movies",
-      "source": "Deadline",
-      "title": "Guillermo Del Toro Assures \"No Godd*mn AI\" Used In 'Pan's Labyrinth' 20th Anniversary Re-Release",
-      "url": "https://deadline.com/2026/07/guillermo-del-toro-no-goddmn-ai-pans-labyrinth-re-release-1237003272/",
-      "published_iso": "2026-07-25T02:40:27Z",
-      "excerpt": "Bringing 'Pan's Labyrinth' back to theaters 20 years on, Del Toro says the restoration stuck to tried-and-true techniques with no AI upscaling or cleanup. It's a pointed craft stance as AI remastering spreads through archive and restoration work.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/07/MCDPALA_EC025.jpg?w=1024"
-    },
-    {
-      "category": "movies",
-      "source": "IndieWire",
-      "title": "Honest Conversations About AI in Film Often Feel Impossible. IndieWire and Andreessen Horowitz Tried Anyway",
-      "url": "https://www.indiewire.com/news/events/indiewire-andreessen-horowitz-cannes-event-watch-1235207514/",
-      "published_iso": "2026-08-03T21:00:00Z",
-      "excerpt": "IndieWire published video from its Cannes event with a16z, where filmmakers and technologists debated where generative tools actually fit in production. The framing: look at the future without pretending human authorship is optional.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/07/DSC_7794.jpg?w=650"
-    },
-    {
-      "category": "movies",
-      "source": "The Hollywood Reporter",
-      "title": "Venice Chief Alberto Barbera on Hollywood's Festival Retreat, Gender Parity Backslide and the AI Question",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-festival-alberto-barbera-studios-gender-parity-ai-1236654959/",
-      "published_iso": "2026-07-23T18:22:14Z",
-      "excerpt": "Venice's festival director unpacks his 83rd Biennale lineup and where AI-touched work sits in it, including why Luca Guadagnino's 'Artificial' won't be on the Lido. A gatekeeper's read on how AI films get programmed.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2234116749.jpg?crop=0px%2C322px%2C6000px%2C3358px&resize=1440%2C810"
-    },
-    {
-      "category": "movies",
-      "source": "Animation Magazine",
-      "title": "Tech Reviews: Blender 5, Silhouette 2026 and DaVinci Resolve 21",
-      "url": "https://www.animationmagazine.net/2026/07/tech-reviews-blender-5-silhouette-2026-and-davinci-resolve-21/",
-      "published_iso": "2026-07-31T21:27:18Z",
-      "excerpt": "Animation Magazine's monthly software review covers Blender 5, Boris FX's Silhouette 2026 and DaVinci Resolve 21 — with Silhouette's machine-learning roto, matting and paint tooling the headline for compositors.",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Blender2.jpg"
-    },
-    {
-      "category": "movies",
-      "source": "postPerspective",
-      "title": "Vida Scene Search: AI Scene-Level Search, No Manual Logging Required",
-      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
-      "published_iso": "2026-07-30T22:53:06Z",
-      "excerpt": "Vida launched Scene Search, an offline AI indexing capability inside its Content OS MAM that lets post teams search inside video libraries at the moment level. It removes the dependency on metadata that was hand-logged years ago.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vida-news-1.jpg"
-    },
-    {
-      "category": "movies",
+      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
       "source": "RedShark News",
-      "title": "Frame.io update: search, Comparison Viewer, and more",
-      "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
-      "published_iso": "2026-08-01T06:42:00Z",
-      "excerpt": "Frame.io's latest release adds full-screen search across media, a reworked Comparison Viewer, an iOS redesign and new Leica, Adobe and Accsoon integrations — pushing review-and-approval toward AI-assisted asset retrieval.",
-      "og_image": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg"
+      "category": "movies",
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/nvidia%20nemoclaw.jpg",
+      "excerpt": "NVIDIA introduced a synthetic video detector aimed at newsrooms and broadcasters at SIGGRAPH 2026, analysing footage frame-by-frame with up to 92% accuracy on uncompressed video. The same announcement opens NVIDIA tooling to MCP-driven AI agents inside production software.",
+      "title": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026"
     },
     {
+      "url": "https://nofilmschool.com/ai-tracing-tool",
+      "source": "No Film School",
       "category": "movies",
-      "source": "ProVideo Coalition",
-      "title": "After Effects Portal July 2026",
-      "url": "https://www.provideocoalition.com/after-effects-portal-july-2026/",
-      "published_iso": "2026-07-31T18:57:38Z",
-      "excerpt": "Rich Young's mid-year After Effects roundup tracks a first half packed with new features, AI tooling and freemium competition around the June 2026 release (v26.3), plus the third-party plugin news motion designers actually use.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/insider-tips-after-effects.jpg-1024x576.jpg"
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/ai-tracing-tool.jpg?id=67547306&width=1245&height=700&quality=50",
+      "excerpt": "UC Riverside researchers built SAGA, a forensic framework that reads the fingerprints a generator leaves in frame-to-frame variation. It aims to answer not just whether a clip is AI, but which model made it.",
+      "title": "This New Tool Aims to Be Able to Identify and Trace AI Videos Back to Their Sources"
     },
     {
+      "url": "https://www.engadget.com/2226445/youtube-explains-ai-slop-policy-why-some-creators-wont-get-paid/",
+      "source": "Engadget",
       "category": "movies",
-      "source": "ProVideo Coalition",
-      "title": "The rise of the independent AI-assisted developer tools: warnings and considerations",
-      "url": "https://www.provideocoalition.com/the-rise-of-the-independent-ai-assisted-developer-tools-warnings-and-considerations/",
-      "published_iso": "2026-07-24T11:42:36Z",
-      "excerpt": "A look at the wave of solo developers shipping post-production plugins and utilities built with AI coding assistants — and what editors and VFX artists should weigh before putting vibe-coded tools into a paying pipeline.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Reddit-vibe-coder.jpg"
+      "published_iso": "2026-08-05T13:30:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/intro-1784819058.jpg",
+      "excerpt": "YouTube spelled out which AI-made video stops earning money: generic mass-produced clips, repetitive templates and fake personas dispensing serious advice. The rules redraw the line between AI-assisted craft and AI-generated filler for anyone shipping video at volume.",
+      "title": "YouTube explains its AI slop policy and why some creators won't get paid"
     },
     {
+      "url": "https://motionographer.com/2026/07/27/practice-makes-magic-the-human-hands-behind-chikaboom/",
+      "source": "Motionographer",
       "category": "movies",
+      "published_iso": "2026-07-27T00:00:00Z",
+      "og_image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1.jpg",
+      "excerpt": "Director c. Craig walks through the hand-made animation of Tribeca short ChikaBOOM! and pushes back on calling generative work 'artificial'. His argument: generative tools only hold up when the craft and labour behind them are visible.",
+      "title": "Practice Makes Magic: The Human Hands Behind ChikaBOOM!"
+    },
+    {
+      "url": "https://www.redsharknews.com/elon-musk-claims-grok-will-make-a-historically-accurate-odyssey-by-the-end-of-the-year",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-07-26T00:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/odyssey%20grok%20imagine.jpg",
+      "excerpt": "Elon Musk says Grok Imagine will deliver a full 'historically accurate' Odyssey by December, positioning it against Nolan's version. RedShark walks the sample footage and the gap between the claim and what generative video actually holds together at feature length.",
+      "title": "Elon Musk claims Grok will make a 'historically accurate' Odyssey by the end of the year"
+    },
+    {
+      "url": "https://nofilmschool.com/from-script-to-100k-equity-financing-navigating-the-greenlight-list",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/greenlight-coverage.jpg?id=61494571&width=1245&height=700&quality=50",
+      "excerpt": "A look at AI-assisted script coverage: Greenlight Coverage scores screenplays with data science to estimate audience and distribution before a frame is shot. Development notes move from taste to model output.",
+      "title": "From Script to $100K Equity Financing: Navigating The Greenlight List"
+    },
+    {
+      "url": "https://www.fxguide.com/quicktakes/stem3-know-your-led-volume-before-you-shoot/",
       "source": "fxguide",
-      "title": "Vecna, Demogorgons and Young Will: Inside the VFX of Stranger Things S5",
-      "url": "https://www.fxguide.com/fxpodcasts/vecna-demogorgons-and-young-will-inside-the-vfx-of-stranger-things-s5/",
-      "published_iso": "2026-08-03T20:03:01Z",
-      "excerpt": "VFX supervisor Betsy Paterson breaks down season 5, including the machine-learning face work behind Young Will alongside practical creature effects. Her line for the AI era: the best visual effects don't replace reality, they convince reality to play along.",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-STS5_fin.jpg"
+      "category": "movies",
+      "published_iso": "2026-07-23T00:00:00Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/UE5_C-830x467.jpg",
+      "excerpt": "The ASC released StEM3, a free standardised toolkit of Unreal Engine environments and test material for validating an LED volume before the shoot. It targets calibration, dynamic range and panel mismatch problems that quietly wreck in-camera VFX.",
+      "title": "StEM3: Know your LED volume before you shoot"
     },
     {
+      "url": "https://vfxvoice.com/double-dosing-on-the-visual-effects-for-spider-noir/",
+      "source": "VFX Voice",
       "category": "movies",
-      "source": "Higgsfield (YouTube)",
-      "title": "Hell Grind | World's First Ever AI Feature Film | Higgsfield Originals (2026)",
-      "url": "https://www.youtube.com/watch?v=t33k2tn4GpA",
-      "published_iso": "2026-08-04T18:12:21Z",
-      "excerpt": "Higgsfield premiered 'Hell Grind,' billing it as the first feature-length film generated end-to-end on its AI video platform. It is the clearest public test yet of whether a generative pipeline holds together across feature runtime rather than a 60-second showreel.",
-      "og_image": "https://i.ytimg.com/vi/t33k2tn4GpA/maxresdefault.jpg"
+      "published_iso": "2026-08-04T00:00:00Z",
+      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/08/PIX-1-Flight.jpg",
+      "excerpt": "Spider-Noir carries 3,250 VFX shots across eight episodes and a dual black-and-white look built for Nicolas Cage's middle-aged hero. The team tuned webs, movement and grade so the ageing body reads in every shot.",
+      "title": "Double Dosing on the Visual Effects for Spider-Noir"
     },
     {
+      "url": "https://beforesandafters.com/2026/08/05/all-the-surprising-rock-climbing-and-kayaking-vfx-challenges-on-apex/",
+      "source": "befores & afters",
       "category": "movies",
-      "source": "Curious Refuge (YouTube)",
-      "title": "SeedDance 2.5 Just Got Upstaged by Nvidia",
-      "url": "https://www.youtube.com/watch?v=2vSqzvonRts",
-      "published_iso": "2026-08-01T20:24:15Z",
-      "excerpt": "Curious Refuge stress-tests the freshly launched Seedance 2.5 against Nvidia's newest generative video work, comparing shot control, motion coherence and where each model breaks down for narrative filmmaking.",
-      "og_image": "https://i.ytimg.com/vi/2vSqzvonRts/maxresdefault.jpg"
+      "published_iso": "2026-08-05T00:00:00Z",
+      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/08/APEX_20250331_15497_R.jpg",
+      "excerpt": "VFX supervisor Enrik Pavdeja breaks down the climbing and whitewater work behind Netflix survival thriller Apex. The challenge was keeping Charlize Theron's Australian-wilderness sequences physically believable shot to shot.",
+      "title": "All the surprising rock climbing and kayaking VFX challenges on 'Apex'"
     },
     {
+      "url": "https://beforesandafters.com/2026/08/03/zombies-iphones-and-vfx/",
+      "source": "befores & afters",
       "category": "movies",
-      "source": "Corridor Crew (YouTube)",
-      "title": "AI Experts DEBUNK Fake YouTube Channels",
-      "url": "https://www.youtube.com/watch?v=EgfzPsHIKQw",
-      "published_iso": "2026-07-26T16:00:30Z",
-      "excerpt": "The Corridor Crew brings in AI researchers to pick apart fully synthetic YouTube channels, showing the visual tells that still give generated footage away. A practical detection primer for anyone whose craft now competes with AI slop.",
-      "og_image": "https://i.ytimg.com/vi/EgfzPsHIKQw/maxresdefault.jpg"
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/07/Issue63_28YearsLater_cover_half.jpg",
+      "excerpt": "Issue #63 digs into the visual effects of 28 Years Later with Union Visual Effects. The production shot on iPhones and custom camera arrays, then built the abandoned landscapes and action digitally around them.",
+      "title": "Zombies, iPhones and VFX"
+    },
+    {
+      "url": "https://www.redsharknews.com/davinci-resolve-21-0-4-whats-new",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-08-05T00:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/DaVinci-Resolve-21-COLOR.jpg",
+      "excerpt": "Blackmagic shipped DaVinci Resolve 21.0.4 with Sony FX5 X-OCN support and smarter proxy relinking across mixed formats. A maintenance release, but it lands the FX5 in the grading suite days after the camera hit sets.",
+      "title": "DaVinci Resolve 21.0.4 adds Sony FX5 X-OCN support and proxy relinking"
+    },
+    {
+      "url": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-pro-getting-your-mask-key-to-look-real/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-08-04T00:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Tool-Tip-Getting-masks-and-keys-to-look-real.jpg",
+      "excerpt": "A compositing fundamentals refresher: match exposure and colour with waveforms before you trust any mask or key. The manual counterweight to one-click AI matting in Premiere.",
+      "title": "Tool Tip Tuesday for Adobe Premiere Pro: Getting your Mask/Key to look real"
+    },
+    {
+      "url": "https://postperspective.com/wade-barnett-on-emmy-nominated-sound-editing-of-the-boys/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-08-05T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Supervising sound editor Wade Barnett details five seasons of building The Boys' 'diabolical with a side of gore' soundscape across dialogue, ADR, effects and Foley. His toolkit stays iZotope RX, Soundminer and Krotos rather than generative audio.",
+      "title": "Wade Barnett on Emmy-Nominated Sound Editing of The Boys"
+    },
+    {
+      "url": "https://postperspective.com/megan-gallagher-talks-post-on-emmy-nominated-all-her-fault/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Showrunner Megan Gallagher on running post for All Her Fault across Oslo, London, LA, Melbourne and Chicago. A picture of how a distributed post pipeline actually gets held together.",
+      "title": "Megan Gallagher Talks Post on Emmy-Nominated All Her Fault"
     }
   ]
 }

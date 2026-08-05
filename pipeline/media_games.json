@@ -1,30 +1,33 @@
 {
+  "date": "2026-08-06",
+  "section": "games",
   "media": [
     {
-      "id": "games-atelier-ryza-chat-rpg",
+      "id": "games-sekai-vibe-coding-medium",
+      "type": "image",
+      "src": "pipeline/media/games-sekai-vibe-coding-medium.png"
+    },
+    {
+      "id": "games-dragon-quest-gemini-event",
+      "type": "image",
+      "src": "pipeline/media/games-dragon-quest-gemini-event.png"
+    },
+    {
+      "id": "games-pokemon-green-ai-3d",
+      "type": "image",
+      "src": "pipeline/media/games-pokemon-green-ai-3d.jpg"
+    },
+    {
+      "id": "games-mario-kart-wii-vibe-coding",
       "type": "video",
-      "src": "pipeline/media/games-atelier-ryza-chat-rpg.mp4",
-      "poster": "pipeline/media/games-atelier-ryza-chat-rpg.jpg"
+      "src": "pipeline/media/games-mario-kart-wii-vibe-coding.mp4",
+      "poster": "pipeline/media/games-mario-kart-wii-vibe-coding.jpg"
     },
     {
-      "id": "games-eu-deepfake-law",
-      "type": "image",
-      "src": "pipeline/media/games-eu-deepfake-law.jpg"
-    },
-    {
-      "id": "games-ai-mandate-resistance",
-      "type": "image",
-      "src": "pipeline/media/games-ai-mandate-resistance.jpg"
-    },
-    {
-      "id": "games-version-control-ai-agents",
-      "type": "image",
-      "src": "pipeline/media/games-version-control-ai-agents.png"
-    },
-    {
-      "id": "games-seed-ai-avatars",
-      "type": "image",
-      "src": "pipeline/media/games-seed-ai-avatars.jpg"
+      "id": "games-halo-ai-voice-mod",
+      "type": "video",
+      "src": "pipeline/media/games-halo-ai-voice-mod.mp4",
+      "poster": "pipeline/media/games-halo-ai-voice-mod.jpg"
     }
   ]
 }
