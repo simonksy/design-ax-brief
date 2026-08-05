@@ -1,25 +1,30 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
+  "section": "books",
   "media": [
     {
-      "id": "books-agents-cannot-authenticate",
-      "type": "image",
-      "src": "pipeline/media/books-agents-cannot-authenticate.jpg"
+      "id": "books-chatgpt-blocks-author-styles",
+      "type": "svg"
     },
     {
-      "id": "books-secondhand-bulk-orders-training-data",
+      "id": "books-ai-stories-rated-higher",
       "type": "image",
-      "src": "pipeline/media/books-secondhand-bulk-orders-training-data.jpg"
+      "src": "pipeline/media/books-ai-stories-rated-higher.jpg"
     },
     {
-      "id": "books-aala-ethics-code-ai",
+      "id": "books-anthropic-destroyed-books",
       "type": "image",
-      "src": "pipeline/media/books-aala-ethics-code-ai.jpg"
+      "src": "pipeline/media/books-anthropic-destroyed-books.jpg"
     },
     {
-      "id": "books-copyright-chief-legal-battle",
+      "id": "books-published-voice-ai",
       "type": "image",
-      "src": "pipeline/media/books-copyright-chief-legal-battle.jpg"
+      "src": "pipeline/media/books-published-voice-ai.jpg"
+    },
+    {
+      "id": "books-daggermouth-publisher-backing",
+      "type": "image",
+      "src": "pipeline/media/books-daggermouth-publisher-backing.jpg"
     }
   ]
 }

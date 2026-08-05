@@ -1,78 +1,116 @@
 {
-  "date": "2026-08-05",
-  "section": "books",
-  "now_iso": "2026-08-04T22:00:29Z",
+  "date": "2026-08-06",
   "window_hours": 336,
-  "count": 13,
-  "note": "Books section sweep of the category allowed_domains (publishersweekly, thebookseller, publishingperspectives, booksandpublishing, bookriot, lithub, scholarlykitchen, janefriedman, goodereader, electricliterature, writersdigest, kindlepreneur, thecreativepenn, teleread, the-digital-reader, authorsguild, techcrunch, youtube). Every published time verified by opening the page (og article:published_time / JSON-LD datePublished / WP REST date) and gated with pipeline/freshness.py against the 14-day books window. WebSearch returned mostly stale evergreen pages, so the pool was rebuilt from RSS / WP REST index sweeps of the allowed domains. Per-outlet collection cap of 3 enforced: Publishing Perspectives had 4 fresh AI items, so the weakest/oldest (07-22 'Announcing a Course to Help Publishers Navigate the AI Age Responsibly') was dropped. Dropped as AI-business noise or off-beat: TechCrunch 'Pangram raises $9M' (funding round), goodereader 'reTerminal Sticky AI e-ink display' (gadget, no books-craft hook), Book Riot 'Where the algorithm goes' (Goodreads list, not AI). Stale-and-dropped after date verification: PW 'Some Listeners Prefer AI Narration' (07-14), Jane Friedman 'Publishers file lawsuit against Google' + 'audiobook AI multi-cast study' (both 07-15), 'Fanfiction sites reveal AI-assisted writing' (07-08), PW 'Global AI Data Analytics Startups' (07-10), goodereader 'Kindle AI-powered Translations' (07-01). Social: YouTube books channels checked via channel RSS + watch-page JSON-LD uploadDate — The Creative Penn has no AI video in window (latest 07-29 is a Hollywood/story-demand episode); Sudowrite/NovelCrafter review videos verified at 2026-07-02, 2026-05-29, 2026-03-13, 2024-02-23 = all STALE; 'Self Publishing with Dale' channel ID could not be resolved, so no fabricated entry. Instagram: no instagram_handles configured for books, skipped. Dominant fresh story this window is the $2.4m crime-novel deal that collapsed over suspected AI authorship (3 outlets) — curator should pick one framing. Princeton UP x Cashmere appears again via Books+Publishing; it was already published on 08-04, flagged as a likely dedup drop.",
   "items": [
     {
-      "title": "After the Cancellation of 'Call Me, I'll Hide The Body,' What Comes Next?",
+      "url": "https://www.thebookseller.com/news/ai-generated-stories-rated-higher-than-human-written-ones-in-new-study",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-08-05T14:35:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg",
+      "excerpt": "A Cambridge University Press study found readers rated AI-generated stories higher than human-written ones — especially when they believed a human wrote them. The finding cuts at how publishers assess quality and how readers perceive authorship."
+    },
+    {
+      "url": "https://www.thebookseller.com/news/tor-bramble-backs-h-m-wolfe-after-ai-detection-claims-over-daggermouth",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-07-31T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/637/H-M-Wolfe1.jpg",
+      "excerpt": "Tor Bramble is standing behind author HM Wolfe after The Atlantic reported that her dystopian romance Daggermouth scored 60% on the AI-detection tool Pangram. The case is becoming a test of whether detection scores can be trusted inside publishing workflows."
+    },
+    {
+      "url": "https://www.thebookseller.com/comment/dialect-fiction-in-the-age-of-generic-narratives",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-07-31T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd38.jpg",
+      "excerpt": "Writer and academic Jen Bowden argues LLMs still cannot capture regional dialect writing with any real success, making voice-rich fiction a differentiator in an era of generic AI prose."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-08-05T09:30:45Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1964440549.jpg",
+      "excerpt": "If AI is helping researchers write, what happens to 'author voice' — long a core consideration for authors, editors and reviewers? Roohi Ghosh unpacks how AI-assisted drafting reshapes editorial judgement."
+    },
+    {
       "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100983-after-the-cancellation-of-call-me-i-ll-hide-the-body-what-comes-next.html",
       "source": "Publishers Weekly",
       "category": "books",
       "published_iso": "2026-08-04T13:00:00Z",
       "og_image": "",
-      "excerpt": "Nigerian author Jerry Adedayo Falade's crime novel secured six- and seven-figure deals before being withdrawn from submission over AI-authorship allegations; Falade insists he wrote it himself and suggests the cancellation reflects bias. The case is becoming the industry's test of whether AI-detection signals can be trusted to end a book deal."
+      "excerpt": "After a debut novel's six- and seven-figure deals were pulled over AI allegations, PW looks at what happens next for the author, the agents and the acquisition process that could not verify how the manuscript was made."
     },
     {
-      "title": "'It was inevitable': Agents react to major book deal that collapsed over suspected AI use",
-      "url": "https://www.thebookseller.com/news/it-was-inevitable-agents-react-to-major-book-deal-that-collapsed-over-suspected-ai-use",
-      "source": "The Bookseller",
+      "url": "https://janefriedman.com/chatgpt-blocks-requests-to-imitate-specific-writers-styles/",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-08-04T00:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/578/110.jpg",
-      "excerpt": "A crime novel that sold for $2.4m in a 14-way US auction was pulled by its agent on 31 July over suspected AI-generated content, and literary agents tell The Bookseller they now have no reliable way to authenticate how a manuscript was made. Agents describe uncertainty and fear becoming the default posture on submission."
+      "published_iso": "2026-08-05T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "OpenAI has begun blocking prompts asking ChatGPT to write in the style of specific living authors. Style isn't explicitly protected by copyright, but the change reshapes what writers can ask an AI to do."
     },
     {
-      "title": "Agent pulls manuscript from sale, 'no longer able to authenticate' its development",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/08/03/335907/agent-pulls-manuscript-from-sale-no-longer-able-to-authenticate-its-development/",
+      "url": "https://janefriedman.com/european-unions-ai-act-requires-transparency-around-specific-types-of-ai-generated-content/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-08-05T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "The EU AI Act's transparency rules now cover AI-generated or AI-manipulated content that could be mistaken for real — a labelling question publishers and authors selling into Europe have to answer."
+    },
+    {
+      "url": "https://janefriedman.com/update-on-substacks-ai-detection-using-pangram/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-07-29T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Substack's site-wide AI detection rollout using Pangram has sparked confusion and false-positive fears among writers. Jane Friedman tracks what the scores actually mean for working authors."
+    },
+    {
+      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-07-29T14:57:02Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
+      "excerpt": "Researchers at Stony Brook University say viral dark-romance bestseller Daggermouth contains roughly 60% AI-generated writing, putting detection tools at the centre of a bestseller controversy."
+    },
+    {
+      "url": "https://www.booksandpublishing.com.au/articles/2026/08/03/335915/ai-here-there-everywhere/",
       "source": "Books+Publishing",
       "category": "books",
-      "published_iso": "2026-08-03T00:00:00Z",
+      "published_iso": "2026-08-03T01:08:18Z",
       "og_image": "",
-      "excerpt": "Books+Publishing's account of the withdrawn crime novel focuses on the agent's stated reason — being 'no longer able to authenticate' how the manuscript was developed. It frames provenance-of-drafting, not output quality, as the new gate on acquisitions."
+      "excerpt": "Books+Publishing's editorial surveys how thoroughly AI has seeped into every layer of the book trade — from manuscript authentication to scanning, licensing and bookseller supply."
     },
     {
-      "title": "Local secondhand booksellers suspect AI companies behind bulk orders",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/08/03/335882/local-secondhand-booksellers-suspect-ai-companies-behind-orders/",
-      "source": "Books+Publishing",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/anthropic-ai-destroying-books",
+      "source": "The Guardian",
       "category": "books",
-      "published_iso": "2026-08-03T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Secondhand booksellers across Australia and New Zealand report unusual bulk orders from Canadian recycling firm Zoom Books and suspect the stock is feeding AI training pipelines; Zoom Books denies digitising books for generative AI. Shows the physical-book supply chain becoming a training-data acquisition channel."
+      "published_iso": "2026-08-05T11:00:16Z",
+      "og_image": "https://i.guim.co.uk/img/media/bb2ccc0cc92bd8a3334cf3973ac18be63600cf97/250_0_2500_2000/master/2500.jpg?width=1200&quality=85&auto=format&fit=max",
+      "excerpt": "Rare-books curator Kathryn James on why Anthropic found destructively scanning 'all the books in the world' easier than negotiating copyright — and what that does to the physical record."
     },
     {
-      "title": "Around the Book World: August 3, 2026 — agents rewrite their ethics code for the AI era",
-      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-3-2026/",
-      "source": "Publishing Perspectives",
+      "url": "https://selfpublishingadvice.org/a-tale-of-two-seven-figure-deals/",
+      "source": "Self-Publishing Advice Center (ALLi)",
       "category": "books",
-      "published_iso": "2026-08-03T11:51:57Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "excerpt": "The Association of American Literary Agents has revised its Canon of Ethics to cover 'emerging technologies,' effective 1 September 2026; the same roundup notes Korean 20- and 30-somethings reading more as a counterweight to heavy AI use, and Hachette's parent expecting $22m+ from the Anthropic settlement."
+      "published_iso": "2026-08-04T12:00:19Z",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-4.jpg",
+      "excerpt": "AI allegations hit two seven-figure book deals in the same week — one publisher stood by its author, the other walked. ALLi reads what that split means for authors' AI-disclosure practices."
     },
     {
-      "title": "Legal Battle Over U.S. Copyright Chief Heats Up Again",
-      "url": "https://publishingperspectives.com/2026/08/legal-battle-over-u-s-copyright-chief-heats-up-again/",
-      "source": "Publishing Perspectives",
+      "url": "https://selfpublishingadvice.org/podcast-anthropic-settlement-gets-final-approval/",
+      "source": "Self-Publishing Advice Center (ALLi)",
       "category": "books",
-      "published_iso": "2026-08-04T13:14:41Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-04-at-9.06.42-AM.png",
-      "excerpt": "The fight over who runs the U.S. Copyright Office is back in court, and the outcome shapes how the office rules on AI training and AI-assisted authorship registration. Lower-priority for a craft-focused brief, but it is the policy substrate under every AI-and-books story this week."
-    },
-    {
-      "title": "Princeton University Press partners with Cashmere on AI licensing",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/08/04/336002/princeton-university-press-partners-with-cashmere-on-ai-licensing/",
-      "source": "Books+Publishing",
-      "category": "books",
-      "published_iso": "2026-08-04T00:36:01Z",
-      "og_image": "",
-      "excerpt": "Princeton University Press has licensed selected academic content to AI content-management platform Cashmere for copyright-compliant, non-LLM AI platforms. NOTE: likely dedup drop — the same story ran as an 08-04 card via Publishers Weekly; included only as backfill depth."
+      "published_iso": "2026-07-31T12:00:22Z",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/07/BANNER_News-4.jpg",
+      "excerpt": "Dan Holloway covers the final approval of the Anthropic settlement, two new Simon & Schuster indie imprints and Canadian ebook pricing in this week's self-publishing news roundup."
     }
   ],
+  "section": "books",
   "dedup": {
-    "dropped": 6,
-    "kept": 7,
+    "dropped": 0,
+    "kept": 13,
     "against_days": 5
   }
 }

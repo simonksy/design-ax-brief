@@ -1,50 +1,48 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "section": "design",
-  "now_iso": "2026-08-04T22:00:29Z",
+  "now_iso": "2026-08-05T22:10:00Z",
   "window_hours": 72,
-  "count": 17,
-  "note": "WIDE-funnel sweep of the design section (figma, render, cad, tokens, vr, workflow, social) using each category's allowed_domains. Because WebSearch snippets skew stale, the primary discovery method was direct RSS/index fetches of the allowed domains (creativebloq, cgchannel, 80.lv, uxdesign.cc, smashingmagazine, css-tricks, dev.to design/ux tags, logrocket, engineering.com, develop3d, all3dp, fastcompany co-design+tech, cio, venturebeat, engadget, roadtovr, uploadvr, figma blog + release notes, vercel atom, builder.io, nvidia, fxguide, eleken, parallelhq, keyshot, autodesk, orq, mindstudio, palettt, plus YouTube channel RSS for Figma / Fireship / Two Minute Papers / DesignCourse / Matt Wolfe / The AI Advantage). Every kept item's published time was extracted from og:article:published_time / JSON-LD datePublished / uploadDate (or the outlet's own RSS pubDate where the page exposes none, e.g. CG Channel, Vercel changelog) and gated with `python3 pipeline/freshness.py <iso> 2026-08-04T22:00:29Z design` (72h window, start ~2026-08-01T22:00Z). 17 FRESH kept across 12 distinct outlets; collection cap respected (uxdesign.cc 3, dev.to 3, all others 1-2; the two YouTube items are different channels). VERIFIED AND DROPPED AS STALE: VentureBeat FLUX 3 launch (2026-07-23), VentureBeat Gemini Omni (2026-05-19), VentureBeat Thinking Machines interaction models (2026-05-11), Creative Bloq 'biggest week yet for AI' (2024-10-15), Creative Bloq unwanted-AI-images (2026-08-01T12:08Z, just outside window), Smashing Magazine bull/bear case for design in the age of AI (2026-07-29), LogRocket Figma-AI-2026 + MCP servers roundups (July), Figma blog 'AI fluency isn't the finish line' (07-31) and Figma Make properties panel (07-30), most Figma/DesignCourse/Fireship/AI Advantage YouTube uploads (all pre-08-01T22:00Z). DROPPED FOR DESIGN-RELEVANCE (fresh but no design hook): VentureBeat Qwen3.8-Max and agent-budget pieces, engineering.com d-Matrix acquisition / Kioxia SSDs / Siemens PLM deployments, all CIO.com enterprise-IT agent pieces, NVIDIA Alpamayo robotaxi model and AI-storage posts, Engadget AI legal/business items (Perplexity-Amazon, SpaceX earnings, DOJ-OpenAI), Fast Company AI policy/economics items, cgchannel Caddis 1.0 + Golaem open-sourcing (design tools but no AI angle), UploadVR VR game reviews. DROPPED AS ALREADY-COVERED per the plan's deprioritise list: Creative Bloq Belfast AI-art gallery row (08-03), uxdesign 'Chat is the wrong interface for AI' and 'Designing for the proxy'. UNVERIFIABLE / BLOCKED: venturebeat.com category pages returned HTTP 429 to both curl and WebFetch (feed only exposes 7 items, so VB coverage is partial); all3dp.com returned 403; 80.lv tag pages 404; YouTube channel pages blocked handle->channelId lookup for Curious Refuge / AI Jason, and Instagram was not attempted beyond that because it is login-walled and unverifiable. 80.lv had nothing AI-specific in-window (the Deep Paint piece was dropped because its AI angle could not be confirmed from the page).",
   "items": [
     {
-      "url": "https://www.creativebloq.com/3d/autodesk-tackles-ai-filmmakings-biggest-problem-with-3d-control",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-08-04T14:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/X8SLxQP9PXhuQWSrmRzFAR-1920-80.jpg",
-      "excerpt": "Autodesk's Flow Studio adds a 3D Editor + node-based Canvas so creators can block scenes, direct cameras, characters and timing in a real 3D workspace before AI generates the final look. It reframes AI video from prompt-roulette to directable craft."
+      "url": "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/",
+      "source": "Figma",
+      "category": "figma",
+      "published_iso": "2026-08-05T18:16:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/13aeb37a574d8fe89b2d6ccc8b8137b36cf46ceb-3264x1836.jpg",
+      "excerpt": "Figma measured what happens when agents get production component context through Code Connect in the Figma MCP server: fewer tokens burned and materially better generated code. A concrete argument for wiring design systems into the agent pipeline rather than letting agents guess."
     },
     {
-      "url": "https://www.cgchannel.com/2026/08/volinga-plugin-pro-lets-you-relight-4dgs-data-inside-unreal-engine/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-08-04T06:00:13Z",
-      "og_image": null,
-      "excerpt": "Volinga Plugin Pro brings relightable 4D Gaussian Splatting captures into Unreal Engine 5, letting VFX and virtual-production teams light neural-captured volumetric footage like normal 3D scenes. A concrete step in making neural rendering art-directable."
+      "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
+      "source": "Figma",
+      "category": "figma",
+      "published_iso": "2026-08-03T12:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/68adf86588af2b28d14037abd33156592a470bd5-1632x918.png",
+      "excerpt": "How Figma changed the way it handles code and design-engineering handoff in order to ship nested folders — a look inside the craft process of a team building with AI-assisted tooling."
     },
     {
-      "url": "https://www.engineering.com/backflips-back-is-the-mesh-to-cad-ai-real-this-time/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-08-04T17:38:12Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_engpaper_thumb2026-aug4.png",
-      "excerpt": "CEO Greg Mark explains Backflip's delayed relaunch and how its mesh-to-CAD AI model has improved, turning scans into editable parametric CAD. An interview-level reality check on whether generative reverse engineering is finally usable in product design."
+      "url": "https://vercel.com/blog/introducing-the-new-v0-api",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-08-05T04:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2BtUvoFl8WENVpl7rJD9PG/b915f49ab7b25f3eac.png",
+      "excerpt": "Vercel shipped a new v0 API, exposing its prompt-to-UI generation model programmatically so teams can build design-to-code generation into their own tools and pipelines."
     },
     {
-      "url": "https://develop3d.com/ai/backflip-ai-reverse-engineering/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "published_iso": "2026-08-04T15:59:09Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Backflip-AI-Fusion-2026.jpg",
-      "excerpt": "Backflip AI's reworked foundation model converts a mesh into a fully editable feature-tree CAD part in seconds, with a Fusion-facing copilot. For industrial designers it collapses the slowest step between physical scan and editable geometry."
+      "url": "https://vercel.com/changelog/skill-packs-are-now-available",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-08-04T04:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5pPU6ia7fXt3YXG9MMo9Zt/6818b0ef5ae3b403dc.png",
+      "excerpt": "Skill packs are now available on skills.sh — bundled, installable agent skills that teams can drop into coding agents, including UI and design-system oriented packs."
     },
     {
-      "url": "https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e",
+      "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b",
       "source": "UX Collective",
-      "category": "tokens",
-      "published_iso": "2026-08-04T21:09:46Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*UTQAX5iMTiBM_RTdmauD5Q.png",
-      "excerpt": "A designer's set of context files created at the start of every client project to onboard Claude — encoding the intent behind tokens that raw hex values and spacing scales can never convey. Practical design-system plumbing for AI collaborators."
+      "category": "workflow",
+      "published_iso": "2026-08-03T06:34:08Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg",
+      "excerpt": "An argument that the chat box is a lazy default for AI products, and that designers need interface patterns that expose model capability instead of hiding it behind a text field."
     },
     {
       "url": "https://uxdesign.cc/what-star-trek-got-right-about-ai-a4fb09e0d6c6",
@@ -52,71 +50,119 @@
       "category": "workflow",
       "published_iso": "2026-08-04T21:10:19Z",
       "og_image": "https://miro.medium.com/v2/resize:fit:1024/1*pMEn67_K4Z6EGdtwcu7j_g.png",
-      "excerpt": "Star Trek's voice-first computer, plain-language querying and universal translator anticipated the assistants designers ship today. The piece uses that fiction as a critique of where current AI interface patterns fall short."
+      "excerpt": "Reading Star Trek's computer as an interaction-design brief: what science fiction anticipated correctly about conversational and ambient AI interfaces, and what today's products still get wrong."
     },
     {
-      "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8",
+      "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-08-03T22:57:09Z",
-      "og_image": null,
-      "excerpt": "UX Collective's weekly digest, this issue centred on information architecture for AI products, the UX of contrast, and designer burnout from constant AI churn. A fast read on where design discourse is landing this week."
+      "published_iso": "2026-08-05T20:55:03Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*6FRZ85RJPhx8_i7x5WUUYQ.jpeg",
+      "excerpt": "On encoding a designer's taste and decision criteria into durable artifacts so that agents and teammates can reuse it — turning individual judgment into a reusable design asset."
     },
     {
-      "url": "https://dev.to/cloudx/the-shifting-landscape-of-uxui-an-honest-guide-to-ai-workflows-from-research-to-real-code-1ee8",
-      "source": "DEV Community",
-      "category": "workflow",
-      "published_iso": "2026-08-04T21:26:25Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fcloudx-labs%2Fposts%2Fmain%2Fposts%2Ffranciscomarzani%2Fassets%2Fshifting-landscape-uxui-cover.png",
-      "excerpt": "An end-to-end map of where AI actually fits in a UX/UI pipeline — research, ideation, UI generation, handoff to real code — argued around the designer shifting from mechanical builder to product director."
-    },
-    {
-      "url": "https://dev.to/goodbarber/we-formalized-a-real-design-system-inside-an-app-builder-heres-the-architecture-10el",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-08-04T10:17:56Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0jyh1rw36blla6u0fjhf.png",
-      "excerpt": "GoodBarber details the token and component architecture behind formalising a real design system inside a no-code app builder — the substrate any generative or agentic UI needs if output is going to stay coherent."
-    },
-    {
-      "url": "https://dev.to/anatoliiskuba/why-your-five-shadows-dont-look-like-one-system-147a",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-08-04T18:41:55Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzw061cely9qxe4ib5t01.png",
-      "excerpt": "Hand-tuned elevation shadows stop reading as one system the moment you have five of them. A tokens-level argument for deriving shadow scales from rules rather than taste — exactly the kind of spec an AI co-designer can follow."
-    },
-    {
-      "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/68adf86588af2b28d14037abd33156592a470bd5-1632x918.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's team on shipping nested folders by treating code as a proposal and turning designer-engineer handoff into an ongoing conversation — a look at how a design tool company itself reworks craft when code becomes cheap to produce."
-    },
-    {
-      "url": "https://vercel.com/changelog/give-your-eve-agent-a-browser",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-08-04T04:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1D7dKimTHvQQeeW7Xa87YH/ae57e47291e68f5acb7a0376d64c2afd/give-your-agent-a-browser-04__2_.png",
-      "excerpt": "Vercel's eve agents can now drive a real browser via the agent-browser extension — navigating pages, reading content, clicking and filling forms. That gives build-and-verify agents a way to actually look at the UI they just shipped."
-    },
-    {
-      "url": "https://www.builder.io/blog/powerpoint-alternatives",
-      "source": "Builder.io",
-      "category": "figma",
-      "published_iso": "2026-08-04T18:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/b545442112494377b6af63005dd877c7?width=1200",
-      "excerpt": "A hands-on ranking of 12 PowerPoint alternatives for 2026, weighing AI-first deck generators like Gamma against Canva, Pitch and Quarto — including where the AI output still needs a designer to rescue it."
-    },
-    {
-      "url": "https://www.fastcompany.com/91576093/the-agentic-ai-naming-trap-why-you-must-move-from-red-oceans-to-blue-ai-stratgey",
+      "url": "https://www.fastcompany.com/91584256/ai-startup-osmo-wants-to-make-corporate-videos-that-dont-look-like-slop",
       "source": "Fast Company",
       "category": "workflow",
-      "published_iso": "2026-08-04T10:15:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/p-1-91576093-agentic-ai-naming-trap.jpg",
-      "excerpt": "Thousands of products now brand themselves as 'agentic AI', and their names crowd into the same 18 semantic territories the chatbots were trained on. A brand-strategy warning for anyone naming an AI product right now."
+      "published_iso": "2026-08-05T13:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91584256-osmo-studio-ai-video.jpg",
+      "excerpt": "Osmo Studio announced general availability of an AI video pipeline aimed at brand and marketing films, positioning itself as a \"storytelling studio with a software factory\" rather than a raw generation tool."
+    },
+    {
+      "url": "https://www.fastcompany.com/91584892/linkedins-new-anti-slop-button-is-coming-to-every-platform",
+      "source": "Fast Company",
+      "category": "workflow",
+      "published_iso": "2026-08-05T10:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91584892-linkedin-slop-button.jpg",
+      "excerpt": "LinkedIn added a control that lets users flag posts as \"AI slop,\" a new UI affordance that signals a coming platform-wide design pattern for labelling machine-generated content."
+    },
+    {
+      "url": "https://www.fastcompany.com/91578658/augmental-mouthpad-human-computer-interface",
+      "source": "Fast Company",
+      "category": "workflow",
+      "published_iso": "2026-08-05T10:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91578658-mouthpad.jpg",
+      "excerpt": "Augmental's MouthPad turns the tongue into a non-invasive human-computer input surface — an accessibility-first interaction-design bet against implantable brain-computer interfaces."
+    },
+    {
+      "url": "https://www.engadget.com/2231285/meta-introduces-muse-code-its-take-on-a-coding-agent/",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-08-05T21:57:52Z",
+      "og_image": "https://www.engadget.com/img/gallery/meta-introduces-muse-code-its-take-on-a-coding-agent/l-intro-1785967017.jpg",
+      "excerpt": "Meta launched Muse Code, its own coding agent, expanding the field of agents that turn prompts and specs into shippable interfaces alongside Claude Code, Cursor and v0."
+    },
+    {
+      "url": "https://www.engadget.com/2226445/youtube-explains-ai-slop-policy-why-some-creators-wont-get-paid/",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-08-05T13:30:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/lead.jpg",
+      "excerpt": "YouTube spelled out how its monetisation rules treat AI-generated content, drawing a line between augmented creative work and mass-produced synthetic uploads that lose revenue eligibility."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/material-creator-will-be-a-true-alternative-to-substance-3d-designer/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-08-05T09:14:26Z",
+      "og_image": null,
+      "excerpt": "World Creator developer BiteTheBytes previewed Material Creator, a node-based material authoring tool for games and VFX pitched as a real alternative to Adobe's Substance 3D Designer."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/volinga-plugin-pro-lets-you-relight-4dgs-data-inside-unreal-engine/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-08-04T06:00:13Z",
+      "og_image": null,
+      "excerpt": "Volinga Plugin Pro brings relightable 4D Gaussian Splatting into Unreal Engine, described as a major leap for neural-capture workflows in production virtual art departments."
+    },
+    {
+      "url": "https://www.creativebloq.com/entertainment/videography/the-honor-600-smartphone-can-pull-off-hitchcocks-hardest-camera-trick-without-a-film-crew-and-thats-not-all",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-08-04T11:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DThk2ESvqSPX2P9W7YkTrL-1920-80.jpg",
+      "excerpt": "The Honor 600 packs AI Image-to-Video 2.0 and an on-device dolly-zoom mode, letting one person shoot a Vertigo effect and animate stills without a crew — generative capture arriving in the phone itself."
+    },
+    {
+      "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-05T19:54:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49614/images/6a739570826f0/contain_1200x630.jpg",
+      "excerpt": "Klang's SEED runs thousands of AI-controlled characters on a custom inference pipeline so its society keeps living after players log off — a design problem of authoring systems, not scenes."
+    },
+    {
+      "url": "https://dev.to/merl985/the-version-matrix-problem-in-ai-character-art-2cp5",
+      "source": "DEV Community",
+      "category": "render",
+      "published_iso": "2026-08-05T20:06:00Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fversion-matrix.png",
+      "excerpt": "A practitioner walks through the versioning nightmare of AI-generated character art — variants across models, prompts and revisions — and proposes a matrix system for keeping creative iterations traceable."
+    },
+    {
+      "url": "https://dev.to/_b4dab2a9ac43d067f755ed/how-to-turn-a-flat-ai-image-into-editable-layers-2li6",
+      "source": "DEV Community",
+      "category": "render",
+      "published_iso": "2026-08-05T14:42:41Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fflat-ai-image-layers.png",
+      "excerpt": "A workflow for decomposing a flat generated image back into editable layers, closing the gap between one-shot AI output and an actual production-ready design file."
+    },
+    {
+      "url": "https://dev.to/haaaaaley/show-the-agents-evidence-before-asking-for-one-click-approval-1g7d",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-08-05T10:09:24Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fagent-evidence.png",
+      "excerpt": "An agentic-UX pattern argument: never put a one-click Approve button in front of a user without first surfacing the agent's evidence, diffs and reasoning trail."
+    },
+    {
+      "url": "https://develop3d.com/3d-scanning/artec-point-ii-laser-scanner/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-08-05T15:51:33Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Point-II-Artec-2026.jpg",
+      "excerpt": "Artec's Point II laser scanner captures 5.8 million points a second, feeding the high-density scan data that AI mesh-to-CAD and reverse-engineering pipelines now depend on."
     },
     {
       "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
@@ -124,28 +170,36 @@
       "category": "vr",
       "published_iso": "2026-08-04T12:09:26Z",
       "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/apple-glasses-fitness.jpg",
-      "excerpt": "Gurman reports Apple wants fitness at the centre of its future smart glasses and XR headsets, even though first-gen glasses skip fitness tracking. It signals which use case will shape the wearable interface patterns designers get asked for next."
+      "excerpt": "Apple is reportedly building its smart-glasses experience design around fitness — a bet that decides what the first mainstream heads-up interface actually looks like."
     },
     {
-      "url": "https://www.youtube.com/watch?v=0lnvIXzocj4",
+      "url": "https://roadtovr.com/unseen-reality-urxr-one-xr-glasses-funded/",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-08-05T12:41:55Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/urxr.jpg",
+      "excerpt": "URXR One mixed-reality glasses passed $500K on Kickstarter in 24 hours, pitched as a wearable monitor — evidence of demand for spatial workspace UI beyond gaming headsets."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XlQmD9ewN9Y",
       "source": "Figma (YouTube)",
       "category": "social",
-      "published_iso": "2026-08-04T11:00:22Z",
-      "og_image": "https://i.ytimg.com/vi/0lnvIXzocj4/maxresdefault.jpg",
-      "excerpt": "Figma's official walkthrough of keyframes in Figma Motion — setting property values at points in time to build animation directly in the design file, the manual counterpart to the agent-generated motion shown at Config."
+      "published_iso": "2026-08-05T11:00:21Z",
+      "og_image": "https://i.ytimg.com/vi/XlQmD9ewN9Y/maxresdefault.jpg",
+      "excerpt": "Figma's Motion basics series continues with motion paths, teaching designers to author production animation inside Figma rather than handing motion specs to engineers."
     },
     {
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "source": "Two Minute Papers (YouTube)",
+      "url": "https://www.youtube.com/watch?v=H8xrPBEUSAo",
+      "source": "Jesse Showalter (YouTube)",
       "category": "social",
-      "published_iso": "2026-08-02T15:01:10Z",
-      "og_image": "https://i.ytimg.com/vi/8B05cy3UuSE/maxresdefault.jpg",
-      "excerpt": "A breakdown of NVIDIA-affiliated research showing why imitation learning alone fails for embodied agents — relevant to anyone designing interactions for robots and physical AI products."
+      "published_iso": "2026-08-05T13:00:15Z",
+      "og_image": "https://i.ytimg.com/vi/H8xrPBEUSAo/maxresdefault.jpg",
+      "excerpt": "Jesse Showalter and Alex Aperios on what actually breaks a creative agency in 2026 — and why the hardest part is no longer the design work itself."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 17,
+    "kept": 24,
     "against_days": 5
   }
 }

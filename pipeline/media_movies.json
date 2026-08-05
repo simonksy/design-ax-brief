@@ -1,32 +1,38 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "section": "movies",
   "media": [
     {
-      "id": "movies-indiewire-a16z-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-indiewire-a16z-ai.jpg"
-    },
-    {
-      "id": "movies-snapchat-ai-ban",
-      "type": "image",
-      "src": "pipeline/media/movies-snapchat-ai-ban.jpg"
-    },
-    {
-      "id": "movies-seedance-nvidia",
+      "id": "movies-youtube-ai-slop-policy",
       "type": "video",
-      "src": "pipeline/media/movies-seedance-nvidia.mp4",
-      "poster": "pipeline/media/movies-seedance-nvidia.jpg"
+      "src": "pipeline/media/movies-youtube-ai-slop-policy.mp4",
+      "poster": "pipeline/media/movies-youtube-ai-slop-policy.jpg",
+      "origin": "YouTube embed in article — Creator Insider, \"YouTube's Inauthentic Content Policy - Explained!\" (14Vm0CiyUVE); chapter-based key segment T=34s (first substantive chapter + 2s), 14s window at 1.75x"
     },
     {
-      "id": "movies-tech-reviews-blender5",
-      "type": "image",
-      "src": "pipeline/media/movies-tech-reviews-blender5.jpg"
+      "id": "movies-nvidia-siggraph-mcp",
+      "type": "video",
+      "src": "pipeline/media/movies-nvidia-siggraph-mcp.mp4",
+      "poster": "pipeline/media/movies-nvidia-siggraph-mcp.jpg",
+      "origin": "In-article VideoObject — NVIDIA synthetic-video-nim-demo (1920x1080, 10.5s); full clip at 1.75x"
     },
     {
-      "id": "movies-reply-ai-film-festival",
+      "id": "movies-saga-ai-video-tracing",
       "type": "image",
-      "src": "pipeline/media/movies-reply-ai-film-festival.jpg"
+      "src": "pipeline/media/movies-saga-ai-video-tracing.jpg",
+      "origin": "In-article lead image (No Film School media-library, full-res query)"
+    },
+    {
+      "id": "movies-chikaboom-craig",
+      "type": "image",
+      "src": "pipeline/media/movies-chikaboom-craig.jpg",
+      "origin": "In-article lead image — Chikaboom-Still-1.jpg (Motionographer CDN)"
+    },
+    {
+      "id": "movies-greenlight-coverage-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-greenlight-coverage-ai.jpg",
+      "origin": "In-article lead image (No Film School media-library, full-res query)"
     }
   ]
 }
