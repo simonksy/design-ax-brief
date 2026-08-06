@@ -1,139 +1,140 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "movies",
   "selected_by": "curator (user deferred — 알아서)",
   "count": 5,
   "picks": [
     {
       "rank": 1,
-      "title": "YouTube explains its AI slop policy and why some creators won't get paid",
-      "url": "https://www.engadget.com/2226445/youtube-explains-ai-slop-policy-why-some-creators-wont-get-paid/",
-      "source": "Engadget",
-      "published_iso": "2026-08-05T13:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/intro-1784819058.jpg",
-      "excerpt": "YouTube spelled out which AI-made video stops earning money: generic mass-produced clips, repetitive templates and fake personas dispensing serious advice. The rules redraw the line between AI-assisted craft and AI-generated filler for anyone shipping video at volume.",
+      "title": "Adobe Announces It Is Further Integrating Into ChatGPT With New Unified Plugin",
+      "url": "https://nofilmschool.com/adobe-plugin-in-chatgpt",
+      "source": "No Film School",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/adobe-plugin-in-chatgpt.webp?id=67582778&width=1245&height=700&quality=50",
+      "excerpt": "Adobe and OpenAI have shipped a single unified plugin that exposes more than 70 Creative Cloud and productivity tools inside ChatGPT. Filmmakers can now describe an outcome and let the chatbot orchestrate which Adobe app actually does the work.",
       "tool": "Movies",
       "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Freshest item in the pool and the most directly actionable: YouTube's own wording on what AI video still monetizes changes what creators publish tomorrow."
+      "rationale": "Freshest and most actionable item in the pool: the entry point to Premiere, Photoshop and Express moves from the app to a chat prompt, which changes where post work actually starts tomorrow."
     },
     {
       "rank": 2,
-      "title": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026",
-      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
-      "source": "RedShark News",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/nvidia%20nemoclaw.jpg",
-      "excerpt": "NVIDIA introduced a synthetic video detector aimed at newsrooms and broadcasters at SIGGRAPH 2026, analysing footage frame-by-frame with up to 92% accuracy on uncompressed video. The same announcement opens NVIDIA tooling to MCP-driven AI agents inside production software.",
+      "title": "Brevidy for Adobe Premiere Pro – AI Captions, Automatic Social Clips, and Vertical Reframing in One Panel",
+      "url": "https://www.cined.com/brevidy-for-adobe-premiere-pro-ai-captions-automatic-social-clips-and-vertical-reframing-in-one-panel/",
+      "source": "CineD",
+      "published_iso": "2026-08-05T00:00:00Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/Media-Brevidy-C-1300x750.jpg",
+      "excerpt": "Brevidy is an AI toolkit that lives inside Adobe Premiere Pro, handling captioning, automatic clip extraction from long-form edits, vertical reframing and stock browsing in one panel. It targets the export-upload-reimport loop editors currently run for short-form deliverables.",
       "tool": "Movies",
       "category": "movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Two shifts in one release — verification of synthetic footage, and MCP agents reaching into the production apps artists already run. Distinct from the previously published Cosmos 3 Super item."
+      "rationale": "A concrete panel an editor can install today that collapses the whole short-form deliverable loop back inside the NLE — the most directly usable tool release in the batch."
     },
     {
       "rank": 3,
-      "title": "This New Tool Aims to Be Able to Identify and Trace AI Videos Back to Their Sources",
-      "url": "https://nofilmschool.com/ai-tracing-tool",
-      "source": "No Film School",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/ai-tracing-tool.jpg?id=67547306&width=1245&height=700&quality=50",
-      "excerpt": "UC Riverside researchers built SAGA, a forensic framework that reads the fingerprints a generator leaves in frame-to-frame variation. It aims to answer not just whether a clip is AI, but which model made it.",
+      "title": "Disney And TikTok Strike Deal To Bring Fan-Made Short-Form Videos To Disney+",
+      "url": "https://www.cartoonbrew.com/streaming/disney-tiktok-fan-made-shorts-disney-plus-265286.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-08-06T08:58:00Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hoppers.jpg",
+      "excerpt": "Disney and TikTok will let creators build short-form videos from hundreds of official Disney assets, with selected results surfacing on Disney+'s vertical feed. Cartoon Brew contrasts it with the abandoned Disney–Sora deal: this one is asset remixing, not text-to-video generation.",
       "tool": "Movies",
       "category": "movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Attribution, not just detection — naming the model behind a clip is what provenance and rights disputes actually need, and it comes from published research rather than a vendor claim."
+      "rationale": "The biggest structural news of the day and a clear answer to the Sora question: a major IP holder licensing sanctioned assets for remix instead of open generation."
     },
     {
       "rank": 4,
-      "title": "Practice Makes Magic: The Human Hands Behind ChikaBOOM!",
-      "url": "https://motionographer.com/2026/07/27/practice-makes-magic-the-human-hands-behind-chikaboom/",
-      "source": "Motionographer",
-      "published_iso": "2026-07-27T00:00:00Z",
-      "og_image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1.jpg",
-      "excerpt": "Director c. Craig walks through the hand-made animation of Tribeca short ChikaBOOM! and pushes back on calling generative work 'artificial'. His argument: generative tools only hold up when the craft and labour behind them are visible.",
+      "title": "Is this the future of filmmaking?",
+      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+      "excerpt": "Damian Allen walks through a \"hybrid film set\" built on Beeble's SwitchX and SwitchLight, where real actors and real camera moves are kept while backgrounds and lighting are regenerated in post. His framing for artists: \"the AI result is a pass, not a result.\"",
       "tool": "Movies",
       "category": "movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "A working director's account of where generative tools earn their place in an animation pipeline — the craft counterweight to the week's policy and detection stories."
+      "rationale": "A named artist walking through an actual hybrid-set pipeline, with the sharpest working principle in the pool — treat the generative output as a pass to be graded, not a finished shot."
     },
     {
       "rank": 5,
-      "title": "From Script to $100K Equity Financing: Navigating The Greenlight List",
-      "url": "https://nofilmschool.com/from-script-to-100k-equity-financing-navigating-the-greenlight-list",
-      "source": "No Film School",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/greenlight-coverage.jpg?id=61494571&width=1245&height=700&quality=50",
-      "excerpt": "A look at AI-assisted script coverage: Greenlight Coverage scores screenplays with data science to estimate audience and distribution before a frame is shot. Development notes move from taste to model output.",
+      "title": "Pixar Co-Founder Ed Catmull Joins Jury For GenAI Film Competition",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/ed-catmull-higgsfield-ai-competition-265227.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-08-05T09:08:00Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ed-Catmull-580x326.jpg",
+      "excerpt": "Pixar co-founder and former Disney Animation president Ed Catmull has joined the jury of the Higgsfield Global Film Festival, a competition devoted entirely to generative-AI filmmaking. Higgsfield framed the move around Pixar's history of pairing artists with engineers.",
       "tool": "Movies",
       "category": "movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Moves the AI story upstream to development — a model scoring a screenplay before production changes how writers pitch and how projects get greenlit."
+      "rationale": "The strongest legitimacy signal yet for GenAI filmmaking — the person who built Pixar's technical culture sitting on the jury — and an open competition creators can actually enter."
     }
   ],
   "dedup": {
-    "checked_against": "news_data.json → sections.movies (today 2026-08-05 + days 2026-07-31…2026-08-04, 19 published cards)",
+    "checked_against": "news_data.json → sections.movies (today 2026-08-06 + days 2026-08-01…2026-08-05, 20 published cards)",
     "published_urls_matched": 0,
-    "dropped_as_duplicate": [],
-    "notes": "No candidate matched a published URL or story. Near-misses checked and cleared: (a) RedShark NVIDIA synthetic-video detector + MCP vs published 'movies-seedance-nvidia' (Curious Refuge, NVIDIA Cosmos 3 Super world model) — different announcement, different outlet, different subject; (b) Engadget YouTube AI-slop monetization vs published 'movies-snapchat-ai-ban' (THR, Snapchat Spotlight) — same theme, different platform and event; both kept but only YouTube selected. Deliberately NOT selected: RedShark 'DaVinci Resolve 21.0.4' — overlaps the published Animation Magazine review of DaVinci Resolve 21 on core topic and is a low-value maintenance dot-release; the two postPerspective Emmy post-production interviews are a same-source/same-topic content-hub pair with no AI angle."
+    "dropped_as_duplicate": [
+      {
+        "url": "https://www.redsharknews.com/adobe-plugin-chatgpt",
+        "reason": "WITHIN-POOL duplicate of pick 1 — same Adobe/OpenAI unified ChatGPT plugin announcement, same day, different outlet. Kept the No Film School version (filmmaker framing, verified og_image)."
+      }
+    ],
+    "notes": "No candidate matched a published movies URL or story. Near-misses checked and cleared: (a) Cartoon Brew's Ed Catmull / Higgsfield Global Film Festival jury vs published 'movies-kokboru' (AWN, Higgsfield Kök Börü short at SIGGRAPH) — same company, entirely different event and news; (b) Cartoon Brew's Disney–TikTok remix deal vs published 'movies-snapchat-ai-ban' and 'movies-youtube-ai-slop-policy' — all platform-policy adjacent but different companies, different announcements; (c) Brevidy (CineD) vs published 'movies-ae-portal' and 'frame-io-search' — different vendor, different product. The two Cartoon Brew AI posts published 2026-08-05 two hours apart (Eli Roth, Ed Catmull) are a content-hub pair on the same source; only the stronger one (Catmull) was taken, per the one-best-of-a-hub rule."
   },
   "diversity": {
     "outlets": {
-      "Engadget": 1,
-      "RedShark News": 1,
-      "No Film School": 2,
-      "Motionographer": 1
+      "No Film School": 1,
+      "CineD": 1,
+      "Cartoon Brew": 2,
+      "ProVideo Coalition": 1
     },
     "distinct_outlets": 4,
     "max_per_outlet": 2,
     "themes": [
-      "platform monetization policy",
-      "production tooling + AI agents",
-      "synthetic-media forensics",
-      "generative craft / animation",
-      "AI in development & financing"
+      "creative-suite agent integration",
+      "NLE-native AI tooling",
+      "IP licensing for creator remix",
+      "hybrid set / generative relighting craft",
+      "GenAI filmmaking legitimacy & festivals"
     ]
   },
   "not_selected": [
     {
-      "url": "https://www.redsharknews.com/elon-musk-claims-grok-will-make-a-historically-accurate-odyssey-by-the-end-of-the-year",
-      "reason": "Vendor/exec hype claim with no shipped capability; would also push RedShark to 2 cards."
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/eli-roth-ice-cream-man-genai-265223.html",
+      "reason": "Strong story, but it is the weaker half of a same-source content-hub pair with the Ed Catmull post and would push Cartoon Brew to 3 cards, breaking the ≤2-per-outlet guard."
     },
     {
-      "url": "https://www.fxguide.com/quicktakes/stem3-know-your-led-volume-before-you-shoot/",
-      "reason": "Genuinely useful free toolkit, but no AI angle — every published movies card carries an AI hook."
+      "url": "https://80.lv/articles/this-blender-add-on-lets-you-draw-animation-paths-in-viewport",
+      "reason": "Genuinely useful Blender add-on, but no AI angle — every published movies card carries an AI hook."
     },
     {
-      "url": "https://vfxvoice.com/double-dosing-on-the-visual-effects-for-spider-noir/",
-      "reason": "Traditional VFX breakdown, no AI angle."
+      "url": "https://80.lv/articles/anishort-unifies-scriptwriting-storyboarding-video-generation-in-one-workflow",
+      "reason": "On-brief but thin sourcing and no og_image; edged out by the Brevidy release, which ships inside a tool editors already run."
     },
     {
-      "url": "https://beforesandafters.com/2026/08/05/all-the-surprising-rock-climbing-and-kayaking-vfx-challenges-on-apex/",
-      "reason": "Traditional VFX breakdown, no AI angle."
+      "url": "https://vfxvoice.com/bringing-closure-with-the-boys-season-5/",
+      "reason": "Traditional VFX retrospective, no AI angle."
     },
     {
-      "url": "https://beforesandafters.com/2026/08/03/zombies-iphones-and-vfx/",
-      "reason": "Traditional VFX breakdown, no AI angle."
+      "url": "https://postperspective.com/filmlight-announces-first-jury-group-for-2026-colour-awards/",
+      "reason": "Awards-jury announcement with no AI angle and no workflow consequence."
     },
     {
-      "url": "https://www.redsharknews.com/davinci-resolve-21-0-4-whats-new",
-      "reason": "Content overlap with the already-published DaVinci Resolve 21 review; minor maintenance release."
+      "url": "https://beforesandafters.com/2026/08/06/on-the-set-pic-the-end-of-oak-street/",
+      "reason": "Single production still with a caption — too thin to carry a card, no AI angle."
     },
     {
-      "url": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-pro-getting-your-mask-key-to-look-real/",
-      "reason": "Evergreen compositing tip, low novelty."
+      "url": "https://beforesandafters.com/2026/08/01/on-the-set-pic-spider-man-brand-new-day/",
+      "reason": "Single production still with a caption — too thin to carry a card, no AI angle."
     },
     {
-      "url": "https://postperspective.com/wade-barnett-on-emmy-nominated-sound-editing-of-the-boys/",
-      "reason": "No AI angle; same-source content-hub pair with the All Her Fault interview; no og_image."
-    },
-    {
-      "url": "https://postperspective.com/megan-gallagher-talks-post-on-emmy-nominated-all-her-fault/",
-      "reason": "No AI angle; same-source content-hub pair with The Boys interview; no og_image."
+      "url": "https://nofilmschool.com/screenwriting-lessons-ted-lasso-reboot",
+      "reason": "Evergreen screenwriting analysis, no AI angle, and would push No Film School to 2 cards."
     }
   ]
 }

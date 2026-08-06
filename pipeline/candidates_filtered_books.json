@@ -1,38 +1,15 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
+  "section": "books",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.thebookseller.com/news/ai-generated-stories-rated-higher-than-human-written-ones-in-new-study",
-      "source": "The Bookseller",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-08-05T14:35:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg",
-      "excerpt": "A Cambridge University Press study found readers rated AI-generated stories higher than human-written ones — especially when they believed a human wrote them. The finding cuts at how publishers assess quality and how readers perceive authorship."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/tor-bramble-backs-h-m-wolfe-after-ai-detection-claims-over-daggermouth",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-31T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/637/H-M-Wolfe1.jpg",
-      "excerpt": "Tor Bramble is standing behind author HM Wolfe after The Atlantic reported that her dystopian romance Daggermouth scored 60% on the AI-detection tool Pangram. The case is becoming a test of whether detection scores can be trusted inside publishing workflows."
-    },
-    {
-      "url": "https://www.thebookseller.com/comment/dialect-fiction-in-the-age-of-generic-narratives",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-07-31T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd38.jpg",
-      "excerpt": "Writer and academic Jen Bowden argues LLMs still cannot capture regional dialect writing with any real success, making voice-rich fiction a differentiator in an era of generic AI prose."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-08-05T09:30:45Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1964440549.jpg",
-      "excerpt": "If AI is helping researchers write, what happens to 'author voice' — long a core consideration for authors, editors and reviewers? Roohi Ghosh unpacks how AI-assisted drafting reshapes editorial judgement."
+      "published_iso": "2026-08-06T15:00:00Z",
+      "og_image": "",
+      "excerpt": "HarperCollins CEO Brian Murray says publishers, agents and authors need a shared set of best practices for AI-written books, warning that books written with AI \"could very well be considered uncopyrightable.\" He argues detection software is not the answer — human-authorship verification standards are."
     },
     {
       "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100983-after-the-cancellation-of-call-me-i-ll-hide-the-body-what-comes-next.html",
@@ -40,31 +17,31 @@
       "category": "books",
       "published_iso": "2026-08-04T13:00:00Z",
       "og_image": "",
-      "excerpt": "After a debut novel's six- and seven-figure deals were pulled over AI allegations, PW looks at what happens next for the author, the agents and the acquisition process that could not verify how the manuscript was made."
+      "excerpt": "Nigerian author Jerry Adedayo Falade's debut was pulled after six- and seven-figure deals over AI allegations; he offers 2021 text messages predating ChatGPT as proof of authorship. PW examines the acquisition process that could not verify how the manuscript was made — and the racial-bias pattern Falade points to."
     },
     {
-      "url": "https://janefriedman.com/chatgpt-blocks-requests-to-imitate-specific-writers-styles/",
-      "source": "Jane Friedman",
+      "url": "https://publishingperspectives.com/2026/08/digital-science-launches-ai-native-researcher-workspace/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-08-05T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "OpenAI has begun blocking prompts asking ChatGPT to write in the style of specific living authors. Style isn't explicitly protected by copyright, but the change reshapes what writers can ask an AI to do."
+      "published_iso": "2026-08-06T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Papers-AI-793x446.jpg",
+      "excerpt": "Digital Science has launched Papers AI, an AI-native workspace where researchers write, organise notes and analyse data with a context-aware assistant across the whole project. Built by the Overleaf team, it surfaces AI-suggested edits users review before accepting."
     },
     {
-      "url": "https://janefriedman.com/european-unions-ai-act-requires-transparency-around-specific-types-of-ai-generated-content/",
-      "source": "Jane Friedman",
+      "url": "https://selfpublishingadvice.org/ai-in-self-published-amazon-books/",
+      "source": "Self-Publishing Advice Center (ALLi)",
       "category": "books",
-      "published_iso": "2026-08-05T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "The EU AI Act's transparency rules now cover AI-generated or AI-manipulated content that could be mistaken for real — a labelling question publishers and authors selling into Europe have to answer."
+      "published_iso": "2026-08-06T12:00:19Z",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-6.jpg",
+      "excerpt": "ALLi unpacks the viral study of 14,419 self-published Amazon titles that found more than a quarter show signs of AI use. AI-flagged books sold less than human-written ones but still made meaningful money — a market signal indie authors now have to plan around."
     },
     {
-      "url": "https://janefriedman.com/update-on-substacks-ai-detection-using-pangram/",
-      "source": "Jane Friedman",
+      "url": "https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/",
+      "source": "Self-Publishing Advice Center (ALLi)",
       "category": "books",
-      "published_iso": "2026-07-29T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "Substack's site-wide AI detection rollout using Pangram has sparked confusion and false-positive fears among writers. Jane Friedman tracks what the scores actually mean for working authors."
+      "published_iso": "2026-07-24T12:00:00Z",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/07/BANNER_News-3.jpg",
+      "excerpt": "AI search engine Perplexity is opening its own ebook store, aiming to convert hundreds of millions of answer-engine users into book buyers via publishers and distributors. Indie authors would reach it through aggregators like Draft2Digital and PublishDrive."
     },
     {
       "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
@@ -72,45 +49,44 @@
       "category": "books",
       "published_iso": "2026-07-29T14:57:02Z",
       "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
-      "excerpt": "Researchers at Stony Brook University say viral dark-romance bestseller Daggermouth contains roughly 60% AI-generated writing, putting detection tools at the centre of a bestseller controversy."
+      "excerpt": "A Stony Brook University study using the Pangram detector found roughly one in five of 14,000 sampled Kindle ebooks contained substantial AI text — including BookTok sensation Daggermouth at about 60%, which the author denies."
     },
     {
-      "url": "https://www.booksandpublishing.com.au/articles/2026/08/03/335915/ai-here-there-everywhere/",
-      "source": "Books+Publishing",
+      "url": "https://www.imaeil.com/page/view/2026073011241784143",
+      "source": "매일신문",
       "category": "books",
-      "published_iso": "2026-08-03T01:08:18Z",
+      "published_iso": "2026-08-04T01:50:51Z",
+      "og_image": "https://www.imaeil.com/upload/robot.png",
+      "excerpt": "생성형 AI가 번역·집필·오디오북 제작까지 파고들면서 한국 출판계가 'AI 표시' 논쟁에 휩싸였다. 한 출판사는 'Human Authored' 인증제를 도입했지만, 업계 전반에는 표기 기준도 검증 절차도 아직 없다."
+    },
+    {
+      "url": "https://www.hankyung.com/article/2026072937931",
+      "source": "한국경제",
+      "category": "books",
+      "published_iso": "2026-07-29T09:41:00Z",
+      "og_image": "https://img.hankyung.com/photo/202607/AA.45184310.1.jpg",
+      "excerpt": "전자책 앱 '책도둑'이 AI 번역 사실을 뒤늦게 밝히며 논란이 커졌다. 번역계는 \"AI는 유능한 조수가 될 수 있지만 근본적인 판단과 선택은 번역가의 몫\"이라며 활용 범위와 공개 기준을 세워야 한다고 지적한다."
+    },
+    {
+      "url": "https://www.newdaily.co.kr/site/data/html/2026/07/27/2026072700104.html",
+      "source": "뉴데일리",
+      "category": "books",
+      "published_iso": "2026-07-27T01:46:00Z",
       "og_image": "",
-      "excerpt": "Books+Publishing's editorial surveys how thoroughly AI has seeped into every layer of the book trade — from manuscript authentication to scanning, licensing and bookseller supply."
+      "excerpt": "'평생소장 고전'을 내건 전자책 앱 '책도둑'이 결제 과정에서 AI 번역 사용을 알리지 않아 이용자 반발을 샀다. 운영자는 25일 SNS에서 \"AI를 쓴다. 대신 말도 안 되는 가격으로 책을 드린다\"고 밝혔다."
     },
     {
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/anthropic-ai-destroying-books",
-      "source": "The Guardian",
+      "url": "https://www.koreadaily.com/article/20260728181737898",
+      "source": "미주중앙일보",
       "category": "books",
-      "published_iso": "2026-08-05T11:00:16Z",
-      "og_image": "https://i.guim.co.uk/img/media/bb2ccc0cc92bd8a3334cf3973ac18be63600cf97/250_0_2500_2000/master/2500.jpg?width=1200&quality=85&auto=format&fit=max",
-      "excerpt": "Rare-books curator Kathryn James on why Anthropic found destructively scanning 'all the books in the world' easier than negotiating copyright — and what that does to the physical record."
-    },
-    {
-      "url": "https://selfpublishingadvice.org/a-tale-of-two-seven-figure-deals/",
-      "source": "Self-Publishing Advice Center (ALLi)",
-      "category": "books",
-      "published_iso": "2026-08-04T12:00:19Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-4.jpg",
-      "excerpt": "AI allegations hit two seven-figure book deals in the same week — one publisher stood by its author, the other walked. ALLi reads what that split means for authors' AI-disclosure practices."
-    },
-    {
-      "url": "https://selfpublishingadvice.org/podcast-anthropic-settlement-gets-final-approval/",
-      "source": "Self-Publishing Advice Center (ALLi)",
-      "category": "books",
-      "published_iso": "2026-07-31T12:00:22Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/07/BANNER_News-4.jpg",
-      "excerpt": "Dan Holloway covers the final approval of the Anthropic settlement, two new Simon & Schuster indie imprints and Canadian ebook pricing in this week's self-publishing news roundup."
+      "published_iso": "2026-07-29T01:17:00Z",
+      "og_image": "https://www.koreadaily.com/data/photo/2026/07/29/08bf1375-adba-4745-8731-e74ca787a547.jpg",
+      "excerpt": "1만9800원에 고전 700여 권을 평생 소장한다던 전자책 앱이 AI 번역을 숨긴 사실이 드러나 전액 환불에 나섰다. AI 번역 고지 의무를 둘러싼 소비자 신뢰 문제가 한국 출판 시장의 쟁점으로 떠올랐다."
     }
   ],
-  "section": "books",
   "dedup": {
-    "dropped": 0,
-    "kept": 13,
+    "dropped": 4,
+    "kept": 10,
     "against_days": 5
   }
 }

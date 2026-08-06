@@ -1,72 +1,88 @@
-[
-  {
-    "id": "design-code-connect-mcp",
-    "title": "The benefits of Code Connect in the Figma MCP server",
-    "url": "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/",
-    "source": "Figma",
-    "category": "figma",
-    "tool": "Figma",
-    "accent": "#0070f3",
-    "motif": "frame",
-    "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/13aeb37a574d8fe89b2d6ccc8b8137b36cf46ceb-3264x1836.jpg",
-    "published_iso": "2026-08-05T18:16:00Z",
-    "excerpt": "Figma measured what happens when agents get production component context through Code Connect in the Figma MCP server: fewer tokens burned and materially better generated code. A concrete argument for wiring design systems into the agent pipeline rather than letting agents guess.",
-    "rationale": "First-party measurements, not opinion: shows exactly what a design system wired into MCP buys you in agent output quality — a setup task a team can do tomorrow."
+{
+  "date": "2026-08-07",
+  "section": "design",
+  "picks": [
+    {
+      "rank": 1,
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "url": "https://vercel.com/blog/introducing-agent-plugins",
+      "source": "Vercel",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Vercel released Agent Plugins 1.0.0, an open, vendor-neutral spec that packages Agent Skills and MCP servers into distributable plugins with a common directory structure and manifest. Design systems and UI conventions can now ship as portable agent skills across compatible clients.",
+      "rationale": "An open spec that lets a design system ship as a portable agent skill instead of a per-tool config."
+    },
+    {
+      "rank": 2,
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "url": "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
+      "source": "DEV Community",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://phongdesigns.com/en/assets/blog/blog-66-cover.webp",
+      "excerpt": "The author found 127 design instances bound to raw colors instead of design-system tokens — all of which passed visual review until dark mode exposed them. The piece lays out how to constrain AI-generated UI to a closed token set with mechanical validation.",
+      "rationale": "A concrete, numbers-backed method for forcing AI-generated UI back onto a closed token set before dark mode exposes the drift."
+    },
+    {
+      "rank": 3,
+      "tool": "KeyShot",
+      "category": "render",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://www.cgchannel.com/2026/08/nekki-releases-cascadeur-2026-2-with-animation-layers/",
+      "source": "CG Channel",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Nekki shipped Cascadeur 2026.2 with a non-destructive animation layer system, easing controls and BVH import. Its AI inbetweening and Motion Generation systems were retrained on larger datasets, and an MCP server lets external LLM agents like Claude drive the animation tool.",
+      "rationale": "A shipping DCC app that hands its controls to an LLM agent over MCP — agentic workflow arriving in animation, not just code."
+    },
+    {
+      "rank": 4,
+      "tool": "Text-to-CAD",
+      "category": "cad",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "url": "https://develop3d.com/cad/creo-ai-ptc-advances-its-roadmap/",
+      "source": "DEVELOP3D",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/PTC-Creo-AI-Advisor-1024x576.jpg",
+      "excerpt": "PTC introduced \"Triple A\" AI — Advise, Assist, Automate — in Creo 13, aimed at designer productivity inside the CAD product. \"We want to make sure that the human is always in the loop,\" the company said of its AI-assisted modelling decisions.",
+      "rationale": "Mainstream CAD gets a named AI framework with a human-in-the-loop stance industrial designers will work under."
+    },
+    {
+      "rank": 5,
+      "tool": "Design Tokens",
+      "category": "tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+      "source": "CSS-Tricks",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Takeaways from the 2026 State of CSS survey, including AI adoption: respondents who use AI generation 0–50% of the time outnumber heavier users 3,031 to 721. The author cautions the sample may skew less AI-dependent than the wider front-end population.",
+      "rationale": "Survey data on how much front-end work is actually AI-generated — a reality check against the hype curve."
+    }
+  ],
+  "dedup": {
+    "published_window_days": 5,
+    "dropped_as_duplicate": 1,
+    "dropped_cross_section": 1,
+    "dropped_bad_url": 1,
+    "dropped_as_content_hub": 2,
+    "notes": "No candidate matched any URL or story already published in sections.design (2026-08-01 through 2026-08-06). Coordinator fixes applied: (a) the Engadget Adobe-ChatGPT-plugin story was dropped because the movies section publishes the same story today via No Film School; (b) the Figma AI credit-limits item was dropped because its only URL in the pool is the rolling https://www.figma.com/release-notes/ index — the pool holds no dated article for that story. Both slots were backfilled from the ranked pool. The three same-author, same-day DEV Community posts (phongdesigns, Claude-to-Figma) were treated as one content hub; only the strongest one was kept. CG Channel had 3 candidates; capped at 1.",
+    "backfilled": [
+      "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
+      "https://css-tricks.com/2026-state-of-css-devs-surveys/"
+    ]
   },
-  {
-    "id": "design-v0-api",
-    "title": "Introducing the new v0 API",
-    "url": "https://vercel.com/blog/introducing-the-new-v0-api",
-    "source": "Vercel",
-    "category": "figma",
-    "tool": "Figma",
-    "accent": "#3b6bff",
-    "motif": "frame",
-    "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2BtUvoFl8WENVpl7rJD9PG/b915f49ab7b25f3eac.png",
-    "published_iso": "2026-08-05T04:00:00Z",
-    "excerpt": "Vercel shipped a new v0 API, exposing its prompt-to-UI generation model programmatically so teams can build design-to-code generation into their own tools and pipelines.",
-    "rationale": "A dated platform release that moves prompt-to-UI out of a chat product and into design teams' own tooling — the highest-leverage new capability in the pool."
-  },
-  {
-    "id": "design-material-creator",
-    "title": "Material Creator will be a true alternative to Substance 3D Designer",
-    "url": "https://www.cgchannel.com/2026/08/material-creator-will-be-a-true-alternative-to-substance-3d-designer/",
-    "source": "CG Channel",
-    "category": "render",
-    "tool": "KeyShot",
-    "accent": "#f5a623",
-    "motif": "sphere",
-    "og_image": null,
-    "published_iso": "2026-08-05T09:14:26Z",
-    "excerpt": "World Creator developer BiteTheBytes previewed Material Creator, a node-based material authoring tool for games and VFX pitched as a real alternative to Adobe's Substance 3D Designer.",
-    "rationale": "A credible new challenger in node-based material authoring — the first real alternative to a tool most 3D/product visualisation pipelines are locked into."
-  },
-  {
-    "id": "design-chat-wrong-interface",
-    "title": "Chat is the wrong interface for AI",
-    "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b",
-    "source": "UX Collective",
-    "category": "workflow",
-    "tool": "AI Workflow",
-    "accent": "#ff5a4d",
-    "motif": "frame",
-    "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg",
-    "published_iso": "2026-08-03T06:34:08Z",
-    "excerpt": "An argument that the chat box is a lazy default for AI products, and that designers need interface patterns that expose model capability instead of hiding it behind a text field.",
-    "rationale": "Directly attacks the default every AI product ships with, and gives designers alternative patterns to reach for on the next AI feature."
-  },
-  {
-    "id": "design-agent-evidence-approval",
-    "title": "Show the agent's evidence before asking for one-click approval",
-    "url": "https://dev.to/haaaaaley/show-the-agents-evidence-before-asking-for-one-click-approval-1g7d",
-    "source": "DEV Community",
-    "category": "tokens",
-    "tool": "Design Tokens",
-    "accent": "#2ec5c5",
-    "motif": "swatch",
-    "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fagent-evidence.png",
-    "published_iso": "2026-08-05T10:09:24Z",
-    "excerpt": "An agentic-UX pattern argument: never put a one-click Approve button in front of a user without first surfacing the agent's evidence, diffs and reasoning trail.",
-    "rationale": "A copyable approval-UI pattern for agentic products — concrete guidance on what to render beside the Approve button, which almost every agent surface gets wrong."
+  "diversity": {
+    "outlets": ["Vercel", "DEV Community", "CG Channel", "DEVELOP3D", "CSS-Tricks"],
+    "max_per_outlet": 1,
+    "categories": {"figma": 2, "render": 1, "cad": 1, "tokens": 1}
   }
-]
+}

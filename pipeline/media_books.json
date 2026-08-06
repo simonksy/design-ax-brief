@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "books",
   "media": [
     {
-      "id": "books-chatgpt-blocks-author-styles",
+      "id": "books-harpercollins-human-authorship",
+      "type": "image",
+      "src": "pipeline/media/books-harpercollins-human-authorship.jpg"
+    },
+    {
+      "id": "books-papers-ai-workspace",
+      "type": "image",
+      "src": "pipeline/media/books-papers-ai-workspace.jpg"
+    },
+    {
+      "id": "books-korea-ai-labeling",
+      "type": "image",
+      "src": "pipeline/media/books-korea-ai-labeling.png"
+    },
+    {
+      "id": "books-chakdoduk-ai-translation",
       "type": "svg"
     },
     {
-      "id": "books-ai-stories-rated-higher",
+      "id": "books-perplexity-ebook-store",
       "type": "image",
-      "src": "pipeline/media/books-ai-stories-rated-higher.jpg"
-    },
-    {
-      "id": "books-anthropic-destroyed-books",
-      "type": "image",
-      "src": "pipeline/media/books-anthropic-destroyed-books.jpg"
-    },
-    {
-      "id": "books-published-voice-ai",
-      "type": "image",
-      "src": "pipeline/media/books-published-voice-ai.jpg"
-    },
-    {
-      "id": "books-daggermouth-publisher-backing",
-      "type": "image",
-      "src": "pipeline/media/books-daggermouth-publisher-backing.jpg"
+      "src": "pipeline/media/books-perplexity-ebook-store.jpg"
     }
   ]
 }

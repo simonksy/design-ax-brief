@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "science",
   "media": [
     {
-      "id": "science-ai-solid-state-synthesis",
+      "id": "science-weathernext-cyclone",
       "type": "image",
-      "src": "pipeline/media/science-ai-solid-state-synthesis.jpg"
+      "src": "pipeline/media/science-weathernext-cyclone.jpg"
     },
     {
-      "id": "science-escapemap-spike-variants",
+      "id": "science-hidden-goals-agents",
       "type": "image",
-      "src": "pipeline/media/science-escapemap-spike-variants.jpg"
+      "src": "pipeline/media/science-hidden-goals-agents.jpg"
     },
     {
-      "id": "science-erdos-problems-ai",
+      "id": "science-jacobian-counterexample",
+      "type": "image",
+      "src": "pipeline/media/science-jacobian-counterexample.jpg"
+    },
+    {
+      "id": "science-stroke-rehab-robot",
       "type": "video",
-      "src": "pipeline/media/science-erdos-problems-ai.mp4",
-      "poster": "pipeline/media/science-erdos-problems-ai.jpg"
+      "src": "pipeline/media/science-stroke-rehab-robot.mp4",
+      "poster": "pipeline/media/science-stroke-rehab-robot.jpg"
     },
     {
-      "id": "science-quantum-circuits-drug-molecules",
+      "id": "science-ai-skill-atrophy",
       "type": "image",
-      "src": "pipeline/media/science-quantum-circuits-drug-molecules.png"
-    },
-    {
-      "id": "science-ai-scribes-medical-education",
-      "type": "image",
-      "src": "pipeline/media/science-ai-scribes-medical-education.jpg"
+      "src": "pipeline/media/science-ai-skill-atrophy.jpg"
     }
   ]
 }

@@ -1,38 +1,33 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "movies",
+  "count": 5,
   "media": [
     {
-      "id": "movies-youtube-ai-slop-policy",
+      "id": "movies-adobe-chatgpt-plugin",
       "type": "video",
-      "src": "pipeline/media/movies-youtube-ai-slop-policy.mp4",
-      "poster": "pipeline/media/movies-youtube-ai-slop-policy.jpg",
-      "origin": "YouTube embed in article — Creator Insider, \"YouTube's Inauthentic Content Policy - Explained!\" (14Vm0CiyUVE); chapter-based key segment T=34s (first substantive chapter + 2s), 14s window at 1.75x"
+      "src": "pipeline/media/movies-adobe-chatgpt-plugin.mp4",
+      "poster": "pipeline/media/movies-adobe-chatgpt-plugin.jpg"
     },
     {
-      "id": "movies-nvidia-siggraph-mcp",
-      "type": "video",
-      "src": "pipeline/media/movies-nvidia-siggraph-mcp.mp4",
-      "poster": "pipeline/media/movies-nvidia-siggraph-mcp.jpg",
-      "origin": "In-article VideoObject — NVIDIA synthetic-video-nim-demo (1920x1080, 10.5s); full clip at 1.75x"
-    },
-    {
-      "id": "movies-saga-ai-video-tracing",
+      "id": "movies-brevidy-premiere",
       "type": "image",
-      "src": "pipeline/media/movies-saga-ai-video-tracing.jpg",
-      "origin": "In-article lead image (No Film School media-library, full-res query)"
+      "src": "pipeline/media/movies-brevidy-premiere.jpg"
     },
     {
-      "id": "movies-chikaboom-craig",
+      "id": "movies-disney-tiktok-shorts",
       "type": "image",
-      "src": "pipeline/media/movies-chikaboom-craig.jpg",
-      "origin": "In-article lead image — Chikaboom-Still-1.jpg (Motionographer CDN)"
+      "src": "pipeline/media/movies-disney-tiktok-shorts.jpg"
     },
     {
-      "id": "movies-greenlight-coverage-ai",
+      "id": "movies-hybrid-set-switchx",
       "type": "image",
-      "src": "pipeline/media/movies-greenlight-coverage-ai.jpg",
-      "origin": "In-article lead image (No Film School media-library, full-res query)"
+      "src": "pipeline/media/movies-hybrid-set-switchx.jpg"
+    },
+    {
+      "id": "movies-catmull-genai-jury",
+      "type": "image",
+      "src": "pipeline/media/movies-catmull-genai-jury.jpg"
     }
   ]
 }
