@@ -1,136 +1,136 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "movies",
-  "now_iso": "2026-08-05T22:10:00Z",
+  "now_iso": "2026-08-06T22:05:00Z",
   "window_hours": 336,
   "count": 14,
-  "note": "WIDE funnel for the movies section, restricted to sections.movies allowed_domains. Discovery ran mostly via index/tag-page WebFetch rather than WebSearch (search budget shared across 7 sections). IMPORTANT ACCESS NOTE: variety.com, hollywoodreporter.com, indiewire.com and deadline.com now 307-redirect to tollbit.<host> and return HTTP 402 Payment Required for both tag pages and article pages, so ZERO candidates could be verified from the four trade outlets this run (stories seen in search snippets but unverifiable: Autodesk Flow Studio AI filmmaking tools on THR - also a cross-section dup with today's design deck; Neill Blomkamp AI studio + Seedance 2.0 short; Midjourney discovery motion vs Disney/Universal/WB - dropped anyway as lawsuit noise). awn.com and animationmagazine.net return 403 on index pages and expose no published_time on article pages, so three otherwise good AI leads were DROPPED for lack of a verifiable date: Foundry Griptape Enterprise (postPerspective's version of the same story is 2026-07-16 = STALE), Animaj 'Sketch-to-Motion', Cartwheel 3D animation AI suite. theverge.com is not fetchable by this agent. Also gated out as STALE: fxguide Foundry SmartRoto (07-16), postPerspective Lightcraft Spark Story previz (07-17), fxguide Sony FX5 / Gareth Edwards (07-22), vfxvoice Ted S2 (07-14), nofilmschool Martini AI film set (07-17) and Beeble SwitchHDR (07-07). Dropped by the design-relevance test: Boris FX acquires iZotope (acquisition), Hallstone AI media fund (funding). Avoided all 19 movies URLs published in the last 5 days (Higgsfield Kok Boru, Stranger Things S5 fxguide, Snapchat AI-video ban, Reply AI Film Festival, IndieWire x a16z, Blender5/Silhouette/Resolve reviews, Autodesk splats, Vida, Frame.io, Luma Layers, Wonder Dynamics, AE Portal, 80.lv mocap, Project Indigo, FrostFX, Robo Dojo, HP digital twin). Per-outlet caps respected (max 3: redsharknews 3, nofilmschool 2, fxguide 1, beforesandafters 2, postperspective 2, vfxvoice 1, engadget 1, motionographer 1, provideocoalition 1) across 9 distinct outlets. Strongest AI-hook picks: NVIDIA synthetic-video detector + MCP agents (RedShark), SAGA AI-video forensic tracing (No Film School), YouTube AI-slop monetization rules (Engadget), Grok Odyssey feature claim (RedShark), AI script coverage / Greenlight (No Film School), ChikaBOOM generative-craft interview (Motionographer). Instagram not defined for this section; YouTube channel pages (Corridor Crew) returned only the localized footer with no video list or uploadDate, so no social candidates were verifiable.",
+  "note": "WIDE funnel for the movies section, restricted to sections.movies allowed_domains in pipeline/keywords_movies.json. ACCESS NOTES (repeat of yesterday, still true): variety.com, hollywoodreporter.com, indiewire.com and deadline.com 307-redirect to tollbit.<host> and return HTTP 402 Payment Required, so ZERO candidates could be verified from those four trades (unverifiable leads seen in search only: Bengaluru Short Film Festival adds an AI competition, Urbanworld accepting AI films, IndieWire's Gossip Goblin AI feature 'Gods Don't Give Gifts' theatrical release). awn.com, animationmagazine.net and artofvfx.com return 403 on index AND article pages this run, so AWN's Autodesk Flow Studio 3D Editor + Canvas story was dropped for lack of a verifiable date. theverge.com is blocked for this user agent (WebSearch rejects the domain outright). youtube.com watch pages returned only footer chrome on WebFetch (no JSON-LD uploadDate), so the three rotated social channels (Curious Refuge, Matt Wolfe, Corridor Crew) contributed nothing — dropped rather than guessed. studiodaily.com 302-redirects to chiefmarketer.com; definitionmagazine.com's newest post is 2026-06-30. GATED OUT AS STALE after real date extraction: fxguide Foundry SmartRoto (07-16) and postPerspective's version of it (07-16), fxguide NUKE 17.0 Gaussian Splats (2025-12-12), fxguide StEM3 (07-23, one-day miss), postPerspective Autodesk SIGGRAPH AI+3DGS (07-22), HP Z Captis (07-22), Sohonet/Bind (07-21), Lightcraft Spark Story previz (07-17), Clear Angle 4D Gaussian splat capture (06-09), CineD Seedance 2.5 API (07-21), CineD Adobe Color Mode + Kling 3.0 in Firefly (04-15), CineD Adobe/Topaz Labs acquisition (06-29), CineD Eurocine AI Mini Summit (05-05), postPerspective Tether AE plugin (01-26), Vigloo Studio (07-15), AWN Nura Showcraft (04-30), NFS Adobe MotionStream (04-10), NFS 'AI Arms Race Hits Film School' (04-20), NFS Eddie AI upgrades (2025-10-07), RedShark Netflix GenAI rules (2025-08-24), 80.lv Hyper3D Rodin Gen-2.5 (06-03), vfxvoice Shadows of the Boroughs (07-21), screendaily's entire AI subject page (newest 07-07 Tilly Norwood 'Misaligned'). AVOIDED as recent/duplicate per keywords_movies.avoid_recent and yesterday's shipped pool: Reply AI Film Festival, NVIDIA SIGGRAPH detector, SAGA tracing, YouTube AI slop policy, Snapchat AI-video ban, ChikaBOOM, Greenlight List, Silhouette/Resolve/Blender roundup, Vida Scene Search, Frame.io AI search, Wonder Dynamics Flow Studio, AE 26.3 / AE Portal, BlendCap, Higgsfield Kok Boru, Stranger Things S5 de-aging, FrostFX, Puget Robo Dojo, Netflix 'GenAI in ~300 titles' (3 weeks old anyway). DROPPED by the design-relevance test: Hallstone AI media fund (funding), Foundry/Griptape and Boris FX/iZotope (M&A with no verifiable fresh date), WBD/Paramount merger and Locarno Pro items (pure business). Per-outlet cap respected: Cartoon Brew 3, befores & afters 2, 80.lv 2, all others 1. 8 distinct outlets.",
   "items": [
     {
-      "url": "https://www.redsharknews.com/nvidia-synthetic-video-detector-mcp-siggraph-2026",
-      "source": "RedShark News",
-      "category": "movies",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/nvidia%20nemoclaw.jpg",
-      "excerpt": "NVIDIA introduced a synthetic video detector aimed at newsrooms and broadcasters at SIGGRAPH 2026, analysing footage frame-by-frame with up to 92% accuracy on uncompressed video. The same announcement opens NVIDIA tooling to MCP-driven AI agents inside production software.",
-      "title": "NVIDIA tackles deepfakes and opens the door to AI agents at SIGGRAPH 2026"
-    },
-    {
-      "url": "https://nofilmschool.com/ai-tracing-tool",
+      "url": "https://nofilmschool.com/adobe-plugin-in-chatgpt",
       "source": "No Film School",
       "category": "movies",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/ai-tracing-tool.jpg?id=67547306&width=1245&height=700&quality=50",
-      "excerpt": "UC Riverside researchers built SAGA, a forensic framework that reads the fingerprints a generator leaves in frame-to-frame variation. It aims to answer not just whether a clip is AI, but which model made it.",
-      "title": "This New Tool Aims to Be Able to Identify and Trace AI Videos Back to Their Sources"
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/adobe-plugin-in-chatgpt.webp?id=67582778&width=1245&height=700&quality=50",
+      "excerpt": "Adobe and OpenAI have shipped a single unified plugin that exposes more than 70 Creative Cloud and productivity tools inside ChatGPT. Filmmakers can now describe an outcome and let the chatbot orchestrate which Adobe app actually does the work.",
+      "title": "Adobe Announces It Is Further Integrating Into ChatGPT With New Unified Plugin"
     },
     {
-      "url": "https://www.engadget.com/2226445/youtube-explains-ai-slop-policy-why-some-creators-wont-get-paid/",
-      "source": "Engadget",
-      "category": "movies",
-      "published_iso": "2026-08-05T13:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/intro-1784819058.jpg",
-      "excerpt": "YouTube spelled out which AI-made video stops earning money: generic mass-produced clips, repetitive templates and fake personas dispensing serious advice. The rules redraw the line between AI-assisted craft and AI-generated filler for anyone shipping video at volume.",
-      "title": "YouTube explains its AI slop policy and why some creators won't get paid"
-    },
-    {
-      "url": "https://motionographer.com/2026/07/27/practice-makes-magic-the-human-hands-behind-chikaboom/",
-      "source": "Motionographer",
-      "category": "movies",
-      "published_iso": "2026-07-27T00:00:00Z",
-      "og_image": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1.jpg",
-      "excerpt": "Director c. Craig walks through the hand-made animation of Tribeca short ChikaBOOM! and pushes back on calling generative work 'artificial'. His argument: generative tools only hold up when the craft and labour behind them are visible.",
-      "title": "Practice Makes Magic: The Human Hands Behind ChikaBOOM!"
-    },
-    {
-      "url": "https://www.redsharknews.com/elon-musk-claims-grok-will-make-a-historically-accurate-odyssey-by-the-end-of-the-year",
+      "url": "https://www.redsharknews.com/adobe-plugin-chatgpt",
       "source": "RedShark News",
       "category": "movies",
-      "published_iso": "2026-07-26T00:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/odyssey%20grok%20imagine.jpg",
-      "excerpt": "Elon Musk says Grok Imagine will deliver a full 'historically accurate' Odyssey by December, positioning it against Nolan's version. RedShark walks the sample footage and the gap between the claim and what generative video actually holds together at feature length.",
-      "title": "Elon Musk claims Grok will make a 'historically accurate' Odyssey by the end of the year"
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/Adobe%20Plugin%20in%20ChatGPT%20main.jpg",
+      "excerpt": "Adobe folded its separate ChatGPT apps into one plugin covering over 70 Creative Cloud tools, from Photoshop and Premiere to Express and Acrobat. The plugin picks the right tool for a described task instead of asking the user to choose.",
+      "title": "Adobe folds Photoshop, Express, Acrobat, and more into single ChatGPT plugin"
     },
     {
-      "url": "https://nofilmschool.com/from-script-to-100k-equity-financing-navigating-the-greenlight-list",
-      "source": "No Film School",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/eli-roth-ice-cream-man-genai-265223.html",
+      "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/greenlight-coverage.jpg?id=61494571&width=1245&height=700&quality=50",
-      "excerpt": "A look at AI-assisted script coverage: Greenlight Coverage scores screenplays with data science to estimate audience and distribution before a frame is shot. Development notes move from taste to model output.",
-      "title": "From Script to $100K Equity Financing: Navigating The Greenlight List"
+      "published_iso": "2026-08-05T07:01:00Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ice-Cream-Man-580x326.jpg",
+      "excerpt": "Eli Roth first described the animated sequences in his horror feature 'Ice Cream Man' as a traditional hand-drawn process, then confirmed generative AI was used in \"a very small portion of a few scenes.\" The reversal reopens the question of how directors disclose AI in credited animation work.",
+      "title": "Eli Roth Confirms 'Ice Cream Man' GenAI Use After First Describing A Traditional Animation Process"
     },
     {
-      "url": "https://www.fxguide.com/quicktakes/stem3-know-your-led-volume-before-you-shoot/",
-      "source": "fxguide",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/ed-catmull-higgsfield-ai-competition-265227.html",
+      "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-07-23T00:00:00Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/UE5_C-830x467.jpg",
-      "excerpt": "The ASC released StEM3, a free standardised toolkit of Unreal Engine environments and test material for validating an LED volume before the shoot. It targets calibration, dynamic range and panel mismatch problems that quietly wreck in-camera VFX.",
-      "title": "StEM3: Know your LED volume before you shoot"
+      "published_iso": "2026-08-05T09:08:00Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ed-Catmull-580x326.jpg",
+      "excerpt": "Pixar co-founder and former Disney Animation president Ed Catmull has joined the jury of the Higgsfield Global Film Festival, a competition devoted entirely to generative-AI filmmaking. Higgsfield framed the move around Pixar's history of pairing artists with engineers.",
+      "title": "Pixar Co-Founder Ed Catmull Joins Jury For GenAI Film Competition"
     },
     {
-      "url": "https://vfxvoice.com/double-dosing-on-the-visual-effects-for-spider-noir/",
-      "source": "VFX Voice",
-      "category": "movies",
-      "published_iso": "2026-08-04T00:00:00Z",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/08/PIX-1-Flight.jpg",
-      "excerpt": "Spider-Noir carries 3,250 VFX shots across eight episodes and a dual black-and-white look built for Nicolas Cage's middle-aged hero. The team tuned webs, movement and grade so the ageing body reads in every shot.",
-      "title": "Double Dosing on the Visual Effects for Spider-Noir"
-    },
-    {
-      "url": "https://beforesandafters.com/2026/08/05/all-the-surprising-rock-climbing-and-kayaking-vfx-challenges-on-apex/",
-      "source": "befores & afters",
+      "url": "https://www.cined.com/brevidy-for-adobe-premiere-pro-ai-captions-automatic-social-clips-and-vertical-reframing-in-one-panel/",
+      "source": "CineD",
       "category": "movies",
       "published_iso": "2026-08-05T00:00:00Z",
-      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/08/APEX_20250331_15497_R.jpg",
-      "excerpt": "VFX supervisor Enrik Pavdeja breaks down the climbing and whitewater work behind Netflix survival thriller Apex. The challenge was keeping Charlize Theron's Australian-wilderness sequences physically believable shot to shot.",
-      "title": "All the surprising rock climbing and kayaking VFX challenges on 'Apex'"
+      "og_image": "https://www.cined.com/content/uploads/2026/08/Media-Brevidy-C-1300x750.jpg",
+      "excerpt": "Brevidy is an AI toolkit that lives inside Adobe Premiere Pro, handling captioning, automatic clip extraction from long-form edits, vertical reframing and stock browsing in one panel. It targets the export-upload-reimport loop editors currently run for short-form deliverables.",
+      "title": "Brevidy for Adobe Premiere Pro – AI Captions, Automatic Social Clips, and Vertical Reframing in One Panel"
     },
     {
-      "url": "https://beforesandafters.com/2026/08/03/zombies-iphones-and-vfx/",
-      "source": "befores & afters",
-      "category": "movies",
-      "published_iso": "2026-08-03T00:00:00Z",
-      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/07/Issue63_28YearsLater_cover_half.jpg",
-      "excerpt": "Issue #63 digs into the visual effects of 28 Years Later with Union Visual Effects. The production shot on iPhones and custom camera arrays, then built the abandoned landscapes and action digitally around them.",
-      "title": "Zombies, iPhones and VFX"
-    },
-    {
-      "url": "https://www.redsharknews.com/davinci-resolve-21-0-4-whats-new",
-      "source": "RedShark News",
-      "category": "movies",
-      "published_iso": "2026-08-05T00:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/DaVinci-Resolve-21-COLOR.jpg",
-      "excerpt": "Blackmagic shipped DaVinci Resolve 21.0.4 with Sony FX5 X-OCN support and smarter proxy relinking across mixed formats. A maintenance release, but it lands the FX5 in the grading suite days after the camera hit sets.",
-      "title": "DaVinci Resolve 21.0.4 adds Sony FX5 X-OCN support and proxy relinking"
-    },
-    {
-      "url": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-pro-getting-your-mask-key-to-look-real/",
+      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
       "source": "ProVideo Coalition",
       "category": "movies",
-      "published_iso": "2026-08-04T00:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Tool-Tip-Getting-masks-and-keys-to-look-real.jpg",
-      "excerpt": "A compositing fundamentals refresher: match exposure and colour with waveforms before you trust any mask or key. The manual counterweight to one-click AI matting in Premiere.",
-      "title": "Tool Tip Tuesday for Adobe Premiere Pro: Getting your Mask/Key to look real"
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+      "excerpt": "Damian Allen walks through a \"hybrid film set\" built on Beeble's SwitchX and SwitchLight, where real actors and real camera moves are kept while backgrounds and lighting are regenerated in post. His framing for artists: \"the AI result is a pass, not a result.\"",
+      "title": "Is this the future of filmmaking?"
     },
     {
-      "url": "https://postperspective.com/wade-barnett-on-emmy-nominated-sound-editing-of-the-boys/",
-      "source": "postPerspective",
+      "url": "https://80.lv/articles/anishort-unifies-scriptwriting-storyboarding-video-generation-in-one-workflow",
+      "source": "80 Level",
       "category": "movies",
-      "published_iso": "2026-08-05T00:00:00Z",
+      "published_iso": "2026-07-29T00:00:00Z",
       "og_image": null,
-      "excerpt": "Supervising sound editor Wade Barnett details five seasons of building The Boys' 'diabolical with a side of gore' soundscape across dialogue, ADR, effects and Foley. His toolkit stays iZotope RX, Soundminer and Krotos rather than generative audio.",
-      "title": "Wade Barnett on Emmy-Nominated Sound Editing of The Boys"
+      "excerpt": "AniShort pulls scripting, storyboarding, character management, video generation, editing and rendering into one browser-based pipeline. The pitch is that most generative workflows don't solve production problems, they \"simply move them further downstream.\"",
+      "title": "AniShort Unifies Scriptwriting, Storyboarding & Video Generation in One Workflow"
     },
     {
-      "url": "https://postperspective.com/megan-gallagher-talks-post-on-emmy-nominated-all-her-fault/",
+      "url": "https://www.cartoonbrew.com/streaming/disney-tiktok-fan-made-shorts-disney-plus-265286.html",
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "published_iso": "2026-08-06T08:58:00Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hoppers.jpg",
+      "excerpt": "Disney and TikTok will let creators build short-form videos from hundreds of official Disney assets, with selected results surfacing on Disney+'s vertical feed. Cartoon Brew contrasts it with the abandoned Disney–Sora deal: this one is asset remixing, not text-to-video generation.",
+      "title": "Disney And TikTok Strike Deal To Bring Fan-Made Short-Form Videos To Disney+"
+    },
+    {
+      "url": "https://80.lv/articles/this-blender-add-on-lets-you-draw-animation-paths-in-viewport",
+      "source": "80 Level",
+      "category": "movies",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Motion Painter, a Blender add-on from NodeMonkey, lets animators draw motion paths straight in the viewport instead of keyframing on the timeline. Painted strokes convert into editable keyframes with multiple motion modes and custom brushes.",
+      "title": "This Blender Add-On Lets You Draw Animation Paths in Viewport"
+    },
+    {
+      "url": "https://vfxvoice.com/bringing-closure-with-the-boys-season-5/",
+      "source": "VFX Voice",
+      "category": "movies",
+      "published_iso": "2026-07-28T00:00:00Z",
+      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/07/PIX-1-Starlight.jpg",
+      "excerpt": "VFX supervisor Stephan Fleet looks back on eight years and 40 episodes of 'The Boys,' and how the final season pushed its effects work to its most extreme and grotesque. A craft counterpoint to the generative-tooling news cycle.",
+      "title": "Bringing Closure with The Boys Season 5"
+    },
+    {
+      "url": "https://postperspective.com/filmlight-announces-first-jury-group-for-2026-colour-awards/",
       "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-08-03T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Showrunner Megan Gallagher on running post for All Her Fault across Oslo, London, LA, Melbourne and Chicago. A picture of how a distributed post pipeline actually gets held together.",
-      "title": "Megan Gallagher Talks Post on Emmy-Nominated All Her Fault"
+      "published_iso": "2026-07-29T00:00:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/filmlight-jurors-copy-624x414.jpg",
+      "excerpt": "FilmLight named the first jurors for its 2026 Colour Awards, including cinematographers Jeff Cronenweth, Natalie Kingston and Chung-hoon Chung alongside colorist Tony D'Amore. Winners are announced at Camerimage in November.",
+      "title": "FilmLight Announces First Jury Group for 2026 Colour Awards"
+    },
+    {
+      "url": "https://beforesandafters.com/2026/08/06/on-the-set-pic-the-end-of-oak-street/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/08/NBR-05107r-1.jpg",
+      "excerpt": "A production still from Warner Bros.' 'The End of Oak Street' showing Ewan McGregor on location with writer-director David Robert Mitchell. Practical, on-set craft imagery from a live shoot.",
+      "title": "On The Set Pic: 'The End of Oak Street'"
+    },
+    {
+      "url": "https://beforesandafters.com/2026/08/01/on-the-set-pic-spider-man-brand-new-day/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-08-01T00:00:00Z",
+      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/08/SBND-00719_r.jpg?fit=1280%2C853&ssl=1",
+      "excerpt": "Behind-the-scenes still of Tom Holland with director Destin Daniel Cretton on 'Spider-Man: Brand New Day,' shot by Jay Maidment. A look at how the practical side of a tentpole is still staged.",
+      "title": "On The Set Pic: 'Spider-Man: Brand New Day'"
+    },
+    {
+      "url": "https://nofilmschool.com/screenwriting-lessons-ted-lasso-reboot",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://nofilmschool.com/media-library/ted-lasso-season-4-soft-reboot.jpg?id=67582724&width=1245&height=700&quality=50",
+      "excerpt": "A breakdown of how 'Ted Lasso' season four executes a soft reboot: grounding change through setting, pivoting the premise without breaking established arcs, and keeping structure tight against ensemble bloat.",
+      "title": "3 Smart Screenwriting Lessons from the 'Ted Lasso' Season 4 Soft Reboot"
     }
   ],
   "dedup": {

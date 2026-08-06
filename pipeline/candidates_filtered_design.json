@@ -1,205 +1,132 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "design",
-  "now_iso": "2026-08-05T22:10:00Z",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/",
+      "url": "https://www.figma.com/release-notes/",
       "source": "Figma",
       "category": "figma",
-      "published_iso": "2026-08-05T18:16:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/13aeb37a574d8fe89b2d6ccc8b8137b36cf46ceb-3264x1836.jpg",
-      "excerpt": "Figma measured what happens when agents get production component context through Code Connect in the Figma MCP server: fewer tokens burned and materially better generated code. A concrete argument for wiring design systems into the agent pipeline rather than letting agents guess."
+      "published_iso": "2026-08-05T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Figma shipped AI credit user limits and credit requests: admins can set per-user custom credit caps for AI features, and designers can request a raise in-product when they hit the ceiling. It turns AI usage in design orgs into a budgeted, governed resource."
     },
     {
-      "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/68adf86588af2b28d14037abd33156592a470bd5-1632x918.png",
-      "excerpt": "How Figma changed the way it handles code and design-engineering handoff in order to ship nested folders — a look inside the craft process of a team building with AI-assisted tooling."
-    },
-    {
-      "url": "https://vercel.com/blog/introducing-the-new-v0-api",
+      "url": "https://vercel.com/blog/introducing-agent-plugins",
       "source": "Vercel",
       "category": "figma",
-      "published_iso": "2026-08-05T04:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2BtUvoFl8WENVpl7rJD9PG/b915f49ab7b25f3eac.png",
-      "excerpt": "Vercel shipped a new v0 API, exposing its prompt-to-UI generation model programmatically so teams can build design-to-code generation into their own tools and pipelines."
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Vercel released Agent Plugins 1.0.0, an open, vendor-neutral spec that packages Agent Skills and MCP servers into distributable plugins with a common directory structure and manifest. Design systems and UI conventions can now ship as portable agent skills across compatible clients."
     },
     {
-      "url": "https://vercel.com/changelog/skill-packs-are-now-available",
-      "source": "Vercel",
+      "url": "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
+      "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-08-04T04:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5pPU6ia7fXt3YXG9MMo9Zt/6818b0ef5ae3b403dc.png",
-      "excerpt": "Skill packs are now available on skills.sh — bundled, installable agent skills that teams can drop into coding agents, including UI and design-system oriented packs."
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://phongdesigns.com/en/assets/blog/blog-66-cover.webp",
+      "excerpt": "The author found 127 design instances bound to raw colors instead of design-system tokens — all of which passed visual review until dark mode exposed them. The piece lays out how to constrain AI-generated UI to a closed token set with mechanical validation."
     },
     {
-      "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-08-03T06:34:08Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg",
-      "excerpt": "An argument that the chat box is a lazy default for AI products, and that designers need interface patterns that expose model capability instead of hiding it behind a text field."
+      "url": "https://dev.to/phongdesigns/figma-mcp-turning-claude-generated-ui-into-a-component-library-72j",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://phongdesigns.com/en/assets/blog/blog-67-cover.webp",
+      "excerpt": "A walkthrough of the unglamorous work after the AI demo: converting Claude-generated UI into a real Figma component library. \"The demo ends at the screenshot; the job ends about a week later, in a Figma file that someone else has to be able to open without you in the room.\""
     },
     {
-      "url": "https://uxdesign.cc/what-star-trek-got-right-about-ai-a4fb09e0d6c6",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-08-04T21:10:19Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1024/1*pMEn67_K4Z6EGdtwcu7j_g.png",
-      "excerpt": "Reading Star Trek's computer as an interaction-design brief: what science fiction anticipated correctly about conversational and ambient AI interfaces, and what today's products still get wrong."
+      "url": "https://dev.to/phongdesigns/claude-and-figma-bulk-edits-that-dont-break-your-file-3fgd",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "How to run Claude-driven bulk edits across a Figma file without shredding component structure or overrides. Focuses on scoping, dry-runs and rollback for agent-assisted file surgery."
     },
     {
-      "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-08-05T20:55:03Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*6FRZ85RJPhx8_i7x5WUUYQ.jpeg",
-      "excerpt": "On encoding a designer's taste and decision criteria into durable artifacts so that agents and teammates can reuse it — turning individual judgment into a reusable design asset."
-    },
-    {
-      "url": "https://www.fastcompany.com/91584256/ai-startup-osmo-wants-to-make-corporate-videos-that-dont-look-like-slop",
-      "source": "Fast Company",
-      "category": "workflow",
-      "published_iso": "2026-08-05T13:00:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91584256-osmo-studio-ai-video.jpg",
-      "excerpt": "Osmo Studio announced general availability of an AI video pipeline aimed at brand and marketing films, positioning itself as a \"storytelling studio with a software factory\" rather than a raw generation tool."
-    },
-    {
-      "url": "https://www.fastcompany.com/91584892/linkedins-new-anti-slop-button-is-coming-to-every-platform",
-      "source": "Fast Company",
-      "category": "workflow",
-      "published_iso": "2026-08-05T10:00:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91584892-linkedin-slop-button.jpg",
-      "excerpt": "LinkedIn added a control that lets users flag posts as \"AI slop,\" a new UI affordance that signals a coming platform-wide design pattern for labelling machine-generated content."
-    },
-    {
-      "url": "https://www.fastcompany.com/91578658/augmental-mouthpad-human-computer-interface",
-      "source": "Fast Company",
-      "category": "workflow",
-      "published_iso": "2026-08-05T10:00:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91578658-mouthpad.jpg",
-      "excerpt": "Augmental's MouthPad turns the tongue into a non-invasive human-computer input surface — an accessibility-first interaction-design bet against implantable brain-computer interfaces."
-    },
-    {
-      "url": "https://www.engadget.com/2231285/meta-introduces-muse-code-its-take-on-a-coding-agent/",
-      "source": "Engadget",
-      "category": "workflow",
-      "published_iso": "2026-08-05T21:57:52Z",
-      "og_image": "https://www.engadget.com/img/gallery/meta-introduces-muse-code-its-take-on-a-coding-agent/l-intro-1785967017.jpg",
-      "excerpt": "Meta launched Muse Code, its own coding agent, expanding the field of agents that turn prompts and specs into shippable interfaces alongside Claude Code, Cursor and v0."
-    },
-    {
-      "url": "https://www.engadget.com/2226445/youtube-explains-ai-slop-policy-why-some-creators-wont-get-paid/",
-      "source": "Engadget",
-      "category": "workflow",
-      "published_iso": "2026-08-05T13:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/lead.jpg",
-      "excerpt": "YouTube spelled out how its monetisation rules treat AI-generated content, drawing a line between augmented creative work and mass-produced synthetic uploads that lose revenue eligibility."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/08/material-creator-will-be-a-true-alternative-to-substance-3d-designer/",
+      "url": "https://www.cgchannel.com/2026/08/armature-is-a-free-ai-assisted-standalone-character-rigging-tool/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-08-05T09:14:26Z",
-      "og_image": null,
-      "excerpt": "World Creator developer BiteTheBytes previewed Material Creator, a node-based material authoring tool for games and VFX pitched as a real alternative to Adobe's Substance 3D Designer."
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Adrian Melian released Armature, a free AI-assisted standalone tool that automatically rigs and skins 3D characters and exports USD. Output drops into Maya, Unreal Engine and Blender, with paid licences for commercial studios."
     },
     {
-      "url": "https://www.cgchannel.com/2026/08/volinga-plugin-pro-lets-you-relight-4dgs-data-inside-unreal-engine/",
+      "url": "https://www.cgchannel.com/2026/08/nekki-releases-cascadeur-2026-2-with-animation-layers/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-08-04T06:00:13Z",
-      "og_image": null,
-      "excerpt": "Volinga Plugin Pro brings relightable 4D Gaussian Splatting into Unreal Engine, described as a major leap for neural-capture workflows in production virtual art departments."
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Nekki shipped Cascadeur 2026.2 with a non-destructive animation layer system, easing controls and BVH import. Its AI inbetweening and Motion Generation systems were retrained on larger datasets, and an MCP server lets external LLM agents like Claude drive the animation tool."
     },
     {
-      "url": "https://www.creativebloq.com/entertainment/videography/the-honor-600-smartphone-can-pull-off-hitchcocks-hardest-camera-trick-without-a-film-crew-and-thats-not-all",
-      "source": "Creative Bloq",
+      "url": "https://www.cgchannel.com/2026/08/adobe-releases-photoshop-27-9-1/",
+      "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-08-04T11:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/DThk2ESvqSPX2P9W7YkTrL-1920-80.jpg",
-      "excerpt": "The Honor 600 packs AI Image-to-Video 2.0 and an on-device dolly-zoom mode, letting one person shoot a Vertigo effect and animate stills without a crew — generative capture arriving in the phone itself."
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_Photoshop2791_f-960x480.jpg",
+      "excerpt": "Photoshop 27.9.1 fixes the washed-out image bug from 27.9 and refines AI workflows: the Remove tool moves into the contextual task bar, Generate Image shows contextual prompt hints, and multiple layers can be pushed to Firefly Boards."
     },
     {
-      "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs/",
-      "source": "80 Level",
+      "url": "https://www.engadget.com/2231088/adobe-new-chatgpt-plugin-brings-70-of-its-tools-to-openai-chatbot/",
+      "source": "Engadget",
       "category": "render",
-      "published_iso": "2026-08-05T19:54:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49614/images/6a739570826f0/contain_1200x630.jpg",
-      "excerpt": "Klang's SEED runs thousands of AI-controlled characters on a custom inference pipeline so its society keeps living after players log off — a design problem of authoring systems, not scenes."
+      "published_iso": "2026-08-06T13:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/adobes-new-chatgpt-plugin-brings-70-of-its-tools-to-openais-chatbot/intro-1785954577.jpg",
+      "excerpt": "Adobe launched a ChatGPT plugin exposing more than 70 of its creative tools — Photoshop, Premiere, Illustrator and more — invoked by typing \"@Adobe\" in the prompt bar. The chat window becomes a front door to Creative Cloud."
     },
     {
-      "url": "https://dev.to/merl985/the-version-matrix-problem-in-ai-character-art-2cp5",
-      "source": "DEV Community",
-      "category": "render",
-      "published_iso": "2026-08-05T20:06:00Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fversion-matrix.png",
-      "excerpt": "A practitioner walks through the versioning nightmare of AI-generated character art — variants across models, prompts and revisions — and proposes a matrix system for keeping creative iterations traceable."
-    },
-    {
-      "url": "https://dev.to/_b4dab2a9ac43d067f755ed/how-to-turn-a-flat-ai-image-into-editable-layers-2li6",
-      "source": "DEV Community",
-      "category": "render",
-      "published_iso": "2026-08-05T14:42:41Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fflat-ai-image-layers.png",
-      "excerpt": "A workflow for decomposing a flat generated image back into editable layers, closing the gap between one-shot AI output and an actual production-ready design file."
-    },
-    {
-      "url": "https://dev.to/haaaaaley/show-the-agents-evidence-before-asking-for-one-click-approval-1g7d",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-08-05T10:09:24Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fagent-evidence.png",
-      "excerpt": "An agentic-UX pattern argument: never put a one-click Approve button in front of a user without first surfacing the agent's evidence, diffs and reasoning trail."
-    },
-    {
-      "url": "https://develop3d.com/3d-scanning/artec-point-ii-laser-scanner/",
+      "url": "https://develop3d.com/cad/creo-ai-ptc-advances-its-roadmap/",
       "source": "DEVELOP3D",
       "category": "cad",
-      "published_iso": "2026-08-05T15:51:33Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Point-II-Artec-2026.jpg",
-      "excerpt": "Artec's Point II laser scanner captures 5.8 million points a second, feeding the high-density scan data that AI mesh-to-CAD and reverse-engineering pipelines now depend on."
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/PTC-Creo-AI-Advisor-1024x576.jpg",
+      "excerpt": "PTC introduced \"Triple A\" AI — Advise, Assist, Automate — in Creo 13, aimed at designer productivity inside the CAD product. \"We want to make sure that the human is always in the loop,\" the company said of its AI-assisted modelling decisions."
     },
     {
-      "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
-      "source": "Road to VR",
-      "category": "vr",
-      "published_iso": "2026-08-04T12:09:26Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/apple-glasses-fitness.jpg",
-      "excerpt": "Apple is reportedly building its smart-glasses experience design around fitness — a bet that decides what the first mainstream heads-up interface actually looks like."
+      "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+      "source": "CSS-Tricks",
+      "category": "tokens",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Takeaways from the 2026 State of CSS survey, including AI adoption: respondents who use AI generation 0–50% of the time outnumber heavier users 3,031 to 721. The author cautions the sample may skew less AI-dependent than the wider front-end population."
     },
     {
-      "url": "https://roadtovr.com/unseen-reality-urxr-one-xr-glasses-funded/",
-      "source": "Road to VR",
-      "category": "vr",
-      "published_iso": "2026-08-05T12:41:55Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/urxr.jpg",
-      "excerpt": "URXR One mixed-reality glasses passed $500K on Kickstarter in 24 hours, pitched as a wearable monitor — evidence of demand for spatial workspace UI beyond gaming headsets."
+      "url": "https://www.mindstudio.ai/blog/seedance-2-5-review-guide",
+      "source": "MindStudio",
+      "category": "tokens",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A hands-on review of Seedance 2.5 built by actually producing a short film: 30-second generations, omni-reference prompting, voice casting — and morphing bugs. A practitioner's read on where the model breaks in real production."
     },
     {
-      "url": "https://www.youtube.com/watch?v=XlQmD9ewN9Y",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "published_iso": "2026-08-05T11:00:21Z",
-      "og_image": "https://i.ytimg.com/vi/XlQmD9ewN9Y/maxresdefault.jpg",
-      "excerpt": "Figma's Motion basics series continues with motion paths, teaching designers to author production animation inside Figma rather than handing motion specs to engineers."
+      "url": "https://www.mindstudio.ai/blog/ai-agent-verification-self-checking-workflows",
+      "source": "MindStudio",
+      "category": "tokens",
+      "published_iso": "2026-08-05T00:00:00Z",
+      "og_image": "",
+      "excerpt": "How to make AI agents verify their own work before handing it back, using screenshot diffing and browser tests as a self-check loop. A concrete QA pattern for agent-generated UI output."
     },
     {
-      "url": "https://www.youtube.com/watch?v=H8xrPBEUSAo",
-      "source": "Jesse Showalter (YouTube)",
-      "category": "social",
-      "published_iso": "2026-08-05T13:00:15Z",
-      "og_image": "https://i.ytimg.com/vi/H8xrPBEUSAo/maxresdefault.jpg",
-      "excerpt": "Jesse Showalter and Alex Aperios on what actually breaks a creative agency in 2026 — and why the hardest part is no longer the design work itself."
+      "url": "https://www.mindstudio.ai/blog/ai-agent-tool-permissioning-security",
+      "source": "MindStudio",
+      "category": "tokens",
+      "published_iso": "2026-08-05T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Prompt-level rules aren't a control surface: a real incident where an agent sent unauthorized communications despite instructions not to. Argues for tool-level permissioning over prompt guardrails in agent workflows."
+    },
+    {
+      "url": "https://blog.logrocket.com/voice-ai-agent-browser/",
+      "source": "LogRocket",
+      "category": "workflow",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A step-by-step build of a fully local, real-time voice AI agent running in the browser. Useful groundwork for designers prototyping voice-first and conversational interface patterns without a cloud dependency."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 24,
+    "kept": 17,
     "against_days": 5
   }
 }

@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "music",
   "cards": [
     {
-      "id": "music-komca-ai-disclosure",
+      "id": "music-suno-download-watermark",
       "eyebrow": "AI NEWS",
-      "headline": "AI 도움받은 곡도 저작권 등록\n허위 신고엔 로열티 보류와 계약 해지",
-      "body": "KOMCA가 8월 3일부터 AI 보조곡 등록을 허용하되 사용 신고를 의무화했다.",
-      "mini_headline": "AI 곡 등록 다시 열렸다",
+      "headline": "Suno, AI 곡에 워터마크 심고\n대량 유통용 다운로드는 막는다",
+      "body": "Suno가 워터마크를 넣고 스트리밍 대량 유통을 막는 다운로드 정책을 내놨다.",
+      "mini_headline": "워터마크와 다운로드 제한",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/south-koreas-komca-ends-its-ban-on-ai-assisted-songs-false-filings-now-risk-royalty-holds-and-contract-termination/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/08/06/suno-changes-2026/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -18,173 +18,149 @@
         "blocks": [
           {
             "t": "p",
-            "x": "한국 최대 음악 저작권 신탁단체가 AI로 만든 곡의 등록 금지를 풀었다. 한국음악저작권협회(KOMCA)는 작사·작곡·편곡에 사람이 실질적으로 참여했다면 AI 보조 창작물도 등록받고 로열티를 지급한다."
+            "x": "Suno가 정책 묶음을 한꺼번에 공개했다. 다운로드 규칙을 새로 짜고, 만들어진 곡에 워터마크와 지문을 심고, 커뮤니티 가이드라인을 다듬고, AI 트랙을 가려낼 '투명성 도구'를 함께 내놨다."
           },
           {
             "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2025/04/Korea-flag.jpg",
-            "cap": "한국음악저작권협회, AI 보조곡 등록 금지 해제"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Suno-New-Policies.webp",
+            "cap": "다운로드·라벨링 정책을 한꺼번에 손본 Suno"
           },
           {
             "t": "p",
-            "x": "개정 규정은 8월 3일 월요일 발효됐다. 2025년 3월 24일부터 이어진 금지 조항을 대체한다. 옛 규정에서는 창작자가 \"오로지 인간의 창작적 기여로만 만들어졌다\"고 확인해야 했고, KOMCA가 말한 AI 기여도는 \"0%\"였다. 작곡 소프트웨어에 딸린 코드 추천 기능 하나만 써도 등록과 로열티에서 밀려났다."
+            "x": "다운로드 정책의 표적은 대량 유통이다. 수백에서 수천 곡을 찍어내 스트리밍 서비스에 올린 뒤 봇으로 재생을 돌려 로열티를 빼가는 수법을 겨냥한다. 전문가용 작업과 개인 용도는 그대로 남는다."
           },
           {
             "t": "p",
-            "x": "새 제도에서 AI 보조 작품을 등록하는 사람은 곡의 어느 부분에 AI가 들어갔는지 알리고, 쓴 AI 도구의 이름을 적고, 자기가 한 창작적 기여를 설명해야 한다. 프롬프트만으로 AI가 뽑아낸 결과물이 아니라는 점, 멜로디·가사·구성·편곡에 사람이 \"실질적이고 주도적인\" 창작 기여를 했다는 점도 확인해야 한다."
+            "x": "워터마크와 지문 기술은 몇 주 안에 붙는다. 공동창업자 겸 CEO Mikey Shulman은 블로그에 이 도구들이 \"오래 남고 훼손에 강하되 듣는 경험은 건드리지 않는다\"고 적었다. 구글 SynthID를 쓸지 자체 방식을 만들지는 밝히지 않았다."
           },
           {
             "t": "p",
-            "x": "서류 형식까지 못박지는 않았다. 대신 DAW 프로젝트 파일과 수정 이력, 악보, 프롬프트 로그처럼 과정을 입증할 자료를 남겨두라고 권한다. 협회는 이 증거를 요구할 수 있고 기술 심사나 내부 심의에 넘길 수도 있다. 창작자에게는 30일의 소명 기간이 주어진다."
+            "x": "커뮤니티 가이드라인도 다시 썼다. 진짜인 척 꾸민 오디오, 실존 인물의 목소리나 초상을 허락 없이 쓰는 행위를 명시적으로 금지한다. Shulman은 무언가를 AI로 만들었다고 알릴지 말지는 결국 아티스트와 플랫폼이 정할 몫이라고도 했다."
           },
           {
             "t": "p",
-            "x": "허위 신고의 대가는 7월 28일 같은 이사회에서 통과된 신탁계약 약관 개정안에 담겼다. 신고가 거짓으로 드러나거나 전부 AI가 만든 곡을 사람이 만든 것으로 등록한 사실이 확인되면 KOMCA는 로열티 지급을 보류하고 이미 나간 금액을 회수하며 신탁계약을 해지할 수 있다. 고의나 중과실이 확인되면 부당 수령액의 최대 3배를 물리는 약관 개정도 추진한다."
+            "x": "저작권 검사 쪽에서는 가사 데이터 회사 Musixmatch의 Sentinel을 붙였다. 업로드된 오디오와 가사 검사에는 Audible Magic도 함께 쓴다."
           },
           {
             "t": "p",
-            "x": "방향을 튼 계기는 2026년 3월 감사였다. 감사원은 2024년 KOMCA에 200곡 넘게 신탁한 작가 29명의 곡 8,540건을 표본으로 살폈고, 이 가운데 5,200곡(60.9%)이 AI 도움을 받아 만들어진 것으로 봤다. 감사는 국내 저작권 신탁단체 11곳을 훑었고, 이들이 AI 사용 여부를 따로 확인하지 않은 채 등록과 지급을 해 왔다고 결론지었다."
-          },
-          {
-            "t": "p",
-            "x": "다섯 달 전만 해도 KOMCA는 무단 AI 사용에 맞서는 쪽이었다. 2월에는 국내 음악 권리단체 다섯 곳과 함께 창작자 동의 없는 AI 학습 금지를 요구하는 연대에 참여했다. 새 체계는 그 요구를 건드리지 않는다. AI가 곡을 만드는 데 거들 수는 있어도 곡의 저작자가 될 수는 없다는 선, 미국 저작권청이 2025년 1월 지침에서 그은 선과 거의 같은 자리에 금을 그었을 뿐이다."
-          },
-          {
-            "t": "p",
-            "x": "시점도 공교롭다. 7월 31일 뮌헨 법원은 AI 음악 생성기 Suno가 독일 신탁단체 GEMA의 레퍼토리를 라이선스 없이 학습해 저작권을 침해했다고 판결했다. 법원은 복제 중단과 매출 공개, 손해배상을 명령했고 Suno는 항소하겠다고 밝혔다. 사흘 뒤인 8월 2일에는 AI 생성물에 라벨을 붙이라는 EU 규정이 발효됐다."
-          },
-          {
-            "t": "p",
-            "x": "KOMCA는 녹음물이 아니라 곡, 그러니까 작곡과 가사의 저작권을 관리한다. 다만 상업 발매되는 거의 모든 K팝 트랙의 작사가와 작곡가, 퍼블리셔가 KOMCA에 작품을 등록하니 이 공개 규정은 HYBE와 SM엔터테인먼트로 흘러드는 카탈로그 깊숙이 닿는다. KOMCA가 2024년 걷은 사용료는 4,370억 원(약 3억 600만 달러)이고, 상호 협정으로 등록은 110개국 넘는 곳에 미친다."
+            "x": "배경에는 소송이 쌓여 있다. Universal Music Group과 Sony, RIAA가 낸 저작권 소송이 진행 중이고, 지난 7월 독일 법원은 Suno가 라이선스 없이 보호 음악으로 학습했다고 판단했다. Warner Music Group과는 2025년 11월에 합의하고 라이선스를 맺었다."
           }
         ]
       }
     },
     {
-      "id": "music-ai-chart-rules",
+      "id": "music-musixmatch-sentinel",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 다 만든 곡은 차트에서 빼고\n보조로 쓴 곡은 AI 사용을 밝힌다",
-      "body": "3대 메이저와 인디 레이블이 AI 완전 생성곡을 차트에서 빼는 원칙을 내놨다.",
-      "mini_headline": "차트에 오를 AI 기준",
+      "headline": "Suno가 프롬프트부터 저작권을 걸러낸다",
+      "body": "Suno가 Sentinel로 프롬프트와 결과물에서 저작권 가사와 곡을 잡아낸다.",
+      "mini_headline": "프롬프트 저작권 검사",
       "tool": "Music",
-      "source": "Complete Music Update",
-      "url": "https://completemusicupdate.com/record-labels-come-together-to-propose-rules-for-when-ai-generated-tracks-can-get-into-the-music-charts/",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/suno-first-customer-of-musixmatchs-sentinel-which-screens-ai-prompts-and-outputs-for-copyrighted-material/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "3대 메이저 음반사와 여러 인디 레이블·유통사가 AI 녹음물의 차트 진입 자격을 정할 원칙을 함께 내놨다. 아직 차트에 드는 일에 관심이 남아 있는 사람이 있다면 말이지만."
+            "x": "Musixmatch가 AI·UGC 플랫폼용 저작권 탐지 서비스 Sentinel의 첫 고객으로 Suno를 잡았다. Suno는 저작권이 걸린 작곡과 가사, 음원이 섞여 들어오는지 가려내려고 이 기술을 붙였다고 Musixmatch가 2026년 8월 6일 목요일 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/AI-charts.png",
-            "cap": "AI 트랙의 차트 진입 규칙을 제안한 레이블들"
+            "src": "https://www.musicbusinessworldwide.com/files/2026/08/sentinel-social-sharing-img-1200x630-1.jpg",
+            "cap": "Musixmatch의 저작권 탐지 서비스 Sentinel"
           },
           {
             "t": "p",
-            "x": "뼈대는 단순하다. AI 보조 트랙은 차트에 올라도 되고, 전부 AI가 만든 트랙은 안 된다. 이 규칙이 \"공식 차트가 창작 과정에서 AI를 적절히 쓰는 것을 받아들이면서도 인간 예술성을 기리는 자리로 남게 한다\"는 것이 레이블과 유통사의 설명이다."
+            "x": "Sentinel은 프롬프트와 AI 출력물을 함께 살핀다. 생성 어느 단계에서든 저작권 가사를 잡아내고, 밀리초 단위 지연으로 확실한 일치를 빠르게 찾아낸다. 이용자가 만든 콘텐츠를 권리자의 원곡과 이어 붙여 커버 버전을 식별하고 로열티를 배분하는 일도 한다."
           },
           {
             "t": "p",
-            "x": "물론 어디까지가 AI 생성이고 어디부터가 AI 보조인지는 여전히 논쟁거리다. 사람이 얼마나 손을 대야 AI 플랫폼과 도구가 곡과 녹음을 거들었을 뿐이라고 말할 수 있을까."
+            "x": "Musixmatch는 Sentinel이 Suno에 \"이용자 프롬프트 안의 저작물을 더 잘 들여다보는 눈\"을 준다고 설명한다. 거기서 나온 판단이 Suno의 모더레이션과 컴플라이언스, 제품 결정에 반영된다."
           },
           {
             "t": "p",
-            "x": "RIAA와 IFPI 같은 음반업계 단체는 자발적 AI 음악 라벨링 체계로 그 선의 지침을 내놓기 시작했다. 다만 이번 차트 지침은 AI 보조를 \"실질적으로 사람이 만든\" 트랙이라고만 정의한다."
+            "x": "Musixmatch 공동대표 Rio Caraeff는 \"Suno는 창작과 표현의 수준을 놀랍도록 끌어올리고 있지만, 지금의 판에는 무엇이 만들어지는지, 저작물이 들어오고 있는지를 플랫폼이 알 수 있게 해주는 튼튼한 인프라가 필요하다\"고 말했다. Sentinel을 처음 도입한 플랫폼이 Suno라는 점도 반겼다."
           },
           {
             "t": "p",
-            "x": "기본 규칙 위에 다섯 가지 요건이 더 붙는다. 몇 개는 간단하다. 저작권법을 지킬 것, 퍼블리시티권을 침해하지 말 것, 수상한 스트림 조작이 없을 것."
+            "x": "Suno 법무총괄 Phil Castro는 \"AI 기술이 계속 진화하는 만큼 책임 있게 제품을 만드는 일이 중요하다\"고 했다. 자기들 도구가 모방이 아니라 원본 창작을 가능하게 한다는 것이 원칙이고, Musixmatch는 오용을 찾아내고 막는 데 핵심 파트너였다는 설명이다."
           },
           {
             "t": "p",
-            "x": "나머지가 무겁다. 창작 과정에 쓴 AI 도구는 \"적법하게 허가된\" 것이어야 하고, 트랙 발매가 AI 플랫폼 약관을 어겨서는 안 되며, AI 도구를 썼다는 사실을 밝혀야 한다. 앞서 말한 자발적 라벨링 체계를 쓰라는 얘기인데, 차트를 노리는 아티스트와 레이블에게 그 체계는 더 이상 자발적이지 않다."
+            "x": "Sentinel은 3월 27일에 나왔다. 100밀리초 안에 판정을 돌려주고 API로 연결되며, EU AI법과 DMCA 준수를 염두에 두고 설계했다. AI 생성물에 표시를 붙이라는 EU 규정은 8월 2일 발효됐다."
           },
           {
             "t": "p",
-            "x": "\"적법하게 허가된\"이라는 조건은 아티스트가 음악 산업의 라이선스를 온전히 받은 플랫폼과 도구만 쓰도록 밀어붙인다. 지금 그런 플랫폼은 극소수다."
+            "x": "Sentinel이 기대는 것은 250개가 넘는 언어, 25만 곳 이상의 권리자와 음악 출판사가 쓰는 자체 음악 데이터베이스다. Universal Music Group, Sony Music Publishing, Warner Music Group을 비롯해 BMG, Kobalt, Reservoir, NMPA 등이 그 망에 이름을 올렸다. Musixmatch는 2025년 10월 3대 메이저의 퍼블리싱 부문 모두와 AI 라이선스 계약을 맺었다."
           },
           {
             "t": "p",
-            "x": "집행 단계에서는 문제가 생긴다. 아티스트와 레이블은 AI를 썼다고 신고하는 데 그치지 않고 어떤 도구와 플랫폼을 썼는지 목록으로 내야 한다. 어떤 AI 도구가 합법인지 업계 전체가 참고할 안내도 더 분명해져야 한다. Fairly Trained 같은 시도가 그 일을 하고 있다."
+            "x": "같은 날 Suno도 원칙을 정리한 블로그 글을 올렸다. CEO 겸 공동창업자 Mikey Shulman은 특정 아티스트나 저작권 곡을 지정하는 프롬프트를 \"한 번도 허용한 적이 없다\"고 썼다. 이름이 들어오면 걷어내고 음악적 특징을 묘사하는 쪽으로 요청을 돌린다. Audible Magic, ACRCloud, Musixmatch와 함께 업로드된 오디오 파일과 가사도 검사한다."
           },
           {
             "t": "p",
-            "x": "\"AI 플랫폼 약관을 어기지 말 것\"도 흥미롭다. 메이저들은 AI 음악 플랫폼이 담장 친 정원처럼 돌아가길 바란다. AI로 만든 트랙이 만들어진 플랫폼 안에서만 공유되는 구조다. 누군가 담장을 넘어 그 음악을 주요 스트리밍 서비스에 풀어놓으면 이 규칙이 차트 진입을 막는다."
-          },
-          {
-            "t": "p",
-            "x": "각국 차트 집계사가 이 원칙을 어떻게 다룰지는 지켜봐야 한다. 다만 상당수가 음반업계 단체와 얽혀 있거나 음반사를 고객으로 두고 있어 따를 가능성이 높다."
-          },
-          {
-            "t": "p",
-            "x": "많은 아티스트와 팬에게 차트가 점점 무의미해 보인다 해도, 전문 차트에서라도 톱10에 드는 건 마케팅에 쓸모가 있다. 골드·플래티넘 인증 체계에도 이 원칙이 적용될 수 있다. 차트 집계사가 규칙을 적용하기 시작하면 업계의 상당 부분이 주목한다는 얘기다."
-          },
-          {
-            "t": "p",
-            "x": "이미 원칙을 지지한 곳은 유니버설 뮤직, 소니 뮤직, 워너 뮤직에 더해 Believe, BMG, Concord, Dirty Hit, Glassnote Records, HYBE Corp, Mom+Pop Music, Partisan Records다."
+            "x": "지난 7월 31일 뮌헨 지방법원은 Suno가 라이선스 없이 GEMA 레퍼토리로 학습해 저작권을 침해했다고 판결했다. 유럽에서 나온 첫 판단이다. Suno는 이 판결이 자사 기술을 \"근본적으로 잘못 이해한 데 기대고 있다\"며 항소를 저울질한다. RIAA가 조율하는 Universal Music Group·Sony Music Entertainment와의 소송도 남아 있고, Warner Music Group은 2025년 11월 청구를 접으며 Songkick 인수까지 포함한 라이선스 파트너십을 맺었다."
           }
         ]
       }
     },
     {
-      "id": "music-ai-poison-genre",
+      "id": "music-symphonic-musicshield",
       "eyebrow": "AI NEWS",
-      "headline": "AI를 혼란시키려 일부러 만든\n이상한 음악이 하나의 장르가 된다",
-      "body": "AI 스크레이퍼가 학습하길 바라며 일부러 이상한 곡을 올리는 흐름이 나타났다.",
-      "mini_headline": "AI 헷갈리게 만드는 곡",
+      "headline": "Symphonic, 발매 전 AI 학습을 막는\nMusicShield를 무료로 연다",
+      "body": "Symphonic 고객은 발매 전 음원을 AI 학습에서 지키는 도구를 무료로 쓴다.",
+      "mini_headline": "발매 전 AI 학습 차단",
       "tool": "Music",
-      "source": "CDM",
-      "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/08/06/symphonic-partners-with-artyshield-to-offer-ai-protection-platform-musicshield/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "새로운 흐름이 하나 보인다. AI가 긁어다 학습하고 무언가를 \"배우기를\" 바라며 일부러 이상하거나 대놓고 못 만든 음악을 녹음해 올리는 아티스트들이다. 더 정교한 데이터 포이즈닝과는 다르다. CDM이 앞서 다룬 Benn Jordan의 적대적 노이즈 작업은 결과물 안에서 들리지 않게 설계된 쪽이었다."
+            "x": "유통사 Symphonic이 ArtyShield와 손을 잡았다. 권리자가 무단 AI 사용에서 작업물을 지키도록 돕는 회사다. Symphonic 고객은 ArtyShield 도구 일부를 무료로 쓰게 되는데, 그중 하나가 발매 전 음악을 지키는 MusicShield다."
           },
           {
             "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/08/smokethissong.jpg",
-            "cap": "AI를 겨냥해 일부러 만든 '독약' 음악"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-77.png?fit=2000%2C1500&ssl=1",
+            "cap": "Symphonic과 ArtyShield의 AI 보호 도구 제휴"
           },
           {
             "t": "p",
-            "x": "이쪽은 훨씬 노골적이다. 투손의 MattstaGraham은 '안티 뱅어'를 모은 Uploading Crappy Music Everywhere to Confuse Gen AI 시리즈를 연재한다. CDM은 별로 설득되지 않았다고 적었다. \"PISS CHAMP\"는 밴드캠프 맨 밑바닥까지 내려갔을 때 나오는 소리 같다는 것이다."
+            "x": "MusicShield는 사람 귀에 잡히지 않는 방식으로 오디오 파일을 손본다. 소리는 그대로인데 AI가 곡의 특징을 읽는 방식이 어긋나서, 학습 재료로서의 값이 떨어진다."
           },
           {
             "t": "p",
-            "x": "그런데 몇몇은 뜻밖에 들을 만하다. 음악을 무너뜨리는 게 애초에 우리가 했어야 할 일인지도 모른다. Luke Nickle의 \"hey ai come train on this song\"은 데이터센터 반대 진영을 위한 \"Talking World War III Blues\"처럼 굴러간다. CDM은 이 트랙을 두고 그냥 뱅어라며 다 같이 배워서 부르자고 했다."
-          },
-          {
-            "t": "video",
-            "yt": "zb4oPT-1Wvg"
+            "x": "연구 결과 MusicLM, MusicGen, JASCO, Riffusion 같은 최신 오픈소스 모델은 물론 Suno와 Udio 같은 상용 플랫폼에서도 효과가 확인됐다. 뿌리는 University of Tennessee, Knoxville의 2024년 HarmonyCloak 연구로, IEEE Security and Privacy Symposium에서 발표됐다."
           },
           {
             "t": "p",
-            "x": "River, 그러니까 iamriverhawk는 짧은 영상을 쉬지 않고 찍어낸다. 기계보다는 실험·부조리 음악 팬을 더 끌어당길 물건이다. AI가 쓴 가사가 이미 이렇게 들린다는 점이 웃기고, 명상 음악은 다 이래야 한다는 생각도 들고, AI에 일자리를 잃은 모두를 위한 노래도 있다."
+            "x": "접근 경로는 단순하다. Symphonic의 관리 플랫폼 SymphonicMS의 Client Offerings 화면에서 싱글 사인온으로 바로 들어간다."
           },
           {
             "t": "p",
-            "x": "AI가 헷갈리는지는 모르겠고 자기가 헷갈린다는 게 CDM의 결론이다. 빠뜨린 독약 음악이 있으면 알려 달라는 말과 함께, 잠시 평범한 글과 음악을 좀 보고 오겠다고 적었다."
+            "x": "ArtyShield의 다른 도구도 함께 열린다. VeriTune은 트랙이 AI로 만들어졌는지 따져보고, VoiceShield는 목소리 복제와 합성 음성에서 보컬 연주를 지킨다. VeriVoice는 AI가 만들었거나 복제·조작된 음성 녹음을 가려낸다. 사람이 만들었음을 확인해 라이선싱과 법적 절차에 쓰는 ArtyShield Certify도 준비 중이고, 카탈로그 전체의 저작권 침해 탐지와 AI 가창 식별 기능이 뒤를 잇는다."
+          },
+          {
+            "t": "p",
+            "x": "무료는 시작일 뿐이다. 보호 범위를 넓히려면 유료 등급을 골라야 한다. Symphonic CEO Jorge Brea는 MusicShield가 창작자에게 자기 음악을 지킬 현실적인 방법을 준다고 말했다."
           }
         ]
       }
     },
     {
-      "id": "music-sound-free-concert",
+      "id": "music-ye-ai-vocal-lawsuit",
       "eyebrow": "AI NEWS",
-      "headline": "소리 없는 콘서트가 생성 음악을\n청중의 인공와우로 곧장 보낸다",
-      "body": "런던의 소리 없는 콘서트가 생성 AI 음악을 블루투스로 인공와우에 직접 보냈다.",
-      "mini_headline": "스피커 없는 AI 콘서트",
+      "headline": "Kanye West 두 앨범에 AI를 썼다고\n프로듀서가 소송을 냈다",
+      "body": "프로듀서가 Ye의 두 앨범에 AI 보컬을 만들고 대가를 못 받았다며 소송을 냈다.",
+      "mini_headline": "AI 보컬 크레딧 소송",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/features/interviews/sound-free-concert/",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/kanye-wests-vultures-ii-and-bully-used-ai-new-lawsuit-alleges/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -192,112 +168,83 @@
         "blocks": [
           {
             "t": "p",
-            "x": "5월 런던 킹스플레이스에서 열린 \"최초의\" 사운드프리 콘서트는 라이브 이벤트가 d/Deaf 관객의 경험을 훨씬 잘 받쳐줄 수 있다는 걸 보여줬다. 기술 자문사 OutcomePath의 Tom Staniford와 Adrian Webb이 기획했고, 두 사람은 d/Deaf에게 공평한 공연이라는 발상 자체를 뒤집고 싶어 했다."
+            "x": "익명의 프리랜서 프로듀서가 법원 서류에 John Doe라는 이름으로 Kanye West를 상대로 소송을 냈다. 앨범 Vultures II와 Bully에서 AI 보컬 작업을 맡았는데 크레딧도 대가도 받지 못했다는 주장이다."
           },
           {
             "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-hero-credit-OutcomePath@2000x1500-1392x1044.jpg",
-            "cap": "사운드프리 콘서트 (사진: OutcomePath)"
+            "src": "https://media.pitchfork.com/photos/6a7262f7f2099ddd9073c842/16:9/w_1280,c_limit/Kanye-West.jpeg",
+            "cap": "Kanye West, 2024년 3월 21일 로스앤젤레스"
           },
           {
             "t": "p",
-            "x": "Webb은 \"장애가 없는 우리가 장애를 두고 모두를 우리 기준까지 끌어올리는 일이라 생각하는 걸 멈춰야 한다\"고 말한다. 2년을 준비한 두 사람은 인공와우(CI) 제조사 Advanced Bionics의 후원을 받아 인공와우 사용자를 위한 공연을 만들었다."
+            "x": "소장에 따르면 2024년 8월 1일, Vultures II 발매를 이틀 앞두고 \"긴급 요청\"을 받아 합류했다. 그가 한 일은 \"광범위한 프로덕션과 보컬 프로덕션 작업\"으로, 최소 13개의 맞춤 AI 보이스 모델과 400건이 넘는 개별 보컬 생성, 소스로 쓸 자기 목소리 녹음이 포함된다."
           },
           {
             "t": "p",
-            "x": "Staniford는 \"인공와우는 전화기 같은 도구일 뿐\"이라며 \"그 도구를 평등을 위한 물건으로 보는 관점을 뒤집으려 했다. 부러움의 대상이 돼야 한다\"고 했다. \"언젠가 청인이 인공와우 사용자를 보며 '나도 저거 하나 있었으면' 하고 생각하게 만드는 새 경험을 만드는 일이었다.\""
+            "x": "2024년 10월에는 Bully 작업에 붙었다. AI 보컬 프로덕션을 더 만들고 다른 아티스트와 두 곡의 작사·작곡을 도왔으며, 그 곡들은 상업적으로 발매됐다. Vultures II 다섯 곡을 포함해 모두 일곱 곡이 세상에 나갔다."
           },
           {
             "t": "p",
-            "x": "어떻게 소리가 없었나. 소리는 공기 같은 매질을 진동시키고, 그 진동이 고막과 달팽이관을 거쳐 전기 신호로 바뀌어 청신경을 탄다. 인공와우는 소리를 프로세서로 받아 전기 신호로 바꿔 청신경에 곧장 보낸다. 요즘 인공와우 대부분은 블루투스로 기기와 연결되고, 이번 공연의 음악도 그 경로로 갔다. 보청기 제조사 Phonak이 무선 스트리밍을 맡아 참석자 전원을 같은 채널에 묶었다. Staniford의 말대로 \"사람 귀는 전파를 못 듣는다. 그래서 사운드프리\"다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-1-credit-OutcomePath@1400x1050.jpg",
-            "cap": "사운드프리 콘서트 참석자들 (사진: OutcomePath)"
+            "x": "2024년 10월과 11월 사이 Ye 측이 그의 작업을 인정하고 크레딧을 고쳐주겠다고 약속했다는 것이 원고 주장이다. 스트리밍 서비스의 프로덕션 크레딧에는 여전히 그의 이름이 없다. 거의 2년에 걸쳐 요구했지만 피고들은 대가를 지급하지 않았다고 소장은 적었다."
           },
           {
             "t": "p",
-            "x": "음악은 Simon Morris가 공연 중에 노트북으로 즉석에서 만들었다. 생성 AI 음악 플랫폼 Suno와 Udio, Google Flow Music(옛 Producer.ai)을 썼다. 스피커는 한 대도 없어 청인에게 객석은 그냥 조용했다. Morris는 청력이 있어 자기가 만드는 음악을 듣지 못하게 했다. 클래식과 재즈, EDM, 팝 장르로 프롬프트를 넣었고 참석자는 뒤쪽 화면으로 그 프롬프트를 읽으며 아이디어를 냈다. 샘플링도 녹음도 없었으니 그날 들린 음악은 다시 들을 수 없다."
+            "x": "청구액은 상업 발매된 일곱 곡에 대한 보상적 손해배상 최소 11만 달러다. 여기에 로스앤젤레스 프리랜서 노동자 보호 조례에 따른 배액 배상도 함께 요구했다."
           },
           {
             "t": "p",
-            "x": "수의간호사 Skye White는 6년 전 인공와우를 했다. 공연에 가긴 하지만 가사를 따라가지 못하면 \"전부 흐릿하게 뭉개진다\"고 한다. 홍보 담당 Charlotte Young은 4년 가까이 인공와우를 썼다. \"평생 공연예술을 했는데 청력을 잃으면서 모든 게 달라졌고 점점 고립됐다\"고 말한다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-3-credit-OutcomePath@1400x1050.jpg",
-            "cap": "인공와우로 음악을 듣는 관객 (사진: OutcomePath)"
-          },
-          {
-            "t": "p",
-            "x": "Young은 한 곡이 프랭크 시나트라를 떠올리게 했다고 기억한다. \"다 같이 따라 불렀다. '우리 d/Deaf인데 가사가 들리고 다 같이 웃고 있잖아, 이게 뭐야' 했다.\" White는 배경 소음이 걷힌 깨끗한 소리를 반겼다. Young은 청인들이 침묵 속에 앉아 있는 걸 보는 게 \"초현실적\"이었다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Staniford 본인의 인공와우는 Advanced Bionics 제품이 아니어서 참석자로는 낄 수 없었다. \"나에게 모든 게 조용해진 상태에서 저 웃는 얼굴들이 무언가를 즐기는 걸 봤을 때, 살면서 겪은 가장 강한 깨달음의 순간이었다.\""
-          },
-          {
-            "t": "p",
-            "x": "다음 단계는 Auracast다. 한 기기가 내보낸 고음질 오디오를 무제한의 수신기가 받는 블루투스 LE 방식으로, Staniford는 \"사실상 보편 스트리밍\"이라며 몇 년 뒤엔 모든 인공와우 사용자를 초대하는 사운드프리 콘서트도 가능하다고 본다. 두 사람은 설문을 분석해 백서를 낼 계획이다."
+            "x": "Vultures II가 나온 뒤 팬들 사이에서는 AI 펀치인과 필터를 쓴 것 아니냐는 의심이 돌았다. 듣는 맛을 해쳤다는 반응이었다."
           }
         ]
       }
     },
     {
-      "id": "music-fenix-flexin-ai",
+      "id": "music-sylvan-esso-betty-studio",
       "eyebrow": "AI NEWS",
-      "headline": "차트를 오르는 바이럴 히트곡이\nAI가 다 만든 곡이라는 의혹",
-      "body": "바이럴 히트곡 'Rubberz'가 AI 전량 생성이라는 의혹에 다시 휘말렸다.",
-      "mini_headline": "AI 생성 의혹 히트곡",
+      "headline": "Sylvan Esso가 직접 지은 스튜디오\nSuno는 이걸 못 만든다",
+      "body": "Sylvan Esso는 직접 지은 스튜디오에서 Suno가 못 낼 곡을 만들어냈다.",
+      "mini_headline": "직접 지은 스튜디오의 답",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/08/05/is-that-viral-fenix-flexin-song-ai-generated-after-all-and-if-so-what-does-that-mean/",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/artists/it-feels-like-the-most-us-thing-weve-ever-done-suno-isnt-coming-up-with-that-anytime-soon-sylvan-esso-on-the-making-of-ow-their-self-built-bettys-studio-and-why-they-pulled-their-music-from-spotify",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "두어 달 전 Music Ally는 Fenix Flexin의 사례를 다뤘다. 바이럴을 탄 'Rubberz'가 AI로 만들어졌다는 의혹을 받는데 정작 본인은 어리둥절해하는 상황이었다. 80년대풍 신스 사운드가 평소 그의 랩과 너무 달랐던 탓이 컸다. 함께 공유한 영상 인터뷰에서 Flexin과 프로듀서 Purpz on the Beat는 \"이거 AI 음악이냐\"는 질문을 에둘러 갔다. 수많은 DAW 도구가 이미 AI를 쓰니 어떤 곡이든 AI가 끼었을 확률은 높다는, 일리 있는 지적이었다."
+            "x": "Sylvan Esso가 4년 만에 앨범 Ow ∞를 냈다. Amelia Meath와 Nick Sanborn 두 사람은 2024년 노스캐롤라이나를 덮친 허리케인에 첫 작업이 끊겼고, 2025년 1월 LA 산불로 다시 밀렸다. 결국 채플힐 근처에 직접 지은 오프그리드 스튜디오 Betty's에서 음반을 마무리했다."
           },
           {
             "t": "img",
-            "src": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-74.png",
-            "cap": "Fenix Flexin"
+            "src": "https://cdn.mos.cms.futurecdn.net/rwWdT4dRQ8nR6BXa6VTf2T.jpg",
+            "cap": "Amelia Meath와 Nick Sanborn의 듀오 Sylvan Esso"
           },
           {
             "t": "p",
-            "x": "문제는 'Rubberz'가 진짜 여름 히트곡이 될 만한 노래라는 데 있다. 좋고 기묘한 팝이고, 라이브에서는 관객이 목청껏 따라 부른다. 틱톡 바이럴을 넘어 실제 음악 차트를 타고 올라가는 중이다."
-          },
-          {
-            "t": "video",
-            "yt": "Hl5_Lc6b3AU"
+            "x": "Amelia는 이번이 편했다고 말한다. \"첫 두세 장을 만들 때는 곡을 쓰는 일이 너무 힘들고 아팠다. 바깥세상이 흔들렸는데도 이번 작업은 훨씬 단단하고 수월했다.\" Nick은 압박의 출처를 자기들 안쪽으로 돌린다. \"성공도 좀 해봤지만 지금 느끼는 압박은 우리한테서 온다. 스스로 미지근하다고 느끼는 것보다는, 내가 사랑하고 남들이 다 싫어하는 걸 만들고 싶다.\""
           },
           {
             "t": "p",
-            "x": "그런데 정말 AI가 만든 곡이라면. Flexin에게, 음악을 즐기는 우리에게, 차트와 진실과 예술성에 그건 무슨 뜻일까. 다음 전개는 짐작대로다. 'Rubberz'는 AI 생성 의혹을 더 크게 받고 있다. 여전히 \"의혹\"이라는 단서를 달아야 하지만 이번엔 조금 더 그럴듯하다. 주장을 편 쪽은 아티스트 Medasin이고, 조회수 200만이 넘는 틱톡 게시물에 \"I present to you 'The Reckoning of Fenix Flexin & Purps'\"라는 제목을 달았다."
+            "x": "스튜디오를 지은 이유는 단순했다. \"집이 아닌 작업 공간이 필요했다. 스튜디오라는 데는 대체로 사람을 겉돌게 만든다. 엔지니어가 딸린 공간을 빌리면 나는 손님일 뿐이라 소외감이 든다.\" Betty's는 그 반대로 설계했다. 믹싱 자리가 큰 라이브룸을 등지고 있고, 녹음은 보통 그 방 안에서 한다. 다들 같은 공간에 있게 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/GhrzQ6FPxmzEKeofdYtyba.jpg",
+            "cap": "채플힐 근처에 직접 지은 오프그리드 스튜디오 Betty's"
           },
           {
             "t": "p",
-            "x": "Medasin은 이 곡이 \"전부\" AI로 생성됐고 창작자들이 \"거짓말\"을 하고 있다고 말한다. 두 사람이 Trebolo라는 AI 플랫폼, 지금은 Sonauto로 이름을 바꾼 서비스를 썼다고 주장하며, 아주 기본적인 프롬프트만 넣어도 'Rubberz'와 비슷하게 들리는 곡과 가사가 나온다고 시연한다."
+            "x": "음반에는 타악기 주자 TJ Maiani, Joe Westerlund, Glenn Kotche, Jake Luppen 등이 함께했고, 프로덕션은 Daniel Aged와 Bon Iver의 협업자 BJ Burton이 거들었다. Nick은 스피커 이야기를 꺼낸다. \"Ocean Way HR3.5 스피커가 우리 소리를 만드는 데 큰 몫을 했다. 믹스 자리가 좁은 더 좋은 스피커도 있지만, 이건 켜두면 그 근처에 앉은 사람 모두가 믹스가 어떻게 돌아가는지 감을 잡는다.\""
           },
           {
             "t": "p",
-            "x": "Medasin이 가장 화가 난 지점은 따로 있다. 제작진이 AI로 생성했다는 사실을 인정하지 않고 Flexin의 창작물로 내세우면서, 정작 모델 학습에 쓰인 다른 아티스트의 작업으로 돈을 번다는 것이다. 그는 소속 레이블 Empire와 Sonauto 창업자들까지 지목한다. Flexin과 Purpz는 곡이 전부 AI로 만들어지지 않았다는 증거로 프로툴스 파일 영상을 공개했다. 그러자 AI로 뽑은 스템을 내보내 손보고 다시 조립한 것 아니냐는 의혹이 또 붙었다."
+            "x": "\"Concrete Glen\"에는 Sigur Rós의 \"Svefn-g-englar\" 샘플이 들어간다. Nick은 \"한 번도 안 나온 큰 샘플 드롭을 늘 해보고 싶었다\"고 했다. Amelia는 \"Plastic Sword\"를 두고 \"우리가 밀어붙인 것의 왕관 같은 곡이고, 우리다움이 가장 진한 결과\"라고 말한다. Nick이 덧붙인다. \"Suno가 조만간 저런 걸 내놓지는 못한다. 참조점이 뻔히 보이는 순간이 많은데도 거기서 나오는 건 새롭다. 전에 없던 것이다.\""
           },
           {
             "t": "p",
-            "x": "싸움은 그렇다 치고, 의혹이 사실이라면 무슨 뜻일까. Medasin의 분노에 대한 반론은 이렇다. Flexin은 곡을 만들었고 자기 히트곡으로 키웠고 사람들은 따라 부르며 즐긴다. 그리고 Flexin과 Purpz는 사람들이 좋아하는 작업의 대가를 받는다. 지금 대중 상당수는 곡의 출처에 별 관심이 없다. 밀리 바닐리식 반발이 아직 가능할지는 아무도 모른다."
-          },
-          {
-            "t": "p",
-            "x": "덧붙이자면, Music Ally의 최근 Behind the Single 기사는 The Second Voice의 부분 AI 생성곡 'Let Me Be'를 다뤘다. Spinnin' Records 팀이 곡의 AI 요소를 두고 DSP와 라디오의 의심을 어떻게 넘겼는지 들어볼 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "덧붙이자면, Music Ally의 최근 Behind the Single 기사는 The Second Voice의 부분 AI 생성곡 'Let Me Be'를 다뤘다. Spinnin' Records 팀이 곡의 AI 요소를 두고 DSP와 라디오의 의심을 어떻게 넘겼는지 들어볼 수 있다."
+            "x": "두 사람은 2025년 9월 Spotify에서 카탈로그를 뺐다. 플랫폼의 행태와 전 CEO Daniel Ek의 투자에 대한 항의였다. Nick의 설명은 이렇다. \"스트리밍이라는 개념에 불만은 없다. 내 불만은 Daniel Ek이다. 물이 데워지는 줄 모르는 냄비 속 개구리 같다는 느낌이 지겨웠다.\" 다른 아티스트에게 철수를 요구한 것은 아니라고 선을 긋는다. 음악을 듣는 보통 사람이 자기가 어디서 음악을 얻는지 한 번 생각하고 서비스를 바꿔보길 바랐을 뿐이다."
           }
         ]
       }

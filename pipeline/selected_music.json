@@ -1,90 +1,106 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "music",
-  "picks": [
+  "items": [
     {
-      "url": "https://www.musicbusinessworldwide.com/south-koreas-komca-ends-its-ban-on-ai-assisted-songs-false-filings-now-risk-royalty-holds-and-contract-termination/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-08-05T11:36:01Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2025/04/Korea-flag.jpg",
-      "excerpt": "KOMCA's amended rules took effect August 3, ending South Korea's blanket ban on registering AI-assisted songs — but writers must now declare AI use, with false filings risking royalty holds and contract termination. Changes how Korean songwriters document an AI-touched session.",
+      "url": "https://www.digitalmusicnews.com/2026/08/06/suno-changes-2026/",
+      "source": "Digital Music News",
+      "category": "music",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Korean songwriters can finally register AI-assisted works — with a mandatory disclosure that changes session documentation from August 3."
+      "published_iso": "2026-08-06T14:48:25+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Suno-New-Policies.webp",
+      "excerpt": "Suno unveiled a new downloads policy, output watermarking/fingerprinting, clearer community guidelines and 'transparency tools' for identifying AI tracks. The changes restrict mass distribution of Suno songs to streaming platforms while preserving pro and personal use.",
+      "rationale": "Suno's new download/watermarking rules directly change what producers can legally do with generated tracks starting now."
     },
     {
-      "url": "https://completemusicupdate.com/record-labels-come-together-to-propose-rules-for-when-ai-generated-tracks-can-get-into-the-music-charts/",
-      "source": "Complete Music Update",
-      "published_iso": "2026-07-29T16:05:10Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/AI-charts.png",
-      "excerpt": "Majors and indies jointly proposed chart-eligibility rules for AI: only AI-assisted tracks may chart, only legitimate AI tools may be used, and AI use must be labelled. A labelling standard that will land directly in artists' release workflow.",
+      "url": "https://www.musicbusinessworldwide.com/suno-first-customer-of-musixmatchs-sentinel-which-screens-ai-prompts-and-outputs-for-copyrighted-material/",
+      "source": "Music Business Worldwide",
+      "category": "music",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Majors and indies agree on the first chart-eligibility standard for AI tracks — labelling becomes part of the release checklist."
+      "published_iso": "2026-08-06T12:36:54+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/sentinel-social-sharing-img-1200x630-1.jpg",
+      "excerpt": "Suno is the first customer of Musixmatch's Sentinel, which screens AI prompts and generated outputs for copyrighted compositions, lyrics and music. Prompt-level filtering becomes part of the generation pipeline itself.",
+      "rationale": "Copyright screening moves into the prompt box itself — a new constraint every AI-music workflow will feel."
     },
     {
-      "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
-      "source": "CDM",
-      "published_iso": "2026-08-05T16:25:00Z",
-      "og_image": "https://cdm.link/app/uploads/2026/08/smokethissong.jpg",
-      "excerpt": "CDM spots an emerging scene of producers deliberately recording strange or 'bad' music in the hope AI scrapers will train on it — data poisoning as a creative genre. A craft-level response to generative models that turns the training pipeline itself into material.",
+      "url": "https://musically.com/2026/08/06/symphonic-partners-with-artyshield-to-offer-ai-protection-platform-musicshield/",
+      "source": "Music Ally",
+      "category": "music",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Producers are turning scraper data-poisoning into an actual genre — the training pipeline itself becomes creative material."
+      "published_iso": "2026-08-06T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-77.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Distributor Symphonic has partnered with ArtyShield to give clients free access to MusicShield, a tool designed to protect tracks from unauthorised AI use before they are released. Pre-release protection becomes a standard step in the delivery chain.",
+      "rationale": "Pre-release anti-AI protection arrives free inside a major distributor — a concrete new step in the release checklist."
     },
     {
-      "url": "https://musictech.com/features/interviews/sound-free-concert/",
-      "source": "MusicTech",
-      "published_iso": "2026-07-27T12:56:36Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-hero-credit-OutcomePath@2000x1500-1068x801.jpg",
-      "excerpt": "A London 'sound-free concert' used generative AI music platforms plus Bluetooth-connected cochlear implants to stream audio directly to d/Deaf attendees. Generative music as an accessibility design surface rather than a content firehose.",
+      "url": "https://pitchfork.com/story/kanye-wests-vultures-ii-and-bully-used-ai-new-lawsuit-alleges/",
+      "source": "Pitchfork",
+      "category": "music",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Generative music paired with cochlear implants turns a concert into an accessibility design problem, not a content-volume one."
+      "published_iso": "2026-08-04T22:12:04Z",
+      "og_image": "https://media.pitchfork.com/photos/6a7262f7f2099ddd9073c842/16:9/w_1280,c_limit/Kanye-West.jpeg",
+      "excerpt": "An anonymous producer alleges in a new lawsuit that Kanye West's Vultures II and Bully used AI, and seeks compensation for uncredited work. The suit puts AI credit and disclosure inside a major-album production dispute.",
+      "rationale": "AI credit and disclosure land inside a major-album lawsuit — the first real test of who gets paid on AI-assisted records."
     },
     {
-      "url": "https://musically.com/2026/08/05/is-that-viral-fenix-flexin-song-ai-generated-after-all-and-if-so-what-does-that-mean/",
-      "source": "Music Ally",
-      "published_iso": "2026-08-05T12:30:00Z",
-      "og_image": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-74.png",
-      "excerpt": "Music Ally revisits Fenix Flexin's viral 'Rubberz' and the accusations that it is AI-generated, pulling apart why the question is now almost unanswerable when most DAW tools already embed AI. A useful test case for where 'AI-assisted' ends and 'AI-generated' begins.",
+      "url": "https://www.musicradar.com/artists/it-feels-like-the-most-us-thing-weve-ever-done-suno-isnt-coming-up-with-that-anytime-soon-sylvan-esso-on-the-making-of-ow-their-self-built-bettys-studio-and-why-they-pulled-their-music-from-spotify",
+      "source": "MusicRadar",
+      "category": "music",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "A charting viral hit shows the 'AI-assisted vs AI-generated' line is now nearly undecidable — the exact line the new chart rules depend on."
+      "published_iso": "2026-08-06T08:59:53Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rwWdT4dRQ8nR6BXa6VTf2T-2560-80.jpg",
+      "excerpt": "Sylvan Esso on making Ow in their self-built studio, why they pulled their music from Spotify, and why 'Suno isn't coming up with that anytime soon'. A craft counter-argument to prompt-based music making.",
+      "rationale": "A working duo spells out what a self-built studio still does that prompting cannot — the craft counterweight of the week."
     }
   ],
-  "dedup_notes": {
-    "checked_against_days": ["2026-07-31", "2026-08-01", "2026-08-02", "2026-08-03", "2026-08-04", "2026-08-05"],
+  "dedup": {
+    "checked_against_days": 6,
     "dropped": [
       {
-        "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
-        "reason": "Same story as published 2026-07-31 card 'flow-music-spaces' (MBW) — Google Flow Music Spaces song generation / editing / stem splitting."
+        "url": "https://www.musicbusinessworldwide.com/the-eu-ai-acts-rules-on-ai-content-labeling-and-training-are-now-law-heres-what-they-mean-for-the-music-business/",
+        "reason": "Same story as published 2026-08-05 card music-eu-ai-act-enforced (Music Ally) — EU AI Act transparency rules taking effect Aug 2."
       },
       {
-        "url": "https://www.digitalmusicnews.com/2026/08/04/komca-ai-policy/",
-        "reason": "Within-pool duplicate of the KOMCA policy reversal; kept the stronger MBW article (adds declaration requirement, royalty-hold and termination penalties)."
+        "url": "https://www.hypebot.com/the-era-of-unlabeled-ai-content-in-europe-is-ending/",
+        "reason": "Same EU AI Act labeling enforcement story already published 2026-08-05."
       },
       {
-        "url": "https://www.digitalmusicnews.com/2026/08/04/rapper-fenix-flexin-song-ai-generated-controversy/",
-        "reason": "Within-pool duplicate of the Fenix Flexin AI-generation controversy; kept the more analytical Music Ally piece."
+        "url": "https://musictech.com/news/industry/suno-ai-responsible-human/",
+        "reason": "Within-pool duplicate of the Suno transparency/watermarking announcement — kept the fuller Digital Music News write-up."
+      },
+      {
+        "url": "https://www.engadget.com/2231870/suno-adding-audio-watermarks-ai-generated-songs-identifiable/",
+        "reason": "Within-pool duplicate of the same Suno watermarking announcement."
       }
     ],
-    "not_selected": [
-      "MBW Saregama AI music videos — solid production case, but would have put two cards from the same outlet in the final five.",
-      "MBW 'what gets wanted' column — opinion, low actionability.",
-      "DJ Mag Bangalter / MusicRadar Luke Steele — artist-quote takes on AI, no workflow change.",
-      "MusicTech AI music earnings — business/streams data, closer to AI-business noise.",
-      "ElevenLabs 11 Voices YouTube — promotional brand documentary."
+    "not_selected_but_unique": [
+      "https://www.digitalmusicnews.com/2026/07/24/gema-plai-launch/",
+      "https://www.digitalmusicnews.com/2026/07/29/ai-agents-music-industry-pibox/",
+      "https://djmag.com/news/daft-punks-thomas-bangalter-im-not-really-interested-creative-usage-of-ai",
+      "https://www.musicradar.com/guitars/fender-ceo-clarifies-controversial-ai-comments",
+      "https://www.musicradar.com/artists/singers-songwriters/the-artists-that-are-against-it-youve-got-to-be-careful-because-its-going-to-come-and-swallow-you-like-the-boogie-monster-at-night-empire-of-the-suns-luke-steele-says-of-course-he-uses-ai",
+      "https://www.musicbusinessworldwide.com/the-music-industry-is-trying-to-guess-the-ai-recipe-after-dinner-was-served/",
+      "https://www.hypebot.com/i-waited-30-years-to-hear-my-songs-that-was-just-the-start/"
     ]
   },
-  "diversity_check": {
-    "outlets": ["Music Business Worldwide", "Complete Music Update", "CDM", "MusicTech", "Music Ally"],
-    "max_per_outlet": 1,
-    "distinct_urls": 5
+  "diversity": {
+    "outlets": [
+      "Digital Music News",
+      "Music Business Worldwide",
+      "Music Ally",
+      "Pitchfork",
+      "MusicRadar"
+    ],
+    "max_per_outlet": 1
   }
 }

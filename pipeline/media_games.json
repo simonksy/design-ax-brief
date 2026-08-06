@@ -1,33 +1,34 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "games",
   "media": [
     {
-      "id": "games-sekai-vibe-coding-medium",
-      "type": "image",
-      "src": "pipeline/media/games-sekai-vibe-coding-medium.png"
-    },
-    {
-      "id": "games-dragon-quest-gemini-event",
-      "type": "image",
-      "src": "pipeline/media/games-dragon-quest-gemini-event.png"
-    },
-    {
-      "id": "games-pokemon-green-ai-3d",
-      "type": "image",
-      "src": "pipeline/media/games-pokemon-green-ai-3d.jpg"
-    },
-    {
-      "id": "games-mario-kart-wii-vibe-coding",
+      "id": "games-unreal-mcp-editor",
       "type": "video",
-      "src": "pipeline/media/games-mario-kart-wii-vibe-coding.mp4",
-      "poster": "pipeline/media/games-mario-kart-wii-vibe-coding.jpg"
+      "src": "pipeline/media/games-unreal-mcp-editor.mp4",
+      "poster": "pipeline/media/games-unreal-mcp-editor.jpg"
     },
     {
-      "id": "games-halo-ai-voice-mod",
+      "id": "games-nvidia-ntc-sdk-arm64",
+      "type": "image",
+      "src": "pipeline/media/games-nvidia-ntc-sdk-arm64.jpg"
+    },
+    {
+      "id": "games-unreal-ethical-image-models",
       "type": "video",
-      "src": "pipeline/media/games-halo-ai-voice-mod.mp4",
-      "poster": "pipeline/media/games-halo-ai-voice-mod.jpg"
+      "src": "pipeline/media/games-unreal-ethical-image-models.mp4",
+      "poster": "pipeline/media/games-unreal-ethical-image-models.jpg"
+    },
+    {
+      "id": "games-unity-one-api-every-role",
+      "type": "video",
+      "src": "pipeline/media/games-unity-one-api-every-role.mp4",
+      "poster": "pipeline/media/games-unity-one-api-every-role.jpg"
+    },
+    {
+      "id": "games-google-ai-leaks-private-docs",
+      "type": "image",
+      "src": "pipeline/media/games-google-ai-leaks-private-docs.jpg"
     }
   ]
 }

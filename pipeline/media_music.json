@@ -1,32 +1,31 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "music",
   "media": [
     {
-      "id": "music-komca-ai-disclosure",
+      "id": "music-suno-download-watermark",
       "type": "image",
-      "src": "pipeline/media/music-komca-ai-disclosure.jpg"
+      "src": "pipeline/media/music-suno-download-watermark.webp"
     },
     {
-      "id": "music-ai-chart-rules",
+      "id": "music-musixmatch-sentinel",
       "type": "image",
-      "src": "pipeline/media/music-ai-chart-rules.png"
+      "src": "pipeline/media/music-musixmatch-sentinel.jpg"
     },
     {
-      "id": "music-ai-poison-genre",
+      "id": "music-symphonic-musicshield",
       "type": "image",
-      "src": "pipeline/media/music-ai-poison-genre.jpg"
+      "src": "pipeline/media/music-symphonic-musicshield.png"
     },
     {
-      "id": "music-sound-free-concert",
+      "id": "music-ye-ai-vocal-lawsuit",
       "type": "image",
-      "src": "pipeline/media/music-sound-free-concert.jpg"
+      "src": "pipeline/media/music-ye-ai-vocal-lawsuit.jpg"
     },
     {
-      "id": "music-fenix-flexin-ai",
-      "type": "video",
-      "src": "pipeline/media/music-fenix-flexin-ai.mp4",
-      "poster": "pipeline/media/music-fenix-flexin-ai.jpg"
+      "id": "music-sylvan-esso-betty-studio",
+      "type": "image",
+      "src": "pipeline/media/music-sylvan-esso-betty-studio.jpg"
     }
   ]
 }

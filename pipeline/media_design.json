@@ -1,31 +1,32 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "design",
   "media": [
     {
-      "id": "design-code-connect-mcp",
+      "id": "design-agent-plugins",
       "type": "image",
-      "src": "pipeline/media/design-code-connect-mcp.jpg"
+      "src": "pipeline/media/design-agent-plugins.png"
     },
     {
-      "id": "design-v0-api",
+      "id": "design-claude-to-figma",
       "type": "image",
-      "src": "pipeline/media/design-v0-api.png"
+      "src": "pipeline/media/design-claude-to-figma.jpg"
     },
     {
-      "id": "design-material-creator",
-      "type": "image",
-      "src": "pipeline/media/design-material-creator.jpg"
+      "id": "design-cascadeur-2026-2",
+      "type": "video",
+      "src": "pipeline/media/design-cascadeur-2026-2.mp4",
+      "poster": "pipeline/media/design-cascadeur-2026-2.jpg"
     },
     {
-      "id": "design-chat-wrong-interface",
+      "id": "design-creo-13-triple-a",
       "type": "image",
-      "src": "pipeline/media/design-chat-wrong-interface.jpg"
+      "src": "pipeline/media/design-creo-13-triple-a.jpg"
     },
     {
-      "id": "design-agent-evidence-approval",
+      "id": "design-state-of-css-2026",
       "type": "image",
-      "src": "pipeline/media/design-agent-evidence-approval.png"
+      "src": "pipeline/media/design-state-of-css-2026.png"
     }
   ]
 }

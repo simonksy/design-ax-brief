@@ -1,32 +1,31 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-google-assistant-shutdown",
+      "id": "gadgets-openai-ring-speaker-price",
       "type": "image",
-      "src": "pipeline/media/gadgets-google-assistant-shutdown.jpg"
+      "src": "pipeline/media/gadgets-openai-ring-speaker-price.jpg"
     },
     {
-      "id": "gadgets-siri-ai-device-tiering",
-      "type": "video",
-      "src": "pipeline/media/gadgets-siri-ai-device-tiering.mp4",
-      "poster": "pipeline/media/gadgets-siri-ai-device-tiering.jpg"
+      "id": "gadgets-meta-rayban-muse-spark-handwriting",
+      "type": "image",
+      "src": "pipeline/media/gadgets-meta-rayban-muse-spark-handwriting.jpg"
     },
     {
-      "id": "gadgets-chrome-on-device-ai-cost",
+      "id": "gadgets-ios27-gymkit-iphone-airpods",
       "type": "image",
-      "src": "pipeline/media/gadgets-chrome-on-device-ai-cost.jpg"
+      "src": "pipeline/media/gadgets-ios27-gymkit-iphone-airpods.jpg"
     },
     {
-      "id": "gadgets-nothing-cmf-ai-marketing",
+      "id": "gadgets-viture-pro-2-xr-glasses",
       "type": "image",
-      "src": "pipeline/media/gadgets-nothing-cmf-ai-marketing.jpg"
+      "src": "pipeline/media/gadgets-viture-pro-2-xr-glasses.jpg"
     },
     {
-      "id": "gadgets-peloton-ai-tracking-camera",
+      "id": "gadgets-galaxy-z-flip-8-flexwindow",
       "type": "image",
-      "src": "pipeline/media/gadgets-peloton-ai-tracking-camera.jpg"
+      "src": "pipeline/media/gadgets-galaxy-z-flip-8-flexwindow.jpg"
     }
   ]
 }
