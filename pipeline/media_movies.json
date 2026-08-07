@@ -1,33 +1,31 @@
 {
-  "date": "2026-08-07",
-  "section": "movies",
-  "count": 5,
   "media": [
     {
-      "id": "movies-adobe-chatgpt-plugin",
+      "id": "movies-autodesk-flow",
       "type": "video",
-      "src": "pipeline/media/movies-adobe-chatgpt-plugin.mp4",
-      "poster": "pipeline/media/movies-adobe-chatgpt-plugin.jpg"
+      "src": "pipeline/media/movies-autodesk-flow.mp4",
+      "poster": "pipeline/media/movies-autodesk-flow.jpg"
     },
     {
-      "id": "movies-brevidy-premiere",
-      "type": "image",
-      "src": "pipeline/media/movies-brevidy-premiere.jpg"
+      "id": "movies-runway-seedance",
+      "type": "video",
+      "src": "pipeline/media/movies-runway-seedance.mp4",
+      "poster": "pipeline/media/movies-runway-seedance.jpg"
     },
     {
-      "id": "movies-disney-tiktok-shorts",
+      "id": "movies-minimax-bootleg",
       "type": "image",
-      "src": "pipeline/media/movies-disney-tiktok-shorts.jpg"
+      "src": "pipeline/media/movies-minimax-bootleg.jpg"
     },
     {
-      "id": "movies-hybrid-set-switchx",
+      "id": "movies-siggraph-2026",
       "type": "image",
-      "src": "pipeline/media/movies-hybrid-set-switchx.jpg"
+      "src": "pipeline/media/movies-siggraph-2026.jpg"
     },
     {
-      "id": "movies-catmull-genai-jury",
+      "id": "movies-eli-roth-ai",
       "type": "image",
-      "src": "pipeline/media/movies-catmull-genai-jury.jpg"
+      "src": "pipeline/media/movies-eli-roth-ai.jpg"
     }
   ]
 }

@@ -1,153 +1,243 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "section": "gadgets",
-  "now_iso": "2026-08-06T22:05:00Z",
+  "now_iso": "2026-08-07T22:04:16Z",
   "window_hours": 336,
   "items": [
     {
       "category": "gadgets",
-      "title": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
-      "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
-      "source": "Engadget",
-      "published_iso": "2026-08-06T21:50:00Z",
-      "excerpt": "OpenAI's first hardware device is a ring/doughnut-shaped, hockey-puck-sized screenless smart speaker designed with Jony Ive, priced at $300-$400. It is battery-powered and portable, with a camera and sensors feeding it context about its environment.",
-      "og_image": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/intro-1786052707.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300",
-      "url": "https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/",
-      "source": "MacRumors",
-      "published_iso": "2026-08-06T21:00:00Z",
-      "excerpt": "OpenAI's doughnut-shaped ChatGPT speaker will use moving mechanical components to signal that it is responding and lights to show it is listening — an interaction model built around presence rather than a screen.",
-      "og_image": "https://images.macrumors.com/t/D_yG89mjqSV8dvZtssQh55_-Gek=/400x0/article-new/2026/05/OpenAI-vs-Apple-Feature-scaled.jpg?lossy",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "OpenAI's First Devices: Speaker, Smartphone, and More",
-      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
-      "source": "MacRumors",
-      "published_iso": "2026-07-29T01:00:00Z",
-      "excerpt": "A roadmap roundup of OpenAI's hardware lineup: a portable AI smart speaker in early 2027, an 'AI agent phone' targeting mid-2027, and smart glasses further out — a device family where agents replace apps.",
-      "og_image": "https://images.macrumors.com/t/huUx-Iu23YAiObaTFyeNpm8Wi3g=/400x0/article-new/2026/05/OpenAI-Smartphone-Feature.jpg?lossy",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "That AI wearable you don't like just got worse",
-      "url": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/",
-      "source": "Engadget",
-      "published_iso": "2026-07-30T21:34:00Z",
-      "excerpt": "Friend's second-gen AI pendant adds a speaker and doubles the price to $249, keeping an always-on microphone and adding a $10/month subscription for memory retention beyond 30 days.",
-      "og_image": "https://www.engadget.com/img/gallery/that-ai-wearable-you-dont-like-just-got-worse/intro-1785447171.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "Meta Ray-Ban smart glasses are getting smarter with a significant AI model upgrade",
-      "url": "https://www.androidauthority.com/meta-ray-ban-display-muse-spark-3692414/",
-      "source": "Android Authority",
-      "published_iso": "2026-07-29T11:26:00Z",
-      "excerpt": "Meta's v127 update brings the Muse Spark model to Ray-Ban Display, plus Neural Handwriting — writing prompts with a finger on any flat surface via the Neural Band — and Threads/Instagram voice interactions.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display-2.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "The Company Behind Ugly Gold Phones Is Now Making Ugly Gold Smart Glasses",
-      "url": "https://gizmodo.com/the-company-behind-ugly-gold-phones-is-now-making-ugly-gold-smart-glasses-2000795594",
-      "source": "Gizmodo",
-      "published_iso": "2026-08-06T20:20:00Z",
-      "excerpt": "Luxury customizer Caviar unveiled 'Odyssey,' a $6,840 24-karat gold-plated Ray-Ban Meta AI glasses limited to 24 pieces — AI eyewear treated as a fashion object rather than a gadget.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/caviar.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "Viture's New XR Glasses Are Sharper, Brighter, and Way Less Expensive",
-      "url": "https://gizmodo.com/vitures-new-xr-glasses-are-sharper-brighter-and-way-less-expensive-2000794771",
-      "source": "Gizmodo",
-      "published_iso": "2026-08-06T13:00:00Z",
-      "excerpt": "Viture's Pro 2 XR glasses drop to $299 while getting sharper, brighter and roughly 20% lighter than the previous generation — pushing wearable displays toward everyday price and comfort.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/viture-pro-2.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "The Viral 'Antizuck' App Makes Spotting Smart Glasses Easy (and Potentially Pointless)",
-      "url": "https://gizmodo.com/the-viral-smart-glasses-sniffing-app-is-informative-but-anticlimactic-2000794504",
-      "source": "Gizmodo",
-      "published_iso": "2026-08-05T14:50:00Z",
-      "excerpt": "A $3 iOS app uses Bluetooth signatures to detect nearby camera-equipped smart glasses, an emerging counter-design response to always-on AI eyewear in public space.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-Review-03.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "Another huge Pixel Watch 5 leak showcases everything from design to health features",
-      "url": "https://www.androidauthority.com/pixel-watch-5-leak-design-health-features-3695089/",
-      "source": "Android Authority",
-      "published_iso": "2026-08-06T02:38:00Z",
-      "excerpt": "Leaked marketing materials show the Pixel Watch 5 leading with 'Ask Gemini' plus Fitbit's Personal Health Coach, heart-health, sleep, SpO2 and cardio-load tracking ahead of the August 12 launch.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Pixel-Watch-4-FishCat-Face-scaled.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "Pixel Watch 5 specs leak reveals what's new: 'Accelerated' chip, 2nd-gen Active Band, more",
-      "url": "https://9to5google.com/2026/08/04/pixel-watch-5-specs-leak-2/",
-      "source": "9to5Google",
-      "published_iso": "2026-08-04T14:46:00Z",
-      "excerpt": "The Pixel Watch 5 is said to move to a Snapdragon W5 Gen 2 'Accelerated' chip with more RAM and 64GB storage — headroom aimed squarely at on-device Gemini experiences on the wrist.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-Watch-5-leak-cover-Blass.jpg?quality=82&strip=all&w=1600",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "I hope Galaxy Z Flip 8 isn't the last of its kind, but I can see why it might",
-      "url": "https://9to5google.com/2026/08/06/samsung-galaxy-z-flip-8/",
-      "source": "9to5Google",
-      "published_iso": "2026-08-06T18:30:00Z",
-      "excerpt": "The Z Flip 8's redesigned FlexWindow brings Gemini Intelligence and Now Brief to the cover screen, but app restrictions limit how far the glanceable, unfold-free AI interaction model actually goes.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-01.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-      "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-      "source": "9to5Mac",
-      "published_iso": "2026-08-06T19:51:00Z",
-      "excerpt": "iOS 27 extends GymKit beyond the Apple Watch, letting iPhone plus AirPods Pro 3 tap gym equipment for real-time metrics — sensing moves off the wrist and into the ears.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "gadgets",
-      "title": "Two new affordable smartwatches launch with aluminum alloy cases",
-      "url": "https://www.notebookcheck.net/Two-new-affordable-smartwatches-launch-with-aluminum-alloy-cases.1361346.0.html",
+      "title": "Sweekar AI Pocket Pet is a Tamagotchi that physically grows, learns, and remembers",
+      "url": "https://www.notebookcheck.net/Sweekar-AI-Pocket-Pet-is-a-Tamagotchi-that-physically-grows-learns-and-remembers.1357233.0.html",
       "source": "Notebookcheck",
-      "published_iso": "2026-08-06T13:15:00Z",
-      "excerpt": "Rollme launched the AI Watch 2 and AI Watch 3 at $39.99 each, bundling AI chat access and WhatsApp/Telegram quick replies — AI assistants arriving at the bottom of the wearable price ladder.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rollme-AI-Watch-2-and-3.png",
+      "published_iso": "2026-07-31T19:25:00+02:00",
+      "excerpt": "Takway's Sweekar revives the Tamagotchi as an LLM-backed pocket companion whose physical shell actually grows as the AI pet develops. It keeps persistent memory of its owner, pushing companion-gadget design past screen-only virtual pets.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/sweekar-companion.jpg",
       "freshness": "FRESH"
     },
     {
       "category": "gadgets",
-      "title": "Asus releases Chromebook CX15 bundle with Google AI Pro and 5 TB cloud storage",
-      "url": "https://www.notebookcheck.net/Asus-releases-Chromebook-CX15-bundle-with-Google-AI-Pro-and-5-TB-cloud-storage.1361320.0.html",
+      "title": "Seeed Studio reComputer Mini J5011 launches: Edge AI mini PC with 200 TOPS and 10 GbE",
+      "url": "https://www.notebookcheck.net/Seeed-Studio-reComputer-Mini-J5011-launches-Edge-AI-mini-PC-with-200-TOPS-and-10-GbE.1360654.0.html",
       "source": "Notebookcheck",
-      "published_iso": "2026-08-06T13:51:00Z",
-      "excerpt": "Asus is now selling the Chromebook CX15 with a three-month Google AI Pro membership including Gemini Advanced and 5TB of storage — AI subscriptions becoming part of the hardware spec sheet.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Asus-Chromebook-CX1517.png",
+      "published_iso": "2026-08-05T13:58:00+02:00",
+      "excerpt": "Seeed's compact industrial box packs an NVIDIA Jetson module delivering 200 TOPS with 10 GbE networking. It is aimed at local inference workloads that designers of camera- and sensor-driven products increasingly need to run on-site rather than in the cloud.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/minij5011.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Lenovo releases new 14-inch laptop globally with Snapdragon X2 and over 33 hours battery life",
+      "url": "https://www.notebookcheck.net/Lenovo-releases-new-14-inch-laptop-globally-with-Snapdragon-X2-and-over-33-hours-battery-life.1360398.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-08-06T00:34:00+02:00",
+      "excerpt": "Lenovo's IdeaPad 5 2-in-1 14Q8Y11 goes global on Qualcomm's Snapdragon X2 platform with dual SSD slots and 33+ hours of battery in a 1.4 kg chassis. Arm-based Copilot+ machines are now shipping mainstream battery numbers, not just NPU spec sheets.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ideapad-5x-14inch-snapdragon-global-release-kv.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Google built a portable AI translator that works offline, and you can build one too",
+      "url": "https://www.androidauthority.com/google-offline-ai-translator-gemma-4-3695674/",
+      "source": "Android Authority",
+      "published_iso": "2026-08-07T07:04:46+00:00",
+      "excerpt": "Google engineers ran Gemma 4 E4B on a Raspberry Pi inside a 3D-printed housing to make a fully offline AI translator. It is a working reference for how small on-device models let hardware makers ship AI features with no cloud dependency.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/gemma-translator-featured-image.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "This robot vacuum cleaner comes with dual RGB cameras and a self-cleaning mop",
+      "url": "https://www.androidauthority.com/narwal-freo-20-robot-vacuum-3695116/",
+      "source": "Android Authority",
+      "published_iso": "2026-08-06T07:04:43+00:00",
+      "excerpt": "Narwal's Freo 20 adds two RGB cameras with live video monitoring plus a self-cleaning mop, folding home-security framing into the vacuum category. Camera-first home robots raise fresh privacy and interaction-design questions.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/narwal-freo-20-image-3.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Google Home kicks off August with big app updates and a smarter Gemini for Home",
+      "url": "https://www.androidauthority.com/google-home-update-august-5-2026-3695072/",
+      "source": "Android Authority",
+      "published_iso": "2026-08-06T03:20:24+00:00",
+      "excerpt": "Google Home's August drop brings AI Storytelling, more reliable Gemini-driven alarms and timers, and broad app refinements. It is the clearest sign yet that the smart-home control surface is being rebuilt around a conversational assistant.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Asus Zenbook A14 (2026) Review: A Snapdragon Scorcher With a Marathon Battery",
+      "url": "https://www.pcmag.com/reviews/asus-zenbook-a14-2026",
+      "source": "PCMag",
+      "published_iso": "2026-08-07T10:00:00+00:00",
+      "excerpt": "PCMag finds the Snapdragon-powered Zenbook A14 pairs strong performance and an OLED panel with well over 30 hours of battery. Arm AI PCs are now credible primary machines for mobile creative work.",
+      "og_image": "https://i.pcmag.com/imagery/reviews/055RM0cPo0f7Y4a2sfP4nng-6-hero-image-gallery.fit_lim.size_1200x630.v1784574549.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "The Best Smart Glasses We've Tested for 2026",
+      "url": "https://www.pcmag.com/picks/the-best-smart-glasses",
+      "source": "PCMag",
+      "published_iso": "2026-08-07T14:18:57+00:00",
+      "excerpt": "PCMag's refreshed roundup sorts the 2026 field into camera glasses, audio glasses and AR display models after hands-on testing. It maps where each form factor's interaction model actually works today.",
+      "og_image": "https://i.pcmag.com/imagery/roundups/06JbOb5326HQb5bU3nxwcvF-5.fit_lim.size_1200x630.v1702481835.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "GMKtec EVO-T2S review: Panther Lake raises the bar for mini PCs",
+      "url": "https://www.pcworld.com/article/3202855/gmktec-evo-t2s-review.html",
+      "source": "PCWorld",
+      "published_iso": "2026-08-07T13:00:00+00:00",
+      "excerpt": "The GMKtec EVO-T2S puts Intel's new Panther Lake CPU and Arc B390 graphics into a compact mini-PC tested with 64GB of RAM. It shows how much local AI and graphics headroom now fits in a desk-side box without a discrete GPU.",
+      "og_image": "https://www.pcworld.com/wp-content/uploads/2026/08/3202855-0-28073700-1786116395-Test-GMKtec-EVO-T2S.png?w=1024",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "I let Mammotion's first pool robot clean my pool. Here's how it went",
+      "url": "https://www.pcworld.com/article/3205080/mammotion-spino-e1-review.html",
+      "source": "PCWorld",
+      "published_iso": "2026-08-07T15:30:00+00:00",
+      "excerpt": "Mammotion's Spino E1 cleans floors, walls and waterline well but lacks the smart features its robot-mower siblings have. The review exposes where autonomous home robots still fall short of their app-driven promises.",
+      "og_image": "https://www.pcworld.com/wp-content/uploads/2026/08/3205080-0-37948800-1786116637-Test-Mammotion-Spino-E1.png?w=1024",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "The FCC just changed the rules for robot vacuums. Here's what it means for yours",
+      "url": "https://www.pcworld.com/article/3203877/the-fcc-just-changed-the-rules-for-robot-vacuums-heres-what-it-means-for-yours.html",
+      "source": "PCWorld",
+      "published_iso": "2026-08-07T15:24:40+00:00",
+      "excerpt": "New US restrictions on advanced connected robots will shape which robot vacuums can ship and what sensors they carry. Hardware teams building camera- and lidar-heavy home robots now have a regulatory constraint to design around.",
+      "og_image": "https://www.pcworld.com/wp-content/uploads/2026/08/3203877-0-39256300-1786116297-Xiaomi-Robot-Vacuum-5-Pro-05.jpeg?quality=50&strip=all&w=1024",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Caviar just gave Meta's smart glasses the gold treatment but forgot to make it pretty",
+      "url": "https://www.digitaltrends.com/wearables/caviar-just-gave-metas-smart-glasses-the-gold-treatment-but-forgot-to-make-it-pretty/",
+      "source": "Digital Trends",
+      "published_iso": "2026-08-07T05:51:05-07:00",
+      "excerpt": "Caviar's $6,840 Ray-Ban Meta build adds 24-karat gold accents and an alligator leather case. It is a blunt test of whether luxury material design can carry an AI wearable, or just weighs it down.",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/DT-31.jpg?resize=1200%2C630",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Gemini's revamped Wear OS design is finally rolling out, and it was worth the wait",
+      "url": "https://www.digitaltrends.com/wearables/geminis-revamped-wear-os-design-is-finally-rolling-out-and-it-was-worth-the-wait/",
+      "source": "Digital Trends",
+      "published_iso": "2026-08-06T21:53:37-07:00",
+      "excerpt": "Gemini on Wear OS drops its full-screen app for an overlay that matches the phone experience, with live transcripts and a clearer mic indicator. It is a concrete lesson in adapting assistant UI to a tiny round canvas.",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/05/Wear-OS-7-featured-image.jpg?resize=1200%2C630",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Kids' smartwatches are meant to keep children safe, but hackers can turn them into stalking devices",
+      "url": "https://www.digitaltrends.com/wearables/kids-smartwatches-are-meant-to-keep-children-safe-but-hackers-can-turn-them-into-stalking-devices/",
+      "source": "Digital Trends",
+      "published_iso": "2026-08-07T09:25:00-07:00",
+      "excerpt": "Researchers used a $30 kids' smartwatch to covertly track location, take photos and record audio, a flaw shared across dozens of GPS watch brands. Always-on sensing wearables are shipping without the security design their form factor demands.",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/kid-wearing-smartwatch.jpg?resize=1200%2C630",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Google working on AI-generated lockscreen clocks for Pixel",
+      "url": "https://9to5google.com/2026/08/06/android-ai-lockscreen-clocks/",
+      "source": "9to5Google",
+      "published_iso": "2026-08-06T22:24:55+00:00",
+      "excerpt": "Android Canary 2608 reveals AI-generated lockscreen clocks alongside customizable Quick Settings. Generative UI is moving from wallpapers into functional interface elements on the most-seen screen of the phone.",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Nothing reportedly prioritizing AI devices like its leaked smartwatch over smartphones",
+      "url": "https://9to5google.com/2026/07/31/nothing-smartwatch-audio-devices-leak-with-ai-focus/",
+      "source": "9to5Google",
+      "published_iso": "2026-07-31T15:30:38+00:00",
+      "excerpt": "Nothing is reportedly shifting its roadmap toward AI-centric wearables and audio devices, including a leaked smartwatch, ahead of new phones. A phone-first challenger brand re-centering on AI hardware signals where the category is heading.",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Nothing-2026-devices-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Google Chrome starts rolling out updated navigation bar with Gemini button on Android",
+      "url": "https://9to5google.com/2026/08/06/google-chrome-android-navigation-bar-gemini-button/",
+      "source": "9to5Google",
+      "published_iso": "2026-08-06T16:45:00+00:00",
+      "excerpt": "Chrome's mobile redesign puts a dedicated Gemini button in a dual-row navigation bar on Android and iPhone. Assistant entry points are being promoted into primary navigation, reshaping the browser's core layout.",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "I turned my phone into an AI agent powered by my local LLM, and it installed software on its own",
+      "url": "https://www.xda-developers.com/turned-phone-ai-agent-powered-local-llm-installed-software/",
+      "source": "XDA Developers",
+      "published_iso": "2026-08-07T22:00:10Z",
+      "excerpt": "Using RikkaHub Agent with a self-hosted LLM, the writer drove an Android phone from a browser and watched it install software autonomously. A hands-on look at what an agentic phone actually feels like when the model runs locally.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rikkahub-agent-1.jpg?w=1600&h=900&fit=crop",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Home Assistant's latest update makes it genuinely accessible for the first time",
+      "url": "https://www.xda-developers.com/home-assistant-2026-8-update/",
+      "source": "XDA Developers",
+      "published_iso": "2026-08-07T17:30:10Z",
+      "excerpt": "Home Assistant 2026.8 overhauls onboarding and interface accessibility, lowering the barrier for the most powerful open smart-home platform. Better defaults matter more than new integrations for mainstream adoption.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/home-assistant-hold-2026-08-update.jpg?w=1600&h=900&fit=crop",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "The next age of LLMs? Dev gets a small LLM running at 10 tokens a second locally on a $10 microcontroller",
+      "url": "https://www.techradar.com/pro/the-next-age-of-llms-dev-gets-a-small-llm-running-at-10-tokens-a-second-locally-on-a-usd10-microcontroller",
+      "source": "TechRadar",
+      "published_iso": "2026-08-07T19:35:00Z",
+      "excerpt": "A developer ran a 28.9M-parameter model at 10 tokens per second on a sub-$10 microcontroller. If language models fit that budget, almost any connected object becomes a plausible AI interface.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XJxYihidzczXcGX9g2rsNn-1920-80.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Keen to get Alexa+ but don't have the necessary hardware? These are the 9 Amazon devices we recommend",
+      "url": "https://www.techradar.com/ai-platforms-assistants/keen-to-get-alexa-but-dont-have-the-necessary-hardware-these-are-the-9-amazon-devices-we-recommend-to-get-you-up-and-running",
+      "source": "TechRadar",
+      "published_iso": "2026-08-07T01:43:43Z",
+      "excerpt": "TechRadar maps which nine Echo speakers, displays and hubs actually support Alexa+, from bedside speakers to screen-toting home hubs. The assistant upgrade is gated by hardware, splitting the installed base.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iQutxWkkg3rLEXqBFAhMFN-2560-80.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "The HP EliteBook X G2i is the AI laptop built to move as fast as your business",
+      "url": "https://www.tomsguide.com/computing/laptops/the-hp-elitebook-x-g2i-is-the-ai-laptop-built-to-move-as-fast-as-your-business-and-then-some",
+      "source": "Tom's Guide",
+      "published_iso": "2026-08-07T16:20:37Z",
+      "excerpt": "HP's EliteBook X G2i leans on Copilot+ NPU features for mobile professional work. It is a look at how enterprise laptop design is being reorganized around local AI acceleration.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZEpyFb29fmzxaZHHBVzq8G-1999-80.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "gadgets",
+      "title": "Apple is Reportedly Eyeing Fitness as the Killer App for Future Smart Glasses",
+      "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
+      "source": "Road to VR",
+      "published_iso": "2026-08-04T12:09:26+00:00",
+      "excerpt": "Bloomberg's Mark Gurman reports Apple wants fitness at the center of its future smart glasses, even though the first generation will skip fitness tracking. It hints at the use case Apple thinks will justify a face-worn AI device.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/apple-glasses-fitness.jpg",
       "freshness": "FRESH"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 23,
     "against_days": 5
   }
 }

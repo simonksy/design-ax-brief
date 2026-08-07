@@ -1,93 +1,124 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "section": "games",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/",
-      "source": "GamesRadar+",
+      "url": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-08-06T20:00:36Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/umZkVR6nq6NmtKLHanmrFU-1920-80.jpg",
-      "title": "Google AI leaks \"scarily accurate and very specific\" game detail from private documents, says indie dev",
-      "excerpt": "An indie dev says Google's AI surfaced an unannounced project name that existed only in their private documents. A hard question for any studio piping design docs through cloud AI tooling."
+      "published_iso": "2026-08-07T13:19:46Z",
+      "og_image": "https://assetsio.gnwcdn.com/skyrim-modding-ai-feature-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A long-form report on how generative AI is reshaping the Skyrim modding scene — from AI-voiced followers to slop uploads — and why mod host sites are struggling to build tagging and disclosure systems that keep the community's trust. Modders, players and site operators describe a transparency problem that existing UGC moderation tools were never designed for."
     },
     {
-      "url": "https://wccftech.com/nvidia-rtx-neural-texture-compression-sdk-arm64/",
-      "source": "Wccftech",
+      "url": "https://www.rockpapershotgun.com/nexus-mods-update-their-generative-ai-made-mod-tagging-policy-dividing-one-label-into-three-for-more-specific-search-filtering",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-08-06T10:41:34+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/RTX-SPark-6.jpg",
-      "title": "NVIDIA releases its RTX Neural Texture Compression SDK for the ARM64 platform",
-      "excerpt": "NVIDIA shipped its RTX Neural Texture Compression SDK for ARM64 ahead of RTX Spark laptops, letting developers keep high-res texture detail at a fraction of the VRAM. Neural asset compression moves into shipping art pipelines."
+      "published_iso": "2026-07-31T15:18:18Z",
+      "og_image": "https://assetsio.gnwcdn.com/nexus-mods-logo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Nexus Mods has split its single 'made with generative AI' tag into three more specific labels so users can filter by how AI was actually used in a mod. It is one of the first concrete attempts by a major UGC platform to turn AI disclosure into a usable search and curation primitive rather than a blanket warning."
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-07-31T15:46:26Z",
+      "og_image": "",
+      "excerpt": "PC Gamer's read on the Nexus Mods AI tagging overhaul: the new three-tier labelling is a step up from a single catch-all tag, but the policy still leaves the largest mod repository outmatched by the volume of AI-generated uploads. A case study in how creative platforms write AI provenance rules under pressure."
+    },
+    {
+      "url": "https://www.pcgamer.com/games/how-do-you-feel-about-ai-videogame-music/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-07-26T17:00:00Z",
+      "og_image": "",
+      "excerpt": "PC Gamer's staff and readers debate AI-generated game soundtracks after a run of AI music controversies in games marketing. The piece maps where players draw the line between AI as a scoring assistant and AI as a replacement for composers — useful signal for any team weighing generative audio in a shipped product."
+    },
+    {
+      "url": "https://www.pcgamer.com/games/fps/i-was-excited-for-this-quake-port-of-half-life-until-i-discovered-the-creators-wild-ai-conspiracy-theories/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-08-01T11:00:00Z",
+      "og_image": "",
+      "excerpt": "A promising fan-made Quake-engine port of Half-Life ran aground on its creator's AI beliefs, showing how quickly AI positioning now becomes part of a project's reception. Another datapoint in the growing pattern of hobbyist ports and recompilations being judged on their AI stance before their craft."
+    },
+    {
+      "url": "https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-08-03T13:47:44Z",
+      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-08-03-144429.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Reforged Labs, which built generative AI creative tooling for game marketing, is shutting down because \"the gap we were selling into is closing\" — general-purpose models now do most of what its product did. A cautionary signal for anyone building a thin creative-AI layer on top of frontier models."
+    },
+    {
+      "url": "https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-08-07T08:02:24Z",
+      "og_image": "https://assetsio.gnwcdn.com/unity-logo_jGNSomu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Unity posted its best quarter ever, driven by its Vector AI ad and user-acquisition platform, with Grow Solutions revenue up 35% to $389 million. The result shows where Unity's AI money is actually coming from — the ad stack, not the editor tooling creators are being sold on."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/production/what-devs-need-to-know-about-localization-ft-concha-fernandez-alvarez-aurelie-perrin-and-guido-di-carlo",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-08-07T14:30:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt471aa5e7ac414ee1/6a74f248469e8f2ddf53e672/localization.png",
+      "excerpt": "Three veteran game localizers explain how to work with loc teams — and push back on the claim that they can simply be replaced by generative AI or machine translation. A practical look at where LLM translation actually breaks in games: context, culturalization, and the hand-off with design."
+    },
+    {
+      "url": "https://80.lv/articles/anishort-unifies-scriptwriting-storyboarding-video-generation-in-one-workflow",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-07-29T14:00:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49379/images/6a692d3652c1f/contain_1200x630.jpg",
+      "excerpt": "AniShort folds scripting, storyboards, character management, AI video generation, editing and rendering into a single browser-based pipeline. It is an argument that the win from generative AI is not the clip generator but the unified authoring workflow around it."
+    },
+    {
+      "url": "https://80.lv/articles/check-out-this-procedural-monster-generator-tool-made-for-pixel-style-game",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-07-27T08:07:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49472/images/6a6711cd912e4/contain_1200x630.jpg",
+      "excerpt": "The developer of Critter Crosser built a procedural monster generator that assembles endlessly varied pixel-art creatures from authored parts, so no two monsters are alike. A reminder that hand-designed procedural systems still beat prompt-based generation for art-directed consistency."
+    },
+    {
+      "url": "https://80.lv/articles/how-don-t-lose-aggro-reimagines-mmo-tanking-as-a-solo-roguelite",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-07-31T06:49:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49552/images/6a6c42c80f7c3/contain_1200x630.jpg",
+      "excerpt": "The solo dev behind Don't Lose Aggro breaks down building readable threat systems and AI companions that make MMO tanking work in a single-player roguelite. A design-craft counterpoint to LLM-NPC hype: legible, authored game AI as the actual player-facing feature."
     },
     {
       "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
       "source": "NVIDIA Blog",
       "category": "games",
-      "published_iso": "2026-08-06T13:00:00+00:00",
+      "published_iso": "2026-08-06T13:00:00Z",
       "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg",
-      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-      "excerpt": "NVIDIA lays out how downloadable, inspectable open world models are becoming the substrate for simulated 3D environments in Omniverse. The same world-model stack now underwriting generative game worlds."
+      "excerpt": "NVIDIA makes the case for open, downloadable world models in Omniverse — models teams can inspect, fine-tune and run on their own infrastructure to build simulated 3D worlds. The same world-model stack now being pitched at games and virtual production, framed as an openness argument rather than a demo reel."
     },
     {
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "source": "TechCrunch",
+      "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
+      "source": "GameSpot",
       "category": "games",
-      "published_iso": "2026-08-03T19:28:57+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "excerpt": "Founders who tried to build an AI game engine found the models could make functional games that were never fun — so they built Design Arena, now 5.3M users strong, to feed human taste judgments back to frontier labs."
+      "published_iso": "2026-08-07T18:35:00Z",
+      "og_image": "",
+      "excerpt": "Take-Two boss Strauss Zelnick says AI tools \"aren't going to replace anyone\" at the GTA 6 publisher, positioning AI as an accelerant for developers rather than a headcount play. Notable because it lands the same week Take-Two's president dismissed AI world builders as non-substitutes for game engines."
     },
     {
-      "url": "https://www.youtube.com/watch?v=ogppHmJO02I",
-      "source": "Unreal Engine (YouTube)",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
+      "source": "Eurogamer",
       "category": "games",
-      "published_iso": "2026-08-05T07:00:16-07:00",
-      "og_image": "https://i.ytimg.com/vi/ogppHmJO02I/maxresdefault.jpg",
-      "title": "Ethical Usage of Image and Video Models to Accelerate Workflows | Unreal Fest Chicago 2026",
-      "excerpt": "An Unreal Fest Chicago 2026 session on folding Tripo 3.1, Nano Banana and ChatGPT Images 2.0 into an art production pipeline without wrecking authorship. A practical ethics-plus-workflow talk for game art teams."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=lDf_y-YPELo",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
-      "published_iso": "2026-08-03T07:00:14-07:00",
-      "og_image": "https://i.ytimg.com/vi/lDf_y-YPELo/maxresdefault.jpg",
-      "title": "From Words to Worlds: Integrating MCP into the Unreal Editor | Unreal Fest Chicago 2026",
-      "excerpt": "Unreal Engine 5.8 ships an official Model Context Protocol integration plus new PCG spatial primitives, letting models like Claude operate inside the editor on Blueprints, levels, materials and meshes while everything stays editable."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=IsbgHRa5N3A",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
-      "published_iso": "2026-08-03T09:00:36-07:00",
-      "og_image": "https://i.ytimg.com/vi/IsbgHRa5N3A/maxresdefault.jpg",
-      "title": "MetaHuman in 2026: Five Years In, What's Next? | Unreal Fest Chicago 2026",
-      "excerpt": "Epic traces MetaHuman's shift from experiment to production standard for digital humans across games, film and real-time work, and sketches where the ML-driven animation and creator tooling go next."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "source": "Two Minute Papers (YouTube)",
-      "category": "games",
-      "published_iso": "2026-08-02T08:01:10-07:00",
-      "og_image": "https://i.ytimg.com/vi/8B05cy3UuSE/maxresdefault.jpg",
-      "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-      "excerpt": "A walkthrough of NVIDIA-backed research on human-interaction motion learning that goes beyond imitating mocap clips — the kind of learned motion work that feeds real-time character animation in games."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=naXXD0U9hYQ",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-07-28T07:56:04-07:00",
-      "og_image": "https://i.ytimg.com/vi/naXXD0U9hYQ/maxresdefault.jpg",
-      "title": "Opening Unity to everyone - one API, every role",
-      "excerpt": "Unity is opening the Editor beyond the Editor: one API and a set of services so every role — and every agent or script — can drive the same project surface. Groundwork for AI-assisted pipelines around Unity 7."
+      "published_iso": "2026-07-27T13:57:55Z",
+      "og_image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "With no new GTA 6 trailer, AI-generated fake gameplay and trailers are racking up millions of views across TikTok and Instagram. Generative video is now filling the vacuum in a game's marketing narrative — a real problem for how studios control their own visual identity pre-launch."
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 9,
+    "dropped": 0,
+    "kept": 14,
     "against_days": 5
   }
 }

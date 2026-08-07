@@ -1,70 +1,55 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
+  "section": "music",
+  "now_iso": "2026-08-07T22:04:16Z",
   "window_hours": 336,
+  "count": 18,
+  "note": "Music section, 14-day window (336h). WebSearch with site: filters returned mostly SEO listicles, so collection was done by direct RSS/sitemap/index harvesting of the section's allowed_domains (musictech, musicradar, soundonsound, cdm.link, attackmagazine, synthtopia, bedroomproducersblog, gearnews, musically, completemusicupdate, hypebot latest RSS, midiaresearch, digitalmusicnews, musicbusinessworldwide, djmag, mixmag, pitchfork, billboard, theverge, engadget, techcrunch) plus Google News RSS used ONLY as a discovery index, with results filtered down to allowed domains. Every published time was read from og article:published_time / JSON-LD datePublished / <time datetime> on the article page itself and gated with pipeline/freshness.py (music = 336h). All 24 URLs already published in news_data.json sections.music (Suno watermark/download policy, Musixmatch Sentinel, Symphonic MusicShield, Ye/Bully lawsuit, Sylvan Esso studio, SoundBoost, Charli XCX Concatenator, GEMA v Suno, Sony v Udio, AFM suit, OMNi DAW, Sonarworks VoiceAI, Artist Growth MCP, ToneField, I Am Choir, Push Hack, Spotify x Merlin, Suno vinyl, EU AI Act, KOMCA, chart-eligibility rules, CDM anti-AI music, sound-free concert, Fenix Flexin musically piece) were excluded before fetching. Business/rights-only stories (GEMA/Udio/AFM litigation, WMG earnings, Fish Audio funding round, SOCAN deals) were dropped per the design-relevance test. Outlet spread: musicradar 3, musicbusinessworldwide 3, musictech 2, digitalmusicnews 2, hypebot 2, gearnews 1, midiaresearch 1, musically 1, pitchfork 1, theverge 1, youtube/ElevenLabs 1 (11 outlets, per-source cap <=3 respected). Dropped for staleness by the gate: Tunary SILT generative instrument (synthtopia, 2026-07-24, 338h), zplane Peel Stems 2 (2026-07-13), Melosurf voice-controlled Ableton assistant (2025-11-18), Celemony Tonalic (2026-01-16), gearnews Claude x Ableton (2026-05-04), LANDR Blueprints (2026-01-22), djmag Melo-D generative AI guitar (2026-06-10). Note: window_hours('2026-08-07T22:04:16Z') returns 72 (design default); music section window is 336h (window_hours(now,'music')) and is used here.",
   "items": [
     {
-      "url": "https://www.digitalmusicnews.com/2026/08/06/suno-changes-2026/",
+      "url": "https://www.gearnews.com/deadmau5s-auto-pilot-dj/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-08-06T20:00:00+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/autopilot-deadmau5-ft.jpg",
+      "title": "deadmau5's AUTO/PILOT Just Landed in Public Beta: A New Power Tool for DJs and Live Performers?",
+      "excerpt": "deadmau5 has pushed his AUTO/PILOT DJ and live-performance platform into public beta, pitching an assisted, stem-aware performance rig rather than a conventional deck layout. It puts an artist-built AI performance tool in front of working DJs for the first time."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
       "source": "Digital Music News",
       "category": "music",
-      "published_iso": "2026-08-06T14:48:25+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Suno-New-Policies.webp",
-      "excerpt": "Suno unveiled a new downloads policy, output watermarking/fingerprinting, clearer community guidelines and 'transparency tools' for identifying AI tracks. The changes restrict mass distribution of Suno songs to streaming platforms while preserving pro and personal use."
+      "published_iso": "2026-07-29T18:37:21+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/google-flow-music-gets-song-creation-editing-stem-splitting.png",
+      "title": "Can Google Build the All-in-One AI Music Studio?",
+      "excerpt": "Google's Flow Music Spaces update folds song generation, editing, stem splitting and video creation into a single AI workspace. It moves Google from a prompt-to-song toy toward something producers could treat as a session environment."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/07/29/ai-agents-music-industry-pibox/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-07-29T23:00:38+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/Pibox_article_hero-3-scaled.png",
-      "excerpt": "AI agents are quietly automating music companies' back office in 2026 — from delivery QC and metadata to A&R and trend monitoring. The piece separates what is actually shipping from vendor hype."
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/07/24/gema-plai-launch/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-07-24T23:29:56+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/Karlsruhe.jpg",
-      "excerpt": "Germany's GEMA has launched PLAI, a fully cleared music dataset and licensing system built for AI developers. It gives model builders a legal training corpus with remuneration for the creators behind it."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/suno-first-customer-of-musixmatchs-sentinel-which-screens-ai-prompts-and-outputs-for-copyrighted-material/",
+      "url": "https://www.musicbusinessworldwide.com/watch-out-suno-google-has-upgraded-lyria/",
       "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-08-06T12:36:54+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/sentinel-social-sharing-img-1200x630-1.jpg",
-      "excerpt": "Suno is the first customer of Musixmatch's Sentinel, which screens AI prompts and generated outputs for copyrighted compositions, lyrics and music. Prompt-level filtering becomes part of the generation pipeline itself."
+      "published_iso": "2026-07-30T11:10:44+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/07/images-1.jpeg",
+      "title": "Watch out, Suno: Google upgrades Lyria AI with 'more realistic vocals'",
+      "excerpt": "Google DeepMind's upgraded Lyria model rolls out inside Flow Music with structural awareness of verse/chorus/bridge, more expressive vocals and finer tempo and duration control. The vocal and arrangement gains are the part that changes what creators can actually use."
     },
     {
-      "url": "https://www.musicbusinessworldwide.com/the-eu-ai-acts-rules-on-ai-content-labeling-and-training-are-now-law-heres-what-they-mean-for-the-music-business/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-08-04T17:14:21+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/MBW-Explains-22.jpg",
-      "excerpt": "The EU AI Act's rules requiring AI-generated content to be labeled took effect on August 2 and are now enforceable. MBW breaks down what the labeling and training-transparency duties mean for anyone shipping AI-made music."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-trying-to-guess-the-ai-recipe-after-dinner-was-served/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-08-06T18:06:28+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/MBW-Views-Andreea.jpg",
-      "excerpt": "Former TuneCore CEO Andreea Gleeson argues the music business is reverse-engineering an AI strategy after the fact. An op-ed on how creators and companies should position around generative tools now."
-    },
-    {
-      "url": "https://musictech.com/news/industry/suno-ai-responsible-human/",
+      "url": "https://musictech.com/guides/buyers-guide/best-stem-separation-tools/",
       "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-08-06T14:45:11+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/02/suno-phone-logo@2000x1500-1068x801.jpg",
-      "excerpt": "Suno CEO Mikey Shulman defends the platform as 'responsible' as it rolls out new transparency tools that make AI-generated songs easier to detect across platforms. Framed as building the future of music responsibly."
+      "published_iso": "2026-07-29T04:00:26+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2025/07/Stem-Separation-guide-update-hero-credit-press@2000x1500-1068x801.jpg",
+      "title": "I tested 9 of the best stem separation tools. Here's how they compare",
+      "excerpt": "MusicTech runs nine AI stem separation tools through the same material to compare artefacts, speed and DAW integration. A practical map of which unmixing model to trust for remix, sampling and live work."
     },
     {
-      "url": "https://www.musicradar.com/artists/singers-songwriters/the-artists-that-are-against-it-youve-got-to-be-careful-because-its-going-to-come-and-swallow-you-like-the-boogie-monster-at-night-empire-of-the-suns-luke-steele-says-of-course-he-uses-ai",
+      "url": "https://www.musicradar.com/music-tech/beatbox-your-ideas-into-reality-with-vochleas-dubbox-an-app-that-converts-your-voice-into-drum-loops",
       "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-08-04T10:48:59Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/SQZsrwwMbxrnenxP6bF7PQ-1389-80.jpg",
-      "excerpt": "Empire Of The Sun's Luke Steele says 'of course' he uses AI in his process and warns artists who reject it outright. A working-artist view on where AI sits inside a real production workflow."
+      "published_iso": "2026-07-28T16:06:48Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/U3ZMS6JnHPWtMEZuABsvTG-1200-80.jpg",
+      "title": "Beatbox your ideas into reality with Vochlea's DubBox, an app that converts your voice into drum loops",
+      "excerpt": "Vochlea's DubBox listens to beatboxing and turns it into a finished drum loop, using voice as the input device instead of pads or a grid. It is a small but concrete shift in how an idea gets from a producer's head into a session."
     },
     {
       "url": "https://www.musicradar.com/guitars/fender-ceo-clarifies-controversial-ai-comments",
@@ -72,68 +57,121 @@
       "category": "music",
       "published_iso": "2026-08-06T14:06:05Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/xZzZPbMWojwm83zwLhYMaW-1920-80.jpg",
-      "excerpt": "Fender CEO Bud Cole walks back comments likening cover songs to 'analogue AI', but still argues AI can help players learn and grow. An instrument-maker's stance on AI as a practice and learning tool."
+      "title": "Fender CEO clarifies his controversial comments comparing cover songs to AI",
+      "excerpt": "Edward 'Bud' Cole walks back his description of cover music as 'analogue AI' after musicians pushed back, while still arguing AI can help players learn. A live argument about where imitation ends and authorship begins for instrument makers."
     },
     {
-      "url": "https://www.musicradar.com/artists/it-feels-like-the-most-us-thing-weve-ever-done-suno-isnt-coming-up-with-that-anytime-soon-sylvan-esso-on-the-making-of-ow-their-self-built-bettys-studio-and-why-they-pulled-their-music-from-spotify",
+      "url": "https://www.musicradar.com/artists/singers-songwriters/the-artists-that-are-against-it-youve-got-to-be-careful-because-its-going-to-come-and-swallow-you-like-the-boogie-monster-at-night-empire-of-the-suns-luke-steele-says-of-course-he-uses-ai",
       "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-08-06T08:59:53Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rwWdT4dRQ8nR6BXa6VTf2T-2560-80.jpg",
-      "excerpt": "Sylvan Esso on making Ow in their self-built studio, why they pulled their music from Spotify, and why 'Suno isn't coming up with that anytime soon'. A craft counter-argument to prompt-based music making."
+      "published_iso": "2026-08-04T10:48:59Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/SQZsrwwMbxrnenxP6bF7PQ-1389-80.jpg",
+      "title": "Empire Of The Sun's Luke Steele says 'of course' he uses AI",
+      "excerpt": "Luke Steele describes AI as already inside his writing process and warns artists who refuse it that it will 'swallow you'. A working-artist counterpoint to the refusal stance dominating the AI-music conversation."
     },
     {
-      "url": "https://musically.com/2026/08/06/symphonic-partners-with-artyshield-to-offer-ai-protection-platform-musicshield/",
+      "url": "https://www.musicbusinessworldwide.com/saregama-indias-oldest-label-is-using-ai-to-make-music-videos-for-songs-whose-visuals-it-never-owned-and-refresh-its-catalog-for-gen-z/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-08-05T16:45:26+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/2-IMAGES-98.jpg",
+      "title": "Saregama, India's oldest label, is using AI to make music videos for songs whose visuals it never owned",
+      "excerpt": "Saregama is generating AI music videos for catalog songs whose original visuals it never controlled, repackaging a century-old archive for Gen Z feeds. A concrete production pipeline for AI video attached to real catalog, not a demo."
+    },
+    {
+      "url": "https://www.midiaresearch.com/blog/why-have-we-yet-to-hear-an-ai-generated-hit",
+      "source": "MIDiA Research",
+      "category": "music",
+      "published_iso": "2026-08-06T17:00:00+01:00",
+      "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2643/cover_image-1786029637.jpg",
+      "title": "Why have we yet to hear an AI-generated hit?",
+      "excerpt": "MIDiA argues generative models can already produce catchy, even beautiful songs, yet none has become a genuine hit — and asks what is missing beyond raw audio quality. A useful frame for what human craft still supplies."
+    },
+    {
+      "url": "https://www.hypebot.com/quiet-riot-ozzy-bassist-rudy-sarzo-on-how-he-uses-ai/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-08-04T12:05:05Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-4-Rudy-Sarzo.jpg",
+      "title": "Quiet Riot, Ozzy bassist Rudy Sarzo on How He Uses AI",
+      "excerpt": "Rudy Sarzo details how he uses AI tools to create new music and why he sees them as instruments rather than replacements. A veteran session player's workflow account rather than a policy opinion."
+    },
+    {
+      "url": "https://www.hypebot.com/good-news-spotify-removed-75-million-ai-generated-slop-music-tracks/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-08-06T15:31:35Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-6-AI-slop.jpg",
+      "title": "Good News! Spotify Removed 75 Million AI-Generated Slop Music Tracks",
+      "excerpt": "Spotify's new filter has stripped 75 million fully AI-generated, impersonation and mass-upload tracks that were siphoning royalties. It sets a de facto quality line that creators uploading AI-assisted work now have to stay on the right side of."
+    },
+    {
+      "url": "https://musically.com/2026/07/30/startup-soundgate-launches-an-ai-tutor-for-learning-guitar/",
       "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-08-06T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-77.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Distributor Symphonic has partnered with ArtyShield to give clients free access to MusicShield, a tool designed to protect tracks from unauthorised AI use before they are released. Pre-release protection becomes a standard step in the delivery chain."
+      "published_iso": "2026-07-30T13:25:23+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-59.png",
+      "title": "Startup SoundGate launches an 'AI tutor' for learning guitar",
+      "excerpt": "SoundGate's first product is an AI-powered guitar tutor that listens to a player and coaches in real time. Music education is becoming a design surface for real-time audio models, not just generation."
     },
     {
-      "url": "https://www.engadget.com/2231870/suno-adding-audio-watermarks-ai-generated-songs-identifiable/",
-      "source": "Engadget",
-      "category": "music",
-      "published_iso": "2026-08-06T17:51:42+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/suno-is-adding-audio-watermarks-so-ai-generated-songs-are-more-easily-identifiable/l-intro-1786038411.jpg",
-      "excerpt": "Suno is adding inaudible audio watermarks so AI-generated songs can be identified downstream. The move lands amid mounting copyright litigation and platform pressure to label AI output."
-    },
-    {
-      "url": "https://djmag.com/news/daft-punks-thomas-bangalter-im-not-really-interested-creative-usage-of-ai",
-      "source": "DJ Mag",
-      "category": "music",
-      "published_iso": "2026-08-05T12:07:26+0100",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-08/thomas-bangalter-chanel-interview.jpg.webp?itok=_hhy-7yT1665013882",
-      "excerpt": "Daft Punk's Thomas Bangalter says he is 'not really interested in the creative usage of AI', in a rare sit-down interview. One of electronic music's most influential producers draws a line on where machines belong."
-    },
-    {
-      "url": "https://pitchfork.com/story/kanye-wests-vultures-ii-and-bully-used-ai-new-lawsuit-alleges/",
+      "url": "https://pitchfork.com/story/tyga-admits-to-making-new-album-dollartarface-with-ai-i-dont-care/",
       "source": "Pitchfork",
       "category": "music",
-      "published_iso": "2026-08-04T22:12:04Z",
-      "og_image": "https://media.pitchfork.com/photos/6a7262f7f2099ddd9073c842/16:9/w_1280,c_limit/Kanye-West.jpeg",
-      "excerpt": "An anonymous producer alleges in a new lawsuit that Kanye West's Vultures II and Bully used AI, and seeks compensation for uncredited work. The suit puts AI credit and disclosure inside a major-album production dispute."
+      "published_iso": "2026-08-07T16:56:42Z",
+      "og_image": "https://media.pitchfork.com/photos/6a75ff2fc6c232e0f795d1a6/16:9/w_1280,c_limit/GettyImages-2260615798.jpg",
+      "title": "Tyga Admits to Making New Album $tarface With AI: 'I Don't Care'",
+      "excerpt": "Tyga openly says he used AI across his new album and compares it to the arrival of Auto-Tune. A mainstream artist normalising generative tools as production craft rather than hiding them."
     },
     {
-      "url": "https://www.hypebot.com/i-waited-30-years-to-hear-my-songs-that-was-just-the-start/",
-      "source": "Hypebot",
+      "url": "https://musictech.com/news/industry/suno-ai-responsible-human/",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-08-06T15:11:30Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-6-JAK-oped.jpg",
-      "excerpt": "A songwriter describes how AI tools finally turned thirty years of notebook lyrics into finished recordings. A first-person account of the generative workflow from lyric to released track."
+      "published_iso": "2026-08-06T14:45:11+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/02/suno-phone-logo@2000x1500-1068x801.jpg",
+      "title": "Suno CEO insists Suno is 'responsible' and isn't going to leave people behind",
+      "excerpt": "Suno's CEO frames the platform as an extension of music's long history with technology and previews transparency tools for identifying AI-generated songs. The framing shapes how the biggest generative music tool positions itself to creators."
     },
     {
-      "url": "https://www.hypebot.com/the-era-of-unlabeled-ai-content-in-europe-is-ending/",
-      "source": "Hypebot",
+      "url": "https://www.youtube.com/watch?v=fNBNt7GxfHQ",
+      "source": "ElevenLabs (YouTube)",
       "category": "music",
-      "published_iso": "2026-08-05T12:11:04Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-4-AI-EU.jpg",
-      "excerpt": "Europe's AI transparency rules are now in force, requiring many forms of AI-generated content to be labeled. For musicians and labels it means disclosure becomes part of the release process, not an afterthought."
+      "published_iso": "2026-07-29T17:45:04Z",
+      "og_image": "https://i.ytimg.com/vi/fNBNt7GxfHQ/maxresdefault.jpg",
+      "title": "Sarah's Voice | Creating Art With Her Own Voice",
+      "excerpt": "ElevenLabs profiles Sarah, an artist living with MND who uses a model of her own voice to keep making work and speak for underrepresented communities. Voice cloning shown as authorship preservation rather than impersonation."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/07/29/ai-agents-music-industry-pibox/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-07-29T23:00:38+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/Pibox_article_hero-3-scaled.png",
+      "title": "How AI Agents Are Quietly Automating Music Companies",
+      "excerpt": "Agents are taking over delivery QC, metadata, A&R scanning and release ops inside music companies, with a sober read on what actually works. It maps which parts of a creative team's day are already being handed to software."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/what-if-ais-biggest-impact-on-music-isnt-just-what-gets-made-but-what-gets-wanted/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-08-05T17:07:03+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2025/05/MBW-Views_Sammy.jpg",
+      "title": "What if AI's biggest impact on music isn't just what gets made, but what gets wanted?",
+      "excerpt": "Sammy Andrews argues the real AI fight in music is over discovery and demand shaping, not only over who owns the output. It reframes AI as a taste-formation layer that creators design against."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "source": "The Verge",
+      "category": "music",
+      "published_iso": "2026-08-07T20:01:51+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg",
+      "title": "Fenix Flexin isn't even denying using AI to make 'Rubberz' anymore",
+      "excerpt": "The rapper's story shifts from denial to 'never said I didn't' as evidence mounts that a charting hit came out of the AI generator Treblo. The disclosure norm for AI-made records is being set in public, song by song."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 16,
+    "kept": 18,
     "against_days": 5
   }
 }

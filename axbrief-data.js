@@ -6,199 +6,125 @@
     "label": "Design",
     "news": [
       {
-        "id": "design-agent-plugins",
+        "id": "design-claude-screen-states",
         "eyebrow": "AI NEWS",
-        "headline": "스킬과 MCP를 한 묶음으로\n에이전트 플러그인 1.0.0 공개",
-        "body": "스킬과 MCP 서버를 한 폴더 규격에 담아 클라이언트마다 따로 포장할 일을 없앴다.",
+        "headline": "Claude가 만든 화면에는\n빈 상태도 오류도 없다",
+        "body": "학습 데이터가 마케팅 화면뿐이라 빈 상태와 로딩, 오류 화면이 늘 빠진다.",
         "tool": "Figma",
-        "source": "Vercel",
-        "url": "https://vercel.com/blog/introducing-agent-plugins",
+        "source": "DEV Community",
+        "url": "https://dev.to/phongdesigns/why-claude-generated-screens-are-missing-their-states-45gd",
         "accent": "#0070f3",
         "motif": "frame",
         "full": {
           "mode": "full",
           "blocks": [
             {
-              "t": "p",
-              "x": "오늘 Agent Plugins 1.0.0이 공개됐다. AI 에이전트를 확장하는 플러그인을 위한 개방형·벤더 중립 표준이다."
+              "t": "img",
+              "src": "https://phongdesigns.com/en/assets/blog/blog-69-cover.webp",
+              "cap": "Claude가 만든 화면에서 빠지는 상태들"
             },
             {
               "t": "p",
-              "x": "Agent Skills는 에이전트가 다시 쓸 수 있는 지시문과 자료를 담고, MCP 서버는 에이전트를 도구와 서비스에 연결한다. 둘 다 여러 클라이언트에서 재사용되지만 포장하고 찾아내는 방식은 클라이언트마다 제각각이었다."
+              "x": "화면을 하나 만들어 달라고 하면 그 화면이 가장 좋았던 날의 모습이 나온다. 콘텐츠는 가득 차 있고 로딩도 실패도 없다. 권한은 이미 받았고 네트워크도 멀쩡하다. 화요일 오후의 제품이 아니라 케이스 스터디 속 제품이다. 흔히 모델의 한계라고들 말하는데, 나는 좀 더 구체적인 문제라고 본다."
             },
             {
               "t": "p",
-              "x": "Agent Plugins는 호환 클라이언트에 공통 형식을 준다. plugin.json 매니페스트가 놓인 디렉터리 하나, 그리고 구성 요소가 들어갈 고정된 자리. 형식은 일부러 작게 잡았고 설치와 배포, 정책, 사용자 경험, 클라이언트 고유 기능은 각 클라이언트 몫으로 남겼다."
+              "x": "공개된 인터페이스 이미지는 거의 전부 마케팅 이미지다. 랜딩 페이지와 케이스 스터디, 갤러리에 걸린 화면 모두 골라낸 것이고 가득 차 있다. 빈 상태를 올리는 사람은 거의 없고 오류 화면을 포트폴리오에 넣는 사람은 아무도 없다. 그래서 “예약 화면”을 요청하면 만 번쯤 본 그 버전, 모든 게 잘 풀린 버전이 나온다. 실패한 게 아니라 배운 대로 돌려주는 것이다. 모자란 쪽은 모델의 능력이 아니라 세상이 굳이 찍어둔 사진이다."
             },
             {
               "t": "p",
-              "x": "확장 기능을 만드는 쪽은 같은 구성 요소를 여러 클라이언트 형식에 맞춰 다시 손봐 왔다. 밑바탕의 스킬이나 MCP 서버는 똑같은데도 클라이언트마다 최상위 메타데이터, 탐색 경로, MCP 설정을 다르게 요구했다. Agent Plugins는 그 공용 부품에 예측 가능한 자리를 하나 내준다."
+              "x": "예약 제품 하나를 보자. 기능 68개, MVP에 44개, 플로우 7개, 주요 화면 28개. 28개면 작은 프로젝트처럼 들린다. 실제 아트보드 수는 몇 배로 불어났다. 화면은 상태를 갖추기 전까지 끝난 게 아니라서다. 로딩, 빈 화면, 오류, 권한, 오프라인, 그 제품이 사용자에게 실제로 할 수 있는 모든 것. 견적이 무너지는 자리가 여기다."
             },
             {
               "t": "p",
-              "x": "매니페스트(plugin.json)에 반드시 있어야 할 값은 규격 버전과 플러그인 이름 둘뿐이다. 나머지 약속은 디렉터리 구조 자체가 대신한다. 재사용할 부품을 클라이언트마다 다시 포장하지 않도록, 규격은 클라이언트가 안을 찾아 읽는 데 필요한 것만 정의한다."
+              "x": "빈 상태는 콘텐츠를 지운 화면이 아니다. 이 사람 앞에 아직 아무것도 없다는 상황에 대한 답이다. 새로 와서인가, 필터로 다 걸러내서인가, 뭔가 실패해서인가. 세 상황, 세 메시지, 세 행동이고 그중 “첫 항목을 추가하세요”는 하나뿐이다. 오류 상태도 빨간 박스가 아니라 복구가 되는지, 입력한 내용이 날아가는지, 사용자 잘못인지를 정하는 일이다. 모델은 어느 쪽이든 그럴듯하게 그려낸다. 다만 지금 어느 상황인지는 브리프에 없으니 고르지 못하고, 묻지도 않는다."
             },
             {
               "t": "p",
-              "x": "호환 클라이언트는 모두 플러그인 루트에서 plugin.json을 확인한다. 스킬을 지원하면 skills/ 아래에서 찾고, MCP 서버를 지원하면 mcp.json에서 설정을 읽는다. 한쪽만 지원해도 되고 둘 다 지원해도 된다. 매니페스트를 검증한 뒤 구성 요소는 따로따로 검증하므로, 하나가 잘못돼도 나머지가 함께 멈추지 않는다."
+              "x": "그래서 상태는 생성 뒤가 아니라 앞에서 이름을 붙인다. 화면 목록을 짤 때, 그 화면이 왜 존재하는지 아직 기억할 때 필요한 상태를 함께 적어둔다. 나중에 붙이면 완성된 화면의 시각적 변형으로 만들어져 레이아웃을 그대로 물려받는다. 그러면 아무것도 거르지 않는 필터 바와 행이 없는 테이블 헤더가 달린 빈 상태가 남는다. 형식은 빈 상태지만 제품으로는 말이 안 된다."
             },
             {
               "t": "p",
-              "x": "범위를 좁게 잡은 건 의도다. 1버전은 Agent Skills와 MCP 서버 두 가지에 계약을 묶었다. 둘 다 이미 각자의 규격과 쓰임새를 갖췄고, Agent Plugins는 그것을 다시 정의하지 않는다. 커맨드와 훅, 에이전트 같은 나머지는 클라이언트에 남는다. 경계를 작게 두면 구현이 쉽고, 더 넓히기 전에 생태계가 모일 여유가 생긴다."
+              "x": "컴포넌트도 마찬가지다. 입력창에는 포커스, 입력됨, 비활성, 오류, 읽기 전용이 있고 버튼에는 눌림, 비활성, 로딩이 있다. 체크박스의 중간 상태는 누가 일괄 선택을 만드는 순간 반드시 나타난다. 라이브러리가 우연히 등장한 것만 담고 있으면, 빠진 상태는 나중에 부딪힌 개발자가 쫓기며 세 군데에서 다르게 만들어 넣는다. 그래서 규칙은 이렇다. 모든 컴포넌트 원형을 만들 필요는 없지만 만든 것은 화면이 요구하지 않았어도 상태 매트릭스를 전부 갖춘다."
             },
             {
               "t": "p",
-              "x": "클라이언트가 움직일 여지도 남겼다. 네임스페이스를 붙인 확장 장치로 클라이언트 고유 데이터와 파일을 담되, 다른 클라이언트는 이를 무시한다. 클라이언트 고유 기능은 표준으로 삼을 이유와 합의가 생기기 전까지 고유한 채로 남는다."
+              "x": "상태야말로 제품이 사용자와 실제로 만나는 자리다. 검색 결과가 비어 있던 날, 결제가 실패한 날, 기차에서 앱을 연 날이다. 잘 다듬은 화면은 보여주는 화면이고 상태는 쓰이는 화면이다."
             },
             {
               "t": "p",
-              "x": "제안은 Vercel이 시작했고 Amazon Web Services(AWS), Anysphere, GitHub, Microsoft, OpenAI, Vercel 소속 대표들이 함께 다듬어 1.0.0을 만들었다. 초기 기술운영위원회에는 AWS, Cursor, Microsoft, OpenAI, Vercel의 코어 메인테이너가 들어갔다. 어느 한 회사의 제품 로드맵이 형식의 방향을 정하지 않는다."
-            },
-            {
-              "t": "p",
-              "x": "규격과 JSON 스키마, 플러그인 작성자·클라이언트 구현자용 가이드는 agent-plugins.org에 있다. 출시 시점 지원 목록은 ChatGPT와 Codex, Cursor, GitHub Copilot, Kiro, VS Code다. 한 번 포장한 플러그인은 지원 클라이언트 사이를 그대로 따라다닌다."
+              "x": "과하게 파고들 수도 있다. 결국 제품에서 잘려나간 화면에 상태를 다 만들어 둔 적도 있다. 버린 작업인 데다, 지켜본 사람들에게 상태 목록이 형식 절차처럼 보이게 만든다. 어디까지 갈지에 깔끔한 규칙도 없다. 오프라인 동작은 현장용 도구엔 결정적이고 사내 대시보드엔 거의 무의미하다. 그 차이를 가르는 방법은 누가 어디서 쓰는지를 제대로 생각해 보는 것뿐이다."
             }
           ]
         },
-        "image": "pipeline/media/design-agent-plugins.png",
+        "image": "pipeline/media/design-claude-screen-states.jpg",
         "free": true,
         "hasFull": true
       },
       {
-        "id": "design-claude-to-figma",
+        "id": "design-figma-claude-code-loop",
         "eyebrow": "AI NEWS",
-        "headline": "다크 모드를 켜자 드러난\n127곳의 토큰 이탈",
-        "body": "원시 색상에 묶인 127곳이 시각 검수를 다 통과했고, 다크 모드를 켜자 드러났다.",
-        "tool": "Figma",
-        "source": "DEV Community",
-        "url": "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
-        "accent": "#3b6bff",
+        "headline": "Figma와 Claude Code\n루프가 깨지는 지점들",
+        "body": "MCP는 구조 데이터만 줄 뿐 화면은 넘기지 않아 픽셀 완벽은 신화다.",
+        "tool": "AI Workflow",
+        "source": "Eleken",
+        "url": "https://www.eleken.co/blog-posts/figma-to-claude-code",
+        "accent": "#ff5a4d",
         "motif": "frame",
-        "image": "pipeline/media/design-claude-to-figma.jpg",
+        "video": "pipeline/media/design-figma-claude-code-loop.mp4",
+        "poster": "pipeline/media/design-figma-claude-code-loop.jpg",
+        "image": "pipeline/media/design-figma-claude-code-loop.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "design-cascadeur-2026-2",
+        "id": "design-armature-auto-rig",
         "eyebrow": "AI NEWS",
-        "headline": "캐스케이더 2026.2에 붙은\n애니메이션 레이어와 MCP 서버",
-        "body": "비파괴 레이어와 이징 제어가 들어왔고, MCP 서버로 외부 LLM이 툴을 조작한다.",
+        "headline": "무료 오토 리깅 도구\nArmature가 나왔다",
+        "body": "Armature가 캐릭터를 자동 리깅·스키닝해 USD로 내보내고 인디에겐 무료다.",
         "tool": "KeyShot",
         "source": "CG Channel",
-        "url": "https://www.cgchannel.com/2026/08/nekki-releases-cascadeur-2026-2-with-animation-layers/",
+        "url": "https://www.cgchannel.com/2026/08/armature-is-a-free-ai-assisted-standalone-character-rigging-tool/",
         "accent": "#f5a623",
         "motif": "sphere",
-        "video": "pipeline/media/design-cascadeur-2026-2.mp4",
-        "poster": "pipeline/media/design-cascadeur-2026-2.jpg",
-        "image": "pipeline/media/design-cascadeur-2026-2.jpg",
+        "video": "pipeline/media/design-armature-auto-rig.mp4",
+        "poster": "pipeline/media/design-armature-auto-rig.jpg",
+        "image": "pipeline/media/design-armature-auto-rig.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "design-creo-13-triple-a",
+        "id": "design-designesy-40-checks",
         "eyebrow": "AI NEWS",
-        "headline": "PTC가 크레오 13에 심은\n조언·보조·자동화 AI",
-        "body": "조언·보조·자동화 AI가 붙었고, 자동화는 샌드박스에서 변경 전후를 보여준다.",
-        "tool": "Text-to-CAD",
-        "source": "DEVELOP3D",
-        "url": "https://develop3d.com/cad/creo-ai-ptc-advances-its-roadmap/",
-        "accent": "#7928ca",
-        "motif": "cube",
-        "image": "pipeline/media/design-creo-13-triple-a.jpg",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "design-state-of-css-2026",
-        "eyebrow": "AI NEWS",
-        "headline": "AI 생성 비중 절반 이하가\n3,031명, 그 위는 721명",
-        "body": "AI 생성 비중이 절반 이하라는 응답이 3,031명, 그 위는 721명에 그쳤다.",
+        "headline": "40개 검사로 채점한\n웹사이트 30곳의 성적표",
+        "body": "30곳을 40개 검사로 채점하니 평균 62.2점, 60%가 D나 F였다.",
         "tool": "Design Tokens",
-        "source": "CSS-Tricks",
-        "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+        "source": "DEV Community",
+        "url": "https://dev.to/levaiinbey/we-scored-30-real-websites-against-a-40-check-design-contract-heres-what-we-found-2hf4",
         "accent": "#2ec5c5",
         "motif": "swatch",
-        "image": "pipeline/media/design-state-of-css-2026.png",
+        "image": "pipeline/media/design-designesy-40-checks.png",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "design-electronauts-vr-ui",
+        "eyebrow": "AI NEWS",
+        "headline": "Electronauts가 보여준\nVR 인터페이스의 기본",
+        "body": "드럼스틱을 버튼에 찔러 넣고 트리거를 당기게 해 VR의 촉각 문제를 풀었다.",
+        "tool": "VR Prototype",
+        "source": "Road to VR",
+        "url": "https://roadtovr.com/inside-vr-design-interface-of-electronauts/",
+        "accent": "#eb367f",
+        "motif": "headset",
+        "video": "pipeline/media/design-electronauts-vr-ui.mp4",
+        "poster": "pipeline/media/design-electronauts-vr-ui.jpg",
+        "image": "pipeline/media/design-electronauts-vr-ui.jpg",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-08-02",
-        "cards": [
-          {
-            "id": "figma-make",
-            "eyebrow": "AI NEWS",
-            "tool": "Figma",
-            "headline": "피그마 메이크에 속성 패널과 주석 기능이 더해졌다",
-            "body": "AI가 만든 화면을 속성 패널로 직접 손보고, 다시 프롬프트를 쓰지 않고도 의도를 코드로 넘긴다.",
-            "source": "Figma",
-            "url": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/figma-make.png",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "perplexity-color",
-            "eyebrow": "AI NEWS",
-            "tool": "Design Tokens",
-            "headline": "생성형 AI로 발산형 데이터 색상 체계를 만든다",
-            "body": "퍼플렉시티로 발산형 데이터 시각화 팔레트를 짜며, 접근성까지 챙긴 색상 토큰을 만든다.",
-            "source": "UX Collective",
-            "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad",
-            "accent": "#2ec5c5",
-            "motif": "swatch",
-            "image": "pipeline/media/perplexity-color.png",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "unwanted-ai-images",
-            "eyebrow": "AI NEWS",
-            "tool": "AI Workflow",
-            "headline": "원치 않는 AI 이미지가 사람들을 불안하게 한다",
-            "body": "아마존과 틴더, 레딧이 사용자 사진을 기본값으로 AI 편집하고, 거부는 사용자 몫으로 남긴다.",
-            "source": "Creative Bloq",
-            "url": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for",
-            "accent": "#ff5a4d",
-            "motif": "frame",
-            "image": "pipeline/media/unwanted-ai-images.jpg",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "ai-fluency",
-            "eyebrow": "AI NEWS",
-            "tool": "AI Workflow",
-            "headline": "AI 능숙함은 결승선이 아니다",
-            "body": "제품 제작자 90%가 AI 역량을 필수로 꼽지만, 피그마는 팀이 엉뚱한 능력에 매달린다고 짚는다.",
-            "source": "Figma",
-            "url": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
-            "accent": "#3b6bff",
-            "motif": "frame",
-            "image": "pipeline/media/ai-fluency.png",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "creative-technologists",
-            "eyebrow": "AI NEWS",
-            "tool": "AI Workflow",
-            "headline": "크리에이티브 테크놀로지스트가 중심으로 옮겨간다",
-            "body": "AI가 디자인과 코드의 간극을 좁히며, 직접 만드는 디자이너가 변방에서 팀의 기본값으로 옮겨간다.",
-            "source": "UX Collective",
-            "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6",
-            "accent": "#eb367f",
-            "motif": "frame",
-            "image": "pipeline/media/creative-technologists.png",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-08-03",
         "cards": [
@@ -484,6 +410,81 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-08-07",
+        "cards": [
+          {
+            "id": "design-agent-plugins",
+            "eyebrow": "AI NEWS",
+            "tool": "Figma",
+            "headline": "스킬과 MCP를 한 묶음으로 에이전트 플러그인 1.0.0 공개",
+            "body": "스킬과 MCP 서버를 한 폴더 규격에 담아 클라이언트마다 따로 포장할 일을 없앴다.",
+            "source": "Vercel",
+            "url": "https://vercel.com/blog/introducing-agent-plugins",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/design-agent-plugins.png",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "design-claude-to-figma",
+            "eyebrow": "AI NEWS",
+            "tool": "Figma",
+            "headline": "다크 모드를 켜자 드러난 127곳의 토큰 이탈",
+            "body": "원시 색상에 묶인 127곳이 시각 검수를 다 통과했고, 다크 모드를 켜자 드러났다.",
+            "source": "DEV Community",
+            "url": "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
+            "accent": "#3b6bff",
+            "motif": "frame",
+            "image": "pipeline/media/design-claude-to-figma.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "design-cascadeur-2026-2",
+            "eyebrow": "AI NEWS",
+            "tool": "KeyShot",
+            "headline": "캐스케이더 2026.2에 붙은 애니메이션 레이어와 MCP 서버",
+            "body": "비파괴 레이어와 이징 제어가 들어왔고, MCP 서버로 외부 LLM이 툴을 조작한다.",
+            "source": "CG Channel",
+            "url": "https://www.cgchannel.com/2026/08/nekki-releases-cascadeur-2026-2-with-animation-layers/",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/design-cascadeur-2026-2.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "design-creo-13-triple-a",
+            "eyebrow": "AI NEWS",
+            "tool": "Text-to-CAD",
+            "headline": "PTC가 크레오 13에 심은 조언·보조·자동화 AI",
+            "body": "조언·보조·자동화 AI가 붙었고, 자동화는 샌드박스에서 변경 전후를 보여준다.",
+            "source": "DEVELOP3D",
+            "url": "https://develop3d.com/cad/creo-ai-ptc-advances-its-roadmap/",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/design-creo-13-triple-a.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "design-state-of-css-2026",
+            "eyebrow": "AI NEWS",
+            "tool": "Design Tokens",
+            "headline": "AI 생성 비중 절반 이하가 3,031명, 그 위는 721명",
+            "body": "AI 생성 비중이 절반 이하라는 응답이 3,031명, 그 위는 721명에 그쳤다.",
+            "source": "CSS-Tricks",
+            "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+            "accent": "#2ec5c5",
+            "motif": "swatch",
+            "image": "pipeline/media/design-state-of-css-2026.png",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -492,130 +493,123 @@
     "label": "Music",
     "news": [
       {
-        "id": "music-suno-download-watermark",
+        "id": "music-deadmau5-autopilot",
         "eyebrow": "AI NEWS",
-        "headline": "Suno, AI 곡에 워터마크 심고\n대량 유통용 다운로드는 막는다",
-        "body": "Suno가 워터마크를 넣고 스트리밍 대량 유통을 막는 다운로드 정책을 내놨다.",
+        "headline": "deadmau5의 AUTO/PILOT\n퍼블릭 베타가 열렸다",
+        "body": "deadmau5의 DJ·라이브 툴 AUTO/PILOT이 퍼블릭 베타로 풀렸다.",
         "tool": "Music",
-        "source": "Digital Music News",
-        "url": "https://www.digitalmusicnews.com/2026/08/06/suno-changes-2026/",
+        "source": "Gearnews",
+        "url": "https://www.gearnews.com/deadmau5s-auto-pilot-dj/",
         "accent": "#ff2d55",
         "motif": "sphere",
         "full": {
-          "mode": "summary",
+          "mode": "full",
           "blocks": [
             {
+              "t": "video",
+              "yt": "fRo8DA7wub4"
+            },
+            {
               "t": "p",
-              "x": "Suno가 정책 묶음을 한꺼번에 공개했다. 다운로드 규칙을 새로 짜고, 만들어진 곡에 워터마크와 지문을 심고, 커뮤니티 가이드라인을 다듬고, AI 트랙을 가려낼 '투명성 도구'를 함께 내놨다."
+              "x": "deadmau5가 붙들고 있던 신작 AUTO/PILOT이 출시를 향해 천천히 나아간다. AUTO/PILOT은 결국 무엇인가. 핵심은 DJ 믹싱과 일렉트로닉 음악 라이브 공연을 위한 소프트웨어인데, 시중의 다른 도구들과 달리 훨씬 포괄적인 물건을 노린다."
+            },
+            {
+              "t": "p",
+              "x": "크리에이티브 믹싱, 라이브 어레인지, 샘플링, MIDI·OSC 컨트롤러 연동, 자체 이펙트까지 한 패키지에 모았다. 커스터마이징 여지도 꽤 깊다. 인터페이스를 자기 작업 방식에 맞춰 사실상 새로 짜다시피 바꿀 수 있다."
             },
             {
               "t": "img",
-              "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Suno-New-Policies.webp",
-              "cap": "다운로드·라벨링 정책을 한꺼번에 손본 Suno"
+              "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/autopilot-deadmau5-1024x565.jpg",
+              "cap": "AUTO/PILOT 인터페이스"
             },
             {
               "t": "p",
-              "x": "다운로드 정책의 표적은 대량 유통이다. 수백에서 수천 곡을 찍어내 스트리밍 서비스에 올린 뒤 봇으로 재생을 돌려 로열티를 빼가는 수법을 겨냥한다. 전문가용 작업과 개인 용도는 그대로 남는다."
+              "x": "믹싱 덱과 시퀀싱이 AUTO/PILOT 안에서 하나로 합쳐지고 오토메이션도 전부 지원한다. DJ와 라이브 퍼포머만 겨냥해 만든 전용 DAW에 가깝다. 세트를 타임라인 위에서 바로 배열하고 편집하는 것도 된다."
             },
             {
               "t": "p",
-              "x": "워터마크와 지문 기술은 몇 주 안에 붙는다. 공동창업자 겸 CEO Mikey Shulman은 블로그에 이 도구들이 \"오래 남고 훼손에 강하되 듣는 경험은 건드리지 않는다\"고 적었다. 구글 SynthID를 쓸지 자체 방식을 만들지는 밝히지 않았다."
+              "x": "외부 플러그인도 지원할 예정이라 트랙을 실시간으로 리믹스하고 주무를 수 있다. 이번에도 deadmau5는 \"친구\" Steve Duda와 손잡았다. Serum을 만든 개발자인데, 여기서는 템포와 비트 그리드 검출 알고리즘을 맡았다. 트랙 분석은 사실상 즉시 끝난다는 설명이다."
             },
             {
               "t": "p",
-              "x": "커뮤니티 가이드라인도 다시 썼다. 진짜인 척 꾸민 오디오, 실존 인물의 목소리나 초상을 허락 없이 쓰는 행위를 명시적으로 금지한다. Shulman은 무언가를 AI로 만들었다고 알릴지 말지는 결국 아티스트와 플랫폼이 정할 몫이라고도 했다."
+              "x": "MIDI와 OSC(Open Sound Control) 데이터도 AUTO/PILOT에서 큰 몫을 한다. 통합 수준이 깊고 라우팅 선택지도 넓다. 자기 공연을 직접 꾸려온 deadmau5인 만큼, 음악과 조명, 비주얼을 맞물리게 하는 일이 요즘 얼마나 중요한지 잘 안다."
             },
             {
               "t": "p",
-              "x": "저작권 검사 쪽에서는 가사 데이터 회사 Musixmatch의 Sentinel을 붙였다. 업로드된 오디오와 가사 검사에는 Audible Magic도 함께 쓴다."
+              "x": "이제 직접 만져볼 수 있다. 퍼블릭 베타가 지금 열려 있다. 다만 무료 체험판은 아직 없고 소프트웨어를 사야 한다. 현재는 할인가로 50달러."
             },
             {
               "t": "p",
-              "x": "배경에는 소송이 쌓여 있다. Universal Music Group과 Sony, RIAA가 낸 저작권 소송이 진행 중이고, 지난 7월 독일 법원은 Suno가 라이선스 없이 보호 음악으로 학습했다고 판단했다. Warner Music Group과는 2025년 11월에 합의하고 라이선스를 맺었다."
+              "x": "윈도우와 macOS를 모두 지원하지만 정확한 시스템 요구 사양은 아직 나오지 않았다. 정식 출시 시점도 아직 소식이 없다."
             }
           ]
         },
-        "image": "pipeline/media/music-suno-download-watermark.webp",
+        "video": "pipeline/media/music-deadmau5-autopilot.mp4",
+        "poster": "pipeline/media/music-deadmau5-autopilot.jpg",
+        "image": "pipeline/media/music-deadmau5-autopilot.jpg",
         "free": true,
         "hasFull": true
       },
       {
-        "id": "music-musixmatch-sentinel",
+        "id": "music-google-lyria35",
         "eyebrow": "AI NEWS",
-        "headline": "Suno가 프롬프트부터 저작권을 걸러낸다",
-        "body": "Suno가 Sentinel로 프롬프트와 결과물에서 저작권 가사와 곡을 잡아낸다.",
+        "headline": "구글 Lyria 3.5, 보컬이\n한결 사람에 가까워졌다",
+        "body": "구글이 Flow Music에 Lyria 3.5를 올려 보컬 표현과 발음을 개선했다.",
         "tool": "Music",
         "source": "Music Business Worldwide",
-        "url": "https://www.musicbusinessworldwide.com/suno-first-customer-of-musixmatchs-sentinel-which-screens-ai-prompts-and-outputs-for-copyrighted-material/",
+        "url": "https://www.musicbusinessworldwide.com/watch-out-suno-google-has-upgraded-lyria/",
         "accent": "#0070f3",
         "motif": "sphere",
-        "image": "pipeline/media/music-musixmatch-sentinel.jpg",
+        "video": "pipeline/media/music-google-lyria35.mp4",
+        "poster": "pipeline/media/music-google-lyria35.jpg",
+        "image": "pipeline/media/music-google-lyria35.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "music-symphonic-musicshield",
+        "id": "music-spotify-ai-slop-purge",
         "eyebrow": "AI NEWS",
-        "headline": "Symphonic, 발매 전 AI 학습을 막는\nMusicShield를 무료로 연다",
-        "body": "Symphonic 고객은 발매 전 음원을 AI 학습에서 지키는 도구를 무료로 쓴다.",
+        "headline": "스포티파이가 1년간 걷어낸\nAI 슬롭 트랙 7,500만 개",
+        "body": "스포티파이가 지난 1년간 AI 스팸 트랙 7,500만 개를 걷어냈다고 밝혔다.",
         "tool": "Music",
-        "source": "Music Ally",
-        "url": "https://musically.com/2026/08/06/symphonic-partners-with-artyshield-to-offer-ai-protection-platform-musicshield/",
+        "source": "Hypebot",
+        "url": "https://www.hypebot.com/good-news-spotify-removed-75-million-ai-generated-slop-music-tracks/",
         "accent": "#f5a623",
         "motif": "sphere",
-        "image": "pipeline/media/music-symphonic-musicshield.png",
+        "image": "pipeline/media/music-spotify-ai-slop-purge.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "music-ye-ai-vocal-lawsuit",
+        "id": "music-stem-separation-9",
         "eyebrow": "AI NEWS",
-        "headline": "Kanye West 두 앨범에 AI를 썼다고\n프로듀서가 소송을 냈다",
-        "body": "프로듀서가 Ye의 두 앨범에 AI 보컬을 만들고 대가를 못 받았다며 소송을 냈다.",
+        "headline": "AI 스템 분리 툴 9종을\n같은 곡에 똑같이 물려봤다",
+        "body": "MusicTech가 같은 곡으로 AI 스템 분리 툴 9종의 결과를 비교했다.",
         "tool": "Music",
-        "source": "Pitchfork",
-        "url": "https://pitchfork.com/story/kanye-wests-vultures-ii-and-bully-used-ai-new-lawsuit-alleges/",
+        "source": "MusicTech",
+        "url": "https://musictech.com/guides/buyers-guide/best-stem-separation-tools/",
         "accent": "#7928ca",
         "motif": "sphere",
-        "image": "pipeline/media/music-ye-ai-vocal-lawsuit.jpg",
+        "image": "pipeline/media/music-stem-separation-9.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "music-sylvan-esso-betty-studio",
+        "id": "music-vochlea-dubbox",
         "eyebrow": "AI NEWS",
-        "headline": "Sylvan Esso가 직접 지은 스튜디오\nSuno는 이걸 못 만든다",
-        "body": "Sylvan Esso는 직접 지은 스튜디오에서 Suno가 못 낼 곡을 만들어냈다.",
+        "headline": "입으로 낸 비트를 그대로\n드럼 루프로 바꿔주는 앱",
+        "body": "Vochlea의 DubBox가 비트박스를 샘플 드럼 루프로 바꿔준다.",
         "tool": "Music",
         "source": "MusicRadar",
-        "url": "https://www.musicradar.com/artists/it-feels-like-the-most-us-thing-weve-ever-done-suno-isnt-coming-up-with-that-anytime-soon-sylvan-esso-on-the-making-of-ow-their-self-built-bettys-studio-and-why-they-pulled-their-music-from-spotify",
+        "url": "https://www.musicradar.com/music-tech/beatbox-your-ideas-into-reality-with-vochleas-dubbox-an-app-that-converts-your-voice-into-drum-loops",
         "accent": "#2ec5c5",
         "motif": "sphere",
-        "image": "pipeline/media/music-sylvan-esso-betty-studio.jpg",
+        "image": "pipeline/media/music-vochlea-dubbox.jpg",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-08-02",
-        "cards": [
-          {
-            "id": "soundboost",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "headline": "사운드부스트, 원하는 소리를 말하면 AI가 믹싱과 마스터링을 끝낸다",
-            "body": "원하는 소리를 말로 설명하면 믹싱과 마스터링이 끝나고, 무료 스템 분리기까지 함께 제공된다.",
-            "source": "Digital Music News",
-            "url": "https://www.digitalmusicnews.com/2026/07/30/soundboost-natural-language-music-mastering-mixing/",
-            "accent": "#ff2d55",
-            "motif": "sphere",
-            "image": "pipeline/media/soundboost.jpg",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-08-03",
         "cards": [
@@ -886,6 +880,81 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-08-07",
+        "cards": [
+          {
+            "id": "music-suno-download-watermark",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "headline": "Suno, AI 곡에 워터마크 심고 대량 유통용 다운로드는 막는다",
+            "body": "Suno가 워터마크를 넣고 스트리밍 대량 유통을 막는 다운로드 정책을 내놨다.",
+            "source": "Digital Music News",
+            "url": "https://www.digitalmusicnews.com/2026/08/06/suno-changes-2026/",
+            "accent": "#ff2d55",
+            "motif": "sphere",
+            "image": "pipeline/media/music-suno-download-watermark.webp",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "music-musixmatch-sentinel",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "headline": "Suno가 프롬프트부터 저작권을 걸러낸다",
+            "body": "Suno가 Sentinel로 프롬프트와 결과물에서 저작권 가사와 곡을 잡아낸다.",
+            "source": "Music Business Worldwide",
+            "url": "https://www.musicbusinessworldwide.com/suno-first-customer-of-musixmatchs-sentinel-which-screens-ai-prompts-and-outputs-for-copyrighted-material/",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/music-musixmatch-sentinel.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "music-symphonic-musicshield",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "headline": "Symphonic, 발매 전 AI 학습을 막는 MusicShield를 무료로 연다",
+            "body": "Symphonic 고객은 발매 전 음원을 AI 학습에서 지키는 도구를 무료로 쓴다.",
+            "source": "Music Ally",
+            "url": "https://musically.com/2026/08/06/symphonic-partners-with-artyshield-to-offer-ai-protection-platform-musicshield/",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/music-symphonic-musicshield.png",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "music-ye-ai-vocal-lawsuit",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "headline": "Kanye West 두 앨범에 AI를 썼다고 프로듀서가 소송을 냈다",
+            "body": "프로듀서가 Ye의 두 앨범에 AI 보컬을 만들고 대가를 못 받았다며 소송을 냈다.",
+            "source": "Pitchfork",
+            "url": "https://pitchfork.com/story/kanye-wests-vultures-ii-and-bully-used-ai-new-lawsuit-alleges/",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/music-ye-ai-vocal-lawsuit.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "music-sylvan-esso-betty-studio",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "headline": "Sylvan Esso가 직접 지은 스튜디오 Suno는 이걸 못 만든다",
+            "body": "Sylvan Esso는 직접 지은 스튜디오에서 Suno가 못 낼 곡을 만들어냈다.",
+            "source": "MusicRadar",
+            "url": "https://www.musicradar.com/artists/it-feels-like-the-most-us-thing-weve-ever-done-suno-isnt-coming-up-with-that-anytime-soon-sylvan-esso-on-the-making-of-ow-their-self-built-bettys-studio-and-why-they-pulled-their-music-from-spotify",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/music-sylvan-esso-betty-studio.jpg",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -894,13 +963,13 @@
     "label": "Movies",
     "news": [
       {
-        "id": "movies-adobe-chatgpt-plugin",
+        "id": "movies-autodesk-flow",
         "eyebrow": "AI NEWS",
-        "headline": "말로 시키면 어도비가 움직인다\nChatGPT에 들어온 통합 플러그인",
-        "body": "어도비가 도구 70여 종을 플러그인 하나로 묶어 ChatGPT 안에 들여놓았다.",
+        "headline": "오토데스크 플로우 스튜디오,\n생성 컷을 3D에서 연출한다",
+        "body": "3D 에디터에서 인물과 카메라를 직접 배치하면 AI가 최종 렌더링을 맡는다.",
         "tool": "Movies",
-        "source": "No Film School",
-        "url": "https://nofilmschool.com/adobe-plugin-in-chatgpt",
+        "source": "Animation World Network",
+        "url": "https://www.awn.com/news/autodesks-new-flow-studio-tools-let-creators-block-and-direct-ai-shots-3d",
         "accent": "#0070f3",
         "motif": "frame",
         "full": {
@@ -908,158 +977,109 @@
           "blocks": [
             {
               "t": "p",
-              "x": "지난해 12월 어도비가 ChatGPT 연동으로 대화형 편집 흐름을 처음 선보인 뒤, 두 회사는 새 어도비 플러그인을 함께 만들며 제품을 한층 더 얽어놓았다."
+              "x": "오토데스크가 플로우 스튜디오의 대형 확장판인 3D 에디터 + 캔버스를 내놓았다. 생성 AI 영상의 통제 문제를 겨눈 기능이다. 인물과 애니메이션, 카메라 움직임과 구도를 2D 화면에서 프롬프트나 참조 이미지로 지시하던 방식 대신, 창작자가 3D에서 직접 작업하고 최종 렌더링은 AI가 맡는다."
+            },
+            {
+              "t": "video",
+              "yt": "ca76F7Jo84k"
+            },
+            {
+              "t": "p",
+              "x": "3D 에디터 + 캔버스에서는 플로우 스튜디오로 만든 캐릭터와 에셋, 장면을 월드 랩스 마블 같은 도구가 생성한 세계·환경과 합친다. 회사 설명으로는 이렇게 해서 완성된 시네마틱 장면을 몇 분 만에 조립한다."
+            },
+            {
+              "t": "p",
+              "x": "오토데스크에 인수된 원더 다이내믹스의 공동창업자 니콜라 토도로비치는 이렇게 말했다. \"우리는 3D에서 살고 3D에서 연출합니다. 그런데 대부분의 생성 AI 영상 도구는 아직도 2D 세계에서 놀고 편집하라고 요구하죠. 평평한 이미지를 프롬프트로 부르거나 그려서 연기를 지시하고 카메라 무브를 설계하는 건 태생적으로 한계가 있습니다. 3D 에디터에서는 장면을 블로킹하고, 연기를 연출하고, 타이밍과 페이스, 카메라 움직임을 3D에서 제어합니다. 그다음 캔버스에서 2D로 최종 룩을 생성하고 다듬고 만들어 갑니다.\""
+            },
+            {
+              "t": "p",
+              "x": "이번 발표는 익숙한 공백을 겨눈다. 생성 도구 덕분에 캐릭터와 환경, 개별 비주얼 에셋을 뽑아내는 속도는 빨라졌다. 그러나 그 조각들을 하나의 연출된 컷으로 묶으려면 연기와 카메라를 정밀하게 다뤄야 한다."
+            },
+            {
+              "t": "p",
+              "x": "3D 에디터는 캐릭터와 환경, 애니메이션, 카메라 트랙, AI 모션 캡처 데이터를 한 작업 공간에 모으고 구도와 카메라 움직임, 장면 세팅을 손보게 한다. 캔버스는 그 옆에서 돌아가는 노드 기반 2D 워크플로다. 이미지·영상 모델로 결과물을 탐색하고 반복하고 생성한다. 속도가 급하면 2D에 머물고, 정밀한 연출이 필요한 컷에서만 3D로 들어가면 된다."
             },
             {
               "t": "img",
-              "src": "https://nofilmschool.com/media-library/adobe-plugin-in-chatgpt.webp?id=67582778&width=1245&height=700&quality=50",
-              "cap": "ChatGPT 안으로 들어간 어도비 플러그인"
+              "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/autodesk_flow_studio-final-for_stills.00_00_36_19.still011-1280.jpg?itok=Z8UI4Gq6",
+              "cap": "'3D 에디터 + 캔버스'. 이미지 제공: 오토데스크"
             },
             {
               "t": "p",
-              "x": "어도비는 창작과 생산성 도구를 통합 플러그인 하나에 담았다. ChatGPT Work와 Codex에서 함께 돌아가고, 만들고 싶은 결과를 말로 설명하면 모델이 알맞은 어도비 도구를 골라 엮는다."
+              "x": "이 프로그램은 마야와 3ds 맥스, 아널드를 AI 스토리텔링으로 넓혀 온 흐름을 잇는다. 이번 릴리스는 마야를 비롯한 DCC 연동 확대와 에셋 임포트 옵션 추가, AI 보조 장면 구성, 에이전트가 연출을 돕는 워크플로의 바탕도 함께 깔아 둔다."
             },
             {
               "t": "p",
-              "x": "플러그인이 부르는 도구는 70종이 넘는다. Adobe Express, Photoshop, Firefly, Premiere, Acrobat, Lightroom, Illustrator, InDesign, Stock 같은 간판 앱이 모두 들어갔다. ChatGPT를 쓰는 수억 명과 200만 기업이 이미지와 영상, 디자인, 문서를 바로 만들어보라는 그림이다."
-            },
-            {
-              "t": "p",
-              "x": "OpenAI에서 ChatGPT 에코시스템 제품을 총괄하는 Vibhor Chhabra는 이렇게 말했다. \"우리는 사용자를 지금 필요한 최고의 기능과 이어주려고 ChatGPT를 만들고 있습니다. 어도비의 창작·생산성 도구는 사람들이 창의성을 표현하고 소통하며 더 생산적으로 일하도록 돕습니다.\""
-            },
-            {
-              "t": "p",
-              "x": "파트너십 자체는 새롭지 않다. 어도비는 1년 가까이 Copilot, Claude 같은 다른 AI 챗봇 플랫폼과도 손을 잡아왔다. 달라진 건 흩어져 있던 연동을 플러그인 하나로 모은 방식이다."
-            },
-            {
-              "t": "p",
-              "x": "어도비가 든 예시는 이렇다. 캠페인 사진을 올리고 원하는 룩을 설명하면 세트 전체에 같은 스타일이 입혀지고, 결과물은 Creative Cloud에 저장되며, 가장 센 이미지 한 장은 제품이나 패키지 목업으로 바뀐다."
-            },
-            {
-              "t": "p",
-              "x": "긴 영상은 하이라이트 릴로 줄여 YouTube Shorts와 Instagram Reels 규격에 맞춘다. 템플릿을 골라 카피와 색을 바꾼 뒤 소셜용 애니메이션이나 인쇄용 PDF로 내보내는 길도 있다. 스프레드시트를 올리면 행사 배지, 카탈로그, 인포그래픽 같은 문서로 정리해준다."
-            },
-            {
-              "t": "p",
-              "x": "쓰는 법은 간단하다. ChatGPT의 Plugins에서 어도비 플러그인을 추가하고, 새 대화에서 \"@Adobe\"를 입력하거나 \"+\" 버튼으로 고른다. 게스트로도 상당수 도구를 만지지만 생성 기능과 Creative Cloud 파일 접근, 작업 저장에는 어도비 계정 로그인이 필요하다."
-            },
-            {
-              "t": "p",
-              "x": "불안한 창작자들에게 반가운 소식은 아니다. 그래도 이 흐름은 당분간 속도를 늦추지 않는다."
+              "x": "플로우 스튜디오의 옛 이름은 원더 스튜디오다. 오토데스크는 2024년 원더 다이내믹스를 인수했다."
             }
           ]
         },
-        "video": "pipeline/media/movies-adobe-chatgpt-plugin.mp4",
-        "poster": "pipeline/media/movies-adobe-chatgpt-plugin.jpg",
-        "image": "pipeline/media/movies-adobe-chatgpt-plugin.jpg",
+        "video": "pipeline/media/movies-autodesk-flow.mp4",
+        "poster": "pipeline/media/movies-autodesk-flow.jpg",
+        "image": "pipeline/media/movies-autodesk-flow.jpg",
         "free": true,
         "hasFull": true
       },
       {
-        "id": "movies-brevidy-premiere",
+        "id": "movies-runway-seedance",
         "eyebrow": "AI NEWS",
-        "headline": "자막부터 세로 리프레임까지\nPremiere Pro 패널 하나로",
-        "body": "Brevidy가 자막, 세로 리프레임, 클립 추출을 프리미어 프로 패널에 담았다.",
+        "headline": "런웨이에 시드댄스 2.5,\n30초 한 컷 생성이 열렸다",
+        "body": "런웨이 안에서 최대 50개 레퍼런스로 30초 단일 샷을 소리까지 붙여 만든다.",
         "tool": "Movies",
-        "source": "CineD",
-        "url": "https://www.cined.com/brevidy-for-adobe-premiere-pro-ai-captions-automatic-social-clips-and-vertical-reframing-in-one-panel/",
+        "source": "Runway (YouTube)",
+        "url": "https://www.youtube.com/watch?v=8P6G4yyzOpA",
         "accent": "#f5a623",
         "motif": "frame",
-        "image": "pipeline/media/movies-brevidy-premiere.jpg",
+        "video": "pipeline/media/movies-runway-seedance.mp4",
+        "poster": "pipeline/media/movies-runway-seedance.jpg",
+        "image": "pipeline/media/movies-runway-seedance.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "movies-disney-tiktok-shorts",
+        "id": "movies-minimax-bootleg",
         "eyebrow": "AI NEWS",
-        "headline": "디즈니 자산으로 만든 팬 영상이\n디즈니+ 세로 피드에 걸린다",
-        "body": "디즈니와 TikTok이 팬이 만든 세로 영상을 Disney+ 피드에 함께 싣는다.",
+        "headline": "중국 미니맥스 H3로 만든\n짝퉁 '오피스'가 퍼진다",
+        "body": "디즈니·유니버설·워너의 소송 중에도 H3가 만든 무단 클립이 확산된다.",
         "tool": "Movies",
-        "source": "Cartoon Brew",
-        "url": "https://www.cartoonbrew.com/streaming/disney-tiktok-fan-made-shorts-disney-plus-265286.html",
+        "source": "Deadline",
+        "url": "https://deadline.com/2026/08/chinese-ai-hollywood-bytedance-minimax-the-office-1237028329/",
         "accent": "#7928ca",
         "motif": "frame",
-        "image": "pipeline/media/movies-disney-tiktok-shorts.jpg",
+        "image": "pipeline/media/movies-minimax-bootleg.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "movies-hybrid-set-switchx",
+        "id": "movies-siggraph-2026",
         "eyebrow": "AI NEWS",
-        "headline": "연기와 카메라는 그대로 두고\n세계만 후반에 다시 짓는다",
-        "body": "Beeble SwitchX로 실제 연기는 남기고 배경과 조명만 후반에 다시 짓는다.",
+        "headline": "시그래프 2026, 전시장은 줄고\n무게추는 세션으로 옮겨갔다",
+        "body": "69개국 9,500명이 모였지만 화제는 부스가 아니라 AI 세션이었다.",
         "tool": "Movies",
-        "source": "ProVideo Coalition",
-        "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+        "source": "Animation Magazine",
+        "url": "https://www.animationmagazine.net/2026/08/the-best-of-siggraph-2026/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/movies-hybrid-set-switchx.jpg",
+        "image": "pipeline/media/movies-siggraph-2026.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "movies-catmull-genai-jury",
+        "id": "movies-eli-roth-ai",
         "eyebrow": "AI NEWS",
-        "headline": "픽사를 세운 에드 캣멀이\n생성형 AI 영화제 심사석에",
-        "body": "픽사 공동창업자 에드 캣멀이 생성형 AI 영화만 겨루는 경연의 심사석에 앉았다.",
+        "headline": "일라이 로스, '아이스크림 맨'\n생성 AI 사용을 뒤늦게 인정",
+        "body": "손으로 그렸다던 애니메이션 장면에 생성 AI를 썼다고 로스가 정정했다.",
         "tool": "Movies",
         "source": "Cartoon Brew",
-        "url": "https://www.cartoonbrew.com/artificial-intelligence/ed-catmull-higgsfield-ai-competition-265227.html",
+        "url": "https://www.cartoonbrew.com/artificial-intelligence/eli-roth-ice-cream-man-genai-265223.html",
         "accent": "#eb367f",
         "motif": "frame",
-        "image": "pipeline/media/movies-catmull-genai-jury.jpg",
+        "image": "pipeline/media/movies-eli-roth-ai.jpg",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-08-02",
-        "cards": [
-          {
-            "id": "luma-layers",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "headline": "프롬프트 대신 요소 단위로 고친다",
-            "body": "Luma의 Layers는 프롬프트를 통째로 다시 돌리는 대신 AI 이미지를 요소 하나하나 정밀하게 고치게 한다.",
-            "source": "Luma AI",
-            "url": "https://lumalabs.ai/news/introducing-layers",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/luma-layers.jpg",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "frame-io-search",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "headline": "전체 화면 검색과 비교 뷰어 개선",
-            "body": "Adobe Frame.io가 전체 화면 검색과 AI 검색 토글, 비교 뷰어 개선으로 촬영본을 더 빠르게 찾고 검토하게 한다.",
-            "source": "RedShark News",
-            "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
-            "accent": "#f5a623",
-            "motif": "frame",
-            "image": "pipeline/media/frame-io-search.jpg",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "wonder-dynamics",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "headline": "연기를 CG로 옮기되 손은 아티스트가",
-            "body": "Wonder Dynamics의 Flow Studio는 실사 연기를 CG 캐릭터로 옮기면서도 아티스트가 통제권을 쥐게 한다.",
-            "source": "No Film School",
-            "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
-            "accent": "#7928ca",
-            "motif": "frame",
-            "image": "pipeline/media/wonder-dynamics.webp",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-08-03",
         "cards": [
@@ -1289,6 +1309,81 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-08-07",
+        "cards": [
+          {
+            "id": "movies-adobe-chatgpt-plugin",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "headline": "말로 시키면 어도비가 움직인다 ChatGPT에 들어온 통합 플러그인",
+            "body": "어도비가 도구 70여 종을 플러그인 하나로 묶어 ChatGPT 안에 들여놓았다.",
+            "source": "No Film School",
+            "url": "https://nofilmschool.com/adobe-plugin-in-chatgpt",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/movies-adobe-chatgpt-plugin.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "movies-brevidy-premiere",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "headline": "자막부터 세로 리프레임까지 Premiere Pro 패널 하나로",
+            "body": "Brevidy가 자막, 세로 리프레임, 클립 추출을 프리미어 프로 패널에 담았다.",
+            "source": "CineD",
+            "url": "https://www.cined.com/brevidy-for-adobe-premiere-pro-ai-captions-automatic-social-clips-and-vertical-reframing-in-one-panel/",
+            "accent": "#f5a623",
+            "motif": "frame",
+            "image": "pipeline/media/movies-brevidy-premiere.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "movies-disney-tiktok-shorts",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "headline": "디즈니 자산으로 만든 팬 영상이 디즈니+ 세로 피드에 걸린다",
+            "body": "디즈니와 TikTok이 팬이 만든 세로 영상을 Disney+ 피드에 함께 싣는다.",
+            "source": "Cartoon Brew",
+            "url": "https://www.cartoonbrew.com/streaming/disney-tiktok-fan-made-shorts-disney-plus-265286.html",
+            "accent": "#7928ca",
+            "motif": "frame",
+            "image": "pipeline/media/movies-disney-tiktok-shorts.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "movies-hybrid-set-switchx",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "headline": "연기와 카메라는 그대로 두고 세계만 후반에 다시 짓는다",
+            "body": "Beeble SwitchX로 실제 연기는 남기고 배경과 조명만 후반에 다시 짓는다.",
+            "source": "ProVideo Coalition",
+            "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+            "accent": "#2ec5c5",
+            "motif": "frame",
+            "image": "pipeline/media/movies-hybrid-set-switchx.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "movies-catmull-genai-jury",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "headline": "픽사를 세운 에드 캣멀이 생성형 AI 영화제 심사석에",
+            "body": "픽사 공동창업자 에드 캣멀이 생성형 AI 영화만 겨루는 경연의 심사석에 앉았다.",
+            "source": "Cartoon Brew",
+            "url": "https://www.cartoonbrew.com/artificial-intelligence/ed-catmull-higgsfield-ai-competition-265227.html",
+            "accent": "#eb367f",
+            "motif": "frame",
+            "image": "pipeline/media/movies-catmull-genai-jury.jpg",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -1297,131 +1392,132 @@
     "label": "Games",
     "news": [
       {
-        "id": "games-unreal-mcp-editor",
+        "id": "games-cosmos3",
         "eyebrow": "AI NEWS",
-        "headline": "언리얼 엔진 5.8이 에디터에\nMCP를 정식으로 들인다",
-        "body": "MCP를 기본 지원해 에디터 안에서 원하는 에이전트 LLM을 붙여 쓴다.",
+        "headline": "엔비디아, 내려받아 손보는\n월드 모델 코스모스 3 공개",
+        "body": "엔비디아가 코스모스 3를 개방해, 팀이 자체 데이터로 월드 모델을 후학습한다.",
         "tool": "Games",
-        "source": "Unreal Engine (YouTube)",
-        "url": "https://www.youtube.com/watch?v=lDf_y-YPELo",
+        "source": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
         "accent": "#7928ca",
         "motif": "cube",
         "full": {
-          "mode": "summary",
+          "mode": "full",
           "blocks": [
             {
+              "t": "p",
+              "x": "지난 7월 엔비디아는 200개 넘는 기업·기관과 함께 'Open Weights and American AI Leadership' 공개서한에 서명했다. AI 주도권은 프런티어 모델 하나가 아니라 열린 생태계가 모든 산업에 닿느냐로 갈린다는 주장이었다."
+            },
+            {
               "t": "video",
-              "yt": "lDf_y-YPELo"
+              "src": "https://blogs.nvidia.com/wp-content/uploads/2026/08/cosmos-corp-blog-promo-1920x1080-1.mp4"
             },
             {
               "t": "p",
-              "x": "Unreal Fest Chicago 2026에서 녹화된 세션이다. 언리얼 엔진 5.8이 Model Context Protocol(MCP) 공식 통합을 들여오고, 여기에 PCG 프리미티브 공간 연산과 스킬 묶음을 새로 얹는다. 언리얼 에디터 안에서 곧바로 AI를 낀 월드 빌딩을 받치려는 구성이다."
+              "x": "누구나 내려받아 뜯어보고 고치고 자기 인프라에서 돌리는 모델이 그걸 떠받친다. 피지컬 AI에서는 더 그렇다. 배치마다 결국 특화 문제라서다."
             },
             {
               "t": "p",
-              "x": "세션은 MCP 통합부터 들여다본다. 별도 손질 없이 지원되는 에디터 시스템이 무엇인지, 언리얼 에디터와 각자 고른 에이전틱 LLM을 어떻게 잇는지, 개발자가 이걸 어디까지 확장하는지를 차례로 짚는다."
+              "x": "피지컬 AI는 겉모습이 아니라 결과를 이해하고 예측해야 한다. 월드 모델은 물리 환경이 어떻게 움직이는지, 다음에 무엇이 일어날지, 어떤 행동이 말이 되는지를 배운다. 근거 있는 데이터를 만들고 미래 상태를 시뮬레이션해, 로봇과 자율주행차, 비전 AI에 맞춰 특화할 토대가 된다."
             },
             {
               "t": "p",
-              "x": "다음은 가상 월드를 AI로 만들고 고치는 대목이다. LLM을 절차적 콘텐츠 생성(PCG) 프레임워크 같은 언리얼 엔진의 고급 시스템과 묶은 실험을 보여주면서, 자연어로 환경을 짓고 다듬는 방식을 에디터 안에서 시연한다."
+              "x": "오픈 월드 모델은 이미 학습 데이터 생성과 정책 검증, 시스템 특화에 쓰인다. NVIDIA Cosmos 3는 이를 한 오픈 모델 패밀리로 묶어 벤치마크 상위 성적과 로보틱스·자율주행·비전 AI의 채택을 내세운다. NVIDIA Agent Toolkit의 Omniverse 라이브러리는 배치 전 학습·테스트·검증용 시뮬레이션 환경을 짜 준다."
             },
             {
               "t": "p",
-              "x": "세션을 다 보고 나면 언리얼 에디터 워크플로에 AI를 어떻게 넣는지 실무 감각이 잡힌다. 말을 월드로 바꾸는 데 이 기능들이 어디까지 쓰이는지도 함께 잡힌다."
+              "x": "피지컬 AI가 요구하는 규모의 데이터는 모으기 어렵고 비싸다. 드문 사건과 롱테일 시나리오는 안전하게 반복 재현하기가 특히 까다롭다. 월드 모델은 날씨와 조명, 사물, 궤적이 다른 환경을 만들어 그 자리를 메운다."
             },
             {
               "t": "p",
-              "x": "영상은 Unreal Engine 공식 채널에 2026년 8월 3일 올라왔고, 길이는 36분 40초다."
+              "x": "범용 모델은 그 팀의 로봇도 센서도 작업 환경도 본 적이 없다. 간극을 메우려면 모델 가중치와 개작을 허용하는 라이선스, 후학습 도구가 있어야 한다. NVIDIA Cosmos 월드 파운데이션 모델은 리눅스 재단 OpenMDW 1.1 라이선스로 공개돼, 팀이 자기 데이터와 하드웨어에서 후학습한다."
+            },
+            {
+              "t": "p",
+              "x": "OpenUSD는 디지털 트윈과 시뮬레이션, 합성 데이터 생성 사이에서 복잡한 3D 데이터를 구성하고 재사용하고 주고받는 열린 틀이다. 에셋이나 센서 구성, 환경 조건이 바뀔 때마다 쌓이던 중복 작업이 줄어든다."
+            },
+            {
+              "t": "p",
+              "x": "Cosmos 3는 mixture-of-transformers 구조의 오픈 피지컬 AI 파운데이션 옴니 모델로, 비전 추론과 월드 생성, 행동 예측을 한 패밀리에서 다룬다. 고정밀 월드 모델링용 Super(64B), 효율적 추론과 후학습용 Nano(16B), 온디바이스 비전 추론과 로봇 정책 배포용 Edge(4B)로 나뉘고, Edge는 RTX GPU와 DGX, Jetson Thor를 포함한 Jetson에서 돌아간다."
+            },
+            {
+              "t": "p",
+              "x": "벤치마크에서는 오픈 웨이트 텍스트-이미지·이미지-비디오 생성 Artificial Analysis 1위, 월드 생성 PAI-Bench 1위, Physics-IQ 이미지-비디오 1위를 기록했다. 로봇 정책은 RoboLab 1위, Cosmos 3 Super는 VANTAGE-Bench 비전 이해에서 오픈 모델 최상위다."
+            },
+            {
+              "t": "p",
+              "x": "로보틱스에서는 Doosan Robotics와 LG전자, 삼성전자, Skild AI가, 자율주행에서는 Li Auto와 Xiaomi, Afari가, 비전 AI에서는 Centific과 Fogsphere, Linker Vision, Milestone Systems, Yuan이 Cosmos 위에서 만든다. Cosmos Coalition은 최근 일본으로 넓혀 공장·물류·농업·건설·의료·운송용 오픈 월드 모델을 만든다."
             }
           ]
         },
-        "video": "pipeline/media/games-unreal-mcp-editor.mp4",
-        "poster": "pipeline/media/games-unreal-mcp-editor.jpg",
-        "image": "pipeline/media/games-unreal-mcp-editor.jpg",
+        "video": "pipeline/media/games-cosmos3.mp4",
+        "poster": "pipeline/media/games-cosmos3.jpg",
+        "image": "pipeline/media/games-cosmos3.jpg",
         "free": true,
         "hasFull": true
       },
       {
-        "id": "games-nvidia-ntc-sdk-arm64",
+        "id": "games-modding-ai",
         "eyebrow": "AI NEWS",
-        "headline": "NVIDIA가 뉴럴 텍스처 압축\nSDK를 ARM64로 옮겼다",
-        "body": "VRAM을 85% 줄이는 NTC SDK가 ARM64에 올랐지만 쓰는 게임은 없다.",
+        "headline": "스카이림 모드에 스며든 AI,\n넥서스는 태그를 셋으로 쪼갰다",
+        "body": "넥서스가 AI 태그를 셋으로 쪼갰지만 1년 18만 모드 중 표시된 건 6654개다.",
         "tool": "Games",
-        "source": "Wccftech",
-        "url": "https://wccftech.com/nvidia-rtx-neural-texture-compression-sdk-arm64/",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/games-nvidia-ntc-sdk-arm64.jpg",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "games-unreal-ethical-image-models",
-        "eyebrow": "AI NEWS",
-        "headline": "이미지·영상 모델을 아트 제작에\n윤리적으로 들이는 법",
-        "body": "Tripo 3.1과 Nano Banana를 3D 에셋 제작에 들이는 법을 다룬다.",
-        "tool": "Games",
-        "source": "Unreal Engine (YouTube)",
-        "url": "https://www.youtube.com/watch?v=ogppHmJO02I",
+        "source": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
         "accent": "#0070f3",
         "motif": "frame",
-        "video": "pipeline/media/games-unreal-ethical-image-models.mp4",
-        "poster": "pipeline/media/games-unreal-ethical-image-models.jpg",
-        "image": "pipeline/media/games-unreal-ethical-image-models.jpg",
+        "image": "pipeline/media/games-modding-ai.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "games-unity-one-api-every-role",
+        "id": "games-localization",
         "eyebrow": "AI NEWS",
-        "headline": "유니티가 API 하나로 에디터를\n팀의 모든 역할에 연다",
-        "body": "에디터 전체 권한 없이 API와 CLI로 빌드까지 돌리는 비공개 베타가 열렸다.",
+        "headline": "생성 AI로 대체된다는 말,\n로컬라이저 셋이 반박했다",
+        "body": "게임 로컬라이저 셋이 크레딧 누락과 크런치를 짚으며 생성 AI 대체론을 반박한다.",
         "tool": "Games",
-        "source": "Unity (YouTube)",
-        "url": "https://www.youtube.com/watch?v=naXXD0U9hYQ",
+        "source": "Game Developer",
+        "url": "https://www.gamedeveloper.com/production/what-devs-need-to-know-about-localization-ft-concha-fernandez-alvarez-aurelie-perrin-and-guido-di-carlo",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "image": "pipeline/media/games-localization.jpg",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "games-anishort",
+        "eyebrow": "AI NEWS",
+        "headline": "애니쇼트, 각본부터 렌더까지\n브라우저 한 곳에 몰아넣었다",
+        "body": "애니쇼트가 각본과 스토리보드, 캐릭터, 렌더링을 브라우저 한 곳에 묶었다.",
+        "tool": "Games",
+        "source": "80 Level",
+        "url": "https://80.lv/articles/anishort-unifies-scriptwriting-storyboarding-video-generation-in-one-workflow",
         "accent": "#2ec5c5",
         "motif": "swatch",
-        "video": "pipeline/media/games-unity-one-api-every-role.mp4",
-        "poster": "pipeline/media/games-unity-one-api-every-role.jpg",
-        "image": "pipeline/media/games-unity-one-api-every-role.jpg",
+        "video": "pipeline/media/games-anishort.mp4",
+        "poster": "pipeline/media/games-anishort.jpg",
+        "image": "pipeline/media/games-anishort.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "games-google-ai-leaks-private-docs",
+        "id": "games-gta6-slop",
         "eyebrow": "AI NEWS",
-        "headline": "구글 AI가 비공개 문서 속\n미공개 캐릭터 이름을 뱉었다",
-        "body": "개발자는 자기 구글 문서에만 적어둔 캐릭터 이름을 Gemini가 그대로 뱉었다.",
+        "headline": "트레일러 공백을 채운 건\n조회수 수백만의 AI 가짜였다",
+        "body": "GTA 6 게임플레이 영상이 없는 사이 AI 가짜 영상이 수백만 조회수를 기록했다.",
         "tool": "Games",
-        "source": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/",
+        "source": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
         "accent": "#eb367f",
         "motif": "headset",
-        "image": "pipeline/media/games-google-ai-leaks-private-docs.jpg",
+        "video": "pipeline/media/games-gta6-slop.mp4",
+        "poster": "pipeline/media/games-gta6-slop.jpg",
+        "image": "pipeline/media/games-gta6-slop.jpg",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-08-02",
-        "cards": [
-          {
-            "id": "steamdisclosure",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "headline": "게임에 쓴 생성형 AI는 숨기지 말고 밝혀라",
-            "body": "개발자들은 게임에 쓴 생성형 AI를 스토어 페이지에 표기하도록 한 밸브의 방침을 지지한다고 밝혔다.",
-            "source": "GamesRadar+",
-            "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/steamdisclosure.jpg",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-08-03",
         "cards": [
@@ -1693,6 +1789,81 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-08-07",
+        "cards": [
+          {
+            "id": "games-unreal-mcp-editor",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "headline": "언리얼 엔진 5.8이 에디터에 MCP를 정식으로 들인다",
+            "body": "MCP를 기본 지원해 에디터 안에서 원하는 에이전트 LLM을 붙여 쓴다.",
+            "source": "Unreal Engine (YouTube)",
+            "url": "https://www.youtube.com/watch?v=lDf_y-YPELo",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/games-unreal-mcp-editor.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "games-nvidia-ntc-sdk-arm64",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "headline": "NVIDIA가 뉴럴 텍스처 압축 SDK를 ARM64로 옮겼다",
+            "body": "VRAM을 85% 줄이는 NTC SDK가 ARM64에 올랐지만 쓰는 게임은 없다.",
+            "source": "Wccftech",
+            "url": "https://wccftech.com/nvidia-rtx-neural-texture-compression-sdk-arm64/",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/games-nvidia-ntc-sdk-arm64.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "games-unreal-ethical-image-models",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "headline": "이미지·영상 모델을 아트 제작에 윤리적으로 들이는 법",
+            "body": "Tripo 3.1과 Nano Banana를 3D 에셋 제작에 들이는 법을 다룬다.",
+            "source": "Unreal Engine (YouTube)",
+            "url": "https://www.youtube.com/watch?v=ogppHmJO02I",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/games-unreal-ethical-image-models.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "games-unity-one-api-every-role",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "headline": "유니티가 API 하나로 에디터를 팀의 모든 역할에 연다",
+            "body": "에디터 전체 권한 없이 API와 CLI로 빌드까지 돌리는 비공개 베타가 열렸다.",
+            "source": "Unity (YouTube)",
+            "url": "https://www.youtube.com/watch?v=naXXD0U9hYQ",
+            "accent": "#2ec5c5",
+            "motif": "swatch",
+            "image": "pipeline/media/games-unity-one-api-every-role.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "games-google-ai-leaks-private-docs",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "headline": "구글 AI가 비공개 문서 속 미공개 캐릭터 이름을 뱉었다",
+            "body": "개발자는 자기 구글 문서에만 적어둔 캐릭터 이름을 Gemini가 그대로 뱉었다.",
+            "source": "GamesRadar+",
+            "url": "https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/",
+            "accent": "#eb367f",
+            "motif": "headset",
+            "image": "pipeline/media/games-google-ai-leaks-private-docs.jpg",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -1701,161 +1872,123 @@
     "label": "Books",
     "news": [
       {
-        "id": "books-harpercollins-human-authorship",
+        "id": "books-amazon-ai-study",
         "eyebrow": "AI NEWS",
-        "headline": "AI가 거든 책은 퍼블릭 도메인\n하퍼콜린스 CEO 브라이언 머리의 진단",
-        "body": "브라이언 머리는 AI 탐지 대신 사람이 썼음을 인증할 업계 표준을 만들자고 했다.",
+        "headline": "자가출판 1만4419권 분석\n네 권 중 한 권 넘게 AI 흔적",
+        "body": "AI 흔적이 나온 책은 덜 팔렸지만 상업적으로 유의미한 매출은 여전히 냈다.",
         "tool": "Books",
-        "source": "Publishers Weekly",
-        "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html",
+        "source": "ALLi Self-Publishing Advice",
+        "url": "https://selfpublishingadvice.org/ai-in-self-published-amazon-books/",
         "accent": "#f5a623",
         "motif": "swatch",
-        "og_image": "",
-        "published_iso": "2026-08-06T15:00:00Z",
         "full": {
           "mode": "full",
           "blocks": [
             {
               "t": "p",
-              "x": "퍼블리셔스 위클리가 하퍼콜린스의 2026 회계연도 실적을 두고 브라이언 머리 CEO와 마주 앉았다. 대화는 곧 출판계를 뒤덮은 AI 논란과 그가 보는 출구로 넘어갔다."
+              "x": "이번 주 첫 소식과 이어지는 이야기다. 토요일에는 AI 얘기를 쉬겠다고 약속했지만(속보가 터지지 않는다는 전제로), 자가출판 소설의 AI 사용을 다룬 투힌 차크라바티의 연구는 파장이 워낙 크고 넓어 예외를 두기로 했다. 뉴욕타임스의 좋은 기사가 이 이야기의 또 다른 각도를 짚어준 것도 이유다. 유료 장벽 너머의 링크를 뉴스레터로 열어준 제인 프리드먼에게 감사를 전한다."
+            },
+            {
+              "t": "img",
+              "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-6.jpg",
+              "cap": "아마존 자가출판 도서의 AI 사용을 다룬 ALLi 뉴스 요약"
             },
             {
               "t": "p",
-              "x": "AI의 도움을 받아 썼다는 의심을 산 책들, 이를테면 《Shy Girl》과 가장 최근의 《Call Me, I'll Hide the Body》를 두고 머리는 상황이 '매우 혼탁하다'고 했다. 둘 다 하퍼콜린스가 낸 책은 아니다. 그가 보기에 생성형 AI는 전자책 같은 이전의 기술 혁신과 성격이 다르다. 전자책은 '글 쓰는 과정 자체를 건드리지 않았다'."
+              "x": "기사는 차크라바티의 논문을 깊이 들여다본다. 제목은 「Generative AI Floods and Dilutes the Market for Books」. AI를 쓴 인디 작가를 지목해 망신 주려는 게 아니라, AI 사용이 늘어난 환경에서 AI를 쓰지 않는 사람들이 예전만큼 독자에게 가닿지 못하게 되는 풍경을 그리는 것이 목적임을 제목이 분명히 보여준다. 뉴욕타임스 기사는 인디 작가 제스 마이클스의 사례로 이 맥락을 풀어낸다. 마이클스는 챗GPT가 정교해진 뒤 판매가 절벽처럼 떨어졌다고 말한다."
             },
             {
               "t": "p",
-              "x": "출판의 토대는 저작권인데 AI로 쓴 책은 그 보호를 받지 못할 수 있다는 게 머리의 진단이다. 그는 'AI가 거든 책은 퍼블릭 도메인 도서로 취급될 가능성이 충분하다'고 말했다. 그 뒤로 줄줄이 딸려 올 법적 문제도 함께 짚었다."
+              "x": "논문 초록은 의도를 대놓고 밝힌다. AI가 만든 책은 \"독자가 거들떠보지 않을 저품질 '슬롭'\"이고 상업적 무게도 거의 없다는 전제, 그것을 검증하겠다는 것."
             },
             {
               "t": "p",
-              "x": "탐지 소프트웨어가 나와 있지만 머리는 AI가 개입한 책을 기술로 걸러낼 수 있다고 보지 않는다. 대신 에이전트와 작가, 출판사가 함께 사람이 쓴 책임을 인증하는 관행을 세워야 한다고 했다. 그 과정에 '어려운 대화'가 뒤따르리라는 점도 인정했다."
+              "x": "설계는 이랬다. 2023년부터 2026년 사이에 나온 자가출판 도서 1만4419종을 AI 탐지 프로그램에 넣었다. AI 사용을 선언한 책은 한 권도 없었다. 판매량도 함께 추적했다."
             },
             {
               "t": "p",
-              "x": "출판사는 어떤 책이 AI의 도움 없이 쓰였는지를 '처음부터' 알아야 한다는 게 그의 요구다. 작가가 자기 집필 과정을 기록으로 남기는 방안도 꺼냈다."
+              "x": "핵심 결과는 하나같이 흥미롭고 중요하다. 우려스럽긴 해도 아직 실존적 위기라고 부를 정도는 아니다."
             },
             {
               "t": "p",
-              "x": "머리는 마지막을 이렇게 닫았다. '이 업계는 신뢰와 관계 위에 세워졌다. AI 없이 쓴 책임을 확인할 길을 찾으려면 결국 그 힘에 기대야 한다.'"
+              "x": "숫자부터 보면, 올해 초 헤드라인을 뒤덮었던 400만 종이라는 수치에서 짐작하던 바가 확인됐다. 출간 종수는 20% 가까이 늘었는데 판매는 10%도 늘지 않았다. 파이는 그대로인데 조각만 잘게 나뉜 셈이다."
+            },
+            {
+              "t": "p",
+              "x": "다음으로, 탐지 소프트웨어는 AI 사용 정황이 꽤 넓게 퍼져 있음을 찾아냈다. 전체의 4분의 1이 넘는다. 사람들이 걱정해온 증가분을 설명할 만한 규모다."
+            },
+            {
+              "t": "p",
+              "x": "그리고 중요한 대목. AI 흔적이 보이는 책의 판매는 다른 책보다 적었지만, 그래도 상업적 문제를 제기할 만큼은 됐다. 판매가 낮은 이유 하나로 기성 작가를 향한 독자 충성도를 떠올려볼 만하다. 다행스러운 대목이지만 마이클스의 사연을 보면 그것이 구원은 아니다. 시간이 흐르고 독자들이 새로운 '작가'를 찾아 나서면 그 효과도 옅어질 수 있다."
+            },
+            {
+              "t": "p",
+              "x": "연구 전문을 직접 읽어보길 권한다."
             }
           ]
         },
-        "image": "pipeline/media/books-harpercollins-human-authorship.jpg",
+        "image": "pipeline/media/books-amazon-ai-study.jpg",
         "free": true,
         "hasFull": true
       },
       {
-        "id": "books-papers-ai-workspace",
+        "id": "books-harpercollins-ai-audiobooks",
         "eyebrow": "AI NEWS",
-        "headline": "집필부터 데이터 분석까지 한 창에서\nOverleaf 팀이 만든 Papers AI",
-        "body": "Papers AI는 집필과 노트 정리, 데이터 분석을 연구자의 창 하나에 담았다.",
+        "headline": "하퍼콜린스, AI 내레이션을\n번역판과 백리스트에 건다",
+        "body": "녹음비를 못 뽑던 외국어판과 구간에만 합성 음성을 쓰고 영어판은 성우가 맡는다.",
         "tool": "Books",
-        "source": "Publishing Perspectives",
-        "url": "https://publishingperspectives.com/2026/08/digital-science-launches-ai-native-researcher-workspace/",
+        "source": "Good e-Reader",
+        "url": "https://goodereader.com/blog/audiobooks/harpercollins-is-betting-big-on-ai-audiobooks",
         "accent": "#0070f3",
         "motif": "swatch",
-        "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Papers-AI-793x446.jpg",
-        "published_iso": "2026-08-06T12:00:00Z",
-        "image": "pipeline/media/books-papers-ai-workspace.jpg",
+        "image": "pipeline/media/books-harpercollins-ai-audiobooks.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "books-korea-ai-labeling",
+        "id": "books-authors-of-colour-ai-suspicion",
         "eyebrow": "AI NEWS",
-        "headline": "AI가 쓴 책인가 사람이 쓴 책인가\n한국 출판계의 표시 기준은 아직",
-        "body": "번역부터 오디오북까지 AI 활용은 늘었지만 표시 기준도 검수 절차도 아직 없다.",
+        "headline": "AI 의혹, 유색인종 작가에게\n유독 몰린다는 논쟁",
+        "body": "검증할 방법이 없는 의심이 평판 위험으로 굳어지는데 업계에는 가려줄 절차가 없다.",
         "tool": "Books",
-        "source": "매일신문",
-        "url": "https://www.imaeil.com/page/view/2026073011241784143",
+        "source": "The Bookseller",
+        "url": "https://www.thebookseller.com/news/numerous-authors-of-colour-facing-ai-speculation-hard-to-ignore-as-trade-debates-trend",
         "accent": "#7928ca",
         "motif": "swatch",
-        "og_image": "https://www.imaeil.com/upload/robot.png",
-        "published_iso": "2026-08-04T01:50:51Z",
-        "image": "pipeline/media/books-korea-ai-labeling.png",
+        "image": "pipeline/media/books-authors-of-colour-ai-suspicion.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "books-chakdoduk-ai-translation",
+        "id": "books-peer-review-revolution",
         "eyebrow": "AI NEWS",
-        "headline": "AI 번역 사실을 감춘 전자책 앱\n번역계가 공개 기준부터 세우라 했다",
-        "body": "전자책 앱 '책도둑'이 AI 번역을 감추자 번역계는 공개 기준을 세우라고 했다.",
+        "headline": "동료 심사가 무너지는 사이\nAI는 양쪽 책상에 앉았다",
+        "body": "AI 심사 보조는 대형 출판사만 감당할 수 있어 작은 출판사와 격차가 벌어진다.",
         "tool": "Books",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026072937931",
+        "source": "The Scholarly Kitchen",
+        "url": "https://scholarlykitchen.sspnet.org/2026/08/07/guest-post-do-we-need-revolution-in-peer-review/",
         "accent": "#2ec5c5",
         "motif": "swatch",
-        "og_image": "https://img.hankyung.com/photo/202607/AA.45184310.1.jpg",
-        "published_iso": "2026-07-29T09:41:00Z",
+        "image": "pipeline/media/books-peer-review-revolution.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "books-perplexity-ebook-store",
+        "id": "books-substack-pangram-detection",
         "eyebrow": "AI NEWS",
-        "headline": "퍼플렉시티가 전자책 서점을 연다\n인디 작가에게 열린 새 유통로",
-        "body": "퍼플렉시티가 전자책 서점을 열어 수억 명의 이용자를 책 구매자로 돌리려 한다.",
+        "headline": "서브스택 전면 AI 탐지가\n남긴 오탐과 혼란",
+        "body": "탐지 점수가 기본값으로 글에 붙으면서 오탐을 둘러싼 분쟁이 잇따른다.",
         "tool": "Books",
-        "source": "Self-Publishing Advice Center (ALLi)",
-        "url": "https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/",
+        "source": "Jane Friedman",
+        "url": "https://janefriedman.com/update-on-substacks-ai-detection-using-pangram/",
         "accent": "#eb367f",
         "motif": "swatch",
-        "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/07/BANNER_News-3.jpg",
-        "published_iso": "2026-07-24T12:00:00Z",
-        "image": "pipeline/media/books-perplexity-ebook-store.jpg",
+        "image": "pipeline/media/books-substack-pangram-detection.png",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-08-02",
-        "cards": [
-          {
-            "id": "ai-scholarship-ownership",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "headline": "빅테크가 AI 참여 계층을 장악하기 전에 표준을 세워라",
-            "body": "학술 출판사들이 빅테크에 AI 참여 계층을 빼앗기기 전에 표준 인프라를 함께 세워야 한다는 제언이다.",
-            "source": "The Scholarly Kitchen",
-            "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
-            "accent": "#f5a623",
-            "motif": "swatch",
-            "image": "pipeline/media/ai-scholarship-ownership.jpg",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "nyt-ai-nonfiction",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "headline": "AI 논픽션은 어디서 오는가 450권 펴낸 은퇴자를 좇다",
-            "body": "한 은퇴자가 AI로 450권 넘게 자가출판해 소소한 인쇄 수익까지 올린 과정을 NYT가 추적했다.",
-            "source": "Jane Friedman",
-            "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
-            "accent": "#0070f3",
-            "motif": "swatch",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "pope-ai-encyclical",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "headline": "AI를 도덕의 문제로 되돌린 교황의 회칙이 던진 물음",
-            "body": "레오 14세의 AI 회칙은 기술을 도덕적 중립으로 보지 말고 인간 중심 감독을 요구하라 말한다.",
-            "source": "Publishing Perspectives",
-            "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
-            "accent": "#7928ca",
-            "motif": "swatch",
-            "image": "pipeline/media/pope-ai-encyclical.png",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-08-03",
         "cards": [
@@ -2068,6 +2201,80 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-08-07",
+        "cards": [
+          {
+            "id": "books-harpercollins-human-authorship",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "headline": "AI가 거든 책은 퍼블릭 도메인 하퍼콜린스 CEO 브라이언 머리의 진단",
+            "body": "브라이언 머리는 AI 탐지 대신 사람이 썼음을 인증할 업계 표준을 만들자고 했다.",
+            "source": "Publishers Weekly",
+            "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/books-harpercollins-human-authorship.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "books-papers-ai-workspace",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "headline": "집필부터 데이터 분석까지 한 창에서 Overleaf 팀이 만든 Papers AI",
+            "body": "Papers AI는 집필과 노트 정리, 데이터 분석을 연구자의 창 하나에 담았다.",
+            "source": "Publishing Perspectives",
+            "url": "https://publishingperspectives.com/2026/08/digital-science-launches-ai-native-researcher-workspace/",
+            "accent": "#0070f3",
+            "motif": "swatch",
+            "image": "pipeline/media/books-papers-ai-workspace.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "books-korea-ai-labeling",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "headline": "AI가 쓴 책인가 사람이 쓴 책인가 한국 출판계의 표시 기준은 아직",
+            "body": "번역부터 오디오북까지 AI 활용은 늘었지만 표시 기준도 검수 절차도 아직 없다.",
+            "source": "매일신문",
+            "url": "https://www.imaeil.com/page/view/2026073011241784143",
+            "accent": "#7928ca",
+            "motif": "swatch",
+            "image": "pipeline/media/books-korea-ai-labeling.png",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "books-chakdoduk-ai-translation",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "headline": "AI 번역 사실을 감춘 전자책 앱 번역계가 공개 기준부터 세우라 했다",
+            "body": "전자책 앱 '책도둑'이 AI 번역을 감추자 번역계는 공개 기준을 세우라고 했다.",
+            "source": "한국경제",
+            "url": "https://www.hankyung.com/article/2026072937931",
+            "accent": "#2ec5c5",
+            "motif": "swatch",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "books-perplexity-ebook-store",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "headline": "퍼플렉시티가 전자책 서점을 연다 인디 작가에게 열린 새 유통로",
+            "body": "퍼플렉시티가 전자책 서점을 열어 수억 명의 이용자를 책 구매자로 돌리려 한다.",
+            "source": "Self-Publishing Advice Center (ALLi)",
+            "url": "https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/",
+            "accent": "#eb367f",
+            "motif": "swatch",
+            "image": "pipeline/media/books-perplexity-ebook-store.jpg",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -2076,13 +2283,13 @@
     "label": "Gadgets",
     "news": [
       {
-        "id": "gadgets-openai-ring-speaker-price",
+        "id": "gadgets-gemma4-offline-translator",
         "eyebrow": "AI NEWS",
-        "headline": "오픈AI 첫 하드웨어는 화면 없는\n도넛형 스피커, 300~400달러",
-        "body": "하키 퍽만 한 링 모양에 화면은 없고, 가격은 300~400달러 선으로 거론된다.",
+        "headline": "젬마 4를 얹은 라즈베리파이,\n인터넷 없이 통역하는 기계가 됐다",
+        "body": "젬마 4 E4B를 라즈베리파이 5에 올린 구글 통역기는 서버 없이 혼자 돌아간다.",
         "tool": "Gadgets",
-        "source": "Engadget",
-        "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
+        "source": "Android Authority",
+        "url": "https://www.androidauthority.com/google-offline-ai-translator-gemma-4-3695674/",
         "accent": "#ff5a4d",
         "motif": "headset",
         "full": {
@@ -2090,104 +2297,99 @@
           "blocks": [
             {
               "t": "p",
-              "x": "애플 소식은 보통 블룸버그의 마크 거먼에게서 먼저 나오는데, 오늘 그가 꺼낸 건 오픈AI의 하드웨어였다. 지난달 이 회사가 개발 중인 스마트 스피커 이야기를 한 차례 쏟아낸 데 이어, 이번엔 기기 자체를 더 들여다봤다."
+              "x": "구글의 젬마 모델이 어디까지 하는지 궁금했다면 볼 게 하나 있다. 구글 엔지니어 몇 명이 라즈베리파이 5에서 돌아가는 젬마 4 E4B로 완전 오프라인 번역기를 만들었다."
             },
             {
               "t": "img",
-              "src": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/intro-1786052707.jpg",
-              "cap": "무대 위 흰 의자에 앉은 오픈AI CEO 샘 올트먼, 뒤편 파란 화면에 회사 이름이 떠 있다"
+              "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/gemma-translator-featured-image.jpg",
+              "cap": "젬마 번역기 시제품 (Google Antigravity / YouTube)"
+            },
+            {
+              "t": "video",
+              "yt": "4dNry5zP0Jo"
             },
             {
               "t": "p",
-              "x": "거먼에게 정보를 준 쪽에 따르면 제품은 하키 퍽만 한 크기의 링 모양이다. 배터리로 돌아가고 들고 다니기 쉽게 잡은 형태다. 스스로 움직이는 부품도 들어간다는데, 기기를 좀 더 살아 있는 물건처럼 보이게 하려는 장치로 읽힌다. 이 첫 하드웨어에 화면은 없어 보이지만, 카메라와 센서가 주변을 살핀다."
+              "x": "개발에는 구글 안티그래비티를 썼고, 언어를 옮기는 머리 역할은 젬마 4 E4B가 맡았다. 전자부품을 담을 케이스는 3D 프린팅으로 직접 뽑았다. 번역된 문장을 띄우는 디스플레이, 마이크, 스피커, 누르고 말하는 버튼, 언어를 바꾸는 노브까지 한 몸에 들어갔다."
             },
             {
               "t": "p",
-              "x": "오픈AI가 조니 아이브가 이끄는 스타트업 io를 65억 달러에 사들이며 하드웨어로 방향을 틀었으니, 가격이 높게 잡히는 것도 이상하지 않다. 소식통이 거먼에게 말한 값은 300~400달러다. 시중 스마트 스피커 중 고급형과 견줘도 확실히 비싸다. 소비자가 오픈AI가 결국 매길 값을 감당하지 않으면 이 실험이 값비싼 곁길로 끝날 수 있다고 우리는 이미 짚었다. 2027년으로 점쳐지는 출시 전에 이 가격에 대한 반응을 미리 재 보고, 오픈AI가 계획을 손볼 여지도 있다."
+              "x": "젬마 4 E4B 구동에는 LiteRT-LM을, 번역한 말을 스피커로 내보내는 데에는 Moonshine 음성 합성을 붙였다. 전부 라즈베리파이 5 위에서 돌고, 작은 터치스크린에 직접 만든 화면이 번역을 실시간으로 보여준다."
+            },
+            {
+              "t": "p",
+              "x": "이 프로젝트에서 가장 눈에 띄는 대목은 초기 설정만 끝내면 전부 오프라인으로 돈다는 점이다. 셀룰러도 와이파이도 닿지 않는 곳에서 그냥 쓴다. 서버에 기대 연산을 빌리지 않고도 젬마 4 E4B가 번역을 감당한다. 구글 번역을 비롯한 대부분의 번역 앱은 음성을 옮기려면 인터넷에 물려 있어야 한다."
+            },
+            {
+              "t": "p",
+              "x": "번역기는 구글 안티그래비티와 젬마 4 모델을 한꺼번에 보여주는 좋은 진열장이다. 케이스용 3D 프린팅 파일과 코드는 모두 깃허브에 올라와 있어, 누구든 내려받아 컴파일해 자기 번역기를 만든다."
             }
           ]
         },
-        "image": "pipeline/media/gadgets-openai-ring-speaker-price.jpg",
+        "video": "pipeline/media/gadgets-gemma4-offline-translator.mp4",
+        "poster": "pipeline/media/gadgets-gemma4-offline-translator.jpg",
+        "image": "pipeline/media/gadgets-gemma4-offline-translator.jpg",
         "free": true,
         "hasFull": true
       },
       {
-        "id": "gadgets-meta-rayban-muse-spark-handwriting",
+        "id": "gadgets-gemini-wear-os-overlay",
         "eyebrow": "AI NEWS",
-        "headline": "메타 레이밴 디스플레이가 손가락\n글씨를 프롬프트로 읽는다",
-        "body": "뮤즈 스파크가 올라가고, 평평한 면 아무 데나 손가락으로 프롬프트를 쓴다.",
+        "headline": "픽셀 워치 제미나이, 전체 화면 앱을\n버리고 오버레이로 갈아탔다",
+        "body": "제미나이가 워치에서 전체 화면 앱을 접고 폰과 같은 오버레이로 얹힌다.",
         "tool": "Gadgets",
-        "source": "Android Authority",
-        "url": "https://www.androidauthority.com/meta-ray-ban-display-muse-spark-3692414/",
+        "source": "Digital Trends",
+        "url": "https://www.digitaltrends.com/wearables/geminis-revamped-wear-os-design-is-finally-rolling-out-and-it-was-worth-the-wait/",
         "accent": "#0070f3",
         "motif": "headset",
-        "image": "pipeline/media/gadgets-meta-rayban-muse-spark-handwriting.jpg",
+        "image": "pipeline/media/gadgets-gemini-wear-os-overlay.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "gadgets-ios27-gymkit-iphone-airpods",
+        "id": "gadgets-pixel-ai-lockscreen-clocks",
         "eyebrow": "AI NEWS",
-        "headline": "아이폰과 에어팟 프로 3가\n애플워치 없이 짐킷을 돌린다",
-        "body": "iOS 27에서는 아이폰을 러닝머신에 대고 에어팟 프로 3가 심박을 넘긴다.",
-        "tool": "Gadgets",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-        "accent": "#2ec5c5",
-        "motif": "headset",
-        "image": "pipeline/media/gadgets-ios27-gymkit-iphone-airpods.jpg",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "gadgets-viture-pro-2-xr-glasses",
-        "eyebrow": "AI NEWS",
-        "headline": "Viture Pro 2가 299달러에\n더 밝고 20% 가벼워졌다",
-        "body": "1,600니트로 밝아지고 63그램까지 가벼워진 Pro 2가 299달러에 나왔다.",
-        "tool": "Gadgets",
-        "source": "Gizmodo",
-        "url": "https://gizmodo.com/vitures-new-xr-glasses-are-sharper-brighter-and-way-less-expensive-2000794771",
-        "accent": "#eb367f",
-        "motif": "headset",
-        "image": "pipeline/media/gadgets-viture-pro-2-xr-glasses.jpg",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "gadgets-galaxy-z-flip-8-flexwindow",
-        "eyebrow": "AI NEWS",
-        "headline": "갤럭시 Z 플립 8은 좋아졌지만\n커버 화면 AI는 앱 제한에 걸린다",
-        "body": "하드웨어는 한 뼘 다듬어졌지만 커버 화면에 올릴 앱은 여전히 크게 묶여 있다.",
+        "headline": "구글, 픽셀 잠금화면 시계를\nAI로 생성하는 기능 준비",
+        "body": "안드로이드 카나리아 2608에서 프롬프트로 숫자를 그리는 잠금화면 시계가 나왔다.",
         "tool": "Gadgets",
         "source": "9to5Google",
-        "url": "https://9to5google.com/2026/08/06/samsung-galaxy-z-flip-8/",
-        "accent": "#f5a623",
+        "url": "https://9to5google.com/2026/08/06/android-ai-lockscreen-clocks/",
+        "accent": "#7928ca",
         "motif": "headset",
-        "image": "pipeline/media/gadgets-galaxy-z-flip-8-flexwindow.jpg",
+        "image": "pipeline/media/gadgets-pixel-ai-lockscreen-clocks.jpg",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "gadgets-kids-smartwatch-stalkerware",
+        "eyebrow": "AI NEWS",
+        "headline": "아이 지키라는 스마트워치,\n연구진 손에서 스토킹 장비가 됐다",
+        "body": "연구진이 30달러짜리 어린이 워치로 위치 추적과 사진 촬영, 도청까지 몰래 해냈다.",
+        "tool": "Gadgets",
+        "source": "Digital Trends",
+        "url": "https://www.digitaltrends.com/wearables/kids-smartwatches-are-meant-to-keep-children-safe-but-hackers-can-turn-them-into-stalking-devices/",
+        "accent": "#2ec5c5",
+        "motif": "headset",
+        "image": "pipeline/media/gadgets-kids-smartwatch-stalkerware.jpg",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "gadgets-esp32-tiny-llm",
+        "eyebrow": "AI NEWS",
+        "headline": "10달러 마이크로컨트롤러에서\n초당 10토큰으로 도는 LLM",
+        "body": "2890만 파라미터 모델이 10달러 ESP32-S3에서 초당 9.88토큰을 뱉는다.",
+        "tool": "Gadgets",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/the-next-age-of-llms-dev-gets-a-small-llm-running-at-10-tokens-a-second-locally-on-a-usd10-microcontroller",
+        "accent": "#eb367f",
+        "motif": "headset",
+        "image": "pipeline/media/gadgets-esp32-tiny-llm.jpg",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-08-02",
-        "cards": [
-          {
-            "id": "samsung-galaxy-glasses-gemini",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "headline": "메타 레이밴에 맞설 삼성 글래스가 구글과 함께 온다",
-            "body": "삼성이 구글, 젠틀몬스터와 함께 만든 제미나이 스마트 글래스로 실시간 번역과 길 안내를 예고했다.",
-            "source": "Android Authority",
-            "url": "https://www.androidauthority.com/samsung-galaxy-gemini-smart-glasses-3689544/",
-            "accent": "#ff5a4d",
-            "motif": "headset",
-            "image": "pipeline/media/samsung-galaxy-glasses-gemini.jpg",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-08-03",
         "cards": [
@@ -2431,6 +2633,81 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-08-07",
+        "cards": [
+          {
+            "id": "gadgets-openai-ring-speaker-price",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "headline": "오픈AI 첫 하드웨어는 화면 없는 도넛형 스피커, 300~400달러",
+            "body": "하키 퍽만 한 링 모양에 화면은 없고, 가격은 300~400달러 선으로 거론된다.",
+            "source": "Engadget",
+            "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
+            "accent": "#ff5a4d",
+            "motif": "headset",
+            "image": "pipeline/media/gadgets-openai-ring-speaker-price.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "gadgets-meta-rayban-muse-spark-handwriting",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "headline": "메타 레이밴 디스플레이가 손가락 글씨를 프롬프트로 읽는다",
+            "body": "뮤즈 스파크가 올라가고, 평평한 면 아무 데나 손가락으로 프롬프트를 쓴다.",
+            "source": "Android Authority",
+            "url": "https://www.androidauthority.com/meta-ray-ban-display-muse-spark-3692414/",
+            "accent": "#0070f3",
+            "motif": "headset",
+            "image": "pipeline/media/gadgets-meta-rayban-muse-spark-handwriting.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "gadgets-ios27-gymkit-iphone-airpods",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "headline": "아이폰과 에어팟 프로 3가 애플워치 없이 짐킷을 돌린다",
+            "body": "iOS 27에서는 아이폰을 러닝머신에 대고 에어팟 프로 3가 심박을 넘긴다.",
+            "source": "9to5Mac",
+            "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+            "accent": "#2ec5c5",
+            "motif": "headset",
+            "image": "pipeline/media/gadgets-ios27-gymkit-iphone-airpods.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "gadgets-viture-pro-2-xr-glasses",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "headline": "Viture Pro 2가 299달러에 더 밝고 20% 가벼워졌다",
+            "body": "1,600니트로 밝아지고 63그램까지 가벼워진 Pro 2가 299달러에 나왔다.",
+            "source": "Gizmodo",
+            "url": "https://gizmodo.com/vitures-new-xr-glasses-are-sharper-brighter-and-way-less-expensive-2000794771",
+            "accent": "#eb367f",
+            "motif": "headset",
+            "image": "pipeline/media/gadgets-viture-pro-2-xr-glasses.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "gadgets-galaxy-z-flip-8-flexwindow",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "headline": "갤럭시 Z 플립 8은 좋아졌지만 커버 화면 AI는 앱 제한에 걸린다",
+            "body": "하드웨어는 한 뼘 다듬어졌지만 커버 화면에 올릴 앱은 여전히 크게 묶여 있다.",
+            "source": "9to5Google",
+            "url": "https://9to5google.com/2026/08/06/samsung-galaxy-z-flip-8/",
+            "accent": "#f5a623",
+            "motif": "headset",
+            "image": "pipeline/media/gadgets-galaxy-z-flip-8-flexwindow.jpg",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -2439,13 +2716,13 @@
     "label": "Science",
     "news": [
       {
-        "id": "science-weathernext-cyclone",
+        "id": "science-ai-designed-phage-genome",
         "eyebrow": "AI NEWS",
-        "headline": "딥마인드 WeatherNext가\n사이클론 예보 하루치를 벌었다",
-        "body": "딥마인드 사흘 예보가 기존 모델 이틀치만큼 정확해 예보가 하루 앞당겨졌다.",
+        "headline": "AI가 설계한 바이러스 16종이\n내성균을 실제로 죽였다",
+        "body": "스탠퍼드대와 Arc Institute가 언어모델로 만든 파지 유전체 16개가 항생제 내성 대장균을 죽였다.",
         "tool": "Science",
-        "source": "Google DeepMind",
-        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/ai-just-created-a-virus-not-found-in-nature-and-scientists-are-worried/",
         "accent": "#2ec5c5",
         "motif": "sphere",
         "full": {
@@ -2453,156 +2730,117 @@
           "blocks": [
             {
               "t": "p",
-              "x": "열대 사이클론은 지난 50년 동안 70만 명 넘는 목숨을 앗아 갔고 1조 4천억 달러의 경제 손실을 남겼다. 구글 딥마인드의 WeatherNext는 사이클론의 경로와 강도, 바람 구조를 예측하는 데서 지금까지 나온 어떤 모델보다 정확했다. 연구 결과는 Nature에 실렸다."
+              "x": "스탠퍼드대와 비영리 AI·생물학 연구기관 Arc Institute 연구진은 세균을 죽이는 바이러스인 박테리오파지 ΦX174의 실제 유전체를 원본 삼아 새 바이러스를 만들었다."
+            },
+            {
+              "t": "p",
+              "x": "다른 박테리오파지 200만여 종의 유전체로 학습한 대규모 언어모델 두 개가 자연에 없던 바이러스를 만들어냈다. 학술지 Science에 실은 논문에서 연구진은 이 바이러스들이 항생제 내성균까지 죽인다는 것을 보였다."
             },
             {
               "t": "img",
-              "src": "https://lh3.googleusercontent.com/3BMNDD6KsweyeknlgRFzv4YGRpwQsVyHMAoWStS_AVk1AFjAKHWNNIdPx1C4r3jjUVRZzk0XzQrReViFE9Af824sc-ttQTU1afHB5aLvNGEYX8QRtw=w1440-h810-n-nu",
-              "cap": "미국 남동부로 향하는 사이클론의 예상 경로. 노란색과 주황색 동심원이 진로와 강도를 나타낸다. Credit: Google DeepMind"
+              "src": "https://static.scientificamerican.com/dam/asset/36acacc1-14fe-4ca9-9d20-ed0922585e9a/AI-virus.png?m=1786120719.905&w=600",
+              "cap": "스탠퍼드대의 Brian Hie와 Aditi Merchant가 유전체 설계를 제안하는 인공지능 도구 Evo 2가 만들어낸 단백질 구조를 살펴보고 있다. 대장균을 죽이도록 설계한 Evo 2의 결과물은 실험에서 기대를 웃돌았다."
             },
             {
               "t": "p",
-              "x": "“저희 사흘 예보는 이전 모델이 이틀 앞까지만 내놓던 수준과 맞먹습니다.” 기상 예보 기술로 치면 약 10년치 진전에 해당한다."
+              "x": "\"이번에는 모델이 유전체 전체를 왼쪽에서 오른쪽으로 한 번에 써내길 바랐다\"고 논문 공저자이자 스탠퍼드대 조교수인 Brian Hie가 성명에서 밝혔다. \"우리는 아무것도 덧붙이지 않았다.\""
             },
             {
               "t": "p",
-              "x": "2025년 허리케인 시즌에는 WeatherNext가 미국 국립허리케인센터(NHC)의 예보를 거들었다. 허리케인 멜리사가 빠르게 세력을 키우고 자메이카에 상륙하리라는 판단이 여기서 나왔다. 지금은 사이클론 하나마다 1,000가지 시나리오를 뽑아 예보관 앞에 놓는다."
-            },
-            {
-              "t": "img",
-              "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/KVYBfGrBNy54BoGq/WeatherNext-Cyclones__figure-2_light.svg",
-              "cap": "WeatherNext의 사이클론 예보 흐름. 나흘간의 예상 경로와 바람 강도, 열대폭풍·강한 열대폭풍·1등급 사이클론 바람의 확률 지도를 함께 낸다. Credit: Google DeepMind"
+              "x": "유전자를 새로 만드는 일 자체는 새롭지 않다. 어려운 쪽은 작동하는 유전체 전체다. 유전자들은 서로 얽혀 있어서 그 연쇄 효과까지 맞아떨어져야 하나의 몸으로 굴러간다. 돌연변이 하나면 균형이 깨지고 전체가 죽는다. 단순한 바이러스 유전체는 사람 유전체의 극히 일부 크기지만 그래도 만만치 않게 복잡하다."
             },
             {
               "t": "p",
-              "x": "예보 모델은 보통 경로를 잘 맞히면 강도를 놓치고, 강도를 잡으면 경로가 흔들린다. WeatherNext는 하나의 모델로 경로와 강도, 바람 구조를 한꺼번에 예측해 이 맞바꿈에서 빠져나왔다. 앙상블 예측에는 FGN(Functional Generative Networks)을 썼다. 학습에는 20테라바이트에 가까운 전 지구 대기 자료와 폭풍 약 5,000개가 담긴 IBTrACS 기록을 함께 넣었다."
+              "x": "모델은 파지 유전체 수천 개를 내놓았고, 연구진은 그중 300개 가까이를 화학적으로 합성했다. 이 가운데 16개가 살아남아 특정 대장균(Escherichia coli) 계통을 죽였다. ΦX174 원본 유전체에 내성을 갖도록 변이한 계통도 포함됐다."
             },
             {
               "t": "p",
-              "x": "해상도는 28×28km로 전통 모델보다 100배 거칠다. WeatherNext 2-mini는 111×111km에서도 성능을 지킨다. 이렇게 성기게 보고도 왜 잘 맞히는지는 아직 열린 질문으로 남아 있다. 15일 예보 한 건은 TPU 한 장에서 1분이 안 걸리고, 앙상블 멤버 수는 올해 50개에서 1,000개로 늘었다."
-            },
-            {
-              "t": "img",
-              "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/KVYBfGrBNy54BoGq/WeatherNext-Cyclones__figure-3_light.svg",
-              "cap": "연도별 3일 예보 오차 비교. WeatherNext Cyclones는 2023~2025년 ENS보다 위치 오차가 낮고(약 100km), 강도 오차도 HWRF보다 낮다(약 11kt). Credit: Google DeepMind"
+              "x": "연구를 밀어붙인 배경은 늘어나는 약제 내성균이다. 미국 질병통제예방센터(CDC)에 따르면 미국에서 해마다 항균제 내성 감염이 280만 건 넘게 생기고 평균 3만 5000명 이상이 목숨을 잃는다. 16개 파지를 기반으로 한 약이 내성 계통과 싸우는 데 더 낫다고 Hie는 말했다."
             },
             {
               "t": "p",
-              "x": "구글 딥마인드는 WeatherNext 2와 WeatherNext Cyclones를 GitHub에 공개했다. 학계 연구와 실제 예보 운영, 지역 맞춤 모델 개발에 쓰라는 뜻이다. 이번 연구에는 구글 리서치와 국립허리케인센터, 대기연구협력연구소(CIRA), 영국 기상청이 함께했다. 공식 예보와 경보는 각국 기상 당국 발표를 따르라는 안내도 덧붙였다."
+              "x": "\"세균이 파지 하나에 내성이 생기면 그 약은 거기서 끝난다.\" 그가 말했다. \"유전적으로 다른 파지 여러 개를 섞어두면 세균이 그 칵테일 전체에 내성을 갖기는 훨씬 어렵다.\""
+            },
+            {
+              "t": "p",
+              "x": "미생물 질환과 싸우는 데는 쓸모가 크지만 위험도 뻔하다. 같은 Science에 실린 글에서 존스홉킨스대 공중보건 연구자 Thomas Inglesby와 Moritz Hanke는 이번 실험의 모델이 사람을 감염시켜 죽이는 바이러스의 유전체 데이터를 일부러 빼고 학습했다는 점을 짚었다. 모두가 그만큼 조심스럽고 윤리적이지는 않다는 게 두 사람의 지적이다."
+            },
+            {
+              "t": "p",
+              "x": "\"이 안전장치는 칭찬할 만하지만 병원체 데이터로 모델을 미세조정하면 일부는 우회된다\"고 두 사람은 썼다. \"그게 얼마나 쉬운지, 사전학습 데이터를 뺀 효과를 어느 정도까지 되돌리는지는 아직 답이 없는 물음이다.\""
+            },
+            {
+              "t": "p",
+              "x": "사람을 해치거나 죽이는 바이러스를 만드는 데 이 기술이 쓰이지 않으려면 새 감독 장치가 시급하다고 두 사람은 봤다. 미국 국립보건원(NIH)과 세계보건기구(WHO) 같은 다자기구가 함께 정책을 마련해 이 도구를 통제하는 방안도 거론된다."
+            },
+            {
+              "t": "p",
+              "x": "\"생성형 바이러스 유전체 설계가 존재하느냐는 더 이상 질문이 아니다.\" Inglesby와 Hanke는 이렇게 적었다. \"질문은 사회가 그 이득은 펼치게 하면서 심각한 피해로 이어지는 것은 막을 감독 체계를 세울 수 있느냐다.\""
             }
           ]
         },
-        "image": "pipeline/media/science-weathernext-cyclone.jpg",
+        "image": "pipeline/media/science-ai-designed-phage-genome.jpg",
         "free": true,
         "hasFull": true
       },
       {
-        "id": "science-hidden-goals-agents",
+        "id": "science-claude-novel-cryptanalysis",
         "eyebrow": "AI NEWS",
-        "headline": "목표가 어긋난 에이전트 하나가\n팀 전체의 성능을 끌어내렸다",
-        "body": "밀라 연구팀 실험에서 어긋난 에이전트의 속내는 공개 대화에 거의 드러나지 않았다.",
+        "headline": "클로드가 AES 축소판에서\n새 공격 기법을 찾아냈다",
+        "body": "Anthropic은 Claude가 7라운드 AES와 양자내성 서명 HAWK에서 새 암호분석 기법을 만들어냈다고 밝혔다.",
         "tool": "Science",
-        "source": "Tech Xplore",
-        "url": "https://techxplore.com/news/2026-08-hidden-goals-undermine-ai-teamwork.html",
+        "source": "Live Science",
+        "url": "https://www.livescience.com/technology/artificial-intelligence/ai-found-a-weakness-in-one-of-the-worlds-most-studied-encryption-systems-is-your-data-under-threat",
         "accent": "#0070f3",
         "motif": "cube",
-        "image": "pipeline/media/science-hidden-goals-agents.jpg",
+        "image": "pipeline/media/science-claude-novel-cryptanalysis.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "science-jacobian-counterexample",
+        "id": "science-argonne-agent-atomistic-sim",
         "eyebrow": "AI NEWS",
-        "headline": "87년 동안 버틴 야코비 추측이\nX 게시글 하나에 담긴 반례에 무너졌다",
-        "body": "알푀게가 Claude Fable 5로 야코비 추측의 반례를 3차원에서 찾아냈다.",
+        "headline": "원자 단위 시뮬레이션을\nAI 에이전트가 통째로 돌린다",
+        "body": "아르곤 국립연구소가 원자 단위 시뮬레이션을 처음부터 끝까지 대신 수행하는 다중 에이전트 틀을 공개했다.",
         "tool": "Science",
-        "source": "ScienceDaily",
-        "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+        "source": "Tech Xplore",
+        "url": "https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html",
         "accent": "#7928ca",
         "motif": "frame",
-        "image": "pipeline/media/science-jacobian-counterexample.jpg",
+        "image": "pipeline/media/science-argonne-agent-atomistic-sim.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "science-stroke-rehab-robot",
+        "id": "science-generative-species-contaminate-inaturalist",
         "eyebrow": "AI NEWS",
-        "headline": "치료사의 손을 배운 두 팔 로봇이\n뇌졸중 환자의 재활을 돕는다",
-        "body": "MIT가 물리치료사에게 배워 환자의 힘에 맞춰 보조를 바꾸는 양팔 로봇을 내놨다.",
+        "headline": "존재하지 않는 생물 사진이\n생물다양성 기록을 오염시킨다",
+        "body": "생성형 AI가 지어낸 가짜 종 이미지가 iNaturalist 같은 시민과학 데이터베이스로 흘러들고 있다.",
         "tool": "Science",
-        "source": "MIT News",
-        "url": "https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
-        "accent": "#eb367f",
-        "motif": "headset",
-        "video": "pipeline/media/science-stroke-rehab-robot.mp4",
-        "poster": "pipeline/media/science-stroke-rehab-robot.jpg",
-        "image": "pipeline/media/science-stroke-rehab-robot.jpg",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "science-ai-skill-atrophy",
-        "eyebrow": "AI NEWS",
-        "headline": "AI가 대신 풀면 실력이 깎인다\n곁에서 힌트만 주면 오히려 는다",
-        "body": "AI가 답을 대신 내면 실력이 줄지만, 힌트만 주는 방식은 학습 효과를 지켰다.",
-        "tool": "Science",
-        "source": "Science News",
-        "url": "https://www.sciencenews.org/article/ai-making-us-dumber-learning-skills-risk",
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
         "accent": "#f5a623",
         "motif": "swatch",
-        "image": "pipeline/media/science-ai-skill-atrophy.jpg",
+        "image": "pipeline/media/science-generative-species-contaminate-inaturalist.jpg",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "science-ai-hierarchy-safety-compliance",
+        "eyebrow": "AI NEWS",
+        "headline": "누가 시키느냐에 따라\nAI의 거절 기준이 흔들린다",
+        "body": "지위가 낮게 설정된 AI 에이전트일수록 상급자 역할이 던진 유해한 요청을 더 잘 따랐다.",
+        "tool": "Science",
+        "source": "Science News",
+        "url": "https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety",
+        "accent": "#eb367f",
+        "motif": "headset",
+        "image": "pipeline/media/science-ai-hierarchy-safety-compliance.jpg",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-08-02",
-        "cards": [
-          {
-            "id": "ai-telescope-stargazing",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "headline": "실시간으로 하늘을 살피며 스스로 관측하는 AI 망원경",
-            "body": "노스웨스턴대 연구진의 강화학습 AI가 날씨와 하늘 상태에 맞춰 다크에너지카메라의 관측 일정을 스스로 짠다.",
-            "source": "Phys.org (Northwestern University)",
-            "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
-            "accent": "#2ec5c5",
-            "motif": "sphere",
-            "image": "pipeline/media/ai-telescope-stargazing.jpg",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "ai-agent-synchrotron",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "headline": "싱크로트론 실험을 스스로 준비하는 AI 에이전트",
-            "body": "스탠퍼드·SLAC의 AI 에이전트가 검출기 영상과 실험 기록을 읽고 장비를 제어해 결정 시료를 스스로 정렬한다.",
-            "source": "Phys.org (Stanford / SLAC)",
-            "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/ai-agent-synchrotron.jpg",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "brain-age-sleep-eeg",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "headline": "수면 뇌파로 잰 뇌 나이가 치매 위험을 앞서 짚는다",
-            "body": "UCSF 연구진이 성인 약 7천 명의 수면 뇌파로 뇌 나이를 추정하니, 실제보다 늙은 뇌는 치매 위험이 크게 높았다.",
-            "source": "ScienceDaily (UC San Francisco)",
-            "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/brain-age-sleep-eeg.jpg",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-08-03",
         "cards": [
@@ -2888,6 +3126,81 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-08-07",
+        "cards": [
+          {
+            "id": "science-weathernext-cyclone",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "딥마인드 WeatherNext가 사이클론 예보 하루치를 벌었다",
+            "body": "딥마인드 사흘 예보가 기존 모델 이틀치만큼 정확해 예보가 하루 앞당겨졌다.",
+            "source": "Google DeepMind",
+            "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/science-weathernext-cyclone.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "science-hidden-goals-agents",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "목표가 어긋난 에이전트 하나가 팀 전체의 성능을 끌어내렸다",
+            "body": "밀라 연구팀 실험에서 어긋난 에이전트의 속내는 공개 대화에 거의 드러나지 않았다.",
+            "source": "Tech Xplore",
+            "url": "https://techxplore.com/news/2026-08-hidden-goals-undermine-ai-teamwork.html",
+            "accent": "#0070f3",
+            "motif": "cube",
+            "image": "pipeline/media/science-hidden-goals-agents.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "science-jacobian-counterexample",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "87년 동안 버틴 야코비 추측이 X 게시글 하나에 담긴 반례에 무너졌다",
+            "body": "알푀게가 Claude Fable 5로 야코비 추측의 반례를 3차원에서 찾아냈다.",
+            "source": "ScienceDaily",
+            "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+            "accent": "#7928ca",
+            "motif": "frame",
+            "image": "pipeline/media/science-jacobian-counterexample.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "science-stroke-rehab-robot",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "치료사의 손을 배운 두 팔 로봇이 뇌졸중 환자의 재활을 돕는다",
+            "body": "MIT가 물리치료사에게 배워 환자의 힘에 맞춰 보조를 바꾸는 양팔 로봇을 내놨다.",
+            "source": "MIT News",
+            "url": "https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
+            "accent": "#eb367f",
+            "motif": "headset",
+            "image": "pipeline/media/science-stroke-rehab-robot.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "science-ai-skill-atrophy",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "headline": "AI가 대신 풀면 실력이 깎인다 곁에서 힌트만 주면 오히려 는다",
+            "body": "AI가 답을 대신 내면 실력이 줄지만, 힌트만 주는 방식은 학습 효과를 지켰다.",
+            "source": "Science News",
+            "url": "https://www.sciencenews.org/article/ai-making-us-dumber-learning-skills-risk",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/science-ai-skill-atrophy.jpg",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -2905,199 +3218,125 @@
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [
   {
-    "id": "design-agent-plugins",
+    "id": "design-claude-screen-states",
     "eyebrow": "AI NEWS",
-    "headline": "스킬과 MCP를 한 묶음으로\n에이전트 플러그인 1.0.0 공개",
-    "body": "스킬과 MCP 서버를 한 폴더 규격에 담아 클라이언트마다 따로 포장할 일을 없앴다.",
+    "headline": "Claude가 만든 화면에는\n빈 상태도 오류도 없다",
+    "body": "학습 데이터가 마케팅 화면뿐이라 빈 상태와 로딩, 오류 화면이 늘 빠진다.",
     "tool": "Figma",
-    "source": "Vercel",
-    "url": "https://vercel.com/blog/introducing-agent-plugins",
+    "source": "DEV Community",
+    "url": "https://dev.to/phongdesigns/why-claude-generated-screens-are-missing-their-states-45gd",
     "accent": "#0070f3",
     "motif": "frame",
     "full": {
       "mode": "full",
       "blocks": [
         {
-          "t": "p",
-          "x": "오늘 Agent Plugins 1.0.0이 공개됐다. AI 에이전트를 확장하는 플러그인을 위한 개방형·벤더 중립 표준이다."
+          "t": "img",
+          "src": "https://phongdesigns.com/en/assets/blog/blog-69-cover.webp",
+          "cap": "Claude가 만든 화면에서 빠지는 상태들"
         },
         {
           "t": "p",
-          "x": "Agent Skills는 에이전트가 다시 쓸 수 있는 지시문과 자료를 담고, MCP 서버는 에이전트를 도구와 서비스에 연결한다. 둘 다 여러 클라이언트에서 재사용되지만 포장하고 찾아내는 방식은 클라이언트마다 제각각이었다."
+          "x": "화면을 하나 만들어 달라고 하면 그 화면이 가장 좋았던 날의 모습이 나온다. 콘텐츠는 가득 차 있고 로딩도 실패도 없다. 권한은 이미 받았고 네트워크도 멀쩡하다. 화요일 오후의 제품이 아니라 케이스 스터디 속 제품이다. 흔히 모델의 한계라고들 말하는데, 나는 좀 더 구체적인 문제라고 본다."
         },
         {
           "t": "p",
-          "x": "Agent Plugins는 호환 클라이언트에 공통 형식을 준다. plugin.json 매니페스트가 놓인 디렉터리 하나, 그리고 구성 요소가 들어갈 고정된 자리. 형식은 일부러 작게 잡았고 설치와 배포, 정책, 사용자 경험, 클라이언트 고유 기능은 각 클라이언트 몫으로 남겼다."
+          "x": "공개된 인터페이스 이미지는 거의 전부 마케팅 이미지다. 랜딩 페이지와 케이스 스터디, 갤러리에 걸린 화면 모두 골라낸 것이고 가득 차 있다. 빈 상태를 올리는 사람은 거의 없고 오류 화면을 포트폴리오에 넣는 사람은 아무도 없다. 그래서 “예약 화면”을 요청하면 만 번쯤 본 그 버전, 모든 게 잘 풀린 버전이 나온다. 실패한 게 아니라 배운 대로 돌려주는 것이다. 모자란 쪽은 모델의 능력이 아니라 세상이 굳이 찍어둔 사진이다."
         },
         {
           "t": "p",
-          "x": "확장 기능을 만드는 쪽은 같은 구성 요소를 여러 클라이언트 형식에 맞춰 다시 손봐 왔다. 밑바탕의 스킬이나 MCP 서버는 똑같은데도 클라이언트마다 최상위 메타데이터, 탐색 경로, MCP 설정을 다르게 요구했다. Agent Plugins는 그 공용 부품에 예측 가능한 자리를 하나 내준다."
+          "x": "예약 제품 하나를 보자. 기능 68개, MVP에 44개, 플로우 7개, 주요 화면 28개. 28개면 작은 프로젝트처럼 들린다. 실제 아트보드 수는 몇 배로 불어났다. 화면은 상태를 갖추기 전까지 끝난 게 아니라서다. 로딩, 빈 화면, 오류, 권한, 오프라인, 그 제품이 사용자에게 실제로 할 수 있는 모든 것. 견적이 무너지는 자리가 여기다."
         },
         {
           "t": "p",
-          "x": "매니페스트(plugin.json)에 반드시 있어야 할 값은 규격 버전과 플러그인 이름 둘뿐이다. 나머지 약속은 디렉터리 구조 자체가 대신한다. 재사용할 부품을 클라이언트마다 다시 포장하지 않도록, 규격은 클라이언트가 안을 찾아 읽는 데 필요한 것만 정의한다."
+          "x": "빈 상태는 콘텐츠를 지운 화면이 아니다. 이 사람 앞에 아직 아무것도 없다는 상황에 대한 답이다. 새로 와서인가, 필터로 다 걸러내서인가, 뭔가 실패해서인가. 세 상황, 세 메시지, 세 행동이고 그중 “첫 항목을 추가하세요”는 하나뿐이다. 오류 상태도 빨간 박스가 아니라 복구가 되는지, 입력한 내용이 날아가는지, 사용자 잘못인지를 정하는 일이다. 모델은 어느 쪽이든 그럴듯하게 그려낸다. 다만 지금 어느 상황인지는 브리프에 없으니 고르지 못하고, 묻지도 않는다."
         },
         {
           "t": "p",
-          "x": "호환 클라이언트는 모두 플러그인 루트에서 plugin.json을 확인한다. 스킬을 지원하면 skills/ 아래에서 찾고, MCP 서버를 지원하면 mcp.json에서 설정을 읽는다. 한쪽만 지원해도 되고 둘 다 지원해도 된다. 매니페스트를 검증한 뒤 구성 요소는 따로따로 검증하므로, 하나가 잘못돼도 나머지가 함께 멈추지 않는다."
+          "x": "그래서 상태는 생성 뒤가 아니라 앞에서 이름을 붙인다. 화면 목록을 짤 때, 그 화면이 왜 존재하는지 아직 기억할 때 필요한 상태를 함께 적어둔다. 나중에 붙이면 완성된 화면의 시각적 변형으로 만들어져 레이아웃을 그대로 물려받는다. 그러면 아무것도 거르지 않는 필터 바와 행이 없는 테이블 헤더가 달린 빈 상태가 남는다. 형식은 빈 상태지만 제품으로는 말이 안 된다."
         },
         {
           "t": "p",
-          "x": "범위를 좁게 잡은 건 의도다. 1버전은 Agent Skills와 MCP 서버 두 가지에 계약을 묶었다. 둘 다 이미 각자의 규격과 쓰임새를 갖췄고, Agent Plugins는 그것을 다시 정의하지 않는다. 커맨드와 훅, 에이전트 같은 나머지는 클라이언트에 남는다. 경계를 작게 두면 구현이 쉽고, 더 넓히기 전에 생태계가 모일 여유가 생긴다."
+          "x": "컴포넌트도 마찬가지다. 입력창에는 포커스, 입력됨, 비활성, 오류, 읽기 전용이 있고 버튼에는 눌림, 비활성, 로딩이 있다. 체크박스의 중간 상태는 누가 일괄 선택을 만드는 순간 반드시 나타난다. 라이브러리가 우연히 등장한 것만 담고 있으면, 빠진 상태는 나중에 부딪힌 개발자가 쫓기며 세 군데에서 다르게 만들어 넣는다. 그래서 규칙은 이렇다. 모든 컴포넌트 원형을 만들 필요는 없지만 만든 것은 화면이 요구하지 않았어도 상태 매트릭스를 전부 갖춘다."
         },
         {
           "t": "p",
-          "x": "클라이언트가 움직일 여지도 남겼다. 네임스페이스를 붙인 확장 장치로 클라이언트 고유 데이터와 파일을 담되, 다른 클라이언트는 이를 무시한다. 클라이언트 고유 기능은 표준으로 삼을 이유와 합의가 생기기 전까지 고유한 채로 남는다."
+          "x": "상태야말로 제품이 사용자와 실제로 만나는 자리다. 검색 결과가 비어 있던 날, 결제가 실패한 날, 기차에서 앱을 연 날이다. 잘 다듬은 화면은 보여주는 화면이고 상태는 쓰이는 화면이다."
         },
         {
           "t": "p",
-          "x": "제안은 Vercel이 시작했고 Amazon Web Services(AWS), Anysphere, GitHub, Microsoft, OpenAI, Vercel 소속 대표들이 함께 다듬어 1.0.0을 만들었다. 초기 기술운영위원회에는 AWS, Cursor, Microsoft, OpenAI, Vercel의 코어 메인테이너가 들어갔다. 어느 한 회사의 제품 로드맵이 형식의 방향을 정하지 않는다."
-        },
-        {
-          "t": "p",
-          "x": "규격과 JSON 스키마, 플러그인 작성자·클라이언트 구현자용 가이드는 agent-plugins.org에 있다. 출시 시점 지원 목록은 ChatGPT와 Codex, Cursor, GitHub Copilot, Kiro, VS Code다. 한 번 포장한 플러그인은 지원 클라이언트 사이를 그대로 따라다닌다."
+          "x": "과하게 파고들 수도 있다. 결국 제품에서 잘려나간 화면에 상태를 다 만들어 둔 적도 있다. 버린 작업인 데다, 지켜본 사람들에게 상태 목록이 형식 절차처럼 보이게 만든다. 어디까지 갈지에 깔끔한 규칙도 없다. 오프라인 동작은 현장용 도구엔 결정적이고 사내 대시보드엔 거의 무의미하다. 그 차이를 가르는 방법은 누가 어디서 쓰는지를 제대로 생각해 보는 것뿐이다."
         }
       ]
     },
-    "image": "pipeline/media/design-agent-plugins.png",
+    "image": "pipeline/media/design-claude-screen-states.jpg",
     "free": true,
     "hasFull": true
   },
   {
-    "id": "design-claude-to-figma",
+    "id": "design-figma-claude-code-loop",
     "eyebrow": "AI NEWS",
-    "headline": "다크 모드를 켜자 드러난\n127곳의 토큰 이탈",
-    "body": "원시 색상에 묶인 127곳이 시각 검수를 다 통과했고, 다크 모드를 켜자 드러났다.",
-    "tool": "Figma",
-    "source": "DEV Community",
-    "url": "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
-    "accent": "#3b6bff",
+    "headline": "Figma와 Claude Code\n루프가 깨지는 지점들",
+    "body": "MCP는 구조 데이터만 줄 뿐 화면은 넘기지 않아 픽셀 완벽은 신화다.",
+    "tool": "AI Workflow",
+    "source": "Eleken",
+    "url": "https://www.eleken.co/blog-posts/figma-to-claude-code",
+    "accent": "#ff5a4d",
     "motif": "frame",
-    "image": "pipeline/media/design-claude-to-figma.jpg",
+    "video": "pipeline/media/design-figma-claude-code-loop.mp4",
+    "poster": "pipeline/media/design-figma-claude-code-loop.jpg",
+    "image": "pipeline/media/design-figma-claude-code-loop.jpg",
     "hasFull": true,
     "locked": true
   },
   {
-    "id": "design-cascadeur-2026-2",
+    "id": "design-armature-auto-rig",
     "eyebrow": "AI NEWS",
-    "headline": "캐스케이더 2026.2에 붙은\n애니메이션 레이어와 MCP 서버",
-    "body": "비파괴 레이어와 이징 제어가 들어왔고, MCP 서버로 외부 LLM이 툴을 조작한다.",
+    "headline": "무료 오토 리깅 도구\nArmature가 나왔다",
+    "body": "Armature가 캐릭터를 자동 리깅·스키닝해 USD로 내보내고 인디에겐 무료다.",
     "tool": "KeyShot",
     "source": "CG Channel",
-    "url": "https://www.cgchannel.com/2026/08/nekki-releases-cascadeur-2026-2-with-animation-layers/",
+    "url": "https://www.cgchannel.com/2026/08/armature-is-a-free-ai-assisted-standalone-character-rigging-tool/",
     "accent": "#f5a623",
     "motif": "sphere",
-    "video": "pipeline/media/design-cascadeur-2026-2.mp4",
-    "poster": "pipeline/media/design-cascadeur-2026-2.jpg",
-    "image": "pipeline/media/design-cascadeur-2026-2.jpg",
+    "video": "pipeline/media/design-armature-auto-rig.mp4",
+    "poster": "pipeline/media/design-armature-auto-rig.jpg",
+    "image": "pipeline/media/design-armature-auto-rig.jpg",
     "hasFull": true,
     "locked": true
   },
   {
-    "id": "design-creo-13-triple-a",
+    "id": "design-designesy-40-checks",
     "eyebrow": "AI NEWS",
-    "headline": "PTC가 크레오 13에 심은\n조언·보조·자동화 AI",
-    "body": "조언·보조·자동화 AI가 붙었고, 자동화는 샌드박스에서 변경 전후를 보여준다.",
-    "tool": "Text-to-CAD",
-    "source": "DEVELOP3D",
-    "url": "https://develop3d.com/cad/creo-ai-ptc-advances-its-roadmap/",
-    "accent": "#7928ca",
-    "motif": "cube",
-    "image": "pipeline/media/design-creo-13-triple-a.jpg",
-    "hasFull": true,
-    "locked": true
-  },
-  {
-    "id": "design-state-of-css-2026",
-    "eyebrow": "AI NEWS",
-    "headline": "AI 생성 비중 절반 이하가\n3,031명, 그 위는 721명",
-    "body": "AI 생성 비중이 절반 이하라는 응답이 3,031명, 그 위는 721명에 그쳤다.",
+    "headline": "40개 검사로 채점한\n웹사이트 30곳의 성적표",
+    "body": "30곳을 40개 검사로 채점하니 평균 62.2점, 60%가 D나 F였다.",
     "tool": "Design Tokens",
-    "source": "CSS-Tricks",
-    "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+    "source": "DEV Community",
+    "url": "https://dev.to/levaiinbey/we-scored-30-real-websites-against-a-40-check-design-contract-heres-what-we-found-2hf4",
     "accent": "#2ec5c5",
     "motif": "swatch",
-    "image": "pipeline/media/design-state-of-css-2026.png",
+    "image": "pipeline/media/design-designesy-40-checks.png",
+    "hasFull": true,
+    "locked": true
+  },
+  {
+    "id": "design-electronauts-vr-ui",
+    "eyebrow": "AI NEWS",
+    "headline": "Electronauts가 보여준\nVR 인터페이스의 기본",
+    "body": "드럼스틱을 버튼에 찔러 넣고 트리거를 당기게 해 VR의 촉각 문제를 풀었다.",
+    "tool": "VR Prototype",
+    "source": "Road to VR",
+    "url": "https://roadtovr.com/inside-vr-design-interface-of-electronauts/",
+    "accent": "#eb367f",
+    "motif": "headset",
+    "video": "pipeline/media/design-electronauts-vr-ui.mp4",
+    "poster": "pipeline/media/design-electronauts-vr-ui.jpg",
+    "image": "pipeline/media/design-electronauts-vr-ui.jpg",
     "hasFull": true,
     "locked": true
   }
 ];
   window.AX_DAYS = [
-  {
-    "date": "2026-08-02",
-    "cards": [
-      {
-        "id": "figma-make",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "headline": "피그마 메이크에 속성 패널과 주석 기능이 더해졌다",
-        "body": "AI가 만든 화면을 속성 패널로 직접 손보고, 다시 프롬프트를 쓰지 않고도 의도를 코드로 넘긴다.",
-        "source": "Figma",
-        "url": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/figma-make.png",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "perplexity-color",
-        "eyebrow": "AI NEWS",
-        "tool": "Design Tokens",
-        "headline": "생성형 AI로 발산형 데이터 색상 체계를 만든다",
-        "body": "퍼플렉시티로 발산형 데이터 시각화 팔레트를 짜며, 접근성까지 챙긴 색상 토큰을 만든다.",
-        "source": "UX Collective",
-        "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad",
-        "accent": "#2ec5c5",
-        "motif": "swatch",
-        "image": "pipeline/media/perplexity-color.png",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "unwanted-ai-images",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "headline": "원치 않는 AI 이미지가 사람들을 불안하게 한다",
-        "body": "아마존과 틴더, 레딧이 사용자 사진을 기본값으로 AI 편집하고, 거부는 사용자 몫으로 남긴다.",
-        "source": "Creative Bloq",
-        "url": "https://www.creativebloq.com/ai/from-amazon-to-tinder-and-reddit-tech-platforms-are-giving-users-ai-images-they-didnt-ask-for",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/unwanted-ai-images.jpg",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "ai-fluency",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "headline": "AI 능숙함은 결승선이 아니다",
-        "body": "제품 제작자 90%가 AI 역량을 필수로 꼽지만, 피그마는 팀이 엉뚱한 능력에 매달린다고 짚는다.",
-        "source": "Figma",
-        "url": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
-        "accent": "#3b6bff",
-        "motif": "frame",
-        "image": "pipeline/media/ai-fluency.png",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "creative-technologists",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "headline": "크리에이티브 테크놀로지스트가 중심으로 옮겨간다",
-        "body": "AI가 디자인과 코드의 간극을 좁히며, 직접 만드는 디자이너가 변방에서 팀의 기본값으로 옮겨간다.",
-        "source": "UX Collective",
-        "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6",
-        "accent": "#eb367f",
-        "motif": "frame",
-        "image": "pipeline/media/creative-technologists.png",
-        "hasFull": true,
-        "locked": true
-      }
-    ]
-  },
   {
     "date": "2026-08-03",
     "cards": [
@@ -3379,6 +3618,81 @@
         "accent": "#2ec5c5",
         "motif": "swatch",
         "image": "pipeline/media/design-agent-evidence-approval.png",
+        "hasFull": true,
+        "locked": true
+      }
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "cards": [
+      {
+        "id": "design-agent-plugins",
+        "eyebrow": "AI NEWS",
+        "tool": "Figma",
+        "headline": "스킬과 MCP를 한 묶음으로 에이전트 플러그인 1.0.0 공개",
+        "body": "스킬과 MCP 서버를 한 폴더 규격에 담아 클라이언트마다 따로 포장할 일을 없앴다.",
+        "source": "Vercel",
+        "url": "https://vercel.com/blog/introducing-agent-plugins",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/design-agent-plugins.png",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "design-claude-to-figma",
+        "eyebrow": "AI NEWS",
+        "tool": "Figma",
+        "headline": "다크 모드를 켜자 드러난 127곳의 토큰 이탈",
+        "body": "원시 색상에 묶인 127곳이 시각 검수를 다 통과했고, 다크 모드를 켜자 드러났다.",
+        "source": "DEV Community",
+        "url": "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
+        "accent": "#3b6bff",
+        "motif": "frame",
+        "image": "pipeline/media/design-claude-to-figma.jpg",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "design-cascadeur-2026-2",
+        "eyebrow": "AI NEWS",
+        "tool": "KeyShot",
+        "headline": "캐스케이더 2026.2에 붙은 애니메이션 레이어와 MCP 서버",
+        "body": "비파괴 레이어와 이징 제어가 들어왔고, MCP 서버로 외부 LLM이 툴을 조작한다.",
+        "source": "CG Channel",
+        "url": "https://www.cgchannel.com/2026/08/nekki-releases-cascadeur-2026-2-with-animation-layers/",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "image": "pipeline/media/design-cascadeur-2026-2.jpg",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "design-creo-13-triple-a",
+        "eyebrow": "AI NEWS",
+        "tool": "Text-to-CAD",
+        "headline": "PTC가 크레오 13에 심은 조언·보조·자동화 AI",
+        "body": "조언·보조·자동화 AI가 붙었고, 자동화는 샌드박스에서 변경 전후를 보여준다.",
+        "source": "DEVELOP3D",
+        "url": "https://develop3d.com/cad/creo-ai-ptc-advances-its-roadmap/",
+        "accent": "#7928ca",
+        "motif": "cube",
+        "image": "pipeline/media/design-creo-13-triple-a.jpg",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "design-state-of-css-2026",
+        "eyebrow": "AI NEWS",
+        "tool": "Design Tokens",
+        "headline": "AI 생성 비중 절반 이하가 3,031명, 그 위는 721명",
+        "body": "AI 생성 비중이 절반 이하라는 응답이 3,031명, 그 위는 721명에 그쳤다.",
+        "source": "CSS-Tricks",
+        "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+        "accent": "#2ec5c5",
+        "motif": "swatch",
+        "image": "pipeline/media/design-state-of-css-2026.png",
         "hasFull": true,
         "locked": true
       }

@@ -1,30 +1,29 @@
 {
-  "date": "2026-08-07",
-  "section": "books",
   "media": [
     {
-      "id": "books-harpercollins-human-authorship",
+      "id": "books-amazon-ai-study",
       "type": "image",
-      "src": "pipeline/media/books-harpercollins-human-authorship.jpg"
+      "src": "pipeline/media/books-amazon-ai-study.jpg"
     },
     {
-      "id": "books-papers-ai-workspace",
+      "id": "books-harpercollins-ai-audiobooks",
       "type": "image",
-      "src": "pipeline/media/books-papers-ai-workspace.jpg"
+      "src": "pipeline/media/books-harpercollins-ai-audiobooks.jpg"
     },
     {
-      "id": "books-korea-ai-labeling",
+      "id": "books-authors-of-colour-ai-suspicion",
       "type": "image",
-      "src": "pipeline/media/books-korea-ai-labeling.png"
+      "src": "pipeline/media/books-authors-of-colour-ai-suspicion.jpg"
     },
     {
-      "id": "books-chakdoduk-ai-translation",
-      "type": "svg"
+      "id": "books-peer-review-revolution",
+      "type": "image",
+      "src": "pipeline/media/books-peer-review-revolution.jpg"
     },
     {
-      "id": "books-perplexity-ebook-store",
+      "id": "books-substack-pangram-detection",
       "type": "image",
-      "src": "pipeline/media/books-perplexity-ebook-store.jpg"
+      "src": "pipeline/media/books-substack-pangram-detection.png"
     }
   ]
 }

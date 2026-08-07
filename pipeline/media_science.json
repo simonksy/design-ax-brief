@@ -1,32 +1,29 @@
 {
-  "date": "2026-08-07",
-  "section": "science",
   "media": [
     {
-      "id": "science-weathernext-cyclone",
+      "id": "science-ai-designed-phage-genome",
       "type": "image",
-      "src": "pipeline/media/science-weathernext-cyclone.jpg"
+      "src": "pipeline/media/science-ai-designed-phage-genome.jpg"
     },
     {
-      "id": "science-hidden-goals-agents",
+      "id": "science-claude-novel-cryptanalysis",
       "type": "image",
-      "src": "pipeline/media/science-hidden-goals-agents.jpg"
+      "src": "pipeline/media/science-claude-novel-cryptanalysis.jpg"
     },
     {
-      "id": "science-jacobian-counterexample",
+      "id": "science-argonne-agent-atomistic-sim",
       "type": "image",
-      "src": "pipeline/media/science-jacobian-counterexample.jpg"
+      "src": "pipeline/media/science-argonne-agent-atomistic-sim.jpg"
     },
     {
-      "id": "science-stroke-rehab-robot",
-      "type": "video",
-      "src": "pipeline/media/science-stroke-rehab-robot.mp4",
-      "poster": "pipeline/media/science-stroke-rehab-robot.jpg"
+      "id": "science-generative-species-contaminate-inaturalist",
+      "type": "image",
+      "src": "pipeline/media/science-generative-species-contaminate-inaturalist.jpg"
     },
     {
-      "id": "science-ai-skill-atrophy",
+      "id": "science-ai-hierarchy-safety-compliance",
       "type": "image",
-      "src": "pipeline/media/science-ai-skill-atrophy.jpg"
+      "src": "pipeline/media/science-ai-hierarchy-safety-compliance.jpg"
     }
   ]
 }

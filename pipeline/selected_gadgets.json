@@ -1,72 +1,122 @@
-[
-  {
-    "id": "gadgets-openai-ring-speaker-price",
-    "title": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
-    "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
-    "source": "Engadget",
-    "category": "gadgets",
-    "tool": "Gadgets",
-    "accent": "#ff5a4d",
-    "motif": "headset",
-    "og_image": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/intro-1786052707.jpg",
-    "published_iso": "2026-08-06T21:50:00Z",
-    "excerpt": "OpenAI's first hardware device is a ring/doughnut-shaped, hockey-puck-sized screenless smart speaker designed with Jony Ive, priced at $300-$400. It is battery-powered and portable, with a camera and sensors feeding it context about its environment.",
-    "rationale": "The first hard spec and price for the Jony Ive OpenAI device — a screenless, sensor-fed object that forces designers to think about interaction without a display."
+{
+  "date": "2026-08-08",
+  "section": "gadgets",
+  "selected_count": 5,
+  "picks": [
+    {
+      "rank": 1,
+      "title": "Google built a portable AI translator that works offline, and you can build one too",
+      "url": "https://www.androidauthority.com/google-offline-ai-translator-gemma-4-3695674/",
+      "source": "Android Authority",
+      "published_iso": "2026-08-07T07:04:46+00:00",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/gemma-translator-featured-image.jpg",
+      "excerpt": "Google engineers ran Gemma 4 E4B on a Raspberry Pi inside a 3D-printed housing to make a fully offline AI translator. It is a working reference for how small on-device models let hardware makers ship AI features with no cloud dependency.",
+      "rationale": "A buildable, Google-authored reference design proving an AI product can ship with zero cloud dependency — the most directly actionable hardware item in the pool."
+    },
+    {
+      "rank": 2,
+      "title": "Gemini's revamped Wear OS design is finally rolling out, and it was worth the wait",
+      "url": "https://www.digitaltrends.com/wearables/geminis-revamped-wear-os-design-is-finally-rolling-out-and-it-was-worth-the-wait/",
+      "source": "Digital Trends",
+      "published_iso": "2026-08-06T21:53:37-07:00",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/05/Wear-OS-7-featured-image.jpg?resize=1200%2C630",
+      "excerpt": "Gemini on Wear OS drops its full-screen app for an overlay that matches the phone experience, with live transcripts and a clearer mic indicator. It is a concrete lesson in adapting assistant UI to a tiny round canvas.",
+      "rationale": "A shipped, concrete assistant-UI redesign for the smallest canvas — full-screen to overlay, with live transcript and mic-state cues designers can copy tomorrow."
+    },
+    {
+      "rank": 3,
+      "title": "Google working on AI-generated lockscreen clocks for Pixel",
+      "url": "https://9to5google.com/2026/08/06/android-ai-lockscreen-clocks/",
+      "source": "9to5Google",
+      "published_iso": "2026-08-06T22:24:55+00:00",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Android Canary 2608 reveals AI-generated lockscreen clocks alongside customizable Quick Settings. Generative UI is moving from wallpapers into functional interface elements on the most-seen screen of the phone.",
+      "rationale": "Generative UI crossing from decoration into a functional interface element on the most-viewed screen of the phone — a live signal of where system UI design is heading."
+    },
+    {
+      "rank": 4,
+      "title": "Kids' smartwatches are meant to keep children safe, but hackers can turn them into stalking devices",
+      "url": "https://www.digitaltrends.com/wearables/kids-smartwatches-are-meant-to-keep-children-safe-but-hackers-can-turn-them-into-stalking-devices/",
+      "source": "Digital Trends",
+      "published_iso": "2026-08-07T09:25:00-07:00",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/kid-wearing-smartwatch.jpg?resize=1200%2C630",
+      "excerpt": "Researchers used a $30 kids' smartwatch to covertly track location, take photos and record audio, a flaw shared across dozens of GPS watch brands. Always-on sensing wearables are shipping without the security design their form factor demands.",
+      "rationale": "Hard evidence that always-on sensing wearables ship without the security design their form factor demands — a design-integrity story, not a spec bump."
+    },
+    {
+      "rank": 5,
+      "title": "The next age of LLMs? Dev gets a small LLM running at 10 tokens a second locally on a $10 microcontroller",
+      "url": "https://www.techradar.com/pro/the-next-age-of-llms-dev-gets-a-small-llm-running-at-10-tokens-a-second-locally-on-a-usd10-microcontroller",
+      "source": "TechRadar",
+      "published_iso": "2026-08-07T19:35:00Z",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XJxYihidzczXcGX9g2rsNn-1920-80.jpg",
+      "excerpt": "A developer ran a 28.9M-parameter model at 10 tokens per second on a sub-$10 microcontroller. If language models fit that budget, almost any connected object becomes a plausible AI interface.",
+      "rationale": "Redraws the cost floor for embedded AI: at sub-$10 BOM, almost any connected object becomes a plausible conversational interface."
+    }
+  ],
+  "dedup": {
+    "checked_against": "news_data.json sections.gadgets (today 2026-08-07 + days 2026-08-02..2026-08-06, 21 published cards)",
+    "dropped_as_duplicate": [],
+    "dropped_as_out_of_scope": [
+      {
+        "url": "https://www.pcmag.com/picks/the-best-smart-glasses",
+        "reason": "buying-guide roundup with no news hook"
+      },
+      {
+        "url": "https://www.techradar.com/ai-platforms-assistants/keen-to-get-alexa-but-dont-have-the-necessary-hardware-these-are-the-9-amazon-devices-we-recommend-to-get-you-up-and-running",
+        "reason": "buying-guide listicle with no news hook"
+      },
+      {
+        "url": "https://www.tomsguide.com/computing/laptops/the-hp-elitebook-x-g2i-is-the-ai-laptop-built-to-move-as-fast-as-your-business-and-then-some",
+        "reason": "vendor-promotional framing, no verifiable news hook"
+      }
+    ],
+    "near_duplicates_deprioritized": [
+      {
+        "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
+        "reason": "same Gurman Apple-glasses reporting thread as published 2026-08-03 card gadgets-apple-ai-glasses-wwdc27; distinct angle but kept out to avoid a repeat subject"
+      },
+      {
+        "url": "https://www.pcworld.com/article/3203877/the-fcc-just-changed-the-rules-for-robot-vacuums-heres-what-it-means-for-yours.html",
+        "reason": "same FCC connected-robot import rule already summarized inside the published 2026-08-05 BYD Xiao Di card"
+      }
+    ]
   },
-  {
-    "id": "gadgets-meta-rayban-muse-spark-handwriting",
-    "title": "Meta Ray-Ban smart glasses are getting smarter with a significant AI model upgrade",
-    "url": "https://www.androidauthority.com/meta-ray-ban-display-muse-spark-3692414/",
-    "source": "Android Authority",
-    "category": "gadgets",
-    "tool": "Gadgets",
-    "accent": "#0070f3",
-    "motif": "headset",
-    "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display-2.jpg",
-    "published_iso": "2026-07-29T11:26:00Z",
-    "excerpt": "Meta's v127 update brings the Muse Spark model to Ray-Ban Display, plus Neural Handwriting — writing prompts with a finger on any flat surface via the Neural Band — and Threads/Instagram voice interactions.",
-    "rationale": "Neural Handwriting turns any flat surface into an input field — a genuinely new text-entry modality shipping on consumer eyewear today."
-  },
-  {
-    "id": "gadgets-ios27-gymkit-iphone-airpods",
-    "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-    "url": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-    "source": "9to5Mac",
-    "category": "gadgets",
-    "tool": "Gadgets",
-    "accent": "#2ec5c5",
-    "motif": "headset",
-    "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
-    "published_iso": "2026-08-06T19:51:00Z",
-    "excerpt": "iOS 27 extends GymKit beyond the Apple Watch, letting iPhone plus AirPods Pro 3 tap gym equipment for real-time metrics — sensing moves off the wrist and into the ears.",
-    "rationale": "Sensing moves off the wrist and into the ears — a concrete signal that health UX should stop assuming a watch is the primary sensor."
-  },
-  {
-    "id": "gadgets-viture-pro-2-xr-glasses",
-    "title": "Viture's New XR Glasses Are Sharper, Brighter, and Way Less Expensive",
-    "url": "https://gizmodo.com/vitures-new-xr-glasses-are-sharper-brighter-and-way-less-expensive-2000794771",
-    "source": "Gizmodo",
-    "category": "gadgets",
-    "tool": "Gadgets",
-    "accent": "#eb367f",
-    "motif": "headset",
-    "og_image": "https://gizmodo.com/app/uploads/2026/08/viture-pro-2.jpg",
-    "published_iso": "2026-08-06T13:00:00Z",
-    "excerpt": "Viture's Pro 2 XR glasses drop to $299 while getting sharper, brighter and roughly 20% lighter than the previous generation — pushing wearable displays toward everyday price and comfort.",
-    "rationale": "A $299, 20%-lighter wearable display moves head-mounted screens into everyday territory — the price point where designing for glasses stops being speculative."
-  },
-  {
-    "id": "gadgets-galaxy-z-flip-8-flexwindow",
-    "title": "I hope Galaxy Z Flip 8 isn't the last of its kind, but I can see why it might",
-    "url": "https://9to5google.com/2026/08/06/samsung-galaxy-z-flip-8/",
-    "source": "9to5Google",
-    "category": "gadgets",
-    "tool": "Gadgets",
-    "accent": "#f5a623",
-    "motif": "headset",
-    "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-01.jpg",
-    "published_iso": "2026-08-06T18:30:00Z",
-    "excerpt": "The Z Flip 8's redesigned FlexWindow brings Gemini Intelligence and Now Brief to the cover screen, but app restrictions limit how far the glanceable, unfold-free AI interaction model actually goes.",
-    "rationale": "A shipping case study in glanceable AI on a tiny cover screen, and exactly where platform restrictions break the unfold-free interaction model."
+  "diversity_check": {
+    "outlets": {
+      "Android Authority": 1,
+      "Digital Trends": 2,
+      "9to5Google": 1,
+      "TechRadar": 1
+    },
+    "distinct_outlets": 4,
+    "max_per_outlet": 2,
+    "topic_spread": [
+      "on-device AI hardware",
+      "assistant UI on wearables",
+      "generative system UI",
+      "wearable sensing security",
+      "embedded AI cost floor"
+    ]
   }
-]
+}

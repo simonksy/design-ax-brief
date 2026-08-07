@@ -1,34 +1,32 @@
 {
-  "date": "2026-08-07",
-  "section": "games",
   "media": [
     {
-      "id": "games-unreal-mcp-editor",
+      "id": "games-cosmos3",
       "type": "video",
-      "src": "pipeline/media/games-unreal-mcp-editor.mp4",
-      "poster": "pipeline/media/games-unreal-mcp-editor.jpg"
+      "src": "pipeline/media/games-cosmos3.mp4",
+      "poster": "pipeline/media/games-cosmos3.jpg"
     },
     {
-      "id": "games-nvidia-ntc-sdk-arm64",
+      "id": "games-modding-ai",
       "type": "image",
-      "src": "pipeline/media/games-nvidia-ntc-sdk-arm64.jpg"
+      "src": "pipeline/media/games-modding-ai.jpg"
     },
     {
-      "id": "games-unreal-ethical-image-models",
-      "type": "video",
-      "src": "pipeline/media/games-unreal-ethical-image-models.mp4",
-      "poster": "pipeline/media/games-unreal-ethical-image-models.jpg"
-    },
-    {
-      "id": "games-unity-one-api-every-role",
-      "type": "video",
-      "src": "pipeline/media/games-unity-one-api-every-role.mp4",
-      "poster": "pipeline/media/games-unity-one-api-every-role.jpg"
-    },
-    {
-      "id": "games-google-ai-leaks-private-docs",
+      "id": "games-localization",
       "type": "image",
-      "src": "pipeline/media/games-google-ai-leaks-private-docs.jpg"
+      "src": "pipeline/media/games-localization.jpg"
+    },
+    {
+      "id": "games-anishort",
+      "type": "video",
+      "src": "pipeline/media/games-anishort.mp4",
+      "poster": "pipeline/media/games-anishort.jpg"
+    },
+    {
+      "id": "games-gta6-slop",
+      "type": "video",
+      "src": "pipeline/media/games-gta6-slop.mp4",
+      "poster": "pipeline/media/games-gta6-slop.jpg"
     }
   ]
 }

@@ -1,140 +1,61 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "section": "movies",
-  "selected_by": "curator (user deferred — 알아서)",
-  "count": 5,
   "picks": [
     {
-      "rank": 1,
-      "title": "Adobe Announces It Is Further Integrating Into ChatGPT With New Unified Plugin",
-      "url": "https://nofilmschool.com/adobe-plugin-in-chatgpt",
-      "source": "No Film School",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/adobe-plugin-in-chatgpt.webp?id=67582778&width=1245&height=700&quality=50",
-      "excerpt": "Adobe and OpenAI have shipped a single unified plugin that exposes more than 70 Creative Cloud and productivity tools inside ChatGPT. Filmmakers can now describe an outcome and let the chatbot orchestrate which Adobe app actually does the work.",
+      "url": "https://www.awn.com/news/autodesks-new-flow-studio-tools-let-creators-block-and-direct-ai-shots-3d",
+      "source": "Animation World Network",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Freshest and most actionable item in the pool: the entry point to Premiere, Photoshop and Express moves from the app to a chat prompt, which changes where post work actually starts tomorrow."
+      "rationale": "Flow Studio's 3D Editor + Canvas hands filmmakers real blocking, camera and performance control over generative shots — the most directly actionable tool release in the pool.",
+      "published_iso": "2026-08-04T11:51:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/autodesk_flow_studio-final-for_stills.00_00_36_19.still011-1280.jpg?itok=Al8jXwQQ",
+      "excerpt": "Autodesk's Flow Studio adds 3D Editor + Canvas, letting filmmakers block shots, cameras and performance directly in 3D while AI handles final rendering. The release lays groundwork for Maya and DCC integrations and agent-driven directing."
     },
     {
-      "rank": 2,
-      "title": "Brevidy for Adobe Premiere Pro – AI Captions, Automatic Social Clips, and Vertical Reframing in One Panel",
-      "url": "https://www.cined.com/brevidy-for-adobe-premiere-pro-ai-captions-automatic-social-clips-and-vertical-reframing-in-one-panel/",
-      "source": "CineD",
-      "published_iso": "2026-08-05T00:00:00Z",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/Media-Brevidy-C-1300x750.jpg",
-      "excerpt": "Brevidy is an AI toolkit that lives inside Adobe Premiere Pro, handling captioning, automatic clip extraction from long-form edits, vertical reframing and stock browsing in one panel. It targets the export-upload-reimport loop editors currently run for short-form deliverables.",
+      "url": "https://www.youtube.com/watch?v=8P6G4yyzOpA",
+      "source": "Runway (YouTube)",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "A concrete panel an editor can install today that collapses the whole short-form deliverable loop back inside the NLE — the most directly usable tool release in the batch."
+      "rationale": "Seedance 2.5 landing inside Runway puts 30-second single-shot generation and 3D camera blockouts in a workspace editors already use — an availability change you can act on today.",
+      "published_iso": "2026-08-07T08:51:10-07:00",
+      "og_image": "https://i.ytimg.com/vi/8P6G4yyzOpA/maxresdefault.jpg",
+      "excerpt": "Runway announces ByteDance's Seedance 2.5 is now available inside its platform, putting 30-second single-shot generation and 3D camera blockouts alongside Runway's own tools in one filmmaking workspace."
     },
     {
-      "rank": 3,
-      "title": "Disney And TikTok Strike Deal To Bring Fan-Made Short-Form Videos To Disney+",
-      "url": "https://www.cartoonbrew.com/streaming/disney-tiktok-fan-made-shorts-disney-plus-265286.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-08-06T08:58:00Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hoppers.jpg",
-      "excerpt": "Disney and TikTok will let creators build short-form videos from hundreds of official Disney assets, with selected results surfacing on Disney+'s vertical feed. Cartoon Brew contrasts it with the abandoned Disney–Sora deal: this one is asset remixing, not text-to-video generation.",
+      "url": "https://deadline.com/2026/08/chinese-ai-hollywood-bytedance-minimax-the-office-1237028329/",
+      "source": "Deadline",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "The biggest structural news of the day and a clear answer to the Sora question: a major IP holder licensing sanctioned assets for remix instead of open generation."
+      "rationale": "Bootleg 'The Office' and 'Friends' from MiniMax H3 shows how cheaply a video model now reproduces a show's look and cast — a concrete new front in IP enforcement.",
+      "published_iso": "2026-08-07T09:03:06Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Rendering-AI-Column-Badge-1.jpg?w=1024",
+      "excerpt": "Bootleg 'The Office' and 'Friends' clips generated with China's MiniMax H3 are going viral outside China, reminding studios how hard IP policing is when a video model can reproduce a show's look, cast and staging on demand."
     },
     {
-      "rank": 4,
-      "title": "Is this the future of filmmaking?",
-      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
-      "excerpt": "Damian Allen walks through a \"hybrid film set\" built on Beeble's SwitchX and SwitchLight, where real actors and real camera moves are kept while backgrounds and lighting are regenerated in post. His framing for artists: \"the AI result is a pass, not a result.\"",
+      "url": "https://www.animationmagazine.net/2026/08/the-best-of-siggraph-2026/",
+      "source": "Animation Magazine",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "A named artist walking through an actual hybrid-set pipeline, with the sharpest working principle in the pool — treat the generative output as a pass to be graded, not a finished shot."
+      "rationale": "A working VFX supervisor's read on which SIGGRAPH 2026 neural rendering, gaussian splat and AI animation demos actually survive contact with a production pipeline.",
+      "published_iso": "2026-08-07T18:53:15Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-mascot-Mavyn-Vu-c-2026-ACM-SIGGRAPH.jpg",
+      "excerpt": "VFX supervisor Todd Sheridan Perry gives an honest, artist-side read on SIGGRAPH 2026 in LA — what the neural rendering, gaussian splat and AI-assisted animation demos actually mean for production pipelines."
     },
-    {
-      "rank": 5,
-      "title": "Pixar Co-Founder Ed Catmull Joins Jury For GenAI Film Competition",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/ed-catmull-higgsfield-ai-competition-265227.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-08-05T09:08:00Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ed-Catmull-580x326.jpg",
-      "excerpt": "Pixar co-founder and former Disney Animation president Ed Catmull has joined the jury of the Higgsfield Global Film Festival, a competition devoted entirely to generative-AI filmmaking. Higgsfield framed the move around Pixar's history of pairing artists with engineers.",
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "The strongest legitimacy signal yet for GenAI filmmaking — the person who built Pixar's technical culture sitting on the jury — and an open competition creators can actually enter."
-    }
-  ],
-  "dedup": {
-    "checked_against": "news_data.json → sections.movies (today 2026-08-06 + days 2026-08-01…2026-08-05, 20 published cards)",
-    "published_urls_matched": 0,
-    "dropped_as_duplicate": [
-      {
-        "url": "https://www.redsharknews.com/adobe-plugin-chatgpt",
-        "reason": "WITHIN-POOL duplicate of pick 1 — same Adobe/OpenAI unified ChatGPT plugin announcement, same day, different outlet. Kept the No Film School version (filmmaker framing, verified og_image)."
-      }
-    ],
-    "notes": "No candidate matched a published movies URL or story. Near-misses checked and cleared: (a) Cartoon Brew's Ed Catmull / Higgsfield Global Film Festival jury vs published 'movies-kokboru' (AWN, Higgsfield Kök Börü short at SIGGRAPH) — same company, entirely different event and news; (b) Cartoon Brew's Disney–TikTok remix deal vs published 'movies-snapchat-ai-ban' and 'movies-youtube-ai-slop-policy' — all platform-policy adjacent but different companies, different announcements; (c) Brevidy (CineD) vs published 'movies-ae-portal' and 'frame-io-search' — different vendor, different product. The two Cartoon Brew AI posts published 2026-08-05 two hours apart (Eli Roth, Ed Catmull) are a content-hub pair on the same source; only the stronger one (Catmull) was taken, per the one-best-of-a-hub rule."
-  },
-  "diversity": {
-    "outlets": {
-      "No Film School": 1,
-      "CineD": 1,
-      "Cartoon Brew": 2,
-      "ProVideo Coalition": 1
-    },
-    "distinct_outlets": 4,
-    "max_per_outlet": 2,
-    "themes": [
-      "creative-suite agent integration",
-      "NLE-native AI tooling",
-      "IP licensing for creator remix",
-      "hybrid set / generative relighting craft",
-      "GenAI filmmaking legitimacy & festivals"
-    ]
-  },
-  "not_selected": [
     {
       "url": "https://www.cartoonbrew.com/artificial-intelligence/eli-roth-ice-cream-man-genai-265223.html",
-      "reason": "Strong story, but it is the weaker half of a same-source content-hub pair with the Ed Catmull post and would push Cartoon Brew to 3 cards, breaking the ≤2-per-outlet guard."
-    },
-    {
-      "url": "https://80.lv/articles/this-blender-add-on-lets-you-draw-animation-paths-in-viewport",
-      "reason": "Genuinely useful Blender add-on, but no AI angle — every published movies card carries an AI hook."
-    },
-    {
-      "url": "https://80.lv/articles/anishort-unifies-scriptwriting-storyboarding-video-generation-in-one-workflow",
-      "reason": "On-brief but thin sourcing and no og_image; edged out by the Brevidy release, which ships inside a tool editors already run."
-    },
-    {
-      "url": "https://vfxvoice.com/bringing-closure-with-the-boys-season-5/",
-      "reason": "Traditional VFX retrospective, no AI angle."
-    },
-    {
-      "url": "https://postperspective.com/filmlight-announces-first-jury-group-for-2026-colour-awards/",
-      "reason": "Awards-jury announcement with no AI angle and no workflow consequence."
-    },
-    {
-      "url": "https://beforesandafters.com/2026/08/06/on-the-set-pic-the-end-of-oak-street/",
-      "reason": "Single production still with a caption — too thin to carry a card, no AI angle."
-    },
-    {
-      "url": "https://beforesandafters.com/2026/08/01/on-the-set-pic-spider-man-brand-new-day/",
-      "reason": "Single production still with a caption — too thin to carry a card, no AI angle."
-    },
-    {
-      "url": "https://nofilmschool.com/screenwriting-lessons-ted-lasso-reboot",
-      "reason": "Evergreen screenwriting analysis, no AI angle, and would push No Film School to 2 cards."
+      "source": "Cartoon Brew",
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "Roth denying then admitting generative AI in 'Ice Cream Man' is a live case study in how hybrid animation gets disclosed — and what happens when audiences spot it first.",
+      "published_iso": "2026-08-05T07:01:00-07:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ice-Cream-Man-580x326.jpg",
+      "excerpt": "Eli Roth first described the animated sequences in 'Ice Cream Man' as traditionally made, then admitted generative AI was used in \"a very small portion\" after viewers spotted AI shots at early screenings. A case study in disclosure norms for hybrid animation."
     }
   ]
 }

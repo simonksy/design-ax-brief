@@ -1,31 +1,30 @@
 {
-  "date": "2026-08-07",
-  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-openai-ring-speaker-price",
-      "type": "image",
-      "src": "pipeline/media/gadgets-openai-ring-speaker-price.jpg"
+      "id": "gadgets-gemma4-offline-translator",
+      "type": "video",
+      "src": "pipeline/media/gadgets-gemma4-offline-translator.mp4",
+      "poster": "pipeline/media/gadgets-gemma4-offline-translator.jpg"
     },
     {
-      "id": "gadgets-meta-rayban-muse-spark-handwriting",
+      "id": "gadgets-gemini-wear-os-overlay",
       "type": "image",
-      "src": "pipeline/media/gadgets-meta-rayban-muse-spark-handwriting.jpg"
+      "src": "pipeline/media/gadgets-gemini-wear-os-overlay.jpg"
     },
     {
-      "id": "gadgets-ios27-gymkit-iphone-airpods",
+      "id": "gadgets-pixel-ai-lockscreen-clocks",
       "type": "image",
-      "src": "pipeline/media/gadgets-ios27-gymkit-iphone-airpods.jpg"
+      "src": "pipeline/media/gadgets-pixel-ai-lockscreen-clocks.jpg"
     },
     {
-      "id": "gadgets-viture-pro-2-xr-glasses",
+      "id": "gadgets-kids-smartwatch-stalkerware",
       "type": "image",
-      "src": "pipeline/media/gadgets-viture-pro-2-xr-glasses.jpg"
+      "src": "pipeline/media/gadgets-kids-smartwatch-stalkerware.jpg"
     },
     {
-      "id": "gadgets-galaxy-z-flip-8-flexwindow",
+      "id": "gadgets-esp32-tiny-llm",
       "type": "image",
-      "src": "pipeline/media/gadgets-galaxy-z-flip-8-flexwindow.jpg"
+      "src": "pipeline/media/gadgets-esp32-tiny-llm.jpg"
     }
   ]
 }
