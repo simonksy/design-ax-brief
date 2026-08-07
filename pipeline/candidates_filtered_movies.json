@@ -1,141 +1,108 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "section": "movies",
-  "now_iso": "2026-08-06T22:05:00Z",
   "window_hours": 336,
-  "count": 14,
-  "note": "WIDE funnel for the movies section, restricted to sections.movies allowed_domains in pipeline/keywords_movies.json. ACCESS NOTES (repeat of yesterday, still true): variety.com, hollywoodreporter.com, indiewire.com and deadline.com 307-redirect to tollbit.<host> and return HTTP 402 Payment Required, so ZERO candidates could be verified from those four trades (unverifiable leads seen in search only: Bengaluru Short Film Festival adds an AI competition, Urbanworld accepting AI films, IndieWire's Gossip Goblin AI feature 'Gods Don't Give Gifts' theatrical release). awn.com, animationmagazine.net and artofvfx.com return 403 on index AND article pages this run, so AWN's Autodesk Flow Studio 3D Editor + Canvas story was dropped for lack of a verifiable date. theverge.com is blocked for this user agent (WebSearch rejects the domain outright). youtube.com watch pages returned only footer chrome on WebFetch (no JSON-LD uploadDate), so the three rotated social channels (Curious Refuge, Matt Wolfe, Corridor Crew) contributed nothing — dropped rather than guessed. studiodaily.com 302-redirects to chiefmarketer.com; definitionmagazine.com's newest post is 2026-06-30. GATED OUT AS STALE after real date extraction: fxguide Foundry SmartRoto (07-16) and postPerspective's version of it (07-16), fxguide NUKE 17.0 Gaussian Splats (2025-12-12), fxguide StEM3 (07-23, one-day miss), postPerspective Autodesk SIGGRAPH AI+3DGS (07-22), HP Z Captis (07-22), Sohonet/Bind (07-21), Lightcraft Spark Story previz (07-17), Clear Angle 4D Gaussian splat capture (06-09), CineD Seedance 2.5 API (07-21), CineD Adobe Color Mode + Kling 3.0 in Firefly (04-15), CineD Adobe/Topaz Labs acquisition (06-29), CineD Eurocine AI Mini Summit (05-05), postPerspective Tether AE plugin (01-26), Vigloo Studio (07-15), AWN Nura Showcraft (04-30), NFS Adobe MotionStream (04-10), NFS 'AI Arms Race Hits Film School' (04-20), NFS Eddie AI upgrades (2025-10-07), RedShark Netflix GenAI rules (2025-08-24), 80.lv Hyper3D Rodin Gen-2.5 (06-03), vfxvoice Shadows of the Boroughs (07-21), screendaily's entire AI subject page (newest 07-07 Tilly Norwood 'Misaligned'). AVOIDED as recent/duplicate per keywords_movies.avoid_recent and yesterday's shipped pool: Reply AI Film Festival, NVIDIA SIGGRAPH detector, SAGA tracing, YouTube AI slop policy, Snapchat AI-video ban, ChikaBOOM, Greenlight List, Silhouette/Resolve/Blender roundup, Vida Scene Search, Frame.io AI search, Wonder Dynamics Flow Studio, AE 26.3 / AE Portal, BlendCap, Higgsfield Kok Boru, Stranger Things S5 de-aging, FrostFX, Puget Robo Dojo, Netflix 'GenAI in ~300 titles' (3 weeks old anyway). DROPPED by the design-relevance test: Hallstone AI media fund (funding), Foundry/Griptape and Boris FX/iZotope (M&A with no verifiable fresh date), WBD/Paramount merger and Locarno Pro items (pure business). Per-outlet cap respected: Cartoon Brew 3, befores & afters 2, 80.lv 2, all others 1. 8 distinct outlets.",
   "items": [
     {
-      "url": "https://nofilmschool.com/adobe-plugin-in-chatgpt",
-      "source": "No Film School",
+      "url": "https://www.awn.com/news/autodesks-new-flow-studio-tools-let-creators-block-and-direct-ai-shots-3d",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/adobe-plugin-in-chatgpt.webp?id=67582778&width=1245&height=700&quality=50",
-      "excerpt": "Adobe and OpenAI have shipped a single unified plugin that exposes more than 70 Creative Cloud and productivity tools inside ChatGPT. Filmmakers can now describe an outcome and let the chatbot orchestrate which Adobe app actually does the work.",
-      "title": "Adobe Announces It Is Further Integrating Into ChatGPT With New Unified Plugin"
+      "published_iso": "2026-08-04T11:51:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/autodesk_flow_studio-final-for_stills.00_00_36_19.still011-1280.jpg?itok=Al8jXwQQ",
+      "excerpt": "Autodesk's Flow Studio adds 3D Editor + Canvas, letting filmmakers block shots, cameras and performance directly in 3D while AI handles final rendering. The release lays groundwork for Maya and DCC integrations and agent-driven directing."
     },
     {
-      "url": "https://www.redsharknews.com/adobe-plugin-chatgpt",
-      "source": "RedShark News",
+      "url": "https://www.hollywoodreporter.com/business/digital/autodesk-flow-studio-ai-filmmaking-tools-1236663552/",
+      "source": "The Hollywood Reporter",
       "category": "movies",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/Adobe%20Plugin%20in%20ChatGPT%20main.jpg",
-      "excerpt": "Adobe folded its separate ChatGPT apps into one plugin covering over 70 Creative Cloud tools, from Photoshop and Premiere to Express and Acrobat. The plugin picks the right tool for a described task instead of asking the user to choose.",
-      "title": "Adobe folds Photoshop, Express, Acrobat, and more into single ChatGPT plugin"
+      "published_iso": "2026-08-04T15:00:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/CanvasAfter.png?w=1440&h=810&crop=1",
+      "excerpt": "Autodesk unwraps a Flow Studio tool aimed at the core problem of synthetic filmmaking: control. Adding a 3D layer to the edit is meant to make generative shots feel less random and more directed, the company says."
+    },
+    {
+      "url": "https://www.awn.com/news/ilm-and-pixar-named-disneys-ai-push-cost-cuts-continue",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-08-05T21:57:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/twdc1b_0.jpg?itok=WF9YUtiA",
+      "excerpt": "An SEC filing names ILM and Pixar among the units getting machine-learning investment inside Disney, alongside Disney Research Studios and Imagineering. Disney pledges a process that stays \"human-centered, artist-driven,\" landing right after job cuts."
+    },
+    {
+      "url": "https://www.awn.com/news/bob-gaudette-and-kirk-hipkiss-launch-ai-film-and-tv-production-studio-nolia",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-08-06T21:04:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/nolia1.jpg?itok=8T4hKAo9",
+      "excerpt": "Bob Gaudette and Kirk Hipkiss launch Nolia, a Toronto AI film and TV studio built around original IP, with 'The Little Cloud Thief' in development as feature and series. Gaudette's 8-minute AI short took the $50K Grand Prix at this year's Runway AI Festival."
     },
     {
       "url": "https://www.cartoonbrew.com/artificial-intelligence/eli-roth-ice-cream-man-genai-265223.html",
       "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-08-05T07:01:00Z",
+      "published_iso": "2026-08-05T07:01:00-07:00",
       "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ice-Cream-Man-580x326.jpg",
-      "excerpt": "Eli Roth first described the animated sequences in his horror feature 'Ice Cream Man' as a traditional hand-drawn process, then confirmed generative AI was used in \"a very small portion of a few scenes.\" The reversal reopens the question of how directors disclose AI in credited animation work.",
-      "title": "Eli Roth Confirms 'Ice Cream Man' GenAI Use After First Describing A Traditional Animation Process"
+      "excerpt": "Eli Roth first described the animated sequences in 'Ice Cream Man' as traditionally made, then admitted generative AI was used in \"a very small portion\" after viewers spotted AI shots at early screenings. A case study in disclosure norms for hybrid animation."
     },
     {
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/ed-catmull-higgsfield-ai-competition-265227.html",
-      "source": "Cartoon Brew",
+      "url": "https://variety.com/2026/film/news/eli-roth-ice-cream-man-ai-generated-shots-1236828000/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-08-05T09:08:00Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ed-Catmull-580x326.jpg",
-      "excerpt": "Pixar co-founder and former Disney Animation president Ed Catmull has joined the jury of the Higgsfield Global Film Festival, a competition devoted entirely to generative-AI filmmaking. Higgsfield framed the move around Pixar's history of pairing artists with engineers.",
-      "title": "Pixar Co-Founder Ed Catmull Joins Jury For GenAI Film Competition"
+      "published_iso": "2026-08-05T02:31:30Z",
+      "og_image": "https://variety.com/wp-content/uploads/2023/01/eli-roth-solo.jpg?w=999&h=563&crop=1",
+      "excerpt": "Variety's account of Roth walking back his claim that 'Ice Cream Man' contained no AI: he now says generative AI appears in \"a very small portion of a few scenes.\" The reversal reignites the question of how studios label AI-assisted craft work."
     },
     {
-      "url": "https://www.cined.com/brevidy-for-adobe-premiere-pro-ai-captions-automatic-social-clips-and-vertical-reframing-in-one-panel/",
-      "source": "CineD",
+      "url": "https://variety.com/2026/film/news/higgsfield-ai-n3on-ufc-israel-adesanya-rampage-jackson-1236828414/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-08-05T00:00:00Z",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/Media-Brevidy-C-1300x750.jpg",
-      "excerpt": "Brevidy is an AI toolkit that lives inside Adobe Premiere Pro, handling captioning, automatic clip extraction from long-form edits, vertical reframing and stock browsing in one panel. It targets the export-upload-reimport loop editors currently run for short-form deliverables.",
-      "title": "Brevidy for Adobe Premiere Pro – AI Captions, Automatic Social Clips, and Vertical Reframing in One Panel"
+      "published_iso": "2026-08-05T19:20:10Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Still-2026-07-31-213558_1.697.1-1-1.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Higgsfield signed licensing deals for AI avatars of streamer N3on, UFC's Israel Adesanya and Quinton 'Rampage' Jackson for a new feature — a test of how public figures get paid when their likeness and scripts are adapted with generative AI."
     },
     {
-      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
-      "source": "ProVideo Coalition",
+      "url": "https://deadline.com/2026/08/chinese-ai-hollywood-bytedance-minimax-the-office-1237028329/",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
-      "excerpt": "Damian Allen walks through a \"hybrid film set\" built on Beeble's SwitchX and SwitchLight, where real actors and real camera moves are kept while backgrounds and lighting are regenerated in post. His framing for artists: \"the AI result is a pass, not a result.\"",
-      "title": "Is this the future of filmmaking?"
+      "published_iso": "2026-08-07T09:03:06Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Rendering-AI-Column-Badge-1.jpg?w=1024",
+      "excerpt": "Bootleg 'The Office' and 'Friends' clips generated with China's MiniMax H3 are going viral outside China, reminding studios how hard IP policing is when a video model can reproduce a show's look, cast and staging on demand."
     },
     {
-      "url": "https://80.lv/articles/anishort-unifies-scriptwriting-storyboarding-video-generation-in-one-workflow",
-      "source": "80 Level",
+      "url": "https://deadline.com/2026/07/guillermo-del-toro-no-goddmn-ai-pans-labyrinth-re-release-1237003272/",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-07-29T00:00:00Z",
-      "og_image": null,
-      "excerpt": "AniShort pulls scripting, storyboarding, character management, video generation, editing and rendering into one browser-based pipeline. The pitch is that most generative workflows don't solve production problems, they \"simply move them further downstream.\"",
-      "title": "AniShort Unifies Scriptwriting, Storyboarding & Video Generation in One Workflow"
+      "published_iso": "2026-07-25T02:40:27Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/07/MCDPALA_EC025.jpg?w=1024",
+      "excerpt": "Bringing 'Pan's Labyrinth' back to theaters 20 years on, Guillermo del Toro insists the restoration used \"no godd*mn AI\" — sticking to photochemical-faithful techniques as AI upscaling and cleanup spread across archive remastering."
     },
     {
-      "url": "https://www.cartoonbrew.com/streaming/disney-tiktok-fan-made-shorts-disney-plus-265286.html",
-      "source": "Cartoon Brew",
+      "url": "https://www.animationmagazine.net/2026/08/the-best-of-siggraph-2026/",
+      "source": "Animation Magazine",
       "category": "movies",
-      "published_iso": "2026-08-06T08:58:00Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hoppers.jpg",
-      "excerpt": "Disney and TikTok will let creators build short-form videos from hundreds of official Disney assets, with selected results surfacing on Disney+'s vertical feed. Cartoon Brew contrasts it with the abandoned Disney–Sora deal: this one is asset remixing, not text-to-video generation.",
-      "title": "Disney And TikTok Strike Deal To Bring Fan-Made Short-Form Videos To Disney+"
+      "published_iso": "2026-08-07T18:53:15Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-mascot-Mavyn-Vu-c-2026-ACM-SIGGRAPH.jpg",
+      "excerpt": "VFX supervisor Todd Sheridan Perry gives an honest, artist-side read on SIGGRAPH 2026 in LA — what the neural rendering, gaussian splat and AI-assisted animation demos actually mean for production pipelines."
     },
     {
-      "url": "https://80.lv/articles/this-blender-add-on-lets-you-draw-animation-paths-in-viewport",
-      "source": "80 Level",
+      "url": "https://www.youtube.com/watch?v=8P6G4yyzOpA",
+      "source": "Runway (YouTube)",
       "category": "movies",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Motion Painter, a Blender add-on from NodeMonkey, lets animators draw motion paths straight in the viewport instead of keyframing on the timeline. Painted strokes convert into editable keyframes with multiple motion modes and custom brushes.",
-      "title": "This Blender Add-On Lets You Draw Animation Paths in Viewport"
+      "published_iso": "2026-08-07T08:51:10-07:00",
+      "og_image": "https://i.ytimg.com/vi/8P6G4yyzOpA/maxresdefault.jpg",
+      "excerpt": "Runway announces ByteDance's Seedance 2.5 is now available inside its platform, putting 30-second single-shot generation and 3D camera blockouts alongside Runway's own tools in one filmmaking workspace."
     },
     {
-      "url": "https://vfxvoice.com/bringing-closure-with-the-boys-season-5/",
-      "source": "VFX Voice",
+      "url": "https://www.youtube.com/watch?v=EgfzPsHIKQw",
+      "source": "Corridor Crew (YouTube)",
       "category": "movies",
-      "published_iso": "2026-07-28T00:00:00Z",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/07/PIX-1-Starlight.jpg",
-      "excerpt": "VFX supervisor Stephan Fleet looks back on eight years and 40 episodes of 'The Boys,' and how the final season pushed its effects work to its most extreme and grotesque. A craft counterpoint to the generative-tooling news cycle.",
-      "title": "Bringing Closure with The Boys Season 5"
-    },
-    {
-      "url": "https://postperspective.com/filmlight-announces-first-jury-group-for-2026-colour-awards/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-07-29T00:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/filmlight-jurors-copy-624x414.jpg",
-      "excerpt": "FilmLight named the first jurors for its 2026 Colour Awards, including cinematographers Jeff Cronenweth, Natalie Kingston and Chung-hoon Chung alongside colorist Tony D'Amore. Winners are announced at Camerimage in November.",
-      "title": "FilmLight Announces First Jury Group for 2026 Colour Awards"
-    },
-    {
-      "url": "https://beforesandafters.com/2026/08/06/on-the-set-pic-the-end-of-oak-street/",
-      "source": "befores & afters",
-      "category": "movies",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/08/NBR-05107r-1.jpg",
-      "excerpt": "A production still from Warner Bros.' 'The End of Oak Street' showing Ewan McGregor on location with writer-director David Robert Mitchell. Practical, on-set craft imagery from a live shoot.",
-      "title": "On The Set Pic: 'The End of Oak Street'"
-    },
-    {
-      "url": "https://beforesandafters.com/2026/08/01/on-the-set-pic-spider-man-brand-new-day/",
-      "source": "befores & afters",
-      "category": "movies",
-      "published_iso": "2026-08-01T00:00:00Z",
-      "og_image": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/08/SBND-00719_r.jpg?fit=1280%2C853&ssl=1",
-      "excerpt": "Behind-the-scenes still of Tom Holland with director Destin Daniel Cretton on 'Spider-Man: Brand New Day,' shot by Jay Maidment. A look at how the practical side of a tentpole is still staged.",
-      "title": "On The Set Pic: 'Spider-Man: Brand New Day'"
-    },
-    {
-      "url": "https://nofilmschool.com/screenwriting-lessons-ted-lasso-reboot",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://nofilmschool.com/media-library/ted-lasso-season-4-soft-reboot.jpg?id=67582724&width=1245&height=700&quality=50",
-      "excerpt": "A breakdown of how 'Ted Lasso' season four executes a soft reboot: grounding change through setting, pivoting the premise without breaking established arcs, and keeping structure tight against ensemble bloat.",
-      "title": "3 Smart Screenwriting Lessons from the 'Ted Lasso' Season 4 Soft Reboot"
+      "published_iso": "2026-07-26T16:00:30Z",
+      "og_image": "https://i.ytimg.com/vi/EgfzPsHIKQw/maxresdefault.jpg",
+      "excerpt": "Corridor Crew brings in AI experts to break down how fully synthetic YouTube channels are made and how to spot them — a practical detection primer for anyone working with generated footage."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 12,
     "against_days": 5
   }
 }

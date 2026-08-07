@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-07",
-  "section": "design",
   "media": [
     {
-      "id": "design-agent-plugins",
+      "id": "design-claude-screen-states",
       "type": "image",
-      "src": "pipeline/media/design-agent-plugins.png"
+      "src": "pipeline/media/design-claude-screen-states.jpg"
     },
     {
-      "id": "design-claude-to-figma",
-      "type": "image",
-      "src": "pipeline/media/design-claude-to-figma.jpg"
-    },
-    {
-      "id": "design-cascadeur-2026-2",
+      "id": "design-figma-claude-code-loop",
       "type": "video",
-      "src": "pipeline/media/design-cascadeur-2026-2.mp4",
-      "poster": "pipeline/media/design-cascadeur-2026-2.jpg"
+      "src": "pipeline/media/design-figma-claude-code-loop.mp4",
+      "poster": "pipeline/media/design-figma-claude-code-loop.jpg"
     },
     {
-      "id": "design-creo-13-triple-a",
-      "type": "image",
-      "src": "pipeline/media/design-creo-13-triple-a.jpg"
+      "id": "design-armature-auto-rig",
+      "type": "video",
+      "src": "pipeline/media/design-armature-auto-rig.mp4",
+      "poster": "pipeline/media/design-armature-auto-rig.jpg"
     },
     {
-      "id": "design-state-of-css-2026",
+      "id": "design-designesy-40-checks",
       "type": "image",
-      "src": "pipeline/media/design-state-of-css-2026.png"
+      "src": "pipeline/media/design-designesy-40-checks.png"
+    },
+    {
+      "id": "design-electronauts-vr-ui",
+      "type": "video",
+      "src": "pipeline/media/design-electronauts-vr-ui.mp4",
+      "poster": "pipeline/media/design-electronauts-vr-ui.jpg"
     }
   ]
 }

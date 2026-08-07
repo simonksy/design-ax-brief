@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "section": "design",
   "picks": [
     {
@@ -8,25 +8,25 @@
       "category": "figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://vercel.com/blog/introducing-agent-plugins",
-      "source": "Vercel",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Vercel released Agent Plugins 1.0.0, an open, vendor-neutral spec that packages Agent Skills and MCP servers into distributable plugins with a common directory structure and manifest. Design systems and UI conventions can now ship as portable agent skills across compatible clients.",
-      "rationale": "An open spec that lets a design system ship as a portable agent skill instead of a per-tool config."
+      "url": "https://dev.to/phongdesigns/why-claude-generated-screens-are-missing-their-states-45gd",
+      "source": "DEV Community",
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://phongdesigns.com/en/assets/blog/blog-69-cover.webp",
+      "excerpt": "Claude reliably renders the happy path and skips empty, loading and error states, because its training data is mostly polished marketing screenshots. The post proposes prompting and review habits that force the missing states back into AI-generated screens.",
+      "rationale": "Names the exact failure mode of AI-generated screens — no empty, loading or error states — and gives a review habit a designer can apply on the next handoff."
     },
     {
       "rank": 2,
-      "tool": "Figma",
-      "category": "figma",
-      "accent": "#3b6bff",
+      "tool": "AI Workflow",
+      "category": "workflow",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "url": "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
-      "source": "DEV Community",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://phongdesigns.com/en/assets/blog/blog-66-cover.webp",
-      "excerpt": "The author found 127 design instances bound to raw colors instead of design-system tokens — all of which passed visual review until dark mode exposed them. The piece lays out how to constrain AI-generated UI to a closed token set with mechanical validation.",
-      "rationale": "A concrete, numbers-backed method for forcing AI-generated UI back onto a closed token set before dark mode exposes the drift."
+      "url": "https://www.eleken.co/blog-posts/figma-to-claude-code",
+      "source": "Eleken",
+      "published_iso": "2026-08-06T10:32:15Z",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a422c60d3bddb5e28e4dc90_cover.webp",
+      "excerpt": "Learn how Figma to Claude Code works, where it adds real value, and where it falls short. A practical guide to design-to-code workflows, use cases, and limitations.",
+      "rationale": "An agency field report on where the Figma-to-Claude-Code path actually pays off and where it breaks — the limits, not the demo."
     },
     {
       "rank": 3,
@@ -34,55 +34,51 @@
       "category": "render",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://www.cgchannel.com/2026/08/nekki-releases-cascadeur-2026-2-with-animation-layers/",
+      "url": "https://www.cgchannel.com/2026/08/armature-is-a-free-ai-assisted-standalone-character-rigging-tool/",
       "source": "CG Channel",
-      "published_iso": "2026-08-06T00:00:00Z",
+      "published_iso": "2026-08-06T12:41:05Z",
       "og_image": "",
-      "excerpt": "Nekki shipped Cascadeur 2026.2 with a non-destructive animation layer system, easing controls and BVH import. Its AI inbetweening and Motion Generation systems were retrained on larger datasets, and an MCP server lets external LLM agents like Claude drive the animation tool.",
-      "rationale": "A shipping DCC app that hands its controls to an LLM agent over MCP — agentic workflow arriving in animation, not just code."
+      "excerpt": "FabricatorStudio released Armature, a free standalone tool that auto-rigs and skins 3D characters and exports USD for Maya, Unreal Engine and Blender. Optional control-rig generation is available for Maya users.",
+      "rationale": "A free, standalone auto-rigger with USD export drops a paid, hours-long step out of the 3D character pipeline today."
     },
     {
       "rank": 4,
-      "tool": "Text-to-CAD",
-      "category": "cad",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "url": "https://develop3d.com/cad/creo-ai-ptc-advances-its-roadmap/",
-      "source": "DEVELOP3D",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/PTC-Creo-AI-Advisor-1024x576.jpg",
-      "excerpt": "PTC introduced \"Triple A\" AI — Advise, Assist, Automate — in Creo 13, aimed at designer productivity inside the CAD product. \"We want to make sure that the human is always in the loop,\" the company said of its AI-assisted modelling decisions.",
-      "rationale": "Mainstream CAD gets a named AI framework with a human-in-the-loop stance industrial designers will work under."
-    },
-    {
-      "rank": 5,
       "tool": "Design Tokens",
       "category": "tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-      "source": "CSS-Tricks",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Takeaways from the 2026 State of CSS survey, including AI adoption: respondents who use AI generation 0–50% of the time outnumber heavier users 3,031 to 721. The author cautions the sample may skew less AI-dependent than the wider front-end population.",
-      "rationale": "Survey data on how much front-end work is actually AI-generated — a reality check against the hype curve."
+      "url": "https://dev.to/levaiinbey/we-scored-30-real-websites-against-a-40-check-design-contract-heres-what-we-found-2hf4",
+      "source": "DEV Community",
+      "published_iso": "2026-08-07T20:31:33Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.designesy.org%2Fblog%2Fscoring-30-sites%2Fopengraph-image",
+      "excerpt": "Thirty live sites, including major design systems, were scored against a 40-check machine-readable design contract covering spacing, type scale, contrast and state coverage. The results show where even mature systems fail an automated audit.",
+      "rationale": "Turns 'is our design system consistent?' into a 40-check machine-readable contract, with scored evidence that mature systems still fail it."
+    },
+    {
+      "rank": 5,
+      "tool": "VR Prototype",
+      "category": "vr",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "url": "https://roadtovr.com/inside-vr-design-interface-of-electronauts/",
+      "source": "Road to VR",
+      "published_iso": "2026-08-07T16:24:32Z",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/no-text-1.jpg",
+      "excerpt": "Our series Inside XR Design examines specific examples of great XR design. Today we're looking at the game Electronauts and what it can teach us about smart VR interface design.",
+      "rationale": "A teardown of the spatial interface basics every XR prototype keeps getting wrong — reach zones, affordances, and hand-first controls."
     }
   ],
   "dedup": {
     "published_window_days": 5,
-    "dropped_as_duplicate": 1,
-    "dropped_cross_section": 1,
-    "dropped_bad_url": 1,
-    "dropped_as_content_hub": 2,
-    "notes": "No candidate matched any URL or story already published in sections.design (2026-08-01 through 2026-08-06). Coordinator fixes applied: (a) the Engadget Adobe-ChatGPT-plugin story was dropped because the movies section publishes the same story today via No Film School; (b) the Figma AI credit-limits item was dropped because its only URL in the pool is the rolling https://www.figma.com/release-notes/ index — the pool holds no dated article for that story. Both slots were backfilled from the ranked pool. The three same-author, same-day DEV Community posts (phongdesigns, Claude-to-Figma) were treated as one content hub; only the strongest one was kept. CG Channel had 3 candidates; capped at 1.",
-    "backfilled": [
-      "https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b",
-      "https://css-tricks.com/2026-state-of-css-devs-surveys/"
-    ]
+    "dropped_as_duplicate": 0,
+    "dropped_as_content_hub": 1,
+    "dropped_as_noise": 9,
+    "notes": "Checked all 31 candidates against every URL in sections.design today (2026-08-07) plus days 2026-08-02 through 2026-08-06. No candidate URL or story matched a published one. Dropped as a content hub: the Figma YouTube 'Figma Motion basics: Motion path' clip (XlQmD9ewN9Y) — same channel, same 'Figma Motion basics' series and same core topic as the already-published Figma Motion keyframes video (0lnvIXzocj4, 2026-08-05). Dropped as general AI-business / culture noise per run override: CIO Salesforce agentic-workforce index, CIO coding-agent governance brandpost, VentureBeat Liquid AI LFM2.5 model, VentureBeat Tencent Team Memory, VentureBeat multi-agent coding benchmark, Fast Company AISI report, Fast Company California transparency law, Creative Bloq Trump/Mario and Eli Roth items. Adobe Photoshop 27.9.1 dropped for near-zero novelty (maintenance release).",
+    "backfilled": []
   },
   "diversity": {
-    "outlets": ["Vercel", "DEV Community", "CG Channel", "DEVELOP3D", "CSS-Tricks"],
-    "max_per_outlet": 1,
-    "categories": {"figma": 2, "render": 1, "cad": 1, "tokens": 1}
+    "outlets": ["DEV Community", "Eleken", "CG Channel", "Road to VR"],
+    "max_per_outlet": 2,
+    "categories": {"figma": 1, "workflow": 1, "render": 1, "tokens": 1, "vr": 1}
   }
 }

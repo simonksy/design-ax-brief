@@ -1,119 +1,163 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "section": "books",
+  "now_iso": "2026-08-07T22:04:16Z",
   "window_hours": 336,
+  "count": 17,
+  "note": "Books section, 14-day window. Every item's published time was read from og:article:published_time / JSON-LD datePublished / body-text date via direct fetch, then gated with pipeline/freshness.py (books = 336h). Already-published stories in news_data.json sections.books were excluded before fetching. Outlet spread: Good e-Reader 2, ALLi Self-Publishing Advice 3, The Bookseller 3, The Scholarly Kitchen 2, Jane Friedman 2, Publishers Weekly 1, WIRED 1, Publishing Perspectives 1, Books+Publishing 1, The Creative Penn 1 (10 outlets, cap <=3 respected). Note: window_hours('2026-08-07T22:04:16Z') returns 72 (design default); books section window is 336h and is used here, matching prior books runs.",
   "items": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html",
-      "source": "Publishers Weekly",
+      "url": "https://goodereader.com/blog/audiobooks/harpercollins-is-betting-big-on-ai-audiobooks",
+      "source": "Good e-Reader",
       "category": "books",
-      "published_iso": "2026-08-06T15:00:00Z",
-      "og_image": "",
-      "excerpt": "HarperCollins CEO Brian Murray says publishers, agents and authors need a shared set of best practices for AI-written books, warning that books written with AI \"could very well be considered uncopyrightable.\" He argues detection software is not the answer — human-authorship verification standards are."
+      "published_iso": "2026-08-07T10:25:34Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/07062449/harpercollins-publishers-offices-toronto-4-1200x800-1.jpg",
+      "title": "HarperCollins is betting big on AI Audiobooks",
+      "excerpt": "HarperCollins is using its ElevenLabs partnership to push AI-generated narration into foreign-language editions and backlist titles that never justified a studio recording. The publisher says human narration stays its standard, while narrator groups warn about synthetic voices displacing professional voice work."
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100983-after-the-cancellation-of-call-me-i-ll-hide-the-body-what-comes-next.html",
-      "source": "Publishers Weekly",
+      "url": "https://www.thebookseller.com/news/numerous-authors-of-colour-facing-ai-speculation-hard-to-ignore-as-trade-debates-trend",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-08-04T13:00:00Z",
+      "published_iso": "2026-08-07T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/673/asd4.jpg",
+      "title": "'Hard to ignore' – AI speculation sparks debate about whether authors of colour targeted",
+      "excerpt": "A run of authors publicly suspected of using generative AI has triggered a trade-wide debate over whether writers of colour are disproportionately targeted by AI-detection speculation. Agents and publishers say unverifiable accusations are becoming a reputational risk with no reliable adjudication process."
+    },
+    {
+      "url": "https://selfpublishingadvice.org/ai-in-self-published-amazon-books/",
+      "source": "ALLi Self-Publishing Advice",
+      "category": "books",
+      "published_iso": "2026-08-06T12:00:01Z",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-6.jpg",
+      "title": "What the Viral Study of AI in Self-Published Amazon Books Really Sets Out to Do",
+      "excerpt": "Tuhin Chakrabarty's peer-reviewed analysis of 14,419 self-published Amazon titles found signs of AI use in more than 25% of them. Those books sold less than human-written ones but still reached commercially viable revenue, complicating the assumption that readers simply reject AI-assisted work."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/07/guest-post-do-we-need-revolution-in-peer-review/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-08-07T09:30:39Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1068380820-1024x683.jpg",
+      "title": "Guest Post — Do we need (r)evolution in peer review?",
+      "excerpt": "A guest post argues the peer-review system is buckling under reviewer shortages while AI reshapes both submissions and reports: AI-drafted manuscripts show measurably worse readability, and review reports increasingly look AI-assisted. It warns that only large publishers can afford AI reviewer assistants, widening the gap with smaller presses."
+    },
+    {
+      "url": "https://selfpublishingadvice.org/podcast-literary-agents-update-ethics-rules/",
+      "source": "ALLi Self-Publishing Advice",
+      "category": "books",
+      "published_iso": "2026-08-07T12:00:15Z",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_News.jpg",
+      "title": "News Podcast: Literary Agents Update Ethics Rules; Seven-Figure Deal Shelved Over AI Claims",
+      "excerpt": "Dan Holloway's weekly roundup covers the AALA ethics-code rewrite, a seven-figure book deal shelved over AI allegations, and the new peer-reviewed study of AI-assisted books on Amazon. The through-line is that the trade still has no accepted method for proving how a manuscript was written."
+    },
+    {
+      "url": "https://goodereader.com/blog/electronic-readers/these-new-features-are-coming-to-the-iflytek-ainote-2",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-08-07T04:58:53Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/07005653/7-1x.webp",
+      "title": "These new features are coming to the iFlytek AINOTE 2",
+      "excerpt": "iFlytek published a roadmap preview for its AINOTE 2 e-paper writing tablet, detailing AI note-processing upgrades such as categorized bookmarks, structured note insertion and expanded transcription. It is a look at how AI is being wired directly into reading-and-writing hardware rather than a cloud app."
+    },
+    {
+      "url": "https://janefriedman.com/links-of-interest-august-5-2026/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-08-05T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
+      "title": "Links of Interest: August 5, 2026",
+      "excerpt": "Friedman's roundup flags poets discovering their copyrighted work inside Giggle Academy's learning materials, alongside Princeton University Press's AI-licensing partnership. It is a snapshot of how quietly author work keeps surfacing inside AI-fed products."
+    },
+    {
+      "url": "https://www.thecreativepenn.com/2026/08/05/from-blog-to-community-to-book-a-non-fiction-authors-journey-with-suzanne-smith/",
+      "source": "The Creative Penn",
+      "category": "books",
+      "published_iso": "2026-08-05T06:30:00Z",
       "og_image": "",
-      "excerpt": "Nigerian author Jerry Adedayo Falade's debut was pulled after six- and seven-figure deals over AI allegations; he offers 2021 text messages predating ChatGPT as proof of authorship. PW examines the acquisition process that could not verify how the manuscript was made — and the racial-bias pattern Falade points to."
+      "title": "From Blog To Community To Book: A Non-Fiction Author's Journey With Suzanne Smith",
+      "excerpt": "Joanna Penn's episode follows a four-year path from niche blog to community to traditionally published book, with an intro segment on how writers stand out in the age of AI. The practical argument: audience and lived expertise are the parts AI drafting cannot supply."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/04/from-hub-to-hustle/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-08-04T09:30:28Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/iStock-932616432.jpg",
+      "title": "From Hub to Hustle: The Scattered Social Landscape in Scholarly Comms",
+      "excerpt": "New Pulse Check data shows scholarly communication has fragmented across platforms, with Reddit rising sharply because of its outsized weight in what LLM assistants surface as answers. Publishers are effectively marketing to chatbots as much as to readers."
+    },
+    {
+      "url": "https://selfpublishingadvice.org/a-tale-of-two-seven-figure-deals/",
+      "source": "ALLi Self-Publishing Advice",
+      "category": "books",
+      "published_iso": "2026-08-04T12:00:19Z",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-4.jpg",
+      "title": "News Summary: A Tale of Two Seven-Figure Deals (and the Response to AI Allegations)",
+      "excerpt": "Two seven-figure deals hit AI allegations and produced opposite outcomes — one publisher stood by its author, the other walked away. The contrast shows how much of AI policy in trade publishing is still improvised case by case."
+    },
+    {
+      "url": "https://www.booksandpublishing.com.au/articles/2026/08/03/335915/ai-here-there-everywhere/",
+      "source": "Books+Publishing",
+      "category": "books",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "https://www.booksandpublishing.com.au/wp-content/themes/murtaugh-HTML5-Reset-WordPress-Theme-c060ab9/images/ogimage_social_bp_rect.jpg",
+      "title": "AI here, there, everywhere",
+      "excerpt": "Books+Publishing's daily briefing surveys how thoroughly AI has spread through the Australian book trade, from production to bookselling to the ongoing rights fights. Body-text date confirmed as Monday, 3 August 2026."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/08/applications-still-open-for-koreas-asian-publishers-week-2026/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-08-07T12:19:52Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Asian-Publishers-Week.png",
+      "title": "Applications Still Open for Korea's Asian Publishers Week 2026",
+      "excerpt": "Seoul's Asian Publishers Week (November 3–6) is themed 'Publishing in the Era of AI: Between Crisis and Opportunity,' and is asking attendees to bring practical AI experience from their own markets. Applications remain open."
     },
     {
       "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-07-31T13:00:00Z",
-      "og_image": "",
-      "excerpt": "At the Media Transformation Summit, publishers described how AI has collapsed production barriers — faster audiobooks, faster format adaptation — while the hard decisions of what to publish and for whom remain untouched. A working portrait of where AI actually lands in the publishing pipeline."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/08/digital-science-launches-ai-native-researcher-workspace/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-08-06T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Papers-AI-793x446.jpg",
-      "excerpt": "Digital Science has launched Papers AI, an AI-native workspace where researchers write, organise notes and analyse data with a context-aware assistant across the whole project. Built by the Overleaf team, it surfaces AI-suggested edits users review before accepting."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
-      "source": "Publishing Perspectives",
-      "category": "books",
       "published_iso": "2026-07-31T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Pope Leo XIV's 42,000-word encyclical is being read across publishing as one of the most cogent ethical frameworks yet for AI — covering regulatory gaps, data monopolies, environmental cost and workforce impact. Andrew Albanese asks whether it can actually move AI regulation."
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130678-1.JPG",
+      "title": "AI May Be Making Publishing Easier, But It's Still Not Easy",
+      "excerpt": "At the Publishing Signal Media Transformation Summit, speakers agreed AI has cut production cost and time but left the hard part untouched: deciding what to publish. Takeaways centered on machine-readable metadata, management buy-in, and AI's inability to forecast demand. Byline date read from body text (Jul 31, 2026)."
     },
     {
-      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-3-2026/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.thebookseller.com/comment/dialect-fiction-in-the-age-of-generic-narratives",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
-      "excerpt": "This week's roundup notes that South Korean readers in their 20s and 30s — the heaviest generative-AI users at 75.3% and 71.1% — are simultaneously driving a reading revival, some using AI to answer questions and recommend books, others using books as a counterweight to AI."
+      "published_iso": "2026-07-31T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd38.jpg",
+      "title": "In the age of generic AI narratives, is dialect fiction the key to capturing readers?",
+      "excerpt": "Writer and academic Dr Jen Bowden argues LLMs still fail at regional voice and dialect, making dialect fiction a craft advantage as machine-smoothed prose spreads. A concrete argument about which parts of writing style remain out of reach."
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-07-30T13:30:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg",
-      "excerpt": "Wendy Queen and Jonathan Woahn argue scholarly publishing keeps building the foundations and letting others own the layer above — and that AI is the third such moment. If the community does not shape how AI participates in scholarship now, commercial platforms will decide."
+      "published_iso": "2026-07-31T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/672/asd3.jpg",
+      "title": "'Genius' novel sold in six- and seven-figure deals at auction pulled over suspected AI use",
+      "excerpt": "A crime novel that had drawn major six- and seven-figure deals in the UK and US was withdrawn by its agent after AI-use allegations. The collapse shows how fast an unverifiable AI suspicion can unwind an acquisition."
     },
     {
-      "url": "https://selfpublishingadvice.org/ai-in-self-published-amazon-books/",
-      "source": "Self-Publishing Advice Center (ALLi)",
+      "url": "https://janefriedman.com/update-on-substacks-ai-detection-using-pangram/",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-08-06T12:00:19Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-6.jpg",
-      "excerpt": "ALLi unpacks the viral study of 14,419 self-published Amazon titles that found more than a quarter show signs of AI use. AI-flagged books sold less than human-written ones but still made meaningful money — a market signal indie authors now have to plan around."
+      "published_iso": "2026-07-29T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "title": "Update on Substack's AI detection using Pangram",
+      "excerpt": "Substack's site-wide Pangram-based AI detection rollout has produced confusion and disputes among writers over false positives and opt-outs. A direct look at what happens when detection labels get attached to published prose by default."
     },
     {
-      "url": "https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/",
-      "source": "Self-Publishing Advice Center (ALLi)",
+      "url": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+      "source": "WIRED",
       "category": "books",
-      "published_iso": "2026-07-24T12:00:00Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/07/BANNER_News-3.jpg",
-      "excerpt": "AI search engine Perplexity is opening its own ebook store, aiming to convert hundreds of millions of answer-engine users into book buyers via publishers and distributors. Indie authors would reach it through aggregators like Draft2Digital and PublishDrive."
-    },
-    {
-      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
-      "source": "Book Riot",
-      "category": "books",
-      "published_iso": "2026-07-29T14:57:02Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
-      "excerpt": "A Stony Brook University study using the Pangram detector found roughly one in five of 14,000 sampled Kindle ebooks contained substantial AI text — including BookTok sensation Daggermouth at about 60%, which the author denies."
-    },
-    {
-      "url": "https://www.imaeil.com/page/view/2026073011241784143",
-      "source": "매일신문",
-      "category": "books",
-      "published_iso": "2026-08-04T01:50:51Z",
-      "og_image": "https://www.imaeil.com/upload/robot.png",
-      "excerpt": "생성형 AI가 번역·집필·오디오북 제작까지 파고들면서 한국 출판계가 'AI 표시' 논쟁에 휩싸였다. 한 출판사는 'Human Authored' 인증제를 도입했지만, 업계 전반에는 표기 기준도 검증 절차도 아직 없다."
-    },
-    {
-      "url": "https://www.hankyung.com/article/2026072937931",
-      "source": "한국경제",
-      "category": "books",
-      "published_iso": "2026-07-29T09:41:00Z",
-      "og_image": "https://img.hankyung.com/photo/202607/AA.45184310.1.jpg",
-      "excerpt": "전자책 앱 '책도둑'이 AI 번역 사실을 뒤늦게 밝히며 논란이 커졌다. 번역계는 \"AI는 유능한 조수가 될 수 있지만 근본적인 판단과 선택은 번역가의 몫\"이라며 활용 범위와 공개 기준을 세워야 한다고 지적한다."
-    },
-    {
-      "url": "https://www.newdaily.co.kr/site/data/html/2026/07/27/2026072700104.html",
-      "source": "뉴데일리",
-      "category": "books",
-      "published_iso": "2026-07-27T01:46:00Z",
-      "og_image": "",
-      "excerpt": "'평생소장 고전'을 내건 전자책 앱 '책도둑'이 결제 과정에서 AI 번역 사용을 알리지 않아 이용자 반발을 샀다. 운영자는 25일 SNS에서 \"AI를 쓴다. 대신 말도 안 되는 가격으로 책을 드린다\"고 밝혔다."
-    },
-    {
-      "url": "https://www.koreadaily.com/article/20260728181737898",
-      "source": "미주중앙일보",
-      "category": "books",
-      "published_iso": "2026-07-29T01:17:00Z",
-      "og_image": "https://www.koreadaily.com/data/photo/2026/07/29/08bf1375-adba-4745-8731-e74ca787a547.jpg",
-      "excerpt": "1만9800원에 고전 700여 권을 평생 소장한다던 전자책 앱이 AI 번역을 숨긴 사실이 드러나 전액 환불에 나섰다. AI 번역 고지 의무를 둘러싼 소비자 신뢰 문제가 한국 출판 시장의 쟁점으로 떠올랐다."
+      "published_iso": "2026-07-29T09:30:00Z",
+      "og_image": "https://media.wired.com/photos/6a67a6ff5eab3f8d3cb1cd9d/191:100/w_1280,c_limit/Boomers-Keep-Giving-Kids-AI-Slop-Books-Business-563558499.jpg",
+      "title": "Boomers Can't Stop Gifting Their Grandkids AI-Generated Slop Books",
+      "excerpt": "Personalized AI picture books built from real photos of children are flooding gift markets, and parents are pushing back on garbled text and uncanny illustration. A close-up on where generated children's publishing actually lands with readers."
     }
   ]
 }

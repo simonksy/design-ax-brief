@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-07",
-  "section": "music",
   "media": [
     {
-      "id": "music-suno-download-watermark",
-      "type": "image",
-      "src": "pipeline/media/music-suno-download-watermark.webp"
+      "id": "music-deadmau5-autopilot",
+      "type": "video",
+      "src": "pipeline/media/music-deadmau5-autopilot.mp4",
+      "poster": "pipeline/media/music-deadmau5-autopilot.jpg"
     },
     {
-      "id": "music-musixmatch-sentinel",
-      "type": "image",
-      "src": "pipeline/media/music-musixmatch-sentinel.jpg"
+      "id": "music-google-lyria35",
+      "type": "video",
+      "src": "pipeline/media/music-google-lyria35.mp4",
+      "poster": "pipeline/media/music-google-lyria35.jpg"
     },
     {
-      "id": "music-symphonic-musicshield",
+      "id": "music-spotify-ai-slop-purge",
       "type": "image",
-      "src": "pipeline/media/music-symphonic-musicshield.png"
+      "src": "pipeline/media/music-spotify-ai-slop-purge.jpg"
     },
     {
-      "id": "music-ye-ai-vocal-lawsuit",
+      "id": "music-stem-separation-9",
       "type": "image",
-      "src": "pipeline/media/music-ye-ai-vocal-lawsuit.jpg"
+      "src": "pipeline/media/music-stem-separation-9.jpg"
     },
     {
-      "id": "music-sylvan-esso-betty-studio",
+      "id": "music-vochlea-dubbox",
       "type": "image",
-      "src": "pipeline/media/music-sylvan-esso-betty-studio.jpg"
+      "src": "pipeline/media/music-vochlea-dubbox.jpg"
     }
   ]
 }

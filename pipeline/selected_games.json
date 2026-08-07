@@ -1,80 +1,82 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "section": "games",
-  "selection_mode": "auto",
-  "count": 5,
-  "shortfall": false,
-  "dedup_notes": "Checked all 9 surviving candidates in candidates_filtered_games.json against sections['games'].today (2026-08-06: Sekai/GamesBeat, Dragon Quest x Gemini/Eurogamer, Pokemon Green 3D/GamesRadar+, Mario Kart Wiicompiled/GamesRadar+, Halo chipmunk mod/Rock Paper Shotgun) and every card in days 08-01 (The Relic/Kotaku, Nexus Mods AI disclosure/PC Gamer), 08-02 (Steam AI disclosure/GamesRadar+), 08-03 (80 Level Tekken-of-AI expert, Kingdom Hearts art/GamesRadar+, Evangelion voice/PC Gamer, Stellar Blade AI music video/PC Gamer, EA pay + genAI/Game Developer), 08-04 (Meshy 3D agent/80 Level, Ludwig FMV slop/Kotaku, Duskbloods chatbot hallucinations/Kotaku) and 08-05 (RyzaChat/Polygon, EU deepfake law/GamesIndustry.biz, AI mandate resistance/Aftermath, Diversion version control/80 Level, Seed AI avatars/PC Gamer). No candidate URL and no candidate story matched any published card. The librarian's flagged PC Gamer 'Nexus Mods' content-dupe (same event as the Rock Paper Shotgun 2026-07-31 piece, already published on 08-01 as card 'nexusmods') was removed by the URL pre-filter and is not present in this pool, so nothing further was dropped for it. Within-pool: the two NVIDIA-adjacent items (Wccftech RTX Neural Texture Compression SDK vs NVIDIA Blog open world models) are distinct releases/topics, not a dupe; only one was taken to avoid topic concentration. Diversity guard applied on the way out: Unreal Engine (YouTube) had 3 candidates and was capped at 2 (MetaHuman in 2026 dropped as the weakest of the three, a retrospective rather than a release), leaving 4 distinct outlets across the final 5 (Unreal Engine x2, Wccftech, Unity, GamesRadar+). Also left out: NVIDIA Blog Omniverse world models (topic overlap with the NVIDIA SDK pick), TechCrunch Design Arena funding (funding-first, low workflow actionability), Two Minute Papers motion research recap (research summary, no shipping tool).",
-  "items": [
+  "picks": [
     {
-      "id": "games-unreal-mcp-editor",
-      "title": "From Words to Worlds: Integrating MCP into the Unreal Editor | Unreal Fest Chicago 2026",
-      "url": "https://www.youtube.com/watch?v=lDf_y-YPELo",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
+      "rank": 1,
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "og_image": "https://i.ytimg.com/vi/lDf_y-YPELo/maxresdefault.jpg",
-      "published_iso": "2026-08-03T07:00:14-07:00",
-      "excerpt": "Unreal Engine 5.8 ships an official Model Context Protocol integration plus new PCG spatial primitives, letting models like Claude operate inside the editor on Blueprints, levels, materials and meshes while everything stays editable.",
-      "rationale": "An official MCP surface inside the Unreal Editor is the single most actionable item in the pool — it turns agent-driven level, material and Blueprint work into a supported workflow rather than a hack."
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+      "source": "NVIDIA Blog",
+      "published_iso": "2026-08-06T13:00:00Z",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg",
+      "excerpt": "NVIDIA makes the case for open, downloadable world models in Omniverse — models teams can inspect, fine-tune and run on their own infrastructure to build simulated 3D worlds. The same world-model stack now being pitched at games and virtual production, framed as an openness argument rather than a demo reel.",
+      "rationale": "Open, self-hostable world models are the most concrete change to how 3D/level teams can prototype worlds — a real release, not commentary."
     },
     {
-      "id": "games-nvidia-ntc-sdk-arm64",
-      "title": "NVIDIA releases its RTX Neural Texture Compression SDK for the ARM64 platform",
-      "url": "https://wccftech.com/nvidia-rtx-neural-texture-compression-sdk-arm64/",
-      "source": "Wccftech",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/RTX-SPark-6.jpg",
-      "published_iso": "2026-08-06T10:41:34+00:00",
-      "excerpt": "NVIDIA shipped its RTX Neural Texture Compression SDK for ARM64 ahead of RTX Spark laptops, letting developers keep high-res texture detail at a fraction of the VRAM. Neural asset compression moves into shipping art pipelines.",
-      "rationale": "Neural compression stops being a demo and becomes a shipping SDK: texture artists can budget for higher-res source detail without paying the usual VRAM tax."
-    },
-    {
-      "id": "games-unreal-ethical-image-models",
-      "title": "Ethical Usage of Image and Video Models to Accelerate Workflows | Unreal Fest Chicago 2026",
-      "url": "https://www.youtube.com/watch?v=ogppHmJO02I",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
+      "rank": 2,
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "frame",
-      "og_image": "https://i.ytimg.com/vi/ogppHmJO02I/maxresdefault.jpg",
-      "published_iso": "2026-08-05T07:00:16-07:00",
-      "excerpt": "An Unreal Fest Chicago 2026 session on folding Tripo 3.1, Nano Banana and ChatGPT Images 2.0 into an art production pipeline without wrecking authorship. A practical ethics-plus-workflow talk for game art teams.",
-      "rationale": "Names the actual tools and the guardrails around them, so an art lead can copy the pipeline and the disclosure policy at the same time."
+      "url": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-08-07T13:19:46Z",
+      "og_image": "https://assetsio.gnwcdn.com/skyrim-modding-ai-feature-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A long-form report on how generative AI is reshaping the Skyrim modding scene — from AI-voiced followers to slop uploads — and why mod host sites are struggling to build tagging and disclosure systems that keep the community's trust. Modders, players and site operators describe a transparency problem that existing UGC moderation tools were never designed for.",
+      "rationale": "Freshest deep report on AI disclosure inside a live UGC platform — directly informs how any creator community writes its own provenance rules."
     },
     {
-      "id": "games-unity-one-api-every-role",
-      "title": "Opening Unity to everyone - one API, every role",
-      "url": "https://www.youtube.com/watch?v=naXXD0U9hYQ",
-      "source": "Unity (YouTube)",
-      "category": "games",
+      "rank": 3,
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://www.gamedeveloper.com/production/what-devs-need-to-know-about-localization-ft-concha-fernandez-alvarez-aurelie-perrin-and-guido-di-carlo",
+      "source": "Game Developer",
+      "published_iso": "2026-08-07T14:30:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt471aa5e7ac414ee1/6a74f248469e8f2ddf53e672/localization.png",
+      "excerpt": "Three veteran game localizers explain how to work with loc teams — and push back on the claim that they can simply be replaced by generative AI or machine translation. A practical look at where LLM translation actually breaks in games: context, culturalization, and the hand-off with design.",
+      "rationale": "Maps exactly where LLM translation fails in production and how design should hand off to loc — actionable tomorrow."
+    },
+    {
+      "rank": 4,
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "og_image": "https://i.ytimg.com/vi/naXXD0U9hYQ/maxresdefault.jpg",
-      "published_iso": "2026-07-28T07:56:04-07:00",
-      "excerpt": "Unity is opening the Editor beyond the Editor: one API and a set of services so every role — and every agent or script — can drive the same project surface. Groundwork for AI-assisted pipelines around Unity 7.",
-      "rationale": "The Unity-side counterpart to Unreal's MCP move: a single API surface every role or agent can drive, which is how non-engineers get automated pipelines without engine plugins."
+      "url": "https://80.lv/articles/anishort-unifies-scriptwriting-storyboarding-video-generation-in-one-workflow",
+      "source": "80 Level",
+      "published_iso": "2026-07-29T14:00:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49379/images/6a692d3652c1f/contain_1200x630.jpg",
+      "excerpt": "AniShort folds scripting, storyboards, character management, AI video generation, editing and rendering into a single browser-based pipeline. It is an argument that the win from generative AI is not the clip generator but the unified authoring workflow around it.",
+      "rationale": "A shipped tool that moves the value from clip generation to the whole authoring pipeline — a workflow pattern teams can copy."
     },
     {
-      "id": "games-google-ai-leaks-private-docs",
-      "title": "Google AI leaks \"scarily accurate and very specific\" game detail from private documents, says indie dev",
-      "url": "https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/",
-      "source": "GamesRadar+",
-      "category": "games",
+      "rank": 5,
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "headset",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/umZkVR6nq6NmtKLHanmrFU-1920-80.jpg",
-      "published_iso": "2026-08-06T20:00:36Z",
-      "excerpt": "An indie dev says Google's AI surfaced an unannounced project name that existed only in their private documents. A hard question for any studio piping design docs through cloud AI tooling.",
-      "rationale": "The freshest item and the one that changes behaviour tomorrow: unannounced project details leaking out of private docs is a direct argument for auditing which AI tools touch your design bible."
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
+      "source": "Eurogamer",
+      "published_iso": "2026-07-27T13:57:55Z",
+      "og_image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "With no new GTA 6 trailer, AI-generated fake gameplay and trailers are racking up millions of views across TikTok and Instagram. Generative video is now filling the vacuum in a game's marketing narrative — a real problem for how studios control their own visual identity pre-launch.",
+      "rationale": "Shows generative video hijacking a product's pre-launch visual identity — a brand-control problem every marketing/design lead now owns."
     }
-  ]
+  ],
+  "dedup_notes": {
+    "checked_against": "news_data.json sections.games — today (2026-08-07) + days 2026-08-02..2026-08-06",
+    "dropped_as_within_pool_duplicate": [
+      {
+        "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
+        "reason": "Same event as the Rock Paper Shotgun Nexus Mods tagging-policy piece; kept the stronger single article, then dropped both in favour of the fresher RPS modding-transparency feature to avoid two near-identical mod-disclosure cards."
+      }
+    ],
+    "dropped_as_business_noise": [
+      "https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai",
+      "https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing",
+      "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/"
+    ],
+    "already_published_matches": [],
+    "diversity": "5 distinct outlets (NVIDIA Blog, Rock Paper Shotgun, Game Developer, 80 Level, Eurogamer); 5 distinct topics (world models, UGC disclosure, localization, authoring workflow, marketing identity)"
+  }
 }
