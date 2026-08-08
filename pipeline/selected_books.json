@@ -1,115 +1,85 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "section": "books",
-  "selected_by": "curator (user deferred: \"알아서\")",
-  "pool_size": 17,
-  "dedup": {
-    "against": "pipeline/news_data.json -> sections.books (today 2026-08-07 + days 2026-08-02..2026-08-06, 22 published cards)",
-    "dropped": [
-      {
-        "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
-        "reason": "Same event as published 2026-08-05 card books-agents-cannot-authenticate (thebookseller.com/news/it-was-inevitable-agents-react-to-major-book-deal-that-collapsed-over-suspected-ai-use) — the collapsed six/seven-figure crime-novel deal."
-      },
-      {
-        "url": "https://selfpublishingadvice.org/a-tale-of-two-seven-figure-deals/",
-        "reason": "Same story as above (seven-figure deals + AI allegations), already published 2026-08-05; also an ALLi content-hub sibling of the kept ALLi study post."
-      },
-      {
-        "url": "https://selfpublishingadvice.org/podcast-literary-agents-update-ethics-rules/",
-        "reason": "Roundup recycling AALA ethics rewrite (published 2026-08-05, books-aala-ethics-code-ai) + the shelved deal (published 2026-08-05) + the Amazon study (kept separately). ALLi same-source hub — kept the single best ALLi post."
-      },
-      {
-        "url": "https://janefriedman.com/links-of-interest-august-5-2026/",
-        "reason": "Link roundup whose lead item is Princeton University Press AI licensing, already published 2026-08-04 (books-princeton-cashmere-licensing)."
-      }
-    ],
-    "not_selected_but_fresh": [
-      "https://www.thecreativepenn.com/2026/08/05/from-blog-to-community-to-book-a-non-fiction-authors-journey-with-suzanne-smith/",
-      "https://scholarlykitchen.sspnet.org/2026/08/04/from-hub-to-hustle/",
-      "https://www.booksandpublishing.com.au/articles/2026/08/03/335915/ai-here-there-everywhere/",
-      "https://publishingperspectives.com/2026/08/applications-still-open-for-koreas-asian-publishers-week-2026/",
-      "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
-      "https://www.thebookseller.com/comment/dialect-fiction-in-the-age-of-generic-narratives",
-      "https://goodereader.com/blog/electronic-readers/these-new-features-are-coming-to-the-iflytek-ainote-2",
-      "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/"
-    ]
-  },
-  "diversity_guard": {
+  "count": 5,
+  "selection_mode": "curator (user deferred)",
+  "dedup_note": "Pool pipeline/candidates_filtered_books.json (11 items) was already URL-deduped vs the last 5 days of sections.books. Content-level re-check against the collector's exclusion list (Good e-Reader HarperCollins AI audiobooks, Scholarly Kitchen peer-review 8/07, PP 'Around the Book World: August 3', ALLi 'AI in Self-Published Amazon Books', plus avoided_recent_topics) found no story-level repeat among the 5 picks. No two picks share a URL. Dropped as within-pool near-duplicates/weaker: PP Pope encyclical (second AI-regulation card, overlaps EU AI Act pick), ALLi Aug-8 round-up (same weekly-round-up slot as the Dale news pick, weaker AI angle), Jane Friedman 'Links of Interest' (link round-up, second Jane Friedman item — outlet cap), Good e-Reader iFlytek AINOTE 2 (device roadmap, thin for publishing practice), Nerdy Novelist AI-film video (second item from same channel, kept the stronger one).",
+  "diversity": {
     "outlets": [
-      "ALLi Self-Publishing Advice",
-      "Good e-Reader",
-      "The Bookseller",
-      "The Scholarly Kitchen",
-      "Jane Friedman"
+      "selfpublishing.com (YouTube)",
+      "The Nerdy Novelist (YouTube)",
+      "Jane Friedman",
+      "The Self-Publishing with Dale Podcast (YouTube)",
+      "Publishers Weekly"
     ],
     "max_per_outlet": 1,
-    "note": "5 distinct outlets, no outlet repeated; topics spread across research data, audiobook production, trade ethics/discourse, scholarly peer review, and detection tooling."
+    "distinct_outlets": 5
   },
   "picks": [
     {
       "rank": 1,
-      "title": "What the Viral Study of AI in Self-Published Amazon Books Really Sets Out to Do",
-      "url": "https://selfpublishingadvice.org/ai-in-self-published-amazon-books/",
-      "source": "ALLi Self-Publishing Advice",
-      "published_iso": "2026-08-06T12:00:01Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-6.jpg",
-      "excerpt": "Tuhin Chakrabarty's peer-reviewed analysis of 14,419 self-published Amazon titles found signs of AI use in more than 25% of them. Those books sold less than human-written ones but still reached commercially viable revenue, complicating the assumption that readers simply reject AI-assisted work.",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "First peer-reviewed numbers on how much of the Amazon self-publishing shelf is AI-assisted — and that it still sells — which resets the working assumption behind every AI-disclosure debate."
+      "url": "https://www.youtube.com/watch?v=2pJqxijuCTA",
+      "source": "selfpublishing.com (YouTube)",
+      "published_iso": "2026-08-04T20:03:47Z",
+      "og_image": "https://i.ytimg.com/vi/2pJqxijuCTA/maxresdefault.jpg",
+      "title": "I Used AI to Write & Publish a Book in 30 Days (Here's What Happened...)",
+      "excerpt": "Bestselling author Scott Allan walks through the exact framework used to write, edit and publish a complete nonfiction manuscript in 30 days with Claude, including where the human editing pass was non-negotiable.",
+      "rationale": "Most actionable item in the pool — a named author's end-to-end Claude manuscript workflow with the human-editing checkpoints spelled out."
     },
     {
       "rank": 2,
-      "title": "HarperCollins is betting big on AI Audiobooks",
-      "url": "https://goodereader.com/blog/audiobooks/harpercollins-is-betting-big-on-ai-audiobooks",
-      "source": "Good e-Reader",
-      "published_iso": "2026-08-07T10:25:34Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/07062449/harpercollins-publishers-offices-toronto-4-1200x800-1.jpg",
-      "excerpt": "HarperCollins is using its ElevenLabs partnership to push AI-generated narration into foreign-language editions and backlist titles that never justified a studio recording. The publisher says human narration stays its standard, while narrator groups warn about synthetic voices displacing professional voice work.",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "A Big Five publisher naming exactly where synthetic narration gets used — backlist and translation — turns the AI-voice argument into a concrete production-budget decision."
+      "url": "https://www.youtube.com/watch?v=zclrdrwsD-M",
+      "source": "The Nerdy Novelist (YouTube)",
+      "published_iso": "2026-07-29T11:30:23Z",
+      "og_image": "https://i.ytimg.com/vi/zclrdrwsD-M/maxresdefault.jpg",
+      "title": "7 Mistakes That Scream \"AI TEXT\" (and How to Fix It)",
+      "excerpt": "A craft-level breakdown of the seven tells that mark prose as machine-written, and line-edit fixes for each. Useful for the current wave of AI-detection disputes hitting authors and agents.",
+      "rationale": "Concrete line-edit fixes for the tells that get manuscripts flagged as machine-written — directly changes how you finish AI-assisted prose."
     },
     {
       "rank": 3,
-      "title": "'Hard to ignore' – AI speculation sparks debate about whether authors of colour targeted",
-      "url": "https://www.thebookseller.com/news/numerous-authors-of-colour-facing-ai-speculation-hard-to-ignore-as-trade-debates-trend",
-      "source": "The Bookseller",
-      "published_iso": "2026-08-07T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/673/asd4.jpg",
-      "excerpt": "A run of authors publicly suspected of using generative AI has triggered a trade-wide debate over whether writers of colour are disproportionately targeted by AI-detection speculation. Agents and publishers say unverifiable accusations are becoming a reputational risk with no reliable adjudication process.",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "The cost of unverifiable AI accusations is landing unevenly, and the trade has no adjudication process — a governance gap anyone commissioning creative work now has to answer for."
+      "url": "https://janefriedman.com/european-unions-ai-act-requires-transparency-around-specific-types-of-ai-generated-content/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-08-05T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "title": "European Union's AI Act requires transparency around specific types of AI-generated content",
+      "excerpt": "The EU AI Act's transparency obligations cover AI-generated or AI-manipulated content that could be mistaken as real, pushing disclosure and labelling from a voluntary courtesy toward a compliance requirement for anyone publishing AI-assisted work into the EU.",
+      "rationale": "Turns AI disclosure from etiquette into a compliance requirement for anyone selling AI-assisted books into the EU."
     },
     {
       "rank": 4,
-      "title": "Guest Post — Do we need (r)evolution in peer review?",
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/07/guest-post-do-we-need-revolution-in-peer-review/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-08-07T09:30:39Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1068380820-1024x683.jpg",
-      "excerpt": "A guest post argues the peer-review system is buckling under reviewer shortages while AI reshapes both submissions and reports: AI-drafted manuscripts show measurably worse readability, and review reports increasingly look AI-assisted. It warns that only large publishers can afford AI reviewer assistants, widening the gap with smaller presses.",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "AI is now on both sides of the review desk, and the tooling that copes with it is priced so only large publishers can buy it — a structural split worth watching before it hardens."
+      "url": "https://www.youtube.com/watch?v=61voMQvOFNE",
+      "source": "The Self-Publishing with Dale Podcast (YouTube)",
+      "published_iso": "2026-08-06T14:15:28Z",
+      "og_image": "https://i.ytimg.com/vi/61voMQvOFNE/maxresdefault.jpg",
+      "title": "How to Get Barnes & Noble to Host Your Book Signing | Self-Publishing News (August 6, 2026)",
+      "excerpt": "This week's indie-author news covers ProWritingAid's new ProWritingMethod editing system plus platform updates from Apple Books, Lulu and Voices by INAudio, alongside Barnes & Noble tightening its local author-event rules.",
+      "rationale": "Freshest tool news in the section — ProWritingAid's new ProWritingMethod plus Apple Books, Lulu and INAudio platform changes in one pass."
     },
     {
       "rank": 5,
-      "title": "Update on Substack's AI detection using Pangram",
-      "url": "https://janefriedman.com/update-on-substacks-ai-detection-using-pangram/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-07-29T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "Substack's site-wide Pangram-based AI detection rollout has produced confusion and disputes among writers over false positives and opt-outs. A direct look at what happens when detection labels get attached to published prose by default.",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A major publishing platform is now labelling posts by detector score by default — the first place where false positives stop being theory and start attaching to your byline."
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130678-1.JPG",
+      "title": "AI May Be Making Publishing Easier, But It's Still Not Easy",
+      "excerpt": "At the Media Transformation Summit cohosted by Publishing Signal, speakers agreed AI is accelerating production and lowering costs, but curation, audience-finding and judgement calls remain stubbornly human. One thread: AI systems favour content with explicit, machine-friendly structure, so publishers may have to rewrite how they present plot summaries, author bios and images online.",
+      "rationale": "Highest-credibility trade read, with one usable takeaway: AI surfaces favour explicitly structured metadata, so blurbs and bios need rewriting for machines."
     }
   ]
 }

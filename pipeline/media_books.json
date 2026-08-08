@@ -1,29 +1,33 @@
 {
+  "date": "2026-08-09",
+  "section": "books",
   "media": [
     {
-      "id": "books-amazon-ai-study",
-      "type": "image",
-      "src": "pipeline/media/books-amazon-ai-study.jpg"
+      "id": "books-claude-30day-book",
+      "type": "video",
+      "src": "pipeline/media/books-claude-30day-book.mp4",
+      "poster": "pipeline/media/books-claude-30day-book.jpg"
     },
     {
-      "id": "books-harpercollins-ai-audiobooks",
-      "type": "image",
-      "src": "pipeline/media/books-harpercollins-ai-audiobooks.jpg"
+      "id": "books-ai-text-tells",
+      "type": "video",
+      "src": "pipeline/media/books-ai-text-tells.mp4",
+      "poster": "pipeline/media/books-ai-text-tells.jpg"
     },
     {
-      "id": "books-authors-of-colour-ai-suspicion",
-      "type": "image",
-      "src": "pipeline/media/books-authors-of-colour-ai-suspicion.jpg"
+      "id": "books-eu-ai-act-disclosure",
+      "type": "svg"
     },
     {
-      "id": "books-peer-review-revolution",
-      "type": "image",
-      "src": "pipeline/media/books-peer-review-revolution.jpg"
+      "id": "books-prowritingmethod-news",
+      "type": "video",
+      "src": "pipeline/media/books-prowritingmethod-news.mp4",
+      "poster": "pipeline/media/books-prowritingmethod-news.jpg"
     },
     {
-      "id": "books-substack-pangram-detection",
+      "id": "books-pw-ai-still-not-easy",
       "type": "image",
-      "src": "pipeline/media/books-substack-pangram-detection.png"
+      "src": "pipeline/media/books-pw-ai-still-not-easy.jpg"
     }
   ]
 }

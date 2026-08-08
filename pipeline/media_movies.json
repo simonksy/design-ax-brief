@@ -1,31 +1,33 @@
 {
+  "date": "2026-08-09",
+  "section": "movies",
   "media": [
     {
-      "id": "movies-autodesk-flow",
+      "id": "movies-bafta-ai-clause",
+      "type": "image",
+      "src": "pipeline/media/movies-bafta-ai-clause.jpg"
+    },
+    {
+      "id": "movies-mzed-ai-masking",
+      "type": "image",
+      "src": "pipeline/media/movies-mzed-ai-masking.jpg"
+    },
+    {
+      "id": "movies-google-flow-sessions",
+      "type": "image",
+      "src": "pipeline/media/movies-google-flow-sessions.jpg"
+    },
+    {
+      "id": "movies-xai-video-test",
       "type": "video",
-      "src": "pipeline/media/movies-autodesk-flow.mp4",
-      "poster": "pipeline/media/movies-autodesk-flow.jpg"
+      "src": "pipeline/media/movies-xai-video-test.mp4",
+      "poster": "pipeline/media/movies-xai-video-test.jpg"
     },
     {
-      "id": "movies-runway-seedance",
+      "id": "movies-higgsfield-likeness",
       "type": "video",
-      "src": "pipeline/media/movies-runway-seedance.mp4",
-      "poster": "pipeline/media/movies-runway-seedance.jpg"
-    },
-    {
-      "id": "movies-minimax-bootleg",
-      "type": "image",
-      "src": "pipeline/media/movies-minimax-bootleg.jpg"
-    },
-    {
-      "id": "movies-siggraph-2026",
-      "type": "image",
-      "src": "pipeline/media/movies-siggraph-2026.jpg"
-    },
-    {
-      "id": "movies-eli-roth-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-eli-roth-ai.jpg"
+      "src": "pipeline/media/movies-higgsfield-likeness.mp4",
+      "poster": "pipeline/media/movies-higgsfield-likeness.jpg"
     }
   ]
 }

@@ -1,31 +1,34 @@
 {
+  "date": "2026-08-09",
+  "section": "music",
   "media": [
     {
-      "id": "music-deadmau5-autopilot",
+      "id": "music-iamchoir",
       "type": "video",
-      "src": "pipeline/media/music-deadmau5-autopilot.mp4",
-      "poster": "pipeline/media/music-deadmau5-autopilot.jpg"
+      "src": "pipeline/media/music-iamchoir.mp4",
+      "poster": "pipeline/media/music-iamchoir.jpg"
     },
     {
-      "id": "music-google-lyria35",
+      "id": "music-mixvault",
       "type": "video",
-      "src": "pipeline/media/music-google-lyria35.mp4",
-      "poster": "pipeline/media/music-google-lyria35.jpg"
+      "src": "pipeline/media/music-mixvault.mp4",
+      "poster": "pipeline/media/music-mixvault.jpg"
     },
     {
-      "id": "music-spotify-ai-slop-purge",
+      "id": "music-suno-30years",
       "type": "image",
-      "src": "pipeline/media/music-spotify-ai-slop-purge.jpg"
+      "src": "pipeline/media/music-suno-30years.jpg"
     },
     {
-      "id": "music-stem-separation-9",
+      "id": "music-midia-hit",
       "type": "image",
-      "src": "pipeline/media/music-stem-separation-9.jpg"
+      "src": "pipeline/media/music-midia-hit.jpg"
     },
     {
-      "id": "music-vochlea-dubbox",
-      "type": "image",
-      "src": "pipeline/media/music-vochlea-dubbox.jpg"
+      "id": "music-luke-steele",
+      "type": "video",
+      "src": "pipeline/media/music-luke-steele.mp4",
+      "poster": "pipeline/media/music-luke-steele.jpg"
     }
   ]
 }

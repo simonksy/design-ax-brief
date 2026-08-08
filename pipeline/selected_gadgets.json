@@ -1,122 +1,148 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "section": "gadgets",
   "selected_count": 5,
   "picks": [
     {
       "rank": 1,
-      "title": "Google built a portable AI translator that works offline, and you can build one too",
-      "url": "https://www.androidauthority.com/google-offline-ai-translator-gemma-4-3695674/",
-      "source": "Android Authority",
-      "published_iso": "2026-08-07T07:04:46+00:00",
+      "title": "'MemoMind One' Kickstarter Hits $1M, Making a Strong Case for Camera-less Display Glasses",
+      "url": "https://roadtovr.com/memomind-display-smart-glasses-1m-kickstarter/",
+      "source": "Road to VR",
+      "published_iso": "2026-08-07T13:07:13Z",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/gemma-translator-featured-image.jpg",
-      "excerpt": "Google engineers ran Gemma 4 E4B on a Raspberry Pi inside a 3D-printed housing to make a fully offline AI translator. It is a working reference for how small on-device models let hardware makers ship AI features with no cloud dependency.",
-      "rationale": "A buildable, Google-authored reference design proving an AI product can ship with zero cloud dependency — the most directly actionable hardware item in the pool."
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/memomind-one.jpg",
+      "excerpt": "XGIMI's MemoMind One crossed $1M on Kickstarter with 20 days still to run, on a deliberately camera-less display-glasses design. The result reads as a market signal that buyers want the heads-up display and AI assist without the social cost of a face-mounted camera.",
+      "rationale": "Hard money proving the camera is the liability, not the feature — the clearest market verdict yet on how to spec AI eyewear."
     },
     {
       "rank": 2,
-      "title": "Gemini's revamped Wear OS design is finally rolling out, and it was worth the wait",
-      "url": "https://www.digitaltrends.com/wearables/geminis-revamped-wear-os-design-is-finally-rolling-out-and-it-was-worth-the-wait/",
-      "source": "Digital Trends",
-      "published_iso": "2026-08-06T21:53:37-07:00",
+      "title": "Could Meta Ray-Bans be banned in Europe? EU regulators dial up the pressure on smart glasses",
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/a-smart-glasses-ban-could-be-on-the-menu-in-the-eu-and-there-are-growing-restrictions-on-tech-all-over-the-world",
+      "source": "TechRadar",
+      "published_iso": "2026-08-06T02:00:00Z",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/05/Wear-OS-7-featured-image.jpg?resize=1200%2C630",
-      "excerpt": "Gemini on Wear OS drops its full-screen app for an overlay that matches the phone experience, with live transcripts and a clearer mic indicator. It is a concrete lesson in adapting assistant UI to a tiny round canvas.",
-      "rationale": "A shipped, concrete assistant-UI redesign for the smallest canvas — full-screen to overlay, with live transcript and mic-state cues designers can copy tomorrow."
+      "og_image": "https://cdn.mos.cms.futurecdn.net/8GYMquuUQihF2WAEm3Ak5J-1920-80.jpg",
+      "excerpt": "EU regulators are turning up pressure on camera-equipped smart glasses while China issues a manufacturer code of conduct and South Korea bars them from exam halls. Recording-indicator and consent design is becoming a hardware requirement, not a nicety.",
+      "rationale": "Turns consent and recording-indicator design from a nicety into a shipping requirement across three major markets at once."
     },
     {
       "rank": 3,
-      "title": "Google working on AI-generated lockscreen clocks for Pixel",
-      "url": "https://9to5google.com/2026/08/06/android-ai-lockscreen-clocks/",
-      "source": "9to5Google",
-      "published_iso": "2026-08-06T22:24:55+00:00",
+      "title": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year",
+      "url": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
+      "source": "MacRumors",
+      "published_iso": "2026-08-07T19:06:12Z",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "Android Canary 2608 reveals AI-generated lockscreen clocks alongside customizable Quick Settings. Generative UI is moving from wallpapers into functional interface elements on the most-seen screen of the phone.",
-      "rationale": "Generative UI crossing from decoration into a functional interface element on the most-viewed screen of the phone — a live signal of where system UI design is heading."
+      "og_image": "https://images.macrumors.com/t/F2kYDFy67nzPowC2IcDGjq538es=/1600x/article-new/2026/08/AirPods-Ultra-Mock.jpg",
+      "excerpt": "Gurman reports three 'Ultra' products landing between late 2026 and early 2027, including AirPods Ultra with tiny infrared camera 'eyes' that feed Siri's Visual Intelligence. Camera-in-earbud would put a seeing sensor on the head without the glasses form factor.",
+      "rationale": "Moves the seeing sensor from the face to the ear — a form-factor dodge around the exact camera backlash the other picks describe."
     },
     {
       "rank": 4,
-      "title": "Kids' smartwatches are meant to keep children safe, but hackers can turn them into stalking devices",
-      "url": "https://www.digitaltrends.com/wearables/kids-smartwatches-are-meant-to-keep-children-safe-but-hackers-can-turn-them-into-stalking-devices/",
-      "source": "Digital Trends",
-      "published_iso": "2026-08-07T09:25:00-07:00",
+      "title": "This Startup Will Pay You $50 to Let AI Read Your Mind",
+      "url": "https://gizmodo.com/this-startup-will-pay-you-50-to-let-ai-read-your-mind-2000795661",
+      "source": "Gizmodo",
+      "published_iso": "2026-08-06T20:40:47Z",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/kid-wearing-smartwatch.jpg?resize=1200%2C630",
-      "excerpt": "Researchers used a $30 kids' smartwatch to covertly track location, take photos and record audio, a flaw shared across dozens of GPS watch brands. Always-on sensing wearables are shipping without the security design their form factor demands.",
-      "rationale": "Hard evidence that always-on sensing wearables ship without the security design their form factor demands — a design-integrity story, not a spec bump."
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/Brainchip-1200x675.jpg",
+      "excerpt": "San Francisco startup Conduit is paying people $50-$55 to wear an electrode-studded headband and talk to an AI for two hours, collecting training data for a noninvasive thought-to-machine input channel. It is an early look at the input layer after voice and gesture.",
+      "rationale": "A first look at the input modality after voice and gesture, and at how the training data for it is actually being bought."
     },
     {
       "rank": 5,
-      "title": "The next age of LLMs? Dev gets a small LLM running at 10 tokens a second locally on a $10 microcontroller",
-      "url": "https://www.techradar.com/pro/the-next-age-of-llms-dev-gets-a-small-llm-running-at-10-tokens-a-second-locally-on-a-usd10-microcontroller",
-      "source": "TechRadar",
-      "published_iso": "2026-08-07T19:35:00Z",
+      "title": "I turned my phone into an AI agent powered by my local LLM, and it installed software on its own",
+      "url": "https://www.xda-developers.com/turned-phone-ai-agent-powered-local-llm-installed-software/",
+      "source": "XDA Developers",
+      "published_iso": "2026-08-07T22:00:10Z",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XJxYihidzczXcGX9g2rsNn-1920-80.jpg",
-      "excerpt": "A developer ran a 28.9M-parameter model at 10 tokens per second on a sub-$10 microcontroller. If language models fit that budget, almost any connected object becomes a plausible AI interface.",
-      "rationale": "Redraws the cost floor for embedded AI: at sub-$10 BOM, almost any connected object becomes a plausible conversational interface."
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rikkahub-agent-1.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "A hands-on turning an Android phone into an autonomous agent running entirely on a local LLM — to the point it installed software on its own. Shows what on-device inference plus tool-calling actually feels like as an interface, and where it breaks.",
+      "rationale": "Reproducible hands-on showing what an on-device agent interface actually feels like — including the moments it oversteps."
     }
   ],
   "dedup": {
-    "checked_against": "news_data.json sections.gadgets (today 2026-08-07 + days 2026-08-02..2026-08-06, 21 published cards)",
-    "dropped_as_duplicate": [],
+    "checked_against": "news_data.json sections.gadgets (today 2026-08-08 + days 2026-08-03..2026-08-07, 25 published cards)",
+    "dropped_as_duplicate": [
+      {
+        "url": "https://gizmodo.com/you-dont-want-smart-glasses-that-record-everything-you-say-trust-me-2000793058",
+        "reason": "same product as pick 1 (XGIMI/Xgimi MemoMind One) — within-pool duplicate, kept the stronger news hook"
+      },
+      {
+        "url": "https://www.digitaltrends.com/wearables/pubs-and-restaurants-are-treating-metas-smart-glasses-like-hidden-cameras-and-im-completely-on-board/",
+        "reason": "same camera-glasses social/regulatory backlash story as pick 2, weaker and narrower framing"
+      },
+      {
+        "url": "https://roadtovr.com/unseen-reality-urxr-one-xr-glasses-funded/",
+        "reason": "same story shape as pick 1 (glasses-form XR Kickstarter milestone) from the same outlet; kept the single strongest"
+      }
+    ],
     "dropped_as_out_of_scope": [
       {
-        "url": "https://www.pcmag.com/picks/the-best-smart-glasses",
-        "reason": "buying-guide roundup with no news hook"
+        "url": "https://petapixel.com/reel/2026/08/07/the-insta360-go-ultra-now-has-an-ai-voice-assistant/",
+        "reason": "petapixel.com is not in sources.json gadgets allowed_domains"
       },
       {
-        "url": "https://www.techradar.com/ai-platforms-assistants/keen-to-get-alexa-but-dont-have-the-necessary-hardware-these-are-the-9-amazon-devices-we-recommend-to-get-you-up-and-running",
-        "reason": "buying-guide listicle with no news hook"
+        "url": "https://petapixel.com/2026/08/07/dji-teases-osmo-360-ii-with-footage-from-the-new-camera/",
+        "reason": "off-list domain, and teaser-only with no shipped detail"
       },
       {
-        "url": "https://www.tomsguide.com/computing/laptops/the-hp-elitebook-x-g2i-is-the-ai-laptop-built-to-move-as-fast-as-your-business-and-then-some",
-        "reason": "vendor-promotional framing, no verifiable news hook"
+        "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+        "reason": "techcrunch.com is not in sources.json gadgets allowed_domains"
+      },
+      {
+        "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+        "reason": "off-list domain for the gadgets category"
+      },
+      {
+        "url": "https://www.androidcentral.com/wearables/samsung-teases-galaxy-glasses-android-xr-smart-glasses-pricing",
+        "reason": "androidcentral.com is not in sources.json gadgets allowed_domains; also a pricing tease with no figure"
       }
     ],
     "near_duplicates_deprioritized": [
       {
-        "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
-        "reason": "same Gurman Apple-glasses reporting thread as published 2026-08-03 card gadgets-apple-ai-glasses-wwdc27; distinct angle but kept out to avoid a repeat subject"
+        "url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
+        "reason": "strong runner-up, but pre-launch 'finishing touches' framing overlaps the assistant-UI ground already covered by the published 2026-08-08 Gemini Wear OS card"
       },
       {
-        "url": "https://www.pcworld.com/article/3203877/the-fcc-just-changed-the-rules-for-robot-vacuums-heres-what-it-means-for-yours.html",
-        "reason": "same FCC connected-robot import rule already summarized inside the published 2026-08-05 BYD Xiao Di card"
+        "url": "https://www.androidauthority.com/google-home-update-august-5-2026-3695072/",
+        "reason": "incremental monthly release-notes post, no design hook"
+      },
+      {
+        "url": "https://www.digitaltrends.com/wearables/caviar-just-gave-metas-smart-glasses-the-gold-treatment-but-forgot-to-make-it-pretty/",
+        "reason": "third camera-glasses item; luxury reskin with low actionability"
       }
     ]
   },
   "diversity_check": {
     "outlets": {
-      "Android Authority": 1,
-      "Digital Trends": 2,
-      "9to5Google": 1,
-      "TechRadar": 1
+      "Road to VR": 1,
+      "TechRadar": 1,
+      "MacRumors": 1,
+      "Gizmodo": 1,
+      "XDA Developers": 1
     },
-    "distinct_outlets": 4,
-    "max_per_outlet": 2,
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
     "topic_spread": [
-      "on-device AI hardware",
-      "assistant UI on wearables",
-      "generative system UI",
-      "wearable sensing security",
-      "embedded AI cost floor"
+      "camera-less XR eyewear",
+      "smart-glasses regulation and consent design",
+      "sensing moves into earbuds",
+      "neural input layer",
+      "on-device agent interfaces"
     ]
   }
 }
