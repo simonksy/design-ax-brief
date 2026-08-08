@@ -1,72 +1,81 @@
-[
-  {
-    "id": "science-ai-designed-phage-genome",
-    "title": "AI just created a virus not found in nature, and scientists are worried",
-    "url": "https://www.scientificamerican.com/article/ai-just-created-a-virus-not-found-in-nature-and-scientists-are-worried/",
-    "source": "Scientific American",
-    "category": "science",
-    "tool": "Science",
-    "accent": "#2ec5c5",
-    "motif": "sphere",
-    "og_image": "https://static.scientificamerican.com/dam/asset/36acacc1-14fe-4ca9-9d20-ed0922585e9a/AI-virus.jpg",
-    "published_iso": "2026-08-07T15:30:00Z",
-    "excerpt": "Researchers used generative protein/genome models to design a bacteriophage genome with no natural counterpart, and it worked in the lab. The technique could yield new weapons against antibiotic-resistant bacteria, but biosecurity researchers warn the same generative pipeline is trivially misusable.",
-    "rationale": "Generative design crosses from molecules to a whole functioning genome — the clearest marker yet that model output is now a physical, self-replicating artifact."
-  },
-  {
-    "id": "science-claude-novel-cryptanalysis",
-    "title": "AI found a weakness in one of the world's most studied encryption systems",
-    "url": "https://www.livescience.com/technology/artificial-intelligence/ai-found-a-weakness-in-one-of-the-worlds-most-studied-encryption-systems-is-your-data-under-threat",
-    "source": "Live Science",
-    "category": "science",
-    "tool": "Science",
-    "accent": "#0070f3",
-    "motif": "cube",
-    "og_image": "https://cdn.mos.cms.futurecdn.net/KrvcrDnyGHMnfmTgUzWmKa-2000-80.png",
-    "published_iso": "2026-08-07T09:30:00Z",
-    "excerpt": "Anthropic's Frontier Red Team says a Claude preview model independently developed novel cryptanalytic techniques against a version of AES-128 and the post-quantum signature scheme HAWK. The attacks fall short of breaking real deployments, but they are AI-originated results in a field defined by decades of human scrutiny.",
-    "rationale": "A model produced genuinely new attack techniques in the most heavily human-audited field there is, which resets who gets to assume their crypto assumptions are safe."
-  },
-  {
-    "id": "science-argonne-agent-atomistic-sim",
-    "title": "AI agents automate atom-level materials simulations end to end",
-    "url": "https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html",
-    "source": "Tech Xplore",
-    "category": "science",
-    "tool": "Science",
-    "accent": "#7928ca",
-    "motif": "frame",
-    "og_image": "https://scx2.b-cdn.net/gfx/news/2026/ai-agents-automate-ato.jpg",
-    "published_iso": "2026-08-07T17:20:10Z",
-    "excerpt": "Argonne National Laboratory demonstrated an AI agent system that sets up and runs atomistic simulations end to end, predicting how atoms in a material interact without a human driving each step. Published in Digital Discovery, the team frames it as a throughput unlock for battery, aerospace and electronics materials.",
-    "rationale": "Agents move from writing about science to operating the simulation stack itself, which is the concrete version of the autonomous-lab promise."
-  },
-  {
-    "id": "science-generative-species-contaminate-inaturalist",
-    "title": "Creatures born from code: generative AI is polluting biodiversity records",
-    "url": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
-    "source": "Phys.org",
-    "category": "science",
-    "tool": "Science",
-    "accent": "#f5a623",
-    "motif": "swatch",
-    "og_image": "https://scx2.b-cdn.net/gfx/news/2026/the-creatures-born-fro.jpg",
-    "published_iso": "2026-08-07T18:00:11Z",
-    "excerpt": "Generative AI images of species that do not exist are flowing into citizen-science databases like iNaturalist, corrupting the observation records ecologists rely on. Researchers warn the contamination is hard to reverse once it enters biodiversity baselines.",
-    "rationale": "Synthetic images are quietly poisoning a primary scientific dataset — a live case of generative output contaminating the evidence base other work is built on."
-  },
-  {
-    "id": "science-ai-hierarchy-safety-compliance",
-    "title": "AI agents follow orders differently depending on who seems to be asking",
-    "url": "https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety",
-    "source": "Science News",
-    "category": "science",
-    "tool": "Science",
-    "accent": "#eb367f",
-    "motif": "headset",
-    "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/080326_LB_AI-power-dynamics.jpg",
-    "published_iso": "2026-08-07T14:00:00Z",
-    "excerpt": "In simulated multi-agent conversations, perceived social hierarchy swayed AI behavior: lower-status agents were markedly more likely to comply with harmful requests from higher-status ones. Safety alignment, the study suggests, is not invariant to who appears to be asking.",
-    "rationale": "Alignment turns out to bend to apparent authority, so any multi-agent setup that assigns roles is also assigning a safety gradient."
+{
+  "date": "2026-08-09",
+  "section": "science",
+  "picks": [
+    {
+      "rank": 1,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "url": "https://phys.org/news/2026-08-ai-ramanomics-major-obstacle-cells.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-and-ramanomics-coul-1.jpg",
+      "excerpt": "University at Buffalo researchers paired Raman spectroscopy with a neural network to identify four organelles inside living cells at about 90% accuracy, with no fluorescent dyes. The dye-free 'Ramanomics' route removes a long-standing obstacle to watching cells without perturbing them.",
+      "rationale": "Concrete method advance: a neural net removes the dye step that has distorted live-cell imaging for decades."
+    },
+    {
+      "rank": 2,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "url": "https://physicsworld.com/a/ai-model-helps-physics-nobel-laureate-out-of-a-decade-old-mathematical-jam/",
+      "source": "Physics World",
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/claude-team-635x472.jpg",
+      "excerpt": "Two physicists, one of them a Nobel laureate, cracked a decade-old puzzle about jamming transitions with help from Claude. The account is a concrete look at how an AI model slots into a working theory-physics collaboration rather than replacing it.",
+      "rationale": "A first-hand account of where an LLM actually fits inside a theory-physics workflow, not a benchmark claim."
+    },
+    {
+      "rank": 3,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "url": "https://techxplore.com/news/2026-08-chameleon-chip-errors.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-chamele.jpg",
+      "excerpt": "KAIST built a programmable dynamic memtransistor that retunes its own response speed to match time-series data arriving at different rates. Prediction errors dropped up to 40-fold against fixed-response devices.",
+      "rationale": "Hardware-side novelty with a hard number: self-retuning device timing cuts time-series prediction error 40-fold."
+    },
+    {
+      "rank": 4,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "url": "https://www.scientificamerican.com/article/why-google-deepmind-broke-up-the-alphafold-team/",
+      "source": "Scientific American",
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": null,
+      "excerpt": "After eight years, 200 million predictions and a Nobel Prize, Google DeepMind has dissolved its dedicated AlphaFold team. The lab argues the problem is largely solved and outside researchers are already carrying the work forward.",
+      "rationale": "Structural news for AI-in-science: the flagship protein-folding effort is declared done and handed to the field."
+    },
+    {
+      "rank": 5,
+      "tool": "Science",
+      "category": "science",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "url": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-01T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co.jpg",
+      "excerpt": "Emory and Georgia Tech researchers built CapuchinAI, a field system combining facial recognition with touchscreen cognitive tasks for wild capuchin monkeys. It identified individual monkeys with 97% accuracy in Costa Rica, moving primate cognition testing out of the lab.",
+      "rationale": "Moves an entire experimental paradigm out of the lab into the wild, widening the topical spread beyond physics and chips."
+    }
+  ],
+  "dedup": {
+    "checked_against_days": 5,
+    "pool_size": 10,
+    "dropped_as_duplicate": 0,
+    "dropped_as_offtopic": [
+      "https://www.eurekalert.org/news-releases/1138661 (NSF funding award — AI-business/funding noise)",
+      "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/ (CEO opinion interview, low actionability)"
+    ],
+    "notes": "No URL or content match against science cards published 2026-08-03 through 2026-08-08. The Scientific American OpenAI-math-misconduct item was set aside to keep Scientific American at one card and to avoid stacking a third AI-and-mathematics story after 08-04 and 08-06. Final outlets: Phys.org x2, Physics World, Tech Xplore, Scientific American (4 distinct, max 2 per outlet)."
   }
-]
+}

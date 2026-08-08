@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "section": "games",
   "picks": [
     {
@@ -7,76 +7,85 @@
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-      "source": "NVIDIA Blog",
-      "published_iso": "2026-08-06T13:00:00Z",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg",
-      "excerpt": "NVIDIA makes the case for open, downloadable world models in Omniverse — models teams can inspect, fine-tune and run on their own infrastructure to build simulated 3D worlds. The same world-model stack now being pitched at games and virtual production, framed as an openness argument rather than a demo reel.",
-      "rationale": "Open, self-hostable world models are the most concrete change to how 3D/level teams can prototype worlds — a real release, not commentary."
+      "url": "https://www.youtube.com/watch?v=2mg8tNIKvXE",
+      "source": "NVIDIA Developer",
+      "published_iso": "2026-07-28T19:51:48Z",
+      "og_image": "https://i.ytimg.com/vi/2mg8tNIKvXE/maxresdefault.jpg",
+      "excerpt": "Axolotl3D is a single model that completes any 3D object from partial inputs — multi-view images, visibility masks, point clouds — handling occlusion completion, local shape editing and object extraction from Gaussian splat scenes. A practical step for 3D asset cleanup and kitbashing in game art pipelines.",
+      "rationale": "A shipped model that fixes the least glamorous, most common 3D-art chore — completing and editing broken/occluded meshes — so it changes an asset artist's day tomorrow."
     },
     {
       "rank": 2,
       "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "url": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-08-07T13:19:46Z",
-      "og_image": "https://assetsio.gnwcdn.com/skyrim-modding-ai-feature-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A long-form report on how generative AI is reshaping the Skyrim modding scene — from AI-voiced followers to slop uploads — and why mod host sites are struggling to build tagging and disclosure systems that keep the community's trust. Modders, players and site operators describe a transparency problem that existing UGC moderation tools were never designed for.",
-      "rationale": "Freshest deep report on AI disclosure inside a live UGC platform — directly informs how any creator community writes its own provenance rules."
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://wccftech.com/sony-forces-pssr-2-0-every-ps5-pro-update-upscaler-toggle/",
+      "source": "Wccftech",
+      "published_iso": "2026-08-06T11:38:13Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/PlayStation-5-Pro-Beta-Update-PSSR-1920x1080.jpg",
+      "excerpt": "Sony's new PS5 Pro beta update turns 'Enhance PSSR Image Quality' on by default, applying its neural upscaler to every game including unpatched back catalogue titles. Platform-level neural rendering now overrides the image developers shipped — an art-direction call made by the console, not the studio.",
+      "rationale": "The platform now re-renders your shipped image by default; art directors have to plan for a neural pass they do not control."
     },
     {
       "rank": 3,
       "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.gamedeveloper.com/production/what-devs-need-to-know-about-localization-ft-concha-fernandez-alvarez-aurelie-perrin-and-guido-di-carlo",
-      "source": "Game Developer",
-      "published_iso": "2026-08-07T14:30:00Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt471aa5e7ac414ee1/6a74f248469e8f2ddf53e672/localization.png",
-      "excerpt": "Three veteran game localizers explain how to work with loc teams — and push back on the claim that they can simply be replaced by generative AI or machine translation. A practical look at where LLM translation actually breaks in games: context, culturalization, and the hand-off with design.",
-      "rationale": "Maps exactly where LLM translation fails in production and how design should hand off to loc — actionable tomorrow."
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "url": "https://www.destructoid.com/ai-qa-program/",
+      "source": "Destructoid",
+      "published_iso": "2026-08-08T19:14:11Z",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2025/12/ai-stock-image.jpg",
+      "excerpt": "Square Enix has teamed with Google on a Gemini-powered QA agent that can actually play and analyze in-development builds, and other publishers are reportedly lining up for it. After programmers and artists, QA testers are framed as the next game-dev role to be reshaped by AI — with real doubts about whether an agent catches the bugs humans do.",
+      "rationale": "An agent that plays your build is a concrete new step in the production loop — and redraws who signs off on quality."
     },
     {
       "rank": 4,
       "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "url": "https://80.lv/articles/anishort-unifies-scriptwriting-storyboarding-video-generation-in-one-workflow",
-      "source": "80 Level",
-      "published_iso": "2026-07-29T14:00:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49379/images/6a692d3652c1f/contain_1200x630.jpg",
-      "excerpt": "AniShort folds scripting, storyboards, character management, AI video generation, editing and rendering into a single browser-based pipeline. It is an argument that the win from generative AI is not the clip generator but the unified authoring workflow around it.",
-      "rationale": "A shipped tool that moves the value from clip generation to the whole authoring pipeline — a workflow pattern teams can copy."
+      "accent": "#eb367f",
+      "motif": "headset",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "source": "Two Minute Papers",
+      "published_iso": "2026-08-02T15:01:10Z",
+      "og_image": "https://i.ytimg.com/vi/8B05cy3UuSE/maxresdefault.jpg",
+      "excerpt": "A walkthrough of NVIDIA-backed research showing why pure motion imitation fails for virtual characters, and how human-in-the-loop learning produces more physically believable movement. Directly relevant to the animation and character-motion pipelines game teams are trying to automate.",
+      "rationale": "Explains precisely where automated character motion breaks and why a human in the loop still beats pure imitation — the animation team's next brief."
     },
     {
       "rank": 5,
       "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
-      "source": "Eurogamer",
-      "published_iso": "2026-07-27T13:57:55Z",
-      "og_image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "With no new GTA 6 trailer, AI-generated fake gameplay and trailers are racking up millions of views across TikTok and Instagram. Generative video is now filling the vacuum in a game's marketing narrative — a real problem for how studios control their own visual identity pre-launch.",
-      "rationale": "Shows generative video hijacking a product's pre-launch visual identity — a brand-control problem every marketing/design lead now owns."
+      "accent": "#0070f3",
+      "motif": "frame",
+      "url": "https://kotaku.com/director-of-new-soulslike-says-no-ai-used-in-the-final-game-after-big-youtubers-sounded-the-alarm-over-a-recent-preview-build-2000720260",
+      "source": "Kotaku",
+      "published_iso": "2026-07-30T19:15:26Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg",
+      "excerpt": "After Soulslike YouTubers flagged suspicious assets and AI-sounding quest-giver voices in a preview build, The Relic: First Guardian's director confirmed generative AI was used in development. Another case of players auditing art and audio craft before launch and forcing disclosure.",
+      "rationale": "Preview builds are now audited for AI tells by the audience — a disclosure and asset-provenance policy is a shipping requirement, not PR."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.games — today (2026-08-07) + days 2026-08-02..2026-08-06",
-    "dropped_as_within_pool_duplicate": [
+    "checked_against": "news_data.json sections.games — today (2026-08-08) + days 2026-08-03..2026-08-07",
+    "already_published_matches": [
       {
-        "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
-        "reason": "Same event as the Rock Paper Shotgun Nexus Mods tagging-policy piece; kept the stronger single article, then dropped both in favour of the fresher RPS modding-transparency feature to avoid two near-identical mod-disclosure cards."
+        "url": "https://kotaku.com/google-ai-somehow-leaked-a-game-devs-content-plans-hidden-inside-their-own-google-docs-2000722497",
+        "reason": "Same event as published 2026-08-07 card games-google-ai-leaks-private-docs (GamesRadar+, https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/) — identical indie dev, Operation Octo, private Google Docs character name. Different outlet, same story."
       }
     ],
     "dropped_as_business_noise": [
-      "https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai",
-      "https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing",
-      "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/"
+      "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
+      "https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing"
     ],
-    "already_published_matches": [],
-    "diversity": "5 distinct outlets (NVIDIA Blog, Rock Paper Shotgun, Game Developer, 80 Level, Eurogamer); 5 distinct topics (world models, UGC disclosure, localization, authoring workflow, marketing identity)"
+    "dropped_as_lower_ranked": [
+      {
+        "url": "https://gamesbeat.com/a-question-for-the-industry-how-will-external-developers-use-ai-tools-the-deanbeat/",
+        "reason": "Op-ed on co-dev/outsourcing dynamics; lower actionability than the five picks, kept as backfill reserve."
+      }
+    ],
+    "near_miss_checks": [
+      "Destructoid Square Enix x Gemini QA agent is NOT the 2026-08-06 card games-dragon-quest-gemini-event (Tokyo AR promo event) — different event, different story.",
+      "Wccftech PSSR 2.0 is NOT the 2026-08-07 card games-nvidia-ntc-sdk-arm64 — different vendor, different technology.",
+      "Kotaku The Relic disclosure is NOT the 2026-08-04 card games-ludwig-fmv-ai-slop — different game and different incident."
+    ],
+    "diversity": "5 distinct outlets (NVIDIA Developer, Wccftech, Destructoid, Two Minute Papers, Kotaku); 5 distinct topics (3D asset completion, platform neural upscaling, QA agents, character animation research, AI disclosure pressure)"
   }
 }

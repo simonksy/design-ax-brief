@@ -1,271 +1,82 @@
 {
- "date": "2026-08-08",
+ "date": "2026-08-09",
  "section": "design",
- "now_iso": "2026-08-07T22:04:16Z",
+ "now_iso": "2026-08-08T22:00:26Z",
  "window_hours": 72,
- "count": 31,
- "note": "WIDE design funnel, restricted to sections.design allowed_domains. ACCESS NOTES: theverge.com is rejected outright by WebSearch (blocked user agent); figma.com/blog has NO post newer than 2026-08-05 (the Code Connect/MCP post, already published 08-07), so Figma is represented via its YouTube channel and third-party coverage; all3dp.com, engineering.com and fastcompany.com/feed return 403 on RSS (Fast Company reached via /technology/rss); keyshot.com and builder.io feeds are malformed/blocked; instagram.com login-walled, contributed nothing; youtube.com watch pages return only footer chrome via WebFetch, so upload times were verified via channel Atom feeds (yt uploadDate cross-checked for the one stale item, UI Collective 08-03, which was dropped). Published times come from publisher RSS/Atom pubDate or og/JSON-LD where fetched directly (dev.to API published_at, Vercel changelog, CG Channel, NVIDIA verified individually). Already-published stories from sections.design (Vercel Agent Plugins, Claude-to-Figma, Cascadeur 2026.2, Creo AI, State of CSS 2026, Figma Code Connect MCP, v0 API, eve agent-browser, Material Creator, Figma Make properties panel, TokenIgnite, evidence-first approval UI, chat-is-the-wrong-interface) were excluded. Dropped for failing the design-relevance test: css-tricks Dialog element, Smashing Baseline JS, UploadVR XR Replay/Virtual Desktop, most 80.lv game-industry items, CIO security/data-center pieces. Per-outlet cap of 3 enforced (dev.to 3, Vercel 3, Creative Bloq 3, Road to VR 3, VentureBeat 3, Fast Company 3, Eleken 3, YouTube 3, CG Channel 2, DEVELOP3D 2, CIO 2, NVIDIA 1) across 12 distinct outlets.",
+ "count": 24,
+ "note": "WIDE design funnel, restricted to keywords_design.json category allowed_domains. METHOD: publisher RSS/Atom sweeps + dev.to API + direct og/JSON-LD parsing; every published_iso came from article:published_time, JSON-LD datePublished, or publisher feed pubDate, then gated with pipeline/freshness.py (72h, cutoff 2026-08-05T22:00:26Z). ACCESS NOTES: eleken.co RSS dates are UPDATED dates - all five 'fresh-looking' Eleken posts (Generative UI, Vibe Design, AI Prototyping, Multimodal UX, Design Systems) actually carry July published dates in their page markup and were DROPPED as stale; parallelhq.com is programmatic 'Best X Agencies in <city>' SEO spam and was skipped entirely; 80.lv had zero fresh AI/design items (its Octane story is Dec 2025); keyshot.com, mindstudio.ai, palettt.com, orq.ai, sgwdesignworks.com, boston-engineering.com, getleo.ai and builder.io return 404/empty feeds; all3dp.com and fastcompany.com return 403 to direct fetch (Fast Company reached via /technology/rss); figma.com/blog has nothing newer than 2026-08-05T18:16 (already published), and the 08-05 release note (AI credit limits) falls outside the window, so Figma is represented via its YouTube channel; instagram.com skipped per run instruction. YouTube upload times verified via channel Atom feeds (videos.xml). Already-published design stories excluded: Vercel Agent Plugins 1.0.0/v0 API/eve browser, Claude-to-Figma + Claude screen states, Eleken Figma-to-Claude-Code, Armature rigging, Cascadeur 2026.2, Material Creator, Creo AI, Backflip AI, Designesy 40-check scoring, Road to VR Electronauts, State of CSS 2026, Figma Code Connect MCP. Dropped for the design-relevance test: VentureBeat agent-orchestration/security pieces, CIO enterprise-AI governance, engineering.com M&A items, css-tricks Dialog element (no AI hook), UploadVR game reviews, NVIDIA open-world-models post (already used by another section - cross-section collision risk). Per-source cap of 3 enforced: dev.to 3, creativebloq 3, vercel 3, uxdesign 3, youtube 3, roadtovr 2, engineering.com 2, and one each from cgchannel, engadget, fastcompany, venturebeat, logrocket - 12 distinct outlets.",
  "items": [
   {
-   "url": "https://dev.to/renato_marinho/bridge-the-gap-between-mastergo-and-your-ide-why-design-context-belongs-in-your-mcp-agent-2fck",
+   "url": "https://dev.to/renato_marinho/your-ai-agents-ui-is-mediocre-and-heres-how-to-fix-it-4a3o",
    "source": "DEV Community",
    "category": "figma",
-   "published_iso": "2026-08-07T13:28:00Z",
-   "og_image": null,
-   "excerpt": "A walkthrough of wiring MasterGo's design file into an IDE agent over MCP so design tokens, node structure and comments travel with the code request. The argument: design context, not screenshots, is what makes agent-generated UI match the system.",
-   "title": "Bridge the gap between MasterGo and your IDE: Why design context belongs in your MCP agent"
+   "published_iso": "2026-08-08T03:20:33Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0bnv42yhajs5gjs0j1n9.png",
+   "excerpt": "Agent-built interfaces default to lifeless boxes because nothing in the loop enforces craft. The author wires a 'UI/UX Excellence Prover' MCP into the agent so spring physics, eight interaction states per component, and spatial hierarchy become checkable requirements instead of taste.",
+   "title": "Your AI agent's UI is mediocre—and here's how to fix it"
   },
   {
-   "url": "https://dev.to/phongdesigns/why-claude-generated-screens-are-missing-their-states-45gd",
+   "url": "https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13",
    "source": "DEV Community",
    "category": "figma",
-   "published_iso": "2026-08-07T00:00:00Z",
-   "og_image": "https://phongdesigns.com/en/assets/blog/blog-69-cover.webp",
-   "excerpt": "Claude reliably renders the happy path and skips empty, loading and error states, because its training data is mostly polished marketing screenshots. The post proposes prompting and review habits that force the missing states back into AI-generated screens.",
-   "title": "Why Claude-generated screens are missing their states"
+   "published_iso": "2026-08-08T17:30:42Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4a41sl73wmbyaiaqmrlv.png",
+   "excerpt": "A practical account of feeding an AI coding agent explicit design taste — type scale, spacing rhythm, restraint rules — instead of hoping the model guesses. The argument is that 'taste' is transferable if you write it down as constraints the agent can be judged against.",
+   "title": "Teaching Your AI Web Design Some Actual Taste"
   },
   {
-   "url": "https://dev.to/levaiinbey/we-scored-30-real-websites-against-a-40-check-design-contract-heres-what-we-found-2hf4",
+   "url": "https://dev.to/pop3_zxcv/i-got-tired-of-reverse-engineering-design-systems-by-hand-so-i-built-a-chrome-extension-48hk",
    "source": "DEV Community",
    "category": "tokens",
-   "published_iso": "2026-08-07T20:31:33Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.designesy.org%2Fblog%2Fscoring-30-sites%2Fopengraph-image",
-   "excerpt": "Thirty live sites, including major design systems, were scored against a 40-check machine-readable design contract covering spacing, type scale, contrast and state coverage. The results show where even mature systems fail an automated audit.",
-   "title": "We scored 30 real websites against a 40-check design contract. Here's what we found."
-  },
-  {
-   "url": "https://vercel.com/changelog/skill-packs-are-now-available",
-   "source": "Vercel",
-   "category": "figma",
-   "published_iso": "2026-08-07T00:00:00Z",
-   "og_image": null,
-   "excerpt": "Vercel now lets you bundle multiple agent skills into a shareable pack on skills.sh, built from community skills, a local folder or a GitHub repo. Teams can distribute a house style — design rules included — to every agent via one URL.",
-   "title": "Skill packs are now available on skills.sh"
+   "published_iso": "2026-08-08T11:24:05Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F029eh62qhfumu7xnfebm.png",
+   "excerpt": "Tired of manually reading DevTools to reconstruct another site's type ramp, palette and spacing scale, the author shipped a Chrome extension that extracts a live page's design tokens automatically. It turns competitive teardown into a one-click token dump.",
+   "title": "I got tired of reverse-engineering design systems by hand, so I built a Chrome extension"
   },
   {
    "url": "https://vercel.com/changelog/chat-sdk-durable-approvals",
    "source": "Vercel",
    "category": "figma",
    "published_iso": "2026-08-06T00:00:00Z",
-   "og_image": null,
-   "excerpt": "Chat SDK gains durable approvals, so an agent workflow can pause mid-run and wait for a human to approve the next step. It is a concrete UI primitive for the human-in-the-loop patterns design teams keep hand-rolling.",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6dyo7mxKDEAWXcf0R090NX/9b96a9cdccf94b71d38d948a6a761403/image.png",
+   "excerpt": "Chat SDK's requestApproval pauses a running agent workflow, posts an Approve/Deny card into the conversation, and resumes when a human decides — even across a server restart. Human-in-the-loop approval becomes a durable UI primitive rather than a modal you have to babysit.",
    "title": "Pause workflows for approval with Chat SDK"
+  },
+  {
+   "url": "https://vercel.com/changelog/skill-packs-are-now-available",
+   "source": "Vercel",
+   "category": "figma",
+   "published_iso": "2026-08-07T04:00:00Z",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5pPU6ia7fXt3YXG9MMo9Zt/6818b0ef5ae3b403dcad1508569f358f/skills-sh-packs-og-final.png",
+   "excerpt": "skills.sh now lets you bundle multiple agent skills into a single shareable pack that installs and updates with one command. For a design org this is the distribution channel for house style, component rules and review checklists across every teammate's agent.",
+   "title": "Skill packs are now available on skills.sh"
   },
   {
    "url": "https://vercel.com/changelog/seedance-2-5-now-available-on-vercel-ai-gateway",
    "source": "Vercel",
    "category": "render",
    "published_iso": "2026-08-06T00:00:00Z",
-   "og_image": null,
-   "excerpt": "ByteDance's Seedance 2.5 video model is now callable through the Vercel AI Gateway, putting generative video behind the same key and billing as the text models. Useful for teams prototyping motion inside product surfaces.",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3PVusyg4GJTngxeJbW91dE/670e505710206670276c64b772a40692/image__21_.png",
+   "excerpt": "ByteDance's Seedance 2.5 lands on Vercel AI Gateway with up to 30-second single clips, multimodal reference input, targeted editing, and asynchronous generation that survives a dropped session. Long-form generative video becomes an API call inside an ordinary product stack.",
    "title": "Seedance 2.5 now available on Vercel AI Gateway"
   },
   {
-   "url": "https://www.cgchannel.com/2026/08/armature-is-a-free-ai-assisted-standalone-character-rigging-tool/",
-   "source": "CG Channel",
-   "category": "render",
-   "published_iso": "2026-08-06T12:41:05Z",
-   "og_image": null,
-   "excerpt": "FabricatorStudio released Armature, a free standalone tool that auto-rigs and skins 3D characters and exports USD for Maya, Unreal Engine and Blender. Optional control-rig generation is available for Maya users.",
-   "title": "Armature is a free AI-assisted standalone character rigging tool"
-  },
-  {
-   "url": "https://www.cgchannel.com/2026/08/adobe-releases-photoshop-27-9-1/",
-   "source": "CG Channel",
-   "category": "render",
-   "published_iso": "2026-08-06T07:28:52Z",
-   "og_image": null,
-   "excerpt": "Adobe shipped a maintenance release for Photoshop 27.9.1 covering fixes across the generative and selection toolset. A small but load-bearing update for studios pinned to a Creative Cloud version.",
-   "title": "Adobe releases Photoshop 27.9.1"
-  },
-  {
-   "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-   "source": "NVIDIA",
-   "category": "render",
-   "published_iso": "2026-08-06T00:00:00Z",
-   "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1-1280x720.jpg",
-   "excerpt": "NVIDIA details how its open Cosmos 3 world models let robotics and AV teams generate physically plausible environments and specialize them on custom hardware. Omniverse becomes the staging ground for simulated, designable physical AI.",
-   "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI"
-  },
-  {
-   "url": "https://www.creativebloq.com/art/animation/pixar-co-founders-new-ai-role-is-reigniting-animations-biggest-debate",
-   "source": "Creative Bloq",
-   "category": "render",
-   "published_iso": "2026-08-07T06:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/pqLMcFtq2rPQEBvst5Lpuk-1280-80.jpg",
-   "excerpt": "Is it a \"huge knife in the back\" for animation?",
-   "title": "Pixar co-founder's new AI role is reigniting animation's biggest debate"
-  },
-  {
-   "url": "https://www.creativebloq.com/entertainment/movies-tv-shows/thats-not-horror-thats-just-giving-up-critics-slam-ice-cream-man-after-eli-roths-ai-confession",
-   "source": "Creative Bloq",
-   "category": "render",
-   "published_iso": "2026-08-06T08:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/qUj7f8KfCFqf5XDfzVrxdP-1280-80.jpg",
-   "excerpt": "Eli Roth has confirmed it was used in a \"very small portion” of the film.",
-   "title": "\"That’s not horror, that’s just giving up\": critics slam Ice Cream Man after Eli Roth's AI confession"
-  },
-  {
-   "url": "https://www.creativebloq.com/3d/video-game-design/japan-asks-trump-to-quit-it-with-the-weird-super-mario-videos-already",
-   "source": "Creative Bloq",
-   "category": "workflow",
-   "published_iso": "2026-08-07T12:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/BpaLMebofKTqfjx5NS2jB6-1280-80.jpg",
-   "excerpt": "Officials asked the White House to stop using Japanese art to Make America Great Again.",
-   "title": "Japan asks Trump to quit it with the weird Super Mario videos already"
-  },
-  {
-   "url": "https://develop3d.com/3d-scanning/artec-point-ii-laser-scanner/",
-   "source": "DEVELOP3D",
-   "category": "cad",
-   "published_iso": "2026-08-05T15:51:33Z",
-   "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Point-II-Artec-2026-additional-335x188.jpg",
-   "excerpt": "54 laser lines in ultra-fast scanning plus 17 parallel lines in hyperfine mode\nThe post New Artec Point II laser scanner captures 5.8 million points a second appeared first on DEVELOP3D.",
-   "title": "New Artec Point II laser scanner captures 5.8 million points a second"
-  },
-  {
-   "url": "https://develop3d.com/develop3d-blog/siemens-unifies-simulation-with-altair-tools-added-into-simcenter-portfolio/",
-   "source": "DEVELOP3D",
-   "category": "cad",
-   "published_iso": "2026-08-05T16:27:06Z",
-   "og_image": null,
-   "excerpt": "For faster simulation, earlier insight and more connected workflows\nThe post Siemens unifies simulation with Altair tools added into Simcenter portfolio appeared first on DEVELOP3D.",
-   "title": "Siemens unifies simulation with Altair tools added into Simcenter portfolio"
-  },
-  {
-   "url": "https://roadtovr.com/inside-vr-design-interface-of-electronauts/",
-   "source": "Road to VR",
-   "category": "vr",
-   "published_iso": "2026-08-07T16:24:32Z",
-   "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/no-text-1.jpg",
-   "excerpt": "Our series Inside XR Design examines specific examples of great XR design. Today we’re looking at the game Electronauts and what it can teach us about smart VR interface design. Editor’s Note: Electronauts was released eight years ago this week! It was featured in the pilot episode of Inside XR Desi",
-   "title": "VR Design Unpacked: Everyone Should Know These VR Interface Basics"
-  },
-  {
-   "url": "https://roadtovr.com/memomind-display-smart-glasses-1m-kickstarter/",
-   "source": "Road to VR",
-   "category": "vr",
-   "published_iso": "2026-08-07T13:07:13Z",
-   "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/memomind-one.jpg",
-   "excerpt": "China-based projector manufacturer XGIMI launched a crowdfunding campaign in June for its first smart glasses, MemoMind One, which is banking on consumer interest in display-clad smart glasses that don’t contain cameras. Now the campaign has reached $1 million, giving the segment anther early vote o",
-   "title": "‘MemoMind One’ Kickstarter Hits $1M, Making a Strong Case for Camera-less Display Glasses"
-  },
-  {
-   "url": "https://roadtovr.com/viture-pro-2-ar-glasses-launch-mobile-dock-mini/",
-   "source": "Road to VR",
-   "category": "vr",
-   "published_iso": "2026-08-06T12:59:00Z",
-   "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/viture-pro-2.jpg",
-   "excerpt": "VITURE today launched its latest AR glasses, VITURE Pro 2, which the company calls its thinnest, lightest and most comfortable yet. Alongside it, Viture also unveiled a new, more pocketable USB-C dock which lets you connect to a wider range of devices, such as Nintendo Switch 2. Viture Pro 2 – $300 ",
-   "title": "Viture Pro 2 is the Company’s Thinnest & Lightest AR Glasses Yet, Priced at $300"
-  },
-  {
-   "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
-   "source": "VentureBeat",
-   "category": "workflow",
-   "published_iso": "2026-08-07T21:45:39Z",
-   "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5XSt4gOHH2WQdbifIoXK6w/00bfc6d7266a45109f92821ac8555cec/Multi-agent_cooperation.jpg?w=300&q=30",
-   "excerpt": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are ",
-   "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks"
-  },
-  {
-   "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-   "source": "VentureBeat",
-   "category": "workflow",
-   "published_iso": "2026-08-07T16:30:29Z",
-   "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/4KaZ8XJq6sjpxb51A5q7VT/2061c33e7cc4c52501ffd2c127c824e7/team-memory-smk1.jpg?w=300&q=30",
-   "excerpt": "A VB Pulse survey this June found that 57% of enterprises had traced a confidently wrong agent answer back to missing or inconsistent context — the latest sign of how central context has become to whether AI agents can be trusted to act on their own.Most of the fixes so far have solved a narrower ve",
-   "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong"
-  },
-  {
-   "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
-   "source": "VentureBeat",
-   "category": "workflow",
-   "published_iso": "2026-08-06T22:56:06Z",
-   "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/40zQSjTq3Tmjsc7R6vBNMj/9c86c259b74a77266b3c1bac66c174fd/ChatGPT_Image_Aug_6__2026__05_28_56_PM.png?w=300&q=30",
-   "excerpt": "Earlier this week, the AI startup Liquid, formed in 2023 by former MIT computer scientists, debuted LFM2.5-2.6B, a new open-weight language model designed specifically for agentic workloads. In release materials and a recent interview with VentureBeat, Liquid's researchers said LFM2.5-2.6B can run e",
-   "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi"
-  },
-  {
-   "url": "https://www.fastcompany.com/91586289/openai-anthropic-meta-ai-hacks-hugging-face",
-   "source": "Fast Company",
-   "category": "workflow",
-   "published_iso": "2026-08-07T10:00:00Z",
-   "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-2-91586289-with-ai-were-all-the-sorcerers-apprentice.jpg",
-   "excerpt": "Hello again and welcome back to Fast Company’s Plugged In.\n\n\n\nOn August 4, the U.K.’s AI Security Institute (AISI) issued a report on the disturbing behavior it had detected while testing two of the latest frontier AI models. Faced with solving a cybersecurity challenge, Anthropic’s Mythos 5 and (to",
-   "title": "With AI, we’re all the sorcerer’s apprentice"
-  },
-  {
-   "url": "https://www.fastcompany.com/91585542/californias-ai-transparency-law-doesnt-solve-the-first-impression-problem",
-   "source": "Fast Company",
-   "category": "workflow",
-   "published_iso": "2026-08-07T04:11:00Z",
-   "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91585542-will-californias-ai-transparency-law-actually-do-anything.jpg",
-   "excerpt": "California’s new AI transparency law took effect this week, but it defines “transparency” in a way that may not help many consumers. The law, which passed in 2024, sets up a robust transparency infrastructure for AI-generated content, but it does not guarantee that the real “story” of a piece of con",
-   "title": "California’s AI transparency law doesn’t solve the first-impression problem"
-  },
-  {
-   "url": "https://www.fastcompany.com/91584256/ai-startup-osmo-wants-to-make-corporate-videos-that-dont-look-like-slop",
-   "source": "Fast Company",
-   "category": "workflow",
-   "published_iso": "2026-08-05T13:00:00Z",
-   "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91584256-osmo-studio-ai-video.jpg",
-   "excerpt": "A San Francisco startup is using AI to help businesses create marketing, launch, and other videos—without just generating unexciting “AI slop.” \n\n\n\nOsmo Studio, which bills itself as a “storytelling studio with a software factory” rather than a pure tech business, on Wednesday announced the general ",
-   "title": "AI startup Osmo wants to make corporate videos that don’t look like slop"
-  },
-  {
-   "url": "https://www.cio.com/article/4206780/agentic-ai-workforce-is-more-than-doubling-year-on-year-says-salesforce.html",
-   "source": "CIO",
-   "category": "workflow",
-   "published_iso": "2026-08-07T14:41:47Z",
-   "og_image": "https://www.cio.com/wp-content/uploads/2026/08/4206780-0-80690300-1786113748-shutterstock_editorial_1639536604.jpg?quality=50&strip=all",
-   "excerpt": "Salesforce customers more than doubled their agentic workforces year on year, according to the company’s second annual Agentic Enterprise Index, which looks at trends in AI agent development and deployment over the past five quarters.\n\n\n\nIt compiled data from customers who had activated agents in pr",
-   "title": "Agentic AI workforce is more than doubling year on year, says Salesforce"
-  },
-  {
-   "url": "https://www.cio.com/article/4206237/why-governance-is-the-accelerator-for-coding-agents.html",
-   "source": "CIO",
-   "category": "workflow",
-   "published_iso": "2026-08-06T14:12:53Z",
-   "og_image": "https://www.cio.com/wp-content/uploads/2026/08/4206237-0-81912800-1786026409-BrandPost-6_1200x800@2x-1.png",
-   "excerpt": "Governance is what lets a team run coding agents and stand behind what they ship. As more code originates from agents, the question every engineering leader is now answering is not how fast the work moves, but who owns it and how it gets checked before it lands.\n\n\n\nThe teams pulling ahead decide on ",
-   "title": "Why governance is the accelerator for coding agents"
-  },
-  {
-   "url": "https://www.eleken.co/blog-posts/generative-ui",
-   "source": "Eleken",
-   "category": "tokens",
-   "published_iso": "2026-08-07T09:30:38Z",
-   "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a5df3832c5fa978c975bd06_cover.webp",
-   "excerpt": "What is generative UI, and why does it matter? Explore real-world examples, use cases, UX challenges, and how AI is reshaping interfaces in 2026.",
-   "title": "Generative UI: The Shift From Fixed Interfaces to Adaptive Experiences"
-  },
-  {
-   "url": "https://www.eleken.co/blog-posts/vibe-design",
-   "source": "Eleken",
-   "category": "workflow",
-   "published_iso": "2026-08-06T10:35:27Z",
-   "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a54a1766c77ae000465fe04_cover.webp",
-   "excerpt": "Discover how vibe design is reshaping UX/UI workflows in 2026. Explore the best AI design tools, Eleken’s real-world process, and why interactive prototypes are replacing static Figma files.",
-   "title": "Inside Vibe Design: An Agency's Field Guide to Designing with AI in 2026"
-  },
-  {
-   "url": "https://www.eleken.co/blog-posts/figma-to-claude-code",
-   "source": "Eleken",
-   "category": "figma",
-   "published_iso": "2026-08-06T10:32:15Z",
-   "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a422c60d3bddb5e28e4dc90_cover.webp",
-   "excerpt": "Learn how Figma to Claude Code works, where it adds real value, and where it falls short. A practical guide to design-to-code workflows, use cases, and limitations.",
-   "title": "Figma to Claude Code: What We Learned After Using It"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=ACYAYsVMmT8",
-   "source": "Matt Wolfe (YouTube)",
+   "url": "https://www.youtube.com/watch?v=8P6G4yyzOpA",
+   "source": "Runway (YouTube)",
    "category": "social",
-   "published_iso": "2026-08-07T14:30:29Z",
-   "og_image": "https://i.ytimg.com/vi/ACYAYsVMmT8/maxresdefault.jpg",
-   "excerpt": "Matt Wolfe's weekly roundup of the AI stories creators are reacting to, covering new model and tool releases and what they change for people making things.",
-   "title": "AI News: The AI Stories Everyone's Freaking Out About"
+   "published_iso": "2026-08-07T15:51:10Z",
+   "og_image": "https://i.ytimg.com/vi/8P6G4yyzOpA/maxresdefault.jpg",
+   "excerpt": "Runway adds Seedance 2.5 to its platform, putting ByteDance's long-clip video model directly next to Runway's own generation and editing tools. Runway keeps positioning itself as the multi-model workbench rather than a single-model studio.",
+   "title": "Seedance 2.5 is Now Available on Runway"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=7OjUlX2WOIA",
+   "source": "Adobe (YouTube)",
+   "category": "social",
+   "published_iso": "2026-08-06T13:52:11Z",
+   "og_image": "https://i.ytimg.com/vi/7OjUlX2WOIA/maxresdefault.jpg",
+   "excerpt": "Adobe demos taking an idea to finished content through a single chat thread rather than hopping between apps and panels. The pitch is conversational orchestration across Creative Cloud, with Firefly doing the generation underneath.",
+   "title": "Turn your ideas into finished content with one chat"
   },
   {
    "url": "https://www.youtube.com/watch?v=qn7uTCE146g",
@@ -273,17 +84,143 @@
    "category": "social",
    "published_iso": "2026-08-07T11:00:13Z",
    "og_image": "https://i.ytimg.com/vi/qn7uTCE146g/maxresdefault.jpg",
-   "excerpt": "Figma engineers walk through a large copy/paste speedup: on a component with 1,000+ states copy dropped from 700ms to 50ms and paste from 2s to 400ms. A rare look at the craft work behind everyday file performance.",
-   "title": "Copy + paste performance improvements | Figma"
+   "excerpt": "Figma walks through the engineering behind making copy and paste dramatically faster — the least glamorous interaction in the tool and one of the most used. A reminder that perceived craft in a design tool is mostly latency work nobody announces.",
+   "title": "How Figma made copy + paste faster"
   },
   {
-   "url": "https://www.youtube.com/watch?v=XlQmD9ewN9Y",
-   "source": "Figma (YouTube)",
-   "category": "social",
-   "published_iso": "2026-08-05T11:00:21Z",
-   "og_image": "https://i.ytimg.com/vi/XlQmD9ewN9Y/maxresdefault.jpg",
-   "excerpt": "A short primer on motion paths in Figma Motion: position keyframes draw an editable path on canvas, with dots indicating timing and easing. Core craft for designers moving animation work out of after-the-fact tools.",
-   "title": "Figma Motion basics: Motion path"
+   "url": "https://www.cgchannel.com/2026/08/adobe-releases-photoshop-27-9-1/",
+   "source": "CG Channel",
+   "category": "render",
+   "published_iso": "2026-08-06T07:28:52Z",
+   "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_Photoshop2791_f-960x480.jpg",
+   "excerpt": "Photoshop 27.9.1 moves the Remove tool into the contextual task bar, adds inline prompt tips to Generate Image, and lets you push multiple layers straight to Firefly Boards. Small release, but it shows the AI tools migrating into the default toolbar path.",
+   "title": "Adobe releases Photoshop 27.9.1"
+  },
+  {
+   "url": "https://www.creativebloq.com/art/animation/pixar-co-founders-new-ai-role-is-reigniting-animations-biggest-debate",
+   "source": "Creative Bloq",
+   "category": "render",
+   "published_iso": "2026-08-07T06:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/pqLMcFtq2rPQEBvst5Lpuk-2000-80.jpg",
+   "excerpt": "Ed Catmull, who co-founded Pixar and helped invent modern CG animation, has joined the jury of Higgsfield's $1m generative-AI film festival. The animation community's reaction says a lot about who gets to legitimise AI filmmaking.",
+   "title": "Pixar co-founder's new AI role is reigniting animation's biggest debate"
+  },
+  {
+   "url": "https://www.creativebloq.com/tech/these-sold-out-normal-f-sunglasses-are-a-huge-middle-finger-to-meta",
+   "source": "Creative Bloq",
+   "category": "vr",
+   "published_iso": "2026-08-08T09:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/FdJj6b8hXNAFpSp9FJ9bxV-1920-80.jpg",
+   "excerpt": "DuckDuckGo's sold-out 'Normal F****** Sunglasses' are deliberately dumb eyewear — no cameras, no AI, no notifications — sold as a rebuke to Meta's smart glasses. Product design as a position statement about ambient AI capture.",
+   "title": "Normal F****** Sunglasses are the perfect answer to Meta's creepy smart glasses"
+  },
+  {
+   "url": "https://www.creativebloq.com/creative-inspiration/digital-crafting/forget-3d-printers-cnc-machines-could-be-the-next-big-craze-of-2027",
+   "source": "Creative Bloq",
+   "category": "cad",
+   "published_iso": "2026-08-06T10:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/KhFACmPNPCxpkEEtWYkQU6-2560-80.jpg",
+   "excerpt": "Desktop CNC is getting cheap, quiet and software-friendly enough to follow the 3D printer's path into makers' spare rooms. If digital fabrication gets that accessible, subtractive making becomes a normal step in a designer's prototyping loop.",
+   "title": "Forget 3D printers, CNC machines could be the next big craze of 2027"
+  },
+  {
+   "url": "https://www.engineering.com/makera-links-cnc-software-mobile-control-and-project-sharing/",
+   "source": "Engineering.com",
+   "category": "cad",
+   "published_iso": "2026-08-07T11:12:58Z",
+   "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Makera-links-CNC-software-mobile-control-and-project-sharing.jpg",
+   "excerpt": "Makera Studio pulls CAM, simulation, guided setup and mobile machine control into one environment for its Carvera desktop CNC line, plus a shared project library. It collapses the gap between a CAD file and a cut part for small design shops.",
+   "title": "Makera links CNC software, mobile control and project sharing"
+  },
+  {
+   "url": "https://www.engineering.com/ptc-updates-codebeamer-ai-and-pure-variants-alm-software/",
+   "source": "Engineering.com",
+   "category": "cad",
+   "published_iso": "2026-08-06T12:27:29Z",
+   "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/PTC-updates-Codebeamer-AI-and-Pure-Variants-ALM-software.jpeg",
+   "excerpt": "PTC's Codebeamer update adds semantic search over requirements plus variant management and deeper PLM integration. For hardware product teams it means the spec trail behind a design decision becomes queryable in natural language.",
+   "title": "PTC updates Codebeamer, AI and Pure Variants ALM software"
+  },
+  {
+   "url": "https://roadtovr.com/memomind-display-smart-glasses-1m-kickstarter/",
+   "source": "Road to VR",
+   "category": "vr",
+   "published_iso": "2026-08-07T13:07:13Z",
+   "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/memomind-one.jpg",
+   "excerpt": "XGIMI's MemoMind One passed $1M on Kickstarter with camera-less display glasses, betting that people want a heads-up screen without a face-mounted camera. The funding is a real signal about which smart-glasses form factor the public will actually wear.",
+   "title": "'MemoMind One' Kickstarter Hits $1M, Making a Strong Case for Camera-less Display Glasses"
+  },
+  {
+   "url": "https://roadtovr.com/viture-pro-2-ar-glasses-launch-mobile-dock-mini/",
+   "source": "Road to VR",
+   "category": "vr",
+   "published_iso": "2026-08-06T12:59:00Z",
+   "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/viture-pro-2.jpg",
+   "excerpt": "Viture Pro 2 launches at $300 as the company's thinnest and lightest AR glasses, alongside a pocketable USB-C dock. The industrial-design race in display glasses is now being won on grams and comfort rather than feature lists.",
+   "title": "Viture Pro 2 is the Company's Thinnest & Lightest AR Glasses Yet, Priced at $300"
+  },
+  {
+   "url": "https://www.engadget.com/2232716/supernatural-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/",
+   "source": "Engadget",
+   "category": "vr",
+   "published_iso": "2026-08-08T13:00:00Z",
+   "og_image": "https://www.engadget.com/img/gallery/supernaturals-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/l-intro-1786128253.jpg",
+   "excerpt": "Supernatural's head of fitness explains rebuilding the VR exercise app's experience design after leaving Meta — what coaching, pacing and embodiment have to feel like in headset. A rare candid look at designing for the body rather than the screen.",
+   "title": "Supernatural's head of fitness on rebooting the VR exercise app after leaving Meta"
+  },
+  {
+   "url": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-08-06T20:32:37Z",
+   "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*oq3aaDR7RX0tP-T9ILYmKQ.jpeg",
+   "excerpt": "Before ethical principles can guide an AI product, they have to be translated into rules people can actually agree on and check. The piece pushes designers to turn vague value statements into operational constraints.",
+   "title": "Defining ethical design for machines"
+  },
+  {
+   "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-08-07T00:16:56Z",
+   "og_image": "https://cdn-images-1.medium.com/max/1024/1*hOE7jWBhDRorf-HLW9Jp0w.png",
+   "excerpt": "A argument for treating the AI-era app as a cybernetic system — feedback loops between user, model and interface — rather than a set of screens. It reframes what a designer is actually shaping when the product responds to itself.",
+   "title": "The cybernetic application"
+  },
+  {
+   "url": "https://uxdesign.cc/design-acme-9d0cffa8af51",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-08-07T00:20:24Z",
+   "og_image": "https://cdn-images-1.medium.com/max/2496/1*AEeqcnWN85TwUoJJ-EAdLQ.png",
+   "excerpt": "Wile E. Coyote's catalogue of ACME failures used as a design-practice case study: untested assumptions, no fallback states, and products that only work in the happy path. A funny frame for the failure modes AI-generated designs keep repeating.",
+   "title": "Design @ ACME"
+  },
+  {
+   "url": "https://www.fastcompany.com/91568447/turn-handwriting-into-font-free",
+   "source": "Fast Company",
+   "category": "workflow",
+   "published_iso": "2026-08-08T09:00:00Z",
+   "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91568447-turn-handwriting-into-font-free.jpg",
+   "excerpt": "A walkthrough of free tools that convert your own handwriting into an installable font on Android, Windows or macOS. Type design as a personalisation move — and a low-effort counterweight to interfaces that all look machine-made.",
+   "title": "Turn your handwriting into a font for Android, Windows, or MacOS"
+  },
+  {
+   "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
+   "source": "VentureBeat",
+   "category": "workflow",
+   "published_iso": "2026-08-06T22:56:06Z",
+   "og_image": null,
+   "excerpt": "Liquid AI released LFM2.5-2.6B, an open-weight model built for agentic workloads that runs on hardware as small as a Raspberry Pi — no cloud, no GPU. On-device agents put creative and client work inside the studio's own machines.",
+   "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices everywhere"
+  },
+  {
+   "url": "https://blog.logrocket.com/voice-ai-agent-browser/",
+   "source": "LogRocket Blog",
+   "category": "workflow",
+   "published_iso": "2026-08-06T13:00:57Z",
+   "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/08/How-to-build-a-real-time-voice-AI-agent-in-the-browser.png",
+   "excerpt": "A build guide for a fully local, real-time voice agent using Transformers.js and WebGPU — no server round trips, no third-party API, sub-second latency. Voice as an interface layer you can prototype without shipping user audio anywhere.",
+   "title": "How to build a real time voice AI agent in the browser"
   }
  ]
 }

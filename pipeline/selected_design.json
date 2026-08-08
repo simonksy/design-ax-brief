@@ -1,84 +1,142 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "section": "design",
+  "selected_count": 5,
   "picks": [
     {
       "rank": 1,
-      "tool": "Figma",
+      "title": "Your AI agent's UI is mediocre—and here's how to fix it",
+      "url": "https://dev.to/renato_marinho/your-ai-agents-ui-is-mediocre-and-heres-how-to-fix-it-4a3o",
+      "source": "DEV Community",
+      "published_iso": "2026-08-08T03:20:33Z",
       "category": "figma",
+      "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://dev.to/phongdesigns/why-claude-generated-screens-are-missing-their-states-45gd",
-      "source": "DEV Community",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://phongdesigns.com/en/assets/blog/blog-69-cover.webp",
-      "excerpt": "Claude reliably renders the happy path and skips empty, loading and error states, because its training data is mostly polished marketing screenshots. The post proposes prompting and review habits that force the missing states back into AI-generated screens.",
-      "rationale": "Names the exact failure mode of AI-generated screens — no empty, loading or error states — and gives a review habit a designer can apply on the next handoff."
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0bnv42yhajs5gjs0j1n9.png",
+      "excerpt": "Agent-built interfaces default to lifeless boxes because nothing in the loop enforces craft. The author wires a 'UI/UX Excellence Prover' MCP into the agent so spring physics, eight interaction states per component, and spatial hierarchy become checkable requirements instead of taste.",
+      "rationale": "Turns 'craft' into machine-checkable requirements via an MCP the agent must pass — the most directly copyable workflow change in the pool."
     },
     {
       "rank": 2,
-      "tool": "AI Workflow",
-      "category": "workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "url": "https://www.eleken.co/blog-posts/figma-to-claude-code",
-      "source": "Eleken",
-      "published_iso": "2026-08-06T10:32:15Z",
-      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a422c60d3bddb5e28e4dc90_cover.webp",
-      "excerpt": "Learn how Figma to Claude Code works, where it adds real value, and where it falls short. A practical guide to design-to-code workflows, use cases, and limitations.",
-      "rationale": "An agency field report on where the Figma-to-Claude-Code path actually pays off and where it breaks — the limits, not the demo."
+      "title": "I got tired of reverse-engineering design systems by hand, so I built a Chrome extension",
+      "url": "https://dev.to/pop3_zxcv/i-got-tired-of-reverse-engineering-design-systems-by-hand-so-i-built-a-chrome-extension-48hk",
+      "source": "DEV Community",
+      "published_iso": "2026-08-08T11:24:05Z",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F029eh62qhfumu7xnfebm.png",
+      "excerpt": "Tired of manually reading DevTools to reconstruct another site's type ramp, palette and spacing scale, the author shipped a Chrome extension that extracts a live page's design tokens automatically. It turns competitive teardown into a one-click token dump.",
+      "rationale": "A shipped tool that collapses hours of DevTools archaeology into a one-click token dump — competitive teardown becomes a routine step."
     },
     {
       "rank": 3,
-      "tool": "KeyShot",
+      "title": "Adobe releases Photoshop 27.9.1",
+      "url": "https://www.cgchannel.com/2026/08/adobe-releases-photoshop-27-9-1/",
+      "source": "CG Channel",
+      "published_iso": "2026-08-06T07:28:52Z",
       "category": "render",
+      "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://www.cgchannel.com/2026/08/armature-is-a-free-ai-assisted-standalone-character-rigging-tool/",
-      "source": "CG Channel",
-      "published_iso": "2026-08-06T12:41:05Z",
-      "og_image": "",
-      "excerpt": "FabricatorStudio released Armature, a free standalone tool that auto-rigs and skins 3D characters and exports USD for Maya, Unreal Engine and Blender. Optional control-rig generation is available for Maya users.",
-      "rationale": "A free, standalone auto-rigger with USD export drops a paid, hours-long step out of the 3D character pipeline today."
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_Photoshop2791_f-960x480.jpg",
+      "excerpt": "Photoshop 27.9.1 moves the Remove tool into the contextual task bar, adds inline prompt tips to Generate Image, and lets you push multiple layers straight to Firefly Boards. Small release, but it shows the AI tools migrating into the default toolbar path.",
+      "rationale": "A concrete shipped release where AI tools move out of side panels and into the default toolbar path — the daily-use surface designers actually touch."
     },
     {
       "rank": 4,
-      "tool": "Design Tokens",
-      "category": "tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "url": "https://dev.to/levaiinbey/we-scored-30-real-websites-against-a-40-check-design-contract-heres-what-we-found-2hf4",
-      "source": "DEV Community",
-      "published_iso": "2026-08-07T20:31:33Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.designesy.org%2Fblog%2Fscoring-30-sites%2Fopengraph-image",
-      "excerpt": "Thirty live sites, including major design systems, were scored against a 40-check machine-readable design contract covering spacing, type scale, contrast and state coverage. The results show where even mature systems fail an automated audit.",
-      "rationale": "Turns 'is our design system consistent?' into a 40-check machine-readable contract, with scored evidence that mature systems still fail it."
+      "title": "How Figma made copy + paste faster",
+      "url": "https://www.youtube.com/watch?v=qn7uTCE146g",
+      "source": "Figma (YouTube)",
+      "published_iso": "2026-08-07T11:00:13Z",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "og_image": "https://i.ytimg.com/vi/qn7uTCE146g/maxresdefault.jpg",
+      "excerpt": "Figma walks through the engineering behind making copy and paste dramatically faster — the least glamorous interaction in the tool and one of the most used. A reminder that perceived craft in a design tool is mostly latency work nobody announces.",
+      "rationale": "First-party look at how the most-used, least-discussed interaction gets its feel — perceived quality as latency work, not visual polish."
     },
     {
       "rank": 5,
-      "tool": "VR Prototype",
-      "category": "vr",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://roadtovr.com/inside-vr-design-interface-of-electronauts/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-07T16:24:32Z",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/no-text-1.jpg",
-      "excerpt": "Our series Inside XR Design examines specific examples of great XR design. Today we're looking at the game Electronauts and what it can teach us about smart VR interface design.",
-      "rationale": "A teardown of the spatial interface basics every XR prototype keeps getting wrong — reach zones, affordances, and hand-first controls."
+      "title": "Makera links CNC software, mobile control and project sharing",
+      "url": "https://www.engineering.com/makera-links-cnc-software-mobile-control-and-project-sharing/",
+      "source": "Engineering.com",
+      "published_iso": "2026-08-07T11:12:58Z",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Makera-links-CNC-software-mobile-control-and-project-sharing.jpg",
+      "excerpt": "Makera Studio pulls CAM, simulation, guided setup and mobile machine control into one environment for its Carvera desktop CNC line, plus a shared project library. It collapses the gap between a CAD file and a cut part for small design shops.",
+      "rationale": "Collapses CAD file to cut part into one guided environment, putting subtractive fabrication inside a small studio's normal prototyping loop."
     }
   ],
   "dedup": {
-    "published_window_days": 5,
-    "dropped_as_duplicate": 0,
-    "dropped_as_content_hub": 1,
-    "dropped_as_noise": 9,
-    "notes": "Checked all 31 candidates against every URL in sections.design today (2026-08-07) plus days 2026-08-02 through 2026-08-06. No candidate URL or story matched a published one. Dropped as a content hub: the Figma YouTube 'Figma Motion basics: Motion path' clip (XlQmD9ewN9Y) — same channel, same 'Figma Motion basics' series and same core topic as the already-published Figma Motion keyframes video (0lnvIXzocj4, 2026-08-05). Dropped as general AI-business / culture noise per run override: CIO Salesforce agentic-workforce index, CIO coding-agent governance brandpost, VentureBeat Liquid AI LFM2.5 model, VentureBeat Tencent Team Memory, VentureBeat multi-agent coding benchmark, Fast Company AISI report, Fast Company California transparency law, Creative Bloq Trump/Mario and Eli Roth items. Adobe Photoshop 27.9.1 dropped for near-zero novelty (maintenance release).",
-    "backfilled": []
+    "checked_against": "news_data.json sections.design (today 2026-08-08 + days 2026-08-03..2026-08-07, 29 published cards)",
+    "dropped_as_duplicate": [
+      {
+        "url": "https://www.youtube.com/watch?v=8P6G4yyzOpA",
+        "reason": "same Seedance 2.5 availability release as the Vercel AI Gateway changelog item in this same pool — within-pool duplicate of one event"
+      },
+      {
+        "url": "https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13",
+        "reason": "same core story as pick #1 (writing design taste down as agent-checkable constraints) and a rehash of published 2026-08-04 card design-design-skill"
+      }
+    ],
+    "dropped_as_out_of_scope": [
+      {
+        "url": "https://roadtovr.com/memomind-display-smart-glasses-1m-kickstarter/",
+        "reason": "hard exclude — publishing in the gadgets section today"
+      },
+      {
+        "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
+        "reason": "model/AI-industry release with no design-practice hook; also null og_image"
+      },
+      {
+        "url": "https://www.engineering.com/ptc-updates-codebeamer-ai-and-pure-variants-alm-software/",
+        "reason": "enterprise ALM requirements tooling; same PTC vendor thread as published 2026-08-07 card design-creo-13-triple-a"
+      }
+    ],
+    "near_duplicates_deprioritized": [
+      {
+        "url": "https://vercel.com/changelog/skill-packs-are-now-available",
+        "reason": "same Vercel agent-skill packaging thread as published 2026-08-07 card design-agent-plugins"
+      },
+      {
+        "url": "https://vercel.com/changelog/chat-sdk-durable-approvals",
+        "reason": "same human-in-the-loop approval UI topic as published 2026-08-06 card design-agent-evidence-approval"
+      },
+      {
+        "url": "https://roadtovr.com/viture-pro-2-ar-glasses-launch-mobile-dock-mini/",
+        "reason": "display-glasses hardware — cross-section collision risk with the gadgets section today"
+      }
+    ]
   },
-  "diversity": {
-    "outlets": ["DEV Community", "Eleken", "CG Channel", "Road to VR"],
+  "diversity_check": {
+    "outlets": {
+      "DEV Community": 2,
+      "CG Channel": 1,
+      "Figma (YouTube)": 1,
+      "Engineering.com": 1
+    },
+    "distinct_outlets": 4,
     "max_per_outlet": 2,
-    "categories": {"figma": 1, "workflow": 1, "render": 1, "tokens": 1, "vr": 1}
+    "categories": [
+      "figma",
+      "tokens",
+      "render",
+      "social",
+      "cad"
+    ],
+    "topic_spread": [
+      "agent UI quality gates",
+      "design token extraction",
+      "raster tool AI surfacing",
+      "design-tool interaction latency",
+      "desktop CNC / CAM"
+    ]
   }
 }

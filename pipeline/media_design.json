@@ -1,32 +1,32 @@
 {
+  "date": "2026-08-09",
+  "section": "design",
   "media": [
     {
-      "id": "design-claude-screen-states",
+      "id": "design-agent-ui-mcp",
       "type": "image",
-      "src": "pipeline/media/design-claude-screen-states.jpg"
+      "src": "pipeline/media/design-agent-ui-mcp.png"
     },
     {
-      "id": "design-figma-claude-code-loop",
-      "type": "video",
-      "src": "pipeline/media/design-figma-claude-code-loop.mp4",
-      "poster": "pipeline/media/design-figma-claude-code-loop.jpg"
-    },
-    {
-      "id": "design-armature-auto-rig",
-      "type": "video",
-      "src": "pipeline/media/design-armature-auto-rig.mp4",
-      "poster": "pipeline/media/design-armature-auto-rig.jpg"
-    },
-    {
-      "id": "design-designesy-40-checks",
+      "id": "design-token-extractor",
       "type": "image",
-      "src": "pipeline/media/design-designesy-40-checks.png"
+      "src": "pipeline/media/design-token-extractor.png"
     },
     {
-      "id": "design-electronauts-vr-ui",
+      "id": "design-photoshop-2791",
+      "type": "image",
+      "src": "pipeline/media/design-photoshop-2791.jpg"
+    },
+    {
+      "id": "design-figma-copy-paste",
       "type": "video",
-      "src": "pipeline/media/design-electronauts-vr-ui.mp4",
-      "poster": "pipeline/media/design-electronauts-vr-ui.jpg"
+      "src": "pipeline/media/design-figma-copy-paste.mp4",
+      "poster": "pipeline/media/design-figma-copy-paste.jpg"
+    },
+    {
+      "id": "design-makera-studio",
+      "type": "image",
+      "src": "pipeline/media/design-makera-studio.jpg"
     }
   ]
 }

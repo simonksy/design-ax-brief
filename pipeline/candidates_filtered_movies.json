@@ -1,55 +1,23 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "section": "movies",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.awn.com/news/autodesks-new-flow-studio-tools-let-creators-block-and-direct-ai-shots-3d",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-08-04T11:51:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/autodesk_flow_studio-final-for_stills.00_00_36_19.still011-1280.jpg?itok=Al8jXwQQ",
-      "excerpt": "Autodesk's Flow Studio adds 3D Editor + Canvas, letting filmmakers block shots, cameras and performance directly in 3D while AI handles final rendering. The release lays groundwork for Maya and DCC integrations and agent-driven directing."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/business/digital/autodesk-flow-studio-ai-filmmaking-tools-1236663552/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-04T15:00:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/CanvasAfter.png?w=1440&h=810&crop=1",
-      "excerpt": "Autodesk unwraps a Flow Studio tool aimed at the core problem of synthetic filmmaking: control. Adding a 3D layer to the edit is meant to make generative shots feel less random and more directed, the company says."
-    },
-    {
-      "url": "https://www.awn.com/news/ilm-and-pixar-named-disneys-ai-push-cost-cuts-continue",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-08-05T21:57:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/twdc1b_0.jpg?itok=WF9YUtiA",
-      "excerpt": "An SEC filing names ILM and Pixar among the units getting machine-learning investment inside Disney, alongside Disney Research Studios and Imagineering. Disney pledges a process that stays \"human-centered, artist-driven,\" landing right after job cuts."
-    },
-    {
-      "url": "https://www.awn.com/news/bob-gaudette-and-kirk-hipkiss-launch-ai-film-and-tv-production-studio-nolia",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-08-06T21:04:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/nolia1.jpg?itok=8T4hKAo9",
-      "excerpt": "Bob Gaudette and Kirk Hipkiss launch Nolia, a Toronto AI film and TV studio built around original IP, with 'The Little Cloud Thief' in development as feature and series. Gaudette's 8-minute AI short took the $50K Grand Prix at this year's Runway AI Festival."
-    },
-    {
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/eli-roth-ice-cream-man-genai-265223.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-08-05T07:01:00-07:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ice-Cream-Man-580x326.jpg",
-      "excerpt": "Eli Roth first described the animated sequences in 'Ice Cream Man' as traditionally made, then admitted generative AI was used in \"a very small portion\" after viewers spotted AI shots at early screenings. A case study in disclosure norms for hybrid animation."
-    },
-    {
-      "url": "https://variety.com/2026/film/news/eli-roth-ice-cream-man-ai-generated-shots-1236828000/",
+      "url": "https://variety.com/2026/film/news/inside-googles-efforts-creatives-hooked-on-ai-1236827944/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-08-05T02:31:30Z",
-      "og_image": "https://variety.com/wp-content/uploads/2023/01/eli-roth-solo.jpg?w=999&h=563&crop=1",
-      "excerpt": "Variety's account of Roth walking back his claim that 'Ice Cream Man' contained no AI: he now says generative AI appears in \"a very small portion of a few scenes.\" The reversal reignites the question of how studios label AI-assisted craft work."
+      "published_iso": "2026-08-04T22:06:40Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/RYEE5259-1.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Inside Google's Flow Sessions, the residency-style program that hands filmmakers Veo and Flow and screens the results. It doubles as a showcase for how badly Google wants the film industry to build on its generative video stack."
+    },
+    {
+      "url": "https://variety.com/2026/biz/news/ai-studio-asteria-strikes-strategic-partnership-zerospace-1236825083/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-07-31T15:54:13Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/07/32.png?w=1000&h=563&crop=1",
+      "excerpt": "Asteria, the AI studio co-founded by Bryn Mooser and Natasha Lyonne, has struck a strategic partnership with virtual production studio ZeroSpace. The deal pairs Asteria's clean-trained generative models with ZeroSpace's stage, mocap and volumetric capture pipeline."
     },
     {
       "url": "https://variety.com/2026/film/news/higgsfield-ai-n3on-ufc-israel-adesanya-rampage-jackson-1236828414/",
@@ -57,52 +25,92 @@
       "category": "movies",
       "published_iso": "2026-08-05T19:20:10Z",
       "og_image": "https://variety.com/wp-content/uploads/2026/08/Still-2026-07-31-213558_1.697.1-1-1.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Higgsfield signed licensing deals for AI avatars of streamer N3on, UFC's Israel Adesanya and Quinton 'Rampage' Jackson for a new feature — a test of how public figures get paid when their likeness and scripts are adapted with generative AI."
+      "excerpt": "Higgsfield has inked likeness deals for AI avatars of streamer N3on and UFC fighters Israel Adesanya and Quinton 'Rampage' Jackson. The project is a test for how public figures can get paid to see their likenesses and scripts adapted with generative AI."
     },
     {
-      "url": "https://deadline.com/2026/08/chinese-ai-hollywood-bytedance-minimax-the-office-1237028329/",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-08T06:00:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Asphalt-Guerrilla-film-still-1-Bando-a-Parte-H-2026.webp?w=969&h=545&crop=1",
+      "excerpt": "Portuguese auteur Edgar Pera discusses 'Asphalt Guerrilla,' premiering at Locarno, which blends fact, fiction and AI-generated imagery into a story about filmmaking. He explains how he uses AI as a craft tool precisely to argue against it."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-pro-2026-preview-ai-algorithm-mergers-creative-film-1236649968/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-03T07:01:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Markus-Duffner.webp?w=1296&h=730&crop=1",
+      "excerpt": "Locarno Pro's 2026 industry program is built around 'power, people, data,' putting AI, algorithms and consolidation versus creative freedom at the center. Industry strand director Markus Duffner lays out the sessions aimed at working filmmakers."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/twin-peaks-producer-netflix-films-cannes-venice-mega-cinema-1236650081/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-06T06:00:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/05/wild_at_heart_1990_45_h_2016.jpg?w=1440&h=810&crop=1",
+      "excerpt": "'Wild at Heart' and 'Twin Peaks' producer Sigurjon Sighvatsson, a Locarno honoree, talks AI, Netflix and the end of the 'mega cinema' era. He argues smaller festivals and human-authored work will outlast the current wave."
+    },
+    {
+      "url": "https://deadline.com/2026/08/bafta-tv-awards-ai-clause-entry-rules-welcomes-hbo-max-1237027536/",
       "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-08-07T09:03:06Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Rendering-AI-Column-Badge-1.jpg?w=1024",
-      "excerpt": "Bootleg 'The Office' and 'Friends' clips generated with China's MiniMax H3 are going viral outside China, reminding studios how hard IP policing is when a video model can reproduce a show's look, cast and staging on demand."
+      "published_iso": "2026-08-06T12:32:57Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-468303107-e1771491069345.jpg?w=1024",
+      "excerpt": "The BAFTA TV Awards has added an AI clause to its entry rules, requiring entrants to account for generative AI used in a production. HBO Max shows also become eligible for the first time."
     },
     {
-      "url": "https://deadline.com/2026/07/guillermo-del-toro-no-goddmn-ai-pans-labyrinth-re-release-1237003272/",
+      "url": "https://deadline.com/2026/08/gregg-araki-not-supporter-ai-useful-editing-i-want-your-sex-1237015578/",
       "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-07-25T02:40:27Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/07/MCDPALA_EC025.jpg?w=1024",
-      "excerpt": "Bringing 'Pan's Labyrinth' back to theaters 20 years on, Guillermo del Toro insists the restoration used \"no godd*mn AI\" — sticking to photochemical-faithful techniques as AI upscaling and cleanup spread across archive remastering."
+      "published_iso": "2026-08-02T22:40:52Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/10.jpg?w=1024",
+      "excerpt": "Gregg Araki says he is 'not a big supporter' of AI but found it genuinely useful in the edit on 'I Want Your Sex,' using it to solve a scene he could not otherwise cut. A rare concrete account of AI inside an auteur's post workflow."
     },
     {
-      "url": "https://www.animationmagazine.net/2026/08/the-best-of-siggraph-2026/",
-      "source": "Animation Magazine",
+      "url": "https://www.cined.com/native-premiere-pro-masking-and-overlapping-performances-in-resolve-ai-masking-course-update-on-mzed/",
+      "source": "CineD",
       "category": "movies",
-      "published_iso": "2026-08-07T18:53:15Z",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-mascot-Mavyn-Vu-c-2026-ACM-SIGGRAPH.jpg",
-      "excerpt": "VFX supervisor Todd Sheridan Perry gives an honest, artist-side read on SIGGRAPH 2026 in LA — what the neural rendering, gaussian splat and AI-assisted animation demos actually mean for production pipelines."
+      "published_iso": "2026-07-31T11:24:20Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/07/AI_masking_course_update-feature.jpg",
+      "excerpt": "MZed's AI Masking course adds lessons on Premiere Pro's native AI object masking and on handling overlapping performances in DaVinci Resolve. The update tracks how fast AI roto and masking are being absorbed into standard NLE workflows."
     },
     {
-      "url": "https://www.youtube.com/watch?v=8P6G4yyzOpA",
-      "source": "Runway (YouTube)",
+      "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
+      "source": "No Film School",
       "category": "movies",
-      "published_iso": "2026-08-07T08:51:10-07:00",
-      "og_image": "https://i.ytimg.com/vi/8P6G4yyzOpA/maxresdefault.jpg",
-      "excerpt": "Runway announces ByteDance's Seedance 2.5 is now available inside its platform, putting 30-second single-shot generation and 3D camera blockouts alongside Runway's own tools in one filmmaking workspace."
+      "published_iso": "2026-07-30T22:10:56Z",
+      "og_image": "https://nofilmschool.com/media-library/credit-wonder-dynamics.webp?id=67559520&width=1200&height=600&coordinates=0%2C39%2C237%2C249",
+      "excerpt": "Wonder Dynamics co-founders Tye Sheridan and Nikola Todorovic explain how their filmmaking backgrounds shaped AI production tools built for artists rather than prompters. They walk through the design decisions behind keeping humans in the loop."
     },
     {
-      "url": "https://www.youtube.com/watch?v=EgfzPsHIKQw",
-      "source": "Corridor Crew (YouTube)",
+      "url": "https://www.awn.com/news/bob-gaudette-and-kirk-hipkiss-launch-ai-film-and-tv-production-studio-nolia",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-07-26T16:00:30Z",
-      "og_image": "https://i.ytimg.com/vi/EgfzPsHIKQw/maxresdefault.jpg",
-      "excerpt": "Corridor Crew brings in AI experts to break down how fully synthetic YouTube channels are made and how to spot them — a practical detection primer for anyone working with generated footage."
+      "published_iso": "2026-08-07T00:04:54Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/nolia1.jpg?itok=8T4hKAo9",
+      "excerpt": "Filmmaker Bob Gaudette and producer Kirk Hipkiss have launched Nolia, a Toronto AI-native film and TV company built around original IP. Gaudette's short 'A Face Only a Mother Could Love' won the $50,000 Grand Prix at the 2026 Runway AI Festival."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=N7zh3PoMeSk",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "published_iso": "2026-08-07T22:45:29Z",
+      "og_image": "https://i.ytimg.com/vi/N7zh3PoMeSk/maxresdefault.jpg",
+      "excerpt": "Curious Refuge's weekly roundup of 16 AI filmmaking updates, covering new model releases, tool changes and festival news filmmakers missed. A fast survey of the week's generative video landscape from a working AI-film school."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EbDzfeBwszM",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "published_iso": "2026-08-06T20:29:08Z",
+      "og_image": "https://i.ytimg.com/vi/EbDzfeBwszM/maxresdefault.jpg",
+      "excerpt": "A hands-on test of xAI's new AI video tool from a filmmaking perspective, judging shot control, consistency and whether the output survives an edit. Curious Refuge compares it against the current model leaders."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 12,
+    "dropped": 3,
+    "kept": 13,
     "against_days": 5
   }
 }
