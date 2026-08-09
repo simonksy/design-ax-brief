@@ -1,33 +1,27 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "games",
   "media": [
     {
-      "id": "games-axolotl3d",
+      "id": "games-world-apart",
+      "type": "image",
+      "src": "pipeline/media/games-world-apart.jpg"
+    },
+    {
+      "id": "games-blood-rain-cope",
+      "type": "image",
+      "src": "pipeline/media/games-blood-rain-cope.jpg"
+    },
+    {
+      "id": "games-dicken-dungeon-master",
       "type": "video",
-      "src": "pipeline/media/games-axolotl3d.mp4",
-      "poster": "pipeline/media/games-axolotl3d.jpg"
+      "src": "pipeline/media/games-dicken-dungeon-master.mp4",
+      "poster": "pipeline/media/games-dicken-dungeon-master.jpg"
     },
     {
-      "id": "games-pssr2",
+      "id": "games-no-genai-roster",
       "type": "image",
-      "src": "pipeline/media/games-pssr2.jpg"
-    },
-    {
-      "id": "games-qa-agent",
-      "type": "image",
-      "src": "pipeline/media/games-qa-agent.jpg"
-    },
-    {
-      "id": "games-motion-imitation",
-      "type": "video",
-      "src": "pipeline/media/games-motion-imitation.mp4",
-      "poster": "pipeline/media/games-motion-imitation.jpg"
-    },
-    {
-      "id": "games-relic-ai",
-      "type": "image",
-      "src": "pipeline/media/games-relic-ai.jpg"
+      "src": "pipeline/media/games-no-genai-roster.jpg"
     }
   ]
 }

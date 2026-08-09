@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "books",
-  "now_iso": "2026-08-08T22:00:26Z",
+  "now_iso": "2026-08-09T22:00:29Z",
   "window_hours": 336,
-  "count": 11,
-  "note": "Books section, 14-day window (freshness.py 'books' = 336h; note window_hours(now_iso) with the design default returns 72, so 336 is set explicitly per section). Every published time was read by direct fetch from og:article:published_time / JSON-LD datePublished (YouTube: JSON-LD uploadDate), then gated with pipeline/freshness.py — no snippet dates trusted. Already-published stories in pipeline/news_data.json sections.books were excluded before writing (dropped: Good e-Reader HarperCollins AI audiobooks, Scholarly Kitchen 8/07 peer-review guest post, PP 'Around the Book World: August 3', ALLi 'AI in Self-Published Amazon Books' — all already shipped). Topics in keywords_books.json avoided_recent_topics were also excluded (Papers AI/Digital Science, Princeton UP x Cashmere, Brian Murray/HarperCollins AI authorship, Substack Pangram, AALA ethics code, $2.4M AI-suspected deal collapse, secondhand-bookseller AI training orders, US Copyright Office chief lawsuit, Chakrabarti Amazon study). Outlet spread: Publishers Weekly 1, Publishing Perspectives 2, Jane Friedman 2, ALLi Self-Publishing Advice 1, Good e-Reader 1, YouTube 4 across 3 distinct channels (The Nerdy Novelist 2, selfpublishing.com 1, Self-Publishing with Dale 1) — 8 distinct outlets, <=3 per outlet respected. Section fresh news is genuinely thin this run: swept publishersweekly.com (6 topic indexes), thebookseller.com (article URLs return HTTP 404 to fetchers — no verifiable published times, so all Bookseller items were dropped rather than guessed), publishingperspectives.com (July + August archives), goodereader.com (July + August archives), janefriedman.com (post sitemap + AI category), selfpublishingadvice.org (post sitemap), scholarlykitchen.sspnet.org (August archive), lithub.com + electricliterature.com + writersdigest.com + bookriot.com (RSS/tag pages — all AI items stale), kindlepreneur.com, thecreativepenn.com, bookbub.com, mediabistro.com, booksandpublishing.com.au, techcrunch.com, teleread.org + the-digital-reader.com + ireaderreview.com (dead/off-topic), plus Korean-language 'AI 출판' sweep (no fresh on-topic item). Expanded keywords beyond the plan: ProWritingAid/ProWritingMethod, Audible AI translation, ElevenLabs, Kobo 45% rejection, 'Ask This Book', Vermillio/AAP, Spines, Dibbly, NOVELUS/Mantra manga MT, Apple Books iOS 27 — all returned stale or already-published items. WebSearch budget was exhausted at 200 calls; remaining sweeps were done by direct HTTP fetch of sitemaps/archives.",
+  "count": 9,
+  "note": "Books section, 14-day window (freshness.py 'books' = 336h; window_hours(now_iso) with the design default returns 72, so 336 is set explicitly per section). Every published time was read by direct fetch (og article:published_time / JSON-LD datePublished / dateline); YouTube uploadDate read from the watch-page JSON-LD via curl because WebFetch only returned the YouTube footer. Keywords were EXPANDED well beyond keywords_books.json: added Asian Publishers Week / Korea, papal AI encyclical, BISG survey, scholarly 'author voice', AI-narration backlist + ElevenLabs, AI film adaptation of a novel, Kindle Translate, manga AI localization, Authors Guild model clauses, PLS collective licensing, Creators' Rights Alliance. Swept 14 allowed_domains plus 6 YouTube channels via RSS. Books is genuinely thin this window: The Bookseller, Jane Friedman, Self-Publishing Advice, Book Riot, Lit Hub, Books+Publishing, Writer's Digest, Kindlepreneur, TeleRead (last post Feb 2026), the-digital-reader (403) and ireaderreview (DNS dead) produced either nothing fresh+AI or only items already listed in avoided_recent_topics (Chakrabarti Amazon study, authors-of-colour AI suspicion, Substack/Pangram, Brian Murray AI authorship, Princeton x Cashmere, Anthropic settlement, ChatGPT style-blocking, Digital Science Papers AI, ProWritingAid/Dale roundup, PW metadata summit). Dropped for the design-relevance test: Libro.fm ebook expansion, RBmedia/Boldwood acquisition, Fable 5M users, Indie Manga Alliance, Simon Stream, HarperCollins financials. Dropped for staleness after date verification: Book Riot Commonwealth-prize clearance (2026-06-25), Lit Hub 'Everyone is an AI Cop Now' (2026-05-22), PW 'Some Listeners Prefer AI Narration' (2026-07-14), Bookseller PLS 250-publisher licensing (2026-06-24), PP AI course announcement (2026-07-22), Kindle Translate expansion (2026-07-01), Kindle Recaps/Ask This Book (2026-06-09), JAT manga-AI opposition (2024), Nerdy Novelist tool roundups (2026-07-20 and earlier). Dropped as a duplicate of yesterday's published card: Scholarly Kitchen 'Do we need (r)evolution in peer review?' (2026-08-07). Outlet spread: Publishing Perspectives 3, Scholarly Kitchen 2, Publishers Weekly 2, Good e-Reader 1, YouTube/The Nerdy Novelist 1 — all within the <=3 per-outlet cap.",
   "items": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101010-new-bisg-head-lays-out-priorities.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130678-1.JPG",
-      "title": "AI May Be Making Publishing Easier, But It's Still Not Easy",
-      "excerpt": "At the Media Transformation Summit cohosted by Publishing Signal, speakers agreed AI is accelerating production and lowering costs, but curation, audience-finding and judgement calls remain stubbornly human. One thread: AI systems favour content with explicit, machine-friendly structure, so publishers may have to rewrite how they present plot summaries, author bios and images online."
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": null,
+      "title": "New BISG Head Lays Out Priorities",
+      "excerpt": "Incoming BISG executive director Allison Belan says AI 'was the first thing that came up in virtually every conversation' with members and now tops the standards body's agenda. A second industry-wide AI survey lands in fall 2026, aimed at pushing publishers from debate to concrete implementation."
     },
     {
       "url": "https://publishingperspectives.com/2026/08/applications-still-open-for-koreas-asian-publishers-week-2026/",
@@ -22,52 +22,7 @@
       "published_iso": "2026-08-07T00:00:00Z",
       "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Asian-Publishers-Week.png",
       "title": "Applications Still Open for Korea's Asian Publishers Week 2026",
-      "excerpt": "The Korea Publishers Society has extended its application deadline for Asian Publishers Week 2026 in Seoul, November 3-6, themed 'Publishing in the Era of AI: Between Crisis and Opportunity.' The programme frames AI as the organising question for Asian publishing rather than a side track."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-07-31T11:33:04Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM.png",
-      "title": "'Clarity of Thought and Responsibility': Can the Pope Move the Needle on AI Regulation?",
-      "excerpt": "Publishing Perspectives reads Pope Leo XIV's May 29 encyclical as one of the most cogent arguments yet for an ethical framework around AI, and asks whether it can shift a regulatory debate that the book trade has been losing on copyright and creator consent."
-    },
-    {
-      "url": "https://janefriedman.com/european-unions-ai-act-requires-transparency-around-specific-types-of-ai-generated-content/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-08-05T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "title": "European Union's AI Act requires transparency around specific types of AI-generated content",
-      "excerpt": "The EU AI Act's transparency obligations cover AI-generated or AI-manipulated content that could be mistaken as real, pushing disclosure and labelling from a voluntary courtesy toward a compliance requirement for anyone publishing AI-assisted work into the EU."
-    },
-    {
-      "url": "https://janefriedman.com/links-of-interest-august-5-2026/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-08-05T16:00:47Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
-      "title": "Links of Interest: August 5, 2026",
-      "excerpt": "Friedman's weekly round-up leads with poets discovering their copyrighted work inside Giggle Academy's learning materials, alongside publisher-side AI licensing moves. A snapshot of where authors are finding their text turning up without consent."
-    },
-    {
-      "url": "https://selfpublishingadvice.org/indie-manga-publishers-join-forces/",
-      "source": "ALLi Self-Publishing Advice",
-      "category": "books",
-      "published_iso": "2026-08-08T12:00:06Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-8.jpg",
-      "title": "Indie Manga Publishers Join Forces, and Reading Gets Its Couch to 5K",
-      "excerpt": "Five US indie manga publishers form the Indie Manga Alliance to pool resources against an industry squeezed by scale and machine translation, while Naomi Alderman launches an eight-week 'Couch to 5K' style programme to rebuild reading habits. The same round-up tracks the week's AI flashpoints in agenting and Amazon self-publishing."
-    },
-    {
-      "url": "https://goodereader.com/blog/electronic-readers/these-new-features-are-coming-to-the-iflytek-ainote-2",
-      "source": "Good e-Reader",
-      "category": "books",
-      "published_iso": "2026-08-07T04:58:53Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/07005653/7-1x.webp",
-      "title": "These new features are coming to the iFlytek AINOTE 2",
-      "excerpt": "iFlytek published a roadmap for its LLM-powered E Ink writing tablet, adding continuous pen-thickness control across notes, PDFs and e-books plus deeper automated note organisation and document processing. A look at what an AI-native reading-and-writing surface actually ships."
+      "excerpt": "The Korea Publishers Society has extended applications for Asian Publishers Week (Seoul, November 3-6), themed 'Publishing in the Era of AI: Between Crisis and Opportunity.' It is the region's biggest scheduled forum on how AI is reshaping editorial, rights and production practice across Asian markets."
     },
     {
       "url": "https://www.youtube.com/watch?v=IEi44Dmn9rM",
@@ -76,39 +31,39 @@
       "published_iso": "2026-07-31T12:00:27Z",
       "og_image": "https://i.ytimg.com/vi/IEi44Dmn9rM/maxresdefault.jpg",
       "title": "I Turned My Novel Into an AI Film, Here's How I Did It",
-      "excerpt": "The Nerdy Novelist adapts one chapter of his sci-fi novel Jumpbox into an AI-generated film and breaks down the workflow that held up — and the shots that fell apart. A concrete look at novel-to-video AI pipelines from an author, not a studio."
+      "excerpt": "Jason Hamilton walks through his full pipeline for adapting his own novel into an AI-generated film — scripting, character consistency, shot generation and edit — as a marketing and IP-extension play for indie authors. A concrete look at where book craft meets generative video production."
     },
     {
-      "url": "https://www.youtube.com/watch?v=zclrdrwsD-M",
-      "source": "The Nerdy Novelist (YouTube)",
+      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-07-29T11:30:23Z",
-      "og_image": "https://i.ytimg.com/vi/zclrdrwsD-M/maxresdefault.jpg",
-      "title": "7 Mistakes That Scream \"AI TEXT\" (and How to Fix It)",
-      "excerpt": "A craft-level breakdown of the seven tells that mark prose as machine-written, and line-edit fixes for each. Useful for the current wave of AI-detection disputes hitting authors and agents."
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png",
+      "title": "'Clarity of Thought and Responsibility': Can the Pope Move the Needle on AI Regulation?",
+      "excerpt": "Pope Leo XIV's May encyclical on artificial intelligence is drawing unusual praise across the book trade for its argument that AI must stay human-centred and be brought under real regulatory oversight. Publishing bodies are now citing it as moral cover in licensing and training-data fights."
     },
     {
-      "url": "https://www.youtube.com/watch?v=2pJqxijuCTA",
-      "source": "selfpublishing.com (YouTube)",
+      "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100941-the-new-manhattan-project-pw-talks-with-kevin-roose.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-08-04T20:03:47Z",
-      "og_image": "https://i.ytimg.com/vi/2pJqxijuCTA/maxresdefault.jpg",
-      "title": "I Used AI to Write & Publish a Book in 30 Days (Here's What Happened...)",
-      "excerpt": "Bestselling author Scott Allan walks through the exact framework used to write, edit and publish a complete nonfiction manuscript in 30 days with Claude, including where the human editing pass was non-negotiable."
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": null,
+      "title": "The New Manhattan Project: PW Talks with Kevin Roose",
+      "excerpt": "Kevin Roose discusses 'The AGI Chronicles,' his reported book on the race to artificial general intelligence, including his access to figures like Anthropic's Dario Amodei. He argues the window for governments to set rules is closing faster than the publishing calendar can keep up with."
     },
     {
-      "url": "https://www.youtube.com/watch?v=61voMQvOFNE",
-      "source": "The Self-Publishing with Dale Podcast (YouTube)",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-08-06T14:15:28Z",
-      "og_image": "https://i.ytimg.com/vi/61voMQvOFNE/maxresdefault.jpg",
-      "title": "How to Get Barnes & Noble to Host Your Book Signing | Self-Publishing News (August 6, 2026)",
-      "excerpt": "This week's indie-author news covers ProWritingAid's new ProWritingMethod editing system plus platform updates from Apple Books, Lulu and Voices by INAudio, alongside Barnes & Noble tightening its local author-event rules."
+      "published_iso": "2026-07-30T00:00:00Z",
+      "og_image": null,
+      "title": "Guest Post — The Third Time is NOT the Charm: Who Will Own How AI Participates in Scholarship?",
+      "excerpt": "Wendy Queen and Jonathan Woahn note the scholarly community has twice built the foundational layer only to watch commercial platforms own what sat on top of it. AI participation in scholarship is the third chance — and the terms have to be set collaboratively before the layer hardens."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 11,
+    "dropped": 3,
+    "kept": 6,
     "against_days": 5
   }
 }

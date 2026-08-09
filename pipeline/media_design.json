@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "design",
   "media": [
     {
-      "id": "design-agent-ui-mcp",
+      "id": "design-gpt-live-voice",
       "type": "image",
-      "src": "pipeline/media/design-agent-ui-mcp.png"
+      "src": "pipeline/media/design-gpt-live-voice.jpg"
     },
     {
-      "id": "design-token-extractor",
+      "id": "design-baseline-audit",
       "type": "image",
-      "src": "pipeline/media/design-token-extractor.png"
+      "src": "pipeline/media/design-baseline-audit.png"
     },
     {
-      "id": "design-photoshop-2791",
-      "type": "image",
-      "src": "pipeline/media/design-photoshop-2791.jpg"
-    },
-    {
-      "id": "design-figma-copy-paste",
+      "id": "design-vr-mech-modeler",
       "type": "video",
-      "src": "pipeline/media/design-figma-copy-paste.mp4",
-      "poster": "pipeline/media/design-figma-copy-paste.jpg"
+      "src": "pipeline/media/design-vr-mech-modeler.mp4",
+      "poster": "pipeline/media/design-vr-mech-modeler.jpg"
     },
     {
-      "id": "design-makera-studio",
+      "id": "design-cybernetic-app",
       "type": "image",
-      "src": "pipeline/media/design-makera-studio.jpg"
+      "src": "pipeline/media/design-cybernetic-app.png"
+    },
+    {
+      "id": "design-process-proof",
+      "type": "image",
+      "src": "pipeline/media/design-process-proof.jpg"
     }
   ]
 }

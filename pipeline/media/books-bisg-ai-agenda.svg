@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="BISG puts AI at the top of the publishing standards agenda">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1206"/>
+      <stop offset="1" stop-color="#2e1f07"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5a623"/>
+      <stop offset="1" stop-color="#ffd07a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(96,142)">
+    <rect x="0" y="0" width="132" height="182" rx="10" fill="url(#acc)"/>
+    <rect x="150" y="22" width="132" height="160" rx="10" fill="#f5a623" opacity="0.62"/>
+    <rect x="300" y="44" width="132" height="138" rx="10" fill="#f5a623" opacity="0.34"/>
+    <rect x="0" y="214" width="432" height="18" rx="9" fill="#f5a623" opacity="0.85"/>
+    <rect x="0" y="252" width="300" height="18" rx="9" fill="#f5a623" opacity="0.45"/>
+    <rect x="0" y="290" width="196" height="18" rx="9" fill="#f5a623" opacity="0.25"/>
+  </g>
+  <g transform="translate(624,268)" fill="#fdf3e2" font-family="Georgia, 'Times New Roman', serif">
+    <text x="0" y="0" font-size="50" font-weight="700">BISG&#8217;s first agenda: AI</text>
+    <text x="0" y="58" font-size="28" fill="#e2b878">Allison Belan &#183; Publishers Weekly</text>
+  </g>
+  <rect x="0" y="614" width="1200" height="16" fill="#f5a623"/>
+</svg>

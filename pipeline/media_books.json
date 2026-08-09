@@ -1,33 +1,32 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "books",
   "media": [
     {
-      "id": "books-claude-30day-book",
-      "type": "video",
-      "src": "pipeline/media/books-claude-30day-book.mp4",
-      "poster": "pipeline/media/books-claude-30day-book.jpg"
-    },
-    {
-      "id": "books-ai-text-tells",
-      "type": "video",
-      "src": "pipeline/media/books-ai-text-tells.mp4",
-      "poster": "pipeline/media/books-ai-text-tells.jpg"
-    },
-    {
-      "id": "books-eu-ai-act-disclosure",
-      "type": "svg"
-    },
-    {
-      "id": "books-prowritingmethod-news",
-      "type": "video",
-      "src": "pipeline/media/books-prowritingmethod-news.mp4",
-      "poster": "pipeline/media/books-prowritingmethod-news.jpg"
-    },
-    {
-      "id": "books-pw-ai-still-not-easy",
+      "id": "books-bisg-ai-agenda",
       "type": "image",
-      "src": "pipeline/media/books-pw-ai-still-not-easy.jpg"
+      "src": "pipeline/media/books-bisg-ai-agenda.svg"
+    },
+    {
+      "id": "books-asian-publishers-week-seoul",
+      "type": "image",
+      "src": "pipeline/media/books-asian-publishers-week-seoul.png"
+    },
+    {
+      "id": "books-novel-to-ai-film",
+      "type": "video",
+      "src": "pipeline/media/books-novel-to-ai-film.mp4",
+      "poster": "pipeline/media/books-novel-to-ai-film.jpg"
+    },
+    {
+      "id": "books-ai-participation-layer",
+      "type": "image",
+      "src": "pipeline/media/books-ai-participation-layer.jpg"
+    },
+    {
+      "id": "books-pope-leo-ai-encyclical",
+      "type": "image",
+      "src": "pipeline/media/books-pope-leo-ai-encyclical.png"
     }
   ]
 }

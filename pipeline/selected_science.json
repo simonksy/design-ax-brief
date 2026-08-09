@@ -1,81 +1,134 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "science",
+  "selected_count": 5,
   "picks": [
     {
       "rank": 1,
-      "tool": "Science",
+      "title": "First AI-driven telescope opens a new era of stargazing",
+      "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
+      "source": "Phys.org",
+      "published_iso": "2026-07-31T00:00:00Z",
       "category": "science",
+      "subdomain": "astro",
+      "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-08-ai-ramanomics-major-obstacle-cells.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-and-ramanomics-coul-1.jpg",
-      "excerpt": "University at Buffalo researchers paired Raman spectroscopy with a neural network to identify four organelles inside living cells at about 90% accuracy, with no fluorescent dyes. The dye-free 'Ramanomics' route removes a long-standing obstacle to watching cells without perturbing them.",
-      "rationale": "Concrete method advance: a neural net removes the dye step that has distorted live-cell imaging for decades."
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg",
+      "excerpt": "Northwestern, University of Chicago and Fermilab researchers deployed the first AI system that decides where a telescope points, scheduling Dark Energy Camera observations on the Blanco 4-meter telescope and adapting in real time to weather and seeing.",
+      "rationale": "First time an AI holds the pointing decision on a major telescope — observation scheduling stops being a human queue and becomes a live control loop."
     },
     {
       "rank": 2,
-      "tool": "Science",
+      "title": "Cleveland Clinic and IBM researchers create quantum machine learning framework to predict neoantigen immune response",
+      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-07-30T00:00:00Z",
       "category": "science",
+      "subdomain": "quantum",
+      "tool": "Science",
       "accent": "#0070f3",
       "motif": "cube",
-      "url": "https://physicsworld.com/a/ai-model-helps-physics-nobel-laureate-out-of-a-decade-old-mathematical-jam/",
-      "source": "Physics World",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/claude-team-635x472.jpg",
-      "excerpt": "Two physicists, one of them a Nobel laureate, cracked a decade-old puzzle about jamming transitions with help from Claude. The account is a concrete look at how an AI model slots into a working theory-physics collaboration rather than replacing it.",
-      "rationale": "A first-hand account of where an LLM actually fits inside a theory-physics workflow, not a benchmark claim."
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
+      "excerpt": "Cleveland Clinic and IBM researchers built Q-CHIPP, a quantum machine learning framework that beats classical methods at predicting which tumor mutations trigger an immune response under data-limited conditions.",
+      "rationale": "A rare concrete claim of quantum ML advantage where it should matter most — small, expensive biological datasets rather than benchmark-scale data."
     },
     {
       "rank": 3,
-      "tool": "Science",
-      "category": "science",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "url": "https://techxplore.com/news/2026-08-chameleon-chip-errors.html",
+      "title": "AI framework rooted in cognitive science plans more efficiently at a fraction of the energy",
+      "url": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-chamele.jpg",
-      "excerpt": "KAIST built a programmable dynamic memtransistor that retunes its own response speed to match time-series data arriving at different rates. Prediction errors dropped up to 40-fold against fixed-response devices.",
-      "rationale": "Hardware-side novelty with a hard number: self-retuning device timing cuts time-series prediction error 40-fold."
+      "published_iso": "2026-08-08T00:00:00Z",
+      "category": "science",
+      "subdomain": "mind-cognition",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-inspired-plannin.jpg",
+      "excerpt": "A cognitive-science-inspired AI framework built on cognitive maps solves planning problems more efficiently and with far lower energy use than conventional deep neural networks.",
+      "rationale": "Argues the planning win comes from borrowing the brain's cognitive-map representation rather than from scaling — a different lever than bigger models."
     },
     {
       "rank": 4,
-      "tool": "Science",
+      "title": "US National Science Foundation putting $380 million into building self-driving labs",
+      "url": "https://www.chemistryworld.com/news/us-national-science-foundation-putting-380-million-into-building-self-driving-labs/4023958.article",
+      "source": "Chemistry World",
+      "published_iso": "2026-07-28T13:29:00+01:00",
       "category": "science",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "url": "https://www.scientificamerican.com/article/why-google-deepmind-broke-up-the-alphafold-team/",
-      "source": "Scientific American",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": null,
-      "excerpt": "After eight years, 200 million predictions and a Nobel Prize, Google DeepMind has dissolved its dedicated AlphaFold team. The lab argues the problem is largely solved and outside researchers are already carrying the work forward.",
-      "rationale": "Structural news for AI-in-science: the flagship protein-folding effort is declared done and handed to the field."
+      "subdomain": "research-automation",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "og_image": "",
+      "excerpt": "The US National Science Foundation is putting $380 million into AI-enabled autonomous laboratories, including a $20 million NC State-led 'self-driving' chemistry lab aimed at cutting molecular discovery from years to weeks.",
+      "rationale": "National-scale funding turns autonomous labs from demos into standing infrastructure, resetting the baseline for how discovery work gets staffed and run."
     },
     {
       "rank": 5,
-      "tool": "Science",
+      "title": "They changed their minds on AI. Who's next?",
+      "url": "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/",
+      "source": "STAT News",
+      "published_iso": "2026-08-05T00:00:00Z",
       "category": "science",
+      "subdomain": "bio",
+      "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-01T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co.jpg",
-      "excerpt": "Emory and Georgia Tech researchers built CapuchinAI, a field system combining facial recognition with touchscreen cognitive tasks for wild capuchin monkeys. It identified individual monkeys with 97% accuracy in Costa Rica, moving primate cognition testing out of the lab.",
-      "rationale": "Moves an entire experimental paradigm out of the lab into the wild, widening the topical spread beyond physics and chips."
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_RamyFarid-645x645.png",
+      "excerpt": "Schrodinger CEO Ramy Farid, a longtime physics-based-simulation partisan in drug design, explains what changed his mind about where machine learning now fits in computational discovery.",
+      "rationale": "A leading physics-first holdout publicly redrawing the line between simulation and ML — the clearest signal yet of where computational drug design settles."
     }
   ],
   "dedup": {
-    "checked_against_days": 5,
-    "pool_size": 10,
-    "dropped_as_duplicate": 0,
-    "dropped_as_offtopic": [
-      "https://www.eurekalert.org/news-releases/1138661 (NSF funding award — AI-business/funding noise)",
-      "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/ (CEO opinion interview, low actionability)"
+    "checked_against": "news_data.json sections.science (today 2026-08-09 + days 2026-08-04..2026-08-08, 30 published cards)",
+    "verified_no_url_collision": true,
+    "content_dedup_notes": [
+      {
+        "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
+        "note": "Same outlet and same publish date as the already-published 2026-08-06 card 'quantum circuits for drug molecules' (Quantinuum/NVIDIA/Pfizer), but a different event, different institutions and a different core topic (immune-response prediction vs circuit synthesis). Kept as distinct."
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
+        "note": "Not a URL/content duplicate, but the section already carries four AI-and-mathematics cards in the last five days (Erdos problems, Jacobian counterexample, two cryptography proofs, AI reasoning). Deprioritized on sub-domain saturation, not dedup."
+      }
     ],
-    "notes": "No URL or content match against science cards published 2026-08-03 through 2026-08-08. The Scientific American OpenAI-math-misconduct item was set aside to keep Scientific American at one card and to avoid stacking a third AI-and-mathematics story after 08-04 and 08-06. Final outlets: Phys.org x2, Physics World, Tech Xplore, Scientific American (4 distinct, max 2 per outlet)."
+    "dropped_or_not_selected": [
+      {
+        "url": "https://medicalxpress.com/news/2026-08-qa-ai-surging-mental-health.html",
+        "reason": "Strong runner-up, but mind-cognition was already represented and the section has repeatedly covered AI-and-human-cognition/medical-AI framing (skill atrophy, AI scribes, medical AI expertise gap)."
+      },
+      {
+        "url": "https://medicalxpress.com/news/2026-08-ai-psychiatry-cases-human-oversight.html",
+        "reason": "Same outlet and same date as the item above (content-hub pair); also overlaps the already-published 'AI scribes in medical education' and 'medical AI expertise gap' ground."
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/hank-green-ai-controversy-raises-questions-for-science-communicators/",
+        "reason": "Science-communication culture story; low actionability for research method, and it is AI-discourse rather than AI advancing science."
+      },
+      {
+        "url": "https://allenai.org/blog/tutormoments",
+        "reason": "Good eval work, but a third mind-cognition item and narrower than the cognitive-maps framework already selected."
+      }
+    ]
+  },
+  "diversity_check": {
+    "outlets": {
+      "Phys.org": 1,
+      "The Quantum Insider": 1,
+      "Tech Xplore": 1,
+      "Chemistry World": 1,
+      "STAT News": 1
+    },
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "subdomain_spread": [
+      "astro",
+      "quantum",
+      "mind-cognition",
+      "research-automation",
+      "bio"
+    ],
+    "accents_unique": true,
+    "motifs_unique": true
   }
 }

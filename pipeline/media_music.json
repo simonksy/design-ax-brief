@@ -1,34 +1,33 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "music",
   "media": [
     {
-      "id": "music-iamchoir",
-      "type": "video",
-      "src": "pipeline/media/music-iamchoir.mp4",
-      "poster": "pipeline/media/music-iamchoir.jpg"
-    },
-    {
-      "id": "music-mixvault",
-      "type": "video",
-      "src": "pipeline/media/music-mixvault.mp4",
-      "poster": "pipeline/media/music-mixvault.jpg"
-    },
-    {
-      "id": "music-suno-30years",
+      "id": "music-reflector",
       "type": "image",
-      "src": "pipeline/media/music-suno-30years.jpg"
+      "src": "pipeline/media/music-reflector.jpg"
     },
     {
-      "id": "music-midia-hit",
-      "type": "image",
-      "src": "pipeline/media/music-midia-hit.jpg"
-    },
-    {
-      "id": "music-luke-steele",
+      "id": "music-dreamtonics-tease",
       "type": "video",
-      "src": "pipeline/media/music-luke-steele.mp4",
-      "poster": "pipeline/media/music-luke-steele.jpg"
+      "src": "pipeline/media/music-dreamtonics-tease.mp4",
+      "poster": "pipeline/media/music-dreamtonics-tease.jpg"
+    },
+    {
+      "id": "music-provenance-recipe",
+      "type": "image",
+      "src": "pipeline/media/music-provenance-recipe.svg"
+    },
+    {
+      "id": "music-bangalter-ai",
+      "type": "video",
+      "src": "pipeline/media/music-bangalter-ai.mp4",
+      "poster": "pipeline/media/music-bangalter-ai.jpg"
+    },
+    {
+      "id": "music-suno-breach-suits",
+      "type": "image",
+      "src": "pipeline/media/music-suno-breach-suits.svg"
     }
   ]
 }

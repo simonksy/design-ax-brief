@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "games",
   "picks": [
     {
@@ -7,85 +7,76 @@
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://www.youtube.com/watch?v=2mg8tNIKvXE",
-      "source": "NVIDIA Developer",
-      "published_iso": "2026-07-28T19:51:48Z",
-      "og_image": "https://i.ytimg.com/vi/2mg8tNIKvXE/maxresdefault.jpg",
-      "excerpt": "Axolotl3D is a single model that completes any 3D object from partial inputs — multi-view images, visibility masks, point clouds — handling occlusion completion, local shape editing and object extraction from Gaussian splat scenes. A practical step for 3D asset cleanup and kitbashing in game art pipelines.",
-      "rationale": "A shipped model that fixes the least glamorous, most common 3D-art chore — completing and editing broken/occluded meshes — so it changes an asset artist's day tomorrow."
+      "url": "https://es.kotaku.com/el-rpg-que-promete-cambiar-para-siempre-los-videojuegos-apuesta-por-una-ia-nunca-vista-pero-todavia-guarda-su-mayor-secreto-2000049072",
+      "source": "Kotaku en Espanol",
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://es.kotaku.com/app/uploads/2026/08/Diseno-sin-titulo-2026-08-07T105252.732.jpg",
+      "excerpt": "ByteDance unveiled World Apart at ChinaJoy 2026, an RPG whose NPCs are meant to interpret context, react to player decisions and generate dialogue in real time instead of reading pre-written lines. The studio still hasn't confirmed the underlying stack, with reports pointing to NVIDIA ACE.",
+      "rationale": "A major publisher betting a whole RPG on runtime-generated NPC dialogue changes what narrative and systems designers have to spec next."
     },
     {
       "rank": 2,
       "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://wccftech.com/sony-forces-pssr-2-0-every-ps5-pro-update-upscaler-toggle/",
-      "source": "Wccftech",
-      "published_iso": "2026-08-06T11:38:13Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/PlayStation-5-Pro-Beta-Update-PSSR-1920x1080.jpg",
-      "excerpt": "Sony's new PS5 Pro beta update turns 'Enhance PSSR Image Quality' on by default, applying its neural upscaler to every game including unpatched back catalogue titles. Platform-level neural rendering now overrides the image developers shipped — an art-direction call made by the console, not the studio.",
-      "rationale": "The platform now re-renders your shipped image by default; art directors have to plan for a neural pass they do not control."
+      "accent": "#0070f3",
+      "motif": "frame",
+      "url": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
+      "source": "Kotaku",
+      "published_iso": "2026-08-04T00:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/stella-balde-e1785850013847.jpg",
+      "excerpt": "Shift Up CEO Kim Hyung Tae defended the AI-generated Stellar Blade: Blood Rain music video by arguing the AI only rendered designs his team had already crafted by hand. Players rejected the framing, treating the output as evidence that generative rendering degrades the studio's own art direction.",
+      "rationale": "The 'AI only rendered our own designs' defence failed in public — a direct warning about generative marketing assets carrying a studio's art direction."
     },
     {
       "rank": 3,
       "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "url": "https://www.destructoid.com/ai-qa-program/",
-      "source": "Destructoid",
-      "published_iso": "2026-08-08T19:14:11Z",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2025/12/ai-stock-image.jpg",
-      "excerpt": "Square Enix has teamed with Google on a Gemini-powered QA agent that can actually play and analyze in-development builds, and other publishers are reportedly lining up for it. After programmers and artists, QA testers are framed as the next game-dev role to be reshaped by AI — with real doubts about whether an agent catches the bugs humans do.",
-      "rationale": "An agent that plays your build is a concrete new step in the production loop — and redraws who signs off on quality."
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://80.lv/articles/game-ai-expert-explains-where-ai-actually-belongs-in-game-development-and-the-risks",
+      "source": "80 Level",
+      "published_iso": "2026-07-29T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Veteran game-AI researcher Luke Dicken (Zynga, Take-Two) argues generative AI's real value in games is adaptive player experience, not automating art and production away. He also warns that today's per-player inference costs are unsustainable and hidden behind corporate subsidies.",
+      "rationale": "A credible practitioner draws the line between AI that improves play and AI that just cuts headcount — plus the runtime-cost math teams keep skipping."
     },
     {
       "rank": 4,
       "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "source": "Two Minute Papers",
-      "published_iso": "2026-08-02T15:01:10Z",
-      "og_image": "https://i.ytimg.com/vi/8B05cy3UuSE/maxresdefault.jpg",
-      "excerpt": "A walkthrough of NVIDIA-backed research showing why pure motion imitation fails for virtual characters, and how human-in-the-loop learning produces more physically believable movement. Directly relevant to the animation and character-motion pipelines game teams are trying to automate.",
-      "rationale": "Explains precisely where automated character motion breaks and why a human in the loop still beats pure imitation — the animation team's next brief."
-    },
-    {
-      "rank": 5,
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "url": "https://kotaku.com/director-of-new-soulslike-says-no-ai-used-in-the-final-game-after-big-youtubers-sounded-the-alarm-over-a-recent-preview-build-2000720260",
-      "source": "Kotaku",
-      "published_iso": "2026-07-30T19:15:26Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg",
-      "excerpt": "After Soulslike YouTubers flagged suspicious assets and AI-sounding quest-giver voices in a preview build, The Relic: First Guardian's director confirmed generative AI was used in development. Another case of players auditing art and audio craft before launch and forcing disclosure.",
-      "rationale": "Preview builds are now audited for AI tells by the audience — a disclosure and asset-provenance policy is a shipping requirement, not PR."
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "url": "https://aftermath.site/video-games-no-ai/",
+      "source": "Aftermath",
+      "published_iso": "2026-07-29T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/07/shutterstock_2267663029.jpg",
+      "excerpt": "Aftermath compiled a running list of 50+ independent studios that have publicly committed to shipping without generative AI. Cited reasons include training-data theft, environmental cost, labor displacement and the erosion of human authorship as a craft signal.",
+      "rationale": "A concrete, growing roster showing 'no genAI' has become a stated production policy and a marketing signal indies actively use."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.games — today (2026-08-08) + days 2026-08-03..2026-08-07",
+    "checked_against": "news_data.json sections.games — today (2026-08-09) + days 2026-08-04..2026-08-08 (25 published cards)",
     "already_published_matches": [
       {
         "url": "https://kotaku.com/google-ai-somehow-leaked-a-game-devs-content-plans-hidden-inside-their-own-google-docs-2000722497",
-        "reason": "Same event as published 2026-08-07 card games-google-ai-leaks-private-docs (GamesRadar+, https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/) — identical indie dev, Operation Octo, private Google Docs character name. Different outlet, same story."
-      }
-    ],
-    "dropped_as_business_noise": [
-      "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
-      "https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing"
-    ],
-    "dropped_as_lower_ranked": [
+        "reason": "Same event as published 2026-08-07 card games-google-ai-leaks-private-docs (GamesRadar+, https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/) — identical indie dev, Operation Octo tower defense, 'Vantage Tripod' name pulled from a private Google Doc. Different outlet, same story."
+      },
       {
-        "url": "https://gamesbeat.com/a-question-for-the-industry-how-will-external-developers-use-ai-tools-the-deanbeat/",
-        "reason": "Op-ed on co-dev/outsourcing dynamics; lower actionability than the five picks, kept as backfill reserve."
+        "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs",
+        "reason": "Same subject as published 2026-08-05 card games-seed-ai-avatars (PC Gamer, https://www.pcgamer.com/games/sim/mmo-life-sim-seeds-ai-powered-avatars-prove-once-again-that-nothing-shatters-immersion-quicker-than-crappy-chatbot-dialogue) — Klang Games' MMO Seed and its LLM-driven AI avatars, same early-access window. Different outlet and angle (tech pipeline vs hands-on critique), but the reader would see the same story twice in one week."
       }
     ],
-    "near_miss_checks": [
-      "Destructoid Square Enix x Gemini QA agent is NOT the 2026-08-06 card games-dragon-quest-gemini-event (Tokyo AR promo event) — different event, different story.",
-      "Wccftech PSSR 2.0 is NOT the 2026-08-07 card games-nvidia-ntc-sdk-arm64 — different vendor, different technology.",
-      "Kotaku The Relic disclosure is NOT the 2026-08-04 card games-ludwig-fmv-ai-slop — different game and different incident."
+    "within_pool_duplicates_collapsed": [
+      {
+        "story": "Stellar Blade: Blood Rain AI-generated music video backlash",
+        "kept": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
+        "dropped": [
+          "https://www.destructoid.com/stellar-blade-ai-slop-music-video-awful-must-be-seen/",
+          "https://www.thegamer.com/stellar-blade-blood-rain-ai-generated-music-video/",
+          "https://www.thegamer.com/stellar-blade-blood-rain-ai-music-video-controversy-shift-up/",
+          "https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725"
+        ],
+        "reason": "One story across three outlets and four reworded pieces. Kept the single most recent and most substantive item (studio CEO's on-record defence, 2026-08-04), which also carries the underlying video controversy."
+      }
     ],
-    "diversity": "5 distinct outlets (NVIDIA Developer, Wccftech, Destructoid, Two Minute Papers, Kotaku); 5 distinct topics (3D asset completion, platform neural upscaling, QA agents, character animation research, AI disclosure pressure)"
+    "shortfall": "4 picks instead of 5. The fresh pool held 10 items: 5 were the same Stellar Blade story (collapsed to 1), 2 duplicated already-published games cards (Google Docs leak, Klang Seed). No further unique, never-before-seen fresh candidate existed — padding with a second Stellar Blade angle was explicitly ruled out.",
+    "diversity": "4 distinct outlets (Kotaku en Espanol, Kotaku, 80 Level, Aftermath — max 2 from the Kotaku brand); 4 distinct topics (runtime-generated NPC RPG, generative marketing asset backlash, where AI belongs in game dev + inference economics, studios pledging no genAI). Each pick has a distinct accent and motif since all share the games category."
   }
 }

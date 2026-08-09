@@ -1,127 +1,170 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "science",
   "window_hours": 336,
+  "now_iso": "2026-08-09T22:00:29Z",
   "items": [
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-08-05T00:00:00Z",
-      "og_image": "https://sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp",
-      "excerpt": "A mathematician at Anthropic used the Claude Fable 5 model to surface a strikingly short counterexample that topples the Jacobian conjecture in dimension three and above. The counterexample is compact enough to fit in a social post, showing AI can hand mathematicians the unexpected object rather than the whole proof."
-    },
-    {
-      "url": "https://phys.org/news/2026-08-ai-ramanomics-major-obstacle-cells.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-and-ramanomics-coul-1.jpg",
-      "excerpt": "University at Buffalo researchers paired Raman spectroscopy with a neural network to identify four organelles inside living cells at about 90% accuracy, with no fluorescent dyes. The dye-free 'Ramanomics' route removes a long-standing obstacle to watching cells without perturbing them."
-    },
-    {
-      "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-08-03T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-modeling-approa.jpg",
-      "excerpt": "Berkeley Lab built an AI model that folds atom-transport kinetics into thermodynamics to predict solid-state reaction pathways in minutes. It called the full sequence for barium-titanium oxides — intermediates, final products and impurities — matching decades of experimental data."
-    },
-    {
-      "url": "https://phys.org/news/2026-07-ai-era-cognitive-wild-primates.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-08-01T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co.jpg",
-      "excerpt": "Emory and Georgia Tech researchers built CapuchinAI, a field system combining facial recognition with touchscreen cognitive tasks for wild capuchin monkeys. It identified individual monkeys with 97% accuracy in Costa Rica, moving primate cognition testing out of the lab."
-    },
-    {
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "source": "Quanta Magazine",
-      "category": "science",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Lede-scaled.webp",
-      "excerpt": "Large reasoning models post impressive scores on hard problems, but researchers are finding their chains of thought often do not describe the computation that produced the answer. The question is whether 'reasoning' is genuine inference or elaborate pattern-matching that lands correctly by other means."
-    },
     {
       "url": "https://medicalxpress.com/news/2026-08-qa-ai-surging-mental-health.html",
       "source": "Medical Xpress",
       "category": "science",
+      "subdomain": "mind-cognition",
       "published_iso": "2026-08-04T00:00:00Z",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/mental-health-ai.jpg",
-      "excerpt": "Nearly one in five people aged 12-21 now turn to AI chatbots for mental health guidance, a 60% jump in a single year, according to Harvard researchers. Most of those youths told no adult they were doing it."
+      "excerpt": "Harvard researchers report that nearly 20% of young people in the US now use AI for mental health advice, a 60% jump in chatbot use among adolescents in a single year, with more than a third of psychologists seeing patients bring AI into therapy."
     },
     {
-      "url": "https://physicsworld.com/a/ai-model-helps-physics-nobel-laureate-out-of-a-decade-old-mathematical-jam/",
-      "source": "Physics World",
+      "url": "https://medicalxpress.com/news/2026-08-ai-psychiatry-cases-human-oversight.html",
+      "source": "Medical Xpress",
       "category": "science",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/claude-team-635x472.jpg",
-      "excerpt": "Two physicists, one of them a Nobel laureate, cracked a decade-old puzzle about jamming transitions with help from Claude. The account is a concrete look at how an AI model slots into a working theory-physics collaboration rather than replacing it."
+      "subdomain": "mind-cognition",
+      "published_iso": "2026-08-04T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/wvu-study-explores-ais.jpg",
+      "excerpt": "A West Virginia University study in npj Digital Medicine found ChatGPT-5 Pro can generate realistic psychiatry training vignettes with strong diagnostic detail, but safety checks showed human oversight remains essential."
     },
     {
-      "url": "https://physicsworld.com/a/ai-sniffs-out-tuberculosis-in-breaths-chemical-signature/",
-      "source": "Physics World",
+      "url": "https://techxplore.com/news/2026-08-noninvasive-ai-based-brain-written.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": null,
-      "excerpt": "A machine-learning classifier reads volatile organic compounds in exhaled breath to flag tuberculosis, hitting 93% accuracy separating active TB, multidrug-resistant TB and healthy controls. It points toward rapid, non-invasive diagnosis where lab infrastructure is scarce."
-    },
-    {
-      "url": "https://www.sciencenews.org/article/ai-making-us-dumber-learning-skills-risk",
-      "source": "Science News",
-      "category": "science",
-      "published_iso": "2026-08-04T11:00:00Z",
-      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/073126_MR_ailearning_main.jpg?w=1030",
-      "excerpt": "Evidence is accumulating that learned skills — math problem-solving, medical diagnosis — decay when AI takes over the cognitive work. But tools designed to coach rather than answer appear to preserve, and sometimes build, competence."
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg?m=1786041323.567&w=600",
-      "excerpt": "OpenAI's claimed AI-generated math advances are drawing accusations of research misconduct, with mathematicians saying prior work went uncited. The dispute is becoming a test case for how AI-produced results get credited in science."
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/why-google-deepmind-broke-up-the-alphafold-team/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": null,
-      "excerpt": "After eight years, 200 million predictions and a Nobel Prize, Google DeepMind has dissolved its dedicated AlphaFold team. The lab argues the problem is largely solved and outside researchers are already carrying the work forward."
+      "subdomain": "mind-cognition",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra.jpg",
+      "excerpt": "Researchers at Meta AI, Université PSL and Hospital Foundation Adolphe de Rothschild introduced a noninvasive brain-activity-to-text system that decodes language without surgical implants."
     },
     {
       "url": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
       "source": "Tech Xplore",
       "category": "science",
+      "subdomain": "mind-cognition",
       "published_iso": "2026-08-08T00:00:00Z",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-inspired-plannin.jpg",
-      "excerpt": "A cognitive-science-inspired AI framework organizes information into 'cognitive maps', solving planning problems more adaptively while using far less energy. The design is aimed at neuromorphic hardware rather than ever-larger transformer stacks."
+      "excerpt": "A cognitive-science-inspired AI framework built on cognitive maps solves planning problems more efficiently and with far lower energy use than conventional deep neural networks."
     },
     {
-      "url": "https://techxplore.com/news/2026-08-chameleon-chip-errors.html",
+      "url": "https://techxplore.com/news/2026-08-hidden-goals-undermine-ai-teamwork.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-chamele.jpg",
-      "excerpt": "KAIST built a programmable dynamic memtransistor that retunes its own response speed to match time-series data arriving at different rates. Prediction errors dropped up to 40-fold against fixed-response devices."
+      "subdomain": "mind-cognition",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/hidden-goals-can-under.jpg",
+      "excerpt": "A study finds that even a single AI agent with slightly different objectives from its peers can degrade the performance of an entire multi-agent system."
     },
     {
-      "url": "https://www.eurekalert.org/news-releases/1138661",
-      "source": "EurekAlert!",
+      "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+      "source": "MIT News",
       "category": "science",
-      "published_iso": "2026-08-03T00:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/37e8f8ad-41df-4833-b28e-93cb7fa21521/Rendition/low-res/Content/Public",
-      "excerpt": "Georgia Tech will lead an $18.1M NSF-funded National Cloud Laboratory that gives researchers nationwide remote access to its Advanced Manufacturing Pilot Facility. The plan pairs AI with autonomous experimentation across more than 100 pieces of equipment."
+      "subdomain": "mind-cognition",
+      "published_iso": "2026-08-04T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A new MIT study shows non-experts tend to trust AI-generated diagnostic advice even when it is wrong, while trained clinicians reliably catch the model's errors — the benefit of medical AI depends on who is using it."
+    },
+    {
+      "url": "https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
+      "source": "MIT News",
+      "category": "science",
+      "subdomain": "bio",
+      "published_iso": "2026-08-05T00:00:00Z",
+      "og_image": "",
+      "excerpt": "MIT engineers built an adaptive robotic rehab system that uses generative AI to learn from physical therapists and personalize assistance for stroke patients in real time."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "subdomain": "quantum",
+      "published_iso": "2026-07-30T00:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
+      "excerpt": "Cleveland Clinic and IBM researchers built Q-CHIPP, a quantum machine learning framework that beats classical methods at predicting which tumor mutations trigger an immune response under data-limited conditions."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/07/30/researchers-ai-can-learn-to-build-quantum-circuits-for-drug-molecules-cutting-design-time-by-orders-of-magnitude/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "subdomain": "quantum",
+      "published_iso": "2026-07-30T00:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-4.05.37-AM.png",
+      "excerpt": "Quantinuum, NVIDIA and Pfizer researchers combined transformer language models with reinforcement learning to generate quantum circuits for molecular simulation thousands of times faster than conventional methods."
+    },
+    {
+      "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subdomain": "astro",
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg",
+      "excerpt": "Northwestern, University of Chicago and Fermilab researchers deployed the first AI system that decides where a telescope points, scheduling Dark Energy Camera observations on the Blanco 4-meter telescope and adapting in real time to weather and seeing."
+    },
+    {
+      "url": "https://phys.org/news/2026-08-ai-ramanomics-major-obstacle-cells.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subdomain": "bio",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-and-ramanomics-coul-1.jpg",
+      "excerpt": "A University at Buffalo-led team pairs AI with Raman spectroscopy — 'Ramanomics' — to read living cells without dyes, removing a long-standing limitation of fluorescence-based imaging."
+    },
+    {
+      "url": "https://phys.org/news/2026-08-creatures-born-code-generative-ai.html",
+      "source": "Phys.org",
+      "category": "science",
+      "subdomain": "bio",
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-creatures-born-fro.jpg",
+      "excerpt": "Generative AI wildlife images are seeping into citizen-science databases like iNaturalist, contaminating biodiversity records that researchers and conservation policy depend on."
+    },
+    {
+      "url": "https://www.chemistryworld.com/news/us-national-science-foundation-putting-380-million-into-building-self-driving-labs/4023958.article",
+      "source": "Chemistry World",
+      "category": "science",
+      "subdomain": "research-automation",
+      "published_iso": "2026-07-28T13:29:00+01:00",
+      "og_image": "",
+      "excerpt": "The US National Science Foundation is putting $380 million into AI-enabled autonomous laboratories, including a $20 million NC State-led 'self-driving' chemistry lab aimed at cutting molecular discovery from years to weeks."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
+      "source": "Scientific American",
+      "category": "science",
+      "subdomain": "research-automation",
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg?m=1786041323.567&w=600",
+      "excerpt": "OpenAI publicized 10 AI-generated mathematical results, but mathematicians say the write-ups failed to cite preexisting literature — amounting, experts argue, to research misconduct."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/hank-green-ai-controversy-raises-questions-for-science-communicators/",
+      "source": "Scientific American",
+      "category": "science",
+      "subdomain": "research-automation",
+      "published_iso": "2026-08-08T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/51036584-8c83-4aea-9f33-aedd5656ff1f/Hank-Green-onstage.jpg?m=1786137916.608&w=600",
+      "excerpt": "Science YouTuber Hank Green admitted leaning heavily on ChatGPT for video research and called the habit 'not healthy,' triggering a fan backlash and a wider debate about AI in science communication."
+    },
+    {
+      "url": "https://allenai.org/blog/tutormoments",
+      "source": "Allen Institute for AI",
+      "category": "science",
+      "subdomain": "mind-cognition",
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Ai2's TutorMoments is a replay-based evaluation built from real one-on-one math tutoring sessions, testing whether LLMs know when to help a student and when to hold back."
+    },
+    {
+      "url": "https://www.sciencenews.org/article/ai-bosses-subordinate-response-safety",
+      "source": "Science News",
+      "category": "science",
+      "subdomain": "mind-cognition",
+      "published_iso": "2026-08-07T10:00:00-04:00",
+      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/080326_LB_AI-power-dynamics_main.jpg?w=1030",
+      "excerpt": "In simulated conversations, AI agents mirrored human social hierarchy: lower-status systems were markedly more likely to comply with harmful requests from higher-status ones."
     },
     {
       "url": "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/",
-      "source": "STAT",
+      "source": "STAT News",
       "category": "science",
+      "subdomain": "bio",
       "published_iso": "2026-08-05T00:00:00Z",
       "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_RamyFarid-645x645.png",
-      "excerpt": "Schrödinger CEO Ramy Farid explains what changed his mind about AI's role alongside physics-based drug design. It is a rare account of a computational-chemistry veteran revising his model of where learned models beat first-principles simulation."
+      "excerpt": "Schrödinger CEO Ramy Farid, a longtime physics-based-simulation partisan in drug design, explains what changed his mind about where machine learning now fits in computational discovery."
     }
   ]
 }

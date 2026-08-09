@@ -1,33 +1,11 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "movies",
   "media": [
-    {
-      "id": "movies-bafta-ai-clause",
-      "type": "image",
-      "src": "pipeline/media/movies-bafta-ai-clause.jpg"
-    },
-    {
-      "id": "movies-mzed-ai-masking",
-      "type": "image",
-      "src": "pipeline/media/movies-mzed-ai-masking.jpg"
-    },
-    {
-      "id": "movies-google-flow-sessions",
-      "type": "image",
-      "src": "pipeline/media/movies-google-flow-sessions.jpg"
-    },
-    {
-      "id": "movies-xai-video-test",
-      "type": "video",
-      "src": "pipeline/media/movies-xai-video-test.mp4",
-      "poster": "pipeline/media/movies-xai-video-test.jpg"
-    },
-    {
-      "id": "movies-higgsfield-likeness",
-      "type": "video",
-      "src": "pipeline/media/movies-higgsfield-likeness.mp4",
-      "poster": "pipeline/media/movies-higgsfield-likeness.jpg"
-    }
+    {"id": "movies-wb-ai-dog-podcast", "type": "image", "src": "pipeline/media/movies-wb-ai-dog-podcast.jpg"},
+    {"id": "movies-ae-ai-assistant", "type": "video", "src": "pipeline/media/movies-ae-ai-assistant.mp4", "poster": "pipeline/media/movies-ae-ai-assistant.jpg"},
+    {"id": "movies-roku-fairground", "type": "image", "src": "pipeline/media/movies-roku-fairground.png"},
+    {"id": "movies-araki-post-ai", "type": "image", "src": "pipeline/media/movies-araki-post-ai.jpg"},
+    {"id": "movies-asphalt-guerrilla", "type": "image", "src": "pipeline/media/movies-asphalt-guerrilla.jpg"}
   ]
 }

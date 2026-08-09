@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-09",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-ramanomics",
-      "type": "image",
-      "src": "pipeline/media/science-ramanomics.jpg"
-    },
-    {
-      "id": "science-claude-jamming",
-      "type": "image",
-      "src": "pipeline/media/science-claude-jamming.jpg"
-    },
-    {
-      "id": "science-kaist-memtransistor",
-      "type": "image",
-      "src": "pipeline/media/science-kaist-memtransistor.jpg"
-    },
-    {
-      "id": "science-alphafold-team",
-      "type": "image",
-      "src": "pipeline/media/science-alphafold-team.jpg"
-    },
-    {
-      "id": "science-capuchinai",
-      "type": "image",
-      "src": "pipeline/media/science-capuchinai.jpg"
-    }
-  ]
+ "date": "2026-08-10",
+ "section": "science",
+ "media": [
+  {
+   "id": "science-ai-telescope-scheduler",
+   "type": "image",
+   "src": "pipeline/media/science-ai-telescope-scheduler.jpg"
+  },
+  {
+   "id": "science-q-chipp-neoantigen",
+   "type": "image",
+   "src": "pipeline/media/science-q-chipp-neoantigen.jpg"
+  },
+  {
+   "id": "science-cognitive-map-planner",
+   "type": "image",
+   "src": "pipeline/media/science-cognitive-map-planner.jpg"
+  },
+  {
+   "id": "science-nsf-self-driving-labs",
+   "type": "image",
+   "src": "pipeline/media/science-nsf-self-driving-labs.svg"
+  },
+  {
+   "id": "science-schrodinger-farid-ai",
+   "type": "image",
+   "src": "pipeline/media/science-schrodinger-farid-ai.jpg"
+  }
+ ]
 }
