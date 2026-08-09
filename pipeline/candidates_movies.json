@@ -1,8 +1,25 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "movies",
   "window_hours": 336,
+  "now_iso": "2026-08-09T22:00:29Z",
   "items": [
+    {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-08T06:00:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Asphalt-Guerrilla-film-still-1-Bando-a-Parte-H-2026.webp?w=969&h=545&crop=1",
+      "excerpt": "Portuguese auteur Edgar Pera discusses 'Asphalt Guerrilla,' premiering at Locarno, which blends fact, fiction and AI-generated imagery into a story about filmmaking. He explains how he uses AI as a craft tool precisely to argue against it."
+    },
+    {
+      "url": "https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-08-08T23:41:56Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-08-Aug-2026-04-28-PM-6403.jpg?crop=0px%2C54px%2C1200px%2C675px&resize=1000%2C563",
+      "excerpt": "Warner Bros. built a campaign for the Anne Hathaway/Ewan McGregor sci-fi film 'The End of Oak Street' around an AI-generated talking-dog podcast. A studio marketing department using generative video as a first-class promo format, not a test."
+    },
     {
       "url": "https://variety.com/2026/film/news/inside-googles-efforts-creatives-hooked-on-ai-1236827944/",
       "source": "Variety",
@@ -20,36 +37,12 @@
       "excerpt": "Asteria, the AI studio co-founded by Bryn Mooser and Natasha Lyonne, has struck a strategic partnership with virtual production studio ZeroSpace. The deal pairs Asteria's clean-trained generative models with ZeroSpace's stage, mocap and volumetric capture pipeline."
     },
     {
-      "url": "https://variety.com/2026/film/news/higgsfield-ai-n3on-ufc-israel-adesanya-rampage-jackson-1236828414/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-08-05T19:20:10Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Still-2026-07-31-213558_1.697.1-1-1.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Higgsfield has inked likeness deals for AI avatars of streamer N3on and UFC fighters Israel Adesanya and Quinton 'Rampage' Jackson. The project is a test for how public figures can get paid to see their likenesses and scripts adapted with generative AI."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-08T06:00:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Asphalt-Guerrilla-film-still-1-Bando-a-Parte-H-2026.webp?w=969&h=545&crop=1",
-      "excerpt": "Portuguese auteur Edgar Pera discusses 'Asphalt Guerrilla,' premiering at Locarno, which blends fact, fiction and AI-generated imagery into a story about filmmaking. He explains how he uses AI as a craft tool precisely to argue against it."
-    },
-    {
       "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-pro-2026-preview-ai-algorithm-mergers-creative-film-1236649968/",
       "source": "The Hollywood Reporter",
       "category": "movies",
       "published_iso": "2026-08-03T07:01:00Z",
       "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Markus-Duffner.webp?w=1296&h=730&crop=1",
-      "excerpt": "Locarno Pro's 2026 industry program is built around 'power, people, data,' putting AI, algorithms and consolidation versus creative freedom at the center. Industry strand director Markus Duffner lays out the sessions aimed at working filmmakers."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/twin-peaks-producer-netflix-films-cannes-venice-mega-cinema-1236650081/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-06T06:00:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/05/wild_at_heart_1990_45_h_2016.jpg?w=1440&h=810&crop=1",
-      "excerpt": "'Wild at Heart' and 'Twin Peaks' producer Sigurjon Sighvatsson, a Locarno honoree, talks AI, Netflix and the end of the 'mega cinema' era. He argues smaller festivals and human-authored work will outlast the current wave."
+      "excerpt": "Locarno Pro industry head Markus Duffner frames this year's program around 'power, people, data' — AI, algorithms and consolidation versus creative freedom. A read on how European independent cinema is organizing its response to generative tools."
     },
     {
       "url": "https://deadline.com/2026/08/bafta-tv-awards-ai-clause-entry-rules-welcomes-hbo-max-1237027536/",
@@ -57,7 +50,7 @@
       "category": "movies",
       "published_iso": "2026-08-06T12:32:57Z",
       "og_image": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-468303107-e1771491069345.jpg?w=1024",
-      "excerpt": "The BAFTA TV Awards has added an AI clause to its entry rules, requiring entrants to account for generative AI used in a production. HBO Max shows also become eligible for the first time."
+      "excerpt": "The BAFTA TV Awards has added an AI clause to its entry rules, requiring entrants to declare generative-AI use. Awards bodies are now setting disclosure norms that production teams have to build into their pipelines."
     },
     {
       "url": "https://deadline.com/2026/08/gregg-araki-not-supporter-ai-useful-editing-i-want-your-sex-1237015578/",
@@ -65,39 +58,7 @@
       "category": "movies",
       "published_iso": "2026-08-02T22:40:52Z",
       "og_image": "https://deadline.com/wp-content/uploads/2026/08/10.jpg?w=1024",
-      "excerpt": "Gregg Araki says he is 'not a big supporter' of AI but found it genuinely useful in the edit on 'I Want Your Sex,' using it to solve a scene he could not otherwise cut. A rare concrete account of AI inside an auteur's post workflow."
-    },
-    {
-      "url": "https://www.cined.com/native-premiere-pro-masking-and-overlapping-performances-in-resolve-ai-masking-course-update-on-mzed/",
-      "source": "CineD",
-      "category": "movies",
-      "published_iso": "2026-07-31T11:24:20Z",
-      "og_image": "https://www.cined.com/content/uploads/2026/07/AI_masking_course_update-feature.jpg",
-      "excerpt": "MZed's AI Masking course adds lessons on Premiere Pro's native AI object masking and on handling overlapping performances in DaVinci Resolve. The update tracks how fast AI roto and masking are being absorbed into standard NLE workflows."
-    },
-    {
-      "url": "https://nofilmschool.com/ai-tracing-tool",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-07-28T20:11:57Z",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334",
-      "excerpt": "A UC Riverside-led team has built a tool that goes beyond flagging a video as synthetic: it tries to identify which AI model generated it. For filmmakers and rights holders, that is provenance at the model level."
-    },
-    {
-      "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-07-30T22:10:56Z",
-      "og_image": "https://nofilmschool.com/media-library/credit-wonder-dynamics.webp?id=67559520&width=1200&height=600&coordinates=0%2C39%2C237%2C249",
-      "excerpt": "Wonder Dynamics co-founders Tye Sheridan and Nikola Todorovic explain how their filmmaking backgrounds shaped AI production tools built for artists rather than prompters. They walk through the design decisions behind keeping humans in the loop."
-    },
-    {
-      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
-      "source": "ProVideo Coalition",
-      "category": "movies",
-      "published_iso": "2026-07-28T22:34:29Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut.jpg",
-      "excerpt": "Real actors, real performances, an AI-generated world: Damian Allen walks through Beeble's hybrid film-set workflow shot by shot. It is a concrete preview of a production model where live plates and generative environments are relit together."
+      "excerpt": "Gregg Araki, no fan of AI, describes the one place it earned its keep on 'I Want Your Sex': a specific editing problem he could not solve any other way. A concrete craft account rather than a position statement."
     },
     {
       "url": "https://www.awn.com/news/bob-gaudette-and-kirk-hipkiss-launch-ai-film-and-tv-production-studio-nolia",
@@ -105,7 +66,23 @@
       "category": "movies",
       "published_iso": "2026-08-07T00:04:54Z",
       "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/nolia1.jpg?itok=8T4hKAo9",
-      "excerpt": "Filmmaker Bob Gaudette and producer Kirk Hipkiss have launched Nolia, a Toronto AI-native film and TV company built around original IP. Gaudette's short 'A Face Only a Mother Could Love' won the $50,000 Grand Prix at the 2026 Runway AI Festival."
+      "excerpt": "Bob Gaudette and Kirk Hipkiss launched Nolia, a Toronto AI film and TV studio built around original IP, with 'The Little Cloud Thief' in development as feature and series. Gaudette's 8-minute short took the $50K Grand Prix at this year's Runway AI Festival."
+    },
+    {
+      "url": "https://www.awn.com/news/ilm-and-pixar-named-disneys-ai-push-cost-cuts-continue",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-08-06T00:57:43Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/twdc1b_0.jpg?itok=WF9YUtiA",
+      "excerpt": "A Disney SEC filing names ILM and Pixar in the company's machine-learning push, with money behind Disney Research Studios and Imagineering and a pledge that the creative process stays 'human-centered.' It lands after job reductions at Pixar earlier this year."
+    },
+    {
+      "url": "https://www.cartoonbrew.com/educational/epic-spaceman-toby-lockerbie-youtube-science-channel-265274.html",
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "published_iso": "2026-08-06T18:06:33Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Epic-Spaceman.jpg",
+      "excerpt": "Toby Lockerbie explains how self-taught animation and VFX built Epic Spaceman into one of YouTube's top science channels — and why genAI has no place in his pipeline. A working counter-case on craft economics at solo scale."
     },
     {
       "url": "https://www.animationmagazine.net/2026/08/the-best-of-siggraph-2026/",
@@ -113,15 +90,55 @@
       "category": "movies",
       "published_iso": "2026-08-07T18:53:15Z",
       "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-mascot-Mavyn-Vu-c-2026-ACM-SIGGRAPH.jpg",
-      "excerpt": "VFX supervisor Todd Sheridan Perry gives an artist's-eye read on SIGGRAPH 2026, sorting the genuinely useful neural rendering and pipeline tools from the noise. Notably candid about what the shrinking floor means for CG craft."
+      "excerpt": "VFX supervisor Todd Sheridan Perry gives an unvarnished practitioner's read on what actually mattered at SIGGRAPH 2026. Useful as a filter between vendor demos and things a production can use this year."
     },
     {
-      "url": "https://www.youtube.com/watch?v=N7zh3PoMeSk",
+      "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-07-30T22:10:56Z",
+      "og_image": "https://nofilmschool.com/media-library/credit-wonder-dynamics.webp?id=67559520&width=1200&height=600&coordinates=0%2C39%2C237%2C249",
+      "excerpt": "Wonder Dynamics co-founders Tye Sheridan and Nikola Todorovic explain how their filmmaking backgrounds shaped the design of AI production tools for artists. A tool-maker interview about where the human control surfaces belong."
+    },
+    {
+      "url": "https://www.provideocoalition.com/is-this-the-future-of-filmmaking/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-07-28T22:34:29Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+      "excerpt": "Damian Allen walks through a hybrid workflow where real actors and real cinematography are captured on a basic set and the surroundings are regenerated in post, with roughly five-minute turnarounds. A concrete look at what a small crew can now shoot."
+    },
+    {
+      "url": "https://www.provideocoalition.com/after-effects-portal-july-2026/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-07-31T18:57:38Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/insider-tips-after-effects.jpg-1024x576.jpg",
+      "excerpt": "Rich Young's monthly After Effects roundup covers the beta AI Assistant that automates physics animation and layer management via natural language, plus the third-party AI tools reshaping motion work. A survey of what actually shipped into AE this month."
+    },
+    {
+      "url": "https://www.cined.com/native-premiere-pro-masking-and-overlapping-performances-in-resolve-ai-masking-course-update-on-mzed/",
+      "source": "CineD",
+      "category": "movies",
+      "published_iso": "2026-07-31T11:24:20Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/07/AI_masking_course_update-feature.jpg",
+      "excerpt": "MZed's AI masking course adds native Premiere Pro masking and overlapping-performance work in Resolve. Training material is now the fastest-moving part of AI post, tracking NLE features that change every few months."
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-08-07T18:59:46Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&strip=all&crop=0%2C2.3735501218774%2C100%2C95.252899756245&w=1200",
+      "excerpt": "Roku has launched Fairground, a free ad-supported channel of fully AI-generated programming, and the viewing experience is grim. An early read on what happens when generative video is scheduled as linear television."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4JgSwNaLpts",
       "source": "Curious Refuge",
       "category": "movies",
-      "published_iso": "2026-08-07T22:45:29Z",
-      "og_image": "https://i.ytimg.com/vi/N7zh3PoMeSk/maxresdefault.jpg",
-      "excerpt": "Curious Refuge's weekly roundup of 16 AI filmmaking updates, covering new model releases, tool changes and festival news filmmakers missed. A fast survey of the week's generative video landscape from a working AI-film school."
+      "published_iso": "2026-08-07T23:10:24Z",
+      "og_image": "https://i.ytimg.com/vi/4JgSwNaLpts/maxresdefault.jpg",
+      "excerpt": "Curious Refuge tests NVIDIA's world model and argues it points past prompt-to-clip toward navigable, consistent scene space. Framed for filmmakers deciding what to learn next."
     },
     {
       "url": "https://www.youtube.com/watch?v=EbDzfeBwszM",
@@ -129,7 +146,15 @@
       "category": "movies",
       "published_iso": "2026-08-06T20:29:08Z",
       "og_image": "https://i.ytimg.com/vi/EbDzfeBwszM/maxresdefault.jpg",
-      "excerpt": "A hands-on test of xAI's new AI video tool from a filmmaking perspective, judging shot control, consistency and whether the output survives an edit. Curious Refuge compares it against the current model leaders."
+      "excerpt": "A hands-on test of Elon Musk's new AI video tool from a filmmaking perspective, with notes on where it breaks. Timely given the claim that Grok Imagine will produce a feature-length 'Odyssey' this year."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BMqBiAG0p-8",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "published_iso": "2026-08-06T21:44:44Z",
+      "og_image": "https://i.ytimg.com/vi/BMqBiAG0p-8/maxresdefault.jpg",
+      "excerpt": "A shot-by-shot breakdown of an AI short the channel rates as a genuine artistic success, tracing the directing choices rather than the model list. Craft analysis of what separates a good AI film from a demo reel."
     }
   ]
 }

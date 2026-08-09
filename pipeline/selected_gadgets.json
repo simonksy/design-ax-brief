@@ -1,148 +1,97 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "gadgets",
-  "selected_count": 5,
+  "count": 5,
+  "selection_mode": "curator_auto",
+  "note": "User deferred (\"알아서\"). Dedup backstop re-applied against sections.gadgets in news_data.json: today (2026-08-09) + days 08-04, 08-05, 08-06, 08-07, 08-08 = 26 published gadgets cards. No pick matches a published URL or story. Dropped PCWorld 'FCC just changed the rules for robot vacuums' as a content-level duplicate of the same 2026-07-28 FCC import-restriction ruling already covered inside the published card gadgets-byd-xiao-di-humanoid (08-05); backfilled with the next-best surviving candidate (TechCrunch Wacom MovinkPad 11). Also skipped the Pixel 11 leak cluster (9to5Google x2 + Android Authority x2) as a within-pool content-hub pile-up and to respect the per-outlet cap. Diversity guard satisfied: 5 distinct outlets (MacRumors, Notebookcheck, Android Authority, TechCrunch, Gizmodo), 5 distinct device categories (wearables, AI-PC silicon/NPU, smart home assistant, creator hardware, companion robot). All picks share the single `gadgets` category, so each gets a distinct accent from sources.json palette.",
   "picks": [
     {
       "rank": 1,
-      "title": "'MemoMind One' Kickstarter Hits $1M, Making a Strong Case for Camera-less Display Glasses",
-      "url": "https://roadtovr.com/memomind-display-smart-glasses-1m-kickstarter/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-07T13:07:13Z",
-      "category": "gadgets",
+      "title": "Apple Watch Rethink Could See Debut of Round Model, Screenless Fitness Tracker, and More",
+      "url": "https://www.macrumors.com/2026/08/09/apple-watch-rethink/",
+      "source": "MacRumors",
+      "published_iso": "2026-08-09T15:37:14Z",
+      "og_image": "https://images.macrumors.com/t/RdbYQo8geJeeGtMJCti_NSWhfcg=/1600x/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg",
+      "excerpt": "Apple is re-evaluating the Apple Watch lineup and considering a host of radical new designs, according to Bloomberg's Mark Gurman. In today's edition of his \"Power On\" newsletter, Gurman compared plans for the Apple Watch's evolution to the \"revolutionary design change\" that the foldable iPhone represents. It will be \"something that transforms the product for a new era\".",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/memomind-one.jpg",
-      "excerpt": "XGIMI's MemoMind One crossed $1M on Kickstarter with 20 days still to run, on a deliberately camera-less display-glasses design. The result reads as a market signal that buyers want the heads-up display and AI assist without the social cost of a face-mounted camera.",
-      "rationale": "Hard money proving the camera is the liability, not the feature — the clearest market verdict yet on how to spec AI eyewear."
+      "rationale": "Freshest item in the pool and the biggest wearable form-factor signal of the week — a round watch and a screenless tracker means the whole watch-face/complication design language is up for renegotiation."
     },
     {
       "rank": 2,
-      "title": "Could Meta Ray-Bans be banned in Europe? EU regulators dial up the pressure on smart glasses",
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/a-smart-glasses-ban-could-be-on-the-menu-in-the-eu-and-there-are-growing-restrictions-on-tech-all-over-the-world",
-      "source": "TechRadar",
-      "published_iso": "2026-08-06T02:00:00Z",
-      "category": "gadgets",
+      "title": "No Ryzen AI: AMD launches Ryzen 5 439 and Ryzen 7 449 with binned NPUs",
+      "url": "https://www.notebookcheck.net/No-Ryzen-AI-AMD-launches-Ryzen-5-439-and-Ryzen-7-449-with-binned-NPUs.1364296.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-08-09T15:40:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ryzen_400.jpg",
+      "excerpt": "AMD has launched two new laptop chips, the Ryzen 5 439 and Ryzen 7 449, that quietly drop the NPU and the Ryzen AI branding found on their closest siblings.",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8GYMquuUQihF2WAEm3Ak5J-1920-80.jpg",
-      "excerpt": "EU regulators are turning up pressure on camera-equipped smart glasses while China issues a manufacturer code of conduct and South Korea bars them from exam halls. Recording-indicator and consent design is becoming a hardware requirement, not a nicety.",
-      "rationale": "Turns consent and recording-indicator design from a nicety into a shipping requirement across three major markets at once."
+      "rationale": "Directly actionable for anyone speccing a design workstation: same-looking Ryzen SKUs now ship with the NPU silently binned off, so local AI features quietly stop working on the cheaper machine."
     },
     {
       "rank": 3,
-      "title": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year",
-      "url": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
-      "source": "MacRumors",
-      "published_iso": "2026-08-07T19:06:12Z",
-      "category": "gadgets",
+      "title": "Google Home kicks off August with big app updates and a smarter Gemini for Home",
+      "url": "https://www.androidauthority.com/google-home-update-august-5-2026-3695072/",
+      "source": "Android Authority",
+      "published_iso": "2026-08-06T03:20:24Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg",
+      "excerpt": "Google Home's first August update is packed with useful new features, including AI Storytelling, improved alarms, and lots more.",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "og_image": "https://images.macrumors.com/t/F2kYDFy67nzPowC2IcDGjq538es=/1600x/article-new/2026/08/AirPods-Ultra-Mock.jpg",
-      "excerpt": "Gurman reports three 'Ultra' products landing between late 2026 and early 2027, including AirPods Ultra with tiny infrared camera 'eyes' that feed Siri's Visual Intelligence. Camera-in-earbud would put a seeing sensor on the head without the glasses form factor.",
-      "rationale": "Moves the seeing sensor from the face to the ear — a form-factor dodge around the exact camera backlash the other picks describe."
+      "rationale": "A shipped (not rumored) assistant update — AI Storytelling and reworked alarms show how Gemini for Home is being folded into everyday smart-home UI patterns rather than bolted on as a chatbot."
     },
     {
       "rank": 4,
-      "title": "This Startup Will Pay You $50 to Let AI Read Your Mind",
-      "url": "https://gizmodo.com/this-startup-will-pay-you-50-to-let-ai-read-your-mind-2000795661",
-      "source": "Gizmodo",
-      "published_iso": "2026-08-06T20:40:47Z",
-      "category": "gadgets",
+      "title": "Wacom's MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "source": "TechCrunch",
+      "published_iso": "2026-08-07T21:20:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/Wacom-Movinkpad.webp?w=564",
+      "excerpt": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/Brainchip-1200x675.jpg",
-      "excerpt": "San Francisco startup Conduit is paying people $50-$55 to wear an electrode-studded headband and talk to an AI for two hours, collecting training data for a noninvasive thought-to-machine input channel. It is an early look at the input layer after voice and gesture.",
-      "rationale": "A first look at the input modality after voice and gesture, and at how the training data for it is actually being bought."
+      "rationale": "The one pick that changes a designer's desk tomorrow — a standalone midpriced Wacom slate that removes the tethered-PC requirement from drawing hardware."
     },
     {
       "rank": 5,
-      "title": "I turned my phone into an AI agent powered by my local LLM, and it installed software on its own",
-      "url": "https://www.xda-developers.com/turned-phone-ai-agent-powered-local-llm-installed-software/",
-      "source": "XDA Developers",
-      "published_iso": "2026-08-07T22:00:10Z",
-      "category": "gadgets",
+      "title": "SwitchBot Kata Friends AI Pet Review: Useless if You Don't Pay Up",
+      "url": "https://gizmodo.com/switchbot-kata-friends-ai-pet-review-useless-if-you-dont-pay-up-2000789267",
+      "source": "Gizmodo",
+      "published_iso": "2026-08-02T12:30:54Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-main-1200x675.jpg",
+      "excerpt": "A hands-on with SwitchBot's Kata Friends desktop AI pet: cute companion hardware whose personality and memory sit behind a subscription, exposing how AI gadget makers are pricing emotion as a service.",
       "tool": "Gadgets",
+      "category": "gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/rikkahub-agent-1.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "A hands-on turning an Android phone into an autonomous agent running entirely on a local LLM — to the point it installed software on its own. Shows what on-device inference plus tool-calling actually feels like as an interface, and where it breaks.",
-      "rationale": "Reproducible hands-on showing what an on-device agent interface actually feels like — including the moments it oversteps."
+      "rationale": "Companion-robot hardware where the personality and memory live behind a paywall — a sharp case study in what happens when the emotional layer of a product becomes a subscription tier."
     }
   ],
-  "dedup": {
-    "checked_against": "news_data.json sections.gadgets (today 2026-08-08 + days 2026-08-03..2026-08-07, 25 published cards)",
-    "dropped_as_duplicate": [
-      {
-        "url": "https://gizmodo.com/you-dont-want-smart-glasses-that-record-everything-you-say-trust-me-2000793058",
-        "reason": "same product as pick 1 (XGIMI/Xgimi MemoMind One) — within-pool duplicate, kept the stronger news hook"
-      },
-      {
-        "url": "https://www.digitaltrends.com/wearables/pubs-and-restaurants-are-treating-metas-smart-glasses-like-hidden-cameras-and-im-completely-on-board/",
-        "reason": "same camera-glasses social/regulatory backlash story as pick 2, weaker and narrower framing"
-      },
-      {
-        "url": "https://roadtovr.com/unseen-reality-urxr-one-xr-glasses-funded/",
-        "reason": "same story shape as pick 1 (glasses-form XR Kickstarter milestone) from the same outlet; kept the single strongest"
-      }
-    ],
-    "dropped_as_out_of_scope": [
-      {
-        "url": "https://petapixel.com/reel/2026/08/07/the-insta360-go-ultra-now-has-an-ai-voice-assistant/",
-        "reason": "petapixel.com is not in sources.json gadgets allowed_domains"
-      },
-      {
-        "url": "https://petapixel.com/2026/08/07/dji-teases-osmo-360-ii-with-footage-from-the-new-camera/",
-        "reason": "off-list domain, and teaser-only with no shipped detail"
-      },
-      {
-        "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-        "reason": "techcrunch.com is not in sources.json gadgets allowed_domains"
-      },
-      {
-        "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-        "reason": "off-list domain for the gadgets category"
-      },
-      {
-        "url": "https://www.androidcentral.com/wearables/samsung-teases-galaxy-glasses-android-xr-smart-glasses-pricing",
-        "reason": "androidcentral.com is not in sources.json gadgets allowed_domains; also a pricing tease with no figure"
-      }
-    ],
-    "near_duplicates_deprioritized": [
-      {
-        "url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
-        "reason": "strong runner-up, but pre-launch 'finishing touches' framing overlaps the assistant-UI ground already covered by the published 2026-08-08 Gemini Wear OS card"
-      },
-      {
-        "url": "https://www.androidauthority.com/google-home-update-august-5-2026-3695072/",
-        "reason": "incremental monthly release-notes post, no design hook"
-      },
-      {
-        "url": "https://www.digitaltrends.com/wearables/caviar-just-gave-metas-smart-glasses-the-gold-treatment-but-forgot-to-make-it-pretty/",
-        "reason": "third camera-glasses item; luxury reskin with low actionability"
-      }
-    ]
-  },
-  "diversity_check": {
-    "outlets": {
-      "Road to VR": 1,
-      "TechRadar": 1,
-      "MacRumors": 1,
-      "Gizmodo": 1,
-      "XDA Developers": 1
+  "dropped": [
+    {
+      "url": "https://www.pcworld.com/article/3203877/the-fcc-just-changed-the-rules-for-robot-vacuums-heres-what-it-means-for-yours.html",
+      "reason": "content dup — same 2026-07-28 FCC import-restriction ruling already published inside gadgets-byd-xiao-di-humanoid (2026-08-05)"
     },
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "topic_spread": [
-      "camera-less XR eyewear",
-      "smart-glasses regulation and consent design",
-      "sensing moves into earbuds",
-      "neural input layer",
-      "on-device agent interfaces"
-    ]
-  }
+    {
+      "url": "https://9to5google.com/2026/08/08/pixel-11-all-of-the-last-minute-leaks-video/",
+      "reason": "within-pool dup of the Pixel 11 Pro XL hands-on leak (same event, same outlet, same day)"
+    },
+    {
+      "url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
+      "reason": "Pixel 11 pre-launch leak cluster — held back; the launch event itself (Aug 12) is the story worth publishing"
+    },
+    {
+      "url": "https://9to5google.com/2026/08/08/google-pixel-11-pro-xl-hands-on-leak/",
+      "reason": "Pixel 11 pre-launch leak cluster — held back for the same reason"
+    }
+  ]
 }

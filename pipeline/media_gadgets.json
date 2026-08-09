@@ -1,32 +1,31 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-memomind-one",
-      "type": "video",
-      "src": "pipeline/media/gadgets-memomind-one.mp4",
-      "poster": "pipeline/media/gadgets-memomind-one.jpg"
+      "id": "gadgets-apple-watch-rethink",
+      "type": "image",
+      "src": "pipeline/media/gadgets-apple-watch-rethink.jpg"
     },
     {
-      "id": "gadgets-eu-glasses-rules",
+      "id": "gadgets-ryzen-npu-binned",
       "type": "image",
-      "src": "pipeline/media/gadgets-eu-glasses-rules.jpg"
+      "src": "pipeline/media/gadgets-ryzen-npu-binned.jpg"
     },
     {
-      "id": "gadgets-apple-ultra-trio",
+      "id": "gadgets-gemini-home-storytime",
       "type": "image",
-      "src": "pipeline/media/gadgets-apple-ultra-trio.jpg"
+      "src": "pipeline/media/gadgets-gemini-home-storytime.jpg"
     },
     {
-      "id": "gadgets-conduit-brain-data",
+      "id": "gadgets-wacom-movinkpad-11",
       "type": "image",
-      "src": "pipeline/media/gadgets-conduit-brain-data.jpg"
+      "src": "pipeline/media/gadgets-wacom-movinkpad-11.jpg"
     },
     {
-      "id": "gadgets-local-llm-phone-agent",
+      "id": "gadgets-kata-friends-paywall",
       "type": "image",
-      "src": "pipeline/media/gadgets-local-llm-phone-agent.jpg"
+      "src": "pipeline/media/gadgets-kata-friends-paywall.jpg"
     }
   ]
 }

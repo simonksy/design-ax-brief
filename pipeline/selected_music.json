@@ -1,97 +1,66 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "music",
-  "pool_size": 8,
-  "unique_after_dedup": 7,
   "picks": [
     {
-      "rank": 1,
+      "url": "https://bedroomproducersblog.com/2026/08/09/reflector-sample-discovery/",
+      "source": "Bedroom Producers Blog",
+      "title": "Reflector is a FREE open-source sample discovery workstation for macOS",
       "tool": "Music",
-      "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "url": "https://www.synthtopia.com/content/2026/08/07/new-plugin-i-am-choir-transforms-your-voice-into-a-full-choir/",
-      "source": "Synthtopia",
-      "published_iso": "2026-08-07T14:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/choir-728x409.jpg",
-      "excerpt": "Synthtopia's take on I Am Choir: an AI vocal plug-in that generates ensemble choir performances from one recorded vocal, using voice models trained on consented, compensated session singers rather than scraped data.",
-      "rationale": "새 플러그인 릴리스라 내일 바로 쓸 수 있고, 동의·보상 기반 학습 데이터라는 점에서 지금 음악 AI 논쟁에 대한 실물 답안이다."
+      "rationale": "Free open-source ML tool that indexes your own library by harmonic relationship — changes how a producer digs for samples tomorrow, with zero generative baggage.",
+      "published_iso": "2026-08-09T15:46:39Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/reflector-728x364.jpg",
+      "excerpt": "Austin Rockman's free, open-source Reflector analyses your own sample library locally with machine learning and lets you browse it by harmonic relationship rather than folder names. It is generative-free AI for producers: the model finds what you already own instead of inventing new audio."
     },
     {
-      "rank": 2,
+      "url": "https://www.soundonsound.com/news/dreamtonics-tease-upcoming-release",
+      "source": "Sound On Sound",
+      "title": "Dreamtonics tease upcoming release: 'human nuance is not a switch'",
       "tool": "Music",
-      "category": "music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://bedroomproducersblog.com/2026/08/04/mastering-the-mix-mixvault/",
-      "source": "Bedroom Producers Blog",
-      "published_iso": "2026-08-04T10:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/mixvault-728x364.jpg",
-      "excerpt": "Mastering The Mix launches MIXVAULT, an immersive EQ plug-in with a 3D room-style interface that analyses your audio and generates Smart Presets per source (mix, vocals, drums, bass), stepping through tonal directions from darker/fuller to brighter/more forward with level-matched monitoring.",
-      "rationale": "EQ를 밴드 단위로 깎던 작업을 분석 기반 출발점 제시로 바꾸는 실무형 신제품. MusicRadar의 동일 제품 기사는 중복으로 제외했다."
+      "rationale": "The Synthesizer V / Vocoflex studio signals its next move is expressive control of AI vocals, not one-click replacement — the most-watched vocal-synthesis roadmap in the DAW world.",
+      "published_iso": "2026-08-09T09:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/d/dreamtonics_coming_soon-QB9i4snX9CWYope6FzEdd8liNh1U46iE.jpg",
+      "excerpt": "Dreamtonics — the studio behind Synthesizer V Studio and the real-time voice-morphing plug-in Vocoflex — has teased a new product with a single line: 'human nuance is not a switch.' The tease points at the next step in AI vocal synthesis being about expressive control rather than one-click replacement."
     },
     {
-      "rank": 3,
+      "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-trying-to-guess-the-ai-recipe-after-dinner-was-served/",
+      "source": "Music Business Worldwide",
+      "title": "The Music Industry Is Trying to Guess the AI Recipe After Dinner Was Served",
       "tool": "Music",
-      "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://www.hypebot.com/i-waited-30-years-to-hear-my-songs-that-was-just-the-start/",
-      "source": "Hypebot",
-      "published_iso": "2026-08-06T13:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-6-JAK-oped.jpg",
-      "excerpt": "A songwriter describes using Suno — with ChatGPT, Gemini and Grok to refine prompts — to finally hear lyrics he'd been writing for three decades, which led to real collaborations and close to 200,000 streams. A concrete look at prompt-driven songwriting as a working method.",
-      "rationale": "프롬프트 다듬기부터 협업·스트리밍 성과까지 이어지는 1인칭 작업 기록이라, 생성 도구를 어디에 끼워 넣을지 구체적으로 보여준다."
-    },
-    {
-      "rank": 4,
-      "tool": "Music",
-      "category": "music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "url": "https://www.midiaresearch.com/blog/why-have-we-yet-to-hear-an-ai-generated-hit",
-      "source": "MIDiA Research",
-      "published_iso": "2026-08-06T09:00:00Z",
+      "rationale": "Argues detection is the wrong fight and provenance must be captured in the session — with TIDAL already gating royalties on AI labels, session metadata becomes money.",
+      "published_iso": "2026-08-06T18:06:28Z",
       "og_image": "",
-      "excerpt": "MIDiA's Tatiana Cirisano asks why, despite AI tracks flooding streaming uploads, none has produced an actual hit — and what that says about taste, fandom and the parts of music-making generative models still can't touch.",
-      "rationale": "업로드 폭증과 히트 부재의 간극을 데이터로 짚어, 생성 모델이 아직 대체하지 못하는 영역을 분명히 그어준다."
-    },
-    {
-      "rank": 5,
-      "tool": "Music",
-      "category": "music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "url": "https://www.musicradar.com/artists/singers-songwriters/the-artists-that-are-against-it-youve-got-to-be-careful-because-its-going-to-come-and-swallow-you-like-the-boogie-monster-at-night-empire-of-the-suns-luke-steele-says-of-course-he-uses-ai",
-      "source": "MusicRadar",
-      "published_iso": "2026-08-04T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/SQZsrwwMbxrnenxP6bF7PQ.jpg",
-      "excerpt": "Empire Of The Sun's Luke Steele says 'of course' he uses AI, calling it 'like a really smart guitar pedal' and warning that artists who refuse it risk being swallowed by it — a working-artist framing of AI as just another studio effect in the chain.",
-      "rationale": "AI를 이펙트 체인의 한 칸으로 놓는 현역 아티스트의 태도. 도구 소식과 분석 사이에서 실제 작업자의 관점을 채워준다."
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://www.musicradar.com/music-tech/plugins/introducing-mixvault-the-fast-and-smart-way-to-approach-eqing",
-      "reason": "within-pool duplicate of the MIXVAULT release (kept the more detailed Bedroom Producers Blog piece)"
+      "excerpt": "An op-ed arguing the industry is obsessing over AI detection — guessing the recipe after dinner is served — when what creators need is provenance captured while the work is being made. With TIDAL already using AI labels to gate royalties, 'metadata becomes money' and the credit trail has to start in the session, not the audit."
     },
     {
       "url": "https://djmag.com/news/daft-punks-thomas-bangalter-im-not-really-interested-creative-usage-of-ai",
-      "reason": "not a dup, but a second artist-opinion card; cut for category spread (kept Luke Steele as the more actionable framing)"
+      "source": "DJ Mag",
+      "title": "Daft Punk's Thomas Bangalter: 'I'm not really interested in the creative usage of AI'",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "A precise craft critique of prompt-driven tools — creation forced through language — from electronic music's most machine-literate artist; the counterweight to the text-to-music narrative.",
+      "published_iso": "2026-08-05T11:07:00Z",
+      "og_image": "",
+      "excerpt": "Thomas Bangalter says he is 'not really interested in the creative usage of artificial intelligence', arguing that prompt-driven tools force creation through language while his own process happens at a level that 'does not express itself through words'. A pointed craft critique of text-to-music from one of electronic music's most machine-literate artists."
     },
     {
-      "url": "https://www.hypebot.com/human-first-is-a-promise-nobody-can-check-yet/",
-      "reason": "not a dup, but oldest item in the pool (2026-07-28) and a second Hypebot card; cut for freshness + outlet spread"
+      "url": "https://completemusicupdate.com/two-class-action-lawsuits-filed-over-sunos-big-data-breach/",
+      "source": "Complete Music Update",
+      "title": "Two class action lawsuits filed over Suno's big data breach",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "55.3 million exposed accounts turns the AI tool sitting inside your workflow into a data-risk question — projects and personal data, not just copyright.",
+      "published_iso": "2026-07-29T16:03:36Z",
+      "og_image": "",
+      "excerpt": "Two class actions have been filed over the breach that exposed data tied to 55.3 million Suno accounts, alleging 'negligent and/or reckless' storage. A reminder that the AI tools now sitting inside music workflows also hold creators' projects and personal data."
     }
-  ],
-  "dedup_check": {
-    "against_days": 5,
-    "section_history_reviewed": [
-      "2026-08-08 (today): deadmau5 AUTO/PILOT, Google Lyria 3.5, Spotify AI slop purge, stem separation guide, Vochlea DubBox",
-      "2026-08-07: Suno download/watermark policy, Musixmatch Sentinel, Symphonic MusicShield, Ye AI vocal lawsuit, Sylvan Esso",
-      "2026-08-06: KOMCA AI disclosure, AI chart rules, AI-poisoning genre, sound-free concert, Fenix Flexin 'Rubberz'",
-      "2026-08-05/04: EU AI Act enforcement, and 2026-08-03: Charli XCX Concatenator, GEMA v Suno, Sony v Udio, AFM union suit"
-    ],
-    "result": "no URL or content match between the 5 picks and any music card published in the last 5 days"
-  }
+  ]
 }

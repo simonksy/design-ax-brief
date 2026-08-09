@@ -1,98 +1,148 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "music",
   "window_hours": 336,
-  "now_iso": "2026-08-08T22:00:26Z",
+  "now_iso": "2026-08-09T22:00:29Z",
   "items": [
     {
-      "url": "https://www.soundonsound.com/news/am-audio-launch-am-choir",
+      "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
+      "source": "CDM Create Digital Music",
+      "category": "music",
+      "published_iso": "2026-08-05T16:25:00Z",
+      "og_image": "",
+      "excerpt": "A small scene of producers is deliberately making 'anti-bangers' — deformed, unquantised, structurally hostile tracks — as a form of data poisoning against music models that scrape streaming catalogues. CDM frames it as an emerging genre where making music that AI can't learn from becomes the creative constraint.",
+      "keyword": "AI music / data poisoning",
+      "title": "Music to confuse AI might be the next new genre"
+    },
+    {
+      "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
+      "source": "CDM Create Digital Music",
+      "category": "music",
+      "published_iso": "2026-08-03T13:59:45Z",
+      "og_image": "",
+      "excerpt": "Federico Pepe built Push Hack, an unauthorised SSH toolkit that opens Ableton Push 3 standalone's display, file system, MIDI and LEDs to custom code — and he built it largely with AI-assisted coding agents. It is a working example of instrument-makers using LLM agents to reverse-engineer and extend closed hardware.",
+      "keyword": "AI in Ableton / AI-assisted instrument hacking",
+      "title": "Push Hack, very unauthorized access to Push 3's display, files, MIDI, and more"
+    },
+    {
+      "url": "https://www.soundonsound.com/news/dreamtonics-tease-upcoming-release",
       "source": "Sound On Sound",
       "category": "music",
-      "published_iso": "2026-08-04T09:00:00Z",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/am_i_audio_i_am_choir-7A67gqQJWf3467Zt70zwv.fCbrj1BoxY.jpg",
-      "excerpt": "Am I Audio debuts I Am Choir, an AI 'timbre transfer' plug-in that turns a single monophonic vocal take into a full choral arrangement while preserving lyrics, melody and timing, running entirely on the user's machine. Gospel Choir, Children's Choir and Gang Vocals models were built with singers who were paid and share royalties from sales.",
-      "keyword": "neural synthesizer / AI vocal"
-    },
-    {
-      "url": "https://www.synthtopia.com/content/2026/08/07/new-plugin-i-am-choir-transforms-your-voice-into-a-full-choir/",
-      "source": "Synthtopia",
-      "category": "music",
-      "published_iso": "2026-08-07T14:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/choir-728x409.jpg",
-      "excerpt": "Synthtopia's take on I Am Choir: an AI vocal plug-in that generates ensemble choir performances from one recorded vocal, using voice models trained on consented, compensated session singers rather than scraped data.",
-      "keyword": "AI music plugin"
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/08/04/mastering-the-mix-mixvault/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-08-04T10:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/mixvault-728x364.jpg",
-      "excerpt": "Mastering The Mix launches MIXVAULT, an immersive EQ plug-in with a 3D room-style interface that analyses your audio and generates Smart Presets per source (mix, vocals, drums, bass), stepping through tonal directions from darker/fuller to brighter/more forward with level-matched monitoring.",
-      "keyword": "AI mixing"
-    },
-    {
-      "url": "https://www.musicradar.com/music-tech/plugins/introducing-mixvault-the-fast-and-smart-way-to-approach-eqing",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-08-04T15:00:00Z",
-      "og_image": "",
-      "excerpt": "MusicRadar's write-up of MIXVAULT frames it as a way to skip 'pesky hours of laborious EQing' — the plug-in's analysis engine proposes smart tonal starting points instead of manual band-by-band carving.",
-      "keyword": "AI mixing"
-    },
-    {
-      "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
-      "source": "CDM (Create Digital Music)",
-      "category": "music",
-      "published_iso": "2026-08-05T09:00:00Z",
-      "og_image": "",
-      "excerpt": "Artists are deliberately recording strange or 'bad' music in the hope that AI crawlers train on it and learn the wrong things — a blunt, human-made form of data poisoning distinct from adversarial noise tooling. CDM asks whether anti-AI music is becoming its own creative genre.",
-      "keyword": "generative music / AI training"
-    },
-    {
-      "url": "https://www.musicradar.com/artists/singers-songwriters/the-artists-that-are-against-it-youve-got-to-be-careful-because-its-going-to-come-and-swallow-you-like-the-boogie-monster-at-night-empire-of-the-suns-luke-steele-says-of-course-he-uses-ai",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-08-04T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/SQZsrwwMbxrnenxP6bF7PQ.jpg",
-      "excerpt": "Empire Of The Sun's Luke Steele says 'of course' he uses AI, calling it 'like a really smart guitar pedal' and warning that artists who refuse it risk being swallowed by it — a working-artist framing of AI as just another studio effect in the chain.",
-      "keyword": "AI music / artist workflow"
+      "published_iso": "2026-08-09T09:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/d/dreamtonics_coming_soon-QB9i4snX9CWYope6FzEdd8liNh1U46iE.jpg",
+      "excerpt": "Dreamtonics — the studio behind Synthesizer V Studio and the real-time voice-morphing plug-in Vocoflex — has teased a new product with a single line: 'human nuance is not a switch.' The tease points at the next step in AI vocal synthesis being about expressive control rather than one-click replacement.",
+      "keyword": "AI vocal synthesis / neural instrument",
+      "title": "Dreamtonics tease upcoming release: 'human nuance is not a switch'"
     },
     {
       "url": "https://djmag.com/news/daft-punks-thomas-bangalter-im-not-really-interested-creative-usage-of-ai",
       "source": "DJ Mag",
       "category": "music",
-      "published_iso": "2026-08-05T12:07:00Z",
+      "published_iso": "2026-08-05T11:07:00Z",
       "og_image": "",
-      "excerpt": "Daft Punk's Thomas Bangalter says he's 'not really interested in the creative usage of AI', arguing the most interesting part of the creative process doesn't happen on an intellectual level at all — a direct counterpoint to the pro-AI producer camp.",
-      "keyword": "AI music / creative practice"
+      "excerpt": "Thomas Bangalter says he is 'not really interested in the creative usage of artificial intelligence', arguing that prompt-driven tools force creation through language while his own process happens at a level that 'does not express itself through words'. A pointed craft critique of text-to-music from one of electronic music's most machine-literate artists.",
+      "keyword": "text-to-music / artist practice",
+      "title": "Daft Punk's Thomas Bangalter: 'I'm not really interested in the creative usage of AI'"
     },
     {
-      "url": "https://www.hypebot.com/i-waited-30-years-to-hear-my-songs-that-was-just-the-start/",
-      "source": "Hypebot",
+      "url": "https://www.musicbusinessworldwide.com/symphonic-partners-with-artyshield-to-give-artists-tools-that-protect-their-music-and-voices-from-unauthorized-ai-use/",
+      "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-08-06T13:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-6-JAK-oped.jpg",
-      "excerpt": "A songwriter describes using Suno — with ChatGPT, Gemini and Grok to refine prompts — to finally hear lyrics he'd been writing for three decades, which led to real collaborations and close to 200,000 streams. A concrete look at prompt-driven songwriting as a working method.",
-      "keyword": "AI songwriting / Suno"
+      "published_iso": "2026-08-06T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Distributor Symphonic is bundling ArtyShield's MusicShield into its artist toolkit: the tech subtly alters acoustic features of a recording so AI models can't cleanly learn from it, alongside VeriTune AI-detection and VoiceShield anti-voice-cloning. Adversarial protection is moving from research demo to a checkbox in the release workflow.",
+      "keyword": "AI vocal cloning / artist protection tooling",
+      "title": "Symphonic partners with ArtyShield to give artists tools that protect their music and voices from unauthorized AI use"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-trying-to-guess-the-ai-recipe-after-dinner-was-served/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-08-06T18:06:28Z",
+      "og_image": "",
+      "excerpt": "An op-ed arguing the industry is obsessing over AI detection — guessing the recipe after dinner is served — when what creators need is provenance captured while the work is being made. With TIDAL already using AI labels to gate royalties, 'metadata becomes money' and the credit trail has to start in the session, not the audit.",
+      "keyword": "music AI licensing / provenance metadata",
+      "title": "The Music Industry Is Trying to Guess the AI Recipe After Dinner Was Served"
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/08/09/reflector-sample-discovery/",
+      "source": "Bedroom Producers Blog",
+      "category": "music",
+      "published_iso": "2026-08-09T15:46:39Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/reflector-728x364.jpg",
+      "excerpt": "Austin Rockman's free, open-source Reflector analyses your own sample library locally with machine learning and lets you browse it by harmonic relationship rather than folder names. It is generative-free AI for producers: the model finds what you already own instead of inventing new audio.",
+      "keyword": "AI sample generation / ML sample discovery",
+      "title": "Reflector is a FREE open-source sample discovery workstation for macOS"
+    },
+    {
+      "url": "https://musictech.com/news/industry/suno-ai-responsible-human/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-08-06T14:45:11Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/02/suno-phone-logo@2000x1500.jpg",
+      "excerpt": "Suno's CEO insists the company is building 'responsibly' and won't leave musicians behind, as it commits to watermarking generated audio and capping downloads to curb mass distribution. The framing matters for anyone building a workflow on Suno: the product is being reshaped by label pressure in real time.",
+      "keyword": "Suno / platform policy",
+      "title": "Suno CEO insists Suno is 'responsible' and isn't going to leave people behind"
+    },
+    {
+      "url": "https://www.engadget.com/2231870/suno-adding-audio-watermarks-ai-generated-songs-identifiable/",
+      "source": "Engadget",
+      "category": "music",
+      "published_iso": "2026-08-06T17:51:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/suno-is-adding-audio-watermarks-so-ai-generated-songs-are-more-easily-identifiable/intro-1786038411.jpg",
+      "excerpt": "Suno will embed inaudible audio watermarks in generated tracks and impose download limits so AI songs can be identified downstream by platforms and rights holders. For creators shipping Suno-assisted material, provenance is now baked into the file itself.",
+      "keyword": "Suno / watermarking",
+      "title": "Suno is adding audio watermarks so AI-generated songs are more easily identifiable"
+    },
+    {
+      "url": "https://musically.com/2026/08/07/musixmatchs-first-customer-for-its-fingerprinting-and-detection-tech-is-suno/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-08-07T12:30:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/Musixmatch-logo.png?fit=780%2C585&ssl=1",
+      "excerpt": "Musixmatch's Sentinel — real-time fingerprinting that flags copyrighted compositions and recordings at high volume — has signed its first customer: Suno. Generation platforms are starting to run rights-detection at the point of creation rather than after upload.",
+      "keyword": "music AI licensing / detection at generation time",
+      "title": "Musixmatch's first customer for its fingerprinting and detection tech is Suno"
+    },
+    {
+      "url": "https://musically.com/2026/08/07/suno-publishes-set-of-principles-showing-support-for-artistry-and-creativity/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-08-07T12:30:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1",
+      "excerpt": "Suno published a formal set of principles around 'artistry and creativity', pairing them with download restrictions and audio fingerprinting aimed at streaming-farm abuse. Music Ally reads the document as a pre-settlement posture as much as a creative manifesto.",
+      "keyword": "Suno / platform principles",
+      "title": "Suno publishes set of principles showing 'support for artistry and creativity'"
     },
     {
       "url": "https://www.hypebot.com/human-first-is-a-promise-nobody-can-check-yet/",
       "source": "Hypebot",
       "category": "music",
-      "published_iso": "2026-07-28T13:00:00Z",
+      "published_iso": "2026-07-28T12:00:00Z",
       "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/pexels-pavel-danilyuk-8294663.jpg",
-      "excerpt": "The 'Human-First' badge spreading among independent artists has no verification behind it. The piece argues distributors should require granular AI-use disclosure at upload — which stems, which vocals, which tools — the way open source licences are defined and policed.",
-      "keyword": "music AI licensing / disclosure"
+      "excerpt": "'Human-made' badges are spreading across stores and streaming services, but the piece argues nobody can actually verify them: there is no shared definition of how much AI is too much, and no distributor-level disclosure to check against. It proposes borrowing open-source certification models instead of audits.",
+      "keyword": "AI labelling / human-made certification",
+      "title": "'Human-First' Is a Promise Nobody Can Check Yet"
     },
     {
-      "url": "https://www.midiaresearch.com/blog/why-have-we-yet-to-hear-an-ai-generated-hit",
-      "source": "MIDiA Research",
+      "url": "https://completemusicupdate.com/two-class-action-lawsuits-filed-over-sunos-big-data-breach/",
+      "source": "Complete Music Update",
       "category": "music",
-      "published_iso": "2026-08-06T09:00:00Z",
+      "published_iso": "2026-07-29T16:03:36Z",
       "og_image": "",
-      "excerpt": "MIDiA's Tatiana Cirisano asks why, despite AI tracks flooding streaming uploads, none has produced an actual hit — and what that says about taste, fandom and the parts of music-making generative models still can't touch.",
-      "keyword": "AI music generation / analysis"
+      "excerpt": "Two class actions have been filed over the breach that exposed data tied to 55.3 million Suno accounts, alleging 'negligent and/or reckless' storage. A reminder that the AI tools now sitting inside music workflows also hold creators' projects and personal data.",
+      "keyword": "Suno / creator data risk",
+      "title": "Two class action lawsuits filed over Suno's big data breach"
+    },
+    {
+      "url": "https://completemusicupdate.com/chatgpt-training-was-legal-and-covered-by-private-research-copyright-exception-says-indian-judge/",
+      "source": "Complete Music Update",
+      "category": "music",
+      "published_iso": "2026-07-27T16:33:08Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w100/2026/07/ChatGPT-training.png",
+      "excerpt": "An Indian court found OpenAI's training on ANI's content fell under the 'private research' copyright exception, cutting the opposite way to the German GEMA v Suno ruling days earlier. For music rights holders it signals that AI training legality is fracturing by jurisdiction rather than converging.",
+      "keyword": "music AI licensing / training-data law",
+      "title": "ChatGPT training was legal and covered by 'private research' copyright exception says Indian judge"
     }
   ]
 }

@@ -1,17 +1,201 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "section": "design",
   "card_count": 5,
   "cards": [
     {
-      "id": "design-agent-ui-mcp",
+      "id": "design-gpt-live-voice",
       "eyebrow": "AI NEWS",
-      "headline": "에이전트가 뽑아낸 밋밋한 UI,\nMCP 검사 항목으로 잡는다",
-      "body": "에이전트 UI의 완성도를 취향 대신 MCP가 검사하는 요건으로 못 박았다.",
-      "mini_headline": "에이전트 UI 합격선",
+      "headline": "듣는 동시에 말하는 GPT-Live,\n음성 대화에서 차례가 사라졌다",
+      "body": "듣기와 말하기를 동시에 하는 GPT-Live가 ChatGPT 음성 기본값이 됐다.",
+      "mini_headline": "말하며 듣는 음성 모드",
+      "tool": "AI Workflow",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/intro-1785348648.jpg",
+            "cap": "아이폰에서 실행한 ChatGPT 음성 모드."
+          },
+          {
+            "t": "p",
+            "x": "ChatGPT 같은 AI 비서는 새 모델마다 기능과 정확도, 응답 속도가 나아졌다. 생성형 AI가 완벽하지도 않고 의심 없이 받아들일 정보원도 아니지만, 이미 익숙해진 사람이라면 일일이 타이핑하는 대신 음성 대화로 넘어가는 쪽이 편하다. 2023년의 초기 Voice Mode는 세 시스템을 이어 붙여 돌아갔다. 말을 텍스트로 바꾸고, 언어 모델이 답을 만들고, 음성 합성 모델이 소리 내어 읽는 식이었다."
+          },
+          {
+            "t": "p",
+            "x": "뒤이어 나온 Advanced Voice Mode는 멀티모달 모델 하나로 처리하며 체감을 크게 끌어올렸다. 지금 ChatGPT의 음성 대화는 GPT-Live가 맡는데, 자연스러움이 한 단계 올라섰다. OpenAI는 듣기와 말하기를 동시에 하는 '풀 듀플렉스' 구조라고 설명한다. 이전 음성 모델이 잠깐의 멈춤을 발화 종료로 오해하고 말이 끝나기도 전에 답을 시작하던 문제가 여기서 걸린다."
+          },
+          {
+            "t": "p",
+            "x": "이제는 사람이 말하는 동안 ChatGPT가 '음', '그래' 같은 짧은 맞장구를 흘리기도 한다. 추론이나 조사가 필요한 질문이면 GPT-Live가 뒤에서 GPT-5.5 같은 모델에 일을 넘긴다."
+          },
+          {
+            "t": "p",
+            "x": "GPT-Live는 안드로이드와 iOS의 ChatGPT 앱, 그리고 브라우저 웹에서 쓴다. ChatGPT Pro와 Plus, Go 사용자는 GPT-Live-1 모델을, 무료 요금제는 GPT-Live-1 mini를 쓴다. 기존 턴 방식 Advanced Voice를 밀어내고 GPT-Live가 기본값이 됐다. 입력창 맨 오른쪽 파형 모양 ChatGPT Voice 아이콘을 누르면 시작한다. 처음이라면 마이크 권한을 요청받는다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/starting-a-conversation-with-gpt-live-1785348649.jpg",
+            "cap": "ChatGPT Voice 설정 화면."
+          },
+          {
+            "t": "p",
+            "x": "음성 모드에 들어가면 화면에 반응하는 구슬이 뜬다. 평소처럼 말을 걸면 된다. 오른쪽 위 설정 아이콘에서 모델의 지능 수준을 Instant, Medium, High 셋 중에 고른다. GPT-Live-1 mini에는 이 설정이 없어 유료 요금제가 필요하다. 다른 앱으로 넘어가거나 기기를 잠가도 ChatGPT Voice는 계속 살아 있다."
+          },
+          {
+            "t": "p",
+            "x": "다만 GPT-Live는 아직 화면 공유와 영상 공유를 지원하지 않는다. 설정의 Voice에서 다른 모델을 골라 예전 음성 모델로 되돌리면 된다. 같은 자리에서 목소리와 언어를 바꾸거나, 앱을 켤 때 ChatGPT Voice가 기본으로 뜨도록 지정한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/what-gpt-live-excels-at-1785348650.jpg",
+            "cap": "아이폰 홈 화면의 ChatGPT 앱 아이콘."
+          },
+          {
+            "t": "p",
+            "x": "글로 치는 쪽을 좋아하는 필자는 처음엔 새 음성 모드에 별 관심이 없었다. 길게 몇 번 대화해 보기 전까지는 그랬다. 인상적이었던 건 똑똑함이 아니라, AI와 이야기하고 있다는 사실을 얼마나 빨리 잊게 되는가였다. 말을 자르지 않고, 상대가 끝낼 때까지 어색하게 기다릴 필요도 없다. 질문이 길어지면 다음에 무슨 말을 할지 미리 알아채는 느낌마저 들었다."
+          },
+          {
+            "t": "p",
+            "x": "반응이 빠른 덕에 실시간 통역에도 쓸 만하다. 대화 도중 아래로 내리면 오간 말의 전사가 나온다. 시각적으로 보여 주는 편이 낫다고 판단한 질문에는 말과 함께 인터랙티브 위젯을 만들어 띄운다."
+          },
+          {
+            "t": "p",
+            "x": "지능 수준의 기본값은 Instant다. 빠른 응답을 앞세우면서도 일상적인 질문은 무리 없이 처리하고, 검색이나 깊은 추론은 뒤에서 더 센 모델에 넘기며 대화를 끊지 않는다. 복잡한 주제를 자주 다룰 생각이면 Medium과 High가 생각할 시간을 한두 박자 더 쓰지만, 그 지연이 대화의 흐름을 해치지는 않는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-baseline-audit",
+      "eyebrow": "AI NEWS",
+      "headline": "브라우저가 이미 하는 일을\n라이브러리가 아직 대신한다",
+      "body": "의존성을 Baseline 기준으로 훑으면 gzip 60~90KB가 빠진다.",
+      "mini_headline": "의존성 Baseline 점검",
+      "tool": "Design Tokens",
+      "source": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "의존성은 대개 한 번 넣고 잊어버린다. 제 몫을 하고 테스트도 통과하니 다시 볼 일이 없다. 그사이 웹 플랫폼도 움직였고, package.json에 남은 라이브러리 상당수는 브라우저 안에 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png",
+            "cap": "package.json에서 걷어 낸 npm 의존성이 빨간 줄로 표시된 git diff."
+          },
+          {
+            "t": "p",
+            "x": "중간 규모 자바스크립트 앱이면 플랫폼이 스스로 처리하는 의존성이 압축 기준 60KB에서 90KB쯤 쌓여 있다. 날짜와 숫자 서식, HTTP 요청, 모달, 툴팁, 깊은 복사, 배열 묶기. 라이브러리가 남는 건 npm audit으로 보안은 봐도 '이게 아직 브라우저가 못 하는 일을 하나'는 잘 묻지 않아서다."
+          },
+          {
+            "t": "p",
+            "x": "Baseline은 WebDX 커뮤니티 그룹이 크롬·엣지·파이어폭스·사파리 기준으로 기능의 안전도를 알려 준다. Limited availability는 아직 모든 엔진에 안 들어왔다는 뜻, Newly available은 막 다 들어왔다는 뜻, Widely available은 그 상태로 30개월을 넘겼다는 뜻이다. 이 30개월 간격이 감사의 기준선이 된다."
+          },
+          {
+            "t": "p",
+            "x": "지우기 전에 세 가지를 묻는다. 사용자에게 안전한가, 교체 비용은 얼마인가, 플랫폼 기능이 실제 용례를 덮는가."
+          },
+          {
+            "t": "p",
+            "x": "국제화 묶음이 가장 쉽다. timeago.js, pluralize, numeral, humanize-duration이 Intl.RelativeTimeFormat·PluralRules·NumberFormat·DurationFormat으로 넘어간다. 넷을 다 쓰고 있었다면 gzip 14KB다. 다만 Intl.DurationFormat은 아직 Newly available이라 사용자층부터 확인해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "HTTP는 좀 더 조심스럽다. axios는 gzip 17KB, superagent는 19KB인데 평범한 요청이면 fetch와 AbortController로 충분하다. 대신 fetch는 404나 500에 거절하지 않고 인터셉터도 자동 재시도도 업로드 진행률도 없다. 하나라도 쓴다면 얇은 래퍼를 직접 만드는 쪽이다."
+          },
+          {
+            "t": "img",
+            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/2-bundlephobia-website.png",
+            "cap": "axios가 minified 44kb, gzip 16.6kb임을 보여 주는 Bundlephobia 화면."
+          },
+          {
+            "t": "p",
+            "x": "UI 기본기는 결과가 가장 시원하다. dialog 요소 하나가 모달 라이브러리와 focus-trap을 함께 걷어 내고, 배경 스크롤 잠금은 body:has(dialog:modal){overflow:hidden} 한 줄이면 된다. 드롭다운과 툴팁은 Popover API와 CSS 앵커 포지셔닝이 받는다. 이 묶음만 gzip 24KB 안팎이다."
+          },
+          {
+            "t": "p",
+            "x": "Lodash도 통째로 지우자는 얘기가 아니라 브라우저가 이미 가진 부분만 그만 싣자는 얘기다. groupby는 Object.groupBy로, clonedeep은 structuredClone으로, 집합 연산은 Set 기본 메서드로 간다. debounce와 throttle은 대체재가 없어 남긴다."
+          },
+          {
+            "t": "p",
+            "x": "반대로 Temporal은 2026년 3월 TC39 4단계에 올랐어도 사파리 정식 버전에 없어 아직 Baseline이 아니다. 공식 폴리필이 gzip 44KB인데 dayjs는 3KB다. 지금 갈아타면 번들이 41KB 늘어난다. 사파리가 실을 때까지는 dayjs다."
+          },
+          {
+            "t": "p",
+            "x": "감사 절차는 짧다. npm ls --omit=dev --depth=0으로 배포되는 의존성을 뽑고, 번들 분석기로 무게를 재고, webstatus.dev나 MDN 배지로 대체 기능의 Baseline 상태를 확인한다. 한 번 치우고 끝낼 일이 아니라 분기에 한 번 돌릴 습관이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-vr-mech-modeler",
+      "eyebrow": "AI NEWS",
+      "headline": "헤드셋 안에서 메카를 깎고\nKeyShot으로 마무리한다",
+      "body": "Gnomon Workshop이 VR로 메카를 조각하는 30분 무료 강의를 냈다.",
+      "mini_headline": "VR로 깎는 메카 콘셉트",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/08/free-tutorial-design-mechs-in-vr-using-substance-3d-modeler/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "xdxtO9Z9u40"
+          },
+          {
+            "t": "p",
+            "x": "The Gnomon Workshop이 Design Mechs in VR Using Substance 3D Modeler를 공개했다. WB Games 콘셉트 아티스트 Andre-Lang Huynh가 녹화한 무료 VR 조각 워크플로 안내다."
+          },
+          {
+            "t": "p",
+            "x": "Substance 3D Modeler와 KeyShot을 다루는 30분짜리 영상 교육이다."
+          },
+          {
+            "t": "p",
+            "x": "강의에서 Huynh는 어도비의 VR 조각 소프트웨어 Substance 3D Modeler로 메카를 맨바닥부터 설계하고 조각하는 자기 작업 흐름을 통째로 보여 준다. 단순한 기하 형태에서 시작해 비례와 실루엣부터 또렷하게 잡고, 관절과 장갑판 같은 2차·3차 형태와 색·표면 디테일로 복잡도를 쌓아 올린다."
+          },
+          {
+            "t": "p",
+            "x": "다루는 Substance 3D Modeler 기능은 프리미티브, 조각 브러시, 불리언, 레이어, 머티리얼, 스탬프, 대칭, 각도 스냅, 재사용 가능한 킷배시 요소다."
+          },
+          {
+            "t": "p",
+            "x": "조각이 끝나면 KeyShot으로 넘겨 머티리얼을 붙이고 간단한 조명을 세운 뒤 발표용 렌더를 뽑는다. 워크숍에 딸린 프로젝트 파일에는 완성된 Substance 3D Modeler 씬이 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "Andre-Lang Huynh는 WB Games Montréal의 어드밴스드 콘셉트 아티스트다. 고담 나이츠에서 배트모빌과 배트사이클을 비롯한 캐릭터와 소품, 차량을 디자인했다."
+          },
+          {
+            "t": "p",
+            "x": "Design Mechs in VR Using Substance 3D Modeler는 튜토리얼 300편이 넘는 The Gnomon Workshop 구독으로 본다. 구독료는 월 57달러 또는 연 499달러이고 무료 체험도 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-cybernetic-app",
+      "eyebrow": "AI NEWS",
+      "headline": "앱을 화면 묶음이 아니라\n살아남는 시스템으로 본다",
+      "body": "스태퍼드 비어의 생존 가능 시스템 모델로 글쓰기 앱의 인터페이스를 다시 짠다.",
+      "mini_headline": "앱을 시스템으로 보기",
       "tool": "Figma",
-      "source": "DEV Community",
-      "url": "https://dev.to/renato_marinho/your-ai-agents-ui-is-mediocre-and-heres-how-to-fix-it-4a3o",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,217 +203,106 @@
         "blocks": [
           {
             "t": "p",
-            "x": "요즘 Claude나 Cursor로 개발해 본 사람이면 익숙한 패턴이 있다. 코드는 깔끔하고 로직도 멀쩡한데 화면은 2015년식 부트스트랩 복제본 같다. 모서리는 죄다 똑같이 둥글고, 그림자는 깊이를 전하지 못한 채 아무 데나 붙고, 애니메이션은 유기적이라기보다 로봇 같다."
+            "x": "스태퍼드 비어는 \"시스템의 목적은 그 시스템이 하는 일\"이라고 했다. 그 말대로라면 우리가 쓰는 정보 시스템의 목적 하나는 생각을 흐트러뜨려 잃어버리고 방치하게 만드는 데 있다. 글쓰기와 정리 도구는 헷갈리고 사라지고 중복되고 버려진 원고라는 세금을 걷어 가는데, 정작 사용자 손에는 그걸 되돌릴 도구가 없다."
           },
-          {
-            "t": "p",
-            "x": "에이전트는 동작하는 HTML과 CSS를 잘 만들지만 디자인 의도라는 개념이 없다. 버튼을 파랗게 칠하는 코드는 써도, 눌렸을 때 왜 스프링 스케일이 붙어야 하는지, 배경 면 대비 고도가 어떻게 변해야 하는지는 모른다. 그렇게 나온 결과가 '좀비' 인터페이스다. 작동은 하지만 생기가 없고, 접근성과 사용자 주도권까지 걸린 기술 문제다."
-          },
-          {
-            "t": "p",
-            "x": "그가 이 간극을 메우려고 쓰는 도구가 Vinkius로 붙이는 UI/UX Excellence Prover다. 코드를 대신 짜 주지 않고, 에이전트 파이프라인에 물리는 디자인 단위 테스트 역할을 한다. 생성된 컴포넌트가 여섯 기둥에서 2026년 기준을 지켰는지 검증시키는 쪽이다."
-          },
-          {
-            "t": "p",
-            "x": "첫 지적은 '납작한 장식'이다. 에이전트는 현대적으로 보인다는 이유로 카드마다 box-shadow를 얹는다. 그림자는 공간을 알려주는 장치지 꾸밈이 아니다. 제대로 만든 화면은 0에서 5까지의 고도로 위계를 말한다. 전부 그림자를 달면 무엇도 중요해지지 않는다. Prover는 근거 없는 그림자를 잡아 실제 깊이를 뜻하는 토큰으로 고도를 정의하게 만든다."
-          },
-          {
-            "t": "p",
-            "x": "모션도 마찬가지다. LLM 출력은 transition: ease-in-out에 기댄다. 페이지 전환은 이동 방향을 따라가야 하고, 클릭은 색만 바뀔 게 아니라 접촉을 흉내 내는 스프링 스케일이 필요하다. Prover는 임의의 밀리초 값 대신 정해진 지속 시간과 물리 속성을 담은 모션 토큰을 찾고, 설명·안내·확인 어디에도 닿지 않는 움직임은 군더더기로 표시한다."
-          },
-          {
-            "t": "p",
-            "x": "가장 많이 무너지는 지점은 상태 설계다. 기본과 클릭만 떠올리기 쉽지만 실제 제품은 최소 여덟 개를 요구한다. Idle, Hover, Active/Pressed, Focus-visible, Disabled, Loading, Success, Error. 로딩이나 에러 피드백이 빠진 버튼은 그 자체로 기술 부채이고, Prover는 빠진 상태를 찾아내 구현하게 한다."
-          },
-          {
-            "t": "p",
-            "x": "접근성 항목은 '접근성 연극'을 겨눈다. WCAG 2.2 AA 준수를 내세우면서 아이콘 버튼에 aria-label이 없거나 포커스 링이 깨진 사이트는 흔하다. Prover는 WCAG 2.2 AAA 기준으로 4.5:1 이상 대비와 제대로 된 focus-visible, prefers-reduced-motion 대체 동작을 확인한다."
-          },
-          {
-            "t": "p",
-            "x": "다크 패턴도 본다. Prover가 내세우는 '차분한 UI'는 삭제처럼 되돌릴 수 없는 동작에 의도적 마찰을 두었는지, 미리 체크된 상자나 숨겨 둔 해지 경로가 없는지 살핀다."
-          },
-          {
-            "t": "p",
-            "x": "MCP를 지원하는 클라이언트면 연결은 간단하다. Cursor나 Claude Desktop에서 Vinkius 토큰을 받아 넣으면 끝이다. AI에게 창의성을 요구하는 대신 '상태가 여덟 개여야 한다', '모션은 스프링 물리를 써야 한다', '간격은 8px 그리드를 따라야 한다'고 단언하는 검증기를 옆에 앉히는 셈이다. 디자인이 주관적 대화에서 검증 가능한 엔지니어링 요구사항으로 넘어간다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-token-extractor",
-      "eyebrow": "AI NEWS",
-      "headline": "남의 사이트 디자인 토큰을\n클릭 한 번에 통째로 뽑다",
-      "body": "DevTools로 읽던 타이포·색·간격 스케일을 크롬 확장이 한 번에 뽑아낸다.",
-      "mini_headline": "원클릭 디자인 토큰 추출",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/pop3_zxcv/i-got-tired-of-reverse-engineering-design-systems-by-hand-so-i-built-a-chrome-extension-48hk",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "웹사이트가 어떻게 짜였는지 들여다보는 데 시간을 많이 쓴다는 개발자의 이야기다. 하던 방식은 느렸다. DevTools를 열고 요소 몇 개를 찍어 보고, 색을 복사하고, 폰트 크기를 확인하고, 미디어 쿼리를 훑어 어딘가에 다 적어 두는 식이었다."
-          },
-          {
-            "t": "p",
-            "x": "그 과정이 결국 크롬 확장으로 굳었다."
-          },
-          {
-            "t": "p",
-            "x": "Design System Extractor는 현재 탭에 열린 페이지의 시각 체계를 읽어 결과를 ZIP으로 묶어 준다. 버전 1.4.0이 크롬 웹스토어에 올라왔다."
-          },
-          {
-            "t": "p",
-            "x": "쓰는 법은 단순하다. 들여다봐도 되는 페이지를 열고 확장을 실행한 뒤 Capture를 누른다."
-          },
-          {
-            "t": "p",
-            "x": "확장은 페이지의 DOM과 스타일에서 색, 타이포그래피, 간격, 보더 라디우스, 그림자, 브레이크포인트, 모션, 대비 쌍, 인터랙션 상태를 훑는다. 버튼과 입력창, 카드, 배지처럼 낯익은 컴포넌트도 찾아낸다."
-          },
-          {
-            "t": "p",
-            "x": "내려받기 전에 잡아낸 항목을 확인하고 필요 없는 것은 빼도 된다. ZIP 안에는 JSON 토큰, CSS 커스텀 프로퍼티, Tailwind 테마, Style Dictionary 파일, 그리고 페이지에서 발견한 컴포넌트 목록이 담긴다."
-          },
-          {
-            "t": "p",
-            "x": "정작 까다로웠던 건 스크린샷이었다. 고정 헤더가 있거나 지연 로딩 구간, 중첩 스크롤 영역, 끝없는 피드가 끼면 이야기가 달라진다. 그래서 한 장짜리 전체 캡처를 포기했다. 쓸 만한 구간을 찾아 화면 안으로 스크롤한 뒤 따로따로 잘라 낸다. 잘린 이미지는 내보내기에 들어가기 전에 하나씩 확인할 수 있다. 무한 스크롤도 이렇게 잡힌다. 캡처에는 계속 내려가지 않고 멈추는 지점이 정해져 있다."
-          },
-          {
-            "t": "p",
-            "x": "페이지 데이터 처리는 내 컴퓨터 안, 확장 안에서 끝난다. 백엔드도 없고 분석 서비스도 없다. 개발자는 페이지 주소도, 추출된 스타일도, 스크린샷도, 사용 기록도 받지 않는다. 임시 뷰포트 이미지는 컴포넌트 크롭을 만드는 동안에만 메모리에 남는다. 폼에 입력한 값과 비밀번호, 쿠키, 인증 토큰, 브라우저 저장소는 아예 건드리지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "첫 공개 버전인 만큼, 개발자는 캡처가 구간을 놓치거나 엉뚱하게 자르거나 토큰을 잘못 뽑아낸 페이지 제보를 특히 기다린다. 그런 사례가 다음에 뭘 고칠지 정해 준다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-photoshop-2791",
-      "eyebrow": "AI NEWS",
-      "headline": "포토샵 AI 도구가 패널을 나와\n기본 툴바에 자리 잡았다",
-      "body": "Remove 툴이 컨텍스트 표시줄에 붙고 생성 이미지에 프롬프트 힌트가 생겼다.",
-      "mini_headline": "AI 툴, 툴바로 이동",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/08/adobe-releases-photoshop-27-9-1/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_Photoshop2791_f-960x480.jpg",
-            "cap": "어도비가 공개한 포토샵 27.9.1."
+            "src": "https://cdn-images-1.medium.com/max/1024/1*hOE7jWBhDRorf-HLW9Jp0w.png",
+            "cap": "스태퍼드 비어가 인간 신경계를 생존 가능 시스템 모델과 겹쳐 보이도록 그린 스케치."
           },
           {
             "t": "p",
-            "x": "어도비가 포토샵 27.9.1을 내놨다. 콘셉트 아트와 텍스처 편집, 렌더 리터칭에 쓰이는 그 이미지 편집 프로그램의 최신 버전이다."
+            "x": "필자가 보기에 문제는 앱이 우리 목표에 맞춰 스스로를 바꿀 기능을 갖추지 못한 데 있다. 사이버네틱스는 배를 모는 사람을 뜻하는 그리스어 kybernḗtēs에서 온 말로, 환경 속에서 버티고 적응하는 시스템을 다룬다. 사이보그나 사이버스페이스와는 상관이 없다."
           },
           {
             "t": "p",
-            "x": "성격은 워크플로 업데이트다. AI 기반 Generate Image와 Remove 툴의 손맛을 다듬었고, 즐겨 쓰는 폰트 목록을 저장하는 기능이 붙었다. 27.9 자체에 있던 치명적 버그도 이번에 잡혔다."
+            "x": "핵심은 생존 가능한 시스템(viable system)이다. 내부 상태를 감당하고 바깥 압력에 반응하는 시스템이고, 둘 중 하나라도 못 하면 생존 가능성을 잃는다. 여기서 다양성(variety)은 어떤 것이 할 수 있는 일의 가짓수를 뜻한다. 지하철 개찰구는 고정과 해제 두 상태뿐이지만 사람과 조직의 다양성은 헤아릴 수 없다."
           },
           {
             "t": "p",
-            "x": "포토샵이 27.8에서 곧장 27.9.1로 건너뛴 이유가 궁금할 텐데, CG Channel도 같은 의문을 품었다. 포토샵 서브레딧 사용자들에 따르면 27.9는 7월 말에 나왔다가 이미지가 빛바랜 것처럼 보이는 버그 탓에 금세 내려갔다. 포토샵 제품 매니저 Cory Shubert는 버그 리포트 포럼에 27.9.1이 이 문제를 고쳤다고 적었다. 릴리스 노트에 올라온 버전이 27.9.1인 까닭도 여기 있다."
+            "x": "생존 가능한 시스템은 두 겹의 구조를 요구한다. 하나는 재귀다. 회사가 사업부로, 사업부가 부서로, 부서가 팀으로 쪼개지듯 생존 가능한 시스템 안에 또 생존 가능한 시스템이 들어 있다. 다른 하나는 시스템–메타 시스템 구조로, 명령으로 찍어 누르는 대신 내부가 알아서 조율하도록 두고 별도의 시스템이 목표 대비 진척을 지켜보며 조정한다."
           },
           {
             "t": "p",
-            "x": "버그 수정 말고는 대체로 작업 흐름을 손봤다. 사진에서 원치 않는 개체를 자동으로 지워 주는 AI 기반 Remove 툴을 이제 컨텍스트 작업 표시줄에서 바로 쓴다. 또 다른 AI 기능인 Generate Image는 프롬프트 입력줄에 상황에 맞는 힌트를 띄워 프롬프트를 더 잘 쓰도록 돕는다. 로컬 포토샵 문서의 여러 레이어를 어도비의 AI 무드보드 도구 Firefly Boards로 한 번에 보내는 것도 가능해졌다."
+            "x": "이 구조를 텍스트 앱 화면에 그대로 옮겨 본다. 화면 위 사각형 하나하나가 위젯이고, 각 위젯이 System 1이다. 여러 텍스트 위젯이 공간을 어떻게 나눌지 조율하는 것이 System 2, 사용자의 입력에 반응해 위젯을 만들고 닫는 것이 System 3다. 오늘의 앱은 대개 여기서 멈춘다."
           },
           {
             "t": "p",
-            "x": "AI 바깥에서는 즐겨찾는 폰트 목록을 내보낼 수 있게 됐다. 환경 설정을 지우거나 초기화해도 되살린다. 클라우드 자산도 일일이 훑는 대신 키워드로 검색한다."
+            "x": "빠진 것은 System 4와 System 5다. System 4는 환경, 여기서는 사용자가 쓰는 글을 지켜보다 System 3의 동작을 바꾼다. 문장을 어떻게 끊느냐에 따라 뜻이 갈리는 '다양성 계수'가 높은 대목을 크게 키워 눈에 걸리게 하고, 어디에서도 참조되지 않는 고아 조각은 전체 화면으로 띄우며, 예전 문서와 구조까지 비교해 기시감이 높은 글에는 병합을 권한다."
           },
           {
             "t": "p",
-            "x": "포토샵 27.9.1은 윈도우 10 이상, macOS 14.0 이상에서 돌아간다. 온라인 문서에서는 2026년 7월 릴리스로도 불린다. 구독형이라 포토샵이 포함된 포토그래피 플랜은 월 29.99달러 또는 연 239.88달러, 포토샵 단일 앱 구독은 월 34.49달러 또는 연 263.88달러다."
+            "x": "System 5는 System 4가 제 몫을 하는지 본다. 사용자가 커진 위젯을 실제로 손보는지, 글을 더 자주 끝내는지, 고아와 중복이 줄었는지를 지표로 삼는다. 안 먹히는 방법이 있으면 조정하거나 사용자에게 알린다. 시스템의 목적은 그 시스템이 하는 일이라는 말을 여기서 다시 꺼낸다. 목적이 X라 해 놓고 Y를 하는 걸 보고도 두면, 그 시스템의 목적은 Y다."
+          },
+          {
+            "t": "p",
+            "x": "필자가 경계하는 건 좋은 글이 뭔지 안다고 주장하는 도구다. 컴퓨터는 한 문장에 단어가 몇 개인지처럼 답이 분명한 것만 다뤄야 하고, 문장이 길어 헷갈릴 수 있다고 보여 줄 수는 있어도 어떻게 고치라고 해서는 안 된다. 테드 넬슨의 지적대로 지금 소프트웨어는 컴퓨터의 연결 가능성을 종이 흉내에 쓴다. 이 기능들은 클리피처럼 앞에 튀어나오는 대신 진짜 종이처럼, 책상에 널린 더미가 정리가 안 됐음을 알려 주듯 인터페이스에 스며들어야 한다."
           }
         ]
       }
     },
     {
-      "id": "design-figma-copy-paste",
+      "id": "design-process-proof",
       "eyebrow": "AI NEWS",
-      "headline": "가장 많이 쓰는 복사·붙여넣기를\n피그마가 다시 뜯어본 이유",
-      "body": "복사·붙여넣기를 빠르게 만든 과정을 풀어놓으며 체감 품질이 지연 문제임을 짚는다.",
-      "mini_headline": "복사·붙여넣기 최적화",
-      "tool": "Social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=qn7uTCE146g",
-      "accent": "#ff2d55",
+      "headline": "사람이 만들었다는 말로는\n이제 아무도 설득하지 못한다",
+      "body": "스퀘어에닉스 표지 논란 뒤, 스케치와 버전 기록이 사람 손을 증명할 근거가 된다.",
+      "mini_headline": "과정 기록이 증거다",
+      "tool": "Figma",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/ai/ai-art/the-square-enix-ai-fiasco-convinces-me-we-all-need-to-start-documenting-our-creative-process",
+      "accent": "#3b6bff",
       "motif": "frame",
       "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "qn7uTCE146g"
-          },
-          {
-            "t": "p",
-            "x": "피그마 공식 채널이 올린 「How Figma made copy + paste faster」 영상이다. 제목 그대로 복사와 붙여넣기를 훨씬 빠르게 만든 엔지니어링 과정을 직접 풀어놓는다."
-          },
-          {
-            "t": "p",
-            "x": "복사·붙여넣기는 디자인 도구에서 가장 화려하지 않으면서 가장 많이 쓰이는 동작이다. 도구에서 느껴지는 완성도가 눈에 띄는 시각적 마감보다 아무도 발표하지 않는 지연 시간 작업에서 갈린다는 사실을 다시 확인시켜 준다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-makera-studio",
-      "eyebrow": "AI NEWS",
-      "headline": "CAM부터 기계 제어까지\n데스크톱 CNC를 한자리에",
-      "body": "CAM과 시뮬레이션, 모바일 제어를 한데 묶어 CAD 파일에서 절삭까지 잇는다.",
-      "mini_headline": "CNC 작업 한 환경에",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/makera-links-cnc-software-mobile-control-and-project-sharing/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/08/Makera-links-CNC-software-mobile-control-and-project-sharing.jpg",
-            "cap": "Makera가 내놓은 CNC 소프트웨어와 모바일 제어, 프로젝트 공유 생태계."
+            "src": "https://cdn.mos.cms.futurecdn.net/6kXsysepNhmLkYCkMg7jMk.jpg",
+            "cap": "이미지 제공: Square Enix."
           },
           {
             "t": "p",
-            "x": "Makera가 Makera Studio와 Makerables, Makera 앱을 내놨다. 데스크톱 CNC 사용자를 겨냥해 소프트웨어와 커뮤니티를 하나로 묶은 생태계다. Carvera, Carvera Air, Z1을 포함한 Makera의 데스크톱 CNC 제품군 전반에서 쓰도록 만들었다."
+            "x": "스케치와 초안을 남겨 두는 일이 사람이 만들었다는 유일한 증거가 될지 모른다."
           },
           {
             "t": "p",
-            "x": "CAM 소프트웨어와 프로젝트 공유, 모바일 기계 제어가 한 흐름 안에 들어온다. 프로젝트를 찾고 파일을 준비하고 가공하고 배우고 다시 공유하는 단계를 받쳐 주니, 소프트웨어와 커뮤니티 자료, 기계 조작 사이를 오갈 때 따로 챙길 도구가 줄어든다."
+            "x": "파이널 판타지와 킹덤하츠를 낸 일본 퍼블리셔 스퀘어에닉스가 지금 겪는 논란은, 만들어서 먹고사는 사람이면 누구나 신경 쓸 만한 종류다."
           },
           {
             "t": "p",
-            "x": "Makera Studio는 CAM과 가공 시뮬레이션, 기계 제어를 한 작업 공간에 담은 통합 플랫폼이다. 모델 불러오기, 가공 전략 선택, 툴패스 생성, 결과 미리보기, 기계 조작까지 제조 과정의 단계를 두루 지원한다. 2D·3D 가공, 3축·4축 부조 조각, 레이저 각인 같은 작업에는 처음 쓰는 사람이 프로젝트를 세팅하도록 돕는 Guided Modes가 붙고, 흔한 재료의 파라미터 자동 최적화와 가공 시뮬레이션으로 절삭 전에 작업을 점검한다."
+            "x": "자매 매체가 전한 대로, 스위치 2를 비롯한 여러 기종으로 나올 킹덤 하츠 컬렉션의 표지 아트가 공개 몇 시간 만에 AI로 만든 것 아니냐는 의심을 샀다. 근거는 눈에 띈다. 도널드 덕은 한 손이 손가락 셋, 다른 손이 넷이다. 시계의 디테일은 앞뒤가 안 맞고, 키체인은 크기가 제각각이다. 전체적으로 엉성하다."
           },
           {
             "t": "p",
-            "x": "Makerables는 CNC 창작자를 위한 커뮤니티 플랫폼이다. 텍스트 프롬프트나 기존 이미지, 초기 콘셉트에서 디자인을 만들어 내는 AI 보조 도구가 들어간다. 참고 이미지를 부조나 3D 모델로 바꾸고 CNC 생산용으로 프로젝트를 다듬는 작업도 여기서 한다. 프로젝트에는 디자인 파일, CAM 데이터, 가공 프로그램, 재료 추천, 공구 정보, 가공 파라미터, 문서, 조립 노트까지 담긴다."
+            "x": "스퀘어에닉스는 AI가 아니라고 했다. 발표문에 따르면 해당 이미지는 개발팀이 생성형 도구 없이 만들었고, 오류는 사람의 실수였다."
           },
           {
             "t": "p",
-            "x": "프로젝트를 찾아보고 자기 작업을 올리고 다른 메이커와 의견을 주고받다가, 그대로 Makera Studio에서 이어 편집하거나 가공할 수 있다. Makera는 선정된 기여자에게 추천과 편집 소개, 커뮤니티 행사, 노출 기회를 주는 Co-Creation Contest도 시작했다."
+            "x": "정말 그랬을 수도 있다. 문제는 스튜디오 바깥에서는 아무도 확인할 방법이 없다는 데 있다. 표지를 세 번 고쳐 어떤 오류는 잡고 어떤 오류는 그대로 둔 뒤에도 의심은 남았다. 진짜 이야기는 그 불확실성이고, 이건 퍼블리셔 하나의 표지 문제보다 크다."
           },
           {
             "t": "p",
-            "x": "Makera 앱은 Studio와 Makerables 흐름의 일부를 모바일로 옮긴다. 스마트폰에서 Makera 기계에 연결해 제어하고, Makerables 연동으로 추천 프로젝트와 커뮤니티 작업을 훑어본다. AI 콘텐츠 생성이나 프로젝트 게시 같은 고급 기능은 데스크톱에 남고, 앱은 프로젝트 탐색과 기계 제어에 집중한다."
+            "x": "이제 '사람이 만들었다'는 회사도 프리랜서도 그냥 말한다고 믿어 주는 문장이 아니다. 보여 줘야 한다. 오래 유지되던 전제가 뒤집혔다."
           },
           {
             "t": "p",
-            "x": "Makerables는 전 세계 메이커에게 열려 있고, Makera Studio는 Makera 고객이 쓴다. 하드웨어에 CAM 소프트웨어와 AI 보조 창작, 메이커 커뮤니티를 얹으면서 데스크톱 CNC 제품의 폭이 넓어졌다."
+            "x": "수십 년 동안은 자기 작업은 자기가 만든 것이라고 봤다. 왜 달리 생각하겠는가. 지금은 반대다. 작업에 이른바 AI 티가 하나라도 있으면 해명은 만든 사람 몫이고, '믿어 달라'로는 넘어가지지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "다행인 건 과정을 남기는 습관이 이 사태 이전부터 좋은 습관이었다는 점이다. 스케치, 러프 컷, 콘택트 시트, 초기 초안은 늘 값어치가 있었다. 완성작만으로는 보여 줄 수 없는 폭과 솜씨의 증거이자 언젠가 쓸 홍보 재료다. 사람들이 소셜에서 이런 걸 유독 잘 받아 보는 이유도 다른 데서 못 얻는 실마리와 자극이 거기 있어서다."
+          },
+          {
+            "t": "p",
+            "x": "작업하는 본인에게도 남는다. 왜 그렇게 결정했는지를 캡션이든 메모든 자기한테라도 적어 두면 그 결정 자체가 또렷해진다. 스케치북의 절반은 끝내 공개하지 않는 글에 있다. 새로운 조언은 아니다. 새로워진 건 걸린 것의 크기다."
+          },
+          {
+            "t": "p",
+            "x": "과정 기록은 시간과 기력이 남을 때 챙기는 보너스였다. 2020년대 후반에 들어서는 기계가 만든 것으로 오해받을 여지가 있는 작업이라면 사실상 필수에 가까워졌다. 레이어가 살아 있는 파일, 시간이 찍힌 초안, 레퍼런스 보드, 작업이 형태를 잡아 가는 화면 녹화까지 언젠가 내가 만들었다는 걸 증명하는 데 필요할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "그러니 러프 초안을 버리지 말고, 버전 기록을 켜 두고, 소프트웨어가 되면 화면을 녹화하고, 다시 쓸 일 없을 것 같아도 파일을 붙들고 있어라. 기계가 만들었다는 의심은 사실이 아니어도 클라이언트와 의뢰, 평판을 앗아 간다."
           }
         ]
       }
