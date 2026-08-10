@@ -1,94 +1,86 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-08-09T22:00:29Z",
+  "now_iso": "2026-08-10T22:01:00Z",
   "items": [
     {
-      "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs",
-      "source": "80 Level",
+      "url": "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-08-05T00:00:00Z",
+      "published_iso": "2026-08-10T16:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/szrjvRP5ugTH28quHLyhJE-1920-80.jpg",
+      "excerpt": "Patrice Desilets says Panache pulled every gen-AI asset from the 1666: Amsterdam prologue and will ship none in Early Access, admitting the team stopped noticing AI art in its own pipeline: 'we didn't even realize it was AI anymore because we were used to seeing it.' He defends the tool as a variation engine a 'small team' can't staff for — 75 versions in three seconds versus 75 illustrators."
+    },
+    {
+      "url": "https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-08-10T13:48:22Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/no-mans-sky-1200x675.jpg",
+      "excerpt": "Hello Games' Sean Murray — whose studio literally shipped the poster child for procedural generation — says he is in no hurry to fold generative AI into No Man's Sky's production, comparing the industry-wide AI race to post-COVID return-to-office mandates. His pitch: 'let's just enjoy making games the way we've always made games.'"
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-08-10T15:02:54Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf582a97c7f66b1e6/6a79e9d13f9687dbb361f2ae/Eve_Header.png",
+      "excerpt": "Fenris Creations (EVE Online / EVE Frontier) has named Aslaug Arna Sigurbjornsdottir senior director of AI partnerships to push autonomous-agent work. The design hook: the studio wants EVE Frontier used as a live testbed where 'autonomous agents can be observed in a real, open and evolving economy, alongside real people.'"
+    },
+    {
+      "url": "https://gamingbolt.com/black-myth-zhong-kui-studio-is-avoiding-the-use-of-generative-ai-for-design-asset-production",
+      "source": "GamingBolt",
+      "category": "games",
+      "published_iso": "2026-08-10T15:49:06Z",
+      "og_image": "https://gamingbolt.com/wp-content/uploads/2025/08/Black-Myth-Zhong-Kui-scaled.jpg",
+      "excerpt": "Game Science co-founder and art director Yang Qi says the Black Myth: Zhong Kui team is deliberately keeping generative AI out of design and asset production, preferring its own hand methods. He frames it as timing rather than ideology — the studio isn't opposed to the tech, it just refuses to rush into it mid-production."
+    },
+    {
+      "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
+      "source": "GameSpot",
+      "category": "games",
+      "published_iso": "2026-08-07T18:35:00Z",
       "og_image": "",
-      "excerpt": "Klang Games' MMO SEED runs thousands of AI-controlled characters that keep living, working and building society 24/7 even after players log off. It uses a custom inference pipeline built on Google's Gemma, with each character holding its own Knowledge Graph to drive emergent narrative."
-    },
-    {
-      "url": "https://80.lv/articles/game-ai-expert-explains-where-ai-actually-belongs-in-game-development-and-the-risks",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-07-29T00:00:00Z",
-      "og_image": "https://cdn.80.lv/static/icons/logo80lv.svg",
-      "excerpt": "Veteran game-AI researcher Luke Dicken (Zynga, Take-Two) argues generative AI's real value in games is adaptive player experience, not automating art and production away. He also warns that today's per-player inference costs are unsustainable and hidden behind corporate subsidies."
-    },
-    {
-      "url": "https://es.kotaku.com/el-rpg-que-promete-cambiar-para-siempre-los-videojuegos-apuesta-por-una-ia-nunca-vista-pero-todavia-guarda-su-mayor-secreto-2000049072",
-      "source": "Kotaku en Espanol",
-      "category": "games",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://es.kotaku.com/app/uploads/2026/08/Diseno-sin-titulo-2026-08-07T105252.732.jpg",
-      "excerpt": "ByteDance unveiled World Apart at ChinaJoy 2026, an RPG whose NPCs are meant to interpret context, react to player decisions and generate dialogue in real time instead of reading pre-written lines. The studio still hasn't confirmed the underlying stack, with reports pointing to NVIDIA ACE."
+      "excerpt": "Take-Two boss Strauss Zelnick tells investors that AI tooling inside the GTA 6 publisher's studios is additive rather than substitutive — 'AI tools aren't going to replace anyone.' It's the clearest statement yet from a top-tier publisher on where it draws the line between AI-assisted production and headcount."
     },
     {
       "url": "https://kotaku.com/google-ai-somehow-leaked-a-game-devs-content-plans-hidden-inside-their-own-google-docs-2000722497",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/Google-AI-overview-official-image-from-Google-Blog.jpg",
-      "excerpt": "An indie dev found Google's AI surfacing unannounced content plans for their tower defense game Operation Octo, including a character name that existed only in a private Google Doc. The incident raises hard questions about using cloud AI suites for unreleased design documentation."
+      "published_iso": "2026-08-07T17:15:20Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/Google-AI-overview-official-image-from-Google-Blog-1200x675.jpg",
+      "excerpt": "An indie dev found Google's AI surfacing very specific unannounced details about their Steam game — content plans they say lived only in private Google Docs and were never posted anywhere. A live warning about what studio-side AI assistants can quietly ingest from a team's own production docs."
     },
     {
-      "url": "https://aftermath.site/video-games-no-ai/",
-      "source": "Aftermath",
+      "url": "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-07-29T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/07/shutterstock_2267663029.jpg",
-      "excerpt": "Aftermath compiled a running list of 50+ independent studios that have publicly committed to shipping without generative AI. Cited reasons include training-data theft, environmental cost, labor displacement and the erosion of human authorship as a craft signal."
+      "published_iso": "2026-08-01T19:49:37Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3gXeWZeoc7hdUtoUuRM39h-1920-80.jpg",
+      "excerpt": "Megumi Ogata, the voice of Shinji in Evangelion, calls AI voice cloning 'heartbreaking' and asks the Japanese government to step in. The push lands as synthetic-voice pipelines spread through game and anime production and Japan still lacks the AI consent terms SAG-AFTRA won in the US."
     },
     {
-      "url": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
+      "url": "https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-08-04T00:00:00Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/stella-balde-e1785850013847.jpg",
-      "excerpt": "Shift Up CEO Kim Hyung Tae defended the AI-generated Stellar Blade: Blood Rain music video by arguing the AI only rendered designs his team had already crafted by hand. Players rejected the framing, treating the output as evidence that generative rendering degrades the studio's own art direction."
-    },
-    {
-      "url": "https://www.destructoid.com/stellar-blade-ai-slop-music-video-awful-must-be-seen/",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/07/image-2026-07-31T102447.786.jpg",
-      "excerpt": "Shift Up's promotional music video for Stellar Blade: Blood Rain drew broad criticism for shot-to-shot character inconsistency and hallucinated on-screen text. The reaction became a case study in how generative marketing assets can undercut a game's visual identity."
-    },
-    {
-      "url": "https://www.thegamer.com/stellar-blade-blood-rain-ai-generated-music-video/",
-      "source": "TheGamer",
-      "category": "games",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/image-15.png?&fit=crop&w=1600&h=900",
-      "excerpt": "TheGamer detailed the fan response to Shift Up's fully AI-generated 'Wanna be in LOVE' video for Blood Rain, where Evie's model shifts between shots and animation reads as uncanny. Commenters argued the publisher could have commissioned a real animation team for the same visibility."
-    },
-    {
-      "url": "https://www.thegamer.com/stellar-blade-blood-rain-ai-music-video-controversy-shift-up/",
-      "source": "TheGamer",
-      "category": "games",
-      "published_iso": "2026-08-05T00:00:00Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/vs-youtube-stellarbladebloodrain-wannabeinlovefteviemusicvideo-youtube-2-20.jpg",
-      "excerpt": "An opinion piece on how a single generative marketing asset can reset audience trust in a sequel's craft. The writer withdraws anticipation for Blood Rain entirely, citing the studio's apparent willingness to let AI stand in for its own art direction."
-    },
-    {
-      "url": "https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/stellar.jpg",
-      "excerpt": "Kotaku's breakdown of Shift Up's genAI music video catalogues the visible failure modes: inconsistent faces between cuts, garbled signage text, and warped environment geometry. Even the series' core fanbase read it as a quality regression rather than a promo."
+      "published_iso": "2026-07-31T09:00:49Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/kh-1200x675.jpg",
+      "excerpt": "Fans flagged a Kingdom Hearts illustration as gen-AI because of a botched hand; Square Enix says it was ordinary human error — someone miscounted Donald's fingers. A small but telling case of AI suspicion now shaping how players read every piece of official key art."
     }
   ],
-  "notes": "Section fresh pool is thin this window. Blocked-for-crawler allowed_domains (gamesindustry.biz, ign.com, polygon.com, eurogamer.net, rockpapershotgun.com, vg247.com) were unavailable to WebSearch; gamespot.com, wccftech.com, unity.com, unrealengine.com, gamesradar.com and venturebeat.com returned 403/429/truncated pages so no published time could be verified and those items were dropped rather than guessed. YouTube watch pages did not render for date extraction, so social contributed nothing. Expanded beyond keywords_games.json with: Stellar Blade Blood Rain AI music video, ByteDance World Apart / ChinaJoy, Klang Games SEED, Krafton PUBG Ally CPC, Roblox Build alpha, Steam AI disclosure, NVIDIA ACE Game Agent SDK, Unreal Engine 6 genAI, Unity AI authoring, Genie / world models. Large stories confirmed STALE and dropped: Unreal Engine 6 genAI push and reactions (Jun 17-19), NVIDIA ACE Game Agent SDK + UE5 plugins (Jun 16), NVIDIA SIGGRAPH 2026 agentic/neural rendering (Jul 20), Roblox mobile Build (Jul 16), Genie 3 / Project Genie (Jan-Jun). AniShort and the AI-mandate-resistance piece were skipped per skip_topics_recent.",
+  "notes": {
+    "verification": "Every published_iso was read from the article itself (og article:published_time, JSON-LD datePublished, or the outlet's own RSS pubDate for GameSpot, which blocks direct fetches) and then gated with `python3 pipeline/freshness.py <published> 2026-08-10T22:01:00Z games`. All 12 printed FRESH. Nothing was accepted on a search-snippet date.",
+    "blocked_domains": "gamesindustry.biz, ign.com, polygon.com, eurogamer.net, rockpapershotgun.com and vg247.com are all refused by the search user agent, which removed six of the section's allowed_domains from the funnel. gamespot.com, venturebeat.com and thegamer.com block WebFetch/curl on article pages; GameSpot was recovered via its own news RSS, the others were dropped rather than guessed.",
+    "per_source_cap": "Kotaku 3, GamesRadar+ 2, all others 1. 9 distinct outlets: GamesRadar+, Kotaku, Game Developer, GamingBolt, GameSpot, NVIDIA Blog, PC Gamer, Aftermath, 80 Level.",
+    "dropped_stale": "The engine-tooling emphasis largely failed on freshness: the whole Unreal Engine 6 / State of Unreal gen-AI cluster (wccftech, Kotaku, Aftermath, 80.lv, Game Developer) is mid-June; NVIDIA's ACE Game Agent SDK + UE5 plugins is 2026-06-16; the Steam / Valve AI-disclosure cluster is January; Unity Muse and Unity AI beta coverage is May or older; Inworld's Unreal AI Runtime SDK is 2025-10-29; the 1666: Amsterdam first-apology wave is June; Roblox Build / 4D generation is 2026-07-16. All confirmed by fetching real timestamps, then dropped.",
+    "dropped_offtopic": "Per the relevance test I dropped Unity's ad-platform quarter, the Unity/Supersonic sale, the EA CEO pay package, EVE-adjacent AI-industry finance, and PC Gamer's AI tag which in this window is almost entirely data-center, memory-pricing and OpenAI-lawsuit noise with no design hook.",
+    "dropped_recent_dupes": "Destructoid's 2026-08-08 piece on Google's QA-playing AI is the same Square Enix x Gemini story already published on 08-09; the Kotaku 2026-07-30 'The Relic: First Guardian' AI piece and the Shift Up / Stellar Blade AI-video items are also on the 08-09/08-10 skip list. Excluded so the curator isn't offered a re-run.",
+    "coverage": "Queries run across the full plan: Unreal/Epic tooling, Unity AI, AI level design + PCG, AI game design tools, AI character creation, AI mod/UGC + Roblox, AI localization, AI voice acting + SAG-AFTRA, text-to-game, Genie / world models, AI playable worlds, Inworld, NVIDIA ACE, AI game art disclosure, gamescom 2026, Korean-language 'AI 게임 개발', plus YouTube. Social yielded nothing verifiable: the only AI-NPC/Unreal videos surfacing are 2023-era, and games defines no instagram_handles, so social contributes zero this run."
+  },
   "dedup": {
-    "dropped": 0,
-    "kept": 10,
+    "dropped": 4,
+    "kept": 8,
     "against_days": 5
   }
 }

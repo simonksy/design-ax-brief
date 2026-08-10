@@ -1,33 +1,38 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "music",
   "media": [
     {
-      "id": "music-reflector",
-      "type": "image",
-      "src": "pipeline/media/music-reflector.jpg"
-    },
-    {
-      "id": "music-dreamtonics-tease",
+      "id": "music-suno-voices-mobile",
+      "kind": "video",
       "type": "video",
-      "src": "pipeline/media/music-dreamtonics-tease.mp4",
-      "poster": "pipeline/media/music-dreamtonics-tease.jpg"
+      "src": "pipeline/media/music-suno-voices-mobile.mp4",
+      "poster": "pipeline/media/music-suno-voices-mobile.jpg"
     },
     {
-      "id": "music-provenance-recipe",
+      "id": "music-unlearning-hub",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/music-provenance-recipe.svg"
+      "src": "pipeline/media/music-unlearning-hub.jpg"
     },
     {
-      "id": "music-bangalter-ai",
+      "id": "music-headrush-nam",
+      "kind": "video",
       "type": "video",
-      "src": "pipeline/media/music-bangalter-ai.mp4",
-      "poster": "pipeline/media/music-bangalter-ai.jpg"
+      "src": "pipeline/media/music-headrush-nam.mp4",
+      "poster": "pipeline/media/music-headrush-nam.jpg"
     },
     {
-      "id": "music-suno-breach-suits",
+      "id": "music-saregama-ai-videos",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/music-suno-breach-suits.svg"
+      "src": "pipeline/media/music-saregama-ai-videos.jpg"
+    },
+    {
+      "id": "music-agents-release-ops",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/music-agents-release-ops.png"
     }
   ]
 }

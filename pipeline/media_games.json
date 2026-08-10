@@ -1,27 +1,56 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "games",
   "media": [
     {
-      "id": "games-world-apart",
+      "id": "games-1666-ai-assets-cut",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/games-world-apart.jpg"
+      "src": "pipeline/media/games-1666-ai-assets-cut.jpg",
+      "source_url": "https://cdn.mos.cms.futurecdn.net/szrjvRP5ugTH28quHLyhJE.jpg",
+      "origin": "in-article lead image (GamesRadar+)",
+      "width": 1600,
+      "height": 900
     },
     {
-      "id": "games-blood-rain-cope",
+      "id": "games-eve-frontier-agent-testbed",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/games-blood-rain-cope.jpg"
+      "src": "pipeline/media/games-eve-frontier-agent-testbed.png",
+      "source_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf582a97c7f66b1e6/6a79e9d13f9687dbb361f2ae/Eve_Header.png",
+      "origin": "in-article lead image (Game Developer)",
+      "width": 1280,
+      "height": 720
     },
     {
-      "id": "games-dicken-dungeon-master",
-      "type": "video",
-      "src": "pipeline/media/games-dicken-dungeon-master.mp4",
-      "poster": "pipeline/media/games-dicken-dungeon-master.jpg"
+      "id": "games-take-two-ai-not-replace",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/games-take-two-ai-not-replace.jpg",
+      "source_url": "https://www.gamespot.com/wp-content/uploads/2026/06/GTA-6-PSA.jpg",
+      "origin": "og:image recovered via reader proxy (GameSpot HTML returns 403 to direct fetch)",
+      "width": 1280,
+      "height": 720
     },
     {
-      "id": "games-no-genai-roster",
+      "id": "games-ogata-voice-cloning",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/games-no-genai-roster.jpg"
+      "src": "pipeline/media/games-ogata-voice-cloning.jpg",
+      "source_url": "https://cdn.mos.cms.futurecdn.net/3gXeWZeoc7hdUtoUuRM39h.jpg",
+      "origin": "in-article lead image (PC Gamer)",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "games-no-mans-sky-not-rushing",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/games-no-mans-sky-not-rushing.jpg",
+      "source_url": "https://kotaku.com/app/uploads/2026/08/no-mans-sky.jpg",
+      "origin": "in-article lead image (Kotaku)",
+      "width": 1600,
+      "height": 899
     }
   ]
 }

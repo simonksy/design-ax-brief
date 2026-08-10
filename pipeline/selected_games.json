@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "games",
   "picks": [
     {
@@ -7,76 +7,86 @@
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://es.kotaku.com/el-rpg-que-promete-cambiar-para-siempre-los-videojuegos-apuesta-por-una-ia-nunca-vista-pero-todavia-guarda-su-mayor-secreto-2000049072",
-      "source": "Kotaku en Espanol",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://es.kotaku.com/app/uploads/2026/08/Diseno-sin-titulo-2026-08-07T105252.732.jpg",
-      "excerpt": "ByteDance unveiled World Apart at ChinaJoy 2026, an RPG whose NPCs are meant to interpret context, react to player decisions and generate dialogue in real time instead of reading pre-written lines. The studio still hasn't confirmed the underlying stack, with reports pointing to NVIDIA ACE.",
-      "rationale": "A major publisher betting a whole RPG on runtime-generated NPC dialogue changes what narrative and systems designers have to spec next."
+      "url": "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-08-10T16:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/szrjvRP5ugTH28quHLyhJE-1920-80.jpg",
+      "excerpt": "Patrice Desilets says Panache pulled every gen-AI asset from the 1666: Amsterdam prologue and will ship none in Early Access, admitting the team stopped noticing AI art in its own pipeline: 'we didn't even realize it was AI anymore because we were used to seeing it.' He defends the tool as a variation engine a 'small team' can't staff for — 75 versions in three seconds versus 75 illustrators.",
+      "rationale": "The sharpest craft warning of the week: a studio lead admits AI assets went visually invisible to his own team, which is exactly the review-gate problem every art director now has to design for."
     },
     {
       "rank": 2,
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
-      "source": "Kotaku",
-      "published_iso": "2026-08-04T00:00:00Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/stella-balde-e1785850013847.jpg",
-      "excerpt": "Shift Up CEO Kim Hyung Tae defended the AI-generated Stellar Blade: Blood Rain music video by arguing the AI only rendered designs his team had already crafted by hand. Players rejected the framing, treating the output as evidence that generative rendering degrades the studio's own art direction.",
-      "rationale": "The 'AI only rendered our own designs' defence failed in public — a direct warning about generative marketing assets carrying a studio's art direction."
+      "url": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
+      "source": "Game Developer",
+      "published_iso": "2026-08-10T15:02:54Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf582a97c7f66b1e6/6a79e9d13f9687dbb361f2ae/Eve_Header.png",
+      "excerpt": "Fenris Creations (EVE Online / EVE Frontier) has named Aslaug Arna Sigurbjornsdottir senior director of AI partnerships to push autonomous-agent work. The design hook: the studio wants EVE Frontier used as a live testbed where 'autonomous agents can be observed in a real, open and evolving economy, alongside real people.'",
+      "rationale": "A live MMO economy being offered as an agent testbed is a genuinely new systems-design brief — agents as inhabitants, not as production tooling."
     },
     {
       "rank": 3,
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://80.lv/articles/game-ai-expert-explains-where-ai-actually-belongs-in-game-development-and-the-risks",
-      "source": "80 Level",
-      "published_iso": "2026-07-29T00:00:00Z",
+      "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
+      "source": "GameSpot",
+      "published_iso": "2026-08-07T18:35:00Z",
       "og_image": "",
-      "excerpt": "Veteran game-AI researcher Luke Dicken (Zynga, Take-Two) argues generative AI's real value in games is adaptive player experience, not automating art and production away. He also warns that today's per-player inference costs are unsustainable and hidden behind corporate subsidies.",
-      "rationale": "A credible practitioner draws the line between AI that improves play and AI that just cuts headcount — plus the runtime-cost math teams keep skipping."
+      "excerpt": "Take-Two boss Strauss Zelnick tells investors that AI tooling inside the GTA 6 publisher's studios is additive rather than substitutive — 'AI tools aren't going to replace anyone.' It's the clearest statement yet from a top-tier publisher on where it draws the line between AI-assisted production and headcount.",
+      "rationale": "The most quotable line a lead can take into an AI-policy meeting: a top-tier publisher putting the augment-not-replace boundary on the investor record."
     },
     {
       "rank": 4,
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://aftermath.site/video-games-no-ai/",
-      "source": "Aftermath",
-      "published_iso": "2026-07-29T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/07/shutterstock_2267663029.jpg",
-      "excerpt": "Aftermath compiled a running list of 50+ independent studios that have publicly committed to shipping without generative AI. Cited reasons include training-data theft, environmental cost, labor displacement and the erosion of human authorship as a craft signal.",
-      "rationale": "A concrete, growing roster showing 'no genAI' has become a stated production policy and a marketing signal indies actively use."
+      "url": "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/",
+      "source": "PC Gamer",
+      "published_iso": "2026-08-01T19:49:37Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3gXeWZeoc7hdUtoUuRM39h-1920-80.jpg",
+      "excerpt": "Megumi Ogata, the voice of Shinji in Evangelion, calls AI voice cloning 'heartbreaking' and asks the Japanese government to step in. The push lands as synthetic-voice pipelines spread through game and anime production and Japan still lacks the AI consent terms SAG-AFTRA won in the US.",
+      "rationale": "Voice is the one asset class where consent terms differ by territory — a concrete reason to write AI clauses into JP-side voice contracts before the law does."
+    },
+    {
+      "rank": 5,
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "url": "https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989",
+      "source": "Kotaku",
+      "published_iso": "2026-08-10T13:48:22Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/no-mans-sky-1200x675.jpg",
+      "excerpt": "Hello Games' Sean Murray — whose studio literally shipped the poster child for procedural generation — says he is in no hurry to fold generative AI into No Man's Sky's production, comparing the industry-wide AI race to post-COVID return-to-office mandates. His pitch: 'let's just enjoy making games the way we've always made games.'",
+      "rationale": "The most credible possible 'not yet' — the procedural-generation studio declining the gen-AI mandate reframes adoption pressure as a schedule choice, not an inevitability."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.games — today (2026-08-09) + days 2026-08-04..2026-08-08 (25 published cards)",
+    "checked_against": "news_data.json sections.games — today 2026-08-10 (4 cards) + days 2026-08-05..2026-08-09 (25 cards), 29 published cards total, plus the 2026-08-10 curator dedup log in pipeline/selected_games.json.",
     "already_published_matches": [
       {
         "url": "https://kotaku.com/google-ai-somehow-leaked-a-game-devs-content-plans-hidden-inside-their-own-google-docs-2000722497",
-        "reason": "Same event as published 2026-08-07 card games-google-ai-leaks-private-docs (GamesRadar+, https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/) — identical indie dev, Operation Octo tower defense, 'Vantage Tripod' name pulled from a private Google Doc. Different outlet, same story."
-      },
-      {
-        "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs",
-        "reason": "Same subject as published 2026-08-05 card games-seed-ai-avatars (PC Gamer, https://www.pcgamer.com/games/sim/mmo-life-sim-seeds-ai-powered-avatars-prove-once-again-that-nothing-shatters-immersion-quicker-than-crappy-chatbot-dialogue) — Klang Games' MMO Seed and its LLM-driven AI avatars, same early-access window. Different outlet and angle (tech pipeline vs hands-on critique), but the reader would see the same story twice in one week."
+        "reason": "Same event as published 2026-08-07 card games-google-ai-leaks-private-docs (GamesRadar+, https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/) — identical indie dev (Klub Kofta / Operation Octo) and the same 'Vantage Tripod' name pulled from a private Google Doc. Different outlet, same story. This item was already rejected for the same reason on 2026-08-10; dropped again."
       }
     ],
     "within_pool_duplicates_collapsed": [
       {
-        "story": "Stellar Blade: Blood Rain AI-generated music video backlash",
-        "kept": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
+        "story": "Studios publicly declining generative AI in art/asset production",
+        "kept": "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/ (1666: Amsterdam, concrete assets pulled) and https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989 (Hello Games)",
         "dropped": [
-          "https://www.destructoid.com/stellar-blade-ai-slop-music-video-awful-must-be-seen/",
-          "https://www.thegamer.com/stellar-blade-blood-rain-ai-generated-music-video/",
-          "https://www.thegamer.com/stellar-blade-blood-rain-ai-music-video-controversy-shift-up/",
-          "https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725"
+          "https://gamingbolt.com/black-myth-zhong-kui-studio-is-avoiding-the-use-of-generative-ai-for-design-asset-production"
         ],
-        "reason": "One story across three outlets and four reworded pieces. Kept the single most recent and most substantive item (studio CEO's on-record defence, 2026-08-04), which also carries the underlying video controversy."
+        "reason": "Distinct studios and distinct events, so not a hard duplicate — but three 'studio says no to gen-AI' cards in one issue, on top of the 2026-08-10 Aftermath no-genAI roster card, would read as one repeated story. Kept the two with the most specific production detail and dropped the weakest-sourced restatement."
       }
     ],
-    "shortfall": "4 picks instead of 5. The fresh pool held 10 items: 5 were the same Stellar Blade story (collapsed to 1), 2 duplicated already-published games cards (Google Docs leak, Klang Seed). No further unique, never-before-seen fresh candidate existed — padding with a second Stellar Blade angle was explicitly ruled out.",
-    "diversity": "4 distinct outlets (Kotaku en Espanol, Kotaku, 80 Level, Aftermath — max 2 from the Kotaku brand); 4 distinct topics (runtime-generated NPC RPG, generative marketing asset backlash, where AI belongs in game dev + inference economics, studios pledging no genAI). Each pick has a distinct accent and motif since all share the games category."
+    "also_dropped": [
+      {
+        "url": "https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610",
+        "reason": "Not a duplicate, but the lowest-scoring survivor: a single miscounted-fingers correction with no production takeaway. Dropping it also keeps Kotaku at one card in the final five."
+      }
+    ],
+    "diversity": "5 picks, 5 distinct outlets (GamesRadar+, Game Developer, GameSpot, PC Gamer, Kotaku) — no outlet appears twice. Five distinct angles: asset-review blindness in a shipping pipeline, autonomous agents inside a live MMO economy, publisher policy on AI vs headcount, voice-cloning consent and JP regulation, and a marquee studio opting out of the adoption race. All share the single 'games' category, so each pick carries a distinct accent and motif from sources.json."
   }
 }

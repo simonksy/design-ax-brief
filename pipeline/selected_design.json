@@ -1,63 +1,99 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "design",
+  "count": 5,
   "selection_mode": "curator (user deferred)",
-  "dedup_note": "Checked all 18 candidates against the design section's published history in news_data.json (today 2026-08-09 + days 08-04..08-08, 25 cards) by URL and by content/event. No candidate matched a published URL. Content-level near-misses reviewed and resolved: (1) Creative Bloq 'Square Enix AI fiasco' is a different event and thesis from the already-published 08-04 Creative Bloq 'AI art row' (Belfast gallery), so it is kept. (2) Engadget ran two same-day 'how to use X voice mode' posts (Claude + ChatGPT) - treated as one content hub, kept only the ChatGPT one (full-duplex is the genuinely new interaction pattern), dropped the Claude one. (3) dev.to 'Lanhu MCP design specs' is by the same author/source as the already-published 08-09 'Your AI agent's UI is mediocre' MCP card and covers the same 'MCP makes the agent respect design' beat - deprioritized to avoid a repeat. (4) dev.to 'AI agent UX review cycles' overlaps the already-published 08-08 '40-check design contract' and 08-09 MCP-checks cards thematically - deprioritized. Final 5 are 5 distinct outlets and 5 distinct sub-topics.",
+  "dedup": {
+    "checked_against": "sections.design → today (2026-08-10) + days (2026-08-05 … 2026-08-09)",
+    "published_urls_matched": 0,
+    "dropped": [
+      {
+        "url": "https://www.youtube.com/watch?v=TM8hd2lnrEk",
+        "reason": "hard exclusion — cross-section collision, assigned to movies today"
+      },
+      {
+        "url": "https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13",
+        "reason": "content-level near-duplicate — same core topic (coding agents produce generic/tasteless UI, fix with constraints) already run twice in this section: dev.to 'Your AI agent's UI is mediocre' (2026-08-09) and dev.to 'Why Claude-generated screens are missing their states' (2026-08-08)"
+      }
+    ],
+    "note": "No candidate URL matched a published design card. All candidates published 2026-08-08…08-10, so only the 08-08/08-09/08-10 briefs could collide; all three were read in full."
+  },
+  "diversity": {
+    "outlets": ["Figma (YouTube)", "CG Channel", "Vercel", "CSS-Tricks", "80 Level"],
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "categories": {"social": 1, "render": 2, "figma": 1, "tokens": 1}
+  },
   "picks": [
     {
-      "url": "https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/",
-      "source": "Engadget",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
+      "rank": 1,
+      "title": "Using agents in Figma Design (and coming soon to FigJam and Slides)",
+      "url": "https://www.youtube.com/watch?v=yheAh7VOHLc",
+      "source": "Figma (YouTube)",
+      "published_iso": "2026-08-10T11:00:34Z",
+      "og_image": "https://i.ytimg.com/vi/yheAh7VOHLc/maxresdefault.jpg",
+      "excerpt": "Figma's own walkthrough of working with agents inside Figma Design, with FigJam and Slides support flagged as next. It is the clearest official statement yet of how the agent is meant to sit inside an existing design file rather than replace it.",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "Full-duplex voice - the model listening and backchanneling while you talk - is a genuinely new turn-taking pattern designers now have to spec, not just faster TTS.",
-      "published_iso": "2026-08-09T16:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/intro-1785348648.jpg",
-      "excerpt": "GPT-Live's full-duplex architecture lets ChatGPT listen and speak at once, backchanneling 'mhmm' while you talk. Overlapping turn-taking is a genuinely new interaction pattern to design around, not just a faster TTS."
+      "rationale": "Figma's own account of how agents work inside a design file — the single most actionable thing a designer can try tomorrow."
     },
     {
-      "url": "https://www.smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-      "source": "Smashing Magazine",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "A concrete audit you can run tomorrow: check dependencies against Baseline and strip 60-90KB of gzipped code that agents and templates keep bolting on for features browsers already ship.",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png",
-      "excerpt": "Auditing dependencies against Baseline feature status can strip 60-90KB of gzipped code that browsers now handle natively. A concrete way to stop agents and templates from bolting on libraries the platform already replaced."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/08/free-tutorial-design-mechs-in-vr-using-substance-3d-modeler/",
+      "rank": 2,
+      "title": "Autodesk is discontinuing Mudbox, its digital sculpting software",
+      "url": "https://www.cgchannel.com/2026/08/autodesk-is-discontinuing-mudbox-its-digital-sculpting-software/",
       "source": "CG Channel",
+      "published_iso": "2026-08-10T09:00:00Z",
+      "og_image": null,
+      "excerpt": "Sales of the Academy Award-winning sculpting tool end this November. A long-standing part of many hard-surface and character pipelines is being retired, forcing teams onto ZBrush, Blender or Autodesk's newer generative 3D bets.",
+      "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "A free 30-minute Gnomon workshop that argues hard-surface concepting belongs in a headset - VR sculpting into KeyShot finishing, a workflow shift you can try the same afternoon.",
-      "published_iso": "2026-08-09T00:00:00Z",
-      "og_image": null,
-      "excerpt": "The Gnomon Workshop released a free 30-minute tutorial in which concept artist Andre-Lang Huynh designs a mech entirely inside VR with Substance 3D Modeler, then finishes in KeyShot. It is a concrete argument for sculpting hard-surface concepts in headset rather than on a mouse."
+      "rationale": "A dated end-of-sale that forces a real tooling decision in any pipeline still carrying Mudbox."
     },
     {
-      "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a",
-      "source": "UX Collective",
+      "rank": 3,
+      "title": "Grok Imagine Image 2.0 now available on Vercel AI Gateway",
+      "url": "https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
+      "source": "Vercel",
+      "published_iso": "2026-08-08T00:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3uPYJwKOF0WwcurlTBY2Ya/f08abe27da129f05364bd63f6883058e/Vercel_x_xAI.png",
+      "excerpt": "xAI's Grok Imagine Image 2.0 is now on Vercel AI Gateway as a preview: an image generation and editing model that plans typography and layout together and renders small text sharply. Typography-aware generation is exactly the failure mode that has kept most image models out of real layout work.",
+      "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Applies Stafford Beer's viable systems theory to AI products: the app is a feedback loop between user, model and interface, which changes what the designer is actually shaping.",
-      "published_iso": "2026-08-07T00:16:56Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*hOE7jWBhDRorf-HLW9Jp0w.png",
-      "excerpt": "Applying Stafford Beer's viable systems theory to AI-era products: the app is a feedback loop between user, model and interface rather than a stack of screens. It changes what the designer is actually shaping."
+      "rationale": "Typography-and-layout-aware generation is the exact gap that kept image models out of layout work, and it is available behind an API today."
     },
     {
-      "url": "https://www.creativebloq.com/ai/ai-art/the-square-enix-ai-fiasco-convinces-me-we-all-need-to-start-documenting-our-creative-process",
-      "source": "Creative Bloq",
-      "tool": "Figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Turns a live controversy into a habit change: keep sketches, drafts and version history, because process documentation is becoming the only proof a human made the work.",
-      "published_iso": "2026-08-09T00:00:00Z",
-      "og_image": null,
-      "excerpt": "After Square Enix's AI accusation cycle, the argument is blunt: keeping your sketches, drafts and version history may soon be the only way to prove a human made the work. Process documentation becomes a professional defence, not housekeeping."
+      "rank": 4,
+      "title": "Animating CSS border-image",
+      "url": "https://css-tricks.com/animating-css-border-image/",
+      "source": "CSS-Tricks",
+      "published_iso": "2026-08-10T15:58:47Z",
+      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg",
+      "excerpt": "Border-image slices can run across an entire element border, and animating them produces effects that are hard to get any other way. A craft technique agents almost never reach for on their own.",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "A concrete craft technique that generated UI never reaches for — usable the same afternoon."
+    },
+    {
+      "rank": 5,
+      "title": "Bring Animated Maya Scenes To Blender & UE5 Instantly",
+      "url": "https://80.lv/articles/move-animated-maya-scenes-to-blender-ue5-in-one-click",
+      "source": "80 Level",
+      "published_iso": "2026-08-10T13:33:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49666/images/6a79d3382bcf7/contain_1200x630.jpg",
+      "excerpt": "MableLink moves animated Maya scenes into Blender and Unreal Engine 5 in one click, with materials carried over and live re-sync on the Pro tier. Interchange friction is one of the least glamorous but most expensive costs in a 3D pipeline.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "One-click Maya→Blender/UE5 transfer with live re-sync removes a daily, expensive interchange tax; second render pick so it takes a distinct palette accent."
     }
   ]
 }

@@ -1,134 +1,109 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "science",
-  "selected_count": 5,
+  "count": 5,
+  "selection_mode": "curator_auto",
+  "note": "User deferred (\"알아서\"). Dedup backstop re-applied by hand against sections.science in news_data.json: today (2026-08-10, 5 cards) + days 08-05, 08-06, 08-07, 08-08, 08-09 (25 cards) = 30 published science cards, all URLs and story cores checked. One candidate dropped as a content-level duplicate: Phys.org 'Sixteen AI-designed viruses' is the same Stanford/Arc Institute Science paper already published on 2026-08-08 as science-ai-designed-phage-genome (Scientific American, different outlet, same event) — backfilled with the next-best surviving candidate. Also passed over Tech Xplore/KIST A2SG spiking-NN (topically adjacent to the 08-09 KAIST memtransistor low-power on-device card and would have pushed Tech Xplore to 2 outlets), Phys.org typhoon wave-height PINN (weather-forecast adjacency to the 08-07 WeatherNext card, lower actionability), STAT and Psychology Today (both AI-in-healthcare commentary, third and fourth items of the same cluster), and The Quantum Insider barren-plateau piece (oldest in pool, 07-28). Diversity guard satisfied: 5 distinct outlets (MIT News, Tech Xplore, MIT Technology Review, Medical Xpress, EurekAlert/Wake Forest), max 1 per outlet, and a spread of subdomains (simulation/physics, cognition/HCI, research automation, mental health, clinical bio). All picks share the single `science` category, so each gets a distinct accent from the sources.json palette.",
   "picks": [
     {
       "rank": 1,
-      "title": "First AI-driven telescope opens a new era of stargazing",
-      "url": "https://phys.org/news/2026-07-ai-driven-telescope-stargazing.html",
-      "source": "Phys.org",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "category": "science",
-      "subdomain": "astro",
+      "title": "AI models simulate a wider range of real-world scenarios",
+      "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+      "source": "MIT News",
+      "published_iso": "2026-08-10T14:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-GeoPT-01-press.jpg",
+      "excerpt": "MIT's GeoPT is a pretraining method that gives simulation models a working feel for physics and geometry before task training. It generalizes to unseen scenarios like crash tests and aerodynamics while needing up to 60% less training data.",
       "tool": "Science",
+      "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg",
-      "excerpt": "Northwestern, University of Chicago and Fermilab researchers deployed the first AI system that decides where a telescope points, scheduling Dark Energy Camera observations on the Blanco 4-meter telescope and adapting in real time to weather and seeing.",
-      "rationale": "First time an AI holds the pointing decision on a major telescope — observation scheduling stops being a human queue and becomes a live control loop."
+      "rationale": "Freshest, most concrete result in the pool: pretraining a simulator on geometry and physics first cuts training data by up to 60% and generalizes to crash and aero cases, which is exactly the bottleneck that keeps AI simulation out of everyday product design."
     },
     {
       "rank": 2,
-      "title": "Cleveland Clinic and IBM researchers create quantum machine learning framework to predict neoantigen immune response",
-      "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-07-30T00:00:00Z",
-      "category": "science",
-      "subdomain": "quantum",
+      "title": "AI model captures how humans read, paving the way for personalized text",
+      "url": "https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-10T09:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-reinforc.jpg",
+      "excerpt": "Aalto University trained a reinforcement-learning model of human reading whose attention decisions matched real eye-tracking data, published in Nature Human Behaviour. The team says it explains rather than mimics reading, opening the door to per-reader text layout and AR displays.",
       "tool": "Science",
+      "category": "science",
       "accent": "#0070f3",
       "motif": "cube",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png",
-      "excerpt": "Cleveland Clinic and IBM researchers built Q-CHIPP, a quantum machine learning framework that beats classical methods at predicting which tumor mutations trigger an immune response under data-limited conditions.",
-      "rationale": "A rare concrete claim of quantum ML advantage where it should matter most — small, expensive biological datasets rather than benchmark-scale data."
+      "rationale": "A model that explains rather than imitates eye movement turns typography and layout into something you can simulate per reader — the most directly design-actionable science item of the week, and Nature Human Behaviour gives it weight."
     },
     {
       "rank": 3,
-      "title": "AI framework rooted in cognitive science plans more efficiently at a fraction of the energy",
-      "url": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-08-08T00:00:00Z",
-      "category": "science",
-      "subdomain": "mind-cognition",
+      "title": "AI agents for science: why reasoning beats more data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-08-10T09:30:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg",
+      "excerpt": "The argument: AI for science has to move past data-hungry models like AlphaFold toward reasoning agents that use tools, revise as evidence arrives, and mirror how research actually proceeds. Agents drastically reduce the need for scarce, specialized scientific datasets.",
       "tool": "Science",
+      "category": "science",
       "accent": "#7928ca",
       "motif": "frame",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-inspired-plannin.jpg",
-      "excerpt": "A cognitive-science-inspired AI framework built on cognitive maps solves planning problems more efficiently and with far lower energy use than conventional deep neural networks.",
-      "rationale": "Argues the planning win comes from borrowing the brain's cognitive-map representation rather than from scaling — a different lever than bigger models."
+      "rationale": "Names the shift the last two weeks of lab-automation stories have been circling — from scaling datasets to agents that reason with tools — and lands the day after DeepMind wound down the AlphaFold team, giving the argument unusual timing."
     },
     {
       "rank": 4,
-      "title": "US National Science Foundation putting $380 million into building self-driving labs",
-      "url": "https://www.chemistryworld.com/news/us-national-science-foundation-putting-380-million-into-building-self-driving-labs/4023958.article",
-      "source": "Chemistry World",
-      "published_iso": "2026-07-28T13:29:00+01:00",
-      "category": "science",
-      "subdomain": "research-automation",
+      "title": "Q&A: AI chatbot use for mental health is surging among teens",
+      "url": "https://medicalxpress.com/news/2026-08-qa-ai-surging-mental-health.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-08-04T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/mental-health-ai.jpg",
+      "excerpt": "Harvard researchers report AI chatbot use for mental health among 12-21 year olds jumped from about 1 in 8 to nearly 1 in 5 in a single year. Most users tell neither parents nor clinicians, even though general-purpose chatbots are unvalidated for this use.",
       "tool": "Science",
+      "category": "science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "og_image": "",
-      "excerpt": "The US National Science Foundation is putting $380 million into AI-enabled autonomous laboratories, including a $20 million NC State-led 'self-driving' chemistry lab aimed at cutting molecular discovery from years to weeks.",
-      "rationale": "National-scale funding turns autonomous labs from demos into standing infrastructure, resetting the baseline for how discovery work gets staffed and run."
+      "rationale": "One in eight to nearly one in five teens in a single year, mostly hidden from parents and clinicians — a hard number showing general-purpose chatbots have already become de facto mental-health products without being designed or validated as such."
     },
     {
       "rank": 5,
-      "title": "They changed their minds on AI. Who's next?",
-      "url": "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/",
-      "source": "STAT News",
-      "published_iso": "2026-08-05T00:00:00Z",
-      "category": "science",
-      "subdomain": "bio",
+      "title": "AI model detects three types of cardiac dysfunction from a standard ECG",
+      "url": "https://www.eurekalert.org/news-releases/1139241",
+      "source": "EurekAlert (Wake Forest University School of Medicine)",
+      "published_iso": "2026-08-04T13:00:00Z",
+      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/36e731f1-06d8-497d-bfb2-f3a22e079103/Rendition/low-res/Content/Public",
+      "excerpt": "Wake Forest researchers trained an AI model that reads standard ECGs to detect three types of cardiac dysfunction, including heart failure with preserved ejection fraction that routine care often misses. It held up on single-lead data of the kind wearables capture.",
       "tool": "Science",
+      "category": "science",
       "accent": "#eb367f",
       "motif": "headset",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_RamyFarid-645x645.png",
-      "excerpt": "Schrodinger CEO Ramy Farid, a longtime physics-based-simulation partisan in drug design, explains what changed his mind about where machine learning now fits in computational discovery.",
-      "rationale": "A leading physics-first holdout publicly redrawing the line between simulation and ML — the clearest signal yet of where computational drug design settles."
+      "rationale": "The result that matters is the single-lead finding: it holds on the kind of trace a smartwatch already records, which moves an underdiagnosed heart-failure screen from the clinic onto the wrist."
     }
   ],
-  "dedup": {
-    "checked_against": "news_data.json sections.science (today 2026-08-09 + days 2026-08-04..2026-08-08, 30 published cards)",
-    "verified_no_url_collision": true,
-    "content_dedup_notes": [
-      {
-        "url": "https://thequantuminsider.com/2026/07/30/cleveland-clinic-and-ibm-researchers-create-quantum-machine-learning-framework-to-predict-neoantigen-immune-response/",
-        "note": "Same outlet and same publish date as the already-published 2026-08-06 card 'quantum circuits for drug molecules' (Quantinuum/NVIDIA/Pfizer), but a different event, different institutions and a different core topic (immune-response prediction vs circuit synthesis). Kept as distinct."
-      },
-      {
-        "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
-        "note": "Not a URL/content duplicate, but the section already carries four AI-and-mathematics cards in the last five days (Erdos problems, Jacobian counterexample, two cryptography proofs, AI reasoning). Deprioritized on sub-domain saturation, not dedup."
-      }
-    ],
-    "dropped_or_not_selected": [
-      {
-        "url": "https://medicalxpress.com/news/2026-08-qa-ai-surging-mental-health.html",
-        "reason": "Strong runner-up, but mind-cognition was already represented and the section has repeatedly covered AI-and-human-cognition/medical-AI framing (skill atrophy, AI scribes, medical AI expertise gap)."
-      },
-      {
-        "url": "https://medicalxpress.com/news/2026-08-ai-psychiatry-cases-human-oversight.html",
-        "reason": "Same outlet and same date as the item above (content-hub pair); also overlaps the already-published 'AI scribes in medical education' and 'medical AI expertise gap' ground."
-      },
-      {
-        "url": "https://www.scientificamerican.com/article/hank-green-ai-controversy-raises-questions-for-science-communicators/",
-        "reason": "Science-communication culture story; low actionability for research method, and it is AI-discourse rather than AI advancing science."
-      },
-      {
-        "url": "https://allenai.org/blog/tutormoments",
-        "reason": "Good eval work, but a third mind-cognition item and narrower than the cognitive-maps framework already selected."
-      }
-    ]
-  },
-  "diversity_check": {
-    "outlets": {
-      "Phys.org": 1,
-      "The Quantum Insider": 1,
-      "Tech Xplore": 1,
-      "Chemistry World": 1,
-      "STAT News": 1
+  "dropped": [
+    {
+      "url": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
+      "reason": "content dup — same Stanford/Arc Institute Science paper on 16 AI-designed bacteriophages already published 2026-08-08 as science-ai-designed-phage-genome (Scientific American)"
     },
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "subdomain_spread": [
-      "astro",
-      "quantum",
-      "mind-cognition",
-      "research-automation",
-      "bio"
-    ],
-    "accents_unique": true,
-    "motifs_unique": true
-  }
+    {
+      "url": "https://techxplore.com/news/2026-08-neuromorphic-ai-technique-usher-era.html",
+      "reason": "not a dup, but topically adjacent to the 08-09 KAIST memtransistor low-power on-device card; also would have made Tech Xplore a 2-card outlet"
+    },
+    {
+      "url": "https://phys.org/news/2026-08-coupled-ai-physics-typhoon-height.html",
+      "reason": "AI weather forecasting already carried by the 08-07 DeepMind WeatherNext card; lower actionability, held back"
+    },
+    {
+      "url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/",
+      "reason": "third item of the same AI-in-healthcare commentary cluster; STAT already ran on 08-05 and 08-06 in this section"
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/the-architecture-of-identity/202608/a-clinicians-field-guide-to-vetting-ai-mental-health-tools",
+      "reason": "same mental-health-AI topic as the Medical Xpress teen chatbot pick, narrower clinician-only audience"
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
+      "reason": "would have made Medical Xpress a 2-card outlet inside an already mind-cognition-heavy pool"
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
+      "reason": "oldest item in the pool (07-28) and narrow; The Quantum Insider already ran on 08-06 and 08-10"
+    }
+  ]
 }

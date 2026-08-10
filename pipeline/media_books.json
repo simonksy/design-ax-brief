@@ -1,32 +1,39 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "books",
   "media": [
     {
-      "id": "books-bisg-ai-agenda",
+      "id": "books-pulitzer-ai-disclosure",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/books-bisg-ai-agenda.svg"
+      "src": "pipeline/media/books-pulitzer-ai-disclosure.png"
     },
     {
-      "id": "books-asian-publishers-week-seoul",
+      "id": "books-cope-no-ai-clause",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/books-asian-publishers-week-seoul.png"
+      "src": "pipeline/media/books-cope-no-ai-clause.jpg"
     },
     {
-      "id": "books-novel-to-ai-film",
+      "id": "books-cheap-models-first",
+      "kind": "video",
       "type": "video",
-      "src": "pipeline/media/books-novel-to-ai-film.mp4",
-      "poster": "pipeline/media/books-novel-to-ai-film.jpg"
+      "src": "pipeline/media/books-cheap-models-first.mp4",
+      "poster": "pipeline/media/books-cheap-models-first.jpg"
     },
     {
-      "id": "books-ai-participation-layer",
-      "type": "image",
-      "src": "pipeline/media/books-ai-participation-layer.jpg"
+      "id": "books-opus5-for-novelists",
+      "kind": "video",
+      "type": "video",
+      "src": "pipeline/media/books-opus5-for-novelists.mp4",
+      "poster": "pipeline/media/books-opus5-for-novelists.jpg"
     },
     {
-      "id": "books-pope-leo-ai-encyclical",
-      "type": "image",
-      "src": "pipeline/media/books-pope-leo-ai-encyclical.png"
+      "id": "books-95-percent-ai-chapter",
+      "kind": "video",
+      "type": "video",
+      "src": "pipeline/media/books-95-percent-ai-chapter.mp4",
+      "poster": "pipeline/media/books-95-percent-ai-chapter.jpg"
     }
   ]
 }

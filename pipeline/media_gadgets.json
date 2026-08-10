@@ -1,31 +1,58 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-apple-watch-rethink",
+      "id": "gadgets-apple-reference-image",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/gadgets-apple-watch-rethink.jpg"
+      "src": "pipeline/media/gadgets-apple-reference-image.jpg",
+      "origin": "in-article lead image",
+      "source_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg",
+      "width": 1600,
+      "height": 800
     },
     {
-      "id": "gadgets-ryzen-npu-binned",
+      "id": "gadgets-meta-muse-glimmer",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/gadgets-ryzen-npu-binned.jpg"
+      "src": "pipeline/media/gadgets-meta-muse-glimmer.jpg",
+      "origin": "in-article lead image",
+      "source_url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg",
+      "width": 1600,
+      "height": 900
     },
     {
-      "id": "gadgets-gemini-home-storytime",
+      "id": "gadgets-norecognition-pattern",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-home-storytime.jpg"
+      "src": "pipeline/media/gadgets-norecognition-pattern.jpg",
+      "origin": "in-article lead image",
+      "source_url": "https://techcrunch.com/wp-content/uploads/2026/08/patterns-example-norecognition.jpg",
+      "width": 1346,
+      "height": 898
     },
     {
-      "id": "gadgets-wacom-movinkpad-11",
-      "type": "image",
-      "src": "pipeline/media/gadgets-wacom-movinkpad-11.jpg"
+      "id": "gadgets-hoverair-versa",
+      "kind": "video",
+      "type": "video",
+      "src": "pipeline/media/gadgets-hoverair-versa.mp4",
+      "poster": "pipeline/media/gadgets-hoverair-versa.jpg",
+      "origin": "embedded YouTube source video (HoverAir Versa teaser)",
+      "source_url": "https://www.youtube.com/watch?v=eWNhu7JzLRM",
+      "width": 1280,
+      "height": 720,
+      "duration": 8.0
     },
     {
-      "id": "gadgets-kata-friends-paywall",
+      "id": "gadgets-home-assistant-intent-triggers",
+      "kind": "image",
       "type": "image",
-      "src": "pipeline/media/gadgets-kata-friends-paywall.jpg"
+      "src": "pipeline/media/gadgets-home-assistant-intent-triggers.jpg",
+      "origin": "in-article lead image",
+      "source_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-3.jpg",
+      "width": 1600,
+      "height": 1066
     }
   ]
 }

@@ -1,11 +1,37 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "movies",
   "media": [
-    {"id": "movies-wb-ai-dog-podcast", "type": "image", "src": "pipeline/media/movies-wb-ai-dog-podcast.jpg"},
-    {"id": "movies-ae-ai-assistant", "type": "video", "src": "pipeline/media/movies-ae-ai-assistant.mp4", "poster": "pipeline/media/movies-ae-ai-assistant.jpg"},
-    {"id": "movies-roku-fairground", "type": "image", "src": "pipeline/media/movies-roku-fairground.png"},
-    {"id": "movies-araki-post-ai", "type": "image", "src": "pipeline/media/movies-araki-post-ai.jpg"},
-    {"id": "movies-asphalt-guerrilla", "type": "image", "src": "pipeline/media/movies-asphalt-guerrilla.jpg"}
+    {
+      "id": "movies-runway-short-film-workflow",
+      "kind": "video",
+      "type": "video",
+      "src": "pipeline/media/movies-runway-short-film-workflow.mp4",
+      "poster": "pipeline/media/movies-runway-short-film-workflow.jpg"
+    },
+    {
+      "id": "movies-disney-ilm-pixar-ai",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/movies-disney-ilm-pixar-ai.jpg"
+    },
+    {
+      "id": "movies-promise-touch-grass",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/movies-promise-touch-grass.jpg"
+    },
+    {
+      "id": "movies-asteria-zerospace",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/movies-asteria-zerospace.jpg"
+    },
+    {
+      "id": "movies-hbo-max-shorts",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/movies-hbo-max-shorts.jpg"
+    }
   ]
 }

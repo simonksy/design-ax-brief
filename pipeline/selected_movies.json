@@ -1,87 +1,68 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "movies",
-  "selected_by": "curator (user deferred)",
+  "count": 5,
+  "dedup_note": "Checked against sections.movies today (2026-08-10) + days 2026-08-05..09 (30 published cards). Dropped 2 candidates: (1) IndieWire 'AI dogs podcast' — same event as today's published Variety card movies-wb-ai-dog-podcast (Warner Bros. DogPack promo); (2) Curious Refuge 'NVIDIA's World Model is the Future' — same source + same core topic as the published 2026-08-05 card movies-seedance-nvidia (NVIDIA Cosmos world model breakdown). Backfilled with the next-best surviving candidates. Final 5 = 5 distinct outlets, no repeated URL.",
   "picks": [
     {
+      "title": "Creating an AI Short Film (Full Workflow) | Runway",
+      "url": "https://www.youtube.com/watch?v=TM8hd2lnrEk",
+      "source": "Runway (YouTube)",
+      "published_iso": "2026-08-10T15:39:26Z",
+      "og_image": "https://i.ytimg.com/vi/TM8hd2lnrEk/maxresdefault.jpg",
+      "excerpt": "Runway walks through an end-to-end short-film build inside its toolset, from reference and shot planning to generation, extension and assembly. A rare start-to-finish look at how a generative short is actually structured rather than a feature teaser.",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/",
-      "source": "Variety",
-      "published_iso": "2026-08-08T23:41:56Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-08-Aug-2026-04-28-PM-6403.jpg?crop=0px%2C54px%2C1200px%2C675px&resize=1000%2C563",
-      "excerpt": "Warner Bros. built a campaign for the Anne Hathaway/Ewan McGregor sci-fi film 'The End of Oak Street' around an AI-generated talking-dog podcast. A studio marketing department using generative video as a first-class promo format, not a test.",
-      "rationale": "A major studio shipping generative video as the centerpiece of a real theatrical campaign — the clearest signal yet of where AI video actually lands in a marketing brief."
+      "rationale": "Highest actionability in the pool — a full, reproducible short-film pipeline from the vendor itself, not a feature teaser."
     },
     {
+      "title": "ILM and Pixar Named in Disney's AI Push as Cost Cuts Continue",
+      "url": "https://www.awn.com/news/ilm-and-pixar-named-disneys-ai-push-cost-cuts-continue",
+      "source": "Animation World Network",
+      "published_iso": "2026-08-06T00:57:43Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/twdc1b_0.jpg?itok=WF9YUtiA",
+      "excerpt": "An SEC filing shows Disney funding machine learning at Disney Research Studios and Imagineering, with ILM and Pixar named, and promising a creative process that stays 'human-centered.' The pledge lands after job reductions at Pixar and the creation of an internal AI oversight body.",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "url": "https://www.provideocoalition.com/after-effects-portal-july-2026/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-07-31T18:57:38Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/insider-tips-after-effects.jpg-1024x576.jpg",
-      "excerpt": "Rich Young's monthly After Effects roundup covers the beta AI Assistant that automates physics animation and layer management via natural language, plus the third-party AI tools reshaping motion work. A survey of what actually shipped into AE this month.",
-      "rationale": "Most directly actionable pick — the AE AI Assistant beta and the tools around it change a motion designer's timeline work tomorrow, with no studio-scale prerequisites."
+      "rationale": "Disclosed in an SEC filing, so it is the hardest evidence yet of where AI sits inside ILM and Pixar's actual production org."
     },
     {
+      "title": "Promise AI Developing Horror Feature 'Touch Grass'; Dave Clark Directing",
+      "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/",
+      "source": "Deadline",
+      "published_iso": "2026-08-10T14:06:11Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Touch-Grass-1.jpg?w=1024",
+      "excerpt": "AI studio Promise is developing an original horror feature with 'Backrooms' filmmaker Dave Clark directing, produced with Bloody Disgusting. It is another test of whether a generative-first pipeline can carry a full narrative feature rather than a short.",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "source": "The Verge",
-      "published_iso": "2026-08-07T18:59:46Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&strip=all&crop=0%2C2.3735501218774%2C100%2C95.252899756245&w=1200",
-      "excerpt": "Roku has launched Fairground, a free ad-supported channel of fully AI-generated programming, and the viewing experience is grim. An early read on what happens when generative video is scheduled as linear television.",
-      "rationale": "First mainstream distributor to schedule all-AI programming as linear TV — a hands-on verdict on how generative video holds up at broadcast length, not clip length."
+      "rationale": "Same-day news that moves the generative-first pipeline from short-form proof to a financed narrative feature with a genre partner attached."
     },
     {
+      "title": "AI Studio Asteria Strikes Strategic Partnership With Virtual Production Studio ZeroSpace",
+      "url": "https://variety.com/2026/biz/news/ai-studio-asteria-strikes-strategic-partnership-zerospace-1236825083/",
+      "source": "Variety",
+      "published_iso": "2026-07-31T15:54:13Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/07/32.png?w=1000&h=563&crop=1",
+      "excerpt": "Generative studio Asteria is tying its 'clean' model pipeline to ZeroSpace's virtual production stage, volumetric capture and mocap facilities. The deal points at a hybrid workflow where live capture and generative shots are built in the same production.",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "url": "https://deadline.com/2026/08/gregg-araki-not-supporter-ai-useful-editing-i-want-your-sex-1237015578/",
-      "source": "Deadline",
-      "published_iso": "2026-08-02T22:40:52Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/08/10.jpg?w=1024",
-      "excerpt": "Gregg Araki, no fan of AI, describes the one place it earned its keep on 'I Want Your Sex': a specific editing problem he could not solve any other way. A concrete craft account rather than a position statement.",
-      "rationale": "An AI skeptic naming the exact edit-room problem the tools solved — a usable boundary line for directors deciding where AI belongs in post."
+      "rationale": "A licensed-model studio bolting onto a real volumetric/mocap stage is the concrete shape of the hybrid capture-plus-generation workflow."
     },
     {
+      "title": "HBO Max Dips Toe Into Vertical Video With 'HBO Max Shorts' and New AI-Driven Features",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-shorts-vertical-video-new-ai-driven-features-1236658099/",
+      "source": "The Hollywood Reporter",
+      "published_iso": "2026-07-28T15:23:29Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/Conversational_Search_group_PR-1-H-2026.jpg?w=1296&h=730&crop=1",
+      "excerpt": "HBO Max is launching a vertical 'Shorts' feed alongside AI-driven conversational search and discovery features. A streamer reformatting premium catalogue for vertical playback changes the framing and cutdown work asked of editors and promo teams.",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-08-08T06:00:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Asphalt-Guerrilla-film-still-1-Bando-a-Parte-H-2026.webp?w=969&h=545&crop=1",
-      "excerpt": "Portuguese auteur Edgar Pera discusses 'Asphalt Guerrilla,' premiering at Locarno, which blends fact, fiction and AI-generated imagery into a story about filmmaking. He explains how he uses AI as a craft tool precisely to argue against it.",
-      "rationale": "A festival premiere that uses generative imagery as authored material with a stated position — the rare case where the AI is the argument, not the shortcut."
+      "rationale": "A premium streamer adding a vertical feed plus AI discovery changes the reframing and cutdown briefs editors and promo teams get next."
     }
-  ],
-  "dedup": {
-    "checked_against": "sections.movies today (2026-08-09) + days 2026-08-04 .. 2026-08-08",
-    "url_level_dropped": 0,
-    "content_level_dropped": 1,
-    "notes": "Published movies history (BAFTA AI clause, MZed/CineD AI masking, Google Flow Sessions, Curious Refuge xAI test, Higgsfield likeness deals, Kok Boru, Stranger Things VFX, IndieWire x a16z, Snapchat AI ban, Curious Refuge NVIDIA Cosmos 3 Super, Blender 5 / Silhouette / Resolve 21 reviews, Reply AI Film Festival, YouTube slop policy, NVIDIA synthetic video detector, SAGA attribution, ChikaBOOM, Greenlight Coverage, Adobe plugin in ChatGPT, Brevidy, Disney x TikTok, Beeble SwitchX, Ed Catmull jury, Autodesk Flow Studio, Runway x Seedance 2.5, MiniMax bootlegs, SIGGRAPH 2026 recap, Eli Roth) shares no URL or event with these five. Content-level drop: Curious Refuge's NVIDIA world-model video (4JgSwNaLpts) repeats the NVIDIA Cosmos world-model story already published on 2026-08-05 from the same channel. Per the one-per-channel cap, the remaining Curious Refuge item (BMqBiAG0p-8 shot breakdown) was held as the next alternate rather than displacing a higher-scoring, more distinct story."
-  },
-  "diversity": {
-    "outlets": {
-      "Variety": 1,
-      "ProVideo Coalition": 1,
-      "The Verge": 1,
-      "Deadline": 1,
-      "The Hollywood Reporter": 1
-    },
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "subtopics": [
-      "studio marketing",
-      "post-production tooling",
-      "distribution / streaming",
-      "editing craft",
-      "festival / auteur practice"
-    ]
-  },
-  "not_selected_notes": "Dropped as AI-business noise or lower actionability: Asteria x ZeroSpace partnership (deal news), Nolia studio launch (company formation), Disney SEC filing naming ILM/Pixar (cost cuts / corporate strategy), Locarno Pro program preview (overlaps THR pick's festival angle, same outlet), Wonder Dynamics founders interview (Todorovic/Flow Studio ground already covered on 2026-08-08), Cartoon Brew Epic Spaceman profile (strong but evergreen craft profile — first alternate), Curious Refuge shot breakdown (channel cap), Curious Refuge NVIDIA world model (content duplicate)."
+  ]
 }

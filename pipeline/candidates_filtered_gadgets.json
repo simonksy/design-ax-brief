@@ -1,46 +1,163 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "gadgets",
-  "now_iso": "2026-08-09T22:00:29Z",
+  "now_iso": "2026-08-10T22:01:00Z",
   "window_hours": 336,
-  "count": 22,
-  "note": "WIDE gadgets funnel restricted to plan.allowed_domains of the single `gadgets` category. ACCESS NOTES: theverge.com, cnet.com, zdnet.com, wired.com, pcmag.com and arstechnica.com are rejected outright by WebSearch (blocked user agent) and contributed nothing; techradar.com/computing/artificial-intelligence, xda-developers.com/latest, slashgear.com/tech and pcworld.com/category/laptops listing pages 404 to WebFetch, so those outlets were reached via WebSearch + section pages + direct article fetch. Every published_iso was pulled directly off the page (curl -> og:article:published_time or JSON-LD datePublished), never from a search snippet; all 22 printed FRESH via pipeline/freshness.py against the 336h window. KEYWORDS EXPANDED beyond the plan queries: first pass on Gemini-for-Home / Alexa+ / AI TV / humanoid-robot / AI-toy queries returned mostly pre-window evergreen pages, so I swept outlet section pages directly (engadget /tag/ai, 9to5google, androidauthority /news, gizmodo /tech, techradar /news/archive/2026/08, techcrunch /category/hardware, notebookcheck news, roadtovr, androidcentral, macrumors, pcworld) and added sibling terms: AI-generated lockscreen clocks, Proactive Assistance, conversation capture / AI voice notes, binned NPUs, GPU-core binning, FCC robot-vacuum rules, AI transcription earbuds, screenless watch form factors, Ballie app UI. EXCLUDED per skip_recent_topics: EU/US smart-glasses camera bans (TechRadar 08-06), MemoMind One (Road to VR 08-07), Apple 'Ultra' trio rumor (MacRumors 08-07/08-09), Conduit brain-data headband (Gizmodo 08-06), Viture Pro 2 (Road to VR 08-06), Gemini overlay on Wear OS (9to5Google 08-06), Nest Cam July update. DE-EMPHASIZED but kept once: the OpenAI ring-shaped smart speaker price report — kept only the Engadget item, dropped the near-duplicate Gizmodo and TechCrunch versions. DROPPED as stale (verified pre-window): XDA local-AI mini-PC pieces (2026-05-21, 06-02, 07-07), Tom's Guide Viaim RecDot (05-07) and Acer TransBuds (2025-05-21), Android Central Stream Ring (2025-11-16) and Gemini-for-Home fix (04-01), Engadget/Digital Trends Copilot-on-TV stories (2025-08-27, 2025-12-15), TechRadar Samsung TV personality (2025-11-13), Tom's Guide 1X Neo (2025-10-30). DROPPED for weak design/craft relevance or AI-business noise: SK Hynix fab spend, memory-shortage pricing stories, Garmin Fenix 9 leak, Nvidia MSRP retail piece, Meta public-nuisance ruling, data-center hearings, AI-virus/cybersecurity items. Per-outlet cap of 3 enforced: Android Authority 3, 9to5Google 3, Gizmodo 2, TechCrunch 2, TechRadar 2, Notebookcheck 2, Road to VR 2, Engadget 1, Android Central 1, SlashGear 1, MacRumors 1, PCWorld 1, Digital Trends 1 — 13 distinct outlets. Topic spread: smart home & assistants (Google Home Gemini update, Ballie UI leak, Alexa churn, OpenAI speaker), robots & robovacs (robovac roadmap, FCC rules), wearables/hearables (AI transcription earbuds, screenless/round Apple Watch), AI PCs & silicon (binned NPUs, GPU binning), smart glasses/XR (gold AI glasses, budget Ray-Ban clones, URXR One, Apple fitness glasses), phones & on-device AI (Pixel 11 hardware + Proactive Assistance + AI lockscreen clocks + conversation capture), creator hardware (Wacom MovinkPad 11, Kindle Scribe Colorsoft), companion device (SwitchBot Kata Friends AI pet). Social: Instagram skipped per run instructions; YouTube surfaced no verifiable in-window gadget item.",
+  "count": 24,
+  "note": "WIDE gadgets funnel, all 24 items on plan.allowed_domains for the single `gadgets` category. ACCESS: WebSearch rejects theverge.com, cnet.com, zdnet.com, wired.com, arstechnica.com and pcmag.com outright (blocked user agent), so those outlets contributed nothing. With 7 librarians sharing the search quota, keyword WebSearch on the plan queries returned mostly evergreen/CES-2026 pages, so after 8 searches I switched to sweeping the RSS/Atom feeds of 23 allowed_domains directly and filtered on AI x hardware terms inside the 336h window. Every published_iso was read off the article page itself (og:article:published_time -> JSON-LD datePublished -> <time datetime>); PCWorld exposes only a body-text date (August 10, 2026), recorded conservatively as 00:00Z. All 24 printed FRESH via pipeline/freshness.py against the 336h window. KEYWORDS EXPANDED beyond the plan: Gemini Intelligence, HiLight LED, Proactive Assistance, Muse Glimmer on-device model, camera-less display glasses, photo provenance/C2PA, adversarial anti-surveillance pattern, self-flying gimbal drone, window-cleaning robot, natural-language Home Assistant automations, Siri voice customization, Qwen-on-Siri. DROPPED as already published in the live deck: 9to5Google AI-generated lockscreen clocks (08-06) and Road to VR MemoMind One (08-07). DROPPED for AI-business/politics noise per instructions: hyperscaler $2T hardware commitments, AMD/Nvidia data-center and RAM-pricing stories, AI data-center bans and protests, FCC drone bans, Sergey Brin tax story, cybersecurity/ransomware items, rogue-agent gym-booking cycle. DROPPED as stale (verified pre-window): Rokid Glasses review (04-20), Vocci Ring (05-08), Snapdragon X2 mini PC (06-02), Snap Specs (06-16), Xreal Aura (06-17), Meta 4-glasses memo (06-01), Roborock CES lineup (01-06), SwitchBot K20+ Pro (2025-06-11), UW AI earbuds (04-14), Samsung One UI 9 stable + AI dashboard (07-22), Engadget Pixel 11 preview (07-27T18:30Z, just outside the window). DOWNWEIGHTED per rotation notes: Viture Pro 2, Meta Ray-Ban Display, Gemini for Home, SwitchBot Kata Friends, Garmin Cirqa, Gemma-4 offline translator. Per-outlet cap enforced (<=3): The Register 3, Android Authority 3, 9to5Google 2, Road to VR 2, Tom's Hardware 2, 9to5Mac 2, Digital Trends 2, and 1 each from MacRumors, Gizmodo, TechCrunch, PCWorld, Samsung Newsroom, SamMobile, Android Central, XDA Developers - 15 distinct outlets. Topic spread: smart glasses (Register craft essay + venue camera ban, Apple fitness glasses, URXR One monitor glasses, Samsung Intelligent Eyewear design interview), on-device AI silicon/PCs (Meta Muse Glimmer local model, Acer Swift Go 16 AI, Acer TravelMate P2 14 AI, Snapdragon-vs-Tensor), phones & assistants (Pixel 11 Gemini Intelligence leaks, HiLight LED, Proactive Assistance, One UI 9.5, Siri voice customization, Siri-Qwen in China), AI cameras & imaging (iPhone photo provenance, HoverAir Versa self-flying gimbal, TechCrunch adversarial anti-detection pattern), home & robots (Ecovacs Winbot W2S Pro, XDA natural-language Home Assistant, Ford in-car AI assistant, ChatGPT bedside speaker critique), wearables (Gemini overlay on Wear OS). SOCIAL: Instagram skipped (login-walled, unverifiable timestamps); YouTube surfaced no verifiable in-window gadget item within the search budget.",
   "items": [
     {
-      "url": "https://www.androidauthority.com/google-home-update-august-5-2026-3695072/",
-      "source": "Android Authority",
+      "url": "https://www.xda-developers.com/home-assistant-automations-read-english-rewrote-ones-been-scared-touch/",
+      "source": "XDA Developers",
       "category": "gadgets",
-      "published_iso": "2026-08-06T03:20:24Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg",
-      "excerpt": "Google Home's first August update is packed with useful new features, including AI Storytelling, improved alarms, and lots more.",
-      "title": "Google Home kicks off August with big app updates and a smarter Gemini for Home"
+      "published_iso": "2026-08-10T21:00:10Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-3.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Intent-based triggers replace years of automation guesswork.",
+      "title": "Home Assistant automations finally read like plain English, so I rewrote the ones I"
     },
     {
-      "url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
+      "url": "https://www.androidauthority.com/meta-muse-glimmer-3696698/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-08-07T17:58:34Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-camera-close-up.jpg",
-      "excerpt": "What feels like the next evolution of Magic Cue looks like it's preparing to debut with Google's upcoming Pixel 11 series.",
-      "title": "Google puts the finishing touches on Proactive Assistance ahead of Pixel 11 launch"
+      "published_iso": "2026-08-10T20:03:02Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg",
+      "excerpt": "Meta’s Muse Glimmer is a 30B AI model made to run locally on your PC.",
+      "title": "Meta’s latest AI model wants to live on your PC"
     },
     {
-      "url": "https://www.androidauthority.com/google-conversation-capture-3696029/",
+      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T19:49:55Z",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "References included in iOS 27 beta 5 point to a new feature designed to authenticate the camera source of an iPhone photo.",
+      "title": "Apple is working on a way to authenticate that a photo came from an iPhone camera"
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/10/the-new-ios-27-beta-further-expands-siri-voice-customization-options/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T18:21:52Z",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-voice-expressivity-pace-ios-27-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "iOS 27 beta 5 has further expanded the new Siri voice customization options. In earlier betas, the new Pace and...",
+      "title": "The new iOS 27 beta further expands Siri voice customization options"
+    },
+    {
+      "url": "https://gizmodo.com/winbot-w2s-pro-omni-window-cleaning-2000795673",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T16:30:10Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/Winbot-W2S-Pro-Omni-bottom-1200x675.jpg",
+      "excerpt": "The WInbot W2S Pro comes with higher suction, better edge cleaning, and upgraded navigation.",
+      "title": "Ecovacs Has a New Robot Excuse Not to Clean Your Windows With Your Hands"
+    },
+    {
+      "url": "https://www.digitaltrends.com/cars/fords-new-ai-assistant-saves-you-from-googling-that-dashboard-warning-light/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T16:11:50Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/Ford-AI-assistant-screenshot-on-mobile.jpg?resize=1200%2C630",
+      "excerpt": "Ford's new AI assistant, live today in the Ford and Lincoln apps, answers real questions about your specific vehicle using live telemetry, with a full in-car version planned for 2027.",
+      "title": "Ford’s new AI assistant saves you from googling that dashboard warning light"
+    },
+    {
+      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-11-pro-xl-leak-shows-off-matte-black-finish-and-hilight-led-days-before-launch",
+      "source": "Android Central",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T13:44:23Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XZqsmUQaEz43kPqdKEW4La-2048-80.jpg",
+      "excerpt": "This Pixel 11 Pro XL leak is your first real look at Google",
+      "title": "Pixel 11 Pro XL leak shows off matte black finish and"
+    },
+    {
+      "url": "https://www.theregister.com/personal-tech/2026/08/10/wetherspoons-bars-smart-glasses-from-filming-customers/5285357",
+      "source": "The Register",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T13:20:00Z",
+      "og_image": "https://image.theregister.com/257009.jpg?imageId=257009&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "Pub chain says turn off the cameras, reminds punters not to blare sound from phone vids either",
+      "title": "Wetherspoons bars smart glasses from filming customers"
+    },
+    {
+      "url": "https://www.tomshardware.com/laptops/acer-swift-go-16-ai-amd-gorgon-point-review",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T13:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4wWJKSLM5ZsY2PgLZrtTnP-2560-80.jpg",
+      "excerpt": "Don’t expect the best performance or battery life, but there’s still a lot to like, especially if you can get it for its $799 sale price.",
+      "title": "Acer Swift Go 16 AI (AMD Gorgon Point) Review: A balanced, affordable, big-screen portable"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T12:21:04Z",
+      "og_image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+      "excerpt": "Apple briefly published a support guide in China explaining how Mac users can connect Alibaba's Qwen AI to Siri and Writing Tools, before pulling it entirely less than a day later. Reuters first spotted the Chinese-language guide on Apple's support site on August 8, which explained how eligible Mac users in mainland China could connect Qwen, Alibaba's family of generative AI models, to Siri and Wr",
+      "title": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI"
+    },
+    {
+      "url": "https://www.sammobile.com/news/samsung-early-testing-one-ui-9-5-galaxy-s26-plus-ultra/",
+      "source": "SamMobile",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T11:29:31Z",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/05/One-UI-9-Android-17-Galaxy-S26.jpg",
+      "excerpt": "One UI 8.5 development for the Galaxy S25 series didn't begin until mid-September last year, so Samsung is moving faster this time around.",
+      "title": "Samsung starts early testing of One UI 9.5 for Galaxy S26 series"
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/drones/hoverair-unveils-the-versa-modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-modular-camera-transforms-into-an-auto-tracking-drone-by-magnetically-snapping-together-for-instant-palm-launch-and-ai-tracking",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T11:20:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/6rbXH8xkrGzGsJ2eFK9XPb-1600-80.webp",
+      "excerpt": "Two birds with one stone.",
+      "title": "HoverAir unveils the Versa modular pocket gimbal camera that transforms into a self-flying drone — Modular camera transforms into an auto-tracking drone by magnetically snapping together for instant palm launch and AI tracking"
+    },
+    {
+      "url": "https://www.theregister.com/columnists/2026/08/10/smart-glasses-are-only-smart-if-we-train-them-to-be-good-then-theyll-be-fantastic/5284545",
+      "source": "The Register",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T08:30:00Z",
+      "og_image": "https://image.theregister.com/5284570.jpg?imageId=5284570&x=0&y=12.5&cropw=100&croph=71.67&panox=0&panoy=12.5&panow=100&panoh=71.67&width=1200&height=683",
+      "excerpt": "Just add smart humans – and a pinch of dog",
+      "title": "Smart glasses are only smart if we train them to be good. Then they"
+    },
+    {
+      "url": "https://www.pcworld.com/article/3204236/acer-travelmate-p2-14-review.html",
+      "source": "PCWorld",
+      "category": "gadgets",
+      "published_iso": "2026-08-10T00:00:00Z",
+      "og_image": "https://www.pcworld.com/wp-content/uploads/2026/08/3204236-0-70834600-1786370440-IMG_8623-rotated-1.jpeg?quality=50&strip=all&w=1024",
+      "excerpt": "The Acer TravelMate P2 14 AI isn’t a bad laptop. It's actually good. But there's cheaper laptops out there that can deliver better performance, battery life, and value.",
+      "title": "This Acer laptop is stuck in an awkward spot"
+    },
+    {
+      "url": "https://www.digitaltrends.com/home-theater/im-already-surrounded-by-ai-i-dont-need-chatgpt-living-beside-my-bed/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-08-09T18:45:28Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2023/01/apple-homepod-2023-review-13.jpg?resize=1200%2C630",
+      "excerpt": "I happily use ChatGPT on my phone and laptop, but giving an AI companion permanent eyes and ears inside my home asks for a different level of trust.",
+      "title": "I’m already surrounded by AI. I don’t need ChatGPT living beside my bed"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-08-09T14:00:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?resize=1151,1200",
+      "excerpt": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+      "title": "This 'adversarial' pattern can prevent surveillance cameras from detecting you | TechCrunch"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-pixel-not-better-snapdragon-3691461/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-08-07T17:41:15Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/11/Android_Bot_looking_at_Pixel_Recorder_app.jpg",
-      "excerpt": "Android Authority has seen evidence that Google's working on a new voice recording app called Conversation Capture.",
-      "title": "Forget Recorder — Google's working on a new AI-powered voice notes tool"
-    },
-    {
-      "url": "https://9to5google.com/2026/08/08/google-pixel-11-pro-xl-hands-on-leak/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-08-08T16:15:00Z",
-      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-matte-black-leak-3.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "With just a few days left to go before Google’s Pixel 11 launch event, a hands-on leak has shown off...",
-      "title": "Pixel 11 Pro XL shows up in hands-on leak days ahead of launch [Gallery]"
+      "published_iso": "2026-08-09T09:00:49Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2020/10/Google-Pixel-5-standing-up-back-on-table-2.jpg",
+      "excerpt": "Google switched from Snapdragon to Tensor chips for its Pixel phones years ago, but here's why a return to Qualcomm isn't the best idea.",
+      "title": "A Snapdragon-powered Pixel might sound amazing. Here's why it's a terrible idea"
     },
     {
       "url": "https://9to5google.com/2026/08/08/pixel-11-all-of-the-last-minute-leaks-video/",
@@ -52,88 +169,34 @@
       "title": "Pixel 11: All of the last-minute leaks [Video]"
     },
     {
-      "url": "https://gizmodo.com/the-company-behind-ugly-gold-phones-is-now-making-ugly-gold-smart-glasses-2000795594",
-      "source": "Gizmodo",
+      "url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-08-06T20:20:19Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/caviar-1200x675.jpg",
-      "excerpt": "Caviar, the luxury customizer known for gold-plated iPhones, is now selling a gold-plated take on AI smart glasses — a reminder that AI eyewear is already splitting into fashion-object and utility-device camps.",
-      "title": "The Company Behind Ugly Gold Phones Is Now Making Ugly Gold Smart Glasses"
+      "published_iso": "2026-08-07T17:58:34Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-camera-close-up.jpg",
+      "excerpt": "What feels like the next evolution of Magic Cue looks like it's preparing to debut with Google's upcoming Pixel 11 series.",
+      "title": "Google puts the finishing touches on Proactive Assistance ahead of Pixel 11 launch"
     },
     {
-      "url": "https://gizmodo.com/switchbot-kata-friends-ai-pet-review-useless-if-you-dont-pay-up-2000789267",
-      "source": "Gizmodo",
+      "url": "https://9to5google.com/2026/08/06/gemini-overlay-wear-os/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-08-02T12:30:54Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-main-1200x675.jpg",
-      "excerpt": "A hands-on with SwitchBot's Kata Friends desktop AI pet: cute companion hardware whose personality and memory sit behind a subscription, exposing how AI gadget makers are pricing emotion as a service.",
-      "title": "SwitchBot Kata Friends AI Pet Review: Useless if You Don't Pay Up"
+      "published_iso": "2026-08-07T03:10:33Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-Wear-OS-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "Gemini on Wear OS is getting a new overlay design that takes after Neural Expressive on Android phones to boost cross-device consistency.",
+      "title": "New Gemini overlay for Wear OS rolling out to Pixel Watch"
     },
     {
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "source": "TechCrunch",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "source": "The Register",
       "category": "gadgets",
-      "published_iso": "2026-08-07T21:20:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/Wacom-Movinkpad.webp?w=564",
-      "excerpt": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-      "title": "Wacom's MovinkPad 11 is a fun, midpriced entry point for digital artists"
+      "published_iso": "2026-08-06T20:05:00Z",
+      "og_image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "Early tech demos show model-specific integrated circuits churning out up to 17,000 tokens a second",
+      "title": "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon"
     },
     {
-      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-08-08T16:00:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/kindle-scribe-colorsoft.jpg?resize=1200,900",
-      "excerpt": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size. ",
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have"
-    },
-    {
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/budget-meta-ray-ban-alternatives-are-selling-out-in-stores-but-please-dont-buy-them",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-08-04T20:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HvQHUDBQ3y38W4k2cpbW9a-2000-80.jpg",
-      "excerpt": "Please don’t buy cheap Meta Ray-Ban alternatives.",
-      "title": "Budget Meta Ray-Ban alternatives are selling out in stores — but please don't buy them"
-    },
-    {
-      "url": "https://www.techradar.com/home/robot-vacuums/i-took-a-deep-dive-into-the-future-of-robot-vacuums-heres-what-the-biggest-brands-have-cooking-from-from-e-t-style-limbs-to-full-humanoid-home-helpers",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-07-28T21:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/cLZy68esSMPTCMr5AqmMPN-1920-80.jpg",
-      "excerpt": "They sweep, they mop, they vacuum, and some even clean themselves afterwards — so where's next for robovacs?",
-      "title": "I grilled the biggest robot vacuum brands about what's next — from E.T.-style arms to humanoid home helpers"
-    },
-    {
-      "url": "https://www.notebookcheck.net/No-Ryzen-AI-AMD-launches-Ryzen-5-439-and-Ryzen-7-449-with-binned-NPUs.1364296.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-08-09T15:40:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ryzen_400.jpg",
-      "excerpt": "AMD has launched two new laptop chips, the Ryzen 5 439 and Ryzen 7 449, that quietly drop the NPU and the Ryzen AI branding found on their closest siblings.",
-      "title": "No Ryzen AI: AMD launches Ryzen 5 439 and Ryzen 7 449 with binned NPUs"
-    },
-    {
-      "url": "https://www.notebookcheck.net/Everybody-s-binning-MediaTek-and-Qualcomm-both-quietly-cut-GPU-cores-for-cheaper-flagships.1363949.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-08-09T12:16:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/IMG_20260809_191403.png",
-      "excerpt": "GPU binning is quietly becoming the go-to move for cheaper flagship chips, with MediaTek and Qualcomm both cutting GPU cores while leaving CPU and NPU specs untouched.",
-      "title": "Everybody's binning: MediaTek and Qualcomm both quietly cut GPU cores for cheaper flagships"
-    },
-    {
-      "url": "https://www.roadtovr.com/unseen-reality-urxr-one-xr-glasses-funded/",
-      "source": "Road to VR",
-      "category": "gadgets",
-      "published_iso": "2026-08-05T12:41:55Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/urxr.jpg",
-      "excerpt": "Unseen Reality’s crowdfunding campaign for URXR One surpassed $500,000 within 24 hours of launch yesterday, showing clear demand for the company’s first slim and light mixed reality glasses. URXR One was only asking for $50,000 as its initial funding goal when it launched yesterday—admittedly low for an XR hardware project—although it handily blew past in […]",
-      "title": "'URXR One' Mixed Reality Glasses Kickstarter Passes $500K in First 24 Hours"
-    },
-    {
-      "url": "https://www.roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
+      "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
       "source": "Road to VR",
       "category": "gadgets",
       "published_iso": "2026-08-04T12:09:26Z",
@@ -142,54 +205,27 @@
       "title": "Apple is Reportedly Eyeing Fitness as the Killer App for Future Smart Glasses"
     },
     {
-      "url": "https://www.androidcentral.com/accessories/smart-home/wait-samsungs-ballie-isnt-gone-its-app-ui-mightve-leaked",
-      "source": "Android Central",
+      "url": "https://roadtovr.com/xr-glasses-unseen-reality-kickstarter/",
+      "source": "Road to VR",
       "category": "gadgets",
-      "published_iso": "2026-07-30T18:56:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/PZ7Ro2xyyD6yFS2E5uMgYk-2560-80.jpg",
-      "excerpt": "Samsung's Ballie returned surprisingly, as its app design AI reportedly leaked online.",
-      "title": "Remember Ballie? We almost didn't, but this leak shows off its app"
+      "published_iso": "2026-07-31T12:30:44Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/07/urxr-lrg.jpg",
+      "excerpt": "Unseen Reality announced its upcoming display-replacing XR glasses, URXR One, is set to launch a Kickstarter on August 4th. URXR are essentially made for users specifically looking for a display replacement. Focused on displaying traditional content, like flatscreen games, film and spreadsheets, the MR glasses boast long-term user comfort thanks to 6DOF and 3DOF modes, […]",
+      "title": "These XR Glasses Want to Be the Monitor You Wear All Day - Kickstarter Coming August 4th"
     },
     {
-      "url": "https://www.slashgear.com/2230607/reasons-people-ditching-alexa-devices/",
-      "source": "SlashGear",
+      "url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-intelligent-eyewear-the-first-step-toward-the-next-mobile-ai-interface",
+      "source": "Samsung Newsroom",
       "category": "gadgets",
-      "published_iso": "2026-08-09T19:15:00Z",
-      "og_image": "https://www.slashgear.com/img/gallery/4-reasons-why-people-ditch-their-alexa-devices/l-intro-1785910076.jpg",
-      "excerpt": "Why do people ditch their Alexa devices? We explore the top 4 reasons, including privacy concerns, intrusive advertisements, and performance quirks.",
-      "title": "4 Reasons Why People Ditch Their Alexa Devices"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/08/09/apple-watch-rethink/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-08-09T15:37:14Z",
-      "og_image": "https://images.macrumors.com/t/RdbYQo8geJeeGtMJCti_NSWhfcg=/1600x/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg",
-      "excerpt": "Apple is re-evaluating the Apple Watch lineup and considering a host of radical new designs, according to Bloomberg's Mark Gurman. In today's edition of his \"Power On\" newsletter, Gurman compared plans for the Apple Watch's evolution to the \"revolutionary design change\" that the foldable iPhone represents. It will be \"something that transforms the product for a new era\".",
-      "title": "Apple Watch Rethink Could See Debut of Round Model, Screenless Fitness Tracker, and More"
-    },
-    {
-      "url": "https://www.pcworld.com/article/3203877/the-fcc-just-changed-the-rules-for-robot-vacuums-heres-what-it-means-for-yours.html",
-      "source": "PCWorld",
-      "category": "gadgets",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://www.pcworld.com/wp-content/uploads/2026/08/3203877-0-39256300-1786116297-Xiaomi-Robot-Vacuum-5-Pro-05.jpeg?quality=50&strip=all&w=1024",
-      "excerpt": "The U.S. just put new restrictions on advanced robots, and your next robot vacuum could be affected.",
-      "title": "The FCC just changed the rules for robot vacuums. Here’s what it means for yours"
-    },
-    {
-      "url": "https://www.digitaltrends.com/home-theater/viaim-recdot-review/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-07-30T21:15:20Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/07/Viaiam-RecDot-6.jpg?resize=1200%2C630",
-      "excerpt": "The Viaim RecDot earbuds deliver pleasing sound, passable noise cancellation, reliable battery, and most importantly, the convenience of one-touch AI transcription.",
-      "title": "Viaim RecDot Review: AI Earbuds That Transcribe and Take Notes"
+      "published_iso": "2026-07-30T23:00:00Z",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/07/30160657/Samsung-Mobile-Galaxy-Unpacked-July-2026-Intelligent-Eyewear-Interview_Thumb932.jpg",
+      "excerpt": "On July 22 at Galaxy Unpacked July 2026, Samsung Electronics introduced intelligent eyewea",
+      "title": "[Interview] [Galaxy Unpacked July 2026] Intelligent Eyewear: The First Step Toward the Next Mobile AI Interface - Samsung Global Newsroom"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 20,
+    "dropped": 0,
+    "kept": 24,
     "against_days": 5
   }
 }

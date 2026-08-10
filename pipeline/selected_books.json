@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "books",
   "picks": [
     {
@@ -7,106 +7,126 @@
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101010-new-bisg-head-lays-out-priorities.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Incoming BISG executive director Allison Belan says AI 'was the first thing that came up in virtually every conversation' with members and now tops the standards body's agenda. A second industry-wide AI survey lands in fall 2026, aimed at pushing publishers from debate to concrete implementation.",
-      "rationale": "The body that writes publishing's metadata and supply-chain standards is putting AI at the top of its agenda — whatever it codifies becomes the disclosure and workflow rules every publisher has to implement."
+      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-10-2026/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-08-10T08:54:17Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "A record eight Pulitzer winners and finalists disclosed AI use in their 2026 submissions, and administrator Marjorie Miller says future book entry forms will carry an AI-disclosure question. The same roundup has HarperCollins saying AI will expand audiobook voices and sound effects and drive its international translation programme.",
+      "rationale": "The most prestigious prize in American letters is about to put an AI-disclosure box on its book entry form — that turns disclosure from etiquette into a submission requirement authors and editors have to answer."
     },
     {
       "rank": 2,
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "url": "https://publishingperspectives.com/2026/08/applications-still-open-for-koreas-asian-publishers-week-2026/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Asian-Publishers-Week.png",
-      "excerpt": "The Korea Publishers Society has extended applications for Asian Publishers Week (Seoul, November 3-6), themed 'Publishing in the Era of AI: Between Crisis and Opportunity.' It is the region's biggest scheduled forum on how AI is reshaping editorial, rights and production practice across Asian markets.",
-      "rationale": "An open application with a live deadline, hosted in Seoul, on exactly the AI-and-publishing question this section tracks — directly actionable for Korean editors and rights teams."
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/10/new-guidance-from-cope-an-interview-with-natalie-ridgway/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-08-10T09:30:56Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2224569687.jpg",
+      "excerpt": "COPE's new Code of Conduct and Core Principles deliberately contain no AI-specific clauses: Ridgway says AI tools and AI-detection tools are changing so fast that named references 'would risk being outdated by the time it was published.' Instead publishers are told to handle AI through general ethics principles and their own house policies.",
+      "rationale": "Publishing ethics' reference standard just decided NOT to name AI — which pushes the burden of writing an AI policy back onto every individual publisher and editor, starting now."
     },
     {
       "rank": 3,
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "url": "https://www.youtube.com/watch?v=IEi44Dmn9rM",
-      "source": "The Nerdy Novelist (YouTube)",
-      "published_iso": "2026-07-31T12:00:27Z",
-      "og_image": "https://i.ytimg.com/vi/IEi44Dmn9rM/maxresdefault.jpg",
-      "excerpt": "Jason Hamilton walks through his full pipeline for adapting his own novel into an AI-generated film — scripting, character consistency, shot generation and edit — as a marketing and IP-extension play for indie authors. A concrete look at where book craft meets generative video production.",
-      "rationale": "A step-by-step, reproducible pipeline an indie author can run this week to turn a backlist title into video marketing — the most hands-on item in the pool."
+      "url": "https://www.youtube.com/watch?v=3NRTlv_vQOY",
+      "source": "Future Fiction Academy (YouTube)",
+      "published_iso": "2026-08-03T23:00:20Z",
+      "og_image": "https://i.ytimg.com/vi/3NRTlv_vQOY/maxresdefault.jpg",
+      "excerpt": "After a 24-hour AI writing challenge the hosts found their default model order was backwards: run cheap models for ideation, outlining and bulk drafting, then spend premium tokens only on final prose passes. A cost-and-quality routing pattern for book-length AI workflows.",
+      "rationale": "A concrete model-routing rule anyone drafting a book with AI can apply tomorrow — cheap models up front, premium tokens only on the prose pass — with a measured cost and quality payoff."
     },
     {
       "rank": 4,
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-07-30T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Wendy Queen and Jonathan Woahn note the scholarly community has twice built the foundational layer only to watch commercial platforms own what sat on top of it. AI participation in scholarship is the third chance — and the terms have to be set collaboratively before the layer hardens.",
-      "rationale": "Frames the AI-infrastructure decision scholarly publishers are making right now as an ownership question with a closing window — a strategy argument with a deadline, not a think piece."
+      "url": "https://www.youtube.com/watch?v=es-EGrWfJeg",
+      "source": "Novelcrafter (YouTube)",
+      "published_iso": "2026-08-02T03:56:45Z",
+      "og_image": "https://i.ytimg.com/vi/es-EGrWfJeg/maxresdefault.jpg",
+      "excerpt": "Novelcrafter benchmarks Opus 5 against its predecessors and its Sonnet and Fable siblings on actual fiction drafting, weighing the price jump against prose quality. A practical model-selection guide for novelists running AI inside a story-bible workflow.",
+      "rationale": "A hands-on Opus 5 benchmark on real fiction drafting inside a story-bible tool — it answers the 'is the price jump worth it' question writers are asking this week."
     },
     {
       "rank": 5,
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-07-31T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png",
-      "excerpt": "Pope Leo XIV's May encyclical on artificial intelligence is drawing unusual praise across the book trade for its argument that AI must stay human-centred and be brought under real regulatory oversight. Publishing bodies are now citing it as moral cover in licensing and training-data fights.",
-      "rationale": "Publishing trade bodies are actively citing the encyclical in licensing and training-data advocacy — it is becoming a rhetorical instrument in negotiations, not just commentary."
+      "url": "https://www.youtube.com/watch?v=HT94dPtKAhI",
+      "source": "Future Fiction Academy (YouTube)",
+      "published_iso": "2026-08-05T17:00:30Z",
+      "og_image": "https://i.ytimg.com/vi/HT94dPtKAhI/maxresdefault.jpg",
+      "excerpt": "At a book fair a chapter that was 95% AI-written drew one question from a major imprint's buyers: how did you get it this good? Not whether it was AI — a concrete data point on how acquisition conversations are shifting from provenance to craft outcome.",
+      "rationale": "A first-hand acquisition-side data point that reframes the week's provenance panic: the buyer asked about craft, not about the tool — useful counterweight to the disclosure stories above."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json sections.books — today (2026-08-09) + days 2026-08-04..2026-08-08 (22 published cards)",
+    "checked_against": "news_data.json sections.books — today (2026-08-10, 5 cards) + days 2026-08-05..2026-08-09 (25 cards) = 30 published cards, all read directly from the file",
     "published_urls_reviewed": [
-      "https://www.youtube.com/watch?v=2pJqxijuCTA",
-      "https://www.youtube.com/watch?v=zclrdrwsD-M",
-      "https://janefriedman.com/european-unions-ai-act-requires-transparency-around-specific-types-of-ai-generated-content/",
-      "https://www.youtube.com/watch?v=61voMQvOFNE",
-      "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
-      "https://selfpublishingadvice.org/ai-in-self-published-amazon-books/",
-      "https://goodereader.com/blog/audiobooks/harpercollins-is-betting-big-on-ai-audiobooks",
-      "https://www.thebookseller.com/news/numerous-authors-of-colour-facing-ai-speculation-hard-to-ignore-as-trade-debates-trend",
-      "https://scholarlykitchen.sspnet.org/2026/08/07/guest-post-do-we-need-revolution-in-peer-review/",
-      "https://janefriedman.com/update-on-substacks-ai-detection-using-pangram/",
-      "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html",
-      "https://publishingperspectives.com/2026/08/digital-science-launches-ai-native-researcher-workspace/",
-      "https://www.imaeil.com/page/view/2026073011241784143",
-      "https://www.hankyung.com/article/2026072937931",
-      "https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/",
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101010-new-bisg-head-lays-out-priorities.html",
+      "https://publishingperspectives.com/2026/08/applications-still-open-for-koreas-asian-publishers-week-2026/",
+      "https://www.youtube.com/watch?v=IEi44Dmn9rM",
+      "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
+      "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
+      "https://www.thebookseller.com/news/it-was-inevitable-agents-react-to-major-book-deal-that-collapsed-over-suspected-ai-use",
+      "https://publishingperspectives.com/2026/08/around-the-book-world-august-3-2026/",
+      "https://publishingperspectives.com/2026/08/legal-battle-over-u-s-copyright-chief-heats-up-again/",
       "https://janefriedman.com/chatgpt-blocks-requests-to-imitate-specific-writers-styles/",
       "https://www.thebookseller.com/news/ai-generated-stories-rated-higher-than-human-written-ones-in-new-study",
       "https://www.theguardian.com/commentisfree/2026/aug/05/anthropic-ai-destroying-books",
       "https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/",
       "https://www.thebookseller.com/news/tor-bramble-backs-h-m-wolfe-after-ai-detection-claims-over-daggermouth",
-      "https://www.thebookseller.com/news/it-was-inevitable-agents-react-to-major-book-deal-that-collapsed-over-suspected-ai-use",
-      "https://www.booksandpublishing.com.au/articles/2026/08/03/335882/local-secondhand-booksellers-suspect-ai-companies-behind-orders/",
-      "https://publishingperspectives.com/2026/08/around-the-book-world-august-3-2026/",
-      "https://publishingperspectives.com/2026/08/legal-battle-over-u-s-copyright-chief-heats-up-again/",
-      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
-      "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/"
+      "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html",
+      "https://publishingperspectives.com/2026/08/digital-science-launches-ai-native-researcher-workspace/",
+      "https://www.imaeil.com/page/view/2026073011241784143",
+      "https://www.hankyung.com/article/2026072937931",
+      "https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/",
+      "https://selfpublishingadvice.org/ai-in-self-published-amazon-books/",
+      "https://goodereader.com/blog/audiobooks/harpercollins-is-betting-big-on-ai-audiobooks",
+      "https://www.thebookseller.com/news/numerous-authors-of-colour-facing-ai-speculation-hard-to-ignore-as-trade-debates-trend",
+      "https://scholarlykitchen.sspnet.org/2026/08/07/guest-post-do-we-need-revolution-in-peer-review/",
+      "https://janefriedman.com/update-on-substacks-ai-detection-using-pangram/",
+      "https://www.youtube.com/watch?v=2pJqxijuCTA",
+      "https://www.youtube.com/watch?v=zclrdrwsD-M",
+      "https://janefriedman.com/european-unions-ai-act-requires-transparency-around-specific-types-of-ai-generated-content/",
+      "https://www.youtube.com/watch?v=61voMQvOFNE",
+      "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html"
     ],
-    "already_published_matches": [],
+    "already_published_matches": [
+      {
+        "url": "https://selfpublishingadvice.org/podcast-literary-agents-update-ethics-rules/",
+        "reason": "CONTENT duplicate on all three of its components: the AALA Canon of Ethics rewrite was published 2026-08-05 as books-aala-ethics-code-ai (Publishing Perspectives 'Around the Book World, Aug 3'); the seven-figure deal shelved over an AI allegation was published 2026-08-05 as books-agents-cannot-authenticate (The Bookseller); and the 14,419-title Chakrabarty study was published 2026-08-08 as books-amazon-ai-study (ALLi). Dropped despite being a different outlet/URL."
+      },
+      {
+        "url": "https://selfpublishingadvice.org/a-tale-of-two-seven-figure-deals/",
+        "reason": "CONTENT duplicate of the same two acquisitions already covered: the publisher that walked away = books-agents-cannot-authenticate (The Bookseller, 2026-08-05) and the publisher that stood by its author = books-daggermouth-publisher-backing (Tor Bramble / H.M. Wolfe, The Bookseller, 2026-08-06). Also a within-pool duplicate of the ALLi 8/7 item above."
+      },
+      {
+        "url": "https://janefriedman.com/links-of-interest-august-5-2026/",
+        "reason": "Link roundup whose two AI items are both already covered — Princeton University Press x Cashmere AI licensing was published in the prior window, and the Cashmere/AI-participation argument ran 2026-08-10 as books-ai-participation-layer (The Scholarly Kitchen, co-authored by Cashmere's Jonathan Woahn). No standalone new reporting left after dedup."
+      }
+    ],
     "near_miss_checks": [
-      "Scholarly Kitchen 'Third Time is NOT the Charm' (2026-07-30, AI infrastructure ownership in scholarship) is NOT the 2026-08-08 card books-peer-review-revolution (2026-08-07 peer-review guest post) nor the 2026-08-06 card books-published-voice-ai (2026-08-05 author-voice post) — different authors, different arguments, different URLs.",
-      "PW 101010 (BISG standards agenda) is NOT PW 101002 (Brian Murray / HarperCollins AI authorship, published 2026-08-07) nor PW 100926 (Media Transformation Summit, published 2026-08-09) — different articles and different subjects, despite the shared PW outlet.",
-      "Publishing Perspectives Asian Publishers Week is NOT the 2026-08-05 card books-aala-ethics-code-ai (the Aug 3 'Around the Book World' roundup) — the roundup does not carry the Seoul event.",
-      "Nerdy Novelist 'Novel Into an AI Film' (IEi44Dmn9rM) is NOT the 2026-08-09 card books-ai-text-tells (zclrdrwsD-M) — same channel, different video and unrelated topic; shared channel branding is not a duplicate."
+      "Publishing Perspectives 'Around the Book World: August 10, 2026' is NOT the 2026-08-05 card books-aala-ethics-code-ai, which points at the Aug 3 edition of the same weekly column (different URL, different week, different stories — Pulitzer AI disclosure is new). Same series is not the same story.",
+      "The HarperCollins line inside that Aug 10 roundup overlaps the 2026-08-08 card books-harpercollins-ai-audiobooks (Good e-Reader), but it is a secondary item in a roundup whose lede — the record eight Pulitzer entrants disclosing AI and the coming entry-form question — has not been published. The card will be framed on the Pulitzer angle.",
+      "Scholarly Kitchen COPE interview (2026-08-10) is NOT books-ai-participation-layer (SK 7/30 guest post, published today), NOT books-peer-review-revolution (SK 8/07), NOT books-published-voice-ai (SK 8/05) — four different authors, subjects and URLs on one outlet.",
+      "Future Fiction Academy 'Cheap Models First' (3NRTlv_vQOY) and '95% AI Chapter' (HT94dPtKAhI) are distinct videos on distinct topics; FFA has never appeared in this section's 5-day history. Identical channel branding on the thumbnail is not a duplicate signal.",
+      "FFA '95% AI chapter' is NOT the 2026-08-07 card books-harpercollins-human-authorship (PW / Brian Murray) — that is a CEO calling for human-authorship certification; this is a book-fair acquisition anecdote from the opposite direction."
     ],
     "dropped_as_lower_ranked": [
       {
-        "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/100941-the-new-manhattan-project-pw-talks-with-kevin-roose.html",
-        "reason": "Kevin Roose author interview is mostly AGI-race industry framing rather than publishing practice, and it would have made Publishers Weekly a 2-card outlet alongside PW 101010. Dropped as the weakest of the 6 on actionability; also kept the final set at 4 distinct outlets."
+        "url": "https://www.youtube.com/watch?v=5_Auv1WvgKM",
+        "reason": "FFA 'One Author Published 200+ Books With AI. So?' — freshest FFA item, but it is opinion/response rather than new information, and the high-volume AI publishing debate was already covered 2026-08-09 in books-pw-ai-still-not-easy (Fred Zimmerman's 322 books in six months, 'slop' framing). Also would have pushed FFA to 3 cards, over the 2-per-outlet cap."
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=_eCckkUWYDk",
+        "reason": "Nerdy Novelist 'Why Smart Authors Aren't Worried About AI' — reassurance essay with no new release, data point or reproducible step; lowest novelty and actionability in the surviving pool. The Nerdy Novelist has also run in this section on both 2026-08-09 and 2026-08-10."
       }
     ],
-    "diversity": "5 picks / 4 distinct outlets (Publishers Weekly 1, Publishing Perspectives 2, The Nerdy Novelist/YouTube 1, The Scholarly Kitchen 1) — max 2 per outlet respected. Topic spread: industry standards & metadata, Asia/Korea trade event, indie-author AI video production, scholarly AI infrastructure ownership, AI regulation advocacy.",
-    "pool_note": "Filtered pool held only 6 on-topic items this window (books is genuinely thin); 5 selected, 1 dropped as lower-ranked. No padding, no AI-business-noise items included."
+    "diversity": "5 picks / 4 distinct outlets (Publishing Perspectives 1, The Scholarly Kitchen 1, Future Fiction Academy 2, Novelcrafter 1) — 2-per-outlet cap respected, and no outlet repeated from the 2026-08-10 set except Publishing Perspectives and The Scholarly Kitchen on genuinely different stories. Topic spread: prize/awards disclosure policy, publishing-ethics standards, AI drafting cost routing, model selection for fiction, acquisition-side reception of AI prose. Accents #f5a623 / #0070f3 / #7928ca / #2ec5c5 / #eb367f are all distinct since every pick shares the books category.",
+    "pool_note": "Filtered pool held 10 items. 3 dropped as already-published content duplicates (2 ALLi, 1 Jane Friedman), 2 dropped as lower-ranked after backfill. 5 selected, all previously unpublished in this section, no URL repeated."
   }
 }

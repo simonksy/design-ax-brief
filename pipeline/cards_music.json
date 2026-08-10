@@ -1,250 +1,262 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "music",
   "cards": [
     {
-      "id": "music-reflector",
+      "id": "music-suno-voices-mobile",
       "eyebrow": "AI NEWS",
-      "headline": "화성으로 내 샘플을 뒤지는\n오픈소스 도구 Reflector",
-      "body": "새 소리를 만드는 대신, 내가 이미 가진 라이브러리에서 어울리는 샘플을 찾아준다.",
-      "mini_headline": "화성으로 샘플 찾기",
+      "headline": "내 목소리 복제, 이제 폰에서\n무료로도 열린 Suno Voices",
+      "body": "데스크톱에만 있던 Voices가 폰으로 내려왔고, 무료 이용자에게도 일부 열렸다.",
+      "mini_headline": "목소리 복제가 폰으로",
       "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/08/09/reflector-sample-discovery/",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/suno-brings-its-voice-clone-tool-to-ios-and-android-opens-a-limited-version-to-free-users/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/reflector-728x364.jpg",
-            "cap": "Reflector — 라이브러리를 화성 관계로 훑는 오픈소스 샘플 탐색 워크스테이션"
+            "src": "https://www.musicbusinessworldwide.com/files/2026/08/Suno_Voices3-e1786325517488.jpg",
+            "cap": "Suno Voices — 자기 목소리를 학습시켜 새 곡을 부르게 하는 기능"
           },
           {
             "t": "p",
-            "x": "작곡가이자 소프트웨어 엔지니어인 Austin Rockman이 무료 오픈소스 샘플 탐색 워크스테이션 Reflector를 공개했다."
+            "x": "Suno가 8월 7일 릴리스 노트에서 보컬 복제 기능 Voices를 iOS와 안드로이드에서 쓴다고 알렸다. 3월 v5.5 모델과 함께 나온 기능인데, 그동안은 데스크톱에서 설정해야 했다."
           },
           {
             "t": "p",
-            "x": "요즘 음악 도구에 머신러닝이 안 들어가는 데가 없다. 그런데 이건 소리를 더 찍어내는 쪽이 아니라 오디오를 다르게 다루게 해주는 쪽이라 눈길이 간다."
+            "x": "쓰는 길은 세 갈래다. 직접 부른 노래를 녹음하거나, 오디오 파일을 올리거나, 자기 Suno 라이브러리에서 트랙을 고른다. 학습에 쓸 보컬은 플랫폼이 따로 뽑아내고, 본인 목소리가 맞는지는 확인 문구를 소리 내어 읽게 해서 검증한다."
           },
           {
             "t": "p",
-            "x": "쓰는 법은 간단하다. 소리가 든 폴더를 지정하면 기기 안에서 분석하고, 그다음부터는 특정 샘플과 잘 붙는 소리나 비슷한 소리를 찾아 들어간다. 폴더 이름이 아니라 화성 관계로 라이브러리를 훑는 셈이다."
+            "x": "무료 이용자도 이제 Voices를 제한적으로 맛본다. 더 쓰려면 업그레이드해야 한다. Pro와 Premier 구독자는 그대로 무제한이다. 만든 목소리는 기본이 비공개라 계정 주인만 꺼내 쓴다."
           },
           {
             "t": "p",
-            "x": "마음에 드는 샘플 하나가 있으면 그것과 화성적으로 맞물릴 만한 다른 소리를 짚어준다. 피치를 옮겼을 때 더 잘 어울리면 이조까지 제안한다."
+            "x": "최근 업데이트가 몰아친 끝자락이기도 하다. iMessage 연동, CarPlay와 Android Auto 지원, 스템 분리 도구 개선이 잇따랐다. AI로 만든 곡을 실물 레코드로 찍어주는 Suno Vinyl 대기자 명단도 열렸다. 가격은 배송비 별도 45달러 안팎으로 잡혀 있다."
           },
           {
             "t": "p",
-            "x": "검색 한 번으로 끝나지도 않는다. DAW 비슷한 타임라인에 샘플을 얹어 대충 배치를 짜두면, 지금 세션에서 벌어지는 일을 보고 다음 제안을 내놓는다."
+            "x": "같은 시기에 Suno는 오디오 워터마킹과 지문 인식을 붙인다고 밝혔다. 스트리밍 플랫폼에서 벌어지는 사기를 잡겠다는 것이고, 대량 유통을 막는 다운로드 정책도 새로 걸었다."
           },
           {
             "t": "p",
-            "x": "Austin은 이걸 DAW 앞 단계라고 부른다. 메인 음악 소프트웨어를 대체하려는 게 아니다. 소리를 던져보고 뭐가 맞는지 살피다가 WAV나 스템으로 빼서 다른 데서 이어가는 자리다."
-          },
-          {
-            "t": "p",
-            "x": "지금은 패드, 건반, 스트링, 신스, 기타, 보컬, 음정 중심이 있는 필드 레코딩처럼 화성을 품은 소재를 겨냥한다. 리듬은 분석하지 않아서 비트 매칭 도구는 아니다."
-          },
-          {
-            "t": "p",
-            "x": "저장한 세션을 3차원 공간에 뿌려 어떤 배치가 화성적으로 이어지는지 보여주는 Galaxy 뷰도 있다. 라이브러리가 크거나 미완성 스케치가 쌓인 사람이라면 여기서 잊고 있던 연결을 다시 찾아낼 만하다."
-          },
-          {
-            "t": "p",
-            "x": "처리는 전부 기기 안에서 돌아가고 오디오와 사용 기록은 밖으로 나가지 않는다. 모델은 저작권 있는 녹음 대신 합성 오디오만으로 학습했다. 가중치와 모델 코드, 학습 파이프라인까지 오픈소스로 열어두고 앞으로도 무료라고 Austin은 못 박았다."
-          },
-          {
-            "t": "p",
-            "x": "1인 개발자의 실험적 소프트웨어답게 거친 구석은 감안해야 한다. 지금은 서명된 macOS 애플리케이션으로 받을 수 있다."
+            "x": "저작권 분쟁은 여전히 여러 갈래로 걸려 있다. 7월 독일 법원은 GEMA 사건에서 침해를 인정했고, 덴마크 Koda의 청구가 따로 있다. 미국에서는 Universal Music Group과 Sony Music이 소송 중인데, 청구 규모가 90억 달러를 넘길 수도 있다."
           }
         ]
       }
     },
     {
-      "id": "music-dreamtonics-tease",
+      "id": "music-unlearning-hub",
       "eyebrow": "AI NEWS",
-      "headline": "인간의 뉘앙스는 스위치가 아니다\nDreamtonics가 남긴 한 줄",
-      "body": "Synthesizer V를 만든 팀이 새 제품을 예고하면서 이 한 줄만 남겼다.",
-      "mini_headline": "뉘앙스는 스위치가 아니다",
+      "headline": "학습한 음악은 지워지지 않는다\n머신 언러닝 리서치 허브",
+      "body": "학습이 끝난 모델에서 특정 곡을 빼는 일은 지금 기술로는 사실상 불가능하다.",
+      "mini_headline": "학습은 지워지지 않는다",
       "tool": "Music",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/dreamtonics-tease-upcoming-release",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/can-ai-unlearn-music-what-musicians-need-to-know/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "yt": "PT6b6jSTtO4"
-          },
-          {
-            "t": "p",
-            "x": "Dreamtonics는 Synthesizer V Studio로 이름을 얻었다. 프로그래밍이 되는 가상 세션 싱어에 가까운 보컬 합성 도구다."
-          },
-          {
-            "t": "p",
-            "x": "뒤이어 나온 Vocoflex는 같은 기술을 플러그인으로 옮겼다. 레퍼런스 목소리 하나, 혹은 여럿의 음색을 다른 목소리에 입히는 물건이다."
-          },
-          {
             "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/d/dreamtonics_coming_soon-QB9i4snX9CWYope6FzEdd8liNh1U46iE.jpg",
-            "cap": "Dreamtonics가 내건 예고 이미지"
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/machine-unlearning-hub.png",
+            "cap": "Machine Unlearning Research Hub — 학습 데이터를 지울 수 있는가를 모아둔 자료실"
           },
           {
             "t": "p",
-            "x": "그 팀이 곧 세상에 내놓을 새 프로젝트를 예고했다. 다만 패는 거의 안 보여줬다. 지금까지 나온 힌트는 \"human nuance is not a switch\"라는 한 문장과 위 영상뿐이라, 상상할 여지가 잔뜩 남는다."
+            "x": "AI 개발사들이 회의적인 뮤지션에게 내미는 안전판이 하나 있다. 음악이 쓰이는 방식이 마음에 안 들면 나중에 빼주겠다는 말이다. MusicTechPolicy의 Chris Castle은 그 약속이 실무에서는 허구에 가깝다고 본다."
           },
           {
             "t": "p",
-            "x": "Sound On Sound가 Dreamtonics에 물어보니 조만간 더 알릴 내용이 있다고 답했다."
+            "x": "학습이 끝난 신경망에서 곡 하나를 지우는 일은, The Trichordist의 표현대로 다 구운 케이크에서 달걀을 도로 꺼내는 격이다. 모델이 트랙을 학습하는 순간 시스템 전체에 걸쳐 수조 개의 내부 수치가 함께 바뀐다."
+          },
+          {
+            "t": "p",
+            "x": "Castle의 말은 이렇다. \"Creators should not assume that a contractual promise to 'remove' works from future training is equivalent to proving that an existing model has actually forgotten them.\" 앞으로의 학습에서 작품을 빼겠다는 계약상 약속과, 이미 만들어진 모델이 실제로 잊었다는 증명은 다른 이야기다."
+          },
+          {
+            "t": "p",
+            "x": "기술이 말하는 바와 실제 사이의 이 간극을 메우려고 그가 Machine Unlearning Research Hub를 열었다."
+          },
+          {
+            "t": "p",
+            "x": "허브는 머신 언러닝을 다룬 동료 심사 논문과 오디오 연구, 정책 분석을 모아두는 공개 자료실이다. 머신 언러닝은 시스템을 처음부터 다시 만들지 않고 특정 학습 데이터만 잊게 만든다는, 아직 이론에 머문 절차를 가리킨다."
+          },
+          {
+            "t": "p",
+            "x": "뮤지션이 이걸 쓸 자리는 넷이다. AI 스타트업이 학습 이후에도 손쉽게 옵트아웃하거나 카탈로그를 지운다고 하면 허브의 연구로 그 말을 검증한다. 소급 삭제가 지금은 되지 않는다는 근거를 들이밀어, 사전 동의와 라이선스 비용이 왜 필수인지 플랫폼에 못 박는다."
+          },
+          {
+            "t": "p",
+            "x": "사후 가지치기나 출력 필터처럼 오디오 언러닝의 실제 진척도 따라간다. 언젠가 진짜 데이터 삭제가 가능해지는지 지켜보는 창이다. 무단 스크래핑을 언러닝으로 덮으면 된다는 주장에 반박할 때는 저작권 논쟁의 근거로도 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "Hypebot의 결론은 짧다. AI 음악 회사와 마주 앉았을 때, 나중에 지워주겠다는 약속과 사전 허락이나 대가를 맞바꾸지 마라. 진짜 머신 언러닝이 가능해지기 전까지는 학습 전에 받아내는 엄격한 동의가 유일한 보호막이다."
+          },
+          {
+            "t": "p",
+            "x": "아티스트의 권리를 단단한 과학 위에 세워, 뮤지션이 가짜 삭제 버튼을 사서 들고 가는 일을 막겠다. Chris Castle과 새 허브가 내건 목표다."
           }
         ]
       }
     },
     {
-      "id": "music-provenance-recipe",
+      "id": "music-headrush-nam",
       "eyebrow": "AI NEWS",
-      "headline": "AI 탐지 대신 세션에서\n출처를 남기자는 제안",
-      "body": "TIDAL이 AI 표기로 로열티를 가르는 지금, 크레딧은 작업 중에 남아야 한다.",
-      "mini_headline": "출처는 세션에서 남긴다",
+      "headline": "커뮤니티가 만든 NAM 캡처를\nHeadRush가 그대로 읽는다",
+      "body": "무료 펌웨어로 HeadRush 모델러가 Tone3000의 NAM 캡처를 읽는다.",
+      "mini_headline": "NAM 캡처가 기본으로",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-trying-to-guess-the-ai-recipe-after-dinner-was-served/",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/guitars/headrush-adds-tone3000-nam-capture",
       "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "TuneCore 전 CEO Andreea Gleeson이 Music Business Worldwide에 쓴 기고문이다. AI를 둘러싼 국면은 이미 상업화 단계로 넘어갔는데 업계는 아직 규칙을 뒤늦게 더듬는다는 진단에서 출발한다."
-          },
-          {
-            "t": "p",
-            "x": "근거로 든 장면은 이렇다. Deezer에는 하루 9만 곡 넘는 AI 트랙이 올라와 신규 업로드의 절반을 넘겼고, TIDAL은 완전히 AI로 만든 녹음을 로열티 대상에서 빼기로 했다. IFPI는 차트 자격 원칙을 내놨고 Spotify와 Universal Music Group은 라이선스를 붙인 AI 도구를 열었다. 입법이 따라오기 전에 시장이 먼저 규칙을 쓰는 중이다."
-          },
-          {
-            "t": "p",
-            "x": "낯선 그림은 아니다. 2007년 YouTube의 Content ID, 2008년 Spotify도 규제보다 시장 표준이 앞섰다. AI가 그 궤도를 그대로 밟는다."
-          },
-          {
-            "t": "p",
-            "x": "Luminate 조사를 보면 미국 뮤지션의 54%가 AI 도구에 긍정적이었다. 뮤지션이 아닌 응답자는 35%. 반대로 청취자의 46%는 AI 목소리로 완전히 새 곡을 만드는 데 거부감을 보였다. 사람의 창작을 거드는 AI와 대체하는 AI를 듣는 쪽도 구분한다는 뜻으로 읽힌다."
-          },
-          {
-            "t": "p",
-            "x": "Gleeson은 AI 음악을 창작, 유통, 귀속, 소비 네 겹으로 나눈다. 위쪽에서 붙잡은 정보가 아래쪽 결과를 그대로 좌우한다."
-          },
-          {
-            "t": "p",
-            "x": "대체 아닌 참여의 사례로는 Robert Owens가 라이선스를 준 AI 목소리 협업, 팬이 만든 리믹스를 합법으로 푸는 Spotify와 Merlin의 제휴를 들었다."
-          },
-          {
-            "t": "p",
-            "x": "핵심 주장은 탐지가 틀린 싸움이라는 것. 저녁을 다 차린 뒤에 레시피를 맞히려 드는 대신, 재료를 넣는 순간에 기록을 남기자는 쪽이다. 유기농 인증이 그렇듯 DAW가 만드는 시점에 믿을 수 있는 메타데이터를 붙이면 된다."
-          },
-          {
-            "t": "p",
-            "x": "AI 라벨이 로열티 분배와 차트 자격을 가르기 시작하면 메타데이터가 곧 돈이 된다. 라벨만 표준화해서는 모자라고, 위쪽에서 검증 가능한 출처가 따라붙어야 한다."
-          },
-          {
-            "t": "p",
-            "x": "그래서 저작권 문제라기보다 상호운용 문제라고 Gleeson은 다시 정의한다. MIDI 2.0 작업이 곡의 생애 전체에 걸쳐 출처를 주고받는 실마리를 보여주고, Peter Brown과 Venable이 참여한 Music Tech Coalition 같은 움직임이 흩어진 시도를 하나의 상업 인프라로 잇는다. 지금 필요한 건 새 기술이 아니라 조율이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-bangalter-ai",
-      "eyebrow": "AI NEWS",
-      "headline": "AI의 창작 활용엔 관심 없다는\n다프트 펑크의 뱅갈테르",
-      "body": "그의 창작은 말로 표현되지 않는 층에서 일어나는데, AI는 프롬프트를 요구한다.",
-      "mini_headline": "뱅갈테르의 거리두기",
-      "tool": "Music",
-      "source": "DJ Mag",
-      "url": "https://djmag.com/news/daft-punks-thomas-bangalter-im-not-really-interested-creative-usage-of-ai",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "Etl79iuZxaU"
-          },
-          {
-            "t": "p",
-            "x": "Thomas Bangalter가 Art Basel에서 CHANEL의 예술·문화·유산 총괄 Yana Peel과 나눈 대담이다. AI 이야기가 나오자 그는 인공지능의 창작 활용에는 별 관심이 없다고 잘라 말했다."
-          },
-          {
-            "t": "p",
-            "x": "걸리는 지점은 도구가 아니라 통로다. AI는 프롬프트로 움직이는데, 창작과 예술을 대하는 자기 관계는 \"mostly happening at a deeper level, which does not express itself through words\", 곧 말로 드러나지 않는 층에서 일어난다고 했다. 언어를 통과해야 하는 방식과는 결이 맞지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "가장 의미 있는 창작은 지적인 표현 바깥, 감정을 이해하는 자리에서 벌어진다고 그는 봤다. 건축을 두고는 허구와 현실을 섞는다는 점에서 아마 모든 예술 형식 가운데 가장 창조적일 거라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "대담에서는 Julien Charrière, Rampa와 함께한 몰입형 작업 Warehouse Artefacts, 다프트 펑크가 남긴 앨범, Andy Warhol과 '메트로폴리스'의 영향, 오케스트라 작곡과 발레 작업까지 오갔다."
-          },
-          {
-            "t": "p",
-            "x": "그의 최근 솔로 앨범 'Mirage — Ballet for 16 Dancers'는 지난 6월에 나왔다. Damien Jalet과 Kōhei Nawa의 동명 발레를 위해 쓴 여덟 트랙짜리다."
-          },
-          {
-            "t": "p",
-            "x": "앞서 그는 다프트 펑크 재결합 기대를 사실상 접었고, 'Tron: Legacy' 사운드트랙 작업은 \"depressing\", \"limiting\"이라고 표현한 바 있다."
-          },
-          {
-            "t": "p",
-            "x": "DJ Mag는 예술이 사람을 봐준다는 감각을 이야기한 Skrillex의 최근 발언을 나란히 놓았다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-suno-breach-suits",
-      "eyebrow": "AI NEWS",
-      "headline": "5,530만 계정 유출로\nSuno에 집단소송 두 건",
-      "body": "매사추세츠 이용자 두 명이 데이터 보관을 문제 삼아 각각 소송을 냈다.",
-      "mini_headline": "Suno 집단소송 두 건",
-      "tool": "Music",
-      "source": "Complete Music Update",
-      "url": "https://completemusicupdate.com/two-class-action-lawsuits-filed-over-sunos-big-data-breach/",
-      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "Suno가 이용자 데이터를 \"negligent and/or reckless\", 그러니까 소홀하거나 무모하게 보관했다며 집단소송 두 건이 들어왔다. 회사가 보안 위험을 알고도 손대지 않았다는 게 원고 주장이다."
+            "x": "HeadRush가 Core와 Prime, Prime Flex용 무료 펌웨어를 풀었다. Neural Amp Modeler 캡처를 기기가 직접 읽고, Tone3000 플랫폼과도 붙는다. 컴퓨터로 변환하거나 서드파티 소프트웨어를 거칠 일 없이 커뮤니티가 만든 \"hundreds of thousands\", 수십만 개의 소리에 손이 닿는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/hvYNSH99RKbotGVsvbRfwX.jpg",
+            "cap": "HeadRush Prime — 이번 펌웨어로 NAM 캡처를 기기에서 직접 불러온다"
           },
           {
             "t": "p",
-            "x": "소송을 낸 쪽은 Suno 이용자 Frank Rugnetta와 Alec Pilavian이다. 둘 다 Suno 본사가 있는 매사추세츠에서 냈고, 피해를 본 미국 이용자 전체를 대표하는 집단소송 지위를 구한다."
+            "x": "MusicRadar는 이 순간을 음악 소비가 뒤집히던 때에 견준다. 아이팟이 디지털 음악을 누구나 손에 쥐게 했듯, 일렉트릭 기타 톤의 유통에서도 비슷한 문턱이 내려앉았다는 얘기다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/Agt9PgN8r6GFvQdMAU8fwN.jpg",
+            "cap": "터치스크린에서 커뮤니티 캡처를 훑어보고 그대로 불러온다"
           },
           {
             "t": "p",
-            "x": "유출은 2025년 11월에 벌어졌고 404 Media 보도로 최근에야 드러났다. 접근된 정보는 Suno 이용자 5,530만 명분으로 이름과 주소, 이메일, 전화번호, 구매 내역, 결제 카드 정보 일부가 들어 있었다."
+            "x": "톤을 나누는 생태계 자체는 새롭지 않다. Positive Grid는 사용자끼리 프리셋을 주고받게 했고, Line 6의 Helix Stadium에는 앰프와 페달을 디지털로 복제하는 Proxy Cloning Engine이 들어 있다. Neural DSP의 Neural Capture는 클라우드로 앰프를 뜬 뒤 커뮤니티에 공유한다."
           },
           {
             "t": "p",
-            "x": "빠져나간 데이터에는 Suno의 소스 코드도 섞여 있었다. 여기서 회사가 Deezer와 Genius, YouTube에서 곡과 가사를 긁어 AI 학습에 썼다는 사실이 드러났다."
+            "x": "차이는 울타리다. 경쟁 플랫폼의 소리는 각자의 생태계 안에 묶여 있는데, HeadRush는 자사 사운드에 오픈소스 Tone3000을 얹었다. 터치스크린에서 커뮤니티 NAM 캡처를 훑어보고 그대로 불러온다. 포맷 변환도, 파일 관리의 번거로움도 없다."
           },
           {
             "t": "p",
-            "x": "Suno는 이용자에게 유출을 정식으로 알린 적이 없다. 보도가 나온 뒤에야 보안 사고가 있었다고 인정했다."
+            "x": "HeadRush는 \"the era of closed tone is over\"라고 못 박았다. Tone3000의 캡처 라이브러리에는 Klon 부스트를 문 '65 Deluxe Reverb 같은 빈티지 앰프 조합과 페달 조합이 쌓여 있고, 그걸 기기에서 바로 꺼내 쓴다. 진입 문턱이 이렇게 낮아지면 업계 전체의 채택도 빨라진다."
+          },
+          {
+            "t": "video",
+            "yt": "0f6CiVLwnp0"
           },
           {
             "t": "p",
-            "x": "소송이 건 청구 원인은 과실, 묵시적 계약 위반, 신의성실 위반, 부당이득이다. 원고들은 사기와 신원 도용, 사생활 침해 위험이 평생 따라붙게 됐다고 말한다."
+            "x": "Blackstar도 같은 길을 먼저 걸었다. 연습용 앰프 Beam Mini와 Beam Solo에 Tone3000 연동과 NAM 지원을 넣었다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-saregama-ai-videos",
+      "eyebrow": "AI NEWS",
+      "headline": "영상 판권 없던 옛 노래에\nAI로 뮤직비디오를 붙인다",
+      "body": "음원만 갖고 영상 판권은 없던 옛 곡에 Saregama가 AI 뮤직비디오를 붙인다.",
+      "mini_headline": "옛 곡에 AI 영상",
+      "tool": "Music",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/saregama-indias-oldest-label-is-using-ai-to-make-music-videos-for-songs-whose-visuals-it-never-owned-and-refresh-its-catalog-for-gen-z/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.musicbusinessworldwide.com/files/2026/08/2-IMAGES-98.jpg",
+            "cap": "Saregama — 인도에서 가장 오래된 레이블이 카탈로그에 AI 영상을 입힌다"
+          },
+          {
+            "t": "p",
+            "x": "1901년 무렵 문을 연 인도에서 가장 오래된 레이블 Saregama가 1960~70년대 영화 음악에 생성형 AI로 뮤직비디오를 만들어 붙인다. RP-Sanjiv Goenka Group 소속으로 녹음과 작곡 권리는 쥐고 있지만, 원래 영상의 권리는 없다. 8월 4일 회계 1분기 실적 발표에서 Vikram Mehra 대표가 이 작업을 공개했다. Saregama Music의 유튜브 채널 구독자는 약 6,400만 명이다."
+          },
+          {
+            "t": "p",
+            "x": "영상이 없는 사정은 단순하다. 영화가 만들어지던 시절에는 시장이 없어 영상을 레이블에 팔지 않았고, 그 화면은 영화사가 쥔 필름 네거티브 안에 갇혔다. 뒤늦게 생긴 경쟁 레이블에는 없는 짐이다. 새로 찍자니 수지가 맞지 않았는데, AI가 단가를 끌어내렸다. Mehra는 \"can be INR 70,000 also\", 7만 루피면 된다고 했다. 약 740달러다."
+          },
+          {
+            "t": "p",
+            "x": "겨냥하는 세대는 둘이다. X세대에게는 원래 오디오를 그대로 두고 요즘 감각의 화면을 얹는다. Z세대에게는 작곡은 건드리지 않고 편곡만 손본 뒤 새 AI 영상을 짝지운다."
+          },
+          {
+            "t": "p",
+            "x": "생성형 AI를 쓰는 두 번째 갈래는 말이다. 서드파티 도구로 팟캐스트에 가까운 오디오를 만들고 자사 카탈로그로 음악을 깐다. 쉰 살 화자가 사랑과 이별, 우정을 노래한 곡을 따라 회상하는 식이다. 다른 팟캐스트 제작사에 라이선스로 넘길 계획도 있다."
+          },
+          {
+            "t": "p",
+            "x": "Mehra는 AI를 두 갈래로 갈랐다. 예측 AI는 4년째 돌리며 판권 확보 판단에 쓰는데 히트와 실패의 비율이 더 좋다고 했고, 생성형 AI는 판 자체를 바꾸는 쪽이라고 봤다. 콘텐츠 확보 예산은 연 300~350크로 루피, 3,160만~3,690만 달러다."
+          },
+          {
+            "t": "p",
+            "x": "권리 쪽 입장도 다시 밝혔다. 라이선스를 받은 혁신은 지지하고, 무단 이용에는 반대한다. 새 디지털 라이선스 계약에는 권리 희석과 사기를 막는 조항을 넣었다. 5월에 Mehra는 스트리밍 서비스가 AI로 만든 음악에 가치를 0으로 매겨야 한다고 말한 바 있다."
+          },
+          {
+            "t": "p",
+            "x": "영화 사업은 접는 중이다. 대신 2025년 12월 3,600만 달러를 넣어 Bhansali Productions 지분을 사고 앞으로 나올 영화 음악의 독점 권리를 확보했다. Z세대와는 2024년 4,500만 달러에 완전히 인수한 Pocket Aces, FilterCopy 스튜디오로 만난다."
+          },
+          {
+            "t": "p",
+            "x": "카탈로그는 약 18만 곡이고 해마다 5,000곡씩 늘어난다. 회계연도 2026년 음악 매출의 60%가 2000년 이후 발표곡에서, 45%가 2020년 이후 곡에서 나왔다. 더 오래된 곡은 레트로 플레이어이자 스트리밍 앱인 Carvaan이 직접 돈으로 바꾼다. 사내 AI 팀은 콘텐츠용과 프로세스용 둘을 새로 짰는데, 추가 지출 없이 기존 예산 안에서 굴린다."
+          },
+          {
+            "t": "p",
+            "x": "회계 1분기 매출은 263.6크로 루피, 2,780만 달러로 전년 대비 27% 늘었다. 조정 EBITDA는 69% 뛴 112.4크로 루피, 1,180만 달러. 음악 부문만 보면 39% 성장한 230.6크로 루피, 2,430만 달러다."
+          },
+          {
+            "t": "p",
+            "x": "Mehra는 인도 유료 구독자가 1억 명까지 간다고 봤다. 무료 음악이 줄고 가격이 월 100루피 근처로 올라간다는 전제다. 지금 유료 스트리밍은 인도 인터넷 이용자의 3%라는 게 Goldman Sachs 집계다. 2025년 한 해 인도가 더한 유료 구독은 400만 건 가까이, 누적 1,440만 건이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-agents-release-ops",
+      "eyebrow": "AI NEWS",
+      "headline": "A&R부터 릴리스 운영까지\n조용히 들어온 AI 에이전트",
+      "body": "납품 QC와 메타데이터 정리, 트렌드 감시가 먼저 에이전트에게 넘어갔다.",
+      "mini_headline": "백오피스의 에이전트",
+      "tool": "Music",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/07/29/ai-agents-music-industry-pibox/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/Pibox_article_hero-3-scaled.png",
+            "cap": "음악 회사의 백오피스로 들어온 AI 에이전트"
+          },
+          {
+            "t": "p",
+            "x": "음악 회사의 뒷단이 조용히 AI 에이전트에게 넘어간다. 납품 QC와 메타데이터 정리, 트렌드 감시가 먼저 손을 떠났고, 초기 A&R 스크리닝까지 들어왔다."
+          },
+          {
+            "t": "p",
+            "x": "Digital Music News는 실제로 돌아가는 것과 아직 피치덱에만 있는 것을 갈라놓는다."
+          },
+          {
+            "t": "p",
+            "x": "릴리스 운영 팀이 이 흐름에 맞춰 조직을 다시 짜는 모습도 함께 짚었다."
+          },
+          {
+            "t": "p",
+            "x": "원문 페이지가 접근을 막아(HTTP 403), 이 카드는 수집 단계에서 확보한 요약만 옮겼다. 전문은 아래 원문 링크에서 확인할 수 있다."
           }
         ]
       }
