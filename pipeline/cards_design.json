@@ -1,85 +1,155 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "design",
   "card_count": 5,
   "cards": [
     {
-      "id": "design-gpt-live-voice",
+      "id": "design-figma-agents-in-file",
       "eyebrow": "AI NEWS",
-      "headline": "듣는 동시에 말하는 GPT-Live,\n음성 대화에서 차례가 사라졌다",
-      "body": "듣기와 말하기를 동시에 하는 GPT-Live가 ChatGPT 음성 기본값이 됐다.",
-      "mini_headline": "말하며 듣는 음성 모드",
-      "tool": "AI Workflow",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/",
-      "accent": "#ff5a4d",
+      "headline": "레이어를 고르고 프롬프트를 쓰면\n에이전트가 그 자리에서 고친다",
+      "body": "Figma가 디자인 파일 안에서 에이전트를 부리는 방법을 직접 시연했다.",
+      "mini_headline": "디자인 파일 속 에이전트",
+      "tool": "Social",
+      "source": "Figma (YouTube)",
+      "url": "https://www.youtube.com/watch?v=yheAh7VOHLc",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "yheAh7VOHLc"
+          },
+          {
+            "t": "p",
+            "x": "Figma가 디자인 파일 안에서 에이전트와 함께 일하는 방식을 직접 안내한 영상이다. FigJam과 Slides 지원은 다음 순서로 예고했다. 에이전트가 기존 파일을 밀어내는 게 아니라 그 안에 들어와 앉는다는 걸, 회사가 자기 입으로 밝힌 가장 또렷한 자료다."
+          },
+          {
+            "t": "p",
+            "x": "시작은 간단하다. 캔버스에서 레이어를 하나 고르고 Agents를 누르면 캔버스 위에 프롬프트 상자가 뜬다. 단축키는 Cmd 또는 Ctrl + Enter다. 왼쪽 내비게이션의 Agents를 누르면 사이드바가 계속 열린 채로 대화가 이어진다."
+          },
+          {
+            "t": "p",
+            "x": "Figma는 에이전트의 몫을 디자인을 만들고 변주하기, 잡일 자동화하기, 디자인 피드백 받기 셋으로 설명한다. 프롬프트로 새 화면과 레이아웃을 뽑고, 레이아웃과 간격과 컴포넌트 인스턴스를 손본다. 이미 있는 스타일과 변수를 적용하고 이미지를 만들거나 편집한다. 대량 콘텐츠 작성과 수정, 플러그인과 셰이더 제작, 모션과 애니메이션 추가, 디자인 라이브러리 연결까지 목록에 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "안 되는 것도 분명하다. 벡터 편집과 Draw 도구는 아직 준비 중이고, 에셋 내보내기나 다이어그램·데이터 시각화 제작은 하지 못한다. 모바일과 다른 Figma 제품에서도 쓸 수 없다."
+          },
+          {
+            "t": "p",
+            "x": "요금제 제한은 없다. 다만 Full 좌석에 편집 권한이 있어야 파일을 실제로 고치고, View나 Dev, Collab 좌석은 대화만 가능하다. 베타 기간에는 무료로 열려 있되 월 사용량 한도가 걸리고 매달 초기화된다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-mudbox-discontinued",
+      "eyebrow": "AI NEWS",
+      "headline": "오토데스크가 머드박스를 접는다,\n남은 판매는 11월 7일까지",
+      "body": "아카데미상까지 받은 머드박스의 월·연 구독 판매가 11월 7일에 끝난다.",
+      "mini_headline": "머드박스 판매 종료",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/08/autodesk-is-discontinuing-mudbox-its-digital-sculpting-software/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260810_AutodeskDiscontiuesMudbox_f-960x480.jpg",
+            "cap": "오토데스크 머드박스."
+          },
+          {
+            "t": "p",
+            "x": "오토데스크가 디지털 조각 소프트웨어 머드박스를 단종한다. 콘셉트 아트와 게임 개발, 시각효과, 모션그래픽에서 쓰이던 도구다."
+          },
+          {
+            "t": "p",
+            "x": "3년 구독의 판매와 갱신은 2026년 8월 7일에 이미 끝났다. 월간과 연간 구독은 2026년 11월 7일에 뒤따른다."
+          },
+          {
+            "t": "p",
+            "x": "머드박스는 20년 전 Wētā FX에서 나왔다. 2005년 킹콩 작업에 쓴 뒤 스튜디오를 떠난 아티스트 Andrew Camenisch, Dave Cardwell, Tibor Madjar가 만들었다. 세 사람은 \"다중 해상도 디지털 조각의 기술 수준을 크게 끌어올린 강력한 새 설계 기능\"으로 2014년 아카데미 기술상을 받았다. 오토데스크는 2007년 원 개발사 Skymatter를 인수했다."
+          },
+          {
+            "t": "p",
+            "x": "2017년 무렵 오토데스크가 다시 투자해 머드박스 2018.2에 동적 테셀레이션 시스템을 넣었다. 눈에 띄는 개선은 거기서 멈췄다. 2026년 3월에 나온 머드박스 2027은 \"릴리스 노트에 새 기능이 하나도 적히지 않은 여섯 번째 연속 연간 업데이트\"였다."
+          },
+          {
+            "t": "p",
+            "x": "몇 년째 새 기능이 없어도 아티스트들은 연 105달러쯤 되는 구독을 유지했다. 이유는 레이어 기반의 직관적인 작업 방식이다. 인터페이스와 작업 흐름이 표준에서 벗어난 ZBrush나 3DCoat와 달리, 다른 CG 소프트웨어를 쓰다 넘어온 사람에게 머드박스는 낯설지 않았다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2025/04/250328_Mudbox2026_main.jpg",
+            "cap": "캐릭터 아티스트 Xhon Hysenaj가 머드박스로 조각한 디즈니 메리다 공주 팬 리크리에이션. 오토데스크 머드박스 웹사이트의 마지막 홍보 이미지로 쓰였다."
+          },
+          {
+            "t": "p",
+            "x": "2026년 8월 7일 기준 구독자는 머드박스 2027을 5년간 쓴다. 다만 기술 지원과 보안 패치는 3년까지고, 그 뒤로는 새 기능도 버그 수정도 없다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-grok-imagine-image-2",
+      "eyebrow": "AI NEWS",
+      "headline": "글자와 레이아웃을 같이 짜는\n이미지 모델이 API로 열렸다",
+      "body": "타이포와 레이아웃을 함께 짜는 xAI 이미지 모델이 AI Gateway에 올라왔다.",
+      "mini_headline": "타이포 아는 이미지 모델",
+      "tool": "Figma",
+      "source": "Vercel",
+      "url": "https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/intro-1785348648.jpg",
-            "cap": "아이폰에서 실행한 ChatGPT 음성 모드."
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3uPYJwKOF0WwcurlTBY2Ya/f08abe27da129f05364bd63f6883058e/Vercel_x_xAI.png",
+            "cap": "Vercel과 xAI."
           },
           {
             "t": "p",
-            "x": "ChatGPT 같은 AI 비서는 새 모델마다 기능과 정확도, 응답 속도가 나아졌다. 생성형 AI가 완벽하지도 않고 의심 없이 받아들일 정보원도 아니지만, 이미 익숙해진 사람이라면 일일이 타이핑하는 대신 음성 대화로 넘어가는 쪽이 편하다. 2023년의 초기 Voice Mode는 세 시스템을 이어 붙여 돌아갔다. 말을 텍스트로 바꾸고, 언어 모델이 답을 만들고, 음성 합성 모델이 소리 내어 읽는 식이었다."
+            "x": "xAI의 Grok Imagine Image 2.0 Preview가 AI Gateway에 올라왔다."
           },
           {
             "t": "p",
-            "x": "뒤이어 나온 Advanced Voice Mode는 멀티모달 모델 하나로 처리하며 체감을 크게 끌어올렸다. 지금 ChatGPT의 음성 대화는 GPT-Live가 맡는데, 자연스러움이 한 단계 올라섰다. OpenAI는 듣기와 말하기를 동시에 하는 '풀 듀플렉스' 구조라고 설명한다. 이전 음성 모델이 잠깐의 멈춤을 발화 종료로 오해하고 말이 끝나기도 전에 답을 시작하던 문제가 여기서 걸린다."
+            "x": "이 모델은 세세한 지시를 흘리지 않고 그대로 따르며, 타이포그래피와 레이아웃을 함께 계획한다. 그래서 인포그래픽이나 포스터, 타이틀 화면처럼 요소가 빽빽하게 얽힌 시각물도 구조가 무너지지 않고 작은 글자가 읽히는 상태로 남는다. 이미지 편집도 되는데, 같은 대상을 여러 번 생성해도 인물과 디테일이 흐트러지지 않는다."
           },
           {
             "t": "p",
-            "x": "이제는 사람이 말하는 동안 ChatGPT가 '음', '그래' 같은 짧은 맞장구를 흘리기도 한다. 추론이나 조사가 필요한 질문이면 GPT-Live가 뒤에서 GPT-5.5 같은 모델에 일을 넘긴다."
+            "x": "AI Gateway 위에서 돌아가는 imagine.vercel.sh에서 지금 바로 써 본다."
           },
           {
             "t": "p",
-            "x": "GPT-Live는 안드로이드와 iOS의 ChatGPT 앱, 그리고 브라우저 웹에서 쓴다. ChatGPT Pro와 Plus, Go 사용자는 GPT-Live-1 모델을, 무료 요금제는 GPT-Live-1 mini를 쓴다. 기존 턴 방식 Advanced Voice를 밀어내고 GPT-Live가 기본값이 됐다. 입력창 맨 오른쪽 파형 모양 ChatGPT Voice 아이콘을 누르면 시작한다. 처음이라면 마이크 권한을 요청받는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/starting-a-conversation-with-gpt-live-1785348649.jpg",
-            "cap": "ChatGPT Voice 설정 화면."
+            "x": "쓰는 법은 짧다. model을 xai/grok-imagine-image-2.0-preview로 두고 AI SDK의 generateImage를 호출한다. providerOptions.xai 아래 resolution을 1k나 2k로 지정해 출력 등급을 고르고, 한 번에 여러 장이 필요하면 n을 쓴다."
           },
           {
             "t": "p",
-            "x": "음성 모드에 들어가면 화면에 반응하는 구슬이 뜬다. 평소처럼 말을 걸면 된다. 오른쪽 위 설정 아이콘에서 모델의 지능 수준을 Instant, Medium, High 셋 중에 고른다. GPT-Live-1 mini에는 이 설정이 없어 유료 요금제가 필요하다. 다른 앱으로 넘어가거나 기기를 잠가도 ChatGPT Voice는 계속 살아 있다."
+            "x": "이미지 편집은 지시문과 함께 prompt.images에 이미지를 넘긴다. 그러면 요청한 부분만 바꾸고 나머지는 건드리지 않는다."
           },
           {
             "t": "p",
-            "x": "다만 GPT-Live는 아직 화면 공유와 영상 공유를 지원하지 않는다. 설정의 Voice에서 다른 모델을 골라 예전 음성 모델로 되돌리면 된다. 같은 자리에서 목소리와 언어를 바꾸거나, 앱을 켤 때 ChatGPT Voice가 기본으로 뜨도록 지정한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/what-gpt-live-excels-at-1785348650.jpg",
-            "cap": "아이폰 홈 화면의 ChatGPT 앱 아이콘."
-          },
-          {
-            "t": "p",
-            "x": "글로 치는 쪽을 좋아하는 필자는 처음엔 새 음성 모드에 별 관심이 없었다. 길게 몇 번 대화해 보기 전까지는 그랬다. 인상적이었던 건 똑똑함이 아니라, AI와 이야기하고 있다는 사실을 얼마나 빨리 잊게 되는가였다. 말을 자르지 않고, 상대가 끝낼 때까지 어색하게 기다릴 필요도 없다. 질문이 길어지면 다음에 무슨 말을 할지 미리 알아채는 느낌마저 들었다."
-          },
-          {
-            "t": "p",
-            "x": "반응이 빠른 덕에 실시간 통역에도 쓸 만하다. 대화 도중 아래로 내리면 오간 말의 전사가 나온다. 시각적으로 보여 주는 편이 낫다고 판단한 질문에는 말과 함께 인터랙티브 위젯을 만들어 띄운다."
-          },
-          {
-            "t": "p",
-            "x": "지능 수준의 기본값은 Instant다. 빠른 응답을 앞세우면서도 일상적인 질문은 무리 없이 처리하고, 검색이나 깊은 추론은 뒤에서 더 센 모델에 넘기며 대화를 끊지 않는다. 복잡한 주제를 자주 다룰 생각이면 Medium과 High가 생각할 시간을 한두 박자 더 쓰지만, 그 지연이 대화의 흐름을 해치지는 않는다."
+            "x": "AI Gateway가 지원하는 이미지 모델 전체 목록은 별도 페이지에 있다."
           }
         ]
       }
     },
     {
-      "id": "design-baseline-audit",
+      "id": "design-animating-border-image",
       "eyebrow": "AI NEWS",
-      "headline": "브라우저가 이미 하는 일을\n라이브러리가 아직 대신한다",
-      "body": "의존성을 Baseline 기준으로 훑으면 gzip 60~90KB가 빠진다.",
-      "mini_headline": "의존성 Baseline 점검",
+      "headline": "그라디언트는 원래 못 움직인다,\n커스텀 속성을 등록하기 전까지는",
+      "body": "border-image에 그라디언트를 깔고 등록한 커스텀 속성으로 움직인다.",
+      "mini_headline": "움직이는 테두리 이미지",
       "tool": "Design Tokens",
-      "source": "Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+      "source": "CSS-Tricks",
+      "url": "https://css-tricks.com/animating-css-border-image/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -87,222 +157,73 @@
         "blocks": [
           {
             "t": "p",
-            "x": "의존성은 대개 한 번 넣고 잊어버린다. 제 몫을 하고 테스트도 통과하니 다시 볼 일이 없다. 그사이 웹 플랫폼도 움직였고, package.json에 남은 라이브러리 상당수는 브라우저 안에 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png",
-            "cap": "package.json에서 걷어 낸 npm 의존성이 빨간 줄로 표시된 git diff."
+            "x": "CSS의 border-image는 있는 줄 알면서도 그냥 지나치는 기능이다. 한마디로 solid나 dashed 같은 밋밋한 선 대신 이미지나 그라디언트를 테두리로 쓴다."
           },
           {
             "t": "p",
-            "x": "중간 규모 자바스크립트 앱이면 플랫폼이 스스로 처리하는 의존성이 압축 기준 60KB에서 90KB쯤 쌓여 있다. 날짜와 숫자 서식, HTTP 요청, 모달, 툴팁, 깊은 복사, 배열 묶기. 라이브러리가 남는 건 npm audit으로 보안은 봐도 '이게 아직 브라우저가 못 하는 일을 하나'는 잘 묻지 않아서다."
+            "x": "큰 단서가 하나 붙는다. 보더 이미지는 테두리 모양을 따라 휘지 않는다. 그런데도 필자가 border-image를 좋아하는 건 효율 때문이다. 잘 잘리고, 네 변에 알아서 적용된다. 특히 보더 이미지와 그라디언트를 움직일 때 이 성질이 값을 한다."
           },
           {
             "t": "p",
-            "x": "Baseline은 WebDX 커뮤니티 그룹이 크롬·엣지·파이어폭스·사파리 기준으로 기능의 안전도를 알려 준다. Limited availability는 아직 모든 엔진에 안 들어왔다는 뜻, Newly available은 막 다 들어왔다는 뜻, Widely available은 그 상태로 30개월을 넘겼다는 뜻이다. 이 30개월 간격이 감사의 기준선이 된다."
+            "x": "예제는 별것 없다. 서식이 붙은 텍스트가 들어간 div 하나. .card에 크기를 정하고 배경 이미지를 깐 다음, 글자가 배경 위에 그대로 올라앉지 않게 조금 다듬는다."
           },
           {
             "t": "p",
-            "x": "지우기 전에 세 가지를 묻는다. 사용자에게 안전한가, 교체 비용은 얼마인가, 플랫폼 기능이 실제 용례를 덮는가."
+            "x": "테두리에는 단색 CSS 그라디언트를 쓴다. 이유는 두 가지다. 그라디언트도 배경 이미지의 한 종류이고, 애니메이션을 보여 주기에 편하다. border-image-source와 border-image-slice, border-image-width로 그라디언트를 테두리 자리에 앉힌다. 데모를 보면 움직이는 테두리와 이미지 사이에 틈이 조금 벌어져 있다."
           },
           {
             "t": "p",
-            "x": "국제화 묶음이 가장 쉽다. timeago.js, pluralize, numeral, humanize-duration이 Intl.RelativeTimeFormat·PluralRules·NumberFormat·DurationFormat으로 넘어간다. 넷을 다 쓰고 있었다면 gzip 14KB다. 다만 Intl.DurationFormat은 아직 Newly available이라 사용자층부터 확인해야 한다."
+            "x": "여기서 걸리는 게 있다. 그라디언트는 기본적으로 애니메이션되지 않는다. 그래서 커스텀 속성을 직접 등록한다. CSS 변수는 애니메이션이 되기 때문이다. --p 같은 변수를 <percentage>나 <angle>, <number> 같은 문법 타입으로 등록해 두고 hover에서 transition을 걸면 테두리가 움직인다."
           },
           {
             "t": "p",
-            "x": "HTTP는 좀 더 조심스럽다. axios는 gzip 17KB, superagent는 19KB인데 평범한 요청이면 fetch와 AbortController로 충분하다. 대신 fetch는 404나 500에 거절하지 않고 인터셉터도 자동 재시도도 업로드 진행률도 없다. 하나라도 쓴다면 얇은 래퍼를 직접 만드는 쪽이다."
-          },
-          {
-            "t": "img",
-            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/2-bundlephobia-website.png",
-            "cap": "axios가 minified 44kb, gzip 16.6kb임을 보여 주는 Bundlephobia 화면."
-          },
-          {
-            "t": "p",
-            "x": "UI 기본기는 결과가 가장 시원하다. dialog 요소 하나가 모달 라이브러리와 focus-trap을 함께 걷어 내고, 배경 스크롤 잠금은 body:has(dialog:modal){overflow:hidden} 한 줄이면 된다. 드롭다운과 툴팁은 Popover API와 CSS 앵커 포지셔닝이 받는다. 이 묶음만 gzip 24KB 안팎이다."
-          },
-          {
-            "t": "p",
-            "x": "Lodash도 통째로 지우자는 얘기가 아니라 브라우저가 이미 가진 부분만 그만 싣자는 얘기다. groupby는 Object.groupBy로, clonedeep은 structuredClone으로, 집합 연산은 Set 기본 메서드로 간다. debounce와 throttle은 대체재가 없어 남긴다."
-          },
-          {
-            "t": "p",
-            "x": "반대로 Temporal은 2026년 3월 TC39 4단계에 올랐어도 사파리 정식 버전에 없어 아직 Baseline이 아니다. 공식 폴리필이 gzip 44KB인데 dayjs는 3KB다. 지금 갈아타면 번들이 41KB 늘어난다. 사파리가 실을 때까지는 dayjs다."
-          },
-          {
-            "t": "p",
-            "x": "감사 절차는 짧다. npm ls --omit=dev --depth=0으로 배포되는 의존성을 뽑고, 번들 분석기로 무게를 재고, webstatus.dev나 MDN 배지로 대체 기능의 Baseline 상태를 확인한다. 한 번 치우고 끝낼 일이 아니라 분기에 한 번 돌릴 습관이다."
+            "x": "여기서 멈출 이유는 없다. linear-gradient 대신 conic-gradient를 쓰고, border-image-slice 값 자체를 움직이고, border-image-repeat을 round로 두면 타일처럼 반복된다. hover에서 slice를 1에서 20픽셀로 옮기면 테두리 패턴이 뚝뚝 끊기며 갈라진다. 코딩 에이전트가 스스로 꺼내 드는 기법은 아니다."
           }
         ]
       }
     },
     {
-      "id": "design-vr-mech-modeler",
+      "id": "design-mablelink-maya-transfer",
       "eyebrow": "AI NEWS",
-      "headline": "헤드셋 안에서 메카를 깎고\nKeyShot으로 마무리한다",
-      "body": "Gnomon Workshop이 VR로 메카를 조각하는 30분 무료 강의를 냈다.",
-      "mini_headline": "VR로 깎는 메카 콘셉트",
+      "headline": "리그와 애니메이션을 그대로,\n마야 씬이 블렌더와 UE5로 간다",
+      "body": "리그와 애니메이션을 살린 채로 마야 씬이 블렌더와 UE5로 한 번에 넘어간다.",
+      "mini_headline": "마야 씬 한 클릭 이관",
       "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/08/free-tutorial-design-mechs-in-vr-using-substance-3d-modeler/",
-      "accent": "#f5a623",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/move-animated-maya-scenes-to-blender-ue5-in-one-click",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "yt": "xdxtO9Z9u40"
-          },
-          {
-            "t": "p",
-            "x": "The Gnomon Workshop이 Design Mechs in VR Using Substance 3D Modeler를 공개했다. WB Games 콘셉트 아티스트 Andre-Lang Huynh가 녹화한 무료 VR 조각 워크플로 안내다."
-          },
-          {
-            "t": "p",
-            "x": "Substance 3D Modeler와 KeyShot을 다루는 30분짜리 영상 교육이다."
-          },
-          {
-            "t": "p",
-            "x": "강의에서 Huynh는 어도비의 VR 조각 소프트웨어 Substance 3D Modeler로 메카를 맨바닥부터 설계하고 조각하는 자기 작업 흐름을 통째로 보여 준다. 단순한 기하 형태에서 시작해 비례와 실루엣부터 또렷하게 잡고, 관절과 장갑판 같은 2차·3차 형태와 색·표면 디테일로 복잡도를 쌓아 올린다."
-          },
-          {
-            "t": "p",
-            "x": "다루는 Substance 3D Modeler 기능은 프리미티브, 조각 브러시, 불리언, 레이어, 머티리얼, 스탬프, 대칭, 각도 스냅, 재사용 가능한 킷배시 요소다."
-          },
-          {
-            "t": "p",
-            "x": "조각이 끝나면 KeyShot으로 넘겨 머티리얼을 붙이고 간단한 조명을 세운 뒤 발표용 렌더를 뽑는다. 워크숍에 딸린 프로젝트 파일에는 완성된 Substance 3D Modeler 씬이 들어 있다."
-          },
-          {
-            "t": "p",
-            "x": "Andre-Lang Huynh는 WB Games Montréal의 어드밴스드 콘셉트 아티스트다. 고담 나이츠에서 배트모빌과 배트사이클을 비롯한 캐릭터와 소품, 차량을 디자인했다."
-          },
-          {
-            "t": "p",
-            "x": "Design Mechs in VR Using Substance 3D Modeler는 튜토리얼 300편이 넘는 The Gnomon Workshop 구독으로 본다. 구독료는 월 57달러 또는 연 499달러이고 무료 체험도 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-cybernetic-app",
-      "eyebrow": "AI NEWS",
-      "headline": "앱을 화면 묶음이 아니라\n살아남는 시스템으로 본다",
-      "body": "스태퍼드 비어의 생존 가능 시스템 모델로 글쓰기 앱의 인터페이스를 다시 짠다.",
-      "mini_headline": "앱을 시스템으로 보기",
-      "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "스태퍼드 비어는 \"시스템의 목적은 그 시스템이 하는 일\"이라고 했다. 그 말대로라면 우리가 쓰는 정보 시스템의 목적 하나는 생각을 흐트러뜨려 잃어버리고 방치하게 만드는 데 있다. 글쓰기와 정리 도구는 헷갈리고 사라지고 중복되고 버려진 원고라는 세금을 걷어 가는데, 정작 사용자 손에는 그걸 되돌릴 도구가 없다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*hOE7jWBhDRorf-HLW9Jp0w.png",
-            "cap": "스태퍼드 비어가 인간 신경계를 생존 가능 시스템 모델과 겹쳐 보이도록 그린 스케치."
+            "src": "https://cdn.80.lv/api/upload/meta/49666/images/6a79d3382bcf7/contain_1200x630.jpg",
+            "cap": "MableLink."
           },
           {
             "t": "p",
-            "x": "필자가 보기에 문제는 앱이 우리 목표에 맞춰 스스로를 바꿀 기능을 갖추지 못한 데 있다. 사이버네틱스는 배를 모는 사람을 뜻하는 그리스어 kybernḗtēs에서 온 말로, 환경 속에서 버티고 적응하는 시스템을 다룬다. 사이보그나 사이버스페이스와는 상관이 없다."
+            "x": "Mohamed Ragheb의 MableLink는 마야 사용자만 보고 만든 파이프라인 커넥터다. 씬을 단순 익스포트로 납작하게 눌러 버리는 대신 밑에 깔린 데이터를 그대로 남긴다."
           },
           {
             "t": "p",
-            "x": "핵심은 생존 가능한 시스템(viable system)이다. 내부 상태를 감당하고 바깥 압력에 반응하는 시스템이고, 둘 중 하나라도 못 하면 생존 가능성을 잃는다. 여기서 다양성(variety)은 어떤 것이 할 수 있는 일의 가짓수를 뜻한다. 지하철 개찰구는 고정과 해제 두 상태뿐이지만 사람과 조직의 다양성은 헤아릴 수 없다."
+            "x": "애니메이션이 붙은 마야 씬을 블렌더와 언리얼로 곧장 보내면서 리그, 애니메이션, 블렌드 셰이프, 카메라, 라이트, 피벗, 계층 구조를 지킨다. 글래스와 서브서피스 스캐터링, 이미션, 클리어코트 같은 물리 기반 머티리얼도 함께 간다. 블렌더·언리얼과의 라이브 재동기화, NURBS, 스마트 텍스처 압축이 들어간 GLB/GLTF 임포트와 익스포트, 블렌더 의존성 없는 동작, MagicaVoxel용 메시-복셀 변환까지 지원한다."
           },
           {
             "t": "p",
-            "x": "생존 가능한 시스템은 두 겹의 구조를 요구한다. 하나는 재귀다. 회사가 사업부로, 사업부가 부서로, 부서가 팀으로 쪼개지듯 생존 가능한 시스템 안에 또 생존 가능한 시스템이 들어 있다. 다른 하나는 시스템–메타 시스템 구조로, 명령으로 찍어 누르는 대신 내부가 알아서 조율하도록 두고 별도의 시스템이 목표 대비 진척을 지켜보며 조정한다."
+            "x": "버전은 둘이다. 무료판은 블렌더로 20회, 언리얼로 20회 전송에 물리 기반 머티리얼 전송 5회를 준다. Pro는 이 제한을 없애고 Update Sync를 더한다."
           },
           {
             "t": "p",
-            "x": "이 구조를 텍스트 앱 화면에 그대로 옮겨 본다. 화면 위 사각형 하나하나가 위젯이고, 각 위젯이 System 1이다. 여러 텍스트 위젯이 공간을 어떻게 나눌지 조율하는 것이 System 2, 사용자의 입력에 반응해 위젯을 만들고 닫는 것이 System 3다. 오늘의 앱은 대개 여기서 멈춘다."
+            "x": "설치는 몇 분이면 끝난다. 마야에는 끌어다 놓고, 블렌더에서는 한 번 클릭하고, 언리얼에서는 스크립트 하나를 돌리면 그 엔진의 모든 프로젝트에 진짜 플러그인으로 깔린다. 나중에 새로 만드는 프로젝트에도 붙는다. 휴대용 .mable 패키지는 씬과 머티리얼, 텍스처를 한 파일에 담아 두어 팀 누구든 블렌더나 언리얼에서 연다."
           },
           {
             "t": "p",
-            "x": "빠진 것은 System 4와 System 5다. System 4는 환경, 여기서는 사용자가 쓰는 글을 지켜보다 System 3의 동작을 바꾼다. 문장을 어떻게 끊느냐에 따라 뜻이 갈리는 '다양성 계수'가 높은 대목을 크게 키워 눈에 걸리게 하고, 어디에서도 참조되지 않는 고아 조각은 전체 화면으로 띄우며, 예전 문서와 구조까지 비교해 기시감이 높은 글에는 병합을 권한다."
+            "x": "호환 범위는 마야 2024/2027, 블렌더 4.5 LTS/5.2 LTS, 언리얼 엔진 5.8이다. 지금도 손질이 이어지고 있고 최근 v0.1에서 v0.1.3으로 올랐다."
           },
           {
             "t": "p",
-            "x": "System 5는 System 4가 제 몫을 하는지 본다. 사용자가 커진 위젯을 실제로 손보는지, 글을 더 자주 끝내는지, 고아와 중복이 줄었는지를 지표로 삼는다. 안 먹히는 방법이 있으면 조정하거나 사용자에게 알린다. 시스템의 목적은 그 시스템이 하는 일이라는 말을 여기서 다시 꺼낸다. 목적이 X라 해 놓고 Y를 하는 걸 보고도 두면, 그 시스템의 목적은 Y다."
-          },
-          {
-            "t": "p",
-            "x": "필자가 경계하는 건 좋은 글이 뭔지 안다고 주장하는 도구다. 컴퓨터는 한 문장에 단어가 몇 개인지처럼 답이 분명한 것만 다뤄야 하고, 문장이 길어 헷갈릴 수 있다고 보여 줄 수는 있어도 어떻게 고치라고 해서는 안 된다. 테드 넬슨의 지적대로 지금 소프트웨어는 컴퓨터의 연결 가능성을 종이 흉내에 쓴다. 이 기능들은 클리피처럼 앞에 튀어나오는 대신 진짜 종이처럼, 책상에 널린 더미가 정리가 안 됐음을 알려 주듯 인터페이스에 스며들어야 한다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-process-proof",
-      "eyebrow": "AI NEWS",
-      "headline": "사람이 만들었다는 말로는\n이제 아무도 설득하지 못한다",
-      "body": "스퀘어에닉스 표지 논란 뒤, 스케치와 버전 기록이 사람 손을 증명할 근거가 된다.",
-      "mini_headline": "과정 기록이 증거다",
-      "tool": "Figma",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/ai/ai-art/the-square-enix-ai-fiasco-convinces-me-we-all-need-to-start-documenting-our-creative-process",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/6kXsysepNhmLkYCkMg7jMk.jpg",
-            "cap": "이미지 제공: Square Enix."
-          },
-          {
-            "t": "p",
-            "x": "스케치와 초안을 남겨 두는 일이 사람이 만들었다는 유일한 증거가 될지 모른다."
-          },
-          {
-            "t": "p",
-            "x": "파이널 판타지와 킹덤하츠를 낸 일본 퍼블리셔 스퀘어에닉스가 지금 겪는 논란은, 만들어서 먹고사는 사람이면 누구나 신경 쓸 만한 종류다."
-          },
-          {
-            "t": "p",
-            "x": "자매 매체가 전한 대로, 스위치 2를 비롯한 여러 기종으로 나올 킹덤 하츠 컬렉션의 표지 아트가 공개 몇 시간 만에 AI로 만든 것 아니냐는 의심을 샀다. 근거는 눈에 띈다. 도널드 덕은 한 손이 손가락 셋, 다른 손이 넷이다. 시계의 디테일은 앞뒤가 안 맞고, 키체인은 크기가 제각각이다. 전체적으로 엉성하다."
-          },
-          {
-            "t": "p",
-            "x": "스퀘어에닉스는 AI가 아니라고 했다. 발표문에 따르면 해당 이미지는 개발팀이 생성형 도구 없이 만들었고, 오류는 사람의 실수였다."
-          },
-          {
-            "t": "p",
-            "x": "정말 그랬을 수도 있다. 문제는 스튜디오 바깥에서는 아무도 확인할 방법이 없다는 데 있다. 표지를 세 번 고쳐 어떤 오류는 잡고 어떤 오류는 그대로 둔 뒤에도 의심은 남았다. 진짜 이야기는 그 불확실성이고, 이건 퍼블리셔 하나의 표지 문제보다 크다."
-          },
-          {
-            "t": "p",
-            "x": "이제 '사람이 만들었다'는 회사도 프리랜서도 그냥 말한다고 믿어 주는 문장이 아니다. 보여 줘야 한다. 오래 유지되던 전제가 뒤집혔다."
-          },
-          {
-            "t": "p",
-            "x": "수십 년 동안은 자기 작업은 자기가 만든 것이라고 봤다. 왜 달리 생각하겠는가. 지금은 반대다. 작업에 이른바 AI 티가 하나라도 있으면 해명은 만든 사람 몫이고, '믿어 달라'로는 넘어가지지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "다행인 건 과정을 남기는 습관이 이 사태 이전부터 좋은 습관이었다는 점이다. 스케치, 러프 컷, 콘택트 시트, 초기 초안은 늘 값어치가 있었다. 완성작만으로는 보여 줄 수 없는 폭과 솜씨의 증거이자 언젠가 쓸 홍보 재료다. 사람들이 소셜에서 이런 걸 유독 잘 받아 보는 이유도 다른 데서 못 얻는 실마리와 자극이 거기 있어서다."
-          },
-          {
-            "t": "p",
-            "x": "작업하는 본인에게도 남는다. 왜 그렇게 결정했는지를 캡션이든 메모든 자기한테라도 적어 두면 그 결정 자체가 또렷해진다. 스케치북의 절반은 끝내 공개하지 않는 글에 있다. 새로운 조언은 아니다. 새로워진 건 걸린 것의 크기다."
-          },
-          {
-            "t": "p",
-            "x": "과정 기록은 시간과 기력이 남을 때 챙기는 보너스였다. 2020년대 후반에 들어서는 기계가 만든 것으로 오해받을 여지가 있는 작업이라면 사실상 필수에 가까워졌다. 레이어가 살아 있는 파일, 시간이 찍힌 초안, 레퍼런스 보드, 작업이 형태를 잡아 가는 화면 녹화까지 언젠가 내가 만들었다는 걸 증명하는 데 필요할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "그러니 러프 초안을 버리지 말고, 버전 기록을 켜 두고, 소프트웨어가 되면 화면을 녹화하고, 다시 쓸 일 없을 것 같아도 파일을 붙들고 있어라. 기계가 만들었다는 의심은 사실이 아니어도 클라이언트와 의뢰, 평판을 앗아 간다."
+            "x": "Pro는 한 번 사면 끝인 일회성 구매다. 같은 라이선스 키를 기기 5대까지 쓰고, 다시 설치해도 그대로 유효하다."
           }
         ]
       }

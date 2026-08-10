@@ -1,97 +1,120 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "section": "gadgets",
   "count": 5,
-  "selection_mode": "curator_auto",
-  "note": "User deferred (\"알아서\"). Dedup backstop re-applied against sections.gadgets in news_data.json: today (2026-08-09) + days 08-04, 08-05, 08-06, 08-07, 08-08 = 26 published gadgets cards. No pick matches a published URL or story. Dropped PCWorld 'FCC just changed the rules for robot vacuums' as a content-level duplicate of the same 2026-07-28 FCC import-restriction ruling already covered inside the published card gadgets-byd-xiao-di-humanoid (08-05); backfilled with the next-best surviving candidate (TechCrunch Wacom MovinkPad 11). Also skipped the Pixel 11 leak cluster (9to5Google x2 + Android Authority x2) as a within-pool content-hub pile-up and to respect the per-outlet cap. Diversity guard satisfied: 5 distinct outlets (MacRumors, Notebookcheck, Android Authority, TechCrunch, Gizmodo), 5 distinct device categories (wearables, AI-PC silicon/NPU, smart home assistant, creator hardware, companion robot). All picks share the single `gadgets` category, so each gets a distinct accent from sources.json palette.",
+  "selection_mode": "curator (user deferred — \"알아서\")",
+  "dedup": {
+    "checked_against": "sections.gadgets → today (2026-08-10) + days (2026-08-05 … 2026-08-09) = 30 published cards, all read in full",
+    "published_urls_matched": 0,
+    "dropped": [
+      {
+        "url": "https://9to5google.com/2026/08/06/gemini-overlay-wear-os/",
+        "reason": "content duplicate — same event (new Gemini overlay design rolling out to Wear OS / Pixel Watch) already published 2026-08-08 as Digital Trends 'Gemini's revamped Wear OS design is finally rolling out'"
+      },
+      {
+        "url": "https://www.theregister.com/personal-tech/2026/08/10/wetherspoons-bars-smart-glasses-from-filming-customers/5285357",
+        "reason": "content near-duplicate — same core topic (venues/institutions banning camera smart glasses) already run 2026-08-09 as TechRadar 'A smart glasses ban could be on the menu in the EU…', which already catalogues venue-level bans (DEF CON, comic cons, courts)"
+      },
+      {
+        "url": "https://www.digitaltrends.com/home-theater/im-already-surrounded-by-ai-i-dont-need-chatgpt-living-beside-my-bed/",
+        "reason": "opinion piece pegged to the OpenAI bedside speaker, whose news beat already ran 2026-08-07 (Engadget, OpenAI ring-shaped speaker $300–400); no new fact"
+      },
+      {
+        "url": "https://9to5google.com/2026/08/08/pixel-11-all-of-the-last-minute-leaks-video/",
+        "reason": "within-pool duplicate — same Pixel 11 pre-launch leak cluster as the Android Central HiLight LED leak; both dropped in favour of higher-novelty picks"
+      },
+      {
+        "url": "https://www.pcworld.com/article/3204236/acer-travelmate-p2-14-review.html",
+        "reason": "within-pool near-duplicate — second 'mid-range Acer AI laptop review' alongside Tom's Hardware Swift Go 16 AI; neither survived scoring"
+      }
+    ],
+    "note": "No candidate URL matched a published gadgets card. Content-level checks were run against the full 6-day gadgets deck (08-05 … 08-10); the three real collisions above were dropped and backfilled from the ranked pool."
+  },
+  "diversity": {
+    "outlets": ["9to5Mac", "Android Authority", "TechCrunch", "Tom's Hardware", "XDA Developers"],
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "categories": {"gadgets": 5},
+    "topic_spread": {
+      "imaging / provenance": 1,
+      "on-device models": 1,
+      "computer vision / privacy": 1,
+      "camera hardware": 1,
+      "smart home / automation": 1
+    },
+    "note": "Section has a single category (gadgets), so all five carry tool 'Gadgets' with distinct palette accents; diversity is enforced on outlet and topic instead."
+  },
   "picks": [
     {
       "rank": 1,
-      "title": "Apple Watch Rethink Could See Debut of Round Model, Screenless Fitness Tracker, and More",
-      "url": "https://www.macrumors.com/2026/08/09/apple-watch-rethink/",
-      "source": "MacRumors",
-      "published_iso": "2026-08-09T15:37:14Z",
-      "og_image": "https://images.macrumors.com/t/RdbYQo8geJeeGtMJCti_NSWhfcg=/1600x/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg",
-      "excerpt": "Apple is re-evaluating the Apple Watch lineup and considering a host of radical new designs, according to Bloomberg's Mark Gurman. In today's edition of his \"Power On\" newsletter, Gurman compared plans for the Apple Watch's evolution to the \"revolutionary design change\" that the foldable iPhone represents. It will be \"something that transforms the product for a new era\".",
-      "tool": "Gadgets",
+      "title": "Apple is working on a way to authenticate that a photo came from an iPhone camera",
+      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
+      "source": "9to5Mac",
+      "published_iso": "2026-08-10T19:49:55Z",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "excerpt": "References included in iOS 27 beta 5 point to a new feature designed to authenticate the camera source of an iPhone photo.",
       "category": "gadgets",
+      "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Freshest item in the pool and the biggest wearable form-factor signal of the week — a round watch and a screenless tracker means the whole watch-face/complication design language is up for renegotiation."
+      "rationale": "Capture-source provenance baked into the phone everyone shoots with — the first practical answer to 'is this image real?' inside a creative team's asset pipeline."
     },
     {
       "rank": 2,
-      "title": "No Ryzen AI: AMD launches Ryzen 5 439 and Ryzen 7 449 with binned NPUs",
-      "url": "https://www.notebookcheck.net/No-Ryzen-AI-AMD-launches-Ryzen-5-439-and-Ryzen-7-449-with-binned-NPUs.1364296.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-08-09T15:40:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ryzen_400.jpg",
-      "excerpt": "AMD has launched two new laptop chips, the Ryzen 5 439 and Ryzen 7 449, that quietly drop the NPU and the Ryzen AI branding found on their closest siblings.",
-      "tool": "Gadgets",
+      "title": "Meta’s latest AI model wants to live on your PC",
+      "url": "https://www.androidauthority.com/meta-muse-glimmer-3696698/",
+      "source": "Android Authority",
+      "published_iso": "2026-08-10T20:03:02Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg",
+      "excerpt": "Meta’s Muse Glimmer is a 30B AI model made to run locally on your PC.",
       "category": "gadgets",
+      "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Directly actionable for anyone speccing a design workstation: same-looking Ryzen SKUs now ship with the NPU silently binned off, so local AI features quietly stop working on the cheaper machine."
+      "rationale": "A 30B model targeted at ordinary workstations pulls confidential design work off the cloud and onto the machine already on the desk."
     },
     {
       "rank": 3,
-      "title": "Google Home kicks off August with big app updates and a smarter Gemini for Home",
-      "url": "https://www.androidauthority.com/google-home-update-august-5-2026-3695072/",
-      "source": "Android Authority",
-      "published_iso": "2026-08-06T03:20:24Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg",
-      "excerpt": "Google Home's first August update is packed with useful new features, including AI Storytelling, improved alarms, and lots more.",
-      "tool": "Gadgets",
+      "title": "This 'adversarial' pattern can prevent surveillance cameras from detecting you",
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "source": "TechCrunch",
+      "published_iso": "2026-08-09T14:00:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?resize=1151,1200",
+      "excerpt": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
       "category": "gadgets",
+      "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "A shipped (not rumored) assistant update — AI Storytelling and reworked alarms show how Gemini for Home is being folded into everyday smart-home UI patterns rather than bolted on as a chatbot."
+      "rationale": "Surface pattern as a functional defence against machine vision — graphic design turned into an anti-detection layer, with a generator anyone can run."
     },
     {
       "rank": 4,
-      "title": "Wacom's MovinkPad 11 is a fun, midpriced entry point for digital artists",
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "source": "TechCrunch",
-      "published_iso": "2026-08-07T21:20:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/Wacom-Movinkpad.webp?w=564",
-      "excerpt": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-      "tool": "Gadgets",
+      "title": "HoverAir unveils the Versa modular pocket gimbal camera that transforms into a self-flying drone",
+      "url": "https://www.tomshardware.com/tech-industry/drones/hoverair-unveils-the-versa-modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-modular-camera-transforms-into-an-auto-tracking-drone-by-magnetically-snapping-together-for-instant-palm-launch-and-ai-tracking",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-08-10T11:20:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/6rbXH8xkrGzGsJ2eFK9XPb-1600-80.webp",
+      "excerpt": "Two birds with one stone.",
+      "title_note": "Modular camera transforms into an auto-tracking drone by magnetically snapping together for instant palm launch and AI tracking",
       "category": "gadgets",
+      "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "The one pick that changes a designer's desk tomorrow — a standalone midpriced Wacom slate that removes the tethered-PC requirement from drawing hardware."
+      "rationale": "One magnetic module turns a pocket gimbal into an auto-tracking drone — a two-in-one capture rig that removes a whole camera operator from small shoots."
     },
     {
       "rank": 5,
-      "title": "SwitchBot Kata Friends AI Pet Review: Useless if You Don't Pay Up",
-      "url": "https://gizmodo.com/switchbot-kata-friends-ai-pet-review-useless-if-you-dont-pay-up-2000789267",
-      "source": "Gizmodo",
-      "published_iso": "2026-08-02T12:30:54Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-main-1200x675.jpg",
-      "excerpt": "A hands-on with SwitchBot's Kata Friends desktop AI pet: cute companion hardware whose personality and memory sit behind a subscription, exposing how AI gadget makers are pricing emotion as a service.",
-      "tool": "Gadgets",
+      "title": "Home Assistant automations finally read like plain English",
+      "url": "https://www.xda-developers.com/home-assistant-automations-read-english-rewrote-ones-been-scared-touch/",
+      "source": "XDA Developers",
+      "published_iso": "2026-08-10T21:00:10Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-3.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Intent-based triggers replace years of automation guesswork.",
       "category": "gadgets",
+      "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Companion-robot hardware where the personality and memory live behind a paywall — a sharp case study in what happens when the emotional layer of a product becomes a subscription tier."
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://www.pcworld.com/article/3203877/the-fcc-just-changed-the-rules-for-robot-vacuums-heres-what-it-means-for-yours.html",
-      "reason": "content dup — same 2026-07-28 FCC import-restriction ruling already published inside gadgets-byd-xiao-di-humanoid (2026-08-05)"
-    },
-    {
-      "url": "https://9to5google.com/2026/08/08/pixel-11-all-of-the-last-minute-leaks-video/",
-      "reason": "within-pool dup of the Pixel 11 Pro XL hands-on leak (same event, same outlet, same day)"
-    },
-    {
-      "url": "https://www.androidauthority.com/pixel-11-proactive-assistance-3696051/",
-      "reason": "Pixel 11 pre-launch leak cluster — held back; the launch event itself (Aug 12) is the story worth publishing"
-    },
-    {
-      "url": "https://9to5google.com/2026/08/08/google-pixel-11-pro-xl-hands-on-leak/",
-      "reason": "Pixel 11 pre-launch leak cluster — held back for the same reason"
+      "rationale": "Intent-based triggers replace brittle device-state logic — a hands-on account of automations becoming readable, which is exactly how AI should change tooling."
     }
   ]
 }

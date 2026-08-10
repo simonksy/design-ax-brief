@@ -1,31 +1,56 @@
 {
- "date": "2026-08-10",
- "section": "science",
- "media": [
-  {
-   "id": "science-ai-telescope-scheduler",
-   "type": "image",
-   "src": "pipeline/media/science-ai-telescope-scheduler.jpg"
-  },
-  {
-   "id": "science-q-chipp-neoantigen",
-   "type": "image",
-   "src": "pipeline/media/science-q-chipp-neoantigen.jpg"
-  },
-  {
-   "id": "science-cognitive-map-planner",
-   "type": "image",
-   "src": "pipeline/media/science-cognitive-map-planner.jpg"
-  },
-  {
-   "id": "science-nsf-self-driving-labs",
-   "type": "image",
-   "src": "pipeline/media/science-nsf-self-driving-labs.svg"
-  },
-  {
-   "id": "science-schrodinger-farid-ai",
-   "type": "image",
-   "src": "pipeline/media/science-schrodinger-farid-ai.jpg"
-  }
- ]
+  "date": "2026-08-11",
+  "section": "science",
+  "media": [
+    {
+      "id": "science-mit-geopt-physics-pretraining",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/science-mit-geopt-physics-pretraining.jpg",
+      "source": "in-article",
+      "origin": "https://news.mit.edu/sites/default/files/images/202608/mit-csail-geopt.jpg",
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "id": "science-aalto-reading-rl-model",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/science-aalto-reading-rl-model.jpg",
+      "source": "in-article",
+      "origin": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-reinforc.jpg",
+      "width": 800,
+      "height": 530
+    },
+    {
+      "id": "science-ai-agents-for-science",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/science-ai-agents-for-science.jpg",
+      "source": "in-article",
+      "origin": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "science-teen-ai-mental-health-surge",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/science-teen-ai-mental-health-surge.jpg",
+      "source": "in-article",
+      "origin": "https://scx1.b-cdn.net/csz/news/800a/2026/mental-health-ai.jpg",
+      "width": 800,
+      "height": 530
+    },
+    {
+      "id": "science-single-lead-ecg-heart-failure-ai",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/science-single-lead-ecg-heart-failure-ai.jpg",
+      "source": "in-article",
+      "origin": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/36e731f1-06d8-497d-bfb2-f3a22e079103/Rendition/low-res/Content/Public",
+      "width": 700,
+      "height": 466
+    }
+  ]
 }
