@@ -1,38 +1,57 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "music",
   "media": [
     {
-      "id": "music-suno-voices-mobile",
+      "id": "music-daddario-ai-admission",
       "kind": "video",
       "type": "video",
-      "src": "pipeline/media/music-suno-voices-mobile.mp4",
-      "poster": "pipeline/media/music-suno-voices-mobile.jpg"
+      "src": "pipeline/media/music-daddario-ai-admission.mp4",
+      "poster": "pipeline/media/music-daddario-ai-admission.jpg",
+      "source": "in-article-embed",
+      "origin": "https://www.youtube.com/watch?v=22iRLD7yvsw",
+      "clip": { "start": 42, "window": 14, "speed": 1.75, "duration": 8.0, "width": 1280, "height": 720 }
     },
     {
-      "id": "music-unlearning-hub",
-      "kind": "image",
-      "type": "image",
-      "src": "pipeline/media/music-unlearning-hub.jpg"
-    },
-    {
-      "id": "music-headrush-nam",
+      "id": "music-omni-rust-daw",
       "kind": "video",
       "type": "video",
-      "src": "pipeline/media/music-headrush-nam.mp4",
-      "poster": "pipeline/media/music-headrush-nam.jpg"
+      "src": "pipeline/media/music-omni-rust-daw.mp4",
+      "poster": "pipeline/media/music-omni-rust-daw.jpg",
+      "source": "in-article-embed",
+      "origin": "https://www.youtube.com/watch?v=ZETNTQjv40I",
+      "clip": { "start": 38.8, "window": 14, "speed": 1.75, "duration": 8.0, "width": 1280, "height": 720 }
     },
     {
-      "id": "music-saregama-ai-videos",
+      "id": "music-suno-vinyl",
       "kind": "image",
       "type": "image",
-      "src": "pipeline/media/music-saregama-ai-videos.jpg"
+      "src": "pipeline/media/music-suno-vinyl.jpg",
+      "source": "in-article",
+      "origin": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-08/Suno.jpg.webp",
+      "note": "source was webp; converted to jpg",
+      "width": 961,
+      "height": 540
     },
     {
-      "id": "music-agents-release-ops",
+      "id": "music-push-hack",
       "kind": "image",
       "type": "image",
-      "src": "pipeline/media/music-agents-release-ops.png"
+      "src": "pipeline/media/music-push-hack.jpg",
+      "source": "in-article",
+      "origin": "https://cdm.link/app/uploads/2026/08/hackpushcolors.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "id": "music-soundid-cpop-voices",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/music-soundid-cpop-voices.jpg",
+      "source": "in-article",
+      "origin": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
+      "width": 620,
+      "height": 434
     }
   ]
 }

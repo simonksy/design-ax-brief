@@ -1,68 +1,68 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "movies",
   "count": 5,
-  "dedup_note": "Checked against sections.movies today (2026-08-10) + days 2026-08-05..09 (30 published cards). Dropped 2 candidates: (1) IndieWire 'AI dogs podcast' — same event as today's published Variety card movies-wb-ai-dog-podcast (Warner Bros. DogPack promo); (2) Curious Refuge 'NVIDIA's World Model is the Future' — same source + same core topic as the published 2026-08-05 card movies-seedance-nvidia (NVIDIA Cosmos world model breakdown). Backfilled with the next-best surviving candidates. Final 5 = 5 distinct outlets, no repeated URL.",
+  "dedup_note": "Checked against sections.movies today (2026-08-11) + days 2026-08-06..10 (30 published cards; every URL read). No candidate matched a published URL or a published story. Within-pool duplicate dropped: Animation Magazine 'Nura Launches First Original Animated Series Rainbow Hollow' is the same launch as the AWN piece — kept the AWN version, which carries the Showcraft pipeline detail and the early-September public-open date. Also passed over No Film School's Wonder Dynamics founders interview as too close to the already-published 2026-08-08 card movies-autodesk-flow (Autodesk Flow Studio), and passed over the second AWN item (Nolia studio launch) to keep outlet spread. Final 5 = 5 distinct outlets, no repeated URL, no repeated story.",
   "picks": [
     {
-      "title": "Creating an AI Short Film (Full Workflow) | Runway",
-      "url": "https://www.youtube.com/watch?v=TM8hd2lnrEk",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-08-10T15:39:26Z",
-      "og_image": "https://i.ytimg.com/vi/TM8hd2lnrEk/maxresdefault.jpg",
-      "excerpt": "Runway walks through an end-to-end short-film build inside its toolset, from reference and shot planning to generation, extension and assembly. A rare start-to-finish look at how a generative short is actually structured rather than a feature teaser.",
+      "title": "Impossible Objects superpowers VFX production with AI models running on HP ZGX Nano",
+      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
+      "source": "fxguide",
+      "published_iso": "2026-08-11T10:45:46Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-iohp-v3.jpg",
+      "excerpt": "LA studio Impossible Objects is running AI models locally on HP ZGX Nano desktops so artists can fold generative steps into an existing VFX pipeline without shipping plates to the cloud. The piece details how artist-driven AI workflows sit alongside traditional comp and 3D tools.",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Highest actionability in the pool — a full, reproducible short-film pipeline from the vendor itself, not a feature teaser."
+      "rationale": "The most actionable item in the pool — a working studio shows how to keep plates on-prem and still put generative steps inside a normal comp and 3D pipeline."
     },
     {
-      "title": "ILM and Pixar Named in Disney's AI Push as Cost Cuts Continue",
-      "url": "https://www.awn.com/news/ilm-and-pixar-named-disneys-ai-push-cost-cuts-continue",
+      "title": "Nura Studios Debuts 'Rainbow Hollow' Stop-Motion Styled AI Series",
+      "url": "https://www.awn.com/news/nura-studios-debuts-rainbow-hollow-stop-motion-styled-ai-series",
       "source": "Animation World Network",
-      "published_iso": "2026-08-06T00:57:43Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/twdc1b_0.jpg?itok=WF9YUtiA",
-      "excerpt": "An SEC filing shows Disney funding machine learning at Disney Research Studios and Imagineering, with ILM and Pixar named, and promising a creative process that stays 'human-centered.' The pledge lands after job reductions at Pixar and the creation of an internal AI oversight body.",
+      "published_iso": "2026-08-11T16:18:48Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/rainbow_hollow_milo_cat-1280.jpg?itok=LclXfrEN",
+      "excerpt": "Noah Wagner's new series was produced on Nura's Showcraft platform, which handles story, layout, animation, edit and post finishing inside one environment. The system opens to the public in early September.",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Disclosed in an SEC filing, so it is the hardest evidence yet of where AI sits inside ILM and Pixar's actual production org."
+      "rationale": "A single-environment production platform with a dated public opening — a finished series is the proof, and early September is the date to plan around."
     },
     {
-      "title": "Promise AI Developing Horror Feature 'Touch Grass'; Dave Clark Directing",
-      "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/",
-      "source": "Deadline",
-      "published_iso": "2026-08-10T14:06:11Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Touch-Grass-1.jpg?w=1024",
-      "excerpt": "AI studio Promise is developing an original horror feature with 'Backrooms' filmmaker Dave Clark directing, produced with Bloody Disgusting. It is another test of whether a generative-first pipeline can carry a full narrative feature rather than a short.",
+      "title": "Vida Scene Search: AI Scene-Level Search, No Manual Logging Required",
+      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
+      "source": "postPerspective",
+      "published_iso": "2026-07-30T22:53:06Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vida-news-1.jpg",
+      "excerpt": "Vida added an offline AI indexing layer to its Content OS MAM so post teams can search inside video libraries at the moment level. It removes the dependency on metadata that was hand-logged years ago.",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Same-day news that moves the generative-first pipeline from short-form proof to a financed narrative feature with a genre partner attached."
+      "rationale": "Moment-level search over an unlogged archive changes a concrete daily chore for post and archive teams, and the indexing runs offline."
     },
     {
-      "title": "AI Studio Asteria Strikes Strategic Partnership With Virtual Production Studio ZeroSpace",
-      "url": "https://variety.com/2026/biz/news/ai-studio-asteria-strikes-strategic-partnership-zerospace-1236825083/",
-      "source": "Variety",
-      "published_iso": "2026-07-31T15:54:13Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/07/32.png?w=1000&h=563&crop=1",
-      "excerpt": "Generative studio Asteria is tying its 'clean' model pipeline to ZeroSpace's virtual production stage, volumetric capture and mocap facilities. The deal points at a hybrid workflow where live capture and generative shots are built in the same production.",
+      "title": "A New Free Seminar Teaches Documentary Filmmakers When and How to Opt Out of AI",
+      "url": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
+      "source": "IndieWire",
+      "published_iso": "2026-08-11T16:30:00Z",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
+      "excerpt": "Field of Vision and Freedom of the Press Foundation are running the sixth edition of their Digital Security Clinic, this time on AI. It walks documentary teams through where AI enters their pipeline and how to opt out of it.",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "A licensed-model studio bolting onto a real volumetric/mocap stage is the concrete shape of the hybrid capture-plus-generation workflow."
+      "rationale": "The rare opt-out playbook: a free, dated clinic that maps where AI quietly enters a doc pipeline and how to switch each entry point off."
     },
     {
-      "title": "HBO Max Dips Toe Into Vertical Video With 'HBO Max Shorts' and New AI-Driven Features",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-shorts-vertical-video-new-ai-driven-features-1236658099/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-07-28T15:23:29Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/Conversational_Search_group_PR-1-H-2026.jpg?w=1296&h=730&crop=1",
-      "excerpt": "HBO Max is launching a vertical 'Shorts' feed alongside AI-driven conversational search and discovery features. A streamer reformatting premium catalogue for vertical playback changes the framing and cutdown work asked of editors and promo teams.",
+      "title": "Peacock Launches First Serialized Mobile Game 'Public Eye'",
+      "url": "https://deadline.com/2026/08/peacock-new-serial-mobile-game-public-eye-1237029824/",
+      "source": "Deadline",
+      "published_iso": "2026-08-10T15:00:00Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/WOLFPublicEye.png?w=1024",
+      "excerpt": "Peacock's first episodic interactive title comes out of NBCUniversal's pact with Wolf Games, the generative-AI startup co-founded by Elliot Wolf. It is a test of AI-generated serialized storytelling built by a TV production house.",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "A premium streamer adding a vertical feed plus AI discovery changes the reframing and cutdown briefs editors and promo teams get next."
+      "rationale": "A major streamer shipping an episodic generative-AI title is a new delivery format, not another pilot deck — the first real read on whether it holds an audience."
     }
   ]
 }

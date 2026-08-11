@@ -1,58 +1,41 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-apple-reference-image",
-      "kind": "image",
+      "id": "gadgets-infimaker-k1",
       "type": "image",
-      "src": "pipeline/media/gadgets-apple-reference-image.jpg",
-      "origin": "in-article lead image",
-      "source_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg",
-      "width": 1600,
-      "height": 800
+      "src": "pipeline/media/gadgets-infimaker-k1.jpg",
+      "source_url": "https://www.androidauthority.com/wp-content/uploads/2026/07/InfiMaker-K1-CNC-machine-scaled.jpg",
+      "origin": "in-article lead image"
     },
     {
-      "id": "gadgets-meta-muse-glimmer",
-      "kind": "image",
+      "id": "gadgets-local-llm-igpu",
       "type": "image",
-      "src": "pipeline/media/gadgets-meta-muse-glimmer.jpg",
-      "origin": "in-article lead image",
-      "source_url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg",
-      "width": 1600,
-      "height": 900
+      "src": "pipeline/media/gadgets-local-llm-igpu.jpg",
+      "source_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/running-same-llm-on-rtx-5070-and-integrated-graphics.jpg",
+      "origin": "in-article lead image"
     },
     {
-      "id": "gadgets-norecognition-pattern",
-      "kind": "image",
+      "id": "gadgets-windows11-ai-unbundle",
       "type": "image",
-      "src": "pipeline/media/gadgets-norecognition-pattern.jpg",
-      "origin": "in-article lead image",
-      "source_url": "https://techcrunch.com/wp-content/uploads/2026/08/patterns-example-norecognition.jpg",
-      "width": 1346,
-      "height": 898
+      "src": "pipeline/media/gadgets-windows11-ai-unbundle.jpg",
+      "source_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-Patch-Tuesday47.jpg",
+      "origin": "og:image (article HTML images lazy-loaded, none extractable)"
     },
     {
-      "id": "gadgets-hoverair-versa",
-      "kind": "video",
-      "type": "video",
-      "src": "pipeline/media/gadgets-hoverair-versa.mp4",
-      "poster": "pipeline/media/gadgets-hoverair-versa.jpg",
-      "origin": "embedded YouTube source video (HoverAir Versa teaser)",
-      "source_url": "https://www.youtube.com/watch?v=eWNhu7JzLRM",
-      "width": 1280,
-      "height": 720,
-      "duration": 8.0
+      "id": "gadgets-abbott-lingo-google-health",
+      "type": "image",
+      "src": "pipeline/media/gadgets-abbott-lingo-google-health.jpg",
+      "source_url": "https://www.engadget.com/img/gallery/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/intro-1786473283.jpg",
+      "origin": "in-article lead image"
     },
     {
-      "id": "gadgets-home-assistant-intent-triggers",
-      "kind": "image",
+      "id": "gadgets-ios27-siri-voice",
       "type": "image",
-      "src": "pipeline/media/gadgets-home-assistant-intent-triggers.jpg",
-      "origin": "in-article lead image",
-      "source_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-3.jpg",
-      "width": 1600,
-      "height": 1066
+      "src": "pipeline/media/gadgets-ios27-siri-voice.jpg",
+      "source_url": "https://images.macrumors.com/article-new/2026/08/ios-27-siri-voice.jpg",
+      "origin": "in-article lead image (full-res, thumbnail crop stripped)"
     }
   ]
 }

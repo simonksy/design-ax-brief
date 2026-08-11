@@ -1,37 +1,33 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "movies",
   "media": [
     {
-      "id": "movies-runway-short-film-workflow",
-      "kind": "video",
+      "id": "movies-impossible-objects-zgx-nano",
+      "type": "image",
+      "src": "pipeline/media/movies-impossible-objects-zgx-nano.jpg"
+    },
+    {
+      "id": "movies-nura-rainbow-hollow",
       "type": "video",
-      "src": "pipeline/media/movies-runway-short-film-workflow.mp4",
-      "poster": "pipeline/media/movies-runway-short-film-workflow.jpg"
+      "src": "pipeline/media/movies-nura-rainbow-hollow.mp4",
+      "poster": "pipeline/media/movies-nura-rainbow-hollow.jpg"
     },
     {
-      "id": "movies-disney-ilm-pixar-ai",
-      "kind": "image",
+      "id": "movies-vida-scene-search",
       "type": "image",
-      "src": "pipeline/media/movies-disney-ilm-pixar-ai.jpg"
+      "src": "pipeline/media/movies-vida-scene-search.jpg"
     },
     {
-      "id": "movies-promise-touch-grass",
-      "kind": "image",
+      "id": "movies-doc-opt-out-ai-clinic",
       "type": "image",
-      "src": "pipeline/media/movies-promise-touch-grass.jpg"
+      "src": "pipeline/media/movies-doc-opt-out-ai-clinic.jpg"
     },
     {
-      "id": "movies-asteria-zerospace",
-      "kind": "image",
-      "type": "image",
-      "src": "pipeline/media/movies-asteria-zerospace.jpg"
-    },
-    {
-      "id": "movies-hbo-max-shorts",
-      "kind": "image",
-      "type": "image",
-      "src": "pipeline/media/movies-hbo-max-shorts.jpg"
+      "id": "movies-peacock-public-eye",
+      "type": "video",
+      "src": "pipeline/media/movies-peacock-public-eye.mp4",
+      "poster": "pipeline/media/movies-peacock-public-eye.jpg"
     }
   ]
 }

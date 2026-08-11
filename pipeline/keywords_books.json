@@ -1,361 +1,64 @@
 {
-  "date": "2026-08-11",
-  "now_iso": "2026-08-10T22:00:00Z",
+  "date": "2026-08-12",
   "section": "books",
-  "freshness_window_hours": 336,
-  "rotation_note": "Unattended scheduled run targeting 5 cards — FULL keyword set used (all 3 core + the entire books keywords list = 25 working keywords, no rotation subset). Day-of-month 11 rotation applied to (a) emphasis order — day 10 swung to the PRODUCTION-AND-CRAFT head (book cover, literary translation, audiobook narration, narration voices, generative fiction, comic manga, ebook tools, Sudowrite, textbook), so day 11 swings to the RIGHTS-MARKET-AND-READER tail (copyright/licensing, KDP + self-publishing platforms, book marketing, discovery/recommendation, reading assistant, summarization, manuscript/slush screening, ghostwriting, editing) while keeping every day-10 emphasis keyword alive with one query each; (b) which allowed_domains each keyword aims at — rotated one slot forward from 2026-08-10 so outlets that got no lead pass yesterday lead today (publishersweekly.com, publishingperspectives.com, lithub.com, bookriot.com, teleread.org, electricliterature.com, scholarlykitchen.sspnet.org, mediabistro.com, the-digital-reader.com, goodreads.com, bookbub.com), while yesterday's leaders (thecreativepenn.com, kindlepreneur.com, writersdigest.com, goodereader.com, janefriedman.com, selfpublishingadvice.org, ireaderreview.com, thebookseller.com) drop to one query each; (c) which YouTube creators surface first — day 9 led with Sudowrite, day 10 with The Creative Penn + The Nerdy Novelist, so day 11 leads with Self Publishing with Dale and selfpublishing.com and keeps Sudowrite as a second pass. Note: the last two days already published the Pope Leo AI encyclical, the Princeton/Cashmere-style AI participation-layer licensing angle, the Asian Publishers Week Seoul AI theme, the novel-chapter-to-AI-film craft video, Claude 30-day book drafting, the seven AI-text tells, EU AI Act disclosure and the PW metadata summit — so AI-detection, disclosure-labeling and AI-text-tells angles are deliberately demoted to single queries today.",
-  "seeds_from_user": [],
-  "avoided_recent_topics": [
-    "Pope Leo XIV's AI encyclical — 'disarm AI', data ownership, regulation (2026-08-10, Publishing Perspectives)",
-    "AI participation layer / RAG licensing for scholarly and trade backlist (2026-08-10, The Scholarly Kitchen)",
-    "Asian Publishers Week Seoul — 'Publishing in the Age of AI' delegate call (2026-08-10)",
-    "Turning a novel chapter into an AI film — beats, shots, visual bible (2026-08-10, The Nerdy Novelist)",
-    "Claude 30-day nonfiction book workflow — voice training, model chapter, 3-pass edit, KDP upload (2026-08-09)",
-    "Seven sentence habits that give AI text away, plus a Claude skill to catch them (2026-08-09, The Nerdy Novelist)",
-    "EU AI Act transparency duty for AI-generated / manipulated content sold into the EU (2026-08-09, Jane Friedman)",
-    "ProWritingAid launches 'ProWritingMethod'; Barnes & Noble local-author bar, Apple Books downtime, Lulu ToS (2026-08-09, Self Publishing with Dale)",
-    "Media Transformation Summit — AI makes publishing faster but not easy; metadata/ONIX rewrite for AI discovery (2026-08-09, Publishers Weekly)",
-    "Chakrabarti study — 14,419 self-published Amazon books, >1 in 4 show AI traces (2026-08-08, ALLi + NYT)",
-    "Authors of colour disproportionately targeted by AI-use suspicion (2026-08-08, The Bookseller)",
-    "Peer review under strain as AI sits on both sides of the desk (2026-08-08, The Scholarly Kitchen)",
-    "Substack site-wide AI detection with Pangram — false positives, opt-out disputes (2026-08-08, Jane Friedman)",
-    "HarperCollins — AI narration for translations and backlist via ElevenLabs (2026-08-08, Good e-Reader)",
-    "HarperCollins CEO Brian Murray — AI-assisted books may be public domain, human-authorship certification (2026-08-07, Publishers Weekly)",
-    "Papers AI — Digital Science / Overleaf AI-native researcher workspace (2026-08-07, Publishing Perspectives)",
-    "Korean publishing has no AI-disclosure labeling standard; 커뮤니케이션북스 HAP 인증 (2026-08-07)",
-    "'책도둑' ebook app hid AI translation of 730 classics; 한국출판인회의 AI 헌장 (2026-08-07)",
-    "Perplexity ebook store + Library of Congress indie titles + Spotify 100M audiobook listeners (2026-08-07, ALLi)",
-    "ChatGPT blocking requests to imitate specific authors' styles (2026-08-06, Jane Friedman / Engadget)",
-    "Cambridge University Press / Villanova study — AI stories rated higher than human ones (2026-08-06, The Bookseller)",
-    "Anthropic destructive book scanning, 'Project Panama' (2026-08-06, The Guardian)",
-    "Tor Bramble / H.M. Wolfe 'Daggermouth' Pangram 60% AI-detection claim (2026-08-06, The Bookseller)",
-    "Agents cannot authenticate manuscripts after the $2.4M AI-suspected deal collapse (2026-08-05, The Bookseller)",
-    "Secondhand booksellers' bulk orders suspected as AI training data / Zoom Books (2026-08-05)",
-    "AALA literary agent ethics code revision effective Sept 1 (2026-08-05, Publishing Perspectives)",
-    "US Copyright Office chief (Perlmutter) removal lawsuit (2026-08-05, Publishing Perspectives)"
+  "now_iso": "2026-08-11T22:00:00Z",
+  "mode": "full-pool-no-rotation",
+  "note": "Unattended scheduled run. Orchestrator override: working set = ENTIRE section pool (core + all rotation keywords), no date rotation, no WebSearch at plan time. Expand with adjacent terms if short.",
+  "categories": [
+    "books"
   ],
-  "working_keywords": [
-    {
-      "keyword": "AI writing",
-      "source": "core",
-      "expansions": [
-        "writing software ships a new AI feature 2026",
-        "novelist workflow with an LLM drafting assistant",
-        "writing app release notes AI mode",
-        "AI 글쓰기 도구 신규 기능"
-      ]
-    },
-    {
-      "keyword": "AI 출판",
-      "source": "core",
-      "expansions": [
-        "인공지능 출판 산업 동향 2026",
-        "출판사 AI 도입 사례 국내",
-        "AI 저작권 도서 라이선스 계약",
-        "전자책 오디오북 AI 서비스 출시"
-      ]
-    },
-    {
-      "keyword": "AI publishing",
-      "source": "core",
-      "expansions": [
-        "publisher launches an AI product 2026",
-        "AI in editorial acquisition and production",
-        "publishing house AI policy announcement",
-        "trade publishing AI partnership or licensing deal"
-      ]
-    },
-    {
-      "keyword": "AI copyright authors",
-      "source": "pool",
-      "expansions": [
-        "authors collective licensing of AI training data",
-        "AI licensing royalties paid to writers",
-        "book opt-out registry for model training",
-        "authors guild lawsuit ruling AI 2026"
-      ]
-    },
-    {
-      "keyword": "KDP AI",
-      "source": "pool",
-      "expansions": [
-        "Amazon KDP AI content policy update",
-        "Kindle AI tools and features for authors",
-        "AI generated titles flooding the Amazon store",
-        "KDP volume limits AI disclosure"
-      ]
-    },
-    {
-      "keyword": "AI self-publishing",
-      "source": "pool",
-      "expansions": [
-        "indie author AI production stack 2026",
-        "self-publishing platform ships an AI feature",
-        "Draft2Digital PublishDrive Lulu AI update",
-        "print-on-demand AI automation"
-      ]
-    },
-    {
-      "keyword": "AI book marketing",
-      "source": "pool",
-      "expansions": [
-        "AI ad creative and copy for book launches",
-        "AI generated book trailer",
-        "answer engine optimization for book pages",
-        "publisher marketing AI tooling adoption"
-      ]
-    },
-    {
-      "keyword": "AI book recommendation",
-      "source": "pool",
-      "expansions": [
-        "AI discovery feature in a bookstore or retailer app",
-        "chatbot as book recommender 2026",
-        "Goodreads StoryGraph AI recommendation update",
-        "AI browse and merchandising for backlist"
-      ]
-    },
-    {
-      "keyword": "AI reading assistant",
-      "source": "pool",
-      "expansions": [
-        "e-reader AI companion feature Kindle Kobo",
-        "AI recap of the previous book in a series",
-        "AI annotation and margin notes tool",
-        "reading comprehension AI app launch"
-      ]
-    },
-    {
-      "keyword": "AI book summarization",
-      "source": "pool",
-      "expansions": [
-        "summary app licensing deal with publishers",
-        "chatbot summaries and book sales impact",
-        "AI study guide for nonfiction titles",
-        "Blinkist style AI summary service news"
-      ]
-    },
-    {
-      "keyword": "AI manuscript",
-      "source": "pool",
-      "expansions": [
-        "slush pile AI screening tool",
-        "acquisitions AI reader report",
-        "submissions portal AI rules update",
-        "literary magazine AI submission surge"
-      ]
-    },
-    {
-      "keyword": "AI ghostwriting",
-      "source": "pool",
-      "expansions": [
-        "ghostwriters and the AI drafting market",
-        "AI use disclosure clause in book contracts",
-        "memoir written with AI assistance",
-        "AI 대필 논란 출판 계약"
-      ]
-    },
-    {
-      "keyword": "AI editing proofreading",
-      "source": "pool",
-      "expansions": [
-        "copyeditors adopting AI tools 2026",
-        "AI developmental edit manuscript report",
-        "proofreading AI accuracy study in publishing",
-        "freelance editors rates AI impact"
-      ]
-    },
-    {
-      "keyword": "AI co-writing",
-      "source": "pool",
-      "expansions": [
-        "author collaborating with AI on a novel",
-        "AI co-author credit and byline",
-        "human-in-the-loop drafting tool launch"
-      ]
-    },
-    {
-      "keyword": "AI poetry",
-      "source": "pool",
-      "expansions": [
-        "poetry journal AI submission policy",
-        "AI poetry collection published 2026",
-        "poets respond to machine written verse"
-      ]
-    },
-    {
-      "keyword": "AI children's book",
-      "source": "pool",
-      "expansions": [
-        "AI illustrated picture book controversy",
-        "children's publisher AI illustration rules",
-        "personalized AI storybook startup funding"
-      ]
-    },
-    {
-      "keyword": "AI textbook",
-      "source": "pool",
-      "expansions": [
-        "education publisher AI tutor product",
-        "adaptive courseware AI launch 2026",
-        "university press AI assistant for readers",
-        "학술 출판 AI 교과서"
-      ]
-    },
-    {
-      "keyword": "AI ebook tools",
-      "source": "pool",
-      "expansions": [
-        "ebook formatting automation with AI",
-        "epub accessibility alt text AI generation",
-        "AI metadata and keyword tool for backlist",
-        "e-reader software AI update"
-      ]
-    },
-    {
-      "keyword": "Sudowrite",
-      "source": "pool",
-      "expansions": [
-        "Sudowrite Muse update 2026",
-        "NovelCrafter Squibler AI novel software",
-        "AI story bible and outlining feature",
-        "fiction writing app AI release notes"
-      ]
-    },
-    {
-      "keyword": "generative fiction",
-      "source": "pool",
-      "expansions": [
-        "AI written novel released 2026",
-        "interactive AI storytelling app launch",
-        "AI fiction imprint experiment",
-        "serialized AI story platform funding"
-      ]
-    },
-    {
-      "keyword": "AI book cover",
-      "source": "pool",
-      "expansions": [
-        "AI generated cover art publisher policy",
-        "cover design tool AI feature for indie authors",
-        "AI 표지 디자인 논란"
-      ]
-    },
-    {
-      "keyword": "AI literary translation",
-      "source": "pool",
-      "expansions": [
-        "AI translated fiction rights deal 2026",
-        "translators association AI position statement",
-        "post-editing workflow for translated novels"
-      ]
-    },
-    {
-      "keyword": "AI audiobook narration",
-      "source": "pool",
-      "expansions": [
-        "AI narrated audiobook catalogue expansion",
-        "virtual voice title retailer policy change",
-        "narrator union AI voice agreement"
-      ]
-    },
-    {
-      "keyword": "AI narration voices",
-      "source": "pool",
-      "expansions": [
-        "ElevenLabs publishing voice deal",
-        "author voice clone licensing terms",
-        "multilingual synthetic narration launch"
-      ]
-    },
-    {
-      "keyword": "AI comic manga",
-      "source": "pool",
-      "expansions": [
-        "AI manga translation localization pipeline",
-        "webtoon studio AI art workflow",
-        "만화 웹툰 AI 번역 제작"
-      ]
-    }
+  "keywords": [
+    "AI writing",
+    "AI 출판",
+    "AI publishing",
+    "AI co-writing",
+    "AI book cover",
+    "AI audiobook narration",
+    "AI literary translation",
+    "generative fiction",
+    "AI ghostwriting",
+    "AI ebook tools",
+    "AI editing proofreading",
+    "Sudowrite",
+    "AI self-publishing",
+    "KDP AI",
+    "AI narration voices",
+    "AI book marketing",
+    "AI book summarization",
+    "AI reading assistant",
+    "AI poetry",
+    "AI children's book",
+    "AI manuscript",
+    "AI comic manga",
+    "AI textbook",
+    "AI copyright authors",
+    "AI book recommendation"
   ],
-  "plan": [
-    {
-      "category": "books",
-      "label": "Books",
-      "allowed_domains": [
-        "publishersweekly.com",
-        "thebookseller.com",
-        "goodereader.com",
-        "janefriedman.com",
-        "lithub.com",
-        "publishingperspectives.com",
-        "bookriot.com",
-        "teleread.org",
-        "writersdigest.com",
-        "kindlepreneur.com",
-        "thecreativepenn.com",
-        "electricliterature.com",
-        "scholarlykitchen.sspnet.org",
-        "mediabistro.com",
-        "the-digital-reader.com",
-        "ireaderreview.com",
-        "wired.com",
-        "theverge.com",
-        "techcrunch.com",
-        "goodreads.com",
-        "bookbub.com",
-        "arstechnica.com",
-        "booksandpublishing.com.au",
-        "selfpublishingadvice.org",
-        "selfpublishing.com",
-        "youtube.com",
-        "youtu.be"
-      ],
-      "queries": [
-        "authors collective licensing AI training data royalties deal site:publishersweekly.com",
-        "AI copyright lawsuit ruling authors publishers August 2026 site:publishingperspectives.com",
-        "book opt-out registry model training rights licensing 2026 site:lithub.com",
-        "Amazon KDP AI content policy update Kindle authors 2026",
-        "Kindle new AI feature for authors and readers site:techcrunch.com",
-        "self-publishing platform AI feature Draft2Digital PublishDrive Lulu 2026",
-        "indie author AI production stack print-on-demand automation site:selfpublishing.com",
-        "AI book marketing ad creative book trailer publisher tooling site:mediabistro.com",
-        "answer engine optimization book pages AI discovery marketing site:bookbub.com",
-        "AI book recommendation discovery feature bookstore retailer app site:goodreads.com",
-        "StoryGraph Goodreads AI recommendation update 2026 site:bookriot.com",
-        "e-reader AI companion reading assistant recap feature Kobo Kindle site:the-digital-reader.com",
-        "AI annotation margin notes reading app launch 2026 site:teleread.org",
-        "AI book summarization app publisher licensing sales impact 2026",
-        "slush pile AI screening submissions acquisitions reader report site:thebookseller.com",
-        "literary magazine AI submissions surge policy site:electricliterature.com",
-        "ghostwriter AI disclosure clause book contract memoir site:janefriedman.com",
-        "copyeditors adopting AI developmental edit proofreading rates 2026 site:writersdigest.com",
-        "AI co-author credit byline human-in-the-loop drafting tool 2026",
-        "poetry journal AI submission policy machine written verse 2026",
-        "AI illustrated children's picture book publisher rules site:booksandpublishing.com.au",
-        "education publisher AI tutor adaptive courseware university press site:scholarlykitchen.sspnet.org",
-        "ebook formatting automation epub accessibility alt text AI site:ireaderreview.com",
-        "Sudowrite Muse NovelCrafter Squibler AI novel software update 2026",
-        "AI written novel imprint serialized AI fiction platform launch site:wired.com",
-        "AI generated book cover art policy indie author cover tool site:kindlepreneur.com",
-        "AI literary translation rights deal translators association statement 2026",
-        "AI narrated audiobook virtual voice retailer policy expansion site:goodereader.com",
-        "ElevenLabs author voice clone audiobook licensing publisher 2026 site:theverge.com",
-        "AI manga webtoon translation localization studio workflow 2026",
-        "AI 출판 저작권 인공지능 도서 라이선스 오디오북 2026",
-        "site:youtube.com Self Publishing with Dale AI self-publishing news 2026",
-        "site:youtube.com Sudowrite AI writing tool update 2026",
-        "site:youtube.com The Creative Penn AI tools for authors August 2026"
-      ]
-    }
-  ],
-  "wildcard_queries": [
-    "AI publishing industry news this week August 2026 authors rights",
-    "AI 도서 출판 인공지능 뉴스 2026년 8월"
-  ],
-  "totals": {
-    "working_keywords": 25,
-    "categories": 1,
-    "queries": 36
-  }
+  "queries": [
+    "AI writing AI news",
+    "AI 출판 AI news",
+    "AI publishing AI news",
+    "AI co-writing AI news",
+    "AI book cover AI news",
+    "AI audiobook narration AI news",
+    "AI literary translation AI news",
+    "generative fiction AI news",
+    "AI ghostwriting AI news",
+    "AI ebook tools AI news",
+    "AI editing proofreading AI news",
+    "Sudowrite AI news",
+    "AI self-publishing AI news",
+    "KDP AI AI news",
+    "AI narration voices AI news",
+    "AI book marketing AI news",
+    "AI book summarization AI news",
+    "AI reading assistant AI news",
+    "AI poetry AI news",
+    "AI children's book AI news",
+    "AI manuscript AI news",
+    "AI comic manga AI news",
+    "AI textbook AI news",
+    "AI copyright authors AI news",
+    "AI book recommendation AI news"
+  ]
 }

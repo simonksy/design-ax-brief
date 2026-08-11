@@ -1,92 +1,68 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "games",
+  "count": 5,
+  "dedup_note": "Checked against sections.games today (2026-08-11, 5 cards) + days 2026-08-06..10 (24 cards; every URL and body read). DROPPED as duplicates of already-published stories: (1) Eurogamer '1666: Amsterdam AI tools controversy' — same Patrice Desilets 'we live in a world full of AI' story already published 2026-08-11 as games-1666-ai-assets-cut (GamesRadar+); (2) Rock Paper Shotgun 'Nexus Mods update their generative AI mod tagging policy' — same Nexus three-tag split already published 2026-08-08 as games-modding-ai (same outlet, same core topic); (3) Eurogamer 'Stellar Blade 2 generative AI music video' and (4) Destructoid 'Stellar Blade AI slop music video' — same Shift Up AI music video story already published 2026-08-10 as games-blood-rain-cope (Kotaku). Within-pool duplicates dropped, strongest article kept: TheGamer 'Rideshare Stimulator replaced lead writer with ChatGPT' (kept GamesRadar+, which names Stella Sacco and the missing Steam AI disclosure); GamingBolt 'Black Myth Zhong Kui avoiding generative AI' (kept GamesRadar+, which carries the direct 'steer clear of AI-generated content during the design and asset phases' quote plus the Odyssey/Nolan craft framing). Backfilled from the surviving pool. Passed over: GamesRadar+ Oblivion poison-apple emergent-AI anecdote (evergreen recollection, low novelty) and Eurogamer Kingdom Hearts 'human error' asset fix (two months stale and thematically overlapping with the Saber disclosure card). Final 5 = 5 distinct stories, 4 distinct outlets, no repeated URL, max 2 cards from any one domain.",
   "picks": [
     {
-      "rank": 1,
+      "title": "Saber Interactive \"replaced me with ChatGPT\" midway through development, but AI use is not disclosed on Steam, claims former lead writer",
+      "url": "https://www.gamesradar.com/games/simulation/saber-interactive-replaced-me-with-chatgpt-midway-through-development-but-ai-use-is-not-disclosed-on-steam-claims-former-lead-writer/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-08-11T19:26:01Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GwurUCWSHLDo5mea9ApPzg-1920-80.jpg",
+      "excerpt": "Former Saber lead writer Stella Sacco says she was 'replaced with ChatGPT' midway through work on the newly announced Rideshare Stimulator, whose passenger stories are its selling point. She notes the Steam page carries no AI disclosure despite the writing role being handed to a chatbot.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-08-10T16:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/szrjvRP5ugTH28quHLyhJE-1920-80.jpg",
-      "excerpt": "Patrice Desilets says Panache pulled every gen-AI asset from the 1666: Amsterdam prologue and will ship none in Early Access, admitting the team stopped noticing AI art in its own pipeline: 'we didn't even realize it was AI anymore because we were used to seeing it.' He defends the tool as a variation engine a 'small team' can't staff for — 75 versions in three seconds versus 75 illustrators.",
-      "rationale": "The sharpest craft warning of the week: a studio lead admits AI assets went visually invisible to his own team, which is exactly the review-gate problem every art director now has to design for."
+      "rationale": "A named credit-holder says a shipping studio swapped a core craft role for a chatbot and then left the store page silent — the sharpest live test yet of what an AI disclosure is actually worth."
     },
     {
-      "rank": 2,
+      "title": "This New 24/7 Society Simulator Is Powered By Thousands Of AI-Controlled NPCs",
+      "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs",
+      "source": "80 Level",
+      "published_iso": "2026-08-05T19:54:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49614/images/6a739570826f0/contain_1200x630.jpg",
+      "excerpt": "Klang's simulation game SEED runs thousands of AI-driven characters that keep living, working and reshaping society around the clock, even after players log off. Each character carries its own knowledge graph, so memories, relationships and rumours diverge per NPC.",
       "tool": "Games",
       "accent": "#0070f3",
-      "motif": "frame",
-      "url": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
-      "source": "Game Developer",
-      "published_iso": "2026-08-10T15:02:54Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf582a97c7f66b1e6/6a79e9d13f9687dbb361f2ae/Eve_Header.png",
-      "excerpt": "Fenris Creations (EVE Online / EVE Frontier) has named Aslaug Arna Sigurbjornsdottir senior director of AI partnerships to push autonomous-agent work. The design hook: the studio wants EVE Frontier used as a live testbed where 'autonomous agents can be observed in a real, open and evolving economy, alongside real people.'",
-      "rationale": "A live MMO economy being offered as an agent testbed is a genuinely new systems-design brief — agents as inhabitants, not as production tooling."
+      "motif": "cube",
+      "rationale": "Per-NPC knowledge graphs that keep running while players are offline is a concrete architecture for persistent world design, not another chatbot-in-a-tavern demo."
     },
     {
-      "rank": 3,
+      "title": "Unreal Fest Chicago 2026: shipping real-time model inference inside games",
+      "url": "https://www.youtube.com/watch?v=BFfebAtBLfU",
+      "source": "Unreal Engine (YouTube)",
+      "published_iso": "2026-08-07T07:00:35-07:00",
+      "og_image": "https://i.ytimg.com/vi/BFfebAtBLfU/maxresdefault.jpg",
+      "excerpt": "An Unreal Fest Chicago 2026 talk on shipping real-time inference inside games, where memory footprint and runtime efficiency now matter as much as raw model quality. Practical guidance for teams putting neural models into the frame budget rather than the marketing deck.",
       "tool": "Games",
       "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
-      "source": "GameSpot",
-      "published_iso": "2026-08-07T18:35:00Z",
-      "og_image": "",
-      "excerpt": "Take-Two boss Strauss Zelnick tells investors that AI tooling inside the GTA 6 publisher's studios is additive rather than substitutive — 'AI tools aren't going to replace anyone.' It's the clearest statement yet from a top-tier publisher on where it draws the line between AI-assisted production and headcount.",
-      "rationale": "The most quotable line a lead can take into an AI-policy meeting: a top-tier publisher putting the augment-not-replace boundary on the investor record."
+      "motif": "cube",
+      "rationale": "The one pick that changes tomorrow's build: it treats a model as something that has to fit the frame and memory budget, with engine-level guidance from Epic itself."
     },
     {
-      "rank": 4,
+      "title": "Black Myth: Wukong sequel isn't using AI because the devs were inspired by The Odyssey and Christopher Nolan's filmmaking techniques",
+      "url": "https://www.gamesradar.com/games/action-rpg/black-myth-wukong-sequel-isnt-using-ai-because-the-devs-were-inspired-by-the-odyssey-and-christopher-nolans-filmmaking-techniques-no-rush/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-08-10T12:34:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GEb56f3tQ68JQjKBgKXBUi-1920-80.jpg",
+      "excerpt": "Game Science art director Yang Qi says Black Myth: Zhong Kui will 'steer clear of AI-generated content during the design and asset phases' — 'not out of resistance, but simply to stand our ground until the very end.' The studio frames its craft references as The Odyssey and Christopher Nolan's filmmaking rather than generative tooling.",
       "tool": "Games",
       "accent": "#2ec5c5",
-      "motif": "swatch",
-      "url": "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/",
-      "source": "PC Gamer",
-      "published_iso": "2026-08-01T19:49:37Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3gXeWZeoc7hdUtoUuRM39h-1920-80.jpg",
-      "excerpt": "Megumi Ogata, the voice of Shinji in Evangelion, calls AI voice cloning 'heartbreaking' and asks the Japanese government to step in. The push lands as synthetic-voice pipelines spread through game and anime production and Japan still lacks the AI consent terms SAG-AFTRA won in the US.",
-      "rationale": "Voice is the one asset class where consent terms differ by territory — a concrete reason to write AI clauses into JP-side voice contracts before the law does."
+      "motif": "cube",
+      "rationale": "A studio at the top of the market draws the line at a specific phase — design and asset production — which is a usable policy shape, not a blanket no."
     },
     {
-      "rank": 5,
+      "title": "Gamescom Dev speaker survey identifies potential impacts of AI on team structure and productivity",
+      "url": "https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-08-11T14:05:37Z",
+      "og_image": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg",
+      "excerpt": "A Gamescom Dev speaker survey finds nearly half of respondents expect AI-assisted development to be the most significant industry trend of the next three years. Respondents point to changes in team structure and productivity rather than headcount alone.",
       "tool": "Games",
       "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989",
-      "source": "Kotaku",
-      "published_iso": "2026-08-10T13:48:22Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/no-mans-sky-1200x675.jpg",
-      "excerpt": "Hello Games' Sean Murray — whose studio literally shipped the poster child for procedural generation — says he is in no hurry to fold generative AI into No Man's Sky's production, comparing the industry-wide AI race to post-COVID return-to-office mandates. His pitch: 'let's just enjoy making games the way we've always made games.'",
-      "rationale": "The most credible possible 'not yet' — the procedural-generation studio declining the gen-AI mandate reframes adoption pressure as a schedule choice, not an inevitability."
+      "motif": "cube",
+      "rationale": "Hard numbers from working developers on where AI lands next — team shape and throughput — giving leads something to plan org charts against instead of vibes."
     }
-  ],
-  "dedup_notes": {
-    "checked_against": "news_data.json sections.games — today 2026-08-10 (4 cards) + days 2026-08-05..2026-08-09 (25 cards), 29 published cards total, plus the 2026-08-10 curator dedup log in pipeline/selected_games.json.",
-    "already_published_matches": [
-      {
-        "url": "https://kotaku.com/google-ai-somehow-leaked-a-game-devs-content-plans-hidden-inside-their-own-google-docs-2000722497",
-        "reason": "Same event as published 2026-08-07 card games-google-ai-leaks-private-docs (GamesRadar+, https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/) — identical indie dev (Klub Kofta / Operation Octo) and the same 'Vantage Tripod' name pulled from a private Google Doc. Different outlet, same story. This item was already rejected for the same reason on 2026-08-10; dropped again."
-      }
-    ],
-    "within_pool_duplicates_collapsed": [
-      {
-        "story": "Studios publicly declining generative AI in art/asset production",
-        "kept": "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/ (1666: Amsterdam, concrete assets pulled) and https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989 (Hello Games)",
-        "dropped": [
-          "https://gamingbolt.com/black-myth-zhong-kui-studio-is-avoiding-the-use-of-generative-ai-for-design-asset-production"
-        ],
-        "reason": "Distinct studios and distinct events, so not a hard duplicate — but three 'studio says no to gen-AI' cards in one issue, on top of the 2026-08-10 Aftermath no-genAI roster card, would read as one repeated story. Kept the two with the most specific production detail and dropped the weakest-sourced restatement."
-      }
-    ],
-    "also_dropped": [
-      {
-        "url": "https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610",
-        "reason": "Not a duplicate, but the lowest-scoring survivor: a single miscounted-fingers correction with no production takeaway. Dropping it also keeps Kotaku at one card in the final five."
-      }
-    ],
-    "diversity": "5 picks, 5 distinct outlets (GamesRadar+, Game Developer, GameSpot, PC Gamer, Kotaku) — no outlet appears twice. Five distinct angles: asset-review blindness in a shipping pipeline, autonomous agents inside a live MMO economy, publisher policy on AI vs headcount, voice-cloning consent and JP regulation, and a marquee studio opting out of the adoption race. All share the single 'games' category, so each pick carries a distinct accent and motif from sources.json."
-  }
+  ]
 }

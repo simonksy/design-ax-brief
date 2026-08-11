@@ -1,122 +1,123 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "music",
   "selected_by": "curator (user deferred — auto-pick)",
   "picks": [
     {
       "rank": 1,
-      "title": "Suno brings its voice clone tool to iOS and Android, opens a limited version to free users",
-      "url": "https://www.musicbusinessworldwide.com/suno-brings-its-voice-clone-tool-to-ios-and-android-opens-a-limited-version-to-free-users/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-08-10T11:27:15Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/Suno_Voices3-e1786325517488.jpg",
-      "excerpt": "Suno's Voices feature — record or upload yourself singing, then generate new songs in your own voice — is now on iOS and Android, with a limited version opened to free users. Consented self-cloning moves from a paid desktop experiment to a default mobile capability.",
+      "title": "\"We got this wrong… We do not support AI-generated music\": D'Addario admits generative AI was used on string demo video after all",
+      "url": "https://www.musicradar.com/guitars/daddario-admits-ai-used-instring-demo-video",
+      "source": "MusicRadar",
+      "published_iso": "2026-08-11T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/z9H4sYWjQE42gw9xW8iKRi.jpg",
+      "excerpt": "D'Addario reversed its denial and confirmed Suno Studio was used to \"regenerate the original track\" in its NYXL HD electric guitar string demo video. The brand apologised for sharing inaccurate information and for deleting critical comments, and says its process will change going forward.",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Consented voice cloning becomes a free, phone-native default — the most concrete change in how anyone can make vocals tomorrow."
+      "rationale": "A major instrument brand gets caught denying generative AI in its own marketing audio — the clearest signal yet that undisclosed AI in a demo is now a reputational liability, not a shortcut."
     },
     {
       "rank": 2,
-      "title": "Can AI Unlearn Music? What Musicians Need to Know",
-      "url": "https://www.hypebot.com/can-ai-unlearn-music-what-musicians-need-to-know/",
-      "source": "Hypebot",
-      "published_iso": "2026-08-10T14:25:45Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/machine-unlearning-hub.png",
-      "excerpt": "AI companies increasingly promise they can \"unlearn\" a musician's work after training, but the new Machine Unlearning Research Hub argues that removing data from a trained model is largely infeasible today. Hypebot translates the research into what an artist should actually ask for when a platform offers opt-out.",
+      "title": "OMNi (alpha v0.1), a FREE Rust-based DAW with native AI sample generation",
+      "url": "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/TomaszGluc-OMNi-728x364.jpg",
+      "excerpt": "Developer Tomasz Głuc has released OMNi, a free DAW written entirely in Rust with AI sample generation and image-to-sound synthesis built into the core rather than bolted on as a plugin. It's an early alpha, but it points at what a natively generative DAW looks like.",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Turns a research finding into a negotiating checklist — what an opt-out or takedown promise can and cannot deliver."
+      "rationale": "The first free DAW where generation lives in the core instead of a plugin slot — downloadable today and the closest look at how a natively generative session actually behaves."
     },
     {
       "rank": 3,
-      "title": "HeadRush rolls out Tone3000 integration and native support for NAM captures on its amp and effects modellers",
-      "url": "https://www.musicradar.com/guitars/headrush-adds-tone3000-nam-capture",
-      "source": "MusicRadar",
-      "published_iso": "2026-08-04T18:40:36Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hvYNSH99RKbotGVsvbRfwX-1200-80.jpg",
-      "excerpt": "HeadRush 5.1 adds native Neural Amp Modeler capture support and Tone3000 integration to its Prime modellers, letting players load \"hundreds of thousands\" of community-trained neural amp captures straight onto the rig. Neural tone-cloning stops being a nerd side-project and becomes a stock feature of mainstream guitar hardware.",
+      "title": "Suno announces vinyl pressing service for AI-generated music",
+      "url": "https://djmag.com/news/suno-announces-vinyl-pressing-service-ai-generated-music",
+      "source": "DJ Mag",
+      "published_iso": "2026-08-11T15:27:00Z",
+      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-08/Suno.jpg.webp",
+      "excerpt": "Suno users can now compile tracks from their library into a custom 12-inch record holding up to 46 minutes of audio, pressed and shipped by Suno for around $45 plus shipping. It pushes prompt-generated music into a physical, collectible format for the first time.",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "An open neural-capture format lands as a stock firmware feature on mainstream hardware — a shipping update players can install now."
+      "rationale": "Prompt-generated music gets a physical release format and a price — a new distribution surface, and a packaging/artwork problem landing on designers' desks."
     },
     {
       "rank": 4,
-      "title": "Saregama is using AI to make music videos for songs whose visuals it never owned",
-      "url": "https://www.musicbusinessworldwide.com/saregama-indias-oldest-label-is-using-ai-to-make-music-videos-for-songs-whose-visuals-it-never-owned-and-refresh-its-catalog-for-gen-z/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-08-05T16:45:26Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/2-IMAGES-98.jpg",
-      "excerpt": "Saregama, India's oldest label, is generating AI music videos for catalogue songs whose original visuals it never owned, repackaging decades of audio-only recordings for Gen Z feeds. A concrete production-design use case for generative video sitting on top of a legacy music catalogue.",
+      "title": "Push Hack, very unauthorized access to Push 3's display, files, MIDI, and more",
+      "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
+      "source": "CDM Create Digital Music",
+      "published_iso": "2026-08-03T00:00:00Z",
+      "og_image": "https://cdm.link/app/uploads/2026/08/Push-Hack-Installation.png",
+      "excerpt": "Federico Pepe's Push Hack opens SSH access to Ableton Push 3's Linux layer, giving full control of the display, file system and MIDI routing. Notably, it was built with AI-assisted coding agents — a reminder that machine learning is now very good at reverse-engineering closed music hardware.",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "A real production pipeline where generative video gives an audio-only catalogue new visual identity — the clearest design-side use case in the pool."
+      "rationale": "Coding agents cracked a closed controller's firmware and handed users its display and MIDI layer — the practical proof that AI is now a hardware-modding tool, not just a sound generator."
     },
     {
       "rank": 5,
-      "title": "How AI Agents Are Quietly Automating Music Companies: From A&R to Release Ops",
-      "url": "https://www.digitalmusicnews.com/2026/07/29/ai-agents-music-industry-pibox/",
-      "source": "Digital Music News",
-      "published_iso": "2026-07-29T23:00:38Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/Pibox_article_hero-3-scaled.png",
-      "excerpt": "AI agents are quietly taking over the back office of music companies — delivery QC, metadata cleanup, trend monitoring and even early A&R screening. DMN separates what is actually shipping from what is still a pitch deck, with a look at how release ops teams are restructuring around it.",
+      "title": "Sonarworks expand SoundID VoiceAI library",
+      "url": "https://www.soundonsound.com/news/sonarworks-expand-soundid-voiceai-library",
+      "source": "Sound On Sound",
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
+      "excerpt": "Sonarworks added a C-Pop Voices Expansion Pack of 10 Chinese voice models to SoundID VoiceAI, aimed at Mandopop and Cantopop production. The models were trained on ethically sourced material with artist consent and compensation.",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "The only workflow-side story in the pool: which release-ops tasks agents are actually taking over, and which are still vapour."
+      "rationale": "Licensed, consent-and-royalty voice models keep expanding by language and market — the cleanest working example of vocal AI that a commercial release can actually clear."
     }
   ],
   "dedup": {
-    "checked_against": "news_data.json → sections.music (today 2026-08-10 + days 2026-08-05…2026-08-09, 30 published cards)",
+    "checked_against": "news_data.json → sections.music (today 2026-08-11 + days 2026-08-06…2026-08-10, 30 published cards)",
     "dropped": [
       {
-        "url": "https://musictech.com/news/music/daft-punks-thomas-bangalter-explains-why-hes-not-interested-in-the-creative-use-of-ai/",
-        "reason": "Same story as today's published card music-bangalter-ai (DJ Mag) — same Art Basel remarks, different outlet."
+        "url": "https://completemusicupdate.com/songwriter-ai-victory-in-europe-as-gema-beats-suno-in-copyright-lawsuit/",
+        "reason": "Within-pool duplicate of the MusicTech GEMA-vs-Suno ruling item (librarian flagged it) — only one could survive, and both were then dropped for the reason below."
       },
       {
-        "url": "https://www.musicbusinessworldwide.com/symphonic-partners-with-artyshield-to-give-artists-tools-that-protect-their-music-and-voices-from-unauthorized-ai-use/",
-        "reason": "Same announcement as 2026-08-07 card music-symphonic-musicshield (Music Ally) — Symphonic × ArtyShield partnership."
+        "url": "https://musictech.com/news/industry/suno-copyright-infringement-germany/",
+        "reason": "The Munich/GEMA ruling has already been reported in substance inside published cards music-komca-ai-disclosure (08-06), music-musixmatch-sentinel (08-07) and music-suno-voices-mobile (08-11). Same event, reworded — not a new story."
       },
       {
-        "url": "https://www.digitalmusicnews.com/2026/07/29/google-ai-all-in-one-music-studio/",
-        "reason": "Flow Music Spaces song creation / editing / stem splitting was already covered inside the 2026-08-08 card music-google-lyria35 (MBW)."
+        "url": "https://www.musicradar.com/music-tech/we-have-a-clear-set-of-principles-that-are-always-rooted-in-supporting-artistry-and-creativity-says-suno-ceo-as-company-seeks-to-limit-reputational-damage-from-latest-legal-defeat",
+        "reason": "Same release as the 08-07 card music-suno-download-watermark (Digital Music News) — Suno's watermarking + download-limit response to the German ruling."
       },
       {
         "url": "https://www.gearnews.com/neural-amp-modeler-guide-guitar/",
-        "reason": "Within-pool overlap with the stronger HeadRush NAM/Tone3000 release story — kept one NAM item only."
+        "reason": "Same NAM-capture-on-hardware story as the 08-11 card music-headrush-nam (MusicRadar); also explicitly dropped as an overlap by yesterday's curator pass."
       },
       {
-        "url": "https://www.soundonsound.com/news/ik-multimedia-launch-tonex-20-beta",
-        "reason": "Not a dup, but third neural amp-capture item in one day — dropped for topical spread."
+        "url": "https://www.hypebot.com/the-era-of-unlabeled-ai-content-in-europe-is-ending/",
+        "reason": "The EU AI Act labelling obligation ran as a music card on 2026-08-05 (now rolled off the 5-day window) and is restated inside the 08-06 KOMCA and 08-07 Sentinel cards — earliest-wins."
       },
       {
-        "url": "https://www.musicradar.com/guitars/fender-ceo-clarifies-controversial-ai-comments",
-        "reason": "Artist/exec AI-discourse piece; section already ran two (Luke Steele 08-09, Bangalter 08-10) and actionability is low."
+        "url": "https://www.hypebot.com/quiet-riot-ozzy-bassist-rudy-sarzo-on-how-he-uses-ai/",
+        "reason": "Same outlet + same core topic as the 08-09 card music-suno-30years (Hypebot) — a musician's personal account of finishing songs with Suno."
       },
       {
-        "url": "https://www.digitalmusicnews.com/2026/07/28/spotify-wont-label-ai-music-third-parties/",
-        "reason": "AI-labelling theme already saturated across 08-05 EU AI Act, 08-06 chart rules, 08-07 Suno watermark, 08-08 Spotify slop purge."
+        "url": "https://www.hypebot.com/we-cant-outrun-ai-but-we-can-stop-tripping-over-ourselves/",
+        "reason": "Not a dup, but an evergreen op-ed with no release, ruling or tool behind it — lowest actionability in the pool, cut on score."
       }
     ]
   },
   "diversity_check": {
     "outlets": {
-      "Music Business Worldwide": 2,
-      "Hypebot": 1,
       "MusicRadar": 1,
-      "Digital Music News": 1
+      "Bedroom Producers Blog": 1,
+      "DJ Mag": 1,
+      "CDM Create Digital Music": 1,
+      "Sound On Sound": 1
     },
-    "max_per_outlet": 2,
-    "distinct_outlets": 4,
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
     "topics": [
-      "AI vocal cloning",
-      "training data / unlearning",
-      "neural amp capture hardware",
-      "AI music video production",
-      "agentic release ops"
+      "undisclosed AI in brand marketing audio",
+      "natively generative DAW",
+      "AI music on physical vinyl",
+      "AI-assisted hardware reverse engineering",
+      "licensed AI voice models"
     ]
   }
 }

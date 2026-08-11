@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "games",
   "cards": [
     {
-      "id": "games-1666-ai-assets-cut",
+      "id": "games-saber-chatgpt-writer",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에셋을 전량 걷어낸 스튜디오\n\"우리도 AI인 줄 몰랐다\"",
-      "body": "데모에 섞여 나간 AI 그림은 모두 사람이 다시 그렸고, 게임 어디에도 AI는 쓰지 않는다.",
-      "mini_headline": "우리도 AI인 줄 몰랐다",
+      "headline": "\"개발 중간에 ChatGPT가 나를 대체했다\"\n그런데 Steam엔 AI 표기가 없다",
+      "body": "리드 라이터였던 Stella Sacco는 승객 목소리까지 AI였다고 밝혔지만, Steam 페이지에는 AI 표기가 없다.",
+      "mini_headline": "작가를 지우고 표기도 없다",
       "tool": "Games",
       "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/",
+      "url": "https://www.gamesradar.com/games/simulation/saber-interactive-replaced-me-with-chatgpt-midway-through-development-but-ai-use-is-not-disclosed-on-steam-claims-former-lead-writer/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -18,227 +18,297 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Patrice Désilets가 1666: Amsterdam에서 AI로 만든 에셋을 모두 빼고 앞으로도 쓰지 않겠다고 다시 못 박았다. 걸러지지 않은 부분은 사과했고, 같은 일이 되풀이되지 않게 하겠다고 했다."
+            "x": "퍼블리셔 Saber Interactive가 곧 내놓을 운전 시뮬레이션 Rideshare \"Stimulator\"에 생성형 AI를 크게 썼고, 일부 인력은 ChatGPT 같은 봇으로 아예 대체했으면서도 Steam 상점 페이지에는 AI 사용을 알리지 않았다는 주장이 나왔다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/szrjvRP5ugTH28quHLyhJE-1920-80.jpg",
-            "cap": "이미지: GamesRadar+"
+            "src": "https://cdn.mos.cms.futurecdn.net/GwurUCWSHLDo5mea9ApPzg-1920-80.jpg",
+            "cap": "이미지: Saber Interactive"
           },
           {
             "t": "p",
-            "x": "\"우리는 AI로 가득한 세상에 산다. 우리끼리니까 솔직히 말하자면 그렇다.\" Désilets의 말이다. \"다만 파이프라인에서 충분히 손보지 못한 부분이 있었다. 그 뒤로는 게임 어디에도 AI를 쓰지 않도록 확실히 했다.\""
+            "x": "Rideshare \"Stimulator\"는 7월 30일 Saber와 개발사 Unigine이 공개한 트레일러로 처음 알려졌다. 8월 11일, 전 리드 라이터 Stella Sacco가 Bluesky에서 이 소식에 반응하며 Saber가 AI 사용을 묻어뒀다고 했다."
           },
           {
             "t": "p",
-            "x": "논란은 Summer Game Fest에서 이 마녀 액션 어드벤처가 공개된 뒤 시작됐다. Panache Digital이 Steam에 올린 짧은 무료 데모에서 눈 밝은 플레이어들이 AI로 만든 그림을 찾아냈다. 최근 신작 시연 행사에서 Assassin's Creed를 만든 그는 기자들에게 \"최종 결과물에는 들어가지 않는다\"고 했다. 생성형 AI 아트가 지적되자마자 일러스트레이터에게 정리를 맡겼고, 지금은 모든 그림이 \"진짜\"라고 확인했다."
+            "x": "\"공개된 줄도 몰랐다. 내가 이 게임 리드 라이터였다. 그리고 Saber는 개발 중간에 나를 ChatGPT로 대체했다.\" Sacco의 말이다. \"승객 목소리도 전부 AI였다. 중간에 방향을 바꿨거나, 아니면 Steam에 표기를 안 하고 있는 것이다.\""
           },
           {
             "t": "p",
-            "x": "Désilets에 따르면 팀이 AI 도구를 쓴 건 개발 초기였다. \"나는 AI에게 한 가지를 75가지로 변주해 달라고 할 수 있다. 일러스트레이터 75명을 불러 3초 만에 변주를 받아볼 수는 없다. 우리가 사는 세상이 그렇고, 우리는 이 게임을 만드는 작은 팀이다.\" 그가 말했다. \"결국엔 그게 AI라는 것조차 알아채지 못하게 됐다. 계속 보다 보니 익숙해져서다.\""
+            "x": "Sacco는 2023년 12월 21일에 올렸던 글도 함께 가리켰다. \"직장에서 내가 맡던 게임 하나에서 내가 대체됐다. ChatGPT로.\""
           },
           {
             "t": "p",
-            "x": "\"그 점은 정말 미안하다. 솔직히 말하면 2~3년 전에 우리끼리 하던 일이다. 데모를 내보낼 때 걸러지지 않은 게 있었다. 앞으로는 그런 일이 없다.\""
+            "x": "그의 LinkedIn 이력에는 2023년 7월부터 2024년 7월까지 Saber에 있었고 \"STUNTMAN HOLLYWOOD를 비롯한 Saber 포트폴리오 여러 게임의 리드 라이터\"였다고 적혀 있다."
+          },
+          {
+            "t": "video",
+            "yt": "lQxBAE1tE8g"
           },
           {
             "t": "p",
-            "x": "1666: Amsterdam은 8월 25일 얼리 액세스에 들어간다. Steam에서 PC로 내려받아 플레이할 수 있다."
+            "x": "Rideshare \"Stimulator\"는 운전 시뮬레이션에 차량 호출 사업 시뮬레이션을 겹쳐놓은 게임을 표방한다. 플레이어는 도시를 가로지르는 경로를 짜고, 승객과 이야기하고, 높은 기사 평점을 노린다."
+          },
+          {
+            "t": "p",
+            "x": "\"차를 피하고, 규칙을 지키고, 시간과 싸우며 별난 승객들을 내려주자. 저마다 사연이 있는데 흥미롭거나 웃기거나 그냥 이상하다.\" Steam 소개문의 문구다. 최근 새로 만들어진 Saber 웹사이트 페이지도 같은 표현을 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "그 Steam 페이지에 눈에 띄게 빠진 것이 AI 사용 고지다. Valve는 \"게임에 함께 배포되어 플레이어가 소비하는 콘텐츠\"에 생성형 AI를 쓴 게임이라면 Steam에 그 사실을 밝히도록 요구한다. Steamworks 콘텐츠 설문 문서에 따르면 \"아트워크, 사운드, 서사, 현지화 등\"이 여기 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "많은 개발자가 Valve의 생성형 AI 정책을 지지한다고 GamesRadar+에 말해 왔다. 다만 업계에는 반대도 있다. Epic Games와 Epic Games Store를 이끄는 Tim Sweeney가 대표적이다."
+          },
+          {
+            "t": "p",
+            "x": "이 의혹은 이미 공개 트레일러의 YouTube 댓글로 옮겨붙었다. PS5 버전 영상도 마찬가지다."
+          },
+          {
+            "t": "p",
+            "x": "\"'작가와 성우를 AI로 갈아치웠습니다!' 다 알겠다.\" 기사 마감 한 시간 전에 달린 댓글이다."
+          },
+          {
+            "t": "p",
+            "x": "\"AI 글쓰기에 AI 음성.\" 그보다 한 시간 앞서 올라온 댓글은 이렇게 적었다."
+          },
+          {
+            "t": "p",
+            "x": "\"Steam 페이지에 AI 고지가 없던데 고칠 생각인가? 최소한 작가 한 명은 chatgpt에 밀려 나간 것 같은데.\" 최근 달린 또 다른 댓글이다."
+          },
+          {
+            "t": "p",
+            "x": "GamesRadar+는 Rideshare \"Stimulator\"의 AI 사용과 정책을 두고 Saber Interactive에 입장을 물었다."
+          },
+          {
+            "t": "p",
+            "x": "조금 다른 이야기로, Saber CEO Matt Karch는 최근 Rideshare \"Simulator\"에 Gearbox CEO Randy Pitchford를 겨냥한 농담이 실제로 들어 있다고 확인했다."
           }
         ]
       }
     },
     {
-      "id": "games-eve-frontier-agent-testbed",
+      "id": "games-seed-ai-society",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트의 시험장으로\nEVE 세계를 열겠다는 스튜디오",
-      "body": "Fenris Creations가 EVE Frontier의 살아 있는 경제를 자율 AI 에이전트를 관찰하는 실험장으로 열겠다고 밝혔다.",
-      "mini_headline": "MMO 경제가 실험장",
+      "headline": "모두 로그아웃한 뒤에도 도시는 돌아간다\nSEED를 굴리는 AI 주민 수천 명",
+      "body": "캐릭터마다 자기만의 지식 그래프를 쌓아서, 같은 사건도 누가 보고 들었느냐에 따라 다르게 남는다.",
+      "mini_headline": "로그아웃해도 도시는 산다",
       "tool": "Games",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs",
       "accent": "#0070f3",
-      "motif": "frame",
+      "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "EVE Online을 만든 Fenris Creations(옛 CCP Games)가 아이슬란드 전 장관 Áslaug Arna Sigurbjörnsdóttir를 AI 파트너십 총괄 디렉터로 영입했다."
+            "x": "EVE Online에서 출발한 Klang의 시뮬레이션 게임 SEED는 AI 캐릭터가 플레이어의 접속과 무관하게 계속 살고 일하며 사회를 만들어간다. 자체로 만든 추론 파이프라인이 이를 떠받친다."
           },
           {
             "t": "p",
-            "x": "Sigurbjörnsdóttir는 아이슬란드 정부에서 법무장관과 고등교육·과학·혁신부 장관을 지냈다. Fenris는 그에게 AI 연구소와 대학, 정책 담당자, 전략 파트너와의 협업을 맡겼다. EVE Online의 생존 스핀오프 EVE Frontier를 무대로 삼는 새 연구 계획이다."
+            "x": "수십 년 동안 MMORPG는 한 가지 한계 위에 서 있었다. 플레이어가 접속해 있을 때만 세계가 살아난다. 도시는 밤이면 유령 도시가 되고, NPC는 누군가 다음 퀘스트를 눌러주기를 기다린다. Klang Games의 사회 시뮬레이터 SEED는 그 전제를 흔들려 한다. AI 캐릭터 수천이 하루 24시간 살고 일하고 짓고 어울리는 지속형 세계다."
           },
           {
             "t": "img",
-            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf582a97c7f66b1e6/6a79e9d13f9687dbb361f2ae/Eve_Header.png",
-            "cap": "붉은 SF 지평선을 가로지르는 EVE Frontier의 함선"
+            "src": "https://cdn.80.lv/api/upload/content/af/6a7393c162e8a.jpg",
+            "cap": "이미지: Klang Games"
           },
           {
             "t": "p",
-            "x": "회사 발표문은 이렇게 적었다. \"Fenris Creations는 지난 몇 달 동안 대담한 가설 하나를 검증할 계획을 준비해 왔다. EVE Frontier처럼 실제 사회·경제 시스템이 떠받치는 지속형 가상 세계가, 고도화된 AI가 우리 일상에 더 깊이 들어오기 전에 그것을 시험할 살아 있는 무대가 될 수 있다는 가설이다.\""
+            "x": "구상의 뿌리는 EVE Online 초기까지 거슬러 올라간다. \"거기서 우리는 여전히 게임의 미래라고 믿는 무언가를 봤다. EVE에는 방대한 생태계가 있지만, 동시에 역사상 가장 하드코어한 게임 중 하나이기도 하다. 그래서 묻기 시작했다. 수백만 명을 품으면서도 다가가기 쉬운 놀이터는 어떤 모습일까.\" Klang CEO Mundi Vondi의 말이다."
           },
           {
             "t": "p",
-            "x": "\"끝나면 초기화되는 짧은 시뮬레이션에만 기대는 대신, 자율 에이전트를 실제 사람들과 함께 진짜 결과가 따르는 열리고 진화하는 경제 안에서 관찰할 수 있는 장소를 만드는 것이 목표다. 회사의 게임만이 내놓을 수 있는 역동적 시스템 안에서 말이다.\""
+            "x": "그 물음이 SEED의 토대가 됐다. 플레이어는 아바타를 직접 조종하는 대신 AI가 움직이는 \"Seedling\"을 돌본다. 이 캐릭터는 관계를 맺고 직업을 갖고 가정을 꾸린다. 도시는 플레이어가 짓지만, 굴러가게 하는 쪽은 자율 캐릭터다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/21/6a739403db220.jpg",
+            "cap": "이미지: Klang Games"
           },
           {
             "t": "p",
-            "x": "레이캬비크의 이 스튜디오는 EVE 세계가 자율 AI를 훈련시키기에 알맞다고 본다. 정해진 종착점이 없고, 수십만 명의 선택이 빚어내는 예측 불가능한 우주라서다."
+            "x": "\"캐릭터마다 우리가 지식 그래프라 부르는 것이 있고, 그건 그 캐릭터만의 것이다. 한 캐릭터가 다른 캐릭터를 사랑하게 됐다면, 그 감정이 되돌아오지 않는 한 오직 그 캐릭터의 관점에서만 참이다.\" 80LV와의 인터뷰에서 Vondi가 한 설명이다. 그래프는 오로지 경험으로 만들어져서, 각자 보거나 전해 들은 것에 따라 같은 사건도 다르게 남는다."
           },
           {
             "t": "p",
-            "x": "\"그래서 이곳은 자율 시스템의 행동을 진짜 사회, 진짜 경제에 가까운 조건에서 연구할 수 있는 몇 안 되는 장소다. 실제 사람들이 가져오는 비합리적이고 감정적이며 예측할 수 없는 반응까지 포함해서다.\" 회사의 설명이다."
+            "x": "이 비대칭이 창발하는 드라마를 만든다. 한 캐릭터가 다른 캐릭터에게 그의 어머니가 죽었다고 거짓말을 한다. 나중에 죽었다던 여인이 마을을 걸어가는 모습을 마주치자, AI는 스스로 앞뒤를 맞춰 모순을 알아채고 속았다는 사실을 깨닫고 관계를 바꾼다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/76/6a7393d022963.png",
+            "cap": "이미지: Klang Games"
           },
           {
             "t": "p",
-            "x": "\"EVE 세계의 새 장인 EVE Frontier에서 자율 AI 시스템은 목표를 세우고 변화에 반응하며 긴 시간에 걸쳐 일관된 결정을 이어간다. 그 과정이 살아 있는 열린 세계 안에서 관찰된다. 연구자들은 진짜로 복잡한 환경에서 모델의 행동을 더 잘 평가하고, 앞으로의 AI를 책임 있게 개발하는 데 참고할 수 있다.\""
+            "x": "Klang은 상용 AI API에 기대는 대신 Google의 오픈소스 모델 Gemma를 바탕으로 자체 추론 파이프라인을 만들었다. \"Gemma를 기반으로 우리가 직접 고친 모델을 우리 하드웨어에서 돌린다. 캐릭터마다 어마어마한 지식 그래프가 쌓이는데, 전부 메모리에 올려두지 않고도 계속 자랄 수 있게 효율적으로 저장한다.\""
           },
           {
             "t": "p",
-            "x": "Fenris는 이 연구가 EVE Frontier 자체도 나아지게 한다고 말한다. NPC의 행동을 더 풍부하게 만들고 신규 플레이어 적응 과정을 다듬는 데 쓴다. \"계획이 성공하면 Fenris Creations와 EVE Frontier에게 완전히 새로운 역할이 열린다. 지능형 에이전트와 복잡계, AI 정렬 연구에 중요한 기여를 하면서, EVE Frontier가 플레이어에게 줄 수 있는 경험의 가능성도 넓어진다.\""
+            "x": "시뮬레이션은 대화에서 한참 더 나아간다. 캐릭터는 월급을 받고 돈을 쓰고 식당에 가고 치료를 받는다. 보통 게임에서는 식당을 지어도 알아서 밥을 먹으러 오는 손님이 없지만 Seedling은 온다. 주인이 접속하지 않은 시간이 대부분이라서다."
           },
           {
             "t": "p",
-            "x": "Sigurbjörnsdóttir는 정책을 만들고 집행해 본 경험이 스튜디오와 파트너들에게 도움이 된다고 했다. AI 부문을 감독하는 규제 당국과 \"의미 있는 진전\"을 만드는 일이다."
+            "x": "초기 플레이테스트에서는 한 플레이어가 시뮬레이션 전체에서 생산되는 빵을 거의 다 사들여 평소의 100배 가격에 되팔았다. 게임 속 정부가 거대한 빵 공장을 지어 맞섰지만 그 생산량까지 전부 사들이자, 결국 대통령이 어마어마한 빵세를 매겨 독점을 무너뜨렸다. \"커뮤니티는 정부가 권한을 넘어섰다고 봤고, 대통령은 다음 선거에서 졌다.\""
           },
           {
             "t": "p",
-            "x": "\"AI 혁신의 미래를 함께 그리는 데 이보다 큰 기회는 없다. 우리 파트너들이 규제 당국과 의미 있는 진전을 만들고, 안전하고 실용적이며 신뢰할 수 있는 AI 기준을 세우도록 돕는 시험장의 일원이 되는 것이다.\" 그가 말했다. \"Fenris가 이 일을 책임 있게 밀고 나가도록 돕겠다.\""
-          },
-          {
-            "t": "p",
-            "x": "Fenris가 독립 스튜디오로 서겠다고 밝히고 Google DeepMind와 연구 협력을 맺은 지 몇 달 만의 소식이다. 당시 Google은 스튜디오 지분 일부를 가져갔다."
+            "x": "SEED는 한 가족을 돌보는 케어테이커, 사업을 굴리는 기업가, 사회를 운영하는 통치자라는 세 유형을 놓고 설계됐다. \"서른다섯 살도 다시 이길 수 있는 MMO를 만드는 것이 우리가 늘 하고 싶었던 일이다.\" SEED는 얼리 액세스로 나와 있다."
           }
         ]
       }
     },
     {
-      "id": "games-take-two-ai-not-replace",
+      "id": "games-unreal-runtime-inference",
       "eyebrow": "AI NEWS",
-      "headline": "AI 도구가 누구를 대체하진 않는다\nTake-Two Zelnick의 선 긋기",
-      "body": "Strauss Zelnick은 투자자들에게 AI가 13,000명 직원의 창의성을 거들 뿐 대체하지는 못한다고 말했다.",
-      "mini_headline": "누구도 대체하지 않는다",
+      "headline": "실시간 추론을 게임에 넣을 때\n관건은 메모리와 런타임 효율",
+      "body": "Unreal Fest Chicago 2026 강연에서 Databiomes와 AMD가 오프라인 학습 모델을 실시간 실행에 맞추는 방법을 짚었다.",
+      "mini_headline": "프레임 예산 안의 AI",
       "tool": "Games",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
+      "source": "Unreal Engine (YouTube)",
+      "url": "https://www.youtube.com/watch?v=BFfebAtBLfU",
       "accent": "#f5a623",
-      "motif": "sphere",
+      "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "Grand Theft Auto 6를 만든 Take-Two Interactive의 최근 실적 발표에서 CEO Strauss Zelnick이 게임 개발에서 AI의 앞날을 이야기했다. 자기 회사도 AI를 쓰리라는 점은 인정하면서도, 이 기술이 누군가를 대체하지는 않는다는 생각은 그대로였다."
+            "t": "video",
+            "yt": "BFfebAtBLfU"
           },
           {
             "t": "p",
-            "x": "\"그 도구들이 누군가를 대체하지는 않는다.\" Zelnick의 말이다. 그는 회사가 기술을 앞세우기보다 엔터테인먼트를 만드는 데 방점을 둔다고 설명했다."
+            "x": "게임이 실시간 추론을 점점 더 받아들이면서, 메모리 사용량과 런타임 효율이 모델 자체의 품질만큼 중요해졌다."
           },
           {
             "t": "p",
-            "x": "\"우리 핵심 기둥의 첫 번째는 창의성이다.\" Zelnick이 말했다. \"전 세계에 13,000명의 동료가 있고, 그 대다수가 매일 무언가를 창작하는 사람들이다. 기술이 그들의 창의성을 키워줄 수는 있어도, 그것을 대체할 수는 없고 대체해서도 안 된다고 믿는다.\""
+            "x": "Unreal Fest Chicago 2026에서 녹화된 이 강연은 Databiomes가 AI 모델을 실제 게임 런타임에서 쓸 수 있도록 최적화해 온 과정을 다룬다. 충실도와 성능, 에너지 효율, 플랫폼 제약 사이의 균형을 AMD와 긴밀히 협업하며 잡아왔다."
           },
           {
             "t": "p",
-            "x": "Zelnick은 AI를 쓴다고 개발비가 크게 내려간다고 보지는 않는다. 대신 게임의 품질을 \"의미 있게 끌어올릴\" 수 있다고 봤다. 비슷한 말은 전에도 했다. 2025년 투자자 발표에서는 Take-Two가 인력을 줄이는 핑계로 AI를 쓰지 않겠다고 밝혔다."
+            "x": "Databiomes와 AMD는 오프라인에서 학습한 모델을 Unreal Engine의 실시간 실행에 옮기며 얻은 교훈을 짚는다. 메모리 압박을 줄이는 전략, 지연을 낮추는 방법, CPU와 GPU와 NPU를 아우르는 폭넓은 하드웨어로 확장하는 방법이 여기 들어간다."
           },
           {
             "t": "p",
-            "x": "이날 Zelnick은 GTA 6가 연기되지 않았고 11월 19일 PS5와 Xbox Series X|S로 나온다는 점도 못 박았다. GTA 6가 회사에 아주 좋은 회계연도를 안겨주리라는 전망도 내놨다. 예약 판매는 \"업계에서 전례 없는\" 수준이며, 업계가 본 적 없는 수요일지 모른다고도 했다."
+            "x": "AMD의 기술과 플러그인이 런타임 비용을 더 아끼는 데 어떻게 도움이 되는지도 함께 보여준다. 현실의 성능과 메모리 예산 안에 들어가는 AI 기능을 만들자는 이야기다. 지금 게임에 AI를 실어 보내려면 무엇이 필요한지가 강연을 보고 나면 또렷해진다."
+          },
+          {
+            "t": "p",
+            "x": "Unreal Engine 채널이 2026년 8월 7일에 올렸고, 길이는 33분 남짓이다."
           }
         ]
       }
     },
     {
-      "id": "games-ogata-voice-cloning",
+      "id": "games-zhong-kui-no-ai",
       "eyebrow": "AI NEWS",
-      "headline": "\"내 목소리는 내 정체성의 일부\"\nMegumi Ogata가 정부에 던진 물음",
-      "body": "Evangelion의 신지 목소리를 맡은 Megumi Ogata가 AI 음성 복제를 두고 일본 정부에 규칙을 세워달라고 요구했다.",
-      "mini_headline": "내 목소리는 내 정체성",
+      "headline": "\"설계와 에셋 단계에선 AI를 피한다\"\nBlack Myth 속편이 그은 선",
+      "body": "Game Science 아트 디렉터 Yang Qi는 저항이 아니라 끝까지 자리를 지키려는 선택이라고 적었다.",
+      "mini_headline": "설계와 에셋엔 AI 없이",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/action-rpg/black-myth-wukong-sequel-isnt-using-ai-because-the-devs-were-inspired-by-the-odyssey-and-christopher-nolans-filmmaking-techniques-no-rush/",
       "accent": "#2ec5c5",
-      "motif": "swatch",
+      "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "일본의 베테랑 성우 Megumi Ogata(Neon Genesis Evangelion, Danganronpa, Persona)가 최근 TBS News Dig와 만나 AI 음성 생성이 성우에게 미치는 영향을 이야기했다. 영어권에는 Automaton이 처음 전했다. 일본 정부가 초상권에 준하는 법적 틀로 이런 침해를 막는 방안을 검토하는 시점에 나온 발언이다."
+            "x": "Game Science는 Black Myth: Zhong Kui를 만들며 시간을 넉넉히 쓰고 있다."
+          },
+          {
+            "t": "p",
+            "x": "Weibo에서 Black Myth 시리즈의 아트 디렉터이자 Game Science 공동 창업자인 Yang Qi가 개발 속도를 올리는 데 AI를 쓸 거냐는 팬의 질문에 답했다. \"설계와 에셋 단계에서는 AI 생성 콘텐츠를 멀리하겠다.\" Reset Era 이용자가 옮긴 번역에 따르면 그는 이렇게 말했다. \"저항해서가 아니라, 그저 끝까지 우리 자리를 지키려 할 뿐이다.\""
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/3gXeWZeoc7hdUtoUuRM39h-1920-80.jpg",
-            "cap": "이미지: PC Gamer"
+            "src": "https://cdn.mos.cms.futurecdn.net/GEb56f3tQ68JQjKBgKXBUi-1920-80.jpg",
+            "cap": "이미지: Game Science"
           },
           {
             "t": "p",
-            "x": "Ogata는 TikTok 같은 영상 플랫폼에 AI 모방이 퍼진 상황을 짚으며, 이건 \"못 본 척할 수 없는\" 문제라고 했다."
+            "x": "그는 자기 생각을 더 풀어놓으려고 Nolan의 최신 대작 The Odyssey를 끌어왔다. \"디지털 영화 제작과 3D 후반 작업이 막다른 길에 닿은 듯한 시기에, Nolan을 보라.\" Qi가 썼다."
+          },
+          {
+            "t": "video",
+            "yt": "ZygQP-U3MtM"
           },
           {
             "t": "p",
-            "x": "\"내 목소리는 내 정체성의 일부다.\" Ogata의 말이다. \"내가 하고 싶지 않은 말을 왜 남이 제멋대로 시키고, 그걸 내 목소리라며 파는지 정말 이해가 안 된다. 가슴이 아프다."
+            "x": "\"그는 잘나가고 있다. 더 오래된 기법까지 써서 판을 흔든다.\" 그가 이어 말했다. \"우리가 반드시 잡아야 할 '막차' 같은 건 없다. 잠시 작은 여관에 머물러도 된다. 게다가 AI 같은 것에는 시간이 충분하다. 급할 것 없다.\""
           },
           {
             "t": "p",
-            "x": "\"콘텐츠 강국이라 자처하는 일본이 왜 콘텐츠 사용 규칙을 만들지 못하고, 세계를 향해 '이것이 우리 방침이다', '이건 우리에게 문제다'라고 말하지 못하나?\""
+            "x": "반가운 이야기다. 생성형 AI와 챗봇 같은 기술이 업계에서 점점 흔해지고 있어서다. Tomb Raider: Legacy of Atlantis와 Call of Duty: Black Ops 7, Kingdom Hearts는 어떤 형태로든 생성형 AI 에셋을 썼다고 확인됐거나 의심받는 세 사례이고, 모두 상당한 반발을 샀다."
           },
           {
             "t": "p",
-            "x": "다른 성우들도 비슷한 자리에 서 있다. Bethesda와 자주 작업한 Wes Johnson은 \"배우의 목소리를 AI로 *동의 없이* 가져다 모드를 만들려는 사람은 자기가 잘못하고 있다는 걸 안다\"고 트윗한 적이 있다. 오랜 게임 배우 Jennifer Hale은 스튜디오가 AI 사용에 책임을 지라고 목소리를 내왔고, 2024년 BAFTA에서는 Baldur's Gate 3 출연진 여럿이 AI 음성 복제를 강하게 비판했다."
+            "x": "Stellar Blade: Blood Rain도 홍보의 일부로 AI 뮤직비디오를 썼고, 크리에이티브 디렉터는 이 기술이 한국 게임 개발 현장에 꼭 필요하다고 본다. Game Science가 그 흐름을 버티고 사람이 이끄는 창작에만 기대는 모습은 반갑다."
           },
           {
             "t": "p",
-            "x": "흥미로운 대목은 프로와 아마추어의 경계다. 창작 직군을 자동화하려는 기업 이야기는 많이 나왔지만, Ogata와 Johnson, Baldur's Gate 3의 내레이터 Amelia Tyler는 모더와 크리에이터도 함께 지목했다. 돈 문제를 빼고 보더라도, 남의 목소리를 훔쳐 아무 말이나 시키는 건 그저 장난스러운 게시물이라 해도 섬뜩하다."
+            "x": "다만 나중에는 공정에 들어올 수도 있다는 여지는 여전히 걸린다. Stellar Blade를 둘러싼 부정적 반응이 Game Science를 적절히 말려주기를 바랄 뿐이다."
           }
         ]
       }
     },
     {
-      "id": "games-no-mans-sky-not-rushing",
+      "id": "games-gamescom-dev-survey",
       "eyebrow": "AI NEWS",
-      "headline": "AI 경쟁은 멀리서 지켜보겠다\nNo Man's Sky 10년의 답",
-      "body": "Sean Murray는 생성형 AI 도입을 서두르는 대신 업계 표준이 잡힐 때까지 지켜보겠다고 했다.",
-      "mini_headline": "AI는 멀리서 지켜보겠다",
+      "headline": "팀 구조와 생산성이 먼저 바뀐다\nGamescom Dev 강연자 설문",
+      "body": "강연자 100명 가운데 절반 가까이가 앞으로 3년의 최대 흐름으로 AI 지원 개발을 꼽았다.",
+      "mini_headline": "팀이 줄기보다 바뀐다",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity",
       "accent": "#eb367f",
-      "motif": "headset",
+      "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "No Man's Sky가 막 나오던 무렵, 가장 큰 자랑거리는 정교한 알고리즘이었다. 한 사람이 십억 번을 살아도 다 돌아보지 못할 만큼 많은 행성을 만들어냈다. 10년이 지난 지금, 어떤 회사들은 대형 언어 모델과 생성형 AI라는 다른 기술이 개발자의 작업을 그만큼 상상 밖으로 부풀려 준다고 약속한다. Hello Games의 대표 Sean Murray는 그 경주에 뛰어들 생각이 없다고 했다."
+            "x": "응답자 절반 가까이가 앞으로 3년 동안 업계에서 가장 큰 흐름으로 AI 지원 개발을 꼽았다."
           },
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/08/no-mans-sky-1200x675.jpg",
-            "cap": "No Man's Sky"
+            "src": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg",
+            "cap": "이미지: Gamescom"
           },
           {
             "t": "p",
-            "x": "\"COVID에서 돌아올 때가 기억난다. 스튜디오와 게임 개발사를 어떻게 굴려야 하나 다 같이 고민했다.\" No Man's Sky 10주년을 맞아 Kotaku와 한 인터뷰에서 그가 말했다. \"사람들을 어떻게 다시 모아서 일하게 하지? 사무실로 부를까? 하이브리드로 갈까? 그런 이야기를 아주 많이 했다. 그때 내가 이렇게 말했던 게 기억난다. '우리는 좀 물러나 있자. 재택으로 계속 가고, 남들이 먼저 망쳐보게 두자.'\""
+            "x": "Gamescom Dev가 해마다 내는 강연자 설문 결과를 공개했다. 응답자의 83%가 AI가 팀 구조나 생산성에 영향을 준다고 봤다."
           },
           {
             "t": "p",
-            "x": "생성형 AI를 둘러싼 온갖 주장과 공포에도 Murray는 같은 방식으로 대응할 참이다. Hello Games를 공동 창업하기 전 그는 Criterion Games에 있었다. 2006년 컬트 FPS Black의 리드 프로그래머였던 시절, 이 회사는 Electronic Arts 소유였다. EA는 사우디아라비아에 550억 달러 규모로 팔리며 진 부채의 일부를 새 AI 기술로 메우려 한다고 알려졌다."
+            "x": "설문에 참여한 강연자 100명 가운데 절반 가까이가 앞으로 3년의 가장 중요한 업계 흐름으로 AI 지원 개발을 지목했다. 그다음은 하드웨어와 램 가격 28%, 크리에이터 이코노미 7%, 이용자 제작 콘텐츠 5% 순이었다."
           },
           {
             "t": "p",
-            "x": "\"EA가 사우디에 팔렸다는 기사를 읽는다.\" 그가 말했다. \"'걱정 마세요, 우리는 다 AI를 쓸 거라 수십억 달러를 아낍니다.' 이런 식이다. 그러면 나는 앉아서 생각한다. 좋네요, 잘해보세요. 어떻게 되는지 봅시다. 나는 멀리서 지켜보겠다.\""
+            "x": "개발에 AI를 최소한만 쓰고 싶다는 응답은 30%로, 지난해 33%에서 내려갔다. 반대로 34%는 코드와 프로덕션이 AI 지원으로 가장 크게 덕을 본다고 답했다."
           },
           {
             "t": "p",
-            "x": "Murray는 COVID 이후 사무실 근무가 어떻게 자리 잡는지 기다렸듯, 앞으로 몇 년 사이 업계의 기준이 무엇이 될지 지켜볼 생각이다. 불과 몇 달 전에는 Tomb Raider 리메이크부터 새 Crazy Taxi까지 대형 게임들이 개발 과정에 생성형 AI를 일부 썼다고 밝혔다가 팬들의 반발을 샀다. 플레이어들은 완성된 게임에 슬롭이 섞일까 걱정하고, 개발자들은 이 기술을 넣어 무엇이 좋아지는지 뚜렷하게 설명하지 못했다."
+            "x": "일자리 쪽으로 오면 36%가 팀 규모가 줄기보다 역할이 바뀐다고 봤고, 33%는 팀이 작아진다고 예상했다. 14%는 개인 산출이 늘어난다고 답했으며, 17%는 인력 감축이 없으리라 봤다."
           },
           {
             "t": "p",
-            "x": "Murray의 예측은 이렇다. AI가 좋은 게임을 만드는 일의 근본적인 어려움을 바꾸지는 못한다. \"게임 만들기는 정말 어렵고, 사람들은 어려운 건 여전히 어렵다는 걸 배우게 될 것이다. 플레이할 때 기분 좋게 느껴지도록 만드는 일 말이다.\" 그가 덧붙였다. \"내 일상의 역할은 그냥 우리가 늘 만들어온 방식으로 게임 만들기를 즐기는 것이다. 그게 아직 우리에게 통하고, 우리도 여전히 즐겁다.\""
+            "x": "업계의 가장 큰 난관으로는 절반이 넘는 응답자가 경기 불확실성을 꼽았다. 시장 포화 38%, 발견 가능성 35%, 개발비 상승 30%가 뒤를 이었다."
+          },
+          {
+            "t": "p",
+            "x": "발견 가능성을 개선할 방법으로는 플랫폼 알고리즘의 투명성 확대 32%, 더 나은 스토어 추천 22%, 큐레이션된 편집 기사 확대 21%가 꼽혔다."
+          },
+          {
+            "t": "p",
+            "x": "앞날의 기회로는 37%가 더 작아진 개발팀을 들었고, 커뮤니티 구축과 새로운 퍼블리싱 모델이 각각 15%로 뒤따랐다."
+          },
+          {
+            "t": "p",
+            "x": "앞으로 3년 시장을 어떤 사업·수익 모델이 지배할지를 두고는 의견이 갈렸다. 디지털과 패키지 프리미엄 게임이 29%로 가장 높았고, 라이브 서비스 24%, 아이템 판매형 부분 유료화 21%가 뒤를 이었다."
           }
         ]
       }
