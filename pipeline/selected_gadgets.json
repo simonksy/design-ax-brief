@@ -1,120 +1,96 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "gadgets",
   "count": 5,
-  "selection_mode": "curator (user deferred — \"알아서\")",
-  "dedup": {
-    "checked_against": "sections.gadgets → today (2026-08-10) + days (2026-08-05 … 2026-08-09) = 30 published cards, all read in full",
-    "published_urls_matched": 0,
-    "dropped": [
-      {
-        "url": "https://9to5google.com/2026/08/06/gemini-overlay-wear-os/",
-        "reason": "content duplicate — same event (new Gemini overlay design rolling out to Wear OS / Pixel Watch) already published 2026-08-08 as Digital Trends 'Gemini's revamped Wear OS design is finally rolling out'"
-      },
-      {
-        "url": "https://www.theregister.com/personal-tech/2026/08/10/wetherspoons-bars-smart-glasses-from-filming-customers/5285357",
-        "reason": "content near-duplicate — same core topic (venues/institutions banning camera smart glasses) already run 2026-08-09 as TechRadar 'A smart glasses ban could be on the menu in the EU…', which already catalogues venue-level bans (DEF CON, comic cons, courts)"
-      },
-      {
-        "url": "https://www.digitaltrends.com/home-theater/im-already-surrounded-by-ai-i-dont-need-chatgpt-living-beside-my-bed/",
-        "reason": "opinion piece pegged to the OpenAI bedside speaker, whose news beat already ran 2026-08-07 (Engadget, OpenAI ring-shaped speaker $300–400); no new fact"
-      },
-      {
-        "url": "https://9to5google.com/2026/08/08/pixel-11-all-of-the-last-minute-leaks-video/",
-        "reason": "within-pool duplicate — same Pixel 11 pre-launch leak cluster as the Android Central HiLight LED leak; both dropped in favour of higher-novelty picks"
-      },
-      {
-        "url": "https://www.pcworld.com/article/3204236/acer-travelmate-p2-14-review.html",
-        "reason": "within-pool near-duplicate — second 'mid-range Acer AI laptop review' alongside Tom's Hardware Swift Go 16 AI; neither survived scoring"
-      }
-    ],
-    "note": "No candidate URL matched a published gadgets card. Content-level checks were run against the full 6-day gadgets deck (08-05 … 08-10); the three real collisions above were dropped and backfilled from the ranked pool."
-  },
-  "diversity": {
-    "outlets": ["9to5Mac", "Android Authority", "TechCrunch", "Tom's Hardware", "XDA Developers"],
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "categories": {"gadgets": 5},
-    "topic_spread": {
-      "imaging / provenance": 1,
-      "on-device models": 1,
-      "computer vision / privacy": 1,
-      "camera hardware": 1,
-      "smart home / automation": 1
-    },
-    "note": "Section has a single category (gadgets), so all five carry tool 'Gadgets' with distinct palette accents; diversity is enforced on outlet and topic instead."
-  },
+  "selection_mode": "curator_auto",
+  "note": "User deferred. Dedup run against sections.gadgets (today 2026-08-11 + days 2026-08-06..08-10, 30 published cards). DROPPED as duplicates: (a) 9to5google gemini-overlay-wear-os -> same event as published 2026-08-08 'gadgets-gemini-wear-os-overlay' (Digital Trends); (b) 9to5mac AirPods-with-cameras -> same rumor as published 2026-08-09 'gadgets-apple-ultra-trio' (MacRumors, AirPods Ultra IR camera); (c) gizmodo Xgimi MemoMind One review -> same product story as published 2026-08-09 'gadgets-memomind-one' (Road to VR). WITHIN-POOL dedup: kept MacRumors iOS 27 Siri voice customization over MacRumors iOS 27 public beta 3 (same source + same iOS 27 beta topic hub); kept Android Authority Pixel 11 launch preview over 9to5Google Pixel 11 HiLight/RAM leak (same pre-launch topic) - then the Pixel 11 preview itself scored below the final five (thin 'where to watch' framing, expires within hours of the Aug 12 event). BACKFILL applied to reach 5. DIVERSITY GUARD: 5 distinct outlets, max 1 card per outlet, topic spread = maker CNC / local-LLM hardware / Windows AI stack / health wearable / phone assistant voice.",
   "picks": [
     {
       "rank": 1,
-      "title": "Apple is working on a way to authenticate that a photo came from an iPhone camera",
-      "url": "https://9to5mac.com/2026/08/10/apple-is-working-on-a-way-to-authenticate-that-a-photo-came-from-an-iphone-camera/",
-      "source": "9to5Mac",
-      "published_iso": "2026-08-10T19:49:55Z",
-      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "excerpt": "References included in iOS 27 beta 5 point to a new feature designed to authenticate the camera source of an iPhone photo.",
-      "category": "gadgets",
+      "title": "InfiMaker K1 is a desktop CNC mill that turns 2D images into 3D objects with AI",
+      "url": "https://www.androidauthority.com/infimaker-k1-5-axis-desktop-cnc-mill-kickstarter-3696953/",
+      "source": "Android Authority",
+      "published_iso": "2026-08-11T22:00:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/InfiMaker-K1-CNC-machine-scaled.jpg",
+      "excerpt": "The InfiMaker K1 is a 5-axis desktop CNC mill that uses AI to turn a flat 2D image into a millable 3D model, aimed at makers with no machining background.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Capture-source provenance baked into the phone everyone shoots with — the first practical answer to 'is this image real?' inside a creative team's asset pipeline."
+      "rationale": "Highest actionability for a design audience: an AI 2D-to-3D path straight into a 5-axis desktop mill collapses the sketch-to-physical-part loop for people who never learned CAM."
     },
     {
       "rank": 2,
-      "title": "Meta’s latest AI model wants to live on your PC",
-      "url": "https://www.androidauthority.com/meta-muse-glimmer-3696698/",
-      "source": "Android Authority",
-      "published_iso": "2026-08-10T20:03:02Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg",
-      "excerpt": "Meta’s Muse Glimmer is a 30B AI model made to run locally on your PC.",
-      "category": "gadgets",
+      "title": "I ran the same local LLM on an RTX 5070 and integrated graphics, and the results were beyond my expectations",
+      "url": "https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/",
+      "source": "XDA Developers",
+      "published_iso": "2026-08-10T10:00:00Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/running-same-llm-on-rtx-5070-and-integrated-graphics.jpg?&fit=crop&w=1600&h=900",
+      "excerpt": "Running Gemma 3 4B on an RTX 5070 laptop versus an integrated-Radeon machine showed near-identical output quality, undercutting the case for dedicated AI hardware.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "A 30B model targeted at ordinary workstations pulls confidential design work off the cloud and onto the machine already on the desk."
+      "rationale": "A hands-on benchmark that changes a real purchasing decision: if output quality holds on integrated graphics, the 'AI laptop' upsell stops being necessary for local model work."
     },
     {
       "rank": 3,
-      "title": "This 'adversarial' pattern can prevent surveillance cameras from detecting you",
-      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-      "source": "TechCrunch",
-      "published_iso": "2026-08-09T14:00:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?resize=1151,1200",
-      "excerpt": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
-      "category": "gadgets",
+      "title": "Microsoft releases Windows 11 August 2026 Patch Tuesday update",
+      "url": "https://www.notebookcheck.net/Microsoft-releases-Windows-11-August-2026-Patch-Tuesday-update.1365522.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-08-11T09:30:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-Patch-Tuesday47.jpg",
+      "excerpt": "KB5121003 lets Copilot+ PC owners remove the on-device image-generation AI component on its own, a first for unbundling Windows' local AI stack.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Surface pattern as a functional defence against machine vision — graphic design turned into an anti-detection layer, with a generator anyone can run."
+      "rationale": "First time Windows lets you strip out a single local AI component instead of the whole stack - a concrete new lever over disk, privacy and what actually runs on a work machine."
     },
     {
       "rank": 4,
-      "title": "HoverAir unveils the Versa modular pocket gimbal camera that transforms into a self-flying drone",
-      "url": "https://www.tomshardware.com/tech-industry/drones/hoverair-unveils-the-versa-modular-pocket-gimbal-camera-that-transforms-into-a-self-flying-drone-modular-camera-transforms-into-an-auto-tracking-drone-by-magnetically-snapping-together-for-instant-palm-launch-and-ai-tracking",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-08-10T11:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6rbXH8xkrGzGsJ2eFK9XPb-1600-80.webp",
-      "excerpt": "Two birds with one stone.",
-      "title_note": "Modular camera transforms into an auto-tracking drone by magnetically snapping together for instant palm launch and AI tracking",
-      "category": "gadgets",
+      "title": "Abbott partners with Google Health for AI-powered glucose monitoring",
+      "url": "https://www.engadget.com/2234851/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/",
+      "source": "Engadget",
+      "published_iso": "2026-08-11T19:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/intro-1786473283.jpg",
+      "excerpt": "Abbott's Lingo continuous glucose monitor now feeds the Google Health app, which turns the sensor stream into AI-driven lifestyle recommendations.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "One magnetic module turns a pocket gimbal into an auto-tracking drone — a two-in-one capture rig that removes a whole camera operator from small shoots."
+      "rationale": "A named sensor maker handing its raw stream to a platform AI is the clearest template yet for how hardware and software split roles in consumer health product design."
     },
     {
       "rank": 5,
-      "title": "Home Assistant automations finally read like plain English",
-      "url": "https://www.xda-developers.com/home-assistant-automations-read-english-rewrote-ones-been-scared-touch/",
-      "source": "XDA Developers",
-      "published_iso": "2026-08-10T21:00:10Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-3.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Intent-based triggers replace years of automation guesswork.",
-      "category": "gadgets",
+      "title": "Latest iOS 27 Beta Expands Siri AI Voice Customization",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
+      "source": "MacRumors",
+      "published_iso": "2026-08-10T18:57:00Z",
+      "og_image": "https://images.macrumors.com/t/1riNGgoEtyPAwjvtb3-3HRrKwmE=/400x0/article-new/2026/08/ios-27-siri-voice.jpg?lossy",
+      "excerpt": "iOS 27 beta 5 adds Pace and Expressivity controls plus eleven voices to Siri AI, generated on-device and limited to iPhone 17 Pro and iPhone Air hardware.",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Intent-based triggers replace brittle device-state logic — a hands-on account of automations becoming readable, which is exactly how AI should change tooling."
+      "rationale": "Pace and Expressivity turn assistant voice into a user-tunable design surface, and the hardware gate shows how on-device generation still fragments the experience."
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://9to5google.com/2026/08/06/gemini-overlay-wear-os/",
+      "reason": "duplicate of published 2026-08-08 card gadgets-gemini-wear-os-overlay (Digital Trends) - same Gemini Wear OS overlay rollout"
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
+      "reason": "duplicate of published 2026-08-09 card gadgets-apple-ultra-trio (MacRumors) - same camera/IR AirPods Visual Intelligence rumor"
+    },
+    {
+      "url": "https://gizmodo.com/you-dont-want-smart-glasses-that-record-everything-you-say-trust-me-2000793058",
+      "reason": "same product story as published 2026-08-09 card gadgets-memomind-one (Road to VR) - Xgimi MemoMind One"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
+      "reason": "within-pool duplicate: same source + same iOS 27 beta topic as the Siri voice customization pick; kept the more specific feature story"
+    },
+    {
+      "url": "https://9to5google.com/2026/08/10/pixel-11-hilight-ram-leak/",
+      "reason": "within-pool duplicate of the Android Authority Pixel 11 pre-launch story"
     }
   ]
 }

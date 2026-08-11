@@ -1,37 +1,56 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-12",
   "section": "books",
-  "now_iso": "2026-08-01T22:00:36Z",
+  "now_iso": "2026-08-11T22:00:00Z",
   "window_hours": 336,
-  "count": 3,
-  "note": "RECOVERY PASS 2 for books (first pass yielded 0 usable after dedup). WebSearch budget was already exhausted (200/200) at start, so this pass ran entirely via WebFetch against outlet AI-tag / news-listing pages on the section's allowed_domains, EXPANDING into adjacent angles (scholarly/academic AI publishing, AI-generated nonfiction, AI regulation/ethics for publishers, AI audiobook narration, Kindle/Kobo AI, AI ebook tools) and favoring outlets NOT already used by today's published cards. THREE NEW distinct fresh items found, all gated FRESH under the 336h window and all with verifiable published times, none duplicating the already-published books URLs (PW ai-publishing-easier, JF substack-ai-detection, Bookseller genius-novel-pulled, JF ai-dilutes-book-market, JF google-gemini-suit, BookRiot elevenlabs-odyssey/daggermouth, PP udgooglebooks/hkbookfair/ai-course/translators, JF audiobook-ai-multicast, PW poetry-foundation-scrape, B&P editor-publisher-ai-survey). Distinct angles picked: (1) scholarly-publishing infrastructure ownership in the AI era (Scholarly Kitchen, a NEW outlet), (2) the flood of AI-generated nonfiction / a retiree self-publishing 450+ AI books, investigated by the NYT (Jane Friedman), (3) Pope Leo XIV's encyclical as an emerging ethical/regulatory frame publishers must navigate (Publishing Perspectives). EXCLUDED as near-duplicate: JF 'Update on Substack's AI detection using Pangram' (Jul 29) — same Substack/Pangram detection topic as the already-published substack-ai-detection card. DROPPED as pure legal/business with no craft hook: The Bookseller / PP / JF 'Anthropic $1.5bn settlement approved'. SWEPT but nothing fresh+on-topic: Teleread (latest Feb 2026, stale), Electric Literature AI tag (2016-2019, stale), Writer's Digest (no dated AI posts), Kindlepreneur (no dated blog), The Creative Penn (no recent AI), PW content-and-ebooks (AI narration Jul 14 STALE), Good e-Reader audiobooks/Kindle (Kindle AI Translate Jul 1 STALE; reTerminal AI display = gadget, no book craft hook). FETCH FAILURES: the-digital-reader.com (403), lithub.com tag (429), arstechnica.com / theverge.com / wired.com (blocked by fetcher), booksandpublishing.com.au/articles (404). Curator: items 1 & 2 are the strongest fresh craft/workflow picks; item 3 leans policy/ethics and is offered as a secondary option.",
+  "count": 5,
+  "pass": "recovery-1",
+  "note": "RECOVERY PASS for section books. Every term in keywords_books.json and every URL in candidates_books.json was treated as spent. NEW search terms tried: 'Kobo / Kindle e-reader AI feature', 'iFlytek AINOTE LLM e-paper tablet', 'Frankfurt Book Fair AI translation rights', 'AI translation manga localization' (Orange/Emaqi/Mantra), 'ElevenLabs audiobook publisher deal', 'AI licensing RAG academic press' (Cashmere, Princeton UP), 'Authors Guild Human Authored certification', 'AI slop books essay', 'library workers AI programs', 'author voice manuscript editing AI' (EASE/Editage), 'Bloodhound Books AI fiction translation company', 'publishers lawsuit Google Gemini training', 'Google Play Books AI integration', 'Anthropic copyright settlement approved', 'Media Transformation Summit AI publishing workflows', 'Crealo royalty management publishing tech'. Domains swept (books allowed_domains only): thebookseller.com (news + comment + features indexes), publishersweekly.com (AI edition page, digital, publisher-news), publishingperspectives.com (front page + /feed/ + page/2), scholarlykitchen.sspnet.org (front page), goodereader.com (blog front, digital-publishing, e-book-news, audiobooks, electronic-readers), bookriot.com (/feed/ + AI tag), lithub.com (/feed/ + artificial-intelligence tag), electricliterature.com (/feed/), teleread.org (/feed/), the-digital-reader.com (/feed/), thecreativepenn.com (/feed/ + YouTube channel feed UCdug0jLfpkayiiRyU4WqPPQ), kindlepreneur.com, writersdigest.com, youtube.com (Self-Publishing with Dale channel feed UCl9CjdZQtzufqgYx0CidSbA). Published times read from og article:published_time / JSON-LD datePublished via direct fetch; the two Publishers Weekly items block direct meta fetch, so their dates come from the PW AI edition index date stamps (08/03/2026 and 07/31/2026) confirmed against the article pages, clock time approximated to midday. All five gated with `python3 pipeline/freshness.py <published_iso> 2026-08-11T22:00:00Z books` -> FRESH. Dropped as STALE (>14d): thebookseller Anthropic $1.5bn settlement approved (2026-07-21), thebookseller Bloodhound Books AI translation company (2025-07-07), goodereader publishers-vs-Google-Gemini lawsuit (2026-07-14), goodereader Google Play Books AI (2026-04-06), goodereader interactive 3D textbooks (2026-07-13), YouTube 'AI Audiobooks Versus Human Narration' (2026-07-16), all lithub AI-tag essays (newest 2026-03-19), thecreativepenn feed (newest 2026-05-25), the-digital-reader (dormant since 2025). Dropped for NO AI hook despite freshness: publishingperspectives 'Proposed Trump Administration Guidance' (0 AI mentions), publishingperspectives 'A Virtual Publishing Conference That Speaks Truth to Power' (0 AI mentions), scholarlykitchen 'From Hub to Hustle' (social platforms, not AI), thebookseller Crealo royalty software (0 AI mentions), PP Libro.fm adds ebooks, PP RBmedia/Boldwood, PP AAP revenue report, PW Book Deals week of Aug 10 (Hinton title = book about AI, not an AI-in-publishing story). All previously published 08-05..08-08 stories and today's 3 already-selected picks were excluded by URL and by topic. Per-outlet cap respected: Publishers Weekly 2, all others 1; 4 distinct outlets.",
   "items": [
     {
-      "title": "The Third Time is NOT the Charm: Who Will Own How AI Participates in Scholarship?",
-      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/",
       "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-07-30T12:00:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg",
-      "excerpt": "The authors argue scholarly publishers must collaboratively build the infrastructure standards for how AI participates in scholarship now, before technology companies own that layer the way they came to own digital aggregation and discovery. A concrete look at how the AI era is reshaping who controls scholarly and academic publishing workflows."
+      "published_iso": "2026-08-05T09:30:45Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1964440549.jpg",
+      "title": "The Published Voice: Whose Voice Are We Really Reading?",
+      "excerpt": "Drawing on an EASE panel called 'Beyond Track Changes,' Roohi Ghosh asks what is left of an author's voice once AI-driven editing smooths every manuscript toward the same 'native' register. The piece treats voice as a craft asset that automated editing quietly erodes, and argues editors have to measure their impact on it rather than assume it survives."
     },
     {
-      "title": "New York Times journalist investigates origins of AI-generated nonfiction",
-      "url": "https://janefriedman.com/new-york-times-journalist-investigates-origins-of-ai-generated-nonfiction/",
-      "source": "Jane Friedman",
+      "url": "https://bookriot.com/avoiding-ai-library-programs/",
+      "source": "Book Riot",
       "category": "books",
-      "published_iso": "2026-07-22T14:00:00Z",
+      "published_iso": "2026-08-11T10:01:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/library-computer.jpg.optimal.jpg",
+      "title": "\"Avoiding AI\" Library Programs, and More Updates For Library Workers",
+      "excerpt": "Public libraries are now running patron workshops on how to opt out of AI — search, assistants, and the defaults baked into everyday software. Book Riot's library-worker roundup treats 'avoiding AI' as a teachable literacy skill, a counter-programming move against the assumption that every reading and research tool should be model-mediated."
+    },
+    {
+      "url": "https://goodereader.com/blog/electronic-readers/these-new-features-are-coming-to-the-iflytek-ainote-2",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-08-07T04:58:53Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/07005653/7-1x.webp",
+      "title": "These new features are coming to the iFlytek AINOTE 2",
+      "excerpt": "iFlytek published a 2026 roadmap for its LLM-powered E-Ink tablet, layering AI meeting transcription, automated note organization and document processing on top of a reworked handwriting and PDF toolbar. It is a concrete look at what an AI-native reading-and-writing device wants to become once the model sits underneath the page."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-08-03T12:00:00Z",
       "og_image": "",
-      "excerpt": "A New York Times investigation traces the mechanics of AI-generated nonfiction through a retiree who has self-published more than 450 AI-written books and earns modest print sales from them. A vivid case of how cheap automated book creation is reshaping what floods the market and how human authors compete."
+      "title": "Princeton University Press Partners with Cashmere on AI Licensing",
+      "excerpt": "Princeton University Press will make its catalogue available to 'copyright compliant' AI platforms through Cashmere, a licensing intermediary built for retrieval-augmented generation rather than model training. The press keeps title-by-title control over what is licensed and on what terms — an early template for how books get into AI answers without being swallowed into weights."
     },
     {
-      "title": "'Clarity of Thought and Responsibility': Can the Pope Move the Needle on AI Regulation?",
-      "url": "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-07-31T09:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png",
-      "excerpt": "Publishing Perspectives reads Pope Leo XIV's encyclical on AI as one of the most cogent ethical frameworks yet for regulating the technology, arguing publishers should not treat AI as morally neutral and must push for human-centered oversight of tech monopolies. An emerging ethical/regulatory lens the publishing industry will have to navigate."
+      "published_iso": "2026-07-31T12:00:00Z",
+      "og_image": "",
+      "title": "AI May Be Making Publishing Easier, But It's Still Not Easy",
+      "excerpt": "At the Media Transformation Summit, publishers reported that AI has genuinely lowered production cost — audiobooks especially — while leaving the hard parts untouched: deciding what to publish and finding readers. The recurring practical lesson was that machine-readable metadata and management buy-in, not the model itself, decide whether an AI workflow lands."
     }
   ]
 }

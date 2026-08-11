@@ -1,152 +1,136 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "science",
+  "now_iso": "2026-08-11T22:00:00Z",
   "window_hours": 336,
-  "now_iso": "2026-08-10T22:01:00Z",
+  "count": 14,
+  "note": "Science section, 14-day window (freshness.py 'science' = 336h; window_hours(now_iso) with no section returns the design default 72, so 336 is set explicitly). Every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-11T22:00:00Z science` and printed FRESH. Published times were read by direct page fetch (og article:published_time / JSON-LD datePublished / visible byline date), never from search snippets. WebSearch results skewed old, so most of the funnel came from index/listing sweeps of the allowed_domains (phys.org search-by-date, scientificamerican.com/latest, statnews.com/topic/artificial-intelligence, research.google/blog, universetoday.com, physicsworld.com/c/artificial-intelligence, allenai.org/blog, quantamagazine.org/computer-science). Universe Today articles carry no machine-readable date; both were dated August 10, 2026 on the site index and their og:image filenames encode 20260810, so published_iso is set to 2026-08-10T00:00:00Z (conservative, still FRESH by a wide margin). Dedup: dropped URLs already published in the science section 2026-08-07..08-11 (phys.org ramanomics, technologyreview ai-agents-for-science, deepmind WeatherNext, sciam alphafold + ai-created-virus, statnews ai-prognosis, physicsworld nobel-laureate-math-jam). Also dropped as near-duplicates of already-published stories: phys.org 2026-08-ai-cyclone-hours (same WeatherNext Cyclones story as the 08-07 DeepMind card) and scientificamerican 'scientists-are-using-ai-to-design-new-viruses-should-they-be' (same AI-designed-phage story as the 08-08 card). Dropped as stale (outside 336h): physicsworld privacy-risks-from-medical-ai (2026-07-21), physicsworld ai-enhanced-rare-event-sampling (2026-07-06), apa.org chatbot survey (2026-06). Dropped as AI-business noise per the relevance test: thequantuminsider Honda/Quemix investment + QuSecure GSA schedule, genengnews 'Pharma Races to Scale AI as Billions Flow', fiercebiotech Novo Nordisk/AWS pact, phys.org data-center opposition survey. Per-source cap respected: max 3 from any outlet (phys.org 3), 8 distinct outlets. Keyword expansion used beyond keywords_science.json: 'AI cyclone forecasting', 'glacier ice volume model', 'fungal diversity drone remote sensing', 'microbial community text analysis', 'AI research misconduct / attribution', 'autonomous telescope scheduling', 'gravitational lens neural network', 'AI clinical consultation / nurses + clinical AI', 'chain-of-evidence verifiable research agent', 'AI tutor pedagogy', 'breath VOC tuberculosis machine learning'.",
   "items": [
     {
-      "url": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
+      "url": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html",
       "source": "Phys.org",
       "category": "science",
-      "subdomain": "bio",
-      "published_iso": "2026-08-10T11:00:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designs-viruses-tha.jpg",
-      "excerpt": "A Stanford-led team used generative AI trained on viral genomes to design 16 bacteriophages that do not exist in nature, and showed they can infect and kill drug-resistant bacteria. It is one of the first demonstrations of AI designing a whole functional genome rather than a single protein."
+      "published_iso": "2026-08-10T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-and-machine-lea.jpg",
+      "title": "Machine learning predicts forest soil fungal diversity from drone images",
+      "excerpt": "University of Alberta researchers combined drone imagery with machine learning to predict below-ground fungal diversity without digging. Integrating remote sensing, soil measurements and ML gives a scalable substitute for labor-intensive manual sampling across vast forests."
     },
     {
-      "url": "https://phys.org/news/2026-08-ai-ramanomics-major-obstacle-cells.html",
+      "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
       "source": "Phys.org",
       "category": "science",
-      "subdomain": "bio",
-      "published_iso": "2026-08-06T13:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-and-ramanomics-coul-1.jpg",
-      "excerpt": "University at Buffalo researchers paired Raman spectroscopy with a neural network that identifies organelles from their natural biochemical signatures at ~90% accuracy. The approach removes the need for fluorescent dyes, which perturb and damage the living cells being studied."
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
+      "title": "New AI model reveals the volume of the world's glaciers",
+      "excerpt": "Ca' Foscari University of Venice built IceBoost v2.0, a machine-learning model that maps global glacier ice volume from millions of thickness measurements. It puts Earth's glaciers at roughly 150,000 cubic kilometers of ice — 32.3 cm of sea-level rise if fully melted."
     },
     {
-      "url": "https://phys.org/news/2026-08-coupled-ai-physics-typhoon-height.html",
+      "url": "https://phys.org/news/2026-08-ai-method-reveals-hidden-patterns.html",
       "source": "Phys.org",
       "category": "science",
-      "subdomain": "physics",
-      "published_iso": "2026-08-06T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/coupled-ai-and-physics.jpg",
-      "excerpt": "Chinese researchers coupled a physics-informed neural network with a GAN to correct typhoon wave-height forecasts using buoy, wind, depth and wave-energy data. The hybrid cut prediction error by up to 34.9% versus conventional numerical forecasting."
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-method-reveals-hidd.jpg",
+      "title": "AI method reveals hidden patterns in microbial communities in the Warnow Estuary",
+      "excerpt": "Leibniz Institute for Baltic Sea Research scientists repurposed an AI text-analysis method for ecology, resolving five seasonally successive microbial subcommunities in an estuary. The approach matched or beat conventional statistical analysis of the same data."
     },
     {
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Technology Review",
+      "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
+      "source": "Scientific American",
       "category": "science",
-      "subdomain": "research-automation",
-      "published_iso": "2026-08-10T09:30:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg",
-      "excerpt": "The argument: AI for science has to move past data-hungry models like AlphaFold toward reasoning agents that use tools, revise as evidence arrives, and mirror how research actually proceeds. Agents drastically reduce the need for scarce, specialized scientific datasets."
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg",
+      "title": "OpenAI's latest math breakthroughs commit research misconduct, experts say",
+      "excerpt": "OpenAI's Astra model announced 10 mathematical advances, but mathematicians say the write-ups reuse existing results from 2016 and 2019 without adequate attribution. The dispute turns AI-for-science from a capability question into a credit-and-provenance question."
     },
     {
-      "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "source": "MIT News",
+      "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
+      "source": "Scientific American",
       "category": "science",
-      "subdomain": "physics",
-      "published_iso": "2026-08-10T14:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-GeoPT-01-press.jpg",
-      "excerpt": "MIT's GeoPT is a pretraining method that gives simulation models a working feel for physics and geometry before task training. It generalizes to unseen scenarios like crash tests and aerodynamics while needing up to 60% less training data."
+      "published_iso": "2026-08-11T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg",
+      "title": "Can AI make mathematics more human?",
+      "excerpt": "Mathematician Yang-Hui He argues AI is changing how mathematical work actually gets done. He says AI 'strangely makes mathematics more human' by forcing specialists in different fields to talk to each other again over shared machine-found ground."
     },
     {
-      "url": "https://physicsworld.com/a/ai-model-helps-physics-nobel-laureate-out-of-a-decade-old-mathematical-jam/",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "source": "Quanta Magazine",
+      "category": "science",
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Lede-scaled.webp",
+      "title": "Is AI Reasoning Right for the Wrong Reasons?",
+      "excerpt": "Reasoning models keep solving hard problems, yet researchers still disagree on whether anything like reasoning is happening inside them. Quanta walks through the experiments pulling apart genuine inference from very good statistical pattern-matching."
+    },
+    {
+      "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-08-11T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AMIE_Video-hero.png",
+      "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
+      "excerpt": "Google Research extended AMIE to real-time video consultations that interpret what the patient shows on camera as well as what they say. In a randomized study with board-certified physicians, AMIE (Video) rated on par with primary care physicians on history-taking and diagnostic accuracy."
+    },
+    {
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-07-30T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
+      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+      "excerpt": "Google's Science One prototype attacks the hallucinated-citation problem in AI research agents by forcing every claim onto a traceable evidence chain. It reported zero phantom references while matching expert performance on benchmark research tasks."
+    },
+    {
+      "url": "https://www.universetoday.com/articles/the-telescope-that-points-itself",
+      "source": "Universe Today",
+      "category": "science",
+      "published_iso": "2026-08-10T00:00:00Z",
+      "og_image": "https://www.universetoday.com/article_images/Victor_M_Blanco_4-meter_Telescope_noirlab-tololo-02_20260810_224303.jpg",
+      "title": "The Telescope That Points Itself",
+      "excerpt": "An AI trained on years of Dark Energy Survey observing decisions now schedules and points the 4-metre Víctor M. Blanco Telescope in real time. Across two 2026 campaigns it matched human expert observers, with headroom to beat them on scarce night-time allocation."
+    },
+    {
+      "url": "https://www.universetoday.com/articles/seven-needles-800000-haystacks",
+      "source": "Universe Today",
+      "category": "science",
+      "published_iso": "2026-08-10T00:00:00Z",
+      "og_image": "https://www.universetoday.com/article_images/STScI-01EVTBBTD4EEZ767XD0SFYB84S.tif_20260810_230339.jpeg",
+      "title": "Seven Needles, 800,000 Haystacks",
+      "excerpt": "An Ohio State team turned a neural network loose on 800,000 quasars and pulled out seven genuine gravitational lenses, roughly doubling the known sample. The lenses are the tool astronomers use to weigh supermassive black holes and their host galaxies."
+    },
+    {
+      "url": "https://physicsworld.com/a/ai-sniffs-out-tuberculosis-in-breaths-chemical-signature/",
       "source": "Physics World",
       "category": "science",
-      "subdomain": "physics",
-      "published_iso": "2026-08-07T12:00:00Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/claude-team-635x472.jpg",
-      "excerpt": "Nobel laureate Giorgio Parisi and a co-author used Claude to crack a decade-old mathematical obstacle in the theory of jamming. The episode is being read as a concrete case of LLMs entering the working loop of theoretical physics, not just summarizing it."
+      "published_iso": "2026-07-31T00:00:00Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/31-07-26-nano-breath-taking-group-635x433.jpg",
+      "title": "AI sniffs out tuberculosis in breath's chemical signature",
+      "excerpt": "Researchers in Botswana and South Africa trained machine learning on the volatile organic compounds in exhaled breath to detect tuberculosis. Support vector machines decoded the chemical signature at 93% accuracy, pointing to a cheap non-invasive screen."
     },
     {
-      "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
-      "source": "Medical Xpress",
+      "url": "https://allenai.org/blog/tutormoments",
+      "source": "Allen Institute for AI",
       "category": "science",
-      "subdomain": "mind-cognition",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/eyeball-2.jpg",
-      "excerpt": "USC's Keck School built an AI assessment that fuses sweat response, brain signals and eye movements to classify depression and flag suicide risk. The goal is a biological-signal tool that helps psychiatrists identify high-risk patients earlier than self-report alone."
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": null,
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "excerpt": "Ai2 released a framework that measures whether frontier language models know when to withhold help so a student can struggle productively. It reframes tutoring evaluation from answer accuracy to pedagogical timing."
     },
     {
-      "url": "https://medicalxpress.com/news/2026-08-qa-ai-surging-mental-health.html",
-      "source": "Medical Xpress",
+      "url": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/",
+      "source": "STAT News",
       "category": "science",
-      "subdomain": "mind-cognition",
-      "published_iso": "2026-08-04T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/mental-health-ai.jpg",
-      "excerpt": "Harvard researchers report AI chatbot use for mental health among 12-21 year olds jumped from about 1 in 8 to nearly 1 in 5 in a single year. Most users tell neither parents nor clinicians, even though general-purpose chatbots are unvalidated for this use."
+      "published_iso": "2026-08-11T00:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-1222271719-645x645.jpg",
+      "title": "Nurses seek a seat at the table as they fight expanding clinical AI",
+      "excerpt": "Nurses, the largest slice of the health workforce, are pushing to be involved in how clinical AI gets built and deployed rather than handed the finished tool. Educators and researchers are building channels to bring them into design decisions before deployment."
     },
     {
-      "url": "https://www.psychologytoday.com/us/blog/the-architecture-of-identity/202608/a-clinicians-field-guide-to-vetting-ai-mental-health-tools",
-      "source": "Psychology Today",
+      "url": "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/",
+      "source": "STAT News",
       "category": "science",
-      "subdomain": "mind-cognition",
-      "published_iso": "2026-08-02T12:00:00Z",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/sandip-karangiya-4rgdvweofdy-unsplash.jpg",
-      "excerpt": "A six-question field guide for clinicians evaluating AI mental-health tools, covering legal status, evidence base and crisis-response behavior. It lands as Illinois and Nevada ban AI-delivered therapy outright while Utah and California allow it under disclosure rules."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "subdomain": "mind-cognition",
-      "published_iso": "2026-08-10T09:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-reinforc.jpg",
-      "excerpt": "Aalto University trained a reinforcement-learning model of human reading whose attention decisions matched real eye-tracking data, published in Nature Human Behaviour. The team says it explains rather than mimics reading, opening the door to per-reader text layout and AR displays."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-08-neuromorphic-ai-technique-usher-era.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "subdomain": "physics",
-      "published_iso": "2026-08-10T10:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kist-develops-neuromor-1.jpg",
-      "excerpt": "South Korea's KIST developed A2SG, a training technique for spiking neural networks that reached leading ImageNet accuracy at roughly one-sixth the computational overhead of comparable methods. It targets low-power on-device AI in phones, wearables and IoT sensors."
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/07/30/researchers-ai-can-learn-to-build-quantum-circuits-for-drug-molecules-cutting-design-time-by-orders-of-magnitude/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "subdomain": "quantum",
-      "published_iso": "2026-07-30T08:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-30-at-4.05.37-AM.png",
-      "excerpt": "Quantinuum, NVIDIA and Pfizer built a transformer-plus-RL system that generates quantum circuits for molecular simulation thousands of times faster than ADAPT-VQE at equal or better accuracy. It was demonstrated on Quantinuum's Helios machine with the drug molecule imipramine."
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "subdomain": "quantum",
-      "published_iso": "2026-07-28T08:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png",
-      "excerpt": "A new quantum machine-learning framework proposes circuit architectures that mathematically avoid the exponential 'barren plateau' problem that has stalled quantum neural network training. It also cuts required circuit evaluations by roughly a factor proportional to qubit count."
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1139241",
-      "source": "EurekAlert (Wake Forest University School of Medicine)",
-      "category": "science",
-      "subdomain": "mind-cognition",
-      "published_iso": "2026-08-04T13:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/36e731f1-06d8-497d-bfb2-f3a22e079103/Rendition/low-res/Content/Public",
-      "excerpt": "Wake Forest researchers trained an AI model that reads standard ECGs to detect three types of cardiac dysfunction, including heart failure with preserved ejection fraction that routine care often misses. It held up on single-lead data of the kind wearables capture."
-    },
-    {
-      "url": "https://news.mit.edu/2026/personalized-physical-therapy-stroke-rehabilitation-powered-by-ai-0805",
-      "source": "MIT News",
-      "category": "science",
-      "subdomain": "mind-cognition",
-      "published_iso": "2026-08-05T12:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-Stroke-Rehab-01-press.jpg",
-      "excerpt": "MIT engineers built an adaptive robotic rehab system that uses generative AI to learn from physical therapists and personalize support for stroke patients. The framing is explicitly extending a therapist's reach across more patients rather than replacing the clinician."
-    },
-    {
-      "url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/",
-      "source": "STAT",
-      "category": "science",
-      "subdomain": "research-automation",
-      "published_iso": "2026-08-06T14:00:00Z",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_1859449028-645x645.jpeg",
-      "excerpt": "A Nature Medicine-anchored argument that asking whether 'AI improves healthcare' treats a dozen different technologies as one monolith. For scribes, sepsis alerts and diagnostics alike, the honest answer on patient outcomes is still often that we do not know."
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_442937982-645x645.jpeg",
+      "title": "AI won't enhance physician autonomy. It will further diminish it",
+      "excerpt": "Former ENT surgeon Frances Mei Hardin argues medical AI is inserting itself into clinical judgment without meaningful physician input. She notes 81% of doctors now use AI professionally, with adoption running well ahead of consent and oversight."
     }
   ]
 }

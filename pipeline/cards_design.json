@@ -1,58 +1,84 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "design",
-  "card_count": 5,
   "cards": [
     {
-      "id": "design-figma-agents-in-file",
+      "id": "design-figma-make-time-savings",
       "eyebrow": "AI NEWS",
-      "headline": "레이어를 고르고 프롬프트를 쓰면\n에이전트가 그 자리에서 고친다",
-      "body": "Figma가 디자인 파일 안에서 에이전트를 부리는 방법을 직접 시연했다.",
-      "mini_headline": "디자인 파일 속 에이전트",
-      "tool": "Social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=yheAh7VOHLc",
-      "accent": "#ff2d55",
+      "headline": "AI가 시간을 아껴 준다는 말에\nFigma가 숫자를 붙였다",
+      "body": "참가자 100명 무작위 실험에서 Figma Make를 쓴 작업이 20% 빨라졌다.",
+      "mini_headline": "Make가 아낀 시간",
+      "tool": "Figma",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "yheAh7VOHLc"
+            "t": "p",
+            "x": "Figma Make 같은 AI 도구는 디자인 주기를 줄여 왔다. 팀을 붙잡아 두던 반복적이고 기계적인 일을 대신 맡는 식이다. 그런데 정작 얼마나 아꼈는지, 어디서 가장 크게 이득을 봤는지 아는 팀은 많지 않다. Figma 데이터 사이언스 팀이 답을 찾아 나섰지만 A/B 테스트나 인과 추론 같은 흔한 방법으로는 AI의 복잡함을 다 담지 못했다."
           },
           {
             "t": "p",
-            "x": "Figma가 디자인 파일 안에서 에이전트와 함께 일하는 방식을 직접 안내한 영상이다. FigJam과 Slides 지원은 다음 순서로 예고했다. 에이전트가 기존 파일을 밀어내는 게 아니라 그 안에 들어와 앉는다는 걸, 회사가 자기 입으로 밝힌 가장 또렷한 자료다."
+            "x": "결과부터 말하면 Figma Make로 디자인 작업은 20% 빨라지고 16% 쉬워졌다. 가장 크게 덕을 본 쪽은 PM이다. 과제가 23% 빨라졌고 37% 쉬워졌다. 이 숫자는 참가자 100명에게 Make를 쓸 때와 쓰지 않을 때 같은 과제를 풀게 한 무작위 대조 시험에서 나왔다."
           },
           {
             "t": "p",
-            "x": "시작은 간단하다. 캔버스에서 레이어를 하나 고르고 Agents를 누르면 캔버스 위에 프롬프트 상자가 뜬다. 단축키는 Cmd 또는 Ctrl + Enter다. 왼쪽 내비게이션의 Agents를 누르면 사이드바가 계속 열린 채로 대화가 이어진다."
+            "x": "측정이 까다로운 건 교란 변수 때문이다. 근속 기간, 경력, 과제 난이도가 모두 작업 속도를 흔든다. 일상적인 통계 기법으로는 이런 변수를 걷어 내지 못하고, 그러면 생산성 변화 중 얼마가 AI 몫인지 가릴 수 없다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3ba7180ee5d497a81d831a7220c41f866bb60deb-3264x2176.jpg?w=1080&h=720&q=75&fit=max&auto=format",
+            "cap": "온라인 A/B 테스트, 관찰 데이터 인과 추론, 무작위 대조 시험의 장단점 비교."
           },
           {
             "t": "p",
-            "x": "Figma는 에이전트의 몫을 디자인을 만들고 변주하기, 잡일 자동화하기, 디자인 피드백 받기 셋으로 설명한다. 프롬프트로 새 화면과 레이아웃을 뽑고, 레이아웃과 간격과 컴포넌트 인스턴스를 손본다. 이미 있는 스타일과 변수를 적용하고 이미지를 만들거나 편집한다. 대량 콘텐츠 작성과 수정, 플러그인과 셰이더 제작, 모션과 애니메이션 추가, 디자인 라이브러리 연결까지 목록에 들어 있다."
+            "x": "한 집단에는 Make를 주고 다른 집단에서는 끄는 방법을 떠올려 볼 만하다. 이론상 교란 변수는 무작위로 흩어지지만, 두 집단이 똑같이 복잡한 과제를 하는지 통제할 길이 없다. 로그 데이터로 인과 추론을 하는 길도 막혔다. 성향 점수 매칭(PSM)은 모든 교란 변수가 로그에 담겨 있어야 성립하는데, 익명화된 사용자 ID는 그 사람의 주관적인 디자인 경험을 알려 주지 않는다. 도구 변수(IV)에 쓸 만한 변수도 로그에는 없었다."
           },
           {
             "t": "p",
-            "x": "안 되는 것도 분명하다. 벡터 편집과 Draw 도구는 아직 준비 중이고, 에셋 내보내기나 다이어그램·데이터 시각화 제작은 하지 못한다. 모바일과 다른 Figma 제품에서도 쓸 수 없다."
+            "x": "남은 선택은 무작위 대조 시험(RCT)이었다. 무작위 배정으로 교란 변수를 두 집단에 고르게 나누고, 같은 과제를 풀게 해 과제 속성 차이를 없애고, 훈련된 연구팀이 진행을 조율해 변동을 줄인다. 표본 크기는 GitHub Copilot RCT 같은 업계 선행 연구의 효과 크기로 검정력 분석을 돌려 정했다. 제품 디자이너 50명과 제품 관리자 50명, 모두 100명이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8bc8653bcddc30417de400df036e41bf803a1a4a-1608x812.jpg?rect=1,0,1606,812&w=1080&q=75&fit=max&auto=format",
+            "cap": "과제 1. 라이트 모드로 시작한 디자인을 다크 모드로 바꾼다."
           },
           {
             "t": "p",
-            "x": "요금제 제한은 없다. 다만 Full 좌석에 편집 권한이 있어야 파일을 실제로 고치고, View나 Dev, Collab 좌석은 대화만 가능하다. 베타 기간에는 무료로 열려 있되 월 사용량 한도가 걸리고 매달 초기화된다."
+            "x": "과제는 경력과 상관없이 누구나 아는 일이어야 했다. 소셜 미디어 게시물 편집으로 정했다. UI와 외형 바꾸기, 기본 디자인에서 새 화면 만들기, 상호작용과 반응형 더하기. 세 시나리오를 짰다. 가장 어려웠던 건 제품 디자이너에게 너무 쉽지 않으면서 PM에게 너무 어렵지도 않은 지점이다. 내부 파일럿을 거쳐 과제를 세 번 다시 설계했다. 진행 방식 차이도 또 다른 교란 변수라, 모든 진행자가 따르는 스크립트와 문제 해결 가이드를 만들었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/121c4ffabf507588adc72768f9cae241dbfc636f-3264x2176.jpg?w=1080&h=720&q=75&fit=max&auto=format",
+            "cap": "완료 시간 20% 감소, 과제 용이성 16% 상승, 체감 Figma 사용성 15% 상승."
+          },
+          {
+            "t": "p",
+            "x": "참가자 100명이 모두 완주했다. 누적 과제 완료 시간이 20% 줄고, 과제 용이성은 16%, 체감 Figma 사용성은 15% 올랐다. PM은 모든 항목에서 제품 디자이너보다 큰 폭으로 나아졌다. 상호작용 회귀 모델로 보면 Make를 쓴 PM이 누적 23%를 되찾았고, 실험 총합에서는 Make를 쓰지 않은 제품 디자이너와 거의 맞먹는 효율을 냈다."
+          },
+          {
+            "t": "p",
+            "x": "이득이 나오는 지점은 갈렸다. PM은 가장 쉽고 빠른 과제 둘에서 개선을 보고했지만 가장 어렵고 긴 과제에서는 통계적으로 유의한 개선이 없었다. 제품 디자이너는 정반대다. 가장 어려운 과제에서만 유의한 시간 개선이 나왔다. Make는 디자이너에게 제로투원과 복잡한 인터랙션 디자인을 앞당기는 도구고, PM에게는 빠르게 디자인에 손을 보태게 해 주는 기본 도구인 셈이다."
+          },
+          {
+            "t": "p",
+            "x": "분석은 가설 검정과 OLS 회귀 모델을 함께 썼고, 따로 표기하지 않은 결과는 모두 통계적으로 유의하다. 설계 덕분에 Make가 이 개선을 일으켰다고 자신 있게 말한다. Figma는 새 디자인 에이전트를 두고 비슷한 RCT를 준비한다."
           }
         ]
       }
     },
     {
-      "id": "design-mudbox-discontinued",
+      "id": "design-alien-no-mesh-shader",
       "eyebrow": "AI NEWS",
-      "headline": "오토데스크가 머드박스를 접는다,\n남은 판매는 11월 7일까지",
-      "body": "아카데미상까지 받은 머드박스의 월·연 구독 판매가 11월 7일에 끝난다.",
-      "mini_headline": "머드박스 판매 종료",
+      "headline": "메시도 텍스처도 정점도 없다\n셰이더 수학만으로 만든 외계인",
+      "body": "Drin이 만든 외계인은 전체 화면 쿼드 한 장 위에서 레이마칭으로 그려진다.",
+      "mini_headline": "메시 없는 3D 외계인",
       "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/08/autodesk-is-discontinuing-mudbox-its-digital-sculpting-software/",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/this-alien-has-no-mesh-is-built-in-three-js-with-shader-math/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -60,96 +86,41 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260810_AutodeskDiscontiuesMudbox_f-960x480.jpg",
-            "cap": "오토데스크 머드박스."
+            "src": "https://cdn.80.lv/api/upload/meta/49683/images/6a7afda7da4c2/contain_1200x630.jpg",
+            "cap": "Three.js 셰이더로만 만든 외계인."
           },
           {
             "t": "p",
-            "x": "오토데스크가 디지털 조각 소프트웨어 머드박스를 단종한다. 콘셉트 아트와 게임 개발, 시각효과, 모션그래픽에서 쓰이던 도구다."
+            "x": "Senior Developer Drin이 시각화한 이 귀여운 외계인은 3D처럼 보이지만 3D가 아니다. Three.js로 만들었고, 3D 느낌을 내는 건 지오메트리가 아니라 셰이더 수학이다."
           },
           {
             "t": "p",
-            "x": "3년 구독의 판매와 갱신은 2026년 8월 7일에 이미 끝났다. 월간과 연간 구독은 2026년 11월 7일에 뒤따른다."
+            "x": "뒤에 메시도 텍스처도 없고 정점 하나 없다. 셰이더 안에서 돌아가는 수학뿐이다. 장면은 전체 화면 쿼드 한 장으로 이뤄져 있고, 픽셀마다 프래그먼트 셰이더에서 부호 있는 거리장을 레이마칭해 계산한다."
           },
           {
             "t": "p",
-            "x": "머드박스는 20년 전 Wētā FX에서 나왔다. 2005년 킹콩 작업에 쓴 뒤 스튜디오를 떠난 아티스트 Andrew Camenisch, Dave Cardwell, Tibor Madjar가 만들었다. 세 사람은 \"다중 해상도 디지털 조각의 기술 수준을 크게 끌어올린 강력한 새 설계 기능\"으로 2014년 아카데미 기술상을 받았다. 오토데스크는 2007년 원 개발사 Skymatter를 인수했다."
+            "x": "결국 평평한 면 위에서 셰이더 수학이 깊이와 모양과 형태를 맡는다. 기술적으로는 완전히 평평한 평면인데 부피의 착시가 생긴다. 레이마칭과 SDF는 테크니컬 아티스트들이 GPU에서 곧장 양식화된, 지오메트리 없는 비주얼을 만들 때 쓰는 기법이다."
           },
           {
             "t": "p",
-            "x": "2017년 무렵 오토데스크가 다시 투자해 머드박스 2018.2에 동적 테셀레이션 시스템을 넣었다. 눈에 띄는 개선은 거기서 멈췄다. 2026년 3월에 나온 머드박스 2027은 \"릴리스 노트에 새 기능이 하나도 적히지 않은 여섯 번째 연속 연간 업데이트\"였다."
+            "x": "그럴싸한 가짜 3D를 만드는 길은 여럿이다. 블렌더 단편 Dust of the Simulacrum의 감독이 광각 렌즈 왜곡을 푼 방식도 그중 하나다. Web Entangled Prophecy를 위해 만든 로고는 언리얼 엔진 5에서 리테이너 박스와 HLSL로 나왔다."
           },
           {
             "t": "p",
-            "x": "몇 년째 새 기능이 없어도 아티스트들은 연 105달러쯤 되는 구독을 유지했다. 이유는 레이어 기반의 직관적인 작업 방식이다. 인터페이스와 작업 흐름이 표준에서 벗어난 ZBrush나 3DCoat와 달리, 다른 CG 소프트웨어를 쓰다 넘어온 사람에게 머드박스는 낯설지 않았다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2025/04/250328_Mudbox2026_main.jpg",
-            "cap": "캐릭터 아티스트 Xhon Hysenaj가 머드박스로 조각한 디즈니 메리다 공주 팬 리크리에이션. 오토데스크 머드박스 웹사이트의 마지막 홍보 이미지로 쓰였다."
-          },
-          {
-            "t": "p",
-            "x": "2026년 8월 7일 기준 구독자는 머드박스 2027을 5년간 쓴다. 다만 기술 지원과 보안 패치는 3년까지고, 그 뒤로는 새 기능도 버그 수정도 없다."
+            "x": "Three.js 쪽에는 Chiro Visuals의 실시간 강설 시스템, Evan Wallace의 WebGL 데모를 Yong Su가 Three.js로 옮긴 작업, Dan Greenheck의 Three.js Water Pro 같은 결과물이 있다. 외계인 설정은 링크를 눌러 색을 바꿔 가며 직접 만져 본다."
           }
         ]
       }
     },
     {
-      "id": "design-grok-imagine-image-2",
+      "id": "design-lottie-tactile-ux",
       "eyebrow": "AI NEWS",
-      "headline": "글자와 레이아웃을 같이 짜는\n이미지 모델이 API로 열렸다",
-      "body": "타이포와 레이아웃을 함께 짜는 xAI 이미지 모델이 AI Gateway에 올라왔다.",
-      "mini_headline": "타이포 아는 이미지 모델",
-      "tool": "Figma",
-      "source": "Vercel",
-      "url": "https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3uPYJwKOF0WwcurlTBY2Ya/f08abe27da129f05364bd63f6883058e/Vercel_x_xAI.png",
-            "cap": "Vercel과 xAI."
-          },
-          {
-            "t": "p",
-            "x": "xAI의 Grok Imagine Image 2.0 Preview가 AI Gateway에 올라왔다."
-          },
-          {
-            "t": "p",
-            "x": "이 모델은 세세한 지시를 흘리지 않고 그대로 따르며, 타이포그래피와 레이아웃을 함께 계획한다. 그래서 인포그래픽이나 포스터, 타이틀 화면처럼 요소가 빽빽하게 얽힌 시각물도 구조가 무너지지 않고 작은 글자가 읽히는 상태로 남는다. 이미지 편집도 되는데, 같은 대상을 여러 번 생성해도 인물과 디테일이 흐트러지지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "AI Gateway 위에서 돌아가는 imagine.vercel.sh에서 지금 바로 써 본다."
-          },
-          {
-            "t": "p",
-            "x": "쓰는 법은 짧다. model을 xai/grok-imagine-image-2.0-preview로 두고 AI SDK의 generateImage를 호출한다. providerOptions.xai 아래 resolution을 1k나 2k로 지정해 출력 등급을 고르고, 한 번에 여러 장이 필요하면 n을 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "이미지 편집은 지시문과 함께 prompt.images에 이미지를 넘긴다. 그러면 요청한 부분만 바꾸고 나머지는 건드리지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "AI Gateway가 지원하는 이미지 모델 전체 목록은 별도 페이지에 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-animating-border-image",
-      "eyebrow": "AI NEWS",
-      "headline": "그라디언트는 원래 못 움직인다,\n커스텀 속성을 등록하기 전까지는",
-      "body": "border-image에 그라디언트를 깔고 등록한 커스텀 속성으로 움직인다.",
-      "mini_headline": "움직이는 테두리 이미지",
+      "headline": "물리 엔진 대신 Lottie 상태 제어로\n스트레스 해소 장난감을 만들었다",
+      "body": "물리 엔진 대신 Lottie 세그먼트와 거리 계산으로 촉각 반응을 짰다.",
+      "mini_headline": "Lottie로 만든 촉각",
       "tool": "Design Tokens",
-      "source": "CSS-Tricks",
-      "url": "https://css-tricks.com/animating-css-border-image/",
+      "source": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -157,73 +128,162 @@
         "blocks": [
           {
             "t": "p",
-            "x": "CSS의 border-image는 있는 줄 알면서도 그냥 지나치는 기능이다. 한마디로 solid나 dashed 같은 밋밋한 선 대신 이미지나 그라디언트를 테두리로 쓴다."
+            "x": "촉각적이고 튕기고 부서지는 웹 인터페이스를 만들 때 업계의 보통 선택은 물리 엔진이다. Matter.js나 Cannon.js, 직접 짠 WebGL이 몰입형 게임화 사이트의 표준이 됐다."
           },
           {
             "t": "p",
-            "x": "큰 단서가 하나 붙는다. 보더 이미지는 테두리 모양을 따라 휘지 않는다. 그런데도 필자가 border-image를 좋아하는 건 효율 때문이다. 잘 잘리고, 네 변에 알아서 적용된다. 특히 보더 이미지와 그라디언트를 움직일 때 이 성질이 값을 한다."
+            "x": "Isadora Agency 팀도 Stress Release를 만들며 같은 갈림길에 섰다. 번아웃된 크리에이티브가 애니메이션 UI 캐릭터를 때리고 늘이고 일그러뜨리는 디지털 스트레스 해소 장난감이다. 물리 엔진을 살펴보다 결정적인 차이를 발견했다. \"물리 엔진은 그럴듯한 움직임을 만들지만, 우리 경우에는 애니메이터가 의도한 움직임을 만들었다.\""
+          },
+          {
+            "t": "img",
+            "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/02-intentional-motion.png",
+            "cap": "캐릭터 카드. 애니메이션 시퀀스와 상호작용 상태를 정한 성격과 시각 정체성을 보여 준다."
           },
           {
             "t": "p",
-            "x": "예제는 별것 없다. 서식이 붙은 텍스트가 들어간 div 하나. .card에 크기를 정하고 배경 이미지를 깐 다음, 글자가 배경 위에 그대로 올라앉지 않게 조금 다듬는다."
+            "x": "필요한 건 사실적인 시뮬레이션이 아니라 프레임 단위로 지정된 반응이었다. 그래서 물리 엔진을 아예 버리고 Lottie 상태를 프로그래밍으로 제어하는 방식과 DOM 조작, 거리 기반 수학으로 경험을 지었다."
           },
           {
             "t": "p",
-            "x": "테두리에는 단색 CSS 그라디언트를 쓴다. 이유는 두 가지다. 그라디언트도 배경 이미지의 한 종류이고, 애니메이션을 보여 주기에 편하다. border-image-source와 border-image-slice, border-image-width로 그라디언트를 테두리 자리에 앉힌다. 데모를 보면 움직이는 테두리와 이미지 사이에 틈이 조금 벌어져 있다."
+            "x": "핵심 요구는 완전한 결정론적 제어다. 애니메이터가 만든 .json Lottie 파일은 프레임 단위 시퀀싱을 요구했다. 이를테면 '메가 스퀴즈' 반응은 정확히 181프레임의 빌드업과 그에 이어지는 릴리스 시퀀스가 필요했다. Lottie 네이티브 API로 상태를 다루니 애니메이터가 공들인 키프레임을 덮어쓰지 않고도 애니메이션을 정확히 띄웠다."
+          },
+          {
+            "t": "img",
+            "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/03-tactile-feedback.png",
+            "cap": "거리 기반 클릭 감지와 맞물린 Lottie 반응이 캐릭터를 실제로 때린 감각을 만든다."
           },
           {
             "t": "p",
-            "x": "여기서 걸리는 게 있다. 그라디언트는 기본적으로 애니메이션되지 않는다. 그래서 커스텀 속성을 직접 등록한다. CSS 변수는 애니메이션이 되기 때문이다. --p 같은 변수를 <percentage>나 <angle>, <number> 같은 문법 타입으로 등록해 두고 hover에서 transition을 걸면 테두리가 움직인다."
+            "x": "Lottie 런타임은 JSON 벡터 애니메이션을 내부에서 SVG로 렌더링한다. 요소는 ID와 CSS 클래스로 고르고, 동작은 Lottie 세그먼트와 CSS 변형, 클릭 이벤트 수학이 끌고 간다. 클릭은 매번 캐릭터 중심점을 기준으로 잰다. 페이지 좌표를 캐릭터 로컬 좌표로 옮긴 뒤 피타고라스 정리로 거리를 구한다."
           },
           {
             "t": "p",
-            "x": "여기서 멈출 이유는 없다. linear-gradient 대신 conic-gradient를 쓰고, border-image-slice 값 자체를 움직이고, border-image-repeat을 round로 두면 타일처럼 반복된다. hover에서 slice를 1에서 20픽셀로 옮기면 테두리 패턴이 뚝뚝 끊기며 갈라진다. 코딩 에이전트가 스스로 꺼내 드는 기법은 아니다."
+            "x": "이 숫자 하나가 점수와 피드백 강도, 폭발 위치를 모두 정한다. 중심에서 10픽셀 안이면 100점, 40픽셀 안이면 70에서 90점, 145픽셀을 넘으면 0점이다. 동심원 점수판이 있는 다트판을 닮았다. 폭발 Lottie는 클릭 좌표에 맞춰 옮겨 놓는다."
+          },
+          {
+            "t": "p",
+            "x": "데스크톱 클릭과 모바일 탭은 네이티브 이벤트 리스너로 받는다. 레이캐스팅 층을 더하지 않아 상호작용 모델이 애니메이션 렌더링과 어긋나지 않는다. 캐릭터마다 idle과 squeeze1~3, 종료 애니메이션이 프레임 범위로 저장돼 있고, 클릭할 때마다 다음 구간을 재생한 뒤 idle 루프로 돌아온다."
+          },
+          {
+            "t": "p",
+            "x": "DOM 위에 지은 덕에 기기마다 바운딩 박스를 다시 재는 수고가 사라졌다. 반응형 크기 조정은 CSS 변수로만 처리하고, Lottie SVG는 상태를 잃지 않고 자연스럽게 늘어난다."
+          },
+          {
+            "t": "p",
+            "x": "Lottie JSON은 무겁다. 캐릭터 애니메이션 21종에 폭발 변형까지 얹으니 특히 모바일에서 성능을 지키려면 손을 많이 봐야 했다. performance.now()로 초기 로딩 시간을 재서 5초를 넘으면 느린 연결로 표시한다. 21개를 한꺼번에 띄우지 않고 await로 두 개씩 순차 로딩해 저사양 기기가 막히지 않게 했다. 무거운 폭발 애니메이션은 그때그때 파괴하고 다시 만들어 대기 상태 메모리를 낮췄다. 21개가 동시에 도는 선반 화면에서는 품질을 0.5로, 속도를 0.6으로 낮추고, 캐릭터 하나에 집중하는 플레이 화면에서는 품질을 1로 뒀다."
+          },
+          {
+            "t": "img",
+            "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/05-conclusion.png",
+            "cap": "'메가 스퀴즈' 상태. 겹친 애니메이션 시퀀스와 배경 전환, 시간을 맞춘 피드백이 타격감을 키운다."
+          },
+          {
+            "t": "p",
+            "x": "기술은 디자인 요구가 정한다. 맞춤형이고 통제된 시각 반응이 필요했으니 창발적 시뮬레이션 대신 프로그래밍 상태 제어를 골랐다. 코드는 듣고 계산하고 방아쇠를 당기는 데까지만 하고, 감각은 애니메이터가 정했다."
           }
         ]
       }
     },
     {
-      "id": "design-mablelink-maya-transfer",
+      "id": "design-apple-mlb-immersive",
       "eyebrow": "AI NEWS",
-      "headline": "리그와 애니메이션을 그대로,\n마야 씬이 블렌더와 UE5로 간다",
-      "body": "리그와 애니메이션을 살린 채로 마야 씬이 블렌더와 UE5로 한 번에 넘어간다.",
-      "mini_headline": "마야 씬 한 클릭 이관",
-      "tool": "KeyShot",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/move-animated-maya-scenes-to-blender-ue5-in-one-click",
-      "accent": "#7928ca",
-      "motif": "sphere",
+      "headline": "8월 28일부터 비전 프로에서\nMLB 경기를 생중계로 본다",
+      "body": "애플과 MLB가 8월 28일부터 9월 18일까지 네 경기를 비전 프로로 생중계한다.",
+      "mini_headline": "비전 프로 MLB 생중계",
+      "tool": "VR Prototype",
+      "source": "Road to VR",
+      "url": "https://roadtovr.com/apple-mlb-live-immersive-games-schedule-2026/",
+      "accent": "#eb367f",
+      "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/meta/49666/images/6a79d3382bcf7/contain_1200x630.jpg",
-            "cap": "MableLink."
+            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?resize=1068%2C712&quality=89&ssl=1",
+            "cap": "제공: Apple, Major League Baseball."
           },
           {
             "t": "p",
-            "x": "Mohamed Ragheb의 MableLink는 마야 사용자만 보고 만든 파이프라인 커넥터다. 씬을 단순 익스포트로 납작하게 눌러 버리는 대신 밑에 깔린 데이터를 그대로 남긴다."
+            "x": "애플과 메이저리그(MLB)가 라이브 야구 경기 몇 편을 비전 프로에 올린다. 생중계는 8월 28일에 시작한다."
           },
           {
             "t": "p",
-            "x": "애니메이션이 붙은 마야 씬을 블렌더와 언리얼로 곧장 보내면서 리그, 애니메이션, 블렌드 셰이프, 카메라, 라이트, 피벗, 계층 구조를 지킨다. 글래스와 서브서피스 스캐터링, 이미션, 클리어코트 같은 물리 기반 머티리얼도 함께 간다. 블렌더·언리얼과의 라이브 재동기화, NURBS, 스마트 텍스처 압축이 들어간 GLB/GLTF 임포트와 익스포트, 블렌더 의존성 없는 동작, MagicaVoxel용 메시-복셀 변환까지 지원한다."
+            "x": "애플이 8월 야구 일정에서 확보한 경기 수를 처음 알렸을 때만 해도, Apple TV 구독자가 2026 시즌 마무리로 이머시브 경기를 볼 수 있을지는 분명하지 않았다."
           },
           {
             "t": "p",
-            "x": "버전은 둘이다. 무료판은 블렌더로 20회, 언리얼로 20회 전송에 물리 기반 머티리얼 전송 5회를 준다. Pro는 이 제한을 없애고 Update Sync를 더한다."
+            "x": "이번에 애플은 9월 18일까지 이어지는 '프라이데이 나이트 베이스볼' 라이브 네 경기를 알렸다. 중계는 Paul Severino가 플레이바이플레이, Xavier Scruggs가 해설, Michelle Margaux가 사이드라인 리포터를 맡는다."
           },
           {
             "t": "p",
-            "x": "설치는 몇 분이면 끝난다. 마야에는 끌어다 놓고, 블렌더에서는 한 번 클릭하고, 언리얼에서는 스크립트 하나를 돌리면 그 엔진의 모든 프로젝트에 진짜 플러그인으로 깔린다. 나중에 새로 만드는 프로젝트에도 붙는다. 휴대용 .mable 패키지는 씬과 머티리얼, 텍스처를 한 파일에 담아 두어 팀 누구든 블렌더나 언리얼에서 연다."
+            "x": "비전 프로에서 볼 수 있는 경기는 이렇다. 8월 28일 금요일 보스턴 레드삭스 대 뉴욕 양키스, 미국 동부시간 오후 7시. 9월 4일 금요일 로스앤젤레스 에인절스 대 피츠버그 파이리츠, 오후 6시 30분. 9월 11일 금요일 샌디에이고 파드리스 대 샌프란시스코 자이언츠, 오후 10시. 9월 18일 금요일 샌프란시스코 자이언츠 대 로스앤젤레스 다저스, 오후 10시."
           },
           {
             "t": "p",
-            "x": "호환 범위는 마야 2024/2027, 블렌더 4.5 LTS/5.2 LTS, 언리얼 엔진 5.8이다. 지금도 손질이 이어지고 있고 최근 v0.1에서 v0.1.3으로 올랐다."
+            "x": "올해 초 로스앤젤레스 레이커스의 이머시브 NBA 생중계처럼, MLB 경기도 애플 고유의 180도 3D 공간 이머시브 비디오 형식으로 나간다. 시점을 여럿 고를 수 있고 리플레이와 팀 라인업, 기록이 시청자 공간에 떠 있다."
           },
           {
             "t": "p",
-            "x": "Pro는 한 번 사면 끝인 일회성 구매다. 같은 라이선스 키를 기기 5대까지 쓰고, 다시 설치해도 그대로 유효하다."
+            "x": "생중계는 Apple TV를 구독하는 비전 프로 사용자에게 열린다. 호주, 캐나다, 독일, 홍콩, 일본, 한국, 대만, 영국, 미국 등이 포함된다. 경기를 놓쳤다면 비전 프로용 Apple TV 앱에서 전체 경기 리플레이와 하이라이트 묶음을 언제든 본다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-artstation-sketchfab-sale",
+      "eyebrow": "AI NEWS",
+      "headline": "에픽이 ArtStation과 Sketchfab을\n5년 만에 KitBash에 넘긴다",
+      "body": "에픽이 2021년에 사들인 두 플랫폼이 KitBash로 넘어간다.",
+      "mini_headline": "ArtStation 매각",
+      "tool": "Figma",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/art/digital-art/what-does-the-sale-of-artstation-and-sketchfab-mean-for-digital-artists",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc-1280-80.webp",
+            "cap": "ArtStation과 Sketchfab이 KitBash3D, Greyscalegorilla와 한 식구가 된다. 이미지: KitBash."
+          },
+          {
+            "t": "p",
+            "x": "ArtStation은 지금도 온라인에서 가장 큰 디지털 아트 커뮤니티 중 하나다. 등록 사용자가 1,000만 명을 넘는다. 수천 명의 디지털 아티스트가 이곳을 주 포트폴리오 사이트로 쓰고 있으니, 또 한 번 주인이 바뀐다는 소식에 마음이 놓이지 않을 만하다."
+          },
+          {
+            "t": "p",
+            "x": "포트나이트와 언리얼 엔진을 만든 에픽게임즈가 ArtStation과 3D 에셋 사이트 Sketchfab을 판다고 밝혔다. 둘 다 5년 전인 2021년에 사들인 곳이다. 새 주인은 3D 에셋 플랫폼 KitBash3D와 Greyscalegorilla를 운영하는 KitBash다."
+          },
+          {
+            "t": "p",
+            "x": "이번 거래로 에픽은 언리얼 엔진 6과 포트나이트, 에픽게임즈 스토어와 개발자 생태계에 집중한다. KitBash는 교육과 포트폴리오, 아티스트 발굴부터 실제 제작에 바로 쓰는 3D 에셋과 머티리얼, 퍼블리싱까지 아우르는 플랫폼 묶음을 갖게 됐다."
+          },
+          {
+            "t": "p",
+            "x": "KitBash는 이번 인수를 훈련부터 퍼블리싱까지 창작 과정 전체를 덮는 더 넓은 생태계를 만들 기회로 본다. KitBash3D에는 실제 제작에 바로 쓰는 3D 에셋과 환경 라이브러리가 방대하게 쌓여 있고, Greyscalegorilla는 3D 아티스트와 모션 디자이너를 위한 머티리얼과 플러그인, 도구에 전념해 왔다."
+          },
+          {
+            "t": "p",
+            "x": "KitBash 공동 CEO Banks Boutté는 이렇게 말했다. \"사람들이 포트폴리오와 경력, 커뮤니티를 쌓아 온 플랫폼입니다. 그 신뢰는 진짜고, 우리의 첫 번째 우선순위는 사용자가 각 플랫폼에서 가장 아끼는 것을 지키고, 이 플랫폼에 기대는 사람들의 말을 듣고, 앞날을 신중하게 짓는 일입니다.\""
+          },
+          {
+            "t": "p",
+            "x": "ArtStation은 2014년 Leonard Teo와 Kevin Strike가 게임과 영화, 엔터테인먼트 분야 디지털 아티스트를 위한 포트폴리오 허브로 세웠다. 2021년 에픽 인수 때도 우려가 있었지만 생태계 편입은 많은 아티스트에게 이점이 있었고, 에픽은 마켓플레이스 수수료도 낮췄다. 에픽게임즈에서 언리얼 생태계를 총괄하는 SVP Bill Clifford는 \"KitBash가 창작 과정의 모든 단계에서 아티스트가 서로 연결되고 작업을 새로운 방식으로 선보일 기회를 넓힐 것\"이라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "새 주인은 아티스트에게 당장 달라지는 건 없다고 말한다. 기존 포트폴리오와 라이브러리, 작업 방식을 그대로 쓴다. KitBash3D와 Cargo 고객도 킷과 에셋, 구독을 유지한다. 지식재산권은 아티스트에게 남고, KitBash는 소유권과 저작자 표시, 창작권을 지키겠다고 못 박았다. 구독 가격과 접근 조건도 그대로고, 2D·3D 에셋과 프린트 판매도 끊기지 않는다. 다만 에픽의 디지털 에셋 마켓플레이스 Fab의 소유권이 바뀐다는 대목은 양측 발표 어디에도 없다."
+          },
+          {
+            "t": "p",
+            "x": "길게 보면 확장된 생태계가 어떻게 이어 붙을지는 두고 봐야 한다. 통합이 노출을 넓힐 거라며 낙관하는 아티스트도 있고, 소유 집중과 플랫폼 간 경쟁 축소를 걱정하는 쪽도 있다."
+          },
+          {
+            "t": "p",
+            "x": "가장 큰 흐름은 주인이 바뀌면 ArtStation의 AI 정책도 바뀌리라는 기대다. KitBash의 첫 과제는 두 플랫폼에 쌓인 AI 슬롭을 줄이는 일이어야 한다는 의견이 많다. 최근 몇 년 사이 ArtStation을 떠난 이들에게는 그것만이 돌아올 이유다. ArtStation은 X에 \"얻어야 할 신뢰가 있고, 배울 것이 많고, 앞으로 해야 할 중요한 일이 있습니다\"라며 아티스트의 목소리를 듣고 있다고 적었다."
           }
         ]
       }

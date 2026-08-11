@@ -1,186 +1,197 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "design",
-  "now_iso": "2026-08-10T22:01:00Z",
   "window_hours": 72,
-  "count": 19,
-  "note": "Unattended parallel run. All 31 plan queries were attempted; WebSearch results skewed stale so most verification was done by pulling each allowed_domain's news index directly and reading og article:published_time / JSON-LD datePublished / <time datetime> / body byline. Every item below printed FRESH from pipeline/freshness.py against now=2026-08-10T22:01:00Z (72h window starts 2026-08-07T22:01Z). Dropped for staleness after verifying real times: VentureBeat Krea 2 open weights (2026-06-23), VentureBeat FLUX 3 (2026-07-23), Builder.io 'AI agents follow your design system' (2026-06-15), Road to VR 'VR Design Unpacked' (2026-08-07T16:24Z, 5h too old), CSS-Tricks dialog element (2026-08-07T14:06Z), Vercel skill packs (2026-08-07T04:00Z), Engadget Adobe ChatGPT plugin (2026-08-06), Engadget Meta Muse Code (2026-08-05), UploadVR Google Glimmer AR UI language (2026-02-23), Runway 'Seedance 2.5' video (2026-08-07T15:51Z). Dropped for design-relevance: Engadget OpenClaw gym-agent + OpenAI Astra slowdown + voice-mode how-tos, 80.lv Unity earnings, CIO enterprise-IT pieces, NVIDIA AI-factory/infra posts. Skipped per plan: Creative Bloq Square Enix AI-authorship op-ed (2026-08-09), CG Channel Substance 3D Modeler VR mech tutorial (2026-08-09). Instagram: login-walled, no verifiable post times, contributed 0 (expected). YouTube verified via each channel's official videos.xml feed <published>. Per-outlet cap of 3 enforced; 8 distinct outlets. Categories cad / tokens-only sources (engineering.com 403, all3dp 403, develop3d, autodesk, getleo.ai, parallelhq, mindstudio, orq.ai, sgwdesignworks, keyshot, logrocket, smashingmagazine, builder.io, figma.com blog+release notes) were all swept and had nothing published inside the 72h window.",
+  "now_iso": "2026-08-11T22:00:00Z",
   "items": [
     {
-      "url": "https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
-      "source": "Vercel",
+      "url": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
+      "source": "Figma",
       "category": "figma",
-      "published_iso": "2026-08-08T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3uPYJwKOF0WwcurlTBY2Ya/f08abe27da129f05364bd63f6883058e/Vercel_x_xAI.png",
-      "title": "Grok Imagine Image 2.0 now available on Vercel AI Gateway",
-      "excerpt": "xAI's Grok Imagine Image 2.0 is now on Vercel AI Gateway as a preview: an image generation and editing model that plans typography and layout together and renders small text sharply. Typography-aware generation is exactly the failure mode that has kept most image models out of real layout work."
+      "published_iso": "2026-08-11T19:59:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/3218bd5e6e7613b2b9bb371852fa16e0060ea390-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma's Data Science team assumed AI saves users time, but quantifying it required a new approach to research design. The post details the methodology behind measuring real time savings from Figma Make."
     },
     {
-      "url": "https://www.youtube.com/watch?v=yheAh7VOHLc",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "published_iso": "2026-08-10T11:00:34Z",
-      "og_image": "https://i.ytimg.com/vi/yheAh7VOHLc/maxresdefault.jpg",
-      "title": "Using agents in Figma Design (and coming soon to FigJam and Slides)",
-      "excerpt": "Figma's own walkthrough of working with agents inside Figma Design, with FigJam and Slides support flagged as next. It is the clearest official statement yet of how the agent is meant to sit inside an existing design file rather than replace it."
+      "url": "https://dev.to/romantsisyk/claude-code-figma-a-deterministic-design-handoff-pipeline-lk3",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-08-10T15:47:36Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F03ba5rb6rp53r69797er.png",
+      "excerpt": "Screenshot prompting has a ceiling: paste a design and the model makes a plausible approximation. The author builds a deterministic Figma-to-Claude Code handoff pipeline that feeds structured design data instead of pixels."
     },
     {
-      "url": "https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13",
+      "url": "https://www.creativebloq.com/art/digital-art/what-does-the-sale-of-artstation-and-sketchfab-mean-for-digital-artists",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-08-11T08:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc-1280-80.webp",
+      "excerpt": "ArtStation and Sketchfab have been sold, creating an integrated ecosystem spanning the whole creative process. Creative Bloq weighs what the merger means for digital artists' portfolios, licensing and AI exposure."
+    },
+    {
+      "url": "https://dev.to/horizonxso/design-systems-are-the-missing-memory-layer-for-ai-assisted-frontend-teams-2mk2",
       "source": "DEV Community",
       "category": "tokens",
-      "published_iso": "2026-08-08T17:30:42Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4a41sl73wmbyaiaqmrlv.png",
-      "title": "Teaching Your AI Web Design Some Actual Taste",
-      "excerpt": "A practical writeup on why coding agents default to generic, templated UI, and what constraints and reference material actually move generated interfaces toward a distinct visual point of view."
+      "published_iso": "2026-08-10T16:30:46Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr2t9hmq3s1qkx6sgxvwt.png",
+      "excerpt": "AI coding tools are excellent at answering the current request but forget everything else. The piece argues the design system — tokens, component contracts — is the persistent memory layer AI-assisted frontend teams are missing."
     },
     {
-      "url": "https://www.youtube.com/watch?v=TM8hd2lnrEk",
-      "source": "Runway (YouTube)",
-      "category": "social",
-      "published_iso": "2026-08-10T15:39:26Z",
-      "og_image": "https://i.ytimg.com/vi/TM8hd2lnrEk/maxresdefault.jpg",
-      "title": "Creating an AI Short Film (Full Workflow) | Runway",
-      "excerpt": "Runway publishes an end-to-end production walkthrough for an AI short film, from idea through shot generation and edit. Useful as a concrete look at where generative video now fits in a real creative pipeline rather than a demo reel."
+      "url": "https://www.smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "source": "Smashing Magazine",
+      "category": "tokens",
+      "published_iso": "2026-08-11T10:00:00Z",
+      "og_image": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
+      "excerpt": "When building a highly interactive, tactile web experience, the architecture must serve the art direction. Alexey Kopytin explains the architectural rationale behind a digital stress-relief squeeze toy built with Lottie, DOM events and distance-based logic."
     },
     {
-      "url": "https://www.youtube.com/watch?v=cazd1z4Eseo",
-      "source": "Microsoft Design (YouTube)",
-      "category": "social",
-      "published_iso": "2026-08-10T17:02:00Z",
-      "og_image": "https://i.ytimg.com/vi/cazd1z4Eseo/maxresdefault.jpg",
-      "title": "The AI shift most companies didn't see coming",
-      "excerpt": "Microsoft Design on the organisational shift AI is forcing on product teams — what changes in how work is scoped and who does it. A design-org framing rather than a tool demo."
+      "url": "https://dev.to/renato_marinho/the-ai-design-fingerprint-why-every-agent-generated-frontend-looks-identical-and-how-to-break-4kii",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-08-09T05:59:14Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxc5fd5qn1s08ecqyqhdn.png",
+      "excerpt": "Every agent-generated frontend looks the same. The author names the 'AI Design Fingerprint' and shows how to break it by forcing intentional design decisions through structured reasoning instead of default prompting."
     },
     {
-      "url": "https://www.cgchannel.com/2026/08/autodesk-is-discontinuing-mudbox-its-digital-sculpting-software/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-08-10T09:00:00Z",
-      "og_image": null,
-      "title": "Autodesk is discontinuing Mudbox, its digital sculpting software",
-      "excerpt": "Sales of the Academy Award-winning sculpting tool end this November. A long-standing part of many hard-surface and character pipelines is being retired, forcing teams onto ZBrush, Blender or Autodesk's newer generative 3D bets."
+      "url": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-08-11T21:06:50Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*OqN6WHj4b9TASM80Mu7__g.png",
+      "excerpt": "A design-lens reading of Star Wars' droids as a model for AI interaction: character, constraint and legibility over chat boxes. UX Collective uses the fiction to argue for how AI products should behave."
     },
     {
-      "url": "https://80.lv/articles/move-animated-maya-scenes-to-blender-ue5-in-one-click",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-08-10T13:33:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49666/images/6a79d3382bcf7/contain_1200x630.jpg",
-      "title": "Bring Animated Maya Scenes To Blender & UE5 Instantly",
-      "excerpt": "MableLink moves animated Maya scenes into Blender and Unreal Engine 5 in one click, with materials carried over and live re-sync on the Pro tier. Interchange friction is one of the least glamorous but most expensive costs in a 3D pipeline."
+      "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-08-10T11:11:29Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/0*xBpCJGB0ENbEwo8-.png",
+      "excerpt": "UX Collective's roundup on encoding designer judgment into machine-readable form: why chat is the wrong interface for AI, and the rise of Design.md files that give agents the taste rules a team already has."
+    },
+    {
+      "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-08-09T20:51:26Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1200/1*z3N5kvaexDH53nEaniQiKw.jpeg",
+      "excerpt": "Ninety years of loom engineering went into teaching machines to catch their own mistakes — a history lesson for designers building error-aware AI systems today."
+    },
+    {
+      "url": "https://vercel.com/changelog/vercel-sandbox-managed-images",
+      "source": "Vercel",
+      "category": "workflow",
+      "published_iso": "2026-08-10T18:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3vaPqSowzp6g6BxbnsVtHf/b3a486944da4d9972d0370ab16f0ed81/image__20_.png",
+      "excerpt": "Vercel Sandbox now runs on Vercel Managed Images — versioned, open-source base images bundling Node.js, Python and coding agents, so agent-driven prototyping environments start from a consistent baseline."
     },
     {
       "url": "https://www.cgchannel.com/2026/08/the-week-in-cg-9-august-2026/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-08-09T09:00:00Z",
-      "og_image": null,
-      "title": "New CG software you may have missed: 9 August 2026",
-      "excerpt": "CG Channel's weekly sweep of releases, covering FumeFX 7.6 for 3ds Max, Character Control Rig 0.3.1 for Blender and PFTrack 26.08 — a compact map of what actually shipped for 3D artists this week."
+      "published_iso": "2026-08-09T16:43:20Z",
+      "og_image": "",
+      "excerpt": "CG Channel's weekly roundup of tool updates you may have missed, including FumeFX 7.6 for 3ds Max, Character Control Rig 0.3.1 for Blender, and PFTrack 26.08."
     },
     {
-      "url": "https://www.creativebloq.com/tech/these-sold-out-normal-f-sunglasses-are-a-huge-middle-finger-to-meta",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-08-08T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/FdJj6b8hXNAFpSp9FJ9bxV-1920-80.jpg",
-      "title": "Normal F****** Sunglasses are the perfect answer to Meta's creepy smart glasses",
-      "excerpt": "DuckDuckGo's sold-out anti-smart-glasses sunglasses are a product-design statement against camera-and-AI eyewear. A reminder that 'no sensors' is itself becoming a design position brands can ship."
-    },
-    {
-      "url": "https://80.lv/articles/try-this-box3d-integration-for-unreal-engine-5",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-08-10T14:58:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49667/images/6a79e707ba24c/contain_1200x630.jpg",
-      "title": "Lightweight Box3D Physics Plug-In For Unreal Engine 5",
-      "excerpt": "Antonio Lattanzio has released a free, open-source Box3D physics integration for Unreal Engine 5, giving prototypers a lighter alternative to Chaos for quick interactive tests."
-    },
-    {
-      "url": "https://www.creativebloq.com/tech/vitures-new-pro-xr-glasses-have-the-most-useful-party-trick-ever",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-08-09T20:13:17Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/9CMeTMuQUh6LGa5WKyFTAN-2560-80.jpg",
-      "title": "Viture's new Pro XR glasses have the most useful party trick ever",
-      "excerpt": "Viture Pro 2 lands at $300 as the company's thinnest AR glasses yet, with a mobile dock. Cheap wearable displays are quietly becoming a plausible second screen for design review and reference."
-    },
-    {
-      "url": "https://vercel.com/changelog/vercel-sandbox-managed-images",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-08-10T18:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3vaPqSowzp6g6BxbnsVtHf/b3a486944da4d9972d0370ab16f0ed81/image__20_.png",
-      "title": "Vercel Sandbox now runs on Vercel Managed Images",
-      "excerpt": "Vercel Sandbox now ships versioned, open-source base images with Node.js, Python and coding agents preinstalled, with Dockerfiles public. Relevant to any team running prompt-to-prototype agents in an isolated environment."
-    },
-    {
-      "url": "https://dev.to/gde/three-clouds-three-native-agents-3egf",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-08-10T15:04:09Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6xwn4cf7eqz22d8bbz8.jpg",
-      "title": "Three Clouds, Three Native Agents",
-      "excerpt": "A side-by-side build of the same agent on three vendors' native stacks, showing how far the tool-use and orchestration models have diverged — useful context before committing a product team to one."
-    },
-    {
-      "url": "https://www.creativebloq.com/design/product-design/the-apple-watch-redesign-cant-come-soon-enough",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-08-10T12:32:17Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/JM8uW9oDVkCYoTcDghcAih-1920-80.jpg",
-      "title": "The Apple Watch redesign can't come soon enough",
-      "excerpt": "Apple is reportedly preparing a smartwatch form-factor shake-up. A product-design read on why the current shape has run out of room as more of the interaction moves to voice and assistants."
-    },
-    {
-      "url": "https://css-tricks.com/animating-css-border-image/",
-      "source": "CSS-Tricks",
-      "category": "tokens",
-      "published_iso": "2026-08-10T15:58:47Z",
-      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg",
-      "title": "Animating CSS border-image",
-      "excerpt": "Border-image slices can run across an entire element border, and animating them produces effects that are hard to get any other way. A craft technique agents almost never reach for on their own."
-    },
-    {
-      "url": "https://www.fxguide.com/fxfeatured/inside-dnegs-invisible-effects-for-citadel-season-2/",
-      "source": "fxguide",
-      "category": "render",
-      "published_iso": "2026-08-10T20:47:43Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Citadel.jpg",
-      "title": "Inside DNEG's Invisible Effects for Citadel Season 2",
-      "excerpt": "DNEG's Daniel Baldwin breaks down fire, full-CG crashes and seamless camera handoffs for Citadel Season 2 — the invisible-effects craft that generative video still has no answer for."
-    },
-    {
-      "url": "https://80.lv/articles/this-might-be-the-coolest-frozen-prawns-ad-ever",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-08-10T15:52:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49668/images/6a79f3b231484/contain_1200x630.jpg",
-      "title": "This Is How You Advertise Frozen Shrimp",
-      "excerpt": "A standout frozen-seafood spot made, in the creators' words, \"pretty much entirely in Blender and After Effects with no use of AI\" — an explicit no-AI credit is now itself a positioning choice in commercial work."
-    },
-    {
-      "url": "https://dev.to/shayan-araghi/a-second-brain-your-ai-agent-can-read-4kf6",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-08-08T15:00:00Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhw799vyasbvbyfmk9p5s.png",
-      "title": "A Second Brain Your AI Agent Can Read: Obsidian + Claude",
-      "excerpt": "Structuring notes as clean markdown so an agent can use them as working context — a lightweight pattern for giving design and product context to an assistant without a bespoke tool."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/08/see-dexter-studios-vfx-breakdown-for-the-wonderfools/",
+      "url": "https://www.cgchannel.com/2026/08/see-storm-studios-varied-vfx-breakdown-for-daredevil-born-again-s2/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-08-10T09:00:00Z",
-      "og_image": null,
-      "title": "See Dexter Studios' VFX breakdown for The WONDERfools",
-      "excerpt": "Dexter Studios' breakdown for the Korean superhero comedy covers teleportation, telekinesis and a giant inflatable onion — a look at how a mid-budget Korean feature builds effects shots."
+      "published_iso": "2026-08-11T06:52:58Z",
+      "og_image": "",
+      "excerpt": "Storm Studios breaks down the combat sequences for Daredevil: Born Again S2, covering digi-doubles, sparks and practical-to-digital blending across the Disney+ series."
+    },
+    {
+      "url": "https://80.lv/articles/this-alien-has-no-mesh-is-built-in-three-js-with-shader-math/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-11T10:47:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49683/images/6a7afda7da4c2/contain_1200x630.jpg",
+      "excerpt": "Developer Drin built a fully animated alien with no mesh at all — the whole creature is raymarched in Three.js with shader math, a reminder of how much visual craft lives outside asset pipelines."
+    },
+    {
+      "url": "https://80.lv/articles/artist-shows-web-tornado-made-with-blender-geometry-nodes/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-11T09:50:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49681/images/6a7af05a8bd82/contain_1200x630.jpg",
+      "excerpt": "Cartesian Caramel recreates the web tornado from Spider-Man: Brand New Day entirely with Blender geometry nodes, showing a procedural route to blockbuster-scale VFX."
+    },
+    {
+      "url": "https://80.lv/articles/stunning-sea-of-thieves-inspired-water-in-godot/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-11T10:08:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49682/images/6a7af4b018930/contain_1200x630.jpg",
+      "excerpt": "A developer brings Sea of Thieves-style stylized ocean rendering to Godot — 'so real you can almost feel the seasickness' — with a shader-driven water system."
+    },
+    {
+      "url": "https://www.creativebloq.com/3d/3d-art/see-how-this-3d-artist-experiments-with-colour-in-renders",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-08-11T06:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7rWYjyaYXzaS2iYWr3TUsS-1421-80.jpg",
+      "excerpt": "A look at the work of 3D artist Giovane Henriques and how he experiments with colour as the primary driver of a render's mood rather than a post-process afterthought."
+    },
+    {
+      "url": "https://www.creativebloq.com/art/animation/what-are-blend-shapes-in-3d-animation-and-how-do-you-use-them",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-08-10T07:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZsYLdxP8RbQUFLzkFHTyjS-1920-80.jpg",
+      "excerpt": "A primer on blend shapes in 3D animation: easy to set up and capable of very organic-feeling movement, they remain the backbone of facial performance in an era of AI-assisted rigging."
+    },
+    {
+      "url": "https://www.getleo.ai/blog/best-ai-tool-tribal-knowledge-2026",
+      "source": "Leo AI",
+      "category": "cad",
+      "published_iso": "2026-08-11T00:00:00Z",
+      "og_image": "https://framerusercontent.com/assets/KbJh8W6KLndaaR7YUmOYteM3pU0.png",
+      "excerpt": "Leo AI lays out how to judge whether an AI tool actually captures engineering tribal knowledge — the undocumented design rules that live in senior engineers' heads — instead of just indexing CAD files."
+    },
+    {
+      "url": "https://develop3d.com/hardware/dell-launch-all-in-one-conference-monitor/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-08-11T14:04:36Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Dell-conference-monitor.jpg",
+      "excerpt": "Dell's new P4326QEB all-in-one 43-inch 4K conference monitor replaces separate cameras, speakers and displays in design-team huddle spaces."
+    },
+    {
+      "url": "https://roadtovr.com/apple-mlb-live-immersive-games-schedule-2026/",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-08-10T14:59:00Z",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?fit=1800%2C1200&quality=89&ssl=1",
+      "excerpt": "Apple and MLB will livestream games to Vision Pro in Apple Immersive starting August 28th — the first regular live immersive-video production pipeline at this scale."
+    },
+    {
+      "url": "https://www.uploadvr.com/taolu-turned-my-vr-headset-into-a-martial-arts-dojo/",
+      "source": "UploadVR",
+      "category": "vr",
+      "published_iso": "2026-08-11T18:22:44Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/08/Talou-Teacher.jpg",
+      "excerpt": "Martial arts simulator TaoLu uses body-tracked instruction and spatial coaching UI to turn a headset into a dojo — a case study in embodied VR interaction design."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EXWK2NMAEKk",
+      "source": "TheAIGRID",
+      "category": "social",
+      "published_iso": "2026-08-10T17:00:05Z",
+      "og_image": "https://i.ytimg.com/vi/EXWK2NMAEKk/maxresdefault.jpg",
+      "excerpt": "Walkthrough of Meta's new Muse family — Muse Spark, Muse Image and Muse Video — and what the generative image/video models mean for creative production workflows."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gNltRF2XPTg",
+      "source": "The AI Advantage",
+      "category": "social",
+      "published_iso": "2026-08-10T17:48:51Z",
+      "og_image": "https://i.ytimg.com/vi/gNltRF2XPTg/maxresdefault.jpg",
+      "excerpt": "A practical build-out of always-on ChatGPT automations: scheduled tasks, memory and connectors wired so the assistant keeps working on your projects between sessions."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 19,
+    "kept": 23,
     "against_days": 5
   }
 }

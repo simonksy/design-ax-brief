@@ -1,99 +1,106 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "design",
-  "count": 5,
-  "selection_mode": "curator (user deferred)",
-  "dedup": {
-    "checked_against": "sections.design → today (2026-08-10) + days (2026-08-05 … 2026-08-09)",
-    "published_urls_matched": 0,
-    "dropped": [
-      {
-        "url": "https://www.youtube.com/watch?v=TM8hd2lnrEk",
-        "reason": "hard exclusion — cross-section collision, assigned to movies today"
-      },
-      {
-        "url": "https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13",
-        "reason": "content-level near-duplicate — same core topic (coding agents produce generic/tasteless UI, fix with constraints) already run twice in this section: dev.to 'Your AI agent's UI is mediocre' (2026-08-09) and dev.to 'Why Claude-generated screens are missing their states' (2026-08-08)"
-      }
-    ],
-    "note": "No candidate URL matched a published design card. All candidates published 2026-08-08…08-10, so only the 08-08/08-09/08-10 briefs could collide; all three were read in full."
-  },
-  "diversity": {
-    "outlets": ["Figma (YouTube)", "CG Channel", "Vercel", "CSS-Tricks", "80 Level"],
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "categories": {"social": 1, "render": 2, "figma": 1, "tokens": 1}
-  },
+  "selection_mode": "curator_auto",
   "picks": [
     {
       "rank": 1,
-      "title": "Using agents in Figma Design (and coming soon to FigJam and Slides)",
-      "url": "https://www.youtube.com/watch?v=yheAh7VOHLc",
-      "source": "Figma (YouTube)",
-      "published_iso": "2026-08-10T11:00:34Z",
-      "og_image": "https://i.ytimg.com/vi/yheAh7VOHLc/maxresdefault.jpg",
-      "excerpt": "Figma's own walkthrough of working with agents inside Figma Design, with FigJam and Slides support flagged as next. It is the clearest official statement yet of how the agent is meant to sit inside an existing design file rather than replace it.",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Figma's own account of how agents work inside a design file — the single most actionable thing a designer can try tomorrow."
+      "url": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
+      "source": "Figma",
+      "published_iso": "2026-08-11T19:59:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/3218bd5e6e7613b2b9bb371852fa16e0060ea390-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma's Data Science team assumed AI saves users time, but quantifying it required a new approach to research design. The post details the methodology behind measuring real time savings from Figma Make.",
+      "rationale": "First-party Figma research that puts an actual measured number on AI time savings — the methodology is reusable by any design org trying to justify AI tooling."
     },
     {
       "rank": 2,
-      "title": "Autodesk is discontinuing Mudbox, its digital sculpting software",
-      "url": "https://www.cgchannel.com/2026/08/autodesk-is-discontinuing-mudbox-its-digital-sculpting-software/",
-      "source": "CG Channel",
-      "published_iso": "2026-08-10T09:00:00Z",
-      "og_image": null,
-      "excerpt": "Sales of the Academy Award-winning sculpting tool end this November. A long-standing part of many hard-surface and character pipelines is being retired, forcing teams onto ZBrush, Blender or Autodesk's newer generative 3D bets.",
-      "category": "render",
       "tool": "KeyShot",
+      "category": "render",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "A dated end-of-sale that forces a real tooling decision in any pipeline still carrying Mudbox."
+      "url": "https://80.lv/articles/this-alien-has-no-mesh-is-built-in-three-js-with-shader-math/",
+      "source": "80 Level",
+      "published_iso": "2026-08-11T10:47:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49683/images/6a7afda7da4c2/contain_1200x630.jpg",
+      "excerpt": "Developer Drin built a fully animated alien with no mesh at all — the whole creature is raymarched in Three.js with shader math, a reminder of how much visual craft lives outside asset pipelines.",
+      "rationale": "A fully animated creature with zero geometry — raymarched shader math in Three.js is a concrete, web-shippable alternative to asset-heavy 3D pipelines."
     },
     {
       "rank": 3,
-      "title": "Grok Imagine Image 2.0 now available on Vercel AI Gateway",
-      "url": "https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
-      "source": "Vercel",
-      "published_iso": "2026-08-08T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3uPYJwKOF0WwcurlTBY2Ya/f08abe27da129f05364bd63f6883058e/Vercel_x_xAI.png",
-      "excerpt": "xAI's Grok Imagine Image 2.0 is now on Vercel AI Gateway as a preview: an image generation and editing model that plans typography and layout together and renders small text sharply. Typography-aware generation is exactly the failure mode that has kept most image models out of real layout work.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Typography-and-layout-aware generation is the exact gap that kept image models out of layout work, and it is available behind an API today."
+      "tool": "Design Tokens",
+      "category": "tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "url": "https://www.smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "source": "Smashing Magazine",
+      "published_iso": "2026-08-11T10:00:00Z",
+      "og_image": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
+      "excerpt": "When building a highly interactive, tactile web experience, the architecture must serve the art direction. Alexey Kopytin explains the architectural rationale behind a digital stress-relief squeeze toy built with Lottie, DOM events and distance-based logic.",
+      "rationale": "Rare build write-up where architecture is chosen to serve art direction — the Lottie + DOM + distance-logic pattern is directly copyable for tactile interactions."
     },
     {
       "rank": 4,
-      "title": "Animating CSS border-image",
-      "url": "https://css-tricks.com/animating-css-border-image/",
-      "source": "CSS-Tricks",
-      "published_iso": "2026-08-10T15:58:47Z",
-      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg",
-      "excerpt": "Border-image slices can run across an entire element border, and animating them produces effects that are hard to get any other way. A craft technique agents almost never reach for on their own.",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "A concrete craft technique that generated UI never reaches for — usable the same afternoon."
+      "tool": "VR Prototype",
+      "category": "vr",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "url": "https://roadtovr.com/apple-mlb-live-immersive-games-schedule-2026/",
+      "source": "Road to VR",
+      "published_iso": "2026-08-10T14:59:00Z",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?fit=1800%2C1200&quality=89&ssl=1",
+      "excerpt": "Apple and MLB will livestream games to Vision Pro in Apple Immersive starting August 28th — the first regular live immersive-video production pipeline at this scale.",
+      "rationale": "Dated, concrete milestone: live Apple Immersive production moves spatial video from one-off showcases to a repeatable broadcast pipeline."
     },
     {
       "rank": 5,
-      "title": "Bring Animated Maya Scenes To Blender & UE5 Instantly",
-      "url": "https://80.lv/articles/move-animated-maya-scenes-to-blender-ue5-in-one-click",
-      "source": "80 Level",
-      "published_iso": "2026-08-10T13:33:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49666/images/6a79d3382bcf7/contain_1200x630.jpg",
-      "excerpt": "MableLink moves animated Maya scenes into Blender and Unreal Engine 5 in one click, with materials carried over and live re-sync on the Pro tier. Interchange friction is one of the least glamorous but most expensive costs in a 3D pipeline.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "One-click Maya→Blender/UE5 transfer with live re-sync removes a daily, expensive interchange tax; second render pick so it takes a distinct palette accent."
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "url": "https://www.creativebloq.com/art/digital-art/what-does-the-sale-of-artstation-and-sketchfab-mean-for-digital-artists",
+      "source": "Creative Bloq",
+      "published_iso": "2026-08-11T08:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc-1280-80.webp",
+      "excerpt": "ArtStation and Sketchfab have been sold, creating an integrated ecosystem spanning the whole creative process. Creative Bloq weighs what the merger means for digital artists' portfolios, licensing and AI exposure.",
+      "rationale": "Ownership change at the two platforms most designers park their portfolios and 3D assets on — licensing and AI-training exposure terms are now worth re-reading."
     }
-  ]
+  ],
+  "dedup": {
+    "against_days": 6,
+    "published_urls_checked": 30,
+    "dropped": [
+      {
+        "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af",
+        "reason": "Same source (UX Collective) repackaging the already-published story 'Chat is the wrong interface for AI' (uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b, published 2026-08-06)."
+      },
+      {
+        "url": "https://dev.to/renato_marinho/the-ai-design-fingerprint-why-every-agent-generated-frontend-looks-identical-and-how-to-break-4kii",
+        "reason": "Same source + same author (dev.to/renato_marinho) and same core thesis as the already-published 'Your AI agent's UI is mediocre and here's how to fix it' (published 2026-08-09) — content-hub near-duplicate."
+      }
+    ],
+    "backfilled": true
+  },
+  "diversity_guard": {
+    "outlets": [
+      "Figma",
+      "80 Level",
+      "Smashing Magazine",
+      "Road to VR",
+      "Creative Bloq"
+    ],
+    "max_per_outlet": 1,
+    "categories": [
+      "figma",
+      "render",
+      "tokens",
+      "vr",
+      "figma"
+    ],
+    "max_per_category": 2,
+    "note": "Second figma-category card uses palette accent #3b6bff to stay distinct from #0070f3."
+  }
 }

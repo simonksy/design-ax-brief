@@ -1,56 +1,32 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "science",
   "media": [
     {
-      "id": "science-mit-geopt-physics-pretraining",
-      "kind": "image",
-      "type": "image",
-      "src": "pipeline/media/science-mit-geopt-physics-pretraining.jpg",
-      "source": "in-article",
-      "origin": "https://news.mit.edu/sites/default/files/images/202608/mit-csail-geopt.jpg",
-      "width": 1500,
-      "height": 1000
+      "id": "science-amie-video-consultation",
+      "type": "video",
+      "src": "pipeline/media/science-amie-video-consultation.mp4",
+      "poster": "pipeline/media/science-amie-video-consultation.jpg"
     },
     {
-      "id": "science-aalto-reading-rl-model",
-      "kind": "image",
+      "id": "science-openai-astra-math-attribution",
       "type": "image",
-      "src": "pipeline/media/science-aalto-reading-rl-model.jpg",
-      "source": "in-article",
-      "origin": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-reinforc.jpg",
-      "width": 800,
-      "height": 530
+      "src": "pipeline/media/science-openai-astra-math-attribution.jpg"
     },
     {
-      "id": "science-ai-agents-for-science",
-      "kind": "image",
+      "id": "science-iceboost-glacier-volume",
       "type": "image",
-      "src": "pipeline/media/science-ai-agents-for-science.jpg",
-      "source": "in-article",
-      "origin": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg",
-      "width": 1600,
-      "height": 900
+      "src": "pipeline/media/science-iceboost-glacier-volume.jpg"
     },
     {
-      "id": "science-teen-ai-mental-health-surge",
-      "kind": "image",
+      "id": "science-quasar-lens-neural-net",
       "type": "image",
-      "src": "pipeline/media/science-teen-ai-mental-health-surge.jpg",
-      "source": "in-article",
-      "origin": "https://scx1.b-cdn.net/csz/news/800a/2026/mental-health-ai.jpg",
-      "width": 800,
-      "height": 530
+      "src": "pipeline/media/science-quasar-lens-neural-net.jpg"
     },
     {
-      "id": "science-single-lead-ecg-heart-failure-ai",
-      "kind": "image",
+      "id": "science-google-science-one-coe",
       "type": "image",
-      "src": "pipeline/media/science-single-lead-ecg-heart-failure-ai.jpg",
-      "source": "in-article",
-      "origin": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/36e731f1-06d8-497d-bfb2-f3a22e079103/Rendition/low-res/Content/Public",
-      "width": 700,
-      "height": 466
+      "src": "pipeline/media/science-google-science-one-coe.png"
     }
   ]
 }

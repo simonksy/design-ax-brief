@@ -1,56 +1,57 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "design",
   "media": [
     {
-      "id": "design-figma-agents-in-file",
-      "kind": "video",
-      "src": "pipeline/media/design-figma-agents-in-file.mp4",
-      "type": "video",
-      "poster": "pipeline/media/design-figma-agents-in-file.jpg",
-      "source": "youtube",
-      "origin": "https://www.youtube.com/watch?v=yheAh7VOHLc",
-      "clip": { "start": 18, "window": 14, "speed": 1.75, "duration": 8.03, "width": 1280, "height": 720 }
-    },
-    {
-      "id": "design-mudbox-discontinued",
+      "id": "design-figma-make-time-savings",
       "kind": "image",
-      "src": "pipeline/media/design-mudbox-discontinued.jpg",
       "type": "image",
+      "src": "pipeline/media/design-figma-make-time-savings.jpg",
       "source": "in-article",
-      "origin": "https://www.cgchannel.com/wp-content/uploads/2026/08/260810_AutodeskDiscontiuesMudbox_f.jpg",
-      "width": 960,
-      "height": 480
-    },
-    {
-      "id": "design-grok-imagine-image-2",
-      "kind": "image",
-      "src": "pipeline/media/design-grok-imagine-image-2.png",
-      "type": "image",
-      "source": "in-article",
-      "origin": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3uPYJwKOF0WwcurlTBY2Ya/f08abe27da129f05364bd63f6883058e/Vercel_x_xAI.png",
-      "width": 1200,
-      "height": 628
-    },
-    {
-      "id": "design-animating-border-image",
-      "kind": "image",
-      "src": "pipeline/media/design-animating-border-image.jpg",
-      "type": "image",
-      "source": "og:image",
-      "origin": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg",
-      "width": 1200,
-      "height": 600
-    },
-    {
-      "id": "design-mablelink-maya-transfer",
-      "kind": "image",
-      "src": "pipeline/media/design-mablelink-maya-transfer.jpg",
-      "type": "image",
-      "source": "in-article",
-      "origin": "https://cdn.80.lv/api/upload/content/e9/images/6a79d09f71b0a/widen_1840x0.jpg",
+      "origin": "https://cdn.sanity.io/images/599r6htc/regionalized/121c4ffabf507588adc72768f9cae241dbfc636f-3264x2176.jpg?w=1600&q=80&fit=max&auto=format",
       "width": 1600,
-      "height": 848
+      "height": 1066
+    },
+    {
+      "id": "design-alien-no-mesh-shader",
+      "kind": "video",
+      "type": "video",
+      "src": "pipeline/media/design-alien-no-mesh-shader.mp4",
+      "poster": "pipeline/media/design-alien-no-mesh-shader.jpg",
+      "source": "in-article-embed",
+      "origin": "https://x.com/DrinLajci/status/2085417424283648053",
+      "clip": { "start": 0.8, "window": 14, "speed": 1.75, "duration": 8.0, "width": 1108, "height": 720 }
+    },
+    {
+      "id": "design-lottie-tactile-ux",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/design-lottie-tactile-ux.png",
+      "source": "in-article",
+      "origin": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/01-intro.png",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "id": "design-apple-mlb-immersive",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/design-apple-mlb-immersive.jpg",
+      "source": "in-article",
+      "origin": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?fit=1800%2C1200&quality=89&ssl=1",
+      "width": 1600,
+      "height": 1066
+    },
+    {
+      "id": "design-artstation-sketchfab-sale",
+      "kind": "image",
+      "type": "image",
+      "src": "pipeline/media/design-artstation-sketchfab-sale.jpg",
+      "source": "in-article",
+      "origin": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc.webp",
+      "note": "webp converted to jpg",
+      "width": 1280,
+      "height": 720
     }
   ]
 }

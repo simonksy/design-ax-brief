@@ -1,105 +1,159 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "books",
-  "now_iso": "2026-08-10T22:01:00Z",
+  "now_iso": "2026-08-11T22:00:00Z",
   "window_hours": 336,
-  "count": 12,
-  "note": "Books section, 14-day window (freshness.py 'books' = 336h; window_hours(now_iso) returns the design default 72, so 336 is set explicitly per section — every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-10T22:01:00Z books` and printed FRESH). Published times were read by direct fetch of each page (og article:published_time / JSON-LD datePublished); YouTube times came from the official channel RSS <published> and were re-verified against the watch-page JSON-LD datePublished via curl (WebFetch on youtube.com returns only the footer). WebSearch quota was tight (7 parallel librarians), so after an initial keyword pass I switched to RSS/index sweeps of the allowed_domains, which is deterministic and cheaper. Swept: publishersweekly.com (4 section indexes; no working RSS), publishingperspectives.com, thebookseller.com, goodereader.com (3 categories), janefriedman.com, selfpublishingadvice.org, lithub.com, bookriot.com, electricliterature.com, scholarlykitchen.sspnet.org, booksandpublishing.com.au, mediabistro.com, selfpublishing.com, kindlepreneur.com (RSS disabled), writersdigest.com (no feed), teleread.org (last post Feb 2026), the-digital-reader.com (domain now dinosaur SEO content), ireaderreview.com (dead), plus 12 YouTube channels via channel RSS. Keywords were EXPANDED beyond keywords_books.json: added COPE/publication-ethics, 'author voice', agentic AI for authors, model-choice-for-writers (Opus 5 / Kimi / GPT-5.6), prompt-order craft, AI-book volume publishing, Pulitzer AI disclosure, ElevenLabs/Audible narration, Spines voice cloning, Wattpad/Inkitt/Fable, AI book cover generators, manga/webtoon AI localization, Korean 'AI 출판'. DROPPED as already-published (avoided_recent_topics): HarperCollins x ElevenLabs AI narration (Good e-Reader 8/7), Brian Murray AI authorship (PW 8/6), Digital Science Papers AI (PP 8/6), Asian Publishers Week Seoul (PP 8/7), Princeton x Cashmere (B+P 8/4), secondhand-bookseller AI training orders (B+P 8/3), agent pulls manuscript (B+P 8/3), SK peer-review guest post (8/7), ALLi Chakrabarty study summary (8/6), selfpublishing.com 'AI book in 30 days' video (8/4), Nerdy Novelist AI-film (7/31) and AI-text-tells (7/29). DROPPED on the design/craft-relevance test: Libro.fm ebook expansion (PP, Good e-Reader, PW, B+P, Book Riot — no AI), RBmedia/Boldwood acquisition, PW 2025 industry sales, Obama book podcast, ALLi 'Indie Manga Publishers Join Forces' (checked body text — AI only appears in sidebar links), Jane Friedman 'Zenòdot update' (AI hits are nav/sidebar only), Lit Hub 'It's Ok to Judge a Book By Its Cover' (1 incidental AI mention), Mediabistro AI-careers items (media jobs, not books), Book Launchers email-list video. DROPPED on staleness after date verification: Nerdy Novelist 'Stop Writing Confusing Action Scenes' (7/24), Written Word Media 'Spotify's Free AI Audiobook Narration' (7/21), Novelcrafter 'Kimi 3' (7/26), ElevenLabs/Spines/Audible items (Feb–Jun 2026). Outlet spread (<=3 cap, 8 distinct outlets): Future Fiction Academy 3, The Scholarly Kitchen 2, Self-Publishing Advice Center (ALLi) 2, Publishing Perspectives 1, Publishers Weekly 1, Jane Friedman 1, The Nerdy Novelist 1, Novelcrafter 1. Below the 16-28 funnel target because the AI x books news pool inside this 14-day window is genuinely small and heavily pre-published — 12 verified-fresh, on-topic, non-duplicate items is what the section actually produced after the avoided-topics and relevance filters.",
+  "count": 11,
+  "note": "Books section, 14-day window. window_hours('2026-08-11T22:00:00Z') returns the design default 72, so 336 is set explicitly (freshness.py section='books'). Every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-11T22:00:00Z books` and printed FRESH. Published times were read from og article:published_time / JSON-LD datePublished via direct curl where the site allowed it (publishingperspectives.com, janefriedman.com, bookriot.com, scholarlykitchen.sspnet.org, youtube.com watch-page JSON-LD uploadDate); thebookseller.com and publishersweekly.com block curl and cloud fetches of their meta tags, so their dates come from the rendered article/date-stamped section index (date is exact, clock time is approximated to midday and flagged here). Swept allowed_domains: thebookseller.com, publishersweekly.com (digital, copyright, content-and-e-books, publisher-news, audio-books indexes), publishingperspectives.com, scholarlykitchen.sspnet.org, janefriedman.com (AI category), goodereader.com (blog, e-book-news, digital-publishing, audible-ai tag), bookriot.com (today-in-books + AI hub), lithub.com (AI tag), electricliterature.com, writersdigest.com (AI tag), kindlepreneur.com, thecreativepenn.com, teleread.org, the-digital-reader.com (403), youtube.com channel RSS (Self-Publishing with Dale, The Creative Penn). Keyword expansion beyond keywords_books.json was needed: 'AI detection Pangram/Substack', 'Daggermouth', 'Authors Guild human authored', 'ElevenLabs audiobook deal', 'Copyright Office / Register of Copyrights', 'STM research integrity', 'Spotify audiobook discovery', 'AI market dilution study', \"We Are Better Than This\" illustrator campaign. Dropped as STALE: lithub 'Everyone is an AI Cop Now' (2026-05-22), lithub Tokarczuk (2026-05-19), goodereader Audible Maven (2024), thebookseller 'We Are Better Than This' (2026-06-18). Dropped for no AI/craft hook: PW 'Fable Surpasses 5 Million Users', janefriedman 'Choosing the Right Voice for Your Audiobook' (human narrators only), goodereader 'Publishing Revenues $33.4B'. Dropped as already published in last 5 days: goodereader HarperCollins AI audiobooks, PW New BISG Head, PW Brian Murray AI authorship, scholarlykitchen COPE + peer review, janefriedman ChatGPT style block / Substack Pangram / EU AI Act, thebookseller Daggermouth-Tor Bramble + authors of colour + AI-stories study, publishingperspectives Around the Book World Aug 10 + Digital Science, YouTube 61voMQvOFNE. Per-outlet cap respected: The Bookseller 3, Publishing Perspectives 2, Jane Friedman 2, all others 1. 7 distinct outlets. | RECOVERY PASS 1/2 merged: 5 new items.",
   "items": [
     {
-      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-10-2026/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.thebookseller.com/news/academic-publishers-must-not-get-stuck-in-war-of-ai-against-ai-stm-chief-exec-warns",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-08-10T08:54:17Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "title": "Around the Book World: August 10, 2026",
-      "excerpt": "A record eight Pulitzer winners and finalists disclosed AI use in their 2026 submissions, and administrator Marjorie Miller says future book entry forms will carry an AI-disclosure question. The same roundup has HarperCollins saying AI will expand audiobook voices and sound effects and drive its international translation programme."
+      "published_iso": "2026-08-11T08:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
+      "title": "Academic publishers must not get stuck in 'war of AI against AI', STM chief exec warns",
+      "excerpt": "STM chief executive Caroline Sutton warns that academic publishers risk an escalating machine-vs-machine arms race as AI-fabricated submissions meet AI screening tools. She argues automated integrity checks must stay paired with human editorial judgement rather than replace it."
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/10/new-guidance-from-cope-an-interview-with-natalie-ridgway/",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101027-spotify-adds-more-ai-powered-discovery-tools-for-audiobooks.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-08-11T12:00:00Z",
+      "og_image": "",
+      "title": "Spotify Adds More AI-Powered Discovery Tools for Audiobooks",
+      "excerpt": "Spotify is testing three new AI-driven audiobook features: an automated playlist generator, natural-language catalogue search and smarter series tracking. The move pushes book discovery further away from category browsing and toward conversational, model-driven recommendation."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/11/what-authors-expect-now-and-why-publishing-hasnt-kept-up-an-interview-with-jennifer-fleet-of-aries-systems-and-christian-grubak-of-chronoshub/",
       "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-08-10T09:30:56Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2224569687.jpg",
-      "title": "New Guidance from COPE: An Interview with Natalie Ridgway",
-      "excerpt": "COPE's new Code of Conduct and Core Principles deliberately contain no AI-specific clauses: Ridgway says AI tools and AI-detection tools are changing so fast that named references 'would risk being outdated by the time it was published.' Instead publishers are told to handle AI through general ethics principles and their own house policies."
+      "published_iso": "2026-08-11T09:30:37Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2195190890.jpg",
+      "title": "What Authors Expect Now, and Why Publishing Hasn't Kept Up: An Interview with Jennifer Fleet and Christian Grubak",
+      "excerpt": "Aries Systems and ChronosHub are wiring submission systems together to fix a manuscript workflow authors still find punishing. The interview digs into automated taxonomy matching, AI manuscript triage, and why clean structured data is the precondition for any useful LLM layer in publishing."
     },
     {
-      "url": "https://www.youtube.com/watch?v=5_Auv1WvgKM",
-      "source": "Future Fiction Academy (YouTube)",
-      "category": "books",
-      "published_iso": "2026-08-10T17:00:05Z",
-      "og_image": "https://i.ytimg.com/vi/5_Auv1WvgKM/maxresdefault.jpg",
-      "title": "One Author Published 200+ Books With AI. So?",
-      "excerpt": "A response to the outrage over an author shipping 200+ AI-assisted titles a year, arguing that declaring a workflow impossible because it is impossible for you is just projection. Frames AI publishing volume as an operations question — pipelines and quality control — rather than a morality question."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=_eCckkUWYDk",
-      "source": "The Nerdy Novelist (YouTube)",
-      "category": "books",
-      "published_iso": "2026-08-10T11:47:45Z",
-      "og_image": "https://i.ytimg.com/vi/_eCckkUWYDk/maxresdefault.jpg",
-      "title": "Why Smart Authors Aren't Worried About AI",
-      "excerpt": "Jason Hamilton makes the case that AI is not killing authorship and lays out what the writers who adapt are actually doing differently — treating the model as a production tool inside a human-run book business. Aimed at indie authors deciding whether to fight or absorb the tooling."
-    },
-    {
-      "url": "https://selfpublishingadvice.org/podcast-literary-agents-update-ethics-rules/",
-      "source": "The Self-Publishing Advice Center (ALLi)",
-      "category": "books",
-      "published_iso": "2026-08-07T12:00:15Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_News.jpg",
-      "title": "Literary Agents Update Ethics Rules; Seven-Figure Deal Shelved Over AI Claims",
-      "excerpt": "Dan Holloway covers the AALA rewriting its Canon of Ethics to allow agents to work more closely with indie authors, a seven-figure deal shelved within hours of an AI allegation, and the peer-reviewed study of 14,419 self-published Amazon titles. The study finds AI-generated books are commercially viable but outsold by human-written ones."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=HT94dPtKAhI",
-      "source": "Future Fiction Academy (YouTube)",
-      "category": "books",
-      "published_iso": "2026-08-05T17:00:30Z",
-      "og_image": "https://i.ytimg.com/vi/HT94dPtKAhI/maxresdefault.jpg",
-      "title": "A Publisher Read a 95% AI Chapter — Then Asked This",
-      "excerpt": "At a book fair a chapter that was 95% AI-written drew one question from a major imprint's buyers: how did you get it this good? Not whether it was AI — a concrete data point on how acquisition conversations are shifting from provenance to craft outcome."
-    },
-    {
-      "url": "https://janefriedman.com/links-of-interest-august-5-2026/",
+      "url": "https://janefriedman.com/seven-figure-book-deal-canceled-hugh-howey-says-its-the-end-of-an-era/",
       "source": "Jane Friedman",
       "category": "books",
       "published_iso": "2026-08-05T16:00:00Z",
       "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "title": "Links of Interest: August 5, 2026",
-      "excerpt": "Poets are finding their copyrighted work reproduced inside Giggle Academy's learning content, and Princeton University Press has signed with AI licensing firm Cashmere. Friedman's roundup tracks where author rights are leaking into AI products faster than contracts can cover."
+      "title": "Seven-figure book deal canceled; Hugh Howey says it's the \"end of an era\"",
+      "excerpt": "A debut novelist's $2m+ deal collapsed after his own agents concluded the manuscript was substantially AI-assisted, with no reliable detector involved in the call. Hugh Howey reads it as the end of an era in which a polished manuscript alone could be trusted as evidence of authorship."
     },
     {
-      "url": "https://selfpublishingadvice.org/a-tale-of-two-seven-figure-deals/",
-      "source": "The Self-Publishing Advice Center (ALLi)",
+      "url": "https://www.thebookseller.com/news/it-was-inevitable-agents-react-to-major-book-deal-that-collapsed-over-suspected-ai-use",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-08-04T12:00:19Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-4.jpg",
-      "title": "A Tale of Two Seven-Figure Deals",
-      "excerpt": "AI allegations hit two seven-figure book deals in the same week — one publisher stood by its author, the other walked away. The contrast shows there is still no shared standard for what counts as disqualifying AI use in an acquired manuscript."
+      "published_iso": "2026-08-04T09:00:00Z",
+      "og_image": "",
+      "title": "'It was inevitable': Agents react to major book deal that collapsed over suspected AI use",
+      "excerpt": "A crime novel that sold for $2.4m in a 14-way US auction was withdrawn by its agent on 31 July over suspected AI use. Agents told The Bookseller the collapse was predictable, with uncertainty and fear now the dominant mood in acquisitions."
     },
     {
-      "url": "https://www.youtube.com/watch?v=3NRTlv_vQOY",
-      "source": "Future Fiction Academy (YouTube)",
+      "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-08-03T23:00:20Z",
-      "og_image": "https://i.ytimg.com/vi/3NRTlv_vQOY/maxresdefault.jpg",
-      "title": "The Best AI Writing Workflow: Cheap Models First, Premium Models Last",
-      "excerpt": "After a 24-hour AI writing challenge the hosts found their default model order was backwards: run cheap models for ideation, outlining and bulk drafting, then spend premium tokens only on final prose passes. A cost-and-quality routing pattern for book-length AI workflows."
+      "published_iso": "2026-07-31T12:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/672/asd3.jpg",
+      "title": "'Genius' novel sold in six- and seven-figure deals at auction pulled over AI allegations",
+      "excerpt": "The breaking report on the crime novel pulled from both US and UK publication after allegations of AI involvement in its creation. It is the first time a headline auction title has been withdrawn mid-deal on authorship grounds."
     },
     {
-      "url": "https://www.youtube.com/watch?v=es-EGrWfJeg",
-      "source": "Novelcrafter (YouTube)",
+      "url": "https://publishingperspectives.com/2026/08/legal-battle-over-u-s-copyright-chief-heats-up-again/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-08-02T03:56:45Z",
-      "og_image": "https://i.ytimg.com/vi/es-EGrWfJeg/maxresdefault.jpg",
-      "title": "Is Opus 5 an Upgrade for Writers? — Novelcrafter Live",
-      "excerpt": "Novelcrafter benchmarks Opus 5 against its predecessors and its Sonnet and Fable siblings on actual fiction drafting, weighing the price jump against prose quality. A practical model-selection guide for novelists running AI inside a story-bible workflow."
+      "published_iso": "2026-08-04T13:14:41Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-04-at-9.06.42-AM.png",
+      "title": "Legal Battle Over U.S. Copyright Chief Heats Up Again",
+      "excerpt": "The fight over whether the president can remove Register of Copyrights Shira Perlmutter is back in court, and it turns on AI. Her attempted removal followed the Copyright Office report concluding that training models on copyrighted works can exceed fair use — the finding that underpins authors' leverage in every current AI suit."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-3-2026/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-08-03T11:51:57Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "title": "Around the Book World: August 3, 2026",
+      "excerpt": "The weekly international roundup notes Korean readers leaning on generative AI for recommendations — to the point that one reader says people 'are using AI so much that they're losing time to read.' It also tallies Hachette's expected $22m+ payout from the Anthropic settlement across roughly 15,000 titles."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y41CRIVzSoI",
+      "source": "Self-Publishing with Dale",
+      "category": "books",
+      "published_iso": "2026-07-30T14:15:11Z",
+      "og_image": "https://i.ytimg.com/vi/y41CRIVzSoI/maxresdefault.jpg",
+      "title": "How Substack's AI Detector Puts Authors at Risk | Self-Publishing News (July 30th, 2026)",
+      "excerpt": "Dale L. Roberts walks indie authors through Substack's Pangram-powered AI detection rollout and the false-positive exposure it creates for writers. The weekly news episode frames detection as the new gatekeeping layer authors have to publish around."
+    },
+    {
+      "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-07-29T14:57:02Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/daggermouth-AI.jpg.optimal.jpg",
+      "title": "Study Claims Viral Bestseller DAGGERMOUTH is AI-Generated",
+      "excerpt": "A Stony Brook study run through the Pangram detector estimates one in five Kindle ebooks now contain more than 25% AI-generated text, and flags BookTok hit Daggermouth at roughly 60%. The author denies the claim, sharpening the question of whether detector scores can ever be treated as evidence."
+    },
+    {
+      "url": "https://janefriedman.com/researchers-attempt-to-prove-that-generative-ai-dilutes-the-market-for-books/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-07-29T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "title": "Researchers attempt to prove that generative AI dilutes the market for books",
+      "excerpt": "Academics are building the empirical case that AI-generated titles measurably harm the market for human-written books — the missing evidence in most fair-use arguments. Friedman argues authors angry about AI training should welcome the attempt to quantify market harm rather than assert it."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-08-05T09:30:45Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1964440549.jpg",
+      "title": "The Published Voice: Whose Voice Are We Really Reading?",
+      "excerpt": "Drawing on an EASE panel called 'Beyond Track Changes,' Roohi Ghosh asks what is left of an author's voice once AI-driven editing smooths every manuscript toward the same 'native' register. The piece treats voice as a craft asset that automated editing quietly erodes, and argues editors have to measure their impact on it rather than assume it survives."
+    },
+    {
+      "url": "https://bookriot.com/avoiding-ai-library-programs/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-08-11T10:01:00Z",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/library-computer.jpg.optimal.jpg",
+      "title": "\"Avoiding AI\" Library Programs, and More Updates For Library Workers",
+      "excerpt": "Public libraries are now running patron workshops on how to opt out of AI — search, assistants, and the defaults baked into everyday software. Book Riot's library-worker roundup treats 'avoiding AI' as a teachable literacy skill, a counter-programming move against the assumption that every reading and research tool should be model-mediated."
+    },
+    {
+      "url": "https://goodereader.com/blog/electronic-readers/these-new-features-are-coming-to-the-iflytek-ainote-2",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-08-07T04:58:53Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/07005653/7-1x.webp",
+      "title": "These new features are coming to the iFlytek AINOTE 2",
+      "excerpt": "iFlytek published a 2026 roadmap for its LLM-powered E-Ink tablet, layering AI meeting transcription, automated note organization and document processing on top of a reworked handwriting and PDF toolbar. It is a concrete look at what an AI-native reading-and-writing device wants to become once the model sits underneath the page."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-08-03T12:00:00Z",
+      "og_image": "",
+      "title": "Princeton University Press Partners with Cashmere on AI Licensing",
+      "excerpt": "Princeton University Press will make its catalogue available to 'copyright compliant' AI platforms through Cashmere, a licensing intermediary built for retrieval-augmented generation rather than model training. The press keeps title-by-title control over what is licensed and on what terms — an early template for how books get into AI answers without being swallowed into weights."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-07-31T12:00:00Z",
+      "og_image": "",
+      "title": "AI May Be Making Publishing Easier, But It's Still Not Easy",
+      "excerpt": "At the Media Transformation Summit, publishers reported that AI has genuinely lowered production cost — audiobooks especially — while leaving the hard parts untouched: deciding what to publish and finding readers. The recurring practical lesson was that machine-readable metadata and management buy-in, not the model itself, decide whether an AI workflow lands."
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 10,
+    "dropped": 0,
+    "kept": 11,
     "against_days": 5
   }
 }

@@ -1,39 +1,31 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "books",
   "media": [
     {
-      "id": "books-pulitzer-ai-disclosure",
-      "kind": "image",
+      "id": "books-spotify-audiobook-discovery",
       "type": "image",
-      "src": "pipeline/media/books-pulitzer-ai-disclosure.png"
+      "src": "pipeline/media/books-spotify-audiobook-discovery.jpg"
     },
     {
-      "id": "books-cope-no-ai-clause",
-      "kind": "image",
+      "id": "books-stm-ai-against-ai",
       "type": "image",
-      "src": "pipeline/media/books-cope-no-ai-clause.jpg"
+      "src": "pipeline/media/books-stm-ai-against-ai.jpg"
     },
     {
-      "id": "books-cheap-models-first",
-      "kind": "video",
-      "type": "video",
-      "src": "pipeline/media/books-cheap-models-first.mp4",
-      "poster": "pipeline/media/books-cheap-models-first.jpg"
+      "id": "books-aries-chronoshub-submission",
+      "type": "image",
+      "src": "pipeline/media/books-aries-chronoshub-submission.jpg"
     },
     {
-      "id": "books-opus5-for-novelists",
-      "kind": "video",
-      "type": "video",
-      "src": "pipeline/media/books-opus5-for-novelists.mp4",
-      "poster": "pipeline/media/books-opus5-for-novelists.jpg"
+      "id": "books-library-avoiding-ai",
+      "type": "image",
+      "src": "pipeline/media/books-library-avoiding-ai.jpg"
     },
     {
-      "id": "books-95-percent-ai-chapter",
-      "kind": "video",
-      "type": "video",
-      "src": "pipeline/media/books-95-percent-ai-chapter.mp4",
-      "poster": "pipeline/media/books-95-percent-ai-chapter.jpg"
+      "id": "books-iflytek-ainote2-roadmap",
+      "type": "image",
+      "src": "pipeline/media/books-iflytek-ainote2-roadmap.jpg"
     }
   ]
 }

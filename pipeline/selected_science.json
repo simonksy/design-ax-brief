@@ -1,109 +1,95 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "section": "science",
   "count": 5,
   "selection_mode": "curator_auto",
-  "note": "User deferred (\"알아서\"). Dedup backstop re-applied by hand against sections.science in news_data.json: today (2026-08-10, 5 cards) + days 08-05, 08-06, 08-07, 08-08, 08-09 (25 cards) = 30 published science cards, all URLs and story cores checked. One candidate dropped as a content-level duplicate: Phys.org 'Sixteen AI-designed viruses' is the same Stanford/Arc Institute Science paper already published on 2026-08-08 as science-ai-designed-phage-genome (Scientific American, different outlet, same event) — backfilled with the next-best surviving candidate. Also passed over Tech Xplore/KIST A2SG spiking-NN (topically adjacent to the 08-09 KAIST memtransistor low-power on-device card and would have pushed Tech Xplore to 2 outlets), Phys.org typhoon wave-height PINN (weather-forecast adjacency to the 08-07 WeatherNext card, lower actionability), STAT and Psychology Today (both AI-in-healthcare commentary, third and fourth items of the same cluster), and The Quantum Insider barren-plateau piece (oldest in pool, 07-28). Diversity guard satisfied: 5 distinct outlets (MIT News, Tech Xplore, MIT Technology Review, Medical Xpress, EurekAlert/Wake Forest), max 1 per outlet, and a spread of subdomains (simulation/physics, cognition/HCI, research automation, mental health, clinical bio). All picks share the single `science` category, so each gets a distinct accent from the sources.json palette.",
+  "note": "User deferred; curator scored and picked. Dedup run against pipeline/news_data.json -> sections.science (today 2026-08-11 + days 2026-08-06..2026-08-10, 30 published cards). One candidate dropped as a cross-outlet duplicate: Universe Today 'The Telescope That Points Itself' = same Blanco 4m / DES deep-learning scheduler story already published 2026-08-10 as science-ai-telescope-scheduler (phys.org 2026-07-ai-driven-telescope-stargazing). Backfilled with the next-best surviving candidate. Diversity guard: 4 distinct outlets, max 2 from any one (Google Research x2, different topics and different publish dates -- not a content-hub duplicate). All 5 URLs distinct and never published before.",
   "picks": [
     {
       "rank": 1,
-      "title": "AI models simulate a wider range of real-world scenarios",
-      "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "source": "MIT News",
-      "published_iso": "2026-08-10T14:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-GeoPT-01-press.jpg",
-      "excerpt": "MIT's GeoPT is a pretraining method that gives simulation models a working feel for physics and geometry before task training. It generalizes to unseen scenarios like crash tests and aerodynamics while needing up to 60% less training data.",
+      "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
+      "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+      "source": "Google Research",
       "tool": "Science",
       "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Freshest, most concrete result in the pool: pretraining a simulator on geometry and physics first cuts training data by up to 60% and generalizes to crash and aero cases, which is exactly the bottleneck that keeps AI simulation out of everyday product design."
+      "published_iso": "2026-08-11T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AMIE_Video-hero.png",
+      "excerpt": "Google Research extended AMIE to real-time video consultations that interpret what the patient shows on camera as well as what they say. In a randomized study with board-certified physicians, AMIE (Video) rated on par with primary care physicians on history-taking and diagnostic accuracy.",
+      "rationale": "Freshest, most concrete release in the pool: a randomized head-to-head against physicians moves multimodal clinical AI from demo to measured capability."
     },
     {
       "rank": 2,
-      "title": "AI model captures how humans read, paving the way for personalized text",
-      "url": "https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-08-10T09:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-reinforc.jpg",
-      "excerpt": "Aalto University trained a reinforcement-learning model of human reading whose attention decisions matched real eye-tracking data, published in Nature Human Behaviour. The team says it explains rather than mimics reading, opening the door to per-reader text layout and AR displays.",
+      "title": "OpenAI's latest math breakthroughs commit research misconduct, experts say",
+      "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
+      "source": "Scientific American",
       "tool": "Science",
       "category": "science",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A model that explains rather than imitates eye movement turns typography and layout into something you can simulate per reader — the most directly design-actionable science item of the week, and Nature Human Behaviour gives it weight."
+      "published_iso": "2026-08-06T00:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg",
+      "excerpt": "OpenAI's Astra model announced 10 mathematical advances, but mathematicians say the write-ups reuse existing results from 2016 and 2019 without adequate attribution. The dispute turns AI-for-science from a capability question into a credit-and-provenance question.",
+      "rationale": "New development, not a rehash of the earlier Erdos-problems coverage: the first credible misconduct allegation against an AI-authored result, which changes how AI output must be cited."
     },
     {
       "rank": 3,
-      "title": "AI agents for science: why reasoning beats more data",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-08-10T09:30:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg",
-      "excerpt": "The argument: AI for science has to move past data-hungry models like AlphaFold toward reasoning agents that use tools, revise as evidence arrives, and mirror how research actually proceeds. Agents drastically reduce the need for scarce, specialized scientific datasets.",
+      "title": "New AI model reveals the volume of the world's glaciers",
+      "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
+      "source": "Phys.org",
       "tool": "Science",
       "category": "science",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Names the shift the last two weeks of lab-automation stories have been circling — from scaling datasets to agents that reason with tools — and lands the day after DeepMind wound down the AlphaFold team, giving the argument unusual timing."
+      "published_iso": "2026-08-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
+      "excerpt": "Ca' Foscari University of Venice built IceBoost v2.0, a machine-learning model that maps global glacier ice volume from millions of thickness measurements. It puts Earth's glaciers at roughly 150,000 cubic kilometers of ice - 32.3 cm of sea-level rise if fully melted.",
+      "rationale": "A named, versioned model producing a hard planetary number - earth-science diversity plus the clearest single result in the pool."
     },
     {
       "rank": 4,
-      "title": "Q&A: AI chatbot use for mental health is surging among teens",
-      "url": "https://medicalxpress.com/news/2026-08-qa-ai-surging-mental-health.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-08-04T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/mental-health-ai.jpg",
-      "excerpt": "Harvard researchers report AI chatbot use for mental health among 12-21 year olds jumped from about 1 in 8 to nearly 1 in 5 in a single year. Most users tell neither parents nor clinicians, even though general-purpose chatbots are unvalidated for this use.",
+      "title": "Seven Needles, 800,000 Haystacks",
+      "url": "https://www.universetoday.com/articles/seven-needles-800000-haystacks",
+      "source": "Universe Today",
       "tool": "Science",
       "category": "science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "One in eight to nearly one in five teens in a single year, mostly hidden from parents and clinicians — a hard number showing general-purpose chatbots have already become de facto mental-health products without being designed or validated as such."
+      "published_iso": "2026-08-10T00:00:00Z",
+      "og_image": "https://www.universetoday.com/article_images/STScI-01EVTBBTD4EEZ767XD0SFYB84S.tif_20260810_230339.jpeg",
+      "excerpt": "An Ohio State team turned a neural network loose on 800,000 quasars and pulled out seven genuine gravitational lenses, roughly doubling the known sample. The lenses are the tool astronomers use to weigh supermassive black holes and their host galaxies.",
+      "rationale": "Astronomy spread, and a rare case where a model doubles an entire observational sample rather than shaving a benchmark."
     },
     {
       "rank": 5,
-      "title": "AI model detects three types of cardiac dysfunction from a standard ECG",
-      "url": "https://www.eurekalert.org/news-releases/1139241",
-      "source": "EurekAlert (Wake Forest University School of Medicine)",
-      "published_iso": "2026-08-04T13:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/36e731f1-06d8-497d-bfb2-f3a22e079103/Rendition/low-res/Content/Public",
-      "excerpt": "Wake Forest researchers trained an AI model that reads standard ECGs to detect three types of cardiac dysfunction, including heart failure with preserved ejection fraction that routine care often misses. It held up on single-lead data of the kind wearables capture.",
+      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+      "source": "Google Research",
       "tool": "Science",
       "category": "science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "The result that matters is the single-lead finding: it holds on the kind of trace a smartwatch already records, which moves an underdiagnosed heart-failure screen from the clinic onto the wrist."
+      "published_iso": "2026-07-30T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
+      "excerpt": "Google's Science One prototype attacks the hallucinated-citation problem in AI research agents by forcing every claim onto a traceable evidence chain. It reported zero phantom references while matching expert performance on benchmark research tasks.",
+      "rationale": "Directly answers the provenance problem raised by pick 2 - a shippable pattern (chain-of-evidence) anyone running a research agent can adopt tomorrow."
     }
   ],
   "dropped": [
     {
-      "url": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
-      "reason": "content dup — same Stanford/Arc Institute Science paper on 16 AI-designed bacteriophages already published 2026-08-08 as science-ai-designed-phage-genome (Scientific American)"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-08-neuromorphic-ai-technique-usher-era.html",
-      "reason": "not a dup, but topically adjacent to the 08-09 KAIST memtransistor low-power on-device card; also would have made Tech Xplore a 2-card outlet"
-    },
-    {
-      "url": "https://phys.org/news/2026-08-coupled-ai-physics-typhoon-height.html",
-      "reason": "AI weather forecasting already carried by the 08-07 DeepMind WeatherNext card; lower actionability, held back"
-    },
-    {
-      "url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/",
-      "reason": "third item of the same AI-in-healthcare commentary cluster; STAT already ran on 08-05 and 08-06 in this section"
-    },
-    {
-      "url": "https://www.psychologytoday.com/us/blog/the-architecture-of-identity/202608/a-clinicians-field-guide-to-vetting-ai-mental-health-tools",
-      "reason": "same mental-health-AI topic as the Medical Xpress teen chatbot pick, narrower clinician-only audience"
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html",
-      "reason": "would have made Medical Xpress a 2-card outlet inside an already mind-cognition-heavy pool"
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/07/28/quantum-machine-learning-design-targets-training-and-scaling-barriers/",
-      "reason": "oldest item in the pool (07-28) and narrow; The Quantum Insider already ran on 08-06 and 08-10"
+      "url": "https://www.universetoday.com/articles/the-telescope-that-points-itself",
+      "reason": "duplicate-content: same AI scheduler for the Blanco 4m / DECam already published 2026-08-10 (science-ai-telescope-scheduler, phys.org)"
     }
+  ],
+  "considered_not_selected": [
+    "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/ (opinion/interview, overlaps pick 2's math theme; outlet cap)",
+    "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ (strong but explainer-style, lowest actionability)",
+    "https://physicsworld.com/a/ai-sniffs-out-tuberculosis-in-breaths-chemical-signature/ (good, but a second clinical-diagnostics card alongside AMIE)",
+    "https://allenai.org/blog/tutormoments (no og_image; narrower audience)",
+    "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/ (discourse rather than new result)",
+    "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/ (op-ed)",
+    "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html (solid, but phys.org outlet cap after pick 3)",
+    "https://phys.org/news/2026-08-ai-method-reveals-hidden-patterns.html (narrow, single-estuary result)"
   ]
 }
