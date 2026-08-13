@@ -1,33 +1,32 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "movies",
   "media": [
     {
-      "id": "movies-impossible-objects-zgx-nano",
-      "type": "image",
-      "src": "pipeline/media/movies-impossible-objects-zgx-nano.jpg"
-    },
-    {
-      "id": "movies-nura-rainbow-hollow",
+      "id": "movies-cascadeur-2026-2",
       "type": "video",
-      "src": "pipeline/media/movies-nura-rainbow-hollow.mp4",
-      "poster": "pipeline/media/movies-nura-rainbow-hollow.jpg"
+      "src": "pipeline/media/movies-cascadeur-2026-2.mp4",
+      "poster": "pipeline/media/movies-cascadeur-2026-2.jpg"
     },
     {
-      "id": "movies-vida-scene-search",
+      "id": "movies-seedance-25-blocking",
       "type": "image",
-      "src": "pipeline/media/movies-vida-scene-search.jpg"
+      "src": "pipeline/media/movies-seedance-25-blocking.png"
     },
     {
-      "id": "movies-doc-opt-out-ai-clinic",
+      "id": "movies-billy-joel-ai-doc",
       "type": "image",
-      "src": "pipeline/media/movies-doc-opt-out-ai-clinic.jpg"
+      "src": "pipeline/media/movies-billy-joel-ai-doc.jpg"
     },
     {
-      "id": "movies-peacock-public-eye",
-      "type": "video",
-      "src": "pipeline/media/movies-peacock-public-eye.mp4",
-      "poster": "pipeline/media/movies-peacock-public-eye.jpg"
+      "id": "movies-castle-walls-prime",
+      "type": "image",
+      "src": "pipeline/media/movies-castle-walls-prime.jpg"
+    },
+    {
+      "id": "movies-rocxzoom-kickstarter",
+      "type": "image",
+      "src": "pipeline/media/movies-rocxzoom-kickstarter.jpg"
     }
   ]
 }

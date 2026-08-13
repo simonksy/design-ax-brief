@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "music",
   "cards": [
     {
-      "id": "music-daddario-ai-admission",
+      "id": "music-suno-studio-2",
       "eyebrow": "AI NEWS",
-      "headline": "AI 아니라던 D'Addario\n데모 영상에 Suno Studio를 썼다",
-      "body": "부인하던 D'Addario가 데모 영상에 Suno Studio를 썼다고 인정했다.",
-      "mini_headline": "AI 사용, 결국 인정",
+      "headline": "Suno Studio 2.0은 이제\nDAW와 대화하며 곡을 만든다",
+      "body": "Suno Studio 2.0에 대화형 AI 조수와 MIDI 편집이 들어갔다.",
+      "mini_headline": "DAW가 된 Suno",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/guitars/daddario-admits-ai-used-instring-demo-video",
+      "source": "MusicTech",
+      "url": "https://musictech.com/news/gear/suno-studio-2-0-upgrade-new-features/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -18,107 +18,99 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/z9H4sYWjQE42gw9xW8iKRi.jpg",
-            "cap": "D'Addario — 논란이 된 NYXL HD 데모 영상의 주인공"
+            "src": "https://musictech.com/wp-content/uploads/2026/08/suno-studio-2@2000x1500.jpg",
+            "cap": "Suno Studio 2.0 — 트립합 비트를 요청하는 채팅 바가 보인다"
           },
           {
             "t": "p",
-            "x": "D'Addario가 NYXL HD 확장 음역 일렉트릭 기타 줄 데모 영상에 생성형 AI를 썼다고 인정했다. 뉴욕에 자리 잡은 이 줄·액세서리 브랜드는 Suno Studio로 원래 트랙을 다시 만들었다고 확인했다."
+            "x": "Suno가 자사 DAW인 Suno Studio를 2.0으로 올렸다. 고급 스템 분리와 MIDI 도구가 들어갔고 DAW 자체와 대화하는 기능까지 붙었다."
           },
           {
             "t": "p",
-            "x": "인스타그램 성명은 이렇게 시작한다. \"We got this wrong. We've completed a full review and confirmed that Suno Studio was used to regenerate the original track. We shared inaccurate information, and we're truly sorry.\" 우리가 틀렸고, 전면 검토를 마쳤고, 잘못된 정보를 공유해 정말 미안하다는 말이다."
+            "x": "Suno Studio는 2025년에 나왔다. Suno가 악명을 얻은 생성형 AI 기술에 DAW의 일반적인 기능을 얹은 물건이다. MusicTech는 올해 초 이 플랫폼을 리뷰하며 10점 만점에 6점을 줬다."
           },
           {
             "t": "p",
-            "x": "그전까지 회사는 AI를 쓰지 않았다고 부인했다. DAW 스템 파일을 보여주는 영상까지 냈다. 그 주장을 파고든 쪽은 유튜버였다. Danny Sapko가 먼저 의문을 던졌고, 무겁게 가공된 프로그레시브 메탈 연주 데모를 두고 검증이 번졌다. Rhett Shull은 스템 파일을 직접 확보해 논란을 더 들여다봤다."
-          },
-          {
-            "t": "video",
-            "yt": "22iRLD7yvsw"
+            "x": "가장 Suno다운 변화부터. Studio 2.0에서는 DAW와 \"like you would any other collaborator\", 다른 협업자를 대하듯 채팅한다. 'Chat'에 악기와 보컬을 처음부터 만들어 달라고 하거나 새 플러그인을 함께 설계하거나 세션을 정리해 달라고 시킬 수 있다."
           },
           {
             "t": "p",
-            "x": "Yvette Young과 Mike Dawes 같은 D'Addario 아티스트는 처음엔 브랜드를 감쌌다. 그러다 회사가 비판 댓글을 지우고 직원 한 명이 신상 노출을 당했다고 주장하면서 불이 커졌다."
+            "x": "Suno는 Chat이 음악 제작을 이해한다고 설명한다. \"like you would any other member of the band\" — 밴드의 다른 멤버에게 말을 걸듯 하면 된다. 출시 시점에 새 플러그인 제작은 크레딧을 쓰지 않는다. 다만 \"though a credit structure may be introduced in the future\"라며 나중에 크레딧 체계가 생길 수 있다고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "성명에서 D'Addario는 댓글 관리도 잘못했다고 했다. \"Honest criticism should not be erased.\" 정직한 비판을 지워서는 안 된다는 것이다. 협박과 괴롭힘, 사생활 노출로부터 사람을 지키면서도 의견은 들리게끔 채널 운영 방식을 바꾸겠다고 덧붙였다."
+            "x": "요청이 많던 기능도 왔다. Studio 2.0 사용자는 타임라인에서 MIDI를 직접 불러오고 녹음하고 편집한다. 새 웨이브테이블 신스로 소리를 직접 만들 수도 있다. MIDI 클립은 새 오디오 생성의 프롬프트로도 쓰인다. MIDI 컨트롤러가 없다면 타자 키보드로 음을 친다."
           },
           {
             "t": "p",
-            "x": "정책도 새로 걸었다. \"We do not support AI-generated music, and our process will reflect that going forward.\" 직원과 창작 파트너는 앞으로 콘텐츠에 생성형 AI를 썼는지 반드시 밝혀야 하고, 회사가 그 내용을 꼼꼼히 들여다본다."
+            "x": "스템 분리 도구도 최신판으로 갈았다. Suno는 \"amazing audio fidelity\"라고 표현했다. 트랙과 플러그인 파라미터에 오토메이션 커브를 그려 시간에 따라 바꾸는 것도 이번이 처음이다. Premier 구독자는 멀티트랙과 스템을 제한 없이 내보낸다."
           },
           {
             "t": "p",
-            "x": "마무리는 이랬다. 성명 하나로 수습되지 않는다는 걸 안다, D'Addario는 뮤지션이 자기 소리를 우리 제품에 맡겨준 덕에 존재한다, 이 커뮤니티를 대하는 방식에서도 같은 신뢰를 얻겠다."
+            "x": "Suno Studio 2.0은 Premier 사용자에게 지금 열려 있다. Premier 구독료는 월 18파운드다."
           }
         ]
       }
     },
     {
-      "id": "music-omni-rust-daw",
+      "id": "music-beatport-ai-ban",
       "eyebrow": "AI NEWS",
-      "headline": "AI 샘플 생성을 코어에 넣은\n무료 Rust DAW, OMNi 알파",
-      "body": "샘플 생성을 플러그인이 아니라 코어에 넣은 무료 Rust DAW가 알파로 나왔다.",
-      "mini_headline": "코어에 들어온 샘플 생성",
+      "headline": "Beatport, AI가 다 만든 곡은\n스토어에서 아예 받지 않는다",
+      "body": "Beatport는 AI가 전부 또는 대부분 만든 곡을 스토어에서 거부한다.",
+      "mini_headline": "AI 완성곡은 판매 불가",
       "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/08/03/omni-alpha-daw/",
+      "source": "DJ Mag",
+      "url": "https://djmag.com/news/beatport-banning-fully-ai-generated-tracks",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/TomaszGluc-OMNi-728x364.jpg",
-            "cap": "OMNi alpha v0.1 — 전부 Rust로 짠 무료 DAW"
+            "src": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-08/Beatport-AI-Detection.jpg.webp",
+            "cap": "Beatport와 Beatdapp — AI 판별을 위한 파트너십"
           },
           {
             "t": "p",
-            "x": "개발자 Tomasz Głuc가 만든 무료 DAW OMNi가 알파 v0.1로 나왔다. 전부 Rust로 짠 유일한 DAW이고, 성능과 안정성을 앞세운다. 느린 백그라운드 작업이 실시간 오디오 스레드를 붙잡지 못하게 하는 락프리 구조가 그 바탕이다."
+            "x": "Beatport가 전부 또는 대부분 AI로 만든 곡을 막겠다고 발표했다. AI의 도움을 받아 만든 곡에는 그 사실을 태그로 달아 투명성을 높인다."
           },
           {
             "t": "p",
-            "x": "AI 샘플 생성과 이미지-사운드 합성을 코어에 품은 첫 DAW이기도 하다. 프롬프트를 적고 길이와 프롬프트 영향도, 루프 여부만 정한 뒤 Create를 누르면 샘플이 나온다. 생성은 ElevenLabs가 돌린다. 이미지에서 소리를 뽑는 스펙트럴 신스 Iris는 Gemini 2.5 Flash를 쓴다."
-          },
-          {
-            "t": "video",
-            "yt": "ZETNTQjv40I"
+            "x": "이번 결정은 사기 탐지 전문 업체 Beatdapp과의 파트너십 확대에 뒤따랐다. 자동 생성 음악과 생성형 음악을 더 효율적으로 가려내려고 기술과 시스템, 절차를 손봤다. 앞으로 전부 또는 대부분 AI로 만든 곡은 반려되고 권리자에게 직접 통보된다."
           },
           {
             "t": "p",
-            "x": "Bedroom Producers Blog는 vibe-coded라는 말이 OMNi를 따라다닌다며 개발자에게 AI 사용 여부를 물었다. 돌아온 답은 그 얘기는 하고 싶지 않다는 것이었다. 다만 Rust 27만 줄이 넘는 코드베이스이니 게인 슬라이더 하나와 같은 취급을 할 일은 아니라고 매체는 덧붙였다."
+            "x": "Beatport 정책 페이지의 설명은 이렇다. \"Music created with AI assistance will still be accepted, provided the finished track remains majority human-made.\" 완성된 곡이 사람 손으로 대부분 만들어졌다면 AI 보조 제작은 계속 받는다는 말이다. \"These releases will be tagged during ingestion, giving Beatport's curation team a clearer picture of what it is reviewing and featuring.\" 등록 단계에서 태그가 붙으면 큐레이션 팀은 무엇을 검토하고 소개하는지 더 또렷하게 본다."
           },
           {
             "t": "p",
-            "x": "화면은 둘로 갈린다. 익숙한 선형 타임라인인 Arrangement View, 그리고 Ableton의 세션 뷰와 크게 다르지 않은 클립 런처 Session View다. 전용 믹서 창은 아직 없다. Track FX는 드래그앤드롭으로 체인을 짠다."
+            "x": "Beatport는 이 결정이 커뮤니티의 생각을 반영한다고 했다. 그 상당수가 DJ다. 최근 설문에서 60%는 AI로 만든 곡을 틀지 않겠다고 답했고 77%는 \"a firm preference for supporting human creators\", 사람 창작자를 지지하겠다는 뜻을 분명히 밝혔다. AI 음악을 틀 수 있다는 응답은 8%였고 아티스트와 레이블에 정당한 보상이 간다면 고려하겠다는 응답이 13% 더 있었다."
           },
           {
             "t": "p",
-            "x": "신스는 열넷이다. 물리 모델링 어쿠스틱 악기가 들어 있고 TOMiC Drum Synth, Bass Synth, PolySynth, Alchemy, Iris, Scratch Deck이 함께 실렸다. PolySynth 하나만 봐도 16보이스 폴리포니에 8보이스 유니즌, 오실레이터 파형 31종, 필터·디스토션 모델 10종, JUNO식 코러스, 자동화 가능한 파라미터 140개가 넘는다."
+            "x": "Beatport CEO Matt Gralen의 말이다. \"Beatport exists to serve DJs and empower artists & labels. This means partnering with our community and providing confidence in what our platform offers.\" 그는 새로운 제작 기법이 처음부터 일렉트로닉 음악을 밀어 올렸지만 사람의 창작을 돕는 도구와 그것을 통째로 대체하는 시스템은 다르다고 했다. Beatport는 전자 위에 서 있다고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "내장 FX 플러그인은 열여섯 개다. f64 정밀 EQ와 FIR 트루피크 리미터, 컨볼루션 리버브, 그래뉼러 클라우즈 같은 것이 들어 있다. 모듈레이션 소스 열다섯, 트랙별 16스텝 시퀀서, MIDI FX와 제너레이터 열아홉도 붙는다. 유클리드 리듬을 짜는 Bjorkland 알고리즘도 네이티브로 있다."
+            "x": "Beatdapp 공동 창업자이자 공동 CEO인 Andrew Batey는 이번 협력이 \"bring greater transparency to generative AI while protecting human creativity\", 사람의 창작을 지키면서 생성형 AI에 더 큰 투명성을 가져온다고 했다."
           },
           {
             "t": "p",
-            "x": "지금은 Windows와 Linux용 스탠드얼론이다. macOS 소식은 아직 없다. 최근 업데이트로 CLAP, VST3에 더해 LV2 플러그인을 지원한다. 알파인 만큼 버그는 각오해야 한다. 내려받기는 omnidaw.com이고, 값은 없다."
+            "x": "지난달 파리에 자리 잡은 스트리밍 대기업 Deezer는 하루 업로드의 약 50%, 9만 곡이 AI로 만들어진 것이라고 확인했다. 8월 초에는 Spotify가 AI 아티스트 프로필에 'AI persona' 배지를 붙이겠다고 발표했다. 6월에는 미국 매체 The Atlantic이 AI 개발사들이 저작권 있는 음원 2100만 곡가량을 생성 모델에 썼다는 조사를 내놨다."
           }
         ]
       }
     },
     {
-      "id": "music-suno-vinyl",
+      "id": "music-spotify-ai-persona",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 만든 곡을 12인치에\n46분까지 눌러 담아준다",
-      "body": "Suno 라이브러리의 곡을 골라 최대 46분짜리 12인치 레코드로 눌러준다.",
-      "mini_headline": "12인치로 나온 AI 음악",
+      "headline": "Spotify, AI 아티스트에\n'AI Persona' 라벨을 붙인다",
+      "body": "9월 중순부터 AI Persona 프로필은 추천에서 빠지지만 정산은 그대로다.",
+      "mini_headline": "추천에서 빠지는 AI",
       "tool": "Music",
-      "source": "DJ Mag",
-      "url": "https://djmag.com/news/suno-announces-vinyl-pressing-service-ai-generated-music",
+      "source": "gearnews",
+      "url": "https://www.gearnews.com/ai-persona-spotify-labels-ai-tech/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -126,49 +118,49 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-08/Suno.jpg.webp",
-            "cap": "Suno Vinyl — 프롬프트로 만든 곡이 실물 레코드로 나온다"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Spotify-AI-Persona-01-1024x565.jpg",
+            "cap": "Spotify AI Persona · 출처: Spotify"
           },
           {
             "t": "p",
-            "x": "Suno가 생성형 AI 플랫폼에서 만든 음악을 실물 레코드로 눌러주는 서비스를 내놓는다. Suno Vinyl은 라이브러리에서 트랙을 골라 한 장으로 묶는 방식이고, 12인치 한 장에 오디오 46분까지 담긴다."
+            "x": "Spotify가 실제 사람을 대신하지 않는 아티스트 프로필에 붙일 새 태그, AI Persona 라벨을 내놓는다. 2026년 9월 중순부터 해당 프로필은 배너와 검색, 플레이리스트 안 트랙에 표시된다. 동시에 Spotify는 이 프로필들을 에디토리얼 추천과 알고리즘 추천에서 기본으로 뺀다."
           },
           {
             "t": "p",
-            "x": "커버와 슬리브, 레이블은 직접 만든 아트워크를 올리거나 Suno로 뽑아 쓴다. 다 고르고 나면 판을 눌러 집으로 보내준다."
+            "x": "Spotify는 청취자 의견이 분명했다고 말한다. 프로필 뒤에 실제 사람이 있는지, AI가 만든 페르소나가 있는지 알고 싶다는 쪽이었다. 이제 아티스트와 소속 팀은 자기 프로필이 AI Persona인지 직접 신고한다. Spotify도 사실적인 AI 생성 이미지를 쓰는 프로필을 포함해 적극적으로 들여다본다. 몇 달 안에 청취자가 라벨 없는 AI Persona로 의심되는 프로필을 신고하는 기능도 열린다. 최종 판단은 Spotify가 한다."
           },
           {
             "t": "p",
-            "x": "값은 배송비 별도 45달러로 잡혔다. 재질은 12인치 검정 PETG인데, Suno는 친환경 소재라고 설명한다. 서비스는 아직 coming soon 상태이고, 첫 프레싱 물량은 대기자 명단에 이름을 올린 이용자 몫이다."
+            "x": "시점은 우연이 아니다. 이 플랫폼은 몇 달째 AI로 만든 콘텐츠에 잠겼다. 4월에는 진짜 아티스트 프로필을 표시하는 'Verified by Spotify'를 이미 내놨다. AI Persona 라벨은 'Artist Identity & Trust'라는 더 큰 계획의 일부다. 여기에는 SongDNA와 AI 송 크레딧도 들어간다. 아티스트가 음악을 만들 때 AI를 어떻게 썼는지 밝히는 장치다."
           },
           {
             "t": "p",
-            "x": "출시 시점의 사정은 편치 않다. 학습 방식과 저작권 자료 이용을 둘러싼 분쟁이 이어지는 중이고, 이달 초 독일에서는 저작권 있는 녹음을 모델 개발에 쓴 문제로 판결에서 졌다."
+            "x": "정작 중요한 대목은 라벨이 아니라 거기 붙은 결과다. AI Persona 프로필의 음악은 에디토리얼 추천에도 개인화 추천에도 기본으로 뜨지 않는다. 음악 발견이 사실상 알고리즘 플레이리스트로 돌아가는 플랫폼에서 이건 도달 차단에 가깝다. Spotify는 공식적으로 라벨일 뿐이라고 말하지만."
           },
           {
             "t": "p",
-            "x": "지난달에는 해킹을 계기로 Suno가 YouTube와 Deezer, Genius에서 곡 데이터를 긁어 왔다는 사실이 드러났다. 2025년 11월에는 이 회사가 2주마다 Spotify 전체 카탈로그에 맞먹는 분량을 찍어낸다는 보도가 나왔다."
+            "x": "다만 정산은 그대로다. AI Persona 트랙의 로열티는 평소처럼 지급된다. Spotify가 겨눈 쪽은 돈이 아니라 노출이다. 7월 TIDAL은 반대로 갔다. AI 트랙을 카탈로그에 남기되 로열티와 직접 판매에서는 완전히 끊었다."
           },
           {
             "t": "p",
-            "x": "2025년 초에는 Mikey Shulman 대표의 인터뷰 발언이 도마에 올랐다. 대부분의 뮤지션이 음악 만들기를 즐기지 않는다며 \"it's not really enjoyable to make music now [..] It takes a lot of time, it takes a lot of practice\"라고 했다."
+            "x": "7월에는 IFPI와 RIAA 같은 주요 업계 단체가 'AI-Generated'와 'AI-Assisted' 두 가지 자율 라벨에 합의했다. 큰 스트리밍 플랫폼은 참여하지 않았다. 당시 미지근했던 Spotify는 결이 다른 길을 골랐다. 업계 단체가 녹음물에 AI가 얼마나 들어갔는지를 표시한다면, Spotify의 AI Persona 라벨은 프로필 뒤에 사람이 있는지를 묻는다."
           },
           {
             "t": "p",
-            "x": "플랫폼 쪽 대응은 이미 갈렸다. 올해 들어 Deezer와 Apple Music은 AI 음악 수익화를 막거나 표시 태그를 달았고, Bandcamp는 아예 금지했다."
+            "x": "라벨이 실제로 AI 페르소나가 진짜 아티스트를 밀어내는 흐름을 막을지, 아니면 요령 있는 운영자들이 빠져나갈 길을 찾을지는 9월 중순 시행 뒤에야 드러난다."
           }
         ]
       }
     },
     {
-      "id": "music-push-hack",
+      "id": "music-tonex-2-player",
       "eyebrow": "AI NEWS",
-      "headline": "닫힌 Push 3를 열어젖힌\nAI 코딩 에이전트의 해킹",
-      "body": "AI 코딩 에이전트로 만든 해킹이 Push 3의 디스플레이와 MIDI를 열어준다.",
-      "mini_headline": "Push 3를 여는 해킹",
+      "headline": "Tonex 2.0 Player, 뉴럴 톤\n220개를 들고 다시 나왔다",
+      "body": "Tonex 2.0 Player 베타가 새 뉴럴 톤 모델 220개를 들고 나왔다.",
+      "mini_headline": "새 뉴럴 톤 220개",
       "tool": "Music",
-      "source": "CDM Create Digital Music",
-      "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/guitars/ik-multimedia-tonex-2-player",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -176,59 +168,61 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/08/Push-Hack-Installation.png",
-            "cap": "Push Hack 설치 화면"
+            "src": "https://cdn.mos.cms.futurecdn.net/4VDagEqs99EEaZkfKzZ2BT.jpg",
+            "cap": "IK Multimedia Tonex 생태계 구성도"
           },
           {
             "t": "p",
-            "x": "Peter Kirn의 글은 경고로 시작한다. \"If you don't like unauthorized hacking, this isn't for you. If you don't like things built with AI-assisted coding agents, this isn't for you.\" 무단 해킹이 싫어도, AI 코딩 에이전트로 만든 물건이 싫어도 이건 당신 것이 아니다. 그래도 Push 3의 디스플레이와 드라이브, MIDI를 통째로 넘겨받고 싶다면 Federico Pepe가 막 공개한 Push Hack이 있다."
+            "x": "IK Multimedia가 Tonex Player를 위에서 아래까지 새로 손봤다. \"photorealistic\" 장비 선택 화면과 정리된 작업 흐름이 들어갔고 공개 베타에는 새 Premium Tone Model 220개가 함께 왔다."
           },
           {
             "t": "p",
-            "x": "작동 방식은 단순하다. Push 3 스탠드얼론 밑에 깔린 리눅스에 SSH로 붙어 모듈 형태의 개조를 얹는다."
+            "x": "Tonex 2.0 Player는 IK Multimedia의 일렉트릭 기타·베이스 톤 생태계에서 창작 허브에 가깝다. Tone Model과 편집본, 프리셋, 캡처를 관리하고 새 소리를 찾는 곳이 한 군데로 모였다."
           },
           {
             "t": "p",
-            "x": "Pepe는 공인 Ableton 트레이너이자 브랜드 매니저다. Flappy Bird와 Doom을 Ableton Live의 Extensions 안에서 돌아가게 만든 사람으로 먼저 알려졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/08/pushmidimonitordisplay.jpg",
-            "cap": "MIDI 모니터를 Push 3 디스플레이에 띄운 화면"
+            "x": "만든 소리는 Tonex 하드웨어 기기 전체에서 그대로 쓴다."
           },
           {
             "t": "p",
-            "x": "지금 나온 모듈은 여섯이다. Move Manager를 닮은 파일·프로젝트 관리 도구 Push Manager, USB-A 포트를 쓰는 USB 드라이브 지원, 이미지와 영상을 올릴 수 있는 디스플레이 완전 장악, 모든 패드와 파라미터를 양방향으로 다루고 가로채는 MIDI takeover, 리버스 엔지니어링으로 뜯어낸 LED 색과 애니메이션 제어, CPU와 메모리·디스크·네트워크를 보여주는 시스템 모니터링."
+            "x": "IK Multimedia가 Tonex 생태계가 자란다고 말할 때 그건 과장이 아니다. Tonex 2.0 Player가 여러 하드웨어 한가운데 앉은 구성도는 날마다 더 복잡해진다."
           },
           {
             "t": "p",
-            "x": "MIDI 쪽은 Pepe의 설명이 명확하다. \"With the 'Intercept' mode enabled, messages from Push are read but not forwarded to Push's software, so you can use buttons, knobs, etc to control things without triggering anything on the main software.\" 인터셉트를 켜면 Push가 보낸 메시지를 읽되 본체 소프트웨어로는 넘기지 않는다. 버튼과 노브로 다른 것을 조작해도 원래 화면에서는 아무 일도 일어나지 않는다."
+            "x": "Tonex 2.0 Player는 기타 플러그인으로도 DAW용 독립 실행 앱으로도 돌아간다. 켜자마자 홈 화면이 달라진 게 보인다. 장비와 시그널 체인, 라이브러리가 모두 여기서 열린다."
+          },
+          {
+            "t": "video",
+            "yt": "pbYaZjeKkBQ"
           },
           {
             "t": "p",
-            "x": "그 위에 Shadow UI 레이어가 얹혀 기본 인터페이스 바깥의 동작을 연다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/08/hackpushcolors.jpg",
-            "cap": "LED 색과 애니메이션까지 손에 들어온다"
+            "x": "IK Multimedia는 \"It's faster to find the sound you want, easier to shape it, and more rewarding to explore\"라고 설명한다. 원하는 소리를 더 빨리 찾고 더 쉽게 다듬고 더 즐겁게 뒤진다는 말이다."
           },
           {
             "t": "p",
-            "x": "Kirn은 이런 리버스 엔지니어링이야말로 머신러닝이 잘하는 일이라고 짚었다. 그러면서 Ableton이 이 가능성을 공식으로 받아안을 여지를 이야기하고, 자기가 산 기기를 손보게 해줄 API를 제조사가 직접 내놓아야 한다고 봤다."
+            "x": "앰프 모델을 훑는 화면이 보기 좋아졌다. ToneNET 커뮤니티와의 연결도 촘촘해져서 새 Smart Search로 사용자가 만든 Tone Model과 시그널 체인 프리셋을 찾기 쉬워졌다. 크기를 바꿀 수 있는 전용 플로팅 브라우저가 앰프와 이펙트, Tonex 컬렉션 사이를 오간다."
+          },
+          {
+            "t": "p",
+            "x": "이 대목이 Tonex 모델의 핵심이다. Tonex 제품군은 소프트웨어와 하드웨어를 가리지 않고 IK Multimedia의 Amplitube 5 플랫폼까지 완전히 맞물리게 설계됐다. 이번 개편이 내세우는 것도 캡처에서 스튜디오, 리허설, 무대까지 이어지는 하나의 작업 흐름이다."
+          },
+          {
+            "t": "p",
+            "x": "Tonex 2.0 Player는 지금 공개 베타로 열려 있다. 곧 모든 Tonex 사용자에게 무료 업데이트로 풀린다."
           }
         ]
       }
     },
     {
-      "id": "music-soundid-cpop-voices",
+      "id": "music-ia-de-esser",
       "eyebrow": "AI NEWS",
-      "headline": "동의와 보상을 거친 목소리\nSoundID에 들어온 C-Pop 10종",
-      "body": "Sonarworks가 동의와 보상을 거친 중국어 보컬 모델 10종을 내놨다.",
-      "mini_headline": "C-Pop 목소리 10종",
+      "headline": "Immanent Audio의 무료 디에서\nAI는 쓰되 모르는 코드는 안 넣는다",
+      "body": "무료 IA De-Esser 개발자는 AI로 속도를 내되 모르는 코드는 안 넣는다.",
+      "mini_headline": "AI가 도운 무료 디에서",
       "tool": "Music",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/sonarworks-expand-soundid-voiceai-library",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/08/13/immanent-audio-ia-de-esser/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -236,28 +230,40 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
-            "cap": "SoundID VoiceAI C-Pop Voices Expansion Pack"
+            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/ia-deesser-728x364.jpg",
+            "cap": "IA De-Esser — 슬롯 네 개를 쓰는 무료 디에서"
           },
           {
             "t": "p",
-            "x": "Sonarworks가 SoundID VoiceAI에 중국어 보컬 모델 10종을 더했다. C-Pop Voices Expansion Pack이라는 이름이고, 남성 다섯과 여성 다섯으로 나뉜다. 만다린 팝과 광둥 팝, 그 언저리 장르를 겨냥해 학습했다."
+            "x": "Immanent Audio가 macOS와 윈도우용 무료 디에싱·공진 억제 플러그인 IA De-Esser를 내놨다."
           },
           {
             "t": "p",
-            "x": "쓰임새는 회사 설명에 그대로 나온다. \"ideal for sync and library work, as well as crafting guide tracks and demos where the vocalist you're imagining on the final version isn't in the room.\" 싱크와 라이브러리 작업, 그리고 최종본에 세울 보컬이 아직 스튜디오에 없을 때 가이드 트랙과 데모를 짜는 자리다."
+            "x": "IA De-Esser는 접근이 조금 다르다. 모듈 하나 대신 필터 슬롯 네 개로 치찰음과 거친 소리, 튀는 공진을 잡는다. 슬롯마다 치찰음에 자동으로 반응하는 De-Ess 모드로 쓰거나 더 넓은 범위의 거친 소리를 다루는 모드로 쓴다."
           },
           {
             "t": "p",
-            "x": "윤리 쪽 입장도 함께 냈다. \"At Sonarworks, we believe AI should empower creativity — not replace it.\" 모든 목소리는 명시적으로 동의하고 정당한 대가를 받은 전문 가수와 함께 만들었다고 밝혔다."
+            "x": "괜찮은 발상이다. 모듈마다 거친 기운을 조금씩 덜어내면 디에서 하나를 세게 밀어붙일 때보다 결과가 자연스럽다."
           },
           {
             "t": "p",
-            "x": "Principles for Music Creation with AI를 지지하는 대열에도 합류했다. 투명성과 창작자 권리 존중, 기술이 뒤에 선 사람을 지키면서 인간의 창의를 키워야 한다는 믿음이 골자다."
+            "x": "Auto 모드에서는 Low-Cut과 Hi-Cut 범위만 정해 주면 플러그인이 적당하다고 판단한 depth와 Q 값을 고른다. Smart 모드는 한 발 더 나가서 스펙트럼을 훑고 손이 필요한 지점으로 활성 슬롯을 보낸다."
           },
           {
             "t": "p",
-            "x": "동작 환경은 Windows 10 이상과 macOS 11 이상이고, VST3와 AU, AAX로 붙는다. 확장 팩은 29달러에 바로 살 수 있다."
+            "x": "목표는 걷어내고 싶은 거친 부분만 깎는 데 있다. 보컬이나 악기 전체가 디에싱 특유의 먹먹한 소리로 주저앉지 않게 한다. 화면에는 attack, release, depth, Q가 실시간으로 표시돼 플러그인이 무슨 일을 하는지 읽힌다."
+          },
+          {
+            "t": "p",
+            "x": "DAW 레이턴시는 늘어나지 않는다. 트래킹처럼 지연이 곤란한 상황에서도 그냥 걸어 둔다."
+          },
+          {
+            "t": "p",
+            "x": "요즘 AI를 쓴 오디오 도구가 부쩍 늘어난 터라 Immanent Audio에 이 플러그인도 AI로 개발했는지 물었다. 개발자 Jay는 \"AI was used to speed up the process\"라며 개발 속도를 올리는 데 AI를 썼다고 확인했다. 다만 본업이 소프트웨어 엔지니어인 만큼 자기가 이해하지 못하는 코드는 내보내지 않는다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "IA De-Esser는 Gumroad에서 무료로 받는다. macOS와 윈도우의 VST3, AU 포맷을 지원한다."
           }
         ]
       }

@@ -1,192 +1,144 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "design",
   "window_hours": 72,
-  "now_iso": "2026-08-11T22:00:00Z",
+  "now_iso": "2026-08-13T22:00:26Z",
   "items": [
     {
-      "url": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
+      "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
       "source": "Figma",
       "category": "figma",
-      "published_iso": "2026-08-11T19:59:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/3218bd5e6e7613b2b9bb371852fa16e0060ea390-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's Data Science team assumed AI saves users time, but quantifying it required a new approach to research design. The post details the methodology behind measuring real time savings from Figma Make."
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/71558fc0ae54ae69b156a69dd9b5751f821b1834-1536x2048.png?w=1632&h=2176&q=75&fit=max&auto=format",
+      "excerpt": "Figma now lets designers author custom Skills for the Figma agent directly inside the product, and publish them to the Community. The post highlights ten featured skills spanning visual effects, design documentation and usability-testing workflows."
     },
     {
-      "url": "https://dev.to/romantsisyk/claude-code-figma-a-deterministic-design-handoff-pipeline-lk3",
-      "source": "DEV Community",
+      "url": "https://blog.logrocket.com/ux-design/ai-ui-placement/",
+      "source": "LogRocket Blog",
       "category": "figma",
-      "published_iso": "2026-08-10T15:47:36Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F03ba5rb6rp53r69797er.png",
-      "excerpt": "Screenshot prompting has a ceiling: paste a design and the model makes a plausible approximation. The author builds a deterministic Figma-to-Claude Code handoff pipeline that feeds structured design data instead of pixels."
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/08/Where-should-AI-go-in-your-UI-A-UX-guide-to-AI-feature-placement.jpg",
+      "excerpt": "A UX guide to where AI features should physically live in an interface — sidebar, inline, modal or command bar — arguing that placement shapes whether users ever perceive or adopt the AI at all. It offers a framework for balancing discoverability against workflow interruption."
     },
     {
-      "url": "https://www.creativebloq.com/art/digital-art/what-does-the-sale-of-artstation-and-sketchfab-mean-for-digital-artists",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-08-11T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc-1280-80.webp",
-      "excerpt": "ArtStation and Sketchfab have been sold, creating an integrated ecosystem spanning the whole creative process. Creative Bloq weighs what the merger means for digital artists' portfolios, licensing and AI exposure."
-    },
-    {
-      "url": "https://dev.to/horizonxso/design-systems-are-the-missing-memory-layer-for-ai-assisted-frontend-teams-2mk2",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-08-10T16:30:46Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr2t9hmq3s1qkx6sgxvwt.png",
-      "excerpt": "AI coding tools are excellent at answering the current request but forget everything else. The piece argues the design system — tokens, component contracts — is the persistent memory layer AI-assisted frontend teams are missing."
-    },
-    {
-      "url": "https://www.smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "published_iso": "2026-08-11T10:00:00Z",
-      "og_image": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
-      "excerpt": "When building a highly interactive, tactile web experience, the architecture must serve the art direction. Alexey Kopytin explains the architectural rationale behind a digital stress-relief squeeze toy built with Lottie, DOM events and distance-based logic."
-    },
-    {
-      "url": "https://dev.to/renato_marinho/the-ai-design-fingerprint-why-every-agent-generated-frontend-looks-identical-and-how-to-break-4kii",
-      "source": "DEV Community",
-      "category": "workflow",
-      "published_iso": "2026-08-09T05:59:14Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxc5fd5qn1s08ecqyqhdn.png",
-      "excerpt": "Every agent-generated frontend looks the same. The author names the 'AI Design Fingerprint' and shows how to break it by forcing intentional design decisions through structured reasoning instead of default prompting."
-    },
-    {
-      "url": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-08-11T21:06:50Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*OqN6WHj4b9TASM80Mu7__g.png",
-      "excerpt": "A design-lens reading of Star Wars' droids as a model for AI interaction: character, constraint and legibility over chat boxes. UX Collective uses the fiction to argue for how AI products should behave."
-    },
-    {
-      "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-08-10T11:11:29Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*xBpCJGB0ENbEwo8-.png",
-      "excerpt": "UX Collective's roundup on encoding designer judgment into machine-readable form: why chat is the wrong interface for AI, and the rise of Design.md files that give agents the taste rules a team already has."
-    },
-    {
-      "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-08-09T20:51:26Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1200/1*z3N5kvaexDH53nEaniQiKw.jpeg",
-      "excerpt": "Ninety years of loom engineering went into teaching machines to catch their own mistakes — a history lesson for designers building error-aware AI systems today."
-    },
-    {
-      "url": "https://vercel.com/changelog/vercel-sandbox-managed-images",
+      "url": "https://vercel.com/changelog/exa-joins-the-vercel-agent-marketplace",
       "source": "Vercel",
-      "category": "workflow",
-      "published_iso": "2026-08-10T18:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3vaPqSowzp6g6BxbnsVtHf/b3a486944da4d9972d0370ab16f0ed81/image__20_.png",
-      "excerpt": "Vercel Sandbox now runs on Vercel Managed Images — versioned, open-source base images bundling Node.js, Python and coding agents, so agent-driven prototyping environments start from a consistent baseline."
+      "category": "figma",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "Exa's neural search engine has joined the Vercel Agent Marketplace, letting builders ground agents in fresh, current information with unified billing and API management. It plugs web research directly into agent-built products."
     },
     {
-      "url": "https://www.cgchannel.com/2026/08/the-week-in-cg-9-august-2026/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-08-09T16:43:20Z",
-      "og_image": "",
-      "excerpt": "CG Channel's weekly roundup of tool updates you may have missed, including FumeFX 7.6 for 3ds Max, Character Control Rig 0.3.1 for Blender, and PFTrack 26.08."
+      "url": "https://vercel.com/changelog/grok-build-harness-adapter",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "Grok Build is now a supported adapter in the AI SDK harness layer, which runs established coding-agent runtimes through one unified interface. Teams can swap the underlying agent runtime without changing application code."
     },
     {
-      "url": "https://www.cgchannel.com/2026/08/see-storm-studios-varied-vfx-breakdown-for-daredevil-born-again-s2/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-08-11T06:52:58Z",
-      "og_image": "",
-      "excerpt": "Storm Studios breaks down the combat sequences for Daredevil: Born Again S2, covering digi-doubles, sparks and practical-to-digital blending across the Disney+ series."
+      "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "The AI SDK harness layer now supports any Agent Client Protocol (ACP)-compatible harness via a new @ai-sdk/harness-acp package. One protocol adapter unlocks a whole family of coding agents for prompt-driven prototyping stacks."
     },
     {
-      "url": "https://80.lv/articles/this-alien-has-no-mesh-is-built-in-three-js-with-shader-math/",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-08-11T10:47:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49683/images/6a7afda7da4c2/contain_1200x630.jpg",
-      "excerpt": "Developer Drin built a fully animated alien with no mesh at all — the whole creature is raymarched in Three.js with shader math, a reminder of how much visual craft lives outside asset pipelines."
-    },
-    {
-      "url": "https://80.lv/articles/artist-shows-web-tornado-made-with-blender-geometry-nodes/",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-08-11T09:50:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49681/images/6a7af05a8bd82/contain_1200x630.jpg",
-      "excerpt": "Cartesian Caramel recreates the web tornado from Spider-Man: Brand New Day entirely with Blender geometry nodes, showing a procedural route to blockbuster-scale VFX."
-    },
-    {
-      "url": "https://80.lv/articles/stunning-sea-of-thieves-inspired-water-in-godot/",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-08-11T10:08:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49682/images/6a7af4b018930/contain_1200x630.jpg",
-      "excerpt": "A developer brings Sea of Thieves-style stylized ocean rendering to Godot — 'so real you can almost feel the seasickness' — with a shader-driven water system."
-    },
-    {
-      "url": "https://www.creativebloq.com/3d/3d-art/see-how-this-3d-artist-experiments-with-colour-in-renders",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-08-11T06:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7rWYjyaYXzaS2iYWr3TUsS-1421-80.jpg",
-      "excerpt": "A look at the work of 3D artist Giovane Henriques and how he experiments with colour as the primary driver of a render's mood rather than a post-process afterthought."
-    },
-    {
-      "url": "https://www.creativebloq.com/art/animation/what-are-blend-shapes-in-3d-animation-and-how-do-you-use-them",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-08-10T07:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZsYLdxP8RbQUFLzkFHTyjS-1920-80.jpg",
-      "excerpt": "A primer on blend shapes in 3D animation: easy to set up and capable of very organic-feeling movement, they remain the backbone of facial performance in an era of AI-assisted rigging."
-    },
-    {
-      "url": "https://www.getleo.ai/blog/best-ai-tool-tribal-knowledge-2026",
-      "source": "Leo AI",
-      "category": "cad",
-      "published_iso": "2026-08-11T00:00:00Z",
-      "og_image": "https://framerusercontent.com/assets/KbJh8W6KLndaaR7YUmOYteM3pU0.png",
-      "excerpt": "Leo AI lays out how to judge whether an AI tool actually captures engineering tribal knowledge — the undocumented design rules that live in senior engineers' heads — instead of just indexing CAD files."
-    },
-    {
-      "url": "https://develop3d.com/hardware/dell-launch-all-in-one-conference-monitor/",
+      "url": "https://develop3d.com/cad/onshape-featurescript-mcp-lets-users-build-custom-cad-features-fast/",
       "source": "DEVELOP3D",
       "category": "cad",
-      "published_iso": "2026-08-11T14:04:36Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Dell-conference-monitor.jpg",
-      "excerpt": "Dell's new P4326QEB all-in-one 43-inch 4K conference monitor replaces separate cameras, speakers and displays in design-team huddle spaces."
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Onshape-Labs-MCP-1024x576.jpg",
+      "excerpt": "PTC's new Onshape FeatureScript MCP Server lets users describe a desired CAD feature in natural language and have AI build and refine the custom tool. It targets repeated modelling bottlenecks by turning them into bespoke buttons."
     },
     {
-      "url": "https://roadtovr.com/apple-mlb-live-immersive-games-schedule-2026/",
-      "source": "Road to VR",
+      "url": "https://www.engineering.com/the-agentic-era-for-mechanical-design/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-08-12T12:00:00Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_leo_3dassembly.png",
+      "excerpt": "Leo AI CEO Maor Farid claims his design agent has passed a \"mechanical Turing test,\" producing manufacturing-ready CAD assemblies from a spec. The agent asks leading questions and exposes its reasoning rather than just emitting geometry."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+      "source": "Smashing Magazine",
+      "category": "tokens",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/new-ai-guidelines-ai-labelling.jpg",
+      "excerpt": "New EU guidelines require clearly labelling AI-generated content for anyone serving EU citizens, effective August 2, 2026. The rules cover deepfakes, chatbots, AI-written text and biometric tools — pushing designers to build disclosure into the UI itself."
+    },
+    {
+      "url": "https://css-tricks.com/blocked-aria-hidden-fix/",
+      "source": "CSS-Tricks",
+      "category": "tokens",
+      "published_iso": "2026-08-12T12:00:00Z",
+      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/chrome-devtools-aria-hidden-tree.png?resize=1100%2C1604&ssl=1",
+      "excerpt": "The DevTools \"blocked aria-hidden\" warning is legitimate: focus must leave a region before it becomes hidden. Common fixes like blur() or setTimeout actually strand screen-reader users on <body> instead of returning them to the trigger."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/marmoset-releases-toolbag-5-03/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "Marmoset shipped Toolbag 5.03, a free update to its real-time rendering and look-dev tool. It adds Text and Scatter Layers for texturing, IES light profiles with physical light units, and 3Dconnexion SpaceMouse support."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/ephere-releases-ornatrix-4-for-cinema-4d/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-08-12T12:00:00Z",
+      "og_image": null,
+      "excerpt": "Ephere released Ornatrix 4 for Cinema 4D, bringing the hair, fur and feather system to parity with other hosts. New is a Warp Roots modifier for feathers and sparse fur, plus painting through decals to texture hair."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/see-how-untold-studios-created-masters-of-the-universe-titles/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260813_UntoldStudios_MastersOfTheUniverse_f-960x480.jpg",
+      "excerpt": "Untold Studios published a making-of for the animated title sequence of the live-action Masters of the Universe, showing the forging of He-Man's Power Sword. The breakdown covers the procedural geometry and cloud simulations beneath the shot."
+    },
+    {
+      "url": "https://80.lv/articles/this-free-blender-tool-procedurally-converts-hair-grooms-into-feathers",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "3D VFX artist Sherzod Kadirov released a free Blender tool that uses Geometry Nodes to procedurally turn hair-groom curves into feathers. It supports custom feather shapes and works on animated characters."
+    },
+    {
+      "url": "https://80.lv/articles/spline-architect-s-new-version-adds-gpu-instancing-for-1-000-000-objects-along-splines",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "Spline Architect 2.7.2 adds GPU instancing, making it possible to distribute and move up to a million objects along splines. The update targets large-scale procedural environment layout."
+    },
+    {
+      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
+      "source": "fxguide",
+      "category": "render",
+      "published_iso": "2026-08-11T12:00:00Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/image2-33.jpeg",
+      "excerpt": "LA studio Impossible Objects runs fine-tuned generative models locally on HP ZGX Nano workstations, blending them with traditional compositing on high-profile ad work. Keeping inference on-prem protects client IP while expanding production capacity."
+    },
+    {
+      "url": "https://www.engadget.com/2232151/how-to-convert-upscale-photo/",
+      "source": "Engadget",
+      "category": "render",
+      "published_iso": "2026-08-13T13:30:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/how-to-convert-upscale-photo/intro-1786058059.jpg",
+      "excerpt": "A practical breakdown of image upscaling, contrasting classic pixel-averaging methods like bicubic with AI models that predict detail from training data. The tradeoff: AI gets you sharper results but can invent things that were never in the original."
+    },
+    {
+      "url": "https://80.lv/articles/gel-sand-sim-running-in-browser-on-apple-vision-pro",
+      "source": "80 Level",
       "category": "vr",
-      "published_iso": "2026-08-10T14:59:00Z",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?fit=1800%2C1200&quality=89&ssl=1",
-      "excerpt": "Apple and MLB will livestream games to Vision Pro in Apple Immersive starting August 28th — the first regular live immersive-video production pipeline at this scale."
-    },
-    {
-      "url": "https://www.uploadvr.com/taolu-turned-my-vr-headset-into-a-martial-arts-dojo/",
-      "source": "UploadVR",
-      "category": "vr",
-      "published_iso": "2026-08-11T18:22:44Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/08/Talou-Teacher.jpg",
-      "excerpt": "Martial arts simulator TaoLu uses body-tracked instruction and spatial coaching UI to turn a headset into a dojo — a case study in embodied VR interaction design."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=EXWK2NMAEKk",
-      "source": "TheAIGRID",
-      "category": "social",
-      "published_iso": "2026-08-10T17:00:05Z",
-      "og_image": "https://i.ytimg.com/vi/EXWK2NMAEKk/maxresdefault.jpg",
-      "excerpt": "Walkthrough of Meta's new Muse family — Muse Spark, Muse Image and Muse Video — and what the generative image/video models mean for creative production workflows."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=gNltRF2XPTg",
-      "source": "The AI Advantage",
-      "category": "social",
-      "published_iso": "2026-08-10T17:48:51Z",
-      "og_image": "https://i.ytimg.com/vi/gNltRF2XPTg/maxresdefault.jpg",
-      "excerpt": "A practical build-out of always-on ChatGPT automations: scheduled tasks, memory and connectors wired so the assistant keeps working on your projects between sessions."
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "James C. Kane built an immersive gel, sand and water simulation running in the browser on Apple Vision Pro using WebXR, WebGPU and Three.js. He claims it's the first real-time sim of its kind delivered entirely through the web on the headset."
     }
   ]
 }

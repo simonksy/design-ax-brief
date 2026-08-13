@@ -1,68 +1,90 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "movies",
   "count": 5,
-  "dedup_note": "Checked against sections.movies today (2026-08-11) + days 2026-08-06..10 (30 published cards; every URL read). No candidate matched a published URL or a published story. Within-pool duplicate dropped: Animation Magazine 'Nura Launches First Original Animated Series Rainbow Hollow' is the same launch as the AWN piece — kept the AWN version, which carries the Showcraft pipeline detail and the early-September public-open date. Also passed over No Film School's Wonder Dynamics founders interview as too close to the already-published 2026-08-08 card movies-autodesk-flow (Autodesk Flow Studio), and passed over the second AWN item (Nolia studio launch) to keep outlet spread. Final 5 = 5 distinct outlets, no repeated URL, no repeated story.",
+  "note": "User deferred (\"알아서\") — curator picked. Dedup run first against sections.movies today(2026-08-12) + days(2026-08-07…2026-08-11), URL + content. Dropped: No Film School 'Roku Created a New Channel That's Only AI Slop 24/7' (https://nofilmschool.com/roku-ai-channel) as a CONTENT duplicate of the already-published The Verge card 'movies-roku-fairground' (2026-08-10, Roku's Fairground AI FAST channel — same event, different outlet). Dropped AWN 'Nolia' AI studio launch as a within-pool near-duplicate of the stronger, fresher Deadline 'Matriarch' AI-native studio launch and to respect the ≤2-per-outlet guard (AWN already carries Cascadeur). Backfilled with CineD RocXZoom. Deadline Seedance 2.5 kept: the 2026-08-08 Deadline card 'movies-minimax-bootleg' is about MiniMax Hailuo 3 bootleg clips and only mentions ByteDance guardrails in passing — this is a distinct, dedicated report on Seedance 2.5 refusing Hollywood IP prompts. Diversity guard satisfied: 5 distinct outlets (AWN, Deadline, THR, Variety, CineD), no outlet repeated, 5 distinct topic lanes (animation tool release / model guardrails / documentary likeness ethics / streaming first / on-set camera hardware). No general AI-business noise in the final set. Not selected: IndieWire AFM AI expansion (market-structure, lower craft actionability), Deadline Matriarch (studio-launch lane already implicitly covered and lower actionability), THR Rick Baker Locarno (opinion/interview, evergreen).",
   "picks": [
     {
-      "title": "Impossible Objects superpowers VFX production with AI models running on HP ZGX Nano",
-      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
-      "source": "fxguide",
-      "published_iso": "2026-08-11T10:45:46Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-iohp-v3.jpg",
-      "excerpt": "LA studio Impossible Objects is running AI models locally on HP ZGX Nano desktops so artists can fold generative steps into an existing VFX pipeline without shipping plates to the cloud. The piece details how artist-driven AI workflows sit alongside traditional comp and 3D tools.",
+      "rank": 1,
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "The most actionable item in the pool — a working studio shows how to keep plates on-prem and still put generative steps inside a normal comp and 3D pipeline."
+      "url": "https://www.awn.com/news/cascadeur-ships-20262-animation-layers-and-3-new-languages",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-08-13T15:54:27Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/cascadeur_2026.2_screen2-1280.jpg?itok=9lJgG5oz",
+      "title": "Cascadeur Ships 2026.2 with Animation Layers and 3 New Languages",
+      "excerpt": "Nekki's physics- and AI-assisted character animation tool adds additive animation layers, easing controls, retrained inbetweening/motion-generation/retargeting networks, and a built-in MCP server that lets external AI agents drive the software. A concrete look at where neural assistance sits inside a working animation pipeline.",
+      "rationale": "Shipping tool release an animator can install tomorrow — animation layers plus an MCP server that opens the app to external AI agents is the most actionable item in the pool."
     },
     {
-      "title": "Nura Studios Debuts 'Rainbow Hollow' Stop-Motion Styled AI Series",
-      "url": "https://www.awn.com/news/nura-studios-debuts-rainbow-hollow-stop-motion-styled-ai-series",
-      "source": "Animation World Network",
-      "published_iso": "2026-08-11T16:18:48Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/rainbow_hollow_milo_cat-1280.jpg?itok=LclXfrEN",
-      "excerpt": "Noah Wagner's new series was produced on Nura's Showcraft platform, which handles story, layout, animation, edit and post finishing inside one environment. The system opens to the public in early September.",
+      "rank": 2,
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "A single-environment production platform with a dated public opening — a finished series is the proof, and early September is the date to plan around."
+      "url": "https://deadline.com/2026/08/seedance-blocking-hollywood-ripoff-cruise-pitt-ai-deepfakes-1237031665/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-08-12T10:18:13Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png",
+      "title": "After Chaos Of Cruise Vs Pitt AI Deepfakes, Seedance 2.5 Is Now Blocking Hollywood Rip-Offs",
+      "excerpt": "ByteDance's Seedance 2.5 is now refusing prompts that reproduce Hollywood IP and star likenesses, after Seedance 2.0 triggered an outrage cycle over Cruise-vs-Pitt deepfakes. A rare look at guardrails being retrofitted into a mainstream video model creators actually use.",
+      "rationale": "Changes what prompts actually run for anyone using Seedance in production — retrofitted IP and likeness guardrails in the model creators lean on most."
     },
     {
-      "title": "Vida Scene Search: AI Scene-Level Search, No Manual Logging Required",
-      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
-      "source": "postPerspective",
-      "published_iso": "2026-07-30T22:53:06Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vida-news-1.jpg",
-      "excerpt": "Vida added an offline AI indexing layer to its Content OS MAM so post teams can search inside video libraries at the moment level. It removes the dependency on metadata that was hand-logged years ago.",
+      "rank": 3,
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Moment-level search over an unlogged archive changes a concrete daily chore for post and archive teams, and the indexing runs offline."
+      "url": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-12T20:19:09Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/YoungBillyJoelAI.jpg",
+      "title": "A Filmmaker Secured a Lost Billy Joel Radio Interview. Then He Re-Created the Singer in AI",
+      "excerpt": "A documentary filmmaker found a lost Billy Joel radio interview and used AI to reconstruct a young Billy Joel on screen — without the artist's involvement. A sharp case study in the consent gap opening up around AI-assisted documentary reenactment.",
+      "rationale": "A concrete, reproducible documentary technique paired with the consent question it forces — the clearest craft-ethics case study of the week."
     },
     {
-      "title": "A New Free Seminar Teaches Documentary Filmmakers When and How to Opt Out of AI",
-      "url": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "source": "IndieWire",
-      "published_iso": "2026-08-11T16:30:00Z",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
-      "excerpt": "Field of Vision and Freedom of the Press Foundation are running the sixth edition of their Digital Security Clinic, this time on AI. It walks documentary teams through where AI enters their pipeline and how to opt out of it.",
+      "rank": 4,
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "The rare opt-out playbook: a free, dated clinic that maps where AI quietly enters a doc pipeline and how to switch each entry point off."
+      "url": "https://variety.com/2026/tv/global/ai-generated-turkish-tv-series-castle-walls-prime-video-first-1236832779/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-08-12T09:01:32Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg",
+      "title": "AI-Generated Turkish Series 'Castle Walls' Launches on Prime Video in What Is Being Touted as a First",
+      "excerpt": "AI-generated historical drama 'Castle Walls,' produced by Turkish TV powerhouse Ay Yapim, launches on Prime Video as what is billed as the first series made end-to-end with generative AI for a major streamer. It is a concrete test of whether a fully synthetic production pipeline can carry a scripted series.",
+      "rationale": "First end-to-end generative-AI scripted series to land on a major streamer — the benchmark everyone building a synthetic pipeline will now be measured against."
     },
     {
-      "title": "Peacock Launches First Serialized Mobile Game 'Public Eye'",
-      "url": "https://deadline.com/2026/08/peacock-new-serial-mobile-game-public-eye-1237029824/",
-      "source": "Deadline",
-      "published_iso": "2026-08-10T15:00:00Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/08/WOLFPublicEye.png?w=1024",
-      "excerpt": "Peacock's first episodic interactive title comes out of NBCUniversal's pact with Wolf Games, the generative-AI startup co-founded by Elliot Wolf. It is a test of AI-generated serialized storytelling built by a TV production house.",
+      "rank": 5,
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "A major streamer shipping an episodic generative-AI title is a new delivery format, not another pilot deck — the first real read on whether it holds an audience."
+      "url": "https://www.cined.com/rocxzoom-heading-to-kickstarter-robotic-50x-zoom-camera-with-ai-subject-tracking-from-ex-dji-engineers/",
+      "source": "CineD",
+      "category": "movies",
+      "published_iso": "2026-08-12T11:38:43Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/RocXZoom.jpeg",
+      "title": "RocXZoom Heading to Kickstarter – Robotic 50x Zoom Camera With AI Subject Tracking From Ex-DJI Engineers",
+      "excerpt": "Ex-DJI engineers are crowdfunding RocXZoom, a robotic 50x zoom camera whose AI subject tracking handles framing and follow automatically. On-set machine vision is moving from post into the camera body itself.",
+      "rationale": "Moves AI from post into the camera body — automatic framing and follow is an on-set production change, and the only hardware angle in the pool."
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://nofilmschool.com/roku-ai-channel",
+      "source": "No Film School",
+      "reason": "content duplicate of published card movies-roku-fairground (The Verge, 2026-08-10) — same Roku Fairground AI channel launch"
+    },
+    {
+      "url": "https://www.awn.com/news/bob-gaudette-and-kirk-hipkiss-launch-ai-film-and-tv-production-studio-nolia",
+      "source": "Animation World Network",
+      "reason": "within-pool near-duplicate lane (AI-native studio launch) vs Deadline Matriarch; also would breach the ≤2-per-outlet guard alongside Cascadeur"
     }
   ]
 }

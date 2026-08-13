@@ -1,95 +1,100 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "science",
   "count": 5,
   "selection_mode": "curator_auto",
-  "note": "User deferred; curator scored and picked. Dedup run against pipeline/news_data.json -> sections.science (today 2026-08-11 + days 2026-08-06..2026-08-10, 30 published cards). One candidate dropped as a cross-outlet duplicate: Universe Today 'The Telescope That Points Itself' = same Blanco 4m / DES deep-learning scheduler story already published 2026-08-10 as science-ai-telescope-scheduler (phys.org 2026-07-ai-driven-telescope-stargazing). Backfilled with the next-best surviving candidate. Diversity guard: 4 distinct outlets, max 2 from any one (Google Research x2, different topics and different publish dates -- not a content-hub duplicate). All 5 URLs distinct and never published before.",
+  "note": "User deferred. Dedup run against sections.science (today 2026-08-12 + days 2026-08-07..08-11 = 30 published cards). Every URL in the 17-item pool was checked against those 30 URLs and their story content: no exact-URL match and no same-event match survived scrutiny, so 0 hard drops. NEAR-DUP JUDGEMENTS: (a) Scientific American 'No, Anthropic's AI didn't just solve math's hardest problem' is a DIFFERENT event from the published 2026-08-12 SciAm OpenAI-Astra attribution card and the 2026-08-07 ScienceDaily Jacobian card, but it is the third AI-math-hype story in the section in eight days, so it was ranked down rather than dropped. (b) Google Research 'recall is the bottleneck' is a distinct topic from the published 2026-08-12 Google Research Science One card (hallucinated citations in an agent framework vs. parametric knowledge recall in the model itself) - kept. (c) Live Science neuromorphic motor-control chip vs. published 2026-08-09 KAIST memtransistor: different labs, different devices, different papers - distinct, but only one brain-inspired-silicon card was taken this round and the newer robotics item outranked it. (d) MIT Tech Review 'How kids feel about AI' and Psychology Today 'How Your Children View AI' cover the same theme from two surveys; both were held back because the section already ran the teen-AI-mental-health card on 2026-08-11. DIVERSITY GUARD: 5 distinct outlets (Google DeepMind, Google Research, Phys.org, Live Science, GEN), max 1 card per outlet, and a topic spread of accessibility deployment / LLM factuality / protein-drug modeling / robot control / lab-scale biological data. No AI-business or funding items included.",
   "picks": [
     {
       "rank": 1,
-      "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
-      "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-      "source": "Google Research",
+      "title": "Putting sign language AI into users' hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "published_iso": "2026-08-12T00:00:00Z",
+      "og_image": "https://lh3.googleusercontent.com/RDh3NiE22dtisgmsRxzthq0CCSjdL9k_fo7bOVbv7kKrIyacgNFTHfe9p3zGznT96bzPH8PX1UNkKu2Fasx-VbuLo0Dn47mDntjsbVYyJqMLCVTNQTk=w1440-h810-n-nu",
+      "excerpt": "DeepMind shipped SL2T, a massively multilingual sign-language-to-text translation model trained on 100,000+ hours across 50+ sign languages, into Gboard and Live Transcribe on Pixel 11. It is the first consumer deployment of sign-language translation research.",
       "tool": "Science",
-      "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "published_iso": "2026-08-11T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AMIE_Video-hero.png",
-      "excerpt": "Google Research extended AMIE to real-time video consultations that interpret what the patient shows on camera as well as what they say. In a randomized study with board-certified physicians, AMIE (Video) rated on par with primary care physicians on history-taking and diagnostic accuracy.",
-      "rationale": "Freshest, most concrete release in the pool: a randomized head-to-head against physicians moves multimodal clinical AI from demo to measured capability."
+      "rationale": "Research that actually left the lab: 50+ sign languages inside a shipping keyboard makes sign language an input modality product teams can design for today, not a paper."
     },
     {
       "rank": 2,
-      "title": "OpenAI's latest math breakthroughs commit research misconduct, experts say",
-      "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
-      "source": "Scientific American",
+      "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+      "source": "Google Research",
+      "published_iso": "2026-08-12T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/KnowledgeProfiling1_Overview.png",
+      "excerpt": "Google Research's 'knowledge profiling' framework shows frontier LLMs encode 95-98% of tested facts yet still fail to recall 26-34% of them. The failure mode is retrieval, not missing knowledge - a direct reframing of why models hallucinate.",
       "tool": "Science",
-      "category": "science",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-08-06T00:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg",
-      "excerpt": "OpenAI's Astra model announced 10 mathematical advances, but mathematicians say the write-ups reuse existing results from 2016 and 2019 without adequate attribution. The dispute turns AI-for-science from a capability question into a credit-and-provenance question.",
-      "rationale": "New development, not a rehash of the earlier Erdos-problems coverage: the first credible misconduct allegation against an AI-authored result, which changes how AI output must be cited."
+      "rationale": "Reframes hallucination as a retrieval failure inside a model that already knows the answer, which changes whether you reach for better prompting and cueing or for more training data."
     },
     {
       "rank": 3,
-      "title": "New AI model reveals the volume of the world's glaciers",
-      "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
+      "title": "Teaching AI the biology of antibodies speeds drug discovery",
+      "url": "https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html",
       "source": "Phys.org",
+      "published_iso": "2026-08-13T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/antibody.jpg",
+      "excerpt": "Boston University researchers built an antibody-specific language model that concentrates on the six binding loops instead of the whole protein, improving binding-strength prediction by up to 27%. Encoding domain biology into the architecture beat treating antibodies as generic proteins.",
       "tool": "Science",
-      "category": "science",
       "accent": "#7928ca",
       "motif": "frame",
-      "published_iso": "2026-08-07T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
-      "excerpt": "Ca' Foscari University of Venice built IceBoost v2.0, a machine-learning model that maps global glacier ice volume from millions of thickness measurements. It puts Earth's glaciers at roughly 150,000 cubic kilometers of ice - 32.3 cm of sea-level rise if fully melted.",
-      "rationale": "A named, versioned model producing a hard planetary number - earth-science diversity plus the clearest single result in the pool."
+      "rationale": "A 27% gain that came from building domain structure into the architecture rather than scaling it - the clearest recent argument that specialist models still beat generic ones on specialist data."
     },
     {
       "rank": 4,
-      "title": "Seven Needles, 800,000 Haystacks",
-      "url": "https://www.universetoday.com/articles/seven-needles-800000-haystacks",
-      "source": "Universe Today",
+      "title": "New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'",
+      "url": "https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead",
+      "source": "Live Science",
+      "published_iso": "2026-08-13T16:57:08Z",
+      "og_image": null,
+      "excerpt": "Researchers built VLASH, a system that lets a robot plan its next action while still executing the current one, cutting reaction delay up to 11.8x and roughly doubling task completion speed. The gain comes with no extra compute overhead.",
       "tool": "Science",
-      "category": "science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "published_iso": "2026-08-10T00:00:00Z",
-      "og_image": "https://www.universetoday.com/article_images/STScI-01EVTBBTD4EEZ767XD0SFYB84S.tif_20260810_230339.jpeg",
-      "excerpt": "An Ohio State team turned a neural network loose on 800,000 quasars and pulled out seven genuine gravitational lenses, roughly doubling the known sample. The lenses are the tool astronomers use to weigh supermassive black holes and their host galaxies.",
-      "rationale": "Astronomy spread, and a rare case where a model doubles an entire observational sample rather than shaving a benchmark."
+      "rationale": "An 11.8x latency cut with no extra compute comes purely from overlapping planning and execution - a scheduling idea that transfers to any agent stuck waiting on its own next step."
     },
     {
       "rank": 5,
-      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
-      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-      "source": "Google Research",
+      "title": "Human biological datacenter to launch to train world model of human biology",
+      "url": "https://www.genengnews.com/topics/translational-medicine/human-biological-datacenter-to-launch-to-train-world-model-of-human-biology/",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "published_iso": "2026-08-12T00:00:00Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/6a5156e97215b1f019eebbae_65c1501946fecb29765d655f_Dan-Huh-and-Andrei-Georgescu_sm-696x464.jpeg",
+      "excerpt": "Vivodyne is opening what it calls the world's largest human biological datacenter: 12 robotic labs running 3.1 million lab-grown human tissue trials a year. The output is training data for an AI world model spanning 22 organ systems.",
       "tool": "Science",
-      "category": "science",
       "accent": "#eb367f",
       "motif": "headset",
-      "published_iso": "2026-07-30T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
-      "excerpt": "Google's Science One prototype attacks the hallucinated-citation problem in AI research agents by forcing every claim onto a traceable evidence chain. It reported zero phantom references while matching expert performance on benchmark research tasks.",
-      "rationale": "Directly answers the provenance problem raised by pick 2 - a shippable pattern (chain-of-evidence) anyone running a research agent can adopt tomorrow."
+      "rationale": "Robotic labs built to manufacture training data rather than run one-off experiments - the missing-dataset problem being answered with industrial-scale wet-lab throughput."
     }
   ],
   "dropped": [
     {
-      "url": "https://www.universetoday.com/articles/the-telescope-that-points-itself",
-      "reason": "duplicate-content: same AI scheduler for the Blanco 4m / DECam already published 2026-08-10 (science-ai-telescope-scheduler, phys.org)"
+      "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
+      "reason": "not a URL/event duplicate, but the third AI-math-claim story in the science section in eight days (published 2026-08-12 SciAm OpenAI Astra attribution, 2026-08-07 ScienceDaily Jacobian counterexample) - ranked down for perceived repetition"
+    },
+    {
+      "url": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
+      "reason": "distinct from the published 2026-08-09 KAIST memtransistor card, but same brain-inspired-silicon lane and second Live Science item - dropped under the one-card-per-outlet guard"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "reason": "kids-and-AI survey theme already served by the published 2026-08-11 teen AI mental health card; also overlaps the Psychology Today children's-mental-models piece in this same pool"
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/why-bad-looks-good/202608/how-your-children-view-ai-and-why-it-matters",
+      "reason": "within-pool overlap with the MIT Tech Review kids survey - kept neither, to avoid a third youth-and-AI card in four days"
+    },
+    {
+      "url": "https://phys.org/news/2026-08-real-ray-analysis-donut-materials.html",
+      "reason": "strong candidate, but a second Phys.org card and the autonomous-lab lane was already covered by the published 2026-08-08 Argonne agent card and 2026-08-10 NSF self-driving labs card"
+    },
+    {
+      "url": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/",
+      "reason": "closer to workforce/deployment politics than to AI advancing scientific method - fails the section relevance test"
     }
-  ],
-  "considered_not_selected": [
-    "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/ (opinion/interview, overlaps pick 2's math theme; outlet cap)",
-    "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ (strong but explainer-style, lowest actionability)",
-    "https://physicsworld.com/a/ai-sniffs-out-tuberculosis-in-breaths-chemical-signature/ (good, but a second clinical-diagnostics card alongside AMIE)",
-    "https://allenai.org/blog/tutormoments (no og_image; narrower audience)",
-    "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/ (discourse rather than new result)",
-    "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/ (op-ed)",
-    "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html (solid, but phys.org outlet cap after pick 3)",
-    "https://phys.org/news/2026-08-ai-method-reveals-hidden-patterns.html (narrow, single-estuary result)"
   ]
 }

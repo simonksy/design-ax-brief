@@ -1,32 +1,33 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "science",
   "media": [
     {
-      "id": "science-amie-video-consultation",
+      "id": "science-sign-language-sl2t",
       "type": "video",
-      "src": "pipeline/media/science-amie-video-consultation.mp4",
-      "poster": "pipeline/media/science-amie-video-consultation.jpg"
+      "src": "pipeline/media/science-sign-language-sl2t.mp4",
+      "poster": "pipeline/media/science-sign-language-sl2t.jpg"
     },
     {
-      "id": "science-openai-astra-math-attribution",
+      "id": "science-recall-bottleneck",
       "type": "image",
-      "src": "pipeline/media/science-openai-astra-math-attribution.jpg"
+      "src": "pipeline/media/science-recall-bottleneck.png"
     },
     {
-      "id": "science-iceboost-glacier-volume",
+      "id": "science-antibody-cdr-model",
       "type": "image",
-      "src": "pipeline/media/science-iceboost-glacier-volume.jpg"
+      "src": "pipeline/media/science-antibody-cdr-model.jpg"
     },
     {
-      "id": "science-quasar-lens-neural-net",
-      "type": "image",
-      "src": "pipeline/media/science-quasar-lens-neural-net.jpg"
+      "id": "science-vlash-robot-lookahead",
+      "type": "video",
+      "src": "pipeline/media/science-vlash-robot-lookahead.mp4",
+      "poster": "pipeline/media/science-vlash-robot-lookahead.jpg"
     },
     {
-      "id": "science-google-science-one-coe",
+      "id": "science-vivodyne-human-datacenter",
       "type": "image",
-      "src": "pipeline/media/science-google-science-one-coe.png"
+      "src": "pipeline/media/science-vivodyne-human-datacenter.jpg"
     }
   ]
 }

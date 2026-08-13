@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "books",
   "media": [
     {
-      "id": "books-spotify-audiobook-discovery",
+      "id": "books-claude-watermark",
       "type": "image",
-      "src": "pipeline/media/books-spotify-audiobook-discovery.jpg"
+      "src": "pipeline/media/books-claude-watermark.jpg"
     },
     {
-      "id": "books-stm-ai-against-ai",
+      "id": "books-editor-ai-clause",
       "type": "image",
-      "src": "pipeline/media/books-stm-ai-against-ai.jpg"
+      "src": "pipeline/media/books-editor-ai-clause.png"
     },
     {
-      "id": "books-aries-chronoshub-submission",
+      "id": "books-villanova-bot-or-not",
       "type": "image",
-      "src": "pipeline/media/books-aries-chronoshub-submission.jpg"
+      "src": "pipeline/media/books-villanova-bot-or-not.jpg"
     },
     {
-      "id": "books-library-avoiding-ai",
+      "id": "books-cognitive-debt",
       "type": "image",
-      "src": "pipeline/media/books-library-avoiding-ai.jpg"
+      "src": "pipeline/media/books-cognitive-debt.jpg"
     },
     {
-      "id": "books-iflytek-ainote2-roadmap",
+      "id": "books-shieldfont",
       "type": "image",
-      "src": "pipeline/media/books-iflytek-ainote2-roadmap.jpg"
+      "src": "pipeline/media/books-shieldfont.jpg"
     }
   ]
 }

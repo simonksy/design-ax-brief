@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "games",
   "cards": [
     {
-      "id": "games-saber-chatgpt-writer",
+      "id": "games-artstation-kitbash3d",
       "eyebrow": "AI NEWS",
-      "headline": "\"개발 중간에 ChatGPT가 나를 대체했다\"\n그런데 Steam엔 AI 표기가 없다",
-      "body": "리드 라이터였던 Stella Sacco는 승객 목소리까지 AI였다고 밝혔지만, Steam 페이지에는 AI 표기가 없다.",
-      "mini_headline": "작가를 지우고 표기도 없다",
+      "headline": "Epic이 ArtStation을 팔았다\nAI 슬롭에서 풀려났다는 반응",
+      "body": "Epic이 ArtStation과 Sketchfab을 KitBash3D에 넘겼고, 작가들은 마켓플레이스를 뒤덮은 AI 도배가 걷히길 기대한다.",
+      "mini_headline": "ArtStation, Epic을 떠나다",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/simulation/saber-interactive-replaced-me-with-chatgpt-midway-through-development-but-ai-use-is-not-disclosed-on-steam-claims-former-lead-writer/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/epic-artstation-fortnite-unreal-sold-sketchfab-kitbash3d-2000723775",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -18,252 +18,214 @@
         "blocks": [
           {
             "t": "p",
-            "x": "퍼블리셔 Saber Interactive가 곧 내놓을 운전 시뮬레이션 Rideshare \"Stimulator\"에 생성형 AI를 크게 썼고, 일부 인력은 ChatGPT 같은 봇으로 아예 대체했으면서도 Steam 상점 페이지에는 AI 사용을 알리지 않았다는 주장이 나왔다."
+            "x": "Epic Games가 2021년에 사들였던 3D 아트·게임 에셋 플랫폼 ArtStation과 Sketchfab을 에셋 라이브러리 회사 KitBash3D에 넘겼다. 금액은 밝히지 않았다. ArtStation 등록 사용자 1000만 명 가운데 목소리를 내는 쪽은 이 소식을 반긴다. 한 사용자는 플랫폼이 \"예전의 영광\"을 되찾고 \"마켓플레이스에 넘치는 AI를 전부 걷어낼\" 희망이 생겼다고 적었다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/GwurUCWSHLDo5mea9ApPzg-1920-80.jpg",
-            "cap": "이미지: Saber Interactive"
+            "src": "https://kotaku.com/app/uploads/2026/08/Epic-Games-and-ArtStation-initial-purchase-image-Epic-Games-ArtStation.jpg",
+            "cap": "이미지: Epic Games / ArtStation"
           },
           {
             "t": "p",
-            "x": "Rideshare \"Stimulator\"는 7월 30일 Saber와 개발사 Unigine이 공개한 트레일러로 처음 알려졌다. 8월 11일, 전 리드 라이터 Stella Sacco가 Bluesky에서 이 소식에 반응하며 Saber가 AI 사용을 묻어뒀다고 했다."
+            "x": "Creative Bloq가 짚었듯 Epic Games와 KitBash3D, ArtStation은 8월 10일 각자 따로 매각을 알렸다. Epic의 글은 앞으로 \"Unreal Engine 6, Fortnite, 개발자 생태계, Epic Games Store를 계속 우선하겠다\"는 데 무게를 뒀고, ArtStation의 글은 매각이 사용자에게 어떤 영향을 주는지에 초점을 맞췄다."
           },
           {
             "t": "p",
-            "x": "\"공개된 줄도 몰랐다. 내가 이 게임 리드 라이터였다. 그리고 Saber는 개발 중간에 나를 ChatGPT로 대체했다.\" Sacco의 말이다. \"승객 목소리도 전부 AI였다. 중간에 방향을 바꿨거나, 아니면 Steam에 표기를 안 하고 있는 것이다.\""
+            "x": "\"오늘부로 ArtStation과 Sketchfab은 3D 아트 플랫폼 KitBash3D와 Greyscalegorilla를 만든 회사 KitBash의 일부가 됩니다.\" ArtStation의 성명이다. \"ArtStation과 Sketchfab의 아트 게시·발견 플랫폼이 더해지면서 아티스트는 아이디어를 형태로 만들고, 작업을 공유하고, 커리어를 쌓는 전 과정에서 지원받습니다. 크리에이터가 ArtStation과 Sketchfab을 이용하는 방식에는 변화가 없습니다. 포트폴리오와 라이브러리, 핵심 워크플로는 지금 그대로 돌아갑니다.\""
           },
           {
             "t": "p",
-            "x": "Sacco는 2023년 12월 21일에 올렸던 글도 함께 가리켰다. \"직장에서 내가 맡던 게임 하나에서 내가 대체됐다. ChatGPT로.\""
+            "x": "\"우리는 전문 아티스트를 지원하는 일, 그리고 그 작업에 들어가는 시간과 솜씨와 노력을 깊이 아낍니다. 여러분의 목소리는 다음을 고민하는 데 중요한 몫이 됩니다. 계속 들려주세요. 우리는 여기 있고, 듣고 있습니다.\" ArtStation 공식 계정이 8월 11일 올린 글이다."
           },
           {
             "t": "p",
-            "x": "그의 LinkedIn 이력에는 2023년 7월부터 2024년 7월까지 Saber에 있었고 \"STUNTMAN HOLLYWOOD를 비롯한 Saber 포트폴리오 여러 게임의 리드 라이터\"였다고 적혀 있다."
-          },
-          {
-            "t": "video",
-            "yt": "lQxBAE1tE8g"
+            "x": "Epic이 2021년 두 플랫폼을 사들인 뒤로 아티스트들은 AI 아트와 에셋이 \"사방에 덕지덕지 붙어 실제 사람의 작업을 덮어버리고, 잠재 고객을 속이는 데 쓰이기 일쑤\"라고 불평해 왔다."
           },
           {
             "t": "p",
-            "x": "Rideshare \"Stimulator\"는 운전 시뮬레이션에 차량 호출 사업 시뮬레이션을 겹쳐놓은 게임을 표방한다. 플레이어는 도시를 가로지르는 경로를 짜고, 승객과 이야기하고, 높은 기사 평점을 노린다."
+            "x": "r/ArtStation 서브레딧의 아티스트들도 매각 이후를 낙관한다. \"Epic과 그들의 AI 슬롭 사랑에서 벗어났다. 좋은 소식이면 좋겠다.\" 한 사용자의 댓글이다. \"Epic Games는 못 믿겠다. 손대는 것마다 말아먹는 재주가 진심으로 대단하다.\" 다른 사용자는 이렇게 적었다. \"내가 제일 좋아하는 웹사이트 두 곳이 더는 그들 손아귀에 없어서 아주 기쁘다.\""
           },
           {
             "t": "p",
-            "x": "\"차를 피하고, 규칙을 지키고, 시간과 싸우며 별난 승객들을 내려주자. 저마다 사연이 있는데 흥미롭거나 웃기거나 그냥 이상하다.\" Steam 소개문의 문구다. 최근 새로 만들어진 Saber 웹사이트 페이지도 같은 표현을 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "그 Steam 페이지에 눈에 띄게 빠진 것이 AI 사용 고지다. Valve는 \"게임에 함께 배포되어 플레이어가 소비하는 콘텐츠\"에 생성형 AI를 쓴 게임이라면 Steam에 그 사실을 밝히도록 요구한다. Steamworks 콘텐츠 설문 문서에 따르면 \"아트워크, 사운드, 서사, 현지화 등\"이 여기 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "많은 개발자가 Valve의 생성형 AI 정책을 지지한다고 GamesRadar+에 말해 왔다. 다만 업계에는 반대도 있다. Epic Games와 Epic Games Store를 이끄는 Tim Sweeney가 대표적이다."
-          },
-          {
-            "t": "p",
-            "x": "이 의혹은 이미 공개 트레일러의 YouTube 댓글로 옮겨붙었다. PS5 버전 영상도 마찬가지다."
-          },
-          {
-            "t": "p",
-            "x": "\"'작가와 성우를 AI로 갈아치웠습니다!' 다 알겠다.\" 기사 마감 한 시간 전에 달린 댓글이다."
-          },
-          {
-            "t": "p",
-            "x": "\"AI 글쓰기에 AI 음성.\" 그보다 한 시간 앞서 올라온 댓글은 이렇게 적었다."
-          },
-          {
-            "t": "p",
-            "x": "\"Steam 페이지에 AI 고지가 없던데 고칠 생각인가? 최소한 작가 한 명은 chatgpt에 밀려 나간 것 같은데.\" 최근 달린 또 다른 댓글이다."
-          },
-          {
-            "t": "p",
-            "x": "GamesRadar+는 Rideshare \"Stimulator\"의 AI 사용과 정책을 두고 Saber Interactive에 입장을 물었다."
-          },
-          {
-            "t": "p",
-            "x": "조금 다른 이야기로, Saber CEO Matt Karch는 최근 Rideshare \"Simulator\"에 Gearbox CEO Randy Pitchford를 겨냥한 농담이 실제로 들어 있다고 확인했다."
+            "x": "플랫폼이 Epic의 손을 떠난 것과 무관하지 않게, ArtStation은 공식 성명에 이어 X에 글을 하나 더 올렸다. \"다음 장이 무엇이 될지 기대한다\"며 사용자 피드백을 \"듣고 있다\"고 했다. \"얻어야 할 신뢰가 있고, 배울 것이 많고, 앞에 중요한 일이 남아 있습니다. 아티스트들에게서 듣는 피드백은 중요합니다.\""
           }
         ]
       }
     },
     {
-      "id": "games-seed-ai-society",
+      "id": "games-twitch-ai-optout",
       "eyebrow": "AI NEWS",
-      "headline": "모두 로그아웃한 뒤에도 도시는 돌아간다\nSEED를 굴리는 AI 주민 수천 명",
-      "body": "캐릭터마다 자기만의 지식 그래프를 쌓아서, 같은 사건도 누가 보고 들었느냐에 따라 다르게 남는다.",
-      "mini_headline": "로그아웃해도 도시는 산다",
+      "headline": "Twitch가 방송을 기본값으로\nAmazon AI 학습에 넣었다",
+      "body": "Twitch가 스트림과 채팅을 기본으로 Amazon의 AI 학습에 넣자, 스트리머들이 해제 방법과 aioptedout 태그를 퍼뜨린다.",
+      "mini_headline": "AI 학습, 기본은 켜짐",
       "tool": "Games",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227",
       "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "어제 Twitch 스트리밍 커뮤니티는 자기 콘텐츠가 Amazon의 AI 모델 학습에 쓰인다는 사실을 알게 됐다. 알게 된 경로가 썩 떳떳하지 않았다. Twitch는 정식으로 공지하고 크리에이터에게 허용 여부를 묻는 대신, 스트리머 계정에서 이 기능을 기본으로 켜 두고 끄는 옵션은 플랫폼 보안 설정 깊숙한 곳에 조용히 묻어뒀다."
+          },
+          {
+            "t": "img",
+            "src": "https://kotaku.com/app/uploads/2023/12/6148c6a04be14bf3f0811b1506446a1b.jpg",
+            "cap": "이미지: Twitch / Shutterstock"
+          },
+          {
+            "t": "p",
+            "x": "AI 학습 프로그램을 설명하고 커뮤니티의 질문과 우려에 답하는 라이브 방송에서, Twitch 최고제품책임자 Mike Minton은 왜 옵트인이 아니라 옵트아웃이냐는 물음에 놀랄 만한 답을 내놨다. \"옵트인이었으면 아무도 안 켰을 겁니다. 음, 솔직히 그게 답입니다. 그래서 기본으로 켜지는 겁니다.\""
+          },
+          {
+            "t": "p",
+            "x": "게이머는 생성형 AI를 싫어한다. 게임을 만드는 사람도 싫어한다. 그리고 게임을 하며 방송하는 스트리머도 싫어한다는 사실을 Twitch는 실시간으로 확인하는 중이다. 소셜미디어에는 자기 콘텐츠가 AI 학습에 쓰인다는 것, 그것도 기본으로 켜져 있다는 것에 화가 난 스트리머들의 글이 넘친다. 존재조차 모르는 설정을 끌 사람은 없으니 기만적이라는 말이 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "스트리머들은 가능한 방식으로 맞선다. 가장 큰 방식은 지금 무슨 일이 벌어지는지, 그리고 그 설정을 어디서 끄는지 서로 알리는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "성가신 대목은 옵트아웃이 자기 채널에만 먹힌다는 점이다. 내 채널에서 껐더라도 설정을 끄지 않은 다른 스트리머의 채팅방에 들어가면 거기서 오간 말은 AI 학습에 쓰인다. 그래서 스트리머들은 \"aioptedout\"이라는 태그를 만들어 채팅해도 안전한 채널임을 알리기 시작했다."
+          },
+          {
+            "t": "p",
+            "x": "Twitch 피드백 포럼도 창구가 됐다. \"Creators and Stream Features\" 항목의 최다 득표 제안은 \"모든 AI 기능을 선택 사항으로 만들고 기본은 옵트아웃으로\"다. 기사 작성 시점 기준 15,714표가 모였다. AI가 어디에나 있는 시대지만, 적어도 게임 커뮤니티에서는 플레이어들이 이건 아니라고 크게 말하는 중이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "games-relu-mimesis-ai-design",
+      "eyebrow": "AI NEWS",
+      "headline": "AI로 빨리 만들지 말고\n새로운 재미를 만들어라",
+      "body": "ReLU Games는 AI를 도구가 아니라 게임의 새 문법으로 놓고, 사내에 플레이 가능한 Seed를 114건 공개했다.",
+      "mini_headline": "AI 게임 디자인의 실물",
+      "tool": "Games",
+      "source": "4Gamer",
+      "url": "https://www.4gamer.net/games/898/G089803/20260807066/",
+      "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "EVE Online에서 출발한 Klang의 시뮬레이션 게임 SEED는 AI 캐릭터가 플레이어의 접속과 무관하게 계속 살고 일하며 사회를 만들어간다. 자체로 만든 추론 파이프라인이 이를 떠받친다."
-          },
-          {
-            "t": "p",
-            "x": "수십 년 동안 MMORPG는 한 가지 한계 위에 서 있었다. 플레이어가 접속해 있을 때만 세계가 살아난다. 도시는 밤이면 유령 도시가 되고, NPC는 누군가 다음 퀘스트를 눌러주기를 기다린다. Klang Games의 사회 시뮬레이터 SEED는 그 전제를 흔들려 한다. AI 캐릭터 수천이 하루 24시간 살고 일하고 짓고 어울리는 지속형 세계다."
+            "x": "KRAFTON JAPAN이 2026년 8월 5일 도쿄에서 토크 이벤트 \"KRAFTON × ReLU Games 개발 토크\"를 열었다. KRAFTON 산하 크리에이티브 스튜디오 ReLU Games의 스태프가 AI를 게임 개발에 쓰는 방식과, 그 사례인 PC 호러 게임 MIMESIS의 개발을 다루는 세션을 진행했다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/af/6a7393c162e8a.jpg",
-            "cap": "이미지: Klang Games"
+            "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/001.jpg",
+            "cap": "MIMESIS"
           },
           {
             "t": "p",
-            "x": "구상의 뿌리는 EVE Online 초기까지 거슬러 올라간다. \"거기서 우리는 여전히 게임의 미래라고 믿는 무언가를 봤다. EVE에는 방대한 생태계가 있지만, 동시에 역사상 가장 하드코어한 게임 중 하나이기도 하다. 그래서 묻기 시작했다. 수백만 명을 품으면서도 다가가기 쉬운 놀이터는 어떤 모습일까.\" Klang CEO Mundi Vondi의 말이다."
+            "x": "MIMESIS는 플레이어를 흉내 내는 AI와 맞서는 4인 협동 호러 게임이다. 핵심은 \"믿을 수 없는 존재와의 협력\"으로, 살아남으려면 동료와 손잡아야 하지만 옆에 있는 동료가 사람이 아닐지도 모른다는 딜레마와 마주한다. AI로 행동하는 NPC MIMESIS는 플레이어의 움직임과 목소리를 실시간으로 모방해 동료들 사이로 자연스럽게 스며든다. 이 작품은 2025년 10월 얼리 액세스 이후 Steam에서 200만 장을 팔았다."
           },
           {
             "t": "p",
-            "x": "그 물음이 SEED의 토대가 됐다. 플레이어는 아바타를 직접 조종하는 대신 AI가 움직이는 \"Seedling\"을 돌본다. 이 캐릭터는 관계를 맺고 직업을 갖고 가정을 꾸린다. 도시는 플레이어가 짓지만, 굴러가게 하는 쪽은 자율 캐릭터다."
+            "x": "AI Creative 팀 리더 이기문 씨의 세션 \"일주일에 3~4개의 프로토타입이 나오는 스튜디오\"에서는 스튜디오의 AI 활용법이 소개됐다. 과거 인터넷이 온라인 게임을 낳고 스마트폰이 모바일 게임에 새 경험을 가져왔듯 AI도 게임에 새로운 문법을 내놓는다고 이 스튜디오는 봤다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/21/6a739403db220.jpg",
-            "cap": "이미지: Klang Games"
+            "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/002.jpg",
+            "cap": "이기문 씨"
           },
           {
             "t": "p",
-            "x": "\"캐릭터마다 우리가 지식 그래프라 부르는 것이 있고, 그건 그 캐릭터만의 것이다. 한 캐릭터가 다른 캐릭터를 사랑하게 됐다면, 그 감정이 되돌아오지 않는 한 오직 그 캐릭터의 관점에서만 참이다.\" 80LV와의 인터뷰에서 Vondi가 한 설명이다. 그래프는 오로지 경험으로 만들어져서, 각자 보거나 전해 들은 것에 따라 같은 사건도 다르게 남는다."
+            "x": "다만 지금 세상에서 AI는 주로 도구로만 쓰인다. 카메라를 다루려면 렌즈와 광학 지식이 필요하지만 그것만으로 좋은 영화가 나오지는 않는다. 좋은 영화를 만들려면 좋은 이야기를 짜는 법을 배워야 한다. AI와 게임 개발도 마찬가지라서, AI를 어떻게 써야 게임에 새로운 재미가 생기는지, 곧 \"AI 게임 디자인\"을 고민해야 한다는 것이 이기문 씨의 이야기다."
           },
           {
             "t": "p",
-            "x": "이 비대칭이 창발하는 드라마를 만든다. 한 캐릭터가 다른 캐릭터에게 그의 어머니가 죽었다고 거짓말을 한다. 나중에 죽었다던 여인이 마을을 걸어가는 모습을 마주치자, AI는 스스로 앞뒤를 맞춰 모순을 알아채고 속았다는 사실을 깨닫고 관계를 바꾼다."
+            "x": "ReLU Games는 원칙 세 가지를 세웠다. 첫째, 바텀업으로 많은 결과물을 만든다. 스태프 누구나 게임을 직접 만들고 배포하고 고친다. 둘째, 아이디어가 아니라 Seed에서 시작한다. 기획서 대신 재미를 실제로 플레이해 확인하는 프로토타입 \"Seed\"를 만든다. 셋째, 직무의 경계를 넘어 문제 해결에 집중한다."
+          },
+          {
+            "t": "p",
+            "x": "세 원칙을 굴리려고 ReLU Games는 자체 도구 \"Nolan\"을 만들었다. 스태프가 만든 Seed의 소스 코드를 올리면 AI가 누구나 플레이할 상태로 만들어 공개한다. 그것을 해 본 다른 스태프는 어디를 고치면 좋을지 코멘트하는 데서 그치지 않고, AI 에이전트로 소스 코드 개선까지 시도한다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/76/6a7393d022963.png",
-            "cap": "이미지: Klang Games"
+            "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/004.jpg",
+            "cap": "Nolan의 작업 흐름"
           },
           {
             "t": "p",
-            "x": "Klang은 상용 AI API에 기대는 대신 Google의 오픈소스 모델 Gemma를 바탕으로 자체 추론 파이프라인을 만들었다. \"Gemma를 기반으로 우리가 직접 고친 모델을 우리 하드웨어에서 돌린다. 캐릭터마다 어마어마한 지식 그래프가 쌓이는데, 전부 메모리에 올려두지 않고도 계속 자랄 수 있게 효율적으로 저장한다.\""
+            "x": "중요한 대목은 Nolan에서 AI가 하는 일이 소스 코드를 빌드하고 배포하는 것뿐이고, 개선안 자체는 사람이 생각한다는 점이다. 빌드와 배포를 AI에 맡기니 서버 엔지니어의 손을 빌릴 일이 줄고, 스태프 각자가 짧은 시간에 더 많은 Seed를 공개한다. 사내에 공개된 Seed는 114건에 이르며, 모두 AI 에이전트 스페셜리스트 한 명이 5일 안에 만든 것이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/014.jpg",
+            "cap": "안재홍 씨"
           },
           {
             "t": "p",
-            "x": "시뮬레이션은 대화에서 한참 더 나아간다. 캐릭터는 월급을 받고 돈을 쓰고 식당에 가고 치료를 받는다. 보통 게임에서는 식당을 지어도 알아서 밥을 먹으러 오는 손님이 없지만 Seedling은 온다. 주인이 접속하지 않은 시간이 대부분이라서다."
+            "x": "MIMESIS 디렉터 안재홍 씨의 세션 \"묻힐 뻔한 프로토타입은 어떻게 200만 장 게임으로 다시 태어났나\"는 그 과정을 다뤘다. 프로토타입 \"도플갱어\"는 플레이어 3명이 도플갱어 3체와 겨루는 하드코어 탈출 액션이었다. 테스트 플레이 피드백은 주로 부정적이었다. 새 AI 기술이 들어간 건 알겠지만 게임 자체가 재미없다거나, AI 기술 없이도 만들 수 있지 않냐는 평이었다. 2024년 8월 개발 중단이 결정됐다. 안재홍 씨는 한정된 자원 속에서 \"빠른 판단이 없었다면 같은 콘셉트에 많은 시간을 썼을 것\"이라고 말했다."
           },
           {
             "t": "p",
-            "x": "초기 플레이테스트에서는 한 플레이어가 시뮬레이션 전체에서 생산되는 빵을 거의 다 사들여 평소의 100배 가격에 되팔았다. 게임 속 정부가 거대한 빵 공장을 지어 맞섰지만 그 생산량까지 전부 사들이자, 결국 대통령이 어마어마한 빵세를 매겨 독점을 무너뜨렸다. \"커뮤니티는 정부가 권한을 넘어섰다고 봤고, 대통령은 다음 선거에서 졌다.\""
+            "x": "이후 Steam에서 코믹한 요소를 얹은 협동 호러가 인기라는 점에 주목했다. 이 장르에는 플레이어의 실패를 함께 웃는 문화가 있다. 여기서 모방이라는 아이디어가 떠올랐다. 전투가 아니라 동료의 움직임과 목소리를 흉내 내 다른 플레이어가 진짜 동료인지 몬스터인지 의심하게 만드는 것이 새로운 재미가 된다고 봤다. 데모는 3개월 만에 나왔고, 2025년 1월 Steam Next Fest에서 전 세계에서 가장 많이 플레이된 데모 4위에 올랐다."
           },
           {
             "t": "p",
-            "x": "SEED는 한 가족을 돌보는 케어테이커, 사업을 굴리는 기업가, 사회를 운영하는 통치자라는 세 유형을 놓고 설계됐다. \"서른다섯 살도 다시 이길 수 있는 MMO를 만드는 것이 우리가 늘 하고 싶었던 일이다.\" SEED는 얼리 액세스로 나와 있다."
+            "x": "대규모 언어 모델 이야기도 나왔다. 이기문 씨는 행동 파트와 음성 파트가 나뉘어 있다고 설명했다. 행동 분석에는 4000개가 넘는 정보가 신경망에 들어가서 LLM에는 맞지 않고, MIMESIS는 특유의 정보만 다루니 큰돈을 들인 LLM은 필요 없다고 했다. 음성 파트는 합성이 아니라 녹음한 목소리를 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "앞으로는 대형 업데이트 MIMESIS 3.0에서 플레이어가 게임 전체를 의심하게 만드는 확장을 노린다. 이기문 씨는 2026년 안에 한 타이틀을 더 내놓을 예정이며 \"오버히어링 AI\" 같은 새 기술 활용도 검토한다고 말했다."
           }
         ]
       }
     },
     {
-      "id": "games-unreal-runtime-inference",
+      "id": "games-deanbeat-external-devs",
       "eyebrow": "AI NEWS",
-      "headline": "실시간 추론을 게임에 넣을 때\n관건은 메모리와 런타임 효율",
-      "body": "Unreal Fest Chicago 2026 강연에서 Databiomes와 AMD가 오프라인 학습 모델을 실시간 실행에 맞추는 방법을 짚었다.",
-      "mini_headline": "프레임 예산 안의 AI",
+      "headline": "AAA를 실제로 만드는 외주사는\nAI를 어떻게 쓰게 될까",
+      "body": "Dean Takahashi는 AAA 아트와 제작을 떠받치는 외주·공동개발 스튜디오가 AI 도구를 어떻게 쓸지 묻는다.",
+      "mini_headline": "외주 스튜디오와 AI",
       "tool": "Games",
-      "source": "Unreal Engine (YouTube)",
-      "url": "https://www.youtube.com/watch?v=BFfebAtBLfU",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "BFfebAtBLfU"
-          },
-          {
-            "t": "p",
-            "x": "게임이 실시간 추론을 점점 더 받아들이면서, 메모리 사용량과 런타임 효율이 모델 자체의 품질만큼 중요해졌다."
-          },
-          {
-            "t": "p",
-            "x": "Unreal Fest Chicago 2026에서 녹화된 이 강연은 Databiomes가 AI 모델을 실제 게임 런타임에서 쓸 수 있도록 최적화해 온 과정을 다룬다. 충실도와 성능, 에너지 효율, 플랫폼 제약 사이의 균형을 AMD와 긴밀히 협업하며 잡아왔다."
-          },
-          {
-            "t": "p",
-            "x": "Databiomes와 AMD는 오프라인에서 학습한 모델을 Unreal Engine의 실시간 실행에 옮기며 얻은 교훈을 짚는다. 메모리 압박을 줄이는 전략, 지연을 낮추는 방법, CPU와 GPU와 NPU를 아우르는 폭넓은 하드웨어로 확장하는 방법이 여기 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "AMD의 기술과 플러그인이 런타임 비용을 더 아끼는 데 어떻게 도움이 되는지도 함께 보여준다. 현실의 성능과 메모리 예산 안에 들어가는 AI 기능을 만들자는 이야기다. 지금 게임에 AI를 실어 보내려면 무엇이 필요한지가 강연을 보고 나면 또렷해진다."
-          },
-          {
-            "t": "p",
-            "x": "Unreal Engine 채널이 2026년 8월 7일에 올렸고, 길이는 33분 남짓이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-zhong-kui-no-ai",
-      "eyebrow": "AI NEWS",
-      "headline": "\"설계와 에셋 단계에선 AI를 피한다\"\nBlack Myth 속편이 그은 선",
-      "body": "Game Science 아트 디렉터 Yang Qi는 저항이 아니라 끝까지 자리를 지키려는 선택이라고 적었다.",
-      "mini_headline": "설계와 에셋엔 AI 없이",
-      "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/action-rpg/black-myth-wukong-sequel-isnt-using-ai-because-the-devs-were-inspired-by-the-odyssey-and-christopher-nolans-filmmaking-techniques-no-rush/",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/a-question-for-the-industry-how-will-external-developers-use-ai-tools-the-deanbeat/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "Game Science는 Black Myth: Zhong Kui를 만들며 시간을 넉넉히 쓰고 있다."
-          },
-          {
-            "t": "p",
-            "x": "Weibo에서 Black Myth 시리즈의 아트 디렉터이자 Game Science 공동 창업자인 Yang Qi가 개발 속도를 올리는 데 AI를 쓸 거냐는 팬의 질문에 답했다. \"설계와 에셋 단계에서는 AI 생성 콘텐츠를 멀리하겠다.\" Reset Era 이용자가 옮긴 번역에 따르면 그는 이렇게 말했다. \"저항해서가 아니라, 그저 끝까지 우리 자리를 지키려 할 뿐이다.\""
+            "x": "\"요즘 곱씹는 질문이 하나 있다. 외부 개발사는 고객인 게임 개발·퍼블리싱 회사를 위해 AI 도구를 어떻게 쓰게 될까.\" Dean Takahashi가 8월 8일 자 칼럼 The DeanBeat을 이렇게 열었다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/GEb56f3tQ68JQjKBgKXBUi-1920-80.jpg",
-            "cap": "이미지: Game Science"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/06/halo-sword.jpg",
+            "cap": "Halo Campaign Evolved의 마스터 치프. 출처: Microsoft"
           },
           {
             "t": "p",
-            "x": "그는 자기 생각을 더 풀어놓으려고 Nolan의 최신 대작 The Odyssey를 끌어왔다. \"디지털 영화 제작과 3D 후반 작업이 막다른 길에 닿은 듯한 시기에, Nolan을 보라.\" Qi가 썼다."
-          },
-          {
-            "t": "video",
-            "yt": "ZygQP-U3MtM"
+            "x": "그가 든 사례는 Microsoft다. 7월 초 Microsoft가 1600명을 해고하고 1600명(혹은 1250명)을 더 줄이겠다고 했을 때, Takahashi는 그 여파로 일자리를 잃은 외부 개발자를 인터뷰했다. Microsoft 소속도 아닌 개발자에게 해고 결정의 그림자가 드리운 셈이다."
           },
           {
             "t": "p",
-            "x": "\"그는 잘나가고 있다. 더 오래된 기법까지 써서 판을 흔든다.\" 그가 이어 말했다. \"우리가 반드시 잡아야 할 '막차' 같은 건 없다. 잠시 작은 여관에 머물러도 된다. 게다가 AI 같은 것에는 시간이 충분하다. 급할 것 없다.\""
+            "x": "칼럼은 AAA 아트와 제작 파이프라인을 떠받치는 아웃소싱·공동개발 스튜디오가 생태계 축소 속에서 퍼블리셔 고객을 위해 AI 도구를 실제로 어떻게 배치할지 묻는다. 질문의 방향도 \"AI가 개발자를 대체할까\"에서 \"작업이 외부에 있을 때 파이프라인은 누구의 것인가\"로 옮겨간다."
           },
           {
             "t": "p",
-            "x": "반가운 이야기다. 생성형 AI와 챗봇 같은 기술이 업계에서 점점 흔해지고 있어서다. Tomb Raider: Legacy of Atlantis와 Call of Duty: Black Ops 7, Kingdom Hearts는 어떤 형태로든 생성형 AI 에셋을 썼다고 확인됐거나 의심받는 세 사례이고, 모두 상당한 반발을 샀다."
-          },
-          {
-            "t": "p",
-            "x": "Stellar Blade: Blood Rain도 홍보의 일부로 AI 뮤직비디오를 썼고, 크리에이티브 디렉터는 이 기술이 한국 게임 개발 현장에 꼭 필요하다고 본다. Game Science가 그 흐름을 버티고 사람이 이끄는 창작에만 기대는 모습은 반갑다."
-          },
-          {
-            "t": "p",
-            "x": "다만 나중에는 공정에 들어올 수도 있다는 여지는 여전히 걸린다. Stellar Blade를 둘러싼 부정적 반응이 Game Science를 적절히 말려주기를 바랄 뿐이다."
+            "x": "본문 나머지는 GamesBeat의 유료 멤버십 GB MAX 전용이라 여기까지만 옮긴다."
           }
         ]
       }
     },
     {
-      "id": "games-gamescom-dev-survey",
+      "id": "games-supergirl-concept-art-ai",
       "eyebrow": "AI NEWS",
-      "headline": "팀 구조와 생산성이 먼저 바뀐다\nGamescom Dev 강연자 설문",
-      "body": "강연자 100명 가운데 절반 가까이가 앞으로 3년의 최대 흐름으로 AI 지원 개발을 꼽았다.",
-      "mini_headline": "팀이 줄기보다 바뀐다",
+      "headline": "Supergirl 비하인드 영상이\n조용히 비공개로 내려갔다",
+      "body": "Lobo 콘셉트 아트에 생성형 AI를 쓴 정황이 보인다는 지적이 퍼지자, DC가 비하인드 영상을 비공개로 돌렸다.",
+      "mini_headline": "콘셉트 아트가 문제였다",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity",
+      "source": "TheGamer",
+      "url": "https://www.thegamer.com/supergirl-ai-controversy-lobo-concept-art-dc/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -271,44 +233,40 @@
         "blocks": [
           {
             "t": "p",
-            "x": "응답자 절반 가까이가 앞으로 3년 동안 업계에서 가장 큰 흐름으로 AI 지원 개발을 꼽았다."
+            "x": "Supergirl 제작 과정을 담은 비하인드 영상이 급히 내려갔다. 사람들 마음을 사는 데 실패했기 때문이다. 크루의 솜씨를 보여주기는커녕, 모두의 시선이 영상 속 한 장면에 쏠렸다. 등장인물 한 명의 콘셉트 아트를 팀이 AI로 만든 것으로 보이는 대목이다."
           },
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg",
-            "cap": "이미지: Gamescom"
+            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/lobo-in-the-supergirl-movie-he-is-riding-on-a-motorbike-and-cheering.png",
+            "cap": "Supergirl 속 로보"
           },
           {
             "t": "p",
-            "x": "Gamescom Dev가 해마다 내는 강연자 설문 결과를 공개했다. 응답자의 83%가 AI가 팀 구조나 생산성에 영향을 준다고 봤다."
+            "x": "문제의 장면에서는 크루 몇 명이 Jason Momoa가 연기한 로보의 여러 버전을 들여다본다. 정성껏 그린 콘셉트 아트를 두고 고민하는 대신, Momoa의 얼굴에 이런저런 디자인 아이디어를 얹어 AI로 뽑아낸 그림처럼 보인다. 이것이 창작 과정의 일부였을지 모른다는 사실에 반가워하는 사람은 거의 없다."
           },
           {
             "t": "p",
-            "x": "설문에 참여한 강연자 100명 가운데 절반 가까이가 앞으로 3년의 가장 중요한 업계 흐름으로 AI 지원 개발을 지목했다. 그다음은 하드웨어와 램 가격 28%, 크리에이터 이코노미 7%, 이용자 제작 콘텐츠 5% 순이었다."
+            "x": "영상은 새 Supergirl 영화에서 로보라는 인물을 어떻게 구현했는지에 초점을 맞췄다. 다만 공식 업로드본은 이제 볼 수 없다. 비공개로 전환됐다."
           },
           {
             "t": "p",
-            "x": "개발에 AI를 최소한만 쓰고 싶다는 응답은 30%로, 지난해 33%에서 내려갔다. 반대로 34%는 코드와 프로덕션이 AI 지원으로 가장 크게 덕을 본다고 답했다."
+            "x": "영상 속 한 토막이 온라인에 널리 퍼진 뒤의 일이다. 그 클립에서는 크루가 로보 디자인의 한 요소를 정하려고, AI로 만든 것이 분명해 보이는 콘셉트 아트를 살펴본다. 생성형 AI가 Supergirl 제작 근처에 있었다는 데 실망과 분노를 쏟아낸 사람이 많았다."
           },
           {
             "t": "p",
-            "x": "일자리 쪽으로 오면 36%가 팀 규모가 줄기보다 역할이 바뀐다고 봤고, 33%는 팀이 작아진다고 예상했다. 14%는 개인 산출이 늘어난다고 답했으며, 17%는 인력 감축이 없으리라 봤다."
+            "x": "다른 데서 쓰인 흔적을 본 것은 아니지만, 이번 일로 영화의 다른 영역에도 의심이 붙었다. 콘셉트 아트에만 한정됐다 해도 다른 인물이 같은 대접을 받았을 여지는 남는다. 아주 초기 작업은 사람 손이었고 마무리 디자인에만 AI를 썼을 수도 있는데, 그래도 실망스럽기는 마찬가지다. 영화 제작은 사람의 창의만으로도 잘만 굴러왔다. 코믹북 영화에 AI 레퍼런스가 필요하다고 우기기도 어렵다."
           },
           {
             "t": "p",
-            "x": "업계의 가장 큰 난관으로는 절반이 넘는 응답자가 경기 불확실성을 꼽았다. 시장 포화 38%, 발견 가능성 35%, 개발비 상승 30%가 뒤를 이었다."
+            "x": "AI 백래시가 영상을 내리게 한 이유라고 확인된 바는 없다. 그래도 가장 그럴듯한 원인이기는 하다. 어차피 영상에서 가장 주목받은 부분이 그곳이었다. 그렇다면 이제 어떻게 할까. 그 부분을 빼고 다시 올릴까. 그러기엔 늦었다. 생성형 AI를 어떻게 썼는지 설명하는 성명이 나올 가능성이 더 커 보이고, 소동이 가라앉으면 영상은 조용히 다시 공개될 것이다."
           },
           {
             "t": "p",
-            "x": "발견 가능성을 개선할 방법으로는 플랫폼 알고리즘의 투명성 확대 32%, 더 나은 스토어 추천 22%, 큐레이션된 편집 기사 확대 21%가 꼽혔다."
+            "x": "영국 시간 오후 10시 25분 기준으로 기사에 수정이 붙었다. 생성형 AI 사용은 확정이 아니라 의심 단계라는 내용이다."
           },
           {
             "t": "p",
-            "x": "앞날의 기회로는 37%가 더 작아진 개발팀을 들었고, 커뮤니티 구축과 새로운 퍼블리싱 모델이 각각 15%로 뒤따랐다."
-          },
-          {
-            "t": "p",
-            "x": "앞으로 3년 시장을 어떤 사업·수익 모델이 지배할지를 두고는 의견이 갈렸다. 디지털과 패키지 프리미엄 게임이 29%로 가장 높았고, 라이브 서비스 24%, 아이템 판매형 부분 유료화 21%가 뒤를 이었다."
+            "x": "분명한 것 하나는 남는다. 대형 스튜디오가 AI 슬롭을 정상으로 만들기에는 아직 갈 길이 멀다."
           }
         ]
       }

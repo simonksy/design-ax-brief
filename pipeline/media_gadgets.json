@@ -1,41 +1,32 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-infimaker-k1",
-      "type": "image",
-      "src": "pipeline/media/gadgets-infimaker-k1.jpg",
-      "source_url": "https://www.androidauthority.com/wp-content/uploads/2026/07/InfiMaker-K1-CNC-machine-scaled.jpg",
-      "origin": "in-article lead image"
+      "id": "gadgets-honor-robot-phone",
+      "type": "video",
+      "src": "pipeline/media/gadgets-honor-robot-phone.mp4",
+      "poster": "pipeline/media/gadgets-honor-robot-phone.jpg"
     },
     {
-      "id": "gadgets-local-llm-igpu",
+      "id": "gadgets-pixel-11-tensor-g6-tpu",
       "type": "image",
-      "src": "pipeline/media/gadgets-local-llm-igpu.jpg",
-      "source_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/running-same-llm-on-rtx-5070-and-integrated-graphics.jpg",
-      "origin": "in-article lead image"
+      "src": "pipeline/media/gadgets-pixel-11-tensor-g6-tpu.jpg"
     },
     {
-      "id": "gadgets-windows11-ai-unbundle",
+      "id": "gadgets-matic-cues-voice",
       "type": "image",
-      "src": "pipeline/media/gadgets-windows11-ai-unbundle.jpg",
-      "source_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-Patch-Tuesday47.jpg",
-      "origin": "og:image (article HTML images lazy-loaded, none extractable)"
+      "src": "pipeline/media/gadgets-matic-cues-voice.jpg"
     },
     {
-      "id": "gadgets-abbott-lingo-google-health",
+      "id": "gadgets-ray-ban-meta-vision-ireland",
       "type": "image",
-      "src": "pipeline/media/gadgets-abbott-lingo-google-health.jpg",
-      "source_url": "https://www.engadget.com/img/gallery/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/intro-1786473283.jpg",
-      "origin": "in-article lead image"
+      "src": "pipeline/media/gadgets-ray-ban-meta-vision-ireland.jpg"
     },
     {
-      "id": "gadgets-ios27-siri-voice",
+      "id": "gadgets-google-health-ai-hallucination",
       "type": "image",
-      "src": "pipeline/media/gadgets-ios27-siri-voice.jpg",
-      "source_url": "https://images.macrumors.com/article-new/2026/08/ios-27-siri-voice.jpg",
-      "origin": "in-article lead image (full-res, thumbnail crop stripped)"
+      "src": "pipeline/media/gadgets-google-health-ai-hallucination.jpg"
     }
   ]
 }

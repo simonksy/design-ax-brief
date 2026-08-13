@@ -1,57 +1,32 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "design",
   "media": [
     {
-      "id": "design-figma-make-time-savings",
-      "kind": "image",
+      "id": "design-figma-skills",
       "type": "image",
-      "src": "pipeline/media/design-figma-make-time-savings.jpg",
-      "source": "in-article",
-      "origin": "https://cdn.sanity.io/images/599r6htc/regionalized/121c4ffabf507588adc72768f9cae241dbfc636f-3264x2176.jpg?w=1600&q=80&fit=max&auto=format",
-      "width": 1600,
-      "height": 1066
+      "src": "pipeline/media/design-figma-skills.png"
     },
     {
-      "id": "design-alien-no-mesh-shader",
-      "kind": "video",
+      "id": "design-onshape-featurescript-mcp",
+      "type": "image",
+      "src": "pipeline/media/design-onshape-featurescript-mcp.jpg"
+    },
+    {
+      "id": "design-eu-ai-labelling",
+      "type": "image",
+      "src": "pipeline/media/design-eu-ai-labelling.jpg"
+    },
+    {
+      "id": "design-toolbag-503",
       "type": "video",
-      "src": "pipeline/media/design-alien-no-mesh-shader.mp4",
-      "poster": "pipeline/media/design-alien-no-mesh-shader.jpg",
-      "source": "in-article-embed",
-      "origin": "https://x.com/DrinLajci/status/2085417424283648053",
-      "clip": { "start": 0.8, "window": 14, "speed": 1.75, "duration": 8.0, "width": 1108, "height": 720 }
+      "src": "pipeline/media/design-toolbag-503.mp4",
+      "poster": "pipeline/media/design-toolbag-503.jpg"
     },
     {
-      "id": "design-lottie-tactile-ux",
-      "kind": "image",
+      "id": "design-vision-pro-webxr-sim",
       "type": "image",
-      "src": "pipeline/media/design-lottie-tactile-ux.png",
-      "source": "in-article",
-      "origin": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/01-intro.png",
-      "width": 1600,
-      "height": 1200
-    },
-    {
-      "id": "design-apple-mlb-immersive",
-      "kind": "image",
-      "type": "image",
-      "src": "pipeline/media/design-apple-mlb-immersive.jpg",
-      "source": "in-article",
-      "origin": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?fit=1800%2C1200&quality=89&ssl=1",
-      "width": 1600,
-      "height": 1066
-    },
-    {
-      "id": "design-artstation-sketchfab-sale",
-      "kind": "image",
-      "type": "image",
-      "src": "pipeline/media/design-artstation-sketchfab-sale.jpg",
-      "source": "in-article",
-      "origin": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc.webp",
-      "note": "webp converted to jpg",
-      "width": 1280,
-      "height": 720
+      "src": "pipeline/media/design-vision-pro-webxr-sim.jpg"
     }
   ]
 }

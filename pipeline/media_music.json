@@ -1,57 +1,32 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "music",
   "media": [
     {
-      "id": "music-daddario-ai-admission",
-      "kind": "video",
+      "id": "music-suno-studio-2",
+      "type": "image",
+      "src": "pipeline/media/music-suno-studio-2.jpg"
+    },
+    {
+      "id": "music-beatport-ai-ban",
+      "type": "image",
+      "src": "pipeline/media/music-beatport-ai-ban.jpg"
+    },
+    {
+      "id": "music-spotify-ai-persona",
+      "type": "image",
+      "src": "pipeline/media/music-spotify-ai-persona.jpg"
+    },
+    {
+      "id": "music-tonex-2-player",
       "type": "video",
-      "src": "pipeline/media/music-daddario-ai-admission.mp4",
-      "poster": "pipeline/media/music-daddario-ai-admission.jpg",
-      "source": "in-article-embed",
-      "origin": "https://www.youtube.com/watch?v=22iRLD7yvsw",
-      "clip": { "start": 42, "window": 14, "speed": 1.75, "duration": 8.0, "width": 1280, "height": 720 }
+      "src": "pipeline/media/music-tonex-2-player.mp4",
+      "poster": "pipeline/media/music-tonex-2-player.jpg"
     },
     {
-      "id": "music-omni-rust-daw",
-      "kind": "video",
-      "type": "video",
-      "src": "pipeline/media/music-omni-rust-daw.mp4",
-      "poster": "pipeline/media/music-omni-rust-daw.jpg",
-      "source": "in-article-embed",
-      "origin": "https://www.youtube.com/watch?v=ZETNTQjv40I",
-      "clip": { "start": 38.8, "window": 14, "speed": 1.75, "duration": 8.0, "width": 1280, "height": 720 }
-    },
-    {
-      "id": "music-suno-vinyl",
-      "kind": "image",
+      "id": "music-ia-de-esser",
       "type": "image",
-      "src": "pipeline/media/music-suno-vinyl.jpg",
-      "source": "in-article",
-      "origin": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-08/Suno.jpg.webp",
-      "note": "source was webp; converted to jpg",
-      "width": 961,
-      "height": 540
-    },
-    {
-      "id": "music-push-hack",
-      "kind": "image",
-      "type": "image",
-      "src": "pipeline/media/music-push-hack.jpg",
-      "source": "in-article",
-      "origin": "https://cdm.link/app/uploads/2026/08/hackpushcolors.jpg",
-      "width": 1600,
-      "height": 900
-    },
-    {
-      "id": "music-soundid-cpop-voices",
-      "kind": "image",
-      "type": "image",
-      "src": "pipeline/media/music-soundid-cpop-voices.jpg",
-      "source": "in-article",
-      "origin": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
-      "width": 620,
-      "height": 434
+      "src": "pipeline/media/music-ia-de-esser.jpg"
     }
   ]
 }
