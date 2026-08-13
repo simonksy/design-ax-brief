@@ -1,63 +1,74 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-infimaker-k1",
+      "id": "gadgets-honor-robot-phone",
       "eyebrow": "AI NEWS",
-      "headline": "이미지 한 장을 3D 모델로 바꿔\n5축 밀링에 그대로 넘긴다",
-      "mini_headline": "CAM 없이 깎는 밀링",
-      "body": "인피메이커 K1은 평면 이미지를 AI로 3D 모델로 바꿔 5축 밀링으로 깎는다.",
+      "headline": "AI 비서에게 몸이 생겼다\nHonor 로봇폰이 나왔다",
+      "body": "360도 도는 짐벌 카메라가 피사체를 스스로 따라가는 Honor 로봇폰이 나왔다.",
+      "mini_headline": "몸을 얻은 AI 비서",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/infimaker-k1-5-axis-desktop-cnc-mill-kickstarter-3696953/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "지난 10년 동안 물건을 직접 만드는 길은 대체로 3D 프린터였다. 요즘은 CNC라 부르는 컴퓨터 수치제어 장비가 그 자리를 넘본다. 산업용에 비하면 값이 내렸고, 가공 경로를 짜는 CAM도 취미로 손댈 만해졌다. 금속과 나무, 여러 열가소성 수지까지 다루는 탁상용 밀링이 그렇게 늘었다."
+            "x": "Honor 로봇폰이 드디어 예약 판매에 들어갔다. 아직은 중국에서만이다. 이름에 붙은 '로봇'은 자동으로 튀어나오는 카메라 짐벌을 가리키는데, 사진과 영상을 찍는 사람에게는 반가운 물건이다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/InfiMaker-K1-CNC-machine-scaled.jpg",
-            "cap": "인피메이커 K1 | 자료 InfiMaker"
+            "src": "https://www.engadget.com/img/gallery/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/intro-1786556506.jpg",
+            "cap": "로봇 짐벌 카메라를 세운 Honor 로봇폰."
           },
           {
             "t": "p",
-            "x": "인피메이커 K1이 내세우는 강점은 CAD를 아예 건너뛴다는 데 있다. 평면 이미지 한 장을 AI가 깎을 수 있는 3D 모델로 바꿔준다. 탁상용 CNC에서는 4축·5축 가공을 지원하는 상용 소프트웨어가 늘 걸림돌이었는데, 그 문턱을 낮추겠다는 얘기다. STL과 STEP, OBJ 같은 표준 3D 파일도 그대로 받는다."
+            "x": "짐벌은 티타늄으로 만들었고 여러 방향으로 움직인다. 360도를 통째로 도는 것도 된다. 보통 스마트폰으로는 엄두를 못 낼 각도가 이걸로 나온다. 틸트 락, FPV 뷰, 스핀숏 같은 시네마틱 무빙 모드도 여럿 들어갔다."
           },
           {
             "t": "p",
-            "x": "가공은 5축이다. 기본 3축에 더해 대상을 기울이거나 돌리면서 깎는다. 기울기는 -30°에서 +110°까지 잡힌다. 공구 다섯 개를 갈아 끼우는 자동 공구 교환 장치와 루비 센터링 프로브도 달렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/InfiMaker-K1-models-scaled.jpg",
-            "cap": "K1으로 깎아낸 모델 | 자료 InfiMaker"
+            "x": "피사체 추적에는 AI 알고리즘이 붙었다. 카메라가 알아서 팬과 틸트를 하며 사람을 따라간다. 손짓만으로 카메라 암을 꺼내 촬영하는 제스처 조작도 된다."
           },
           {
             "t": "p",
-            "x": "스핀들은 1.5kW에 최고 2만 rpm이다. 회사는 0.01mm 반복 정밀도를 말한다. 깎을 수 있는 재료로는 아크릴과 알루미늄, 황동, 복합재, 구리, 엔지니어링 플라스틱, 옥, 레진, 강철, 티타늄, 왁스, 목재를 꼽았다."
+            "x": "카메라 사양도 만만치 않다. 후면은 2억 화소 메인 렌즈와 2억 화소 망원 렌즈를 묶은 듀얼 2억 화소 구성이다. Honor는 전문 시네마 카메라를 만드는 Arri와 손을 잡았다. AI 노이즈 저감과 넓어진 다이내믹 레인지가 여기서 나온다. 촬영 화면을 실시간으로 미리 보고 RAW로 뽑는 것도 된다."
           },
           {
             "t": "p",
-            "x": "킥스타터는 오늘 시작한다. 얼리버드 가격은 5,199달러로, 예정 소비자가 8,599달러보다 40% 낮다. 상위 후원에는 수랭 장치와 바이스 조, 무선 조그 핸드휠이 붙는다."
+            "x": "운영체제는 MagicOS다. 새로 들어간 YOYO 로봇 모드는 '멀티모달 인지, 맥락 이해, 제스처 인식, 물리적 움직임'을 한데 묶었다. 카메라 짐벌에 사람 티를 조금 입힌 셈이다. 지난 3월 시연에서 이 작은 로봇 카메라는 노래에 맞춰 춤을 췄고, 동의하듯 고개를 흔들었고, 명령에 따라 몸을 돌렸다."
+          },
+          {
+            "t": "video",
+            "yt": "HwRkf2XF-l8"
+          },
+          {
+            "t": "p",
+            "x": "Honor는 플랫폼을 외부 개발자에게 연다고 밝혔다. 짐벌과 인지, 체화된 상호작용 능력을 써서 '새로운 경험을 만드는' 서드파티가 나오리라는 기대다."
+          },
+          {
+            "t": "p",
+            "x": "물론 이건 가끔 몸을 흔드는 귀여운 카메라이기 이전에 스마트폰이다. 사양은 준수하다. Snapdragon Elite Gen 5에 전용 냉각 구조를 얹었고 배터리는 7,060mAh다. 화면은 6.3인치 OLED로 가변 주사율을 지원하며 최대 밝기는 6,800니트다."
+          },
+          {
+            "t": "p",
+            "x": "예약은 지금부터다. 12GB 램·512GB 저장 모델과 16GB 램·1TB 모델 두 가지다. 출하와 정식 판매는 8월 18일 시작한다. 앞서 적었듯 판매 지역은 아직 중국뿐이다. 달러로 환산하면 12GB 모델이 약 1,480달러, 16GB 모델이 2,075달러다. 로봇 짐벌은 역시 싸지 않다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-local-llm-igpu",
+      "id": "gadgets-pixel-11-tensor-g6-tpu",
       "eyebrow": "AI NEWS",
-      "headline": "RTX 5070이든 내장 그래픽이든\n젬마가 내놓는 답은 같았다",
-      "mini_headline": "내장 그래픽도 충분했다",
-      "body": "젬마 3 4B는 RTX 5070에서든 내장 라데온에서든 답의 질이 거의 같았다.",
+      "headline": "받아쓰기도 번역도 클라우드 없이\nTensor G6가 폰 안에서 끝낸다",
+      "body": "Tensor G6의 TPU가 연산을 50% 늘려 받아쓰기와 번역을 기기에서 끝낸다.",
+      "mini_headline": "폰 안에서 끝내는 AI",
       "tool": "Gadgets",
-      "source": "XDA Developers",
-      "url": "https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/pixel-11-tensor-g6-tpu-upgrade-explained-3696999/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -65,56 +76,59 @@
         "blocks": [
           {
             "t": "p",
-            "x": "노트북 두 대에 같은 모델을 올려봤다. 한쪽은 인텔 코어 울트라 9에 램 32GB, 엔비디아 지포스 RTX 5070을 단 레노버 리전이다. 다른 한쪽은 AMD 라이젠 7 5825U에 램 16GB, 내장 라데온만 있는 레노버 아이디어패드다."
+            "x": "새 Pixel 11 시리즈에서 하드웨어 변화를 짚어 보면 가장 눈에 띄는 건 Tensor G6의 새 TPU다. Google은 연산 성능이 50% 늘었고 일부 작업은 최대 3.5배 빨라졌다고 말한다. 숫자는 그럴듯한데, Pixel 11을 손에 쥔 사람에게 이게 무슨 뜻인지가 문제다."
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/lenovo-legion-specifications-1.jpg",
-            "cap": "RTX 5070을 단 레노버 리전 사양"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-series-hands-on-tensor-g6-4-scaled.jpg",
+            "cap": "Pixel 11 Pro XL에서 Tensor G6 정보를 띄운 DevCheck 앱."
           },
           {
             "t": "p",
-            "x": "두 대가 모두 돌릴 수 있는 모델을 일부러 골랐다. LM 스튜디오에 올린 젬마 3 4B다. 요약과 문장 다시 쓰기, 질문 답하기, 아이디어 떠올리기, 개념 설명을 시켜봤다."
+            "x": "TPU가 하는 일부터 보자. CPU가 앱을, GPU가 주로 게임을 맡는다면 TPU는 기계학습 연산을 전담한다. 내적 행렬 연산 유닛과 고속 메모리 접근을 따로 갖췄다. Pixel 안의 실질적인 AI 프로세서이고, 음성 인식과 받아쓰기, 문장 추천처럼 클라우드가 필요 없는 작업을 처리한다."
+          },
+          {
+            "t": "p",
+            "x": "TPU는 Gemini Nano만 굴리지 않는다. Tensor의 이미지 처리 파이프라인과 깊이 맞물려 나이트 사이트, 초해상 줌, 인물 분리, 영상 처리 같은 연산 사진 기능에도 쓰인다. 올해 장망원 줌이 지난해 100배에서 120배로 늘어난 배경에도 이 업그레이드가 있다. TPU가 세지면 클라우드에 딸린 비용과 지연, 프라이버시 문제 없이 더 무거운 AI 도구를 돌릴 여력이 생긴다."
+          },
+          {
+            "t": "p",
+            "x": "Pixel 11에는 새 기능도 붙었다. Gemini Nano의 응답이 더 정확하고 빨라졌다는 게 Google 설명이다. 음성을 글로 옮길 때 '음' 같은 군말을 자동으로 걷어내고, Pixel 카메라 앱은 수어를 글로 옮긴다. Magic Capture는 사진을 최대 500장 찍은 뒤 Gemini가 사진 다섯 장과 영상 한 편을 골라 준다. Live Translate는 영상과 팟캐스트, 음성 메시지를 보고 듣는 동안 원하는 언어로 옮긴다."
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gemma-3-4b-lm-studio.jpg",
-            "cap": "LM 스튜디오의 젬마 3 4B"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-series-hands-on-proactive-assistance-5-scaled.jpg",
+            "cap": "Pixel 11의 Proactive Assistance 화면."
           },
           {
             "t": "p",
-            "x": "속도는 예상대로 RTX 5070이 앞섰다. 답이 거의 즉시 떴다. 로컬에서 돌린다는 사실을 잊을 만했다."
+            "x": "Proactive Assistance는 연락처나 메시지에 흩어진 정보를 필요한 순간에 꺼내 놓는다. 일정을 놓치지 않고 메시지와 메일에 빨리 답하도록 돕는 쪽이다. 이 처리가 기기 안에서 끝나므로 데이터는 암호화된 공간에 남는다."
+          },
+          {
+            "t": "p",
+            "x": "2026년 중반부터는 외부 개발자도 LiteRT와 Google Tensor SDK 베타로 Tensor의 TPU를 직접 겨냥한다. 다만 SDK가 아직 베타라 당장 쏟아질 물건을 기대하긴 이르다. 연산이 50% 늘었다는 건 모든 앱이 50% 빨라진다는 말이 아니라, 더 크고 무거운 모델을 로컬에서 돌릴 여유가 생겼다는 쪽에 가깝다."
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/gemma-3-4b-lm-studio-nvidia-03.jpg",
-            "cap": "RTX 5070에서 돌린 젬마 3 4B"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg",
+            "cap": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL."
           },
           {
             "t": "p",
-            "x": "내장 그래픽 쪽은 사양이 말하는 것보다 나았다. 조금 더 기다려야 했을 뿐이다. 느린 속도에 적응하고 나니 하려던 일은 그대로 됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/lenovo-ideapad-specification.png",
-            "cap": "내장 라데온을 쓴 레노버 아이디어패드 사양"
-          },
-          {
-            "t": "p",
-            "x": "갈린 건 속도지 답의 질이 아니었다. 두 대가 내놓은 답은 거의 같았다. 매일 쓰는 작은 모델이라면 비싼 GPU 없이도 지금 로컬 AI를 시작할 수 있다는 게 필자의 결론이다. 가장 좋은 하드웨어는 사려고 기다리는 물건이 아니라 오늘 로컬 AI를 쓰게 해주는 물건이다."
+            "x": "한계는 분명하다. Gemini Intelligence는 여전히 일부 처리를 클라우드에서 하고, 'Banana' 이미지 생성기와 Video Boost도 클라우드 전용이다. TPU가 50% 빨라졌다고 폰이 고성능 클라우드를 대신하지는 못한다. 그래도 데이터센터에 있던 AI 연산을 손안으로 옮기는 흐름에서 Tensor G6의 TPU는 한 걸음 더 나아갔다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-windows11-ai-unbundle",
+      "id": "gadgets-matic-cues-voice",
       "eyebrow": "AI NEWS",
-      "headline": "코파일럿+ PC에서 이미지 생성 AI만\n골라서 지울 수 있게 됐다",
-      "mini_headline": "AI 부품만 골라 지운다",
-      "body": "코파일럿+ PC에서 이미지 생성 AI 구성요소만 따로 지우는 길이 열렸다.",
+      "headline": "\"Hey Matic\" 한마디에\n로봇청소기가 방마다 다르게 움직인다",
+      "body": "Matic 로봇청소기가 Gemini를 붙여 방마다 다른 청소 명령을 알아듣는다.",
+      "mini_headline": "앱을 벗어난 청소기",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Microsoft-releases-Windows-11-August-2026-Patch-Tuesday-update.1365522.0.html",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/matics-robot-vacuum-will-see-and-hear-you-now-2000798257",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -122,87 +136,101 @@
         "blocks": [
           {
             "t": "p",
-            "x": "마이크로소프트가 8월 정기 패치 KB5121003을 내놨다. 윈도우 11 24H2와 25H2가 대상이고, 빌드는 각각 26100.9165와 26200.9165로 올라간다. 7월 선택 업데이트에서 미리 보여준 개선이 이번 보안 패치에 함께 실렸다."
+            "x": "네모반듯하게 선 Matic 로봇청소기를 지난해 리뷰한 뒤로 나는 이 물건을 좋아한다고 여러 번 적었다. 소파 밑에는 못 들어가지만 그 밖의 자리에서는 설계도 성능도 좋아서, 다른 바닥 청소 로봇을 재는 잣대가 됐다. 작은 기능을 차곡차곡 채워 오던 Matic이 이번엔 음성과 제스처 조작을 얹은 큰 업데이트를 내놨다."
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-Patch-Tuesday47.jpg",
-            "cap": "윈도우 11 8월 패치 화요일 | 자료 Notebookcheck"
+            "src": "https://gizmodo.com/app/uploads/2026/08/Matic-listening.jpg",
+            "cap": "깨우는 말을 들으면 화면이 파랗게 바뀌며 듣는 중임을 알린다."
           },
           {
             "t": "p",
-            "x": "코파일럿+ PC를 쓴다면 이미지 생성 AI 구성요소만 따로 지울 수 있다. 설정 > 시스템 > AI 구성요소에서 처리한다. 로컬 AI 묶음을 통째로가 아니라 하나씩 떼어낼 길이 열린 셈이다."
+            "x": "새 입력 방식을 묶어 'Matic Cues'라 부른다. 8월 13일부터 새 펌웨어를 받은 사용자는 'Hey Matic'으로 로봇을 깨우고 자연어로 명령한다. 명령은 클라우드 서버의 Google Gemini가 해석한다. '청소 시작' 같은 간단한 말부터 '식당 러그를 청소기로 밀고 나서 침실 마룻바닥을 물걸레질해' 같은 복합 명령까지 받는다. 따라오라고 시키거나 바닥 한 곳을 가리키며 '여기 치워'라고 할 수도 있다."
           },
           {
             "t": "p",
-            "x": "윈도우 헬로의 강화된 로그인 보안은 내장 지문 인식기 밖으로 나왔다. 호환되는 외장 지문 인식기까지 지원해, 센서가 없는 데스크톱과 코파일럿+ 기기에서도 하드웨어로 격리된 인증을 쓴다. 설정 > 계정 > 로그인 옵션에서 잡는다."
+            "x": "며칠 써 봤다. 깨우는 말을 하면 로봇이 몸을 돌려 나를 보고, 화면이 파란 바탕에 'Listening…'으로 바뀐다. 아쉬운 건 따라오기였다. 모퉁이를 돌거나 의자를 지나면 나를 놓치기 일쑤였고, 사람 다리 대신 의자 다리를 쫓아가곤 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/08/Matic-Cues.jpg",
+            "cap": "음성과 제스처 조작을 묶은 Matic Cues 화면."
           },
           {
             "t": "p",
-            "x": "파일 탐색기 자세히 보기는 크기를 KB로만 적던 방식을 버렸다. 이제 KB와 MB, GB를 상황에 맞게 보여준다. 주소 표시줄이나 홈에서 폴더를 가운데 버튼으로 누르면 새 탭으로 열린다. 검색은 설치된 앱 이름의 오타를 더 잘 넘기고, 두 글자부터 찾으며, 설정 결과를 앞으로 끌어올린다."
+            "x": "나머지는 잘 됐다. 주방 바닥에 옥수수가루를, 거실 러그에 종잇조각을 뿌려 놓고 각각을 가리켜 치우라고 했다. 로봇은 나를 더 잘 보려고 뒤로 물러나거나, 물러날 자리가 없으면 화면에 글로 뒤로 좀 물러나 달라고 띄운 뒤 그 자리를 청소했다."
           },
           {
             "t": "p",
-            "x": "음성 액세스에는 주변 사람 말소리와 소음을 걸러내는 음성 분리 모드가 붙었다. 정밀 터치패드는 스크롤과 확대 속도를 조절하고, 가속 스크롤도 켤 수 있다."
+            "x": "복합 명령도 제대로 처리했다. 한 방은 청소기로 밀고 다른 방은 물걸레질하는 일을 한 번에 시킬 수 있다는 게 편했다. Matic 앱에는 방마다 청소 방식을 따로 정하는 기능이 없어서, 음성 명령이 그 기능을 처음 열어 준 셈이다."
           },
           {
             "t": "p",
-            "x": "배포는 윈도우 업데이트로 자동 진행된다. 기업은 WSUS나 인튠으로 평소처럼 단계를 밟는다. 갱신된 보안 부팅 인증서 배포도 기존 만료일에 앞서 이어진다. 윈도우 11 24H2 홈과 프로 지원은 2026년 10월 13일에 끝난다."
+            "x": "공동창업자 Mehul Nariyawala는 앱을 복잡하게 만들고 싶지 않아 그동안 넣지 않았다고 했다. \"물론 하고 싶습니다. 다만 앞으로는 모든 걸 음성 우선으로 접근하려 합니다.\""
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/08/Matic-spot-clean-1.jpg",
+            "cap": "손으로 가리킨 자리를 찾아가 치우는 Matic."
+          },
+          {
+            "t": "p",
+            "x": "걸리는 대목도 있다. 이번 기능은 인터넷 연결이 필요한 첫 Matic 기능이다. 블루투스만으로 온전히 조작된다는 점이 이 로봇의 장점이었다. Nariyawala는 로봇에 들어간 Nvidia Jetson Orin 칩의 4GB 램 안에서 음성 기능이 돌아가도록 모델을 줄이는 게 목표라고 했고, 로컬만 쓰는 쪽도 \"이득의 80%는 얻는다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "가격은 오르는 중이다. 리뷰 당시 1,095달러였던 이 로봇청소기는 부품값을 올린 관세 탓에 1,245달러가 됐고, 2026년 9월 9일 다시 1,495달러로 오른다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-abbott-lingo-google-health",
+      "id": "gadgets-ray-ban-meta-vision-ireland",
       "eyebrow": "AI NEWS",
-      "headline": "혈당 센서는 애벗이 달고\n해석은 구글 AI가 맡는다",
-      "mini_headline": "혈당을 읽는 구글 AI",
-      "body": "애벗 링고 연속혈당측정기가 구글 헬스에 붙어 헬스 코치의 AI 조언으로 이어진다.",
+      "headline": "AI 안경 1만 5000대가\n아일랜드 시각장애인에게 간다",
+      "body": "Meta가 AI 안경 1만 5000대를 아일랜드 시각장애인에게 무료로 나눠 준다.",
+      "mini_headline": "보조기기가 된 AI 안경",
       "tool": "Gadgets",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2234851/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/",
+      "url": "https://www.engadget.com/2236054/meta-donates-15000-ray-ban-meta-glasses-to-vision-ireland/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "애벗이 구글 헬스와 손잡았다. 자사 연속혈당측정기 링고를 구글 헬스 앱에 연결하는 다년 협력이다. 링고 사용자는 자기 대사 데이터를 구글 헬스에서 보고, 구글 헬스 코치가 AI로 짚어주는 생활과 식단 조언을 받는다."
+            "x": "Meta가 Ray-Ban Meta 안경 1만 5000대를 아일랜드의 시각장애인 단체 Vision Ireland에 넘긴다. 받으려면 Vision Ireland 홈페이지에서 신청해야 하지만 안경 자체는 무료다. Meta는 이 1만 5000대가 단체가 지원하는 성인 시각장애인 전원에게 돌아갈 양이라고 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/intro-1786473283.jpg",
-            "cap": "애벗 본사 간판 | 자료 Engadget"
+            "src": "https://www.engadget.com/img/gallery/meta-is-giving-away-15000-ai-glasses-to-blind-and-visually-impaired-people-in-ireland/intro-1786613090.jpg",
+            "cap": "흰 배경에 놓인 Ray-Ban Meta 안경."
           },
           {
             "t": "p",
-            "x": "링고는 인슐린을 쓰지 않는 성인을 겨냥한 기기다. 엔가젯은 2023년에도 당뇨가 없는 사람 사이에서 연속혈당측정기가 유행한다고 전했다. 다만 그 집단이 혈당을 촘촘히 들여다봐서 얻는 이득을 뒷받침하는 연구는 거의 찾지 못했다."
+            "x": "Meta의 AI 안경은 그동안 비판을 많이 받았다. 상대의 동의 없이 몰래 찍는 데 쓰일 여지가 있어서다. 녹화 중임을 알리는 LED를 꺼 주겠다는 서비스까지 나돌면서 시선이 더 나빠졌다. Meta는 LED를 손대거나 망가뜨린 안경은 카메라를 비활성화하겠다고 답했다. 여기에 Wired가 Meta AI 앱에서 얼굴 인식 도입을 검토한 정황이 담긴 코드를 찾아냈다."
           },
           {
             "t": "p",
-            "x": "존스홉킨스 블룸버그 공중보건대학원이 2026년에 낸 글도 결이 비슷하다. 당뇨가 없는 사람에게 연속혈당측정기가 건강상 이득인지는 아직 분명하지 않다. 식단을 의식하게 만드는 효과는 있지만, 당뇨가 없는 몸은 혈당이 치솟아도 알아서 되돌린다. 수치에 지나치게 매달리면 오히려 식습관을 망칠 수도 있다."
+            "x": "그럼에도 이런 안경은 시각장애인에게 큰 도움이 된다. 글자를 소리 내어 읽어 주고 주변 물체를 알려 준다. 주변 상황을 설명받으며 할 일을 더 빠르고 안전하게 끝낼 수 있다. 메시지를 읽어 달라고 한 뒤 Meta AI에 답장을 시키는 것도 된다. Meta는 Be My Eyes 네트워크와도 손을 잡아 안경으로 자원봉사자에게 전화를 걸 수 있게 했다. 봉사자는 옷을 고르거나 마트에서 원하는 우유를 찾는 일 같은 걸 도와준다."
           },
           {
             "t": "p",
-            "x": "이드리스 무갈 박사는 훈련받은 의사조차 연속혈당측정기 결과를 읽으려면 다른 지표가 더 있어야 한다고 말했다. 훈련받지 않은 사람이라면 \"해석하는 법조차 모른다. 그러니 완전히 쓸모없다\"고 했다."
-          },
-          {
-            "t": "p",
-            "x": "두 회사는 이번 협력에서 \"지금까지 나온 것 중 가장 큰 규모의 실사용 대사 건강 연구\"도 함께 진행한다. 활동과 수면, 대사 건강이 어떻게 얽히는지 들여다본다. 다만 그렇게 나온 결과가 기기를 하나 더 사게 만드는 쪽으로 흐를 여지도 있다. 건강 습관을 바꾸기 전에는 담당 의사와 먼저 상의하는 편이 낫다."
+            "x": "무료 Ray-Ban Meta 안경을 받고 싶다면 Vision Ireland 홈페이지나 전용 전화 +353 1 882 1910으로 신청하면 된다. 대상자 선정과 대면 교육, 사후 지원은 Vision Ireland가 맡는다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-ios27-siri-voice",
+      "id": "gadgets-google-health-ai-hallucination",
       "eyebrow": "AI NEWS",
-      "headline": "시리 목소리 열한 가지에\n속도와 표현력 손잡이가 붙었다",
-      "mini_headline": "속도 고르는 시리 목소리",
-      "body": "iOS 27 베타 5에서 시리 목소리 열한 가지에 속도와 표현력 조절이 열렸다.",
+      "headline": "Google Health가 지어낸 기록에\nFitbit 이용자들이 등을 돌렸다",
+      "body": "새 Google Health 앱의 AI 코치가 하지도 않은 운동과 수치를 지어낸다.",
+      "mini_headline": "AI가 지어낸 운동 기록",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/nonstop-lies-from-the-ai-as-google-launches-the-pixel-watch-5-its-redesigned-google-health-app-is-leaving-fitbit-users-incensed-at-its-crazy-hallucinations",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
@@ -210,20 +238,15 @@
         "blocks": [
           {
             "t": "p",
-            "x": "iOS 27 다섯 번째 베타에서 시리 AI 목소리를 손보는 폭이 넓어졌다. 그전까지 속도와 표현력 조절은 미국식 목소리 두 개에서만 됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.macrumors.com/t/1riNGgoEtyPAwjvtb3-3HRrKwmE=/400x0/article-new/2026/08/ios-27-siri-voice.jpg?lossy",
-            "cap": "시리 목소리의 속도와 표현력 조절 | 자료 MacRumors"
+            "x": "Google이 Pixel Watch 5를 내놓은 바로 그 시점에, 새로 뜯어고친 Google Health 앱이 도마에 올랐다. 앱에 들어간 AI 코치가 하지도 않은 운동과 맞지 않는 수치를 지어내고 있어서다."
           },
           {
             "t": "p",
-            "x": "이제 미국식 일곱 개와 영국식 네 개, 열한 가지 목소리에 같은 조절이 붙는다. 속도는 말하는 빠르기를, 표현력은 강조의 세기를 잡는다. 조절은 모두 기기 안에서 끝난다."
+            "x": "가장 크게 반발한 쪽은 오래 Fitbit을 써 온 사용자들이다."
           },
           {
             "t": "p",
-            "x": "대신 하드웨어를 가린다. 아이폰은 17 프로와 17 프로 맥스, 아이폰 에어에서만 된다. 맥은 M3 이상 칩에 램 12GB부터, 아이패드는 M4 아이패드 프로 이후 모델에 램 12GB 이상이어야 한다."
+            "x": "믿고 보던 건강 데이터 화면 위에 생성형 레이어를 덧대면 어떤 일이 벌어지는지, 이번 건이 날카로운 사례로 남는다."
           }
         ]
       }

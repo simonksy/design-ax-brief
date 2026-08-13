@@ -1,37 +1,73 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "movies",
-  "now_iso": "2026-08-11T22:00:00Z",
+  "now_iso": "2026-08-13T22:00:26Z",
   "window_hours": 336,
-  "count": 15,
-  "note": "Movies section, 14-day window. freshness.py's window_hours(now_iso) returns the design default 72, so 336 is set explicitly per section — every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-11T22:00:00Z movies` and printed FRESH. Published times were read directly from each page (og article:published_time / JSON-LD datePublished) or, for awn.com (which exposes no meta date), from the official AWN RSS <pubDate>. All sources are on the movies category allowed_domains list; no off-list domains were used. Deduped against pipeline/news_data.json sections.movies (today + last 5 days), including same-story dupes carried by other outlets (Eli Roth 'Ice Cream Man', Autodesk Flow Studio, ILM/Pixar Disney AI push, Adobe plugin in ChatGPT, Chinese AI 'The Office' bootlegs, BAFTA AI clause, WB AI dog podcast, Roku Fairground, Gregg Araki, Asphalt Guerrilla, Ed Catmull AI jury, Disney/TikTok). Dropped for staleness (>336h): fxguide SwitchHDR (2026-07-09), fxguide Foundry SmartRoto (2026-07-16), postPerspective Lightcraft Spark Story (2026-07-17), AWN Higgsfield 'Kok Boru' hybrid pipeline (2026-07-23), AWN Autodesk SIGGRAPH Maya/3ds Max tools (2026-07-23), Deadline Nolan on AI slop (2026-07-11). Dropped for no AI hook: beforesandafters 'Backrooms' VFX breakdown, fxguide DNEG Citadel, VFX Voice octopus. Dropped as AI-business noise: E.W. Scripps layoffs/AI, Lionsgate activist investor, Meta/Amazon earnings. Two entries (awn + animationmagazine) cover the same Nura 'Rainbow Hollow' launch from different angles — pick one.",
+  "count": 17,
+  "note": "Movies section, 14-day window (2026-07-30T22:00:26Z → 2026-08-13T22:00:26Z). window_hours('2026-08-13T22:00:26Z') returns the design default 72, so 336 is set explicitly (freshness.py section='movies'). Every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-13T22:00:26Z movies` and printed FRESH. Published times were read from og article:published_time / JSON-LD datePublished where fetchable (cined.com, nofilmschool.com, cartoonbrew.com, provideocoalition.com, postperspective.com); Variety / Deadline / THR / IndieWire redirect WebFetch to a tollbit paywall (HTTP 402), so their exact times come from each site's own WP REST API field date_gmt (authoritative publisher timestamp) cross-checked against their RSS pubDate. AWN exposes no date meta in HTML, so its times come from awn.com/rss.xml pubDate (PDT → UTC). Swept allowed_domains via RSS/index/REST: variety.com (main + digital + film + tv + artisans + global + AI tag + REST search), deadline.com (main + AI tag + REST), hollywoodreporter.com (business, movie-features, AI tag, REST), indiewire.com (main + AI tag + REST), nofilmschool.com (rss + topics/ai), cined.com (feed pages 1-5), provideocoalition.com (feed + AI tag), postperspective.com (feed pages 1-3 + AI tag), cartoonbrew.com (feed pages 1-4 + AI category feed), awn.com (rss.xml), animationmagazine.net (feed), beforesandafters.com (feed pages 1-3), fxguide.com (feed), vfxvoice.com (feed), redsharknews.com (rss), 80.lv (feed pages 1-4), motionographer.com (feed), theasc.com (feed, stale since May), studiodaily.com (feed now redirects to chiefmarketer — dead for this beat), screendaily.com + definitionmagazine.com (no working feed, search-only), youtube.com (social sweep). Keyword expansion beyond keywords_movies.json was needed to fill the funnel: 'Seedance IP blocking', 'BAFTA AI entry rules', 'AI avatar licensing deal', 'AI-native production company launch', 'Cascadeur / physics-assisted animation', 'AI scene search / media logging', 'AI slop channel', 'AI Turkish drama Prime Video', 'digital resurrection documentary'. Dropped as recently covered (per plan avoid-list): fxguide Impossible Objects x HP ZGX Nano, AWN + Animation Magazine Nura 'Rainbow Hollow'/Showcraft, Cartoon Brew Ed Catmull Higgsfield jury, Deadline Promise AI 'Touch Grass', IndieWire/Variety Warner Bros AI dog podcast, IndieWire doc AI opt-out seminar, No Film School Adobe-in-ChatGPT plugin, CineD Brevidy Premiere plugin, THR/AWN Autodesk Flow Studio 3D blocking, Deadline Gregg Araki AI editing. Dropped as STALE: Cartoon Brew Netflix INKubator (2026-05-15) and Netflix 300 GenAI titles (2026-07-17), No Film School SAGA AI-tracing tool (2026-07-28) and Imagen Video (2026-04-21), postPerspective Foundry SmartRoto (2026-07-16) and Lightcraft Spark Story (2026-07-17), CineD Hell Grind (2026-05-28) and AI masking quick fix (2025-09-26), ProVideo Coalition Premiere AI Assistant (2026-06-18), RedShark post-AI roundup (2026-06-16), Previs Pro 3 (2025-09-19) and Video Style Grade (2025-11-24). Dropped for no design/AI craft hook: No Film School Strada 2.0 (storage, no AI), fxguide DNEG Citadel S2 (no AI), befores & afters Backrooms/Bullet Time breakdowns, Deadline Lionsgate activist-investor AI agenda (pure finance), E.W. Scripps layoffs, Variety Suno/Spotify music-AI items (music beat). Per-outlet cap respected: Variety 3, Deadline 3, The Hollywood Reporter 3, AWN 2, all others 1. 9 distinct outlets. Social: YouTube sweep surfaced only undated/evergreen AI-filmmaking tutorial channels with no verifiable in-window upload date, so no YouTube candidate is included.",
   "items": [
     {
-      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
-      "source": "fxguide",
+      "url": "https://variety.com/2026/tv/global/ai-generated-turkish-tv-series-castle-walls-prime-video-first-1236832779/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-08-11T10:45:46Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-iohp-v3.jpg",
-      "title": "Impossible Objects superpowers VFX production with AI models running on HP ZGX Nano",
-      "excerpt": "LA studio Impossible Objects is running AI models locally on HP ZGX Nano desktops so artists can fold generative steps into an existing VFX pipeline without shipping plates to the cloud. The piece details how artist-driven AI workflows sit alongside traditional comp and 3D tools."
+      "published_iso": "2026-08-12T09:01:32Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg",
+      "title": "AI-Generated Turkish Series 'Castle Walls' Launches on Prime Video in What Is Being Touted as a First",
+      "excerpt": "AI-generated historical drama 'Castle Walls,' produced by Turkish TV powerhouse Ay Yapim, launches on Prime Video as what is billed as the first series made end-to-end with generative AI for a major streamer. It is a concrete test of whether a fully synthetic production pipeline can carry a scripted series."
     },
     {
-      "url": "https://www.awn.com/news/nura-studios-debuts-rainbow-hollow-stop-motion-styled-ai-series",
+      "url": "https://deadline.com/2026/08/seedance-blocking-hollywood-ripoff-cruise-pitt-ai-deepfakes-1237031665/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-08-12T10:18:13Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png",
+      "title": "After Chaos Of Cruise Vs Pitt AI Deepfakes, Seedance 2.5 Is Now Blocking Hollywood Rip-Offs",
+      "excerpt": "ByteDance's Seedance 2.5 is now refusing prompts that reproduce Hollywood IP and star likenesses, after Seedance 2.0 triggered an outrage cycle over Cruise-vs-Pitt deepfakes. A rare look at guardrails being retrofitted into a mainstream video model creators actually use."
+    },
+    {
+      "url": "https://deadline.com/2026/08/verena-puhm-former-luma-ai-launches-matriarch-1237032826/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-08-13T15:35:00Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Verena-Puhm.jpeg",
+      "title": "Former Luma AI Exec Launches L.A.-Based Production Outfit Matriarch",
+      "excerpt": "Verena Puhm, formerly head of Dream Lab LA at Luma AI, has launched Matriarch, a Los Angeles production company built around AI-native filmmaking craft. It marks the migration of model-lab creative leads into the production side of the business."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/makeup-guru-rick-baker-locarno-insight-ai-cgi-eddie-murphy-1236654791/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-13T13:06:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Rick-Baker.jpg",
+      "title": "Hollywood Makeup Pioneer Rick Baker Shares His Thoughts on AI, CGI and Stories About Eddie Murphy",
+      "excerpt": "Seven-time Oscar-winning makeup artist Rick Baker, honored at Locarno 2026, weighs AI and CGI against practical craft and defends the below-the-line artisans he thinks go unappreciated. A veteran maker's read on what automation does to hands-on creative work."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-12T20:19:09Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/YoungBillyJoelAI.jpg",
+      "title": "A Filmmaker Secured a Lost Billy Joel Radio Interview. Then He Re-Created the Singer in AI",
+      "excerpt": "A documentary filmmaker found a lost Billy Joel radio interview and used AI to reconstruct a young Billy Joel on screen — without the artist's involvement. A sharp case study in the consent gap opening up around AI-assisted documentary reenactment."
+    },
+    {
+      "url": "https://www.indiewire.com/news/business/american-film-market-afm-expands-ai-tech-companies-1235210223/",
+      "source": "IndieWire",
+      "category": "movies",
+      "published_iso": "2026-08-12T17:45:00Z",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/The-AFM-HOUSE-pavilion-century-park-1.png",
+      "title": "American Film Market Expands to Include AI and Tech Companies",
+      "excerpt": "IFTA is partnering with Cannes Next on AFM House and an Innovation Hub that will put AI startups and tool vendors on the film market floor alongside sales agents. The industry's buying calendar is being restructured around production technology."
+    },
+    {
+      "url": "https://www.awn.com/news/cascadeur-ships-20262-animation-layers-and-3-new-languages",
       "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-08-11T16:18:48Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/rainbow_hollow_milo_cat-1280.jpg?itok=LclXfrEN",
-      "title": "Nura Studios Debuts 'Rainbow Hollow' Stop-Motion Styled AI Series",
-      "excerpt": "Noah Wagner's new series was produced on Nura's Showcraft platform, which handles story, layout, animation, edit and post finishing inside one environment. The system opens to the public in early September."
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/08/nura-launches-first-original-animated-series-rainbow-hollow-built-with-showcraft-ai-assisted-platform/",
-      "source": "Animation Magazine",
-      "category": "movies",
-      "published_iso": "2026-08-11T21:45:12Z",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Rainbow_Hollow_Milo.png",
-      "title": "Nura Launches First Original Animated Series 'Rainbow Hollow' Built with Showcraft AI-Assisted Platform",
-      "excerpt": "Nura's first original series is a stop-motion-styled show made end to end on its Showcraft AI-assisted production platform. Creator Noah Wagner built the story out of his own experience of loss."
+      "published_iso": "2026-08-13T15:54:27Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/cascadeur_2026.2_screen2-1280.jpg?itok=9lJgG5oz",
+      "title": "Cascadeur Ships 2026.2 with Animation Layers and 3 New Languages",
+      "excerpt": "Nekki's physics- and AI-assisted character animation tool adds additive animation layers, easing controls, retrained inbetweening/motion-generation/retargeting networks, and a built-in MCP server that lets external AI agents drive the software. A concrete look at where neural assistance sits inside a working animation pipeline."
     },
     {
       "url": "https://www.awn.com/news/bob-gaudette-and-kirk-hipkiss-launch-ai-film-and-tv-production-studio-nolia",
@@ -40,111 +76,30 @@
       "published_iso": "2026-08-07T00:04:54Z",
       "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/nolia1.jpg?itok=8T4hKAo9",
       "title": "Bob Gaudette and Kirk Hipkiss Launch AI Film and TV Production Studio Nolia",
-      "excerpt": "The Toronto studio is built around original IP, with 'The Little Cloud Thief' in development as both a feature and a series. Gaudette's 8-minute AI short took the $50K Grand Prix at this year's Runway AI Festival."
+      "excerpt": "Toronto-based Nolia launches as an AI film and TV studio built around original IP, with 'The Little Cloud Thief' in development as both a feature and an episodic series. Another AI-native shop betting that owned IP, not service work, is the viable model."
     },
     {
-      "url": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "source": "IndieWire",
-      "category": "movies",
-      "published_iso": "2026-08-11T16:30:00Z",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
-      "title": "A New Free Seminar Teaches Documentary Filmmakers When and How to Opt Out of AI",
-      "excerpt": "Field of Vision and Freedom of the Press Foundation are running the sixth edition of their Digital Security Clinic, this time on AI. It walks documentary teams through where AI enters their pipeline and how to opt out of it."
-    },
-    {
-      "url": "https://www.cartoonbrew.com/educational/epic-spaceman-toby-lockerbie-youtube-science-channel-265274.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-08-06T18:06:33Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Epic-Spaceman.jpg",
-      "title": "Epic Spaceman Uses Animation, VFX To Explain Science. Without AI",
-      "excerpt": "Toby Lockerbie explains how self-taught animation and VFX turned Epic Spaceman into one of YouTube's biggest science channels. He also lays out why genAI has no place in his production process."
-    },
-    {
-      "url": "https://variety.com/2026/film/news/brad-pitt-ai-could-help-mid-budget-movies-get-made-1236831201/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-08-10T12:59:22Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/brad-pitt.jpg?w=1000&h=563&crop=1",
-      "title": "Brad Pitt Says AI Could Help More 'Mid-Budget Films' Get Made if It's 'Used as a Tool'",
-      "excerpt": "Pitt argues AI could make the squeezed $40M-$90M tier of movies viable again if it stays a tool rather than a replacement. He frames the next few years as an open experiment for producers."
-    },
-    {
-      "url": "https://variety.com/2026/awards/awards/james-gray-ai-locarno-award-paper-tiger-scarlett-johansson-1236828875/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-08-06T11:50:57Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-06-Aug-2026-08-18-AM-1203.jpg?w=1000&h=563&crop=1",
-      "title": "James Gray Says AI Is 'Worthless' and Young People Won't Stand for It",
-      "excerpt": "Collecting Locarno's lifetime achievement award, the 'Paper Tiger' director calls generative AI creatively worthless. He bets audiences have a real hunger for honest, human-made work."
-    },
-    {
-      "url": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-08-11T07:00:00Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Mobile-Suit-Gundam-RG-XARX-ZERO.jpg?w=1000&h=563&crop=1",
-      "title": "'Mobile Suit Gundam RG XARX-ZERO' Director Kamiyama Kenji Built His New Series Around a Metaphor for AI Fears",
-      "excerpt": "Kamiyama Kenji says the new Gundam series is a deliberate metaphor for anxieties about AI: 'Will we end up being used by it?' He discusses how that theme shaped the show's design and storytelling."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/business/digital/snapchat-bans-ai-generated-videos-spotlight-platform-1236660994/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-07-31T18:49:11Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2271501657.jpg?crop=0px%2C123px%2C6000px%2C3357px&resize=1440%2C810",
-      "title": "Snapchat Banning Entirely AI-Generated Videos From Its Spotlight Platform",
-      "excerpt": "Snapchat will bar fully AI-generated clips from Spotlight while still allowing creators to use AI to edit or enhance footage they shot. The line it draws is a working definition short-form creators now have to design around."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/twin-peaks-producer-netflix-films-cannes-venice-mega-cinema-1236650081/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-06T06:00:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2016/05/wild_at_heart_1990_45_h_2016.jpg?w=1440&h=810&crop=1",
-      "title": "Locarno Honoree Sigurjón Sighvatsson on AI, Netflix and Why Cannes \"Doesn't Know What It Is Anymore\"",
-      "excerpt": "The 'Wild at Heart' producer talks about how AI and streaming are reshaping what independent producers can actually get made. He argues smaller festivals will outlast the mega-cinema era."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-pro-2026-preview-ai-algorithm-mergers-creative-film-1236649968/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-03T07:01:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Markus-Duffner.webp?w=1296&h=730&crop=1",
-      "title": "Locarno Pro Takes on the Big Issues: AI, \"Algorithms and Consolidation Versus Creative Freedom\"",
-      "excerpt": "Locarno's industry strand builds its 2026 program around 'power, people, data,' putting AI and algorithmic distribution at the center. Industry head Markus Duffner explains why that framing is timely for filmmakers."
-    },
-    {
-      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-07-30T22:53:06Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vida-news-1.jpg",
-      "title": "Vida Scene Search: AI Scene-Level Search, No Manual Logging Required",
-      "excerpt": "Vida added an offline AI indexing layer to its Content OS MAM so post teams can search inside video libraries at the moment level. It removes the dependency on metadata that was hand-logged years ago."
-    },
-    {
-      "url": "https://nofilmschool.com/filmmakers-at-wonder-dynamics-building-ai-for-filmmakers",
+      "url": "https://nofilmschool.com/roku-ai-channel",
       "source": "No Film School",
       "category": "movies",
-      "published_iso": "2026-07-30T22:10:56Z",
-      "og_image": "https://nofilmschool.com/media-library/credit-wonder-dynamics.webp?id=67559520&width=1200&height=600&coordinates=0%2C39%2C237%2C249",
-      "title": "The Filmmakers at Wonder Dynamics Building AI for Filmmakers",
-      "excerpt": "Wonder Dynamics co-founders Tye Sheridan and Nikola Todorovic explain how their filmmaking backgrounds shaped Autodesk Flow Studio. They cover transferring live-action performance onto CG characters while keeping VFX pipeline compatibility."
+      "published_iso": "2026-08-12T19:02:05Z",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67608628&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+      "title": "Roku Created a New Channel That's Only AI Slop 24/7",
+      "excerpt": "Roku launched Fairground AI, a 24/7 channel of exclusively AI-generated narrative shorts and commercials. No Film School asks whether there is any real audience for it, and what an always-on synthetic feed does to the value of made content."
     },
     {
-      "url": "https://deadline.com/2026/08/peacock-new-serial-mobile-game-public-eye-1237029824/",
-      "source": "Deadline",
+      "url": "https://www.cined.com/rocxzoom-heading-to-kickstarter-robotic-50x-zoom-camera-with-ai-subject-tracking-from-ex-dji-engineers/",
+      "source": "CineD",
       "category": "movies",
-      "published_iso": "2026-08-10T15:00:00Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/08/WOLFPublicEye.png?w=1024",
-      "title": "Peacock Launches First Serialized Mobile Game 'Public Eye'",
-      "excerpt": "Peacock's first episodic interactive title comes out of NBCUniversal's pact with Wolf Games, the generative-AI startup co-founded by Elliot Wolf. It is a test of AI-generated serialized storytelling built by a TV production house."
+      "published_iso": "2026-08-12T11:38:43Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/RocXZoom.jpeg",
+      "title": "RocXZoom Heading to Kickstarter – Robotic 50x Zoom Camera With AI Subject Tracking From Ex-DJI Engineers",
+      "excerpt": "Ex-DJI engineers are crowdfunding RocXZoom, a robotic 50x zoom camera whose AI subject tracking handles framing and follow automatically. On-set machine vision is moving from post into the camera body itself."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 15,
+    "dropped": 7,
+    "kept": 10,
     "against_days": 5
   }
 }

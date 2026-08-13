@@ -1,68 +1,86 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "games",
-  "count": 5,
-  "dedup_note": "Checked against sections.games today (2026-08-11, 5 cards) + days 2026-08-06..10 (24 cards; every URL and body read). DROPPED as duplicates of already-published stories: (1) Eurogamer '1666: Amsterdam AI tools controversy' — same Patrice Desilets 'we live in a world full of AI' story already published 2026-08-11 as games-1666-ai-assets-cut (GamesRadar+); (2) Rock Paper Shotgun 'Nexus Mods update their generative AI mod tagging policy' — same Nexus three-tag split already published 2026-08-08 as games-modding-ai (same outlet, same core topic); (3) Eurogamer 'Stellar Blade 2 generative AI music video' and (4) Destructoid 'Stellar Blade AI slop music video' — same Shift Up AI music video story already published 2026-08-10 as games-blood-rain-cope (Kotaku). Within-pool duplicates dropped, strongest article kept: TheGamer 'Rideshare Stimulator replaced lead writer with ChatGPT' (kept GamesRadar+, which names Stella Sacco and the missing Steam AI disclosure); GamingBolt 'Black Myth Zhong Kui avoiding generative AI' (kept GamesRadar+, which carries the direct 'steer clear of AI-generated content during the design and asset phases' quote plus the Odyssey/Nolan craft framing). Backfilled from the surviving pool. Passed over: GamesRadar+ Oblivion poison-apple emergent-AI anecdote (evergreen recollection, low novelty) and Eurogamer Kingdom Hearts 'human error' asset fix (two months stale and thematically overlapping with the Saber disclosure card). Final 5 = 5 distinct stories, 4 distinct outlets, no repeated URL, max 2 cards from any one domain.",
   "picks": [
     {
-      "title": "Saber Interactive \"replaced me with ChatGPT\" midway through development, but AI use is not disclosed on Steam, claims former lead writer",
-      "url": "https://www.gamesradar.com/games/simulation/saber-interactive-replaced-me-with-chatgpt-midway-through-development-but-ai-use-is-not-disclosed-on-steam-claims-former-lead-writer/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-08-11T19:26:01Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/GwurUCWSHLDo5mea9ApPzg-1920-80.jpg",
-      "excerpt": "Former Saber lead writer Stella Sacco says she was 'replaced with ChatGPT' midway through work on the newly announced Rideshare Stimulator, whose passenger stories are its selling point. She notes the Steam page carries no AI disclosure despite the writing role being handed to a chatbot.",
+      "rank": 1,
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A named credit-holder says a shipping studio swapped a core craft role for a chatbot and then left the store page silent — the sharpest live test yet of what an AI disclosure is actually worth."
+      "url": "https://kotaku.com/epic-artstation-fortnite-unreal-sold-sketchfab-kitbash3d-2000723775",
+      "source": "Kotaku",
+      "published_iso": "2026-08-12T00:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/Epic-Games-and-ArtStation-initial-purchase-image-Epic-Games-ArtStation.jpg",
+      "excerpt": "Epic Games has sold ArtStation and Sketchfab to KitBash3D, and game artists are openly celebrating — 'free from Epic and their love of AI slop' — after years of complaints that AI-generated art flooded the portfolio site and 3D marketplace. The handover reopens the question of how the industry's main game-art portfolio platform will police generative AI listings.",
+      "rationale": "The industry's main game-art portfolio and 3D asset marketplace changes owner, directly resetting the AI-listing policy every game artist publishes under."
     },
     {
-      "title": "This New 24/7 Society Simulator Is Powered By Thousands Of AI-Controlled NPCs",
-      "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs",
-      "source": "80 Level",
-      "published_iso": "2026-08-05T19:54:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49614/images/6a739570826f0/contain_1200x630.jpg",
-      "excerpt": "Klang's simulation game SEED runs thousands of AI-driven characters that keep living, working and reshaping society around the clock, even after players log off. Each character carries its own knowledge graph, so memories, relationships and rumours diverge per NPC.",
+      "rank": 2,
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Per-NPC knowledge graphs that keep running while players are offline is a concrete architecture for persistent world design, not another chatbot-in-a-tavern demo."
+      "url": "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227",
+      "source": "Kotaku",
+      "published_iso": "2026-08-13T21:29:44Z",
+      "og_image": "https://kotaku.com/app/uploads/2023/12/6148c6a04be14bf3f0811b1506446a1b.jpg",
+      "excerpt": "Twitch streamers discovered their streams, VODs and chat were enrolled in Amazon's AI training by default, and are circulating opt-out instructions plus an 'aioptedout' tag. Twitch's chief product officer conceded the design rationale out loud: 'If it was opt in, nobody would opt in.'",
+      "rationale": "Anyone streaming their work is opted into Amazon's model training by default — this is the version of the story that carries the opt-out steps and the platform's own admission."
     },
     {
-      "title": "Unreal Fest Chicago 2026: shipping real-time model inference inside games",
-      "url": "https://www.youtube.com/watch?v=BFfebAtBLfU",
-      "source": "Unreal Engine (YouTube)",
-      "published_iso": "2026-08-07T07:00:35-07:00",
-      "og_image": "https://i.ytimg.com/vi/BFfebAtBLfU/maxresdefault.jpg",
-      "excerpt": "An Unreal Fest Chicago 2026 talk on shipping real-time inference inside games, where memory footprint and runtime efficiency now matter as much as raw model quality. Practical guidance for teams putting neural models into the frame budget rather than the marketing deck.",
+      "rank": 3,
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "The one pick that changes tomorrow's build: it treats a model as something that has to fit the frame and memory budget, with engine-level guidance from Epic itself."
+      "url": "https://www.4gamer.net/games/898/G089803/20260807066/",
+      "source": "4Gamer",
+      "published_iso": "2026-08-08T00:00:00Z",
+      "og_image": "https://www.4gamer.net/games/898/G089803/20260807066/TN/028.jpg",
+      "excerpt": "At a KRAFTON x ReLU Games dev talk, the Mimesis team laid out an 'AI game design' methodology: AI should generate new play experiences, not just speed up production. They detailed scrapping the failed Doppelgänger prototype, their Nolan platform for rapid AI-assisted prototyping, and why small purpose-trained networks beat LLMs for a player-mimicking NPC.",
+      "rationale": "A rare concrete design methodology — prototyping platform, a scrapped prototype post-mortem, and small purpose-trained nets over LLMs — rather than another AI-in-games opinion."
     },
     {
-      "title": "Black Myth: Wukong sequel isn't using AI because the devs were inspired by The Odyssey and Christopher Nolan's filmmaking techniques",
-      "url": "https://www.gamesradar.com/games/action-rpg/black-myth-wukong-sequel-isnt-using-ai-because-the-devs-were-inspired-by-the-odyssey-and-christopher-nolans-filmmaking-techniques-no-rush/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-08-10T12:34:20Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/GEb56f3tQ68JQjKBgKXBUi-1920-80.jpg",
-      "excerpt": "Game Science art director Yang Qi says Black Myth: Zhong Kui will 'steer clear of AI-generated content during the design and asset phases' — 'not out of resistance, but simply to stand our ground until the very end.' The studio frames its craft references as The Odyssey and Christopher Nolan's filmmaking rather than generative tooling.",
+      "rank": 4,
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "A studio at the top of the market draws the line at a specific phase — design and asset production — which is a usable policy shape, not a blanket no."
+      "url": "https://gamesbeat.com/a-question-for-the-industry-how-will-external-developers-use-ai-tools-the-deanbeat/",
+      "source": "GamesBeat",
+      "published_iso": "2026-08-08T00:00:00Z",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/06/halo-sword.jpg",
+      "excerpt": "Dean Takahashi asks how outsourcing and co-development studios — the backbone of AAA art and production pipelines — will actually deploy AI tools for their publisher clients as the ecosystem contracts. The column reframes the AI question from 'will it replace devs' to 'who owns the pipeline when the work is external.'",
+      "rationale": "Shifts the AI question to the outsourced art and co-dev studios that actually build most AAA assets, and to who owns the pipeline when the work is external."
     },
     {
-      "title": "Gamescom Dev speaker survey identifies potential impacts of AI on team structure and productivity",
-      "url": "https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-08-11T14:05:37Z",
-      "og_image": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg",
-      "excerpt": "A Gamescom Dev speaker survey finds nearly half of respondents expect AI-assisted development to be the most significant industry trend of the next three years. Respondents point to changes in team structure and productivity rather than headcount alone.",
+      "rank": 5,
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Hard numbers from working developers on where AI lands next — team shape and throughput — giving leads something to plan org charts against instead of vibes."
+      "url": "https://www.thegamer.com/supergirl-ai-controversy-lobo-concept-art-dc/",
+      "source": "TheGamer",
+      "published_iso": "2026-08-13T18:32:46Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/supergirl-lobo-concept-art.jpg",
+      "excerpt": "Concept art released for Supergirl appears to carry generative-AI tells, reigniting the argument over AI in big-budget character and creature design. The flashpoint is concept art specifically — the stage of the pipeline studios keep insisting is still human-led.",
+      "rationale": "The flashpoint is concept art itself — the stage character designers were told stays human-led; flagged for possible cross-section collision with movies.",
+      "notes": "CROSS-SECTION RISK: same story may be picked by the movies section. Drop this card at roll time if movies also ships it; games then publishes 4."
     }
-  ]
+  ],
+  "dedup": {
+    "section_history_checked": ["2026-08-07", "2026-08-08", "2026-08-09", "2026-08-10", "2026-08-11", "2026-08-12"],
+    "published_urls_compared": 25,
+    "dropped_as_published_duplicate": 0,
+    "dropped_as_within_pool_duplicate": [
+      "https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash",
+      "https://aftermath.site/twitch-amazon-ai-labels-aioptedout-noai-nogenai/",
+      "https://www.pcgamer.com/software/ai/twitch-under-fire-for-new-gen-ai-training-system-that-harvests-streamer-data-for-amazon-says-its-on-by-default-because-if-it-was-opt-in-nobody-would-opt-in/",
+      "https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-ai-overlord-whether-you-like-it-or-not",
+      "https://aftermath.site/twitch-ai-amazon-opt-out/",
+      "https://aftermath.site/amazon-twitch-generative-ai-training-streams-vods/"
+    ],
+    "notes": "11 candidates collapsed to 5 distinct stories: Epic/ArtStation sale (2 outlets), Twitch/Amazon AI opt-out (5 items / 4 outlets), 4Gamer KRAFTON x ReLU, GamesBeat DeanBeat, TheGamer Supergirl. None matched the games section's Aug 7-12 published history."
+  },
+  "diversity": {
+    "outlets": ["Kotaku", "Kotaku", "4Gamer", "GamesBeat", "TheGamer"],
+    "max_per_outlet": 2,
+    "distinct_outlets": 4
+  }
 }

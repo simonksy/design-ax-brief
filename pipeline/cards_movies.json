@@ -1,298 +1,226 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-impossible-objects-zgx-nano",
+      "id": "movies-cascadeur-2026-2",
       "eyebrow": "AI NEWS",
-      "headline": "임파서블 오브젝츠가 AI 모델을\n스튜디오 안에서 직접 돌린다",
-      "body": "HP ZGX 나노를 사내에 두고 컴포지팅 파이프라인 안에서 생성 단계를 돌린다.",
-      "mini_headline": "임파서블 오브젝츠의 AI",
-      "tool": "Movies",
-      "source": "fxguide",
-      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-08-11T10:45:46Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-iohp-v3.jpg",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.fxguide.com/wp-content/uploads/2026/07/iohp-image1-41-830x431.jpg",
-            "cap": "최근 광고 캠페인 스틸. CG에 ComfyUI 기반 AI 애니메이션과 렌더링을 섞은 하이브리드 사례다 (이미지 Impossible Objects)"
-          },
-          {
-            "t": "p",
-            "x": "임파서블 오브젝츠는 로스앤젤레스에 자리한 비주얼 이펙트 회사다. 아티스트가 주도하는 VFX 파이프라인에 ComfyUI 커스텀 워크플로를 얹어 쓴다. 주력은 포르쉐, 캐딜락, 스바루, 나이키, 구글 같은 브랜드 광고이고 영화와 TV용 VFX도 낸다. AI 리드 냔 르가 이 통합을 이끌었다."
-          },
-          {
-            "t": "p",
-            "x": "회사는 최근 HP ZGX AI 스테이션 두 대를 들였다. NVIDIA GB10 Grace Blackwell 슈퍼칩이 들어간 기기다. 자동차 브랜드 광고는 검증이 워낙 깐깐해서 AI 비디오 모델만으로는 요구되는 사실감이 나오지 않는다고 르는 말한다. 대신 전통적인 2D 컴포지팅과 VFX에 직접 학습시킨 모델을 겹쳐 놓는 지점에서 답을 찾았다."
-          },
-          {
-            "t": "p",
-            "x": "브랜드나 광고 대행사, 엔터테인먼트 클라이언트와 일할 때 가장 큰 걱정거리는 프로브넌스다. 모델 생성에 들어간 에셋 하나하나의 출처를 되짚을 수 있어야 한다. 브랜드 IP에 기댄 자산이 클라우드 사설 모델로 새어 나가지 않는 것도 그만큼 중요하다."
-          },
-          {
-            "t": "p",
-            "x": "완전 생성 샷을 클라이언트에 넘기지는 않는다. 해상도와 색에 아직 한계가 있어서다. 전통 2D 컴포지팅과 섞어야 생성형 AI의 좋은 부분만 떼어 프로덕션에 쓸 만해진다는 게 르의 설명이다. ZGX 나노를 쓰면 모든 작업을 온프렘에 묶어 둘 수 있다. 푸티지와 파일을 클라우드 LLM에 올리는 업체와 일하기를 꺼리는 클라이언트에게는 이 대목이 결정적이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.fxguide.com/wp-content/uploads/2026/07/iohp-image4-35-830x467.jpg",
-            "cap": "전통 VFX와 AI를 섞은 임파서블 오브젝츠의 하이브리드 워크플로 테스트 (이미지 Impossible Objects)"
-          },
-          {
-            "t": "p",
-            "x": "오픈소스 모델을 쓰되 사내에서 직접 찍은 푸티지로 파인튜닝한다. 에셋의 출처와 소유권이 처음부터 끝까지 따라붙는 이유다. 푸티지를 확보한 뒤에는 모델이 세부를 어떻게 기억하는지, 그 잠재 기억을 계속 다듬는다. 자잘한 디테일이 샷 전체를 관통해야 하는 자동차 캠페인에서 일관성이 크게 붙는다고 르는 말한다."
-          },
-          {
-            "t": "p",
-            "x": "르는 함께 들어 있는 ZGX 툴킷으로 기기를 찾아 연결하고 곧장 ComfyUI 잡을 밀어 넣었다. 뒷면 200Gbps ConnectX-7 포트로 두 번째 나노를 붙여 메모리를 두 배로 늘렸고, 더 높은 해상도의 모델과 더 긴 4K 클립을 올릴 수 있게 됐다."
-          },
-          {
-            "t": "p",
-            "x": "공동 창업자 제라드 앤더슨은 2년 내리 이어 온 R&D의 목표를 이렇게 정리한다. 원본 촬영에서 에셋을 뽑아내는 방식을 세워 두면, 한 번 푼 제작 문제는 다음번에 더 빨리 풀린다. 팀은 여전히 Foundry Nuke, Adobe After Effects, SideFX Houdini에 크게 기댄다. 2D 컴포지팅으로 예술적 통제권을 쥔다는 원칙도 그대로다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.fxguide.com/wp-content/uploads/2026/07/iohp-image5-37-830x467.jpg",
-            "cap": "하이브리드 워크플로로 만든 VFX 테스트 (이미지 Impossible Objects)"
-          },
-          {
-            "t": "p",
-            "x": "버추얼 프로덕션 볼륨 촬영도 바뀌었다. 예전에는 LED 볼륨 실사 촬영에서 트래킹 데이터를 손으로 뽑아 3D 환경에 되먹였다. 며칠에서 몇 주가 걸렸고 정확히 맞는다는 보장도 없었다. 지금은 푸티지에서 트래킹 데이터를 추론해 계산한다. LED 월에 걸린 3D 환경을 읽어 세트 익스텐션을 정확히 얹는다. 현장에서 무엇을 찍고 계산했든 포스트가 푸티지를 그대로 받아 준다는 사실이 프로덕션에는 큰 여유가 된다고 르는 말한다."
-          },
-          {
-            "t": "p",
-            "x": "처음 ZGX 나노를 들였을 때는 렌더링이 초점이었다. 다음 단계는 멀티에이전트 LLM 관리다. 사내 렌더팜을 세우는 중이고, 나노의 통합 클러스터링으로 그 렌더팜을 관리하고 자체 서버 NAS도 붙일 계획이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-nura-rainbow-hollow",
-      "eyebrow": "AI NEWS",
-      "headline": "누라 스튜디오가 스톱모션처럼 보이는\nAI 시리즈 〈레인보우 할로〉를 냈다",
-      "body": "장례식장에서 떠오른 아이디어가 스톱모션을 닮은 AI 다크 코미디 세 편이 됐다.",
-      "mini_headline": "누라의 〈레인보우 할로〉",
+      "headline": "캐스케이더 2026.2에 애니메이션\n레이어와 MCP 서버가 들어왔다",
+      "body": "애니메이션 레이어와 이징이 붙었고, 내장 MCP 서버로 외부 AI 도구가 조작한다.",
+      "mini_headline": "캐스케이더 2026.2",
       "tool": "Movies",
       "source": "Animation World Network",
-      "url": "https://www.awn.com/news/nura-studios-debuts-rainbow-hollow-stop-motion-styled-ai-series",
-      "accent": "#f5a623",
+      "url": "https://www.awn.com/news/cascadeur-ships-20262-animation-layers-and-3-new-languages",
+      "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-08-11T16:18:48Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/rainbow_hollow_milo_cat-1280.jpg?itok=LclXfrEN",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/rainbow_hollow_milo_cat-1280.jpg?itok=d6wFFF2I",
-            "cap": "〈Rainbow Hollow〉 (이미지 Nura Studios)"
-          },
-          {
-            "t": "p",
-            "x": "〈Rainbow Hollow〉는 스톱모션처럼 보인다. 아니다. 노아 와그너가 연출한 이 성인용 다크 코미디 시리즈는 모든 샷을 AI로 만들었다. 4월에 문을 연 누라 스튜디오의 첫 오리지널이다."
-          },
-          {
-            "t": "p",
-            "x": "발단은 장례식장이었다. 친구의 관이 땅으로 내려가는 걸 지켜보던 와그너는 시신을 눕히는 좋은 방법이 없다고 생각했다. 그때 떠오른 장면을 그는 제작 일지에 적어 뒀다. 관을 따라 내려간 카메라가 시신 곁에 머무는데, 문 두드리는 소리와 함께 언데드가 고개를 들이민다는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "처음부터 클레이메이션이었다. 나중에 내린 결론이 아니라 떠오른 장면 자체가 클레이메이션이었다고 그는 썼다. 다만 이 규모의 실제 스톱모션을 감당할 자원도, 업계의 뒷배도 없었다. 그는 이 시리즈의 비주얼 스타일을 그 공예에 진 빚으로 설명한다. 대체가 아니다. “그 영혼과 인간적 교감을 대신할 것은 없다”고 그는 말했다."
-          },
-          {
-            "t": "p",
-            "x": "밀로는 나무에 걸린 고양이를 구하려다 때 이르게 죽은 소방관이다. 땅에 묻힌 그는 죽은 이들이 계속 살아가는 마을 레인보우 할로를 발견한다. 조건이 하나 붙는다. 시신이 온전해야 한다. 아내가 화장을 원한다는 걸 알게 된 밀로는 아내를 위해, 그리고 둘이 영원히 함께 지내려고 아내를 죽이러 나선다."
-          },
-          {
-            "t": "video",
-            "yt": "4y3LR66E9Ao"
-          },
-          {
-            "t": "p",
-            "x": "밀로 목소리는 로버트 코실레온, 라자루스는 아트 브라운이 맡았다. 마이클 쾰러가 각본을 쓰고 와그너와 함께 시리즈를 만들었다. 와그너는 애니메이션과 편집도 맡았고, 둘은 원래 아이디어를 세 편으로 쪼갰다. 이자벨 리바가 총괄 프로듀서, 그라지엘라 라로카가 테크니컬 프로듀서다. 〈Rainbow Hollow〉는 누라와 A Work of Ark의 공동 제작이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081221-rainbowhollowlazarus-1280.jpg?itok=JwQwT9-X",
-            "cap": "라자루스 (이미지 Nura Studios)"
-          },
-          {
-            "t": "p",
-            "x": "제작 기반은 쇼크래프트다. 누라가 4월에 공개하고 그 뒤 몇 달을 비공개 베타로 시험해 온 애니메이션 에피소드 제작용 웹 플랫폼이다. 파인튜닝한 AI 모델 위에서 스토리, 프리프로덕션, 레이아웃, 애니메이션, 편집, 포스트 마무리를 한 환경에 담았다. 흩어진 폴더와 캔버스로 굴러가던 AI 영화 제작을 샷에서 샷으로 이어지는 하나의 인터페이스가 대신한다는 게 와그너의 설명이다. 현장 크리에이터의 피드백은 실시간으로 플랫폼에 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "집필에 한 달이 걸렸다. 이후 일곱 주 남짓은 생성과 편집이 순서를 나누지 않고 나란히 굴러갔다. 대부분은 Seedance 2.0으로 만들었다. 어설픈 클레이메이션 질감을 붙들어 주고 배우 녹음에서 곧바로 립싱크를 뽑아 줬다고 그는 말한다. 그는 샷을 먼저 시퀀스에 붙인 뒤 다음 샷이 무엇이어야 할지 정했다. “실제 영화는 100% 편집에서 발견되고 만들어졌다”고 그는 썼다."
-          },
-          {
-            "t": "p",
-            "x": "베타 참가자 명단에는 벤토 박스 엔터테인먼트 공동 창업자 조엘 쿠와하라, 전 디즈니 비주얼 디벨롭먼트 아티스트 존 마호니, 전 픽사 촬영감독 제리카 클렐런드가 올랐다. 2026 안시에서 라울 가르시아와 〈The Violinist〉로 장편 부문 크리스털을 받은 어빈 한도 함께했다."
-          },
-          {
-            "t": "p",
-            "x": "쇼크래프트는 9월 초 일반 공개된다. 누라의 다른 시리즈도 8월과 9월에 이어진다. 와그너는 에코벤드 크리에이티브에서 AI·이노베이션 총괄 프로듀서를 맡고 있고, 그의 작업은 HBO, 넷플릭스, NBC, BBC에서 방영됐다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-vida-scene-search",
-      "eyebrow": "AI NEWS",
-      "headline": "비다가 수동 로깅 없이 영상 속\n장면을 찾아내는 검색을 붙였다",
-      "body": "콘텐츠 OS 안에서 오프라인으로 색인해 아카이브를 장면 단위로 뒤진다.",
-      "mini_headline": "비다의 장면 단위 검색",
-      "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/vida-scene-search-ai-scene-level-search-with-no-manual-logging-required/",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "published_iso": "2026-07-30T22:53:06Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/07/Vida-news-1.jpg",
+      "published_iso": "2026-08-13T15:54:27Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/cascadeur_2026.2_screen2-1280.jpg?itok=9lJgG5oz",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/07/Vida-news-1-624x416.jpg",
-            "cap": "Vida Scene Search (이미지 Vida)"
+            "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/cascadeur_2026.2_screen2-1280.jpg?itok=9lJgG5oz",
+            "cap": "캐스케이더 2026.2 화면 (이미지 Nekki)"
           },
           {
             "t": "p",
-            "x": "클라우드 네이티브 미디어 자산 관리 시스템 Vida Content OS를 만든 비다가 Scene Search를 내놨다. 콘텐츠 OS 안에서 도는 오프라인 AI 색인 기능이다. 몇 해 전 사람이 손으로 남긴 메타데이터에, 그마저 있었다면, 기대지 않고도 영상 라이브러리 안을 순간 단위로 뒤진다."
+            "x": "게임 스튜디오와 인디 애니메이터, 혼자 리깅하는 사람들이 물리를 지키는 모션을 만들 때 쓰는 Nekki의 물리·AI 보조 3D 캐릭터 애니메이션 패키지가 2026.2 버전으로 나왔다. 애니메이션 레이어와 이징 컨트롤, 그리고 첫 인터페이스 언어팩 세 종이 들어갔다. 언어는 다음 릴리스에서 더 늘린다. Nekki는 레이어가 전문 스튜디오들이 가장 많이 요청한 기능이라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "라이브러리는 사람이 로깅하는 속도보다 빨리 불어난다. 특정 순간을 찾는 일은 그동안 인제스트 시점에 무엇을 태깅하고 로깅했느냐에 달려 있었다. 아카이브가 커질수록 이 방식은 유지하기 어려워진다. 비용도 계속 늘어난다."
+            "x": "알파로 들어간 애디티브 레이어는 캐릭터의 움직임을 여러 레이어로 쪼갠다. 각 레이어가 자기 애니메이션 데이터를 들고 있다가 합쳐져 최종 연기가 된다. 이징은 보간된 궤적 위에 프레임이 어떻게 분포하는지를 바꾼다. 경로 자체는 건드리지 않은 채 지정한 구간 안에서만 움직임을 빠르게 또는 느리게 만든다."
           },
           {
             "t": "p",
-            "x": "Scene Search는 발견 가능성을 수동 로깅에서 떼어 낸다. 콘텐츠 자체가 검색 대상이 되니 기존 메타데이터가 얼마나 촘촘하든 상관없이 필요한 장면을 짚어 낸다."
+            "x": "이번 릴리스에는 내장 MCP 서버도 들어갔다. 외부 AI 도구가 캐스케이더를 직접 몰 수 있다. 모션캡처 데이터를 위한 BVH 임포트가 붙었고, LiveLink는 언리얼 엔진 5.8로 올라갔다. 메시 하나에 여러 머티리얼을 물릴 수 있게 됐다. 텍스처는 없앴고 머티리얼 시스템이 그 자리를 대신한다."
           },
           {
             "t": "p",
-            "x": "비다 매니징 디렉터 사이먼 루의 말. “굉장한 순간들은 이미 당신의 라이브러리 안에 있다. 문제는 그것을 꺼내 놓는 일이다.” 그는 아카이브를 1분도 빠짐없이 보고 전부 기억하는 사람을 떠올려 보라고 했다. Scene Search가 콘텐츠 자체를 검색 대상으로 만들기 때문에, 자산이 처음 들어올 때 무엇을 태깅했는지에 발견이 더는 매이지 않는다는 설명이다."
+            "x": "오토포징은 이제 주변 환경을 읽는다. 손과 발이 환경에 제대로 맞물려 놓인다고 Nekki는 설명한다. 사족보행 포징도 나아졌다. 충돌 관통 정리는 피벗 포인트까지 처리하고 오토피직스 패스 안에서 함께 돈다. 인비트위닝과 모션 제너레이션, 리타기팅을 떠받치는 신경망은 더 큰 데이터셋으로 다시 학습시켰다."
           },
           {
             "t": "p",
-            "x": "Scene Search는 기존 영상 라이브러리를 색인하고 결과를 장면 단위로 돌려준다. 결과 하나하나가 Vida Content OS에서 이미 돌아가는 자산 관리, 권리, 딜리버리 워크플로에 그대로 이어진다. 팀은 수기 메타데이터에만 기대지 않고 콘텐츠 안을 직접 찾고, 파일이 아니라 긴 영상 속 특정 순간을 자연어로 찾는다. 장면 검색 결과에서 시스템을 갈아타지 않고 곧장 권리와 딜리버리 작업으로 넘어갈 수도 있다."
+            "x": "개발자 쪽 변화도 있다. PySide와 QML로 커스텀 인터페이스 요소를 만들 수 있고, 파이썬 스텁 파일이 API에 인텔리센스를 붙여 준다. 카메라 컨트롤에는 ISO와 셔터스피드, 조리개가 생겼다. 환경광에는 강도 슬라이더가 들어갔다."
           },
           {
             "t": "p",
-            "x": "설계의 전제는 큰 라이브러리의 현실이다. 콘텐츠는 로깅보다 빨리 들어오고, 아카이브는 메타데이터 관리가 따라잡기 어려운 속도로 커지며, 팀은 답을 빨리 받아야 한다. 콘텐츠 자체를 검색 대상으로 만들면 이미 가진 자산의 값어치를 다시 꺼내 쓰기 쉬워진다."
-          },
-          {
-            "t": "p",
-            "x": "Scene Search는 지금 Vida Content OS의 일부로 쓸 수 있다."
+            "x": "캐스케이더는 2006년 Nekki가 자사 액션 게임 〈Shadow Fight〉를 만들며 사내 리그로 시작했다. 예브게니 댜빈이 만들었고 2019년 2월에 일반 공개됐다. 무료 등급은 비상업 작업만 되고 300프레임·120조인트 상한에 FBX 익스포트가 빠진다. 매출 10만 달러 미만 개발자용 Indie는 월 19달러 또는 연 96달러, Pro는 월 49달러 또는 연 396달러다. 둘 다 12개월이 지나면 영구 라이선스로 바뀐다."
           }
         ]
       }
     },
     {
-      "id": "movies-doc-opt-out-ai-clinic",
+      "id": "movies-seedance-25-blocking",
       "eyebrow": "AI NEWS",
-      "headline": "다큐 팀에 AI를 언제 어떻게\n꺼야 하는지 알려 주는 무료 강의",
-      "body": "필드 오브 비전과 언론자유재단이 9월 10일 AI 옵트아웃 세션을 연다.",
-      "mini_headline": "AI 옵트아웃 클리닉",
-      "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/news/business/free-seminar-documentary-filmmakers-how-to-opt-out-ai-1235209818/",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "published_iso": "2026-08-11T16:30:00Z",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
-            "cap": "다니엘 로허·찰리 티렐 감독의 〈THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST〉 스틸 (사진 Focus Features)"
-          },
-          {
-            "t": "p",
-            "x": "뉴스나 다큐를 볼 때 관객은 화면 속 푸티지를 믿을 수 있어야 한다. 그런데 널리 쓰이는 영상 편집 소프트웨어에는 감독 본인도 모르는 AI 기능이 점점 더 들어간다. 그걸 어떻게 끄는지는 더 모른다."
-          },
-          {
-            "t": "p",
-            "x": "곧 열리는 세미나가 이 걱정을 다룬다. 언제 AI를 빼야 하는지, 정확히 어떻게 빼는지를 기자와 다큐멘터리 제작자에게 알려 준다. 필드 오브 비전과 Freedom of the Press Foundation이 디지털 시큐리티 클리닉 여섯 번째 편을 연다고 IndieWire가 단독으로 전했다. 다큐 제작 인력과 기자의 디지털 흔적을 다루는 무료 온라인 강좌 시리즈다. 5년 넘게 500개가 넘는 제작팀을 지원했고, 이번 회차는 사전 관심부터 지난해 편을 넘어섰다."
-          },
-          {
-            "t": "p",
-            "x": "이번 편의 간판은 9월 10일로 잡힌 새 세션 “When and How to Opt Out of AI”다. 필드 오브 비전 공동 창립자 샬럿 쿡은 이용자들이 오래 요청해 온 주제라고 했다. 그는 자동 교정이나 검색 엔진 통합처럼 눈에 잘 띄지 않는 방식으로 AI를 끌어 쓰는 도구를 경계한다. 제작자가 자기 공정을 정확히 알고, 자신이 저작했다는 사실을 증명해야 한다는 것이다. 미디어를 믿어야 하는 관객을 위해서도 그렇다."
-          },
-          {
-            "t": "p",
-            "x": "쿡의 말은 이렇다. “영화감독은 자기가 다루는 이미지와 푸티지를 지킬 수 있어야 하고, 자기가 모르는 영향이 끼어들지 않았다는 걸 알고 그 결과 뒤에 설 수 있어야 한다.”"
-          },
-          {
-            "t": "p",
-            "x": "세션에서 Freedom of the Press 트레이너들은 참가자를 하나씩 짚어 간다. 편집 도구와 앱 안의 특정 AI 기능을 끄는 법, AI 크롤링에서 푸티지를 지키며 올릴 곳, 무언가가 보정되거나 편집됐는지 판별하는 법이 들어간다. “AI 도구를 평가하고 무엇이 어떻게 연결되는지 볼 때 필요한 리스크 평가”라고 쿡은 정리했다. 전사 서비스, 지식재산권을 지키고 그것이 정말 내 것인지 확인하는 문제도 다룬다. 그는 일부 도구가 이용자 정책을 바꾸고 있어 소유권이 어디에 있는지가 지금의 과제라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "이것은 한 달에 걸쳐 열리는 다섯 세션 가운데 하나다. 나머지는 디지털 보안, 국경을 넘거나 민감한 지역에서 안전하게 소통하는 법, 푸티지의 안전한 보관과 암호화 방식, 개인 소셜 계정에서 사적인 자료를 지우는 일을 포함한 디지털 발자국 줄이기를 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "일정은 이렇다. 8월 13일 디지털 보안 시작하기, 8월 20일 안전하게 소통하기, 8월 27일 푸티지 지키기, 9월 3일 디지털 발자국 줄이기, 9월 10일 AI 옵트아웃. 모두 목요일 오후 1시 30분부터 3시까지다."
-          },
-          {
-            "t": "p",
-            "x": "필드 오브 비전은 관련 자료와 가이드를 https://www.digitalsecurity.film/ 에 두고 있다. 그룹 트레이닝 신청은 bit.ly/digitalsecurity2026에서 받는다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-peacock-public-eye",
-      "eyebrow": "AI NEWS",
-      "headline": "피콕이 첫 연재형 모바일 게임\n〈퍼블릭 아이〉를 내놨다",
-      "body": "울프 게임스와 만든 10부작 살인 미스터리에 생성형 AI 비주얼이 들어갔다.",
-      "mini_headline": "피콕의 〈퍼블릭 아이〉",
+      "headline": "시드댄스 2.5가 할리우드\n판박이 프롬프트를 막는다",
+      "body": "시드댄스 2.5가 할리우드 IP와 배우 얼굴을 재현하는 프롬프트를 이제 거부한다.",
+      "mini_headline": "시드댄스의 차단선",
       "tool": "Movies",
       "source": "Deadline",
-      "url": "https://deadline.com/2026/08/peacock-new-serial-mobile-game-public-eye-1237029824/",
-      "accent": "#eb367f",
+      "url": "https://deadline.com/2026/08/seedance-blocking-hollywood-ripoff-cruise-pitt-ai-deepfakes-1237031665/",
+      "accent": "#f5a623",
       "motif": "frame",
-      "published_iso": "2026-08-10T15:00:00Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/08/WOLFPublicEye.png?w=1024",
+      "published_iso": "2026-08-12T10:18:13Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/08/WOLFPublicEye.png?w=1024",
-            "cap": "〈Public Eye〉 (이미지 Wolf Games)"
+            "src": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png",
+            "cap": "기사 대표 이미지 (이미지 Deadline)"
           },
           {
             "t": "p",
-            "x": "피콕이 모바일 라인업에 인터랙티브 에피소드 게임 〈Public Eye〉를 더한다. NBCU가 “microdrama-style storytelling meets interactive crime investigation”이라 부른 살인 미스터리이고, 피콕의 첫 연재형 모바일 게임이다."
+            "x": "바이트댄스의 영상 생성 모델 시드댄스 2.5가 할리우드 IP와 스타의 얼굴을 그대로 재현하는 프롬프트를 거부하기 시작했다."
           },
           {
             "t": "p",
-            "x": "10부작이다. 플레이어는 순찰 경관 로건 다인이 되어 범죄가 들끓는 칼데라 시티에서 삼촌의 죽음을 몰래 파고든다. 매 회 이야기와 퍼즐 중심 게임플레이가 함께 굴러간다. 애니메이션 장면을 뒤져 단서를 찾다 보면 경찰서 전체를 관통하는 음모가 드러난다. AI로 만든 비주얼에 울프 게임스의 이야기 솜씨가 붙어, 이용자가 직접 이야기를 밀고 나가게 한다."
+            "x": "앞선 시드댄스 2.0은 톰 크루즈와 브래드 피트를 놓고 만든 딥페이크 영상이 퍼지면서 거센 비판을 불렀다. 이번 조치는 그 사태 뒤에 나왔다."
           },
           {
             "t": "p",
-            "x": "〈Public Eye〉는 NBC유니버설이 울프 게임스와 맺은 더 큰 계약에서 나온 또 하나의 결과물이다. 울프 게임스는 생성형 AI 스타트업으로, 〈로 앤 오더〉를 만든 딕 울프의 아들이자 총괄 프로듀서인 엘리엇 울프가 공동 창업했다. 올해 초 피콕은 〈Law & Order: Clue Hunter〉를 내놨고, 앱에는 단어 게임과 퀴즈, 〈Wheel of Fortune〉 타이틀도 있다."
+            "x": "창작자들이 실제로 쓰는 주류 영상 모델에 IP와 초상 가드레일이 나중에 덧대어지는 장면을 보기는 드물다. 시드댄스로 작업하는 사람에게는 어떤 프롬프트가 통과되는지가 곧 달라진다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-billy-joel-ai-doc",
+      "eyebrow": "AI NEWS",
+      "headline": "감독이 젊은 빌리 조엘을\n동의 없이 AI로 되살렸다",
+      "body": "잃어버린 라디오 인터뷰를 찾은 감독이 젊은 빌리 조엘을 동의 없이 AI로 되살렸다.",
+      "mini_headline": "AI로 되살린 빌리 조엘",
+      "tool": "Movies",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "published_iso": "2026-08-12T20:19:09Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/YoungBillyJoelAI.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/YoungBillyJoelAI.jpg",
+            "cap": "AI로 재현한 젊은 시절의 빌리 조엘 (이미지 The Hollywood Reporter)"
           },
           {
             "t": "p",
-            "x": "NBCU에 따르면 피콕 모바일 이용자의 40%가 앱에서 게임을 해 봤다. 〈Law & Order: Clue Hunter〉는 지금까지 가장 성공한 게임 출시 축에 들고, 이용자는 하루 평균 6분 넘게 머문다. 게임이 원작 시리즈로 새 시청자를 데려오는 흐름도 나타난다."
+            "x": "한 다큐멘터리 감독이 오래 묻혀 있던 빌리 조엘의 라디오 인터뷰를 손에 넣었다. 그리고 AI로 젊은 시절의 빌리 조엘을 화면 위에 다시 세웠다."
           },
           {
             "t": "p",
-            "x": "울프 게임스 공동 창업자 엘리엇 울프의 말. “〈Public Eye〉는 들어오기가 아주 쉽도록 만들었다. 몇 초 안에 단서를 짚고, 인물을 만나고, 손끝에서 팽팽한 이야기가 맞물리는 걸 느끼게 된다.” 범죄와 배신의 새로운 세계이고, 몰입감 있고 영화 같지만 아침에 푸는 퍼즐만큼 집어 들기 쉽다는 설명이다."
+            "x": "재현 작업에 정작 빌리 조엘 본인은 참여하지 않았다. 아티스트의 동의 없이 그의 젊은 모습이 복원된 셈이다."
           },
           {
             "t": "p",
-            "x": "NBC유니버설 미디어 그룹 제품 UX·디자인 수석부사장 존 젤리는 이 게임이 마이크로드라마와 인터랙티브 스토리텔링이라는, 이용자가 반기는 두 흐름이 만나는 지점에 놓인다고 했다. 팬이 이야기가 흘러가는 걸 지켜보는 대신 그 안으로 걸어 들어오게 한다는 것이다. 울프 게임스와의 작업으로 영상과 게임플레이, 스토리텔링을 한 곳에 모으는 방법을 살피는 중이라고 그는 덧붙였다."
+            "x": "AI를 쓴 다큐멘터리 재연이 어디까지 허용되는지, 그 동의의 공백을 정면으로 보여 주는 사례다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-castle-walls-prime",
+      "eyebrow": "AI NEWS",
+      "headline": "생성형 AI로 만든 터키 사극이\n프라임 비디오에 올라왔다",
+      "body": "생성형 AI로 전편을 만든 터키 사극이 프라임 비디오에 첫 사례로 올라왔다.",
+      "mini_headline": "AI 사극, 프라임 상륙",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/global/ai-generated-turkish-tv-series-castle-walls-prime-video-first-1236832779/",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "published_iso": "2026-08-12T09:01:32Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg",
+            "cap": "〈Castle Walls〉 포스터 (이미지 Variety)"
+          },
+          {
+            "t": "p",
+            "x": "AI로 만든 시대극 〈Castle Walls〉가 프라임 비디오에서 공개됐다. 터키 TV 제작의 강자 아이 야픔(Ay Yapim)이 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "제작진은 이 작품을 대형 스트리머에 올라간 첫 생성형 AI 전 공정 시리즈로 내세운다."
+          },
+          {
+            "t": "p",
+            "x": "완전히 합성된 제작 파이프라인이 극본 있는 시리즈 한 편을 끝까지 끌고 갈 수 있는지, 그 답을 실제로 시험하는 자리다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-rocxzoom-kickstarter",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 알아서 따라가는 50배 줌\n카메라가 킥스타터로 간다",
+      "body": "AI 피사체 추적으로 프레이밍을 맡는 50배 줌 로봇 카메라가 킥스타터에 오른다.",
+      "mini_headline": "스스로 따라가는 줌",
+      "tool": "Movies",
+      "source": "CineD",
+      "url": "https://www.cined.com/rocxzoom-heading-to-kickstarter-robotic-50x-zoom-camera-with-ai-subject-tracking-from-ex-dji-engineers/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "published_iso": "2026-08-12T11:38:43Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/RocXZoom.jpeg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "전 DJI 엔지니어들이 세운 스타트업 파시어테크(FarseerTech)가 RocXZoom을 킥스타터에 올린다. 무게 400그램짜리 핸드헬드 카메라로, 50배 하이브리드 줌에 모터로 움직이는 팬·틸트와 AI 피사체 추적이 함께 들어갔다. 회사는 이 제품을 세계 첫 로보틱 익스트림 줌 카메라라고 부른다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-7-900x506.jpeg",
+            "cap": "전 DJI 엔지니어들로 꾸려진 파시어테크 팀 (이미지 FarseerTech)"
+          },
+          {
+            "t": "p",
+            "x": "팀은 DJI에서 Inspire와 Osmo Pocket, Ronin 4D를 거쳤다. 그 이력이 이번 제품의 짐벌 설계와 추적 알고리즘에 그대로 이어진다."
+          },
+          {
+            "t": "p",
+            "x": "작동 방식은 세 가지가 맞물린다. 컴퓨터 비전이 피사체를 알아보고, 모터 짐벌이 그 피사체를 물리적으로 따라가고, 50배 하이브리드 줌이 대상이 움직이는 동안에도 프레이밍을 유지한다. 동물은 300종 넘게 식별한다고 회사는 밝혔다. 초속 10~20미터로 움직이는 피사체에 0.01초 안에 반응한다는 수치도 함께 내놨다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/Untitled-September-09-2025-at-09.50.28-8-900x506.jpeg",
+            "cap": "RocXZoom 카메라 (이미지 FarseerTech)"
+          },
+          {
+            "t": "p",
+            "x": "몸체는 400그램이다. 가공 알루미늄으로 만들었고 IP54 등급을 받았다. 흔들림은 짐벌 기구와 전자식 보정을 함께 써서 잡는다. 5인치 OLED 화면이 본체에 붙어 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-9-900x506.jpeg",
+            "cap": "주머니에 들어가는 롱렌즈 리그 (이미지 FarseerTech)"
+          },
+          {
+            "t": "p",
+            "x": "센서는 1/2.5인치, 스마트폰급이다. 영상은 4K 30fps가 최대이고 1080p는 30·60fps를 지원한다. 사진은 4K 또는 1080p로 남는다. 조리개는 f/1.8에서 f/3.9까지 변한다. 초점거리는 35mm 환산 40–2000mm 범위이고, 광학 20배에 디지털 확장이 얹힌다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-6-900x506.jpeg",
+            "cap": "본체에 붙은 5인치 OLED (이미지 FarseerTech)"
+          },
+          {
+            "t": "p",
+            "x": "모바일 앱으로 원격 조작도 된다. 카메라를 어딘가에 걸어 두고 찍는 상황을 염두에 둔 기능이다. 회사는 AI 추적 시스템을 기존 카메라와 렌즈에 붙이는 RocXZoom Pro도 준비하고 있다."
+          },
+          {
+            "t": "p",
+            "x": "다만 아직 독립적으로 검증된 푸티지가 없다. 코덱과 포맷 세부도 더 밝혀져야 실제 현장에서 쓸 만한지 판단할 수 있다."
           }
         ]
       }

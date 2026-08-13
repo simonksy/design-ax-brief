@@ -1,288 +1,260 @@
 {
- "date": "2026-08-12",
- "section": "science",
- "cards": [
-  {
-   "id": "science-amie-video-consultation",
-   "eyebrow": "AI NEWS",
-   "headline": "실시간 화상 진료에서 AI가\n1차 진료의와 대등한 성적을 냈다",
-   "mini_headline": "화상 진료에 나선 의료 AI",
-   "body": "구글 AMIE가 화상 진료 100개 시나리오에서 1차 진료의와 대등한 진단 정확도를 보였다.",
-   "tool": "Science",
-   "source": "Google Research",
-   "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-   "accent": "#2ec5c5",
-   "motif": "sphere",
-   "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/AMIE_Video-hero.png",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "구글 리서치가 의료 대화 AI AMIE를 실시간 화상 진료까지 넓혔다. 환자가 말로 설명하는 내용만이 아니라 카메라 앞에 들어 보이는 것까지 함께 읽는다. 연구진은 실시간 임상 화상 진료에서 AI가 전문가 수준의 성적을 낸 첫 사례라고 밝혔다. 8월 11일 공개했고, 글은 구글의 선임 연구과학자 아닐 팔레푸와 연구 리드 마이크 셰커만이 썼다."
-     },
-     {
-      "t": "video",
-      "yt": "zdioahIODDM"
-     },
-     {
-      "t": "p",
-      "x": "AMIE (Video)는 에이전트 셋을 비동기로 굴린다. 토커(Talker)는 환자와 나누는 대화의 흐름을 자연스럽게 끌고 간다. 플래너(Planner)는 뒤에서 임상 추론을 돌리며 감별진단을 갱신하고, 퍼셉션(Perception)은 음성과 영상 흐름에서 임상적으로 의미 있는 비언어 단서를 읽는다. 즉각 반응해야 하는 일과 깊이 따져야 하는 일을 나눠 맡긴 구조다."
-     },
-     {
-      "t": "img",
-      "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-1.width-1250.png",
-      "cap": "실시간 임상 화상 진료를 위한 AMIE의 개요와 평가 연구, 주요 결과."
-     },
-     {
-      "t": "p",
-      "x": "평가는 다섯 개 신체 계통에 걸친 임상 시나리오 100건으로 짰다. 표준화 진료 300회를 돌렸고 훈련받은 모의 환자 배우 15명이 참여했다. 비교군은 셋이다. AMIE (Video), 텍스트 기준선인 AMIE (Text), 그리고 1차 진료의 10명."
-     },
-     {
-      "t": "img",
-      "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-2.width-1250.png",
-      "cap": "진단 정확도와 임상 평가자 평점, 모의 환자 배우 선호도로 본 AMIE와 1차 진료의의 화상 진료 품질."
-     },
-     {
-      "t": "p",
-      "x": "임상 평가자들이 매긴 결과에서 AMIE (Video)는 문진과 진단 정확도 같은 핵심 항목을 1차 진료의와 나란히 갔다. 눈으로 살피고 원격 신체 진찰을 이끄는 대목에서는 오히려 앞섰다. 모의 환자 배우들은 공감과 라포에서 AMIE 쪽을 뚜렷하게 선호했다."
-     },
-     {
-      "t": "img",
-      "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-3.width-1250.png",
-      "cap": "화상 구성과 텍스트 채팅만 쓴 구성을 견준 양식 제거 실험. 임상 평가자 평점과 모의 환자 배우 선호도를 근거로 삼았다."
-     },
-     {
-      "t": "p",
-      "x": "한계는 연구진도 분명히 적었다. 실제 환자가 아니라 전문 배우를 상대했고, 연기로 재현할 수 있는 질환으로 범위가 좁혀졌다. 전반적인 성적이 높았어도 지각과 추론에서 틀리는 경우가 있었고, Project Astra 프로토타입 단계에서 온 기술적 문제도 남았다."
-     },
-     {
-      "t": "p",
-      "x": "다음은 실제 환자를 상대로 한 검증이다. 다루는 임상 양상을 넓히고, Beth Israel Deaconess Medical Center와 Included Health 같은 협력 기관에서 진행 중인 실사용 연구와 붙일 계획이다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "science-openai-astra-math-attribution",
-   "eyebrow": "AI NEWS",
-   "headline": "AI가 푼 수학 난제 10건을 두고\n선행 연구를 지웠다는 지적이 나왔다",
-   "mini_headline": "인용 없는 AI 수학 성과",
-   "body": "OpenAI가 Astra로 내놓은 수학 결과 가운데 둘이 2016·2019년 논문을 인용 없이 썼다는 지적을 받았다.",
-   "tool": "Science",
-   "source": "Scientific American",
-   "url": "https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/",
-   "accent": "#0070f3",
-   "motif": "cube",
-   "og_image": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "OpenAI가 지난주 차세대 대형 언어모델 Astra로 만든 수학 성과 10건을 발표했다. 오래 열려 있던 문제를 풀었다는 내용이었고, 들어간 토큰 비용은 모두 합쳐 2,000달러라고 했다. 그런데 수학자들이 논문을 뜯어보면서 인용 문제가 불거졌다."
-     },
-     {
-      "t": "img",
-      "src": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg",
-      "cap": "출처: Malte Mueller/Getty Images"
-     },
-     {
-      "t": "p",
-      "x": "첫 번째는 구 채우기 문제다. 1,000차원이 넘는 수학적 공간에 공을 어떻게 채워 넣느냐를 다룬다. 예시바대의 스티븐 밀러는 Astra의 풀이가 자신이 2016년 공동 저자와 함께 낸 논문의 논증을 그대로 쓰면서 새로운 결과인 양 내놓았다고 본다."
-     },
-     {
-      "t": "p",
-      "x": "\"자기들보다 앞서 있던 사람들의 연구를 의도적으로 짓밟고 지나갑니다. 제가 보기엔 완전히 조직적이고, 연구 부정에 해당합니다.\" 밀러의 말이다. 그는 이를 표절이라고 불렀다."
-     },
-     {
-      "t": "p",
-      "x": "두 번째는 군론이다. 소픽(soficity) 성질을 갖지 않는 군이 적어도 하나 있다는 결과인데, 케임브리지대의 프란체스코 푸르니에파시오는 여기 쓰인 핵심 아이디어가 2016년과 2019년 논문에 이미 나와 있었다고 지적했다. 2019년 논문 공저자인 드레스덴공대의 안드레아스 톰도 MathOverflow에 의견을 남겼다."
-     },
-     {
-      "t": "p",
-      "x": "푸르니에파시오가 Astra의 작업 자체를 깎아내린 건 아니다. 그는 결과를 \"창의적이면서 동시에 초등적\"이라고 평했다. 다만 AI가 잘하는 쪽은 퍼즐 조각을 맞춰 붙이는 일이지 새로운 지적 도약은 아니라고 봤다."
-     },
-     {
-      "t": "p",
-      "x": "\"인상적으로 들리게 하고 싶어 하는 거대한 홍보 기계가 있고, 그쪽은 100% 정확한지에는 관심이 없습니다.\" 푸르니에파시오의 말이다. OpenAI 보도자료는 해당 문제들이 \"최소 10년간\" 열려 있었고 진전이 없었다고 적었지만, 비판하는 쪽은 바로 앞서 진행된 연구가 있었다고 반박한다."
-     },
-     {
-      "t": "p",
-      "x": "OpenAI 대변인은 이렇게 답했다. \"우리는 이 결과들의 정확성에 책임을 지며, 인간 수학자에게 일반적으로 요구되는 것과 같은 기준을 지키고 있습니다. 통상적인 학계 관행에 맞춰 이번 주에 논문을 소폭 수정할 계획입니다.\""
-     },
-     {
-      "t": "p",
-      "x": "논점은 표절 시비 하나로 끝나지 않는다. \"OpenAI는 이제 최고 수준의 연구에 온전히 참여하고 있습니다. 그렇다면 우리와 똑같은 학술 기준을 적용받아야 합니다.\" 푸르니에파시오의 말이다. AI가 연구자 자리에 앉는 만큼 인용과 출처의 규범도 그대로 지키라는 요구다. 기사는 조지프 하울렛이 쓰고 리 빌링스가 편집했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "science-iceboost-glacier-volume",
-   "eyebrow": "AI NEWS",
-   "headline": "AI가 다시 잰 세계 빙하의 부피\n전부 녹으면 해수면이 32.3cm 오른다",
-   "mini_headline": "빙하 부피를 다시 잰 AI",
-   "body": "베네치아 카포스카리대의 IceBoost v2.0은 세계 빙하 얼음을 약 15만 세제곱킬로미터로 추산했다.",
-   "tool": "Science",
-   "source": "Phys.org",
-   "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
-   "accent": "#7928ca",
-   "motif": "frame",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "베네치아 카포스카리대 연구진이 세계 빙하의 얼음 부피를 지도로 그리는 기계학습 모델 IceBoost v2.0을 내놓았다. 남극과 그린란드를 뺀 지구의 빙하가 품은 얼음은 약 15만 세제곱킬로미터. 전부 녹으면 해수면이 32.3센티미터 오르는 양이다."
-     },
-     {
-      "t": "img",
-      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
-      "cap": "IceBoost v2.0이 추산한 세계 빙하의 얼음 부피는 약 15만 세제곱킬로미터다."
-     },
-     {
-      "t": "p",
-      "x": "모델은 빙하 두께 실측값 700만 건 이상을 학습했다. 지형 경사와 얼음 유속, 기온을 비롯한 물리·기하 변수 26개를 함께 넣었다. 연구를 이끈 니콜로 마페촐리는 이 추정이 현장 관측과 최대 40% 더 잘 맞는다고 밝혔다."
-     },
-     {
-      "t": "p",
-      "x": "\"빙하 두께의 분포는 빙하학 모델과 기후 모델의 근본 변수입니다.\" 카포스카리대 물리학자이자 이탈리아 국립연구위원회 극지과학연구소(CNR-ISP) 소속인 마페촐리의 말이다. 2100년 빙하가 어떻게 변하고 해수면에 얼마를 보탤지 내다보려면 지금 상태부터 세밀하게 알아야 한다는 것이다."
-     },
-     {
-      "t": "p",
-      "x": "\"기계학습 모델은 다른 길을 냅니다. 미리 정해 둔 물리 서술을 씌우지 않고 데이터에서 곧바로 배워 예측을 만들어 냅니다.\" 마페촐리의 설명이다."
-     },
-     {
-      "t": "p",
-      "x": "눈에 띄는 사례는 그린란드 동부의 가이키 고원이다. IceBoost v2.0은 이곳 얼음을 기존에 보고된 양의 거의 두 배로 봤고, 두꺼운 곳은 2킬로미터에 이른다."
-     },
-     {
-      "t": "p",
-      "x": "쓸모는 담수 관리에서 나온다. 빙하가 내주는 물에 기대어 사는 사람이 세계에 약 19억 명이다. 모델은 앞으로 현장 관측을 서둘러야 할 곳도 짚어 준다. 히말라야와 카라코람, 그리고 파타고니아의 큰 빙원이다."
-     },
-     {
-      "t": "p",
-      "x": "\"서둘러야 합니다. 알프스를 비롯한 중위도 빙하는 앞으로 수십 년 안에 사라질 것으로 봅니다.\" 마페촐리의 말이다. 연구는 Scientific Data에 실렸고(DOI: 10.1038/s41597-026-07744-9), Glacier Model Intercomparison Project(GlacierMIP4)와도 이어져 있다. 결과는 웹 도구(https://nmaffe.github.io/iceboost_webapp/)로 직접 볼 수 있다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "science-quasar-lens-neural-net",
-   "eyebrow": "AI NEWS",
-   "headline": "퀘이사 80만 개를 신경망에 넣어\n중력렌즈 일곱 개를 건져 올렸다",
-   "mini_headline": "80만 개에서 건진 일곱",
-   "body": "오하이오주립대 연구진이 DESI 퀘이사 스펙트럼 80만 개에서 중력렌즈 일곱 개를 골라냈다.",
-   "tool": "Science",
-   "source": "Universe Today",
-   "url": "https://www.universetoday.com/articles/seven-needles-800000-haystacks",
-   "accent": "#f5a623",
-   "motif": "swatch",
-   "og_image": "https://www.universetoday.com/article_images/STScI-01EVTBBTD4EEZ767XD0SFYB84S.tif_20260810_230339.jpeg",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "퀘이사는 초대질량 블랙홀이 밝히는 천체다. 어떤 것은 은하수 전체보다 수만 배 밝다. 그 빛이 워낙 세서 퀘이사를 품은 은하는 파묻힌다. 블랙홀과 은하가 나란히 자랐는지 확인하려면 은하의 질량을 재야 하는데, 정작 그 은하가 보이지 않는다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.universetoday.com/article_images/STScI-01EVTBBTD4EEZ767XD0SFYB84S.tif_20260810_230339.jpeg",
-      "cap": "아인슈타인 십자가. 출처: NASA/ESA"
-     },
-     {
-      "t": "p",
-      "x": "우회로가 중력렌즈다. 앞에 놓인 은하의 질량이 뒤쪽 천체의 빛을 휘게 하고, 휘어진 정도를 보면 얼마만 한 질량이 그 일을 했는지 알 수 있다. 문제는 정렬이다. 퀘이사를 품은 은하가 마침 뒤쪽 천체를 렌즈처럼 비추는 배치는 극히 드물다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.universetoday.com/article_images/STScI-01EVT83EXMKX191AXP6JJPG15A.tif_20260810_230510.jpeg",
-      "cap": "중력렌즈에 늘어난 먼 은하들. 출처: NASA/ESA/SLACS Survey Team"
-     },
-     {
-      "t": "p",
-      "x": "오하이오주립대 대학원생 에버렛 맥아더는 암흑에너지분광기(DESI)가 모은 퀘이사 스펙트럼 약 80만 개를 신경망으로 훑었다. 진짜 사례가 워낙 적어 학습 자료부터 만들어야 했다. 실제 퀘이사 스펙트럼과 실제 배경 은하 스펙트럼을 겹쳐 모의 렌즈를 찍어 냈고, 신경망은 그 합성물에서 패턴을 익힌 뒤 실제 관측 자료로 넘어갔다."
-     },
-     {
-      "t": "p",
-      "x": "80만 개가 200개로 줄었고, 사람이 눈으로 확인해 일곱 개가 남았다. 지금까지 알려진 수를 사실상 두 배로 늘린 셈이다. 최종 확정에는 허블 우주망원경 같은 장비가 필요하고, 대상들은 적어도 50억~60억 광년 밖에 있다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.universetoday.com/article_images/hubble-abell2813-aco2813-potw2115a.jpg_copy_20260810_230627.jpg",
-      "cap": "중력렌즈에 일그러진 상. 출처: NASA, ESA"
-     },
-     {
-      "t": "p",
-      "x": "일곱 개가 손에 들어오면 활동 은하의 질량을 실제로 잴 수 있다. 초대질량 블랙홀과 모은하가 함께 자랐는지 따져 볼 재료가 그만큼 늘어난다. 맥아더는 이 방법을 다른 스펙트럼 이상 신호를 찾는 데도 옮겨 쓸 수 있다고 본다. 천문 자료가 계속 불어나는 상황에서는 특히 쓸모가 크다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "science-google-science-one-coe",
-   "eyebrow": "AI NEWS",
-   "headline": "AI 연구 에이전트의 가짜 인용을\n증거 사슬로 0건까지 끌어내렸다",
-   "mini_headline": "가짜 인용 0건의 연구 AI",
-   "body": "구글 Science One은 모든 주장에 증거 사슬을 붙여 존재하지 않는 인용을 0건으로 줄였다.",
-   "tool": "Science",
-   "source": "Google Research",
-   "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-   "accent": "#eb367f",
-   "motif": "headset",
-   "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "구글 리서치가 7월 30일 Science One Framework를 공개했다. AI가 쓴 연구 논문에 실재하지 않는 인용이 섞여 드는 문제를 겨냥한 실험용 프로토타입이다. 내건 해법은 증거 사슬(Chain-of-Evidence, CoE)이다."
-     },
-     {
-      "t": "p",
-      "x": "CoE는 도구라기보다 개념 표준에 가깝다. 연구 산출물의 모든 주장은 기록된 증거 사슬을 달고 있어야 한다는 요구이고, 그 사슬은 빠짐이 없어야 하며 내용도 맞아야 한다."
-     },
-     {
-      "t": "img",
-      "src": "https://storage.googleapis.com/gweb-research2023-media/images/Science-One-1-final.width-1250.png",
-      "cap": "Science One Framework 파이프라인."
-     },
-     {
-      "t": "p",
-      "x": "프레임워크는 모듈 셋으로 나뉜다. 문제 조사기(Problem Investigator)는 Semantic Scholar API로 문헌에 근거를 대고, 발견 엔진(Discovery Engine)은 탐색과 활용 주기를 병렬로 돌린다. 끝에는 논문 작성기와 주장 검증기가 붙는다."
-     },
-     {
-      "t": "p",
-      "x": "검증은 자동화된 평가 절차인 CoE Audit이 맡는다. 점수 검증, 명세 위반 탐지, 참고문헌 검증, 방법과 코드의 일치도 평가까지 네 가지를 본다."
-     },
-     {
-      "t": "img",
-      "src": "https://storage.googleapis.com/gweb-research2023-media/images/Science-One-2.width-1250.jpg",
-      "cap": "CoE Audit 개요."
-     },
-     {
-      "t": "p",
-      "x": "결과는 인용 쪽에서 뚜렷했다. 존재하지 않는 참고문헌이 0건이었다. 비교한 기준선에서는 환각 인용이 최대 21%까지 나왔다. 점수 검증은 전부 통과했고 방법과 코드의 일치도도 가장 높았다."
-     },
-     {
-      "t": "img",
-      "src": "https://storage.googleapis.com/gweb-research2023-media/images/Science-One-3-Final.width-1250.png",
-      "cap": "CoE Audit 결과."
-     },
-     {
-      "t": "p",
-      "x": "성능도 밀리지 않았다. MLE-Bench와 Parameter-Golf 같은 벤치마크에서 경쟁력 있는 과학 성능을 냈다. 글은 구글의 연구과학자 루이 멍과 구글 클라우드 디렉터 토마스 피스터가 썼다."
-     },
-     {
-      "t": "img",
-      "src": "https://storage.googleapis.com/gweb-research2023-media/images/Science-One-4-Final.width-1250.png",
-      "cap": "해법별 성능 비교."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-08-14",
+  "section": "science",
+  "cards": [
+    {
+      "id": "science-sign-language-sl2t",
+      "eyebrow": "AI NEWS",
+      "headline": "구글 딥마인드의 수어 번역 모델이\n픽셀 11 키보드 안으로 들어왔다",
+      "mini_headline": "키보드에 들어간 수어 번역",
+      "body": "10만 시간으로 학습한 SL2T가 픽셀 11 키보드에서 수어를 영어로 옮긴다.",
+      "tool": "Science",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "og_image": "https://lh3.googleusercontent.com/RDh3NiE22dtisgmsRxzthq0CCSjdL9k_fo7bOVbv7kKrIyacgNFTHfe9p3zGznT96bzPH8PX1UNkKu2Fasx-VbuLo0Dn47mDntjsbVYyJqMLCVTNQTk=w1440-h810-n-nu",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "구글 딥마인드가 수어를 텍스트로 옮기는 번역 모델 SL2T를 8월 12일 공개했다. 연구실에 머물던 수어 AI가 소비자 제품에 실린 첫 사례다. 픽셀 11의 Gboard와 Live Transcribe에서 미국 수어(ASL)를 영어로 옮기는 기능이 먼저 열렸고, 지원 기기와 언어는 차차 늘린다."
+          },
+          {
+            "t": "img",
+            "src": "https://lh3.googleusercontent.com/RDh3NiE22dtisgmsRxzthq0CCSjdL9k_fo7bOVbv7kKrIyacgNFTHfe9p3zGznT96bzPH8PX1UNkKu2Fasx-VbuLo0Dn47mDntjsbVYyJqMLCVTNQTk=w1440-h810-n-nu",
+            "cap": "한 손으로 스마트폰을 든 채 수어로 입력하는 Gboard의 수어 받아쓰기."
+          },
+          {
+            "t": "p",
+            "x": "듣는 사람이 받아쓰기를 쓰듯, 농인 사용자는 평소 타자를 치던 자리에서 그대로 수어로 입력한다. 웹 검색, 메시지와 문서 작성, 제미나이에게 묻고 작업을 시키는 일까지 된다. Live Transcribe에서는 글자를 주고받는 대신 수어로 답하면 된다. 테스터들은 영어로 타자를 치는 것보다 ASL로 수어를 하는 쪽이 빠르고 자연스럽고 즐겁다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "수어는 손에 얹은 영어가 아니다. 200개가 넘는 세계의 수어는 저마다 문법과 어휘를 갖춘 독립된 자연어라, 단어를 하나씩 갈아 끼우는 대신 진짜 기계번역이 필요하다. 손과 팔, 몸통, 머리, 얼굴이 동시에 움직이며 뜻을 만들기 때문에 이 전부를 높은 프레임률로 따라가는 컴퓨터 비전 부담도 크다. 수어 장갑 같은 초기 시도가 벽에 부딪힌 이유가 여기 있다."
+          },
+          {
+            "t": "p",
+            "x": "SL2T는 50개가 넘는 수어에서 모은 10만 시간 이상의 데이터로 학습했고, 그중 4분의 1가량이 ASL이다. 여러 언어와 방언, 숙련도를 섞어 함께 학습시키자 공통 구조를 익혀 단일 언어 모델보다 나은 성적이 나왔다. 프라이버시는 구조로 지켰다. 기기 안의 MediaPipe Holistic이 뽑은 자세 좌표만 서버로 보내고 원본 영상은 곧바로 버린다."
+          },
+          {
+            "t": "p",
+            "x": "기존 연구가 거치던 중간 표기 글로스도 건너뛴다. 글로스는 비수지 신호나 공간 구성 같은 수어의 결을 담지 못한다. 좌표 시퀀스를 곧장 텍스트로 옮기니 어휘 한계가 사라지고 번역 품질이 데이터 양을 따라간다. ASL-영어 번역을 재는 FLEURS-ASL(sd-test)에서 SL2T는 제로샷 70 BLEURT를 기록했다. 스트리밍 지연 축소, 수어가 아닌 입력에서의 환각 차단, 왼손잡이 서명자 10%와 한 손 수어 대응 같은 실사용 과제도 함께 다뤘다."
+          },
+          {
+            "t": "p",
+            "x": "프로젝트는 농인 커뮤니티를 위해서가 아니라 함께 만든다는 원칙으로 굴러갔다. 구글 직원인 농인 샘 세파의 구상에서 출발해 데이터 수집과 사용자 연구, 영향 평가까지 당사자의 관점이 각 단계에 들어갔다. 책임 있는 배포를 위해 세계 농인 단체와 전문가가 모인 AI 수어 자문위원회(AISLAC)도 꾸렸고, SL2T 1.0 출시에 맞춰 기능과 한계를 적은 공동 영향 보고서를 함께 냈다."
+          },
+          {
+            "t": "p",
+            "x": "팀은 수어를 더 늘리고 수어 생성과 프런티어 AI 기능까지 넓힐 계획이다. SL2T는 픽셀 11의 Gboard와 Live Transcribe에서 추가 비용 없이 쓸 수 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "science-recall-bottleneck",
+      "eyebrow": "AI NEWS",
+      "headline": "구글 리서치가 짚은 환각의 원인은\n지식 부족이 아니라 인출 실패다",
+      "mini_headline": "환각의 원인은 인출 실패",
+      "body": "프런티어 LLM은 사실의 95~98%를 저장하고도 26~34%를 꺼내지 못했다.",
+      "tool": "Science",
+      "source": "Google Research",
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/KnowledgeProfiling1_Overview.png",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "LLM이 사실을 틀릴 때, 애초에 배우지 못한 걸까 아니면 배워 놓고도 꺼내지 못하는 걸까. 구글 리서치의 니타이 칼데론과 갈 요나 연구과학자가 8월 12일 내놓은 지식 프로파일링 프레임워크는 후자를 가리킨다. 정확도 지표 하나로는 두 경우가 뭉뚱그려지지만 처방은 전혀 다르다. 저장에 실패했다면 모델과 데이터를 키워야 하고, 인출에 실패했다면 사후 학습과 추론 시점 기법이 답이 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling1_Overview.width-1250.png",
+            "cap": "사실의 상태를 가르는 다섯 가지 지식 프로파일."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 사실을 파라미터에 담아 두는 일을 인코딩, 외부 단서 없이 끄집어내는 일을 리콜, 보기 중에서 정답을 골라내는 일을 리코그니션으로 갈랐다. 분석의 단위도 문항이 아니라 사실 자체로 옮겼다. 각 사실은 인코딩 실패, 리콜 실패, 직접 인출, 사고를 거친 인출, 인코딩 없는 추론 중 하나로 분류된다."
+          },
+          {
+            "t": "p",
+            "x": "측정용으로는 위키백과에서 뽑은 사실 2,150개로 WikiProfile 벤치마크를 지었다. 사실 하나마다 인코딩용 2개, 지식 평가용 4개, 객관식 4개까지 열 개 과제가 붙는다. 구축은 사고를 켠 Gemini-2.5-Pro가 맡았고 검색 엔진 기반 필터링과 마지막 수작업 검증을 거쳤다. LLM 13종을 사고를 켠 조건과 끈 조건에서 각각 평가해 응답 450만 건가량을 모았다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling4_Results1.width-1250.png",
+            "cap": "LLM 13종의 다섯 가지 프로파일 분포. 규모가 커질수록 인코딩 실패는 급감하지만 리콜 실패는 남는다."
+          },
+          {
+            "t": "p",
+            "x": "Gemini-2.5-Pro와 Gemini-3-Pro·Flash, GPT-5에서 인코딩은 거의 포화에 이르렀다. Gemini-3-Pro와 GPT-5는 사실의 95~98%를 인코딩하고도 26~34%를 곧바로 인출하지 못했고, 사고를 켜도 11~12%는 여전히 틀렸다. 병목이 지식을 쌓는 쪽에서 쌓아 둔 지식을 쓰는 쪽으로 넘어간 것이다. Gemma 3 계열에서도 모델을 키우면 인코딩 실패는 크게 줄지만 리콜 실패는 남은 오류에서 오히려 큰 몫을 차지한다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling5_Results2.width-1250.png",
+            "cap": "인기도 하위 20%와 상위 20% 사실의 인코딩률·직접 인출률 비교. 격차는 인코딩에서 좁고 인출에서 넓다."
+          },
+          {
+            "t": "p",
+            "x": "인출은 그 사실을 배울 때의 조건에 묶여 있다. 질문이 학습 당시의 맥락이나 표현, 순서에서 멀어질수록 꺼내기 어려워진다. 희귀한 사실은 인기 있는 사실과 비슷한 비율로 저장돼 있는데 인출에서만 크게 벌어졌다. 롱테일 문제는 용량이 아니라 접근의 문제였던 셈이다. 역방향 질문도 같은 결이다. 객관식으로 물으면 역방향이 오히려 쉬운데 직접 생성으로 물으면 어려워진다. 역전의 저주는 인출 문제다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling8_Results5.width-1250.png",
+            "cap": "사고를 켰을 때 새로 알게 된 사실의 비율. 인코딩된 사실은 40~65%가 회복되고 인코딩되지 않은 사실은 5~15%에 그친다."
+          },
+          {
+            "t": "p",
+            "x": "사고는 직접 인출이 가장 약한 지점에서 가장 크게 듣는다. 사고에 최적화된 모델에서는 인코딩됐지만 곧바로 알지 못하던 사실의 40~65%가 회복됐고, 인코딩되지 않은 사실에서는 5~15%에 그쳤다. 사고가 여러 단계 추론으로 답을 지어낸다기보다 이미 저장된 사실로 가는 길을 열어 준다는 뜻이다. 다만 사고에는 연산 비용이 따르고, 언제 켜야 하는지는 아직 답이 없다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "science-antibody-cdr-model",
+      "eyebrow": "AI NEWS",
+      "headline": "항체의 여섯 고리에 집중한 모델이\n결합력 예측을 27% 끌어올렸다",
+      "mini_headline": "항체 생물학을 배운 AI",
+      "body": "보스턴대가 항체의 CDR 고리에 집중한 언어모델로 결합력 예측을 27% 높였다.",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/antibody.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "효과 있는 항체 약을 설계하는 일은 자물쇠가 가득한 창고에서 맞는 열쇠를 찾는 것과 비슷하다. 후보가 수백만에서 수십억 개인데 질환 표적을 알아보고 단단히 붙는 건 극히 일부다. 보스턴대 연구진이 그 탐색 범위를 크게 줄이는 항체 전용 AI 프레임워크를 내놨다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2021/antibody.jpg",
+            "cap": "항체를 그린 삽화."
+          },
+          {
+            "t": "p",
+            "x": "항체의 대부분은 구조를 떠받치는 뼈대다. 무엇을 알아보고 얼마나 세게 붙는지를 정하는 정보는 상보성 결정 부위(CDR)라 부르는 여섯 개의 작은 고리에 몰려 있다. 존 미사시 박사는 이렇게 풀었다. \"항체를 드라이버라고 생각해 보라. 길든 짧든 상관없고, 어떤 나사에 맞는지는 끝의 모양이 정한다. CDR이 바로 그 끝이라, 항체가 어떤 표적을 알아보는지를 결정한다.\""
+          },
+          {
+            "t": "p",
+            "x": "연구진은 항체를 평범한 단백질처럼 다루는 대신 항체 생물학에 맞춰 학습 과정을 다시 짰다. 자연적으로 짝을 이룬 중쇄와 경쇄 항체 서열 160만 개 이상으로 학습시키면서, 주변 구조는 대체로 남겨 둔 채 CDR 안의 아미노산은 최대 절반까지 일부러 가렸다. 결합에 가장 중요한 부위를 반복해서 복원하게 만든 것이다."
+          },
+          {
+            "t": "p",
+            "x": "완성된 모델의 파라미터는 약 6억 개다. 항원 여섯 종을 겨냥한 조작 항체 변이체 9만여 개가 담긴 데이터셋에서 결합 친화도 예측을 최대 27% 끌어올렸고, 훨씬 큰 항체 언어모델과 여러 벤치마크에서 견주거나 앞섰다. 연산 자원은 오히려 덜 썼다."
+          },
+          {
+            "t": "p",
+            "x": "다이앤 조셉맥카시 박사는 \"가장 중요한 생물학을 AI에 가르쳐, 연구자들이 차세대 항체 치료제를 발굴하고 최적화하고 끝내 설계하는 데 쓸 더 나은 도구를 쥐어 주고 싶다\"고 말했다. 미사시 박사는 수백만 개의 가능성을 유망한 수백 개로 좁힐 수 있다면 실험실의 시간과 인력, 비용을 크게 아낀다고 덧붙였다. 논문은 8월 13일 《Communications AI & Computing》에 실렸다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "science-vlash-robot-lookahead",
+      "eyebrow": "AI NEWS",
+      "headline": "다음 동작을 미리 계산하는 로봇이\n작업 속도를 두 배로 끌어올렸다",
+      "mini_headline": "먼저 생각하는 로봇 제어",
+      "body": "VLASH는 로봇이 움직이는 동안 다음 동작을 짜서 반응 지연을 11.8배 줄였다.",
+      "tool": "Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/nJomX4P4KxjEx44xtEbaW4-1919-80.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "로봇의 반응 지연을 추가 연산 없이 10배 넘게 줄인 AI 시스템이 나왔다. 비전-언어-행동(VLA) 모델로 움직이는 로봇은 대체로 끊겼다 이어진다. 뻗고, 멈추고, 조정하고, 다시 멈춘다. 한 묶음의 지시를 끝낸 뒤 다음 묶음이 계산될 때까지 기다리는 실행 방식 탓이다. 이 반응 지연 때문에 VLA 로봇은 실시간으로 계속 상호작용해야 하는 일에 쓰기 어려웠다."
+          },
+          {
+            "t": "p",
+            "x": "VLASH는 현재 동작을 수행하는 동안 다음 동작을 미리 짜서 그 기다림을 없앤다. 실험에서 VLASH를 쓴 로봇은 정확도를 대부분 또는 전부 지키면서 일부 작업을 1.5~2배 빠르게 마쳤다. 최대 반응 지연은 어떤 하드웨어를 쓰느냐에 따라 최대 11.8배까지 줄었다."
+          },
+          {
+            "t": "video",
+            "yt": "IgN7CNicJS8"
+          },
+          {
+            "t": "p",
+            "x": "MIT와 엔비디아, 캘테크, UC 버클리, UC 샌디에이고, 중국 칭화대 연구진이 arXiv에 논문을 올렸고 올가을 지능형 로봇 및 시스템 학회에서 발표한다. 앞선 판본에는 30배가 넘는 속도 향상이 적혀 있었는데, 그 실험은 더 긴 동작 시퀀스와 느린 하드웨어를 썼다고 연구진이 라이브사이언스에 밝혔다. \"11.8배라는 수치가 최근의 실제 환경을 더 잘 보여줄 수 있다\"는 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "VLA 모델은 카메라 이미지와 사람의 지시, 로봇의 현재 상태를 묶어 실제 움직임으로 옮긴다. VLASH는 로봇이 한 묶음의 동작을 끝내는 동안 현재 위치와 예정된 움직임으로 종료 지점을 추정하고, 그 예상 상태에서 다음 묶음을 계획한다. 발이 땅에 닿기를 기다렸다 다음 걸음을 정하는 대신, 닿기 전에 미리 정해 두는 셈이다. 주변 환경 전체를 그리는 월드 모델과 달리 VLASH는 로봇 자신만 예측한다. 이미 예정된 움직임에서 미래 상태를 뽑으니 별도 예측 모델도, 실행 시점의 추가 추론 단계도 필요 없다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 엔비디아 RTX 5090 GPU가 달린 노트북으로 VLA 모델 두 종과 로봇 플랫폼 두 종을 시험했다. 집어 옮기기와 쌓기, 분류 작업을 방식마다 20회씩 돌렸고 탁구와 두더지 잡기 같은 빠른 반응 과제도 붙였다. 두 과제에서는 로봇이 계산하는 사이 표적이 움직인다. VLASH는 그 움직임을 예측하지 않는 대신 초당 15~30회 새 관측을 처리해 물체가 옮겨지는 것 같은 변화를 빠르게 잡아낸다."
+          },
+          {
+            "t": "p",
+            "x": "속도가 곧 안전은 아니다. 연구에 참여하지 않은 인간중심로봇연구소의 공동창업자 겸 최고연구책임자 로슈니 룰라는 \"더 빨리 반응하는 건 분명한 이점이지만, 안전이 나아졌다는 근거는 잘 모르겠다\"고 말했다. 사람이 있는 방에서, 다른 주체가 환경을 바꾸는 상황에서 시험해 봐야 한다는 것이다. 룰라는 이번 결과를 처리 시간의 병목을 없애면서 기존 성능을 지켰다는 정도로 좁게 봐야 한다고 정리했다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "science-vivodyne-human-datacenter",
+      "eyebrow": "AI NEWS",
+      "headline": "연 310만 건 인체 조직 시험으로\nAI 학습 데이터를 찍어낸다",
+      "mini_headline": "인체 조직 데이터센터",
+      "body": "비보다인이 로봇 실험실 12곳에서 인체 조직 시험 310만 건을 해마다 돌린다.",
+      "tool": "Science",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "url": "https://www.genengnews.com/topics/translational-medicine/human-biological-datacenter-to-launch-to-train-world-model-of-human-biology/",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/6a5156e97215b1f019eebbae_65c1501946fecb29765d655f_Dan-Huh-and-Andrei-Georgescu_sm-696x464.jpeg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "비보다인이 \"세계 최대 인체 생물학 데이터센터\"를 열었다고 밝혔다. 로봇 실험실 HIVE 12곳에서 큰 인체 조직 310만 개를 대상으로 한 대조 시험을 해마다 돌린다. 회사는 이 규모를 미국에서 진행되는 모든 임상시험을 합친 것의 두 배로 추산한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.genengnews.com/wp-content/uploads/2026/08/A-row-of-automated-human-tissue-testing-machines-in-Vivodynes-Human-Datacenter-1024x683.jpg",
+            "cap": "비보다인 휴먼 데이터센터에 늘어선 자동화 인체 조직 시험 장비. [Vivodyne]"
+          },
+          {
+            "t": "p",
+            "x": "함께 내놓은 Series 2 TissueDisk는 웨이퍼 크기의 생물학 칩이다. 기능하는 큰 인체 조직 수백 개를 동시에 키우고, 비보다인의 자체 로봇 생산 라인에서 처음부터 끝까지 만들어진다. 세계 최대 제약사 여덟 곳이 이미 플랫폼 조기 접근에 비용을 냈다."
+          },
+          {
+            "t": "p",
+            "x": "공동창업자이자 CEO인 안드레이 게오르게스쿠는 TissueDisk와 HIVE 실험실이 합쳐져 제약 연구도 AI도 가져본 적 없는 실험 환경이 생겼다고 말한다. 언어모델을 키운 강화학습 기법을 사람의 생리에 걸어 볼 만큼 판이 크다는 것이다. 제약사로서는 표적과 화학 구조, 용량과 안전성을 아직 바꿀 수 있는 시점에 실제 인체 조직의 반응을 확인하게 된다. 수백만 건의 치료적 개입을 살아 있는 인체 조직에 넣고, 3D 스캐닝과 전사체 시퀀싱, 심층 프로테오믹스로 인과적 결과를 직접 잰다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.genengnews.com/wp-content/uploads/2026/08/6a5156e97215b1f019eebbae_65c1501946fecb29765d655f_Dan-Huh-and-Andrei-Georgescu_sm-696x464.jpeg",
+            "cap": "비보다인은 안드레이 게오르게스쿠(왼쪽, 현 CEO)가 댄 허 UPenn 교수(오른쪽, 현 CSO)의 생명공학 연구실에서 박사과정을 밟던 시절의 구상에서 출발했다. [Penn Engineering]"
+          },
+          {
+            "t": "p",
+            "x": "\"생물학에서의 초지능이 그 어느 때보다 필요하다. 오늘날의 단순한 단일 표적 약으로 고칠 수 있는 질환이 바닥나고 있기 때문\"이라고 게오르게스쿠는 말했다. \"나사 하나 돌려서 차를 고칠 수는 없다. 암과 섬유증, 자가면역질환, 신경질환의 복잡한 고장을 통상적인 단일 표적 약으로 고칠 수 있다는 생각은 희망 섞인 부정이다.\" 사람을 위험에 빠뜨려 데이터를 얻을 수는 없으니 스스로 혈관과 면역세포를 만들어 내는 큰 인체 조직을 수백만 개씩 키운다는 이야기다. 그 조직은 자라고, 병들고, 피 흘리고, 흉터를 남긴다."
+          },
+          {
+            "t": "p",
+            "x": "비보다인은 간과 폐, 장, 골수, 췌장, 신장, 눈, 림프절을 비롯해 20종이 넘는 인체 장기 조직을 건강한 상태와 환자 유래 질환 상태로 함께 키운다. 섬유증과 부위별 고형암, 염증, 대사질환, 혈관질환 같은 질환별 판본도 있다. 장기마다 쌓인 실험으로 인과적 다중모달 모델을 학습시키고, 그 모델들을 장기 계통을 가로질러 이으면 인체의 월드 모델이 된다는 구상이다."
+          },
+          {
+            "t": "p",
+            "x": "수용체 한 쌍에 약을 걸면 무슨 일이 벌어지는지, 생물학적 경로를 끊으면 어떻게 되는지, 예상 못 한 부작용이 왜 생기는지를 그 모델이 답한다. 예측은 다시 인체 조직에서 대규모로 검증해 다듬는다."
+          }
+        ]
+      }
+    }
+  ]
 }

@@ -1,117 +1,101 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-08-11T22:00:00Z",
+  "now_iso": "2026-08-13T22:00:26Z",
   "items": [
     {
-      "url": "https://www.gamesradar.com/games/simulation/saber-interactive-replaced-me-with-chatgpt-midway-through-development-but-ai-use-is-not-disclosed-on-steam-claims-former-lead-writer/",
-      "source": "GamesRadar+",
+      "url": "https://kotaku.com/epic-artstation-fortnite-unreal-sold-sketchfab-kitbash3d-2000723775",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-08-11T19:26:01Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/GwurUCWSHLDo5mea9ApPzg-1920-80.jpg",
-      "excerpt": "Former Saber lead writer Stella Sacco says she was 'replaced with ChatGPT' midway through work on the newly announced Rideshare Stimulator, whose passenger stories are its selling point. She notes the Steam page carries no AI disclosure despite the writing role being handed to a chatbot."
+      "published_iso": "2026-08-12T00:00:00Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/Epic-Games-and-ArtStation-initial-purchase-image-Epic-Games-ArtStation.jpg",
+      "excerpt": "Epic Games has sold ArtStation and Sketchfab to KitBash3D, and game artists are openly celebrating — 'free from Epic and their love of AI slop' — after years of complaints that AI-generated art flooded the portfolio site and 3D marketplace. The handover reopens the question of how the industry's main game-art portfolio platform will police generative AI listings."
     },
     {
-      "url": "https://www.thegamer.com/rideshare-stimulator-replaced-lead-writer-chatgpt/",
+      "url": "https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-08-12T13:54:15Z",
+      "og_image": "",
+      "excerpt": "Epic divests ArtStation and Sketchfab to KitBash as it refocuses on Unreal Engine 6, Fortnite and its developer ecosystem. KitBash co-CEO Banks Boutté frames the deal around creator trust: 'These are platforms where people have built portfolios, careers, and communities.'"
+    },
+    {
+      "url": "https://aftermath.site/twitch-amazon-ai-labels-aioptedout-noai-nogenai/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-08-13T21:35:03Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/08/shutterstock_2288469007.jpg",
+      "excerpt": "With Twitch refusing to build its own AI-use labeling system, streamers are inventing one themselves — tagging channels #AIOptedOut, #NoAI and #NoGenAI so viewers can find creators who pulled their work out of Amazon's training pipeline. It's a grassroots disclosure standard emerging from the creator side rather than the platform."
+    },
+    {
+      "url": "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-08-13T21:29:44Z",
+      "og_image": "https://kotaku.com/app/uploads/2023/12/6148c6a04be14bf3f0811b1506446a1b.jpg",
+      "excerpt": "Twitch streamers discovered their streams, VODs and chat were enrolled in Amazon's AI training by default, and are circulating opt-out instructions plus an 'aioptedout' tag. Twitch's chief product officer conceded the design rationale out loud: 'If it was opt in, nobody would opt in.'"
+    },
+    {
+      "url": "https://www.pcgamer.com/software/ai/twitch-under-fire-for-new-gen-ai-training-system-that-harvests-streamer-data-for-amazon-says-its-on-by-default-because-if-it-was-opt-in-nobody-would-opt-in/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-08-12T11:29:16Z",
+      "og_image": "",
+      "excerpt": "Twitch's new generative-AI training system sweeps streams, VODs and comments into Amazon's models with opt-out defaults, and creators have to actively dig into settings to leave. PC Gamer walks through what the setting actually covers for people whose livelihood is the footage being harvested."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-ai-overlord-whether-you-like-it-or-not",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-08-13T13:19:47Z",
+      "og_image": "",
+      "excerpt": "Game Developer's read on Twitch's opt-out AI training: creator-made content is being treated as default training data for Amazon, with no meaningful consent step for the people producing it. The piece frames it as a precedent for every platform that hosts creative work made by game and streaming creators."
+    },
+    {
+      "url": "https://aftermath.site/twitch-ai-amazon-opt-out/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-08-12T23:05:23Z",
+      "og_image": "",
+      "excerpt": "Twitch says the quiet part out loud about why its Amazon AI training program is opt-out: 'nobody would opt in.' The admission crystallizes how platforms are sourcing creative training data from the people who make their content."
+    },
+    {
+      "url": "https://aftermath.site/amazon-twitch-generative-ai-training-streams-vods/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-08-12T17:43:21Z",
+      "og_image": "",
+      "excerpt": "Amazon is folding Twitch streams and VODs into generative-AI training, the origin report that set off the week's creator backlash. For streamers and game creators it turns years of archived performance work into model fuel by default."
+    },
+    {
+      "url": "https://gamesbeat.com/a-question-for-the-industry-how-will-external-developers-use-ai-tools-the-deanbeat/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-08-08T00:00:00Z",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/06/halo-sword.jpg",
+      "excerpt": "Dean Takahashi asks how outsourcing and co-development studios — the backbone of AAA art and production pipelines — will actually deploy AI tools for their publisher clients as the ecosystem contracts. The column reframes the AI question from 'will it replace devs' to 'who owns the pipeline when the work is external.'"
+    },
+    {
+      "url": "https://www.4gamer.net/games/898/G089803/20260807066/",
+      "source": "4Gamer",
+      "category": "games",
+      "published_iso": "2026-08-08T00:00:00Z",
+      "og_image": "https://www.4gamer.net/games/898/G089803/20260807066/TN/028.jpg",
+      "excerpt": "At a KRAFTON x ReLU Games dev talk, the Mimesis team laid out an 'AI game design' methodology: AI should generate new play experiences, not just speed up production. They detailed scrapping the failed Doppelgänger prototype, their Nolan platform for rapid AI-assisted prototyping, and why small purpose-trained networks beat LLMs for a player-mimicking NPC."
+    },
+    {
+      "url": "https://www.thegamer.com/supergirl-ai-controversy-lobo-concept-art-dc/",
       "source": "TheGamer",
       "category": "games",
-      "published_iso": "2026-08-11T17:45:12Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/a-man-in-a-car-looking-back-while-people-are-in-front-of-him.jpg",
-      "excerpt": "The just-announced Rideshare Stimulator is accused by its former lead writer of swapping her out for ChatGPT partway through development. The game's pitch leans on 'quirky passengers, each with a story,' making the narrative-craft question central rather than cosmetic."
-    },
-    {
-      "url": "https://www.eurogamer.net/1666-amsterdam-ai-tools-controversy",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-08-11T15:54:22Z",
-      "og_image": "https://assetsio.gnwcdn.com/1666-amsterdam-header.jpg",
-      "excerpt": "After apologising for gen-AI art slipping into the 1666: Amsterdam demo, Patrice Desilets says the studio still uses AI tools in its pipeline: 'We live in a world full of AI, let's be honest with ourselves.' The line between an internal ideation tool and a shipped asset is exactly what the team says it now polices."
-    },
-    {
-      "url": "https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-08-11T14:05:37Z",
-      "og_image": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg",
-      "excerpt": "A Gamescom Dev speaker survey finds nearly half of respondents expect AI-assisted development to be the most significant industry trend of the next three years. Respondents point to changes in team structure and productivity rather than headcount alone."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/action-rpg/black-myth-wukong-sequel-isnt-using-ai-because-the-devs-were-inspired-by-the-odyssey-and-christopher-nolans-filmmaking-techniques-no-rush/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-08-10T12:34:20Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/GEb56f3tQ68JQjKBgKXBUi-1920-80.jpg",
-      "excerpt": "Game Science art director Yang Qi says Black Myth: Zhong Kui will 'steer clear of AI-generated content during the design and asset phases' — 'not out of resistance, but simply to stand our ground until the very end.' The studio frames its craft references as The Odyssey and Christopher Nolan's filmmaking rather than generative tooling."
-    },
-    {
-      "url": "https://gamingbolt.com/black-myth-zhong-kui-studio-is-avoiding-the-use-of-generative-ai-for-design-asset-production",
-      "source": "GamingBolt",
-      "category": "games",
-      "published_iso": "2026-08-10T15:49:06Z",
-      "og_image": "https://gamingbolt.com/wp-content/uploads/2025/08/Black-Myth-Zhong-Kui-scaled.jpg",
-      "excerpt": "Game Science co-founder Yang Qi said on Weibo that the team isn't opposed to generative AI but sees no need to rush it into design or asset production for Black Myth: Zhong Kui. He leaves the door open for later stages of the pipeline."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/the-elder-scrolls/oblivion-intern-tried-to-outsmart-bethesdas-ai-and-was-stunned-when-his-apple-murder-strategy-actually-worked-i-cant-believe-you-accounted-for-this/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-08-10T18:59:53Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kukRAkwfpV5LntBDQKsuLS-1920-80.jpg",
-      "excerpt": "An Oblivion playtester recalls killing a quest target by slipping a poison apple into his pocket and letting the NPC hunger system do the rest — then learning designer Emil Pagliarulo never scripted it: 'that was just the game systems working.' A reminder that the most alive-feeling game AI is emergent simulation, not authored dialogue."
-    },
-    {
-      "url": "https://80.lv/articles/this-new-24-7-society-simulator-is-powered-by-thousands-of-ai-controlled-npcs",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-08-05T19:54:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49614/images/6a739570826f0/contain_1200x630.jpg",
-      "excerpt": "Klang's simulation game SEED runs thousands of AI-driven characters that keep living, working and reshaping society around the clock, even after players log off. Each character carries its own knowledge graph, so memories, relationships and rumours diverge per NPC."
-    },
-    {
-      "url": "https://www.eurogamer.net/kingdom-hearts-collection-ai-accusations-response",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-08-03T12:05:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/Sad-sora-AI.jpg",
-      "excerpt": "Two months after players flagged a suspect asset in the Kingdom Hearts Collection, Square Enix blamed 'human error' and updated the art. The delay shows how thin studios' asset-provenance checks still are once gen-AI enters a pipeline."
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/nexus-mods-update-their-generative-ai-made-mod-tagging-policy-dividing-one-label-into-three-for-more-specific-search-filtering",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-07-31T15:18:18Z",
-      "og_image": "https://assetsio.gnwcdn.com/nexus-mods-logo-01.jpg",
-      "excerpt": "Nexus Mods split its single 'made with generative AI' label into three more specific tags so users can filter UGC by how AI was actually used. It's a rare concrete attempt to build disclosure granularity into a creative platform's search."
-    },
-    {
-      "url": "https://www.eurogamer.net/stellar-blade-2-generative-ai-music-video",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-07-31T10:59:42Z",
-      "og_image": "https://assetsio.gnwcdn.com/stellar-blade-ai-singer.png",
-      "excerpt": "Shift Up promoted Stellar Blade 2 with a fully AI-generated K-pop music video starring the game's protagonist, ending with devs sharing a meal with the synthetic Evie. The reaction — 'Are we deadass?' — became the studio's first real test of AI in marketing craft."
-    },
-    {
-      "url": "https://www.destructoid.com/stellar-blade-ai-slop-music-video-awful-must-be-seen/",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-07-31T14:42:58Z",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/07/image-2026-07-31T102447.786.jpg",
-      "excerpt": "Destructoid picks apart Shift Up's AI-generated Stellar Blade music video shot by shot, arguing the artefacts are so visible they undercut the game's own art direction. A case study in how gen-AI marketing can damage a title's visual brand."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=BFfebAtBLfU",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
-      "published_iso": "2026-08-07T07:00:35-07:00",
-      "og_image": "https://i.ytimg.com/vi/BFfebAtBLfU/maxresdefault.jpg",
-      "excerpt": "An Unreal Fest Chicago 2026 talk on shipping real-time inference inside games, where memory footprint and runtime efficiency now matter as much as raw model quality. Practical guidance for teams putting neural models into the frame budget rather than the marketing deck."
+      "published_iso": "2026-08-13T18:32:46Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/supergirl-lobo-concept-art.jpg",
+      "excerpt": "Concept art released for Supergirl appears to carry generative-AI tells, reigniting the argument over AI in big-budget character and creature design. The flashpoint is concept art specifically — the stage of the pipeline studios keep insisting is still human-led."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 13,
+    "kept": 11,
     "against_days": 5
   }
 }

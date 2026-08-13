@@ -1,34 +1,32 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "games",
   "media": [
     {
-      "id": "games-saber-chatgpt-writer",
-      "type": "video",
-      "src": "pipeline/media/games-saber-chatgpt-writer.mp4",
-      "poster": "pipeline/media/games-saber-chatgpt-writer.jpg"
-    },
-    {
-      "id": "games-seed-ai-society",
+      "id": "games-artstation-kitbash3d",
       "type": "image",
-      "src": "pipeline/media/games-seed-ai-society.jpg"
+      "src": "pipeline/media/games-artstation-kitbash3d.jpg"
     },
     {
-      "id": "games-unreal-runtime-inference",
-      "type": "video",
-      "src": "pipeline/media/games-unreal-runtime-inference.mp4",
-      "poster": "pipeline/media/games-unreal-runtime-inference.jpg"
-    },
-    {
-      "id": "games-zhong-kui-no-ai",
-      "type": "video",
-      "src": "pipeline/media/games-zhong-kui-no-ai.mp4",
-      "poster": "pipeline/media/games-zhong-kui-no-ai.jpg"
-    },
-    {
-      "id": "games-gamescom-dev-survey",
+      "id": "games-twitch-ai-optout",
       "type": "image",
-      "src": "pipeline/media/games-gamescom-dev-survey.jpg"
+      "src": "pipeline/media/games-twitch-ai-optout.jpg"
+    },
+    {
+      "id": "games-relu-mimesis-ai-design",
+      "type": "image",
+      "src": "pipeline/media/games-relu-mimesis-ai-design.jpg"
+    },
+    {
+      "id": "games-deanbeat-external-devs",
+      "type": "image",
+      "src": "pipeline/media/games-deanbeat-external-devs.jpg"
+    },
+    {
+      "id": "games-supergirl-concept-art-ai",
+      "type": "video",
+      "src": "pipeline/media/games-supergirl-concept-art-ai.mp4",
+      "poster": "pipeline/media/games-supergirl-concept-art-ai.jpg"
     }
   ]
 }

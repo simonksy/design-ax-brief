@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "design",
   "selection_mode": "curator_auto",
   "picks": [
@@ -9,25 +9,25 @@
       "category": "figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
+      "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
       "source": "Figma",
-      "published_iso": "2026-08-11T19:59:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/3218bd5e6e7613b2b9bb371852fa16e0060ea390-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's Data Science team assumed AI saves users time, but quantifying it required a new approach to research design. The post details the methodology behind measuring real time savings from Figma Make.",
-      "rationale": "First-party Figma research that puts an actual measured number on AI time savings — the methodology is reusable by any design org trying to justify AI tooling."
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/71558fc0ae54ae69b156a69dd9b5751f821b1834-1536x2048.png?w=1632&h=2176&q=75&fit=max&auto=format",
+      "excerpt": "Figma now lets designers author custom Skills for the Figma agent directly inside the product, and publish them to the Community. The post highlights ten featured skills spanning visual effects, design documentation and usability-testing workflows.",
+      "rationale": "Designers can now author and publish their own agent Skills — the fastest route from 'AI helps sometimes' to a repeatable, team-shared workflow."
     },
     {
       "rank": 2,
-      "tool": "KeyShot",
-      "category": "render",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://80.lv/articles/this-alien-has-no-mesh-is-built-in-three-js-with-shader-math/",
-      "source": "80 Level",
-      "published_iso": "2026-08-11T10:47:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49683/images/6a7afda7da4c2/contain_1200x630.jpg",
-      "excerpt": "Developer Drin built a fully animated alien with no mesh at all — the whole creature is raymarched in Three.js with shader math, a reminder of how much visual craft lives outside asset pipelines.",
-      "rationale": "A fully animated creature with zero geometry — raymarched shader math in Three.js is a concrete, web-shippable alternative to asset-heavy 3D pipelines."
+      "tool": "Text-to-CAD",
+      "category": "cad",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "url": "https://develop3d.com/cad/onshape-featurescript-mcp-lets-users-build-custom-cad-features-fast/",
+      "source": "DEVELOP3D",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Onshape-Labs-MCP-1024x576.jpg",
+      "excerpt": "PTC's new Onshape FeatureScript MCP Server lets users describe a desired CAD feature in natural language and have AI build and refine the custom tool. It targets repeated modelling bottlenecks by turning them into bespoke buttons.",
+      "rationale": "Natural language now produces a reusable CAD feature, not just geometry — a modelling bottleneck becomes a custom button you keep."
     },
     {
       "rank": 3,
@@ -35,72 +35,89 @@
       "category": "tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://www.smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "url": "https://www.smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
       "source": "Smashing Magazine",
-      "published_iso": "2026-08-11T10:00:00Z",
-      "og_image": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
-      "excerpt": "When building a highly interactive, tactile web experience, the architecture must serve the art direction. Alexey Kopytin explains the architectural rationale behind a digital stress-relief squeeze toy built with Lottie, DOM events and distance-based logic.",
-      "rationale": "Rare build write-up where architecture is chosen to serve art direction — the Lottie + DOM + distance-logic pattern is directly copyable for tactile interactions."
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/new-ai-guidelines-ai-labelling.jpg",
+      "excerpt": "New EU guidelines require clearly labelling AI-generated content for anyone serving EU citizens, effective August 2, 2026. The rules cover deepfakes, chatbots, AI-written text and biometric tools — pushing designers to build disclosure into the UI itself.",
+      "rationale": "A dated compliance rule that lands in the UI layer — disclosure of AI content becomes a component and copy decision, not a legal footnote."
     },
     {
       "rank": 4,
+      "tool": "KeyShot",
+      "category": "render",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://www.cgchannel.com/2026/08/marmoset-releases-toolbag-5-03/",
+      "source": "CG Channel",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "Marmoset shipped Toolbag 5.03, a free update to its real-time rendering and look-dev tool. It adds Text and Scatter Layers for texturing, IES light profiles with physical light units, and 3Dconnexion SpaceMouse support.",
+      "rationale": "Free point release with real look-dev gains — Text/Scatter texturing layers and IES physical lighting change how product renders get lit tomorrow."
+    },
+    {
+      "rank": 5,
       "tool": "VR Prototype",
       "category": "vr",
       "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://roadtovr.com/apple-mlb-live-immersive-games-schedule-2026/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-10T14:59:00Z",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?fit=1800%2C1200&quality=89&ssl=1",
-      "excerpt": "Apple and MLB will livestream games to Vision Pro in Apple Immersive starting August 28th — the first regular live immersive-video production pipeline at this scale.",
-      "rationale": "Dated, concrete milestone: live Apple Immersive production moves spatial video from one-off showcases to a repeatable broadcast pipeline."
-    },
-    {
-      "rank": 5,
-      "tool": "Figma",
-      "category": "figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "url": "https://www.creativebloq.com/art/digital-art/what-does-the-sale-of-artstation-and-sketchfab-mean-for-digital-artists",
-      "source": "Creative Bloq",
-      "published_iso": "2026-08-11T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc-1280-80.webp",
-      "excerpt": "ArtStation and Sketchfab have been sold, creating an integrated ecosystem spanning the whole creative process. Creative Bloq weighs what the merger means for digital artists' portfolios, licensing and AI exposure.",
-      "rationale": "Ownership change at the two platforms most designers park their portfolios and 3D assets on — licensing and AI-training exposure terms are now worth re-reading."
+      "url": "https://80.lv/articles/gel-sand-sim-running-in-browser-on-apple-vision-pro",
+      "source": "80 Level",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "James C. Kane built an immersive gel, sand and water simulation running in the browser on Apple Vision Pro using WebXR, WebGPU and Three.js. He claims it's the first real-time sim of its kind delivered entirely through the web on the headset.",
+      "rationale": "Proof that a real-time immersive sim ships through a URL — WebXR + WebGPU removes the app-store step from spatial prototyping."
     }
   ],
   "dedup": {
     "against_days": 6,
+    "published_days_checked": [
+      "2026-08-07",
+      "2026-08-08",
+      "2026-08-09",
+      "2026-08-10",
+      "2026-08-11",
+      "2026-08-12"
+    ],
     "published_urls_checked": 30,
     "dropped": [
       {
-        "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af",
-        "reason": "Same source (UX Collective) repackaging the already-published story 'Chat is the wrong interface for AI' (uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b, published 2026-08-06)."
+        "url": "https://vercel.com/changelog/grok-build-harness-adapter",
+        "reason": "Vercel changelog content hub — same source, same core topic (AI SDK harness layer) as the ACP-harness post published the same day; kept neither since both are agent-runtime plumbing with little designer actionability."
       },
       {
-        "url": "https://dev.to/renato_marinho/the-ai-design-fingerprint-why-every-agent-generated-frontend-looks-identical-and-how-to-break-4kii",
-        "reason": "Same source + same author (dev.to/renato_marinho) and same core thesis as the already-published 'Your AI agent's UI is mediocre and here's how to fix it' (published 2026-08-09) — content-hub near-duplicate."
+        "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
+        "reason": "Near-identical companion post to the Grok Build harness adapter changelog (same hub, same harness-layer topic) — only one could survive, and the topic scored below the picks."
+      },
+      {
+        "url": "https://vercel.com/changelog/exa-joins-the-vercel-agent-marketplace",
+        "reason": "Third simultaneous Vercel changelog drop; general AI-business/marketplace plumbing rather than design news."
+      },
+      {
+        "url": "https://www.engadget.com/2232151/how-to-convert-upscale-photo/",
+        "reason": "Evergreen how-to explainer on upscaling, no new release or insight — fails the novelty test."
       }
     ],
-    "backfilled": true
+    "backfilled": true,
+    "note": "No content-level duplicate of the last 6 days found. Nearest adjacency checked: Figma Skills authoring vs the 08-11 Figma YouTube 'agents in design files' walkthrough — different release (Skills authoring + Community publishing) and different URL, so distinct. DEVELOP3D Onshape MCP vs the 08-07 DEVELOP3D Creo 13 AI piece — same outlet, different product and event."
   },
   "diversity_guard": {
     "outlets": [
       "Figma",
-      "80 Level",
+      "DEVELOP3D",
       "Smashing Magazine",
-      "Road to VR",
-      "Creative Bloq"
+      "CG Channel",
+      "80 Level"
     ],
     "max_per_outlet": 1,
     "categories": [
       "figma",
-      "render",
+      "cad",
       "tokens",
-      "vr",
-      "figma"
+      "render",
+      "vr"
     ],
-    "max_per_category": 2,
-    "note": "Second figma-category card uses palette accent #3b6bff to stay distinct from #0070f3."
+    "max_per_category": 1,
+    "note": "Five distinct outlets and five distinct categories, so no accent collision — each pick keeps its sources.json category accent. Surplus CG Channel (Ornatrix 4, Masters of the Universe breakdown) and 80 Level (feather tool, Spline Architect) items were held back to keep the per-outlet cap at 1."
   }
 }

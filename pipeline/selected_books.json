@@ -1,156 +1,68 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "books",
   "count": 5,
+  "dedup_note": "Checked all 17 candidates against sections.books today (2026-08-12, 5 cards) + days 2026-08-07..11 (25 cards); every published URL and body read. Published set includes PW 101027 Spotify audiobook AI discovery, thebookseller 'war of AI against AI', scholarlykitchen 08/11 Aries+ChronosHub interview, bookriot avoiding-AI library programs, goodereader iFlytek AINOTE 2, PW 101002 Brian Murray AI authorship, publishingperspectives Papers AI, imaeil + hankyung Korean AI-labelling pair, selfpublishingadvice Perplexity ebook store, selfpublishingadvice Amazon AI study, goodereader HarperCollins AI audiobooks, thebookseller authors-of-colour AI suspicion, scholarlykitchen 08/07 peer review, janefriedman Substack/Pangram, YouTube 2pJqxijuCTA / zclrdrwsD-M / 61voMQvOFNE / IEi44Dmn9rM / 3NRTlv_vQOY / es-EGrWfJeg / HT94dPtKAhI, janefriedman EU AI Act transparency, PW 100926, PW 101010 BISG, publishingperspectives Asian Publishers Week, scholarlykitchen 07/30 participation layer, publishingperspectives Pope Leo encyclical, publishingperspectives Around the Book World 08/10, scholarlykitchen 08/10 COPE interview. DROPPED from the pool: (1) Self-Publishing with Dale 'Europe's New AI Rules Are Reaching Authors Worldwide' — news roundup whose two segments duplicate the already-published janefriedman EU AI Act card (2026-08-09) and pick #3 below (the Villanova study); (2) janefriedman 'Links of Interest: August 12' — link digest whose lead item is the HarperCollins AI-authorship story already published 2026-08-07 as books-harpercollins-human-authorship, and a second Jane Friedman slot; (3) Scholarly Kitchen 'Reading Between the Lines, Part 1' — same source, same series, same core argument dropped alongside Part 2 within one day (content-hub rule), kept Part 2 as the stronger, more actionable half; (4) Scholarly Kitchen 'The Published Voice' — would have been a third card from one outlet, over the diversity cap; (5) ALLi 'Literary Agents Update Ethics Rules' podcast and ALLi 'A Tale of Two Seven-Figure Deals' — overlapping coverage of the same seven-figure-deal AI-allegation thread, and both older than the surviving ALLi pick; (6) PW 'McGraw Hill Touts AI in Q1 Results' and TechCrunch 'Writer introduces new AI model' — general AI-business/earnings noise with no publishing-craft hook; (7) Animehunch Shueisha Manga Million AI translation and Creative Penn/Nerdy Novelist videos — surviving but out-ranked backfill, held in reserve. Final 5 = 5 distinct never-published stories, 4 distinct outlets, max 2 from any one domain (Ars Technica), no repeated URL.",
   "picks": [
     {
-      "rank": 1,
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "Ars Technica",
+      "published_iso": "2026-08-13T11:10:18Z",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
+      "excerpt": "Anthropic's new text watermark flags anything Claude touched, including human writing the model only edited. For writers and editors that turns light AI assistance into a permanently detectable mark on the manuscript.",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101027-spotify-adds-more-ai-powered-discovery-tools-for-audiobooks.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-08-11T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Spotify is testing three new AI-driven audiobook features: an automated playlist generator, natural-language catalogue search and smarter series tracking. The move pushes book discovery further away from category browsing and toward conversational, model-driven recommendation.",
-      "rationale": "The biggest challenger to Audible is rebuilding audiobook discovery around natural-language queries — which changes what metadata, series data and blurbs authors and publishers need to ship today."
+      "rationale": "The AI-disclosure argument stops being voluntary the moment the model marks the file itself — every author who lets Claude near a draft needs to know that today."
     },
     {
-      "rank": 2,
+      "title": "After Editing Two AI-Assisted Manuscripts, I Rewrote My Client Agreement",
+      "url": "https://janefriedman.com/after-editing-two-ai-assisted-manuscripts-i-rewrote-my-client-agreement/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-08-13T09:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/08/kole_editing_AI-social.png",
+      "excerpt": "A freelance editor describes what AI-assisted manuscripts actually look like on the page and why they cost more to fix. She rewrote her client agreement to add AI-disclosure terms and a surcharge for heavily generated drafts.",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "url": "https://www.thebookseller.com/news/academic-publishers-must-not-get-stuck-in-war-of-ai-against-ai-stm-chief-exec-warns",
-      "source": "The Bookseller",
-      "published_iso": "2026-08-11T08:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
-      "excerpt": "STM chief executive Caroline Sutton warns that academic publishers risk an escalating machine-vs-machine arms race as AI-fabricated submissions meet AI screening tools. She argues automated integrity checks must stay paired with human editorial judgement rather than replace it.",
-      "rationale": "The head of the global scholarly publishers' body names the trap detection-first workflows are walking into — a direct argument for where the human check has to stay in an AI screening stack."
+      "rationale": "The rarest kind of AI story: not a position paper but contract language and a price, written by someone who had to fix the pages."
     },
     {
-      "rank": 3,
+      "title": "News Summary: AI-Generated Stories Outperform Human Writing in Reader Ratings",
+      "url": "https://selfpublishingadvice.org/ai-generated-stories/",
+      "source": "The Self-Publishing Advice Center (ALLi)",
+      "published_iso": "2026-08-13T12:00:50Z",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-13.jpg",
+      "excerpt": "A Villanova University study finds readers largely cannot tell AI-generated short fiction from human-written work, and often rate the AI stories higher. ALLi unpacks what that means for indie authors' disclosure and craft decisions.",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/11/what-authors-expect-now-and-why-publishing-hasnt-kept-up-an-interview-with-jennifer-fleet-of-aries-systems-and-christian-grubak-of-chronoshub/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-08-11T09:30:37Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2195190890.jpg",
-      "excerpt": "Aries Systems and ChronosHub are wiring submission systems together to fix a manuscript workflow authors still find punishing. The interview digs into automated taxonomy matching, AI manuscript triage, and why clean structured data is the precondition for any useful LLM layer in publishing.",
-      "rationale": "Two submission-system vendors spell out the unglamorous precondition everyone skips: without clean structured data the AI layer on top of a publishing workflow has nothing to stand on."
+      "rationale": "Peer-reviewed evidence that the 'readers will always know' defence does not hold, which forces disclosure and positioning to carry the weight instead of quality alone."
     },
     {
-      "rank": 4,
+      "title": "Reading Between the Lines, Part 2: Cognitive Debt and the Adaptive Publisher",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/13/reading-between-the-lines-part-2-cognitive-debt-and-the-adaptive-publisher/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-08-13T09:30:23Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig_3_Cognitive_Debt_Curve_300_DPI-copy-scaled.jpg",
+      "excerpt": "The central risk of AI in publishing is framed not as hallucination but as \"cognitive debt\" — the gradual erosion of the human judgement that gives writing its originality and integrity. Part 2 sets out how an adaptive publisher should design workflows to pay that debt down.",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://bookriot.com/avoiding-ai-library-programs/",
-      "source": "Book Riot",
-      "published_iso": "2026-08-11T10:01:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/library-computer.jpg.optimal.jpg",
-      "excerpt": "Public libraries are now running patron workshops on how to opt out of AI — search, assistants, and the defaults baked into everyday software. Book Riot's library-worker roundup treats 'avoiding AI' as a teachable literacy skill, a counter-programming move against the assumption that every reading and research tool should be model-mediated.",
-      "rationale": "Libraries are turning 'how to switch AI off' into a scheduled public program — the first sign that opting out is becoming a taught literacy, not just a personal preference."
+      "rationale": "Reframes the risk from output errors to eroded judgement and then names the workflow checkpoints that pay it back — a usable editorial design, not another warning."
     },
     {
-      "rank": 5,
+      "title": "The web's newest weapon against AI scrapers is a font",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "source": "Ars Technica",
+      "published_iso": "2026-08-12T22:02:25Z",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg",
+      "excerpt": "\"ShieldFont\" scrambles text for AI training crawlers while staying perfectly readable to humans. It's a typographic defence writers and publishers can apply to serialized fiction, samples, and newsletter archives.",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "url": "https://goodereader.com/blog/electronic-readers/these-new-features-are-coming-to-the-iflytek-ainote-2",
-      "source": "Good e-Reader",
-      "published_iso": "2026-08-07T04:58:53Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/07005653/7-1x.webp",
-      "excerpt": "iFlytek published a 2026 roadmap for its LLM-powered E-Ink tablet, layering AI meeting transcription, automated note organization and document processing on top of a reworked handwriting and PDF toolbar. It is a concrete look at what an AI-native reading-and-writing device wants to become once the model sits underneath the page.",
-      "rationale": "A shipped feature roadmap for an E-Ink device with an LLM underneath the page — the clearest current picture of what reading and note-taking hardware looks like when AI is native rather than bolted on."
+      "rationale": "A defence an author or small press can actually deploy this week — protection that lives in the typeface rather than in a licensing negotiation nobody has leverage in."
     }
-  ],
-  "dedup_notes": {
-    "checked_against": "news_data.json sections.books — today (2026-08-11, 5 cards) + days 2026-08-06 / 08-08 / 08-09 / 08-10 (20 cards) = 25 published cards, read from the file (books section begins at line 6523); PLUS the 28 published-card URLs recorded in the previous run's pipeline/runs/2026-08-11/books/selected.json dedup notes, which preserve the 2026-08-04..08-07 cards that have since aged out of the 5-day file window. No pipeline/runs archive exists for 2026-08-04 or 2026-08-05, so the 08-11 run's notes are the only surviving record of that window and are treated as authoritative.",
-    "recovery_pass_note": "Re-curation after a recovery collection pass. The filtered pool grew from 11 to 16 items; the 5 recovery items are ranks 12-16 in candidates_filtered_books.json. Of those 5, three were dropped as already published (see below) and two survived — Book Riot 'Avoiding AI' library programs and Good e-Reader iFlytek AINOTE 2 — which are exactly the two added here to reach the cap of 5. The original 3 picks are unchanged and remain ranks 1-3.",
-    "published_urls_in_current_file": [
-      "https://publishingperspectives.com/2026/08/around-the-book-world-august-10-2026/",
-      "https://scholarlykitchen.sspnet.org/2026/08/10/new-guidance-from-cope-an-interview-with-natalie-ridgway/",
-      "https://www.youtube.com/watch?v=3NRTlv_vQOY",
-      "https://www.youtube.com/watch?v=es-EGrWfJeg",
-      "https://www.youtube.com/watch?v=HT94dPtKAhI",
-      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101010-new-bisg-head-lays-out-priorities.html",
-      "https://publishingperspectives.com/2026/08/applications-still-open-for-koreas-asian-publishers-week-2026/",
-      "https://www.youtube.com/watch?v=IEi44Dmn9rM",
-      "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
-      "https://publishingperspectives.com/2026/07/clarity-of-thought-and-responsibility-can-the-pope-move-the-needle-on-ai-regulation/",
-      "https://www.youtube.com/watch?v=2pJqxijuCTA",
-      "https://www.youtube.com/watch?v=zclrdrwsD-M",
-      "https://janefriedman.com/european-unions-ai-act-requires-transparency-around-specific-types-of-ai-generated-content/",
-      "https://www.youtube.com/watch?v=61voMQvOFNE",
-      "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
-      "https://selfpublishingadvice.org/ai-in-self-published-amazon-books/",
-      "https://goodereader.com/blog/audiobooks/harpercollins-is-betting-big-on-ai-audiobooks",
-      "https://www.thebookseller.com/news/numerous-authors-of-colour-facing-ai-speculation-hard-to-ignore-as-trade-debates-trend",
-      "https://scholarlykitchen.sspnet.org/2026/08/07/guest-post-do-we-need-revolution-in-peer-review/",
-      "https://janefriedman.com/update-on-substacks-ai-detection-using-pangram/",
-      "https://janefriedman.com/chatgpt-blocks-requests-to-imitate-specific-writers-styles/",
-      "https://www.thebookseller.com/news/ai-generated-stories-rated-higher-than-human-written-ones-in-new-study",
-      "https://www.theguardian.com/commentisfree/2026/aug/05/anthropic-ai-destroying-books",
-      "https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/",
-      "https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/",
-      "https://www.thebookseller.com/news/tor-bramble-backs-h-m-wolfe-after-ai-detection-claims-over-daggermouth",
-      "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html",
-      "https://publishingperspectives.com/2026/08/digital-science-launches-ai-native-researcher-workspace/"
-    ],
-    "already_published_matches": [
-      {
-        "url": "https://www.thebookseller.com/news/it-was-inevitable-agents-react-to-major-book-deal-that-collapsed-over-suspected-ai-use",
-        "reason": "SAME URL, already published 2026-08-05 as books-agents-cannot-authenticate (The Bookseller). That day has rolled out of the 5-day file window, but the URL is recorded in the previous run's dedup notes, and earliest-wins is absolute."
-      },
-      {
-        "url": "https://janefriedman.com/seven-figure-book-deal-canceled-hugh-howey-says-its-the-end-of-an-era/",
-        "reason": "CONTENT duplicate of the same event — the $2.4m crime-novel deal withdrawn on 31 July over suspected AI use — published 2026-08-05 (books-agents-cannot-authenticate). Different outlet, same story."
-      },
-      {
-        "url": "https://www.thebookseller.com/news/genius-novel-sold-in-major-six-and-seven-figure-deals-at-auction-pulled-over-ai-allegations",
-        "reason": "CONTENT duplicate: the original 31 July breaking report of that same withdrawn auction title. Third angle on one already-published story — at most one may run, and that one already ran on 2026-08-05."
-      },
-      {
-        "url": "https://publishingperspectives.com/2026/08/legal-battle-over-u-s-copyright-chief-heats-up-again/",
-        "reason": "SAME URL, already published in the 2026-08-05/06 window (present in the previous run's published-URL list). Aged out of the current file but must not reappear."
-      },
-      {
-        "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-3-2026/",
-        "reason": "SAME URL, already published 2026-08-05 as books-aala-ethics-code-ai (the Aug 3 edition of the weekly column). Also the same recurring column as the published Aug 10 edition."
-      },
-      {
-        "url": "https://bookriot.com/study-claims-viral-bestseller-daggermouth-is-ai-generated/",
-        "reason": "CONTENT duplicate twice over: the Stony Brook / Pangram study is Tuhin Chakrabarty's 'Generative AI Floods and Dilutes the Market for Books', published 2026-08-08 as books-amazon-ai-study; and the Daggermouth accusation itself ran 2026-08-06 as books-daggermouth-publisher-backing (The Bookseller, Tor Bramble backs H.M. Wolfe)."
-      },
-      {
-        "url": "https://janefriedman.com/researchers-attempt-to-prove-that-generative-ai-dilutes-the-market-for-books/",
-        "reason": "CONTENT duplicate of the same Chakrabarty market-dilution paper published 2026-08-08 as books-amazon-ai-study. The headline restates the paper's own title."
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=y41CRIVzSoI",
-        "reason": "CONTENT duplicate of the Substack + Pangram detection rollout and its false-positive fallout, published 2026-08-08 as books-substack-pangram-detection (Jane Friedman). Same event, different outlet. The same channel's 8/6 episode (61voMQvOFNE) also ran on 2026-08-09."
-      },
-      {
-        "url": "https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/",
-        "reason": "RECOVERY ITEM DROPPED — SAME URL, already published 2026-08-05 as books-published-voice-ai (The Scholarly Kitchen); still present in the current news_data.json books history."
-      },
-      {
-        "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
-        "reason": "RECOVERY ITEM DROPPED — SAME URL, already published 2026-08-09 as books-pw-ai-still-not-easy (Publishers Weekly); still present in the current news_data.json books history."
-      },
-      {
-        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
-        "reason": "RECOVERY ITEM DROPPED — the Princeton University Press x Cashmere AI-licensing deal was already published in the pre-08-06 window; the 2026-08-11 run's dedup notes record it explicitly ('Princeton University Press x Cashmere AI licensing was published in the prior window') when dropping the Jane Friedman 8/5 links roundup for the same reason. That day has aged out of news_data.json and no runs/ archive survives for it, so the prior run's note is the authoritative record. Earliest-wins is absolute, so this does not run again — and dropping it also keeps Publishers Weekly at 1 card."
-      }
-    ],
-    "near_miss_checks": [
-      "Book Riot 'Avoiding AI Library Programs' (8/11) is NOT the Book Riot Daggermouth piece in the same pool (dropped above) and matches nothing in the books history: no library-worker, library-program or AI-opt-out card has run in the last 5 days, and Book Riot has never been published in this section. Distinct story, distinct outlet.",
-      "Good e-Reader iFlytek AINOTE 2 (8/07) is NOT books-harpercollins-ai-audiobooks (Good e-Reader, published 2026-08-08) — same outlet, completely different subject (E-Ink hardware roadmap vs. AI audiobook narration). Good e-Reader therefore sits at 1 card in this set. It is also not the Digital Science AI researcher workspace card (Publishing Perspectives, published in the current window): that is cloud research software, this is a consumer E-Ink device.",
-      "The Bookseller STM 'war of AI against AI' (8/11) is NOT books-peer-review-revolution (Scholarly Kitchen 8/07) and NOT books-cope-no-ai-clause (Scholarly Kitchen 8/10): different outlet, different speaker, and a distinct claim — that AI screening must not become the whole integrity process.",
-      "The Scholarly Kitchen Aries/ChronosHub interview (8/11) is NOT the COPE interview published 8/11, NOT books-peer-review-revolution (8/07), NOT books-published-voice-ai (8/05), NOT books-ai-participation-layer (7/30 guest post) — five different authors, subjects and URLs on one outlet.",
-      "PW's Spotify audiobook discovery tools (8/11) is NOT the Spotify item inside books-perplexity-ebook-store (ALLi, 8/06, Spotify passing 100m audiobook listeners) and NOT books-harpercollins-ai-audiobooks (8/08, AI narration) — product discovery features vs. audience milestone vs. narration production."
-    ],
-    "diversity": "5 picks / 5 distinct outlets (Publishers Weekly, The Bookseller, The Scholarly Kitchen, Book Riot, Good e-Reader) — 1 card each, well inside the 2-per-outlet cap, and two outlets (Book Riot, Good e-Reader on a non-audiobook story) that have not carried this section recently. Topic spread: audiobook discovery product, research-integrity policy, submission-workflow infrastructure, library AI literacy, AI-native reading hardware — five different corners of the book world, no two in the same lane. Accents #f5a623 / #0070f3 / #7928ca / #2ec5c5 / #eb367f are all distinct (drawn from sources.json palette) since every pick shares the single books category; motif 'swatch' and tool 'Books' per sources.json.",
-    "pool_note": "Pool of 16 after the recovery merge. 11 dropped as duplicates of already-published stories (3 angles on the one crime-novel deal collapse from 2026-08-05; 2 on the Chakrabarty market-dilution study from 2026-08-08; the Aug 3 roundup; the copyright-chief case; the Substack/Pangram video; plus 3 of the 5 recovery items — Published Voice, PW 'AI May Be Making Publishing Easier', and PUP x Cashmere). 5 selected, the full cap, none previously published, no URL repeated within the set."
-  }
+  ]
 }

@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "section": "design",
   "cards": [
     {
-      "id": "design-figma-make-time-savings",
+      "id": "design-figma-skills",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 시간을 아껴 준다는 말에\nFigma가 숫자를 붙였다",
-      "body": "참가자 100명 무작위 실험에서 Figma Make를 쓴 작업이 20% 빨라졌다.",
-      "mini_headline": "Make가 아낀 시간",
+      "headline": "이제 디자이너가\n피그마 스킬을 직접 만든다",
+      "body": "피그마 안에서 에이전트용 스킬을 직접 만들고 커뮤니티에 공개하는 길이 열렸다.",
+      "mini_headline": "스킬 만드는 디자이너",
       "tool": "Figma",
       "source": "Figma",
-      "url": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
+      "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -18,109 +18,137 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Figma Make 같은 AI 도구는 디자인 주기를 줄여 왔다. 팀을 붙잡아 두던 반복적이고 기계적인 일을 대신 맡는 식이다. 그런데 정작 얼마나 아꼈는지, 어디서 가장 크게 이득을 봤는지 아는 팀은 많지 않다. Figma 데이터 사이언스 팀이 답을 찾아 나섰지만 A/B 테스트나 인과 추론 같은 흔한 방법으로는 AI의 복잡함을 다 담지 못했다."
+            "x": "오늘부터 피그마 에이전트용 스킬을 제품 안에서 직접 만들 수 있다. 만든 스킬은 커뮤니티에 올려 다른 사람과 나눈다."
           },
           {
             "t": "p",
-            "x": "결과부터 말하면 Figma Make로 디자인 작업은 20% 빨라지고 16% 쉬워졌다. 가장 크게 덕을 본 쪽은 PM이다. 과제가 23% 빨라졌고 37% 쉬워졌다. 이 숫자는 참가자 100명에게 Make를 쓸 때와 쓰지 않을 때 같은 과제를 풀게 한 무작위 대조 시험에서 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "측정이 까다로운 건 교란 변수 때문이다. 근속 기간, 경력, 과제 난이도가 모두 작업 속도를 흔든다. 일상적인 통계 기법으로는 이런 변수를 걷어 내지 못하고, 그러면 생산성 변화 중 얼마가 AI 몫인지 가릴 수 없다."
+            "x": "스킬은 결국 마크다운 텍스트 파일이다. 순서 있는 지시문이나 프롬프트 모양이라 언뜻 엔지니어 쪽 물건 같지만, 디자이너가 지니고 다니는 판단과 취향을 담기에 오히려 잘 맞는다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3ba7180ee5d497a81d831a7220c41f866bb60deb-3264x2176.jpg?w=1080&h=720&q=75&fit=max&auto=format",
-            "cap": "온라인 A/B 테스트, 관찰 데이터 인과 추론, 무작위 대조 시험의 장단점 비교."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1536&h=1536&q=75&fit=crop&crop=focalpoint&auto=format",
+            "cap": "화살표와 편지, 웃는 얼굴, 꽃, 사각형이 줄무늬 길로 이어진 인터페이스 요소 일러스트"
           },
           {
             "t": "p",
-            "x": "한 집단에는 Make를 주고 다른 집단에서는 끄는 방법을 떠올려 볼 만하다. 이론상 교란 변수는 무작위로 흩어지지만, 두 집단이 똑같이 복잡한 과제를 하는지 통제할 길이 없다. 로그 데이터로 인과 추론을 하는 길도 막혔다. 성향 점수 매칭(PSM)은 모든 교란 변수가 로그에 담겨 있어야 성립하는데, 익명화된 사용자 ID는 그 사람의 주관적인 디자인 경험을 알려 주지 않는다. 도구 변수(IV)에 쓸 만한 변수도 로그에는 없었다."
+            "x": "글쓴이는 모션 튜토리얼을 만들다가 감을 잡았다. 늘 쓰던 이징 커브를 작업 중인 키프레임에 적용하는 스킬을 짜고 /ease-like-miggi라 이름 붙였는데, 팀이 그걸 쓰자 팀의 모션도 자기 것처럼 움직였다."
           },
           {
             "t": "p",
-            "x": "남은 선택은 무작위 대조 시험(RCT)이었다. 무작위 배정으로 교란 변수를 두 집단에 고르게 나누고, 같은 과제를 풀게 해 과제 속성 차이를 없애고, 훈련된 연구팀이 진행을 조율해 변동을 줄인다. 표본 크기는 GitHub Copilot RCT 같은 업계 선행 연구의 효과 크기로 검정력 분석을 돌려 정했다. 제품 디자이너 50명과 제품 관리자 50명, 모두 100명이다."
+            "x": "만드는 방법은 이렇다. 디자인 프레임을 참고로 주거나 원하는 단계와 가이드라인을 알려 주고 에이전트에게 스킬을 만들어 달라고 한다. 초안이 나오면 미리 보고 채팅에서 바로 써 본다. 쓰면서 단계를 고치고 형식을 바꾸거나, 마크다운 편집기를 열어 손으로 다듬는다. 상당수는 서드파티 에이전트에서 피그마 MCP 서버와도 함께 돌아간다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8bc8653bcddc30417de400df036e41bf803a1a4a-1608x812.jpg?rect=1,0,1606,812&w=1080&q=75&fit=max&auto=format",
-            "cap": "과제 1. 라이트 모드로 시작한 디자인을 다크 모드로 바꾼다."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+            "cap": "모바일 디자인 캔버스를 둘러싼 AI 작업 프롬프트 목업"
           },
           {
             "t": "p",
-            "x": "과제는 경력과 상관없이 누구나 아는 일이어야 했다. 소셜 미디어 게시물 편집으로 정했다. UI와 외형 바꾸기, 기본 디자인에서 새 화면 만들기, 상호작용과 반응형 더하기. 세 시나리오를 짰다. 가장 어려웠던 건 제품 디자이너에게 너무 쉽지 않으면서 PM에게 너무 어렵지도 않은 지점이다. 내부 파일럿을 거쳐 과제를 세 번 다시 설계했다. 진행 방식 차이도 또 다른 교란 변수라, 모든 진행자가 따르는 스크립트와 문제 해결 가이드를 만들었다."
+            "x": "커뮤니티에서 고른 열 개 중 몇 가지. /xray-scan은 사진이나 설명을 방사선 사진처럼 바꾼다. 흑백에 가장자리가 빛나 여러 장을 겹치면 콜라주가 된다(Adele Ix). /find-animation-opportunities는 움직여야 하는데 멈춰 있는 곳, 반대로 움직이지 말아야 할 곳을 짚고 수치까지 제안한다(Emil Kowalski, Linear). /camera-pan-and-zoom은 프레임을 건드리지 않고 카메라 리그를 짜서 팬과 줌, 롤을 연출한다(Mallory Dean, Figma)."
+          },
+          {
+            "t": "p",
+            "x": "/better-interface는 타이포그래피와 레이아웃, 접근성, 모션, 제품 문구를 아우르는 개인 규칙집을 에이전트에게 넘긴다(Jakub Krehel, Interfere). /component-handoff는 컴포넌트 하나를 골라 이름과 버전, 담당자가 담긴 헤더부터 라이브 프리뷰, 배리언트 그리드, 해도 되는 것과 안 되는 것, 상태 분해, 전체 애너토미까지 문서 프레임으로 펼친다(Mauro Berteri, Itti Digital)."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/121c4ffabf507588adc72768f9cae241dbfc636f-3264x2176.jpg?w=1080&h=720&q=75&fit=max&auto=format",
-            "cap": "완료 시간 20% 감소, 과제 용이성 16% 상승, 체감 Figma 사용성 15% 상승."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/efe4f75c324a81587d2bda37df7de8eca3c0c8fb-3070x1727.png?rect=1,0,3068,1727&w=1080&h=608&q=75&fit=max&auto=format",
+            "cap": "대기·드래그·로딩·완료 상태와 스펙 표를 함께 정리한 슬라이딩 버튼 컴포넌트 명세"
           },
           {
             "t": "p",
-            "x": "참가자 100명이 모두 완주했다. 누적 과제 완료 시간이 20% 줄고, 과제 용이성은 16%, 체감 Figma 사용성은 15% 올랐다. PM은 모든 항목에서 제품 디자이너보다 큰 폭으로 나아졌다. 상호작용 회귀 모델로 보면 Make를 쓴 PM이 누적 23%를 되찾았고, 실험 총합에서는 Make를 쓰지 않은 제품 디자이너와 거의 맞먹는 효율을 냈다."
+            "x": "/create-color는 눈에 보이는 채움과 선, 그림자를 토큰이나 스타일에 매핑하고 하드코딩된 색을 잡아낸다. 그러데이션이면 각 스톱의 위치와 색, 연결된 변수까지 적어 준다(Ian Guisard, Uber). /analyze-components는 페이지를 훑어 고아 컴포넌트와 중복, 이름 오류를 표시하고 인스턴스를 한꺼번에 바꿔 끼운다(Amy Ha, Walmart)."
           },
           {
             "t": "p",
-            "x": "이득이 나오는 지점은 갈렸다. PM은 가장 쉽고 빠른 과제 둘에서 개선을 보고했지만 가장 어렵고 긴 과제에서는 통계적으로 유의한 개선이 없었다. 제품 디자이너는 정반대다. 가장 어려운 과제에서만 유의한 시간 개선이 나왔다. Make는 디자이너에게 제로투원과 복잡한 인터랙션 디자인을 앞당기는 도구고, PM에게는 빠르게 디자인에 손을 보태게 해 주는 기본 도구인 셈이다."
+            "x": "/ui-state-expander는 화면 하나를 로딩과 빈 상태, 오류, 비활성, 부분 데이터, 엣지 케이스까지 펼쳐 트리거와 문구, 전환, 구현 노트를 붙인다(Linda Ojo, Paystack). /superfuture-design-review는 리뷰 결과를 빨강은 블로커, 노랑은 권장 수정, 초록은 이미 잘 되는 것으로 나눈다(Joey Primiani). /usability-test-guide는 프레임 옆에 진행 질문을 붙여 사용성 테스트 가이드를 만든다(Neha Kodi)."
           },
           {
             "t": "p",
-            "x": "분석은 가설 검정과 OLS 회귀 모델을 함께 썼고, 따로 표기하지 않은 결과는 모두 통계적으로 유의하다. 설계 덕분에 Make가 이 개선을 일으켰다고 자신 있게 말한다. Figma는 새 디자인 에이전트를 두고 비슷한 RCT를 준비한다."
+            "x": "디자인 에이전트는 Professional·Organization·Enterprise 플랜의 Full 시트 사용자에게 오픈 베타로 열려 있다. Collab·Dev·View 시트는 드래프트에서 쓴다. 베타 기간에는 무료다."
           }
         ]
       }
     },
     {
-      "id": "design-alien-no-mesh-shader",
+      "id": "design-onshape-featurescript-mcp",
       "eyebrow": "AI NEWS",
-      "headline": "메시도 텍스처도 정점도 없다\n셰이더 수학만으로 만든 외계인",
-      "body": "Drin이 만든 외계인은 전체 화면 쿼드 한 장 위에서 레이마칭으로 그려진다.",
-      "mini_headline": "메시 없는 3D 외계인",
-      "tool": "KeyShot",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/this-alien-has-no-mesh-is-built-in-three-js-with-shader-math/",
-      "accent": "#f5a623",
-      "motif": "sphere",
+      "headline": "말로 설명하면\nCAD 기능이 만들어진다",
+      "body": "Onshape에서 말로 설명한 CAD 피처를 AI가 코드로 짜고 테스트까지 해낸다.",
+      "mini_headline": "말로 짓는 CAD 기능",
+      "tool": "Text-to-CAD",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/cad/onshape-featurescript-mcp-lets-users-build-custom-cad-features-fast/",
+      "accent": "#7928ca",
+      "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "PTC가 Onshape용 FeatureScript MCP Server를 내놨다. 자연어와 AI로 나만의 CAD 피처를 짓는 기능이다."
+          },
+          {
+            "t": "p",
+            "x": "Onshape Labs로 공개했다. 원하는 기능을 말로 설명하면 AI가 FeatureScript로 만들고 테스트하고 디버깅하며 의도대로 돌아갈 때까지 다듬는다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/meta/49683/images/6a7afda7da4c2/contain_1200x630.jpg",
-            "cap": "Three.js 셰이더로만 만든 외계인."
+            "src": "https://develop3d.com/wp-content/uploads/2026/08/Onshape-Labs-MCP-1024x576.jpg",
+            "cap": "Onshape Labs FeatureScript MCP"
           },
           {
             "t": "p",
-            "x": "Senior Developer Drin이 시각화한 이 귀여운 외계인은 3D처럼 보이지만 3D가 아니다. Three.js로 만들었고, 3D 느낌을 내는 건 지오메트리가 아니라 셰이더 수학이다."
+            "x": "기업은 반복 작업을 자동화하고, 워크플로에 맞춘 도구를 만들고, 그 과정에서 엔지니어링 지식을 남긴다."
           },
           {
             "t": "p",
-            "x": "뒤에 메시도 텍스처도 없고 정점 하나 없다. 셰이더 안에서 돌아가는 수학뿐이다. 장면은 전체 화면 쿼드 한 장으로 이뤄져 있고, 픽셀마다 프래그먼트 셰이더에서 부호 있는 거리장을 레이마칭해 계산한다."
+            "x": "예를 들어 표준 정의가 담긴 PDF를 AI에 먹여 만든 피처는 복잡한 헬릭스를 클릭 한 번으로 적용한다. 와이어 선반이나 싱크 랙용 도구는 사용자가 정한 파라미터를 받아 그리드 패턴과 지지 구조를 만든다. 늘 걸리던 병목을 위한 버튼을 직접 짓는 셈이다."
           },
           {
             "t": "p",
-            "x": "결국 평평한 면 위에서 셰이더 수학이 깊이와 모양과 형태를 맡는다. 기술적으로는 완전히 평평한 평면인데 부피의 착시가 생긴다. 레이마칭과 SDF는 테크니컬 아티스트들이 GPU에서 곧장 양식화된, 지오메트리 없는 비주얼을 만들 때 쓰는 기법이다."
+            "x": "“FeatureScript는 우리가 우리 피처를 만들 때 쓰는 추상화 언어고, 그걸 전부 오픈소스로 풀었다. 빠진 기능도 만들고 필요한 것을 붙일 수 있고, 실제로 그렇게 쓰는 고객도 있었다. CAD 시스템을 각자 필요에 맞게 고치게 하자는 게 우리 의도”라고 PTC Onshape 총괄 수석부사장 Darren Henry가 DEVELOP3D에 준 사전 프리뷰에서 말했다."
           },
           {
             "t": "p",
-            "x": "그럴싸한 가짜 3D를 만드는 길은 여럿이다. 블렌더 단편 Dust of the Simulacrum의 감독이 광각 렌즈 왜곡을 푼 방식도 그중 하나다. Web Entangled Prophecy를 위해 만든 로고는 언리얼 엔진 5에서 리테이너 박스와 HLSL로 나왔다."
+            "x": "“다들 알다시피 AI는 코딩을 좋아한다. Onshape만 있으면 튼튼한 표준 도구 세트를 갖추고 거기서 각자의 필요에 맞게 확장한다. 필요에 딱 맞게 재단된 튼튼한 표준 CAD, 그게 Onshape의 강점이라고 본다.”"
           },
           {
             "t": "p",
-            "x": "Three.js 쪽에는 Chiro Visuals의 실시간 강설 시스템, Evan Wallace의 WebGL 데모를 Yong Su가 Three.js로 옮긴 작업, Dan Greenheck의 Three.js Water Pro 같은 결과물이 있다. 외계인 설정은 링크를 눌러 색을 바꿔 가며 직접 만져 본다."
+            "x": "FeatureScript MCP Server는 Claude와 ChatGPT, Gemini 같은 코딩 LLM까지 범위를 넓힌다. Model Context Protocol 위에 올려 AI를 FeatureScript 코드에 바로 연결한다."
+          },
+          {
+            "t": "p",
+            "x": "AI에게 FeatureScript 피처를 짜 달라는 건 몇 해 전부터 됐다. 다른 점은 테스트와 평가까지 한다는 것이다. “코드를 넣고, 테스트하고, 출력을 평가하고, 필요하면 다시 쓴다. 목표에 맞는지 스스로 판단하며 이 전부를 자율로 해낸다”고 Onshape AI 이노베이션 수석 디렉터 Cody Armstrong이 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "Onshape가 특히 기대를 거는 대목은 지속 메모리다. “과거에 어떤 상호작용을 했는지 스스로 메모리에 적는다. 앞으로 같은 오류를 피하려는 것”이라고 Armstrong은 말했다. 과거의 오류와 해법을 메모로 쓰고 읽으며 에이전트가 시간이 갈수록 나아진다."
+          },
+          {
+            "t": "p",
+            "x": "CAD 자체의 피처만 만드는 것도 아니다. 외부 LLM과 함께 표준을 따르는 CAD 모델을 짓는 프롬프트도 만든다. 셸 앤 튜브 열교환기 사례에서는 사람이 스케치 한 줄 긋지 않고 267개 부품 어셈블리가 완성됐다. 절단 목록이 들어갔고 용접 사양표를 비롯한 여러 표까지 붙었다."
+          },
+          {
+            "t": "p",
+            "x": "이미지든 PDF든 표준이든 사내 가이드라인이든 더 많이 줄수록 초기 결과가 좋아진다. 다만 간단한 프롬프트 하나로도 피처는 만들어진다."
+          },
+          {
+            "t": "p",
+            "x": "“CAD에서 AI의 미래는 단순한 text-to-CAD가 아니라 text-to-code-to-CAD”라고 PTC의 Onshape·Arena 총괄 EVP David Katzman이 말했다. “AI의 진짜 값어치는 검증된 아이디어를 몇 번이고 다시 쓰는 도구로 바꿔 주는 데 있다. 새 FeatureScript MCP Server로 Onshape는 가장 고쳐 쓰기 좋은 프로덕션 CAD가 됐다.”"
           }
         ]
       }
     },
     {
-      "id": "design-lottie-tactile-ux",
+      "id": "design-eu-ai-labelling",
       "eyebrow": "AI NEWS",
-      "headline": "물리 엔진 대신 Lottie 상태 제어로\n스트레스 해소 장난감을 만들었다",
-      "body": "물리 엔진 대신 Lottie 세그먼트와 거리 계산으로 촉각 반응을 짰다.",
-      "mini_headline": "Lottie로 만든 촉각",
+      "headline": "AI라고 밝히는 일이\n이제 UI의 몫이 됐다",
+      "body": "8월 2일부터 EU 시민을 상대하는 서비스는 AI 생성물임을 화면에서 밝혀야 한다.",
+      "mini_headline": "AI 라벨링 의무화",
       "tool": "Design Tokens",
       "source": "Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+      "url": "https://www.smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -128,162 +156,144 @@
         "blocks": [
           {
             "t": "p",
-            "x": "촉각적이고 튕기고 부서지는 웹 인터페이스를 만들 때 업계의 보통 선택은 물리 엔진이다. Matter.js나 Cannon.js, 직접 짠 WebGL이 몰입형 게임화 사이트의 표준이 됐다."
+            "x": "이번 주 “막대한 과징금”이니 “전면적인 새 AI 규제”니 하는 말로 소란이 있었다. 뜯어 보면 훨씬 좁고 상식적이다. AI가 티 나야 할 자리에서 티 나게 만들자는 쪽이고, 특히 AI가 만든 콘텐츠가 대상이다."
           },
           {
             "t": "p",
-            "x": "Isadora Agency 팀도 Stress Release를 만들며 같은 갈림길에 섰다. 번아웃된 크리에이티브가 애니메이션 UI 캐릭터를 때리고 늘이고 일그러뜨리는 디지털 스트레스 해소 장난감이다. 물리 엔진을 살펴보다 결정적인 차이를 발견했다. \"물리 엔진은 그럴듯한 움직임을 만들지만, 우리 경우에는 애니메이터가 의도한 움직임을 만들었다.\""
+            "x": "2026년 8월 2일부터 EU 시민에게 서비스하는 회사에 AI 라벨링이 법적 의무가 된다. 유럽 접근성법처럼 EU 기업만의 문제가 아니다. AI 결과물을 EU 안의 사람이 쓴다면 어느 나라 회사든 걸린다."
+          },
+          {
+            "t": "p",
+            "x": "라벨링의 목적은 그 콘텐츠가 인공적으로 만들어졌거나 조작됐다는 사실을 누구나 분명하게 알아보게 하는 데 있다. AI법 제50조 4항이 지목하는 대상은 넷이다. 실제 인물이나 사물, 장소, 사건처럼 보여 진짜로 착각할 만한 딥페이크. 사람이 아니라는 사실을 알려야 하는 챗봇과 AI 에이전트. 공익 사안을 다루면서 사람의 검토를 거치지 않은 전면 AI 작성 텍스트. 그리고 감정 인식과 생체 분류 도구."
+          },
+          {
+            "t": "p",
+            "x": "AI를 만들거나 공급하는 provider와 그것을 쓰는 deployer 모두 의무를 진다. GDPR이나 EAA처럼 외부 도구를 라이선스했다는 이유로 제50조를 피해 가지는 못한다."
+          },
+          {
+            "t": "p",
+            "x": "나머지 대부분의 AI 보조 작업은 새 투명성 규칙 밖이다. 사람이 검토하고 편집했고 이름이 걸린 개인이나 조직이 편집 책임을 지면 고지 의무가 없다. 맞춤법과 문법, 서식, 크롭, 색보정, AI 번역 같은 작은 편집도 생성으로 치지 않는다. 반면 요약과 합성 이미지, 실질적 재작성, 사진에서 요소를 넣고 빼는 일은 생성이다."
+          },
+          {
+            "t": "p",
+            "x": "“사람이 한 번 훑어봤다”는 편집 검토로 쳐 주지 않는다. 위원회는 검토가 실질적이어야 하고 책임자의 이름이 있어야 한다고 못 박았다."
           },
           {
             "t": "img",
-            "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/02-intentional-motion.png",
-            "cap": "캐릭터 카드. 애니메이션 시퀀스와 상호작용 상태를 정한 성격과 시각 정체성을 보여 준다."
+            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/app-sparkle-symbols-ai.jpg",
+            "cap": "AI 제품마다 반짝임 아이콘이 넘치지만, 무엇이 AI가 만든 것인지까지는 알려 주지 않는다"
           },
           {
             "t": "p",
-            "x": "필요한 건 사실적인 시뮬레이션이 아니라 프레임 단위로 지정된 반응이었다. 그래서 물리 엔진을 아예 버리고 Lottie 상태를 프로그래밍으로 제어하는 방식과 DOM 조작, 거리 기반 수학으로 경험을 지었다."
-          },
-          {
-            "t": "p",
-            "x": "핵심 요구는 완전한 결정론적 제어다. 애니메이터가 만든 .json Lottie 파일은 프레임 단위 시퀀싱을 요구했다. 이를테면 '메가 스퀴즈' 반응은 정확히 181프레임의 빌드업과 그에 이어지는 릴리스 시퀀스가 필요했다. Lottie 네이티브 API로 상태를 다루니 애니메이터가 공들인 키프레임을 덮어쓰지 않고도 애니메이션을 정확히 띄웠다."
+            "x": "걸리는 대목은 아이콘이다. 위원회는 실천규약의 일부로 EU AI 아이콘 세트를 냈다. Carbon 디자인 시스템의 AI 라벨과 비슷한 “AI” 표식이지, 많은 제품이 쓰는 반짝임 아이콘이 아니다. 반짝임은 “이 콘텐츠가 AI로 만들어졌다”보다 “AI 기능이 들어 있다”는 뜻으로 더 자주 쓰여 모호하고, 규칙이 걸러 내려는 게 바로 그런 신호다."
           },
           {
             "t": "img",
-            "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/03-tactile-feedback.png",
-            "cap": "거리 기반 클릭 감지와 맞물린 Lottie 반응이 캐릭터를 실제로 때린 감각을 만든다."
+            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-ai-label-icons.jpg",
+            "cap": "EU 공식 AI 아이콘 세트 — 기본 AI, 전면 생성, 부분 수정 세 가지"
           },
           {
             "t": "p",
-            "x": "Lottie 런타임은 JSON 벡터 애니메이션을 내부에서 SVG로 렌더링한다. 요소는 ID와 CSS 클래스로 고르고, 동작은 Lottie 세그먼트와 CSS 변형, 클릭 이벤트 수학이 끌고 간다. 클릭은 매번 캐릭터 중심점을 기준으로 잰다. 페이지 좌표를 캐릭터 로컬 좌표로 옮긴 뒤 피타고라스 정리로 거리를 구한다."
-          },
-          {
-            "t": "p",
-            "x": "이 숫자 하나가 점수와 피드백 강도, 폭발 위치를 모두 정한다. 중심에서 10픽셀 안이면 100점, 40픽셀 안이면 70에서 90점, 145픽셀을 넘으면 0점이다. 동심원 점수판이 있는 다트판을 닮았다. 폭발 Lottie는 클릭 좌표에 맞춰 옮겨 놓는다."
-          },
-          {
-            "t": "p",
-            "x": "데스크톱 클릭과 모바일 탭은 네이티브 이벤트 리스너로 받는다. 레이캐스팅 층을 더하지 않아 상호작용 모델이 애니메이션 렌더링과 어긋나지 않는다. 캐릭터마다 idle과 squeeze1~3, 종료 애니메이션이 프레임 범위로 저장돼 있고, 클릭할 때마다 다음 구간을 재생한 뒤 idle 루프로 돌아온다."
-          },
-          {
-            "t": "p",
-            "x": "DOM 위에 지은 덕에 기기마다 바운딩 박스를 다시 재는 수고가 사라졌다. 반응형 크기 조정은 CSS 변수로만 처리하고, Lottie SVG는 상태를 잃지 않고 자연스럽게 늘어난다."
-          },
-          {
-            "t": "p",
-            "x": "Lottie JSON은 무겁다. 캐릭터 애니메이션 21종에 폭발 변형까지 얹으니 특히 모바일에서 성능을 지키려면 손을 많이 봐야 했다. performance.now()로 초기 로딩 시간을 재서 5초를 넘으면 느린 연결로 표시한다. 21개를 한꺼번에 띄우지 않고 await로 두 개씩 순차 로딩해 저사양 기기가 막히지 않게 했다. 무거운 폭발 애니메이션은 그때그때 파괴하고 다시 만들어 대기 상태 메모리를 낮췄다. 21개가 동시에 도는 선반 화면에서는 품질을 0.5로, 속도를 0.6으로 낮추고, 캐릭터 하나에 집중하는 플레이 화면에서는 품질을 1로 뒀다."
+            "x": "위원회는 아이콘을 썼다고 그 자체로 법을 지킨 것은 아니라고 분명히 했다. 잘 보이지 않는 아이콘, 푸터에 묻어 둔 문구, 1초 반짝하고 사라지는 라벨은 전부 불합격이다. 아이콘은 잘 보여야 하고 쉬운 말 라벨이 붙어야 하고 보조 기술이 읽을 수 있어야 한다. 아이콘 옆에 “AI-generated” 같은 평문을 두는 편이 안전하고, 다시 공유하거나 내려받아도 라벨이 따라가야 한다."
           },
           {
             "t": "img",
-            "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/05-conclusion.png",
-            "cap": "'메가 스퀴즈' 상태. 겹친 애니메이션 시퀀스와 배경 전환, 시간을 맞춘 피드백이 타격감을 키운다."
+            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/nngroup-research-sparkle-icon.jpg",
+            "cap": "반짝임 하나로는 AI 생성물임을 알리기 어렵다는 연구"
           },
           {
             "t": "p",
-            "x": "기술은 디자인 요구가 정한다. 맞춤형이고 통제된 시각 반응이 필요했으니 창발적 시뮬레이션 대신 프로그래밍 상태 제어를 골랐다. 코드는 듣고 계산하고 방아쇠를 당기는 데까지만 하고, 감각은 애니메이터가 정했다."
+            "x": "EU만의 일도 아니다. 중국은 2025년 9월 1일부터 표시와 워터마크 메타데이터를 의무화했다. 캘리포니아 SB 942는 AB 853 개정을 거쳐 EU와 같은 2026년 8월 2일에 맞춰 발효했다. 한국의 AI 기본법은 2026년 1월 22일 시행됐고 딥페이크 표시를 의무화한 첫 국가 단위 종합법으로 꼽힌다. 과징금은 위반당 2만 달러 수준이고 시행까지 1년의 유예가 있다. 인도는 2026년 2월 20일부터 IT 규칙 개정을 적용해 “합성 생성 정보” 표시를 요구한다."
+          },
+          {
+            "t": "p",
+            "x": "AI 콘텐츠가 사람이 만든 것과 헷갈릴 만하면 만든 쪽이 분명하게 밝혀야 하고, UI에서 AI가 만든 부분은 그렇다고 알려야 한다. 규칙의 골자는 여기까지다. AI 슬롭을 가려내는 데는 도움이 된다."
           }
         ]
       }
     },
     {
-      "id": "design-apple-mlb-immersive",
+      "id": "design-toolbag-503",
       "eyebrow": "AI NEWS",
-      "headline": "8월 28일부터 비전 프로에서\nMLB 경기를 생중계로 본다",
-      "body": "애플과 MLB가 8월 28일부터 9월 18일까지 네 경기를 비전 프로로 생중계한다.",
-      "mini_headline": "비전 프로 MLB 생중계",
+      "headline": "툴백 5.03이\n조명과 텍스처를 다시 짰다",
+      "body": "마모셋이 툴백 5.03에 텍스트·스캐터 레이어와 IES 조명 지원을 무료로 얹었다.",
+      "mini_headline": "툴백 5.03 업데이트",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/08/marmoset-releases-toolbag-5-03/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "마모셋이 게임과 VFX, 포트폴리오 작업용 실시간 렌더링·룩뎁 소프트웨어 Toolbag의 최신 버전 5.03을 내놨다."
+          },
+          {
+            "t": "p",
+            "x": "이번에도 제법 큰 무료 업데이트다. Text와 Scatter 레이어가 새로 들어갔고, IES 라이트 프로파일과 물리 광량 단위, 3Dconnexion의 SpaceMouse 입력 장치를 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "Toolbag은 룩뎁과 합성, 최종 렌더링을 가볍게 처리하는 도구다. 게임 아티스트가 많이 쓰지만 다른 분야에서도 쓰임이 늘고 있다. 불러온 모델을 빠르게 확인하며 PBR 머티리얼과 조명을 잡고, 2021년 Toolbag 4.0부터는 3D 텍스처 페인팅도 된다. 텍스처 맵을 구워 다른 DCC나 게임 엔진으로 넘기거나, 스틸과 애니메이션을 여기서 바로 렌더링한다."
+          },
+          {
+            "t": "p",
+            "x": "5.03에 새로 붙은 텍스처 레이어는 둘이다. Text 레이어는 모델 위에 글자를 투영하거나 메시 표면을 따라 정렬한다. 폰트 스타일과 자간, 정렬을 조절한다. Scatter 레이어는 돌이나 잎 같은 요소를 특정 표면 위에 뿌리거나 2D, 3D, 데칼 평면에서 투영해 흩는다."
+          },
+          {
+            "t": "p",
+            "x": "성능 쪽에서는 UDIM 타일을 하나씩 잠시 멈추거나 끌 수 있고, 레이어 캐싱이 들어가 평균적인 프로젝트에서 “약 2.7배” 빨라졌다. 로고나 라벨 같은 벡터 디자인을 SVG로 가져오는 것도 이제 된다."
+          },
+          {
+            "t": "p",
+            "x": "조명은 실제 빛을 더 정확히 재현하는 쪽으로 두 가지가 바뀌었다. 실제 조명 기구의 감쇠 패턴을 담은 IES 프로파일을 지원한다. 온라인에서 무료로 받아 쓰면 된다. 밝기를 물리 단위로 지정하는 것도 가능해졌다. 실내 장면에서 특히 차이가 난다. 뷰포트에서 모션 블러를 미리 보고, 프로시저럴 스카이에는 Sun Scale과 Sky Color 조절이 붙었다."
+          },
+          {
+            "t": "p",
+            "x": "베이킹은 최대 레이 거리를 정할 수 있게 됐고, 곡률 맵 품질이 특히 UV 심 근처에서 좋아졌다. 머티리얼 다중 선택도 된다. 뷰포트 이동에는 3Dconnexion의 SpaceMouse 계열을 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "Toolbag 5.03은 Windows 10과 macOS 13.5 이상에서 돌아가고 AMD, Apple Silicon, NVIDIA GPU를 지원한다. 영구 라이선스는 개인 아티스트 $399, 스튜디오 $1,299. 구독은 개인 월 $18.99, 스튜디오 월 $49.99다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-vision-pro-webxr-sim",
+      "eyebrow": "AI NEWS",
+      "headline": "비전 프로에서 젤을\n브라우저로 주무른다",
+      "body": "애플 비전 프로 브라우저에서 젤과 모래, 물 시뮬레이션이 실시간으로 돌아갔다.",
+      "mini_headline": "웹에서 도는 젤 시뮬",
       "tool": "VR Prototype",
-      "source": "Road to VR",
-      "url": "https://roadtovr.com/apple-mlb-live-immersive-games-schedule-2026/",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/gel-sand-sim-running-in-browser-on-apple-vision-pro",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?resize=1068%2C712&quality=89&ssl=1",
-            "cap": "제공: Apple, Major League Baseball."
+            "t": "p",
+            "x": "“손으로 썬 물리 젤리 한 조각 어떠신가요?”"
           },
           {
             "t": "p",
-            "x": "애플과 메이저리그(MLB)가 라이브 야구 경기 몇 편을 비전 프로에 올린다. 생중계는 8월 28일에 시작한다."
+            "x": "James C. Kane이 애플 비전 프로에서 돌아가는 젤과 모래, 물 시뮬레이션 데모를 공개했다. WebXR과 WebGPU를 Three.js로 묶어 만들었고, 이 조합에 Three.js를 쓴 사례는 자기가 아는 한 처음이라고 했다."
           },
           {
             "t": "p",
-            "x": "애플이 8월 야구 일정에서 확보한 경기 수를 처음 알렸을 때만 해도, Apple TV 구독자가 2026 시즌 마무리로 이머시브 경기를 볼 수 있을지는 분명하지 않았다."
+            "x": "데모 링크는 기사에 걸려 있다. 다만 데스크톱과 visionOS 27 개발자 베타를 올린 M5 애플 비전 프로에서만 테스트했다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "이번에 애플은 9월 18일까지 이어지는 '프라이데이 나이트 베이스볼' 라이브 네 경기를 알렸다. 중계는 Paul Severino가 플레이바이플레이, Xavier Scruggs가 해설, Michelle Margaux가 사이드라인 리포터를 맡는다."
+            "x": "James의 다른 작업도 함께 걸렸다. M5 애플 비전 프로로 Yong Su의 WebGPU 물 데모를 진짜 수영장처럼 만든 것, 그리고 Brandon Jones의 Sponza 클러스터드 라이팅 데모를 같은 기기 위에서 WebGPU와 WebXR로 굴린 것이다."
           },
           {
             "t": "p",
-            "x": "비전 프로에서 볼 수 있는 경기는 이렇다. 8월 28일 금요일 보스턴 레드삭스 대 뉴욕 양키스, 미국 동부시간 오후 7시. 9월 4일 금요일 로스앤젤레스 에인절스 대 피츠버그 파이리츠, 오후 6시 30분. 9월 11일 금요일 샌디에이고 파드리스 대 샌프란시스코 자이언츠, 오후 10시. 9월 18일 금요일 샌프란시스코 자이언츠 대 로스앤젤레스 다저스, 오후 10시."
-          },
-          {
-            "t": "p",
-            "x": "올해 초 로스앤젤레스 레이커스의 이머시브 NBA 생중계처럼, MLB 경기도 애플 고유의 180도 3D 공간 이머시브 비디오 형식으로 나간다. 시점을 여럿 고를 수 있고 리플레이와 팀 라인업, 기록이 시청자 공간에 떠 있다."
-          },
-          {
-            "t": "p",
-            "x": "생중계는 Apple TV를 구독하는 비전 프로 사용자에게 열린다. 호주, 캐나다, 독일, 홍콩, 일본, 한국, 대만, 영국, 미국 등이 포함된다. 경기를 놓쳤다면 비전 프로용 Apple TV 앱에서 전체 경기 리플레이와 하이라이트 묶음을 언제든 본다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-artstation-sketchfab-sale",
-      "eyebrow": "AI NEWS",
-      "headline": "에픽이 ArtStation과 Sketchfab을\n5년 만에 KitBash에 넘긴다",
-      "body": "에픽이 2021년에 사들인 두 플랫폼이 KitBash로 넘어간다.",
-      "mini_headline": "ArtStation 매각",
-      "tool": "Figma",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/art/digital-art/what-does-the-sale-of-artstation-and-sketchfab-mean-for-digital-artists",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc-1280-80.webp",
-            "cap": "ArtStation과 Sketchfab이 KitBash3D, Greyscalegorilla와 한 식구가 된다. 이미지: KitBash."
-          },
-          {
-            "t": "p",
-            "x": "ArtStation은 지금도 온라인에서 가장 큰 디지털 아트 커뮤니티 중 하나다. 등록 사용자가 1,000만 명을 넘는다. 수천 명의 디지털 아티스트가 이곳을 주 포트폴리오 사이트로 쓰고 있으니, 또 한 번 주인이 바뀐다는 소식에 마음이 놓이지 않을 만하다."
-          },
-          {
-            "t": "p",
-            "x": "포트나이트와 언리얼 엔진을 만든 에픽게임즈가 ArtStation과 3D 에셋 사이트 Sketchfab을 판다고 밝혔다. 둘 다 5년 전인 2021년에 사들인 곳이다. 새 주인은 3D 에셋 플랫폼 KitBash3D와 Greyscalegorilla를 운영하는 KitBash다."
-          },
-          {
-            "t": "p",
-            "x": "이번 거래로 에픽은 언리얼 엔진 6과 포트나이트, 에픽게임즈 스토어와 개발자 생태계에 집중한다. KitBash는 교육과 포트폴리오, 아티스트 발굴부터 실제 제작에 바로 쓰는 3D 에셋과 머티리얼, 퍼블리싱까지 아우르는 플랫폼 묶음을 갖게 됐다."
-          },
-          {
-            "t": "p",
-            "x": "KitBash는 이번 인수를 훈련부터 퍼블리싱까지 창작 과정 전체를 덮는 더 넓은 생태계를 만들 기회로 본다. KitBash3D에는 실제 제작에 바로 쓰는 3D 에셋과 환경 라이브러리가 방대하게 쌓여 있고, Greyscalegorilla는 3D 아티스트와 모션 디자이너를 위한 머티리얼과 플러그인, 도구에 전념해 왔다."
-          },
-          {
-            "t": "p",
-            "x": "KitBash 공동 CEO Banks Boutté는 이렇게 말했다. \"사람들이 포트폴리오와 경력, 커뮤니티를 쌓아 온 플랫폼입니다. 그 신뢰는 진짜고, 우리의 첫 번째 우선순위는 사용자가 각 플랫폼에서 가장 아끼는 것을 지키고, 이 플랫폼에 기대는 사람들의 말을 듣고, 앞날을 신중하게 짓는 일입니다.\""
-          },
-          {
-            "t": "p",
-            "x": "ArtStation은 2014년 Leonard Teo와 Kevin Strike가 게임과 영화, 엔터테인먼트 분야 디지털 아티스트를 위한 포트폴리오 허브로 세웠다. 2021년 에픽 인수 때도 우려가 있었지만 생태계 편입은 많은 아티스트에게 이점이 있었고, 에픽은 마켓플레이스 수수료도 낮췄다. 에픽게임즈에서 언리얼 생태계를 총괄하는 SVP Bill Clifford는 \"KitBash가 창작 과정의 모든 단계에서 아티스트가 서로 연결되고 작업을 새로운 방식으로 선보일 기회를 넓힐 것\"이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "새 주인은 아티스트에게 당장 달라지는 건 없다고 말한다. 기존 포트폴리오와 라이브러리, 작업 방식을 그대로 쓴다. KitBash3D와 Cargo 고객도 킷과 에셋, 구독을 유지한다. 지식재산권은 아티스트에게 남고, KitBash는 소유권과 저작자 표시, 창작권을 지키겠다고 못 박았다. 구독 가격과 접근 조건도 그대로고, 2D·3D 에셋과 프린트 판매도 끊기지 않는다. 다만 에픽의 디지털 에셋 마켓플레이스 Fab의 소유권이 바뀐다는 대목은 양측 발표 어디에도 없다."
-          },
-          {
-            "t": "p",
-            "x": "길게 보면 확장된 생태계가 어떻게 이어 붙을지는 두고 봐야 한다. 통합이 노출을 넓힐 거라며 낙관하는 아티스트도 있고, 소유 집중과 플랫폼 간 경쟁 축소를 걱정하는 쪽도 있다."
-          },
-          {
-            "t": "p",
-            "x": "가장 큰 흐름은 주인이 바뀌면 ArtStation의 AI 정책도 바뀌리라는 기대다. KitBash의 첫 과제는 두 플랫폼에 쌓인 AI 슬롭을 줄이는 일이어야 한다는 의견이 많다. 최근 몇 년 사이 ArtStation을 떠난 이들에게는 그것만이 돌아올 이유다. ArtStation은 X에 \"얻어야 할 신뢰가 있고, 배울 것이 많고, 앞으로 해야 할 중요한 일이 있습니다\"라며 아티스트의 목소리를 듣고 있다고 적었다."
+            "x": "주변의 모든 것이 진짜인지 의심하게 만든다는 Lucas Martinic의 XR 프로젝트도 볼거리로 소개됐다."
           }
         ]
       }
