@@ -59,9 +59,25 @@ def published_urls(news: dict, days: int):
     return out
 
 
+def ledger_urls(path: str, section: str):
+    """Collect (norm_url -> date) from the permanent published-URL ledger.
+
+    news_data.json only keeps ~5 days, but the freshness window runs to 14 days
+    for every section except design — so a story can age out of news_data and be
+    re-collected as "fresh" a week later. The ledger is the durable record of
+    every URL ever published in a section, which is what earliest-wins needs.
+    Missing ledger = no extra entries (the filter still works, just narrower)."""
+    try:
+        led = json.load(open(path))
+    except (OSError, ValueError):
+        return {}
+    return {norm_url(u): d for u, d in (led.get(section) or {}).items() if u}
+
+
 def main(argv):
     args = {"--news": "news_data.json", "--candidates": "candidates.json",
-            "--out": "candidates_filtered.json", "--days": "5", "--section": "design"}
+            "--out": "candidates_filtered.json", "--days": "5", "--section": "design",
+            "--ledger": "published_urls.json"}
     it = iter(argv)
     for a in it:
         if a in args:
@@ -72,7 +88,8 @@ def main(argv):
     news = (news.get("sections", {}) or {}).get(args["--section"], news)
     cand = json.load(open(args["--candidates"]))
     items = cand["items"] if isinstance(cand, dict) else cand
-    seen = published_urls(news, int(args["--days"]))
+    seen = ledger_urls(args["--ledger"], args["--section"])
+    seen.update(published_urls(news, int(args["--days"])))
 
     kept, dropped = [], []
     for c in items:

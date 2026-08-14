@@ -1,32 +1,29 @@
 {
-  "date": "2026-08-14",
-  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-honor-robot-phone",
-      "type": "video",
-      "src": "pipeline/media/gadgets-honor-robot-phone.mp4",
-      "poster": "pipeline/media/gadgets-honor-robot-phone.jpg"
+      "id": "gadgets-openai-doughnut-companion",
+      "type": "image",
+      "src": "pipeline/media/gadgets-openai-doughnut-companion.jpg"
     },
     {
-      "id": "gadgets-pixel-11-tensor-g6-tpu",
+      "id": "gadgets-lg-cloid-nvidia-humanoid",
       "type": "image",
-      "src": "pipeline/media/gadgets-pixel-11-tensor-g6-tpu.jpg"
+      "src": "pipeline/media/gadgets-lg-cloid-nvidia-humanoid.jpg"
     },
     {
-      "id": "gadgets-matic-cues-voice",
+      "id": "gadgets-rogbid-visionw-price-floor",
       "type": "image",
-      "src": "pipeline/media/gadgets-matic-cues-voice.jpg"
+      "src": "pipeline/media/gadgets-rogbid-visionw-price-floor.png"
     },
     {
-      "id": "gadgets-ray-ban-meta-vision-ireland",
+      "id": "gadgets-apple-china-llm-alibaba",
       "type": "image",
-      "src": "pipeline/media/gadgets-ray-ban-meta-vision-ireland.jpg"
+      "src": "pipeline/media/gadgets-apple-china-llm-alibaba.jpg"
     },
     {
-      "id": "gadgets-google-health-ai-hallucination",
+      "id": "gadgets-antigravity-local-llm-files",
       "type": "image",
-      "src": "pipeline/media/gadgets-google-health-ai-hallucination.jpg"
+      "src": "pipeline/media/gadgets-antigravity-local-llm-files.jpg"
     }
   ]
 }

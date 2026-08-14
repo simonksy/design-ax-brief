@@ -1,7 +1,7 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "design",
-  "selection_mode": "curator_auto",
+  "selected_by": "curator (user deferred)",
   "picks": [
     {
       "rank": 1,
@@ -9,115 +9,90 @@
       "category": "figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
+      "url": "https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/",
       "source": "Figma",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/71558fc0ae54ae69b156a69dd9b5751f821b1834-1536x2048.png?w=1632&h=2176&q=75&fit=max&auto=format",
-      "excerpt": "Figma now lets designers author custom Skills for the Figma agent directly inside the product, and publish them to the Community. The post highlights ten featured skills spanning visual effects, design documentation and usability-testing workflows.",
-      "rationale": "Designers can now author and publish their own agent Skills — the fastest route from 'AI helps sometimes' to a repeatable, team-shared workflow."
+      "published_iso": "2026-08-13T20:30:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/09c7f5c6f195f7683818bd404e9413ecfdf5f4c3-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma argues that AI accelerates execution but not clarity, so teams increasingly mistake polished AI output for a sound decision. It lays out the context layers — design systems, a stated point of view, explicit constraints — that keep fast AI work pointed at the right problem instead of generating tech debt.",
+      "rationale": "First-party Figma guidance that a design team can apply tomorrow: name the context layers before letting agents run, so speed does not turn into tech debt."
     },
     {
       "rank": 2,
-      "tool": "Text-to-CAD",
-      "category": "cad",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "url": "https://develop3d.com/cad/onshape-featurescript-mcp-lets-users-build-custom-cad-features-fast/",
-      "source": "DEVELOP3D",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/Onshape-Labs-MCP-1024x576.jpg",
-      "excerpt": "PTC's new Onshape FeatureScript MCP Server lets users describe a desired CAD feature in natural language and have AI build and refine the custom tool. It targets repeated modelling bottlenecks by turning them into bespoke buttons.",
-      "rationale": "Natural language now produces a reusable CAD feature, not just geometry — a modelling bottleneck becomes a custom button you keep."
-    },
-    {
-      "rank": 3,
       "tool": "Design Tokens",
       "category": "tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://www.smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
-      "source": "Smashing Magazine",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/new-ai-guidelines-ai-labelling.jpg",
-      "excerpt": "New EU guidelines require clearly labelling AI-generated content for anyone serving EU citizens, effective August 2, 2026. The rules cover deepfakes, chatbots, AI-written text and biometric tools — pushing designers to build disclosure into the UI itself.",
-      "rationale": "A dated compliance rule that lands in the UI layer — disclosure of AI content becomes a component and copy decision, not a legal footnote."
+      "url": "https://zeroheight.com/blog/standardizing-documentation-the-design-system-documentation-spec-and-the-w3c/",
+      "source": "zeroheight",
+      "published_iso": "2026-08-12T14:14:20Z",
+      "og_image": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/blogpost-w3c-social-1024x576.png",
+      "excerpt": "zeroheight details the Design System Documentation Spec now moving through the W3C, aiming to standardise how component docs are structured across tools. A shared machine-readable doc format is the missing half of design tokens for AI-driven handoff.",
+      "rationale": "A real standards move at the W3C — the documentation counterpart to design tokens, and the thing that decides whether agents can read a design system at all."
+    },
+    {
+      "rank": 3,
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "url": "https://blog.logrocket.com/ux-design/ai-ui-placement/",
+      "source": "LogRocket Blog",
+      "published_iso": "2026-08-13T18:00:28Z",
+      "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/08/Where-should-AI-go-in-your-UI-A-UX-guide-to-AI-feature-placement.jpg",
+      "excerpt": "A practical UX framework for deciding where an AI feature physically lives in a product — floating widget, inline assist, sidebar or a dedicated hub. The argument is that placement, not model quality, determines whether users discover, trust and keep using the AI.",
+      "rationale": "Concrete placement patterns for AI features — the decision most product designers are actually making this week, framed as a UX problem rather than a model problem. Second card in the figma category, so it takes a distinct palette accent."
     },
     {
       "rank": 4,
-      "tool": "KeyShot",
+      "tool": "AI Workflow",
       "category": "render",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.cgchannel.com/2026/08/marmoset-releases-toolbag-5-03/",
-      "source": "CG Channel",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": null,
-      "excerpt": "Marmoset shipped Toolbag 5.03, a free update to its real-time rendering and look-dev tool. It adds Text and Scatter Layers for texturing, IES light profiles with physical light units, and 3Dconnexion SpaceMouse support.",
-      "rationale": "Free point release with real look-dev gains — Text/Scatter texturing layers and IES physical lighting change how product renders get lit tomorrow."
+      "accent": "#7928ca",
+      "motif": "frame",
+      "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
+      "source": "Engadget",
+      "published_iso": "2026-08-14T19:04:42Z",
+      "og_image": "https://www.engadget.com/img/gallery/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/intro-1786734224.jpg",
+      "excerpt": "Google is adding a toggle that removes the visible sparkle watermark from images and video made with its Nano Banana, Omni and Lyria models, while invisible SynthID marks and C2PA metadata stay attached. It changes what AI-generated creative assets look like when they ship into client work.",
+      "rationale": "Newest item in the pool and it directly changes deliverables: generated assets can now ship without the visible sparkle, while the invisible provenance marks stay."
     },
     {
       "rank": 5,
-      "tool": "VR Prototype",
-      "category": "vr",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://80.lv/articles/gel-sand-sim-running-in-browser-on-apple-vision-pro",
-      "source": "80 Level",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": null,
-      "excerpt": "James C. Kane built an immersive gel, sand and water simulation running in the browser on Apple Vision Pro using WebXR, WebGPU and Three.js. He claims it's the first real-time sim of its kind delivered entirely through the web on the headset.",
-      "rationale": "Proof that a real-time immersive sim ships through a URL — WebXR + WebGPU removes the app-store step from spatial prototyping."
+      "tool": "AI Workflow",
+      "category": "workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
+      "source": "Vercel",
+      "published_iso": "2026-08-13T00:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3UHwfbngr1cY9BcpRkJbjI/dc86b1b9db0bcf0b0273659423f19494/acp-harness-support-og.png",
+      "excerpt": "Vercel's AI SDK harness layer now works with any Agent Client Protocol (ACP)-compatible harness through the new @ai-sdk/harness-acp package. Instead of wrapping one runtime per adapter — Claude Code, Codex, Pi, Deep Agents, OpenCode — it wraps the protocol, so a design-engineering team can point HarnessAgent at any harness that ships an ACP package.",
+      "rationale": "A meta adapter that decouples agent workflows from a single vendor runtime — design-engineering teams can swap the harness behind their design-to-code agents without rewriting the integration."
     }
   ],
   "dedup": {
-    "against_days": 6,
-    "published_days_checked": [
-      "2026-08-07",
-      "2026-08-08",
-      "2026-08-09",
-      "2026-08-10",
-      "2026-08-11",
-      "2026-08-12"
-    ],
-    "published_urls_checked": 30,
+    "pool_size": 17,
+    "checked_against": "sections.design — today (2026-08-14) + days 2026-08-08 … 2026-08-12, 30 published cards",
     "dropped": [
       {
         "url": "https://vercel.com/changelog/grok-build-harness-adapter",
-        "reason": "Vercel changelog content hub — same source, same core topic (AI SDK harness layer) as the ACP-harness post published the same day; kept neither since both are agent-runtime plumbing with little designer actionability."
-      },
-      {
-        "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
-        "reason": "Near-identical companion post to the Grok Build harness adapter changelog (same hub, same harness-layer topic) — only one could survive, and the topic scored below the picks."
-      },
-      {
-        "url": "https://vercel.com/changelog/exa-joins-the-vercel-agent-marketplace",
-        "reason": "Third simultaneous Vercel changelog drop; general AI-business/marketplace plumbing rather than design news."
-      },
-      {
-        "url": "https://www.engadget.com/2232151/how-to-convert-upscale-photo/",
-        "reason": "Evergreen how-to explainer on upscaling, no new release or insight — fails the novelty test."
+        "reason": "within-pool duplicate — same source (Vercel changelog), same core topic and same day as the ACP harness-layer post; kept the broader meta-adapter item instead"
       }
     ],
-    "backfilled": true,
-    "note": "No content-level duplicate of the last 6 days found. Nearest adjacency checked: Figma Skills authoring vs the 08-11 Figma YouTube 'agents in design files' walkthrough — different release (Skills authoring + Community publishing) and different URL, so distinct. DEVELOP3D Onshape MCP vs the 08-07 DEVELOP3D Creo 13 AI piece — same outlet, different product and event."
+    "notes": "No candidate matched an already-published design story by URL, redirect/canonical, or by covering the same event under a different outlet. Figma and zeroheight appear in past days, but on unrelated topics (Figma agent skills 08-14, Figma Make RCT 08-12; zeroheight had no prior card)."
   },
   "diversity_guard": {
-    "outlets": [
-      "Figma",
-      "DEVELOP3D",
-      "Smashing Magazine",
-      "CG Channel",
-      "80 Level"
-    ],
+    "distinct_outlets": 5,
     "max_per_outlet": 1,
-    "categories": [
-      "figma",
-      "cad",
-      "tokens",
-      "render",
-      "vr"
-    ],
-    "max_per_category": 1,
-    "note": "Five distinct outlets and five distinct categories, so no accent collision — each pick keeps its sources.json category accent. Surplus CG Channel (Ornatrix 4, Masters of the Universe breakdown) and 80 Level (feather tool, Spline Architect) items were held back to keep the per-outlet cap at 1."
-  }
+    "categories": {
+      "figma": 2,
+      "tokens": 1,
+      "render": 1,
+      "workflow": 1
+    }
+  },
+  "not_selected_top_alternates": [
+    "https://zeroheight.com/blog/building-moodles-design-system-for-machine-consumption-from-scratch/ — strong, but a second zeroheight card in the same tokens category; W3C spec ranked higher on novelty and industry reach",
+    "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/ — creator-side, weaker actionability for designers",
+    "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14 — essay, lower actionability than the picked five"
+  ]
 }

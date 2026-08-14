@@ -1,90 +1,61 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "movies",
-  "count": 5,
-  "note": "User deferred (\"알아서\") — curator picked. Dedup run first against sections.movies today(2026-08-12) + days(2026-08-07…2026-08-11), URL + content. Dropped: No Film School 'Roku Created a New Channel That's Only AI Slop 24/7' (https://nofilmschool.com/roku-ai-channel) as a CONTENT duplicate of the already-published The Verge card 'movies-roku-fairground' (2026-08-10, Roku's Fairground AI FAST channel — same event, different outlet). Dropped AWN 'Nolia' AI studio launch as a within-pool near-duplicate of the stronger, fresher Deadline 'Matriarch' AI-native studio launch and to respect the ≤2-per-outlet guard (AWN already carries Cascadeur). Backfilled with CineD RocXZoom. Deadline Seedance 2.5 kept: the 2026-08-08 Deadline card 'movies-minimax-bootleg' is about MiniMax Hailuo 3 bootleg clips and only mentions ByteDance guardrails in passing — this is a distinct, dedicated report on Seedance 2.5 refusing Hollywood IP prompts. Diversity guard satisfied: 5 distinct outlets (AWN, Deadline, THR, Variety, CineD), no outlet repeated, 5 distinct topic lanes (animation tool release / model guardrails / documentary likeness ethics / streaming first / on-set camera hardware). No general AI-business noise in the final set. Not selected: IndieWire AFM AI expansion (market-structure, lower craft actionability), Deadline Matriarch (studio-launch lane already implicitly covered and lower actionability), THR Rick Baker Locarno (opinion/interview, evergreen).",
   "picks": [
     {
-      "rank": 1,
+      "url": "https://www.cined.com/artlist-sold-a-year-of-unlimited-seedance-2-5-for-500-and-delivered-a-week/",
+      "source": "CineD",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://www.awn.com/news/cascadeur-ships-20262-animation-layers-and-3-new-languages",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-08-13T15:54:27Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/cascadeur_2026.2_screen2-1280.jpg?itok=9lJgG5oz",
-      "title": "Cascadeur Ships 2026.2 with Animation Layers and 3 New Languages",
-      "excerpt": "Nekki's physics- and AI-assisted character animation tool adds additive animation layers, easing controls, retrained inbetweening/motion-generation/retargeting networks, and a built-in MCP server that lets external AI agents drive the software. A concrete look at where neural assistance sits inside a working animation pipeline.",
-      "rationale": "Shipping tool release an animator can install tomorrow — animation layers plus an MCP server that opens the app to external AI agents is the most actionable item in the pool."
+      "rationale": "생성형 영상 구독의 '무제한' 마케팅이 추론 단가 앞에서 어떻게 무너지는지 보여주는 사례 — 툴 결제 전에 계산할 기준을 준다.",
+      "published_iso": "2026-08-14T12:00:00Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/Artlist-Seedance-unlimited-featured-1300x750.jpg",
+      "excerpt": "Artlist sold filmmakers a year of \"unlimited\" access to ByteDance's Seedance 2.5 video model for $500, then pulled the unlimited tier within days and swapped it for a modest credit allowance. CineD's breakdown shows the per-second inference economics made the offer impossible from day one — a warning about how gen-video pricing is being marketed to creators."
     },
     {
-      "rank": 2,
+      "url": "https://www.broadcastnow.co.uk/tech-innovation/nvidia-creates-ai-video-detector/5219075.article",
+      "source": "Broadcast",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "url": "https://deadline.com/2026/08/seedance-blocking-hollywood-ripoff-cruise-pitt-ai-deepfakes-1237031665/",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-08-12T10:18:13Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png",
-      "title": "After Chaos Of Cruise Vs Pitt AI Deepfakes, Seedance 2.5 Is Now Blocking Hollywood Rip-Offs",
-      "excerpt": "ByteDance's Seedance 2.5 is now refusing prompts that reproduce Hollywood IP and star likenesses, after Seedance 2.0 triggered an outrage cycle over Cruise-vs-Pitt deepfakes. A rare look at guardrails being retrofitted into a mainstream video model creators actually use.",
-      "rationale": "Changes what prompts actually run for anyone using Seedance in production — retrofitted IP and likeness guardrails in the model creators lean on most."
+      "rationale": "AI 생성 푸티지 판별을 인제스트 단계에 넣을 수 있는 실물 마이크로서비스 — 뉴스룸·포스트 파이프라인에 바로 붙는 프로브넌스 체크다.",
+      "published_iso": "2026-08-03T14:41:00+01:00",
+      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/3/0/7/1484307_nvidiaaivideodetector_311235.jpg",
+      "excerpt": "NVIDIA released a Synthetic Video Detector NIM microservice that flags AI-generated footage with up to 92% accuracy on uncompressed material, processing 1080p in 22ms on RTX systems. It is pitched at newsrooms and post teams that now need a provenance check inside the ingest pipeline."
     },
     {
-      "rank": 3,
+      "url": "https://postperspective.com/dalet-intros-cloud-native-suites-for-media-production-and-archive/",
+      "source": "postPerspective",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "url": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-12T20:19:09Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/YoungBillyJoelAI.jpg",
-      "title": "A Filmmaker Secured a Lost Billy Joel Radio Interview. Then He Re-Created the Singer in AI",
-      "excerpt": "A documentary filmmaker found a lost Billy Joel radio interview and used AI to reconstruct a young Billy Joel on screen — without the artist's involvement. A sharp case study in the consent gap opening up around AI-assisted documentary reenactment.",
-      "rationale": "A concrete, reproducible documentary technique paired with the consent question it forces — the clearest craft-ethics case study of the week."
+      "rationale": "에이전틱 AI가 MAM 안으로 들어와 자연어로 아카이브 검색과 포스트 워크플로를 굴린다 — 미디어 관리 업무의 조작 방식이 바뀐다.",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Solution-Suites-Dalet-624x415.jpeg",
+      "excerpt": "Dalet launched cloud-native solution suites on its Flex platform with preconfigured workflows and agentic AI built in. The suites center on Dalia, a media-aware AI assistant that lets teams search video libraries, enrich metadata and trigger post/archive workflows through natural language."
     },
     {
-      "rank": 4,
+      "url": "https://postperspective.com/actionvfx-offers-online-vfx-for-filmmakers-course/",
+      "source": "postPerspective",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "url": "https://variety.com/2026/tv/global/ai-generated-turkish-tv-series-castle-walls-prime-video-first-1236832779/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-08-12T09:01:32Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg",
-      "title": "AI-Generated Turkish Series 'Castle Walls' Launches on Prime Video in What Is Being Touted as a First",
-      "excerpt": "AI-generated historical drama 'Castle Walls,' produced by Turkish TV powerhouse Ay Yapim, launches on Prime Video as what is billed as the first series made end-to-end with generative AI for a major streamer. It is a concrete test of whether a fully synthetic production pipeline can carry a scripted series.",
-      "rationale": "First end-to-end generative-AI scripted series to land on a major streamer — the benchmark everyone building a synthetic pipeline will now be measured against."
+      "rationale": "뎁스맵·AI 로토·컨텐트 어웨어 필을 '기본 공정'으로 가르치는 커리큘럼 — VFX 아티스트가 아닌 감독·프로듀서용 학습 경로가 생겼다.",
+      "published_iso": "2026-08-07T12:00:00Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/vfx-for-filmmakers-1-624x415.jpg",
+      "excerpt": "ActionVFX launched an online 'VFX for Filmmakers' course aimed at directors and producers who aren't VFX artists, built around After Effects and Photoshop. Its \"Modern AI Integration\" module teaches depth-map generation, AI-assisted rotoscoping, content-aware fill and LLM-assisted troubleshooting as standard craft steps."
     },
     {
-      "rank": 5,
+      "url": "https://www.broadcastnow.co.uk/tech-innovation/2026-ai-creative-summit-to-examine-regulation-workflows-skills-and-more/5219052.article",
+      "source": "Broadcast",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "url": "https://www.cined.com/rocxzoom-heading-to-kickstarter-robotic-50x-zoom-camera-with-ai-subject-tracking-from-ex-dji-engineers/",
-      "source": "CineD",
-      "category": "movies",
-      "published_iso": "2026-08-12T11:38:43Z",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/RocXZoom.jpeg",
-      "title": "RocXZoom Heading to Kickstarter – Robotic 50x Zoom Camera With AI Subject Tracking From Ex-DJI Engineers",
-      "excerpt": "Ex-DJI engineers are crowdfunding RocXZoom, a robotic 50x zoom camera whose AI subject tracking handles framing and follow automatically. On-set machine vision is moving from post into the camera body itself.",
-      "rationale": "Moves AI from post into the camera body — automatic framing and follow is an on-set production change, and the only hardware angle in the pool."
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://nofilmschool.com/roku-ai-channel",
-      "source": "No Film School",
-      "reason": "content duplicate of published card movies-roku-fairground (The Verge, 2026-08-10) — same Roku Fairground AI channel launch"
-    },
-    {
-      "url": "https://www.awn.com/news/bob-gaudette-and-kirk-hipkiss-launch-ai-film-and-tv-production-studio-nolia",
-      "source": "Animation World Network",
-      "reason": "within-pool near-duplicate lane (AI-native studio launch) vs Deadline Matriarch; also would breach the ≤2-per-outlet guard alongside Cascadeur"
+      "rationale": "영국 영상 업계가 규제·워크플로·스킬 갭 셋을 공식 의제로 올렸다 — 제작 인력 재교육이 어디로 향하는지 보여주는 지표.",
+      "published_iso": "2026-08-03T11:30:00+01:00",
+      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/2/9/1/1484291_aicreativesummit20261_492441.jpg",
+      "excerpt": "The expanded 2026 AI Creative Summit lands at BFI Southbank on November 11 with three streams covering production workflows, rights and responsible AI, and the skills gap. The programme signals where UK film and TV craft training is being redirected as gen-AI tools move into normal post pipelines."
     }
   ]
 }

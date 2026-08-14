@@ -1,32 +1,29 @@
 {
-  "date": "2026-08-14",
-  "section": "movies",
   "media": [
     {
-      "id": "movies-cascadeur-2026-2",
-      "type": "video",
-      "src": "pipeline/media/movies-cascadeur-2026-2.mp4",
-      "poster": "pipeline/media/movies-cascadeur-2026-2.jpg"
+      "id": "movies-artlist-seedance-unlimited",
+      "type": "image",
+      "src": "pipeline/media/movies-artlist-seedance-unlimited.jpg"
     },
     {
-      "id": "movies-seedance-25-blocking",
+      "id": "movies-nvidia-video-detector",
       "type": "image",
-      "src": "pipeline/media/movies-seedance-25-blocking.png"
+      "src": "pipeline/media/movies-nvidia-video-detector.jpg"
     },
     {
-      "id": "movies-billy-joel-ai-doc",
+      "id": "movies-dalet-solution-suites",
       "type": "image",
-      "src": "pipeline/media/movies-billy-joel-ai-doc.jpg"
+      "src": "pipeline/media/movies-dalet-solution-suites.jpg"
     },
     {
-      "id": "movies-castle-walls-prime",
+      "id": "movies-actionvfx-filmmakers-course",
       "type": "image",
-      "src": "pipeline/media/movies-castle-walls-prime.jpg"
+      "src": "pipeline/media/movies-actionvfx-filmmakers-course.jpg"
     },
     {
-      "id": "movies-rocxzoom-kickstarter",
+      "id": "movies-ai-creative-summit-bfi",
       "type": "image",
-      "src": "pipeline/media/movies-rocxzoom-kickstarter.jpg"
+      "src": "pipeline/media/movies-ai-creative-summit-bfi.jpg"
     }
   ]
 }

@@ -1,100 +1,97 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "science",
+  "selected_by": "curator (user deferred)",
   "count": 5,
-  "selection_mode": "curator_auto",
-  "note": "User deferred. Dedup run against sections.science (today 2026-08-12 + days 2026-08-07..08-11 = 30 published cards). Every URL in the 17-item pool was checked against those 30 URLs and their story content: no exact-URL match and no same-event match survived scrutiny, so 0 hard drops. NEAR-DUP JUDGEMENTS: (a) Scientific American 'No, Anthropic's AI didn't just solve math's hardest problem' is a DIFFERENT event from the published 2026-08-12 SciAm OpenAI-Astra attribution card and the 2026-08-07 ScienceDaily Jacobian card, but it is the third AI-math-hype story in the section in eight days, so it was ranked down rather than dropped. (b) Google Research 'recall is the bottleneck' is a distinct topic from the published 2026-08-12 Google Research Science One card (hallucinated citations in an agent framework vs. parametric knowledge recall in the model itself) - kept. (c) Live Science neuromorphic motor-control chip vs. published 2026-08-09 KAIST memtransistor: different labs, different devices, different papers - distinct, but only one brain-inspired-silicon card was taken this round and the newer robotics item outranked it. (d) MIT Tech Review 'How kids feel about AI' and Psychology Today 'How Your Children View AI' cover the same theme from two surveys; both were held back because the section already ran the teen-AI-mental-health card on 2026-08-11. DIVERSITY GUARD: 5 distinct outlets (Google DeepMind, Google Research, Phys.org, Live Science, GEN), max 1 card per outlet, and a topic spread of accessibility deployment / LLM factuality / protein-drug modeling / robot control / lab-scale biological data. No AI-business or funding items included.",
+  "dedup_notes": [
+    "Checked against sections.science today(2026-08-14) + days 2026-08-12, 08-11, 08-10, 08-09, 08-08 (26 published cards).",
+    "DROPPED as content duplicate: https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/ — same outlet + same core story (AI-designed viral genomes / biosecurity governance) as the 2026-08-08 card science-ai-designed-phage-genome (https://www.scientificamerican.com/article/ai-just-created-a-virus-not-found-in-nature-and-scientists-are-worried/).",
+    "Verified distinct, kept in pool: ScienceDaily Jacobian-conjecture item is a different result from the 08-09 Claude jamming-conjecture card (Physics World); MIT Tech Review 'AI professors' is a different piece from the 08-11 'AI agents for science' card; DeepMind WeatherNext is unrelated to the 08-14 SL2T sign-language card; GEN drug-development agents is unrelated to the 08-14 Vivodyne card.",
+    "No two picks share a URL. Backfill was applied after the drop to keep 5 fresh stories.",
+    "Diversity guard after the swap: 4 distinct outlets (Phys.org 2, Scientific American 1, ScienceDaily 1, Live Science 1) — max 2 per outlet respected; topic spread = mathematical practice / cognitive neuroscience / solar physics / research funding / neuromorphic hardware.",
+    "REPLACED after a 14-day freshness re-check (the dedup script only saw the 5 days still in news_data.json): rank 1 (ScienceDaily Jacobian conjecture) and rank 3 (DeepMind WeatherNext) were both already published on 2026-08-07 and were swapped out.",
+    "Replacements verified absent from the full pipeline/published_urls.json 'science' ledger (120 URLs, every URL ever published in this section): Scientific American 'Can AI make mathematics more human?' and Phys.org EarlyDetect solar-emergence.",
+    "Still excluded: Scientific American 'scientists are using AI to design new viruses' — duplicates the 2026-08-08 card science-ai-designed-phage-genome."
+  ],
   "picks": [
     {
       "rank": 1,
-      "title": "Putting sign language AI into users' hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "source": "Google DeepMind",
-      "published_iso": "2026-08-12T00:00:00Z",
-      "og_image": "https://lh3.googleusercontent.com/RDh3NiE22dtisgmsRxzthq0CCSjdL9k_fo7bOVbv7kKrIyacgNFTHfe9p3zGznT96bzPH8PX1UNkKu2Fasx-VbuLo0Dn47mDntjsbVYyJqMLCVTNQTk=w1440-h810-n-nu",
-      "excerpt": "DeepMind shipped SL2T, a massively multilingual sign-language-to-text translation model trained on 100,000+ hours across 50+ sign languages, into Gboard and Live Transcribe on Pixel 11. It is the first consumer deployment of sign-language translation research.",
+      "title": "Can AI make mathematics more human?",
+      "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
+      "source": "Scientific American",
+      "published_iso": "2026-08-11T18:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg",
+      "excerpt": "Mathematician and physicist Yang-Hui He argues that AI is fundamentally reshaping mathematical work — and that the shift pushes mathematicians toward taste, conjecture and meaning rather than away from them. He also says AI creates a new common language that gets estranged subfields talking again, and reports that in FrontierMath's fourth phase the models cracked about 10% of freshly invented problems within a month.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Research that actually left the lab: 50+ sign languages inside a shipping keyboard makes sign language an input modality product teams can design for today, not a paper."
+      "rationale": "A working mathematician's account of what AI actually changes in research practice — not a single result headline, but the shift in what the human is for, argued from inside FrontierMath."
     },
     {
       "rank": 2,
-      "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
-      "source": "Google Research",
-      "published_iso": "2026-08-12T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/KnowledgeProfiling1_Overview.png",
-      "excerpt": "Google Research's 'knowledge profiling' framework shows frontier LLMs encode 95-98% of tested facts yet still fail to recall 26-34% of them. The failure mode is retrieval, not missing knowledge - a direct reframing of why models hallucinate.",
+      "title": "MIT neuroscientists discover the brain can reason without words",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
+      "source": "ScienceDaily",
+      "published_iso": "2026-08-11T12:00:00Z",
+      "og_image": null,
+      "excerpt": "MIT researchers found that language and logical reasoning run on separate brain systems: people with severe stroke-induced language impairment still solved hard logic puzzles, while scans showed language regions staying quiet. A pointed empirical challenge to the assumption that language models are reasoning models.",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Reframes hallucination as a retrieval failure inside a model that already knows the answer, which changes whether you reach for better prompting and cueing or for more training data."
+      "rationale": "Direct empirical pressure on the premise underlying LLMs — that fluency and reasoning are the same faculty; the brain says they are not."
     },
     {
       "rank": 3,
-      "title": "Teaching AI the biology of antibodies speeds drug discovery",
-      "url": "https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html",
+      "title": "New AI model detects hidden signs of solar eruptions hours before they emerge",
+      "url": "https://phys.org/news/2026-08-ai-hidden-solar-eruptions-hours.html",
       "source": "Phys.org",
-      "published_iso": "2026-08-13T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/antibody.jpg",
-      "excerpt": "Boston University researchers built an antibody-specific language model that concentrates on the six binding loops instead of the whole protein, improving binding-strength prediction by up to 27%. Encoding domain biology into the architecture beat treating antibodies as generic proteins.",
+      "published_iso": "2026-08-14T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/solar-eruptions.jpg",
+      "excerpt": "NJIT researchers built a Transformer model called EarlyDetect that spots precursor signals of solar active-region emergence in helioseismic acoustic power and magnetic-field data from NASA's SDO, forecasting their appearance an average of 9.24 hours in advance. Removing a noise-filtering step made it better — the filter had averaged away the faint fluctuations that carried the earliest warning.",
       "tool": "Science",
       "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "A 27% gain that came from building domain structure into the architecture rather than scaling it - the clearest recent argument that specialist models still beat generic ones on specialist data."
+      "motif": "sphere",
+      "rationale": "Turns helioseismic noise no human forecaster can read into an actionable space-weather warning, and the key finding is a lesson about AI practice: the conventional preprocessing step was destroying the signal."
     },
     {
       "rank": 4,
-      "title": "New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'",
-      "url": "https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead",
-      "source": "Live Science",
-      "published_iso": "2026-08-13T16:57:08Z",
-      "og_image": null,
-      "excerpt": "Researchers built VLASH, a system that lets a robot plan its next action while still executing the current one, cutting reaction delay up to 11.8x and roughly doubling task completion speed. The gain comes with no extra compute overhead.",
+      "title": "AI-assisted grant proposals may win more often—while narrowing research ideas",
+      "url": "https://phys.org/news/2026-08-ai-grant-narrowing-ideas.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-11T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
+      "excerpt": "A Northwestern University study found NIH proposals showing stronger signs of AI-assisted writing were about four percentage points more likely to be funded — but they also resembled previously funded work more closely. The finding suggests LLM drafting quietly steers science toward safer, more conventional questions.",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "An 11.8x latency cut with no extra compute comes purely from overlapping planning and execution - a scheduling idea that transfers to any agent stuck waiting on its own next step."
+      "rationale": "Quantifies the hidden cost of drafting with an LLM: it raises your hit rate while pulling your ideas toward the mean — an effect anyone writing with AI tomorrow should price in."
     },
     {
       "rank": 5,
-      "title": "Human biological datacenter to launch to train world model of human biology",
-      "url": "https://www.genengnews.com/topics/translational-medicine/human-biological-datacenter-to-launch-to-train-world-model-of-human-biology/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
-      "published_iso": "2026-08-12T00:00:00Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/6a5156e97215b1f019eebbae_65c1501946fecb29765d655f_Dan-Huh-and-Andrei-Georgescu_sm-696x464.jpeg",
-      "excerpt": "Vivodyne is opening what it calls the world's largest human biological datacenter: 12 robotic labs running 3.1 million lab-grown human tissue trials a year. The output is training data for an AI world model spanning 22 organ systems.",
+      "title": "New AI chip mimics the human brain's capacity for split-second motor control — it solved problems using 10,000 times fewer calculations",
+      "url": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
+      "source": "Live Science",
+      "published_iso": "2026-08-11T18:46:39Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Q4rT8bEMhs2NS232EpvYBC-2000-80.png",
+      "excerpt": "A brain-inspired device only fires when it detects something unusual, solving control problems with roughly 10,000x fewer calculations than a conventional approach. The neuroscience-to-silicon route is pitched as a way off the power-guzzling data-center dependency.",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Robotic labs built to manufacture training data rather than run one-off experiments - the missing-dataset problem being answered with industrial-scale wet-lab throughput."
+      "rationale": "A four-order-of-magnitude compute reduction from copying how neurons actually fire — the strongest current argument that the way off the power curve is architectural, not bigger data centers."
     }
   ],
-  "dropped": [
-    {
-      "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
-      "reason": "not a URL/event duplicate, but the third AI-math-claim story in the science section in eight days (published 2026-08-12 SciAm OpenAI Astra attribution, 2026-08-07 ScienceDaily Jacobian counterexample) - ranked down for perceived repetition"
-    },
-    {
-      "url": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
-      "reason": "distinct from the published 2026-08-09 KAIST memtransistor card, but same brain-inspired-silicon lane and second Live Science item - dropped under the one-card-per-outlet guard"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "reason": "kids-and-AI survey theme already served by the published 2026-08-11 teen AI mental health card; also overlaps the Psychology Today children's-mental-models piece in this same pool"
-    },
-    {
-      "url": "https://www.psychologytoday.com/us/blog/why-bad-looks-good/202608/how-your-children-view-ai-and-why-it-matters",
-      "reason": "within-pool overlap with the MIT Tech Review kids survey - kept neither, to avoid a third youth-and-AI card in four days"
-    },
-    {
-      "url": "https://phys.org/news/2026-08-real-ray-analysis-donut-materials.html",
-      "reason": "strong candidate, but a second Phys.org card and the autonomous-lab lane was already covered by the published 2026-08-08 Argonne agent card and 2026-08-10 NSF self-driving labs card"
-    },
-    {
-      "url": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/",
-      "reason": "closer to workforce/deployment politics than to AI advancing scientific method - fails the section relevance test"
-    }
+  "considered_but_not_picked": [
+    "Scientific American — This AI tool is redefining what it means to have a voice (assistive-comms overlap with the 08-14 DeepMind SL2T card)",
+    "MIT Technology Review — Here's why AI agents lie and cheat to reach their goals (strong explainer, but evergreen framing and older than the picks)",
+    "MIT Technology Review — AI professors are negotiating the new realities of academic research (thematic overlap with pick #4 on research practice)",
+    "Phys.org — AI models atom movement to predict solid-state reaction pathways (2-per-outlet cap)",
+    "ScienceDaily — AI reveals a massive algae boom across the world's oceans (2-per-outlet cap)",
+    "GEN — Financial Value of AI Agents in Drug Development (leans AI-business valuation over scientific method)",
+    "STAT — Are AI scribes useful tools in medical education, or a crutch (thematic overlap with pick #4 on AI eroding cognitive work)",
+    "arXiv — The Input Problem: A Permanent Bottleneck for Quantum Machine Learning (preprint, narrow audience)",
+    "arXiv — Task- and dataset-specific information in protein language models (preprint, narrow audience)",
+    "arXiv — Auditing Discovery Claims: A Two-Sided Criterion for Agentic Science (preprint, narrow audience)",
+    "ScienceDaily — Claude Fable 5 finds a counterexample to the Jacobian conjecture (DROPPED: already published 2026-08-07)",
+    "Google DeepMind — WeatherNext breakthrough in forecasting cyclones (DROPPED: already published 2026-08-07)"
   ]
 }

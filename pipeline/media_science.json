@@ -1,33 +1,31 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "science",
   "media": [
     {
-      "id": "science-sign-language-sl2t",
-      "type": "video",
-      "src": "pipeline/media/science-sign-language-sl2t.mp4",
-      "poster": "pipeline/media/science-sign-language-sl2t.jpg"
-    },
-    {
-      "id": "science-recall-bottleneck",
+      "id": "science-ai-mathematics-human",
       "type": "image",
-      "src": "pipeline/media/science-recall-bottleneck.png"
+      "src": "pipeline/media/science-ai-mathematics-human.jpg"
     },
     {
-      "id": "science-antibody-cdr-model",
+      "id": "science-language-free-reasoning",
       "type": "image",
-      "src": "pipeline/media/science-antibody-cdr-model.jpg"
+      "src": "pipeline/media/science-language-free-reasoning.jpg"
     },
     {
-      "id": "science-vlash-robot-lookahead",
-      "type": "video",
-      "src": "pipeline/media/science-vlash-robot-lookahead.mp4",
-      "poster": "pipeline/media/science-vlash-robot-lookahead.jpg"
-    },
-    {
-      "id": "science-vivodyne-human-datacenter",
+      "id": "science-earlydetect-solar-emergence",
       "type": "image",
-      "src": "pipeline/media/science-vivodyne-human-datacenter.jpg"
+      "src": "pipeline/media/science-earlydetect-solar-emergence.jpg"
+    },
+    {
+      "id": "science-llm-grant-narrowing",
+      "type": "image",
+      "src": "pipeline/media/science-llm-grant-narrowing.jpg"
+    },
+    {
+      "id": "science-cerebellum-memtransistor",
+      "type": "image",
+      "src": "pipeline/media/science-cerebellum-memtransistor.jpg"
     }
   ]
 }

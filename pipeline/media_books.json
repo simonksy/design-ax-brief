@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "books",
   "media": [
     {
-      "id": "books-claude-watermark",
+      "id": "books-training-data-petition",
       "type": "image",
-      "src": "pipeline/media/books-claude-watermark.jpg"
+      "src": "pipeline/media/books-training-data-petition.jpg"
     },
     {
-      "id": "books-editor-ai-clause",
+      "id": "books-author-ai-policy",
       "type": "image",
-      "src": "pipeline/media/books-editor-ai-clause.png"
+      "src": "pipeline/media/books-author-ai-policy.jpg"
     },
     {
-      "id": "books-villanova-bot-or-not",
+      "id": "books-commonwealth-prize-delay",
       "type": "image",
-      "src": "pipeline/media/books-villanova-bot-or-not.jpg"
+      "src": "pipeline/media/books-commonwealth-prize-delay.jpg"
     },
     {
-      "id": "books-cognitive-debt",
+      "id": "books-false-name-book-scraping",
       "type": "image",
-      "src": "pipeline/media/books-cognitive-debt.jpg"
+      "src": "pipeline/media/books-false-name-book-scraping.jpg"
     },
     {
-      "id": "books-shieldfont",
+      "id": "books-agent-ethics-ai-gap",
       "type": "image",
-      "src": "pipeline/media/books-shieldfont.jpg"
+      "src": "pipeline/media/books-agent-ethics-ai-gap.jpg"
     }
   ]
 }
