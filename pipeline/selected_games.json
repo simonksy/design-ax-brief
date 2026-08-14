@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "games",
   "picks": [
     {
@@ -7,80 +7,112 @@
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://kotaku.com/epic-artstation-fortnite-unreal-sold-sketchfab-kitbash3d-2000723775",
-      "source": "Kotaku",
-      "published_iso": "2026-08-12T00:00:00Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/Epic-Games-and-ArtStation-initial-purchase-image-Epic-Games-ArtStation.jpg",
-      "excerpt": "Epic Games has sold ArtStation and Sketchfab to KitBash3D, and game artists are openly celebrating — 'free from Epic and their love of AI slop' — after years of complaints that AI-generated art flooded the portfolio site and 3D marketplace. The handover reopens the question of how the industry's main game-art portfolio platform will police generative AI listings.",
-      "rationale": "The industry's main game-art portfolio and 3D asset marketplace changes owner, directly resetting the AI-listing policy every game artist publishes under."
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/videogame-lawyer-says-its-become-just-boilerplate-this-year-to-include-no-ai-clauses-in-contracts-its-not-worth-the-legal-liability/",
+      "source": "PC Gamer",
+      "published_iso": "2026-08-13T10:41:03Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7gLeER4Zzrhn8o2b3mzzR6-2560-80.jpg",
+      "excerpt": "A games industry lawyer says no-AI clauses have become 'just boilerplate' in 2026 client contracts, because the legal liability and player backlash outweigh any production saving. The contract layer is quietly becoming the place where studios decide which AI tools artists and writers may actually touch.",
+      "rationale": "The AI-or-not decision has moved from studio policy to the contract you sign — this is the layer that now decides which tools an artist may legally open."
     },
     {
       "rank": 2,
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "url": "https://kotaku.com/twitch-gen-ai-opt-out-streamer-backlash-2000724227",
-      "source": "Kotaku",
-      "published_iso": "2026-08-13T21:29:44Z",
-      "og_image": "https://kotaku.com/app/uploads/2023/12/6148c6a04be14bf3f0811b1506446a1b.jpg",
-      "excerpt": "Twitch streamers discovered their streams, VODs and chat were enrolled in Amazon's AI training by default, and are circulating opt-out instructions plus an 'aioptedout' tag. Twitch's chief product officer conceded the design rationale out loud: 'If it was opt in, nobody would opt in.'",
-      "rationale": "Anyone streaming their work is opted into Amazon's model training by default — this is the version of the story that carries the opt-out steps and the platform's own admission."
+      "url": "https://unity.com/blog/5-tips-for-using-github-copilot-with-unity",
+      "source": "Unity",
+      "published_iso": "2026-08-11T19:33:22+00:00",
+      "og_image": "https://unity.com/unity-logo-2024.png",
+      "excerpt": "Unity published a practical guide to driving GitHub Copilot against a Unity project — context setup, prompt patterns and where the assistant reliably helps versus where it produces plausible-but-wrong engine code. Vendor-level guidance on AI coding assistants is now shipping as first-party documentation rather than community folklore.",
+      "rationale": "First-party engine guidance you can apply the same afternoon, and a sign that AI-assistant practice is now vendor-documented rather than folklore."
     },
     {
       "rank": 3,
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "url": "https://www.4gamer.net/games/898/G089803/20260807066/",
-      "source": "4Gamer",
-      "published_iso": "2026-08-08T00:00:00Z",
-      "og_image": "https://www.4gamer.net/games/898/G089803/20260807066/TN/028.jpg",
-      "excerpt": "At a KRAFTON x ReLU Games dev talk, the Mimesis team laid out an 'AI game design' methodology: AI should generate new play experiences, not just speed up production. They detailed scrapping the failed Doppelgänger prototype, their Nolan platform for rapid AI-assisted prototyping, and why small purpose-trained networks beat LLMs for a player-mimicking NPC.",
-      "rationale": "A rare concrete design methodology — prototyping platform, a scrapped prototype post-mortem, and small purpose-trained nets over LLMs — rather than another AI-in-games opinion."
+      "url": "https://www.gamesradar.com/games/pokemon/viral-pokemon-pc-port-gen1recomp-gets-gold-support-as-dev-says-its-not-vibe-coded-even-though-ai-helped-with-development/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-08-13T22:00:11Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/A9zneYLDSTHZ4axMdnF9pB-1920-80.jpg",
+      "excerpt": "The developer of viral Pokemon PC recompilation Gen1Recomp added beta Gold support and used the moment to draw a hard line between AI-assisted engineering and vibe coding: 'was AI used? yes... Specifically, using AI = vibe coding. Which is not true.' It is a rare, concrete articulation of where working developers now place the boundary between assistant and author.",
+      "rationale": "A working dev states the assistant-versus-author line in plain terms — the disclosure vocabulary every AI-assisted maker is about to need."
     },
     {
       "rank": 4,
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "url": "https://gamesbeat.com/a-question-for-the-industry-how-will-external-developers-use-ai-tools-the-deanbeat/",
+      "url": "https://gamesbeat.com/amazon-draws-on-assassins-creed-lore-for-its-first-fully-ai-generated-television-series/",
       "source": "GamesBeat",
-      "published_iso": "2026-08-08T00:00:00Z",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/06/halo-sword.jpg",
-      "excerpt": "Dean Takahashi asks how outsourcing and co-development studios — the backbone of AAA art and production pipelines — will actually deploy AI tools for their publisher clients as the ecosystem contracts. The column reframes the AI question from 'will it replace devs' to 'who owns the pipeline when the work is external.'",
-      "rationale": "Shifts the AI question to the outsourced art and co-dev studios that actually build most AAA assets, and to who owns the pipeline when the work is external."
+      "published_iso": "2026-08-12T19:21:56+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/image-1024x576.png",
+      "excerpt": "Amazon Prime Video premiered 'Castle Walls', billed as the first entirely AI-generated long-form drama on a major global streaming platform — two 15-minute episodes drawing on the Alamut Castle legend at the center of Assassin's Creed Mirage. It was generated by AYDNA, a proprietary video diffusion model trained exclusively on producer Ay Yapim's own licensed catalogue, while dubbing, performances and every narrative decision stayed human.",
+      "rationale": "A rights-cleaned, studio-owned training set plus a hand-drawn pre-AI sketch stage is the first concrete template for how a licensed generative pipeline gets credited — and the two episodes, made two years apart, show the tooling shift inside one series."
     },
     {
       "rank": 5,
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "url": "https://www.thegamer.com/supergirl-ai-controversy-lobo-concept-art-dc/",
-      "source": "TheGamer",
-      "published_iso": "2026-08-13T18:32:46Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/supergirl-lobo-concept-art.jpg",
-      "excerpt": "Concept art released for Supergirl appears to carry generative-AI tells, reigniting the argument over AI in big-budget character and creature design. The flashpoint is concept art specifically — the stage of the pipeline studios keep insisting is still human-led.",
-      "rationale": "The flashpoint is concept art itself — the stage character designers were told stays human-led; flagged for possible cross-section collision with movies.",
-      "notes": "CROSS-SECTION RISK: same story may be picked by the movies section. Drop this card at roll time if movies also ships it; games then publishes 4."
+      "url": "https://aftermath.site/kamaitachi-no-yoru-london-spirit-detectives-kownloons-gate-innocent-tears/",
+      "source": "Aftermath",
+      "published_iso": "2026-08-12T20:22:35+00:00",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/IMG_6614.jpg",
+      "excerpt": "A wave of fan translation patches — Kamaitachi no Yoru, Innocent Tears, London Spirit Detectives, Kowloon's Gate — shipped with explicit 'no AI was used' notices, as translators describe machine-translated patches poisoning a game's only English version and one professional losing clients to AI before they came back asking him to fix the mess.",
+      "rationale": "'No AI was used' has become a shipping label rather than a stance — a live example of provenance disclosure being invented from the bottom up by the people doing the work."
     }
   ],
   "dedup": {
-    "section_history_checked": ["2026-08-07", "2026-08-08", "2026-08-09", "2026-08-10", "2026-08-11", "2026-08-12"],
-    "published_urls_compared": 25,
-    "dropped_as_published_duplicate": 0,
-    "dropped_as_within_pool_duplicate": [
-      "https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash",
-      "https://aftermath.site/twitch-amazon-ai-labels-aioptedout-noai-nogenai/",
-      "https://www.pcgamer.com/software/ai/twitch-under-fire-for-new-gen-ai-training-system-that-harvests-streamer-data-for-amazon-says-its-on-by-default-because-if-it-was-opt-in-nobody-would-opt-in/",
-      "https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-ai-overlord-whether-you-like-it-or-not",
-      "https://aftermath.site/twitch-ai-amazon-opt-out/",
-      "https://aftermath.site/amazon-twitch-generative-ai-training-streams-vods/"
+    "section_history_checked": [
+      "2026-08-10",
+      "2026-08-11",
+      "2026-08-12",
+      "2026-08-13",
+      "2026-08-14"
     ],
-    "notes": "11 candidates collapsed to 5 distinct stories: Epic/ArtStation sale (2 outlets), Twitch/Amazon AI opt-out (5 items / 4 outlets), 4Gamer KRAFTON x ReLU, GamesBeat DeanBeat, TheGamer Supergirl. None matched the games section's Aug 7-12 published history."
+    "pool_size": 12,
+    "dropped_as_published_duplicate": [
+      {
+        "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-studio-ceo-defends-ai-music-video-because-evie-was-originally-created-from-head-to-toe-by-the-devs-but-fans-say-thats-not-the-point/",
+        "matches": "games-blood-rain-cope (Kotaku, 'shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video...') — same Shift Up CEO defence, different outlet"
+      },
+      {
+        "url": "https://www.pcgamer.com/games/action/stellar-blade-boss-completely-misses-the-point-of-why-people-are-upset-with-blood-rains-ai-slop-video-the-ai-is-not-creating-evie-from-scratch/",
+        "matches": "games-blood-rain-cope (Kotaku) — same event, third outlet"
+      },
+      {
+        "url": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
+        "matches": "games-gamescom-dev-survey (GamesIndustry.biz, 'gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity') — same 100-speaker Gamescom Dev survey"
+      }
+    ],
+    "dropped_as_within_pool_duplicate": [
+      "Stellar Blade Blood Rain AI music video covered twice in-pool (GamesRadar+ and PC Gamer); both dropped as already-published anyway."
+    ],
+    "not_selected_but_unique": [
+      "https://gamesbeat.com/autodesk-launches-3d-editor-canvas-to-bring-generative-ai-to-filmmaking/ (11 days old; filmmaking-first, high movies-section collision risk)",
+      "https://wccftech.com/stalker-2-update-2-0-new-weapons-smarter-a-life-cost-of-hope/ (freshest but weakest AI/AX relevance — classic simulation A-Life, no AI-tooling angle)",
+      "https://aftermath.site/kamaitachi-no-yoru-london-spirit-detectives-kownloons-gate-innocent-tears/ (strong piece, but games-localization card ran Aug 13 — avoided back-to-back localisation-vs-AI topic)",
+      "https://gamesbeat.com/amazon-draws-on-assassins-creed-lore-for-its-first-fully-ai-generated-television-series/ (would make GamesBeat 2 cards and carries movies-section collision risk)"
+    ],
+    "notes": "12 filtered candidates; 3 dropped as content-level duplicates of Aug 10-14 games cards, 4 left unselected. Also verified against published Aug 10-14 games stories: Nexus Mods AI tags / Skyrim modding, Game Developer localization roundtable, Square Enix x Gemini AI QA, Kotaku 'The Relic' AI assets, ByteDance World Apart, 80 Level Luke Dicken interview, no-AI studios list, 1666 Amsterdam AI assets cut, No Man's Sky, Saber/ChatGPT writer, Take-Two Zelnick, EVE Frontier agents, Unreal x AMD talk. No selected pick overlaps any of these."
   },
   "diversity": {
-    "outlets": ["Kotaku", "Kotaku", "4Gamer", "GamesBeat", "TheGamer"],
-    "max_per_outlet": 2,
-    "distinct_outlets": 4
+    "outlets": [
+      "PC Gamer",
+      "Unity",
+      "GamesRadar+",
+      "GamesBeat",
+      "80 Level"
+    ],
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
+    "angles": [
+      "legal/contracts",
+      "engine tooling",
+      "authorship & disclosure",
+      "prompt-to-playable medium",
+      "production infrastructure"
+    ]
   }
 }

@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "design",
   "media": [
     {
-      "id": "design-figma-skills",
-      "type": "image",
-      "src": "pipeline/media/design-figma-skills.png"
-    },
-    {
-      "id": "design-onshape-featurescript-mcp",
-      "type": "image",
-      "src": "pipeline/media/design-onshape-featurescript-mcp.jpg"
-    },
-    {
-      "id": "design-eu-ai-labelling",
-      "type": "image",
-      "src": "pipeline/media/design-eu-ai-labelling.jpg"
-    },
-    {
-      "id": "design-toolbag-503",
+      "id": "design-figma-move-fast",
       "type": "video",
-      "src": "pipeline/media/design-toolbag-503.mp4",
-      "poster": "pipeline/media/design-toolbag-503.jpg"
+      "src": "pipeline/media/design-figma-move-fast.mp4",
+      "poster": "pipeline/media/design-figma-move-fast.jpg"
     },
     {
-      "id": "design-vision-pro-webxr-sim",
+      "id": "design-dsds-w3c",
       "type": "image",
-      "src": "pipeline/media/design-vision-pro-webxr-sim.jpg"
+      "src": "pipeline/media/design-dsds-w3c.png"
+    },
+    {
+      "id": "design-ai-ui-placement",
+      "type": "image",
+      "src": "pipeline/media/design-ai-ui-placement.png"
+    },
+    {
+      "id": "design-google-watermark-toggle",
+      "type": "image",
+      "src": "pipeline/media/design-google-watermark-toggle.jpg"
+    },
+    {
+      "id": "design-ai-sdk-harness-acp",
+      "type": "image",
+      "src": "pipeline/media/design-ai-sdk-harness-acp.png"
     }
   ]
 }

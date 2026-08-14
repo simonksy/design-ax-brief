@@ -1,93 +1,132 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "gadgets",
+  "count": 5,
+  "selection_mode": "curator_auto",
+  "note": "User deferred. Dedup run against sections.gadgets history (today 2026-08-14 + days 2026-08-08, 08-09, 08-10, 08-11, 08-12 = 30 published cards; no 08-13 edition exists). MADE BY GOOGLE 2026 COLLAPSE: nine of the twenty candidates cover the same 2026-08-12 Made by Google event (Pixel 11 / Pixel 11 Pro / Pro Fold / Pixel Watch 5 / Pixel Tag). That release is ALREADY PUBLISHED in this section - the 2026-08-14 card 'gadgets-pixel-11-tensor-g6-tpu' (Android Authority) covers Pixel 11 + Tensor G6 + Gemini Nano + Magic Capture + Proactive Assistance, and the 2026-08-14 card 'gadgets-google-health-ai-hallucination' (TechRadar) covers the Pixel Watch 5 / Google Health launch. Under earliest-wins, ALL nine MbG angles were dropped as same-event duplicates rather than kept as 'distinct angles': the strongest survivor (9to5Google Pixel 11 camera / Magic Capture) restates Magic Capture and Night Sight detail that the published Tensor G6 card already carries, so it would read as a visible repeat. BACKFILL therefore pulled five never-before-seen non-MbG stories. DIVERSITY GUARD: 4 distinct outlets, max 2 from any one (Digital Trends x2 - two unrelated stories, an OpenAI home device and an LG/NVIDIA humanoid), and a topic spread of post-phone AI object / humanoid robotics / budget AI eyewear / region-specific on-device models / agentic file safety. All five URLs are distinct and none appears anywhere in sections.gadgets.",
   "picks": [
     {
       "rank": 1,
+      "title": "OpenAI's first gadget sounds like a tiny expressive AI companion",
+      "url": "https://www.digitaltrends.com/home-theater/openais-first-gadget-sounds-like-a-tiny-robot-for-your-home/",
+      "source": "Digital Trends",
+      "published_iso": "2026-08-06T22:02:22Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2025/03/open-ai-331.jpg?resize=1200%2C630",
+      "excerpt": "OpenAI's first hardware device is reportedly a screenless doughnut-shaped puck you can move room to room, priced around $300 to $400 for a 2027 release. It is the clearest signal yet that the post-phone AI object is being designed as a character, not an interface.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/",
-      "source": "Engadget",
-      "published_iso": "2026-08-12T18:42:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/intro-1786556506.jpg",
-      "excerpt": "Honor's Robot Phone ships with a motorised pop-up camera gimbal that rotates 360 degrees and a 'YOYO Robot Mode' that gesture-controls and tracks subjects on its own. It is a rare attempt to give an AI assistant an actual moving body inside a phone.",
-      "rationale": "The first shipping phone that gives an AI assistant a moving body — a genuinely new industrial-design and interaction problem, not a spec bump."
+      "rationale": "A screenless, characterful puck is OpenAI betting that the next AI device is industrial design and behaviour rather than UI - the brief that lands on product designers' desks next."
     },
     {
       "rank": 2,
+      "title": "LG wants to build humanoid robots, and NVIDIA is giving it the brains",
+      "url": "https://www.digitaltrends.com/computing/lg-is-getting-into-humanoid-robots-and-nvidia-is-helping-it-build-them/",
+      "source": "Digital Trends",
+      "published_iso": "2026-08-14T21:15:18Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/01/LG-CLOiD-Image-1.jpg?resize=1200%2C630",
+      "excerpt": "LG is moving its CLOiD humanoid from CES concept toward a real product line, with NVIDIA supplying the robotics AI stack. A major appliance maker treating a humanoid as a home-product category changes what domestic industrial design has to solve for.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.androidauthority.com/pixel-11-tensor-g6-tpu-upgrade-explained-3696999/",
-      "source": "Android Authority",
-      "published_iso": "2026-08-12T15:00:00Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-series-hands-on-tensor-g6-4-scaled.jpg",
-      "excerpt": "The Tensor G6's TPU brings 50% more compute and runs local workloads up to 3.5x faster at 3.5x lower energy, letting Gemini Nano handle transcription, sign-to-text and live translation entirely on device. On-device inference, not raw CPU, is where the Pixel 11 actually moved.",
-      "rationale": "Resets what designers can assume about on-device AI budgets — transcription and live translation now run locally with no round trip; chosen as the single best angle on the Pixel 11 launch."
+      "rationale": "The freshest item in the pool, and the moment a mainstream appliance maker treats a humanoid as a home product line - domestic form, safety and affordance questions stop being concept work."
     },
     {
       "rank": 3,
+      "title": "New affordable 3-in-1 smart glasses promise up to 39 days of battery and UV protection",
+      "url": "https://www.notebookcheck.net/New-affordable-3-in-1-smart-glasses-promise-up-to-39-days-of-battery-and-UV-protection.1365516.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-08-11T19:42:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-VisionW.png",
+      "excerpt": "Rogbid's $69.99 VisionW pairs interchangeable frames with ChatGPT and Grok access, open-ear audio and a claimed 39-day battery. Sub-$100 AI eyewear collapses the price floor that has kept smart glasses a premium-design category.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://gizmodo.com/matics-robot-vacuum-will-see-and-hear-you-now-2000798257",
-      "source": "Gizmodo",
-      "published_iso": "2026-08-13T18:00:49Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/Matic-listening.jpg",
-      "excerpt": "Matic's new 'Matic Cues' firmware adds a 'Hey Matic' wake phrase and gesture control, with Google Gemini parsing compound commands like 'vacuum the dining room rug and then mop the bedroom.' It is a voice-first rewrite of how you operate a home robot.",
-      "rationale": "A shipping home robot drops the app-first control model for compound voice commands and gestures — a concrete case of an LLM replacing a UI, not decorating one."
+      "rationale": "A $70 assistant-in-your-frames breaks the price floor that let smart glasses be designed as luxury objects, and interchangeable frames reframe the category as eyewear first, electronics second."
     },
     {
       "rank": 4,
+      "title": "Apple Trained Own AI Model for China Market With Help From Alibaba",
+      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "source": "MacRumors",
+      "published_iso": "2026-08-14T09:46:29Z",
+      "og_image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+      "excerpt": "Apple built a separate in-house model, with Alibaba's help, to run Apple Intelligence on iPhones sold in China. Region-specific models mean the same hardware now ships materially different AI behaviour by market.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://www.engadget.com/2236054/meta-donates-15000-ray-ban-meta-glasses-to-vision-ireland/",
-      "source": "Engadget",
-      "published_iso": "2026-08-13T09:26:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/meta-is-giving-away-15000-ai-glasses-to-blind-and-visually-impaired-people-in-ireland/intro-1786613090.jpg",
-      "excerpt": "Meta is handing 15,000 Ray-Ban Meta glasses to charity Vision Ireland, positioning the camera-and-voice wearable as an accessibility device that reads text aloud and describes objects. It is the clearest test yet of whether AI glasses earn their keep as an assistive interface rather than a novelty.",
-      "rationale": "The largest real-world deployment yet of AI glasses as an assistive interface — accessibility, not novelty, becomes the test case for camera-and-voice wearables."
+      "rationale": "Identical hardware now behaves differently by region, so 'the AI feature' stops being one spec and becomes a localisation variable product teams have to design and test per market."
     },
     {
       "rank": 5,
+      "title": "I trusted Antigravity and a local LLM with the same office tasks, and only one respected my files",
+      "url": "https://www.xda-developers.com/trusted-antigravity-and-local-llm-with-same-office-tasks-only-one-respected-my-files/",
+      "source": "XDA Developers",
+      "published_iso": "2026-08-14T18:00:10Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/antigravity-and-lm-studio-on-desktop-pc-lego-and-lamp-in-view.jpeg?w=1600&h=900&fit=crop",
+      "excerpt": "A head-to-head of Google's Antigravity agent against a locally hosted LLM on identical document tasks, judged on whether each respected existing files. Agentic AI tools can do the work, but only one kept the user's originals intact.",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://www.techradar.com/ai-platforms-assistants/nonstop-lies-from-the-ai-as-google-launches-the-pixel-watch-5-its-redesigned-google-health-app-is-leaving-fitbit-users-incensed-at-its-crazy-hallucinations",
-      "source": "TechRadar",
-      "published_iso": "2026-08-12T14:30:00Z",
-      "og_image": null,
-      "excerpt": "The Pixel Watch 5 arrives just as the redesigned Google Health app's AI coach is hallucinating workouts and stats, and long-time Fitbit users are revolting. A sharp case study in what happens when a generative layer is bolted onto a trusted health interface.",
-      "rationale": "The counterweight pick: a shipped generative layer on a trusted data interface fails publicly, showing exactly where AI should not be allowed to speak for the numbers.",
-      "notes": "og_image is null (TechRadar body truncated to our fetcher) — ax-media must source an in-article image."
+      "rationale": "The practical test nobody runs before handing an agent a folder: not whether it can do the task, but whether your source files survive it."
     }
   ],
-  "dedup": {
-    "section_history_checked": ["2026-08-07", "2026-08-08", "2026-08-09", "2026-08-10", "2026-08-11", "2026-08-12"],
-    "published_urls_compared": 30,
-    "dropped_as_published_duplicate": [
-      "https://gizmodo.com/viture-pro-2-review-a-dark-horse-in-the-entry-level-ar-glasses-race-2000796684"
-    ],
-    "dropped_as_within_pool_duplicate": [
-      "https://9to5google.com/2026/08/12/pixel-11-pro-launches-for-1099/",
-      "https://9to5google.com/2026/08/12/pixel-11-gemini-intelligence/",
-      "https://www.tomsguide.com/phones/google-pixel-phones/i-tried-the-pixel-11-pro-fold-and-its-more-ultra-than-samsungs-foldable-for-usd200-less",
-      "https://www.macrumors.com/2026/08/11/new-things-iphone-can-do-ios-27/",
-      "https://9to5mac.com/2026/08/11/ios-27-public-beta-3/"
-    ],
-    "dropped_other": [
-      "https://9to5google.com/2026/08/12/google-pixel-watch-5-hands-on/",
-      "https://www.engadget.com/2235726/pixel-buds-pro-2-and-2a-are-getting-some-upgrades-including-deeper-gemini-integration/",
-      "https://www.techradar.com/computing/virtual-reality-augmented-reality/after-three-weeks-wearing-the-meta-ray-ban-scriber-optics-i-couldnt-be-more-in-love-i-just-wish-smart-glasses-werent-so-controversial"
-    ],
-    "notes": "Gizmodo's Viture Pro 2 review duplicates the Viture Pro 2 launch already published 2026-08-07 (gadgets-viture-pro-2-xr-glasses, same outlet, same product release) — dropped as an already-published story. Four Made-by-Google-2026 items (Pixel 11 Pro launch, Pixel 11 Gemini Intelligence software, Pixel 11 Pro Fold, Pixel Watch 5 hands-on) collapse to the single strongest angle, the Android Authority Tensor G6 TPU piece. Both iOS 27 items overlap the already-published gadgets-ios27-siri-voice (MacRumors, 2026-08-12) and the MacRumors '30 new things' piece is an evergreen roundup, not fresh news. Pixel Buds and the Scriber Optics long-term wear test dropped for outlet/topic balance (Google ecosystem cap of 2, Meta-glasses cap of 1). No general AI-business items were present in the filtered pool."
-  },
-  "diversity": {
-    "outlets": ["Engadget", "Android Authority", "Gizmodo", "Engadget", "TechRadar"],
-    "max_per_outlet": 2,
-    "distinct_outlets": 4,
-    "topic_spread": ["robot phone hardware", "on-device silicon / NPU", "home robot voice UI", "assistive smart glasses", "health app AI failure"]
-  }
+  "dropped": [
+    {
+      "url": "https://gizmodo.com/pixel-11-2000797579",
+      "reason": "same event as the published 2026-08-14 card gadgets-pixel-11-tensor-g6-tpu (Pixel 11 launch / Gemini on Tensor G6), different outlet - earliest-wins duplicate"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-pixel-11-series-3693865/",
+      "reason": "Pixel 11 launch, same event as the published 2026-08-14 Tensor G6 card and same outlet"
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-intelligence-on-pixel-11-series-3696480/",
+      "reason": "Gemini Intelligence on Pixel 11 - the published 2026-08-14 Tensor G6 card already covers Gemini Nano, Proactive Assistance and on-device task handling"
+    },
+    {
+      "url": "https://9to5google.com/2026/08/12/made-by-google-2026-announcements/",
+      "reason": "roundup of the same Made by Google 2026 event whose two headline products (Pixel 11, Pixel Watch 5) are both already published"
+    },
+    {
+      "url": "https://9to5google.com/2026/08/12/google-pixel-11-camera-whats-new/",
+      "reason": "strongest surviving MbG angle, but restates Magic Capture / Night Sight detail already carried by the published Tensor G6 card - kept out to avoid a visible repeat; also a 9to5Google content-hub sibling of the videography post"
+    },
+    {
+      "url": "https://9to5google.com/2026/08/12/pixel-11-videography/",
+      "reason": "content-hub duplicate: same source, same release, same day as the 9to5Google Pixel 11 camera post"
+    },
+    {
+      "url": "https://www.engadget.com/2235022/google-s-pixel-11-phones-offer-more-proactive-ai-notifications-and-help/",
+      "reason": "Proactive Assistance is explicitly covered in the published 2026-08-14 Tensor G6 card - same feature, different outlet"
+    },
+    {
+      "url": "https://www.engadget.com/2235151/this-is-the-1900-google-pixel-11-pro-fold/",
+      "reason": "same Pixel 11 launch event; hardware-tier angle adds no new AI story beyond the published card"
+    },
+    {
+      "url": "https://www.engadget.com/2235158/pixel-watch-5-hands-on-whats-new-google-health-ai-workout-builder/",
+      "reason": "Pixel Watch 5 / Google Health launch already published 2026-08-14 as gadgets-google-health-ai-hallucination"
+    },
+    {
+      "url": "https://gizmodo.com/googles-pixel-watch-5-keeps-the-same-design-and-leans-harder-into-health-2000797058",
+      "reason": "same Pixel Watch 5 launch and same Gemini health-sensing feature set as the published 2026-08-14 Google Health card"
+    },
+    {
+      "url": "https://gizmodo.com/the-company-behind-ugly-gold-phones-is-now-making-ugly-gold-smart-glasses-2000795594",
+      "reason": "not a duplicate, but the oldest item in the pool (Aug 6) and a 24-unit luxury reskin of Ray-Ban Meta; ranked below the Rogbid price-floor story to avoid a second eyewear card"
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/05/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
+      "reason": "Siri AI hardware gating (12GB RAM / newer chips) overlaps the published 2026-08-12 card gadgets-ios27-siri-voice, which already lists the same device cutoffs; also the oldest Apple item in the pool"
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/13/homepod-mini-2-release-date-features-price-rumors/",
+      "reason": "rumor roundup rather than a release; lower novelty than the surviving picks"
+    },
+    {
+      "url": "https://www.tomsguide.com/home/dreame-x60-max-ultra-complete-review",
+      "reason": "AI robot vacuum lane was just run on 2026-08-14 with the Matic Cues card; a different product, but repetitive for readers"
+    }
+  ]
 }

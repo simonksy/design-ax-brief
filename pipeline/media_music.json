@@ -1,32 +1,31 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "music",
   "media": [
     {
-      "id": "music-suno-studio-2",
+      "id": "music-suno-bmg",
       "type": "image",
-      "src": "pipeline/media/music-suno-studio-2.jpg"
+      "src": "pipeline/media/music-suno-bmg.jpg"
     },
     {
-      "id": "music-beatport-ai-ban",
+      "id": "music-spotify-kobalt",
       "type": "image",
-      "src": "pipeline/media/music-beatport-ai-ban.jpg"
+      "src": "pipeline/media/music-spotify-kobalt.jpg"
     },
     {
-      "id": "music-spotify-ai-persona",
+      "id": "music-apc-140",
       "type": "image",
-      "src": "pipeline/media/music-spotify-ai-persona.jpg"
+      "src": "pipeline/media/music-apc-140.png"
     },
     {
-      "id": "music-tonex-2-player",
-      "type": "video",
-      "src": "pipeline/media/music-tonex-2-player.mp4",
-      "poster": "pipeline/media/music-tonex-2-player.jpg"
+      "id": "music-eu-ai-label",
+      "type": "image",
+      "src": "pipeline/media/music-eu-ai-label.jpg"
     },
     {
-      "id": "music-ia-de-esser",
+      "id": "music-uppbeat-report",
       "type": "image",
-      "src": "pipeline/media/music-ia-de-esser.jpg"
+      "src": "pipeline/media/music-uppbeat-report.jpg"
     }
   ]
 }

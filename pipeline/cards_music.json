@@ -1,66 +1,71 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "music",
   "cards": [
     {
-      "id": "music-suno-studio-2",
+      "id": "music-suno-bmg",
       "eyebrow": "AI NEWS",
-      "headline": "Suno Studio 2.0은 이제\nDAW와 대화하며 곡을 만든다",
-      "body": "Suno Studio 2.0에 대화형 AI 조수와 MIDI 편집이 들어갔다.",
-      "mini_headline": "DAW가 된 Suno",
+      "headline": "Suno가 BMG 전 카탈로그를 쓴다\n참여 여부는 아티스트가 고른다",
+      "body": "BMG 전 카탈로그가 Suno에 열리되 참여를 택한 아티스트만 학습에 들어간다.",
+      "mini_headline": "Suno, BMG와 계약",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/gear/suno-studio-2-0-upgrade-new-features/",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/suno-inks-global-licensing-deal-with-bmg/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/08/suno-studio-2@2000x1500.jpg",
-            "cap": "Suno Studio 2.0 — 트립합 비트를 요청하는 채팅 바가 보인다"
+            "src": "https://www.musicbusinessworldwide.com/files/2026/08/MikeyShulman.jpg",
+            "cap": "Suno 공동창업자 겸 CEO Mikey Shulman. 사진 Samuel Boivin / Shutterstock"
           },
           {
             "t": "p",
-            "x": "Suno가 자사 DAW인 Suno Studio를 2.0으로 올렸다. 고급 스템 분리와 MIDI 도구가 들어갔고 DAW 자체와 대화하는 기능까지 붙었다."
+            "x": "Suno가 훈장을 하나 더 달았다. 이 AI 음악 플랫폼은 8월 12일 BMG와 새 계약을 함께 알렸다. BMG 보도자료는 이를 “global alliance that establishes a strategic framework covering BMG’s recorded and music publishing repertoire”, 음원과 퍼블리싱 카탈로그를 아우르는 전략 틀을 세우는 글로벌 제휴라고 설명했다."
           },
           {
             "t": "p",
-            "x": "Suno Studio는 2025년에 나왔다. Suno가 악명을 얻은 생성형 AI 기술에 DAW의 일반적인 기능을 얹은 물건이다. MusicTech는 올해 초 이 플랫폼을 리뷰하며 10점 만점에 6점을 줬다."
+            "x": "보도자료는 BMG 소속 아티스트의 옵트인 요소를 짚는다. “The agreement ensures that BMG artists and songwriters who choose to participate have their rights protected and are compensated for their music, while also settling prior use of BMG recordings and publishing works.” 참여를 택한 아티스트와 작가는 권리를 지키고 보상을 받는다. 과거 사용분도 이번에 함께 정리한다."
           },
           {
             "t": "p",
-            "x": "가장 Suno다운 변화부터. Studio 2.0에서는 DAW와 \"like you would any other collaborator\", 다른 협업자를 대하듯 채팅한다. 'Chat'에 악기와 보컬을 처음부터 만들어 달라고 하거나 새 플러그인을 함께 설계하거나 세션을 정리해 달라고 시킬 수 있다."
+            "x": "Warner Music Group이 아홉 달 전 Suno와 손잡은 뒤로, 무게 있는 권리자가 라이선스 계약을 맺은 건 BMG가 처음이다. 반면 최대 권리자인 Universal Music Group과 Sony Music Group은 미국에서 Suno와 여전히 소송 중이다. 지난 모델 학습에서 저작권을 널리 침해했다는 주장이다."
           },
           {
             "t": "p",
-            "x": "Suno는 Chat이 음악 제작을 이해한다고 설명한다. \"like you would any other member of the band\" — 밴드의 다른 멤버에게 말을 걸듯 하면 된다. 출시 시점에 새 플러그인 제작은 크레딧을 쓰지 않는다. 다만 \"though a credit structure may be introduced in the future\"라며 나중에 크레딧 체계가 생길 수 있다고 덧붙였다."
+            "x": "Suno 공동창업자 겸 CEO Mikey Shulman은 이렇게 말했다. “We believe the future of music will be more participatory, creating entirely new ways for artists and fans to connect.” 음악의 미래는 더 참여적이고, 아티스트와 팬을 잇는 길이 새로 열린다고 봤다. 그 미래를 책임 있게 지으려면 음악을 만드는 사람들과 직접 일해야 한다고 덧붙였다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.musicbusinessworldwide.com/files/2026/01/Celine-Joshua_BMG-1-e1769440073714.jpeg",
+            "cap": "BMG 글로벌 마케팅·스트리밍 총괄 EVP Celine Joshua"
           },
           {
             "t": "p",
-            "x": "요청이 많던 기능도 왔다. Studio 2.0 사용자는 타임라인에서 MIDI를 직접 불러오고 녹음하고 편집한다. 새 웨이브테이블 신스로 소리를 직접 만들 수도 있다. MIDI 클립은 새 오디오 생성의 프롬프트로도 쓰인다. MIDI 컨트롤러가 없다면 타자 키보드로 음을 친다."
+            "x": "BMG의 글로벌 마케팅·스트리밍 총괄 EVP Celine Joshua는 선택이 원칙이라고 못박았다. “This agreement establishes strong protections, clear economics, and new creative possibilities for artists and their fans.” 보호는 단단하고 경제 조건은 또렷하며 창작 가능성은 새롭다는 이야기다."
           },
           {
             "t": "p",
-            "x": "스템 분리 도구도 최신판으로 갈았다. Suno는 \"amazing audio fidelity\"라고 표현했다. 트랙과 플러그인 파라미터에 오토메이션 커브를 그려 시간에 따라 바꾸는 것도 이번이 처음이다. Premier 구독자는 멀티트랙과 스템을 제한 없이 내보낸다."
+            "x": "BMG 발표는 Suno가 구독자 다운로드 수를 제한하겠다고 확인한 바로 그 주에 나왔다. 다음 달부터 걸리는 이 제한은 “make it harder for bad actors to mass-export music”, 나쁜 행위자가 음악을 대량으로 빼가기 어렵게 만들려는 조치다. Suno는 오디오 워터마킹과 핑거프린팅 기술도 들이기로 했다."
           },
           {
             "t": "p",
-            "x": "Suno Studio 2.0은 Premier 사용자에게 지금 열려 있다. Premier 구독료는 월 18파운드다."
+            "x": "Suno는 6월에 54억 달러 기업가치로 4억 달러 넘는 돈을 모았고 이용자가 1억 명을 넘겼다. 지난달에는 독일 GEMA와의 다툼에서 뮌헨 지방법원에 졌고, 법원은 수익 정보 공개와 손해배상을 명령했다. BMG가 쥔 곡과 음원은 300만 건이 넘는다. will.i.am, Jean-Michel Jarre, Tina Turner, Paul Simon의 카탈로그가 여기 들어간다. 4분기에 닫힐 Concord와의 수십억 달러 합병으로 규모는 더 불어난다."
           }
         ]
       }
     },
     {
-      "id": "music-beatport-ai-ban",
+      "id": "music-spotify-kobalt",
       "eyebrow": "AI NEWS",
-      "headline": "Beatport, AI가 다 만든 곡은\n스토어에서 아예 받지 않는다",
-      "body": "Beatport는 AI가 전부 또는 대부분 만든 곡을 스토어에서 거부한다.",
-      "mini_headline": "AI 완성곡은 판매 불가",
+      "headline": "Spotify의 AI 커버·리믹스에\nKobalt 작가진이 들어왔다",
+      "body": "Kobalt 소속 작가들이 Spotify의 팬 리믹스 도구에 곡을 옵트인한다.",
+      "mini_headline": "Kobalt도 옵트인",
       "tool": "Music",
-      "source": "DJ Mag",
-      "url": "https://djmag.com/news/beatport-banning-fully-ai-generated-tracks",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2236313/spotify-has-roped-the-indie-pubisher-kobalt-into-its-ai-platform-for-covers-and-remixes/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -68,49 +73,41 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-08/Beatport-AI-Detection.jpg.webp",
-            "cap": "Beatport와 Beatdapp — AI 판별을 위한 파트너십"
+            "src": "https://www.engadget.com/img/gallery/spotify-has-roped-the-indie-publisher-kobalt-into-its-ai-platform-for-covers-and-remixes/intro-1786636073.jpg",
+            "cap": "검은 바탕에 놓인 Spotify와 Kobalt 로고"
           },
           {
             "t": "p",
-            "x": "Beatport가 전부 또는 대부분 AI로 만든 곡을 막겠다고 발표했다. AI의 도움을 받아 만든 곡에는 그 사실을 태그로 달아 투명성을 높인다."
+            "x": "Spotify는 팬이 커버와 리믹스를 만드는 AI 도구를 한참 전부터 흘려왔다. Universal Music Group과의 협력도 이미 공개했다. 이번 파트너는 인디 음악 퍼블리셔 Kobalt다. Phoebe Bridgers부터 포스트펑크 밴드 IDLES까지 폭넓은 뮤지션의 곡을 퍼블리싱하는 회사다."
           },
           {
             "t": "p",
-            "x": "이번 결정은 사기 탐지 전문 업체 Beatdapp과의 파트너십 확대에 뒤따랐다. 자동 생성 음악과 생성형 음악을 더 효율적으로 가려내려고 기술과 시스템, 절차를 손봤다. 앞으로 전부 또는 대부분 AI로 만든 곡은 반려되고 권리자에게 직접 통보된다."
+            "x": "Kobalt 소속 아티스트는 곧 Spotify의 새 플랫폼에 옵트인할 수 있다. 팬이 곡을 가져다 리믹스와 커버로 다시 쓰는 곳이고, 물론 AI 도구 묶음으로 돌아간다. 아직 그 결과물을 들어본 사람은 없다. 인터넷 전체를 털고 다니는 대신 정식 라이선스를 받은 곡만 쓰는 Suno, 대략 그런 그림이다."
           },
           {
             "t": "p",
-            "x": "Beatport 정책 페이지의 설명은 이렇다. \"Music created with AI assistance will still be accepted, provided the finished track remains majority human-made.\" 완성된 곡이 사람 손으로 대부분 만들어졌다면 AI 보조 제작은 계속 받는다는 말이다. \"These releases will be tagged during ingestion, giving Beatport's curation team a clearer picture of what it is reviewing and featuring.\" 등록 단계에서 태그가 붙으면 큐레이션 팀은 무엇을 검토하고 소개하는지 더 또렷하게 본다."
+            "x": "그래서 이 도구는 생성형 AI가 아티스트를 등쳐먹는 새 방식이 아니라 돈을 버는 새 방식으로 홍보된다. Spotify는 “open up additional revenue streams and new ways to drive discovery”, 추가 수익원과 새로운 발견 경로가 열린다고 말한다. Kobalt CEO Laurent Hubert는 소속 아티스트가 “directly benefiting from the creative opportunities these new features provide”, 새 기능이 주는 창작 기회에서 직접 이득을 본다고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Beatport는 이 결정이 커뮤니티의 생각을 반영한다고 했다. 그 상당수가 DJ다. 최근 설문에서 60%는 AI로 만든 곡을 틀지 않겠다고 답했고 77%는 \"a firm preference for supporting human creators\", 사람 창작자를 지지하겠다는 뜻을 분명히 밝혔다. AI 음악을 틀 수 있다는 응답은 8%였고 아티스트와 레이블에 정당한 보상이 간다면 고려하겠다는 응답이 13% 더 있었다."
+            "x": "적어도 그 수익이 어디서 나오는지는 분명하다. 이 플랫폼은 Premium 구독자용 유료 부가기능으로 나온다. 가격이 얼마일지, 좋아하는 곡의 AI 커버를 만들자고 실제로 지갑을 열 사람이 있을지는 아직 모른다."
           },
           {
             "t": "p",
-            "x": "Beatport CEO Matt Gralen의 말이다. \"Beatport exists to serve DJs and empower artists & labels. This means partnering with our community and providing confidence in what our platform offers.\" 그는 새로운 제작 기법이 처음부터 일렉트로닉 음악을 밀어 올렸지만 사람의 창작을 돕는 도구와 그것을 통째로 대체하는 시스템은 다르다고 했다. Beatport는 전자 위에 서 있다고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "Beatdapp 공동 창업자이자 공동 CEO인 Andrew Batey는 이번 협력이 \"bring greater transparency to generative AI while protecting human creativity\", 사람의 창작을 지키면서 생성형 AI에 더 큰 투명성을 가져온다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "지난달 파리에 자리 잡은 스트리밍 대기업 Deezer는 하루 업로드의 약 50%, 9만 곡이 AI로 만들어진 것이라고 확인했다. 8월 초에는 Spotify가 AI 아티스트 프로필에 'AI persona' 배지를 붙이겠다고 발표했다. 6월에는 미국 매체 The Atlantic이 AI 개발사들이 저작권 있는 음원 2100만 곡가량을 생성 모델에 썼다는 조사를 내놨다."
+            "x": "AI 없이 커버할 길이 열리는지도 알 수 없다. 결국 라이선스 문제라면, 알고리즘이 뱉은 슬롭과 사람이 연주해 녹음한 진짜 커버 사이에 무슨 차이가 있나. 어느 쪽이든 답을 듣기까지는 시간이 좀 걸린다. Spotify는 출시 시점을 아직 밝히지 않았다."
           }
         ]
       }
     },
     {
-      "id": "music-spotify-ai-persona",
+      "id": "music-apc-140",
       "eyebrow": "AI NEWS",
-      "headline": "Spotify, AI 아티스트에\n'AI Persona' 라벨을 붙인다",
-      "body": "9월 중순부터 AI Persona 프로필은 추천에서 빠지지만 정산은 그대로다.",
-      "mini_headline": "추천에서 빠지는 AI",
+      "headline": "글로 적은 플러그인 아이디어를\nVST3 프로젝트로 바로 바꾼다",
+      "body": "Audio Plugin Coder 1.4.0은 JUCE 9와 설정 마법사를 더했다.",
+      "mini_headline": "말로 만드는 VST3",
       "tool": "Music",
-      "source": "gearnews",
-      "url": "https://www.gearnews.com/ai-persona-spotify-labels-ai-tech/",
+      "source": "KVR Audio",
+      "url": "https://www.kvraudio.com/news/noizefield-updates-audio-plugin-coder-to-v1-4-0---juce-9-support-guided-setup-and-unique-ai-workflow-commands-68080",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -118,152 +115,133 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Spotify-AI-Persona-01-1024x565.jpg",
-            "cap": "Spotify AI Persona · 출처: Spotify"
+            "src": "https://static.kvraudio.com/i/s/noizefield_audio-plugin-coder_product_image.png",
+            "cap": "Noizefield Audio Plugin Coder"
           },
           {
             "t": "p",
-            "x": "Spotify가 실제 사람을 대신하지 않는 아티스트 프로필에 붙일 새 태그, AI Persona 라벨을 내놓는다. 2026년 9월 중순부터 해당 프로필은 배너와 검색, 플레이리스트 안 트랙에 표시된다. 동시에 Spotify는 이 프로필들을 에디토리얼 추천과 알고리즘 추천에서 기본으로 뺀다."
+            "x": "음악 소프트웨어 제작사 Noizefield가 Audio Plugin Coder(APC) 1.4.0을 내놨다. 자연어로 적은 플러그인 아이디어를 AI 코딩 에이전트로 VST3/AU 프로젝트 구조로 옮겨주는 오픈소스 프레임워크의 큰 업데이트다."
           },
           {
             "t": "p",
-            "x": "Spotify는 청취자 의견이 분명했다고 말한다. 프로필 뒤에 실제 사람이 있는지, AI가 만든 페르소나가 있는지 알고 싶다는 쪽이었다. 이제 아티스트와 소속 팀은 자기 프로필이 AI Persona인지 직접 신고한다. Spotify도 사실적인 AI 생성 이미지를 쓰는 프로필을 포함해 적극적으로 들여다본다. 몇 달 안에 청취자가 라벨 없는 AI Persona로 의심되는 프로필을 신고하는 기능도 열린다. 최종 판단은 Spotify가 한다."
+            "x": "APC는 발상, 구조 설계, UI 디자인, 구현, 테스트, 패키징까지 단계를 안내하면서 프로젝트 상태와 문제 해결 지식을 계속 들고 간다. 빈 C++ 프로젝트부터 시작하기는 싫은 프로듀서와 사운드 디자이너, 개발자를 겨냥했다. Claude Code, Cursor, Codex, Kilo, Antigravity 같은 에이전트와 함께 Windows, macOS, Linux에서 돌아간다."
           },
           {
             "t": "p",
-            "x": "시점은 우연이 아니다. 이 플랫폼은 몇 달째 AI로 만든 콘텐츠에 잠겼다. 4월에는 진짜 아티스트 프로필을 표시하는 'Verified by Spotify'를 이미 내놨다. AI Persona 라벨은 'Artist Identity & Trust'라는 더 큰 계획의 일부다. 여기에는 SongDNA와 AI 송 크레딧도 들어간다. 아티스트가 음악을 만들 때 AI를 어떻게 썼는지 밝히는 장치다."
+            "x": "1.4.0의 변화는 이렇다. JUCE 8에서 JUCE 9.0.1로 올려 최신 호스트와 툴링, WebView 기반 UI를 받아낸다. /apc-setup은 첫 실행 마법사로 툴체인을 점검하고 플러그인·빌드·릴리스 폴더 위치와 UI 기본값, 단계별 AI 모델 취향을 잡아준다."
           },
           {
             "t": "p",
-            "x": "정작 중요한 대목은 라벨이 아니라 거기 붙은 결과다. AI Persona 프로필의 음악은 에디토리얼 추천에도 개인화 추천에도 기본으로 뜨지 않는다. 음악 발견이 사실상 알고리즘 플레이리스트로 돌아가는 플랫폼에서 이건 도달 차단에 가깝다. Spotify는 공식적으로 라벨일 뿐이라고 말하지만."
-          },
-          {
-            "t": "p",
-            "x": "다만 정산은 그대로다. AI Persona 트랙의 로열티는 평소처럼 지급된다. Spotify가 겨눈 쪽은 돈이 아니라 노출이다. 7월 TIDAL은 반대로 갔다. AI 트랙을 카탈로그에 남기되 로열티와 직접 판매에서는 완전히 끊었다."
-          },
-          {
-            "t": "p",
-            "x": "7월에는 IFPI와 RIAA 같은 주요 업계 단체가 'AI-Generated'와 'AI-Assisted' 두 가지 자율 라벨에 합의했다. 큰 스트리밍 플랫폼은 참여하지 않았다. 당시 미지근했던 Spotify는 결이 다른 길을 골랐다. 업계 단체가 녹음물에 AI가 얼마나 들어갔는지를 표시한다면, Spotify의 AI Persona 라벨은 프로필 뒤에 사람이 있는지를 묻는다."
-          },
-          {
-            "t": "p",
-            "x": "라벨이 실제로 AI 페르소나가 진짜 아티스트를 밀어내는 흐름을 막을지, 아니면 요령 있는 운영자들이 빠져나갈 길을 찾을지는 9월 중순 시행 뒤에야 드러난다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-tonex-2-player",
-      "eyebrow": "AI NEWS",
-      "headline": "Tonex 2.0 Player, 뉴럴 톤\n220개를 들고 다시 나왔다",
-      "body": "Tonex 2.0 Player 베타가 새 뉴럴 톤 모델 220개를 들고 나왔다.",
-      "mini_headline": "새 뉴럴 톤 220개",
-      "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/guitars/ik-multimedia-tonex-2-player",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/4VDagEqs99EEaZkfKzZ2BT.jpg",
-            "cap": "IK Multimedia Tonex 생태계 구성도"
-          },
-          {
-            "t": "p",
-            "x": "IK Multimedia가 Tonex Player를 위에서 아래까지 새로 손봤다. \"photorealistic\" 장비 선택 화면과 정리된 작업 흐름이 들어갔고 공개 베타에는 새 Premium Tone Model 220개가 함께 왔다."
-          },
-          {
-            "t": "p",
-            "x": "Tonex 2.0 Player는 IK Multimedia의 일렉트릭 기타·베이스 톤 생태계에서 창작 허브에 가깝다. Tone Model과 편집본, 프리셋, 캡처를 관리하고 새 소리를 찾는 곳이 한 군데로 모였다."
-          },
-          {
-            "t": "p",
-            "x": "만든 소리는 Tonex 하드웨어 기기 전체에서 그대로 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "IK Multimedia가 Tonex 생태계가 자란다고 말할 때 그건 과장이 아니다. Tonex 2.0 Player가 여러 하드웨어 한가운데 앉은 구성도는 날마다 더 복잡해진다."
-          },
-          {
-            "t": "p",
-            "x": "Tonex 2.0 Player는 기타 플러그인으로도 DAW용 독립 실행 앱으로도 돌아간다. 켜자마자 홈 화면이 달라진 게 보인다. 장비와 시그널 체인, 라이브러리가 모두 여기서 열린다."
+            "x": "워크플로 명령도 /apc-dream, /apc-plan, /apc-design, /apc-impl, /apc-ship처럼 고유한 이름을 얻었다. 다른 AI 도구와 이름이 겹치지 않게 하려는 손질인데, /dream 같은 짧은 별칭은 그대로 남는다. 의존성 검사가 촘촘해졌고 WebView 플러그인 문서도 나아졌다. 빌드 스크립트는 경로를 인식하도록 고쳤고, Windows에서 WebView UI 스모크 테스트까지 실제 플러그인 빌드로 확인했다."
           },
           {
             "t": "video",
-            "yt": "pbYaZjeKkBQ"
+            "yt": "B_hEkSp3tEk"
           },
           {
             "t": "p",
-            "x": "IK Multimedia는 \"It's faster to find the sound you want, easier to shape it, and more rewarding to explore\"라고 설명한다. 원하는 소리를 더 빨리 찾고 더 쉽게 다듬고 더 즐겁게 뒤진다는 말이다."
-          },
-          {
-            "t": "p",
-            "x": "앰프 모델을 훑는 화면이 보기 좋아졌다. ToneNET 커뮤니티와의 연결도 촘촘해져서 새 Smart Search로 사용자가 만든 Tone Model과 시그널 체인 프리셋을 찾기 쉬워졌다. 크기를 바꿀 수 있는 전용 플로팅 브라우저가 앰프와 이펙트, Tonex 컬렉션 사이를 오간다."
-          },
-          {
-            "t": "p",
-            "x": "이 대목이 Tonex 모델의 핵심이다. Tonex 제품군은 소프트웨어와 하드웨어를 가리지 않고 IK Multimedia의 Amplitube 5 플랫폼까지 완전히 맞물리게 설계됐다. 이번 개편이 내세우는 것도 캡처에서 스튜디오, 리허설, 무대까지 이어지는 하나의 작업 흐름이다."
-          },
-          {
-            "t": "p",
-            "x": "Tonex 2.0 Player는 지금 공개 베타로 열려 있다. 곧 모든 Tonex 사용자에게 무료 업데이트로 풀린다."
+            "x": "APC 1.4.0은 GitHub에서 무료로 받는다. 소스도 공개돼 있다."
           }
         ]
       }
     },
     {
-      "id": "music-ia-de-esser",
+      "id": "music-eu-ai-label",
       "eyebrow": "AI NEWS",
-      "headline": "Immanent Audio의 무료 디에서\nAI는 쓰되 모르는 코드는 안 넣는다",
-      "body": "무료 IA De-Esser 개발자는 AI로 속도를 내되 모르는 코드는 안 넣는다.",
-      "mini_headline": "AI가 도운 무료 디에서",
+      "headline": "AI가 만든 콘텐츠는 유럽에서\n이제 더 이상 익명일 수 없다",
+      "body": "8월 2일부터 유럽에서 AI로 만든 음악과 영상, 글은 표시를 달아야 한다.",
+      "mini_headline": "EU, AI 표시 의무화",
       "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/08/13/immanent-audio-ia-de-esser/",
-      "accent": "#2ec5c5",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/the-era-of-unlabeled-ai-content-in-europe-is-ending/",
+      "accent": "#eb367f",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/ia-deesser-728x364.jpg",
-            "cap": "IA De-Esser — 슬롯 네 개를 쓰는 무료 디에서"
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-4-AI-EU.jpg",
+            "cap": "8월 2일 발효된 EU AI법의 투명성 조항"
           },
           {
             "t": "p",
-            "x": "Immanent Audio가 macOS와 윈도우용 무료 디에싱·공진 억제 플러그인 IA De-Esser를 내놨다."
+            "x": "8월 2일부터 유럽연합 AI법의 새 투명성 조항이 발효됐다. AI가 만들거나 크게 손댄 오디오·이미지·영상·텍스트는 이제 “인공적”이라는 사실을 분명히 밝혀야 한다."
           },
           {
             "t": "p",
-            "x": "IA De-Esser는 접근이 조금 다르다. 모듈 하나 대신 필터 슬롯 네 개로 치찰음과 거친 소리, 튀는 공진을 잡는다. 슬롯마다 치찰음에 자동으로 반응하는 De-Ess 모드로 쓰거나 더 넓은 범위의 거친 소리를 다루는 모드로 쓴다."
+            "x": "범용 AI 시스템 개발자에게도 새 투명성 의무가 붙었다. EU의 대표 AI 입법에서 소비자가 처음으로 체감하는 이정표다."
           },
           {
             "t": "p",
-            "x": "괜찮은 발상이다. 모듈마다 거친 기운을 조금씩 덜어내면 디에서 하나를 세게 밀어붙일 때보다 결과가 자연스럽다."
+            "x": "음악 산업 쪽에서 보면 이번 변화는 AI를 막는 쪽이 아니라 AI를 쓴 흔적을 눈에 보이게 만드는 쪽이다. AI 음악을 금지하지도 않고, AI 학습 데이터를 둘러싼 저작권 다툼을 정리해주지도 않는다."
           },
           {
             "t": "p",
-            "x": "Auto 모드에서는 Low-Cut과 Hi-Cut 범위만 정해 주면 플러그인이 적당하다고 판단한 depth와 Q 값을 고른다. Smart 모드는 한 발 더 나가서 스펙트럼을 훑고 손이 필요한 지점으로 활성 슬롯을 보낸다."
+            "x": "대신 “초점은 투명성에 있다”. AI가 만들었거나 크게 손댄 콘텐츠라면 듣는 사람이 알아볼 수 있어야 하고, 개발사는 학습 방식을 문서로 남기고 AI법의 투명성 요건을 지켜야 한다."
           },
           {
             "t": "p",
-            "x": "목표는 걷어내고 싶은 거친 부분만 깎는 데 있다. 보컬이나 악기 전체가 디에싱 특유의 먹먹한 소리로 주저앉지 않게 한다. 화면에는 attack, release, depth, Q가 실시간으로 표시돼 플러그인이 무슨 일을 하는지 읽힌다."
+            "x": "음악 산업의 굵직한 법적 질문은 여전히 답이 없다. 새 규정은 Suno나 Udio 같은 회사가 저작권 있는 녹음물로 학습해 침해를 저질렀는지 가려주지 않고, 학습에 쓴 곡을 전부 공개하라고 요구하지도 않는다. 그 싸움은 세계 각지의 법정과 라이선스 협상 테이블에서 계속된다."
           },
           {
             "t": "p",
-            "x": "DAW 레이턴시는 늘어나지 않는다. 트래킹처럼 지연이 곤란한 상황에서도 그냥 걸어 둔다."
+            "x": "유럽이 이번에 세운 건 기준선 하나다. “AI가 만든 콘텐츠는 더 이상 익명이어서는 안 된다”."
           },
           {
             "t": "p",
-            "x": "요즘 AI를 쓴 오디오 도구가 부쩍 늘어난 터라 Immanent Audio에 이 플러그인도 AI로 개발했는지 물었다. 개발자 Jay는 \"AI was used to speed up the process\"라며 개발 속도를 올리는 데 AI를 썼다고 확인했다. 다만 본업이 소프트웨어 엔지니어인 만큼 자기가 이해하지 못하는 코드는 내보내지 않는다고 덧붙였다."
+            "x": "아티스트와 레이블, 권리자 입장에서는 AI 생성물을 가려내고 그것이 청취자에게 어떤 얼굴로 놓이는지 따지기가 한결 쉬워진다. AI를 어떻게 굴렸는지 회사에 책임을 묻는 일도 마찬가지다. 투명성 요건을 어긴 기업은 최대 1,500만 유로 또는 연간 전 세계 매출의 3%까지 과징금을 물 수 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-uppbeat-report",
+      "eyebrow": "AI NEWS",
+      "headline": "완전 AI 콘텐츠를 받아들인\n창작자는 6.7%뿐이었다",
+      "body": "창작자 1,792명 중 완전 AI 결과물을 받아들인 쪽은 6.7%에 그쳤다.",
+      "mini_headline": "AI 수용의 경계선",
+      "tool": "Music",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/where-artists-draw-the-line-on-ai-uppeat-creator-report/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/The-Uppbeat-Creator-Report.jpg",
+            "cap": "Uppbeat Creator Report 2026"
           },
           {
             "t": "p",
-            "x": "IA De-Esser는 Gumroad에서 무료로 받는다. macOS와 윈도우의 VST3, AU 포맷을 지원한다."
+            "x": "AI가 크리에이터 경제로 밀려들며 디지털 지형이 바뀌었다. 콘텐츠는 폭증했고 진정성은 위기를 맞았다. 창작 자산 플랫폼 Uppbeat는 미래를 점치는 대신 당사자에게 직접 물었다."
+          },
+          {
+            "t": "p",
+            "x": "새로 나온 Uppbeat Creator Report 2026은 2026년 2월과 3월 사이 창작 전문가 1,792명의 설문과 13건의 심층 인터뷰를 바탕으로 삼았다. 뮤지션과 유튜버를 비롯한 창작자가 새 기술에 어떻게 적응하는지, 어떤 AI 도구를 받아들이고 창작 과정의 어느 부분만은 기계에 넘기지 않는지를 들여다본다."
+          },
+          {
+            "t": "p",
+            "x": "선은 뚜렷하다. “just 6.7% of respondents finding fully AI-generated content acceptable”, 완전히 AI가 만든 결과물을 받아들이는 응답자는 6.7%에 그쳤다. 그런데 “60% are happy to integrate AI assistance”, 약 60%는 작업 흐름에 AI의 도움을 기꺼이 섞는다. 기술 업계의 통념과 달리 “16- to 24-year-olds are the least likely group to use AI tools”, 16~24세가 AI 도구를 가장 적게 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/The-Uppbeat-Creator-Report-4.jpg",
+            "cap": "아티스트가 AI에 선을 긋는 지점 — Uppbeat Creator Report"
+          },
+          {
+            "t": "p",
+            "x": "2,600건이 넘는 주관식 응답에서 주제 셋이 떠올랐다. 양보다 구체성이다. AI로 대량 생산이 쉬워질수록 “creators are standing out by getting more specific and niche”, 창작자는 출력량을 늘리기보다 더 좁고 구체적인 자리로 들어가며 눈에 띈다. 청중도 반발한다. 지나치게 자동화된 뻔한 콘텐츠를 피드에서 조용히 밀어내고 “messy, emotional, and brilliant” 인간적인 결을 찾는다. 그리고 무한한 AI 생성물 속에서 남는 희소재는 창작자 개인의 시선과 목소리뿐이다."
+          },
+          {
+            "t": "p",
+            "x": "독립 뮤지션을 향한 조언도 붙었다. 메타데이터, 홍보 일정, 이메일 초안, 클립 편집, 작업 물류 같은 잡일은 AI에 넘기되 곡을 쓰고 보컬을 따고 팬과 직접 만나는 일은 넘기지 않는다. 뻔한 트랙을 대량으로 찍어내면 알고리즘 진창에 삼켜진다. 사람을 유료 팬으로 바꾸는 쪽은 극도로 구체적인 미감과 취약한 개인의 이야기다."
+          },
+          {
+            "t": "p",
+            "x": "Hypebot의 결론은 이렇다. AI를 두려워할 일도, 창작 정체성을 통째로 넘길 일도 아니다. 도구로 뒤단의 마찰을 걷어내 시간을 되사고, 그 시간을 노래와 무대와 머치 테이블 앞의 날것 그대로의 연결에 쓴다. 합성된 소음이 무한한 시대에 개인의 이야기는 브랜드를 넘어선 경쟁력이다."
           }
         ]
       }

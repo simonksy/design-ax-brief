@@ -1,32 +1,29 @@
 {
-  "date": "2026-08-14",
-  "section": "games",
   "media": [
     {
-      "id": "games-artstation-kitbash3d",
+      "id": "games-no-ai-clause",
       "type": "image",
-      "src": "pipeline/media/games-artstation-kitbash3d.jpg"
+      "src": "pipeline/media/games-no-ai-clause.jpg"
     },
     {
-      "id": "games-twitch-ai-optout",
+      "id": "games-unity-copilot-tips",
       "type": "image",
-      "src": "pipeline/media/games-twitch-ai-optout.jpg"
+      "src": "pipeline/media/games-unity-copilot-tips.png"
     },
     {
-      "id": "games-relu-mimesis-ai-design",
+      "id": "games-gen1recomp-not-vibe",
       "type": "image",
-      "src": "pipeline/media/games-relu-mimesis-ai-design.jpg"
+      "src": "pipeline/media/games-gen1recomp-not-vibe.jpg"
     },
     {
-      "id": "games-deanbeat-external-devs",
+      "id": "games-castle-walls-ai",
       "type": "image",
-      "src": "pipeline/media/games-deanbeat-external-devs.jpg"
+      "src": "pipeline/media/games-castle-walls-ai.jpg"
     },
     {
-      "id": "games-supergirl-concept-art-ai",
-      "type": "video",
-      "src": "pipeline/media/games-supergirl-concept-art-ai.mp4",
-      "poster": "pipeline/media/games-supergirl-concept-art-ai.jpg"
+      "id": "games-fan-translation-no-ai",
+      "type": "image",
+      "src": "pipeline/media/games-fan-translation-no-ai.jpg"
     }
   ]
 }

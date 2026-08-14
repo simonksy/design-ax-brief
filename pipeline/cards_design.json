@@ -1,300 +1,139 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "design",
   "cards": [
     {
-      "id": "design-figma-skills",
+      "id": "design-figma-move-fast",
       "eyebrow": "AI NEWS",
-      "headline": "이제 디자이너가\n피그마 스킬을 직접 만든다",
-      "body": "피그마 안에서 에이전트용 스킬을 직접 만들고 커뮤니티에 공개하는 길이 열렸다.",
-      "mini_headline": "스킬 만드는 디자이너",
+      "headline": "AI는 실행 속도만 올릴 뿐\n무엇을 만들지는 알려주지 않는다",
+      "body": "컨텍스트를 먼저 깔지 않으면 빠른 AI 작업이 그대로 기술 부채가 된다.",
+      "mini_headline": "속도와 판단은 다르다",
       "tool": "Figma",
       "source": "Figma",
-      "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
+      "url": "https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "오늘부터 피그마 에이전트용 스킬을 제품 안에서 직접 만들 수 있다. 만든 스킬은 커뮤니티에 올려 다른 사람과 나눈다."
-          },
-          {
-            "t": "p",
-            "x": "스킬은 결국 마크다운 텍스트 파일이다. 순서 있는 지시문이나 프롬프트 모양이라 언뜻 엔지니어 쪽 물건 같지만, 디자이너가 지니고 다니는 판단과 취향을 담기에 오히려 잘 맞는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1536&h=1536&q=75&fit=crop&crop=focalpoint&auto=format",
-            "cap": "화살표와 편지, 웃는 얼굴, 꽃, 사각형이 줄무늬 길로 이어진 인터페이스 요소 일러스트"
-          },
-          {
-            "t": "p",
-            "x": "글쓴이는 모션 튜토리얼을 만들다가 감을 잡았다. 늘 쓰던 이징 커브를 작업 중인 키프레임에 적용하는 스킬을 짜고 /ease-like-miggi라 이름 붙였는데, 팀이 그걸 쓰자 팀의 모션도 자기 것처럼 움직였다."
-          },
-          {
-            "t": "p",
-            "x": "만드는 방법은 이렇다. 디자인 프레임을 참고로 주거나 원하는 단계와 가이드라인을 알려 주고 에이전트에게 스킬을 만들어 달라고 한다. 초안이 나오면 미리 보고 채팅에서 바로 써 본다. 쓰면서 단계를 고치고 형식을 바꾸거나, 마크다운 편집기를 열어 손으로 다듬는다. 상당수는 서드파티 에이전트에서 피그마 MCP 서버와도 함께 돌아간다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
-            "cap": "모바일 디자인 캔버스를 둘러싼 AI 작업 프롬프트 목업"
-          },
-          {
-            "t": "p",
-            "x": "커뮤니티에서 고른 열 개 중 몇 가지. /xray-scan은 사진이나 설명을 방사선 사진처럼 바꾼다. 흑백에 가장자리가 빛나 여러 장을 겹치면 콜라주가 된다(Adele Ix). /find-animation-opportunities는 움직여야 하는데 멈춰 있는 곳, 반대로 움직이지 말아야 할 곳을 짚고 수치까지 제안한다(Emil Kowalski, Linear). /camera-pan-and-zoom은 프레임을 건드리지 않고 카메라 리그를 짜서 팬과 줌, 롤을 연출한다(Mallory Dean, Figma)."
-          },
-          {
-            "t": "p",
-            "x": "/better-interface는 타이포그래피와 레이아웃, 접근성, 모션, 제품 문구를 아우르는 개인 규칙집을 에이전트에게 넘긴다(Jakub Krehel, Interfere). /component-handoff는 컴포넌트 하나를 골라 이름과 버전, 담당자가 담긴 헤더부터 라이브 프리뷰, 배리언트 그리드, 해도 되는 것과 안 되는 것, 상태 분해, 전체 애너토미까지 문서 프레임으로 펼친다(Mauro Berteri, Itti Digital)."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/efe4f75c324a81587d2bda37df7de8eca3c0c8fb-3070x1727.png?rect=1,0,3068,1727&w=1080&h=608&q=75&fit=max&auto=format",
-            "cap": "대기·드래그·로딩·완료 상태와 스펙 표를 함께 정리한 슬라이딩 버튼 컴포넌트 명세"
-          },
-          {
-            "t": "p",
-            "x": "/create-color는 눈에 보이는 채움과 선, 그림자를 토큰이나 스타일에 매핑하고 하드코딩된 색을 잡아낸다. 그러데이션이면 각 스톱의 위치와 색, 연결된 변수까지 적어 준다(Ian Guisard, Uber). /analyze-components는 페이지를 훑어 고아 컴포넌트와 중복, 이름 오류를 표시하고 인스턴스를 한꺼번에 바꿔 끼운다(Amy Ha, Walmart)."
-          },
-          {
-            "t": "p",
-            "x": "/ui-state-expander는 화면 하나를 로딩과 빈 상태, 오류, 비활성, 부분 데이터, 엣지 케이스까지 펼쳐 트리거와 문구, 전환, 구현 노트를 붙인다(Linda Ojo, Paystack). /superfuture-design-review는 리뷰 결과를 빨강은 블로커, 노랑은 권장 수정, 초록은 이미 잘 되는 것으로 나눈다(Joey Primiani). /usability-test-guide는 프레임 옆에 진행 질문을 붙여 사용성 테스트 가이드를 만든다(Neha Kodi)."
-          },
-          {
-            "t": "p",
-            "x": "디자인 에이전트는 Professional·Organization·Enterprise 플랜의 Full 시트 사용자에게 오픈 베타로 열려 있다. Collab·Dev·View 시트는 드래프트에서 쓴다. 베타 기간에는 무료다."
-          }
+          {"t": "p", "x": "AI 덕에 속도는 쉽게 나온다. 기술 부채도 그렇다. 잘하는 팀은 빨리 내놓는 데서 멈추지 않는다. 충분히 따져 보고, 효율적으로 만들고, 남다르게 만든다."},
+          {"t": "img", "src": "https://cdn.sanity.io/images/599r6htc/regionalized/72d55d007b0b6306b30d3555868e28f88a9f2f2d-3600x2025.png?w=3600&h=2025&q=75&fit=crop&crop=focalpoint&auto=format", "cap": "분홍과 노랑, 초록, 주황, 보라의 부드러운 반점 무늬가 꽃처럼 흩어진 추상 이미지"},
+          {"t": "p", "x": "오랫동안 제품을 만드는 관문은 코드였고 열쇠는 개발자가 쥐었다. AI가 그 관문을 없앴다. IDE를 한 번도 열어 본 적 없는 사람이 돌아가는 소프트웨어를 내놓는다. 대신 무엇이든 만들 수 있게 되자 옳은 것을 만들기가 더 어려워졌다. 팀은 계속 실행하고 더 빨라지라는 압박을 받는데, 그 속도가 판단을 흐린다. 매끈한 결과물을 좋은 결과물로 착각하게 된다."},
+          {"t": "p", "x": "겉보기에 완성돼 보이는 출력은 프롬프트 몇 줄이면 나온다. AI 이전에는 그 매끈함이 전문가가 치른 판단과 절충을 뜻했다. 지금은 프로토타입까지 금방 가지만 빈칸은 LLM이 알아서 메운다. 표면은 훌륭하고 속은 무너진다."},
+          {"t": "p", "x": "Steven D. Shaw와 Gideon Nave는 논문 \"Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender\"에서 인지적 항복(cognitive surrender)이라는 말을 만들었다. 검증 없이 AI 출력을 받아들이고 자기 직관과 숙고를 스스로 덮는 상태다. 글쓴이도 자기가 늘 그런다고 적었다. 출발점은 의도여야 한다. 문제를 붙들고 앉아 무엇을 만들 가치가 있는지부터 분명히 하는 일, 그는 이를 고려의 의무라 부른다."},
+          {"t": "img", "src": "https://cdn.sanity.io/images/599r6htc/regionalized/18583a5d64a25c83cf1188991b3582b8be9d8b10-3264x1836.jpg?rect=0,1,3264,1835&w=804&h=452&q=75&fit=max&auto=format", "cap": "고리 모양 선과 점무늬, 겹쳐진 도형이 뒤섞인 보라와 파랑의 추상 콜라주"},
+          {"t": "p", "x": "구글의 Addy Osmani와 Shubham Saboo, Dr. Sokratis Kartakis는 백서 \"The New SDLC With Vibe Coding\"에서 에이전틱 엔지니어링을 제시한다. 개발자의 일을 코드 쓰기에서 의도 표현으로 옮기고, 그 의도를 AI가 소프트웨어로 번역한다. 백서는 대충 한 바이브 코딩이 기술 부채로 돌아온다고 본다. 그래서 모델이 틀린 곳을 잡아 주는 테스트와 타입 체크, 검증 같은 결정론적 층, 스펙과 문서화된 컴포넌트로 이뤄진 신호 강한 컨텍스트, 조각이 어떻게 이어지는지 알려 주는 분명한 인터페이스가 필요하다."},
+          {"t": "p", "x": "디자인에서 코드로 넘어갈 때 에이전트는 프로덕션 컴포넌트의 맥락을 모른다. Figma MCP의 Code Connect는 픽셀에서 컴포넌트를 되짚게 하는 대신 props와 배리언트까지 담긴 실제 코드를 넘긴다. 디자인도 마찬가지다. 디자인 시스템에 시간과 공을 들이면 결정이 코드로 굳고, 에이전트는 정확한 어휘와 가드레일을 갖는다. 그만큼 출력은 일관되고 코드는 가벼워진다."},
+          {"t": "img", "src": "https://cdn.sanity.io/images/599r6htc/regionalized/95db07ff96b03a3f861043bdc7be857f45c75752-3264x1836.jpg?rect=0,1,3264,1835&w=804&h=452&q=75&fit=max&auto=format", "cap": "빛나는 손 윤곽과 점, 기하 도형이 어우러진 화려한 추상 콜라주"},
+          {"t": "p", "x": "여기서는 AI가 반대로 작용한다. 모델은 방대한 데이터로 배웠고 유행과 스타일, 패턴을 다 안다. 그래서 이미 존재하는 것의 평균으로 끌린다. 로고를 시키면 그러데이션 얹은 단순한 기하 마크가, 피치덱을 시키면 다들 쓰는 산세리프가, React 컴포넌트를 시키면 모서리 둥근 카드가 나온다. 틀린 건 없고 대체로 무난하다. 그게 문제다. 이건 무엇이어야 하나 대신 이 중에 덜 틀린 게 뭔가를 묻게 된다."},
+          {"t": "video", "yt": "D5WUW9X_-L0"},
+          {"t": "p", "x": "이제 일은 속도와 분별을 함께 쥐는 쪽이다. 앞단의 명료함을 먼저 챙겨 방향을 잡고, 매끈함을 곧바로 믿지 않는다. 디자인 시스템 같은 컨텍스트 층에 투자해 에이전트가 효율적으로 움직이게 한다. 관점은 결국 당신 것이어야 한다."}
         ]
       }
     },
     {
-      "id": "design-onshape-featurescript-mcp",
+      "id": "design-dsds-w3c",
       "eyebrow": "AI NEWS",
-      "headline": "말로 설명하면\nCAD 기능이 만들어진다",
-      "body": "Onshape에서 말로 설명한 CAD 피처를 AI가 코드로 짜고 테스트까지 해낸다.",
-      "mini_headline": "말로 짓는 CAD 기능",
-      "tool": "Text-to-CAD",
-      "source": "DEVELOP3D",
-      "url": "https://develop3d.com/cad/onshape-featurescript-mcp-lets-users-build-custom-cad-features-fast/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "PTC가 Onshape용 FeatureScript MCP Server를 내놨다. 자연어와 AI로 나만의 CAD 피처를 짓는 기능이다."
-          },
-          {
-            "t": "p",
-            "x": "Onshape Labs로 공개했다. 원하는 기능을 말로 설명하면 AI가 FeatureScript로 만들고 테스트하고 디버깅하며 의도대로 돌아갈 때까지 다듬는다."
-          },
-          {
-            "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/08/Onshape-Labs-MCP-1024x576.jpg",
-            "cap": "Onshape Labs FeatureScript MCP"
-          },
-          {
-            "t": "p",
-            "x": "기업은 반복 작업을 자동화하고, 워크플로에 맞춘 도구를 만들고, 그 과정에서 엔지니어링 지식을 남긴다."
-          },
-          {
-            "t": "p",
-            "x": "예를 들어 표준 정의가 담긴 PDF를 AI에 먹여 만든 피처는 복잡한 헬릭스를 클릭 한 번으로 적용한다. 와이어 선반이나 싱크 랙용 도구는 사용자가 정한 파라미터를 받아 그리드 패턴과 지지 구조를 만든다. 늘 걸리던 병목을 위한 버튼을 직접 짓는 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "“FeatureScript는 우리가 우리 피처를 만들 때 쓰는 추상화 언어고, 그걸 전부 오픈소스로 풀었다. 빠진 기능도 만들고 필요한 것을 붙일 수 있고, 실제로 그렇게 쓰는 고객도 있었다. CAD 시스템을 각자 필요에 맞게 고치게 하자는 게 우리 의도”라고 PTC Onshape 총괄 수석부사장 Darren Henry가 DEVELOP3D에 준 사전 프리뷰에서 말했다."
-          },
-          {
-            "t": "p",
-            "x": "“다들 알다시피 AI는 코딩을 좋아한다. Onshape만 있으면 튼튼한 표준 도구 세트를 갖추고 거기서 각자의 필요에 맞게 확장한다. 필요에 딱 맞게 재단된 튼튼한 표준 CAD, 그게 Onshape의 강점이라고 본다.”"
-          },
-          {
-            "t": "p",
-            "x": "FeatureScript MCP Server는 Claude와 ChatGPT, Gemini 같은 코딩 LLM까지 범위를 넓힌다. Model Context Protocol 위에 올려 AI를 FeatureScript 코드에 바로 연결한다."
-          },
-          {
-            "t": "p",
-            "x": "AI에게 FeatureScript 피처를 짜 달라는 건 몇 해 전부터 됐다. 다른 점은 테스트와 평가까지 한다는 것이다. “코드를 넣고, 테스트하고, 출력을 평가하고, 필요하면 다시 쓴다. 목표에 맞는지 스스로 판단하며 이 전부를 자율로 해낸다”고 Onshape AI 이노베이션 수석 디렉터 Cody Armstrong이 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "Onshape가 특히 기대를 거는 대목은 지속 메모리다. “과거에 어떤 상호작용을 했는지 스스로 메모리에 적는다. 앞으로 같은 오류를 피하려는 것”이라고 Armstrong은 말했다. 과거의 오류와 해법을 메모로 쓰고 읽으며 에이전트가 시간이 갈수록 나아진다."
-          },
-          {
-            "t": "p",
-            "x": "CAD 자체의 피처만 만드는 것도 아니다. 외부 LLM과 함께 표준을 따르는 CAD 모델을 짓는 프롬프트도 만든다. 셸 앤 튜브 열교환기 사례에서는 사람이 스케치 한 줄 긋지 않고 267개 부품 어셈블리가 완성됐다. 절단 목록이 들어갔고 용접 사양표를 비롯한 여러 표까지 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "이미지든 PDF든 표준이든 사내 가이드라인이든 더 많이 줄수록 초기 결과가 좋아진다. 다만 간단한 프롬프트 하나로도 피처는 만들어진다."
-          },
-          {
-            "t": "p",
-            "x": "“CAD에서 AI의 미래는 단순한 text-to-CAD가 아니라 text-to-code-to-CAD”라고 PTC의 Onshape·Arena 총괄 EVP David Katzman이 말했다. “AI의 진짜 값어치는 검증된 아이디어를 몇 번이고 다시 쓰는 도구로 바꿔 주는 데 있다. 새 FeatureScript MCP Server로 Onshape는 가장 고쳐 쓰기 좋은 프로덕션 CAD가 됐다.”"
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-eu-ai-labelling",
-      "eyebrow": "AI NEWS",
-      "headline": "AI라고 밝히는 일이\n이제 UI의 몫이 됐다",
-      "body": "8월 2일부터 EU 시민을 상대하는 서비스는 AI 생성물임을 화면에서 밝혀야 한다.",
-      "mini_headline": "AI 라벨링 의무화",
+      "headline": "디자인 시스템 문서 표준이\nW3C 커뮤니티 그룹으로 들어갔다",
+      "body": "형식이 없던 디자인 시스템 문서의 표준 DSDS가 W3C 그룹으로 승인됐다.",
+      "mini_headline": "문서 표준의 첫 관문",
       "tool": "Design Tokens",
-      "source": "Smashing Magazine",
-      "url": "https://www.smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+      "source": "zeroheight",
+      "url": "https://zeroheight.com/blog/standardizing-documentation-the-design-system-documentation-spec-and-the-w3c/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "이번 주 “막대한 과징금”이니 “전면적인 새 AI 규제”니 하는 말로 소란이 있었다. 뜯어 보면 훨씬 좁고 상식적이다. AI가 티 나야 할 자리에서 티 나게 만들자는 쪽이고, 특히 AI가 만든 콘텐츠가 대상이다."
-          },
-          {
-            "t": "p",
-            "x": "2026년 8월 2일부터 EU 시민에게 서비스하는 회사에 AI 라벨링이 법적 의무가 된다. 유럽 접근성법처럼 EU 기업만의 문제가 아니다. AI 결과물을 EU 안의 사람이 쓴다면 어느 나라 회사든 걸린다."
-          },
-          {
-            "t": "p",
-            "x": "라벨링의 목적은 그 콘텐츠가 인공적으로 만들어졌거나 조작됐다는 사실을 누구나 분명하게 알아보게 하는 데 있다. AI법 제50조 4항이 지목하는 대상은 넷이다. 실제 인물이나 사물, 장소, 사건처럼 보여 진짜로 착각할 만한 딥페이크. 사람이 아니라는 사실을 알려야 하는 챗봇과 AI 에이전트. 공익 사안을 다루면서 사람의 검토를 거치지 않은 전면 AI 작성 텍스트. 그리고 감정 인식과 생체 분류 도구."
-          },
-          {
-            "t": "p",
-            "x": "AI를 만들거나 공급하는 provider와 그것을 쓰는 deployer 모두 의무를 진다. GDPR이나 EAA처럼 외부 도구를 라이선스했다는 이유로 제50조를 피해 가지는 못한다."
-          },
-          {
-            "t": "p",
-            "x": "나머지 대부분의 AI 보조 작업은 새 투명성 규칙 밖이다. 사람이 검토하고 편집했고 이름이 걸린 개인이나 조직이 편집 책임을 지면 고지 의무가 없다. 맞춤법과 문법, 서식, 크롭, 색보정, AI 번역 같은 작은 편집도 생성으로 치지 않는다. 반면 요약과 합성 이미지, 실질적 재작성, 사진에서 요소를 넣고 빼는 일은 생성이다."
-          },
-          {
-            "t": "p",
-            "x": "“사람이 한 번 훑어봤다”는 편집 검토로 쳐 주지 않는다. 위원회는 검토가 실질적이어야 하고 책임자의 이름이 있어야 한다고 못 박았다."
-          },
-          {
-            "t": "img",
-            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/app-sparkle-symbols-ai.jpg",
-            "cap": "AI 제품마다 반짝임 아이콘이 넘치지만, 무엇이 AI가 만든 것인지까지는 알려 주지 않는다"
-          },
-          {
-            "t": "p",
-            "x": "걸리는 대목은 아이콘이다. 위원회는 실천규약의 일부로 EU AI 아이콘 세트를 냈다. Carbon 디자인 시스템의 AI 라벨과 비슷한 “AI” 표식이지, 많은 제품이 쓰는 반짝임 아이콘이 아니다. 반짝임은 “이 콘텐츠가 AI로 만들어졌다”보다 “AI 기능이 들어 있다”는 뜻으로 더 자주 쓰여 모호하고, 규칙이 걸러 내려는 게 바로 그런 신호다."
-          },
-          {
-            "t": "img",
-            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-ai-label-icons.jpg",
-            "cap": "EU 공식 AI 아이콘 세트 — 기본 AI, 전면 생성, 부분 수정 세 가지"
-          },
-          {
-            "t": "p",
-            "x": "위원회는 아이콘을 썼다고 그 자체로 법을 지킨 것은 아니라고 분명히 했다. 잘 보이지 않는 아이콘, 푸터에 묻어 둔 문구, 1초 반짝하고 사라지는 라벨은 전부 불합격이다. 아이콘은 잘 보여야 하고 쉬운 말 라벨이 붙어야 하고 보조 기술이 읽을 수 있어야 한다. 아이콘 옆에 “AI-generated” 같은 평문을 두는 편이 안전하고, 다시 공유하거나 내려받아도 라벨이 따라가야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/nngroup-research-sparkle-icon.jpg",
-            "cap": "반짝임 하나로는 AI 생성물임을 알리기 어렵다는 연구"
-          },
-          {
-            "t": "p",
-            "x": "EU만의 일도 아니다. 중국은 2025년 9월 1일부터 표시와 워터마크 메타데이터를 의무화했다. 캘리포니아 SB 942는 AB 853 개정을 거쳐 EU와 같은 2026년 8월 2일에 맞춰 발효했다. 한국의 AI 기본법은 2026년 1월 22일 시행됐고 딥페이크 표시를 의무화한 첫 국가 단위 종합법으로 꼽힌다. 과징금은 위반당 2만 달러 수준이고 시행까지 1년의 유예가 있다. 인도는 2026년 2월 20일부터 IT 규칙 개정을 적용해 “합성 생성 정보” 표시를 요구한다."
-          },
-          {
-            "t": "p",
-            "x": "AI 콘텐츠가 사람이 만든 것과 헷갈릴 만하면 만든 쪽이 분명하게 밝혀야 하고, UI에서 AI가 만든 부분은 그렇다고 알려야 한다. 규칙의 골자는 여기까지다. AI 슬롭을 가려내는 데는 도움이 된다."
-          }
+          {"t": "p", "x": "디자인 시스템 문서가 큰 걸음을 뗐다. W3C에서 Design System Documentation Community Group이 승인됐다. 디자인 시스템에, 특히 AI가 끼어든 설계와 개발 속에서 그것이 살아남는 방식에 관심이 있다면 흘려보낼 소식이 아니다."},
+          {"t": "img", "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-spec-1024x585.png", "cap": "designsystemdocspec.org에 올라온 Design system doc spec 0.15.2 문서 화면"},
+          {"t": "p", "x": "글쓴이는 PJ Onori가 Design System Documentation Spec(DSDS)을 쓰기 시작한 무렵부터 지켜봤다. 마음을 붙든 건 문서가 생긴 이래 업계가 우회만 해 온 문제를 정확히 짚었다는 점이다. 디자인 시스템 문서에는 합의된 모양이 없다."},
+          {"t": "p", "x": "토큰에는 형식이 있고 컴포넌트에는 코드가 있는데, 문서만 팀마다 제각각 만든 구조 안에 산다. 늘 품질 문제였고 서로 베끼고 조금씩 고쳐 가며 버텼다. 이제 AI 에이전트가 디자인 시스템을 읽기 시작하면서 품질과 접근, 사용성 문제가 한꺼번에 드러난다."},
+          {"t": "p", "x": "DSDS는 디자인 시스템 문서를 기계가 읽는 형식으로 정의한다. 컴포넌트와 토큰, 테마, 파운데이션, 패턴, 가이드, 청크 일곱 가지 엔티티로 나누고 가이드라인과 API 세부, 상태, 접근성 같은 표준 문서 블록으로 각각을 짠다. 쓸모는 두 갈래다. 사람에게 쓴 문서는 그대로 두고 기계가 다닐 구조만 얹는다. 그리고 여러 번 해 본 사람들이 다툰 끝에 나온 구조를 모든 팀이 물려받으니 업계 전체의 기본 품질이 올라간다."},
+          {"t": "img", "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-mvoe-1024x585.png", "cap": "여러 손이 붉은 사각형 로봇 얼굴에 눈과 이빨, 안테나를 끼워 넣는 일러스트"},
+          {"t": "p", "x": "zeroheight는 이 스펙을 이미 쓴다. 문서를 어떻게 써야 하는지의 모델로 삼았고 내부 테스트 시스템 Baseline은 전부 DSDS를 기준으로 지었다. 고객이 문서를 더 잘 구조화하고 AI가 읽게 만들고 싶다고 물으면 스펙을 함께 놓고 적합성을 따진다. 문서를 감사해 개선점을 돌려주는 Claude 플러그인도 만들었고, 준비 중인 감사 기능의 기준도 DSDS에서 가져왔다."},
+          {"t": "img", "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-approach-1024x585.png", "cap": "브라우저 창 위에서 로봇과 손들이 이미지와 텍스트 블록을 끼워 맞추는 일러스트"},
+          {"t": "p", "x": "7월 30일 PJ가 W3C에 커뮤니티 그룹을 제안했다. \"lower the burden of design system management by developing an open format for structuring design system documentation\"이 목표였고 지금 승인이 났다. 중립 지대가 생기면 경쟁사끼리도 같은 바닥 위에 올라선다. Design Tokens Community Group이 이미 그 길을 증명했다. 도구마다 제각각이던 토큰이 업계 공통 스펙이 됐다. W3C라는 지위가 있어야 문서 플랫폼과 디자인 도구, AI 회사가 한자리에 앉는다. 거버넌스와 IP 정책이 붙으면 스펙이 특정 관리자나 회사보다 오래 간다."},
+          {"t": "p", "x": "토큰은 값과 타입이 있는 구조화 데이터였으니 돌아보면 쉬운 쪽이었다. 문서는 산문이고 의견이고 맥락이다. 디자인 시스템 문서를 값지게 만드는 상당 부분은 애초에 표준의 모양이 아니다. 안에 담긴 의견을 납작하게 만들지 않으면서 그릇만 표준화하는 일, 그게 이 그룹의 초반을 좌우할 과제다."},
+          {"t": "img", "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-path-1024x585.png", "cap": "색색의 블록과 토글이 한 줄로 놓이고 손이 토큰 하나를 집어 드는 일러스트"},
+          {"t": "p", "x": "오늘 할 수 있는 일은 둘이다. 커뮤니티 그룹에 들어가는 것, 그리고 자기 문서를 스펙에 비춰 보는 것. 아직 중요한 결정이 하나도 안 났고, 도구를 만드는 사람 말고 문서를 실제로 관리하는 사람의 목소리가 필요하다."}
         ]
       }
     },
     {
-      "id": "design-toolbag-503",
+      "id": "design-ai-ui-placement",
       "eyebrow": "AI NEWS",
-      "headline": "툴백 5.03이\n조명과 텍스처를 다시 짰다",
-      "body": "마모셋이 툴백 5.03에 텍스트·스캐터 레이어와 IES 조명 지원을 무료로 얹었다.",
-      "mini_headline": "툴백 5.03 업데이트",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/08/marmoset-releases-toolbag-5-03/",
-      "accent": "#f5a623",
-      "motif": "sphere",
+      "headline": "AI 기능을 어디에 두느냐가\n모델 성능보다 중요하다",
+      "body": "위젯과 툴바, 사이드바, 전용 허브 중 어디에 두느냐가 AI 기능의 쓰임을 가른다.",
+      "mini_headline": "AI 기능의 자리 찾기",
+      "tool": "Figma",
+      "source": "LogRocket Blog",
+      "url": "https://blog.logrocket.com/ux-design/ai-ui-placement/",
+      "accent": "#3b6bff",
+      "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "마모셋이 게임과 VFX, 포트폴리오 작업용 실시간 렌더링·룩뎁 소프트웨어 Toolbag의 최신 버전 5.03을 내놨다."
-          },
-          {
-            "t": "p",
-            "x": "이번에도 제법 큰 무료 업데이트다. Text와 Scatter 레이어가 새로 들어갔고, IES 라이트 프로파일과 물리 광량 단위, 3Dconnexion의 SpaceMouse 입력 장치를 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "Toolbag은 룩뎁과 합성, 최종 렌더링을 가볍게 처리하는 도구다. 게임 아티스트가 많이 쓰지만 다른 분야에서도 쓰임이 늘고 있다. 불러온 모델을 빠르게 확인하며 PBR 머티리얼과 조명을 잡고, 2021년 Toolbag 4.0부터는 3D 텍스처 페인팅도 된다. 텍스처 맵을 구워 다른 DCC나 게임 엔진으로 넘기거나, 스틸과 애니메이션을 여기서 바로 렌더링한다."
-          },
-          {
-            "t": "p",
-            "x": "5.03에 새로 붙은 텍스처 레이어는 둘이다. Text 레이어는 모델 위에 글자를 투영하거나 메시 표면을 따라 정렬한다. 폰트 스타일과 자간, 정렬을 조절한다. Scatter 레이어는 돌이나 잎 같은 요소를 특정 표면 위에 뿌리거나 2D, 3D, 데칼 평면에서 투영해 흩는다."
-          },
-          {
-            "t": "p",
-            "x": "성능 쪽에서는 UDIM 타일을 하나씩 잠시 멈추거나 끌 수 있고, 레이어 캐싱이 들어가 평균적인 프로젝트에서 “약 2.7배” 빨라졌다. 로고나 라벨 같은 벡터 디자인을 SVG로 가져오는 것도 이제 된다."
-          },
-          {
-            "t": "p",
-            "x": "조명은 실제 빛을 더 정확히 재현하는 쪽으로 두 가지가 바뀌었다. 실제 조명 기구의 감쇠 패턴을 담은 IES 프로파일을 지원한다. 온라인에서 무료로 받아 쓰면 된다. 밝기를 물리 단위로 지정하는 것도 가능해졌다. 실내 장면에서 특히 차이가 난다. 뷰포트에서 모션 블러를 미리 보고, 프로시저럴 스카이에는 Sun Scale과 Sky Color 조절이 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "베이킹은 최대 레이 거리를 정할 수 있게 됐고, 곡률 맵 품질이 특히 UV 심 근처에서 좋아졌다. 머티리얼 다중 선택도 된다. 뷰포트 이동에는 3Dconnexion의 SpaceMouse 계열을 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "Toolbag 5.03은 Windows 10과 macOS 13.5 이상에서 돌아가고 AMD, Apple Silicon, NVIDIA GPU를 지원한다. 영구 라이선스는 개인 아티스트 $399, 스튜디오 $1,299. 구독은 개인 월 $18.99, 스튜디오 월 $49.99다."
-          }
+          {"t": "p", "x": "AI 기능은 이제 제품의 기본 구성이 됐다. AI 경험을 어떻게 설계할지에 관한 조언은 넘치는데 그 기능을 화면 어디에 둘지에 관한 이야기는 드물다. 챗봇이든 글쓰기 보조든 이미지 생성이든, 배치가 사용자의 인식과 채택을 결정한다."},
+          {"t": "p", "x": "AI 피로는 실재한다. 기능은 광고가 아니라 제안처럼 느껴져야 한다. 도움이 필요하냐고 묻는 사각형을 반기는 사람은 이제 없다."},
+          {"t": "img", "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/web-hosting-site-showing-list-of-domains.png", "cap": "도메인 목록마다 Spin AI site 버튼이 붙어 있는 호스팅 업체 화면"},
+          {"t": "p", "x": "한 호스팅 업체 화면에는 도메인 목록의 모든 줄마다 Spin AI site 버튼이 붙어 있다. 하나였다면 기능이고, 줄줄이 반복되면 소음이다. 사용자는 도움을 받는 게 아니라 AI가 있다는 사실을 계속 확인당한다. 목록 맨 위의 전역 동작 하나로 두거나 도메인을 관리할 때 맥락에 맞춰 뜨는 편이 나았다."},
+          {"t": "p", "x": "배치 패턴은 제품 유형과 UX 관습에서 나온다. 플로팅 위젯은 오른쪽 아래가 관습이다. 대부분의 언어가 왼쪽에서 오른쪽으로 읽히니 내용을 훑고 난 자리에 놓인다. Grammarly가 좋은 예다. 아무것도 없으면 작은 G 아이콘이고, 제안이 쌓이면 숫자가 붙은 색 원으로 바뀐다. 손대기 전까지 끼어들지 않는다."},
+          {"t": "img", "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/Canva-AI-highlighted-in-Affinitys-Studio-Manager.png", "cap": "Affinity의 Studio Manager 안에 자리 잡은 Canva AI"},
+          {"t": "p", "x": "툴바에 넣으면 AI가 제품의 다른 도구와 같은 급이 된다. 파일이나 문서 전체에 영향을 준다는 신호이기도 하다. Affinity의 Studio Manager에 들어간 Canva AI가 그런 예다. 액션 바는 지금 하는 일에 묶인다. 툴바는 언제나 쓸 수 있다고 말하고, 액션 바는 지금 이 작업에 맞다고 말한다."},
+          {"t": "p", "x": "사이드바는 긴 대화를 감당할 공간이 있다. 오른쪽에 두면 보조자, 왼쪽에 두면 능동적인 협업자로 읽힌다. Opera AI는 오른쪽, Firefox 챗봇은 왼쪽, VS Code의 GitHub Copilot도 여기 속한다. 주 작업 공간에서 사용자를 데려가지 않는다. 다만 접히는 사이드바는 AI를 찾지 않던 사람에게 잊히기 쉽다."},
+          {"t": "img", "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/Figmas-dedicated-AI-hub.png", "cap": "다른 제품처럼 느껴지는 Figma의 전용 AI 허브 화면"},
+          {"t": "p", "x": "전용 페이지나 허브까지 가면 AI는 더 이상 곁다리가 아니다. Figma AI가 좋기도 하고 나쁘기도 한 예다. 열면 다른 제품에 들어온 것 같은데, 캔버스로 돌아가는 길은 결제 화면이 막는다. 프로페셔널 플랜에서만 열린다. 첫 초안을 만들거나 아이디어를 훑는 출발점으로는 쓸모가 있지만 진짜 작업은 캔버스에서 일어나야 한다. 전체 화면을 내주는 순간 그건 기능이 아니라 새로운 목적지가 된다."},
+          {"t": "p", "x": "인라인은 저항이 가장 적다. 작업 대상 바로 옆에 붙어 있으니 통제감이 유지되고 흐름도 끊기지 않는다. 자리를 옮겨 가며 AI를 찾아야 한다면 사람들은 그냥 건너뛴다."},
+          {"t": "img", "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/UX-checklist-for-AI-feature-placement.png", "cap": "AI 기능 배치를 판단하는 다섯 가지 질문을 정리한 UX 체크리스트"},
+          {"t": "p", "x": "발견 가능성과 방해 사이의 협상이고, 기능의 가치만큼만 눈에 띄면 된다. 판단은 다섯 질문으로 갈린다. AI가 흐름의 중심인가, 제품 유형에 이미 굳은 관습이 있는가, 얼마나 자주 쓰는가, 선택 영역에 작용하는가 문서 전체에 작용하는가, 메뉴에 넣어도 괜찮은가. 마지막 질문에 그렇다면 메뉴에 넣으면 된다."},
+          {"t": "p", "x": "WhatsApp은 Meta AI에 고정 버튼을 줬고, 윈도우 노트북은 수십 년 쓰던 오른쪽 Ctrl 자리를 Copilot 키로 바꿨다. 새 삼성 폰의 측면 버튼은 전원 대신 Gemini를 연다. 몸이 외운 감각이 어긋나면 당황스럽다. 사용자는 AI를 싫어하지 않는다. AI가 있다는 사실을 계속 상기당하기 싫을 뿐이다. 쓸모 있는 자리에 두고 나머지 자리에서는 보이지 않게 하면 된다."}
         ]
       }
     },
     {
-      "id": "design-vision-pro-webxr-sim",
+      "id": "design-google-watermark-toggle",
       "eyebrow": "AI NEWS",
-      "headline": "비전 프로에서 젤을\n브라우저로 주무른다",
-      "body": "애플 비전 프로 브라우저에서 젤과 모래, 물 시뮬레이션이 실시간으로 돌아갔다.",
-      "mini_headline": "웹에서 도는 젤 시뮬",
-      "tool": "VR Prototype",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/gel-sand-sim-running-in-browser-on-apple-vision-pro",
-      "accent": "#eb367f",
-      "motif": "headset",
+      "headline": "구글이 AI 결과물에서\n반짝임 워터마크를 뗀다",
+      "body": "보이는 반짝임 표식은 꺼도 SynthID와 C2PA 메타데이터는 그대로 남는다.",
+      "mini_headline": "사라지는 반짝임 표식",
+      "tool": "AI Workflow",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
+      "accent": "#7928ca",
+      "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "“손으로 썬 물리 젤리 한 조각 어떠신가요?”"
-          },
-          {
-            "t": "p",
-            "x": "James C. Kane이 애플 비전 프로에서 돌아가는 젤과 모래, 물 시뮬레이션 데모를 공개했다. WebXR과 WebGPU를 Three.js로 묶어 만들었고, 이 조합에 Three.js를 쓴 사례는 자기가 아는 한 처음이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "데모 링크는 기사에 걸려 있다. 다만 데스크톱과 visionOS 27 개발자 베타를 올린 M5 애플 비전 프로에서만 테스트했다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "James의 다른 작업도 함께 걸렸다. M5 애플 비전 프로로 Yong Su의 WebGPU 물 데모를 진짜 수영장처럼 만든 것, 그리고 Brandon Jones의 Sponza 클러스터드 라이팅 데모를 같은 기기 위에서 WebGPU와 WebXR로 굴린 것이다."
-          },
-          {
-            "t": "p",
-            "x": "주변의 모든 것이 진짜인지 의심하게 만든다는 Lucas Martinic의 XR 프로젝트도 볼거리로 소개됐다."
-          }
+          {"t": "p", "x": "구글 부사장 Josh Woodward가 AI로 만든 이미지와 영상에서 눈에 보이는 워터마크를 지울 수 있게 된다고 밝혔다. Nano Banana와 Omni, Lyria 모델에 곧 토글이 붙는다. 세 모델 모두 AI 표시로 익숙한 반짝임 아이콘을 쓴다. Gemini와 영상 편집기 Flow에도 나중에 들어간다."},
+          {"t": "img", "src": "https://www.engadget.com/img/gallery/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/intro-1786734224.jpg", "cap": "구글 사옥 외벽"},
+          {"t": "p", "x": "보이는 워터마크는 밖에 돌아다니는 AI 결과물을 빠르게 알아보라고 있는 장치다. 그걸 끄면 취지가 흐려진다. 확인할 방법이 아예 사라지지는 않지만 조금 더 번거로워진다. 눈에 안 보이는 SynthID 워터마크와 C2PA 메타데이터는 그대로 남고 끄는 스위치도 없다. 대신 챗봇에 물어보거나 포털에 올려 보는 수고를 해야 확인이 된다."},
+          {"t": "p", "x": "Woodward는 워터마크 토글이 \"except in countries where it's required by law to keep them\" 거의 모든 곳에 풀린다고 했다. 유럽연합이 여기 해당한다. 최근 \"authentic-looking\" 딥페이크에는 보이는 워터마크를 의무화하는 AI 투명성 규정을 내놨다. 한국도 올해 초 비슷한 조치를 했다."},
+          {"t": "p", "x": "이번 변화는 AI 결과물 표기를 두고 업계가 계속 저울질하고 있음을 보여 준다. 보이는 워터마크는 보통 사람이 딥페이크를 빨리 알아보게 해 우리가 같은 현실 위에 서게 돕는다. 반대로 AI를 창작에 쓰는 사람에게는 걸림돌이다. Woodward는 \"We're striking a balance here between creative control and safety\"라고 덧붙였다."},
+          {"t": "p", "x": "워터마크 소식은 계속 이어진다. Suno는 다른 플랫폼에 곡이 올라갔을 때 AI 생성 여부를 보여 주는 표기 체계를 담은 \"transparency tools\"를 발표했다. Anthropic도 Claude가 만든 텍스트와 파일에 C2PA 기반의 보이지 않는 워터마크를 붙인다고 알렸다. 앞서 말한 유럽연합 규정에 맞추려는 조치다."}
+        ]
+      }
+    },
+    {
+      "id": "design-ai-sdk-harness-acp",
+      "eyebrow": "AI NEWS",
+      "headline": "AI SDK 하네스 어댑터가\n런타임 대신 프로토콜을 감싼다",
+      "body": "런타임마다 어댑터를 새로 만드는 대신 프로토콜 하나를 감싸 어떤 하네스든 붙인다.",
+      "mini_headline": "프로토콜을 감싸는 어댑터",
+      "tool": "AI Workflow",
+      "source": "Vercel",
+      "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {"t": "p", "x": "Vercel이 AI SDK 하네스 층에 @ai-sdk/harness-acp 패키지를 붙였다. Agent Client Protocol(ACP)을 따르는 하네스라면 무엇이든 HarnessAgent로 굴린다."},
+          {"t": "img", "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3UHwfbngr1cY9BcpRkJbjI/dc86b1b9db0bcf0b0273659423f19494/acp-harness-support-og.png", "cap": "검은 배경에 Vercel 삼각형 로고와 \"Use any ACP-compatible harness with AI SDK\" 문구가 놓인 표지 이미지"},
+          {"t": "p", "x": "지금까지 하네스 어댑터는 런타임을 하나씩 감쌌다. Claude Code, Codex, Pi, Deep Agents, OpenCode마다 따로 있었다. @ai-sdk/harness-acp는 런타임이 아니라 프로토콜을 감싼다. 하네스 하나에 맞춘 어댑터가 아니라, ACP 호환 패키지를 내놓은 하네스라면 어디든 어댑터를 만들어 쓰게 해 주는 메타 어댑터다."},
+          {"t": "p", "x": "쓰는 법도 길지 않다. 그 패키지를 createACP에 넘기고 기본 하네스 매핑만 잡아 주면 하네스가 하나 생긴다. 그다음은 다른 하네스와 똑같이 HarnessAgent에 넘긴다."},
+          {"t": "p", "x": "ACP가 코딩 하네스를 한 겹 추상화하지만 AI SDK 하네스 층은 거기 묶이지 않기로 했다. ACP를 지원하지 않는 하네스가 있고, 어떤 하네스는 ACP를 거치면 내부 동작을 드러내는 폭이 좁아지거나 달라진다. 그럴 땐 직접 붙인 어댑터가 더 촘촘하게 물린다."},
+          {"t": "p", "x": "그래서 Claude Code와 Codex는 @ai-sdk/harness-claude-code와 @ai-sdk/harness-codex를 먼저 쓰라고 권한다. @ai-sdk/harness-acp는 전용 어댑터가 없는 하네스가 ACP 호환 패키지를 내놨을 때 꺼내 쓴다."}
         ]
       }
     }

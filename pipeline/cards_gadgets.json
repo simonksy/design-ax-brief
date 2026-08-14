@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-honor-robot-phone",
+      "id": "gadgets-openai-doughnut-companion",
       "eyebrow": "AI NEWS",
-      "headline": "AI 비서에게 몸이 생겼다\nHonor 로봇폰이 나왔다",
-      "body": "360도 도는 짐벌 카메라가 피사체를 스스로 따라가는 Honor 로봇폰이 나왔다.",
-      "mini_headline": "몸을 얻은 AI 비서",
+      "headline": "OpenAI 첫 기기는 화면 없는 도넛\n인터페이스 대신 성격을 설계했다",
+      "body": "OpenAI의 첫 기기는 화면 없는 도넛형 퍽으로 2027년에 나온다.",
+      "mini_headline": "화면 없는 도넛형 AI",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/home-theater/openais-first-gadget-sounds-like-a-tiny-robot-for-your-home/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -18,181 +18,155 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Honor 로봇폰이 드디어 예약 판매에 들어갔다. 아직은 중국에서만이다. 이름에 붙은 '로봇'은 자동으로 튀어나오는 카메라 짐벌을 가리키는데, 사진과 영상을 찍는 사람에게는 반가운 물건이다."
+            "x": "OpenAI의 첫 하드웨어가 화면 없는 스마트 스피커라는 이야기는 몇 달째 돌았다. 주변 상황을 알아채고, 집 안 어디로든 들고 다니고, 먼저 나서서 돕는다는 정도까지는 이미 알려져 있었다. Bloomberg의 새 보도가 그 물건의 생김새를 처음으로 또렷하게 그려 보인다."
+          },
+          {
+            "t": "p",
+            "x": "보도에 따르면 이 기기는 도넛 모양이고 크기는 하키 퍽만 하다. 방을 옮겨 다니며 들고 다녀도 되고, 손 닿는 자리에 그냥 놓아둬도 된다. 값은 만만치 않다. OpenAI가 검토 중인 가격대는 300~400달러, 출시 시점은 2027년으로 잡혀 있다."
+          },
+          {
+            "t": "p",
+            "x": "앞선 보도들은 스마트홈 기기 제어와 미디어 재생, 질문 응답, 메시지 회신, ChatGPT를 불러 하루를 거드는 일까지 언급했다. 주된 조작은 음성이지만 카메라와 환경 센서도 들어간다. 말로 시키지 않아도 주변에서 벌어지는 일을 기기가 읽어낸다. Apple도 카메라를 넣은 차세대 AirPods로 비슷한 그림을 그리고 있다."
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/intro-1786556506.jpg",
-            "cap": "로봇 짐벌 카메라를 세운 Honor 로봇폰."
+            "src": "https://www.digitaltrends.com/tachyon/2023/01/apple-homepod-2023-review-14.jpg?resize=3840%2C2160",
+            "cap": "집 안 책상 위에 놓인 Apple HomePod 2023. 사진 Zeke Jones / Digital Trends"
           },
           {
             "t": "p",
-            "x": "짐벌은 티타늄으로 만들었고 여러 방향으로 움직인다. 360도를 통째로 도는 것도 된다. 보통 스마트폰으로는 엄두를 못 낼 각도가 이걸로 나온다. 틸트 락, FPV 뷰, 스핀숏 같은 시네마틱 무빙 모드도 여럿 들어갔다."
+            "x": "쓰는 사람을 시간이 지나며 알아가는 것도 목표다. 생활 리듬과 취향, 지난 대화에 맞춰 말이 달라지고, 사용자가 휴대폰을 집어 들거나 프롬프트를 치기 전에 먼저 거든다. 사람처럼 대화하는 고급 모델도 물론 붙는다. 최근 선보인 ChatGPT Live에서 OpenAI는 이미 상당한 진전을 보였다."
           },
           {
             "t": "p",
-            "x": "피사체 추적에는 AI 알고리즘이 붙었다. 카메라가 알아서 팬과 틸트를 하며 사람을 따라간다. 손짓만으로 카메라 암을 꺼내 촬영하는 제스처 조작도 된다."
+            "x": "대화는 마이크와 스피커가 맡고, 듣고 있는지 답하는 중인지는 불빛으로 알린다. 상호작용 중에는 기기의 일부가 실제로 움직인다. 방 한구석에 가만히 놓인 스피커가 아니라 작은 로봇이 거기 있다는 감각을 노린 설계다. 떠오르는 건 WALL-E나 R2-D2다. 그 둘은 움직임과 반응만으로 살아 있고, 알아듣고, 감정이 통하는 존재처럼 느껴진다. OpenAI도 ChatGPT에 물리적 형태와 표정 있는 성격을 주면서 같은 효과를 노리는 모양새다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.digitaltrends.com/tachyon/2021/02/wall-e-movie-2.jpg?resize=1200%2C675",
+            "cap": "루빅스 큐브를 든 WALL-E. 이미지 Walt Disney Studios Motion Pictures"
           },
           {
             "t": "p",
-            "x": "카메라 사양도 만만치 않다. 후면은 2억 화소 메인 렌즈와 2억 화소 망원 렌즈를 묶은 듀얼 2억 화소 구성이다. Honor는 전문 시네마 카메라를 만드는 Arri와 손을 잡았다. AI 노이즈 저감과 넓어진 다이내믹 레인지가 여기서 나온다. 촬영 화면을 실시간으로 미리 보고 RAW로 뽑는 것도 된다."
+            "x": "실제로 어떻게 굴러갈지는 아직 물음표다. 움직이는 도넛 모양 AI 동반자는 디자인이나 모션이 조금만 어긋나도 값싼 장난감처럼 보이기 쉽다. 다만 OpenAI는 전 Apple 디자인 총괄 Jony Ive, 그의 스튜디오 LoveFrom과 함께 이 기기를 만들고 있다. 완성품이 장난감이 아니라 잘 다듬어진 물건으로 나오리라 기대할 근거는 거기에 있다."
           },
           {
             "t": "p",
-            "x": "운영체제는 MagicOS다. 새로 들어간 YOYO 로봇 모드는 '멀티모달 인지, 맥락 이해, 제스처 인식, 물리적 움직임'을 한데 묶었다. 카메라 짐벌에 사람 티를 조금 입힌 셈이다. 지난 3월 시연에서 이 작은 로봇 카메라는 노래에 맞춰 춤을 췄고, 동의하듯 고개를 흔들었고, 명령에 따라 몸을 돌렸다."
-          },
-          {
-            "t": "video",
-            "yt": "HwRkf2XF-l8"
-          },
-          {
-            "t": "p",
-            "x": "Honor는 플랫폼을 외부 개발자에게 연다고 밝혔다. 짐벌과 인지, 체화된 상호작용 능력을 써서 '새로운 경험을 만드는' 서드파티가 나오리라는 기대다."
-          },
-          {
-            "t": "p",
-            "x": "물론 이건 가끔 몸을 흔드는 귀여운 카메라이기 이전에 스마트폰이다. 사양은 준수하다. Snapdragon Elite Gen 5에 전용 냉각 구조를 얹었고 배터리는 7,060mAh다. 화면은 6.3인치 OLED로 가변 주사율을 지원하며 최대 밝기는 6,800니트다."
-          },
-          {
-            "t": "p",
-            "x": "예약은 지금부터다. 12GB 램·512GB 저장 모델과 16GB 램·1TB 모델 두 가지다. 출하와 정식 판매는 8월 18일 시작한다. 앞서 적었듯 판매 지역은 아직 중국뿐이다. 달러로 환산하면 12GB 모델이 약 1,480달러, 16GB 모델이 2,075달러다. 로봇 짐벌은 역시 싸지 않다."
+            "x": "OpenAI 사장 Greg Brockman은 회사가 기기 제품군을 준비 중이라고 이미 확인했다. 이 작은 동반자가 ChatGPT에게 집 안의 자리를 처음으로 내주는 물건이 될 수도 있다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-pixel-11-tensor-g6-tpu",
+      "id": "gadgets-lg-cloid-nvidia-humanoid",
       "eyebrow": "AI NEWS",
-      "headline": "받아쓰기도 번역도 클라우드 없이\nTensor G6가 폰 안에서 끝낸다",
-      "body": "Tensor G6의 TPU가 연산을 50% 늘려 받아쓰기와 번역을 기기에서 끝낸다.",
-      "mini_headline": "폰 안에서 끝내는 AI",
+      "headline": "LG가 이족보행 휴머노이드를 만들고\nNvidia가 그 두뇌를 맡는다",
+      "body": "LG가 Nvidia 스택을 얹은 이족보행 휴머노이드를 2027년 초 공개한다.",
+      "mini_headline": "LG 휴머노이드의 두뇌",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/pixel-11-tensor-g6-tpu-upgrade-explained-3696999/",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/lg-is-getting-into-humanoid-robots-and-nvidia-is-helping-it-build-them/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "새 Pixel 11 시리즈에서 하드웨어 변화를 짚어 보면 가장 눈에 띄는 건 Tensor G6의 새 TPU다. Google은 연산 성능이 50% 늘었고 일부 작업은 최대 3.5배 빨라졌다고 말한다. 숫자는 그럴듯한데, Pixel 11을 손에 쥔 사람에게 이게 무슨 뜻인지가 문제다."
+            "x": "오래된 하드웨어 회사들이 하나둘 로드맵에 휴머노이드를 얹고 있다. 이번 차례는 LG다. 다만 일정은 아직 조심스럽다."
+          },
+          {
+            "t": "p",
+            "x": "LG의 이족보행 휴머노이드는 Nvidia의 로보틱스 스택 위에서 돌아가고, 목표 시점은 2027년 초다. AI 팩토리와 자율주행 차량 플랫폼으로 넓히는 큰 그림이 뒤를 받친다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-series-hands-on-tensor-g6-4-scaled.jpg",
-            "cap": "Pixel 11 Pro XL에서 Tensor G6 정보를 띄운 DevCheck 앱."
+            "src": "https://www.digitaltrends.com/tachyon/2026/01/LG-CLOiD-Image-1.jpg?resize=1200%2C720",
+            "cap": "올해 초 공개된 LG CLOiD. 바퀴로 움직이는 이 로봇이 먼저 공장에 들어간다."
           },
           {
             "t": "p",
-            "x": "TPU가 하는 일부터 보자. CPU가 앱을, GPU가 주로 게임을 맡는다면 TPU는 기계학습 연산을 전담한다. 내적 행렬 연산 유닛과 고속 메모리 접근을 따로 갖췄다. Pixel 안의 실질적인 AI 프로세서이고, 음성 인식과 받아쓰기, 문장 추천처럼 클라우드가 필요 없는 작업을 처리한다."
+            "x": "이번 주 초 LG와 Nvidia는 Nvidia의 Santa Clara 본사에서 양해각서에 서명했다. 자리에는 LG 회장 Kwang Mo Koo와 Nvidia CEO Jensen Huang이 함께 있었다."
           },
           {
             "t": "p",
-            "x": "TPU는 Gemini Nano만 굴리지 않는다. Tensor의 이미지 처리 파이프라인과 깊이 맞물려 나이트 사이트, 초해상 줌, 인물 분리, 영상 처리 같은 연산 사진 기능에도 쓰인다. 올해 장망원 줌이 지난해 100배에서 120배로 늘어난 배경에도 이 업그레이드가 있다. TPU가 세지면 클라우드에 딸린 비용과 지연, 프라이버시 문제 없이 더 무거운 AI 도구를 돌릴 여력이 생긴다."
+            "x": "핵심은 LG가 2027년 초 CES 2027에 맞춰 공개할 이족보행 휴머노이드다. 알려진 바로는 추론을 담당하는 Nvidia Jetson Thor 칩과 처리를 맡는 Isaac GR00T 파운데이션 모델이 들어간다. 로봇용으로 만든 업계 최초의 풀스택 안전 프레임워크라는 Nvidia Halos도 함께 실린다."
           },
           {
             "t": "p",
-            "x": "Pixel 11에는 새 기능도 붙었다. Gemini Nano의 응답이 더 정확하고 빨라졌다는 게 Google 설명이다. 음성을 글로 옮길 때 '음' 같은 군말을 자동으로 걷어내고, Pixel 카메라 앱은 수어를 글로 옮긴다. Magic Capture는 사진을 최대 500장 찍은 뒤 Gemini가 사진 다섯 장과 영상 한 편을 골라 준다. Live Translate는 영상과 팟캐스트, 음성 메시지를 보고 듣는 동안 원하는 언어로 옮긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-series-hands-on-proactive-assistance-5-scaled.jpg",
-            "cap": "Pixel 11의 Proactive Assistance 화면."
+            "x": "부품은 집안에서 조달한다. 액추에이터와 센서, 배터리를 LG전자와 LG이노텍, LG에너지솔루션에서 가져온다. 편하고 값도 아낀다."
           },
           {
             "t": "p",
-            "x": "Proactive Assistance는 연락처나 메시지에 흩어진 정보를 필요한 순간에 꺼내 놓는다. 일정을 놓치지 않고 메시지와 메일에 빨리 답하도록 돕는 쪽이다. 이 처리가 기기 안에서 끝나므로 데이터는 암호화된 공간에 남는다."
+            "x": "2027년까지 손을 놓고 기다리는 건 아니다. 올해 LG는 바퀴로 움직이는 로봇 LG CLOiD를 공장에 투입해 시험한다. 올해 초 선보인 가정용 로봇의 산업용 버전이다. 학습 데이터를 대량으로 먹이려고 LG CNS의 PhysicalWorks 플랫폼을 쓰는 '로봇 데이터 팩토리'를 짓는 일도 협력에 들어갔다."
           },
           {
             "t": "p",
-            "x": "2026년 중반부터는 외부 개발자도 LiteRT와 Google Tensor SDK 베타로 Tensor의 TPU를 직접 겨냥한다. 다만 SDK가 아직 베타라 당장 쏟아질 물건을 기대하긴 이르다. 연산이 50% 늘었다는 건 모든 앱이 50% 빨라진다는 말이 아니라, 더 크고 무거운 모델을 로컬에서 돌릴 여유가 생겼다는 쪽에 가깝다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg",
-            "cap": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL."
+            "x": "로봇 말고도 LG는 앞으로 2년 안에 공장 두 곳을 세운다. 2027년 중반까지 Nvidia의 Vera Rubin 플랫폼을 쓰는 AI 팩토리 레퍼런스 사이트를 짓고, 2028년 중반까지 한국 천안에 80메가와트 규모 LG AI 팩토리를 올린다."
           },
           {
             "t": "p",
-            "x": "한계는 분명하다. Gemini Intelligence는 여전히 일부 처리를 클라우드에서 하고, 'Banana' 이미지 생성기와 Video Boost도 클라우드 전용이다. TPU가 50% 빨라졌다고 폰이 고성능 클라우드를 대신하지는 못한다. 그래도 데이터센터에 있던 AI 연산을 손안으로 옮기는 흐름에서 Tensor G6의 TPU는 한 걸음 더 나아갔다."
+            "x": "내부 우선순위를 바꾼 것이라기보다 다른 거대 기업에 묶어 팔 제품을 준비하는 쪽으로 읽힌다. 눈여겨볼 대목은 Nvidia의 Halos 안전 프레임워크다. 사람과 같은 바닥을 쓰는 휴머노이드의 책임 문제는 업계가 몇 년째 붙들고 있는 가장 큰 숙제였다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-matic-cues-voice",
+      "id": "gadgets-rogbid-visionw-price-floor",
       "eyebrow": "AI NEWS",
-      "headline": "\"Hey Matic\" 한마디에\n로봇청소기가 방마다 다르게 움직인다",
-      "body": "Matic 로봇청소기가 Gemini를 붙여 방마다 다른 청소 명령을 알아듣는다.",
-      "mini_headline": "앱을 벗어난 청소기",
+      "headline": "69.99달러 AI 안경이 나왔다\n스마트글라스 가격 바닥이 내려앉았다",
+      "body": "Rogbid가 프레임을 갈아 끼우는 69.99달러 AI 안경 VisionW를 냈다.",
+      "mini_headline": "69.99달러 AI 안경",
       "tool": "Gadgets",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/matics-robot-vacuum-will-see-and-hear-you-now-2000798257",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/New-affordable-3-in-1-smart-glasses-promise-up-to-39-days-of-battery-and-UV-protection.1365516.0.html",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "네모반듯하게 선 Matic 로봇청소기를 지난해 리뷰한 뒤로 나는 이 물건을 좋아한다고 여러 번 적었다. 소파 밑에는 못 들어가지만 그 밖의 자리에서는 설계도 성능도 좋아서, 다른 바닥 청소 로봇을 재는 잣대가 됐다. 작은 기능을 차곡차곡 채워 오던 Matic이 이번엔 음성과 제스처 조작을 얹은 큰 업데이트를 내놨다."
+            "x": "Rogbid가 69.99달러짜리 VisionW 3-in-1 AI 스마트 글라스를 내놨다. 내세우는 건 프레임 교체다. 야외용과 일상용을 아우르는 세 가지 스타일로 제품을 보여준다."
           },
           {
             "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/08/Matic-listening.jpg",
-            "cap": "깨우는 말을 들으면 화면이 파랗게 바뀌며 듣는 중임을 알린다."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-VisionW.png",
+            "cap": "Rogbid VisionW. 프레임 세 종류를 갈아 끼우는 구성이다."
           },
           {
             "t": "p",
-            "x": "새 입력 방식을 묶어 'Matic Cues'라 부른다. 8월 13일부터 새 펌웨어를 받은 사용자는 'Hey Matic'으로 로봇을 깨우고 자연어로 명령한다. 명령은 클라우드 서버의 Google Gemini가 해석한다. '청소 시작' 같은 간단한 말부터 '식당 러그를 청소기로 밀고 나서 침실 마룻바닥을 물걸레질해' 같은 복합 명령까지 받는다. 따라오라고 시키거나 바닥 한 곳을 가리키며 '여기 치워'라고 할 수도 있다."
+            "x": "첫 번째는 두꺼운 검정 웨이페어러에 짙은 틴트 렌즈를 끼운 형태다. 전면 폭 145.7mm, 렌즈 높이 48.8mm, 브리지 18mm. 두 번째는 더 넓은 더블 브리지에 짙은 렌즈를 쓰고 폭 147.4mm, 높이 48.4mm다. 세 번째는 투명 렌즈를 쓴 브로우라인 하프림으로, 셋 중 가장 넓은 151mm에 렌즈 높이는 44mm다."
           },
           {
             "t": "p",
-            "x": "며칠 써 봤다. 깨우는 말을 하면 로봇이 몸을 돌려 나를 보고, 화면이 파란 바탕에 'Listening…'으로 바뀐다. 아쉬운 건 따라오기였다. 모퉁이를 돌거나 의자를 지나면 나를 놓치기 일쑤였고, 사람 다리 대신 의자 다리를 쫓아가곤 했다."
+            "x": "짚고 갈 대목이 하나 있다. Rogbid의 제품 정보 어디에도 세 프레임이 모두 69.99달러 패키지에 들어가는지가 분명히 적혀 있지 않다. '3-in-1'이라는 이름과 세 디자인을 나란히 올린 방식을 보면 그렇게 읽히지만, 구성품 목록을 회사가 내놓지 않았다."
           },
           {
             "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/08/Matic-Cues.jpg",
-            "cap": "음성과 제스처 조작을 묶은 Matic Cues 화면."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-08-12-at-12.35.08AM.png",
+            "cap": "Rogbid가 공개한 VisionW 사양 그래픽."
           },
           {
             "t": "p",
-            "x": "나머지는 잘 됐다. 주방 바닥에 옥수수가루를, 거실 러그에 종잇조각을 뿌려 놓고 각각을 가리켜 치우라고 했다. 로봇은 나를 더 잘 보려고 뒤로 물러나거나, 물러날 자리가 없으면 화면에 글로 뒤로 좀 물러나 달라고 띄운 뒤 그 자리를 청소했다."
+            "x": "연결은 Bluetooth를 쓰고, 200mAh 배터리에 자석식 충전을 붙였다. '긴 배터리'라는 문구와 함께 제품 그래픽 한 곳에 39일이라는 숫자가 적혀 있다. 다만 대기 시간인지 실사용 시간인지 설명이 없어, 이걸 실제 사용 시간으로 받아들이기엔 이르다. 3D 서라운드 사운드를 지원하고, AI 음성 비서는 ChatGPT와 Grok을 비롯한 대형 언어 모델을 쓴다. 렌즈에는 블루라이트 차단과 자외선 차단이 들어간다."
           },
           {
             "t": "p",
-            "x": "복합 명령도 제대로 처리했다. 한 방은 청소기로 밀고 다른 방은 물걸레질하는 일을 한 번에 시킬 수 있다는 게 편했다. Matic 앱에는 방마다 청소 방식을 따로 정하는 기능이 없어서, 음성 명령이 그 기능을 처음 열어 준 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "공동창업자 Mehul Nariyawala는 앱을 복잡하게 만들고 싶지 않아 그동안 넣지 않았다고 했다. \"물론 하고 싶습니다. 다만 앞으로는 모든 걸 음성 우선으로 접근하려 합니다.\""
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/08/Matic-spot-clean-1.jpg",
-            "cap": "손으로 가리킨 자리를 찾아가 치우는 Matic."
-          },
-          {
-            "t": "p",
-            "x": "걸리는 대목도 있다. 이번 기능은 인터넷 연결이 필요한 첫 Matic 기능이다. 블루투스만으로 온전히 조작된다는 점이 이 로봇의 장점이었다. Nariyawala는 로봇에 들어간 Nvidia Jetson Orin 칩의 4GB 램 안에서 음성 기능이 돌아가도록 모델을 줄이는 게 목표라고 했고, 로컬만 쓰는 쪽도 \"이득의 80%는 얻는다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "가격은 오르는 중이다. 리뷰 당시 1,095달러였던 이 로봇청소기는 부품값을 올린 관세 탓에 1,245달러가 됐고, 2026년 9월 9일 다시 1,495달러로 오른다."
+            "x": "Rogbid는 프레임에 피부에 순한 TR90 소재를 썼다고 밝혔지만, 사양 이미지를 보면 세 디자인 중 둘은 전면이 금속이다. 공개된 사양 어디에도 카메라는 없다. 사진이나 영상이 아니라 오디오와 AI 기능에 초점을 맞춘 물건이다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-ray-ban-meta-vision-ireland",
+      "id": "gadgets-apple-china-llm-alibaba",
       "eyebrow": "AI NEWS",
-      "headline": "AI 안경 1만 5000대가\n아일랜드 시각장애인에게 간다",
-      "body": "Meta가 AI 안경 1만 5000대를 아일랜드 시각장애인에게 무료로 나눠 준다.",
-      "mini_headline": "보조기기가 된 AI 안경",
+      "headline": "Apple이 중국 전용 모델을 만들었다\n같은 iPhone, 다른 AI가 돌아간다",
+      "body": "Apple이 Alibaba의 도움으로 중국 전용 대형 언어 모델을 직접 학습시켰다.",
+      "mini_headline": "중국 전용 Apple 모델",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2236054/meta-donates-15000-ray-ban-meta-glasses-to-vision-ireland/",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -200,37 +174,41 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Meta가 Ray-Ban Meta 안경 1만 5000대를 아일랜드의 시각장애인 단체 Vision Ireland에 넘긴다. 받으려면 Vision Ireland 홈페이지에서 신청해야 하지만 안경 자체는 무료다. Meta는 이 1만 5000대가 단체가 지원하는 성인 시각장애인 전원에게 돌아갈 양이라고 밝혔다."
+            "x": "Apple이 중국 시장을 위해 자체 대형 언어 모델을 학습시켰다고 Reuters가 보도했다. 중국에서 파는 기기의 Apple Intelligence 기능을 외부 모델에 기대지 않겠다는 선택이다."
           },
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/meta-is-giving-away-15000-ai-glasses-to-blind-and-visually-impaired-people-in-ireland/intro-1786613090.jpg",
-            "cap": "흰 배경에 놓인 Ray-Ban Meta 안경."
+            "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+            "cap": "Apple Intelligence. 중국에서는 다른 모델이 이 기능을 돌린다."
           },
           {
             "t": "p",
-            "x": "Meta의 AI 안경은 그동안 비판을 많이 받았다. 상대의 동의 없이 몰래 찍는 데 쓰일 여지가 있어서다. 녹화 중임을 알리는 LED를 꺼 주겠다는 서비스까지 나돌면서 시선이 더 나빠졌다. Meta는 LED를 손대거나 망가뜨린 안경은 카메라를 비활성화하겠다고 답했다. 여기에 Wired가 Meta AI 앱에서 얼굴 인식 도입을 검토한 정황이 담긴 코드를 찾아냈다."
+            "x": "이 LLM은 Alibaba의 도움을 받아 개발됐다고 보도의 소식통들은 전한다. 중국에 생성형 AI를 들일 때 현지 모델에 기대던 기존 전략에서 방향을 튼 셈이다."
           },
           {
             "t": "p",
-            "x": "그럼에도 이런 안경은 시각장애인에게 큰 도움이 된다. 글자를 소리 내어 읽어 주고 주변 물체를 알려 준다. 주변 상황을 설명받으며 할 일을 더 빠르고 안전하게 끝낼 수 있다. 메시지를 읽어 달라고 한 뒤 Meta AI에 답장을 시키는 것도 된다. Meta는 Be My Eyes 네트워크와도 손을 잡아 안경으로 자원봉사자에게 전화를 걸 수 있게 했다. 봉사자는 옷을 고르거나 마트에서 원하는 우유를 찾는 일 같은 걸 도와준다."
+            "x": "중국에서의 AI 기능 출시는 앞으로 몇 달 안에 이뤄질 전망이다. 보도는 이를 중국 내 AI 배치를 위한 '이원 전략(dual-track strategy)'이라 부른다. 다른 미국 기술 기업들의 발목을 잡아온 규제 문턱을 Apple은 이 방식으로 넘어간다."
           },
           {
             "t": "p",
-            "x": "무료 Ray-Ban Meta 안경을 받고 싶다면 Vision Ireland 홈페이지나 전용 전화 +353 1 882 1910으로 신청하면 된다. 대상자 선정과 대면 교육, 사후 지원은 Vision Ireland가 맡는다."
+            "x": "이로써 Apple은 중국 정부가 자체 AI 모델 제공을 승인한 첫 외국 기업이 됐다."
+          },
+          {
+            "t": "p",
+            "x": "앞서 Apple은 중국 규제당국과 합의해 Alibaba의 Qwen 모델을 Apple Intelligence 기능에 넣기로 했다. 다른 지역에서 쓰는 ChatGPT 확장과 비슷한 방식이다. Apple은 중국에서 Mac 사용자가 Alibaba의 Qwen AI를 Siri와 글쓰기 도구에 연결하는 방법을 설명한 지원 문서를 잠깐 올렸다가 하루도 되지 않아 통째로 내렸다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-google-health-ai-hallucination",
+      "id": "gadgets-antigravity-local-llm-files",
       "eyebrow": "AI NEWS",
-      "headline": "Google Health가 지어낸 기록에\nFitbit 이용자들이 등을 돌렸다",
-      "body": "새 Google Health 앱의 AI 코치가 하지도 않은 운동과 수치를 지어낸다.",
-      "mini_headline": "AI가 지어낸 운동 기록",
+      "headline": "에이전트 둘에게 같은 문서를 맡겼다\n내 원본을 끝까지 지킨 쪽은 하나였다",
+      "body": "같은 문서 작업을 맡기자 쓰기 전에 구조를 읽은 쪽은 Antigravity뿐이었다.",
+      "mini_headline": "내 파일을 지킨 쪽",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/ai-platforms-assistants/nonstop-lies-from-the-ai-as-google-launches-the-pixel-watch-5-its-redesigned-google-health-app-is-leaving-fitbit-users-incensed-at-its-crazy-hallucinations",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/trusted-antigravity-and-local-llm-with-same-office-tasks-only-one-respected-my-files/",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
@@ -238,15 +216,41 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Google이 Pixel Watch 5를 내놓은 바로 그 시점에, 새로 뜯어고친 Google Health 앱이 도마에 올랐다. 앱에 들어간 AI 코치가 하지도 않은 운동과 맞지 않는 수치를 지어내고 있어서다."
+            "x": "에이전트 AI 도구는 생각보다 빠르게 보통 사람의 작업 흐름 안으로 들어왔다. 파일을 직접 만지고 손대는 도구는 쓸모가 큰 만큼 틀렸을 때 치르는 값도 크다. 헛소리하는 챗봇은 성가신 정도지만, 파일을 다루는 에이전트가 헛돌면 진짜 내 파일과 폴더 안에서 헛돈다."
           },
           {
             "t": "p",
-            "x": "가장 크게 반발한 쪽은 오래 Fitbit을 써 온 사용자들이다."
+            "x": "그래서 이번엔 만들어내는 능력이 아니라 이미 있는 것을 어떻게 다루는지를 봤다. 손이 가장 자주 가는 두 도구, Antigravity와 로컬 LLM에게 같은 사무 작업을 시키고 내 규칙을 지키는지 지켜봤다."
           },
           {
             "t": "p",
-            "x": "믿고 보던 건강 데이터 화면 위에 생성형 레이어를 덧대면 어떤 일이 벌어지는지, 이번 건이 날카로운 사례로 남는다."
+            "x": "대부분의 비교는 결과물 품질을 따진다. 파일 접근 권한을 쥐고 중요한 문서를 건드리려는 도구에는 맞지 않는 잣대다. 벤치마크만큼 중요한 건 도구가 자기가 들어온 구조를 이해하느냐, 아니면 전부 제 마음대로 칠할 빈 캔버스로 보느냐다. 내 Obsidian 볼트가 좋은 시험대였다. 아무 데도 닿지 않는 위키링크, 기존 스키마를 확인하지 않아 새로 지어낸 프론트매터 필드 같은 작은 실수는 눈에 잘 띄지 않은 채 쌓인다. 폴더가 겉으로 무너지지도 않고 도구는 성공했다고 보고하지만, 길게 보면 폴더는 손댈 수 없는 쓰레기장이 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/antigravity-restructuring-messy-meeting-note-with-preview.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+            "cap": "엉망인 회의 노트를 Antigravity가 다시 짜는 화면."
+          },
+          {
+            "t": "p",
+            "x": "기본 과제는 파일 하나를 다시 짜는 일이었다. 엉망인 회의 노트에 제목을 붙이고, 맨 위에 요약을 넣고, 맨 아래 실행 항목을 정리하라고 시켰다. Antigravity는 얼핏 봐서는 놓칠 주제 단위로 내용을 갈라놨다. 로컬 모델도 구조를 잡긴 했는데 조금 더 기계적이었다(참고로 temperature는 0.6이었다). 프론트매터는 양쪽 다 제대로 맞췄다."
+          },
+          {
+            "t": "p",
+            "x": "다음은 여러 단계를 거치는 과제였다. 같은 노트 다섯 개를 주고 공통 흐름을 뽑아 위키링크로 각 출처에 연결한 종합 노트를 만들라고 했다. Antigravity는 다섯 노트를 가로지르는 주제 네 개를 찾아 각 노트의 입장을 하나의 축 위에 배치했다. 로컬 모델도 네 개를 찾았고 위키링크도 정확했지만, 주제라기보다 한 줄 요약에 가까웠다. 둘 다 끝내긴 했다. 다만 Antigravity는 다섯 편이 함께 말하는 바를 읽었고, Qwen은 하나씩 읽고 하나씩 보고했다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-pkm-synthesis-done-with-four-major-themes-in-lm-studio.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+            "cap": "LM Studio에서 Qwen이 주제 네 개로 종합 노트를 끝낸 모습."
+          },
+          {
+            "t": "p",
+            "x": "새 노트를 어디에 둘지에서 차이가 벌어졌다. Antigravity는 폴더 셋을 살펴본 뒤 개념 원칙에 관한 글임을 알아보고 'notes/ux' 폴더를 골랐다. 파일명은 내가 쓰는 문장형 표기를 따랐고, 프론트매터 스키마도 그대로 복사했으며, 같은 폴더의 기존 노트로 위키링크를 걸어 새 글을 이웃 사이에 끼워 넣었다. 로컬 모델도 설정 파일을 읽고 결국 맞는 폴더를 찾았지만 중간에 추론을 여러 번 건너뛰었다. 처음에는 그 노트들을 '고아 문서'로 분류했다가 스스로 바로잡았고, 확신이 서지 않을 때는 볼트 최상위에 쓰려는 버릇이 있었다."
+          },
+          {
+            "t": "p",
+            "x": "둘 다 요청한 일을 끝냈다. 그건 에이전트에게 기대하는 최소치다. 갈린 건 주의력이었다. Antigravity는 매 과제마다 쓰기 전에 읽었다. Qwen도 굳이 손댈 필요 없는 변경을 알아보는 순간 같은 본능을 작게나마 보여줬다. 그래도 소중한 파일이 담긴 폴더를 맡긴다면 Antigravity 쪽이다. 로컬 LLM이 폴더를 부순다는 얘기가 아니라, Antigravity가 조금 더 조심스럽다는 얘기다."
           }
         ]
       }
