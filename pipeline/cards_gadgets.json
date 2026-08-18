@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-openai-doughnut-companion",
+      "id": "gadgets-airpods-camera-demo-video",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI 첫 기기는 화면 없는 도넛\n인터페이스 대신 성격을 설계했다",
-      "body": "OpenAI의 첫 기기는 화면 없는 도넛형 퍽으로 2027년에 나온다.",
-      "mini_headline": "화면 없는 도넛형 AI",
+      "headline": "카메라 달린 AirPods가\nmacOS 베타 영상에 먼저 나타났다",
+      "body": "MacRumors가 macOS 베타에서 카메라 AirPods 시연 영상을 찾아냈다.",
+      "mini_headline": "카메라 AirPods 영상",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/home-theater/openais-first-gadget-sounds-like-a-tiny-robot-for-your-home/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -18,108 +18,113 @@
         "blocks": [
           {
             "t": "p",
-            "x": "OpenAI의 첫 하드웨어가 화면 없는 스마트 스피커라는 이야기는 몇 달째 돌았다. 주변 상황을 알아채고, 집 안 어디로든 들고 다니고, 먼저 나서서 돕는다는 정도까지는 이미 알려져 있었다. Bloomberg의 새 보도가 그 물건의 생김새를 처음으로 또렷하게 그려 보인다."
-          },
-          {
-            "t": "p",
-            "x": "보도에 따르면 이 기기는 도넛 모양이고 크기는 하키 퍽만 하다. 방을 옮겨 다니며 들고 다녀도 되고, 손 닿는 자리에 그냥 놓아둬도 된다. 값은 만만치 않다. OpenAI가 검토 중인 가격대는 300~400달러, 출시 시점은 2027년으로 잡혀 있다."
-          },
-          {
-            "t": "p",
-            "x": "앞선 보도들은 스마트홈 기기 제어와 미디어 재생, 질문 응답, 메시지 회신, ChatGPT를 불러 하루를 거드는 일까지 언급했다. 주된 조작은 음성이지만 카메라와 환경 센서도 들어간다. 말로 시키지 않아도 주변에서 벌어지는 일을 기기가 읽어낸다. Apple도 카메라를 넣은 차세대 AirPods로 비슷한 그림을 그리고 있다."
+            "x": "MacRumors가 macOS Tahoe 26.7 릴리스 후보에서 짧은 영상 하나를 찾아냈다. 소문으로만 돌던 카메라 탑재 AirPods를 처음 움직이는 그림으로 보게 된 셈이다. 영상 속 남자는 새 AirPods를 낀 채 책 표지를 들어 올린다. Visual Intelligence가 제목을 읽게 하려는 동작이다."
           },
           {
             "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2023/01/apple-homepod-2023-review-14.jpg?resize=3840%2C2160",
-            "cap": "집 안 책상 위에 놓인 Apple HomePod 2023. 사진 Zeke Jones / Digital Trends"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "cap": "macOS 베타에서 발견된 카메라 AirPods 시연 영상의 한 장면."
           },
           {
             "t": "p",
-            "x": "쓰는 사람을 시간이 지나며 알아가는 것도 목표다. 생활 리듬과 취향, 지난 대화에 맞춰 말이 달라지고, 사용자가 휴대폰을 집어 들거나 프롬프트를 치기 전에 먼저 거든다. 사람처럼 대화하는 고급 모델도 물론 붙는다. 최근 선보인 ChatGPT Live에서 OpenAI는 이미 상당한 진전을 보였다."
+            "x": "클립 위로는 Siri의 목소리가 깔린다. “with Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.” 눈에 들어온 것을 나중을 위해 저장해 두라는 이야기다."
           },
           {
             "t": "p",
-            "x": "대화는 마이크와 스피커가 맡고, 듣고 있는지 답하는 중인지는 불빛으로 알린다. 상호작용 중에는 기기의 일부가 실제로 움직인다. 방 한구석에 가만히 놓인 스피커가 아니라 작은 로봇이 거기 있다는 감각을 노린 설계다. 떠오르는 건 WALL-E나 R2-D2다. 그 둘은 움직임과 반응만으로 살아 있고, 알아듣고, 감정이 통하는 존재처럼 느껴진다. OpenAI도 ChatGPT에 물리적 형태와 표정 있는 성격을 주면서 같은 효과를 노리는 모양새다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2021/02/wall-e-movie-2.jpg?resize=1200%2C675",
-            "cap": "루빅스 큐브를 든 WALL-E. 이미지 Walt Disney Studios Motion Pictures"
+            "x": "Bloomberg의 Mark Gurman은 앞서 이 AirPods가 “visual information in low resolution”을 받아들여 Apple AI 기능의 눈 노릇을 하도록 설계됐다고 전했다. Siri가 길을 턴바이턴으로 읽어주거나 주변에 관한 질문에 답하는 그림이다."
           },
           {
             "t": "p",
-            "x": "실제로 어떻게 굴러갈지는 아직 물음표다. 움직이는 도넛 모양 AI 동반자는 디자인이나 모션이 조금만 어긋나도 값싼 장난감처럼 보이기 쉽다. 다만 OpenAI는 전 Apple 디자인 총괄 Jony Ive, 그의 스튜디오 LoveFrom과 함께 이 기기를 만들고 있다. 완성품이 장난감이 아니라 잘 다듬어진 물건으로 나오리라 기대할 근거는 거기에 있다."
+            "x": "영상 속 AirPods는 AirPods Pro 3를 조금 두껍게 만든 모양새다. Gurman이 예상한 대로다. 카메라를 넣느라 스템이 길어지고, 데이터가 클라우드로 올라가는 동안 알려주는 LED가 붙는다는 이야기도 함께 나왔다. 다만 영상은 뒤에서만 잡아서 그 각도로는 불빛이 보이지 않는다."
           },
           {
             "t": "p",
-            "x": "OpenAI 사장 Greg Brockman은 회사가 기기 제품군을 준비 중이라고 이미 확인했다. 이 작은 동반자가 ChatGPT에게 집 안의 자리를 처음으로 내주는 물건이 될 수도 있다."
+            "x": "Visual Intelligence를 얹은 이상 상대는 Meta의 Ray-Ban 스마트 글라스 같은 카메라 달린 AI 기기다. Apple도 자체 스마트 글라스를 따로 준비 중이라고 알려져 있다. 사진이나 영상을 찍으라고 만든 카메라는 아니라지만, 티가 안 나는 생김새는 오히려 걱정을 키운다. Meta가 “pervert glasses” 소리를 들으며 겪은 반발이 앞에 놓여 있다."
+          },
+          {
+            "t": "p",
+            "x": "지금 나온 정보는 여기까지다. 시연 영상이 벌써 베타에 실릴 정도라면, 9월에 다음 세대 iPhone과 함께 나올 것으로 보이는 새 Siri에 맞춰 이 AirPods도 모습을 드러낼 수 있다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-lg-cloid-nvidia-humanoid",
+      "id": "gadgets-google-pet-memory-cats",
       "eyebrow": "AI NEWS",
-      "headline": "LG가 이족보행 휴머노이드를 만들고\nNvidia가 그 두뇌를 맡는다",
-      "body": "LG가 Nvidia 스택을 얹은 이족보행 휴머노이드를 2027년 초 공개한다.",
-      "mini_headline": "LG 휴머노이드의 두뇌",
+      "headline": "Pet Memory를 2주 써봤다\n고양이 셋이 모두 Smokey가 됐다",
+      "body": "Pet Memory는 2주 내내 고양이 셋을 Smokey 하나로 불렀다.",
+      "mini_headline": "모두 Smokey가 됐다",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/lg-is-getting-into-humanoid-robots-and-nvidia-is-helping-it-build-them/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "오래된 하드웨어 회사들이 하나둘 로드맵에 휴머노이드를 얹고 있다. 이번 차례는 LG다. 다만 일정은 아직 조심스럽다."
-          },
-          {
-            "t": "p",
-            "x": "LG의 이족보행 휴머노이드는 Nvidia의 로보틱스 스택 위에서 돌아가고, 목표 시점은 2027년 초다. AI 팩토리와 자율주행 차량 플랫폼으로 넓히는 큰 그림이 뒤를 받친다."
+            "x": "The Verge의 스마트홈 리뷰어에게 보안 카메라의 가장 쓸모 있는 용도는 집 안팎의 동물을 지켜보는 일이다. 문제는 알림이 쏟아지는 통에 정작 중요한 걸 놓친다는 데 있다. Google이 Gemini for Home에 Pet Memory를 붙였을 때 기대를 건 이유다."
           },
           {
             "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/01/LG-CLOiD-Image-1.jpg?resize=1200%2C720",
-            "cap": "올해 초 공개된 LG CLOiD. 바퀴로 움직이는 이 로봇이 먼저 공장에 들어간다."
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0001_IMG_8622.jpg?quality=90&strip=all",
+            "cap": "Google Nest Cam 앞으로 바짝 다가선 Boone. 사진 Jennifer Pattison Tuohy / The Verge"
           },
           {
             "t": "p",
-            "x": "이번 주 초 LG와 Nvidia는 Nvidia의 Santa Clara 본사에서 양해각서에 서명했다. 자리에는 LG 회장 Kwang Mo Koo와 Nvidia CEO Jensen Huang이 함께 있었다."
+            "x": "Pet Memory는 우리 집 반려동물이 누구인지를 Google Home에 가르치는 기능이다. Nest 카메라가 '동물이 보였다'에서 '어떤 동물이 보였다'로 넘어가고, 그 정보에 맞춰 집이 반응한다. 필자의 계획은 고양이 세 마리를 구분해 급식기를 자동으로 돌리는 것이었다. 2주가 지나도 Gemini는 셋을 갈라내지 못했다."
           },
           {
             "t": "p",
-            "x": "핵심은 LG가 2027년 초 CES 2027에 맞춰 공개할 이족보행 휴머노이드다. 알려진 바로는 추론을 담당하는 Nvidia Jetson Thor 칩과 처리를 맡는 Isaac GR00T 파운데이션 모델이 들어간다. 로봇용으로 만든 업계 최초의 풀스택 안전 프레임워크라는 Nvidia Halos도 함께 실린다."
+            "x": "동작 알림만 주던 카메라가 무엇을 봤는지 말해주는 쪽으로 넘어온 건 최근 일이다. Nest는 2017년 Nest Cam IQ로 사람과 동물을 갈랐고 이후 동물 감지와 AI 설명을 더했다. Ring과 Wyze, Apple Home도 AI 설명을 붙였다. 개체를 이름으로 부르겠다고 나선 건 Google Home이 처음이다."
           },
           {
             "t": "p",
-            "x": "부품은 집안에서 조달한다. 액추에이터와 센서, 배터리를 LG전자와 LG이노텍, LG에너지솔루션에서 가져온다. 편하고 값도 아낀다."
+            "x": "작동 방식은 단순하다. 사용자가 Gemini에 적어 넣은 설명과 카메라 영상에서 Gemini가 만든 설명을 맞춰본다. Google Home 프로덕트 매니저 Rudra Bhatt는 “If these are the same, we will replace the pets with the name in the caption”이라고 설명했다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0006_IMG_8456.jpg?quality=90&strip=all",
+            "cap": "Google Home이 기억한 유일한 고양이 Smokey. Nest Cam에 잡힌 고양이는 죄다 Smokey가 된다."
           },
           {
             "t": "p",
-            "x": "2027년까지 손을 놓고 기다리는 건 아니다. 올해 LG는 바퀴로 움직이는 로봇 LG CLOiD를 공장에 투입해 시험한다. 올해 초 선보인 가정용 로봇의 산업용 버전이다. 학습 데이터를 대량으로 먹이려고 LG CNS의 PhysicalWorks 플랫폼을 쓰는 '로봇 데이터 팩토리'를 짓는 일도 협력에 들어갔다."
+            "x": "조건도 값도 만만치 않다. 월 20달러 Google Home Advanced Plan이 필요하고, 테스트에서는 Nest 카메라에서만 돌았다. 실내 카메라 전용이라 현관을 오가는 고양이에는 쓸 수 없었다. 무엇보다 Familiar Faces와 달리 개체별 시각 프로필을 만들지 않는다. 학습 과정도, 사진을 올릴 방법도, 틀린 걸 고칠 방법도 없다. 이름과 품종만 넣으면 나머지는 알아서 맞춘다는 구조다."
           },
           {
             "t": "p",
-            "x": "로봇 말고도 LG는 앞으로 2년 안에 공장 두 곳을 세운다. 2027년 중반까지 Nvidia의 Vera Rubin 플랫폼을 쓰는 AI 팩토리 레퍼런스 사이트를 짓고, 2028년 중반까지 한국 천안에 80메가와트 규모 LG AI 팩토리를 올린다."
+            "x": "흰 발을 가진 턱시도 고양이 Boone, 태비 새끼 고양이 Osa, 회색과 흰색이 섞인 큰 고양이 Smokey. 설명을 더 자세히 적어 넣자 시스템은 추가 정보를 처리할 수 없다고 답하고는 모든 고양이를 Smokey라 불렀다. Bhatt도 한 마리일 때는 잘하고 개와 고양이 정도는 가리지만 같은 종 여러 마리는 어려워한다고 인정했다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_7979.jpeg?quality=90&strip=all",
+            "cap": "Smokey가 아니다. 다만 Gemini for Home의 설명이 얼마나 자세해졌는지는 보여준다."
           },
           {
             "t": "p",
-            "x": "내부 우선순위를 바꾼 것이라기보다 다른 거대 기업에 묶어 팔 제품을 준비하는 쪽으로 읽힌다. 눈여겨볼 대목은 Nvidia의 Halos 안전 프레임워크다. 사람과 같은 바닥을 쓰는 휴머노이드의 책임 문제는 업계가 몇 년째 붙들고 있는 가장 큰 숙제였다."
+            "x": "급식 자동화도 어긋났다. Nest Cam이 특정 고양이를 봤을 때만 Aqara 급식기가 돌게 걸어뒀는데, Boone과 Smokey를 못 가리니 둘 중 아무나 다가가도 사료가 나왔다. Google Home 앱에는 자동화 실행 횟수를 제한하는 설정도 없다. 하루가 저물 무렵 밥그릇은 넘쳤다."
+          },
+          {
+            "t": "p",
+            "x": "가장 곤란한 건 오인식이었다. 어느 날 Home Brief는 Smokey가 차고에서 뭔가 먹고 있다고 알렸다. 고양이가 차고에서 먹는 건 좋은 신호가 아니다. 클립을 열어보니 세탁실에서 제 밥을 먹는 Boone이었고, 차고 카메라를 하루치 되감아도 고양이는 없었다. 이쯤 되면 아무것도 안 하느니만 못하다."
+          },
+          {
+            "t": "p",
+            "x": "개체를 알아보는 일은 동물이 있다는 걸 알아보는 일보다 훨씬 어렵다. AI 카메라가 어디로 가는지는 보이지만 오늘 기대고 쓸 기능은 아니다. 같은 월 20달러에 딸려 오는 연속 녹화가 아직은 더 쓸모 있다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-rogbid-visionw-price-floor",
+      "id": "gadgets-meta-face-recognition-patent",
       "eyebrow": "AI NEWS",
-      "headline": "69.99달러 AI 안경이 나왔다\n스마트글라스 가격 바닥이 내려앉았다",
-      "body": "Rogbid가 프레임을 갈아 끼우는 69.99달러 AI 안경 VisionW를 냈다.",
-      "mini_headline": "69.99달러 AI 안경",
+      "headline": "Meta의 얼굴 인식 안경 구상이\n새 특허 출원서에서 다시 나왔다",
+      "body": "Meta 특허는 스마트 글라스가 얼굴로 사람을 알아보는 방식을 담았다.",
+      "mini_headline": "얼굴 인식 안경 특허",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/New-affordable-3-in-1-smart-glasses-promise-up-to-39-days-of-battery-and-UV-protection.1365516.0.html",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/wearables/metas-facial-recognition-smart-glasses-idea-just-resurfaced-in-a-patent/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -127,46 +132,58 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Rogbid가 69.99달러짜리 VisionW 3-in-1 AI 스마트 글라스를 내놨다. 내세우는 건 프레임 교체다. 야외용과 일상용을 아우르는 세 가지 스타일로 제품을 보여준다."
+            "x": "Meta는 올해 내내 스마트 글라스에 얼굴 인식이 들어온다는 우려를 달래왔다. 그런데 새로 공개된 특허 출원서를 보면 그 구상을 접은 적이 없다."
+          },
+          {
+            "t": "p",
+            "x": "Patentlyze가 먼저 전한 이 출원서는 Meta가 2월에 낸 것이다. AI 얼굴 인식을 스마트 글라스와 함께 써서 사람을 식별하고, 그 사람과 엮인 정보를 미디어를 만들 때 쓰는 방식을 적었다."
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-VisionW.png",
-            "cap": "Rogbid VisionW. 프레임 세 종류를 갈아 끼우는 구성이다."
+            "src": "https://www.digitaltrends.com/tachyon/2026/08/Meta-smart-glasses-facial-recognition-patent.jpg?resize=1528%2C917",
+            "cap": "공개된 Meta 특허 출원서의 도면. 이미지 US Patent and Trademark Office"
           },
           {
             "t": "p",
-            "x": "첫 번째는 두꺼운 검정 웨이페어러에 짙은 틴트 렌즈를 끼운 형태다. 전면 폭 145.7mm, 렌즈 높이 48.8mm, 브리지 18mm. 두 번째는 더 넓은 더블 브리지에 짙은 렌즈를 쓰고 폭 147.4mm, 높이 48.4mm다. 세 번째는 투명 렌즈를 쓴 브로우라인 하프림으로, 셋 중 가장 넓은 151mm에 렌즈 높이는 44mm다."
+            "x": "특허를 냈다고 제품이 되는 건 아니다. 다만 Meta가 웨어러블에 쓸 얼굴 인식을 거듭 들여다봤다는 보도가 몇 달째 쌓인 끝에 나온 문서다."
           },
           {
             "t": "p",
-            "x": "짚고 갈 대목이 하나 있다. Rogbid의 제품 정보 어디에도 세 프레임이 모두 69.99달러 패키지에 들어가는지가 분명히 적혀 있지 않다. '3-in-1'이라는 이름과 세 디자인을 나란히 올린 방식을 보면 그렇게 읽히지만, 구성품 목록을 회사가 내놓지 않았다."
+            "x": "2월에는 Name Tag라는 내부 기능이 알려졌다. 스마트 글라스가 실시간으로 사람을 알아보게 하는 기능이다. 6월에 이야기는 한층 이상해졌다. 연구자들이 Meta AI 앱 안에서 잠들어 있던 얼굴 인식 구성 요소를 찾아냈다. 얼굴을 감지해 생체 데이터로 바꾸는 시스템까지 들어 있었다. Meta는 코드를 지웠고 얼굴 인식 기능을 내놓은 적은 없다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "비슷한 시기에 Meta가 Rank One Computing에서 얼굴 인식 기술을 라이선스했다는 사실도 드러났다. 미군과 법 집행기관을 고객으로 둔 회사다. 이 소프트웨어 역시 Meta AI 앱 안에 잠든 채 발견됐다."
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-08-12-at-12.35.08AM.png",
-            "cap": "Rogbid가 공개한 VisionW 사양 그래픽."
+            "src": "https://www.digitaltrends.com/tachyon/2026/03/meta-smart-glasses-1.jpg?resize=2000%2C1200",
+            "cap": "Meta Ray-Ban Gen 2 스마트 글라스. 이미지 Meta"
           },
           {
             "t": "p",
-            "x": "연결은 Bluetooth를 쓰고, 200mAh 배터리에 자석식 충전을 붙였다. '긴 배터리'라는 문구와 함께 제품 그래픽 한 곳에 39일이라는 숫자가 적혀 있다. 다만 대기 시간인지 실사용 시간인지 설명이 없어, 이걸 실제 사용 시간으로 받아들이기엔 이르다. 3D 서라운드 사운드를 지원하고, AI 음성 비서는 ChatGPT와 Grok을 비롯한 대형 언어 모델을 쓴다. 렌즈에는 블루라이트 차단과 자외선 차단이 들어간다."
+            "x": "Meta가 안경용 얼굴 인식을 파봤다는 데는 이제 의심의 여지가 없다. 남은 물음은 그 작업이 실제로 살 수 있는 물건에 실리느냐다."
           },
           {
             "t": "p",
-            "x": "Rogbid는 프레임에 피부에 순한 TR90 소재를 썼다고 밝혔지만, 사양 이미지를 보면 세 디자인 중 둘은 전면이 금속이다. 공개된 사양 어디에도 카메라는 없다. 사진이나 영상이 아니라 오디오와 AI 기능에 초점을 맞춘 물건이다."
+            "x": "특허는 벌써 비판을 받고 있다. CNET이 전한 성명에서 Center for Democracy and Technology는 스토킹과 가정폭력 피해자를 비롯한 취약한 사람들이 이 기술에 노출될 수 있다고 경고했다."
+          },
+          {
+            "t": "p",
+            "x": "Name Tag를 따라다니던 걱정과 같은 지점이다. 사진 라이브러리 안쪽에 들어앉은 얼굴 인식과, 사람 얼굴에 얹혀 공공장소를 돌아다니는 카메라는 다르다. Meta의 안경은 이미 보통 안경과 잘 구분되지 않는다. 여기에 얼굴 인식이 붙으면, 옆에 선 사람은 자기가 그냥 보이는 중인지 조용히 식별되는 중인지 알 길이 없다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-apple-china-llm-alibaba",
+      "id": "gadgets-humanoid-firefighting-drill",
       "eyebrow": "AI NEWS",
-      "headline": "Apple이 중국 전용 모델을 만들었다\n같은 iPhone, 다른 AI가 돌아간다",
-      "body": "Apple이 Alibaba의 도움으로 중국 전용 대형 언어 모델을 직접 학습시켰다.",
-      "mini_headline": "중국 전용 Apple 모델",
+      "headline": "소방 훈련에 나선 휴머노이드 23팀\n끝까지 해낸 건 세 팀뿐이었다",
+      "body": "야외 소방 종목에 나선 휴머노이드 23팀 중 세 팀만 전 단계를 끝냈다.",
+      "mini_headline": "끝까지 간 건 세 팀",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Humanoids-flop-in-first-real-firefighting-drill-at-World-Robot-Games.1370784.0.html",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -174,41 +191,45 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Apple이 중국 시장을 위해 자체 대형 언어 모델을 학습시켰다고 Reuters가 보도했다. 중국에서 파는 기기의 Apple Intelligence 기능을 외부 모델에 기대지 않겠다는 선택이다."
+            "x": "로봇은 춤추고 백덤블링을 하고 사람보다 빨리 달린다. 정작 사람을 위험에 몰아넣지 않고 불을 끄는 일 앞에서는 그런 재주가 별 쓸모가 없다."
           },
           {
             "t": "img",
-            "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-            "cap": "Apple Intelligence. 중국에서는 다른 모델이 이 기능을 돌린다."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humanoid-robot-firefighting-games.jpg",
+            "cap": "실제 소방서를 무대로 치러진 휴머노이드 소방·구조 종목."
           },
           {
             "t": "p",
-            "x": "이 LLM은 Alibaba의 도움을 받아 개발됐다고 보도의 소식통들은 전한다. 중국에 생성형 AI를 들일 때 현지 모델에 기대던 기존 전략에서 방향을 튼 셈이다."
+            "x": "제2회 World Humanoid Robot Games는 휴머노이드를 위한 첫 야외 소방·구조 종목을 열었다. 지난해의 통제된 실내 환경에서 한 걸음 나간 무대다. 2026년 과제는 실제 소방서 안에서 치러졌고, 로봇들은 진짜 현장에 가까운 조건을 마주했다."
           },
           {
             "t": "p",
-            "x": "중국에서의 AI 기능 출시는 앞으로 몇 달 안에 이뤄질 전망이다. 보도는 이를 중국 내 AI 배치를 위한 '이원 전략(dual-track strategy)'이라 부른다. 다른 미국 기술 기업들의 발목을 잡아온 규제 문턱을 Apple은 이 방식으로 넘어간다."
+            "x": "각 로봇에게 주어진 시간은 30분. 무작위로 놓인 위험 물질을 이미지 인식으로 찾아 보고하고, 무작위로 지정된 밸브 세 개를 찾아 잠근 다음, 소화기를 찾아 실제 불을 꺼야 했다. 불을 붙이고 소화기를 제대로 썼는지 판정하는 일은 현직 소방관들이 맡았다."
           },
           {
             "t": "p",
-            "x": "이로써 Apple은 중국 정부가 자체 AI 모델 제공을 승인한 첫 외국 기업이 됐다."
+            "x": "결과는 로봇의 지각과 운동 제어가 아직 얼마나 무른지를 드러냈다. 샌드박스 데모나 원격 VR 보조 조작에서 벗어나는 순간이 고비였다. 비와 시시각각 바뀌는 야외 조명, 소방서에 널린 잡동사니가 비전 시스템과 기계적 정밀도를 흔들었다. 종목에 이름을 올린 팀은 23곳, 8월 16일 경기에 나선 팀은 12곳이었고, 모든 단계를 끝낸 팀은 셋이다."
           },
           {
             "t": "p",
-            "x": "앞서 Apple은 중국 규제당국과 합의해 Alibaba의 Qwen 모델을 Apple Intelligence 기능에 넣기로 했다. 다른 지역에서 쓰는 ChatGPT 확장과 비슷한 방식이다. Apple은 중국에서 Mac 사용자가 Alibaba의 Qwen AI를 Siri와 글쓰기 도구에 연결하는 방법을 설명한 지원 문서를 잠깐 올렸다가 하루도 되지 않아 통째로 내렸다."
+            "x": "돋보인 쪽은 UniX AI의 로봇이었다. 제한 시간 안에 요구된 정밀도로 과제를 마쳤다. 다만 전체 속도는 사람 소방관에 한참 못 미쳤고, 소화기 손잡이에 손을 맞추는 동작을 두 번 다시 해야 했다."
+          },
+          {
+            "t": "p",
+            "x": "사람 소방관이 훨씬 낫다는 결론은 그대로다. 그래도 이런 대회는 실패 데이터를 만들어낸다는 값을 한다. 각 팀은 8월 16일 야외 소방 종목에서 얻은 학습 데이터로 지각과 동작 계획, 균형 제어를 손봐 다음 대회에서는 소화기와 밸브를 제대로 잡겠다는 목표를 세웠다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-antigravity-local-llm-files",
+      "id": "gadgets-pixel-watch-face-prompt",
       "eyebrow": "AI NEWS",
-      "headline": "에이전트 둘에게 같은 문서를 맡겼다\n내 원본을 끝까지 지킨 쪽은 하나였다",
-      "body": "같은 문서 작업을 맡기자 쓰기 전에 구조를 읽은 쪽은 Antigravity뿐이었다.",
-      "mini_headline": "내 파일을 지킨 쪽",
+      "headline": "시계 화면을 프롬프트로 만든다\nPixel Watch 5에서 직접 해봤다",
+      "body": "Pixel Watch 5는 프롬프트를 받아 정지 시계 화면 여섯 개를 만들어 준다.",
+      "mini_headline": "프롬프트로 만든 시계 화면",
       "tool": "Gadgets",
-      "source": "XDA Developers",
-      "url": "https://www.xda-developers.com/trusted-antigravity-and-local-llm-with-same-office-tasks-only-one-respected-my-files/",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/wellness/smartwatches/i-used-ai-to-create-a-deli-meat-inspired-watch-face-for-my-pixel-watch-5-and-now-im-questioning-everything",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
@@ -216,41 +237,51 @@
         "blocks": [
           {
             "t": "p",
-            "x": "에이전트 AI 도구는 생각보다 빠르게 보통 사람의 작업 흐름 안으로 들어왔다. 파일을 직접 만지고 손대는 도구는 쓸모가 큰 만큼 틀렸을 때 치르는 값도 크다. 헛소리하는 챗봇은 성가신 정도지만, 파일을 다루는 에이전트가 헛돌면 진짜 내 파일과 폴더 안에서 헛돈다."
-          },
-          {
-            "t": "p",
-            "x": "그래서 이번엔 만들어내는 능력이 아니라 이미 있는 것을 어떻게 다루는지를 봤다. 손이 가장 자주 가는 두 도구, Antigravity와 로컬 LLM에게 같은 사무 작업을 시키고 내 규칙을 지키는지 지켜봤다."
-          },
-          {
-            "t": "p",
-            "x": "대부분의 비교는 결과물 품질을 따진다. 파일 접근 권한을 쥐고 중요한 문서를 건드리려는 도구에는 맞지 않는 잣대다. 벤치마크만큼 중요한 건 도구가 자기가 들어온 구조를 이해하느냐, 아니면 전부 제 마음대로 칠할 빈 캔버스로 보느냐다. 내 Obsidian 볼트가 좋은 시험대였다. 아무 데도 닿지 않는 위키링크, 기존 스키마를 확인하지 않아 새로 지어낸 프론트매터 필드 같은 작은 실수는 눈에 잘 띄지 않은 채 쌓인다. 폴더가 겉으로 무너지지도 않고 도구는 성공했다고 보고하지만, 길게 보면 폴더는 손댈 수 없는 쓰레기장이 된다."
+            "x": "Pixel Watch 5에는 아무도 딱히 요청하지 않은 기능이 하나 붙었다. 음성이나 텍스트 프롬프트로 시계 화면을 만들어내는 생성형 AI다. 뒤를 받치는 건 Gemini다. 쓸 만하냐고 물으면, 그날의 창작 의욕과 취향에 달렸다고 답할 수밖에 없다."
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/antigravity-restructuring-messy-meeting-note-with-preview.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
-            "cap": "엉망인 회의 노트를 Antigravity가 다시 짜는 화면."
+            "src": "https://cdn.mos.cms.futurecdn.net/ii3sSenhj5LRLh9Se38wGh.jpg",
+            "cap": "Pixel Watch 5의 Create Watch Face 앱. 사진 Dan Bracaglia / Tom's Guide"
           },
           {
             "t": "p",
-            "x": "기본 과제는 파일 하나를 다시 짜는 일이었다. 엉망인 회의 노트에 제목을 붙이고, 맨 위에 요약을 넣고, 맨 아래 실행 항목을 정리하라고 시켰다. Antigravity는 얼핏 봐서는 놓칠 주제 단위로 내용을 갈라놨다. 로컬 모델도 구조를 잡긴 했는데 조금 더 기계적이었다(참고로 temperature는 0.6이었다). 프론트매터는 양쪽 다 제대로 맞췄다."
-          },
-          {
-            "t": "p",
-            "x": "다음은 여러 단계를 거치는 과제였다. 같은 노트 다섯 개를 주고 공통 흐름을 뽑아 위키링크로 각 출처에 연결한 종합 노트를 만들라고 했다. Antigravity는 다섯 노트를 가로지르는 주제 네 개를 찾아 각 노트의 입장을 하나의 축 위에 배치했다. 로컬 모델도 네 개를 찾았고 위키링크도 정확했지만, 주제라기보다 한 줄 요약에 가까웠다. 둘 다 끝내긴 했다. 다만 Antigravity는 다섯 편이 함께 말하는 바를 읽었고, Qwen은 하나씩 읽고 하나씩 보고했다."
+            "x": "절차는 뜻밖에 간단하다. Create Watch Face 앱을 열고 직접 만들기를 누른 뒤 텍스트나 음성으로 넣으면 된다. 셀룰러나 Wi-Fi 연결은 필수다. 프롬프트를 넣고 나면 10~30초쯤 걸린다. 다섯 번에 한 번꼴로는 앱이 거절했다. 알아듣기 어렵거나 지나치게 복잡한 프롬프트, 인터넷이 약할 때 그랬다."
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-pkm-synthesis-done-with-four-major-themes-in-lm-studio.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
-            "cap": "LM Studio에서 Qwen이 주제 네 개로 종합 노트를 끝낸 모습."
+            "src": "https://cdn.mos.cms.futurecdn.net/sXzHccxdRDnCrFUiE9LeVh.jpg",
+            "cap": "프롬프트를 넣고 기다리는 화면. 사진 Dan Bracaglia / Tom's Guide"
           },
           {
             "t": "p",
-            "x": "새 노트를 어디에 둘지에서 차이가 벌어졌다. Antigravity는 폴더 셋을 살펴본 뒤 개념 원칙에 관한 글임을 알아보고 'notes/ux' 폴더를 골랐다. 파일명은 내가 쓰는 문장형 표기를 따랐고, 프론트매터 스키마도 그대로 복사했으며, 같은 폴더의 기존 노트로 위키링크를 걸어 새 글을 이웃 사이에 끼워 넣었다. 로컬 모델도 설정 파일을 읽고 결국 맞는 폴더를 찾았지만 중간에 추론을 여러 번 건너뛰었다. 처음에는 그 노트들을 '고아 문서'로 분류했다가 스스로 바로잡았고, 확신이 서지 않을 때는 볼트 최상위에 쓰려는 버릇이 있었다."
+            "x": "첫 프롬프트는 “Teddy bears and laser beams”였다. 나온 그림은 입력한 문구보다 Pink Floyd풍 시리얼에 가까웠다. 앞쪽 단어를 지나치게 앞세워 질감을 잡는 버릇도 눈에 띄었다."
           },
           {
             "t": "p",
-            "x": "둘 다 요청한 일을 끝냈다. 그건 에이전트에게 기대하는 최소치다. 갈린 건 주의력이었다. Antigravity는 매 과제마다 쓰기 전에 읽었다. Qwen도 굳이 손댈 필요 없는 변경을 알아보는 순간 같은 본능을 작게나마 보여줬다. 그래도 소중한 파일이 담긴 폴더를 맡긴다면 Antigravity 쪽이다. 로컬 LLM이 폴더를 부순다는 얘기가 아니라, Antigravity가 조금 더 조심스럽다는 얘기다."
+            "x": "생성이 끝나면 후보 여섯 개가 뜬다. 같은 프롬프트로 더 만들거나 처음부터 다시 갈 수도 있다. 지금으로서는 여섯 개 사이에 큰 차이가 없다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/HbkSNAW4CUz5LDFLpYXc6h.jpg",
+            "cap": "“A raging river with jumping orange salmon” 프롬프트의 결과. 사진 Dan Bracaglia / Tom's Guide"
+          },
+          {
+            "t": "p",
+            "x": "두 번째 프롬프트는 “A raging river with jumping orange salmon”이었다. 조금 나아지긴 했는데 연어보다는 클립아트 잉어 쪽이다. 세 번째로 넣은 “Deli meats”가 기사 맨 앞을 장식한 그 작품이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/UCoj7XvaeHGMzTXNN3Ga4j.jpg",
+            "cap": "생성된 시계 화면은 어떤 프롬프트를 넣어도 정지 화면이다. 사진 John Velasco / Tom's Guide"
+          },
+          {
+            "t": "p",
+            "x": "물고기가 천천히 헤엄치는 식의 움직임을 기대했다면 접는 게 좋다. 어떤 프롬프트를 넣어도 결과는 완전히 정지 화면이다."
+          },
+          {
+            "t": "p",
+            "x": "Google이 이미 무료로 뿌리는 시계 화면들이 이 앱이 만들어내는 어떤 것보다 기능이 풍부하다. 특별한 날이라면 재미 삼아 써볼 만하다. “teddy bears and laser beams”만은 피하는 게 좋겠다."
           }
         ]
       }

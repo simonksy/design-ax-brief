@@ -1,29 +1,31 @@
 {
+  "date": "2026-08-19",
+  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-openai-doughnut-companion",
+      "id": "gadgets-airpods-camera-demo-video",
       "type": "image",
-      "src": "pipeline/media/gadgets-openai-doughnut-companion.jpg"
+      "src": "pipeline/media/gadgets-airpods-camera-demo-video.jpg"
     },
     {
-      "id": "gadgets-lg-cloid-nvidia-humanoid",
+      "id": "gadgets-google-pet-memory-cats",
       "type": "image",
-      "src": "pipeline/media/gadgets-lg-cloid-nvidia-humanoid.jpg"
+      "src": "pipeline/media/gadgets-google-pet-memory-cats.jpg"
     },
     {
-      "id": "gadgets-rogbid-visionw-price-floor",
+      "id": "gadgets-meta-face-recognition-patent",
       "type": "image",
-      "src": "pipeline/media/gadgets-rogbid-visionw-price-floor.png"
+      "src": "pipeline/media/gadgets-meta-face-recognition-patent.jpg"
     },
     {
-      "id": "gadgets-apple-china-llm-alibaba",
+      "id": "gadgets-humanoid-firefighting-drill",
       "type": "image",
-      "src": "pipeline/media/gadgets-apple-china-llm-alibaba.jpg"
+      "src": "pipeline/media/gadgets-humanoid-firefighting-drill.jpg"
     },
     {
-      "id": "gadgets-antigravity-local-llm-files",
+      "id": "gadgets-pixel-watch-face-prompt",
       "type": "image",
-      "src": "pipeline/media/gadgets-antigravity-local-llm-files.jpg"
+      "src": "pipeline/media/gadgets-pixel-watch-face-prompt.jpg"
     }
   ]
 }

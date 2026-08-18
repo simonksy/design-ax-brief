@@ -1,146 +1,162 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "design",
   "window_hours": 72,
-  "now_iso": "2026-08-14T22:05:00Z",
+  "now_iso": "2026-08-18T22:00:30Z",
   "items": [
     {
-      "url": "https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/",
-      "source": "Figma",
+      "url": "https://dev.to/studiomeyer_io/mcp-servers-for-figma-jira-gitlab-and-playwright-3npl",
+      "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-08-13T20:30:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/09c7f5c6f195f7683818bd404e9413ecfdf5f4c3-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma argues that AI accelerates execution but not clarity, so teams increasingly mistake polished AI output for a sound decision. It lays out the context layers — design systems, a stated point of view, explicit constraints — that keep fast AI work pointed at the right problem instead of generating tech debt."
+      "published_iso": "2026-08-17T13:08:47Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstudiomeyer.io%2Fblog%2Fmcp-server-figma-jira-gitlab-playwright.webp",
+      "excerpt": "A practical setup guide for wiring Figma, Jira, GitLab and Playwright MCP servers into a coding agent, covering the different auth models and what each server actually exposes. Positions the Figma MCP server as the design-context bridge in an agent toolchain."
     },
     {
-      "url": "https://blog.logrocket.com/ux-design/ai-ui-placement/",
-      "source": "LogRocket Blog",
+      "url": "https://dev.to/siddharthbhalsod/designers-are-shipping-code-who-owns-what-breaks-1c85",
+      "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-08-13T18:00:28Z",
-      "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/08/Where-should-AI-go-in-your-UI-A-UX-guide-to-AI-feature-placement.jpg",
-      "excerpt": "A practical UX framework for deciding where an AI feature physically lives in a product — floating widget, inline assist, sidebar or a dedicated hub. The argument is that placement, not model quality, determines whether users discover, trust and keep using the AI."
+      "published_iso": "2026-08-17T04:48:20Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlqhw2hi1w57oarthc69.png",
+      "excerpt": "In Figma Make a designer can describe a checkout flow in plain English and watch working code appear — which moves shipping power to design but leaves ownership of failures unresolved. Argues teams need explicit accountability rules once design output becomes production code."
     },
     {
-      "url": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-08-14T19:26:56Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*xvtp0yZKsPxJu0T3C0eU_A.png",
-      "excerpt": "The piece names the gap between what AI is actually reliable for and what it merely looks reliable for, and argues that most design-team AI enablement programs fail in exactly that gap. It pushes teams to define task-level reliability boundaries before rolling AI out across a craft workflow."
-    },
-    {
-      "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-08-13T22:18:13Z",
-      "og_image": "",
-      "excerpt": "A rethink of how design leadership works when a team is part human, part agent swarm. It swaps the org-chart model for flocking behaviour — shared direction and local rules — as the way to coordinate designers running many AI agents at once."
-    },
-    {
-      "url": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-08-12T11:18:05Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*LL55_9WxXR8u-giQv6FKNA.jpeg",
-      "excerpt": "\"Everyone can design\" is back as AI tools hand generation to non-designers — but this time, the author argues, designers hold the leverage. The essay reframes democratised tooling as permission for designers to ship without waiting on others."
-    },
-    {
-      "url": "https://zeroheight.com/blog/ai-ethics-in-design-systems-part-3-can-ai-augmented-design-systems-actually-democratize-design/",
-      "source": "zeroheight",
+      "url": "https://dev.to/adilaidev/ai-features-users-dont-want-and-what-they-actually-need-5556",
+      "source": "DEV Community",
       "category": "tokens",
-      "published_iso": "2026-08-14T07:50:13Z",
-      "og_image": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/07/AI_Ethics_In_Design_Systems_Part_3-2.png",
-      "excerpt": "Part three of zeroheight's AI-ethics series asks whether AI-augmented design systems really democratise design or just concentrate authorship in whoever writes the rules. It examines who gains access, who loses judgement, and what governance a system team owes its consumers."
+      "published_iso": "2026-08-18T20:21:30Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.adilaidev.com%2Fapi%2Fcover-brand%2F%3Fsrc%3Dhttps%253A%252F%252Fimages.pexels.com%252Fphotos%252F30530414%252Fpexels-photo-30530414.jpeg%253Fauto%253Dcompress%2526cs%253Dtinysrgb%2526h%253D650%2526w%253D940%26w%3D1200%26h%3D630",
+      "excerpt": "Most AI integrations fail because they interrupt an existing workflow instead of improving it. Lays out which AI affordances users actually adopt and how to place them so the feature earns its interface real estate."
     },
     {
-      "url": "https://zeroheight.com/blog/building-moodles-design-system-for-machine-consumption-from-scratch/",
-      "source": "zeroheight",
-      "category": "tokens",
-      "published_iso": "2026-08-12T08:26:55Z",
-      "og_image": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/Building_Moodles_Design_System_For_Machine_Consumption_From_Scratch_V1.png",
-      "excerpt": "A build log of Moodle's design system rebuilt from scratch to be consumed by machines, not just humans — structured tokens, documentation and component metadata that AI agents can read directly. It is a concrete template for making a design system agent-legible."
+      "url": "https://vercel.com/changelog/cline-harness-adapter",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-08-18T18:21:42Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2cYTu4xzwJOSDWWritIZL3/857ec383f12c5d6e073b2bbd16ee2764/image.png",
+      "excerpt": "Cline is now available in the AI SDK harness layer through the @ai-sdk/harness-cline adapter, built with the Cline team. Any harness-compatible agent can now be run through the same HarnessAgent interface, making agent backends swappable in product and prototype builds."
     },
     {
-      "url": "https://zeroheight.com/blog/standardizing-documentation-the-design-system-documentation-spec-and-the-w3c/",
-      "source": "zeroheight",
-      "category": "tokens",
-      "published_iso": "2026-08-12T14:14:20Z",
-      "og_image": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/blogpost-w3c-social-1024x576.png",
-      "excerpt": "zeroheight details the Design System Documentation Spec now moving through the W3C, aiming to standardise how component docs are structured across tools. A shared machine-readable doc format is the missing half of design tokens for AI-driven handoff."
+      "url": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-08-17T18:11:23Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/bIjyA5JmMBA6pLrLlGwSQ/6eef09e0811cacd4038a3ec8776cde4a/vercel-cursor-og.png",
+      "excerpt": "Pro and Enterprise teams can connect Cursor Origin repositories to Vercel so agent-authored pull requests automatically get Preview Deployments and production deploys on merge. Closes the loop between an IDE agent and a reviewable, shareable UI build."
     },
     {
-      "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
-      "source": "Engadget",
-      "category": "render",
-      "published_iso": "2026-08-14T19:04:42Z",
-      "og_image": "https://www.engadget.com/img/gallery/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/intro-1786734224.jpg",
-      "excerpt": "Google is adding a toggle that removes the visible sparkle watermark from images and video made with its Nano Banana, Omni and Lyria models, while invisible SynthID marks and C2PA metadata stay attached. It changes what AI-generated creative assets look like when they ship into client work."
-    },
-    {
-      "url": "https://www.creativebloq.com/art/digital-art/i-just-found-a-daily-doodle-website-thats-the-most-joyful-middle-finger-to-ai-art",
+      "url": "https://www.creativebloq.com/design/design-software/why-are-we-still-treating-canva-like-a-dirty-little-secret",
       "source": "Creative Bloq",
       "category": "figma",
-      "published_iso": "2026-08-13T11:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/aXkAW9vKeVHpC35s5LiMJ-640-80.png",
-      "excerpt": "Bakatako is a daily doodle site where artists draw and share one prompt a day with no feeds, metrics or generators. Creative Bloq frames it as a deliberate human-made counterweight to the AI-art flood — a signal about where illustrators are putting their attention."
+      "published_iso": "2026-08-17T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/MALewXXLaLSgXSZbDoH4L7-1920-80.jpg",
+      "excerpt": "Canva now ships AI code and app building to every user, yet professional designers still treat it as an embarrassing tool. Asks whether the industry's status hierarchy of design software survives when the 'amateur' tool has the same generative capabilities."
     },
     {
-      "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
-      "source": "Vercel",
+      "url": "https://blog.logrocket.com/ux-design/interaction-hci-principles-types-examples/",
+      "source": "LogRocket Blog",
       "category": "figma",
-      "published_iso": "2026-08-13T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3UHwfbngr1cY9BcpRkJbjI/dc86b1b9db0bcf0b0273659423f19494/acp-harness-support-og.png",
-      "excerpt": "Vercel's new @ai-sdk/harness-acp package is a meta adapter that lets any Agent Client Protocol-compatible harness run through the AI SDK's HarnessAgent. For product teams building AI features into interfaces, it removes the per-vendor rewrite when swapping agent runtimes."
+      "published_iso": "2026-08-18T15:30:47Z",
+      "og_image": "https://blog.logrocket.com/wp-content/uploads/2024/08/interaction-in-hci-principles-types-examples.png",
+      "excerpt": "A refresher on human-computer interaction principles and interaction types, framed for designers working on conversational, voice and agentic interfaces. Useful grounding as HCI fundamentals get re-applied to AI-native product surfaces."
     },
     {
-      "url": "https://vercel.com/changelog/grok-build-harness-adapter",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-08-13T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1aYFutSKwnbPukYVLWRtr7/41a3b2f2bba94da049dc15a4133fd253/grok_build_is_now_available_in_the_ai_sdk_harness__og_c.png",
-      "excerpt": "Grok Build is now available in the AI SDK harness layer via the @ai-sdk/harness-grok-build adapter, built on the ACP harness. Prompt-to-UI builders can call it through the same HarnessAgent interface as every other coding agent."
-    },
-    {
-      "url": "https://dev.to/paulcrinigan/what-you-actually-get-from-an-ai-logo-generator-2odc",
-      "source": "DEV Community",
+      "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+      "source": "CSS-Tricks",
       "category": "tokens",
-      "published_iso": "2026-08-14T20:51:51Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9z6ufb8x.png",
-      "excerpt": "A blunt audit of what AI logo generators actually hand over — raster files, no type licensing, no system — now that people are launching brands on them. Useful ammunition for designers arguing the gap between a mark and an identity system."
+      "published_iso": "2026-08-17T14:15:50Z",
+      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png",
+      "excerpt": "Lea Verou pushes back on three-state light/dark/system toggles, arguing two states plus a correct default covers every real color-scheme scenario. A concrete token-and-theming decision that design systems keep getting wrong."
     },
     {
-      "url": "https://dev.to/raja-abbas-affandi/how-i-built-a-visual-ai-agent-builder-with-tool-calling-architecture-tools-and-lessons-28pb",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-08-14T22:01:20Z",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/bdn4vwfc9p5fbpvbl183.png",
-      "excerpt": "A build write-up of AgentForge, a visual node-based builder for custom AI agents with tool calling. The most requested feature turned out to be a UI one: live cards showing each tool call's inputs, outputs and timing — a concrete pattern for designing agent transparency."
+      "url": "https://www.engineering.com/opinion-ai-has-passed-the-mechanical-turing-test/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-08-17T16:23:55Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_maorfarid_thumb.png",
+      "excerpt": "Leo AI CEO Maor Farid argues mechanical engineering has crossed a 'mechanical Turing test' threshold — AI-generated designs are now indistinguishable from human-made manufacturable parts, citing a 791% rise in positive user responses by July."
     },
     {
-      "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
-      "source": "TechCrunch",
-      "category": "workflow",
-      "published_iso": "2026-08-12T15:56:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=1024",
-      "excerpt": "Facebook has shipped a standalone Creator Studio app with an AI creator assistant that reads performance and audience data, surfaces the comments worth answering, and drafts replies in the creator's voice. It pushes AI from asset generation into the creator's day-to-day operating loop."
+      "url": "https://www.engineering.com/scaling-ai-agents-is-where-things-get-complicated/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-08-18T18:01:41Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/05/agentic-ai-documentation-stockimage-1024x683.png",
+      "excerpt": "Incremental agent pilots are fine, but the payoff only lands when teams use them as a bridge to redesigning the process itself. A caution against bolting agents onto existing design and documentation workflows unchanged."
     },
     {
-      "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-updated-weights",
-      "source": "VentureBeat",
-      "category": "workflow",
-      "published_iso": "2026-08-13T16:47:55Z",
+      "url": "https://www.engineering.com/humans-in-the-loop-is-likely-the-fastest-way-to-ai-value/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-08-18T13:00:00Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/BrightMachines_Talent_0472-2.jpg",
+      "excerpt": "The more valuable and complex a design process becomes, the more important it is to define exactly where the machine stops and the person takes over. Frames human-in-the-loop handoff points as the highest-leverage AI design decision."
+    },
+    {
+      "url": "https://develop3d.com/3d-printing/heygears-g1x-colour-resin-3d-printer/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-08-18T09:59:35Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/HeyGears-g1X-3dprinter.jpg",
+      "excerpt": "HeyGears' G1X brings full-colour resin 3D printing to the desktop at a sub-£3,000 Kickstarter price. Lowers the cost of turning generated or CAD-authored concepts into colour-accurate physical prototypes."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/artdeck-is-a-new-alternative-to-pureref-that-supports-video/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-08-18T04:30:23Z",
       "og_image": "",
-      "excerpt": "DeepSeek released an open-source coding harness positioned against Claude Code, alongside updated V4-Pro weights on its API. For design-engineering teams it widens the set of self-hostable agents that can turn specs and mockups into working front-end code."
+      "excerpt": "ArtDeck is a new $6 visual reference board app for art, animation and motion graphics that adds video support, colour sampling, measurement and onion-skinning. A PureRef alternative aimed at reference-heavy concept and lookdev workflows."
     },
     {
-      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-      "source": "VentureBeat",
-      "category": "workflow",
-      "published_iso": "2026-08-13T18:02:54Z",
-      "og_image": "",
-      "excerpt": "Google's Gemini 3.7 Flash is aimed squarely at coding and agent workloads with a 50% introductory price cut. Cheaper fast-tier models are what make always-on design-to-code and UI-critique agents affordable to run in a product team's loop."
+      "url": "https://80.lv/articles/this-coral-growth-simulation-looks-beautiful-and-mesmerizing/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-18T21:56:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49805/images/6a84d50e57ca6/contain_1200x630.jpg",
+      "excerpt": "A procedural coral growth simulation showing generative/algorithmic growth rules producing organic geometry. A reminder that rule-driven generation, not just prompt-driven models, still produces the most controllable procedural form."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VIiPvMoEnsY",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "category": "social",
+      "published_iso": "2026-08-17T19:46:56Z",
+      "og_image": "https://i.ytimg.com/vi/VIiPvMoEnsY/maxresdefault.jpg",
+      "excerpt": "Adobe walks through turning a single source image into a full set of on-brand assets using Adobe Stock's AI Studio. A concrete brand-consistency workflow for teams generating campaign variants from one hero image."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IeT5Jn7d1aM",
+      "source": "Matt Wolfe (YouTube)",
+      "category": "social",
+      "published_iso": "2026-08-18T21:11:16Z",
+      "og_image": "https://i.ytimg.com/vi/IeT5Jn7d1aM/maxresdefault.jpg",
+      "excerpt": "A live behind-the-scenes teardown of a fully automated AI content system, showing how the agent chain, tooling and handoffs are actually wired together. Useful reference for creatives building their own production automation."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3uBiTsj8YSo",
+      "source": "Theo - t3.gg (YouTube)",
+      "category": "social",
+      "published_iso": "2026-08-18T17:00:33Z",
+      "og_image": "https://i.ytimg.com/vi/3uBiTsj8YSo/maxresdefault.jpg",
+      "excerpt": "Theo explains why he no longer works in a terminal, moving agent-driven building into a different surface entirely. A signal that the interface for agentic making is itself becoming a design problem."
     }
   ],
+  "notes": {
+    "gate": "Every published_iso verified from og article:published_time / JSON-LD datePublished / RSS pubDate on the article page itself, then gated with pipeline/freshness.py against now_iso 2026-08-18T22:00:30Z, section=design (72h). All 17 printed FRESH.",
+    "per_source_cap": "dev.to 3, Engineering.com 3, youtube.com 3, Vercel 2, all others 1. 10 distinct outlets.",
+    "dropped_for_cap": [
+      "dev.to — 'Figma用にフラットイラストを生成するSkillを作成しました' (2026-08-16T14:28:01Z, FRESH) — dropped, dev.to already at 3",
+      "dev.to — 'AI and Design: Who Really Gains the Upper Hand?' (2026-08-18T18:28:12Z, FRESH) — dropped, dev.to already at 3"
+    ],
+    "dropped_stale_or_unverifiable": [
+      "VentureBeat 'Anthropic ships major Claude Design overhaul' — real published 2026-06-17, STALE",
+      "VentureBeat 'Figma Make two-way GitHub integration' — real published 2026-05-28, STALE",
+      "Figma blog / release notes — newest dated items 2026-08-13/14/17 but the 08-17 release-note entry has no per-entry permalink or machine-readable published time; dropped rather than guessed",
+      "uxdesign.cc (Medium) Aug-2026 AI-design essays — 403 to every fetch method, published time unverifiable, dropped",
+      "80.lv AI features (Meshy 3D Agent, Hyper3D Rodin, BlendCap) — verified published 2026-06/07, STALE"
+    ],
+    "coverage_gaps": "vr category produced zero fresh design×AI items: UploadVR and Road to VR published only VR game/release news 08-16→08-18, and apple.com had no visionOS design update in window. render is thin for the same reason — cgchannel and 80.lv ran VFX-breakdown and Blender-craft pieces, no generative-3D tool releases landed in the 72h window."
+  },
   "dedup": {
     "dropped": 0,
     "kept": 17,

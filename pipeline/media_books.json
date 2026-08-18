@@ -1,31 +1,32 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "books",
   "media": [
     {
-      "id": "books-training-data-petition",
+      "id": "books-amazon-destructive-scanning",
       "type": "image",
-      "src": "pipeline/media/books-training-data-petition.jpg"
+      "src": "pipeline/media/books-amazon-destructive-scanning.png"
     },
     {
-      "id": "books-author-ai-policy",
+      "id": "books-synthetic-consensus",
       "type": "image",
-      "src": "pipeline/media/books-author-ai-policy.jpg"
+      "src": "pipeline/media/books-synthetic-consensus.jpg"
     },
     {
-      "id": "books-commonwealth-prize-delay",
-      "type": "image",
-      "src": "pipeline/media/books-commonwealth-prize-delay.jpg"
+      "id": "books-claude-watermark-word-choice",
+      "type": "video",
+      "src": "pipeline/media/books-claude-watermark-word-choice.mp4",
+      "poster": "pipeline/media/books-claude-watermark-word-choice.jpg"
     },
     {
-      "id": "books-false-name-book-scraping",
+      "id": "books-china-publishing-ai-standards",
       "type": "image",
-      "src": "pipeline/media/books-false-name-book-scraping.jpg"
+      "src": "pipeline/media/books-china-publishing-ai-standards.png"
     },
     {
-      "id": "books-agent-ethics-ai-gap",
+      "id": "books-code-yes-novels-no",
       "type": "image",
-      "src": "pipeline/media/books-agent-ethics-ai-gap.jpg"
+      "src": "pipeline/media/books-code-yes-novels-no.png"
     }
   ]
 }

@@ -1,150 +1,109 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "music",
-  "now_iso": "2026-08-14T22:05:00Z",
   "window_hours": 336,
-  "count": 18,
-  "note": "Music section, 14-day window. Note: window_hours('2026-08-14T22:05:00Z') returns the design default 72 when called without a section arg, so 336 (music) is set explicitly here — every item was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-14T22:05:00Z music` and printed FRESH. Published times were read from each article page (og article:published_time / JSON-LD datePublished / visible byline date) via WebFetch, never from search snippets. Where a page exposed only a relative date ('1 day ago', '4 days ago', '8 days ago' on musictech.com) the ISO was derived from now_iso and the time-of-day set to a conservative midday value; those items sit far inside the 336h window either way. Sources swept via section indexes/RSS rather than search snippets (search results skewed heavily stale): musictech.com (news, news/gear, news/industry), musicradar.com/news/tech, gearnews.com (+ /tag/ai/), bedroomproducersblog.com, synthtopia.com, cdm.link (+ /tag/ai/), kvraudio.com/news, hypebot.com, musicbusinessworldwide.com, midiaresearch.com/blog, soundonsound.com/news, attackmagazine.com/news, djmag.com/tech, completemusicupdate.com, engadget.com, techcrunch.com, factmag.com. Keyword expansion beyond keywords_music.json: BMG/Kobalt publisher licensing, EU AI Act labelling, AI-assisted plugin development (Audio Plugin Coder, AI-coded synths), 'anti-banger' data-poisoning music, Rust DAW with native AI sample generation, AI vinyl pressing, creator-survey data on AI acceptance, 'why no AI hit yet'. Blocked/dead for our user agent: theverge.com and pitchfork.com (WebSearch rejects them), digitalmusicnews.com (403 on both category and article pages), billboard.com + rollingstone.com (307 -> tollbit paywall, 402), music-ally.com (redirects to linkfire.com), residentadvisor.net/ra.co and mixmag.net (403 / JS-only), waterandmusic.com (archive gated), youtube.com channel pages returned no video listings so social contributed nothing. Dropped as STALE after real-date verification: musicradar Roland Melody Flip (2026-03-18), musicradar Google/ProducerAI (2026-02-25), musicradar prompts-to-plugins feature (2026-06-26), musicradar FL Studio agentic chatbot (2026-07-10), musictech Moises AI Studio (2025-08-20), musictech Udio Styles (2025-04-03), musictech Splice x ElevenLabs (2026-05-19), musictech Fender Studio Pro 8.1 (2026-06-10), attackmagazine FL Studio 2026 (2026-07-09), attackmagazine PEEL STEMS 2 (2026-07-08), attackmagazine Yamaha Creator Pass (2026-06-30), kvraudio TonalBrain Mix (2026-06-08), djmag Gemini/Lyria 3 (2026-02-20), MBW Vocalist AI (2024-04-08). Dropped as AI-business noise with no design/creative hook: MBW Ticketmaster-in-Gemini, engadget DeepSeek pricing, techcrunch Anthropic watermarking, musictech InMusic/Native Instruments UK shutdown. Overlap warning for the curator: items 1, 3, 12 and 14 are four outlets on the same Suno x BMG licensing story — pick at most one. Item 18 (Beatport bans AI music) overlaps avoid_topics '2026-08-14 Beatport refusing fully AI-generated tracks'; kept only for pool depth, likely a dedupe drop.",
+  "now_iso": "2026-08-18T22:00:30Z",
   "items": [
     {
-      "url": "https://www.gearnews.com/suno-x-bmg-ai-tech/",
-      "source": "gearnews",
-      "category": "music",
-      "published_iso": "2026-08-13T09:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/suno-x-bmg-T.jpg",
-      "title": "Suno x BMG: AI music platform strikes its second major label licensing deal",
-      "excerpt": "Suno has signed a global licensing deal with BMG covering both recorded and publishing repertoire, its second major-label agreement after Warner. Universal and Sony are still pursuing legal action against the platform."
-    },
-    {
-      "url": "https://www.gearnews.com/suno-vinyl-tech/",
-      "source": "gearnews",
-      "category": "music",
-      "published_iso": "2026-08-04T09:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/suno-vinyl-ft-770x425.jpg",
-      "title": "Suno Vinyl: press your AI-generated music to a real 12-inch record",
-      "excerpt": "Suno is launching a vinyl pressing service that turns a user's generated tracklist into a custom 12-inch with a designed sleeve, around $45 per record. It pushes prompt-made music into a physical, collectible object."
-    },
-    {
-      "url": "https://www.musicradar.com/music-tech/ais-ties-to-major-labels-deepen-as-suno-strikes-licensing-deal-with-bmg",
+      "url": "https://www.musicradar.com/music-tech/nearly-40-percent-of-music-released-last-month-used-ai",
       "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-08-12T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Hs7GLoBT5ic3R5PUt3YnRE.png",
-      "title": "AI's ties to major labels deepen as Suno strikes licensing deal with BMG",
-      "excerpt": "Suno has reached an agreement with BMG to build AI models trained on licensed music, with participating artists and songwriters compensated. It precedes Suno's first generative model developed in partnership with the industry."
+      "published_iso": "2026-08-18T18:00:47Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XXHevshUVGR2sDatTDUhbE-1759-80.jpg",
+      "excerpt": "A SubmitHub study found AI involvement detected in nearly 40% of music released in July, with almost a quarter fully AI-generated. It's the clearest data yet on how fast generative tools have entered everyday release workflows."
     },
     {
-      "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
+      "url": "https://musictech.com/guides/buyers-guide/best-ethical-ai-music-plugins/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-08-18T15:46:51Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2025/08/moises-studio-ai-daw@2000x1500-1068x801.jpg",
+      "excerpt": "LANDR, Moises AI, Voice-Swap and more: a roundup of six AI music tools that license their training data and share revenue with the artists behind it. A practical guide for producers who want AI in the chain without the ethical debt."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/alibaba-launches-ai-song-generator-happyshrimp-1-0-in-beta-with-chinas-taihe-music-signed-up-for-artist-co-creation/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-08-18T13:39:56Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/image1-e1787028035370.png",
+      "excerpt": "Alibaba has launched HappyShrimp 1.0 in beta, an AI song generator whose prompts can specify instrumentation, vocal style and how a track's energy shifts across its running time. China's Taihe Music has signed up for artist co-creation."
+    },
+    {
+      "url": "https://cdm.link/organismi-or-1/",
       "source": "CDM",
       "category": "music",
-      "published_iso": "2026-08-05T09:00:00Z",
-      "og_image": "https://cdm.link/app/themes/cdm/grfx/cdm-logo-black-transparent.png",
-      "title": "Music to confuse AI might be the next new genre",
-      "excerpt": "Artists including MattstaGraham and iamriverhawk are deliberately writing 'anti-bangers' — deformed, unconventional tracks made in the hope that AI trains on them. Data poisoning is turning into an actual creative practice."
+      "published_iso": "2026-08-18T14:16:59Z",
+      "og_image": "https://cdm.link/app/uploads/2026/08/IMG_0066-scaled.png",
+      "excerpt": "Organismi OR—1 is a generative, stochastic MIDI pattern generator — free for iPad as an AUv3, €19.99 on macOS. A reminder that algorithmic composition tools can feel organic rather than machine-made."
     },
     {
-      "url": "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/",
+      "url": "https://www.musicbusinessworldwide.com/round-hill-sues-suno-and-anthropic-for-up-to-1bn-apiece-it-isnt-looking-to-settle/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-08-18T13:14:35Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/GettyImages-72922516.jpg",
+      "excerpt": "Publisher Round Hill has filed separate copyright suits against Suno and Anthropic seeking up to $1bn each, with statutory damages of up to $150,000 per work willfully infringed. It says it isn't looking to settle — a counterweight to the wave of licensing deals."
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/08/17/opentune-pitch/",
       "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-08-08T09:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/phosphor-1-728x364.jpg",
-      "title": "OA-Labs releases Phosphor-1, a FREE unstable analog-style synth for macOS",
-      "excerpt": "A designer-musician built this free virtual-analog synth in about two months using AI to write the code, spending the saved time on the interface and the sound. Its 'Age' knob drifts pitch, filter, level and shape together."
+      "published_iso": "2026-08-17T11:00:07Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/opentune.jpg",
+      "excerpt": "OpenTune is a free, open-source AI pitch-correction tool for Windows and macOS — a Melodyne/Auto-Tune-style alternative built on a neural approach. Still in beta, and currently Chinese-only in the UI."
     },
     {
-      "url": "https://www.kvraudio.com/news/noizefield-updates-audio-plugin-coder-to-v1-4-0---juce-9-support-guided-setup-and-unique-ai-workflow-commands-68080",
-      "source": "KVR Audio",
-      "category": "music",
-      "published_iso": "2026-08-14T09:00:00Z",
-      "og_image": "https://static.kvraudio.com/i/s/noizefield_audio-plugin-coder_product_image.png",
-      "title": "Noizefield updates Audio Plugin Coder to v1.4.0 — JUCE 9 support, guided setup and AI workflow commands",
-      "excerpt": "Audio Plugin Coder is an open-source framework that turns a natural-language plugin concept into a buildable VST3/AU project using AI agents. v1.4.0 adds JUCE 9.0.1 support, a setup wizard and dedicated AI workflow commands."
-    },
-    {
-      "url": "https://www.hypebot.com/where-artists-draw-the-line-on-ai-uppeat-creator-report/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-08-14T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/The-Uppbeat-Creator-Report.jpg",
-      "title": "Where artists draw the line on AI: Uppbeat Creator Report",
-      "excerpt": "A survey of nearly 1,800 creative professionals found only 6.7% accept fully AI-generated content, while roughly 60% welcome AI as a collaborator. It maps where creators actually draw the assist-versus-replace line."
-    },
-    {
-      "url": "https://www.hypebot.com/the-era-of-unlabeled-ai-content-in-europe-is-ending/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-08-05T12:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-4-AI-EU.jpg",
-      "title": "The era of unlabeled AI content in Europe is ending",
-      "excerpt": "The EU AI Act's transparency rules mean AI-generated content should no longer be anonymous, requiring disclosure when audio, images, video or text are machine-made or manipulated. Music creators get new labelling obligations."
-    },
-    {
-      "url": "https://www.engadget.com/2236313/spotify-has-roped-the-indie-pubisher-kobalt-into-its-ai-platform-for-covers-and-remixes/",
-      "source": "Engadget",
-      "category": "music",
-      "published_iso": "2026-08-13T15:49:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/spotify-has-roped-the-indie-publisher-kobalt-into-its-ai-platform-for-covers-and-remixes/intro-1786636073.jpg",
-      "title": "Spotify has roped indie publisher Kobalt into its AI platform for covers and remixes",
-      "excerpt": "Spotify signed Kobalt for its forthcoming AI covers-and-remixes tool, a paid Premium add-on that lets fans generate their own versions of licensed songs. Participating writers get an extra royalty line."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/after-universal-and-merlin-deals-spotify-inks-agreement-with-kobalt-for-ai-powered-fan-made-covers-and-remixes/",
+      "url": "https://www.musicbusinessworldwide.com/robert-kyncl-justifies-suno-deal-as-umg-and-sony-press-on-with-lawsuit-in-my-opinion-you-embrace-it/",
       "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-08-13T10:00:00Z",
-      "og_image": "",
-      "title": "After Universal and Merlin deals, Spotify inks agreement with Kobalt for AI-powered fan-made covers and remixes",
-      "excerpt": "Kobalt is the first publisher outside Universal to license Spotify's fan-facing AI remix tool. Spotify's Charlie Hellman frames it as 'grounded in consent, credit, and compensation for the songwriters who take part'."
+      "published_iso": "2026-08-17T19:52:38Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/RobertSemafor-1296x682.png",
+      "excerpt": "Warner Music CEO Robert Kyncl defended the label's Suno licensing deal on Semafor's Mixed Signals podcast while UMG and Sony press on with litigation: \"In my opinion, you embrace it.\" A split in how majors are positioning generative music tools."
     },
     {
-      "url": "https://www.musicbusinessworldwide.com/suno-inks-global-licensing-deal-with-bmg/",
-      "source": "Music Business Worldwide",
+      "url": "https://www.synthtopia.com/content/2026/08/17/free-browser-based-application-gesture-live-turns-your-webcam-into-an-instrument/",
+      "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-08-12T10:00:00Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/MikeyShulman.jpg",
-      "title": "Suno inks global licensing deal with BMG",
-      "excerpt": "Suno's agreement with BMG covers recorded and publishing repertoire worldwide, following its Warner deal nine months earlier. Artists and songwriters must opt in before their work feeds the models."
+      "published_iso": "2026-08-17T18:30:04Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/gestural-synthesis.jpg",
+      "excerpt": "gesture.live is a free browser-based app from developer Robin van Soelen that turns a webcam into a gestural instrument via hand tracking. No hardware controller required — just a browser and a camera."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/08/14/suno-lawsuit-dismissals-jamendo-american-dollar/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-08-15T06:05:17Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Suno-Jamendo-Dismissal.jpg",
+      "excerpt": "Both The American Dollar and Jamendo have abruptly dropped their copyright infringement lawsuits against Suno. The quiet dismissals hint at settlements reshaping the legal ground under AI music generation."
+    },
+    {
+      "url": "https://musictech.com/features/interviews/vibe-coding-has-come-for-music-plugins-are-we-witnessing-a-revolution/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-08-14T08:53:10Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Evan-Mezeske-hero-credit-Chris-Hayzel@2000x1500-1068x801.jpg",
+      "excerpt": "AI-assisted plugin development is redefining how music software gets made, and by whom. Developers describe shipping DSP tools without a traditional coding background — and what that does to the plugin market."
     },
     {
       "url": "https://musictech.com/news/industry/suno-alliance-bmg-ai-choice-artists/",
       "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2025/11/Suno-logo-hero@2000x1500.jpg",
-      "title": "Suno forms 'global alliance' with BMG giving musicians 'real choice' over AI use",
-      "excerpt": "The partnership sets out opt-in protections and compensation for artists and marks Suno's first model developed with the industry rather than around it. Legal challenges elsewhere in the sector continue."
+      "published_iso": "2026-08-13T14:29:51Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2025/11/Suno-logo-hero@2000x1500-1068x801.jpg",
+      "excerpt": "BMG and Suno have formed a \"global alliance\" promising new revenue streams for artists plus opt-in choice over whether their work trains or feeds generative AI. It also settles Suno's prior use of BMG recordings and publishing works."
     },
     {
-      "url": "https://musictech.com/news/industry/suno-ai-responsible-human/",
-      "source": "MusicTech",
+      "url": "https://www.musicradar.com/artists/guitarists/brian-may-asked-ai-to-recreate-the-cover-of-queens-the-game-he-wasnt-happy-with-the-results-so-this-is-the-kind-of-intelligence-that-will-soon-be-ruling-the-world",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-08-06T12:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/02/suno-phone-logo@2000x1500.jpg",
-      "title": "Suno CEO insists Suno is 'responsible' and isn't going to leave people behind",
-      "excerpt": "Mikey Shulman says watermarking and download limits are coming as Suno tries to hold the line between democratising music creation and enabling copyright abuse. The pitch is AI that widens who gets to make music."
-    },
-    {
-      "url": "https://musictech.com/news/music/daft-punks-thomas-bangalter-explains-why-hes-not-interested-in-the-creative-use-of-ai/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-08-10T12:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Thomas-Bangalter-hero-new@2000x1500.jpg",
-      "title": "Daft Punk's Thomas Bangalter explains why he's 'not interested in the creative use of AI'",
-      "excerpt": "Bangalter argues the meaningful part of making music is non-verbal and emotional, not describable in a prompt: 'we can't have technology do that for us.' A pointed counterweight to prompt-first tooling."
-    },
-    {
-      "url": "https://www.synthtopia.com/content/2026/08/13/beatport-bans-ai-generated-music/",
-      "source": "Synthtopia",
-      "category": "music",
-      "published_iso": "2026-08-13T14:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/beatport-bans-ai-music-320x168.png",
-      "title": "Beatport bans AI-generated music",
-      "excerpt": "Beatport is extending its Beatdapp partnership to block fully or majority AI-generated tracks while still allowing AI-assisted work where a human is the primary creator, after 77% of its DJ community backed supporting human artists."
+      "published_iso": "2026-08-13T09:36:30Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/cSXKRMyxVLoLMH3meAkTJc-2000-80.jpg",
+      "excerpt": "Brian May asked an AI image generator to recreate Queen's The Game cover and was unimpressed: \"So this is the kind of intelligence that will soon be ruling the world??!\" A pointed test of generative tools against real music artwork."
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 15,
+    "dropped": 0,
+    "kept": 12,
     "against_days": 5
   }
 }

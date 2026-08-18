@@ -1,31 +1,41 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "science",
   "media": [
     {
-      "id": "science-ai-mathematics-human",
+      "id": "science-attribution-decay",
       "type": "image",
-      "src": "pipeline/media/science-ai-mathematics-human.jpg"
+      "src": "pipeline/media/science-attribution-decay.jpg",
+      "source_url": "https://news.mit.edu/sites/default/files/images/202608/dai-gifford-ai-image-training-data-00_1.png",
+      "origin": "in-article lead image (MIT News)"
     },
     {
-      "id": "science-language-free-reasoning",
+      "id": "science-herbarium-flowering",
       "type": "image",
-      "src": "pipeline/media/science-language-free-reasoning.jpg"
+      "src": "pipeline/media/science-herbarium-flowering.jpg",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/can-artificial-intelli-1.jpg",
+      "origin": "og:image from selected_science.json (phys.org HTML is 403 to curl)"
     },
     {
-      "id": "science-earlydetect-solar-emergence",
+      "id": "science-photoscan-insulin",
       "type": "image",
-      "src": "pipeline/media/science-earlydetect-solar-emergence.jpg"
+      "src": "pipeline/media/science-photoscan-insulin.png",
+      "source_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhotoScanIR_Overview.png",
+      "origin": "in-article lead figure (Google Research)"
     },
     {
-      "id": "science-llm-grant-narrowing",
+      "id": "science-dna-memristor",
       "type": "image",
-      "src": "pipeline/media/science-llm-grant-narrowing.jpg"
+      "src": "pipeline/media/science-dna-memristor.jpg",
+      "source_url": "https://www.sciencedaily.com/images/1920/dna-research-genetics-technology.webp",
+      "origin": "in-article lead image (ScienceDaily), webp converted to jpg"
     },
     {
-      "id": "science-cerebellum-memtransistor",
+      "id": "science-tissue-clocks",
       "type": "image",
-      "src": "pipeline/media/science-cerebellum-memtransistor.jpg"
+      "src": "pipeline/media/science-tissue-clocks.jpg",
+      "source_url": "https://cemm.at/fileadmin/_processed_/5/3/csm_Thyroid_4ea230c693.png",
+      "origin": "CeMM original press release image (EurekAlert release has no multimedia; its og:image is the generic EurekAlert logo)"
     }
   ]
 }

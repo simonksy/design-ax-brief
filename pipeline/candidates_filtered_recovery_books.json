@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-19",
+  "section": "books",
+  "window_hours": 336,
+  "mode": "recovery-pass",
+  "note": "Recovery collection. Burned keywords from keywords_books.json avoided; searched adjacent angles (e-reader AI assistants, library e-lending/OverDrive, shadow-library training data, manga/webtoon AI, AI literary translation, China/Korea publishing AI standards, craft essays on AI drafting, scholarly AI cognition). All URLs checked against published_urls.json books map and candidates_books.json.",
+  "items": [
+    {
+      "url": "https://www.writersdigest.com/i-let-ai-write-my-code-i-wont-let-it-write-my-novels",
+      "source": "Writer's Digest",
+      "category": "books",
+      "published_iso": "2026-08-18T01:25:00Z",
+      "og_image": "https://www.writersdigest.com/uploads/2026/06/kevin-hincker-author-photo-e1781830488900.png?auto=webp",
+      "excerpt": "Novelist and software developer Kevin Hincker hands all his coding to AI agents but refuses to let it near his fiction. His argument is a craft one: programmers need predictability, while 'surprises in novels are a structural requirement' that AI drafting quietly sands away."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-08-12T12:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig_1_Cognitive_Responsibility_Framework_Subtitle_Updated_300_DPI-copy-683x1024.jpg",
+      "excerpt": "Ashutosh Ghildiyal proposes a cognitive responsibility framework splitting 'mechanical cognition' (retrieval, pattern-matching — safe to delegate to AI) from discovery, discernment and judgment, which must stay human. The warning for publishers: once AI mediates the first encounter with evidence, it shapes judgment instead of grounding it."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-17-2026/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-08-17T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+      "excerpt": "China's Academy of Press and Publication will unveil the country's first sector-specific AI application standards for publishing at the China International Digital Publishing Expo (Aug 27–29). The same roundup reports AI was 'the central topic' for 3,500+ librarians at IFLA's World Library and Information Congress in Korea."
+    },
+    {
+      "url": "https://www.csmonitor.com/Arts-Culture/Books/2026/0812/ai-publishing-commonwealth-prize-shy-girl",
+      "source": "The Christian Science Monitor",
+      "category": "books",
+      "published_iso": "2026-08-13T21:42:00Z",
+      "og_image": "https://images.csmonitor.com/csm/2026/07/1216612_1_0729-ai_writer_standard.png?alias=standard_1200x800nc",
+      "excerpt": "A survey of the collapsing-deal wave — Jerry Falade's $2M crime novel, Hachette's canceled 'Shy Girl' — shows publishers policing AI use with no shared disclosure rule and no reliable detector. Watermarking from AI vendors is emerging as the industry's least-bad provenance bet.",
+      "offlist_reason": "On-list trade outlets (PW, The Bookseller, Book Riot, Jane Friedman) had already-published or duplicate coverage of the AI-authorship trust story; this is the only fresh, unpublished synthesis found."
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 4,
+    "against_days": 5
+  }
+}
