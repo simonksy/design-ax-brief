@@ -1,24 +1,48 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-08-14T22:05:00Z",
+  "now_iso": "2026-08-18T22:00:30Z",
   "items": [
     {
-      "url": "https://www.destructoid.com/ai-qa-program/",
-      "source": "Destructoid",
+      "url": "https://www.gamesindustry.biz/three-epic-veterans-are-building-an-ai-powered-game-engine-to-break-the-industrys-doom-cycle",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-08-08T19:14:11+00:00",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2025/12/ai-stock-image.jpg",
-      "excerpt": "Square Enix confirmed at Google Cloud Next Tokyo '26 that it is building an automated QA platform with Google's Gemini — an agent that watches the screen, listens to game audio and drives the controls to play in-development builds itself. The project is backed by Japan's Ministry of Economy, Trade and Industry, putting AI playtesting on the same industrialisation track as art and code tooling."
+      "published_iso": "2026-08-18T13:32:01+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/logo-with-wordmark-coloured-1920x1080-vertical-black-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Three Epic Games veterans — including former Unreal lead evangelist Sjoerd De Jong and ex-Unreal product director Arjan Brussee — detail Immens, a European game engine whose architecture, tooling and asset pipelines are built from scratch around AI agents rather than bolting AI on. They pitch it as a way for small teams to cut cost and dev time amid mounting discontent with Unity and Unreal."
     },
     {
-      "url": "https://www.gamesradar.com/games/pokemon/viral-pokemon-pc-port-gen1recomp-gets-gold-support-as-dev-says-its-not-vibe-coded-even-though-ai-helped-with-development/",
-      "source": "GamesRadar+",
+      "url": "https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-08-13T22:00:11Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/A9zneYLDSTHZ4axMdnF9pB-1920-80.jpg",
-      "excerpt": "The developer of viral Pokemon PC recompilation Gen1Recomp added beta Gold support and used the moment to draw a hard line between AI-assisted engineering and vibe coding: 'was AI used? yes... Specifically, using AI = vibe coding. Which is not true.' It is a rare, concrete articulation of where working developers now place the boundary between assistant and author."
+      "published_iso": "2026-08-17T17:43:23+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/JoinUs_WolfHausGames_KeyArtClean1080_082225.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Wolf Haus's co-founders explain how a 12-person team is shipping the large-scale cult simulator Join Us using in-house tech and explicitly no generative AI — a counter-case to the 'AI lets small teams do AAA' pitch, arguing custom tooling and Hollywood-style production discipline do the same job."
+    },
+    {
+      "url": "https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-08-11T14:05:37+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A survey of Gamescom Dev 2026 speakers finds nearly half expect AI-assisted development to be the single most significant industry trend of the next three years, with concrete predictions about smaller teams, changed role definitions and shifted production timelines."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-08-12T14:42:54Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6e9ff417175153e6/6a7c8a66f99fa04965db827a/THE_ALTERS_Announcement_KV_FINAL_nologo.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Game Developer's read on the same 100-speaker Gamescom Dev survey: developers expect generative AI to reshape which roles exist and how big teams get, with the sharpest effects landing on art, QA and production support rather than on core design."
+    },
+    {
+      "url": "https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-08-18T22:00:10+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/Neverness-To-Everness-new-1.3-update-artwork-Hotta-Games.jpg",
+      "excerpt": "Players in China spotted a free-trial watermark for ByteDance's Doubao AI image tool left on in-game seahorse artwork in Neverness To Everness' 1.3 update — an accidental disclosure of generative AI in a shipped live-service art pipeline."
     },
     {
       "url": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
@@ -26,103 +50,79 @@
       "category": "games",
       "published_iso": "2026-08-07T13:19:46+00:00",
       "og_image": "https://assetsio.gnwcdn.com/skyrim-modding-ai-feature-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A long feature on how generative AI is reshaping game modding — AI voice packs, AI textures and AI-written quests — and why host platforms like Nexus Mods struggle to keep disclosure and transparency workable at scale. The UGC layer is where AI labelling policy is being stress-tested first."
+      "excerpt": "A long feature on generative AI inside the Skyrim modding scene, reported from the perspective of players, modders and the mod-hosting sites themselves — including why disclosure tagging keeps failing and how UGC platforms are struggling to build workable AI policy."
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/videogame-lawyer-says-its-become-just-boilerplate-this-year-to-include-no-ai-clauses-in-contracts-its-not-worth-the-legal-liability/",
-      "source": "PC Gamer",
+      "url": "https://www.rockpapershotgun.com/for-a-few-weeks-women-were-just-dropping-their-babies-the-witcher-3-lead-on-designing-npcs-that-react-appropriately",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-08-13T10:41:03Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7gLeER4Zzrhn8o2b3mzzR6-2560-80.jpg",
-      "excerpt": "A games industry lawyer says no-AI clauses have become 'just boilerplate' in 2026 client contracts, because the legal liability and player backlash outweigh any production saving. The contract layer is quietly becoming the place where studios decide which AI tools artists and writers may actually touch."
+      "published_iso": "2026-08-15T18:08:30+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/the-witcher-3-hearts-of-stone-a.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A Witcher 3 lead on the craft of NPC reaction systems: an ambitious fear-response behaviour had to be cut after weeks of grotesque emergent failures, a cautionary tale for anyone now wiring LLM-driven NPC autonomy into open worlds."
     },
     {
-      "url": "https://gamesbeat.com/from-tiktok-to-mini-apps-how-sekai-wants-to-transform-vibe-coding-into-a-creator-medium/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-08-05T16:51:32+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/EDITORIAL-CANVA-23.png",
-      "excerpt": "Sekai, founded by a former ByteDance executive, says users have prompted more than 20 million playable mini-apps — mini-games, quizzes and interactive memes — at roughly 250,000 a day, and is building a tool that turns a dropped-in TikTok video into a playable game. It is the clearest argument yet that prompt-to-playable is a consumer creation medium, not just a prototyping shortcut."
-    },
-    {
-      "url": "https://gamesbeat.com/autodesk-launches-3d-editor-canvas-to-bring-generative-ai-to-filmmaking/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-08-04T14:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/autodesk.jpg",
-      "excerpt": "Autodesk launched 3D Editor + Canvas inside Flow Studio, adding directable 3D control on top of generative AI output so artists can block out and steer a shot instead of re-rolling prompts. The 'give the generator a real 3D scene to obey' pattern is the same one game art pipelines are converging on."
-    },
-    {
-      "url": "https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-08-10T13:48:22+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/no-mans-sky-1200x675.jpg",
-      "excerpt": "Hello Games' Sean Murray — whose studio built a career on procedural generation — says he is in no rush to adopt generative AI and will wait to see what becomes the norm: 'the hard things are still hard, of making a game feel really nice to play.' A pointed counterweight from the developer with the strongest claim to generated-content expertise."
-    },
-    {
-      "url": "https://unity.com/blog/5-tips-for-using-github-copilot-with-unity",
-      "source": "Unity",
-      "category": "games",
-      "published_iso": "2026-08-11T19:33:22+00:00",
-      "og_image": "https://unity.com/unity-logo-2024.png",
-      "excerpt": "Unity published a practical guide to driving GitHub Copilot against a Unity project — context setup, prompt patterns and where the assistant reliably helps versus where it produces plausible-but-wrong engine code. Vendor-level guidance on AI coding assistants is now shipping as first-party documentation rather than community folklore."
-    },
-    {
-      "url": "https://wccftech.com/stalker-2-update-2-0-new-weapons-smarter-a-life-cost-of-hope/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-08-14T13:00:00+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/stalker-2-cost-of-hope-1920x1080.jpg",
-      "excerpt": "STALKER 2's Update 2.0 lands August 20 with a reworked A-Life system that makes NPC factions behave more coherently off-screen, alongside four new weapons and visual work. A reminder that simulation-side 'smart NPC' craft is advancing independently of LLM character middleware."
-    },
-    {
-      "url": "https://aftermath.site/kamaitachi-no-yoru-london-spirit-detectives-kownloons-gate-innocent-tears/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-08-12T20:22:35+00:00",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/IMG_6614.jpg",
-      "excerpt": "Kamaitachi no Yoru, London Spirit Detectives, Kowloon's Gate and Innocent Tears are reaching Western players through fan translations done deliberately without machine translation. A working argument about what LQA and literary localisation still require that an AI pipeline cannot supply."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-studio-ceo-defends-ai-music-video-because-evie-was-originally-created-from-head-to-toe-by-the-devs-but-fans-say-thats-not-the-point/",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-devs-tried-to-give-npcs-fear-reactions-but-it-got-cut-after-a-few-horrifying-weeks-when-women-were-just-dropping-their-babies-left-and-right/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-08-04T11:08:41Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QkweHvhGXwhG8kUpapjUXS-1920-80.jpg",
-      "excerpt": "Shift Up CEO Kim Hyung Tae defended Stellar Blade: Blood Rain's AI-regenerated music video by arguing the AI 'is not creating her from scratch. It is rendering and presenting the character based on the data, designs, and craftsmanship our team created.' The dispute is a clean test case for how much authored asset provenance buys a studio in the eyes of players."
+      "published_iso": "2026-08-18T14:45:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Z6t76LEBAiCVQWA3uCVwtB-1920-80.jpg",
+      "excerpt": "CD Projekt Red couldn't ship the NPC fear-reaction system it prototyped for The Witcher 3 because emergent crowd behaviour broke in horrifying ways — a concrete case study in how hard believable autonomous NPC behaviour actually is to tune."
     },
     {
-      "url": "https://gamesbeat.com/amazon-draws-on-assassins-creed-lore-for-its-first-fully-ai-generated-television-series/",
-      "source": "GamesBeat",
+      "url": "https://www.rockpapershotgun.com/rideshare-stimulator-finally-gets-its-genai-disclosure-after-much-saber-rattling-and-it-turns-out-the-game-also-uses-the-tech-for-in-game-music",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-08-12T19:21:56+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/image-1024x576.png",
-      "excerpt": "Amazon released what it calls the first fully AI-generated long-form drama series on a major streaming platform, built on Assassin's Creed lore. Game IP is becoming the test bed for end-to-end generative production, with the visual-consistency and art-direction problems that implies."
+      "published_iso": "2026-08-14T15:26:30+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Rideshare Stimulator's Steam genAI disclosure finally lands and reveals a wider footprint than admitted — generative tech is used for in-game music as well as writing — while Saber's CEO frames genAI adoption as 'swim or die' for studios."
     },
     {
-      "url": "https://www.pcgamer.com/games/action/stellar-blade-boss-completely-misses-the-point-of-why-people-are-upset-with-blood-rains-ai-slop-video-the-ai-is-not-creating-evie-from-scratch/",
-      "source": "PC Gamer",
+      "url": "https://www.gamespot.com/articles/rideshare-stimulator-outlines-ai-usage-after-contentious-exchange-with-ex-writer/",
+      "source": "GameSpot",
       "category": "games",
-      "published_iso": "2026-08-04T11:38:28Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Zwa5CrAGW7z7YCYZ93F4Km-2560-80.png",
-      "excerpt": "PC Gamer's read on the Stellar Blade: Blood Rain fallout: the studio's defence sidesteps the actual complaint, which is that a marketing asset for a game sold on hand-crafted character art was handed to a generator. A useful case study in where audiences draw the AI line for game-adjacent creative output."
+      "published_iso": "2026-08-14T19:33:38Z",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/08/Rideshare-Stimulator.jpg",
+      "excerpt": "Saber Interactive publishes a breakdown of exactly where AI was used on Rideshare Stimulator after former lead writer Stella Sacco said she had been replaced by ChatGPT — a rare, itemised studio disclosure of genAI in a shipping production."
     },
     {
-      "url": "https://80.lv/articles/game-studios-are-moving-beyond-legacy-version-control-and-here-s-why",
-      "source": "80 Level",
+      "url": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
+      "source": "Eurogamer",
       "category": "games",
-      "published_iso": "2026-08-04T16:04:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/48972/images/6a3c4c91e7417/contain_1200x630.png",
-      "excerpt": "80 Level looks at why studios are abandoning legacy version control for cloud-native systems like Diversion, citing AI coding agents and distributed teams generating far more churn than Perforce-era workflows assumed. Infrastructure is quietly being rebuilt around the volume of changes AI-assisted production creates."
+      "published_iso": "2026-08-16T15:04:33+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Saber CEO Matthew Karch privately apologises to writer Stella Sacco after publicly saying he would have been happy to replace her with AI — the closing beat of the industry's loudest current fight over genAI in narrative roles."
     },
     {
-      "url": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
-      "source": "Game Developer",
+      "url": "https://www.eurogamer.net/1666-amsterdam-ai-tools-controversy",
+      "source": "Eurogamer",
       "category": "games",
-      "published_iso": "2026-08-12T14:42:54+00:00",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6e9ff417175153e6/6a7c8a66f99fa04965db827a/THE_ALTERS_Announcement_KV_FINAL_nologo.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "A survey of 100 Gamescom Dev Conference speakers finds developers expect generative AI to reshape roles and shrink team sizes within three years, while remaining deeply ambivalent about the quality trade-off. Read as a forecast of how discipline boundaries inside studios get redrawn."
+      "published_iso": "2026-08-11T15:54:22+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/1666-amsterdam-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "After apologising for gen-AI art assets spotted in 1666: Amsterdam, the studio confirms it is still using AI tools in production — 'we live in a world full of AI, let's be honest with ourselves' — and explains where in the art pipeline they sit."
+    },
+    {
+      "url": "https://aftermath.site/1666-amsterdam-ai-game/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-08-14T22:03:47Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Screenshot-2026-08-14-092127.png",
+      "excerpt": "Aftermath's reported follow-up on 1666: Amsterdam quotes the developer's economic argument for AI in concept work — 'I can ask the AI to give me 75 different variations of one thing, but I cannot have 75 different illustrators come up with a variation in three seconds' — and weighs it against what the game actually shipped."
+    },
+    {
+      "url": "https://aftermath.site/twitch-amazon-ai-labels-aioptedout-noai-nogenai/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-08-13T21:35:03Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/shutterstock_2288469007.jpg",
+      "excerpt": "With Twitch declining to label which streams use AI or were opted into AI training, streamers are building their own disclosure vocabulary — tags like AIOptedOut, NoGenAI and NoAI — creating a bottom-up provenance standard on a games platform."
+    },
+    {
+      "url": "https://www.gamespot.com/articles/sony-oasis-loving-ceo-thinks-were-going-to-crave-human-made-art-in-the-age-of-ai/",
+      "source": "GameSpot",
+      "category": "games",
+      "published_iso": "2026-08-18T15:21:08Z",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4524100-astro-bot.jpg",
+      "excerpt": "Sony CEO Hiroki Totoki argues that as AI-generated content floods creative fields, players will increasingly seek out demonstrably human-made work — a platform-holder signal on how PlayStation may position craft and authorship as product value."
     }
   ]
 }

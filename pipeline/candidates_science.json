@@ -1,187 +1,130 @@
 {
- "date": "2026-08-15",
- "section": "science",
- "now_iso": "2026-08-14T22:05:00Z",
- "window_hours": 336,
- "count": 19,
- "note": "Science section, 14-day window (336h). window_hours('2026-08-14T22:05:00Z') returns the 72h design default, so 336 is set explicitly per the science freshness rule. Every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-14T22:05:00Z science` and printed FRESH. Collection method: WebSearch quota is shared across 7 parallel librarians, so after 8 searches I switched to direct RSS/archive harvesting via curl, which is far higher yield for a 14-day window. Swept: phys.org (daily archive pages 01-08-2026 through 14-08-2026, plus physics/biology/space/chemistry/earth/nanotech/science RSS), sciencedaily.com (AI, quantum computers, neuroscience, materials, math, CS, chemistry, psychology, space RSS + full /releases/2026/08/ directory index, 133 articles fetched and body-scanned for AI mentions), scientificamerican.com (syndication RSS), technologyreview.com (main + AI topic feed), livescience.com (all-items feed, body-scanned), physicsworld.com (main + AI category feed), quantamagazine.org (feed - no fresh AI items), universetoday.com (main + ML tag - fresh items are all non-AI; the two AI hits from search were Oct 2025 / Jan 2026, dropped as stale), space.com (all-items feed, body-scanned), skyandtelescope.org (feed - nothing fresh on AI), thequantuminsider.com (main, AI and ai-tag feeds, /2026/08/ archive - only funding/partnership items, dropped as AI-business noise), genengnews.com (main + AI topic feed), statnews.com (main + health-tech feed), fiercebiotech.com (feed - no fresh AI items), deepmind.google (blog RSS), research.google (blog RSS - both August posts already covered on 2026-08-14 and 2026-08-12), allenai.org (blog.rss returns no dated items), arxiv.org (export API, topic queries on 'AI for science', 'self-driving laboratory', 'quantum machine learning', 'protein language model'), biorxiv.org (bioinformatics collection feed - titles not exposed in feed, no verifiable item). Blocked/unavailable this run: newscientist.com (406 to our user agent and not accessible to WebSearch), physics.aps.org (403), psychologytoday.com (front feed has no AI items in window; apa.org news RSS empty). Published times: og article:published_time or JSON-LD datePublished via curl where available (scientificamerican, technologyreview, livescience, statnews, genengnews, deepmind, physicsworld, space); phys.org blocks curl with a bot interstitial so its four items were verified by WebFetch on the article page (exact DATE confirmed, clock time normalized to 12:00Z and flagged per item); sciencedaily exposes only a posted DATE (no clock time) so those are normalized to 12:00Z and flagged; arXiv uses the API <published> timestamp. Per-source cap enforced at 3 (phys.org 3, scientificamerican 3, technologyreview 3, sciencedaily 3, arxiv 3, plus 1 each from livescience, deepmind, genengnews, statnews) across 9 distinct outlets. Dropped as AI-business/policy noise or already covered: statnews Commure/Medicare/Epic items, thequantuminsider Morgan Stanley + Tamil Nadu MoU items, technologyreview 'startups chasing the next big thing in LLMs' and 'Trump AI protectionism', space.com 'SpaceX 1 million AI satellites' (compute infrastructure), deepmind 'Gemini 3.7 Flash' (product launch), livescience VLASH robots + research.google recall/AMIE + phys.org glacier-volume model (all already published in the last two days), physicsworld 'AI model helps physics Nobel laureate' (same jamming-conjecture story already covered 2026-08-09), sciencedaily WiFi identification (surveillance, weak science-method hook), phys.org catalyst-reproducibility and AI-designed-viruses items (held back only by the 3-per-outlet cap; the virus story is represented by the Scientific American piece).",
- "items": [
-  {
-   "url": "https://phys.org/news/2026-08-ai-hidden-solar-eruptions-hours.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-08-14T12:00:00Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/solar-eruptions.jpg",
-   "title": "New AI model detects hidden signs of solar eruptions hours before they emerge",
-   "excerpt": "Researchers built an AI model called EarlyDetect that spots precursor signals of solar active-region emergence in acoustic and magnetic-field data, forecasting their appearance an average of nearly nine hours in advance. It turns helioseismic noise that human forecasters cannot read into an actionable space-weather warning.",
-   "note": "Date confirmed via WebFetch on the article page (phys.org blocks curl with a bot interstitial); clock time normalized to 12:00Z."
-  },
-  {
-   "url": "https://phys.org/news/2026-08-ai-grant-narrowing-ideas.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-08-11T12:00:00Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot-3.jpg",
-   "title": "AI-assisted grant proposals may win more often—while narrowing research ideas",
-   "excerpt": "A Northwestern University study found NIH proposals showing stronger signs of AI-assisted writing were about four percentage points more likely to be funded — but they also resembled previously funded work more closely. The finding suggests LLM drafting quietly steers science toward safer, more conventional questions.",
-   "note": "Date confirmed via WebFetch; clock time normalized to 12:00Z."
-  },
-  {
-   "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-08-03T12:00:00Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-modeling-approa.jpg",
-   "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
-   "excerpt": "Lawrence Berkeley National Laboratory researchers built an AI model that predicts how solid materials actually react over time by accounting for atomic movement, not just thermodynamic endpoints. It forecasts reaction pathways and impurity formation in minutes, a step toward reliably planning inorganic synthesis.",
-   "note": "Date confirmed via WebFetch; clock time normalized to 12:00Z."
-  },
-  {
-   "url": "https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/",
-   "source": "Scientific American",
-   "category": "science",
-   "published_iso": "2026-08-10T20:20:00Z",
-   "og_image": "https://static.scientificamerican.com/dam/asset/483a16e5-03ef-462a-8d08-cbc0ecd5ae5b/AI-virus.jpg?m=1786398119",
-   "title": "Scientists are using AI to design new viruses. What could go wrong?",
-   "excerpt": "Generative models are now producing functional viral genomes from scratch, and research is outpacing the rules meant to govern AI-designed biology. The piece maps who is building these tools, what safeguards exist, and where the biosecurity gaps sit."
-  },
-  {
-   "url": "https://www.scientificamerican.com/article/can-ai-make-mathematics-more-human/",
-   "source": "Scientific American",
-   "category": "science",
-   "published_iso": "2026-08-11T18:00:00Z",
-   "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg",
-   "title": "Can AI make mathematics more human?",
-   "excerpt": "Mathematician Yang-Hui He argues that AI is fundamentally reshaping mathematical work — and that the shift pushes mathematicians toward taste, conjecture and meaning rather than away from them. A counterweight to the 'AI solved the theorem' headlines."
-  },
-  {
-   "url": "https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/",
-   "source": "Scientific American",
-   "category": "science",
-   "published_iso": "2026-08-14T10:00:00Z",
-   "og_image": "https://static.scientificamerican.com/dam/asset/246f046f-7e16-4b82-9e11-cadf66af2d5b/2608_SQ_FRI_SENSORIUM_AI.jpg",
-   "title": "This AI tool is redefining what it means to have a voice",
-   "excerpt": "A nonspeaking performer stars in an opera built around an AI communication system, a case study in using models to amplify rather than replace human expression. It ties assistive-technology research to a live creative work."
-  },
-  {
-   "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-   "source": "MIT Technology Review",
-   "category": "science",
-   "published_iso": "2026-08-10T09:00:00Z",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
-   "title": "AI for science needs reasoning, not just data",
-   "excerpt": "The argument: scaling scientific datasets is not what unlocks discovery — agents that model the actual reasoning process of research are. It reframes the 'AI co-scientist' push around inference and hypothesis structure instead of corpus size."
-  },
-  {
-   "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-   "source": "MIT Technology Review",
-   "category": "science",
-   "published_iso": "2026-08-10T20:00:00Z",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/pacademicAI1a.jpg?resize=1200,600",
-   "title": "AI professors are negotiating the new realities of academic research",
-   "excerpt": "A dispatch from the Schmidt Sciences AI2050 convening on how university researchers are adapting their labs, funding and publishing practices to an industry-dominated AI era. A ground-level view of how the research profession itself is changing."
-  },
-  {
-   "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-   "source": "MIT Technology Review",
-   "category": "science",
-   "published_iso": "2026-08-03T08:30:05Z",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
-   "title": "Here's why AI agents lie and cheat to reach their goals",
-   "excerpt": "An explainer on reward hacking: why agents optimized against imperfect objectives learn to game the measurement rather than solve the task. Directly relevant to anyone trusting an agent to run experiments or verify results."
-  },
-  {
-   "url": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
-   "source": "ScienceDaily",
-   "category": "science",
-   "published_iso": "2026-08-11T12:00:00Z",
-   "og_image": null,
-   "title": "MIT neuroscientists discover the brain can reason without words",
-   "excerpt": "MIT researchers found that language and logical reasoning run on separate brain systems: people with severe stroke-induced language impairment still solved hard logic puzzles, while scans showed language regions staying quiet. A pointed empirical challenge to the assumption that language models are reasoning models.",
-   "note": "ScienceDaily publishes a posted DATE with no clock time; normalized to 12:00Z."
-  },
-  {
-   "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
-   "source": "ScienceDaily",
-   "category": "science",
-   "published_iso": "2026-08-05T12:00:00Z",
-   "og_image": null,
-   "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
-   "excerpt": "A mathematician at Anthropic reports using Claude Fable 5 to find a strikingly simple counterexample to the Jacobian conjecture, showing it is false in three dimensions and above. The two-dimensional case remains open.",
-   "note": "Posted date August 5, 2026 (no clock time on page); normalized to 12:00Z."
-  },
-  {
-   "url": "https://www.sciencedaily.com/releases/2026/08/260801042834.htm",
-   "source": "ScienceDaily",
-   "category": "science",
-   "published_iso": "2026-08-02T12:00:00Z",
-   "og_image": null,
-   "title": "AI reveals a massive algae boom across the world's oceans",
-   "excerpt": "An AI analysis of 1.2 million satellite images shows floating algae blooms spreading across the global ocean at a scale no manual survey could have mapped. The seaweed mats could reshape marine habitats and hit coastal economies.",
-   "note": "Posted date August 2, 2026 (no clock time on page); normalized to 12:00Z."
-  },
-  {
-   "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-   "source": "Google DeepMind",
-   "category": "science",
-   "published_iso": "2026-08-06T16:00:00Z",
-   "og_image": null,
-   "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-   "excerpt": "DeepMind reports its WeatherNext model setting new accuracy marks on tropical cyclone track and intensity forecasting, the operational benchmark physics-based NWP has owned for decades. Published with the model being put in front of forecasters rather than kept as a benchmark result."
-  },
-  {
-   "url": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
-   "source": "Live Science",
-   "category": "science",
-   "published_iso": "2026-08-11T18:46:39Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/Q4rT8bEMhs2NS232EpvYBC-2000-80.png",
-   "title": "New AI chip mimics the human brain's capacity for split-second motor control — it solved problems using 10,000 times fewer calculations",
-   "excerpt": "A brain-inspired device only fires when it detects something unusual, solving control problems with roughly 10,000x fewer calculations than a conventional approach. The neuroscience-to-silicon route is pitched as a way off the power-guzzling data-center dependency."
-  },
-  {
-   "url": "https://www.genengnews.com/topics/artificial-intelligence/financial-value-of-ai-agents-in-drug-development/",
-   "source": "GEN (Genetic Engineering & Biotechnology News)",
-   "category": "science",
-   "published_iso": "2026-08-13T19:08:50Z",
-   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/GettyImages-2250769923.jpg",
-   "title": "Financial Value of AI Agents in Drug Development",
-   "excerpt": "An analysis of a Tufts CSDD study puts a number on agentic AI in clinical development: roughly ten weeks shaved off trial timelines. It is one of the first attempts to quantify what research agents actually change in a regulated R&D pipeline."
-  },
-  {
-   "url": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/",
-   "source": "STAT",
-   "category": "science",
-   "published_iso": "2026-08-03T08:30:00Z",
-   "og_image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1686952984-1024x576.jpeg",
-   "title": "Are AI scribes useful tools in medical education, or a crutch that imperils learning?",
-   "excerpt": "Medical educators want trainees fluent in AI scribes but worry that off-loading clinical note-writing removes the reasoning practice that turns observation into diagnostic skill. A concrete case of AI eroding the cognitive work that training depends on."
-  },
-  {
-   "url": "https://arxiv.org/abs/2608.08433",
-   "source": "arXiv",
-   "category": "science",
-   "published_iso": "2026-08-09T03:04:03Z",
-   "og_image": null,
-   "title": "The Input Problem: A Permanent Bottleneck for Quantum Machine Learning",
-   "excerpt": "The paper argues that quantum ML papers hide the cost of loading classical data into a quantum state, and that once basis, amplitude and Grover-Rudolph encodings are transpiled to real hardware gate sets, that loading step often costs more than the algorithm it feeds. A structural challenge to quantum-advantage claims in machine learning."
-  },
-  {
-   "url": "https://arxiv.org/abs/2608.12090",
-   "source": "arXiv",
-   "category": "science",
-   "published_iso": "2026-08-12T14:13:48Z",
-   "og_image": null,
-   "title": "Task- and dataset-specific information in protein language models",
-   "excerpt": "Protein language model embeddings are conventionally taken from the last layer, but this work shows that where the useful information lives depends on the downstream task and dataset. A practical correction to the default recipe used across computational-biology pipelines."
-  },
-  {
-   "url": "https://arxiv.org/abs/2608.00981",
-   "source": "arXiv",
-   "category": "science",
-   "published_iso": "2026-08-02T04:15:12Z",
-   "og_image": null,
-   "title": "Auditing Discovery Claims: A Two-Sided Criterion for Agentic Science, with the Negative Side Decidable",
-   "excerpt": "When a self-improving AI-for-science system claims a new capability, the usual evidence — a benchmark delta or a p-value — cannot separate a real gain from extra search or a changed verifier. The authors propose a two-sided audit whose negative side is formally decidable, giving reviewers a way to falsify agentic discovery claims."
-  }
- ]
+  "date": "2026-08-19",
+  "section": "science",
+  "now_iso": "2026-08-18T22:00:30Z",
+  "window_hours": 336,
+  "count": 12,
+  "note": "Science section, 14-day window (336h). window_hours('2026-08-18T22:00:30Z') returns the 72h design default, so 336 is set explicitly per the science freshness rule (freshness.py OTHER_WINDOW_H). Every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-18T22:00:30Z science` and printed FRESH. Published times were read off the article pages via WebFetch (og article:published_time / JSON-LD datePublished / dateline); where only a calendar date was exposed, the clock time was normalized to a mid-day UTC value that does not change the FRESH verdict. Collection notes: (a) phys.org and medicalxpress tag/RSS listings served a stale February 2026 cache to the fetcher, so August items were reached via search + direct article verification; (b) physics.aps.org and fiercebiotech.com returned HTTP 403 and contributed nothing; (c) quantamagazine.org, space.com, skyandtelescope.org, livescience.com, thequantuminsider.com and statnews.com were swept but had no fresh, on-topic AI-for-science item (TQI's August output was quantum business/policy; Physics World's AI-medicine pieces dated 21 and 31 July = STALE; EurekAlert's PoLARIS self-driving-lab release dated 4 May = STALE). (d) DROPPED as already published in pipeline/published_urls.json: DeepMind WeatherNext cyclone forecasting (2026-08-06) and MIT stroke-rehabilitation generative AI (2026-08-05). (e) DROPPED as business/policy noise per the relevance test: EurekAlert SUNY Poly DoD $61.9M AI contract and the $19.9M NSF AI-materials initiative, STAT's clinical-AI regulator and nurse-staffing pieces. (f) DROPPED as already covered in the last two published days: Universe Today 'Seven Needles, 800,000 Haystacks' (DESI quasar lens neural net), phys.org BU antibody language model, Google Research recall/factuality and AMIE. Per-outlet cap respected: Scientific American is at the 3-item ceiling; all other outlets contribute 1. 10 distinct outlets total.",
+  "items": [
+    {
+      "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-08-18T14:00:00Z",
+      "og_image": null,
+      "title": "When AI art has no author: Study finds generated images often can't be traced to training data",
+      "excerpt": "MIT researchers built a method that surgically removes individual training examples from a model and then measures what changes in its outputs. They find an 'attribution decay' effect: as datasets grow, deleting any single source image usually makes no measurable difference, so generated pictures often have no traceable ancestor.",
+      "note": "Date from the MIT News article dateline (2026-08-18); og:image is a site placeholder so left null. Gated FRESH."
+    },
+    {
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-08-17T14:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhotoScanIR_Overview.png",
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "excerpt": "Google Research introduced PhotoScan, a deep-learning system that estimates 3D body-composition metrics from ordinary 2D smartphone photos. It reaches near-clinical accuracy at predicting insulin resistance without DEXA or MRI hardware.",
+      "note": "Published date from the Google Research blog post header (2026-08-17). Gated FRESH."
+    },
+    {
+      "url": "https://www.universetoday.com/articles/the-telescope-that-points-itself",
+      "source": "Universe Today",
+      "category": "science",
+      "published_iso": "2026-08-10T22:43:00Z",
+      "og_image": "https://www.universetoday.com/article_images/Victor_M_Blanco_4-meter_Telescope_noirlab-tololo-02_20260810_224303.jpg",
+      "title": "The Telescope That Points Itself",
+      "excerpt": "Astronomers trained a scheduler on years of real observing logs — what human observers actually did night after night, not the rulebook — and let it drive the 570-megapixel Dark Energy Camera. The system wrote the night's plan and then re-planned live as sky conditions moved.",
+      "note": "Article page exposed no published_time meta; date taken from the Universe Today index listing (Aug 10, 2026) and corroborated by the asset timestamp 20260810_224303 embedded in the og:image filename. Gated FRESH."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-08-10T12:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/483a16e5-03ef-462a-8d08-cbc0ecd5ae5b/AI-virus.jpg",
+      "title": "Scientists Are Using AI to Design New Viruses. Should They Be?",
+      "excerpt": "Generative models have now produced entirely novel, functional viruses — a genuine milestone for AI-driven biological design. The same capability collapses the distance between designing a therapy and designing a pathogen, which is why biosecurity researchers want guardrails before the tooling spreads.",
+      "note": "Date from the Scientific American article page (2026-08-10); clock normalized to 12:00Z. Gated FRESH."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-08-17T12:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/cd3889fd-5093-4f64-9161-ebe1fb54c949/AI-bioweapons.jpg",
+      "title": "OpenAI Funds Research to Try to Stop AI from Being Used to Make Bioweapons",
+      "excerpt": "OpenAI awarded grants to 14 organizations, including the Nuclear Threat Initiative, to build an international information-sharing system for spotting AI-enabled biosecurity risks. The work targets exactly the capability that AI protein and virus design has just made real.",
+      "note": "Date from the Scientific American article page (2026-08-17); clock normalized to 12:00Z. Kept despite the grant framing because the substance is biosecurity research method, not a funding round. Gated FRESH."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-08-12T12:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/0b5fa77a-df8d-4154-814b-03977d035761/dice-primes.jpg",
+      "title": "No, Anthropic's AI Didn't Just Solve Math's Hardest Problem",
+      "excerpt": "Claude produced a real, checkable advance on a question about the distribution of prime numbers — but not a proof of the Riemann hypothesis, as the hype claimed. Mathematician James Maynard calls it 'a genuinely interesting mathematical contribution,' which is a narrower and more useful claim than the headlines.",
+      "note": "Date from the Scientific American article page (2026-08-12); clock normalized to 12:00Z. Distinct from the 08-12 card about OpenAI Astra / research-misconduct — this one is the Anthropic prime-numbers claim. Gated FRESH."
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-08-mental-health-emerge-ai-chatbot.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "published_iso": "2026-08-11T10:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/lonely-computer.jpg",
+      "title": "Mapping how mental health risks emerge in AI chatbot conversations",
+      "excerpt": "UCL researchers built SIM-VAIL, a framework that simulates mentally vulnerable users and audits how chatbots respond over a whole conversation rather than a single reply. Across nine models, 'concerning behavior in target chatbots was widespread,' and risk usually accumulated turn by turn instead of appearing in one bad answer.",
+      "note": "Date from the Medical Xpress article page (2026-08-11); clock normalized. Gated FRESH."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-08-17T04:48:00Z",
+      "og_image": null,
+      "title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "excerpt": "Penn State researchers paired synthetic DNA with a crystalline perovskite semiconductor to build a bio-hybrid memory element that stores more while drawing roughly 100x less power. The team frames it squarely at neuromorphic hardware: 'as the demand for artificial intelligence (AI) grows, we need a new strategy for low-power, high-storage devices.'",
+      "note": "ScienceDaily posted date Aug 17, 2026; release id encodes 2026-08-16 04:48. Used 2026-08-17T04:48:00Z. No og:image exposed. Gated FRESH."
+    },
+    {
+      "url": "https://allenai.org/blog/tutormoments",
+      "source": "Allen Institute for AI (Ai2)",
+      "category": "science",
+      "published_iso": "2026-08-07T12:00:00Z",
+      "og_image": null,
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "excerpt": "Ai2 released TutorMoments, an open replay-based evaluation framework that tests whether a model tutoring a student knows when to step in and when to stay quiet. It measures pedagogical restraint — a behaviour standard benchmarks never score.",
+      "note": "Date from the Ai2 blog listing and post header (2026-08-07); clock normalized to 12:00Z. No og:image found. Gated FRESH."
+    },
+    {
+      "url": "https://phys.org/news/2026-08-ai-million-digitized-specimens-reveal.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-08-18T10:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-artificial-intelli-1.jpg",
+      "title": "AI and 8 million digitized plant specimens reveal how the climate is changing nature in large parts of the world",
+      "excerpt": "Machine learning read flowering stages off eight million digitized herbarium sheets spanning a century, work contributed to by some 400 researchers in 40 countries. Global flowering times have shifted an average of 2.5 days per decade, with the sharpest moves in the tropics where rainfall patterns are breaking down.",
+      "note": "Date from the phys.org article page (2026-08-18); clock normalized. Gated FRESH."
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1139596",
+      "source": "EurekAlert! (CeMM, Austrian Academy of Sciences)",
+      "category": "science",
+      "published_iso": "2026-08-14T12:00:00Z",
+      "og_image": null,
+      "title": "Organs age at different speeds: a blood test might soon tell which ones",
+      "excerpt": "CeMM trained deep-learning 'tissue clocks' on more than 25,000 histology samples to read biological age straight from tissue architecture, then linked those signatures to blood markers. 'Deep learning lets us read these spatial patterns, capturing aging as architectural remodeling,' the team reports in Nature Medicine.",
+      "note": "Release date 14 August 2026 per the EurekAlert page; clock normalized to 12:00Z. No og:image exposed. Gated FRESH."
+    },
+    {
+      "url": "https://www.genengnews.com/topics/omics/human-cell-atlas-at-10-a-decade-of-discovery-and-the-road-to-hca-2-0/",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "category": "science",
+      "published_iso": "2026-08-17T09:00:00Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/OMI-Human-Cell-Atlas-Kyle-Klein-KK4_7945-scaled.jpg",
+      "title": "Human Cell Atlas at 10: A Decade of Discovery and the Road to HCA 2.0",
+      "excerpt": "HCA 2.0 is being planned explicitly as training substrate for AI: 'Most foundation models to date are already built on single cells from our atlases,' with new efforts adding spatial data so models keep tissue context. The payoff being chased is drug-target identification, therapy-outcome prediction and patient stratification from a virtual-cell model.",
+      "note": "PubDate 2026-08-17 from the GEN RSS feed and article page; clock normalized. Gated FRESH."
+    }
+  ]
 }

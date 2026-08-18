@@ -1,98 +1,140 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "design",
-  "selected_by": "curator (user deferred)",
+  "count": 5,
+  "note": "Auto-picked (user deferred). Content-level dedup applied vs sections.design today(2026-08-15) + days(08-09, 08-10, 08-11, 08-12, 08-14) — all 30 published cards reviewed by URL + topic, not by image. Dropped: Vercel 'Cline harness adapter' (@ai-sdk/harness-cline) as same source + same core release thread as the already-published 08-15 card 'AI SDK 하네스 어댑터가 런타임 대신 프로토콜을 감싼다' (@ai-sdk/harness-acp) — kept the Cursor Origin changelog instead, which is a distinct release and keeps Vercel at 1. Dropped LogRocket 'interaction/HCI principles' as evergreen rehash (and LogRocket already carried an AI-UX explainer on 08-15). Dropped the two remaining Engineering.com opinion pieces ('scaling AI agents', 'humans in the loop') as a same-source same-week opinion cluster — kept the single strongest (mechanical Turing test). Also considered and passed over: DEVELOP3D HeyGears G1X and CG Channel ArtDeck (no AI angle; ArtDeck additionally has no og_image), 80 Level coral sim, Creative Bloq Canva essay, Matt Wolfe / Theo YouTube (both generic agent-workflow vlogs). Diversity guard: 5 distinct outlets, max 1 per outlet; categories figma 2 (distinct accents), tokens 1, cad 1, social 1.",
   "picks": [
     {
       "rank": 1,
       "tool": "Figma",
-      "category": "figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/",
-      "source": "Figma",
-      "published_iso": "2026-08-13T20:30:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/09c7f5c6f195f7683818bd404e9413ecfdf5f4c3-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma argues that AI accelerates execution but not clarity, so teams increasingly mistake polished AI output for a sound decision. It lays out the context layers — design systems, a stated point of view, explicit constraints — that keep fast AI work pointed at the right problem instead of generating tech debt.",
-      "rationale": "First-party Figma guidance that a design team can apply tomorrow: name the context layers before letting agents run, so speed does not turn into tech debt."
+      "title": "MCP servers for Figma, Jira, GitLab and Playwright",
+      "url": "https://dev.to/studiomeyer_io/mcp-servers-for-figma-jira-gitlab-and-playwright-3npl",
+      "source": "DEV Community",
+      "published_iso": "2026-08-17T13:08:47Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstudiomeyer.io%2Fblog%2Fmcp-server-figma-jira-gitlab-playwright.webp",
+      "excerpt": "A practical setup guide for wiring Figma, Jira, GitLab and Playwright MCP servers into a coding agent, covering the different auth models and what each server actually exposes. Positions the Figma MCP server as the design-context bridge in an agent toolchain.",
+      "rationale": "The most directly actionable item in the pool: a step-by-step wiring of the Figma MCP server into a real agent toolchain, with the auth models spelled out."
     },
     {
       "rank": 2,
-      "tool": "Design Tokens",
-      "category": "tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "url": "https://zeroheight.com/blog/standardizing-documentation-the-design-system-documentation-spec-and-the-w3c/",
-      "source": "zeroheight",
-      "published_iso": "2026-08-12T14:14:20Z",
-      "og_image": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/blogpost-w3c-social-1024x576.png",
-      "excerpt": "zeroheight details the Design System Documentation Spec now moving through the W3C, aiming to standardise how component docs are structured across tools. A shared machine-readable doc format is the missing half of design tokens for AI-driven handoff.",
-      "rationale": "A real standards move at the W3C — the documentation counterpart to design tokens, and the thing that decides whether agents can read a design system at all."
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "title": "Deploy Cursor Origin repositories with Vercel, in public beta",
+      "url": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
+      "source": "Vercel",
+      "published_iso": "2026-08-17T18:11:23Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/bIjyA5JmMBA6pLrLlGwSQ/6eef09e0811cacd4038a3ec8776cde4a/vercel-cursor-og.png",
+      "excerpt": "Pro and Enterprise teams can connect Cursor Origin repositories to Vercel so agent-authored pull requests automatically get Preview Deployments and production deploys on merge. Closes the loop between an IDE agent and a reviewable, shareable UI build.",
+      "rationale": "Agent-written PRs now land as Preview Deployments automatically, so designers get a clickable URL to review instead of a diff."
     },
     {
       "rank": 3,
-      "tool": "Figma",
-      "category": "figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "url": "https://blog.logrocket.com/ux-design/ai-ui-placement/",
-      "source": "LogRocket Blog",
-      "published_iso": "2026-08-13T18:00:28Z",
-      "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/08/Where-should-AI-go-in-your-UI-A-UX-guide-to-AI-feature-placement.jpg",
-      "excerpt": "A practical UX framework for deciding where an AI feature physically lives in a product — floating widget, inline assist, sidebar or a dedicated hub. The argument is that placement, not model quality, determines whether users discover, trust and keep using the AI.",
-      "rationale": "Concrete placement patterns for AI features — the decision most product designers are actually making this week, framed as a UX problem rather than a model problem. Second card in the figma category, so it takes a distinct palette accent."
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "title": "Dark mode toggles: two states are enough",
+      "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+      "source": "CSS-Tricks",
+      "published_iso": "2026-08-17T14:15:50Z",
+      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png",
+      "excerpt": "Lea Verou pushes back on three-state light/dark/system toggles, arguing two states plus a correct default covers every real color-scheme scenario. A concrete token-and-theming decision that design systems keep getting wrong.",
+      "rationale": "A single theming decision most design systems get wrong, argued case by case by Lea Verou — changeable in a design system tomorrow."
     },
     {
       "rank": 4,
-      "tool": "AI Workflow",
-      "category": "render",
+      "tool": "Text-to-CAD",
       "accent": "#7928ca",
-      "motif": "frame",
-      "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
-      "source": "Engadget",
-      "published_iso": "2026-08-14T19:04:42Z",
-      "og_image": "https://www.engadget.com/img/gallery/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/intro-1786734224.jpg",
-      "excerpt": "Google is adding a toggle that removes the visible sparkle watermark from images and video made with its Nano Banana, Omni and Lyria models, while invisible SynthID marks and C2PA metadata stay attached. It changes what AI-generated creative assets look like when they ship into client work.",
-      "rationale": "Newest item in the pool and it directly changes deliverables: generated assets can now ship without the visible sparkle, while the invisible provenance marks stay."
+      "motif": "cube",
+      "title": "Opinion: AI has passed the mechanical Turing test",
+      "url": "https://www.engineering.com/opinion-ai-has-passed-the-mechanical-turing-test/",
+      "source": "Engineering.com",
+      "published_iso": "2026-08-17T16:23:55Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_maorfarid_thumb.png",
+      "excerpt": "Leo AI CEO Maor Farid argues mechanical engineering has crossed a 'mechanical Turing test' threshold — AI-generated designs are now indistinguishable from human-made manufacturable parts, citing a 791% rise in positive user responses by July.",
+      "rationale": "A dated threshold claim with usage numbers behind it, from the CEO of the leading text-to-CAD tool — the clearest read yet on where generative CAD output actually stands."
     },
     {
       "rank": 5,
-      "tool": "AI Workflow",
-      "category": "workflow",
-      "accent": "#ff5a4d",
+      "tool": "Social",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "url": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
-      "source": "Vercel",
-      "published_iso": "2026-08-13T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3UHwfbngr1cY9BcpRkJbjI/dc86b1b9db0bcf0b0273659423f19494/acp-harness-support-og.png",
-      "excerpt": "Vercel's AI SDK harness layer now works with any Agent Client Protocol (ACP)-compatible harness through the new @ai-sdk/harness-acp package. Instead of wrapping one runtime per adapter — Claude Code, Codex, Pi, Deep Agents, OpenCode — it wraps the protocol, so a design-engineering team can point HarnessAgent at any harness that ships an ACP package.",
-      "rationale": "A meta adapter that decouples agent workflows from a single vendor runtime — design-engineering teams can swap the harness behind their design-to-code agents without rewriting the integration."
+      "title": "Turn one image into a full set of on-brand assets with Adobe Stock AI Studio",
+      "url": "https://www.youtube.com/watch?v=VIiPvMoEnsY",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "published_iso": "2026-08-17T19:46:56Z",
+      "og_image": "https://i.ytimg.com/vi/VIiPvMoEnsY/maxresdefault.jpg",
+      "excerpt": "Adobe walks through turning a single source image into a full set of on-brand assets using Adobe Stock's AI Studio. A concrete brand-consistency workflow for teams generating campaign variants from one hero image.",
+      "rationale": "Adobe demonstrating its own brand-consistency workflow end to end — the campaign-variant problem every design team hits, answered with one hero image."
     }
   ],
-  "dedup": {
-    "pool_size": 17,
-    "checked_against": "sections.design — today (2026-08-14) + days 2026-08-08 … 2026-08-12, 30 published cards",
-    "dropped": [
-      {
-        "url": "https://vercel.com/changelog/grok-build-harness-adapter",
-        "reason": "within-pool duplicate — same source (Vercel changelog), same core topic and same day as the ACP harness-layer post; kept the broader meta-adapter item instead"
-      }
-    ],
-    "notes": "No candidate matched an already-published design story by URL, redirect/canonical, or by covering the same event under a different outlet. Figma and zeroheight appear in past days, but on unrelated topics (Figma agent skills 08-14, Figma Make RCT 08-12; zeroheight had no prior card)."
-  },
-  "diversity_guard": {
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "categories": {
-      "figma": 2,
-      "tokens": 1,
-      "render": 1,
-      "workflow": 1
+  "items": [
+    {
+      "rank": 1,
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "MCP servers for Figma, Jira, GitLab and Playwright",
+      "url": "https://dev.to/studiomeyer_io/mcp-servers-for-figma-jira-gitlab-and-playwright-3npl",
+      "source": "DEV Community",
+      "published_iso": "2026-08-17T13:08:47Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstudiomeyer.io%2Fblog%2Fmcp-server-figma-jira-gitlab-playwright.webp",
+      "excerpt": "A practical setup guide for wiring Figma, Jira, GitLab and Playwright MCP servers into a coding agent, covering the different auth models and what each server actually exposes. Positions the Figma MCP server as the design-context bridge in an agent toolchain.",
+      "rationale": "The most directly actionable item in the pool: a step-by-step wiring of the Figma MCP server into a real agent toolchain, with the auth models spelled out."
+    },
+    {
+      "rank": 2,
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "title": "Deploy Cursor Origin repositories with Vercel, in public beta",
+      "url": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
+      "source": "Vercel",
+      "published_iso": "2026-08-17T18:11:23Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/bIjyA5JmMBA6pLrLlGwSQ/6eef09e0811cacd4038a3ec8776cde4a/vercel-cursor-og.png",
+      "excerpt": "Pro and Enterprise teams can connect Cursor Origin repositories to Vercel so agent-authored pull requests automatically get Preview Deployments and production deploys on merge. Closes the loop between an IDE agent and a reviewable, shareable UI build.",
+      "rationale": "Agent-written PRs now land as Preview Deployments automatically, so designers get a clickable URL to review instead of a diff."
+    },
+    {
+      "rank": 3,
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "title": "Dark mode toggles: two states are enough",
+      "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+      "source": "CSS-Tricks",
+      "published_iso": "2026-08-17T14:15:50Z",
+      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png",
+      "excerpt": "Lea Verou pushes back on three-state light/dark/system toggles, arguing two states plus a correct default covers every real color-scheme scenario. A concrete token-and-theming decision that design systems keep getting wrong.",
+      "rationale": "A single theming decision most design systems get wrong, argued case by case by Lea Verou — changeable in a design system tomorrow."
+    },
+    {
+      "rank": 4,
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "title": "Opinion: AI has passed the mechanical Turing test",
+      "url": "https://www.engineering.com/opinion-ai-has-passed-the-mechanical-turing-test/",
+      "source": "Engineering.com",
+      "published_iso": "2026-08-17T16:23:55Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_maorfarid_thumb.png",
+      "excerpt": "Leo AI CEO Maor Farid argues mechanical engineering has crossed a 'mechanical Turing test' threshold — AI-generated designs are now indistinguishable from human-made manufacturable parts, citing a 791% rise in positive user responses by July.",
+      "rationale": "A dated threshold claim with usage numbers behind it, from the CEO of the leading text-to-CAD tool — the clearest read yet on where generative CAD output actually stands."
+    },
+    {
+      "rank": 5,
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "title": "Turn one image into a full set of on-brand assets with Adobe Stock AI Studio",
+      "url": "https://www.youtube.com/watch?v=VIiPvMoEnsY",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "published_iso": "2026-08-17T19:46:56Z",
+      "og_image": "https://i.ytimg.com/vi/VIiPvMoEnsY/maxresdefault.jpg",
+      "excerpt": "Adobe walks through turning a single source image into a full set of on-brand assets using Adobe Stock's AI Studio. A concrete brand-consistency workflow for teams generating campaign variants from one hero image.",
+      "rationale": "Adobe demonstrating its own brand-consistency workflow end to end — the campaign-variant problem every design team hits, answered with one hero image."
     }
-  },
-  "not_selected_top_alternates": [
-    "https://zeroheight.com/blog/building-moodles-design-system-for-machine-consumption-from-scratch/ — strong, but a second zeroheight card in the same tokens category; W3C spec ranked higher on novelty and industry reach",
-    "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/ — creator-side, weaker actionability for designers",
-    "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14 — essay, lower actionability than the picked five"
   ]
 }

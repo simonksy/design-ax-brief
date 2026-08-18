@@ -1,29 +1,33 @@
 {
+  "date": "2026-08-19",
+  "section": "games",
   "media": [
     {
-      "id": "games-no-ai-clause",
+      "id": "games-immens-engine",
       "type": "image",
-      "src": "pipeline/media/games-no-ai-clause.jpg"
+      "src": "pipeline/media/games-immens-engine.jpg"
     },
     {
-      "id": "games-unity-copilot-tips",
-      "type": "image",
-      "src": "pipeline/media/games-unity-copilot-tips.png"
+      "id": "games-wolf-haus-no-genai",
+      "type": "video",
+      "src": "pipeline/media/games-wolf-haus-no-genai.mp4",
+      "poster": "pipeline/media/games-wolf-haus-no-genai.jpg"
     },
     {
-      "id": "games-gen1recomp-not-vibe",
+      "id": "games-nte-doubao-watermark",
       "type": "image",
-      "src": "pipeline/media/games-gen1recomp-not-vibe.jpg"
+      "src": "pipeline/media/games-nte-doubao-watermark.jpg"
     },
     {
-      "id": "games-castle-walls-ai",
+      "id": "games-nexus-ai-tags",
       "type": "image",
-      "src": "pipeline/media/games-castle-walls-ai.jpg"
+      "src": "pipeline/media/games-nexus-ai-tags.jpg"
     },
     {
-      "id": "games-fan-translation-no-ai",
-      "type": "image",
-      "src": "pipeline/media/games-fan-translation-no-ai.jpg"
+      "id": "games-witcher3-fear-cut",
+      "type": "video",
+      "src": "pipeline/media/games-witcher3-fear-cut.mp4",
+      "poster": "pipeline/media/games-witcher3-fear-cut.jpg"
     }
   ]
 }

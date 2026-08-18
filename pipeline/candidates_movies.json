@@ -1,56 +1,104 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "movies",
-  "now_iso": "2026-08-14T22:05:00Z",
+  "now_iso": "2026-08-18T22:00:30Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/eli-roth-ice-cream-man-genai-265223.html",
+      "url": "https://www.hollywoodreporter.com/business/digital/mpa-inks-ai-video-ip-protection-bytedance-1236675016/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-17T13:32:43+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-2207982283-1.jpg?w=1296&h=730&crop=1",
+      "excerpt": "The Motion Picture Association and ByteDance signed a memorandum of understanding to protect film and TV intellectual property across ByteDance's generative products, covering the Seedance video models, Seedream image models, TikTok and more. It follows the February cease-and-desist over Seedance 2.0 deepfakes and sets the first studio-side guardrails for a mainstream video model."
+    },
+    {
+      "url": "https://deadline.com/2026/08/seedance-blocking-hollywood-ripoff-cruise-pitt-ai-deepfakes-1237031665/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-08-12T10:18:13+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png?w=1024",
+      "excerpt": "Research cited by Deadline finds ByteDance's Seedance 2.5 now blocks roughly 80% of prompts seeking copyrighted characters and celebrity likenesses, a sharp reversal from Seedance 2.0's viral Tom Cruise vs. Brad Pitt deepfakes. The change shows how fast prompt-level IP filtering is becoming table stakes for video models used in production."
+    },
+    {
+      "url": "https://variety.com/2026/tv/global/ai-generated-turkish-tv-series-castle-walls-prime-video-first-1236832779/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-08-12T09:01:32+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg?w=1000&h=563&crop=1",
+      "excerpt": "AI-generated Turkish short series 'Castle Walls' launched on Prime Video, billed as the first fully AI-made show to premiere on a global streamer. It is a live test of whether generative video can carry serialized narrative on a mainstream distribution platform."
+    },
+    {
+      "url": "https://variety.com/2026/digital/news/mirage-ai-generated-24-hour-news-channel-1236834107/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-08-13T19:37:49+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-3.26.17-PM.png?w=1000&h=563&crop=1",
+      "excerpt": "Startup Mirage ran a daylong experiment broadcasting a 24-hour newscast in which AI-generated anchors covered real stories. Variety's dispatch is a reality check on how far continuous, unattended AI video production is from watchable craft."
+    },
+    {
+      "url": "https://variety.com/2026/film/news/robin-williams-kids-revive-instagram-account-ai-slop-1236837661/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-08-18T20:49:58+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-02-at-8.40.57-AM.png?w=1000&h=563&crop=1",
+      "excerpt": "Robin Williams' children revived his Instagram account as a hub for his legacy and a countermeasure to what they call the 'rampant AI abuse' of his likeness. It is a working example of estates using owned channels as posthumous likeness governance in the AI-slop era."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-08-12T20:19:09+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/BillyJoelAI1.jpg?w=1440&h=810&crop=1",
+      "excerpt": "A filmmaker recovered a lost Billy Joel radio interview, then used AI to re-create the singer on screen for a documentary the artist had no part in. The piece is a case study in where unlicensed synthetic performance sits between archival craft and appropriation."
+    },
+    {
+      "url": "https://www.cartoonbrew.com/anime/studio-ghibli-future-hayao-miyazaki-265713.html",
       "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-08-05T09:08:00-07:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ice-Cream-Man-580x326.jpg",
-      "excerpt": "Director Eli Roth first described the animated sequences in his horror film 'Ice Cream Man' as a traditional hand-drawn process, then confirmed that \"AI was used in a very small portion of a few scenes in the film.\" The reversal reopens the question of how — and when — productions disclose generative AI in finished craft work."
+      "published_iso": "2026-08-18T07:42:10-07:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Studio-Ghibli.jpg",
+      "excerpt": "A new report goes inside Studio Ghibli as it plans its next film, names no successor to Hayao Miyazaki, and restates its position on AI. The studio's refusal of a master plan reads as a deliberate counter-model to AI-accelerated animation pipelines."
     },
     {
-      "url": "https://www.cined.com/artlist-sold-a-year-of-unlimited-seedance-2-5-for-500-and-delivered-a-week/",
+      "url": "https://www.animationmagazine.net/2026/08/animaze-2026-unveils-programming-highlights-first-ever-ai-animation-forum/",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-08-17T21:45:10+00:00",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Animaze_Bill-Plympton_Johnnie-Semerad.png",
+      "excerpt": "Animaze Montreal revealed its September 17-19 programming, including the festival's first-ever AI Animation Forum alongside a Bill Plympton retrospective. A major indie animation festival is formally putting generative pipelines on the main stage next to hand-drawn craft."
+    },
+    {
+      "url": "https://www.animationmagazine.net/2026/08/fillmmaker-ai-exec-verena-puhm-launches-matriarch-prodco-with-animation-projects/",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-08-14T17:30:26+00:00",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Free-Leonard-Peltier-2025.jpg",
+      "excerpt": "Filmmaker and AI executive Verena Puhm launched L.A.-based Matriarch, a production company developing AI-native and hybrid animation projects for its own slate and for third parties and brands. It is another sign that 'AI-native' is becoming a stated production model rather than a tool choice."
+    },
+    {
+      "url": "https://www.awn.com/news/fuzzy-doors-viewscreen-virtual-production-tech-heads-sea-moana",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-08-14T11:48:58-07:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/moana_sailing_trio_viewscreen_bts_still_fin-1280.png?itok=QCxerhO9",
+      "excerpt": "Seth MacFarlane's Fuzzy Door Technology ran its ViewScreen real-time visualization suite on Disney's live-action 'Moana,' feeding oceans, skies, a treasure cave and a 500-foot lava monster into the camera on set. Departments could judge blocking, lighting and framing against the finished world during the shoot rather than months later in post."
+    },
+    {
+      "url": "https://www.provideocoalition.com/descript-a-v-translation-dubbing-with-lip-sync-beyond-rotoscoping/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-08-16T15:12:46-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/OBSBOT-Meet-Pro-hero.jpg",
+      "excerpt": "Allan Tepper tests Descript's translation and dubbing feature and finds it is not rotoscoping at all: the model encodes the speaker's face into a latent space and regenerates the lower half of the face so mouth movement follows the new language while lighting, teeth and identity hold. A concrete look at how generative visual dubbing now works inside a mainstream editing app."
+    },
+    {
+      "url": "https://www.cined.com/rocxzoom-heading-to-kickstarter-robotic-50x-zoom-camera-with-ai-subject-tracking-from-ex-dji-engineers/",
       "source": "CineD",
       "category": "movies",
-      "published_iso": "2026-08-14T12:00:00Z",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/Artlist-Seedance-unlimited-featured-1300x750.jpg",
-      "excerpt": "Artlist sold filmmakers a year of \"unlimited\" access to ByteDance's Seedance 2.5 video model for $500, then pulled the unlimited tier within days and swapped it for a modest credit allowance. CineD's breakdown shows the per-second inference economics made the offer impossible from day one — a warning about how gen-video pricing is being marketed to creators."
-    },
-    {
-      "url": "https://postperspective.com/dalet-intros-cloud-native-suites-for-media-production-and-archive/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Solution-Suites-Dalet-624x415.jpeg",
-      "excerpt": "Dalet launched cloud-native solution suites on its Flex platform with preconfigured workflows and agentic AI built in. The suites center on Dalia, a media-aware AI assistant that lets teams search video libraries, enrich metadata and trigger post/archive workflows through natural language."
-    },
-    {
-      "url": "https://postperspective.com/actionvfx-offers-online-vfx-for-filmmakers-course/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-08-07T12:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/vfx-for-filmmakers-1-624x415.jpg",
-      "excerpt": "ActionVFX launched an online 'VFX for Filmmakers' course aimed at directors and producers who aren't VFX artists, built around After Effects and Photoshop. Its \"Modern AI Integration\" module teaches depth-map generation, AI-assisted rotoscoping, content-aware fill and LLM-assisted troubleshooting as standard craft steps."
-    },
-    {
-      "url": "https://www.broadcastnow.co.uk/tech-innovation/nvidia-creates-ai-video-detector/5219075.article",
-      "source": "Broadcast",
-      "category": "movies",
-      "published_iso": "2026-08-03T14:41:00+01:00",
-      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/3/0/7/1484307_nvidiaaivideodetector_311235.jpg",
-      "excerpt": "NVIDIA released a Synthetic Video Detector NIM microservice that flags AI-generated footage with up to 92% accuracy on uncompressed material, processing 1080p in 22ms on RTX systems. It is pitched at newsrooms and post teams that now need a provenance check inside the ingest pipeline."
-    },
-    {
-      "url": "https://www.broadcastnow.co.uk/tech-innovation/2026-ai-creative-summit-to-examine-regulation-workflows-skills-and-more/5219052.article",
-      "source": "Broadcast",
-      "category": "movies",
-      "published_iso": "2026-08-03T11:30:00+01:00",
-      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/2/9/1/1484291_aicreativesummit20261_492441.jpg",
-      "excerpt": "The expanded 2026 AI Creative Summit lands at BFI Southbank on November 11 with three streams covering production workflows, rights and responsible AI, and the skills gap. The programme signals where UK film and TV craft training is being redirected as gen-AI tools move into normal post pipelines."
+      "published_iso": "2026-08-12T11:38:43+00:00",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/RocXZoom.jpeg",
+      "excerpt": "Ex-DJI engineers are taking RocXZoom to Kickstarter, a robotic 50x zoom camera with AI subject tracking aimed at small crews and remote operation. It pushes autonomous camera operation further into indie production budgets."
     }
   ]
 }

@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-19",
   "section": "movies",
   "picks": [
     {
-      "url": "https://www.cined.com/artlist-sold-a-year-of-unlimited-seedance-2-5-for-500-and-delivered-a-week/",
-      "source": "CineD",
+      "url": "https://www.provideocoalition.com/descript-a-v-translation-dubbing-with-lip-sync-beyond-rotoscoping/",
+      "source": "ProVideo Coalition",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "생성형 영상 구독의 '무제한' 마케팅이 추론 단가 앞에서 어떻게 무너지는지 보여주는 사례 — 툴 결제 전에 계산할 기준을 준다.",
-      "published_iso": "2026-08-14T12:00:00Z",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/Artlist-Seedance-unlimited-featured-1300x750.jpg",
-      "excerpt": "Artlist sold filmmakers a year of \"unlimited\" access to ByteDance's Seedance 2.5 video model for $500, then pulled the unlimited tier within days and swapped it for a modest credit allowance. CineD's breakdown shows the per-second inference economics made the offer impossible from day one — a warning about how gen-video pricing is being marketed to creators."
+      "rationale": "메인스트림 편집 앱 안에서 생성형 립싱크 더빙이 실제로 어떻게 작동하는지 뜯어본 실물 리뷰 — 로컬라이제이션 공정을 오늘 당장 다시 짤 수 있다.",
+      "published_iso": "2026-08-16T15:12:46-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/OBSBOT-Meet-Pro-hero.jpg",
+      "excerpt": "Allan Tepper tests Descript's translation and dubbing feature and finds it is not rotoscoping at all: the model encodes the speaker's face into a latent space and regenerates the lower half of the face so mouth movement follows the new language while lighting, teeth and identity hold. A concrete look at how generative visual dubbing now works inside a mainstream editing app."
     },
     {
-      "url": "https://www.broadcastnow.co.uk/tech-innovation/nvidia-creates-ai-video-detector/5219075.article",
-      "source": "Broadcast",
+      "url": "https://www.awn.com/news/fuzzy-doors-viewscreen-virtual-production-tech-heads-sea-moana",
+      "source": "Animation World Network",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "AI 생성 푸티지 판별을 인제스트 단계에 넣을 수 있는 실물 마이크로서비스 — 뉴스룸·포스트 파이프라인에 바로 붙는 프로브넌스 체크다.",
-      "published_iso": "2026-08-03T14:41:00+01:00",
-      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/3/0/7/1484307_nvidiaaivideodetector_311235.jpg",
-      "excerpt": "NVIDIA released a Synthetic Video Detector NIM microservice that flags AI-generated footage with up to 92% accuracy on uncompressed material, processing 1080p in 22ms on RTX systems. It is pitched at newsrooms and post teams that now need a provenance check inside the ingest pipeline."
+      "rationale": "실시간 비주얼라이제이션이 대작 실사 촬영 현장에서 검증된 사례 — 블로킹·조명·프레이밍 판단을 포스트가 아니라 촬영 당일로 옮긴다.",
+      "published_iso": "2026-08-14T11:48:58-07:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/moana_sailing_trio_viewscreen_bts_still_fin-1280.png?itok=QCxerhO9",
+      "excerpt": "Seth MacFarlane's Fuzzy Door Technology ran its ViewScreen real-time visualization suite on Disney's live-action 'Moana,' feeding oceans, skies, a treasure cave and a 500-foot lava monster into the camera on set. Departments could judge blocking, lighting and framing against the finished world during the shoot rather than months later in post."
     },
     {
-      "url": "https://postperspective.com/dalet-intros-cloud-native-suites-for-media-production-and-archive/",
-      "source": "postPerspective",
+      "url": "https://www.hollywoodreporter.com/business/digital/mpa-inks-ai-video-ip-protection-bytedance-1236675016/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "에이전틱 AI가 MAM 안으로 들어와 자연어로 아카이브 검색과 포스트 워크플로를 굴린다 — 미디어 관리 업무의 조작 방식이 바뀐다.",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Solution-Suites-Dalet-624x415.jpeg",
-      "excerpt": "Dalet launched cloud-native solution suites on its Flex platform with preconfigured workflows and agentic AI built in. The suites center on Dalia, a media-aware AI assistant that lets teams search video libraries, enrich metadata and trigger post/archive workflows through natural language."
+      "rationale": "스튜디오 측이 주류 영상 모델에 처음으로 IP 가드레일을 박은 합의 — 시드댄스·시드림으로 무엇을 만들 수 있는지의 경계가 바뀐다.",
+      "published_iso": "2026-08-17T13:32:43+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-2207982283-1.jpg?w=1296&h=730&crop=1",
+      "excerpt": "The Motion Picture Association and ByteDance signed a memorandum of understanding to protect film and TV intellectual property across ByteDance's generative products, covering the Seedance video models, Seedream image models, TikTok and more. It follows the February cease-and-desist over Seedance 2.0 deepfakes and sets the first studio-side guardrails for a mainstream video model."
     },
     {
-      "url": "https://postperspective.com/actionvfx-offers-online-vfx-for-filmmakers-course/",
-      "source": "postPerspective",
+      "url": "https://www.cartoonbrew.com/anime/studio-ghibli-future-hayao-miyazaki-265713.html",
+      "source": "Cartoon Brew",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "뎁스맵·AI 로토·컨텐트 어웨어 필을 '기본 공정'으로 가르치는 커리큘럼 — VFX 아티스트가 아닌 감독·프로듀서용 학습 경로가 생겼다.",
-      "published_iso": "2026-08-07T12:00:00Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/vfx-for-filmmakers-1-624x415.jpg",
-      "excerpt": "ActionVFX launched an online 'VFX for Filmmakers' course aimed at directors and producers who aren't VFX artists, built around After Effects and Photoshop. Its \"Modern AI Integration\" module teaches depth-map generation, AI-assisted rotoscoping, content-aware fill and LLM-assisted troubleshooting as standard craft steps."
+      "rationale": "AI 가속 파이프라인의 정반대 모델을 고수하는 스튜디오의 내부 사정 — 속도가 아닌 작가주의를 택할 때 조직이 어떻게 굴러가는지 보여준다.",
+      "published_iso": "2026-08-18T07:42:10-07:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Studio-Ghibli.jpg",
+      "excerpt": "A new report goes inside Studio Ghibli as it plans its next film, names no successor to Hayao Miyazaki, and restates its position on AI. The studio's refusal of a master plan reads as a deliberate counter-model to AI-accelerated animation pipelines."
     },
     {
-      "url": "https://www.broadcastnow.co.uk/tech-innovation/2026-ai-creative-summit-to-examine-regulation-workflows-skills-and-more/5219052.article",
-      "source": "Broadcast",
+      "url": "https://variety.com/2026/film/news/robin-williams-kids-revive-instagram-account-ai-slop-1236837661/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "영국 영상 업계가 규제·워크플로·스킬 갭 셋을 공식 의제로 올렸다 — 제작 인력 재교육이 어디로 향하는지 보여주는 지표.",
-      "published_iso": "2026-08-03T11:30:00+01:00",
-      "og_image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/2/9/1/1484291_aicreativesummit20261_492441.jpg",
-      "excerpt": "The expanded 2026 AI Creative Summit lands at BFI Southbank on November 11 with three streams covering production workflows, rights and responsible AI, and the skills gap. The programme signals where UK film and TV craft training is being redirected as gen-AI tools move into normal post pipelines."
+      "rationale": "유족이 소유 채널을 초상권 방어 수단으로 쓰는 실사용 사례 — AI 슬롭 시대의 사후 초상 관리 전략이 구체적으로 드러난다.",
+      "published_iso": "2026-08-18T20:49:58+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-02-at-8.40.57-AM.png?w=1000&h=563&crop=1",
+      "excerpt": "Robin Williams' children revived his Instagram account as a hub for his legacy and a countermeasure to what they call the 'rampant AI abuse' of his likeness. It is a working example of estates using owned channels as posthumous likeness governance in the AI-slop era."
     }
   ]
 }

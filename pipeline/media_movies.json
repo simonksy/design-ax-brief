@@ -1,29 +1,32 @@
 {
+  "date": "2026-08-19",
+  "section": "movies",
   "media": [
     {
-      "id": "movies-artlist-seedance-unlimited",
-      "type": "image",
-      "src": "pipeline/media/movies-artlist-seedance-unlimited.jpg"
+      "id": "movies-descript-lipsync-dubbing",
+      "type": "video",
+      "src": "pipeline/media/movies-descript-lipsync-dubbing.mp4",
+      "poster": "pipeline/media/movies-descript-lipsync-dubbing.jpg"
     },
     {
-      "id": "movies-nvidia-video-detector",
+      "id": "movies-viewscreen-moana",
       "type": "image",
-      "src": "pipeline/media/movies-nvidia-video-detector.jpg"
+      "src": "pipeline/media/movies-viewscreen-moana.jpg"
     },
     {
-      "id": "movies-dalet-solution-suites",
+      "id": "movies-mpa-bytedance-mou",
       "type": "image",
-      "src": "pipeline/media/movies-dalet-solution-suites.jpg"
+      "src": "pipeline/media/movies-mpa-bytedance-mou.jpg"
     },
     {
-      "id": "movies-actionvfx-filmmakers-course",
+      "id": "movies-ghibli-next-film-ai",
       "type": "image",
-      "src": "pipeline/media/movies-actionvfx-filmmakers-course.jpg"
+      "src": "pipeline/media/movies-ghibli-next-film-ai.jpg"
     },
     {
-      "id": "movies-ai-creative-summit-bfi",
+      "id": "movies-robin-williams-instagram",
       "type": "image",
-      "src": "pipeline/media/movies-ai-creative-summit-bfi.jpg"
+      "src": "pipeline/media/movies-robin-williams-instagram.jpg"
     }
   ]
 }

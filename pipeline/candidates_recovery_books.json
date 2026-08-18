@@ -1,56 +1,42 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-19",
   "section": "books",
-  "now_iso": "2026-08-11T22:00:00Z",
   "window_hours": 336,
-  "count": 5,
-  "pass": "recovery-1",
-  "note": "RECOVERY PASS for section books. Every term in keywords_books.json and every URL in candidates_books.json was treated as spent. NEW search terms tried: 'Kobo / Kindle e-reader AI feature', 'iFlytek AINOTE LLM e-paper tablet', 'Frankfurt Book Fair AI translation rights', 'AI translation manga localization' (Orange/Emaqi/Mantra), 'ElevenLabs audiobook publisher deal', 'AI licensing RAG academic press' (Cashmere, Princeton UP), 'Authors Guild Human Authored certification', 'AI slop books essay', 'library workers AI programs', 'author voice manuscript editing AI' (EASE/Editage), 'Bloodhound Books AI fiction translation company', 'publishers lawsuit Google Gemini training', 'Google Play Books AI integration', 'Anthropic copyright settlement approved', 'Media Transformation Summit AI publishing workflows', 'Crealo royalty management publishing tech'. Domains swept (books allowed_domains only): thebookseller.com (news + comment + features indexes), publishersweekly.com (AI edition page, digital, publisher-news), publishingperspectives.com (front page + /feed/ + page/2), scholarlykitchen.sspnet.org (front page), goodereader.com (blog front, digital-publishing, e-book-news, audiobooks, electronic-readers), bookriot.com (/feed/ + AI tag), lithub.com (/feed/ + artificial-intelligence tag), electricliterature.com (/feed/), teleread.org (/feed/), the-digital-reader.com (/feed/), thecreativepenn.com (/feed/ + YouTube channel feed UCdug0jLfpkayiiRyU4WqPPQ), kindlepreneur.com, writersdigest.com, youtube.com (Self-Publishing with Dale channel feed UCl9CjdZQtzufqgYx0CidSbA). Published times read from og article:published_time / JSON-LD datePublished via direct fetch; the two Publishers Weekly items block direct meta fetch, so their dates come from the PW AI edition index date stamps (08/03/2026 and 07/31/2026) confirmed against the article pages, clock time approximated to midday. All five gated with `python3 pipeline/freshness.py <published_iso> 2026-08-11T22:00:00Z books` -> FRESH. Dropped as STALE (>14d): thebookseller Anthropic $1.5bn settlement approved (2026-07-21), thebookseller Bloodhound Books AI translation company (2025-07-07), goodereader publishers-vs-Google-Gemini lawsuit (2026-07-14), goodereader Google Play Books AI (2026-04-06), goodereader interactive 3D textbooks (2026-07-13), YouTube 'AI Audiobooks Versus Human Narration' (2026-07-16), all lithub AI-tag essays (newest 2026-03-19), thecreativepenn feed (newest 2026-05-25), the-digital-reader (dormant since 2025). Dropped for NO AI hook despite freshness: publishingperspectives 'Proposed Trump Administration Guidance' (0 AI mentions), publishingperspectives 'A Virtual Publishing Conference That Speaks Truth to Power' (0 AI mentions), scholarlykitchen 'From Hub to Hustle' (social platforms, not AI), thebookseller Crealo royalty software (0 AI mentions), PP Libro.fm adds ebooks, PP RBmedia/Boldwood, PP AAP revenue report, PW Book Deals week of Aug 10 (Hinton title = book about AI, not an AI-in-publishing story). All previously published 08-05..08-08 stories and today's 3 already-selected picks were excluded by URL and by topic. Per-outlet cap respected: Publishers Weekly 2, all others 1; 4 distinct outlets.",
+  "mode": "recovery-pass",
+  "note": "Recovery collection. Burned keywords from keywords_books.json avoided; searched adjacent angles (e-reader AI assistants, library e-lending/OverDrive, shadow-library training data, manga/webtoon AI, AI literary translation, China/Korea publishing AI standards, craft essays on AI drafting, scholarly AI cognition). All URLs checked against published_urls.json books map and candidates_books.json.",
   "items": [
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/",
+      "url": "https://www.writersdigest.com/i-let-ai-write-my-code-i-wont-let-it-write-my-novels",
+      "source": "Writer's Digest",
+      "category": "books",
+      "published_iso": "2026-08-18T01:25:00Z",
+      "og_image": "https://www.writersdigest.com/uploads/2026/06/kevin-hincker-author-photo-e1781830488900.png?auto=webp",
+      "excerpt": "Novelist and software developer Kevin Hincker hands all his coding to AI agents but refuses to let it near his fiction. His argument is a craft one: programmers need predictability, while 'surprises in novels are a structural requirement' that AI drafting quietly sands away."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/",
       "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-08-05T09:30:45Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1964440549.jpg",
-      "title": "The Published Voice: Whose Voice Are We Really Reading?",
-      "excerpt": "Drawing on an EASE panel called 'Beyond Track Changes,' Roohi Ghosh asks what is left of an author's voice once AI-driven editing smooths every manuscript toward the same 'native' register. The piece treats voice as a craft asset that automated editing quietly erodes, and argues editors have to measure their impact on it rather than assume it survives."
+      "published_iso": "2026-08-12T12:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig_1_Cognitive_Responsibility_Framework_Subtitle_Updated_300_DPI-copy-683x1024.jpg",
+      "excerpt": "Ashutosh Ghildiyal proposes a cognitive responsibility framework splitting 'mechanical cognition' (retrieval, pattern-matching — safe to delegate to AI) from discovery, discernment and judgment, which must stay human. The warning for publishers: once AI mediates the first encounter with evidence, it shapes judgment instead of grounding it."
     },
     {
-      "url": "https://bookriot.com/avoiding-ai-library-programs/",
-      "source": "Book Riot",
+      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-17-2026/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-08-11T10:01:00Z",
-      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/07/library-computer.jpg.optimal.jpg",
-      "title": "\"Avoiding AI\" Library Programs, and More Updates For Library Workers",
-      "excerpt": "Public libraries are now running patron workshops on how to opt out of AI — search, assistants, and the defaults baked into everyday software. Book Riot's library-worker roundup treats 'avoiding AI' as a teachable literacy skill, a counter-programming move against the assumption that every reading and research tool should be model-mediated."
+      "published_iso": "2026-08-17T12:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+      "excerpt": "China's Academy of Press and Publication will unveil the country's first sector-specific AI application standards for publishing at the China International Digital Publishing Expo (Aug 27–29). The same roundup reports AI was 'the central topic' for 3,500+ librarians at IFLA's World Library and Information Congress in Korea."
     },
     {
-      "url": "https://goodereader.com/blog/electronic-readers/these-new-features-are-coming-to-the-iflytek-ainote-2",
-      "source": "Good e-Reader",
+      "url": "https://www.csmonitor.com/Arts-Culture/Books/2026/0812/ai-publishing-commonwealth-prize-shy-girl",
+      "source": "The Christian Science Monitor",
       "category": "books",
-      "published_iso": "2026-08-07T04:58:53Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/07005653/7-1x.webp",
-      "title": "These new features are coming to the iFlytek AINOTE 2",
-      "excerpt": "iFlytek published a 2026 roadmap for its LLM-powered E-Ink tablet, layering AI meeting transcription, automated note organization and document processing on top of a reworked handwriting and PDF toolbar. It is a concrete look at what an AI-native reading-and-writing device wants to become once the model sits underneath the page."
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100971-princeton-university-press-partners-with-cashmere-on-ai-licensing.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-08-03T12:00:00Z",
-      "og_image": "",
-      "title": "Princeton University Press Partners with Cashmere on AI Licensing",
-      "excerpt": "Princeton University Press will make its catalogue available to 'copyright compliant' AI platforms through Cashmere, a licensing intermediary built for retrieval-augmented generation rather than model training. The press keeps title-by-title control over what is licensed and on what terms — an early template for how books get into AI answers without being swallowed into weights."
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100926-ai-may-be-making-publishing-easier-but-it-s-still-not-easy.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-07-31T12:00:00Z",
-      "og_image": "",
-      "title": "AI May Be Making Publishing Easier, But It's Still Not Easy",
-      "excerpt": "At the Media Transformation Summit, publishers reported that AI has genuinely lowered production cost — audiobooks especially — while leaving the hard parts untouched: deciding what to publish and finding readers. The recurring practical lesson was that machine-readable metadata and management buy-in, not the model itself, decide whether an AI workflow lands."
+      "published_iso": "2026-08-13T21:42:00Z",
+      "og_image": "https://images.csmonitor.com/csm/2026/07/1216612_1_0729-ai_writer_standard.png?alias=standard_1200x800nc",
+      "excerpt": "A survey of the collapsing-deal wave — Jerry Falade's $2M crime novel, Hachette's canceled 'Shy Girl' — shows publishers policing AI use with no shared disclosure rule and no reliable detector. Watermarking from AI vendors is emerging as the industry's least-bad provenance bet.",
+      "offlist_reason": "On-list trade outlets (PW, The Bookseller, Book Riot, Jane Friedman) had already-published or duplicate coverage of the AI-authorship trust story; this is the only fresh, unpublished synthesis found."
     }
   ]
 }
