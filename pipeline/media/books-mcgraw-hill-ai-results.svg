@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="McGraw Hill touts AI in improving first-quarter results">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#150a22"/>
+      <stop offset="1" stop-color="#241035"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#7928ca"/>
+      <stop offset="1" stop-color="#c58cf5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g transform="translate(96,138)">
+    <rect x="0" y="140" width="74" height="184" rx="8" fill="#7928ca" opacity="0.30"/>
+    <rect x="94" y="96" width="74" height="228" rx="8" fill="#7928ca" opacity="0.48"/>
+    <rect x="188" y="52" width="74" height="272" rx="8" fill="#7928ca" opacity="0.70"/>
+    <rect x="282" y="0" width="74" height="324" rx="8" fill="url(#acc)"/>
+    <rect x="0" y="356" width="356" height="14" rx="7" fill="#7928ca" opacity="0.85"/>
+    <g transform="translate(0,398)">
+      <rect x="0" y="0" width="150" height="12" rx="6" fill="#7928ca" opacity="0.45"/>
+      <rect x="0" y="28" width="228" height="12" rx="6" fill="#7928ca" opacity="0.28"/>
+    </g>
+  </g>
+  <g transform="translate(556,262)" fill="#f4ecfd" font-family="Georgia, 'Times New Roman', serif">
+    <text x="0" y="0" font-size="52" font-weight="700">AI &#54617;&#49845; &#46020;&#44396; 8&#51333;</text>
+    <text x="0" y="66" font-size="52" font-weight="700">&#49324;&#50857;&#51088; 750&#47564; &#47749;</text>
+    <text x="0" y="128" font-size="27" fill="#c39ae8">McGraw Hill &#183; Publishers Weekly</text>
+  </g>
+  <rect x="0" y="614" width="1200" height="16" fill="#7928ca"/>
+</svg>

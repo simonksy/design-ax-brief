@@ -1,130 +1,180 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "science",
-  "now_iso": "2026-08-18T22:00:30Z",
+  "now_iso": "2026-08-19T22:00:33Z",
   "window_hours": 336,
-  "count": 12,
-  "note": "Science section, 14-day window (336h). window_hours('2026-08-18T22:00:30Z') returns the 72h design default, so 336 is set explicitly per the science freshness rule (freshness.py OTHER_WINDOW_H). Every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-18T22:00:30Z science` and printed FRESH. Published times were read off the article pages via WebFetch (og article:published_time / JSON-LD datePublished / dateline); where only a calendar date was exposed, the clock time was normalized to a mid-day UTC value that does not change the FRESH verdict. Collection notes: (a) phys.org and medicalxpress tag/RSS listings served a stale February 2026 cache to the fetcher, so August items were reached via search + direct article verification; (b) physics.aps.org and fiercebiotech.com returned HTTP 403 and contributed nothing; (c) quantamagazine.org, space.com, skyandtelescope.org, livescience.com, thequantuminsider.com and statnews.com were swept but had no fresh, on-topic AI-for-science item (TQI's August output was quantum business/policy; Physics World's AI-medicine pieces dated 21 and 31 July = STALE; EurekAlert's PoLARIS self-driving-lab release dated 4 May = STALE). (d) DROPPED as already published in pipeline/published_urls.json: DeepMind WeatherNext cyclone forecasting (2026-08-06) and MIT stroke-rehabilitation generative AI (2026-08-05). (e) DROPPED as business/policy noise per the relevance test: EurekAlert SUNY Poly DoD $61.9M AI contract and the $19.9M NSF AI-materials initiative, STAT's clinical-AI regulator and nurse-staffing pieces. (f) DROPPED as already covered in the last two published days: Universe Today 'Seven Needles, 800,000 Haystacks' (DESI quasar lens neural net), phys.org BU antibody language model, Google Research recall/factuality and AMIE. Per-outlet cap respected: Scientific American is at the 3-item ceiling; all other outlets contribute 1. 10 distinct outlets total.",
+  "count": 17,
+  "note": "Science section, 14-day window (336h). `window_hours('2026-08-19T22:00:33Z')` returns 72 (the design default), so 336 is set explicitly per freshness.py's OTHER_WINDOW_H for non-design sections. Every item below was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-19T22:00:33Z science` and printed FRESH; published times were read from og article:published_time / JSON-LD datePublished on the article HTML (phys.org items via WebFetch, which exposed date-only values normalized to 00:00Z — the FRESH verdict is unaffected). Collection method: RSS/Atom feed sweeps (phys.org, techxplore, medicalxpress, livescience, physicsworld, quantamagazine, sciencedaily, thequantuminsider, statnews, fiercebiotech, scientificamerican, technologyreview, universetoday, space.com, deepmind.google, research.google, blog.google, allenai.org) plus domain-scoped WebSearch on the plan's queries. DROPPED as already in pipeline/published_urls.json: Physics World 'AI model helps physics Nobel laureate out of a decade-old mathematical jam' (08-07), MIT News GeoPT 'With a feel for physics' (08-10), DeepMind WeatherNext cyclones (08-06). DROPPED as stale (before the 08-05T22:00Z cutoff): phys.org solid-state reaction-pathway model (08-03), Quanta 'Why the Legendary Erdos Problems Are Falling to AI' (08-03), ScienceDaily Claude Fable 5 / Jacobian conjecture (08-04), Ai2 AIMIP + OlmoEarth + DiScoFormer (May-Jul), Chemistry World self-driving-lab cost cut (04-20), Universe Today's AI astronomy pieces (all 2025 / Jan 2026). DROPPED as duplicates of recently shipped cards (keywords_science.json skip list): techxplore/MIT 'When AI art has no author' attribution decay, phys.org herbarium flowering shifts, Google Research smartphone cardiometabolic imagery, ScienceDaily DNA+perovskite memristor. DROPPED as business/industry noise per the relevance test: GEN 'Pharma Races to Scale AI as Billions Flow into Drug Discovery', SciAm 'OpenAI funds research to stop AI bioweapons', all of The Quantum Insider's mid-August output (funding, S-4 filings, lab openings, consortium PR), Fierce Biotech's fundraising/layoff trackers. NO fresh AI-x-astronomy item existed in the window: Universe Today (60 items over 3 feed pages), space.com (50 items) and Sky & Telescope carried zero AI/ML headlines since 08-05; physics.aps.org and eurekalert.org RSS endpoints returned empty/403 and contributed nothing; genengnews.com blocks the fetcher behind Cloudflare. Per-outlet caps respected: phys.org 3, techxplore 3, medicalxpress 3, psychologytoday 2, technologyreview 2, livescience/physicsworld/blog.google/scientificamerican 1 each — 9 distinct outlets. One off-list domain included: blog.google (Google Research's official blog; research.google is on-list but its only fresh post duplicates an already-shipped card).",
   "items": [
     {
-      "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-      "source": "MIT News",
-      "category": "science",
-      "published_iso": "2026-08-18T14:00:00Z",
-      "og_image": null,
-      "title": "When AI art has no author: Study finds generated images often can't be traced to training data",
-      "excerpt": "MIT researchers built a method that surgically removes individual training examples from a model and then measures what changes in its outputs. They find an 'attribution decay' effect: as datasets grow, deleting any single source image usually makes no measurable difference, so generated pictures often have no traceable ancestor.",
-      "note": "Date from the MIT News article dateline (2026-08-18); og:image is a site placeholder so left null. Gated FRESH."
-    },
-    {
-      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "source": "Google Research",
-      "category": "science",
-      "published_iso": "2026-08-17T14:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhotoScanIR_Overview.png",
-      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-      "excerpt": "Google Research introduced PhotoScan, a deep-learning system that estimates 3D body-composition metrics from ordinary 2D smartphone photos. It reaches near-clinical accuracy at predicting insulin resistance without DEXA or MRI hardware.",
-      "note": "Published date from the Google Research blog post header (2026-08-17). Gated FRESH."
-    },
-    {
-      "url": "https://www.universetoday.com/articles/the-telescope-that-points-itself",
-      "source": "Universe Today",
-      "category": "science",
-      "published_iso": "2026-08-10T22:43:00Z",
-      "og_image": "https://www.universetoday.com/article_images/Victor_M_Blanco_4-meter_Telescope_noirlab-tololo-02_20260810_224303.jpg",
-      "title": "The Telescope That Points Itself",
-      "excerpt": "Astronomers trained a scheduler on years of real observing logs — what human observers actually did night after night, not the rulebook — and let it drive the 570-megapixel Dark Energy Camera. The system wrote the night's plan and then re-planned live as sky conditions moved.",
-      "note": "Article page exposed no published_time meta; date taken from the Universe Today index listing (Aug 10, 2026) and corroborated by the asset timestamp 20260810_224303 embedded in the og:image filename. Gated FRESH."
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-08-10T12:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/483a16e5-03ef-462a-8d08-cbc0ecd5ae5b/AI-virus.jpg",
-      "title": "Scientists Are Using AI to Design New Viruses. Should They Be?",
-      "excerpt": "Generative models have now produced entirely novel, functional viruses — a genuine milestone for AI-driven biological design. The same capability collapses the distance between designing a therapy and designing a pathogen, which is why biosecurity researchers want guardrails before the tooling spreads.",
-      "note": "Date from the Scientific American article page (2026-08-10); clock normalized to 12:00Z. Gated FRESH."
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-08-17T12:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/cd3889fd-5093-4f64-9161-ebe1fb54c949/AI-bioweapons.jpg",
-      "title": "OpenAI Funds Research to Try to Stop AI from Being Used to Make Bioweapons",
-      "excerpt": "OpenAI awarded grants to 14 organizations, including the Nuclear Threat Initiative, to build an international information-sharing system for spotting AI-enabled biosecurity risks. The work targets exactly the capability that AI protein and virus design has just made real.",
-      "note": "Date from the Scientific American article page (2026-08-17); clock normalized to 12:00Z. Kept despite the grant framing because the substance is biosecurity research method, not a funding round. Gated FRESH."
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-08-12T12:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/0b5fa77a-df8d-4154-814b-03977d035761/dice-primes.jpg",
-      "title": "No, Anthropic's AI Didn't Just Solve Math's Hardest Problem",
-      "excerpt": "Claude produced a real, checkable advance on a question about the distribution of prime numbers — but not a proof of the Riemann hypothesis, as the hype claimed. Mathematician James Maynard calls it 'a genuinely interesting mathematical contribution,' which is a narrower and more useful claim than the headlines.",
-      "note": "Date from the Scientific American article page (2026-08-12); clock normalized to 12:00Z. Distinct from the 08-12 card about OpenAI Astra / research-misconduct — this one is the Anthropic prime-numbers claim. Gated FRESH."
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-08-mental-health-emerge-ai-chatbot.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "published_iso": "2026-08-11T10:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/lonely-computer.jpg",
-      "title": "Mapping how mental health risks emerge in AI chatbot conversations",
-      "excerpt": "UCL researchers built SIM-VAIL, a framework that simulates mentally vulnerable users and audits how chatbots respond over a whole conversation rather than a single reply. Across nine models, 'concerning behavior in target chatbots was widespread,' and risk usually accumulated turn by turn instead of appearing in one bad answer.",
-      "note": "Date from the Medical Xpress article page (2026-08-11); clock normalized. Gated FRESH."
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-08-17T04:48:00Z",
-      "og_image": null,
-      "title": "Scientists turn DNA into a memory device that uses 100x less power",
-      "excerpt": "Penn State researchers paired synthetic DNA with a crystalline perovskite semiconductor to build a bio-hybrid memory element that stores more while drawing roughly 100x less power. The team frames it squarely at neuromorphic hardware: 'as the demand for artificial intelligence (AI) grows, we need a new strategy for low-power, high-storage devices.'",
-      "note": "ScienceDaily posted date Aug 17, 2026; release id encodes 2026-08-16 04:48. Used 2026-08-17T04:48:00Z. No og:image exposed. Gated FRESH."
-    },
-    {
-      "url": "https://allenai.org/blog/tutormoments",
-      "source": "Allen Institute for AI (Ai2)",
-      "category": "science",
-      "published_iso": "2026-08-07T12:00:00Z",
-      "og_image": null,
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "excerpt": "Ai2 released TutorMoments, an open replay-based evaluation framework that tests whether a model tutoring a student knows when to step in and when to stay quiet. It measures pedagogical restraint — a behaviour standard benchmarks never score.",
-      "note": "Date from the Ai2 blog listing and post header (2026-08-07); clock normalized to 12:00Z. No og:image found. Gated FRESH."
-    },
-    {
-      "url": "https://phys.org/news/2026-08-ai-million-digitized-specimens-reveal.html",
+      "url": "https://phys.org/news/2026-08-ai-discoveries-human-cultural-evolution.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-08-18T10:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-artificial-intelli-1.jpg",
-      "title": "AI and 8 million digitized plant specimens reveal how the climate is changing nature in large parts of the world",
-      "excerpt": "Machine learning read flowering stages off eight million digitized herbarium sheets spanning a century, work contributed to by some 400 researchers in 40 countries. Global flowering times have shifted an average of 2.5 days per decade, with the sharpest moves in the tropics where rainfall patterns are breaking down.",
-      "note": "Date from the phys.org article page (2026-08-18); clock normalized. Gated FRESH."
+      "published_iso": "2026-08-18T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-contribute.jpg",
+      "title": "Experiment shows how AI discoveries can shape human cultural evolution",
+      "excerpt": "In a multigenerational lab task, Max Planck researchers found humans almost never discovered a strategy that required short-term losses for later gains — but groups seeded with AI agents adopted it and passed it down across generations. The study maps the conditions under which machine-found solutions actually enter human culture.",
+      "note": "Date from WebFetch (article:published_time, date-only 2026-08-18). Gated FRESH."
     },
     {
-      "url": "https://www.eurekalert.org/news-releases/1139596",
-      "source": "EurekAlert! (CeMM, Austrian Academy of Sciences)",
+      "url": "https://phys.org/news/2026-08-ai-reconstructs-hidden-history-earth.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-08-14T12:00:00Z",
-      "og_image": null,
-      "title": "Organs age at different speeds: a blood test might soon tell which ones",
-      "excerpt": "CeMM trained deep-learning 'tissue clocks' on more than 25,000 histology samples to read biological age straight from tissue architecture, then linked those signatures to blood markers. 'Deep learning lets us read these spatial patterns, capturing aging as architectural remodeling,' the team reports in Nature Medicine.",
-      "note": "Release date 14 August 2026 per the EurekAlert page; clock normalized to 12:00Z. No og:image exposed. Gated FRESH."
+      "published_iso": "2026-08-18T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-combines.jpg",
+      "title": "AI reconstructs hidden history of Earth's mantle flow from surface clues",
+      "excerpt": "A University of Tsukuba researcher built a physics-informed neural network that reconstructs past mantle temperatures and deep circulation patterns from partial geophysical observations. It's a case study in fusing governing equations with deep learning to recover states no instrument ever measured.",
+      "note": "Date from WebFetch (article:published_time, date-only 2026-08-18). Gated FRESH."
     },
     {
-      "url": "https://www.genengnews.com/topics/omics/human-cell-atlas-at-10-a-decade-of-discovery-and-the-road-to-hca-2-0/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "url": "https://phys.org/news/2026-08-iconic-jazz-musicians.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-08-17T09:00:00Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/OMI-Human-Cell-Atlas-Kyle-Klein-KK4_7945-scaled.jpg",
-      "title": "Human Cell Atlas at 10: A Decade of Discovery and the Road to HCA 2.0",
-      "excerpt": "HCA 2.0 is being planned explicitly as training substrate for AI: 'Most foundation models to date are already built on single cells from our atlases,' with new efforts adding spatial data so models keep tissue context. The payoff being chased is drug-target identification, therapy-outcome prediction and patient stratification from a virtual-cell model.",
-      "note": "PubDate 2026-08-17 from the GEN RSS feed and article page; clock normalized. Gated FRESH."
+      "published_iso": "2026-08-17T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/playing-piano.jpg",
+      "title": "Can computers learn what makes the most iconic jazz musicians stand out?",
+      "excerpt": "Cambridge researchers trained machine learning models that identify individual jazz pianists from recordings with 94.4% accuracy, and an interpretable variant separating melody, harmony, rhythm and dynamics hit 91.3%. Published in Nature Machine Intelligence as a study of artistic 'fingerprints'.",
+      "note": "Date from WebFetch (article:published_time, date-only 2026-08-17). Gated FRESH. Scientific American ran the same study on 2026-08-17; kept the phys.org version only to avoid a duplicate story in the pool."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-08-ai-human-tendency-infer-character.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-08-18T09:20:03-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/ai-shares-human-tenden.jpg",
+      "title": "AI shares human tendency to infer character from facial features",
+      "excerpt": "Humans read personality into faces despite there being no real link between features and behavior — and a new study finds vision models reproduce the same ungrounded inference. The bias travels from people into the models, and back out into decisions the models are used for.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-08-physics-ai-method-thermal-energy.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-08-17T13:40:01-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-physics-informed-a.jpg",
+      "title": "Physics-informed AI method speeds thermal energy storage design optimization",
+      "excerpt": "Researchers report a physics-informed AI approach that accelerates the design optimization of thermal energy storage systems, a key lever for decarbonizing building heating and cooling. The method embeds governing heat-transfer physics into the learned surrogate rather than fitting data blind.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-08-14T13:00:03-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientific-research.jpg",
+      "title": "AI agents struggle to perform original scientific research",
+      "excerpt": "Models can already write code, run experiments and search the literature — but a new evaluation finds AI agents fall down on the part that matters: producing genuinely original research. A direct empirical check on the 'AI scientist' narrative.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-08-immune-ai.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "published_iso": "2026-08-19T14:00:06-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/does-your-immune-syste.jpg",
+      "title": "Does your immune system learn like AI?",
+      "excerpt": "A Cold Spring Harbor Laboratory study borrows concepts from machine learning to attack an old immunology riddle, treating immune memory as a learning problem. It's AI theory used as a lens on biology rather than as a data-crunching tool.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-08-ai-medical-devices-patient-outcomes.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "published_iso": "2026-08-19T14:00:13-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/most-ai-medical-device.jpg",
+      "title": "Most AI medical devices cleared for use were not tested on patient outcomes",
+      "excerpt": "Of 1,357 AI-based medical devices the FDA has authorized for patient care, only three were tested on whether they actually improve patients' health, a new analysis finds. A hard number on the evidence gap between AI clearance and AI benefit.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-08-ai-reveals-distinct-cell-defects.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "published_iso": "2026-08-18T10:20:10-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/ai-reveals-hidden-patt.jpg",
+      "title": "AI reveals distinct cell defects inside breast cancer",
+      "excerpt": "University of Southampton researchers built CenSegNet, a deep learning framework that phenotypes centrosomes at single-cell resolution across heterogeneous tissue, exposing patterns inside breast tumors that were previously invisible. Published in Nature Communications.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://www.livescience.com/technology/electronics/beyond-human-intuition-ai-designs-chip-500-times-smaller-than-what-engineers-could-ever-imagine",
+      "source": "Live Science",
+      "category": "science",
+      "published_iso": "2026-08-18T15:10:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7g83sM22Ri9ziNmRE7RQGi-2000-80.png",
+      "title": "'Beyond human intuition': AI designs chip components 500 times smaller than what engineers could ever imagine",
+      "excerpt": "Three new AI-designed chip components measure just a few micrometers and take geometries no human engineer had proposed. The researchers frame the designs as literally beyond human intuition rather than incremental optimizations of known layouts.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-08-19T14:30:49+00:00",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-perkowitz-server-room-data-centre-1415677219-istock-imaginima.jpg",
+      "title": "The physics of novel computation: beyond bits and chips to spikes and spins",
+      "excerpt": "Sidney Perkowitz surveys physics-inspired alternatives to conventional silicon — neuromorphic spiking hardware, spintronics and beyond — as a response to AI's runaway energy demand. A physics-side read on what machine learning may run on next.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-08-18T12:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_blog_image.width-1300.jpg",
+      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "excerpt": "Google and the UK are running Operation Blue Skies, an airspace-scale trial of AI-powered contrail avoidance — rerouting flights around the atmospheric conditions that make persistent contrails. It moves contrail forecasting from paper study to live operational science.",
+      "note": "Page exposes article:published_time as a date only (2026-08-18); normalized to 12:00Z, which does not change the FRESH verdict. Off-list domain (blog.google) — included because it is Google Research's official publication channel and the on-list research.google feed's only fresh post duplicates an already-published card."
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/human-centered-technology/202608/awareness-of-ai-doesnt-fail-its-never-been-tested",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-08-17T16:12:55-04:00",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-08/pexels-merlin-11308989.jpg?itok=9wwxUHJm",
+      "title": "Awareness of AI Doesn't Fail. It's Never Been Tested",
+      "excerpt": "A new study ('Individual-Level Interventions Against Sycophantic AI Reduce Its Appeal But Not Its Persuasiveness') warned participants that a model was flattering and over-agreeable — and it changed their minds just as much anyway. The column argues the experiment tested the wrong construct.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://www.psychologytoday.com/sg/blog/cell-on-the-self/202607/why-people-are-more-honest-with-ai-than-their-own-boss",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-08-19T14:57:43-04:00",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-07/enchanted-tools-a106yleaiai-unsplash.jpg?itok=nIwN47oU",
+      "title": "Why People Are More Honest With AI Than Their Own Boss",
+      "excerpt": "A new study finds employees are significantly more willing to voice honest input to an algorithmic leader than a human one — mediated by fairness perception and psychological safety. The effect holds for cognitive tasks and disappears for emotional ones.",
+      "note": "og article:published_time is 2026-08-19 even though the URL slug says 202607 (Psychology Today reuses the original blog folder). Gated FRESH."
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Technology Review",
+      "category": "science",
+      "published_iso": "2026-08-18T05:00:00-04:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
+      "title": "AI's recursive self-improvement might not come so quickly after all",
+      "excerpt": "New evaluations suggest AI agents are not yet creative enough to carry out genuinely innovative, open-ended AI research — undercutting the assumption that models will soon bootstrap their own progress. A measured empirical check on the fastest-moving claim in the field.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review",
+      "category": "science",
+      "published_iso": "2026-08-18T06:06:43-04:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
+      "title": "We still don't know how people are really using AI",
+      "excerpt": "A new study of actual usage finds work-related cases make up far less of the picture than AI companies claim, and that the field's headline usage statistics rest on shaky measurement. Behavioral-science scrutiny of the numbers everyone quotes.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://www.scientificamerican.com/podcast/episode/how-generative-ai-is-reshaping-creativity-and-what-it-means-for-artists/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-08-19T06:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/c89c1ed6-db81-4b5c-add4-e979041c94c4/2608_SQ_WED_MOTHERS_INVENTION.png?m=1787082564.669&w=1200",
+      "title": "From reboots to AI: What happened to originality?",
+      "excerpt": "Moiya McTier examines what the cognitive science of creativity says is distinctly human, and how generative models are reshaping the conditions artists work under. A research-grounded take on originality rather than a hot take on tools.",
+      "note": "og article:published_time. Gated FRESH. Weakest research hook in the pool — included for breadth, not as a lead candidate."
     }
   ]
 }

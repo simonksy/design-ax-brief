@@ -1,31 +1,32 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "music",
   "media": [
     {
-      "id": "music-submithub-40",
+      "id": "music-stemdeck-local-splitter",
       "type": "image",
-      "src": "pipeline/media/music-submithub-40.jpg"
+      "src": "pipeline/media/music-stemdeck-local-splitter.jpg"
     },
     {
-      "id": "music-roundhill-suits",
+      "id": "music-umg-hook-licensed-remix",
       "type": "image",
-      "src": "pipeline/media/music-roundhill-suits.jpg"
+      "src": "pipeline/media/music-umg-hook-licensed-remix.jpg"
     },
     {
-      "id": "music-opentune",
-      "type": "image",
-      "src": "pipeline/media/music-opentune.jpg"
+      "id": "music-i-am-choir-neural-vocal",
+      "type": "video",
+      "src": "pipeline/media/music-i-am-choir-neural-vocal.mp4",
+      "poster": "pipeline/media/music-i-am-choir-neural-vocal.jpg"
     },
     {
-      "id": "music-happyshrimp",
+      "id": "music-lalal-lynx-vocal-rip",
       "type": "image",
-      "src": "pipeline/media/music-happyshrimp.png"
+      "src": "pipeline/media/music-lalal-lynx-vocal-rip.png"
     },
     {
-      "id": "music-ethical-plugins",
+      "id": "music-train-your-own-model",
       "type": "image",
-      "src": "pipeline/media/music-ethical-plugins.jpg"
+      "src": "pipeline/media/music-train-your-own-model.jpg"
     }
   ]
 }

@@ -1,110 +1,75 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "gadgets",
+  "selected_by": "curator (user deferred: \"알아서\")",
   "count": 5,
-  "note": "Curator auto-pick (user deferred). Dedup run against sections.gadgets today(2026-08-15) + days(2026-08-14, 08-12, 08-11, 08-10, 08-09) by URL + content. Dropped as already-published stories: 9to5Google Honor Robot Phone (= gadgets-honor-robot-phone, Engadget 08-14), Android Authority Tensor G6 deep dive and 9to5Google Pixel 11 Gemini Intelligence (= gadgets-pixel-11-tensor-g6-tpu, same Pixel 11 launch, 08-14), 9to5Mac Matic Cues (= gadgets-matic-cues-voice, Gizmodo 08-14), Notebookcheck Hoverair Versa Indiegogo (= gadgets-hoverair-versa, Tom's Hardware 08-11). Dropped as within-pool duplicates: The Verge Litter-Robot 5 Pro (same outlet + same core topic as the Pet Memory review — both from the same Verge 'Pet Week' hub, kept the stronger platform-level one), 9to5Mac Apple smart home roadmap (same Apple Siri smart-display story as the Engadget macOS-beta code dig, kept the concrete one). The Verge camera-AirPods leaked video is KEPT as a distinct event: the 08-09 card (gadgets-apple-ultra-trio, MacRumors) was a Gurman rumor round-up of three Ultra products, this is a newly surfaced promo video in a macOS beta. Diversity guard: 4 distinct outlets, max 2 from any one (The Verge x2), 5 distinct topic areas (wearable audio AI, ambient home AI, glasses privacy, humanoid robotics, generative UI).",
+  "dedup_note": "Checked against sections.gadgets today(08-19) + days(08-10, 08-11, 08-12, 08-14, 08-15) = 30 published cards. Dropped as duplicates of the already-published macOS 26.7 code-leak event (08-19 card 'gadgets-airpods-camera-demo-video', same macOS Tahoe 26.7 RC): MacRumors 'Apple Accidentally Leaked More Than 10 New Products', MacRumors 'Apple's Upcoming Home Hub to Feature Widget Gallery', MacRumors 'Next Apple TV Rumored to Get Five New Features', Notebookcheck 'Code leak: Apple HomePad to come in two versions' (the last two/three are the same home-hub + Apple TV sub-stories of that one leak, across two outlets). Dropped as same-release rehash of already-published launch coverage: 9to5Google 'Pixel Watch 5 initial review' (Pixel Watch 5 launch already covered 08-19 via Tom's Guide watch-face piece and 08-14 TechRadar Google Health) and 9to5Google 'Pixel 11 Pro initial review' (Pixel 11 launch already covered 08-14 via Android Authority Tensor G6). Dropped Engadget DeepMind SL2T sign-language as partially covered by the 08-14 Tensor G6 card, which already reported the Pixel camera app transcribing sign language. Dropped as within-pool content-hub near-duplicate: Android Authority ran two Gemini APK teardowns the same day — kept neither after backfill, since stronger unique stories survived. Dropped XDA 'Google Assistant is dead / local LLM' as same source + same recurring local-LLM topic already run 08-12 and 08-15. No two picks share a URL or an outlet+topic pair.",
+  "diversity_note": "4 distinct outlets (Gizmodo x2, Engadget, 9to5Mac, XDA Developers) — within the max-2-per-outlet cap. Topic spread: living-room voice UI / smart-glasses policy / ambient home sensing / desktop assistant UI / dedicated capture hardware.",
   "picks": [
     {
       "rank": 1,
+      "title": "Amazon's Alexa+ AI assistant is now free for anyone with a Fire TV device",
+      "url": "https://www.engadget.com/2239785/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/",
+      "source": "Engadget",
+      "published_iso": "2026-08-19T15:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/intro-1787134924.jpg",
+      "excerpt": "Amazon dropped the $20/month fee and is giving Alexa+ free to every US Fire TV owner, pushing conversational, context-aware assistance onto the living-room screen at once. The TV becomes the default surface for agentic voice UI, and remote-plus-voice navigation design is suddenly a mass-market problem.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "title": "Apple's camera-equipped AirPods appear in leaked video",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "source": "The Verge",
-      "published_iso": "2026-08-18T09:00:01+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "A promo video surfaced in a macOS beta showing Apple's camera-equipped AirPods, with the assistant narrating \"See something you like? Just ask me to save it for later.\" It is the clearest signal yet that Apple's first always-on visual AI wearable is an audio product, not glasses — a very different interaction model for designers to plan around.",
-      "rationale": "First moving-picture evidence of Apple's visual-AI wearable, and it shows the interaction model is earless-eyes audio rather than glasses — a concrete brief for anyone designing assistant UX."
+      "rationale": "Removing the paywall makes conversational AI the default TV interface overnight — the biggest same-day shift in where assistant UX has to be designed."
     },
     {
       "rank": 2,
+      "title": "Even ICE Thinks Smart Glasses Are a Privacy Liability",
+      "url": "https://gizmodo.com/even-ice-thinks-smart-glasses-are-a-privacy-liability-2000800271",
+      "source": "Gizmodo",
+      "published_iso": "2026-08-19T14:40:00+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-09.jpg",
+      "excerpt": "ICE has banned its employees from wearing smart glasses, warning the devices could \"unintentionally capture, record or transmit sensitive information.\" When even a surveillance agency bans always-on camera eyewear, the social-acceptability problem designers keep waving away becomes a hard product constraint.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "title": "Google's Pet Memory forgot who my cats are",
-      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "source": "The Verge",
-      "published_iso": "2026-08-18T12:01:29+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "A hands-on review of Gemini for Home's Pet Memory on Nest cameras finds the AI recognition feature confidently mislabeling pets. It is a concrete case study in what happens when an ambient AI feature ships with a confident UI but unreliable perception.",
-      "rationale": "A shipped Gemini for Home feature whose confident UI outruns its perception — the clearest current example of why ambient AI needs uncertainty designed into the interface."
+      "rationale": "A surveillance agency banning camera eyewear turns wearable social acceptability from a soft debate into a documented deployment constraint."
     },
     {
       "rank": 3,
+      "title": "Millions of Comcast WiFi Routers Can Now Tell When You're Moving Around the House",
+      "url": "https://gizmodo.com/millions-of-comcast-wifi-routers-can-now-tell-when-youre-moving-around-the-house-2000800324",
+      "source": "Gizmodo",
+      "published_iso": "2026-08-19T16:25:00+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2023/06/2bae73dacdfc4714ab26c351267aa385.jpg",
+      "excerpt": "Comcast is rolling out Xfinity Shield with WiFi Motion, turning ordinary routers into whole-home presence sensors with no new hardware and no camera. Sensing is quietly migrating into infrastructure people never chose as a sensor, which reframes what ambient-AI interfaces have to disclose.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "title": "Meta's facial recognition smart glasses idea just resurfaced in a patent",
-      "url": "https://www.digitaltrends.com/wearables/metas-facial-recognition-smart-glasses-idea-just-resurfaced-in-a-patent/",
-      "source": "Digital Trends",
-      "published_iso": "2026-08-17T14:06:22-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/Ray-ban-meta-glasses.jpg?resize=1200%2C630",
-      "excerpt": "A newly public Meta patent describes smart glasses identifying people via AI facial recognition and expression analysis, then using that data to auto-assemble highlight media. It puts the hardest consent-design problem in wearables back on the table.",
-      "rationale": "Puts face recognition plus expression analysis on the record as a product direction, forcing the consent and disclosure question that every wearable design team is currently deferring."
+      "rationale": "Presence sensing arriving via a firmware update to hardware nobody bought as a sensor rewrites the consent and disclosure layer of ambient-AI design."
     },
     {
       "rank": 4,
+      "title": "macOS Golden Gate adds a new app to your Mac; here's what it can do",
+      "url": "https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/",
+      "source": "9to5Mac",
+      "published_iso": "2026-08-19T20:56:00+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg?quality=82&strip=all&w=1600",
+      "excerpt": "macOS 27 introduces a standalone Siri app for the Mac — a first — with persistent conversation history and iCloud sync across devices. The assistant graduates from an invisible overlay to a real window with navigation, history and state that has to be designed like any other app.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "Humanoids flop in first real firefighting drill at World Robot Games",
-      "url": "https://www.notebookcheck.net/Humanoids-flop-in-first-real-firefighting-drill-at-World-Robot-Games.1370784.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-08-17T15:00:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humanoid-robot-firefighting-games.jpg",
-      "excerpt": "At the second World Humanoid Robot Games, 23 teams entered an outdoor firefighting and rescue event and only three survived it. The sharpest available corrective to the humanoid hype cycle, and a useful reality anchor next to the Unitree demo.",
-      "rationale": "A measured, unstaged test — 23 teams in, 3 finish — that resets expectations for anyone planning products or services around humanoid capability claims."
+      "rationale": "Siri becoming a window with history and state is the moment assistant UX stops being an overlay and starts needing real app-level information architecture."
     },
     {
       "rank": 5,
+      "title": "A $200 device replaced my phone's biggest job, and now I record meetings without killing the battery",
+      "url": "https://www.xda-developers.com/200-device-replaced-phones-biggest-job-record-meetings-killing-battery/",
+      "source": "XDA Developers",
+      "published_iso": "2026-08-19T18:01:00+00:00",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/comu-android-hero.jpg",
+      "excerpt": "The Comu Action Pro is a $200 dedicated AI recorder with six adaptive mics, a magnetic phone mount and about 70 hours of battery that auto-transfers and transcribes what it captures. It is the strongest argument yet that single-purpose AI hardware beats a phone app when the job is capture-and-transcribe.",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "title": "I used AI to create a deli meat-inspired watch face for my Pixel Watch 5 — and now I'm questioning everything",
-      "url": "https://www.tomsguide.com/wellness/smartwatches/i-used-ai-to-create-a-deli-meat-inspired-watch-face-for-my-pixel-watch-5-and-now-im-questioning-everything",
-      "source": "Tom's Guide",
-      "published_iso": "2026-08-18T07:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/bdozjJ2daigra64wsyFESb-2560-80.jpg",
-      "excerpt": "A hands-on with the Pixel Watch 5's generative watch-face tool, prompting it into an absurd deli-meat theme. Generative UI on a wearable turns watch faces from a designed asset into a prompt output, with all the taste problems that implies.",
-      "rationale": "A shipping consumer device where a designed UI asset becomes a prompt output — the first mass-market test of what happens to visual craft when users generate the interface themselves."
+      "rationale": "A shipping $200 single-purpose AI device that beats the phone app is the clearest current case for when dedicated AI hardware is the right form factor."
     }
-  ],
-  "dropped": [
-    {
-      "url": "https://9to5google.com/2026/08/12/honor-finally-launches-robot-phone-starting-at-around-1500/",
-      "reason": "duplicate of published gadgets-honor-robot-phone (Engadget, 2026-08-14) — same launch"
-    },
-    {
-      "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
-      "reason": "duplicate of published gadgets-pixel-11-tensor-g6-tpu (Android Authority, 2026-08-14) — same chip story"
-    },
-    {
-      "url": "https://9to5google.com/2026/08/12/pixel-11-gemini-intelligence/",
-      "reason": "same Pixel 11 launch already covered by gadgets-pixel-11-tensor-g6-tpu (2026-08-14), including the filler-stripping dictation feature"
-    },
-    {
-      "url": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
-      "reason": "duplicate of published gadgets-matic-cues-voice (Gizmodo, 2026-08-14) — same firmware release"
-    },
-    {
-      "url": "https://www.notebookcheck.net/Hoverair-Versa-launches-on-Indiegogo-Self-flying-gimbal-camera-with-AI-auto-tracking-10-bit-H-LOG-and-up-to-17-5-stops-dynamic-range.1372080.0.html",
-      "reason": "duplicate of published gadgets-hoverair-versa (Tom's Hardware, 2026-08-11) — same product story"
-    },
-    {
-      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "reason": "within-pool duplicate: same outlet + same core topic (AI pet identification failing) as the Pet Memory review, both from The Verge's Pet Week hub"
-    },
-    {
-      "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
-      "reason": "within-pool duplicate of the Engadget HomePod-display beta-code story; rumor round-up rather than a capability shift"
-    }
-  ],
-  "runners_up": [
-    "https://www.engadget.com/2239524/things-i-learned-about-the-rumored-homepod-display-from-macos-beta-code/",
-    "https://gizmodo.com/eufys-latest-security-system-is-an-all-seeing-local-first-camera-array-2000800042",
-    "https://www.digitaltrends.com/computing/viture-pro-2-review/",
-    "https://9to5google.com/2026/08/14/pixel-journal-ai-update/",
-    "https://www.androidauthority.com/airseekers-tron-review-3686518/"
   ]
 }

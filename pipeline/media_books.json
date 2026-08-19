@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "books",
   "media": [
     {
-      "id": "books-amazon-destructive-scanning",
+      "id": "books-ai-book-discoverability",
       "type": "image",
-      "src": "pipeline/media/books-amazon-destructive-scanning.png"
+      "src": "pipeline/media/books-ai-book-discoverability.jpg"
     },
     {
-      "id": "books-synthetic-consensus",
+      "id": "books-ai-article-versioning",
       "type": "image",
-      "src": "pipeline/media/books-synthetic-consensus.jpg"
+      "src": "pipeline/media/books-ai-article-versioning.jpg"
     },
     {
-      "id": "books-claude-watermark-word-choice",
+      "id": "books-mcgraw-hill-ai-results",
+      "type": "svg"
+    },
+    {
+      "id": "books-story-hacker-os",
       "type": "video",
-      "src": "pipeline/media/books-claude-watermark-word-choice.mp4",
-      "poster": "pipeline/media/books-claude-watermark-word-choice.jpg"
+      "src": "pipeline/media/books-story-hacker-os.mp4",
+      "poster": "pipeline/media/books-story-hacker-os.jpg"
     },
     {
-      "id": "books-china-publishing-ai-standards",
-      "type": "image",
-      "src": "pipeline/media/books-china-publishing-ai-standards.png"
-    },
-    {
-      "id": "books-code-yes-novels-no",
-      "type": "image",
-      "src": "pipeline/media/books-code-yes-novels-no.png"
+      "id": "books-automated-author-stack",
+      "type": "video",
+      "src": "pipeline/media/books-automated-author-stack.mp4",
+      "poster": "pipeline/media/books-automated-author-stack.jpg"
     }
   ]
 }

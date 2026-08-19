@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "games",
   "picks": [
     {
@@ -7,60 +7,60 @@
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://www.gamesindustry.biz/three-epic-veterans-are-building-an-ai-powered-game-engine-to-break-the-industrys-doom-cycle",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-08-18T13:32:01+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/logo-with-wordmark-coloured-1920x1080-vertical-black-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Three Epic Games veterans — including former Unreal lead evangelist Sjoerd De Jong and ex-Unreal product director Arjan Brussee — detail Immens, a European game engine whose architecture, tooling and asset pipelines are built from scratch around AI agents rather than bolting AI on. They pitch it as a way for small teams to cut cost and dev time amid mounting discontent with Unity and Unreal.",
-      "rationale": "A new engine designed around AI agents from the architecture up is the most consequential tooling story in the pool — it changes what a small team's pipeline could look like."
+      "url": "https://www.youtube.com/watch?v=v6QujSBg4Xw",
+      "source": "Unreal Engine (YouTube)",
+      "published_iso": "2026-08-18T16:00:18+00:00",
+      "og_image": "https://i.ytimg.com/vi/v6QujSBg4Xw/maxresdefault.jpg",
+      "excerpt": "Epic's Unreal Fest Chicago 2026 session on 'World Modeling and Vibe Simulation with Unreal Engine' shows how engine-authored scenes become promptable synthetic-data and simulation pipelines for physical-AI systems. A concrete look at world models entering a mainstream production engine rather than staying in demo reels.",
+      "rationale": "The only production-tooling story in the pool: world models moving into a mainstream engine changes what an authored scene is actually for."
     },
     {
       "rank": 2,
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "url": "https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-08-17T17:43:23+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/JoinUs_WolfHausGames_KeyArtClean1080_082225.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Wolf Haus's co-founders explain how a 12-person team is shipping the large-scale cult simulator Join Us using in-house tech and explicitly no generative AI — a counter-case to the 'AI lets small teams do AAA' pitch, arguing custom tooling and Hollywood-style production discipline do the same job.",
-      "rationale": "The direct counter-case to pick 1: custom tooling and production discipline, not genAI, as the way a 12-person team reaches large-scale scope."
+      "url": "https://www.gamesradar.com/games/action/after-25-percent-positive-steam-reviews-soulslike-dev-realizes-people-hate-ai-slop-and-admits-if-it-looks-like-the-effort-is-not-there-that-is-a-fair-reading-of-what-is-on-screen/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-08-19T16:41:04+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zrYzoAoNwNZYgUdGyPg4zZ-1920-80.jpg",
+      "excerpt": "After its Soulslike landed at 25% positive on Steam, the developer publicly concedes players read AI-assisted assets as an absence of effort: 'if it looks like the effort is not there, that is a fair reading of what is on screen.' A blunt account of perceived craft becoming the actual quality bar.",
+      "rationale": "A developer on the record admitting perceived effort is the real quality bar — the clearest statement yet of the cost of AI-assisted assets at retail."
     },
     {
       "rank": 3,
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "url": "https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370",
-      "source": "Kotaku",
-      "published_iso": "2026-08-18T22:00:10+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/Neverness-To-Everness-new-1.3-update-artwork-Hotta-Games.jpg",
-      "excerpt": "Players in China spotted a free-trial watermark for ByteDance's Doubao AI image tool left on in-game seahorse artwork in Neverness To Everness' 1.3 update — an accidental disclosure of generative AI in a shipped live-service art pipeline.",
-      "rationale": "A shipped live-service update leaked its own AI tool watermark — the plainest possible reminder that asset QA now has to check for provenance artifacts."
+      "url": "https://www.gamespot.com/articles/james-pond-new-trailer-has-ai-alarm-bells-ringing-comments-turned-off/",
+      "source": "GameSpot",
+      "published_iso": "2026-08-19T15:00:15+00:00",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/08/James-Pond.jpg",
+      "excerpt": "The retro revival James Pond's new trailer set off AI alarm bells among viewers — comments were turned off — and the developer insists no generative AI was used. A case study in how AI-detection suspicion now shapes marketing art direction whether or not AI was involved.",
+      "rationale": "The false-positive case: suspicion now attaches to human-made work too, which makes art direction a reputation decision even without AI in the pipeline."
     },
     {
       "rank": 4,
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "url": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-08-07T13:19:46+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/skyrim-modding-ai-feature-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A long feature on generative AI inside the Skyrim modding scene, reported from the perspective of players, modders and the mod-hosting sites themselves — including why disclosure tagging keeps failing and how UGC platforms are struggling to build workable AI policy.",
-      "rationale": "Reported from inside a UGC platform, it shows exactly where AI disclosure tagging breaks down — the practical problem every community-facing product now has."
+      "url": "https://www.eurogamer.net/gunz-the-duel-steam-problems-network-ai",
+      "source": "Eurogamer",
+      "published_iso": "2026-08-18T09:29:49+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/gunz-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "The 20-year-old shooter Gunz the Duel returned to Steam to a mixed rating, with players flagging suspected generative-AI art in the re-release alongside network problems. Another case of AI-asset detection by the audience turning into an immediate storefront-reputation hit.",
+      "rationale": "Shows the same detection dynamic hitting a re-release, where AI-looking art compounds ordinary launch problems into a mixed store rating."
     },
     {
       "rank": 5,
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-devs-tried-to-give-npcs-fear-reactions-but-it-got-cut-after-a-few-horrifying-weeks-when-women-were-just-dropping-their-babies-left-and-right/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-08-18T14:45:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Z6t76LEBAiCVQWA3uCVwtB-1920-80.jpg",
-      "excerpt": "CD Projekt Red couldn't ship the NPC fear-reaction system it prototyped for The Witcher 3 because emergent crowd behaviour broke in horrifying ways — a concrete case study in how hard believable autonomous NPC behaviour actually is to tune.",
-      "rationale": "A concrete failure case for autonomous NPC behaviour, useful ballast for anyone now wiring LLM-driven NPCs into an open world."
+      "url": "https://www.gamespot.com/articles/sony-oasis-loving-ceo-thinks-were-going-to-crave-human-made-art-in-the-age-of-ai/",
+      "source": "GameSpot",
+      "published_iso": "2026-08-18T15:21:08+00:00",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4524100-astro-bot.jpg",
+      "excerpt": "Sony's CEO argues that as AI-generated content floods creative fields, audiences will increasingly seek out demonstrably human-made work — a strategic bet from a platform holder whose studios set art-direction norms. Frames 'human-made' as a positioning asset rather than a constraint.",
+      "rationale": "A platform holder framing 'human-made' as market positioning rather than nostalgia — the strategic counterpart to the backlash cases above."
     }
   ],
   "dropped": [
@@ -69,36 +69,44 @@
       "reason": "Duplicate of published 2026-08-12 card 'games-gamescom-dev-survey' (GamesIndustry.biz) — same 100-speaker Gamescom Dev survey."
     },
     {
-      "url": "https://www.eurogamer.net/1666-amsterdam-ai-tools-controversy",
-      "reason": "Duplicate of published 2026-08-11 card 'games-1666-ai-assets-cut' (GamesRadar+) — same Desilets statements, including the same quotes."
-    },
-    {
-      "url": "https://aftermath.site/1666-amsterdam-ai-game/",
-      "reason": "Same 1666: Amsterdam story/cluster as above; already published 2026-08-11."
+      "url": "https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-ai-overlord-whether-you-like-it-or-not",
+      "reason": "Duplicate of published 2026-08-14 card 'games-twitch-ai-optout' (Kotaku) — same Twitch default-on AI training opt-out event."
     },
     {
       "url": "https://aftermath.site/twitch-amazon-ai-labels-aioptedout-noai-nogenai/",
-      "reason": "Duplicate of published 2026-08-14 card 'games-twitch-ai-optout' (Kotaku) — same Twitch opt-out event and the same AIOptedOut tag response."
+      "reason": "Same Twitch story; the published 2026-08-14 Kotaku card already covers the creator-side #AIOptedOut tagging response."
     },
     {
-      "url": "https://www.rockpapershotgun.com/rideshare-stimulator-finally-gets-its-genai-disclosure-after-much-saber-rattling-and-it-turns-out-the-game-also-uses-the-tech-for-in-game-music",
-      "reason": "Saber / Rideshare Stimulator cluster — continuation of published 2026-08-12 card 'games-saber-chatgpt-writer'; cluster capped and dropped in favour of never-covered stories."
+      "url": "https://www.eurogamer.net/1666-amsterdam-ai-tools-controversy",
+      "reason": "Duplicate of published 2026-08-11 card 'games-1666-ai-assets-cut' (GamesRadar+) — same Desilets statements and quotes."
     },
     {
-      "url": "https://www.gamespot.com/articles/rideshare-stimulator-outlines-ai-usage-after-contentious-exchange-with-ex-writer/",
-      "reason": "Same Saber / Rideshare Stimulator cluster."
+      "url": "https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer",
+      "reason": "Saber / Rideshare Stimulator cluster — continuation of published 2026-08-12 card 'games-saber-chatgpt-writer' (missing Steam AI disclosure); the cluster was already capped and dropped on 2026-08-19."
     },
     {
       "url": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
-      "reason": "Same Saber / Rideshare Stimulator cluster."
+      "reason": "Same Saber / Rideshare Stimulator cluster; also a within-pool duplicate of the GamesIndustry.biz version."
     },
     {
-      "url": "https://www.rockpapershotgun.com/for-a-few-weeks-women-were-just-dropping-their-babies-the-witcher-3-lead-on-designing-npcs-that-react-appropriately",
-      "reason": "Within-pool duplicate of the Witcher 3 NPC story; kept the GamesRadar+ version to keep outlet diversity (RPS already holds pick 4)."
+      "url": "https://www.rockpapershotgun.com/saber-admit-ridershare-stimulator-features-generative-ai-writing-but-deny-they-replaced-taxi-games-lead-writer-with-chatgpt",
+      "reason": "Same event as published 2026-08-12 card 'games-saber-chatgpt-writer' — Saber confirming genAI writing in Rideshare Stimulator."
     },
     {
-      "url": "https://www.gamespot.com/articles/sony-oasis-loving-ceo-thinks-were-going-to-crave-human-made-art-in-the-age-of-ai/",
-      "reason": "Fresh and unique but scored below the top 5 — executive commentary, low actionability."
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/take-twos-former-ai-guy-is-in-a-twist-skeptical-about-ai-now-the-guy-should-be-selling-you-the-gold-if-hes-actually-got-the-gold/",
+      "reason": "Write-up of the same Luke Dicken interview published 2026-08-10 as card 'games-dicken-dungeon-master' (80 Level)."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/the-backlash-against-gen-ai-in-video-games-proves-voting-with-your-wallet-works/",
+      "reason": "Same lawyer (Haley MacLean) / anti-AI contract-clause reporting already published 2026-08-15 as card 'games-no-ai-clause' (PC Gamer)."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/simulation/starsand-islands-1-0-update-isnt-going-great-amid-claims-of-ai-and-lackluster-multiplayer/",
+      "reason": "Fresh, but a third near-identical 'launch tanks amid AI-asset suspicion' item; dropped for theme spread and to keep GamesRadar+ within the outlet cap."
+    },
+    {
+      "url": "https://www.gamespot.com/articles/ex-playstation-boss-says-game-development-will-have-a-tough-future-because-of-ai/",
+      "reason": "Fresh, but a second GameSpot executive-commentary piece; would have breached the max-2-per-outlet diversity guard alongside the Sony CEO pick."
     }
   ]
 }

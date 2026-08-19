@@ -1,288 +1,138 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-airpods-camera-demo-video",
+      "id": "gadgets-alexa-plus-fire-tv-free",
       "eyebrow": "AI NEWS",
-      "headline": "카메라 달린 AirPods가\nmacOS 베타 영상에 먼저 나타났다",
-      "body": "MacRumors가 macOS 베타에서 카메라 AirPods 시연 영상을 찾아냈다.",
-      "mini_headline": "카메라 AirPods 영상",
+      "headline": "월 20달러였던 Alexa+가\n파이어 TV에서 공짜가 됐다",
+      "body": "아마존이 월 20달러 구독료를 없애고 미국 파이어 TV 사용자 전원에게 Alexa+를 열었다.",
+      "mini_headline": "Alexa+ 전면 무료화",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2239785/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "MacRumors가 macOS Tahoe 26.7 릴리스 후보에서 짧은 영상 하나를 찾아냈다. 소문으로만 돌던 카메라 탑재 AirPods를 처음 움직이는 그림으로 보게 된 셈이다. 영상 속 남자는 새 AirPods를 낀 채 책 표지를 들어 올린다. Visual Intelligence가 제목을 읽게 하려는 동작이다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "cap": "macOS 베타에서 발견된 카메라 AirPods 시연 영상의 한 장면."
-          },
-          {
-            "t": "p",
-            "x": "클립 위로는 Siri의 목소리가 깔린다. “with Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.” 눈에 들어온 것을 나중을 위해 저장해 두라는 이야기다."
-          },
-          {
-            "t": "p",
-            "x": "Bloomberg의 Mark Gurman은 앞서 이 AirPods가 “visual information in low resolution”을 받아들여 Apple AI 기능의 눈 노릇을 하도록 설계됐다고 전했다. Siri가 길을 턴바이턴으로 읽어주거나 주변에 관한 질문에 답하는 그림이다."
-          },
-          {
-            "t": "p",
-            "x": "영상 속 AirPods는 AirPods Pro 3를 조금 두껍게 만든 모양새다. Gurman이 예상한 대로다. 카메라를 넣느라 스템이 길어지고, 데이터가 클라우드로 올라가는 동안 알려주는 LED가 붙는다는 이야기도 함께 나왔다. 다만 영상은 뒤에서만 잡아서 그 각도로는 불빛이 보이지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "Visual Intelligence를 얹은 이상 상대는 Meta의 Ray-Ban 스마트 글라스 같은 카메라 달린 AI 기기다. Apple도 자체 스마트 글라스를 따로 준비 중이라고 알려져 있다. 사진이나 영상을 찍으라고 만든 카메라는 아니라지만, 티가 안 나는 생김새는 오히려 걱정을 키운다. Meta가 “pervert glasses” 소리를 들으며 겪은 반발이 앞에 놓여 있다."
-          },
-          {
-            "t": "p",
-            "x": "지금 나온 정보는 여기까지다. 시연 영상이 벌써 베타에 실릴 정도라면, 9월에 다음 세대 iPhone과 함께 나올 것으로 보이는 새 Siri에 맞춰 이 AirPods도 모습을 드러낼 수 있다."
-          }
+          { "t": "img", "src": "https://www.engadget.com/img/gallery/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/intro-1787134924.jpg", "cap": "아마존 Alexa+" },
+          { "t": "p", "x": "아마존이 미국에서 파이어 TV 기기를 쓰는 사람이라면 누구나 Alexa+를 무료로 쓰게 했다. 이 AI 비서를 단독으로 이용하려면 원래 월 20달러를 내야 했다. 프라임 구독자에게는 늘 무료였지만, 이제 아무도 돈을 낼 필요가 없다." },
+          { "t": "p", "x": "대상 기기는 현행 세대 아마존 파이어 TV 스틱과 파이어 TV 큐브, 아마존 엠버 스마트 TV다. 하이센스나 파나소닉처럼 Alexa+를 내장한 다른 제조사 스마트 TV도 들어간다." },
+          { "t": "p", "x": "아마존은 몇 해에 걸친 개발 끝에 올해 2월 새 Alexa 경험을 공개했다. 예전 Alexa는 음성 명령용 키워드나 특정 문구를 외워야 움직였다. Alexa+는 자연어를 알아듣는다." },
+          { "t": "p", "x": "특정 시리즈를 틀어 달라고 지목하는 대신 추천을 부탁해도 된다. \"여성 주연이 강한 시대극을 보여줘\"라고 말한 뒤 \"좀 더 최신 걸로 추천해줘\"라며 범위를 좁혀 간다. 지금 보고 있는 화면을 두고 배우의 출연작을 설명해 달라는 식으로 맥락을 물어도 답이 온다." },
+          { "t": "p", "x": "스마트홈 기기를 갖췄다면 Alexa+에 말을 걸어 제어한다. 현관을 보여 달라고 하면 집 앞 카메라 영상이 연결된 TV에 뜨고, 스마트 잠금장치가 있으면 문을 잠그라고 시킨다." },
+          { "t": "p", "x": "아마존에 따르면 사용자가 Alexa+와 주고받는 말의 양은 예전 Alexa의 거의 두 배다. 대화체로 던지는 질문과 요청을 이해하기 때문이다." },
+          { "t": "p", "x": "회사는 무료 Alexa+를 앞으로 더 많은 기기와 지역으로 넓힐 수 있다고 밝혔다. 무료 이용은 지금 미국 고객으로 한정되지만, Alexa+ 자체는 영국, 캐나다, 멕시코, 이탈리아, 스페인, 독일, 오스트리아, 브라질, 프랑스에서도 쓸 수 있다. 아마존은 올해 안에 더 많은 나라로, 2027년에는 10개 지역을 추가로 넓힐 계획이다." }
         ]
       }
     },
     {
-      "id": "gadgets-google-pet-memory-cats",
+      "id": "gadgets-ice-smart-glasses-ban",
       "eyebrow": "AI NEWS",
-      "headline": "Pet Memory를 2주 써봤다\n고양이 셋이 모두 Smokey가 됐다",
-      "body": "Pet Memory는 2주 내내 고양이 셋을 Smokey 하나로 불렀다.",
-      "mini_headline": "모두 Smokey가 됐다",
+      "headline": "감시 기관 ICE조차 스마트 안경을\n직원 사생활 위험으로 규정했다",
+      "body": "ICE가 메타 글래스 같은 기기가 민감 정보를 의도치 않게 담을 수 있다며 직원 착용을 금지했다.",
+      "mini_headline": "ICE, 스마트 안경 금지",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/even-ice-thinks-smart-glasses-are-a-privacy-liability-2000800271",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "The Verge의 스마트홈 리뷰어에게 보안 카메라의 가장 쓸모 있는 용도는 집 안팎의 동물을 지켜보는 일이다. 문제는 알림이 쏟아지는 통에 정작 중요한 걸 놓친다는 데 있다. Google이 Gemini for Home에 Pet Memory를 붙였을 때 기대를 건 이유다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0001_IMG_8622.jpg?quality=90&strip=all",
-            "cap": "Google Nest Cam 앞으로 바짝 다가선 Boone. 사진 Jennifer Pattison Tuohy / The Verge"
-          },
-          {
-            "t": "p",
-            "x": "Pet Memory는 우리 집 반려동물이 누구인지를 Google Home에 가르치는 기능이다. Nest 카메라가 '동물이 보였다'에서 '어떤 동물이 보였다'로 넘어가고, 그 정보에 맞춰 집이 반응한다. 필자의 계획은 고양이 세 마리를 구분해 급식기를 자동으로 돌리는 것이었다. 2주가 지나도 Gemini는 셋을 갈라내지 못했다."
-          },
-          {
-            "t": "p",
-            "x": "동작 알림만 주던 카메라가 무엇을 봤는지 말해주는 쪽으로 넘어온 건 최근 일이다. Nest는 2017년 Nest Cam IQ로 사람과 동물을 갈랐고 이후 동물 감지와 AI 설명을 더했다. Ring과 Wyze, Apple Home도 AI 설명을 붙였다. 개체를 이름으로 부르겠다고 나선 건 Google Home이 처음이다."
-          },
-          {
-            "t": "p",
-            "x": "작동 방식은 단순하다. 사용자가 Gemini에 적어 넣은 설명과 카메라 영상에서 Gemini가 만든 설명을 맞춰본다. Google Home 프로덕트 매니저 Rudra Bhatt는 “If these are the same, we will replace the pets with the name in the caption”이라고 설명했다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0006_IMG_8456.jpg?quality=90&strip=all",
-            "cap": "Google Home이 기억한 유일한 고양이 Smokey. Nest Cam에 잡힌 고양이는 죄다 Smokey가 된다."
-          },
-          {
-            "t": "p",
-            "x": "조건도 값도 만만치 않다. 월 20달러 Google Home Advanced Plan이 필요하고, 테스트에서는 Nest 카메라에서만 돌았다. 실내 카메라 전용이라 현관을 오가는 고양이에는 쓸 수 없었다. 무엇보다 Familiar Faces와 달리 개체별 시각 프로필을 만들지 않는다. 학습 과정도, 사진을 올릴 방법도, 틀린 걸 고칠 방법도 없다. 이름과 품종만 넣으면 나머지는 알아서 맞춘다는 구조다."
-          },
-          {
-            "t": "p",
-            "x": "흰 발을 가진 턱시도 고양이 Boone, 태비 새끼 고양이 Osa, 회색과 흰색이 섞인 큰 고양이 Smokey. 설명을 더 자세히 적어 넣자 시스템은 추가 정보를 처리할 수 없다고 답하고는 모든 고양이를 Smokey라 불렀다. Bhatt도 한 마리일 때는 잘하고 개와 고양이 정도는 가리지만 같은 종 여러 마리는 어려워한다고 인정했다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_7979.jpeg?quality=90&strip=all",
-            "cap": "Smokey가 아니다. 다만 Gemini for Home의 설명이 얼마나 자세해졌는지는 보여준다."
-          },
-          {
-            "t": "p",
-            "x": "급식 자동화도 어긋났다. Nest Cam이 특정 고양이를 봤을 때만 Aqara 급식기가 돌게 걸어뒀는데, Boone과 Smokey를 못 가리니 둘 중 아무나 다가가도 사료가 나왔다. Google Home 앱에는 자동화 실행 횟수를 제한하는 설정도 없다. 하루가 저물 무렵 밥그릇은 넘쳤다."
-          },
-          {
-            "t": "p",
-            "x": "가장 곤란한 건 오인식이었다. 어느 날 Home Brief는 Smokey가 차고에서 뭔가 먹고 있다고 알렸다. 고양이가 차고에서 먹는 건 좋은 신호가 아니다. 클립을 열어보니 세탁실에서 제 밥을 먹는 Boone이었고, 차고 카메라를 하루치 되감아도 고양이는 없었다. 이쯤 되면 아무것도 안 하느니만 못하다."
-          },
-          {
-            "t": "p",
-            "x": "개체를 알아보는 일은 동물이 있다는 걸 알아보는 일보다 훨씬 어렵다. AI 카메라가 어디로 가는지는 보이지만 오늘 기대고 쓸 기능은 아니다. 같은 월 20달러에 딸려 오는 연속 녹화가 아직은 더 쓸모 있다."
-          }
+          { "t": "img", "src": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-09.jpg", "cap": "레이밴 메타 1세대 스마트 안경" },
+          { "t": "p", "x": "이민세관단속국(ICE)도 스마트 안경을 금지한 조직 명단에 공식으로 이름을 올렸다." },
+          { "t": "p", "x": "뉴욕타임스에 따르면 ICE는 화요일 직원의 스마트 안경 사용을 금지하는 메모를 돌렸다. 현장 요원은 물론 사무실 근무자까지 대상이다. 이유는 사생활 침해 소지다." },
+          { "t": "p", "x": "뉴욕타임스가 전한 데이비드 벤투렐라 국장 대행의 메모 문구는 이렇다. \"…메타 글래스나 유사 기기의 사용은 민감한 정보를 의도치 않게 담거나 기록하거나 전송할 수 있고, 그 결과 사생활과 법적 보호를 훼손할 소지가 있다.\"" },
+          { "t": "p", "x": "'의도치 않게 담는다'는 대목이 날카롭다. 직원이나 요원이 작정하고 찍는 영상과 사진이 아니라, 스마트 안경이 곁다리로 빨아들이는 정보를 겨냥한 문장이다. 그런 걱정에는 근거가 있다." },
+          { "t": "p", "x": "올해 초 메타 하청 계약직으로 일한 내부 고발자들은 회사의 AI 학습 프로그램에 쓰이던 영상을 두고 문제를 제기했다. 성관계 장면, 나체, 화장실 사용 같은 사적인 영상을 검토하라는 지시를 받았다고 했다. 그중 일부는 실수로 촬영된 것으로 보인다고 이들은 말했다. 메타의 이용약관을 감안하면 메타 스마트 안경으로 찍은 영상과 사진은 겉보기만큼 안전하지 않다." },
+          { "t": "p", "x": "참고로 국토안보부(DHS) 요원들이 스마트 안경, 특히 메타 제품을 쓰는 모습은 이미 목격됐다. 이번 금지가 선제 조치는 아닌 셈이다. DHS가 미국 국경 감시에 쓸 자체 스마트 안경을 개발 중이라는 보도도 나왔다. 얼굴 인식을 스마트 안경에 결합해 사람 얼굴을 데이터베이스와 자동 대조하려는 관심까지 함께 거론된다." },
+          { "t": "p", "x": "ICE의 금지는 철학의 문제가 아니다. 감시는 이 조직이 일상적으로 하는 일이다. 다만 다른 걱정이 있고, 그 걱정의 대상은 스마트 안경 자체보다 그 주변을 둘러싼 미심쩍은 사용자 데이터 정책 쪽에 가깝다." }
         ]
       }
     },
     {
-      "id": "gadgets-meta-face-recognition-patent",
+      "id": "gadgets-comcast-wifi-motion-sensing",
       "eyebrow": "AI NEWS",
-      "headline": "Meta의 얼굴 인식 안경 구상이\n새 특허 출원서에서 다시 나왔다",
-      "body": "Meta 특허는 스마트 글라스가 얼굴로 사람을 알아보는 방식을 담았다.",
-      "mini_headline": "얼굴 인식 안경 특허",
+      "headline": "카메라 없이 수백만 대 컴캐스트 공유기가\n집 안 움직임을 감지하기 시작했다",
+      "body": "컴캐스트가 와이파이 신호 변화로 집 안 움직임을 잡아내는 와이파이 모션을 전국에 무료로 푼다.",
+      "mini_headline": "공유기가 된 동작 센서",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/wearables/metas-facial-recognition-smart-glasses-idea-just-resurfaced-in-a-patent/",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/millions-of-comcast-wifi-routers-can-now-tell-when-youre-moving-around-the-house-2000800324",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "Meta는 올해 내내 스마트 글라스에 얼굴 인식이 들어온다는 우려를 달래왔다. 그런데 새로 공개된 특허 출원서를 보면 그 구상을 접은 적이 없다."
-          },
-          {
-            "t": "p",
-            "x": "Patentlyze가 먼저 전한 이 출원서는 Meta가 2월에 낸 것이다. AI 얼굴 인식을 스마트 글라스와 함께 써서 사람을 식별하고, 그 사람과 엮인 정보를 미디어를 만들 때 쓰는 방식을 적었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/08/Meta-smart-glasses-facial-recognition-patent.jpg?resize=1528%2C917",
-            "cap": "공개된 Meta 특허 출원서의 도면. 이미지 US Patent and Trademark Office"
-          },
-          {
-            "t": "p",
-            "x": "특허를 냈다고 제품이 되는 건 아니다. 다만 Meta가 웨어러블에 쓸 얼굴 인식을 거듭 들여다봤다는 보도가 몇 달째 쌓인 끝에 나온 문서다."
-          },
-          {
-            "t": "p",
-            "x": "2월에는 Name Tag라는 내부 기능이 알려졌다. 스마트 글라스가 실시간으로 사람을 알아보게 하는 기능이다. 6월에 이야기는 한층 이상해졌다. 연구자들이 Meta AI 앱 안에서 잠들어 있던 얼굴 인식 구성 요소를 찾아냈다. 얼굴을 감지해 생체 데이터로 바꾸는 시스템까지 들어 있었다. Meta는 코드를 지웠고 얼굴 인식 기능을 내놓은 적은 없다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "비슷한 시기에 Meta가 Rank One Computing에서 얼굴 인식 기술을 라이선스했다는 사실도 드러났다. 미군과 법 집행기관을 고객으로 둔 회사다. 이 소프트웨어 역시 Meta AI 앱 안에 잠든 채 발견됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/03/meta-smart-glasses-1.jpg?resize=2000%2C1200",
-            "cap": "Meta Ray-Ban Gen 2 스마트 글라스. 이미지 Meta"
-          },
-          {
-            "t": "p",
-            "x": "Meta가 안경용 얼굴 인식을 파봤다는 데는 이제 의심의 여지가 없다. 남은 물음은 그 작업이 실제로 살 수 있는 물건에 실리느냐다."
-          },
-          {
-            "t": "p",
-            "x": "특허는 벌써 비판을 받고 있다. CNET이 전한 성명에서 Center for Democracy and Technology는 스토킹과 가정폭력 피해자를 비롯한 취약한 사람들이 이 기술에 노출될 수 있다고 경고했다."
-          },
-          {
-            "t": "p",
-            "x": "Name Tag를 따라다니던 걱정과 같은 지점이다. 사진 라이브러리 안쪽에 들어앉은 얼굴 인식과, 사람 얼굴에 얹혀 공공장소를 돌아다니는 카메라는 다르다. Meta의 안경은 이미 보통 안경과 잘 구분되지 않는다. 여기에 얼굴 인식이 붙으면, 옆에 선 사람은 자기가 그냥 보이는 중인지 조용히 식별되는 중인지 알 길이 없다."
-          }
+          { "t": "img", "src": "https://gizmodo.com/app/uploads/2023/06/2bae73dacdfc4714ab26c351267aa385.jpg", "cap": "사진: Jonathan Weiss (Shutterstock)" },
+          { "t": "p", "x": "컴캐스트의 엑스피니티가 와이파이 공유기를 홈 보안 기기 쪽으로 밀고 있다. 수백만 가입자가 확장된 모니터링 기능을 선택할 수 있게 됐다. 회사는 전국 고객에게 추가 비용 없이 제공하는 사이버·홈 보호 플랫폼 엑스피니티 실드(Xfinity Shield)를 내놨다. 보안 기능과 자녀 보호 기능에, 기존 와이파이 장비를 동작 감지 장치로 바꾸는 와이파이 모션(WiFi Motion)이 얹혔다." },
+          { "t": "p", "x": "컴캐스트 설명에 따르면 와이파이 모션은 선택 가입 방식이다. 엑스피니티 게이트웨이가 내보내는 와이파이 신호로 집 안의 움직임을 잡아내며, 카메라도 녹화 장치도 쓰지 않는다. 공유기와 연결된 와이파이 기기 사이를 오가는 무선 신호의 변화를 읽는 방식이다." },
+          { "t": "p", "x": "와이파이 모션 자체는 2025년에 처음 나왔다. 컴캐스트는 이번에 제공 범위를 넓히면서 엑스피니티 실드 생태계의 핵심 축으로 내세운다. 존 기셀먼 커넥티비티·플랫폼 부문 최고성장책임자는 네트워크가 단순한 연결을 넘어 거주자와 그들의 정보를 지키는 데까지 가야 한다고 말했다." },
+          { "t": "p", "x": "TV나 프린터처럼 연결된 기기 근처에서 움직임이 잡히면 알림이 온다. 집에 있을 때, 잘 때, 외출했을 때에 맞춰 설정을 따로 조정한다. 엑스피니티 앱에서는 실시간 움직임과 지난 기록을 함께 본다." },
+          { "t": "p", "x": "컴캐스트는 집 크기, 구조, 건축 자재, 공유기 위치, 기기 배치에 따라 성능이 달라진다고 인정했고 일정한 성능을 보장하지도 않았다. 프라이버시 단체와 이용자들은 이미 이 기술의 감시 가능성과 그 찜찜함을 지적하고 나섰다." },
+          { "t": "p", "x": "독일에서 나온 최근 연구는 와이파이 신호가 동작 감지 이상으로 쓰인다는 사실을 보여줬다. 연구진은 빔포밍 데이터와 인공지능으로 개인을 99.5% 정확도로 식별해냈고, 평범한 공유기가 감시 도구로 변할 수 있다고 경고했다." },
+          { "t": "p", "x": "가장 무거운 대목은 컴캐스트 자사 지원 문서에 있다. 와이파이 모션이 만들어내는 정보를 제3자에게 제공할 수 있다고 적혀 있다. 수사 과정의 법 집행기관, 컴캐스트가 얽힌 분쟁, 법원 명령이나 소환장에 따라 이 데이터를 공유할 권리를 회사가 갖는다." },
+          { "t": "p", "x": "컴캐스트는 이 우려를 묻는 답변 요청에 응하지 않았다." }
         ]
       }
     },
     {
-      "id": "gadgets-humanoid-firefighting-drill",
+      "id": "gadgets-macos-27-siri-app",
       "eyebrow": "AI NEWS",
-      "headline": "소방 훈련에 나선 휴머노이드 23팀\n끝까지 해낸 건 세 팀뿐이었다",
-      "body": "야외 소방 종목에 나선 휴머노이드 23팀 중 세 팀만 전 단계를 끝냈다.",
-      "mini_headline": "끝까지 간 건 세 팀",
+      "headline": "맥 독에 처음 올라온 독립 Siri 앱\n지난 대화가 통째로 남는다",
+      "body": "macOS 27이 이전 대화를 저장하고 iCloud로 동기화하는 맥 전용 Siri 앱을 처음 담는다.",
+      "mini_headline": "독립 앱이 된 맥 Siri",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Humanoids-flop-in-first-real-firefighting-drill-at-World-Robot-Games.1370784.0.html",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "로봇은 춤추고 백덤블링을 하고 사람보다 빨리 달린다. 정작 사람을 위험에 몰아넣지 않고 불을 끄는 일 앞에서는 그런 재주가 별 쓸모가 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humanoid-robot-firefighting-games.jpg",
-            "cap": "실제 소방서를 무대로 치러진 휴머노이드 소방·구조 종목."
-          },
-          {
-            "t": "p",
-            "x": "제2회 World Humanoid Robot Games는 휴머노이드를 위한 첫 야외 소방·구조 종목을 열었다. 지난해의 통제된 실내 환경에서 한 걸음 나간 무대다. 2026년 과제는 실제 소방서 안에서 치러졌고, 로봇들은 진짜 현장에 가까운 조건을 마주했다."
-          },
-          {
-            "t": "p",
-            "x": "각 로봇에게 주어진 시간은 30분. 무작위로 놓인 위험 물질을 이미지 인식으로 찾아 보고하고, 무작위로 지정된 밸브 세 개를 찾아 잠근 다음, 소화기를 찾아 실제 불을 꺼야 했다. 불을 붙이고 소화기를 제대로 썼는지 판정하는 일은 현직 소방관들이 맡았다."
-          },
-          {
-            "t": "p",
-            "x": "결과는 로봇의 지각과 운동 제어가 아직 얼마나 무른지를 드러냈다. 샌드박스 데모나 원격 VR 보조 조작에서 벗어나는 순간이 고비였다. 비와 시시각각 바뀌는 야외 조명, 소방서에 널린 잡동사니가 비전 시스템과 기계적 정밀도를 흔들었다. 종목에 이름을 올린 팀은 23곳, 8월 16일 경기에 나선 팀은 12곳이었고, 모든 단계를 끝낸 팀은 셋이다."
-          },
-          {
-            "t": "p",
-            "x": "돋보인 쪽은 UniX AI의 로봇이었다. 제한 시간 안에 요구된 정밀도로 과제를 마쳤다. 다만 전체 속도는 사람 소방관에 한참 못 미쳤고, 소화기 손잡이에 손을 맞추는 동작을 두 번 다시 해야 했다."
-          },
-          {
-            "t": "p",
-            "x": "사람 소방관이 훨씬 낫다는 결론은 그대로다. 그래도 이런 대회는 실패 데이터를 만들어낸다는 값을 한다. 각 팀은 8월 16일 야외 소방 종목에서 얻은 학습 데이터로 지각과 동작 계획, 균형 제어를 손봐 다음 대회에서는 소화기와 밸브를 제대로 잡겠다는 목표를 세웠다."
-          }
+          { "t": "img", "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg", "cap": "macOS 27의 Siri 앱" },
+          { "t": "p", "x": "베타 테스트가 막바지에 접어들면서 애플은 다음 달쯤 macOS 27 골든게이트를 정식 공개할 전망이다. 올해 업데이트에서 가장 큰 변화는 맥용으로 새로 만든 Siri 앱이다." },
+          { "t": "p", "x": "macOS 27로 올리면 맥 독에 Siri 앱 아이콘이 새로 뜬다. 애플이 맥 전용 Siri 앱을 내놓은 건 이번이 처음이다." },
+          { "t": "p", "x": "올해 macOS 27 골든게이트의 간판은 Siri AI다. 애플은 Siri를 바닥부터 다시 만들었다. 개인 맥락 이해, 세상 지식, 화면 인식, 앱 안에서의 동작 실행 같은 기능이 새 구조 위에 얹혔다." },
+          { "t": "p", "x": "Siri 앱은 이 체계의 핵심이다. 앱 안에서 지난 대화를 모두 훑어보거나 새 대화를 시작한다. iCloud로 애플 기기 사이에서 대화가 동기화되기도 한다. 아이폰에서 시작한 Siri 대화를 맥 앞에 앉아 이어서 본다는 얘기다." },
+          { "t": "img", "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri_app__b8roe5v68ywi_large_2x-1.jpg", "cap": "리스트 뷰와 카드형 그리드 뷰" },
+          { "t": "p", "x": "맥의 Siri 앱은 인터페이스를 두 가지로 고른다. 하나는 메시지 앱과 비슷한 리스트 뷰, 다른 하나는 대화 하나하나가 떠 있는 카드가 되는 그리드 뷰다." },
+          { "t": "p", "x": "시스템 설정에서는 Siri 앱이 대화를 얼마나 오래 보관할지 정한다. 영구 보관, 30일, 1년 가운데 고르면 되고, 뒤의 두 가지를 택하면 기한을 넘긴 대화는 영구 삭제된다." },
+          { "t": "p", "x": "시스템 설정에서 Siri 앱을 열었을 때 최근 대화로 갈지 새 대화로 갈지도 지정한다. 대화 미리보기에 보일 줄 수도 0줄에서 5줄까지 조정한다." },
+          { "t": "img", "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Screenshot-2026-08-19-at-2.18.18-PM.png", "cap": "시스템 설정의 Siri 앱 옵션" },
+          { "t": "p", "x": "Siri 앱은 맥북 네오(A18 Pro)와 M1 이상 맥에서 돌아간다." },
+          { "t": "p", "x": "9to5Mac의 평은 이렇다. 앱 자체는 꽤 기본적이지만, 애플이 macOS 27에 챗봇 형태의 Siri 앱을 넣기로 한 건 반갑다. 지난해 인터뷰에서 애플 임원들은 회사의 AI 전략을 두고 \"곁다리로 붙은 챗봇이 아니라 당신이 하는 모든 일에 통합된 경험\"을 만드는 것이라고 말했다. 당시만 해도 Siri 챗봇 앱을 낼 뜻이 없다는 신호로 읽혔는데, 올해 WWDC에서 애플은 지난 대화를 다시 보기에는 전용 앱이 가장 낫다고 판단했다고 설명했다." },
+          { "t": "p", "x": "관건은 맥 사용자가 Claude나 ChatGPT 대신 Siri 앱을 집어 드느냐다. 결국 결과물의 질에 달렸다. 세상 지식이나 개인 맥락을 묻는 질문에는 Siri 앱이 좋았지만, 더 복잡한 질의에는 여전히 Claude를 쓴다. 애플이 Siri AI와 애플 인텔리전스를 계속 다듬으면 그 판단도 바뀔 수 있다." }
         ]
       }
     },
     {
-      "id": "gadgets-pixel-watch-face-prompt",
+      "id": "gadgets-comu-action-pro-recorder",
       "eyebrow": "AI NEWS",
-      "headline": "시계 화면을 프롬프트로 만든다\nPixel Watch 5에서 직접 해봤다",
-      "body": "Pixel Watch 5는 프롬프트를 받아 정지 시계 화면 여섯 개를 만들어 준다.",
-      "mini_headline": "프롬프트로 만든 시계 화면",
+      "headline": "200달러짜리 AI 녹음기가\n스마트폰의 가장 큰 일을 가져갔다",
+      "body": "마이크 여섯 개와 70시간 배터리를 갖춘 200달러 코무 액션 프로가 회의 녹음을 폰에서 떼어냈다.",
+      "mini_headline": "폰 대신 전용 녹음기",
       "tool": "Gadgets",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/wellness/smartwatches/i-used-ai-to-create-a-deli-meat-inspired-watch-face-for-my-pixel-watch-5-and-now-im-questioning-everything",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/200-device-replaced-phones-biggest-job-record-meetings-killing-battery/",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "Pixel Watch 5에는 아무도 딱히 요청하지 않은 기능이 하나 붙었다. 음성이나 텍스트 프롬프트로 시계 화면을 만들어내는 생성형 AI다. 뒤를 받치는 건 Gemini다. 쓸 만하냐고 물으면, 그날의 창작 의욕과 취향에 달렸다고 답할 수밖에 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/ii3sSenhj5LRLh9Se38wGh.jpg",
-            "cap": "Pixel Watch 5의 Create Watch Face 앱. 사진 Dan Bracaglia / Tom's Guide"
-          },
-          {
-            "t": "p",
-            "x": "절차는 뜻밖에 간단하다. Create Watch Face 앱을 열고 직접 만들기를 누른 뒤 텍스트나 음성으로 넣으면 된다. 셀룰러나 Wi-Fi 연결은 필수다. 프롬프트를 넣고 나면 10~30초쯤 걸린다. 다섯 번에 한 번꼴로는 앱이 거절했다. 알아듣기 어렵거나 지나치게 복잡한 프롬프트, 인터넷이 약할 때 그랬다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/sXzHccxdRDnCrFUiE9LeVh.jpg",
-            "cap": "프롬프트를 넣고 기다리는 화면. 사진 Dan Bracaglia / Tom's Guide"
-          },
-          {
-            "t": "p",
-            "x": "첫 프롬프트는 “Teddy bears and laser beams”였다. 나온 그림은 입력한 문구보다 Pink Floyd풍 시리얼에 가까웠다. 앞쪽 단어를 지나치게 앞세워 질감을 잡는 버릇도 눈에 띄었다."
-          },
-          {
-            "t": "p",
-            "x": "생성이 끝나면 후보 여섯 개가 뜬다. 같은 프롬프트로 더 만들거나 처음부터 다시 갈 수도 있다. 지금으로서는 여섯 개 사이에 큰 차이가 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/HbkSNAW4CUz5LDFLpYXc6h.jpg",
-            "cap": "“A raging river with jumping orange salmon” 프롬프트의 결과. 사진 Dan Bracaglia / Tom's Guide"
-          },
-          {
-            "t": "p",
-            "x": "두 번째 프롬프트는 “A raging river with jumping orange salmon”이었다. 조금 나아지긴 했는데 연어보다는 클립아트 잉어 쪽이다. 세 번째로 넣은 “Deli meats”가 기사 맨 앞을 장식한 그 작품이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/UCoj7XvaeHGMzTXNN3Ga4j.jpg",
-            "cap": "생성된 시계 화면은 어떤 프롬프트를 넣어도 정지 화면이다. 사진 John Velasco / Tom's Guide"
-          },
-          {
-            "t": "p",
-            "x": "물고기가 천천히 헤엄치는 식의 움직임을 기대했다면 접는 게 좋다. 어떤 프롬프트를 넣어도 결과는 완전히 정지 화면이다."
-          },
-          {
-            "t": "p",
-            "x": "Google이 이미 무료로 뿌리는 시계 화면들이 이 앱이 만들어내는 어떤 것보다 기능이 풍부하다. 특별한 날이라면 재미 삼아 써볼 만하다. “teddy bears and laser beams”만은 피하는 게 좋겠다."
-          }
+          { "t": "img", "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/comu-android-hero.jpg", "cap": "코무 액션 프로" },
+          { "t": "p", "x": "하루에도 여러 사람과 이야기를 나눈다. 어떤 대화는 화상으로, 어떤 대화는 마주 앉아 이뤄진다. 두 상황 모두에서 굴러가는 녹음 방법을 찾아 헤맸는데 시도한 선택지마다 다른 문제가 튀어나왔다. 오터와 파이어플라이스 같은 회의 노트 도구로 시작했지만 모호한 정책과 데이터 프라이버시 문제 탓에 계속 쓰기가 꺼려졌다. 고객들도 이런 도구를 그리 편하게 여기지 않았다." },
+          { "t": "p", "x": "화상 회의는 노션으로 정착했다. 대화를 받아쓰고 할 일을 뽑아내는 솜씨가 좋다. 대면 회의는 폰으로 녹음한 뒤 오디오를 OpenAI 위스퍼에 올려 전사했다. 결과는 괜찮았지만 매번 파일을 옮기고 처리하는 일이 성가셨다. 최근 폰을 전용 AI 음성 녹음기로 대체했다." },
+          { "t": "img", "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img_20260816_164013.jpg", "cap": "폰은 이미 할 일이 많다" },
+          { "t": "p", "x": "폰으로 회의를 녹음하는 건 사실 아주 편하다. 문제는 폰이 이미 다른 일로 바쁘다는 점이다. 하루 두세 시간, 때로는 네 시간씩 녹음하면 배터리에 부담이 간다. 폰을 늘 꽂아 두고 싶지도 않고, 다른 앱이나 알림, 전화가 녹음을 방해할지 신경 쓰고 싶지도 않다. 애플 음성 메모 앱은 다른 앱이 소리를 재생하면 녹음을 멈춘다. 말하는 사람 가까이 테이블 위에 폰을 올려 둬야 하는데, 정작 그 폰이 다른 일에 필요할 때도 있다." },
+          { "t": "img", "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/comu-1.jpg", "cap": "임무가 하나뿐인 녹음 카드" },
+          { "t": "p", "x": "그래서 코무 액션 프로를 쓰기 시작했다. 폰을 꺼내 앱을 열고 녹음이 정말 시작됐는지 확인하는 절차 없이 대화를 담는 녹음 카드다. 이 범주가 인기를 얻은 건 플라우드 같은 기기가 전화 통화, 온라인 회의, 대면 대화를 하드웨어 하나로 처리해서다. 폰의 통화 녹음은 미국에서 주마다 법이 달라 늘 들쭉날쭉했다. 일부 주는 한쪽 동의만으로 되지만 11개 안팎의 주는 참가자 전원의 동의를 요구한다. 애플은 이제 아이폰 통화 녹음을 지원하지만 통화 상대 모두에게 안내 음성을 들려주고, 일부 지역과 언어에서는 여전히 제한된다. 전용 녹음기가 더 일관된 선택지이긴 해도 동의를 받는 책임은 여전히 사용자 몫이다." },
+          { "t": "p", "x": "코무 액션 프로에는 자석 마운트가 들어 있어 폰 뒷면에 붙여 두면 어디 뒀는지 신경 쓸 일이 없다. 여섯 개의 적응형 마이크와 약 7미터의 수음 거리라 방 안 어디에 앉아도 무리가 없다. 배터리는 한 번 충전으로 2주쯤 간다. 회사는 최대 70시간 녹음을 내세우니 자주 녹음하지 않으면 한 달 가까이 버틴다. 물리 버튼도 두 개다. 하나는 녹음, 다른 하나는 전사나 요약처럼 앱에서 하던 일을 기기에 시키는 용도다. 작은 OLED 화면으로 녹음 상태를 확인한다." },
+          { "t": "img", "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img_20260816_182244.jpg", "cap": "결국 소프트웨어가 이 범주를 가른다" },
+          { "t": "p", "x": "다른 AI 음성 녹음기처럼 이 기기도 녹음을 자동으로 옮기고 전사하는 앱과 함께 온다. 대면 회의를 폰으로 녹음하고 파일을 찾아 위스퍼에 올린 뒤 전사본을 기다리던 가장 지루한 단계가 사라졌다. 다만 화상 회의에서는 쓸모를 별로 못 찾았다. 그쪽은 노션이 여전히 낫다. 영어 전사는 화자가 여럿일 때도 훌륭했지만 두 언어를 섞으면 정확도가 떨어진다. 코무는 113개 언어 지원을 내세운다. 원본 오디오를 전사본 옆에 남겨 두어 텍스트가 이상해 보이면 그 대목으로 돌아간다." },
+          { "t": "p", "x": "AI 녹음기는 소프트웨어가 아주 좋아야 살아남는다. 하드웨어만으로는 기기를 하나 더 사야 할 이유가 되지 않는다. 폰에는 이미 쓸 만한 마이크와 회의·통화·음성 메모 녹음에 필요한 모든 것이 들어 있다. 전용 녹음기의 강점은 하드웨어와 소프트웨어가 얼마나 촘촘히 맞물리느냐에서 나온다. 버튼 하나를 누르면 대화가 녹음되고, 오디오가 옮겨지고 전사되고 요약되고 정리되기까지 앱 사이에서 파일을 옮길 일이 없어야 한다." }
         ]
       }
     }
