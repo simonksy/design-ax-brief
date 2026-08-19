@@ -1,41 +1,31 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "science",
   "media": [
     {
-      "id": "science-attribution-decay",
+      "id": "science-photonic-inverse-design",
       "type": "image",
-      "src": "pipeline/media/science-attribution-decay.jpg",
-      "source_url": "https://news.mit.edu/sites/default/files/images/202608/dai-gifford-ai-image-training-data-00_1.png",
-      "origin": "in-article lead image (MIT News)"
+      "src": "pipeline/media/science-photonic-inverse-design.jpg"
     },
     {
-      "id": "science-herbarium-flowering",
+      "id": "science-fda-ai-device-evidence",
       "type": "image",
-      "src": "pipeline/media/science-herbarium-flowering.jpg",
-      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/can-artificial-intelli-1.jpg",
-      "origin": "og:image from selected_science.json (phys.org HTML is 403 to curl)"
+      "src": "pipeline/media/science-fda-ai-device-evidence.jpg"
     },
     {
-      "id": "science-photoscan-insulin",
+      "id": "science-recursive-self-improvement",
       "type": "image",
-      "src": "pipeline/media/science-photoscan-insulin.png",
-      "source_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhotoScanIR_Overview.png",
-      "origin": "in-article lead figure (Google Research)"
+      "src": "pipeline/media/science-recursive-self-improvement.jpg"
     },
     {
-      "id": "science-dna-memristor",
+      "id": "science-blue-skies-contrails",
       "type": "image",
-      "src": "pipeline/media/science-dna-memristor.jpg",
-      "source_url": "https://www.sciencedaily.com/images/1920/dna-research-genetics-technology.webp",
-      "origin": "in-article lead image (ScienceDaily), webp converted to jpg"
+      "src": "pipeline/media/science-blue-skies-contrails.jpg"
     },
     {
-      "id": "science-tissue-clocks",
+      "id": "science-machine-culture",
       "type": "image",
-      "src": "pipeline/media/science-tissue-clocks.jpg",
-      "source_url": "https://cemm.at/fileadmin/_processed_/5/3/csm_Thyroid_4ea230c693.png",
-      "origin": "CeMM original press release image (EurekAlert release has no multimedia; its og:image is the generic EurekAlert logo)"
+      "src": "pipeline/media/science-machine-culture.jpg"
     }
   ]
 }

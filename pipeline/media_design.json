@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "design",
   "media": [
     {
-      "id": "design-mcp-figma-jira-gitlab",
+      "id": "design-dnad-ai-creativity-report",
       "type": "image",
-      "src": "pipeline/media/design-mcp-figma-jira-gitlab.jpg"
+      "src": "pipeline/media/design-dnad-ai-creativity-report.jpg"
     },
     {
-      "id": "design-cursor-origin-vercel",
+      "id": "design-block-berd-workspace",
       "type": "image",
-      "src": "pipeline/media/design-cursor-origin-vercel.png"
+      "src": "pipeline/media/design-block-berd-workspace.jpg"
     },
     {
-      "id": "design-dark-mode-two-states",
+      "id": "design-ai-returns-interfaces",
       "type": "image",
-      "src": "pipeline/media/design-dark-mode-two-states.png"
+      "src": "pipeline/media/design-ai-returns-interfaces.png"
     },
     {
-      "id": "design-mechanical-turing-test",
-      "type": "image",
-      "src": "pipeline/media/design-mechanical-turing-test.jpg"
-    },
-    {
-      "id": "design-adobe-stock-ai-studio",
+      "id": "design-scantic-phone-splats",
       "type": "video",
-      "src": "pipeline/media/design-adobe-stock-ai-studio.mp4",
-      "poster": "pipeline/media/design-adobe-stock-ai-studio.jpg"
+      "src": "pipeline/media/design-scantic-phone-splats.mp4",
+      "poster": "pipeline/media/design-scantic-phone-splats.jpg"
+    },
+    {
+      "id": "design-humans-in-the-loop-factory",
+      "type": "image",
+      "src": "pipeline/media/design-humans-in-the-loop-factory.jpg"
     }
   ]
 }

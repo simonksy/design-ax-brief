@@ -1,240 +1,142 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "design",
   "cards": [
     {
-      "id": "design-mcp-figma-jira-gitlab",
+      "id": "design-dnad-ai-creativity-report",
       "eyebrow": "AI NEWS",
-      "headline": "Figma MCP는 원격이 기본,\nJira 전용 서버는 없다",
-      "body": "Figma는 원격 서버를 권하고, Jira 전용 서버는 아예 없다.",
-      "mini_headline": "Jira 전용 서버는 없다",
+      "headline": "AI가 주니어 업무를 걷어가면\n판단력을 배울 곳이 사라진다",
+      "body": "AI 사용을 밝힌 D&AD 출품작이 1년 만에 27.6%로 두 배 넘게 늘었다.",
+      "mini_headline": "사라지는 주니어 훈련장",
       "tool": "Figma",
-      "source": "DEV Community",
-      "url": "https://dev.to/studiomeyer_io/mcp-servers-for-figma-jira-gitlab-and-playwright-3npl",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/ai/replacing-creative-jobs-with-ai-could-have-a-hidden-cost-new-report-warns",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "검색창에 \"figma mcp server\"나 \"jira mcp server\"를 넣는 사람들이 원하는 건 대체로 같다. 매일 쓰는 도구와 이미 일하고 있는 AI 어시스턴트를 잇는 연결. 그런데 넷 중 하나는 검색한 형태 그대로 존재하지 않고, 둘은 먼저 눈에 띄는 가이드가 공식 설정을 비껴간다."
-          },
-          {
-            "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstudiomeyer.io%2Fblog%2Fmcp-server-figma-jira-gitlab-playwright.webp",
-            "cap": "Figma·Jira·GitLab·Playwright MCP 서버를 다룬 글의 표지"
-          },
-          {
-            "t": "p",
-            "x": "MCP 서버는 다리다. 다리가 없으면 내용을 손으로 옮겨 붙인다. 있으면 \"이것 좀 봐\"라고 말하면서 진짜 파일, 진짜 티켓, 진짜 머지 리퀘스트를 가리킨다. 스크린샷으로만 디자인을 보는 어시스턴트는 간격과 색을 짐작하고, 연결로 파일에 닿는 쪽은 실제 값을 읽는다."
-          },
-          {
-            "t": "p",
-            "x": "Figma는 데스크톱 앱 안에 서버를 넣어 뒀다. Dev Mode에서 한 번 켜면 http://127.0.0.1:3845/mcp 에서 대기하고 API 키도 필요 없다. 다만 여기서 로컬은 엔드포인트만 가리킨다. 어시스턴트가 읽은 내용은 다른 컨텍스트와 똑같이 처리되니 클라우드 어시스턴트라면 그 제공자에게 넘어간다. Figma가 이제 기본으로 권하는 쪽은 원격 서버다. Claude Code라면 claude plugin install figma@claude-plugins-official 한 줄이면 된다."
-          },
-          {
-            "t": "p",
-            "x": "조건도 갈린다. 원격 서버는 모든 플랜, 모든 시트에서 쓴다. 데스크톱 앱 안의 서버는 유료 플랜에 Dev나 Full 시트가, Code Connect는 여기에 Organization이나 Enterprise 플랜이 더 필요하다."
-          },
-          {
-            "t": "p",
-            "x": "Jira는 전용 서버가 없다. Atlassian은 집 전체를 덮는 서버 하나를 내놓았고 Jira는 Confluence, Jira Service Management, Bitbucket Cloud, Compass와 함께 그 안에 있다. 로그인도 OAuth냐 API 토큰이냐를 고르는 문제가 아니라 제품이 정한다. Jira Service Management와 Bitbucket Cloud는 API 토큰만, Compass는 OAuth 2.1만 받는다. API 토큰 로그인은 조직 관리자가 먼저 허용해 줘야 한다."
-          },
-          {
-            "t": "p",
-            "x": "GitLab은 애플리케이션에 서버를 내장했다. 18.3에서 실험으로 나왔고 18.6부터 베타이며 직접 HTTP 전송도 18.6에 들어왔다. 주소는 https://<your-gitlab-instance>/api/v4/mcp 다. 여기서 많은 가이드가 틀린다. 공식 경로는 직접 만든 personal access token이 아니라 동적 클라이언트 등록을 쓰는 OAuth 2.0이다. GitLab Duo가 있어야 하고 베타·실험 기능과 MCP 접근도 켜 둬야 한다."
-          },
-          {
-            "t": "p",
-            "x": "Playwright는 성격이 다르다. 데이터 저장소가 아니라 브라우저를 모는 도구다. 공식 서버는 마이크로소프트가 내고 내 기계에서 돈다. 연결하면 어시스턴트가 페이지를 열고 클릭하고 폼을 채운 뒤 본 것을 보고한다. 돌려주는 건 스크린샷이 아니라 구조화된 스냅숏이다."
-          },
-          {
-            "t": "p",
-            "x": "넷 다 개발자 도구다. 흥미로운 쪽은 그 밑의 원리다. 같은 다리를 재고 시스템이나 예약 시스템, 고객 데이터베이스에도 놓을 수 있다. 네 경우 모두 진짜 품이 드는 건 설정이 아니라, 연결한 뒤 이걸 매일 무엇에 쓸지 정하는 일이다."
-          }
+          { "t": "p", "x": "AI가 창작 워크플로를 바꾸는 속도만큼 그 여파를 걱정하는 목소리도 커졌다. 인력을 AI로 갈아 끼워 아낀 돈이 한참 뒤에 훨씬 큰 청구서로 돌아올 수 있다는 경고가 새 보고서에서 나왔다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/fhSLheAU9r8GrCn7Ae6my.jpg", "cap": "D&AD AI & Creativity Report 2026 (Image credit: D&AD / Shutterstock Studios)" },
+          { "t": "p", "x": "코카콜라의 크리스마스 광고, 철회된 맥도날드 광고, 한국 스타벅스 논란까지 AI에 기댔다 탈이 난 사례는 이미 쌓였다. 사람의 판단이 꼭 필요하다는 뜻인데, 신입 자리가 AI에 밀려 사라지면 그 판단은 어디서 자라나." },
+          { "t": "p", "x": "이 질문을 정면으로 꺼낸 곳이 D&AD다. 디자인과 상업 창작의 수월성을 내건 국제 비영리 단체다. 「D&AD AI & Creativity Report 2026」은 30개국 창작 리더와 나눈 심층 대화 197건, 그리고 D&AD 어워드 출품작 1만여 건 분석을 묶어 냈다. 결과는 여섯 가지 '중대한 결산'으로 정리됐고, 헤드라인 주장은 하나다. 사람의 판단을 지켜야 한다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/QC4qsDQXaRUxM88H6UjbSo.jpg", "cap": "(Image credit: D&AD / Shutterstock Studios)" },
+          { "t": "p", "x": "AI가 창의성을 대신하지 못하고 반복 작업만 빠르게 처리한다는 말은 익숙하다. 문제는 그 반복 작업이 내일의 리더가 실력을 쌓던 자리라는 데 있다. \"신입 일자리가 사라지는 사이 AI가 남은 반복 업무까지 흡수하고 있다. 둘이 겹치면서 미래 창작 리더에게 필요한 판단력을 길러 주던 훈련장이 없어지고 있다\"고 보고서는 경고한다." },
+          { "t": "p", "x": "숫자도 있다. AI를 썼다고 신고한 D&AD 어워드 출품작 비율은 1년 만에 두 배 넘게 뛰어 2026년 27.6%에 이르렀다. AI 신고 출품작 전체에서 생성형 AI 사용은 56.2%였고 Pencil 수상작에서는 44.7%였다. 수상작 쪽에서는 그만큼 보조형 AI 비중이 올라갔다." },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/6wFivqQVQvP9ptVpuva3Wo.jpg", "cap": "(Image credit: D&AD / Shutterstock Studios)" },
+          { "t": "p", "x": "‘Caption with Intention’이나 ‘PainVisible’처럼 AI가 겉으로 드러나지 않은 채 포용성을 밀어 올린 프로젝트는 좋은 사례로 꼽혔다. 다만 AI가 창작 과정에 깊이 들어왔다고 해서 그 자체가 뛰어난 결과로 이어지지는 않았다. \"진짜 가치는 숙련된 사람의 판단이 AI로 솜씨를 더 날카롭게 벼릴 때 나온다\"고 보고서는 적었다." },
+          { "t": "p", "x": "\"AI는 나쁜 작업의 얼굴을 바꿔 놨다\"고 D&AD CEO David Patton은 말한다. \"이제 눈에 띄게 게으르거나 베낀 티가 나지 않는다. 유능하고 매끈한데 평범하다. 누구나, 어디서나 뽑아내는 기본값이다. 유능함이 도처에서 손쉬운 기본값이 된 지금, 유능함과 탁월함을 가려내는 법을 어떻게 가르치겠는가.\"" },
+          { "t": "img", "src": "https://cdn.mos.cms.futurecdn.net/GiqSVQQcYswgWjCHfUxDXo.jpg", "cap": "(Image credit: D&AD / Shutterstock Studios)" },
+          { "t": "p", "x": "속도가 기본값이 됐다면 클라이언트는 무엇에 돈을 내는가. 작업이 빨라졌는데도 요금을 그대로 둔 에이전시가 70%다. 효율의 몫이 통째로 클라이언트에게 넘어간 셈인데, 잘나가는 곳들은 납품이 아니라 결정과 IP에 값을 매기기 시작했다." },
+          { "t": "p", "x": "여섯 갈래는 독창성, 속도, 가치, 인재, 거버넌스, 리더십이다. 인재 항목에서 조직에 선택이 던져진다. 반복 업무가 사라진 자리를 학습 기회째 지울 것인가, 아니면 주니어 역할을 비평과 취향, 문화 감각 중심으로 다시 설계할 것인가. AI 윤리를 걱정하면서도 정책을 문서로 남긴 곳은 드물다는 지적도 붙었다." }
         ]
       }
     },
     {
-      "id": "design-cursor-origin-vercel",
+      "id": "design-block-berd-workspace",
       "eyebrow": "AI NEWS",
-      "headline": "Cursor Origin 저장소가\nVercel 프리뷰로 바로 뜬다",
-      "body": "Origin에서 PR을 열면 프리뷰가, 머지하면 프로덕션 배포가 자동으로 붙는다.",
-      "mini_headline": "PR이 곧 프리뷰 URL",
-      "tool": "Figma",
-      "source": "Vercel",
-      "url": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
-      "accent": "#3b6bff",
+      "headline": "Block이 오픈소스로 푼\n에이전트 작업 공간 Berd",
+      "body": "Block은 Berd를 Apache 2.0으로 풀고 대화 기록을 기기에 남긴다.",
+      "mini_headline": "오픈소스 에이전트 앱",
+      "tool": "AI Workflow",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+      "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "Pro 고객은 이제 Origin 저장소를 Vercel에 연결한다. 한 번 연결해 두면 Origin에서 올라온 풀 리퀘스트가 Vercel에 프리뷰 배포를 만들고, 머지하는 순간 프로덕션 배포가 돈다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.ctfassets.net/e5382hct74si/2DCmUnhiLc1UsJUiKvaGqN/32e3f62c51bb3f45eb3cb0b0b0f2bf6d/vercel.com_new_teamSlug_ismybuildfast-vtest314.png",
-            "cap": "Origin 저장소를 붙이는 Vercel 팀 설정 화면"
-          },
-          {
-            "t": "p",
-            "x": "연결 지점은 한 곳이 아니다. Team settings나 Project settings에서 잡아도 되고, 새 프로젝트를 만들 때 \"Continue with Origin\"을 눌러도 된다. 반대 방향도 열려 있다. Origin 저장소의 Apps 탭에서 Vercel을 추가하면 같은 연결이 선다."
-          },
-          {
-            "t": "p",
-            "x": "Vercel 쪽 연동은 퍼블릭 베타, Origin은 아직 얼리 베타다. Origin 저장소에는 Vercel의 기존 비공개 저장소 정책이 그대로 적용된다. 연결 방법을 더 보려면 Git integration 문서를 펴면 된다."
-          }
+          { "t": "p", "x": "Square와 Cash App, Tidal을 거느린 Block이 사내용으로 만들던 데스크톱 앱 Berd를 오픈소스로 풀었다. 여러 모델과 도구, 프로젝트를 오가며 AI 에이전트와 일할 환경 하나를 직원들에게 주려고 시작한 물건이다." },
+          { "t": "img", "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=1000&q=100", "cap": "Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0" },
+          { "t": "p", "x": "브라우저 작업 공간이 아니라 설치형 데스크톱 앱이다. GitHub에 Apache 2.0으로 올라와 있어 상업적 이용까지 자유롭고, macOS·Windows·Linux 빌드를 무료로 내려받는다. 저장소는 8월 18일 0.6.2에 도달했고 기여자는 91명이다." },
+          { "t": "p", "x": "Block은 Berd를 '일상적인 AI 작업 표면'으로 부른다. 채팅을 열고 파일을 붙이고, 에이전트와 모델을 고르고, 지속되는 프로젝트 안에서 일하고, 스킬과 확장을 관리하고, 자동화를 짜는 일이 한자리에서 끝난다. 지금 어떤 프로젝트와 파일, 에이전트, 모델, 공급자, 세션 상태가 대화를 움직이는지 사용자가 늘 알 수 있어야 한다는 것이 설계 원칙이다. 실패와 끊긴 공급자, 로딩 상태도 상냥한 말로 덮지 않는다." },
+          { "t": "p", "x": "출발점은 사내의 불편이었다. 직원들은 이미 Block의 Goose, Anthropic의 Claude Code, OpenAI의 Codex를 쓰고 있었는데 인터페이스와 설정 체계, 컨텍스트 관리 방식이 제각각이었다." },
+          { "t": "p", "x": "가장 눈에 띄는 선택은 에이전트를 캐릭터로 세운 대목이다. 빈 채팅창을 하나 더 띄우는 대신, Berd는 에이전트마다 역할과 지시, 스킬, 도구를 주고 알아볼 수 있는 생김새까지 붙인다. Block이 만든 애니메이션 캐릭터 묶음의 간판이 'Gloopies'이고, 공개 사이트에는 Berdy, Pushback, Choosey, Copycat, Tinker, Wildcard가 걸려 있다. Pushback은 초안에 반대 논리를 대고, Copycat은 사용자의 문체를 배운다. \"아바타는 에이전트를 알아보게 한다. 쓸모를 만드는 것은 역할과 스킬, 도구다\"라고 Block의 디자인 블로그는 정리했다." },
+          { "t": "img", "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5fflC3yjtdt5lRpzcdmGf8/7f4d7d9dfced1a77f4606f4ec046b538/2854a67d-b767-490a-9ed4-7d2a993bc79b.png?w=1000&q=100", "cap": "Screenshot of Berd Gloopies. Credit: Block" },
+          { "t": "p", "x": "구조로 보면 Berd는 새 파운데이션 모델도, 새 에이전트 런타임도 아니다. Tauri 2와 React 19로 만든 앱이 Agent Client Protocol로 Goose와 대화하고, Goose는 사이드카 프로세스로 돌며 에이전트 루프를 맡는다." },
+          { "t": "p", "x": "데이터는 로컬 우선이다. 대화 기록은 기기의 Goose 세션 데이터베이스에 쌓이고 자격 증명은 OS 키체인에 들어간다. 다만 Axen은 선을 그었다. \"로컬 우선이 데이터가 절대 기기를 떠나지 않는다는 뜻은 아니다.\" 모델에 일을 시키면 그 프롬프트와 자료는 공급자에게 간다." },
+          { "t": "p", "x": "차별점은 에이전트 작업 공간을 처음 발명했다는 데 있지 않다. 그 공간을 오픈소스로 열고, 여러 하네스를 물리고, 개발자 바깥까지 겨냥했다는 점이다. Codex 앱은 OpenAI 모델만, Claude Code는 Claude만 문다. 다만 Berd 저장소는 외부 풀 리퀘스트를 받지 않아 상류는 Block이 꽉 쥐고 있다." },
+          { "t": "p", "x": "Block의 다음 무대는 Berd가 아니다. \"앞으로 초점은 Buzz이고, Berd의 싱글플레이어 경험 중 좋은 부분을 거기로 옮길 계획\"이라고 Axen은 말했다. 모델과 코딩 에이전트가 갈아 끼울 부품이 되는 동안 정작 안정된 층은 프로젝트와 스킬, 도구, 정체성 쪽이라는 것이 Block의 베팅이다." }
         ]
       }
     },
     {
-      "id": "design-dark-mode-two-states",
+      "id": "design-ai-returns-interfaces",
       "eyebrow": "AI NEWS",
-      "headline": "다크 모드 토글의 시스템 옵션,\n두 상태면 이미 다 표현된다",
-      "body": "Lea Verou는 기본값을 시스템에 두고 토글 하나만 주면 충분하다고 본다.",
-      "mini_headline": "두 상태면 충분하다",
+      "headline": "긴 글 대신 인터페이스를\nAI가 돌려줘야 한다",
+      "body": "AI가 산문 대신 승인된 스키마를 채워 컴포넌트로 답해야 한다는 주장이다.",
+      "mini_headline": "글 말고 인터페이스로",
       "tool": "Design Tokens",
-      "source": "CSS-Tricks",
-      "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+      "source": "DEV Community",
+      "url": "https://dev.to/viraai/why-ai-should-return-interfaces-not-walls-of-text-4130",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "내가 좋아하는 종류의 UI·UX 논쟁이다. Lea Verou가 이렇게 적었다. \"Dark mode toggles that expose three states (system, light, dark) seem like the best option. Until you think about user goals, that is.\" 반박하기 전에 끝까지 들어 보라는 말도 함께 붙였다."
-          },
-          {
-            "t": "p",
-            "x": "Lea가 걸고넘어지는 건 방문자에게 라이트, 다크, 시스템 세 가지를 늘어놓는 구현이다. 시스템 옵션을 굳이 보여 줄 이유가 있는가. \"a good two state control can actually express all three states — users just need to apply the override the first time it becomes relevant.\""
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png?resize=1652%2C1362&ssl=1",
-            "cap": "라이트와 다크 상황마다 색 구성 선택이 어떻게 갈리는지 정리한 도표"
-          },
-          {
-            "t": "p",
-            "x": "짧게 옮기면 이렇다. 선호가 없으면 시스템 설정을 따르고, 덮어쓸 일이 생겼을 때 쓸 설정 하나를 준다. 그 선호는 localStorage에 담겨 다음 방문까지 남는다. 처음 그림을 볼 땐 놓쳤는데, 지금 어떤 색 구성이 켜져 있는지 알면 두 상태를 다 보여 줄 필요도 없다. 기본이 라이트면 다크로 덮어쓸 선택지만, 기본이 다크면 라이트로 덮어쓸 선택지만 내놓으면 된다."
-          },
-          {
-            "t": "p",
-            "x": "나는 설득됐다. 적은 UI로 같은 일을 해내면 대개 좋은 쪽이다. Lea의 논지는 단순함을 넘어서까지 간다. 다만 되돌릴 때가 궁금해진다. 시스템이 라이트인데 다크로 바꿨다가 다시 라이트로 돌아오면 새 덮어쓰기 선호가 생기는가, 아니면 localStorage 값이 비면서 시스템 설정으로 돌아가는가. 크게 중요하지 않을 수도 있다. 테마 전환은 애초에 사람들이 사이트에 온 이유가 아니니까."
-          },
-          {
-            "t": "p",
-            "x": "\"Remember, this control is entirely tangential to the actual user goal for visiting the website.\" 라이트를 고정하려던 의도였다 해도 OS가 다크로 바뀌어 둘이 갈라지는 순간에야 알아차리고, 그때 클릭 한 번이면 고쳐진다는 게 Lea의 답이다."
-          },
-          {
-            "t": "p",
-            "x": "짚어 둘 게 있다. Lea가 말하는 건 늘 떠 있는 UI다. 헤더나 내비게이션에 상시 노출되는 토글은 흔하고, 그런 자리라면 방문자의 원래 목적을 흐트러뜨린다. 눈에 들어오는 선택지가 늘수록 인지 부조화도 커진다."
-          },
-          {
-            "t": "p",
-            "x": "스레드에는 더 와닿는 반론도 있었다. Chris Coleman은 \"All I ever wanted was for my OS to be dark, not every website I look at\"이라며 라이트·다크 선호는 브라우저 쪽에 있어야 한다고 적었다. 설정이 브라우저에 있다면 사이트가 덮어쓰기를 보여 줄 이유가 없고, 그때는 세 상태 토글도 받아들일 만해진다."
-          },
-          {
-            "t": "p",
-            "x": "Lea도 세 상태가 맞는 경우를 둘 든다. 색 구성 설정이 별도 설정 패널에 사는 경우, 그리고 시스템 설정에 따라 색 구성이 두 개보다 많이 갈리는 경우다."
-          }
+          { "t": "p", "x": "AI 비서는 이상한 기본값에 우리를 길들였다. 결과를 달라고 하면 글 뭉치가 오고, 그걸 쓸 수 있는 무언가로 바꾸는 일은 사람 몫으로 남는다. 모델에게 편한 방식이지 사람에게 늘 쓸모 있는 방식은 아니다." },
+          { "t": "img", "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/k69aa8mqz6h8qlbxqprg.png", "cap": "Vira AI" },
+          { "t": "p", "x": "레시피는 문단 하나가 아니고, 프로젝트 계획은 목록 하나가 아니다. 비교도 요약 한 줄로 끝나지 않는다. 이런 결과물에는 구조와 결정, 상태, 행동이 들어 있다. 답에 형태가 있으면 인터페이스도 그 형태를 따라야 한다." },
+          { "t": "p", "x": "텍스트는 설명과 탐색, 모호함을 다루는 데 뛰어나다. 옮기기 쉽고 검색되고 만들기도 쉽다. 그런데 대안을 견주고, 값을 바꿔 결과를 보고, 항목을 체크하고, 단계 순서를 바꾸고, 결과물을 저장하고, 작업을 이어 가야 하는 순간에는 최종 화면으로서 힘이 빠진다. 사용자가 산문을 머릿속 모형으로, 다시 그 모형을 행동으로 두 번 번역해야 하기 때문이다." },
+          { "t": "p", "x": "글쓴이가 말하는 생성형 UI는 모델에게 프런트엔드 코드를 마음대로 짜게 하는 일이 아니다. 그건 보안과 일관성, 접근성, 유지보수를 한꺼번에 흔든다. 계약을 더 좁게 잡자는 쪽이다. 사용자의 목표를 해석하고, 승인된 출력 스키마를 고르고, 그 스키마를 구조화된 데이터로 채운다. 렌더링과 검증, 권한, 액션은 제품이 쥔다." },
+          { "t": "p", "x": "모델은 구조화된 내용을 대고, 애플리케이션이 화면을 통제한다. 체크리스트 스키마는 임의 코드 없이도 체크 가능한 항목을 내놓는다. 비교 스키마는 새 컴포넌트를 발명하라고 시키지 않고도 트레이드오프를 보여 준다. 계획 스키마는 이미 정해진 상호작용 규칙 안에 머문 채로 편집되고 저장된다." },
+          { "t": "p", "x": "생성된 화면은 네 가지를 분명히 해야 한다. 받은 것이 계획인지 레시피인지 표인지 문서인지 워크플로인지 즉시 알아야 한다. 편집 가능한 필드와 순서를 바꿀 수 있는 단계, 명시적인 컨트롤이 정적인 답을 일하는 표면으로 바꾼다. 출처와 가정, 모델 선택, 확신의 경계가 매끈한 표현 뒤로 사라져서도 안 된다. 그리고 저장·다듬기·내보내기·실행처럼 다음 행동이 눈에 보여야 한다." },
+          { "t": "p", "x": "이건 디자인만의 문제가 아니라 백엔드 계약을 바꾸는 일이다. 검증된 스키마, 편집을 견디는 버전 관리 아티팩트, 평문으로 떨어지는 명확한 폴백, 권한을 아는 액션, 접근 가능한 렌더러, 스키마 선택과 실패 모드를 들여다볼 관측성이 필요하다. \"UI만 얹으면 된다\"는 생각이 틀린 이유다. 인터페이스는 제품 프로토콜의 일부다." },
+          { "t": "p", "x": "글은 자사 제품 Vira를 이 경계 위에 세웠다고 소개한다. 대화가 맞는 자리에서는 대화를 돌려주고, 구조가 이득이면 계획과 비교, 표, 체크리스트, 문서 같은 과업별 인터페이스로 결과를 옮긴다. 렌더러는 애플리케이션이 계속 쥐고, 결과는 채팅 기록에 묻히는 대신 다시 쓸 수 있는 산출물로 남는다." },
+          { "t": "p", "x": "만들기 전에 던져 볼 질문도 남겼다. 구조가 사용자의 수고를 줄이는가, 스키마는 검증할 만큼 안정적인가, 가능한 액션이 명시적인가, 텍스트로 안전하게 물러설 수 있는가, 작은 화면에서도 작동하는가. 아니라면 그냥 텍스트가 낫다. 목표는 텍스트를 몰아내는 것이 아니라, 텍스트를 지능의 유일한 종착지로 여기는 습관을 그만두는 것이다." }
         ]
       }
     },
     {
-      "id": "design-mechanical-turing-test",
+      "id": "design-scantic-phone-splats",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 설계한 어셈블리를\n엔지니어가 구분하지 못한다",
-      "body": "7월 구분 불가 응답이 791% 늘자 Leo AI는 통과를 선언했다.",
-      "mini_headline": "기계 튜링 테스트 통과",
+      "headline": "클라우드 없이 아이폰에서\n가우시안 스플랫을 학습한다",
+      "body": "Scantic은 아이폰에서 클라우드 없이 1분 안에 가우시안 스플랫을 만든다.",
+      "mini_headline": "폰에서 끝내는 스플랫",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/08/scantic-trains-gaussian-splats-entirely-on-your-phone/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          { "t": "video", "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.mp4" },
+          { "t": "p", "x": "소프트웨어 개발자 Sebastian Beyer가 Scantic을 내놨다. 아이폰 카메라로 찍은 평범한 영상만으로 사물과 공간의 3D 가우시안 스플랫을 만드는 앱이다." },
+          { "t": "p", "x": "학습은 \"1분 미만\"에 끝난다. 이런 부류의 앱치고는 드물게 처리가 전부 폰 안에서 돌아가고, 스캔 데이터는 클라우드로 올라가지 않는다. 기본 앱은 무료이며 더 좋은 품질로 내보내려면 돈을 내야 한다." },
+          { "t": "p", "x": "가우시안 스플래팅은 사진이나 영상에서 현실의 사물을 되살려 렌더링이 빠른 고품질 3D 표현을 얻는 방식이고, Scantic도 그 계열에 속한다. 쓰는 법은 단순하다. 새 스캔을 시작하고 대상 주위를 빙 돌면 촬영한 이미지에서 스플랫이 나온다. 작은 스캔은 \"1분 미만\"에 처리되고, 결과물은 PLY로 내보내 3DGS를 지원하는 DCC 앱에서 쓴다. 품질은 기사 맨 위 영상에서 직접 확인할 수 있다." },
+          { "t": "p", "x": "폰에서 가우시안 스플랫을 만드는 앱은 Kiri Engine과 Polycam처럼 이미 있었다. 둘은 기능이 더 많고 스캔 데이터를 자르거나 손보는 도구도 갖췄다. Scantic이 갈라서는 지점은 처리 전부를 사용자 폰에서 끝낸다는 것이다. 보안 걱정을 덜어 줄 뿐 아니라 시간을 잡아먹는 단계 하나가 통째로 빠진다. Beyer는 다른 앱이 데이터를 업로드하는 시간이면 Scantic은 스플랫 학습을 마친다고 말한다." },
+          { "t": "p", "x": "출발은 개인 프로젝트였다. Beyer의 본업은 CG 아트가 아니라 소프트웨어 엔지니어링이고, 개인 작업에는 Blender를 쓴다. 3DGS 전문가도 아닌 채로 AI 코딩 도구를 써서 기존 가우시안 스플래팅 워크플로의 성능을 끌어올려 보자는 여름 숙제에서 Scantic이 나왔다." },
+          { "t": "p", "x": "오픈소스 Brush 엔진과 아이폰으로 찍은 영상으로 만든 첫 스플랫은 MacBook Air에서 세 시간 넘게 걸렸다. 그는 Claude Fable 5 AI 모델의 도움을 받아 성능을 차근차근 끌어올렸고, 결국 최대 260배까지 갔다. 그러고는 파이프라인을 조금씩 아이폰으로 옮기다 \"거의 사고처럼\" 아이폰 전용 앱에 도착했다." },
+          { "t": "p", "x": "앞으로는 라이브 촬영 대신 기존 영상으로도 스플랫을 학습시키고 SPZ 포맷 내보내기를 붙일 생각이다. 스캔을 노트북이나 데스크톱으로 넘겨 처리하는 macOS 동반 앱은 낼 수도 있지만, 안드로이드 버전 계획은 없다. \"[애플 제품은] 하드웨어 범위가 비교적 통제돼 있다\"며, 안드로이드에서는 일부 고사양 기기에서만 돌고 나머지 사용자는 나쁜 경험을 하게 될 것이라고 그는 말한다." },
+          { "t": "p", "x": "Scantic은 iOS 17.0 이상, A12 Bionic 이상 칩을 요구해 2018년 iPhone XS 이후 기기면 돌아간다. 기본 앱은 무료로 표준 품질 내보내기를 주는데, 스캔을 솎아 낸 저품질 버전이 나온다. 최고 품질 내보내기는 연 29.99유로(약 35달러) 구독이 필요하고, 스캔 한 건씩 4.99유로에 살 수도 있다." }
+        ]
+      }
+    },
+    {
+      "id": "design-humans-in-the-loop-factory",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 70%를 처리해도\n마지막 승인은 사람이 한다",
+      "body": "AI가 70%를 처리해도 최종 판단은 엔지니어가 내리도록 공정을 짰다.",
+      "mini_headline": "70%는 AI, 결정은 사람",
       "tool": "Text-to-CAD",
       "source": "Engineering.com",
-      "url": "https://www.engineering.com/opinion-ai-has-passed-the-mechanical-turing-test/",
+      "url": "https://www.engineering.com/humans-in-the-loop-is-likely-the-fastest-way-to-ai-value/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "Leo AI 공동창업자이자 CEO인 Maor Farid가 Engineering.com에 기고한 글이다. 의견은 모두 그의 것이다."
-          },
-          {
-            "t": "p",
-            "x": "1950년 10월, Alan Turing이 스스로 답할 생각이 없던 질문을 던졌다. 기계는 생각할 수 있는가. 논문 \"Computing Machinery and Intelligence\"에서 그는 수치 기준 대신 게임을 내밀었다. 텔레프린터 한쪽에 사람을, 다른 쪽에 기계를 두고 어느 쪽인지 가려내지 못하면 철학 논쟁은 다른 방식으로 끝난 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "76년이 지난 지금도 지능을 재는 좋은 정량 척도는 없다. 그래도 AI는 나아간다. 소프트웨어 쪽에서는 프롬프트 하나로 제품과 웹사이트, 영상이 나오고 사람이 만들었는지 에이전트가 만들었는지 대개 구분되지 않는다. 기계공학자인 나는 지난 3년을 Leo AI를 만들며 물리 제품에서는 그 순간이 어떤 모습일지 물었다."
-          },
-          {
-            "t": "p",
-            "x": "엄밀한 수학 정의가 없으니 평가 도구는 주관적 경험이다. 그래도 총량으로는 잴 수 있다. Leo를 일반 공개한 뒤 실제 업무에 쓰는 기계공학자 수백 명을 설문하고 인터뷰하면서 신호 하나를 지켜봤다. 이 어셈블리를 사람이 만들었는지 AI가 만들었는지 더는 모르겠다고 답하는 지점이다. 7월에 그 응답이 791퍼센트 늘었다."
-          },
-          {
-            "t": "p",
-            "x": "전형적인 흐름은 이렇다. \"Design me a coaxial contra-rotating propeller drive for a marine environment\"로 시작하면 Leo는 사람 엔지니어처럼 되묻는다. 그다음 신뢰도 높은 출처에서만 지배 방정식을 끌어와 풀고, 치수를 뽑고, 내 재고와 검증된 벤더 카탈로그에서 부품을 가져와 나머지 형상을 만든다. 결과는 DFM을 지킨 제조 가능 어셈블리다."
-          },
-          {
-            "t": "video",
-            "yt": "cG8h-t8D0zs"
-          },
-          {
-            "t": "p",
-            "x": "조건은 제품 코드를 한 줄 쓰기 전에 현업 기계공학자 약 900명을 인터뷰해 정리했다. 입력은 형상이 아니라 기능이다. 브리핑이 모호하면 되묻는다. 전동 구성은 베벨인가 유성인가. 근거는 200년간 쌓인 핸드북과 표준, 조직 내부 지침에서 나오고 계산과 출처가 드러나 사슬을 감사할 수 있다. 부품은 재사용이 먼저, 카탈로그가 그다음, 설계가 마지막이다. 결과물은 피처 트리와 재료 속성을 갖춘 네이티브 솔리드로 팀이 쓰던 CAD에서 열린다."
-          },
-          {
-            "t": "p",
-            "x": "7월 1일 어셈블리 생성 기능을 크게 업데이트했고 이후 몇 주간 사용량이 열 배 가까이 늘었다. 진짜 일을 여기로 흘려보낸다는 뜻이라 내가 믿는 신호다."
-          },
-          {
-            "t": "p",
-            "x": "통과가 책임을 옮기지는 않는다. 복도 끝의 뛰어난 엔지니어 Joe를 떠올려 보라. 구조용 피팅에 어떤 합금을 쓰냐고 물으면 Joe는 316 스테인리스라 답하고 당신은 6061 알루미늄이라 생각한다. 다퉈도 좋지만 도면에 서명하는 사람은 당신이고 책임도 당신에게 남는다. 도구의 한계가 아니라 이 직업이 그렇다. 우리가 틀리면 사람이 죽을 수 있다. 항공우주만이 아니다. 의자가 무너지면 아이가 다친다."
-          },
-          {
-            "t": "p",
-            "x": "통과한 건 하위 어셈블리와 기구 수준이다. 기어박스, 구동계, 지그, 실제 하중을 받는 브래킷과 하우징. 항공기 한 대를 통째로 넘기는 사람은 없다. 다만 점이 아니라 곡선의 모양을 보라. 설계 루프가 열 배 압축되면 제품이 열 배 빨리 나오는 게 아니라 검증 중심으로 재편된 분야와, 실행이 아니라 판단이 실력인 세대가 남는다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-adobe-stock-ai-studio",
-      "eyebrow": "AI NEWS",
-      "headline": "이미지 한 장에서 브랜드에\n맞는 자산 한 세트를 뽑는다",
-      "body": "AI Studio에서 색과 타이포, 배경을 바꾸고 움직임까지 붙인다.",
-      "mini_headline": "한 장에서 한 세트로",
-      "tool": "Social",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "url": "https://www.youtube.com/watch?v=VIiPvMoEnsY",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "VIiPvMoEnsY"
-          },
-          {
-            "t": "p",
-            "x": "Adobe Creative Cloud 채널이 올린 11분짜리 영상이다. 제목은 \"How To Turn One Image Into Multiple Brand Assets With Adobe Stock's AI Studio\"."
-          },
-          {
-            "t": "p",
-            "x": "Adobe Stock 이미지 한 장을 브랜드 미감에 딱 맞는 여러 자산으로 바꾸는 방법을 다룬다. Alexei Dela Cuesta가 Adobe Stock AI Studio를 쓰는 자기 작업 흐름을 처음부터 끝까지 풀어 놓는다."
-          },
-          {
-            "t": "p",
-            "x": "순서는 이렇다. 색을 바꾸고, 타이포를 손보고, 배경을 갈아 끼우고, 마지막에는 이미지를 움직이게 만든다."
-          },
-          {
-            "t": "p",
-            "x": "Adobe는 이 흐름의 쓸모를 마감과 예산이 빠듯한 상황에 둔다. 그런 조건에서도 눈길을 붙드는 콘텐츠를 빨리 내놓아야 하는 사람들을 겨냥했다."
-          }
+          { "t": "p", "x": "AI를 굴리는 기계를 만드는 일에는 낯선 문제가 따라붙는다. 부품 하나 값이 집 한 채와 맞먹는다." },
+          { "t": "img", "src": "https://www.engineering.com/wp-content/uploads/2026/08/BrightMachines_Talent_0472-2-1024x683.jpg", "cap": "Bright Machines" },
+          { "t": "p", "x": "데이터센터 인프라 업체 Bright Machines의 CEO Sviat Dulianinov는 회사가 GPU 서버를 처음 조립하며 부품 하나가 25만 달러쯤 나간다는 사실을 깨닫던 순간을 기억한다. \"부품 하나를 손상시키거나 부수면… 큰 문제에 부딪힌다.\"" },
+          { "t": "p", "x": "Bright Machines는 자동화 수준이 높지만 Dulianinov는 자동화를 위한 자동화에 관심이 없다. 머신러닝과 AI를 많이 쓰면서도 기계가 모든 결정을 내리는 공장을 그리지는 않는다. \"우리는 사람을 붙이기 전에 로보틱스와 소프트웨어에서 시작한다. 그래도 로봇에 맞게 설계되지 않은 공정이 남아 있다.\"" },
+          { "t": "p", "x": "자동화의 가장 큰 걸림돌은 공장 바닥에 닿기도 전에 생긴다고 그는 말한다. 제품 자체다. 설계자와 생산 엔지니어가 로봇 조립을 염두에 두고 충분히 붙어 일하지 않으면, 도면상 멀쩡한데 자동화하기 어렵거나 돈이 너무 드는 물건이 나온다. 그래서 Bright Designer라는 앱이 양산 전에 설계를 분석해, 로봇이 조립하기 쉬워지려면 무엇을 바꿔야 하는지 되돌려 준다." },
+          { "t": "p", "x": "공장 바닥도 같은 철학을 따른다. 길게 고정된 라인 대신 가정용 냉장고만 한 모듈형 셀을 쓰고, 제품이 바뀌면 라인을 새로 짓는 대신 셀만 손본다. 셀을 지나가는 것은 로봇만이 아니다. 데이터도 지나간다. \"자동화된 스테이션이든 아니든 각 스테이션에서 데이터를 모은다. 사람이 루프에 있어도 추적성을 위해 모은다.\" 검사 결과와 이미지, 힘 제어 측정값이 쌓이고, 무언가 실패하면 특정 공급사나 스테이션, 부품 결함에서 패턴을 찾는다. \"스크랩 제로\" 원칙 아래 공정이 예상에서 벗어나면 시스템이 생산을 세운다." },
+          { "t": "p", "x": "AI 붐의 하부구조를 짓는 회사치고 정작 AI를 쓰는 방식은 담백하다. \"AI는 요즘 근사한 단어다. 뭐든 AI가 됐으니까. 우리는 처음부터 머신러닝을 써 왔다.\" 최근에는 생성형 AI로 로봇에게 조립을 지시하는 '레시피' 작성을 돕고, 제조 문제 진단에 에이전틱 AI를 실험한다. \"에이전트가 있으면 데이터를 이미 훑고 와서 가설 세 개를 내놓는다.\"" },
+          { "t": "p", "x": "다만 결정적인 단서가 붙는다. 판단은 여전히 엔지니어 몫이다. \"AI가 70%를 하더라도 마무리하는 엔지니어가 있고, '좋다, 가도 된다'고 말하는 마지막 사람이 그 엔지니어다. 시스템 엔지니어가 들여다보고 맞다고 하기 전까지 에이전트는 그 가설대로 움직이지 않는다. 사람이 루프 안에 있다. 그게 가장 쉬운 답이라고 본다.\"" },
+          { "t": "p", "x": "\"미래의 공장이 뭐냐고들 묻는다. 답은, 미래의 공장에도 사람이 루프 안에 있다는 것이다. 그러니 일자리는 생긴다.\" 하는 일이 달라질 뿐이다. 반복적인 몸일은 로봇이 더 가져가고, 엔지니어가 몇 시간 들여다볼 데이터는 AI가 훑는다. 회사는 마이크로팩토리를 130곳 넘게 깔았다." },
+          { "t": "p", "x": "그 경험이 그를 AI 과장에 회의적으로 만들었다. \"AI에 전부 맡기면 다 될 거라는 망상은 하지 말아야 한다.\" 정교한 시스템도 틀린다. 그는 AI가 엔지니어를 대체한다고 말하지 않고 증폭한다고 말한다. \"특히 좋은 엔지니어는 훨씬 좋아진다.\" 남는 교훈은 단순하다. 할 수 있다는 이유로 자동화하지 말 것, 똑똑해 보인다는 이유로 AI를 믿지 말 것." }
         ]
       }
     }

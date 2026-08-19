@@ -1,313 +1,147 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "music",
   "cards": [
     {
-      "id": "music-submithub-40",
+      "id": "music-stemdeck-local-splitter",
       "eyebrow": "AI NEWS",
-      "headline": "지난달 나온 음악의 40% 가까이가\nAI를 거쳤다는 조사가 나왔다",
-      "body": "SubmitHub가 100만 곡을 훑어보니 23.2%는 아예 AI가 만든 곡이었다.",
-      "mini_headline": "음악 40%에 AI",
+      "headline": "아이 드럼 연습 때문에 만든\n무료 스템 분리기가 오픈소스로 풀렸다",
+      "body": "Demucs 모델로 곡을 여섯 갈래까지 쪼개고, 업로드 없이 로컬에서 끝난다.",
+      "mini_headline": "로컬에서 도는 스템 분리기",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/nearly-40-percent-of-music-released-last-month-used-ai",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/08/19/stemdeck-stem-splitter/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/XXHevshUVGR2sDatTDUhbE-1759-80.jpg",
-            "cap": "사이버 공간에 떠 있는 3D AI 글자"
-          },
-          {
-            "t": "p",
-            "x": "시대를 보여주는 신호라면 이만한 게 있을까. 새 조사에 따르면 지난달 전 세계에서 나온 새 음악의 40% 가까이가 만드는 과정에 AI를 썼다."
-          },
-          {
-            "t": "p",
-            "x": "이 아찔한 숫자는 SubmitHub의 새 조사에서 나왔다. 플레이리스트와 블로그에 음악을 보내주는 온라인 플랫폼이다. 100만 곡이 넘는 표본을 자체 AI 음악 탐지기 SH Labs로 돌렸더니 23.2%가 처음부터 끝까지 AI로 만든 곡이었다. 거의 네 곡 중 한 곡꼴이다."
-          },
-          {
-            "t": "p",
-            "x": "여기에 더해 15.3%는 AI가 만든 오디오를 사람이 “modified or processed”, 손보거나 다듬어 쓴 것으로 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "SH Labs는 6월에 공개됐다. Bandcamp와 Traxsource도 쓰는 소프트웨어인데, 탐지가 지나치게 깐깐할 여지도 있다. 올해 발표한 곡에 AI가 들어갔다고 판정된 아티스트 가운데 31%는 플랫폼이 물었을 때 AI 도구를 쓴 적 없다고 답했다."
-          },
-          {
-            "t": "p",
-            "x": "SH Labs가 애먼 트랙을 무더기로 지목했거나, 자기가 AI를 쓴다고 말하기 부끄러운 프로듀서가 있거나. 아마 둘 다 조금씩일 것이다."
-          },
-          {
-            "t": "p",
-            "x": "SubmitHub 창업자 Jason Grishkoff는 이렇게 말했다. “I think the path forward for AI music is disclosure. People should be able to decide for themselves whether they want to engage with AI-generated music.” AI 음악이 갈 길은 공개이고, AI가 만든 음악을 들을지 말지는 각자 정하면 된다는 이야기다."
-          }
+          { "t": "img", "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/stemdeck.jpg", "cap": "StemDeck" },
+          { "t": "p", "x": "1인 개발자 Thales Pereira가 Windows와 macOS, Linux에서 도는 무료 오픈소스 스템 분리 도구 StemDeck을 내놨다." },
+          { "t": "p", "x": "만든 이유는 소박하다. 아이에게 드럼 연습을 시키려는데, 구독료를 물거나 남의 서버에 음악을 올리지 않고 스템을 뽑을 방법이 필요했다고 한다." },
+          { "t": "p", "x": "Ultimate Vocal Remover나 Go-Splitter 같은 도구도 그동안 다뤄왔지만, StemDeck은 유독 군더더기가 없다. 무료에 로컬 실행, 오픈소스이고 계정도 할당량도 업로드도 구독도 요구하지 않는다." },
+          { "t": "p", "x": "분리는 오픈소스 Demucs의 htdemucs_6s 모델이 맡는다. 보컬과 드럼, 베이스, 기타, 피아노, 그 밖의 소리까지 최대 여섯 갈래다. 장치는 알아서 고른다. NVIDIA면 CUDA, Apple Silicon이면 MPS, 아니면 CPU로 떨어진다." },
+          { "t": "p", "x": "MP3와 WAV, FLAC, OGG/Opus, MP4, M4A 같은 흔한 포맷을 불러올 수 있고 처리 권한이 있는 콘텐츠라면 YouTube 주소를 붙여넣어도 된다. 다만 GitHub 페이지는 StemDeck이 다운로더가 아니며 저작권과 플랫폼 약관은 사용자 책임이라고 못 박아둔다." },
+          { "t": "p", "x": "분리가 끝나면 브라우저 기반 멀티트랙 믹서가 열린다. 뮤트와 솔로, 밸런스를 잡고 스템 하나만 모니터하거나 파형을 확대하고 구간을 반복할 수 있다. 스템을 따로 내보내도 되고 원하는 믹스로 묶어 내보내도 된다." },
+          { "t": "p", "x": "일부 스템만 고르면 나머지를 담은 'Original' 레인이 따로 생긴다. A/B로 견주거나 연습용으로 쓸 때 쓸모가 있다." },
+          { "t": "p", "x": "곡 분석도 붙어 있다. BPM 검출과 키·스케일 추정, 신뢰도, 통합 LUFS, 샘플 피크가 나온다. MP4 내보내기도 되니 MP4나 YouTube 소스로 작업했다면 지금 믹스를 원본 영상에 다시 얹을 수 있다." },
+          { "t": "p", "x": "로컬 네트워크 옵션도 재미있다. 개발자 설명으로는 설정에서 StemDeck을 같은 네트워크에 열어두면, 처리는 내 컴퓨터가 하고 라이브러리와 믹서는 다른 기기에서 조작하는 식이 된다." },
+          { "t": "p", "x": "아직 알파다. 연습이나 리믹스 준비, 채보, 샘플링 밑작업, 실험에는 충분하지만 다듬어진 상용 서비스를 그대로 대신하라고 만든 물건은 아니다. 첫 실행 때 Python 런타임과 FFmpeg, Demucs 모델을 내려받고 그다음부터는 훨씬 빨리 뜬다. Windows는 CPU 전용과 NVIDIA CUDA 빌드 중에 고르고, macOS는 Apple Silicon과 Intel 다운로드가 갈린다." },
+          { "t": "p", "x": "StemDeck은 GitHub에 올라와 있고 이미 별 2,000개를 넘겼다. 개발자는 두 달 남짓 만에 다운로드가 1만 3,000회를 넘었다고 했다. 거의 입소문이었다." }
         ]
       }
     },
     {
-      "id": "music-roundhill-suits",
+      "id": "music-umg-hook-licensed-remix",
       "eyebrow": "AI NEWS",
-      "headline": "합의는 없다며 Round Hill이\nSuno와 Anthropic을 고소했다",
-      "body": "고의 침해 한 곡당 최대 15만 달러, 소송당 총액은 10억 달러에 이를 수 있다.",
-      "mini_headline": "Round Hill의 반격",
+      "headline": "팬이 만든 리믹스와 매시업에\nUMG가 라이선스를 붙였다",
+      "body": "UMG와 Hook이 손잡아 팬이 만든 리믹스마다 라이선스와 정산이 붙는다.",
+      "mini_headline": "팬 리믹스에 라이선스",
       "tool": "Music",
       "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/round-hill-sues-suno-and-anthropic-for-up-to-1bn-apiece-it-isnt-looking-to-settle/",
+      "url": "https://www.musicbusinessworldwide.com/universal-music-group-partners-with-hook-to-license-fan-created-content-across-social-media/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/08/GettyImages-72922516.jpg",
-            "cap": "침해 대상에는 James Brown의 I Got You (I Feel Good)도 들어 있다. 사진 Hulton Archive/Getty"
-          },
-          {
-            "t": "p",
-            "x": "Round Hill Music이 Suno와 Anthropic을 상대로 저작권 침해 소송을 냈다. 두 건 다 합의할 뜻이 없다고 못박았다. 소장은 8월 17일 캘리포니아 북부연방지방법원에 접수됐다."
-          },
-          {
-            "t": "p",
-            "x": "각 소송은 고의로 침해한 저작물 한 건당 최대 15만 달러의 법정손해배상을 구한다. Round Hill은 소송별 총액이 “hundreds of millions of dollars and potentially approach or conceivably exceed $1 billion”, 수억 달러에서 10억 달러에 육박하거나 넘어설 수도 있다고 본다."
-          },
-          {
-            "t": "p",
-            "x": "원고는 Round Hill Music LP와 계열 펀드·지주사 다섯 곳이다. 이들이 쥔 곡은 14,364건, 음원은 16,873건. 소장에는 우선 대표 사례로 500곡을 붙였고 앞으로 1만 건 넘게까지 넓힐 계획이다. 문제 삼은 곡에는 Goo Goo Dolls의 Iris, Jim Steinman과 Bonnie Tyler의 Total Eclipse of the Heart, James Brown의 I Got You (I Feel Good)가 있다. 셋을 합친 스트리밍만 60억 회가 넘는다."
-          },
-          {
-            "t": "p",
-            "x": "Suno 소송에는 이스라엘 데이터 스크래핑 업체 Bright Data Ltd.와 미국 자회사도 피고로 들어갔다. 프록시망과 스크래핑 도구를 대줘 Suno가 라이선스 플랫폼에서 음악을 긁어모으게 했다는 주장이다."
-          },
-          {
-            "t": "p",
-            "x": "Round Hill 창업자 겸 CEO Josh Gruss는 이렇게 말했다. “We are not against artificial intelligence. We are against the idea that you can build a business worth billions on top of other people's creative work and pay the creators nothing.” 인공지능에 반대하는 게 아니라 남의 창작물 위에 수십억짜리 사업을 세우고 창작자에게 한 푼도 주지 않는 발상에 반대한다는 말이다. 재판까지 가서 책임을 묻겠다고도 했다."
-          },
-          {
-            "t": "p",
-            "x": "Round Hill은 Marvin Gaye 유족을 대리해 “Blurred Lines” 사건을 이긴 변호사 Richard S. Busch를 골라 붙였다. 두 소장 모두 배심 재판을 요구한다."
-          },
-          {
-            "t": "p",
-            "x": "Anthropic은 이미 같은 법원에서 음악 저작권 소송 세 건을 방어 중이다. Concord Music Group과 Universal Music Publishing Group, ABKCO가 2023년 10월 약 500곡을 걸고 냈고, 같은 퍼블리셔들이 2026년 1월 2만 곡 넘는 규모로 30억 달러 이상을 요구하며 한 번 더 냈다."
-          },
-          {
-            "t": "p",
-            "x": "Suno 쪽 사정도 복잡하다. 메이저 3사는 RIAA를 앞세워 2024년 6월 보스턴에서 소송을 냈고, Universal과 Sony는 여전히 원고로 남아 있다. 7월 31일 뮌헨 지방법원은 GEMA가 낸 사건에서 Suno에게 협회 레퍼토리를 쓸 권리가 없다고 보고 수익 공개와 손해배상을 명령했다."
-          },
-          {
-            "t": "p",
-            "x": "2010년에 세워진 Round Hill은 11억 달러 규모 포트폴리오와 저작권 20만 건을 50명 남짓한 팀으로 굴린다. AI 라이선스 계약은 아직 발표한 적이 없다."
-          }
+          { "t": "img", "src": "https://www.musicbusinessworldwide.com/files/2026/08/1-IMAGE-7-4.jpg", "cap": "UMG × Hook" },
+          { "t": "p", "x": "Universal Music Group이 Hook과 라이선스 파트너십을 맺었다. Hook은 AI 기반 리믹스·매시업 앱으로 소셜 공유용 영상 편집 도구까지 갖췄고, 이제 팬들이 UMG의 공식 음원으로 콘텐츠를 만들 수 있다." },
+          { "t": "p", "x": "발표는 8월 19일 수요일에 나왔다. 소셜미디어 전반의 라이선스된 이용자 제작 콘텐츠를 다루고, 그 대가는 UMG 아티스트와 권리자에게 돌아간다." },
+          { "t": "p", "x": "Hook은 2월 Khosla Ventures가 주도한 시리즈 A에서 1,000만 달러를 모았다. 당시 회사는 AI 도구로 곡을 리믹스해 여러 플랫폼에 공유하되, 권리자와 함께 아티스트의 소유권과 통제권을 지킨다고 설명했다." },
+          { "t": "p", "x": "양사 설명에 따르면 Hook은 생성형 AI 플랫폼과 다르다. 새 곡을 만들어내지 않는다. 팬이 라이선스된 음악으로 UGC를 만들게 할 뿐이다. 창작물마다 라이선스와 크레딧, 추적이 붙어서 팬이 만들 때도 그 결과물이 퍼질 때도 UMG 아티스트와 권리자에게 돈이 간다." },
+          { "t": "p", "x": "협약의 중심은 아티스트의 통제권이다. 어떤 곡을 열어둘지, 팬이 어떤 창작 기능을 쓸지, 결과물을 어디에 올릴 수 있을지 모두 UMG 아티스트와 권리자가 정한다. 리믹스나 효과음, 영상 클리핑 같은 기능도 하나씩 켜고 끌 수 있다." },
+          { "t": "p", "x": "\"음악 창작의 가장 큰 소비자 활용처는 아티스트와 경쟁하는 오리지널 곡을 만드는 일이 아니라고 봅니다. 좋아하는 아티스트와 노래를 통해 자신을 표현하고, 그들이 불러 모은 커뮤니티와 문화에 참여하는 쪽이죠.\" — Hook 창업자 겸 CEO Gaurav Sharma" },
+          { "t": "p", "x": "Republic Records와 Capitol Records, Mavin, Virgin Music Group을 비롯한 UMG 레이블들과 2년을 함께 작업한 끝에 나온 합의다. 그사이 신보와 리믹스, 소셜 팬 활동을 아우르는 아티스트 캠페인을 30건 넘게 만들었다." },
+          { "t": "p", "x": "\"스트리밍은 팬이 음악을 듣는 방식을 바꿔놓았습니다. 라이선스된 팬 창작은 그다음 장의 중요한 축입니다. 아티스트의 통제와 책임 있는 기술, 새로운 가치 창출 방식을 한데 묶는 일이죠. 우리가 앞장서고 싶은 종류의 혁신입니다.\" — UMG 부회장 겸 최고디지털책임자 Michael Nash" },
+          { "t": "p", "x": "UMG의 라이선싱 행보는 이어져 왔다. 2025년 10월 AI 음악 플랫폼 Udio와의 저작권 소송을 합의하면서 라이선스 기반 AI 음악 창작 서비스를 함께 개발하기로 했고, 5월에는 TikTok과 다년 글로벌 라이선스 계약을 갱신하며 아티스트와 작곡가를 위한 AI 보호 장치를 넓혔다." },
+          { "t": "p", "x": "2025년 12월 Hook은 AI 음악 생성기 Suno가 내놓은 'Create Hook' 기능이 자사 브랜드·제품을 지나치게 닮았다고 주장했다. 당시 Hook은 그 기능이 \"소비자 혼동 가능성과 Hook의 상표·브랜드 보호에 심각한 우려를 낳을 정도로 우리의 정체성과 기능을 그대로 비췄다\"고 했다." },
+          { "t": "p", "x": "Hook의 투자자로는 Khosla Ventures와 Point72, Imaginary Ventures, 그리고 전 Warner Music Group CEO Edgar Bronfman Jr.가 공동 창업한 Waverley Capital이 있다. 2024년에는 Downtown Music과도 트랙 라이선스 계약을 맺었다." }
         ]
       }
     },
     {
-      "id": "music-opentune",
+      "id": "music-i-am-choir-neural-vocal",
       "eyebrow": "AI NEWS",
-      "headline": "무료 오픈소스 피치 보정 도구\nOpenTune이 베타로 나왔다",
-      "body": "OpenTune은 신경망 보코더로 포먼트를 지키며 음정만 고치는 오픈소스 도구다.",
-      "mini_headline": "무료 피치 보정 AI",
+      "headline": "혼자 부른 한 테이크가\n가사 따라 부르는 합창단이 된다",
+      "body": "I AM CHOIR는 입력한 보컬을 녹음된 합창단 음색으로 다시 만들어낸다.",
+      "mini_headline": "한 테이크가 합창단으로",
       "tool": "Music",
       "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/08/17/opentune-pitch/",
+      "url": "https://bedroomproducersblog.com/2026/08/12/i-am-choir-plugin/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/opentune-728x364.jpg",
-            "cap": "보컬용 무료 오픈소스 AI 피치 보정 도구 OpenTune"
-          },
-          {
-            "t": "p",
-            "x": "OpenTune은 Windows와 macOS에서 돌아가는 무료 오픈소스 피치 보정 도구다."
-          },
-          {
-            "t": "p",
-            "x": "아직 베타지만 Melodyne이나 Auto-Tune을 대신할 무료 대안을 찾는다면 볼 만하다. AI 기반 접근이라는 점도 그렇다. 나 같은 잠재 사용자에게 가장 큰 걸림돌은 인터페이스가 중국어라는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "BPB에서 하는 일이 대개 이렇다. 수상해 보이는 플러그인을 대신 만져보는 것. 이번에도 최선을 다했지만 지금 Windows 머신이 없어서 macOS 버전만 주력 노트북에서 테스트했다."
-          },
-          {
-            "t": "p",
-            "x": "macOS 설치 파일은 플러그인치고 꽤 무겁다. 780MB 정도인 데다 서명이 안 돼 있어서 macOS 보안 경고를 우회해야 설치됐다. 설치 후 Studio One에는 VST3가 뜨지 않았고 스탠드얼론 버전만 열렸다."
-          },
-          {
-            "t": "p",
-            "x": "그래서 테스트는 반쪽이다. 적어도 스탠드얼론이 작동한다는 것만은 확인했다. 보안 경고를 우회하거나 외국어 인터페이스를 다루는 게 꺼려진다면 이건 건너뛰길 권한다."
-          },
-          {
-            "t": "p",
-            "x": "그래도 궁금한 사람을 위해 OpenTune이 어떤 물건인지 적어둔다."
-          },
-          {
-            "t": "p",
-            "x": "전통적인 DSP 피치 시프팅에만 기대는 대신 OpenTune은 RMVPE 피치 추출과 PC-NSF HiFiGAN 신경망 보코더를 ONNX Runtime 위에서 돌린다. 개발자는 원래 포먼트를 지키면서 고친 음정이나 옮긴 음정으로 보컬을 다시 만들어내는 게 목표라고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "쉽게 말해 피치 보정을 세게 걸었을 때 나오는 “duck voice”나 딴 사람 목소리 같은 효과를 피하겠다는 것이다. 어디까지나 그쪽 주장이다."
-          },
-          {
-            "t": "p",
-            "x": "작업 방식은 Melodyne 같은 수동 피치 보정 소프트웨어를 대놓고 참고했다. 손으로 그리기, 노트 편집, 앵커 도구, 자동 키 감지, 자동 튜닝이 들어 있다. Chromatic, Major, Minor, Pentatonic, Dorian, Mixolydian, Harmonic Minor 같은 보정 스케일도 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "OpenTune V1.5 Beta는 VST3 ARA2 확장을 더했다. Studio One이나 Logic Pro처럼 호환되는 호스트에서 리전 바인딩과 렌더링 작업을 쓸 수 있어야 하는데, 내 Studio One에서는 끝내 로드되지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "최신 베타에는 500단계까지 되돌리는 Undo/Redo, 떠 있는 렌더 상태 배지, 줄어든 메모리 사용량, 개선된 노트 생성, macOS 정식 지원이 들어갔다. GPU 가속은 Windows에서 DirectML, macOS에서 CoreML로 처리한다."
-          },
-          {
-            "t": "p",
-            "x": "WAV, FLAC, OGG, MP3를 불러올 수 있고 인터페이스는 중국어, 영어, 일본어, 러시아어, 스페인어를 지원한다. GitHub 페이지와 데모 자료는 대부분 중국어다."
-          },
-          {
-            "t": "p",
-            "x": "macOS 릴리스가 완전히 공증되지 않았으니 판단은 각자 몫이다. 백신과 운영체제 보안 도구를 믿고 쓰라는 이야기다."
-          },
-          {
-            "t": "p",
-            "x": "라이선스는 AGPL v3.0. 스탠드얼론 앱과 VST3 플러그인으로 나오고, 호환 호스트에서는 ARA2도 쓸 수 있다."
-          }
+          { "t": "img", "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/iamchoir.jpg", "cap": "I AM CHOIR" },
+          { "t": "p", "x": "AM I AUDIO가 I AM CHOIR를 내놨다. 부른 보컬을 받아 가사와 멜로디, 프레이징, 타이밍을 그대로 따라가는 합창 파트로 바꿔주는 합창 악기다." },
+          { "t": "p", "x": "흔한 보컬 더블러도, 합창 패드 음원도 아니다. 입력한 연주를 녹음된 합창단의 소리로 다시 빚어내는 음색 전이 도구다." },
+          { "t": "p", "x": "DAW 안에서 로컬로 돈다. 클라우드 처리가 없고 오디오가 컴퓨터 밖으로 나가지 않는다. 라이선스도 영구 방식이라 구독이나 토큰, 생성 크레딧을 따로 사지 않는다." },
+          { "t": "p", "x": "합창단 모델은 셋이다. Gospel Choir는 Erica Howard가 지휘한 남녀 혼성 합창단으로 음역은 E2에서 G5. Kids Choir는 MUSYCA Children's Choir와 녹음한 밝은 어린이 합창단이고 음역은 G#2에서 G5. Shout는 외치는 비선율 파트를 위한 남성 갱 보컬 모델로 음역은 E2에서 G5다." },
+          { "t": "video", "yt": "4kh2vCIToxE" },
+          { "t": "p", "x": "AM I AUDIO는 모델 뒤에 선 가수들과 직접 손잡고 만들었다고 밝혔다. 가수들은 무슨 작업인지 알고 동의한 상태로 참여했고 녹음 세션 비용을 받았으며, 플러그인이 잘되면 로열티를 나눠 받는다." },
+          { "t": "p", "x": "마이크 모델도 여럿이다. U67과 C12/C24는 모든 합창단에 붙고 Schoeps는 Gospel과 Shout에, Telefunken은 Kids에 들어간다." },
+          { "t": "p", "x": "편곡 쪽으로는 옥타브 제너레이터가 있고, 리드 위아래로 3도와 5도를 만들어주는 하모니 제너레이터에 키와 스케일 설정이 붙는다. 스테레오/모노 토글도 있다." },
+          { "t": "p", "x": "후처리는 로우컷과 밝기, 리버브 정도로 단출하다. AM I AUDIO는 드라이한 보컬을 넣고 긴 무음 구간은 변환 전에 잘라내라고 권한다. 합창을 더 크게 들리게 하려면 옥타브 위아래 레이어를 얹으라는 조언도 붙었다." },
+          { "t": "p", "x": "엔지니어링과 설계는 Neutone, Inc.와 함께했다." },
+          { "t": "p", "x": "가격은 9월 1일까지 런칭 가격 169달러, 그 뒤로는 199달러다. 신용카드 없이 14일 무료 체험이 된다. macOS 12 이상에서 VST3와 AU, AAX를 지원하고 Windows는 아직 준비 중이라 베타 프로그램만 열려 있다." }
         ]
       }
     },
     {
-      "id": "music-happyshrimp",
+      "id": "music-lalal-lynx-vocal-rip",
       "eyebrow": "AI NEWS",
-      "headline": "Alibaba가 프롬프트 한 줄로\n노래 한 곡을 만드는 모델을 냈다",
-      "body": "HappyShrimp 1.0은 멜로디와 편곡, 가사를 쓰고 직접 부르기까지 한다.",
-      "mini_headline": "Alibaba, 작곡 AI",
+      "headline": "유튜브와 바이닐에서 긁어온\n보컬을 Lynx로 직접 닦아봤다",
+      "body": "잡음 낀 영화 대사와 바이닐 아카펠라를 Lynx로 정리해 실제 트랙에 얹어봤다.",
+      "mini_headline": "긁어온 보컬 되살리기",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/alibaba-launches-ai-song-generator-happyshrimp-1-0-in-beta-with-chinas-taihe-music-signed-up-for-artist-co-creation/",
+      "source": "Attack Magazine",
+      "url": "https://www.attackmagazine.com/technique/tutorials/cleaning-up-vocal-rips-with-lalal-ai-lynx/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/08/image1-e1787028035370.png",
-            "cap": "베타에 들어간 Alibaba의 AI 작곡 모델 HappyShrimp 1.0"
-          },
-          {
-            "t": "p",
-            "x": "Alibaba가 글로 쓴 프롬프트 하나를 완성된 노래로 바꾸는 AI 모델을 내놨다. HappyShrimp 1.0은 8월 17일 월요일 베타에 들어갔다고 항저우에 본사를 둔 이 회사가 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "HappyShrimp은 중국 레이블 그룹 Taihe Music Group과 아티스트 공동 창작, 콘텐츠 개발에서 함께한다. Taihe Rye Music과 Ocean Butterflies가 이 그룹 소속이다."
-          },
-          {
-            "t": "p",
-            "x": "사용자가 분위기나 이야기, 음악 스타일을 적으면 HappyShrimp이 멜로디와 편곡, 가사를 쓰고 직접 부른다. 가사를 직접 넣어 곡을 붙여달라 하거나 반주만 달라고 할 수도 있다. 음악을 배운 적이 없어도 된다는 게 회사 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "다루는 장르는 중국풍 음악과 팝, R&B/소울, 힙합, 록, 펑크, 일렉트로닉, 클래식, 재즈다. 프롬프트로 악기 편성과 보컬 스타일, 곡이 흐르는 동안 에너지가 어떻게 변하는지까지 지정한다. 소리를 뽑기 전에 곡의 구조와 리듬 전개, 화성 진행을 먼저 잡고 감정 톤과 에너지, 가사 의도를 함께 놓는다."
-          },
-          {
-            "t": "p",
-            "x": "모델을 만든 곳은 Alibaba가 2026년 3월에 세워 그룹 CEO Eddie Wu 아래 둔 AI 조직 Alibaba Token Hub다. 올해 앞서 나온 멀티모달 모델 HappyHorse와 월드 모델 HappyOyster를 잇는다."
-          },
-          {
-            "t": "p",
-            "x": "세계 최대 기술 기업 하나가 Suno와 Udio가 이름값을 쥔 시장에 뛰어든 셈이다. Suno는 6월에 54억 달러 기업가치로 4억 달러 넘게 모았고 이용자가 1억 명을 넘겼다고 말한다. 두 회사 모두 2024년 RIAA가 메이저 3사를 대리해 “mass infringement”, 대규모 침해를 이유로 소송을 걸면서 협상 테이블에 앉았다."
-          },
-          {
-            "t": "p",
-            "x": "중국 안쪽도 이미 붐빈다. Kunlun Tech는 Mureka 생성기와 Melodio 스트리밍을 굴리고, ByteDance는 모바일 음악 창작 도구를 갖고 있다. Tencent Music Entertainment의 Tianqin Lab은 Tencent AI Lab과 음악 모델을 만들었고, 창작 도구에 DeepSeek을 붙여 QQ Music으로 곧장 발행하게 했다."
-          },
-          {
-            "t": "p",
-            "x": "Alibaba는 칩부터 클라우드, 프런티어급 AI 시스템까지 모델 아래 모든 층을 직접 갖고 있다. 8월 3일 내놓은 최대 모델 Qwen3.8-Max는 2조 4천억 파라미터다. 회사는 이를 Anthropic의 Claude Fable 5 다음가는 프런티어 시스템으로 놓았다."
-          },
-          {
-            "t": "p",
-            "x": "Alibaba가 음악 사업에 손댄 건 처음이 아니다. 2013년 스트리밍 서비스 Xiami Music을 샀다가 2021년 2월 접었다. 지난 7월에는 엔터테인먼트 부문 해외 조직 Damai International이 아티스트 육성 레이블 ORCA를 세우고 전 세계 오디션을 열었다. IFPI에 따르면 중국은 2025년 20.1% 성장하며 독일을 제치고 세계 4위 음반 시장이 됐다."
-          }
+          { "t": "img", "src": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Mag-Reviews-Lalal.ai-Lynx.png", "cap": "LALAL.AI Lynx" },
+          { "t": "p", "x": "보컬 샘플만큼 트랙을 살리는 재료도 드물다. 아카펠라든 스템이든 옛 영화의 대사 한 토막이든, 목소리 하나가 곡의 결을 바꾼다. 문제는 원하는 만큼 깨끗한 소스가 별로 없다는 것이다. YouTube 영상은 음질이 들쭉날쭉하고 레코드도 잡음이 심하면 쓰기 어렵다." },
+          { "t": "p", "x": "스템 분리기로 이름난 LALAL.AI가 목소리에서 잡음과 아티팩트를 걷어내는 새 알고리즘 Lynx를 내놨다. 회사 블로그 설명으로는 소리의 때를 사람 목소리와 갈라내도록 1년을 학습시켰다. 웹과 데스크톱 앱, iPhone·iPad용 iOS 앱에서 쓸 수 있고 Pro 등급이면 DAW 플러그인으로도 붙는다." },
+          { "t": "img", "src": "https://www.attackmagazine.com/wp-content/uploads/2026/08/LALAL.AI-split-settings.jpg", "cap": "Voice & Noise 설정" },
+          { "t": "p", "x": "쓰는 법은 단순하다. 앱에 파일을 떨구고 Voice & Noise를 고르면 Lynx가 들어 있는 정리 모드로 간다. 신경망은 v7 Lynx로 두고 노이즈 제거 강도를 Mild, Normal, Aggressive 중에 고른다. Attack Magazine은 Normal이 정리와 음질 보존 사이에서 균형이 좋았다고 적었다. 잔향이 심한 방에서 녹음된 소스라면 디에코 옵션도 켠다." },
+          { "t": "p", "x": "첫 시험대는 저작권이 풀린 옛 공포영화 대사였다. 긁힘투성이 원본을 Normal로 돌리자 쓸 만해졌고, 다듬고 타임스트레치한 뒤 EQ와 컴프레션을 얹어 Splice 루프를 깐 스피드 개러지 트랙에 넣었다." },
+          { "t": "img", "src": "https://www.attackmagazine.com/wp-content/uploads/2026/08/my-house.jpg", "cap": "아카펠라 바이닐 실험" },
+          { "t": "p", "x": "두 번째는 아카펠라 바이닐이다. Fingers Inc와 Chuck Roberts의 \"My House\" 보컬 버전을 YouTube에서 240p로 뜯은 다음, Ableton Live에서 iZotope의 무료 Vinyl 플러그인으로 스크래치와 팝, 전기 잡음을 일부러 입혔다. Aggressive는 잡음을 잘 걷어내되 원음까지 깎아버려 Normal로 내렸고, 원곡의 슬랩백 에코 때문에 디에코도 걸었다. 완벽하진 않아도 전보다는 훨씬 낫다." },
+          { "t": "p", "x": "Lynx는 잡음을 지우는 게 아니라 갈라놓는다. 그래서 무엇이 빠져나갔는지 담긴 파일도 함께 받는다." },
+          { "t": "img", "src": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Kiss.jpg", "cap": "Kiss 라이브 보컬 스템" },
+          { "t": "p", "x": "마지막은 리믹스 작업 흉내다. 관객 환호가 덧입혀진 라이브 녹음으로 1970년대 Kiss의 \"Do You Love Me?\"를 골랐다. 곧 나올 라이브 앨범 Kiss Destroys Anaheim 76 수록곡이다. Vocal & Instrumental로 스템을 뽑았더니 박수와 함성 탓에 기대만큼 깨끗하진 않았다. 여기에 Normal과 디에코를 한 번 더 걸어 Splice 루프를 깐 애시드 하우스 트랙에 얹었다." },
+          { "t": "p", "x": "LALAL.AI Lynx는 무료 스타터 등급과 월 7.5달러 Lite, 월 15달러 Pro로 나뉜다. 1회성 충전도 있다." }
         ]
       }
     },
     {
-      "id": "music-ethical-plugins",
+      "id": "music-train-your-own-model",
       "eyebrow": "AI NEWS",
-      "headline": "학습 데이터를 제값 주고 사는\nAI 음악 도구 여섯 개를 모았다",
-      "body": "여섯 도구 모두 학습에 쓴 음악을 라이선스하고 수익을 아티스트와 나눈다.",
-      "mini_headline": "윤리적 AI 플러그인",
+      "headline": "남의 카탈로그와 싸우는 대신\n내 아카이브로 모델을 만든다",
+      "body": "음악가가 자기 아카이브로 학습시킨 모델은 곡 생성기보다 거울에 가깝다.",
+      "mini_headline": "내 음악으로 만든 모델",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/guides/buyers-guide/best-ethical-ai-music-plugins/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/08/19/train-music-ai-own-music/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
-          {
-            "t": "p",
-            "x": "AI는 신나는 기술이어야 한다. 짧은 시간에 새 도구와 기법, 소리, 작업 방식이 쏟아졌다. 그런데 가장 큰 AI 회사 몇 곳은 그 가능성을 께름칙한 쪽으로 돌려놨다. 사람이 만든 음악을 통째로 삼킨 알고리즘이 다시 게워낸다."
-          },
-          {
-            "t": "p",
-            "x": "다행히 음악과 뮤지션을 먼저 놓는 회사도 있다. 여기서 말하는 윤리적 AI는 뮤지션·프로듀서·아티스트와 함께 도구를 만드는 브랜드다. “make my record sound like XYZ artist” 같은 쪽이 아니라 협업자에게서 소재를 라이선스해 쓴다. 무엇보다 당신의 음원을 제품 개선에 갖다 쓰지 않는다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/01/landr-layers-blueprint-hero@2000x1500.jpg",
-            "cap": "앞은 LANDR Layers, 뒤는 LANDR Blueprint. 이미지 LANDR"
-          },
-          {
-            "t": "p",
-            "x": "LANDR. 마스터링은 AI 탄광의 카나리아였다. 2014년부터 알고리즘 마스터링을 팔았고, 동의한 엔지니어에게 직접 배우며 알고리즘을 다듬어왔다. 경쟁이 빡빡해진 지금도 가격과 유연성, 품질의 균형은 가장 낫다. 온라인 마스터링이 유통 서비스와 묶여 나오는 게 흠이라, 그게 싫으면 단독 플러그인을 따로 사야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
-            "cap": "Roland와 Neutone이 함께 만드는 Project LYDIA. 이미지 Press"
-          },
-          {
-            "t": "p",
-            "x": "Neutone. 처음부터 윤리적 AI를 걸고 자체 녹음하거나 퍼블릭 도메인에서 가져온 데이터셋만 썼다. 그 데이터로 만든 Morpho는 실시간 입력의 음색을 AI 모델의 성질대로 바꾼다. 목소리로 드럼을 뽑고 기타 리프로 그레고리오 성가를 몰 수 있다는 뜻이다. 아티스트와는 모델 수익의 50%를 나눈다. 사람 심장 박동만으로 학습한 모델도 있다. 각 모델의 학습 방식과 출처는 플러그인 안에서 바로 확인된다. Roland와 함께 AI를 물리적 스톰프박스에 넣는 Project LYDIA도 진행 중이다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2024/09/Voice-Swap-VST-plugin@2000x1500.jpg",
-            "cap": "Voice-Swap VST 플러그인. 이미지 Voice-Swap"
-          },
-          {
-            "t": "p",
-            "x": "Voice-Swap. AI 음성 복제는 일찍부터 평판이 나빴고 그럴 만했다. Voice-Swap은 처음부터 가수와 직접 손잡고 상업 음악에 합법으로 쓸 수 있는 아티스트 승인 음성 모델을 만들었다. 구독료의 50%는 참여 아티스트에게 그대로 간다. 윤리를 빼고 봐도 복제 기술이 업계 상위권이고, VST 플러그인과 커스텀 음성 모델 제작까지 된다."
-          },
-          {
-            "t": "p",
-            "x": "ACE Studio. 머리끝부터 발끝까지 AI인 워크스테이션에 전부를 걸었다. 반주 생성부터 스케치 한 장으로 곡 전체를 뽑는 것까지 AI 기능이 넘친다. 리뷰에서 텍스트-투-뮤직은 아직 아니라고 봤지만 AI 보컬 모델은 달랐다. 참여 뮤지션에게 대가를 지불한 덕에 마음 놓고 140개 보컬 모델을 뒤졌다. 놀랄 만큼 사실적이었고 섞고 겹쳐 자기 음색도 만들 수 있었다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/08/moises-ai-daw-screen@2000x1500.jpg",
-            "cap": "Moises AI의 Stem Generator. 이미지 Moises AI"
-          },
-          {
-            "t": "p",
-            "x": "Moises AI. 스템 분리는 AI 논쟁에서 거의 유일하게 불평이 적다. 완성된 녹음을 조각으로 쪼개는 일은 DJ와 리믹서, 오디오 복원 작업자에게 판을 바꿨다. Moises AI는 뮤지션과 레이블, 플랫폼과 손잡고 학습 데이터를 전부 라이선스한다. 올해는 Charlie Puth가 최고 음악 책임자로 합류해 Jordan Rudess, Cory Henry와 나란히 섰다."
-          },
-          {
-            "t": "p",
-            "x": "Safari Audio Meaw Chain. 올해 나온 AI 음악 플러그인 중 가장 흥미롭다. DAW에서 오디오를 재생해 Meaw Chain에 분석시킨 뒤 텍스트로 방향을 적으면 몇 초 만에 플러그인 체인이 나온다. Safari는 고객 오디오로는 절대 학습하지 않겠다고 밝혔다. 서드파티 플러그인 목록이 늘고 있고 그 안의 개별 파라미터까지 잡아준다. 초판이라 아쉬운 점은 여럿이지만 윤리는 거기 끼지 않았다."
-          }
+          { "t": "img", "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/train-ai-image.png", "cap": "Train your own AI" },
+          { "t": "p", "x": "지난 몇 년간 음악가들은 인공지능을 두고 엉뚱한 질문을 해왔다. AI가 곡을 쓸 수 있냐고? 당연히 쓴다. 작곡도, 목소리 흉내도, 오케스트라 큐도, 테크노도 앰비언트도 컨트리도 영화음악도 재즈 비슷한 무엇도 다 뽑아낸다. 놀란 척은 이제 그만두자." },
+          { "t": "p", "x": "더 흥미로운 질문은 그다음이다. 음악가가 거대한 AI에 뻔한 음악을 시키는 대신 자기 자신을 중심으로 시스템을 짓기 시작하면 어떻게 될까. 모든 음악으로 학습한 AI가 아니라 내 음악으로 학습한 AI 말이다. 녹음과 연주, 목소리, MIDI, 악보, 데모, 스템, 즉흥연주, 버린 아이디어, 실수, 제작 결정, 노트까지." },
+          { "t": "p", "x": "이미 그렇게 해본 사람들이 있다. YACHT는 Chain Tripping을 만들며 자기 카탈로그를 기계학습으로 훑고 그 결과를 작곡 재료로 삼았다. 앨범이 완성과 함께 역사가 되는 대신, 다른 방향에서 걸어 들어갈 수 있는 지형이 됐다." },
+          { "t": "p", "x": "Actress는 Young Paint라는 계산적 분신을 만들었고, Holly Herndon은 Spawn을 앙상블의 일원처럼 다뤘다. 뒤이어 자기 노랫소리의 합성판 Holly+까지 내놨다. Grimes는 자기 목소리의 AI 버전을 열어 다른 창작자들이 쓰게 했다. 모델 자체가 아티스트의 자산이 되는 지점이다." },
+          { "t": "p", "x": "Imogen Heap의 Mogen은 소리 너머로 간다. 인터뷰와 노트, 제작 결정까지 담아 무엇을 만들었나가 아니라 왜 만들었나를 아는 쪽이다. Reinier Zonneveld의 R²는 무대 위에서 그의 연주에 반응하고 MIDI를 만들어 신스와 드럼머신을 직접 몬다. 수천 시간짜리 아카이브를 버리지 않고 남겨뒀기에 가능했던 일이다." },
+          { "t": "p", "x": "이제 이 기술이 기능이 되고 있다. Suno는 비교적 적은 자기 녹음으로 개인 모델을 만드는 커스텀 모델을 붙였고, 오픈소스 파인튜닝도 평범한 컴퓨터로 손이 닿는다. 질문이 \"어떻게 모델을 만들지\"에서 \"어느 폴더를 줄까\"로 바뀌었다." },
+          { "t": "p", "x": "저자는 첫 명령이 \"내 다음 앨범을 써줘\"가 되는 걸 경계한다. 효율로 포장한 항복이라는 것이다. 대신 이런 걸 시켜보라고 한다. 내가 평소 고르지 않을 화성 해법 열 개를 보여줘. 2003년에 멈춘 곡을 다섯 방향으로 밀어봐. 내가 나도 모르게 반복해온 제스처를 찾아줘." },
+          { "t": "p", "x": "함정도 있다. 모델이 나를 잘 이해할수록 내가 다음에 할 법한 것도 잘 맞힌다. 막힐 때마다 이미 해본 것의 그럴듯한 변주를 무한히 내미는 기계는 달콤하고 위험하다. 세계 최고의 내 클리셰 전문가를 손수 기른 셈이다." },
+          { "t": "p", "x": "그래서 저자의 처방은 생성이 아니다. 아카이브부터 정리하고, 무엇이 나를 대표하는지 골라내고, 작게 시작하고, 왜 그렇게 만들었는지 적어두라는 것이다. 데이터셋을 고르는 일이야말로 개인 AI를 짓는 첫 예술 행위다. 모델은 내 과거를 알지만 앞으로 뭐가 될지는 여전히 사람 몫이다." }
         ]
       }
     }

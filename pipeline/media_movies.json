@@ -1,32 +1,34 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "movies",
   "media": [
     {
-      "id": "movies-descript-lipsync-dubbing",
+      "id": "movies-val-kilmer-ai-footage",
       "type": "video",
-      "src": "pipeline/media/movies-descript-lipsync-dubbing.mp4",
-      "poster": "pipeline/media/movies-descript-lipsync-dubbing.jpg"
+      "src": "pipeline/media/movies-val-kilmer-ai-footage.mp4",
+      "poster": "pipeline/media/movies-val-kilmer-ai-footage.jpg"
     },
     {
-      "id": "movies-viewscreen-moana",
-      "type": "image",
-      "src": "pipeline/media/movies-viewscreen-moana.jpg"
+      "id": "movies-strada-2-virtual-drive",
+      "type": "video",
+      "src": "pipeline/media/movies-strada-2-virtual-drive.mp4",
+      "poster": "pipeline/media/movies-strada-2-virtual-drive.jpg"
     },
     {
-      "id": "movies-mpa-bytedance-mou",
-      "type": "image",
-      "src": "pipeline/media/movies-mpa-bytedance-mou.jpg"
+      "id": "movies-wan-3-honest-review",
+      "type": "video",
+      "src": "pipeline/media/movies-wan-3-honest-review.mp4",
+      "poster": "pipeline/media/movies-wan-3-honest-review.jpg"
     },
     {
-      "id": "movies-ghibli-next-film-ai",
+      "id": "movies-matriarch-verena-puhm",
       "type": "image",
-      "src": "pipeline/media/movies-ghibli-next-film-ai.jpg"
+      "src": "pipeline/media/movies-matriarch-verena-puhm.jpeg"
     },
     {
-      "id": "movies-robin-williams-instagram",
+      "id": "movies-rick-baker-locarno",
       "type": "image",
-      "src": "pipeline/media/movies-robin-williams-instagram.jpg"
+      "src": "pipeline/media/movies-rick-baker-locarno.jpg"
     }
   ]
 }

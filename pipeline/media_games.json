@@ -1,33 +1,34 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "games",
   "media": [
     {
-      "id": "games-immens-engine",
-      "type": "image",
-      "src": "pipeline/media/games-immens-engine.jpg"
-    },
-    {
-      "id": "games-wolf-haus-no-genai",
+      "id": "games-unreal-vibe-simulation",
       "type": "video",
-      "src": "pipeline/media/games-wolf-haus-no-genai.mp4",
-      "poster": "pipeline/media/games-wolf-haus-no-genai.jpg"
+      "src": "pipeline/media/games-unreal-vibe-simulation.mp4",
+      "poster": "pipeline/media/games-unreal-vibe-simulation.jpg"
     },
     {
-      "id": "games-nte-doubao-watermark",
-      "type": "image",
-      "src": "pipeline/media/games-nte-doubao-watermark.jpg"
-    },
-    {
-      "id": "games-nexus-ai-tags",
-      "type": "image",
-      "src": "pipeline/media/games-nexus-ai-tags.jpg"
-    },
-    {
-      "id": "games-witcher3-fear-cut",
+      "id": "games-vapor-world-ai-cutscenes",
       "type": "video",
-      "src": "pipeline/media/games-witcher3-fear-cut.mp4",
-      "poster": "pipeline/media/games-witcher3-fear-cut.jpg"
+      "src": "pipeline/media/games-vapor-world-ai-cutscenes.mp4",
+      "poster": "pipeline/media/games-vapor-world-ai-cutscenes.jpg"
+    },
+    {
+      "id": "games-james-pond-ai-suspicion",
+      "type": "video",
+      "src": "pipeline/media/games-james-pond-ai-suspicion.mp4",
+      "poster": "pipeline/media/games-james-pond-ai-suspicion.jpg"
+    },
+    {
+      "id": "games-gunz-steam-return",
+      "type": "image",
+      "src": "pipeline/media/games-gunz-steam-return.jpg"
+    },
+    {
+      "id": "games-sony-ceo-human-made-art",
+      "type": "image",
+      "src": "pipeline/media/games-sony-ceo-human-made-art.jpg"
     }
   ]
 }

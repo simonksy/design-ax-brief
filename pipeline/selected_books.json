@@ -1,68 +1,68 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "section": "books",
   "count": 5,
-  "dedup_note": "RE-CURATION after recovery collection. Ranks 1-3 are unchanged from the first pass (see original note below). Ranks 4-5 come from pipeline/candidates_filtered_recovery_books.json (4 items), each re-checked against the FULL ledger pipeline/published_urls.json books block (136 URLs, reaching back to 2026-06-18) and pipeline/news_data.json sections.books (today + 5 days). None of the 4 recovery URLs appear in the ledger. DROPPED 2 of 4 on CONTENT-level duplication: (a) scholarlykitchen 'Reading Between the Lines Part 1: A Cognitive Framework for AI in Scholarly Publishing' (08-12) — Part 2 of the very same Ghildiyal series, 'Cognitive Debt and the Adaptive Publisher', was published by the brief on 2026-08-14; same source, same core argument, released as a two-part hub, so per the content-hub rule only the single best one may run and the brief already ran it. Dropping it also preserves outlet spread (Scholarly Kitchen already holds rank 2). (b) csmonitor 'AI publishing, Commonwealth Prize, Shy Girl' (08-13) — a synthesis whose every constituent event is already published: the collapsed six/seven-figure AI-suspicion deal (thebookseller ledger 08-01 and 08-05, plus books-agent-ethics-ai-gap 08-15) and the Commonwealth Foundation short-story-prize AI controversy (bookriot ledger 06-27, thebookseller 'commonwealth-foundation-to-delay-short-story-prize-submissions-after-ai-controversy' ledger 08-15). Reworded, later-dated recap of published stories, not new news. SURVIVORS appended in rank order: Publishing Perspectives 'Around the Book World, August 17, 2026' (China's first sector-specific AI application standards for publishing — no China publishing-AI-standard item anywhere in the ledger; the only prior Publishing Perspectives roundups on file are Aug 3 and Aug 10, different editions with different contents) and Writer's Digest 'I let AI write my code. I won't let it write my novels' (a craft argument distinct from the ledger's voice/counterculture pieces — janefriedman 'finding-your-voice' 06-30 and wired 'anti-AI literary counterculture' 08-04 — because its claim is structural, that unpredictability is a load-bearing property of fiction and a liability in code). FINAL 5: 5 distinct never-published stories, 5 distinct outlets (Literary Hub, The Scholarly Kitchen, Future Fiction Academy, Publishing Perspectives, Writer's Digest), max 1 per domain, 5 distinct accents, no repeated URL. ORIGINAL PASS NOTE: Checked all 13 first-pass candidates against news_data.json sections.books (30 cards) and the full ledger. DROPPED as already published by URL: publishersweekly 101002 'Brian Murray calls for industrywide solutions to issues around AI authorship' (08-07); janefriedman 'ChatGPT blocks requests to imitate specific writers styles' (08-06); selfpublishingadvice 'AI in self-published Amazon books' (08-08); scholarlykitchen 'The Published Voice' (08-06); thebookseller 'Numerous authors of colour facing AI speculation' (08-08). DROPPED as content-level duplicates under a different URL: janefriedman 'Claude is adding watermarks to generated content' and bookriot 'Claude to add watermarks and more AI publishing news' (the Anthropic/EU AI Act watermarking event ran 08-14 as books-claude-watermark; the roundup's Substack/Pangram item ran 08-08); youtube I7hskWGurDU 'Self-Publishing with Dale' (every segment already published: EU transparency 08-14, bot-or-not study 08-14 and 08-06, Pulitzer AI disclosure 08-11); bookriot 'Library news updates August 2026' (lead hook is the same readers-rate-AI-stories-higher study from 08-06 and 08-14); janefriedman 'Seven-figure book deal canceled' (published 08-01, 08-05 and again inside books-agent-ethics-ai-gap 08-15). Also verified: the Literary Hub piece is Amazon destructively scanning bought-in books (404 Media, 08-17), NOT the Guardian's 'Anthropic is destroying books' column from 2026-08-06 — different company, investigation and date.",
+  "dedup_note": "User deferred ('알아서') — curator picked. Checked all 14 candidates in pipeline/candidates_filtered_books.json against pipeline/news_data.json sections.books (today 2026-08-19 + 5 days) AND the full ledger pipeline/published_urls.json books block (136 URLs back to 2026-06-18). The automated pass reported dropped=0 because it matches on URL only; 7 candidates die on CONTENT-level duplication or an exact ledger hit. DROPPED BY URL (already in ledger): thebookseller 'numerous-authors-of-colour-facing-ai-speculation' (published 2026-08-08). DROPPED AS CONTENT DUPLICATES: (a) goodereader 'AI companies are buying hardcover books and destroying them' — same event as lithub 'Now Amazon is destroying rare books to train its AI', published YESTERDAY 2026-08-19 as card books-amazon-destructive-scanning; different outlet, same 404 Media investigation. (b) janefriedman 'How Claude watermarking works, some accuse Anthropic of compliance theatre' — the Claude/EU-AI-Act watermarking event has already run twice: arstechnica 'Claude's new scarlet letter watermark' (08-14) and Future Fiction Academy Ep. 50 on the watermark's effect on word choice (08-19). A third card on the same release would be a visible repeat. (c) bookriot 'Claude to add watermarks and more AI publishing news' — same watermarking event, plus its Substack/Pangram segment ran 08-08 (janefriedman 'update-on-substacks-ai-detection-using-pangram'). (d) bookriot 'Library news updates August 2026' — lead hook is the readers-rate-AI-stories-higher study already published 08-06 (thebookseller) and 08-14. (e) youtube I7hskWGurDU 'Self-Publishing with Dale' — every segment already published: EU transparency 08-09/08-14, the bot-or-not study 08-06, Pulitzer AI disclosure 08-11. (f) scholarlykitchen 'Reading Between the Lines Part 1' — Part 2 of the same two-part Ghildiyal hub ran 08-14 (ledger 2026/08/13 'cognitive-debt-and-the-adaptive-publisher'); content-hub rule allows only the single best one and the brief already ran it. BACKFILL: 7 survivors, top 5 taken in rank order. Held back: youtube _eCckkUWYDk (Nerdy Novelist, agentic writing workflows, 08-10 — would have been a second Nerdy Novelist card and is 10 days old) and youtube sWDN-k2rQpo (Future Fiction Academy Ep. 49, 08-07 — oldest item in the pool and the same series already ran yesterday). DIVERSITY GUARD: final 5 = 5 distinct outlets (The Creative Penn, The Scholarly Kitchen, Publishers Weekly, The Nerdy Novelist, Future Fiction Academy), max 1 card per domain, 5 distinct accents, no repeated URL, and a spread across marketing / scholarly infrastructure / educational publishing / authoring tools. No general AI-business or politics items in the pool were carried through.",
   "picks": [
     {
-      "title": "Now Amazon is destroying rare books to train its AI",
-      "url": "https://lithub.com/now-amazon-is-destroying-rare-books-to-train-its-ai/",
-      "source": "Literary Hub",
-      "published_iso": "2026-08-17T12:00:00Z",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/08/Untitled-design-23.png",
-      "excerpt": "A 404 Media investigation found Amazon buying books in bulk and destructively scanning them — cutting off spines — to build AI training corpora. Rare and out-of-print titles are among the casualties.",
+      "title": "Book Marketing: AI, Book Discoverability and Resilience, with Ricardo Fayet",
+      "url": "https://www.thecreativepenn.com/2026/08/19/book-marketing-ai-book-discoverability-and-resilience-with-ricardo-fayet/",
+      "source": "The Creative Penn",
+      "published_iso": "2026-08-19T07:00:00Z",
+      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/08/book-marketing-and-resilience.jpg",
+      "excerpt": "Reedsy's Ricardo Fayet argues AI search engines are rewriting book discoverability: readers now ask conversational questions instead of typing keywords, so books get surfaced by review volume and cross-web mentions rather than metadata keywords. Authors are told to build an 'internet footprint' across Goodreads, Reddit and reviews so LLMs can recommend them.",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "The hardest new fact in the pool: training-data acquisition has moved from scraping text to physically shredding the only surviving copies of some books, which changes what 'opt out' can even mean for a rights holder."
+      "rationale": "The most directly actionable item in the pool — it says the keyword-and-metadata playbook authors have run for a decade is now the wrong lever, and names what replaces it: review volume and mentions an LLM can actually cite."
     },
     {
-      "title": "Guest Post — When Errors Become Consensus: Science's Self-Correction Can No Longer Keep Up",
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/17/guest-post-when-errors-become-consensus-sciences-self-correction-can-no-longer-keep-up/",
+      "title": "Guest Post — AI Can Find the Article. Can It Tell Which Version It Used?",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/",
       "source": "The Scholarly Kitchen",
-      "published_iso": "2026-08-17T12:00:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/960px-Oxo_Tower_London_June_2016_002.jpg",
-      "excerpt": "Generative AI is driving a 'synthetic consensus' in which flawed claims gain credibility through cheap repetition faster than the literature can correct itself. The author flags model collapse as publishing's compounding-error risk.",
+      "published_iso": "2026-08-19T09:30:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1071052286-1024x768.jpg",
+      "excerpt": "Patrick Hargitt and Steve Smith argue that AI retrieval tools can locate a paper but rarely know which version they read, and that persistent identifiers alone don't fix it. They call for semantic versioning and provenance metadata baked into publishing workflows so AI-mediated reading stays traceable.",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "Names a failure mode editors can act on tomorrow — repetition, not hallucination, is what turns a wrong claim into settled fact — and it is a fresh 08-17 piece rather than a rerun of the cognitive-debt argument already published."
+      "rationale": "A concrete failure in AI reading that a publisher can fix on their own side this quarter — versioning and provenance metadata — rather than another abstract call for trustworthy AI."
     },
     {
-      "title": "The Automated Author Ep. 50 — Claude's watermarking and the words it quietly changes",
-      "url": "https://www.youtube.com/watch?v=_0NmhvNm61A",
-      "source": "Future Fiction Academy",
-      "published_iso": "2026-08-18T01:28:19Z",
-      "og_image": "https://i.ytimg.com/vi/_0NmhvNm61A/maxresdefault.jpg",
-      "excerpt": "Episode 50 of The Automated Author digs into Claude's AI text watermarking and how Anthropic's approach may nudge word choice itself. Elizabeth Ann West and Stacey Anderson argue those 'low-stakes' vocabulary decisions are anything but low-stakes in fiction.",
+      "title": "McGraw Hill touts AI in improving first-quarter results",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101040-mcgraw-hill-touts-ai-in-improving-first-quarter-results.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-08-13T12:00:00Z",
+      "og_image": "",
+      "excerpt": "McGraw Hill now runs eight live AI learning tools with 7.5 million active users and three more launching this fiscal year. Its AI Reader — which lets students highlight passages inside an e-book and self-quiz — logged 63 million learning interactions across 2.6 million students since fall 2024.",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "The freshest item in the pool: the watermark announcement itself ran 08-14, but the claim that the scheme skews Claude's token choice — and therefore a novelist's prose — is new and is what the card is written on."
+      "rationale": "Rare hard numbers instead of sentiment: 7.5M users and 63M logged interactions turn 'AI in publishing' into a measured product line, and give anyone pitching AI reading features an actual benchmark."
     },
     {
-      "title": "China readies the world's first sector-specific AI standards for publishing",
-      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-17-2026/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-08-17T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
-      "excerpt": "China's Academy of Press and Publication will unveil the country's first sector-specific AI application standards for publishing at the China International Digital Publishing Expo (Aug 27–29). The same roundup reports AI was 'the central topic' for 3,500+ librarians at IFLA's World Library and Information Congress in Korea.",
+      "title": "Story Hacker OS — a first look at AI that makes you a better fiction writer",
+      "url": "https://www.youtube.com/watch?v=bNGvBXntDSI",
+      "source": "The Nerdy Novelist",
+      "published_iso": "2026-08-14T11:30:07Z",
+      "og_image": "https://i.ytimg.com/vi/bNGvBXntDSI/maxresdefault.jpg",
+      "excerpt": "A first look at Story Hacker OS, an AI writing environment that helps novelists build stronger stories using genre templates, trope libraries and a book builder while keeping the author in control of craft decisions — framed as AI making you a better fiction writer, not replacing you.",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "First mover on the question every other market is still arguing about — a national body writing AI rules specifically for publishing, with a dated unveiling, which sets the reference text everyone else will be measured against."
+      "rationale": "A named, shippable tool rather than a think piece, and it takes the opposite bet from prose generators: structure and trope scaffolding assisted by AI, final craft calls left with the author."
     },
     {
-      "title": "I let AI write my code. I won't let it write my novels",
-      "url": "https://www.writersdigest.com/i-let-ai-write-my-code-i-wont-let-it-write-my-novels",
-      "source": "Writer's Digest",
-      "published_iso": "2026-08-18T01:25:00Z",
-      "og_image": "https://www.writersdigest.com/uploads/2026/06/kevin-hincker-author-photo-e1781830488900.png?auto=webp",
-      "excerpt": "Novelist and software developer Kevin Hincker hands all his coding to AI agents but refuses to let it near his fiction. His argument is a craft one: programmers need predictability, while 'surprises in novels are a structural requirement' that AI drafting quietly sands away.",
+      "title": "The Ultimate Automated Author Experience — a first look at the full stack",
+      "url": "https://www.youtube.com/watch?v=9c16h-k_wxc",
+      "source": "Future Fiction Academy",
+      "published_iso": "2026-08-18T23:43:25Z",
+      "og_image": "https://i.ytimg.com/vi/9c16h-k_wxc/maxresdefault.jpg",
+      "excerpt": "Elizabeth Ann West and Stacey Anderson preview 'The Ultimate Automated Author Experience,' a big-picture roadmap for an end-to-end AI-assisted authoring stack — drafting, revision and production — coming this fall from Future Fiction Academy.",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A usable line to draw rather than a blanket refusal — the same author delegates code and guards prose, on the structural grounds that predictability is the goal in one medium and the failure in the other."
+      "rationale": "Marks the shift from single-purpose AI writing tools to a whole authoring pipeline with a dated arrival, which is the shape authors will have to plan their workflow around this fall."
     }
   ]
 }
