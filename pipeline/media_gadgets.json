@@ -1,31 +1,30 @@
 {
-  "date": "2026-08-20",
-  "section": "gadgets",
+  "date": "2026-08-21",
   "media": [
     {
-      "id": "gadgets-alexa-plus-fire-tv-free",
+      "id": "gadgets-hilight",
       "type": "image",
-      "src": "pipeline/media/gadgets-alexa-plus-fire-tv-free.jpg"
+      "src": "pipeline/media/gadgets-hilight.jpg"
     },
     {
-      "id": "gadgets-ice-smart-glasses-ban",
+      "id": "gadgets-pixelwatch5-breathing",
       "type": "image",
-      "src": "pipeline/media/gadgets-ice-smart-glasses-ban.jpg"
+      "src": "pipeline/media/gadgets-pixelwatch5-breathing.jpg"
     },
     {
-      "id": "gadgets-comcast-wifi-motion-sensing",
+      "id": "gadgets-xreal-aura",
       "type": "image",
-      "src": "pipeline/media/gadgets-comcast-wifi-motion-sensing.jpg"
+      "src": "pipeline/media/gadgets-xreal-aura.jpg"
     },
     {
-      "id": "gadgets-macos-27-siri-app",
+      "id": "gadgets-homepad-faces",
       "type": "image",
-      "src": "pipeline/media/gadgets-macos-27-siri-app.jpg"
+      "src": "pipeline/media/gadgets-homepad-faces.jpg"
     },
     {
-      "id": "gadgets-comu-action-pro-recorder",
+      "id": "gadgets-photo-body-composition",
       "type": "image",
-      "src": "pipeline/media/gadgets-comu-action-pro-recorder.jpg"
+      "src": "pipeline/media/gadgets-photo-body-composition.jpg"
     }
   ]
 }

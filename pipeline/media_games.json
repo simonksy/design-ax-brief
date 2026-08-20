@@ -1,34 +1,31 @@
 {
-  "date": "2026-08-20",
-  "section": "games",
+  "date": "2026-08-21",
   "media": [
     {
-      "id": "games-unreal-vibe-simulation",
-      "type": "video",
-      "src": "pipeline/media/games-unreal-vibe-simulation.mp4",
-      "poster": "pipeline/media/games-unreal-vibe-simulation.jpg"
-    },
-    {
-      "id": "games-vapor-world-ai-cutscenes",
-      "type": "video",
-      "src": "pipeline/media/games-vapor-world-ai-cutscenes.mp4",
-      "poster": "pipeline/media/games-vapor-world-ai-cutscenes.jpg"
-    },
-    {
-      "id": "games-james-pond-ai-suspicion",
-      "type": "video",
-      "src": "pipeline/media/games-james-pond-ai-suspicion.mp4",
-      "poster": "pipeline/media/games-james-pond-ai-suspicion.jpg"
-    },
-    {
-      "id": "games-gunz-steam-return",
+      "id": "games-uefn-mcp",
       "type": "image",
-      "src": "pipeline/media/games-gunz-steam-return.jpg"
+      "src": "pipeline/media/games-uefn-mcp.jpg"
     },
     {
-      "id": "games-sony-ceo-human-made-art",
+      "id": "games-unity-cli",
+      "type": "video",
+      "src": "pipeline/media/games-unity-cli.mp4",
+      "poster": "pipeline/media/games-unity-cli.jpg"
+    },
+    {
+      "id": "games-meta-pocket",
       "type": "image",
-      "src": "pipeline/media/games-sony-ceo-human-made-art.jpg"
+      "src": "pipeline/media/games-meta-pocket.jpg"
+    },
+    {
+      "id": "games-sony-grind-patent",
+      "type": "image",
+      "src": "pipeline/media/games-sony-grind-patent.jpg"
+    },
+    {
+      "id": "games-bic-kimyongha",
+      "type": "image",
+      "src": "pipeline/media/games-bic-kimyongha.jpg"
     }
   ]
 }

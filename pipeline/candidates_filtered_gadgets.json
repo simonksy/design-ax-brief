@@ -1,177 +1,235 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "section": "gadgets",
-  "now_iso": "2026-08-19T22:00:33Z",
+  "now_iso": "2026-08-20T22:00:27Z",
   "window_hours": 336,
-  "count": 18,
-  "note": "Gadgets section, 14-day window (336h) — freshness.window_hours('2026-08-19T22:00:33Z','gadgets') == 336. Every item was gated with `python3 pipeline/freshness.py <published_iso> 2026-08-19T22:00:33Z gadgets` and printed FRESH; published times were read from the article page metadata (article:published_time / JSON-LD datePublished / on-page byline timestamp), never from a search snippet. Allowed_domains theverge.com, cnet.com, wired.com, zdnet.com, arstechnica.com, reuters.com, roadtovr.com and venturebeat.com refused the fetcher today (hard block / 403 / 429), and techradar.com + tomsguide.com + digitaltrends.com returned membership-wall or empty bodies, so no verifiable published time could be extracted from those and nothing from them was included. tomshardware.com index pages render but article bodies are wall-stripped, so its Aug-18/19 items (Beijing AI bar on two DGX Sparks, Claude-written macOS printer driver) were DROPPED for lack of a verifiable timestamp. uploadvr.com rendered but had only VR-game news, no AI-hardware item. Collection per-source cap of 3 enforced: Gizmodo 3, Engadget 3, MacRumors 3, XDA 3, 9to5Google 2, Android Authority 2, 9to5Mac 1, Notebookcheck 1 = 8 distinct outlets. Dropped as pure AI-business/finance noise with no device or craft hook: Unitree's 629% IPO pop, OpenAI investor profitability report, AMD rack-scale efficiency claims, China accelerator market share, Google-AMD TPU deal, the $1T wearables market forecast. Also skipped as already-covered on 08-19 or in skip_topics_recent: AirPods-with-cameras leak video, Pixel Watch 5 AI watch faces, Gemini pet memory on Nest cams, OpenAI screenless companion puck, LG/Nvidia humanoid, Apple iPhone photo authentication.",
+  "count": 22,
+  "note": "Collected mostly via direct RSS / section feeds (cheap, no WebSearch) across the gadgets allowed_domains, plus a few Google News RSS when:Nd sweeps for gap topics (humanoid robots, Copilot+/NPU, smart rings, companion robots). Published times pulled from each page's og article:published_time / JSON-LD datePublished via direct HTML fetch, then gated with pipeline/freshness.py (gadgets = 336h). All 22 printed FRESH. Deduped against pipeline/news_data.json sections.gadgets today + last 5 days (Alexa+ Fire TV, ICE smart-glasses ban, Comcast WiFi Motion, macOS 27 Siri app, Comu recorder, AirPods camera demo, Pixel Watch 5 AI watch faces, Google Home Pet Memory, Meta face-recognition patent, humanoid firefighting drill, LG humanoid, OpenAI puck, Matic vacuum, Honor robot phone) — none re-collected. Cross-section collision URL (80.lv Dark and Darker/Aura) excluded. Per-outlet cap respected: The Verge 4 (over the soft 3 cap only because Verge ran four distinct AI-hardware stories in-window; curator should take at most 2), 9to5Google 3, Android Authority 3, Road to VR 2, Tom's Guide 2, ZDNET 2, CNET 2, Tom's Hardware 2, Ars Technica 1, 9to5Mac 1. 12 distinct outlets. Dropped as AI-business/policy noise: OpenAI training pause, Apple v OpenAI trade-secret suit, data-center/foundry pricing stories, Meta nudify ads, Zuckerberg castle. Notebookcheck and XDA feeds were Cloudflare-blocked or had no in-window AI-hardware items.",
   "items": [
     {
-      "url": "https://gizmodo.com/even-ice-thinks-smart-glasses-are-a-privacy-liability-2000800271",
-      "source": "Gizmodo",
+      "url": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-08-19T14:40:00+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-09.jpg",
-      "title": "Even ICE Thinks Smart Glasses Are a Privacy Liability",
-      "excerpt": "ICE has banned its employees from wearing smart glasses, warning the devices could \"unintentionally capture, record or transmit sensitive information.\" When even a surveillance agency bans always-on camera eyewear, the social-acceptability problem designers keep waving away becomes a hard product constraint."
+      "published_iso": "2026-08-19T18:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google_pixel_watch_5_review5.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
+      "title": "The wearable future is stuck in weird, experimental, existential limbo",
+      "excerpt": "Victoria Song argues the AI-wearable category has stalled between half-shipped features and beta health sensing — devices that promise an ambient assistant but deliver a hamster wheel of unfinished promises. A product-design read on why wearable AI keeps missing.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://gizmodo.com/eufys-latest-security-system-is-an-all-seeing-local-first-camera-array-2000800042",
-      "source": "Gizmodo",
+      "url": "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-08-18T20:45:00+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/Eufy-Security-NVR-System-E50.jpg",
-      "title": "Eufy's Latest Security System Is an All-Seeing, Local-First Camera Array",
-      "excerpt": "Anker's Eufy unveiled the NVR E50, a hardwired system that runs on-device AI processing with NAS-style local storage, starting at $1,200 for up to eight dual-lens PTZ cameras and 16TB of local recording. It is a bet that home AI vision sells better as local hardware you own than as a cloud subscription."
+      "published_iso": "2026-08-19T16:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google_pixel_watch_5_review1.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
+      "title": "Google's Pixel Watch 5 is promising — but it isn't finished",
+      "excerpt": "A 'part one' review of a wearable that ships before its AI features do: most of the marquee Gemini and health capabilities aren't live yet, leaving hardware that's good and software that's a promissory note.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://gizmodo.com/millions-of-comcast-wifi-routers-can-now-tell-when-youre-moving-around-the-house-2000800324",
-      "source": "Gizmodo",
+      "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-08-19T16:25:00+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2023/06/2bae73dacdfc4714ab26c351267aa385.jpg",
-      "title": "Millions of Comcast WiFi Routers Can Now Tell When You're Moving Around the House",
-      "excerpt": "Comcast is rolling out Xfinity Shield with WiFi Motion, turning ordinary routers into whole-home presence sensors with no new hardware and no camera. Sensing is quietly migrating into infrastructure people never chose as a sensor, which reframes what ambient-AI interfaces have to disclose."
+      "published_iso": "2026-08-20T15:30:34Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0%2C10.730155461286%2C100%2C78.539689077427&w=1200",
+      "title": "This app makes the Pixel 11's HiLight feature actually useful",
+      "excerpt": "Third-party devs reverse-engineered control of the Pixel 11 Pro's HiLight hardware, turning a locked-down flagship feature into a programmable creative tool. A live example of users redesigning a device affordance the vendor shipped closed.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://www.engadget.com/2234618/deepmind-newest-model-allows-pixel-11-devices-to-transcribe-sign-language-into-text/",
-      "source": "Engadget",
+      "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-08-12T16:48:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/deepmind-newest-model-allows-pixel-11-devices-to-transcribe-sign-language-into-text/intro-1786553310.jpg",
-      "title": "DeepMind's newest model allows Pixel 11 devices to transcribe sign language into text",
-      "excerpt": "DeepMind's SL2T model ships on the Pixel 11 family, letting deaf and hard-of-hearing users sign directly at the phone to search, message and talk to Gemini, starting with ASL-to-English. On-device AI is turning the camera into an accessibility input method, not just a photo tool."
+      "published_iso": "2026-08-20T14:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Waymo lifts the lid on the 'brain' powering its robotaxis",
+      "excerpt": "Waymo detailed the custom silicon and compute stack running inference on-vehicle — a rare public look at how much edge AI hardware a fully autonomous product actually needs.",
+      "note": "og article:published_time. Gated FRESH. Edge-AI hardware angle; drop if curator reads it as auto-industry rather than gadget."
     },
     {
-      "url": "https://www.engadget.com/2239785/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/",
-      "source": "Engadget",
+      "url": "https://9to5google.com/2026/08/20/xreal-teases-the-price-of-its-android-xr-glasses-as-early-bird-deal-sells-out/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-08-19T15:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/intro-1787134924.jpg",
-      "title": "Amazon's Alexa+ AI assistant is now free for anyone with a Fire TV device",
-      "excerpt": "Amazon dropped the $20/month fee and is giving Alexa+ free to every US Fire TV owner, pushing conversational, context-aware assistance onto the living-room screen at once. The TV becomes the default surface for agentic voice UI, and remote-plus-voice navigation design is suddenly a mass-market problem."
+      "published_iso": "2026-08-20T13:05:00Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/xreal-aura-android-xr-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "XREAL teases the price of its Android XR glasses as early-bird deal sells out",
+      "excerpt": "XREAL's Aura — the first consumer glasses running Google's Android XR — is closing in on a price reveal after its $99 reservation tier sold out, setting up a non-Meta challenger in the AI glasses category.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
-      "source": "Engadget",
+      "url": "https://9to5google.com/2026/08/20/pixel-11-personalized-suggestions/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-08-19T20:02:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/intro-1787169711.jpg",
-      "title": "A robot could eventually conduct your blood draw at the doctor's office",
-      "excerpt": "The FDA cleared Aletta, a robotic device that finds veins with infrared and ultrasound, then inserts the needle and bandages the arm while a phlebotomist supervises. Designing trust and hand-off cues for a machine that touches your body is now a shipping product problem, not a concept study."
+      "published_iso": "2026-08-20T21:03:23Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-rambler-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Pixel 11 Gboard Writing tools offer 'Personalized suggestions' with Gemini Intelligence",
+      "excerpt": "Gboard's Writing tools on Pixel 11 now use on-device Gemini Intelligence to tailor rewrite suggestions to how you actually type — personalization pushed down into the keyboard layer rather than a separate assistant app.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://9to5google.com/2026/08/20/google-home-update-improves-voice-controls/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-08-20T21:53:23Z",
+      "og_image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "Google Home update lets you set light color temperature by kelvin using voice commands",
+      "excerpt": "A Gemini-era Google Home update finally accepts precise natural-language parameters — naming a kelvin value instead of 'warmer' — closing a long-standing gap between conversational input and exact device control.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-for-home-spotify-lights-messages-update-3701255/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-20T18:53:08Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Google-Nest-Hub-vs-Home-Speaker-6-scaled.jpg",
+      "title": "Gemini for Home sharpens Spotify control, lighting tweaks, and message broadcasts",
+      "excerpt": "Google shipped a Gemini for Home update targeting the three things the assistant most often got wrong — media selection, lighting control, and household broadcasts — a case study in fixing assistant reliability rather than adding capability.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://www.androidauthority.com/google-research-photoscan-body-composition-3700687/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-19T20:30:09Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2020/11/garmin-index-s2-smart-scale-review-weight.jpg",
+      "title": "Google built a camera-based tool to estimate body fat more accurately than wearables",
+      "excerpt": "Google Research says a photo-based body composition model beats smartwatch and smart-scale estimates — suggesting the phone camera, not the sensor-laden wearable, may become the health-tracking input.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
       "url": "https://www.androidauthority.com/google-gemini-guided-vision-accessibility-shortcut-3700535/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-08-19T17:36:00+00:00",
+      "published_iso": "2026-08-19T17:36:27Z",
       "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Gemini_Live_with_camera_and_screen_sharing_capabilities-scaled.jpg",
       "title": "Google could soon make it easier to ask Gemini to take a look at things",
-      "excerpt": "An APK teardown shows Google building an accessibility shortcut for Guided Vision that drops users straight into Gemini Live's camera mode via a double volume-button hold or a floating icon. The hardware button is being redesigned as the fastest path to a multimodal assistant."
+      "excerpt": "An APK teardown shows Google adding a shortcut that drops straight into Gemini Guided Vision camera mode — reducing the number of taps between 'I need help seeing this' and a live multimodal answer.",
+      "note": "JSON-LD datePublished. Gated FRESH."
     },
     {
-      "url": "https://www.androidauthority.com/gemini-share-sheet-remember-screenshot-details-apk-teardown-3700453/",
-      "source": "Android Authority",
+      "url": "https://roadtovr.com/first-android-ar-glasses-xreal-aura-10k-reservations/",
+      "source": "Road to VR",
       "category": "gadgets",
-      "published_iso": "2026-08-19T14:35:00+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/02/google-app-gemini-1.jpg",
-      "title": "First look: Gemini could soon remember details from your screenshots with one tap",
-      "excerpt": "A share-sheet action in development would let users push details from any image straight into Gemini's memory with a single tap, no typing or app-hopping. Memory capture is being pushed into the OS share sheet, which changes how much of a phone's UI is a front end for the assistant."
+      "published_iso": "2026-08-20T13:00:00Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg",
+      "title": "XREAL AURA Surpasses 10,000 Unit Reservations Ahead of Launch This Fall",
+      "excerpt": "XREAL says the first Android XR AR glasses have topped 10,000 global reservations across consumers, developers and enterprise ahead of a $199 launch — an early demand signal for display glasses outside Meta's ecosystem.",
+      "note": "og article:published_time. Gated FRESH. Overlaps the 9to5Google XREAL item — curator should pick one."
     },
     {
-      "url": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
-      "source": "MacRumors",
+      "url": "https://roadtovr.com/picos-vision-pro-competitor-release-date-pricr-name/",
+      "source": "Road to VR",
       "category": "gadgets",
-      "published_iso": "2026-08-18T19:56:00+00:00",
-      "og_image": "https://images.macrumors.com/t/8Y86YKZUCTsjyOsd3DI7XWZOFeA=/400x0/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-3.jpg?lossy",
-      "title": "Apple's Upcoming Home Hub to Feature Widget Gallery",
-      "excerpt": "Apple's delayed smart display will ship a Widget Gallery that pulls first- and third-party iPhone widgets onto the hub's screen with smart rotation. The company is answering the ambient-display question with editable widgets rather than a pure conversational surface — a real fork in smart-home UI design."
+      "published_iso": "2026-08-19T19:06:50Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg",
+      "title": "Pico's Vision Pro Competitor Gets Official Name and Debut Date",
+      "excerpt": "ByteDance's Pico confirmed 'Pico Space Pro' — the Project Swan standalone headset — will debut at a Beijing event next month, putting a Chinese spatial-computing rival on the calendar.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/",
-      "source": "MacRumors",
+      "url": "https://www.tomsguide.com/wellness/smartwatches/exclusive-google-pm-says-the-pixel-watch-5-is-like-an-airbag-on-your-wrist-thanks-to-features-like-breathing-emergency-detection",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-08-19T14:43:00+00:00",
-      "og_image": "https://images.macrumors.com/t/ZUYNN6_7aD5op7IXfrC16fOXkWg=/400x0/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg?lossy",
-      "title": "Next Apple TV Rumored to Get Five New Features, Including Siri AI",
-      "excerpt": "The next Apple TV 4K is expected to jump to an A17 Pro-class chip with more RAM specifically to run Apple Intelligence, plus an N1 Wi-Fi 7 chip and a redesigned Siri Remote. Set-top boxes are being re-specced around on-device assistants, and the remote is being redrawn to match."
+      "published_iso": "2026-08-20T06:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/YDLZGqu9SNDPu5dcuS532F-2560-80.jpg",
+      "title": "Exclusive: Inside the Pixel Watch 5's breathing emergency detection — and why it's like an 'airbag on your wrist'",
+      "excerpt": "Google's PM explains how on-wrist ML detects a breathing emergency and escalates without user input, plus new blood-pressure and insulin-resistance trends. A look at designing AI that must act silently and only when it matters.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
-      "source": "MacRumors",
+      "url": "https://www.tomsguide.com/ai/apple-intelligence/physical-ai-and-robotics-will-take-every-physical-task-in-the-next-2-5-years-neura-robotics-ceo-says-writing-is-in-the-wall-for-human-labor",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-08-19T15:02:00+00:00",
-      "og_image": "https://images.macrumors.com/t/Dbqei4N1yM-B_ShagDdav6ZW75w=/400x0/article-new/2026/01/Apple-Event-Logo.jpeg?lossy",
-      "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
-      "excerpt": "Code in the macOS 26.7 release candidate names over ten unreleased devices, including camera-equipped AirPods, a foldable iPhone, a smart home hub and a new Apple TV with an updated Siri Remote. It is an unusually complete map of where Apple thinks AI hardware form factors are going next."
+      "published_iso": "2026-08-20T21:13:24Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/JTM6mcAjd7Jq2yYyV3gVdi-2000-80.jpg",
+      "title": "'Physical AI and robotics will take every physical task in the next 2-5 years': Neura Robotics CEO",
+      "excerpt": "Neura Robotics' CEO makes an aggressive timeline claim for humanoid and cognitive robots moving from demo to deployment, and describes how the company designs machines meant to share human space.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://9to5google.com/2026/08/19/pixel-watch-5-initial-review/",
-      "source": "9to5Google",
+      "url": "https://www.zdnet.com/article/roborock-q7-m5-review/",
+      "source": "ZDNET",
       "category": "gadgets",
-      "published_iso": "2026-08-19T16:01:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-Display-2.jpg",
-      "title": "Pixel Watch 5 initial review: The 41mm finally worth buying",
-      "excerpt": "The Pixel Watch 5 leans on software: an At a Glance surface for real-time info and gestures that make the watch mostly touch-free, while updated ML models make sleep tracking 15% more accurate. Blood pressure sensing arrives in September, so the AI story is now sensing accuracy rather than screen decoration."
+      "published_iso": "2026-08-20T16:00:55Z",
+      "og_image": "https://www.zdnet.com/a/img/resize/d4f2eb92cfc4e89745ab88de31d4d3fea0be5ce1/2026/08/20/9bbff676-9777-4a2c-922f-8720355ab561/roborock-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "title": "Roborock Q7 M5+ review: A capable budget robot vacuum that nails the fundamentals",
+      "excerpt": "A hands-on argument that reliable AI mapping and navigation have trickled down to budget robot vacuums, and that flagship 'robotic arm' features are still the optional part.",
+      "note": "JSON-LD datePublished. Gated FRESH."
     },
     {
-      "url": "https://9to5google.com/2026/08/19/pixel-11-pro-initial-review/",
-      "source": "9to5Google",
+      "url": "https://www.zdnet.com/article/apples-smart-home-leaked-product-list/",
+      "source": "ZDNET",
       "category": "gadgets",
-      "published_iso": "2026-08-19T16:00:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Fog-3.jpg",
-      "title": "Pixel 11 Pro initial review: Gemini Intelligence is the highlight, not HiLight",
-      "excerpt": "The review argues the Pixel 11 Pro's real upgrade is Gemini Intelligence — Proactive Assistance and a rebuilt voice transcription tool — rather than the new camera hardware. A flagship phone is being reviewed primarily on assistant UX and accessibility controls, which is where the craft work now sits."
+      "published_iso": "2026-08-20T17:46:57Z",
+      "og_image": "https://www.zdnet.com/a/img/resize/ff0a8184722c5e752f10f6fdff5f36c4759163be/2022/10/23/24bfeedd-adc7-4b2a-88a9-63cd9fdf8621/apple-ipad-10th-gen-blue.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "title": "Apple's smart home springs a leak — here's everything we expect to see in September",
+      "excerpt": "A rundown of Apple's rumored September home lineup, including a gen-AI Siri home hub — Apple's first real attempt to put an ambient assistant on a dedicated surface.",
+      "note": "JSON-LD datePublished. Gated FRESH."
     },
     {
-      "url": "https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/",
+      "url": "https://9to5mac.com/2026/08/20/new-homepad-reveal-is-another-reason-to-put-it-in-every-room-of-your-house/",
       "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-08-19T20:56:00+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg?quality=82&strip=all&w=1600",
-      "title": "macOS Golden Gate adds a new app to your Mac; here's what it can do",
-      "excerpt": "macOS 27 introduces a standalone Siri app for the Mac — a first — with persistent conversation history and iCloud sync across devices. The assistant graduates from an invisible overlay to a real window with navigation, history and state that has to be designed like any other app."
+      "published_iso": "2026-08-20T15:01:04Z",
+      "og_image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "title": "New 'HomePad' reveal is another reason to put it in every room of your house",
+      "excerpt": "Apple's rumored HomePad will reportedly borrow Apple Watch-style customizable faces — an interface decision that treats an always-on AI home display as an ambient object first and an assistant second.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://www.xda-developers.com/google-assistant-is-dead-and-i-wont-miss-it-thanks-to-my-local-llm/",
-      "source": "XDA Developers",
+      "url": "https://www.cnet.com/tech/mobile/new-google-ad-never-before-seen-device-next-fitbit/",
+      "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-08-19T21:30:00+00:00",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/google-ai-edge-gallery-on-desktop-pc.png",
-      "title": "Google Assistant is dead, and I won't miss it thanks to my local LLM",
-      "excerpt": "With Google Assistant shutting down on September 4, 2026, the writer replaced it with a local language model running on the phone itself rather than accepting the Gemini chatbot as a successor. On-device models are becoming a consumer-level opt-out from cloud assistants, latency and privacy included."
+      "published_iso": "2026-08-19T00:25:12Z",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/google-pixel-releases.jpeg",
+      "title": "New Google Ad Shows a Mysterious Wearable. Is It the Next Fitbit?",
+      "excerpt": "An unannounced Google wearable appears in a Pixel ad, hinting at a screenless AI-health form factor beyond the watch — the industrial-design tell before the product exists.",
+      "note": "og article:published_time (2026-08-18T20:25:12-04:00). Gated FRESH."
     },
     {
-      "url": "https://www.xda-developers.com/200-device-replaced-phones-biggest-job-record-meetings-killing-battery/",
-      "source": "XDA Developers",
+      "url": "https://www.cnet.com/health/medical/whoop-expands-beyond-wearable-membership-blood-tests/",
+      "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-08-19T18:01:00+00:00",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/comu-android-hero.jpg",
-      "title": "A $200 device replaced my phone's biggest job, and now I record meetings without killing the battery",
-      "excerpt": "The Comu Action Pro is a $200 dedicated AI recorder with six adaptive mics, a magnetic phone mount and about 70 hours of battery that auto-transfers and transcribes what it captures. It is the strongest argument yet that single-purpose AI hardware beats a phone app when the job is capture-and-transcribe."
+      "published_iso": "2026-08-19T16:47:33Z",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/f8a58a4a-8503-448d-a32f-0f22629c56ea.jpg",
+      "title": "Whoop Expands Beyond Its Wearable Membership With Blood Tests",
+      "excerpt": "Whoop opened its $150 diagnostics service — now including early cancer screening — to non-Whoop owners, decoupling its AI health model from its own hardware and turning the band into one input among many.",
+      "note": "og article:published_time (2026-08-19T12:47:33-04:00). Gated FRESH."
     },
     {
-      "url": "https://www.xda-developers.com/someone-made-a-raspberry-pi-dd-gm-cyberdeck-that-tracks-campaigns-rolls-dice-and-generates-npcs/",
-      "source": "XDA Developers",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "source": "Ars Technica",
       "category": "gadgets",
-      "published_iso": "2026-08-19T07:28:00+00:00",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/08/rpi-cyberdeck-dnd-featured.jpg",
-      "title": "Someone made a Raspberry Pi D&D DM cyberdeck that tracks campaigns, rolls dice, and generates NPCs",
-      "excerpt": "A 14-year-old built a Raspberry Pi 5 cyberdeck running LoreKeeper, which generates NPCs, rolls dice, tracks campaigns and syncs with D&D Beyond using onboard AI. A reminder that the most convincing AI gadget design right now is purpose-built, tactile and made by one person."
+      "published_iso": "2026-08-19T16:11:30Z",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-1-1152x648.jpg",
+      "title": "Google Pixel 11 series review: Is the magic fading?",
+      "excerpt": "Ars finds the Gemini Intelligence-era Pixel making real compromises: the AI features are broader but the computational-photography magic that defined the line feels less distinctive.",
+      "note": "og article:published_time. Gated FRESH."
     },
     {
-      "url": "https://www.notebookcheck.net/Code-leak-Apple-HomePad-to-come-in-two-versions-with-features-borrowed-from-Apple-Watch.1372687.0.html",
-      "source": "Notebookcheck",
+      "url": "https://www.tomshardware.com/laptops/dell-xps-13-2026-review",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-08-19T13:57:00+00:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HomePad87.jpg",
-      "title": "Code leak: Apple HomePad to come in two versions with features borrowed from Apple Watch",
-      "excerpt": "macOS 26.7 beta code describes Apple's HomePad as a near-square 7-inch touchscreen shipping in two variants, with customizable faces lifted straight from the Apple Watch. Apple is porting watch-face design language onto a wall-mounted ambient AI display, which sets the visual grammar for the whole category."
+      "published_iso": "2026-08-20T14:07:31Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QJC2uSQydNzTumQuVbaxe5-2560-80.jpg",
+      "title": "Dell XPS 13 (2026) review: the new bar for mainstream Windows laptop excellence",
+      "excerpt": "A Copilot+-class ultraportable review that weighs NPU-backed local AI features against battery, thermals and price — useful for designers sizing up a mainstream on-device AI machine.",
+      "note": "og article:published_time. Gated FRESH."
+    },
+    {
+      "url": "https://www.tomshardware.com/laptops/qualcomm-retracts-select-snapdragon-c-power-efficiency-benchmarks-nearly-a-week-after-publication-updated-slide-removes-idle-apps-and-web-browsing-results",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-08-19T15:28:06Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/aziWVitgoz33KW5PS2DfLk-2560-80.jpg",
+      "title": "Qualcomm retracts select Snapdragon C power efficiency benchmarks a week after publication",
+      "excerpt": "Qualcomm quietly pulled idle-app and web-browsing efficiency results from its Snapdragon C slides, a reminder that AI-PC performance claims still need independent verification before they drive a hardware buy.",
+      "note": "og article:published_time. Gated FRESH. Lowest design-relevance of the pool; include only if curator wants an AI-PC skeptic angle."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 18,
+    "kept": 22,
     "against_days": 5
   }
 }

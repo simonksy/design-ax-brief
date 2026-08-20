@@ -1,119 +1,152 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "section": "books",
   "window_hours": 336,
+  "now_iso": "2026-08-20T22:00:27Z",
   "items": [
     {
-      "url": "https://goodereader.com/blog/amazon-news/ai-companies-are-buying-hardcover-books-and-destroying-them",
-      "source": "Good e-Reader",
+      "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-08-19T21:43:38Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/19164338/s-l1600.png",
-      "excerpt": "AI firms including Amazon and Anthropic are buying millions of physical books — many rare or out of print — and destructively scanning them for training corpora. Authors, booksellers and historians object that irreplaceable copies are being pulped purely for their text."
+      "published_iso": "2026-08-20T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+      "excerpt": "Harriman House claims a trade publishing first with The Everything Code by macro analyst Raoul Pal, produced with a proprietary AI tool trained exclusively on the author's own existing work. It is a concrete template for 'AI-facilitated' authorship — a model trained on one author's corpus, disclosed on the jacket — rather than an anonymous LLM draft."
     },
     {
-      "url": "https://janefriedman.com/how-claude-watermarking-works-some-accuse-anthropic-of-compliance-theatre/",
-      "source": "Jane Friedman",
+      "url": "https://publishingperspectives.com/2026/08/u-s-textbook-authors-sue-openai-for-copyright-infringement/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-08-19T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Jane Friedman unpacks how Claude's new text watermark actually works and why critics call it 'compliance theatre': the mark is applied when Claude is used for assistive editing tasks rather than for fully generated text, which inverts what authors and editors need from disclosure."
+      "published_iso": "2026-08-20T12:17:11+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.24.06-PM.png",
+      "excerpt": "A US class action filed by textbook authors alleges OpenAI ingested hundreds of academic volumes. The suit argues that if LLMs keep ingesting new editions as they appear, instructors may drop textbook adoptions entirely in favour of AI 'substitutes' — putting the economics of educational authorship, not just the training question, on trial."
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/101070-study-finds-63-of-religion-books-on-amazon-likely-ai-written.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-08-19T09:30:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1071052286-1024x768.jpg",
-      "excerpt": "Patrick Hargitt and Steve Smith argue that AI retrieval tools can locate a paper but rarely know which version they read, and that persistent identifiers alone don't fix it. They call for semantic versioning and provenance metadata baked into publishing workflows so AI-mediated reading stays traceable."
+      "published_iso": "2026-08-19T14:54:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130971-1.PNG",
+      "excerpt": "Originality.ai scanned 2,034 paperback religion books on Amazon and found 63% were likely AI-written — 78% in witchcraft, 76% Hinduism, 74% Taoism, versus 22% in Satanism. Likely-AI titles averaged $16.84 and 170 pages against $18.96 and 208 pages for human-written ones, a measurable shape for the AI slop flooding a single retail category."
     },
     {
-      "url": "https://www.thecreativepenn.com/2026/08/19/book-marketing-ai-book-discoverability-and-resilience-with-ricardo-fayet/",
-      "source": "The Creative Penn",
+      "url": "https://lithub.com/in-praise-of-wordy-old-prose-or-fck-your-ai-reading-buddy/",
+      "source": "Literary Hub",
       "category": "books",
-      "published_iso": "2026-08-19T07:00:00Z",
-      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/08/book-marketing-and-resilience.jpg",
-      "excerpt": "Reedsy's Ricardo Fayet argues AI search engines are rewriting book discoverability: readers now ask conversational questions instead of typing keywords, so books get surfaced by review volume and cross-web mentions rather than metadata keywords. Authors are told to build an 'internet footprint' across Goodreads, Reddit and reviews so LLMs can recommend them."
+      "published_iso": "2026-08-20T11:56:31+00:00",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/08/old-text.jpg",
+      "excerpt": "A pointed essay against the 'AI reading buddy' — the chat-with-your-book, summarise-this-chapter layer now being bolted onto ereaders and reading apps. The argument: bulletpointising books optimises away the difficulty that reading is actually for, and product teams shipping reading assistants are designing the wrong metric."
     },
     {
-      "url": "https://www.youtube.com/watch?v=9c16h-k_wxc",
-      "source": "Future Fiction Academy",
+      "url": "https://publishingperspectives.com/2026/08/why-rights-holder-transparency-is-becoming-non-negotiable/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-08-18T23:43:25Z",
-      "og_image": "https://i.ytimg.com/vi/9c16h-k_wxc/maxresdefault.jpg",
-      "excerpt": "Elizabeth Ann West and Stacey Anderson preview 'The Ultimate Automated Author Experience,' a big-picture roadmap for an end-to-end AI-assisted authoring stack — drafting, revision and production — coming this fall from Future Fiction Academy."
+      "published_iso": "2026-08-20T10:32:01+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/aperture-scaled.png",
+      "excerpt": "As AI licensing deals, microdeals and new-format expansions proliferate, rights systems built for a handful of annual contracts are breaking. The piece argues transparent, creator-facing rights reporting is now the trust infrastructure publishers have to build before they can sell training or AI-format rights at all."
+    },
+    {
+      "url": "https://www.thebookseller.com/news/numerous-authors-of-colour-facing-ai-speculation-hard-to-ignore-as-trade-debates-trend",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-08-07T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/673/asd4.jpg",
+      "excerpt": "After a run of authors were publicly suspected of using generative AI, the trade is debating whether authors of colour are disproportionately targeted by AI accusations. Vibes-based 'AI detection' is becoming an informal gatekeeping mechanism with no evidentiary standard — a direct problem for how manuscripts get screened and acquired."
     },
     {
       "url": "https://bookriot.com/claude-to-add-watermarks-and-more-ai-publishing-news/",
       "source": "Book Riot",
       "category": "books",
-      "published_iso": "2026-08-17T12:00:00Z",
+      "published_iso": "2026-08-17T14:42:43+00:00",
       "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book.jpg.optimal.jpg",
-      "excerpt": "Book Riot's AI publishing roundup covers Anthropic's Claude watermarking under new EU transparency rules, Substack's rollout of the Pangram detector, and AuthorProof — an app from novelist Vera Kurian that cryptographically records the writing process to prove human authorship instead of relying on AI detection."
+      "excerpt": "A roundup of the provenance stack forming around books: Claude adding watermarks to generated text, Substack adopting Pangram AI detection, and the resulting disclosure pressure on writers. Useful as the 'who is checking what' map for anyone publishing AI-assisted prose."
     },
     {
-      "url": "https://bookriot.com/library-news-updates-august-2026/",
-      "source": "Book Riot",
+      "url": "https://selfpublishingadvice.org/podcast-indie-manga-alliance-launches/",
+      "source": "The Self-Publishing Advice Center (ALLi)",
       "category": "books",
-      "published_iso": "2026-08-14T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Book Riot's library news roundup leads with a study in which readers rated AI-generated stories higher than human-written ones when told they were human-authored, and notes writers now inserting deliberate typos and style quirks to dodge AI detection."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=bNGvBXntDSI",
-      "source": "The Nerdy Novelist",
-      "category": "books",
-      "published_iso": "2026-08-14T11:30:07Z",
-      "og_image": "https://i.ytimg.com/vi/bNGvBXntDSI/maxresdefault.jpg",
-      "excerpt": "A first look at Story Hacker OS, an AI writing environment that helps novelists build stronger stories using genre templates, trope libraries and a book builder while keeping the author in control of craft decisions — framed as AI making you a better fiction writer, not replacing you."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=I7hskWGurDU",
-      "source": "The Self-Publishing with Dale Podcast",
-      "category": "books",
-      "published_iso": "2026-08-13T14:15:38Z",
-      "og_image": "https://i.ytimg.com/vi/I7hskWGurDU/maxresdefault.jpg",
-      "excerpt": "Self-publishing news roundup on how Europe's new AI transparency rules are reaching authors worldwide through Claude, a study challenging assumptions about AI-generated writing, and a record number of Pulitzer winners and finalists disclosing AI use in their work."
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101040-mcgraw-hill-touts-ai-in-improving-first-quarter-results.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-08-13T12:00:00Z",
-      "og_image": "",
-      "excerpt": "McGraw Hill now runs eight live AI learning tools with 7.5 million active users and three more launching this fiscal year. Its AI Reader — which lets students highlight passages inside an e-book and self-quiz — logged 63 million learning interactions across 2.6 million students since fall 2024."
+      "published_iso": "2026-08-14T12:00:57+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_News-1.jpg",
+      "excerpt": "Dan Holloway reports on the launch of the Indie Manga Alliance, Libro.fm's move into e-books, and new research showing readers largely cannot tell AI-written stories from human ones. The manga alliance is an organised indie-creator response to AI-assisted comics production and translation."
     },
     {
       "url": "https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/",
       "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-08-12T09:30:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig_1_Cognitive_Responsibility_Framework_Subtitle_Updated_300_DPI-copy-683x1024.jpg",
-      "excerpt": "Ashutosh Ghildiyal proposes a 'cognitive responsibility' framework splitting mechanical cognition (retrieval, pattern-matching) that AI can own from non-mechanical cognition (discovery, discernment, judgment) that humans must keep. He warns editorial and peer-review workflows lose independent judgment when AI mediates direct contact with evidence."
+      "published_iso": "2026-08-12T09:30:43+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig-2_AI_Mediation_Path_to_Judgment_300_DPI-copy.png",
+      "excerpt": "Part 1 of a two-part framework arguing that AI is now permanent in scholarly publishing, so the question is how it should be understood and governed rather than whether to allow it. Maps where AI mediation enters the path to editorial judgment — a governance model transferable to trade editorial workflows."
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+      "source": "The Guardian",
+      "category": "books",
+      "published_iso": "2026-08-20T00:35:11Z",
+      "og_image": "https://i.guim.co.uk/img/media/b0737dbfc40f80895fc18921898acf8cea40f791/210_0_3876_3100/master/3876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
+      "excerpt": "UC Berkeley mathematician Zvezdelina Stankova admits she used AI to 'help edit' a widely circulated op-ed about students' math skills. A live test case for where the line sits between AI line-editing and AI authorship — the same disclosure question editors and publishers are now writing into contracts."
+    },
+    {
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "source": "WIRED",
+      "category": "books",
+      "published_iso": "2026-08-10T11:30:00Z",
+      "og_image": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg",
+      "excerpt": "Platforms are finally acting on the fact that audiences don't want AI slop: a growing number of sites and apps now flag, label or ban AI-generated content outright. The labelling wave landing on storefronts and reading platforms reshapes how AI-assisted books and covers can be listed and sold."
+    },
+    {
+      "url": "https://selfpublishingadvice.org/anthropic-adds-watermarks/",
+      "source": "The Self-Publishing Advice Center (ALLi)",
+      "category": "books",
+      "published_iso": "2026-08-20T12:00:57+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-20.jpg",
+      "excerpt": "ALLi's read on Anthropic watermarking Claude's text output, framed for indie authors: what invisible provenance marks mean for AI-assisted manuscripts, retailer disclosure rules, and whether an editing pass leaves a trace in a finished book."
+    },
+    {
+      "url": "https://publishingperspectives.com/2026/08/what-technology-trends-should-publishers-explore-and-scale/",
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "published_iso": "2026-08-20T12:09:57+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
+      "excerpt": "Digital Publishing Report opens its industry survey asking which publishing technologies executives should watch, pilot or scale — an explicit attempt to separate AI experiments that are ready to be operationalised from those that are still demos. Survey closes August 30."
+    },
+    {
+      "url": "https://kindlepreneur.com/best-proofreading-software/",
+      "source": "Kindlepreneur",
+      "category": "books",
+      "published_iso": "2026-08-10T20:57:43+00:00",
+      "og_image": "https://kindlepreneur.com/wp-content/uploads/2022/05/proofreading-software-featured.png",
+      "excerpt": "A refreshed 2026 comparison of proofreading tools for authors — Grammarly, ProWritingAid, Hemingway, Ginger and others — now judged mainly on the quality of their AI passes. A practical read on where automated editing genuinely replaces a human line edit and where it still doesn't."
     },
     {
       "url": "https://www.youtube.com/watch?v=_eCckkUWYDk",
-      "source": "The Nerdy Novelist",
+      "source": "The Nerdy Novelist (YouTube)",
       "category": "books",
       "published_iso": "2026-08-10T11:47:45Z",
       "og_image": "https://i.ytimg.com/vi/_eCckkUWYDk/maxresdefault.jpg",
-      "excerpt": "Jason Hamilton traces the shift from chatbots to agentic writing workflows and argues authors who adopt AI as a process tool rather than a text vending machine have little to fear — a practical read on where publishing tooling is heading."
+      "excerpt": "The Nerdy Novelist argues that authors who understand what AI is actually good at aren't the ones losing work, and walks through the parts of the fiction pipeline where AI genuinely helps versus where it reliably fails."
     },
     {
-      "url": "https://www.youtube.com/watch?v=sWDN-k2rQpo",
-      "source": "Future Fiction Academy",
+      "url": "https://www.youtube.com/watch?v=aq6mKDsZEyg",
+      "source": "The Nerdy Novelist (YouTube)",
       "category": "books",
-      "published_iso": "2026-08-07T23:00:04Z",
-      "og_image": "https://i.ytimg.com/vi/sWDN-k2rQpo/maxresdefault.jpg",
-      "excerpt": "Episode 49 of The Automated Author argues the biggest shift in AI fiction writing is context, not prompts: the same model gives one author great prose and another randomness depending on the systems, story knowledge and skills built around it."
+      "published_iso": "2026-08-19T11:30:13Z",
+      "og_image": "https://i.ytimg.com/vi/aq6mKDsZEyg/maxresdefault.jpg",
+      "excerpt": "A short debunk of a widely-shared worry in the AI-author community, from a channel that teaches using AI to produce 12+ books a year — a window into how high-volume indie authors are actually calibrating risk right now."
     },
     {
-      "url": "https://www.thebookseller.com/news/news-top-stories/numerous-authors-of-colour-facing-ai-speculation-hard-to-ignore-as-trade-debates-trend",
-      "source": "The Bookseller",
+      "url": "https://www.youtube.com/watch?v=RuuXUlociqA",
+      "source": "Future Fiction Academy (YouTube)",
       "category": "books",
-      "published_iso": "2026-08-07T12:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/673/asd4.jpg",
-      "excerpt": "The UK trade is debating whether authors of colour are disproportionately accused of using generative AI, after a run of online speculation targeting several debut and mid-list writers. Agents call the pattern 'hard to ignore' as unverifiable AI allegations become a reputational weapon."
+      "published_iso": "2026-08-19T23:00:57Z",
+      "og_image": "https://i.ytimg.com/vi/RuuXUlociqA/maxresdefault.jpg",
+      "excerpt": "Stacey Anderson explains why Codex-style agents aren't smarter models — they just have access to your files — and shows a low-stress way for authors to give an AI direct access to a manuscript project folder instead of pasting chapters into a chat box."
+    },
+    {
+      "url": "https://goodereader.com/blog/electronic-readers/viwoods-aipaper-and-aipaper-mini-have-received-cloud-sync",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-08-20T20:13:38+00:00",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/20161150/viwoods_aipaper_paper_tablet_system_update_3_5.webp",
+      "excerpt": "Viwoods' AiPaper and AiPaper Mini e-paper tablets gain a native cloud sync ecosystem with 10GB free storage, closing the loop between on-device AI note-taking and reading and a synced writing library across devices."
     }
   ]
 }

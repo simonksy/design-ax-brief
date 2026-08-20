@@ -1,181 +1,77 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "section": "music",
   "window_hours": 336,
-  "now_iso": "2026-08-19T22:00:33Z",
+  "now_iso": "2026-08-20T22:00:27Z",
   "items": [
     {
-      "url": "https://bedroomproducersblog.com/2026/08/19/stemdeck-stem-splitter/",
+      "url": "https://bedroomproducersblog.com/2026/08/20/tamber-2/",
       "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-08-19T11:48:08Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/stemdeck.jpg",
-      "excerpt": "Solo developer Thales Pereira has released StemDeck, a free open-source stem separation tool for Windows, macOS and Linux that runs entirely locally. He built it to help his kid practice drums, without a subscription or uploading music to someone else's server."
+      "published_iso": "2026-08-20T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/tamber-bpb-728x364.jpg",
+      "excerpt": "Tamber 2.0 restructures the assistive (non-generative) platform into five connected creative apps and adds native Windows support, gesture control and natural-language DAW commands. It is pitched as a system that helps you drive your existing tools and find sounds, not a prompt box that spits out finished songs."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/08/19/train-music-ai-own-music/",
-      "source": "Digital Music News",
+      "url": "https://www.musicbusinessworldwide.com/apple-music-to-slap-on-suno/",
+      "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-08-19T17:58:27Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/train-ai-image.png",
-      "excerpt": "An argument that musicians have been asking the wrong question about AI: instead of fighting models trained on everyone's catalogue, train a private model on your own back catalogue and treat it as a personal collaborator. A practical how-to framing for artist-owned models."
+      "published_iso": "2026-08-20T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Apple Music told industry partners on Aug 20 that it will show visible 'Made With AI' labels later this year for tracks whose songs, lyrics, artwork or music videos were materially generated with AI. Unlike Spotify and Deezer, Apple runs no detection of its own — labels and distributors have to self-declare via the AI Transparency Tags it quietly introduced in March."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/08/19/hook-universal-music-deal/",
-      "source": "Digital Music News",
+      "url": "https://www.hypebot.com/the-ai-chart-rules-ask-if-a-record-is-human-they-never-ask-if-the-song-is/",
+      "source": "Hypebot",
       "category": "music",
-      "published_iso": "2026-08-19T16:11:25Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Hook-UMG-Deal.png",
-      "excerpt": "Social remix and mashup platform Hook has finalised a 'landmark' licensing agreement with Universal Music Group, letting fans legally rework major-label tracks in-app. Rightsholders and artists get credited and paid on the derivative works."
+      "published_iso": "2026-08-20T00:00:00Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-19-steve-canfield.jpg",
+      "excerpt": "The new AI chart-eligibility standards police the recording — the vocal, the master — because that is what detection tools can actually measure, while leaving the songwriting stage entirely unexamined. The piece argues the industry has quietly defined 'human' as 'human-performed', not 'human-written'."
     },
     {
-      "url": "https://www.attackmagazine.com/technique/tutorials/cleaning-up-vocal-rips-with-lalal-ai-lynx/",
-      "source": "Attack Magazine",
+      "url": "https://www.hypebot.com/we-cant-outrun-ai-but-we-can-stop-tripping-over-ourselves/",
+      "source": "Hypebot",
       "category": "music",
-      "published_iso": "2026-08-18T21:40:47Z",
-      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Mag-Reviews-Lalal.ai-Lynx.png",
-      "excerpt": "A hands-on tutorial on salvaging vocal samples ripped from the internet or vinyl using LALAL.AI's new Lynx separation algorithm, then treating the artefacts so the acapella sits in a track. Craft-level detail on where AI separation still needs a human ear."
+      "published_iso": "2026-08-11T00:00:00Z",
+      "og_image": "https://images.unsplash.com/photo-1618517048008-1cbdfd7ce2af?crop=entropy&cs=tinysrgb&fit=max&fm=webp&ixid=M3wxMTc3M3cwfDF8c2VhcmNoIDE5fHx0cmlwcGluZ3xlbnwwfHx8fDE3ODYzODQxNjd8MA&ixlib=rb-4.1.0&q=80&w=652",
+      "excerpt": "AI-made music is now over half of new uploads on Deezer but only 1–3% of actual listening. Analyst Bas Grasmayer argues the human music business loses not to AI's speed but to its own broken workflows, and should compete on connection and release craft instead of volume."
+    },
+    {
+      "url": "https://www.kvraudio.com/news/ssg-audio-releases-loudness-pro---ai-driven-mastering-limiter-68108",
+      "source": "KVR Audio",
+      "category": "music",
+      "published_iso": "2026-08-14T00:00:00Z",
+      "og_image": "https://static.kvraudio.com/i/s/kvr-loudnesspro-banner-v5-large.jpg",
+      "excerpt": "SSG Audio's Loudness Pro is a one-knob mastering limiter whose AI engine recalculates the clip/limit split thousands of times per second instead of holding a fixed threshold, aiming to hit a loudness target without pumping or flattened transients. It adds automatic dither for 16-bit exports and runs at roughly 5ms latency."
+    },
+    {
+      "url": "https://www.musicradar.com/music-tech/we-have-a-clear-set-of-principles-that-are-always-rooted-in-supporting-artistry-and-creativity-says-suno-ceo-as-company-seeks-to-limit-reputational-damage-from-latest-legal-defeat",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-08-10T00:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/bNuzMzALrFrK9PmFZNDTdk.png",
+      "excerpt": "After losing the GEMA case in Munich, Suno CEO Mikey Shulman laid out 'a clear set of principles' and confirmed the platform will add watermarking, fingerprinting and download limits to stop mass distribution of Suno tracks onto streaming services."
+    },
+    {
+      "url": "https://www.soundonsound.com/news/vaemi-announce-synterra",
+      "source": "Sound On Sound",
+      "category": "music",
+      "published_iso": "2026-08-13T00:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/v/vaemi_synterra-rh4XowSpjy69g0_gQQC5gjgn.1ZYHgW8.jpg",
+      "excerpt": "VAEMI's Synterra is a standalone 'bio-interactive' generative synth that reads changing data from plants, fungi, fruit, conductive surfaces, light and touch and turns it into evolving notes and rhythms via a probability engine. A MIDI Scale Mode lets an external keyboard or DAW constrain its generative output to your harmony."
     },
     {
       "url": "https://musictech.com/features/interviews/vibe-coding-has-come-for-music-plugins-are-we-witnessing-a-revolution/",
       "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-08-14T08:53:10Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Evan-Mezeske-hero-credit-Chris-Hayzel@2000x1500-1068x801.jpg",
-      "excerpt": "AI-assisted plugin development is redefining how music software gets made, and by whom. Developers describe shipping DSP tools without a traditional coding background — and what that flood does to plugin quality and the market."
-    },
-    {
-      "url": "https://www.musicradar.com/music-tech/sunos-studio-2-0-adds-an-ai-chatbot-that-can-control-your-project-transform-sounds-and-generate-custom-plugins",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-08-14T14:19:44Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV-2560-80.jpg",
-      "excerpt": "MusicRadar's read on Suno Studio 2.0: the chatbot can control your project, transform sounds and even generate custom plugins on demand inside the DAW. A DAW where the effects chain itself is prompted into existence."
-    },
-    {
-      "url": "https://www.gearnews.com/suno-studio-2-0-ai-tech/",
-      "source": "gearnews",
-      "category": "music",
-      "published_iso": "2026-08-14T10:18:43Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Suno-Studio-2-0-T.jpg",
-      "excerpt": "MIDI support, a chat bar and custom plugin generation land in Suno's browser-based DAW, with no download restrictions in Studio. gearnews walks through what the second generation actually changes for producers exporting into a real session."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/08/12/i-am-choir-plugin/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-08-12T12:18:11Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/iamchoir.jpg",
-      "excerpt": "AM I AUDIO's I AM CHOIR turns a single sung take into a full choir part that follows your lyrics, melody, phrasing and timing — processed locally, no cloud round-trip. A neural vocal instrument aimed squarely at arrangement work."
-    },
-    {
-      "url": "https://www.kvraudio.com/news/apex-plugins-releases-apex-amp---virtual-guitar-workstation-with-intelligent-ai-preset-assistant-vst3-windows-68119",
-      "source": "KVR Audio",
-      "category": "music",
-      "published_iso": "2026-08-18T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Apex Plugins has released Apex Amp, a virtual guitar workstation with 8-stage tube preamp modelling, reactive power-amp sag and an AI preset assistant that dials in a tone from a description. Windows VST3 and standalone at a $49 intro price."
-    },
-    {
-      "url": "https://www.musicradar.com/music-tech/beatport-has-banned-ai-generated-music-there-is-a-difference-between-a-tool-that-assists-human-creation-and-a-system-that-replaces-it-entirely-beatport-is-built-on-the-former",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-08-18T11:02:40Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/5YMs4wZHDtacBj2xsUh9uk-678-80.jpg",
-      "excerpt": "Beatport has banned fully AI-generated tracks while still allowing AI-assisted ones, tagged at upload. CEO: \"There is a difference between a tool that assists human creation and a system that replaces it entirely.\""
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/08/18/beatport-bans-ai-music/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-08-18T13:55:11Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/beatport.jpg",
-      "excerpt": "Beatport is now blocking fully AI-generated uploads using a new detection tool, with AI-assisted tracks permitted but labelled. The producer-facing view of what actually gets flagged at ingestion."
-    },
-    {
-      "url": "https://www.gearnews.com/beatport-bans-fully-ai-generated-music-tech/",
-      "source": "gearnews",
-      "category": "music",
-      "published_iso": "2026-08-17T07:53:11Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Beatport-AI-ban-T.jpg",
-      "excerpt": "Beatport is banning fully AI-generated music and rolling out the Beatdapp detection tool to enforce it, effective immediately. Its own survey says 77% of DJs want music from real artists."
-    },
-    {
-      "url": "https://www.synthtopia.com/content/2026/08/13/beatport-bans-ai-generated-music/",
-      "source": "Synthtopia",
-      "category": "music",
-      "published_iso": "2026-08-13T20:16:08Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/beatport-bans-ai-music.png",
-      "excerpt": "Synthtopia's early report on Beatport's policy shift against AI-generated music, and where the line falls between an AI tool in the chain and an AI-made record."
-    },
-    {
-      "url": "https://musictech.com/news/industry/spotify-label-ai-generated-artists-exclude-recommendations-default/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-08-13T15:49:28Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/spotify-ai-persona@2000x1500-1068x801.jpg",
-      "excerpt": "Spotify will badge AI-generated artist profiles as 'AI Personas' and, by default, keep them out of editorial and algorithmic recommendations. Disclosure now directly determines discovery."
-    },
-    {
-      "url": "https://www.rollingstone.com/music/music-news/spotify-labeling-ai-artists-1235606855/",
-      "source": "Rolling Stone",
-      "category": "music",
-      "published_iso": "2026-08-11T17:24:16Z",
-      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/08/China-Styles-Example.jpg?w=1600&h=900&crop=1",
-      "excerpt": "Rolling Stone details Spotify's plan to label AI artists, with self-disclosure opening 11 August and the policy taking effect in mid-September. Music from badged profiles is excluded from editorial and algorithmic surfaces."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-sunos-bmg-licensing-deal-download-caps-watermarks-and-more/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-08-17T18:03:37Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/New-Project-1.jpg",
-      "excerpt": "Five things to know about Suno's BMG alliance: opt-in artist participation, hard download caps by tier, audio watermarking and fingerprinting, and what it signals about the licensed model due later in 2026."
-    },
-    {
-      "url": "https://www.billboard.com/pro/suno-bmg-licensing-deal-ai-music-use/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-08-12T10:00:00Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/08/Suno-BMG-logos-billboard-1800.jpg?w=1024",
-      "excerpt": "BMG and Suno's licensing deal covers recorded and publishing works for derivative creation, with artists and songwriters required to opt in before their music can be used — and compensated when they do."
-    },
-    {
-      "url": "https://www.musicradar.com/music-tech/ais-ties-to-major-labels-deepen-as-suno-strikes-licensing-deal-with-bmg",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-08-12T15:17:26Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Hs7GLoBT5ic3R5PUt3YnRE-2560-80.png",
-      "excerpt": "Suno's BMG deal deepens generative AI's ties to the majors ahead of its first industry-built model, alongside watermarking, fingerprinting and new download limits to curb streaming fraud."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/universal-music-group-partners-with-hook-to-license-fan-created-content-across-social-media/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-08-19T17:12:01Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/1-IMAGE-7-4.jpg",
-      "excerpt": "UMG has partnered with Hook to license fan-created remixes and mashups across social platforms, turning derivative fan edits into a tracked, payable format instead of takedown fodder."
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/08/06/tyga-suno-album-chart-ineligible-question/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-08-07T05:06:37Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/tyga-admits-to-using-suno-to-create-new-album-is-it-chart-ineligible.png",
-      "excerpt": "Tyga openly admits using Suno to make his latest album — raising the question of whether the new AI chart-eligibility rules would disqualify it. A first real test case for disclosure norms at the top of the market."
-    },
-    {
-      "url": "https://cdm.link/organismi-or-1/",
-      "source": "CDM",
-      "category": "music",
-      "published_iso": "2026-08-18T14:16:59Z",
-      "og_image": "https://cdm.link/app/uploads/2026/08/IMG_0066-scaled.png",
-      "excerpt": "Organismi OR—1 is an artful, breathing stochastic MIDI pattern generator — free for iPad as an AUv3, €19.99 on macOS. A reminder that algorithmic composition can feel organic rather than machine-made."
+      "published_iso": "2026-08-14T00:00:00Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Evan-Mezeske-hero-credit-Chris-Hayzel@2000x1500.jpg",
+      "excerpt": "AI-assisted coding has made building your own plugin cheap enough that solo producers and established audio companies alike are shipping bespoke tools. Developers interviewed say the bottleneck has moved from writing DSP code to knowing what to ask for — human direction and taste still decide whether the result is usable."
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 21,
+    "dropped": 0,
+    "kept": 8,
     "against_days": 5
   }
 }

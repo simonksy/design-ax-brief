@@ -1,32 +1,31 @@
 {
-  "date": "2026-08-20",
-  "section": "design",
+  "date": "2026-08-21",
   "media": [
     {
-      "id": "design-dnad-ai-creativity-report",
+      "id": "design-figma-sightlines-agentic",
       "type": "image",
-      "src": "pipeline/media/design-dnad-ai-creativity-report.jpg"
+      "src": "pipeline/media/design-figma-sightlines-agentic.jpg"
     },
     {
-      "id": "design-block-berd-workspace",
+      "id": "design-dev-tool-power-rankings",
       "type": "image",
-      "src": "pipeline/media/design-block-berd-workspace.jpg"
+      "src": "pipeline/media/design-dev-tool-power-rankings.jpg"
     },
     {
-      "id": "design-ai-returns-interfaces",
-      "type": "image",
-      "src": "pipeline/media/design-ai-returns-interfaces.png"
-    },
-    {
-      "id": "design-scantic-phone-splats",
+      "id": "design-aura-dark-and-darker",
       "type": "video",
-      "src": "pipeline/media/design-scantic-phone-splats.mp4",
-      "poster": "pipeline/media/design-scantic-phone-splats.jpg"
+      "src": "pipeline/media/design-aura-dark-and-darker.mp4",
+      "poster": "pipeline/media/design-aura-dark-and-darker.jpg"
     },
     {
-      "id": "design-humans-in-the-loop-factory",
+      "id": "design-docs-automation-line",
       "type": "image",
-      "src": "pipeline/media/design-humans-in-the-loop-factory.jpg"
+      "src": "pipeline/media/design-docs-automation-line.jpg"
+    },
+    {
+      "id": "design-invisible-ai-features",
+      "type": "image",
+      "src": "pipeline/media/design-invisible-ai-features.jpg"
     }
   ]
 }

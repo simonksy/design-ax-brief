@@ -1,32 +1,10 @@
 {
-  "date": "2026-08-20",
-  "section": "books",
+  "date": "2026-08-21",
   "media": [
-    {
-      "id": "books-ai-book-discoverability",
-      "type": "image",
-      "src": "pipeline/media/books-ai-book-discoverability.jpg"
-    },
-    {
-      "id": "books-ai-article-versioning",
-      "type": "image",
-      "src": "pipeline/media/books-ai-article-versioning.jpg"
-    },
-    {
-      "id": "books-mcgraw-hill-ai-results",
-      "type": "svg"
-    },
-    {
-      "id": "books-story-hacker-os",
-      "type": "video",
-      "src": "pipeline/media/books-story-hacker-os.mp4",
-      "poster": "pipeline/media/books-story-hacker-os.jpg"
-    },
-    {
-      "id": "books-automated-author-stack",
-      "type": "video",
-      "src": "pipeline/media/books-automated-author-stack.mp4",
-      "poster": "pipeline/media/books-automated-author-stack.jpg"
-    }
+    {"id": "books-ai-facilitated", "type": "image", "src": "pipeline/media/books-ai-facilitated.jpg"},
+    {"id": "books-religion-ai-slop", "type": "image", "src": "pipeline/media/books-religion-ai-slop.png"},
+    {"id": "books-textbook-suit", "type": "image", "src": "pipeline/media/books-textbook-suit.png"},
+    {"id": "books-file-access-agents", "type": "video", "src": "pipeline/media/books-file-access-agents.mp4", "poster": "pipeline/media/books-file-access-agents.jpg"},
+    {"id": "books-reading-buddy", "type": "image", "src": "pipeline/media/books-reading-buddy.jpg"}
   ]
 }
