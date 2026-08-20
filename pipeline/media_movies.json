@@ -1,34 +1,31 @@
 {
-  "date": "2026-08-20",
-  "section": "movies",
+  "date": "2026-08-21",
   "media": [
     {
-      "id": "movies-val-kilmer-ai-footage",
+      "id": "movies-comfyui-mcp",
       "type": "video",
-      "src": "pipeline/media/movies-val-kilmer-ai-footage.mp4",
-      "poster": "pipeline/media/movies-val-kilmer-ai-footage.jpg"
+      "src": "pipeline/media/movies-comfyui-mcp.mp4",
+      "poster": "pipeline/media/movies-comfyui-mcp.jpg"
     },
     {
-      "id": "movies-strada-2-virtual-drive",
-      "type": "video",
-      "src": "pipeline/media/movies-strada-2-virtual-drive.mp4",
-      "poster": "pipeline/media/movies-strada-2-virtual-drive.jpg"
-    },
-    {
-      "id": "movies-wan-3-honest-review",
-      "type": "video",
-      "src": "pipeline/media/movies-wan-3-honest-review.mp4",
-      "poster": "pipeline/media/movies-wan-3-honest-review.jpg"
-    },
-    {
-      "id": "movies-matriarch-verena-puhm",
+      "id": "movies-firefly-audio",
       "type": "image",
-      "src": "pipeline/media/movies-matriarch-verena-puhm.jpeg"
+      "src": "pipeline/media/movies-firefly-audio.jpg"
     },
     {
-      "id": "movies-rick-baker-locarno",
+      "id": "movies-eddie-ai",
       "type": "image",
-      "src": "pipeline/media/movies-rick-baker-locarno.jpg"
+      "src": "pipeline/media/movies-eddie-ai.jpg"
+    },
+    {
+      "id": "movies-metabull-inkrise",
+      "type": "image",
+      "src": "pipeline/media/movies-metabull-inkrise.jpg"
+    },
+    {
+      "id": "movies-james-gray",
+      "type": "image",
+      "src": "pipeline/media/movies-james-gray.jpg"
     }
   ]
 }

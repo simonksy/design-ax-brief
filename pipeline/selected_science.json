@@ -1,94 +1,106 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "section": "science",
-  "selected_by": "curator (user deferred — \"알아서\")",
   "count": 5,
-  "dedup_notes": [
-    "Pool: pipeline/candidates_filtered_science.json (17 items). Checked every candidate URL against the full 'science' ledger in pipeline/published_urls.json (~130 URLs — every URL ever shipped in this section) and against the section history in pipeline/news_data.json (today + last 5 days). Zero URL collisions among the 17.",
-    "DROPPED as within-pool content duplicate: https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html ('AI agents struggle to perform original scientific research', 08-14) — same core finding/evaluation as the MIT Technology Review piece 'AI's recursive self-improvement might not come so quickly after all' (08-18). Kept the single strongest source (MIT Technology Review) per the one-story-one-card rule.",
-    "Verified distinct, not a duplicate of published cards: Live Science 'AI designs chip components 500 times smaller' is a different story from the published Live Science neuromorphic-chip card (2026-08-15) — AI-generated component geometries vs a brain-mimicking motor-control chip.",
-    "Verified distinct: Google's 'Operation Blue Skies' contrail-avoidance trial is a different release from the published DeepMind WeatherNext cyclone card (2026-08-07); different program, different domain (aviation climate forcing vs storm forecasting).",
-    "Verified distinct: Phys.org 'AI discoveries can shape human cultural evolution' (Max Planck) does not overlap the published phys.org primate-cognition card (2026-08-09) or the grant-narrowing card (2026-08-15).",
-    "Verified distinct but not picked (adjacency risk / weaker hook): phys.org mantle-flow PINN and techxplore thermal-storage PINN are two separate physics-informed-network stories in one pool — at most one would have been taken, and both ranked below the picks; phys.org jazz-fingerprint ML (Scientific American ran the same study on 08-17, so it is one story, not two); Physics World novel-computation survey (feature essay, low novelty); Scientific American originality podcast (weakest research hook); Psychology Today x2 (both fresh and distinct, but held below the picks).",
-    "Diversity guard satisfied: 5 distinct outlets (Live Science, Medical Xpress, MIT Technology Review, Google Research, Phys.org), max 1 card per outlet, no shared URLs. Topic spread = chip/hardware design, medical-device regulation and evidence, limits of AI-driven research, applied climate/aviation science, cultural evolution and cognition."
-  ],
   "picks": [
     {
       "rank": 1,
-      "title": "'Beyond human intuition': AI designs chip components 500 times smaller than what engineers could ever imagine",
-      "url": "https://www.livescience.com/technology/electronics/beyond-human-intuition-ai-designs-chip-500-times-smaller-than-what-engineers-could-ever-imagine",
-      "source": "Live Science",
-      "published_iso": "2026-08-18T15:10:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7g83sM22Ri9ziNmRE7RQGi-2000-80.png",
-      "excerpt": "Three new AI-designed chip components measure just a few micrometers and take geometries no human engineer had proposed. The researchers frame the designs as literally beyond human intuition rather than incremental optimizations of known layouts.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Generative design crossing from styling into physics-constrained hardware: the shapes are unrecognizable, they work, and no designer would have drawn them."
+      "title": "Scientists have designed a functioning virus from scratch using AI. What you need to know",
+      "url": "https://medicalxpress.com/news/2026-08-scientists-functioning-virus-ai.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-08-16T21:40:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/bacteriophages.jpg",
+      "excerpt": "AI genome-design models produced hundreds of novel bacteriophage variants; of 285 synthesized designs, 16 were functioning viruses able to kill drug-resistant bacteria. It is the first demonstration that a generative model can write a viable genome end to end — and it has biosecurity researchers arguing about screening safeguards.",
+      "rationale": "First end-to-end generative design of a working genome — the highest-consequence AI4Science result in the window, with an immediate biosecurity-screening debate attached."
     },
     {
       "rank": 2,
-      "title": "Most AI medical devices cleared for use were not tested on patient outcomes",
-      "url": "https://medicalxpress.com/news/2026-08-ai-medical-devices-patient-outcomes.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-08-19T14:00:13-04:00",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/most-ai-medical-device.jpg",
-      "excerpt": "Of 1,357 AI-based medical devices the FDA has authorized for patient care, only three were tested on whether they actually improve patients' health, a new analysis finds. A hard number on the evidence gap between AI clearance and AI benefit.",
       "tool": "Science",
       "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "Three out of 1,357 is the most quotable number in AI evaluation this week — clearance is not evidence, and anyone designing or trusting AI health features should hold that distinction."
+      "motif": "cube",
+      "title": "Prominent AI startup rolls out virtual cell model in race to speed up science",
+      "url": "https://www.statnews.com/2026/08/18/david-baker-genbio-ai-new-virtual-model-unveiled-aido-cell/",
+      "source": "STAT",
+      "published_iso": "2026-08-18T13:29:43Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIDO-Cell-image-1-645x645.jpg",
+      "excerpt": "Palo Alto's GenBio AI, with Nobel laureate David Baker involved, unveiled AIDO Cell — a 'Google Earth for the human cell' that predicts how a whole cell's molecular machinery shifts when you knock out a gene or add a drug, extending the AlphaFold idea from single proteins to entire cells.",
+      "rationale": "A concrete model release, not a think piece: AlphaFold's scope jumps from one protein to a whole cell, with a Nobel laureate's name on it."
     },
     {
       "rank": 3,
-      "title": "AI's recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-08-18T05:00:00-04:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
-      "excerpt": "New evaluations suggest AI agents are not yet creative enough to carry out genuinely innovative, open-ended AI research — undercutting the assumption that models will soon bootstrap their own progress. A measured empirical check on the fastest-moving claim in the field.",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "The 'AI improves itself' premise finally gets measured instead of asserted, and it fails at the originality step — a calibration point for every roadmap built on that assumption."
+      "title": "Combining AI with experiments to solve real-world materials problems",
+      "url": "https://www.chemistryworld.com/news/combining-ai-with-experiments-to-solve-real-world-materials-problems/4024017.article",
+      "source": "Chemistry World",
+      "published_iso": "2026-08-12T13:58:00Z",
+      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/135x135/6/0/2/550602_aron_headshot_440295.jpg",
+      "excerpt": "CuspAI has assembled a 45-organisation 'Materials Foundry' to actually synthesize and test what its models predict — its Kemira collaboration proposed 20 novel MOFs for stripping PFAS from water in six months instead of years. The team's point: prediction is now the easy part; synthesis and manufacturability are the bottleneck.",
+      "rationale": "The rare AI-materials story with a shipped result and a hard lesson — prediction is cheap now, and the bottleneck has moved to making the thing."
     },
     {
       "rank": 4,
-      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
-      "source": "Google Research",
-      "published_iso": "2026-08-18T12:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_blog_image.width-1300.jpg",
-      "excerpt": "Google and the UK are running Operation Blue Skies, an airspace-scale trial of AI-powered contrail avoidance — rerouting flights around the atmospheric conditions that make persistent contrails. It moves contrail forecasting from paper study to live operational science.",
       "tool": "Science",
       "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "A climate model that leaves the paper and starts steering real aircraft — the rare case where an AI prediction is wired directly into an operational system at national scale."
+      "motif": "swatch",
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "source": "Quanta Magazine",
+      "published_iso": "2026-08-20T14:04:40Z",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Lede-LOGO-scaled.webp",
+      "excerpt": "Melanie Mitchell argues on Quanta's 'The Joy of Why' that large models are an 'alien intelligence' whose mechanisms differ fundamentally from human cognition, and that we should borrow psychology's experimental methods rather than benchmarks to measure what machines actually understand.",
+      "rationale": "Mitchell's case for replacing benchmarks with psychology-style experiments changes how you judge whether a model actually understands your task."
     },
     {
       "rank": 5,
-      "title": "Experiment shows how AI discoveries can shape human cultural evolution",
-      "url": "https://phys.org/news/2026-08-ai-discoveries-human-cultural-evolution.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-18T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-contribute.jpg",
-      "excerpt": "In a multigenerational lab task, Max Planck researchers found humans almost never discovered a strategy that required short-term losses for later gains — but groups seeded with AI agents adopted it and passed it down across generations. The study maps the conditions under which machine-found solutions actually enter human culture.",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "An experimental answer to whether machine-found ideas actually stick in human practice: they do, but mainly when the payoff is delayed enough that people never found them alone."
+      "title": "More is different when AI agent populations work together, study suggests",
+      "url": "https://techxplore.com/news/2026-08-ai-agent-populations.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-19T16:40:07Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/more-is-different-when.jpg",
+      "excerpt": "Identical models reach opposite collective conclusions depending purely on how many of them are interacting, the study finds — meaning single-agent safety evaluation misses emergent behaviour that only appears above certain population thresholds.",
+      "rationale": "Directly actionable for anyone running multi-agent setups: the same model behaves differently at scale, so single-agent testing does not transfer."
     }
   ],
-  "considered_but_not_picked": [
-    "Tech Xplore — AI agents struggle to perform original scientific research (2026-08-14; DROPPED as within-pool content duplicate of the MIT Technology Review recursive-self-improvement pick)",
-    "Phys.org — AI reconstructs hidden history of Earth's mantle flow from surface clues (strong PINN case study; one physics-informed-network story per issue, and it ranked just below the picks)",
-    "Tech Xplore — Physics-informed AI method speeds thermal energy storage design optimization (same method family as the mantle-flow item, thinner result reporting)",
-    "Phys.org — Can computers learn what makes the most iconic jazz musicians stand out? (Nature Machine Intelligence, appealing but a classification-accuracy result; Scientific American ran the same study, so it is one story)",
-    "Medical Xpress — AI reveals distinct cell defects inside breast cancer / Does your immune system learn like AI? (both fresh and distinct, but the outlet cap allows one Medical Xpress card and the FDA-evidence piece is far more actionable)",
-    "MIT Technology Review — We still don't know how people are really using AI (good measurement critique, but the outlet cap allows one MIT Tech Review card)",
-    "Psychology Today — Awareness of AI Doesn't Fail. It's Never Been Tested / Why People Are More Honest With AI Than Their Own Boss (fresh and distinct; opinion-column framing ranked below the research picks)",
-    "Tech Xplore — AI shares human tendency to infer character from facial features (interesting bias result, but Tech Xplore items ranked below the picks)",
-    "Physics World — The physics of novel computation (survey essay, low novelty)",
-    "Scientific American — From reboots to AI: What happened to originality? (podcast, weakest research hook in the pool)"
-  ]
+  "dedup_notes": {
+    "history_days_checked": ["2026-08-11", "2026-08-12", "2026-08-14", "2026-08-15", "2026-08-19", "2026-08-20"],
+    "published_cards_checked": 30,
+    "dropped_as_duplicate": [],
+    "deprioritized_for_topic_repeat": [
+      {
+        "url": "https://www.eurekalert.org/news-releases/1140758",
+        "reason": "Autonomous science agents already covered 08-11 (MIT TR 'AI agents for science'), 08-12 (Google Science One) and 08-20 (recursive self-improvement); distinct study, but theme is saturated. Also og_image null."
+      },
+      {
+        "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
+        "reason": "Neuromorphic/low-power compute already covered 08-15 (cerebellum memtransistor) and 08-19 (DNA memristor); survey-format, lower novelty."
+      },
+      {
+        "url": "https://www.universetoday.com/articles/the-telescope-that-points-itself",
+        "reason": "Distinct story, but same outlet + AI-in-astronomy repeat of 08-12 Universe Today quasar-lens item; oldest item in pool (08-10)."
+      },
+      {
+        "url": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/",
+        "reason": "Strong design-relevance, but newscientist.com blocks fetching (og_image null, body unreadable downstream), so the card would ship thin."
+      },
+      {
+        "url": "https://www.genengnews.com/topics/artificial-intelligence/protecting-scientific-intent-in-ai-enabled-labs-by-not-letting-ai-set-the-mission/",
+        "reason": "Opinion piece overlapping the saturated agents-in-the-lab theme."
+      }
+    ]
+  },
+  "diversity_check": {
+    "outlets": ["Medical Xpress", "STAT", "Chemistry World", "Quanta Magazine", "Tech Xplore"],
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
+    "topic_spread": ["synthetic biology / genome design", "cell biology foundation model", "materials chemistry", "cognitive science / AI evaluation", "multi-agent systems"],
+    "accents_unique": true
+  }
 }

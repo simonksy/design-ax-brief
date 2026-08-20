@@ -1,32 +1,40 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "section": "movies",
-  "now_iso": "2026-08-19T22:00:33Z",
   "window_hours": 336,
+  "now_iso": "2026-08-20T22:00:27Z",
   "items": [
     {
-      "url": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/",
-      "source": "IndieWire",
+      "url": "https://www.cined.com/eddie-ai-trains-editing-model-small-enough-to-run-locally-claims-47-win-rate-against-kimi-k3/",
+      "source": "CineD",
       "category": "movies",
-      "published_iso": "2026-08-19T17:00:00+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=650",
-      "excerpt": "'As Deep as the Grave' has released seven minutes of footage built around an AI-generated younger Val Kilmer, the late actor's estate-approved posthumous 'performance.' It is the most concrete public look yet at how a digital-replica lead is actually assembled, lit and cut into a narrative film."
+      "published_iso": "2026-08-20T08:02:16+00:00",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/Eddie-AI_Processing.jpg",
+      "excerpt": "Eddie AI says its purpose-built 9B editing model hit a 47% win rate against Kimi K3 while being small enough to run on-premises, pointing at private, personalized assembly-edit assistants for post houses. Same story also covered by No Film School (nofilmschool.com/eddie-ai-9b) if a different outlet is preferred."
     },
     {
-      "url": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
-      "source": "IndieWire",
+      "url": "https://postperspective.com/adobe-firefly-updates-expanded-audio-tools-more-ai-models-free-ai-assistant/",
+      "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-08-19T18:43:30+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg?w=650",
-      "excerpt": "James Gray tells IndieWire the industry's 'obscene' AI push will fail and predicts celluloid gets a 'vinyl' style comeback, after shooting 'Paper Tiger' on film with vintage tools. A craft-side counter-argument that frames analog imperfection as the differentiator against generated imagery."
+      "published_iso": "2026-08-20T16:52:45+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Adobe-Generate-Music-1.jpg",
+      "excerpt": "Adobe pushed Firefly's Generate Music, Generate Speech and Generate Sound Effects to general availability, added more third-party AI models and opened Firefly AI Assistant in a free tier. Sound-post relevance: score, VO and SFX generation now sit inside the same tool video editors already use."
     },
     {
-      "url": "https://www.indiewire.com/features/craft/nat-geo-lion-cinematography-interview-sophie-darlington-1235211387/",
-      "source": "IndieWire",
+      "url": "https://postperspective.com/profuzs-subtitlenext-to-feature-expanded-transcriptions-imscr-support/",
+      "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-08-19T19:00:00+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/101_ChapterOne_APrinceIsBorn_Lion_58.jpg?w=650",
-      "excerpt": "DP Sophie Darlington explains how the patience, imperfections and long-lens waiting behind Nat Geo's 'Lion' are precisely what generative video cannot fake. A working cinematographer's argument for what stays human when AI slop floods the feed."
+      "published_iso": "2026-08-20T18:03:10+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/SubtitleNEXTScreenshot4-copy.jpg",
+      "excerpt": "Profuz Digital will demo SubtitleNext at IBC with expanded AI transcription integrations across additional speech-to-text engines, IMSCR support, HiDPI and batch subtitle burn-in. A localization/finishing workflow update rather than a generative headline."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ghCKziHvGXo",
+      "source": "Theoretically Media (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-08-20T13:23:10-07:00",
+      "og_image": "https://i.ytimg.com/vi/ghCKziHvGXo/maxresdefault.jpg",
+      "excerpt": "ComfyUI shipped an official MCP server, so Claude or Codex can build, run and repair ComfyUI graphs while the filmmaker keeps the creative half. Walks through what agent-driven node graphs mean for a solo AI-video pipeline."
     },
     {
       "url": "https://variety.com/2026/film/news/hybrid-ai-mandopop-musical-alishan-escape-red-empire-omg-1236838002/",
@@ -34,108 +42,68 @@
       "category": "movies",
       "published_iso": "2026-08-19T07:02:37+00:00",
       "og_image": "https://variety.com/wp-content/uploads/2026/08/Alishan-Escape-team.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Red Empire Productions and Organic Media Group are developing 'Alishan Escape,' a hybrid-AI Mandopop ghost musical inspired by Taiwan's Ghost Month. A concrete example of the hybrid pipeline model — live-action performance plus generative sequences — moving into genre features."
+      "excerpt": "Red Empire Productions and Organic Media Group are developing 'Alishan Escape,' a hybrid-AI Mandopop ghost musical inspired by Taiwan's Ghost Month. A concrete example of AI-assisted production being budgeted into an Asian genre feature rather than a tech demo."
     },
     {
-      "url": "https://variety.com/2026/film/columns/oscars-youtube-ai-annual-budgets-member-meeting-1236837376/",
-      "source": "Variety",
+      "url": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
+      "source": "IndieWire",
       "category": "movies",
-      "published_iso": "2026-08-18T21:02:08+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2018/12/Oscars-Placeholder.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Inside the film Academy's annual all-members meeting, leadership laid out how it plans to 'engage' with AI alongside budget and YouTube strategy. Sets the tone for how Oscar-eligibility and craft-branch rules may treat generative tools in the coming awards cycle."
+      "published_iso": "2026-08-19T18:43:30+00:00",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg?w=650",
+      "excerpt": "James Gray, who returned to celluloid and vintage tools on 'Paper Tiger,' predicts the industry's 'obscene' AI push will fail and that shooting on film will stage a vinyl-style comeback. A counter-position piece on craft value as generative tooling spreads."
     },
     {
-      "url": "https://variety.com/2026/digital/news/mirage-ai-generated-24-hour-news-channel-1236834107/",
-      "source": "Variety",
+      "url": "https://www.indiewire.com/features/craft/nat-geo-lion-cinematography-interview-sophie-darlington-1235211387/",
+      "source": "IndieWire",
       "category": "movies",
-      "published_iso": "2026-08-13T19:37:49+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-3.26.17-PM.png?w=1000&h=563&crop=1",
-      "excerpt": "Mirage ran a day-long experiment broadcasting a 24-hour newscast staffed entirely by AI-generated anchors covering real stories. A blunt stress test of what fully synthetic, always-on video production actually looks and feels like at scale."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/makeup-guru-rick-baker-locarno-insight-ai-cgi-eddie-murphy-1236654791/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-13T13:06:00+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Rick-Baker.jpg?w=1440&h=810&crop=1",
-      "excerpt": "Honored at Locarno 2026, makeup legend Rick Baker gives his verdict on AI and CGI and makes a case for the below-the-line experts he says go unappreciated. A practical-effects master's read on where machine imagery leaves hand-built craft."
-    },
-    {
-      "url": "https://deadline.com/2026/08/verena-puhm-former-luma-ai-launches-matriarch-1237032826/",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-08-13T15:35:00+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Verena-Puhm.jpeg?w=1024",
-      "excerpt": "Filmmaker and former Luma AI executive Verena Puhm has launched LA-based Matriarch to produce AI-native and hybrid projects, including work for brands and third parties. A tool-vendor insider crossing over into production is a signal of where AI-native studio craft is heading."
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/08/fillmmaker-ai-exec-verena-puhm-launches-matriarch-prodco-with-animation-projects/",
-      "source": "Animation Magazine",
-      "category": "movies",
-      "published_iso": "2026-08-14T17:30:26+00:00",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Free-Leonard-Peltier-2025.jpg",
-      "excerpt": "Animation Magazine details Matriarch's slate, which is developing AI-native and hybrid animation productions for its own pipeline and for third-party and brand clients. Adds the animation-craft angle to the new prodco's AI-first workflow claims."
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/08/animaze-2026-unveils-programming-highlights-first-ever-ai-animation-forum/",
-      "source": "Animation Magazine",
-      "category": "movies",
-      "published_iso": "2026-08-17T21:45:10+00:00",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Animaze_Bill-Plympton_Johnnie-Semerad.png",
-      "excerpt": "Animaze Montreal's 2026 edition (Sept 17-19) adds a first-ever AI Animation Forum alongside its regular programming. A festival institutionalizing AI as a craft track rather than a controversy panel marks a shift in how the animation field is handling it."
-    },
-    {
-      "url": "https://www.cined.com/strada-2-0-now-available-mounts-remote-storage-as-a-virtual-drive-and-more/",
-      "source": "CineD",
-      "category": "movies",
-      "published_iso": "2026-08-11T15:04:09+00:00",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/Strada-2.0-2.jpeg",
-      "excerpt": "Strada 2.0 mounts a collaborator's storage as a virtual drive so a remote editor can cut from media that never leaves the original disk, on top of the platform's AI tagging and search layer. It targets the real bottleneck in AI-assisted post: moving the footage, not the metadata."
-    },
-    {
-      "url": "https://www.cined.com/amaran-mic-released-30mm-dynamic-capsule-on-board-ai-noise-reduction-and-2-4ghz-wireless/",
-      "source": "CineD",
-      "category": "movies",
-      "published_iso": "2026-08-17T08:25:08+00:00",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/amaranMic_Lifestyle_1_DSC00370.jpg",
-      "excerpt": "Aputure's amaran Mic is a $99 wireless desktop microphone with a 30mm dynamic capsule and on-board AI noise reduction. On-device AI cleanup is now shipping at entry-level price points for creator audio, not just post suites."
-    },
-    {
-      "url": "https://nofilmschool.com/obsbot-meet-flip-ai-powered-foldable-4k-webcam-2677650497",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-08-18T16:45:02+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67568413&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "excerpt": "No Film School tests OBSBOT's Meet Flip, a foldable 4K webcam whose AI tracking and framing push webcam image quality closer to usable production gear. A look at how much AI-driven framing can substitute for an operator on small shoots."
+      "published_iso": "2026-08-19T19:00:00+00:00",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/101_ChapterOne_APrinceIsBorn_Lion_58.jpg?w=650",
+      "excerpt": "DP Sophie Darlington explains how the patience, imperfection and physical proximity behind Nat Geo's 'Lion' are deliberately positioned against AI-generated wildlife 'slop.' Craft argument for what synthetic footage still cannot fake."
     },
     {
       "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
-      "source": "Curious Refuge",
+      "source": "Curious Refuge (YouTube)",
       "category": "movies",
-      "published_iso": "2026-08-18T12:28:05-07:00",
+      "published_iso": "2026-08-18T19:28:05Z",
       "og_image": "https://i.ytimg.com/vi/qv0s1_coX50/maxresdefault.jpg",
-      "excerpt": "Curious Refuge walks through a free AI video generator that they argue has closed much of the quality gap with paid models, with side-by-side shot tests. Aimed squarely at filmmakers deciding where their generative budget should go."
+      "excerpt": "Curious Refuge tests a free AI video generator against paid models and argues the free tier is now good enough for real shot work. Practical cost-floor check for indie AI filmmakers."
     },
     {
-      "url": "https://www.youtube.com/watch?v=aA_AFy-GDwo",
-      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=YQTduCzNoqw",
+      "source": "Theoretically Media (YouTube)",
       "category": "movies",
-      "published_iso": "2026-08-14T12:44:20-07:00",
-      "og_image": "https://i.ytimg.com/vi/aA_AFy-GDwo/maxresdefault.jpg",
-      "excerpt": "An honest hands-on review of Wan 3.0, the video model Curious Refuge calls the best generator most filmmakers have not tried yet. Covers where it holds up on motion and character consistency in an actual shot workflow."
+      "published_iso": "2026-08-17T21:57:07Z",
+      "og_image": "https://i.ytimg.com/vi/YQTduCzNoqw/maxresdefault.jpg",
+      "excerpt": "Two unannounced video models codenamed 'Polaris' and 'Vega' surfaced in blind testing on the Artificial Analysis arena, with no lab claiming them yet. Includes shot-level comparisons plus a free cinematic reference library for filmmakers."
     },
     {
-      "url": "https://www.youtube.com/watch?v=OQPYWzlyrGg",
-      "source": "Curious Refuge",
+      "url": "https://www.awn.com/news/metabull-acquires-inkrise-names-aaron-simpson-head-production",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-08-13T10:47:22-07:00",
-      "og_image": "https://i.ytimg.com/vi/OQPYWzlyrGg/maxresdefault.jpg",
-      "excerpt": "Curious Refuge runs 30 different characters through Seedance 2.5 to see how far reference-driven character consistency now holds across shots. A practical benchmark of the single hardest requirement for narrative AI filmmaking."
+      "published_iso": "2026-08-17T12:48:00+00:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/metabull1.jpg?itok=cNDwpotU",
+      "excerpt": "AI-animation studio Inkrise folds into MetaBull Labs, taking its Felix pipeline tool and deterministic AIR rendering engine with it. MetaBull argues deterministic rendering from layout, storyboard and animation data holds character and narrative continuity that text-to-video models cannot."
+    },
+    {
+      "url": "https://variety.com/2026/film/global/american-film-market-afm-house-innovation-hub-1236832881/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-08-12T15:45:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/AFM-HOUSE.jpg?w=1000&h=563&crop=1",
+      "excerpt": "American Film Market launches AFM House, home to an Innovation Hub built with Cannes Next that will feature AI startups and emerging production tech alongside the market. Signals where AI tooling gets sold to buyers and financiers this fall."
+    },
+    {
+      "url": "https://variety.com/2026/film/news/brad-pitt-ai-could-help-mid-budget-movies-get-made-1236831201/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-08-10T12:59:22+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/brad-pitt.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Brad Pitt says AI, 'used as a tool,' could make more mid-budget films financially viable again — a talent-side framing of generative tooling as a budget lever rather than a replacement for crews."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 16,
+    "kept": 12,
     "against_days": 5
   }
 }

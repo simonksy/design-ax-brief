@@ -1,31 +1,30 @@
 {
-  "date": "2026-08-20",
-  "section": "science",
+  "date": "2026-08-21",
   "media": [
     {
-      "id": "science-photonic-inverse-design",
+      "id": "science-ai-virus",
       "type": "image",
-      "src": "pipeline/media/science-photonic-inverse-design.jpg"
+      "src": "pipeline/media/science-ai-virus.jpg"
     },
     {
-      "id": "science-fda-ai-device-evidence",
+      "id": "science-virtual-cell",
       "type": "image",
-      "src": "pipeline/media/science-fda-ai-device-evidence.jpg"
+      "src": "pipeline/media/science-virtual-cell.jpg"
     },
     {
-      "id": "science-recursive-self-improvement",
+      "id": "science-cuspai-mof",
       "type": "image",
-      "src": "pipeline/media/science-recursive-self-improvement.jpg"
+      "src": "pipeline/media/science-cuspai-mof.png"
     },
     {
-      "id": "science-blue-skies-contrails",
+      "id": "science-alien-intelligence",
       "type": "image",
-      "src": "pipeline/media/science-blue-skies-contrails.jpg"
+      "src": "pipeline/media/science-alien-intelligence.jpg"
     },
     {
-      "id": "science-machine-culture",
+      "id": "science-agent-scale",
       "type": "image",
-      "src": "pipeline/media/science-machine-culture.jpg"
+      "src": "pipeline/media/science-agent-scale.jpg"
     }
   ]
 }

@@ -1,32 +1,31 @@
 {
-  "date": "2026-08-20",
-  "section": "music",
+  "date": "2026-08-21",
   "media": [
     {
-      "id": "music-stemdeck-local-splitter",
-      "type": "image",
-      "src": "pipeline/media/music-stemdeck-local-splitter.jpg"
-    },
-    {
-      "id": "music-umg-hook-licensed-remix",
-      "type": "image",
-      "src": "pipeline/media/music-umg-hook-licensed-remix.jpg"
-    },
-    {
-      "id": "music-i-am-choir-neural-vocal",
+      "id": "music-tamber-2",
       "type": "video",
-      "src": "pipeline/media/music-i-am-choir-neural-vocal.mp4",
-      "poster": "pipeline/media/music-i-am-choir-neural-vocal.jpg"
+      "src": "pipeline/media/music-tamber-2.mp4",
+      "poster": "pipeline/media/music-tamber-2.jpg"
     },
     {
-      "id": "music-lalal-lynx-vocal-rip",
+      "id": "music-apple-made-with-ai-tag",
       "type": "image",
-      "src": "pipeline/media/music-lalal-lynx-vocal-rip.png"
+      "src": "pipeline/media/music-apple-made-with-ai-tag.jpg"
     },
     {
-      "id": "music-train-your-own-model",
+      "id": "music-ssg-loudness-pro",
       "type": "image",
-      "src": "pipeline/media/music-train-your-own-model.jpg"
+      "src": "pipeline/media/music-ssg-loudness-pro.jpg"
+    },
+    {
+      "id": "music-vaemi-synterra",
+      "type": "image",
+      "src": "pipeline/media/music-vaemi-synterra.jpg"
+    },
+    {
+      "id": "music-vibe-coded-plugins",
+      "type": "image",
+      "src": "pipeline/media/music-vibe-coded-plugins.jpg"
     }
   ]
 }

@@ -1,241 +1,95 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "section": "design",
   "window_hours": 72,
-  "now_iso": "2026-08-19T22:00:33Z",
   "items": [
     {
-      "url": "https://www.creativebloq.com/ai/replacing-creative-jobs-with-ai-could-have-a-hidden-cost-new-report-warns",
-      "source": "Creative Bloq",
-      "title": "Replacing creative jobs with AI could have a hidden cost, a new report warns",
+      "url": "https://www.figma.com/blog/sightlines-issue-no2/",
+      "source": "Figma",
       "category": "figma",
-      "published_iso": "2026-08-19T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/fhSLheAU9r8GrCn7Ae6my-1920-80.jpg",
-      "excerpt": "D&AD's 2026 AI and Creativity Report finds AI-declared award entries more than doubled year-on-year to 27.6%, while studios quietly cut the junior, repetitive work AI now absorbs. The warning: those tasks are where creative judgement was traditionally trained, so automating them may starve the next generation of design leads."
+      "published_iso": "2026-08-20",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/a9356934cc1ec6efbbc4b737340f7d4143c3e9e2-480x480.png?w=1200&q=80&fit=max&auto=format",
+      "excerpt": "Figma's Sightlines newsletter no.2 gathers senior design and product leaders on what it takes to design agentic products. The core problem: agents are powerful, but interfaces must earn trust and make permissions and security legible to users."
     },
     {
-      "url": "https://www.creativebloq.com/art/animation/the-story-of-chinas-viral-worst-animation-ever-just-keeps-getting-weirder",
-      "source": "Creative Bloq",
-      "title": "The story of China's viral \"worst animation ever\" just keeps getting weirder",
-      "category": "figma",
-      "published_iso": "2026-08-18T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/UYnadU7H6BkgYroF99LVki-1920-80.jpg",
-      "excerpt": "Niu Lai, mocked online as China's \"worst animation ever\", turns out to have been made almost entirely by a mother-and-son team, and is now being framed as an anti-AI success story. A case study in how audiences read craft, effort and authorship in a generative era."
+      "url": "https://80.lv/articles/how-dark-and-darker-s-devs-used-aura-to-build-a-major-feature-in-half-the-time",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-20",
+      "og_image": "https://cdn.80.lv/static/icons/logo80lv.svg",
+      "excerpt": "IRONMACE's non-technical president used the AI coding assistant Aura to build Dark and Darker's tutorial system directly against the game codebase in about two weeks — work the team estimated at five to six weeks. A concrete case of a non-engineer shipping production features."
     },
     {
-      "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f",
-      "source": "UX Collective",
-      "title": "Is the future of software certain once AI is everywhere?",
-      "category": "figma",
-      "published_iso": "2026-08-19T09:26:12Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*S9Babiz8jzdfqAKTlQlaag.png",
-      "excerpt": "Argues that \"extinction\" is the wrong lens for what AI does to conventional software — evolution is the right one — using the 2025 enterprise-software selloff as the starting point. Reframes what product designers should be building when models can assemble the app themselves."
+      "url": "https://80.lv/articles/bus-ride-straight-out-of-dream-made-with-blender-3dgs",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-20",
+      "og_image": null,
+      "excerpt": "Artist Blue Nile deliberately under-trains 3D Gaussian Splats and films from a moving bus, then composites in Blender, turning a reconstruction 'failure mode' into a dreamlike aesthetic. A craft argument for using neural capture artifacts on purpose."
     },
     {
-      "url": "https://uxdesign.cc/what-the-matrix-got-right-about-ai-c741b38dca68",
-      "source": "UX Collective",
-      "title": "What The Matrix got right about AI",
+      "url": "https://www.builder.io/blog/survive-ai-mandate",
+      "source": "Builder.io",
       "category": "figma",
-      "published_iso": "2026-08-18T21:43:01Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*0Oq1k5xQnH5uULrX58MU3g.png",
-      "excerpt": "Re-reads The Matrix 25 years on as a product roadmap rather than science fiction: the real choice was never the pills, but whether users get to see the system at all. A designer's argument about legibility and consent in AI interfaces."
+      "published_iso": "2026-08-19",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/0f722cac40ea4f258b6f1e73a60dc19a?format=webp&width=1200",
+      "excerpt": "Top-down 'use AI' mandates raise output expectations without delivering real productivity, because time saved on generation is eaten by verification and coordination. Builder argues AI only pays off when wired into the systems where design and dev teams actually collaborate."
     },
     {
-      "url": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6",
-      "source": "UX Collective",
-      "title": "AI adoption and the slow erosion of design idealism",
+      "url": "https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free",
+      "source": "Vercel",
       "category": "figma",
-      "published_iso": "2026-08-17T07:37:27Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*2F5T3iNd9kt_Mq0q",
-      "excerpt": "How years of client work, deadlines and professional practice reshape a designer's relationship with emerging technology — and why enthusiasm for AI tooling curdles into resignation. A field note on design-org culture as AI adoption becomes mandatory."
+      "published_iso": "2026-08-19",
+      "og_image": null,
+      "excerpt": "Four Fish Audio text-to-speech and transcription models are now on Vercel AI Gateway, free for 30 days. Voice generation becomes a one-line dependency for prototypes, putting audio UI inside the same workflow as generative interface builds."
+    },
+    {
+      "url": "https://zeroheight.com/blog/how-to-automate-your-design-system-documentation-without-losing-the-parts-that-matter/",
+      "source": "zeroheight",
+      "category": "tokens",
+      "published_iso": "2026-08-19",
+      "og_image": null,
+      "excerpt": "A practical breakdown of which design system documentation should be generated automatically from code and tokens, and which parts — intent, rationale, usage judgement — must stay human-authored. Automating the wrong layer produces docs nobody trusts."
+    },
+    {
+      "url": "https://dev.to/quokkalabs/stop-shipping-one-off-ui-a-product-design-system-handoff-checklist-for-developers-2p05",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-08-19",
+      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xhuq6gg4gb8y0ketl2t9.png",
+      "excerpt": "A handoff checklist arguing the design system is infrastructure, not an artifact: tokens, component contracts, state docs, responsive specs. It cites design-system-aware AI cutting UI delivery time 46.7–69.4%, and warns that codegen without a documented system just accelerates inconsistency."
     },
     {
       "url": "https://dev.to/davidayo/ai-isnt-replacing-mobile-ux-designers-its-just-saving-us-from-infinite-wireframe-loops-pa2",
       "source": "DEV Community",
-      "title": "AI isn't replacing mobile UX designers—it's just saving us from infinite wireframe loops",
+      "category": "workflow",
+      "published_iso": "2026-08-19",
+      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/93huxet95ysowst3qfws.png",
+      "excerpt": "A working mobile UX designer's account of where AI actually lands in the process: it collapses the endless wireframe iteration loop, not the judgement work. The remaining job is empathy, strategy and framing the real human problem."
+    },
+    {
+      "url": "https://dev.to/adilaidev/ai-features-users-dont-want-and-what-they-actually-need-5556",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-08-18",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.adilaidev.com%2Fapi%2Fcover-brand%2F%3Fsrc%3Dhttps%253A%252F%252Fimages.pexels.com%252Fphotos%252F30530414%252Fpexels-photo-30530414.jpeg%253Fauto%253Dcompress%2526cs%253Dtinysrgb%2526h%253D650%2526w%253D940%26w%3D1200%26h%3D630",
+      "excerpt": "Most shipped AI features are bolt-on chat panels that add steps instead of removing them. The argument: good AI design is invisible — it absorbs tedious work inside existing flows rather than announcing itself as a new surface."
+    },
+    {
+      "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/",
+      "source": "LogRocket Blog",
       "category": "figma",
-      "published_iso": "2026-08-19T21:12:36Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F93huxet95ysowst3qfws.png",
-      "excerpt": "A mobile designer's account of where AI actually lands in the workflow: it kills the endless low-fidelity wireframe iteration loop, not the judgement calls. Practical framing of which parts of the mobile UX process are safe to hand to a model."
-    },
-    {
-      "url": "https://dev.to/viraai/why-ai-should-return-interfaces-not-walls-of-text-4130",
-      "source": "DEV Community",
-      "title": "Why AI Should Return Interfaces, Not Walls of Text",
-      "category": "tokens",
-      "published_iso": "2026-08-19T20:38:00Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk69aa8mqz6h8qlbxqprg.png",
-      "excerpt": "Argues that the chat-first default — ask for an outcome, get a wall of prose — is a design failure, and that AI responses should render actual components. A concrete case for generative UI over generative text."
-    },
-    {
-      "url": "https://dev.to/alexandersstudi/css-variables-are-the-only-design-token-format-that-matters-34bk",
-      "source": "DEV Community",
-      "title": "CSS variables are the only design token format that matters",
-      "category": "tokens",
-      "published_iso": "2026-08-19T16:30:23Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw32yi7wkrp58c6x8b10k.png",
-      "excerpt": "A contrarian take on the DTCG/JSON token pipeline: the author argues the JSON-parsing layer between Figma variables and shipped CSS is dead weight, and CSS custom properties should be the source of truth. Directly relevant to teams wiring design systems into AI codegen."
-    },
-    {
-      "url": "https://www.engineering.com/onshape-is-bracing-for-an-ai-explosion/",
-      "source": "Engineering.com",
-      "title": "Onshape is bracing for an AI explosion",
-      "category": "cad",
-      "published_iso": "2026-08-19T17:39:37Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_engpaper_thumb2026-aug18.png",
-      "excerpt": "PTC's new FeatureScript MCP server lets any AI coding agent — Claude, ChatGPT, Gemini — build, test and debug custom Onshape CAD features in natural language. Non-developers can now generate the bespoke design tools that previously required a FeatureScript specialist."
+      "published_iso": "2026-08-18",
+      "og_image": "https://blog.logrocket.com/wp-content/uploads/2025/07/ai_dev_tool_power_rankings_july_2025_web.png",
+      "excerpt": "August's AI dev tool rankings mark the largest single-month shake-up yet: Claude Opus 5 debuts at the top with a 1691 Elo, and Kimi K3 becomes the first open-weight model in the top three. Four new entrants reset which model teams should default to for build work."
     },
     {
       "url": "https://www.engineering.com/scaling-ai-agents-is-where-things-get-complicated/",
       "source": "Engineering.com",
-      "title": "Scaling AI agents is where things get complicated",
       "category": "cad",
-      "published_iso": "2026-08-18T18:01:41Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/05/agentic-ai-documentation-stockimage-1024x683.png",
-      "excerpt": "Incremental agent deployment is fine as a starting point, but the piece argues serious organizations must treat it as a bridge to deeper process redesign. Relevant to design orgs bolting agents onto existing handoffs instead of rethinking them."
-    },
-    {
-      "url": "https://www.engineering.com/humans-in-the-loop-is-likely-the-fastest-way-to-ai-value/",
-      "source": "Engineering.com",
-      "title": "Humans-in-the-loop is likely the fastest way to AI value",
-      "category": "cad",
-      "published_iso": "2026-08-18T13:00:00Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/BrightMachines_Talent_0472-2.jpg",
-      "excerpt": "The more valuable and complex a design or manufacturing process becomes, the more it matters to define exactly where the machine stops and the person takes over. A practical framework for drawing the handoff line in AI-assisted product development."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/08/scantic-trains-gaussian-splats-entirely-on-your-phone/",
-      "source": "CG Channel",
-      "title": "Scantic trains 3D Gaussian Splats entirely on your phone",
-      "category": "render",
-      "published_iso": "2026-08-19T14:52:34Z",
+      "published_iso": "2026-08-18",
       "og_image": null,
-      "excerpt": "A new free iOS app generates 3D Gaussian Splat scans of objects and environments entirely on-device, with no cloud processing. Puts neural-radiance-style capture in a designer's pocket for reference, previz and product scanning."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-16-august-2026/",
-      "source": "CG Channel",
-      "title": "New CG software you may have missed: 16 August 2026",
-      "category": "render",
-      "published_iso": "2026-08-17T04:30:29Z",
-      "og_image": null,
-      "excerpt": "CG Channel's fortnightly roundup of smaller DCC, AI-assisted and pipeline tool releases that slipped past the main news cycle. A useful sweep of what shipped for 3D and motion designers over the past two weeks."
-    },
-    {
-      "url": "https://80.lv/articles/manually-retopologize-your-3d-meshes-with-this-blender-tool/",
-      "source": "80 Level",
-      "title": "Manually Retopologize Your 3D Meshes with This Blender Tool",
-      "category": "render",
-      "published_iso": "2026-08-19T15:38:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49814/images/6a85ce1170457/contain_1200x630.jpg",
-      "excerpt": "Quad Maker is a new Blender add-on for keeping topology clean by hand — a deliberate counterpoint to the wave of AI auto-retopology tools shipping this year. Worth watching as the manual-versus-generated line in 3D production gets redrawn."
-    },
-    {
-      "url": "https://80.lv/articles/artist-shows-fascinating-soft-body-simulation-made-with-wip-blender-add-on/",
-      "source": "80 Level",
-      "title": "Artist Shows Soft Body Simulation Made with WIP Blender Add-On",
-      "category": "render",
-      "published_iso": "2026-08-18T10:23:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49793/images/6a8432b153675/contain_1200x630.jpg",
-      "excerpt": "Alan Syarif's WIP Marrow add-on fills any mesh with a tetrahedral cage and solves neo-Hookean XPBD on the GPU with real volume preservation. Real-time squash-and-stretch physics that motion and product designers can art-direct live."
-    },
-    {
-      "url": "https://www.keyshot.com/blog/how-engineers-use-keyshot-to-cut-physical-prototyping-costs/",
-      "source": "KeyShot",
-      "title": "How Engineers Use KeyShot to Cut Physical Prototyping Costs",
-      "category": "render",
-      "published_iso": "2026-08-19T15:08:06Z",
-      "og_image": "https://www.keyshot.com/wp-content/uploads/2026/07/CloseUps.0001-19-41434-R-3.523.png",
-      "excerpt": "Physical prototypes cost thousands per iteration; KeyShot lays out how design teams use real-time rendering to decide what is actually worth building before committing to tooling. A concrete cost argument for shifting industrial-design review into the render engine."
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
-      "source": "VentureBeat",
-      "title": "Block's new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
-      "category": "workflow",
-      "published_iso": "2026-08-18T23:23:22Z",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=800&q=75",
-      "excerpt": "Block open-sourced Berd, a free desktop app for macOS, Windows and Linux that gives AI agents roles, skills, tools and recognizable visual identities via personas like Berdy, Pushback and Copycat. A rare look at what deliberate agent-identity design looks like as a shipped product."
-    },
-    {
-      "url": "https://www.cio.com/article/4210687/not-every-problem-needs-an-ai-agent.html",
-      "source": "CIO",
-      "title": "Not every problem needs an AI agent",
-      "category": "workflow",
-      "published_iso": "2026-08-18T00:00:00Z",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/08/4210687-0-78819000-1787050982-shutterstock_1887035158-100960693-orig.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "The smartest AI system may be the one that knows when not to reach for an agent at all. A restraint argument for teams currently retrofitting agents into every step of a design or product workflow."
-    },
-    {
-      "url": "https://roadtovr.com/picos-vision-pro-competitor-release-date-pricr-name/",
-      "source": "Road to VR",
-      "title": "Pico's Vision Pro Competitor Gets Official Name and Debut Date",
-      "category": "vr",
-      "published_iso": "2026-08-19T19:06:50Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg",
-      "excerpt": "Pico's Project Swan standalone headset is now officially the Pico Space Pro, debuting at a Beijing event early next month. A second serious spatial-computing platform means a second set of spatial UI conventions for designers to target."
-    },
-    {
-      "url": "https://develop3d.com/3d-printing/heygears-g1x-colour-resin-3d-printer/",
-      "source": "DEVELOP3D",
-      "title": "HeyGears adds G1X desktop colour resin 3D printer to line-up",
-      "category": "cad",
-      "published_iso": "2026-08-18T09:59:35Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/HeyGears-g1X-3dprinter.jpg",
-      "excerpt": "The HeyGears G1X brings full-colour resin 3D printing to the desktop at a sub-£3,000 price point. Colour-accurate physical prototypes on the studio bench shortens the loop between CAD, render and a part you can hand to a client."
-    },
-    {
-      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
-      "source": "CSS-Tricks",
-      "title": "CSS Navigation Matching, Early Days",
-      "category": "tokens",
-      "published_iso": "2026-08-19T14:44:41Z",
-      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg",
-      "excerpt": "An early look at applying styles based on which page a user navigated from, making cross-document view transitions declarative in CSS instead of hand-managed in JavaScript. Moves motion design decisions back into the stylesheet where designers can own them."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=-ilLpuqgbjI",
-      "source": "Figma",
-      "title": "Figma Motion basics: Animation styles",
-      "category": "social",
-      "published_iso": "2026-08-19T11:00:12Z",
-      "og_image": "https://i.ytimg.com/vi/-ilLpuqgbjI/maxresdefault.jpg",
-      "excerpt": "Figma walks through Motion's preset animation styles, which add motion without manually configuring keyframes. Part of the ongoing push to make prototyping motion a native design-file act rather than a handoff to a separate tool."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=r-ORCmsRHOE",
-      "source": "Matt Wolfe",
-      "title": "Your New Backup Brain Is Here",
-      "category": "social",
-      "published_iso": "2026-08-19T13:37:12Z",
-      "og_image": "https://i.ytimg.com/vi/r-ORCmsRHOE/maxresdefault.jpg",
-      "excerpt": "A hands-on look at Memoket AI Gem, an ambient capture tool that catches the follow-ups and half-thoughts you say you'll remember later. Framed as a personal-memory layer for creators managing scattered project context."
+      "excerpt": "Deloitte research finds the hard part of agentic AI isn't the technology but organizational readiness: nearly two-thirds of executives are rethinking business models around agents, yet fewer than half feel prepared operationally. Piloting agents without process redesign stalls at the pilot."
     }
-  ],
-  "notes": {
-    "gate": "Every published_iso was read from the article page itself (og article:published_time → JSON-LD datePublished → publisher RSS pubDate + content:encoded for JS-walled Medium/uxdesign.cc → YouTube JSON-LD uploadDate), never from a search snippet. All 23 were then run through `python3 pipeline/freshness.py \"<iso>\" \"2026-08-19T22:00:33Z\" \"design\"` and all 23 printed FRESH (72h window, cutoff 2026-08-16T22:00:33Z).",
-    "per_source_cap": "uxdesign.cc 3, dev.to 3, Engineering.com 3, Creative Bloq 2, CG Channel 2, 80 Level 2, youtube.com 2 (two different channels), KeyShot 1, VentureBeat 1, CIO 1, Road to VR 1, DEVELOP3D 1, CSS-Tricks 1. 13 distinct outlets, none over the ≤3 collection cap.",
-    "category_spread": "figma 6, render 5, cad 4, tokens 3, workflow 2, social 2, vr 1 — all seven design categories represented.",
-    "dropped_stale": [
-      "eleken.co — 'Inside Vibe Design: An Agency's Field Guide to Designing with AI in 2026' — RSS pubDate said 2026-08-18 but JSON-LD datePublished on the page is 2026-07-13. Dropped as a re-publish, not fresh.",
-      "youtube.com — 'Figma Just Exposed The Reality of AI in Design! (Figma AI Design Report & Designer Fund)' — uploadDate 2026-08-10T09:00:19-07:00, STALE.",
-      "cgchannel.com — 'Nekki releases Cascadeur 2026.2 with animation layers' (2026-08-09) and 'Autodesk is discontinuing Mudbox' (already run 08-15), STALE.",
-      "engineering.com — 'PTC adds natural language tools for Onshape CAD automation' (2026-08-14) and 'Aura, Leo and Marie on 3DExperience' (2026-07-28), STALE.",
-      "develop3d.com — 'Onshape FeatureScript MCP lets users build custom features fast' (2026-08-13), STALE — the Engineering.com Onshape piece (08-19) covers the same launch inside the window.",
-      "smashingmagazine.com — newest post is 'New EU Guidelines For AI Labelling' (2026-08-13), STALE. No Smashing item inside the 72h window.",
-      "fxguide.com — newest AI item 'Impossible Objects superpowers VFX production' (2026-08-11), STALE.",
-      "blogs.nvidia.com — newest post 2026-08-17 is 'Securing the Infrastructure of Intelligence' (infrastructure/security, dropped on relevance); no fresh Omniverse/creative-tool item.",
-      "uxdesign.cc — 'AI is lying to us, and nobody seems to care' (2026-08-19T22:02:14Z) is timestamped ~2 minutes AFTER now_iso and uxdesign.cc is already at its 3-item cap; held back."
-    ],
-    "dropped_for_relevance": [
-      "venturebeat.com — 'VentureBeat names Rob Strechay as Lead Analyst' (exec move), '85% of companies burned by an AI mistake are racing to cut the humans' (org/layoff framing), 'Commerce AI is fragmenting', 'Enterprises are overpaying for simple AI queries / Snowflake gateway' (cost/infra) — AI-business noise, no design hook.",
-      "cio.com — 'Your AI bill just came due', 'CIOs earn AI reprieve but ROI pressure is surging', 'The AI leapfrog effect', 'AI inference is getting cheaper but your agents are getting more expensive' — pure enterprise finance/governance.",
-      "engineering.com — 'Bentley names Andy Rahden CRO' (exec move), 'PaleBlueDot AI gains NVIDIA Exemplar Cloud status', 'ARM Institute calls for accelerated AI in defense production' — no design workflow impact.",
-      "engadget.com — Pixel 11 reviews, Meta AI Mac app, Alexa+ on Fire TV, Waymo/drone/Flock items — consumer gadget and policy news, not design craft.",
-      "youtube.com — Fireship 'The summer Math fell to the machines' and Two Minute Papers 'DeepSeek Just Made Closed AI Look Ridiculous' (both 2026-08-19, FRESH) — AI-research commentary with no designer-workflow hook.",
-      "vercel.com — 08-17~08-19 changelog (Vercel for Slack, Fish Audio on AI Gateway, Algolia marketplace, GLM 5.3 on AI Gateway) — infra/integration plumbing, and Vercel changelog items are on the avoid_recent_topics list."
-    ],
-    "expansion": "First keyword pass (planner's 31 site-scoped queries) returned mostly evergreen/stale pages because search-engine recency is poor on these domains. Recovered by going straight to publisher RSS/Atom feeds for creativebloq, 80.lv, cgchannel, smashingmagazine, css-tricks, uploadvr, roadtovr, venturebeat, fastcompany, uxdesign.cc, engineering.com, develop3d, all3dp, logrocket, dev.to (tags design/ux/figma), figma.com, vercel.com, builder.io, fxguide, blogs.nvidia.com, cio.com, eleken.co, keyshot.com, engadget, plus YouTube channel Atom feeds resolved from @handles (Fireship, DesignCourse, Figma, Google Design, Matt Wolfe, Two Minute Papers). Expanded terms beyond the pool: Gaussian splatting, retopology, FeatureScript/MCP for CAD, agent identity design, generative UI, prototyping cost, spatial headset launch.",
-    "empty_sources": "figma.com/blog, builder.io/blog, all3dp.com, fastcompany.com and instagram.com returned no usable feed or were login/bot-walled; no candidates contributed. Instagram yielded nothing verifiable, as expected."
-  }
+  ]
 }
