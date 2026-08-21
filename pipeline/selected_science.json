@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "section": "science",
   "count": 5,
   "picks": [
@@ -8,99 +8,133 @@
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Scientists have designed a functioning virus from scratch using AI. What you need to know",
-      "url": "https://medicalxpress.com/news/2026-08-scientists-functioning-virus-ai.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-08-16T21:40:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/bacteriophages.jpg",
-      "excerpt": "AI genome-design models produced hundreds of novel bacteriophage variants; of 285 synthesized designs, 16 were functioning viruses able to kill drug-resistant bacteria. It is the first demonstration that a generative model can write a viable genome end to end — and it has biosecurity researchers arguing about screening safeguards.",
-      "rationale": "First end-to-end generative design of a working genome — the highest-consequence AI4Science result in the window, with an immediate biosecurity-screening debate attached."
+      "title": "Seeing the unseen: A new tool visualizes hidden structures in complex biological data",
+      "url": "https://phys.org/news/2026-08-unseen-tool-visualizes-hidden-complex.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/seeing-the-unseen-a-ne.jpg",
+      "excerpt": "University of Basel researchers released Bonsai, which renders high-dimensional single-cell data as branching trees instead of flat 2D maps, preserving true distances between cells. The tool surfaced a previously unknown natural killer cell subtype in human blood.",
+      "rationale": "A released visualization tool that proves a representation choice — trees over flattened 2D maps — can reveal a cell type nobody had seen; the rare science story that is really about design of the view."
     },
     {
       "rank": 2,
       "tool": "Science",
       "accent": "#0070f3",
-      "motif": "cube",
-      "title": "Prominent AI startup rolls out virtual cell model in race to speed up science",
-      "url": "https://www.statnews.com/2026/08/18/david-baker-genbio-ai-new-virtual-model-unveiled-aido-cell/",
-      "source": "STAT",
-      "published_iso": "2026-08-18T13:29:43Z",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIDO-Cell-image-1-645x645.jpg",
-      "excerpt": "Palo Alto's GenBio AI, with Nobel laureate David Baker involved, unveiled AIDO Cell — a 'Google Earth for the human cell' that predicts how a whole cell's molecular machinery shifts when you knock out a gene or add a drug, extending the AlphaFold idea from single proteins to entire cells.",
-      "rationale": "A concrete model release, not a think piece: AlphaFold's scope jumps from one protein to a whole cell, with a Nobel laureate's name on it."
+      "motif": "frame",
+      "title": "We still don't know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-08-18T00:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg",
+      "excerpt": "A new independent research project, the AI Observatory, aggregates consented real conversations with Claude and Gemini to build a public picture of AI use. It found nearly half of conversations are non-work — health, relationships, sensitive topics — categories that vendor usage reports largely omit.",
+      "rationale": "First vendor-independent usage dataset: if half of real AI use is personal rather than work, every product assumption built on vendor usage reports is mis-aimed."
     },
     {
       "rank": 3,
       "tool": "Science",
       "accent": "#7928ca",
-      "motif": "frame",
-      "title": "Combining AI with experiments to solve real-world materials problems",
-      "url": "https://www.chemistryworld.com/news/combining-ai-with-experiments-to-solve-real-world-materials-problems/4024017.article",
-      "source": "Chemistry World",
-      "published_iso": "2026-08-12T13:58:00Z",
-      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/135x135/6/0/2/550602_aron_headshot_440295.jpg",
-      "excerpt": "CuspAI has assembled a 45-organisation 'Materials Foundry' to actually synthesize and test what its models predict — its Kemira collaboration proposed 20 novel MOFs for stripping PFAS from water in six months instead of years. The team's point: prediction is now the easy part; synthesis and manufacturability are the bottleneck.",
-      "rationale": "The rare AI-materials story with a shipped result and a hard lesson — prediction is cheap now, and the bottleneck has moved to making the thing."
+      "motif": "cube",
+      "title": "AI has created a shadow medical system",
+      "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/",
+      "source": "STAT News",
+      "published_iso": "2026-08-19T00:00:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_159757760-645x645.jpeg",
+      "excerpt": "More than 40 million Americans ask ChatGPT a health question every day, almost entirely outside clinical settings. Paired with direct-to-consumer labs and AI-generated prescriptions, that has quietly assembled a parallel care system with no physician oversight or accountability.",
+      "rationale": "Documents an entire care system that assembled itself out of consumer AI products — the clearest case study yet of interface decisions becoming public-health infrastructure."
     },
     {
       "rank": 4,
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "title": "Are We Thinking Correctly About AI Intelligence?",
-      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
-      "source": "Quanta Magazine",
-      "published_iso": "2026-08-20T14:04:40Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Lede-LOGO-scaled.webp",
-      "excerpt": "Melanie Mitchell argues on Quanta's 'The Joy of Why' that large models are an 'alien intelligence' whose mechanisms differ fundamentally from human cognition, and that we should borrow psychology's experimental methods rather than benchmarks to measure what machines actually understand.",
-      "rationale": "Mitchell's case for replacing benchmarks with psychology-style experiments changes how you judge whether a model actually understands your task."
+      "title": "AI-designed \"intrabodies\" could unlock new treatments for Alzheimer's, Parkinson's and MND",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+      "source": "ScienceDaily (University of Essex)",
+      "published_iso": "2026-08-19T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
+      "excerpt": "University of Essex researchers used AI to redesign ordinary antibodies into tiny fragments that stay stable and functional inside living human cells, targeting disease proteins that conventional antibodies can't reach. Published in Nature Communications, the redesigned molecules will be released freely to other labs.",
+      "rationale": "AI protein design crossing into the cell interior — a peer-reviewed result with the designed molecules released free to other labs, so it compounds immediately."
     },
     {
       "rank": 5,
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "title": "More is different when AI agent populations work together, study suggests",
-      "url": "https://techxplore.com/news/2026-08-ai-agent-populations.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-08-19T16:40:07Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/more-is-different-when.jpg",
-      "excerpt": "Identical models reach opposite collective conclusions depending purely on how many of them are interacting, the study finds — meaning single-agent safety evaluation misses emergent behaviour that only appears above certain population thresholds.",
-      "rationale": "Directly actionable for anyone running multi-agent setups: the same model behaves differently at scale, so single-agent testing does not transfer."
+      "title": "Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset",
+      "url": "https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-21_18-38.png",
+      "excerpt": "Quantum X Labs reported that its AI-driven surface-code decoder improved accuracy on Google's public real-hardware dataset while having been trained purely on synthetic data. Transferring from simulation to physical qubits without hardware-specific retraining is the hard part of the problem.",
+      "rationale": "Synthetic-only training that survives contact with real qubits is the sim-to-real result quantum error correction has been waiting for, and it is freshest item in the pool."
     }
   ],
   "dedup_notes": {
-    "history_days_checked": ["2026-08-11", "2026-08-12", "2026-08-14", "2026-08-15", "2026-08-19", "2026-08-20"],
-    "published_cards_checked": 30,
+    "history_days_checked": ["2026-08-12", "2026-08-14", "2026-08-15", "2026-08-19", "2026-08-20", "2026-08-21"],
+    "published_urls_section_entries_checked": 140,
     "dropped_as_duplicate": [],
+    "content_dup_checks_cleared": [
+      {
+        "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+        "checked_against": "https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html (published 08-14)",
+        "verdict": "distinct — different institution, different paper (Essex intrabodies in Nature Communications vs general AI-antibody drug discovery piece)"
+      },
+      {
+        "url": "https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/",
+        "checked_against": "research.google 'towards a quantum computer that learns from its errors' (07-30) and TQI Google error-learning study (07-14)",
+        "verdict": "distinct — different company (Quantum X Labs), different result (synthetic-trained decoder evaluated on Google's public dataset)"
+      },
+      {
+        "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/",
+        "checked_against": "statnews AIDO Cell (published 08-21), medicalxpress AI mental health Q&A (08-11)",
+        "verdict": "distinct story and topic; only one STAT card in the final five"
+      }
+    ],
     "deprioritized_for_topic_repeat": [
       {
-        "url": "https://www.eurekalert.org/news-releases/1140758",
-        "reason": "Autonomous science agents already covered 08-11 (MIT TR 'AI agents for science'), 08-12 (Google Science One) and 08-20 (recursive self-improvement); distinct study, but theme is saturated. Also og_image null."
+        "url": "https://phys.org/news/2026-08-complex-odors-easier-machine.html",
+        "reason": "Strong item, but AI-olfaction already ran 07-20 (phys.org 'AI aromatic scent compounds'); also would make a second Phys.org card."
       },
       {
-        "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
-        "reason": "Neuromorphic/low-power compute already covered 08-15 (cerebellum memtransistor) and 08-19 (DNA memristor); survey-format, lower novelty."
+        "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
+        "reason": "AI-math-claim-inflation is saturated in this section: SciAm OpenAI math misconduct (08-12), 'Can AI make mathematics more human' (08-15), Quanta Erdos (08-06), Live Science Claude math puzzle (07-17)."
       },
       {
-        "url": "https://www.universetoday.com/articles/the-telescope-that-points-itself",
-        "reason": "Distinct story, but same outlet + AI-in-astronomy repeat of 08-12 Universe Today quasar-lens item; oldest item in pool (08-10)."
+        "url": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons/",
+        "reason": "Primarily a grant/funding announcement (sources.json science note says drop AI-industry funding noise), and adjacent to the 08-21 AI-designed-virus card."
       },
       {
         "url": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/",
-        "reason": "Strong design-relevance, but newscientist.com blocks fetching (og_image null, body unreadable downstream), so the card would ship thin."
+        "reason": "Design-relevant, but New Scientist blocks our fetcher: og_image null and body unreadable downstream, so the card would ship thin. Same call as 08-21."
       },
       {
-        "url": "https://www.genengnews.com/topics/artificial-intelligence/protecting-scientific-intent-in-ai-enabled-labs-by-not-letting-ai-set-the-mission/",
-        "reason": "Opinion piece overlapping the saturated agents-in-the-lab theme."
+        "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/",
+        "reason": "og_image null (fetcher blocked); provenance/watermarking also skews policy rather than scientific method."
+      },
+      {
+        "url": "https://www.genengnews.com/topics/artificial-intelligence/from-models-to-agents-the-next-phase-of-ai-adoption-in-molecular-discovery/",
+        "reason": "Vendor-anchored thought piece (NYB.AI Vecura) on the saturated agents-in-the-lab theme (MIT TR 08-11, Google Science One 08-12, techxplore 08-21)."
+      },
+      {
+        "url": "https://www.livescience.com/technology/artificial-intelligence/elon-musk-and-sam-altman-claim-weve-reached-the-ai-singularity-but-how-would-we-even-know-that-happened",
+        "reason": "Commentary on executive rhetoric with no new result; og_image null."
+      },
+      {
+        "url": "https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html",
+        "reason": "Solid high-throughput screening result, but same 'AI screens a huge candidate space' shape as recent materials cards (chemistryworld 08-21, phys.org battery/catalyst items) and would be a second Phys.org card."
+      },
+      {
+        "url": "https://www.scientificamerican.com/podcast/episode/how-generative-ai-is-reshaping-creativity-and-what-it-means-for-artists/",
+        "reason": "Podcast essay on authorship — evergreen rather than a new result."
       }
     ]
   },
   "diversity_check": {
-    "outlets": ["Medical Xpress", "STAT", "Chemistry World", "Quanta Magazine", "Tech Xplore"],
+    "outlets": ["Phys.org", "MIT Technology Review", "STAT News", "ScienceDaily (University of Essex)", "The Quantum Insider"],
     "max_per_outlet": 1,
     "distinct_outlets": 5,
-    "topic_spread": ["synthetic biology / genome design", "cell biology foundation model", "materials chemistry", "cognitive science / AI evaluation", "multi-agent systems"],
-    "accents_unique": true
+    "topic_spread": ["single-cell data visualization", "AI usage research / independent observatory", "health systems & consumer AI", "protein design / neurodegenerative disease", "quantum error correction"],
+    "accents_unique": true,
+    "unique_urls": true
   }
 }

@@ -1,0 +1,118 @@
+{
+  "date": "2026-08-22",
+  "section": "movies",
+  "window_hours": 336,
+  "now_iso": "2026-08-21T22:00:26Z",
+  "items": [
+    {
+      "url": "https://www.awn.com/news/ltx-releases-open-weights-world-model-ltx-25",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-08-21T12:37:13+00:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ltx1-1280.jpg?itok=1swlnJRm",
+      "excerpt": "LTX released LTX-2.5, an open-weights video world model studios can run on their own hardware, keeping IP and prompts in-house. It handles ACES HDR end to end and renders multishot sequences as a single output; available now via Hugging Face, the LTX API and ComfyUI."
+    },
+    {
+      "url": "https://www.redsharknews.com/adobe-firefly-ai-audio-tools-generally-available",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-08-21T07:53:00+00:00",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20firefly%20audio.jpg",
+      "excerpt": "Adobe made three Firefly AI audio tools generally available, letting editors generate music, voiceover and custom sound effects without leaving the app, with all generated music licensed for commercial use. Note: adjacent to the 8/21 Firefly card (postPerspective) — treat as possible dupe of that story.",
+      "dupe_risk": "Same Firefly release family as the card published 2026-08-21; different outlet and audio-specific angle."
+    },
+    {
+      "url": "https://beforesandafters.com/2026/08/21/accuface-2-grand-launch-professional-grade-facial-mocap-for-cc5-hd-characters/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-08-20T23:25:57+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/AccuFACE-2_1280x720.jpg",
+      "excerpt": "Reallusion launched AccuFACE 2, an AI-driven markerless facial mocap system aimed at production-grade performance capture for CC5 HD characters from ordinary webcam or iPhone capture. It targets small teams doing character animation without a mocap stage."
+    },
+    {
+      "url": "https://postperspective.com/profuzs-subtitlenext-to-feature-expanded-transcriptions-imscr-support/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-08-20T18:03:00+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/SubtitleNEXTScreenshot4-copy-624x416.jpg",
+      "excerpt": "Profuz Digital's SubtitleNext adds expanded AI transcription integrations with AssemblyAI, Deepgram, ElevenLabs and Whisper, plus IMSCR support and batch processing for subtitle and audio-description work. It points at AI moving into routine localization pipelines rather than hero shots."
+    },
+    {
+      "url": "https://www.animationmagazine.net/2026/08/fillmmaker-ai-exec-verena-puhm-launches-matriarch-prodco-with-animation-projects/",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-08-14T17:30:26+00:00",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Free-Leonard-Peltier-2025.jpg",
+      "excerpt": "Filmmaker and AI executive Verena Puhm launched Matriarch, a production company building animation and documentary projects around hybrid human/AI pipelines. Lower priority: closer to a company-launch story than a craft or tooling shift."
+    },
+    {
+      "url": "https://nofilmschool.com/roku-ai-channel",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-08-12T19:02:05+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67608628&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+      "excerpt": "Roku launched Fairground AI, a 24/7 free channel programmed entirely with AI-generated narrative shorts and commercials. It's the first mainstream US distribution slot built purely for synthetic video, and a live read on whether audiences will sit with it."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4IliQGaQwJ8",
+      "source": "Runway",
+      "category": "movies",
+      "published_iso": "2026-08-21T20:47:21+00:00",
+      "og_image": "https://i.ytimg.com/vi/4IliQGaQwJ8/maxresdefault.jpg",
+      "excerpt": "Runway introduced Ruby, a model that generates 16-bit HDR ProRes and EXR sequences directly, or converts existing clips and generations into them. It is model-agnostic — compatible with Gen-4.5, Seedance 2.5, MiniMax H3 and other video models — so generative shots can enter a color-managed grade/comp pipeline instead of stopping at 8-bit delivery files.",
+      "dupe_risk": "low — brand-new launch (2026-08-21), not yet covered by any trade outlet; adjacent to but distinct from the already-selected LTX-2.5 open-weights story (that is a generator with ACES HDR output, Ruby is an HDR conversion/output layer on top of any model)"
+    },
+    {
+      "url": "https://beforesandafters.com/2026/08/21/new-scientific-and-technical-awards-investigations-announced/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-08-20T22:53:43+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/02/scitechs.jpg",
+      "excerpt": "The Academy opened six Scientific and Technical Award investigations for 2026, including 'solvers for markerless facial capture' and 'audio spectrum segmentation and editing software' — two categories that are now effectively ML-driven — alongside artist-friendly large-scale water sims and direct-manipulation CG character rigging. Entries close September 8, with the awards presented April 20, 2027.",
+      "dupe_risk": "medium — same outlet as the selected AccuFACE 2 card and thematically adjacent (markerless facial capture); the story itself is a separate Academy announcement"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "published_iso": "2026-08-18T19:28:05+00:00",
+      "og_image": "https://i.ytimg.com/vi/qv0s1_coX50/maxresdefault.jpg",
+      "excerpt": "Curious Refuge walks through the current crop of free AI video generators and how far the no-cost tier has moved for shot work, with a companion blog post listing every tool tested. A practical read on which parts of an AI-film workflow no longer need a subscription.",
+      "dupe_risk": "medium — same channel published a tools-roundup video on 2026-08-14 that was already used; different tools and a free-tier angle"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YQTduCzNoqw",
+      "source": "Theoretically Media",
+      "category": "movies",
+      "published_iso": "2026-08-17T21:57:07+00:00",
+      "og_image": "https://i.ytimg.com/vi/YQTduCzNoqw/maxresdefault.jpg",
+      "excerpt": "Two unannounced AI video models appeared under codenames in public arenas, and Theoretically Media tests both alongside a newly released free cinematic reference library. Useful early signal on what the next generation of text-to-video will do for shot planning.",
+      "dupe_risk": "medium — this channel's 2026-08-20 video was already published; back-up item only"
+    }
+  ],
+  "notes": {
+    "dropped_stale_examples": [
+      "cartoonbrew.com Ed Catmull / Higgsfield GenAI jury (2026-08-05) — STALE",
+      "animationmagazine.net 'The Best of SIGGRAPH 2026' (2026-08-07T18:53Z) — STALE by ~3h",
+      "awn.com Higgsfield 'Kök Börü' hybrid AI pipeline (2026-07-23) — STALE",
+      "fxguide Foundry SmartRoto AI roto (2026-07-16) — STALE",
+      "redsharknews SAG-AFTRA AI deal (2026-06-08), Aiarty upscaler (2026-06-29), Adobe creative agent (2026-06-18) — STALE"
+    ],
+    "dropped_duplicates": [
+      "postperspective.com Adobe Firefly updates — exact URL already published as a card on 2026-08-21",
+      "nofilmschool.com/eddie-ai-9b (2026-08-20) — same story as the 2026-08-21 CineD Eddie AI card",
+      "engadget.com/2238384 ByteDance–MPA — same story as the THR item kept above"
+    ],
+    "dropped_as_business_noise": [
+      "variety.com AFM House innovation hub (market/business)",
+      "variety.com COL AI Studios distribution launch"
+    ],
+    "source_access": "Variety / THR / Deadline / IndieWire block WebFetch via tollbit (307→402) and awn.com / animationmagazine.net return 403; published times and og:image for those were verified directly from the page HTML and their RSS pubDate. YouTube channel pages returned empty, so no social candidates this run.",
+    "coverage": "Section AI news is thin this window — swept variety, hollywoodreporter, deadline, indiewire, screendaily, nofilmschool, fxguide, beforesandafters, vfxvoice, postperspective, provideocoalition, redsharknews, cartoonbrew, awn, animationmagazine, motionographer, studiodaily, theasc, 80.lv, engadget via search + RSS/index scans; 11 fresh on-topic items across 9 outlets is what the beat produced."
+  },
+  "dedup": {
+    "dropped": 5,
+    "kept": 6,
+    "against_days": 5
+  }
+}

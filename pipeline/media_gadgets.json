@@ -1,30 +1,31 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
+  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-hilight",
+      "id": "gadgets-airpods-camera-stills",
       "type": "image",
-      "src": "pipeline/media/gadgets-hilight.jpg"
+      "src": "pipeline/media/gadgets-airpods-camera-stills.jpg"
     },
     {
-      "id": "gadgets-pixelwatch5-breathing",
+      "id": "gadgets-rayneo-io-gt-split",
       "type": "image",
-      "src": "pipeline/media/gadgets-pixelwatch5-breathing.jpg"
+      "src": "pipeline/media/gadgets-rayneo-io-gt-split.jpg"
     },
     {
-      "id": "gadgets-xreal-aura",
+      "id": "gadgets-meta-camera-hardware-lock",
       "type": "image",
-      "src": "pipeline/media/gadgets-xreal-aura.jpg"
+      "src": "pipeline/media/gadgets-meta-camera-hardware-lock.jpg"
     },
     {
-      "id": "gadgets-homepad-faces",
+      "id": "gadgets-oura-sleep-lawsuit",
       "type": "image",
-      "src": "pipeline/media/gadgets-homepad-faces.jpg"
+      "src": "pipeline/media/gadgets-oura-sleep-lawsuit.jpg"
     },
     {
-      "id": "gadgets-photo-body-composition",
+      "id": "gadgets-gemini-home-voice-kelvin",
       "type": "image",
-      "src": "pipeline/media/gadgets-photo-body-composition.jpg"
+      "src": "pipeline/media/gadgets-gemini-home-voice-kelvin.jpg"
     }
   ]
 }

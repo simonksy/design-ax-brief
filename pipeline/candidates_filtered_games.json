@@ -1,116 +1,100 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "section": "games",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "source": "TechCrunch",
+      "url": "https://forums.unrealengine.com/t/unreal-mcp-is-now-available-in-uefn/2745278",
+      "source": "Unreal Engine (Epic Developer Community)",
       "category": "games",
-      "published_iso": "2026-08-20T16:07:26Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675",
-      "excerpt": "Meta is rolling out Pocket to US users after a Brazil test: an app where anyone prompts small interactive games — 'gizmos' that respond to touch, tilt and sound — into a scrollable, remixable feed. Text-to-game creation as a consumer social format, with the acquired Gizmo app being shut down in its favour."
+      "published_iso": "2026-08-20T13:00:00Z",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/e/a/8eabe8489511743e542c1ded7492cff4cede83ea.jpeg",
+      "excerpt": "Epic shipped Unreal MCP — the Model Context Protocol plugin introduced in UE 5.8 — inside UEFN, embedding an MCP server in the editor so agentic coding tools like Claude Code, Codex or Cursor can write and compile Verse, place and configure devices, and run play sessions with the creator."
     },
     {
-      "url": "https://kotaku.com/new-sony-patent-discusses-the-possibility-of-ai-that-grinds-games-for-you-and-lets-you-sell-your-player-data-to-train-it-2000725969",
-      "source": "Kotaku",
+      "url": "https://forums.unrealengine.com/t/fortnite-ecosystem-v42-00/2745257",
+      "source": "Unreal Engine (Epic Developer Community)",
       "category": "games",
-      "published_iso": "2026-08-20T12:31:51Z",
-      "og_image": "https://kotaku.com/app/uploads/2024/09/9cf21c9511f2370f1f68183d8979a9f1-1200x675.jpg",
-      "excerpt": "A newly surfaced Sony patent describes an AI agent trained on your own play data that can grind or replay sections for you — and a marketplace where players could sell that behavioural data to train it. It reframes player modelling from a tuning tool into a designed, monetised game system."
+      "published_iso": "2026-08-20T11:32:00Z",
+      "og_image": "",
+      "excerpt": "The Fortnite Ecosystem v42.00 release notes bundle Unreal MCP support for agentic coding tools alongside touch gestures, an experimental ability framework and new environment assets — putting AI-assisted authoring into the default UEFN creator workflow."
     },
     {
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-leaks-prove-ai-disinformation-is-more-rampant-than-you-think/",
-      "source": "GamesRadar+",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
       "category": "games",
-      "published_iso": "2026-08-20T15:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/YMBDnGam47CjG55qUtcNNA-2560-80.jpg",
-      "excerpt": "The GTA 6 leak wave has been flooded with convincing AI-generated fakes, to the point that players can no longer tell real footage from synthetic. A working problem for anyone shipping marketing assets: authenticity of a studio's own visuals is now contested by default."
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://lh3.googleusercontent.com/3-fa8dN6qE5zOqabv7DWbya-NaanaBbogE0CR7nURBOCYbUReRvXpk-wXVVWc-rH54_I9h0dAy_j1p_eglh-ozRny_GqvCN4nfG06HbEqq96dBhRoA=w1440-h810-n-nu",
+      "excerpt": "DeepMind traces 15 years of game AI research from Atari agents to persistent online worlds, and announces a partnership with Fenris Creations to prototype AI agents inside the EVE Universe — a bid to turn research agents into shipped gameplay design."
     },
     {
-      "url": "https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify",
-      "source": "Eurogamer",
+      "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+      "source": "Game Developer",
       "category": "games",
-      "published_iso": "2026-08-20T14:48:07Z",
-      "og_image": "https://assetsio.gnwcdn.com/final-fantasy-crystal-chronicles_WngFDhT.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Final Fantasy: Crystal Chronicles composer Kumi Tanioka says an AI-generated album published under her name on Spotify is not hers, and her label Digital Sonic Design has issued a statement. Game credits and artist identity are leaking into generative distribution pipelines with no verification layer."
-    },
-    {
-      "url": "https://www.4gamer.net/games/915/G091533/20260819011/",
-      "source": "4Gamer",
-      "category": "games",
-      "published_iso": "2026-08-20T07:30:00+09:00",
-      "og_image": "https://www.4gamer.net/games/915/G091533/20260819011/SS/001.jpg",
-      "excerpt": "Blue Archive creator Kim Yong-ha's packed BIC 2026 keynote asked how a game becomes a 'world', arguing that in the AI era the one thing only humans hold is the aesthetic judgement that decides what belongs in that world. Includes a short interview alongside the talk."
-    },
-    {
-      "url": "https://www.gamespot.com/articles/ex-playstation-boss-says-game-development-will-have-a-tough-future-because-of-ai/",
-      "source": "GameSpot",
-      "category": "games",
-      "published_iso": "2026-08-19T16:01:23Z",
-      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/08/Pragmata-Yoshida.jpg",
-      "excerpt": "Former PlayStation Studios boss Shuhei Yoshida says he is both fascinated and worried by AI's spread through development, and expects a 'tough future' for the craft. A veteran read on what AI adoption does to the pipeline rather than to the balance sheet."
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/take-twos-former-ai-guy-is-in-a-twist-skeptical-about-ai-now-the-guy-should-be-selling-you-the-gold-if-hes-actually-got-the-gold/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-08-19T14:24:49Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/U8C4YGRTeZ687xyDQ2MbRV-1358-80.jpg",
-      "excerpt": "Take-Two's former AI lead has turned skeptic, arguing that if the tools really did what vendors claim, nobody would be selling them: 'they would not be talking about it.' An insider's deflation of the game-AI tooling pitch."
-    },
-    {
-      "url": "https://www.4gamer.net/games/029/G102959/20260819019/",
-      "source": "4Gamer",
-      "category": "games",
-      "published_iso": "2026-08-19T14:55:10+09:00",
-      "og_image": "https://www.4gamer.net/games/029/G102959/20260819019/SS/001.jpg",
-      "excerpt": "SpiralAI has postponed RyzaChat, a Koei Tecmo-licensed app that lets players co-write a summer story with an LLM-driven Ryza, to reinforce server capacity. A licensed AI-character product hitting the runtime-cost wall before launch."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/the-backlash-against-gen-ai-in-video-games-proves-voting-with-your-wallet-works/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-08-16T14:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/koWvQAdXykkMkFcsn7wZW8-1920-80.jpg",
-      "excerpt": "With anti-AI clauses now appearing in standard game contracts and studios pulling gen-AI assets after review bombs, GamesRadar argues player backlash is measurably changing what publishers let teams ship. The constraint has moved from ethics debate into production requirements."
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/the-bigwigs-who-want-ai-generated-npcs-and-writing-think-youre-too-dumb-to-appreciate-a-good-story-dont-prove-them-right/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-08-15T14:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HaiiGDVUVLvrhKqM66eRof-1920-80.jpg",
-      "excerpt": "An argument against the executive case for generative NPCs and AI-written dialogue: the value of game writing sits in authored detail that infinite generated lines cannot fake. 'The delight's in the details.'"
+      "published_iso": "2026-08-21T14:45:37Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?width=1400&auto=webp&quality=80&disable=upscale",
+      "excerpt": "Former Maxis engineer David 'Rez' Graham and ex-Take-Two AI head Luke Dicken unpack what actually matters about AI in game development beyond the hype — separating classic game AI craft from generative tooling and its effect on the nature of the work."
     },
     {
       "url": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
       "source": "Game Developer",
       "category": "games",
       "published_iso": "2026-08-12T14:42:54Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6e9ff417175153e6/6a7c8a66f99fa04965db827a/THE_ALTERS_Announcement_KV_FINAL_nologo.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "A survey of 100 Gamescom Dev Conference speakers finds developers expect generative AI to reshape roles and team sizes within three years, while remaining hesitant and split on using it. Org-chart consequences, stated by the people who will live with them."
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6e9ff417175153e6/6a7c8a66f99fa04965db827a/THE_ALTERS_Announcement_KV_FINAL_nologo.jpg",
+      "excerpt": "A Gamescom dev-speaker survey finds 83% of developers expect generative AI to change team productivity or structure within three years, with 36% predicting reshaped roles rather than smaller teams and 30% wanting AI kept out of production."
     },
     {
-      "url": "https://www.youtube.com/watch?v=acGWIJ1hIlM",
-      "source": "Unreal Engine (YouTube)",
-      "category": "social",
-      "published_iso": "2026-08-18T14:36:29Z",
-      "og_image": "https://i.ytimg.com/vi/acGWIJ1hIlM/maxresdefault.jpg",
-      "excerpt": "Unreal MCP is now available in Unreal Editor for Fortnite. UEFN evangelist Magnus Enebakk walks through Model Context Protocol in UEFN and how agentic coding tools can drive island creation directly inside the editor."
+      "url": "https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-08-13T14:31:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltef068dcaa36e8c54/6a7c802c08084de2fdbbdab8/ss_24a50290ce0be6b7c830995615485ef9669d276a.1920x1080.jpg",
+      "excerpt": "Saber Interactive CEO Matt Karch apologized to former lead writer Stella Sacco after she said she was 'replaced with ChatGPT' mid-production on Rideshare 'Stimulator'; the studio committed to adding an AI disclosure to the game's Steam page."
     },
     {
-      "url": "https://www.youtube.com/watch?v=htV8urYBcSo",
-      "source": "Unity (YouTube)",
-      "category": "social",
-      "published_iso": "2026-08-12T14:06:28Z",
-      "og_image": "https://i.ytimg.com/vi/htV8urYBcSo/maxresdefault.jpg",
-      "excerpt": "Unity ships a CLI installable in one terminal command, with a Pipeline package that 'opens the Editor to the outside world' — listing commands, managing Play mode, running tests and executing C# in a live Editor instance. The control surface external agents and scripts need."
+      "url": "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-08-21T20:00:03Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/Screenshot-2026-08-21-at-3.29.07%20PM.jpg",
+      "excerpt": "System 3's James Pond Legacy trailer and character artwork drew accusations of generative-AI use — melted details, inconsistent props — even as the studio insists 'no generative AI was used,' another flashpoint in how players now read game art."
+    },
+    {
+      "url": "https://aftermath.site/james-pond-ai/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-08-21T18:20:00Z",
+      "og_image": "",
+      "excerpt": "Aftermath walks through the visual tells in the James Pond Legacy cover and trailer that read as AI-generated, against System 3's denial — a case study in how audiences now audit promotional art frame by frame."
+    },
+    {
+      "url": "https://aftermath.site/1666-amsterdam-ai-game/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-08-14T18:03:00Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/08/Screenshot-2026-08-14-092127.png",
+      "excerpt": "Patrice Desilets defends AI-generated imagery in 1666: Amsterdam's reveal, arguing 'I can ask the AI to give me 75 different variations' at a speed human illustrators couldn't match — a blunt statement of the iteration-vs-craft tradeoff."
+    },
+    {
+      "url": "https://gamesbeat.com/skillprint-launches-signal-benchmark-to-use-ai-to-move-players-to-better-mental-state/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-08-19T16:55:00Z",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Skillprint-Signal-AI-Benchmark.jpg",
+      "excerpt": "Skillprint's Signal Benchmark scores how well AI models can shift players toward a target mental state, adjusting game parameters in real time — framing adaptive difficulty and pacing as a measurable, model-driven design layer."
+    },
+    {
+      "url": "https://gamesbeat.com/tom-clancys-rainbow-six-siege-cuts-critical-toxic-voice-chat-by-50-with-modulates-toxmod/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-08-19T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Ubisoft reports Rainbow Six Siege cut critical toxic voice chat by 50% using Modulate's ToxMod, with roughly 800,000 hours of voice audio analyzed monthly — AI moderation as a shipped part of live-service experience design."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 13,
+    "kept": 11,
     "against_days": 5
   }
 }

@@ -1,121 +1,88 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "section": "movies",
-  "count": 5,
   "cards": [
     {
-      "id": "movies-comfyui-mcp",
+      "id": "movies-ltx-2-5",
       "eyebrow": "AI NEWS",
-      "headline": "ComfyUI에 공식 MCP 서버\n노드 그래프를 에이전트가 짠다",
-      "body": "공식 MCP 서버가 붙었다. 노드 배선은 에이전트가 맡고 연출은 사람 몫으로 남는다.",
-      "mini_headline": "ComfyUI 공식 MCP",
+      "headline": "LTX-2.5, 오픈웨이트 영상 월드모델\n스튜디오 자체 하드웨어에 올라간다",
+      "body": "LTX가 내놓은 LTX-2.5는 오픈웨이트로 ACES HDR과 멀티샷 시퀀스를 한 번에 처리해 스튜디오 자체 서버에 바로 올릴 수 있다.",
+      "mini_headline": "LTX-2.5 오픈웨이트",
       "tool": "Movies",
-      "source": "Theoretically Media (YouTube)",
-      "url": "https://www.youtube.com/watch?v=ghCKziHvGXo",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/ltx-releases-open-weights-world-model-ltx-25",
       "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "ghCKziHvGXo"
-          },
-          {
-            "t": "p",
-            "x": "ComfyUI가 공식 MCP를 내놨다. 클로드나 코덱스가 ComfyUI 워크플로를 직접 짜고 돌리고 고쳐준다. 노드 배선은 모델이 맡고, 만드는 사람은 창작 쪽 절반만 쥐고 있으면 된다."
-          },
-          {
-            "t": "p",
-            "x": "영상을 만든 팀은 자기 실력을 잘 쳐줘야 '컴피 원시인' 수준이라고 깎아내린다. 그러면서도 ComfyUI를 생성 이미지·영상 판에서 가장 중요한 도구로 꼽는다. 무엇이든 만들 수 있는 대신 배우는 데 시간이 든다. 이걸 잘 다루는 사람들은 반은 아티스트, 반은 엔지니어 같은 머리를 쓴다는 게 그의 관찰이다. 이제 그 엔지니어 절반을 밖으로 넘길 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "준비물은 단출하다. 클로드 데스크톱이나 코덱스를 쓸 수 있는 ChatGPT 데스크톱, 그리고 ComfyUI 데스크톱 앱. 대신 에이전트가 내 컴퓨터를 만지는 상황을 받아들여야 한다. 머신은 웬만한 최신 PC나 맥이면 돌아가지만, 4090에서 5090 사이 엔비디아 카드를 단 PC 쪽이 덜 골치 아프다. 영상 속 시연은 5090에서 돌렸다. 장비가 없으면 Comfy Cloud를 쓰거나 RunPod에서 H100을 시간당 3.29달러에 빌리는 길도 있다."
-          },
-          {
-            "t": "p",
-            "x": "설치 설명은 허무할 만큼 짧다. 클로드에게 ComfyUI MCP를 깔아달라고, 커뮤니티 버전과 공식 버전 둘 다 깔아달라고 한 줄 치면 끝난다. 공식 MCP는 아직 베타라, 한동안 굴러온 커뮤니티 버전을 함께 두고 막힐 때 갈아 쓰라고 권한다."
-          },
-          {
-            "t": "p",
-            "x": "토큰은 아껴야 한다. 그는 값싼 모델을 서브 에이전트로 붙여 손발처럼 굴리고, 비싼 모델에는 감독만 맡긴다. 프롬프트를 바꾸거나 영상 길이를 124프레임에서 248프레임으로 늘리는 정도는 직접 손으로 하는 편이 낫다."
-          },
-          {
-            "t": "p",
-            "x": "실제로 클로드에게 이미지에서 영상으로 이어지는 워크플로를 통째로 짜라고 시켰더니 그래프가 나왔다. 생성에 204초, 3분 남짓 걸렸고 전부 로컬에서 돌아 비용은 한 푼도 들지 않았다. API 노드를 쓰면 Seedance 2.5나 Topaz 같은 폐쇄형 모델을 같은 그래프 안에 섞을 수도 있다. 이쪽은 로컬이 아니라 크레딧이 든다. 괜찮아 보이는 LoRA를 발견했을 때도 주소만 던져주면 알아서 깐다."
-          },
-          {
-            "t": "p",
-            "x": "그가 남긴 말은 단순하다. 오픈소스 영상 모델이 최신 상용 모델을 빠르게 따라잡는 중이고, 폐쇄형 플랫폼 비용은 계속 오른다. 로컬에서 해결되는 일이라면 로컬에서 하는 게 낫다. 진입 장벽 두 개 가운데 학습 곡선 쪽은 이 MCP로 일단 무너졌다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-firefly-audio",
-      "eyebrow": "AI NEWS",
-      "headline": "Firefly의 음악·음성·효과음 생성이\n베타를 벗고 정식 버전이 됐다",
-      "body": "어도비가 Firefly의 음악·음성·효과음 생성을 모두 정식 기능으로 돌렸다.",
-      "mini_headline": "Firefly 오디오 정식",
-      "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/adobe-firefly-updates-expanded-audio-tools-more-ai-models-free-ai-assistant/",
-      "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "어도비가 Firefly를 손봤다. 오디오 기능을 넓히고, 외부 AI 모델을 더 붙이고, Firefly AI 어시스턴트를 무료로도 쓸 수 있게 열었다."
-          },
-          {
-            "t": "p",
-            "x": "Generate Music, Generate Speech, Generate Sound Effects 세 가지가 정식 버전이 됐다. 영상과 소셜 콘텐츠, 광고, 단편, 튜토리얼, 팟캐스트 클립을 염두에 두고 만든 기능이다."
-          },
-          {
-            "t": "p",
-            "x": "Generate Music은 영상 길이와 분위기에 맞춰 곡을 새로 만든다. Generate Speech는 대본을 보이스오버로 바꾸는데, 어도비 자체 음성 모델과 ElevenLabs 중에 고를 수 있다. Generate Sound Effects는 화면 속 동작과 타이밍에 맞춰 효과음을 만든다."
+            "x": "LTX가 오픈웨이트 영상 월드모델 LTX-2.5를 공개했다. 대형 언어모델이 다음 단어를 예측하듯, 월드모델은 영상 속 다음 순간을 예측한다. 스튜디오는 이 모델을 자체 서버에 올려 영상과 지식재산을 밖으로 내보내지 않고, 자사 자료로 추가 학습까지 시킬 수 있다."
           },
           {
             "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/08/Adobe-Generate-Music-1.jpg",
-            "cap": "Adobe Generate Music"
+            "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ltx1-1280.jpg?itok=1swlnJRm",
+            "cap": "LTX-2.5"
           },
           {
             "t": "p",
-            "x": "어도비는 버클리 음대와 함께 진행한 최근 설문을 인용했다. \"응답자의 79.3%가 매일 또는 주 몇 차례 영상 콘텐츠를 올리고, 100%가 영상에 음악을 쓴다고 답했다.\" 걸림돌로는 \"43.2%가 법적·저작권 위험을, 38.9%가 라이선스 비용을\" 꼽았다."
+            "x": "핵심은 세 가지다. 멀티샷 시퀀스를 한 번에 렌더링하면서 인물과 배경, 목소리를 컷 사이에서도 일관되게 유지한다. ACES HDR을 읽고 쓰는 기능을 온전히 지원해 제작 파이프라인 전체에서 톤 범위를 지킨다. 자체 Gemma 4 언어 백본과 전용 프롬프트 강화기를 얹어 여러 피사체가 뒤엉킨 복잡한 프롬프트도 소화한다."
           },
           {
             "t": "p",
-            "x": "올해 초 베타로 선보인 Firefly AI 어시스턴트도 문턱을 낮췄다. Create Storyboard, Create Brand Kit 같은 기능이 들어 있고, 하루 생성량이 정해진 무료 체험이 열렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/08/Firefly-Creative-AI-Assistant-2x3-1.png",
-            "cap": "Firefly AI Assistant"
+            "x": "기술적으로는 Diffusion Fidelity Rendering 방식을 쓴다. 8배로 압축한 잠재공간에서 움직임과 구조를 만들고, 장면 복잡도와 가용 연산량에 맞춰 핵심 프레임 수를 조절해 고화질 키프레임을 세운다. 새 디코더는 압축 효율은 그대로 두고 고움직임 장면의 잡티를 줄였다."
           },
           {
             "t": "p",
-            "x": "Firefly 안에서 고를 수 있는 모델도 늘었다. 어도비와 구글, Kling AI, Luma AI, OpenAI, Runway 등의 모델이 올라와 있다. 가장 최근에 합류한 Gemini Omni Flash는 텍스트뿐 아니라 영상·오디오·이미지도 입력으로 받는다. 어도비는 이 모델로 Firefly 안에서 영상 콘셉트를 잡고 조금씩 고쳐 나갈 수 있다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "앞서 Runway Aleph 2.0과 Kling 3.0을 들인 데 이은 변화다. 여러 AI 모델과 창작 도구를 Firefly 한곳에 모아두면 앱이나 구독을 갈아타지 않고도 작업마다 다른 모델을 골라 쓴다는 게 어도비 쪽 설명이다."
+            "x": "허깅페이스와 LTX API, ComfyUI를 통해 바로 쓸 수 있다. LTX 공동창업자이자 CEO 지브 파르브만은 \"월드모델은 대형 언어모델이 겪어본 적 없는 문제, 즉 시간이 흘러도 움직임과 공간, 소리를 일관되게 유지하는 문제와 씨름한다\"고 말했다. 누적 다운로드는 3300만 건을 넘겼고 영화 제작과 로보틱스, 실시간 렌더링 현장에 이미 쓰이고 있으며, 파트너로는 Asteria와 ComfyUI, Markov Robotics, Reactor가 있다."
           }
         ]
       }
     },
     {
-      "id": "movies-eddie-ai",
+      "id": "movies-accuface-2",
       "eyebrow": "AI NEWS",
-      "headline": "Eddie AI, 로컬에서 돌아가는\n9B 편집 전용 모델을 학습했다",
-      "body": "9B 편집 전용 모델이 Kimi K3를 상대로 47% 승률을 냈다. 워크스테이션 한 대면 돈다.",
-      "mini_headline": "로컬로 도는 편집 모델",
+      "headline": "리얼루전 AccuFACE 2 출시\n웹캠·아이폰으로 잡는 표정 모캡",
+      "body": "리얼루전이 웹캠이나 아이폰 촬영만으로 CC5 HD 캐릭터급 표정을 잡아내는 프로덕션급 마커리스 안면 모캡 AccuFACE 2를 출시했다.",
+      "mini_headline": "AccuFACE 2 출시",
       "tool": "Movies",
-      "source": "CineD",
-      "url": "https://www.cined.com/eddie-ai-trains-editing-model-small-enough-to-run-locally-claims-47-win-rate-against-kimi-k3/",
+      "source": "befores & afters",
+      "url": "https://beforesandafters.com/2026/08/21/accuface-2-grand-launch-professional-grade-facial-mocap-for-cc5-hd-characters/",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://beforesandafters.com/wp-content/uploads/2026/08/AccuFACE-2_1280x720.jpg",
+            "cap": "AccuFACE 2"
+          },
+          {
+            "t": "p",
+            "x": "리얼루전이 마커리스 안면 모션캡처 시스템 AccuFACE 2를 출시했다. 별도 모캡 스튜디오 없이 일반 웹캠이나 아이폰 카메라로 찍은 얼굴 연기를 CC5 HD 캐릭터에 그대로 얹어주는 프로덕션급 도구다."
+          },
+          {
+            "t": "p",
+            "x": "마커나 헬멧 리그 없이 촬영본만으로 캐릭터 표정을 뽑아내는 만큼, 모캡 스테이지를 갖추지 못한 소규모 애니메이션 팀을 정면으로 겨냥했다."
+          },
+          {
+            "t": "p",
+            "x": "값비싼 장비 대신 이미 책상 위에 있는 웹캠이나 스마트폰만으로 다음 날 바로 표정 연기를 담아낼 수 있다는 점이 이 도구의 핵심이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-subtitlenext-asr",
+      "eyebrow": "AI NEWS",
+      "headline": "SubtitleNext, AI 전사엔진 4종과\nIMSCR·일괄처리까지 통합",
+      "body": "프로퍼즈디지털이 SubtitleNext에 AI 전사 엔진 네 개와 IMSCR 지원, 일괄 처리 기능을 새로 얹었다.",
+      "mini_headline": "자막 AI 엔진 확장",
+      "tool": "Movies",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/profuzs-subtitlenext-to-feature-expanded-transcriptions-imscr-support/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -123,50 +90,37 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Eddie AI가 90억 파라미터짜리 모델로도 훨씬 큰 프런티어 모델과 영상 편집에서 겨룰 만하다는 연구를 공개했다. 지식 증류로 학습시킨 학생 모델 Qwen3.5-9B는 숏폼 소셜 영상 편집 맞대결에서 Kimi K3를 상대로 47% 승률을 냈다. Kimi K3의 규모는 2.8조 파라미터다."
+            "x": "프로퍼즈디지털이 자막·오디오 설명 관리 플랫폼 SubtitleNext의 음성-텍스트 변환 기능을 넓혔다. AssemblyAI와 Deepgram, ElevenLabs, Whisper까지 네 개 AI 전사 엔진을 붙여, 언어 지원 범위와 정확도, 처리 속도, 배포 방식에 따라 골라 쓸 수 있게 했다."
           },
           {
             "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI_Processing.jpg",
-            "cap": "Eddie AI"
+            "src": "https://postperspective.com/wp-content/uploads/2026/08/SubtitleNEXTScreenshot4-copy-624x416.jpg",
+            "cap": "SubtitleNext"
           },
           {
             "t": "p",
-            "x": "교사 모델로는 문샷 AI의 Kimi K3를 썼다. 손대지 않은 9B 모델은 처음엔 비교의 10% 남짓에서만 선택받았다. LoRA 학습을 거치며 32%로 올랐고, 궤적을 다듬은 뒤 47%까지 갔다."
+            "x": "로컬라이제이션 쪽에서는 IMSCR 스크립트 형식을 가져오고 내보내는 기능을 새로 갖췄고, 제작·로컬라이제이션 파이프라인과 맞물리는 연동 방식도 늘렸다. 화면은 고해상도 디스플레이에 맞춰 HiDPI를 지원하고, 프로젝트별로 워크스페이스 열을 원하는 대로 짤 수 있다."
           },
           {
             "t": "p",
-            "x": "학습 데이터를 무작정 늘리는 대신 궤적을 골라 담은 쪽이 통했다. 프런티어 모델에서 추론 흔적을 뽑아내고, best-of-N 샘플링으로 더 나은 예시만 걸러낸 다음, 학생 모델이 낸 최고 출력으로 다시 학습시키기를 반복했다. 이 과정에서 추론 길이가 30%가량 짧아져 추론 비용도 줄었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/06/Eddie-AI-in-action-900x506.jpg",
-            "cap": "Eddie AI in action"
+            "x": "일괄 처리 범위도 커졌다. 번인 작업과 중복·삭제 기능, 오프셋을 조정할 수 있는 타임코드 변환까지 한 번에 돌릴 수 있고, 여러 포맷과 해상도로 영상을 바꿔주는 무비 파일 번 익스퍼트 플러그인도 새로 들어왔다. 방송 쪽에서는 텔레텍스트 검증 범위를 넓히고, 접근성 작업에 쓰는 화자 역할 지정 기능도 추가했다."
           },
           {
             "t": "p",
-            "x": "회사는 한계도 못 박는다. 실제 프로젝트 100건 남짓, 좁은 과제 하나에 한정된 예비 결과다. 47%라는 숫자는 숏폼 소셜 편집에서 나온 것이지 영상 편집 전반의 성적이 아니다. 사람이 직접 평가한 건 10쌍뿐이라 자동 판정과 대체로 맞아떨어졌어도 검증 표본으로는 작다."
-          },
-          {
-            "t": "p",
-            "x": "쓸모는 크기에서 나온다. 양자화한 9B 모델은 워크스테이션 GPU 한 장에서 돈다. 온프레미스로 돌리면 소재가 밖으로 나갈 일이 없다. 방송사와 스포츠 중계권사, NDA나 클라우드 사용 제한이 걸린 제작 현장에는 이 조건이 결정적이다."
-          },
-          {
-            "t": "p",
-            "x": "샤미르 알리바이 CEO는 이렇게 말했다. \"고객들은 AI 학습에 반대하는 게 아닙니다. 자기가 만든 지식에 대한 통제권을 잃는 것에 반대하는 겁니다.\""
+            "x": "프로퍼즈디지털 CEO 이반카 바실레바는 \"스포츠 콘텐츠와 영화, TV 프로그램 전반에서 자막 제작자의 역할이 얼마나 중요한지 잘 알고 있다\"고 말했다. 이번 업데이트는 IBC 2026에서 시연될 예정이다."
           }
         ]
       }
     },
     {
-      "id": "movies-metabull-inkrise",
+      "id": "movies-roku-fairground",
       "eyebrow": "AI NEWS",
-      "headline": "MetaBull, Inkrise 인수\n결정론적 렌더링 쪽에 선다",
-      "body": "MetaBull이 Inkrise를 품으며 결정론적 AIR 렌더링 엔진까지 손에 넣었다.",
-      "mini_headline": "결정론적 렌더링에 걸다",
+      "headline": "로쿠 Fairground AI, AI 생성물만\n트는 24시간 무료 채널 열다",
+      "body": "로쿠가 서사 단편과 광고를 AI로만 채운 24시간 무료 채널 Fairground AI를 열어 합성 영상의 첫 미국 주류 유통 슬롯을 마련했다.",
+      "mini_headline": "로쿠 AI 전용채널",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/metabull-acquires-inkrise-names-aaron-simpson-head-production",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/roku-ai-channel",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -174,90 +128,62 @@
         "blocks": [
           {
             "t": "p",
-            "x": "AI 기반 애니메이션 소프트웨어 회사 MetaBull이 스튜디오 Inkrise를 인수했다. 인수와 함께 사내 제작 부문 MetaBull Labs가 생겼고, Aaron Simpson이 제작 총괄을 이어서 맡는다."
+            "x": "로쿠가 서사 단편과 광고까지 전부 AI로 채운 24시간 무료 채널 Fairground AI를 열었다. 합성 영상만을 위해 마련된 미국 주류 스트리밍 최초의 유통 슬롯이자, 시청자가 이런 콘텐츠를 실제로 견뎌낼지 가늠하는 살아 있는 시험대다."
           },
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/metabull1.jpg?itok=LEvhSb8E",
-            "cap": "(왼쪽부터) Dr. Topher Taylor, Aaron Simpson, Lyle Holmes. 이미지 제공: MetaBull"
+            "src": "https://nofilmschool.com/media-library/image.webp?id=67608628&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+            "cap": "Fairground AI"
           },
           {
             "t": "p",
-            "x": "MetaBull 창업팀에는 아마존 프라임 비디오와 디즈니 스트리밍을 거친 CEO Lyle Holmes, 넬바나와 쿠키 자 엔터테인먼트에서 일한 에미상 수상 프로듀서 Dr. Topher Taylor, AI 전문가 Dr. Iyanu Odebode가 있다."
+            "x": "채널은 \"사람을 위해 AI 지배자들이 만든\" 서사 단편과 광고를 섞어 내보낸다. 어색한 물리법칙이나 손가락이 하나 더 붙은 캐릭터처럼 기술적 흠은 아직 눈에 띄지만, 완성도는 계속 올라가는 중이다."
           },
           {
             "t": "p",
-            "x": "Inkrise가 굴리던 라인업과 파트너십은 MetaBull Labs로 넘어간다. 이 조직은 파트너 서비스와 공동 제작, 자체 IP 개발을 맡고, 대본 분해부터 4K 납품까지 프로젝트를 끌고 간다."
+            "x": "중국 시장은 이미 앞서 나갔다. 지난 분기 중국에서 나온 약 12만8000편의 마이크로드라마 가운데 95% 넘게 AI로 만들어졌고, 올해 1월 기준 AI 생성 단편 드라마는 상위 100위 히트작의 38%를 차지했다. 1년 전 7%에서 크게 뛴 수치다. 이들 작품은 누적 25억5000만 조회수를 기록했고, '친링웨'와 '린시옌' 같은 AI 생성 캐릭터는 60편 넘는 단편에 등장할 예정이다."
           },
           {
             "t": "p",
-            "x": "Simpson은 디즈니 TV 애니메이션 개발 부사장과 워너브러더스 애니메이션 프로듀서를 지냈다. 'Johnny Test'를 개발했고 'Coconut Fred's Fruit Salad Island' 프로듀서로 에미상 후보에 올랐다. 플래시 애니메이션 뉴스 사이트 'Cold Hard Flash'를 만들어 이름을 알렸고, 텔리 골드 어워드를 받은 PBS 키즈 'Weather Hunters'에서는 총괄 프로듀서를 맡았다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081252-metabull2-1280.jpg?itok=Yrlb2fao"
-          },
-          {
-            "t": "p",
-            "x": "회사가 내세우는 도구는 둘이다. Felix 프로덕션 파이프라인은 USD를 기본으로 삼아 일반 DCC 안에서 씬 조립과 레이아웃, 카메라 블로킹, 프리비주얼라이제이션을 처리한다. AIR 파이프라인은 레이아웃과 스토리보드, 애니메이션 데이터를 완성 화면으로 바꾼다. 렌더링이 결정론적이라 이야기의 연속성과 캐릭터가 흔들리지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "두 시스템 모두 OpenUSD 체계와 2026 VFX 레퍼런스 표준을 따라 주요 스튜디오와 데이터를 주고받는다. MetaBull은 윤리적으로 확보한 데이터셋과 저작권 출처가 남아 있는 스튜디오 소유 라이브러리 위에 플랫폼을 올렸다는 점을 강조한다."
+            "x": "Fairground Entertainment 창업자는 \"케이블과 지상파는 자본력 있는 쪽의 영역이었다. FAST가 그 판을 흔들었듯, 생성형 AI는 이야기꾼들에게 같은 민주화를 가져다준다\"고 말했다. 다만 서구 시청자가 이를 받아들일지는 물음표다. 대다수 시청자가 편안한 재시청 콘텐츠를 선호한다는 점에서, 이 채널이 자리 잡으면 비슷한 AI 채널이 뒤따를 것이라는 전망이 나온다."
           }
         ]
       }
     },
     {
-      "id": "movies-james-gray",
+      "id": "movies-runway-ruby",
       "eyebrow": "AI NEWS",
-      "headline": "제임스 그레이, AI 몰이는 실패하고\n필름은 바이닐처럼 돌아온다",
-      "body": "'페이퍼 타이거'를 필름으로 찍은 그는 AI 몰이가 실패하고 필름이 돌아온다고 본다.",
-      "mini_headline": "제임스 그레이의 반론",
+      "headline": "런웨이 Ruby, 어떤 모델 영상도\n16비트 HDR로 바꿔낸다",
+      "body": "런웨이 Ruby는 다른 모델이 만든 영상까지 16비트 HDR 프로레스와 EXR로 바꿔 그레이딩에 바로 태운다.",
+      "mini_headline": "런웨이 Ruby 공개",
       "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/features/interviews/ai-filmmaking-will-fail-james-gray-paper-tiger-director-1235211572/",
+      "source": "Runway",
+      "url": "https://www.youtube.com/watch?v=4IliQGaQwJ8",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "AI 이야기가 나오면 제임스 그레이 감독은 말을 고르지 않는다. 지금 업계가 밀어붙이는 AI 영화 제작을 \"외설적\"이라고 부른 그는, 최근 인디와이어 인터뷰에서 이 흐름이 결국 실패하리라는 쪽으로 생각이 굳어졌다고 말했다."
-          },
-          {
             "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg",
-            "cap": "칸 영화제 '페이퍼 타이거' 기자회견의 제임스 그레이. Getty Images"
+            "src": "https://i.ytimg.com/vi/4IliQGaQwJ8/maxresdefault.jpg",
+            "cap": "Runway Ruby"
+          },
+          {
+            "t": "video",
+            "yt": "4IliQGaQwJ8"
           },
           {
             "t": "p",
-            "x": "곧 공개될 필름메이커 툴킷 팟캐스트에서 그는 이렇게 말했다. \"저는 이상하게도 낙관적입니다. 이미 알고 있지 않다면 곧 알게 될 테니까요. AI는 영혼의 무한한 겹에 닿지 못합니다. 필요한 사람들을 위해 의학 임상시험 속도를 높여주면 좋겠죠. 하지만 우리가 정말 누구인지, 우리 영혼만이 유일하게 무한한 것입니다. 영화에서, 사실 모든 창작에서 손을 뻗는 대상은 끝나지 않는 신비, 끝없이 겹쳐진 층이에요. 그러면 그게 무슨 뜻이냐. 불완전함이 그 방정식의 일부라는 뜻입니다.\""
+            "x": "런웨이가 새 모델 Ruby를 공개했다. 16비트 HDR 프로레스와 EXR 시퀀스를 직접 생성하거나, 이미 만들어진 영상과 생성물을 같은 포맷으로 바꿔주는 도구다."
           },
           {
             "t": "p",
-            "x": "새 범죄 드라마 '페이퍼 타이거'를 두고 나눈 대화 내내 같은 주제가 흘렀다. 그는 '결함 있는' 이미지에서 아름다움과 인간을 본다. \"기술적으로 훌륭해지면 매체의 불완전함을, 어떤 마법을 만들어내는 그 불완전함을 잃게 되더군요. '은막의 마법'이라고 할 때 실제로 가리키는 건 따로 떼어놓으면 절대 하지 않을 것들입니다. 배우에게 살짝 나간 초점, 거친 입자, 얼굴이 다 보이지 않는 화면, 신체의 어떤 면을 감추는 것.\""
+            "x": "특정 모델에 묶이지 않는다는 점이 핵심이다. 런웨이 자체 Gen-4.5는 물론 Seedance 2.5, MiniMax H3 등 다른 회사 영상 모델의 출력물까지 받아들인다."
           },
           {
             "t": "p",
-            "x": "고흐의 붓자국을 보러 미술관에 가는 일과 셀룰로이드로 찍은 화면을 보는 일을 그는 같은 자리에 놓았다. \"마법입니다. 그게 우리가 필름 그레인으로 도달하려는 것, 인간다움에 도달하려는 것이죠.\""
-          },
-          {
-            "t": "p",
-            "x": "2022년 인디와이어에 했던 말도 뒤집었다. 마지막 작품 '아마겟돈 타임'을 디지털로 찍은 걸 지금은 후회한다. 어린 배우들의 연기에 기댄 영화라 길게 이어지는 테이크를 반복할 자유가 필요하다고 봤고, 선택은 그의 몫이었다. 작품 자체와 다리우스 콘지의 촬영은 여전히 자랑스러워하지만 찍는 내내 뭔가 빠져 있다고 느꼈다. \"디지털에서 불완전함을, 그레인을, 이미지의 붙잡기 어려움과 되돌릴 수 없음을 얻으려고 싸우고 또 싸웠어요.\""
-          },
-          {
-            "t": "p",
-            "x": "디지털 이미지가 얼마나 '일회용'이 됐는지도 짚는다. \"사진은 그 어느 때보다 많이 찍히죠. 그런데 들여다보지는 않아요. 십 대가 인스타그램 피드 넘기는 거 본 적 있나요?\" 사진에는 되찾을 수 없는 순간이 붙어 있고, 영화는 그 되돌릴 수 없음을 아름다움으로 바꾼다는 게 그의 말이다. \"영화가 미식축구 중계처럼 보이면 눈에 거슬릴 겁니다. 너무 생생하니까요. 과거의 아름다움이 없죠.\""
-          },
-          {
-            "t": "p",
-            "x": "'페이퍼 타이거'에서 그레이와 촬영감독 호아킨 바카아사이는 셀룰로이드로 돌아갔고, 빈티지 렌즈와 장비, 특히 텅스텐 조명을 썼다. 그는 이런 감각이 자기만의 것이 아니라고 본다. 음악에서 12인치 레코드가 돌아온 일과 비슷하다는 것이다. \"우리 애들도 알고 젊은 사람들도 압니다. 바이닐이 돌아온 이유죠. 80년대와 90년대 초에 전부 디지털로 갔는데, 어느 날 사람들이 레코드를 듣고 '잠깐, 이게 더 좋은데' 한 거예요. 신호가 이어지니까요. 바늘이 홈에 들어가면 신호가 끊기지 않는데, 디지털은 0과 1로 쪼개죠. 그 불완전함, 그 온기가 우리가 누구인지 떠올리게 합니다.\""
-          },
-          {
-            "t": "p",
-            "x": "'페이퍼 타이거'는 올해 뉴욕 영화제 개막작으로 뽑혔고, NEON이 2026년 11월 13일 극장에 건다."
+            "x": "그동안 생성형 영상은 8비트 파일로 끝나 색보정과 합성 파이프라인 앞에서 발이 묶이곤 했다. Ruby를 거치면 어떤 모델이 만든 숏이든 16비트 프로레스나 EXR로 그레이딩·합성 단계에 곧장 들어갈 수 있다."
           }
         ]
       }

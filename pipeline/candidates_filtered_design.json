@@ -1,100 +1,149 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "section": "design",
   "window_hours": 72,
+  "now_iso": "2026-08-21T22:00:26Z",
   "items": [
     {
-      "url": "https://www.figma.com/blog/sightlines-issue-no2/",
-      "source": "Figma",
+      "url": "https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services",
+      "source": "Vercel",
       "category": "figma",
-      "published_iso": "2026-08-20",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/a9356934cc1ec6efbbc4b737340f7d4143c3e9e2-480x480.png?w=1200&q=80&fit=max&auto=format",
-      "excerpt": "Figma's Sightlines newsletter no.2 gathers senior design and product leaders on what it takes to design agentic products. The core problem: agents are powerful, but interfaces must earn trust and make permissions and security legible to users."
-    },
-    {
-      "url": "https://80.lv/articles/how-dark-and-darker-s-devs-used-aura-to-build-a-major-feature-in-half-the-time",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-08-20",
-      "og_image": "https://cdn.80.lv/static/icons/logo80lv.svg",
-      "excerpt": "IRONMACE's non-technical president used the AI coding assistant Aura to build Dark and Darker's tutorial system directly against the game codebase in about two weeks — work the team estimated at five to six weeks. A concrete case of a non-engineer shipping production features."
-    },
-    {
-      "url": "https://80.lv/articles/bus-ride-straight-out-of-dream-made-with-blender-3dgs",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-08-20",
-      "og_image": null,
-      "excerpt": "Artist Blue Nile deliberately under-trains 3D Gaussian Splats and films from a moving bus, then composites in Blender, turning a reconstruction 'failure mode' into a dreamlike aesthetic. A craft argument for using neural capture artifacts on purpose."
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xLtJ0VSS9Y6ofgQP8pXE3/670d34fc0dd906351aafc8ac2724938d/v0-connectog.png",
+      "excerpt": "Apps and agents built in v0 can now securely connect to 100+ third-party services — Slack, Google, Notion, GitHub, Salesforce — through Vercel Connect. Prompt-built prototypes can now reach real company data without a developer wiring the auth."
     },
     {
       "url": "https://www.builder.io/blog/survive-ai-mandate",
       "source": "Builder.io",
       "category": "figma",
-      "published_iso": "2026-08-19",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/0f722cac40ea4f258b6f1e73a60dc19a?format=webp&width=1200",
-      "excerpt": "Top-down 'use AI' mandates raise output expectations without delivering real productivity, because time saved on generation is eaten by verification and coordination. Builder argues AI only pays off when wired into the systems where design and dev teams actually collaborate."
+      "published_iso": "2026-08-19T00:00:00Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/0f722cac40ea4f258b6f1e73a60dc19a?format=webp&width=800",
+      "excerpt": "Top-down AI mandates raise output expectations but not real productivity: nearly 40% of the speed gain is eaten by verification and coordination work. The argument is that AI has to live inside the workflow teams already use, not sit beside it as another handoff."
     },
     {
-      "url": "https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free",
-      "source": "Vercel",
+      "url": "https://dev.to/elsie-rainee/best-ai-design-tools-to-know-and-use-in-2026-2oi6",
+      "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-08-19",
+      "published_iso": "2026-08-21T12:15:21Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3vq1xt1s1gyv1yai2pav.png",
+      "excerpt": "A practitioner's sweep of the AI design tool stack as it stands in late 2026, framed around the blank-canvas-with-a-three-hour-deadline case. Useful as a map of which tool actually earns a slot in a working designer's day."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/foundry-releases-nuke-17-1/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-08-20T00:00:00Z",
       "og_image": null,
-      "excerpt": "Four Fish Audio text-to-speech and transcription models are now on Vercel AI Gateway, free for 30 days. Voice generation becomes a one-line dependency for prototypes, putting audio UI inside the same workflow as generative interface builds."
+      "excerpt": "Foundry's Nuke 17.1 adds relighting for Gaussian splats and Hydra 2.0 support in the 3D viewer. Neural-captured scenes become relightable comp elements, pulling AI-era 3D capture into a standard finishing workflow."
     },
     {
-      "url": "https://zeroheight.com/blog/how-to-automate-your-design-system-documentation-without-losing-the-parts-that-matter/",
-      "source": "zeroheight",
-      "category": "tokens",
-      "published_iso": "2026-08-19",
-      "og_image": null,
-      "excerpt": "A practical breakdown of which design system documentation should be generated automatically from code and tokens, and which parts — intent, rationale, usage judgement — must stay human-authored. Automating the wrong layer produces docs nobody trusts."
-    },
-    {
-      "url": "https://dev.to/quokkalabs/stop-shipping-one-off-ui-a-product-design-system-handoff-checklist-for-developers-2p05",
+      "url": "https://dev.to/ugliai/ai-video-in-2026-the-expensive-part-is-the-failed-shot-not-the-generate-button-215l",
       "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-08-19",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xhuq6gg4gb8y0ketl2t9.png",
-      "excerpt": "A handoff checklist arguing the design system is infrastructure, not an artifact: tokens, component contracts, state docs, responsive specs. It cites design-system-aware AI cutting UI delivery time 46.7–69.4%, and warns that codegen without a documented system just accelerates inconsistency."
+      "category": "render",
+      "published_iso": "2026-08-21T06:55:09Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8wpb5whiyvv48wdyi6ed.png",
+      "excerpt": "Runway, Kling, Pika, Luma and Google Flow/Veo compared not on demo reels but on usable-shot rate and cost per delivered shot, with a test protocol you can run on your own assets. It reframes gen-video budgeting around failures, not generations."
     },
     {
-      "url": "https://dev.to/davidayo/ai-isnt-replacing-mobile-ux-designers-its-just-saving-us-from-infinite-wireframe-loops-pa2",
-      "source": "DEV Community",
-      "category": "workflow",
-      "published_iso": "2026-08-19",
-      "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/93huxet95ysowst3qfws.png",
-      "excerpt": "A working mobile UX designer's account of where AI actually lands in the process: it collapses the endless wireframe iteration loop, not the judgement work. The remaining job is empathy, strategy and framing the real human problem."
-    },
-    {
-      "url": "https://dev.to/adilaidev/ai-features-users-dont-want-and-what-they-actually-need-5556",
-      "source": "DEV Community",
-      "category": "workflow",
-      "published_iso": "2026-08-18",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.adilaidev.com%2Fapi%2Fcover-brand%2F%3Fsrc%3Dhttps%253A%252F%252Fimages.pexels.com%252Fphotos%252F30530414%252Fpexels-photo-30530414.jpeg%253Fauto%253Dcompress%2526cs%253Dtinysrgb%2526h%253D650%2526w%253D940%26w%3D1200%26h%3D630",
-      "excerpt": "Most shipped AI features are bolt-on chat panels that add steps instead of removing them. The argument: good AI design is invisible — it absorbs tedious work inside existing flows rather than announcing itself as a new surface."
-    },
-    {
-      "url": "https://blog.logrocket.com/ai-dev-tool-power-rankings/",
-      "source": "LogRocket Blog",
-      "category": "figma",
-      "published_iso": "2026-08-18",
-      "og_image": "https://blog.logrocket.com/wp-content/uploads/2025/07/ai_dev_tool_power_rankings_july_2025_web.png",
-      "excerpt": "August's AI dev tool rankings mark the largest single-month shake-up yet: Claude Opus 5 debuts at the top with a 1691 Elo, and Kimi K3 becomes the first open-weight model in the top three. Four new entrants reset which model teams should default to for build work."
-    },
-    {
-      "url": "https://www.engineering.com/scaling-ai-agents-is-where-things-get-complicated/",
+      "url": "https://www.engineering.com/onshape-is-bracing-for-an-ai-explosion/",
       "source": "Engineering.com",
       "category": "cad",
-      "published_iso": "2026-08-18",
+      "published_iso": "2026-08-19T17:39:37Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_engpaper_thumb2026-aug18.png",
+      "excerpt": "Onshape Labs' new FeatureScript MCP server lets any AI coding agent — Claude, Gemini, ChatGPT — build, test and evaluate custom CAD features. Custom tooling inside CAD moves from a specialist task to a prompt."
+    },
+    {
+      "url": "https://www.engineering.com/pudu-robotics-launches-pudu-mp2000-pallet-robot/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-08-21T14:01:13Z",
       "og_image": null,
-      "excerpt": "Deloitte research finds the hard part of agentic AI isn't the technology but organizational readiness: nearly two-thirds of executives are rethinking business models around agents, yet fewer than half feel prepared operationally. Piloting agents without process redesign stalls at the pilot."
+      "excerpt": "Pudu's MP2000 pallet robot carries a 2,000 kg payload and uses AI-native perception for floor-to-floor material transport. A concrete look at how physical-AI perception is now designed into industrial hardware rather than bolted on."
+    },
+    {
+      "url": "https://www.mindstudio.ai/blog/bird-ai-coding-agent-block",
+      "source": "MindStudio",
+      "category": "tokens",
+      "published_iso": "2026-08-20T00:00:00Z",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/7f52ff21-18d2-4133-9358-7b36712fd613.png?fm=auto&w=1200&h=630&fit=crop",
+      "excerpt": "Block's free open-source desktop app Bird unifies Claude, Codex, Copilot, Amp and Goose behind one interface. For design engineers juggling agents, it is a single surface instead of five terminals."
+    },
+    {
+      "url": "https://www.mindstudio.ai/blog/choosing-ai-builder-lovable-replit-codex",
+      "source": "MindStudio",
+      "category": "tokens",
+      "published_iso": "2026-08-20T00:00:00Z",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/394b50b9-691f-414d-9f91-a3db378b80fd.png?fm=auto&w=1200&h=630&fit=crop",
+      "excerpt": "A hands-on comparison of Lovable, Replit, Bolt, Codex and Claude Code, matched to the kind of app idea each one actually suits. Practical triage for designers deciding where a prototype should be born."
+    },
+    {
+      "url": "https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "tokens",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/XjRrN5hZhlEhKtaKK82HX/21cb9a2fc8061a972c50e795f492248a/Vercel_x_DeepSeek.png",
+      "excerpt": "DeepSeek V4 Flash with image input is now callable through Vercel AI Gateway on one API key, with a 1M-token context window, fallbacks and per-request tracing. Cheap multimodal vision for screenshot-to-UI and design-QA agents."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+      "source": "VentureBeat",
+      "category": "workflow",
+      "published_iso": "2026-08-20T17:00:00-07:00",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/64GVvPFWGaLTPjNLaZ9mdN/740b7f4f14646dcfca71b13822379524/Nuneybits_Vector_art_of_terminal_dissolving_into_colorful_team__390a5221-7b54-4a07-a6a1-b48a95bb2f5c.webp?w=1000&q=100",
+      "excerpt": "Slack Code embeds coding agents like Claude Code and Devin directly into team channels, turning agent work from a solo terminal session into something a whole team watches, steers and approves. Designers and PMs get a seat at the build loop."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "source": "VentureBeat",
+      "category": "workflow",
+      "published_iso": "2026-08-20T10:25:00-07:00",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5I3UuhIsHvssElUOhxg953/b120622de8833224afa8c1425d376d2a/ChatGPT_Image_Aug_20__2026__01_10_24_PM.png?w=1000&q=100",
+      "excerpt": "NanoClaw's Slack integration spins up persistent teams of specialized AI agents with their own identities and skills from a single message, and lets one person's agent query another's. A preview of what a design org staffed partly by agents looks like."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-08-20T10:21:42Z",
+      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.53/1*S8OB7T_kb-ZSjryH4s2-sQ.png",
+      "excerpt": "An argument that AI ethics in product is really an accountability gradient: making the human behind the machine visible changes what users judge as right. Directly actionable for anyone designing disclosure and attribution in AI features."
+    },
+    {
+      "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-08-19T09:26:11Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*S9Babiz8jzdfqAKTlQlaag.png",
+      "excerpt": "Rejects the \"AI kills software\" framing in favour of evolution: interfaces, not apps, are what get replaced. A useful lens for product designers planning what their surface even is in two years."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AF4VD3dfUdc",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-08-20T14:00:07Z",
+      "og_image": "https://i.ytimg.com/vi/AF4VD3dfUdc/maxresdefault.jpg",
+      "excerpt": "A product designer walks through building motion design plugins for Figma himself in Figma's Show Your Work series. The clearest current example of designers shipping their own tooling instead of filing a request."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O-8TbMFOAfg",
+      "source": "Matt Wolfe (YouTube)",
+      "category": "social",
+      "published_iso": "2026-08-20T12:41:43Z",
+      "og_image": "https://i.ytimg.com/vi/O-8TbMFOAfg/maxresdefault.jpg",
+      "excerpt": "Matt Wolfe digs into Claude's text watermark and how far it can travel once content leaves the model. Provenance marking is about to become a real constraint on how creative teams reuse AI output."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3N5MU56JbY0",
+      "source": "Vercel (YouTube)",
+      "category": "social",
+      "published_iso": "2026-08-19T16:02:37Z",
+      "og_image": "https://i.ytimg.com/vi/3N5MU56JbY0/maxresdefault.jpg",
+      "excerpt": "A case study on how Searchable turns a customer request into a shipped feature in about 30 minutes on Vercel. Concrete evidence of what the prompt-to-production loop compresses in practice."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 11,
+    "dropped": 4,
+    "kept": 17,
     "against_days": 5
   }
 }
