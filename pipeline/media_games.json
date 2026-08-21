@@ -1,31 +1,34 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
+  "section": "games",
   "media": [
     {
-      "id": "games-uefn-mcp",
-      "type": "image",
-      "src": "pipeline/media/games-uefn-mcp.jpg"
-    },
-    {
-      "id": "games-unity-cli",
+      "id": "games-deepmind-eve",
       "type": "video",
-      "src": "pipeline/media/games-unity-cli.mp4",
-      "poster": "pipeline/media/games-unity-cli.jpg"
+      "src": "pipeline/media/games-deepmind-eve.mp4",
+      "poster": "pipeline/media/games-deepmind-eve.jpg"
     },
     {
-      "id": "games-meta-pocket",
+      "id": "games-skillprint-signal",
       "type": "image",
-      "src": "pipeline/media/games-meta-pocket.jpg"
+      "src": "pipeline/media/games-skillprint-signal.jpg"
     },
     {
-      "id": "games-sony-grind-patent",
+      "id": "games-r6-toxmod",
       "type": "image",
-      "src": "pipeline/media/games-sony-grind-patent.jpg"
+      "src": "pipeline/media/games-r6-toxmod.jpg"
     },
     {
-      "id": "games-bic-kimyongha",
-      "type": "image",
-      "src": "pipeline/media/games-bic-kimyongha.jpg"
+      "id": "games-ai-podcast",
+      "type": "video",
+      "src": "pipeline/media/games-ai-podcast.mp4",
+      "poster": "pipeline/media/games-ai-podcast.jpg"
+    },
+    {
+      "id": "games-1666-amsterdam",
+      "type": "video",
+      "src": "pipeline/media/games-1666-amsterdam.mp4",
+      "poster": "pipeline/media/games-1666-amsterdam.jpg"
     }
   ]
 }

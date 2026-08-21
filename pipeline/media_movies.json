@@ -1,31 +1,32 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
+  "section": "movies",
   "media": [
     {
-      "id": "movies-comfyui-mcp",
+      "id": "movies-ltx-2-5",
+      "type": "image",
+      "src": "pipeline/media/movies-ltx-2-5.jpg"
+    },
+    {
+      "id": "movies-accuface-2",
+      "type": "image",
+      "src": "pipeline/media/movies-accuface-2.jpg"
+    },
+    {
+      "id": "movies-subtitlenext-asr",
+      "type": "image",
+      "src": "pipeline/media/movies-subtitlenext-asr.jpg"
+    },
+    {
+      "id": "movies-roku-fairground",
+      "type": "image",
+      "src": "pipeline/media/movies-roku-fairground.jpg"
+    },
+    {
+      "id": "movies-runway-ruby",
       "type": "video",
-      "src": "pipeline/media/movies-comfyui-mcp.mp4",
-      "poster": "pipeline/media/movies-comfyui-mcp.jpg"
-    },
-    {
-      "id": "movies-firefly-audio",
-      "type": "image",
-      "src": "pipeline/media/movies-firefly-audio.jpg"
-    },
-    {
-      "id": "movies-eddie-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-eddie-ai.jpg"
-    },
-    {
-      "id": "movies-metabull-inkrise",
-      "type": "image",
-      "src": "pipeline/media/movies-metabull-inkrise.jpg"
-    },
-    {
-      "id": "movies-james-gray",
-      "type": "image",
-      "src": "pipeline/media/movies-james-gray.jpg"
+      "src": "pipeline/media/movies-runway-ruby.mp4",
+      "poster": "pipeline/media/movies-runway-ruby.jpg"
     }
   ]
 }

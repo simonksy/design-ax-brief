@@ -1,28 +1,92 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-22",
   "section": "movies",
-  "now_iso": "2026-08-01T22:00:36Z",
   "window_hours": 336,
-  "count": 2,
-  "note": "RECOVERY pass for movies (14-day/336h window, start 2026-07-18T22:00:36Z). WebSearch budget was exhausted session-wide (200/200), so this pass worked entirely via WebFetch of allowed-domain listing/tag pages + curl meta-tag date extraction, then gated each through pipeline/freshness.py 'movies'. Only NEWLY-found, non-duplicate FRESH items are written here (the still-in-window Wonder Dynamics item stays in candidates_movies.json). 2 new: RedShark Frame.io AI-powered search + Comparison Viewer (Aug 1, distinct outlet), Luma Labs 'Introducing Layers' precision AI element-level editing (Jul 29, distinct outlet). Together with the kept Wonder Dynamics item this clears floor 3. CONFIRMED STALE and dropped (date-verified via curl JSON-LD/meta): fxguide Foundry SmartRoto AI roto (2026-07-16, ~2 days before window start), postPerspective's own SmartRoto writeup (2026-07-16), fxguide Beeble SwitchHDR (2026-07-09), fxguide ComfyUI podcast (2026-05-06), ProVideo 'Adobe Premiere generative media tool' (2026-07-10), VFX Voice Ted S2 (2026-07-14), beforesandafters Reallusion iClone/AI Studio (2026-06-26). DROPPED for weak film/design hook: Luma 'Pages' project-org tool (Jul 28, FRESH but org tooling not a craft shift), Luma 'Runs Production Inference on AMD/Tensorwave' (infra/compute business noise). BLOCKED/paywalled: indiewire (tollbit redirect), theverge (fetch blocked), animationmagazine.net + 80.lv tag pages (403), studiodaily (redirects off-domain to chiefmarketer), awn.com (403), cartoonbrew tech (all items months stale). Runway changelog latest was Jul 2 (stale). Social YouTube not re-attempted this recovery pass (JS-rendered watch pages returned empty last run).",
+  "now_iso": "2026-08-21T22:00:26Z",
+  "pass": "recovery_2",
   "items": [
     {
-      "title": "Frame.io adds full-screen search and Comparison Viewer updates",
-      "url": "https://www.redsharknews.com/frame-io-full-screen-search-comparison-viewer-update",
-      "source": "RedShark News",
+      "url": "https://www.youtube.com/watch?v=4IliQGaQwJ8",
+      "source": "Runway",
       "category": "movies",
-      "published_iso": "2026-08-01T06:42:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg",
-      "excerpt": "Adobe's Frame.io rolls out a dedicated full-screen search page with a toggle between standard and AI-powered search, plus Comparison Viewer updates, letting editors and post teams find and review footage across projects faster. A concrete workflow shift for how film/TV review-and-approval teams navigate media."
+      "published_iso": "2026-08-21T20:47:21+00:00",
+      "og_image": "https://i.ytimg.com/vi/4IliQGaQwJ8/maxresdefault.jpg",
+      "excerpt": "Runway introduced Ruby, a model that generates 16-bit HDR ProRes and EXR sequences directly, or converts existing clips and generations into them. It is model-agnostic — compatible with Gen-4.5, Seedance 2.5, MiniMax H3 and other video models — so generative shots can enter a color-managed grade/comp pipeline instead of stopping at 8-bit delivery files.",
+      "dupe_risk": "low — brand-new launch (2026-08-21), not yet covered by any trade outlet; adjacent to but distinct from the already-selected LTX-2.5 open-weights story (that is a generator with ACES HDR output, Ruby is an HDR conversion/output layer on top of any model)"
     },
     {
-      "title": "Introducing Layers",
-      "url": "https://lumalabs.ai/news/introducing-layers",
-      "source": "Luma AI",
+      "url": "https://beforesandafters.com/2026/08/21/new-scientific-and-technical-awards-investigations-announced/",
+      "source": "befores & afters",
       "category": "movies",
-      "published_iso": "2026-07-29T17:28:48Z",
-      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
-      "excerpt": "Luma AI launched Layers, giving creators precision editing and element-by-element control over any AI-generated image inside its filmmaking toolset, rather than re-rolling a whole prompt. A craft-level capability that pushes generative work toward the directed, revisable control filmmakers and previs artists expect."
+      "published_iso": "2026-08-20T22:53:43+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/02/scitechs.jpg",
+      "excerpt": "The Academy opened six Scientific and Technical Award investigations for 2026, including 'solvers for markerless facial capture' and 'audio spectrum segmentation and editing software' — two categories that are now effectively ML-driven — alongside artist-friendly large-scale water sims and direct-manipulation CG character rigging. Entries close September 8, with the awards presented April 20, 2027.",
+      "dupe_risk": "medium — same outlet as the selected AccuFACE 2 card and thematically adjacent (markerless facial capture); the story itself is a separate Academy announcement"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "published_iso": "2026-08-18T19:28:05+00:00",
+      "og_image": "https://i.ytimg.com/vi/qv0s1_coX50/maxresdefault.jpg",
+      "excerpt": "Curious Refuge walks through the current crop of free AI video generators and how far the no-cost tier has moved for shot work, with a companion blog post listing every tool tested. A practical read on which parts of an AI-film workflow no longer need a subscription.",
+      "dupe_risk": "medium — same channel published a tools-roundup video on 2026-08-14 that was already used; different tools and a free-tier angle"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YQTduCzNoqw",
+      "source": "Theoretically Media",
+      "category": "movies",
+      "published_iso": "2026-08-17T21:57:07+00:00",
+      "og_image": "https://i.ytimg.com/vi/YQTduCzNoqw/maxresdefault.jpg",
+      "excerpt": "Two unannounced AI video models appeared under codenames in public arenas, and Theoretically Media tests both alongside a newly released free cinematic reference library. Useful early signal on what the next generation of text-to-video will do for shot planning.",
+      "dupe_risk": "medium — this channel's 2026-08-20 video was already published; back-up item only"
     }
-  ]
+  ],
+  "notes": {
+    "adjacent_keywords_used": [
+      "DaVinci Resolve / Blackmagic AI tools",
+      "Foundry Nuke SmartRoto / Autodesk Flame AI compositing",
+      "Venice Reply AI Film Festival jury + awards",
+      "Cartoon Brew animation studio AI pipeline",
+      "Gaussian splatting virtual production / Unreal Engine LED volume",
+      "SAG-AFTRA / IATSE AI digital replica agreement",
+      "Deepdub / Respeecher / ElevenLabs AI dubbing localization",
+      "TIFF 2026 AI panel / synthetic performer",
+      "Moonvalley Marey / Asteria AI feature",
+      "ASC cinematographer AI on set",
+      "IBC2026 AI post-production announcements",
+      "AWN animation AI tool launches (Animaj Sketch-to-Motion, Masterpiece X WorldEngen, Autodesk Flow Studio)",
+      "Definition Magazine AI on the virtual stage",
+      "generative video HDR ProRes / EXR / ACES pipeline",
+      "AI film restoration / documentary archival",
+      "YouTube AI-filmmaking channels (Curious Refuge, Corridor Crew, Runway, Theoretically Media, fxguide)"
+    ],
+    "method": "WebSearch scoped to the movies allowed_domains, plus direct RSS/index sweeps (curl) of awn, beforesandafters, cartoonbrew, animationmagazine, fxguide, provideocoalition, postperspective, redsharknews, studiodaily, vfxvoice, motionographer, nofilmschool, 80.lv, variety, deadline, indiewire, theverge, engadget — because several of those block WebFetch (403) or route through tollbit (307/402). YouTube published times taken from the watch page JSON-LD uploadDate.",
+    "dropped_stale": [
+      "postperspective Foundry SmartRoto AI plugin for Nuke — 2026-07-16 STALE",
+      "cartoonbrew K&K Design anime AI in-between pipeline — 2024-11-13 STALE",
+      "cartoonbrew Bonne Animation human-only studio — 2026-01-31 STALE",
+      "fxguide Union VFX production-ready Gaussian splat crowds — 2026-06-01 STALE",
+      "awn Animaj Sketch-to-Motion — 2024-11-13 STALE",
+      "deadline Venice Reply AI Film Festival jury — 2026-07 (already published 2026-08-05)",
+      "definitionmagazine 'AI on the virtual stage' — Apr/May 2026 issue, STALE"
+    ],
+    "dropped_not_ai_or_off_topic": [
+      "postperspective LensNode 2 lens-simulation plugin (2026-08-17) — optical capture, explicitly not AI",
+      "vfxvoice 'Creating continuity across decades for The House of the Spirits' (2026-08-18) — traditional Maya/Houdini/Nuke work, no AI/ML/de-aging",
+      "provideocoalition Avid Media Composer 2026.8 (2026-08-19) — third-party storage changes, no AI hook",
+      "Corridor Crew 'I Made a Hand-Held HOLOGRAM' (2026-08-17) — VFX craft, no AI",
+      "cartoonbrew / animationmagazine last-14-day feeds — trailers, casting and business only",
+      "studiodaily feed now redirects to adexchanger/chiefmarketer marketing content, not film craft"
+    ],
+    "dropped_already_published": [
+      "cartoonbrew Studio Ghibli AI report (2026-08-18) — published 2026-08-19",
+      "postperspective + redsharknews Adobe Firefly AI audio GA — published 2026-08-21",
+      "nofilmschool Eddie AI 9B (2026-08-20) — published 2026-08-21",
+      "fxguide Impossible Objects HP ZGX (2026-08-11) — already published",
+      "youtube ghCKziHvGXo (Theoretically Media 2026-08-20), aA_AFy-GDwo (Curious Refuge 2026-08-14), TM8hd2lnrEk (Runway 2026-08-10) — already published"
+    ],
+    "coverage": "Section AI news is genuinely thin in this window: the trade AI beat (Variety/THR/Deadline/IndieWire/ScreenDaily) produced no fresh craft/tool story in the last 14 days that was not already published, and the VFX/post outlets' newest AI items (SmartRoto, Lightcraft Spark, Topaz/Adobe) are all 4+ weeks old. The 4 items above are what survived the freshness gate and the design-relevance test.",
+    "source_cap": "no outlet exceeds 3; Runway, Curious Refuge and Theoretically Media are three distinct channels but share youtube.com — if the curator treats youtube.com as one outlet, Runway Ruby is the priority pick and the other two are depth."
+  }
 }

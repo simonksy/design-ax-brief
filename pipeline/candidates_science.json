@@ -1,190 +1,160 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "section": "science",
-  "now_iso": "2026-08-20T22:00:27Z",
+  "now_iso": "2026-08-21T22:00:26Z",
   "window_hours": 336,
-  "count": 18,
-  "note": "Science section, 14-day window. `window_hours('2026-08-20T22:00:27Z')` returns 72 (the design default); `window_hours(now, 'science')` returns 336, which is what is set here and what `pipeline/freshness.py <pub> <now> science` actually enforces. Every item below printed FRESH under that gate. Collection method: cheap direct RSS/Atom sweeps first (quantamagazine, newscientist home+technology, physicsworld, universetoday, statnews all+health-tech, genengnews, scientificamerican, sciencedaily AI, techxplore machine-learning-ai, phys.org astronomy+chemistry, medicalxpress, news.mit.edu AI, deepmind.google) plus Google News RSS `when:Nd` domain sweeps; only 4 WebSearch calls were spent, on URL resolution for outlets whose feeds 404 (chemistryworld, eurekalert, statnews paywalled item, medicalxpress). Published times were read from article HTML via WebFetch (og article:published_time / JSON-LD datePublished); where WebFetch is blocked by the publisher (newscientist.com) or returned no explicit timestamp (universetoday), the publisher's own RSS <pubDate> was used, which is a first-party timestamp, not a search snippet. DROPPED, already in pipeline/published_urls.json: Physics World 'AI model helps physics Nobel laureate out of a decade-old mathematical jam' (08-07), Live Science 'AI designs chip 500x smaller' (08-18), ScienceDaily DNA memristor (08-16), techxplore/MIT 'When AI art has no author' (08-18), phys.org 'AI discoveries shape human cultural evolution' (08-18). DROPPED per skip_topics_recent: herbarium specimens, Google PhotoScan body composition, CeMM tissue clocks, MIT GeoPT, Blue Skies contrails, FDA AI device audit. DROPPED as AI-business noise per the relevance test: GEN 'Pharma Races to Scale AI as Billions Flow into Drug Discovery', Fierce Biotech financing/FDA-nominee items, the entire Quantum Insider mid-August run (foundry openings, partnerships, workforce PR), techxplore Baidu/Unitree/OpenAI-ads items, HPCwire vendor launches (SandboxAQ, Deep Origin, IQVIA). NOTABLE GAP: Anthropic's 'Claude designs protein binders for 14 of 15 targets' (08-18/19) was the biggest AI4Science story of the window but NO allowed_domain covered it — checked genengnews, statnews, newscientist, technologyreview, fiercebiotech via site-scoped sweeps; only off-list aggregators (the-decoder, pharmaphorum, Tech Times) and Anthropic's own post, whose URL 404'd on two guesses, so it is omitted rather than sourced from an aggregator. Related on-list coverage of AI-generated genomes is included via Medical Xpress (AI-designed bacteriophages). Per-outlet caps respected: phys.org 3, techxplore 3, genengnews 2, newscientist 2, quantamagazine 1, statnews 1, chemistryworld 1, universetoday 1, physicsworld 1, medicalxpress 1, eurekalert 1, news.mit.edu 1 — 12 distinct outlets, all on the section allowlist, zero off-list domains. No collision with the cross-section guard URL (80.lv Dark and Darker).",
+  "count": 15,
+  "note": "Science section, 14-day window (336h). window_hours('2026-08-21T22:00:26Z','science') = 336. Every item below printed FRESH under `python3 pipeline/freshness.py <pub> 2026-08-21T22:00:26Z science`. Method: ~19 WebSearch calls scoped to the section allowed_domains, plus WebFetch of publisher index pages (sciencedaily AI feed, scientificamerican AI hub, thequantuminsider 2026/08 archive, statnews AI topic, deepmind blog, phys.org biology, quantamagazine AI tag, physicsworld AI collection) and direct RSS sweeps (livescience, universetoday, newscientist). Published times read from og article:published_time / JSON-LD datePublished in article HTML; New Scientist blocks our fetcher, so its two items use first-party RSS <pubDate> (not a search snippet). Per-outlet collection cap of 3 enforced: phys.org 3, scientificamerican 3, statnews 2, newscientist 2, sciencedaily 1, technologyreview 1, thequantuminsider 1, genengnews 1, livescience 1 = 9 distinct outlets. DROPPED as already in pipeline/published_urls.json[science]: phys.org 'AI and 8 million digitized plant specimens' (08-18), sciencedaily DNA-memory 260816044853 (08-17), MIT TR 'AI recursive self-improvement' (08-18), MIT TR 'AI for science needs reasoning' (08-10), Quanta 'Are We Thinking Correctly About AI Intelligence?' (08-20), Live Science 'AI designs chip 500x smaller' (08-18). DROPPED as topic dup of already-published items: SciAm 'Scientists are using AI to design new viruses' (08-10, overlaps published SciAm 08-08 virus piece + medicalxpress 08-21), phys.org 'The telescope that points itself' (08-11, overlaps published phys.org AI-driven-telescope 08-02), techxplore 'AI agents struggle to perform original scientific research' (08-14, overlaps published MIT TR 08-18). DROPPED as STALE by the gate: DeepMind WeatherNext cyclones (08-06), phys.org Ramanomics (08-06), sciencedaily Claude-Fable-5 Jacobian (08-04), Quanta Erdos problems (08-03), TQI OpenAI-10-open-problems (08-04), physicsworld black-box (07-14) and meta-design (04-21), genengnews AlphaDesign (2025-06). DROPPED, no verifiable published time: Universe Today 'AI Learns to Identify Exploding Stars'. DROPPED, HTTP 403 (could not verify time): fiercebiotech GPT-Rosalind. DROPPED as non-AI: sciencedaily light-driven nanorobots (08-18), sciencedaily kids screen-time study (08-17).",
   "items": [
     {
-      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
-      "source": "Quanta Magazine",
       "category": "science",
-      "published_iso": "2026-08-20T14:04:40Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Lede-LOGO-scaled.webp",
-      "title": "Are We Thinking Correctly About AI Intelligence?",
-      "excerpt": "Melanie Mitchell argues on Quanta's 'The Joy of Why' that large models are an 'alien intelligence' whose mechanisms differ fundamentally from human cognition, and that we should borrow psychology's experimental methods rather than benchmarks to measure what machines actually understand.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1140758",
-      "source": "EurekAlert! (Artificial Intelligence & Environment / South China Normal University)",
-      "category": "science",
-      "published_iso": "2026-08-19T23:25:13Z",
-      "og_image": null,
-      "title": "The AI scientist arrives: autonomous agents are reshaping scientific discovery",
-      "excerpt": "A review of three 2026 Nature-reported systems — the Empirical Research Assistant, The AI Scientist and MIRA — finds agents now generate ideas, write code, run experiments, draft manuscripts and even do automated peer review, while still producing hallucinated citations and irreproducible results.",
-      "note": "datePublished 2026-08-19 from the release page via WebFetch; time-of-day from the syndicated feed timestamp. Gated FRESH."
-    },
-    {
-      "url": "https://www.statnews.com/2026/08/18/david-baker-genbio-ai-new-virtual-model-unveiled-aido-cell/",
-      "source": "STAT",
-      "category": "science",
-      "published_iso": "2026-08-18T13:29:43Z",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIDO-Cell-image-1-645x645.jpg",
-      "title": "Prominent AI startup rolls out virtual cell model in race to speed up science",
-      "excerpt": "Palo Alto's GenBio AI, with Nobel laureate David Baker involved, unveiled AIDO Cell — a 'Google Earth for the human cell' that predicts how a whole cell's molecular machinery shifts when you knock out a gene or add a drug, extending the AlphaFold idea from single proteins to entire cells.",
-      "note": "Published date from the article page via WebFetch (Aug 18, 2026); time from the publisher feed. Gated FRESH."
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-08-scientists-functioning-virus-ai.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "published_iso": "2026-08-16T21:40:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/bacteriophages.jpg",
-      "title": "Scientists have designed a functioning virus from scratch using AI. What you need to know",
-      "excerpt": "AI genome-design models produced hundreds of novel bacteriophage variants; of 285 synthesized designs, 16 were functioning viruses able to kill drug-resistant bacteria. It is the first demonstration that a generative model can write a viable genome end to end — and it has biosecurity researchers arguing about screening safeguards.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
-    },
-    {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/protecting-scientific-intent-in-ai-enabled-labs-by-not-letting-ai-set-the-mission/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
-      "category": "science",
-      "published_iso": "2026-08-20T17:54:18Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/GettyImages-2248539094.jpg",
-      "title": "Protecting Scientific Intent in AI-Enabled Labs by Not Letting AI Set the Mission",
-      "excerpt": "Stanford's Le Cong argues that as AI agents take over more of the bench, humans must keep ownership of the objective, the constraints and the risk envelope: 'humans need to be in the lead throughout the process,' or self-driving labs optimize for plausible-looking results instead of true ones.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
-    },
-    {
-      "url": "https://www.genengnews.com/topics/infectious-diseases/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
-      "category": "science",
-      "published_iso": "2026-08-20T18:53:21Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Low-Res_labaer-cell-press-asu-banner.jpg",
-      "title": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination",
-      "excerpt": "Arizona State researchers found that the antibody fingerprint you already carry against common microbes predicts how strongly you will respond to a vaccine — a pattern only legible once AI was run across the biomarker panel, opening the door to pre-screening vaccine responders.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
-    },
-    {
-      "url": "https://www.chemistryworld.com/news/combining-ai-with-experiments-to-solve-real-world-materials-problems/4024017.article",
-      "source": "Chemistry World",
-      "category": "science",
-      "published_iso": "2026-08-12T13:58:00Z",
-      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/135x135/6/0/2/550602_aron_headshot_440295.jpg",
-      "title": "Combining AI with experiments to solve real-world materials problems",
-      "excerpt": "CuspAI has assembled a 45-organisation 'Materials Foundry' to actually synthesize and test what its models predict — its Kemira collaboration proposed 20 novel MOFs for stripping PFAS from water in six months instead of years. The team's point: prediction is now the easy part; synthesis and manufacturability are the bottleneck.",
-      "note": "Published time 2026-08-12T14:58:00+01:00 from article:published_time via WebFetch, normalized to UTC. Gated FRESH."
-    },
-    {
-      "url": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/",
-      "source": "New Scientist",
-      "category": "science",
-      "published_iso": "2026-08-19T15:00:00Z",
-      "og_image": null,
-      "title": "AI could offer a shortcut for designing more efficient airplane wings",
-      "excerpt": "A machine-learning surrogate for computational fluid dynamics lets engineers explore aerodynamic shapes at a fraction of the simulation cost, potentially collapsing the design-iteration loop for more fuel-efficient wings.",
-      "note": "WebFetch is blocked for newscientist.com; published time taken from New Scientist's own RSS <pubDate> (first-party), not a search snippet. Gated FRESH."
-    },
-    {
-      "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/",
-      "source": "New Scientist",
-      "category": "science",
-      "published_iso": "2026-08-20T09:00:00Z",
-      "og_image": null,
-      "title": "AI firms are watermarking generated text – here's why it won't work",
-      "excerpt": "AI companies are embedding statistical watermarks in generated text to make it detectable, but the underlying research shows the signal degrades under paraphrase, translation and light editing — a provenance problem that lands directly on peer review and academic integrity.",
-      "note": "WebFetch blocked for newscientist.com; published time from New Scientist's own RSS <pubDate>. Gated FRESH."
-    },
-    {
-      "url": "https://www.universetoday.com/articles/the-telescope-that-points-itself",
-      "source": "Universe Today",
-      "category": "science",
-      "published_iso": "2026-08-10T22:45:00Z",
-      "og_image": "https://www.universetoday.com/article_images/Victor_M_Blanco_4-meter_Telescope_noirlab-tololo-02_20260810_224303.jpg",
-      "title": "The Telescope That Points Itself",
-      "excerpt": "Rather than encoding astronomers' scheduling rules, researchers trained a deep-learning model on years of Dark Energy Survey decisions and let it drive the 570-megapixel Dark Energy Camera for two full observing campaigns — matching human observers while deciding far faster, a template for Rubin-era survey scheduling.",
-      "note": "The page exposes no explicit meta timestamp; published time from Universe Today's own RSS <pubDate>, corroborated by the og:image filename stamp 20260810_224303. Gated FRESH."
-    },
-    {
-      "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
-      "source": "Physics World",
-      "category": "science",
-      "published_iso": "2026-08-19T14:30:49Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-perkowitz-server-room-data-centre-1415677219-istock-imaginima.jpg",
-      "title": "The physics of novel computation: beyond bits and chips to spikes and spins",
-      "excerpt": "With silicon nearing its physical limits and AI's energy appetite still climbing, physicists survey the alternatives now moving out of the lab — spintronic, neuromorphic and spike-based computing — and argue physics, not more transistors, is what gets AI past the wall.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
-    },
-    {
-      "url": "https://phys.org/news/2026-08-blocc-chemistry-automate-molecular-discovery.html",
+      "title": "Complex odors prove easier to map than expected with machine learning",
+      "url": "https://phys.org/news/2026-08-complex-odors-easier-machine.html",
       "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-08-20T18:00:09Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/publication-in-science.jpg",
-      "title": "Blocc chemistry could automate molecular discovery and democratize access to new materials",
-      "excerpt": "Martin Burke's 'blocc' chemistry builds molecules by iterative carbon–carbon bonding from standard blocks, making robotic synthesis and AI-guided discovery usable by non-specialists — and generating the modular datasets those models need. Early wins include top-in-class organic laser emitters and solar-cell materials.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
+      "published_iso": "2026-08-21T00:00:00Z",
+      "excerpt": "Monell Chemical Senses Center researchers built machine learning models that distinguish scents and map how they relate to one another. The work points toward \"digital olfaction\" — representing smell mathematically the way color and sound were digitized — with uses in diagnostics and product development.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2020/humansmell.jpg",
+      "freshness": "FRESH"
     },
     {
+      "category": "science",
+      "title": "Seeing the unseen: A new tool visualizes hidden structures in complex biological data",
+      "url": "https://phys.org/news/2026-08-unseen-tool-visualizes-hidden-complex.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "excerpt": "University of Basel researchers released Bonsai, which renders high-dimensional single-cell data as branching trees instead of flat 2D maps, preserving true distances between cells. The tool surfaced a previously unknown natural killer cell subtype in human blood.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/seeing-the-unseen-a-ne.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "science",
+      "title": "AI screens 100,000+ membrane combinations, predicting carbon capture performance within seconds",
       "url": "https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html",
       "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-08-19T19:20:04Z",
+      "published_iso": "2026-08-19T00:00:00Z",
+      "excerpt": "A Koç University team combined molecular simulation with machine learning to evaluate more than 104,000 mixed-matrix membrane combinations for carbon capture. The framework predicts a candidate's performance in seconds at roughly 10–15% error, collapsing a screening job that would take years in the lab.",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-screens-over-100000.jpg",
-      "title": "AI screens 100,000+ membrane combinations, predicting carbon capture performance within seconds",
-      "excerpt": "A Koç University machine-learning framework evaluated more than 104,000 mixed-matrix membrane combinations and predicted the performance of the promising ones in seconds, turning a years-long carbon-capture materials search into a screening problem.",
-      "note": "Published time from article:published_time via WebFetch (Aug 19, 2026); time-of-day from the phys.org feed. Gated FRESH."
+      "freshness": "FRESH"
     },
     {
-      "url": "https://phys.org/news/2026-08-deep-approach-rapidly-metals-proteins.html",
-      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-08-18T20:40:05Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-better-way-to-find-w.jpg",
-      "title": "Deep-learning approach rapidly predicts where metals bind within proteins",
-      "excerpt": "Hokkaido University's PRIME locates metal-binding sites — 'a needle in a haystack' inside a large protein — in roughly 11 seconds, a step the field previously handled with slow structural analysis, with direct implications for enzyme design and drug targeting.",
-      "note": "Published time from article:published_time via WebFetch (Aug 18, 2026); time-of-day from the phys.org feed. Gated FRESH."
+      "title": "AI-designed \"intrabodies\" could unlock new treatments for Alzheimer's, Parkinson's and MND",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+      "source": "ScienceDaily (University of Essex)",
+      "published_iso": "2026-08-19T00:00:00Z",
+      "excerpt": "University of Essex researchers used AI to redesign ordinary antibodies into tiny fragments that stay stable and functional inside living human cells, targeting disease proteins that conventional antibodies can't reach. Published in Nature Communications, the redesigned molecules will be released freely to other labs.",
+      "og_image": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
+      "freshness": "FRESH"
     },
     {
-      "url": "https://techxplore.com/news/2026-08-neural-network-approach-ai-uncertainty.html",
-      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-08-20T19:20:07Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-a-12.jpg",
-      "title": "Neural network approach makes AI uncertainty checks far more efficient",
-      "excerpt": "McGill researchers built models that estimate their own uncertainty using about 33x fewer parameters than standard methods while holding predictive accuracy — making calibrated confidence cheap enough to run in scientific and clinical settings where a wrong-but-confident answer is the real failure mode.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
+      "title": "We still don't know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-08-18T00:00:00Z",
+      "excerpt": "A new independent research project, the AI Observatory, aggregates consented real conversations with Claude and Gemini to build a public picture of AI use. It found nearly half of conversations are non-work — health, relationships, sensitive topics — categories that vendor usage reports largely omit.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg",
+      "freshness": "FRESH"
     },
     {
-      "url": "https://techxplore.com/news/2026-08-ai-agent-populations.html",
-      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-08-19T16:40:07Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/more-is-different-when.jpg",
-      "title": "More is different when AI agent populations work together, study suggests",
-      "excerpt": "Identical models reach opposite collective conclusions depending purely on how many of them are interacting, the study finds — meaning single-agent safety evaluation misses emergent behaviour that only appears above certain population thresholds.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
+      "title": "No, Anthropic's AI didn't just solve math's hardest problem",
+      "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
+      "source": "Scientific American",
+      "published_iso": "2026-08-12T00:00:00Z",
+      "excerpt": "Claude helped sharpen a result about the distribution of prime numbers that sits adjacent to the Riemann hypothesis — real, checkable progress, but not the $1-million problem itself. The piece is a case study in how AI math claims get inflated between the preprint and the headline.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/0b5fa77a-df8d-4154-814b-03977d035761/dice-primes.jpg",
+      "freshness": "FRESH"
     },
     {
-      "url": "https://techxplore.com/news/2026-08-ai-citizen-photos.html",
-      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-08-20T12:00:05Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-turn-citizen.jpg",
-      "title": "AI helps turn citizen photos into water-level data",
-      "excerpt": "University at Buffalo researchers automated the reading of crowd-submitted photos of stream gauges, using targeted image preprocessing to reach 98% accuracy on station identification — converting a citizen-science photo stream into usable hydrological measurement.",
-      "note": "Published time from article:published_time via WebFetch. Gated FRESH."
+      "title": "OpenAI funds research to try to stop AI from being used to make bioweapons",
+      "url": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons/",
+      "source": "Scientific American",
+      "published_iso": "2026-08-17T00:00:00Z",
+      "excerpt": "OpenAI awarded grants to 14 organizations, including the Nuclear Threat Initiative, to build cross-border systems for sharing biosecurity threat information about AI-enabled biology. It's an admission that model capability in the life sciences has outrun the safeguards around it.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/cd3889fd-5093-4f64-9161-ebe1fb54c949/AI-bioweapons.jpg",
+      "freshness": "FRESH"
     },
     {
-      "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-      "source": "MIT News",
       "category": "science",
-      "published_iso": "2026-08-20T18:45:00Z",
+      "title": "How generative AI is reshaping creativity, and what it means for artists",
+      "url": "https://www.scientificamerican.com/podcast/episode/how-generative-ai-is-reshaping-creativity-and-what-it-means-for-artists/",
+      "source": "Scientific American",
+      "published_iso": "2026-08-19T00:00:00Z",
+      "excerpt": "Astrophysicist and folklorist Moiya McTier traces humanity's creative history through the Greek muses and asks what generative AI does to authorship. The conversation is about what creative practice is for, not just what tools can produce.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/c89c1ed6-db81-4b5c-add4-e979041c94c4/2608_SQ_WED_MOTHERS_INVENTION.png",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "science",
+      "title": "AI has created a shadow medical system",
+      "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/",
+      "source": "STAT News",
+      "published_iso": "2026-08-19T00:00:00Z",
+      "excerpt": "More than 40 million Americans ask ChatGPT a health question every day, almost entirely outside clinical settings. Paired with direct-to-consumer labs and AI-generated prescriptions, that has quietly assembled a parallel care system with no physician oversight or accountability.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_159757760-645x645.jpeg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "science",
+      "title": "I'm a pediatrician. AI chatbots are grooming my patients",
+      "url": "https://www.statnews.com/2026/08/19/ai-chatbots-children-grooming-mental-health/",
+      "source": "STAT News",
+      "published_iso": "2026-08-19T00:00:00Z",
+      "excerpt": "A pediatrician documents chatbot interactions with minors that follow grooming patterns, including AI systems drawing patients into sexual conversation. He argues these products generate the harmful content rather than merely host it, so product liability should apply.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-1457137503-645x645.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "science",
+      "title": "Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset",
+      "url": "https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "excerpt": "Quantum X Labs reported that its AI-driven surface-code decoder improved accuracy on Google's public real-hardware dataset while having been trained purely on synthetic data. Transferring from simulation to physical qubits without hardware-specific retraining is the hard part of the problem.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-21_18-38.png",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "science",
+      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/from-models-to-agents-the-next-phase-of-ai-adoption-in-molecular-discovery/",
+      "source": "GEN (Genetic Engineering & Biotechnology News)",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "excerpt": "Biotech is moving past single predictive models toward agentic systems that chain structure prediction, literature reading and docking into one workflow. NYB.AI's Vecura platform is the worked example, with the argument that agents close the gap between generating an insight and acting on it.",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2234447381_AIMedicalIdea.jpg",
+      "freshness": "FRESH"
+    },
+    {
+      "category": "science",
+      "title": "AI could offer a shortcut for designing more efficient airplane wings",
+      "url": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/",
+      "source": "New Scientist",
+      "published_iso": "2026-08-19T15:00:00Z",
+      "excerpt": "Researchers report a machine learning approach that substitutes for expensive fluid-dynamics simulation in aerodynamic shape optimization, cutting the cost of exploring wing geometries. Published time taken from New Scientist's own RSS pubDate (the site blocks our fetcher).",
       "og_image": null,
-      "title": "Paving the way for greener ammonia production",
-      "excerpt": "MIT researchers used machine learning to search alloy space for catalysts that make electrochemical nitrogen reduction viable, targeting a replacement for the fossil-fuel-dependent Haber-Bosch process that has run essentially unchanged for a century.",
-      "note": "Published time from article:published_time via WebFetch (Aug 20, 2026); time-of-day from MIT's own RSS <pubDate>. og:image is an MIT placeholder path, recorded as null. Gated FRESH."
+      "freshness": "FRESH"
+    },
+    {
+      "category": "science",
+      "title": "AI firms are watermarking generated text – here's why it won't work",
+      "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/",
+      "source": "New Scientist",
+      "published_iso": "2026-08-20T09:00:00Z",
+      "excerpt": "AI companies are shipping statistical watermarks into generated text, but the technique degrades under paraphrase, translation and light editing. Provenance for written work is turning out to be far harder than for images. Published time from New Scientist RSS pubDate.",
+      "og_image": null,
+      "freshness": "FRESH"
+    },
+    {
+      "category": "science",
+      "title": "Elon Musk and Sam Altman claim we've reached the AI singularity. But how would we even know that happened?",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/elon-musk-and-sam-altman-claim-weve-reached-the-ai-singularity-but-how-would-we-even-know-that-happened",
+      "source": "Live Science",
+      "published_iso": "2026-08-17T08:45:03Z",
+      "excerpt": "Live Science asks what measurable evidence a \"singularity\" claim would actually require, and finds the definitions used by industry leaders are unfalsifiable. A useful counterweight to capability rhetoric, grounded in how scientists set thresholds. Published time from Live Science RSS pubDate.",
+      "og_image": null,
+      "freshness": "FRESH"
     }
   ]
 }

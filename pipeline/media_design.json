@@ -1,31 +1,33 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
+  "section": "design",
   "media": [
     {
-      "id": "design-figma-sightlines-agentic",
+      "id": "design-v0-connect-100-services",
       "type": "image",
-      "src": "pipeline/media/design-figma-sightlines-agentic.jpg"
+      "src": "pipeline/media/design-v0-connect-100-services.png"
     },
     {
-      "id": "design-dev-tool-power-rankings",
-      "type": "image",
-      "src": "pipeline/media/design-dev-tool-power-rankings.jpg"
-    },
-    {
-      "id": "design-aura-dark-and-darker",
+      "id": "design-figma-motion-plugin-show-your-work",
       "type": "video",
-      "src": "pipeline/media/design-aura-dark-and-darker.mp4",
-      "poster": "pipeline/media/design-aura-dark-and-darker.jpg"
+      "src": "pipeline/media/design-figma-motion-plugin-show-your-work.mp4",
+      "poster": "pipeline/media/design-figma-motion-plugin-show-your-work.jpg"
     },
     {
-      "id": "design-docs-automation-line",
+      "id": "design-slack-code-multiplayer-agents",
       "type": "image",
-      "src": "pipeline/media/design-docs-automation-line.jpg"
+      "src": "pipeline/media/design-slack-code-multiplayer-agents.jpg"
     },
     {
-      "id": "design-invisible-ai-features",
+      "id": "design-nuke-17-1-splat-relight",
+      "type": "video",
+      "src": "pipeline/media/design-nuke-17-1-splat-relight.mp4",
+      "poster": "pipeline/media/design-nuke-17-1-splat-relight.jpg"
+    },
+    {
+      "id": "design-ai-builder-shape-first",
       "type": "image",
-      "src": "pipeline/media/design-invisible-ai-features.jpg"
+      "src": "pipeline/media/design-ai-builder-shape-first.png"
     }
   ]
 }

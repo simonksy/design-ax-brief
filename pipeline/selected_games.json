@@ -1,100 +1,140 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "section": "games",
+  "count": 5,
+  "note": "Auto-picked (user deferred). Pool = pipeline/candidates_filtered_games.json (11 items, already URL-deduped). Content-level dedup ran against sections.games today(2026-08-21: UEFN Unreal MCP, Unity CLI, Meta Pocket, Sony grind patent, BIC Kim Yongha) + days(08-20: Duality vibe simulation, Vapor World AI cutscenes, James Pond AI suspicion (GameSpot), Gunz Steam return, Sony CEO human-made art; 08-19: Immens engine, Wolf Haus no-genAI, NTE Doubao watermark, Nexus AI tags, Witcher 3 fear reactions; 08-15: no-AI contract clauses, Unity GitHub Copilot tips, Gen1Recomp, 'Castle Walls', fan-translation no-AI; 08-14: ArtStation/KitBash3D, Twitch AI opt-out, ReLU/MIMESIS, DeanBeat external devs, Supergirl concept art; 08-12: Saber/ChatGPT writer (GamesRadar+), SEED, Unreal runtime inference, Black Myth Zhong Kui, Gamescom Dev speaker survey (GamesIndustry.biz)). DROPPED AS DUPLICATES (6): Epic forum 'Unreal MCP is now available in UEFN' = the same release published 2026-08-21 as games-uefn-mcp (Unreal Engine YouTube), different surface, same event; 'Fortnite Ecosystem v42.00' release notes = same source + same core release (its headline feature is that Unreal MCP support), a content-hub sibling of the above; Game Developer 'Developers expect generative AI to impact roles and team sizes' = the same Gamescom Dev speaker survey (83% / 36% figures) published 2026-08-12 as games-gamescom-dev-survey; Game Developer 'Saber Interactive denies replacing writers' = the same Saber / Rideshare 'Stimulator' writer-replacement story published 2026-08-12 as games-saber-chatgpt-writer; Kotaku 'James Pond gen-AI slop accusations' and Aftermath 'james-pond-ai' = both the same System 3 / James Pond Legacy AI-art dispute published 2026-08-20 as games-james-pond-ai-suspicion (GameSpot) — and duplicates of each other. 5 of 11 candidates survived, exactly the target; no backfill needed, no padding. Diversity guard: 4 distinct outlets (Google DeepMind, GamesBeat x2, Game Developer, Aftermath), max 2 per outlet; mix is 1 research-to-gameplay agent partnership, 1 adaptive-design benchmark, 1 shipped live-service moderation result, 1 craft/practice discussion, 1 art-pipeline debate. Accents varied per pick since all five share the single 'games' category.",
   "picks": [
     {
       "rank": 1,
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://www.youtube.com/watch?v=acGWIJ1hIlM",
-      "source": "Unreal Engine (YouTube)",
-      "published_iso": "2026-08-18T14:36:29Z",
-      "og_image": "https://i.ytimg.com/vi/acGWIJ1hIlM/maxresdefault.jpg",
-      "excerpt": "Unreal MCP is now available in Unreal Editor for Fortnite. UEFN evangelist Magnus Enebakk walks through Model Context Protocol in UEFN and how agentic coding tools can drive island creation directly inside the editor.",
-      "rationale": "A shipped editor capability, not commentary: agents can now drive UEFN scene authoring over MCP, which changes how a level is built tomorrow."
+      "title": "DeepMind takes 15 years of game AI research into EVE Online with Fenris Creations",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://lh3.googleusercontent.com/3-fa8dN6qE5zOqabv7DWbya-NaanaBbogE0CR7nURBOCYbUReRvXpk-wXVVWc-rH54_I9h0dAy_j1p_eglh-ozRny_GqvCN4nfG06HbEqq96dBhRoA=w1440-h810-n-nu",
+      "excerpt": "DeepMind traces 15 years of game AI research from Atari agents to persistent online worlds, and announces a partnership with Fenris Creations to prototype AI agents inside the EVE Universe — a bid to turn research agents into shipped gameplay design.",
+      "rationale": "Research agents moving into a live persistent MMO is the clearest signal yet that agent behaviour becomes a design material, not a demo."
     },
     {
       "rank": 2,
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "url": "https://www.youtube.com/watch?v=htV8urYBcSo",
-      "source": "Unity (YouTube)",
-      "published_iso": "2026-08-12T14:06:28Z",
-      "og_image": "https://i.ytimg.com/vi/htV8urYBcSo/maxresdefault.jpg",
-      "excerpt": "Unity ships a CLI installable in one terminal command, with a Pipeline package that 'opens the Editor to the outside world' — listing commands, managing Play mode, running tests and executing C# in a live Editor instance. The control surface external agents and scripts need.",
-      "rationale": "The other half of the same shift on the other engine — a real command surface that lets scripts and agents reach into a running Unity Editor."
+      "title": "Skillprint's Signal Benchmark scores how well AI can steer a player's mental state",
+      "url": "https://gamesbeat.com/skillprint-launches-signal-benchmark-to-use-ai-to-move-players-to-better-mental-state/",
+      "source": "GamesBeat",
+      "published_iso": "2026-08-19T16:55:00Z",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Skillprint-Signal-AI-Benchmark.jpg",
+      "excerpt": "Skillprint's Signal Benchmark scores how well AI models can shift players toward a target mental state, adjusting game parameters in real time — framing adaptive difficulty and pacing as a measurable, model-driven design layer.",
+      "rationale": "Turns pacing and difficulty tuning into a measurable target, which is exactly the hook a designer needs to argue for adaptive systems."
     },
     {
       "rank": 3,
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "source": "TechCrunch",
-      "published_iso": "2026-08-20T16:07:26Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675",
-      "excerpt": "Meta is rolling out Pocket to US users after a Brazil test: an app where anyone prompts small interactive games — 'gizmos' that respond to touch, tilt and sound — into a scrollable, remixable feed. Text-to-game creation as a consumer social format, with the acquired Gizmo app being shut down in its favour.",
-      "rationale": "Text-to-game leaves the demo stage and becomes a shipping consumer feed — a new distribution shape for tiny interactive work, not just a new tool."
+      "title": "Rainbow Six Siege cut critical toxic voice chat by 50% with Modulate's ToxMod",
+      "url": "https://gamesbeat.com/tom-clancys-rainbow-six-siege-cuts-critical-toxic-voice-chat-by-50-with-modulates-toxmod/",
+      "source": "GamesBeat",
+      "published_iso": "2026-08-19T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Ubisoft reports Rainbow Six Siege cut critical toxic voice chat by 50% using Modulate's ToxMod, with roughly 800,000 hours of voice audio analyzed monthly — AI moderation as a shipped part of live-service experience design.",
+      "rationale": "A hard shipped number on AI moderation at scale: community safety stops being policy talk and becomes a live-service design metric."
     },
     {
       "rank": 4,
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "url": "https://kotaku.com/new-sony-patent-discusses-the-possibility-of-ai-that-grinds-games-for-you-and-lets-you-sell-your-player-data-to-train-it-2000725969",
-      "source": "Kotaku",
-      "published_iso": "2026-08-20T12:31:51Z",
-      "og_image": "https://kotaku.com/app/uploads/2024/09/9cf21c9511f2370f1f68183d8979a9f1-1200x675.jpg",
-      "excerpt": "A newly surfaced Sony patent describes an AI agent trained on your own play data that can grind or replay sections for you — and a marketplace where players could sell that behavioural data to train it. It reframes player modelling from a tuning tool into a designed, monetised game system.",
-      "rationale": "Turns player modelling into a designed, monetised system feature — a design question about progression and ownership, not an ethics op-ed."
+      "title": "Rez Graham and Luke Dicken on what actually matters about AI in game development",
+      "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+      "source": "Game Developer",
+      "published_iso": "2026-08-21T14:45:37Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?width=1400&auto=webp&quality=80&disable=upscale",
+      "excerpt": "Former Maxis engineer David 'Rez' Graham and ex-Take-Two AI head Luke Dicken unpack what actually matters about AI in game development beyond the hype — separating classic game AI craft from generative tooling and its effect on the nature of the work.",
+      "rationale": "Two practitioners draw the line between game AI craft and generative tooling — the vocabulary you need before your team argues about either."
     },
     {
       "rank": 5,
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "url": "https://www.4gamer.net/games/915/G091533/20260819011/",
-      "source": "4Gamer",
-      "published_iso": "2026-08-20T07:30:00+09:00",
-      "og_image": "https://www.4gamer.net/games/915/G091533/20260819011/SS/001.jpg",
-      "excerpt": "Blue Archive creator Kim Yong-ha's packed BIC 2026 keynote asked how a game becomes a 'world', arguing that in the AI era the one thing only humans hold is the aesthetic judgement that decides what belongs in that world. Includes a short interview alongside the talk.",
-      "rationale": "A working creative director naming the craft skill that survives — aesthetic judgement over what belongs in a world — with a keynote and interview to back it."
+      "title": "Patrice Desilets defends AI imagery in 1666: Amsterdam: '75 different variations'",
+      "url": "https://aftermath.site/1666-amsterdam-ai-game/",
+      "source": "Aftermath",
+      "published_iso": "2026-08-14T18:03:00Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/08/Screenshot-2026-08-14-092127.png",
+      "excerpt": "Patrice Desilets defends AI-generated imagery in 1666: Amsterdam's reveal, arguing 'I can ask the AI to give me 75 different variations' at a speed human illustrators couldn't match — a blunt statement of the iteration-vs-craft tradeoff.",
+      "rationale": "A named veteran director states the iteration-speed case out loud, which is the argument every art lead will have to answer this year."
     }
   ],
-  "dropped": [
+  "items": [
     {
-      "url": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
-      "reason": "Duplicate of published 2026-08-12 card 'games-gamescom-dev-survey' (GamesIndustry.biz) — same 100-speaker Gamescom Dev survey, different outlet."
+      "rank": 1,
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "title": "DeepMind takes 15 years of game AI research into EVE Online with Fenris Creations",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://lh3.googleusercontent.com/3-fa8dN6qE5zOqabv7DWbya-NaanaBbogE0CR7nURBOCYbUReRvXpk-wXVVWc-rH54_I9h0dAy_j1p_eglh-ozRny_GqvCN4nfG06HbEqq96dBhRoA=w1440-h810-n-nu",
+      "excerpt": "DeepMind traces 15 years of game AI research from Atari agents to persistent online worlds, and announces a partnership with Fenris Creations to prototype AI agents inside the EVE Universe — a bid to turn research agents into shipped gameplay design.",
+      "rationale": "Research agents moving into a live persistent MMO is the clearest signal yet that agent behaviour becomes a design material, not a demo."
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/take-twos-former-ai-guy-is-in-a-twist-skeptical-about-ai-now-the-guy-should-be-selling-you-the-gold-if-hes-actually-got-the-gold/",
-      "reason": "Same Luke Dicken interview already published 2026-08-10 as card 'games-dicken-dungeon-master' (80 Level); dropped as a duplicate on 2026-08-19 as well."
+      "rank": 2,
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "title": "Skillprint's Signal Benchmark scores how well AI can steer a player's mental state",
+      "url": "https://gamesbeat.com/skillprint-launches-signal-benchmark-to-use-ai-to-move-players-to-better-mental-state/",
+      "source": "GamesBeat",
+      "published_iso": "2026-08-19T16:55:00Z",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Skillprint-Signal-AI-Benchmark.jpg",
+      "excerpt": "Skillprint's Signal Benchmark scores how well AI models can shift players toward a target mental state, adjusting game parameters in real time — framing adaptive difficulty and pacing as a measurable, model-driven design layer.",
+      "rationale": "Turns pacing and difficulty tuning into a measurable target, which is exactly the hook a designer needs to argue for adaptive systems."
     },
     {
-      "url": "https://www.gamesradar.com/games/the-backlash-against-gen-ai-in-video-games-proves-voting-with-your-wallet-works/",
-      "reason": "Same anti-AI contract-clause reporting (lawyer Haley MacLean) already published 2026-08-15 as card 'games-no-ai-clause' (PC Gamer)."
+      "rank": 3,
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "title": "Rainbow Six Siege cut critical toxic voice chat by 50% with Modulate's ToxMod",
+      "url": "https://gamesbeat.com/tom-clancys-rainbow-six-siege-cuts-critical-toxic-voice-chat-by-50-with-modulates-toxmod/",
+      "source": "GamesBeat",
+      "published_iso": "2026-08-19T12:00:00Z",
+      "og_image": "",
+      "excerpt": "Ubisoft reports Rainbow Six Siege cut critical toxic voice chat by 50% using Modulate's ToxMod, with roughly 800,000 hours of voice audio analyzed monthly — AI moderation as a shipped part of live-service experience design.",
+      "rationale": "A hard shipped number on AI moderation at scale: community safety stops being policy talk and becomes a live-service design metric."
     },
     {
-      "url": "https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify",
-      "reason": "Fresh, but music-adjacent (AI album on Spotify under a composer's name) and expected to be covered by the music section; a games-craft item was preferred."
+      "rank": 4,
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "title": "Rez Graham and Luke Dicken on what actually matters about AI in game development",
+      "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+      "source": "Game Developer",
+      "published_iso": "2026-08-21T14:45:37Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?width=1400&auto=webp&quality=80&disable=upscale",
+      "excerpt": "Former Maxis engineer David 'Rez' Graham and ex-Take-Two AI head Luke Dicken unpack what actually matters about AI in game development beyond the hype — separating classic game AI craft from generative tooling and its effect on the nature of the work.",
+      "rationale": "Two practitioners draw the line between game AI craft and generative tooling — the vocabulary you need before your team argues about either."
     },
     {
-      "url": "https://www.gamespot.com/articles/ex-playstation-boss-says-game-development-will-have-a-tough-future-because-of-ai/",
-      "reason": "Fresh and credible, but executive-sentiment commentary; ranked below the five tooling/design/system picks on actionability."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-leaks-prove-ai-disinformation-is-more-rampant-than-you-think/",
-      "reason": "Fresh, but the weakest of the pool's 'AI-suspicion around marketing assets' thread, a theme already carried heavily on 2026-08-19 and 2026-08-20."
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/the-bigwigs-who-want-ai-generated-npcs-and-writing-think-youre-too-dumb-to-appreciate-a-good-story-dont-prove-them-right/",
-      "reason": "Opinion piece rehearsing the standing generative-NPC argument; low novelty, no new release or data."
-    },
-    {
-      "url": "https://www.4gamer.net/games/029/G102959/20260819019/",
-      "reason": "Fresh and interesting (RyzaChat delayed for server capacity), but a second 4Gamer item; held back to keep the outlet cap and to favour the BIC keynote."
+      "rank": 5,
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "title": "Patrice Desilets defends AI imagery in 1666: Amsterdam: '75 different variations'",
+      "url": "https://aftermath.site/1666-amsterdam-ai-game/",
+      "source": "Aftermath",
+      "published_iso": "2026-08-14T18:03:00Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/08/Screenshot-2026-08-14-092127.png",
+      "excerpt": "Patrice Desilets defends AI-generated imagery in 1666: Amsterdam's reveal, arguing 'I can ask the AI to give me 75 different variations' at a speed human illustrators couldn't match — a blunt statement of the iteration-vs-craft tradeoff.",
+      "rationale": "A named veteran director states the iteration-speed case out loud, which is the argument every art lead will have to answer this year."
     }
   ]
 }

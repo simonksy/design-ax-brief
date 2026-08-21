@@ -1,10 +1,31 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
+  "section": "books",
   "media": [
-    {"id": "books-ai-facilitated", "type": "image", "src": "pipeline/media/books-ai-facilitated.jpg"},
-    {"id": "books-religion-ai-slop", "type": "image", "src": "pipeline/media/books-religion-ai-slop.png"},
-    {"id": "books-textbook-suit", "type": "image", "src": "pipeline/media/books-textbook-suit.png"},
-    {"id": "books-file-access-agents", "type": "video", "src": "pipeline/media/books-file-access-agents.mp4", "poster": "pipeline/media/books-file-access-agents.jpg"},
-    {"id": "books-reading-buddy", "type": "image", "src": "pipeline/media/books-reading-buddy.jpg"}
+    {
+      "id": "books-machine-reader",
+      "type": "image",
+      "src": "pipeline/media/books-machine-reader.jpg"
+    },
+    {
+      "id": "books-ai-chapter-summaries",
+      "type": "image",
+      "src": "pipeline/media/books-ai-chapter-summaries.jpg"
+    },
+    {
+      "id": "books-friedman-ai-roundup",
+      "type": "image",
+      "src": "pipeline/media/books-friedman-ai-roundup.jpg"
+    },
+    {
+      "id": "books-frankfurt-rights-ai",
+      "type": "image",
+      "src": "pipeline/media/books-frankfurt-rights-ai.jpg"
+    },
+    {
+      "id": "books-proudly-human",
+      "type": "image",
+      "src": "pipeline/media/books-proudly-human.jpg"
+    }
   ]
 }

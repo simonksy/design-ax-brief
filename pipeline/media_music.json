@@ -1,31 +1,26 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
+  "section": "music",
   "media": [
     {
-      "id": "music-tamber-2",
-      "type": "video",
-      "src": "pipeline/media/music-tamber-2.mp4",
-      "poster": "pipeline/media/music-tamber-2.jpg"
+      "id": "music-suno-model-retire",
+      "type": "image",
+      "src": "pipeline/media/music-suno-model-retire.jpg"
     },
     {
-      "id": "music-apple-made-with-ai-tag",
+      "id": "music-phosphor-1",
       "type": "image",
-      "src": "pipeline/media/music-apple-made-with-ai-tag.jpg"
+      "src": "pipeline/media/music-phosphor-1.jpg"
     },
     {
-      "id": "music-ssg-loudness-pro",
+      "id": "music-ai-chart-rules",
       "type": "image",
-      "src": "pipeline/media/music-ssg-loudness-pro.jpg"
+      "src": "pipeline/media/music-ai-chart-rules.jpg"
     },
     {
-      "id": "music-vaemi-synterra",
+      "id": "music-ml-plugin-week",
       "type": "image",
-      "src": "pipeline/media/music-vaemi-synterra.jpg"
-    },
-    {
-      "id": "music-vibe-coded-plugins",
-      "type": "image",
-      "src": "pipeline/media/music-vibe-coded-plugins.jpg"
+      "src": "pipeline/media/music-ml-plugin-week.jpg"
     }
   ]
 }

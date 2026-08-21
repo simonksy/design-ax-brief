@@ -1,67 +1,70 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "section": "books",
   "picks": [
     {
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
-      "source": "The Bookseller",
-      "published_iso": "2026-08-20T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
-      "excerpt": "Harriman House claims a trade publishing first with The Everything Code by macro analyst Raoul Pal, produced with a proprietary AI tool trained exclusively on the author's own existing work. It is a concrete template for 'AI-facilitated' authorship — a model trained on one author's corpus, disclosed on the jacket — rather than an anonymous LLM draft.",
-      "rationale": "First named trade-publishing model for AI-facilitated authorship — a corpus-of-one tool plus jacket disclosure gives editors and authors an actual template to copy tomorrow."
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/21/guest-post-your-next-reader-is-a-machine-and-we-are-ready/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2227463068-1024x683.jpg",
+      "excerpt": "Chris Reid argues that humans will stop being the primary readers of published content, and that decades of structured-metadata work (FAIR principles) accidentally prepared publishers for machine readers. A direct challenge to how books and articles should be authored, structured and designed when the audience is an agent.",
+      "rationale": "Freshest item in the pool and the one that changes practice fastest: if the primary reader is an agent, authoring and structuring decisions move upstream — and it argues publishers already own the metadata groundwork."
     },
     {
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/101070-study-finds-63-of-religion-books-on-amazon-likely-ai-written.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-08-19T14:54:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130971-1.PNG",
-      "excerpt": "Originality.ai scanned 2,034 paperback religion books on Amazon and found 63% were likely AI-written — 78% in witchcraft, 76% Hinduism, 74% Taoism, versus 22% in Satanism. Likely-AI titles averaged $16.84 and 170 pages against $18.96 and 208 pages for human-written ones, a measurable shape for the AI slop flooding a single retail category.",
-      "rationale": "Puts hard numbers — category, price and page-count signatures — on AI slop in one retail vertical, turning a vague complaint into a measurable market pattern."
+      "url": "https://www.thecreativepenn.com/2026/08/12/going-indie-publishing-innovation-and-the-challenges-of-book-marketing-with-john-bond/",
+      "source": "The Creative Penn",
+      "published_iso": "2026-08-12T00:00:00Z",
+      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2024/02/Author-Blueprint-2024-square.jpg",
+      "excerpt": "John Bond and Joanna Penn walk through where generative AI is actually used across publishing operations — including a book that ships AI-generated chapter summaries with usage guidelines — and Bond's claim that mainstream publishers experiment far more than they admit.",
+      "rationale": "Operational rather than opinion: a named example of AI-generated chapter summaries shipped with disclosure guidelines gives publishers a concrete pattern to copy, plus a read on how much quiet experimentation is already happening."
     },
     {
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "url": "https://publishingperspectives.com/2026/08/u-s-textbook-authors-sue-openai-for-copyright-infringement/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-08-20T12:17:11+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.24.06-PM.png",
-      "excerpt": "A US class action filed by textbook authors alleges OpenAI ingested hundreds of academic volumes. The suit argues that if LLMs keep ingesting new editions as they appear, instructors may drop textbook adoptions entirely in favour of AI 'substitutes' — putting the economics of educational authorship, not just the training question, on trial.",
-      "rationale": "New class action that moves the training fight past copying and onto substitution — whether AI replaces textbook adoption itself, which reframes risk for every educational publisher."
+      "url": "https://janefriedman.com/links-of-interest-august-12-2026/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-08-12T00:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2024/08/cropped-JF-website-header-2024-v2.png",
+      "excerpt": "Friedman's industry roundup: EU transparency rules pushing embedded watermarks and signed provenance metadata into future models, a record five journalism award winners disclosing AI use, and HarperCollins' CEO calling for industry-wide AI solutions.",
+      "rationale": "Tracks the disclosure norm hardening on two fronts at once — award juries accepting declared AI use, and a Big Five CEO asking for industry-wide rules — which is where author and publisher contracts head next."
     },
     {
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://www.youtube.com/watch?v=RuuXUlociqA",
-      "source": "Future Fiction Academy (YouTube)",
-      "published_iso": "2026-08-19T23:00:57Z",
-      "og_image": "https://i.ytimg.com/vi/RuuXUlociqA/maxresdefault.jpg",
-      "excerpt": "Stacey Anderson explains why Codex-style agents aren't smarter models — they just have access to your files — and shows a low-stress way for authors to give an AI direct access to a manuscript project folder instead of pasting chapters into a chat box.",
-      "rationale": "Most directly actionable item in the pool: a concrete shift from copy-paste chat to file-access agents that a writer can set up on their own manuscript folder today."
+      "url": "https://publishingperspectives.com/2026/08/the-right-content-the-right-partner-the-right-deal-frankfurt-rights/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/61902_LitAg-2016.jpg",
+      "excerpt": "Frankfurt Rights explains why AI licensing requests still have to be negotiated one by one — use, scope, remuneration, reporting and liability differ too much for a standardized workflow — and says the platform has hardened security after sustained attacks from AI bots scraping rights listings.",
+      "rationale": "The most concrete look yet at how AI licensing actually gets done at the rights desk — five deal terms that resist standardization — plus a genuinely new operational detail: rights platforms are now being scraped by AI bots and are locking down."
     },
     {
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "url": "https://lithub.com/in-praise-of-wordy-old-prose-or-fck-your-ai-reading-buddy/",
-      "source": "Literary Hub",
-      "published_iso": "2026-08-20T11:56:31+00:00",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/08/old-text.jpg",
-      "excerpt": "A pointed essay against the 'AI reading buddy' — the chat-with-your-book, summarise-this-chapter layer now being bolted onto ereaders and reading apps. The argument: bulletpointising books optimises away the difficulty that reading is actually for, and product teams shipping reading assistants are designing the wrong metric.",
-      "rationale": "The reader-side counterweight to the week's production news, and a direct critique of the AI reading-assistant features product teams are currently shipping into ereaders."
+      "url": "https://www.thebookseller.com/news/proudly-human-founder-warns-ai-offers-no-economic-benefits-for-creative-industries",
+      "source": "The Bookseller",
+      "published_iso": "2026-08-20T00:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+      "excerpt": "Dr Alan Finkel, Australia's former chief scientist and founder of Proudly Human, warns that AI delivers \"no economic benefits for the arts or the creative sector\" and pushes for stronger structural protections for creators against AI-generated content.",
+      "rationale": "A national-level science figure, not an author-advocate, putting the economic case against AI in the creative sector — the sharpest counterweight in the pool to the adoption-first framing of the other four cards."
     }
   ],
   "dedup_notes": [
-    "Dropped Book Riot 'Claude to add watermarks and more AI publishing news' — same Anthropic/Claude watermark event already published 2026-08-14 (Ars Technica, books-claude-watermark) and 2026-08-19 (Future Fiction Academy, books-claude-watermark-word-choice).",
-    "Dropped ALLi 'Anthropic adds watermarks' — same story as above, different outlet.",
-    "Dropped The Scholarly Kitchen 'Reading Between the Lines Part 1' — Part 2 of the same two-part framework was published 2026-08-14 (books-cognitive-debt).",
-    "Backfilled with the next-best surviving candidates; final 5 are 5 distinct outlets, no repeated URL or domain."
+    "Re-curation after recovery collection. Expanded pool = 11 items; the original 7 were already adjudicated (3 kept, 4 dropped), and the 4 newly collected items were checked at content level against published books history for 2026-08-12, 08-14, 08-15, 08-19, 08-20 and today 08-21, plus against the 3 standing picks.",
+    "KEPT (new) Publishing Perspectives 'The Right Content, the Right Partner, the Right Deal — Frankfurt Rights' (08-21): no published card covers rights-platform AI licensing mechanics. Distinct from books-textbook-suit (PP, 08-21 edition, OpenAI litigation) and books-china-publishing-ai-standards (PP, 08-19 weekly roundup) — different URL, author and subject.",
+    "KEPT (new) The Bookseller 'Proudly Human founder warns AI offers no economic benefits' (08-20): distinct from the Bookseller cards already published — books-ai-facilitated (08-21, Harriman/Raoul Pal), books-training-data-petition / books-author-ai-policy / books-commonwealth-prize-delay (08-15), books-stm-ai-against-ai (08-12).",
+    "DROPPED (new) Publishing Perspectives 'Why rights-holder transparency is becoming non-negotiable' (08-20) — not a hard duplicate, but same outlet + same core topic cluster (AI licensing reporting/transparency) as the Frankfurt Rights pick published a day apart; kept the single strongest of the two, and the swap raises the final 5 to five distinct outlets.",
+    "DROPPED (new) The Self-Publishing with Dale Podcast 'EU AI Act transparency reaches indie authors' (08-13) — same EU AI Act transparency/labelling event already published 2026-08-14 as books-claude-watermark (Ars Technica, EU AI Act Article 50 labelling and watermarking) and re-covered 08-19 in books-claude-watermark-word-choice; the EU transparency thread is also already represented inside the Jane Friedman pick.",
+    "Carried over from the first pass: DROPPED Good e-Reader destructive-scanning (dup of books-amazon-destructive-scanning, 08-19); DROPPED Book Riot 'Claude to add watermarks' (dup of books-claude-watermark, 08-14); DROPPED Book Riot 'Library news updates August 2026' (dup of books-villanova-bot-or-not, 08-14, and a later edition of books-library-avoiding-ai, 08-12); DROPPED Scholarly Kitchen 'Reading Between the Lines Part 1' (Part 2 published 08-14 as books-cognitive-debt).",
+    "Final 5: five distinct outlets (Scholarly Kitchen, Creative Penn, Jane Friedman, Publishing Perspectives, The Bookseller), no repeated URL or domain, five distinct accents."
   ]
 }
