@@ -1,26 +1,31 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "music",
   "media": [
     {
-      "id": "music-suno-model-retire",
+      "id": "music-minimax-3",
       "type": "image",
-      "src": "pipeline/media/music-suno-model-retire.jpg"
+      "src": "pipeline/media/music-minimax-3.png"
     },
     {
-      "id": "music-phosphor-1",
+      "id": "music-trama",
       "type": "image",
-      "src": "pipeline/media/music-phosphor-1.jpg"
+      "src": "pipeline/media/music-trama.jpg"
     },
     {
-      "id": "music-ai-chart-rules",
+      "id": "music-aria-charts",
       "type": "image",
-      "src": "pipeline/media/music-ai-chart-rules.jpg"
+      "src": "pipeline/media/music-aria-charts.png"
     },
     {
-      "id": "music-ml-plugin-week",
+      "id": "music-cyanite-tagging",
       "type": "image",
-      "src": "pipeline/media/music-ml-plugin-week.jpg"
+      "src": "pipeline/media/music-cyanite-tagging.png"
+    },
+    {
+      "id": "music-ai-search",
+      "type": "image",
+      "src": "pipeline/media/music-ai-search.jpg"
     }
   ]
 }

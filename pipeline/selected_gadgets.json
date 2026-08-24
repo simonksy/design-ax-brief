@@ -1,140 +1,97 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "gadgets",
-  "count": 5,
-  "note": "Auto-picked (user deferred). DEDUP vs sections.gadgets today(2026-08-21) + days(08-12, 08-14, 08-15, 08-19, 08-20) — all 30 published cards read from news_data.json and checked by URL + content/topic, never by image. Published gadgets stories confirmed in history: Pixel 11 HiLight Studio app, Pixel Watch 5 breathing-emergency detection, XREAL Aura 10k reservations, Apple HomePad watch faces, Google PhotoScan body composition (08-21); Alexa+ free on Fire TV, ICE smart-glasses ban, Comcast WiFi Motion, macOS 27 Siri app, Comu Action Pro recorder (08-20); AirPods-with-cameras demo video leak, Google Home Pet Memory, Meta face-recognition patent, humanoid firefighting drill, Pixel Watch 5 AI watch-face generator (08-19); OpenAI doughnut puck, LG CLOiD x Nvidia, Rogbid VisionW, Apple China LLM, Antigravity vs local LLM (08-15); Honor Robot Phone, Tensor G6 TPU, Matic Cues voice, Ray-Ban Meta x Vision Ireland, Google Health AI hallucinations (08-14); InfiMaker K1, local LLM on iGPU, Windows 11 AI unbundling, Abbott Lingo x Google Health, iOS 27 Siri voice (08-12). DROPPED AS DUPLICATES OF PUBLISHED STORIES: (a) Android Central 'Early XREAL Aura hype tops expectations' — same 10,000-reservation announcement already run 08-21 as the Road to VR card; (b) 9to5Google 'Pixel Watch 5 AI face generator' — same generative watch-face feature already run 08-19 as the Tom's Guide hands-on. WITHIN-POOL DUPLICATES COLLAPSED: (c) camera AirPods code leak — Engadget and MacRumors cover the identical firmware-code finding; kept Engadget (richer capture/processing detail), dropped MacRumors, and also dropped the TechCrunch privacy-framing column so the section carries only one camera-AirPods card; (d) RayNeo iO/GT launch — Engadget and Notebookcheck are the same announcement; kept Engadget. BACKFILL applied after the two duplicate drops, pulling the Oura lawsuit and the Gemini for Home voice update up into the final five. DIVERSITY GUARD: 4 distinct outlets (Engadget x2 at the cap, Android Central, Gizmodo, 9to5Google) across five separate topics — earbud cameras, AR glasses hardware strategy, smart-glasses privacy as industrial design, AI health-data claims under litigation, and smart-home voice parsing. Passed over: Engadget Pixel Watch 5 review and 9to5Google Pixel 11 Pro review (both product families already carried twice in the last three days), 9to5Mac iOS 27 beta 6 (incremental to the 08-12 Siri voice card), TechRadar UK cinema ban on Meta glasses (overlaps the 08-20 ICE ban framing), Gizmodo Unitree 'Superman' sprint record (robot-games beat ran 08-19), MacRumors AirPods beta firmware UI (Apple/AirPods already held by pick 1), TechCrunch Sandbar Stream ring video (10 days old, weakest news hook). All five picks share the gadgets category, so each gets a distinct accent from sources.json palette.",
   "picks": [
     {
       "rank": 1,
+      "title": "This phone runs an AI assistant offline, so I stopped uploading documents to cloud chatbots",
+      "url": "https://www.xda-developers.com/phone-runs-ai-assistant-offline-stopped-uploading-documents-to-cloud-chatbots/",
+      "source": "XDA Developers",
+      "published_iso": "2026-08-24T20:00:16Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-3-5-in-noema-on-iphone-keyboard-and-clock-in-view.jpeg?w=1600&h=900&fit=crop",
+      "excerpt": "I can finally trust mobile AI with the important stuff",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "title": "We have more details on Apple's camera-equipped AirPods, and they are pretty dang weird",
-      "url": "https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/",
-      "source": "Engadget",
-      "published_iso": "2026-08-21T16:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/we-have-more-details-on-apples-camera-equipped-airpods-and-they-are-pretty-dang-weird/intro-1787327785.jpg",
-      "excerpt": "Apple's camera-equipped AirPods will put a camera in each bud, capturing synchronized low-res stills — not video — that feed Visual Intelligence. On-device processing filters blurred or obstructed shots before anything is used.",
-      "rationale": "A camera that takes stills instead of video and discards its own bad frames is a new sensing pattern designers will have to build interfaces around."
+      "rationale": "Qwen 3.5 running fully on-device in Noema turns a phone into a private document assistant — the most directly reproducible on-device AI setup in the pool."
     },
     {
       "rank": 2,
+      "title": "Pixel 11 Pro gets a new Gemini \"Device help\" tool",
+      "url": "https://9to5google.com/2026/08/24/pixel-11-pro-gemini-device-help/",
+      "source": "9to5Google",
+      "published_iso": "2026-08-24T16:14:01+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "On the Pixel 11 Pro, we're seeing a new \"Device help\" tool for the Gemini app that provides personalized and conversational assistance...",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "title": "RayNeo splits its AR line with the camera-free iO and the cinema-scale GT series",
-      "url": "https://www.engadget.com/2241335/rayneo-ar-smart-glasses-io-gt-series/",
-      "source": "Engadget",
-      "published_iso": "2026-08-21T07:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/rayneo-ar-smart-glasses-io-gt-series/intro-1787321898.jpg",
-      "excerpt": "RayNeo split its AR line in two directions at once: the lightweight, camera-free iO for all-day AI assistance and the heavier GT series built for cinema-scale viewing. Two opposite bets on what smart glasses are actually for.",
-      "rationale": "One vendor shipping two contradictory glasses at once is the clearest read yet on how unsettled the smart-glasses design brief still is."
+      "rationale": "A shipped Gemini feature that replaces the support manual with conversational, device-aware help — new UX pattern for hardware onboarding."
     },
     {
       "rank": 3,
+      "title": "Apple Store app gains an AI-powered virtual shopping assistant in early preview",
+      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
+      "source": "MacRumors",
+      "published_iso": "2026-08-24T05:55:51-07:00",
+      "og_image": "https://images.macrumors.com/t/fIP-NHOTBAREpNB9d4R4X7qgf-c=/2500x/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
+      "excerpt": "In the Apple Store app on the iPhone, select users have received access to an \"early preview\" of a new AI-powered virtual shopping assistant. Once it is available, you can open the chatbot by tapping on the speech bubble with two sparkles in the bottom-right corner of the app. Then, you can ask questions about Apple products, your existing Apple Store orders, trade-in values, payment options, and more, or simply tap on one of the common topics on the page to begin.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "title": "Meta patent might solve privacy concerns on smart glasses with a hardware lock",
-      "url": "https://www.androidcentral.com/apps-software/meta/meta-patent-might-solve-privacy-concerns-on-smart-glasses-with-a-hardware-lock",
-      "source": "Android Central",
-      "published_iso": "2026-08-21T12:00:00Z",
-      "og_image": null,
-      "excerpt": "A new Meta patent proposes a physical 'hardware lock' for smart-glasses cameras, aimed at the severe backlash over always-on AI eyewear. It reframes privacy as an industrial-design problem rather than a settings screen.",
-      "rationale": "Moving consent from a toggle to a physical mechanism is the kind of decision that belongs to industrial design, not privacy policy."
+      "rationale": "Apple quietly ships a conversational agent inside a first-party retail app — a live reference for how a chatbot gets folded into an existing product flow."
     },
     {
       "rank": 4,
+      "title": "I wore Viture and Xreal's new budget AR glasses for a week — this is the pair I'd buy",
+      "url": "https://www.tomsguide.com/computing/smart-glasses/i-wore-virtue-and-xreals-new-budget-friendly-ar-glasses-for-a-week-and-this-is-the-pair-id-buy",
+      "source": "Tom's Guide",
+      "published_iso": "2026-08-22T11:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/fooTyD6WY4GY6qYr9ZNZfR-2560-80.jpg",
+      "excerpt": "Viture and Xreal are competing in the budget AR glasses space, so who wins? I'm comparing comfort, display quality and features to see who's the best.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "Proposed Oura lawsuit highlights the limits of wearable health tracking",
-      "url": "https://gizmodo.com/proposed-oura-lawsuit-highlights-wearables-health-limitations-2000801638",
-      "source": "Gizmodo",
-      "published_iso": "2026-08-21T18:00:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
-      "excerpt": "A proposed class action claims Oura's smart rings overstate sleep-tracking accuracy because they lack brain and eye-movement sensors. The suit puts a legal price on how confidently AI health wearables present inferred data.",
-      "rationale": "How confidently you display an inferred number is now a legal question, which changes copy, charts and disclosure in every health UI."
+      "rationale": "Hands-on head-to-head of the two budget AR display glasses now in reach of a normal buyer — comfort, optics and features compared over a full week."
     },
     {
       "rank": 5,
+      "title": "If you don't want smart glasses to spy, try a Bluetooth detector app",
+      "url": "https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/",
+      "source": "CNET",
+      "published_iso": "2026-08-24T16:32:48-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/zuckoff-app.jpg",
+      "excerpt": "Amid broad privacy concerns, new apps like Zuckoff help detect smart glasses in the wild.",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "title": "Google Home update improves Gemini voice controls for lighting and media",
-      "url": "https://9to5google.com/2026/08/20/google-home-update-improves-voice-controls/",
-      "source": "9to5Google",
-      "published_iso": "2026-08-20T21:53:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-2.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Gemini for Home's latest update finally handles specific kelvin color-temperature commands, better Spotify recognition and cleaner broadcasts. Small fixes that expose how much of AI smart-home UX is command-parsing craft.",
-      "rationale": "The gap between an assistant that works and one that annoys turns out to be a handful of parsing details, not a bigger model."
+      "rationale": "Zuckoff is a free app you can install today that sniffs nearby smart glasses over Bluetooth — the countermeasure side of the AI wearable story."
     }
   ],
-  "items": [
-    {
-      "rank": 1,
-      "tool": "Gadgets",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "title": "We have more details on Apple's camera-equipped AirPods, and they are pretty dang weird",
-      "url": "https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/",
-      "source": "Engadget",
-      "published_iso": "2026-08-21T16:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/we-have-more-details-on-apples-camera-equipped-airpods-and-they-are-pretty-dang-weird/intro-1787327785.jpg",
-      "excerpt": "Apple's camera-equipped AirPods will put a camera in each bud, capturing synchronized low-res stills — not video — that feed Visual Intelligence. On-device processing filters blurred or obstructed shots before anything is used.",
-      "rationale": "A camera that takes stills instead of video and discards its own bad frames is a new sensing pattern designers will have to build interfaces around."
-    },
-    {
-      "rank": 2,
-      "tool": "Gadgets",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "title": "RayNeo splits its AR line with the camera-free iO and the cinema-scale GT series",
-      "url": "https://www.engadget.com/2241335/rayneo-ar-smart-glasses-io-gt-series/",
-      "source": "Engadget",
-      "published_iso": "2026-08-21T07:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/rayneo-ar-smart-glasses-io-gt-series/intro-1787321898.jpg",
-      "excerpt": "RayNeo split its AR line in two directions at once: the lightweight, camera-free iO for all-day AI assistance and the heavier GT series built for cinema-scale viewing. Two opposite bets on what smart glasses are actually for.",
-      "rationale": "One vendor shipping two contradictory glasses at once is the clearest read yet on how unsettled the smart-glasses design brief still is."
-    },
-    {
-      "rank": 3,
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "title": "Meta patent might solve privacy concerns on smart glasses with a hardware lock",
-      "url": "https://www.androidcentral.com/apps-software/meta/meta-patent-might-solve-privacy-concerns-on-smart-glasses-with-a-hardware-lock",
-      "source": "Android Central",
-      "published_iso": "2026-08-21T12:00:00Z",
-      "og_image": null,
-      "excerpt": "A new Meta patent proposes a physical 'hardware lock' for smart-glasses cameras, aimed at the severe backlash over always-on AI eyewear. It reframes privacy as an industrial-design problem rather than a settings screen.",
-      "rationale": "Moving consent from a toggle to a physical mechanism is the kind of decision that belongs to industrial design, not privacy policy."
-    },
-    {
-      "rank": 4,
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "title": "Proposed Oura lawsuit highlights the limits of wearable health tracking",
-      "url": "https://gizmodo.com/proposed-oura-lawsuit-highlights-wearables-health-limitations-2000801638",
-      "source": "Gizmodo",
-      "published_iso": "2026-08-21T18:00:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
-      "excerpt": "A proposed class action claims Oura's smart rings overstate sleep-tracking accuracy because they lack brain and eye-movement sensors. The suit puts a legal price on how confidently AI health wearables present inferred data.",
-      "rationale": "How confidently you display an inferred number is now a legal question, which changes copy, charts and disclosure in every health UI."
-    },
-    {
-      "rank": 5,
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "title": "Google Home update improves Gemini voice controls for lighting and media",
-      "url": "https://9to5google.com/2026/08/20/google-home-update-improves-voice-controls/",
-      "source": "9to5Google",
-      "published_iso": "2026-08-20T21:53:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-2.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Gemini for Home's latest update finally handles specific kelvin color-temperature commands, better Spotify recognition and cleaner broadcasts. Small fixes that expose how much of AI smart-home UX is command-parsing craft.",
-      "rationale": "The gap between an assistant that works and one that annoys turns out to be a handful of parsing details, not a bigger model."
-    }
-  ]
+  "dedup_notes": {
+    "history_checked": "sections.gadgets today (2026-08-22) + days 2026-08-14/15/19/20/21",
+    "dropped_as_duplicate": [
+      {
+        "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+        "reason": "Same story as the CNET Zuckoff piece (same detector app); Ars angle also overlaps the already-published 2026-08-19 Meta facial-recognition patent card. Kept the CNET version."
+      },
+      {
+        "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-review",
+        "reason": "Pixel 11 review cluster — same story as the Ars Technica and 9to5Google reviews."
+      },
+      {
+        "url": "https://9to5google.com/2026/08/19/pixel-11-pro-initial-review/",
+        "reason": "Pixel 11 review cluster duplicate."
+      },
+      {
+        "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+        "reason": "Strongest of the Pixel 11 review cluster, but section already ran three Pixel 11 cards (Tensor G6 TPU 08-14, HiLight 08-21, plus Gemini feature above); dropped for topic diversity."
+      },
+      {
+        "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+        "reason": "Same event hub as the already-published 2026-08-19 card on the World Humanoid Robot Games firefighting drill."
+      }
+    ],
+    "diversity_check": "5 distinct outlets (XDA, 9to5Google, MacRumors, Tom's Guide, CNET), max 1 per outlet; topics spread across on-device LLM, phone assistant feature, in-app AI agent, AR display hardware, wearable-privacy tooling."
+  }
 }

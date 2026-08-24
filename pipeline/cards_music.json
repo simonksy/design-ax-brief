@@ -1,223 +1,252 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "music",
   "cards": [
     {
-      "id": "music-suno-model-retire",
+      "id": "music-minimax-3",
       "eyebrow": "AI NEWS",
-      "headline": "수노, 자사 AI 모델 전량 폐기하고\n업계와 만든 새 모델로 갈아탄다",
-      "body": "수노는 지금 모델을 모두 내리고 업계와 함께 만든 새 모델로 교체하며, 9월 3일부터 다운로드 상한이 걸린다.",
-      "mini_headline": "수노, 모델 전량 교체",
+      "headline": "오픈웨이트 MiniMax Music 3,\n5분짜리 완곡을 통째로 만든다",
+      "body": "가사와 사운드 설명만 주면 최대 5분 길이의 완성곡이 32kHz 스테레오로 나온다.",
+      "mini_headline": "5분 완곡 오픈웨이트",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-sunos-bmg-licensing-deal-download-caps-watermarks-and-more/",
+      "source": "ComfyUI Blog",
+      "url": "https://blog.comfy.org/p/minimax-music-3-state-of-the-art",
       "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "수노가 지금 서비스하는 AI 모델을 전부 내린다. 곧 음악 산업과 손잡고 개발한 새 세대 모델을 선보이겠다고 했고, 그 모델이 나오는 시점에 이전 모델은 모두 폐기된다."
-          },
-          {
-            "t": "p",
-            "x": "출발점은 BMG와 맺은 라이선스 계약이다. 8월 12일 수요일 발표된 이 계약에는 BMG의 음원과 퍼블리싱 레퍼토리가 함께 들어갔다. 2025년 11월 워너와의 합의 이후 처음 나온 대형 계약인데, BMG는 애초에 RIAA 소송의 원고가 아니었다. 소송을 정리하는 합의가 아니라 과거 사용을 정산하는 성격이다. 수노의 CEO Mikey Shulman은 미래를 책임 있게 만들려면 음악을 만드는 사람과 직접 일해야 한다고 말했고, BMG의 Celine Joshua는 선택권이 원칙이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "9월 3일부터는 다운로드가 상업 발매의 관문이 된다. 무료 이용자는 평생 7회, 그나마 상업적 권리는 없다. Pro는 월 20회, Premier는 월 60회다. 추가 다운로드는 따로 살 수 있다. 스트리밍 서비스에 곡을 올리려면 먼저 이 횟수를 써야 한다. 수노는 플랫폼이 커질수록 악의적 이용자가 음악을 대량으로 빼가기 어렵게 만들려는 조치라고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "파일에는 지우기 어려운 워터마크가 들어간다. Audible Magic과 Musixmatch가 파트너로 붙었고, Musixmatch가 새로 내놓는 저작권 탐지 시스템 Sentinel의 첫 고객이 수노다. 유통 진입 단계에서 수노가 만든 트랙을 걸러내자는 구상이다. 스포티파이는 인위적 스트리밍으로 표시된 트랙 한 곡당 월 10유로를 물리고, 2025년 9월까지 12개월 동안 스팸성 트랙 7,500만 곡 이상을 지웠다. 9월 중순에는 AI로 만든 프로필에 붙는 AI Persona 배지도 시작한다."
-          },
-          {
-            "t": "p",
-            "x": "8월 13일 문을 연 Studio 2.0에는 MIDI 임포트와 녹음, 편집, 스템 분리, 오디오 이펙트와 오토메이션, 웨이브테이블 신스 설계가 담겼다. Premier 이용자는 32비트/48kHz 멀티트랙과 스템을 제한 없이 내보낸다. 다운로드 상한 바깥에 전문가용 통로를 하나 열어둔 셈이다. 기반은 2025년 9월 인수한 WavTool이다."
-          },
-          {
-            "t": "p",
-            "x": "8월 6일에는 Suno Vinyl 대기자 명단이 열렸다. 12인치 검은 PETG 판에 최대 46분을 눌러 담고, 값은 배송비를 빼고 45달러 안팎이다. 장난 삼아 깎은 판이 아니라 제대로 프레싱한 레코드라는 게 회사 설명이다. 스트리밍 유통망을 건너뛰고 돈을 버는 경로다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-phosphor-1",
-      "eyebrow": "AI NEWS",
-      "headline": "DSP를 모르던 디자이너가 두 달 만에\n무료 아날로그 신스를 내놨다",
-      "body": "무료 맥용 신스 OA-Phosphor-1은 디자이너 출신 개발자가 AI 코딩을 써서 두 달 만에 만들었다.",
-      "mini_headline": "두 달 만의 무료 신스",
-      "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/",
-      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/phosphor-1-728x364.jpg",
-            "cap": "OA-Labs가 내놓은 무료 맥용 신시사이저 OA-Phosphor-1"
+            "src": "https://substackcdn.com/image/fetch/$s_!v-WJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4827eb79-f9c5-4f8d-b0aa-a449a4b440fb_1920x1080.png",
+            "cap": "MiniMax Music 3 — 가사와 음악 설명으로 최대 5분 길이의 곡을 만드는 오픈웨이트 모델"
           },
           {
             "t": "p",
-            "x": "OA-Labs가 맥용 무료 버추얼 아날로그 신시사이저 플러그인 OA-Phosphor-1을 내놨다."
+            "x": "오픈소스 진영에 또 한 번 큰 날이다. 최고 수준의 오픈웨이트 음악 생성 모델이 ComfyUI에 들어왔다. MiniMax가 내놓은 MiniMax Music 3다. 가사와 원하는 사운드 설명을 주면 최대 5분 길이의, 구조가 흐트러지지 않는 완성곡을 32kHz 스테레오로 돌려준다."
           },
           {
             "t": "p",
-            "x": "개발자는 '제어 가능한 불안정'을 위한 신스라고 소개하는데, 잘 맞는 표현이다. Phosphor-1으로 평범한 감산 합성 소리도 낼 수 있다. 다만 적어도 나에게 재미는 소리를 흔들고 늘어뜨리고 떨게 하고 무너뜨릴 때 시작된다."
+            "x": "이 모델은 루프나 짧은 클립이 아니라 곡 하나를 통째로 만드는 쪽에 맞춰 설계했다. 가사와 음악 설명을 조건으로 받아 주제와 리듬, 보컬의 정체성, 편곡의 전개를 트랙 전체에 걸쳐 붙들고 간다. 출력은 32kHz 16비트 스테레오 오디오다."
           },
           {
             "t": "p",
-            "x": "요즘 바이브 코딩으로 만든 플러그인이 쏟아진다는 이야기를 여러 번 했다. BPB 뉴스는 받은 편지함에 들어오는 걸 다 다루기보다 괜찮은 무료 플러그인 쪽에 초점을 맞추려 한다."
+            "x": "구조는 언어 모델 둘에 연속 합성 단계를 붙인 하이브리드다. Qwen3-8B에서 출발한 8B Global LLM이 곡의 긴 호흡과 구조 전개를 맡고 0.6B Local LLM이 프레임 안쪽의 미세한 음향 디테일을 되살린다. 이산 토큰만으로 오디오를 디코딩하지 않고 두 LLM의 은닉 상태를 합쳐 2.4B Flow Matching 단계와 123M Flow-VAE 디코더로 넘긴다. 토큰이 담지 못하는 음향 정보를 실어 나르는 이 연속 표현이 보컬의 발음, 악기 질감, 시간적 연속성에서 차이를 만든다."
           },
           {
             "t": "p",
-            "x": "Phosphor-1도 코딩에 AI 도움을 받았다. 그렇다고 프롬프트 한 번으로 뽑아낸 플러그인은 아니다. 개발자는 디자이너이자 뮤지션이고, 인터페이스를 다듬고 소리를 잡는 데 두 달쯤 걸렸다고 한다."
+            "x": "곡 길이는 5분까지 기본으로 지원한다. 인트로와 벌스, 프리코러스, 코러스, 브리지, 간주, 아웃트로로 이어지는 구조를 유지하면서 멜로디와 리듬, 보컬의 정체성을 놓치지 않는다. 가사 입력에는 [Intro], [Verse], [Pre-Chorus], [Chorus], [Post-Chorus], [Bridge], [Instrumental], [Solo], [Outro] 같은 섹션 태그를 직접 적어 구성을 정한다."
           },
           {
             "t": "p",
-            "x": "직접 써보니 만지는 재미가 있다. 늘어진 카세트에서 흘러나온 것 같은 소리나 Boards of Canada 계열의 디튠된 질감을 좋아한다면 한 번 볼 만하다."
+            "x": "평범한 설명 대신 Structured Caption을 쓰면 통제 폭이 더 넓어진다. 장르와 BPM, 조성과 음계, 감정 전개, 프로덕션 성격을 담는 Global Metadata, 성별과 음색·창법·화음·백보컬·이펙트를 담는 Vocal Details, 악기 구성과 섹션별 악기 변화·그루브·베이스·퍼커션·질감·공간감을 담는 Arrangement로 나뉜다. 보컬은 음색과 화음, 이펙트 단위까지 조절되고 은닉 상태 합성 경로 덕분에 긴 구간에서도 발음이 흐트러지지 않는다. 출력은 16비트 스테레오 WAV이며 Flow-VAE 디코더는 음악의 다이내믹 레인지와 스펙트럼 특성에 맞춰 다시 학습했다."
           },
           {
             "t": "p",
-            "x": "핵심 컨트롤은 Age다. 악기 전체에 한꺼번에 걸린다. 값을 올리면 피치와 필터, 레벨, 셰이프가 함께 흔들리기 시작한다. 카오스 엔진이 얹는 움직임은 똑같이 반복되는 법이 없어서, 은근한 아날로그풍 흠집에서 훨씬 불안정한 상태까지 밀어붙일 수 있다."
+            "x": "MiniMax는 짧은 음악 설명과 태그 붙은 가사를 Music 3.0용 상세 구조 캡션으로 바꿔주는 공식 스킬도 함께 공개했다. 명시한 음악적 제약은 그대로 두고 가사 텍스트는 가사 입력에 남긴 채, 글로벌 메타데이터와 보컬 디테일, 편곡 설명이 섹션별로 이어지는 캡션을 만들어 준다. 설치 명령은 npx skills add MiniMax-AI/MiniMax-Music3 --skill music-caption-rewriter."
           },
           {
             "t": "p",
-            "x": "그 설계가 나와 잘 맞는다. VHS풍 워블과 열화를 위해 BPB Dirty VHS를 만들었고, 거친 질감을 더한 컴프레션을 위해 BPB Dirty LA를 만들었다. Phosphor-1은 비슷한 자리에 있되 이펙트가 아니라 악기다."
-          },
-          {
-            "t": "p",
-            "x": "오실레이터 두 개와 전용 서브 오실레이터가 있고, 크로스와 링, 하드싱크로 섞는다. 로우패스에서 노치, 밴드패스, 하이패스로 옮겨가는 모핑 멀티모드 필터가 붙었고, warp·curve·fold·bias를 다루는 웨이브셰이퍼도 들어 있다."
-          },
-          {
-            "t": "p",
-            "x": "생성형 아르페지에이터도 눈에 띈다. 단순한 업다운 패턴에 그치지 않고 groove와 glitch, 스텝별 확률을 준다. 여기에 듀얼 LFO, 앰프·필터·피치 엔벨로프, 폴리와 모노, 레가토 모드, 스프레드와 페이즈가 붙은 유니즌, 글라이드, 최대 4배 오버샘플링, 프리셋 브라우저, 프리셋 68개가 따라온다."
-          },
-          {
-            "t": "p",
-            "x": "OA-Labs는 윈도우 지원을 테스트 중이며 대기자 명단을 받고 있다고 밝혔다. 앞으로 리버브와 딜레이, MIDI 싱크, 패턴을 따라가는 아르프 스텝, 프리셋 확장, 버그 수정이 더해질 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "OA-Phosphor-1은 맥용 AU와 VST3로 나온다. 다운로드 용량은 18MB이고, 이메일 주소를 넣으면 무료로 받을 수 있다."
+            "x": "직접 돌려보려면 ComfyUI를 0.33.0으로 올리거나 Comfy Cloud로 가면 된다. 워크플로를 내려받거나 템플릿 라이브러리에서 찾고 워크플로 안내대로 모델 가중치를 받아 지정된 모델 폴더에 넣는다. 가사와 음악 설명을 채우고 실행하면 끝이다. 가중치는 허깅페이스 MiniMaxAI/MiniMax-Music3에 올라와 있다."
           }
         ]
       }
     },
     {
-      "id": "music-ai-chart-rules",
+      "id": "music-trama",
       "eyebrow": "AI NEWS",
-      "headline": "새 AI 차트 규정은 녹음만 검사하고\n작곡 단계는 아예 묻지 않는다",
-      "body": "IFPI가 7월 30일부터 적용한 차트 기준은 목소리와 마스터만 따지고, 가사와 작곡은 범위 밖에 뒀다.",
-      "mini_headline": "녹음만 보는 차트 규정",
+      "headline": "무료 오프라인 스템 분리기 Trama,\n업로드 없이 네 갈래로 쪼갠다",
+      "body": "믹스 파일을 넣으면 보컬과 드럼, 베이스, 나머지 넷으로 인터넷 없이 갈라준다.",
+      "mini_headline": "무료 오프라인 스템 분리",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/the-ai-chart-rules-ask-if-a-record-is-human-they-never-ask-if-the-song-is/",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/08/22/trama-ai-stem-separator/",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Ohlhorst Digital이 만든 Trama는 윈도우와 macOS, 리눅스에서 도는 무료 단독 실행 AI 스템 분리기다."
+          },
+          {
+            "t": "p",
+            "x": "얼마 전 소개한 StemDeck은 트랙을 최대 여섯 갈래까지 나누는 무료 오픈소스 로컬 분리기였다. Trama도 오프라인이라는 접근은 비슷하지만 네 개 스템에 집중하고 필요한 걸 데스크톱 앱 하나에 담았다."
+          },
+          {
+            "t": "p",
+            "x": "믹스된 트랙을 끌어다 놓으면 보컬, 드럼, 베이스, 나머지로 갈라진다. 네 갈래 중 원하는 조합만 골라 내보낼 수 있고, 고르지 않은 부분은 파일 하나로 합쳐진다. 쓸 일 없는 스템까지 내보낼 이유가 없다."
+          },
+          {
+            "t": "p",
+            "x": "인터페이스는 군더더기가 없고 설치도 간단하다. 계정도, 클라우드 업로드도, 모델 별도 다운로드도 없다. 윈도우에서는 압축을 풀고 바로 실행하고, macOS는 디스크 이미지로 받으며, 리눅스는 바이너리를 풀어 실행 권한만 주면 된다."
+          },
+          {
+            "t": "p",
+            "x": "안에서 도는 건 Meta가 미세조정한 Hybrid Transformer Demucs 모델 htdemucs_ft다. 분리 모델 네 개가 앱에 함께 들어 있고 실행할 때 메모리로 올라가서, 전 과정이 인터넷 연결 없이 로컬에서 끝난다."
+          },
+          {
+            "t": "p",
+            "x": "품질은 Normal, High, Ultra 중에 고른다. 설정을 올리면 분리 패스를 더 돌려 결과를 평균 내기 때문에 스템은 깨끗해지지만 그만큼 오래 걸린다. Ohlhorst Digital은 High를 무난한 기본값으로 권한다."
+          },
+          {
+            "t": "p",
+            "x": "3분짜리 곡을 High로 돌릴 때 개발자가 잡은 시간은 호환 NVIDIA GPU에서 1~2분, CPU에서는 10~15분이다. 윈도우와 리눅스는 CUDA가 있으면 알아서 쓰지만 AMD GPU 가속은 아직 없다. 애플 실리콘에서는 MPS 백엔드가 꺼져 있어 CPU로 돈다."
+          },
+          {
+            "t": "p",
+            "x": "여러 곡을 큐에 걸어 한꺼번에 돌릴 수도 있다. 파일별로, 또 큐 전체로 진행률과 예상 완료 시각이 보인다. 스템 선택과 품질 프리셋, 출력 폴더는 다음에도 그대로 기억한다."
+          },
+          {
+            "t": "p",
+            "x": "입력은 WAV와 AIFF, MP3, FLAC를 받는다. 스템은 모두 44.1kHz 32비트 부동소수점 WAV로 나가고 다른 샘플레이트는 분리 과정에서 리샘플링된다. BWF 데이터와 큐 포인트, 라벨, 플레이리스트, 악기 정보, ID3 태그, 리퍼 마커 같은 WAV 메타데이터도 살린다."
+          },
+          {
+            "t": "p",
+            "x": "Trama v1.0.7은 64비트 윈도우 10/11과 x86_64 리눅스를 지원한다. macOS는 12 이상에 애플 실리콘만 되고 인텔 맥은 빠졌다. 모델과 라이브러리를 통째로 넣은 탓에 내려받을 용량은 윈도우 약 3.1GB, macOS 500MB, 리눅스 3.9GB로 큰 편이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-aria-charts",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 만든 곡은 호주 ARIA 차트에\n8월 28일부터 오르지 못한다",
+      "body": "AI가 전부 또는 대부분 만든 곡은 28일 차트부터 호주 공식 순위에서 빠진다.",
+      "mini_headline": "AI 음악 차트 제외",
+      "tool": "Music",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/08/24/ai-generated-music-banned-from-charting-aria/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "7월 30일, IFPI가 라틴아메리카와 중동, 아프리카, 동남아시아에서 운영하는 공식 차트에 새 등재 원칙을 적용하기 시작했다. 스무 곳 남짓을 더 포함시키려 각국 단체와 작업도 시작했다."
-          },
-          {
-            "t": "p",
-            "x": "생성형 AI로 만든 녹음물은 이제 세 조건을 채워야 차트에 든다. 쓰인 AI 서비스가 허가받은 합법 서비스일 것, 트랙이 '실질적으로 사람이 만든' 것일 것, 스트리밍이나 차트 조작 우려가 없을 것. 하루 전 음반사 열한 곳이 이 원칙을 내놨고, 3대 메이저가 그 안에 있다."
-          },
-          {
-            "t": "p",
-            "x": "스무 날 앞서 여덟 단체가 라벨 체계를 제안했다. 리드 보컬이나 주요 연주, 혹은 곡 전체가 모델에서 나왔으면 대문자 'AI'. 사람이 연주한 녹음에 모델이 표현의 일부만 건드렸으면 소문자 'ai'."
-          },
-          {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/7-13-AI-news.webp",
-            "cap": "업계가 제안한 AI 표기 라벨 체계"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ai-generated-music-to-be-banned-from-aria-charts-in-australia-1024x576.png",
+            "cap": "호주 ARIA 차트에서 AI 생성 음악이 제외된다. 사진: Johnny Bhalla"
           },
           {
             "t": "p",
-            "x": "7월 10일 발표문을 끝까지 읽으면 문장 하나가 남는다. 이 체계는 '현 시점에서는 가사, 작곡, 뮤직비디오, 커버 아트에서의 생성형 AI 사용을 다루지 않는다'. 작곡 단계 전체가 한 절로 범위 밖에 놓였다."
+            "x": "호주 음반산업협회(ARIA)가 새로 정한 규정에 따라, 전부 또는 대부분 인공지능이 만든 곡은 이번 주 금요일부터 호주 공식 차트에서 빠진다. AI의 도움을 받은 녹음이라도 “substantially human-made”, 그러니까 사람이 상당 부분 만든 곡이면 차트에 오를 수 있다."
           },
           {
             "t": "p",
-            "x": "작곡까지 손대기 어려웠으리라는 해석은 편하지만 사실이 아니다. Apple Music은 3월에 트랙, 작곡, 아트워크, 뮤직비디오 네 갈래의 투명성 태그를 내놨고, 작곡 태그는 가사까지 포함한다. 메이저 DSP가 넉 달 먼저 만들어 둔 항목을 업계는 표준에서 빼버렸다."
+            "x": "호주에서 가장 많이 들은 음악의 차트를 운영하는 ARIA는 차트 실무 규약을 세계 음반업계가 세운 원칙에 맞춰 고쳤다. 새 규약은 생성형 AI를 쓴 음악을 원칙적으로 배제하되, “substantially human-made”이면서 “raises no stream or chart manipulation concerns”인 경우만 예외로 둔다."
           },
           {
             "t": "p",
-            "x": "이유가 없지는 않다. 연주는 음향의 지문을 남긴다. Deezer가 그걸 잡아내는 탐지기를 만들었고, Billboard는 차트에서 AI 트랙을 가려낼 때 그 탐지기를 쓴다. 작곡은 아무것도 남기지 않는다. 코드 진행에는 스펙트럼 서명이 없고, 모델이 쓴 2절과 새벽 두 시 부엌 식탁에서 나온 2절을 갈라낼 검사법도 없다."
+            "x": "자격이 없는 음원은 ARIA가 차트에서 내리거나 순위를 바꾸고 이미 준 차트 어워드도 회수할 수 있다. 아티스트나 대리인이 잘못된 판단이라고 보면 이의를 제기하는 길은 열어뒀다. 적용 시점은 8월 28일 금요일에 발표되는 차트부터다."
           },
           {
             "t": "p",
-            "x": "문제는 '실질적으로 사람이 만든'이 차트 규정이 됐다는 점이다. 그 질문이 겨누는 자리는 아무도 확인할 수 없는 영역이다."
+            "x": "애너벨 허드(Annabelle Herd) ARIA 최고경영자는 아티스트들이 이미 AI 보조 도구를 쓰고 있더라도, 아티스트의 녹음을 학습한 AI 서비스가 통째로 뽑아낸 음악은 전혀 다른 문제라고 선을 그었다. 허드는 “이로써 호주에서 음악을 내는 모두가 따를 분명한 규칙이 생겼다”고 말했다."
           },
           {
             "t": "p",
-            "x": "1월에 실제 사례가 나왔다. IFPI 스웨덴은 AI 아티스트 Jacub의 'Jag vet, du ar inte min'을 대부분 AI로 만들었다는 이유로 Sverigetopplistan에서 제외했다. 팀은 녹음을 두고 다투지 않았다. 대신 '명확한 예술적 비전에 이끌린 집중적이고 의식적인, 사람 주도의 창작 과정'을 거쳤다고 반박했다. 방어의 무게가 보컬이 아니라 쓰기 쪽에 실렸다."
+            "x": "이번 결정 뒤에는 퀸즐랜드의 DJ 겸 프로듀서 조시 파와즈(Josh Fawaz)가 만든 마돈나 ‘Like a Prayer’ 커버를 둘러싼 논란이 있다. 지난달 호주 라디오에서 가장 많이 나온 곡이 됐고 ARIA 차트 두 곳에서 4위까지 올랐지만, 생성형 AI를 썼다는 지적이 업계에서 나왔다. 파와즈는 AI를 “도구로” 썼다고 인정했고 나중에 스포티파이 트랙 정보에 보컬과 드럼이 AI로 만들어졌다고 고쳐 적었다."
           },
           {
             "t": "p",
-            "x": "작곡 단계에는 이미 작동하는 규칙이 따로 있다. ASCAP과 BMI, SOCAN이 함께 나서 완전한 AI 작품은 등록하지 말라고 안내했다. 일부만 쓴 곡은 괜찮다. 이 선은 100퍼센트에 있고, 녹음 쪽 선은 '실질적으로 사람'에 있다. 기준은 둘인데 맞추는 사람이 없고, 돈이 걸린 쪽은 등록이다."
+            "x": "ARIA가 바꾼 내용 대부분은 국제음반산업협회(IFPI)가 7월에 내놓은 기준을 따른다. 당시 IFPI는 20개가 넘는 공식 차트 프로그램이 사람이 만든 녹음과 AI가 통째로 만든 녹음을 가려내려는 규정을 도입한다고 밝혔다. ARIA 관계자는 IFPI 기준대로라면 리드 보컬이나 핵심 악기를 AI로 만든 음악은 실격될 가능성이 크다고 설명했다. 파와즈의 곡 역시 더는 차트에 오르기 어려워 보인다."
           },
           {
             "t": "p",
-            "x": "그러니 이 도구로 곡을 쓰는 사람에게 먼저 걸리는 질문은 트랙에 어떤 스티커가 붙느냐가 아니다. 등록서에 무엇을 적을지, 그리고 그 작업을 함께한 공동 작곡가가 모두 같은 설명을 내놓을지다."
-          },
-          {
-            "t": "p",
-            "x": "청중은 이미 갈리고 있다. Luminate의 7월 조사에서 미국인 38%가 생성형 AI로 만든 음악에 덜 흥미를 느낀다고 답했고, 더 흥미롭다는 답은 28%였다. 라벨은 누가 불렀는지 알려준다. 7월의 어떤 체계도 누가 썼는지는 알려주지 않는다."
+            "x": "이 조치는 창작자와 AI 기업이 세계 곳곳에서 벌이는 다툼 한복판에서 나왔다. 여러 AI 기업이 저작권 있는 자료를 허락 없이 학습에 쓰고는 공정 이용이라고 주장해 왔다. 호주 정부도 자국 창작자를 위한 “strong copyright protections”를 담은 AI·데이터센터 규정을 만들고 있다고 밝혔다."
           }
         ]
       }
     },
     {
-      "id": "music-ml-plugin-week",
+      "id": "music-cyanite-tagging",
       "eyebrow": "AI NEWS",
-      "headline": "이번 주 신작은 머신러닝을 쓰면서도\nAI를 앞세우지 않는다",
-      "body": "드럼을 킥과 스네어까지 쪼개는 ReStem 2와 그래뉼러 신스 Lucid가 이번 주 나란히 풀렸다.",
-      "mini_headline": "AI라 부르지 않는 신작",
+      "headline": "Cyanite Tagging 2.0,\n메타데이터를 읽는 쪽이 AI로 바뀐다",
+      "body": "독일 Cyanite가 카탈로그 태깅 시스템을 Tagging 2.0으로 갈아 끼웠다.",
+      "mini_headline": "Cyanite 태깅 2.0",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/gear/new-plugins-this-week/",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/08/19/cyanite-rolls-out-a-big-upgrade-to-its-ai-music-tagging-tech/",
       "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T125447.316.png?fit=780%2C585&ssl=1",
+            "cap": "Cyanite의 AI 음악 태깅 기술을 그린 이미지"
+          },
+          {
+            "t": "p",
+            "x": "독일 스타트업 Cyanite는 음악 메타데이터를 AI로 만드는 일에 일찍 뛰어들었다. Music Ally가 이 회사를 처음 다룬 건 2019년 7월, 자동 태깅 기술이 Groovecat이라는 기존 회사에서 갈라져 나왔을 때다."
+          },
+          {
+            "t": "p",
+            "x": "7년이 조금 지난 지금 플랫폼이 크게 손질된다. Cyanite가 ‘Tagging 2.0’이라 부르는 업그레이드다. 음악 카탈로그를 분석해 메타데이터를 만든다는 뼈대는 그대로 간다."
+          },
+          {
+            "t": "p",
+            "x": "달라진 대목은 그 메타데이터를 누가 읽느냐다. 이제 사람만 보는 게 아니다. 회사는 카탈로그를 “탐색하고 정리하고 실제로 활용하는” 주체가 갈수록 AI 시스템으로 옮겨간다고 본다. 대화형 검색과 개인화 추천부터 카탈로그 자동화, 지능형 어시스턴트까지가 그 범위다."
+          },
+          {
+            "t": "p",
+            "x": "새로 손본 기능 상당수가 이 흐름을 겨냥한다. 업그레이드된 시스템은 BeatStars와 The Source, Rambling Records, Human Worldwide 같은 고객사가 이미 쓰고 있다."
+          },
+          {
+            "t": "p",
+            "x": "마르쿠스 슈바르처(Markus Schwarzer) 대표는 “AI가 음악 업계의 카탈로그 작업 방식을 바꾸고 있다. 다만 이런 새 작업 흐름은 그 밑에 깔린 음악 이해만큼만 좋아진다”고 말했다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-ai-search",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 검색이 내 공식 사이트를\n먼저 인용하게 만드는 방법",
+      "body": "Preferred Source 버튼을 달면 AI 검색이 내 사이트를 먼저 인용한다.",
+      "mini_headline": "AI 검색 인용 잡기",
+      "tool": "Music",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/own-your-ai-search-results-a-guide-for-artists-and-venues/",
+      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500.jpg",
-            "cap": "스튜디오에서 작업 중인 프로듀서"
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/AI-Search-For-Artists---Venues.jpg",
+            "cap": "Preferred Sources로 AI 검색 결과를 가져오는 법 — 아티스트와 공연장을 위한 안내"
           },
           {
             "t": "p",
-            "x": "MusicTech가 이번 주 나온 플러그인을 모았다. 스템 분리와 합성 쪽은 머신러닝에 기대면서도 스스로를 AI라고 내세우지 않는다."
+            "x": "구글이 Preferred Sources를 확대하면서 아티스트와 공연장에게 지렛대가 하나 생겼다. AI 검색과 AI Overviews, AI Mode에서 앞자리를 잡아 AI 때문에 줄어드는 웹사이트 트래픽에 맞서는 수단이다."
           },
           {
             "t": "p",
-            "x": "WaveMachine Labs의 ReStem 2는 섞여 있는 드럼 녹음을 킥과 스네어, 하이햇, 톰, 라이드, 크래시, 그리고 나머지로 나눈다. 갈라낸 요소마다 레벨과 게이팅, 다이내믹스를 따로 잡는다. 실시간으로 돌려도 되고 오프라인 렌더링으로 처리해도 된다. 킥과 스네어 채널에는 샘플 교체를 위한 Drumagog 기술이 들어갔다. Core는 99달러, Pro는 199달러다."
+            "x": "이제 어떤 사이트에든 구글 공식 Preferred Source 버튼을 직접 넣을 수 있다. 팬이 그 버튼을 누르면, 이후 그 팬이 음악이나 공연 시간, 공연장 규정을 AI 검색 도구에 물을 때 구글이 공식 도메인을 앞세우고 ‘Preferred’ 배지를 눈에 띄게 붙인다."
           },
           {
             "t": "p",
-            "x": "Minimal Audio의 Lucid는 그래뉼러 신시사이저다. 그레인 하나하나를 스케일에 맞춰 실시간으로 다시 조율하고, 그레인을 쌓아 코드와 아르페지오를 만든다. 그레인별 필터와 이미징, 스케일에 묶인 피치 시프팅을 쓰는 멀티탭 그레인 딜레이, 애니메이션이 가능한 매크로를 갖춘 모듈레이션, 이펙트 여덟 개가 따라온다. 도입가는 79달러, 정가는 129달러."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/08/MA-Lucid-hero@2000x1500.jpg",
-            "cap": "Minimal Audio의 그래뉼러 신시사이저 Lucid"
+            "x": "티켓 정보 환각부터 줄어든다. AI 답변 엔진은 공연 시간을 틀리게 말하거나 리셀러 티켓 사기 쪽으로 팬을 보내는 일이 잦은데, 우선 배지가 붙으면 공식 도메인이 1차 출처로 인용된다. 클릭률도 달라진다. 구글 데이터로는 AI 검색 결과 안에서 Preferred Source 링크를 누를 확률이 대략 두 배다. 생성형 엔진 최적화(GEO)는 보통 복잡한 기술 설계를 요구하지만, 이 기능은 이미 쌓인 팬의 애정을 곧장 검색 권위로 바꿔 놓는다."
           },
           {
             "t": "p",
-            "x": "Orph의 Monochord는 빈티지 하드웨어 샘플과 코드 프로그래밍을 붙인 '드림 머신 겸 하모니 워크스테이션'이다. Fairlight CMI, Memorymoog, Oberheim OB-X, Casio VL-1, Bontempi B3, Suzuki Omnichord에서 딴 소리 425개가 들어 있다. Space Echo와 Eventide H3000 같은 기기를 흉내 낸 이펙트 열다섯 개, 600가지가 넘는 코드 보이싱, 아르페지에이터와 스트럼 모드도 붙었다. 값은 139유로."
+            "x": "쓰는 자리는 세 곳이다. 구글의 가벼운 자바스크립트 버튼을 공식 사이트 루트 도메인, 투어나 이벤트 페이지 근처에 심는다. 프리세일 메일에는 원클릭 링크를 붙여 “AI 검색이 공식 티켓 링크와 공연 시간을 먼저 보여주도록 구글에서 우리를 Preferred Source로 저장해 달라”고 부탁한다. 공연장 규정과 입장 시간, 매표소 운영 시간을 적어둔 FAQ 페이지 맨 위에도 버튼을 둔다. 팬이 AI에게 “[공연장 이름] 가방 반입 규정이 뭐야”라고 물을 때 인용되는 쪽이 내 사이트가 된다."
           },
           {
             "t": "p",
-            "x": "Gulf Coast Synthesis의 Spectral은 하모닉스를 직접 그리는 가산 합성 악기다. Spectral Canvas에 오디오나 이미지를 끌어다 놓으면 하모닉스로 바뀌고, 브러시로 소리를 손수 그릴 수도 있다. Pattern과 Sacred Geometry 제너레이터가 스펙트럼을 만들어내며, All·Even·Odd·Inharmonic 모드로 배음을 고른다. 피치 드리프트와 테이프 워블, 드롭아웃으로 아날로그 질감도 흉내 낸다. 도입가는 39달러, 정가는 69달러."
+            "x": "설치는 두 갈래다. 워드프레스나 스퀘어스페이스처럼 커스텀 HTML/JS를 허용하는 사이트라면 구글의 대화형 버튼을 넣어, 팬이 사이트를 떠나지 않고 한 번에 등록하게 한다. 버튼을 띄울 자리에 google-add-preferred-source-btn 속성을 단 div를 놓고, head에 news.google.com/swg/js/v1/swg-basic.js 스크립트 태그를 붙이면 된다. data-theme는 dark와 light 중 사이트 톤에 맞춰 고른다."
+          },
+          {
+            "t": "p",
+            "x": "사이트 빌더가 스크립트를 막거나 메일과 SNS, 링크인바이오로 유도하고 싶다면 구글 직접 링크를 쓴다. https://www.google.com/preferences/source?q=yourdomain.com 끝에 루트 도메인만 바꿔 넣으면 된다. 팬이 누르면 도메인이 미리 채워진 구글 소스 설정 화면으로 바로 넘어가고 한 번 더 누르면 끝난다."
+          },
+          {
+            "t": "p",
+            "x": "AI 가시성 싸움은 더 이상 키워드가 아니라 팬을 얼마나 쥐고 있느냐로 갈린다. 버튼을 달고 메일에 링크를 넣는 데는 몇 분이면 되지만, 가장 열성적인 팬이 AI 검색에 질문을 던졌을 때 답으로 나오는 건 내 링크가 된다."
           }
         ]
       }

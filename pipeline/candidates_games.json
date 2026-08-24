@@ -1,95 +1,135 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "games",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://forums.unrealengine.com/t/unreal-mcp-is-now-available-in-uefn/2745278",
-      "source": "Unreal Engine (Epic Developer Community)",
+      "url": "https://gamesbeat.com/roblox-announces-new-creator-tools-for-analytics-a-b-testing-and-live-ops-exclusive/",
+      "source": "GamesBeat",
       "category": "games",
-      "published_iso": "2026-08-20T13:00:00Z",
-      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/e/a/8eabe8489511743e542c1ded7492cff4cede83ea.jpeg",
-      "excerpt": "Epic shipped Unreal MCP — the Model Context Protocol plugin introduced in UE 5.8 — inside UEFN, embedding an MCP server in the editor so agentic coding tools like Claude Code, Codex or Cursor can write and compile Verse, place and configure devices, and run play sessions with the creator."
+      "published_iso": "2026-08-24T16:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Uplift_Games_-_Adopt_Me_-_Thumbnail.webp",
+      "excerpt": "Roblox is giving creators new analytics, A/B testing and live-ops tooling designed to help them tune experiences and sustain long-term player engagement."
     },
     {
-      "url": "https://forums.unrealengine.com/t/fortnite-ecosystem-v42-00/2745257",
-      "source": "Unreal Engine (Epic Developer Community)",
+      "url": "https://80.lv/articles/how-spatial-streaming-is-unlocking-new-possibilities-in-3d-asset-delivery",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-08-20T11:32:00Z",
-      "og_image": "",
-      "excerpt": "The Fortnite Ecosystem v42.00 release notes bundle Unreal MCP support for agentic coding tools alongside touch gestures, an experimental ability framework and new environment assets — putting AI-assisted authoring into the default UEFN creator workflow."
+      "published_iso": "2026-08-24T15:32:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49730/images/6a7e4f3f2e6ea/contain_1200x630.jpg",
+      "excerpt": "Modern video is powered by adaptive streaming: one source file reaches any screen, on any connection, with playback that starts near instantaneously. Miris brings that model to 3D. We spoke with Miris CTO Sean Looper about spatial streaming and what it means for developers."
     },
     {
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "Google DeepMind",
+      "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-23-august-2026/",
+      "source": "CG Channel",
       "category": "games",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "og_image": "https://lh3.googleusercontent.com/3-fa8dN6qE5zOqabv7DWbya-NaanaBbogE0CR7nURBOCYbUReRvXpk-wXVVWc-rH54_I9h0dAy_j1p_eglh-ozRny_GqvCN4nfG06HbEqq96dBhRoA=w1440-h810-n-nu",
-      "excerpt": "DeepMind traces 15 years of game AI research from Atari agents to persistent online worlds, and announces a partnership with Fenris Creations to prototype AI agents inside the EVE Universe — a bid to turn research agents into shipped gameplay design."
+      "published_iso": "2026-08-24T04:30:42+00:00",
+      "og_image": null,
+      "excerpt": "CG Channel's weekly round-up of new and updated content-creation software, including AI-assisted and procedural tools for 3D artists and game developers."
     },
     {
-      "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
-      "source": "Game Developer",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-08-21T14:45:37Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?width=1400&auto=webp&quality=80&disable=upscale",
-      "excerpt": "Former Maxis engineer David 'Rez' Graham and ex-Take-Two AI head Luke Dicken unpack what actually matters about AI in game development beyond the hype — separating classic game AI craft from generative tooling and its effect on the nature of the work."
+      "published_iso": "2026-08-24T02:56:27+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
+      "excerpt": "A weekly Steam data round-up showing how even minor generative-AI use in a promising indie triggered review backlash — a market signal for studios weighing AI disclosure."
+    },
+    {
+      "url": "https://www.4gamer.net/games/999/G999905/20260823004/",
+      "source": "4Gamer",
+      "category": "games",
+      "published_iso": "2026-08-23T12:37:13+09:00",
+      "og_image": "https://www.4gamer.net/games/999/G999905/20260823004/SS/001.jpg",
+      "excerpt": "AnthropicのAI「Claude Code」の作業中にFPS「DOOM」のフリー版を楽しめる「kaboom.claude」が公開された。ゲームをインストールする必要はなく，Claudeが作業を…"
+    },
+    {
+      "url": "https://www.4gamer.net/games/960/G096009/20260821046/",
+      "source": "4Gamer",
+      "category": "games",
+      "published_iso": "2026-08-21T19:09:46+09:00",
+      "og_image": "https://www.4gamer.net/games/960/G096009/20260821046/SS/002.jpg",
+      "excerpt": "MONO ENTERTAINMENTは本日，新作タイトル「AIドット絵バトル」をリリースした。本作は，相手モンスターに勝てそうなモンスターを描いて戦うお絵描き対戦ゲームだ。自由にモンスターを描いて戦…"
+    },
+    {
+      "url": "https://80.lv/articles/free-blender-tool-for-procedural-spider-walks",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-08-21T12:42:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49837/images/6a8847cb10346/contain_1200x630.jpg",
+      "excerpt": "You move the body, and the add-on automatically figures out how the legs should step."
+    },
+    {
+      "url": "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-08-21T10:35:36+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/roblox-phone.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "The platform co-founded the Robust Open Online Safety Tools Model Community with Google, OpenAI, and Discord in 2025"
+    },
+    {
+      "url": "https://80.lv/articles/how-dark-and-darker-s-devs-used-aura-to-build-a-major-feature-in-half-the-time",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-08-20T16:23:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49818/images/6a864293a4835/contain_1200x630.jpg",
+      "excerpt": "Dark and Darker developers IRONMACE explain how Aura helped a non-technical designer work directly with the game's codebase, prototype tutorial systems, communicate with engineers, and help complete in just a couple of weeks what the studio estimates would normally have taken five to six weeks."
+    },
+    {
+      "url": "https://zdnet.co.kr/view/?no=20260819163951",
+      "source": "ZDNet Korea",
+      "category": "games",
+      "published_iso": "2026-08-19T16:50:01+09:00",
+      "og_image": "https://image.zdnet.co.kr/2026/08/19/6863fe42f79eab5c64bd64fcb166bda0.png",
+      "excerpt": "넥써쓰가 자체 AI 프레임워크로 만든 실증 솔루션 11종을 모은 '넥써쓰 AI 랩스' 포털을 공개했다. 프롬프트로 3D 모델을 만드는 Text to 3D, 텍스트로 게임을 만드는 wasd 등 콘텐츠 제작·업무 자동화 도구가 포함됐다."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/scantic-trains-gaussian-splats-entirely-on-your-phone/",
+      "source": "CG Channel",
+      "category": "games",
+      "published_iso": "2026-08-19T14:52:34+00:00",
+      "og_image": null,
+      "excerpt": "New iOS app generates 3DGS scans of objects and environments entirely on your phone, without cloud processing. The base app is free."
+    },
+    {
+      "url": "https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-08-17T10:24:45+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/rideshare-simulator.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Karch says he was \"triggered by certain later comments and shot first and thought second about how to respond\""
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/rideshare-stimulator-finally-gets-its-genai-disclosure-after-much-saber-rattling-and-it-turns-out-the-game-also-uses-the-tech-for-in-game-music",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-08-14T15:26:30+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Rideshare Stimulator has finally gotten a genAI disclosure on Steam after a furore, with Saber's CEO insisting that it's \"swim or die\" with genAI at large."
     },
     {
       "url": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
       "source": "Game Developer",
       "category": "games",
-      "published_iso": "2026-08-12T14:42:54Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6e9ff417175153e6/6a7c8a66f99fa04965db827a/THE_ALTERS_Announcement_KV_FINAL_nologo.jpg",
-      "excerpt": "A Gamescom dev-speaker survey finds 83% of developers expect generative AI to change team productivity or structure within three years, with 36% predicting reshaped roles rather than smaller teams and 30% wanting AI kept out of production."
+      "published_iso": "2026-08-12T14:42:54+00:00",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6e9ff417175153e6/6a7c8a66f99fa04965db827a/THE_ALTERS_Announcement_KV_FINAL_nologo.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "A survey completed by 100 speakers who took part in this year"
     },
     {
-      "url": "https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-08-13T14:31:00Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltef068dcaa36e8c54/6a7c802c08084de2fdbbdab8/ss_24a50290ce0be6b7c830995615485ef9669d276a.1920x1080.jpg",
-      "excerpt": "Saber Interactive CEO Matt Karch apologized to former lead writer Stella Sacco after she said she was 'replaced with ChatGPT' mid-production on Rideshare 'Stimulator'; the studio committed to adding an AI disclosure to the game's Steam page."
-    },
-    {
-      "url": "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-08-21T20:00:03Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/Screenshot-2026-08-21-at-3.29.07%20PM.jpg",
-      "excerpt": "System 3's James Pond Legacy trailer and character artwork drew accusations of generative-AI use — melted details, inconsistent props — even as the studio insists 'no generative AI was used,' another flashpoint in how players now read game art."
-    },
-    {
-      "url": "https://aftermath.site/james-pond-ai/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-08-21T18:20:00Z",
-      "og_image": "",
-      "excerpt": "Aftermath walks through the visual tells in the James Pond Legacy cover and trailer that read as AI-generated, against System 3's denial — a case study in how audiences now audit promotional art frame by frame."
-    },
-    {
-      "url": "https://aftermath.site/1666-amsterdam-ai-game/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-08-14T18:03:00Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/08/Screenshot-2026-08-14-092127.png",
-      "excerpt": "Patrice Desilets defends AI-generated imagery in 1666: Amsterdam's reveal, arguing 'I can ask the AI to give me 75 different variations' at a speed human illustrators couldn't match — a blunt statement of the iteration-vs-craft tradeoff."
-    },
-    {
-      "url": "https://gamesbeat.com/skillprint-launches-signal-benchmark-to-use-ai-to-move-players-to-better-mental-state/",
+      "url": "https://gamesbeat.com/nexon-wants-to-build-a-ugc-ecosystem-that-will-earn-creators-thousands-of-dollars-per-month/",
       "source": "GamesBeat",
       "category": "games",
-      "published_iso": "2026-08-19T16:55:00Z",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Skillprint-Signal-AI-Benchmark.jpg",
-      "excerpt": "Skillprint's Signal Benchmark scores how well AI models can shift players toward a target mental state, adjusting game parameters in real time — framing adaptive difficulty and pacing as a measurable, model-driven design layer."
+      "published_iso": "2026-08-11T16:20:17+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/EDITORIAL-CANVA-25.png",
+      "excerpt": "Nexon says it's building a UGC ecosystem that will earn creators thousands per month, starting with the MapleStory Vibe Camp contest."
     },
     {
-      "url": "https://gamesbeat.com/tom-clancys-rainbow-six-siege-cuts-critical-toxic-voice-chat-by-50-with-modulates-toxmod/",
-      "source": "GamesBeat",
+      "url": "https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-08-19T12:00:00Z",
-      "og_image": "",
-      "excerpt": "Ubisoft reports Rainbow Six Siege cut critical toxic voice chat by 50% using Modulate's ToxMod, with roughly 800,000 hours of voice audio analyzed monthly — AI moderation as a shipped part of live-service experience design."
+      "published_iso": "2026-08-11T14:05:37+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Nearly half of respondents expect AI-assisted development to be the most significant industry trend for the next three years"
     }
   ]
 }

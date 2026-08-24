@@ -1,144 +1,207 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "gadgets",
   "window_hours": 336,
-  "now_iso": "2026-08-21T22:00:26Z",
   "items": [
     {
-      "url": "https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/",
-      "source": "Engadget",
+      "url": "https://www.xda-developers.com/phone-runs-ai-assistant-offline-stopped-uploading-documents-to-cloud-chatbots/",
+      "source": "XDA Developers",
       "category": "gadgets",
-      "published_iso": "2026-08-21T16:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/we-have-more-details-on-apples-camera-equipped-airpods-and-they-are-pretty-dang-weird/intro-1787327785.jpg",
-      "excerpt": "Apple's camera-equipped AirPods will put a camera in each bud, capturing synchronized low-res stills — not video — that feed Visual Intelligence. On-device processing filters blurred or obstructed shots before anything is used."
+      "published_iso": "2026-08-24T20:00:16Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-3-5-in-noema-on-iphone-keyboard-and-clock-in-view.jpeg?w=1600&h=900&fit=crop",
+      "excerpt": "I can finally trust mobile AI with the important stuff"
     },
     {
-      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
-      "source": "MacRumors",
+      "url": "https://www.xda-developers.com/nothing-gets-added-smart-home-works-internet-unplugged/",
+      "source": "XDA Developers",
       "category": "gadgets",
-      "published_iso": "2026-08-21T09:31:00Z",
-      "og_image": "https://images.macrumors.com/t/P5RFPWoCv1u8Rklkr3eIR7wYHcA=/400x0/article-new/2026/06/airpods-pro-3-orange.jpeg?lossy",
-      "excerpt": "Leaked code shows camera AirPods capture synchronized 1-megapixel RGB stills with both active and passive capture modes. Safeguards include a status light, movement detection and on-device person detection."
+      "published_iso": "2026-08-24T18:30:16Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/home-assistant-ai.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "My smart home has zero cloud dependency"
     },
     {
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-08-18T16:19:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
-      "excerpt": "The camera AirPods are framed as visual sensors for the new Siri AI rather than a recording device, with an LED indicator whenever visual data leaves the device. It's a design answer to the ambient-camera privacy problem smart glasses keep failing."
-    },
-    {
-      "url": "https://www.macrumors.com/2026/08/20/airpods-beta-firmware-9a5347a/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-08-20T19:10:00Z",
-      "og_image": "https://images.macrumors.com/t/P3J8ny0Xf6Ou8jDtQzBQmRN6kFk=/400x0/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg?lossy",
-      "excerpt": "Apple shipped AirPods beta firmware 9A5347a adding the redesigned iOS 27 AirPods interface, an adaptive-mode slider and custom EQ. It's the first look at how Siri AI-era controls are being rethought on wearables."
-    },
-    {
-      "url": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
+      "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
       "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-08-17T17:18:00Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b6.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "iOS 27 beta 6 continues Apple's testing of the overhauled Siri AI, with enhanced conversation, personal context and on-screen intelligence. It's the last stretch before the assistant ships to every supported iPhone next month."
+      "published_iso": "2026-08-24T17:28:00+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b7.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle..."
     },
     {
-      "url": "https://www.engadget.com/2241335/rayneo-ar-smart-glasses-io-gt-series/",
-      "source": "Engadget",
+      "url": "https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/",
+      "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-08-21T07:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/rayneo-ar-smart-glasses-io-gt-series/intro-1787321898.jpg",
-      "excerpt": "RayNeo split its AR line in two directions at once: the lightweight, camera-free iO for all-day AI assistance and the heavier GT series built for cinema-scale viewing. Two opposite bets on what smart glasses are actually for."
+      "published_iso": "2026-08-24T16:32:48-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/zuckoff-app.jpg",
+      "excerpt": "Amid broad privacy concerns, new apps like Zuckoff help detect smart glasses in the wild."
     },
     {
-      "url": "https://www.notebookcheck.net/RayNeo-unveils-iO-Smart-Glasses-with-display-cinematic-RayNeo-GT-Series-with-up-to-307-inch-screen.1374359.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-08-21T07:00:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/rayneo-io-gt-launch.jpg",
-      "excerpt": "RayNeo's iO adds a HUD display with AI features but deliberately omits a camera, while the GT and GT Max push virtual screens up to 307 inches. The spec split shows how differently vendors are reading smart-glasses demand."
-    },
-    {
-      "url": "https://www.androidcentral.com/apps-software/meta/meta-patent-might-solve-privacy-concerns-on-smart-glasses-with-a-hardware-lock",
-      "source": "Android Central",
-      "category": "gadgets",
-      "published_iso": "2026-08-21T12:00:00Z",
-      "og_image": null,
-      "excerpt": "A new Meta patent proposes a physical 'hardware lock' for smart-glasses cameras, aimed at the severe backlash over always-on AI eyewear. It reframes privacy as an industrial-design problem rather than a settings screen."
-    },
-    {
-      "url": "https://www.androidcentral.com/gaming/virtual-reality/early-xreal-aura-hype-tops-expectations-ceo-chi-xu-says-its-demand-is-exciting",
-      "source": "Android Central",
-      "category": "gadgets",
-      "published_iso": "2026-08-20T12:00:00Z",
-      "og_image": null,
-      "excerpt": "Xreal says reservations for its Android XR glasses, Project Aura, have blown past 10,000 units ahead of an autumn launch. CEO Chi Xu calls the early demand for Gemini-powered eyewear 'exciting'."
-    },
-    {
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/meta-smart-glasses-could-soon-be-banned-in-cinemas-says-uk-trade-body-but-this-time-its-more-about-piracy-than-privacy",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-08-18T12:00:00Z",
-      "og_image": null,
-      "excerpt": "A UK cinema trade body wants Meta's camera glasses barred from screenings, this time over piracy rather than privacy. Camera-bearing AI wearables are starting to hit real-world venue rules."
-    },
-    {
-      "url": "https://9to5google.com/2026/08/21/google-pixel-watch-5-ai-face-generator-feature/",
+      "url": "https://9to5google.com/2026/08/24/pixel-11-pro-gemini-device-help/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-08-21T14:15:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "The Pixel Watch 5 can generate a custom watch face from a spoken prompt in 10–20 seconds, constrained to a set of sanctioned layouts. It's generative customization inside a design system, not a blank canvas."
+      "published_iso": "2026-08-24T16:14:01+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "On the Pixel 11 Pro, we're seeing a new \"Device help\" tool for the Gemini app that provides personalized and conversational assistance..."
     },
     {
-      "url": "https://www.engadget.com/2241496/google-pixel-watch-5-review/",
+      "url": "https://www.cnet.com/tech/services-and-software/chatgpt-vs-gemini-which-chatbot-is-best-at-seeing-the-world/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-08-24T14:40:41-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/adobestock-2061647993-editorial-use-only.jpg",
+      "excerpt": "I put these multimodal models through a camera test."
+    },
+    {
+      "url": "https://www.androidauthority.com/google-ask-gemini-android-apk-teardown-3702153/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-24T14:21:09+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-7-scaled.jpg",
+      "excerpt": "A recent Google update adds a useful Ask Gemini button within Android’s context menu that appears while highlighting text in other apps."
+    },
+    {
+      "url": "https://www.zdnet.com/article/googlebook-laptop-is-almost-here-can-it-avoid-copilot-pc-problem/",
+      "source": "ZDNET",
+      "category": "gadgets",
+      "published_iso": "2026-08-24T12:48:57.000Z",
+      "og_image": "https://www.zdnet.com/a/img/resize/6a04afe225a99809c7fe7efc593459c5d08f6cbd/2026/08/24/4dacd8eb-03dc-4079-92fc-a51ed150c727/googlebook.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "excerpt": "It won't be another high-end Chromebook like the Pixel, and Google has to hope it'll succeed where Copilot+ PCs have fallen short."
+    },
+    {
+      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-08-24T09:10:40+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291658389.jpg?quality=90&strip=all&crop=0%2C10.728819799005%2C100%2C78.54236040199&w=1200",
+      "excerpt": "﻿Literally ‘smashing’ — the bots can’t stop without colliding into a crash pad."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-08-24T05:55:51-07:00",
+      "og_image": "https://images.macrumors.com/t/fIP-NHOTBAREpNB9d4R4X7qgf-c=/2500x/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
+      "excerpt": "In the Apple Store app on the iPhone, select users have received access to an \"early preview\" of a new AI-powered virtual shopping assistant. Once it is available, you can open the chatbot by tapping on the speech bubble with two sparkles in the bottom-right corner of the app. Then, you can ask questions about Apple products, your existing Apple Store orders, trade-in values, payment options, and more, or simply tap on one of the common topics on the page to begin."
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/asus-zenbook-a14-review/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-08-24T01:57:06-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/ASUS-Zenbook-A14-Review-Top-Lid-2.jpg?resize=1200%2C630",
+      "excerpt": "The ASUS Zenbook A14 combines a 0.99kg chassis, excellent battery life, and impressive Snapdragon X2 Elite performance, but its 60Hz display keeps it from greatness."
+    },
+    {
+      "url": "https://www.engadget.com/2240187/apple-carplay-stop-siri-from-interrupting/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-08-21T14:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/google-pixel-watch-5-review/intro-1787323126.jpg",
-      "excerpt": "Pixel Watch 5 runs Gemini on-device for basic tasks without a phone and adds AI-generated watch faces and better sleep models. Several promised AI features, though, don't land until September."
+      "published_iso": "2026-08-23T20:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/how-to-stop-siri-from-interrupting-while-youre-using-carplay/l-intro-1786715541.jpg",
+      "excerpt": "Don’t let Siri become a hassle instead of an assistant; keep it quiet in the car to reduce distractions."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/23/apple-stores-prepare-new-home-products/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-08-23T12:20:11-07:00",
+      "og_image": "https://images.macrumors.com/t/8evGZrLRE4L9Xl4c4_D3adtBjEA=/1600x/article-new/2026/06/homepod-apple-tv-nearly-ready.jpg",
+      "excerpt": "Bloomberg's Mark Gurman reports that Apple is reorganizing parts of its brick-and-mortar stores this fall to make room for new home products. Writing in his latest Power On newsletter, Gurman says the teams responsible for store layouts are preparing changes to the \"Avenues,\" or the perimeter walls in Apple's newer stores, where accessories like HomePod, Apple TV, AirPods, and Beats are displayed alongside third-party accessories."
+    },
+    {
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/i-wore-these-obnoxious-travel-focused-smart-glasses-for-a-week-on-vacation-and-learned-more-than-id-bargained-for-about-the-stony-steps-of-santorini",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-08-22T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/wgVNbiihLKhh25HoPxTwCg-2560-80.jpg",
+      "excerpt": "Room to grow, but we all have to start somewhere"
+    },
+    {
+      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-08-22T13:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268709_HP_OmniBook_3_16_laptop_review_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Grading on a curve."
+    },
+    {
+      "url": "https://www.tomsguide.com/computing/smart-glasses/i-wore-virtue-and-xreals-new-budget-friendly-ar-glasses-for-a-week-and-this-is-the-pair-id-buy",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-08-22T11:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/fooTyD6WY4GY6qYr9ZNZfR-2560-80.jpg",
+      "excerpt": "Viture and Xreal are competing in the budget AR glasses space, so who wins? I’m comparing comfort, display quality and features to see who’s the best."
+    },
+    {
+      "url": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
+      "source": "WIRED",
+      "category": "gadgets",
+      "published_iso": "2026-08-22T10:00:00.000Z",
+      "og_image": "https://media.wired.com/photos/6a87862020408e2e1b24b43a/191:100/w_1280,c_limit/All-Work-Virtual-Play-Gear.jpg",
+      "excerpt": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose."
+    },
+    {
+      "url": "https://www.androidauthority.com/google-store-smart-displays-3701744/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-21T20:39:16+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/06/Google-Pixel-Tablet-vs-Google-Nest-Hub-Front.jpg",
+      "excerpt": "Why has Google not managed to keep a single smart display in stock for its online Google Store?"
+    },
+    {
+      "url": "https://www.androidauthority.com/us-robot-ban-pool-cleaners-3701655/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-21T16:45:55+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Beatbot-Sora-30-and-iSkim-robots-next-to-each-other-12.jpg",
+      "excerpt": "The FCC’s robot ban could catch foreign-made pool cleaners, potentially making smarter models harder and pricier to buy."
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "source": "Ars Technica",
+      "category": "gadgets",
+      "published_iso": "2026-08-21T11:00:53+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
+      "excerpt": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
+    },
+    {
+      "url": "https://9to5google.com/2026/08/20/pixel-11-personalized-suggestions/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-08-20T21:03:23+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-rambler-5.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "On the Pixel 11 series, Google has updated Gboard’s Writing tools with Gemini Intelligence to offer \"Personalized suggestions.\""
+    },
+    {
+      "url": "https://gizmodo.com/this-robot-vacuum-has-a-brush-and-mop-pad-that-can-reach-places-others-cant-2000800659",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-08-20T13:30:37+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/Mova-V70-Ultra-Complete-1200x675.jpg",
+      "excerpt": "The Mova V70 Ultra Complete's side brush and mop pad can stretch to get between chair legs and deep into corners."
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "source": "Ars Technica",
+      "category": "gadgets",
+      "published_iso": "2026-08-19T16:11:30+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-1-1152x648.jpg",
+      "excerpt": "Google's new Pixels make some compromises but still manage to be good phones."
+    },
+    {
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-review",
+      "source": "Android Central",
+      "category": "gadgets",
+      "published_iso": "2026-08-19T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iEioWuom4dRzdnVdBToDoW-2048-80.jpg",
+      "excerpt": "Elegance comes at too high a cost."
     },
     {
       "url": "https://9to5google.com/2026/08/19/pixel-11-pro-initial-review/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-08-19T16:00:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Fog-3.jpg",
-      "excerpt": "Gemini Intelligence features like Proactive Assistance are the real story of the Pixel 11 Pro, while the new HiLight hardware shipped incomplete. A case study in AI software carrying a hardware launch."
-    },
-    {
-      "url": "https://9to5google.com/2026/08/20/google-home-update-improves-voice-controls/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-08-20T21:53:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-2.jpg?quality=82&strip=all&w=1600",
-      "excerpt": "Gemini for Home's latest update finally handles specific kelvin color-temperature commands, better Spotify recognition and cleaner broadcasts. Small fixes that expose how much of AI smart-home UX is command-parsing craft."
-    },
-    {
-      "url": "https://gizmodo.com/proposed-oura-lawsuit-highlights-wearables-health-limitations-2000801638",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-08-21T18:00:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
-      "excerpt": "A proposed class action claims Oura's smart rings overstate sleep-tracking accuracy because they lack brain and eye-movement sensors. The suit puts a legal price on how confidently AI health wearables present inferred data."
-    },
-    {
-      "url": "https://gizmodo.com/its-official-no-man-can-outrun-our-robot-overlords-2000799565",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-08-17T21:51:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/07/unitree-store-china.jpg",
-      "excerpt": "Unitree's 'Superman' humanoid hit 12.66 m/s and a two-meter standing jump, edging past Usain Bolt's peak sprint speed. The reveal landed just ahead of the World Robot Conference and Humanoid Robot Games."
-    },
-    {
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-08-12T16:46:00Z",
-      "og_image": null,
-      "excerpt": "Sandbar argues the next AI wearable interface is voice capture for stray thoughts, built into a ring rather than a screen. Its Stream ring is a bet that keeping the human in control is the core design constraint."
+      "published_iso": "2026-08-19T16:00:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Fog-3.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Historically, Google has set out to make helpful devices. The Pixel 11 Pro continues that with Gemini Intelligence, while introducing..."
     }
   ]
 }

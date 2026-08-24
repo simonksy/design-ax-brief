@@ -1,117 +1,119 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "movies",
   "window_hours": 336,
-  "now_iso": "2026-08-21T22:00:26Z",
   "items": [
     {
-      "url": "https://www.awn.com/news/ltx-releases-open-weights-world-model-ltx-25",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-08-21T12:37:13+00:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ltx1-1280.jpg?itok=1swlnJRm",
-      "excerpt": "LTX released LTX-2.5, an open-weights video world model studios can run on their own hardware, keeping IP and prompts in-house. It handles ACES HDR end to end and renders multishot sequences as a single output; available now via Hugging Face, the LTX API and ComfyUI."
-    },
-    {
-      "url": "https://www.redsharknews.com/adobe-firefly-ai-audio-tools-generally-available",
-      "source": "RedShark News",
-      "category": "movies",
-      "published_iso": "2026-08-21T07:53:00+00:00",
-      "og_image": "https://www.redsharknews.com/hubfs/adobe%20firefly%20audio.jpg",
-      "excerpt": "Adobe made three Firefly AI audio tools generally available, letting editors generate music, voiceover and custom sound effects without leaving the app, with all generated music licensed for commercial use. Note: adjacent to the 8/21 Firefly card (postPerspective) — treat as possible dupe of that story.",
-      "dupe_risk": "Same Firefly release family as the card published 2026-08-21; different outlet and audio-specific angle."
-    },
-    {
-      "url": "https://beforesandafters.com/2026/08/21/accuface-2-grand-launch-professional-grade-facial-mocap-for-cc5-hd-characters/",
-      "source": "befores & afters",
-      "category": "movies",
-      "published_iso": "2026-08-20T23:25:57+00:00",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/AccuFACE-2_1280x720.jpg",
-      "excerpt": "Reallusion launched AccuFACE 2, an AI-driven markerless facial mocap system aimed at production-grade performance capture for CC5 HD characters from ordinary webcam or iPhone capture. It targets small teams doing character animation without a mocap stage."
-    },
-    {
-      "url": "https://postperspective.com/profuzs-subtitlenext-to-feature-expanded-transcriptions-imscr-support/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-08-20T18:03:00+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/SubtitleNEXTScreenshot4-copy-624x416.jpg",
-      "excerpt": "Profuz Digital's SubtitleNext adds expanded AI transcription integrations with AssemblyAI, Deepgram, ElevenLabs and Whisper, plus IMSCR support and batch processing for subtitle and audio-description work. It points at AI moving into routine localization pipelines rather than hero shots."
-    },
-    {
-      "url": "https://www.cartoonbrew.com/anime/studio-ghibli-future-hayao-miyazaki-265713.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-08-18T07:42:10",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Studio-Ghibli.jpg",
-      "excerpt": "A new in-depth report goes inside Studio Ghibli as it confronts its next film, Miyazaki's succession and its stance on AI — separating the tool from how it's used. It's a rare, concrete read on how a craft-first studio frames generative tech."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/business/digital/mpa-inks-ai-video-ip-protection-bytedance-1236675016/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-17T13:32:43+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-2207982283-1.jpg?w=1296&h=730&crop=1",
-      "excerpt": "The Motion Picture Association signed a memorandum of understanding with ByteDance to block studio IP from being reproduced by its Seedance/Seedream generative video models. It effectively sets guardrails on what one of the most-used AI video tools will let creators generate. Same story also covered by Engadget (engadget.com/2238384) if a different outlet is preferred."
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/08/fillmmaker-ai-exec-verena-puhm-launches-matriarch-prodco-with-animation-projects/",
-      "source": "Animation Magazine",
-      "category": "movies",
-      "published_iso": "2026-08-14T17:30:26+00:00",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Free-Leonard-Peltier-2025.jpg",
-      "excerpt": "Filmmaker and AI executive Verena Puhm launched Matriarch, a production company building animation and documentary projects around hybrid human/AI pipelines. Lower priority: closer to a company-launch story than a craft or tooling shift."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-08-12T20:19:09+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/BillyJoelAI1.jpg?w=1440&h=810&crop=1",
-      "excerpt": "A filmmaker recovered a lost 1971 Billy Joel radio interview and used AI to re-create the young singer on screen around the real audio. '1971: Billy Joel's Lost Interview' is a working test case for AI reconstruction in documentary — and the disclosure questions it raises."
-    },
-    {
-      "url": "https://nofilmschool.com/roku-ai-channel",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-08-12T19:02:05+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67608628&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
-      "excerpt": "Roku launched Fairground AI, a 24/7 free channel programmed entirely with AI-generated narrative shorts and commercials. It's the first mainstream US distribution slot built purely for synthetic video, and a live read on whether audiences will sit with it."
-    },
-    {
-      "url": "https://variety.com/2026/tv/global/ai-generated-turkish-tv-series-castle-walls-prime-video-first-1236832779/",
+      "url": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-08-12T09:01:32+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg?w=1000&h=563&crop=1",
-      "excerpt": "'Castle Walls,' an AI-generated Turkish short-form series, launched on Prime Video in what's billed as the first fully AI show to premiere worldwide on a major streamer. It marks the shift from AI festival shorts to platform-distributed series."
+      "published_iso": "2026-08-21T23:12:39Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2210325176.jpg?crop=0px%2C127px%2C5000px%2C2812px&resize=1000%2C563",
+      "excerpt": "A coalition convened by Kathleen Kennedy and AFI's Susan Ruskin published 'Human Generative Workflows,' a framework that separates AI-assisted craft steps (color grading assists, upscaling, markerless mocap) from prompted synthetic performance, and argues for a shared vocabulary of authorship in production."
+    },
+    {
+      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
+      "source": "fxguide",
+      "category": "movies",
+      "published_iso": "2026-08-24T15:30:00Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Flow.jpg",
+      "excerpt": "Autodesk Flow Studio's new 3D Editor + Canvas combines interactive 3D scene construction with generative 2D video models, so AI shots can be blocked, staged and re-framed like a real set instead of re-rolled from prompts."
     },
     {
       "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
       "source": "fxguide",
       "category": "movies",
-      "published_iso": "2026-08-11T10:45:00+00:00",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/image2-33-830x1107.jpeg",
-      "excerpt": "LA VFX studio Impossible Objects details running custom AI models locally on HP ZGX Nano workstations, blending generative passes with traditional VFX while keeping client assets off the cloud. A concrete look at hybrid, on-prem AI in a working commercial pipeline."
+      "published_iso": "2026-08-11T10:45:46Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-iohp-v3.jpg",
+      "excerpt": "LA studio Impossible Objects is running AI models locally on HP ZGX Nano desktops, folding artist-driven generative workflows in alongside traditional VFX tools without shipping client plates to the cloud."
+    },
+    {
+      "url": "https://www.awn.com/animationworld/vale-origins-ai-through-lens-grief-and-creativity",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-08-21T23:29:14Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/thevaleorigins-stills-01-1280.jpg?itok=xpoCv2qi",
+      "excerpt": "Abigail Hing Wen's hybrid animated/live-action short 'The Vale - Origins' tells a story about an AI-powered virtual sanctuary built from a child's drawings — and was deliberately made without generative AI."
+    },
+    {
+      "url": "https://www.cined.com/testing-seedance-2-5-with-elaborate-prompting-new-module-in-directing-the-future-ethical-ai-video-for-filmmakers/",
+      "source": "CineD",
+      "category": "movies",
+      "published_iso": "2026-08-21T13:58:01Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/testing_higgsfield_new_lesson-feature_image.jpg",
+      "excerpt": "Drew Geraci stress-tests Seedance 2.5 with long-form, shot-designed prompts in a new MZed module on ethical AI video, showing how directing language (lens, blocking, continuity) changes generated output."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-08-21T13:37:52Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&strip=all&crop=0%2C11.121766626924%2C100%2C77.756466746151&w=1200",
+      "excerpt": "Filmmaking YouTubers including Matti Haapoja and Sam Kolder are facing audience revolt for promoting Higgsfield and Seedance 2.5, a signal of how the creative audience is policing AI sponsorship."
+    },
+    {
+      "url": "https://deadline.com/2026/08/roger-avary-paradise-lost-us-release-date-theatrical-1237044153/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-08-18T15:48:07Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/04/Roger-Avary-Paradise-Lost.jpg?w=1024",
+      "excerpt": "Roger Avary's 'Paradise Lost' and Alex Proyas' 'Heaven' — both produced with Ex Machina Studios' proprietary AI pipeline — have landed U.S. theatrical commitments for 2027, a first real wide-release test for AI-made features."
+    },
+    {
+      "url": "https://www.provideocoalition.com/sp-studios-uses-brompton-hydra-to-transform-virtual-production/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-08-18T11:21:00Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/bromptonredrock001.jpg",
+      "excerpt": "SP Studios rebuilt its LED volume workflow around Brompton Hydra, changing how in-camera VFX shots are lit, calibrated and captured on set."
+    },
+    {
+      "url": "https://www.animationmagazine.net/2026/08/animaze-2026-unveils-programming-highlights-first-ever-ai-animation-forum/",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-08-17T21:45:10Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Animaze_Bill-Plympton_Johnnie-Semerad.png",
+      "excerpt": "Animaze Montreal's 2026 edition (Sept 17-19) adds a first-ever AI Animation Forum to its programming, putting generative pipelines on the main stage of a legacy animation festival."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gnp86XUSzgg",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-08-21T22:57:00Z",
+      "og_image": "https://i.ytimg.com/vi/gnp86XUSzgg/maxresdefault.jpg",
+      "excerpt": "Curious Refuge walks through Apple's new photoreal personal-avatar cloning and what near-perfect digital doubles mean for performance capture and on-camera talent in AI filmmaking."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OQPYWzlyrGg",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-08-13T17:47:00Z",
+      "og_image": "https://i.ytimg.com/vi/OQPYWzlyrGg/maxresdefault.jpg",
+      "excerpt": "A 30-character stress test of Seedance 2.5 measuring how well the model holds character identity across shots — the consistency problem that decides whether generative video can carry a narrative scene."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-08-18T19:28:00Z",
+      "og_image": "https://i.ytimg.com/vi/qv0s1_coX50/maxresdefault.jpg",
+      "excerpt": "Curious Refuge tests a free AI video generator against paid tools, benchmarking where no-cost models now land for indie filmmaker shot generation."
+    },
+    {
+      "url": "https://www.cartoonbrew.com/business/wildbrain-acquires-personality-ai-265896.html",
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "published_iso": "2026-08-24T09:19:51Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hey-Peppa-Pig.jpg",
+      "excerpt": "WildBrain is buying Personality AI, the generative-AI company behind conversational 'Hey Peppa Pig' characters, moving real-time AI character performance into a major kids-animation studio's production and IP pipeline."
+    },
+    {
+      "url": "https://beforesandafters.com/2026/08/24/how-the-camp-miasma-team-used-a-glass-matte-painting-shot-in-their-film/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-08-23T23:17:01Z",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/matte.jpg",
+      "excerpt": "Production designer Brandon Tonner-Connolly breaks down a hand-painted glass matte shot on 'Teenage Sex and Death at Camp Miasma' — an in-camera answer to effects work that would default to digital or generative today."
     }
-  ],
-  "notes": {
-    "dropped_stale_examples": [
-      "cartoonbrew.com Ed Catmull / Higgsfield GenAI jury (2026-08-05) — STALE",
-      "animationmagazine.net 'The Best of SIGGRAPH 2026' (2026-08-07T18:53Z) — STALE by ~3h",
-      "awn.com Higgsfield 'Kök Börü' hybrid AI pipeline (2026-07-23) — STALE",
-      "fxguide Foundry SmartRoto AI roto (2026-07-16) — STALE",
-      "redsharknews SAG-AFTRA AI deal (2026-06-08), Aiarty upscaler (2026-06-29), Adobe creative agent (2026-06-18) — STALE"
-    ],
-    "dropped_duplicates": [
-      "postperspective.com Adobe Firefly updates — exact URL already published as a card on 2026-08-21",
-      "nofilmschool.com/eddie-ai-9b (2026-08-20) — same story as the 2026-08-21 CineD Eddie AI card",
-      "engadget.com/2238384 ByteDance–MPA — same story as the THR item kept above"
-    ],
-    "dropped_as_business_noise": [
-      "variety.com AFM House innovation hub (market/business)",
-      "variety.com COL AI Studios distribution launch"
-    ],
-    "source_access": "Variety / THR / Deadline / IndieWire block WebFetch via tollbit (307→402) and awn.com / animationmagazine.net return 403; published times and og:image for those were verified directly from the page HTML and their RSS pubDate. YouTube channel pages returned empty, so no social candidates this run.",
-    "coverage": "Section AI news is thin this window — swept variety, hollywoodreporter, deadline, indiewire, screendaily, nofilmschool, fxguide, beforesandafters, vfxvoice, postperspective, provideocoalition, redsharknews, cartoonbrew, awn, animationmagazine, motionographer, studiodaily, theasc, 80.lv, engadget via search + RSS/index scans; 11 fresh on-topic items across 9 outlets is what the beat produced."
-  }
+  ]
 }
