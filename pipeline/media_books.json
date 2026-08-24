@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "books",
   "media": [
     {
-      "id": "books-machine-reader",
+      "id": "books-play-insights",
       "type": "image",
-      "src": "pipeline/media/books-machine-reader.jpg"
+      "src": "pipeline/media/books-play-insights.jpg"
     },
     {
-      "id": "books-ai-chapter-summaries",
+      "id": "books-spotify-audiobook-ai",
       "type": "image",
-      "src": "pipeline/media/books-ai-chapter-summaries.jpg"
+      "src": "pipeline/media/books-spotify-audiobook-ai.jpg"
     },
     {
-      "id": "books-friedman-ai-roundup",
+      "id": "books-warhammer-ai-warning",
       "type": "image",
-      "src": "pipeline/media/books-friedman-ai-roundup.jpg"
+      "src": "pipeline/media/books-warhammer-ai-warning.jpg"
     },
     {
-      "id": "books-frankfurt-rights-ai",
+      "id": "books-ai-editor-limits",
       "type": "image",
-      "src": "pipeline/media/books-frankfurt-rights-ai.jpg"
+      "src": "pipeline/media/books-ai-editor-limits.jpg"
     },
     {
-      "id": "books-proudly-human",
+      "id": "books-ai-training-law",
       "type": "image",
-      "src": "pipeline/media/books-proudly-human.jpg"
+      "src": "pipeline/media/books-ai-training-law.jpg"
     }
   ]
 }

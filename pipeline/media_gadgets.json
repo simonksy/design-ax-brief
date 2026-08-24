@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-airpods-camera-stills",
+      "id": "gadgets-offline-doc-llm",
       "type": "image",
-      "src": "pipeline/media/gadgets-airpods-camera-stills.jpg"
+      "src": "pipeline/media/gadgets-offline-doc-llm.jpg"
     },
     {
-      "id": "gadgets-rayneo-io-gt-split",
+      "id": "gadgets-gemini-device-help",
       "type": "image",
-      "src": "pipeline/media/gadgets-rayneo-io-gt-split.jpg"
+      "src": "pipeline/media/gadgets-gemini-device-help.jpg"
     },
     {
-      "id": "gadgets-meta-camera-hardware-lock",
+      "id": "gadgets-apple-store-assistant",
       "type": "image",
-      "src": "pipeline/media/gadgets-meta-camera-hardware-lock.jpg"
+      "src": "pipeline/media/gadgets-apple-store-assistant.jpg"
     },
     {
-      "id": "gadgets-oura-sleep-lawsuit",
+      "id": "gadgets-budget-ar-glasses",
       "type": "image",
-      "src": "pipeline/media/gadgets-oura-sleep-lawsuit.jpg"
+      "src": "pipeline/media/gadgets-budget-ar-glasses.jpg"
     },
     {
-      "id": "gadgets-gemini-home-voice-kelvin",
+      "id": "gadgets-glasses-detector-app",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-home-voice-kelvin.jpg"
+      "src": "pipeline/media/gadgets-glasses-detector-app.jpg"
     }
   ]
 }

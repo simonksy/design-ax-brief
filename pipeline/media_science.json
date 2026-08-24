@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "science",
   "media": [
     {
-      "id": "science-bonsai",
+      "id": "science-skala-cp2k",
       "type": "image",
-      "src": "pipeline/media/science-bonsai.jpg"
+      "src": "pipeline/media/science-skala-cp2k.png"
     },
     {
-      "id": "science-ai-observatory",
+      "id": "science-dna-initiator",
       "type": "image",
-      "src": "pipeline/media/science-ai-observatory.jpg"
+      "src": "pipeline/media/science-dna-initiator.jpg"
     },
     {
-      "id": "science-shadow-care",
+      "id": "science-grcop42-print",
       "type": "image",
-      "src": "pipeline/media/science-shadow-care.jpg"
+      "src": "pipeline/media/science-grcop42-print.jpg"
     },
     {
-      "id": "science-intrabodies",
+      "id": "science-eta-learning",
       "type": "image",
-      "src": "pipeline/media/science-intrabodies.jpg"
+      "src": "pipeline/media/science-eta-learning.jpg"
     },
     {
-      "id": "science-qec-decoder",
+      "id": "science-slac-compress",
       "type": "image",
-      "src": "pipeline/media/science-qec-decoder.png"
+      "src": "pipeline/media/science-slac-compress.jpg"
     }
   ]
 }

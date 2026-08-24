@@ -1,149 +1,204 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "design",
   "window_hours": 72,
-  "now_iso": "2026-08-21T22:00:26Z",
   "items": [
     {
-      "url": "https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3xLtJ0VSS9Y6ofgQP8pXE3/670d34fc0dd906351aafc8ac2724938d/v0-connectog.png",
-      "excerpt": "Apps and agents built in v0 can now securely connect to 100+ third-party services — Slack, Google, Notion, GitHub, Salesforce — through Vercel Connect. Prompt-built prototypes can now reach real company data without a developer wiring the auth."
-    },
-    {
-      "url": "https://www.builder.io/blog/survive-ai-mandate",
-      "source": "Builder.io",
-      "category": "figma",
-      "published_iso": "2026-08-19T00:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/0f722cac40ea4f258b6f1e73a60dc19a?format=webp&width=800",
-      "excerpt": "Top-down AI mandates raise output expectations but not real productivity: nearly 40% of the speed gain is eaten by verification and coordination work. The argument is that AI has to live inside the workflow teams already use, not sit beside it as another handoff."
-    },
-    {
-      "url": "https://dev.to/elsie-rainee/best-ai-design-tools-to-know-and-use-in-2026-2oi6",
+      "url": "https://dev.to/planetabhi_/design-diff-a-visual-feedback-loop-for-coding-agents-17c9",
       "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-08-21T12:15:21Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3vq1xt1s1gyv1yai2pav.png",
-      "excerpt": "A practitioner's sweep of the AI design tool stack as it stands in late 2026, framed around the blank-canvas-with-a-three-hour-deadline case. Useful as a map of which tool actually earns a slot in a working designer's day."
+      "published_iso": "2026-08-22T06:33:18Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy2rggbl6o20y12uj2y3.webp",
+      "excerpt": "A coding agent can write the markup and ship a page in seconds, but it can't see what it made. Design Diff proposes a visual feedback loop that hands agents a screenshot-level comparison against the intended design."
     },
     {
-      "url": "https://www.cgchannel.com/2026/08/foundry-releases-nuke-17-1/",
+      "url": "https://www.youtube.com/shorts/hOw_XiB9l_0",
+      "source": "Figma (YouTube)",
+      "category": "figma",
+      "published_iso": "2026-08-24T16:25:31Z",
+      "og_image": "https://i.ytimg.com/vi/hOw_XiB9l_0/maxresdefault.jpg",
+      "excerpt": "Figma demos its new Eraser tool and updated Fill tool on canvas, part of the post-Config wave of direct-manipulation drawing features."
+    },
+    {
+      "url": "https://dev.to/voltwake/your-ai-doesnt-understand-design-so-i-gave-it-a-library-it-can-read-5cg0",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-08-22T06:18:47Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2utjbzpxdkxwt6902p6k.png",
+      "excerpt": "Ask an LLM to 'make this landing page look like a high-end Swiss design studio' and you get mush. The author's fix: give the model a machine-readable design library of tokens and components it can actually read."
+    },
+    {
+      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
+      "source": "fxguide",
+      "category": "render",
+      "published_iso": "2026-08-24T15:31:01Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Flow.jpg",
+      "excerpt": "Autodesk Flow Studio's new 3D Editor + Canvas combines interactive 3D scene construction with generative 2D video models, making AI filmmaking directable instead of prompt-and-pray."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-23-august-2026/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-08-20T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Foundry's Nuke 17.1 adds relighting for Gaussian splats and Hydra 2.0 support in the 3D viewer. Neural-captured scenes become relightable comp elements, pulling AI-era 3D capture into a standard finishing workflow."
+      "published_iso": "2026-08-24T04:30:42Z",
+      "og_image": "",
+      "excerpt": "Weekly CG tool roundup covering Meshy 7's image-to-3D generative model, Gaussian splat app Postshot, and Topaz Labs' AI-powered VFX tools."
     },
     {
-      "url": "https://dev.to/ugliai/ai-video-in-2026-the-expensive-part-is-the-failed-shot-not-the-generate-button-215l",
-      "source": "DEV Community",
+      "url": "https://80.lv/articles/how-spatial-streaming-is-unlocking-new-possibilities-in-3d-asset-delivery/",
+      "source": "80 Level",
       "category": "render",
-      "published_iso": "2026-08-21T06:55:09Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8wpb5whiyvv48wdyi6ed.png",
-      "excerpt": "Runway, Kling, Pika, Luma and Google Flow/Veo compared not on demo reels but on usable-shot rate and cost per delivered shot, with a test protocol you can run on your own assets. It reframes gen-video budgeting around failures, not generations."
+      "published_iso": "2026-08-24T15:32:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49730/images/6a7e4f3f2e6ea/contain_1200x630.jpg",
+      "excerpt": "Miris brings adaptive-streaming logic to 3D: one source asset streams to any device at the right fidelity, changing how designers ship heavy 3D content to the web."
     },
     {
-      "url": "https://www.engineering.com/onshape-is-bracing-for-an-ai-explosion/",
+      "url": "https://80.lv/articles/new-marvelous-designer-update-lets-artists-rip-pinch-shape-fabric-like-never-before/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-08-24T14:02:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49804/images/6a84c5292602a/contain_1200x630.jpg",
+      "excerpt": "Marvelous Designer 2026.1 adds a Seamline Ripping Tool plus Brush Pinching and Pinching Simulation Override, giving garment and character artists far finer control over cloth."
+    },
+    {
+      "url": "https://www.engineering.com/51world-unveils-two-embodied-ai-products/",
       "source": "Engineering.com",
       "category": "cad",
-      "published_iso": "2026-08-19T17:39:37Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_engpaper_thumb2026-aug18.png",
-      "excerpt": "Onshape Labs' new FeatureScript MCP server lets any AI coding agent — Claude, Gemini, ChatGPT — build, test and evaluate custom CAD features. Custom tooling inside CAD moves from a specialist task to a prompt."
+      "published_iso": "2026-08-24T12:12:40Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/images-1-2.png",
+      "excerpt": "Simulation firm 51WORLD unveiled two embodied-AI products built on its digital-twin engine, pushing synthetic 3D environments into robot training and product validation."
     },
     {
-      "url": "https://www.engineering.com/pudu-robotics-launches-pudu-mp2000-pallet-robot/",
-      "source": "Engineering.com",
+      "url": "https://www.fastcompany.com/91593315/walmart-3d-printed-stores-alquist-fgmi",
+      "source": "Fast Company",
       "category": "cad",
-      "published_iso": "2026-08-21T14:01:13Z",
-      "og_image": null,
-      "excerpt": "Pudu's MP2000 pallet robot carries a 2,000 kg payload and uses AI-native perception for floor-to-floor material transport. A concrete look at how physical-AI perception is now designed into industrial hardware rather than bolted on."
+      "published_iso": "2026-08-24T00:30:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91593315-Design-Walmart-3d-printing.jpg",
+      "excerpt": "Walmart is 3D printing store structures with Alquist and FGMI, a fabrication shift that pulls computational design and robotic construction into mainstream retail architecture."
     },
     {
-      "url": "https://www.mindstudio.ai/blog/bird-ai-coding-agent-block",
-      "source": "MindStudio",
-      "category": "tokens",
-      "published_iso": "2026-08-20T00:00:00Z",
-      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/7f52ff21-18d2-4133-9358-7b36712fd613.png?fm=auto&w=1200&h=630&fit=crop",
-      "excerpt": "Block's free open-source desktop app Bird unifies Claude, Codex, Copilot, Amp and Goose behind one interface. For design engineers juggling agents, it is a single surface instead of five terminals."
+      "url": "https://roadtovr.com/arm-patent-xr-motion-sickness-vestibular-stimulation-ultrasound/",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-08-24T15:29:47Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/arm-vestibulat-stimulation-patent.jpg",
+      "excerpt": "A newly granted Arm patent describes a headset that analyzes on-screen motion and fires ultrasonic transducers at the inner ear to cancel XR motion sickness — a hardware-level comfort primitive for spatial designers."
     },
     {
-      "url": "https://www.mindstudio.ai/blog/choosing-ai-builder-lovable-replit-codex",
-      "source": "MindStudio",
-      "category": "tokens",
-      "published_iso": "2026-08-20T00:00:00Z",
-      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/394b50b9-691f-414d-9f91-a3db378b80fd.png?fm=auto&w=1200&h=630&fit=crop",
-      "excerpt": "A hands-on comparison of Lovable, Replit, Bolt, Codex and Claude Code, matched to the kind of app idea each one actually suits. Practical triage for designers deciding where a prototype should be born."
+      "url": "https://www.uploadvr.com/phoenix-everything-we-know-so-far-meta-next-headset/",
+      "source": "UploadVR",
+      "category": "vr",
+      "published_iso": "2026-08-24T17:04:15Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/08/combined-2.png",
+      "excerpt": "Everything known so far about Project Phoenix, Meta's next headset — display stack, form factor and the interaction model it implies for spatial app designers."
     },
     {
-      "url": "https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "tokens",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/XjRrN5hZhlEhKtaKK82HX/21cb9a2fc8061a972c50e795f492248a/Vercel_x_DeepSeek.png",
-      "excerpt": "DeepSeek V4 Flash with image input is now callable through Vercel AI Gateway on one API key, with a 1M-token context window, fallbacks and per-request tracing. Cheap multimodal vision for screenshot-to-UI and design-QA agents."
+      "url": "https://www.fastcompany.com/91591873/the-remarkably-human-task-of-giving-ai-good-enough-taste",
+      "source": "Fast Company",
+      "category": "workflow",
+      "published_iso": "2026-08-24T01:30:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91591873-AI-is-approaching-good-enough-taste.jpg",
+      "excerpt": "Designer Fund's Ben Blumenrose argues the floor for AI-generated website design is rising fast, and that the scarce human job is now supplying taste — the judgment about what 'good enough' means."
     },
     {
-      "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+      "url": "https://www.fastcompany.com/91574378/architects-ai-data-design-tools",
+      "source": "Fast Company",
+      "category": "workflow",
+      "published_iso": "2026-08-24T00:09:14Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91574378-Design-SE-Architectures-AI-Opportunity.jpg",
+      "excerpt": "Architecture may be one of AI's hardest domains: the drawings and design rationale that would train a model sit locked inside firms, and Anthropic and other labs can't reach them."
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
       "source": "VentureBeat",
       "category": "workflow",
-      "published_iso": "2026-08-20T17:00:00-07:00",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/64GVvPFWGaLTPjNLaZ9mdN/740b7f4f14646dcfca71b13822379524/Nuneybits_Vector_art_of_terminal_dissolving_into_colorful_team__390a5221-7b54-4a07-a6a1-b48a95bb2f5c.webp?w=1000&q=100",
-      "excerpt": "Slack Code embeds coding agents like Claude Code and Devin directly into team channels, turning agent work from a solo terminal session into something a whole team watches, steers and approves. Designers and PMs get a seat at the build loop."
+      "published_iso": "2026-08-24T13:00:00Z",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3hua2YyLpElNb1QMiOYPxZ/886fb488b23b0b7bd6c26326f452caea/Nuneybits_Vector_art_of_a_cubist_CRT_merging_green_code_with_on_17185101-bb2c-4fa9-82b5-2deb42825871.webp?w=300&amp;q=30",
+      "excerpt": "Anthropic's new Claude tag update lets its Slack agent read a whole channel conversation and jump in unprompted — a bet that the bottleneck in enterprise AI is that people still use AI alone."
     },
     {
-      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
       "source": "VentureBeat",
       "category": "workflow",
-      "published_iso": "2026-08-20T10:25:00-07:00",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5I3UuhIsHvssElUOhxg953/b120622de8833224afa8c1425d376d2a/ChatGPT_Image_Aug_20__2026__01_10_24_PM.png?w=1000&q=100",
-      "excerpt": "NanoClaw's Slack integration spins up persistent teams of specialized AI agents with their own identities and skills from a single message, and lets one person's agent query another's. A preview of what a design org staffed partly by agents looks like."
+      "published_iso": "2026-08-22T21:30:00Z",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/77xI8pjNCF15RAYOfGy3Wc/5d842415ac43315f35e7ffb1e6efe594/u7277289442_A_human_holds_a_yield_sign_in_front_of_a_sophisti_3ba66be4-afa4-46c1-ae9d-ef9e7b4fcfbc_2.png?w=300&amp;q=30",
+      "excerpt": "The teams getting real value from AI agents are deliberately narrowing autonomy — scoping what an agent may do alone and where a human must approve, a pattern design orgs can copy."
     },
     {
-      "url": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453",
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "source": "VentureBeat",
+      "category": "workflow",
+      "published_iso": "2026-08-23T23:00:00Z",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/ohCjTlo9CnM6jgcDPRDHw/ab6378302d6157417aa0ea0e55325eb1/u7277289442_A_sophisticated_AI_robot_is_routing_data_through__30c6a65e-7919-420c-9853-e10113a180e7_0.png?w=300&amp;q=30",
+      "excerpt": "Context engineering hits a wall when the underlying documents are messy: agent reliability tracks the quality of the source material, not the model."
+    },
+    {
+      "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-08-20T10:21:42Z",
-      "og_image": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.53/1*S8OB7T_kb-ZSjryH4s2-sQ.png",
-      "excerpt": "An argument that AI ethics in product is really an accountability gradient: making the human behind the machine visible changes what users judge as right. Directly actionable for anyone designing disclosure and attribution in AI features."
+      "published_iso": "2026-08-24T11:15:25Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/0*YbJpdLVM_7GERGTS.png",
+      "excerpt": "UX Collective's weekly roundup on how to become an 'AI designer' and what vibe-coded portfolios are doing to hiring and craft expectations."
     },
     {
-      "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f",
+      "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-08-19T09:26:11Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*S9Babiz8jzdfqAKTlQlaag.png",
-      "excerpt": "Rejects the \"AI kills software\" framing in favour of evolution: interfaces, not apps, are what get replaced. A useful lens for product designers planning what their surface even is in two years."
+      "published_iso": "2026-08-23T09:35:34Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*gSGlC_KpqH0V_DPvnxwYYg.png",
+      "excerpt": "The classic ad-agency workflow still shapes how UX teams run projects; the author argues it breaks down in an era of AI agents and systems thinking, and proposes a redefinition."
     },
     {
-      "url": "https://www.youtube.com/watch?v=AF4VD3dfUdc",
-      "source": "Figma (YouTube)",
+      "url": "https://dev.to/divyakush/the-best-interface-is-no-interface-natural-language-as-the-command-layer-2md9",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-08-23T08:22:57Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgezl0ajw1wdqiijr6ov0.png",
+      "excerpt": "Rigid voice grammars make the human do the translating. A case study in replacing fixed commands with LLM intent parsing — and what that means for interface design."
+    },
+    {
+      "url": "https://www.cio.com/article/4209885/ai-agent-sprawl-pressures-cios-to-recalibrate-governance.html",
+      "source": "CIO",
+      "category": "workflow",
+      "published_iso": "2026-08-24T10:00:00Z",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/08/4209885-0-22653100-1787565785-people_pedestrians_crowds_movement_motion_blur_citizens_candidates_hiring_recruitment_recruting_outsourcing_by_ir_stone_shutterstock_1549123181_2400x1600-100887559-orig.jpg?quality=50&amp;strip=all&amp;w=1024",
+      "excerpt": "As teams spin up agents everywhere, tech leaders are recalibrating governance to keep token usage and cost in check without stifling the experimentation designers and builders rely on."
+    },
+    {
+      "url": "https://www.creativebloq.com/3d/video-game-design/metas-new-social-media-app-swaps-photos-and-reels-for-ai-generated-video-games",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-08-22T08:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/b3exMufadojKfh3orRvxve-1920-80.jpg",
+      "excerpt": "Meta's new app Pocket replaces photos and reels with AI-generated playable games — social vibe coding as a consumer format, and a new surface designers may have to design for."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/ai-art/is-ai-destroying-the-art-and-magic-of-childrens-books",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-08-22T08:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/MiA73niAuKy4v43Dg6MnZA-1920-80.jpg",
+      "excerpt": "AI-slop picture books are flooding shelves; illustrators and parents describe what generative art is doing to a craft built on hand-made visual storytelling."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+      "source": "Two Minute Papers (YouTube)",
       "category": "social",
-      "published_iso": "2026-08-20T14:00:07Z",
-      "og_image": "https://i.ytimg.com/vi/AF4VD3dfUdc/maxresdefault.jpg",
-      "excerpt": "A product designer walks through building motion design plugins for Figma himself in Figma's Show Your Work series. The clearest current example of designers shipping their own tooling instead of filing a request."
+      "published_iso": "2026-08-24T16:48:40Z",
+      "og_image": "https://i.ytimg.com/vi/wMl6c_r0ubw/maxresdefault.jpg",
+      "excerpt": "Two Minute Papers breaks down a small AI model that punches far above its size class, and why compact models matter for local creative tooling."
     },
     {
-      "url": "https://www.youtube.com/watch?v=O-8TbMFOAfg",
+      "url": "https://www.youtube.com/shorts/ZY628bslSYY",
       "source": "Matt Wolfe (YouTube)",
       "category": "social",
-      "published_iso": "2026-08-20T12:41:43Z",
-      "og_image": "https://i.ytimg.com/vi/O-8TbMFOAfg/maxresdefault.jpg",
-      "excerpt": "Matt Wolfe digs into Claude's text watermark and how far it can travel once content leaves the model. Provenance marking is about to become a real constraint on how creative teams reuse AI output."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=3N5MU56JbY0",
-      "source": "Vercel (YouTube)",
-      "category": "social",
-      "published_iso": "2026-08-19T16:02:37Z",
-      "og_image": "https://i.ytimg.com/vi/3N5MU56JbY0/maxresdefault.jpg",
-      "excerpt": "A case study on how Searchable turns a customer request into a shipped feature in about 30 minutes on Vercel. Concrete evidence of what the prompt-to-production loop compresses in practice."
+      "published_iso": "2026-08-24T12:18:26Z",
+      "og_image": "https://i.ytimg.com/vi/ZY628bslSYY/maxresdefault.jpg",
+      "excerpt": "A quick look at an AI system that generates explorable 3D worlds from a prompt — world models arriving as a concepting tool for designers."
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 17,
+    "dropped": 0,
+    "kept": 24,
     "against_days": 5
   }
 }

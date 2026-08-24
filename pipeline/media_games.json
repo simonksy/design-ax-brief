@@ -1,34 +1,32 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "games",
   "media": [
     {
-      "id": "games-deepmind-eve",
+      "id": "games-miris-spatial",
       "type": "video",
-      "src": "pipeline/media/games-deepmind-eve.mp4",
-      "poster": "pipeline/media/games-deepmind-eve.jpg"
+      "src": "pipeline/media/games-miris-spatial.mp4",
+      "poster": "pipeline/media/games-miris-spatial.jpg"
     },
     {
-      "id": "games-skillprint-signal",
+      "id": "games-roblox-liveops",
       "type": "image",
-      "src": "pipeline/media/games-skillprint-signal.jpg"
+      "src": "pipeline/media/games-roblox-liveops.jpg"
     },
     {
-      "id": "games-r6-toxmod",
+      "id": "games-roblox-roost",
       "type": "image",
-      "src": "pipeline/media/games-r6-toxmod.jpg"
+      "src": "pipeline/media/games-roblox-roost.jpg"
     },
     {
-      "id": "games-ai-podcast",
-      "type": "video",
-      "src": "pipeline/media/games-ai-podcast.mp4",
-      "poster": "pipeline/media/games-ai-podcast.jpg"
+      "id": "games-spider-walker",
+      "type": "image",
+      "src": "pipeline/media/games-spider-walker.jpg"
     },
     {
-      "id": "games-1666-amsterdam",
-      "type": "video",
-      "src": "pipeline/media/games-1666-amsterdam.mp4",
-      "poster": "pipeline/media/games-1666-amsterdam.jpg"
+      "id": "games-nexxus-ai-labs",
+      "type": "image",
+      "src": "pipeline/media/games-nexxus-ai-labs.png"
     }
   ]
 }

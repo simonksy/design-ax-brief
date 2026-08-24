@@ -1,33 +1,35 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "design",
   "media": [
     {
-      "id": "design-v0-connect-100-services",
-      "type": "image",
-      "src": "pipeline/media/design-v0-connect-100-services.png"
-    },
-    {
-      "id": "design-figma-motion-plugin-show-your-work",
+      "id": "design-figma-eraser",
       "type": "video",
-      "src": "pipeline/media/design-figma-motion-plugin-show-your-work.mp4",
-      "poster": "pipeline/media/design-figma-motion-plugin-show-your-work.jpg"
+      "src": "pipeline/media/design-figma-eraser.mp4",
+      "poster": "pipeline/media/design-figma-eraser.jpg"
     },
     {
-      "id": "design-slack-code-multiplayer-agents",
-      "type": "image",
-      "src": "pipeline/media/design-slack-code-multiplayer-agents.jpg"
-    },
-    {
-      "id": "design-nuke-17-1-splat-relight",
+      "id": "design-flow-studio",
       "type": "video",
-      "src": "pipeline/media/design-nuke-17-1-splat-relight.mp4",
-      "poster": "pipeline/media/design-nuke-17-1-splat-relight.jpg"
+      "src": "pipeline/media/design-flow-studio.mp4",
+      "poster": "pipeline/media/design-flow-studio.jpg"
     },
     {
-      "id": "design-ai-builder-shape-first",
+      "id": "design-marvelous-2026",
+      "type": "video",
+      "src": "pipeline/media/design-marvelous-2026.mp4",
+      "poster": "pipeline/media/design-marvelous-2026.jpg"
+    },
+    {
+      "id": "design-design-diff",
       "type": "image",
-      "src": "pipeline/media/design-ai-builder-shape-first.png"
+      "src": "pipeline/media/design-design-diff.png"
+    },
+    {
+      "id": "design-walmart-3dp",
+      "type": "video",
+      "src": "pipeline/media/design-walmart-3dp.mp4",
+      "poster": "pipeline/media/design-walmart-3dp.jpg"
     }
   ]
 }

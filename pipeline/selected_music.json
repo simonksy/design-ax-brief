@@ -1,114 +1,79 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "music",
-  "count": 4,
-  "note": "Auto-picked (user deferred). Pool = pipeline/candidates_filtered_music.json (10 items, already URL-deduped vs the last 5 days). CONTENT-level dedup vs sections.music today(2026-08-21) + days(08-12, 08-14, 08-15, 08-19, 08-20) dropped 6 of the 10 as already-published stories: (a) Suno Studio 2.0 — gearnews, MusicRadar and MBW versions all cover the release already run on 08-14 as music-suno-studio-2 (MusicTech), including the Studio Chat agent, prompt-to-plugin and MIDI; (b) Beatport bans AI music — Bedroom Producers Blog and Synthtopia both cover the Beatport x Beatdapp announcement already run on 08-14 as music-beatport-ai-ban (DJ Mag), same Beatdapp partnership and same assisted-vs-generated line; (c) gearnews 'Suno x BMG' — same licensing deal already run on 08-15 as music-suno-bmg (MBW). Within-pool duplicates collapsed at the same time: 3 Suno Studio 2.0 articles -> 0 (all dup of published), 2 Beatport articles -> 0 (both dup of published), 2 Suno/BMG articles -> 1 kept. Kept the MBW '5 things to know' piece rather than the gearnews BMG piece because its news core is NEW and unpublished: Suno retiring all of its current models in favour of industry-built ones, Audible Magic + Musixmatch Sentinel watermarking/fingerprinting, and lifetime/monthly download caps that gate commercial release — the 08-15 card only touched caps and watermarking in one closing line. Backfill exhausted the pool: after these drops only 4 distinct never-published stories remain, so the count is 4 (above the floor of 3, no padding). Diversity guard: 4 distinct outlets, max 1 per outlet. Caution for downstream on rank 4 (MusicTech weekly plugin roundup): its lead item, Tamber 2.0, was published yesterday (08-21, music-tamber-2) — the card must be built on the other releases in that roundup (ReStem 2, Lucid, Monochord, Spectral) and must not re-tell Tamber 2.0.",
   "picks": [
     {
-      "rank": 1,
+      "url": "https://blog.comfy.org/p/minimax-music-3-state-of-the-art",
+      "source": "ComfyUI Blog",
+      "published_iso": "2026-08-13T20:41:33+00:00",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!v-WJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4827eb79-f9c5-4f8d-b0aa-a449a4b440fb_1920x1080.png",
+      "excerpt": "MiniMax Music 3 lands as an open-weights text-to-music model that generates full five-minute songs locally, with ComfyUI and Diffusers workflows that run on a single 24GB GPU.",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Suno is retiring all of its own AI models, adding tamper-resistant watermarks and capping downloads",
-      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-sunos-bmg-licensing-deal-download-caps-watermarks-and-more/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-08-17T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Suno is retiring all of its current AI models and replacing them with industry-built ones, adding tamper-resistant watermarking and fingerprinting via Audible Magic and Musixmatch Sentinel, and imposing lifetime/monthly download caps that gate commercial release.",
-      "rationale": "If you release Suno output commercially, the model you built on is being replaced, your files will carry a fingerprint, and how many you can export is now capped."
+      "rationale": "First open-weights model that writes full five-minute songs on one 24GB GPU — moves generation off subscription platforms and onto the producer's own machine."
     },
     {
-      "rank": 2,
+      "url": "https://bedroomproducersblog.com/2026/08/22/trama-ai-stem-separator/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-08-22T16:08:07+00:00",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/trama-728x364.jpg",
+      "excerpt": "Ohlhorst Digital's Trama is a free offline stem separator for Windows, macOS and Linux that splits tracks into vocals, drums, bass and other using a fine-tuned Hybrid Transformer Demucs model — no uploads, no subscription.",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "A designer with no DSP background shipped a free analog-style synth in two months with AI-assisted coding",
-      "url": "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/",
-      "source": "Bedroom Producers Blog",
-      "published_iso": "2026-08-08T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/phosphor-1-728x364.jpg",
-      "excerpt": "OA-Labs released Phosphor-1, a free macOS analog-style synth built for 'controllable instability', with a generative arpeggiator using per-step probability, groove and glitch. The developer — a designer, not a DSP engineer — built it in about two months with AI-assisted coding.",
-      "rationale": "A free download today and a working proof that a designer can ship a real instrument in two months — per-step probability, groove and glitch included."
+      "rationale": "A free, fully offline Demucs-based splitter removes both the cost and the upload-your-masters risk from everyday remix, practice and sampling work."
     },
     {
-      "rank": 3,
+      "url": "https://www.digitalmusicnews.com/2026/08/24/ai-generated-music-banned-from-charting-aria/",
+      "source": "Digital Music News",
+      "published_iso": "2026-08-24T20:51:03+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ai-generated-music-to-be-banned-from-aria-charts-in-australia.png",
+      "excerpt": "ARIA sets new eligibility rules that exclude fully or mostly AI-generated recordings from Australia's official charts, while allowing AI-assisted human work.",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "The new AI chart rules test whether a record is human, never whether the song is",
-      "url": "https://www.hypebot.com/the-ai-chart-rules-ask-if-a-record-is-human-they-never-ask-if-the-song-is/",
-      "source": "Hypebot",
-      "published_iso": "2026-08-20T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-19-steve-canfield.jpg",
-      "excerpt": "New AI chart-eligibility standards police the recording — vocals and masters, the things detection tools can measure — while leaving songwriting untested. The piece argues the industry has quietly redefined 'human' as 'human-performed', not 'human-written'.",
-      "rationale": "Reads the fine print every artist is about to be judged by: chart eligibility measures your master, not your writing, so AI in the songwriting stage passes."
+      "rationale": "A national chart body now draws a hard line between AI-generated and AI-assisted, so how you declare AI use on a release decides whether it can chart at all."
     },
     {
-      "rank": 4,
+      "url": "https://musically.com/2026/08/19/cyanite-rolls-out-a-big-upgrade-to-its-ai-music-tagging-tech/",
+      "source": "Music Ally",
+      "published_iso": "2026-08-19T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T125447.316.png",
+      "excerpt": "Cyanite's Tagging 2.0 adds lyric analysis, tempo, vocal style, use-case and structural segmentation models plus a scalable API, reshaping how catalogues get searched and pitched.",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "This week's plugin releases lean on machine learning without ever calling themselves AI",
-      "url": "https://musictech.com/news/gear/new-plugins-this-week/",
-      "source": "MusicTech",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500.jpg",
-      "excerpt": "MusicTech's weekly plugin roundup covers ReStem 2, Lucid, Monochord and Spectral — several leaning on ML for stem separation and synthesis without marketing themselves as AI — alongside Tamber V2.0.",
-      "rationale": "A week of shipping tools a producer can install now, and evidence that ML has become plumbing rather than a selling point. Build this card on ReStem 2 / Lucid / Monochord / Spectral only — Tamber 2.0 already ran on 08-21."
+      "rationale": "Lyric, vocal-style and section-level tagging behind an API changes how sync catalogues are searched and pitched — metadata work an artist or library can act on now."
+    },
+    {
+      "url": "https://www.hypebot.com/own-your-ai-search-results-a-guide-for-artists-and-venues/",
+      "source": "Hypebot",
+      "published_iso": "2026-08-24T13:05:01+00:00",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/AI-Search-For-Artists---Venues.jpg",
+      "excerpt": "A practical guide to getting artist and venue sites cited by AI assistants — structured data, canonical bios and the on-page work that decides what chatbots say about you.",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Concrete on-page steps — structured data, canonical bios — that decide what AI assistants say about an artist or venue when fans ask."
     }
   ],
-  "items": [
-    {
-      "rank": 1,
-      "tool": "Music",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "title": "Suno is retiring all of its own AI models, adding tamper-resistant watermarks and capping downloads",
-      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-sunos-bmg-licensing-deal-download-caps-watermarks-and-more/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-08-17T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Suno is retiring all of its current AI models and replacing them with industry-built ones, adding tamper-resistant watermarking and fingerprinting via Audible Magic and Musixmatch Sentinel, and imposing lifetime/monthly download caps that gate commercial release.",
-      "rationale": "If you release Suno output commercially, the model you built on is being replaced, your files will carry a fingerprint, and how many you can export is now capped."
-    },
-    {
-      "rank": 2,
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "title": "A designer with no DSP background shipped a free analog-style synth in two months with AI-assisted coding",
-      "url": "https://bedroomproducersblog.com/2026/08/08/oa-phosphor-synth/",
-      "source": "Bedroom Producers Blog",
-      "published_iso": "2026-08-08T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/phosphor-1-728x364.jpg",
-      "excerpt": "OA-Labs released Phosphor-1, a free macOS analog-style synth built for 'controllable instability', with a generative arpeggiator using per-step probability, groove and glitch. The developer — a designer, not a DSP engineer — built it in about two months with AI-assisted coding.",
-      "rationale": "A free download today and a working proof that a designer can ship a real instrument in two months — per-step probability, groove and glitch included."
-    },
-    {
-      "rank": 3,
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "The new AI chart rules test whether a record is human, never whether the song is",
-      "url": "https://www.hypebot.com/the-ai-chart-rules-ask-if-a-record-is-human-they-never-ask-if-the-song-is/",
-      "source": "Hypebot",
-      "published_iso": "2026-08-20T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-19-steve-canfield.jpg",
-      "excerpt": "New AI chart-eligibility standards police the recording — vocals and masters, the things detection tools can measure — while leaving songwriting untested. The piece argues the industry has quietly redefined 'human' as 'human-performed', not 'human-written'.",
-      "rationale": "Reads the fine print every artist is about to be judged by: chart eligibility measures your master, not your writing, so AI in the songwriting stage passes."
-    },
-    {
-      "rank": 4,
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "This week's plugin releases lean on machine learning without ever calling themselves AI",
-      "url": "https://musictech.com/news/gear/new-plugins-this-week/",
-      "source": "MusicTech",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500.jpg",
-      "excerpt": "MusicTech's weekly plugin roundup covers ReStem 2, Lucid, Monochord and Spectral — several leaning on ML for stem separation and synthesis without marketing themselves as AI — alongside Tamber V2.0.",
-      "rationale": "A week of shipping tools a producer can install now, and evidence that ML has become plumbing rather than a selling point. Build this card on ReStem 2 / Lucid / Monochord / Spectral only — Tamber 2.0 already ran on 08-21."
-    }
-  ]
+  "dedup_notes": {
+    "checked_against": ["today 2026-08-22", "2026-08-21", "2026-08-20", "2026-08-19", "2026-08-15", "2026-08-14"],
+    "dropped": [
+      {
+        "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-round-hills-suno-and-anthropic-lawsuits-model-weights-extraction-tools-and-a-75m-number/",
+        "reason": "Same event as published 2026-08-19 card music-roundhill-suits (MBW, Round Hill sues Suno and Anthropic) — follow-up explainer of the identical filings."
+      },
+      {
+        "url": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/",
+        "reason": "Same release as published 2026-08-21 card music-tamber-2 (Tamber 2.0), different outlet."
+      },
+      {
+        "url": "https://www.musicradar.com/music-tech/dr-dre-has-words-for-those-who-oppose-the-use-of-ai-in-music-you-sound-like-the-person-that-would-have-been-against-the-drum-machine-when-it-came-out-or-synthesizers",
+        "reason": "Within-pool duplicate of the MusicTech Dr. Dre story (same interview remarks); neither selected — pure commentary."
+      }
+    ],
+    "diversity": "5 distinct outlets (ComfyUI Blog, Bedroom Producers Blog, Digital Music News, Music Ally, Hypebot); no outlet appears twice. Topic spread: open model release, free local tool, chart/rights rule, catalogue tagging API, artist discovery playbook."
+  }
 }

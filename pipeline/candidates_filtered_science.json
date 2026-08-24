@@ -1,165 +1,180 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-25",
   "section": "science",
-  "now_iso": "2026-08-21T22:00:26Z",
   "window_hours": 336,
-  "count": 15,
-  "note": "Science section, 14-day window (336h). window_hours('2026-08-21T22:00:26Z','science') = 336. Every item below printed FRESH under `python3 pipeline/freshness.py <pub> 2026-08-21T22:00:26Z science`. Method: ~19 WebSearch calls scoped to the section allowed_domains, plus WebFetch of publisher index pages (sciencedaily AI feed, scientificamerican AI hub, thequantuminsider 2026/08 archive, statnews AI topic, deepmind blog, phys.org biology, quantamagazine AI tag, physicsworld AI collection) and direct RSS sweeps (livescience, universetoday, newscientist). Published times read from og article:published_time / JSON-LD datePublished in article HTML; New Scientist blocks our fetcher, so its two items use first-party RSS <pubDate> (not a search snippet). Per-outlet collection cap of 3 enforced: phys.org 3, scientificamerican 3, statnews 2, newscientist 2, sciencedaily 1, technologyreview 1, thequantuminsider 1, genengnews 1, livescience 1 = 9 distinct outlets. DROPPED as already in pipeline/published_urls.json[science]: phys.org 'AI and 8 million digitized plant specimens' (08-18), sciencedaily DNA-memory 260816044853 (08-17), MIT TR 'AI recursive self-improvement' (08-18), MIT TR 'AI for science needs reasoning' (08-10), Quanta 'Are We Thinking Correctly About AI Intelligence?' (08-20), Live Science 'AI designs chip 500x smaller' (08-18). DROPPED as topic dup of already-published items: SciAm 'Scientists are using AI to design new viruses' (08-10, overlaps published SciAm 08-08 virus piece + medicalxpress 08-21), phys.org 'The telescope that points itself' (08-11, overlaps published phys.org AI-driven-telescope 08-02), techxplore 'AI agents struggle to perform original scientific research' (08-14, overlaps published MIT TR 08-18). DROPPED as STALE by the gate: DeepMind WeatherNext cyclones (08-06), phys.org Ramanomics (08-06), sciencedaily Claude-Fable-5 Jacobian (08-04), Quanta Erdos problems (08-03), TQI OpenAI-10-open-problems (08-04), physicsworld black-box (07-14) and meta-design (04-21), genengnews AlphaDesign (2025-06). DROPPED, no verifiable published time: Universe Today 'AI Learns to Identify Exploding Stars'. DROPPED, HTTP 403 (could not verify time): fiercebiotech GPT-Rosalind. DROPPED as non-AI: sciencedaily light-driven nanorobots (08-18), sciencedaily kids screen-time study (08-17).",
   "items": [
     {
-      "category": "science",
-      "title": "Complex odors prove easier to map than expected with machine learning",
-      "url": "https://phys.org/news/2026-08-complex-odors-easier-machine.html",
+      "url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
       "source": "Phys.org",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "excerpt": "Monell Chemical Senses Center researchers built machine learning models that distinguish scents and map how they relate to one another. The work points toward \"digital olfaction\" — representing smell mathematically the way color and sound were digitized — with uses in diagnostics and product development.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2020/humansmell.jpg",
-      "freshness": "FRESH"
+      "category": "science",
+      "published_iso": "2026-08-24T21:30:04Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-use-ai-to-6.jpg",
+      "excerpt": "Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options."
     },
     {
-      "category": "science",
-      "title": "Seeing the unseen: A new tool visualizes hidden structures in complex biological data",
-      "url": "https://phys.org/news/2026-08-unseen-tool-visualizes-hidden-complex.html",
+      "url": "https://phys.org/news/2026-08-marker-words-sharp-ai-biomedical.html",
       "source": "Phys.org",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "excerpt": "University of Basel researchers released Bonsai, which renders high-dimensional single-cell data as branching trees instead of flat 2D maps, preserving true distances between cells. The tool surfaced a previously unknown natural killer cell subtype in human blood.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/seeing-the-unseen-a-ne.jpg",
-      "freshness": "FRESH"
+      "category": "science",
+      "published_iso": "2026-08-24T20:00:07Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ais-vocabulary-fingerp.jpg",
+      "excerpt": "Up until two years ago, using large language models was still considered a special skill that everyone was encouraged to learn. Now, it is ubiquitous, especially in writing research papers that eventually become part of the scientific knowledge we build around a subject."
     },
     {
-      "category": "science",
-      "title": "AI screens 100,000+ membrane combinations, predicting carbon capture performance within seconds",
-      "url": "https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html",
+      "url": "https://phys.org/news/2026-08-ai-boosts-sensitivity-higgs-signatures.html",
       "source": "Phys.org",
-      "published_iso": "2026-08-19T00:00:00Z",
-      "excerpt": "A Koç University team combined molecular simulation with machine learning to evaluate more than 104,000 mixed-matrix membrane combinations for carbon capture. The framework predicts a candidate's performance in seconds at roughly 10–15% error, collapsing a screening job that would take years in the lab.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-screens-over-100000.jpg",
-      "freshness": "FRESH"
+      "category": "science",
+      "published_iso": "2026-08-20T21:10:01Z",
+      "og_image": "",
+      "excerpt": "Physicists trained AI models to boost sensitivity to di-Higgs production—events that occur about once per trillion LHC collisions—sharpening the search for how the Higgs boson interacts with itself and whether the universe is stable."
     },
     {
+      "url": "https://techxplore.com/news/2026-08-ray-speckles-solar-magnetic-fields.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "title": "AI-designed \"intrabodies\" could unlock new treatments for Alzheimer's, Parkinson's and MND",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
-      "source": "ScienceDaily (University of Essex)",
-      "published_iso": "2026-08-19T00:00:00Z",
-      "excerpt": "University of Essex researchers used AI to redesign ordinary antibodies into tiny fragments that stay stable and functional inside living human cells, targeting disease proteins that conventional antibodies can't reach. Published in Nature Communications, the redesigned molecules will be released freely to other labs.",
-      "og_image": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
-      "freshness": "FRESH"
+      "published_iso": "2026-08-24T19:40:09Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/slac-researchers-devel.jpg",
+      "excerpt": "Next-generation science experiments will collect more data than ever—so much so that they'll surpass the capabilities of current data storage and analysis methods. To help, researchers at the Department of Energy's SLAC National Accelerator Laboratory developed an AI method to compress large amounts"
     },
     {
+      "url": "https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "title": "We still don't know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "published_iso": "2026-08-14T17:00:03Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/scientific-research.jpg",
+      "excerpt": "Among the many predictions about the future of artificial intelligence is that models will one day be able to conduct scientific research on their own, leaving humans out of the equation. Already, they can write code, run experiments and search scientific literature, but carrying out open-ended rese"
+    },
+    {
+      "url": "https://techxplore.com/news/2026-08-ai-architectures-scientific-problems.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-08-12T20:00:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/extending-ai-architect-1.jpg",
+      "excerpt": "Artificial intelligence is proving to be transformative in its ability to work with language and images. Now, with a growing push to apply AI to scientific discovery, Caltech's Anima Anandkumar says there is a crucial ingredient missing from most AI models: the ability to understand the physical wor"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
       "source": "MIT Technology Review",
-      "published_iso": "2026-08-18T00:00:00Z",
-      "excerpt": "A new independent research project, the AI Observatory, aggregates consented real conversations with Claude and Gemini to build a public picture of AI use. It found nearly half of conversations are non-work — health, relationships, sensitive topics — categories that vendor usage reports largely omit.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg",
-      "freshness": "FRESH"
+      "category": "science",
+      "published_iso": "2026-08-24T09:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
+      "excerpt": "LLMs need vastly more data than children to learn language. Understanding why could help us create more efficient models—and reveal more about developing minds."
     },
     {
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Technology Review",
       "category": "science",
-      "title": "No, Anthropic's AI didn't just solve math's hardest problem",
-      "url": "https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/",
-      "source": "Scientific American",
-      "published_iso": "2026-08-12T00:00:00Z",
-      "excerpt": "Claude helped sharpen a result about the distribution of prime numbers that sits adjacent to the Riemann hypothesis — real, checkable progress, but not the $1-million problem itself. The piece is a case study in how AI math claims get inflated between the preprint and the headline.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/0b5fa77a-df8d-4154-814b-03977d035761/dice-primes.jpg",
-      "freshness": "FRESH"
+      "published_iso": "2026-08-21T09:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
+      "excerpt": "Patents can only name humans as inventors. For now."
     },
     {
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
       "category": "science",
-      "title": "OpenAI funds research to try to stop AI from being used to make bioweapons",
-      "url": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons/",
-      "source": "Scientific American",
-      "published_iso": "2026-08-17T00:00:00Z",
-      "excerpt": "OpenAI awarded grants to 14 organizations, including the Nuclear Threat Initiative, to build cross-border systems for sharing biosecurity threat information about AI-enabled biology. It's an admission that model capability in the life sciences has outrun the safeguards around it.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/cd3889fd-5093-4f64-9161-ebe1fb54c949/AI-bioweapons.jpg",
-      "freshness": "FRESH"
+      "published_iso": "2026-08-20T15:42:39Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
+      "excerpt": "If AI systems are viewed as too advanced to control, the companies that build them can’t held liable for the harms they cause."
     },
     {
-      "category": "science",
-      "title": "How generative AI is reshaping creativity, and what it means for artists",
-      "url": "https://www.scientificamerican.com/podcast/episode/how-generative-ai-is-reshaping-creativity-and-what-it-means-for-artists/",
-      "source": "Scientific American",
-      "published_iso": "2026-08-19T00:00:00Z",
-      "excerpt": "Astrophysicist and folklorist Moiya McTier traces humanity's creative history through the Greek muses and asks what generative AI does to authorship. The conversation is about what creative practice is for, not just what tools can produce.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/c89c1ed6-db81-4b5c-add4-e979041c94c4/2608_SQ_WED_MOTHERS_INVENTION.png",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "science",
-      "title": "AI has created a shadow medical system",
-      "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/",
-      "source": "STAT News",
-      "published_iso": "2026-08-19T00:00:00Z",
-      "excerpt": "More than 40 million Americans ask ChatGPT a health question every day, almost entirely outside clinical settings. Paired with direct-to-consumer labs and AI-generated prescriptions, that has quietly assembled a parallel care system with no physician oversight or accountability.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_159757760-645x645.jpeg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "science",
-      "title": "I'm a pediatrician. AI chatbots are grooming my patients",
-      "url": "https://www.statnews.com/2026/08/19/ai-chatbots-children-grooming-mental-health/",
-      "source": "STAT News",
-      "published_iso": "2026-08-19T00:00:00Z",
-      "excerpt": "A pediatrician documents chatbot interactions with minors that follow grooming patterns, including AI systems drawing patients into sexual conversation. He argues these products generate the harmful content rather than merely host it, so product liability should apply.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-1457137503-645x645.jpg",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "science",
-      "title": "Quantum X Labs Tests AI Quantum Error Decoder on Google Hardware Dataset",
-      "url": "https://thequantuminsider.com/2026/08/21/quantum-x-labs-ai-quantum-error-correction-results/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "excerpt": "Quantum X Labs reported that its AI-driven surface-code decoder improved accuracy on Google's public real-hardware dataset while having been trained purely on synthetic data. Transferring from simulation to physical qubits without hardware-specific retraining is the hard part of the problem.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-21_18-38.png",
-      "freshness": "FRESH"
-    },
-    {
-      "category": "science",
-      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
       "url": "https://www.genengnews.com/topics/artificial-intelligence/from-models-to-agents-the-next-phase-of-ai-adoption-in-molecular-discovery/",
-      "source": "GEN (Genetic Engineering & Biotechnology News)",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "excerpt": "Biotech is moving past single predictive models toward agentic systems that chain structure prediction, literature reading and docking into one workflow. NYB.AI's Vecura platform is the worked example, with the argument that agents close the gap between generating an insight and acting on it.",
+      "source": "GEN",
+      "category": "science",
+      "published_iso": "2026-08-21T15:28:09Z",
       "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2234447381_AIMedicalIdea.jpg",
-      "freshness": "FRESH"
+      "excerpt": "The compute power exists. The models exist. What’s missing is a system that coordinates them."
     },
     {
+      "url": "https://www.genengnews.com/topics/drug-discovery/deepcyte-launches-single-cell-metabolomic-reference-atlas-of-drug-toxicity-mechanisms/",
+      "source": "GEN",
       "category": "science",
-      "title": "AI could offer a shortcut for designing more efficient airplane wings",
-      "url": "https://www.newscientist.com/article/2585337-ai-could-lower-the-cost-of-designing-more-efficient-airplane-wings/",
-      "source": "New Scientist",
-      "published_iso": "2026-08-19T15:00:00Z",
-      "excerpt": "Researchers report a machine learning approach that substitutes for expensive fluid-dynamics simulation in aerodynamic shape optimization, cutting the cost of exploring wing geometries. Published time taken from New Scientist's own RSS pubDate (the site blocks our fetcher).",
-      "og_image": null,
-      "freshness": "FRESH"
+      "published_iso": "2026-08-21T15:13:54Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/GettyImages-966765790.jpg",
+      "excerpt": "DeeTox Atlas is described as a foundation dataset built from two independent single-cell metabolomics perturbation studies."
     },
     {
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/protecting-scientific-intent-in-ai-enabled-labs-by-not-letting-ai-set-the-mission/",
+      "source": "GEN",
       "category": "science",
-      "title": "AI firms are watermarking generated text – here's why it won't work",
-      "url": "https://www.newscientist.com/article/2584736-ai-firms-are-watermarking-generated-text-heres-why-it-wont-work/",
-      "source": "New Scientist",
-      "published_iso": "2026-08-20T09:00:00Z",
-      "excerpt": "AI companies are shipping statistical watermarks into generated text, but the technique degrades under paraphrase, translation and light editing. Provenance for written work is turning out to be far harder than for images. Published time from New Scientist RSS pubDate.",
-      "og_image": null,
-      "freshness": "FRESH"
+      "published_iso": "2026-08-20T17:54:18Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/GettyImages-2248539094.jpg",
+      "excerpt": "Whatever level of artificial intelligence is used, humans need to be in the lead throughout the process, according to the research team."
     },
     {
+      "url": "https://medicalxpress.com/news/2026-08-confidence-ai-brain-tumor-imaging.html",
+      "source": "Medical Xpress",
       "category": "science",
-      "title": "Elon Musk and Sam Altman claim we've reached the AI singularity. But how would we even know that happened?",
+      "published_iso": "2026-08-24T19:00:09Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/enhancing-confidence-i.jpg",
+      "excerpt": "MRIs are among the most accurate imaging tests used to diagnose brain tumors, and MRI-based monitoring of tumors guides critical treatment decisions. The clinical standard for measuring tumors often relies on either subjective evaluation or simplified two-dimensional (2D) measurements. However, for "
+    },
+    {
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "category": "science",
+      "published_iso": "2026-08-21T11:59:48Z",
+      "og_image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
+      "excerpt": "Google DeepMind partners with game developers to build generalist agents like SIMA 2 and unlock breakthrough gameplay experiences across persistent worlds."
+    },
+    {
+      "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-08-19T14:30:49Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-perkowitz-server-room-data-centre-1415677219-istock-imaginima.jpg",
+      "excerpt": "Sidney Perkowitz looks into alternative computing methods inspired by physics to improve computational efficiency and power"
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/08/24/microsofts-skala-ai-model-joins-cp2k-to-improve-quantum-mechanical-simulations/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-08-24T08:04:47+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Low-Res_20260821_b-1.png",
+      "excerpt": "The Skala model is now available, giving researchers an AI-based exchange-correlation functional for quantum mechanical simulations."
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-08-23T12:14:40Z",
+      "og_image": "",
+      "excerpt": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventu"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1141263",
+      "source": "EurekAlert!",
+      "category": "science",
+      "published_iso": "2026-08-24T07:46:39Z",
+      "og_image": "",
+      "excerpt": "MIT engineers developed a tool that predicts plausible extreme events and worst-case scenarios—such as an extreme storm's likely duration, intensity and area of impact—without needing data on previous extremes."
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1140758",
+      "source": "EurekAlert!",
+      "category": "science",
+      "published_iso": "2026-08-19T10:01:20Z",
+      "og_image": "",
+      "excerpt": "A review of three landmark autonomous-research systems reported in Nature in 2026—the Empirical Research Assistant, The AI Scientist and MIRA—maps what agentic AI can now do across ideation, coding, experiments and even peer review, and where it still fails."
+    },
+    {
+      "url": "https://www.chemistryworld.com/opinion/artificial-intelligence-or-clever-artifice/4024055.article",
+      "source": "Chemistry World",
+      "category": "science",
+      "published_iso": "2026-08-18T00:00:00Z",
+      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/7/0/4/550704_gettyimages2159071023_899370_crop.jpg",
+      "excerpt": "A chemist argues that most hyperbolic AI claims in chemistry and materials science don't survive scrutiny: the models that hold up are those applied to well-defined problems with high-quality data and cheap experimental verification."
+    },
+    {
       "url": "https://www.livescience.com/technology/artificial-intelligence/elon-musk-and-sam-altman-claim-weve-reached-the-ai-singularity-but-how-would-we-even-know-that-happened",
       "source": "Live Science",
+      "category": "science",
       "published_iso": "2026-08-17T08:45:03Z",
-      "excerpt": "Live Science asks what measurable evidence a \"singularity\" claim would actually require, and finds the definitions used by industry leaders are unfalsifiable. A useful counterweight to capability rhetoric, grounded in how scientists set thresholds. Published time from Live Science RSS pubDate.",
-      "og_image": null,
-      "freshness": "FRESH"
+      "og_image": "https://cdn.mos.cms.futurecdn.net/EdftHfiWN6DMekyCe7GenA-2000-80.png",
+      "excerpt": "Scientists suggest it could take decades to achieve superintelligent AI, and doing so still depends on hypothetical breakthroughs. So why do some suggest we're already there?"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 15,
+    "kept": 21,
     "against_days": 5
   }
 }
