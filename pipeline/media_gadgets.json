@@ -1,31 +1,32 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-offline-doc-llm",
-      "type": "image",
-      "src": "pipeline/media/gadgets-offline-doc-llm.jpg"
+      "id": "gadgets-nothing-os5",
+      "type": "video",
+      "src": "pipeline/media/gadgets-nothing-os5.mp4",
+      "poster": "pipeline/media/gadgets-nothing-os5.jpg"
     },
     {
-      "id": "gadgets-gemini-device-help",
+      "id": "gadgets-perplexity-portable",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-device-help.jpg"
+      "src": "pipeline/media/gadgets-perplexity-portable.jpg"
     },
     {
-      "id": "gadgets-apple-store-assistant",
+      "id": "gadgets-apple-m6",
       "type": "image",
-      "src": "pipeline/media/gadgets-apple-store-assistant.jpg"
+      "src": "pipeline/media/gadgets-apple-m6.png"
     },
     {
-      "id": "gadgets-budget-ar-glasses",
+      "id": "gadgets-claude-firmware-hack",
       "type": "image",
-      "src": "pipeline/media/gadgets-budget-ar-glasses.jpg"
+      "src": "pipeline/media/gadgets-claude-firmware-hack.jpg"
     },
     {
-      "id": "gadgets-glasses-detector-app",
+      "id": "gadgets-garmin-epic",
       "type": "image",
-      "src": "pipeline/media/gadgets-glasses-detector-app.jpg"
+      "src": "pipeline/media/gadgets-garmin-epic.jpg"
     }
   ]
 }

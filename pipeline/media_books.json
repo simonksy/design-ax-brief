@@ -1,31 +1,32 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "books",
   "media": [
     {
-      "id": "books-play-insights",
+      "id": "books-carlsen-openai-neinhorn",
       "type": "image",
-      "src": "pipeline/media/books-play-insights.jpg"
+      "src": "pipeline/media/books-carlsen-openai-neinhorn.png"
     },
     {
-      "id": "books-spotify-audiobook-ai",
-      "type": "image",
-      "src": "pipeline/media/books-spotify-audiobook-ai.jpg"
+      "id": "books-eu-ai-transparency-indie",
+      "type": "video",
+      "src": "pipeline/media/books-eu-ai-transparency-indie.mp4",
+      "poster": "pipeline/media/books-eu-ai-transparency-indie.jpg"
     },
     {
-      "id": "books-warhammer-ai-warning",
+      "id": "books-royalty-transparency-aperture",
       "type": "image",
-      "src": "pipeline/media/books-warhammer-ai-warning.jpg"
+      "src": "pipeline/media/books-royalty-transparency-aperture.png"
     },
     {
-      "id": "books-ai-editor-limits",
+      "id": "books-nigel-george-creative-agency",
       "type": "image",
-      "src": "pipeline/media/books-ai-editor-limits.jpg"
+      "src": "pipeline/media/books-nigel-george-creative-agency.jpg"
     },
     {
-      "id": "books-ai-training-law",
+      "id": "books-publishing-technology-radar",
       "type": "image",
-      "src": "pipeline/media/books-ai-training-law.jpg"
+      "src": "pipeline/media/books-publishing-technology-radar.jpg"
     }
   ]
 }

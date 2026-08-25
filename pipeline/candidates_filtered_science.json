@@ -1,79 +1,115 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "science",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
-      "source": "Phys.org",
+      "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+      "source": "MIT Technology Review",
       "category": "science",
-      "published_iso": "2026-08-24T21:30:04Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-use-ai-to-6.jpg",
-      "excerpt": "Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options."
-    },
-    {
-      "url": "https://phys.org/news/2026-08-marker-words-sharp-ai-biomedical.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-08-24T20:00:07Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ais-vocabulary-fingerp.jpg",
-      "excerpt": "Up until two years ago, using large language models was still considered a special skill that everyone was encouraged to learn. Now, it is ubiquitous, especially in writing research papers that eventually become part of the scientific knowledge we build around a subject."
+      "published_iso": "2026-08-25T17:00:00-04:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2171044401.jpg?resize=1200,600",
+      "title": "Your brain on AI",
+      "excerpt": "MIT Technology Review pulls together what cognitive research now says about offloading thinking to chatbots: the measurable effects on memory, attention and the feeling of understanding. It is the clearest current read on what daily AI use does to human cognition."
     },
     {
       "url": "https://phys.org/news/2026-08-ai-boosts-sensitivity-higgs-signatures.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-08-20T21:10:01Z",
-      "og_image": "",
-      "excerpt": "Physicists trained AI models to boost sensitivity to di-Higgs production—events that occur about once per trillion LHC collisions—sharpening the search for how the Higgs boson interacts with itself and whether the universe is stable."
+      "published_iso": "2026-08-20T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-to-help-set-record.jpg",
+      "title": "AI boosts sensitivity to double-Higgs signatures occurring about once per trillion collisions",
+      "excerpt": "A University of Michigan-led team used a graph neural network to lift sensitivity to rare double-Higgs events at the LHC by about 65% over previous analyses. It is a concrete case of deep learning changing what a physics experiment can actually see."
     },
     {
-      "url": "https://techxplore.com/news/2026-08-ray-speckles-solar-magnetic-fields.html",
+      "url": "https://phys.org/news/2026-08-machine-method-uncovers-hidden-patterns.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-08-25T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-metho.jpg",
+      "title": "Machine learning method uncovers hidden patterns in DNA methylation",
+      "excerpt": "metilene3 finds differentially methylated DNA regions without needing samples pre-labelled healthy or diseased. It reconstructed immune-cell developmental pathways, separated tumour subgroups and traced pancreatic cancer progression."
+    },
+    {
+      "url": "https://phys.org/news/2026-08-chatbots-similar-identity-personality.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-08-25T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-are-making-ou.jpg",
+      "title": "Chatbots are making our writing more similar but losing the identity and personality behind it",
+      "excerpt": "When LLMs rewrite text they cut variation in writing complexity by 21-50% while keeping meaning intact. Models reading the rewritten passages became six percentage points worse at inferring the author's personal traits - a warning for language-based psychological assessment."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-08-digbat-ai-ready-digital-platform.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-08-24T19:40:09Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/slac-researchers-devel.jpg",
-      "excerpt": "Next-generation science experiments will collect more data than ever—so much so that they'll surpass the capabilities of current data storage and analysis methods. To help, researchers at the Department of Energy's SLAC National Accelerator Laboratory developed an AI method to compress large amounts"
+      "published_iso": "2026-08-25T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/digbat-an-ai-ready-dig.jpg",
+      "title": "DigBat: An AI-ready digital platform for solid-state battery research",
+      "excerpt": "Tohoku University's DigBat merges 3,816 experimental solid-state electrolytes (27,645 conductivity entries) with 852 computational materials into a single machine-learning-ready database. It is the data layer autonomous materials labs have been missing."
     },
     {
-      "url": "https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html",
+      "url": "https://techxplore.com/news/2026-08-ai-expert-benchmark-bias-llms.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-08-14T17:00:03Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/scientific-research.jpg",
-      "excerpt": "Among the many predictions about the future of artificial intelligence is that models will one day be able to conduct scientific research on their own, leaving humans out of the equation. Already, they can write code, run experiments and search scientific literature, but carrying out open-ended rese"
+      "published_iso": "2026-08-24T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/complexity-science-hub.jpg",
+      "title": "Who does AI consider an expert? New benchmark shows bias across 22 LLMs",
+      "excerpt": "A Complexity Science Hub benchmark tested 22 large language models on who they name as an expert. The models did not merely mirror existing inequality - they amplified it, under-representing women and scholars from under-represented backgrounds."
     },
     {
-      "url": "https://techxplore.com/news/2026-08-ai-architectures-scientific-problems.html",
+      "url": "https://techxplore.com/news/2026-08-fruit-fly-algorithm-odors-samples.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-08-12T20:00:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/extending-ai-architect-1.jpg",
-      "excerpt": "Artificial intelligence is proving to be transformative in its ability to work with language and images. Now, with a growing push to apply AI to scientific discovery, Caltech's Anima Anandkumar says there is a crucial ingredient missing from most AI models: the ability to understand the physical wor"
+      "published_iso": "2026-08-24T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-to-decipher-smells.jpg",
+      "title": "Fruit fly-inspired algorithm classifies odors from only a few samples",
+      "excerpt": "OIST's Spi-Fly borrows the fruit fly's olfactory circuit to classify smells from very few training samples. The result is a low-power, few-shot route to machine olfaction that does not need a huge labelled dataset."
     },
     {
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Technology Review",
+      "url": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/",
+      "source": "STAT",
       "category": "science",
-      "published_iso": "2026-08-24T09:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
-      "excerpt": "LLMs need vastly more data than children to learn language. Understanding why could help us create more efficient models—and reveal more about developing minds."
+      "published_iso": "2026-08-24T08:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2016/01/FDABuilding_FDA-1024x576.jpg",
+      "title": "FDA digital health leader promises generative AI regulatory guidance is coming",
+      "excerpt": "FDA's digital health lead says formal guidance on generative AI in medical products is being drafted. It signals the shift from case-by-case clearance to a written rulebook for LLMs in clinical settings."
     },
     {
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "source": "MIT Technology Review",
+      "url": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/",
+      "source": "STAT",
       "category": "science",
-      "published_iso": "2026-08-21T09:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
-      "excerpt": "Patents can only name humans as inventors. For now."
+      "published_iso": "2026-08-25T08:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_230717451-1024x576.jpeg",
+      "title": "AI is good at catching drug theft at hospitals, but only when humans do their part",
+      "excerpt": "Hospital drug-diversion detection models flag theft well in principle, but performance collapses when the human review loop is thin. A useful field study of where AI accuracy stops and organisational process starts."
     },
     {
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Technology Review",
+      "url": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
+      "source": "Quanta Magazine",
       "category": "science",
-      "published_iso": "2026-08-20T15:42:39Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
-      "excerpt": "If AI systems are viewed as too advanced to control, the companies that build them can’t held liable for the harms they cause."
+      "published_iso": "2026-08-24T14:00:55+00:00",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Predictive-Categorization-cr-Zara-Picken-Social.jpg",
+      "title": "A New Framework for How the Brain Compresses Our Noisy World",
+      "excerpt": "A new theory of predictive categorization describes how brains throw away most sensory detail and keep only what predicts the future. The framing maps directly onto how representation learning in neural networks is understood."
+    },
+    {
+      "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-08-20T18:45:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202608/mit-dmse-ammonia-facility.jpg",
+      "title": "Paving the way for greener ammonia production",
+      "excerpt": "MIT researchers combined density functional theory with machine learning to screen transition-metal nitride alloys for electrochemical ammonia synthesis. The computational screen replaces trial-and-error catalyst search for one of chemistry's largest carbon footprints."
+    },
+    {
+      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+      "excerpt": "Google Research describes a system that sifts continuous wearable sensor streams to rank which signals are worth testing as real biomarkers. It is hypothesis generation applied to health data that is otherwise too large to inspect."
     },
     {
       "url": "https://www.genengnews.com/topics/artificial-intelligence/from-models-to-agents-the-next-phase-of-ai-adoption-in-molecular-discovery/",
@@ -81,15 +117,8 @@
       "category": "science",
       "published_iso": "2026-08-21T15:28:09Z",
       "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2234447381_AIMedicalIdea.jpg",
-      "excerpt": "The compute power exists. The models exist. What’s missing is a system that coordinates them."
-    },
-    {
-      "url": "https://www.genengnews.com/topics/drug-discovery/deepcyte-launches-single-cell-metabolomic-reference-atlas-of-drug-toxicity-mechanisms/",
-      "source": "GEN",
-      "category": "science",
-      "published_iso": "2026-08-21T15:13:54Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/GettyImages-966765790.jpg",
-      "excerpt": "DeeTox Atlas is described as a foundation dataset built from two independent single-cell metabolomics perturbation studies."
+      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
+      "excerpt": "GEN maps the move in drug discovery from static predictive models to agentic systems that plan and run their own molecular design loops. Includes the concrete agent interfaces vendors are now shipping for protein binder design."
     },
     {
       "url": "https://www.genengnews.com/topics/artificial-intelligence/protecting-scientific-intent-in-ai-enabled-labs-by-not-letting-ai-set-the-mission/",
@@ -97,84 +126,103 @@
       "category": "science",
       "published_iso": "2026-08-20T17:54:18Z",
       "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/GettyImages-2248539094.jpg",
-      "excerpt": "Whatever level of artificial intelligence is used, humans need to be in the lead throughout the process, according to the research team."
+      "title": "Protecting Scientific Intent in AI-Enabled Labs by Not Letting AI Set the Mission",
+      "excerpt": "An argument about where autonomy should stop in self-driving labs: automate execution, keep the research question human. A practical governance frame for anyone standing up an autonomous experimentation stack."
     },
     {
-      "url": "https://medicalxpress.com/news/2026-08-confidence-ai-brain-tumor-imaging.html",
-      "source": "Medical Xpress",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746601v1",
+      "source": "bioRxiv",
       "category": "science",
-      "published_iso": "2026-08-24T19:00:09Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/enhancing-confidence-i.jpg",
-      "excerpt": "MRIs are among the most accurate imaging tests used to diagnose brain tumors, and MRI-based monitoring of tumors guides critical treatment decisions. The clinical standard for measuring tumors often relies on either subjective evaluation or simplified two-dimensional (2D) measurements. However, for "
+      "published_iso": "2026-08-24T00:00:00Z",
+      "og_image": "",
+      "title": "CodonMamba: a foundation model for programmable mRNA coding sequence design",
+      "excerpt": "A state-space foundation model trained to design mRNA coding sequences, aiming at programmable control of expression rather than one-off codon optimization. Preprint from the generative-biology wave now hitting mRNA therapeutics."
     },
     {
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "Google DeepMind",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.20.746074v1",
+      "source": "bioRxiv",
       "category": "science",
-      "published_iso": "2026-08-21T11:59:48Z",
-      "og_image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
-      "excerpt": "Google DeepMind partners with game developers to build generalist agents like SIMA 2 and unlock breakthrough gameplay experiences across persistent worlds."
+      "published_iso": "2026-08-25T00:00:00Z",
+      "og_image": "",
+      "title": "ASAREE: An Analytical Sandbox for Agentic AI Research, Engineering, and Experimentation",
+      "excerpt": "ASAREE proposes a sandbox for running and evaluating agentic AI systems that do their own research, engineering and experimentation. It is infrastructure for testing 'AI co-scientist' claims instead of taking them on trust."
     },
     {
       "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
       "source": "Physics World",
       "category": "science",
-      "published_iso": "2026-08-19T14:30:49Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-perkowitz-server-room-data-centre-1415677219-istock-imaginima.jpg",
-      "excerpt": "Sidney Perkowitz looks into alternative computing methods inspired by physics to improve computational efficiency and power"
+      "published_iso": "2026-08-19T14:30:49+00:00",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-perkowitz-server-room-data-centre-1415677219-istock_matejmo.jpg",
+      "title": "The physics of novel computation: beyond bits and chips to spikes and spins",
+      "excerpt": "A survey of the physical substrates being proposed to run AI beyond CMOS - spiking neuromorphic devices, spintronics, photonics. Useful context for why model efficiency is becoming a materials-physics problem."
     },
     {
-      "url": "https://thequantuminsider.com/2026/08/24/microsofts-skala-ai-model-joins-cp2k-to-improve-quantum-mechanical-simulations/",
+      "url": "https://physicsworld.com/a/no-quantum-advantage-yet-in-the-world-of-tensor-networks/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-08-21T13:41:22+00:00",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/21-8-26-tn-nohora.jpg",
+      "title": "No quantum advantage (yet) in the world of tensor networks",
+      "excerpt": "Classical tensor-network methods keep matching quantum processors on the tasks meant to demonstrate advantage. A sober checkpoint for anyone tracking quantum machine learning claims."
+    },
+    {
+      "url": "https://www.scientificamerican.com/podcast/episode/how-generative-ai-is-reshaping-creativity-and-what-it-means-for-artists/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-08-19T06:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/c89c1ed6-db81-4b5c-add4-e979041c94c4/2608_SQ_WED_MOTHERS_INVENTION.jpg",
+      "title": "How generative AI is reshaping creativity, and what it means for artists",
+      "excerpt": "Scientific American looks at what research on originality says about generative tools - whether models widen the space of ideas or pull output toward the mean. Directly relevant to how creative work gets evaluated."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/08/25/scientists-look-to-the-brain-to-improve-quantum-sensors/",
       "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-08-24T08:04:47+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Low-Res_20260821_b-1.png",
-      "excerpt": "The Skala model is now available, giving researchers an AI-based exchange-correlation functional for quantum mechanical simulations."
+      "published_iso": "2026-08-25T11:56:12+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/7633488.jpg",
+      "title": "Scientists Look to the Brain to Improve Quantum Sensors",
+      "excerpt": "Researchers are borrowing neural coding strategies to squeeze more precision out of quantum sensors. A neuromorphic idea crossing into quantum metrology."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-08-23T12:14:40Z",
-      "og_image": "",
-      "excerpt": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventu"
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1141263",
-      "source": "EurekAlert!",
-      "category": "science",
-      "published_iso": "2026-08-24T07:46:39Z",
-      "og_image": "",
-      "excerpt": "MIT engineers developed a tool that predicts plausible extreme events and worst-case scenarios—such as an extreme storm's likely duration, intensity and area of impact—without needing data on previous extremes."
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1140758",
-      "source": "EurekAlert!",
-      "category": "science",
-      "published_iso": "2026-08-19T10:01:20Z",
-      "og_image": "",
-      "excerpt": "A review of three landmark autonomous-research systems reported in Nature in 2026—the Empirical Research Assistant, The AI Scientist and MIRA—maps what agentic AI can now do across ideation, coding, experiments and even peer review, and where it still fails."
-    },
-    {
-      "url": "https://www.chemistryworld.com/opinion/artificial-intelligence-or-clever-artifice/4024055.article",
-      "source": "Chemistry World",
-      "category": "science",
-      "published_iso": "2026-08-18T00:00:00Z",
-      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/7/0/4/550704_gettyimages2159071023_899370_crop.jpg",
-      "excerpt": "A chemist argues that most hyperbolic AI claims in chemistry and materials science don't survive scrutiny: the models that hold up are those applied to well-defined problems with high-quality data and cheap experimental verification."
-    },
-    {
-      "url": "https://www.livescience.com/technology/artificial-intelligence/elon-musk-and-sam-altman-claim-weve-reached-the-ai-singularity-but-how-would-we-even-know-that-happened",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/why-is-ai-going-on-a-hacking-spree",
       "source": "Live Science",
       "category": "science",
-      "published_iso": "2026-08-17T08:45:03Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/EdftHfiWN6DMekyCe7GenA-2000-80.png",
-      "excerpt": "Scientists suggest it could take decades to achieve superintelligent AI, and doing so still depends on hypothetical breakthroughs. So why do some suggest we're already there?"
+      "published_iso": "2026-08-23T11:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kRAuK9qUT6ZtSRTugWT8iC-2121-80.jpg",
+      "title": "Why is AI going on a hacking spree?",
+      "excerpt": "Live Science examines the reported surge of AI agents autonomously finding and exploiting vulnerabilities, and what capability actually changed. Relevant to anyone deploying agentic systems with tool access."
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.18172",
+      "source": "arXiv",
+      "category": "science",
+      "published_iso": "2026-08-17T00:00:00Z",
+      "og_image": "",
+      "title": "Astro-Hunters: Machine Learning for Exoplanet Transit Detection in TESS Photometry",
+      "excerpt": "Exoplanet hunting is now a data-analysis problem: TESS returns far more light curves than humans can inspect. This work trains classifiers to surface transit candidates automatically from that flood of photometry."
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.21474",
+      "source": "arXiv",
+      "category": "science",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "og_image": "",
+      "title": "Radio Galaxies detection and characterization using deep learning techniques",
+      "excerpt": "Next-generation radio telescopes will produce data volumes that defeat traditional statistical pipelines. The paper applies deep learning to detect and characterize radio galaxies at survey scale."
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.22515",
+      "source": "arXiv",
+      "category": "science",
+      "published_iso": "2026-08-23T00:00:00Z",
+      "og_image": "",
+      "title": "Interpretable statistical feature engineering for early disruption prediction in tokamaks",
+      "excerpt": "Machine-learning disruption predictors for fusion plasmas usually trade accuracy for opacity. This work builds interpretable statistical features so operators can see why a disruption alarm fired in time to act."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 21,
+    "kept": 24,
     "against_days": 5
   }
 }

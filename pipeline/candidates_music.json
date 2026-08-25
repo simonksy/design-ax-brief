@@ -1,47 +1,111 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "music",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://musictech.com/news/music/dr-dre-embracing-ai-new-tool/",
+      "url": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/",
       "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-08-24T16:25:12+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Pictured-at-the-2026-Grammy-Awards-Dr.-Dre-1068x801.jpg",
-      "excerpt": "Dr. Dre says he is now “embracing” AI in the studio, calling it “a new tool for creativity” and arguing that only people “who have trouble creating” see it as a threat."
+      "published_iso": "2026-08-21T15:23:40+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Tamber-2.0@2000x1500-1068x801.jpg",
+      "excerpt": "Tamber 2.0 turns the assistive AI music suite into five connected apps with gesture control, a natural-language 'Tamby' co-producer that drives your DAW, and native Windows support. Tamber pitches its AI as assistive rather than generative — it helps you operate tools and find sounds instead of prompting a finished song."
     },
     {
-      "url": "https://www.musicradar.com/music-tech/dr-dre-has-words-for-those-who-oppose-the-use-of-ai-in-music-you-sound-like-the-person-that-would-have-been-against-the-drum-machine-when-it-came-out-or-synthesizers",
-      "source": "MusicRadar",
+      "url": "https://musictech.com/guides/buyers-guide/best-ethical-ai-music-plugins/",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-08-24T13:51:14+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/oZEHidzUhBWSH7ZEJEswVc-1200-80.jpg",
-      "excerpt": "Dr. Dre compares AI resistance to earlier panics over drum machines and synths, and says plenty of producers are already using AI quietly without admitting it."
+      "published_iso": "2026-08-18T15:46:51+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2025/08/moises-studio-ai-daw@2000x1500-1068x801.jpg",
+      "excerpt": "A round-up of six AI music tools that actually pay the artists whose material trained them, from Moises to voice-model platforms built with consenting singers. The framing: ethical sourcing is becoming a product feature producers can shop for, not just a talking point."
+    },
+    {
+      "url": "https://musictech.com/features/interviews/vibe-coding-has-come-for-music-plugins-are-we-witnessing-a-revolution/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-08-14T08:53:10+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Evan-Mezeske-hero-credit-Chris-Hayzel@2000x1500-1068x801.jpg",
+      "excerpt": "AI-assisted coding is letting solo developers ship VST/AU plugins in a fraction of the usual time, collapsing the distance between a producer's idea and a working instrument. Developers interviewed argue manual coding is fading and 'what will be left is the fun stuff' — while warning about code quality and market flooding."
     },
     {
       "url": "https://www.gearnews.com/hotone-pulze-jr-the-mini-amp-with-ai/",
-      "source": "Gearnews",
+      "source": "gearnews",
       "category": "music",
       "published_iso": "2026-08-24T11:20:23+02:00",
       "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Hotone-Pulze-Jr.-the-Mini-Amp-with-AI.jpg",
-      "excerpt": "Hotone's pocket-sized Pulze Jr. modelling amp puts onboard AI tone-matching and assistive presets into a battery-powered practice amp for guitarists."
+      "excerpt": "Hotone's Pulze Jr. is a 20W battery-powered stereo mini amp with 52 amp models and AI-powered preset generation built in. It's a small but telling sign that generative tone-design is migrating from plugins into cheap physical hardware."
     },
     {
-      "url": "https://bedroomproducersblog.com/2026/08/22/trama-ai-stem-separator/",
-      "source": "Bedroom Producers Blog",
+      "url": "https://djmag.com/news/apple-music-introduce-labels-ai-generated-music",
+      "source": "DJ Mag",
       "category": "music",
-      "published_iso": "2026-08-22T16:08:07+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/trama-728x364.jpg",
-      "excerpt": "Ohlhorst Digital's Trama is a free offline stem separator for Windows, macOS and Linux that splits tracks into vocals, drums, bass and other using a fine-tuned Hybrid Transformer Demucs model — no uploads, no subscription."
+      "published_iso": "2026-08-24T13:53:27+01:00",
+      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-08/Apple-Music.webp?itok=B67Um4CW1756568532",
+      "excerpt": "Apple Music will make its 'AI transparency tags' mandatory and surface a 'Made With AI' label on tracks materially generated with AI from later this year, leaning on labels and distributors to declare it. Apple says more than a third of monthly uploads are now fully AI-generated, yet they account for under 0.5% of listening."
     },
     {
-      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-round-hills-suno-and-anthropic-lawsuits-model-weights-extraction-tools-and-a-75m-number/",
+      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-08-25T10:09:21Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi-1200-80.jpg",
+      "excerpt": "Researchers trained AI models that can identify iconic jazz pianists from their recordings alone, and in doing so exposed the measurable 'musical fingerprints' — timing, voicing, touch — that make a player recognisable. It hints at analysis tools that could describe personal style as a set of editable parameters."
+    },
+    {
+      "url": "https://www.musicradar.com/music-tech/nearly-40-percent-of-music-released-last-month-used-ai",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-08-18T18:00:47Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XXHevshUVGR2sDatTDUhbE-1759-80.jpg",
+      "excerpt": "A SubmitHub study of over a million newly released tracks found nearly 40% used AI somewhere in the process — 23.2% fully AI-generated, plus about 15% human-modified AI. The numbers reframe AI from fringe tool to default layer in a large share of new releases."
+    },
+    {
+      "url": "https://www.billboard.com/pro/luminate-to-label-ai-music-later-this-year/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-08-25T14:00:00+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/07/luminate-logo-2025-billboard-1548.jpg?w=1024",
+      "excerpt": "Luminate announced an AI music framework that will attach 'AI Generated' labels to songs and artist profiles later this year, using its own identification tech plus data from streaming services and AI music companies. The data layer the whole industry charts from is about to start declaring what's machine-made."
+    },
+    {
+      "url": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-08-25T14:15:00+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/01/Billboard-logo-BB-placeholder-1548.jpg?w=1024",
+      "excerpt": "Billboard set out how it will handle AI-generated music across its charts and editorial, committing to disclose AI involvement as labelling data becomes available. It's the chart establishment deciding that provenance metadata is now part of the record."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/alibaba-launches-ai-song-generator-happyshrimp-1-0-in-beta-with-chinas-taihe-music-signed-up-for-artist-co-creation/",
       "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-08-24T19:26:33+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/New-Project-3.jpg",
-      "excerpt": "A breakdown of Round Hill's billion-dollar suits against Suno and Anthropic: the publisher targets model weights and extraction tools, and says it wants a jury trial rather than a settlement."
+      "published_iso": "2026-08-18T13:39:56+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/image1-e1787028035370.png",
+      "excerpt": "Alibaba launched HappyShrimp 1.0 in beta, a text-prompt song generator that produces complete tracks, with China's Taihe Music signed up for artist co-creation. It puts a hyperscaler-scale rival next to Suno and Udio, with a label partner attached from day one."
+    },
+    {
+      "url": "https://completemusicupdate.com/round-hill-joins-the-ai-lawsuit-party-targets-suno-and-anthropic/",
+      "source": "CMU",
+      "category": "music",
+      "published_iso": "2026-08-19T14:21:45Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/suno-anthropic-roundhill.png",
+      "excerpt": "Publisher Round Hill sued both Suno and Anthropic over AI training on its catalogue, seeking up to $1bn apiece and pointedly saying it isn't looking to settle. The filings target model weights and extraction tooling, not just outputs — a sharper legal theory than earlier music-AI suits."
+    },
+    {
+      "url": "https://www.hypebot.com/the-ai-chart-rules-ask-if-a-record-is-human-they-never-ask-if-the-song-is/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-08-20T12:37:14Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-19-steve-canfield.jpg",
+      "excerpt": "An argument that the new AI chart-eligibility rules only test whether the recording was human-made, never whether the songwriting was. As labelling regimes spread, the essay pinpoints where the definitions leak — and what creators will be asked to declare next."
+    },
+    {
+      "url": "https://www.hypebot.com/mark-my-words-ai-music-is-the-end-of-the-artist-economy/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-08-25T16:46:51Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/Still-Frame-Picture.jpg",
+      "excerpt": "A blunt counter-argument to the industry's licensed-AI optimism: as generation costs fall to zero, the economics that fund working artists collapse regardless of who signs which deal. Useful as the pessimist's frame against this week's licensing and labelling news."
     },
     {
       "url": "https://www.soundonsound.com/reviews/steinberg-spectralayers-pro-13",
@@ -49,31 +113,23 @@
       "category": "music",
       "published_iso": "2026-08-20T10:50:06+01:00",
       "og_image": null,
-      "excerpt": "SOS reviews SpectraLayers Pro 13, Steinberg's spectral editor whose AI-driven unmixing, dialogue and noise processing keep pushing what you can surgically repair or rebuild inside a mix."
+      "excerpt": "Sound On Sound reviews SpectraLayers Pro 13, Steinberg's spectral editor whose AI unmixing and separation engines keep getting better at pulling clean layers out of finished mixes. It's the least hyped but most practical face of AI audio: repair, restoration and remix surgery."
     },
     {
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-      "source": "The Verge",
-      "category": "music",
-      "published_iso": "2026-08-22T17:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png",
-      "excerpt": "Musical Spirograph is a free browser toy that turns doodled geometric loops into generative compositions — a low-stakes way to sketch algorithmic musical ideas."
-    },
-    {
-      "url": "https://musically.com/2026/08/19/cyanite-rolls-out-a-big-upgrade-to-its-ai-music-tagging-tech/",
+      "url": "https://musically.com/2026/08/25/chartmetric-says-its-flow-ai-is-not-just-another-ai-chatbot/",
       "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-08-19T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T125447.316.png",
-      "excerpt": "Cyanite's Tagging 2.0 adds lyric analysis, tempo, vocal style, use-case and structural segmentation models plus a scalable API, reshaping how catalogues get searched and pitched."
+      "published_iso": "2026-08-25T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-25T101936.088.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Chartmetric launched Flow, an AI layer over its music-analytics platform that it insists is 'not just another AI chatbot' but an agent that runs multi-step research across artist data. A look at how AI is being wired into the tools artist teams actually plan campaigns with."
     },
     {
-      "url": "https://musically.com/2026/08/21/udio-and-grai-are-first-licensees-for-music-ip-holdings-ai-patents/",
+      "url": "https://musically.com/2026/08/19/unthoughtful-workplace-ai-usage-risks-trading-skill-for-speed/",
       "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-08-21T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-21T131339.970.png",
-      "excerpt": "Udio and Grai become the first licensees of the UMG-backed Music IP Holdings AI patent pool, a possible template for how licensed AI music tools get built."
+      "published_iso": "2026-08-19T11:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T113246.560.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Research on unreflective workplace AI use warns that teams are 'trading skill for speed' — shipping faster while quietly losing the craft judgement that made the output good. Directly applicable to music and creative orgs rolling AI into daily production."
     },
     {
       "url": "https://musically.com/2026/08/24/jimmy-iovine-says-ai-music-firms-have-terrible-communication-skills/",
@@ -81,7 +137,7 @@
       "category": "music",
       "published_iso": "2026-08-24T14:25:15+00:00",
       "og_image": "https://musically.com/wp-content/uploads/2026/08/artificial-intelligence-brain-in-motherboard.jpg",
-      "excerpt": "Jimmy Iovine argues AI music companies have failed to explain themselves to artists, framing the standoff as a communication problem as much as a legal one."
+      "excerpt": "Jimmy Iovine says he's 'very pro-AI in music creation' but that AI music firms 'have terrible communication skills' and have bungled how they explain themselves to artists. A read on why the tools face resistance that isn't really about the tools."
     },
     {
       "url": "https://www.midiaresearch.com/blog/do-watermarks-spell-the-end-of-ai-content-proliferation",
@@ -89,47 +145,7 @@
       "category": "music",
       "published_iso": "2026-08-19T00:00:00+01:00",
       "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2650/cover_image-1787155885.jpg",
-      "excerpt": "With regulators requiring AI outputs to be machine-detectable, MIDiA asks whether watermarking actually slows AI content flooding streaming — or just relabels it."
-    },
-    {
-      "url": "https://www.hypebot.com/own-your-ai-search-results-a-guide-for-artists-and-venues/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-08-24T13:05:01+00:00",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/AI-Search-For-Artists---Venues.jpg",
-      "excerpt": "A practical guide to getting artist and venue sites cited by AI assistants — structured data, canonical bios and the on-page work that decides what chatbots say about you."
-    },
-    {
-      "url": "https://blog.comfy.org/p/minimax-music-3-state-of-the-art",
-      "source": "ComfyUI Blog",
-      "category": "music",
-      "published_iso": "2026-08-13T20:41:33+00:00",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!v-WJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4827eb79-f9c5-4f8d-b0aa-a449a4b440fb_1920x1080.png",
-      "excerpt": "MiniMax Music 3 lands as an open-weights text-to-music model that generates full five-minute songs locally, with ComfyUI and Diffusers workflows that run on a single 24GB GPU."
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/08/24/ai-generated-music-banned-from-charting-aria/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-08-24T20:51:03+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ai-generated-music-to-be-banned-from-aria-charts-in-australia.png",
-      "excerpt": "ARIA sets new eligibility rules that exclude fully or mostly AI-generated recordings from Australia's official charts, while allowing AI-assisted human work."
-    },
-    {
-      "url": "https://www.soundonsound.com/news/dr-fill-yurt-rock",
-      "source": "Sound On Sound",
-      "category": "music",
-      "published_iso": "2026-08-24T07:30:00+01:00",
-      "og_image": null,
-      "excerpt": "Yurt Rock's Dr. Fill is a drum-fill library built from real captured performances and marketed explicitly with “no AI in sight” — a sign of how sample makers now position craft against generation."
-    },
-    {
-      "url": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-08-21T15:23:40+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Tamber-2.0@2000x1500-1068x801.jpg",
-      "excerpt": "AI-powered creation suite Tamber hits 2.0 with a reworked interface and new generation and editing features aimed at producers who want AI inside a conventional workflow."
+      "excerpt": "MIDiA asks whether audio watermarking can actually slow AI content proliferation, or whether it just creates a detectable underclass of tracks while generation volume keeps rising. Essential context for every 'we'll label AI music' announcement landing this month."
     }
   ]
 }

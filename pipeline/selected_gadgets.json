@@ -1,97 +1,61 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "gadgets",
   "picks": [
     {
-      "rank": 1,
-      "title": "This phone runs an AI assistant offline, so I stopped uploading documents to cloud chatbots",
-      "url": "https://www.xda-developers.com/phone-runs-ai-assistant-offline-stopped-uploading-documents-to-cloud-chatbots/",
-      "source": "XDA Developers",
-      "published_iso": "2026-08-24T20:00:16Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-3-5-in-noema-on-iphone-keyboard-and-clock-in-view.jpeg?w=1600&h=900&fit=crop",
-      "excerpt": "I can finally trust mobile AI with the important stuff",
+      "url": "https://www.digitaltrends.com/phones/nothing-os-5-0-wants-you-to-stop-switching-apps-and-start-living-in-your-phone/",
+      "source": "Digital Trends",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Qwen 3.5 running fully on-device in Noema turns a phone into a private document assistant — the most directly reproducible on-device AI setup in the pool."
+      "rationale": "The boldest shipping attempt yet at an AI-first phone interface — AI-assembled widgets replacing app-switching is a live test of a UI paradigm designers keep sketching.",
+      "published_iso": "2026-08-25T05:51:02-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-infographic.jpg?resize=1200%2C630",
+      "excerpt": "Nothing OS 5.0 on Android 17 leans on AI-assembled widgets and glanceable surfaces to keep users out of app-switching — the boldest attempt yet at an AI-first phone interface."
     },
     {
-      "rank": 2,
-      "title": "Pixel 11 Pro gets a new Gemini \"Device help\" tool",
-      "url": "https://9to5google.com/2026/08/24/pixel-11-pro-gemini-device-help/",
-      "source": "9to5Google",
-      "published_iso": "2026-08-24T16:14:01+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "On the Pixel 11 Pro, we're seeing a new \"Device help\" tool for the Gemini app that provides personalized and conversational assistance...",
+      "url": "https://www.tomsguide.com/ai/perplexitys-new-local-first-ai-runs-on-your-pc-and-asks-before-using-the-cloud",
+      "source": "Tom's Guide",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "A shipped Gemini feature that replaces the support manual with conversational, device-aware help — new UX pattern for hardware onboarding."
+      "rationale": "Local-first with an explicit consent prompt before any cloud call — a concrete privacy pattern for anyone handling client files on an AI PC.",
+      "published_iso": "2026-08-25T13:39:35Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/oW2jKymtiv2rQ7N8Fqenh8-2560-80.jpg",
+      "excerpt": "Perplexity's Portable Computer keeps files and AI tasks on your own hardware, only reaching for a cloud model when you explicitly allow it — a local-first posture for everyday PC AI."
     },
     {
-      "rank": 3,
-      "title": "Apple Store app gains an AI-powered virtual shopping assistant in early preview",
-      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
+      "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
       "source": "MacRumors",
-      "published_iso": "2026-08-24T05:55:51-07:00",
-      "og_image": "https://images.macrumors.com/t/fIP-NHOTBAREpNB9d4R4X7qgf-c=/2500x/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
-      "excerpt": "In the Apple Store app on the iPhone, select users have received access to an \"early preview\" of a new AI-powered virtual shopping assistant. Once it is available, you can open the chatbot by tapping on the speech bubble with two sparkles in the bottom-right corner of the app. Then, you can ask questions about Apple products, your existing Apple Store orders, trade-in values, payment options, and more, or simply tap on one of the common topics on the page to begin.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Apple quietly ships a conversational agent inside a first-party retail app — a live reference for how a chatbot gets folded into an existing product flow."
+      "rationale": "The single best card from the M6/M5 Mac wave: a 2nm chip with a dual 16-core Neural Engine resets what creative tools can run locally on a consumer Mac.",
+      "published_iso": "2026-08-25T06:05:00-07:00",
+      "og_image": "https://images.macrumors.com/t/Nupss_8A02Q9UCCL40qBe1db2J8=/1672x/article-new/2026/08/m6-chip.png",
+      "excerpt": "Apple announced the M6, its first 2nm chip, with a dual 16-core Neural Engine and a 12-core CPU. The on-device AI budget in a consumer Mac jumps again, which is what changes what creative tools can run locally."
     },
     {
-      "rank": 4,
-      "title": "I wore Viture and Xreal's new budget AR glasses for a week — this is the pair I'd buy",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/i-wore-virtue-and-xreals-new-budget-friendly-ar-glasses-for-a-week-and-this-is-the-pair-id-buy",
-      "source": "Tom's Guide",
-      "published_iso": "2026-08-22T11:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/fooTyD6WY4GY6qYr9ZNZfR-2560-80.jpg",
-      "excerpt": "Viture and Xreal are competing in the budget AR glasses space, so who wins? I'm comparing comfort, display quality and features to see who's the best.",
+      "url": "https://www.techradar.com/ai-platforms-assistants/claude/amazon-security-engineer-hacks-pc-accessories-with-claude-opus-to-make-them-work-better-asus-insta360-and-elgato-products-reverse-engineered-in-hours-for-better-control-but-engineer-admits-this-also-scares-me",
+      "source": "TechRadar",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Hands-on head-to-head of the two budget AR display glasses now in reach of a normal buyer — comfort, optics and features compared over a full week."
+      "rationale": "Reverse-engineering closed gear in hours to build your own controls is the most directly copyable workflow here — and the security caveat comes from the engineer himself.",
+      "published_iso": "2026-08-25T08:12:01Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/jkup3TaJ8TSEFiVpLQLXz8-2560-80.jpg",
+      "excerpt": "An Amazon security engineer used Claude Opus to reverse-engineer Asus, Insta360 and Elgato gear in hours and build better controls for it — a glimpse of AI as a gadget-modding tool, and a security worry."
     },
     {
-      "rank": 5,
-      "title": "If you don't want smart glasses to spy, try a Bluetooth detector app",
-      "url": "https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/",
-      "source": "CNET",
-      "published_iso": "2026-08-24T16:32:48-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/zuckoff-app.jpg",
-      "excerpt": "Amid broad privacy concerns, new apps like Zuckoff help detect smart glasses in the wild.",
+      "url": "https://gizmodo.com/garmins-fenix-9-and-9-pro-tell-a-broader-story-about-your-physical-activity-2000802969",
+      "source": "Gizmodo",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Zuckoff is a free app you can install today that sniffs nearby smart glasses over Bluetooth — the countermeasure side of the AI wearable story."
+      "rationale": "An information-design shift on the wrist: Garmin Epic stitches an outing into one narrative instead of a metrics dump, which is the harder half of wearable AI.",
+      "published_iso": "2026-08-25T18:00:08+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/20260428_SOCIAL_RECOD_3740-1200x675.jpg",
+      "excerpt": "Garmin's Fenix 9 and 9 Pro add Garmin Epic, which stitches multiple activities into one holistic narrative of an outing rather than a pile of disconnected metrics."
     }
-  ],
-  "dedup_notes": {
-    "history_checked": "sections.gadgets today (2026-08-22) + days 2026-08-14/15/19/20/21",
-    "dropped_as_duplicate": [
-      {
-        "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-        "reason": "Same story as the CNET Zuckoff piece (same detector app); Ars angle also overlaps the already-published 2026-08-19 Meta facial-recognition patent card. Kept the CNET version."
-      },
-      {
-        "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-review",
-        "reason": "Pixel 11 review cluster — same story as the Ars Technica and 9to5Google reviews."
-      },
-      {
-        "url": "https://9to5google.com/2026/08/19/pixel-11-pro-initial-review/",
-        "reason": "Pixel 11 review cluster duplicate."
-      },
-      {
-        "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-        "reason": "Strongest of the Pixel 11 review cluster, but section already ran three Pixel 11 cards (Tensor G6 TPU 08-14, HiLight 08-21, plus Gemini feature above); dropped for topic diversity."
-      },
-      {
-        "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-        "reason": "Same event hub as the already-published 2026-08-19 card on the World Humanoid Robot Games firefighting drill."
-      }
-    ],
-    "diversity_check": "5 distinct outlets (XDA, 9to5Google, MacRumors, Tom's Guide, CNET), max 1 per outlet; topics spread across on-device LLM, phone assistant feature, in-app AI agent, AR display hardware, wearable-privacy tooling."
-  }
+  ]
 }

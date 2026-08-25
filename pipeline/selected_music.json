@@ -1,79 +1,66 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "music",
   "picks": [
     {
-      "url": "https://blog.comfy.org/p/minimax-music-3-state-of-the-art",
-      "source": "ComfyUI Blog",
-      "published_iso": "2026-08-13T20:41:33+00:00",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!v-WJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4827eb79-f9c5-4f8d-b0aa-a449a4b440fb_1920x1080.png",
-      "excerpt": "MiniMax Music 3 lands as an open-weights text-to-music model that generates full five-minute songs locally, with ComfyUI and Diffusers workflows that run on a single 24GB GPU.",
+      "url": "https://www.billboard.com/pro/luminate-to-label-ai-music-later-this-year/",
+      "source": "Billboard",
+      "published_iso": "2026-08-25T14:00:00+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/07/luminate-logo-2025-billboard-1548.jpg?w=1024",
+      "excerpt": "Luminate announced an AI music framework that will attach 'AI Generated' labels to songs and artist profiles later this year, using its own identification tech plus data from streaming services and AI music companies. The data layer the whole industry charts from is about to start declaring what's machine-made.",
+      "category": "music",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "First open-weights model that writes full five-minute songs on one 24GB GPU — moves generation off subscription platforms and onto the producer's own machine."
+      "rationale": "The industry's core data provider will start flagging AI tracks — provenance metadata becomes something every release has to plan for, not just streaming platforms."
     },
     {
-      "url": "https://bedroomproducersblog.com/2026/08/22/trama-ai-stem-separator/",
-      "source": "Bedroom Producers Blog",
-      "published_iso": "2026-08-22T16:08:07+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/trama-728x364.jpg",
-      "excerpt": "Ohlhorst Digital's Trama is a free offline stem separator for Windows, macOS and Linux that splits tracks into vocals, drums, bass and other using a fine-tuned Hybrid Transformer Demucs model — no uploads, no subscription.",
+      "url": "https://www.soundonsound.com/reviews/steinberg-spectralayers-pro-13",
+      "source": "Sound On Sound",
+      "published_iso": "2026-08-20T10:50:06+01:00",
+      "og_image": null,
+      "excerpt": "Sound On Sound reviews SpectraLayers Pro 13, Steinberg's spectral editor whose AI unmixing and separation engines keep getting better at pulling clean layers out of finished mixes. It's the least hyped but most practical face of AI audio: repair, restoration and remix surgery.",
+      "category": "music",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A free, fully offline Demucs-based splitter removes both the cost and the upload-your-masters risk from everyday remix, practice and sampling work."
+      "rationale": "A hands-on verdict on a named release — the unmix/repair workflow producers can actually run on a session tomorrow."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/08/24/ai-generated-music-banned-from-charting-aria/",
-      "source": "Digital Music News",
-      "published_iso": "2026-08-24T20:51:03+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ai-generated-music-to-be-banned-from-aria-charts-in-australia.png",
-      "excerpt": "ARIA sets new eligibility rules that exclude fully or mostly AI-generated recordings from Australia's official charts, while allowing AI-assisted human work.",
+      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
+      "source": "MusicRadar",
+      "published_iso": "2026-08-25T10:09:21Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi-1200-80.jpg",
+      "excerpt": "Researchers trained AI models that can identify iconic jazz pianists from their recordings alone, and in doing so exposed the measurable 'musical fingerprints' — timing, voicing, touch — that make a player recognisable. It hints at analysis tools that could describe personal style as a set of editable parameters.",
+      "category": "music",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "A national chart body now draws a hard line between AI-generated and AI-assisted, so how you declare AI use on a release decides whether it can chart at all."
+      "rationale": "Turns 'personal style' into measurable parameters — the research groundwork for tools that can analyse, teach, or reproduce a player's feel."
     },
     {
-      "url": "https://musically.com/2026/08/19/cyanite-rolls-out-a-big-upgrade-to-its-ai-music-tagging-tech/",
+      "url": "https://musically.com/2026/08/25/chartmetric-says-its-flow-ai-is-not-just-another-ai-chatbot/",
       "source": "Music Ally",
-      "published_iso": "2026-08-19T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T125447.316.png",
-      "excerpt": "Cyanite's Tagging 2.0 adds lyric analysis, tempo, vocal style, use-case and structural segmentation models plus a scalable API, reshaping how catalogues get searched and pitched.",
+      "published_iso": "2026-08-25T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-25T101936.088.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Chartmetric launched Flow, an AI layer over its music-analytics platform that it insists is 'not just another AI chatbot' but an agent that runs multi-step research across artist data. A look at how AI is being wired into the tools artist teams actually plan campaigns with.",
+      "category": "music",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Lyric, vocal-style and section-level tagging behind an API changes how sync catalogues are searched and pitched — metadata work an artist or library can act on now."
+      "rationale": "A shipped agent inside the analytics platform artist teams already use — changes how release and campaign research gets done."
     },
     {
-      "url": "https://www.hypebot.com/own-your-ai-search-results-a-guide-for-artists-and-venues/",
-      "source": "Hypebot",
-      "published_iso": "2026-08-24T13:05:01+00:00",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/AI-Search-For-Artists---Venues.jpg",
-      "excerpt": "A practical guide to getting artist and venue sites cited by AI assistants — structured data, canonical bios and the on-page work that decides what chatbots say about you.",
+      "url": "https://www.gearnews.com/hotone-pulze-jr-the-mini-amp-with-ai/",
+      "source": "gearnews",
+      "published_iso": "2026-08-24T11:20:23+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Hotone-Pulze-Jr.-the-Mini-Amp-with-AI.jpg",
+      "excerpt": "Hotone's Pulze Jr. is a 20W battery-powered stereo mini amp with 52 amp models and AI-powered preset generation built in. It's a small but telling sign that generative tone-design is migrating from plugins into cheap physical hardware.",
+      "category": "music",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Concrete on-page steps — structured data, canonical bios — that decide what AI assistants say about an artist or venue when fans ask."
+      "rationale": "Generative tone design lands in cheap physical hardware — a concrete product, not a concept, and the only gear pick in the set."
     }
-  ],
-  "dedup_notes": {
-    "checked_against": ["today 2026-08-22", "2026-08-21", "2026-08-20", "2026-08-19", "2026-08-15", "2026-08-14"],
-    "dropped": [
-      {
-        "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-round-hills-suno-and-anthropic-lawsuits-model-weights-extraction-tools-and-a-75m-number/",
-        "reason": "Same event as published 2026-08-19 card music-roundhill-suits (MBW, Round Hill sues Suno and Anthropic) — follow-up explainer of the identical filings."
-      },
-      {
-        "url": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/",
-        "reason": "Same release as published 2026-08-21 card music-tamber-2 (Tamber 2.0), different outlet."
-      },
-      {
-        "url": "https://www.musicradar.com/music-tech/dr-dre-has-words-for-those-who-oppose-the-use-of-ai-in-music-you-sound-like-the-person-that-would-have-been-against-the-drum-machine-when-it-came-out-or-synthesizers",
-        "reason": "Within-pool duplicate of the MusicTech Dr. Dre story (same interview remarks); neither selected — pure commentary."
-      }
-    ],
-    "diversity": "5 distinct outlets (ComfyUI Blog, Bedroom Producers Blog, Digital Music News, Music Ally, Hypebot); no outlet appears twice. Topic spread: open model release, free local tool, chart/rights rule, catalogue tagging API, artist discovery playbook."
-  }
+  ]
 }

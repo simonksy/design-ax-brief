@@ -1,35 +1,11 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "design",
   "media": [
-    {
-      "id": "design-figma-eraser",
-      "type": "video",
-      "src": "pipeline/media/design-figma-eraser.mp4",
-      "poster": "pipeline/media/design-figma-eraser.jpg"
-    },
-    {
-      "id": "design-flow-studio",
-      "type": "video",
-      "src": "pipeline/media/design-flow-studio.mp4",
-      "poster": "pipeline/media/design-flow-studio.jpg"
-    },
-    {
-      "id": "design-marvelous-2026",
-      "type": "video",
-      "src": "pipeline/media/design-marvelous-2026.mp4",
-      "poster": "pipeline/media/design-marvelous-2026.jpg"
-    },
-    {
-      "id": "design-design-diff",
-      "type": "image",
-      "src": "pipeline/media/design-design-diff.png"
-    },
-    {
-      "id": "design-walmart-3dp",
-      "type": "video",
-      "src": "pipeline/media/design-walmart-3dp.mp4",
-      "poster": "pipeline/media/design-walmart-3dp.jpg"
-    }
+    {"id": "design-vercel-run-sdk", "type": "image", "src": "pipeline/media/design-vercel-run-sdk.png"},
+    {"id": "design-instagram-first-draft", "type": "image", "src": "pipeline/media/design-instagram-first-draft.jpg"},
+    {"id": "design-millwork-drafting", "type": "image", "src": "pipeline/media/design-millwork-drafting.jpg"},
+    {"id": "design-autonomous-website", "type": "image", "src": "pipeline/media/design-autonomous-website.jpg"},
+    {"id": "design-photoshop-selection", "type": "video", "src": "pipeline/media/design-photoshop-selection.mp4", "poster": "pipeline/media/design-photoshop-selection.jpg"}
   ]
 }
