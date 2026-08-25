@@ -1,79 +1,61 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-seedance-25",
+      "id": "movies-worldclaw-3d",
       "eyebrow": "AI NEWS",
-      "headline": "프롬프트를 연출로 쓰는 법\nSeedance 2.5 실전 테스트",
-      "body": "드류 제라시가 Seedance 2.5로 카메라와 렌즈 움직임을 프롬프트로 지시한다.",
-      "mini_headline": "프롬프트가 곧 연출이다",
+      "headline": "텐센트 WorldClaw, 프롬프트에서\n편집 가능한 3D 월드가 나온다",
+      "body": "나무와 건물, 지형이 제각각 손댈 수 있는 3D 오브젝트로 떨어져 나온다.",
+      "mini_headline": "프롬프트로 짓는 3D 월드",
       "tool": "Movies",
-      "source": "CineD",
-      "url": "https://www.cined.com/testing-seedance-2-5-with-elaborate-prompting-new-module-in-directing-the-future-ethical-ai-video-for-filmmakers/",
+      "source": "Matt Wolfe (YouTube)",
+      "url": "https://www.youtube.com/watch?v=ZY628bslSYY",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "AI 영상 도구는 쉬지 않고 바뀐다. MZed 코스 'Directing the Future: Ethical AI Video for Filmmakers'도 그 속도를 따라간다. 새로 열린 모듈에서 촬영감독이자 사진가인 드류 제라시(Drew Geraci)가 생성 AI 플랫폼 Higgsfield AI로 돌아왔다. 이번에 시험대에 올린 건 최신 모델 가운데 하나인 Seedance 2.5다."
+            "t": "video",
+            "yt": "ZY628bslSYY"
           },
           {
             "t": "p",
-            "x": "앞선 업데이트에서 그는 Higgsfield 인터페이스 전반을 훑었다. 이번엔 그 안의 모델 하나, 바이트댄스가 만든 Seedance 2.5에 집중한다. 넉 달에서 다섯 달째 써 봤다. 지금까지 만져 본 AI 영상 생성기 중 가장 사실적이라는 게 그의 평가다."
+            "x": "매트 울프가 올해 본 AI 모델 중 가장 인상적인 축에 든다며 텐센트의 WorldClaw를 꺼냈다."
           },
           {
             "t": "p",
-            "x": "Seedance 2.5는 바이트댄스의 현행 주력 영상 생성 모델이다. Higgsfield 인터페이스에 바로 붙어 4K로 최대 30초 클립을 만든다. 화면비는 세로 9:16부터 21:9까지 고른다. 시연에서 두 가지가 눈에 띈다. 하나는 소리다. 나중에 덧붙이는 대신 화면에 맞춰 앰비언스와 효과음, 음악을 그림과 같은 단계에서 만든다. 다른 하나는 레퍼런스 기반 일관성이다. 인물·제품·장소 이미지나 클립을 최대 50개까지 넣으면 시퀀스 내내 같은 모습을 유지한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/08/testing_higgsfield_new_lesson-interface.jpg",
-            "cap": "Higgsfield 인터페이스와 Seedance 2.5가 놓인 자리. 이미지 출처: Drew Geraci / MZed"
+            "x": "WorldClaw는 프롬프트 하나로 3D 월드를 통째로 만든다. 배경만 뽑는 게 아니라 그 안에 놓인 물체 하나하나가 따로 나온다."
           },
           {
             "t": "p",
-            "x": "강의는 시연 두 개로 굴러간다. 첫 번째는 자기 사진과 카메라 장비 사진 몇 장으로 짧은 영상을 뽑는다. 두 번째는 재사용 가능한 캐릭터, 곧 자신의 디지털 분신을 만든다."
+            "x": "나무, 건물, 수레, 가로등, 지형까지 전부 개별 3D 에셋으로 생성된다. 그대로 작업에 가져가 만질 수 있다는 뜻이다."
           },
           {
             "t": "p",
-            "x": "짚고 가는 항목은 이렇다. 지난 1년 사이 프롬프트 쓰는 법이 어떻게 달라졌는지, 길고 상세한 프롬프트를 어떤 구조로 짜야 가장 정확한 결과가 나오는지. 직접 찍은 소재를 섞어 사실감을 올리는 요령. 생성 결과 안에서 카메라와 렌즈 움직임을 지시하는 법. 레퍼런스 이미지를 먹여 반복 등장 캐릭터를 세우는 과정. 같은 흐름 안에서 사운드 디자인까지 붙이는 법. 마지막은 프리프로덕션이다. 촬영 전 촬영감독에게 건넬 장면 프리비즈를 이 방식으로 만든다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/08/testing_higgsfield_new_lesson-generated_result_out_of_photos.jpg",
-            "cap": "생성한 데모 영상에서 뽑은 스틸. 이미지 출처: Drew Geraci / MZed"
+            "x": "속을 열어보면 이미지 생성과 세그멘테이션, 그리고 텐센트의 Hunyuan 2D-to-3D 기술이 맞물려 있다. 생성한 장면 한 장을 3D 오브젝트 묶음으로 바꿔놓는 구조다."
           },
           {
             "t": "p",
-            "x": "제라시는 이 작업이 쉽거나 싸다고 팔지 않는다. 상세한 프롬프트 하나에 20~30분, Seedance 2.5 생성 한 번에 5~20분이 든다. 복잡도와 그때그때 서버 상황에 따라 달라진다. 샘플 렌더는 클립당 25~30달러로 잡았다."
+            "x": "쓰임새도 흥미롭다. 게임 환경을 몇 분 만에 뽑거나, 시뮬레이션용 가상 세계를 짓거나, 로봇이 현실에 나가기 전 훈련할 공간을 만드는 식이다."
           },
           {
             "t": "p",
-            "x": "\"AI는 좋아지고 있지만 가격도 오르고 있다. 그 점을 염두에 두라.\" 코스 중 한 대목이다."
-          },
-          {
-            "t": "p",
-            "x": "코스가 생성 영상의 윤리를 다루는 만큼 제라시는 자기 데모의 자리도 분명히 한다. 이 영상은 코스가 말하는 온전한 의미의 '윤리적 AI'가 아니라고 대놓고 말한다. 다만 원칙 일부는 지켰다. 레퍼런스는 전부 자기 이미지와 자기 자료이고, 결과물은 상업적으로 쓰지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "프롬프트 구조 전문을 포함한 전체 워크스루는 MZed에서 볼 수 있다. 새 모듈은 MZed Pro 구독자에게 이미 열렸다. MZed는 CineD가 소유하고 있다."
+            "x": "다만 아직 직접 만져볼 수는 없다. 공개 전이라 울프도 지켜보는 중이라고 했다."
           }
         ]
       }
     },
     {
-      "id": "movies-impossible-objects",
+      "id": "movies-vfx-atlas-2026",
       "eyebrow": "AI NEWS",
-      "headline": "AI 모델을 스튜디오 안에서 돌린다\nImpossible Objects의 선택",
-      "body": "HP ZGX Nano에서 모델을 돌려 클라이언트 소재를 밖으로 내보내지 않는다.",
-      "mini_headline": "로컬에서 도는 생성 VFX",
+      "headline": "AI가 VFX 일자리를 줄였다는\n증거는 데이터에 없다",
+      "body": "AI 전담 직군은 전체의 0.1%에 그쳤고, 로토·페인트 인력은 8.7% 늘었다.",
+      "mini_headline": "AI 감원설 반박한 데이터",
       "tool": "Movies",
-      "source": "fxguide",
-      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/joseph-bell-releases-2026-visual-effects-animation-world-atlas",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -81,66 +63,57 @@
         "blocks": [
           {
             "t": "p",
-            "x": "이 글은 HP가 후원한 fxguide 콘텐츠다."
-          },
-          {
-            "t": "p",
-            "x": "Impossible Objects는 로스앤젤레스의 비주얼 이펙트 회사다. 아티스트가 끌고 가는 VFX 파이프라인에 ComfyUI 커스텀 워크플로를 얹어 실제 프로덕션에 맞게 다듬었다. 주력은 광고다. 포르쉐, 캐딜락, 나이키, 구글이 고객이고 영화·TV VFX도 낸다. AI 리드 냔 르(Nhan Le)가 이끈 도입 과정 덕에 이 부티크 스튜디오는 훨씬 큰 시설에 맞먹는 물량을 소화한다. 최근에는 NVIDIA GB10 Grace Blackwell 슈퍼칩을 얹은 HP ZGX AI 스테이션 두 대를 들였다."
-          },
-          {
-            "t": "p",
-            "x": "\"자동차 브랜드 광고는 아주 깐깐하게 뜯어보는 작업이라, 보통 AI 영상 모델로는 요구되는 포토리얼 수준이 나오지 않는다\"고 르는 설명했다. 전통적인 2D 합성·VFX에 직접 학습시킨 모델을 붙이자 절묘한 지점이 나왔다. HP ZGX Nano는 그 워크플로를 자체 네트워크에서 굴릴 속도와 힘, 확장성을 준다."
+            "x": "조지프 벨이 Visual Effects & Animation World Atlas 세 번째 연간판을 냈다. vfxatlas.com에서 무료로 받는다. 2026년판은 2,900개 회사에서 일하는 VFX·애니메이션 종사자 14만 명 이상을 다뤘고, 지난 12개월 순고용 성장률을 2.7%로 집계했다. 전년은 1%였다."
           },
           {
             "t": "img",
-            "src": "https://www.fxguide.com/wp-content/uploads/2026/07/iohp-image5-37-830x467.jpg",
-            "cap": "Impossible Objects의 전통 VFX·AI 혼합 워크플로로 진행한 VFX 테스트"
+            "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081291-visualeffectsanimationworldatlas2026cover-1280.jpg?itok=ZbpmH_hy",
+            "cap": "Visual Effects & Animation World Atlas 표지. 이미지 제공 Joseph Bell."
           },
           {
             "t": "p",
-            "x": "생성 AI의 최대 쟁점은 출처다. 모델에 들어간 자산 하나하나를 원본까지 되짚을 수 있어야 하고, 브랜드 IP에 기반한 자산이 클라우드의 사설 모델로 새어 나가지 않아야 한다."
+            "x": "벨은 Industrial Light & Magic, The Mill, FuseFX를 거치며 20년간 VFX 프로듀서와 회사 대표로 일하다 2024년 첫 아틀라스를 냈다. 지금까지 모은 데이터는 110만 건, 독자는 100개국 1만 명이 넘는다."
           },
           {
             "t": "p",
-            "x": "\"완전 생성 숏을 클라이언트에게 납품하지는 않는다. 아직 해상도와 색에 한계가 있다\"고 르는 말했다. ZGX Nano 덕에 모든 걸 로컬, 온프레미스로 유지하는데, 푸티지를 클라우드 LLM에 올리는 업체를 꺼리는 클라이언트에게는 이게 큰 보안 요소다."
+            "x": "\"시각효과는 20년 만에 소수의 회사에서 수십억 달러짜리 글로벌 산업으로 컸다\"고 벨은 말했다. \"그런데도 여전히 제대로 이해받지 못하는 사업이다. 수천 달러짜리 시장조사 보고서는 전 세계 종사자를 100만 명으로 적어놓고, 전문가 연구는 주요 시장 인력을 250% 부풀린다. 이 엉터리 숫자가 이름 있는 언론과 업계 의사결정자에게 그대로 옮겨 간다. 아틀라스는 현장 경험으로 걸러낸 데이터로 이걸 바로잡으려고 만들었다.\""
           },
           {
             "t": "p",
-            "x": "오픈소스 모델을 쓰되 직접 찍은 푸티지로 파인튜닝해 자산의 출처와 소유권을 끝까지 추적한다. 모델이 푸티지의 디테일을 어떻게 기억하는지 잠재 기억을 계속 손보면, 자동차 캠페인처럼 정교한 디테일이 숏 내내 이어져야 하는 작업에서 일관성이 크게 올라간다."
+            "x": "로스앤젤레스는 12개월간 1.5% 줄어 전년 1.8%보다 낙폭이 작았고, VFX와 애니메이션을 합치면 여전히 최대 허브다. 밴쿠버는 11.3% 반등, 몬트리올은 2022~2025년 인력이 절반 넘게 빠진 뒤 제자리, 토론토는 3.3% 밀렸다. 세계 최대 VFX 허브 자리는 4% 성장한 뭄바이가 가져갔고 첸나이와 하이데라바드가 각각 10.8%, 7.8%로 가장 빨리 큰다. 아일랜드는 13.8% 늘었다."
           },
           {
             "t": "p",
-            "x": "HP ZGX Nano G1n은 AI 워크플로만 보고 만든 소형 AI 스테이션이다. 르는 ZGX 툴킷으로 장비를 찾아 연결한 뒤 곧바로 ComfyUI 작업을 밀어 넣었다. 이후 뒷면 200Gbps ConnectX-7 포트로 두 번째 ZGX Nano를 붙여 메모리를 두 배로 늘렸다. 더 높은 해상도의 모델과 더 긴 4K 클립을 올리게 됐다. 처리량은 거의 바로 두세 배로 뛰었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.fxguide.com/wp-content/uploads/2026/07/iohp-image3-39-830x431.jpg",
-            "cap": "최근 광고 캠페인 스틸. CG에 AI 애니메이션과 렌더링을 섞었고, 같은 플레이트에 서로 다른 애니메이션 세 개를 얹었다"
+            "x": "대형 스튜디오도 도마에 올랐다. \"2025년 2월 Technicolor와 MPC가 무너진 뒤로 업계가 안정되기 전에 글로벌 규모 VFX 스튜디오가 하나 더 쓰러진다는 말이 돌았다\"고 벨은 말했다. \"지금 가장 큰 곳은 DNEG, Industrial Light & Magic, Framestore 셋이고, 이 셋이 전 세계 인력의 12.3%를 고용한다. 2025년 11%에서 올랐다. 진짜 위협은 일감 부족이 아니라 늘 빡빡한 사업 환경이다. Technicolor를 무너뜨린 것도 수요 부족이 아니라 감당 못 할 부채였다.\""
           },
           {
             "t": "p",
-            "x": "AI는 뒷단을 자동화해 아티스트의 용량을 키운다. 통제권은 여전히 사람 손에 있다. 전통 CG에는 Foundry Nuke, Adobe After Effects, SideFX Houdini를 쓴다. 사내 도구 중에는 숏 안에서 바뀌는 조명에 반응하는 모듈도 있어, 프레임마다 손으로 맞추지 않아도 조명이 알아서 맞는다."
+            "x": "2023년 드림웍스 애니메이션 공동 창업자 제프리 카젠버그는 세계적 수준의 애니메이션 영화에 필요한 아티스트가 2026년이면 500명에서 50명 아래로 준다고 했다. \"그런 발언 탓에 VFX·애니메이션 업계 고용이 이미 AI로 잘려나갔다는 인식이 퍼졌다\"고 벨은 말했다. \"데이터에는 그런 흔적이 없다. AI 전담 직군은 우리 데이터셋에서 가장 작은 축이다. 2026년 전통 VFX·애니메이션 스튜디오 직무의 0.1%다. 늘고는 있다. 지난 12개월 68% 증가했다.\""
           },
           {
             "t": "p",
-            "x": "버추얼 프로덕션 볼륨 촬영도 달라졌다. 예전에는 트래킹 데이터를 손으로 뽑아 3D 환경에 되돌렸고 며칠에서 몇 주가 걸렸다. 지금은 생성 AI가 푸티지에서 트래킹을 직접 계산해 LED 월의 3D 환경을 읽고 세트 익스텐션을 얹는다."
+            "x": "\"AI가 전통 VFX·애니메이션 스튜디오에서 의미 있는 규모로 일자리를 대체하지도, 새로 만들어내지도 않았다. 영향은 더 미묘하다. 아티스트들이 지금 맡은 자리에서 AI 도구를 받아들인다\"고 그는 덧붙였다."
           },
           {
             "t": "p",
-            "x": "처음에는 렌더링에 집중했지만 이제는 멀티 에이전트 LLM 운용이 확장의 축이다. 사내 렌더팜을 구축하는 중이다. ZGX Nano 클러스터링으로 그 렌더팜을 관리할 계획이다."
+            "x": "로토·페인트 직무는 12개월간 8.7% 늘었다. 보고서는 AI가 아직 그 일을 넘겨받지 못한다는 신호로 읽는다. 환경·DMP는 9.3%, FX·시뮬레이션 6.1%, 크리처 TD·CFX 5.2%, 사업개발 12% 늘었고 매치무브·트래킹은 1.3% 줄었다. 원격근무는 8.7%에서 10%로 올랐다."
+          },
+          {
+            "t": "p",
+            "x": "벨은 지금 자기 회사 HDRI Intelligence로 이 업계 데이터를 분석한다."
           }
         ]
       }
     },
     {
-      "id": "movies-sp-hydra",
+      "id": "movies-editshare-flow-ai",
       "eyebrow": "AI NEWS",
-      "headline": "구형과 신형 패널의 색차를 지우자\n볼륨 전체를 쓸 수 있게 됐다",
-      "body": "LED 315장을 Hydra로 재보정하자 하루 촬영량이 두 배로 늘었다.",
-      "mini_headline": "볼륨 전체를 쓰게 됐다",
+      "headline": "EditShare가 AI 전사를\n스토리지 노드 안에 심는다",
+      "body": "EFS 노드에 GPU 기반 Flow AI가 얹혀 13개 언어를 온프렘에서 전사한다.",
+      "mini_headline": "스토리지가 푸티지를 찾는다",
       "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/sp-studios-uses-brompton-hydra-to-transform-virtual-production/",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/editshare-to-update-efs-flow-ai-and-mediasilo-at-ibc/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -148,124 +121,165 @@
         "blocks": [
           {
             "t": "p",
-            "x": "SP Studios가 Brompton Technology의 정밀 측정 시스템 Hydra로 LED 볼륨의 일관성과 성능, 하루 촬영 용량을 크게 끌어올렸다."
+            "x": "협업형 미디어 스토리지·워크플로 업체 EditShare가 IBC 2026에서 EFS, Flow AI, MediaSilo, EditShare One에 걸친 새 기능을 선보인다."
           },
           {
             "t": "p",
-            "x": "온타리오주 미시소가의 SP Studios는 캐나다에서 가장 해상도가 높은 LED 버추얼 프로덕션 스테이지를 갖춘 종합 제작 시설이다. LED 월은 폭 약 17.7m, 높이 4.6m에 픽셀 피치 1.9mm다. 사내 디자이너와 아티스트가 가상 환경을 직접 만든다. 애플과 포드, 현대, 웬디스 등이 고객이다."
+            "x": "중심은 EFS 310과 EFS 410용 올인원 Ultimate 구성이다. Flow 미디어 관리와 GPU 기반 Flow AI 처리를 노드 안에 넣었다. 여기에 다국어 전사 확대와 Flow AI·EditShare One 개선, MediaSilo의 다음 모습을 보여주는 미리보기가 붙는다."
           },
           {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/bromptonredrock001.jpg",
-            "cap": "SP Studios가 Brompton Hydra로 버추얼 프로덕션을 바꿨다. 이미지 출처: ProVideo Coalition"
+            "src": "https://postperspective.com/wp-content/uploads/2026/08/Corporate-for-IBC2026-Pug-with-callouts-1.png",
+            "cap": "IBC 2026에서 공개하는 EditShare 제품군 구성도."
           },
           {
             "t": "p",
-            "x": "원래 이 벽은 J자로 세워졌고, 곡면 구간을 늘리려고 나중에 패널을 더 사들였다. 먼저 들인 패널이 훨씬 오래 돌아간 탓에 신구 패널 사이에 색과 휘도 차이가 벌어졌다. 화면을 균일하게 맞추려면 카메라와 이미지를 그때그때 따로 손봐야 했다."
+            "x": "\"제작팀이 다뤄야 할 스토리지 플랫폼과 거점, 협업 도구가 그 어느 때보다 많아졌다\"고 EditShare CEO 브래드 터너는 말했다. \"우리는 고객을 닫힌 생태계에 가두지 않으면서 그 워크플로를 서로 가깝게 붙이는 데 집중한다. IBC에서 내놓는 것들은 고성능 스토리지와 똑똑한 미디어 탐색, 안전한 협업을 잇는다. 팀이 콘텐츠를 더 빨리 찾고 손이 덜 가는 채로 프로젝트를 밀고 나가게 돕는다.\""
           },
           {
             "t": "p",
-            "x": "볼륨을 좀 더 일반적인 C자로 다시 세우기로 하면서, 그 재설계가 Red Rock OPS에게 LED 인벤토리 전체를 재보정할 기회를 열어 줬다. 사흘 동안 생산 배치가 서로 다른 Absen PL1.9 타일 315장과 예비 모듈을 Brompton Hydra로 측정하고 다시 보정했다. 패널마다 Dynamic Calibration 데이터가 만들어졌다. 오래된 인벤토리와 새 인벤토리가 한층 가깝게 맞물렸다."
+            "x": "공유 스토리지와 미디어 관리, AI 처리를 한 상자에 담은 덕에 전용 GPU 시스템까지는 필요 없는 팀도 AI 미디어 탐색에 손쉽게 닿는다."
           },
           {
             "t": "p",
-            "x": "\"Hydra로 재보정하기 전에는 신형과 구형 패널의 색이 달랐다. 패널 나이가 달랐으니까\"라고 SP Studios의 총괄 프로듀서 겸 최고운영책임자 벤저민 발리케트(Benjamin Valiquette)는 말한다. \"이미지가 하나로 보이게 하려고 카메라에서 손을 봐야 했다.\" 지금은 벽 전체를 믿고 쓴다."
+            "x": "Flow AI는 오디오와 영상을 분석해 검색 가능한 구조화 메타데이터를 만든다. 대사와 트랜스크립트를 뒤지고 장면과 얼굴을 식별하며, 로고를 잡아내고 화면 속 글자를 읽는다."
           },
           {
             "t": "p",
-            "x": "Hydra는 LED 패널만 보고 설계한 올인원 측정 시스템이다. 패널 한 장당 수 초 만에 측정을 끝낸다. 이 데이터가 Dynamic Calibration을 떠받친다. 공장 보정값에 기대는 대신 패널 데이터를 실시간으로 처리해, 지연 없이 더 밝은 화이트와 높은 명암비, 정확한 색을 낸다."
+            "x": "처리는 온프렘에서 끝난다. 콘텐츠를 외부 AI 서비스로 보낼 일이 없으니 보안과 프라이버시, 데이터 거버넌스를 회사가 쥔다. 가격도 분당·사용량 과금 없는 무제한 정액이라 시스템이 버티는 만큼 분석해도 된다."
+          },
+          {
+            "t": "p",
+            "x": "전사 지원 언어는 13개로 늘어난다. 영어, 카탈루냐어, 크로아티아어, 체코어, 덴마크어, 네덜란드어, 프랑스어, 독일어, 그리스어, 이탈리아어, 포르투갈어, 스페인어, 터키어이며 히브리어와 아랍어가 곧 따라온다. 방송사와 제작사, 포스트 팀이 국제 콘텐츠까지 AI 검색으로 훑는다. 태그된 인물과 로고도 미디어 플레이어 타임라인에서 더 또렷하게 보인다."
+          },
+          {
+            "t": "p",
+            "x": "MediaSilo는 리뷰·승인 도구를 넘어 제작 미디어 허브로 넓어진다. 새 연결 스토리지 기능 Media Drives를 쓰면 권한 있는 사용자가 승인된 S3 호환 스토리지에 MediaSilo에서 곧장 접근한다. S3로 노출한 온프렘 EFS와 지원되는 서드파티 플랫폼이 여기 들어간다."
           },
           {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/bromptonredrock003.jpg",
-            "cap": "사흘에 걸쳐 Absen PL1.9 타일 315장을 측정했다. 이미지 출처: ProVideo Coalition"
+            "src": "https://postperspective.com/wp-content/uploads/2026/08/Media-Drive-with-Thumbnails-1.png",
+            "cap": "MediaSilo의 새 연결 스토리지 기능 Media Drives 화면."
           },
           {
             "t": "p",
-            "x": "\"LED 패널은 가동 시간이 쌓이면 출력이 서서히 떨어지고, 그러면 휘도 차이가 생긴다\"고 Red Rock OPS의 대표이자 리드 컬러 엔지니어 에인절 반치스(Angel Banchs)는 말한다. Hydra는 쓰면서 벌어진 편차를 걷어 내고, 색이 크게 어긋나 골칫거리였던 신형 패널까지 평탄하게 맞춰 줬다. 측정값은 Brompton HDR, PureTone 같은 Tessera 기능의 토대이기도 하다."
+            "x": "폴더를 훑고 파일명으로 마운트된 미디어를 찾아 저장된 자리에서 바로 미리 본다. 필요한 파일만 골라 복사하면 되니 무엇이 필요한지 알기도 전에 전부 옮기는 일이 사라진다. 옮긴 뒤에는 MediaSilo AI로 트랜스크립트와 화면 텍스트, 인물, 로고, 장면을 검색하고, 같은 작업 공간이 타임코드 피드백과 버전 관리, 데일리스, 승인 추적까지 받는다."
           },
           {
             "t": "p",
-            "x": "보정 뒤로 신구 패널 사이 문제는 사라졌다. J자 벽의 평평한 구간에 촬영을 몰아넣던 방식에서 벗어나 이제는 벽 전체를 쓴다. 볼륨 곳곳에 세트를 미리 깔고 카메라만 옮겨 찍는다. 발리케트는 이렇게 하루 촬영량이 사실상 두 배가 됐고, 후처리가 줄면서 클라이언트도 더 만족한다고 말한다."
+            "x": "외부 협업자는 제작 네트워크에 들어오거나 VPN을 쓰지 않고 브라우저로 콘텐츠를 본다. 포렌식·시각 워터마크와 DRM, 만료 설정, 권한, 다운로드 제한, 다중 인증이 미완성본과 미공개 소재를 지킨다."
           },
           {
             "t": "p",
-            "x": "Hydra가 들고 다닐 만한 장비라 작업 전체를 현장에서 마쳤다. 패널을 케이스에 담아 트럭으로 실어 보냈다면 2~3주, 어쩌면 한 달을 날렸을 것이라고 반치스는 말한다. 덕분에 SP Studios 기술팀도 옆에서 측정을 지켜봤다."
+            "x": "EditShare One은 EFS와 Flow에 걸친 콘텐츠 접근·관리를 더 빠르게 바꾼다. 미디어 스페이스나 폴더 전체를 여기서 바로 아카이브하고 복원한다. 아카이브 워크플로는 Flow가 이미 지원하는 서드파티 스토리지에 더해 Telestream Diva Archive, Spectra Logic Rio MediaEngine 연동도 받는다."
           }
         ]
       }
     },
     {
-      "id": "movies-apple-headsup",
+      "id": "movies-wildbrain-personality-ai",
       "eyebrow": "AI NEWS",
-      "headline": "애플이 1만 명의 얼굴을 스캔했다\n표정을 옮겨 붙이는 Heads Up",
-      "body": "애플이 한 사람의 표정을 다른 얼굴에 그대로 옮기는 Heads Up 백서를 냈다.",
-      "mini_headline": "얼굴 표정을 옮겨 붙인다",
+      "headline": "WildBrain, 실시간 대화 AI\n캐릭터 회사를 인수했다",
+      "body": "Personality AI를 현금 1,100만 달러와 자사주 100만 주에 샀다.",
+      "mini_headline": "말 거는 페파 피그",
       "tool": "Movies",
-      "source": "Curious Refuge (YouTube)",
-      "url": "https://www.youtube.com/watch?v=gnp86XUSzgg",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/business/wildbrain-acquires-personality-ai-265896.html",
       "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "gnp86XUSzgg"
-          },
-          {
-            "t": "p",
-            "x": "Curious Refuge의 주간 AI 영화 뉴스 'Apple Can Now Clone You and it's CRAZY Realistic'. 2026년 8월 21일 공개, 약 33분 분량이다. Seedance 2.5의 1080p 소식과 Runway·Artlist·Dreamina로 문을 열고, 미국영화협회(MPA)와 바이트댄스가 IP 보호를 두고 맺은 양해각서, 애플의 얼굴·감정 클로닝 연구 'Heads Up', 오픈소스 음성 클로닝 Index TTS 2.5, Move AI의 모션 캡처 'M3', Lottielab, CADxstudio, 이번 주의 AI 단편으로 이어진다."
-          },
-          {
-            "t": "p",
-            "x": "영상의 중심은 애플 연구팀이 내놓은 새 백서다. Heads Up이라는 이름의 이 도구는 아직 애플 내부용이고 외부에 공개된 제품이 아니다. 연구팀은 피험자 1만 명을 모아 얼굴을 고해상도로 찍었다. 그 사진들로 3D 가우시안 스플랫, 그러니까 고해상도 3D 스캔을 만들어 카메라를 자유롭게 돌려 볼 수 있게 했다. 시작은 거기까지다."
-          },
-          {
-            "t": "p",
-            "x": "진짜는 그다음이다. 1만 명의 이미지를 섞어 간단한 프롬프트만으로 새 얼굴을 합성해 낸다. 그리고 실존 인물이든 합성된 얼굴이든 그 3D 얼굴 위에 감정을 투사한다. 영상에서는 한 남성의 과장된 표정을 그대로 떼어 내 아래쪽 여성의 무표정 스캔에 얹는다. 반대 방향도 된다. 무표정 스캔 하나에 전혀 다른 사람의 표정을 입힌다. 왼쪽 화면에서 실제 배우가 연기하면 오른쪽에서 다섯 사람이 그 연기를 똑같이 따라 한다."
-          },
-          {
-            "t": "p",
-            "x": "여기서 끝나지 않는다. 애플은 캐릭터 표정을 세밀하게 조절하는 UI도 함께 만들었다. 사람이 슬라이더를 직접 잡고 감정을 밀고 당긴다. 이런 도구 자체는 전에도 있었지만, 이 정도의 디테일과 통제력은 지금 나와 있는 것 중 최고로 보인다는 게 Curious Refuge의 평가다."
-          },
-          {
-            "t": "p",
-            "x": "실무에서 슬라이더를 이렇게까지 만질 일은 많지 않다. 다만 포토샵 안이라면 얘기가 다르다. 모델과 찍은 광고에서 표정을 아주 조금만 손보고 싶을 때, 혹은 영화 포스터에 현장에서 잡히지 않은 감정을 넣어야 할 때, 이런 기술이 전문 도구 안에 들어앉는 그림이 그려진다. 이번 피험자들은 애플 본사로 불려 와 스캔을 받았지만, 아이폰에 달린 센서를 생각하면 사용자 쪽으로 내려오는 일도 머지않아 보인다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-glass-matte",
-      "eyebrow": "AI NEWS",
-      "headline": "유리에 그린 매트 페인팅으로\n카메라 안에서 끝낸 한 컷",
-      "body": "Camp Miasma 미술감독이 유리에 그린 매트 페인팅 한 컷을 직접 뜯어본다.",
-      "mini_headline": "유리에 그린 매트 컷",
-      "tool": "Movies",
-      "source": "befores & afters",
-      "url": "https://beforesandafters.com/2026/08/24/how-the-camp-miasma-team-used-a-glass-matte-painting-shot-in-their-film/",
-      "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "'Teenage Sex and Death at Camp Miasma'의 프로덕션 디자이너 브랜든 토너코널리(Brandon Tonner-Connolly)가 인스타그램 게시물에서 유리 매트 페인팅 숏을 재미있게 뜯어 놓았다. 2026년 8월 24일, 이언 페일스(Ian Failes) 기사."
+            "x": "WildBrain이 어린이용 인터랙티브 캐릭터 경험을 만드는 생성형 AI 회사 Personality AI 인수를 마쳤다. 현금 약 1,100만 달러에 WildBrain 주식 100만 주를 얹었고, 1년 뒤 200만 달러를 더 준다. 2027년부터 2029년 사이 매출 목표를 채우면 최대 5,600만 달러가 추가로 간다."
+          },
+          {
+            "t": "p",
+            "x": "2025년에 세워진 Personality AI는 엔터테인먼트 지식재산용 대화형 AI 모델을 만든다. 대표작은 Hasbro와 함께 만든 Amazon Kids+ 앱 Hey Peppa Pig다. 아이가 게임과 활동을 하며 페파와 말을 주고받는다."
           },
           {
             "t": "img",
-            "src": "https://beforesandafters.com/wp-content/uploads/2026/08/matte.jpg",
-            "cap": "'Teenage Sex and Death at Camp Miasma'의 유리 매트 페인팅 숏. 이미지 출처: befores & afters"
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hey-Peppa-Pig.jpg",
+            "cap": "Hey Peppa Pig 홍보 이미지."
           },
           {
             "t": "p",
-            "x": "토너코널리의 글은 이렇게 시작한다. Camp Miasma가 오늘 정식 개봉하는 김에 그 유리 매트 숏을 좀 더 가까이 들여다보고 싶었다고. 크리스가 걸어 들어갈 포털을 만들자는 아이디어에서 출발했는데, 결국 아무도 해 본 적 없는 무언가를 여러 재능 있는 사람들이 함께 만드는 자리가 됐다."
+            "x": "WildBrain은 이 기술을 기존 제작과 프랜차이즈 관리, 라이선싱 사업에 붙일 생각이다. 자사 보유 지식재산과 라이선스 브랜드를 축으로 한 인터랙티브 경험을 만든다."
           },
           {
             "t": "p",
-            "x": "참여진은 이렇다. 연출 @janedoesnotknow, 촬영 @eric_k_yue, 프로덕션 디자인 BTC & MH, 미술감독 @jumpintomyfantasywagon, 매트 페인터 Erkin Aycan, 세닉 차지 Sean Lavoie, VFX @f_e_n_n_e_r · @niche.vfx, B 카메라 오퍼레이터 @rasmussteinfoss, 총괄 프로듀서 @caddypantida, 프로듀서 Jeremy Kleiner · Dede Gardner. 여기에 이름을 다 적지 못한 여러 장인과 아티스트가 함께했다."
+            "x": "발표에서 회사가 힘줘 말한 건 아동 안전이다. 제품은 FTC가 승인한 PRIVO COPPA Safe Harbor Program 인증을 유지하고, 모니터링되는 대화와 이용 제한, 연령에 맞춘 콘텐츠 필터를 갖췄다. 아이의 음성 데이터나 개인 식별 정보는 남기지 않는다고 WildBrain은 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "WildBrain 사장 겸 CEO 조시 셰르바는 \"Personality AI 덕분에 팬과 브랜드가 훨씬 이어진 채로 만나고, 파트너에게 엔드투엔드 프랜차이즈 솔루션을 내놓을 힘도 커진다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Personality AI 창업자 존 고샤는 WildBrain에서 Personality AI 부문 수석부사장을 맡는다. 그는 \"안전과 신뢰, 혁신의 높은 기준을 지키면서 우리 역량을 세계의 더 많은 브랜드와 플랫폼, 관객에게 가져가겠다\"고 했다."
+          },
+          {
+            "t": "p",
+            "x": "이번 인수 앞에는 덜 성공한 AI 시도가 있었다. MeTV Toons에서 튼 The Super Mario Bros. Super Show! 복원 에피소드는 화면이 눈에 띄게 뭉개지고 들쭉날쭉했다."
+          },
+          {
+            "t": "p",
+            "x": "WildBrain이 남은 Peanuts 지분을 Sony에 넘긴 지 약 11개월 만의 투자다. 그 매각으로 회사 부채가 사라졌고 성장 투자에 5,000만~1억 달러를 쓸 여력이 생겼다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-mac-studio-m5",
+      "eyebrow": "AI NEWS",
+      "headline": "새 맥 스튜디오의 AI 자랑에서\n편집자에게 남는 것만 추렸다",
+      "body": "M5 Max는 Magic Mask를 M1 Max 대비 최대 5.3배 빠르게 돌린다.",
+      "mini_headline": "M5 맥 스튜디오의 실속",
+      "tool": "Movies",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/new-mac-studio-models",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "애플이 M5 Max와 M5 Ultra를 얹은 새 Mac Studio를 내놨다. 회사는 이를 \"AI를 향한 기념비적 한 걸음\"이라 부른다. 최근 애플 발표가 줄곧 그랬으니 새삼스러운 이야기는 아니다."
+          },
+          {
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/new-mac-studio-models.jpg?id=67674924&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+            "cap": "새 Mac Studio 모델. 이미지 제공 Apple."
+          },
+          {
+            "t": "p",
+            "x": "온디바이스 AI를 전면에 세운 것도 예상대로다. 다만 AI 문구 사이에서 이 Mac Studio가 평범한 영상 편집에 무엇을 해주는지도 건져볼 만하다."
+          },
+          {
+            "t": "p",
+            "x": "굵직한 숫자는 역시 AI 쪽이다. 애플은 AI 성능이 4.3배 빨라졌다고 한다. 그 옆에 스토리지 최대 2배, 그래픽 1.8배, CPU 1.3배라는 수치와 늘어난 메모리 대역폭이 붙는다. 편집자에게는 이쪽이 더 반가운 숫자다."
+          },
+          {
+            "t": "p",
+            "x": "M5 Max 모델은 18코어 CPU에 코어마다 뉴럴 가속기를 넣은 최대 40코어 GPU, 최대 128GB 통합 메모리를 갖췄다. M5 Ultra는 최대 36코어 CPU와 최대 80코어 GPU, 512GB 통합 메모리로 더 올라간다."
+          },
+          {
+            "t": "p",
+            "x": "\"Mac Studio는 온디바이스 AI와 세상에서 가장 까다로운 프로 워크플로를 위한 궁극의 데스크톱이다. 조용하고 작은 몸체로 책상 위에 놓이면서도 엄청난 성능과 폭넓은 프로 연결성으로 사랑받아 왔다. 오늘 우리는 그 한계를 더 밀어냈다.\" 애플 하드웨어 총괄 조니 스루지의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "영화·편집 쪽에서 눈에 띄는 건 Mac Studio에 처음 들어온 Wi-Fi 7과 Bluetooth 6다. Thunderbolt 5도 함께 붙는다."
+          },
+          {
+            "t": "p",
+            "x": "M5 Max는 LM Studio의 LLM 프롬프트 처리에서 M1 Max 대비 최대 10.7배, M4 Max 대비 3.9배 빠르다. 텍스트-투-이미지는 M1 Max 대비 7.4배, M4 Max 대비 3.5배. Blackmagic Design DaVinci Resolve Studio의 Magic Mask는 M1 Max 대비 5.3배, M4 Max 대비 3배다. 가격은 2,499달러부터."
+          },
+          {
+            "t": "p",
+            "x": "M5 Ultra는 Foundry Nuke의 CopyCat ML 학습에서 M1 Ultra 대비 최대 15.4배, M3 Ultra 대비 3.3배다. LM Studio 프롬프트 처리는 M1 Ultra 대비 9.8배, 텍스트-투-이미지는 8.2배, Maxon Redshift 장면 렌더링은 4.7배 빠르다. 가격은 5,499달러부터 시작한다."
           }
         ]
       }

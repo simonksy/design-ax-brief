@@ -1,100 +1,91 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "books",
+  "picked_by": "curator (user deferred)",
+  "pool_size": 9,
   "picks": [
     {
-      "title": "Google Play Books' AI 'Book Insights' has launched",
-      "url": "https://goodereader.com/blog/e-book-news/google-play-books-book-insights-has-launched",
-      "source": "Good e-Reader",
-      "published_iso": "2026-08-24T04:44:13+00:00",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/24004325/sweepstakes-header.png",
-      "excerpt": "Google Play Books' AI-driven Book Insights has launched for thousands of select English titles. Google did not say if or when the tool will expand to non-English books.",
+      "rank": 1,
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A live AI layer now sits on top of Play Books catalog pages, so publishers and indie authors have a new surface — and a new metadata dependency — to manage from today."
+      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-monday-august-24th-2026/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-08-24T00:00:00+00:00",
+      "og_image": "",
+      "excerpt": "This week's international roundup: German children's publisher Carlsen sues OpenAI with author Marc-Uwe Kling and illustrator Astrid Henn, saying ChatGPT generates Das NEINhorn-like stories, illustrations and even print-ready files with a fake ISBN and the publisher's logo; Brazil's Publitik launches an AI-agent book-market intelligence platform.",
+      "rationale": "Hardest news in the pool: a major German publisher and its star author sue OpenAI over ChatGPT emitting print-ready lookalike books complete with a fake ISBN and the house logo."
     },
     {
-      "title": "Spotify adds more AI-powered discovery tools for audiobooks",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101027-spotify-adds-more-ai-powered-discovery-tools-for-audiobooks.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-08-11T12:00:00-04:00",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130829-1.PNG",
-      "excerpt": "New features let listeners auto-generate audiobook playlists from a prompt, ask natural-language questions about a book's contents, and track titles in a series.",
+      "rank": 2,
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "Prompt-generated playlists and in-book Q&A move audiobook discovery off keywords, which changes how series metadata and descriptions should be written right now."
+      "url": "https://www.youtube.com/watch?v=I7hskWGurDU",
+      "source": "ALLi (Alliance of Independent Authors) — YouTube",
+      "published_iso": "2026-08-13T00:00:00+00:00",
+      "og_image": "https://i.ytimg.com/vi/I7hskWGurDU/maxresdefault.jpg",
+      "excerpt": "ALLi's Self-Publishing News for 13 August 2026 explains how the EU's new AI transparency rules — including watermarking and training-data disclosure — reach indie authors far outside Europe.",
+      "rationale": "Compliance news with extraterritorial teeth: watermarking and training-data disclosure obligations that indie authors outside the EU must plan for now."
     },
     {
-      "title": "Warhammer 40,000 audiobook includes AI-training warning read out by the narrator",
-      "url": "https://www.ign.com/articles/warhammer-40000-audiobook-includes-ai-training-warning-read-out-by-the-narrator",
-      "source": "IGN",
-      "published_iso": "2026-08-24T10:28:44+00:00",
-      "og_image": "https://assets-prd.ignimgs.com/2026/08/24/trazyn-1787566439248.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Games Workshop now has narrators read an anti-AI-training warning aloud at the top of Warhammer 40,000 audiobooks — a new front-matter convention for protecting publisher IP in audio.",
+      "rank": 3,
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "A spoken rights notice baked into the audio itself is a copyable production convention any audiobook publisher can adopt in the next session."
+      "url": "https://publishingperspectives.com/2026/08/why-rights-holder-transparency-is-becoming-non-negotiable/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-08-20T00:00:00+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/aperture-793x284.png",
+      "excerpt": "As publishers sign LLM-training licences, microdeals and multi-territory rights deals, royalty and reporting transparency for authors is becoming table stakes. The piece argues rights systems, not goodwill, will decide whether AI licensing money reaches creators.",
+      "rationale": "Shifts the AI-licensing debate from whether deals happen to whether the money reaches authors — royalty reporting infrastructure as the decisive variable."
     },
     {
-      "title": "Can AI replace your editor?",
-      "url": "https://selfpublishingadvice.org/podcast-can-ai-replace-your-editor/",
-      "source": "ALLi Self-Publishing Advice Center",
-      "published_iso": "2026-08-23T12:00:15+00:00",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_QA.jpg",
-      "excerpt": "Michael La Ronn and Sacha Black answer member questions on where AI editing actually helps and where it fails, plus IngramSpark's return and series cover consistency.",
+      "rank": 4,
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Draws the concrete line between the editing passes AI can carry and the ones it wrecks, plus series cover consistency — direct workbench guidance for authors and editors."
+      "url": "https://selfpublishingadvice.org/opinion-you-have-more-agency-than-you-think-creative-writing-and-publishing-in-the-age-of-ai/",
+      "source": "ALLi Self-Publishing Advice Center",
+      "published_iso": "2026-08-25T00:00:00+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/pictures.jpg",
+      "excerpt": "Indie author Nigel George argues writers hold more power over AI's trajectory than they think: set explicit boundaries on AI use, defend human copyright, and treat the model as a very sophisticated calculator rather than a collaborator.",
+      "rationale": "Freshest item in the pool and directly actionable — a concrete stance a writer can adopt tomorrow: draw the boundary, treat the model as a calculator, not a co-author."
     },
     {
-      "title": "Is it legal to train AI models on copyrighted books? It's complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "source": "TechCrunch",
-      "published_iso": "2026-08-23T15:00:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
-      "excerpt": "Most published authors have, without their knowledge or consent, contributed to the AI tools that threaten their livelihoods. A plain-language guide to where the law actually stands.",
+      "rank": 5,
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A plain-language map of where training-data law actually stands, which is what authors and agents need before signing or contesting an AI clause."
+      "url": "https://publishingperspectives.com/2026/08/what-technology-trends-should-publishers-explore-and-scale/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-08-20T00:00:00+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
+      "excerpt": "A look at which publishing technologies — AI-assisted production, metadata and discovery tooling among them — are worth piloting versus scaling across a house's workflow.",
+      "rationale": "The pilot-versus-scale distinction is the practical question inside publishing houses right now; useful roadmap framing rather than another AI-anxiety take."
     }
   ],
-  "dedup_notes": {
-    "history_checked": ["2026-08-22 (today)", "2026-08-21", "2026-08-20", "2026-08-19", "2026-08-15", "2026-08-14"],
-    "dropped_as_duplicates": [
+  "dedup": {
+    "against_days": 5,
+    "url_deduped_upstream": 8,
+    "content_dropped": [
       {
-        "url": "https://bookriot.com/claude-to-add-watermarks-and-more-ai-publishing-news/",
-        "reason": "Claude/Anthropic watermarking — already published 2026-08-14 as books-claude-watermark (Ars Technica)."
-      },
-      {
-        "url": "https://bookriot.com/welcome-to-the-uncanny-valley/",
-        "reason": "Same Anthropic watermark story, reworded; also same-source hub pair with the Book Riot watermark post."
-      },
-      {
-        "url": "https://janefriedman.com/how-claude-watermarking-works-some-accuse-anthropic-of-compliance-theatre/",
-        "reason": "Same watermark story/critique — already covered 2026-08-14 and again 2026-08-19 (books-claude-watermark-word-choice)."
-      },
-      {
-        "url": "https://selfpublishingadvice.org/podcast-self-publishing-partnership-stops-trading/",
-        "reason": "AI half is the same watermark story; remainder is a non-AI publisher collapse."
-      },
-      {
-        "url": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
-        "reason": "Same event as books-amazon-destructive-scanning, published 2026-08-19 (Literary Hub reporting the same 404 Media investigation)."
-      },
-      {
-        "url": "https://selfpublishingadvice.org/spotify-adds-ai-discovery-tools/",
-        "reason": "Same Spotify AI-discovery release as the Publishers Weekly pick — kept the original PW report."
+        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+        "reason": "Same event as published card books-amazon-destructive-scanning (Literary Hub, 2026-08-15 deck) — 404 Media's tracked rare-book shipment to the Las Vegas Amazon debind-and-scan facility, covered via a different outlet."
       },
       {
         "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
-        "reason": "Same Spotify feature set, roundup rehash — kept PW, and avoids a second Good e-Reader card."
+        "reason": "Same announcement as published card books-spotify-audiobook-ai (Publishers Weekly, today 2026-08-25) — identical three features: Prompted Playlists for audiobooks, conversational search, series tracking."
+      },
+      {
+        "url": "https://janefriedman.com/five-pulitzer-winners-disclosed-ai-use-this-year/",
+        "reason": "Same source and same core fact as published card books-friedman-ai-roundup (Jane Friedman, 2026-08-22 deck), whose headline already was the record five journalism-prize winners disclosing AI use."
+      },
+      {
+        "url": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
+        "reason": "Same story as published card books-claude-watermark-word-choice (Future Fiction Academy, 2026-08-15 deck) — Anthropic's watermarking swapping word choices and what that does to prose, covered via a different outlet."
       }
-    ],
-    "diversity": "5 distinct outlets (Good e-Reader, Publishers Weekly, IGN, ALLi, TechCrunch); max 1 card per outlet."
-  }
+    ]
+  },
+  "notes": "Pool of 9 minus 4 content duplicates leaves exactly 5 unique fresh stories, all of which are picked. The final-5 outlet guard could not be satisfied: after dedup the only surviving outlets are Publishing Perspectives (3) and ALLi (2), and every under-represented-outlet alternative (404 Media x2, Good e-Reader, Jane Friedman) is a hard content duplicate. Dedup is the hard rule, so the guard yields rather than the dedup backstop. Three distinct story types are kept (litigation, regulation, rights economics / craft stance / technology roadmap) so category spread within the section still holds."
 }

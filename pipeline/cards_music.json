@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "music",
   "cards": [
     {
-      "id": "music-minimax-3",
+      "id": "music-luminate-ai-label",
       "eyebrow": "AI NEWS",
-      "headline": "오픈웨이트 MiniMax Music 3,\n5분짜리 완곡을 통째로 만든다",
-      "body": "가사와 사운드 설명만 주면 최대 5분 길이의 완성곡이 32kHz 스테레오로 나온다.",
-      "mini_headline": "5분 완곡 오픈웨이트",
+      "headline": "차트가 기대는 데이터 원천 Luminate,\n올해 안에 AI 곡에 라벨을 붙인다",
+      "body": "Luminate가 올해 안에 AI로 만든 곡과 아티스트 프로필에 AI Generated 라벨을 붙인다.",
+      "mini_headline": "차트 데이터에 AI 라벨",
       "tool": "Music",
-      "source": "ComfyUI Blog",
-      "url": "https://blog.comfy.org/p/minimax-music-3-state-of-the-art",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/luminate-to-label-ai-music-later-this-year/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -18,106 +18,95 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://substackcdn.com/image/fetch/$s_!v-WJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4827eb79-f9c5-4f8d-b0aa-a449a4b440fb_1920x1080.png",
-            "cap": "MiniMax Music 3 — 가사와 음악 설명으로 최대 5분 길이의 곡을 만드는 오픈웨이트 모델"
+            "src": "https://www.billboard.com/wp-content/uploads/2025/07/luminate-logo-2025-billboard-1548.jpg?w=1024",
+            "cap": "엔터테인먼트 데이터 기업 Luminate (사진 제공: Luminate)"
           },
           {
             "t": "p",
-            "x": "오픈소스 진영에 또 한 번 큰 날이다. 최고 수준의 오픈웨이트 음악 생성 모델이 ComfyUI에 들어왔다. MiniMax가 내놓은 MiniMax Music 3다. 가사와 원하는 사운드 설명을 주면 최대 5분 길이의, 구조가 흐트러지지 않는 완성곡을 32kHz 스테레오로 돌려준다."
+            "x": "8월 25일 화요일, 엔터테인먼트 데이터 기업 Luminate가 AI 음악을 다루는 새 프레임워크를 내놨다. 올해 하반기부터 자사 플랫폼에서 AI 생성 콘텐츠에 라벨을 달기 시작하고, 이 표시는 고객사와 파트너사에게 그대로 노출된다."
           },
           {
             "t": "p",
-            "x": "이 모델은 루프나 짧은 클립이 아니라 곡 하나를 통째로 만드는 쪽에 맞춰 설계했다. 가사와 음악 설명을 조건으로 받아 주제와 리듬, 보컬의 정체성, 편곡의 전개를 트랙 전체에 걸쳐 붙들고 간다. 출력은 32kHz 16비트 스테레오 오디오다."
+            "x": "Apple Music과 Spotify가 2026년 말까지 각자의 AI 음악 라벨링을 붙이겠다고 밝힌 지 몇 주 만이다. Luminate는 자체 식별 기술에 주요 스트리밍 서비스, AI 음악 회사와의 협업을 얹어 어떤 곡에 라벨을 달지 가린다. 시스템이 걸러낸 곡이나 아티스트 프로필에는 “AI Generated”라는 표시가 붙고, 오탐이라면 아티스트와 레이블이 전용 검토 절차를 밟아 라벨을 다시 판단받는다."
           },
           {
             "t": "p",
-            "x": "구조는 언어 모델 둘에 연속 합성 단계를 붙인 하이브리드다. Qwen3-8B에서 출발한 8B Global LLM이 곡의 긴 호흡과 구조 전개를 맡고 0.6B Local LLM이 프레임 안쪽의 미세한 음향 디테일을 되살린다. 이산 토큰만으로 오디오를 디코딩하지 않고 두 LLM의 은닉 상태를 합쳐 2.4B Flow Matching 단계와 123M Flow-VAE 디코더로 넘긴다. 토큰이 담지 못하는 음향 정보를 실어 나르는 이 연속 표현이 보컬의 발음, 악기 질감, 시간적 연속성에서 차이를 만든다."
+            "x": "프레임워크에서 Luminate CEO Rob Jonas는 “이건 출발점이다. 어떤 조직도 혼자서는 이 문제를 감당하지 못한다”고 적으며 라벨링을 세 갈래로 나눠 설명했다."
           },
           {
             "t": "p",
-            "x": "곡 길이는 5분까지 기본으로 지원한다. 인트로와 벌스, 프리코러스, 코러스, 브리지, 간주, 아웃트로로 이어지는 구조를 유지하면서 멜로디와 리듬, 보컬의 정체성을 놓치지 않는다. 가사 입력에는 [Intro], [Verse], [Pre-Chorus], [Chorus], [Post-Chorus], [Bridge], [Instrumental], [Solo], [Outro] 같은 섹션 태그를 직접 적어 구성을 정한다."
+            "x": "자체 식별 시스템은 스트리밍 데이터와 메타데이터를 끊임없이 훑고, 오디오 식별 도구까지 붙여 CONNECT 안에서 AI 생성 음악을 추적한다. 스트리밍 데이터 쪽은 DSP들이 각자 AI 음악 식별 기능을 내놓는 대로 기존 파트너십으로 그 데이터를 받아들인다. 원천 귀속은 곡이나 아티스트가 DSP에 닿기 전 단계를 노린다. AI 음악 회사들과 이야기를 나누며 콘텐츠가 만들어지는 순간의 귀속 데이터를 직접 받아오려 한다."
           },
           {
             "t": "p",
-            "x": "평범한 설명 대신 Structured Caption을 쓰면 통제 폭이 더 넓어진다. 장르와 BPM, 조성과 음계, 감정 전개, 프로덕션 성격을 담는 Global Metadata, 성별과 음색·창법·화음·백보컬·이펙트를 담는 Vocal Details, 악기 구성과 섹션별 악기 변화·그루브·베이스·퍼커션·질감·공간감을 담는 Arrangement로 나뉜다. 보컬은 음색과 화음, 이펙트 단위까지 조절되고 은닉 상태 합성 경로 덕분에 긴 구간에서도 발음이 흐트러지지 않는다. 출력은 16비트 스테레오 WAV이며 Flow-VAE 디코더는 음악의 다이내믹 레인지와 스펙트럼 특성에 맞춰 다시 학습했다."
+            "x": "라벨 논의는 2025년 초까지 거슬러 올라간다. 지난해 1월 Deezer가 100% AI로 만든 트랙에 태그를 달았고, 올해 들어 여러 곳이 뒤를 따랐다. Spotify는 트랙 대신 “AI Personas”를 표시하고, Apple Music은 올해 하반기 자진 신고를 근거로 AI 라벨을 붙인다. 스트리밍 서비스에 곡을 공급하는 레코드 업계도 7월에 AI 라벨 조치를 지지한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "MiniMax는 짧은 음악 설명과 태그 붙은 가사를 Music 3.0용 상세 구조 캡션으로 바꿔주는 공식 스킬도 함께 공개했다. 명시한 음악적 제약은 그대로 두고 가사 텍스트는 가사 입력에 남긴 채, 글로벌 메타데이터와 보컬 디테일, 편곡 설명이 섹션별로 이어지는 캡션을 만들어 준다. 설치 명령은 npx skills add MiniMax-AI/MiniMax-Music3 --skill music-caption-rewriter."
+            "x": "다른 길을 택한 곳도 있다. AI 음악이 밀려드는 상황을 라벨로 다스리는 흐름이 굳어지는 와중에, Bandcamp와 iHeartRadio는 대부분 AI로 만든 음악을 아예 금지했다."
           },
           {
             "t": "p",
-            "x": "직접 돌려보려면 ComfyUI를 0.33.0으로 올리거나 Comfy Cloud로 가면 된다. 워크플로를 내려받거나 템플릿 라이브러리에서 찾고 워크플로 안내대로 모델 가중치를 받아 지정된 모델 폴더에 넣는다. 가사와 음악 설명을 채우고 실행하면 끝이다. 가중치는 허깅페이스 MiniMaxAI/MiniMax-Music3에 올라와 있다."
+            "x": "Jonas는 새 프레임워크를 두고 이렇게 말했다. “AI 생성 음악이 불어나는 속도를 업계의 식별·측정 능력이 따라잡지 못했다. 큰 흐름을 읽고 사기 위험을 가늠하고 제대로 된 판단을 내리려면 가시성이 높아져야 한다. Luminate는 늘 엔터테인먼트 업계의 진실 기준이었다. 다른 모든 카테고리에 적용하던 잣대 그대로 AI 생성 음악을 추적하는 일이 우리 사명의 핵심이다.”"
           }
         ]
       }
     },
     {
-      "id": "music-trama",
+      "id": "music-spectralayers-13",
       "eyebrow": "AI NEWS",
-      "headline": "무료 오프라인 스템 분리기 Trama,\n업로드 없이 네 갈래로 쪼갠다",
-      "body": "믹스 파일을 넣으면 보컬과 드럼, 베이스, 나머지 넷으로 인터넷 없이 갈라준다.",
-      "mini_headline": "무료 오프라인 스템 분리",
+      "headline": "스펙트럴 편집기 SpectraLayers Pro 13,\n이번엔 복원과 대사 손질을 파고든다",
+      "body": "v12가 음악 언믹싱에 기울었다면 13은 Reconstruct와 Ambience Heal로 복원에 무게를 실었다.",
+      "mini_headline": "복원에 무게 실은 SLP13",
       "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/08/22/trama-ai-stem-separator/",
+      "source": "Sound On Sound",
+      "url": "https://www.soundonsound.com/reviews/steinberg-spectralayers-pro-13",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Ohlhorst Digital이 만든 Trama는 윈도우와 macOS, 리눅스에서 도는 무료 단독 실행 AI 스템 분리기다."
+            "t": "img",
+            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/S/SteinbergSpectraLayersPro13_01-u5pC3OHIYb38WuLPSQoGGTlTcDNeEnVd.jpg",
+            "cap": "Steinberg SpectraLayers Pro 13 — 대사 보정과 오디오 복원 쪽 모듈이 늘었다"
           },
           {
             "t": "p",
-            "x": "얼마 전 소개한 StemDeck은 트랙을 최대 여섯 갈래까지 나누는 무료 오픈소스 로컬 분리기였다. Trama도 오프라인이라는 접근은 비슷하지만 네 개 스템에 집중하고 필요한 걸 데스크톱 앱 하나에 담았다."
+            "x": "새 모듈과 손본 모듈이 함께 들어오면서, SpectraLayers Pro 13은 대사 보정이나 오디오 복원, 사운드 디자인 같은 후반 작업을 하는 사람에게 특히 눈길이 간다. Steinberg의 스펙트럴 편집기가 처리 옵션을 한층 더 열어놨다."
           },
           {
             "t": "p",
-            "x": "믹스된 트랙을 끌어다 놓으면 보컬, 드럼, 베이스, 나머지로 갈라진다. 네 갈래 중 원하는 조합만 골라 내보낼 수 있고, 고르지 않은 부분은 파일 하나로 합쳐진다. 쓸 일 없는 스템까지 내보낼 이유가 없다."
+            "x": "스펙트럴 편집은 지난 5년 사이 꽤 멀리 왔다. 스템 분리와 언믹싱 같은 기능 자체도, 까다로운 오디오 처리 도구를 사용자가 다루는 방식도 크게 나아졌다. 그 밑을 받친 건 머신러닝과 AI의 빠른 진전이다."
           },
           {
             "t": "p",
-            "x": "인터페이스는 군더더기가 없고 설치도 간단하다. 계정도, 클라우드 업로드도, 모델 별도 다운로드도 없다. 윈도우에서는 압축을 풀고 바로 실행하고, macOS는 디스크 이미지로 받으며, 리눅스는 바이너리를 풀어 실행 권한만 주면 된다."
+            "x": "Steinberg가 SpectraLayers Pro를 해마다 갱신하는 이유이기도 하다. SOS 2025년 10월호에서 다룬 v12에 이어 곧바로 SpectraLayers Pro 13이 나왔다. 새 처리 모듈도 여럿이지만 작업 흐름과 UI를 다듬은 대목도 적지 않다."
           },
           {
             "t": "p",
-            "x": "안에서 도는 건 Meta가 미세조정한 Hybrid Transformer Demucs 모델 htdemucs_ft다. 분리 모델 네 개가 앱에 함께 들어 있고 실행할 때 메모리로 올라가서, 전 과정이 인터넷 연결 없이 로컬에서 끝난다."
+            "x": "v12가 음악 쪽 언믹싱에 무게를 뒀다면, v13은 목소리와 대사 처리, 오디오 복원 같은 후반 작업으로 초점을 옮겼다. 새로 들어온 Reconstruct 모듈은 파일 안의 스펙트럴 데이터를 다시 합성한다. 자리를 물려준 Heal은 배경 잡음만 되살렸지만, Reconstruct는 복원할 영역 주변 재료를 보고 트랜지언트와 토널 성분까지 다시 세운다. 스팟 노이즈를 지운 자리처럼 작은 구간이라면 신호와 잡음을 함께 채워 넣는 솜씨가 꽤 인상적이다."
           },
           {
             "t": "p",
-            "x": "품질은 Normal, High, Ultra 중에 고른다. 설정을 올리면 분리 패스를 더 돌려 결과를 평균 내기 때문에 스템은 깨끗해지지만 그만큼 오래 걸린다. Ohlhorst Digital은 High를 무난한 기본값으로 권한다."
+            "x": "새 Ambience Heal 모듈도 만만치 않다. 대사를 배경에서 떼어내는 언믹싱을 돌리고 나면 배경 레이어에 구멍이 남는데, 이때 쓸모가 크다. Ambience Heal은 추출한 음성이 담긴 전경 레이어의 정보를 읽어 배경 레이어의 어느 지점을 손봐야 하는지 짚어준다. 보컬을 정리하거나 교체한 뒤 고르게 메워진 배경 위에 다시 얹으면 결과가 한결 매끄럽다."
           },
           {
             "t": "p",
-            "x": "3분짜리 곡을 High로 돌릴 때 개발자가 잡은 시간은 호환 NVIDIA GPU에서 1~2분, CPU에서는 10~15분이다. 윈도우와 리눅스는 CUDA가 있으면 알아서 쓰지만 AMD GPU 가속은 아직 없다. 애플 실리콘에서는 MPS 백엔드가 꺼져 있어 CPU로 돈다."
-          },
-          {
-            "t": "p",
-            "x": "여러 곡을 큐에 걸어 한꺼번에 돌릴 수도 있다. 파일별로, 또 큐 전체로 진행률과 예상 완료 시각이 보인다. 스템 선택과 품질 프리셋, 출력 폴더는 다음에도 그대로 기억한다."
-          },
-          {
-            "t": "p",
-            "x": "입력은 WAV와 AIFF, MP3, FLAC를 받는다. 스템은 모두 44.1kHz 32비트 부동소수점 WAV로 나가고 다른 샘플레이트는 분리 과정에서 리샘플링된다. BWF 데이터와 큐 포인트, 라벨, 플레이리스트, 악기 정보, ID3 태그, 리퍼 마커 같은 WAV 메타데이터도 살린다."
-          },
-          {
-            "t": "p",
-            "x": "Trama v1.0.7은 64비트 윈도우 10/11과 x86_64 리눅스를 지원한다. macOS는 12 이상에 애플 실리콘만 되고 인텔 맥은 빠졌다. 모델과 라이브러리를 통째로 넣은 탓에 내려받을 용량은 윈도우 약 3.1GB, macOS 500MB, 리눅스 3.9GB로 큰 편이다."
+            "x": "뒤이은 Speak To… 섹션부터는 Sound On Sound 구독자에게만 열려 있다."
           }
         ]
       }
     },
     {
-      "id": "music-aria-charts",
+      "id": "music-jazz-fingerprint",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 만든 곡은 호주 ARIA 차트에\n8월 28일부터 오르지 못한다",
-      "body": "AI가 전부 또는 대부분 만든 곡은 28일 차트부터 호주 공식 순위에서 빠진다.",
-      "mini_headline": "AI 음악 차트 제외",
+      "headline": "녹음만 듣고 재즈 피아니스트를\n94.4%까지 가려낸 AI 모델",
+      "body": "피아니스트 20명의 녹음 84시간을 학습한 모델이 연주자를 94.4% 정확도로 가려냈다.",
+      "mini_headline": "재즈 지문을 읽는 AI",
       "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/08/24/ai-generated-music-banned-from-charting-aria/",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -125,49 +114,53 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ai-generated-music-to-be-banned-from-aria-charts-in-australia-1024x576.png",
-            "cap": "호주 ARIA 차트에서 AI 생성 음악이 제외된다. 사진: Johnny Bhalla"
+            "src": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi.jpg",
+            "cap": "1984년 3월 런던에서 촬영한 TV 공연의 Oscar Peterson (사진: David Redfern/Redferns/Getty Images)"
           },
           {
             "t": "p",
-            "x": "호주 음반산업협회(ARIA)가 새로 정한 규정에 따라, 전부 또는 대부분 인공지능이 만든 곡은 이번 주 금요일부터 호주 공식 차트에서 빠진다. AI의 도움을 받은 녹음이라도 “substantially human-made”, 그러니까 사람이 상당 부분 만든 곡이면 차트에 오를 수 있다."
+            "x": "즉흥 연주가 중심이고 구조도 느슨한 재즈라면 AI가 분석하기 가장 어려운 장르일 것 같지 않나. Nature Machine Intelligence에 실린 새 논문은 그렇지 않다고 말한다."
           },
           {
             "t": "p",
-            "x": "호주에서 가장 많이 들은 음악의 차트를 운영하는 ARIA는 차트 실무 규약을 세계 음반업계가 세운 원칙에 맞춰 고쳤다. 새 규약은 생성형 AI를 쓴 음악을 원칙적으로 배제하되, “substantially human-made”이면서 “raises no stream or chart manipulation concerns”인 경우만 예외로 둔다."
+            "x": "케임브리지 대학에서 Huw Cheston이 이끄는 팀이 진행한 연구다. 대규모 언어 모델이 재즈 피아니스트를 알아맞히고, 그 연주자를 남들과 다르게 만든 ‘음악적 지문’까지 드러냈다."
           },
           {
             "t": "p",
-            "x": "자격이 없는 음원은 ARIA가 차트에서 내리거나 순위를 바꾸고 이미 준 차트 어워드도 회수할 수 있다. 아티스트나 대리인이 잘못된 판단이라고 보면 이의를 제기하는 길은 열어뒀다. 적용 시점은 8월 28일 금요일에 발표되는 차트부터다."
+            "x": "Cheston의 팀은 피아니스트 20명이 남긴 1,629개 연주, 84시간 분량의 녹음을 기계에 먹였다. Bill Evans, Oscar Peterson, Thelonious Monk, Chick Corea, Keith Jarrett, McCoy Tyner, Ahmad Jamal이 대상에 들어갔다. 녹음은 MIDI로 바꿔 피아노 롤에 올렸다. 어떤 음을 언제 어느 높이로 쳤는지가 그대로 보인다."
+          },
+          {
+            "t": "video",
+            "yt": "NSudlBFrmzI"
           },
           {
             "t": "p",
-            "x": "애너벨 허드(Annabelle Herd) ARIA 최고경영자는 아티스트들이 이미 AI 보조 도구를 쓰고 있더라도, 아티스트의 녹음을 학습한 AI 서비스가 통째로 뽑아낸 음악은 전혀 다른 문제라고 선을 그었다. 허드는 “이로써 호주에서 음악을 내는 모두가 따를 분명한 규칙이 생겼다”고 말했다."
+            "x": "성적은 꽤 좋았다. 가장 잘한 모델이 연주자를 94.4% 정확도로 맞혔다. 요소를 하나씩 떼어 시험했더니 예측이 가장 정확한 건 화성이었고 리듬과 선율이 뒤를 이었다. 다이내믹스가 가장 부정확했다."
           },
           {
             "t": "p",
-            "x": "이번 결정 뒤에는 퀸즐랜드의 DJ 겸 프로듀서 조시 파와즈(Josh Fawaz)가 만든 마돈나 ‘Like a Prayer’ 커버를 둘러싼 논란이 있다. 지난달 호주 라디오에서 가장 많이 나온 곡이 됐고 ARIA 차트 두 곳에서 4위까지 올랐지만, 생성형 AI를 썼다는 지적이 업계에서 나왔다. 파와즈는 AI를 “도구로” 썼다고 인정했고 나중에 스포티파이 트랙 정보에 보컬과 드럼이 AI로 만들어졌다고 고쳐 적었다."
+            "x": "그래서 현실에서 어디에 쓰나. 연구진은 쓸 곳이 여럿이라고 본다. 작자 미상 작품의 저자 후보를 좁히거나 진품과 위작을 갈라내는 일이 하나다. 예술가들 사이 영향 관계의 그물을 드러내고, 창작 과정 자체를 들여다보는 실마리도 준다."
           },
           {
             "t": "p",
-            "x": "ARIA가 바꾼 내용 대부분은 국제음반산업협회(IFPI)가 7월에 내놓은 기준을 따른다. 당시 IFPI는 20개가 넘는 공식 차트 프로그램이 사람이 만든 녹음과 AI가 통째로 만든 녹음을 가려내려는 규정을 도입한다고 밝혔다. ARIA 관계자는 IFPI 기준대로라면 리드 보컬이나 핵심 악기를 AI로 만든 음악은 실격될 가능성이 크다고 설명했다. 파와즈의 곡 역시 더는 차트에 오르기 어려워 보인다."
+            "x": "연구진은 이렇게 덧붙였다. “마지막으로, 교육 현장에서도 쓸모가 있다. 자기 분야의 중요한 인물들이 지닌 고유한 목소리를 이해하도록 예술가를 훈련시키는 데 도움이 된다.”"
           },
           {
             "t": "p",
-            "x": "이 조치는 창작자와 AI 기업이 세계 곳곳에서 벌이는 다툼 한복판에서 나왔다. 여러 AI 기업이 저작권 있는 자료를 허락 없이 학습에 쓰고는 공정 이용이라고 주장해 왔다. 호주 정부도 자국 창작자를 위한 “strong copyright protections”를 담은 AI·데이터센터 규정을 만들고 있다고 밝혔다."
+            "x": "연구를 더 들여다보고 싶다면 Nature Machine Intelligence 사이트로 가면 된다. 피아니스트별 연주 스타일을 직접 훑어보는 웹 앱도 마련돼 있다."
           }
         ]
       }
     },
     {
-      "id": "music-cyanite-tagging",
+      "id": "music-chartmetric-flow",
       "eyebrow": "AI NEWS",
-      "headline": "Cyanite Tagging 2.0,\n메타데이터를 읽는 쪽이 AI로 바뀐다",
-      "body": "독일 Cyanite가 카탈로그 태깅 시스템을 Tagging 2.0으로 갈아 끼웠다.",
-      "mini_headline": "Cyanite 태깅 2.0",
+      "headline": "Chartmetric이 내놓은 Flow,\n음악 데이터를 대신 파고드는 에이전트",
+      "body": "Chartmetric이 데이터셋을 훑어 답까지 정리해 주는 AI 에이전트 Flow를 월 60달러에 열었다.",
+      "mini_headline": "음악 분석에 붙은 에이전트",
       "tool": "Music",
       "source": "Music Ally",
-      "url": "https://musically.com/2026/08/19/cyanite-rolls-out-a-big-upgrade-to-its-ai-music-tagging-tech/",
+      "url": "https://musically.com/2026/08/25/chartmetric-says-its-flow-ai-is-not-just-another-ai-chatbot/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -175,78 +168,103 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T125447.316.png?fit=780%2C585&ssl=1",
-            "cap": "Cyanite의 AI 음악 태깅 기술을 그린 이미지"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-25T101936.088.png?fit=2000%2C1500&ssl=1",
+            "cap": "Chartmetric Flow AI 화면"
           },
           {
             "t": "p",
-            "x": "독일 스타트업 Cyanite는 음악 메타데이터를 AI로 만드는 일에 일찍 뛰어들었다. Music Ally가 이 회사를 처음 다룬 건 2019년 7월, 자동 태깅 기술이 Groovecat이라는 기존 회사에서 갈라져 나왔을 때다."
+            "x": "음악 산업에서 AI가 제대로 쓰일 만한 곳을 하나 꼽자면 애널리틱스다. 스트리밍과 소셜 데이터가 코앞까지 쏟아지는 건 좋은데, 그걸 읽어내는 건 또 다른 일이다."
           },
           {
             "t": "p",
-            "x": "7년이 조금 지난 지금 플랫폼이 크게 손질된다. Cyanite가 ‘Tagging 2.0’이라 부르는 업그레이드다. 음악 카탈로그를 분석해 메타데이터를 만든다는 뼈대는 그대로 간다."
+            "x": "그래서 Chartmetric이 오늘 아침 새 도구 ‘Flow AI’를 공개했다. “음악 전문가를 위해 만든 가장 강력한 버티컬 AI 에이전트”라는 게 회사의 설명이다."
           },
           {
             "t": "p",
-            "x": "달라진 대목은 그 메타데이터를 누가 읽느냐다. 이제 사람만 보는 게 아니다. 회사는 카탈로그를 “탐색하고 정리하고 실제로 활용하는” 주체가 갈수록 AI 시스템으로 옮겨간다고 본다. 대화형 검색과 개인화 추천부터 카탈로그 자동화, 지능형 어시스턴트까지가 그 범위다."
+            "x": "그 많은 데이터 위에 좀 더 다가가기 쉬운 프롬프트 인터페이스를 얹은 셈이다. Sung Cho CEO는 이를 두고 “그냥 또 하나의 AI 챗봇이 아니다”라고 말한다."
           },
           {
             "t": "p",
-            "x": "새로 손본 기능 상당수가 이 흐름을 겨냥한다. 업그레이드된 시스템은 BeatStars와 The Source, Rambling Records, Human Worldwide 같은 고객사가 이미 쓰고 있다."
+            "x": "“당신의 로스터든 경쟁자든 시장이든, Flow에게 무엇이든 물어보라. Chartmetric의 전체 데이터셋을 검색하고, 데이터를 곱씹은 뒤, 원시 수치가 아니라 분명한 답을 내놓는다.” Flow 웹사이트의 설명이다."
           },
           {
             "t": "p",
-            "x": "마르쿠스 슈바르처(Markus Schwarzer) 대표는 “AI가 음악 업계의 카탈로그 작업 방식을 바꾸고 있다. 다만 이런 새 작업 흐름은 그 밑에 깔린 음악 이해만큼만 좋아진다”고 말했다."
+            "x": "AI의 가능성을 뒤지는 애널리틱스 회사가 Chartmetric만은 아니다. 경쟁사 Viberate가 6월에 MCP 서버를 내놓은 일을 다룬 적이 있고, Soundcharts에도 하나 있다. Openstage는 아티스트가 직접 보유한 팬 데이터 쪽에서 같은 걸 한다."
+          },
+          {
+            "t": "p",
+            "x": "이들에게 AI는 꼭 필요한 업그레이드이자 매출을 밀어 올릴 카드다. Chartmetric의 Flow AI 구독은 월 60달러부터 시작한다."
+          },
+          {
+            "t": "p",
+            "x": "다만 “원시 수치가 아니라”는 대목은 질문을 하나 남긴다. 지금까지 음악 애널리틱스가 굴러온 방식을 겨냥한 평가이기 때문이다. 순수한 데이터가 흐르고, 그걸 해석해 마케팅 팀 같은 동료에게 옮겨줄 전문가가 있어야 비로소 행동으로 이어지던 구조 말이다."
+          },
+          {
+            "t": "p",
+            "x": "AI를 얹은 애널리틱스 시대가 그 전문가들의 일을 키울까, 역할을 흥미로운 모양으로 바꿔놓을까. 아니면 아예 고리에서 잘라낼까. 예전엔 우리 몫이던 일을 상당 부분 해내는 새 AI 도구 앞에서 요즘 참 많은 사람이 마주하는 질문이다."
           }
         ]
       }
     },
     {
-      "id": "music-ai-search",
+      "id": "music-hotone-pulze-jr",
       "eyebrow": "AI NEWS",
-      "headline": "AI 검색이 내 공식 사이트를\n먼저 인용하게 만드는 방법",
-      "body": "Preferred Source 버튼을 달면 AI 검색이 내 사이트를 먼저 인용한다.",
-      "mini_headline": "AI 검색 인용 잡기",
+      "headline": "20W 미니 앰프 Hotone Pulze Jr.,\nAI가 톤 프리셋을 대신 짠다",
+      "body": "배터리로 8시간 도는 20W 스테레오 미니 앰프에 앰프 모델 52개와 AI 프리셋 생성이 들어갔다.",
+      "mini_headline": "AI 프리셋 미니 앰프",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/own-your-ai-search-results-a-guide-for-artists-and-venues/",
+      "source": "gearnews",
+      "url": "https://www.gearnews.com/hotone-pulze-jr-the-mini-amp-with-ai/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/AI-Search-For-Artists---Venues.jpg",
-            "cap": "Preferred Sources로 AI 검색 결과를 가져오는 법 — 아티스트와 공연장을 위한 안내"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Hotone-Pulze-Jr.-the-Mini-Amp-with-AI-770x425.jpg",
+            "cap": "Hotone Pulze Jr. — AI를 품은 미니 앰프 (사진 제공: Hotone)"
           },
           {
             "t": "p",
-            "x": "구글이 Preferred Sources를 확대하면서 아티스트와 공연장에게 지렛대가 하나 생겼다. AI 검색과 AI Overviews, AI Mode에서 앞자리를 잡아 AI 때문에 줄어드는 웹사이트 트래픽에 맞서는 수단이다."
+            "x": "Hotone이 새로 내놓은 Pulze Jr.는 기타리스트를 위한 배터리 구동 휴대용 미니 앰프다. 원하는 톤을 찾도록 돕는 AI 기능이 안에 들어 있다."
           },
           {
             "t": "p",
-            "x": "이제 어떤 사이트에든 구글 공식 Preferred Source 버튼을 직접 넣을 수 있다. 팬이 그 버튼을 누르면, 이후 그 팬이 음악이나 공연 시간, 공연장 규정을 AI 검색 도구에 물을 때 구글이 공식 도메인을 앞세우고 ‘Preferred’ 배지를 눈에 띄게 붙인다."
+            "x": "심장부에는 미니 앰프 크기에 밀어 넣은 CDCM HD & FIRE 모델링 시스템이 있다. 앰프 모델 52개와 캐비닛 48개, 그리고 여러 이펙트를 쓴다. 5와트 Pulze-Mini와 비슷한 복고풍 외관이고, 화이트와 블랙 두 가지로 나온다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Hotone-Pulze-Jr.--1024x565.jpg",
+            "cap": "AI를 얹은 Hotone Pulze Jr. (사진 제공: Hotone)"
           },
           {
             "t": "p",
-            "x": "티켓 정보 환각부터 줄어든다. AI 답변 엔진은 공연 시간을 틀리게 말하거나 리셀러 티켓 사기 쪽으로 팬을 보내는 일이 잦은데, 우선 배지가 붙으면 공식 도메인이 1차 출처로 인용된다. 클릭률도 달라진다. 구글 데이터로는 AI 검색 결과 안에서 Preferred Source 링크를 누를 확률이 대략 두 배다. 생성형 엔진 최적화(GEO)는 보통 복잡한 기술 설계를 요구하지만, 이 기능은 이미 쌓인 팬의 애정을 곧장 검색 권위로 바꿔 놓는다."
+            "x": "어쿠스틱 시뮬레이션과 거기 맞는 이펙트도 따로 갖췄다. 프리셋은 최대 200개까지 저장한다. 디지털 신호 처리는 24비트/48kHz로 돌아가고, 3인치 스피커 두 개로 20와트 스테레오를 뽑는다. 몸집을 생각하면 만만찮은 출력이다."
           },
           {
             "t": "p",
-            "x": "쓰는 자리는 세 곳이다. 구글의 가벼운 자바스크립트 버튼을 공식 사이트 루트 도메인, 투어나 이벤트 페이지 근처에 심는다. 프리세일 메일에는 원클릭 링크를 붙여 “AI 검색이 공식 티켓 링크와 공연 시간을 먼저 보여주도록 구글에서 우리를 Preferred Source로 저장해 달라”고 부탁한다. 공연장 규정과 입장 시간, 매표소 운영 시간을 적어둔 FAQ 페이지 맨 위에도 버튼을 둔다. 팬이 AI에게 “[공연장 이름] 가방 반입 규정이 뭐야”라고 물을 때 인용되는 쪽이 내 사이트가 된다."
+            "x": "소리를 더 넓히고 싶다면 사용자 IR을 최대 20개, Sound Clone / NAM A1과 A2 파일을 10개까지 얹는다. 자기 캐비닛 시뮬레이션이나 앰프 프로파일을 직접 넣어 가상 리그를 꾸미는 사람에게 어울린다."
           },
           {
             "t": "p",
-            "x": "설치는 두 갈래다. 워드프레스나 스퀘어스페이스처럼 커스텀 HTML/JS를 허용하는 사이트라면 구글의 대화형 버튼을 넣어, 팬이 사이트를 떠나지 않고 한 번에 등록하게 한다. 버튼을 띄울 자리에 google-add-preferred-source-btn 속성을 단 div를 놓고, head에 news.google.com/swg/js/v1/swg-basic.js 스크립트 태그를 붙이면 된다. data-theme는 dark와 light 중 사이트 톤에 맞춰 고른다."
+            "x": "덤도 여럿이다. 240초 루퍼, 리듬 100개가 든 드럼 머신 겸 메트로놈, 튜너가 함께 들어 있다."
+          },
+          {
+            "t": "video",
+            "yt": "upbERwySu3c"
           },
           {
             "t": "p",
-            "x": "사이트 빌더가 스크립트를 막거나 메일과 SNS, 링크인바이오로 유도하고 싶다면 구글 직접 링크를 쓴다. https://www.google.com/preferences/source?q=yourdomain.com 끝에 루트 도메인만 바꿔 넣으면 된다. 팬이 누르면 도메인이 미리 채워진 구글 소스 설정 화면으로 바로 넘어가고 한 번 더 누르면 끝난다."
+            "x": "이 미니 앰프는 머리도 쓴다. Hotone AI가 돌리는 프리셋 생성 기능으로 버튼 한 번에 알맞은 사운드 세팅을 뽑는다. 반주 트랙을 준비할 때 쓰는 AI 트랙 분리도 들어 있다. 관리는 Hotone Pulze Editor 앱에서 하고, 블루투스를 지원해 음악 스트리밍이나 앱 무선 연결도 된다."
           },
           {
             "t": "p",
-            "x": "AI 가시성 싸움은 더 이상 키워드가 아니라 팬을 얼마나 쥐고 있느냐로 갈린다. 버튼을 달고 메일에 링크를 넣는 데는 몇 분이면 되지만, 가장 열성적인 팬이 AI 검색에 질문을 던졌을 때 답으로 나오는 건 내 링크가 된다."
+            "x": "내장 3000mAh 리튬 배터리는 중간 볼륨으로 음악을 계속 재생할 때 약 8시간을 버틴다고 Hotone은 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "가격은 £260.00/€299.00. 거실에 두기에도, 밖으로 들고 다니기에도 괜찮은 앰프다. 곧 Thomann에서 블랙과 화이트로 만난다."
           }
         ]
       }

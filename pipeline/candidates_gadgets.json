@@ -1,23 +1,55 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "gadgets",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.xda-developers.com/phone-runs-ai-assistant-offline-stopped-uploading-documents-to-cloud-chatbots/",
-      "source": "XDA Developers",
+      "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-08-24T20:00:16Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-3-5-in-noema-on-iphone-keyboard-and-clock-in-view.jpeg?w=1600&h=900&fit=crop",
-      "excerpt": "I can finally trust mobile AI with the important stuff"
+      "published_iso": "2026-08-25T06:05:00-07:00",
+      "og_image": "https://images.macrumors.com/t/Nupss_8A02Q9UCCL40qBe1db2J8=/1672x/article-new/2026/08/m6-chip.png",
+      "excerpt": "Apple announced the M6, its first 2nm chip, with a dual 16-core Neural Engine and a 12-core CPU. The on-device AI budget in a consumer Mac jumps again, which is what changes what creative tools can run locally."
     },
     {
-      "url": "https://www.xda-developers.com/nothing-gets-added-smart-home-works-internet-unplugged/",
-      "source": "XDA Developers",
+      "url": "https://www.digitaltrends.com/computing/apples-new-mac-studio-is-a-serious-ai-machine-and-you-can-cluster-four-of-them-together/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-08-24T18:30:16Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/home-assistant-ai.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "My smart home has zero cloud dependency"
+      "published_iso": "2026-08-25T06:59:31-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/12-scaled.jpg?resize=1200%2C630",
+      "excerpt": "The new Mac Studio ships with M5 Max and M5 Ultra, up to 512GB of unified memory, and a new networking chip that lets four units cluster. Apple is pitching the desktop as a local model-serving box for studios."
+    },
+    {
+      "url": "https://9to5mac.com/2026/08/25/apple-unveils-next-generation-mac-studio-with-m5-max-and-m5-ultra/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T13:00:00+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-studio.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Alongside the new Mac mini, Apple announced its next-generation Mac Studio powered by M5 Max and M5 Ultra, with memory configurations aimed squarely at running large models on the desk instead of in the cloud."
+    },
+    {
+      "url": "https://www.techradar.com/computing/macs/apples-new-mac-mini-looks-the-same-but-the-m6-inside-brings-a-major-performance-boost",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kjA6jxhGVVxpYqX6qsvtKa-2560-80.jpg",
+      "excerpt": "The Mac mini keeps its shell but swaps in the M6 (and an M5 Pro option), pushing a cheap desktop into serious on-device AI territory — with a price hike attached."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T08:19:39-07:00",
+      "og_image": "https://images.macrumors.com/t/OUftIzGsXO_jjRdofXZXcypsL88=/2000x/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "excerpt": "Apple is still on track to ship its first screened smart home device this year, per Gurman. It would use facial recognition to identify who is standing in front of it and personalize what the screen shows."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-08-24T16:36:50-07:00",
+      "og_image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+      "excerpt": "Beta 7 revealed waitlist infrastructure for Siri AI, meaning Apple will meter access to the rebuilt assistant when iOS 27 ships — the device feature arrives before the capacity to run it does."
     },
     {
       "url": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
@@ -25,183 +57,135 @@
       "category": "gadgets",
       "published_iso": "2026-08-24T17:28:00+00:00",
       "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b7.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle..."
+      "excerpt": "Apple released the seventh iOS 27 developer beta as it continues testing the major Siri AI overhaul ahead of a September launch alongside the new iPhones."
     },
     {
-      "url": "https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-08-24T16:32:48-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/zuckoff-app.jpg",
-      "excerpt": "Amid broad privacy concerns, new apps like Zuckoff help detect smart glasses in the wild."
-    },
-    {
-      "url": "https://9to5google.com/2026/08/24/pixel-11-pro-gemini-device-help/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-08-24T16:14:01+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "On the Pixel 11 Pro, we're seeing a new \"Device help\" tool for the Gemini app that provides personalized and conversational assistance..."
-    },
-    {
-      "url": "https://www.cnet.com/tech/services-and-software/chatgpt-vs-gemini-which-chatbot-is-best-at-seeing-the-world/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-08-24T14:40:41-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/adobestock-2061647993-editorial-use-only.jpg",
-      "excerpt": "I put these multimodal models through a camera test."
-    },
-    {
-      "url": "https://www.androidauthority.com/google-ask-gemini-android-apk-teardown-3702153/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-08-24T14:21:09+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-7-scaled.jpg",
-      "excerpt": "A recent Google update adds a useful Ask Gemini button within Android’s context menu that appears while highlighting text in other apps."
-    },
-    {
-      "url": "https://www.zdnet.com/article/googlebook-laptop-is-almost-here-can-it-avoid-copilot-pc-problem/",
-      "source": "ZDNET",
-      "category": "gadgets",
-      "published_iso": "2026-08-24T12:48:57.000Z",
-      "og_image": "https://www.zdnet.com/a/img/resize/6a04afe225a99809c7fe7efc593459c5d08f6cbd/2026/08/24/4dacd8eb-03dc-4079-92fc-a51ed150c727/googlebook.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "excerpt": "It won't be another high-end Chromebook like the Pixel, and Google has to hope it'll succeed where Copilot+ PCs have fallen short."
-    },
-    {
-      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-08-24T09:10:40+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291658389.jpg?quality=90&strip=all&crop=0%2C10.728819799005%2C100%2C78.54236040199&w=1200",
-      "excerpt": "﻿Literally ‘smashing’ — the bots can’t stop without colliding into a crash pad."
-    },
-    {
-      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-08-24T05:55:51-07:00",
-      "og_image": "https://images.macrumors.com/t/fIP-NHOTBAREpNB9d4R4X7qgf-c=/2500x/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
-      "excerpt": "In the Apple Store app on the iPhone, select users have received access to an \"early preview\" of a new AI-powered virtual shopping assistant. Once it is available, you can open the chatbot by tapping on the speech bubble with two sparkles in the bottom-right corner of the app. Then, you can ask questions about Apple products, your existing Apple Store orders, trade-in values, payment options, and more, or simply tap on one of the common topics on the page to begin."
-    },
-    {
-      "url": "https://www.digitaltrends.com/computing/asus-zenbook-a14-review/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-08-24T01:57:06-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/ASUS-Zenbook-A14-Review-Top-Lid-2.jpg?resize=1200%2C630",
-      "excerpt": "The ASUS Zenbook A14 combines a 0.99kg chassis, excellent battery life, and impressive Snapdragon X2 Elite performance, but its 60Hz display keeps it from greatness."
-    },
-    {
-      "url": "https://www.engadget.com/2240187/apple-carplay-stop-siri-from-interrupting/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-08-23T20:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/how-to-stop-siri-from-interrupting-while-youre-using-carplay/l-intro-1786715541.jpg",
-      "excerpt": "Don’t let Siri become a hassle instead of an assistant; keep it quiet in the car to reduce distractions."
-    },
-    {
-      "url": "https://www.macrumors.com/2026/08/23/apple-stores-prepare-new-home-products/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-08-23T12:20:11-07:00",
-      "og_image": "https://images.macrumors.com/t/8evGZrLRE4L9Xl4c4_D3adtBjEA=/1600x/article-new/2026/06/homepod-apple-tv-nearly-ready.jpg",
-      "excerpt": "Bloomberg's Mark Gurman reports that Apple is reorganizing parts of its brick-and-mortar stores this fall to make room for new home products. Writing in his latest Power On newsletter, Gurman says the teams responsible for store layouts are preparing changes to the \"Avenues,\" or the perimeter walls in Apple's newer stores, where accessories like HomePod, Apple TV, AirPods, and Beats are displayed alongside third-party accessories."
-    },
-    {
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/i-wore-these-obnoxious-travel-focused-smart-glasses-for-a-week-on-vacation-and-learned-more-than-id-bargained-for-about-the-stony-steps-of-santorini",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-08-22T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/wgVNbiihLKhh25HoPxTwCg-2560-80.jpg",
-      "excerpt": "Room to grow, but we all have to start somewhere"
-    },
-    {
-      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-08-22T13:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268709_HP_OmniBook_3_16_laptop_review_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Grading on a curve."
-    },
-    {
-      "url": "https://www.tomsguide.com/computing/smart-glasses/i-wore-virtue-and-xreals-new-budget-friendly-ar-glasses-for-a-week-and-this-is-the-pair-id-buy",
+      "url": "https://www.tomsguide.com/ai/perplexitys-new-local-first-ai-runs-on-your-pc-and-asks-before-using-the-cloud",
       "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-08-22T11:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/fooTyD6WY4GY6qYr9ZNZfR-2560-80.jpg",
-      "excerpt": "Viture and Xreal are competing in the budget AR glasses space, so who wins? I’m comparing comfort, display quality and features to see who’s the best."
+      "published_iso": "2026-08-25T13:39:35Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/oW2jKymtiv2rQ7N8Fqenh8-2560-80.jpg",
+      "excerpt": "Perplexity's Portable Computer keeps files and AI tasks on your own hardware, only reaching for a cloud model when you explicitly allow it — a local-first posture for everyday PC AI."
     },
     {
-      "url": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
-      "source": "WIRED",
+      "url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-08-22T10:00:00.000Z",
-      "og_image": "https://media.wired.com/photos/6a87862020408e2e1b24b43a/191:100/w_1280,c_limit/All-Work-Virtual-Play-Gear.jpg",
-      "excerpt": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose."
+      "published_iso": "2026-08-25T18:31:37Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/bVH6Hhfk6Uhrp8NJb37qgi-1920-80.jpg",
+      "excerpt": "Samsung detailed the first LPDDR5X-PIM at Hot Chips 2026, putting logic inside mobile memory for 3.01x faster AI inference at 8x the bandwidth — a route to bigger models on phones and laptops."
     },
     {
-      "url": "https://www.androidauthority.com/google-store-smart-displays-3701744/",
-      "source": "Android Authority",
+      "url": "https://www.tomshardware.com/pc-components/cpus/hot-chips-2026-intel-details-cutting-edge-tech-in-entry-level-wildcat-lake-value-focused-18a-chips-necessitated-ucie-integration",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-08-21T20:39:16+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/06/Google-Pixel-Tablet-vs-Google-Nest-Hub-Front.jpg",
-      "excerpt": "Why has Google not managed to keep a single smart display in stock for its online Google Store?"
+      "published_iso": "2026-08-25T15:45:08Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5Abf9Vk9QK6CgPZH62DX7-1920-80.jpg",
+      "excerpt": "Intel's Wildcat Lake brings 18A silicon and a UCIe interconnect to budget laptops, pushing NPU-class capability down into the cheap end of the AI PC market."
     },
     {
-      "url": "https://www.androidauthority.com/us-robot-ban-pool-cleaners-3701655/",
-      "source": "Android Authority",
+      "url": "https://www.notebookcheck.net/Humain-teases-Snapdragon-X2-Elite-powered-Horizon-Ultra-with-mysterious-agentic-AI-operating-system.1372598.0.html",
+      "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-08-21T16:45:55+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Beatbot-Sora-30-and-iSkim-robots-next-to-each-other-12.jpg",
-      "excerpt": "The FCC’s robot ban could catch foreign-made pool cleaners, potentially making smarter models harder and pricier to buy."
+      "published_iso": "2026-08-19T16:24:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humain-Ultra-teaser.png",
+      "excerpt": "Humain teased its Horizon Ultra laptop with Snapdragon X2 Elite hardware and an operating system built around agentic AI, developed with Qualcomm over the past year."
     },
     {
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "source": "Ars Technica",
-      "category": "gadgets",
-      "published_iso": "2026-08-21T11:00:53+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
-      "excerpt": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash."
-    },
-    {
-      "url": "https://9to5google.com/2026/08/20/pixel-11-personalized-suggestions/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-08-20T21:03:23+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-rambler-5.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "On the Pixel 11 series, Google has updated Gboard’s Writing tools with Gemini Intelligence to offer \"Personalized suggestions.\""
-    },
-    {
-      "url": "https://gizmodo.com/this-robot-vacuum-has-a-brush-and-mop-pad-that-can-reach-places-others-cant-2000800659",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-08-20T13:30:37+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/Mova-V70-Ultra-Complete-1200x675.jpg",
-      "excerpt": "The Mova V70 Ultra Complete's side brush and mop pad can stretch to get between chair legs and deep into corners."
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-      "source": "Ars Technica",
-      "category": "gadgets",
-      "published_iso": "2026-08-19T16:11:30+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-1-1152x648.jpg",
-      "excerpt": "Google's new Pixels make some compromises but still manage to be good phones."
-    },
-    {
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-pro-review",
+      "url": "https://www.androidcentral.com/phones/qualcomm/qualcomm-just-broke-the-5ghz-barrier-with-its-next-snapdragon-chip",
       "source": "Android Central",
       "category": "gadgets",
-      "published_iso": "2026-08-19T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iEioWuom4dRzdnVdBToDoW-2048-80.jpg",
-      "excerpt": "Elegance comes at too high a cost."
+      "published_iso": "2026-08-25T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zv6rPCPvpWFWZsjoiuLdnH-2560-80.jpg",
+      "excerpt": "Qualcomm says its next-gen Oryon CPU hits 5GHz, the headline of a mobile platform built to run more of the AI stack on the handset itself."
     },
     {
-      "url": "https://9to5google.com/2026/08/19/pixel-11-pro-initial-review/",
+      "url": "https://9to5google.com/2026/08/25/google-pixel-11-rambler-feature-upgrade-idea/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-08-19T16:00:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Fog-3.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Historically, Google has set out to make helpful devices. The Pixel 11 Pro continues that with Gemini Intelligence, while introducing..."
+      "published_iso": "2026-08-25T20:05:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Gboard's Rambler on the Pixel 11 rewrites messy spoken dictation into clean prose on device — a small AI feature that quietly changes how people draft text on a phone."
+    },
+    {
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-6-edge-panel-ai-select-toggle-3702756/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T15:04:37+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/02/samsung-galaxy-s22-edge-panel.jpg",
+      "excerpt": "One UI 9 Beta 6 adds a toggle to disable long-press AI Select after users complained the gesture froze the screen by accident — a rare case of a phone maker letting you turn AI off."
+    },
+    {
+      "url": "https://www.androidauthority.com/google-translate-android-xr-listening-area-apk-teardown-3702633/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T13:24:25+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+      "excerpt": "A teardown shows Google Translate building a 'Listening area' control for Android XR, letting wearers aim live translation at a specific region of their field of view."
+    },
+    {
+      "url": "https://gizmodo.com/the-best-robot-fails-from-the-2026-world-humanoid-robot-games-2000802858",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T18:45:49+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/robot-fail-1200x675.jpg",
+      "excerpt": "A reality check on humanoid hype: the best pratfalls from the 2026 World Humanoid Robot Games, where record-setting sprints sat next to robots collapsing at ordinary tasks."
+    },
+    {
+      "url": "https://gizmodo.com/garmins-fenix-9-and-9-pro-tell-a-broader-story-about-your-physical-activity-2000802969",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T18:00:08+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/20260428_SOCIAL_RECOD_3740-1200x675.jpg",
+      "excerpt": "Garmin's Fenix 9 and 9 Pro add Garmin Epic, which stitches multiple activities into one holistic narrative of an outing rather than a pile of disconnected metrics."
+    },
+    {
+      "url": "https://9to5google.com/2026/08/25/wyze-indoor-cam-pan-launch/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T13:05:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Copy-of-Wyze-Indoor-Cam-Pan_6.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Wyze refreshed its 360-degree Indoor Cam Pan with better night vision and AI-driven subject tracking for under $40, pushing camera smarts into the budget tier."
+    },
+    {
+      "url": "https://www.techradar.com/ai-platforms-assistants/claude/amazon-security-engineer-hacks-pc-accessories-with-claude-opus-to-make-them-work-better-asus-insta360-and-elgato-products-reverse-engineered-in-hours-for-better-control-but-engineer-admits-this-also-scares-me",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T08:12:01Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/jkup3TaJ8TSEFiVpLQLXz8-2560-80.jpg",
+      "excerpt": "An Amazon security engineer used Claude Opus to reverse-engineer Asus, Insta360 and Elgato gear in hours and build better controls for it — a glimpse of AI as a gadget-modding tool, and a security worry."
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/nothing-os-5-0-wants-you-to-stop-switching-apps-and-start-living-in-your-phone/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T05:51:02-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-infographic.jpg?resize=1200%2C630",
+      "excerpt": "Nothing OS 5.0 on Android 17 leans on AI-assembled widgets and glanceable surfaces to keep users out of app-switching — the boldest attempt yet at an AI-first phone interface."
+    },
+    {
+      "url": "https://www.slashgear.com/2243386/roku-fairground-ai-channel-controversy-reviews/",
+      "source": "SlashGear",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T16:15:00+00:00",
+      "og_image": "https://www.slashgear.com/img/gallery/rokus-new-ai-channel-is-getting-attention-for-all-the-wrong-reasons/l-intro-1787627825.jpg",
+      "excerpt": "Roku's new Fairground AI channel is drawing fire for both its use of generative AI and the poor quality of what it puts on the TV — the living-room test case for AI-made content."
+    },
+    {
+      "url": "https://roadtovr.com/pico-vision-pro-competitor-delayed-cancelled-event/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-08-25T07:11:08+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg",
+      "excerpt": "ByteDance's Pico postponed the reveal and release of its long-awaited Vision Pro competitor, cancelling a September event and leaving the high-end standalone XR field thinner."
+    },
+    {
+      "url": "https://www.engadget.com/2240584/samsung-galaxy-event-august-27/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-08-20T08:37:32+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/samsung-is-holding-another-galaxy-event-on-august-27/l-intro-1787214884.jpg",
+      "excerpt": "Samsung set an August 27 virtual event for a new addition to the S26 lineup, promising to bring the flagship camera and Galaxy AI experiences down a price tier."
     }
   ]
 }

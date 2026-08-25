@@ -1,31 +1,11 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "music",
   "media": [
-    {
-      "id": "music-minimax-3",
-      "type": "image",
-      "src": "pipeline/media/music-minimax-3.png"
-    },
-    {
-      "id": "music-trama",
-      "type": "image",
-      "src": "pipeline/media/music-trama.jpg"
-    },
-    {
-      "id": "music-aria-charts",
-      "type": "image",
-      "src": "pipeline/media/music-aria-charts.png"
-    },
-    {
-      "id": "music-cyanite-tagging",
-      "type": "image",
-      "src": "pipeline/media/music-cyanite-tagging.png"
-    },
-    {
-      "id": "music-ai-search",
-      "type": "image",
-      "src": "pipeline/media/music-ai-search.jpg"
-    }
+    { "id": "music-luminate-ai-label", "type": "image", "src": "pipeline/media/music-luminate-ai-label.jpg" },
+    { "id": "music-spectralayers-13", "type": "image", "src": "pipeline/media/music-spectralayers-13.jpg" },
+    { "id": "music-jazz-fingerprint", "type": "image", "src": "pipeline/media/music-jazz-fingerprint.jpg" },
+    { "id": "music-chartmetric-flow", "type": "image", "src": "pipeline/media/music-chartmetric-flow.png" },
+    { "id": "music-hotone-pulze-jr", "type": "video", "src": "pipeline/media/music-hotone-pulze-jr.mp4", "poster": "pipeline/media/music-hotone-pulze-jr.jpg" }
   ]
 }

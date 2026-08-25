@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "science",
   "picks": [
     {
-      "url": "https://thequantuminsider.com/2026/08/24/microsofts-skala-ai-model-joins-cp2k-to-improve-quantum-mechanical-simulations/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-08-24T08:04:47+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Low-Res_20260821_b-1.png",
-      "excerpt": "The Skala model is now available, giving researchers an AI-based exchange-correlation functional for quantum mechanical simulations.",
+      "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-08-25T17:00:00-04:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2171044401.jpg?resize=1200,600",
+      "excerpt": "MIT Technology Review pulls together what cognitive research now says about offloading thinking to chatbots: the measurable effects on memory, attention and the feeling of understanding. It is the clearest current read on what daily AI use does to human cognition.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "A shipped, usable release: Microsoft's Skala functional lands inside CP2K, so any DFT user can swap in an AI exchange-correlation functional tomorrow."
+      "rationale": "The best single synthesis of what cognitive science actually measures when people offload thinking to chatbots — directly about the reader's own daily tool use."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-08-23T12:14:40Z",
-      "og_image": "",
-      "excerpt": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human genes. The breakthrough could help predict the effects of harmful mutations and eventu",
+      "url": "https://phys.org/news/2026-08-chatbots-similar-identity-personality.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-25T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-are-making-ou.jpg",
+      "excerpt": "When LLMs rewrite text they cut variation in writing complexity by 21-50% while keeping meaning intact. Models reading the rewritten passages became six percentage points worse at inferring the author's personal traits - a warning for language-based psychological assessment.",
       "tool": "Science",
       "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "A concrete genomics finding — an AI model reading 500,000 sequences pins down the initiator element in ~60% of human genes, giving mutation-effect prediction a real anchor."
+      "motif": "frame",
+      "rationale": "Quantifies the cost of letting a model polish your words: meaning survives, but 21-50% of stylistic variation and much of the personal signal does not."
     },
     {
-      "url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-24T21:30:04Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-use-ai-to-6.jpg",
-      "excerpt": "Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options.",
+      "url": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
+      "source": "Quanta Magazine",
+      "published_iso": "2026-08-24T14:00:55+00:00",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Predictive-Categorization-cr-Zara-Picken-Social.jpg",
+      "excerpt": "A new theory of predictive categorization describes how brains throw away most sensory detail and keep only what predicts the future. The framing maps directly onto how representation learning in neural networks is understood.",
       "tool": "Science",
       "accent": "#7928ca",
-      "motif": "swatch",
-      "rationale": "Materials search collapsed from 100 million candidate print settings to a working recipe — the clearest example this cycle of AI replacing brute-force lab iteration."
+      "motif": "cube",
+      "rationale": "A fresh theory of how brains discard detail and keep only what predicts — the cleanest biological framing yet for what representation learning is doing."
     },
     {
-      "url": "https://www.eurekalert.org/news-releases/1141263",
-      "source": "EurekAlert!",
-      "published_iso": "2026-08-24T07:46:39Z",
-      "og_image": "",
-      "excerpt": "MIT engineers developed a tool that predicts plausible extreme events and worst-case scenarios—such as an extreme storm's likely duration, intensity and area of impact—without needing data on previous extremes.",
+      "url": "https://techxplore.com/news/2026-08-ai-expert-benchmark-bias-llms.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-24T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/complexity-science-hub.jpg",
+      "excerpt": "A Complexity Science Hub benchmark tested 22 large language models on who they name as an expert. The models did not merely mirror existing inequality - they amplified it, under-representing women and scholars from under-represented backgrounds.",
       "tool": "Science",
       "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "MIT's method predicts worst-case extremes without ever having seen one, attacking the data-scarcity problem that has blocked climate and risk modeling."
+      "motif": "swatch",
+      "rationale": "A reusable benchmark across 22 models showing that asking an LLM 'who is the expert here' amplifies rather than mirrors existing inequality."
     },
     {
-      "url": "https://techxplore.com/news/2026-08-ray-speckles-solar-magnetic-fields.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-08-24T19:40:09Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/slac-researchers-devel.jpg",
-      "excerpt": "Next-generation science experiments will collect more data than ever—so much so that they'll surpass the capabilities of current data storage and analysis methods. To help, researchers at the Department of Energy's SLAC National Accelerator Laboratory developed an AI method to compress large amounts",
+      "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
+      "source": "MIT News",
+      "published_iso": "2026-08-20T18:45:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202608/mit-dmse-ammonia-facility.jpg",
+      "excerpt": "MIT researchers combined density functional theory with machine learning to screen transition-metal nitride alloys for electrochemical ammonia synthesis. The computational screen replaces trial-and-error catalyst search for one of chemistry's largest carbon footprints.",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "SLAC's AI compression keeps next-gen instrument data analyzable at all — infrastructure work that decides which experiments are even runnable."
+      "rationale": "DFT plus machine learning narrows the catalyst search for electrochemical ammonia, one of the largest carbon footprints in industrial chemistry."
     }
   ]
 }

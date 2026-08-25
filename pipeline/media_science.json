@@ -1,31 +1,11 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "science",
   "media": [
-    {
-      "id": "science-skala-cp2k",
-      "type": "image",
-      "src": "pipeline/media/science-skala-cp2k.png"
-    },
-    {
-      "id": "science-dna-initiator",
-      "type": "image",
-      "src": "pipeline/media/science-dna-initiator.jpg"
-    },
-    {
-      "id": "science-grcop42-print",
-      "type": "image",
-      "src": "pipeline/media/science-grcop42-print.jpg"
-    },
-    {
-      "id": "science-eta-learning",
-      "type": "image",
-      "src": "pipeline/media/science-eta-learning.jpg"
-    },
-    {
-      "id": "science-slac-compress",
-      "type": "image",
-      "src": "pipeline/media/science-slac-compress.jpg"
-    }
+    { "id": "science-brain-on-ai", "type": "image", "src": "pipeline/media/science-brain-on-ai.jpg" },
+    { "id": "science-shrinking-style", "type": "image", "src": "pipeline/media/science-shrinking-style.jpg" },
+    { "id": "science-predictive-categorization", "type": "image", "src": "pipeline/media/science-predictive-categorization.jpg" },
+    { "id": "science-llm-scholar-bench", "type": "image", "src": "pipeline/media/science-llm-scholar-bench.jpg" },
+    { "id": "science-green-ammonia", "type": "image", "src": "pipeline/media/science-green-ammonia.jpg" }
   ]
 }

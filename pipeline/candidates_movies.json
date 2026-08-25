@@ -1,119 +1,199 @@
 {
-  "date": "2026-08-25",
-  "section": "movies",
-  "window_hours": 336,
-  "items": [
-    {
-      "url": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-08-21T23:12:39Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2210325176.jpg?crop=0px%2C127px%2C5000px%2C2812px&resize=1000%2C563",
-      "excerpt": "A coalition convened by Kathleen Kennedy and AFI's Susan Ruskin published 'Human Generative Workflows,' a framework that separates AI-assisted craft steps (color grading assists, upscaling, markerless mocap) from prompted synthetic performance, and argues for a shared vocabulary of authorship in production."
-    },
-    {
-      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
-      "source": "fxguide",
-      "category": "movies",
-      "published_iso": "2026-08-24T15:30:00Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Flow.jpg",
-      "excerpt": "Autodesk Flow Studio's new 3D Editor + Canvas combines interactive 3D scene construction with generative 2D video models, so AI shots can be blocked, staged and re-framed like a real set instead of re-rolled from prompts."
-    },
-    {
-      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
-      "source": "fxguide",
-      "category": "movies",
-      "published_iso": "2026-08-11T10:45:46Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-iohp-v3.jpg",
-      "excerpt": "LA studio Impossible Objects is running AI models locally on HP ZGX Nano desktops, folding artist-driven generative workflows in alongside traditional VFX tools without shipping client plates to the cloud."
-    },
-    {
-      "url": "https://www.awn.com/animationworld/vale-origins-ai-through-lens-grief-and-creativity",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-08-21T23:29:14Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/thevaleorigins-stills-01-1280.jpg?itok=xpoCv2qi",
-      "excerpt": "Abigail Hing Wen's hybrid animated/live-action short 'The Vale - Origins' tells a story about an AI-powered virtual sanctuary built from a child's drawings — and was deliberately made without generative AI."
-    },
-    {
-      "url": "https://www.cined.com/testing-seedance-2-5-with-elaborate-prompting-new-module-in-directing-the-future-ethical-ai-video-for-filmmakers/",
-      "source": "CineD",
-      "category": "movies",
-      "published_iso": "2026-08-21T13:58:01Z",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/testing_higgsfield_new_lesson-feature_image.jpg",
-      "excerpt": "Drew Geraci stress-tests Seedance 2.5 with long-form, shot-designed prompts in a new MZed module on ethical AI video, showing how directing language (lens, blocking, continuity) changes generated output."
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "source": "The Verge",
-      "category": "movies",
-      "published_iso": "2026-08-21T13:37:52Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&strip=all&crop=0%2C11.121766626924%2C100%2C77.756466746151&w=1200",
-      "excerpt": "Filmmaking YouTubers including Matti Haapoja and Sam Kolder are facing audience revolt for promoting Higgsfield and Seedance 2.5, a signal of how the creative audience is policing AI sponsorship."
-    },
-    {
-      "url": "https://deadline.com/2026/08/roger-avary-paradise-lost-us-release-date-theatrical-1237044153/",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-08-18T15:48:07Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/04/Roger-Avary-Paradise-Lost.jpg?w=1024",
-      "excerpt": "Roger Avary's 'Paradise Lost' and Alex Proyas' 'Heaven' — both produced with Ex Machina Studios' proprietary AI pipeline — have landed U.S. theatrical commitments for 2027, a first real wide-release test for AI-made features."
-    },
-    {
-      "url": "https://www.provideocoalition.com/sp-studios-uses-brompton-hydra-to-transform-virtual-production/",
-      "source": "ProVideo Coalition",
-      "category": "movies",
-      "published_iso": "2026-08-18T11:21:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/bromptonredrock001.jpg",
-      "excerpt": "SP Studios rebuilt its LED volume workflow around Brompton Hydra, changing how in-camera VFX shots are lit, calibrated and captured on set."
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/08/animaze-2026-unveils-programming-highlights-first-ever-ai-animation-forum/",
-      "source": "Animation Magazine",
-      "category": "movies",
-      "published_iso": "2026-08-17T21:45:10Z",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Animaze_Bill-Plympton_Johnnie-Semerad.png",
-      "excerpt": "Animaze Montreal's 2026 edition (Sept 17-19) adds a first-ever AI Animation Forum to its programming, putting generative pipelines on the main stage of a legacy animation festival."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=gnp86XUSzgg",
-      "source": "Curious Refuge (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-08-21T22:57:00Z",
-      "og_image": "https://i.ytimg.com/vi/gnp86XUSzgg/maxresdefault.jpg",
-      "excerpt": "Curious Refuge walks through Apple's new photoreal personal-avatar cloning and what near-perfect digital doubles mean for performance capture and on-camera talent in AI filmmaking."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=OQPYWzlyrGg",
-      "source": "Curious Refuge (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-08-13T17:47:00Z",
-      "og_image": "https://i.ytimg.com/vi/OQPYWzlyrGg/maxresdefault.jpg",
-      "excerpt": "A 30-character stress test of Seedance 2.5 measuring how well the model holds character identity across shots — the consistency problem that decides whether generative video can carry a narrative scene."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
-      "source": "Curious Refuge (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-08-18T19:28:00Z",
-      "og_image": "https://i.ytimg.com/vi/qv0s1_coX50/maxresdefault.jpg",
-      "excerpt": "Curious Refuge tests a free AI video generator against paid tools, benchmarking where no-cost models now land for indie filmmaker shot generation."
-    },
-    {
-      "url": "https://www.cartoonbrew.com/business/wildbrain-acquires-personality-ai-265896.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-08-24T09:19:51Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hey-Peppa-Pig.jpg",
-      "excerpt": "WildBrain is buying Personality AI, the generative-AI company behind conversational 'Hey Peppa Pig' characters, moving real-time AI character performance into a major kids-animation studio's production and IP pipeline."
-    },
-    {
-      "url": "https://beforesandafters.com/2026/08/24/how-the-camp-miasma-team-used-a-glass-matte-painting-shot-in-their-film/",
-      "source": "befores & afters",
-      "category": "movies",
-      "published_iso": "2026-08-23T23:17:01Z",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/matte.jpg",
-      "excerpt": "Production designer Brandon Tonner-Connolly breaks down a hand-painted glass matte shot on 'Teenage Sex and Death at Camp Miasma' — an in-camera answer to effects work that would default to digital or generative today."
-    }
-  ]
+ "date": "2026-08-26",
+ "section": "movies",
+ "window_hours": 336,
+ "items": [
+  {
+   "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
+   "source": "fxguide",
+   "category": "movies",
+   "published_iso": "2026-08-24T15:31:01+00:00",
+   "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Flow.jpg",
+   "excerpt": "Wonder Dynamics co-founder Nikola Todorovic walks through Autodesk Flow Studio's new 3D Editor + Canvas, which pairs interactive 3D scene construction with generative 2D video models so AI shots can be blocked and re-staged rather than re-rolled from prompts."
+  },
+  {
+   "url": "https://postperspective.com/editshare-to-update-efs-flow-ai-and-mediasilo-at-ibc/",
+   "source": "postPerspective",
+   "category": "movies",
+   "published_iso": "2026-08-25T19:26:18+00:00",
+   "og_image": "https://postperspective.com/wp-content/uploads/2026/08/EditShare.jpg",
+   "excerpt": "EditShare is bringing GPU-powered Flow AI processing into its EFS storage nodes at IBC, expanding AI-assisted transcription and search to 13 languages so post teams can hunt footage across international content from inside the MAM."
+  },
+  {
+   "url": "https://postperspective.com/emmy-alien-earth-vfx-supervisor-aladino-debert-talks-workflow/",
+   "source": "postPerspective",
+   "category": "movies",
+   "published_iso": "2026-08-24T15:34:23+00:00",
+   "og_image": "https://postperspective.com/wp-content/uploads/2026/08/ALN_selectedStills_v11.jpg",
+   "excerpt": "Emmy-nominated VFX supervisor Aladino Debert breaks down the shot pipeline behind Noah Hawley's 'Alien: Earth,' including how synthetic-human effects and creature work were split across vendors."
+  },
+  {
+   "url": "https://postperspective.com/emmy-nominated-dp-marshall-adams-on-pluribus-look-workflow/",
+   "source": "postPerspective",
+   "category": "movies",
+   "published_iso": "2026-08-25T14:57:19+00:00",
+   "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Pluribus_102_00364F-copyWEB-1.jpg",
+   "excerpt": "DP Marshall Adams details the camera, lensing and color workflow he built with Vince Gilligan for Apple TV's 'Pluribus,' and how the look was locked from set through the DI."
+  },
+  {
+   "url": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
+   "source": "The Hollywood Reporter",
+   "category": "movies",
+   "published_iso": "2026-08-12T20:19:09+00:00",
+   "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/BillyJoelAI1.jpg?w=1440&h=810&crop=1",
+   "excerpt": "A filmmaker who recovered a lost Billy Joel radio interview rebuilt the singer as an AI performer to carry the documentary — a test case for synthetic re-creation of a living artist who never consented."
+  },
+  {
+   "url": "https://variety.com/2026/biz/news/motion-picture-association-deal-bytedance-ip-ai-seedance-1236836240/",
+   "source": "Variety",
+   "category": "movies",
+   "published_iso": "2026-08-17T13:38:44+00:00",
+   "og_image": "https://variety.com/wp-content/uploads/2026/02/Screenshot-2026-02-20-at-5.13.47-PM.png?w=1000&h=563&crop=1",
+   "excerpt": "The MPA and ByteDance struck an IP-protection agreement covering the Seedance video models, TikTok and other products, setting guardrails on what studio-owned characters and footage generative video tools will reproduce."
+  },
+  {
+   "url": "https://www.cartoonbrew.com/business/wildbrain-acquires-personality-ai-265896.html",
+   "source": "Cartoon Brew",
+   "category": "movies",
+   "published_iso": "2026-08-24T16:19:51+00:00",
+   "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hey-Peppa-Pig.jpg",
+   "excerpt": "WildBrain is buying Personality AI, the company behind conversational 'Hey Peppa Pig' experiences, folding real-time GenAI character performance into a legacy kids IP catalogue."
+  },
+  {
+   "url": "https://www.cartoonbrew.com/anime/jaadugar-behind-the-scenes-science-saru-265944.html",
+   "source": "Cartoon Brew",
+   "category": "movies",
+   "published_iso": "2026-08-25T13:11:20+00:00",
+   "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Jaadugar-BTS.jpg",
+   "excerpt": "Naoko Yamada, Abel Gongora and Kenichi Yoshida walk through how Science Saru translated Tomato Soup's manga artwork and pacing into animation for 'Jaadugar: A Witch In Mongolia' — a fully hand-authored process detailed shot by shot."
+  },
+  {
+   "url": "https://www.cartoonbrew.com/feature-film/michel-gange-saga-of-rex-trailer-265869.html",
+   "source": "Cartoon Brew",
+   "category": "movies",
+   "published_iso": "2026-08-21T19:41:21+00:00",
+   "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Saga-of-Rex.jpg",
+   "excerpt": "'The Iron Giant,' 'Ratatouille' and 'Spider-Verse' veteran Michel Gagne created, directed and animated the 60-minute feature 'The Saga of Rex' almost entirely by himself — a one-artist production model arriving as studios pitch automated pipelines."
+  },
+  {
+   "url": "https://www.awn.com/news/joseph-bell-releases-2026-visual-effects-animation-world-atlas",
+   "source": "Animation World Network",
+   "category": "movies",
+   "published_iso": "2026-08-25T18:55:06+00:00",
+   "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/vfx-atlas-hero-books_2026b-1280.jpg?itok=eqDO5z1u",
+   "excerpt": "Joseph Bell's third annual free VFX & Animation World Atlas charts 140,000+ artists at 2,900 companies, finds 2.7% net industry growth, and says the data shows no evidence AI has cut VFX jobs."
+  },
+  {
+   "url": "https://www.awn.com/animationworld/vale-origins-ai-through-lens-grief-and-creativity",
+   "source": "Animation World Network",
+   "category": "movies",
+   "published_iso": "2026-08-21T23:29:14+00:00",
+   "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/thevaleorigins-stills-01-1280.jpg?itok=xpoCv2qi",
+   "excerpt": "Abigail Hing Wen's hybrid animated/live-action short follows parents who turn a grieving child's drawings into an AI-powered virtual sanctuary — a film about generative AI made deliberately without it."
+  },
+  {
+   "url": "https://beforesandafters.com/2026/08/25/six-thousand-people-made-a-three-minute-film-about-a-future-worth-living-in/",
+   "source": "befores & afters",
+   "category": "movies",
+   "published_iso": "2026-08-24T22:09:30+00:00",
+   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/moonshots3.jpeg",
+   "excerpt": "Six thousand entrants each cut a three-minute film about a future worth living in; ten finalists present live in downtown LA on Sept 25, with the winner taking a $2.5M grant to actually build it."
+  },
+  {
+   "url": "https://beforesandafters.com/2026/08/25/dont-miss-ilps-vfx-breakdown-for-the-mandalorian-and-grogu/",
+   "source": "befores & afters",
+   "category": "movies",
+   "published_iso": "2026-08-25T02:24:48+00:00",
+   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/ILP.jpg",
+   "excerpt": "Important Looking Pirates' breakdown for 'The Mandalorian and Grogu' shows how Zeb and the film's environments were built, layer by layer, from plate to final composite."
+  },
+  {
+   "url": "https://beforesandafters.com/2026/08/25/vfx-breakdown-star-city-by-dneg/",
+   "source": "befores & afters",
+   "category": "movies",
+   "published_iso": "2026-08-24T22:30:44+00:00",
+   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Star-City-_-VFX-Breakdown-_-DNEG-2-16-screenshot.jpg",
+   "excerpt": "DNEG's shot-by-shot breakdown for 'Star City' walks through the environment builds, digital doubles and destruction work behind the film's largest sequences."
+  },
+  {
+   "url": "https://www.artofvfx.com/supergirl-stephane-naze-and-benjamin-loch-vfx-supervisors-framestore/",
+   "source": "The Art of VFX",
+   "category": "movies",
+   "published_iso": "2026-08-25T14:45:00+00:00",
+   "og_image": "https://www.artofvfx.com/wp-content/uploads/2026/08/Supergirl_GeoffreyBaumann_ITW_11.jpg",
+   "excerpt": "Framestore VFX supervisors Stephane Naze and Benjamin Loch detail the flight, creature and environment work on 'Supergirl,' and how the team divided shots across facilities."
+  },
+  {
+   "url": "https://www.artofvfx.com/percy-jackson-and-the-olympians-season-2-inside-the-vfx-by-storm-studios/",
+   "source": "The Art of VFX",
+   "category": "movies",
+   "published_iso": "2026-08-25T12:00:00+00:00",
+   "og_image": "https://www.artofvfx.com/wp-content/uploads/2026/08/PercyJackson_S2_StormStudios_VFX.jpg",
+   "excerpt": "Oslo's Storm Studios explains the creeping vines, teleporting taxis and rock-like Sirens of 'Percy Jackson and the Olympians' season two, including the custom simulation setups behind them."
+  },
+  {
+   "url": "https://www.artofvfx.com/for-all-mankind-season-5-dneg-builds-a-bigger-happy-valley/",
+   "source": "The Art of VFX",
+   "category": "movies",
+   "published_iso": "2026-08-24T12:00:00+00:00",
+   "og_image": "https://www.artofvfx.com/wp-content/uploads/2026/08/ForAllMankind_S5_DNEG_VFX.jpg",
+   "excerpt": "DNEG expanded Happy Valley for 'For All Mankind' season five, delivering the K-Station explosion, agricultural dome destruction and a full-CG spacecraft launch."
+  },
+  {
+   "url": "https://vfxvoice.com/base-fx-works-on-creatures-big-and-small-for-beef-season-2/",
+   "source": "VFX Voice",
+   "category": "movies",
+   "published_iso": "2026-08-25T16:10:22+00:00",
+   "og_image": "https://vfxvoice.com/wp-content/uploads/2026/08/PIX-16-Logo2.jpg",
+   "excerpt": "Base FX turned 'Beef' season two into a creature showcase — ants, bees, a coyote attack and CG aircraft — and walks through the sims and asset builds that made the invisible work land."
+  },
+  {
+   "url": "https://80.lv/articles/inside-vfx-of-percy-jackson-and-the-olympians-season-2/",
+   "source": "80 Level",
+   "category": "movies",
+   "published_iso": "2026-08-25T13:01:00+00:00",
+   "og_image": "https://cdn.80.lv/api/upload/meta/49881/images/6a8d92175351a/contain_1200x630.jpg",
+   "excerpt": "A closer look at how 'Percy Jackson and the Olympians' season two's rock-like Sirens were built with custom Bullet and Vellum solvers rather than off-the-shelf presets."
+  },
+  {
+   "url": "https://www.provideocoalition.com/making-of-lord-of-the-flies-shot-with-pocket-cinema-camera-6k-pro/",
+   "source": "ProVideo Coalition",
+   "category": "movies",
+   "published_iso": "2026-08-24T17:19:49+00:00",
+   "og_image": "https://www.provideocoalition.com/wp-content/uploads/makinglorofflies001.jpg",
+   "excerpt": "A making-of on the new 'Lord of the Flies' adaptation shot on Blackmagic's Pocket Cinema Camera 6K Pro, covering the small-camera rigging and grading choices that carried a feature look."
+  },
+  {
+   "url": "https://motionographer.com/quickie/off-scratch-believe-tv/",
+   "source": "Motionographer",
+   "category": "movies",
+   "published_iso": "2026-08-24T11:18:38+00:00",
+   "og_image": "https://s35726.pcdn.co/wp-content/uploads/2026/08/06.png",
+   "excerpt": "Believe.tv's 'OFF! Scratch' spot leans on tactile, hand-built motion design and character animation — a reminder of what a fully art-directed frame still buys you."
+  },
+  {
+   "url": "https://nofilmschool.com/new-mac-studio-models",
+   "source": "No Film School",
+   "category": "movies",
+   "published_iso": "2026-08-25T16:35:29+00:00",
+   "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67674924&width=1200&height=600",
+   "excerpt": "Apple's new Mac Studio with M5 Max and M5 Ultra is pitched squarely at on-device AI, and No Film School digs into which of those gains actually reach video editors and colorists."
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=ZY628bslSYY",
+   "source": "Matt Wolfe (YouTube)",
+   "category": "movies",
+   "published_iso": "2026-08-24T12:18:26+00:00",
+   "og_image": "https://i.ytimg.com/vi/ZY628bslSYY/maxresdefault.jpg",
+   "excerpt": "Tencent's WorldClaw generates an entire editable 3D world from a text prompt rather than a flat video clip — a demo of prompt-to-set that lands closer to previs and virtual production than to text-to-video."
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=WblcgjjbuE4",
+   "source": "Corridor Crew (YouTube)",
+   "category": "movies",
+   "published_iso": "2026-08-23T16:00:32+00:00",
+   "og_image": "https://i.ytimg.com/vi/WblcgjjbuE4/maxresdefault.jpg",
+   "excerpt": "Corridor Crew's artists try to hit a 1990s VFX pipeline with 1990s constraints, exposing how much of today's speed is tooling rather than craft."
+  }
+ ]
 }

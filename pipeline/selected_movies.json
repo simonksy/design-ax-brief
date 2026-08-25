@@ -1,66 +1,68 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "movies",
   "picks": [
     {
       "tool": "Movies",
-      "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://www.cined.com/testing-seedance-2-5-with-elaborate-prompting-new-module-in-directing-the-future-ethical-ai-video-for-filmmakers/",
-      "source": "CineD",
-      "published_iso": "2026-08-21T13:58:01Z",
-      "og_image": "https://www.cined.com/content/uploads/2026/08/testing_higgsfield_new_lesson-feature_image.jpg",
-      "excerpt": "Drew Geraci stress-tests Seedance 2.5 with long-form, shot-designed prompts in a new MZed module on ethical AI video, showing how directing language (lens, blocking, continuity) changes generated output.",
-      "rationale": "Turns prompting into directing craft — concrete language for lens, blocking and continuity that a filmmaker can apply to the next shot list."
+      "url": "https://www.youtube.com/watch?v=ZY628bslSYY",
+      "source": "Matt Wolfe (YouTube)",
+      "published_iso": "2026-08-24T12:18:26+00:00",
+      "og_image": "https://i.ytimg.com/vi/ZY628bslSYY/maxresdefault.jpg",
+      "excerpt": "Tencent's WorldClaw generates an entire editable 3D world from a text prompt rather than a flat video clip — a demo of prompt-to-set that lands closer to previs and virtual production than to text-to-video.",
+      "rationale": "Prompt-to-editable-3D-world moves generative AI out of the flat-clip trap and straight into previs/virtual-production territory."
     },
     {
       "tool": "Movies",
-      "category": "movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
-      "source": "fxguide",
-      "published_iso": "2026-08-11T10:45:46Z",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/07/fxg-featured-iohp-v3.jpg",
-      "excerpt": "LA studio Impossible Objects is running AI models locally on HP ZGX Nano desktops, folding artist-driven generative workflows in alongside traditional VFX tools without shipping client plates to the cloud.",
-      "rationale": "A working studio's answer to NDA-bound generative work: local inference on a desk-side box, no client plates leaving the building."
+      "url": "https://www.awn.com/news/joseph-bell-releases-2026-visual-effects-animation-world-atlas",
+      "source": "Animation World Network",
+      "published_iso": "2026-08-25T18:55:06+00:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/vfx-atlas-hero-books_2026b-1280.jpg?itok=eqDO5z1u",
+      "excerpt": "Joseph Bell's third annual free VFX & Animation World Atlas charts 140,000+ artists at 2,900 companies, finds 2.7% net industry growth, and says the data shows no evidence AI has cut VFX jobs.",
+      "rationale": "A free, citable dataset on 2,900 studios that directly contradicts the AI-job-loss narrative — rare hard numbers in a debate run on vibes."
     },
     {
       "tool": "Movies",
-      "category": "movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "url": "https://www.provideocoalition.com/sp-studios-uses-brompton-hydra-to-transform-virtual-production/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-08-18T11:21:00Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/bromptonredrock001.jpg",
-      "excerpt": "SP Studios rebuilt its LED volume workflow around Brompton Hydra, changing how in-camera VFX shots are lit, calibrated and captured on set.",
-      "rationale": "Concrete on-set pipeline change for ICVFX — how the volume is calibrated and lit rewrites what has to be fixed in post."
+      "url": "https://postperspective.com/editshare-to-update-efs-flow-ai-and-mediasilo-at-ibc/",
+      "source": "postPerspective",
+      "published_iso": "2026-08-25T19:26:18+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/EditShare.jpg",
+      "excerpt": "EditShare is bringing GPU-powered Flow AI processing into its EFS storage nodes at IBC, expanding AI-assisted transcription and search to 13 languages so post teams can hunt footage across international content from inside the MAM.",
+      "rationale": "AI transcription and search moving into the storage node means footage hunting happens where the media already lives — a concrete change to post workflow."
     },
     {
       "tool": "Movies",
-      "category": "movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "url": "https://www.youtube.com/watch?v=gnp86XUSzgg",
-      "source": "Curious Refuge (YouTube)",
-      "published_iso": "2026-08-21T22:57:00Z",
-      "og_image": "https://i.ytimg.com/vi/gnp86XUSzgg/maxresdefault.jpg",
-      "excerpt": "Curious Refuge walks through Apple's new photoreal personal-avatar cloning and what near-perfect digital doubles mean for performance capture and on-camera talent in AI filmmaking.",
-      "rationale": "Consumer-grade photoreal digital doubles land straight on the performance-capture and likeness-consent questions productions are deciding right now."
+      "url": "https://www.cartoonbrew.com/business/wildbrain-acquires-personality-ai-265896.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-08-24T16:19:51+00:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hey-Peppa-Pig.jpg",
+      "excerpt": "WildBrain is buying Personality AI, the company behind conversational 'Hey Peppa Pig' experiences, folding real-time GenAI character performance into a legacy kids IP catalogue.",
+      "rationale": "A major IP holder buying real-time conversational character tech outright signals where legacy catalogues are heading next."
     },
     {
       "tool": "Movies",
-      "category": "movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "url": "https://beforesandafters.com/2026/08/24/how-the-camp-miasma-team-used-a-glass-matte-painting-shot-in-their-film/",
-      "source": "befores & afters",
-      "published_iso": "2026-08-23T23:17:01Z",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/matte.jpg",
-      "excerpt": "Production designer Brandon Tonner-Connolly breaks down a hand-painted glass matte shot on 'Teenage Sex and Death at Camp Miasma' — an in-camera answer to effects work that would default to digital or generative today.",
-      "rationale": "A repeatable in-camera technique breakdown — the cheapest way to get an effect that would otherwise be a generative or CG line item."
+      "url": "https://nofilmschool.com/new-mac-studio-models",
+      "source": "No Film School",
+      "published_iso": "2026-08-25T16:35:29+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67674924&width=1200&height=600",
+      "excerpt": "Apple's new Mac Studio with M5 Max and M5 Ultra is pitched squarely at on-device AI, and No Film School digs into which of those gains actually reach video editors and colorists.",
+      "rationale": "Separates the on-device AI marketing from the gains that actually show up in an edit or grade — a real purchasing decision this quarter."
     }
+  ],
+  "dedup_notes": [
+    "DROPPED: fxguide 'Nikola Todorovic on Autodesk Flow Studio's new 3D Editor + Canvas' — same URL already published 2026-08-25 in the design section (card design-flow-studio). Cross-section repeat.",
+    "DROPPED: Variety 'MPA deal with ByteDance on Seedance IP' — same event already published 2026-08-19 in movies as movies-mpa-bytedance-mou (The Hollywood Reporter).",
+    "DROPPED (within-pool dup): 80 Level 'Inside VFX of Percy Jackson S2' duplicates The Art of VFX 'Percy Jackson S2 — Storm Studios'; neither selected.",
+    "DROPPED (content hub): befores & afters shipped three near-identical VFX-breakdown posts the same day (ILP Mandalorian, DNEG Star City, Moonshots); none selected.",
+    "Final 5 use 5 distinct outlets — no outlet appears twice."
   ]
 }

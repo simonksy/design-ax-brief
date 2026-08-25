@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "section": "movies",
   "media": [
     {
-      "id": "movies-seedance-25",
-      "type": "image",
-      "src": "pipeline/media/movies-seedance-25.jpg"
-    },
-    {
-      "id": "movies-impossible-objects",
-      "type": "image",
-      "src": "pipeline/media/movies-impossible-objects.jpg"
-    },
-    {
-      "id": "movies-sp-hydra",
-      "type": "image",
-      "src": "pipeline/media/movies-sp-hydra.jpg"
-    },
-    {
-      "id": "movies-apple-headsup",
+      "id": "movies-worldclaw-3d",
       "type": "video",
-      "src": "pipeline/media/movies-apple-headsup.mp4",
-      "poster": "pipeline/media/movies-apple-headsup.jpg"
+      "src": "pipeline/media/movies-worldclaw-3d.mp4",
+      "poster": "pipeline/media/movies-worldclaw-3d.jpg"
     },
     {
-      "id": "movies-glass-matte",
+      "id": "movies-vfx-atlas-2026",
       "type": "image",
-      "src": "pipeline/media/movies-glass-matte.jpg"
+      "src": "pipeline/media/movies-vfx-atlas-2026.jpg"
+    },
+    {
+      "id": "movies-editshare-flow-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-editshare-flow-ai.png"
+    },
+    {
+      "id": "movies-wildbrain-personality-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-wildbrain-personality-ai.jpg"
+    },
+    {
+      "id": "movies-mac-studio-m5",
+      "type": "image",
+      "src": "pipeline/media/movies-mac-studio-m5.jpg"
     }
   ]
 }
