@@ -1,32 +1,33 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "movies",
   "media": [
     {
-      "id": "movies-worldclaw-3d",
+      "id": "movies-flow-studio-3d",
       "type": "video",
-      "src": "pipeline/media/movies-worldclaw-3d.mp4",
-      "poster": "pipeline/media/movies-worldclaw-3d.jpg"
+      "src": "pipeline/media/movies-flow-studio-3d.mp4",
+      "poster": "pipeline/media/movies-flow-studio-3d.jpg"
     },
     {
-      "id": "movies-vfx-atlas-2026",
+      "id": "movies-human-gen-workflows",
       "type": "image",
-      "src": "pipeline/media/movies-vfx-atlas-2026.jpg"
+      "src": "pipeline/media/movies-human-gen-workflows.jpg"
     },
     {
-      "id": "movies-editshare-flow-ai",
+      "id": "movies-lineo-producers",
       "type": "image",
-      "src": "pipeline/media/movies-editshare-flow-ai.png"
+      "src": "pipeline/media/movies-lineo-producers.jpg"
     },
     {
-      "id": "movies-wildbrain-personality-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-wildbrain-personality-ai.jpg"
+      "id": "movies-unreleased-video-models",
+      "type": "video",
+      "src": "pipeline/media/movies-unreleased-video-models.mp4",
+      "poster": "pipeline/media/movies-unreleased-video-models.jpg"
     },
     {
-      "id": "movies-mac-studio-m5",
+      "id": "movies-busan-innoasia",
       "type": "image",
-      "src": "pipeline/media/movies-mac-studio-m5.jpg"
+      "src": "pipeline/media/movies-busan-innoasia.jpg"
     }
   ]
 }

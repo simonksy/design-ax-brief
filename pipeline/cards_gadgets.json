@@ -1,16 +1,16 @@
 {
- "date": "2026-08-26",
+ "date": "2026-08-27",
  "section": "gadgets",
  "cards": [
   {
-   "id": "gadgets-nothing-os5",
+   "id": "gadgets-android-xr-translate",
    "eyebrow": "AI NEWS",
-   "headline": "낫싱 OS 5.0, 폰의 겉과 속을\n같은 디자인 언어로 다시 맞춘다",
-   "body": "안드로이드 17 위에서 Geist 폰트와 투명 위젯을 얹어 카메라부터 런처까지 한 번에 손봤다.",
-   "mini_headline": "낫싱 OS 5.0 디자인 통합",
+   "headline": "구글이 안드로이드 XR 번역에서\n앞사람만 골라 듣는 모드를 시험한다",
+   "body": "구글 라이브 번역이 앞사람만 듣는 모드와 주변 전체를 듣는 모드로 갈린다.",
+   "mini_headline": "앞사람만 골라 듣는 번역",
    "tool": "Gadgets",
-   "source": "Digital Trends",
-   "url": "https://www.digitaltrends.com/phones/nothing-os-5-0-wants-you-to-stop-switching-apps-and-start-living-in-your-phone/",
+   "source": "Road to VR",
+   "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
    "accent": "#ff5a4d",
    "motif": "headset",
    "full": {
@@ -18,308 +18,227 @@
     "blocks": [
      {
       "t": "p",
-      "x": "낫싱이 Nothing OS 5.0을 공식화했다. 최근 회사 업데이트 영상에서 보여준 목표는 하나로 모인다. 따로 만들어 붙인 두 물건처럼 겉돌던 하드웨어와 소프트웨어를, 같은 머리에서 나온 하나로 느껴지게 만드는 일이다."
-     },
-     {
-      "t": "p",
-      "x": "낫싱 디자인 총괄은 Phone 1 때부터 하드웨어와 소프트웨어가 한 제품처럼 느껴지길 바랐다고 말했다. Ear 1에서 시작한 산업디자인 언어는 폰으로 넘어왔지만 소프트웨어는 한참 뒤에야 따라붙었다. OS 5.0은 그 간극이 마침내 메워지는 버전으로 소개됐다."
-     },
-     {
-      "t": "video",
-      "yt": "42BR1TMtz9c"
-     },
-     {
-      "t": "p",
-      "x": "마케팅과 플레이그라운드에서만 쓰던 Geist 폰트가 OS 안으로 들어온다. 투명도도 더 밀어붙여, 위젯이 배경화면 위에 납작하게 뜨는 대신 깊이를 갖고 얹힌다. 타이포그래피와 아이콘, 색을 아우르는 이 설계가 카메라와 갤러리, 위젯, 설정, 런처에 그대로 적용된다."
-     },
-     {
-      "t": "p",
-      "x": "고쳐 쓸 여지도 늘었다. 잠금화면 시계는 매끈하고 단순한 것, 터미널처럼 빽빽한 것 두 가지가 추가된다. 초기 설정은 단순해졌고, 홈 화면 요소를 하나씩 끌지 않고 한꺼번에 옮기는 일괄 편집도 들어왔다."
+      "x": "구글이 안드로이드 XR의 Google Live Translate에 '청취 영역(Listening area)'이라는 새 모드를 시험하고 있다고 한다. 곧 줄줄이 나올 구글 스마트 안경의 간판 기능이 될 법한 물건이다."
      },
      {
       "t": "img",
-      "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-new-clock-design.jpg?resize=2000%2C1200",
-      "cap": "잠금화면에 새로 추가된 시계 두 가지"
+      "src": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
+      "cap": "안드로이드 XR을 얹은 워비파커 안경"
      },
      {
       "t": "p",
-      "x": "글리프에는 전용 앱이 생긴다. 좋아하면서도 설정은 까다롭다는 반응을 낫싱도 인정했고, 글리프 인터페이스를 쉽게 손보게 해주는 앱을 따로 낸다. 위젯도 둘 늘었다. 폰을 내려놓게 유도하는 사용 중단 시간 추적기, 아끼는 물건 사진을 홈 화면 스티커로 바꿔주는 컬렉션 위젯이다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-New-widgets.jpg?resize=2000%2C1200",
-      "cap": "새로 들어온 위젯 두 종류"
+      "x": "구글은 안드로이드 XR에 실시간 번역을 넣겠다고 늘 말해왔으니 새삼스러울 건 없다. 말하는 사람의 톤과 목소리 높낮이까지 살린 번역 음성, 메뉴판이나 표지판 같은 글자 번역까지 스마트 안경으로 해내겠다는 약속이었다."
      },
      {
       "t": "p",
-      "x": "Essential Suite도 손봤다. 말로 폰을 다루는 Essential Voice는 모델과 지연 시간, 받아쓰기 정확도를 계속 다듬는다. 흘려버리기 쉬운 메모와 파일을 모아두는 Essential Space에는 스마트 컬렉션과 MCP 지원이 붙어, 쓰던 AI 도구를 자기 데이터에 바로 연결한다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-Collections-in-Essential-Space.jpg?resize=2000%2C1200",
-      "cap": "Essential Space에 붙는 스마트 컬렉션"
+      "x": "이번엔 Google Translate 앱 10.32.66 버전을 뜯어본 Android Authority가 청취 모드 두 가지를 찾아냈다. 하나는 'Front only'. 착용자 바로 앞에서 나오는 말만 옮겨 일대일 대화에 쓴다. 다른 하나는 'Surrounding area'로, 안경에 달린 마이크 어레이를 전부 동원해 주변 전체의 말소리를 번역한다."
      },
      {
       "t": "p",
-      "x": "Essential Apps 베타도 넓힌다. 폰에서 바로 위젯을 바이브 코딩으로 만들어 쓰는 기능인데, 직접 만든 메트로놈이나 출근길과 첫 회의를 끌어와 짜주는 아침 루틴 플래너 같은 예가 나왔다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-Essential-Apps.jpg?resize=2000%2C1200",
-      "cap": "폰에서 직접 만들어 쓴 위젯 예시"
+      "x": "다만 apk 코드에서 나온 기능이라 실제로 출시된다는 보장은 없다. 그래도 스마트 안경 출시를 앞두고 안드로이드 XR을 넓혀온 흐름과는 잘 맞는다. 지금까지 공개된 건 젠틀몬스터와 워비파커가 올가을 내놓는 프레임들이고, 구찌 모회사 케링의 프레임도 개발 중이라고 알려졌다."
      },
      {
       "t": "p",
-      "x": "Nothing OS 5.0은 안드로이드 17 위에 올라간다. 빠른 설정과 알림이 한 패널을 나눠 쓰지 않고 갈라졌고, 화면 녹화가 개선됐으며, 3D 이모지가 들어왔다. 개인정보 보호와 보안, 블루투스 성능도 나아졌다."
+      "x": "실시간 번역은 구글이 원래 강한 분야다. 메타의 스마트 안경과 붙어야 하는 만큼 넣을 수 있는 기능은 죄다 밀어 넣을 공산이 크다. 메타 안경에도 실시간 번역이 들어 있다."
      },
      {
       "t": "p",
-      "x": "베타는 내일 nothing.tech에서 열린다. Nothing Phone 3이 먼저고, 다른 기기로 차차 넓힌다."
+      "x": "메타 쪽 방식은 앞서 말한 'Front only'에 가깝다. 번역된 말을 안경의 오픈이어 스피커로 들려주고, 상대는 사용자 스마트폰에 뜬 번역 자막을 본다."
      }
     ]
    }
   },
   {
-   "id": "gadgets-perplexity-portable",
+   "id": "gadgets-luffu-link",
    "eyebrow": "AI NEWS",
-   "headline": "퍼플렉시티 AI가 내 PC 안에서 돌고\n클라우드는 물어본 뒤에만 쓴다",
-   "body": "작업은 내 기기에서 시작하고, 로컬 모델이 버거워하는 단계만 승인을 받아 클라우드로 넘긴다.",
-   "mini_headline": "물어보고 쓰는 로컬 AI",
+   "headline": "핏빗 창업자들이 만든 새 밴드는\n화면을 지우고 목소리로 기록한다",
+   "body": "핏빗 창업자들의 250달러 LTE 밴드는 화면을 지우고 마이크와 스피커만 남겼다.",
+   "mini_headline": "화면 없는 LTE 밴드",
    "tool": "Gadgets",
-   "source": "Tom's Guide",
-   "url": "https://www.tomsguide.com/ai/perplexitys-new-local-first-ai-runs-on-your-pc-and-asks-before-using-the-cloud",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/screenless-luffu-link-is-the-next-wearable-from-the-founders-of-fitbit-2000803479",
    "accent": "#0070f3",
-   "motif": "headset",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "AI 비서는 대개 질문과 파일, 데이터를 남의 서버로 보내야 움직인다. 퍼플렉시티가 내놓은 Portable Computer는 그 구조를 뒤집어, AI 시스템 전체를 사용자가 가진 하드웨어에서 돌린다."
-     },
-     {
-      "t": "p",
-      "x": "화요일 공개된 이 제품은 퍼플렉시티의 에이전트 플랫폼 Computer를 Nvidia DGX Spark, 그리고 호환 Nvidia 그래픽카드를 단 리눅스 머신으로 옮겨왔다."
-     },
-     {
-      "t": "p",
-      "x": "회사 설명으로는 모든 작업이 내 기기에서 시작한다. 로컬 모델이 더 깊은 추론이 필요한 단계에 닿으면, 그 단계만 클라우드의 프런티어 모델로 보내도 되는지 먼저 묻는다. 답은 다시 로컬 작업 흐름으로 돌아오고 파일과 민감한 정보는 기기에 남는다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/oW2jKymtiv2rQ7N8Fqenh8.jpg",
-      "cap": "내 하드웨어에서 도는 에이전트 (이미지 출처: Shutterstock)"
-     },
-     {
-      "t": "p",
-      "x": "AI 에이전트의 편의는 원하면서도 에이전트가 손대는 모든 것을 클라우드 사업자에게 자동으로 넘기기는 싫은 사람이라면 솔깃할 만한 그림이다."
-     },
-     {
-      "t": "p",
-      "x": "오픈 모델을 내려받아 내 컴퓨터에서 돌리는 일은 이미 가능하다. 어려운 쪽은 그 모델을 파일을 다루고 도구를 쓰며 여러 단계를 끝내는 에이전트로 만드는 작업이다."
-     },
-     {
-      "t": "p",
-      "x": "보통은 추론 엔진과 에이전트 하네스, 샌드박스, 외부 앱을 붙일 커넥터를 직접 찾아 설정해야 했다. 조각들이 서로 맞물리게 하는 책임도 사용자 몫이었다."
-     },
-     {
-      "t": "p",
-      "x": "Portable Computer는 그 스택을 한 덩어리로 묶었다. 로컬 모델과 추론 엔진, 에이전트 도구, 앱 커넥터, 코드를 실행하고 도구를 쓰는 격리 샌드박스가 함께 들어간다."
-     },
-     {
-      "t": "p",
-      "x": "컴퓨터에 저장된 파일을 다루고 PDF를 읽으며 셸 명령을 실행한다. 받아쓰기와 웹 검색도 한다. Google Drive와 Gmail, Slack, GitHub 같은 서비스도 연결한다."
-     },
-     {
-      "t": "p",
-      "x": "코드와 도구 사용은 로컬 샌드박스 안에서 일어난다고 퍼플렉시티는 밝혔다. 에이전트와 나머지 기기 사이에 어느 정도 벽이 서는 셈인데, 정확히 무엇에 접근하고 권한을 어떻게 통제하는지는 더 알고 싶은 대목이다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/YwKRVzwvLwup6hDGh5bVNM.jpg",
-      "cap": "하이브리드 라우팅이 이 제품의 핵심이다 (이미지 출처: Shutterstock)"
-     },
-     {
-      "t": "p",
-      "x": "작은 로컬 모델도 파일을 찾거나 PDF에서 정보를 뽑고 단순한 몇 단계를 처리하는 데는 충분하다. 다만 OpenAI나 Anthropic, 구글의 가장 큰 모델만 한 추론력은 기대하기 어렵다."
-     },
-     {
-      "t": "p",
-      "x": "퍼플렉시티의 답은 단순하다. 모델이 확실히 감당하기 어려운 지점에 닿기 전까지 작업을 로컬에 붙들어 두고, 그 순간 해당 단계를 클라우드 모델로 넘겨도 되는지 묻는다."
-     },
-     {
-      "t": "p",
-      "x": "사용자가 프라이버시 모드를 고르거나 라우팅 규칙을 짤 일은 없다. 판단은 시스템이 작업 도중에 내리고, 넘기는 순간의 승인은 사람이 한다. 어려워질 때마다 조용히 클라우드로 빠지는 로컬 AI라면 로컬이라 부를 이유가 사라진다."
-     },
-     {
-      "t": "p",
-      "x": "로컬에서 끝낸 작업은 과금 크레딧을 쓰지 않는다고 퍼플렉시티는 말한다. 클라우드로 넘어간 몫만 사용량으로 잡힌다."
-     },
-     {
-      "t": "p",
-      "x": "출시 시점에 고를 수 있는 모델은 270억 파라미터 Qwen과 퍼플렉시티가 후처리 학습한 PPLX 27B다. Nvidia의 Nemotron 3.5 Lightning이 뒤따를 예정이고, 자기 모델과 추론 서버를 가져와 붙이는 길도 열린다."
-     },
-     {
-      "t": "p",
-      "x": "걸리는 건 하드웨어다. 소프트웨어는 리눅스에 먼저 나오고, VRAM 24GB 이상의 Nvidia 하드웨어를 요구한다. 데스크톱 크기의 Nvidia DGX Spark, DGX OS나 우분투를 돌리는 ARM·x64 컴퓨터를 지원한다. 윈도우 지원은 9월로 잡혀 있고 macOS 계획은 아직 없다."
-     },
-     {
-      "t": "p",
-      "x": "이용 대상은 Perplexity Pro와 Max, Enterprise Pro, Enterprise Max 구독자다. 구독이 맞아도 책상 아래 그만한 장비를 둔 사람은 많지 않다. 그래서 이번 첫 배포는 노트북에서 ChatGPT와 퍼플렉시티를 저울질하는 사람보다 이미 고성능 Nvidia 시스템을 굴리는 애호가와 개발자, 기업 쪽에 가깝다."
-     },
-     {
-      "t": "p",
-      "x": "발상 자체는 훨씬 넓게 퍼질 여지가 있다. AI 비서가 손대는 정보는 이메일과 업무 문서, 컴퓨터 속 파일까지 계속 사적인 영역으로 들어온다. 작업을 로컬로 더 많이 끌어오면 무엇을 언제 내보낼지 사용자가 정할 여지가 생긴다."
-     },
-     {
-      "t": "p",
-      "x": "Portable Computer가 당장 클라우드 챗봇을 대체하지는 못한다. 다만 그만한 기계값이 감당할 만해졌을 때 더 사적인 AI 비서가 어떤 모습일지는 미리 보여준다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "gadgets-apple-m6",
-   "eyebrow": "AI NEWS",
-   "headline": "애플 M6, 2나노에 듀얼 뉴럴 엔진",
-   "body": "M5보다 멀티스레드가 1.2배 빠르고, 뉴럴 엔진 두 벌이 함께 돌아 AI 모델 실행이 빨라진다.",
-   "mini_headline": "애플 첫 2나노 칩 M6",
-   "tool": "Gadgets",
-   "source": "MacRumors",
-   "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
-   "accent": "#7928ca",
    "motif": "headset",
    "full": {
     "mode": "full",
     "blocks": [
      {
       "t": "p",
-      "x": "애플이 M6 칩을 공개했다. 2나노 공정으로 만든 첫 칩이고, Dual 16-core Neural Engine을 얹었다."
+      "x": "핏빗이 구글에 인수된 뒤 회사를 떠난 공동창업자 제임스 파크와 에릭 프리드먼은 관심사를 개인의 건강에서 가족 전체의 건강으로 옮겼다. 그 그릇이 Luffu라는 스타트업, 그리고 복약을 챙기고 식사를 기록하며 보호자와 부모의 머릿속 부담을 덜어주는 AI 앱이다. 이번에 내놓은 Luffu Link는 그 생각을 한 단계 더 민 물건으로, Fitbit Air급 건강 추적에 몇 가지 주름을 더해 그냥 또 하나의 피트니스 밴드에 머물지 않는다."
      },
      {
       "t": "img",
-      "src": "https://images.macrumors.com/t/Nupss_8A02Q9UCCL40qBe1db2J8=/1672x/article-new/2026/08/m6-chip.png",
-      "cap": "애플 M6 칩"
+      "src": "https://gizmodo.com/app/uploads/2026/08/Luffu-Link-1200x675.jpg",
+      "cap": "화면을 지운 웨어러블 Luffu Link"
      },
      {
       "t": "p",
-      "x": "CPU는 M5보다 코어가 둘 늘어 12코어가 됐다. 슈퍼 코어 둘, 성능 코어 넷, 효율 코어 여섯으로 짜였다. 애플은 단일 스레드 성능이 세계에서 가장 빠르고, 멀티스레드는 M5보다 최대 1.2배, M1보다 최대 2.4배 빠르다고 밝혔다."
+      "x": "Luffu Link는 사각 금속 하우징에 버튼과 센서, LED, 마이크, 스피커를 담고 실리콘 밴드로 손목에 묶는다. 다른 웨어러블과 갈리는 첫 지점은 음성 기록이다. 버튼을 길게 누른 채 방금 먹은 밥이나 챙긴 약을 말하면 되고, 지금 기분이나 잊고 싶지 않은 일처럼 손에 잡히지 않는 것도 남길 수 있다. 이렇게 모인 말이 심박·수면·활동 추적 데이터와 함께 Luffu 앱으로 넘어가면, AI가 시간을 두고 찾아낸 패턴이 돌아온다."
+     },
+     {
+      "t": "img",
+      "src": "https://gizmodo.com/app/uploads/2026/08/luffu-app-1.jpg",
+      "cap": "기록이 쌓이는 Luffu 앱 © Luffu"
      },
      {
       "t": "p",
-      "x": "GPU도 코어가 둘 늘어 12개다. 코어마다 Neural Accelerator가 들어갔다. AI 연산 기준 최대 GPU 성능은 M5 대비 30% 가까이, M1 대비로는 8배 넘게 올라 온디바이스 LLM의 프롬프트 처리가 빨라진다."
+      "x": "두 번째로 갈리는 지점은 GPS와 무료 LTE다. 가족이 내가 다녀온 곳을 볼 수 있고, 버튼을 두 번 누르면 지금 있는 자리를 바로 알린다. LTE 덕에 폰이 곁에 없어도 가족 중 정해둔 사람에게 도움을 청한다."
      },
      {
       "t": "p",
-      "x": "셰이더 코어 구조와 Dynamic Caching, 하드웨어 가속 레이 트레이싱도 손봤다. 지오메트리 처리량은 50% 늘어 더 복잡한 그래픽을 감당한다."
+      "x": "화면이 없다는 점에서 Link는 Oura Ring 5나 Whoop 5.0처럼 늘어나는 무화면 웨어러블 무리에 든다. Luffu 공동창업자 제임스 파크는 TechCrunch 인터뷰에서 이렇게 말했다. \"이 새로운 웨어러블에는 화면을 없애는 흐름이 있는데, 여기서는 아주 의도적입니다. 우리는 배경에 있고 싶어요. Link는 하루 종일 손목에서 조용히 지키는 보호자로 설계했고, 기존 웨어러블 같은 느낌은 조금도 주고 싶지 않았습니다. 흔한 패브릭 브랜드 물건이나 화면 달린 손목 기기, 응급용으로 걸고 다니는 투박한 펜던트 같은 것 말이죠.\""
+     },
+     {
+      "t": "video",
+      "yt": "riGMmE35u4Y"
      },
      {
       "t": "p",
-      "x": "M6가 새로 들여온 Dual 16-core Neural Engine은 이전 세대 대비 최대 두 배의 피크 연산을 낸다. 시스템 프레임워크가 두 엔진을 알아서 동시에 쓰기 때문에 앱이 AI 모델을 더 빨리 돌린다."
-     },
-     {
-      "t": "p",
-      "x": "통합 메모리는 최대 32GB, 대역폭은 최대 170GB/s를 지원한다. M5보다 10%, M1보다는 2.5배 넓다."
-     },
-     {
-      "t": "p",
-      "x": "M6는 9월 22일 화요일 출시되는 새 Mac mini에 처음 들어간다."
+      "x": "Luffu Link는 지금 250달러에 예약할 수 있다. 정가 300달러에서 50달러를 깎은 값이고, 배송은 2027년 초다. LTE는 \"무료\"라지만 쓰려면 Luffu Family Plan을 끊어야 한다. 가족 네 명까지 묶어 월 20달러, 연 200달러. 건강한 가족의 입장료로는 비싼 편이고 사람마다 하나씩 사면 더 그렇다. Luffu의 소프트웨어가 그 값을 해줄지는 두고 볼 일이다."
      }
     ]
    }
   },
   {
-   "id": "gadgets-claude-firmware-hack",
+   "id": "gadgets-samsung-pim",
    "eyebrow": "AI NEWS",
-   "headline": "클로드 오퍼스에 펌웨어를 맡기자\n주변기기 다섯 대가 열렸다",
-   "body": "아마존 보안 엔지니어가 프롬프트 100개 남짓으로 13시간 만에 다섯 기기의 펌웨어 보호를 뚫었다.",
-   "mini_headline": "AI가 뚫은 주변기기 펌웨어",
+   "headline": "삼성이 모바일 메모리 안에 연산 로직을\n직접 넣어 추론을 3.01배 끌어올렸다",
+   "body": "삼성 LPDDR5X-PIM은 메모리 안에서 연산해 추론을 3.01배 끌어올린다.",
+   "mini_headline": "메모리가 직접 연산한다",
    "tool": "Gadgets",
-   "source": "TechRadar",
-   "url": "https://www.techradar.com/ai-platforms-assistants/claude/amazon-security-engineer-hacks-pc-accessories-with-claude-opus-to-make-them-work-better-asus-insta360-and-elgato-products-reverse-engineered-in-hours-for-better-control-but-engineer-admits-this-also-scares-me",
-   "accent": "#2ec5c5",
+   "source": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
+   "accent": "#7928ca",
    "motif": "headset",
    "full": {
     "mode": "summary",
     "blocks": [
      {
       "t": "p",
-      "x": "AI가 우리 기기를 위협하는 방향을 보여주는 사례가 또 나왔다. 아마존 보안 엔지니어가 PC 주변기기 역공학에서 Claude Opus가 얼마나 강한지 시연했다."
+      "x": "이달 초 삼성이 업계 첫 LPDDR5X-PIM 메모리를 내놓으며 저전력 메모리 규격 안에 연산 로직을 심었다. Hot Chips 2026에서는 그동안 HBM 스택으로만 보던 이 기술을 자세히 풀었다."
+     },
+     {
+      "t": "p",
+      "x": "PIM은 Processing-in-Memory, 메모리 안에서 연산하는 기술이다. 삼성은 2021년에 이미 시연했고 AMD 가속기의 HBM 스택으로 시범 적용했다. DRAM 셀 옆에 붙은 작은 로직이 기본 연산을 메모리 안에서 바로 처리한다. 프로세서가 병목이 되는 구간이 사라지고, 특히 AI 추론이 빨라진다. 삼성은 추론 작업에서 LPDDR5X-PIM이 일반 LPDDR5X보다 2.28배 빠르다고 말한다."
+     },
+     {
+      "t": "p",
+      "x": "LPDDR5X에 굳이 연산을 붙인 이유는 분명하다. HBM이 너무 비싸다. 하루 전 마이크론도 Hot Chips에서 HBM 웨이퍼 수요가 갈수록 나빠진다고 경고했고, 삼성은 발표 첫머리에 모두가 아는 사실을 꺼냈다. AI 칩 원가의 대부분이 메모리고 그 몫은 계속 커진다. 여기에 DDR5, 하물며 HBM의 전력 부담까지 얹으면 LPDDR5X는 PIM을 붙이기에 딱 맞는 자리다."
      },
      {
       "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa.jpg",
-      "cap": "웹캠과 마이크가 실험 대상이 됐다 (이미지 출처: Shutterstock / LightField Studios)"
+      "src": "https://cdn.mos.cms.futurecdn.net/ngfRpqo23NHKjK2VZ7eKZB.jpg",
+      "cap": "LPDDR5X에 PIM을 넣은 기본 구조 (자료: 삼성)"
      },
      {
       "t": "p",
-      "x": "아마존 시니어 보안 엔지니어 Chaz Schlarp는 웹캠과 마이크 같은 주변기기를 놓고 벌인 실험을 블로그에 적었다. 그는 AI로 펌웨어를 얼마나 쉽게 고쳐 쓸모 있는 재주를 부릴 수 있는지 알고 싶었다. 어두운 쪽도 분명하다. 같은 접근을 악의적인 쪽이 쓰면 이 기기들이 시스템을 뚫는 통로가 된다."
+      "x": "삼성은 2023년 HBM-PIM을 내놓으며 LPDDR5X-PIM 개념도 함께 꺼냈다. Hot Chips에서 공개한 건 개념이 아니라 검증까지 마친 실제 제품이다. LPDDR6X-PIM도 보고 있고, 올해 안에 JEDEC 초기 규격을 받기를 바란다고 했다."
      },
      {
       "t": "p",
-      "x": "대상은 Insta360 웹캠과 Shure 마이크, Asus 모니터, Elgato 영상 캡처 스틱, 그리고 스트리밍 조명용 Elgato 미니 라이트였다. 작업에는 Claude Opus 5를 썼다."
+      "x": "구조를 보면 메모리 뱅크마다 자기 PIM이 붙는다. 로직을 넣느라 뱅크를 잘라내야 했던 HBM-PIM에서 한 걸음 나아간 셈이다. 뱅크와 레지스터 파일이 병렬 MAC 트리로 데이터를 밀어 넣고, 계산이 끝난 출력은 벡터 레지스터 파일에 쓰인다."
      },
      {
       "t": "p",
-      "x": "Schlarp의 설명은 이렇다. \"기기마다 과정은 거의 같았다. 제조사에서 펌웨어와 업데이트 도구를 받아 내 역공학 환경에 던져 넣고, Claude Opus 5에게 목표를 알려준 뒤 돌게 놔뒀다.\""
-     },
-     {
-      "t": "p",
-      "x": "곧 분명해진 사실 하나는 이 기기들에 쓸 만한 펌웨어 무결성 보호가 없다는 점이었다. 방어를 갖춘 건 Elgato 라이트뿐이었고, 그마저 우회는 어렵지 않았다."
-     },
-     {
-      "t": "p",
-      "x": "쓸모 있는 쪽 예시도 있다. Asus ROG Swift PG42UQ 모니터에서는 '픽셀 클리닝'을 돌리라고 주기적으로 뜨는 성가신 경고창을 없앨 길을 찾았다. 아직 펌웨어에 적용하지는 않았다. 윈도우 유틸리티 DisplayWidget의 기능을 리눅스에서 돌리는 방법도 찾아, 하드웨어 조준선이나 FPS 카운터를 셸 스크립트로 단축키에 걸게 만들었다."
-     },
-     {
-      "t": "p",
-      "x": "그가 한 일 대부분은 AI에 힘든 일을 맡기면 펌웨어를 얼마나 쉽게 뒤집는지 보이는 쪽이었다. 웹캠의 녹화 표시등을 끄는 것도 그중 하나다. 감시 악성코드처럼, 카메라가 몰래 찍는 동안 사용자는 알지 못한다. 마이크도 마찬가지여서 음소거 LED가 켜져 있는데 실제로는 음소거가 아닌 상태를 평문 명령 셸로 만들어냈다."
-     },
-     {
-      "t": "p",
-      "x": "Schlarp는 이렇게 적었다. \"주변기기는 에이전트 역공학의 이상적인 표적으로 드러났다. 내 컴퓨터에 붙은 작은 컴퓨터이고, 호스트와 데이터로 연결돼 있으며, 대개 펌웨어 업데이트 수단이 있어 에이전트가 반복해 시도할 대상이 된다. 결과는 내 기계를 더 잘 통제하고 이해하게 된 것이다.\""
+      "x": "이 LPDDR5X는 단일 뱅크(기존 DRAM)와 다중 뱅크(PIM), 두 모드로 돈다. 기존 DRAM 컨트롤러를 그대로 쓰되 모드에 따라 일반 읽기·쓰기와 PIM 읽기·쓰기를 오간다. 삼성이 꼽은 난관은 기존 DRAM의 재정렬이었고, Address Align Mode(AAM)로 이를 피해 간다."
      },
      {
       "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/xyobc3yZ8F2nn4HA7tQEXY.jpg",
-      "cap": "마이크의 음소거 표시등도 무력화됐다 (이미지 출처: Shure)"
+      "src": "https://cdn.mos.cms.futurecdn.net/vvTcEhimJrGa9g4hdbkHyA.jpg",
+      "cap": "LPDDR5X-PIM 규격 슬라이드 (자료: 삼성)"
      },
      {
       "t": "p",
-      "x": "핵심은 속도다. 다섯 기기를 모두 장악하는 데 AI가 스스로 돌린 시간은 13시간, 사람이 넣은 프롬프트는 100개가 채 되지 않았다."
+      "x": "겉모습은 LPDDR5X와 크게 다르지 않다. 561볼 어레이 패키징도 같고, 64비트 랭크 두 개에 16GB 모듈을 쓴다. 핵심은 대역폭이다. LPDDR5X-9600의 최대 대역폭이 76.8GB/s인데, PIM은 데이터 이동을 줄이고 기본 연산을 제자리에서 처리해 이를 여덟 배인 614GB/s로 끌어올린다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/r8UsbsgDbedQmciQZRxczA.jpg",
+      "cap": "삼성이 공개한 성능 슬라이드 (자료: 삼성)"
      },
      {
       "t": "p",
-      "x": "Schlarp의 말이다. \"이제 하드웨어는 기기당 두어 시간, 그것도 거의 손을 떼고 기계에 맡기는 노동만으로 사실상 전부 열려 있다.\" 그는 리눅스에서 소프트웨어를 고치듯 웹캠 펌웨어에 기능을 더하는 가까운 미래를 기다린다고 했다."
+      "x": "예비 벤치마크에서 모델 실행 시간은 2.28배, 초당 토큰 수(TPS)는 3.01배 좋아졌다. 삼성은 엣지 AI 가속기에 Llama 3.1 80억 파라미터 모델을 올려 쟀다. 전력은 어떨까. PIM이 순간적으로 전력을 몰아 쓰는 탓에 최대 소비는 \"훨씬 높다\"지만, DRAM과 호스트 사이를 오가는 횟수가 줄어 전체 소비는 기존 DRAM보다 낮을 것으로 본다. \"유의미한 전력 증가는 없습니다.\" 삼성의 Karam Hwang이 한 말이다."
      },
      {
       "t": "p",
-      "x": "반대편 이야기도 그가 직접 꺼냈다. \"보안 전문가로서는 이게 여러 이유로 무섭다. 나는 컴퓨터에 붙은 어떤 기기든 악성 펌웨어 임플란트가 심겼다고 가정하고 일할 것이다. 예전에는 모델마다 상당한 투자가 필요했고 '국가 행위자'의 일로 여겨지던 작업이다.\""
-     },
-     {
-      "t": "p",
-      "x": "이런 공격의 걸림돌은 결국 노동과 시간이었다. 그래서 지금까지는 값나가는 표적을 하나씩 노리는 데 머물렀다. AI 에이전트가 그 잡일을 대신하면 같은 공격이 훨씬 흔해진다."
-     },
-     {
-      "t": "p",
-      "x": "PC에 꽂힌 주변기기가 나와 내 시스템을 뚫는 통로가 된다는 이야기다. Schlarp는 델의 상용 디스플레이에서도 루트 셸을 얻었다고 전하며 말했다. \"신뢰할 수 없는 클라이언트가 이런 것들을 건드리게 두는 게 원래도 좋은 관행은 아니었지만, 이제 속도와 규모가 달라져 위험이 훨씬 커졌다.\""
-     },
-     {
-      "t": "p",
-      "x": "더 큰 위협도 남는다. \"환경을 탐색해 정찰 정보를 똑똑한 명령·제어로 넘기고, 감염된 대상 곁의 액세서리와 사물인터넷 기기, 산업 장비로 스스로를 밀어 넣는 자가 복제 악성코드를 누군가 만든다고 상상하기까지는 아주 작은 도약만 남았다.\""
+      "x": "LPDDR5X는 최근까지 소비자 제품에만 쓰였다. 그런데 SOCAMM2 교체형 모듈 덕에 엔비디아가 Vera CPU의 메모리로 LPDDR5X를 골랐고, 인텔도 새 Crescent Island AI 가속기에 이를 쓴다. PIM을 붙여도 HBM 대역폭 근처엔 못 가지만 쓸 자리는 많다."
      }
     ]
    }
   },
   {
-   "id": "gadgets-garmin-epic",
+   "id": "gadgets-gemini-transcribe",
    "eyebrow": "AI NEWS",
-   "headline": "가민 페닉스 9는 흩어진 기록을\n하나의 여정으로 다시 묶는다",
-   "body": "무료 기능 Garmin Epic이 92일치 활동과 사진, 메모를 한 편의 요약으로 합친다.",
-   "mini_headline": "여정을 묶는 페닉스 9",
+   "headline": "구글의 새 음성 받아쓰기 모델이\n군말을 걷어내고 문장으로 다듬는다",
+   "body": "구글의 Gemini 3.5 Transcribe가 군말을 걷어내고 크롬까지 간다.",
+   "mini_headline": "군말을 걷어내는 받아쓰기",
    "tool": "Gadgets",
-   "source": "Gizmodo",
-   "url": "https://gizmodo.com/garmins-fenix-9-and-9-pro-tell-a-broader-story-about-your-physical-activity-2000802969",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/08/26/gemini-3-5-transcribe/",
+   "accent": "#2ec5c5",
+   "motif": "headset",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "구글이 Gemini 3.5 Transcribe를 내놨다. \"지금까지 가장 정밀한 음성-텍스트 변환 모델\"이라는 설명이 붙었고, 이미 자사 제품 여럿을 움직이고 있다."
+     },
+     {
+      "t": "p",
+      "x": "\"배경 소음과 복잡한 전문 용어, 말더듬 정리에 쩔쩔매는 기존 음성 인식 모델과 달리 Gemini 3.5 Transcribe는 날것의 오디오를 정확하고 다듬어진 서식 있는 텍스트로 바로 바꿉니다.\""
+     },
+     {
+      "t": "p",
+      "x": "구글 설명으로는 \"자연스러운 말투를 잡아내 의도를 더 잘 이해하고 맞춤 어휘를 알아보도록\" 만든 모델이다. Gboard의 Rambler에서 보이듯 \"화요일에 만나자, 아니 수요일\"처럼 스스로 고쳐 말하는 대목을 처리하고 \"음\", \"어\" 같은 군말을 결과에서 걷어낸다. 서식도 알아서 잡고, 목소리로 문장을 고칠 수도 있다."
+     },
+     {
+      "t": "img",
+      "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-1.jpg?quality=82&strip=all&w=1600",
+      "cap": "Gboard Rambler에서 돌아가는 Gemini 3.5 Transcribe"
+     },
+     {
+      "t": "p",
+      "x": "구글이 함께 내세운 항목은 이렇다. 단어 오류율(WER)은 Artificial Analysis 측정 기준 스트리밍 평균 4.0%, 비스트리밍 2.6%다. 시끄러운 실제 환경에서도 우편번호나 주문 번호 같은 영숫자 표현을 정확히 잡는다. 맞춤 어휘를 넣어두면 전문 용어와 독특한 철자까지 알아본다. 85개가 넘는 언어를 자동으로 알아채 받아쓰고, 미리 녹음된 오디오에서는 최대 세 명까지 화자를 구분해 타임스탬프와 함께 붙여준다. 세 명이 넘는 경우는 아직 실험 단계다."
+     },
+     {
+      "t": "p",
+      "x": "성능은 2025년의 Chirp 3 전사 모델과 견줘 \"큰 진전\"이라는 게 구글의 표현이다. 단어 오류율이 나아졌고 지연도 눈에 띄게 줄었다."
+     },
+     {
+      "t": "p",
+      "x": "\"Artificial Analysis 측정 기준으로 최종 전사까지 걸리는 시간이 70% 줄었습니다. 주요 언어와 로케일을 묶은 FLEURS 벤치마크에서도 Chirp 3를 앞서며 스트리밍 5.50%, 비스트리밍 5.04%의 단어 오류율을 기록했습니다.\""
+     },
+     {
+      "t": "img",
+      "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/gemini-3.5-audio-transcribe-1.webp",
+      "cap": "구글이 공개한 Gemini 3.5 Transcribe 자료"
+     },
+     {
+      "t": "p",
+      "x": "또 하나의 목표는 \"목소리로 일을 시키는 것\"이다. 함수 호출을 붙여 이미지 생성이나 파일 분석 같은 무거운 작업을 다른 Gemini 모델에 넘긴다. macOS용 Gemini 앱의 Speak to Window가 그 예다."
+     },
+     {
+      "t": "p",
+      "x": "macOS Gemini 앱과 안드로이드 Gboard Rambler 말고도 Google Antigravity의 프롬프트 창 마이크에서 쓸 수 있다. 여기서는 사용자가 허락하면 화면 맥락과 대화 기록을 함께 보고 파일 이름, 에이전트의 사고 과정, 열어둔 문서까지 정확히 받아쓴다. 다음 차례는 크롬 브라우저다. 웹의 어떤 입력창에서도 말로 타이핑해 답장을 부르거나 글을 쓰고, 크롬 안의 Gemini에 프롬프트를 넣게 된다."
+     },
+     {
+      "t": "p",
+      "x": "개발자는 Google AI Studio와 Google Antigravity의 Gemini API에서 공개 미리보기로 쓴다. 기업은 Gemini Enterprise Agent Platform에서 미리보기로 쓸 수 있고, Gemini Enterprise for Customer Experience에도 곧 들어간다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "gadgets-lg-cloid",
+   "eyebrow": "AI NEWS",
+   "headline": "LG와 엔비디아가 가정용 로봇에\n훈련 데이터 10만 시간을 쏟는다",
+   "body": "LG와 엔비디아가 가정 로봇 CLOiD 훈련 데이터를 10만 시간 쌓는다.",
+   "mini_headline": "10만 시간을 배우는 로봇",
+   "tool": "Gadgets",
+   "source": "Notebookcheck",
+   "url": "https://www.notebookcheck.net/Tesla-Optimus-vs-BYD-Xiao-Di-vs-LG-CLOiD-Nvidia-enters-AI-robot-segment.1379260.0.html",
    "accent": "#eb367f",
    "motif": "headset",
    "full": {
@@ -327,33 +246,33 @@
     "blocks": [
      {
       "t": "p",
-      "x": "가민이 얼마 전 화면 없는 웨어러블을 처음 내놨고, 새 스마트워치가 대기 중이라는 유출도 계속 흘러나왔다. 그 시계가 나왔다. Garmin Fenix 9와 Fenix 9 Pro다. 하드웨어는 Fenix 8보다 나아졌지만, 스포츠 색채가 옅은 경쟁사들과 마찬가지로 진짜 이야기는 소프트웨어 쪽에 있다."
+      "x": "LG와 엔비디아가 서울에서 로봇 협력을 크게 넓힌다. 양재 LG 연구 캠퍼스에 새로 세운 데이터 팩토리가 2026년이 끝나기 전까지 훈련 데이터 10만 시간을 만들어낸다. LG는 제조와 물류, 실제 로봇 투입에서 나온 데이터를 합성 데이터와 섞고, 엔비디아는 Omniverse와 Cosmos, Isaac 로보틱스 플랫폼을 댄다."
      },
      {
       "t": "img",
-      "src": "https://gizmodo.com/app/uploads/2026/08/20260428_SOCIAL_RECOD_3740.jpg",
-      "cap": "Garmin Fenix 9"
+      "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-Data-Factory_01_cr.jpg",
+      "cap": "서울에서 손님을 맞는 LG의 AI 로봇 CLOiD"
      },
      {
       "t": "p",
-      "x": "Fenix 9는 43mm와 47mm, 51mm 세 가지로 나온다. 모두 사파이어 렌즈로 덮은 원형 AMOLED를 쓴다. AMOLED를 선택 사양으로 뒀던 Fenix 8과 달리 이제 라인업의 기본이고, 밝기는 이전 모델의 두 배다. 다이빙은 10 ATM까지 견디고, 배터리는 가장 작은 크기에서 최대 10일 간다. 오프라인 지도와 로컬 음악 재생을 위해 내부 저장공간 64GB를 넣었다. 밝기를 조절하는 내장 손전등, 음성 명령과 통화를 받는 마이크와 스피커도 들어간다. 가민의 새 신축성 ComfortFit 밴드와도 맞물린다."
+      "x": "LG의 CLOiD 로봇은 그대로 옮겨 지은 생활 공간과 시뮬레이션으로 짠 제조·물류 공정 안에서 배운다. 테슬라나 BYD의 방식과 갈리는 지점 하나는 다리다. CLOiD는 두 발로 걷지 않고 바퀴 달린 베이스 위에서 움직인다."
+     },
+     {
+      "t": "p",
+      "x": "이렇게 모은 데이터는 LG의 Robot Foundation Model로 들어가 휴머노이드 로봇의 재주를 키운다. CLOiD는 이미 냉장고에서 우유를 꺼내고 오븐을 다루고 옷을 개어 쌓는 집안일을 연습한다. 팔은 두 개, 각각 자유도가 7이고, 손에는 따로따로 힘을 내는 손가락이 다섯 개 달렸다. 1X NEO도 가정용을 겨냥하고, Agility Digit과 Apptronik Apollo는 물류와 산업 쪽에 더 가깝다."
      },
      {
       "t": "img",
-      "src": "https://gizmodo.com/app/uploads/2026/08/87619-2-D.jpg",
-      "cap": "Fenix 9 Pro는 전면 티타늄 몸체다 (© Garmin)"
+      "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-Data-Factory_04_cr.jpg",
+      "cap": "LG가 양재에 세운 로봇 데이터 팩토리"
      },
      {
       "t": "p",
-      "x": "Fenix 9 Pro는 같은 세 가지 크기에 전면 티타늄 몸체를 얹었다. 사파이어 렌즈로 보호한 AMOLED는 51mm 모델에서 1.5인치까지 커진다. 태양광 충전 디스플레이, 오프그리드에서 메시지와 날씨를 받는 inReach 위성 연결은 선택 사양이다. 마이크와 스피커, 손전등은 일반 모델과 같지만 Pro의 조명에는 빨강과 초록이 더 있다."
+      "x": "LG는 로봇 사업 자체를 키우고 있다. 7월에 로봇 사업을 전담하는 센터를 세웠고, 산업용·서비스용에 더해 가정용 로봇까지 내놓을 계획이다. 그사이 중국과 미국에서는 경쟁이 달아오른다. 테슬라는 범용 휴머노이드로 옵티머스를 만들고, BYD는 제조 작업용 샤오디를, 샤오펑은 Iron을, 유비테크는 산업용 Walker S2를 밀고 있다. G1과 H2를 내놓은 유니트리도 중국을 대표하는 로봇 회사 가운데 하나다."
      },
      {
       "t": "p",
-      "x": "두 모델 모두 새 스태미나 추적을 지원한다. 훈련 기록을 따라 지구력이 어떻게 변했는지 보여주고, 실내 로잉과 러킹 운동 측정도 나아졌다. 눈에 띄는 건 Garmin Epic이다. 무료로 제공되는 이 기능은 여러 운동과 활동을 묶어 특정 여행이나 훈련 기간, 야외 모험 하나의 '에픽'으로 만든다. 가민은 서로 다른 활동을 92일치까지 합치고 기록 옆에 사진과 글도 붙는다고 설명한다. 이 요약은 남과 나누기 위한 것만큼이나 스스로 돌아보라고 만들어졌다."
-     },
-     {
-      "t": "p",
-      "x": "값은 Garmin Fenix 9가 1,000달러부터, Garmin Fenix 9 Pro가 1,100달러부터다. 값싼 피트니스 밴드가 흔해진 시장에서는 눈이 휘둥그레지는 가격이다. 두 모델 모두 8월 28일 가민에서 주문할 수 있고, 크기와 Pro의 태양광·위성 옵션에 따라 값이 올라간다."
+      "x": "10만 시간이라는 숫자는 실제 로봇 투입과 시뮬레이션, AI 훈련이 끊기지 않고 도는 고리를 받치려는 것이다. LG는 복잡한 작업에 로봇을 더 빨리 대비시키고 가정용 로봇 시장에 들어갈 바탕을 깔겠다는 목표다. 다만 이번 협력이 완전 자율 가정용 로봇의 대량 출시를 곧 보장하지는 않는다."
      }
     ]
    }

@@ -1,11 +1,34 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "design",
   "media": [
-    {"id": "design-vercel-run-sdk", "type": "image", "src": "pipeline/media/design-vercel-run-sdk.png"},
-    {"id": "design-instagram-first-draft", "type": "image", "src": "pipeline/media/design-instagram-first-draft.jpg"},
-    {"id": "design-millwork-drafting", "type": "image", "src": "pipeline/media/design-millwork-drafting.jpg"},
-    {"id": "design-autonomous-website", "type": "image", "src": "pipeline/media/design-autonomous-website.jpg"},
-    {"id": "design-photoshop-selection", "type": "video", "src": "pipeline/media/design-photoshop-selection.mp4", "poster": "pipeline/media/design-photoshop-selection.jpg"}
+    {
+      "id": "design-claude-code-design",
+      "type": "image",
+      "src": "pipeline/media/design-claude-code-design.jpg"
+    },
+    {
+      "id": "design-smart-remesh",
+      "type": "video",
+      "src": "pipeline/media/design-smart-remesh.mp4",
+      "poster": "pipeline/media/design-smart-remesh.jpg"
+    },
+    {
+      "id": "design-theia-drawing-cad",
+      "type": "image",
+      "src": "pipeline/media/design-theia-drawing-cad.png"
+    },
+    {
+      "id": "design-meta-xr-operator",
+      "type": "video",
+      "src": "pipeline/media/design-meta-xr-operator.mp4",
+      "poster": "pipeline/media/design-meta-xr-operator.jpg"
+    },
+    {
+      "id": "design-figma-path-trim",
+      "type": "video",
+      "src": "pipeline/media/design-figma-path-trim.mp4",
+      "poster": "pipeline/media/design-figma-path-trim.jpg"
+    }
   ]
 }

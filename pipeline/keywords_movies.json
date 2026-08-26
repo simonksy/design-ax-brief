@@ -1,158 +1,170 @@
 {
-  "date": "2026-08-26",
-  "now_iso": "2026-08-25T22:05:00Z",
+  "date": "2026-08-27",
+  "now_iso": "2026-08-26T22:00:00Z",
   "section": "movies",
-  "rotation_note": "Unattended full-sweep run: ALL movies core keywords + the ENTIRE movies `keywords` list (no sampling), each expanded into sibling phrases. Query angles rotated by day-of-month 26 to avoid topics already covered on 2026-08-25 and 2026-08-22 (Seedance 2.5 / Higgsfield course, Impossible Objects on-prem ComfyUI, SP Studios Brompton Hydra LED recalibration, Apple Heads Up face cloning, glass matte painting, LTX-2.5 open weights, AccuFACE 2 facial mocap, SubtitleNext ASR, Roku Fairground AI channel, Runway Ruby HDR). YouTube creator rotation offset = 26 mod 5 = 1 -> Corridor Crew, Curious Refuge->Matt Wolfe, Runway.",
+  "rotation_note": "Unattended full-sweep run (ORCHESTRATOR OVERRIDE): ALL movies core keywords + the ENTIRE movies `keywords` list, no sampling. Rotation is applied to the QUERY ANGLES and creator emphasis, not to the keyword set. Day-of-month 27 -> angle bias toward IBC 2026 show news, late-August festival circuit (Venice/Telluride/TIFF), NLE/edit-bay AI, animation & anime pipelines, and rights/law; deliberately steering off the 2026-08-19..26 topics listed in avoid_recent. YouTube creator rotation offset = 27 mod 5 = 2 -> Curious Refuge, fxguide, Corridor Crew (Matt Wolfe rested, he supplied yesterday's WorldClaw card).",
   "seeds_from_user": [],
   "working_keywords": [
     {
       "keyword": "AI film",
       "source": "core",
-      "expansions": ["AI feature film", "AI-native film production", "AI 영화", "synthetic film production", "AI movie release"]
+      "expansions": ["AI feature film release", "AI-native production company", "AI 영화", "synthetic actor film", "AI film financing"]
     },
     {
       "keyword": "AI 영화",
       "source": "core",
-      "expansions": ["AI 영화 제작", "AI 영상 생성 영화", "생성형 AI 영화", "AI 단편영화"]
+      "expansions": ["AI 영화 제작", "생성형 AI 영상 제작", "AI 영화제", "AI 후반작업"]
     },
     {
       "keyword": "AI filmmaking",
       "source": "core",
-      "expansions": ["AI filmmaking workflow", "AI in post-production", "filmmaker AI toolkit", "AI on set", "AI 필름메이킹"]
+      "expansions": ["AI filmmaking workflow", "AI in the edit bay", "on-set AI tools", "indie filmmaker AI stack", "AI 필름메이킹"]
     },
     {
       "keyword": "generative video film",
       "source": "pool",
-      "expansions": ["generative video model release", "video diffusion model filmmakers", "open-weight video model", "video world model production"]
+      "expansions": ["generative video model release", "open-weight video model filmmakers", "video diffusion update", "long-form video generation model"]
     },
     {
       "keyword": "AI VFX",
       "source": "pool",
-      "expansions": ["AI visual effects pipeline", "machine learning VFX tool", "VFX studio AI adoption", "compositing AI plugin", "Nuke AI tools"]
+      "expansions": ["AI visual effects plugin", "Nuke AI toolset", "Houdini machine learning", "VFX house AI adoption", "AI cleanup comp"]
     },
     {
       "keyword": "Runway film",
       "source": "pool",
-      "expansions": ["Runway Gen model update", "Runway Aleph", "Runway studio partnership", "Runway filmmaker tools"]
+      "expansions": ["Runway Gen model update", "Runway Aleph editing", "Runway studio partnership", "Runway API production"]
     },
     {
       "keyword": "Sora film",
       "source": "pool",
-      "expansions": ["OpenAI Sora filmmaking", "Sora studio deal", "Sora storyboard", "Sora rights holders"]
+      "expansions": ["OpenAI Sora filmmaking update", "Sora licensing rights holders", "Sora storyboard to shot", "OpenAI Hollywood deal"]
     },
     {
       "keyword": "virtual production AI",
       "source": "pool",
-      "expansions": ["in-camera VFX AI", "real-time LED volume AI", "Unreal Engine virtual production", "AI previs on stage", "버추얼 프로덕션 AI"]
+      "expansions": ["in-camera VFX AI", "LED volume real-time AI", "Unreal Engine virtual production update", "AI pitchvis stage", "버추얼 프로덕션 AI"]
     },
     {
       "keyword": "AI de-aging",
       "source": "pool",
-      "expansions": ["digital youthification", "face replacement actor", "digital resurrection actor", "AI performance re-creation"]
+      "expansions": ["digital human performance", "face replacement actor tool", "youthification VFX", "AI digital double"]
     },
     {
       "keyword": "AI storyboard previs",
       "source": "pool",
-      "expansions": ["AI previsualization tool", "AI shot list", "AI concept boards film", "AI pitchvis"]
+      "expansions": ["AI previsualization software", "AI shot planning tool", "AI concept board film", "AI pitchvis package"]
     },
     {
       "keyword": "AI screenwriting",
       "source": "pool",
-      "expansions": ["AI script development", "WGA AI script rules", "AI script coverage", "AI story development studio"]
+      "expansions": ["AI script development tool", "WGA AI policy", "AI coverage and notes", "AI story room studio"]
     },
     {
       "keyword": "deepfake film",
       "source": "pool",
-      "expansions": ["digital replica consent", "likeness rights actors", "synthetic performer SAG-AFTRA", "AI likeness law film"]
+      "expansions": ["digital replica consent", "actor likeness law", "SAG-AFTRA synthetic performer", "AI voice likeness lawsuit", "estate AI licensing"]
     },
     {
       "keyword": "AI color grading",
       "source": "pool",
-      "expansions": ["AI grading DaVinci Resolve", "AI look matching shots", "neural color match", "AI HDR conversion post"]
+      "expansions": ["AI grading DaVinci Resolve", "Baselight AI tools", "neural shot matching", "AI HDR remaster grade"]
     },
     {
       "keyword": "AI rotoscoping",
       "source": "pool",
-      "expansions": ["AI matte extraction", "auto roto tool", "AI cleanup plate", "segmentation model VFX"]
+      "expansions": ["AI matte extraction", "auto roto plugin", "segmentation model VFX", "AI paint and prep"]
     },
     {
       "keyword": "AI dubbing lip sync",
       "source": "pool",
-      "expansions": ["visual dubbing", "AI localization film", "AI voice dubbing studio deal", "lip sync model film"]
+      "expansions": ["visual dubbing streaming", "AI localization studio deal", "lip sync model release", "AI subtitle and dub workflow"]
     },
     {
       "keyword": "AI short film",
       "source": "pool",
-      "expansions": ["AI film festival", "AI short film winner", "AI film competition 2026", "AI 단편 영화제"]
+      "expansions": ["AI film festival lineup", "AI short film award", "AI film competition 2026", "AI 단편 영화제"]
     },
     {
       "keyword": "text-to-video film",
       "source": "pool",
-      "expansions": ["text to video model comparison", "prompt to shot workflow", "AI video model benchmark filmmakers"]
+      "expansions": ["text to video model benchmark", "prompt to shot pipeline", "AI video model shootout filmmakers"]
     },
     {
       "keyword": "AI motion capture",
       "source": "pool",
-      "expansions": ["markerless mocap", "video-to-animation AI", "Move AI", "AI body tracking animation"]
+      "expansions": ["markerless mocap release", "video-to-animation AI", "Move AI update", "AI body and facial tracking"]
     },
     {
       "keyword": "neural rendering film",
       "source": "pool",
-      "expansions": ["gaussian splatting film production", "NeRF virtual set", "neural scene reconstruction VFX", "3D scan capture stage"]
+      "expansions": ["gaussian splatting production", "NeRF virtual set", "volumetric capture stage", "neural scene reconstruction VFX"]
     },
     {
       "keyword": "AI trailer",
       "source": "pool",
-      "expansions": ["AI marketing campaign film", "AI generated promo studio", "AI key art poster film", "AI trailer backlash"]
+      "expansions": ["AI key art poster studio", "AI marketing campaign film", "AI promo backlash", "AI trailer generation tool"]
     },
     {
       "keyword": "AI film restoration",
       "source": "pool",
-      "expansions": ["AI archive restoration 4K", "AI upscaling classic film", "AI film preservation", "grain management AI restoration"]
+      "expansions": ["AI remaster archive film", "AI upscaling classic movie", "film preservation machine learning", "AI grain and dirt removal"]
     },
     {
       "keyword": "Kling film",
       "source": "pool",
-      "expansions": ["Kling AI update filmmakers", "Kuaishou Kling model", "Kling 3.0 shots"]
+      "expansions": ["Kling AI model update", "Kuaishou Kling filmmakers", "Kling 3 shots test"]
     },
     {
       "keyword": "Luma film",
       "source": "pool",
-      "expansions": ["Luma AI Ray model", "Dream Machine filmmakers", "Luma Dream Lab production"]
+      "expansions": ["Luma AI Ray model", "Dream Machine production use", "Luma Dream Lab film"]
     },
     {
       "keyword": "AI animation film",
       "source": "pool",
-      "expansions": ["AI animation studio pipeline", "2D animation AI inbetweening", "AI anime production", "animation AI ethics studio"]
+      "expansions": ["AI animation studio pipeline", "AI inbetweening 2D", "AI anime production", "animation union AI"]
     },
     {
       "keyword": "AI scene generation",
       "source": "pool",
-      "expansions": ["AI world model scene", "AI environment generation film", "AI set extension", "3D scene from prompt film"]
+      "expansions": ["AI set extension", "world model scene generation", "3D environment from prompt film", "AI matte painting environment"]
     },
     {
       "keyword": "Hollywood AI",
       "source": "pool",
-      "expansions": ["studio AI licensing deal", "union AI agreement film", "AI copyright lawsuit studio", "streamer AI strategy", "할리우드 AI"]
+      "expansions": ["studio AI licensing deal", "streamer AI strategy", "AI copyright lawsuit film", "AI production company launch", "할리우드 AI"]
     }
   ],
   "avoid_recent": [
-    "Seedance 2.5 / Higgsfield MZed course",
-    "Impossible Objects HP ZGX on-prem ComfyUI",
-    "SP Studios Brompton Hydra LED recalibration",
-    "Apple Heads Up facial cloning white paper",
-    "Camp Miasma glass matte painting",
-    "LTX-2.5 open weights world model",
-    "Reallusion AccuFACE 2",
-    "SubtitleNext AI transcription engines",
-    "Roku Fairground AI channel",
-    "Runway Ruby 16-bit HDR",
-    "ComfyUI official MCP",
-    "Adobe Firefly audio GA",
-    "Eddie AI 9B editing model",
-    "Val Kilmer AI footage",
-    "Strada 2.0 virtual drive",
-    "Wan 3.0 review"
+    "Tencent WorldClaw prompt-to-editable-3D world (2026-08-26)",
+    "Visual Effects & Animation World Atlas 2026 jobs data (2026-08-26)",
+    "EditShare EFS / Flow AI on-prem transcription at IBC (2026-08-26)",
+    "WildBrain acquires Personality AI / Hey Peppa Pig (2026-08-26)",
+    "New Mac Studio M5 Max / M5 Ultra for editors (2026-08-26)",
+    "Seedance 2.5 / Higgsfield MZed course (2026-08-25)",
+    "Impossible Objects HP ZGX Nano on-prem ComfyUI (2026-08-25)",
+    "SP Studios Brompton Hydra LED recalibration (2026-08-25)",
+    "Apple Heads Up facial cloning white paper (2026-08-25)",
+    "Camp Miasma glass matte painting (2026-08-25)",
+    "LTX-2.5 open weights world model (2026-08-22)",
+    "Reallusion AccuFACE 2 facial mocap (2026-08-22)",
+    "SubtitleNext AI transcription engines / IMSCR (2026-08-22)",
+    "Roku Fairground AI channel (2026-08-22)",
+    "Runway Ruby 16-bit HDR (2026-08-22)",
+    "ComfyUI official MCP server (2026-08-21)",
+    "Adobe Firefly audio GA (2026-08-21)",
+    "Eddie AI 9B editing model (2026-08-21)",
+    "Val Kilmer AI footage 'As Deep as the Grave' (2026-08-20)",
+    "Strada 2.0 virtual drive remote editing (2026-08-20)",
+    "Wan 3.0 honest review vs Seedance 2.5 (2026-08-20)",
+    "Verena Puhm launches Matriarch (2026-08-20)",
+    "Rick Baker Locarno AI/CGI remarks (2026-08-20)",
+    "Descript lip-sync dubbing (2026-08-19)",
+    "Fuzzy Door Viewscreen on live-action Moana (2026-08-19)",
+    "MPA–ByteDance Seedance MOU (2026-08-19)",
+    "Studio Ghibli next film / AI stance (2026-08-19)",
+    "Robin Williams estate Instagram vs AI slop (2026-08-19)"
   ],
   "plan": [
     {
@@ -189,45 +201,46 @@
         "youtu.be"
       ],
       "queries": [
-        "AI filmmaking news August 2026",
-        "AI film production tool release 2026",
-        "AI 영화 제작 도구 2026",
-        "generative video model release filmmakers 2026",
-        "AI VFX pipeline visual effects studio 2026",
-        "Runway Gen model update filmmakers 2026",
-        "OpenAI Sora studio film deal 2026",
-        "virtual production in-camera VFX AI stage 2026",
-        "AI de-aging digital replica actor film 2026",
-        "AI storyboard previsualization tool film 2026",
-        "AI screenwriting script development studio 2026",
-        "digital replica likeness rights SAG-AFTRA film 2026",
-        "AI color grading DaVinci Resolve post-production 2026",
-        "AI rotoscoping matte cleanup VFX tool 2026",
-        "visual dubbing AI localization film 2026",
-        "AI short film festival award 2026",
-        "text-to-video model comparison filmmakers 2026",
-        "markerless motion capture AI animation 2026",
-        "gaussian splatting neural rendering film production 2026",
-        "AI generated trailer key art studio marketing 2026",
-        "AI film restoration archive 4K upscaling 2026",
-        "Kling AI Luma Dream Machine filmmakers update 2026",
-        "AI animation studio pipeline feature production 2026",
-        "AI scene generation world model set extension film 2026",
-        "Hollywood studio AI licensing deal union agreement 2026",
-        "할리우드 AI 영상 생성 계약 2026",
-        "site:youtube.com Corridor Crew AI VFX 2026",
-        "site:youtube.com Matt Wolfe AI video model film 2026",
-        "site:youtube.com Runway AI filmmaking 2026"
+        "AI filmmaking news this week August 27 2026",
+        "AI 영화 제작 도구 워크플로 2026년 8월",
+        "AI film production tool launch IBC 2026 preview",
+        "generative video model release open weights filmmakers August 2026",
+        "AI VFX plugin Nuke After Effects release 2026",
+        "Runway Gen model Aleph update filmmakers 2026",
+        "OpenAI Sora studio licensing rights holders film 2026",
+        "virtual production LED volume AI previs stage 2026",
+        "AI de-aging digital human performance feature film 2026",
+        "AI previsualization storyboard tool feature film 2026",
+        "AI screenwriting script development tool writers 2026",
+        "digital replica consent actor likeness law film 2026",
+        "AI color grading DaVinci Resolve Baselight neural tool 2026",
+        "AI rotoscoping segmentation matte VFX tool release 2026",
+        "AI dubbing lip sync localization streaming platform 2026",
+        "AI short film festival lineup award August 2026",
+        "text-to-video model benchmark shot workflow filmmakers 2026",
+        "markerless motion capture AI performance animation 2026",
+        "gaussian splatting NeRF virtual set neural rendering film 2026",
+        "AI trailer key art poster studio marketing 2026",
+        "AI film restoration remaster archive upscaling 2026",
+        "Kling AI video model update filmmakers 2026",
+        "Luma AI Ray Dream Machine film production 2026",
+        "AI animation anime studio pipeline production 2026",
+        "AI scene generation set extension environment film 2026",
+        "Hollywood studio streamer AI deal union agreement 2026",
+        "할리우드 AI 영상 생성 모델 계약 저작권 2026",
+        "site:youtube.com Curious Refuge AI filmmaking 2026",
+        "site:youtube.com fxguide AI VFX 2026",
+        "site:youtube.com Corridor Crew AI VFX 2026"
       ]
     }
   ],
   "wildcard": {
-    "query": "AI movie industry biggest story this week 2026",
-    "note": "Trending catch-all; keep only if it passes the movies relevance test and the 14-day freshness gate."
+    "query": "biggest AI story in the film industry this week 2026",
+    "note": "Trending catch-all; keep only if it passes the movies relevance test, the 14-day freshness gate, and is not in avoid_recent."
   },
   "totals": {
     "working_keywords": 26,
     "categories": 1,
-    "queries": 30
+    "queries": 31
   }
 }

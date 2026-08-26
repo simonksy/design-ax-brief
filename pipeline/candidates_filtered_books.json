@@ -1,84 +1,68 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "books",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://publishingperspectives.com/2026/08/why-rights-holder-transparency-is-becoming-non-negotiable/",
-      "source": "Publishing Perspectives",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/26/guest-post-from-charity-to-intellectual-partnership-the-global-monograph-crisis-artificial-intelligence-and-the-future-of-open-access-through-the-lens-of-ukraine/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-08-20T00:00:00+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/aperture-793x284.png",
-      "excerpt": "As publishers sign LLM-training licences, microdeals and multi-territory rights deals, royalty and reporting transparency for authors is becoming table stakes. The piece argues rights systems, not goodwill, will decide whether AI licensing money reaches creators."
+      "published_iso": "2026-08-26T09:30:07+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/05/iStock-1222550815.jpg",
+      "excerpt": "How Ukraine's academic publishing sector is confronting a global monograph crisis with unexpected urgency and innovation, using AI-era open-access tooling to move from charity recipient to intellectual partner."
     },
     {
-      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-monday-august-24th-2026/",
-      "source": "Publishing Perspectives",
+      "url": "https://selfpublishingadvice.org/spotify-adds-ai-discovery-tools/",
+      "source": "The Self-Publishing Advice Center (ALLi)",
       "category": "books",
-      "published_iso": "2026-08-24T00:00:00+00:00",
-      "og_image": "",
-      "excerpt": "This week's international roundup: German children's publisher Carlsen sues OpenAI with author Marc-Uwe Kling and illustrator Astrid Henn, saying ChatGPT generates Das NEINhorn-like stories, illustrations and even print-ready files with a fake ISBN and the publisher's logo; Brazil's Publitik launches an AI-agent book-market intelligence platform."
+      "published_iso": "2026-08-15T12:00:37+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-15.jpg",
+      "excerpt": "Spotify is rolling out AI-powered audiobook playlists, a voice chatbot, and one-click series continuation, as Premium subscribers surpass 300M. ALLi looks at what the new discovery surface means for indie audiobook publishers."
     },
     {
-      "url": "https://publishingperspectives.com/2026/08/what-technology-trends-should-publishers-explore-and-scale/",
-      "source": "Publishing Perspectives",
+      "url": "https://selfpublishingadvice.org/podcast-indie-manga-alliance-launches/",
+      "source": "The Self-Publishing Advice Center (ALLi)",
       "category": "books",
-      "published_iso": "2026-08-20T00:00:00+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
-      "excerpt": "A look at which publishing technologies — AI-assisted production, metadata and discovery tooling among them — are worth piloting versus scaling across a house's workflow."
-    },
-    {
-      "url": "https://selfpublishingadvice.org/opinion-you-have-more-agency-than-you-think-creative-writing-and-publishing-in-the-age-of-ai/",
-      "source": "ALLi Self-Publishing Advice Center",
-      "category": "books",
-      "published_iso": "2026-08-25T00:00:00+00:00",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/pictures.jpg",
-      "excerpt": "Indie author Nigel George argues writers hold more power over AI's trajectory than they think: set explicit boundaries on AI use, defend human copyright, and treat the model as a very sophisticated calculator rather than a collaborator."
-    },
-    {
-      "url": "https://janefriedman.com/five-pulitzer-winners-disclosed-ai-use-this-year/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-08-12T00:00:00+00:00",
-      "og_image": "",
-      "excerpt": "Five of this year's Pulitzer winners disclosed AI use in their submissions across 15 journalism categories — the highest disclosure count since tracking began in 2024, and a signal of how fast AI-use disclosure norms are hardening for writers."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=I7hskWGurDU",
-      "source": "ALLi (Alliance of Independent Authors) — YouTube",
-      "category": "books",
-      "published_iso": "2026-08-13T00:00:00+00:00",
-      "og_image": "https://i.ytimg.com/vi/I7hskWGurDU/maxresdefault.jpg",
-      "excerpt": "ALLi's Self-Publishing News for 13 August 2026 explains how the EU's new AI transparency rules — including watermarking and training-data disclosure — reach indie authors far outside Europe."
-    },
-    {
-      "url": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
-      "source": "404 Media",
-      "category": "books",
-      "published_iso": "2026-08-18T11:54:00+00:00",
-      "og_image": "",
-      "excerpt": "Jason Koebler argues Anthropic's plan to watermark Claude's text by subtly swapping word choices reveals how AI companies see language: as interchangeable tokens rather than deliberate craft decisions writers agonise over."
-    },
-    {
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-      "source": "404 Media",
-      "category": "books",
-      "published_iso": "2026-08-17T09:16:00+00:00",
-      "og_image": "",
-      "excerpt": "404 Media planted trackers in a rare-book shipment and followed it to an Amazon facility in Las Vegas where books are debound, scanned and destroyed — evidence of physical books being consumed as AI training data."
+      "published_iso": "2026-08-14T12:00:57+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_News-1.jpg",
+      "excerpt": "Dan Holloway reports on the Indie Manga Alliance launch, Libro.fm's move into e-books, and the study showing readers who can't spot AI stories — a roundup of the week's structural shifts for independent creators."
     },
     {
       "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
       "source": "Good e-Reader",
       "category": "books",
-      "published_iso": "2026-08-24T00:00:00+00:00",
+      "published_iso": "2026-08-24T04:33:19+00:00",
       "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/24003221/Series-Visual-8856-scaled-1.png",
-      "excerpt": "Spotify is rolling out AI 'Prompted Playlists' for audiobooks plus conversational search — you can speak or type a request and get recommendations and plot details — alongside better series tracking, pushing book discovery into chat."
+      "excerpt": "A full rundown of the AI-driven audiobook features Spotify has shipped in recent months — prompted playlists, natural-language book Q&A, series tracking and Page Match — and what each changes for listeners and publishers."
+    },
+    {
+      "url": "https://bookriot.com/library-news-updates-august-2026/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-08-14T10:01:00+00:00",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/04/toronto-library.jpg.optimal.jpg",
+      "excerpt": "Readers gave higher ratings to AI-written stories in a new study, AI is showing up in fanfiction communities, and library workers face a fresh set of AI-era collection questions."
+    },
+    {
+      "url": "https://bookriot.com/welcome-to-the-uncanny-valley/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-08-18T09:30:00+00:00",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg",
+      "excerpt": "Anthropic introduces watermarks, journalists test AI-detection tools against real manuscripts, and Claude generates a novel about writing a novel with Claude — a survey of where detection actually stands for editors."
+    },
+    {
+      "url": "https://www.animenewsnetwork.com/news/2026-08-23/kaze-us-manga-imprint-plans-to-launch-with-5-8-titles-in-2027-to-grow-to-25-30-titles-per-year-by-/.240866",
+      "source": "Anime News Network",
+      "category": "books",
+      "published_iso": "2026-08-23T00:23:37-04:00",
+      "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI2/cms/news.9/240651/kaze.webp",
+      "excerpt": "At its Anime NYC 2026 panel, HarperCollins' new KAZÉ US manga imprint laid out its launch slate and stated flatly that it will not use AI translations — naming its human editorial, art-direction and design team instead."
     }
   ],
   "dedup": {
     "dropped": 8,
-    "kept": 9,
+    "kept": 7,
     "against_days": 5
   }
 }

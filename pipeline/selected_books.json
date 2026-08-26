@@ -1,91 +1,61 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "books",
-  "picked_by": "curator (user deferred)",
-  "pool_size": 9,
   "picks": [
     {
-      "rank": 1,
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/26/guest-post-from-charity-to-intellectual-partnership-the-global-monograph-crisis-artificial-intelligence-and-the-future-of-open-access-through-the-lens-of-ukraine/",
+      "source": "The Scholarly Kitchen",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-monday-august-24th-2026/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-08-24T00:00:00+00:00",
-      "og_image": "",
-      "excerpt": "This week's international roundup: German children's publisher Carlsen sues OpenAI with author Marc-Uwe Kling and illustrator Astrid Henn, saying ChatGPT generates Das NEINhorn-like stories, illustrations and even print-ready files with a fake ISBN and the publisher's logo; Brazil's Publitik launches an AI-agent book-market intelligence platform.",
-      "rationale": "Hardest news in the pool: a major German publisher and its star author sue OpenAI over ChatGPT emitting print-ready lookalike books complete with a fake ISBN and the house logo."
+      "rationale": "Freshest item in the pool (Aug 26) and the only one that reframes the monograph/OA crisis as an AI-era infrastructure problem, with a concrete national case rather than commentary.",
+      "published_iso": "2026-08-26T09:30:07+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/05/iStock-1222550815.jpg",
+      "excerpt": "How Ukraine's academic publishing sector is confronting a global monograph crisis with unexpected urgency and innovation, using AI-era open-access tooling to move from charity recipient to intellectual partner."
     },
     {
-      "rank": 2,
+      "url": "https://www.animenewsnetwork.com/news/2026-08-23/kaze-us-manga-imprint-plans-to-launch-with-5-8-titles-in-2027-to-grow-to-25-30-titles-per-year-by-/.240866",
+      "source": "Anime News Network",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "url": "https://www.youtube.com/watch?v=I7hskWGurDU",
-      "source": "ALLi (Alliance of Independent Authors) — YouTube",
-      "published_iso": "2026-08-13T00:00:00+00:00",
-      "og_image": "https://i.ytimg.com/vi/I7hskWGurDU/maxresdefault.jpg",
-      "excerpt": "ALLi's Self-Publishing News for 13 August 2026 explains how the EU's new AI transparency rules — including watermarking and training-data disclosure — reach indie authors far outside Europe.",
-      "rationale": "Compliance news with extraterritorial teeth: watermarking and training-data disclosure obligations that indie authors outside the EU must plan for now."
+      "rationale": "A major publisher putting a no-AI-translation commitment on the record while naming its human editorial and design team — a hiring/licensing signal, not an opinion piece.",
+      "published_iso": "2026-08-23T00:23:37-04:00",
+      "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI2/cms/news.9/240651/kaze.webp",
+      "excerpt": "At its Anime NYC 2026 panel, HarperCollins' new KAZÉ US manga imprint laid out its launch slate and stated flatly that it will not use AI translations — naming its human editorial, art-direction and design team instead."
     },
     {
-      "rank": 3,
+      "url": "https://bookriot.com/welcome-to-the-uncanny-valley/",
+      "source": "Book Riot",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "url": "https://publishingperspectives.com/2026/08/why-rights-holder-transparency-is-becoming-non-negotiable/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-08-20T00:00:00+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/aperture-793x284.png",
-      "excerpt": "As publishers sign LLM-training licences, microdeals and multi-territory rights deals, royalty and reporting transparency for authors is becoming table stakes. The piece argues rights systems, not goodwill, will decide whether AI licensing money reaches creators.",
-      "rationale": "Shifts the AI-licensing debate from whether deals happen to whether the money reaches authors — royalty reporting infrastructure as the decisive variable."
+      "rationale": "Practical state-of-play on AI detection: watermarks plus journalists testing detectors against real manuscripts, which is what editors actually have to act on.",
+      "published_iso": "2026-08-18T09:30:00+00:00",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg",
+      "excerpt": "Anthropic introduces watermarks, journalists test AI-detection tools against real manuscripts, and Claude generates a novel about writing a novel with Claude — a survey of where detection actually stands for editors."
     },
     {
-      "rank": 4,
+      "url": "https://selfpublishingadvice.org/podcast-indie-manga-alliance-launches/",
+      "source": "The Self-Publishing Advice Center (ALLi)",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://selfpublishingadvice.org/opinion-you-have-more-agency-than-you-think-creative-writing-and-publishing-in-the-age-of-ai/",
-      "source": "ALLi Self-Publishing Advice Center",
-      "published_iso": "2026-08-25T00:00:00+00:00",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/pictures.jpg",
-      "excerpt": "Indie author Nigel George argues writers hold more power over AI's trajectory than they think: set explicit boundaries on AI use, defend human copyright, and treat the model as a very sophisticated calculator rather than a collaborator.",
-      "rationale": "Freshest item in the pool and directly actionable — a concrete stance a writer can adopt tomorrow: draw the boundary, treat the model as a calculator, not a co-author."
+      "rationale": "Structural news for independent creators — a new indie manga body plus Libro.fm moving into e-books — rather than another AI-ethics take.",
+      "published_iso": "2026-08-14T12:00:57+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_News-1.jpg",
+      "excerpt": "Dan Holloway reports on the Indie Manga Alliance launch, Libro.fm's move into e-books, and the study showing readers who can't spot AI stories — a roundup of the week's structural shifts for independent creators."
     },
     {
-      "rank": 5,
+      "url": "https://bookriot.com/library-news-updates-august-2026/",
+      "source": "Book Riot",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "url": "https://publishingperspectives.com/2026/08/what-technology-trends-should-publishers-explore-and-scale/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-08-20T00:00:00+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
-      "excerpt": "A look at which publishing technologies — AI-assisted production, metadata and discovery tooling among them — are worth piloting versus scaling across a house's workflow.",
-      "rationale": "The pilot-versus-scale distinction is the practical question inside publishing houses right now; useful roadmap framing rather than another AI-anxiety take."
+      "rationale": "The library/collection-development angle is absent from the last five days of this section, and the AI-in-fanfiction thread is genuinely new here.",
+      "published_iso": "2026-08-14T10:01:00+00:00",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/04/toronto-library.jpg.optimal.jpg",
+      "excerpt": "Readers gave higher ratings to AI-written stories in a new study, AI is showing up in fanfiction communities, and library workers face a fresh set of AI-era collection questions."
     }
-  ],
-  "dedup": {
-    "against_days": 5,
-    "url_deduped_upstream": 8,
-    "content_dropped": [
-      {
-        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-        "reason": "Same event as published card books-amazon-destructive-scanning (Literary Hub, 2026-08-15 deck) — 404 Media's tracked rare-book shipment to the Las Vegas Amazon debind-and-scan facility, covered via a different outlet."
-      },
-      {
-        "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
-        "reason": "Same announcement as published card books-spotify-audiobook-ai (Publishers Weekly, today 2026-08-25) — identical three features: Prompted Playlists for audiobooks, conversational search, series tracking."
-      },
-      {
-        "url": "https://janefriedman.com/five-pulitzer-winners-disclosed-ai-use-this-year/",
-        "reason": "Same source and same core fact as published card books-friedman-ai-roundup (Jane Friedman, 2026-08-22 deck), whose headline already was the record five journalism-prize winners disclosing AI use."
-      },
-      {
-        "url": "https://www.404media.co/anthropics-text-watermarking-proves-ai-companies-do-not-care-at-all-about-writing/",
-        "reason": "Same story as published card books-claude-watermark-word-choice (Future Fiction Academy, 2026-08-15 deck) — Anthropic's watermarking swapping word choices and what that does to prose, covered via a different outlet."
-      }
-    ]
-  },
-  "notes": "Pool of 9 minus 4 content duplicates leaves exactly 5 unique fresh stories, all of which are picked. The final-5 outlet guard could not be satisfied: after dedup the only surviving outlets are Publishing Perspectives (3) and ALLi (2), and every under-represented-outlet alternative (404 Media x2, Good e-Reader, Jane Friedman) is a hard content duplicate. Dedup is the hard rule, so the guard yields rather than the dedup backstop. Three distinct story types are kept (litigation, regulation, rights economics / craft stance / technology roadmap) so category spread within the section still holds."
+  ]
 }

@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://www.digitaltrends.com/phones/nothing-os-5-0-wants-you-to-stop-switching-apps-and-start-living-in-your-phone/",
-      "source": "Digital Trends",
+      "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
+      "source": "Road to VR",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "The boldest shipping attempt yet at an AI-first phone interface — AI-assembled widgets replacing app-switching is a live test of a UI paradigm designers keep sketching.",
-      "published_iso": "2026-08-25T05:51:02-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-infographic.jpg?resize=1200%2C630",
-      "excerpt": "Nothing OS 5.0 on Android 17 leans on AI-assembled widgets and glanceable surfaces to keep users out of app-switching — the boldest attempt yet at an AI-first phone interface."
+      "rationale": "Aiming translation at a chosen region of your view is a new spatial-UI primitive for smart glasses, and it is the headline feature of Google's coming eyewear fleet.",
+      "published_iso": "2026-08-26T13:14:07+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
+      "excerpt": "Google is reportedly testing a 'Listening area' mode for Live Translate on Android XR that lets wearers aim translation at a specific region of their view. It looks like a headline feature for Google's upcoming fleet of smart glasses."
     },
     {
-      "url": "https://www.tomsguide.com/ai/perplexitys-new-local-first-ai-runs-on-your-pc-and-asks-before-using-the-cloud",
-      "source": "Tom's Guide",
+      "url": "https://gizmodo.com/screenless-luffu-link-is-the-next-wearable-from-the-founders-of-fitbit-2000803479",
+      "source": "Gizmodo",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Local-first with an explicit consent prompt before any cloud call — a concrete privacy pattern for anyone handling client files on an AI PC.",
-      "published_iso": "2026-08-25T13:39:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/oW2jKymtiv2rQ7N8Fqenh8-2560-80.jpg",
-      "excerpt": "Perplexity's Portable Computer keeps files and AI tasks on your own hardware, only reaching for a cloud model when you explicitly allow it — a local-first posture for everyday PC AI."
+      "rationale": "The Fitbit founders' $250 screenless LTE band is a fresh answer to what a wearable looks like when voice replaces the display entirely.",
+      "published_iso": "2026-08-26T17:55:31+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/Luffu-Link-1200x675.jpg",
+      "excerpt": "Fitbit founders James Park and Eric Friedman unveiled Luffu Link, a $250 screenless LTE band with mic, speaker and voice logging. The LTE-enabled health and safety band is one part of a larger AI-powered ecosystem for monitoring a family's well-being."
     },
     {
-      "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
-      "source": "MacRumors",
+      "url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
+      "source": "Tom's Hardware",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "The single best card from the M6/M5 Mac wave: a 2nm chip with a dual 16-core Neural Engine resets what creative tools can run locally on a consumer Mac.",
-      "published_iso": "2026-08-25T06:05:00-07:00",
-      "og_image": "https://images.macrumors.com/t/Nupss_8A02Q9UCCL40qBe1db2J8=/1672x/article-new/2026/08/m6-chip.png",
-      "excerpt": "Apple announced the M6, its first 2nm chip, with a dual 16-core Neural Engine and a 12-core CPU. The on-device AI budget in a consumer Mac jumps again, which is what changes what creative tools can run locally."
+      "rationale": "Putting logic inside mobile memory is the hardware step that decides how big a model your phone or laptop can run locally next year.",
+      "published_iso": "2026-08-25T18:31:37Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/bVH6Hhfk6Uhrp8NJb37qgi-1920-80.jpg",
+      "excerpt": "Samsung detailed the first LPDDR5X-PIM at Hot Chips 2026, putting logic directly inside mobile memory for 3x faster AI inference at 8x the bandwidth. It is a foundational step toward phones and laptops running bigger models locally."
     },
     {
-      "url": "https://www.techradar.com/ai-platforms-assistants/claude/amazon-security-engineer-hacks-pc-accessories-with-claude-opus-to-make-them-work-better-asus-insta360-and-elgato-products-reverse-engineered-in-hours-for-better-control-but-engineer-admits-this-also-scares-me",
-      "source": "TechRadar",
+      "url": "https://9to5google.com/2026/08/26/gemini-3-5-transcribe/",
+      "source": "9to5Google",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Reverse-engineering closed gear in hours to build your own controls is the most directly copyable workflow here — and the security caveat comes from the engineer himself.",
-      "published_iso": "2026-08-25T08:12:01Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/jkup3TaJ8TSEFiVpLQLXz8-2560-80.jpg",
-      "excerpt": "An Amazon security engineer used Claude Opus to reverse-engineer Asus, Insta360 and Elgato gear in hours and build better controls for it — a glimpse of AI as a gadget-modding tool, and a security worry."
+      "rationale": "Gemini 3.5 Transcribe turns rambling dictation into structured text inside Gboard and Chrome, moving voice from a novelty to a default input method.",
+      "published_iso": "2026-08-26T17:00:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-1.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Google launched Gemini 3.5 Transcribe, its 'most precise speech-to-text model yet,' already powering Gboard Rambler and heading to Chrome. Rambling dictation gets cleaned into structured text on the device you're already typing on."
     },
     {
-      "url": "https://gizmodo.com/garmins-fenix-9-and-9-pro-tell-a-broader-story-about-your-physical-activity-2000802969",
-      "source": "Gizmodo",
+      "url": "https://www.notebookcheck.net/Tesla-Optimus-vs-BYD-Xiao-Di-vs-LG-CLOiD-Nvidia-enters-AI-robot-segment.1379260.0.html",
+      "source": "Notebookcheck",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "An information-design shift on the wrist: Garmin Epic stitches an outing into one narrative instead of a metrics dump, which is the harder half of wearable AI.",
-      "published_iso": "2026-08-25T18:00:08+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/20260428_SOCIAL_RECOD_3740-1200x675.jpg",
-      "excerpt": "Garmin's Fenix 9 and 9 Pro add Garmin Epic, which stitches multiple activities into one holistic narrative of an outing rather than a pile of disconnected metrics."
+      "rationale": "LG and Nvidia generating 100,000 hours of training data shows the home-humanoid race is now won with data pipelines, not demo reels.",
+      "published_iso": "2026-08-26T17:26:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-Data-Factory_01_cr.jpg",
+      "excerpt": "LG and Nvidia plan to generate 100,000 hours of training data by the end of 2026 to prepare LG's CLOiD home robot for complex tasks. It puts LG head-to-head with Tesla Optimus, BYD Xiao Di, Figure 03 and 1X NEO in the race to a household humanoid."
     }
   ]
 }

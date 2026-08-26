@@ -1,32 +1,11 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "books",
   "media": [
-    {
-      "id": "books-carlsen-openai-neinhorn",
-      "type": "image",
-      "src": "pipeline/media/books-carlsen-openai-neinhorn.png"
-    },
-    {
-      "id": "books-eu-ai-transparency-indie",
-      "type": "video",
-      "src": "pipeline/media/books-eu-ai-transparency-indie.mp4",
-      "poster": "pipeline/media/books-eu-ai-transparency-indie.jpg"
-    },
-    {
-      "id": "books-royalty-transparency-aperture",
-      "type": "image",
-      "src": "pipeline/media/books-royalty-transparency-aperture.png"
-    },
-    {
-      "id": "books-nigel-george-creative-agency",
-      "type": "image",
-      "src": "pipeline/media/books-nigel-george-creative-agency.jpg"
-    },
-    {
-      "id": "books-publishing-technology-radar",
-      "type": "image",
-      "src": "pipeline/media/books-publishing-technology-radar.jpg"
-    }
+    { "id": "books-ukraine-monograph-oa", "type": "image", "src": "pipeline/media/books-ukraine-monograph-oa.jpg" },
+    { "id": "books-kaze-us-no-ai-translation", "type": "image", "src": "pipeline/media/books-kaze-us-no-ai-translation.jpg" },
+    { "id": "books-uncanny-valley-detection", "type": "image", "src": "pipeline/media/books-uncanny-valley-detection.jpg" },
+    { "id": "books-indie-manga-alliance", "type": "image", "src": "pipeline/media/books-indie-manga-alliance.jpg" },
+    { "id": "books-library-news-august", "type": "image", "src": "pipeline/media/books-library-news-august.jpg" }
   ]
 }

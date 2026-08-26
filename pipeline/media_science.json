@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "science",
   "media": [
-    { "id": "science-brain-on-ai", "type": "image", "src": "pipeline/media/science-brain-on-ai.jpg" },
-    { "id": "science-shrinking-style", "type": "image", "src": "pipeline/media/science-shrinking-style.jpg" },
-    { "id": "science-predictive-categorization", "type": "image", "src": "pipeline/media/science-predictive-categorization.jpg" },
-    { "id": "science-llm-scholar-bench", "type": "image", "src": "pipeline/media/science-llm-scholar-bench.jpg" },
-    { "id": "science-green-ammonia", "type": "image", "src": "pipeline/media/science-green-ammonia.jpg" }
+    { "id": "science-aintibody",       "type": "image", "src": "pipeline/media/science-aintibody.jpg" },
+    { "id": "science-crysvcd",         "type": "image", "src": "pipeline/media/science-crysvcd.jpg" },
+    { "id": "science-hydrogym",        "type": "image", "src": "pipeline/media/science-hydrogym.jpg" },
+    { "id": "science-kids-language",   "type": "image", "src": "pipeline/media/science-kids-language.jpg" },
+    { "id": "science-tensor-networks", "type": "image", "src": "pipeline/media/science-tensor-networks.jpg" }
   ]
 }
