@@ -1,11 +1,32 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "games",
   "media": [
-    { "id": "games-ace-aniimo", "type": "image", "src": "pipeline/media/games-ace-aniimo.jpg" },
-    { "id": "games-rtx-spark", "type": "video", "src": "pipeline/media/games-rtx-spark.mp4", "poster": "pipeline/media/games-rtx-spark.jpg" },
-    { "id": "games-nordic-ai-studios", "type": "image", "src": "pipeline/media/games-nordic-ai-studios.jpg" },
-    { "id": "games-tanioka-spotify", "type": "video", "src": "pipeline/media/games-tanioka-spotify.mp4", "poster": "pipeline/media/games-tanioka-spotify.jpg" },
-    { "id": "games-humankind2-ai-doubt", "type": "video", "src": "pipeline/media/games-humankind2-ai-doubt.mp4", "poster": "pipeline/media/games-humankind2-ai-doubt.jpg" }
+    {
+      "id": "games-ludoai-keyframe",
+      "type": "image",
+      "src": "pipeline/media/games-ludoai-keyframe.jpg"
+    },
+    {
+      "id": "games-horii-slimey",
+      "type": "image",
+      "src": "pipeline/media/games-horii-slimey.jpg"
+    },
+    {
+      "id": "games-ironmace-aura",
+      "type": "video",
+      "src": "pipeline/media/games-ironmace-aura.mp4",
+      "poster": "pipeline/media/games-ironmace-aura.jpg"
+    },
+    {
+      "id": "games-sega-crazytaxi",
+      "type": "image",
+      "src": "pipeline/media/games-sega-crazytaxi.jpg"
+    },
+    {
+      "id": "games-ryzachat",
+      "type": "image",
+      "src": "pipeline/media/games-ryzachat.jpg"
+    }
   ]
 }

@@ -1,32 +1,11 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "gadgets",
   "media": [
-    {
-      "id": "gadgets-nothing-os5",
-      "type": "video",
-      "src": "pipeline/media/gadgets-nothing-os5.mp4",
-      "poster": "pipeline/media/gadgets-nothing-os5.jpg"
-    },
-    {
-      "id": "gadgets-perplexity-portable",
-      "type": "image",
-      "src": "pipeline/media/gadgets-perplexity-portable.jpg"
-    },
-    {
-      "id": "gadgets-apple-m6",
-      "type": "image",
-      "src": "pipeline/media/gadgets-apple-m6.png"
-    },
-    {
-      "id": "gadgets-claude-firmware-hack",
-      "type": "image",
-      "src": "pipeline/media/gadgets-claude-firmware-hack.jpg"
-    },
-    {
-      "id": "gadgets-garmin-epic",
-      "type": "image",
-      "src": "pipeline/media/gadgets-garmin-epic.jpg"
-    }
+    { "id": "gadgets-android-xr-translate", "type": "image", "src": "pipeline/media/gadgets-android-xr-translate.jpg" },
+    { "id": "gadgets-luffu-link", "type": "video", "src": "pipeline/media/gadgets-luffu-link.mp4", "poster": "pipeline/media/gadgets-luffu-link.jpg" },
+    { "id": "gadgets-samsung-pim", "type": "image", "src": "pipeline/media/gadgets-samsung-pim.jpg" },
+    { "id": "gadgets-gemini-transcribe", "type": "image", "src": "pipeline/media/gadgets-gemini-transcribe.jpg" },
+    { "id": "gadgets-lg-cloid", "type": "image", "src": "pipeline/media/gadgets-lg-cloid.jpg" }
   ]
 }

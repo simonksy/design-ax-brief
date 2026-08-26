@@ -1,68 +1,61 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "movies",
   "picks": [
     {
+      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
+      "source": "fxguide",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://www.youtube.com/watch?v=ZY628bslSYY",
-      "source": "Matt Wolfe (YouTube)",
-      "published_iso": "2026-08-24T12:18:26+00:00",
-      "og_image": "https://i.ytimg.com/vi/ZY628bslSYY/maxresdefault.jpg",
-      "excerpt": "Tencent's WorldClaw generates an entire editable 3D world from a text prompt rather than a flat video clip — a demo of prompt-to-set that lands closer to previs and virtual production than to text-to-video.",
-      "rationale": "Prompt-to-editable-3D-world moves generative AI out of the flat-clip trap and straight into previs/virtual-production territory."
+      "rationale": "Autodesk Flow Studio's 3D Editor + Canvas turns generative video into a blockable, directable shot pipeline — the most directly workflow-changing release in the pool.",
+      "published_iso": "2026-08-24T15:31:01+00:00",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Flow.jpg",
+      "excerpt": "Wonder Dynamics co-founder Nikola Todorovic breaks down Autodesk Flow Studio's new 3D Editor + Canvas, which pairs interactive 3D scene construction — characters, mocap, camera tracks, Gaussian-splat environments from World Labs' Marble — with generative 2D video models. The pitch is directable AI filmmaking: block and light the shot in 3D, then finish it in a node-based 2D canvas rather than prompting a whole movie."
     },
     {
+      "url": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "url": "https://www.awn.com/news/joseph-bell-releases-2026-visual-effects-animation-world-atlas",
-      "source": "Animation World Network",
-      "published_iso": "2026-08-25T18:55:06+00:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/vfx-atlas-hero-books_2026b-1280.jpg?itok=eqDO5z1u",
-      "excerpt": "Joseph Bell's third annual free VFX & Animation World Atlas charts 140,000+ artists at 2,900 companies, finds 2.7% net industry growth, and says the data shows no evidence AI has cut VFX jobs.",
-      "rationale": "A free, citable dataset on 2,900 studios that directly contradicts the AI-job-loss narrative — rare hard numbers in a debate run on vibes."
+      "rationale": "A Kennedy/AFI-convened coalition finally puts a shared vocabulary on where craft-level AI assists end and synthetic performance begins — the line every production will now be judged against.",
+      "published_iso": "2026-08-21T23:12:39+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2210325176.jpg?crop=0px%2C127px%2C5000px%2C2812px&resize=1000%2C563",
+      "excerpt": "A coalition convened by Kathleen Kennedy and AFI dean Susan Ruskin went public with \"Human Generative Workflows,\" a framework that gives the industry a shared vocabulary for authorship under generative AI. It explicitly separates craft-level AI assists — upscaling, sharpening, markerless mocap, a Resolve color assist — from prompted synthetic performances that substitute for human creative work."
     },
     {
+      "url": "https://postperspective.com/lineo-launches-end-to-end-platform-for-spot-producers/",
+      "source": "postPerspective",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "url": "https://postperspective.com/editshare-to-update-efs-flow-ai-and-mediasilo-at-ibc/",
-      "source": "postPerspective",
-      "published_iso": "2026-08-25T19:26:18+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/EditShare.jpg",
-      "excerpt": "EditShare is bringing GPU-powered Flow AI processing into its EFS storage nodes at IBC, expanding AI-assisted transcription and search to 13 languages so post teams can hunt footage across international content from inside the MAM.",
-      "rationale": "AI transcription and search moving into the storage node means footage hunting happens where the media already lives — a concrete change to post workflow."
+      "rationale": "Freshest item in the pool and the rare AI release aimed at the production office rather than the shot: bid-to-wrap budgets, POs and payroll with an assistant that reads the job's own data.",
+      "published_iso": "2026-08-26T14:24:15+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Calendar_UI_Laptop-1.jpg",
+      "excerpt": "Lineo, built by working commercial producers, launches a single production-management platform covering bid-to-wrap: AICP/APA budgets, calendars, bid packages, POs, payroll and petty cash with live actuals. AI drafts bid letters, parses and logs receipts and POs, and a built-in Production Assistant answers plain-language questions about the job's own data."
     },
     {
+      "url": "https://www.youtube.com/watch?v=YQTduCzNoqw",
+      "source": "Theoretically Media (YouTube)",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "url": "https://www.cartoonbrew.com/business/wildbrain-acquires-personality-ai-265896.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-08-24T16:19:51+00:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hey-Peppa-Pig.jpg",
-      "excerpt": "WildBrain is buying Personality AI, the company behind conversational 'Hey Peppa Pig' experiences, folding real-time GenAI character performance into a legacy kids IP catalogue.",
-      "rationale": "A major IP holder buying real-time conversational character tech outright signals where legacy catalogues are heading next."
+      "rationale": "Shot-by-shot filmmaker tests of two unreleased text-to-video models give an early read on what the next generation actually handles, plus a free cinematic reference library to prompt against.",
+      "published_iso": "2026-08-17T21:57:07+00:00",
+      "og_image": "https://i.ytimg.com/vi/YQTduCzNoqw/maxresdefault.jpg",
+      "excerpt": "Theoretically Media puts two unreleased, codenamed AI video models through filmmaker-style tests and pairs the results with a free cinematic reference library. A useful read on what the next generation of text-to-video is actually good at shot-by-shot."
     },
     {
+      "url": "https://variety.com/2026/film/global/google-deepmind-amazon-web-services-busan-market-innoasia-1236843573/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "url": "https://nofilmschool.com/new-mac-studio-models",
-      "source": "No Film School",
-      "published_iso": "2026-08-25T16:35:29+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67674924&width=1200&height=600",
-      "excerpt": "Apple's new Mac Studio with M5 Max and M5 Ultra is pitched squarely at on-device AI, and No Film School digs into which of those gains actually reach video editors and colorists.",
-      "rationale": "Separates the on-device AI marketing from the gains that actually show up in an edit or grade — a real purchasing decision this quarter."
+      "rationale": "DeepMind, AWS and Kling AI moving into Busan's film market alongside seven Korean startups is the clearest sign yet that generative video vendors are becoming Asian film-market infrastructure.",
+      "published_iso": "2026-08-26T07:00:20+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Busan's Asian Contents & Film Market unveiled its InnoAsia lineup, pairing Google DeepMind, Amazon Web Services and Kling AI with seven Korean startups, plus a branded-film contest with Hanwha and Innocean. It is one of the clearest signals yet of generative video vendors embedding themselves in Asian film-market infrastructure."
     }
-  ],
-  "dedup_notes": [
-    "DROPPED: fxguide 'Nikola Todorovic on Autodesk Flow Studio's new 3D Editor + Canvas' — same URL already published 2026-08-25 in the design section (card design-flow-studio). Cross-section repeat.",
-    "DROPPED: Variety 'MPA deal with ByteDance on Seedance IP' — same event already published 2026-08-19 in movies as movies-mpa-bytedance-mou (The Hollywood Reporter).",
-    "DROPPED (within-pool dup): 80 Level 'Inside VFX of Percy Jackson S2' duplicates The Art of VFX 'Percy Jackson S2 — Storm Studios'; neither selected.",
-    "DROPPED (content hub): befores & afters shipped three near-identical VFX-breakdown posts the same day (ILP Mandalorian, DNEG Star City, Moonshots); none selected.",
-    "Final 5 use 5 distinct outlets — no outlet appears twice."
   ]
 }

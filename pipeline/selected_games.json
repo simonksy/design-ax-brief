@@ -1,66 +1,61 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "games",
   "picks": [
     {
-      "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-08-25T15:30:00+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Nvidia ACE, the tech behind PUBG's generative-AI team mates, is coming to creature-collecting RPG Aniimo in early 2027, letting players talk to creatures driven by a locally-run Nemotron small language model.",
-      "category": "games",
+      "url": "https://www.pocketgamer.biz/ludoai-adds-keyframe-animation-and-3d-tools-for-game-developers/",
+      "source": "PocketGamer.biz",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Conversational NPCs stop being a demo: a shipping RPG runs a local small language model, so character and dialogue designers now have a real production target."
+      "rationale": "Ludo.ai's Keyframe Animation turns one-shot generative sprites into art-directable frames — a concrete tool change a 2D game artist can act on tomorrow.",
+      "published_iso": "2026-08-26T15:43:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141132/89718/ludoai_l1200.jpg",
+      "excerpt": "Ludo.ai has launched Keyframe Animation, a tool giving game developers direct control over AI-generated sprite animations, alongside new 3D asset tooling. It pushes generative art from one-shot output toward editable, art-directable frames."
     },
     {
-      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-      "source": "NVIDIA Blog",
-      "published_iso": "2026-08-25T15:30:48+00:00",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
-      "excerpt": "NVIDIA brings the next wave of RTX gaming to Gamescom, with publishers adopting new AI-accelerated visual quality and anti-cheat technology on RTX Spark hardware.",
-      "category": "games",
+      "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-says-ai-hardly-ever-makes-things-up-anymore-even-if-it-once-made-up-that-he-works-for-nintendo/",
+      "source": "GamesRadar+",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "First-party account of which AI rendering and anti-cheat features publishers are actually adopting — the baseline art and performance targets for the next round of PC titles."
+      "rationale": "Horii defends shipping Slimey, a conversational AI companion, inside Dragon Quest — a named designer putting his reputation behind an AI NPC as an accessibility layer rather than a labour cut.",
+      "published_iso": "2026-08-25T15:43:13Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/EADR8yQe57SZzFdAZnAkq9-1920-80.jpg",
+      "excerpt": "Dragon Quest creator Yuji Horii says AI 'hardly ever makes things up' anymore and defends building the conversational companion Slimey into the series, arguing it 'lowers the barrier of entry to interacting with AI.'"
     },
     {
-      "url": "https://www.pocketgamer.biz/how-nordic-studios-are-using-ai-from-legal-risk-to-ai-native-production/",
-      "source": "PocketGamer.biz",
-      "published_iso": "2026-08-17T15:00:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/140900/89606/ainordicsmainimage_l1200.jpg",
-      "excerpt": "Five Nordic industry voices explain how AI is reshaping studio culture, creative roles, team structure and legal risk — a ground-level look at AI-native production practice.",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "Concrete studio-level practice rather than opinion: how teams restructure roles and manage legal exposure when AI enters the pipeline."
-    },
-    {
-      "url": "https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify",
-      "source": "Eurogamer",
-      "published_iso": "2026-08-20T14:48:07+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/final-fantasy-crystal-chronicles_WngFDhT.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Final Fantasy: Crystal Chronicles composer Kumi Tanioka says an AI-generated album was published under her name on Spotify, exposing how weak identity controls are for game creators' catalogues.",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "A named game creator's identity was hijacked on a major platform — a direct warning about how little protects a credited artist's catalogue right now."
-    },
-    {
-      "url": "https://www.thegamer.com/humankind-2-trailer-ai-accusations/",
-      "source": "TheGamer",
-      "published_iso": "2026-08-25T18:45:00+00:00",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/an-image-of-a-cavewoman-from-the-humankind-2-reveal-trailer.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Humankind 2's reveal trailer was immediately accused of using generative AI for its live-action shots; the developer confirmed no AI was used, showing how AI suspicion now shapes reveal-art craft.",
-      "category": "games",
+      "url": "https://80.lv/articles/how-dark-and-darker-s-devs-used-aura-to-build-a-major-feature-in-half-the-time",
+      "source": "80 Level",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Human-made key art is now guilty until proven innocent — reveal trailers need provenance and craft choices planned as part of the marketing brief."
+      "rationale": "A shipped production case, not a demo: a non-technical designer worked directly in the codebase via an AI assistant and cut a five-to-six week feature to two.",
+      "published_iso": "2026-08-20T16:23:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49818/images/6a864293a4835/contain_1200x630.jpg",
+      "excerpt": "Dark and Darker studio IRONMACE describes how AI coding assistant Aura let a non-technical designer work directly in the codebase to prototype and ship the game's new tutorial — a job the studio estimates would normally have taken five to six weeks, done in two."
+    },
+    {
+      "url": "https://www.thegamer.com/sega-update-crazy-taxi-world-tour-ai/",
+      "source": "TheGamer",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Sega narrowing its Steam AI disclosure to ideation-only and pledging to strip AI-derived content before release turns disclosure language into a production commitment studios will be held to.",
+      "published_iso": "2026-08-26T10:41:14Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/ss_c213e51098f46b7466d5526b05335efe20e7ab7f-1920x1080.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Sega rewrote Crazy Taxi: World Tour's Steam AI disclosure to say generative AI was used only for ideation on background objects — and that all AI-derived content will be removed before release. A concrete case of disclosure language becoming a production commitment."
+    },
+    {
+      "url": "https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898",
+      "source": "Kotaku",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "A shipped character-AI product with an explicit consent model — no training on chat logs, voice built only from the original actor's clips — sets a workable precedent for licensed AI companions.",
+      "published_iso": "2026-08-26T05:00:56+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg",
+      "excerpt": "Atelier has turned Ryza into RyzaChat: AI, an open-ended chatbot companion app on iOS and Android in Japan. The team frames it as an 'ethical AI adventure' — no chat logs used for training, and a voice trained only on the original Japanese actor's clips."
     }
   ]
 }

@@ -1,11 +1,34 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "music",
   "media": [
-    { "id": "music-luminate-ai-label", "type": "image", "src": "pipeline/media/music-luminate-ai-label.jpg" },
-    { "id": "music-spectralayers-13", "type": "image", "src": "pipeline/media/music-spectralayers-13.jpg" },
-    { "id": "music-jazz-fingerprint", "type": "image", "src": "pipeline/media/music-jazz-fingerprint.jpg" },
-    { "id": "music-chartmetric-flow", "type": "image", "src": "pipeline/media/music-chartmetric-flow.png" },
-    { "id": "music-hotone-pulze-jr", "type": "video", "src": "pipeline/media/music-hotone-pulze-jr.mp4", "poster": "pipeline/media/music-hotone-pulze-jr.jpg" }
+    {
+      "id": "music-instrument-x",
+      "type": "video",
+      "src": "pipeline/media/music-instrument-x.mp4",
+      "poster": "pipeline/media/music-instrument-x.jpg"
+    },
+    {
+      "id": "music-sonible-smartchain",
+      "type": "video",
+      "src": "pipeline/media/music-sonible-smartchain.mp4",
+      "poster": "pipeline/media/music-sonible-smartchain.jpg"
+    },
+    {
+      "id": "music-abyss-ii",
+      "type": "video",
+      "src": "pipeline/media/music-abyss-ii.mp4",
+      "poster": "pipeline/media/music-abyss-ii.jpg"
+    },
+    {
+      "id": "music-elevenmusic-composer",
+      "type": "image",
+      "src": "pipeline/media/music-elevenmusic-composer.png"
+    },
+    {
+      "id": "music-soundon-gina-jones",
+      "type": "image",
+      "src": "pipeline/media/music-soundon-gina-jones.jpg"
+    }
   ]
 }

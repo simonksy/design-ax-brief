@@ -1,111 +1,159 @@
 {
- "date": "2026-08-26",
- "section": "games",
- "window_hours": 336,
- "items": [
-  {
-   "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
-   "source": "Rock Paper Shotgun",
-   "category": "games",
-   "published_iso": "2026-08-25T15:30:00+00:00",
-   "og_image": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-   "excerpt": "Nvidia ACE, the tech behind PUBG's generative-AI team mates, is coming to creature-collecting RPG Aniimo in early 2027, letting players talk to creatures driven by a locally-run Nemotron small language model."
-  },
-  {
-   "url": "https://www.nvidia.com/en-us/geforce/news/gamescom-2026-nvidia-geforce-rtx-dlss-4-5-announcements/",
-   "source": "NVIDIA GeForce",
-   "category": "games",
-   "published_iso": "2026-08-25T08:30:00-07:00",
-   "og_image": "https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/gamescom-2026-nvidia-geforce-rtx-dlss-4-5-announcements/gamescom-2026-nvidia-geforce-rtx-dlss-4-5-announcements-ogimage.jpg",
-   "excerpt": "NVIDIA's Gamescom 2026 roundup ships DLSS 4.5 Ray Reconstruction and details how ACE autonomous characters and neural rendering features land in shipping games."
-  },
-  {
-   "url": "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
-   "source": "GamesIndustry.biz",
-   "category": "games",
-   "published_iso": "2026-08-25T18:44:44+00:00",
-   "og_image": "https://assetsio.gnwcdn.com/Gamescon-Latam-(2).jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-   "excerpt": "Nvidia used Gamescom to detail a wave of developer-facing updates across DLSS, ray-traced Nanite, RTX and GeForce Now — neural rendering moving from demo to production pipeline."
-  },
-  {
-   "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-   "source": "NVIDIA Blog",
-   "category": "games",
-   "published_iso": "2026-08-25T15:30:48+00:00",
-   "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
-   "excerpt": "NVIDIA brings the next wave of RTX gaming to Gamescom, with publishers adopting new AI-accelerated visual quality and anti-cheat technology on RTX Spark hardware."
-  },
-  {
-   "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
-   "source": "Game Developer",
-   "category": "games",
-   "published_iso": "2026-08-21T14:45:37+00:00",
-   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?disable=upscale&width=1200&height=630&fit=crop",
-   "excerpt": "Veteran game AI practitioners David 'Rez' Graham and Luke Dicken join Game Developer to separate decades-old game AI craft from the current generative AI wave and what it means for design work."
-  },
-  {
-   "url": "https://www.thegamer.com/humankind-2-trailer-ai-accusations/",
-   "source": "TheGamer",
-   "category": "games",
-   "published_iso": "2026-08-25T18:45:00+00:00",
-   "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/an-image-of-a-cavewoman-from-the-humankind-2-reveal-trailer.jpg?w=1600&h=900&fit=crop",
-   "excerpt": "Humankind 2's reveal trailer was immediately accused of using generative AI for its live-action shots; the developer confirmed no AI was used, showing how AI suspicion now shapes reveal-art craft."
-  },
-  {
-   "url": "https://aftermath.site/james-pond-ai/",
-   "source": "Aftermath",
-   "category": "games",
-   "published_iso": "2026-08-21T22:20:48+00:00",
-   "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/nintendo-switch-2-game-box-JAMES-POND-COLLECTION-updated-art-19-August-26-v07-shadow-MED-with-BG-Strip-PLUS-SCREENS-update-SfW-2048x1147.png",
-   "excerpt": "A retro re-release's cover art and trailer carry obvious generative-AI tells while the publisher insists 'no generative AI was used' — a case study in how unreliable AI disclosure has become for game art."
-  },
-  {
-   "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-says-ai-hardly-ever-makes-things-up-anymore-even-if-it-once-made-up-that-he-works-for-nintendo/",
-   "source": "GamesRadar+",
-   "category": "games",
-   "published_iso": "2026-08-25T15:43:13+00:00",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/EADR8yQe57SZzFdAZnAkq9-1920-80.jpg",
-   "excerpt": "Dragon Quest creator Yuji Horii says AI 'hardly ever makes things up' anymore, a notable vote of confidence in the tech from one of game design's most influential authors."
-  },
-  {
-   "url": "https://gamesbeat.com/skillprint-flow-turns-gameplay-into-human-performance-data-for-ai/",
-   "source": "GamesBeat",
-   "category": "games",
-   "published_iso": "2026-08-25T14:15:00+00:00",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/skillprint-ontology-wheel.webp",
-   "excerpt": "Skillprint's Flow turns ordinary gameplay sessions into structured human-performance data for AI systems, positioning games as a measurement layer for player cognition and design tuning."
-  },
-  {
-   "url": "https://www.pocketgamer.biz/how-nordic-studios-are-using-ai-from-legal-risk-to-ai-native-production/",
-   "source": "PocketGamer.biz",
-   "category": "games",
-   "published_iso": "2026-08-17T15:00:00+01:00",
-   "og_image": "https://media.pocketgamer.biz/images/140900/89606/ainordicsmainimage_l1200.jpg",
-   "excerpt": "Five Nordic industry voices explain how AI is reshaping studio culture, creative roles, team structure and legal risk — a ground-level look at AI-native production practice."
-  },
-  {
-   "url": "https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify",
-   "source": "Eurogamer",
-   "category": "games",
-   "published_iso": "2026-08-20T14:48:07+00:00",
-   "og_image": "https://assetsio.gnwcdn.com/final-fantasy-crystal-chronicles_WngFDhT.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-   "excerpt": "Final Fantasy: Crystal Chronicles composer Kumi Tanioka says an AI-generated album was published under her name on Spotify, exposing how weak identity controls are for game creators' catalogues."
-  },
-  {
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-4-5-ray-reconstruction-is-a-definite-improvement-but-path-traced-fidelity-is-still-not-a-100-percent-solved-issue/",
-   "source": "PC Gamer",
-   "category": "games",
-   "published_iso": "2026-08-25T15:30:00+00:00",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/ZtYqJwgTzcxrD4svdXQ3Qb-2207-80.jpg",
-   "excerpt": "Hands-on with DLSS 4.5 Ray Reconstruction: NVIDIA's neural denoiser visibly improves path-traced image quality, but artefacts remain — a status check on AI-driven rendering craft."
-  },
-  {
-   "url": "https://gamesbeat.com/agis-announces-the-platform-a-next-gen-cross-device-application-to-demo-at-gamescom-2026/",
-   "source": "GamesBeat",
-   "category": "games",
-   "published_iso": "2026-08-19T16:16:43+00:00",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/PlatformHero.jpg",
-   "excerpt": "Agis unveiled The Platform at Gamescom, a cross-device creation tool for user-generated content where creators retain ownership of what they build."
-  }
- ]
+  "date": "2026-08-27",
+  "section": "games",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://www.pocketgamer.biz/the-ai-paradox-why-mobile-embraces-ai-and-aaa-holds-back/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-08-26T23:00:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141088/89707/aisessionshanghai_l1200.jpg",
+      "excerpt": "At PGC Summit Shanghai, studio leaders and investors asked why free-to-play mobile races to adopt AI in production while triple-A holds back. The panel maps where AI is actually landing in game pipelines and where it stalls."
+    },
+    {
+      "url": "https://www.pocketgamer.biz/ludoai-adds-keyframe-animation-and-3d-tools-for-game-developers/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-08-26T15:43:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141132/89718/ludoai_l1200.jpg",
+      "excerpt": "Ludo.ai has launched Keyframe Animation, a tool giving game developers direct control over AI-generated sprite animations, alongside new 3D asset tooling. It pushes generative art from one-shot output toward editable, art-directable frames."
+    },
+    {
+      "url": "https://www.pocketgamer.biz/gamescom-dev-survey-puts-ai-and-smaller-teams-at-centre-of-industry-change/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-08-13T14:30:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/140879/89610/gamescom_l1200.jpg",
+      "excerpt": "A gamescom dev speaker survey found AI-assisted development is expected to have the biggest impact on the games industry over the next three years, paired with a shift to smaller teams. Respondents point to changing role definitions rather than pure headcount cuts."
+    },
+    {
+      "url": "https://www.roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
+      "source": "Road to VR",
+      "category": "games",
+      "published_iso": "2026-08-26T06:50:17+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+      "excerpt": "Meta introduced Meta XR Operator, an experimental tool that lets AI coding agents autonomously build, test, debug and visually verify VR apps. It aims the agent loop at the hardest part of XR production: actually playing the build and checking what it looks like."
+    },
+    {
+      "url": "https://aftermath.site/google-ai-video-games/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-08-25T23:40:46.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
+      "excerpt": "A withering look at Google's latest AI-made game showcase: '...we are 3-4 years into this collective descent into madness, and this is all you can come up with to support [AI's] sales pitch?' A critique of what generative demos still can't do as playable design."
+    },
+    {
+      "url": "https://kotaku.com/opening-night-live-2026-genai-slop-games-geoff-keighley-2000728477",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-08-26T21:30:31+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/ai-gamescom-games-1200x675.jpg",
+      "excerpt": "Kotaku catalogues the gamescom Opening Night Live 2026 lineup by generative-AI usage, noting several titles newly outed as using genAI art or voice. A snapshot of how AI disclosure has become a front-of-show reception filter."
+    },
+    {
+      "url": "https://kotaku.com/crazy-taxi-world-tour-preview-sega-ai-use-steam-disclaimer-2000728372",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-08-26T15:00:46+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/06/Crazy-Taxi-1200x675.jpeg",
+      "excerpt": "A hands-on with Sega's Crazy Taxi: World Tour that keeps circling back to the game's Steam generative-AI disclosure. The preview shows how an AI disclaimer now colours the whole critical read of a revival."
+    },
+    {
+      "url": "https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-08-26T05:00:56+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg",
+      "excerpt": "Atelier has turned Ryza into RyzaChat: AI, an open-ended chatbot companion app on iOS and Android in Japan. The team frames it as an 'ethical AI adventure' — no chat logs used for training, and a voice trained only on the original Japanese actor's clips."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/the-backlash-against-gen-ai-in-video-games-proves-voting-with-your-wallet-works/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-08-16T14:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/koWvQAdXykkMkFcsn7wZW8-1920-80.jpg",
+      "excerpt": "As anti-AI clauses start appearing in publishing and dev contracts, GamesRadar argues player backlash is materially changing what studios are allowed to ship. A look at how audience pressure is rewriting production policy."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-says-ai-hardly-ever-makes-things-up-anymore-even-if-it-once-made-up-that-he-works-for-nintendo/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-08-25T15:43:13Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/EADR8yQe57SZzFdAZnAkq9-1920-80.jpg",
+      "excerpt": "Dragon Quest creator Yuji Horii says AI 'hardly ever makes things up' anymore and defends building the conversational companion Slimey into the series, arguing it 'lowers the barrier of entry to interacting with AI.'"
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/take-twos-former-ai-guy-is-in-a-twist-skeptical-about-ai-now-the-guy-should-be-selling-you-the-gold-if-hes-actually-got-the-gold/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-08-19T14:24:49Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/U8C4YGRTeZ687xyDQ2MbRV-1358-80.jpg",
+      "excerpt": "Take-Two's former head of AI turns skeptic, arguing LLM dialogue hasn't landed because '50 or 100 options' in a dialogue tree mostly lead nowhere. A pointed design critique of generative narrative from someone who built for it."
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-08-24T02:56:27Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
+      "excerpt": "PC Gamer's Steam week-in-review tracks how even a small amount of generative AI in an indie's assets now triggers review-bomb-scale backlash. Useful data on where the audience's disclosure tolerance actually sits."
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/the-bigwigs-who-want-ai-generated-npcs-and-writing-think-youre-too-dumb-to-appreciate-a-good-story-dont-prove-them-right/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-08-15T14:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HaiiGDVUVLvrhKqM66eRof-1920-80.jpg",
+      "excerpt": "An argument against the executive push for AI-generated NPCs and writing, framing infinite generated dialogue as a substitute for authored craft rather than an upgrade to it."
+    },
+    {
+      "url": "https://www.thegamer.com/sega-update-crazy-taxi-world-tour-ai/",
+      "source": "TheGamer",
+      "category": "games",
+      "published_iso": "2026-08-26T10:41:14Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/ss_c213e51098f46b7466d5526b05335efe20e7ab7f-1920x1080.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Sega rewrote Crazy Taxi: World Tour's Steam AI disclosure to say generative AI was used only for ideation on background objects — and that all AI-derived content will be removed before release. A concrete case of disclosure language becoming a production commitment."
+    },
+    {
+      "url": "https://80.lv/articles/how-dark-and-darker-s-devs-used-aura-to-build-a-major-feature-in-half-the-time",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-08-20T16:23:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49818/images/6a864293a4835/contain_1200x630.jpg",
+      "excerpt": "Dark and Darker studio IRONMACE describes how AI coding assistant Aura let a non-technical designer work directly in the codebase to prototype and ship the game's new tutorial — a job the studio estimates would normally have taken five to six weeks, done in two."
+    },
+    {
+      "url": "https://80.lv/articles/saber-interactive-ceo-responds-to-claims-writer-was-replaced-by-ai",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-08-17T11:58:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49776/images/6a82f74b400d6/contain_1200x630.jpg",
+      "excerpt": "A full recap of the Rideshare 'Stimulator' dispute: a lead writer says she was replaced mid-project by ChatGPT, the CEO apologises, and Saber finally adds a Steam AI disclosure covering voice generation, localisation and radio music."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-08-13T14:31:00Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltef068dcaa36e8c54/6a7c802c08084de2fdbbdab8/ss_24a50290ce0be6b7c830995615485ef9669d276a.1920x1080.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Saber Interactive's CEO apologises to a former employee over the AI replacement dispute while denying writers were swapped for ChatGPT. The piece lays out what parts of the shipped game are AI-generated and what disclosure was owed."
+    },
+    {
+      "url": "https://wccftech.com/saber-matt-karch-death-threats-rideshare-ai-dispute/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-08-17T16:00:00+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Rideshare-Stimulator-Matthew-Karch-1920x1080.jpg",
+      "excerpt": "Saber CEO Matt Karch says a Portal writer's viral video triggered death threats, escalating the Rideshare Stimulator AI-writer dispute. The updated Steam page now specifies AI voice generation, some localisation and AI radio music."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-23-august-2026/",
+      "source": "CG Channel",
+      "category": "games",
+      "published_iso": "2026-08-24T04:30:42Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_NewCGSoftwareYouMayHaveMissed.jpg",
+      "excerpt": "A weekly roundup of CG tool updates relevant to game art: Meshy 7's higher-fidelity image-to-3D generation, Postshot 1.1.69 for Gaussian splats, and Slapshot's rotoscoping, camera-tracking and depth-map tools shipping as nodes inside Comfy."
+    }
+  ]
 }

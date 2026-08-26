@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "section": "games",
   "cards": [
     {
-      "id": "games-ace-aniimo",
+      "id": "games-ludoai-keyframe",
       "eyebrow": "AI NEWS",
-      "headline": "PUBG의 AI 팀원을 만든 기술이\n괴수와 대화하는 RPG에 온다",
-      "body": "엔비디아 ACE가 2027년 초 아니모에 들어가 플레이어가 괴수와 말을 나눈다.",
-      "mini_headline": "괴수와 대화하는 RPG",
+      "headline": "AI가 만든 스프라이트 동작을\n키프레임 단위로 지시한다",
+      "body": "Ludo.ai가 AI 스프라이트 동작을 키프레임 단위로 손보는 도구를 내놨다.",
+      "mini_headline": "AI 스프라이트 키프레임",
       "tool": "Games",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
+      "source": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/ludoai-adds-keyframe-animation-and-3d-tools-for-game-developers/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -18,160 +18,226 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
-            "cap": "아니모에 들어가는 엔비디아 ACE. 이미지 출처: Pawprint Studio"
+            "src": "https://media.pocketgamer.biz/images/141132/89718/ludoai_l1200.jpg",
+            "cap": "Ludo AI의 Keyframe Animation. 이미지 출처: PocketGamer.biz"
           },
           {
             "t": "p",
-            "x": "DLSS 4.5용 레이 리컨스트럭션을 내놓으면서, 엔비디아가 ACE 기술을 다른 게임에도 넣는다고 알렸다. PUBG: Battlegrounds의 생성형 AI 팀원을 굴린 그 기술이다. 무대는 아니모(Aniimo), 중국 개발사 Pawprint Studio가 만드는 오픈월드 괴수 수집 RPG다. 팰월드류가 다져놓은 '법적으로는 다른' 포켓몬 공식을 따라가는 쪽인데, 엔비디아 기술이 얹히면 플레이어가 자기 괴수와 대화까지 하게 된다."
+            "x": "Ludo AI가 Keyframe Animation을 내놨다. AI가 만든 스프라이트 애니메이션을 개발자가 직접 통제하게 해주는 도구로, 2D와 3D 에셋을 아우르던 기존 애니메이션 기능도 함께 넓혔다."
           },
           {
             "t": "p",
-            "x": "\"2027년 초 엔비디아 ACE가 RTX GPU에서 돌아가고, 플레이어는 자기 아니모와 자연스럽게 말을 겁니다.\" 엔비디아 수석 제품 마케팅 매니저 Ike Nnoli가 RPS도 참석한 게임스컴 사전 브리핑에서 한 말이다. \"대화를 나누고, 제작이나 채굴 같은 새 기술을 가르치고, 저마다 다른 성격을 알아가게 됩니다.\""
+            "x": "Ludo 앱과 API, MCP 서버에서 쓴다. 개발자가 핵심 포즈를 최대 세 개까지 잡아두면 그 사이 프레임은 Ludo가 채운다."
           },
           {
             "t": "p",
-            "x": "PUBG 아군 프로젝트 쪽은 NPC가 AI 두뇌로 전투 상황에 반응하고 전술 기동에서 제 몫을 하도록 짜여 있다. 아니모 쪽은 그보다 익숙한 AI 챗봇에 가깝다."
+            "x": "원클릭 3D 리깅도 새로 붙었다. 외부 소프트웨어나 손작업 없이 모델에 엔진에서 바로 쓰는 스켈레톤을 얹는다."
           },
           {
             "t": "p",
-            "x": "질의응답에서는 생성형 AI NPC가 플레이어에게 구슬려져 퀘스트 보상을 미리 내주는 일을 어떻게 막느냐는 물음이 나왔다. 지난해 중국 RPG Where Winds Meet에서 벌어진 일이다. Nnoli의 답은 이랬다. \"우리 기술에서는 캐릭터가 플레이어에게 어디까지 반응할지 개발사가 전부 통제합니다. 행동과 응답 가드레일, 모델 지시문까지요.\" 아니모는 Pawprint가 제작과 채굴, 자원 채집을 하는 본거지 홈랜드로 범위를 묶었고 괴수도 정해진 활동만 한다. 반응은 음성 대사가 아니라 \"특정 동작과 이모지\"로 나올 모양이다."
+            "x": "시작과 중간, 마지막 포즈는 개발자가 정한다. 자기 이미지를 넣어도 되고 Ludo에 내장된 포즈 생성 기능을 써도 된다. 키프레임만 잡히면 텍스트 프롬프트는 선택 사항이고, 대신 포즈가 애니메이션을 끌고 간다."
           },
           {
             "t": "p",
-            "x": "그렇게 보면 아니모의 쓰임새는 AI판 닌텐독스에 가깝다. 이런 기술이 퍼지는 마당에 놀랄 일은 아니다. 다만 PUBG의 AI 병사와 달리 아이들이 이 AI 괴수를 상대할 가능성이 크다는 단서가 붙는다. 포트나이트의 AI 다스 베이더처럼 대화 도중 가면이 벗겨지거나 짓궂은 반응으로 유도당하는 일은 덜하기를 바란다."
+            "x": "Ludo AI는 최대 64프레임까지 만들며 길이와 크기, 해상도를 조절한다고 밝혔다. 캐릭터 스프라이트와 시각 효과, UI 에셋을 지원하고 기본값으로 루프가 매끄럽게 이어진다."
           },
           {
             "t": "p",
-            "x": "엔비디아는 ACE 기술이 2027년 초 아니모에 들어간다고 예고했다. 스팀 페이지는 아직 \"coming soon\"만 걸어두고 있지만, 게임 출시도 그즈음이지 싶다."
+            "x": "리깅을 마친 모델은 Ludo가 갖춘 기성 동작 라이브러리로 움직인다. 원하는 움직임을 텍스트로 적어 커스텀 모션을 붙일 수도 있다. 커스텀 애니메이션은 네 가지 변형이 나오고, 모델에 얹어 미리 본 뒤 하나의 애니메이션 파일로 내보낸다."
+          },
+          {
+            "t": "p",
+            "x": "Ludo.ai 공동창업자 겸 CTO Jorge Carvalho Gomes는 이렇게 말했다. \"이제 누구나 AI로 스프라이트 애니메이션을 만듭니다. 그 부분은 사실상 해결됐어요. 어려운 건 머릿속에 있던 바로 그 애니메이션을 얻는 일이죠.\""
+          },
+          {
+            "t": "p",
+            "x": "\"Keyframe Animation에서는 움직임을 설명해놓고 잘 나오기를 바라지 않습니다. 애니메이션이 지나갈 정확한 포즈를 여러분이 정하면 나머지는 Ludo가 채웁니다.\""
           }
         ]
       }
     },
     {
-      "id": "games-rtx-spark",
+      "id": "games-horii-slimey",
       "eyebrow": "AI NEWS",
-      "headline": "EA·유비소프트가 RTX Spark로\n대작 게임과 치트 차단을 옮긴다",
-      "body": "EA와 Embark, 유비소프트가 가을 나올 RTX Spark에 대표작을 올린다.",
-      "mini_headline": "RTX Spark 대작들",
+      "headline": "AI는 이제 거의 지어내지 않는다며\n대화형 슬라임 동료를 옹호했다",
+      "body": "Dragon Quest를 만든 Yuji Horii가 AI는 이제 거의 지어내지 않는다며 게임에 넣은 대화형 동료 Slimey를 옹호했다.",
+      "mini_headline": "AI 대화 상대가 된 슬라임",
       "tool": "Games",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-says-ai-hardly-ever-makes-things-up-anymore-even-if-it-once-made-up-that-he-works-for-nintendo/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "엔비디아가 이번 주 독일 쾰른에서 열리는 게임스컴에서 RTX 게이밍의 다음 흐름을 꺼냈다. 새 게임 지원, 치트 차단 기술, 그리고 높아진 화질이다."
-          },
-          {
-            "t": "p",
-            "x": "가을 출시를 앞둔 NVIDIA RTX Spark에 Electronic Arts와 Embark, Ubisoft가 대표작을 올린다. 5월 COMPUTEX에서 RTX Spark 지원을 알린 KRAFTON, NetEase, Riot Games, XBOX에 이어서다."
-          },
-          {
             "t": "img",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Body-1-1680x945.jpeg",
-            "cap": "게임스컴에서 공개한 NVIDIA RTX Spark. 이미지 출처: NVIDIA"
+            "src": "https://cdn.mos.cms.futurecdn.net/EADR8yQe57SZzFdAZnAkq9-1920-80.jpg",
+            "cap": "Dragon Quest 10. 이미지 출처: Square Enix"
           },
           {
             "t": "p",
-            "x": "EA의 EA SPORTS F1 25와 Apex Legends, 유비소프트의 Anno 117: Pax Romana, Embark Studios의 ARC Raiders와 THE FINALS. 지금 PC에서 가장 많이 하는 이 게임들이 RTX Spark 기기에서 매끄럽게 돌아가도록 엔비디아가 개발사와 생태계 파트너에 바짝 붙어 작업했다."
+            "x": "Dragon Quest를 만든 Yuji Horii가 자신은 AI 팬이라고 밝혔다. 몇 년 사이 AI가 부쩍 발전했다며 이제는 \"거의 지어내지 않는다\"고 했다. 시리즈 MMO에 얼마 전 들어간 Gemini 기반 챗봇을 두고 질문을 받자 나온 답이다."
           },
           {
             "t": "p",
-            "x": "\"Anno 117: Pax Romana를 RTX 기반 PC의 새 세대에 올리게 돼 기쁩니다.\" Anno 117: Pax Romana의 유비소프트 총괄 프로듀서 Stéphane Jankowski가 한 말이다. \"우리 팀은 이 게임을 넓게 보이도록 만듭니다. 구역 전체, 긴 시야선, 한꺼번에 쏟아지는 수천 개의 디테일이요. 칩 하나로 그 정도 정밀도를 버텨내는 RTX Spark를 보면 정말 인상적입니다.\""
+            "x": "Dragon Quest 시리즈는 게임 역사상 가장 이른 AI 시스템 중 하나를 넣은 작품으로 꼽힌다. 1990년작 Dragon Quest 4에서 플레이어가 파티원에게 대략의 지시를 내리면 AI가 각자의 행동을 골랐다. 이번에 들어간 AI는 그만큼 환영받지 못했다."
           },
           {
             "t": "p",
-            "x": "RTX Spark는 개인용 AI 에이전트와 고급 콘텐츠 제작, 고성능 게이밍을 한 플랫폼에 모았다. 다음 세대 윈도우 PC를 겨냥해 바닥부터 설계한 기기다. 게이머 입장에서는 윈도우 기기에 DLSS와 Reflex를 비롯한 RTX 기술이 얹힌 셈이다."
+            "x": "일본에서만 서비스하는 MMO Dragon Quest 10은 최근 일곱 번째이자 마지막 확장팩 Lost Children of Time and Space를 내놨는데, 여기 붙은 신규 요소를 두고 평이 갈렸다. 광대 모자를 쓴 Dragon Quest의 상징적인 파란 슬라임, 이름 그대로 수다쟁이 슬라임인 Oshaberi Slimey라는 동료다. 이 Slimey가 Google Gemini 기반 챗봇으로 돌아간다는 소식에 팬들은 실망했다."
           },
           {
             "t": "p",
-            "x": "요즘 PC 게임을 받쳐주려면 게임이 돌아가는 것만으로는 부족하다. 큰 온라인 게임 상당수가 여러 플랫폼에 걸쳐 공정한 플레이를 지키려고 정교한 치트 차단 기술에 기댄다. 엔비디아는 EA와 함께 EA Javelin Anticheat를 RTX Spark에서 네이티브로 지원하도록 작업해왔다. EA SPORTS F1 25 같은 EA의 대형 멀티플레이 게임이 대상이다. RTX Spark는 올가을 나온다."
-          },
-          {
-            "t": "img",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/08/RTX-Spark-EA-F1-Update-scaled.jpg",
-            "cap": "RTX Spark에 올라가는 EA SPORTS F1 25. 이미지 출처: NVIDIA"
-          },
-          {
-            "t": "video",
-            "yt": "3VeAFFry80I"
+            "x": "Famitsu 인터뷰에서 Horii는 Slimey를 넣은 이유와 AI를 보는 시각을 밝혔다. GamesRadar+가 옮긴 내용이다. \"요즘 AI는 정말 똑똑해서 재미있습니다.\" 그의 말이다. \"뭘 물어봐도 이제는 거의 지어내지 않아요.\""
           },
           {
             "t": "p",
-            "x": "게임스컴 발표는 RTX Spark만이 아니다. DLSS 4.5 레이 리컨스트럭션이 오늘부터 열렸다. 2세대 트랜스포머 모델을 써서 레이·패스 트레이싱 화면의 화질을 더 끌어올린다. 기존 디노이저 자리를 엔비디아 슈퍼컴퓨터로 학습한 AI 네트워크가 대신해, 레이가 닿지 않은 프레임 영역까지 더 나은 픽셀로 복원한다. CONTROL Resonant와 007 First Light에는 패스 트레이싱이 들어간다. Gears of War: E-Day는 RTX Mega Geometry를 붙였다. RTX Remix는 Painkiller RTX 모드 대형 업데이트를 내놨고 The Elder Scrolls III: Morrowind RTX를 준비한다. GeForce NOW에는 새 DLSS 4.5 제어와 Steam Machine 지원 확대가 붙는다."
+            "x": "AI는 사실 정확도에서 자주 말썽을 일으킨다. 필요한 정보가 없어도 일단 답부터 내놓는 탓이다. Square Enix 하면 떠오르는 이 게임 디자이너도 같은 일을 겪었다. \"한참 전에 AI한테 저에 대해 물었더니 제가 'Nintendo 직원'이라고 하더군요.\" 그는 웃으며 말했다."
+          },
+          {
+            "t": "p",
+            "x": "그러면서 AI를 이렇게 옹호했다. \"AI는 진화하고 있고, 요즘은 AI로 할 수 있는 일이 많습니다. Slimey는 대화 상대니까 AI를 상대하는 문턱을 낮춰준다고 봅니다.\""
           }
         ]
       }
     },
     {
-      "id": "games-nordic-ai-studios",
+      "id": "games-ironmace-aura",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 들어온 북유럽 스튜디오,\n한 사람이 맡는 범위가 넓어진다",
-      "body": "북유럽 관계자 다섯 명이 직군 통합과 섀도 AI 같은 현장의 위험을 함께 꺼냈다.",
-      "mini_headline": "북유럽 스튜디오의 AI",
+      "headline": "비개발자 디자이너가 코드베이스에서\n튜토리얼을 절반 기간에 만들었다",
+      "body": "AI 도구 Aura를 쓴 비개발자 디자이너가 5~6주짜리 튜토리얼을 2주에 끝냈다.",
+      "mini_headline": "절반으로 줄인 개발 기간",
       "tool": "Games",
-      "source": "PocketGamer.biz",
-      "url": "https://www.pocketgamer.biz/how-nordic-studios-are-using-ai-from-legal-risk-to-ai-native-production/",
-      "accent": "#2ec5c5",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/how-dark-and-darker-s-devs-used-aura-to-build-a-major-feature-in-half-the-time",
+      "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://media.pocketgamer.biz/images/140900/89606/ainordicsmainimage_l1200.jpg",
-            "cap": "북유럽 게임 업계의 AI 도입을 짚은 다섯 사람. 이미지 출처: PocketGamer.biz"
+            "t": "p",
+            "x": "Dark and Darker를 만든 IRONMACE가 Aura를 어떻게 썼는지 밝혔다. 기술 배경이 없는 디자이너가 게임 코드베이스에 직접 손을 대고, 튜토리얼 시스템을 프로토타이핑하고, 엔지니어와 소통하면서, 스튜디오 추산으로 5~6주가 걸릴 일을 단 몇 주 만에 끝냈다."
+          },
+          {
+            "t": "video",
+            "yt": "au1qwSYq4vA"
           },
           {
             "t": "p",
-            "x": "북유럽 게임 업계의 AI를 다루는 연재 첫 편이다. 그 변화에 가까이 선 다섯 사람을 만났다. 스튜디오 창업자 둘, AI 네이티브 스튜디오 공동창업자, 게임 전문 변호사, 여러 스튜디오를 오가는 사업개발 매니저다."
+            "x": "게임 개발에서 AI를 쓰는 길은 생성형 아트 말고도 넓고, 이미 겉으로 드러나지 않는 자리에서 새 기술을 시험하는 스튜디오가 있다. IRONMACE에게 그건 프로그래밍 경험이 적은 디자이너가 AI 코딩 어시스턴트 Aura를 끼고 큰 신기능 구현에 직접 기여할 수 있는지 보는 일이었다."
           },
           {
             "t": "p",
-            "x": "Drive Ahead!로 자연 유입 다운로드 3억 건을 넘긴 Dodreams의 회장이자 공동창업자 Mikael Gummerus는 AI가 어디까지 들어왔는지 솔직하게 말한다. \"Dodreams에서 AI가 가장 크게 바꿔놓은 건 데이터 분석, 그리고 그 데이터를 실행 가능한 제안으로 바꾸는 일입니다. 수작업이 크게 줄었고 따로 쓰던 시스템 수도 줄었습니다. 인력이 모자라 찾아내지 못하던 관점까지 얻습니다.\" 유니티 개발과 아트에서는 아직 같은 도약이 없었다. 손이 많이 가는 영역이라 이득이 점진적이다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.pocketgamer.biz/images/140897/89606/mikaelandtatu_1200.jpg",
-            "cap": "왼쪽부터 Dodreams의 Mikael Gummerus, Odd Latent의 Tatu Petersen-Jessen. 이미지 출처: PocketGamer.biz"
-          },
-          {
-            "t": "p",
-            "x": "Rovio 시니어 아트 디렉터와 Remedy 아트팀 매니저를 거친 Tatu Petersen-Jessen은 Odd Latent을 대놓고 AI 네이티브 스튜디오로 세웠다. 그가 보는 변화는 새 직함이 아니라 한 사람이 감당하는 범위다. \"우리는 그 자리를 '게임 스페셜리스트'라고 부릅니다. 사실상 아트와 디자인, 코드를 오가는 1인 게임 팀입니다.\" 사라진 건 개별 공예가 아니라 한 분야 안에서만 일하고 다음 전문가에게 넘기는 좁은 직무였다. \"복잡도와 경쟁이 팀 규모와 분업을 키우기 전, 게임 개발이 원래 어땠는지로 돌아가는 것에 가깝다고 봅니다.\""
+            "x": "실험 대상은 Dark and Darker에 유독 없던 것, 제대로 된 튜토리얼이었다. 그동안은 익스트랙션 던전 크롤러의 \"하드코어\" 정체성을 들어 부재를 설명해왔지만 진짜 걸림돌은 개발 리소스였다. 튜토리얼을 만들자면 당장 급한 불에서 개발자를 빼내 신규 플레이어 온보딩에 투입해야 했다."
           },
           {
             "t": "img",
-            "src": "https://media.pocketgamer.biz/images/140899/89606/oliviaandtuomas_1200.jpg",
-            "cap": "왼쪽부터 Brimstone AI의 Olivia Tunkelo, Nordia Law의 Tuomas Pelkonen. 이미지 출처: PocketGamer.biz"
+            "src": "https://cdn.80.lv/api/upload/content/e6/images/6a863f9091f3e/widen_1840x0.jpg",
+            "cap": "Dark and Darker. 이미지 출처: IRONMACE"
           },
           {
             "t": "p",
-            "x": "Brimstone AI의 COO이자 공동창업자 Olivia Tunkelo는 회사가 묘한 자리에 있다고 말한다. \"Brimstone은 도입과 경계가 겹치는 독특한 교차점에 있습니다. AI에 반대하는 사람들을 위한 AI 제품이니까요.\" 안에서도 AI 보조 개발에 기대되 기능은 빠르게 시험하고 마무리는 손으로 다듬는다. 사람의 창작을 중심에 두는 목표는 AI 때문에 바뀌지 않는다고 했다."
+            "x": "IRONMACE CEO 겸 공동창업자 Terence Park의 말이다. \"제 배경은 게임 디자인과 프로듀서입니다. 스크립트를 조금 만지고 자료 구조도 알지만 프로그래밍이 강점은 아니에요.\" 원래대로라면 역할별로 인원을 붙인 전담 팀을 꾸리고, 회의가 늘어나고, 다루기 힘든 파이프라인을 관리했을 일이다."
           },
           {
             "t": "p",
-            "x": "Nordia Law의 변호사 Tuomas Pelkonen에게 들어오는 질문 자체는 그대로다. AI를 이렇게 쓰는데 위험이 보이느냐. 달라진 건 설명의 밀도와 사용처 개수다. AI Act가 스튜디오에 실제로 무엇을 요구하는지도 반복해 올라온다. \"특히 트리플 A에서는 플레이어가 AI 생성 콘텐츠를 아예 받아들이지 않을 수 있습니다. 오래된 브랜드일수록 좋아하는 게임과 캐릭터에 대한 애착이 깊어서, 그게 AI로 만들어졌을지 모른다는 생각 자체를 견디지 못합니다.\" 스튜디오가 채택하지 않은 도구를 개발자가 몰래 쓰는 '섀도 AI'도 논의 대상이다. 일정에 쫓겨 혼자 손을 대고 알리지 않으면 회사는 출시 뒤에야 알게 된다. 그때는 상업적 문제이자 법적 문제가 된다."
+            "x": "실제 진행은 유연했다. 첫 모임에서 아이디어의 뼈대를 잡고, 이후 Park은 큰 결정을 내린 뒤 세부 맥락은 Aura로 메웠다. 체크포인트식 튜토리얼로 가기로 정하자 체크포인트 하나하나를 Aura와 함께 쌓았다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/0e/images/6a863f98a8b01/widen_1840x0.jpg",
+            "cap": "Dark and Darker. 이미지 출처: IRONMACE"
           },
           {
             "t": "p",
-            "x": "여러 스튜디오를 오가며 사업개발을 맡는 Hind Toufga는 도입이 빠르게 성숙한다고 본다. 코딩 보조와 자동 테스트, QA, 현지화, 데이터 분석, 콘셉트 개발, 반복 작업이 대상이다. \"가장 흥미로운 대목은 AI가 창작 인력을 대체하는 게 아니라, 작은 팀이 더 빠르게 일하고 개발자가 사람의 창의와 판단이 진짜 필요한 곳에 시간을 더 쓰게 되는 겁니다.\" 가장 많이 얻는 스튜디오는 AI를 가장 많이 쓰는 곳이 아니라, 어디서 파이프라인이 실제로 좋아지는지 아는 곳이라고 했다."
+            "x": "협업 채팅방을 열고 문서 대신 예시 에셋을 저장소에 올리는 방식으로 굴렸다. 시차가 다른 팀원들이라 Park은 자기 시간대에 들어와 Aura로 새로 올라온 것을 파악하고 곧장 콘텐츠를 만들었다. 원하는 기능을 단체 대화에 남기면 대체로 다음 날 새 기능이 와 있었다."
+          },
+          {
+            "t": "p",
+            "x": "제때 못 끝낸 복잡한 튜토리얼 트리거 몇 개는 Park이 Aura에게 직접 코드를 짜게 했다. 튜토리얼에서 해골 시체에서 붕대를 집는 법을 배우는 대목이 그렇게 만들어졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/0b/images/6a863f9f44200/widen_1840x0.jpg",
+            "cap": "Dark and Darker. 이미지 출처: IRONMACE"
+          },
+          {
+            "t": "p",
+            "x": "검증과 테스트는 여전히 사람이 게임 에디터 안에서 했다. Aura가 만든 UI 위젯과 로직 연결은 쓸 만했지만 마지막 손질은 아티스트가 맡았다."
+          },
+          {
+            "t": "p",
+            "x": "\"이제는 믿습니다.\" Park의 결론이다. 코드베이스를 잘 모르던 엔지니어가 기본 시스템을 상당 부분 만들었고, 5-6주 걸릴 작업이 Aura 덕분에 절반 기간에 끝났다."
           }
         ]
       }
     },
     {
-      "id": "games-tanioka-spotify",
+      "id": "games-sega-crazytaxi",
       "eyebrow": "AI NEWS",
-      "headline": "크리스탈 크로니클 작곡가 이름으로\nAI 앨범이 스포티파이에 올라왔다",
-      "body": "Kumi Tanioka가 만들지 않은 EP가 그의 이름을 달고 스포티파이에 올랐다.",
-      "mini_headline": "이름 도용당한 작곡가",
+      "headline": "생성형 AI는 발상 단계에만 썼고\n출시 전 결과물은 모두 지운다",
+      "body": "세가는 크레이지 택시에서 AI를 발상 단계에만 썼고 출시 전 모두 걷어낸다.",
+      "mini_headline": "출시 전 걷어내는 AI",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify",
+      "source": "TheGamer",
+      "url": "https://www.thegamer.com/sega-update-crazy-taxi-world-tour-ai/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/ss_c213e51098f46b7466d5526b05335efe20e7ab7f-1920x1080.jpg?w=1600&h=900&fit=crop",
+            "cap": "Crazy Taxi: World Tour. 이미지 출처: Sega"
+          },
+          {
+            "t": "p",
+            "x": "Crazy Taxi: World Tour의 멀티플레이 모드가 화요일 Gamescom ONL에서 처음 공개됐다. 개발 과정의 AI 사용 탓에 세가 시리즈의 부활을 마냥 반기기 어려웠다면 반가운 소식이 있다. 세가가 Crazy Taxi 개발에서 AI를 정확히 어디에 썼는지 다시 밝혔는데, 완벽하진 않아도 처음 알려진 것보다는 훨씬 낫다."
+          },
+          {
+            "t": "p",
+            "x": "Xbox Games Showcase의 World Tour 공개 영상에서 그 상징적인 \"Yeah yeah yeah yeah yeah\"가 울렸을 때, 나도 여러분처럼 천장을 뚫었다. Crazy Taxi가 돌아왔고 사운드트랙은 그대로였고 잠깐 보여준 장면도 좋았다."
+          },
+          {
+            "t": "p",
+            "x": "문제는 그다음이었다. 게임이 공개되면 사람들이 가장 먼저 하는 일이 스팀 페이지를 열어 AI가 쓰였는지 확인하는 것이다. World Tour 페이지에는 실제로 AI 사용 고지가 붙어 있었고, 몇 분 전까지 들떠 있던 사람들이 등을 돌렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-08-jun-2026-10-14-am-9919.jpg?q=90&fit=crop&w=1200",
+            "cap": "Crazy Taxi: World Tour. 이미지 출처: Sega"
+          },
+          {
+            "t": "p",
+            "x": "그 고지는 모호하기까지 했다. 게임 출연자를 AI가 대신하지 않았다는 확인이 전부였다. 세가는 반발을 확인하고, Automaton이 포착한 대로 World Tour 페이지의 AI 고지를 고쳐 생성형 AI를 개발에 정확히 어떻게 썼는지 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "나쁜 소식은 AI가 쓰였다는 것이고, 이건 피할 길이 없다. 좋은 소식은 \"배경 오브젝트 발상 과정의 일부로만\" 썼다는 것이다. 더 좋은 소식도 있다. 발상을 돕는 데 쓰인 AI 생성 콘텐츠와 그 배경 오브젝트에 남은 부분을 최종 버전 출시 전에 전부 걷어내겠다고 세가가 약속했다."
+          },
+          {
+            "t": "p",
+            "x": "완벽하진 않아도 이전의 두루뭉술한 \"AI를 썼다\"보다는 크게 나아졌다. 세가가 언제 문구를 고쳤는지는 분명하지 않다. 한 달 전쯤 손봤을 수도 있다. 사람들이 알아챈 건 새 트레일러 공개 뒤 페이지를 다시 찾은 화요일이었다."
+          },
+          {
+            "t": "p",
+            "x": "이로써 World Tour는 최근 몇 년 사이 발상 단계나 임시 소재로 AI를 쓰고도 큰 상처 없이 빠져나온 게임들과 같은 자리에 선다. Crimson Desert는 Pearl Abyss가 문제된 AI 아트를 최종 게임에 남겨두어 걸렸고, Clair Obscur: Expedition 33은 개발 과정의 비슷한 AI 사용으로 받았던 상 하나를 잃었다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "games-ryzachat",
+      "eyebrow": "AI NEWS",
+      "headline": "인기 RPG 주인공 라이자가\nAI 대화 앱으로 출시됐다",
+      "body": "라이자가 일본에서 챗봇 앱으로 나왔고 오간 대화는 학습에 쓰지 않는다.",
+      "mini_headline": "AI 챗봇이 된 라이자",
+      "tool": "Games",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -179,86 +245,37 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/final-fantasy-crystal-chronicles_WngFDhT.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-            "cap": "Final Fantasy: Crystal Chronicles. 이미지 출처: Square Enix"
+            "src": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg",
+            "cap": "RyzaChat: AI의 라이자. 이미지 출처: Koei Tecmo"
           },
           {
             "t": "p",
-            "x": "Final Fantasy: Crystal Chronicles 작곡가 Kumi Tanioka가 스포티파이에 자기 이름으로 올라온 앨범을 두고 입을 열었다. 문제는 간단하다. 그는 이 앨범과 아무 상관이 없다."
+            "x": "Koei Tecmo와 Gust의 아틀리에 시리즈는 최근 몇 년 사이 세계적으로 인기가 폭발했다. 아틀리에 라이자의 성공과 주인공 디자인이 한몫했는데, 제작진 스스로 더 많은 플레이어를 끌어들이려고 일부러 관능적으로 만들었다고 인정한 캐릭터다. 개발진은 라이자 없이 여러 신작을 내며 다른 이야기로 옮겨갔지만, 라이자의 인기와 외형은 결국 그를 Koei Tecmo의 최신 생성형 AI 실험 대상으로 만들었다. 팬들의 감정을 파라소셜한 무료 시작형 AI 챗봇 RPG로 끌어오는 기획이다."
           },
           {
             "t": "p",
-            "x": "X에 올린 글에서 Tanioka는 상황이 혼란스럽다고 했다. A Village Built on Wind라는 제목으로 자기 이름이 붙은 스포티파이 EP가 동명이인의 작업인지, 생성형 AI로 만든 것인지 물었다. \"이 앨범은 확실히 제가 만든 게 아닙니다.\""
+            "x": "일본 게임사의 절반 넘는 곳이 AI를 시험하는 마당이라, Koei Tecmo와 일본 AI 스타트업 Spiral AI가 손잡고 이런 프로젝트를 내놓는 게 놀랍지는 않다. 새 모바일 스핀오프는 그 실험을 시리즈에서 가장 사랑받는 캐릭터 라이자를 앞세운 AI RPG로 묶었다. 한 번 더 모험을 떠나는 라이자, 아니면 그냥 대화 상대로서의 라이자다."
           },
-          {
-            "t": "video",
-            "yt": "nC25vRjpkpU"
-          },
-          {
-            "t": "p",
-            "x": "Tanioka는 스포티파이 인증 아티스트다. 서비스가 그를 \"authentic\" 창작자로 인정했다는 표시다. 그런데도 EP는 그의 이름으로 배정됐다. 등록 과정에 그가 관여한 흔적은 보이지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "혼란스러운 쪽은 그만이 아니다. 그의 음악 일부를 낸 퍼블리셔 Digital Sonic Design도 성명을 냈다. 이 트랙들이 Tanioka 작품의 저작권을 침해하지는 않지만, 이름이 잘못 붙은 탓에 대중을 혼동시킬 소지가 있다는 내용이었다. 회사는 유튜브 뮤직에서 같은 곡들이 AI 생성으로 표시된 점도 짚었다."
-          },
-          {
-            "t": "p",
-            "x": "성명은 이렇게 닫힌다. \"스트리밍 서비스 플랫폼의 구조적 취약점을 파고든 사례로 보입니다. 미공개 비공식 트랙이 귀카피로 재현돼 유통된 전례도 있었던 만큼, 어떤 형태로든 대응을 고민하게 됩니다.\""
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-humankind2-ai-doubt",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 아니냐는 의심부터 받은\n휴먼카인드 2 공개 트레일러",
-      "body": "Amplitude Studios는 실사 장면을 배우와 세트에서 찍었다고 밝혔다.",
-      "mini_headline": "AI 의심받은 트레일러",
-      "tool": "Games",
-      "source": "TheGamer",
-      "url": "https://www.thegamer.com/humankind-2-trailer-ai-accusations/",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/an-image-of-a-cavewoman-from-the-humankind-2-reveal-trailer.jpg?fit=crop&w=1600&h=900",
-            "cap": "휴먼카인드 2 공개 트레일러의 한 장면. 이미지 출처: Amplitude Studios"
+            "src": "https://kotaku.com/app/uploads/2026/08/Ryza-AI.jpg",
+            "cap": "RyzaChat: AI. 이미지 출처: Koei Tecmo"
           },
           {
             "t": "p",
-            "x": "게임스컴 2026이 시작됐고, 오프닝 나이트 라이브 사전 쇼가 끝나기 무섭게 논란이 붙었다. 한 게임의 공식 데뷔가 AI를 썼다는 의혹을 받았다. Humankind 2가 트레일러와 함께 공개됐는데, 실사 장면이 미심쩍게 AI처럼 보였고 공식 유튜브 채널에도 영상 자체에도 아무 고지가 없었다."
+            "x": "오늘 일본에서 iOS와 안드로이드로 나온 RyzaChat: AI는 원작 아틀리에 라이자의 무대인 쿠켄 섬으로 돌아간다. 플레이어는 열린 형태의 챗봇으로 라이자와 시리즈의 다른 캐릭터들을 상대로, 개발진 표현으로는 거의 무한에 가까운 개인화된 생성 퀘스트를 롤플레이한다. RPG 모드 외에 \"프리 챗\" 모드에서는 라이자와 친해지며 주제 없이 대화한다. 이 캐릭터가 귀에 속삭이는 인공 음성이 필요하다면 ASMR 모드까지 있다."
           },
           {
             "t": "p",
-            "x": "트레일러가 나온 직후 공식 트위터/X 계정이 답했다. AI는 쓰지 않았고 배우들의 사진을 곧 공개하겠다는 내용이었다."
+            "x": "팀은 이 프로젝트를 윤리적 AI 어드벤처라고 부른다. 게임에서 오간 대화 기록은 앞으로의 AI 모델 학습에 쓰지 않고, 라이자의 목소리는 원작 일본어 성우의 음원만으로 학습했다. 게임 안에 생성형 AI 아트나 모델도 넣지 않았고, 원작 아티스트들이 돌아와 새 아트를 그렸다."
           },
           {
             "t": "p",
-            "x": "15:00 ET 업데이트. 공식 Humankind 트위터/X 계정이 트레일러를 소피아의 Mu Boyana Film Studios에서 찍었다는 성명을 냈다. 실제 배우가 맞춤 제작한 소품과 실물 세트에서 연기했다. 비하인드 사진을 공개하겠다는 약속도 다시 확인했다."
-          },
-          {
-            "t": "video",
-            "yt": "1LFHvSTt880"
+            "x": "그래도 비키니 같은 구독자 전용 의상이 붙은 구독 모델에, 무료로 주는 토큰을 다 쓰면 대화를 이어가려고 따로 결제해야 하는 구조다. 시리즈 팬 중에서도 아주 좁은 층을 겨냥한 설계이고, 동반자 라이자에게 빠져든 사람을 상대로 착취가 벌어질 여지가 넓다."
           },
           {
             "t": "p",
-            "x": "원작 Humankind는 2021년에 나왔다. 요즘 시장 속도를 생각하면 후속작이 꽤 빨리 온 편이다. 그런데 기대감은 금세 혼란으로 바뀌었다. 공개 트레일러의 실사 구간을 두고 \"AI 슬롭\"이라는 말이, 더 험한 말도 함께 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "유튜브 댓글은 AI 이야기로 쏠렸다. 진짜 실사라고 두둔하는 쪽도 있었지만 비꼬는 투가 많았고, 트레일러에 AI가 없다는 근거를 내놓는 댓글은 드물었다."
-          },
-          {
-            "t": "p",
-            "x": "Humankind 같은 전략·문명 게임은 그래픽 말고 다른 걸로 기억된다. 그런데 Humankind 2를 둘러싼 첫 대화는 게임이 아니라 트레일러의 AI 사용 의혹이었고, 그 의혹은 곧장 뒤집혔다. 삭제된 게시물에 답하며 공식 Humankind 트위터/X 계정이 트레일러 제작에 AI를 쓰지 않았다고 확인했다. 배우들의 사진도 보여주겠다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "적어도 트레일러의 AI 사용 논쟁은 여기서 정리된다. 게임 본편까지 이어지면 더 좋겠다. AI는 여전히 뜨거운 주제이고, 게임처럼 창작이 중심인 분야에서는 반감이 특히 크다. 스팀 게임 페이지에 고지가 요구되는 이유도 거기에 있다. 이런 식의 투명한 확인이 플레이어의 걱정을 덜어준다."
+            "x": "글로벌 출시도 예정돼 있다. 일본판 앱은 이미 영어를 포함한 여러 언어를 지원하지만 해외 출시 날짜는 아직 확정되지 않았다."
           }
         ]
       }
