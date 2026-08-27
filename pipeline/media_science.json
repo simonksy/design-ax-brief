@@ -1,11 +1,31 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "science",
   "media": [
-    { "id": "science-aintibody",       "type": "image", "src": "pipeline/media/science-aintibody.jpg" },
-    { "id": "science-crysvcd",         "type": "image", "src": "pipeline/media/science-crysvcd.jpg" },
-    { "id": "science-hydrogym",        "type": "image", "src": "pipeline/media/science-hydrogym.jpg" },
-    { "id": "science-kids-language",   "type": "image", "src": "pipeline/media/science-kids-language.jpg" },
-    { "id": "science-tensor-networks", "type": "image", "src": "pipeline/media/science-tensor-networks.jpg" }
+    {
+      "id": "science-fluid-ai",
+      "type": "image",
+      "src": "pipeline/media/science-fluid-ai.jpg"
+    },
+    {
+      "id": "science-protein-beyond",
+      "type": "image",
+      "src": "pipeline/media/science-protein-beyond.png"
+    },
+    {
+      "id": "science-double-blind-eval",
+      "type": "image",
+      "src": "pipeline/media/science-double-blind-eval.jpg"
+    },
+    {
+      "id": "science-solar-storm-9h",
+      "type": "image",
+      "src": "pipeline/media/science-solar-storm-9h.jpg"
+    },
+    {
+      "id": "science-qled-ml",
+      "type": "image",
+      "src": "pipeline/media/science-qled-ml.jpg"
+    }
   ]
 }

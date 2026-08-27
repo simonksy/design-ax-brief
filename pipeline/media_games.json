@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "games",
   "media": [
     {
-      "id": "games-ludoai-keyframe",
-      "type": "image",
-      "src": "pipeline/media/games-ludoai-keyframe.jpg"
-    },
-    {
-      "id": "games-horii-slimey",
-      "type": "image",
-      "src": "pipeline/media/games-horii-slimey.jpg"
-    },
-    {
-      "id": "games-ironmace-aura",
+      "id": "games-meta-xr-operator",
       "type": "video",
-      "src": "pipeline/media/games-ironmace-aura.mp4",
-      "poster": "pipeline/media/games-ironmace-aura.jpg"
+      "src": "pipeline/media/games-meta-xr-operator.mp4",
+      "poster": "pipeline/media/games-meta-xr-operator.jpg"
     },
     {
-      "id": "games-sega-crazytaxi",
+      "id": "games-side-modlai-qa",
       "type": "image",
-      "src": "pipeline/media/games-sega-crazytaxi.jpg"
+      "src": "pipeline/media/games-side-modlai-qa.jpg"
     },
     {
-      "id": "games-ryzachat",
+      "id": "games-tencent-motus",
       "type": "image",
-      "src": "pipeline/media/games-ryzachat.jpg"
+      "src": "pipeline/media/games-tencent-motus.jpg"
+    },
+    {
+      "id": "games-gamescom-ai-disclosure",
+      "type": "image",
+      "src": "pipeline/media/games-gamescom-ai-disclosure.jpg"
+    },
+    {
+      "id": "games-gta6-no-genai",
+      "type": "image",
+      "src": "pipeline/media/games-gta6-no-genai.jpg"
     }
   ]
 }

@@ -1,11 +1,31 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "books",
   "media": [
-    { "id": "books-ukraine-monograph-oa", "type": "image", "src": "pipeline/media/books-ukraine-monograph-oa.jpg" },
-    { "id": "books-kaze-us-no-ai-translation", "type": "image", "src": "pipeline/media/books-kaze-us-no-ai-translation.jpg" },
-    { "id": "books-uncanny-valley-detection", "type": "image", "src": "pipeline/media/books-uncanny-valley-detection.jpg" },
-    { "id": "books-indie-manga-alliance", "type": "image", "src": "pipeline/media/books-indie-manga-alliance.jpg" },
-    { "id": "books-library-news-august", "type": "image", "src": "pipeline/media/books-library-news-august.jpg" }
+    {
+      "id": "books-google-expert-intelligence",
+      "type": "image",
+      "src": "pipeline/media/books-google-expert-intelligence.jpg"
+    },
+    {
+      "id": "books-amazon-vgt3-scanning",
+      "type": "image",
+      "src": "pipeline/media/books-amazon-vgt3-scanning.jpg"
+    },
+    {
+      "id": "books-ai-ghost-authors",
+      "type": "image",
+      "src": "pipeline/media/books-ai-ghost-authors.jpg"
+    },
+    {
+      "id": "books-ai-ban-disabled-authors",
+      "type": "image",
+      "src": "pipeline/media/books-ai-ban-disabled-authors.jpg"
+    },
+    {
+      "id": "books-scholarly-kitchen-ai-use",
+      "type": "image",
+      "src": "pipeline/media/books-scholarly-kitchen-ai-use.jpg"
+    }
   ]
 }

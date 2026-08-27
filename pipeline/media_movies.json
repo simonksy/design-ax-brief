@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "movies",
   "media": [
     {
-      "id": "movies-flow-studio-3d",
+      "id": "movies-cocomelon-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-cocomelon-ai.png"
+    },
+    {
+      "id": "movies-media-composer-2026-8",
+      "type": "image",
+      "src": "pipeline/media/movies-media-composer-2026-8.jpg"
+    },
+    {
+      "id": "movies-wonka-gene-wilder",
       "type": "video",
-      "src": "pipeline/media/movies-flow-studio-3d.mp4",
-      "poster": "pipeline/media/movies-flow-studio-3d.jpg"
+      "src": "pipeline/media/movies-wonka-gene-wilder.mp4",
+      "poster": "pipeline/media/movies-wonka-gene-wilder.jpg"
     },
     {
-      "id": "movies-human-gen-workflows",
+      "id": "movies-ai-short-drama",
       "type": "image",
-      "src": "pipeline/media/movies-human-gen-workflows.jpg"
+      "src": "pipeline/media/movies-ai-short-drama.jpg"
     },
     {
-      "id": "movies-lineo-producers",
-      "type": "image",
-      "src": "pipeline/media/movies-lineo-producers.jpg"
-    },
-    {
-      "id": "movies-unreleased-video-models",
+      "id": "movies-scantic-3dgs",
       "type": "video",
-      "src": "pipeline/media/movies-unreleased-video-models.mp4",
-      "poster": "pipeline/media/movies-unreleased-video-models.jpg"
-    },
-    {
-      "id": "movies-busan-innoasia",
-      "type": "image",
-      "src": "pipeline/media/movies-busan-innoasia.jpg"
+      "src": "pipeline/media/movies-scantic-3dgs.mp4",
+      "poster": "pipeline/media/movies-scantic-3dgs.jpg"
     }
   ]
 }

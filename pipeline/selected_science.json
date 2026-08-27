@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "science",
   "picks": [
     {
-      "url": "https://phys.org/news/2026-08-ai-antibodies-laboratory.html",
+      "url": "https://phys.org/news/2026-08-fast-error-prone-ai-decades.html",
       "source": "Phys.org",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "The AIntibody Challenge is the first blinded, prospective wet-lab test of AI-designed antibodies — a hard reality check on generative protein design, published in Nature Biotechnology.",
-      "published_iso": "2026-08-26T20:00:06Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designs-new-antibod-1.jpg",
-      "excerpt": "Researchers affiliated with UTHealth Houston, competing as Novamab AI, placed among the top five teams in the international AIntibody Challenge, a blinded, prospective benchmark published in Nature Biotechnology. It is one of the first hard tests of whether AI-designed antibodies actually bind their targets in the lab."
+      "rationale": "A year-and-a-half math problem cracked in five weeks with an AI partner that also slipped in subtle errors — the clearest picture yet of what AI-assisted research actually costs and buys.",
+      "published_iso": "2026-08-27T20:40:05Z",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/fast-but-error-prone-a-1.jpg",
+      "excerpt": "An AI assistant helped University of Colorado Boulder researchers crack a mathematical problem their lab had wrestled with for a year and a half, in five weeks. It also made subtle errors along the way, exposing both the promise and the limits of AI as a research partner."
     },
     {
-      "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+      "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
       "source": "MIT News",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "CrysVCD bolts chemical-valence constraints onto generative crystal models, so the designs that come out are synthesizable instead of screened away later.",
-      "published_iso": "2026-08-26T09:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-Valence-01-press.jpg",
-      "excerpt": "MIT researchers added a new component to AI models that design new materials, helping ensure the material will be stable and practical for real-world use. The CrysVCD approach could reduce the money and time spent screening out unusable generated designs."
+      "rationale": "MIT's framework raises the hit rate of computational protein design while pushing models past regurgitating sequences nature already wrote.",
+      "published_iso": "2026-08-27T19:20:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202608/mit-biology-Keating-Lab-proteins.jpg",
+      "excerpt": "MIT biologists built a machine-learning framework that raises the hit rate of computational protein design while pushing models away from simply regurgitating sequences that already exist in nature."
     },
     {
-      "url": "https://techxplore.com/news/2026-08-simulated-ground-ai-fluid-dynamics.html",
-      "source": "Tech Xplore",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "HydroGym is an open RL benchmark for flow control, and controllers trained on toy channel flows transferred to a wing sim — concrete evidence that learned control generalizes.",
-      "published_iso": "2026-08-26T17:20:17Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/hydrogym-trains-assess.jpg",
-      "excerpt": "HydroGym, an open reinforcement-learning proving ground from Washington, Michigan and German groups, trains and benchmarks AI controllers for fluid flow. Controllers trained on simple channel flows transferred to a wing simulation, cutting surface friction 38% and drag 11%."
+      "rationale": "Borrowing clinical-trial blinding for AI benchmarks attacks the field's deepest credibility problem — labs grading their own homework.",
+      "published_iso": "2026-08-27T14:00:00Z",
+      "og_image": "",
+      "excerpt": "DeepMind is piloting double-blind evaluation of AI systems, borrowing clinical-trial methodology so benchmark results can't be gamed by labs grading their own homework."
     },
     {
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Technology Review",
+      "url": "https://www.universetoday.com/articles/ai-spots-hidden-solar-storm-signs-9-hours-early",
+      "source": "Universe Today",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Cognitive scientists are reverse-engineering why a child needs orders of magnitude less data than an LLM — the clearest current line between developmental science and model efficiency.",
-      "published_iso": "2026-08-24T09:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
-      "excerpt": "LLMs need vastly more data than children to learn language. Cognitive scientists are reverse-engineering that data-efficiency gap in the hope of building far more efficient models — and learning something about developing minds."
+      "rationale": "Nine extra hours of warning is operational, not academic — satellite and grid operators can act on it today.",
+      "published_iso": "2026-08-27T01:16:25Z",
+      "og_image": "https://www.universetoday.com/article_images/14972_Active_Region_Short_Horiz_ProRes_1920x1080_2997_ed.jpg_750_20260827_0",
+      "excerpt": "A machine-learning model reading subtle magnetic precursors in solar observations flags coming solar storms up to nine hours before current space-weather methods, buying satellite and grid operators real lead time."
     },
     {
-      "url": "https://physicsworld.com/a/no-quantum-advantage-yet-in-the-world-of-tensor-networks/",
+      "url": "https://physicsworld.com/a/improved-qleds-with-machine-learning/",
       "source": "Physics World",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Classical tensor networks beat a quantum annealer on Ising spin glasses — another data point that learned classical solvers keep moving the quantum-advantage goalposts.",
-      "published_iso": "2026-08-21T13:41:22Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/21-8-26-tn-nohora.jpg",
-      "excerpt": "Classical tensor-network computation proved more accurate than a quantum annealer for some Ising spin glasses, another data point in the contest between learned classical solvers and quantum hardware."
+      "rationale": "ML searched solvent formulation space to yield unusually homogeneous quantum-dot films — a materials-processing win that lands directly in display engineering.",
+      "published_iso": "2026-08-26T07:00:28Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg",
+      "excerpt": "Machine learning searched solvent formulation space to find recipes that yield unusually homogeneous quantum dot films, a direct materials-processing win for display engineering."
     }
   ]
 }

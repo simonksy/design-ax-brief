@@ -1,11 +1,31 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "gadgets",
   "media": [
-    { "id": "gadgets-android-xr-translate", "type": "image", "src": "pipeline/media/gadgets-android-xr-translate.jpg" },
-    { "id": "gadgets-luffu-link", "type": "video", "src": "pipeline/media/gadgets-luffu-link.mp4", "poster": "pipeline/media/gadgets-luffu-link.jpg" },
-    { "id": "gadgets-samsung-pim", "type": "image", "src": "pipeline/media/gadgets-samsung-pim.jpg" },
-    { "id": "gadgets-gemini-transcribe", "type": "image", "src": "pipeline/media/gadgets-gemini-transcribe.jpg" },
-    { "id": "gadgets-lg-cloid", "type": "image", "src": "pipeline/media/gadgets-lg-cloid.jpg" }
+    {
+      "id": "gadgets-android-ram",
+      "type": "image",
+      "src": "pipeline/media/gadgets-android-ram.jpg"
+    },
+    {
+      "id": "gadgets-meta-led",
+      "type": "image",
+      "src": "pipeline/media/gadgets-meta-led.jpg"
+    },
+    {
+      "id": "gadgets-plaud-one",
+      "type": "image",
+      "src": "pipeline/media/gadgets-plaud-one.jpg"
+    },
+    {
+      "id": "gadgets-microduck",
+      "type": "image",
+      "src": "pipeline/media/gadgets-microduck.jpg"
+    },
+    {
+      "id": "gadgets-whoop-meridian",
+      "type": "image",
+      "src": "pipeline/media/gadgets-whoop-meridian.jpg"
+    }
   ]
 }

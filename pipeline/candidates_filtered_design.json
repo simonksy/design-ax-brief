@@ -1,196 +1,157 @@
 {
-  "date": "2026-08-27",
   "section": "design",
+  "generated_at": "2026-08-27T22:04:22Z",
+  "now_iso": "2026-08-27T22:04:22Z",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62",
+      "url": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
+      "source": "Creative Bloq",
+      "category": "wildcard",
+      "headline": "Adobe seems to be fully embracing AI prompt-based editing in Photoshop",
+      "published_iso": "2026-08-27T13:00:00Z",
+      "excerpt": "Adobe has launched a new AI Assisted Editor mode in Photoshop, where the whole edit is driven by prompts rather than tools. It signals how far Adobe is willing to push prompt-first editing into a pro workflow.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gcxqpJupoHi2PGXgAHX4j-1440-80.jpg"
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/this-indie-dev-found-a-use-for-ai-but-says-the-project-was-still-firmly-human-led",
+      "source": "Creative Bloq",
+      "category": "wildcard",
+      "headline": "This indie dev found a use for AI but says the project was still firmly human led",
+      "published_iso": "2026-08-27T16:00:00Z",
+      "excerpt": "HaZ Dulull turned his own pixel-art game into an animated series using AI tools, but insists the creative direction stayed human-led. A concrete look at where AI sits inside a small creative pipeline.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Gj9mAJAYfB8yPTYWRY3p9R-1920-80.jpg"
+    },
+    {
+      "url": "https://dev.to/astroscout/a-visual-interface-between-humans-and-coding-agents-di",
+      "source": "DEV Community",
+      "category": "figma",
+      "headline": "A Visual Interface Between Humans and Coding Agents",
+      "published_iso": "2026-08-27T19:48:36Z",
+      "excerpt": "Pixy is an attempt to give coding agents a visual surface humans can actually steer, instead of a wall of terminal text. It reframes design-to-code handoff as a shared canvas problem.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnmv027asgcpld6w7x935.png"
+    },
+    {
+      "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
+      "source": "Vercel",
+      "category": "figma",
+      "headline": "Cursor is now available in the AI SDK harness layer",
+      "published_iso": "2026-08-27T14:47:00Z",
+      "excerpt": "Cursor now runs through Vercel's AI SDK harness layer via @ai-sdk/harness-cursor, using the same HarnessAgent interface as every other supported harness. Design-to-code agents become swappable infrastructure.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1n6Al2Mlj10A9dU0k4zUpy/b777fa1e7e2bc5191f17cdf5372114fd/cursor_ai_sdk_harness_adapter_og_card_og_card.jpg"
+    },
+    {
+      "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1",
       "source": "UX Collective",
       "category": "figma",
+      "headline": "What Blade Runner got wrong about AI (so far)",
+      "published_iso": "2026-08-27T20:22:49Z",
+      "excerpt": "A designer re-reads Blade Runner's predictions against the AI interfaces we actually shipped. The gap between cinematic AI and everyday product AI turns out to be a design story.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*a8cp1y4kq63ABYEALRNWEw.png"
+    },
+    {
+      "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix",
+      "source": "UX Collective",
+      "category": "figma",
+      "headline": "AI has a hospitality problem money can't fix",
       "published_iso": "2026-08-26T21:51:09Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*fLVFiV48q_7pvwepVB6ovg.png",
-      "excerpt": "Everyone is spending a fortune making AI smarter, but the missing layer is hospitality — the service design craft of anticipating need and handing off gracefully. The piece argues designers, not model labs, own that gap."
+      "excerpt": "Dan Maccarone argues AI products keep failing at hospitality — the felt sense of being hosted — and no amount of model spend fixes it. It puts service design back at the center of AI UX.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*fLVFiV48q_7pvwepVB6ovg.png"
     },
     {
-      "url": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-08-25T11:18:37Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*wtfCVtevl7C-Ud0-q25MaA.png",
-      "excerpt": "A working model for AI-enabled UX research in which the researcher governs rather than delegates: which parts of synthesis, recruiting and analysis AI can run, and where human judgment must stay in the loop."
-    },
-    {
-      "url": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-08-25T17:12:03Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Jt5aI_258oO1g5G2-x6_1A.png",
-      "excerpt": "The 1982 film and its sequel predicted the design problems teams are still failing to solve — synthetic memory, trust, and the interfaces designers argue about daily. A craft read on AI interface design."
-    },
-    {
-      "url": "https://www.creativebloq.com/ai/ai-art/ai-is-killing-folk-graphic-design-and-the-resulting-lovecraftian-horrors-are-making-people-want-to-never-eat-out-again",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-08-25T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ukxrPCuBRhUBRq9CDUC2WU-1920-80.jpg",
-      "excerpt": "Real restaurant menus generated with AI image tools are replacing vernacular \"folk\" graphic design with uncanny slop. A concrete look at what happens to everyday brand craft when generation is free."
-    },
-    {
-      "url": "https://www.creativebloq.com/design/the-hamnet-netflix-controversy-proves-ai-accusations-are-getting-out-of-hand",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-08-25T04:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2zsQNzvQTUFkkSuz3JoJRM-1917-80.jpg",
-      "excerpt": "The Hamnet poster row shows AI accusations now land on human-made work by default — a new provenance burden that designers and studios have to design around."
-    },
-    {
-      "url": "https://www.creativebloq.com/design/advertising/nope-the-new-apple-ad-isnt-ai-and-theres-a-bts-video-to-prove-it",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-08-26T12:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iM8XZECQkQHHURvdjHpBnY-1857-80.jpg",
-      "excerpt": "Apple's new Mac mini claymation spot was made by hand, and Apple released a behind-the-scenes film to prove it — human craft is becoming an explicit brand signal in the AI era."
-    },
-    {
-      "url": "https://vercel.com/changelog/muse-image-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-08-26T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
-      "excerpt": "Meta's Muse Image model is now callable through Vercel AI Gateway with one API key, automatic fallbacks and spend tracking — lowering the setup cost of wiring image generation into product and design tooling."
-    },
-    {
-      "url": "https://vercel.com/changelog/ai-gateway-now-supports-asynchronous-video-generation",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-08-25T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/168lZ8UYEj2vXGLSuKQgd0/627c0feddaa7504b7e487ab93db4dd19/image__96_.png",
-      "excerpt": "AI Gateway can now run video generation as a background job with webhooks, start/status pairs or polling — making long-running generative video practical inside real product workflows."
-    },
-    {
-      "url": "https://dev.to/sarantoon/claude-code-waad-ui-aidaelw-design-epliiynwithiitham-frontend-2cm4",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-08-26T15:10:26Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr00uyrbvn9vvh6repqwe.png",
-      "excerpt": "A walkthrough of five new UI/UX features in Claude Code, led by the /design command that lets the terminal agent draw and iterate on UI directly — shifting where frontend design work starts."
-    },
-    {
-      "url": "https://dev.to/tnep4/i-built-a-free-and-open-source-alternative-to-paperdesign-and-pendev-align-with-ai-visually-941",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-08-26T16:32:04Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4by5r39tecqgoptzjd4i.png",
-      "excerpt": "Marver is a free, open-source alternative to paper.design and pen.dev: a shared canvas computed from your local files so you can align with an AI agent visually — spec, wireframe and design in working code."
-    },
-    {
-      "url": "https://dev.to/aivideogeneratorfree/ai-generated-images-with-text-why-it-breaks-and-what-actually-works-2bkj",
-      "source": "DEV Community",
+      "url": "https://www.oreilly.com/radar/the-design-system-as-the-control-plane-for-ai-generated-ui/",
+      "source": "O'Reilly Radar",
       "category": "tokens",
-      "published_iso": "2026-08-26T19:08:19Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F24ul7i658bvabkbpn6xt.png",
-      "excerpt": "Why image models still mangle typography inside generated images, and the prompting and compositing workarounds that actually hold up for posters, packaging and ad layouts."
+      "headline": "The Design System as the Control Plane for AI-Generated UI",
+      "published_iso": "2026-08-25T16:10:25Z",
+      "excerpt": "When agents can generate a form, dashboard or modal on demand, the design system stops being a component library and becomes the control plane that constrains what AI is allowed to produce.",
+      "og_image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/The-Design-System-as-the-Control-Plane-for-AI-Generated-UI-1600x1244.jpg"
     },
     {
-      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-      "source": "Smashing Magazine",
+      "url": "https://www.netguru.com/blog/ai-first-design-systems-allegro-predictable-scale",
+      "source": "Netguru",
       "category": "tokens",
-      "published_iso": "2026-08-26T13:00:00Z",
-      "og_image": "https://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
-      "excerpt": "Meriem Benhabiles brings structured UX thinking to dashboards — the questions to ask before opening a tool, and the decisions that determine whether an insight actually lands. Directly relevant as AI floods teams with generated charts."
+      "headline": "How Allegro Builds AI-First Design Systems for Predictable Scale",
+      "published_iso": "2026-08-26T09:29:50Z",
+      "excerpt": "A case study on how Allegro restructured its design system so AI generation produces predictable, on-brand output at scale. Tokens and governance do the heavy lifting.",
+      "og_image": null
     },
     {
-      "url": "https://www.engineering.com/drawing-to-cad-ai-with-a-human-twist/",
-      "source": "Engineering.com",
+      "url": "https://80.lv/articles/create-seamless-psx-textures-from-photos-with-this-newly-released-tool/",
+      "source": "80 Level",
+      "category": "render",
+      "headline": "Create Seamless PSX Textures from Photos with Cycletex: Retro Texture",
+      "published_iso": "2026-08-26T09:08:00Z",
+      "excerpt": "Cycletex: Retro Texture turns ordinary photos into seamless 32-bit-era textures, compressing a fiddly manual step in retro art pipelines into one pass.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49893/images/6a8ead1443bd4/contain_1200x630.jpg"
+    },
+    {
+      "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools",
+      "source": "Animation World Network",
+      "category": "workflow",
+      "headline": "Adobe Unveils New Photoshop AI Tools",
+      "published_iso": "2026-08-27T14:44:19Z",
+      "excerpt": "Photoshop gains a non-destructive Light Adjustment Layer, Firefly Image 5-powered Instruct Edit with Masks, visual Markup prompting, and a beta AI Assisted Editor. The update pushes prompting into layer-level craft.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=4UVjZuUc"
+    },
+    {
+      "url": "https://www.core77.com/posts/145176/Autodesks-Own-Luke-Mihelcic-on-Judging-the-Fusion-Forward-Competition",
+      "source": "Core77",
       "category": "cad",
-      "published_iso": "2026-08-26T18:52:18Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/img_engpaper_thumb2026-aug25.png",
-      "excerpt": "Theia, Spare Parts 3D's tool that turns 2D drawings into 3D CAD models, avoids AI garbage output with an age-old trick: a human verification step built into the generation loop."
+      "headline": "Autodesk's Own Luke Mihelcic on Judging the Fusion Forward Competition",
+      "published_iso": "2026-08-27T13:15:00Z",
+      "excerpt": "Autodesk's Luke Mihelcic warns designers against outsourcing creativity and critical thinking to AI, even while championing what it opens up in Fusion-based industrial design work.",
+      "og_image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847509_lead_400_145176_.jpg"
     },
     {
-      "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-23-august-2026/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-08-24T04:30:42Z",
-      "og_image": null,
-      "excerpt": "CG Channel's weekly roundup of the DCC, render and AI-assisted tool releases that slipped past — a fast scan of what changed in the 3D and visualisation pipeline."
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/08/check-out-promising-new-blender-retopology-tool-smart-remesh/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-08-25T13:29:58Z",
-      "og_image": null,
-      "excerpt": "Smart Remesh is a context-aware Blender add-on that turns both organic characters and hard-surface models into clean quad geometry while preserving vertex positions — automating one of 3D's most tedious steps."
-    },
-    {
-      "url": "https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/",
-      "source": "Engadget",
-      "category": "render",
-      "published_iso": "2026-08-26T17:25:36Z",
-      "og_image": "https://www.engadget.com/img/gallery/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/l-intro-1787767502.jpg",
-      "excerpt": "Google says Gemini 3.5 Transcribe turns rambling speech into structured text and will soon work in any web field in Chrome — a quiet input-method shift for research notes, briefs and design docs."
-    },
-    {
-      "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
-      "source": "Road to VR",
-      "category": "vr",
-      "published_iso": "2026-08-26T06:50:17Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
-      "excerpt": "Meta introduced Meta XR Operator, an experimental tool that lets AI coding agents autonomously build, test, debug and visually verify VR apps — closing the build-test-verify loop for spatial design teams."
-    },
-    {
-      "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
-      "source": "Road to VR",
-      "category": "vr",
-      "published_iso": "2026-08-26T13:14:07Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
-      "excerpt": "Google is testing a 'Listening area' mode for Live Translate on Android XR — a headline interaction pattern for its upcoming smart glasses and a concrete example of spatial AI UI design."
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
-      "source": "VentureBeat",
+      "url": "https://www.cio.com/article/4214300/human-in-the-loop-ai-is-becoming-the-default-not-the-exception.html",
+      "source": "CIO",
       "category": "workflow",
-      "published_iso": "2026-08-26T20:00:00Z",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5b0HuVyEgjT4nhhySGkJrI/638c8608bdd8581050019f1f696c8a00/Nuneybits_Vector_art_of_Salesforce-blue_cloud_entering_Anthropi_4b5f4f7e-ac1f-4543-8a00-fc53aee3b41e.webp",
-      "excerpt": "Salesforce and Anthropic launched Claudeforce, putting the whole CRM inside Claude via a CoWork plugin with 37 prebuilt skills — enterprises reaching data through an AI interface instead of a designed UI."
+      "headline": "Human-in-the-loop AI is becoming the default, not the exception",
+      "published_iso": "2026-08-27T09:00:00Z",
+      "excerpt": "Organizations are wiring human oversight into AI workflows as a default rather than a safety valve, changing how review, approval and accountability get designed into tools.",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/08/4214300-0-16500600-1787821478-shutterstock_1368896930.jpg?quality=50&strip=all&w=1024"
     },
     {
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "source": "VentureBeat",
-      "category": "workflow",
-      "published_iso": "2026-08-26T14:30:00Z",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=1000&q=100",
-      "excerpt": "With agents deployed across every channel, the hard problem has moved from automation to orchestration — shared context layers so AI systems, apps and humans hand off cleanly instead of siloing the customer experience."
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
+      "source": "Google",
+      "category": "render",
+      "headline": "Google Flow brings new creative control features to enhance video editing",
+      "published_iso": "2026-08-27T16:00:00Z",
+      "excerpt": "Google Flow adds new creative controls on top of Gemini Omni 1.1 Flash, giving video creators finer direction over generated footage instead of one-shot prompting.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-1440x810.png"
     },
     {
-      "url": "https://www.youtube.com/watch?v=3_sQZRkwU2g",
-      "source": "Microsoft Design",
+      "url": "https://www.creativeboom.com/inspiration/this-rebrand-of-voice-journaling-app-untold-shows-what-happens-when-ai-branding-doesnt-look-like-ai/",
+      "source": "Creative Boom",
+      "category": "wildcard",
+      "headline": "This rebrand of a voice-journalling app looks lovely, but is an 'AI illustration system' the right call?",
+      "published_iso": "2026-08-26T05:30:00Z",
+      "excerpt": "The Working Assembly built Untold's new identity around a generative 'AI illustration system' that deliberately avoids gen-AI cliches. It's a live test of whether AI can be a brand system, not just a shortcut.",
+      "og_image": "https://creative-boom-media.lon1.cdn.digitaloceanspaces.com/1cf7df1d-aec0-444b-922f-b8eaee0d4f46/conversions/eb533a1331299a43b1406a0642a95c3066015e2c-medium.webp"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hemQKKkr1LQ",
+      "source": "Adobe",
       "category": "social",
-      "published_iso": "2026-08-24T16:00:12Z",
-      "og_image": "https://i.ytimg.com/vi/3_sQZRkwU2g/maxresdefault.jpg",
-      "excerpt": "Microsoft Design profiles a company that now runs more AI agents than employees — what that does to org design, handoffs and the shape of creative teams."
+      "headline": "Communicating Your Vision with Intention Using AI | Leading Creative Projects with AI",
+      "published_iso": "2026-08-25T16:01:35Z",
+      "excerpt": "Adobe's series on leading creative projects with AI turns to the hardest part: communicating creative intent clearly enough that AI-assisted teams land the vision.",
+      "og_image": "https://i.ytimg.com/vi/hemQKKkr1LQ/maxresdefault.jpg"
     },
     {
-      "url": "https://www.youtube.com/shorts/ZY628bslSYY",
-      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=npCgh0d-OBc",
+      "source": "Adobe",
       "category": "social",
-      "published_iso": "2026-08-24T12:18:26Z",
-      "og_image": "https://i.ytimg.com/vi/ZY628bslSYY/maxresdefault.jpg",
-      "excerpt": "A quick demo of an AI system generating explorable 3D worlds from a prompt — the kind of world-model capability that is starting to matter for environment and spatial designers."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=PJgpUYAUzvc",
-      "source": "Figma",
-      "category": "social",
-      "published_iso": "2026-08-26T11:00:12Z",
-      "og_image": "https://i.ytimg.com/vi/PJgpUYAUzvc/maxresdefault.jpg",
-      "excerpt": "Figma's motion team walks through path trim, one of the new Figma Motion primitives — the craft layer designers still own as generated UI takes over static layout."
+      "headline": "Spice up your content with image-to-video in Adobe Firefly",
+      "published_iso": "2026-08-25T21:50:26Z",
+      "excerpt": "A walkthrough of Firefly's image-to-video, turning existing stills and brand assets into motion without leaving the Adobe pipeline.",
+      "og_image": "https://i.ytimg.com/vi/npCgh0d-OBc/maxresdefault.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 23,
+    "kept": 16,
     "against_days": 5
   }
 }

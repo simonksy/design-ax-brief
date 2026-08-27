@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "music",
   "cards": [
     {
-      "id": "music-instrument-x",
+      "id": "music-beatport-ai-ban",
       "eyebrow": "AI NEWS",
-      "headline": "수십 기가 오케스트라 라이브러리를\n뉴럴 모델링이 대신하는 Instrument X",
-      "body": "거대한 샘플 라이브러리 대신 뉴럴 모델링으로 클래식 악기를 작은 용량에 담았다.",
-      "mini_headline": "용량을 지운 오케스트라",
+      "headline": "Beatport, 완전 AI 생성 음악을\n즉시 차단하고 탐지 도구를 돌린다",
+      "body": "Beatport가 완전 AI 생성 음악을 금지하고 Beatdapp 탐지로 걸러낸다.",
+      "mini_headline": "완전 AI 음악 차단",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/software-apps/say-goodbye-to-the-hefty-space-requirements-of-gigantic-orchestral-libraries-as-dreamtonics-instrument-x-provides-a-range-of-classical-instruments-and-expressive-control-over-them-with-a-tiny-footprint",
+      "source": "Gearnews",
+      "url": "https://www.gearnews.com/beatport-bans-fully-ai-generated-music-tech/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -18,79 +18,57 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/9YNdCGCafqjUHmmNxfAMdP-1920-80.png",
-            "cap": "Dreamtonics Instrument X (사진 제공: Dreamtonics)"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Beatport-AI-ban-T.jpg",
+            "cap": "Beatport의 AI 음악 금지 (사진 제공: Beatport)"
           },
           {
             "t": "p",
-            "x": "하드디스크에서 자리를 가장 많이 잡아먹는 물건을 떠올려 보면, 대개 덩치 큰 오케스트라 샘플 라이브러리다."
+            "x": "Beatport가 AI로 만든 음악을 걸러내기 시작했다. 댄스 뮤직 다운로드 스토어인 이곳은 Beatdapp의 탐지 도구를 카탈로그에 붙였다. 업로드 시점에서 전부, 또는 대부분 AI로 만든 트랙을 잡아내는 장치다."
           },
           {
             "t": "p",
-            "x": "책상 앞의 모차르트들을 괴롭히던 이 용량 문제에 오늘 해법이 하나 나왔다. Vocoflex와 Synthesizer V로 이름을 알린 일본 회사 Dreamtonics가 내놓았다."
+            "x": "AI 정책 자체는 2025년 1월부터 있었다. 새로운 건 그 정책을 실제로 집행하는 기술 쪽이다. 도구가 얼마나 잘 잡아내는지는 앞으로 몇 달을 지켜봐야 안다."
           },
           {
             "t": "p",
-            "x": "이전 제품들처럼 밑바탕은 AI, 정확히는 '뉴럴 어쿠스틱 모델링'이다. 이름부터 모호한 Instrument X는 수 기가바이트짜리 샘플을 재생하는 대신, 골라 쓸 수 있는 여러 클래식 악기의 연주를 실시간으로 다듬는다."
-          },
-          {
-            "t": "video",
-            "yt": "azSkH1OlaDI"
+            "x": "완전히 AI로 만든 음악은 인제스트 과정에서 보류되고, 권리자에게 곧바로 통보가 간다. AI 보조는 다르게 본다. \"AI 보조로 만든 음악은 완성된 트랙이 사람 손으로 대부분 만들어진 한 계속 받는다\"고 Beatport 정책 페이지에 적혀 있다. 이런 릴리스에는 임포트 단계에서 표시가 붙어, 큐레이션 팀이 심사할 때 무엇을 보고 있는지 안다."
           },
           {
             "t": "p",
-            "x": "용량 말고 이 플랫폼에서 가장 눈에 띄는 건 가상 연주자를 지휘하는 인터페이스다. 다루기가 어렵지 않다."
+            "x": "Beatdapp은 원래 스트리밍 부정 탐지 쪽 파트너였다. 이번 AI 탐지 도구로 그 협업이 음악 식별까지 넓어졌다."
           },
           {
             "t": "p",
-            "x": "Smart Articulation이 연주를 알아서 처리하지만, 원하면 음 하나하나와 스타카토·레가토·테누토 같은 아티큘레이션까지 파고들어 고친다. 여기에 악기별 고유 주법을 겹쳐 가상 악기의 연주를 더 다듬는다. 이 모든 게 스탠드얼론 프로그램 안에서 그대로 돌아가고, 인터넷 연결도 필요 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Y2GbXS8MZ6zni8B4SZpMmY-1200-80.png",
-            "cap": "Instrument X 편집 화면 (사진 제공: Dreamtonics)"
+            "x": "Beatport는 이 결정이 커뮤니티의 입장을 그대로 반영한다고 말한다. 이용자 설문에서 60%는 AI 생성 트랙을 자기 셋에 틀지 않겠다고 답했고, 77%는 사람 창작자를 지지하겠다는 뜻을 분명히 했다. AI 음악을 틀 생각이 있다는 응답은 8%, 아티스트와 레이블에게 정당한 보상이 간다면 고려하겠다는 응답은 13%였다."
           },
           {
             "t": "p",
-            "x": "주법은 시작일 뿐이다. 활이 현을 긁는 마찰과 호흡 압력, 하모닉 새추레이션까지 지시한다. AI Performance Retakes는 연주 변주를 즉석에서 뒤섞어 사람 냄새 나는 우연을 얹고, 유동 제스처 신시스는 속삭임에서 포효까지 음을 끊긴 자리 없이 이어 키운다."
+            "x": "Beatport CEO Matt Gralen은 이렇게 정리했다. \"Beatport는 DJ를 위해, 그리고 아티스트와 레이블에게 힘을 싣기 위해 존재한다. 새로운 제작 기법이 처음부터 일렉트로닉 뮤직을 밀고 왔지만, 사람의 창작을 돕는 도구와 창작을 통째로 대체하는 시스템은 다르다. Beatport는 전자 위에 세워졌다.\""
           },
           {
             "t": "p",
-            "x": "Dreamtonics는 특허받은 12면체 스피커 어레이로 자사 스튜디오의 공간을 측정했다. 그 측정값 덕분에 악기 음원과 방향성 음향을 떼어놓았고, 마이크 조합을 취향대로 고르고 방의 울림까지 짜 맞춘다. 11채널 Microphone Mixer 패널(Spot, Decca Tree, Ambient pairs)로 위상이 맞는 공간을 그 자리에서 만든다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/9VEfCcPp3imZBsLievTKgc-1200-80.png",
-            "cap": "Instrument X의 마이크 믹서 (사진 제공: Dreamtonics)"
+            "x": "Beatdapp 공동창업자 겸 공동 CEO Andrew Batey는 음악 산업이 늘 새 기술을 받아들여 왔다고 짚으면서, 지금 필요한 건 생성형 AI 시대에 진짜 투명성을 가져올 인프라라고 덧붙였다. AFEM 최고전략책임자 Jay Ahern은 이 방식이 AFEM의 AI 원칙과 맞닿는다고 봤다. 인간의 의도와 창작 통제권이 동의·라이선스·투명성·출처 표시·정당한 보상과 나란히 놓여야 한다는 것이다."
           },
           {
             "t": "p",
-            "x": "Dreamtonics는 \"계산 음향의 기념비적 돌파구로, 이 새 플랫폼은 딱딱한 수 기가바이트 샘플 재생 라이브러리를 뉴럴 어쿠스틱 모델링으로 갈아 끼운다\"고 밝혔다. \"악보를 곧바로 음파 방사로 옮겨, Instrument X는 작곡가와 영화 음악가, 음악 프로듀서에게 활과 호흡, 건반 아티큘레이션을 건반에서 바로 다루는 전례 없는 통제권을 준다. 정적인 루프 트리거링은 아예 건너뛴다.\""
+            "x": "시점이 우연은 아니다. 지난달 파리의 스트리밍 대기업 Deezer는 자사 플랫폼 일일 업로드의 약 50%, 대략 9만 곡이 AI 생성물이라고 확인했다. 8월 초 Spotify는 AI 생성 아티스트 프로필에 'AI Persona' 배지를 붙이겠다고 밝혔다. 6월에는 The Atlantic 취재로 AI 개발사들이 저작권 있는 트랙 약 2,100만 곡을 학습에 쓴다는 사실이 드러났다."
           },
           {
             "t": "p",
-            "x": "지금은 Orchestral Strings, Orchestral Woodwinds, Orchestral Brass 세 컬렉션에 걸쳐 악기 확장 15종이 나와 있다. 현악은 유려한 레가토 선율과 시네마틱한 스웰에, 목관은 유기적인 호흡과 음역 전환에, 금관은 전 파트의 호흡 추적에 맞춰 설계됐다."
-          },
-          {
-            "t": "p",
-            "x": "Dreamtonics의 CEO Kanru Hua는 이렇게 말했다. \"전통적인 샘플 재생의 정적인 한계를 넘어 유려하고 유기적인 연주에 이르는 일이 굉장히 어려워 보이겠지만, 'AI 기반' 신시스는 사실 쉬운 쪽입니다. 진짜 난관은 실제 작곡과 프로덕션 전문가들의 까다롭고 높은 요구에 맞게 이 기술을 깊이 맞춤하는 데 있습니다.\""
-          },
-          {
-            "t": "p",
-            "x": "Instrument X는 Dreamtonics 스토어에서 바로 살 수 있다. 코어 에디터는 Instrument Expansion(개당 99달러)을 하나라도 사면 무료로 받는다. 사기 전에 써보고 싶다면 에디터 14일, 악기 7일 무료 체험이 있다."
+            "x": "완전 AI 음악 금지와 자동 탐지를 함께 건 것은 DJ 중심 플랫폼으로서는 일관된 선택이다. 당분간 완벽하게 돌아가진 않는다. 손대지 않은 AI 음악은 비교적 잘 잡히지만, 편집하고 사람 보컬을 얹고 다른 소리와 섞어 놓으면 아무리 정교한 도구라도 판별이 어려워진다. 규칙이 아예 없는 것보다는 낫다는 게 Gearnews의 결론이다."
           }
         ]
       }
     },
     {
-      "id": "music-sonible-smartchain",
+      "id": "music-submithub-40",
       "eyebrow": "AI NEWS",
-      "headline": "sonible의 AI 프로세서를\n채널 스트립 하나로 묶은 smart:chain",
-      "body": "EQ와 컴프레션, 디하싱, 새추레이션을 지능형 채널 스트립 하나에 몰아넣었다.",
-      "mini_headline": "한 줄에 묶은 믹스 처리",
+      "headline": "7월에 나온 음악 100만 곡을 훑자\n40%에서 AI 흔적이 나왔다",
+      "body": "SubmitHub이 7월 발매 100만여 곡을 훑자 40%에 AI 흔적이 있었다.",
+      "mini_headline": "7월 곡 40%에 AI",
       "tool": "Music",
-      "source": "gearnews",
-      "url": "https://www.gearnews.com/sonible-smartchain-studio/",
+      "source": "Mixmag",
+      "url": "https://mixmag.net/read/40-percent-music-released-july-show-signs-ai-involvement-study-submithub-news",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -98,178 +76,181 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-ft.jpg",
-            "cap": "sonible smart:chain (사진 제공: sonible)"
+            "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/submithub-ai-credit-cottonbro-studio.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=IrJKaFoTJdzmlxYSdrQ9REz_LuFUmeIvtuH4jbSoE0U",
+            "cap": "SubmitHub의 AI 음악 탐지 (사진: cottonbro studio)"
           },
           {
             "t": "p",
-            "x": "sonible smart:chain에서는 프로세싱 체인이 DAW 안 여러 인스턴스에서 정보를 끌어와, 지금까지 없던 통제력을 쥐여준다."
+            "x": "지난달 전 세계에 나온 음악의 거의 40%에서 제작 과정에 AI가 개입한 흔적이 나왔다. SubmitHub의 새 조사 결과다."
           },
           {
             "t": "p",
-            "x": "오스트리아 개발사 sonible은 믹싱과 마스터링용 AI 보조 프로세싱 플러그인으로 이름이 났다. Audiotonix 산하에서 SSL, Harrison Audio와 한 식구이고, 최근에는 SSL autoSeries 같은 프로젝트를 함께 했다."
+            "x": "SubmitHub의 AI 음악 탐지기로 7월 발매작 100만 곡 이상을 분석했더니 그중 23.2%가 완전한 AI 생성물이었다."
           },
           {
             "t": "p",
-            "x": "이번에 sonible은 간판 smart Series의 콘텐츠 인식 프로세싱 플러그인 라인을 넓혀 smart:chain을 더했다. DAW 전체에 걸쳐 멀티노드로 작동하는 지능형 믹싱 프로세서다. 컴프레션과 EQ, 게이팅, 새추레이션, 게인 라이딩, 디하싱, 오토 레벨링을 한 화면에 담백하게 모아, 믹스에서 살릴 요소를 앞세우게 한다."
-          },
-          {
-            "t": "video",
-            "yt": "GPF0SxiCxGc"
+            "x": "여기에 사람이 \"수정하거나 가공한\" AI 생성 오디오의 흔적을 보이는 곡이 15.3% 더 있었다. 7월 한 달 발매작의 거의 40%가 AI가 낀 채 만들어졌다는 계산이다."
           },
           {
             "t": "p",
-            "x": "채널 스트립 플러그인이야 다들 써봤지만 smart:chain은 방향이 다르다. 프로세싱 체인이 저마다 따로 도는 대신, 플러그인 인스턴스들이 서로 맞물려 모듈마다 알맞은 출발점을 잡아준다. 지능형 뎁스 레이어링도 붙어 요소를 믹스의 앞과 중간, 뒤로 밀어내며 균형과 분리, 깊이를 만든다."
+            "x": "SubmitHub은 플레이리스트와 블로그에 음악을 보낼 수 있게 해주는 플랫폼이다. 6월에 AI 탐지 도구 SH Labs를 공개하면서 \"커지는 공개 문제\"를 짚겠다고 했다."
           },
           {
             "t": "p",
-            "x": "세션 전체에 걸쳐 도는 Auto Leveling도 쓸 만하다. 믹스 안 요소들의 관계를 읽어 음악 스타일에 맞는 러프 믹스를 잡아준다. 채널마다 따로 손보고 싶으면 전용 트림 컨트롤이 있다. smart:chain 안에서는 개별 채널을 옮겨 다니고 채널 그룹을 관리하며, 중앙 세션 컨트롤 화면에서 플러그인 인스턴스를 하나씩 조정한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-1024x565.jpg",
-            "cap": "sonible smart:chain (사진 제공: sonible)"
+            "x": "\"AI 음악의 앞길은 공개라고 본다.\" SubmitHub 창업자 Jason Grishkoff의 말이다. \"AI가 만든 음악을 접할지 말지는 사람들이 스스로 정할 수 있어야 한다. 우리가 할 일은 그 선택에 필요한 만큼의 정보를 주는 것이다.\""
           },
           {
             "t": "p",
-            "x": "이 판의 경쟁도 재미있어졌다. FabFilter의 Instance List는 DAW 안 모든 플러그인 인스턴스에 빠르게 닿게 해주는데, sonible은 한 걸음 더 나갔다. 개별 플러그인이 각자 처리하는 대신 믹스 전체를 상대로 움직인다."
+            "x": "SubmitHub이 모은 데이터에는 이런 대목도 있다. 올해 발매 시점에 AI가 들어간 것으로 판정된 음악의 아티스트 가운데 31%는 플랫폼이 묻자 AI 도구를 전혀 쓰지 않았다고 답했다."
           },
           {
             "t": "p",
-            "x": "sonible smart:chain 플러그인은 2026년 9월 28일까지 도입가 99유로(정가 179유로)에 판다. smart 시리즈 플러그인을 갖고 있다면 크로스그레이드도 된다."
+            "x": "이 탐지 도구는 현재 Bandcamp와 Traxsource가 쓰고 있다. 최근 AI 음악 생성 플랫폼 Suno를 상대로 한 소송에서 이정표가 될 판결을 받아낸 저작권 관리 단체 GEMA도 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "7월에 나온 그 판결은 Suno가 GEMA가 관리하는 음악을 AI 모델 학습에 쓸 권리가 없고, 독일과 미국 저작권법을 모두 어겼다고 봤다."
           }
         ]
       }
     },
     {
-      "id": "music-abyss-ii",
+      "id": "music-suno-class-action",
       "eyebrow": "AI NEWS",
-      "headline": "아무 오디오 파일이나 떨어뜨리면\n머신러닝이 스펙트럼 팔레트로 바꾼다",
-      "body": "오디오 파일을 연주 가능한 Tone Color로 쪼갠 뒤 비슷한 것끼리 묶는다.",
-      "mini_headline": "샘플 폴더를 캐는 신스",
+      "headline": "Suno 겨눈 인디 아티스트 집단소송,\n각하 없이 증거개시로 넘어간다",
+      "body": "AI 산출물과 스트림 리핑 주장이 살아남아 Suno 집단소송이 증거개시로 넘어간다.",
+      "mini_headline": "Suno 소송 각하 거부",
       "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/08/24/dawesome-abyss-ii/",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/judge-refuses-to-dismiss-indie-artists-proposed-class-action-against-suno-clearing-ai-output-and-stream-ripping-claims-for-discovery/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/abyss-ii-728x364.jpg",
-            "cap": "Dawesome Abyss II (사진 제공: Dawesome)"
+            "src": "https://www.musicbusinessworldwide.com/files/2026/08/rsw_1240h_620cg_true-e1787796708125.webp",
+            "cap": "Suno를 상대로 한 인디 아티스트 집단소송"
           },
           {
             "t": "p",
-            "x": "개발사 Dawesome이 macOS와 Windows용 비주얼 신시사이저 Abyss II를 내놨다. 도입가는 89유로, 정가는 149유로다."
+            "x": "컨트리 아티스트 Tony Justice가 Suno를 상대로 낸 집단소송 제안이 대부분 살아남았다. 연방 판사가 각하 요구를 거의 받아들이지 않았다."
           },
           {
             "t": "p",
-            "x": "Dawesome은 Abyss II를 엔지니어가 아니라 뮤지션을 위한 신스라고 소개한다. 기술 파라미터가 빽빽한 페이지를 뒤지며 소리를 쌓는 대신, 눈에 보이는 Tone Color를 Gradient 위에 놓고 그 사이를 오가며 음색을 변해가게 만든다."
+            "x": "매사추세츠 연방지방법원의 F. Dennis Saylor IV 판사는 8월 20일 명령에서, Suno가 다툰 세 개 청구 가운데 두 개에 대해 각하 신청을 기각했다. 떨어져 나간 건 테네시 소비자보호법 청구 하나뿐이다. 원고 측이 착오로 인용했다고 법정에서 스스로 밝힌 항목이다."
           },
           {
             "t": "p",
-            "x": "발상 자체는 1세대 Abyss에서 넘어왔지만, 이번 버전에는 소리 재료를 만드는 방법이 하나 크게 늘었다. 오디오 파일을 Gradient에 곧바로 떨어뜨리면 Abyss II가 그것을 스펙트럼 Tone Color의 열로 바꾼다."
-          },
-          {
-            "t": "video",
-            "yt": "uAsadOIZL0A"
+            "x": "남은 세 개 청구로 사건은 계속된다. Suno가 막으려 했던 두 가지, 곧 산출물이 원고 저작권을 침해하는 무단 2차적저작물이라는 주장과 학습 데이터를 얻으려고 YouTube의 롤링 사이퍼를 우회했다는 주장이 여기 들어 있다."
           },
           {
             "t": "p",
-            "x": "재미있는 지점은 이게 흔한 샘플 재생이 아니라는 데 있다. 원본을 분석해 연주 가능하고 음정이 맞는 신스 재료로 다시 해석한다."
+            "x": "원고들은 독립 레코딩 아티스트와 아티스트 소유 법인으로, 곡과 녹음의 저작권을 갖고 있다. 이들은 Suno가 자기 노래를 YouTube에서 내려받아 모델 학습용으로 복제했고, 보호받는 요소를 재현하는 음악을 만들어냈다고 주장한다."
           },
           {
             "t": "p",
-            "x": "파일 하나든 폴더 통째든 Palette 뷰에 떨어뜨려도 된다. Abyss II는 머신러닝으로 Tone Color를 뽑아내고 비슷한 결과끼리 묶어, 내 녹음이나 샘플 라이브러리에서 나만의 팔레트를 만든다."
+            "x": "Suno는 2차적저작물 청구를 놓고 원고가 자기 노래와 \"실질적으로 유사한\" 산출물의 존재를 그럴듯하게 주장하지 못했다고 반박했다. Saylor 판사는 받아들이지 않았다. \"다만 각하 신청 단계에서 원고가 2차적저작물을 제시해야 한다는 일률적 요건은 없다\"고 썼다."
           },
           {
             "t": "p",
-            "x": "웨이브테이블은 알아서 잡아내고, 그 밖의 소스는 유기적인 쪽과 정적인 웨이브테이블 같은 쪽 사이 어디로든 밀어 넣는다."
+            "x": "수정된 소장에는 원고 자신의 노래를 침해한다는 Suno 산출물이 한 곡도 특정돼 있지 않다. 대신 다른 권리자의 곡을 복제하거나 닮은 산출물 100여 건을 예시로 들고, \"Suno가 학습한 바로 그 노래들을 그대로 비추도록 AI 모델을 의도적으로 설계했다\"고 주장한다."
           },
           {
             "t": "p",
-            "x": "색이 Gradient에 올라오면 Position 컨트롤이 그 음색들 사이를 지나가고, 신스의 모듈레이션 시스템으로 움직임도 준다. 소리를 더 다듬고 싶다면 FM과 버추얼 아날로그 필터, 그리고 소리를 날카롭게 하거나 찌그러뜨리거나 부드럽게 펴는 Syntify, Brute, Velvet이 새로 들어왔다."
+            "x": "판사는 이 단계에서는 그것으로 충분하다고 봤다. \"Suno의 모델이 원고들의 작품과 실질적으로 유사한 산출물도 만들어냈다는 추론은 개연성이 있다. 전면 증거개시 뒤에 원고가 그런 산출물을 제시할 수 있을지는 다른 날의 문제다.\""
           },
           {
             "t": "p",
-            "x": "모듈러 이펙트 엔진도 새로 붙었다. 순서를 바꿀 수 있는 슬롯 네 개에 모듈 20종이 들어간다. 새 폴리리듬 시퀀서는 스텝 길이를 따로 잡고, 여기에 MPE 완전 지원과 LFO 3개, ADSR 엔벨로프 2개, 모노 모드, 실행 취소와 되돌리기, 400개가 넘는 프리셋이 더해진다."
+            "x": "디지털 밀레니엄 저작권법 1201조(a)(1) 청구도 살아남았다. YouTube가 롤링 사이퍼로 영상 접근을 막는데 Suno가 스트림 리핑 도구로 이를 우회했다는 주장이다. 판사는 이틀 앞서 같은 법원에서 메이저 레이블들이 낸 UMG Recordings, Inc. v. Suno, Inc. 사건에 내렸던 자기 판단을 근거로 들었다. 실제 우회가 있었는지는 \"사실관계 기록이 쌓여야\" 가릴 수 있다는 것이다."
           },
           {
             "t": "p",
-            "x": "프리셋은 새로 만든 200여 개에 1세대 Abyss에서 손본 200여 개가 함께 담겼다."
+            "x": "Justice는 전업 트럭 운전사다. 그의 곡 'Last of the Cowboys'는 Spotify를 비롯한 플랫폼에서 800만 회 넘게 재생됐다. 2025년 6월 이 소송을 냈고, 뉴욕에서 Udio를 상대로도 같은 취지의 소송을 걸었다. 제안된 집단은 2021년 1월 1일 이후 스트리밍 서비스에 작품이 올라간 독립 아티스트·작곡가·프로듀서를 포괄한다. 요구는 영구적 금지명령과 침해 저작물 한 건당 최대 15만 달러의 배상이다."
           },
           {
             "t": "p",
-            "x": "체험판은 문턱이 낮다. 이메일을 적거나 계정을 만들지 않아도 받을 수 있고, 같은 설치 파일이 데모 모드로 돌아간다. 제약이라곤 이삼일이 지나면 LP 잡음 같은 소리가 이따금 끼는 정도다."
-          },
-          {
-            "t": "p",
-            "x": "Abyss 1을 갖고 있다면 도입 프로모션 기간에 정가 75유로 대신 45유로로 업그레이드한다. 2026년에 Abyss 1을 산 사람은 업그레이드가 공짜다."
-          },
-          {
-            "t": "p",
-            "x": "Abyss II는 64비트 Windows 10과 11에서 VST3, AAX 포맷으로 돌아간다. macOS 13 이상을 쓰는 인텔 맥과 애플 실리콘 맥에서는 AU, VST3, AAX를 지원한다."
+            "x": "소송이 회사를 멈춰 세우진 않았다. Suno는 2026년 6월 시리즈 D로 4억 달러 넘게 모으며 투자 후 기업가치 54억 달러를 인정받았고, 8월 12일에는 BMG와 라이선스 계약도 맺었다."
           }
         ]
       }
     },
     {
-      "id": "music-elevenmusic-composer",
+      "id": "music-umg-ai-patents",
       "eyebrow": "AI NEWS",
-      "headline": "프롬프트로 만든 곡을 섹션 단위로\n고쳐 쓰는 ElevenMusic Composer",
-      "body": "나머지는 그대로 둔 채 특정 섹션만 다시 만들고 가사도 새로 쓴다.",
-      "mini_headline": "섹션 단위로 다시 쓰기",
+      "headline": "Universal Music 합작사가 AI 특허\n24건 넘게 Udio와 GRAI에 내줬다",
+      "body": "Universal Music이 합작사를 통해 24건 넘는 AI 특허를 Udio와 GRAI에 내줬다.",
+      "mini_headline": "AI 특허를 내준 메이저",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/08/26/elevenmusic-ai-tool-adds-section-by-section-editing-for-songs/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/08/20/universal-music-patents-licensing-deals-udio-grai/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T135541.409.png",
-            "cap": "ElevenMusic의 새 기능 Composer"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/UMG-Patent-Licensing.jpg",
+            "cap": "Universal Music의 AI 특허 라이선스 (사진: Brecht Corbeel)"
           },
           {
             "t": "p",
-            "x": "Stability AI가 대형 음악 기업들에게서 큰돈을 모으는 동안, 레이블 승인을 받은 AI 음악 진영의 경쟁자 하나가 이번 주 새 기능을 푼다."
+            "x": "Liquidax Capital와 함께 세운 합작사로 특허 포트폴리오를 \"크게 늘리겠다\"고 밝힌 지 13개월, Universal Music Group이 그 AI 특허를 Udio와 GRAI에 공식 라이선스했다."
           },
           {
             "t": "p",
-            "x": "그 경쟁자는 ElevenLabs다. 라이선스 모델 ElevenMusic에 'Composer'를 얹었다. Suno를 비롯한 다른 AI 음악 모델이 사용자에게 세밀한 제어권을 넘겨온 흐름을 그대로 따른다."
+            "x": "UMG와 Liquidax의 합작사 이름은 Music IP Holdings다. 이 회사가 DMN에 보낸 공식 자료로 두 건의 계약을 알렸다. 자료와 웹사이트를 보면 이미 확보한 특허가 스물네 건을 넘고, 출원 중인 것이 50건 이상이다."
           },
           {
             "t": "p",
-            "x": "ElevenLabs는 요약문에서 \"Composer로 트랙의 개별 섹션을 나머지는 그대로 둔 채 편집하고 다시 생성한다\"고 했다. \"어느 섹션에든 직접 쓴 가사를 넣고, 작업 도중 언제든 다시 쓸 수 있다.\""
+            "x": "\"이 포트폴리오는 AI 생성 콘텐츠를 만들고 라이선스하고 상업화하는 전 과정을 아우른다. 프롬프트가 입력되는 순간부터 모더레이션, 워터마킹, 식별자 태깅, 승인, 라이선스 유통, 그리고 개방형과 폐쇄형 생태계를 가로지르는 정산까지다.\" Music IP Holdings의 설명이다."
           },
           {
             "t": "p",
-            "x": "섹션마다 여러 테이크를 만들어 견줘볼 수 있고, \"곡이 자라는 동안 구조를 다시 배치하고 섹션을 바꾸거나 두 배로 늘리거나 확장\"하는 것도 된다. 창작자를 프롬프트로 밀어내는 도전자라기보다, 일하는 작곡가와 아티스트의 도구에 가깝다."
+            "x": "수익화 의지는 분명하다. 같은 사이트에 특허를 라이선스하려는 \"자격 있는 조직\"을 위한 상세 신청서가 올라와 있다."
           },
           {
             "t": "p",
-            "x": "ElevenMusic은 4월에 나왔고, 지난해 발표된 Kobalt·Merlin과의 라이선스 계약이 뒤를 받친다. 그 계약에는 로열티를 음원 권리자와 퍼블리싱 권리자에게 50 대 50으로 나누는 조항이 들어 있었다."
+            "x": "Udio가 일찍 들어온 것은 놀랍지 않다. 법정에서 UMG와 맞붙었던 이 생성형 AI 플랫폼은 지금 이 메이저와, 그리고 Warner Music·Merlin과 함께 라이선스된 제품을 만들고 있다. Sony Music은 빠져 있다."
           },
           {
             "t": "p",
-            "x": "ElevenLabs는 2월에도 AI 오디오와 보이스 클로닝, 보이스 에이전트를 아우르는 사업 전체를 두고 110억 달러 가치로 5억 달러를 모았다. ElevenMusic은 그 여러 갈래 중 하나일 뿐이고, 가장 큰 순수 AI 음악 서비스 Suno의 54억 달러 가치와 견주면 이 회사 몸값을 떠받치는 축도 아니다. 그래도 이 물건이 자라는 모습은 볼 만하다."
+            "x": "GRAI는 상대적으로 덜 알려졌다. AI 기반 리믹스·소셜 리스닝 앱으로 바르샤바에 본사를 두고 있고, 지난 4월 Khosla Ventures가 이끈 900만 달러 시드 라운드를 마감했다. Khosla는 Hook과 Splash에도 지분이 있는데, Hook은 얼마 전 UMG와 \"이정표\"급 계약을 맺었다."
+          },
+          {
+            "t": "p",
+            "x": "돈을 내고 싶지 않은 회사는 어떻게 되나. 침해 소송도 선택지에 올라 있는 듯하다. 오랜 세월 특허 소송의 반대편에 서 있던 산업이라는 점에서 흥미로운 대목이다."
+          },
+          {
+            "t": "p",
+            "x": "사이트는 코드를 직접 짰더라도 \"라이선스 없이 특허 기술을 쓰는 것은 침해\"라고 못박는다. Music IP Holdings가 보기에 \"음악을 생성하고\", \"오디오를 새로운 구조로 변형하고\", \"새로운 오디오 워크플로를 쓰고\", \"음악을 분석하거나 분해하는\" 기술은 라이선스가 필요하다."
+          },
+          {
+            "t": "p",
+            "x": "그렇다면 Klay Vision이나 Spotify 같은 곳도 특허 계약을 맺어야 하나. 답은 시간이 말해줄 것이다. 웹사이트와 지난 11월 조용히 문을 연 Music Row 사무실을 놓고 보면, 이 합작사는 여기서 더 많은 계약을 노리고 있다."
+          },
+          {
+            "t": "p",
+            "x": "Bill Campbell의 Barefoot Media가 포트폴리오를 시장에 내놓고 기술·창작 산업 전반의 라이선스 기회를 개발하는 일을 돕는다. Campbell은 \"디지털 음악의 모든 큰 전환기마다 가장 성공한 모델은 기술 기업과 권리자를 명확하고 실용적인 라이선스 틀 위로 모은 쪽이었다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Music IP Holdings와 Liquidax의 CEO Daniel Drolet은 아티스트 보호와 혁신을 함께 놓았다. \"이 포트폴리오는 둘 다 하도록 설계됐다. 책임 있는 혁신에 새 기회를 열면서, 아티스트와 작곡가와 권리자에게 더 강한 보호와 자기 작품이 만든 가치를 나눌 권리를 준다.\""
           }
         ]
       }
     },
     {
-      "id": "music-soundon-gina-jones",
+      "id": "music-quad-cortex-coros",
       "eyebrow": "AI NEWS",
-      "headline": "AI를 섞어 만든 바이럴 프로젝트,\nTikTok의 배급사 SoundOn이 품었다",
-      "body": "SoundOn이 AI 사용을 숨기지 않은 크리에이터 Gina Jones와 계약했다.",
-      "mini_headline": "AI 크리에이터와 계약",
+      "headline": "Neural DSP가 Quad Cortex에 더한\nDevice Presets와 가상 장비 8종",
+      "body": "CorOS 4.1.0이 Device Presets와 가상 장비 8종을 더해 톤 만드는 시간을 줄인다.",
+      "mini_headline": "세팅 시간을 줄인 업데이트",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/08/25/ginas-pet-bangers-tiktok-soundon-ai-music/",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/guitars/neural-dsp-quad-cortex-quad-cortex-mini-coros-4-1-0-update",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -277,56 +258,61 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://musically.com/wp-content/uploads/2026/08/DSC_8879-scaled-e1787663500167.jpeg",
-            "cap": "Gina Jones (사진 제공: SoundOn)"
+            "src": "https://cdn.mos.cms.futurecdn.net/mexQr39ddZwN2wbuJW49qV-1920-80.jpg",
+            "cap": "Neural DSP Quad Cortex (사진 제공: Neural DSP)"
           },
           {
             "t": "p",
-            "x": "'TikTok이 이제 AI 음악 크리에이터랑 계약을 한다고? 그럴 줄 알았어.' TikTok의 배급 부문 SoundOn이 새로 계약했다는 오늘 소식에 음악 업계 일각에서 나올 법한 반응이다."
+            "x": "Neural DSP가 역대 가장 큰 CorOS 업데이트를 내놨다. 앰프 모델러 겸 멀티이펙트 플랫폼인 Quad Cortex에 소리와 기능을 더하고, 기타 플러그인 호환 범위를 넓혔다."
           },
           {
             "t": "p",
-            "x": "그런데 테네시에 사는 Gina Jones와 그의 'Gina's Pet Bangers' 시리즈 이야기는 그보다 결이 복잡하다. 2026년에 무엇이 'AI 음악'이고 아닌지 가르는 일이 얼마나 까다로운지 보여주는 단면이기도 하다."
+            "x": "CorOS 4.1.0은 Quad Cortex와 Quad Cortex Mini 사용자 모두에게 무료다. 뜯어볼 것이 많은데, 헤드라인은 새 가상 장비 8종이다."
           },
           {
             "t": "p",
-            "x": "Gina 본인부터 보자. 소개글에는 \"내슈빌 작곡가로 30년 넘게 일했고, 음반 계약을 세 번 했으며, 컨트리 작곡가 Harland Howard 같은 전설적인 멘토들의 가르침을 받았다\"고 적혀 있다."
+            "x": "Multivoicer 하모나이저, Glitch 그래뉼러 딜레이, Ring Modulator, Arpeggio Delay, Crystal Delay, Vintage Digital Reverb, 그리고 Dark Glass Electronics의 Hyper Luminal을 바탕으로 한 Douglas Shining 컴프레서와 Plugin Parametric-4 EQ가 들어왔다."
           },
           {
             "t": "p",
-            "x": "최근에는 방향을 크게 틀었다. 딸, 손녀와 함께 쓴 \"못생겼지만 귀여운 개에서 영감을 받은, 컨트리와 힙합이 만나는 노래\"들이다. 'Chippy Dippy Doppie Duck'과 'Leeda Beeda Boda Butt' 같은 곡이 여기 속한다."
+            "x": "기기에서 네이티브로 돌릴 수 있는 X 플러그인도 늘었다. Tim Henson, John Mayer, John Petrucci, Rabea Massaad, Misha Mansoor의 시그니처 Archetype 번들이 호환 목록에 붙었다."
           },
           {
             "t": "p",
-            "x": "지난 2년의 AI 음악 흐름을 지켜본 사람이라면 처음 듣고 '딱 Suno로 만든 소리네'라고 생각할 만하다."
+            "x": "Dual Footswitch Assignments도 생겼다. Quad Cortex의 Stomp Mode를 무대에서 쓰기 좋게 만드는 기능이다. Cortex Control 4.1.0도 만만치 않다. 컴퓨터 한 대에서 여러 기기를 동시에 제어하고, 유닛마다 이름을 붙여 케이블을 만지지 않고 오갈 수 있다."
+          },
+          {
+            "t": "video",
+            "yt": "NSDRgQ0qxz0"
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/iQHvCaTAZwGHbUv5usCMpb.jpg",
+            "cap": "Neural DSP Quad Cortex Mini"
           },
           {
             "t": "p",
-            "x": "정작 Jones는 자기 방식을 \"내 원곡 작곡과 멜로디에 현대적인 프로덕션과 보이스 클로닝 기술을 결합한 AI 하이브리드 프로덕션 접근\"이라고 설명한다."
+            "x": "가장 흥미로운 건 Device Presets일 수도 있다. 리그 안 어떤 가상 장비든 설정을 저장해 두었다가 다른 프리셋으로 끌어올 수 있다."
           },
           {
             "t": "p",
-            "x": "TikTok에서 곡이 반응을 얻자 그는 작업 과정을 더 풀어놓은 영상도 올렸다. \"가족들을 불러 가사를 같이 씁니다. 멜로디는 제가 직접 만들고요. 제가 노래하고 연주해서 AI 프로그램에 넣습니다.\""
+            "x": "한쪽 프리셋에 잘 잡아둔 US 스타일 부티크 클린 튜브 앰프가 있다면, 그걸 빼내 다른 프리셋에서 그대로 불러오면 된다. 가상 스피커 캐비닛, 드라이브, 이펙트, 유틸리티도 마찬가지다. 새 일렉트릭 기타 톤을 찾는 일이 조금 수월해졌다. CorOS 4.1.0에는 팩토리 Device Preset 2,000개가 함께 실린다."
           },
           {
             "t": "p",
-            "x": "이어지는 설명이 핵심이다. \"제 목소리를 그 프로그램에 클로닝하고, 멜로디를 쳐 넣고, 어떤 소리를 원하는지, BPM은 몇인지, 프로듀서가 할 법한 걸 전부 한 줄 한 줄 지시해서 만듭니다.\" AI를 쓴다는 사실을 숨긴 적은 없다고 그는 못 박았다."
+            "x": "Neural DSP의 CPO 겸 공동창업자 Francisco Cresp는 Quad Cortex 생태계의 \"중대한 이정표\"라고 했다. \"뮤지션에게 만들고 실험하고 소프트웨어와 하드웨어 사이를 타협 없이 오갈 자유를 더 준다\"는 것이다."
           },
           {
             "t": "p",
-            "x": "2026년다운 층이 하나 더 있다. 음악과 엔터테인먼트 쪽 인플루언서 마케팅 회사 Genni다. 1년 전까지 Songfluencer로 불리던 곳으로 Sabrina Carpenter, Tate McRae, Doja Cat 등의 캠페인을 맡아왔고, 이번에는 'Pet Bangers' 시리즈의 바이럴을 밀어 올렸다."
+            "x": "Cortex Control 4.1.0에는 워크플로 손질도 들어갔다. Device Presets와 함께 I/O Settings Presets, Global EQ Presets를 지원한다."
           },
           {
             "t": "p",
-            "x": "Jones의 Spotify 월간 청취자는 42,000명을 갓 넘겼고, 그 플랫폼에서 가장 많이 들린 곡 'Emerald Jade Green Ball'은 723,000회 재생을 기록했다. TikTok의 Gina's Pet Bangers 계정 팔로워는 12,500명이다."
+            "x": "CEO 겸 공동창업자 Douglas Castro의 말은 이렇다. \"모든 CorOS 릴리스는 Quad Cortex를 더 강력한 창작 플랫폼으로 만드는 일이다. 이번 업데이트는 우리가 낸 것 중 가장 크다. 새로 넣은 기능의 양 때문만이 아니라, 뮤지션이 소리를 얼마나 빨리 만들어내고 기기 사이를 오가고 우리 플러그인 생태계 전체를 하드웨어 워크플로로 가져오는지를 근본적으로 바꾸기 때문이다.\""
           },
           {
             "t": "p",
-            "x": "그래서 질문이 남는다. 업계 단체들이 최근 제안한 'AI 생성'과 'AI 보조' 라벨 체계에서 이 곡들은 어디로 갈까. Jones의 설명대로면 두 번째지만, \"리드 보컬 연주를 AI가 생성, 핵심 기악 연주를 AI가 생성\"이라는 단체들의 정의는 첫 번째로 끌고 간다. 차트 규칙의 \"실질적으로 사람이 만든\" 조건과 \"사용된 생성형 AI 서비스가 정당하게 승인되고 합법일 것\"이라는 조건도 걸린다."
-          },
-          {
-            "t": "p",
-            "x": "오늘 소식이 보여주는 건 이 문제를 'AI 음악이냐 아니냐'로 잘라 말할 수 없다는 사실이다. Suno와 경쟁자들이 AI의 속도로 계속 달라지는 동안, 업계가 규칙을 못 박으려는 바로 그 시점에 불확실성은 더 커진다."
+            "x": "업데이트는 무료다."
           }
         ]
       }
