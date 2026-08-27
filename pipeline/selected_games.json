@@ -1,61 +1,87 @@
 {
-  "date": "2026-08-27",
+  "generated_at": "2026-08-28T00:00:00Z",
   "section": "games",
+  "selection_mode": "curator_auto",
+  "pool_size": 10,
+  "dedup": {
+    "against_days": 5,
+    "dropped_as_duplicates": [
+      {
+        "url": "https://kotaku.com/opening-night-live-2026-genai-slop-games-geoff-keighley-2000728477",
+        "reason": "Same story as TheGamer's Gamescom ONL genAI-disclosure tally (same event, same ONL Steam-page AI disclosures, different angle) — kept the stronger quantified piece."
+      },
+      {
+        "url": "https://www.destructoid.com/gta6-dazed-magazine-npc-rockstar-la-studio/",
+        "reason": "Same Rockstar/Dazed GTA 6 interview cycle as the GameSpot piece — kept the one that directly reports the no-generative-AI confirmation."
+      }
+    ],
+    "notes": "No candidate matched any of the 30 games cards published 2026-08-20 through 2026-08-27 (today + 5 days) on URL or content."
+  },
   "picks": [
     {
-      "url": "https://www.pocketgamer.biz/ludoai-adds-keyframe-animation-and-3d-tools-for-game-developers/",
-      "source": "PocketGamer.biz",
+      "rank": 1,
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Ludo.ai's Keyframe Animation turns one-shot generative sprites into art-directable frames — a concrete tool change a 2D game artist can act on tomorrow.",
-      "published_iso": "2026-08-26T15:43:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141132/89718/ludoai_l1200.jpg",
-      "excerpt": "Ludo.ai has launched Keyframe Animation, a tool giving game developers direct control over AI-generated sprite animations, alongside new 3D asset tooling. It pushes generative art from one-shot output toward editable, art-directable frames."
+      "headline": "New dev tool from Meta enables AI to quickly test Quest games",
+      "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
+      "source": "Road to VR",
+      "published_iso": "2026-08-26T06:50:17+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+      "excerpt": "Meta introduced Meta XR Operator, an experimental tool that lets AI coding agents autonomously build, test, debug and visually verify VR apps on Quest.",
+      "rationale": "A shipping, hands-on tool: coding agents can now build, run and visually verify Quest builds, which changes an XR team's iteration loop tomorrow."
     },
     {
-      "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-says-ai-hardly-ever-makes-things-up-anymore-even-if-it-once-made-up-that-he-works-for-nintendo/",
-      "source": "GamesRadar+",
+      "rank": 2,
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Horii defends shipping Slimey, a conversational AI companion, inside Dragon Quest — a named designer putting his reputation behind an AI NPC as an accessibility layer rather than a labour cut.",
-      "published_iso": "2026-08-25T15:43:13Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/EADR8yQe57SZzFdAZnAkq9-1920-80.jpg",
-      "excerpt": "Dragon Quest creator Yuji Horii says AI 'hardly ever makes things up' anymore and defends building the conversational companion Slimey into the series, arguing it 'lowers the barrier of entry to interacting with AI.'"
+      "headline": "\"We view AI as a sliding scale. There will always be a human in the loop\": Why Side signed an MOU with Modl.ai to use AI for QA",
+      "url": "https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-08-27T10:34:25+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Modlai-x-Side---Gamescom-2026.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Side and Modl.ai discuss the role of AI in games quality assurance, the tech's current limitations, and why human QA experts remain an essential part of the pipeline.",
+      "rationale": "The largest external QA vendor formalising AI in its pipeline — a concrete map of which QA work moves to agents and which stays human."
     },
     {
-      "url": "https://80.lv/articles/how-dark-and-darker-s-devs-used-aura-to-build-a-major-feature-in-half-the-time",
-      "source": "80 Level",
+      "rank": 3,
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A shipped production case, not a demo: a non-technical designer worked directly in the codebase via an AI assistant and cut a five-to-six week feature to two.",
-      "published_iso": "2026-08-20T16:23:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49818/images/6a864293a4835/contain_1200x630.jpg",
-      "excerpt": "Dark and Darker studio IRONMACE describes how AI coding assistant Aura let a non-technical designer work directly in the codebase to prototype and ship the game's new tutorial — a job the studio estimates would normally have taken five to six weeks, done in two."
+      "headline": "Tencent Games Central Tech debuts at Gamescom 2026 with AI tools spanning animation, gameplay, and testing",
+      "url": "https://wccftech.com/tencent-games-central-tech-debuts-at-gamescom-2026-with-ai-tools-spanning-animation-gameplay-and-testing/",
+      "source": "Wccftech",
+      "published_iso": "2026-08-27T07:30:00+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech.jpg",
+      "excerpt": "Tencent unveiled Motus, an AI pipeline for 3D animation, alongside GIGA and WeTest — a full-stack toolchain covering asset creation, gameplay and automated testing.",
+      "rationale": "A first public look at Tencent's in-house AI toolchain — Motus for 3D animation plus asset and automated-test tools — i.e. what an AI-native production stack looks like end to end."
     },
     {
-      "url": "https://www.thegamer.com/sega-update-crazy-taxi-world-tour-ai/",
-      "source": "TheGamer",
+      "rank": 4,
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Sega narrowing its Steam AI disclosure to ideation-only and pledging to strip AI-derived content before release turns disclosure language into a production commitment studios will be held to.",
-      "published_iso": "2026-08-26T10:41:14Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/ss_c213e51098f46b7466d5526b05335efe20e7ab7f-1920x1080.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Sega rewrote Crazy Taxi: World Tour's Steam AI disclosure to say generative AI was used only for ideation on background objects — and that all AI-derived content will be removed before release. A concrete case of disclosure language becoming a production commitment."
+      "headline": "24% of Gamescom reveals officially used AI",
+      "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/",
+      "source": "TheGamer",
+      "published_iso": "2026-08-27T10:34:41Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "23.64% of the games featured during Gamescom Opening Night Live this year disclosed AI use in development or marketing — 13 of 55 titles shown.",
+      "rationale": "A hard number on disclosed AI use across a flagship showcase — the clearest available benchmark for how normalised AI in production has become."
     },
     {
-      "url": "https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898",
-      "source": "Kotaku",
+      "rank": 5,
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A shipped character-AI product with an explicit consent model — no training on chat logs, voice built only from the original actor's clips — sets a workable precedent for licensed AI companions.",
-      "published_iso": "2026-08-26T05:00:56+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg",
-      "excerpt": "Atelier has turned Ryza into RyzaChat: AI, an open-ended chatbot companion app on iOS and Android in Japan. The team frames it as an 'ethical AI adventure' — no chat logs used for training, and a voice trained only on the original Japanese actor's clips."
+      "headline": "Grand Theft Auto 6 will have no microtransactions or generative AI",
+      "url": "https://www.gamespot.com/articles/grand-theft-auto-6-will-have-no-microtransactions-or-generative-ai/",
+      "source": "GameSpot",
+      "published_iso": "2026-08-27T20:32:06+00:00",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_02.jpg",
+      "excerpt": "Rockstar North co-studio head Rob Nelson reportedly confirmed that no generative AI was used in GTA 6's development, and that the game ships without microtransactions.",
+      "rationale": "The industry's biggest release explicitly opting out of generative AI — the strongest counter-signal to the disclosure trend in the same week."
     }
   ]
 }

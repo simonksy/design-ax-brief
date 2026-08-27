@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
-      "source": "Road to VR",
+      "url": "https://www.digitaltrends.com/phones/google-cracks-down-on-memory-hogging-android-apps-as-ai-fuels-a-global-ram-shortage/",
+      "source": "Digital Trends",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Aiming translation at a chosen region of your view is a new spatial-UI primitive for smart glasses, and it is the headline feature of Google's coming eyewear fleet.",
-      "published_iso": "2026-08-26T13:14:07+00:00",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
-      "excerpt": "Google is reportedly testing a 'Listening area' mode for Live Translate on Android XR that lets wearers aim translation at a specific region of their view. It looks like a headline feature for Google's upcoming fleet of smart glasses."
+      "rationale": "Google is setting hard RAM budgets for Android apps from February 2027, so memory weight becomes a design constraint teams have to plan for now.",
+      "published_iso": "2026-08-27T13:21:54-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/android-apps.jpg?resize=1200%2C630",
+      "excerpt": "Facing a global RAM shortage tied to AI demand, Google sets new memory thresholds for Android apps starting February 2027, with penalties for non-compliance."
     },
     {
-      "url": "https://gizmodo.com/screenless-luffu-link-is-the-next-wearable-from-the-founders-of-fitbit-2000803479",
-      "source": "Gizmodo",
+      "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+      "source": "The Verge",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "The Fitbit founders' $250 screenless LTE band is a fresh answer to what a wearable looks like when voice replaces the display entirely.",
-      "published_iso": "2026-08-26T17:55:31+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/Luffu-Link-1200x675.jpg",
-      "excerpt": "Fitbit founders James Park and Eric Friedman unveiled Luffu Link, a $250 screenless LTE band with mic, speaker and voice logging. The LTE-enabled health and safety band is one part of a larger AI-powered ecosystem for monitoring a family's well-being."
+      "rationale": "Meta closes the capture-LED loophole and buys ads to teach people what the light means — privacy handled as industrial design plus signage, not a settings toggle.",
+      "published_iso": "2026-08-27T21:37:45+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Meta's smart glasses marketing campaign aims to spread 'awareness' about its LED capture light."
     },
     {
-      "url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
-      "source": "Tom's Hardware",
+      "url": "https://www.cnet.com/tech/mobile/plaud-one-note-taking-ai-headphones-ifa-2026/",
+      "source": "CNET",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Putting logic inside mobile memory is the hardware step that decides how big a model your phone or laptop can run locally next year.",
-      "published_iso": "2026-08-25T18:31:37Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/bVH6Hhfk6Uhrp8NJb37qgi-1920-80.jpg",
-      "excerpt": "Samsung detailed the first LPDDR5X-PIM at Hot Chips 2026, putting logic directly inside mobile memory for 3x faster AI inference at 8x the bandwidth. It is a foundational step toward phones and laptops running bigger models locally."
+      "rationale": "Plaud rebuilds headphones around always-on note capture, a concrete answer to what an AI-first audio wearable should physically be.",
+      "published_iso": "2026-08-27T09:13:49-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Comp_Export.jpg",
+      "excerpt": "The new AI device will be on display at IFA in Berlin next week."
     },
     {
-      "url": "https://9to5google.com/2026/08/26/gemini-3-5-transcribe/",
-      "source": "9to5Google",
+      "url": "https://www.techradar.com/ai-platforms-assistants/forget-disneys-bdx-droid-the-usd399-hugging-face-microduck-robot-is-even-more-adorable-and-versatile-thanks-to-lidar-nfc-and-yes-roller-skates",
+      "source": "TechRadar",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Gemini 3.5 Transcribe turns rambling dictation into structured text inside Gboard and Chrome, moving voice from a novelty to a default input method.",
-      "published_iso": "2026-08-26T17:00:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-1.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Google launched Gemini 3.5 Transcribe, its 'most precise speech-to-text model yet,' already powering Gboard Rambler and heading to Chrome. Rambling dictation gets cleaned into structured text on the device you're already typing on."
+      "rationale": "Hugging Face and Pollen put lidar, NFC and a programmable personality into a $399 open robot — cheap enough to make embodied AI an actual prototyping platform.",
+      "published_iso": "2026-08-27T16:54:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NQ4VdVv5uX2tma7U8JQrsU-2000-80.jpg",
+      "excerpt": "Microduck is Pollen Robotics' new programmable robot"
     },
     {
-      "url": "https://www.notebookcheck.net/Tesla-Optimus-vs-BYD-Xiao-Di-vs-LG-CLOiD-Nvidia-enters-AI-robot-segment.1379260.0.html",
-      "source": "Notebookcheck",
+      "url": "https://gizmodo.com/whoops-new-meridian-band-makes-an-expensive-wearable-even-more-so-2000804041",
+      "source": "Gizmodo",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "LG and Nvidia generating 100,000 hours of training data shows the home-humanoid race is now won with data pipelines, not demo reels.",
-      "published_iso": "2026-08-26T17:26:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-Data-Factory_01_cr.jpg",
-      "excerpt": "LG and Nvidia plan to generate 100,000 hours of training data by the end of 2026 to prepare LG's CLOiD home robot for complex tasks. It puts LG head-to-head with Tesla Optimus, BYD Xiao Di, Figure 03 and 1X NEO in the race to a household humanoid."
+      "rationale": "Whoop hides its sensor stack inside titanium Milanese mesh, a clear case of jewelry framing being used to make a sensor you never take off.",
+      "published_iso": "2026-08-27T18:00:47+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/Whoop-Meridian-Band-1200x675.jpg",
+      "excerpt": "The titanium Milanese mesh hides Whoop's sensors in something that looks like jewelry, giving you even more reasons to never take them off."
     }
   ]
 }

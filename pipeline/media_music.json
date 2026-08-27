@@ -1,34 +1,32 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "music",
   "media": [
     {
-      "id": "music-instrument-x",
-      "type": "video",
-      "src": "pipeline/media/music-instrument-x.mp4",
-      "poster": "pipeline/media/music-instrument-x.jpg"
-    },
-    {
-      "id": "music-sonible-smartchain",
-      "type": "video",
-      "src": "pipeline/media/music-sonible-smartchain.mp4",
-      "poster": "pipeline/media/music-sonible-smartchain.jpg"
-    },
-    {
-      "id": "music-abyss-ii",
-      "type": "video",
-      "src": "pipeline/media/music-abyss-ii.mp4",
-      "poster": "pipeline/media/music-abyss-ii.jpg"
-    },
-    {
-      "id": "music-elevenmusic-composer",
+      "id": "music-beatport-ai-ban",
       "type": "image",
-      "src": "pipeline/media/music-elevenmusic-composer.png"
+      "src": "pipeline/media/music-beatport-ai-ban.jpg"
     },
     {
-      "id": "music-soundon-gina-jones",
+      "id": "music-submithub-40",
       "type": "image",
-      "src": "pipeline/media/music-soundon-gina-jones.jpg"
+      "src": "pipeline/media/music-submithub-40.jpg"
+    },
+    {
+      "id": "music-suno-class-action",
+      "type": "image",
+      "src": "pipeline/media/music-suno-class-action.webp"
+    },
+    {
+      "id": "music-umg-ai-patents",
+      "type": "image",
+      "src": "pipeline/media/music-umg-ai-patents.jpg"
+    },
+    {
+      "id": "music-quad-cortex-coros",
+      "type": "video",
+      "src": "pipeline/media/music-quad-cortex-coros.mp4",
+      "poster": "pipeline/media/music-quad-cortex-coros.jpg"
     }
   ]
 }

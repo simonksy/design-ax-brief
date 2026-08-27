@@ -1,116 +1,102 @@
 {
-  "date": "2026-08-27",
+  "generated_at": "2026-08-27T22:04:22Z",
   "section": "music",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.kvraudio.com/news/dreamtonics-releases-instrument-x---neural-acoustic-modeling-replaces-sample-libraries-68244",
-      "source": "KVR Audio",
+      "url": "https://www.billboard.com/lists/how-each-music-listening-platform-treats-ai-music/",
+      "source": "Billboard",
       "category": "music",
-      "published_iso": "2026-08-26T00:00:00Z",
-      "og_image": "https://static.kvraudio.com/i/news/dreamtonics-100.png",
-      "excerpt": "Dreamtonics has released Instrument X, an instrument platform built on neural acoustic modeling instead of sampled playback, translating notation directly into simulated sound-wave radiation. It offers continuous control over bow, breath and key articulation plus up to 11 microphone feeds, in place of triggering static recorded articulations."
-    },
-    {
-      "url": "https://www.musicradar.com/music-tech/software-apps/say-goodbye-to-the-hefty-space-requirements-of-gigantic-orchestral-libraries-as-dreamtonics-instrument-x-provides-a-range-of-classical-instruments-and-expressive-control-over-them-with-a-tiny-footprint",
-      "source": "MusicRadar",
-      "category": "music",
-      "published_iso": "2026-08-26T15:55:44Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/9YNdCGCafqjUHmmNxfAMdP-1920-80.png",
-      "excerpt": "Dreamtonics' Instrument X promises a full range of expressive classical instruments with a tiny disk footprint, replacing multi-gigabyte orchestral sample libraries with neural modelling. MusicRadar frames it as a potential end to the 'bigger library = better sound' era for composers and scorers."
-    },
-    {
-      "url": "https://www.soundonsound.com/news/dreamtonics-unveil-instrument-x",
-      "source": "Sound On Sound",
-      "category": "music",
-      "published_iso": "2026-08-26T16:00:00+01:00",
-      "og_image": "",
-      "excerpt": "Sound On Sound covers Dreamtonics' unveiling of Instrument X, a neural acoustic modelling instrument aimed at composers and film scorers. The engine simulates the physical radiation of an instrument's sound rather than playing back recorded samples."
-    },
-    {
-      "url": "https://www.gearnews.com/sonible-smartchain-studio/",
-      "source": "gearnews",
-      "category": "music",
-      "published_iso": "2026-08-26T12:00:00+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-ft.jpg",
-      "excerpt": "sonible's smart:chain bundles the company's AI-assisted processors into a single intelligent channel strip covering EQ, compression, de-harshing, gating, input riding and saturation. It positions sonible's 'smart' analysis as a whole mixing ecosystem rather than a set of separate plugins."
-    },
-    {
-      "url": "https://musically.com/2026/08/26/elevenmusic-ai-tool-adds-section-by-section-editing-for-songs/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-08-26T12:58:16Z",
-      "og_image": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T135541.409.png",
-      "excerpt": "ElevenLabs has added 'Composer' to ElevenMusic, letting users edit and regenerate individual sections of a generated track without changing the rest. Users can rewrite lyrics per section, compare multiple takes and rearrange song structure by swapping, doubling or extending sections."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-08-26T13:52:50Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif",
-      "excerpt": "ARIA has ruled that fully AI-generated recordings are ineligible for Australia's official singles and albums charts, joining a wave of chart bodies drawing lines around synthetic music. Tracks that merely use AI as a production assist remain eligible."
-    },
-    {
-      "url": "https://mixmag.net/read/apple-music-begin-tagging-ai-generated-tracks-news",
-      "source": "Mixmag",
-      "category": "music",
-      "published_iso": "2026-08-25T00:00:00Z",
-      "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/apple-music-ai-tag.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8HZiaBQyvLwYR-ApEVFw0KG66FXVWXglTEUB02duItw",
-      "excerpt": "Apple Music is reportedly preparing a 'Made With AI' tag that will be required when a material portion of a track was made with generative AI. It would put Apple alongside Spotify, Tidal and Deezer in surfacing AI disclosure directly to listeners."
-    },
-    {
-      "url": "https://musically.com/2026/08/25/ginas-pet-bangers-tiktok-soundon-ai-music/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-08-25T13:12:42Z",
-      "og_image": "https://musically.com/wp-content/uploads/2026/08/DSC_8879-scaled-e1787663500167.jpeg",
-      "excerpt": "TikTok's distribution arm SoundOn has signed Gina Jones, the creator behind AI-assisted viral project 'Gina's Pet Bangers'. It is one of the first major-platform signings of an openly AI-assisted creator, and a test of how labels package that workflow."
-    },
-    {
-      "url": "https://musictech.com/news/music/dr-dre-embracing-ai-new-tool/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-08-24T16:25:12Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Pictured-at-the-2026-Grammy-Awards-Dr.-Dre-1068x801.jpg",
-      "excerpt": "Dr. Dre says he is 'embracing' AI as 'a new tool for creativity', comparing opposition to it with earlier resistance to drum machines and synthesizers. The comments land as producers argue over where assistive AI ends and generative replacement begins."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/08/24/dawesome-abyss-ii/",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-08-24T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/abyss-ii-728x364.jpg",
-      "excerpt": "Dawesome's Abyss II turns any dropped audio file into a sequence of playable spectral 'Tone Colors', using machine learning to extract and group similar results into a custom palette. It reframes sample libraries as raw material for a visual, gesture-driven synth."
-    },
-    {
-      "url": "https://www.hypebot.com/independent-artists-need-an-operating-system-not-another-tool/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-08-24T15:08:14Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-21-karan-oped.jpg",
-      "excerpt": "An op-ed argues independent artists are drowning in single-purpose AI tools and need an integrated operating system spanning production, distribution, analytics and AI-powered strategy. It makes the case that tool sprawl, not model quality, is the real bottleneck for creators."
-    },
-    {
-      "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/",
-      "source": "Engadget",
-      "category": "music",
-      "published_iso": "2026-08-20T21:50:50Z",
-      "og_image": "https://www.engadget.com/img/gallery/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/l-intro-1787262611.jpg",
-      "excerpt": "Apple is reportedly building a 'Made With AI' label for Apple Music, required whenever a material portion of a track used generative AI. There is no public timeline yet, nor a precise definition of which use cases trigger the tag."
+      "headline": "How Each Music Listening Platform Is Treating AI Music (Updating)",
+      "published_iso": "2026-08-27T20:59:24+00:00",
+      "excerpt": "From BandCamp's ban of AI music to Spotify's \"AI Personas,\" here's how all the online music platforms are dealing with the flood of AI songs.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024"
     },
     {
       "url": "https://www.billboard.com/pro/alibaba-launched-ai-music-generator-happy-shrimp/",
       "source": "Billboard",
       "category": "music",
-      "published_iso": "2026-08-18T16:26:29Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/08/1091456116-e1787068208459.jpg?w=1024",
-      "excerpt": "Alibaba has launched a consumer AI music generator called 'Happy Shrimp', pushing a Chinese tech giant directly into the Suno/Udio prompt-to-song market. The move signals AI song generation becoming a mass-market app feature rather than a niche producer tool."
+      "headline": "Chinese Tech Giant Alibaba Launches New AI Music Generator Called ‘Happy Shrimp’",
+      "published_iso": "2026-08-18T16:26:29+00:00",
+      "excerpt": "Partnering with Chinese major TAIHE MUSIC GROUP, Alibaba's AI music generator Happy Shrimp uses artificial intelligence to make fully produced songs.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/08/1091456116-e1787068208459.jpg?w=1024"
+    },
+    {
+      "url": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/",
+      "source": "Billboard",
+      "category": "music",
+      "headline": "Billboard Affirms Commitment to Transparency Around AI-Generated Music",
+      "published_iso": "2026-08-25T14:15:00+00:00",
+      "excerpt": "Billboard announces commitment to creating transparency around the use of AI in music, including identifying songs on its charts that use AI.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/01/Billboard-logo-BB-placeholder-1548.jpg?w=1024"
+    },
+    {
+      "url": "https://musictech.com/news/music/dr-dre-embracing-ai-new-tool/",
+      "source": "MusicTech",
+      "category": "music",
+      "headline": "Dr. Dre says he is “embracing” AI in music: “It’s a new tool for creativity”",
+      "published_iso": "2026-08-24T16:25:12+00:00",
+      "excerpt": "“I think the only people that see it as a threat are the people who have trouble creating,” Dr. Dre says.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Pictured-at-the-2026-Grammy-Awards-Dr.-Dre-1068x801.jpg"
+    },
+    {
+      "url": "https://www.musicradar.com/guitars/neural-dsp-quad-cortex-quad-cortex-mini-coros-4-1-0-update",
+      "source": "MusicRadar",
+      "category": "music",
+      "headline": "“It fundamentally changes how quickly musicians can build sounds”: Neural DSP adds Device Presets and expands Quad Cortex functionality in huge update that’ll help you spend less time tweaking",
+      "published_iso": "2026-08-26T16:51:03Z",
+      "excerpt": "CorOS and Cortex Control 4.1.0 expands plugin compatibility, adds eight new virtual devices and supports multiple device management – but are Device Presets the game-changer?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/mexQr39ddZwN2wbuJW49qV-1920-80.jpg"
+    },
+    {
+      "url": "https://www.gearnews.com/beatport-bans-fully-ai-generated-music-tech/",
+      "source": "Gearnews",
+      "category": "music",
+      "headline": "Beatport Now Bans Fully AI-Generated Music, Effective Immediately: New Detection Tool in Action",
+      "published_iso": "2026-08-17T09:53:11+02:00",
+      "excerpt": "Beatport is banning fully AI-generated music and rolling out the Beatdapp detection tool to enforce it. 77% of DJs say they want music from real artists.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Beatport-AI-ban-T.jpg"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "headline": "ARIA blocks AI-generated recordings from Australia’s official charts",
+      "published_iso": "2026-08-26T13:52:50+00:00",
+      "excerpt": "The updated ARIA Charts Code of Practice takes effect from the chart dated August 31, which is published on August 28.",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/judge-refuses-to-dismiss-indie-artists-proposed-class-action-against-suno-clearing-ai-output-and-stream-ripping-claims-for-discovery/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "headline": "Judge refuses to dismiss indie artist’s proposed class action against Suno, clearing AI output and stream-ripping claims for discovery",
+      "published_iso": "2026-08-27T18:59:12+00:00",
+      "excerpt": "Only one count fell: a claim under the Tennessee Consumer Protection Act, which the plaintiffs told the court they had cited by mistake.",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/rsw_1240h_620cg_true-e1787796708125.webp"
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/08/20/universal-music-patents-licensing-deals-udio-grai/",
+      "source": "Digital Music News",
+      "category": "music",
+      "headline": "Universal Music JV Licenses 24+ AI Patents to Udio and GRAI",
+      "published_iso": "2026-08-21T05:00:26+00:00",
+      "excerpt": "Universal Music has licensed north of two dozen AI patents to Udio and GRAI via its 'Music IP Holdings' JV with Liquidax.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/UMG-Patent-Licensing.jpg"
+    },
+    {
+      "url": "https://mixmag.net/read/40-percent-music-released-july-show-signs-ai-involvement-study-submithub-news",
+      "source": "Mixmag",
+      "category": "music",
+      "headline": "AI detected in 40% of music released in July, study reveals",
+      "published_iso": "2026-08-18T12:00:00+00:00",
+      "excerpt": "By analysing over a million releases, SubmitHub’s AI music detector found that the use of AI in production is prevalent",
+      "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/submithub-ai-credit-cottonbro-studio.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=IrJKaFoTJdzmlxYSdrQ9REz_LuFUmeIvtuH4jbSoE0U"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 13,
+    "dropped": 3,
+    "kept": 10,
     "against_days": 5
   }
 }

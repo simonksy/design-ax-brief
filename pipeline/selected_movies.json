@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "section": "movies",
   "picks": [
     {
-      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
-      "source": "fxguide",
+      "url": "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
+      "source": "404 Media",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Autodesk Flow Studio's 3D Editor + Canvas turns generative video into a blockable, directable shot pipeline — the most directly workflow-changing release in the pool.",
-      "published_iso": "2026-08-24T15:31:01+00:00",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Flow.jpg",
-      "excerpt": "Wonder Dynamics co-founder Nikola Todorovic breaks down Autodesk Flow Studio's new 3D Editor + Canvas, which pairs interactive 3D scene construction — characters, mocap, camera tracks, Gaussian-splat environments from World Labs' Marble — with generative 2D video models. The pitch is directable AI filmmaking: block and light the shot in 3D, then finish it in a node-based 2D canvas rather than prompting a whole movie."
+      "rationale": "The studio behind the world's biggest kids' channel formally tells its own artists to start using AI — the clearest signal yet of how animation job descriptions are being rewritten.",
+      "published_iso": "2026-08-27T15:33:32+00:00",
+      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-27-at-07.55.58@2x.png",
+      "excerpt": "Moonbug Entertainment, which makes Cocomelon, Blippi, and other popular content for children, says it will begin using AI but will always have a 'human in the loop.'"
     },
     {
-      "url": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/",
-      "source": "Variety",
+      "url": "https://www.redsharknews.com/media-composer-2026-8-features",
+      "source": "RedShark News",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "A Kennedy/AFI-convened coalition finally puts a shared vocabulary on where craft-level AI assists end and synthetic performance begins — the line every production will now be judged against.",
-      "published_iso": "2026-08-21T23:12:39+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2210325176.jpg?crop=0px%2C127px%2C5000px%2C2812px&resize=1000%2C563",
-      "excerpt": "A coalition convened by Kathleen Kennedy and AFI dean Susan Ruskin went public with \"Human Generative Workflows,\" a framework that gives the industry a shared vocabulary for authorship under generative AI. It explicitly separates craft-level AI assists — upscaling, sharpening, markerless mocap, a Resolve color assist — from prompted synthetic performances that substitute for human creative work."
+      "rationale": "A concrete NLE release editors can act on this week: Shared Projects changes, new AI tools and Ready to Edit land in Media Composer ahead of IBC2026.",
+      "published_iso": "2026-08-27T12:08:46+00:00",
+      "og_image": "https://www.redsharknews.com/hubfs/Avid%20ready%20to%20edit.jpg",
+      "excerpt": "Media Composer 2026.8 adds Shared Projects options, AI tools and Ready to Edit ahead of IBC2026."
     },
     {
-      "url": "https://postperspective.com/lineo-launches-end-to-end-platform-for-spot-producers/",
-      "source": "postPerspective",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-wonka-reality-show-gene-wilder-1236682001/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Freshest item in the pool and the rare AI release aimed at the production office rather than the shot: bid-to-wrap budgets, POs and payroll with an assistant that reads the job's own data.",
-      "published_iso": "2026-08-26T14:24:15+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Calendar_UI_Laptop-1.jpg",
-      "excerpt": "Lineo, built by working commercial producers, launches a single production-management platform covering bid-to-wrap: AICP/APA budgets, calendars, bid packages, POs, payroll and petty cash with live actuals. AI drafts bid letters, parses and logs receipts and POs, and a built-in Production Assistant answers plain-language questions about the job's own data."
+      "rationale": "Netflix putting a digitally resurrected Gene Wilder on camera as a series host moves synthetic likeness from experiment to mainstream format — and sets the tone for the backlash.",
+      "published_iso": "2026-08-26T15:54:02+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Wonka.png?crop=0px%2C95px%2C2772px%2C1551px&resize=1440%2C810",
+      "excerpt": "The competition series trailer features the digitally resurrected Wilder as host and one of the original Oompa Loompa actors."
     },
     {
-      "url": "https://www.youtube.com/watch?v=YQTduCzNoqw",
-      "source": "Theoretically Media (YouTube)",
+      "url": "https://www.sixthtone.com/news/1018935",
+      "source": "Sixth Tone",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Shot-by-shot filmmaker tests of two unreleased text-to-video models give an early read on what the next generation actually handles, plus a free cinematic reference library to prompt against.",
-      "published_iso": "2026-08-17T21:57:07+00:00",
-      "og_image": "https://i.ytimg.com/vi/YQTduCzNoqw/maxresdefault.jpg",
-      "excerpt": "Theoretically Media puts two unreleased, codenamed AI video models through filmmaker-style tests and pairs the results with a free cinematic reference library. A useful read on what the next generation of text-to-video is actually good at shot-by-shot."
+      "rationale": "An inside look at how a script-to-storyboard-to-generate-to-revise pipeline collapses a whole short-drama crew into one operator — the most concrete picture of an AI-native production workflow in the pool.",
+      "published_iso": "2026-08-25T09:44:08+00:00",
+      "og_image": "https://image5.sixthtone.com/image/5/99/695.jpg",
+      "excerpt": "Former animators, cinematographers, and VFX artists are helping build AI systems that can script, storyboard, generate, and revise short dramas with unprecedented speed."
     },
     {
-      "url": "https://variety.com/2026/film/global/google-deepmind-amazon-web-services-busan-market-innoasia-1236843573/",
-      "source": "Variety",
+      "url": "https://www.cgchannel.com/2026/08/scantic-trains-gaussian-splats-entirely-on-your-phone/",
+      "source": "CG Channel",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "DeepMind, AWS and Kling AI moving into Busan's film market alongside seven Korean startups is the clearest sign yet that generative video vendors are becoming Asian film-market infrastructure.",
-      "published_iso": "2026-08-26T07:00:20+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Busan's Asian Contents & Film Market unveiled its InnoAsia lineup, pairing Google DeepMind, Amazon Web Services and Kling AI with seven Korean startups, plus a branded-film contest with Hanwha and Innocean. It is one of the clearest signals yet of generative video vendors embedding themselves in Asian film-market infrastructure."
+      "rationale": "On-device 3DGS scanning with no cloud round-trip and a free tier makes location and prop capture a same-day previs habit rather than a pipeline project.",
+      "published_iso": "2026-08-19T12:00:00+00:00",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.jpg",
+      "excerpt": "New iOS app generates 3DGS scans of objects and environments entirely on your phone, without cloud processing. The base app is free."
     }
   ]
 }

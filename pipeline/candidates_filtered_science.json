@@ -1,172 +1,147 @@
 {
-  "date": "2026-08-27",
+  "generated_at": "2026-08-27T22:04:22Z",
   "section": "science",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-08-ai-antibodies-laboratory.html",
+      "url": "https://phys.org/news/2026-08-fast-error-prone-ai-decades.html",
       "source": "Phys.org",
-      "published_iso": "2026-08-26T20:00:06Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designs-new-antibod-1.jpg",
-      "excerpt": "Researchers affiliated with UTHealth Houston, competing as Novamab AI, placed among the top five teams in the international AIntibody Challenge, a blinded, prospective benchmark published in Nature Biotechnology. It is one of the first hard tests of whether AI-designed antibodies actually bind their targets in the lab.",
-      "category": "science"
+      "category": "science",
+      "headline": "Fast but error-prone AI assists in solving a decades-old fluid mechanics problem in five weeks",
+      "published_iso": "2026-08-27T20:40:05+00:00",
+      "excerpt": "An AI assistant helped University of Colorado Boulder researchers crack a mathematical problem their lab had wrestled with for a year and a half, in five weeks. It also made subtle errors along the way, exposing both the promise and the limits of AI as a research partner.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/fast-but-error-prone-a-1.jpg"
     },
     {
-      "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html",
+      "url": "https://phys.org/news/2026-08-ai-complement-traditional-weather-guidance.html",
       "source": "Phys.org",
-      "published_iso": "2026-08-26T20:50:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg",
-      "excerpt": "Machine learning doesn't replace human intelligence, but it can outlast human endurance, which makes it a helpful tool for chemistry and materials discovery. New methods push self-driving labs closer to running materials discovery campaigns at real scale.",
-      "category": "science"
+      "category": "science",
+      "headline": "AI can complement traditional weather models by offering guidance on tropical cyclones several days before they form",
+      "published_iso": "2026-08-27T13:40:01+00:00",
+      "excerpt": "A new study of Atlantic tropical cyclone forecasts finds AI models can flag when and where tropical disturbances may spin up into storms days before conventional physics models do — useful extra guidance rather than a replacement.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ais-eye-on-the-tropics.jpg"
     },
     {
-      "url": "https://phys.org/news/2026-08-llm-based-platform-generating-materials.html",
+      "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
       "source": "Phys.org",
-      "published_iso": "2026-08-26T14:20:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/research-team-develops-1.jpg",
-      "excerpt": "A Sungkyunkwan University team led by Prof. Sung Beom Cho built an LLM-based platform that generates new materials synthesis recipes, dramatically cutting the trial and error normally needed to get from a predicted compound to an actual sample.",
-      "category": "science"
+      "category": "science",
+      "headline": "AI decodes DNA initiator sequence found in about 60% of human genes",
+      "published_iso": "2026-08-22T15:40:01+00:00",
+      "excerpt": "Researchers used machine learning to decode an initiator element that governs gene activation in roughly 60% of human genes, a regulatory grammar that had resisted decades of manual analysis.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/dna-1.jpg"
+    },
+    {
+      "url": "https://techxplore.com/news/2026-08-ai-doesnt-play-chess-complexity.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "headline": "AI doesn't just play better chess — it manages complexity differently",
+      "published_iso": "2026-08-27T17:20:01+00:00",
+      "excerpt": "Chess engines beat grandmasters, but a new analysis asks how their play actually differs. The answer is less about raw calculation than about how machines steer positions toward complexity humans find hard to hold.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-chess.jpg"
     },
     {
       "url": "https://techxplore.com/news/2026-08-ai-framework-optimize-solid-oxide.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-08-26T20:20:05Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-15.jpg",
-      "excerpt": "Korean researchers built an AI active-learning framework for solid oxide electrolysis cells that reached its optimum with 17 high-fidelity simulations instead of 6,561 — about 60 hours of compute instead of nearly 23,000. It improved electrochemical performance 14% while cutting thermal gradients 80%.",
-      "category": "science"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-08-simulated-ground-ai-fluid-dynamics.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-08-26T17:20:17Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/hydrogym-trains-assess.jpg",
-      "excerpt": "HydroGym, an open reinforcement-learning proving ground from Washington, Michigan and German groups, trains and benchmarks AI controllers for fluid flow. Controllers trained on simple channel flows transferred to a wing simulation, cutting surface friction 38% and drag 11%.",
-      "category": "science"
+      "category": "science",
+      "headline": "Researchers develop AI framework to optimize solid oxide electrolysis cell operation",
+      "published_iso": "2026-08-26T20:20:05+00:00",
+      "excerpt": "A Korean team built an AI-guided optimization framework that slashes the computation needed to tune solid oxide electrolysis cell operating conditions, replacing brute-force simulation sweeps with learned surrogates.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-develop-ai-15.jpg"
     },
     {
       "url": "https://techxplore.com/news/2026-08-digbat-ai-ready-digital-platform.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-08-25T11:40:02Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/digbat-an-ai-ready-dig.jpg",
-      "excerpt": "Tohoku University's DigBat consolidates 3,816 experimental solid-state electrolytes and 27,645 conductivity entries into one AI-ready platform with built-in machine learning and an AI assistant, aimed at making solid-state battery research navigable rather than merely storable.",
-      "category": "science"
+      "category": "science",
+      "headline": "DigBat: An AI-ready digital platform for solid-state battery research",
+      "published_iso": "2026-08-25T11:40:02+00:00",
+      "excerpt": "Solid-state electrolyte data is scattered across papers in incompatible formats. DigBat restructures that literature into a machine-readable platform so ML models can actually train on decades of battery research.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/digbat-an-ai-ready-dig.jpg"
     },
     {
-      "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+      "url": "https://medicalxpress.com/news/2026-08-students-ai-isnt-drug-discovery.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "headline": "Students find AI isn't a cure-all for drug discovery",
+      "published_iso": "2026-08-27T17:40:06+00:00",
+      "excerpt": "Companies are pouring billions into AI-driven drug research. A Northeastern student project put the tools to the test and found the hard parts of discovery stubbornly resistant to automation.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/northeastern-students.jpg"
+    },
+    {
+      "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
       "source": "MIT News",
-      "published_iso": "2026-08-26T09:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-Valence-01-press.jpg",
-      "excerpt": "MIT researchers added a new component to AI models that design new materials, helping ensure the material will be stable and practical for real-world use. The CrysVCD approach could reduce the money and time spent screening out unusable generated designs.",
-      "category": "science"
+      "category": "science",
+      "headline": "Looking beyond natural sequences: a machine-learning framework for protein design",
+      "published_iso": "2026-08-27T19:20:00+00:00",
+      "excerpt": "MIT biologists built a machine-learning framework that raises the hit rate of computational protein design while pushing models away from simply regurgitating sequences that already exist in nature.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202608/mit-biology-Keating-Lab-proteins.jpg"
+    },
+    {
+      "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+      "source": "MIT News",
+      "category": "science",
+      "headline": "Generating scenarios for extreme events, without extreme data",
+      "published_iso": "2026-08-24T18:00:00+00:00",
+      "excerpt": "MIT engineers built a model that predicts plausible worst-case scenarios — an extreme storm's likely duration, intensity and footprint — without needing past examples of the extreme event itself.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-ExtremeLearning-01-press.jpg"
+    },
+    {
+      "url": "https://www.universetoday.com/articles/ai-spots-hidden-solar-storm-signs-9-hours-early",
+      "source": "Universe Today",
+      "category": "science",
+      "headline": "AI Spots Hidden Solar Storm Signs 9 Hours Early",
+      "published_iso": "2026-08-27T01:16:25+00:00",
+      "excerpt": "A machine-learning model reading subtle magnetic precursors in solar observations flags coming solar storms up to nine hours before current space-weather methods, buying satellite and grid operators real lead time.",
+      "og_image": "https://www.universetoday.com/article_images/14972_Active_Region_Short_Horiz_ProRes_1920x1080_2997_ed.jpg_750_20260827_0"
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "headline": "FAU Researchers Use Quantum Machine Learning to Predict Heart Disease",
+      "published_iso": "2026-08-27T16:33:39+00:00",
+      "excerpt": "FAU researchers report a quantum machine learning model that hit 90.26% accuracy predicting heart disease across data from 918 patients — an early, concrete test of QML on clinical tabular data.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-27_21-32.png"
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "headline": "Researchers Use IBM Quantum Computer to Test Drug-Docking Method",
+      "published_iso": "2026-08-27T11:33:12+00:00",
+      "excerpt": "A hybrid quantum-classical molecular docking method ran on an IBM quantum processor, showing a resource-efficient path for quantum hardware to contribute to structure-based drug design.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-7.29.20-AM.png"
     },
     {
       "url": "https://physicsworld.com/a/improved-qleds-with-machine-learning/",
       "source": "Physics World",
-      "published_iso": "2026-08-26T07:00:28Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg",
-      "excerpt": "Machine learning identified solvent formulations that produce highly homogeneous quantum dot films, a step toward brighter and more uniform QLED displays.",
-      "category": "science"
-    },
-    {
-      "url": "https://physicsworld.com/a/no-quantum-advantage-yet-in-the-world-of-tensor-networks/",
-      "source": "Physics World",
-      "published_iso": "2026-08-21T13:41:22Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/21-8-26-tn-nohora.jpg",
-      "excerpt": "Classical tensor-network computation proved more accurate than a quantum annealer for some Ising spin glasses, another data point in the contest between learned classical solvers and quantum hardware.",
-      "category": "science"
-    },
-    {
-      "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
-      "source": "Physics World",
-      "published_iso": "2026-08-19T14:30:49Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-perkowitz-server-room-data-centre-1415677219-istock-imaginima.jpg",
-      "excerpt": "Sidney Perkowitz surveys alternative, physics-inspired computing methods — neuromorphic spikes, spin-based devices and beyond — as a response to the energy cost of running today's AI models.",
-      "category": "science"
-    },
-    {
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-      "source": "Google Research",
-      "published_iso": "2026-08-26T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google Research introduces GlucoFM, a foundation model trained on continuous glucose monitoring streams, extending the sensor-foundation-model idea from wearables into metabolic health research.",
-      "category": "science"
-    },
-    {
-      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-      "source": "Google Research",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google Research describes an AI tool that sifts wearable sensor data to prioritize candidate biomarkers, narrowing the search space researchers must validate in clinical studies.",
-      "category": "science"
+      "category": "science",
+      "headline": "Improved QLEDs with machine learning",
+      "published_iso": "2026-08-26T07:00:28+00:00",
+      "excerpt": "Machine learning searched solvent formulation space to find recipes that yield unusually homogeneous quantum dot films, a direct materials-processing win for display engineering.",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg"
     },
     {
       "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
       "source": "MIT Technology Review",
-      "published_iso": "2026-08-26T09:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
-      "excerpt": "Puzzles and games can reveal gaps in models' smarts. MIT Technology Review sets out seven tests that current AI systems still flub, and invites readers to try to outwit them.",
-      "category": "science"
+      "category": "science",
+      "headline": "AI models flub these intelligence tests. Can you fare any better?",
+      "published_iso": "2026-08-26T05:00:00-04:00",
+      "excerpt": "Puzzles and games keep exposing gaps in what frontier models actually understand. MIT Technology Review lays out seven tests readers can try against the machines.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1"
     },
     {
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-08-24T09:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
-      "excerpt": "LLMs need vastly more data than children to learn language. Cognitive scientists are reverse-engineering that data-efficiency gap in the hope of building far more efficient models — and learning something about developing minds.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-08-21T09:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600",
-      "excerpt": "Patents can only name humans as inventors — for now. When Insilico Medicine's generative platform proposed a pulmonary fibrosis drug, the press release credited the AI while the patent named five people.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/from-models-to-agents-the-next-phase-of-ai-adoption-in-molecular-discovery/",
-      "source": "GEN - Genetic Engineering & Biotechnology News",
-      "published_iso": "2026-08-21T15:28:09Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2234447381_AIMedicalIdea.jpg",
-      "excerpt": "The compute power exists. The models exist. What's missing is a system that coordinates them — GEN argues molecular discovery is moving from standalone models to orchestrated agents.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/protecting-scientific-intent-in-ai-enabled-labs-by-not-letting-ai-set-the-mission/",
-      "source": "GEN - Genetic Engineering & Biotechnology News",
-      "published_iso": "2026-08-20T17:54:18Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/GettyImages-2248539094.jpg",
-      "excerpt": "Whatever level of artificial intelligence is used in the lab, humans need to be in the lead throughout the process, a research team argues — a framework for keeping scientific intent from drifting to the machine.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1140311",
-      "source": "EurekAlert!",
-      "published_iso": "2026-08-17T00:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/87e077e6-61f5-4f09-ab9b-8ea087a72bef/Rendition/thumbnail/Content/Public",
-      "excerpt": "An end-to-end, machine-learning-guided workflow from UChicago's Gagliardi lab carries a material from academic idea to manufacture-ready reality in a single discovery process, yielding two new zinc MOFs for separating methane from nitrogen.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1140973",
-      "source": "EurekAlert!",
-      "published_iso": "2026-08-24T00:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/64c95a09-62fd-4a22-aa71-e35ff118a2e3/Rendition/thumbnail/Content/Public",
-      "excerpt": "Harvard SEAS engineers built Mobilio, a smartphone app that uses machine learning, built-in sensors and personalized audio beeps to give users with blindness or low vision continuous guidance and obstacle avoidance.",
-      "category": "science"
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-08-ai-proteomics-uncover-blood-proteins.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-08-26T19:20:08Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/proteomics-and-ai-iden.jpg",
-      "excerpt": "Berlin researchers combined proteomics with machine learning across plasma from more than 100 vasculitis patients, plus an independent Prague cohort, to identify seven blood proteins that reliably signal remission where CRP cannot.",
-      "category": "science"
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
+      "category": "science",
+      "headline": "Piloting the world's first double-blind AI evaluations",
+      "published_iso": "2026-08-27T14:00:00+00:00",
+      "excerpt": "DeepMind is piloting double-blind evaluation of AI systems, borrowing clinical-trial methodology so benchmark results can't be gamed by labs grading their own homework.",
+      "og_image": ""
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 20,
+    "dropped": 0,
+    "kept": 15,
     "against_days": 5
   }
 }
