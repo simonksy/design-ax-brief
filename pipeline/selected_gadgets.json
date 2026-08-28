@@ -1,61 +1,124 @@
 {
-  "date": "2026-08-28",
   "section": "gadgets",
+  "generated_at": "2026-08-29T00:00:00Z",
+  "selection_mode": "curator_auto",
+  "dedup": {
+    "against": "pipeline/news_data.json -> sections.gadgets (today + 5 days)",
+    "published_days_checked": ["2026-08-28", "2026-08-27", "2026-08-26", "2026-08-25", "2026-08-22", "2026-08-21"],
+    "dropped_as_duplicate": [
+      {
+        "url": "https://www.tomsguide.com/ai/less-pervert-y-meta-ai-glasses-will-now-stop-recording-if-you-cover-the-warning-light",
+        "reason": "Same event as published card gadgets-meta-led (The Verge, 2026-08-28) — Meta closing the covered-capture-LED loophole."
+      },
+      {
+        "url": "https://9to5google.com/2026/08/27/plaud-one-is-a-pair-of-air-recording-earbuds/",
+        "reason": "Same product launch as published card gadgets-plaud-one (CNET, 2026-08-28) — Plaud One recording earbuds ahead of IFA."
+      },
+      {
+        "url": "https://www.androidcentral.com/apps-software/android-os/nothing-os-5-0-drops-with-android-17-and-on-device-app-building",
+        "reason": "Same release as published card gadgets-nothing-os5 (Digital Trends, 2026-08-26) — Nothing OS 5.0 on Android 17."
+      },
+      {
+        "url": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
+        "reason": "Same Gurman smart-home-display story cluster already covered by gadgets-homepad-faces (9to5Mac, 2026-08-21); also duplicated within the pool by two other Apple Home items."
+      },
+      {
+        "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+        "reason": "Within-pool duplicate of the same Apple Home launch cluster (see above)."
+      },
+      {
+        "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
+        "reason": "Within-pool duplicate of the same Apple Home roadmap cluster, and two weeks old."
+      },
+      {
+        "url": "https://gizmodo.com/ifa-2026-berlin-will-show-why-the-future-of-ai-and-smart-homes-is-already-here-with-the-latest-tech-from-around-the-world-2000800765",
+        "reason": "Within-pool duplicate of the Tom's Guide IFA 2026 preview; both are evergreen show previews with no new release."
+      },
+      {
+        "url": "https://www.slashgear.com/2246785/google-pixel-watch-5-review-2026/",
+        "reason": "Pixel Watch 5 launch cluster already published (gadgets-pixelwatch5-breathing, 2026-08-21); the 9to5Google watch-face-generator item is the same cluster and is 8 days old."
+      }
+    ],
+    "notes": "Backfilled down the ranked pool after drops; 5 distinct never-before-published stories remain, no shared URLs."
+  },
   "picks": [
     {
-      "url": "https://www.digitaltrends.com/phones/google-cracks-down-on-memory-hogging-android-apps-as-ai-fuels-a-global-ram-shortage/",
-      "source": "Digital Trends",
+      "rank": 1,
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Google is setting hard RAM budgets for Android apps from February 2027, so memory weight becomes a design constraint teams have to plan for now.",
-      "published_iso": "2026-08-27T13:21:54-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/android-apps.jpg?resize=1200%2C630",
-      "excerpt": "Facing a global RAM shortage tied to AI demand, Google sets new memory thresholds for Android apps starting February 2027, with penalties for non-compliance."
+      "headline": "LG's Evo AI GM9 puts a 5K mini-LED creative display on the desk — at a price",
+      "url": "https://www.pcworld.com/article/3215049/lg-ultragear-evo-ai-gm9-review.html",
+      "source": "PCWorld",
+      "published_iso": "2026-08-28T14:00:00+00:00",
+      "og_image": "https://www.pcworld.com/wp-content/uploads/2026/08/3215049-0-52297700-1787925637-PXL_20260813_091018089.jpg?quality=50&strip=all&w=1024",
+      "excerpt": "The GM9 is a top-of-the-range monitor for creative work, media and gaming. And it costs a fair bit.",
+      "rationale": "The one item in the pool that lands directly on a designer's desk — a measured review of a 5K mini-LED panel aimed at colour-critical creative work."
     },
     {
-      "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
-      "source": "The Verge",
+      "rank": 2,
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Meta closes the capture-LED loophole and buys ads to teach people what the light means — privacy handled as industrial design plus signage, not a settings toggle.",
-      "published_iso": "2026-08-27T21:37:45+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Meta's smart glasses marketing campaign aims to spread 'awareness' about its LED capture light."
+      "headline": "XREAL's hands-on shows Android XR finally has hardware worth designing for",
+      "url": "https://9to5google.com/2026/08/28/xreal-android-xr-hands-on/",
+      "source": "9to5Google",
+      "published_iso": "2026-08-28T19:05:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/xreal-one-pro-2.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "I've always been a bit skeptical of smart glasses and mixed reality headsets. It's not hard to find the utility...",
+      "rationale": "First real hands-on read of the platform XR interfaces will be built on — a skeptic's account of where Android XR's utility actually begins."
     },
     {
-      "url": "https://www.cnet.com/tech/mobile/plaud-one-note-taking-ai-headphones-ifa-2026/",
-      "source": "CNET",
+      "rank": 3,
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Plaud rebuilds headphones around always-on note capture, a concrete answer to what an AI-first audio wearable should physically be.",
-      "published_iso": "2026-08-27T09:13:49-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Comp_Export.jpg",
-      "excerpt": "The new AI device will be on display at IFA in Berlin next week."
+      "headline": "Xiaomi's AI Cube stacks three Xring chips to run a 120B model on your desk",
+      "url": "https://www.notebookcheck.net/Xiaomi-unveils-AI-Cube-mini-PC-with-three-Xring-chips-and-150-W-performance.1376717.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-08-24T22:24:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-ai-cube-mini-pc-three-xring-chips.png",
+      "excerpt": "Xiaomi has unveiled the AI Cube engineering prototype, a mini PC that combines its Xring O3, O100 and D100 chips for local AI model deployment. The system supports 120B and 3B models and can deliver up to 150 W performance.",
+      "rationale": "Local model inference moving into a 150 W desktop box — the hardware side of keeping client work and assets off the cloud."
     },
     {
-      "url": "https://www.techradar.com/ai-platforms-assistants/forget-disneys-bdx-droid-the-usd399-hugging-face-microduck-robot-is-even-more-adorable-and-versatile-thanks-to-lidar-nfc-and-yes-roller-skates",
-      "source": "TechRadar",
+      "rank": 4,
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Hugging Face and Pollen put lidar, NFC and a programmable personality into a $399 open robot — cheap enough to make embodied AI an actual prototyping platform.",
-      "published_iso": "2026-08-27T16:54:20Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NQ4VdVv5uX2tma7U8JQrsU-2000-80.jpg",
-      "excerpt": "Microduck is Pollen Robotics' new programmable robot"
+      "headline": "Galaxy S26's seventh One UI 9 beta adds new AI features with the August patch",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-7-3704232/",
+      "source": "Android Authority",
+      "published_iso": "2026-08-28T07:50:29+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-in-hand.jpg",
+      "excerpt": "Samsung has rolled out its seventh One UI 9 beta for the Galaxy S26, delivering new AI features alongside the August 2026 security patches.",
+      "rationale": "The last beta shape of the OS a large slice of users will be on — worth reading now if your product ships an Android surface this autumn."
     },
     {
-      "url": "https://gizmodo.com/whoops-new-meridian-band-makes-an-expensive-wearable-even-more-so-2000804041",
-      "source": "Gizmodo",
+      "rank": 5,
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Whoop hides its sensor stack inside titanium Milanese mesh, a clear case of jewelry framing being used to make a sensor you never take off.",
-      "published_iso": "2026-08-27T18:00:47+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/Whoop-Meridian-Band-1200x675.jpg",
-      "excerpt": "The titanium Milanese mesh hides Whoop's sensors in something that looks like jewelry, giving you even more reasons to never take them off."
+      "headline": "Viture and Phantom Blade Zero's studio turn XR glasses into a character object",
+      "url": "https://www.androidcentral.com/gaming/virtual-reality/viture-s-game-phantom-beast-collab-has-to-be-the-dopest-kungfupunk-xr-glasses-ive-seen",
+      "source": "Android Central",
+      "published_iso": "2026-08-27T19:12:49Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/cxxhYV9mTWyXsykiC3hwGm-2560-80.jpg",
+      "excerpt": "Viture collabs with S-Game, the studio behind Phantom Blade Zero, for the Phantom Beast XR glasses with the sickest design I",
+      "rationale": "A rare case of XR eyewear styled as a game-world artifact rather than a black wayfarer — a live test of whether identity, not spec, sells wearables."
     }
-  ]
+  ],
+  "diversity_check": {
+    "outlets": ["PCWorld", "9to5Google", "Notebookcheck", "Android Authority", "Android Central"],
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
+    "categories": {"gadgets": 5},
+    "topic_spread": ["creative display", "XR platform", "local AI hardware", "mobile OS beta", "XR industrial design"],
+    "passes": true
+  }
 }

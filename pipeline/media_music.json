@@ -1,32 +1,31 @@
 {
-  "date": "2026-08-28",
-  "section": "music",
   "media": [
     {
-      "id": "music-beatport-ai-ban",
+      "id": "music-voxis",
       "type": "image",
-      "src": "pipeline/media/music-beatport-ai-ban.jpg"
+      "src": "pipeline/media/music-voxis.jpg"
     },
     {
-      "id": "music-submithub-40",
+      "id": "music-suno-amended",
       "type": "image",
-      "src": "pipeline/media/music-submithub-40.jpg"
+      "src": "pipeline/media/music-suno-amended.png"
     },
     {
-      "id": "music-suno-class-action",
-      "type": "image",
-      "src": "pipeline/media/music-suno-class-action.webp"
-    },
-    {
-      "id": "music-umg-ai-patents",
-      "type": "image",
-      "src": "pipeline/media/music-umg-ai-patents.jpg"
-    },
-    {
-      "id": "music-quad-cortex-coros",
+      "id": "music-or1",
       "type": "video",
-      "src": "pipeline/media/music-quad-cortex-coros.mp4",
-      "poster": "pipeline/media/music-quad-cortex-coros.jpg"
+      "src": "pipeline/media/music-or1.mp4",
+      "poster": "pipeline/media/music-or1.jpg"
+    },
+    {
+      "id": "music-dre-ai",
+      "type": "video",
+      "src": "pipeline/media/music-dre-ai.mp4",
+      "poster": "pipeline/media/music-dre-ai.jpg"
+    },
+    {
+      "id": "music-definitive-recording",
+      "type": "image",
+      "src": "pipeline/media/music-definitive-recording.png"
     }
   ]
 }

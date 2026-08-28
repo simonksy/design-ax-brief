@@ -1,57 +1,63 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-29",
   "section": "books",
-  "pass": "recovery",
+  "now_iso": "2026-08-28T22:05:00Z",
   "window_hours": 336,
-  "now_iso": "2026-08-21T22:00:26Z",
+  "pass": "recovery-1",
+  "notes": "Recovery pass for books. Burned (excluded): Amazon VGT3 book-scanning/destruction (404 Media, Jane Friedman, Good e-Reader), Claude/Anthropic watermarking, Spotify audiobook AI features, Google Play Books Book Insights / Google Expert Intelligence, textbook authors v OpenAI, and every URL in pipeline/candidates_books.json. Searched only adjacent terms: manga/webtoon AI localization, literary machine translation, library & archive AI, scholarly AI policy, bookselling/metadata AI, AI slop on retail, book-cover AI, audiobook narration vendors, Korean/Japanese publishing AI, book-fair AI programmes, AI writing tools. Per-outlet cap respected against the ORIGINAL pool too (janefriedman, selfpublishingadvice, scholarlykitchen already at 3 and were skipped entirely; publishersweekly / publishingperspectives / goodereader / 404media had their remaining slots checked).",
   "items": [
     {
-      "url": "https://publishingperspectives.com/2026/08/why-rights-holder-transparency-is-becoming-non-negotiable/",
+      "category": "books",
+      "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+      "source": "The Decoder",
+      "published_iso": "2026-08-15T11:00:50+00:00",
+      "excerpt": "A new market study of the Amazon/Kindle catalog finds AI-assisted titles diluting the whole market: between Q1 2023 and Q1 2026 the catalog grew 38.3x while quarterly revenue grew only 8.9x. Books with no detected AI text are 62.9% of the catalog but 72.5% of revenue, while substantially-AI books are 20% of titles and 11.3% of revenue.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/08/AI-generated-books-dilute-Amazon-Kindle-Nano-Banana-Pro.jpg",
+      "off_list": true,
+      "off_list_reason": "Distinct from the already-published Originality.AI religion-paperback study; no on-list outlet carried this catalog-wide revenue-dilution analysis in the window."
+    },
+    {
+      "category": "books",
+      "title": "읽던 웹툰이 말을 걸었다…'보는 만화' 틀 깬 네이버웹툰",
+      "url": "https://www.newsis.com/view/NISX20260818_0003753111",
+      "source": "뉴시스 (Newsis)",
+      "published_iso": "2026-08-20T06:00:00+09:00",
+      "excerpt": "네이버웹툰이 원작자 승인 IP를 기반으로 독자가 웹툰 주인공과 직접 대화하는 AI 스토리챗 '바이어스(byUs)'와 AI 숏폼 제작 서비스 '컷츠메이크'를 전개하며 웹툰 소비 방식 자체를 바꾸고 있다. 휴재 중이던 '이직로그'는 AI 서비스 적용 후 일주일 만에 조회수가 67% 증가했다.",
+      "og_image": "https://img1.newsis.com/2026/08/18/NISI20260818_0002215154_web.jpg",
+      "off_list": true,
+      "off_list_reason": "Korean webtoon/comics publishing AI; no on-list domain covers Korean publishing."
+    },
+    {
+      "category": "books",
+      "title": "Book Marketing, AI Book Discoverability, And Resilience, With Ricardo Fayet",
+      "url": "https://www.thecreativepenn.com/2026/08/19/book-marketing-ai-book-discoverability-and-resilience-with-ricardo-fayet/",
+      "source": "The Creative Penn",
+      "published_iso": "2026-08-19T07:30:00+01:00",
+      "excerpt": "Reedsy co-founder Ricardo Fayet argues that AI search engines surface and recommend books on completely different signals than Amazon keyword search, so keyword SEO is giving way to 'generative engine optimization'. Authors are told to build an internet footprint — reviews, Goodreads, Reddit mentions — that chatbots can actually cite.",
+      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/08/book-marketing-and-resilience.jpg",
+      "off_list": false
+    },
+    {
+      "category": "books",
+      "title": "When bots write books",
+      "url": "https://theweek.com/culture-life/books/when-bots-write-books-ai-publishing-industry",
+      "source": "The Week",
+      "published_iso": "2026-08-17T20:05:10Z",
+      "excerpt": "A survey of how generative AI is being folded into book production — from drafting to the flood of machine-written titles reaching retail — and what that shift means for human authors, editors and the shape of the publishing pipeline.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dA6nWaVkgNfGQXU7KUm2Rd-2000-80.jpg",
+      "off_list": true,
+      "off_list_reason": "General-interest outlet, but a books-craft/industry piece; on-list literary outlets (Lit Hub, Book Riot, Electric Literature) had no fresh AI item in the window."
+    },
+    {
+      "category": "books",
+      "title": "What Technology Trends Should Publishers Explore and Scale?",
+      "url": "https://publishingperspectives.com/2026/08/what-technology-trends-should-publishers-explore-and-scale/",
       "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-08-20T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/aperture-793x284.png",
-      "excerpt": "Erin L. Cox argues that as publishers chase new revenue from licensing works to train LLMs, microdeals and other complex rights arrangements, opaque royalty reporting stops being tolerable. Real-time visibility into sales and payment data becomes the precondition for author trust in AI licensing."
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101027-spotify-adds-more-ai-powered-discovery-tools-for-audiobooks.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-08-11T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Spotify is testing three AI-driven audiobook discovery features: a prompt-based playlist generator, natural-language search that answers questions about a book's content across formats, and improved series tracking. It reframes book discovery as a conversational interface rather than a browse-and-filter catalog."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/proudly-human-founder-warns-ai-offers-no-economic-benefits-for-creative-industries",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-08-20T00:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "Dr Alan Finkel, Australia's former chief scientist and founder of Proudly Human, warns that AI delivers \"no economic benefits for the arts or the creative sector\" and pushes for stronger structural protections for creators against AI-generated content."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=I7hskWGurDU",
-      "source": "The Self-Publishing with Dale Podcast",
-      "category": "books",
-      "published_iso": "2026-08-13T00:00:00Z",
-      "og_image": "https://i.ytimg.com/vi/I7hskWGurDU/maxresdefault.jpg",
-      "excerpt": "Dale L. Roberts' self-publishing news roundup on how the EU AI Act's transparency rules are reaching indie authors worldwide — including what AI-content labelling and disclosure now mean for writers publishing outside Europe."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/08/the-right-content-the-right-partner-the-right-deal-frankfurt-rights/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-08-21T00:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/61902_LitAg-2016.jpg",
-      "excerpt": "Frankfurt Rights explains why AI licensing requests still have to be negotiated one by one — use, scope, remuneration, reporting and liability differ too much for a standardized workflow — and says the platform has hardened security after sustained attacks from AI bots scraping rights listings."
+      "published_iso": "2026-08-20T12:09:57+00:00",
+      "excerpt": "Digital Publishing Report and Publishing Signal are launching an annual Publishing Technology Radar to tell publishers which technologies — AI tooling among them — are worth investing in, experimenting with, or waiting out. The global survey feeding it is open until August 30.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
+      "off_list": false
     }
-  ],
-  "notes": [
-    "Recovery pass 1 of 2. All 5 gated with pipeline/freshness.py against now_iso=2026-08-21T22:00:26Z, section=books (336h) — all FRESH.",
-    "Excluded every URL in pipeline/published_urls.json[books] (151 URLs) and pipeline/selected_books.json (3 picks).",
-    "Outlet spread: Publishing Perspectives 2, Publishers Weekly 1, The Bookseller 1, YouTube/Self-Publishing with Dale 1 — under the 3-per-outlet cap.",
-    "Dropped as STALE after date verification: janefriedman.com 'My Concerns About the Authors Guild Human Authored Certification' (2026-03-17), lithub.com 'Nobel laureate Olga Tokarczuk apparently used AI' (2026-05-19), thebookseller.com 'AI slop versions of books' (2025-08-05), goodereader.com 'Amazon brings back Assistive Reader' (2025-08-19), goodereader.com 'Kindle e-readers get a new reading system in 2026' (2025-10-01).",
-    "Dropped for no AI/design hook: PW 'Random House Suspends Fall Title Due to Plagiarism Concerns' (2026-08-20, plagiarism only, no AI), PW 'Fable Surpasses 5 Million Users' (2026-08-06, outside window).",
-    "teleread.org returned HTTP 403; the-digital-reader.com served unrelated content; wired.com / arstechnica.com / theverge.com are blocked to our search agent this run."
   ]
 }

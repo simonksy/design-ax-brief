@@ -1,61 +1,92 @@
 {
-  "date": "2026-08-28",
   "section": "books",
+  "generated_at": "2026-08-29T00:00:00Z",
+  "selected_by": "curator (user deferred) — re-curation after recovery collection pass",
+  "pool_size": 9,
   "picks": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101136-google-launches-expert-intelligence-adding-interactivity-to-e-books.html",
-      "source": "Publishers Weekly",
+      "url": "https://janefriedman.com/ftc-asked-to-investigate-destruction-of-books/",
+      "source": "Jane Friedman",
+      "headline": "FTC asked to investigate destruction of books",
+      "category": "books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Same-day product launch with real publisher commitments — 100,000+ Play Store titles from PRH, Macmillan and Bloomsbury become queryable sources, which changes how readers and researchers use bought books tomorrow.",
-      "published_iso": "2026-08-27T04:00:00+00:00",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131138-1.JPG",
-      "excerpt": "Expert Intelligence lets readers query e-books bought from the Google Play store, along with other features, and includes more than 100,000 titles, mostly trade nonfiction, from such publishers as Penguin Random House, Macmillan, and Bloomsbury."
+      "published_iso": "2026-08-26T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "More than a dozen groups have asked the Federal Trade Commission to look at the scanning and destruction of physical books for AI model training.",
+      "rationale": "A new regulatory event — a dozen-plus groups formally petitioning the FTC — rather than another retelling of the Amazon VGT3 scanning exposé already published on 08-28."
     },
     {
-      "url": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/",
-      "source": "404 Media",
-      "tool": "Books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "First-hand worker interview from inside Amazon's VGT3 scanning facility — original reporting that puts a physical process behind the training-data debate, and the strongest of four pool items on this story.",
-      "published_iso": "2026-08-26T13:21:51+00:00",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/1784159289498--2-.jpg",
-      "excerpt": "An interview with one of the Amazon employees at Amazon's AI training facility VGT3."
-    },
-    {
-      "url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
-      "source": "404 Media",
+      "url": "https://janefriedman.com/how-claude-watermarking-works-some-accuse-anthropic-of-compliance-theatre/",
+      "source": "Jane Friedman",
+      "headline": "How Claude watermarking works: Some accuse Anthropic of compliance theatre",
+      "category": "books",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Fabricated authors are entering the permanent scholarly record — a concrete new failure mode for anyone who cites, edits, or acquires research-based writing.",
-      "published_iso": "2026-08-27T18:14:29+00:00",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/vas.jpg",
-      "excerpt": "\"The academic record is being quietly haunted\" by researchers with names like Elena Vasquez and Marcus Chen."
+      "published_iso": "2026-08-19T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Commentators find it problematic that the watermark is applied when Claude is used for assistive tasks rather than purely generative ones — a distinction that matters for writers who use AI to edit.",
+      "rationale": "Goes past the bare announcement already covered on 08-27 and explains the mechanism plus the 'compliance theatre' critique — directly actionable for anyone who uses Claude to edit rather than generate."
     },
     {
-      "url": "https://www.thebookseller.com/comment/publishing-is-unfairly-excluding-disabled-authors-who-use-ai",
-      "source": "The Bookseller",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+      "source": "The Decoder",
+      "headline": "AI-generated books are flooding Amazon and tanking sales for human authors",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "published_iso": "2026-08-15T11:00:50+00:00",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/08/AI-generated-books-dilute-Amazon-Kindle-Nano-Banana-Pro.jpg",
+      "excerpt": "A new market study of the Amazon/Kindle catalog finds AI-assisted titles diluting the whole market: between Q1 2023 and Q1 2026 the catalog grew 38.3x while quarterly revenue grew only 8.9x. Books with no detected AI text are 62.9% of the catalog but 72.5% of revenue, while substantially-AI books are 20% of titles and 11.3% of revenue.",
+      "rationale": "Hard numbers on catalog-wide revenue dilution that self-publishers can act on; distinct from the Originality.AI religion-paperback detection study published 08-21."
+    },
+    {
+      "url": "https://www.newsis.com/view/NISX20260818_0003753111",
+      "source": "뉴시스 (Newsis)",
+      "headline": "읽던 웹툰이 말을 걸었다…'보는 만화' 틀 깬 네이버웹툰",
+      "category": "books",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Flips the AI-ban conversation to accessibility — blanket no-AI submission policies are quietly gatekeeping disabled authors, a policy angle absent from this section's last five days.",
-      "published_iso": "2026-08-21T07:45:00+00:00",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/shutterstock_2546866483.jpg",
-      "excerpt": "Blanket bans on AI use are unfairly excluding disabled authors using the technology responsibly, argues David James."
+      "published_iso": "2026-08-20T06:00:00+09:00",
+      "og_image": "https://img1.newsis.com/2026/08/18/NISI20260818_0002215154_web.jpg",
+      "excerpt": "네이버웹툰이 원작자 승인 IP를 기반으로 독자가 웹툰 주인공과 직접 대화하는 AI 스토리챗 '바이어스(byUs)'와 AI 숏폼 제작 서비스 '컷츠메이크'를 전개하며 웹툰 소비 방식 자체를 바꾸고 있다. 휴재 중이던 '이직로그'는 AI 서비스 적용 후 일주일 만에 조회수가 67% 증가했다.",
+      "rationale": "The only shipped-product story in the pool — creator-approved IP turned into interactive AI story chat with a measured 67% view lift, and the only Korean-market angle in five days of books history."
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://theweek.com/culture-life/books/when-bots-write-books-ai-publishing-industry",
+      "source": "The Week",
+      "headline": "When bots write books",
+      "category": "books",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A publisher stating its own AI-disclosure practice in public, with fresh evidence on how poorly AI detectors actually perform — a usable template for editorial policy.",
-      "published_iso": "2026-08-27T09:30:55+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1448631861.jpg",
-      "excerpt": "Some thoughts on the reader response the Scholarly Kitchen has seen regarding AI use by authors, a recent Nature News article on the efficacy of AI detection tools, and why it's important to keep experimenting to figure out what's ethically acceptable."
+      "published_iso": "2026-08-17T20:05:10Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dA6nWaVkgNfGQXU7KUm2Rd-2000-80.jpg",
+      "excerpt": "A survey of how generative AI is being folded into book production — from drafting to the flood of machine-written titles reaching retail — and what that shift means for human authors, editors and the shape of the publishing pipeline.",
+      "rationale": "A step-back map of where AI now sits in the production pipeline, giving the week's individual scanning/watermarking/slop stories a single frame; no equivalent overview in the last five days."
     }
-  ]
+  ],
+  "dropped": [
+    {
+      "url": "https://goodereader.com/blog/amazon-news/ai-companies-are-buying-hardcover-books-and-destroying-them",
+      "reason": "content duplicate of published card books-amazon-vgt3-scanning (404 Media, 2026-08-28) — same 404 Media investigation into books bought, scanned and pulped for AI training"
+    },
+    {
+      "url": "https://janefriedman.com/amazon-is-buying-and-scanning-books-to-train-ai/",
+      "reason": "content duplicate of published card books-amazon-vgt3-scanning (404 Media, 2026-08-28) — commentary on the same Amazon VGT3 scanning story; also a third janefriedman.com item, which would breach the <=2-per-outlet guard"
+    },
+    {
+      "url": "https://selfpublishingadvice.org/anthropic-adds-watermarks/",
+      "reason": "content duplicate of published cards books-uncanny-valley-detection (Book Riot, 2026-08-27) and books-eu-ai-transparency-indie (ALLi, 2026-08-26), both of which already reported Anthropic's watermarking announcement; also a within-pool duplicate of the stronger Jane Friedman analysis"
+    },
+    {
+      "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
+      "reason": "content duplicate of published card books-spotify-audiobook-ai (Publishers Weekly, 2026-08-25) — same three Spotify audiobook AI features"
+    }
+  ],
+  "notes": "Re-curation against the regenerated 9-item pool. Dedup ran against sections.books history: today 2026-08-28 (google-expert-intelligence, amazon-vgt3-scanning, ai-ghost-authors, ai-ban-disabled-authors, scholarly-kitchen-ai-use) plus days 08-21, 08-22, 08-25, 08-26, 08-27. Four items dropped as content duplicates; the three recovery candidates (The Decoder Kindle catalog study, Newsis/Naver Webtoon byUs, The Week) all survived content-level dedup and backfilled the section from 2 picks to the full 5. Note: the Publishing Perspectives Publishing Technology Radar item never reached this pool — it is already published as books-publishing-technology-radar on 2026-08-26, so the upstream URL dedup correctly removed it. Diversity guard satisfied: 4 distinct outlets, janefriedman.com at the 2-card cap. All five picks carry distinct accents from sources.json palette. No padding."
 }

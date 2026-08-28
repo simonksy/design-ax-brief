@@ -1,33 +1,32 @@
 {
-  "date": "2026-08-28",
-  "section": "movies",
   "media": [
     {
-      "id": "movies-cocomelon-ai",
+      "id": "movies-eddie-ai-credits",
       "type": "image",
-      "src": "pipeline/media/movies-cocomelon-ai.png"
+      "src": "pipeline/media/movies-eddie-ai-credits.jpg"
     },
     {
-      "id": "movies-media-composer-2026-8",
-      "type": "image",
-      "src": "pipeline/media/movies-media-composer-2026-8.jpg"
-    },
-    {
-      "id": "movies-wonka-gene-wilder",
+      "id": "movies-slapshot-comfy-nodes",
       "type": "video",
-      "src": "pipeline/media/movies-wonka-gene-wilder.mp4",
-      "poster": "pipeline/media/movies-wonka-gene-wilder.jpg"
+      "src": "pipeline/media/movies-slapshot-comfy-nodes.mp4",
+      "poster": "pipeline/media/movies-slapshot-comfy-nodes.jpg"
     },
     {
-      "id": "movies-ai-short-drama",
+      "id": "movies-usc-etc-beeble",
       "type": "image",
-      "src": "pipeline/media/movies-ai-short-drama.jpg"
+      "src": "pipeline/media/movies-usc-etc-beeble.jpg"
     },
     {
-      "id": "movies-scantic-3dgs",
+      "id": "movies-astro-burn-microseries",
       "type": "video",
-      "src": "pipeline/media/movies-scantic-3dgs.mp4",
-      "poster": "pipeline/media/movies-scantic-3dgs.jpg"
+      "src": "pipeline/media/movies-astro-burn-microseries.mp4",
+      "poster": "pipeline/media/movies-astro-burn-microseries.jpg"
+    },
+    {
+      "id": "movies-de-aging-uncanny",
+      "type": "video",
+      "src": "pipeline/media/movies-de-aging-uncanny.mp4",
+      "poster": "pipeline/media/movies-de-aging-uncanny.jpg"
     }
   ]
 }

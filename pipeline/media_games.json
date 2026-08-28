@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-28",
-  "section": "games",
   "media": [
     {
-      "id": "games-meta-xr-operator",
+      "id": "games-gta6-npc-team",
+      "type": "image",
+      "src": "pipeline/media/games-gta6-npc-team.jpg"
+    },
+    {
+      "id": "games-tripo-topology",
       "type": "video",
-      "src": "pipeline/media/games-meta-xr-operator.mp4",
-      "poster": "pipeline/media/games-meta-xr-operator.jpg"
+      "src": "pipeline/media/games-tripo-topology.mp4",
+      "poster": "pipeline/media/games-tripo-topology.jpg"
     },
     {
-      "id": "games-side-modlai-qa",
-      "type": "image",
-      "src": "pipeline/media/games-side-modlai-qa.jpg"
+      "id": "games-dlss5-leak",
+      "type": "video",
+      "src": "pipeline/media/games-dlss5-leak.mp4",
+      "poster": "pipeline/media/games-dlss5-leak.jpg"
     },
     {
-      "id": "games-tencent-motus",
-      "type": "image",
-      "src": "pipeline/media/games-tencent-motus.jpg"
+      "id": "games-saber-craft",
+      "type": "video",
+      "src": "pipeline/media/games-saber-craft.mp4",
+      "poster": "pipeline/media/games-saber-craft.jpg"
     },
     {
-      "id": "games-gamescom-ai-disclosure",
+      "id": "games-id-genai",
       "type": "image",
-      "src": "pipeline/media/games-gamescom-ai-disclosure.jpg"
-    },
-    {
-      "id": "games-gta6-no-genai",
-      "type": "image",
-      "src": "pipeline/media/games-gta6-no-genai.jpg"
+      "src": "pipeline/media/games-id-genai.jpg"
     }
   ]
 }

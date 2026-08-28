@@ -1,16 +1,17 @@
 {
-  "date": "2026-08-28",
   "section": "movies",
+  "generated_at": "2026-08-29T00:00:00Z",
+  "written_by": "ax-writer",
   "cards": [
     {
-      "id": "movies-cocomelon-ai",
+      "id": "movies-eddie-ai-credits",
       "eyebrow": "AI NEWS",
-      "headline": "코코멜론 만드는 Moonbug,\n아티스트에게 AI 실험을 주문하다",
-      "mini_headline": "코코멜론 제작사도 AI로",
-      "body": "코코멜론 제작사 Moonbug가 AI 도입을 알리며 사람이 늘 개입한다고 밝혔다.",
+      "headline": "Eddie AI, 구독을 접고\n클로드·챗GPT 안에서 편집",
+      "body": "구독을 걷어내고 크레딧으로 받는다. 도구 100여 개를 MCP로 열어 챗봇에서 러프컷을 뽑는다.",
+      "mini_headline": "Eddie AI, 챗봇 편집",
       "tool": "Movies",
-      "source": "404 Media",
-      "url": "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
+      "source": "CineD",
+      "url": "https://www.cined.com/eddie-ai-overhauled-pay-as-you-go-pricing-editing-from-claude-and-chatgpt-and-an-iphone-app/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -18,115 +19,127 @@
         "blocks": [
           {
             "t": "p",
-            "x": "코코멜론, 리틀 베이비 범, 블리피, 미아스 매직 플레이그라운드를 만드는 어린이 콘텐츠 스튜디오 Moonbug Entertainment가 사내 애니메이터들에게 작품을 만들 때 AI를 써 보라고 요청했다. 404 Media가 확인한 내용이다."
+            "x": "Eddie AI가 v3 이후 가장 넓게 손을 봤다. 제일 큰 변화는 기능이 아니다. 구독이 없어졌다. 이 어시스턴트 에디터는 쓴 만큼 내는 크레딧으로 돌아가고, MCP 서버로 도구 전체를 클로드와 챗GPT에 열어두며, 네이티브 아이폰 앱으로 주머니에도 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "가격과 접근, 결과물이 한꺼번에 바뀌었다. 회사는 새 크레딧 모델에서 비용이 대체로 50%가량 싸졌다고 말한다. MCP 도구는 100개가량. 트랜스크립트와 사운드바이트, 어셈블리, b-roll, 자막, 음악, 보이스오버, 멀티캠 앵글, NLE 내보내기를 덮는다. 채팅창 하나로 편집을 지휘한다. 회사는 이 전부를 암스테르담 IBC 2026에서 선보인다."
           },
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-27-at-07.55.58@2x.png",
-            "cap": "Moonbug Entertainment"
+            "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI-2-900x506.jpeg",
+            "cap": "출처: Eddie AI"
           },
           {
             "t": "p",
-            "x": "404 Media가 입수한 생성형 AI 정책과 'Studio AI Bible'은 회사가 아직 실험 초기 단계임을 보여 준다. AI를 더 깊이 쓸 때 따라붙는 법적·저작권 문제 때문에 가드레일부터 여러 겹 세워 뒀다."
+            "x": "구조를 바꾼 건 가격이다. 예전에는 구독 등급과 크레딧 옵션이 나란히 있었지만 그 구조는 사라졌다. 가격 페이지에는 크레딧 팩만 남았다. 1,000 크레딧 10달러, 5,000 크레딧 45달러, 15,000 크레딧 120달러, 50,000 크레딧 350달러, 그 위로는 별도 협의. 크레딧은 만료되지 않고 팩 크기와 상관없이 모든 기능을 쓴다. 자동 충전은 선택이고 기본값은 꺼짐이다."
           },
           {
             "t": "p",
-            "x": "\"AI를 쓸 때는 사람을 고리 안에 두라. AI는 아티스트를 돕는 도구이지 아티스트가 아니다.\" 지침의 한 대목이다. \"저작권은 사람이 만든 것에만 생긴다. 그래서 최종 결과물에는 사람의 창작이 실질적으로 들어가야 한다. 핵심 IP, 그러니까 주요 캐릭터와 시그니처 세계관, 중요한 배경은 사람의 창작 의도를 반영해야 한다.\""
+            "x": "크레딧은 시스템이 하는 모든 일에 매겨진다. 푸티지 임포트는 소스 1시간당 500 크레딧 정도, 15분 단위로 청구된다. 편집 실행은 작업량에 따라 값이 달라지고 큰 작업은 돌리기 전에 예상 비용을 보여준다. 새 계정은 1,000 크레딧을 무료로 들고 시작하니 작은 프로젝트 하나는 한 푼도 안 쓰고 임포트에서 익스포트까지 간다."
           },
           {
             "t": "p",
-            "x": "Moonbug 작품은 유튜브에서 수억 명의 구독자를 거느린다. 코코멜론 스핀오프는 넷플릭스에서 방영되고, 유니버설과 코코멜론 영화가 준비 중이며, 시리즈는 내년 디즈니+로 옮겨 간다."
+            "x": "두 번째 축은 유통이다. Eddie AI가 MCP 서버로 돌면서, 편집자가 이미 띄워둔 클로드나 챗GPT가 편집을 직접 몬다. 채팅 화면에 원하는 컷을 말로 풀어놓으면 클라우드에 올려둔 푸티지 위에서 그대로 실행된다."
           },
           {
             "t": "p",
-            "x": "대변인은 404 Media에 \"현재 생성형 AI는 우리 콘텐츠 에피소드에 쓰이지 않는다\"고 답했다. 새 캐릭터와 핵심 스토리라인, 노래 가사 같은 주요 창작 요소를 AI가 처음부터 만드는 일은 지침이 금지한다. 모든 결과물은 프레임 단위 육안 검수를 포함한 사람 주도의 품질 관리를 거친다고 했다."
+            "x": "챗GPT 안에서는 결과가 링크가 아니라 실제 프레임으로 만든 재생 카드로 돌아온다. 언어 모델은 미디어를 건드리지 않는다. 계획하고 지시할 뿐, 푸티지와 타임코드와 타임라인은 Eddie AI가 쥐고 있다. Premiere Pro나 DaVinci Resolve, Final Cut Pro로 마무리하는 편집자에게 내보내는 길은 그대로다. 타임라인을 넘겨받고, 마감은 사람이 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI-app-900x506.jpeg",
+            "cap": "Eddie AI 앱. 출처: Eddie AI"
           },
           {
             "t": "p",
-            "x": "지침은 아이디어 발상과 각본, 스토리보드, 디자인, 애니메이션에 AI를 허용하되 단계마다 조건을 달았다. 법무 확인 없이 성우나 배우의 연기를 손대는 일은 안 된다. 사람이 쓴 초고를 다듬는 데는 쓸 수 있지만 대필은 금지다. 캐릭터 아크, 핵심 반전, 노래 가사처럼 서사의 '영혼'에 해당하는 부분은 사람 몫으로 남겼다. 100% AI가 만든 디자인을 그대로 제작 파이프라인에 넣는 것도 막혔다."
+            "x": "아이폰 앱은 App Store에서 무료로 받는다. iOS 15.1 이상이면 된다. 범위는 일부러 좁혔다. 편집을 프롬프트로 걸고, 완성 컷을 보고, MP4를 저장하거나 계정 없이 열리는 링크를 공유한다. 회사는 이게 모바일 편집 도구가 아니라고 못 박는다. 무거운 미디어는 클라우드에 남고 앱은 리뷰와 지시를 맡는다."
           },
           {
             "t": "p",
-            "x": "세부는 꽤 깐깐하다. 배경의 나무나 가구 같은 '제네릭' 디자인과 텍스처, 캐릭터 의상 교체, 사람이 그린 2D 캐릭터를 3D 턴어라운드로 만드는 작업에는 AI를 쓸 수 있다. 새 캐릭터는 원칙적으로 사람이 만든다. 클럽하우스처럼 시리즈에서 비중 있게 다뤄질 고유한 소품도 마찬가지다."
+            "x": "협업 층도 다시 짰다. 프로젝트는 웹과 데스크톱, 폰 사이에서 실시간으로 동기화된다. 워크스페이스는 팀 멤버십과 크레딧 풀을 함께 쓰고, 코멘트는 정확한 프레임에 꽂혀 편집자에게 곧장 간다. Slack과 Microsoft Teams 연동, 엔터프라이즈 SSO도 들어왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI-4-900x506.jpeg",
+            "cap": "출처: Eddie AI"
           },
           {
             "t": "p",
-            "x": "도구는 하나하나 법무 승인을 받아야 한다. 직원들은 Moonbug IP가 아닌 테스트 에셋으로 먼저 시험한다. 프롬프트를 포함한 모든 AI 사용 기록은 남겨 보관하고, AI가 만든 에셋은 사람이 만든 것과 다른 폴더에 따로 담긴다. 회사는 이 방식을 '출처와 격리(provenance and isolation)'라 부른다."
-          },
-          {
-            "t": "p",
-            "x": "프롬프트 가이드는 사람이 그린 스케치나 Moonbug가 가진 IP를 구조 참조로 올린 뒤 AI로 질감과 조명을 더하라고 말한다. 브레인스토밍과 리서치가 아닌 텍스트-투-이미지 프롬프트는 금지다. \"픽사 스타일로\", \"지브리 스타일로\" 같은 스타일 모방도 막았다. 대신 '손으로 칠한 수채화 느낌' 같은 서술적 표현을 쓰라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "지난 5월에는 코코멜론 실사 스핀오프에서 일하던 IATSE 소속 노동자들이 임금과 복지를 문제 삼아 파업했다."
-          },
-          {
-            "t": "p",
-            "x": "\"우리는 AI를 재능 있는 창작자가 할 수 있는 일을 넓혀 주는 도구로 본다. 이야기를 만드는 사람을 대신할 물건이 아니다.\" 대변인의 말이다."
+            "x": "촬영이 담지 못한 소재도 만들어낸다. 오디오는 오리지널 음악과 고른 목소리의 보이스오버, 기존 편집에 얹는 더빙 트랙이고 믹스는 자동이다. 그림 쪽은 원하는 샷을 말로 설명해 스톡에서 찾아 타임라인에 얹거나 b-roll을 아예 생성한다. 전부 선택이고 전부 과금된다. Eddie AI는 여기서도 같은 말을 반복한다. 당신의 푸티지를 지어내지는 않는다."
           }
         ]
       }
     },
     {
-      "id": "movies-media-composer-2026-8",
+      "id": "movies-slapshot-comfy-nodes",
       "eyebrow": "AI NEWS",
-      "headline": "Media Composer 2026.8,\nAI 도구와 Ready to Edit",
-      "mini_headline": "Avid의 새 AI 편집 도구",
-      "body": "IBC2026을 앞두고 공유 프로젝트 옵션과 새 AI 편집 도구가 함께 실렸다.",
+      "headline": "로토·트래킹·뎁스가 ComfyUI로\n프레임당 0.25달러",
+      "body": "슬랩샷의 로토·트래킹·뎁스 도구가 ComfyUI 노드가 됐다. 값은 프레임당 0.25달러.",
+      "mini_headline": "로토·트래킹이 노드로",
       "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/media-composer-2026-8-features",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-23-august-2026/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "Avid Media Composer 2026.8은 이번 버전부터 서드파티 빈 잠금이 사실상 프리미엄 등급으로 올라간다는 발표 탓에 이미 한바탕 소란을 겪었다. 오늘 전체 기능이 공개되고 보니 이번 릴리스에는 그 얘기 말고도 들어 있는 게 더 있다."
+            "x": "AI 기반 VFX 플랫폼 슬랩샷의 핵심 기능, 그러니까 자동 로토스코핑과 카메라 트래킹 같은 것들이 AI 파이프라인을 짜는 환경 Comfy 안에서 노드로 쓰인다."
           },
           {
             "t": "img",
-            "src": "https://www.redsharknews.com/hubfs/Avid%20ready%20to%20edit.jpg",
-            "cap": "Avid Ready to Edit"
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_SlapshotComfyNodes_f-960x480.jpg",
+            "cap": "슬랩샷 Comfy 노드. 출처: CG Channel"
           },
           {
             "t": "p",
-            "x": "출시는 9월 1일. Avid는 2026.8이 Shared Projects의 협업과 스토리지 선택지를 넓힌다고 밝혔다. Avid NEXIS는 이제 Standard 등급부터 Shared Projects에서 쓸 수 있다. 앞서 다룬 대로 Enterprise 등급에는 검증된 서드파티 스토리지 지원이 붙고, 그 아래 등급에서는 빠진다."
+            "x": "CG Channel은 매주 나오는 굵직한 CG 소프트웨어 업데이트를 다루려 하지만, 자잘한 갱신이나 쓸 만한 플러그인은 놓치고 지나갈 때가 있다. 그냥 흘려보내지 않으려고 지난주 단독 기사로 못 다룬 게임·VFX·모션그래픽 도구 소식을 모았다. 3D 가우시안 스플래팅 앱 Postshot, 생성 모델링 도구 Meshy, 그리고 슬랩샷과 Topaz Labs의 AI VFX 도구가 아래에 담겼다."
           },
           {
             "t": "p",
-            "x": "무료 입문 등급인 Media Composer First도 학생과 초보 편집자를 위해 확장된다. 세부 내용은 아직 나오지 않았다."
+            "x": "Hyperion 2.5. Topaz Labs가 SDR을 HDR로 바꾸는 AI 모델을 손봤다. 8비트 푸티지를 10비트나 16비트로 옮기는 모델이다. 색 처리와 톤 분리, 하이라이트 디테일, 전반적인 선명도가 나아졌고 색·휘도 범위도 넓어졌다. Hyperion은 데스크톱 앱 Topaz Video와 웹 앱 Astra에서 쓰는데, 2.5는 지금까지 Astra에만 올라갔다. Astra 구독은 월 39달러 또는 연 328달러부터다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_Meshy7-960x480.jpg",
+            "cap": "Meshy 7. 출처: CG Channel"
           },
           {
             "t": "p",
-            "x": "Ready to Edit는 편집에 들어가기 전 콘텐츠 준비를 자동화하는 새 에이전틱 기능이다. Media Composer와 Avid Content Core 사이 연결도 촘촘해진다. Content Core 패널이 생겨 Media Composer를 벗어나지 않고 에셋을 가져오고 게시할 수 있다."
+            "x": "Meshy 7. 소스 이미지로 3D 모델을 만드는 생성 AI 모델이 7세대로 올라가면서 웹 앱이 뽑는 모델 품질이 좋아졌다. 전체 비례, 부위 간 상대 위치, 미세한 표면 디테일 보존이 나아진 대목이다. 상업용 구독은 월 20달러, 스튜디오는 월 70달러다. 무료 플랜은 크리에이티브 커먼즈 라이선스로 월 10개까지 생성한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_Postshot1169-960x480.jpg",
+            "cap": "Postshot 1.1.69. 출처: CG Channel"
           },
           {
             "t": "p",
-            "x": "Standard, Ultimate, Enterprise 등급에 공통으로 들어가는 업데이트도 있다. PhraseFindAI Multicam Auto Cut은 화자를 기준으로 멀티캠 앵글을 고르고 말이 끊기는 지점에 컷을 놓는다. Transcript Tools에는 트랜스크립트 편집 되돌리기와 세그먼트 분할, 뷰어에서의 연속 재생이 더해졌다. OpenTimelineIO 2.0 어댑터는 서드파티 도구와 오갈 때의 정확도를 높였다. 문서와 학습 자료로 이어지는 What's New 창도 생겼다."
+            "x": "Postshot 1.1.69. 실사 스틸이나 영상으로 3D 가우시안 스플랫을 만드는 스캔 앱이 상용 출시 1년 만에 워크플로를 정비했다. HTML 내보내기 옵션, SPZ 내보내기 품질 옵션, SPZ 4 지원, 카메라와 포인트에 GPS 위치 메타데이터를 붙이는 옵션, 색 속성 없는 포인트 클라우드 임포트가 들어왔다. 비상업용은 무료, 인디 구독은 월 26유로 또는 연 204유로, 스튜디오는 월 59유로다. Windows 10 이상만 지원한다."
           },
           {
             "t": "p",
-            "x": "이 밖에 Bin Column Search, 서브클립의 오디오 트랙 교체, Titler+ 키프레임 보정, 자동화·연동용 API 확장이 추가됐다."
+            "x": "새 슬랩샷 Comfy 노드. 소스 푸티지에서 VFX 에셋을 뽑는 슬랩샷의 로토스코핑, 카메라 트래킹, 모션 벡터, 뎁스 맵 생성 도구가 생성 AI 워크플로를 짜는 Comfy 인터페이스 안에서 노드로 돌아간다. 무료 슬랩샷 플랜은 2K 소스로 제한되고 상업용 구독은 월 9달러부터다. 새 Comfy 노드는 처리한 영상 프레임당 0.25달러를 매긴다. Comfy Desktop 자체는 무료로 받고 Windows와 Linux, macOS에서 돌아간다."
           },
           {
-            "t": "p",
-            "x": "IBC에서는 브라우저 기반 Media Composer 워크플로의 첫 프리뷰도 나온다. Avid Content Core의 웹 편집이 출발점이다. Avid 편집자에게는 꽤 큰 변화가 될 수 있다. 새 Google Gemini 패널로 동작하는 임베디드 AI 프리뷰도 함께 공개된다."
+            "t": "video",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_SlapshotComfyUINodes.mp4"
           }
         ]
       }
     },
     {
-      "id": "movies-wonka-gene-wilder",
+      "id": "movies-usc-etc-beeble",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 되살린 진 와일더의 목소리가\n넷플릭스 예능을 진행한다",
-      "mini_headline": "진 와일더 목소리 진행",
-      "body": "넷플릭스 경연 예능 예고편에서 AI로 복원한 진 와일더의 목소리가 진행을 맡는다.",
+      "headline": "USC 영화 수업이 쓰는\nAI 재조명·장면 재구성 도구",
+      "body": "비블의 AI 재조명·장면 재구성 도구가 USC ETC의 영화 제작 수업 커리큘럼에 들어갔다.",
+      "mini_headline": "USC 수업에 든 비블",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-wonka-reality-show-gene-wilder-1236682001/",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/filmmaking-research-and-production-courses-at-etc-use-beeble/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -134,162 +147,192 @@
         "blocks": [
           {
             "t": "p",
-            "x": "넷플릭스가 <윌리 웡카와 초콜릿 공장>을 소재로 삼은 기묘한 리얼리티 경연 프로그램의 공식 예고편을 공개했다."
+            "x": "서던캘리포니아대학교 엔터테인먼트 테크놀로지 센터가 비블의 AI 제작 도구를 영화 교육 안으로 들였다."
+          },
+          {
+            "t": "p",
+            "x": "이 결합으로 ETC 학생들은 시각효과와 버추얼 프로덕션, 시네마틱 스토리텔링에서 AI 워크플로를 직접 만져본다."
           },
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Wonka.png?crop=0px%2C95px%2C2772px%2C1551px&resize=1440%2C810",
-            "cap": "넷플릭스 <웡카의 골든 티켓>"
+            "src": "https://www.provideocoalition.com/wp-content/uploads/beebleetc001.jpg",
+            "cap": "출처: ProVideo Coalition"
           },
           {
             "t": "p",
-            "x": "제목은 <웡카의 골든 티켓(Wonka's The Golden Ticket)>. 9부작 비대본 시리즈로, 참가자들이 알록달록한 '공장'을 돌아다니며 로알드 달의 원작 소설에서 따온 과제들을 겨룬다. 넷플릭스는 2021년 로알드 달 스토리 컴퍼니를 인수했다."
-          },
-          {
-            "t": "video",
-            "yt": "kGVuOT6h11c"
+            "x": "ETC는 USC 영화예술대학 안에 있는 싱크탱크다. 주요 스튜디오와 기술 기업, 영화인과 함께 새 기술을 검증하고 앞으로의 제작 관행을 다듬는 일을 해왔다. 이번에 비블을 영화 제작 연구·실습 수업에 넣었다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "예고편 속 참가자들은 온갖 소동을 즐겁게 견딘다. 그들을 이끄는 것은 고인이 된 배우 진 와일더의 목소리다. 1971년 영화에서 윌리 웡카를 연기한 그 배우다. 넷플릭스와 제작사 유레카 프로덕션은 와일더 유족의 허락을 받아 AI 기업 일레븐랩스와 함께 목소리를 되살렸다. 마음이 편치만은 않은 선택이고, 누군가에게는 무례하게, 심하면 섬뜩하게 느껴질 수도 있다."
+            "x": "비블은 여러 프로그램에 걸쳐 자리를 잡았다. Habib Zargarpour가 이끄는 '영화 특수효과 입문', Fred Grinstein이 이끄는 'AI로 연출하기', 그리고 아마존이 지원하는 연구와 박사 과정을 포함한 USC 미디어아트+프랙티스 프로그램의 실험 영화 작업이 여기 든다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.provideocoalition.com/wp-content/uploads/beebleetc002.jpg",
+            "cap": "출처: ProVideo Coalition"
           },
           {
             "t": "p",
-            "x": "공식 소개는 이렇다. \"골든 티켓을 손에 넣은 행운의 열두 명이 각자 고른 파트너와 함께 웡카의 초콜릿 공장 문을 지나 순수한 상상과 달콤한 장난, 예상 못 한 도전의 세계로 들어선다. 안으로 들어선 참가자들은 체력과 지력, 도덕성을 시험하도록 설계된 웡카의 게임과 시험, 유혹을 헤쳐 나가야 한다. 판돈이 큰 이 사회 실험에서 참가자들은 공장의 경이롭고 종잡을 수 없는 풍경을 지나며 적응하고 전략을 짜고 알 수 없는 것을 견딘다. 혼돈 속에서 살아남을 직관과 회복력, 인성을 증명해야 한다. 마지막에 남는 한 사람만이 웡카가 내건 인생을 바꿀 상을 가져간다.\""
+            "x": "\"시각효과 워크플로는 계속 바뀝니다. 학생들이 자리 잡은 제작 기법과 업계를 흔드는 신기술을 함께 이해하는 게 중요하죠. 비블 같은 도구를 교실에 들이면 값진 실전 경험이 됩니다.\" ETC의 AI·이머전트 미디어 총괄 Erik Weaver의 말이다."
           },
           {
             "t": "p",
-            "x": "목소리 사용에 대해 진 와일더의 아내 캐런 B. 와일더는 유산 관리 측을 대표해 성명을 냈다. \"진이 윌리 웡카에 생명을 불어넣은 지 오십 년이 넘었지만, 나이도 배경도 다른 전 세계 사람들이 여전히 그의 연기에서 기쁨과 웃음과 영감을 얻는다. 진에게는 사람들의 삶에 유머와 경이와 마음을 들여놓는 남다른 재주가 있었고, 그 연결은 세대를 넘어 이어졌다. <웡카의 골든 티켓>이 그가 그 역할에 담았던 온기와 상상력을 기리며 그 마법을 새로운 세대에게 전하고, 수십 년간 아껴 온 팬들에게도 예를 갖추게 되어 기쁘다.\""
+            "x": "\"가장 반가운 결과 하나는 학생들이 예전 같으면 수업 과제 범위를 넘어섰을 아이디어를 실제로 밀고 나가는 모습입니다.\" ETC의 프로듀서 겸 산업 멘토 Tom Thudiyanplackal의 말이다. \"이 정도 규모의 시각효과를 꿈꿀 수는 있었어도 만들어볼 기회는 드물었죠. 이런 도구를 쥐여주면 완전히 새로운 창작의 길이 열립니다.\""
           },
           {
             "t": "p",
-            "x": "되살린 목소리와 함께 1971년 영화에서 움파룸파를 연기한 러스티 고프도 출연한다."
+            "x": "협업은 교실 밖 제작 연구로도 이어진다. Felipe Vargas가 쓰고 연출하고 Roberto Schaefer가 촬영한 'Pathways'가 한 예다. 버추얼 프로덕션과 촬영, AI를 낀 월드빌딩의 새 접근을 파고든다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.provideocoalition.com/wp-content/uploads/beebleetc003.jpg",
+            "cap": "출처: ProVideo Coalition"
           },
           {
             "t": "p",
-            "x": "크리스 컬버너, 폴 프랭클린, 리키 프루스트, 데이비드 티볼스, 앨리슨 홀러웨이, 에머 하킨이 총괄 제작을 맡았다. 공개일은 9월 23일이다."
+            "x": "\"ETC는 교육자와 영화인, 업계를 한자리에 모아 떠오르는 기술을 검증하는 역할을 합니다.\" 비블 CEO Hoon Kim의 말이다. \"우리 도구가 그런 환경에서 쓰이고, 앞으로의 제작 워크플로가 어떻게 굴러갈지에 보탬이 된다는 게 정말 보람 있습니다.\""
           }
         ]
       }
     },
     {
-      "id": "movies-ai-short-drama",
+      "id": "movies-astro-burn-microseries",
       "eyebrow": "AI NEWS",
-      "headline": "전직 애니메이터와 촬영감독이\nAI 숏드라마 시스템을 짓는다",
-      "mini_headline": "숏드라마를 만드는 AI",
-      "body": "애니메이터와 VFX 아티스트들이 대본부터 수정까지 맡는 숏드라마 AI를 만든다.",
+      "headline": "'애스트로 번', 자기 에셋만\n학습한 모델로 만든 세로 시리즈",
+      "body": "생성형 AI를 미심쩍어하던 감독이 자기 에셋만 학습시킨 모델로 세로형 숏폼 열 편을 뽑아냈다.",
+      "mini_headline": "자기 에셋만 학습한 AI",
       "tool": "Movies",
-      "source": "Sixth Tone",
-      "url": "https://www.sixthtone.com/news/1018935",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/haz-dululls-astro-burn-game-comes-life-ai-assisted-micro-series",
       "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "생성형 AI에 회의적이라고 스스로 밝혀온 게임 개발자이자 'RIFT' 감독이 Nura Studios와 손잡고 자신의 레트로 게임을 하루 한 편씩 나가는 세로형 숏폼 10편으로 풀었다. Showcraft 플랫폼에서, 자기 에셋만 학습시킨 잠긴 모델로 만들었다. TikTok과 YouTube Shorts, Instagram에서 볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "AI를 전혀 쓰지 않고 만든 레트로 픽셀아트 게임 애스트로 번에 AI를 낀 애니메이션 마이크로 시리즈가 붙었다. 1분짜리 세로 에피소드 10편 중 첫 편이 오늘 공개됐고, 열흘 동안 매일 한 편씩 TikTok과 YouTube Shorts, Instagram에 올라간다."
+          },
+          {
+            "t": "p",
+            "x": "게임 개발자이자 감독, 프로듀서인 HaZ Dulull은 애니메이션 장편 RIFT와 Max Beyond를 만들었고 Dune Awakening 같은 게임의 시네마틱도 맡았다. 이번엔 Nura Studios와 함께 게임 속 캐릭터와 세계를 세로형 숏폼으로 다시 짰다. 제작은 Nura가 지난 4월 내놓은 AI 지원 콘텐츠 제작 플랫폼 Showcraft에서 이뤄졌다. 이달 초 같은 플랫폼에서 선보인 스톱모션풍 시리즈 Rainbow Hollow에 이은 작업이다."
+          },
+          {
+            "t": "p",
+            "x": "Dulull은 생성형 AI에 회의적인 채로 이 프로젝트에 들어왔다. 게임의 정체성을 지키는 게 그의 조건이었다. \"Showcraft는 저처럼 자기 IP를 몹시 아끼는 프로듀서와 창작자를 위해 설계됐습니다.\" Dulull의 말이다. \"제 에셋만으로 학습한 잠긴 모델을 완전히 통제하고 싶었어요. ASTROBURN의 비주얼 정체성이 끝까지 유지되도록요.\""
+          },
+          {
+            "t": "p",
+            "x": "Dulull이 쇼러너 겸 프로듀서를 맡고, Nura Studios의 작가 겸 감독 Abe Scheuermann이 에피소드마다 대본과 애니메이션, 사운드 디자인, 목소리 녹음, 음악, 클린업, 최종 납품까지 근무일 기준 일주일쯤에 끝냈다."
+          },
+          {
+            "t": "p",
+            "x": "티저는 이렇다."
+          },
+          {
+            "t": "video",
+            "yt": "-T-WcVolzzE"
+          },
+          {
+            "t": "p",
+            "x": "연기가 들어가는 자리에는 전부 사람을 뒀다. Astro는 Graziela Larroca, AL은 Elvis Deane이 목소리를 맡았고 Brian Ulrich가 조연 여럿을 돌아가며 연기했다. 음악은 사람 작곡가가 만들어 Epidemic Sound로 라이선스하고 화면에 맞춰 편집했다."
+          },
+          {
+            "t": "p",
+            "x": "\"저는 사람 성우를 훨씬 선호합니다. AI가 만든 목소리에는 거의 없는 뉘앙스를 연기에 얹거든요.\" Scheuermann의 말이다. \"음악도 같은 생각입니다.\" Dulull은 여기에 덧붙였다. \"AI가 당신의 이야기를 대신 해주지는 않습니다. 그건 당신 몫이에요. 이게 통한 건 기술이 분명한 창작 비전을 받쳐줬기 때문이지, 아무 아이디어나 프롬프트로 던져 아무 샷이나 뽑아서가 아닙니다.\""
+          },
+          {
+            "t": "p",
+            "x": "\"마이크로 시리즈는 인디 개발자가 플레이어들이 이미 시간을 보내는 곳에서 게임을 알리는 힘센 방법입니다.\" Nura Studios의 총괄 프로듀서 겸 콘텐츠 부문 부사장 Isabelle Riva의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "애스트로 번은 Dulull의 게임 스튜디오 Beyond the Pixels가 개발하고 Pixel Doors가 퍼블리싱한 '큐트엠업'이다. 지난 7월 Steam과 GOG를 통해 PC와 Mac에 나왔고 모바일·콘솔 이식은 작업 중이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-de-aging-uncanny",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 디에이징이 여전히\n언캐니 밸리에 걸리는 이유",
+      "body": "특수분장부터 ML 얼굴 파이프라인까지 훑어, 값비싼 디에이징이 어디서 무너지는지 짚는다.",
+      "mini_headline": "디에이징의 언캐니 밸리",
+      "tool": "Movies",
+      "source": "CineD",
+      "url": "https://www.cined.com/digital-de-aging-and-the-uncanny-valley-problem/",
+      "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "중국 동부 장쑤성 우시. 천하오의 낡은 데스크톱에는 VFX 업계 표준 도구인 Nuke가 아직 열 가지 넘는 버전으로 남아 있다. 십 년 가까이 그는 새 버전마다 익혔고, Autodesk Maya와 Unreal Engine을 배우려 영어까지 독학했다."
+            "x": "몇 해에 한 번씩 블록버스터가 대형 스타의 얼굴을 디지털로 늙히거나 젊게 만들고, 그때마다 관객은 그게 먹혔는지를 두고 다툰다. 70세 배우의 얼굴을 30세 몸에 프레임 단위로 얹는 이 기술은 현대 영화에서 가장 까다롭게 뜯어보는 대상이다. 어긋나면 아주 특정한 방식으로 불편해진다."
           },
           {
             "t": "img",
-            "src": "https://image5.sixthtone.com/image/5/99/695.jpg",
-            "cap": "우시의 AI 영상 스튜디오 치뎬 인터랙티브"
+            "src": "https://www.cined.com/content/uploads/2026/08/digital_deaging-insta_meme_tom_cruise-900x876.jpg",
+            "cap": "출처: Instagram"
           },
           {
             "t": "p",
-            "x": "지금 그는 우시의 신생 AI 영상 스튜디오 치뎬 인터랙티브(Qidian Interactive)의 테크니컬 디렉터다. 그가 만드는 플랫폼은 그렇게 쌓은 전문성을 프롬프트 몇 줄로 압축한다."
+            "x": "요즘 도는 인스타그램 밈에서 내가 좋아하는 단어는 \"make-up\"이다. 픽셀이 아니라 특수분장. 전담 VFX 부서가 생기기 한참 전, 배우를 늙히는 건 분장 의자의 몫이었다. 기준점은 1970년 Arthur Penn의 \"Little Big Man\"에서 Dick Smith가 Dustin Hoffman에게 한 작업이다. 서른셋의 Hoffman은 하루 몇 시간씩 라텍스 보철을 쓰고 121세의 Jack Crabb을 연기했다. 지금 봐도 설득력 있다. 전부 만질 수 있고 카메라 앞에서 진짜로 보이도록 다듬어진 덕이다."
           },
           {
             "t": "p",
-            "x": "지난해쯤 AI 영상은 그가 며칠 걸려 만들던 결과물에 견줄 만해졌다. 바이트댄스의 텍스트-투-비디오 모델 Seedance 2.0이 나오면서 스튜디오급 영상을 뽑기가 훨씬 쉬워졌고, 회사는 AI 쪽으로 더 세게 움직였다. 천하오는 자체 모델 개발에 배치됐다."
+            "x": "지난 20년 사이 기술이 밀고 들어왔다. 디지털 노화의 초기 사례로 인상적인 건 \"The Curious Case of Benjamin Button\"이다. Digital Domain은 Brad Pitt의 얼굴 연기로 구동되는 완전 CG 헤드를 만들어 대역 배우 세 명의 몸에 325개가 넘는 샷, 약 52분 분량으로 합성했다. 아카데미 시각효과상을 받았다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/digital_deaging-benjamin_button.jpg",
+            "cap": "David Fincher의 \"The Curious Case of Benjamin Button\"(2008) 스틸"
           },
           {
             "t": "p",
-            "x": "\"저는 AI를 좋아하지 않습니다. 그런데 쓸 수밖에 없었어요.\" 그가 Sixth Tone에 말했다. \"클릭 한 번이 이삼 일 작업보다 나은 결과를 낼 때가 있다는 걸 알고 나니 안 쓸 도리가 없더군요.\""
+            "x": "2016년 \"Rogue One\"은 같은 접근을 더 낯선 데 썼다. Guy Henry가 현장에서 Grand Moff Tarkin을 연기하면 ILM이 샷마다 그의 얼굴을 Peter Cushing의 디지털 복원본으로 갈아 끼웠다. 결과는 어딘가 어긋나 있다. 눈가의 뻣뻣함, 가면처럼 움직이는 피부. 이 느낌에는 이름이 있다."
           },
           {
             "t": "p",
-            "x": "시스템의 이름은 위뎬(Yudian)이다. 4월에 만들기 시작해 한 달쯤 만에 첫 버전이 나왔다. 소셜미디어의 인기 소재를 보고 설정을 제안하고, 대사를 쓰고, 스토리보드를 짜고, 캐릭터와 사물을 3차원 공간에 배치하고, 결말의 클리프행어가 시청자를 붙들 만큼 센지까지 평가한다."
+            "x": "언캐니 밸리다. 1970년 일본 로봇공학자 Masahiro Mori가 내놓은 개념으로, 원래는 영화와 무관했다. 사람에 가까워질수록 호감은 커지지만, 거의 완벽하게 사람 같되 완전히는 아닌 지점에서 호감이 절벽처럼 떨어진다. 그 골짜기가 언캐니 밸리다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/digital_deaging-uncanny_valley_scheme.jpg",
+            "cap": "언캐니 밸리 그래프. 출처: Masahiro Mori의 원 논문, IEEE Robotics & Automation Magazine"
           },
           {
             "t": "p",
-            "x": "한 화면에 뜬 제작 프롬프트는 이렇다. \"45~60초. 배경: 시계 수리점. 바턴이 회중시계를 향해 달려들고, 엘리자가 손목을 비틀어 중앙 기어를 부순다. 동작은 극도로 빠르고 폭발적이어야 하며, 관객에게 숨 돌릴 틈을 주지 않는다.\" 카메라와 렌즈, 광원까지 지정돼 있다."
+            "x": "2019년 넷플릭스 \"The Irishman\"은 이 기술을 장편 길이로, 주연 셋에게, 세 시간 반 가까이 시험한 순간이었다. ILM은 메인 카메라 옆에 적외선 카메라 어레이를 붙인 리그를 짜, 얼굴에 마커를 달지 않고 디테일을 잡았다. Robert De Niro와 Al Pacino, Joe Pesci는 장비 없이 연기했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/08/digital_deaging-ILM_camera_rig.jpg",
+            "cap": "적외선 카메라 두 대를 단 리그. 출처: FX Guide"
           },
           {
             "t": "p",
-            "x": "<유랑지구>의 VFX를 비롯해 이십 년 가까이 영화판에 있던 조명 아티스트 마솬은 치뎬에서 AI로 실사 푸티지를 손본다. 고대 전장 장면에 들어온 현대식 콘크리트를 지우는 식이다. 프레임 단위로 하던 정리가 이삼 일에서 반나절로 줄었다. \"제게 AI는 보조일 뿐입니다. 전통 제작은 통제가 됩니다. AI는 결과물 하나하나가 도박이죠.\""
+            "x": "관객은 갈렸다. 젊어진 얼굴이 76세의 몸 위에 얹히지 않는다는 불만이 컸다. 배우들이 여전히 70대처럼 움직이니 주먹다짐 장면의 젊은 De Niro는 어색했다. 얼마 뒤 \"Shamook\"이라는 VFX 아티스트가 집 컴퓨터에서 흔한 딥페이크 소프트웨어로 자기 버전을 만들었다. 당시 여러 매체는 스튜디오의 수백만 달러짜리 결과보다 낫다고 전했다."
           },
-          {
-            "t": "p",
-            "x": "업계에서는 그 도박을 '카드 뽑기'라 부른다. 쓸 만한 컷이 나올 때까지 생성만 반복하는 '카드 오퍼레이터'를 두는 스튜디오도 있다. 상하이의 한 제작사에서 일하는 26살 황 씨는 같은 컷을 서너 번씩 돌리며 하루를 보낸다. \"한 컷에서 1인용이던 소파가 다음 컷에서 2인용으로 돌아오기도 해요.\""
-          },
-          {
-            "t": "p",
-            "x": "치뎬의 우시 제작 기지는 4월에 문을 열었다. 한 달 만에 직원 50명 넘게 뽑았고 절반 가까이가 신입이다. 6월에는 하루 네다섯 편, 편당 30~44화짜리 숏드라마를 만들었다. 심의까지 통과했지만 3년에 예산 800만~1000만 위안(119만~149만 달러)이 필요해 접어 뒀던 판타지 모험물은, AI로 두 달 만에 약 100만 위안에 끝났다."
-          },
-          {
-            "t": "p",
-            "x": "속도가 붙자 검수가 늘었다. 프로젝트 디렉터 천제는 예전엔 일주일에 20컷을 봤지만 지금은 하루에 수십, 때로는 수백 컷을 본다. \"영상이 너무 빨리 나와서 지칩니다. 이제는 거의 무감각해졌어요.\" AI가 만든 인물은 여전히 '기름진' 느낌이 난다."
-          },
-          {
-            "t": "p",
-            "x": "천하오는 장편 영화에서는 아직 대체가 어렵다고 본다. 다만 문장 하나로 10분, 나아가 90분짜리 완성 영상이 나오는 날이 오면 지금 제작을 이루는 직무 상당수는 그냥 필요 없어진다고 본다. 치뎬은 위뎬을 다른 스튜디오에 라이선스로 팔 계획이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-scantic-3dgs",
-      "eyebrow": "AI NEWS",
-      "headline": "Scantic, 아이폰 안에서\n가우시안 스플랫을 만든다",
-      "mini_headline": "폰에서 끝내는 3DGS",
-      "body": "Scantic은 클라우드 없이 아이폰에서 3DGS 스캔을 만들고 기본 앱은 무료다.",
-      "tool": "Movies",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/08/scantic-trains-gaussian-splats-entirely-on-your-phone/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
           {
             "t": "video",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.mp4"
+            "yt": "dHSTWepkp_M"
           },
           {
             "t": "p",
-            "x": "소프트웨어 개발자 제바스티안 바이어가 Scantic을 공개했다. 평범한 폰 카메라 영상만으로 사물과 공간의 3D 가우시안 스플랫을 만드는 아이폰 앱이다."
+            "x": "이듬해 \"The Mandalorian\" 시즌 2 피날레의 젊은 Luke Skywalker도 Tarkin과 같은 골짜기로 떨어졌다. 몇 주 뒤 Shamook의 버전이 또 나았고, ILM과 Lucasfilm은 그를 채용했다. \"The Book of Boba Fett\"에서는 처음부터 딥페이크를 전제로 샷을 설계했다."
           },
           {
             "t": "p",
-            "x": "학습에는 \"1분 미만\"이 걸린다. 이런 종류의 앱으로는 드물게 처리가 폰 안에서 이뤄진다. 스캔 데이터를 클라우드로 올리지 않는다. 기본 앱은 무료이고, 더 높은 품질의 내보내기 모드는 돈을 내야 열린다."
-          },
-          {
-            "t": "p",
-            "x": "3D 가우시안 스플래팅은 이미지나 영상에서 실제 사물을 재구성해 화질 좋고 빠르게 렌더링되는 3D 표현을 만드는 방식이다. Scantic도 다른 도구와 다르지 않다. 스캔을 시작한 뒤 대상 주위를 원을 그리며 돌면 촬영한 이미지에서 스플랫이 만들어진다. 작은 스캔은 처리에 \"1분 미만\"이 걸리고, 결과물은 PLY 포맷으로 내보내 3DGS를 지원하는 DCC 앱에서 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "CG Channel은 Kiri Engine과 Polycam 같은 모바일 3D 스캔 앱도 다뤄 왔다. 둘 다 기능이 더 많고 스캔 데이터를 자르고 다루는 도구도 갖췄다. Scantic이 다른 지점은 처리가 전부 사용자 폰에서 끝난다는 것이다. 보안 문제를 피하는 데다 시간을 잡아먹는 단계 하나가 사라진다. 바이어는 다른 앱이 데이터를 업로드하는 시간이면 Scantic은 스플랫 학습을 끝낸다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "바이어의 전공은 CG 아트가 아니라 소프트웨어 엔지니어링이다. 개인 작업에는 블렌더를 쓴다. Scantic은 스스로 정한 여름 과제에서 나왔다. 3DGS 전문가가 아닌 채로 AI 코딩 도구를 써서 기존 3D 가우시안 스플래팅 워크플로의 성능을 끌어올려 보자는 것이었다."
-          },
-          {
-            "t": "p",
-            "x": "오픈소스 Brush 엔진으로 아이폰 촬영 영상에서 만든 첫 스플랫은 맥북 에어에서 학습에 세 시간 넘게 걸렸다. Claude Fable 5 모델의 도움으로 그는 성능을 꾸준히 끌어올렸고, 끝에는 최대 260배까지 빨라졌다. 그러고는 파이프라인을 조금씩 아이폰으로 옮겼다. \"거의 얻어걸리듯\" 아이폰 전용 앱이 됐다."
-          },
-          {
-            "t": "p",
-            "x": "앞으로는 실시간 촬영이 아닌 기존 영상으로도 스플랫을 학습시키고 SPZ 포맷 내보내기를 붙일 생각이다. 맥OS 동반 앱은 낼 수도 있지만 안드로이드 버전 계획은 없다. \"애플 제품은 하드웨어 폭이 비교적 통제돼 있다\"고 그는 말한다. \"안드로이드에서는 일부 고사양 기기에서만 돌아가고 나머지는 사용 경험이 나쁠 것이다.\""
-          },
-          {
-            "t": "p",
-            "x": "Scantic은 iOS 17.0 이상, A12 바이오닉 이상 칩이 필요하다. 2018년 아이폰 XS부터 돌아가는 셈이다. 무료인 기본 앱은 표준 품질 내보내기까지 열어 주는데, 스캔을 솎아 낸 낮은 화질 버전을 만든다. 최고 품질 내보내기는 연 29.99유로(약 35달러) 구독이 필요하다. 스캔 한 건씩 최고 품질로 내보내는 것도 가능하며 건당 4.99유로다."
+            "x": "우리는 물리적으로 진짜인 것을 알아보는 데 밝다. Dick Smith의 폼 라텍스 작업이 지금까지 버티는 이유다. 실제 연기에 묶이지 않은 채 CG로 쌓아 올린 얼굴은 골짜기로 굴러떨어진다."
           }
         ]
       }
     }
-  ]
+  ],
+  "date": "2026-08-29"
 }

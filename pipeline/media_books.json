@@ -1,31 +1,27 @@
 {
-  "date": "2026-08-28",
-  "section": "books",
   "media": [
     {
-      "id": "books-google-expert-intelligence",
-      "type": "image",
-      "src": "pipeline/media/books-google-expert-intelligence.jpg"
+      "id": "books-ftc-book-destruction",
+      "type": "svg"
     },
     {
-      "id": "books-amazon-vgt3-scanning",
-      "type": "image",
-      "src": "pipeline/media/books-amazon-vgt3-scanning.jpg"
+      "id": "books-claude-watermark-theatre",
+      "type": "svg"
     },
     {
-      "id": "books-ai-ghost-authors",
+      "id": "books-kindle-catalog-dilution",
       "type": "image",
-      "src": "pipeline/media/books-ai-ghost-authors.jpg"
+      "src": "pipeline/media/books-kindle-catalog-dilution.jpg"
     },
     {
-      "id": "books-ai-ban-disabled-authors",
+      "id": "books-naver-webtoon-byus",
       "type": "image",
-      "src": "pipeline/media/books-ai-ban-disabled-authors.jpg"
+      "src": "pipeline/media/books-naver-webtoon-byus.jpg"
     },
     {
-      "id": "books-scholarly-kitchen-ai-use",
+      "id": "books-when-bots-write",
       "type": "image",
-      "src": "pipeline/media/books-scholarly-kitchen-ai-use.jpg"
+      "src": "pipeline/media/books-when-bots-write.jpg"
     }
   ]
 }

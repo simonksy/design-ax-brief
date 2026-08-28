@@ -1,95 +1,113 @@
 {
   "section": "design",
-  "generated_at": "2026-08-28T00:00:00Z",
-  "selected_by": "ax-curator (user deferred — auto-pick)",
+  "generated_at": "2026-08-29T00:00:00Z",
+  "selection_mode": "curator_auto",
   "dedup": {
-    "against_days": 5,
-    "history_cards_checked": 30,
+    "against": "pipeline/news_data.json -> sections.design (today + 5 days)",
+    "published_days_checked": [
+      "2026-08-28",
+      "2026-08-27",
+      "2026-08-26",
+      "2026-08-25",
+      "2026-08-22",
+      "2026-08-21"
+    ],
     "dropped_as_duplicate": [
       {
-        "url": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
-        "reason": "Same event as the AWN Photoshop AI tools release (in-pool duplicate) — kept the broader AWN article covering the full update."
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=npCgh0d-OBc",
-        "reason": "Same-source content hub — Adobe posted two YouTube items on the same day; only one Adobe social item would be kept, and neither outranked the final five."
-      },
-      {
-        "url": "https://www.cio.com/article/4214300/human-in-the-loop-ai-is-becoming-the-default-not-the-exception.html",
-        "reason": "Core topic already published 2026-08-20 as 'AI가 70%를 처리해도 마지막 승인은 사람이 한다' (Engineering.com, humans-in-the-loop) — same argument, different outlet."
+        "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
+        "source": "80 Level",
+        "reason": "cross-section duplicate — kept in games as games-tripo-topology"
       }
-    ]
+    ],
+    "notes": "No candidate matched a previously published design story by URL or content. Cross-section de-confliction: the fxguide on-prem open-weight models item was passed over in favor of the movies section, and the 80 Level Tripo topology item was dropped here because today's games section already carries it (games-tripo-topology); it was replaced by the Figma AI-impact study, the curator's next-in-line."
   },
   "picks": [
     {
       "rank": 1,
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "headline": "Adobe Unveils New Photoshop AI Tools",
-      "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools",
-      "source": "Animation World Network",
-      "published_iso": "2026-08-27T14:44:19Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=4UVjZuUc",
-      "excerpt": "Photoshop gains a non-destructive Light Adjustment Layer, Firefly Image 5-powered Instruct Edit with Masks, visual Markup prompting, and a beta AI Assisted Editor. The update pushes prompting into layer-level craft.",
-      "rationale": "Biggest shipped tool change of the day — prompt-driven editing lands inside layer-level Photoshop craft, so designers can act on it tomorrow."
-    },
-    {
-      "rank": 2,
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "headline": "Google Flow brings new creative control features to enhance video editing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
-      "source": "Google",
-      "published_iso": "2026-08-27T16:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-1440x810.png",
-      "excerpt": "Google Flow adds new creative controls on top of Gemini Omni 1.1 Flash, giving video creators finer direction over generated footage instead of one-shot prompting.",
-      "rationale": "First-party release that moves generative video from one-shot prompting to directable control — the exact gap motion designers keep hitting."
-    },
-    {
-      "rank": 3,
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "headline": "The Design System as the Control Plane for AI-Generated UI",
-      "url": "https://www.oreilly.com/radar/the-design-system-as-the-control-plane-for-ai-generated-ui/",
-      "source": "O'Reilly Radar",
-      "published_iso": "2026-08-25T16:10:25Z",
-      "og_image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/The-Design-System-as-the-Control-Plane-for-AI-Generated-UI-1600x1244.jpg",
-      "excerpt": "When agents can generate a form, dashboard or modal on demand, the design system stops being a component library and becomes the control plane that constrains what AI is allowed to produce.",
-      "rationale": "Reframes what a design system team should be building next — governance and constraints over component inventory — from a credible source."
-    },
-    {
-      "rank": 4,
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "headline": "Cursor is now available in the AI SDK harness layer",
-      "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
-      "source": "Vercel",
-      "published_iso": "2026-08-27T14:47:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1n6Al2Mlj10A9dU0k4zUpy/b777fa1e7e2bc5191f17cdf5372114fd/cursor_ai_sdk_harness_adapter_og_card_og_card.jpg",
-      "excerpt": "Cursor now runs through Vercel's AI SDK harness layer via @ai-sdk/harness-cursor, using the same HarnessAgent interface as every other supported harness. Design-to-code agents become swappable infrastructure.",
-      "rationale": "Concrete shipped adapter that makes design-to-code agents interchangeable behind one interface — a real change to how teams wire tooling."
+      "headline": "Figma's Workflow Lab: keeping canvas and code in sync when agents write the front end",
+      "url": "https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/",
+      "source": "Figma",
+      "published_iso": "2026-08-26T22:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/356af9d26d468eaf36ed3ae4d372a1cb95182137-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Coding agents are reshaping how developers build, but they're only as good as the context they're given. Figma walks through a concrete workflow for moving between design and code with agents without losing design intent.",
+      "rationale": "The most actionable item in the pool — a named, repeatable design-to-code-to-design loop a team can adopt tomorrow, straight from the tool most of them already live in."
     },
     {
-      "rank": 5,
+      "rank": 2,
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "headline": "Figma rebuilt its AI-impact study with AI — and the index hit 62 of 100, nearly double 2024",
+      "url": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
+      "source": "Figma",
+      "published_iso": "2026-08-28T19:30:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/8ca1f5a5603ac375aedd98cc7840afa22bfa23ec-1682x918.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma revisits the study it started in 2024 on how AI reshapes design and product development, and this time uses AI to run the research itself. The post digs into what design orgs can actually measure about AI's effect on their work.",
+      "rationale": "Replaces the 80 Level Tripo item, which today's games section already carries; gives design orgs a concrete measurement frame — a 0–100 index across six dimensions, plus the AI research stack behind it."
+    },
+    {
+      "rank": 3,
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "Autodesk's Own Luke Mihelcic on Judging the Fusion Forward Competition",
-      "url": "https://www.core77.com/posts/145176/Autodesks-Own-Luke-Mihelcic-on-Judging-the-Fusion-Forward-Competition",
-      "source": "Core77",
-      "published_iso": "2026-08-27T13:15:00Z",
-      "og_image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847509_lead_400_145176_.jpg",
-      "excerpt": "Autodesk's Luke Mihelcic warns designers against outsourcing creativity and critical thinking to AI, even while championing what it opens up in Fusion-based industrial design work.",
-      "rationale": "Industrial-design counterweight from inside Autodesk — where AI helps in Fusion work and where judgment must stay with the designer."
+      "headline": "AIA puts an AI assistant inside architecture's contract-document workflow",
+      "url": "https://www.engineering.com/aia-contract-documents-launches-ai-assistant-and-names-cto/",
+      "source": "Engineering.com",
+      "published_iso": "2026-08-28T10:36:30Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/acd-1.jpg",
+      "excerpt": "AIA Contract Documents launched an AI Assistant for the industry-standard contracts architects and designers work from daily, alongside naming a new CTO — a sign of AI moving into the paperwork layer of design practice.",
+      "rationale": "A concrete launch inside the industry-standard paperwork designers sign against — AI moving past the canvas into the contractual layer of practice."
+    },
+    {
+      "rank": 4,
+      "category": "vr",
+      "tool": "VR Prototype",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "headline": "Google's 'Listening area' turns Android XR glasses into a spatial AI translation UI",
+      "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
+      "source": "Road to VR",
+      "published_iso": "2026-08-26T13:14:07Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
+      "excerpt": "Google is reportedly testing a 'Listening area' mode for Live Translate on Android XR — a spatial interaction pattern that could become the headline feature of its upcoming smart glasses.",
+      "rationale": "A genuinely new spatial interaction pattern — selecting who the AI listens to by where they stand — and a preview of the interface vocabulary for glasses."
+    },
+    {
+      "rank": 5,
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "headline": "Meta's Muse Image lands on Vercel AI Gateway — one key for image generation in prototypes",
+      "url": "https://vercel.com/changelog/muse-image-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "published_iso": "2026-08-26T00:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
+      "excerpt": "Meta's Muse Image model is now callable through Vercel AI Gateway with a single API key: no provider account, automatic fallbacks, spend tracking and traces on every request. It makes image generation trivial to drop into a design prototype.",
+      "rationale": "Removes the account-and-key friction that keeps image generation out of prototypes — a designer can wire real generated imagery into a v0 build the same afternoon."
     }
-  ]
+  ],
+  "diversity_check": {
+    "outlets": [
+      "Figma",
+      "Figma",
+      "Engineering.com",
+      "Road to VR",
+      "Vercel"
+    ],
+    "max_per_outlet": 2,
+    "distinct_outlets": 4,
+    "categories": {
+      "figma": 3,
+      "cad": 1,
+      "vr": 1
+    },
+    "passes": true
+  }
 }

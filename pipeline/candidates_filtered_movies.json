@@ -1,44 +1,88 @@
 {
-  "generated_at": "2026-08-27T22:04:22Z",
   "section": "movies",
-  "now_iso": "2026-08-27T22:04:22Z",
+  "generated_at": "2026-08-28T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://variety.com/2026/biz/news/the-view-sunny-hostin-her-likeness-to-ai-studio-fountain-0-1236845286/",
-      "source": "Variety",
+      "url": "https://www.cined.com/eddie-ai-overhauled-pay-as-you-go-pricing-editing-from-claude-and-chatgpt-and-an-iphone-app/",
+      "source": "CineD",
       "category": "movies",
-      "headline": "'The View' Host Sunny Hostin Licenses Her Likeness to AI Studio: 'A New Art Form'",
-      "published_iso": "2026-08-27T16:28:03+00:00",
-      "excerpt": "“The View” co-host Sunny Hostin has licensed her name and likeness to the AI startup Fountain 0.",
-      "og_image": "https://variety.com/wp-content/uploads/2021/05/Sunny-Hostin-Summer-on-the-Bluffs.jpg?w=1000&h=562&crop=1"
+      "headline": "Eddie AI Overhauled - Pay-As-You-Go Pricing, Editing from Claude and ChatGPT, and an iPhone App",
+      "published_iso": "2026-08-28T08:57:50+00:00",
+      "excerpt": "Eddie AI drops subscriptions for a credit model and exposes roughly 100 tools over MCP, so editors can drive a rough cut from inside Claude or ChatGPT. Exports still land in Premiere Pro, DaVinci Resolve and Final Cut, and a new iPhone app handles prompts and review on the move.",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/Eddie-AI.jpeg"
     },
     {
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-wonka-reality-show-gene-wilder-1236682001/",
-      "source": "The Hollywood Reporter",
+      "url": "https://www.cined.com/digital-de-aging-and-the-uncanny-valley-problem/",
+      "source": "CineD",
       "category": "movies",
-      "headline": "Netflix Reveals Its 'Wonka' Reality Show Trailer With Creepy AI Gene Wilder",
-      "published_iso": "2026-08-26T15:54:02+00:00",
-      "excerpt": "The competition series trailer features the digitally resurrected Wilder as host and one of the original Oompa Loompa actors.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Wonka.png?crop=0px%2C95px%2C2772px%2C1551px&resize=1440%2C810"
+      "headline": "Digital (De-)Aging and the Uncanny Valley Problem",
+      "published_iso": "2026-08-28T10:44:15+00:00",
+      "excerpt": "A craft breakdown of how aging and de-aging actually get built now, from prosthetics through Benjamin Button and Rogue One to today's ML-driven face pipelines. It maps why even expensive AI-assisted work still falls into the uncanny valley, and what supervisors do about it.",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/digital_deaging-feature_image.jpg"
     },
     {
-      "url": "https://www.redsharknews.com/media-composer-2026-8-features",
-      "source": "RedShark News",
+      "url": "https://nofilmschool.com/eddie-ai-updates-pricing",
+      "source": "No Film School",
       "category": "movies",
-      "headline": "Media Composer 2026.8: full feature list revealed",
-      "published_iso": "2026-08-27T12:08:46+00:00",
-      "excerpt": "Media Composer 2026.8 adds Shared Projects options, AI tools and Ready to Edit ahead of IBC2026.",
-      "og_image": "https://www.redsharknews.com/hubfs/Avid%20ready%20to%20edit.jpg"
+      "headline": "You Can Now Run Eddie AI as an MCP Server, Unlocking Pay-As-You-Go Use for AI Assistant Editing",
+      "published_iso": "2026-08-27T22:28:07+00:00",
+      "excerpt": "No Film School walks through Eddie AI's shift to pay-as-you-go credits and its new MCP server, which lets assistant-editor tasks run from Claude or ChatGPT. The angle is what this does to the cost floor of long-form assembly for small teams.",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=67686247&width=1200&height=600&coordinates=0%2C111%2C0%2C111"
     },
     {
-      "url": "https://www.animationmagazine.net/2026/08/animaze-2026-unveils-programming-highlights-first-ever-ai-animation-forum/",
-      "source": "Animation Magazine",
+      "url": "https://www.awn.com/news/usc-adds-beeble-ai-production-tools-filmmaking-courses",
+      "source": "Animation World Network",
       "category": "movies",
-      "headline": "Animaze 2026 Unveils Programming Highlights & First-Ever AI Animation Forum",
-      "published_iso": "2026-08-17T21:45:10+00:00",
-      "excerpt": "Animaze Montreal has revealed key programming highlights of its 2026 edition, taking place September 17-19.",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Animaze_Bill-Plympton_Johnnie-Semerad.png"
+      "headline": "USC Adds Beeble AI Production Tools to Filmmaking Courses",
+      "published_iso": "2026-08-28T12:01:21-07:00",
+      "excerpt": "The ETC think tank inside USC's School of Cinematic Arts has folded Beeble's relighting, compositing and scene-reconstruction tech into coursework and research. Students now use the AI toolset hands-on across VFX, virtual production and visual storytelling.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/etc-pathways-beeble-source-slap-comp-1280.jpg?itok=sslA5q57"
+    },
+    {
+      "url": "https://www.awn.com/news/haz-dululls-astro-burn-game-comes-life-ai-assisted-micro-series",
+      "source": "Animation World Network",
+      "category": "movies",
+      "headline": "HaZ Dulull's 'Astro Burn' Game Comes to Life as AI-Assisted Micro-Series",
+      "published_iso": "2026-08-27T16:31:08-07:00",
+      "excerpt": "A self-described genAI skeptic turned his retro game into ten daily vertical shorts with Nura Studios on the Showcraft platform, using a locked-down model trained only on his own assets. It is a concrete template for IP-safe AI production and vertical distribution.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/library_hero_2-1280.jpg?itok=sYWJEOM-"
+    },
+    {
+      "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools",
+      "source": "Animation World Network",
+      "category": "movies",
+      "headline": "Adobe Unveils New Photoshop AI Tools",
+      "published_iso": "2026-08-27T07:44:19-07:00",
+      "excerpt": "Adobe rolls out a new wave of generative tools in Photoshop, aimed at concept, matte and key-art work that feeds film and animation pipelines. AWN frames the release around what changes for artists working on production art.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dd2.jpg?itok=rfgfF36o"
+    },
+    {
+      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+      "source": "fxguide",
+      "category": "movies",
+      "headline": "The power of on-premises open-weight models for generative media",
+      "published_iso": "2026-08-28T10:43:50-05:00",
+      "excerpt": "fxguide argues the practical case for running open-weight generative models on-prem in VFX facilities: workflow stability, client data security, predictable cost and delivery reliability. It is a direct answer to studios that cannot send plates to a cloud API.",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-OpenWeights.jpg"
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-23-august-2026/",
+      "source": "CG Channel",
+      "category": "movies",
+      "headline": "New CG software you may have missed: 23 August 2026 (Slapshot Comfy nodes, Topaz Hyperion 2.5)",
+      "published_iso": "2026-08-24T04:30:00+00:00",
+      "excerpt": "Slapshot's AI rotoscoping, camera tracking, motion-vector and depth tools are now Comfy nodes at $0.25 per processed frame, pulling core VFX prep into generative pipelines. The same roundup covers Topaz Hyperion 2.5 SDR-to-HDR conversion and Postshot 1.1.69 for Gaussian splats.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_SlapshotComfyNodes_f-960x480.jpg"
+    },
+    {
+      "url": "https://www.provideocoalition.com/filmmaking-research-and-production-courses-at-etc-use-beeble/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "headline": "Filmmaking research and production courses at ETC use Beeble",
+      "published_iso": "2026-08-28T08:39:28-07:00",
+      "excerpt": "ProVideo Coalition covers USC's Entertainment Technology Center adopting Beeble's AI relighting and scene-reconstruction stack for its filmmaking research and production courses. It signals AI compositing moving into how the next crew generation is trained.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/beebleetc001.jpg"
     },
     {
       "url": "https://beforesandafters.com/2026/08/25/six-thousand-people-made-a-three-minute-film-about-a-future-worth-living-in/",
@@ -46,76 +90,13 @@
       "category": "movies",
       "headline": "Six thousand people made a three-minute film about a future worth living in",
       "published_iso": "2026-08-24T22:09:30+00:00",
-      "excerpt": "Ten of them present live on Sept 25 in downtown LA. The winner leaves with a $2.5M grant to go make it for real.",
+      "excerpt": "Six thousand filmmakers submitted three-minute optimistic-future shorts to the Future Vision XPRIZE with no restriction on toolset, so generative pipelines sat alongside traditional ones. Ten finalists screen live in LA on September 25 with a $2.5M grant on the line.",
       "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/moonshots3.jpeg"
-    },
-    {
-      "url": "https://www.awn.com/animationworld/vale-origins-ai-through-lens-grief-and-creativity",
-      "source": "Animation World Network",
-      "category": "movies",
-      "headline": "'The Vale - Origins': AI Through the Lens of Grief and Creativity",
-      "published_iso": "2026-08-21T12:00:00+00:00",
-      "excerpt": "Abigail Hing Wen's directorial debut is a hybrid animated/live-action short about a 5-year-old who draws his way out of grief, and the parents who build his sketches into an AI-powered virtual sanctuary – made without AI.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/thevaleorigins-stills-01-1280.jpg?itok=xpoCv2qi"
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/08/scantic-trains-gaussian-splats-entirely-on-your-phone/",
-      "source": "CG Channel",
-      "category": "movies",
-      "headline": "Scantic trains 3D Gaussian Splats entirely on your phone",
-      "published_iso": "2026-08-19T12:00:00+00:00",
-      "excerpt": "New iOS app generates 3DGS scans of objects and environments entirely on your phone, without cloud processing. The base app is free.",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.jpg"
-    },
-    {
-      "url": "https://www.creativebloq.com/entertainment/movies-tv-shows/the-spider-man-ai-scandal-shouldnt-be-a-surprise",
-      "source": "Creative Bloq",
-      "category": "movies",
-      "headline": "The Spider-Man AI scandal shouldn't be a surprise",
-      "published_iso": "2026-08-22T12:00:00+00:00",
-      "excerpt": "Cinema isn’t excluded from the AI invasion.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dbVAZFvL9Da94km64KvaTa-1920-80.jpg"
-    },
-    {
-      "url": "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
-      "source": "404 Media",
-      "category": "movies",
-      "headline": "Cocomelon's Studio Tells Its Artists to Start Experimenting With AI",
-      "published_iso": "2026-08-27T15:33:32+00:00",
-      "excerpt": "Moonbug Entertainment, which makes Cocomelon, Blippi, and other popular content for children, says it will begin using AI but will always have a 'human in the loop.'",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-27-at-07.55.58@2x.png"
-    },
-    {
-      "url": "https://www.sixthtone.com/news/1018935",
-      "source": "Sixth Tone",
-      "category": "movies",
-      "headline": "Inside the Chinese AI Studio Shrinking Short-Drama Crews to One",
-      "published_iso": "2026-08-25T09:44:08+00:00",
-      "excerpt": "Former animators, cinematographers, and VFX artists are helping build AI systems that can script, storyboard, generate, and revise short dramas with unprecedented speed.",
-      "og_image": "https://image5.sixthtone.com/image/5/99/695.jpg"
-    },
-    {
-      "url": "https://www.cnn.com/2026/08/22/style/short-drama-ai-china-intl-hnk",
-      "source": "CNN",
-      "category": "movies",
-      "headline": "Quiet on set. How AI transformed China's microdrama scene",
-      "published_iso": "2026-08-22T04:00:29+00:00",
-      "excerpt": "The breakneck AI transformation of the industry is the kind of technological disruption that many creatives fear could upend movie-making far beyond China.",
-      "og_image": "https://media.cnn.com/api/v1/images/stellar/prod/micro-drama-main-thumb.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
-      "source": "Curious Refuge",
-      "category": "movies",
-      "headline": "I Can't Believe This AI Video Generator is Free",
-      "published_iso": "2026-08-18T19:28:05+00:00",
-      "excerpt": "Here are all the links from the video: curiousrefuge.com/blog/free-ai-videos-just-got-way-betterEnroll in AI for YouTubers here: https://curiousrefuge.com/ai...",
-      "og_image": "https://i.ytimg.com/vi/qv0s1_coX50/maxresdefault.jpg"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 12,
+    "dropped": 7,
+    "kept": 10,
     "against_days": 5
   }
 }
