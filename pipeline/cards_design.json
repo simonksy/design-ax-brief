@@ -1,289 +1,251 @@
 {
-  "date": "2026-08-28",
   "section": "design",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T00:00:00Z",
   "cards": [
     {
-      "id": "design-photoshop-ai",
+      "id": "design-figma-workflow-lab",
       "eyebrow": "AI NEWS",
-      "headline": "포토샵의 프롬프트 편집이 이제\n레이어 단위 작업으로 내려왔다",
-      "body": "파이어플라이 이미지 5 기반 지시 편집과 베타 AI 어시스티드 에디터가 들어갔다.",
-      "mini_headline": "포토샵 레이어 프롬프트",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools",
-      "published_iso": "2026-08-27T14:44:19Z",
-      "accent": "#ff5a4d",
+      "headline": "에이전트가 프런트엔드를 쓸 때\n캔버스와 코드를 붙들어 두는 법",
+      "body": "캔버스와 코드를 오가면서도 디자인 의도를 흘리지 않는 작업 흐름을 피그마가 공개했다.",
+      "mini_headline": "캔버스와 코드를 오가며",
+      "tool": "Figma",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/",
+      "accent": "#0070f3",
       "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=_dBhwGrE",
-            "cap": "베타로 공개된 AI 어시스티드 에디터"
-          },
-          {
-            "t": "p",
-            "x": "어도비가 포토샵 업데이트를 내놨다. 선택과 제어를 축으로, 한쪽에는 정밀 도구를 두고 다른 한쪽에는 프롬프트 편집을 뒀다. 간판은 새 라이트 어저스트먼트 레이어, 파이어플라이 기반 인스트럭트 에딧 위드 마스크, 그리고 베타로 들어간 AI 어시스티드 에디터다."
-          },
-          {
-            "t": "p",
-            "x": "크리에이티브 프로페셔널 부문 제품 마케팅 부사장 디파 수브라마니암은 발표문에서 이렇게 말했다. “정밀 도구로 디테일을 다듬든 프롬프트로 아이디어를 탐색하든, 이번 업데이트는 더 효율적이고 확신 있게 작업하도록 만들었습니다. 처음부터 끝까지 자신의 크리에이티브 비전에 집중하실 수 있습니다.”"
-          },
-          {
-            "t": "p",
-            "x": "라이트 어저스트먼트 레이어는 노출, 대비, 하이라이트, 섀도, 화이트, 블랙 같은 전문가급 조명 조정을 새 비파괴 조정 레이어로 옮겼다. 레이어 워크플로를 벗어나지 않고도 카메라 로우 수준의 결과가 나온다."
-          },
-          {
-            "t": "p",
-            "x": "인스트럭트 에딧 위드 마스크는 파이어플라이 이미지 5가 돌린다. 이미지 전체 맥락을 읽으니 고칠 자리를 일일이 정확하게 표시하지 않아도 된다. 감은 눈을 뜨게 하거나 특정 인물 머리에 모자를 씌우는 식으로, 원하는 수정을 문장으로 적으면 된다. 마스크를 씌우지 않은 영역은 손대지 않아 얼굴과 로고, 브랜드 자산이 그대로 남는다. 새 마크업 기능은 이미지 위에 직접 그려 모델에게 의도를 보여준다. 색을 바꿀 영역을 고르고, 위치를 화살표로 그리고, 새로 넣을 요소를 러프한 형태로 칠하는 식이다. 텍스트만으로 지시할 때 남던 모호함이 줄어든다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081305-instructeditmasks3-1280.jpg?itok=0wCgk1M_",
-            "cap": "마스크와 함께 쓰는 인스트럭트 에딧"
-          },
-          {
-            "t": "p",
-            "x": "다이내믹 텍스트, 셰이프 앤 패스는 포토샵의 다이내믹 텍스트를 임의의 커스텀 셰이프나 패스까지 넓혔다. 곡선이나 자유로운 레이아웃을 따라 텍스트가 알아서 흐른다. 스톡 패널 인테그레이션은 9억 개가 넘는 어도비 스톡 자산을 도킹 가능한 패널로 포토샵 안에 들여놨다."
-          },
-          {
-            "t": "p",
-            "x": "베타인 AI 어시스티드 에디터는 자연어 프롬프트 바를 갖춘 선택형 전용 인터페이스다. 주요 AI 모델이 받치는 생성 도구가 함께 붙는다. 프롬프트 투 에딧, 리무브 백그라운드, 제너레이티브 익스팬드, 리무브 툴, 제너레이티브 필, 제너레이티브 업스케일, AI 마크업이 한 묶음이다."
-          },
-          {
-            "t": "p",
-            "x": "프로 에디터에 남는 작업자를 위해 프롬프트 투 에딧은 컨텍스추얼 태스크 바에도 들어갔다. 선택 영역 없이 텍스트 프롬프트만으로 이미지 전체를 바꾼다. 결과는 모두 레이어 스택에 생성 레이어로 쌓여, 편집이 정리된 채 비파괴로 남는다."
-          },
-          {
-            "t": "p",
-            "x": "업데이트는 지금 포토샵에서 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "출처: Animation World Network — Adobe Unveils New Photoshop AI Tools, Dan Sarto, 2026-08-27."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-google-flow",
-      "eyebrow": "AI NEWS",
-      "headline": "구글 플로우, 프롬프트 한 번으로\n끝나던 영상에 연출 손잡이를 달다",
-      "body": "제미나이 옴니 1.1 플래시 위에 새 제어 기능을 얹어 영상 연출을 직접 지시한다.",
-      "mini_headline": "구글 플로우 연출 제어",
-      "category": "render",
-      "tool": "KeyShot",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
-      "published_iso": "2026-08-27T16:00:00Z",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "구글이 I/O에서 구글 플로우에 제미나이 옴니 플래시를 넣었다. 영상 편집 기능이 그때 처음 붙었다. 이번에는 제미나이 옴니 1.1 플래시로 업데이트를 푼다. 크리에이티브 컨트롤이 넓어져, 플로우 안에서 더 다듬어진 완성 단계의 영상을 만들 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-1440x810.png",
-            "cap": "Google Flow — 새 크리에이티브 컨트롤"
-          },
-          {
-            "t": "p",
-            "x": "시작 프레임과 끝 프레임으로 연출을 더 잡는다. 프레임 사이를 의도대로 넘기면서도 인물과 서사가 흐트러지지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "러프컷을 완성본으로 끌어올린다. 1080p나 4K로 선명하게 내보내면 하이엔드 디지털, 소셜, 방송 편집 워크플로에 그대로 올라간다."
-          },
-          {
-            "t": "p",
-            "x": "초안은 빠르게 뽑고 화질은 나중에 올린다. 크레딧이 덜 드는 360p로 콘셉트와 구도를 먼저 시험하고, 전체 해상도 렌더는 그다음에 건다. 마음에 드는 클립이 나오면 720p로 내려받으면 된다. 구글 플로우 앱에서 특히 쓸모가 있다. 이동 중에 휴대폰으로 초안을 뽑아두고, 괜찮은 버전만 골라 업스케일하는 식이다."
-          },
-          {
-            "t": "p",
-            "x": "새 기능은 오늘부터 구글 플로우에서 모두 쓸 수 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Omni_1.1_X-2_6.mp4"
-          },
-          {
-            "t": "p",
-            "x": "출처: Google — Google Flow brings new creative control features to enhance video editing, 2026-08-27."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-system-control-plane",
-      "eyebrow": "AI NEWS",
-      "headline": "디자인 시스템의 다음 일은\n컴포넌트가 아니라 통제다",
-      "body": "에이전트가 화면을 즉석에서 만들면 디자인 시스템은 허용 범위를 정하는 층이 된다.",
-      "mini_headline": "디자인 시스템 관제면",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "source": "O'Reilly Radar",
-      "url": "https://www.oreilly.com/radar/the-design-system-as-the-control-plane-for-ai-generated-ui/",
-      "published_iso": "2026-08-25T16:10:25Z",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/356af9d26d468eaf36ed3ae4d372a1cb95182137-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "AI를 붙인 개발 환경에서 프런트엔드 코드는 금방 나온다. 폼, 대시보드 위젯, 설정 페이지, 모달 플로를 요청하면 몇 초 만에 돌아가는 초안이 돌아온다."
+            "x": "코딩 에이전트가 개발 방식을 바꿔놓고 있지만, 결국 받은 맥락만큼만 해낸다. 피그마가 워크플로 랩 시리즈에서 캔버스와 코드를 오가며 디자인 의도를 지키는 작업 순서를 공개했다. 등장하는 도구는 피그마 디자인과 피그잼, 그리고 Figma MCP server, Code Connect, use_figma, generate_diagram, search_design_system, get_variable_defs다."
+          },
+          {
+            "t": "p",
+            "x": "무대는 가상의 STEM 학습 앱 Radicle. 몇 주 걸리던 일이 며칠, 때로는 몇 시간으로 줄었는데 정작 속도가 성과로 이어지지 않는다. AI가 뽑은 코드가 디자인 스펙에서 자꾸 벗어나서다. 이번 과제인 받은편지함 개편도 스크린샷과 개발 티켓만 던져주자 아이콘은 어긋나고 모달 간격은 들쭉날쭉하고 토스트에는 실패 상태가 빠졌다. 툴바, 모달, 토스트 세 화면짜리 일괄 처리 흐름이다."
           },
           {
             "t": "img",
-            "src": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/The-Design-System-as-the-Control-Plane-for-AI-Generated-UI-1600x1244.jpg",
-            "cap": "O'Reilly Radar — 디자인 시스템은 AI 생성 UI의 컨트롤 플레인"
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/62780457957c344884778b098d94ea00a9fe577d-4306x2632.png?rect=0,1,4306,2631&w=1080&h=660&q=75&fit=max&auto=format",
+            "cap": "Radicle의 새 받은편지함 툴바. 전체 선택, 읽지 않음 표시, 삭제를 지원한다."
           },
           {
             "t": "p",
-            "x": "속도가 만드는 문제는 처음엔 잘 안 보인다. AI가 만든 기능마다 자기 컴포넌트와 스타일, 인터랙션 패턴, 접근성 판단을 들고 오면 프런트엔드는 순식간에 어긋난다. 에러를 다르게 처리하는 폼, 다르게 움직이는 모달, 얼추 비슷해 보이지만 동작이 다른 버튼. 작은 차이가 쌓여 비싸진다."
+            "x": "개발자는 코드부터 쓰지 않는다. 화면과 상태, 전환을 글로 정리한 다음 PRD와 기존 컴포넌트 코드까지 에이전트에 넘긴다. 그리고 generate_diagram으로 피그잼에 편집 가능한 다이어그램을 만든다. 전체 선택은 모든 메시지를 체크한다. 삭제는 확인 모달을 띄우고 토스트의 실행 취소는 대시보드를 이전 상태로 되돌린다. 디자이너와 디자인 시스템 리드는 슬랙 스레드 대신 이 다이어그램 위에 바로 의견을 남겼다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/40a7948603a0bf3d91bf3694f1c28046a2d7d42d-1608x1072.png?w=804&h=536&q=75&fit=max&auto=format",
+            "cap": "피그잼 다이어그램과 라이브러리를 함께 넘기면 에이전트가 쓸 컴포넌트와 변수를 찾아낸다."
           },
           {
             "t": "p",
-            "x": "저자 니하리카 P. 푸자리는 여기서 디자인 시스템의 자리를 다시 잡는다. 시각적 일관성을 지키는 장치를 넘어, 생성된 UI의 컨트롤 플레인이 된다는 것이다. 인터페이스가 어떻게 만들어지는지, 어떤 패턴이 허용되는지, 어떤 결정을 매번 다시 발명하지 않아도 되는지를 정하는 층. 접근성과 인터랙션 동작, 콘텐츠 가이드, 컴포넌트 경계, 안전한 기본값이 여기에 새겨진다."
+            "x": "승인이 끝나면 다이어그램을 Figma MCP server로 에이전트에 넘긴다. 스크린샷 한 장뿐이었다면 12 px 간격이 맞는 토큰인지, 저 버튼이 이미 저장소에 있는 세컨더리인지 물으러 다녔을 것이다. 이제 그 답이 파일 안에 있다. 컴포넌트가 어떻게 만들어졌는지는 Code Connect가 채운다. 디자인 시스템 리드가 라이브러리를 깃허브 저장소에 연결하고 버튼과 모달의 템플릿 파일을 써두면, 에이전트는 새 코드 대신 이미 있는 구현에서 출발한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/75a410c0c97c35b54ee99a494113bb8ec688f930-1608x1072.png?w=1080&h=720&q=75&fit=max&auto=format"
           },
           {
             "t": "p",
-            "x": "“필터 패널 만들어줘”라는 프롬프트를 받은 에이전트는 눈앞의 요청만 만족시킨다. 결과물은 단독으로는 돌아가지만 제품의 나머지가 필터링과 검증, 로딩 상태, 키보드 동작을 다루는 방식과 어긋난다. 물어야 할 질문은 “AI가 동작하는 드롭다운을 만들 수 있는가”가 아니라 “이 기능이 기존 드롭다운 패턴을 써야 하는가, 그 패턴이 필요한 동작을 이미 처리하는가”다."
+            "x": "일괄 선택 상태만은 새로 만든 것이라 Code Connect가 매핑하지 못했다. 개발자는 search_design_system으로 팀 라이브러리를 뒤졌고, 몇 달 전 배포한 기능에서 비슷한 컴포넌트가 나왔다. 에이전트는 그것을 코드베이스에서 찾아 이번 흐름에 맞게 고쳤다."
           },
           {
             "t": "p",
-            "x": "컴포넌트 라이브러리만으로는 부족하다. 버튼은 스타일이 입혀진 요소가 아니라 위계와 상태, 레이블, 비활성 동작, 로딩 동작, 포커스 가시성에 관한 결정 덩어리다. 모달은 포커스 이동과 이스케이프 동작, 헤딩, 접근 가능한 이름, 배경 조작 여부를 안고 있다. 이 규칙이 사람 머릿속에만 있으면 AI는 알 길이 없다."
+            "x": "모달을 짜는 동안 디자인이 바뀌었다. 브랜드 색이 어두워지고 버튼 모서리 반경이 달라졌다. 개발자는 손으로 고치는 대신 get_variable_defs를 불러 모달이 쓰는 변수를 받아왔고, 에이전트가 코드 토큰과 대조해 두 군데 불일치를 곧바로 잡아냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5077c6268db5f84188c91c9ed2a2a5bfeb992c3a-1608x1072.png?w=804&h=536&q=75&fit=max&auto=format"
           },
           {
             "t": "p",
-            "x": "규칙을 프롬프트마다 반복해 적는 방식은 오래 못 간다. 누군가는 잊고 누군가는 짧게 쓴다. CLAUDE.md든 에이전트 시작 파일이든, 디자인 시스템 규칙은 에이전트의 상시 프로젝트 컨텍스트에 들어가야 한다. 기능 코드를 짜기 전에 이미 알고 있어야 한다는 뜻이다."
-          },
-          {
-            "t": "p",
-            "x": "리뷰의 무게도 달라진다. 승인된 모달 컴포넌트를 썼다면 포커스 처리를 매번 처음부터 따질 필요가 없다. “생성된 코드가 이 패턴을 제대로 발명했는가”에서 “맞는 패턴을 맞게 썼는가”로 질문이 옮겨간다."
-          },
-          {
-            "t": "p",
-            "x": "어려운 쪽은 기술이 아니라 규율이다. 옳은 길이 그른 길보다 쉬워야 한다. 새 패턴을 전부 막자는 말은 아니지만, 새 패턴은 의도적이어야 하고 리뷰를 거쳐야 하고 재사용할 만하면 시스템으로 되돌아와야 한다. 그 규율이 없으면 시스템과 비슷해 보이지만 다르게 동작하는 준표준 컴포넌트가 쌓인다. 대놓고 커스텀인 코드보다 치우기 어렵다."
-          },
-          {
-            "t": "p",
-            "x": "프런트엔드 엔지니어의 일은 아키텍처 쪽으로 옮겨간다. 컴포넌트 API를 정의하고, 패턴을 문서화하고, 접근성 기준을 세우고, 에이전트 지침을 쓰고, 생성된 코드를 리뷰한다. AI는 코드를 빠르게 만들지만 어떤 프런트엔드 시스템을 가져야 하는지는 스스로 정하지 못한다. 푸자리는 이렇게 닫는다. AI 지원 프런트엔드 개발의 앞날은 더 나은 프롬프트만으로 결정되지 않는다. 그 프롬프트가 작동할 시스템이 결정한다."
-          },
-          {
-            "t": "p",
-            "x": "출처: O'Reilly Radar — The Design System as the Control Plane for AI-Generated UI, Niharika P. Pujari, 2026-08-25."
+            "x": "남은 건 토스트. 빌드 중에 만들어져 코드에만 있고 실패 상태가 없었다. use_figma로 토스트를 편집 가능한 레이어로 캔버스에 올리자 디자이너가 재시도 동작을 붙였고, 디자인 시스템 리드가 새 컴포넌트를 배포한 뒤 Code Connect로 코드와 연결했다. 이후는 여느 릴리스와 같다. 풀 리퀘스트의 diff는 대부분 기능 로직이다. 엔지니어가 코드를 리뷰하고 디자이너는 프리뷰 빌드를 본다. AI가 뱉은 코드를 다시 손보던 시간이 사용자 경험을 다듬는 시간으로 옮겨간다."
           }
         ]
       }
     },
     {
-      "id": "design-cursor-harness",
+      "id": "design-figma-ai-index",
       "eyebrow": "AI NEWS",
-      "headline": "커서가 버셀 AI SDK\n하네스 어댑터로 들어왔다",
-      "body": "커서도 같은 하네스 인터페이스를 쓰게 되면서 코드 에이전트가 교체 가능해졌다.",
-      "mini_headline": "커서, 하네스 어댑터",
-      "category": "figma",
+      "headline": "디자인이 AI로 얼마나 달라졌는지\n피그마가 이번엔 AI를 써서 재봤다",
+      "body": "피그마의 AI 영향 지수가 100점 만점에 62점으로, 2024년의 거의 두 배가 됐다.",
+      "mini_headline": "AI 영향 지수 62점",
       "tool": "Figma",
-      "source": "Vercel",
-      "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
-      "published_iso": "2026-08-27T14:47:00Z",
-      "accent": "#0070f3",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
+      "accent": "#2ec5c5",
       "motif": "frame",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/8ca1f5a5603ac375aedd98cc7840afa22bfa23ec-1682x918.png?w=1200&q=70&fit=max&auto=format",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "버셀 AI SDK의 하네스 레이어가 커서를 지원한다. 공식 어댑터 @ai-sdk/harness-cursor를 통해서다. 하네스 레이어를 쓰면 서로 다른 코딩 에이전트를 같은 HarnessAgent 인터페이스로 돌린다. 애플리케이션 코드를 손대지 않고 에이전트만 갈아 끼우면 된다."
+            "x": "AI 도구가 몰려오기 시작하던 몇 해 전, 피그마는 일하는 방식부터 제품 개발 전략까지 그 여파를 추적하기로 했다. 2024년 시작한 다년 연구는 해마다 설문을 돌리고 지수를 쌓고 인터뷰로 숫자 뒤의 이야기를 모으는 식으로 굴러갔다. 수천 개의 데이터와 수백 건의 전사록은 사람 손으로 감당할 양이 아니었다. 그래서 연구자 셰인 존스턴과 팀은 조사를 돌릴 도구를 AI로 직접 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "먼저 만든 건 감정 지수다. 미시간대 소비자심리지수처럼 실제 경제가 아니라 사람들의 체감을 담는 척도다. 설문은 지난 12개월에 겪은 일과 앞으로 12개월에 예상하는 변화를 함께 묻는다. 둘을 견주면 AI가 기대를 따라잡는지 넘어서는지 못 미치는지가 드러난다. 답은 0(영향 없음)에서 100(완전한 변화) 사이다. 50쯤이면 AI가 업무의 일부가 된 정도고, 100에 가까울수록 하루 일과가 근본부터 달라졌다."
+          },
+          {
+            "t": "p",
+            "x": "질문은 조직의 목표와 개인 생산성, 협업, 프로젝트, 제품, 도구 여섯 축으로 짰고 3년째 같은 문항을 쓴다. 2026년에는 여섯 축이 모두 지난해 예상치를 10포인트 넘게 웃돌았다. 협업은 32에서 58로 거의 두 배가 됐고, 개인 생산성과 프로젝트, 제품은 40점대에서 60점대 후반과 70점대로 올라섰다."
           },
           {
             "t": "img",
-            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1n6Al2Mlj10A9dU0k4zUpy/b777fa1e7e2bc5191f17cdf5372114fd/cursor_ai_sdk_harness_adapter_og_card_og_card.jpg",
-            "cap": "Vercel Changelog — Cursor AI SDK harness adapter"
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8c6079f6fe98d78bc54a2593cbd51d28c67a4cd5-1785x1368.png?rect=1,0,1784,1368&w=1080&h=828&q=75&fit=max&auto=format",
+            "cap": "피그마 AI 영향 지수를 보면 응답자들은 AI의 영향이 앞으로 더 커지리라 본다."
           },
           {
             "t": "p",
-            "x": "쓰는 법은 HarnessAgent에 cursor를 넘기는 것뿐이다. @ai-sdk/harness/agent에서 HarnessAgent를, @ai-sdk/harness-cursor에서 cursor를 가져온 다음 new HarnessAgent({ harness: cursor })로 만든다. 커서를 실행하는 HarnessAgent가 생긴다."
+            "x": "지수는 무엇이 얼마나 바뀌었는지까지만 말해준다. 올해는 그 변화를 겪은 사람들의 말을 듣기로 하고 AI 인터뷰 도구를 붙였다. AI 진행자가 실시간으로 되묻고 맥락에 맞춰 대화를 이끄는 방식으로 639건을 진행했다. 전사록 639건, 200만 단어, 코드 40,701개, 테마 11,846개, 참가자들 사이에서 반복된 테마 553개가 쌓였다."
           },
           {
             "t": "p",
-            "x": "안쪽에서는 어댑터가 @ai-sdk/harness-acp를 써서 에이전트 클라이언트 프로토콜(ACP)로 커서를 HarnessAgent에 연결한다."
+            "x": "시중의 분석 도구는 속을 보여주지 않는다. 해석 과정이 안 보이면 검증할 방법도 없다. 그래서 전사록을 전부 읽고 발언마다 코드를 붙인 뒤 큰 테마로 묶는 주제 분석을 단계마다 들여다볼 수 있게 다시 만들었다. “AI가 반복 속도는 올렸지만 품질 우려를 낳았다”는 테마를 고르면 이를 언급한 참가자 47명이 뜨고, 각자의 발언과 원본 전사록까지 따라갈 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/504af45c6607d8f8dccdcb551ca2c0d9e9ef2a81-2548x800.png?rect=0,1,2548,799&w=1632&h=512&q=75&fit=max&auto=format",
+            "cap": "주제 분석 파이프라인이 인터뷰 전사록에서 테마를 찾아 이름을 붙였다."
           },
           {
             "t": "p",
-            "x": "지원 하네스는 커서를 더해 클로드 코드, 클라인, 코덱스, 딥 에이전츠, 그록 빌드, 오픈코드, 파이다. 곧 더 붙는다. 시작하려면 커서 하네스 문서를 보면 된다."
+            "x": "빠르기만 한 게 아니었다. 사람이 수백 건을 손으로 검토하면 피로가 쌓이고 해석이 흔들려 50번째 인터뷰를 첫 번째와 다르게 코딩하기 쉽다. 도구는 매번 같은 잣대를 들이댔다. 그렇다고 통째로 넘길 수는 없어서 어떤 방법을 쓸지, 충돌하는 테마는 어떻게 다룰지를 일일이 지정했다. MIT 경제학자 데이비드 오터는 이를 전문성 재중개라 불렀다. AI는 전문가의 판단을 없애는 대신 그 판단을 되풀이할 수 있게 만든다."
           },
           {
             "t": "p",
-            "x": "출처: Vercel Changelog — Cursor is now available in the AI SDK harness layer, Felix Arntz, 2026-08-27."
+            "x": "도구가 문제 하나를 풀자 다음 문제가 나왔다. 수만 개의 데이터가 노트북과 텍스트 파일에 흩어져 연구자가 아니면 뒤지기 어려웠는데, 보고서에는 작가와 마케터, 애널리스트도 붙어 있었다. 그래서 3년치 설문 결과와 인터뷰 분석, 역할별·지역별 추이를 모은 내부 대시보드를 짰다. 원자료 분석을 자체 완결형 HTML 문서로 바꾼 뒤 Figma MCP server로 몇 차례 오갔다. 배포는 Payload CMS로 해서 버전 관리와 접근 권한까지 챙겼다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/58b463599991d375be5510fe3300760ef109040d-2976x1691.png?rect=1,0,2974,1691&w=1080&h=614&q=75&fit=max&auto=format",
+            "cap": "이 대시보드로 팀 누구나 데이터를 직접 열어본다."
+          },
+          {
+            "t": "p",
+            "x": "흩어진 메일과 슬라이드로 저마다 다른 그림을 그리는 대신 모두가 같은 자료를 봤다. 올해 지수는 100점 만점에 62점, 2024년의 거의 두 배다. 분석을 끝내기 전부터 변화는 이미 눈에 보였고, 지수는 거기에 숫자를 붙였다."
           }
         ]
       }
     },
     {
-      "id": "design-fusion-forward",
+      "id": "design-aia-contract-assistant",
       "eyebrow": "AI NEWS",
-      "headline": "AI에 창의성까지 넘기지 말라는\n오토데스크 심사위원의 당부",
-      "body": "AI가 퓨전 작업에서 여는 몫은 인정하되, 창의성과 판단까지 넘기지는 말라고 한다.",
-      "mini_headline": "창의성은 넘기지 마라",
-      "category": "cad",
+      "headline": "AIA가 건축 표준 계약 문서에\nAI 어시스턴트를 넣었다",
+      "body": "AIA가 업계 표준 계약 문서에 쓸 AI 어시스턴트를 내놓고 신임 CTO도 함께 발표했다.",
+      "mini_headline": "계약서 안으로 들어온 AI",
       "tool": "Text-to-CAD",
-      "source": "Core77",
-      "url": "https://www.core77.com/posts/145176/Autodesks-Own-Luke-Mihelcic-on-Judging-the-Fusion-Forward-Competition",
-      "published_iso": "2026-08-27T13:15:00Z",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/aia-contract-documents-launches-ai-assistant-and-names-cto/",
       "accent": "#7928ca",
       "motif": "cube",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/acd-1.jpg",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "퓨전 포워드 심사위원 대부분은 오토데스크 도구로 무엇이 가능한지를 본다. 루크 미헬치치는 그 도구를 만든 쪽이다. 오토데스크의 제품 마케팅 책임자인 그는 교육자와 애플리케이션 엔지니어, 기술 마케터, 제품 마케터를 차례로 거쳤다. 디자인 아이디어가 콘셉트에서 실물로 넘어가는 과정, 그 길목에서 퓨전의 도구가 어디에 놓이는지를 몸으로 안다. 심사석에서는 드문 시야다."
-          },
-          {
-            "t": "img",
-            "src": "https://s3files.core77.com/blog/images/1847503_4_145176_hs9BXPIRS.png",
-            "cap": "오토데스크 제품·기술 마케팅 시니어 매니저 루크 미헬치치"
+            "x": "AIA Contract Documents(ACD)가 앱 안에서 계약 안내를 해주는 AI 어시스턴트를 내놨다. 계약 업무 속도를 끌어올리려고 문서 편집 화면도 함께 손봤다."
           },
           {
             "t": "p",
-            "x": "이 이력이 평가 방식을 만든다. 디자인과 엔지니어링 기술이 겹치는 자리에서 수십 년을 보낸 그는 창의성과 기술적 완성도, 사용성, 실제 영향력을 업계의 눈으로 본다. 콘셉트가 그럴듯해 보이는지가 아니라 버티는지를 본다."
+            "x": "같은 날 최고기술책임자로 Arijit “AJ” Saha를 영입했다고 밝혔다. ACD의 기술과 AI 전략을 맡아 제품 혁신과 고객 가치를 계속 밀어붙이는 자리다."
           },
           {
             "t": "p",
-            "x": "요즘 무엇이 가장 흥미롭냐고 물으면 그는 가능성 자체를 꼽는다. “기술과 디자인 도구, AI, 시뮬레이션, 제조, 협업이 나아가면서 예전에는 아예 없던 문이 열리고 있습니다. 한때 너무 복잡하거나 손이 닿지 않는다고 느껴지던 문제들이 새로운 방식으로 다가오고 있습니다.” 상상하고 실현할 수 있는 범위가 넓어지는 것, 그것이 그에게는 디자인에서 가장 짜릿한 대목이다."
+            "x": "Saha는 신생 기업부터 대기업까지 엔지니어링, 데이터, AI, 클라우드 조직을 23년 넘게 이끌었다. Infosys, Goldman Sachs, Noodle AI(현 Daybreak)를 거쳤고 직전에는 Redica Systems에서 최고기술책임자로 일했다."
           },
           {
             "t": "p",
-            "x": "낙관에는 단서가 붙는다. 그가 걱정하는 대상은 도구로서의 AI가 아니라 디자이너가 거기에 너무 기댈 때 벌어지는 일이다. “우리가 창의성과 비판적 사고를 AI에 지나치게 외주 주기 시작할지 모릅니다. 디자인은 무언가를 빨리, 아름답게 만드는 일만이 아닙니다. 판단과 맥락, 공감, 취향, 호기심, 그리고 이것이 애초에 왜 존재해야 하는지를 이해하는 능력의 문제입니다.”"
+            "x": "ACD에서 그가 맡을 일은 건설 생애주기 전반의 핵심 업무를 매끄럽게 만드는 다음 세대 도구다. 건축·엔지니어링·건설(AEC) 회사가 팀의 손발을 맞추고 리스크를 관리하며 프로젝트를 처음부터 끝까지 굴러가게 하는 쪽이다."
           },
           {
             "t": "p",
-            "x": "걱정의 대상은 기술이 아니라고 그는 못 박는다. “안주입니다. 편의가 호기심을 대신하고 자동화가 지성을 대신하도록 내버려 두는 것입니다.”"
+            "x": "ACD의 바탕에는 표준 계약 문서 300종이 넘게 깔려 있다. 회사는 그 문서를 둘러싼 경험을 다시 짜는 중이다. 템플릿에서 서명된 계약까지 손이 덜 가게 만드는 게 목표다. 새 편집기는 문서 작업을 단순하게 잡았고, AI 어시스턴트는 계약 과정 어느 지점에서든 사용자가 부르면 답한다. 프로젝트 위험을 가늠하고 계약 관련 작업을 더 빨리 끝내도록 돕는 기능도 개발 중이다."
           },
           {
             "t": "p",
-            "x": "출품을 준비하는 사람에게 주는 조언은 곧 그가 볼 지점이다. “새로움이 아니라 가능성을 위해 디자인하십시오. 가장 좋은 작업은 기술을 얹거나 흥미로운 형태를 만드는 데서 그치지 않습니다. 사려 깊은 디자인과 재료에 대한 이해, 계산 도구가 집 안의 일상을 더 쉽고 더 아름답고 더 지속 가능하게 만드는 방법을 보여줄 겁니다.”"
-          },
+            "x": "ACD를 쓰는 회사는 45,000곳이 넘고, 해마다 120만 건 넘는 계약서가 여기서 나온다. 미국 곳곳의 건설 프로젝트가 굴러가는 방식의 한 축인 셈이다. 자세한 내용은 aiacontracts.com에 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-android-xr-listening-area",
+      "eyebrow": "AI NEWS",
+      "headline": "구글 안드로이드 XR의 통역,\n이제 '듣는 영역'을 지정한다",
+      "body": "안드로이드 XR 통역에서 누구 말을 들을지 공간으로 골라내는 기능을 구글이 시험 중이다.",
+      "mini_headline": "듣는 영역을 고른다",
+      "tool": "VR Prototype",
+      "source": "Road to VR",
+      "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
           {
-            "t": "img",
-            "src": "https://s3files.core77.com/blog/images/1847513_4_145176_4R8IMPt_d.jpg",
-            "cap": "퓨전 포워드: 디자인 포 홈 공모전"
+            "t": "p",
+            "x": "구글이 안드로이드 XR의 Google Live Translate에 ‘Listening area’ 모드를 시험 중이라는 이야기가 나왔다. 곧 나올 스마트 글라스 라인업의 간판 기능이 될 만한 대목이다."
           },
           {
             "t": "p",
-            "x": "퓨전 포워드: 디자인 포 홈은 접수를 시작했다. 카테고리는 셋, 상금은 총 9,750달러. 마감은 9월 28일이다."
+            "x": "실시간 번역은 구글이 안드로이드 XR에 넣겠다고 줄곧 말해온 기능이라 놀랄 일은 아니다. 화자의 톤과 음높이를 살린 번역 음성, 메뉴판이나 표지판 같은 글자 번역을 스마트 글라스에서 함께 약속했다."
           },
           {
             "t": "p",
-            "x": "출처: Core77 — Autodesk's Own Luke Mihelcic on Judging the Fusion Forward Competition, 2026-08-27."
+            "x": "Android Authority가 구글 번역 앱 10.32.66 버전을 뜯어보니 듣기 모드가 둘로 갈라져 있었다. ‘Front only’는 착용자 바로 앞 사람의 말만 옮겨 일대일 대화에 맞고, ‘Surrounding area’는 글라스의 마이크 배열을 모두 동원해 주변 전체의 말을 옮긴다."
+          },
+          {
+            "t": "p",
+            "x": "apk 코드에서 발견된 흔적이라 실제 출시를 장담하긴 이르다. 다만 스마트 글라스를 앞두고 안드로이드 XR을 넓히려는 구글의 흐름과는 맞아떨어진다. 올가을 젠틀몬스터와 와비파커의 프레임이 먼저 나오고, 구찌 모회사 케링의 프레임도 준비 중이라고 알려졌다."
+          },
+          {
+            "t": "p",
+            "x": "메타의 스마트 글라스에도 실시간 번역이 들어 있다. 다만 메타 쪽은 ‘Front only’에 가깝다. 번역된 말이 오픈이어 스피커로 착용자에게 흘러나오고, 상대는 착용자의 스마트폰 화면에서 번역 자막을 읽는다. 실시간 번역에서 앞서 있는 구글이 여기에 기능을 최대한 채워 넣으리라는 관측이 나온다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-muse-image-ai-gateway",
+      "eyebrow": "AI NEWS",
+      "headline": "메타 뮤즈 이미지를 버셀 게이트웨이에서\nAPI 키 하나로 부른다",
+      "body": "제공사 계정을 따로 만들지 않아도 버셀 게이트웨이 키 하나면 메타 뮤즈 이미지가 붙는다.",
+      "mini_headline": "키 하나로 이미지 생성",
+      "tool": "Figma",
+      "source": "Vercel",
+      "url": "https://vercel.com/changelog/muse-image-now-available-on-ai-gateway",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Meta Superintelligence Labs의 Muse Image를 이제 AI Gateway에서 부른다. 메타의 첫 이미지 모델이고, 텍스트를 돌려주는 Muse Spark와는 다른 계열이다. 프롬프트를 보내면 이미지가 오고, 이미지에 지시를 붙여 보내면 고쳐서 돌아온다. 생성과 편집을 한 모델이 다 하니 중간에 모델을 갈아탈 일이 없다."
+          },
+          {
+            "t": "p",
+            "x": "쓰는 법은 짧다. model을 meta/muse-image-1.0으로 두고 AI SDK의 generateImage를 부르면 끝이다. 이미 가진 아트 쪽으로 결과를 끌고 가고 싶으면 prompt.images에 레퍼런스 이미지를 텍스트와 함께 넘긴다. 모델이 그것을 녹여 그린다."
+          },
+          {
+            "t": "p",
+            "x": "편집도 같은 자리에서 한다. 바꾸고 싶은 이미지를 prompt.images에 넣고 지시를 적으면, 요청한 부분만 바뀌고 나머지는 그대로 남는다. 모델 플레이그라운드에서 바로 시험해봐도 된다."
+          },
+          {
+            "t": "p",
+            "x": "AI Gateway는 모델 호출과 사용량·비용 추적, 장애 시 대체 경로, 성능 최적화를 하나의 API로 묶는다. 제공사보다 높은 가동률을 노린 구조다. 맞춤 리포팅, API 키별 예산, 라우팅 규칙도 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "가격은 제공사 가격을 그대로 반영하고 마크업을 붙이지 않는다. BYOK 요청까지 포함해 추론에 플랫폼 수수료가 없다."
           }
         ]
       }

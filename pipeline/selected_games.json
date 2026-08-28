@@ -1,87 +1,61 @@
 {
-  "generated_at": "2026-08-28T00:00:00Z",
+  "date": "2026-08-28",
   "section": "games",
-  "selection_mode": "curator_auto",
-  "pool_size": 10,
-  "dedup": {
-    "against_days": 5,
-    "dropped_as_duplicates": [
-      {
-        "url": "https://kotaku.com/opening-night-live-2026-genai-slop-games-geoff-keighley-2000728477",
-        "reason": "Same story as TheGamer's Gamescom ONL genAI-disclosure tally (same event, same ONL Steam-page AI disclosures, different angle) — kept the stronger quantified piece."
-      },
-      {
-        "url": "https://www.destructoid.com/gta6-dazed-magazine-npc-rockstar-la-studio/",
-        "reason": "Same Rockstar/Dazed GTA 6 interview cycle as the GameSpot piece — kept the one that directly reports the no-generative-AI confirmation."
-      }
-    ],
-    "notes": "No candidate matched any of the 30 games cards published 2026-08-20 through 2026-08-27 (today + 5 days) on URL or content."
-  },
   "picks": [
     {
-      "rank": 1,
+      "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6",
+      "source": "GamesIndustry.biz",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "New dev tool from Meta enables AI to quickly test Quest games",
-      "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-26T06:50:17+00:00",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
-      "excerpt": "Meta introduced Meta XR Operator, an experimental tool that lets AI coding agents autonomously build, test, debug and visually verify VR apps on Quest.",
-      "rationale": "A shipping, hands-on tool: coding agents can now build, run and visually verify Quest builds, which changes an XR team's iteration loop tomorrow."
+      "rationale": "Rockstar standing up a dedicated LA team for hand-authored NPC fidelity is the strongest counter-model to the generative-NPC pitch, and it tells designers where the industry's most-watched studio is actually spending craft budget.",
+      "published_iso": "2026-08-28T09:32:46+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/gta-npcs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Rockstar built a dedicated team to push NPC behaviour past Red Dead Redemption 2's 'level of interactive fidelity'. It's a hand-authored, systems-driven answer to the generative-NPC pitch the rest of the industry is selling."
     },
     {
-      "rank": 2,
+      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline",
+      "source": "80 Level",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "headline": "\"We view AI as a sliding scale. There will always be a human in the loop\": Why Side signed an MOU with Modl.ai to use AI for QA",
-      "url": "https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-08-27T10:34:25+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Modlai-x-Side---Gamescom-2026.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Side and Modl.ai discuss the role of AI in games quality assurance, the tech's current limitations, and why human QA experts remain an essential part of the pipeline.",
-      "rationale": "The largest external QA vendor formalising AI in its pipeline — a concrete map of which QA work moves to agents and which stays human."
+      "rationale": "The most directly actionable item in the pool: game-ready characters with usable topology in under 10 seconds is the exact gap that has kept AI meshes out of production pipelines.",
+      "published_iso": "2026-08-28T15:00:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49865/images/6a8caa21e033b/contain_1200x630.jpg",
+      "excerpt": "Tripo's chief scientist details Smart Mesh, which generates game-ready characters with usable topology in under 10 seconds. The pitch is closing the gap between AI-generated meshes and assets that survive a Maya/Blender production pipeline."
     },
     {
-      "rank": 3,
+      "url": "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/",
+      "source": "Polygon",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "headline": "Tencent Games Central Tech debuts at Gamescom 2026 with AI tools spanning animation, gameplay, and testing",
-      "url": "https://wccftech.com/tencent-games-central-tech-debuts-at-gamescom-2026-with-ai-tools-spanning-animation-gameplay-and-testing/",
-      "source": "Wccftech",
-      "published_iso": "2026-08-27T07:30:00+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech.jpg",
-      "excerpt": "Tencent unveiled Motus, an AI pipeline for 3D animation, alongside GIGA and WeTest — a full-stack toolchain covering asset creation, gameplay and automated testing.",
-      "rationale": "A first public look at Tencent's in-house AI toolchain — Motus for 3D animation plus asset and automated-test tools — i.e. what an AI-native production stack looks like end to end."
+      "rationale": "A leaked DLSS 5 neural-graphics build re-rendering Skyrim and San Andreas is the first live test of AI post-processing overriding an art director's intent — a new authorship problem shipping at driver level.",
+      "published_iso": "2026-08-28T20:08:05+00:00",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/nord.JPG?w=1600&h=900&fit=crop",
+      "excerpt": "PC players are running leaked DLSS 5 neural graphics over GTA: San Andreas and Skyrim, and the results are photoreal but uncanny. It's an early look at AI re-rendering overriding an art director's original intent."
     },
     {
-      "rank": 4,
+      "url": "https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy",
+      "source": "Eurogamer",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "headline": "24% of Gamescom reveals officially used AI",
-      "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/",
-      "source": "TheGamer",
-      "published_iso": "2026-08-27T10:34:41Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "23.64% of the games featured during Gamescom Opening Night Live this year disclosed AI use in development or marketing — 13 of 55 titles shown.",
-      "rationale": "A hard number on disclosed AI use across a flagship showcase — the clearest available benchmark for how normalised AI in production has become."
+      "rationale": "Saber's CCO puts the clearest 'prove it with craft' thesis on record from inside a studio already under fire — the argument every AI-using team will be measured against.",
+      "published_iso": "2026-08-28T11:04:23+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/saber-ai-half-life-2-rideshare.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Saber's chief creative officer argues one genuinely great AI-built game would flip public sentiment overnight. It's the clearest statement yet of the 'prove it with craft' position inside a studio already under fire."
     },
     {
-      "rank": 5,
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/id-softwares-former-co-owner-says-they-absolutely-wouldve-used-gen-ai-back-in-the-day-john-carmack-would-be-like-making-skynet-or-something/",
+      "source": "PC Gamer",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "headline": "Grand Theft Auto 6 will have no microtransactions or generative AI",
-      "url": "https://www.gamespot.com/articles/grand-theft-auto-6-will-have-no-microtransactions-or-generative-ai/",
-      "source": "GameSpot",
-      "published_iso": "2026-08-27T20:32:06+00:00",
-      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_02.jpg",
-      "excerpt": "Rockstar North co-studio head Rob Nelson reportedly confirmed that no generative AI was used in GTA 6's development, and that the game ships without microtransactions.",
-      "rationale": "The industry's biggest release explicitly opting out of generative AI — the strongest counter-signal to the disclosure trend in the same week."
+      "rationale": "An id Software founder reframing gen AI as continuous with Doom-era tech culture is a rare, credible counterweight to the 'real devs don't use AI' framing dominating this week's discourse.",
+      "published_iso": "2026-08-28T13:53:23+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kHZZqCzDLKx8KtKh8MEg3a-1600-80.jpg",
+      "excerpt": "An id Software co-founder argues the Doom-era team would have grabbed generative tools instantly, framing AI as continuous with the studio's tech-first culture. A useful counterweight to the 'real devs don't use AI' framing."
     }
   ]
 }

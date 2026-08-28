@@ -1,32 +1,11 @@
 {
-  "date": "2026-08-28",
   "section": "design",
+  "date": "2026-08-29",
   "media": [
-    {
-      "id": "design-photoshop-ai",
-      "type": "image",
-      "src": "pipeline/media/design-photoshop-ai.jpg"
-    },
-    {
-      "id": "design-google-flow",
-      "type": "video",
-      "src": "pipeline/media/design-google-flow.mp4",
-      "poster": "pipeline/media/design-google-flow.jpg"
-    },
-    {
-      "id": "design-system-control-plane",
-      "type": "image",
-      "src": "pipeline/media/design-system-control-plane.jpg"
-    },
-    {
-      "id": "design-cursor-harness",
-      "type": "image",
-      "src": "pipeline/media/design-cursor-harness.jpg"
-    },
-    {
-      "id": "design-fusion-forward",
-      "type": "image",
-      "src": "pipeline/media/design-fusion-forward.jpg"
-    }
+    { "id": "design-figma-workflow-lab", "type": "image", "src": "pipeline/media/design-figma-workflow-lab.png" },
+    { "id": "design-figma-ai-index", "type": "image", "src": "pipeline/media/design-figma-ai-index.png" },
+    { "id": "design-aia-contract-assistant", "type": "image", "src": "pipeline/media/design-aia-contract-assistant.jpg" },
+    { "id": "design-android-xr-listening-area", "type": "image", "src": "pipeline/media/design-android-xr-listening-area.jpg" },
+    { "id": "design-muse-image-ai-gateway", "type": "image", "src": "pipeline/media/design-muse-image-ai-gateway.png" }
   ]
 }

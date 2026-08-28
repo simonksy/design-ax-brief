@@ -1,31 +1,29 @@
 {
-  "date": "2026-08-28",
-  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-android-ram",
+      "id": "gadgets-lg-gm9",
       "type": "image",
-      "src": "pipeline/media/gadgets-android-ram.jpg"
+      "src": "pipeline/media/gadgets-lg-gm9.jpg"
     },
     {
-      "id": "gadgets-meta-led",
+      "id": "gadgets-xreal-xr",
       "type": "image",
-      "src": "pipeline/media/gadgets-meta-led.jpg"
+      "src": "pipeline/media/gadgets-xreal-xr.jpg"
     },
     {
-      "id": "gadgets-plaud-one",
+      "id": "gadgets-xiaomi-cube",
       "type": "image",
-      "src": "pipeline/media/gadgets-plaud-one.jpg"
+      "src": "pipeline/media/gadgets-xiaomi-cube.png"
     },
     {
-      "id": "gadgets-microduck",
+      "id": "gadgets-oneui9-beta7",
       "type": "image",
-      "src": "pipeline/media/gadgets-microduck.jpg"
+      "src": "pipeline/media/gadgets-oneui9-beta7.jpg"
     },
     {
-      "id": "gadgets-whoop-meridian",
+      "id": "gadgets-viture-phantom",
       "type": "image",
-      "src": "pipeline/media/gadgets-whoop-meridian.jpg"
+      "src": "pipeline/media/gadgets-viture-phantom.jpg"
     }
   ]
 }

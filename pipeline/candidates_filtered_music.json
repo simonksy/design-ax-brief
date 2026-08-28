@@ -1,101 +1,112 @@
 {
-  "generated_at": "2026-08-27T22:04:22Z",
+  "date": "2026-08-29",
   "section": "music",
+  "now_iso": "2026-08-28T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
+      "category": "music",
+      "title": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
+      "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
+      "source": "Synthtopia",
+      "published_iso": "2026-08-27T13:58:21+00:00",
+      "excerpt": "StemDeck is a free, open-source stem extraction platform that isolates vocals, drums, bass, piano and guitar for practice, transcription, remixing and creative audio workflows. It runs locally on Linux, macOS and Windows.",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png",
+      "why": "Free open-weights-style separation moves a core AI production step off paid cloud services and onto the producer's own machine."
+    },
+    {
+      "category": "music",
+      "title": "Free Generative Sequencer For iPad & Mac, Organismi OR-1",
+      "url": "https://www.synthtopia.com/content/2026/08/26/free-generative-sequencer-for-ipad-mac-organismi-or-1/",
+      "source": "Synthtopia",
+      "published_iso": "2026-08-27T04:48:36+00:00",
+      "excerpt": "Organismi Instruments OR-1 is a free generative MIDI sequencer for iPad and Mac that creates \"patterns that breathe on their own,\" evolving material algorithmically rather than from fixed step programming.",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/organismi-or-1-generative-sequencer-ipad.jpg",
+      "why": "Generative composition as a free everyday tool — a concrete shift in how ideas get sketched, not an AI-industry headline."
+    },
+    {
+      "category": "music",
+      "title": "Dr Dre has words for those who oppose the use of AI in music: \"You sound like the person that would have been against the drum machine\"",
+      "url": "https://www.musicradar.com/music-tech/dr-dre-has-words-for-those-who-oppose-the-use-of-ai-in-music-you-sound-like-the-person-that-would-have-been-against-the-drum-machine-when-it-came-out-or-synthesizers",
+      "source": "MusicRadar",
+      "published_iso": "2026-08-24T13:51:14Z",
+      "excerpt": "Dr Dre says he is actively using AI in production and compares resistance to it with earlier panic over drum machines and synthesizers, drawing sharp pushback from parts of the industry.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/JxTGwWnH8CvFAnWk4TREDU-1200-80.jpg",
+      "why": "A canonical producer publicly normalising AI in the studio — a marker for how quickly the craft norm is moving."
+    },
+    {
+      "category": "music",
+      "title": "AI Remix Platform Hook Scores 'Landmark' Universal Music Deal",
+      "url": "https://www.digitalmusicnews.com/2026/08/19/hook-universal-music-deal/",
+      "source": "Digital Music News",
+      "published_iso": "2026-08-19T16:11:25+00:00",
+      "excerpt": "AI remix and mashup platform Hook signed a licensing agreement with Universal Music, with attribution and artist control written into the deal — opening licensed remixing of major-label catalogue to everyday creators.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/hook-universal-music-deal.png",
+      "why": "Licensed AI remixing of major-label catalogue changes what fans and creators are legally allowed to make."
+    },
+    {
+      "category": "music",
+      "title": "The End of the Definitive Recording",
+      "url": "https://www.digitalmusicnews.com/2026/08/26/end-of-the-definitive-recording/",
+      "source": "Digital Music News",
+      "published_iso": "2026-08-26T22:44:44+00:00",
+      "excerpt": "An argument that recording is shifting from fixed, definitive versions to adaptive, generative experiences reshaped per listener and context by AI systems.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/The-End-of-the-Definitive-Recording.png",
+      "why": "Directly challenges the master-recording as a design object — what does 'finished' mean when playback is generative?"
+    },
+    {
+      "category": "music",
+      "title": "Universal and Sony file amended Suno lawsuit after judge gives all clear to add stream ripping claims",
+      "url": "https://completemusicupdate.com/universal-and-sony-file-amended-suno-lawsuit-after-judge-gives-all-clear-to-add-stream-ripping-claims/",
+      "source": "Complete Music Update",
+      "published_iso": "2026-08-28T16:15:40Z",
+      "excerpt": "A judge cleared UMG and Sony to add claims that Suno acquired training data by stream-ripping YouTube; the majors have now filed the amended complaint.",
+      "og_image": "https://completemusicupdate.com/wp-content/uploads/2026/02/suno.jpg",
+      "why": "The one legal item today: how training data was obtained is becoming the decisive question for every generative music tool."
+    },
+    {
+      "category": "music",
+      "title": "Voxis from CEDAR Audio",
+      "url": "https://www.soundonsound.com/news/voxis-cedar-audio",
+      "source": "Sound On Sound",
+      "published_iso": "2026-08-28T17:00:46+01:00",
+      "excerpt": "CEDAR Audio's Voxis is a low-latency voice isolator optimised for live environments, pulling speech and vocals out of troublesome background noise in real time.",
+      "og_image": "https://www.soundonsound.com/sites/default/files/styles/max_1300x1300/public/news/CEDAR-Voxis.jpg",
+      "why": "Real-time source separation moving from offline post to the live console — latency is the design constraint that just fell."
+    },
+    {
+      "category": "music",
+      "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs",
+      "url": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
+      "source": "MarkTechPost",
+      "published_iso": "2026-08-17T18:36:40+00:00",
+      "excerpt": "MiniMax-Music3 generates five-minute songs from lyrics plus a structured caption, shipping with open weights, 32kHz stereo output and permission for commercial use.",
+      "og_image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog619100-1-2-1024x731.png",
+      "why": "Off-list exception: no allowed-domain music outlet covered this open-weights, commercially usable full-song model — a direct alternative to closed Suno/Udio pipelines."
+    },
+    {
+      "category": "music",
+      "title": "How Each Music Listening Platform Is Treating AI Music (Updating)",
       "url": "https://www.billboard.com/lists/how-each-music-listening-platform-treats-ai-music/",
       "source": "Billboard",
-      "category": "music",
-      "headline": "How Each Music Listening Platform Is Treating AI Music (Updating)",
       "published_iso": "2026-08-27T20:59:24+00:00",
-      "excerpt": "From BandCamp's ban of AI music to Spotify's \"AI Personas,\" here's how all the online music platforms are dealing with the flood of AI songs.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024"
+      "excerpt": "A running tracker of platform policy on AI music — from Bandcamp and iHeartRadio bans to Spotify's \"AI Persona\" badges, Apple Music's \"Made With AI\" labels and Tidal's refusal to monetise AI tracks.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024",
+      "why": "One map of every distribution gate an AI-assisted release now has to pass — directly affects how work gets shipped."
     },
     {
-      "url": "https://www.billboard.com/pro/alibaba-launched-ai-music-generator-happy-shrimp/",
-      "source": "Billboard",
       "category": "music",
-      "headline": "Chinese Tech Giant Alibaba Launches New AI Music Generator Called ‘Happy Shrimp’",
-      "published_iso": "2026-08-18T16:26:29+00:00",
-      "excerpt": "Partnering with Chinese major TAIHE MUSIC GROUP, Alibaba's AI music generator Happy Shrimp uses artificial intelligence to make fully produced songs.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/08/1091456116-e1787068208459.jpg?w=1024"
-    },
-    {
+      "title": "Billboard Affirms Commitment to Transparency Around AI-Generated Music",
       "url": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/",
       "source": "Billboard",
-      "category": "music",
-      "headline": "Billboard Affirms Commitment to Transparency Around AI-Generated Music",
       "published_iso": "2026-08-25T14:15:00+00:00",
-      "excerpt": "Billboard announces commitment to creating transparency around the use of AI in music, including identifying songs on its charts that use AI.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2025/01/Billboard-logo-BB-placeholder-1548.jpg?w=1024"
-    },
-    {
-      "url": "https://musictech.com/news/music/dr-dre-embracing-ai-new-tool/",
-      "source": "MusicTech",
-      "category": "music",
-      "headline": "Dr. Dre says he is “embracing” AI in music: “It’s a new tool for creativity”",
-      "published_iso": "2026-08-24T16:25:12+00:00",
-      "excerpt": "“I think the only people that see it as a threat are the people who have trouble creating,” Dr. Dre says.",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Pictured-at-the-2026-Grammy-Awards-Dr.-Dre-1068x801.jpg"
-    },
-    {
-      "url": "https://www.musicradar.com/guitars/neural-dsp-quad-cortex-quad-cortex-mini-coros-4-1-0-update",
-      "source": "MusicRadar",
-      "category": "music",
-      "headline": "“It fundamentally changes how quickly musicians can build sounds”: Neural DSP adds Device Presets and expands Quad Cortex functionality in huge update that’ll help you spend less time tweaking",
-      "published_iso": "2026-08-26T16:51:03Z",
-      "excerpt": "CorOS and Cortex Control 4.1.0 expands plugin compatibility, adds eight new virtual devices and supports multiple device management – but are Device Presets the game-changer?",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mexQr39ddZwN2wbuJW49qV-1920-80.jpg"
-    },
-    {
-      "url": "https://www.gearnews.com/beatport-bans-fully-ai-generated-music-tech/",
-      "source": "Gearnews",
-      "category": "music",
-      "headline": "Beatport Now Bans Fully AI-Generated Music, Effective Immediately: New Detection Tool in Action",
-      "published_iso": "2026-08-17T09:53:11+02:00",
-      "excerpt": "Beatport is banning fully AI-generated music and rolling out the Beatdapp detection tool to enforce it. 77% of DJs say they want music from real artists.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Beatport-AI-ban-T.jpg"
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "headline": "ARIA blocks AI-generated recordings from Australia’s official charts",
-      "published_iso": "2026-08-26T13:52:50+00:00",
-      "excerpt": "The updated ARIA Charts Code of Practice takes effect from the chart dated August 31, which is published on August 28.",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif"
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/judge-refuses-to-dismiss-indie-artists-proposed-class-action-against-suno-clearing-ai-output-and-stream-ripping-claims-for-discovery/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "headline": "Judge refuses to dismiss indie artist’s proposed class action against Suno, clearing AI output and stream-ripping claims for discovery",
-      "published_iso": "2026-08-27T18:59:12+00:00",
-      "excerpt": "Only one count fell: a claim under the Tennessee Consumer Protection Act, which the plaintiffs told the court they had cited by mistake.",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/rsw_1240h_620cg_true-e1787796708125.webp"
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/08/20/universal-music-patents-licensing-deals-udio-grai/",
-      "source": "Digital Music News",
-      "category": "music",
-      "headline": "Universal Music JV Licenses 24+ AI Patents to Udio and GRAI",
-      "published_iso": "2026-08-21T05:00:26+00:00",
-      "excerpt": "Universal Music has licensed north of two dozen AI patents to Udio and GRAI via its 'Music IP Holdings' JV with Liquidax.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/UMG-Patent-Licensing.jpg"
-    },
-    {
-      "url": "https://mixmag.net/read/40-percent-music-released-july-show-signs-ai-involvement-study-submithub-news",
-      "source": "Mixmag",
-      "category": "music",
-      "headline": "AI detected in 40% of music released in July, study reveals",
-      "published_iso": "2026-08-18T12:00:00+00:00",
-      "excerpt": "By analysing over a million releases, SubmitHub’s AI music detector found that the use of AI in production is prevalent",
-      "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/submithub-ai-credit-cottonbro-studio.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=IrJKaFoTJdzmlxYSdrQ9REz_LuFUmeIvtuH4jbSoE0U"
+      "excerpt": "Billboard commits to identifying songs on its charts that use AI, setting out how it will flag AI involvement across its charts and coverage.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/01/Billboard-logo-BB-placeholder-1548.jpg?w=1024",
+      "why": "Chart-level disclosure turns 'did you use AI?' into a metadata field creators must answer at release."
     }
   ],
   "dedup": {
-    "dropped": 3,
+    "dropped": 6,
     "kept": 10,
     "against_days": 5
   }

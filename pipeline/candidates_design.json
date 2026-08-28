@@ -1,152 +1,197 @@
 {
   "section": "design",
-  "generated_at": "2026-08-27T22:04:22Z",
-  "now_iso": "2026-08-27T22:04:22Z",
+  "generated_at": "2026-08-28T22:05:00Z",
+  "now_iso": "2026-08-28T22:05:00Z",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
+      "url": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
+      "source": "Figma",
+      "category": "figma",
+      "headline": "Figma rebuilt its AI-impact study with AI — and says the measurement problem is the real story",
+      "published_iso": "2026-08-28T19:30:00Z",
+      "excerpt": "Figma revisits the study it started in 2024 on how AI reshapes design and product development, and this time uses AI to run the research itself. The post digs into what design orgs can actually measure about AI's effect on their work.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/8ca1f5a5603ac375aedd98cc7840afa22bfa23ec-1682x918.png?w=1200&q=70&fit=max&auto=format"
+    },
+    {
+      "url": "https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/",
+      "source": "Figma",
+      "category": "figma",
+      "headline": "Figma's Workflow Lab: keeping canvas and code in sync when agents write the front end",
+      "published_iso": "2026-08-26T22:00:00Z",
+      "excerpt": "Coding agents are reshaping how developers build, but they're only as good as the context they're given. Figma walks through a concrete workflow for moving between design and code with agents without losing design intent.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/356af9d26d468eaf36ed3ae4d372a1cb95182137-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+    },
+    {
+      "url": "https://www.builder.io/blog/connecting-teams-agentic-apps",
+      "source": "Builder.io",
+      "category": "figma",
+      "headline": "Builder.io: agentic apps stitch design, SEO, analytics and finance into one launch loop",
+      "published_iso": "2026-08-26T18:00:00Z",
+      "excerpt": "Builder.io shows how agentic apps connect SEO, analytics, finance and design so siloed team workflows become launch-ready campaigns and working prototypes much faster.",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/3aff620dbcbe42f3aa87b8d9e219b056?width=1200"
+    },
+    {
+      "url": "https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language",
+      "source": "Vercel",
+      "category": "figma",
+      "headline": "Vercel's Workflow SDK makes durable agent workflows look like ordinary code",
+      "published_iso": "2026-08-27T07:00:00Z",
+      "excerpt": "Vercel details how it built the Workflow SDK: durable workflows that read like normal code, run on infrastructure teams already have, and aim to make steps effectively free. It lowers the bar for designers prototyping multi-step agent products.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3h6sJz0ibk8nxTTNDgLUfn/070193d70e4380485c2d47c9526eca89/image__30_.png"
+    },
+    {
+      "url": "https://vercel.com/changelog/muse-image-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "figma",
+      "headline": "Meta's Muse Image lands on Vercel AI Gateway — one key for image generation in prototypes",
+      "published_iso": "2026-08-26T00:00:00Z",
+      "excerpt": "Meta's Muse Image model is now callable through Vercel AI Gateway with a single API key: no provider account, automatic fallbacks, spend tracking and traces on every request. It makes image generation trivial to drop into a design prototype.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png"
+    },
+    {
+      "url": "https://dev.to/gemel_uxa/ai-in-ux-design-what-actually-changes-and-what-doesnt-n7",
+      "source": "DEV Community",
+      "category": "tokens",
+      "headline": "AI in UX design: what actually changes in the craft, and what stubbornly doesn't",
+      "published_iso": "2026-08-28T15:47:06Z",
+      "excerpt": "A practitioner breakdown of which parts of UX work AI genuinely compresses — research synthesis, variant generation, copy — and which parts (judgment, framing, taste) it leaves untouched.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7g79kcmym0pv3yzvnbvp.png"
+    },
+    {
+      "url": "https://dev.to/easha09978/why-room-design-ai-needs-better-constraints-not-longer-prompts-29f6",
+      "source": "DEV Community",
+      "category": "tokens",
+      "headline": "Why generative room design fails on longer prompts — and wins on tighter constraints",
+      "published_iso": "2026-08-28T06:19:57Z",
+      "excerpt": "The first failed room concept usually gets the wrong diagnosis: designers add more prompt detail when the real fix is constraint design. A practical argument for treating spatial AI output as a constraint problem, not a prompting problem.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fme2om1fbcpeptg4b1y0m.png"
+    },
+    {
+      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
+      "source": "80 Level",
+      "category": "render",
+      "headline": "Tripo's Smart Mesh generates game-ready topology in seconds, not retopo hours",
+      "published_iso": "2026-08-28T15:00:00Z",
+      "excerpt": "Tripo co-founder and chief scientist Dr. Yanpei Cao explains Smart Mesh — usable topology generated in seconds — plus Gaussian splats, more artist control over generated assets, and the shift from single-asset generation to whole interactive worlds.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49865/images/6a8caa21e033b/contain_1200x630.jpg"
+    },
+    {
+      "url": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
       "source": "Creative Bloq",
-      "category": "wildcard",
-      "headline": "Adobe seems to be fully embracing AI prompt-based editing in Photoshop",
-      "published_iso": "2026-08-27T13:00:00Z",
-      "excerpt": "Adobe has launched a new AI Assisted Editor mode in Photoshop, where the whole edit is driven by prompts rather than tools. It signals how far Adobe is willing to push prompt-first editing into a pro workflow.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gcxqpJupoHi2PGXgAHX4j-1440-80.jpg"
+      "category": "render",
+      "headline": "Nvidia's leaked DLSS 5 AI filter rewrites game art — and players hate it",
+      "published_iso": "2026-08-28T14:54:43Z",
+      "excerpt": "A leaked DLSS 5 AI filter that restyles character models is drawing an 'unsettling' reaction, with Final Fantasy 7's Cloud among the mangled examples. A live test of what happens when generative filters override an art director's intent.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DFQGA2GdkgQRVqhL7bZ5uk-1920-80.jpg"
+    },
+    {
+      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+      "source": "fxguide",
+      "category": "render",
+      "headline": "On-prem open-weight models are becoming the stable option for generative media pipelines",
+      "published_iso": "2026-08-28T10:43:50-05:00",
+      "excerpt": "fxguide looks at studios adopting open-weight generative models on-premises, and how that changes workflow stability, security, cost predictability and delivery efficiency versus API-only creative AI.",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-OpenWeights.jpg"
+    },
+    {
+      "url": "https://develop3d.com/cad/qa-siemens-digital-industries-ceo-tony-hemmelgarn/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "headline": "Siemens' CEO on what AI inside product development software really changes for designers",
+      "published_iso": "2026-08-26T10:32:18Z",
+      "excerpt": "Siemens Digital Industries Software CEO Tony Hemmelgarn on how the platform is evolving, where AI is being integrated into product development tools, and what that means for the people doing the designing.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/08/tony-hemmelgarn-RealizeLIVE_26-develop3d-interview.jpg"
+    },
+    {
+      "url": "https://www.engineering.com/aia-contract-documents-launches-ai-assistant-and-names-cto/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "headline": "AIA puts an AI assistant inside architecture's contract-document workflow",
+      "published_iso": "2026-08-28T10:36:30Z",
+      "excerpt": "AIA Contract Documents launched an AI Assistant for the industry-standard contracts architects and designers work from daily, alongside naming a new CTO — a sign of AI moving into the paperwork layer of design practice.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/acd-1.jpg"
     },
     {
       "url": "https://www.creativebloq.com/ai/this-indie-dev-found-a-use-for-ai-but-says-the-project-was-still-firmly-human-led",
       "source": "Creative Bloq",
-      "category": "wildcard",
-      "headline": "This indie dev found a use for AI but says the project was still firmly human led",
+      "category": "workflow",
+      "headline": "An indie dev turned his pixel-art game into an AI-made series — and insists it stayed human-led",
       "published_iso": "2026-08-27T16:00:00Z",
-      "excerpt": "HaZ Dulull turned his own pixel-art game into an animated series using AI tools, but insists the creative direction stayed human-led. A concrete look at where AI sits inside a small creative pipeline.",
+      "excerpt": "HaZ Dulull adapted his own pixel art game Astro Burn into an animated series using AI tooling, while keeping creative direction firmly human. A concrete look at where AI sits inside a small creative team's pipeline.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/Gj9mAJAYfB8yPTYWRY3p9R-1920-80.jpg"
     },
     {
-      "url": "https://dev.to/astroscout/a-visual-interface-between-humans-and-coding-agents-di",
-      "source": "DEV Community",
-      "category": "figma",
-      "headline": "A Visual Interface Between Humans and Coding Agents",
-      "published_iso": "2026-08-27T19:48:36Z",
-      "excerpt": "Pixy is an attempt to give coding agents a visual surface humans can actually steer, instead of a wall of terminal text. It reframes design-to-code handoff as a shared canvas problem.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnmv027asgcpld6w7x935.png"
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "source": "VentureBeat",
+      "category": "workflow",
+      "headline": "The real agent risk isn't autonomy — it's the complexity between the agents",
+      "published_iso": "2026-08-27T14:01:00Z",
+      "excerpt": "VentureBeat argues that enterprise AI failure modes come from the seams between agents rather than any single autonomous agent, which reframes how teams should design handoffs and review points.",
+      "og_image": null
     },
     {
-      "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
-      "source": "Vercel",
-      "category": "figma",
-      "headline": "Cursor is now available in the AI SDK harness layer",
-      "published_iso": "2026-08-27T14:47:00Z",
-      "excerpt": "Cursor now runs through Vercel's AI SDK harness layer via @ai-sdk/harness-cursor, using the same HarnessAgent interface as every other supported harness. Design-to-code agents become swappable infrastructure.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1n6Al2Mlj10A9dU0k4zUpy/b777fa1e7e2bc5191f17cdf5372114fd/cursor_ai_sdk_harness_adapter_og_card_og_card.jpg"
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "source": "VentureBeat",
+      "category": "workflow",
+      "headline": "Orchestration becomes the new CX design problem in the age of AI agents",
+      "published_iso": "2026-08-26T14:30:00Z",
+      "excerpt": "As agents take over more customer touchpoints, the hard design work moves from individual screens to orchestrating the whole experience across agents and channels.",
+      "og_image": null
+    },
+    {
+      "url": "https://www.cio.com/article/4214992/shadow-agents-make-the-old-shadow-it-problem-worse.html",
+      "source": "CIO",
+      "category": "workflow",
+      "headline": "'Shadow agents' are the new shadow IT — and product teams are shipping them",
+      "published_iso": "2026-08-27T16:32:53-04:00",
+      "excerpt": "Shadow agents can act inside company systems before IT even knows they exist, making visibility and verification urgent. Relevant to any design org quietly wiring agents into its own tooling.",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/08/4214992-0-52892200-1787911405-collin-8FxJi5wuwKc-unsplash.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62",
+      "source": "UX Collective",
+      "category": "workflow",
+      "headline": "AI has a hospitality problem money can't fix",
+      "published_iso": "2026-08-26T21:51:09Z",
+      "excerpt": "An argument that AI products keep failing at the hospitality layer — the felt sense of being hosted, guided and cared for — and that no amount of model spend fixes what is fundamentally a design problem.",
+      "og_image": null
     },
     {
       "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1",
       "source": "UX Collective",
-      "category": "figma",
+      "category": "workflow",
       "headline": "What Blade Runner got wrong about AI (so far)",
       "published_iso": "2026-08-27T20:22:49Z",
-      "excerpt": "A designer re-reads Blade Runner's predictions against the AI interfaces we actually shipped. The gap between cinematic AI and everyday product AI turns out to be a design story.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*a8cp1y4kq63ABYEALRNWEw.png"
-    },
-    {
-      "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix",
-      "source": "UX Collective",
-      "category": "figma",
-      "headline": "AI has a hospitality problem money can't fix",
-      "published_iso": "2026-08-26T21:51:09Z",
-      "excerpt": "Dan Maccarone argues AI products keep failing at hospitality — the felt sense of being hosted — and no amount of model spend fixes it. It puts service design back at the center of AI UX.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*fLVFiV48q_7pvwepVB6ovg.png"
-    },
-    {
-      "url": "https://www.oreilly.com/radar/the-design-system-as-the-control-plane-for-ai-generated-ui/",
-      "source": "O'Reilly Radar",
-      "category": "tokens",
-      "headline": "The Design System as the Control Plane for AI-Generated UI",
-      "published_iso": "2026-08-25T16:10:25Z",
-      "excerpt": "When agents can generate a form, dashboard or modal on demand, the design system stops being a component library and becomes the control plane that constrains what AI is allowed to produce.",
-      "og_image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/The-Design-System-as-the-Control-Plane-for-AI-Generated-UI-1600x1244.jpg"
-    },
-    {
-      "url": "https://www.netguru.com/blog/ai-first-design-systems-allegro-predictable-scale",
-      "source": "Netguru",
-      "category": "tokens",
-      "headline": "How Allegro Builds AI-First Design Systems for Predictable Scale",
-      "published_iso": "2026-08-26T09:29:50Z",
-      "excerpt": "A case study on how Allegro restructured its design system so AI generation produces predictable, on-brand output at scale. Tokens and governance do the heavy lifting.",
+      "excerpt": "A designer's reading of how sci-fi's AI imagery diverges from the actual interfaces we ended up building, and what that gap suggests about designing today's AI products.",
       "og_image": null
     },
     {
-      "url": "https://80.lv/articles/create-seamless-psx-textures-from-photos-with-this-newly-released-tool/",
-      "source": "80 Level",
-      "category": "render",
-      "headline": "Create Seamless PSX Textures from Photos with Cycletex: Retro Texture",
-      "published_iso": "2026-08-26T09:08:00Z",
-      "excerpt": "Cycletex: Retro Texture turns ordinary photos into seamless 32-bit-era textures, compressing a fiddly manual step in retro art pipelines into one pass.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49893/images/6a8ead1443bd4/contain_1200x630.jpg"
+      "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
+      "source": "Road to VR",
+      "category": "vr",
+      "headline": "Google's 'Listening area' turns Android XR glasses into a spatial AI translation UI",
+      "published_iso": "2026-08-26T13:14:07Z",
+      "excerpt": "Google is reportedly testing a 'Listening area' mode for Live Translate on Android XR — a spatial interaction pattern that could become the headline feature of its upcoming smart glasses.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg"
     },
     {
-      "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools",
-      "source": "Animation World Network",
-      "category": "workflow",
-      "headline": "Adobe Unveils New Photoshop AI Tools",
-      "published_iso": "2026-08-27T14:44:19Z",
-      "excerpt": "Photoshop gains a non-destructive Light Adjustment Layer, Firefly Image 5-powered Instruct Edit with Masks, visual Markup prompting, and a beta AI Assisted Editor. The update pushes prompting into layer-level craft.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=4UVjZuUc"
-    },
-    {
-      "url": "https://www.core77.com/posts/145176/Autodesks-Own-Luke-Mihelcic-on-Judging-the-Fusion-Forward-Competition",
-      "source": "Core77",
-      "category": "cad",
-      "headline": "Autodesk's Own Luke Mihelcic on Judging the Fusion Forward Competition",
-      "published_iso": "2026-08-27T13:15:00Z",
-      "excerpt": "Autodesk's Luke Mihelcic warns designers against outsourcing creativity and critical thinking to AI, even while championing what it opens up in Fusion-based industrial design work.",
-      "og_image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847509_lead_400_145176_.jpg"
-    },
-    {
-      "url": "https://www.cio.com/article/4214300/human-in-the-loop-ai-is-becoming-the-default-not-the-exception.html",
-      "source": "CIO",
-      "category": "workflow",
-      "headline": "Human-in-the-loop AI is becoming the default, not the exception",
-      "published_iso": "2026-08-27T09:00:00Z",
-      "excerpt": "Organizations are wiring human oversight into AI workflows as a default rather than a safety valve, changing how review, approval and accountability get designed into tools.",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/08/4214300-0-16500600-1787821478-shutterstock_1368896930.jpg?quality=50&strip=all&w=1024"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
-      "source": "Google",
-      "category": "render",
-      "headline": "Google Flow brings new creative control features to enhance video editing",
-      "published_iso": "2026-08-27T16:00:00Z",
-      "excerpt": "Google Flow adds new creative controls on top of Gemini Omni 1.1 Flash, giving video creators finer direction over generated footage instead of one-shot prompting.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-1440x810.png"
-    },
-    {
-      "url": "https://www.creativeboom.com/inspiration/this-rebrand-of-voice-journaling-app-untold-shows-what-happens-when-ai-branding-doesnt-look-like-ai/",
-      "source": "Creative Boom",
-      "category": "wildcard",
-      "headline": "This rebrand of a voice-journalling app looks lovely, but is an 'AI illustration system' the right call?",
-      "published_iso": "2026-08-26T05:30:00Z",
-      "excerpt": "The Working Assembly built Untold's new identity around a generative 'AI illustration system' that deliberately avoids gen-AI cliches. It's a live test of whether AI can be a brand system, not just a shortcut.",
-      "og_image": "https://creative-boom-media.lon1.cdn.digitaloceanspaces.com/1cf7df1d-aec0-444b-922f-b8eaee0d4f46/conversions/eb533a1331299a43b1406a0642a95c3066015e2c-medium.webp"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=hemQKKkr1LQ",
-      "source": "Adobe",
+      "url": "https://www.youtube.com/watch?v=rKo9iLGjUbs",
+      "source": "Matt Wolfe (YouTube)",
       "category": "social",
-      "headline": "Communicating Your Vision with Intention Using AI | Leading Creative Projects with AI",
-      "published_iso": "2026-08-25T16:01:35Z",
-      "excerpt": "Adobe's series on leading creative projects with AI turns to the hardest part: communicating creative intent clearly enough that AI-assisted teams land the vision.",
-      "og_image": "https://i.ytimg.com/vi/hemQKKkr1LQ/maxresdefault.jpg"
+      "headline": "Matt Wolfe builds a full internal business app for free — no engineers involved",
+      "published_iso": "2026-08-26T22:36:30Z",
+      "excerpt": "Matt Wolfe walks through building a free app that runs an entire business operation using current AI builders — a hands-on look at how far prompt-to-app tooling has come for non-engineers.",
+      "og_image": "https://i.ytimg.com/vi/rKo9iLGjUbs/maxresdefault.jpg"
     },
     {
-      "url": "https://www.youtube.com/watch?v=npCgh0d-OBc",
-      "source": "Adobe",
+      "url": "https://www.youtube.com/watch?v=yshSzI1rAMs",
+      "source": "The AI Advantage (YouTube)",
       "category": "social",
-      "headline": "Spice up your content with image-to-video in Adobe Firefly",
-      "published_iso": "2026-08-25T21:50:26Z",
-      "excerpt": "A walkthrough of Firefly's image-to-video, turning existing stills and brand assets into motion without leaving the Adobe pipeline.",
-      "og_image": "https://i.ytimg.com/vi/npCgh0d-OBc/maxresdefault.jpg"
+      "headline": "Putting Claude's new browser to real work",
+      "published_iso": "2026-08-28T18:53:03Z",
+      "excerpt": "A practical walkthrough of Claude's new browser agent on real tasks, showing where a browsing agent actually holds up inside a working day — research, competitive audits, repetitive UI chores.",
+      "og_image": "https://i.ytimg.com/vi/yshSzI1rAMs/maxresdefault.jpg"
     }
   ]
 }

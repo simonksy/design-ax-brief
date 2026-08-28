@@ -1,61 +1,109 @@
 {
-  "date": "2026-08-28",
   "section": "movies",
+  "generated_at": "2026-08-29T00:00:00Z",
+  "selected_by": "ax-curator (user deferred — auto-pick)",
+  "dedup": {
+    "against_days": 5,
+    "history_cards_checked": 30,
+    "dropped_as_duplicate": [
+      {
+        "url": "https://nofilmschool.com/eddie-ai-updates-pricing",
+        "reason": "In-pool duplicate of the CineD Eddie AI story — same event (pay-as-you-go credits + MCP server + iPhone app). Kept the CineD article, which is the fuller primary write-up."
+      },
+      {
+        "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools",
+        "reason": "Same URL already published 2026-08-28 in the design section (card design-photoshop-ai). Cross-section collision — dropped here."
+      },
+      {
+        "url": "https://www.provideocoalition.com/filmmaking-research-and-production-courses-at-etc-use-beeble/",
+        "reason": "NOT dropped — kept as rank 3. (The AWN version of the same USC/Beeble story, https://www.awn.com/news/usc-adds-beeble-ai-production-tools-filmmaking-courses, was dropped as the in-pool duplicate to keep outlet spread at 4 distinct domains.)"
+      },
+      {
+        "url": "https://www.awn.com/news/usc-adds-beeble-ai-production-tools-filmmaking-courses",
+        "reason": "In-pool duplicate of the ProVideo Coalition USC/Beeble story — same event. Kept the ProVideo Coalition article for outlet diversity."
+      }
+    ],
+    "deprioritized": [
+      {
+        "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+        "reason": "Legitimate movies/VFX pick, but it also sits in the design pool (cross-section de-confliction) and overlaps thematically with the 2026-08-25 fxguide card 'Impossible Objects — AI models running on HP ZGX Nano' (on-prem models, client data security). Five stronger unique picks were available without it."
+      },
+      {
+        "url": "https://beforesandafters.com/2026/08/25/six-thousand-people-made-a-three-minute-film-about-a-future-worth-living-in/",
+        "reason": "Fresh and distinct, but lowest actionability in the pool — a festival/competition item rather than a tool or workflow change."
+      }
+    ]
+  },
   "picks": [
     {
-      "url": "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
-      "source": "404 Media",
+      "rank": 1,
+      "category": "movies",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "The studio behind the world's biggest kids' channel formally tells its own artists to start using AI — the clearest signal yet of how animation job descriptions are being rewritten.",
-      "published_iso": "2026-08-27T15:33:32+00:00",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-27-at-07.55.58@2x.png",
-      "excerpt": "Moonbug Entertainment, which makes Cocomelon, Blippi, and other popular content for children, says it will begin using AI but will always have a 'human in the loop.'"
+      "headline": "Eddie AI Overhauled - Pay-As-You-Go Pricing, Editing from Claude and ChatGPT, and an iPhone App",
+      "url": "https://www.cined.com/eddie-ai-overhauled-pay-as-you-go-pricing-editing-from-claude-and-chatgpt-and-an-iphone-app/",
+      "source": "CineD",
+      "published_iso": "2026-08-28T08:57:50+00:00",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/Eddie-AI.jpeg",
+      "excerpt": "Eddie AI drops subscriptions for a credit model and exposes roughly 100 tools over MCP, so editors can drive a rough cut from inside Claude or ChatGPT. Exports still land in Premiere Pro, DaVinci Resolve and Final Cut, and a new iPhone app handles prompts and review on the move.",
+      "rationale": "Assistant-editor work moves into the chat window and off a subscription — the day's clearest change to how an editor can actually work tomorrow."
     },
     {
-      "url": "https://www.redsharknews.com/media-composer-2026-8-features",
-      "source": "RedShark News",
+      "rank": 2,
+      "category": "movies",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "A concrete NLE release editors can act on this week: Shared Projects changes, new AI tools and Ready to Edit land in Media Composer ahead of IBC2026.",
-      "published_iso": "2026-08-27T12:08:46+00:00",
-      "og_image": "https://www.redsharknews.com/hubfs/Avid%20ready%20to%20edit.jpg",
-      "excerpt": "Media Composer 2026.8 adds Shared Projects options, AI tools and Ready to Edit ahead of IBC2026."
+      "headline": "New CG software you may have missed: 23 August 2026 (Slapshot Comfy nodes, Topaz Hyperion 2.5)",
+      "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-23-august-2026/",
+      "source": "CG Channel",
+      "published_iso": "2026-08-24T04:30:00+00:00",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_SlapshotComfyNodes_f-960x480.jpg",
+      "excerpt": "Slapshot's AI rotoscoping, camera tracking, motion-vector and depth tools are now Comfy nodes at $0.25 per processed frame, pulling core VFX prep into generative pipelines. The same roundup covers Topaz Hyperion 2.5 SDR-to-HDR conversion and Postshot 1.1.69 for Gaussian splats.",
+      "rationale": "Roto, tracking and depth arriving as priced ComfyUI nodes puts a real per-frame number on VFX prep — immediately budgetable for small shops."
     },
     {
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-wonka-reality-show-gene-wilder-1236682001/",
-      "source": "The Hollywood Reporter",
+      "rank": 3,
+      "category": "movies",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Netflix putting a digitally resurrected Gene Wilder on camera as a series host moves synthetic likeness from experiment to mainstream format — and sets the tone for the backlash.",
-      "published_iso": "2026-08-26T15:54:02+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Wonka.png?crop=0px%2C95px%2C2772px%2C1551px&resize=1440%2C810",
-      "excerpt": "The competition series trailer features the digitally resurrected Wilder as host and one of the original Oompa Loompa actors."
+      "headline": "Filmmaking research and production courses at ETC use Beeble",
+      "url": "https://www.provideocoalition.com/filmmaking-research-and-production-courses-at-etc-use-beeble/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-08-28T08:39:28-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/beebleetc001.jpg",
+      "excerpt": "ProVideo Coalition covers USC's Entertainment Technology Center adopting Beeble's AI relighting and scene-reconstruction stack for its filmmaking research and production courses. It signals AI compositing moving into how the next crew generation is trained.",
+      "rationale": "AI relighting and scene reconstruction becoming standard coursework at USC is the strongest signal yet that this stack is now baseline crew skill, not an experiment."
     },
     {
-      "url": "https://www.sixthtone.com/news/1018935",
-      "source": "Sixth Tone",
+      "rank": 4,
+      "category": "movies",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "An inside look at how a script-to-storyboard-to-generate-to-revise pipeline collapses a whole short-drama crew into one operator — the most concrete picture of an AI-native production workflow in the pool.",
-      "published_iso": "2026-08-25T09:44:08+00:00",
-      "og_image": "https://image5.sixthtone.com/image/5/99/695.jpg",
-      "excerpt": "Former animators, cinematographers, and VFX artists are helping build AI systems that can script, storyboard, generate, and revise short dramas with unprecedented speed."
+      "headline": "HaZ Dulull's 'Astro Burn' Game Comes to Life as AI-Assisted Micro-Series",
+      "url": "https://www.awn.com/news/haz-dululls-astro-burn-game-comes-life-ai-assisted-micro-series",
+      "source": "Animation World Network",
+      "published_iso": "2026-08-27T16:31:08-07:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/library_hero_2-1280.jpg?itok=sYWJEOM-",
+      "excerpt": "A self-described genAI skeptic turned his retro game into ten daily vertical shorts with Nura Studios on the Showcraft platform, using a locked-down model trained only on his own assets. It is a concrete template for IP-safe AI production and vertical distribution.",
+      "rationale": "A working, named recipe for IP-safe generative production — own-assets-only model plus vertical release — from a director who started out against it."
     },
     {
-      "url": "https://www.cgchannel.com/2026/08/scantic-trains-gaussian-splats-entirely-on-your-phone/",
-      "source": "CG Channel",
+      "rank": 5,
+      "category": "movies",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "On-device 3DGS scanning with no cloud round-trip and a free tier makes location and prop capture a same-day previs habit rather than a pipeline project.",
-      "published_iso": "2026-08-19T12:00:00+00:00",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.jpg",
-      "excerpt": "New iOS app generates 3DGS scans of objects and environments entirely on your phone, without cloud processing. The base app is free."
+      "headline": "Digital (De-)Aging and the Uncanny Valley Problem",
+      "url": "https://www.cined.com/digital-de-aging-and-the-uncanny-valley-problem/",
+      "source": "CineD",
+      "published_iso": "2026-08-28T10:44:15+00:00",
+      "og_image": "https://www.cined.com/content/uploads/2026/08/digital_deaging-feature_image.jpg",
+      "excerpt": "A craft breakdown of how aging and de-aging actually get built now, from prosthetics through Benjamin Button and Rogue One to today's ML-driven face pipelines. It maps why even expensive AI-assisted work still falls into the uncanny valley, and what supervisors do about it.",
+      "rationale": "Explains where ML face pipelines still break and why — the craft judgment a supervisor needs before green-lighting a de-aging shot."
     }
   ]
 }
