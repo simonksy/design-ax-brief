@@ -1,27 +1,30 @@
 {
+  "section": "books",
+  "date": "2026-08-30",
   "media": [
     {
-      "id": "books-ftc-book-destruction",
+      "id": "books-copyright-registration-gap",
+      "type": "image",
+      "src": "pipeline/media/books-copyright-registration-gap.jpg"
+    },
+    {
+      "id": "books-manga-million-translation",
+      "type": "image",
+      "src": "pipeline/media/books-manga-million-translation.jpg"
+    },
+    {
+      "id": "books-childrens-book-slop",
+      "type": "image",
+      "src": "pipeline/media/books-childrens-book-slop.jpg"
+    },
+    {
+      "id": "books-academic-ai-screening",
       "type": "svg"
     },
     {
-      "id": "books-claude-watermark-theatre",
-      "type": "svg"
-    },
-    {
-      "id": "books-kindle-catalog-dilution",
+      "id": "books-bartz-ai-thriller",
       "type": "image",
-      "src": "pipeline/media/books-kindle-catalog-dilution.jpg"
-    },
-    {
-      "id": "books-naver-webtoon-byus",
-      "type": "image",
-      "src": "pipeline/media/books-naver-webtoon-byus.jpg"
-    },
-    {
-      "id": "books-when-bots-write",
-      "type": "image",
-      "src": "pipeline/media/books-when-bots-write.jpg"
+      "src": "pipeline/media/books-bartz-ai-thriller.jpg"
     }
   ]
 }

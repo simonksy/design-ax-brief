@@ -1,61 +1,61 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-30",
   "section": "games",
   "picks": [
     {
-      "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6",
-      "source": "GamesIndustry.biz",
+      "url": "https://www.rockpapershotgun.com/hopefully-a-meteor-will-strike-the-earth-soon-game-devs-talk-genai-witchhunts-and-the-importance-of-honing-your-visual-literacy",
+      "source": "Rock Paper Shotgun",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Rockstar standing up a dedicated LA team for hand-authored NPC fidelity is the strongest counter-model to the generative-NPC pitch, and it tells designers where the industry's most-watched studio is actually spending craft budget.",
-      "published_iso": "2026-08-28T09:32:46+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/gta-npcs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Rockstar built a dedicated team to push NPC behaviour past Red Dead Redemption 2's 'level of interactive fidelity'. It's a hand-authored, systems-driven answer to the generative-NPC pitch the rest of the industry is selling."
+      "rationale": "The most directly actionable item in the pool: working devs lay out how to read an image for provenance, a skill every artist and art director now needs to defend their own work from false accusations.",
+      "published_iso": "2026-08-28T15:49:03Z",
+      "og_image": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Failbetter, New Blood and other game developers on the importance of honing your visual (and technical) literacy if you want to effectively spot — and fight — genAI art in games."
     },
     {
-      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline",
+      "url": "https://80.lv/articles/interview-building-a-wuxia-sandbox-rpg-with-up-to-10-000-dynamic-npcs",
       "source": "80 Level",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "The most directly actionable item in the pool: game-ready characters with usable topology in under 10 seconds is the exact gap that has kept AI meshes out of production pipelines.",
-      "published_iso": "2026-08-28T15:00:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49865/images/6a8caa21e033b/contain_1200x630.jpg",
-      "excerpt": "Tripo's chief scientist details Smart Mesh, which generates game-ready characters with usable topology in under 10 seconds. The pitch is closing the gap between AI-generated meshes and assets that survive a Maya/Blender production pipeline."
+      "rationale": "A concrete craft blueprint for dynamic NPCs at scale built from systemic design rather than model output — the strongest non-generative answer to the 'AI NPC' pitch this week.",
+      "published_iso": "2026-08-24T23:11:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49868/images/6a8ccee3d8de1/contain_1200x630.jpg",
+      "excerpt": "ConchShip Games explains how The Scroll of Taiwu drives up to 10,000 dynamic NPCs, 700+ martial arts skills and generational storytelling through systemic sandbox design rather than hand-authored content."
     },
     {
-      "url": "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/",
-      "source": "Polygon",
+      "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/",
+      "source": "PC Gamer",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A leaked DLSS 5 neural-graphics build re-rendering Skyrim and San Andreas is the first live test of AI post-processing overriding an art director's intent — a new authorship problem shipping at driver level.",
-      "published_iso": "2026-08-28T20:08:05+00:00",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/nord.JPG?w=1600&h=900&fit=crop",
-      "excerpt": "PC players are running leaked DLSS 5 neural graphics over GTA: San Andreas and Skyrim, and the results are photoreal but uncanny. It's an early look at AI re-rendering overriding an art director's original intent."
+      "rationale": "A per-world procedural magic system is the clearest live demonstration that authored generation still beats generative models at making worlds feel designed — and it ships this year.",
+      "published_iso": "2026-08-27T15:12:30Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
+      "excerpt": "Dwarf Fortress's long-promised Myth and Magic update will generate a bespoke magic system per world — procedural generation as authored design, not model output."
     },
     {
-      "url": "https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy",
-      "source": "Eurogamer",
+      "url": "https://aftermath.site/google-ai-video-games/",
+      "source": "Aftermath",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Saber's CCO puts the clearest 'prove it with craft' thesis on record from inside a studio already under fire — the argument every AI-using team will be measured against.",
-      "published_iso": "2026-08-28T11:04:23+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/saber-ai-half-life-2-rideshare.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Saber's chief creative officer argues one genuinely great AI-built game would flip public sentiment overnight. It's the clearest statement yet of the 'prove it with craft' position inside a studio already under fire."
+      "rationale": "A sharp read of what a platform giant actually demoed for AI in games, useful as a reality check on the gap between vendor pitch decks and anything a team could ship.",
+      "published_iso": "2026-08-25T23:40:46Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
+      "excerpt": "A withering look at Google's AI-in-games sales pitch: '...we are 3-4 years into this collective descent into madness, and this is all you can come up with to support it?'"
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/id-softwares-former-co-owner-says-they-absolutely-wouldve-used-gen-ai-back-in-the-day-john-carmack-would-be-like-making-skynet-or-something/",
-      "source": "PC Gamer",
+      "url": "https://kotaku.com/james-pond-co-creator-calls-ai-rife-remake-disrespectful-and-soulless-2000729581",
+      "source": "Kotaku",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "An id Software founder reframing gen AI as continuous with Doom-era tech culture is a rare, credible counterweight to the 'real devs don't use AI' framing dominating this week's discourse.",
-      "published_iso": "2026-08-28T13:53:23+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kHZZqCzDLKx8KtKh8MEg3a-1600-80.jpg",
-      "excerpt": "An id Software co-founder argues the Doom-era team would have grabbed generative tools instantly, framing AI as continuous with the studio's tech-first culture. A useful counterweight to the 'real devs don't use AI' framing."
+      "rationale": "Freshest item in the pool and a new front in the AI backlash: the original creator publicly disowning an AI-heavy remake of his own IP, a reputational risk any licensing deal now carries.",
+      "published_iso": "2026-08-29T17:50:57Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/james-pond-1.jpg",
+      "excerpt": "Original developer Chris Sorrell condemns an AI-heavy James Pond remake as disrespectful and soulless: 'I hope they choke on an AI-generated fishbone.'"
     }
   ]
 }

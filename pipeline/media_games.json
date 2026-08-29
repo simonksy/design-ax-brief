@@ -1,32 +1,31 @@
 {
+  "section": "games",
+  "date": "2026-08-30",
   "media": [
     {
-      "id": "games-gta6-npc-team",
+      "id": "games-genai-visual-literacy",
       "type": "image",
-      "src": "pipeline/media/games-gta6-npc-team.jpg"
+      "src": "pipeline/media/games-genai-visual-literacy.jpg"
     },
     {
-      "id": "games-tripo-topology",
-      "type": "video",
-      "src": "pipeline/media/games-tripo-topology.mp4",
-      "poster": "pipeline/media/games-tripo-topology.jpg"
-    },
-    {
-      "id": "games-dlss5-leak",
-      "type": "video",
-      "src": "pipeline/media/games-dlss5-leak.mp4",
-      "poster": "pipeline/media/games-dlss5-leak.jpg"
-    },
-    {
-      "id": "games-saber-craft",
-      "type": "video",
-      "src": "pipeline/media/games-saber-craft.mp4",
-      "poster": "pipeline/media/games-saber-craft.jpg"
-    },
-    {
-      "id": "games-id-genai",
+      "id": "games-taiwu-dynamic-npcs",
       "type": "image",
-      "src": "pipeline/media/games-id-genai.jpg"
+      "src": "pipeline/media/games-taiwu-dynamic-npcs.jpg"
+    },
+    {
+      "id": "games-dwarf-fortress-magic",
+      "type": "image",
+      "src": "pipeline/media/games-dwarf-fortress-magic.jpg"
+    },
+    {
+      "id": "games-google-ai-pitch",
+      "type": "image",
+      "src": "pipeline/media/games-google-ai-pitch.jpg"
+    },
+    {
+      "id": "games-james-pond-remake",
+      "type": "image",
+      "src": "pipeline/media/games-james-pond-remake.jpg"
     }
   ]
 }

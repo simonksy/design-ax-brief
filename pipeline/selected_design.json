@@ -1,113 +1,136 @@
 {
   "section": "design",
-  "generated_at": "2026-08-29T00:00:00Z",
+  "generated_at": "2026-08-30T00:00:00Z",
   "selection_mode": "curator_auto",
   "dedup": {
-    "against": "pipeline/news_data.json -> sections.design (today + 5 days)",
+    "against": "pipeline/news_data.json -> sections.design (today + 5 days) + cross-section collision list from coordinator",
     "published_days_checked": [
+      "2026-08-29",
       "2026-08-28",
       "2026-08-27",
       "2026-08-26",
       "2026-08-25",
-      "2026-08-22",
-      "2026-08-21"
+      "2026-08-22"
     ],
     "dropped_as_duplicate": [
       {
+        "url": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
+        "source": "Creative Bloq",
+        "reason": "same story as design card design-photoshop-ai published 2026-08-28 (Animation World Network, Adobe's Photoshop AI update incl. the beta AI-assisted editor) — different outlet, same release; also on today's movies list via awn.com"
+      },
+      {
         "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
         "source": "80 Level",
-        "reason": "cross-section duplicate — kept in games as games-tripo-topology"
+        "reason": "cross-section duplicate — same article already published 2026-08-29 as games-tripo-topology; 80.lv also reserved by games today"
+      },
+      {
+        "url": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
+        "source": "Creative Bloq",
+        "reason": "cross-section duplicate — the leaked DLSS 5 filter story already ran 2026-08-29 as games-dlss5-leak (Polygon), same event reworded"
+      },
+      {
+        "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+        "source": "fxguide",
+        "reason": "same-day cross-section collision — the movies section is publishing this today; movies keeps it (fxguide is a film/VFX outlet). Slot 2 backfilled with the next-best surviving candidate."
       }
     ],
-    "notes": "No candidate matched a previously published design story by URL or content. Cross-section de-confliction: the fxguide on-prem open-weight models item was passed over in favor of the movies section, and the 80 Level Tripo topology item was dropped here because today's games section already carries it (games-tripo-topology); it was replaced by the Figma AI-impact study, the curator's next-in-line."
+    "notes": "Four candidates dropped (one in-section content duplicate, three cross-section duplicates/collisions) and backfilled down the ranked pool. Slot 2 now carries Engineering.com's Atomica launch, which keeps the final 5 at five distinct outlets and five distinct categories. Coordinator's cross-section block list (awn.com Photoshop, indiewire indie-slop, beforesandafters, youtube qv0s1_coX50, 80.lv / RPS / PC Gamer / Aftermath / Kotaku, and the gadgets Engadget-Siri / 9to5google / Android Authority / Digital Trends items) was applied; the Engadget item kept here is the OpenAI-Cursor story, not the gadgets Siri item."
   },
   "picks": [
     {
       "rank": 1,
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
+      "slug": "figma-agent-army-code-connect",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "headline": "Figma's Workflow Lab: keeping canvas and code in sync when agents write the front end",
-      "url": "https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/",
-      "source": "Figma",
-      "published_iso": "2026-08-26T22:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/356af9d26d468eaf36ed3ae4d372a1cb95182137-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Coding agents are reshaping how developers build, but they're only as good as the context they're given. Figma walks through a concrete workflow for moving between design and code with agents without losing design intent.",
-      "rationale": "The most actionable item in the pool — a named, repeatable design-to-code-to-design loop a team can adopt tomorrow, straight from the tool most of them already live in."
+      "headline": "My agent army writes Code Connect | Dev Mindset",
+      "url": "https://www.youtube.com/watch?v=KhyLHeGpWFA",
+      "source": "Figma (YouTube)",
+      "published_iso": "2026-08-27T04:00:26-07:00",
+      "og_image": "https://i.ytimg.com/vi/KhyLHeGpWFA/maxresdefault.jpg",
+      "excerpt": "A Figma engineer runs a fleet of coding agents to generate Code Connect mappings, showing what it looks like to supervise agents instead of writing the glue code yourself.",
+      "rationale": "First-party Figma demo of the design-system-to-code handoff being done by a fleet of agents — the most directly copyable working method in today's pool."
     },
     {
       "rank": 2,
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "headline": "Figma rebuilt its AI-impact study with AI — and the index hit 62 of 100, nearly double 2024",
-      "url": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
-      "source": "Figma",
-      "published_iso": "2026-08-28T19:30:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/8ca1f5a5603ac375aedd98cc7840afa22bfa23ec-1682x918.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma revisits the study it started in 2024 on how AI reshapes design and product development, and this time uses AI to run the research itself. The post digs into what design orgs can actually measure about AI's effect on their work.",
-      "rationale": "Replaces the 80 Level Tripo item, which today's games section already carries; gives design orgs a concrete measurement frame — a 0–100 index across six dimensions, plus the AI research stack behind it."
-    },
-    {
-      "rank": 3,
+      "slug": "atomica-thermal-microstructures",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "AIA puts an AI assistant inside architecture's contract-document workflow",
-      "url": "https://www.engineering.com/aia-contract-documents-launches-ai-assistant-and-names-cto/",
+      "headline": "Atomica introduces AI Thermal Microstructures Platform",
+      "url": "https://www.engineering.com/atomica-introduces-ai-thermal-microstructures-platform/",
       "source": "Engineering.com",
-      "published_iso": "2026-08-28T10:36:30Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/acd-1.jpg",
-      "excerpt": "AIA Contract Documents launched an AI Assistant for the industry-standard contracts architects and designers work from daily, alongside naming a new CTO — a sign of AI moving into the paperwork layer of design practice.",
-      "rationale": "A concrete launch inside the industry-standard paperwork designers sign against — AI moving past the canvas into the contractual layer of practice."
+      "published_iso": "2026-08-28T14:02:44+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Atomica-introduces-AI-Thermal-Microstructures-Platform.jpg",
+      "excerpt": "Atomica launched a platform for AI-designed thermal microstructures, applying generative methods to the physical geometry of heat-management components.",
+      "rationale": "Backfills the fxguide slot: a shipped platform where generative geometry produces manufacturable hardware, not renders — the clearest AI-into-physical-design launch in the pool."
+    },
+    {
+      "rank": 3,
+      "slug": "ai-websites-look-same",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "headline": "Why AI Websites All Look the Same and How to Build Something Different",
+      "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan",
+      "source": "DEV Community",
+      "published_iso": "2026-08-29T01:38:54Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F14u0rkyv2g9bzxrkv1wu.png",
+      "excerpt": "A breakdown of why prompt-generated sites converge on the same gradient-and-card aesthetic, and the constraints, tokens and references that push AI output off the default.",
+      "rationale": "Names the homogenisation problem every designer hits with generative UI and gives concrete constraint/token levers to break the default look tomorrow."
     },
     {
       "rank": 4,
-      "category": "vr",
-      "tool": "VR Prototype",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "headline": "Google's 'Listening area' turns Android XR glasses into a spatial AI translation UI",
-      "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-26T13:14:07Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
-      "excerpt": "Google is reportedly testing a 'Listening area' mode for Live Translate on Android XR — a spatial interaction pattern that could become the headline feature of its upcoming smart glasses.",
-      "rationale": "A genuinely new spatial interaction pattern — selecting who the AI listens to by where they stand — and a preview of the interface vocabulary for glasses."
+      "slug": "openai-cursor-cutoff",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "headline": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
+      "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/",
+      "source": "Engadget",
+      "published_iso": "2026-08-29T14:58:40+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
+      "excerpt": "OpenAI plans to cut off Cursor's access to its models on November 12, 2026, forcing everyone who prototypes UI in Cursor onto a different model lineup.",
+      "rationale": "A hard date on the calendar: design engineers who prototype UI in Cursor have to re-plan their model lineup before November 12."
     },
     {
       "rank": 5,
+      "slug": "vercel-dashboard-agents",
       "category": "figma",
       "tool": "Figma",
-      "accent": "#3b6bff",
+      "accent": "#0070f3",
       "motif": "frame",
-      "headline": "Meta's Muse Image lands on Vercel AI Gateway — one key for image generation in prototypes",
-      "url": "https://vercel.com/changelog/muse-image-now-available-on-ai-gateway",
+      "headline": "Build and deploy eve agents from the Vercel dashboard",
+      "url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard",
       "source": "Vercel",
-      "published_iso": "2026-08-26T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png",
-      "excerpt": "Meta's Muse Image model is now callable through Vercel AI Gateway with a single API key: no provider account, automatic fallbacks, spend tracking and traces on every request. It makes image generation trivial to drop into a design prototype.",
-      "rationale": "Removes the account-and-key friction that keeps image generation out of prototypes — a designer can wire real generated imagery into a v0 build the same afternoon."
+      "published_iso": "2026-08-28T00:00:00+00:00",
+      "og_image": "https://vercel.com/api/dynamic-og?title=Build%20and%20deploy%20eve%20agents%20from%20the%20Vercel%20dashboard&format=changelog",
+      "excerpt": "Agents can now be created, configured and deployed directly from the Vercel dashboard, no local scaffolding required.",
+      "rationale": "Prompt-to-agent from a GUI drops the terminal requirement, putting agent building inside reach of designers who never scaffold projects locally."
     }
   ],
   "diversity_check": {
     "outlets": [
-      "Figma",
-      "Figma",
+      "Figma (YouTube)",
       "Engineering.com",
-      "Road to VR",
+      "DEV Community",
+      "Engadget",
       "Vercel"
     ],
-    "max_per_outlet": 2,
-    "distinct_outlets": 4,
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
     "categories": {
-      "figma": 3,
+      "social": 1,
       "cad": 1,
-      "vr": 1
+      "tokens": 1,
+      "workflow": 1,
+      "figma": 1
     },
+    "unique_urls": 5,
     "passes": true
   }
 }

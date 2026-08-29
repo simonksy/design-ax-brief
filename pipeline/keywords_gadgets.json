@@ -1,203 +1,194 @@
 {
-  "date": "2026-08-29",
-  "now_iso": "2026-08-28T22:05:00Z",
+  "date": "2026-08-30",
+  "now_iso": "2026-08-29T22:00:27Z",
   "section": "gadgets",
-  "rotation_note": "Rotation offset by day-of-month 29 (day-of-year 241). Deprioritized keywords whose stories already ran in news_data.json on 2026-08-25/26/28: smart glasses AI, Meta Ray-Ban glasses, 스마트 글라스, XR headset AI (RayNeo/Xreal/Viture), smart ring AI (Oura), Gemini smart home, AI earbuds (Plaud/AirPods cameras), on-device AI (local doc LLM). Today emphasizes the compute/appliance/robot half of the pool — AI PCs, NPUs, edge silicon, TVs, speakers, robot vacuums, home + humanoid robots, AI toys, cameras, companion devices — plus pre-IFA 2026 Berlin launch news.",
+  "rotation": "none — full-pool run (orchestrator override): every core + every rotation keyword in keyword_pool.json.sections.gadgets is represented",
   "user_seeds": [],
+  "recently_covered_avoid": [
+    "Xiaomi AI cube (2026-08-29)",
+    "Galaxy S26 One UI 9 beta 7 (2026-08-29)",
+    "Xreal Android XR hands-on (2026-08-29)",
+    "Viture Phantom Beast XR glasses (2026-08-29)",
+    "LG GM9 monitor (2026-08-29)",
+    "Google Home speaker voice/Kelvin update (2026-08-29)",
+    "Gemini 3.5 Transcribe (2026-08-26)",
+    "Samsung LPDDR5X PIM edge AI accelerator (2026-08-26)",
+    "Noema on-device document RAG on iPhone (2026-08-25)",
+    "Pixel 11 Pro Gemini device help (2026-08-25)"
+  ],
   "working_keywords": [
-    "AI gadget",
-    "AI hardware",
-    "AI 디바이스",
-    "Copilot+ PC",
-    "NPU laptop",
-    "Snapdragon AI PC",
-    "edge AI chip",
-    "AI TV",
-    "AI speaker",
-    "Alexa+ device",
-    "AI robot vacuum",
-    "home robot",
-    "humanoid robot",
-    "AI toy",
-    "AI camera",
-    "AI companion device",
-    "Galaxy AI phone",
-    "Apple Intelligence device",
-    "온디바이스 AI",
-    "AI 로봇"
-  ],
-  "core_keywords": [
-    "AI gadget",
-    "AI hardware",
-    "AI 디바이스"
-  ],
-  "expansions": {
-    "AI gadget": [
-      "AI gadget hands-on review",
-      "AI device launch",
-      "best AI gadgets 2026",
-      "IFA 2026 AI gadget"
-    ],
-    "AI hardware": [
-      "AI hardware announcement",
-      "consumer AI hardware startup",
-      "AI accelerator consumer device",
-      "AI hardware IFA Berlin"
-    ],
-    "AI 디바이스": [
-      "AI 기기 출시",
-      "AI 가전 신제품",
-      "AI 디바이스 공개"
-    ],
-    "Copilot+ PC": [
-      "Copilot+ PC new features",
-      "Windows AI PC update",
-      "Copilot 노트북",
-      "Copilot+ PC creator apps"
-    ],
-    "NPU laptop": [
-      "NPU TOPS laptop benchmark",
-      "AI laptop local model",
-      "NPU accelerated creative apps",
-      "AI PC battery life"
-    ],
-    "Snapdragon AI PC": [
-      "Snapdragon X2 Elite laptop",
-      "Qualcomm AI PC 2026",
-      "Arm Windows AI laptop",
-      "Ryzen AI / Intel Panther Lake AI PC"
-    ],
-    "edge AI chip": [
-      "on-device inference chip",
-      "NPU SoC consumer device",
-      "edge AI silicon launch",
-      "AI chip for wearables"
-    ],
-    "AI TV": [
-      "smart TV AI features 2026",
-      "TV AI upscaling picture",
-      "Gemini on TV / Copilot TV",
-      "AI TV IFA 2026"
-    ],
-    "AI speaker": [
-      "smart speaker AI assistant launch",
-      "AI smart display",
-      "AI 스피커 신제품",
-      "voice assistant hardware 2026"
-    ],
-    "Alexa+ device": [
-      "Alexa+ rollout new devices",
-      "Amazon Echo AI update",
-      "Alexa Plus features",
-      "Amazon device event 2026"
-    ],
-    "AI robot vacuum": [
-      "robot vacuum AI obstacle recognition",
-      "Roborock Dreame Ecovacs AI",
-      "로봇청소기 AI",
-      "robot vacuum arm AI 2026"
-    ],
-    "home robot": [
-      "consumer home robot launch",
-      "Samsung Ballie / LG AI home hub",
-      "가정용 AI 로봇",
-      "companion home robot price"
-    ],
-    "humanoid robot": [
-      "humanoid robot consumer launch",
-      "Figure / 1X Neo / Unitree home",
-      "humanoid robot demo 2026",
-      "휴머노이드 로봇 가정"
-    ],
-    "AI toy": [
-      "AI toy kids launch",
-      "AI plush companion toy",
-      "AI toy privacy concerns",
-      "AI 장난감"
-    ],
-    "AI camera": [
-      "AI camera device launch",
-      "camera computational photography AI 2026",
-      "AI action camera / wearable camera",
-      "AI 카메라 신제품"
-    ],
-    "AI companion device": [
-      "AI pendant recorder device",
-      "Limitless / Friend / Plaud style device",
-      "always-on AI assistant hardware",
-      "AI note-taking device"
-    ],
-    "Galaxy AI phone": [
-      "Galaxy AI new feature update",
-      "One UI AI 기능",
-      "Samsung AI phone 2026",
-      "Galaxy S26 AI"
-    ],
-    "Apple Intelligence device": [
-      "Apple Intelligence hardware Siri",
-      "HomePad Apple smart display",
-      "iPhone 18 AI features",
-      "Apple AI device 2026"
-    ],
-    "온디바이스 AI": [
-      "온디바이스 AI 칩",
-      "로컬 LLM 기기",
-      "on-device AI phone feature",
-      "오프라인 AI 기기"
-    ],
-    "AI 로봇": [
-      "AI 로봇 가전",
-      "AI 로봇 출시",
-      "AI robot household Korea",
-      "로봇 AI 신제품"
-    ]
-  },
-  "reserve_keywords": [
-    "IFA 2026 Berlin",
-    "Snapdragon X2 Elite",
-    "Ryzen AI Max",
-    "Intel Panther Lake",
-    "Nvidia Jetson Thor",
-    "Samsung Ballie",
-    "LG AI Home hub",
-    "Roborock Saros",
-    "Dreame robot",
-    "Ecovacs Deebot",
-    "Amazon Echo Show",
-    "Google Home Speaker",
-    "Apple HomePad",
-    "Unitree G1",
-    "Figure 03",
-    "1X Neo home robot",
-    "Tesla Optimus",
-    "Limitless Pendant",
-    "Friend AI necklace",
-    "Plaud NotePin",
-    "Rabbit R1 update",
-    "Humane AI Pin aftermath",
-    "Ray-Ban Display",
-    "Android XR Project Moohan",
-    "Galaxy XR headset",
-    "Xreal One Pro",
-    "Viture Luma",
-    "Rokid Glasses",
-    "Halliday smart glasses",
-    "Insta360 AI",
-    "DJI AI tracking",
-    "Anker AI device",
-    "TCL / Hisense AI TV",
-    "Lenovo Yoga AI laptop",
-    "ASUS Zenbook AI",
-    "Framework AI laptop",
-    "AI 가전 IFA",
-    "CES 2027 preview"
+    {
+      "keyword": "AI gadget",
+      "kind": "core",
+      "expansions": ["AI device launch", "AI gadget review", "consumer AI hardware", "AI 가젯"]
+    },
+    {
+      "keyword": "AI hardware",
+      "kind": "core",
+      "expansions": ["AI hardware announcement", "AI device startup", "AI accessory", "AI 하드웨어"]
+    },
+    {
+      "keyword": "AI 디바이스",
+      "kind": "core",
+      "expansions": ["AI 기기 신제품", "인공지능 디바이스", "AI 가전"]
+    },
+    {
+      "keyword": "AI wearable",
+      "kind": "pool",
+      "expansions": ["AI pendant", "AI necklace recorder", "Limitless pendant", "Plaud NotePin", "wearable AI assistant"]
+    },
+    {
+      "keyword": "AI 웨어러블",
+      "kind": "pool",
+      "expansions": ["웨어러블 AI 비서", "AI 목걸이 기기", "AI 기록 웨어러블"]
+    },
+    {
+      "keyword": "smart glasses AI",
+      "kind": "pool",
+      "expansions": ["display smart glasses", "AI glasses hands-on", "Even Realities", "Halliday glasses", "Rokid Glasses"]
+    },
+    {
+      "keyword": "스마트 글라스",
+      "kind": "pool",
+      "expansions": ["AI 안경", "디스플레이 스마트 안경", "삼성 스마트 글라스"]
+    },
+    {
+      "keyword": "Meta Ray-Ban glasses",
+      "kind": "pool",
+      "expansions": ["Ray-Ban Display", "Meta Neural Band", "Oakley Meta HSTN", "Meta AI glasses update"]
+    },
+    {
+      "keyword": "Humane AI Pin",
+      "kind": "pool",
+      "expansions": ["AI Pin shutdown legacy", "HP Humane AI", "wearable AI pin successor"]
+    },
+    {
+      "keyword": "Rabbit R1",
+      "kind": "pool",
+      "expansions": ["Rabbit OS agent", "R1 large action model", "pocket AI assistant device"]
+    },
+    {
+      "keyword": "AI companion device",
+      "kind": "pool",
+      "expansions": ["desktop AI companion", "Ropet Moflin", "AI pet robot", "OpenAI io device", "Friend AI necklace"]
+    },
+    {
+      "keyword": "Copilot+ PC",
+      "kind": "pool",
+      "expansions": ["Copilot+ exclusive features", "Windows AI PC update", "Recall Click to Do", "Copilot Vision PC"]
+    },
+    {
+      "keyword": "NPU laptop",
+      "kind": "pool",
+      "expansions": ["45 TOPS NPU", "Lunar Lake Panther Lake laptop", "Ryzen AI laptop", "local LLM laptop benchmark"]
+    },
+    {
+      "keyword": "Snapdragon AI PC",
+      "kind": "pool",
+      "expansions": ["Snapdragon X2 Elite", "Arm Windows AI PC", "Qualcomm on-device AI"]
+    },
+    {
+      "keyword": "on-device AI",
+      "kind": "pool",
+      "expansions": ["local LLM on phone", "offline AI assistant", "private AI inference device", "small language model device"]
+    },
+    {
+      "keyword": "온디바이스 AI",
+      "kind": "pool",
+      "expansions": ["기기 내 AI 처리", "로컬 LLM 실행", "오프라인 AI 비서"]
+    },
+    {
+      "keyword": "Apple Intelligence device",
+      "kind": "pool",
+      "expansions": ["Siri revamp hardware", "Apple AI smart display", "iPhone 18 AI features", "Apple foundation model on device"]
+    },
+    {
+      "keyword": "Galaxy AI phone",
+      "kind": "pool",
+      "expansions": ["Galaxy AI feature rollout", "One UI AI features", "Samsung Now Brief Bar", "Galaxy S26 AI"]
+    },
+    {
+      "keyword": "AI smartphone",
+      "kind": "pool",
+      "expansions": ["Pixel AI features", "AI phone launch 2026", "agentic phone assistant", "AI 스마트폰"]
+    },
+    {
+      "keyword": "AI earbuds",
+      "kind": "pool",
+      "expansions": ["live translation earbuds", "AI hearing aid earbuds", "Pixel Buds Gemini", "AI 이어버드"]
+    },
+    {
+      "keyword": "AI camera",
+      "kind": "pool",
+      "expansions": ["AI action camera", "Insta360 AI editing", "AI photo device", "camera AI autoframing"]
+    },
+    {
+      "keyword": "smart ring AI",
+      "kind": "pool",
+      "expansions": ["Oura AI advisor", "Galaxy Ring health AI", "AI sleep coaching ring", "스마트 링"]
+    },
+    {
+      "keyword": "AI speaker",
+      "kind": "pool",
+      "expansions": ["smart display AI", "AI 스피커", "Gemini speaker", "Echo Show AI"]
+    },
+    {
+      "keyword": "Alexa+ device",
+      "kind": "pool",
+      "expansions": ["Alexa Plus rollout", "Amazon Echo AI hardware", "Alexa agentic tasks"]
+    },
+    {
+      "keyword": "Gemini smart home",
+      "kind": "pool",
+      "expansions": ["Gemini for Home", "Nest camera AI descriptions", "Google Home APIs AI", "smart home agent"]
+    },
+    {
+      "keyword": "AI robot vacuum",
+      "kind": "pool",
+      "expansions": ["Roborock robotic arm", "Dreame AI vacuum", "obstacle recognition AI vacuum", "AI 로봇청소기"]
+    },
+    {
+      "keyword": "home robot",
+      "kind": "pool",
+      "expansions": ["household assistant robot", "consumer robot launch", "Samsung Ballie", "LG AI agent robot"]
+    },
+    {
+      "keyword": "humanoid robot",
+      "kind": "pool",
+      "expansions": ["Figure 03 home", "1X Neo home robot", "Tesla Optimus update", "Unitree humanoid consumer"]
+    },
+    {
+      "keyword": "AI 로봇",
+      "kind": "pool",
+      "expansions": ["가정용 AI 로봇", "휴머노이드 로봇 출시", "AI 집사 로봇"]
+    },
+    {
+      "keyword": "edge AI chip",
+      "kind": "pool",
+      "expansions": ["on-device inference chip", "NPU TOPS device", "AI accelerator gadget", "edge inference module"]
+    },
+    {
+      "keyword": "AI TV",
+      "kind": "pool",
+      "expansions": ["Samsung Vision AI TV", "LG AI TV feature", "TV AI upscaling", "AI 티비 기능"]
+    },
+    {
+      "keyword": "XR headset AI",
+      "kind": "pool",
+      "expansions": ["Android XR headset", "Galaxy XR", "Vision Pro AI features", "Quest AI assistant"]
+    },
+    {
+      "keyword": "AI toy",
+      "kind": "pool",
+      "expansions": ["AI plush toy", "kids AI companion", "AI toy safety", "Curio Grok toy"]
+    }
   ],
   "plan": [
     {
       "category": "gadgets",
       "label": "Gadgets",
-      "accent": "#ff5a4d",
       "motif": "headset",
+      "accent": "#ff5a4d",
       "allowed_domains": [
         "theverge.com",
         "engadget.com",
@@ -211,6 +202,7 @@
         "gizmodo.com",
         "zdnet.com",
         "androidauthority.com",
+        "androidcentral.com",
         "9to5google.com",
         "9to5mac.com",
         "macrumors.com",
@@ -218,47 +210,44 @@
         "notebookcheck.net",
         "uploadvr.com",
         "roadtovr.com",
-        "venturebeat.com",
-        "androidcentral.com",
-        "pcworld.com",
-        "slashgear.com"
+        "venturebeat.com"
       ],
       "queries": [
-        "Copilot+ PC new AI features update August 2026",
-        "AI PC NPU laptop launch 2026 hands-on",
-        "Snapdragon X2 Elite AI laptop IFA 2026",
-        "Ryzen AI Intel Panther Lake AI PC announcement 2026",
-        "edge AI chip on-device inference consumer device 2026",
-        "AI TV smart TV AI features 2026 announcement",
-        "AI smart speaker smart display launch 2026",
-        "Alexa+ new devices rollout features 2026",
-        "AI robot vacuum obstacle recognition new model 2026",
-        "home robot consumer launch price 2026",
-        "humanoid robot home consumer demo August 2026",
-        "AI toy kids companion device launch 2026",
-        "AI camera device wearable camera launch 2026",
-        "AI companion device pendant recorder launch 2026",
-        "Galaxy AI new feature One UI update August 2026",
-        "Apple Intelligence device Siri hardware report 2026",
-        "iPhone 18 event AI features preview 2026",
-        "AI hardware announcements IFA 2026 Berlin preview",
-        "IFA 2026 AI gadget lineup smart home",
-        "온디바이스 AI 신제품 출시 2026",
-        "AI 디바이스 출시 공개 2026",
-        "AI 로봇 가전 신제품 2026",
-        "AI 노트북 코파일럿 PC 신제품",
-        "smart home AI hub launch Matter 2026",
-        "AI gadget review this week August 2026",
-        "AI hardware startup device shipping 2026",
-        "creators AI laptop local model workflow NPU 2026",
-        "AI gadget trending launch news 2026-08-29"
+        "AI gadget launch review August 2026",
+        "AI hardware device announcement 2026 hands-on",
+        "AI 디바이스 신제품 2026 리뷰",
+        "AI wearable pendant recorder review 2026 AI 웨어러블",
+        "smart glasses AI display hands-on 2026 스마트 글라스",
+        "Meta Ray-Ban Display Neural Band glasses update 2026",
+        "Humane AI Pin Rabbit R1 AI assistant device what happened 2026",
+        "AI companion device desktop robot pet 2026",
+        "Copilot+ PC new AI features update 2026",
+        "NPU laptop TOPS local LLM benchmark 2026",
+        "Snapdragon X2 Elite AI PC laptop 2026",
+        "on-device AI local LLM phone privacy 2026 온디바이스 AI",
+        "Apple Intelligence new device Siri revamp 2026",
+        "Galaxy AI feature rollout Samsung One UI 2026",
+        "AI smartphone agentic assistant launch 2026",
+        "AI earbuds live translation hearing feature 2026",
+        "AI camera action cam AI editing feature 2026",
+        "smart ring AI health coaching Oura Galaxy Ring 2026",
+        "AI speaker smart display Gemini Echo 2026",
+        "Alexa+ Amazon Echo AI device rollout 2026",
+        "Gemini for Home Nest camera AI smart home 2026",
+        "AI robot vacuum robotic arm obstacle AI 2026",
+        "home robot household assistant consumer launch 2026",
+        "humanoid robot home Figure 1X Neo Optimus 2026 AI 로봇",
+        "edge AI chip on-device inference NPU module 2026",
+        "AI TV Vision AI feature Samsung LG 2026",
+        "XR headset AI Android XR Galaxy XR Vision Pro assistant 2026",
+        "AI toy kids AI plush companion safety 2026",
+        "IFA 2026 AI gadget preview announcements"
       ]
     }
   ],
-  "wildcard_query": "AI gadget trending launch news 2026-08-29",
   "totals": {
-    "working_keywords": 20,
+    "working_keywords": 33,
     "categories": 1,
-    "queries": 28
+    "queries": 29
   }
 }

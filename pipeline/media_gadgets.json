@@ -1,29 +1,31 @@
 {
+  "date": "2026-08-30",
+  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-lg-gm9",
+      "id": "gadgets-pixel-11",
       "type": "image",
-      "src": "pipeline/media/gadgets-lg-gm9.jpg"
+      "src": "pipeline/media/gadgets-pixel-11.jpg"
     },
     {
-      "id": "gadgets-xreal-xr",
+      "id": "gadgets-gemini-nano-4",
       "type": "image",
-      "src": "pipeline/media/gadgets-xreal-xr.jpg"
+      "src": "pipeline/media/gadgets-gemini-nano-4.jpg"
     },
     {
-      "id": "gadgets-xiaomi-cube",
+      "id": "gadgets-ios27-siri-app",
       "type": "image",
-      "src": "pipeline/media/gadgets-xiaomi-cube.png"
+      "src": "pipeline/media/gadgets-ios27-siri-app.jpg"
     },
     {
-      "id": "gadgets-oneui9-beta7",
+      "id": "gadgets-roborock-qrevo-2-pro",
       "type": "image",
-      "src": "pipeline/media/gadgets-oneui9-beta7.jpg"
+      "src": "pipeline/media/gadgets-roborock-qrevo-2-pro.jpg"
     },
     {
-      "id": "gadgets-viture-phantom",
+      "id": "gadgets-low-light-two-stage-ai",
       "type": "image",
-      "src": "pipeline/media/gadgets-viture-phantom.jpg"
+      "src": "pipeline/media/gadgets-low-light-two-stage-ai.jpg"
     }
   ]
 }

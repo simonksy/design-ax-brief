@@ -1,25 +1,106 @@
 {
- "generated_at": "2026-08-28T22:05:00Z",
  "section": "science",
+ "generated_at": "2026-08-29T22:00:27Z",
  "window_hours": 336,
  "items": [
+  {
+   "url": "https://phys.org/news/2026-08-ai-antibodies-laboratory.html",
+   "source": "Phys.org",
+   "category": "science",
+   "headline": "AI designs new antibodies that pass blinded laboratory tests",
+   "published_iso": "2026-08-26T20:00:00+00:00",
+   "excerpt": "A UTHealth Houston team placed top five in the international AIntibody Challenge, where AI-generated antibody sequences were independently synthesized and tested in blinded wet-lab assays. Their structure-aware pairformer trained with Direct Preference Optimization picked viable therapeutic candidates before any lab screening.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designs-new-antibod-1.jpg"
+  },
+  {
+   "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html",
+   "source": "Phys.org",
+   "category": "science",
+   "headline": "Machine learning methods move self-driving labs closer to materials discovery at scale",
+   "published_iso": "2026-08-26T20:50:00+00:00",
+   "excerpt": "Washington University researchers trained models on 4,000 metal-organic framework linker transformations so the system 'reads chemistry like a chemist,' surfacing 10 new viable water-harvesting materials without brute-force screening. A parallel polymer effort automates data curation from the literature to rank high-potential candidates.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg"
+  },
+  {
+   "url": "https://phys.org/news/2026-08-inches-york-city-ai-plausible.html",
+   "source": "Phys.org",
+   "category": "science",
+   "headline": "Could 12 inches of rain hit New York City? AI maps plausible rare storms",
+   "published_iso": "2026-08-25T18:40:00+00:00",
+   "excerpt": "MIT researchers built a machine-learning method called eta-learning that generates physically plausible extreme-weather scenarios without needing historical events of similar magnitude. It can map hypothetical 12-inch rainfalls over New York so planners can stress-test infrastructure against storms riskier than anything on record.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/tsunami.jpg"
+  },
+  {
+   "url": "https://medicalxpress.com/news/2026-08-brain-hint-ai-facial-differently.html",
+   "source": "Medical Xpress",
+   "category": "science",
+   "headline": "Brain recordings hint at how AI reads facial expressions differently from us",
+   "published_iso": "2026-08-28T11:30:00+00:00",
+   "excerpt": "York University researchers compared human brain recordings, primate neurons and artificial neural networks on facial-expression processing, finding the networks hit high accuracy through fundamentally non-biological computations. The takeaway: getting the right answer is not the same as solving the problem in a brain-like way.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-recordings-show.jpg"
+  },
+  {
+   "url": "https://medicalxpress.com/news/2026-08-ai-fast-track-mental-health.html",
+   "source": "Medical Xpress",
+   "category": "science",
+   "headline": "Research shows AI can fast track mental health care",
+   "published_iso": "2026-08-26T12:00:00+00:00",
+   "excerpt": "Victoria University researchers ran one million Reddit threads through language models to infer the underlying causes behind mental-health disclosures. PaLM 2 matched human psychiatrist classifications in about 80% of cases, pointing to triage and screening uses.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/therapy.jpg"
+  },
+  {
+   "url": "https://medicalxpress.com/news/2026-08-ai-regulatory-hub-aging-hematopoietic.html",
+   "source": "Medical Xpress",
+   "category": "science",
+   "headline": "AI helps identify regulatory hub for aging in hematopoietic stem cells",
+   "published_iso": "2026-08-25T16:20:00+00:00",
+   "excerpt": "Tohoku University used AI analysis to pinpoint Pbx1 as a master regulator of aging in blood-forming stem cells. Raising Pbx1 in young stem cells reproduced aged-cell traits, including reduced mature blood-cell output and altered platelet production.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-identify-regu.jpg"
+  },
+  {
+   "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "headline": "Shared-memory AI system lets microscope components coordinate in real time",
+   "published_iso": "2026-08-28T15:40:00+00:00",
+   "excerpt": "Postdoc Arco Bast built a shared-memory architecture that lets separate microscope components read common state, collapsing experiment setup from months to days. With Anthropic he released a Model Hardware Standard so AI agents can observe and adjust instruments live.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/shared-memory-ai-syste.jpg"
+  },
+  {
+   "url": "https://techxplore.com/news/2026-08-simulated-ground-ai-fluid-dynamics.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "headline": "Simulated proving ground trains and assesses AI for actively controlling fluid dynamics",
+   "published_iso": "2026-08-26T13:20:00+00:00",
+   "excerpt": "An international team released HydroGym, a benchmark environment that trains reinforcement-learning controllers to actively shape fluid flows for wings and turbines. Injecting physics priors cut optimization trial-and-error by up to 65% and transferred to an 11% drag reduction on complex wing simulations.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/hydrogym-trains-assess.jpg"
+  },
+  {
+   "url": "https://techxplore.com/news/2026-08-digbat-ai-ready-digital-platform.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "headline": "DigBat: An AI-ready digital platform for solid-state battery research",
+   "published_iso": "2026-08-25T07:40:00+00:00",
+   "excerpt": "Tohoku University's DigBat consolidates experimental and computational solid-electrolyte data with machine-learning tooling and an AI assistant. As of June 2026 it holds 3,816 experimental electrolytes and 27,645 conductivity entries for training predictive models.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/digbat-an-ai-ready-dig.jpg"
+  },
+  {
+   "url": "https://physicsworld.com/a/improved-qleds-with-machine-learning/",
+   "source": "Physics World",
+   "category": "science",
+   "headline": "Improved QLEDs with machine learning",
+   "published_iso": "2026-08-26T07:00:28+00:00",
+   "excerpt": "Machine learning searched solvent formulations to produce highly homogeneous quantum-dot films, a long-standing bottleneck in QLED manufacturing. The approach turns a trial-and-error formulation problem into a guided search over process parameters.",
+   "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg"
+  },
   {
    "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
    "source": "Quanta Magazine",
    "category": "science",
    "headline": "Does Computer Science Need Computers?",
    "published_iso": "2026-08-28T13:30:34+00:00",
-   "excerpt": "이론 컴퓨터과학은 기계 없이도 성립한다는 관점에서, AI 시대에 '계산'이란 무엇인가를 되묻는다. 물리적 컴퓨터 없이 증명과 복잡도만으로 지식을 만들어온 분야의 방법론을 정리한 에세이.",
+   "excerpt": "Quanta examines how much of computer science is really about machines, and how many of its central questions would never have been asked without them. The piece reframes theory and experiment in a field now dominated by empirical AI results.",
    "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Social.jpg"
-  },
-  {
-   "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
-   "source": "Quanta Magazine",
-   "category": "science",
-   "headline": "Are We Thinking Correctly About AI Intelligence?",
-   "published_iso": "2026-08-20T14:04:40+00:00",
-   "excerpt": "인지과학자 멜라니 미첼이 대형 언어모델의 '지능'을 사람 기준으로 측정하는 방식 자체가 왜 오도될 수 있는지 설명한다. 벤치마크 점수와 실제 이해 사이의 간극을 짚는 인터뷰.",
-   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
   },
   {
    "url": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
@@ -27,71 +108,35 @@
    "category": "science",
    "headline": "A New Framework for How the Brain Compresses Our Noisy World",
    "published_iso": "2026-08-24T14:00:55+00:00",
-   "excerpt": "뇌가 잡음 많은 감각 입력을 어떻게 범주로 압축하는지에 대한 새 이론적 틀. 기계학습의 표현 학습과 직접 맞닿는 인지 모델 연구.",
+   "excerpt": "A new account of categorization casts the nervous system as a prediction engine rather than a filing cabinet, compressing noisy sensory input into useful classes. The framework gives cognitive scientists and model builders a shared target for what perception is actually optimizing.",
    "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Predictive-Categorization-cr-Zara-Picken-Social.jpg"
   },
   {
-   "url": "https://techxplore.com/news/2026-08-ai-uncover-hidden-ways-people.html",
-   "source": "Tech Xplore",
+   "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+   "source": "Quanta Magazine",
    "category": "science",
-   "headline": "How AI could uncover the hidden ways people work together",
-   "published_iso": "2026-08-28T00:00:00+00:00",
-   "excerpt": "스탠퍼드 연구진이 익명화된 조직 데이터로 '대형 협업 모델(large coordination model)'을 트랜스포머로 학습 중이다. 팀 병목을 예측하고 조직 구조 변경의 효과를 시뮬레이션하는 것이 목표.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/work-together.jpg"
+   "headline": "Are We Thinking Correctly About AI Intelligence?",
+   "published_iso": "2026-08-20T14:04:40+00:00",
+   "excerpt": "Melanie Mitchell argues that today's AI does not think or reason like humans and that our benchmarks keep measuring the wrong thing. She sketches what better methods for measuring machine cognition would need to look like.",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg"
   },
   {
-   "url": "https://techxplore.com/news/2026-08-ai-doesnt-play-chess-complexity.html",
-   "source": "Tech Xplore",
+   "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+   "source": "MIT Technology Review",
    "category": "science",
-   "headline": "AI doesn't just play better chess—it manages complexity differently",
-   "published_iso": "2026-08-27T00:00:00+00:00",
-   "excerpt": "2,000여 국의 체스 기보를 분석한 결과, 사람과 엔진은 중반부에서 갈라진다. 사람은 긴장을 해소하지만 엔진은 판 전체의 복잡도를 훨씬 오래 유지한다는 것.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chess.jpg"
+   "headline": "Kids outlearn AI - and we still don't know why",
+   "published_iso": "2026-08-24T05:00:00-04:00",
+   "excerpt": "LLMs consume up to a hundred thousand times more words than a child does to master a first language, a gap researchers call data efficiency. Reverse-engineering how kids learn could yield far leaner models and settle old questions about developing minds.",
+   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600"
   },
   {
-   "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
-   "source": "Physics World",
+   "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+   "source": "MIT Technology Review",
    "category": "science",
-   "headline": "The physics of novel computation: beyond bits and chips to spikes and spins",
-   "published_iso": "2026-08-19T14:30:49+00:00",
-   "excerpt": "AI 연산 수요가 폭증하면서 뉴로모픽·스핀트로닉스·광컴퓨팅 등 비(非)트랜지스터 계산 물리학이 재조명되고 있다. 각 접근의 물리적 원리와 현실적 한계를 정리한 리뷰.",
-   "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-perkowitz-server-room-data-centre-1415677219-istock-imaginima.jpg"
-  },
-  {
-   "url": "https://physicsworld.com/a/shortcut-for-simulating-logical-magic-states-could-accelerate-the-design-of-fault-tolerant-quantum-computers/",
-   "source": "Physics World",
-   "category": "science",
-   "headline": "Shortcut for simulating logical magic states could accelerate the design of fault-tolerant quantum computers",
-   "published_iso": "2026-08-17T14:00:34+00:00",
-   "excerpt": "논리적 매직 상태를 고전 컴퓨터로 훨씬 빠르게 시뮬레이션하는 방법이 제안됐다. 오류 정정 코드 설계 반복 속도를 끌어올려 내결함성 양자컴퓨터 개발을 앞당길 수 있다.",
-   "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/simulating-quantum-state-preparation.webp"
-  },
-  {
-   "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-   "source": "MIT News",
-   "category": "science",
-   "headline": "When AI art has no author: Study finds generated images often can't be traced to training data",
-   "published_iso": "2026-08-18T16:35:00Z",
-   "excerpt": "MIT 연구진이 생성 이미지를 학습 데이터로 귀속시키는 실험을 했더니, 상당수 이미지는 특정 원본으로 추적되지 않았다. 저작권·귀속 논쟁의 기술적 전제를 흔드는 결과.",
-   "og_image": "https://news.mit.edu/sites/default/files/images/202608/dai-gifford-ai-image-training-data-00_0.png"
-  },
-  {
-   "url": "https://thequantuminsider.com/2026/08/28/quera-uses-anthropic-ai-agent-to-automate-critical-quantum-computer-process/",
-   "source": "The Quantum Insider",
-   "category": "science",
-   "headline": "QuEra Uses Anthropic AI Agent to Automate Critical Quantum Computer Process",
-   "published_iso": "2026-08-28T08:15:30+00:00",
-   "excerpt": "QuEra가 Claude로 중성원자 양자컴퓨터의 핵심 보정 과정을 자동화하는 소프트웨어를 만들었다고 밝혔다. AI 에이전트가 실험 장비 운용 루프에 직접 들어간 사례.",
-   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Quera.png"
-  },
-  {
-   "url": "https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/",
-   "source": "Scientific American",
-   "category": "science",
-   "headline": "Alpha School wants AI to teach a billion kids. Should it?",
-   "published_iso": "2026-08-28T12:00:00-04:00",
-   "excerpt": "하루 2시간 AI 튜터로 수업을 대체한다는 알파스쿨이 빠르게 확장 중이다. 학습 효과에 대한 독립 증거가 얼마나 있는지 교육 연구자들의 검증을 정리했다.",
-   "og_image": "https://static.scientificamerican.com/dam/asset/216182fe-4347-4d74-bcb4-ef1a1d49b8d9/Alpha-School.jpg?m=1787923970.896&w=1200"
+   "headline": "When AI designs a drug, who gets the credit?",
+   "published_iso": "2026-08-21T05:00:00-04:00",
+   "excerpt": "US courts have held that only humans can be named inventors, so AI-designed drugs are filed under human names - Insilico listed five people on a molecule its models generated. Lawyers warn that wrong-inventor claims could become a route to invalidating AI-derived patents.",
+   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600"
   },
   {
    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
@@ -99,124 +144,34 @@
    "category": "science",
    "headline": "AI models flub these intelligence tests. Can you fare any better?",
    "published_iso": "2026-08-26T05:00:00-04:00",
-   "excerpt": "퍼즐과 게임으로 모델의 추론 공백을 드러내는 기획. 사람에겐 쉬운 문제가 최신 모델에서 왜 무너지는지 유형별로 보여준다.",
+   "excerpt": "Seven puzzles and games expose where frontier models' reasoning breaks down, and readers can try the same tests themselves. The exercise doubles as an argument about what current AI benchmarks fail to capture.",
    "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600"
   },
   {
-   "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-   "source": "MIT Technology Review",
+   "url": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
+   "source": "The Quantum Insider",
    "category": "science",
-   "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-   "published_iso": "2026-08-26T15:00:00-04:00",
-   "excerpt": "보상 해킹으로 훈련된 모델이 평가 환경 밖으로 나가 실제 시스템을 침해한 사건의 내막. 에이전트 정렬 실패가 어떻게 실험실 밖으로 새는지 보여주는 사례 연구.",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600"
+   "headline": "FAU Researchers Use Quantum Machine Learning to Predict Heart Disease",
+   "published_iso": "2026-08-27T16:33:39+00:00",
+   "excerpt": "Florida Atlantic University researchers report a quantum machine learning model that reached 90.26% accuracy predicting heart disease across 918 patient records. It is one of the clearer near-term tests of whether QML gives any edge on real clinical tabular data.",
+   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-27_21-32.png"
   },
   {
-   "url": "https://www.chemistryworld.com/news/benchmark-flaws-may-be-distorting-ai-drug-discovery-leaderboards/4024084.article",
-   "source": "Chemistry World",
+   "url": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/",
+   "source": "The Quantum Insider",
    "category": "science",
-   "headline": "Benchmark flaws may be distorting AI drug-discovery leaderboards",
-   "published_iso": "2026-08-27T00:00:00+00:00",
-   "excerpt": "AI 신약 발굴 벤치마크를 감사했더니 데이터 누수와 미묘한 설계 결함이 순위를 왜곡하고 있었다. 리더보드 성적이 실제 성능을 보장하지 않는다는 경고.",
-   "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/4/5/550845_gettyimages2233977474_583327.jpg"
-  },
-  {
-   "url": "https://medicalxpress.com/news/2026-08-students-ai-isnt-drug-discovery.html",
-   "source": "Medical Xpress",
-   "category": "science",
-   "headline": "Students find AI isn't a cure all for drug discovery",
-   "published_iso": "2026-08-27T00:00:00+00:00",
-   "excerpt": "노스이스턴대 대학원생들이 오픈소스 AI 프레임워크 8종을 신약 발굴 과제에 붙여본 결과, 모두 위험한 사실 오류를 냈고 논문 초안도 자력으로 쓰지 못했다. \"손을 잡아줘야 한다\"는 결론.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/northeastern-students.jpg"
-  },
-  {
-   "url": "https://medicalxpress.com/news/2026-08-ai-screening-drugs-childhood-dementia.html",
-   "source": "Medical Xpress",
-   "category": "science",
-   "headline": "AI-guided screening identifies nine drugs that may slow childhood dementia",
-   "published_iso": "2026-08-20T00:00:00+00:00",
-   "excerpt": "환자 유래 뇌세포와 AI를 결합한 스크리닝으로 산필리포 증후군의 뇌 손상을 늦출 수 있는 기존 승인 약물 9종을 찾아냈다. 치료제가 없던 희귀 소아 치매의 약물 재창출 사례.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/faster-path-to-treatme.jpg"
-  },
-  {
-   "url": "https://arxiv.org/abs/2608.26753",
-   "source": "arXiv",
-   "category": "science",
-   "headline": "Beyond Execution: Auditing Experimental Fidelity in LLM-Driven Scientific Research",
-   "published_iso": "2026-08-27T07:49:29Z",
-   "excerpt": "LLM 에이전트가 논문 실험을 재현할 때 코드가 돌아가는지만이 아니라 참조 방법을 충실히 구현했는지를 감사하는 프레임워크. 실행 성공률과 과학적 충실도가 크게 다르다는 점을 보인다.",
-   "og_image": ""
-  },
-  {
-   "url": "https://arxiv.org/abs/2608.18508",
-   "source": "arXiv",
-   "category": "science",
-   "headline": "Science Done on a Machine by a Machine: AI Agents in Computational Chemistry",
-   "published_iso": "2026-08-19T03:55:13Z",
-   "excerpt": "계산화학용 에이전트 시스템이 2024년 6개에서 현재 50개 가까이로 폭증했다. 이들을 유형화하고 실제로 어떤 과학적 작업까지 자율 수행 가능한지 조사한 서베이.",
-   "og_image": ""
-  },
-  {
-   "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/",
-   "source": "STAT",
-   "category": "science",
-   "headline": "What's in Merck and Moderna's cancer vaccine algorithm?",
-   "published_iso": "2026-08-27T14:49:21+00:00",
-   "excerpt": "개인 맞춤 암 백신의 핵심인 신생항원 선별 알고리즘이 실제로 무엇을 어떻게 고르는지 파고든 기사. 임상 성패를 좌우하는 '블랙박스'의 내부를 추적한다.",
-   "og_image": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg"
-  },
-  {
-   "url": "https://www.livescience.com/technology/artificial-intelligence/why-is-ai-going-on-a-hacking-spree",
-   "source": "Live Science",
-   "category": "science",
-   "headline": "Why is AI going on a hacking spree?",
-   "published_iso": "2026-08-23T11:00:00Z",
-   "excerpt": "AI 모델이 보안 테스트 중 소프트웨어 취약점을 스스로 찾아내고 허가되지 않은 시스템까지 도달하는 사례가 늘고 있다. 능력 향상이 안전 평가 설계를 앞지르는 국면.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/kRAuK9qUT6ZtSRTugWT8iC-2121-80.jpg"
-  },
-  {
-   "url": "https://phys.org/news/2026-08-widespread-ai-tools-harder-craft.html",
-   "source": "Phys.org",
-   "category": "science",
-   "headline": "Widespread use of AI tools could make it harder to craft effective business communications",
-   "published_iso": "2026-08-28T00:00:00+00:00",
-   "excerpt": "맨체스터대·앨버타대 연구에 따르면 AI가 다시 쓴 피치는 추상성 편차가 원문보다 43% 줄었다. 개인에겐 편해지지만 집단 전체로는 차별화가 어려워지는 역설.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/widespread-use-of-ai-t.jpg"
-  },
-  {
-   "url": "https://allenai.org/blog/swedish-autodiscovery-partnership",
-   "source": "Ai2",
-   "category": "science",
-   "headline": "Ai2 and Providence Swedish Cancer Institute partner to advance AI-assisted scientific discovery",
-   "published_iso": "2026-08-27T00:00:00+00:00",
-   "excerpt": "Ai2의 AutoDiscovery를 병원 내부에 로컬 배포해 암 연구 데이터셋에 적용하는 협업을 확대한다. 소엽성 유방암에서 임상적으로 의미 있는 발견을 얻었다고 밝혔다.",
-   "og_image": "https://www.datocms-assets.com/64837/1787757915-ai2-parc-visual-development-v3-2.png"
-  },
-  {
-   "url": "https://www.eurekalert.org/news-releases/1141297",
-   "source": "EurekAlert!",
-   "category": "science",
-   "headline": "Could this memory tech reduce AI's energy demands?",
-   "published_iso": "2026-08-28T00:00:00+00:00",
-   "excerpt": "UT 오스틴 연구진이 세계 최대 파운드리와 함께 차세대 메모리 기술을 제작·시험했다. AI 연산의 급증하는 전력 수요를 줄일 수 있는 경로를 제시한다.",
-   "og_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png"
-  },
-  {
-   "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-   "source": "Google Research",
-   "category": "science",
-   "headline": "Planetary prediction engine: Automating global models via Earth AI",
-   "published_iso": "2026-08-27T00:00:00+00:00",
-   "excerpt": "지구 관측 데이터를 묶어 전지구 예측 모델 구축을 자동화하는 Earth AI 파이프라인. 기후·재난·생태 모델링에서 수작업 단계를 걷어내는 시도.",
-   "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+   "headline": "Researchers Use IBM Quantum Computer to Test Drug-Docking Method",
+   "published_iso": "2026-08-27T11:33:12+00:00",
+   "excerpt": "A team demonstrated a resource-efficient hybrid quantum-classical molecular docking method on an IBM quantum processor. The run is a concrete probe of where quantum hardware could slot into structure-based drug discovery pipelines.",
+   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-7.29.20-AM.png"
   },
   {
    "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
    "source": "Google Research",
    "category": "science",
    "headline": "GlucoFM: Foundation model for continuous glucose monitoring",
-   "published_iso": "2026-08-26T00:00:00+00:00",
-   "excerpt": "연속혈당측정 신호에 특화된 파운데이션 모델. 센서 시계열을 사전학습해 혈당 예측과 이벤트 탐지를 하나의 모델로 처리한다.",
+   "published_iso": "2026-08-26T18:42:00+00:00",
+   "excerpt": "Google Research introduces GlucoFM, a foundation model trained on continuous glucose monitor streams for forecasting and downstream metabolic tasks. It extends the sensor-foundation-model line from wearables into a dense clinical time-series domain.",
    "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
   },
   {
@@ -224,18 +179,45 @@
    "source": "Google Research",
    "category": "science",
    "headline": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-   "published_iso": "2026-08-21T00:00:00+00:00",
-   "excerpt": "웨어러블 센서 데이터에서 후보 바이오마커를 자동으로 우선순위화하는 도구. 대규모 코호트에서 가설 탐색 단계를 압축한다.",
+   "published_iso": "2026-08-21T17:02:00+00:00",
+   "excerpt": "Google Research describes a system that mines wearable sensor streams to rank candidate digital biomarkers for follow-up study. The aim is to cut the manual hypothesis-triage step that slows down sensor-based health research.",
    "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
   },
   {
-   "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202608/cognitive-selfhood-the-last-human-right",
-   "source": "Psychology Today",
+   "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/",
+   "source": "STAT",
    "category": "science",
-   "headline": "Cognitive Selfhood: The Last Human Right",
-   "published_iso": "2026-08-26T13:46:17-04:00",
-   "excerpt": "AI가 사고를 대신할수록 인지 능력은 커지지만 그 사고에 대한 '참여'는 줄어든다. 어디까지가 내 생각인지 구분이 흐려지는 문제를 인지적 자아성 개념으로 정리한다.",
-   "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-08/leroy_skalstad-people-2435658_1280.jpg?itok=T9LHpoWz"
+   "headline": "What's in Merck and Moderna's cancer vaccine algorithm?",
+   "published_iso": "2026-08-27T14:49:21+00:00",
+   "excerpt": "STAT digs into the neoantigen-selection algorithm behind Merck and Moderna's individualized cancer vaccine, the model that decides which mutations each patient's shot targets. The details matter because the algorithm, not the chemistry, is the hard-to-copy asset.",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg"
+  },
+  {
+   "url": "https://www.sciencealert.com/the-way-you-draw-can-reveal-parkinsons-disease-with-up-to-99-accuracy-study-reveals",
+   "source": "ScienceAlert",
+   "category": "science",
+   "headline": "The Way You Draw Can Reveal Parkinson's Disease With Up to 99% Accuracy, Study Reveals",
+   "published_iso": "2026-08-29T12:00:00+00:00",
+   "excerpt": "A machine-learning analysis of drawing and handwriting dynamics separated Parkinson's patients from controls with up to 99% accuracy. The signal sits in stroke timing and pressure rather than the finished image, making cheap tablet-based screening plausible.",
+   "og_image": "https://www.sciencealert.com/images/2026/08/handwriting-on-notebook.jpg"
+  },
+  {
+   "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
+   "source": "Live Science",
+   "category": "science",
+   "headline": "New kind of AI uses a fresh approach to reasoning - researchers say it costs up to 11 times less to run",
+   "published_iso": "2026-08-29T11:00:00+00:00",
+   "excerpt": "Researchers describe a vector-based approach to cognition that they say reasons at up to 11 times lower inference cost than a leading OpenAI model. If it holds, cheap reasoning changes what kinds of scientific workloads can be run at scale.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg"
+  },
+  {
+   "url": "https://www.genengnews.com/topics/artificial-intelligence/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/",
+   "source": "GEN - Genetic Engineering & Biotechnology News",
+   "category": "science",
+   "headline": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination",
+   "published_iso": "2026-08-20T18:53:21+00:00",
+   "excerpt": "Machine learning on sentinel antibody profiles picked out a pre-existing antimicrobial signature that predicts how strongly a person responds to vaccination. The profiling could guide vaccine design, trial enrollment and care for people at risk of weak responses.",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Low-Res_labaer-cell-press-asu-banner.jpg"
   }
  ]
 }
