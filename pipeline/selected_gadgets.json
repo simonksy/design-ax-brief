@@ -1,124 +1,61 @@
 {
+  "date": "2026-08-30",
   "section": "gadgets",
-  "generated_at": "2026-08-29T00:00:00Z",
-  "selection_mode": "curator_auto",
-  "dedup": {
-    "against": "pipeline/news_data.json -> sections.gadgets (today + 5 days)",
-    "published_days_checked": ["2026-08-28", "2026-08-27", "2026-08-26", "2026-08-25", "2026-08-22", "2026-08-21"],
-    "dropped_as_duplicate": [
-      {
-        "url": "https://www.tomsguide.com/ai/less-pervert-y-meta-ai-glasses-will-now-stop-recording-if-you-cover-the-warning-light",
-        "reason": "Same event as published card gadgets-meta-led (The Verge, 2026-08-28) — Meta closing the covered-capture-LED loophole."
-      },
-      {
-        "url": "https://9to5google.com/2026/08/27/plaud-one-is-a-pair-of-air-recording-earbuds/",
-        "reason": "Same product launch as published card gadgets-plaud-one (CNET, 2026-08-28) — Plaud One recording earbuds ahead of IFA."
-      },
-      {
-        "url": "https://www.androidcentral.com/apps-software/android-os/nothing-os-5-0-drops-with-android-17-and-on-device-app-building",
-        "reason": "Same release as published card gadgets-nothing-os5 (Digital Trends, 2026-08-26) — Nothing OS 5.0 on Android 17."
-      },
-      {
-        "url": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
-        "reason": "Same Gurman smart-home-display story cluster already covered by gadgets-homepad-faces (9to5Mac, 2026-08-21); also duplicated within the pool by two other Apple Home items."
-      },
-      {
-        "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
-        "reason": "Within-pool duplicate of the same Apple Home launch cluster (see above)."
-      },
-      {
-        "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
-        "reason": "Within-pool duplicate of the same Apple Home roadmap cluster, and two weeks old."
-      },
-      {
-        "url": "https://gizmodo.com/ifa-2026-berlin-will-show-why-the-future-of-ai-and-smart-homes-is-already-here-with-the-latest-tech-from-around-the-world-2000800765",
-        "reason": "Within-pool duplicate of the Tom's Guide IFA 2026 preview; both are evergreen show previews with no new release."
-      },
-      {
-        "url": "https://www.slashgear.com/2246785/google-pixel-watch-5-review-2026/",
-        "reason": "Pixel Watch 5 launch cluster already published (gadgets-pixelwatch5-breathing, 2026-08-21); the 9to5Google watch-face-generator item is the same cluster and is 8 days old."
-      }
-    ],
-    "notes": "Backfilled down the ranked pool after drops; 5 distinct never-before-published stories remain, no shared URLs."
-  },
   "picks": [
     {
-      "rank": 1,
-      "category": "gadgets",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-review",
+      "source": "Android Central",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "headline": "LG's Evo AI GM9 puts a 5K mini-LED creative display on the desk — at a price",
-      "url": "https://www.pcworld.com/article/3215049/lg-ultragear-evo-ai-gm9-review.html",
-      "source": "PCWorld",
-      "published_iso": "2026-08-28T14:00:00+00:00",
-      "og_image": "https://www.pcworld.com/wp-content/uploads/2026/08/3215049-0-52297700-1787925637-PXL_20260813_091018089.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "The GM9 is a top-of-the-range monitor for creative work, media and gaming. And it costs a fair bit.",
-      "rationale": "The one item in the pool that lands directly on a designer's desk — a measured review of a 5K mini-LED panel aimed at colour-critical creative work."
+      "rationale": "The first full review of Google's flagship: the Pixel 11 folds AI straight into social posting and capture, so it shows where on-device AI is landing in everyday product UX rather than in spec sheets.",
+      "published_iso": "2026-08-29T15:10:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/b5BJxHtKg6ZNPEksyUxVB9-2000-80.jpg",
+      "excerpt": "The Pixel 11 gets social with some interesting new tools — a full review of how Google blends social media features and AI magic into its new flagship."
     },
     {
-      "rank": 2,
-      "category": "gadgets",
+      "url": "https://9to5google.com/2026/08/27/gemini-intelligence-nano-4/",
+      "source": "9to5Google",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "headline": "XREAL's hands-on shows Android XR finally has hardware worth designing for",
-      "url": "https://9to5google.com/2026/08/28/xreal-android-xr-hands-on/",
-      "source": "9to5Google",
-      "published_iso": "2026-08-28T19:05:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/xreal-one-pro-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "I've always been a bit skeptical of smart glasses and mixed reality headsets. It's not hard to find the utility...",
-      "rationale": "First real hands-on read of the platform XR interfaces will be built on — a skeptic's account of where Android XR's utility actually begins."
+      "rationale": "Google quietly drew the hardware line for on-device AI: Gemini Intelligence needs Nano 3, and the first Nano 4 phones are already listed — the clearest signal yet of which devices will actually run next-gen local models.",
+      "published_iso": "2026-08-27T21:59:06+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-intelligence-3.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Following the launch of the Pixel 11 series, Google updated its developer documentation for Gemini Nano 4 — spelling out that Gemini Intelligence requires Nano 3 and naming the first Nano 4 devices."
     },
     {
-      "rank": 3,
-      "category": "gadgets",
+      "url": "https://www.engadget.com/2242748/how-to-use-the-new-siri-app-in-ios-27/",
+      "source": "Engadget",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "headline": "Xiaomi's AI Cube stacks three Xring chips to run a 120B model on your desk",
-      "url": "https://www.notebookcheck.net/Xiaomi-unveils-AI-Cube-mini-PC-with-three-Xring-chips-and-150-W-performance.1376717.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-08-24T22:24:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-ai-cube-mini-pc-three-xring-chips.png",
-      "excerpt": "Xiaomi has unveiled the AI Cube engineering prototype, a mini PC that combines its Xring O3, O100 and D100 chips for local AI model deployment. The system supports 120B and 3B models and can deliver up to 150 W performance.",
-      "rationale": "Local model inference moving into a 150 W desktop box — the hardware side of keeping client work and assets off the cloud."
+      "rationale": "Apple's long-delayed assistant rebuild finally ships as a standalone app in iOS 27, and this is the hands-on walkthrough of what it can actually do — the most immediately usable item in the pool.",
+      "published_iso": "2026-08-29T13:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/how-to-use-the-new-siri-app-in-ios-27/l-intro-1787327971.jpg",
+      "excerpt": "A practical walkthrough of the new standalone Siri app in iOS 27 — what it handles, how it differs from the old assistant, and where the rebuilt experience still falls short."
     },
     {
-      "rank": 4,
-      "category": "gadgets",
+      "url": "https://www.androidauthority.com/roborock-qrevo-2-pro-launch-3703080/",
+      "source": "Android Authority",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "headline": "Galaxy S26's seventh One UI 9 beta adds new AI features with the August patch",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-7-3704232/",
-      "source": "Android Authority",
-      "published_iso": "2026-08-28T07:50:29+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-in-hand.jpg",
-      "excerpt": "Samsung has rolled out its seventh One UI 9 beta for the Galaxy S26, delivering new AI features alongside the August 2026 security patches.",
-      "rationale": "The last beta shape of the OS a large slice of users will be on — worth reading now if your product ships an Android surface this autumn."
+      "rationale": "A $550 robot vacuum with automatic mop removal and a self-cleaning dock is the concrete version of 'ambient AI' — the interaction design goal here is that the product disappears from the user's attention entirely.",
+      "published_iso": "2026-08-28T13:00:33+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Roborock-Qrevo-2-Pro-with-the-robot-vacuum-cleaning-floors.jpg",
+      "excerpt": "Roborock's new Qrevo 2 Pro packs 25,000Pa suction, automatic mop removal, anti-tangle brushes, and a smarter self-cleaning dock for $550 — engineered so you forget it is there."
     },
     {
-      "rank": 5,
-      "category": "gadgets",
+      "url": "https://www.digitaltrends.com/phones/two-stage-ai-trick-can-finally-fix-the-low-light-struggle-of-smartphone-cameras/",
+      "source": "Digital Trends",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "headline": "Viture and Phantom Blade Zero's studio turn XR glasses into a character object",
-      "url": "https://www.androidcentral.com/gaming/virtual-reality/viture-s-game-phantom-beast-collab-has-to-be-the-dopest-kungfupunk-xr-glasses-ive-seen",
-      "source": "Android Central",
-      "published_iso": "2026-08-27T19:12:49Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/cxxhYV9mTWyXsykiC3hwGm-2560-80.jpg",
-      "excerpt": "Viture collabs with S-Game, the studio behind Phantom Blade Zero, for the Phantom Beast XR glasses with the sickest design I",
-      "rationale": "A rare case of XR eyewear styled as a game-world artifact rather than a black wayfarer — a live test of whether identity, not spec, sells wearables."
+      "rationale": "A two-stage pipeline that lifts UHD low-light images without smearing texture or edges targets the exact failure mode of current night modes — research that maps directly onto how phone cameras will render detail next.",
+      "published_iso": "2026-08-28T11:56:24-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/06/Apple-iPhone-17-Pro-White.jpg?resize=1200%2C630",
+      "excerpt": "Researchers have developed a two-stage AI system that enhances ultra-high-definition low-light images while preserving fine textures, edges and scene details — the part night mode usually destroys."
     }
-  ],
-  "diversity_check": {
-    "outlets": ["PCWorld", "9to5Google", "Notebookcheck", "Android Authority", "Android Central"],
-    "max_per_outlet": 1,
-    "distinct_outlets": 5,
-    "categories": {"gadgets": 5},
-    "topic_spread": ["creative display", "XR platform", "local AI hardware", "mobile OS beta", "XR industrial design"],
-    "passes": true
-  }
+  ]
 }

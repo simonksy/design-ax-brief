@@ -1,9 +1,56 @@
 {
+  "generated_at": "2026-08-30T00:00:00Z",
+  "section": "science",
   "media": [
-    { "id": "science-quera-claude", "type": "image", "src": "pipeline/media/science-quera-claude.jpg" },
-    { "id": "science-agent-hack",   "type": "image", "src": "pipeline/media/science-agent-hack.jpg" },
-    { "id": "science-bench-leak",   "type": "image", "src": "pipeline/media/science-bench-leak.jpg" },
-    { "id": "science-earth-ai",     "type": "image", "src": "pipeline/media/science-earth-ai.png" },
-    { "id": "science-alpha-tutor",  "type": "image", "src": "pipeline/media/science-alpha-tutor.jpg" }
+    {
+      "id": "science-mof-linker-ml",
+      "type": "image",
+      "src": "pipeline/media/science-mof-linker-ml.jpg",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg",
+      "origin": "og_image",
+      "width": 800,
+      "height": 530,
+      "note": "phys.org article HTML returned 403 to curl; og:image fetched directly from the ungated scx1.b-cdn.net CDN"
+    },
+    {
+      "id": "science-cancer-vaccine-algorithm",
+      "type": "image",
+      "src": "pipeline/media/science-cancer-vaccine-algorithm.jpg",
+      "source_url": "https://www.statnews.com/wp-content/uploads/2022/11/5.jpg",
+      "origin": "lead_image",
+      "width": 1600,
+      "height": 900,
+      "note": "article hero (full-res original of the og:image derivative); the only other in-page images were Recommended-reading recirculation cards"
+    },
+    {
+      "id": "science-glucofm",
+      "type": "image",
+      "src": "pipeline/media/science-glucofm.png",
+      "source_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/GlucoFM1_Overview.png",
+      "origin": "lead_image",
+      "width": 1553,
+      "height": 1207,
+      "note": "story-specific GlucoFM overview figure preferred over the generic Google Research OG banner"
+    },
+    {
+      "id": "science-parkinsons-drawing",
+      "type": "image",
+      "src": "pipeline/media/science-parkinsons-drawing.jpg",
+      "source_url": "https://www.sciencealert.com/images/2026/08/spirals-and-meanders.jpg",
+      "origin": "lead_image",
+      "width": 642,
+      "height": 452,
+      "note": "first in-article content image after the H1 (the spiral/meander drawing task itself)"
+    },
+    {
+      "id": "science-quantum-docking",
+      "type": "image",
+      "src": "pipeline/media/science-quantum-docking.png",
+      "source_url": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-7.29.20-AM.png",
+      "origin": "lead_image",
+      "width": 832,
+      "height": 598,
+      "note": "article lead figure, identical to og:image"
+    }
   ]
 }

@@ -1,148 +1,85 @@
 {
-  "generated_at": "2026-08-28T22:05:00Z",
+  "date": "2026-08-30",
+  "now_iso": "2026-08-29T22:00:27Z",
   "section": "games",
-  "now_iso": "2026-08-28T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "headline": "Rockstar formed a new LA-based team to develop more realistic NPCs for Grand Theft Auto 6",
-      "published_iso": "2026-08-28T09:32:46+00:00",
-      "excerpt": "Rockstar built a dedicated team to push NPC behaviour past Red Dead Redemption 2's 'level of interactive fidelity'. It's a hand-authored, systems-driven answer to the generative-NPC pitch the rest of the industry is selling.",
-      "og_image": "https://assetsio.gnwcdn.com/gta-npcs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "title": "\"Hopefully a meteor will strike the earth soon\": Game devs talk genAI witchhunts and the importance of honing your visual literacy",
+      "url": "https://www.rockpapershotgun.com/hopefully-a-meteor-will-strike-the-earth-soon-game-devs-talk-genai-witchhunts-and-the-importance-of-honing-your-visual-literacy",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-08-28T15:49:03Z",
+      "excerpt": "Failbetter, New Blood and other game developers on the importance of honing your visual (and technical) literacy if you want to effectively spot — and fight — genAI art in games.",
+      "og_image": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "category": "games"
     },
     {
-      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline",
-      "source": "80 Level",
-      "category": "games",
-      "headline": "How Tripo Is Tackling Clean Topology for its 3D Asset Pipeline",
-      "published_iso": "2026-08-28T15:00:00+00:00",
-      "excerpt": "Tripo's chief scientist details Smart Mesh, which generates game-ready characters with usable topology in under 10 seconds. The pitch is closing the gap between AI-generated meshes and assets that survive a Maya/Blender production pipeline.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49865/images/6a8caa21e033b/contain_1200x630.jpg"
-    },
-    {
-      "url": "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/",
-      "source": "Polygon",
-      "category": "games",
-      "headline": "The Last of Us, Skyrim and More Get Unreal Makeovers With Nvidia's Controversial AI Tech",
-      "published_iso": "2026-08-28T20:08:05+00:00",
-      "excerpt": "PC players are running leaked DLSS 5 neural graphics over GTA: San Andreas and Skyrim, and the results are photoreal but uncanny. It's an early look at AI re-rendering overriding an art director's original intent.",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/nord.JPG?w=1600&h=900&fit=crop"
-    },
-    {
-      "url": "https://wccftech.com/modder-makes-nvidia-dlss-5-neural-rendering-work-on-geforce-rtx-40-series-through-a-simple-cuda-binaries-swap/",
-      "source": "Wccftech",
-      "category": "games",
-      "headline": "Modder Makes NVIDIA DLSS 5 Neural Rendering Work On GeForce RTX 40 Series Through A Simple CUDA Binaries Swap",
-      "published_iso": "2026-08-28T17:39:53+00:00",
-      "excerpt": "A CUDA binary swap gets DLSS 5's neural rendering running on last-gen RTX 40 cards ahead of release. If it holds, the install base for AI-rendered visuals widens far beyond NVIDIA's roadmap.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/RTX-5090-DLSS-5.jpg"
-    },
-    {
-      "url": "https://kotaku.com/experimental-build-of-nvidias-dlss-5-ai-slop-filter-leaks-and-makes-beloved-video-game-characters-look-like-complete-weirdos-2000729289",
-      "source": "Kotaku",
-      "category": "games",
-      "headline": "Experimental Build Of Nvidia's DLSS 5 AI Slop Filter Leaks And Turns Beloved Video Game Characters Into Uncanny Valley Weirdos",
-      "published_iso": "2026-08-28T13:34:00+00:00",
-      "excerpt": "An experimental DLSS 5 build escaped into modders' hands and is re-skinning classic characters into uncanny near-photoreal versions. The leak reopens the question of who owns a game's visual style once AI post-processing ships.",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/image-2026-08-28T093153.339-1200x675.jpg"
-    },
-    {
-      "url": "https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy",
-      "source": "Eurogamer",
-      "category": "games",
-      "headline": "\"Somebody will make the Half-Life 2 of AI\" - Saber CCO on the Rideshare gen-AI controversy",
-      "published_iso": "2026-08-28T11:04:23+00:00",
-      "excerpt": "Saber's chief creative officer argues one genuinely great AI-built game would flip public sentiment overnight. It's the clearest statement yet of the 'prove it with craft' position inside a studio already under fire.",
-      "og_image": "https://assetsio.gnwcdn.com/saber-ai-half-life-2-rideshare.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
+      "title": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look, developer Amplitude clarifies",
       "url": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
       "source": "Eurogamer",
-      "category": "games",
-      "headline": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look",
-      "published_iso": "2026-08-26T08:51:30+00:00",
-      "excerpt": "Amplitude had to publicly explain that its Gamescom trailer used real actors, practical sets and custom props. Suspicion has now reached the point where human-made work has to defend itself.",
-      "og_image": "https://assetsio.gnwcdn.com/humankind-2-trailer-shot-crop-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "published_iso": "2026-08-26T08:51:30Z",
+      "excerpt": "Amplitude had to publicly explain its Humankind 2 reveal trailer's art direction after players read its look as AI-generated — a sign of how style now reads as provenance.",
+      "og_image": "https://assetsio.gnwcdn.com/humankind-2-trailer-shot-crop-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "category": "games"
     },
     {
+      "title": "Interview: Building a Wuxia Sandbox RPG With Up to 10,000 Dynamic NPCs",
+      "url": "https://80.lv/articles/interview-building-a-wuxia-sandbox-rpg-with-up-to-10-000-dynamic-npcs",
+      "source": "80 Level",
+      "published_iso": "2026-08-24T23:11:00Z",
+      "excerpt": "ConchShip Games explains how The Scroll of Taiwu drives up to 10,000 dynamic NPCs, 700+ martial arts skills and generational storytelling through systemic sandbox design rather than hand-authored content.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49868/images/6a8ccee3d8de1/contain_1200x630.jpg",
+      "category": "games"
+    },
+    {
+      "title": "Is This All You Can Conjure",
+      "url": "https://aftermath.site/google-ai-video-games/",
+      "source": "Aftermath",
+      "published_iso": "2026-08-25T23:40:46Z",
+      "excerpt": "A withering look at Google's AI-in-games sales pitch: '...we are 3-4 years into this collective descent into madness, and this is all you can come up with to support it?'",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
+      "category": "games"
+    },
+    {
+      "title": "After AI backlash, Assassin's Creed creator says 1666: Amsterdam \"won't be using any AI anymore\" and only used it \"in conception and pre-production\"",
       "url": "https://www.gamesradar.com/games/action/after-ai-backlash-assassins-creed-creator-says-1666-amsterdam-wont-be-using-any-ai-anymore-and-only-used-it-in-conception-and-pre-production/",
       "source": "GamesRadar+",
-      "category": "games",
-      "headline": "After AI backlash, Assassin's Creed creator says 1666: Amsterdam \"won't be using any AI anymore\"",
-      "published_iso": "2026-08-28T20:21:07+00:00",
-      "excerpt": "Patrice Desilets says generative AI was only used in conception and pre-production, and the studio is dropping it entirely. Concept-phase AI is turning into a liability even when it never reaches the shipped build.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QB56YqdGN3vLyjbf9qufT6-1920-80.png"
+      "published_iso": "2026-08-28T20:21:07Z",
+      "excerpt": "Patrice Desilets says 1666: Amsterdam has dropped AI from production entirely after backlash, having used it only in concept and pre-production phases.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QB56YqdGN3vLyjbf9qufT6-1920-80.png",
+      "category": "games"
     },
     {
-      "url": "https://www.gamesradar.com/games/strategy/humankind-2-devs-respond-to-ai-slop-accusations-assure-fans-its-new-gamescom-trailer-features-real-actors-practical-sets-and-custom-made-props/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "headline": "Humankind 2 devs respond to \"AI slop\" accusations, assure fans its new Gamescom trailer features \"real actors, practical sets, and custom-made props\"",
-      "published_iso": "2026-08-26T14:53:59+00:00",
-      "excerpt": "Amplitude itemised the practical production behind its reveal trailer after players called it AI-generated. Studios now need a provenance story for human-made marketing art.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kXohc6KdvhDoDVL2nGynUa-1920-80.jpg"
+      "title": "Here Are The Opening Night Live Games You Can Ignore Because Of GenAI Slop",
+      "url": "https://kotaku.com/opening-night-live-2026-genai-slop-games-geoff-keighley-2000728477",
+      "source": "Kotaku",
+      "published_iso": "2026-08-26T21:30:31Z",
+      "excerpt": "Kotaku catalogues the Gamescom Opening Night Live 2026 reveals built on generative AI assets: 'Some were already known to feature genAI, but a lot of them are new.'",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/ai-gamescom-games-1200x675.jpg",
+      "category": "games"
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/id-softwares-former-co-owner-says-they-absolutely-wouldve-used-gen-ai-back-in-the-day-john-carmack-would-be-like-making-skynet-or-something/",
+      "title": "James Pond Co-Creator Calls AI-Rife Remake 'Soulless'",
+      "url": "https://kotaku.com/james-pond-co-creator-calls-ai-rife-remake-disrespectful-and-soulless-2000729581",
+      "source": "Kotaku",
+      "published_iso": "2026-08-29T17:50:57Z",
+      "excerpt": "Original developer Chris Sorrell condemns an AI-heavy James Pond remake as disrespectful and soulless: 'I hope they choke on an AI-generated fishbone.'",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/james-pond-1.jpg",
+      "category": "games"
+    },
+    {
+      "title": "Dwarf Fortress gets its first Myth and Magic update later this year, bringing each player's world its own procedural magic system",
+      "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/",
       "source": "PC Gamer",
-      "category": "games",
-      "headline": "id Software's former co-owner says they absolutely would've used gen AI back in the day",
-      "published_iso": "2026-08-28T13:53:23+00:00",
-      "excerpt": "An id Software co-founder argues the Doom-era team would have grabbed generative tools instantly, framing AI as continuous with the studio's tech-first culture. A useful counterweight to the 'real devs don't use AI' framing.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kHZZqCzDLKx8KtKh8MEg3a-1600-80.jpg"
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/take-twos-former-ai-guy-is-in-a-twist-skeptical-about-ai-now-the-guy-should-be-selling-you-the-gold-if-hes-actually-got-the-gold/",
-      "source": "PC Gamer",
-      "category": "games",
-      "headline": "Take-Two's former AI guy is, in a twist, skeptical about AI now",
-      "published_iso": "2026-08-19T14:24:49+00:00",
-      "excerpt": "The executive who led Take-Two's AI push now questions the vendors selling generative pipelines to studios. An insider's read on which promised gains actually show up in production.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/U8C4YGRTeZ687xyDQ2MbRV-1358-80.jpg"
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/the-bigwigs-who-want-ai-generated-npcs-and-writing-think-youre-too-dumb-to-appreciate-a-good-story-dont-prove-them-right/",
-      "source": "PC Gamer",
-      "category": "games",
-      "headline": "The bigwigs who want AI-generated NPCs and writing think you're too dumb to appreciate a good story",
-      "published_iso": "2026-08-15T14:00:00+00:00",
-      "excerpt": "A pointed argument that generative NPC dialogue substitutes volume for authored narrative craft. Aimed squarely at executives pitching infinite conversation as a feature.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HaiiGDVUVLvrhKqM66eRof-1920-80.jpg"
-    },
-    {
-      "url": "https://www.gamespot.com/articles/saber-responds-to-ai-criticisms-in-rideshare-game-and-promises-we-will-never-fire-someone-and-replace-them-with-ai/",
-      "source": "GameSpot",
-      "category": "games",
-      "headline": "Saber Responds To AI Criticisms In Rideshare Game And Promises, \"We Will Never Fire Someone And Replace Them With AI\"",
-      "published_iso": "2026-08-28T12:57:35+00:00",
-      "excerpt": "Saber issued a formal position on generative AI after the Rideshare disclosure row, committing to no AI-for-headcount swaps. One of the first studio-level AI labour policies written under public pressure.",
-      "og_image": ""
-    },
-    {
-      "url": "https://gamingbolt.com/grand-theft-auto-6-is-at-least-10-years-ahead-of-the-industry-with-npcs-says-iois-ai-programmer",
-      "source": "GamingBolt",
-      "category": "games",
-      "headline": "Grand Theft Auto 6 is \"At Least 10 Years Ahead of the Industry\" With NPCs, Says IOI's AI Programmer",
-      "published_iso": "2026-08-28T00:00:00+00:00",
-      "excerpt": "IO Interactive AI programmer Berkay Dursun says GTA 6 simulates every crowd character individually, putting it a decade ahead. A rival specialist's read on what non-generative game AI can still achieve.",
-      "og_image": "https://gamingbolt.com/wp-content/uploads/2025/05/grand-theft-auto-6-image-18-scaled.jpg"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=BJy-Ogxsb6U",
-      "source": "BlueLine Vibes (YouTube)",
-      "category": "games",
-      "headline": "NPCAI just had an update - Check it out",
-      "published_iso": "2026-08-27T17:00:24+00:00",
-      "excerpt": "A hands-on walkthrough of the latest NPCAI update, showing how the LLM-driven NPC toolkit now behaves in a live game build. Useful for designers evaluating conversational NPC middleware.",
-      "og_image": "https://i.ytimg.com/vi/BJy-Ogxsb6U/maxresdefault.jpg"
+      "published_iso": "2026-08-27T15:12:30Z",
+      "excerpt": "Dwarf Fortress's long-promised Myth and Magic update will generate a bespoke magic system per world — procedural generation as authored design, not model output.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
+      "category": "games"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 15,
+    "dropped": 9,
+    "kept": 8,
     "against_days": 5
   }
 }

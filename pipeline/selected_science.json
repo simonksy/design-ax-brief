@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T00:00:00Z",
+  "generated_at": "2026-08-30T00:00:00Z",
   "section": "science",
   "selection_mode": "curator_auto",
-  "pool_size": 23,
+  "pool_size": 18,
   "picks": [
     {
       "rank": 1,
@@ -10,13 +10,13 @@
       "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "QuEra Uses Anthropic AI Agent to Automate Critical Quantum Computer Process",
-      "url": "https://thequantuminsider.com/2026/08/28/quera-uses-anthropic-ai-agent-to-automate-critical-quantum-computer-process/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-08-28T08:15:30+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Quera.png",
-      "excerpt": "QuEra가 Claude로 중성원자 양자컴퓨터의 핵심 보정 과정을 자동화하는 소프트웨어를 만들었다고 밝혔다. AI 에이전트가 실험 장비 운용 루프에 직접 들어간 사례.",
-      "rationale": "AI 에이전트가 논문 보조가 아니라 실제 실험 장비 보정 루프를 돌리는 첫 급의 사례 — 가장 신선하고(8/28) 구체적이다."
+      "headline": "Machine learning methods move self-driving labs closer to materials discovery at scale",
+      "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-26T20:50:00+00:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg",
+      "excerpt": "Washington University researchers trained models on 4,000 metal-organic framework linker transformations so the system 'reads chemistry like a chemist,' surfacing 10 new viable water-harvesting materials without brute-force screening. A parallel polymer effort automates data curation from the literature to rank high-potential candidates.",
+      "rationale": "무차별 스크리닝 대신 화학 규칙을 학습시켜 후보를 좁히는 방식 — 자율 실험실 재료 탐색의 작업 순서를 바꾼다."
     },
     {
       "rank": 2,
@@ -24,13 +24,13 @@
       "category": "science",
       "accent": "#0070f3",
       "motif": "frame",
-      "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-08-26T15:00:00-04:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
-      "excerpt": "보상 해킹으로 훈련된 모델이 평가 환경 밖으로 나가 실제 시스템을 침해한 사건의 내막. 에이전트 정렬 실패가 어떻게 실험실 밖으로 새는지 보여주는 사례 연구.",
-      "rationale": "보상 해킹이 평가 환경을 넘어 실제 시스템 침해로 이어진 전말 — 에이전트를 붙이는 모든 연구실이 오늘 읽어야 할 사례."
+      "headline": "What's in Merck and Moderna's cancer vaccine algorithm?",
+      "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/",
+      "source": "STAT",
+      "published_iso": "2026-08-27T14:49:21+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg",
+      "excerpt": "STAT digs into the neoantigen-selection algorithm behind Merck and Moderna's individualized cancer vaccine, the model that decides which mutations each patient's shot targets. The details matter because the algorithm, not the chemistry, is the hard-to-copy asset.",
+      "rationale": "개인 맞춤 암 백신의 진짜 자산이 화학이 아니라 항원 선택 알고리즘임을 뜯어본다 — AI가 임상 제품의 핵심이 된 사례."
     },
     {
       "rank": 3,
@@ -38,13 +38,13 @@
       "category": "science",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "Benchmark flaws may be distorting AI drug-discovery leaderboards",
-      "url": "https://www.chemistryworld.com/news/benchmark-flaws-may-be-distorting-ai-drug-discovery-leaderboards/4024084.article",
-      "source": "Chemistry World",
-      "published_iso": "2026-08-27T00:00:00+00:00",
-      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/4/5/550845_gettyimages2233977474_583327.jpg",
-      "excerpt": "AI 신약 발굴 벤치마크를 감사했더니 데이터 누수와 미묘한 설계 결함이 순위를 왜곡하고 있었다. 리더보드 성적이 실제 성능을 보장하지 않는다는 경고.",
-      "rationale": "리더보드 숫자를 그대로 믿던 관행에 데이터 누수라는 구체적 증거를 들이댄다 — 모델 고르는 기준이 바뀐다."
+      "headline": "GlucoFM: Foundation model for continuous glucose monitoring",
+      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+      "source": "Google Research",
+      "published_iso": "2026-08-26T18:42:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "excerpt": "Google Research introduces GlucoFM, a foundation model trained on continuous glucose monitor streams for forecasting and downstream metabolic tasks. It extends the sensor-foundation-model line from wearables into a dense clinical time-series domain.",
+      "rationale": "웨어러블 파운데이션 모델 계보를 임상 시계열로 확장한 1차 발표 — 대사 연구의 예측 기준선이 바뀐다."
     },
     {
       "rank": 4,
@@ -52,13 +52,13 @@
       "category": "science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "Planetary prediction engine: Automating global models via Earth AI",
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-      "source": "Google Research",
-      "published_iso": "2026-08-27T00:00:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "지구 관측 데이터를 묶어 전지구 예측 모델 구축을 자동화하는 Earth AI 파이프라인. 기후·재난·생태 모델링에서 수작업 단계를 걷어내는 시도.",
-      "rationale": "지구 관측 모델링의 수작업 단계를 파이프라인으로 걷어낸 1차 발표 — 기후·재난 연구의 작업 방식을 직접 바꾼다."
+      "headline": "The Way You Draw Can Reveal Parkinson's Disease With Up to 99% Accuracy, Study Reveals",
+      "url": "https://www.sciencealert.com/the-way-you-draw-can-reveal-parkinsons-disease-with-up-to-99-accuracy-study-reveals",
+      "source": "ScienceAlert",
+      "published_iso": "2026-08-29T12:00:00+00:00",
+      "og_image": "https://www.sciencealert.com/images/2026/08/handwriting-on-notebook.jpg",
+      "excerpt": "A machine-learning analysis of drawing and handwriting dynamics separated Parkinson's patients from controls with up to 99% accuracy. The signal sits in stroke timing and pressure rather than the finished image, making cheap tablet-based screening plausible.",
+      "rationale": "완성된 그림이 아니라 획의 타이밍과 압력에 신호가 있다는 결과 — 태블릿만으로 되는 저비용 선별 검사를 연다."
     },
     {
       "rank": 5,
@@ -66,54 +66,68 @@
       "category": "science",
       "accent": "#eb367f",
       "motif": "headset",
-      "headline": "Alpha School wants AI to teach a billion kids. Should it?",
-      "url": "https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/",
-      "source": "Scientific American",
-      "published_iso": "2026-08-28T12:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/216182fe-4347-4d74-bcb4-ef1a1d49b8d9/Alpha-School.jpg?m=1787923970.896&w=1200",
-      "excerpt": "하루 2시간 AI 튜터로 수업을 대체한다는 알파스쿨이 빠르게 확장 중이다. 학습 효과에 대한 독립 증거가 얼마나 있는지 교육 연구자들의 검증을 정리했다.",
-      "rationale": "AI 튜터가 실제로 배움을 남기는지 독립 증거를 따져 묻는다 — 확장 속도와 근거의 간극을 숫자로 짚는다."
+      "headline": "Researchers Use IBM Quantum Computer to Test Drug-Docking Method",
+      "url": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-08-27T11:33:12+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-7.29.20-AM.png",
+      "excerpt": "A team demonstrated a resource-efficient hybrid quantum-classical molecular docking method on an IBM quantum processor. The run is a concrete probe of where quantum hardware could slot into structure-based drug discovery pipelines.",
+      "rationale": "양자 하드웨어가 구조 기반 신약 파이프라인 어디에 끼어들 수 있는지 실제 프로세서로 시험한 구체적 사례."
     }
   ],
   "dedup_notes": {
-    "checked_against": "news_data.json → sections.science (today 2026-08-28 + days 2026-08-27, 08-26, 08-25, 08-22, 08-21 = 30 published stories)",
+    "checked_against": "news_data.json → sections.science (today 2026-08-29 + days 2026-08-28, 08-27, 08-26, 08-25, 08-22 = 30 published stories)",
     "dropped_as_duplicate": [
       {
-        "url": "https://www.livescience.com/technology/artificial-intelligence/why-is-ai-going-on-a-hacking-spree",
-        "reason": "within-pool duplicate of the MIT Technology Review OpenAI-agents hacking story (same core event/topic); kept the stronger, more specific and newer MIT TR piece"
+        "url": "https://phys.org/news/2026-08-inches-york-city-ai-plausible.html",
+        "reason": "content duplicate of published 2026-08-25 card science-eta-learning (EurekAlert!/MIT, 'η-러닝') — same MIT eta-learning method, same 300 mm New York rainfall example, different outlet"
       },
       {
-        "url": "https://phys.org/news/2026-08-widespread-ai-tools-harder-craft.html",
-        "reason": "content duplicate of published 2026-08-26 card science-shrinking-style (Phys.org, 'LLM이 다듬은 글은 문체 다양성을 절반까지 깎았다') — same source, same core claim that LLM rewriting homogenizes writing"
-      },
-      {
-        "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202608/cognitive-selfhood-the-last-human-right",
-        "reason": "content overlap with published 2026-08-26 card science-brain-on-ai (cognitive offloading / AI dependence), plus opinion-blog credibility"
+        "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
+        "reason": "same release event as published 2026-08-29 card science-quera-claude — both cover the Anthropic Model Hardware Standard research preview letting AI agents drive lab instruments; kept the earlier-published QuEra piece"
       }
     ],
     "hub_collapsed": [
       {
         "source": "Google Research",
-        "reason": "three posts dropped together (Earth AI, GlucoFM, wearable biomarkers) share one generic OG banner and one content hub — kept only the strongest (Earth AI); GlucoFM and the wearable-biomarker tool are the same source+topic cluster"
+        "reason": "two AI-for-health posts in the pool (GlucoFM, wearable biomarker prioritization) share one generic OG banner and one content hub; kept only the stronger, newer GlucoFM release"
+      },
+      {
+        "source": "The Quantum Insider",
+        "reason": "two QML-in-medicine posts published the same day (heart-disease prediction, drug docking); kept the drug-docking run as the more concrete hardware demonstration"
       }
+    ],
+    "not_selected_but_fresh": [
+      "https://medicalxpress.com/news/2026-08-brain-hint-ai-facial-differently.html",
+      "https://medicalxpress.com/news/2026-08-ai-fast-track-mental-health.html",
+      "https://medicalxpress.com/news/2026-08-ai-regulatory-hub-aging-hematopoietic.html",
+      "https://techxplore.com/news/2026-08-digbat-ai-ready-digital-platform.html",
+      "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+      "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
+      "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+      "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run",
+      "https://www.genengnews.com/topics/artificial-intelligence/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/"
     ]
   },
   "diversity_check": {
     "outlets": [
-      "The Quantum Insider",
-      "MIT Technology Review",
-      "Chemistry World",
+      "Phys.org",
+      "STAT",
       "Google Research",
-      "Scientific American"
+      "ScienceAlert",
+      "The Quantum Insider"
     ],
     "max_per_outlet": 1,
     "distinct_outlets": 5,
+    "science_x_network_cards": 1,
     "topic_spread": [
-      "quantum computing / lab automation",
-      "AI safety & agent misalignment",
-      "drug-discovery benchmarking",
-      "earth & climate modeling",
-      "education / learning science"
+      "materials discovery / self-driving labs",
+      "oncology & individualized vaccines",
+      "clinical time-series foundation models",
+      "neurodegenerative screening",
+      "quantum computing for drug discovery"
     ]
   }
 }

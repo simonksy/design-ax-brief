@@ -1,294 +1,302 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "section": "games",
   "cards": [
     {
-      "id": "games-gta6-npc-team",
+      "id": "games-genai-visual-literacy",
       "eyebrow": "AI NEWS",
-      "headline": "록스타가 GTA 6 NPC만 맡는\nLA 전담 팀을 새로 꾸렸다",
-      "body": "레드 데드 리뎀션 2보다 높은 NPC 밀도를 사람 손으로 짜 올리는 전담 팀이다.",
-      "mini_headline": "GTA 6 NPC 전담 팀",
+      "headline": "게임 속 AI 아트를 가려내는 건\n결국 시각적 문해력의 문제다",
+      "body": "생성형 AI 그림을 알아보는 눈은 타고나는 게 아니라 훈련으로 길러진다.",
+      "mini_headline": "AI 아트를 읽는 눈",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6",
-      "published_iso": "2026-08-28T09:32:46+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/gta-npcs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/hopefully-a-meteor-will-strike-the-earth-soon-game-devs-talk-genai-witchhunts-and-the-importance-of-honing-your-visual-literacy",
       "accent": "#7928ca",
       "motif": "cube",
+      "published_iso": "2026-08-28T15:49:03Z",
+      "og_image": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "록스타 게임즈가 그랜드 테프트 오토 6의 NPC를 더 현실감 있게 만들 팀을 새로 꾸렸다. 이 게임은 레드 데드 리뎀션 2가 도달한 \"상호작용 충실도\" 위에 쌓아 올린다."
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "genAI를 썼다는 의심을 억울하게 받은 게임들. 이미지 출처: Rock Paper Shotgun"
           },
           {
             "t": "p",
-            "x": "로스앤젤레스에 자리 잡은 이 팀은 작가와 디렉터, 프로듀서로 짜였다. 록스타 노스 공동 대표 에런 가벗은 뉴욕 타임스에 캐릭터를 \"하나하나 아트 디렉팅해서\" 설계했다고 말했다."
+            "x": "게임에 쓰인 그림이 생성형 AI의 결과물이냐를 두고 벌어지는 마녀사냥이 일상이 됐다. Rock Paper Shotgun은 몇 주에 걸쳐 억울하게 지목당한 개발자와 아티스트를 만나, 왜 하필 그 이미지가 의심을 샀는지 물었다. AI 이미지에는 정해진 화풍도 품질도 없다. 모델에 무엇을 먹였느냐가 결과를 정할 뿐이라, 한때 통하던 판별 요령은 금방 낡는다."
           },
           {
             "t": "p",
-            "x": "\"게임 속 모든 방은 누군가 고민한 결과다. 누가 어디에 앉아 있고, 뭘 마시고 있고, 탁자에 어떤 자국이 남았는지. 벽에 걸린 사진에는 그 방에 있는 사람들이 팔에 문신을 하고 가족을 뒤에 세운 채 담겨 있다. 그걸 다 만들고 짓고 찍어서, 거대한 도시의 아무 건물 아무 방에 놓았다.\" 가벗의 설명이다."
+            "x": "Fallen London을 만든 Failbetter의 커뮤니케이션 디렉터 Hannah Flynn은 영상이 널리 퍼지거나 큰 발표가 있을 때마다 genAI를 쓰냐는 질문이 반드시 따라붙는다고 했다. 스튜디오는 홈페이지에 AI를 쓰지 않겠다는 선언까지 걸어 뒀다. 회화풍 그림체, 눈이나 손가락이 너무 많은 기괴한 신체 묘사가 도리어 의심을 부른다는 게 그의 짐작이다."
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/tenebris-somnia-2.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+            "cap": "머리에 초를 얹은 괴물. 호러 게임 Tenebris Somnia의 한 장면이다. 이미지 출처: New Blood Interactive"
           },
           {
             "t": "p",
-            "x": "록스타 노스 공동 대표 롭 넬슨은 GTA 6를 디테일과 규모에서 레드 데드 리뎀션 2의 \"진화형\"이라고 표현했다."
+            "x": "New Blood Interactive의 CEO David Oshry도 같은 의심을 받았다. 픽셀아트와 실사 영상을 섞은 호러 게임 Tenebris Somnia 이야기다. 결국 소품 만드는 과정을 담은 비하인드 영상을 따로 내놓아야 했다. 그는 특히 인스타그램에서 지적이 거의 끊이지 않는다고 했다. 1년 전만 해도 이런 반응은 드물었다. 소동 덕에 위시리스트는 한 주 만에 1만 5천 건 늘었다."
           },
           {
             "t": "p",
-            "x": "\"100년 전 미국을, 그것도 훨씬 성긴 버전을 그 정도 상호작용 충실도로 해내고 나니, 현대 환경의 규모와 밀도에서 같은 걸 하면 어떨지 이미 상상하고 있었다.\""
+            "x": "Schrodinger's Cat Burglar를 만드는 Abandoned Sheep은 아예 그림을 갈아 치웠다. 문제가 된 키아트는 지역 작가 Tom Williams가 2022년 중반에 손으로 그린 것으로, genAI가 그 수준을 뽑아내기 전이다. 스튜디오 디렉터 Martin Binfield는 지나치게 매끈하다는 이유로 찍힌 것 같다고 했다. 댓글은 '이거 AI인가요?'라는 질문보다 'AI 빼기 전엔 안 산다'는 단정에 가까웠다."
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/unnamed(2)_XiRPXSV.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+            "cap": "AI 생성물이라는 지목을 반복해서 받은 Schrodinger's Cat Burglar의 옛 키아트. 이미지 출처: Abandoned Sheep"
           },
           {
             "t": "p",
-            "x": "록스타에 따르면 GTA 6의 NPC 애니메이션은 60만 개가 넘는다. RDR2는 30만 개, GTA 5는 5만 5000개였다. 바이스 시티는 로스 산토스의 두 배 크기이고, 맵은 RDR2의 세 배다."
+            "x": "삽화가 Janna Sophia Koppenwallner는 사람의 AI 판별 정확도를 주제로 석사 논문을 쓰고 있다. 아직 동료 심사를 거치지 않은 중간 데이터지만, 평균 판별 정확도는 74%였고 짧은 훈련 모듈을 마친 쪽이 오히려 조금 더 못했다. 오해를 사는 그림은 대체로 깨끗하고 완성도 높은 인기 화풍이었다고 그는 덧붙였다. 데이터가 많을수록 모델이 잘 뽑아내니, 틈새 화풍은 아직 흉내내지 못한다."
           },
           {
             "t": "p",
-            "x": "넬슨은 킨다 퍼니 게임캐스트에서 GTA 6에 생성형 AI도 마이크로트랜잭션도 넣지 않는다고 못 박았다."
+            "x": "실수의 결도 다르다. AI는 머리카락이 목걸이로 흘러들어 가듯 사물을 뭉개서 섞는다. 자기가 무엇을 그리는지 모른 채 확률로 이어 붙이기 때문이다. 사람 초보의 실수는 그런 식으로 나지 않는다."
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/image(1).png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+            "cap": "패스트레이싱과 디노이징을 단계별로 적용한 10분할 이미지. 이미지 출처: Abdou Bouam"
           },
           {
             "t": "p",
-            "x": "어제 넷플릭스에 올라온 확장 프리뷰가 이 특징들을 보여줬다. 넬슨과 가벗이 말한 상호작용의 깊이와 함께 스토리, 전투, 게임플레이가 담겼다."
+            "x": "옛 머신러닝 도구가 끼어들면 판단은 더 꼬인다. 프리랜서 아티스트 Abdou Bouam은 클라이언트에게서 흐릿한 얼룩이 AI 아니냐는 질문을 받았는데, 그건 디노이징 흔적이었다. 패스트레이싱 렌더는 처음엔 노이즈투성이고 샘플을 쌓아야 물리적으로 정확해진다. 2018년에 나온 Nvidia Optix 같은 디노이저는 머신러닝이지만 지금의 생성형 AI와는 결이 다르다. 무단 수집 데이터 대신 일부러 노이즈를 넣어 렌더한 이미지로 학습했고, 데이터센터가 아니라 로컬에서 돌아간다."
           },
           {
             "t": "p",
-            "x": "센서 타워 자료를 보면 프리뷰가 나가는 동안 넷플릭스 미국 모바일 시청이 35% 늘었고, 넷플릭스와 트위치가 나란히 다운됐다."
+            "x": "Koppenwallner는 순수한 시각 판별이 갈수록 어려워진다고 했다. 요즘 단서는 이미지 자체보다 맥락에 있다. 알아두고 스스로를 지키는 일과, 감만 믿고 남을 공개 저격하는 일은 다르다."
           }
         ]
       }
     },
     {
-      "id": "games-tripo-topology",
+      "id": "games-taiwu-dynamic-npcs",
       "eyebrow": "AI NEWS",
-      "headline": "AI 메시의 발목을 잡던 토폴로지,\n트라이포는 10초 만에 끝낸다",
-      "body": "스마트 메시는 게임에 바로 쓰는 토폴로지로 캐릭터를 10초 안에 뽑는다.",
-      "mini_headline": "10초 만의 게임용 토폴로지",
+      "headline": "NPC 1만 명을 굴리는 건\n모델이 아니라 시스템 설계다",
+      "body": "대본 없이 NPC 1만 명과 무공 700여 종이 시스템만으로 맞물려 돌아간다.",
+      "mini_headline": "NPC 1만 명의 설계",
       "tool": "Games",
       "source": "80 Level",
-      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline",
-      "published_iso": "2026-08-28T15:00:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49865/images/6a8caa21e033b/contain_1200x630.jpg",
+      "url": "https://80.lv/articles/interview-building-a-wuxia-sandbox-rpg-with-up-to-10-000-dynamic-npcs",
       "accent": "#0070f3",
       "motif": "cube",
+      "published_iso": "2026-08-24T23:11:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49868/images/6a8ccee3d8de1/contain_1200x630.jpg",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/meta/49868/images/6a8ccee3d8de1/contain_1200x630.jpg",
+            "cap": "무협 샌드박스 RPG The Scroll of Taiwu. 이미지 출처: ConchShip Games"
+          },
+          {
             "t": "p",
-            "x": "트라이포 공동창업자이자 수석 과학자인 옌페이 차오 박사가 스마트 메시, 초 단위로 쓸 만한 토폴로지를 뽑는 방법, 가우시안 스플랫, 그리고 에셋 한 개 생성에서 완결된 인터랙티브 월드로 넘어가는 흐름을 이야기했다."
+            "x": "중국 인디 스튜디오 ConchShip Games가 80 Level 인터뷰에서 The Scroll of Taiwu를 8년 동안 어떻게 쌓아 올렸는지 풀어놨다. 주인공이 반드시 세계의 중심일 필요가 없는 무협 샌드박스 RPG다. 스튜디오는 이 게임을 신화 속 고대 중국을 무대로 한 오픈월드 샌드박스라고 소개한다. Crusader Kings와 Baldur's Gate가 중국 민담 한복판에서 만난 물건에 가깝다."
           },
           {
             "t": "video",
-            "yt": "HqrBaTeY_98"
+            "yt": "MfoswJekDSg"
           },
           {
             "t": "p",
-            "x": "이미지 한 장으로 3D 모델을 뽑는 일은 몇 년 사이 훨씬 쉬워졌다. 문제는 뽑아낸 결과물이 곧바로 쓸 물건은 아니라는 데 있다. 지저분한 토폴로지, 손대기 힘든 머티리얼, 들쭉날쭉한 지오메트리가 딸려 나오면 파이프라인에 넣기 전에 정리부터 한참 해야 한다."
+            "x": "한 회차마다 5,000명에서 1만 명의 동적 NPC가 생성된다. 저마다 성격과 동기, 관계와 이력을 갖고 자기 목적을 좇으며 동맹을 맺거나 원한을 쌓는다. 700종이 넘는 무공은 전투와 수련의 갈래를 벌려 놓는다. 플레이어는 언제든 자기 운명을 세계 속 다른 인물에게 넘길 수 있어, 이야기가 한 인물의 죽음으로 끝나지 않는다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/f9/images/6a8ca8c5276d6/widen_1840x0.jpg"
+            "src": "https://cdn.80.lv/api/upload/content/68/images/6a8ccd99bbefa/widen_1840x0.jpg",
+            "cap": "손으로 그린 화풍으로 빚은 강호. 이미지 출처: ConchShip Games"
           },
           {
             "t": "p",
-            "x": "차오 박사는 칭화대에서 지오메트리 프로세싱과 재구성을 공부하고 Owlii를 공동창업했다. 이 회사는 나중에 콰이쇼우에 인수됐다. 3D 제작이 느리고 조각나 있다는 병목을 그때 확신했고, 생성형 AI가 나오자 진입 장벽을 낮출 플랫폼을 만들기로 했다."
-          },
-          {
-            "t": "p",
-            "x": "올해 내놓은 트라이포 스마트 메시는 시그래프 연구 Nexus에 기댄다. 이미지 한 장에서 폴리곤 수프가 아니라 깔끔한 엣지 플로를 가진 게임 레디 에셋을 만든다. 엔드투엔드로 5초 안에 결과가 나오니, 개발자는 프롬프트를 20개, 50개씩 던져놓고 몇 초 뒤 방향을 고르면 된다. 결과물은 블렌더나 마야, 유니티로 바로 넘어간다."
+            "x": "핵심은 모델이 아니라 설계다. 스튜디오는 이야기가 미리 쓰인 대본이 아니라 시스템끼리 부딪치며 저절로 생겨나야 한다고 봤다. 로그라이크 구조가 매 회차 다른 인물과 사건을 뽑고, 마을 경영과 전통 공예, 귀뚜라미 기르기 같은 생활 시뮬레이션이 강호의 일상을 채운다. 그 위에 세대 계승이 얹힌다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/83/images/6a8ca8bb8ce1f/widen_1840x0.jpg"
+            "src": "https://cdn.80.lv/api/upload/content/32/images/6a8ccdfea3ae5/widen_1840x0.jpg",
+            "cap": "전통 회화의 시각 언어를 따른 캐릭터와 환경. 이미지 출처: ConchShip Games"
           },
           {
             "t": "p",
-            "x": "입력은 텍스트 한 줄일 수도 있고 레퍼런스 이미지 여러 장이나 캐릭터 시트 전체일 수도 있다. 매직 브러시로 지오메트리와 텍스처를 직접 다듬는 길도 열어뒀다. MIT 라이선스로 공개한 TripoSplat은 나오자마자 Comfy가 첫날부터 지원했다."
+            "x": "창업자 Zheng Jie, 일명 Qiezi는 건축을 전공했다. 프로그래머들이 팀을 떠난 시기에 직접 프로그래밍 기초를 익혔고, 설계를 주고받을 때는 CAD를 쓴다. 엔진은 Unity 3D다. 외주 없이 전부 안에서 만든다는 원칙이 미술의 일관성을 지탱했다. 중국 전통 공예와 미술 고전 126종 이상을 참고했고, 게임 내 텍스트는 중국어 450만 자에 이른다. Disco Elysium의 네 배가 넘는 분량이다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/86/images/6a8ca8b22b42d/widen_1840x0.jpg"
+            "src": "https://cdn.80.lv/api/upload/content/1a/images/6a8cce16e7a29/widen_1840x0.jpg",
+            "cap": "15개 오픈월드 지역과 전통문화에서 끌어온 18개 신분. 이미지 출처: ConchShip Games"
           },
           {
             "t": "p",
-            "x": "완성된 캐릭터 하나를 뽑는 시간은 고해상도 H 시리즈가 1분 안쪽, 스마트 메시는 10초 안쪽이다. 폴리곤은 2만 개쯤이고 엣지 플로는 그대로 쓸 만하다. 과금은 토큰 방식이다."
-          },
-          {
-            "t": "p",
-            "x": "차오 박사가 다음 숙제로 꼽은 건 셋이다. 에셋 하나가 아니라 환경과 상호작용으로 넘어가는 것, 환경을 짜는 코드와 로직을 붙이는 것, 다음 몇 분을 예측하는 월드 모델. 이 셋이 맞물리면 아티스트는 에셋을 만들고 스크립트를 짜는 대신 방향을 정하는 데 시간을 쓴다."
+            "x": "성과는 커뮤니티가 증명한다. 20만 명이 넘는 플레이어가 각자 3,000시간 넘게 쏟았고, 같은 이야기를 들려준 사람은 없었다."
           }
         ]
       }
     },
     {
-      "id": "games-dlss5-leak",
+      "id": "games-dwarf-fortress-magic",
       "eyebrow": "AI NEWS",
-      "headline": "유출된 DLSS 5가 스카이림과\n산 안드레아스를 다시 그린다",
-      "body": "포토리얼에 가까워지긴 했는데, 아트 디렉터가 의도한 화면은 아니다.",
-      "mini_headline": "AI가 다시 그린 스카이림",
+      "headline": "드워프 포트리스, 세계마다 다른\n마법 체계를 절차적으로 만든다",
+      "body": "올해 안에 나올 '신화와 마법' 업데이트는 월드마다 다른 마법 체계를 새로 짠다.",
+      "mini_headline": "월드마다 다른 마법",
       "tool": "Games",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/",
-      "published_iso": "2026-08-28T20:08:05+00:00",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/nord.JPG?w=1600&h=900&fit=crop",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/",
       "accent": "#f5a623",
       "motif": "cube",
+      "published_iso": "2026-08-27T15:12:30Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "엔비디아의 말 많은 업스케일링 기술 DLSS 5는 RTX 50 시리즈용으로 아직 정식 공개되지 않았다. 실시간 뉴럴 렌더링 모델 파일이 NBA 2K27 얼리 액세스 빌드에서 발견되자 사람들은 곧장 그걸 돌려보기 시작했다. 팬들이 올린 영상을 보면, 픽셀마다 얼굴을 미형으로 뜯어고치던 이전 버전보다는 확실히 나아졌다."
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
+            "cap": "Myth and Magic 업데이트 키아트. 아르목의 형상 아래에서 드워프 마법사가 주문을 건다. 이미지 출처: Kitfox Games"
           },
           {
             "t": "p",
-            "x": "그래도 어떤 게임에서는 DLSS 5 특유의 불쾌한 골짜기가 지워지지 않는다."
+            "x": "고양이 알코올 중독, 절차적으로 생성되는 음유시인 전통, 시한폭탄처럼 터지는 열핵 드래곤 브레스까지 구현해 온 Dwarf Fortress. 형제 개발자 Tarn Adams와 Zach Adams는 그보다 더 높은 목표를 놓지 않았다. 마법이다. 플레이어가 '새 월드 만들기'를 누를 때마다 새로 짜이는 우주론과 신화에 얽힌, 그 세계에서만 통하는 절차적 마법."
           },
           {
             "t": "p",
-            "x": "올해 초 엔비디아가 레지던트 이블 리퀴엠 같은 인기작에 이 기술을 씌운 영상을 공개하면서 DLSS 5는 도마에 올랐다. 엔비디아는 조명만 개선했다고 했지만, 팬들은 캐릭터 디자인이 통념적인 미형으로 바뀌었다고 봤다. 엔비디아는 게임 스튜디오들이 전적으로 지지하며 DLSS 5가 작품의 예술적 의도를 정확히 살렸다고 맞받았다. AI 사용에 반대해온 몇몇 스튜디오가 그런 계획을 들은 적 없다고 밝히면서 이 해명은 역효과를 냈다. 엔비디아 CEO가 비판자들을 두고 \"완전히 틀렸다\"고 한 뒤로 분위기는 더 나빠졌다."
-          },
-          {
-            "t": "p",
-            "x": "몇 달 뒤 DLSS 5는 뜻하지 않게 다시 조명을 받았다. 이번엔 엔비디아가 영상을 고를 수 없다. 지금까지 플레이어들이 시험한 게임은 더 라스트 오브 어스 파트 2, 파이널 판타지 7 리버스, 엘더스크롤 5: 스카이림, 그랜드 테프트 오토: 산 안드레아스다."
-          },
-          {
-            "t": "p",
-            "x": "잘 맞는 자리도 있다. TLOU 2의 우거진 숲은 필터를 켜면 더 선명하고 생생해진다. DVESF가 올린 비교 영상에서 확인할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "얼굴과 피부는 여전히 버겁다. 잘 봐줘야 사람이 기름져 보이고, 심하면 틱톡 뷰티 모드를 끄지 않은 화면 같다. 스카이림에 걸면 캐릭터를 뷰티 구루 제임스 찰스가 디자인한 것처럼 보인다."
+            "x": "이미 시뮬레이션 복잡도의 기준선을 세운 게임치고도 무모한 시도다. 10년이 걸렸고, 스크립트 체계를 통째로 갈아엎어야 했다. Bay 12 Games가 Adams 형제 바깥에서 처음 들인 프로그래머 Putnam이 그 일을 떠받쳤다. 솔직히 믿기 어려운 이야기인데, 올해 안에 첫 조각이 나온다."
           },
           {
             "t": "video",
-            "yt": "cJeqMwBYuyk"
+            "yt": "8P-FTy6hhp0"
           },
           {
             "t": "p",
-            "x": "산 안드레아스의 CJ에 적용하면 결과는 더 \"사실적\"이라고 볼 여지가 있다. 대신 주인공이 거의 딴사람이 된다."
+            "x": "Tarn Adams는 짧은 발표 영상에서 첫 Myth and Magic 업데이트가 연내에 도착한다고 확인했다. 목표는 주문 효과를 조합하는 수준을 넘어 우주의 근본적인 우주론 구성까지 곧장 파고드는 절차적 마법 체계, 다른 방법으로는 결코 나올 수 없는 마법적 상황을 만드는 것이라고 했다."
           },
           {
             "t": "p",
-            "x": "\"전문가가 HDR 보정한 사진 말고 자연스러운 이미지로 학습했다면 덜 이상했을 텐데. 늘 대비가 세고 HDR 같고, 가짜 파란 하늘빛으로 과하게 밝다.\" 퓨어다크의 스카이림 영상에 달린 유튜브 댓글이다. 제시카 나탈리아의 산 안드레아스 영상에는 \"그 인스타 영상들 같은데 플레이가 되네ㅋㅋ\"라는 댓글이 붙었다."
+            "x": "2017년까지 거슬러 올라가는 구상이다. 각 월드의 창세 신화와 우주론에 마법을 붙들어 매면, Dwarf Fortress는 월드 변주를 찍어내는 게임이 아니라 판타지 설정 자체를 만들어 내는 생성기가 된다. 물리 법칙만큼 근본적인 마법을 품은 우주들이 나온다."
           },
           {
             "t": "p",
-            "x": "엔비디아 입장도 있다. 지금 사람들이 만지작거리는 건 미완성이고 공개용도 아니다. 최종 제품에서는 더 다듬어질 수 있다. 다만 그때쯤이면 AI 슬롭이라는 DLSS 5의 평판을 떼어내기가 쉽지 않다."
+            "x": "Adams는 이렇게 말했다. \"It allows your fortresses to pursue magical research that really feels like discovery.\" 요새가 진짜 발견처럼 느껴지는 마법 연구를 벌이게 된다는 뜻이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/7YB7v9Jh7Qb2VXAeDsP5NV.png",
+            "cap": "여섯 팔 파리인간이 마법으로 고블린이 가득한 복도를 쓸어버린다. 이미지 출처: Kitfox Games"
+          },
+          {
+            "t": "p",
+            "x": "영상은 1분짜리지만 마법을 쓰는 인물들이 잠깐씩 스친다. 고블린 주술사가 고양이를 순간이동시키고, 드워프 마법사가 고블린을 벽에 반복해서 처박는다. 지팡이 네 자루를 든 여섯 팔 파리인간은 적 검사들로 가득한 복도를 마법탄 세례로 갈아 버린다. 네크로맨서에게 언데드 저주를 받은 드워프는 곧바로 옆 동료를 물어뜯기 시작한다."
+          },
+          {
+            "t": "p",
+            "x": "Adams는 마법 투사체가 드워프 전초기지를 빠르게 부수는 장면 위에서 덧붙였다. 물건을 터뜨리는 마법 효과도 있겠지만, 마법 재료와 인챈트, 의식, 고대 유적처럼 판타지를 판타지답게 만드는 요소가 전부 들어간다. 그리고 하나하나가 그 우주가 뼛속부터 어떻게 굴러가는지에 묶인다."
+          },
+          {
+            "t": "p",
+            "x": "첫 Myth and Magic 업데이트의 발매일은 아직 없다. Dwarf Fortress는 Steam과 Bay 12 Games 사이트에서 지금 구할 수 있다."
           }
         ]
       }
     },
     {
-      "id": "games-saber-craft",
+      "id": "games-google-ai-pitch",
       "eyebrow": "AI NEWS",
-      "headline": "정말 좋은 AI 게임 한 편이면\n여론이 뒤집힌다는 세이버의 말",
-      "body": "세이버의 CCO는 잘 만든 AI 게임 한 편이면 여론이 하룻밤에 뒤집힌다고 봤다.",
-      "mini_headline": "잘 만든 AI 게임 한 편",
+      "headline": "구글이 게임에 내민 AI 데모,\n3~4년의 결과가 이것뿐인가",
+      "body": "구글이 내세운 게임 AI 사례 세 건에 3~4년 성과가 이것뿐이냐는 혹평이 붙었다.",
+      "mini_headline": "게임 AI, 이것뿐인가",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy",
-      "published_iso": "2026-08-28T11:04:23+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/saber-ai-half-life-2-rideshare.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "source": "Aftermath",
+      "url": "https://aftermath.site/google-ai-video-games/",
       "accent": "#2ec5c5",
       "motif": "cube",
+      "published_iso": "2026-08-25T23:40:46Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "세이버 인터랙티브는 최근 택시 게임 라이드셰어 스티뮬레이터의 생성형 AI 사용을 두고 대표가 전 직원과 험한 설전을 벌이며 도마에 올랐다. 공동창업자이자 CEO인 매튜 카치는 그 뒤 사과했고, 스팀에 AI 고지 라벨도 제대로 붙였다. 그래도 세이버가 생성형 AI를 어떻게 다룰지는 물음표로 남았다."
+            "t": "img",
+            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
+            "cap": "구글 클라우드 블로그 'Level up: How AI is unlocking a new golden age of games'의 한 대목. 이미지 출처: Aftermath"
           },
           {
             "t": "p",
-            "x": "세이버는 전 세계 15개 스튜디오를 거느린 대형 개발사이자 퍼블리셔다. 워해머 40,000: 스페이스 마린 2를 만들었고, 대형 예산의 존 윅 액션 게임과 새 스턴트맨, 새 투록, 헬레이저, 쥬라기 공원 생존 게임, 스타워즈: 구공화국의 기사단 리메이크가 줄줄이 대기 중이다. AI를 더 넓게 쓸지 말지가 라이드셰어 한 편으로 끝나지 않는 이유다."
+            "x": "Aftermath의 필자는 구글 클라우드 사이트에 올라온 회사 블로그 'Level up: How AI is unlocking a new golden age of games'를 읽느라 인생의 몇 분을 버렸다고 적었다. 글쓴이는 구글의 게임 부문 글로벌 디렉터 Jack Buser다."
           },
           {
             "t": "p",
-            "x": "유로게이머의 코너가 게임스컴에서 세이버의 최고창의책임자 팀 윌리츠를 만났다. id 소프트웨어 출신이다. \"우리는 실험 중이다. 발표한 라이드셰어는 작은 게임이고, 이게 되는지 안 되는지 알아보려는 것이다. 업계도 이 기술이 어디에 맞는지 모르고, 소비자도 자기가 뭘 원하고 뭘 원하지 않는지 모른다. 사회가 오래전부터 봐온 파괴적 기술 같은 것이다.\""
-          },
-          {
-            "t": "video",
-            "yt": "WOo8JIpjips"
+            "x": "모양새는 뻔하다. 회사 사람이 쓴 세일즈 피치이고, 링크드인 미끼 같은 문장이 이어진다. \"We need a structural shift to revive the ecosystem where creative risks are sustainable again. Fortunately, AI has matured enough to help drive that renaissance.\" 창의적 모험이 다시 지속 가능해지도록 생태계를 되살리려면 구조적 전환이 필요하고, 다행히 AI가 그 르네상스를 이끌 만큼 성숙했다는 이야기다."
           },
           {
             "t": "p",
-            "x": "이어 그는 선을 그었다. \"라이드셰어 실험 말고는 우리 프로젝트에 쓰지 않는다. 공식 방침도 없고, 전 프로젝트에 걸쳐 대놓고 쓰지도 않는다.\""
+            "x": "정작 눈길이 간 대목은 글 끝부분이다. Buser는 게임 개발에서 '흥미로운' AI 활용 사례로 세 가지를 든다. 스퀘어 에닉스가 Dragon Quest X Online에 넣는 실시간 멀티모달 동반자 'Chatty Slimey', 10Six Games가 올여름 내놓은 시간여행 호드 서바이벌 로그라이트 YOU vs. Zombies의 커스텀 생성 시스템 'The Ritual', 그리고 명령 메뉴를 음성 지휘로 대체한 유비소프트의 Teammates 프로토타입이다."
           },
           {
             "t": "p",
-            "x": "라이드셰어는 앱 기반 택시 사업을 굴리는 게임이다. 새로 붙은 스팀 고지를 보면 일부 음성과 현지화, 라디오 방송국 음악 일부를 AI가 만든다. 더 낯선 쓰임새는 선택형 프리 라이드 모드에 있다. 여기서는 미션과 현지화된 대사를 AI가 생성한다."
+            "x": "필자의 반응은 짧고 사납다. 이 집단적 광기에 3~4년을 쏟고서 세일즈 피치를 받칠 게 고작 이 사소하고 성가시고 인기도 없는 잔재주 세 개냐는 것이다. 이게 당신들이 말하는 황금기냐고 되묻는다."
           },
           {
             "t": "p",
-            "x": "윌리츠는 라이드셰어가 작고 실험적이라는 점을 거듭 짚었다. \"게임 한 편의 모드 하나다. 팀이 불을 켜두려면 작은 게임도 만들어야 한다. 베팅을 하고 실험을 할 거라면 작은 데서 해야 한다. 큰 걸 걸 수는 없다. 위험하니까. 하지만 누군가는 한다.\""
+            "x": "Chatty Slimey가 Dragon Quest 팬덤과 쌓아 가는 관계라고는 얼마나 싫어하느냐뿐이다. YOU vs. Zombies는 이번에 처음 들어 찾아봤는데 형편없어 보인다. Teammates는 2025년 11월 Aftermath 글에 이미 한 번 등장했던 물건이다."
           },
           {
             "t": "p",
-            "x": "비슷한 논쟁에 휘말린 스튜디오는 더 있다. 어쌔신 크리드를 만든 파트리스 데질레는 \"우리는 AI로 가득한 세상에 산다\"고 했고, 그의 스튜디오 파나슈는 1666: 암스테르담 제작에 생성형 AI 도구를 썼다. 아울캣과 라리안도 각각 도구를 썼다. 반대로 개발에 생성형 AI를 쓰지 않겠다고 공개 선언한 스튜디오도 아주 많다."
+            "x": "AI 파이프라인에 전부를 건 개발사와 스튜디오는 몇 년을 썼다. 그런데도 평범한 사람이 이 기술에 마음을 쓰게 만드는 결과물이 없다. AI 생성 캐릭터의 재치 있고 맥락에 맞는 응답에 전 세계 게이머가 빠져든 RPG는 어디에 있나. 탐험할 가치가 있는 무한한 세계를 AI가 만들어 낸 스페이스 심은, 반응만 하는 게 아니라 진짜로 흥미로운 친구를 만들어 낸 생활 시뮬레이션은 어디에 있나."
           },
           {
             "t": "p",
-            "x": "윌리츠는 여론이 바뀐다고 본다. \"다들 각자 의견이 있고, 내가 너무 낙관적일 수도 있다. 그래도 누군가는 AI의 하프라이프 2를 만들 것이다. 우스운 예지만, 누군가 사람들 생각을 바꿀 무언가를 만든다. 스팀이 처음 나왔을 때 사람들은 '내 컴퓨터에 그런 이상한 프로그램을 깔지 않겠다'고 했다. 지금 스팀이 사라지면 세상이 끝난다. 몇 년만 주면 업계가 답을 찾는다.\""
+            "x": "필자는 이유를 잘라 말한다. AI가 그런 걸 못 하기 때문이다. 개발 일정을 막는 진짜 병목도 기술의 사소한 한계가 아니라, 대개 노동자에게 AI를 밀어붙이는 바로 그 관리자와 소유주의 무능과 근시안이라고 본다."
           },
           {
             "t": "p",
-            "x": "그런 게임을 들고 오는 팀이 있으면 승인하겠느냐고 묻자 윌리츠는 \"100퍼센트\"라고 답했다. 뭘 만들고 싶은지, 예산과 자원은 어떤지, 멋있는지를 묻고, 다른 게임들을 훑어 아무도 안 하는 걸 찾은 다음 해보자고 하겠다는 것이다."
+            "x": "Buser는 비유로 글을 맺는다. \"I think of AI as an exoskeleton — an Iron Man suit for developers. The armor does the heavy lifting, but it does nothing without the intent of the human pilot inside.\" AI를 개발자를 위한 아이언맨 슈트, 곧 외골격으로 본다는 말이다. Aftermath의 마지막 문장은 이렇다. 아이언맨 슈트는 실제로 존재하지 않는 판타지다."
           }
         ]
       }
     },
     {
-      "id": "games-id-genai",
+      "id": "games-james-pond-remake",
       "eyebrow": "AI NEWS",
-      "headline": "id 소프트웨어 공동창업자는\n둠 시절에도 AI를 썼을 거라 했다",
-      "body": "둠을 만들던 팀이라면 생성형 도구가 나오자마자 붙잡았을 거라는 회고다.",
-      "mini_headline": "둠 시절에도 AI를 썼을 것",
+      "headline": "제임스 폰드 원작자가 AI 리메이크를\n무례하고 영혼 없다고 내쳤다",
+      "body": "공동 제작자 Chris Sorrell은 AI 범벅 리메이크에 영혼이 없다고 했다.",
+      "mini_headline": "원작자가 내친 리메이크",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/id-softwares-former-co-owner-says-they-absolutely-wouldve-used-gen-ai-back-in-the-day-john-carmack-would-be-like-making-skynet-or-something/",
-      "published_iso": "2026-08-28T13:53:23+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kHZZqCzDLKx8KtKh8MEg3a-1600-80.jpg",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/james-pond-co-creator-calls-ai-rife-remake-disrespectful-and-soulless-2000729581",
       "accent": "#eb367f",
       "motif": "cube",
+      "published_iso": "2026-08-29T17:50:57Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/james-pond-1.jpg",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "생성형 AI는 업계의 뜨거운 감자다. 그럴 만도 하다. 하드웨어 가격을 밀어 올렸고 사람들의 일자리를 밀어냈으니 파괴적이었다고 할 수밖에 없다. 쓸 만해 보이는 평범한 용례가 없지는 않지만, 그 주위에 쌓인 광기와 나쁜 평판을 피하기는 어려웠다."
+            "t": "img",
+            "src": "https://kotaku.com/app/uploads/2026/08/james-pond-1.jpg",
+            "cap": "James Pond Legacy: The Pond Is Not Enough. 이미지 출처: Kotaku"
           },
           {
             "t": "p",
-            "x": "게임스컴 2026에서 PC 게이머의 조슈아 월런스와 마주 앉은 팀 윌리츠에게도 이 얘기가 자연스럽게 나왔다. 윌리츠는 세이버 인터랙티브의 CCO이자 1995년부터 2019년까지 id 소프트웨어 공동 소유주였다. \"다들 알다시피 우리는 앞으로 나올 게임에서 AI를 실험하고 있다. 지금 여기 있는 건 아니고, 라이드셰어 시뮬레이터를 발표했는데 오해가 좀 있어서 정리하고 싶다.\""
+            "x": "지난주 System 3는 곧 나올 James Pond Legacy: The Pond Is Not Enough 컬렉션 때문에 몰매를 맞았다. 할머니 아흔네 번째 생일 축하 이카드처럼 편집된 트레일러에 AI로 만든 그림이 잔뜩 박혀 있었는데, 퍼블리셔는 개발에 AI가 쓰이지 않았다며 비판자들에게 되받았다. 눈 달린 사람이라면 누구나 어리둥절할 해명이었고, 시리즈 공동 제작자 Chris Sorrell도 그중 하나였다."
           },
           {
             "t": "p",
-            "x": "배경은 이렇다. 세이버는 이달 초 이 게임으로 곤경에 빠졌다. 스팀 AI 고지를 한동안 미룬 것처럼 보였고, AI 때문에 팀에서 밀려났다고 주장한 전 작가가 사용 사실을 폭로했다. CEO 매튜 카치는 그 작가를 험담했다가 나중에 사과했다."
+            "x": "Sorrell은 Time Extension의 Damien McFerran에게 이렇게 말했다. \"I'm sure it won't shock you to hear that I was in no way consulted or involved.\" 자문도 참여도 없었다는 뜻이다. 그럴 일이 있으려면 James Pond를 손톱만큼이라도 존중하는 사람이 끼어 있어야 하는데, 그들의 행동 하나하나가 그렇지 않다는 걸 보여 준다고 그는 덧붙였다."
           },
           {
             "t": "p",
-            "x": "윌리츠는 라이드셰어의 메인 캠페인과 사이드 미션은 전부 사람이 썼고 AI는 선택형 프리 라이드 모드에만 들어간다고 했다. \"승객에 AI를 쓸 것이다. 그래야 새로운 이야기를 계속 줄 수 있다. 이건 실험이다. 세이버는 이 기술을 어떻게 쓸지 알아내려고 작은 규모로 해보는 중이다. 우리도 남들처럼 답을 찾는 중이다. 하지만 우리 대형 타이틀에 생성형 AI는 없다. 헬레이저도, 투록도, 스턴트맨도 없다.\""
+            "x": "James Pond는 1990년 아미가로 나왔다. 속편과 스핀오프가 여럿 이어졌고, 그중 가장 인기 있던 RoboCod는 당대 거의 모든 콘솔로 이식됐다. 아미가 시절 플랫포머가 대개 그랬듯 이 게임은 더 긴 경력의 출발점이 됐고, Sorrell은 이후 MediEvil과 Prototype 같은 더 큰 히트작으로 옮겨 갔다."
           },
           {
             "t": "p",
-            "x": "\"AI로만 가능하다\"는 말에는 별표를 달아야 한다. 선택 모드에 끝없는 대사를 뽑는 일이야 그렇다 치더라도, 지루해지지 않을 만큼의 대화라면 작가와 성우로도 얼마든지 짜 맞출 수 있었다. 언젠가 바닥이 나겠지만, 라이드셰어 시뮬레이터를 평생 붙잡고 살 사람은 없다."
+            "x": "AI 사용을 둘러싼 반발이 커지는 와중에 System 3 Software의 대응은 유독 기묘했다. 변호가 아니라 부인이었다. 완성된 결과물은 누가 봐도 AI 쪽에 가까운데도 그랬다. 퍼블리셔는 제작 과정 아트를 공개하며 여론을 돌리려 했지만 아무도 그 미끼를 물지 않았다. Sorrell은 그 증거가 특히 우습다고 했다. \"Why do they think any developer would waste time making an Illustrator version of an already fully-realised character design?\" 이미 다 완성된 캐릭터 디자인을 일러스트레이터 버전으로 다시 만드느라 시간을 낭비할 개발자가 어디 있겠냐는 것이다. 3D 패키지 안의 와이어프레임 메시를 보여 달라는 말도 덧붙였다."
           },
           {
             "t": "p",
-            "x": "그래도 윌리츠는 밀어붙인다. \"실험하고 싶다. 누군지는 모르겠지만 어떤 게임 개발사가 AI를 정말 놀랍게 쓴 게임을 만들어서, 모두가 '저거다, 저렇게 해야 한다'고 하게 될 것이다.\" 그러면서 \"누군가 'AI의 하프라이프 2'를 내놔야 한다\"고 농담했다."
-          },
-          {
-            "t": "p",
-            "x": "회의가 걷히지 않는 이유도 분명하다. 돈이 타들어가고 데이터센터가 세워지는데, 정작 이 기술은 잡일 말고는 그다지 쓸모 있어 보이지 않는다. 전면에 나서면 밋밋한 성우 연기와 형편없는 글, 방향도 기억할 것도 없는 그림이 나온다. 기술적 완성도만 올라갈 뿐이다."
-          },
-          {
-            "t": "p",
-            "x": "그런 윌리츠도 id 소프트웨어라면 그때도 생성형 AI를 썼을 거라고 했다. 늘 최전선에 서 있던 스튜디오였다는 이유다. \"그렇다! 당연하다. id가 뭘 했는지 봐라. 1999년 퀘이크 3를 냈을 때 그래픽 카드가 필요했고, 우리는 엄청난 욕을 먹었다. 업계를 망칠 거라고들 했다. 비디오 카드에 100달러를 쓸 사람은 없다고, 누가 봐도 멍청한 짓이라고 했다. 그때 그게 있었다면 존 카맥은 스카이넷 같은 걸 만들고 있었을 거다.\""
-          },
-          {
-            "t": "p",
-            "x": "판단은 결국 게임이 한다는 데는 윌리츠도 같은 생각이었다. \"게임이 스스로 말할 것이다. 라이드셰어 실험도 나오면 직접 해보시라. '오, 이거 괜찮은데' 할 수도 있다. 마음에 안 들면 그것도 괜찮다. 게임이 스스로 말한다.\""
+            "x": "인터뷰에서 Sorrell은 자기 경력을 열어 준 시리즈가 이런 대접을 받는 걸 안타까워했다. Atari 아래에서 Digital Eclipse가 훨씬 꼼꼼한 아카이브형 컬렉션을 만드는 것과 대비된다. 그가 보기에 이 컬렉션은 업계 전체를 망가뜨리는 애정 없는 단기 접근을 그대로 체현한다. 그는 주먹을 아끼지 않았다. 책임자들이 \"choke on an AI-generated fishbone\" 하기를, 즉 AI가 만든 생선 가시에 목이 막히기를 바란다고 했다."
           }
         ]
       }

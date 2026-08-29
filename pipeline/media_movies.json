@@ -1,32 +1,32 @@
 {
+  "section": "movies",
+  "date": "2026-08-30",
   "media": [
     {
-      "id": "movies-eddie-ai-credits",
+      "id": "movies-photoshop-firefly5",
       "type": "image",
-      "src": "pipeline/media/movies-eddie-ai-credits.jpg"
+      "src": "pipeline/media/movies-photoshop-firefly5.jpg"
     },
     {
-      "id": "movies-slapshot-comfy-nodes",
-      "type": "video",
-      "src": "pipeline/media/movies-slapshot-comfy-nodes.mp4",
-      "poster": "pipeline/media/movies-slapshot-comfy-nodes.jpg"
-    },
-    {
-      "id": "movies-usc-etc-beeble",
+      "id": "movies-open-weight-onprem",
       "type": "image",
-      "src": "pipeline/media/movies-usc-etc-beeble.jpg"
+      "src": "pipeline/media/movies-open-weight-onprem.jpg"
     },
     {
-      "id": "movies-astro-burn-microseries",
-      "type": "video",
-      "src": "pipeline/media/movies-astro-burn-microseries.mp4",
-      "poster": "pipeline/media/movies-astro-burn-microseries.jpg"
+      "id": "movies-indie-slop",
+      "type": "image",
+      "src": "pipeline/media/movies-indie-slop.jpg"
     },
     {
-      "id": "movies-de-aging-uncanny",
+      "id": "movies-moonshots-grant",
+      "type": "image",
+      "src": "pipeline/media/movies-moonshots-grant.jpg"
+    },
+    {
+      "id": "movies-free-video-generator",
       "type": "video",
-      "src": "pipeline/media/movies-de-aging-uncanny.mp4",
-      "poster": "pipeline/media/movies-de-aging-uncanny.jpg"
+      "src": "pipeline/media/movies-free-video-generator.mp4",
+      "poster": "pipeline/media/movies-free-video-generator.jpg"
     }
   ]
 }
