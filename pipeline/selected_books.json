@@ -1,114 +1,102 @@
 {
   "section": "books",
-  "generated_at": "2026-08-30T00:00:00Z",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:00:00Z",
   "selection_mode": "curator_auto",
-  "source_pool": "pipeline/candidates_filtered_books.json (recovery pass, 5 items after URL dedup)",
   "dedup": {
-    "against": "pipeline/news_data.json -> sections.books (today 2026-08-29 + days 2026-08-22/25/26/27/28) + coordinator burned-cluster list + cross-section check vs pipeline/selected_design.json",
-    "published_days_checked": [
-      "2026-08-29",
-      "2026-08-28",
-      "2026-08-27",
-      "2026-08-26",
-      "2026-08-25",
-      "2026-08-22"
+    "pool_size": 7,
+    "against_days": 5,
+    "published_urls_checked": 30,
+    "dropped": 2,
+    "kept": 5,
+    "dropped_items": [
+      {
+        "title": "Claude to Add Watermarks, and More AI Publishing News",
+        "url": "https://bookriot.com/claude-to-add-watermarks-and-more-ai-publishing-news/",
+        "source": "Book Riot",
+        "reason": "content_duplicate",
+        "detail": "Same source + same core topic as the already-published Book Riot roundup 'Welcome to the Uncanny Valley' (books-uncanny-valley-detection, 2026-08-27), which already carried the Anthropic watermarking announcement, the AI-detector stress test, and David Corn's Claude-written novel. Also overlaps books-claude-watermark-theatre (Jane Friedman, 2026-08-29). Classic content-hub duplicate — keep the single best, earliest-published version."
+      },
+      {
+        "title": "Viwoods AiPaper and AiPaper Mini have received cloud sync",
+        "url": "https://goodereader.com/blog/electronic-readers/viwoods-aipaper-and-aipaper-mini-have-received-cloud-sync",
+        "source": "Good e-Reader",
+        "reason": "off_topic_no_ai_substance",
+        "detail": "Not a dedup drop — fresh and whitelisted, but the only AI content is the device brand name. A 10GB cloud-sync rollout for an e-paper tablet does not change how a writer, publisher or designer works with AI tomorrow. Dropped rather than published as filler."
+      }
     ],
-    "burned_clusters_checked": [
-      "Amazon/Anthropic buying, scanning and destroying print books for AI training (books-ftc-book-destruction 08-29, books-amazon-vgt3-scanning 08-28, books-warhammer-ai-warning 08-25)",
-      "Anthropic watermarking Claude output / AI-text detection (books-claude-watermark-theatre 08-29, books-uncanny-valley-detection 08-27, books-scholarly-kitchen-ai-use 08-28)"
-    ],
-    "dropped_as_duplicate": [],
-    "notes": "All five survivors of the recovery pass are distinct stories. Checked each against every published books card: the manga item is a Shueisha platform launch, not the KAZE US imprint (08-27) or the Indie Manga Alliance (08-27); the ALLi item is an Authors Guild copyright-registration survey, not the 08-25 ALLi editor podcast or any settlement-scanning story; the Publishers Lunch item is industry-wide academic screening infrastructure, not The Scholarly Kitchen's own AI-use disclosure (08-28, different outlet, different event, different claim); the PW item is a new Ballantine book deal, not the detection-false-positive anecdote about Bartz inside The Week piece (08-29); the Creative Bloq item is children's picture-book illustration craft, not covered by any published card. Neither burned cluster is touched. Cross-section: pipeline/selected_design.json contains no creativebloq.com URL, so no collision. Final 5 = 5 distinct outlets, 5 distinct URLs."
+    "notes": "Checked every card in sections.books.today (2026-08-30) and sections.books.days (2026-08-25 through 2026-08-29) on URL + content. No surviving pick shares a URL with published history. Partial topical adjacency flagged and accepted: the CCC fair-use piece sits near the TechCrunch 'is it legal to train AI on copyrighted books' explainer (2026-08-25), but it is a distinct article from the collective licensing body whose payload — what rightsholders can actually license after the rulings — is absent from the TechCrunch card. The Vietnam labelling law is a separate national mandate from the EU transparency guidance covered on 2026-08-26.",
+    "diversity": {
+      "outlets": 5,
+      "max_per_outlet": 1,
+      "guard": "applied leniently per run override; pool of 7 still yielded 5 distinct outlets"
+    }
   },
   "picks": [
     {
-      "rank": 1,
-      "slug": "books-copyright-registration-gap",
-      "category": "books",
+      "id": "books-hathitrust-transparent-books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "News Summary: Survey Suggests Many Publishers Still Fail to Register Copyright",
-      "url": "https://selfpublishingadvice.org/publishers-still-fail-to-register-copyright/",
-      "source": "ALLi Self-Publishing Advice Center",
-      "published_iso": "2026-08-29T12:00:37Z",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-29-2.jpg",
-      "excerpt": "An Authors Guild survey found publishers had failed to register authors' copyrights, leaving some writers ineligible for the Anthropic settlement class — a paperwork failure that decides who gets paid when books are used as training data.",
-      "rationale": "The most actionable item in the pool: an unregistered copyright quietly disqualifies an author from AI settlement money, so every writer can check their own registration record tomorrow."
+      "title": "Digital Books: HathiTrust Awarded $5 Million, 5-Year Mellon Grant to Enable AI-Driven Access and Discovery",
+      "url": "https://www.infodocket.com/2026/08/27/hathitrust-awarded-5-million-5-year-mellon-grant-to-enable-ai-driven-access-and-discovery/",
+      "source": "Library Journal infoDOCKET",
+      "published_iso": "2026-08-27T18:04:35+00:00",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/08/2026-08-27_13-05-55.png",
+      "excerpt": "HathiTrust, with Northeastern University Library and Authors Alliance, won a five-year, $5M Mellon Foundation grant for “Transparent Books: AI Infrastructure for Discovery and the Public Interest,” applying AI to improve descriptive metadata and text quality across 19 million digitized volumes and to supply verified, traceable book text and images for academic and noncommercial use.",
+      "rationale": "The consented counter-model to Amazon's shredding warehouse and Anthropic's Project Panama — 19 million volumes turned into a traceable, permissioned corpus, which changes where researchers and publishers can legitimately source book text."
     },
     {
-      "rank": 2,
-      "slug": "books-manga-million-translation",
-      "category": "books",
+      "id": "books-writer-beware-ai-scams",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "headline": "New manga platform features 300 titles translated into English for first time",
-      "url": "https://www.thebookseller.com/news/new-manga-platform-features-300-titles-translated-into-english-for-first-time",
-      "source": "The Bookseller",
-      "published_iso": "2026-08-25T11:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/404/Stock_manga_c_Shutterstock.jpg",
-      "excerpt": "Shueisha's Manga Million puts nearly 300 previously untranslated titles into English plus Spanish, French, Turkish and Polish — a translation volume no human-only pipeline has attempted, and one readers and letterers have publicly questioned over uncredited translators and machine output.",
-      "rationale": "A shipped localisation platform operating at a scale human-only pipelines cannot reach, which puts the translator-credit question in front of anyone working on multilingual publishing."
+      "title": "Production Companies, Literary Agents, Foreign Languages: AI-Driven Scams Continue to Morph",
+      "url": "https://writerbeware.blog/2026/08/28/production-companies-literary-agents-foreign-languages-ai-driven-scams-continue-to-morph/",
+      "source": "Writer Beware",
+      "published_iso": "2026-08-28T18:51:10+00:00",
+      "og_image": "https://writerbeware.blog/wp-content/uploads/2025/10/Blog-images-AI-3-scaled.jpg",
+      "excerpt": "Writer Beware documents how author-targeting scams have been rebuilt on generative AI — fake production companies, impersonated literary agents, and newly fluent foreign-language solicitations that no longer betray themselves through broken English.",
+      "rationale": "Most actionable item in the pool: generative AI has erased the broken-English tell that authors and freelancers used to screen predatory approaches, so the vetting checklist has to be rebuilt from scratch."
     },
     {
-      "rank": 3,
-      "slug": "books-childrens-book-slop",
-      "category": "books",
+      "id": "books-japan-literary-prize-ai-flood",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "headline": "Is AI destroying the art and magic of children's books?",
-      "url": "https://www.creativebloq.com/ai/ai-art/is-ai-destroying-the-art-and-magic-of-childrens-books",
-      "source": "Creative Bloq",
-      "published_iso": "2026-08-22T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/MiA73niAuKy4v43Dg6MnZA-1920-80.jpg",
-      "excerpt": "AI-generated 'slop' picture books are flooding online storefronts, and Creative Bloq talks to illustrators and parents about what happens to the craft of children's book illustration when generated art becomes the cheapest option. The piece looks at the tells of AI picture books and at the publishers and buyers trying to filter them out.",
-      "rationale": "Moves the AI-slop story from text to illustration and hands buyers and editors concrete tells for spotting a generated picture book."
+      "title": "AI가 소설 쓰는 시대, 작품 고르는 일이 더 어려워졌다: 일본 문학상이 직면한 새로운 과제",
+      "url": "https://www.huffingtonpost.kr/article/259630",
+      "source": "허프포스트코리아",
+      "published_iso": "2026-08-18T14:28:24+09:00",
+      "og_image": "https://cdn.huffingtonpost.kr/news/photo/202608/202608189503.jpg?v=259630",
+      "excerpt": "니혼게이자이신문 보도를 인용해, AI로 쓴 소설이 일본 문학상 공모에 몰리면서 심사 부담이 급증했다고 전한다. 제14회 하야카와 SF 콘테스트 응모작은 예년 400편 안팎에서 1012편으로 두 배 이상 늘었고, 제13회 호시 신이치상 일반부문 수상작 4편 중 3편이 창작 과정에 AI를 활용했다.",
+      "rationale": "Hard numbers on a judging system buckling under AI submissions — Hayakawa SF entries jumping from ~400 to 1,012, and three of four Hoshi Shinichi winners using AI — a submission-and-selection shift no other candidate covers."
     },
     {
-      "rank": 4,
-      "slug": "books-academic-ai-screening",
-      "category": "books",
+      "id": "books-vietnam-ai-labelling-law",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "Academic Publishers Develop Guidelines, Screening Tools for AI Use",
-      "url": "https://lunch.publishersmarketplace.com/2026/08/academic-publishers-develop-guidelines-screening-tools-for-ai-use/",
-      "source": "Publishers Lunch",
-      "published_iso": "2026-08-21T14:51:40Z",
-      "og_image": "",
-      "excerpt": "Just as booksellers are inundated with AI slop and trade publishing reckons with suspicions of AI-written books, academic publishing is building vetting tools and author guidelines for AI use. Publishers Lunch argues the scholarly side's screening infrastructure can inform how trade houses handle submissions.",
-      "rationale": "Scholarly publishing already has the submission-screening playbook trade houses are improvising, which makes it a template an editor can borrow rather than another round of alarm."
+      "title": "Vietnam's Publishing Sector Has New Rules and Wants AI Content Labelled",
+      "url": "https://thenewpublishingstandard.com/2026/08/26/vietnam-publishing-law-ai-copyright/",
+      "source": "The New Publishing Standard",
+      "published_iso": "2026-08-26T10:00:45Z",
+      "og_image": "https://dev.thenewpublishingstandard.com/wp-content/uploads/2022/04/South-East-Asia.png",
+      "excerpt": "Vietnam's revised publishing law introduces mandatory labelling for AI-generated content alongside tightened copyright provisions for the book trade. It joins the EU AI Act and China's draft standards in making AI disclosure a legal requirement rather than a publisher choice.",
+      "rationale": "A third jurisdiction turning AI disclosure from a publisher policy into statute — the labelling obligation is now a distribution requirement any author selling into these markets has to plan for."
     },
     {
-      "rank": 5,
-      "slug": "books-bartz-ai-thriller",
-      "category": "books",
+      "id": "books-ccc-fair-use-training-part3",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "headline": "Andrea Bartz Returns to Ballantine for AI-Inspired Thriller",
-      "url": "https://www.publishersweekly.com/pw/newsbrief/index.html?record=5999",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-08-26T12:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/cached/NEWS_BRIEFS/image/000/000/005/5999-v1-115x.JPG",
-      "excerpt": "Ballantine bought Delete Your Account by Andrea Bartz — the plaintiff in Bartz v. Anthropic — a novel about an author who has a chatbot write a book in the vein of her favourite thriller, with disastrous consequences.",
-      "rationale": "The lead plaintiff in the Anthropic training-data suit turns the fight into commercial fiction, a signal that generative AI is now saleable subject matter and not only a legal problem."
+      "title": "The Heart of the Matter: Copyright, AI Training, and LLMs – Part 3: Fair Use and AI Training Under US Law",
+      "url": "https://www.copyright.com/blog/the-heart-of-the-matter-copyright-ai-training-llms-part-3/",
+      "source": "Copyright Clearance Center",
+      "published_iso": "2026-08-27T04:57:00+00:00",
+      "og_image": "https://www.copyright.com/wp-content/uploads/2024/09/Heart-of-the-Matter-Executive-Summary.jpeg",
+      "excerpt": "CCC walks through how the recent federal court decisions actually apply the US fair use defense to AI model training — which acquisition and copying steps courts have blessed, which they have not, and what that leaves rightsholders able to license.",
+      "rationale": "Written by the collective licensing body rather than a reporter: it converts the fair-use rulings into the practical question authors and publishers keep asking — which rights are still yours to sell for AI training."
     }
-  ],
-  "diversity_check": {
-    "outlets": [
-      "ALLi Self-Publishing Advice Center",
-      "The Bookseller",
-      "Creative Bloq",
-      "Publishers Lunch",
-      "Publishers Weekly"
-    ],
-    "max_per_outlet": 1,
-    "distinct_outlets": 5,
-    "unique_urls": 5,
-    "accents_distinct": true,
-    "passes": true
-  }
+  ]
 }

@@ -1,120 +1,113 @@
 {
+  "date": "2026-08-31",
   "section": "music",
-  "generated_at": "2026-08-29T22:00:27Z",
+  "now_iso": "2026-08-31T00:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/",
-      "source": "MusicTech",
       "category": "music",
-      "headline": "Tamber music creation suite gets a 2.0 update: here's everything you need to know",
-      "published_iso": "2026-08-21T15:23:40+00:00",
-      "excerpt": "The \"ethically trained\" AI music creation suite Tamber has shipped v2.0, splitting its five core tools — Gestures, Tamby, Librarian, City Packs and Sonic Atlas — into connected apps. Gestures now runs as a VST3/AU plugin with new synth and vocoder engines and lower latency, while the Tamby in-session co-producer becomes a summonable overlay with chat history.",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Tamber-2.0@2000x1500-1068x801.jpg"
-    },
-    {
-      "url": "https://www.kvraudio.com/news/nomz-studios-updates-stemmaster-to-v1-1-35---optional-ai-engine-now-runs-locally-68195",
-      "source": "KVR Audio",
-      "category": "music",
-      "headline": "NOMZ Studios Updates StemMaster to v1.1.35 — Optional AI Engine Now Runs Locally",
-      "published_iso": "2026-08-24T10:07:16+00:00",
-      "excerpt": "StemMaster, the Windows app that mixes and masters a full multitrack from its individual stems, moves its optional AI engine on-device so sessions no longer have to leave the machine. It's the 34th release since launch.",
-      "og_image": "https://static.kvraudio.com/i/b/console-1200.png"
-    },
-    {
-      "url": "https://www.gearnews.com/ai-music-charts-tech/",
-      "source": "Gearnews",
-      "category": "music",
-      "headline": "AI Music Charts 2026: Australia bans AI-generated songs, joining a growing global trend",
-      "published_iso": "2026-08-29T12:22:15+02:00",
-      "excerpt": "ARIA now excludes wholly or mostly AI-generated songs from Australia's official charts, with AI-assisted records still eligible if they are substantially human-made. More than 20 chart programmes worldwide have adopted comparable rules.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/KI-Musik-Charts-2026-T.jpg"
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/08/28/uk-campaign-against-voice-cloning-ai/",
-      "source": "Digital Music News",
-      "category": "music",
-      "headline": "Musicians & Actors Unite in Campaign Against Voice Cloning for AI",
-      "published_iso": "2026-08-28T19:34:38+00:00",
-      "excerpt": "A coalition of UK musicians and actors has written to the government demanding stronger protection against unauthorised cloning of their voices, targeting the consent rules that govern singing-voice models.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/musicians-actors-unite-in-uk-campaign-against-ai-voice-cloning.png"
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/08/20/epidemic-sound-ugc-licensing-approach/",
-      "source": "Digital Music News",
-      "category": "music",
-      "headline": "Epidemic Sound Offers a Strikingly Different Licensing Approach",
-      "published_iso": "2026-08-21T05:14:17+00:00",
-      "excerpt": "Epidemic Sound is pitching pre-cleared catalogue as the safe alternative for brands and creators scoring social video, as AI-generated soundtracks and takedown risk push creative teams toward fully licensed music.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Emil-Henriksson-VP-and-Head-of-Commercial-Legal.png"
-    },
-    {
+      "title": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
       "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
       "source": "Synthtopia",
-      "category": "music",
-      "headline": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
       "published_iso": "2026-08-27T13:58:21+00:00",
-      "excerpt": "StemDeck is a free, open-source stem extraction platform that isolates vocals, drums, bass, piano and guitar for practice, transcription, remixing and creative audio work — locally, on all three desktop platforms.",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png"
+      "excerpt": "Stemdeck is a modern stem extraction platform, designed to isolate vocals, drums, bass, piano and guitar for practice, transcription, remixing, and creative audio workflows.",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png",
+      "why": "업로드 없이 로컬에서 5갈래 스템을 뽑는 무료 오픈소스 도구. 클라우드 의존 없는 AI 오디오 작업의 기본값이 바뀌고 있다."
     },
     {
+      "category": "music",
+      "title": "Round Hill joins the AI lawsuit party, targets Suno and Anthropic",
+      "url": "https://completemusicupdate.com/round-hill-joins-the-ai-lawsuit-party-targets-suno-and-anthropic/",
+      "source": "Complete Music Update",
+      "published_iso": "2026-08-19T14:21:45+00:00",
+      "excerpt": "More lawsuits have been filed against generative AI companies, this time Round Hill suing Suno and Anthropic. Round Hill insists 'there is nothing fair about that use'.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/suno-anthropic-roundhill.png",
+      "why": "학습 데이터 '공정이용' 방어선이 음악 퍼블리싱 쪽에서 또 시험대에 오른다. 생성 도구를 쓰는 창작자의 사용 조건에 직결."
+    },
+    {
+      "category": "music",
+      "title": "Apple Music to start labelling tracks 'Made With AI'",
+      "url": "https://completemusicupdate.com/apple-music-to-start-labelling-tracks-made-with-ai/",
+      "source": "Complete Music Update",
+      "published_iso": "2026-08-21T15:24:21+00:00",
+      "excerpt": "Apple Music will add 'Made With AI' labels to tracks flagged as materially generated using AI by labels and distributors, rolling out by the end of 2026.",
+      "og_image": "",
+      "why": "플랫폼이 'AI로 만들었다'를 메타데이터로 강제하기 시작했다. 릴리스 파이프라인의 신고 절차가 새로 생긴다."
+    },
+    {
+      "category": "music",
+      "title": "Big & Rich Vs. Artificial Intelligence on 'Hello AI': Video Premiere",
+      "url": "https://www.billboard.com/music/country/big-rich-new-song-hello-ai-premiere-1236325574/",
+      "source": "Billboard",
+      "published_iso": "2026-08-27T16:00:00Z",
+      "excerpt": "A lot of artists have spoken out against artificial intelligence, but country duo Big & Rich have lodged their protest in the form of the new song 'Hello AI.'",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2020/03/big-and-rich-2020-cr-Kristin-Barlowe-billboard-1548-1585686363.jpg?w=1024",
+      "why": "AI 반대 담론이 성명서가 아니라 곡과 뮤직비디오라는 창작물 형식으로 나왔다. 창작 자체가 논평이 되는 사례."
+    },
+    {
+      "category": "music",
+      "title": "How Each Music Listening Platform Is Treating AI Music (Updating)",
+      "url": "https://www.billboard.com/lists/how-each-music-listening-platform-treats-ai-music/",
+      "source": "Billboard",
+      "published_iso": "2026-08-27T20:59:24Z",
+      "excerpt": "From Bandcamp's ban of AI music to Spotify's 'AI Personas,' here's how all the online music platforms are dealing with the flood of AI songs.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024",
+      "why": "Spotify·Apple·Deezer·Bandcamp·Beatport의 AI 정책을 한 장에 정리. 어디에 어떻게 올릴지 결정하는 실무 지도."
+    },
+    {
+      "category": "music",
+      "title": "Music as a cultural infrastructure business",
+      "url": "https://www.midiaresearch.com/blog/music-as-a-cultural-infrastructure-business",
+      "source": "MIDiA Research",
+      "published_iso": "2026-08-20T16:00:00+01:00",
+      "excerpt": "Suno is introducing deliberate friction to pump the brakes on the AI-powered superabundance it helped create, implementing download caps around how much music users can output.",
+      "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2651/cover_image-1787236880.jpg",
+      "why": "생성량 자체를 제한하는 '의도적 마찰'이라는 새 설계 개념. 무한 생성 시대에 도구가 스스로 브레이크를 다는 이유를 짚는다."
+    },
+    {
+      "category": "music",
+      "title": "'Human-First' Needs More Than Just a Checkbox",
       "url": "https://www.hypebot.com/human-first-needs-more-than-just-a-checkbox/",
       "source": "Hypebot",
-      "category": "music",
-      "headline": "'Human-First' Needs More Than Just a Checkbox",
       "published_iso": "2026-08-27T12:35:56+00:00",
-      "excerpt": "Anti-AI and human-made labels currently rest on self-attestation, which the piece argues cannot survive contact with the real world. It proposes an independently administered certification system for human-made music.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-26-musical-form.jpg"
+      "excerpt": "Anti-AI music labels need more than self-attestation to function in the real world. An independently administered certification system could be the answer.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-26-musical-form.jpg",
+      "why": "'사람이 만들었다' 표시를 어떻게 검증할 것인가. 자기신고 라벨의 한계와 인증 체계 설계를 다룬다."
     },
     {
+      "category": "music",
+      "title": "Mark My Words: AI Music Is the End of the Artist Economy",
       "url": "https://www.hypebot.com/mark-my-words-ai-music-is-the-end-of-the-artist-economy/",
       "source": "Hypebot",
-      "category": "music",
-      "headline": "Mark My Words: AI Music Is the End of the Artist Economy",
       "published_iso": "2026-08-25T16:46:51+00:00",
-      "excerpt": "An argument against treating generative music as \"inevitable\": if making a song no longer requires an artist, the piece contends, what collapses is not craft but the economy that pays for it.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/Still-Frame-Picture.jpg"
+      "excerpt": "People keep calling gen-AI music 'inevitable.' But if making a song no longer requires an artist, that isn't the future, it's the end of the artist economy.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/Still-Frame-Picture.jpg",
+      "why": "곡 제작에서 '아티스트'라는 단계가 빠질 때 무엇이 무너지는지에 대한 정면 반론. 창작 노동의 값에 대한 논쟁."
     },
     {
-      "url": "https://www.hypebot.com/instagrams-first-draft-is-a-new-tool-to-auto-edit-reels-on-the-fly/",
-      "source": "Hypebot",
       "category": "music",
-      "headline": "Instagram First Draft Auto-Edits Reels In Seconds",
-      "published_iso": "2026-08-27T14:59:18+00:00",
-      "excerpt": "Instagram's free First Draft feature automatically trims clips and removes awkward pauses to assemble a Reel, handing musicians a zero-effort first cut for the video work that now sits between a release and its audience.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/instagram_first_draft-banner-2.jpg"
+      "title": "Unthoughtful workplace AI usage risks 'trading skill for speed'",
+      "url": "https://musically.com/2026/08/19/unthoughtful-workplace-ai-usage-risks-trading-skill-for-speed/",
+      "source": "Music Ally",
+      "published_iso": "2026-08-19T11:30:00+00:00",
+      "excerpt": "As the music industry speedily adopts AI tools, it's important to keep our human wits about us when it comes to longer-term implications of trading skill for speed.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T113246.560.png?fit=2000%2C1500&ssl=1",
+      "why": "생성이 아니라 '업무용 AI'가 실무자의 숙련을 어떻게 갉아먹는지. 도구 도입 속도와 역량 보존의 균형 문제."
     },
     {
-      "url": "https://www.billboard.com/pro/alibaba-launched-ai-music-generator-happy-shrimp/",
-      "source": "Billboard",
       "category": "music",
-      "headline": "Chinese Tech Giant Alibaba Launches New AI Music Generator Called 'Happy Shrimp'",
-      "published_iso": "2026-08-18T16:26:29+00:00",
-      "excerpt": "Alibaba's HappyShrimp 1.0 beta generates fully produced songs from prompts that can specify instrumentation, vocal style and how a track's energy shifts over time. Chinese major Taihe Music Group is signed up for artist co-creation.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/08/1091456116-e1787068208459.jpg?w=1024"
-    },
-    {
-      "url": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/",
-      "source": "Billboard",
-      "category": "music",
-      "headline": "Billboard Affirms Commitment to Transparency Around AI-Generated Music",
-      "published_iso": "2026-08-25T14:15:00+00:00",
-      "excerpt": "Billboard says it will identify songs on its charts and in its editorial coverage that use AI, leaning on creator disclosure plus detection tools such as Luminate's AI identification programme.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2025/01/Billboard-logo-BB-placeholder-1548.jpg?w=1024"
-    },
-    {
-      "url": "https://ca.billboard.com/business/tech/canadian-musicians-generative-ai-study",
-      "source": "Billboard Canada",
-      "category": "music",
-      "headline": "University of Alberta Study Finds 87% of Canadian Musicians View Generative AI 'Negatively'",
-      "published_iso": "2026-08-28T14:27:47+00:00",
-      "excerpt": "A survey of 263 Canadian musicians found overwhelmingly negative attitudes toward generative AI, alongside their views on streaming platforms as an artistic tool.",
-      "og_image": "https://ca.billboard.com/media-library/image.jpg?id=67690117&width=1200&height=600&coordinates=0%2C166%2C0%2C167"
+      "title": "Jimmy Iovine says AI-music firms 'have terrible communication skills'",
+      "url": "https://musically.com/2026/08/24/jimmy-iovine-says-ai-music-firms-have-terrible-communication-skills/",
+      "source": "Music Ally",
+      "published_iso": "2026-08-24T14:25:15+00:00",
+      "excerpt": "Jimmy Iovine is always good for a snappy quote or two about music-tech, particularly when he's being interviewed alongside Dr Dre.",
+      "og_image": "https://musically.com/wp-content/uploads/2026/08/artificial-intelligence-brain-in-motherboard.jpg",
+      "why": "AI 음악 기업이 창작자에게 자기 도구를 설명하는 방식 자체가 문제라는 지적. 제품 커뮤니케이션의 실패 사례."
     }
   ],
   "dedup": {
-    "dropped": 5,
-    "kept": 12,
+    "dropped": 3,
+    "kept": 10,
     "against_days": 5
   }
 }

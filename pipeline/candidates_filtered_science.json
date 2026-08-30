@@ -1,174 +1,163 @@
 {
+  "date": "2026-08-31",
   "section": "science",
-  "generated_at": "2026-08-29T22:00:27Z",
+  "now_iso": "2026-08-31T00:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html",
+      "category": "science",
+      "title": "A Google-like search engine for single-cell RNA data could answer previously impossible questions",
+      "url": "https://phys.org/news/2026-08-google-cell-rna-previously-impossible.html",
       "source": "Phys.org",
-      "category": "science",
-      "headline": "Machine learning methods move self-driving labs closer to materials discovery at scale",
-      "published_iso": "2026-08-26T20:50:00+00:00",
-      "excerpt": "Washington University researchers trained models on 4,000 metal-organic framework linker transformations so the system 'reads chemistry like a chemist,' surfacing 10 new viable water-harvesting materials without brute-force screening. A parallel polymer effort automates data curation from the literature to rank high-potential candidates.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg"
+      "published_iso": "2026-08-28T16:00:03Z",
+      "excerpt": "Max Delbruck Center researchers built Malva, a search platform that queries millions of single cells using raw sequence information alone, finding RNA isoforms and rare variants without reference genomes or huge downloads. The team frames it as infrastructure that both scientists and AI tools can query in seconds.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-google-like-search-e.jpg",
+      "why": "Single-cell AI: turns the field's biggest dataset problem into a search problem, and is explicitly built to be queried by AI agents."
     },
     {
-      "url": "https://phys.org/news/2026-08-inches-york-city-ai-plausible.html",
+      "category": "science",
+      "title": "Virtual cell model could accelerate protein-degrader therapy design",
+      "url": "https://phys.org/news/2026-08-virtual-cell-protein-degrader-therapy.html",
       "source": "Phys.org",
-      "category": "science",
-      "headline": "Could 12 inches of rain hit New York City? AI maps plausible rare storms",
-      "published_iso": "2026-08-25T18:40:00+00:00",
-      "excerpt": "MIT researchers built a machine-learning method called eta-learning that generates physically plausible extreme-weather scenarios without needing historical events of similar magnitude. It can map hypothetical 12-inch rainfalls over New York so planners can stress-test infrastructure against storms riskier than anything on record.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/tsunami.jpg"
+      "published_iso": "2026-08-27T08:02:09Z",
+      "excerpt": "Weill Cornell Medicine built a computational model of the cell that identifies which targets are worth pursuing for protein-degrader drugs and guides optimization, potentially cutting years off development timelines.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/model-aids-creation-of.jpg",
+      "why": "Computational biology / virtual cell: modeling replaces a chunk of wet-lab trial and error in a hot drug modality."
     },
     {
-      "url": "https://medicalxpress.com/news/2026-08-brain-hint-ai-facial-differently.html",
-      "source": "Medical Xpress",
       "category": "science",
-      "headline": "Brain recordings hint at how AI reads facial expressions differently from us",
-      "published_iso": "2026-08-28T11:30:00+00:00",
-      "excerpt": "York University researchers compared human brain recordings, primate neurons and artificial neural networks on facial-expression processing, finding the networks hit high accuracy through fundamentally non-biological computations. The takeaway: getting the right answer is not the same as solving the problem in a brain-like way.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-recordings-show.jpg"
+      "title": "Going beyond simple models of neural networks: Extended mean-field theory offers a better approach",
+      "url": "https://phys.org/news/2026-08-simple-neural-networks-field-theory.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-27T11:20:06Z",
+      "excerpt": "Princeton physicists found that standard mean-field theory fails to reproduce real neuron activity, but an extended version that carries full probability distributions matched recordings from over 1,000 mouse brain neurons.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/going-beyond-simple-mo.jpg",
+      "why": "Physics of neural networks meets neuroscience: a theory upgrade that changes how both brains and artificial nets are modeled."
     },
     {
-      "url": "https://medicalxpress.com/news/2026-08-ai-fast-track-mental-health.html",
-      "source": "Medical Xpress",
       "category": "science",
-      "headline": "Research shows AI can fast track mental health care",
-      "published_iso": "2026-08-26T12:00:00+00:00",
-      "excerpt": "Victoria University researchers ran one million Reddit threads through language models to infer the underlying causes behind mental-health disclosures. PaLM 2 matched human psychiatrist classifications in about 80% of cases, pointing to triage and screening uses.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/therapy.jpg"
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-08-ai-regulatory-hub-aging-hematopoietic.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "headline": "AI helps identify regulatory hub for aging in hematopoietic stem cells",
-      "published_iso": "2026-08-25T16:20:00+00:00",
-      "excerpt": "Tohoku University used AI analysis to pinpoint Pbx1 as a master regulator of aging in blood-forming stem cells. Raising Pbx1 in young stem cells reproduced aged-cell traits, including reduced mature blood-cell output and altered platelet production.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-identify-regu.jpg"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "headline": "Shared-memory AI system lets microscope components coordinate in real time",
-      "published_iso": "2026-08-28T15:40:00+00:00",
-      "excerpt": "Postdoc Arco Bast built a shared-memory architecture that lets separate microscope components read common state, collapsing experiment setup from months to days. With Anthropic he released a Model Hardware Standard so AI agents can observe and adjust instruments live.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/shared-memory-ai-syste.jpg"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-08-digbat-ai-ready-digital-platform.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "headline": "DigBat: An AI-ready digital platform for solid-state battery research",
-      "published_iso": "2026-08-25T07:40:00+00:00",
-      "excerpt": "Tohoku University's DigBat consolidates experimental and computational solid-electrolyte data with machine-learning tooling and an AI assistant. As of June 2026 it holds 3,816 experimental electrolytes and 27,645 conductivity entries for training predictive models.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/digbat-an-ai-ready-dig.jpg"
-    },
-    {
-      "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
-      "source": "Quanta Magazine",
-      "category": "science",
-      "headline": "Does Computer Science Need Computers?",
-      "published_iso": "2026-08-28T13:30:34+00:00",
-      "excerpt": "Quanta examines how much of computer science is really about machines, and how many of its central questions would never have been asked without them. The piece reframes theory and experiment in a field now dominated by empirical AI results.",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Social.jpg"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "source": "MIT Technology Review",
-      "category": "science",
-      "headline": "When AI designs a drug, who gets the credit?",
-      "published_iso": "2026-08-21T05:00:00-04:00",
-      "excerpt": "US courts have held that only humans can be named inventors, so AI-designed drugs are filed under human names - Insilico listed five people on a molecule its models generated. Lawyers warn that wrong-inventor claims could become a route to invalidating AI-derived patents.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI-scientist-IP.jpg?resize=1200,600"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "source": "MIT Technology Review",
-      "category": "science",
-      "headline": "AI models flub these intelligence tests. Can you fare any better?",
-      "published_iso": "2026-08-26T05:00:00-04:00",
-      "excerpt": "Seven puzzles and games expose where frontier models' reasoning breaks down, and readers can try the same tests themselves. The exercise doubles as an argument about what current AI benchmarks fail to capture.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600"
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "headline": "FAU Researchers Use Quantum Machine Learning to Predict Heart Disease",
-      "published_iso": "2026-08-27T16:33:39+00:00",
-      "excerpt": "Florida Atlantic University researchers report a quantum machine learning model that reached 90.26% accuracy predicting heart disease across 918 patient records. It is one of the clearer near-term tests of whether QML gives any edge on real clinical tabular data.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-27_21-32.png"
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "headline": "Researchers Use IBM Quantum Computer to Test Drug-Docking Method",
-      "published_iso": "2026-08-27T11:33:12+00:00",
-      "excerpt": "A team demonstrated a resource-efficient hybrid quantum-classical molecular docking method on an IBM quantum processor. The run is a concrete probe of where quantum hardware could slot into structure-based drug discovery pipelines.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-7.29.20-AM.png"
-    },
-    {
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-      "source": "Google Research",
-      "category": "science",
-      "headline": "GlucoFM: Foundation model for continuous glucose monitoring",
-      "published_iso": "2026-08-26T18:42:00+00:00",
-      "excerpt": "Google Research introduces GlucoFM, a foundation model trained on continuous glucose monitor streams for forecasting and downstream metabolic tasks. It extends the sensor-foundation-model line from wearables into a dense clinical time-series domain.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-    },
-    {
+      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
       "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
       "source": "Google Research",
-      "category": "science",
-      "headline": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-      "published_iso": "2026-08-21T17:02:00+00:00",
-      "excerpt": "Google Research describes a system that mines wearable sensor streams to rank candidate digital biomarkers for follow-up study. The aim is to cut the manual hypothesis-triage step that slows down sensor-based health research.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+      "published_iso": "2026-08-21T00:00:00Z",
+      "excerpt": "Google Research describes a pipeline that mines continuous wearable sensor streams to surface and rank candidate digital biomarkers, narrowing an enormous hypothesis space before clinical validation.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "why": "AI hypothesis generation applied to health data: the model does the candidate screening step that used to be a research program."
     },
     {
-      "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/",
-      "source": "STAT",
       "category": "science",
-      "headline": "What's in Merck and Moderna's cancer vaccine algorithm?",
-      "published_iso": "2026-08-27T14:49:21+00:00",
-      "excerpt": "STAT digs into the neoantigen-selection algorithm behind Merck and Moderna's individualized cancer vaccine, the model that decides which mutations each patient's shot targets. The details matter because the algorithm, not the chemistry, is the hard-to-copy asset.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg"
+      "title": "How mobility gives language models a deeper understanding of place",
+      "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+      "source": "Google Research",
+      "published_iso": "2026-08-21T00:00:00Z",
+      "excerpt": "Google Research shows that grounding language models in aggregated human mobility patterns gives them a far richer representation of places than text alone, improving geospatial reasoning tasks.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "why": "Foundation models for science: behavioral data as a new grounding signal for LLMs, relevant to geography and urban research."
     },
     {
-      "url": "https://www.sciencealert.com/the-way-you-draw-can-reveal-parkinsons-disease-with-up-to-99-accuracy-study-reveals",
-      "source": "ScienceAlert",
       "category": "science",
-      "headline": "The Way You Draw Can Reveal Parkinson's Disease With Up to 99% Accuracy, Study Reveals",
-      "published_iso": "2026-08-29T12:00:00+00:00",
-      "excerpt": "A machine-learning analysis of drawing and handwriting dynamics separated Parkinson's patients from controls with up to 99% accuracy. The signal sits in stroke timing and pressure rather than the finished image, making cheap tablet-based screening plausible.",
-      "og_image": "https://www.sciencealert.com/images/2026/08/handwriting-on-notebook.jpg"
+      "title": "FAU Researchers Use Quantum Machine Learning to Predict Heart Disease",
+      "url": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-08-27T16:33:39Z",
+      "excerpt": "Florida Atlantic University researchers benchmarked quantum feature maps and quantum classifiers on clinical data from 918 patients, reporting 90.26% accuracy for heart disease prediction and mapping where quantum encoding helps versus classical baselines.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-27_21-32.png",
+      "why": "Quantum machine learning tested on a real clinical dataset rather than a toy benchmark - a rare concrete data point on QML's practical footing."
     },
     {
+      "category": "science",
+      "title": "Does Computer Science Need Computers?",
+      "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+      "source": "Quanta Magazine",
+      "published_iso": "2026-08-28T13:30:34Z",
+      "excerpt": "A look at theoretical computer science as a mathematical discipline whose results about what is computable and how fast now set the ceiling for what AI systems can ever do.",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Social.jpg",
+      "why": "Theory context for the empirical AI boom: which limits are engineering problems and which are proofs."
+    },
+    {
+      "category": "science",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-08-26T09:00:00Z",
+      "excerpt": "A set of reasoning puzzles that current frontier models consistently fail, presented so readers can attempt them too - a hands-on look at where machine and human cognition diverge.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
+      "why": "Cognitive-science framing of AI benchmarks: makes the failure modes legible instead of abstract."
+    },
+    {
+      "category": "science",
+      "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
       "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
       "source": "Live Science",
-      "category": "science",
-      "headline": "New kind of AI uses a fresh approach to reasoning - researchers say it costs up to 11 times less to run",
-      "published_iso": "2026-08-29T11:00:00+00:00",
-      "excerpt": "Researchers describe a vector-based approach to cognition that they say reasons at up to 11 times lower inference cost than a leading OpenAI model. If it holds, cheap reasoning changes what kinds of scientific workloads can be run at scale.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg"
+      "published_iso": "2026-08-29T11:00:00Z",
+      "excerpt": "Researchers describe a reasoning architecture that departs from standard chain-of-thought scaling and, they report, runs up to 11 times cheaper than a leading OpenAI model on comparable tasks.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg",
+      "why": "Machine reasoning research: cost per inference is what decides whether AI can be run at scientific scale."
     },
     {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/",
-      "source": "GEN - Genetic Engineering & Biotechnology News",
       "category": "science",
-      "headline": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination",
-      "published_iso": "2026-08-20T18:53:21+00:00",
-      "excerpt": "Machine learning on sentinel antibody profiles picked out a pre-existing antimicrobial signature that predicts how strongly a person responds to vaccination. The profiling could guide vaccine design, trial enrollment and care for people at risk of weak responses.",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Low-Res_labaer-cell-press-asu-banner.jpg"
+      "title": "OpenAI funds research to try to stop AI from being used to make bioweapons",
+      "url": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons/",
+      "source": "Scientific American",
+      "published_iso": "2026-08-17T19:45:00Z",
+      "excerpt": "As AI protein and virus design tools mature, researchers are building evaluation methods to detect when a model is helping someone design something dangerous - work that is running well ahead of any regulation.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/cd3889fd-5093-4f64-9161-ebe1fb54c949/AI-bioweapons.jpg?m=1786997925.762&w=1200",
+      "why": "The safety layer of AI protein design: new evaluation science for generative biology, not just policy talk."
+    },
+    {
+      "category": "science",
+      "title": "How Frontier Medicines plans to drug the undruggable with AI and a chemical library",
+      "url": "https://www.fiercebiotech.com/biotech/how-frontier-medicines-plans-drug-undruggable-ai-and-chemical-library",
+      "source": "Fierce Biotech",
+      "published_iso": "2026-08-25T20:03:00Z",
+      "excerpt": "Frontier Medicines pairs a covalent chemical library with machine learning to find binding pockets on proteins long considered undruggable, using computation to decide which chemistry to run next.",
+      "og_image": null,
+      "why": "AI drug discovery as a lab method: model-guided selection of which covalent probes to synthesize and test."
+    },
+    {
+      "category": "science",
+      "title": "Shared-memory AI system lets microscope components coordinate in real time",
+      "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-28T19:40:04Z",
+      "excerpt": "Janelia and Anthropic researchers built the Model Hardware Standard, a shared-memory layer that lets heterogeneous microscope components talk to each other and to an AI that can watch and adjust an experiment while it runs. Setup time dropped from months to days.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/shared-memory-ai-syste.jpg",
+      "why": "Lab automation: an AI that steers instruments mid-experiment, which is the missing plumbing for self-driving labs."
+    },
+    {
+      "category": "science",
+      "title": "Researchers develop AI framework to optimize solid oxide electrolysis cell operation",
+      "url": "https://techxplore.com/news/2026-08-ai-framework-optimize-solid-oxide.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-26T20:20:05Z",
+      "excerpt": "A Seoul National University of Science and Technology team replaced 6,561 simulations with 17, using an AI-guided search that improved electrochemical performance 14% and cut temperature gradients by 80% in solid oxide electrolysis cells.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-15.jpg",
+      "why": "AI for energy materials: a concrete, quantified collapse of the simulation budget needed to design a device."
+    },
+    {
+      "category": "science",
+      "title": "AI doesn't just play better chess - it manages complexity differently",
+      "url": "https://techxplore.com/news/2026-08-ai-doesnt-play-chess-complexity.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-27T17:20:01Z",
+      "excerpt": "Complexity Science Hub and University of Parma researchers analyzed over 2,000 games and found engines sustain high board complexity far longer than humans, who simplify positions early even when their peak tension matches the machine's.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chess.jpg",
+      "why": "Quantifies a real cognitive difference between human and machine problem-solving using a measurable proxy for complexity tolerance."
+    },
+    {
+      "category": "science",
+      "title": "How health systems are embracing chatbots to query and summarize patient records",
+      "url": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/",
+      "source": "STAT",
+      "published_iso": "2026-08-20T08:30:00Z",
+      "excerpt": "Hospitals are deploying LLM interfaces over electronic health records so clinicians can ask questions of a patient's chart in natural language rather than hunting through structured fields.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_491335537-1024x576.jpeg",
+      "why": "Clinical data practice shift: retrieval over messy real-world records is the same problem scientific literature search faces."
     }
   ],
   "dedup": {
-    "dropped": 6,
-    "kept": 18,
+    "dropped": 2,
+    "kept": 15,
     "against_days": 5
   }
 }

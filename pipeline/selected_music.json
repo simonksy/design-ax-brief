@@ -1,91 +1,105 @@
 {
   "section": "music",
-  "generated_at": "2026-08-30T00:00:00Z",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:00:00Z",
   "selection_mode": "curator_auto",
   "dedup": {
-    "against": "news_data.json sections.music (today 2026-08-29 + days 2026-08-22/25/26/27/28)",
-    "candidates_in": 12,
-    "dropped": [
+    "against_days": 6,
+    "published_cards_checked": 30,
+    "pool_size": 10,
+    "dropped": 2,
+    "kept": 8,
+    "selected": 5,
+    "dropped_items": [
       {
-        "url": "https://www.gearnews.com/ai-music-charts-tech/",
-        "reason": "Same event as published card music-aria-charts (2026-08-25, Digital Music News) — ARIA excluding AI-generated songs from Australian charts, different outlet."
+        "title": "Jimmy Iovine says AI-music firms 'have terrible communication skills'",
+        "url": "https://musically.com/2026/08/24/jimmy-iovine-says-ai-music-firms-have-terrible-communication-skills/",
+        "reason": "CONTENT DUP of published card music-dre-ai (2026-08-29, MusicRadar). Same NYT interview with Jimmy Iovine and Dr Dre; the published card already carries the exact 'worst PR in world history / terrible communication' quotes. Different outlet, same event."
       },
       {
-        "url": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/",
-        "reason": "Same source + same core topic as published card music-luminate-ai-label (2026-08-26, Billboard) — Billboard/Luminate AI labelling package dropped together; kept the single strongest earlier article."
-      },
-      {
-        "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
-        "reason": "Content overlap: the published card music-trama (2026-08-25) already introduced StemDeck by name and described it as the free open-source local stem separator; republishing would read as a repeat."
+        "title": "Apple Music to start labelling tracks 'Made With AI'",
+        "url": "https://completemusicupdate.com/apple-music-to-start-labelling-tracks-made-with-ai/",
+        "reason": "CONTENT DUP within the AI-labelling cluster already published. The published card music-luminate-ai-label (2026-08-26) states the Apple Music self-declared AI label rollout as established fact ('Apple Music은 올해 하반기 자진 신고를 근거로 AI 라벨을 붙인다'), and music-beatport-ai-ban (2026-08-28) covers the same policy wave. Item is also 10 days old and has no og_image."
       }
     ],
-    "picked": 5
+    "notes": [
+      "Checked against sections.music today (2026-08-30) + days 2026-08-25 through 2026-08-29 = 30 published cards. No URL in the final 5 appears in that history.",
+      "Round Hill v. Suno/Anthropic verified as a DISTINCT filing from the two published Suno-litigation cards (music-suno-class-action, Tony Justice indie class action, 2026-08-28; music-suno-amended, UMG/Sony amended complaint, 2026-08-29). New plaintiff, new defendants (Anthropic added), new event.",
+      "StemDeck (Synthtopia) verified as a DIFFERENT product from the published music-trama card (2026-08-25, Bedroom Producers Blog). Trama = 4-stem htdemucs desktop app; StemDeck = open-source 5-stem platform. Distinct URL, distinct release, kept.",
+      "MIDiA 'cultural infrastructure' piece is the only source in the pool carrying the Suno download-cap / deliberate-friction news; not covered on any prior day.",
+      "Cross-section collision check: all 5 picks are music-native (tools, platform policy, music-publishing litigation, artist-economy certification). None belongs to gadgets/movies/design."
+    ]
   },
   "picks": [
     {
-      "rank": 1,
+      "id": "music-stemdeck",
+      "category": "music",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Tamber music creation suite gets a 2.0 update: here's everything you need to know",
-      "url": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/",
-      "source": "MusicTech",
-      "published_iso": "2026-08-21T15:23:40+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Tamber-2.0@2000x1500-1068x801.jpg",
-      "excerpt": "The \"ethically trained\" AI music creation suite Tamber has shipped v2.0, splitting its five core tools — Gestures, Tamby, Librarian, City Packs and Sonic Atlas — into connected apps. Gestures now runs as a VST3/AU plugin with new synth and vocoder engines and lower latency, while the Tamby in-session co-producer becomes a summonable overlay with chat history.",
-      "rationale": "An ethically-trained AI suite that now drops straight into the DAW as a VST3/AU plugin — changes what a producer can actually run in a session tomorrow."
+      "title": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
+      "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
+      "source": "Synthtopia",
+      "published_iso": "2026-08-27T13:58:21+00:00",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png",
+      "excerpt": "Stemdeck is a modern stem extraction platform, designed to isolate vocals, drums, bass, piano and guitar for practice, transcription, remixing, and creative audio workflows.",
+      "rationale": "The only shippable tool in the pool: free, open-source, runs locally on all three desktop OSes and pulls five stems including piano and guitar, so a producer can change tomorrow's remix and transcription workflow with no upload and no subscription."
     },
     {
-      "rank": 2,
+      "id": "music-suno-friction",
+      "category": "music",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Chinese Tech Giant Alibaba Launches New AI Music Generator Called 'Happy Shrimp'",
-      "url": "https://www.billboard.com/pro/alibaba-launched-ai-music-generator-happy-shrimp/",
-      "source": "Billboard",
-      "published_iso": "2026-08-18T16:26:29+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/08/1091456116-e1787068208459.jpg?w=1024",
-      "excerpt": "Alibaba's HappyShrimp 1.0 beta generates fully produced songs from prompts that can specify instrumentation, vocal style and how a track's energy shifts over time. Chinese major Taihe Music Group is signed up for artist co-creation.",
-      "rationale": "A new hyperscaler-backed text-to-song model with label co-creation attached — the first big non-Suno/Udio entrant worth benchmarking prompts against."
+      "title": "Music as a cultural infrastructure business",
+      "url": "https://www.midiaresearch.com/blog/music-as-a-cultural-infrastructure-business",
+      "source": "MIDiA Research",
+      "published_iso": "2026-08-20T16:00:00+01:00",
+      "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2651/cover_image-1787236880.jpg",
+      "excerpt": "Suno is introducing deliberate friction to pump the brakes on the AI-powered superabundance it helped create, implementing download caps around how much music users can output.",
+      "rationale": "Hard product news wrapped in analysis: Suno is capping how much music users can download, the first time a generative music platform has designed friction into its own output, which directly changes the economics of prompt-heavy workflows."
     },
     {
-      "rank": 3,
+      "id": "music-platform-ai-policies",
+      "category": "music",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "Musicians & Actors Unite in Campaign Against Voice Cloning for AI",
-      "url": "https://www.digitalmusicnews.com/2026/08/28/uk-campaign-against-voice-cloning-ai/",
-      "source": "Digital Music News",
-      "published_iso": "2026-08-28T19:34:38+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/musicians-actors-unite-in-uk-campaign-against-ai-voice-cloning.png",
-      "excerpt": "A coalition of UK musicians and actors has written to the government demanding stronger protection against unauthorised cloning of their voices, targeting the consent rules that govern singing-voice models.",
-      "rationale": "Fresh, credible rights story that goes at the consent layer under every singing-voice model — the rule change that would land on release paperwork first."
+      "title": "How Each Music Listening Platform Is Treating AI Music (Updating)",
+      "url": "https://www.billboard.com/lists/how-each-music-listening-platform-treats-ai-music/",
+      "source": "Billboard",
+      "published_iso": "2026-08-27T20:59:24Z",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024",
+      "excerpt": "From Bandcamp's ban of AI music to Spotify's 'AI Personas,' here's how all the online music platforms are dealing with the flood of AI songs.",
+      "rationale": "A single maintained map of every DSP and store's AI rules, from Bandcamp's outright ban to Spotify's AI Personas, which is the practical decision sheet for where and how to release an AI-assisted track."
     },
     {
-      "rank": 4,
+      "id": "music-human-first-certification",
+      "category": "music",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "headline": "University of Alberta Study Finds 87% of Canadian Musicians View Generative AI 'Negatively'",
-      "url": "https://ca.billboard.com/business/tech/canadian-musicians-generative-ai-study",
-      "source": "Billboard Canada",
-      "published_iso": "2026-08-28T14:27:47+00:00",
-      "og_image": "https://ca.billboard.com/media-library/image.jpg?id=67690117&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
-      "excerpt": "A survey of 263 Canadian musicians found overwhelmingly negative attitudes toward generative AI, alongside their views on streaming platforms as an artistic tool.",
-      "rationale": "Hard survey numbers rather than opinion — sets the audience temperature anyone shipping AI-assisted music has to plan disclosure around."
+      "title": "'Human-First' Needs More Than Just a Checkbox",
+      "url": "https://www.hypebot.com/human-first-needs-more-than-just-a-checkbox/",
+      "source": "Hypebot",
+      "published_iso": "2026-08-27T12:35:56+00:00",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-26-musical-form.jpg",
+      "excerpt": "Anti-AI music labels need more than self-attestation to function in the real world. An independently administered certification system could be the answer.",
+      "rationale": "Flips the labelling debate from AI-detection to human-verification, arguing self-attestation cannot hold and proposing an independent certification body, which is the design problem every 'human-made' badge now has to solve."
     },
     {
-      "rank": 5,
+      "id": "music-round-hill-suit",
+      "category": "music",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "Instagram First Draft Auto-Edits Reels In Seconds",
-      "url": "https://www.hypebot.com/instagrams-first-draft-is-a-new-tool-to-auto-edit-reels-on-the-fly/",
-      "source": "Hypebot",
-      "published_iso": "2026-08-27T14:59:18+00:00",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/instagram_first_draft-banner-2.jpg",
-      "excerpt": "Instagram's free First Draft feature automatically trims clips and removes awkward pauses to assemble a Reel, handing musicians a zero-effort first cut for the video work that now sits between a release and its audience.",
-      "rationale": "Free, live today, and aimed at the video chore that sits between a release and its listeners — the most immediately usable item in the pool."
+      "title": "Round Hill joins the AI lawsuit party, targets Suno and Anthropic",
+      "url": "https://completemusicupdate.com/round-hill-joins-the-ai-lawsuit-party-targets-suno-and-anthropic/",
+      "source": "Complete Music Update",
+      "published_iso": "2026-08-19T14:21:45+00:00",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/suno-anthropic-roundhill.png",
+      "excerpt": "More lawsuits have been filed against generative AI companies, this time Round Hill suing Suno and Anthropic. Round Hill insists 'there is nothing fair about that use'.",
+      "rationale": "A music publisher, not a label, opens a new front by suing Suno and Anthropic together, pushing the fair-use fight onto composition rights and lyrics, which is the layer that decides what generative tools may legally output."
     }
   ]
 }

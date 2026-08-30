@@ -1,136 +1,173 @@
 {
   "section": "design",
-  "generated_at": "2026-08-30T00:00:00Z",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:00:00Z",
   "selection_mode": "curator_auto",
   "dedup": {
-    "against": "pipeline/news_data.json -> sections.design (today + 5 days) + cross-section collision list from coordinator",
-    "published_days_checked": [
-      "2026-08-29",
-      "2026-08-28",
-      "2026-08-27",
-      "2026-08-26",
-      "2026-08-25",
-      "2026-08-22"
+    "pool_size": 16,
+    "against_days": 5,
+    "history_checked": [
+      "sections.design.today (2026-08-30) + sections.design.days (2026-08-25 .. 2026-08-29)",
+      "cross-section: movies / games / gadgets / science / music / books published history",
+      "cross-section: URLs reserved by other sections for today (2026-08-31)"
     ],
-    "dropped_as_duplicate": [
+    "dropped": [
       {
-        "url": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
-        "source": "Creative Bloq",
-        "reason": "same story as design card design-photoshop-ai published 2026-08-28 (Animation World Network, Adobe's Photoshop AI update incl. the beta AI-assisted editor) — different outlet, same release; also on today's movies list via awn.com"
-      },
-      {
-        "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
-        "source": "80 Level",
-        "reason": "cross-section duplicate — same article already published 2026-08-29 as games-tripo-topology; 80.lv also reserved by games today"
+        "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+        "reason": "CROSS-SECTION HARD DUPLICATE — same URL published 2026-08-30 in the movies section as movies-onprem-open-weights. Replaced by backfill."
       },
       {
         "url": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
-        "source": "Creative Bloq",
-        "reason": "cross-section duplicate — the leaked DLSS 5 filter story already ran 2026-08-29 as games-dlss5-leak (Polygon), same event reworded"
+        "reason": "CROSS-SECTION CONTENT DUPLICATE — same DLSS 5 leak event published 2026-08-29 in the games section as games-dlss5-leak (Polygon, different outlet, same story). Replaced by backfill."
       },
       {
-        "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
-        "source": "fxguide",
-        "reason": "same-day cross-section collision — the movies section is publishing this today; movies keeps it (fxguide is a film/VFX outlet). Slot 2 backfilled with the next-best surviving candidate."
+        "url": "https://www.youtube.com/shorts/Y_78H41mw4A",
+        "reason": "within-pool duplicate — same Figma content-hub push about Thom Bettridge / i-D Magazine as the figma.com Source Material post; kept the richer figma.com article instead"
+      },
+      {
+        "url": "https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway",
+        "reason": "near-identical rehash of the already-published 'Muse Image now available on AI Gateway' (Vercel, design 2026-08-29): same source, same core topic (a new model added to Vercel AI Gateway behind one key)"
+      },
+      {
+        "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
+        "reason": "same source + same core topic cluster as 'Build and deploy eve agents from the Vercel dashboard' (Vercel, design 2026-08-30) — agent-deployment changelog hub"
+      },
+      {
+        "url": "https://www.fastcompany.com/91597464/how-apple-made-its-charming-claymation-mac-mini-ad",
+        "reason": "cross-section collision risk with gadgets (Apple / Mac mini coverage) and would have put Fast Company at 2 cards; skipped in favour of a design-native alternative"
+      },
+      {
+        "url": "https://roadtovr.com/as-vr-gaming-looks-for-new-footing-the-out-of-home-xr-entertainment-space-is-still-building/",
+        "reason": "roadtovr.com is a shared domain with the games and gadgets sections and the piece is a VR-industry business story rather than a design brief; skipped to avoid a cross-section collision"
+      },
+      {
+        "url": "https://www.uploadvr.com/meta-is-working-to-spin-off-worlds-from-the-horizon-mobile-app/",
+        "reason": "uploadvr.com is a shared domain with the gadgets section and the story is an app/product datamine; skipped for cross-section safety"
+      },
+      {
+        "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
+        "reason": "Disney concept-art auction overlaps the movies/animation section's territory; opinion piece with low actionability, so not worth the collision risk"
+      },
+      {
+        "url": "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer",
+        "reason": "Apple/Spotify AI-slop policing overlaps the music section's platform-policy coverage; dropped as a cross-section content risk"
+      },
+      {
+        "url": "https://80.lv/",
+        "reason": "80.lv Tripo topology article pre-dropped by orchestrator — already published 2026-08-29 in the games section"
       }
     ],
-    "notes": "Four candidates dropped (one in-section content duplicate, three cross-section duplicates/collisions) and backfilled down the ranked pool. Slot 2 now carries Engineering.com's Atomica launch, which keeps the final 5 at five distinct outlets and five distinct categories. Coordinator's cross-section block list (awn.com Photoshop, indiewire indie-slop, beforesandafters, youtube qv0s1_coX50, 80.lv / RPS / PC Gamer / Aftermath / Kotaku, and the gadgets Engadget-Siri / 9to5google / Android Authority / Digital Trends items) was applied; the Engadget item kept here is the OpenAI-Cursor story, not the gadgets Siri item."
+    "backfill": [
+      {
+        "replaced": "design-onprem-open-weights",
+        "with": "design-figma-id-source-material",
+        "verified": "figma.com appears in no other section's allowed domains and no other section has published this interview"
+      },
+      {
+        "replaced": "design-dlss5-filter-leak",
+        "with": "design-ai-interior-measurement",
+        "verified": "dev.to appears only in the design section's figma/tokens domain lists; no other section has published an AI-interior-measurement story"
+      }
+    ],
+    "not_duplicates_kept": [
+      "dev.to/planetabhi_ Figma variables piece is a distinct article from the same author's 'Design Diff' (design 2026-08-25) — different topic and URL",
+      "the two dev.to picks are different authors and unrelated topics (token structure vs. AI interior evaluation)",
+      "Adobe Creative Cloud YouTube mockup episode is a different video from the 2026-08-26 Photoshop selection short"
+    ],
+    "reserved_today_avoided": [
+      "80.lv Unity dungeon generation (games)",
+      "80.lv Stylized Water 3 river modeler (games)",
+      "fxguide / No Film School Adobe Firefly audio overhaul (movies)",
+      "Ars Technica Anthropic hardware standard (gadgets)",
+      "WIRED Relay Q mic (gadgets)",
+      "The Verge China robots (gadgets)",
+      "ZDNET Oura lawsuit (gadgets)",
+      "MacRumors Mac AI demand (gadgets)"
+    ],
+    "diversity_guard": {
+      "distinct_outlets": 4,
+      "max_per_outlet": 2,
+      "categories": {
+        "workflow": 1,
+        "tokens": 1,
+        "figma": 1,
+        "render": 1,
+        "social": 1
+      },
+      "accents_all_distinct": true
+    },
+    "orchestrator_override": "design-figma-id-source-material (Figma 'Source Material: i-D Magazine') was swapped out by the orchestrator: the article has no AI angle, and this brief's constant axis is AI x domain. Replaced with the Creative Bloq $3.4m Disney concept-art auction piece, which argues what AI concept art removes from the craft. Verified: absent from every section's published history, not on today's reserved cross-section list, and movies did not pick it."
   },
   "picks": [
     {
-      "rank": 1,
-      "slug": "figma-agent-army-code-connect",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "headline": "My agent army writes Code Connect | Dev Mindset",
-      "url": "https://www.youtube.com/watch?v=KhyLHeGpWFA",
-      "source": "Figma (YouTube)",
-      "published_iso": "2026-08-27T04:00:26-07:00",
-      "og_image": "https://i.ytimg.com/vi/KhyLHeGpWFA/maxresdefault.jpg",
-      "excerpt": "A Figma engineer runs a fleet of coding agents to generate Code Connect mappings, showing what it looks like to supervise agents instead of writing the glue code yourself.",
-      "rationale": "First-party Figma demo of the design-system-to-code handoff being done by a fleet of agents — the most directly copyable working method in today's pool."
-    },
-    {
-      "rank": 2,
-      "slug": "atomica-thermal-microstructures",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "headline": "Atomica introduces AI Thermal Microstructures Platform",
-      "url": "https://www.engineering.com/atomica-introduces-ai-thermal-microstructures-platform/",
-      "source": "Engineering.com",
-      "published_iso": "2026-08-28T14:02:44+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Atomica-introduces-AI-Thermal-Microstructures-Platform.jpg",
-      "excerpt": "Atomica launched a platform for AI-designed thermal microstructures, applying generative methods to the physical geometry of heat-management components.",
-      "rationale": "Backfills the fxguide slot: a shipped platform where generative geometry produces manufacturable hardware, not renders — the clearest AI-into-physical-design launch in the pool."
-    },
-    {
-      "rank": 3,
-      "slug": "ai-websites-look-same",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "headline": "Why AI Websites All Look the Same and How to Build Something Different",
-      "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan",
-      "source": "DEV Community",
-      "published_iso": "2026-08-29T01:38:54Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F14u0rkyv2g9bzxrkv1wu.png",
-      "excerpt": "A breakdown of why prompt-generated sites converge on the same gradient-and-card aesthetic, and the constraints, tokens and references that push AI output off the default.",
-      "rationale": "Names the homogenisation problem every designer hits with generative UI and gives concrete constraint/token levers to break the default look tomorrow."
-    },
-    {
-      "rank": 4,
-      "slug": "openai-cursor-cutoff",
+      "id": "design-ai-camo-shirt",
+      "title": "This shirt is like an AI invisibility cloak",
+      "url": "https://www.fastcompany.com/91595636/this-shirt-is-like-an-ai-invisibility-cloak",
+      "source": "Fast Company",
+      "published_iso": "2026-08-29T10:00:00+00:00",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91595636-digital-camo-shirt.jpg",
+      "excerpt": "Designer Simon Weckert's garment uses a deliberately wacky pattern that works as camouflage against AI vision systems.",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "headline": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
-      "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/",
-      "source": "Engadget",
-      "published_iso": "2026-08-29T14:58:40+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
-      "excerpt": "OpenAI plans to cut off Cursor's access to its models on November 12, 2026, forcing everyone who prototypes UI in Cursor onto a different model lineup.",
-      "rationale": "A hard date on the calendar: design engineers who prototype UI in Cursor have to re-plan their model lineup before November 12."
+      "rationale": "Pattern design as a functional interface to machine perception — a concrete case of designing for the model as an audience."
     },
     {
-      "rank": 5,
-      "slug": "vercel-dashboard-agents",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "headline": "Build and deploy eve agents from the Vercel dashboard",
-      "url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard",
-      "source": "Vercel",
-      "published_iso": "2026-08-28T00:00:00+00:00",
-      "og_image": "https://vercel.com/api/dynamic-og?title=Build%20and%20deploy%20eve%20agents%20from%20the%20Vercel%20dashboard&format=changelog",
-      "excerpt": "Agents can now be created, configured and deployed directly from the Vercel dashboard, no local scaffolding required.",
-      "rationale": "Prompt-to-agent from a GUI drops the terminal requirement, putting agent building inside reach of designers who never scaffold projects locally."
-    }
-  ],
-  "diversity_check": {
-    "outlets": [
-      "Figma (YouTube)",
-      "Engineering.com",
-      "DEV Community",
-      "Engadget",
-      "Vercel"
-    ],
-    "max_per_outlet": 1,
-    "distinct_outlets": 5,
-    "categories": {
-      "social": 1,
-      "cad": 1,
-      "tokens": 1,
-      "workflow": 1,
-      "figma": 1
+      "id": "design-figma-variables-structure",
+      "title": "Structuring Variables in Figma",
+      "url": "https://dev.to/planetabhi_/structuring-variables-in-figma-32d8",
+      "source": "DEV Community",
+      "published_iso": "2026-08-29T08:04:14Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbxrp072bsm5p1i21wi9.webp",
+      "excerpt": "A practical scheme for organising Figma variables — primitives, semantic aliases, collections and modes — so a UI library stays scalable as projects grow.",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "A named, closed set of variables is exactly what stops a generating agent from inventing values — token structure is the guardrail now, not housekeeping."
     },
-    "unique_urls": 5,
-    "passes": true
-  }
+    {
+      "id": "design-disney-auction-concept-art",
+      "title": "The $3.4m Disney auction is a reminder of what AI concept art takes from us",
+      "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
+      "source": "Creative Bloq",
+      "published_iso": "2026-08-29T12:08:13Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1920-80.jpg",
+      "excerpt": "A record-breaking auction of original Disney concept art becomes an argument about what disappears when concept work is generated rather than drawn.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "컨셉 아트가 생성물로 대체될 때 무엇이 사라지는지를 3.4M 달러 디즈니 경매를 축으로 따진 글 — AI 이미지 도구를 쓰는 디자이너에게 직접 걸리는 craft 논점."
+    },
+    {
+      "id": "design-ai-interior-measurement",
+      "title": "A Measurement-First Workflow for Evaluating AI Interior Concepts",
+      "url": "https://dev.to/physicsai/a-measurement-first-workflow-for-evaluating-ai-interior-concepts-4h25",
+      "source": "DEV Community",
+      "published_iso": "2026-08-30T02:52:40Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8obez9gebnhzuvfg4pnz.png",
+      "excerpt": "AI image systems produce plausible interiors that quietly break real dimensions; this proposes measuring the generated concept against the actual room before anyone falls in love with the render.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Generated concepts look buildable and aren't — putting measurement before taste is the missing review step for AI visualisation."
+    },
+    {
+      "id": "design-adobe-unlock-mockups",
+      "title": "The Unlock | Product Mockups with Badal Patel",
+      "url": "https://www.youtube.com/watch?v=IlbD1rRIZLI",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "published_iso": "2026-08-28T15:03:13-07:00",
+      "og_image": "https://i.ytimg.com/vi/IlbD1rRIZLI/maxresdefault.jpg",
+      "excerpt": "Badal Patel of Super Spicy studio walks through his product-mockup approach, combining Adobe Firefly generation with hands-on Photoshop work.",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "rationale": "A working graphic designer showing exactly where he lets Firefly in and where he doesn't — the practical division of labour, not the pitch."
+    }
+  ]
 }

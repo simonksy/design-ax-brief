@@ -1,227 +1,145 @@
 {
-  "date": "2026-08-30",
-  "now_iso": "2026-08-29T22:00:27Z",
+  "date": "2026-08-31",
   "section": "games",
-  "rotation_note": "UNATTENDED full-sweep run: no date rotation applied. Every keyword in keyword_pool.json sections.games (3 core + 24 pool) is represented, consolidated into 28 queries.",
-  "user_seeds": [],
+  "now_iso": "2026-08-31T00:00:00Z",
+  "rotation": {
+    "basis": "FULL-POOL override (unattended run): all core + entire rotation pool are in play; no narrow rotation."
+  },
   "working_keywords": [
     {
       "keyword": "AI game",
-      "source": "core",
-      "expansions": ["AI in video games", "game AI 2026", "AI-powered gameplay", "AI game announcement"]
+      "origin": "core"
     },
     {
       "keyword": "AI 게임",
-      "source": "core",
-      "expansions": ["AI 게임 개발", "생성형 AI 게임", "게임 AI 도구", "AI 게임 제작"]
+      "origin": "core"
     },
     {
       "keyword": "generative game",
-      "source": "core",
-      "expansions": ["generative AI game development", "gen AI in games", "generative gameplay", "AI-generated game content"]
+      "origin": "core"
     },
     {
       "keyword": "generative game assets",
-      "source": "pool",
-      "expansions": ["AI 3D asset generation", "game-ready mesh AI", "Tripo Meshy Rodin", "text-to-3D game pipeline"],
-      "recent_coverage": "Tripo Smart Mesh covered 2026-08-29 — prefer other vendors/angles"
+      "origin": "pool"
     },
     {
       "keyword": "AI NPC",
-      "source": "pool",
-      "expansions": ["autonomous NPC", "LLM-driven NPC", "NPC conversation AI", "AI companion character game"],
-      "recent_coverage": "GTA6 NPC team covered 2026-08-29 (non-AI angle) — prefer AI NPC tech news"
+      "origin": "pool"
     },
     {
       "keyword": "Inworld AI",
-      "source": "pool",
-      "expansions": ["Inworld runtime", "Inworld TTS game", "character engine SDK", "Convai"]
+      "origin": "pool"
     },
     {
       "keyword": "procedural generation AI",
-      "source": "pool",
-      "expansions": ["AI procedural content generation", "PCG machine learning", "AI world building tool", "roguelike AI generation"]
+      "origin": "pool"
     },
     {
       "keyword": "AI playtesting",
-      "source": "pool",
-      "expansions": ["AI QA automation game", "agent playtest bot", "automated game testing AI", "AI balance testing"]
+      "origin": "pool"
     },
     {
       "keyword": "neural game engine",
-      "source": "pool",
-      "expansions": ["neural rendering game", "diffusion game engine", "real-time generative engine", "DLSS neural graphics"],
-      "recent_coverage": "DLSS 5 leak covered 2026-08-29 — prefer engine-side neural rendering news"
+      "origin": "pool"
     },
     {
       "keyword": "AI level design",
-      "source": "pool",
-      "expansions": ["AI map generation", "generative level editor", "AI environment art game", "layout generation tool"]
+      "origin": "pool"
     },
     {
       "keyword": "AI game dialogue",
-      "source": "pool",
-      "expansions": ["generative dialogue system", "AI narrative design", "branching dialogue LLM", "AI quest generation"]
+      "origin": "pool"
     },
     {
       "keyword": "Unreal Engine AI",
-      "source": "pool",
-      "expansions": ["Unreal Engine 5.7 AI features", "Epic Games AI tools", "MetaHuman AI animation", "UEFN AI assistant"]
+      "origin": "pool"
     },
     {
       "keyword": "Unity Muse",
-      "source": "pool",
-      "expansions": ["Unity AI assistant", "Unity Sentis inference", "Unity generative tools", "Unity 6 AI workflow"]
+      "origin": "pool"
     },
     {
       "keyword": "AI game art",
-      "source": "pool",
-      "expansions": ["AI concept art game", "generative texture material", "AI 2D sprite pipeline", "AI art director game studio"]
+      "origin": "pool"
     },
     {
       "keyword": "AI animation games",
-      "source": "pool",
-      "expansions": ["AI motion capture game", "generative animation rig", "AI mocap cleanup", "motion matching machine learning"]
+      "origin": "pool"
     },
     {
       "keyword": "AI voice acting games",
-      "source": "pool",
-      "expansions": ["AI voice game union SAG-AFTRA", "synthetic voice game character", "AI dubbing game", "voice cloning game studio"]
+      "origin": "pool"
     },
     {
       "keyword": "NVIDIA ACE",
-      "source": "pool",
-      "expansions": ["NVIDIA ACE autonomous characters", "NVIDIA game AI SDK", "Riva Audio2Face game", "on-device game LLM"]
+      "origin": "pool"
     },
     {
       "keyword": "AI game design tool",
-      "source": "pool",
-      "expansions": ["AI copilot game engine", "generative design tool studio", "AI middleware game dev", "AI prototyping game"]
+      "origin": "pool"
     },
     {
       "keyword": "AI character creation",
-      "source": "pool",
-      "expansions": ["AI avatar generator game", "generative character rig", "AI character customization", "MetaHuman generative"]
+      "origin": "pool"
     },
     {
       "keyword": "AI mod UGC",
-      "source": "pool",
-      "expansions": ["Roblox generative AI creation", "AI user generated content game", "Fortnite UEFN AI", "AI mod tools community"]
+      "origin": "pool"
     },
     {
       "keyword": "text-to-game",
-      "source": "pool",
-      "expansions": ["prompt to playable game", "AI game generator", "one-prompt game demo", "generative interactive experience"]
+      "origin": "pool"
     },
     {
       "keyword": "AI playable worlds",
-      "source": "pool",
-      "expansions": ["interactive world model", "generative interactive video", "Odyssey world model", "playable AI simulation"]
+      "origin": "pool"
     },
     {
       "keyword": "Genie world model",
-      "source": "pool",
-      "expansions": ["Google DeepMind Genie 3", "world model game research", "SIMA agent", "foundation world model"],
-      "recent_coverage": "DeepMind x EVE Online / SIMA covered 2026-08-22 — prefer newer world-model releases"
+      "origin": "pool"
     },
     {
       "keyword": "AI dynamic difficulty",
-      "source": "pool",
-      "expansions": ["adaptive difficulty AI", "player modeling machine learning", "AI matchmaking personalization", "AI player state game"]
+      "origin": "pool"
     },
     {
       "keyword": "AI localization games",
-      "source": "pool",
-      "expansions": ["AI translation game text", "machine translation localization studio", "AI subtitle game", "게임 현지화 AI"]
+      "origin": "pool"
     },
     {
       "keyword": "AI bug detection games",
-      "source": "pool",
-      "expansions": ["AI crash triage game", "automated bug reproduction", "AI code review game engine", "AI anti-cheat detection"]
+      "origin": "pool"
     },
     {
       "keyword": "vibe coding games",
-      "source": "pool",
-      "expansions": ["vibe coded indie game", "AI coding assistant game dev", "Claude Code game project", "solo dev AI game"]
+      "origin": "pool"
     }
   ],
-  "plan": [
-    {
-      "category": "games",
-      "label": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "allowed_domains": [
-        "gamesindustry.biz",
-        "gamedeveloper.com",
-        "80.lv",
-        "polygon.com",
-        "rockpapershotgun.com",
-        "vg247.com",
-        "ign.com",
-        "eurogamer.net",
-        "kotaku.com",
-        "gamespot.com",
-        "pcgamer.com",
-        "gamesradar.com",
-        "thegamer.com",
-        "wccftech.com",
-        "venturebeat.com",
-        "unrealengine.com",
-        "unity.com",
-        "roadtovr.com",
-        "gamingbolt.com",
-        "aftermath.site",
-        "nme.com",
-        "destructoid.com",
-        "gamesbeat.com",
-        "deepmind.google",
-        "blogs.nvidia.com",
-        "developer.nvidia.com",
-        "inworld.ai",
-        "gdconf.com",
-        "youtube.com",
-        "youtu.be"
-      ],
-      "queries": [
-        "AI NPC generative characters game 2026 Inworld",
-        "NVIDIA ACE autonomous game characters SDK 2026",
-        "generative AI 3D game asset pipeline tool 2026",
-        "AI concept art texture material generation game studio 2026",
-        "AI level design procedural content generation tool 2026",
-        "neural game engine real-time generative rendering 2026",
-        "Genie world model playable interactive world AI 2026",
-        "text-to-game AI game generator prompt playable 2026",
-        "Unreal Engine 5 AI features MetaHuman generative 2026",
-        "Unity AI assistant Muse Sentis generative workflow 2026",
-        "AI playtesting QA automation game testing agent 2026",
-        "AI bug detection crash triage anti-cheat game 2026",
-        "AI game dialogue narrative quest generation LLM 2026",
-        "AI voice acting game synthetic voice SAG-AFTRA 2026",
-        "AI animation motion capture game character rig 2026",
-        "AI character creation avatar generator game tool 2026",
-        "AI localization translation game studio pipeline 2026",
-        "AI dynamic difficulty adaptive gameplay player modeling 2026",
-        "Roblox Fortnite AI UGC creation tools generative 2026",
-        "AI game design tool copilot middleware developer 2026",
-        "vibe coding indie game AI coding assistant developer 2026",
-        "generative AI game development studio policy Steam disclosure 2026",
-        "AI 게임 개발 생성형 도구 2026",
-        "게임 AI NPC 생성형 캐릭터 현지화 2026",
-        "GDC 2026 AI game development session talk",
-        "site:youtube.com Unreal Engine AI tools 2026",
-        "site:youtube.com Inworld AI NPC demo 2026",
-        "site:youtube.com Two Minute Papers game AI world model 2026"
-      ]
-    }
+  "categories": [
+    "games"
   ],
-  "wildcard": {
-    "query": "AI game announcement trending August 2026",
-    "note": "Free-form trending sweep; still restricted to the games allowed_domains."
-  },
-  "totals": {
-    "working_keywords": 27,
-    "categories": 1,
-    "queries": 29
-  }
+  "allowed_domains": [
+    "80.lv",
+    "aftermath.site",
+    "destructoid.com",
+    "eurogamer.net",
+    "gamedeveloper.com",
+    "gamesindustry.biz",
+    "gamespot.com",
+    "gamesradar.com",
+    "gamingbolt.com",
+    "ign.com",
+    "kotaku.com",
+    "nme.com",
+    "pcgamer.com",
+    "polygon.com",
+    "roadtovr.com",
+    "rockpapershotgun.com",
+    "thegamer.com",
+    "unity.com",
+    "unrealengine.com",
+    "venturebeat.com",
+    "vg247.com",
+    "wccftech.com"
+  ]
 }

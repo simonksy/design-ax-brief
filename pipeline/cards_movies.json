@@ -1,263 +1,273 @@
 {
   "section": "movies",
-  "generated_at": "2026-08-30T00:00:00Z",
-  "written_by": "ax-writer",
-  "date": "2026-08-30",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:00:00Z",
   "cards": [
     {
-      "id": "movies-photoshop-firefly5",
+      "id": "movies-utopai-ai-native-slate",
       "eyebrow": "AI NEWS",
-      "headline": "포토샵에 비파괴 조명 레이어,\n마스크 지정 인스트럭트 편집",
-      "body": "포토샵에 비파괴 조명 레이어와 마스크 인스트럭트 편집이 들어왔다.",
-      "mini_headline": "포토샵의 새 AI 편집",
+      "headline": "유토파이, AI 네이티브 스튜디오\n2027년 영화 3편·시리즈 2편 공개",
+      "body": "개발·제작 중인 오리지널 25편 중 영화 3편과 시리즈 2편이 2027년에 나온다.",
+      "mini_headline": "2027년 슬레이트 확정",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools",
+      "source": "Variety",
+      "url": "https://variety.com/2026/biz/news/utopai-worlds-largest-independent-ai-native-film-tv-studio-will-premiere-3-movies-2-series-in-2027-1236844803/",
       "accent": "#0070f3",
       "motif": "frame",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Utopai_Banner_169_HD.png?w=1000&h=563&crop=1",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "어도비가 포토샵 업데이트를 내놨다. 정밀 도구와 프롬프트 편집을 양쪽에 나란히 두고 고르게 한 묶음이다. 앞에 선 건 새 Light Adjustment Layer, Firefly가 돌리는 Instruct Edit with Masks, 그리고 베타로 열린 AI Assisted Editor."
+            "x": "유토파이 스튜디오는 캘리포니아 마운틴뷰에 있다. 영화와 TV 시리즈를 개발하고 자금을 대고 제작해 배급까지 맡는다. 3D 월드 제작과 영상 생성을 하던 Cybever에서 출발해 AI 제작을 중심에 둔 영화·TV 스튜디오로 방향을 틀었다. CEO 겸 공동창업자 세실리아 셴과 공동창업자 겸 CTO 지에 양이 이끈다. 알려진 기업가치는 10억 달러, 순수 AI 네이티브 영화·TV 스튜디오 가운데 독립적으로 보고된 액수로는 가장 높다."
           },
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=_dBhwGrE",
-            "cap": "베타로 열린 AI Assisted Editor 화면"
+            "src": "https://variety.com/wp-content/uploads/2026/08/Utopai_Banner_169_HD.png?w=1000&h=667&crop=1",
+            "cap": "유토파이 스튜디오"
           },
           {
             "t": "p",
-            "x": "크리에이티브 프로 대상 제품 마케팅 부사장 Deepa Subramaniam은 발표문에서 이렇게 말했다. “정밀 도구로 디테일을 다듬든 프롬프트로 아이디어를 펼쳐 보든, 이번 업데이트는 더 효율적이고 자신 있게 작업하면서 처음부터 끝까지 창작 비전에 집중하도록 돕기 위해 만들었습니다.”"
+            "x": "지금 개발·제작 중인 오리지널은 25편이다. 극장과 방송, 스트리밍, 디지털을 모두 겨냥한다. 장편 「하프 문」과 「코르테스」, 「더 모스트 시리어스 파트」 세 편이 2027년 개봉 예정이고 시리즈 「스페이스 네이션」과 「서유기: 잃어버린 500년」이 함께 슬레이트에 올라 있다. 유토파이와 파트너들이 기존 영화 제작 도구·전통 기법과 나란히 쓰는 제작 기술 PAI는 비주얼 개발, 신 설계, 연속성, 영상 생성, 편집 같은 영역을 프로젝트 사정에 맞춰 거든다."
           },
           {
             "t": "p",
-            "x": "Light Adjustment Layer는 노출, 대비, 하이라이트, 섀도, 화이트, 블랙을 비파괴 조절 레이어 한 장에 담았다. 레이어 작업을 벗어나지 않고도 Camera Raw 수준의 결과가 나온다."
+            "x": "「스페이스 네이션」은 엑스 마키나 스튜디오가 만드는 8부작 SF다. 브라질 글로보플레이를 비롯한 전통 바이어가 사들인 첫 AI 제작물 중 하나다. 엑스 마키나 CEO 마르코 베버가 마틴 바이스와 함께 기획했고 바이스가 여덟 편을 모두 연출한다. 각본은 바네사 코이프만과 바이스가 썼다. 본 제작은 이미 시작됐고 할리우드 길드 규정에 맞춰 진행한다. 월드와이드 배급은 K5 인터내셔널이 맡는다."
           },
           {
             "t": "p",
-            "x": "Instruct Edit with Masks는 Firefly Image 5가 이미지 맥락을 통째로 읽는다. 편집할 자리를 일일이 짚어 줄 필요 없이 감은 눈을 뜨게 한다거나 특정 인물 머리에 모자를 씌운다고 문장으로 말하면 된다. 마스크 밖은 손대지 않아서 얼굴이나 로고, 브랜드 자산은 그대로 남는다. 새로 붙은 Markup은 이미지 위에 직접 그려 보여 주는 방식이다. 색을 바꿀 영역을 칠하고 위치는 화살표로 긋고 새 요소는 러프한 형태로 브러시한다. 글자만으로 설명할 때 생기는 모호함이 줄어든다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081305-instructeditmasks3-1280.jpg?itok=0wCgk1M_",
-            "cap": "마스크를 지정한 Instruct Edit 작업 예시"
+            "x": "「하프 문」은 양효주 감독이 쓰고 연출하는 실사 장편이다. 유토파이와 독일 인 굿 컴퍼니, 한국 페이퍼반 스튜디오가 함께 내놓는다. 2026년 8월 독일에서 촬영을 시작했고 2027년 개봉한다. PAI는 일부 비주얼 요소만 거들고 나머지는 배우의 연기와 감독의 연출, 전통적인 영화 기술에 기댄다. 사이가 멀어진 두 가족이 북해의 외딴 섬에서 부서진 여름을 함께 보내는 이야기다."
           },
           {
             "t": "p",
-            "x": "Dynamic Text, Shapes and Paths는 포토샵의 다이내믹 텍스트를 커스텀 도형과 패스까지 넓혀, 곡선이나 자유 레이아웃을 따라 글자가 알아서 앉는다. Stock Panel Integration은 9억 점이 넘는 Adobe Stock 자산을 포토샵 안 도킹 패널로 끌어왔다."
+            "x": "「코르테스」는 1519년을 배경으로 에르난 코르테스와 아스테카 제국 정복을 다룬다. 오스카 후보에 올랐던 니컬러스 카잔이 각본을 쓰고 폴 미뇨가 연출한다. 파리에 거점을 둔 제작으로 9월 스페인 촬영을 잡아뒀고 2027년 와이드 개봉한다. 규모와 비용 때문에 오래 스크린에 오르지 못한 기획인데, AI 제작 도구로 그 한계를 넘으면서 창작 과정의 통제권은 영화인에게 남긴다는 구상이다."
           },
           {
             "t": "p",
-            "x": "베타인 AI Assisted Editor는 자연어 프롬프트 바를 단 별도 인터페이스다. 쓰고 안 쓰고는 선택이다. 여기에 Prompt to Edit, Remove Background, Generative Expand, Remove Tool, Generative Fill, Generative Upscale, AI Markup이 묶여 있다."
+            "x": "「더 모스트 시리어스 파트」는 마이크 벤더가 쓰고 연출하는 애니메이션이다. 2023년 나온 벤더 글, 척 딜런 그림의 어린이책이 원작이고 러셀 홀랜더가 제작한다. 프로덕션 디자이너부터 스토리보드 아티스트와 애니메이터까지 전통 기법과 사람의 손을 그대로 쓰고 AI는 그 옆에 붙는다. 반대편에 「서유기: 잃어버린 500년」이 있다. 화처와 손잡고 AI로 생성하는 애니메이션 시리즈로, 중국 밖 권리는 유토파이가 쥐고 있다."
           },
           {
             "t": "p",
-            "x": "Pro Editor에 계속 머무는 쪽에도 Prompt to Edit이 Contextual Task Bar로 들어왔다. 선택 영역 없이 프롬프트 한 줄로 이미지 전체를 바꾸고, 결과는 매번 생성 레이어로 레이어 스택에 쌓인다. 업데이트는 지금 포토샵에서 쓸 수 있다."
+            "x": "농구 선수 카멜로 앤서니는 자신의 제작사 크리에이티브 7 프로덕션으로 투자하고 전략 파트너가 됐다. 제임스 하든은 자기 수염에서 출발한 애니메이션 단편을 함께 만들었다. AI가 맡는 몫은 프로젝트마다 다르다. 「하프 문」에서는 일부 비주얼을, 「코르테스」에서는 규모를, 「서유기」에서는 제작 방식 전체를 책임진다."
           }
         ]
       }
     },
     {
-      "id": "movies-open-weight-onprem",
+      "id": "movies-firefly-audio-tools",
       "eyebrow": "AI NEWS",
-      "headline": "오픈웨이트 모델을 사내에 두면\n버전도 비용도 흔들리지 않는다",
-      "body": "오픈웨이트 모델을 사내 장비에 올리면 보안도 비용 예측도 함께 정리된다.",
-      "mini_headline": "오픈웨이트를 사내로",
+      "headline": "어도비 파이어플라이가 음악과 음성,\n효과음 생성을 한자리에 모았다",
+      "body": "음악·음성·효과음을 만드는 세 도구가 모두 정식 출시돼 한 곳에서 쓰인다.",
+      "mini_headline": "파이어플라이 오디오 공개",
       "tool": "Movies",
-      "source": "fxguide",
-      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/adobe-firefly-audio-tools",
       "accent": "#f5a623",
       "motif": "frame",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67674816&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "Nvidia, Microsoft, Meta, IBM, Hugging Face를 포함한 35곳이 “Open-Weights and American AI Leadership” 공개서한에 이름을 올리면서 오픈웨이트 모델을 둘러싼 논쟁에 불이 붙었다. 누구나 내려받아 뜯어보고 고쳐 자기 인프라에서 돌리는 모델이 기반의 한 축이라는 주장이다."
+            "x": "어도비 파이어플라이 소식은 그동안 에이전틱 워크플로 업데이트에 쏠려 있었다. 이번에는 오디오 쪽이다. 음악과 음성, 효과음을 만드는 기능이 정식 출시돼 모든 사용자에게 열렸다. 상업적으로 안전한 AI 오디오라는 약속도 그대로다."
           },
           {
             "t": "img",
-            "src": "https://www.fxguide.com/wp-content/uploads/2026/08/1786609854089-neon-z-image-turbo-copy-830x467.jpg",
-            "cap": "fxguide에서 오픈 디퓨전 트랜스포머 Z-Image-turbo로 로컬 생성한 이미지. Credit: Jack Higgins"
+            "src": "https://nofilmschool.com/media-library/adobe-firefly-audio-tools.webp?id=67674816&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+            "cap": "Adobe Firefly Audio Tools / Credit: Adobe"
           },
           {
             "t": "p",
-            "x": "fxguide는 VFX 현장 사정이 그리 단순하지 않다고 짚는다. 최신 오픈소스 GenAI 워크플로를 사내에서 돌리는 일 자체가 보안 구멍이 된다. ComfyUI는 훌륭한 도구지만 코드나 열린 플러그인 생태계로 악성코드가 섞여 들어올 여지가 있고, 사내 IT팀이 전부 감사하기엔 코드가 너무 많다. GPU 품귀와 램값 폭등 탓에 중간 규모 회사는 여전히 클라우드를 놓지 못한다."
+            "x": "도구 자체가 새로 나온 것은 아니다. 다만 Generate Music, Generate Speech, Generate Sound Effects가 이제 전부 라이브 상태로 넘어와 파이어플라이 한 곳에 모였다."
           },
           {
             "t": "p",
-            "x": "fxguide는 디즈니와 넷플릭스를 거친 GenAI 워크플로·컬러 사이언스 컨설턴트 JD Vandenberg의 글을 함께 실었다. 오픈웨이트 모델을 들이면 워크플로 안정성과 보안, 비용 예측, 납품 효율이 따라온다는 게 그의 정리다."
-          },
-          {
-            "t": "p",
-            "x": "제작 중에는 꼭 필요하지 않으면 소프트웨어를 올리지 않는다. 반면 GenAI 모델은 예고도 변경 이력 공개도 없이 자주 바뀐다. 같은 입력에 같은 시드를 넣어도 결과가 달라진다. 도구가 하룻밤 새 사라지기도 한다. 3월 OpenAI가 Sora 앱과 웹 서비스를 닫으면서 Critterz는 예정했던 칸 공개를 놓쳤고, 공동 제작자들은 새 AI 파트너를 찾아 2027년 초로 일정을 다시 잡았다."
+            "x": "Generate Music은 파이어플라이 뮤직 모델을 쓴다. 영상 길이와 분위기에 맞춘 오리지널 트랙을 만든다. 라이선스가 전면 확보돼 있어 콘텐츠가 어디로 가든 테이크다운을 걱정하지 않아도 된다."
           },
           {
             "t": "img",
-            "src": "https://www.fxguide.com/wp-content/uploads/2026/08/1786609818717-watercolour-z-image-turbo-copy-830x467.jpg",
-            "cap": "같은 방식으로 로컬에서 만든 수채 스타일 이미지. Credit: Jack Higgins"
+            "src": "https://nofilmschool.com/media-library/image.webp?id=67674817&width=980",
+            "cap": "Credit: Adobe"
           },
           {
             "t": "p",
-            "x": "보안은 더 직설적이다. 제작 네트워크는 MPA와 TPN 콘텐츠 보안 요건 아래 바깥으로 나가는 길을 좁혀 두는데, 호스팅 모델에 소스를 보내고 결과물을 받아오는 순간 그 통제선에 길이 하나 뚫린다. 그 길로 오가는 건 대개 미공개 자산이다. 온프레미스 모델은 완전 폐쇄망에서도 돌아간다."
+            "x": "Generate Speech는 파이어플라이 스피치 모델을 기반으로 하고, 일레븐랩스 음성도 고를 수 있다. 대본을 넣으면 또렷한 내레이션이 나오고 목소리와 속도, 감정을 조절한다. Generate Sound Effects는 파이어플라이 오디오 모델로 동작과 타이밍, 에너지에 맞는 소리를 만든다."
           },
           {
             "t": "p",
-            "x": "비용은 예측이 어렵다. 2024년 Sora 단편 Air Head를 만든 토론토 콜렉티브 Shy Kids의 포스트 슈퍼바이저 Patrick Cederberg는 완성 90초를 뽑는 데 “10~20초짜리로 수백 번의 생성”이 들었고 소스와 최종 컷의 비율이 300:1쯤이라고 fxguide에 말했다. 대본 있는 촬영은 보통 10:1에서 30:1 사이다. 2026년 8월 기준 API 요금이 출력 1초당 0.05~0.75달러니, 완성 1분의 값은 초당 단가에 가늠 안 되는 배율을 곱한 값이 된다. 6월에는 샌프란시스코 핀테크의 직원 한 명이 게임을 만들다 일주일에 81,267달러어치 토큰을 태웠다."
+            "x": "Generate Music은 2년도 더 전에 버전이 공개된 적이 있다. 그사이 상업 이용이 안전한 오리지널 트랙을 뽑는 선택지로 자리를 잡았다."
           },
           {
             "t": "p",
-            "x": "장비는 이미 손에 있다. 요즘 영상 모델은 워크스테이션 GPU 한 장에서 도는 증류·양자화 버전을 같이 낸다. 렌더팜과 컬러 그레이딩용 GPU도 업무 시간 밖에는 놀고 있다. 다만 오픈웨이트와 오픈소스는 다르다. 가중치를 내려받는 것과 파인튜닝, 재배포, 상업 납품이 되는 것은 별개고 라이선스는 Apache 2.0부터 비상업 전용까지 제각각이다. 결과가 아무리 좋아도 상업 사용을 막는 라이선스라면 컨펌 단계에서 알아채기엔 너무 늦다."
+            "x": "베타 단계인 파이어플라이 AI 어시스턴트도 무료로 열렸다. 영화·영상 프로젝트의 스토리보드나 마케팅용 브랜드 킷을 만드는 일까지 범위를 넓혔다. 파이어플라이에서 쓸 수 있는 모델 목록에는 제미나이 옴니 플래시가 새로 들어왔다. 구글과 일레븐랩스, 클링 AI, 루마 AI, 오픈AI, 런웨이 등이 이미 올라 있다."
           }
         ]
       }
     },
     {
-      "id": "movies-indie-slop",
+      "id": "movies-tippett-studio-closing",
       "eyebrow": "AI NEWS",
-      "headline": "게임에서 건너온 '인디 슬롭'이\n저예산 영화까지 겨누기 시작했다",
-      "body": "게임판 조롱이던 '인디 슬롭'이 영화로 건너와 저예산 작품까지 겨눈다.",
-      "mini_headline": "'인디 슬롭'의 등장",
+      "headline": "필 티펫, 40년 작업실을 접고\n소품과 장비를 경매에 내놓는다",
+      "body": "오스카 두 개만 남기고 35년 쓴 버클리 작업실의 소품과 장비를 사흘간 판다.",
+      "mini_headline": "티펫 스튜디오 정리",
       "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/auctions/tippett-studio-closing-auction-266120.html",
       "accent": "#7928ca",
       "motif": "frame",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Tippett-Auction.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "애니메이션과 시각효과 역사의 큰 조각이 이번 주말 캘리포니아 버클리에서 팔린다. 오스카를 받은 애니메이터이자 효과 개척자 필 티펫이 오래 지켜온 스튜디오를 닫으면서 수십 년치 소품과 모형, 아트워크, 장비, 기념품을 처분한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Tippett-Auction.jpg",
+            "cap": "티펫 스튜디오 청산 세일"
+          },
+          {
+            "t": "p",
+            "x": "6,200제곱피트 규모의 티펫 스튜디오 시설을 사흘짜리 청산 세일로 비운다. 일요일까지다. 판매 목록을 보면 티펫은 이 버클리 자리를 35년 썼고 스톱모션·모션캡처 장비부터 카메라, 모형 제작 도구, 제작 문서까지 “전부 나간다”. 스튜디오 작품에서 나온 물건이 수백, 어쩌면 수천 점이다."
+          },
+          {
+            "t": "p",
+            "x": "「매드 갓」의 모형과 스케치, 「제국의 역습」 AT-AT 아티스트 프루프 모델, 「스타쉽 트루퍼스」 미니어처, 사인이 든 포스터, 스토리보드, 의상, 프로토타입이 나온다. 첫 「스타워즈」의 데자릭 체스 장면과 이어지는 모형 세 점도 있다. 컴퓨터와 3D 프린터, 조명 장비, 용접 장비, 드릴 프레스, 몰드 제작 설비, 공구함까지 돌아가던 작업장 인프라가 통째로 포함된다."
+          },
+          {
+            "t": "p",
+            "x": "내놓지 않는 물건이 둘 있다. 오스카다. 「제다이의 귀환」과 「쥬라기 공원」으로 받은 트로피를 두고 74세 감독은 CBS 샌프란시스코에 이렇게 말했다. “제일 값나가는 물건이고, 내 여정에서 가장 의미 있는 순간이었으니까요.” 나머지를 떠나보내는 심정은 이렇게 털어놨다. “가끔 살짝 후회가 스칠 때가 있어요.”"
+          },
+          {
+            "t": "p",
+            "x": "폐업은 미국 시각효과계에서 손꼽히는 이름에게 힘든 시기의 끝을 찍는다. 티펫 스튜디오는 2024년 인도 VFX 회사 팬텀FX에 과반 지분을 넘기기로 합의했고 그해 5월 챕터 11 파산보호를 신청했다. 2025년 4월 회생 계획이 승인됐고, 팬텀FX는 같은 해 7월 인수를 마무리했다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "티펫과 아내이자 프로듀서인 줄스 로먼은 1984년 스튜디오를 세웠다. 첫 「스타워즈」 작업을 거친 뒤 티펫은 모션 블러를 넣은 스톱모션의 진화형, 고모션을 개발하는 데 힘을 보탰다. 경력을 규정한 순간은 「쥬라기 공원」에서 왔다. 처음에는 스톱모션 공룡 퍼펫을 만들러 들어갔지만 제작진이 CG로 방향을 틀자 팀과 함께 적응했다. 스톱모션의 지식과 물리적 감각을 갓 떠오르던 CG 애니메이션으로 옮기는 다리가 됐고, 그때 세운 기법이 이후 수십 년의 캐릭터 애니메이션과 시각효과를 좌우했다."
+          },
+          {
+            "t": "p",
+            "x": "이후 스튜디오는 「스타쉽 트루퍼스」와 「매트릭스」 시리즈, 「헬보이」, 「트와일라잇」에 참여했다. 티펫은 그사이 스톱모션 장편 「매드 갓」을 틈틈이 만들어 2021년 로카르노에서 공개했다."
+          },
+          {
+            "t": "p",
+            "x": "버클리를 닫는다고 티펫 스튜디오라는 이름이 사라지지는 않는다. 팬텀FX가 지난해 인수를 마쳤고 새 주인이 이름을 그대로 쓴다. 끝나는 것은 수십 년 영화사를 만든 그 작업장이다. “거의 40년을 달렸죠. 좋은 시간이었습니다.” 은퇴할 마음은 아직 없어 보인다. “나는 손에 칼을 쥔 채 죽을 겁니다.”"
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-tilly-norwood-disclosure",
+      "eyebrow": "AI NEWS",
+      "headline": "“AI로 일한다는 말이 성병 고백 같다”\n틸리 노우드 제작자의 공개 투자 요구",
+      "body": "판 데르 벨덴은 수백 건의 NDA를 근거로 공영방송의 공개 투자를 촉구했다.",
+      "mini_headline": "AI 협업을 감추는 이유",
+      "tool": "Movies",
+      "source": "Screen Daily",
+      "url": "https://www.screendaily.com/news/saying-youre-working-with-ai-is-like-saying-you-have-an-std-argues-tilly-norwood-creator/5219747.article",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/8/7/1/1485871_unknown1_314055_crop.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "틸리 노우드를 만든 엘린 판 데르 벨덴이 공영방송(PSB)에 AI 투자를 늘리라고 요구했다. 기술에 붙은 부정적 인상을 알면서 한 말이다. AI로 일한다고 말하는 건 성병이 있다고 인정하는 일과 비슷하다는 것이다."
+          },
+          {
+            "t": "img",
+            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/7/1/1485871_unknown1_314055_crop.jpg",
+            "cap": "엘린 판 데르 벨덴 / Source: Particle6"
+          },
+          {
+            "t": "p",
+            "x": "그가 만든 AI 배우 틸리 노우드는 지난해 세계적으로 이름이 알려졌다. 할리우드 배우들과 업계 주요 인사들이 빠르게 커지는 이 소프트웨어와 창작 분야에 미칠 영향을 두고 반발했다."
+          },
+          {
+            "t": "p",
+            "x": "런던에 자리 잡은 네덜란드 출신 파티클6 최고경영자인 판 데르 벨덴은 에든버러 TV 페스티벌 개막 세션에서 다른 이야기를 꺼냈다. 미국 스튜디오부터 지역 인디까지 AI를 공정에 들이려는 회사들과 “수백 건의 NDA”에 서명했다는 것이다. “우리가 초대받지 못한 이사회는 많지 않습니다.” 회사들이 뒤에서 AI를 얼마나 쓰는지 안다는 뜻이었다."
+          },
+          {
+            "t": "p",
+            "x": "문제는 그다음이라고 그는 농담처럼 짚었다. “AI로 일한다고 말하는 건 성병이 있다고 말하는 것 같아요. 아무도 인정하고 싶어 하지 않죠.”"
+          },
+          {
+            "t": "p",
+            "x": "판 데르 벨덴은 영국 공영방송들에 낙인을 털어내고 직원 AI 교육에 투자하라고 촉구했다. 나라의 창작 역량을 지키려면 그래야 한다는 것이다. “여기서 엄청난 군비 경쟁이 벌어지고 있습니다. 영국이 창작 강국이었던 건 원하는 대로 만들 수 있었기 때문이고요.” 기술을 비용 절감 수단으로 쓸 게 아니라 “완전히 새로운 매체”로 봐야 한다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "시스터 그룹이 최근 인수한 애프터 파티 스튜디오의 최고경영자 조슈아 바넷은 위르겐 클롭이 진행하는 「디 얼티밋 풋볼 챌린지」의 크리에이티브 덱에 AI를 썼다고 밝혔다. ShxtsNGigs 공동창업자 제임스 던컨은 AI가 만든 콘텐츠가 자기 유튜브 시청자를 빼앗을 걱정은 없다고 했다. 사람의 창작에 더해지는 쪽이라는 것이다. 지금 가장 쓸모 있는 자리는 “물리적으로 할 수 없는 것”이고, “산에서 백플립을 네 번 하는 사람” 같은 AI 영상은 인기를 끌지 못하리라고 봤다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-flying-bark-avatar-aang",
+      "eyebrow": "AI NEWS",
+      "headline": "플라잉 바크가 3년 동안 도구를 만들어\n리그 없이 전부 손으로 그렸다",
+      "body": "3년간 만든 하이브리드 공정 위에서 2D 리그 없이 모든 움직임을 손으로 그렸다.",
+      "mini_headline": "리그 없는 2D 작화",
+      "tool": "Movies",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/animationworld/flying-bark-enters-avatar-state-avatar-aang-last-airbender",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081103-avataraangthelastairbender3840x16080016-1280-1280.jpg?itok=NSBMCYfr",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "주말에 맥주를 앞에 두고 인터넷에서 다투는 취미를 즐기던 IndieWire의 Alison Foreman은 세로형 영화 리뷰 댓글을 파고들다 “인디 슬롭(indie slop)”이라는 말을 열두 번 넘게 마주쳤다. 킥스타터 캠페인 밑에 달린 걸 볼 때가 특히 고약했다. 그래서 욕을 취재로 바꿨다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDIRLU_EC006_ece4a3.jpg?w=650",
-            "cap": "'Iron Lung'(2026). Courtesy Everett Collection"
+            "x": "팬들이 알던 에어벤더 아바타 이야기다. 애니메이션은 다르다. 기대를 넘어섰고 원작을 앞질렀다는 말까지 나오는데, 정작 만든 사람들은 그렇게 말하지 않는다. “우리 팀은 거의 전부 「아바타: 라스트 에어벤더」 팬이었어요.” 이 장편의 애니메이션 디렉터를 맡은 플라잉 바크 프로덕션의 크리스티안 바켈이 한 말이다."
           },
           {
             "t": "p",
-            "x": "요즘 흔한 “AI 슬롭”만큼 자주 나오는 말은 아니다. 통째로 깎아내리는 독성은 같다. AI 슬롭이 기계가 너무 쉽게 뽑아서 예술로 칠 값이 없다는 뜻이라면, 인디 슬롭은 사람이 눈에 보이는 품과 정성을 들여 만든 것까지 값이 없다고 말한다."
+            "x": "「아바타 아앙: 라스트 에어벤더」는 마이클 단테 디마르티노와 브라이언 코니에츠코가 만든 니켈로디언 시리즈에서 13년 뒤를 그린다. 플라잉 바크와 스튜디오 미르가 애니메이션을 맡았다. 로런 몽고메리가 연출하고 스티브 안과 윌리엄 마타가 공동 연출했다. 파라마운트+에서 볼 수 있다."
           },
-          {
-            "t": "p",
-            "x": "이 말은 게임 쪽에서 몇 해를 돌았다. 주요 게임 매체에 처음 등장한 시점은 GamerGate 이후인 2010년대 후반이다. 모바일 게임과 콘솔 판매가 커지고 Steam 같은 디지털 상점, Unity와 Unreal 같은 엔진이 인디 제작 문턱을 낮추면서 물량이 쏟아졌는데, 일부 소비자는 그 풍요를 그냥 성가신 것으로 취급했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSUMA_UV013.jpg?w=650",
-            "cap": "'The Super Mario Bros. Movie'(2023) ©Universal/Courtesy Everett Collection"
-          },
-          {
-            "t": "p",
-            "x": "게임판에는 이미 더 정확한 말들이 있었다. 싸구려를 대량으로 찍어내면 셔블웨어, 기성 에셋을 거의 그대로 붙이면 에셋 플립, 성공작을 베끼면 클론, 유행이나 팬을 빨아먹으면 캐시 그랩. 인디 슬롭은 이 전부를 가리킬 수 있었던 탓에 결국 무엇도 정확히 가리키지 못하게 됐다. 어떻게 만들었는지를 설명하던 말이, 업계가 권장하지 않았으면 하는 게임을 때리는 무기로 옮겨 갔다."
-          },
-          {
-            "t": "p",
-            "x": "Foreman이 겨누는 건 그 말 뒤에 있는 노동 시장이다. GDC의 2026년 State of the Game Industry 조사에서 전 세계 응답자의 28퍼센트가 최근 2년 안에 해고를 겪었다고 답했다. 미국으로 좁히면 3분의 1에 가깝다. 인디로 가면 통제권과 소유권은 얻지만 위험이 사라지는 게 아니라 개인에게 넘어온다. 2025년 조사에서는 응답자 절반 넘게 자기 돈을 게임에 넣은 적이 있다고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSOTH_PA076.jpg?w=650",
-            "cap": "'Sonic the Hedgehog 2'(2022) ©Paramount/Courtesy Everett Collection"
-          },
-          {
-            "t": "p",
-            "x": "IndieWire 편집 회의에서 동료 Sarah Shachat이 건넨 경고는 이랬다. “게임에 지금 벌어지는 일이 6개월 뒤 우리에게 온다.” 스튜디오는 팬데믹 이전보다 영화를 덜 만들고 사람을 덜 쓰며, 전통적인 투자자는 요란하게 빠져나갔다. 공개적으로 풀뿌리 캠페인을 벌여야 하는 인디 창작자와 배급사가 그만큼 조롱에 노출된다."
-          },
-          {
-            "t": "p",
-            "x": "The Onion은 “Eli Roth Admits Most Of ‘Ice Cream Man’ Not Made Using AI”라는 풍자 헤드라인으로 이 되먹임을 정확히 요약했다. Foreman은 그래도 어떤 영화에도 인디 슬롭이라는 딱지를 붙이지 않겠다고 쓴다. 피드를 채우는 쓰레기를 부를 이름이 정말 필요하다면, 마지못해 “어스홀 슬롭”을 제안한다. 끝없는 경멸에 호기심 제로를 섞었을 때 나오는 것."
-          },
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDICCR_EC048_4fa633.jpg?w=650",
-            "cap": "'Ice Cream Man'(2026). Courtesy Everett Collection"
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-moonshots-grant",
-      "eyebrow": "AI NEWS",
-      "headline": "3분 영화로 미래를 제안한 6,000명\n우승작엔 250만 달러 지원금",
-      "body": "6,000명이 만든 3분 영화 열 편이 250만 달러를 두고 겨룬다.",
-      "mini_headline": "3분 영화에 250만 달러",
-      "tool": "Movies",
-      "source": "befores & afters",
-      "url": "https://beforesandafters.com/2026/08/25/six-thousand-people-made-a-three-minute-film-about-a-future-worth-living-in/",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "우리가 보게 되는 미래는 대개 무너지는 쪽이다. 폐허가 된 도시, 암울한 결말, 각오하라는 신호. befores & afters는 이걸 상상력의 실패라고 부른다. 우리가 그려 놓은 미래가 결국 우리가 짓는 미래여서다."
-          },
-          {
-            "t": "p",
-            "x": "그래서 Future Vision XPRIZE는 반대쪽을 주문했다. 3분. 도구는 뭐든. 전문 경력은 없어도 된다. 6,000명이 만들어 왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://beforesandafters.com/wp-content/uploads/2026/08/moonshots3.jpeg",
-            "cap": "Future Vision XPRIZE 파이널리스트 상영은 9월 25일 다운타운 LA에서 열린다"
-          },
-          {
-            "t": "p",
-            "x": "실사, 애니메이션, 생성형, 혹은 한 컷 안에 셋 다. 툴셋을 제한하지 않은 덕에 출품작들은 지금 사람들이 실제로 무엇을 집어 드는지, 그리고 작은 팀이 해내는 일과 예전엔 시설이 있어야 했던 일 사이의 간격이 얼마나 좁혀졌는지를 꽤 정직하게 보여 준다."
-          },
-          {
-            "t": "p",
-            "x": "그중 열 편이 파이널리스트다. 9월 25일 다운타운 LA의 복원된 1920년대 무비 팰리스에서 직접 무대에 올라 발표한다. 우승자는 250만 달러 제작 지원금을 들고 나가 Range Media Partners와 함께 진짜 영화로 개발하고, 예산은 1,500만 달러까지 갈 수 있다. 준우승 네 팀은 각각 10만 달러. 심사에는 Neal Stephenson과 Neil deGrasse Tyson이 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "같은 밤 상이 하나 더 걸린다. 90일 동안 AI로 사람들이 실제 겪는 문제를 푼 창업자에게 200만 달러가 간다. 심사는 Palmer Luckey, Cathie Wood, Anousheh Ansari, Mark Pincus, Logan Kilpatrick. 두 상을 두고 3만 명 넘게 겨뤘다."
-          },
-          {
-            "t": "p",
-            "x": "550만 달러가 그날 밤 그 방에서, 모두가 보는 앞에서 정해진다. 사전 녹화도 없고 미리 열어 둔 봉투도 없다. 좌석은 1,500석. 진행은 Peter Diamandis가 맡고 Google, Circle, XPRIZE가 함께 연다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-free-video-generator",
-      "eyebrow": "AI NEWS",
-      "headline": "돈 한 푼 안 드는 AI 영상 생성기,\n영화 워크플로에 쓸 만한가",
-      "body": "Curious Refuge가 무료 AI 영상 생성기를 돌려보며 쓸 구석을 짚는다.",
-      "mini_headline": "무료 AI 영상 생성기",
-      "tool": "Movies",
-      "source": "Curious Refuge (YouTube)",
-      "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
           {
             "t": "video",
-            "yt": "qv0s1_coX50"
+            "yt": "7b20GRFZBFE"
           },
           {
             "t": "p",
-            "x": "영화 제작을 다루는 채널 Curious Refuge가 8월 18일 올린 27분짜리 주간 정리 영상 “I Can’t Believe This AI Video Generator is Free”. 제목이 가리키는 건 LTX 2.5다."
+            "x": "원작 시리즈는 손으로 그린 작화와 그린 배경으로 자리를 잡았다. 그래서 플라잉 바크는 NPR(비사실적 렌더링) 방식을 택했다. 화가처럼 화면 공간 안에서 한 겹씩, 한 획씩 이미지를 쌓으면서 카메라 이동과 트래킹, 다이내믹 라이팅, 시간축 안정성은 3D 애니메이션에 맡겼다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081317-1081103-avataraangthelastairbender3840x21600026-1280-1280.jpg?itok=j67ZBN_u",
+            "cap": "「아바타 아앙: 라스트 에어벤더」"
           },
           {
             "t": "p",
-            "x": "영상은 00:19에 LTX 2.5를 열고 시작해 04:35부터 MiniMax H3와 나란히 붙여 본다. 12분 가까이 이어지는 이 비교가 영상에서 가장 긴 대목이고, 12:08에는 MiniMax H3의 라이선스 변경을 짚는다."
+            "x": "“액션이 영화의 큰 부분이고 격투 장면에는 카메라 회전이 많아요.” CEO 바버라 스티븐의 설명이다. “그 역동적인 공간을 만들고 싶었죠. 그런데 캐릭터 옷 하나만 모델에서 벗어나도 눈에 띕니다.” 바켈은 이렇게 덧붙였다. “계속 움직이는 카메라를 상대하면서 미묘한 손동작과 자세, 발디딤을 다 맞춰야 하니 부담이 컸어요. 영화의 비전이 워낙 구체적이라 프로그램이든 소프트웨어든 그냥 꺼내 쓸 수 있는 게 없었습니다. 그 룩을 얻으려고 새 도구와 공정을 만드는 데 3년이 걸렸어요.”"
           },
           {
             "t": "p",
-            "x": "뒤로는 소식이 줄줄이 이어진다. 이미지를 3D 모델로 바꾸는 Meshy 7, ChatGPT 안으로 들어간 Adobe Creative Cloud, 음악 다운로드를 제한한 Suno, Magnific 3D Motion과 Seedance 2.5, 베이징이 발표한 AI 혁신 구역, Dreamina가 연 Story Unboxed 공모전."
+            "x": "디지털 프레임 바이 프레임 작화는 툰붐, 채색은 포토샵으로 했다. 여기에 카타나와 아놀드, 마야 블렌더 같은 CG 소프트웨어를 얹고 최종 합성은 누크로 마무리했다. “기술을 많이 쓰지만 결국 전부 손으로 만든 것처럼 보이길 원했습니다.” 바켈의 말이다. “2D 애니메이션과 CG 제작에서 가장 어렵고 손이 많이 가는 부분만 골라 붙여놓은 느낌이었어요.”"
           },
           {
             "t": "p",
-            "x": "마무리는 늘 하던 순서다. 베스트 AI 툴 가이드와 무료 컴플라이언스 가이드를 짚고 커뮤니티 소식을 전한 뒤, 26:00부터 이 주의 AI 영화를 튼다. Adam Palmer의 Primer AI 스펙 광고, Danny Tseng의 The Tower, Dave Clark의 Plume."
+            "x": "팀에는 무술 전문가가 거의 없었다. 전문가를 둔 아바타 스튜디오가 모션캡처 푸티지를 보내줘서 해당 숏의 동작을 실제에 맞췄다. 이 영화에는 2D 리그가 하나도 쓰이지 않았다. “가끔 그림을 재사용할 수는 있죠.” 바켈의 말이다. “하지만 대부분은 다 그렸습니다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081317-1081103-avataraangthelastairbender3840x21600008-1280-1280.jpg?itok=FLpENZq8",
+            "cap": "「아바타 아앙: 라스트 에어벤더」"
+          },
+          {
+            "t": "p",
+            "x": "캐릭터들은 물과 불, 공기, 흙을 상대한다. 예측할 수 없는 요소다. “물의 정령은 다들 한 번씩 해보고 싶어 했어요. 물리와 퍼포먼스, 풀어야 할 게 너무 많으니까요.” 벤딩은 특히 까다로웠다. 물이 튀거나 양동이가 넘어지는 물리와 달리 캐릭터의 움직임과 정교하게 맞물린 보이지 않는 힘을 계산해야 했다. 한 숏이 20명이 넘는 아티스트와 여러 부서를 거쳤고, 어떤 숏은 6개월에서 9개월씩 돌아다녔다."
+          },
+          {
+            "t": "p",
+            "x": "공기는 보일 때도 있고 보이지 않을 때도 있다. 그래서 옷감과 머리카락으로 감정의 흐름을 보여주기로 했다. 전부 손으로 그리다 보니 애니메이터들이 바람의 방향과 세기, 일관성, 무엇이 가장 크게 흔들리고 무엇이 길이와 무게 때문에 먼저 가라앉는지를 다 상상해서 설계했다. “물리를 알고 이해한 다음, 어디서 그걸 깨야 현실보다 멋지고 감정이 더 크게 남는지 찾아내는 일이었죠.”"
           }
         ]
       }

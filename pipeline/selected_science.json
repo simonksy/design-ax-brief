@@ -1,133 +1,148 @@
 {
-  "generated_at": "2026-08-30T00:00:00Z",
   "section": "science",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:00:00Z",
   "selection_mode": "curator_auto",
-  "pool_size": 18,
+  "dedup": {
+    "pool_size": 15,
+    "published_days_checked": 6,
+    "published_cards_checked": 30,
+    "dropped": [
+      {
+        "title": "Shared-memory AI system lets microscope components coordinate in real time",
+        "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
+        "reason": "CONTENT DUP of published card science-quera-claude (2026-08-29, The Quantum Insider). Both cover the same release — the Anthropic x HHMI Janelia Model Hardware Standard research preview. The published card already explains MHS, its Janelia/Anthropic origin and its limited-research-preview status, so re-running the microscope angle would repeat the same event for the reader. Earliest-wins."
+      }
+    ],
+    "not_selected_ranked": [
+      {
+        "title": "Virtual cell model could accelerate protein-degrader therapy design",
+        "url": "https://phys.org/news/2026-08-virtual-cell-protein-degrader-therapy.html",
+        "reason": "Strong, but Phys.org already contributes 2 of the final 5 (outlet cap) and life-science drug design is covered by the Malva pick."
+      },
+      {
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+        "reason": "Same cognition slot as the chess-complexity pick; the chess study carries an original quantified research result, this is a reader quiz feature."
+      },
+      {
+        "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
+        "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
+        "reason": "Interesting but closer to AI-industry model news than to a scientific method advance."
+      },
+      {
+        "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+        "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+        "reason": "Same source + adjacent core topic as published card science-glucofm (2026-08-30, Google Research, wearable/CGM health signals) — content-hub risk; also 10 days old."
+      },
+      {
+        "title": "How mobility gives language models a deeper understanding of place",
+        "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+        "reason": "Google Research geospatial grounding overlaps in feel with published card science-earth-ai (2026-08-29); older and lower novelty."
+      },
+      {
+        "title": "Does Computer Science Need Computers?",
+        "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+        "reason": "Evergreen theory explainer, low novelty/actionability for a daily brief."
+      },
+      {
+        "title": "OpenAI funds research to try to stop AI from being used to make bioweapons",
+        "url": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons/",
+        "reason": "Oldest item in pool (08-17); evaluation/safety framing partly covered by published science-double-blind-eval (08-28)."
+      },
+      {
+        "title": "How Frontier Medicines plans to drug the undruggable with AI and a chemical library",
+        "url": "https://www.fiercebiotech.com/biotech/how-frontier-medicines-plans-drug-undruggable-ai-and-chemical-library",
+        "reason": "Company profile more than a method result; no og_image available."
+      },
+      {
+        "title": "How health systems are embracing chatbots to query and summarize patient records",
+        "url": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/",
+        "reason": "Clinical deployment story, not a research-method advance; 11 days old."
+      }
+    ],
+    "diversity_check": {
+      "outlets": {
+        "Phys.org": 2,
+        "Tech Xplore": 2,
+        "The Quantum Insider": 1
+      },
+      "distinct_outlets": 3,
+      "max_per_outlet": 2,
+      "subfields": [
+        "life science / data infrastructure",
+        "materials + energy",
+        "physics x neuroscience",
+        "quantum x clinical",
+        "cognition / complexity science"
+      ]
+    }
+  },
   "picks": [
     {
-      "rank": 1,
+      "id": "science-malva-single-cell-search",
+      "title": "A Google-like search engine for single-cell RNA data could answer previously impossible questions",
+      "url": "https://phys.org/news/2026-08-google-cell-rna-previously-impossible.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-28T16:00:03Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-google-like-search-e.jpg",
+      "excerpt": "Max Delbruck Center researchers built Malva, a search platform that queries millions of single cells using raw sequence information alone, finding RNA isoforms and rare variants without reference genomes or huge downloads. The team frames it as infrastructure that both scientists and AI tools can query in seconds.",
       "tool": "Science",
-      "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "Machine learning methods move self-driving labs closer to materials discovery at scale",
-      "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-26T20:50:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg",
-      "excerpt": "Washington University researchers trained models on 4,000 metal-organic framework linker transformations so the system 'reads chemistry like a chemist,' surfacing 10 new viable water-harvesting materials without brute-force screening. A parallel polymer effort automates data curation from the literature to rank high-potential candidates.",
-      "rationale": "무차별 스크리닝 대신 화학 규칙을 학습시켜 후보를 좁히는 방식 — 자율 실험실 재료 탐색의 작업 순서를 바꾼다."
+      "rationale": "Turns single-cell biology's dataset problem into a search problem, and is explicitly built so AI agents can query it — new research infrastructure, not a rehash."
     },
     {
-      "rank": 2,
+      "id": "science-soec-ai-optimization",
+      "title": "Researchers develop AI framework to optimize solid oxide electrolysis cell operation",
+      "url": "https://techxplore.com/news/2026-08-ai-framework-optimize-solid-oxide.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-26T20:20:05Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-15.jpg",
+      "excerpt": "A Seoul National University of Science and Technology team replaced 6,561 simulations with 17, using an AI-guided search that improved electrochemical performance 14% and cut temperature gradients by 80% in solid oxide electrolysis cells.",
       "tool": "Science",
-      "category": "science",
       "accent": "#0070f3",
       "motif": "frame",
-      "headline": "What's in Merck and Moderna's cancer vaccine algorithm?",
-      "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/",
-      "source": "STAT",
-      "published_iso": "2026-08-27T14:49:21+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg",
-      "excerpt": "STAT digs into the neoantigen-selection algorithm behind Merck and Moderna's individualized cancer vaccine, the model that decides which mutations each patient's shot targets. The details matter because the algorithm, not the chemistry, is the hard-to-copy asset.",
-      "rationale": "개인 맞춤 암 백신의 진짜 자산이 화학이 아니라 항원 선택 알고리즘임을 뜯어본다 — AI가 임상 제품의 핵심이 된 사례."
+      "rationale": "6,561 simulations down to 17 with 14% better performance — the most concretely quantified collapse of a design-search budget in the pool."
     },
     {
-      "rank": 3,
+      "id": "science-extended-mean-field",
+      "title": "Going beyond simple models of neural networks: Extended mean-field theory offers a better approach",
+      "url": "https://phys.org/news/2026-08-simple-neural-networks-field-theory.html",
+      "source": "Phys.org",
+      "published_iso": "2026-08-27T11:20:06Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/going-beyond-simple-mo.jpg",
+      "excerpt": "Princeton physicists found that standard mean-field theory fails to reproduce real neuron activity, but an extended version that carries full probability distributions matched recordings from over 1,000 mouse brain neurons.",
       "tool": "Science",
-      "category": "science",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "GlucoFM: Foundation model for continuous glucose monitoring",
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-      "source": "Google Research",
-      "published_iso": "2026-08-26T18:42:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google Research introduces GlucoFM, a foundation model trained on continuous glucose monitor streams for forecasting and downstream metabolic tasks. It extends the sensor-foundation-model line from wearables into a dense clinical time-series domain.",
-      "rationale": "웨어러블 파운데이션 모델 계보를 임상 시계열로 확장한 1차 발표 — 대사 연구의 예측 기준선이 바뀐다."
+      "rationale": "A theory upgrade validated against 1,000+ real neurons that changes how both brains and artificial networks get modeled — physics and neuroscience in one result."
     },
     {
-      "rank": 4,
+      "id": "science-qml-heart-disease",
+      "title": "FAU Researchers Use Quantum Machine Learning to Predict Heart Disease",
+      "url": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-08-27T16:33:39Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-27_21-32.png",
+      "excerpt": "Florida Atlantic University researchers benchmarked quantum feature maps and quantum classifiers on clinical data from 918 patients, reporting 90.26% accuracy for heart disease prediction and mapping where quantum encoding helps versus classical baselines.",
       "tool": "Science",
-      "category": "science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "The Way You Draw Can Reveal Parkinson's Disease With Up to 99% Accuracy, Study Reveals",
-      "url": "https://www.sciencealert.com/the-way-you-draw-can-reveal-parkinsons-disease-with-up-to-99-accuracy-study-reveals",
-      "source": "ScienceAlert",
-      "published_iso": "2026-08-29T12:00:00+00:00",
-      "og_image": "https://www.sciencealert.com/images/2026/08/handwriting-on-notebook.jpg",
-      "excerpt": "A machine-learning analysis of drawing and handwriting dynamics separated Parkinson's patients from controls with up to 99% accuracy. The signal sits in stroke timing and pressure rather than the finished image, making cheap tablet-based screening plausible.",
-      "rationale": "완성된 그림이 아니라 획의 타이밍과 압력에 신호가 있다는 결과 — 태블릿만으로 되는 저비용 선별 검사를 연다."
+      "rationale": "Quantum machine learning measured on a real 918-patient clinical dataset instead of a toy benchmark — a rare concrete data point on where QML actually helps."
     },
     {
-      "rank": 5,
+      "id": "science-chess-complexity-tolerance",
+      "title": "AI doesn't just play better chess - it manages complexity differently",
+      "url": "https://techxplore.com/news/2026-08-ai-doesnt-play-chess-complexity.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-08-27T17:20:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chess.jpg",
+      "excerpt": "Complexity Science Hub and University of Parma researchers analyzed over 2,000 games and found engines sustain high board complexity far longer than humans, who simplify positions early even when their peak tension matches the machine's.",
       "tool": "Science",
-      "category": "science",
       "accent": "#eb367f",
       "motif": "headset",
-      "headline": "Researchers Use IBM Quantum Computer to Test Drug-Docking Method",
-      "url": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-08-27T11:33:12+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-7.29.20-AM.png",
-      "excerpt": "A team demonstrated a resource-efficient hybrid quantum-classical molecular docking method on an IBM quantum processor. The run is a concrete probe of where quantum hardware could slot into structure-based drug discovery pipelines.",
-      "rationale": "양자 하드웨어가 구조 기반 신약 파이프라인 어디에 끼어들 수 있는지 실제 프로세서로 시험한 구체적 사례."
+      "rationale": "Quantifies a real cognitive split between human and machine problem-solving — humans bail out of complexity early, engines hold it — using a measurable proxy across 2,000+ games."
     }
-  ],
-  "dedup_notes": {
-    "checked_against": "news_data.json → sections.science (today 2026-08-29 + days 2026-08-28, 08-27, 08-26, 08-25, 08-22 = 30 published stories)",
-    "dropped_as_duplicate": [
-      {
-        "url": "https://phys.org/news/2026-08-inches-york-city-ai-plausible.html",
-        "reason": "content duplicate of published 2026-08-25 card science-eta-learning (EurekAlert!/MIT, 'η-러닝') — same MIT eta-learning method, same 300 mm New York rainfall example, different outlet"
-      },
-      {
-        "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
-        "reason": "same release event as published 2026-08-29 card science-quera-claude — both cover the Anthropic Model Hardware Standard research preview letting AI agents drive lab instruments; kept the earlier-published QuEra piece"
-      }
-    ],
-    "hub_collapsed": [
-      {
-        "source": "Google Research",
-        "reason": "two AI-for-health posts in the pool (GlucoFM, wearable biomarker prioritization) share one generic OG banner and one content hub; kept only the stronger, newer GlucoFM release"
-      },
-      {
-        "source": "The Quantum Insider",
-        "reason": "two QML-in-medicine posts published the same day (heart-disease prediction, drug docking); kept the drug-docking run as the more concrete hardware demonstration"
-      }
-    ],
-    "not_selected_but_fresh": [
-      "https://medicalxpress.com/news/2026-08-brain-hint-ai-facial-differently.html",
-      "https://medicalxpress.com/news/2026-08-ai-fast-track-mental-health.html",
-      "https://medicalxpress.com/news/2026-08-ai-regulatory-hub-aging-hematopoietic.html",
-      "https://techxplore.com/news/2026-08-digbat-ai-ready-digital-platform.html",
-      "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
-      "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
-      "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-      "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run",
-      "https://www.genengnews.com/topics/artificial-intelligence/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/"
-    ]
-  },
-  "diversity_check": {
-    "outlets": [
-      "Phys.org",
-      "STAT",
-      "Google Research",
-      "ScienceAlert",
-      "The Quantum Insider"
-    ],
-    "max_per_outlet": 1,
-    "distinct_outlets": 5,
-    "science_x_network_cards": 1,
-    "topic_spread": [
-      "materials discovery / self-driving labs",
-      "oncology & individualized vaccines",
-      "clinical time-series foundation models",
-      "neurodegenerative screening",
-      "quantum computing for drug discovery"
-    ]
-  }
+  ]
 }

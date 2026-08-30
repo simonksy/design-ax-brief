@@ -1,32 +1,11 @@
 {
-  "date": "2026-08-30",
   "section": "music",
+  "date": "2026-08-31",
   "media": [
-    {
-      "id": "music-tamber-2",
-      "type": "video",
-      "src": "pipeline/media/music-tamber-2.mp4",
-      "poster": "pipeline/media/music-tamber-2.jpg"
-    },
-    {
-      "id": "music-happy-shrimp",
-      "type": "image",
-      "src": "pipeline/media/music-happy-shrimp.jpg"
-    },
-    {
-      "id": "music-uk-voice-cloning",
-      "type": "image",
-      "src": "pipeline/media/music-uk-voice-cloning.png"
-    },
-    {
-      "id": "music-canada-ai-study",
-      "type": "image",
-      "src": "pipeline/media/music-canada-ai-study.jpg"
-    },
-    {
-      "id": "music-ig-first-draft",
-      "type": "image",
-      "src": "pipeline/media/music-ig-first-draft.jpg"
-    }
+    {"id": "music-stemdeck", "type": "image", "src": "pipeline/media/music-stemdeck.png"},
+    {"id": "music-suno-friction", "type": "image", "src": "pipeline/media/music-suno-friction.jpg"},
+    {"id": "music-platform-ai-policies", "type": "image", "src": "pipeline/media/music-platform-ai-policies.jpg"},
+    {"id": "music-human-first-certification", "type": "video", "src": "pipeline/media/music-human-first-certification.mp4", "poster": "pipeline/media/music-human-first-certification.jpg"},
+    {"id": "music-round-hill-suit", "type": "image", "src": "pipeline/media/music-round-hill-suit.png"}
   ]
 }

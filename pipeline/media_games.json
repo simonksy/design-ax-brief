@@ -1,31 +1,11 @@
 {
   "section": "games",
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "media": [
-    {
-      "id": "games-genai-visual-literacy",
-      "type": "image",
-      "src": "pipeline/media/games-genai-visual-literacy.jpg"
-    },
-    {
-      "id": "games-taiwu-dynamic-npcs",
-      "type": "image",
-      "src": "pipeline/media/games-taiwu-dynamic-npcs.jpg"
-    },
-    {
-      "id": "games-dwarf-fortress-magic",
-      "type": "image",
-      "src": "pipeline/media/games-dwarf-fortress-magic.jpg"
-    },
-    {
-      "id": "games-google-ai-pitch",
-      "type": "image",
-      "src": "pipeline/media/games-google-ai-pitch.jpg"
-    },
-    {
-      "id": "games-james-pond-remake",
-      "type": "image",
-      "src": "pipeline/media/games-james-pond-remake.jpg"
-    }
+    {"id": "games-unity-dungeon-generator", "type": "video", "src": "pipeline/media/games-unity-dungeon-generator.mp4", "poster": "pipeline/media/games-unity-dungeon-generator.jpg"},
+    {"id": "games-stylized-water-river", "type": "video", "src": "pipeline/media/games-stylized-water-river.mp4", "poster": "pipeline/media/games-stylized-water-river.jpg"},
+    {"id": "games-ai-paradox-mobile-aaa", "type": "image", "src": "pipeline/media/games-ai-paradox-mobile-aaa.jpg"},
+    {"id": "games-tcrf-wiki-ddos", "type": "image", "src": "pipeline/media/games-tcrf-wiki-ddos.jpg"},
+    {"id": "games-twitch-ai-lawsuit", "type": "image", "src": "pipeline/media/games-twitch-ai-lawsuit.jpg"}
   ]
 }

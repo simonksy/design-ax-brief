@@ -1,63 +1,58 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-31",
   "section": "books",
-  "now_iso": "2026-08-28T22:05:00Z",
+  "now_iso": "2026-08-31T00:00:00Z",
   "window_hours": 336,
-  "pass": "recovery-1",
-  "notes": "Recovery pass for books. Burned (excluded): Amazon VGT3 book-scanning/destruction (404 Media, Jane Friedman, Good e-Reader), Claude/Anthropic watermarking, Spotify audiobook AI features, Google Play Books Book Insights / Google Expert Intelligence, textbook authors v OpenAI, and every URL in pipeline/candidates_books.json. Searched only adjacent terms: manga/webtoon AI localization, literary machine translation, library & archive AI, scholarly AI policy, bookselling/metadata AI, AI slop on retail, book-cover AI, audiobook narration vendors, Korean/Japanese publishing AI, book-fair AI programmes, AI writing tools. Per-outlet cap respected against the ORIGINAL pool too (janefriedman, selfpublishingadvice, scholarlykitchen already at 3 and were skipped entirely; publishersweekly / publishingperspectives / goodereader / 404media had their remaining slots checked).",
   "items": [
     {
       "category": "books",
-      "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
-      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
-      "source": "The Decoder",
-      "published_iso": "2026-08-15T11:00:50+00:00",
-      "excerpt": "A new market study of the Amazon/Kindle catalog finds AI-assisted titles diluting the whole market: between Q1 2023 and Q1 2026 the catalog grew 38.3x while quarterly revenue grew only 8.9x. Books with no detected AI text are 62.9% of the catalog but 72.5% of revenue, while substantially-AI books are 20% of titles and 11.3% of revenue.",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/08/AI-generated-books-dilute-Amazon-Kindle-Nano-Banana-Pro.jpg",
-      "off_list": true,
-      "off_list_reason": "Distinct from the already-published Originality.AI religion-paperback study; no on-list outlet carried this catalog-wide revenue-dilution analysis in the window."
+      "title": "AI가 소설 쓰는 시대, 작품 고르는 일이 더 어려워졌다: 일본 문학상이 직면한 새로운 과제",
+      "url": "https://www.huffingtonpost.kr/article/259630",
+      "source": "허프포스트코리아",
+      "published_iso": "2026-08-18T14:28:24+09:00",
+      "excerpt": "니혼게이자이신문 보도를 인용해, AI로 쓴 소설이 일본 문학상 공모에 몰리면서 심사 부담이 급증했다고 전한다. 제14회 하야카와 SF 콘테스트 응모작은 예년 400편 안팎에서 1012편으로 두 배 이상 늘었고, 제13회 호시 신이치상 일반부문 수상작 4편 중 3편이 창작 과정에 AI를 활용했다.",
+      "og_image": "https://cdn.huffingtonpost.kr/news/photo/202608/202608189503.jpg?v=259630",
+      "why": "New angle (Japanese literary prizes / contest judging under AI flood) — not in the exclude list and not the same story as any covered item. Concrete craft-and-judgment shift: what counts as a submitted work, and whether judges can tell. OFF-LIST domain: whitelisted outlets did not cover the Nikkei-sourced Japanese prize data; Korean-language framing also fits the brief's audience."
     },
     {
       "category": "books",
-      "title": "읽던 웹툰이 말을 걸었다…'보는 만화' 틀 깬 네이버웹툰",
-      "url": "https://www.newsis.com/view/NISX20260818_0003753111",
-      "source": "뉴시스 (Newsis)",
-      "published_iso": "2026-08-20T06:00:00+09:00",
-      "excerpt": "네이버웹툰이 원작자 승인 IP를 기반으로 독자가 웹툰 주인공과 직접 대화하는 AI 스토리챗 '바이어스(byUs)'와 AI 숏폼 제작 서비스 '컷츠메이크'를 전개하며 웹툰 소비 방식 자체를 바꾸고 있다. 휴재 중이던 '이직로그'는 AI 서비스 적용 후 일주일 만에 조회수가 67% 증가했다.",
-      "og_image": "https://img1.newsis.com/2026/08/18/NISI20260818_0002215154_web.jpg",
-      "off_list": true,
-      "off_list_reason": "Korean webtoon/comics publishing AI; no on-list domain covers Korean publishing."
+      "title": "Digital Books: HathiTrust Awarded $5 Million, 5-Year Mellon Grant to Enable AI-Driven Access and Discovery",
+      "url": "https://www.infodocket.com/2026/08/27/hathitrust-awarded-5-million-5-year-mellon-grant-to-enable-ai-driven-access-and-discovery/",
+      "source": "Library Journal infoDOCKET",
+      "published_iso": "2026-08-27T18:04:35+00:00",
+      "excerpt": "HathiTrust, with Northeastern University Library and Authors Alliance, won a five-year, $5M Mellon Foundation grant for “Transparent Books: AI Infrastructure for Discovery and the Public Interest,” applying AI to improve descriptive metadata and text quality across 19 million digitized volumes and to supply verified, traceable book text and images for academic and noncommercial use.",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/08/2026-08-27_13-05-55.png",
+      "why": "New angle (Internet Archive/HathiTrust machine access, a suggested angle) and the counter-story to Amazon shredding books: a consented, transparent book corpus for AI instead of a scraped one. Changes how researchers and publishers source book text. OFF-LIST domain: infoDOCKET is Library Journal's news arm; no whitelisted outlet ran the Mellon grant in the window."
     },
     {
       "category": "books",
-      "title": "Book Marketing, AI Book Discoverability, And Resilience, With Ricardo Fayet",
-      "url": "https://www.thecreativepenn.com/2026/08/19/book-marketing-ai-book-discoverability-and-resilience-with-ricardo-fayet/",
-      "source": "The Creative Penn",
-      "published_iso": "2026-08-19T07:30:00+01:00",
-      "excerpt": "Reedsy co-founder Ricardo Fayet argues that AI search engines surface and recommend books on completely different signals than Amazon keyword search, so keyword SEO is giving way to 'generative engine optimization'. Authors are told to build an internet footprint — reviews, Goodreads, Reddit mentions — that chatbots can actually cite.",
-      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/08/book-marketing-and-resilience.jpg",
-      "off_list": false
+      "title": "Production Companies, Literary Agents, Foreign Languages: AI-Driven Scams Continue to Morph",
+      "url": "https://writerbeware.blog/2026/08/28/production-companies-literary-agents-foreign-languages-ai-driven-scams-continue-to-morph/",
+      "source": "Writer Beware",
+      "published_iso": "2026-08-28T18:51:10+00:00",
+      "excerpt": "Writer Beware documents how author-targeting scams have been rebuilt on generative AI — fake production companies, impersonated literary agents, and newly fluent foreign-language solicitations that no longer betray themselves through broken English.",
+      "og_image": "https://writerbeware.blog/wp-content/uploads/2025/10/Blog-images-AI-3-scaled.jpg",
+      "why": "Genuinely new angle: AI has removed the tell (bad prose) that writers used to screen predatory approaches, so the vetting workflow for any author or freelancer has to change. OFF-LIST domain: Writer Beware (SFWA-affiliated) is the outlet of record for this beat; no whitelisted source covered it in the window."
     },
     {
       "category": "books",
-      "title": "When bots write books",
-      "url": "https://theweek.com/culture-life/books/when-bots-write-books-ai-publishing-industry",
-      "source": "The Week",
-      "published_iso": "2026-08-17T20:05:10Z",
-      "excerpt": "A survey of how generative AI is being folded into book production — from drafting to the flood of machine-written titles reaching retail — and what that shift means for human authors, editors and the shape of the publishing pipeline.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dA6nWaVkgNfGQXU7KUm2Rd-2000-80.jpg",
-      "off_list": true,
-      "off_list_reason": "General-interest outlet, but a books-craft/industry piece; on-list literary outlets (Lit Hub, Book Riot, Electric Literature) had no fresh AI item in the window."
+      "title": "The Heart of the Matter: Copyright, AI Training, and LLMs – Part 3: Fair Use and AI Training Under US Law",
+      "url": "https://www.copyright.com/blog/the-heart-of-the-matter-copyright-ai-training-llms-part-3/",
+      "source": "Copyright Clearance Center",
+      "published_iso": "2026-08-27T04:57:00+00:00",
+      "excerpt": "CCC walks through how the recent federal court decisions actually apply the US fair use defense to AI model training — which acquisition and copying steps courts have blessed, which they have not, and what that leaves rightsholders able to license.",
+      "og_image": "https://www.copyright.com/wp-content/uploads/2024/09/Heart-of-the-Matter-Executive-Summary.jpeg",
+      "why": "New angle: the licensing-infrastructure side (CCC is the collective licensing body), not another lawsuit recap. Note for curator: partial topical overlap with the already-published TechCrunch 'is it legal to train on books' explainer — pick only if the licensing framing is kept distinct. OFF-LIST domain, flagged."
     },
     {
       "category": "books",
-      "title": "What Technology Trends Should Publishers Explore and Scale?",
-      "url": "https://publishingperspectives.com/2026/08/what-technology-trends-should-publishers-explore-and-scale/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-08-20T12:09:57+00:00",
-      "excerpt": "Digital Publishing Report and Publishing Signal are launching an annual Publishing Technology Radar to tell publishers which technologies — AI tooling among them — are worth investing in, experimenting with, or waiting out. The global survey feeding it is open until August 30.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
-      "off_list": false
+      "title": "Viwoods AiPaper and AiPaper Mini have received cloud sync",
+      "url": "https://goodereader.com/blog/electronic-readers/viwoods-aipaper-and-aipaper-mini-have-received-cloud-sync",
+      "source": "Good e-Reader",
+      "published_iso": "2026-08-20T20:13:38+00:00",
+      "excerpt": "Viwoods Cloud is a native synchronization ecosystem for the AiPaper e-paper tablets, adding 10GB of free storage so handwritten notes, annotated PDFs and reading material move between the AiPaper, AiPaper Mini and desktop.",
+      "og_image": "https://goodereader.com/blog/uploads/images/2026/08/viwoods_aipaper_paper_tablet_system_update_3_5.webp",
+      "why": "The only fresh, previously-uncollected item from a whitelisted domain (goodereader.com) in the window — an AI-branded reading/annotation device getting the sync layer that makes it usable as a working reading tool. Lower priority: the AI hook is the device platform rather than the feature itself; included for on-list balance, drop if the curator wants a harder AI angle."
     }
   ]
 }
