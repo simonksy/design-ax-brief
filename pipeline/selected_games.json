@@ -1,61 +1,138 @@
 {
-  "date": "2026-08-30",
   "section": "games",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:25:00Z",
+  "selection_mode": "curator_auto",
+  "dedup": {
+    "candidates_in": 17,
+    "against_days": 5,
+    "published_history_checked": [
+      "sections.games.today (2026-08-30)",
+      "sections.games.days[2026-08-29]",
+      "sections.games.days[2026-08-28]",
+      "sections.games.days[2026-08-27]",
+      "sections.games.days[2026-08-26]",
+      "sections.games.days[2026-08-25]"
+    ],
+    "dropped": [
+      {
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
+        "reason": "content-dup of published card games-gta6-npc-team (GamesIndustry.biz, 2026-08-29) — same NYT-sourced event: LA team art-directing every NPC, 600k+ animations vs GTA 5"
+      },
+      {
+        "url": "https://gamingbolt.com/grand-theft-auto-6-is-at-least-10-years-ahead-of-the-industry-with-npcs-says-iois-ai-programmer",
+        "reason": "content-dup — same core topic (GTA 6 NPC/crowd systems) already published 2026-08-29 as games-gta6-npc-team, plus games-gta6-no-genai on 2026-08-28"
+      },
+      {
+        "url": "https://www.pcgamer.com/software/ai/claude-strife-dlss-5-has-escaped-into-the-wild-and-things-are-immediately-weird/",
+        "reason": "content-dup of published card games-dlss5-leak (Polygon, 2026-08-29) — same event: leaked DLSS 5 restyling Skyrim/GTA characters in modder tests"
+      },
+      {
+        "url": "https://www.destructoid.com/nvidias-dlss-5-has-been-leaked-and-modders-produced-hideous-faces-and-awful-performance-drops-in-its-wake/",
+        "reason": "content-dup of games-dlss5-leak (2026-08-29) — same leak event, reworded"
+      },
+      {
+        "url": "https://wccftech.com/dlss-5-enabled-on-rtx-3080-in-deep-rock-galactic/",
+        "reason": "same DLSS 5 leak event cluster already published 2026-08-29 (games-dlss5-leak); also same-outlet/same-topic pair with the RTX 40 CUDA-swap post"
+      },
+      {
+        "url": "https://wccftech.com/modder-makes-nvidia-dlss-5-neural-rendering-work-on-geforce-rtx-40-series-through-a-simple-cuda-binaries-swap/",
+        "reason": "same DLSS 5 leak event cluster already published 2026-08-29; within-pool dup of the other Wccftech DLSS 5 post"
+      },
+      {
+        "url": "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
+        "reason": "content-dup of published card games-rtx-spark (NVIDIA Blog, 2026-08-26) — same Gamescom 2026 Nvidia developer announcement incl. anti-cheat and DLSS 4.5"
+      },
+      {
+        "url": "https://www.rockpapershotgun.com/nvidia-dlss-45-ray-reconstruction-out-now-ups-shadow-quality-and-more-accurately-illuminates-trash-bags",
+        "reason": "content-dup — DLSS 4.5 Ray Reconstruction release already covered inside games-rtx-spark (2026-08-26) and games-ace-aniimo (2026-08-26)"
+      },
+      {
+        "url": "https://www.rockpapershotgun.com/cosmic-horror-and-sea-bird-waddling-sim-penguin-colony-gave-me-a-genai-fright-in-its-release-date-trailer-but-thankfully-theres-no-actual-cause-for-concern",
+        "reason": "content-dup of published card games-genai-visual-literacy (Rock Paper Shotgun, 2026-08-30) — same outlet, same core topic: false-positive genAI accusations against human art; also overlaps games-humankind2-ai-doubt (2026-08-26)"
+      },
+      {
+        "url": "https://www.gamesradar.com/games/action/after-ai-backlash-assassins-creed-creator-says-1666-amsterdam-wont-be-using-any-ai-anymore-and-only-used-it-in-conception-and-pre-production/",
+        "reason": "content-dup — 1666: Amsterdam's AI-in-preproduction-only position already published inside games-gamescom-ai-disclosure (2026-08-28) and games-saber-craft (2026-08-29); same 'ideation only, scrubbed before ship' beat as games-sega-crazytaxi (2026-08-27)"
+      },
+      {
+        "url": "https://80.lv/articles/breakdown-how-houdini-is-reshaping-commercial-animation",
+        "reason": "cross-section collision — commercial animation / VFX artist breakdown belongs to the movies section this run; game-dev-native 80 Level alternatives preferred"
+      },
+      {
+        "url": "https://www.pcgamer.com/games/action/donkey-kong-64-is-finally-playable-on-pc-thanks-to-a-team-of-programmers-who-boast-that-no-generative-ai-was-used-at-any-point-in-the-process/",
+        "reason": "not a dup, but deprioritized — the 'no generative AI was used' stance beat is saturated in the last 5 days (games-gta6-no-genai 08-28, games-sega-crazytaxi 08-27, games-james-pond-remake 08-30, games-id-genai 08-29)"
+      }
+    ],
+    "kept": 5,
+    "backfilled": true,
+    "notes": "No pick shares a URL with any card in sections.games today or days. Final 5: 4 distinct outlets, max 2 from any one outlet (80 Level x2)."
+  },
   "picks": [
     {
-      "url": "https://www.rockpapershotgun.com/hopefully-a-meteor-will-strike-the-earth-soon-game-devs-talk-genai-witchhunts-and-the-importance-of-honing-your-visual-literacy",
-      "source": "Rock Paper Shotgun",
+      "id": "games-unity-dungeon-generator",
+      "title": "Unity-Based Algorithm For Seamless Dungeon Generation",
+      "url": "https://80.lv/articles/unity-based-algorithm-for-seamless-dungeon-generation",
+      "source": "80 Level",
+      "published_iso": "2026-08-19T13:54:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49811/images/6a85b58833dd1/contain_1200x630.jpg",
+      "excerpt": "A developer shared the Labyrinth Procedural Generator, a Unity algorithm that stitches dungeon rooms into seamless, playable layouts, with a live demo to try. Learn how the Labyrinth Procedural Generator works and try the demo.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "The most directly actionable item in the pool: working devs lay out how to read an image for provenance, a skill every artist and art director now needs to defend their own work from false accusations.",
-      "published_iso": "2026-08-28T15:49:03Z",
-      "og_image": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Failbetter, New Blood and other game developers on the importance of honing your visual (and technical) literacy if you want to effectively spot — and fight — genAI art in games."
+      "rationale": "Concrete, try-it-today procedural level design in Unity — shows exactly what generation buys a level designer versus hand-authored layout, and where the seams still need human design."
     },
     {
-      "url": "https://80.lv/articles/interview-building-a-wuxia-sandbox-rpg-with-up-to-10-000-dynamic-npcs",
+      "id": "games-stylized-water-river",
+      "title": "Unity's Stylized Water 3 Is Getting Spline-Based River Modeler Tool",
+      "url": "https://80.lv/articles/unity-s-stylized-water-3-is-getting-spline-based-river-modeler-tool",
       "source": "80 Level",
+      "published_iso": "2026-08-21T11:52:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49836/images/6a883c0ee0a73/contain_1200x630.jpg",
+      "excerpt": "Stylized Water 3 is adding a spline-driven river modeler for Unity. It's designed around Burst and the Job System, features segmented river output, and automatic VFX/SFX integration.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A concrete craft blueprint for dynamic NPCs at scale built from systemic design rather than model output — the strongest non-generative answer to the 'AI NPC' pitch this week.",
-      "published_iso": "2026-08-24T23:11:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49868/images/6a8ccee3d8de1/contain_1200x630.jpg",
-      "excerpt": "ConchShip Games explains how The Scroll of Taiwu drives up to 10,000 dynamic NPCs, 700+ martial arts skills and generational storytelling through systemic sandbox design rather than hand-authored content."
+      "rationale": "Procedural authoring the artist still steers: the spline is the control surface, a useful counterpoint to prompt-first environment generation, with Burst/Job System performance baked in."
     },
     {
-      "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/",
-      "source": "PC Gamer",
+      "id": "games-ai-paradox-mobile-aaa",
+      "title": "The AI paradox: why mobile embraces AI and triple-A holds back",
+      "url": "https://www.pocketgamer.biz/the-ai-paradox-why-mobile-embraces-ai-and-aaa-holds-back/",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-08-26T22:00:00+00:00",
+      "og_image": "https://media.pocketgamer.biz/images/141088/89707/aisessionshanghai_l1200.jpg",
+      "excerpt": "At PGC Summit Shanghai, studio leaders and investors asked why free-to-play races to adopt AI while AAA holds back, tracing the split to production risk and audience expectation.",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A per-world procedural magic system is the clearest live demonstration that authored generation still beats generative models at making worlds feel designed — and it ships this year.",
-      "published_iso": "2026-08-27T15:12:30Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
-      "excerpt": "Dwarf Fortress's long-promised Myth and Magic update will generate a bespoke magic system per world — procedural generation as authored design, not model output."
+      "rationale": "Explains the split adoption curve by production model rather than ideology — a usable frame for any design org deciding how fast to move, and distinct from the Nordic-studios piece already published on 08-26."
     },
     {
-      "url": "https://aftermath.site/google-ai-video-games/",
-      "source": "Aftermath",
+      "id": "games-tcrf-wiki-ddos",
+      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+      "source": "Kotaku",
+      "published_iso": "2026-08-28T20:51:22+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/The-Cutting-Room-Floors-Anti-AI-message.jpeg",
+      "excerpt": "The Cutting Room Floor wiki went offline after a DDoS attack allegedly triggered by a contributor banned for using Claude Code. The site had already deployed anti-AI defenses, including MS Paint warnings served to scrapers.",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "A sharp read of what a platform giant actually demoed for AI in games, useful as a reality check on the gap between vendor pitch decks and anything a team could ship.",
-      "published_iso": "2026-08-25T23:40:46Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
-      "excerpt": "A withering look at Google's AI-in-games sales pitch: '...we are 3-4 years into this collective descent into madness, and this is all you can come up with to support it?'"
+      "rationale": "Game-history archives are hardening against AI agents and scrapers — the reference material designers and researchers rely on is becoming a contested, actively defended resource."
     },
     {
-      "url": "https://kotaku.com/james-pond-co-creator-calls-ai-rife-remake-disrespectful-and-soulless-2000729581",
-      "source": "Kotaku",
+      "id": "games-twitch-ai-lawsuit",
+      "title": "Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI",
+      "url": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers",
+      "source": "Eurogamer",
+      "published_iso": "2026-08-23T16:55:20+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/OpenLetterHeader_1920x1080.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Twitch content creator Warren Pandiscia has filed a proposed class action against Twitch and Amazon, alleging the companies used streamers' content to train AI.",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Freshest item in the pool and a new front in the AI backlash: the original creator publicly disowning an AI-heavy remake of his own IP, a reputational risk any licensing deal now carries.",
-      "published_iso": "2026-08-29T17:50:57Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/james-pond-1.jpg",
-      "excerpt": "Original developer Chris Sorrell condemns an AI-heavy James Pond remake as disrespectful and soulless: 'I hope they choke on an AI-generated fishbone.'"
+      "rationale": "Creator-made game content used as training data without consent — the platform-rights fight that lands on anyone whose work lives on infrastructure they do not own."
     }
   ]
 }

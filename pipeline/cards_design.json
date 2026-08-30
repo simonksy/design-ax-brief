@@ -1,231 +1,287 @@
 {
   "section": "design",
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T00:00:00Z",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:00:00Z",
   "cards": [
     {
-      "id": "design-figma-agent-army",
+      "id": "design-ai-camo-shirt",
       "eyebrow": "AI NEWS",
-      "headline": "피그마는 코드 커넥트 작성을\n에이전트 부대에 맡겼다",
-      "body": "코딩 에이전트 여러 대로 코드 커넥트 파일을 쓰고 관리하는 법을 피그마가 보여준다.",
-      "mini_headline": "에이전트가 쓰는 코드 커넥트",
-      "tool": "Social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=KhyLHeGpWFA",
-      "accent": "#ff2d55",
+      "headline": "사람 눈에는 무늬, AI 눈에는\n사람이 잡히지 않는 위장 셔츠",
+      "body": "독일 디자이너 Simon Weckert가 객체 탐지기를 겨냥해 무늬를 최적화한 셔츠를 내놨다.",
+      "mini_headline": "AI를 속이는 위장 셔츠",
+      "tool": "AI Workflow",
+      "source": "Fast Company",
+      "url": "https://www.fastcompany.com/91595636/this-shirt-is-like-an-ai-invisibility-cloak",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "og_image": "https://i.ytimg.com/vi/KhyLHeGpWFA/maxresdefault.jpg",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91595636-digital-camo-shirt.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "사람 눈에 Digital Camouflage 셔츠는 초록과 분홍, 주황 도형이 뒤섞인 추상 무늬다. 로봇에게는 그 옷을 입은 사람을 감춘다."
+          },
+          {
+            "t": "p",
+            "x": "독일 디자이너 Simon Weckert가 만들었다. 올해 초 베를린에 감시 카메라가 설치되자 AI 감시 시스템을 헷갈리게 하려고 지은 버튼업 셔츠다. 복잡한 무늬로 얼굴과 사물 인식을 흐트러뜨리는 적대적 의류 디자인의 흐름 위에 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/01-91595636-digital-camo-shirt.jpg",
+            "cap": "Digital Camouflage 셔츠 (이미지: Simon Weckert)"
+          },
+          {
+            "t": "p",
+            "x": "“객체 탐지 시스템은 우리처럼 ‘보지’ 않는다.” Weckert가 Fast Company에 한 말이다. “이미지에서 통계적 패턴을 훑는다. ‘사람’이라는 범주와 묶이도록 학습한 윤곽과 질감, 색의 조합이다.”"
+          },
+          {
+            "t": "p",
+            "x": "무늬는 그 신경망에 잘못된 신호가 가도록 수학적으로 최적화했다. 약 88달러에 파는 이 셔츠는 두 몫을 해야 한다. AI를 흔들면서 동시에 입을 만해야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/09-91595636-digital-camo-shirt.jpg",
+            "cap": "패턴은 사람의 취향과 알고리즘의 요구 사이에 놓였다 (이미지: Simon Weckert)"
+          },
+          {
+            "t": "p",
+            "x": "“최적화에서 그대로 나온 적대적 패턴은 효과는 있지만 시각적으로 혼란스럽다. 순수하게 기계를 향한 이미지다.” 최종 무늬는 알고리즘의 요구와 사람의 취향 한가운데 자리를 잡았고, Weckert는 그 모호함이 개념적으로 중요하다고 말한다. “두 종류의 관람자에게 동시에 말을 거는 옷이다. 각자 완전히 다른 것을 본다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/03-91595636-digital-camo-shirt.jpg",
+            "cap": "셔츠는 약 88달러에 판매된다 (이미지: Simon Weckert)"
+          },
+          {
+            "t": "p",
+            "x": "시험 상대는 YOLO(You Only Look Once)였다. 상용 감시 제품 상당수를 떠받치는 것과 같은 계열의 오픈소스 탐지 시스템이다. 다만 특정 감시 시스템을 무너뜨리려고 만든 옷은 아니라고 Weckert는 덧붙였다. 천 한 장으로 풀려 버리는 기술이라면 얼마나 믿을 만한지, 그 질문을 꺼내려는 쪽에 가깝다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-figma-variables-structure",
+      "eyebrow": "AI NEWS",
+      "headline": "Figma 변수를 네 컬렉션으로 나눠\n코드베이스와 같은 값을 쓴다",
+      "body": "네 개 컬렉션으로 원시값과 의미 토큰을 갈라 두면 규모가 커져도 값이 흔들리지 않는다.",
+      "mini_headline": "변수 네 컬렉션 구조",
+      "tool": "Design Tokens",
+      "source": "DEV Community",
+      "url": "https://dev.to/planetabhi_/structuring-variables-in-figma-32d8",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbxrp072bsm5p1i21wi9.webp",
       "full": {
         "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Figma에서 확장 가능한 UI 라이브러리는 변수 정리에서 시작한다. 프로젝트가 커질수록 primitive와 semantic, 테마를 구조 없이 다루면 금세 감당이 안 된다. 이 글은 값을 쓰임새별로 나누는, 구현과 나란히 가는 방식을 정리했다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbxrp072bsm5p1i21wi9.webp",
+            "cap": "Structuring Variables in Figma"
+          },
+          {
+            "t": "p",
+            "x": "변수는 여러 디자인 속성과 프로토타이핑 동작에 붙일 수 있는 재사용 값이다. 버튼을 만들 때마다 색과 패딩, 모서리 반경을 손으로 넣는 대신 변수에 담아 둔다. 조직 전체에서 버튼 색을 바꿔야 하면 변수 하나만 고치면 끝난다."
+          },
+          {
+            "t": "p",
+            "x": "Figma의 변수 타입은 여섯 가지다. Color는 #000000 같은 솔리드 값, Number는 16 같은 수치, String은 'Namaste' 같은 문자열, Boolean은 레이어를 보이고 감추는 true/false, Timing은 밀리초 단위 지속 시간, Easing은 이징 커브나 스프링 애니메이션을 담는다. 컬렉션이 관련 변수와 모드를 묶고, 컬렉션 안에서 다시 그룹으로 나눈다."
+          },
+          {
+            "t": "p",
+            "x": "스타일과의 차이도 짚는다. 변수는 색과 간격 같은 개별 값을 담고, 스타일은 텍스트 서식이나 이펙트처럼 관련 속성을 묶은 세트다. 라이트와 다크를 오가거나 기기별로 패딩을 바꾸는 것처럼 맥락에 따라 값이 달라지는 일은 변수 쪽이 맡는다."
+          },
+          {
+            "t": "p",
+            "x": "방법론은 추상화 수준으로 컬렉션을 넷으로 가른다. Design Tokens(공개, 코드와 동기화), Global Primitives(공개, 코드와 동기화), Language(공개, 코드 정의는 선택), Private Primitives(숨김, 코드 정의 없음)."
+          },
+          {
+            "t": "p",
+            "x": "Design Tokens는 primitive를 어디에 써야 하는지 맥락을 준다. --background-warning이라는 이름 자체가 경고와 주의를 곧바로 전한다. 여기에 Border, Colors, Shadow, Sizing, Spacing, Alias 그룹이 들어간다. Global Primitives는 grey-90, red-50 같은 기본 색과 폰트 크기, 굵기를 담고 Default와 High Contrast 같은 테마로 묶어 전환한다. Language는 헤더나 사이드바, 푸터의 문자열을 모으고, Private Primitives는 zero와 1·2·4, 50vh, black·white, regular·bold 같은 원시값을 숨겨 둔다."
+          },
+          {
+            "t": "p",
+            "x": "저자는 이 구조가 엔터프라이즈 프로젝트를 여러 번 거치며 다듬어진 결과라고 적었다. 원시값과 의미 토큰을 갈라 두면 hex 코드와 맥락 토큰이 섞이지 않는다. private primitive가 수학적 스케일을 강제해 인터페이스 전반의 간격이 고르게 간다. 언어 컬렉션을 따로 두면 번역 교체가 가벼워진다."
+          },
+          {
+            "t": "p",
+            "x": "정리만으로는 모자란다고 못 박는다. Figma 변수는 코드베이스와 계속 동기화돼 하나의 진실 원천이 돼야 하고, 자동화 스크립트와 Figma 로컬 MCP 서버가 그 간극을 메운다. 코드 쪽 themes 폴더에서는 design-tokens.js가 Design Tokens 컬렉션에서, global.js가 Global Primitives 컬렉션에서 생성된다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-disney-auction-concept-art",
+      "eyebrow": "AI NEWS",
+      "headline": "343만 달러 디즈니 경매가\nAI 컨셉 아트에 남긴 질문",
+      "body": "디즈니 원화 경매가 1,346개 로트에서 343만 달러를 기록하며 손그림 컨셉 아트의 값을 드러냈다.",
+      "mini_headline": "343만 달러 디즈니 경매",
+      "tool": "KeyShot",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1920-80.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Spider-Man: Brand New Day의 AI 아트 사태부터 Masters of the Universe까지, AI를 쓴 쪽의 주된 방어 논리는 하나였다. 컨셉 아트일 뿐이라는 말. AI가 만든 이미지는 최종 영화에 들어가지 않았다는 말이다."
+          },
+          {
+            "t": "p",
+            "x": "그런데 컨셉 아트도 아트다. 아트북과 비하인드 영상에 실려 팬들이 오래 들여다본다. 영화가 충분히 상징적인 자리에 오르면 그 그림은 역사적 유물이 된다. 최근 디즈니 아트 경매는 그런 작업이 어디까지 예술적, 그리고 금전적 값을 갖는지 다시 보여줬다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/5XhzJC45mxXfPHqMhyEeYo.jpg",
+            "cap": "Gustaf Tenggren이 그린 백설공주 원화 (이미지: Disney / Heritage Auctions)"
+          },
+          {
+            "t": "p",
+            "x": "올해 D23 포스터 디자인에 디즈니가 밀어 넣은 캐릭터 숫자에 감탄한 지 며칠 만에, 희귀 원화와 포스터 묶음이 경매에 나와 이 애니메이션 스튜디오의 두꺼운 유산을 상기시켰다. Heritage Auctions가 지난 주말 연 디즈니 아트 경매는 1,346개 로트에서 343만 달러를 냈다. 황금기부터 디즈니 르네상스, 2000년대 영화까지 걸친 물량이다."
+          },
+          {
+            "t": "p",
+            "x": "가장 눈에 띈 건 Gustaf Tenggren이 Snow White and the Seven Dwarfs를 위해 그린 원화들이었다. 왕자가 One Song을 부르는 소리를 백설공주가 듣는 장면은 85,400달러에 팔렸다. 일곱 난쟁이 중 여섯이 집으로 돌아오는 파노라마 그림이 41,480달러, 말에 오른 왕자 그림이 36,600달러였다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/BtBAaqTeMsu6cYYxFnMFXo.jpg",
+            "cap": "난쟁이 여섯이 집으로 돌아오는 파노라마 그림, 41,480달러 (이미지: Disney / Heritage Auctions)"
+          },
+          {
+            "t": "p",
+            "x": "상위 낙찰에는 Mary Blair의 두 점도 들었다. It’s a Small World의 일본 구역을 그린 컬러풀한 컨셉화가 31,720달러, Alice in Wonderland의 티파티에서 앨리스와 매드 해터, 화이트 래빗을 담은 컨셉 겸 컬러키 원화가 29,280달러에 갔다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/YebxhzconpD4gLvf24fKXo.jpg",
+            "cap": "Alice in Wonderland 컨셉 겸 컬러키 원화 (이미지: Disney / Heritage Auctions)"
+          },
+          {
+            "t": "p",
+            "x": "Joe Ranft 가족 아카이브에서는 Toy Story, A Bug’s Life, Monsters, Inc, Cars의 스토리보드와 컨셉 아트가 나왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/FhuTBdWMkJz3X7FnGZE6M6.jpg",
+            "cap": "Joe Ranft가 손으로 채색한 Toy Story 스토리보드 (이미지: Disney / Heritage Auctions)"
+          },
+          {
+            "t": "p",
+            "x": "“이번 반응은 디즈니를 향한 전 세계의 애정, 그리고 애니메이션 아트를 하나의 중요한 예술 형식으로 보는 시선이 커졌다는 뜻입니다.” Heritage의 애니메이션·애니메 아트 담당 부사장 Jim Lentz의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "컨셉 아트에 AI를 쓰면 속도는 빨라진다. 다만 50년 뒤에 누가 AI로 만든 스파이더맨 그림을 두고 이런 말을 할까."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-ai-interior-measurement",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 뽑은 방은 그럴듯하다\n치수가 맞는지는 별개다",
+      "body": "생성된 인테리어 컨셉을 시각적 가설로 두고 치수와 동선, 채광을 먼저 검증하는 절차다.",
+      "mini_headline": "실측 먼저, 렌더는 다음",
+      "tool": "KeyShot",
+      "source": "DEV Community",
+      "url": "https://dev.to/physicsai/a-measurement-first-workflow-for-evaluating-ai-interior-concepts-4h25",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8obez9gebnhzuvfg4pnz.png",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "AI 이미지 시스템은 몇 초 만에 근사한 방을 내놓는다. 그러나 컨셉 이미지는 시공 도면도 구매 목록도 아니다. 까다로운 일은 생성 다음에 시작된다. 픽셀을 치수와 동선, 채광, 설비, 예산, 집에 이미 있는 물건까지 지키는 계획으로 옮기는 일. 이 워크플로는 AI 컨셉을 시각적 가설로 두고 돈이 나가기 전에 가정을 시험한다. 실측 스케치와 스프레드시트, 일관된 검토 순서면 완전한 CAD 없이도 초기 결정 상당수는 감당된다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8obez9gebnhzuvfg4pnz.png",
+            "cap": "A Measurement-First Workflow for Evaluating AI Interior Concepts"
+          },
+          {
+            "t": "p",
+            "x": "먼저 입력 규격을 정한다. 방 종류와 주요 활동, 상시 사용 인원, 남겨야 할 물건, 예산대를 적는다. 사진으로는 알 수 없는 제약도 넣는다. 임대 조건, 반려동물, 아이, 접근성, 들여놓을 전기 설비. 요구와 선호를 갈라 적는 대목이 핵심이다. “문에서 창까지 850mm 통로를 확보한다”는 요구, “따뜻한 뉴트럴 팔레트”는 선호다. 요구를 어기면 컨셉은 탈락이고, 선호는 조정하면 된다."
+          },
+          {
+            "t": "p",
+            "x": "다음은 믿을 만한 측정 모델이다. 벽 길이와 천장고, 문, 창, 라디에이터, 콘센트, 스위치, 붙박이 가구를 잰다. 광각 렌즈가 거리와 크기를 왜곡하니 사진만으로는 축척이 잡히지 않는다. 한 모서리를 (0, 0)으로 두고 고정 요소를 벽 기준 구간으로 저장한다. 북쪽 벽 창이 서쪽 모서리에서 920mm 지점에서 시작해 폭 1,450mm 하는 식이다. 중요한 치수는 두 번 잰다."
+          },
+          {
+            "t": "p",
+            "x": "생성 단계에서는 정답 하나가 아니라 대안을 뽑는다. 기하와 필수 물건은 고정하고 배치, 조명 강조, 재료 팔레트, 수납 전략 가운데 하나만 바꾼다. 모든 변수가 동시에 바뀐 이미지끼리는 무엇이 방을 낫게 했는지 가려낼 수 없다. 결과마다 프롬프트 버전과 짧은 가설을 붙이고, 탈락한 컨셉도 반복되는 실패 유형의 증거로 남긴다."
+          },
+          {
+            "t": "p",
+            "x": "스케일 감사가 이어진다. 컨셉마다 표준 문이나 남겨 둔 소파처럼 치수를 대강 아는 기준 물체를 셋 이상 찾는다. 의자 깊이가 불가능하거나 펜던트가 과하게 큰, 이미지 생성의 흔한 오류를 본다. 후보 가구는 제조사 치수나 보수적인 대푯값으로 실측 스케치에 옮긴다. 필수 물건이 최소 여유를 깎거나 문 여닫이를 막아야만 들어간다면 그 컨셉은 탈락이다."
+          },
+          {
+            "t": "p",
+            "x": "동선은 그래프로 본다. 출입구와 좌석, 수납, 작업면, 창을 노드로 놓고 그 사이 경로를 잇는다. 평균이 아니라 가장 좁은 지점의 유효 폭을 잰다. 모든 의자를 밀어 넣어야만 성립하는 식탁은 튼튼한 계획이 아니다. 조명은 시간과 작업으로 나눠 감사한다. 생성 이미지는 방향과 시각을 무시한 빛을 그린다. 활동을 행, 아침·오후·저녁을 열로 둔 표만으로도 뻔한 충돌은 대부분 걸린다."
+          },
+          {
+            "t": "p",
+            "x": "수납은 이미지가 아니라 물건 목록에 묶는다. 케이블과 충전기, 청소도구, 서류, AV 장비를 넣는다. 습관도 용량만큼 중요하다. 현관에서 열쇠와 가방을 내려놓는 집이라면 먼 수납장 대신 그 자리에 놓을 곳을 만든다. 이어서 의존 관계 지도를 그린다. 전기와 벽 보수, 도장, 바닥, 붙박이, 이동 가구에는 순서가 있다. 작업마다 담당과 견적, 선행 조건, 되돌리는 비용을 적는다."
+          },
+          {
+            "t": "p",
+            "x": "마지막은 실물 확인이다. 바닥에 마스킹 테이프로 가구 자리와 동선을 표시하고, 크고 높은 물건은 골판지로 만들어 며칠 살아 본다. 화면 색은 페인트나 목재에 믿을 수 없으니 샘플을 방에서 본다. 최종 산출물은 그림이 아니다. 근거와 치수, 시공 순서를 갖춘 결정 묶음이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-adobe-unlock-mockups",
+      "eyebrow": "AI NEWS",
+      "headline": "Firefly로 병 시안을 세우고\nPhotoshop에서 손으로 다듬는다",
+      "body": "Badal Patel이 Firefly로 병 시안을 뽑고 Photoshop에서 손으로 다듬는다.",
+      "mini_headline": "제품 목업의 AI 분업",
+      "tool": "Social",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "url": "https://www.youtube.com/watch?v=IlbD1rRIZLI",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "og_image": "https://i.ytimg.com/vi/IlbD1rRIZLI/maxresdefault.jpg",
+      "full": {
+        "mode": "full",
         "blocks": [
           {
             "t": "video",
-            "yt": "KhyLHeGpWFA"
+            "yt": "IlbD1rRIZLI"
           },
           {
             "t": "p",
-            "x": "피그마 개발자 애드보킷 Jake Albaugh가 진행하는 Dev Mindset 시리즈의 새 회차. 제목부터 'My agent army writes Code Connect'다. 에이전트를 시켜 코드 커넥트 파일을 쓰고 관리하는 방법을 6분 42초 동안 다룬다."
+            "x": "Adobe Creative Cloud 채널의 The Unlock 에피소드다. 현업 그래픽 디자이너의 제품 목업 접근법을 1분 34초로 담았다. Super Spicy 스튜디오를 세운 Badal Patel이 Adobe Firefly와 Photoshop, Illustrator를 함께 쓴다."
           },
           {
             "t": "p",
-            "x": "Figma Code Connect는 디자인 컴포넌트를 프로덕션 코드에 직접 이어 붙인다. 이 연결이 깔려 있으면 에이전트가 피그마 파일을 읽을 때 손댈 수 없는 날것의 스타일 데이터 대신 진짜 컴포넌트 이름과 props를 본다."
+            "x": "소재는 네일 폴리시 브랜드 Static이다. 영상에서 Patel은 초보 엄마로 지내는 경험을 이야기하려고 이 브랜드를 직접 만들었다고 말한다. 자기 작업을 달콤하고 짭짤하고 펑키한 맛이 한꺼번에 오는 한 입에 비유하며 시작한다."
           },
           {
             "t": "p",
-            "x": "그만큼 에이전틱 코딩이 정확해지고 빨라진다. 시간이 절약되고, 더 중요하게는 AI 크레딧이 절약된다."
+            "x": "출발점은 사진 한 장이었다. 찍은 사진을 Adobe Firefly에 올리고 프롬프트를 만지기 시작했다. 브랜드가 어떻게 살아나는지 빨리 눈으로 보고 싶었다는 이유다. 머릿속에 있는 병을 Firefly가 대신 세워 준다."
           },
           {
             "t": "p",
-            "x": "걸림돌은 컴포넌트마다 코드 커넥트 파일을 손으로 써야 한다는 점이었다. 이제 그 파일을 에이전트가 대신 쓰고 관리한다. 손을 거의 안 대고도 앞의 이점을 그대로 챙긴다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-atomica-thermal-microstructures",
-      "eyebrow": "AI NEWS",
-      "headline": "Atomica가 AI 하드웨어 열을\n잡는 미세구조 플랫폼을 내놨다",
-      "body": "Atomica가 AI 하드웨어의 열을 다루는 미세구조 플랫폼을 새로 내놨다.",
-      "mini_headline": "열을 다루는 미세구조",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/atomica-introduces-ai-thermal-microstructures-platform/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Atomica-introduces-AI-Thermal-Microstructures-Platform.jpg",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "미국의 미세가공 파운드리 Atomica가 AI Thermal Microstructures Platform을 선보였다. 고밀도 AI 컴퓨팅, 첨단 패키징, 포토닉 시스템을 비롯한 하드웨어에 들어갈 열 관리 구조를 개발하는 고객이 대상이다. AI Optical Connectivity, AI Optical Source, AI Photonic Integration에 이은 네 번째 플랫폼이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/08/Atomica-introduces-AI-Thermal-Microstructures-Platform.jpg",
-            "cap": "Atomica의 AI Thermal Microstructures Platform은 AI 하드웨어에서 냉각을 열원 가까이로 끌어당긴다."
+            "x": "프롬프트에는 금방이라도 넘어질 것처럼 보이면 더 흥미롭지 않겠냐는 생각을 넣었다. Firefly는 정확히 그런 구도를 내놨고, 실제로 촬영한 것처럼 보이게 만들었다. Patel은 그 장난기를 기하 도형으로 옮겨 네일 폴리시 병 패키지를 만들기로 했다."
           },
           {
             "t": "p",
-            "x": "AI 컴퓨팅 시스템의 밀도가 올라가면 더 좁은 공간에서 더 많은 열이 난다. 빽빽한 패키지 안쪽이 특히 곤란해진다. 공랭과 히트싱크, 콜드플레이트, 데이터센터 냉각은 여전히 제 몫을 하지만, 국소적으로 뜨거워지는 지점과 온도 기울기는 패키지 단위의 해법을 따로 요구한다."
+            "x": "다음은 Adobe Photoshop이다. 마음에 들 때까지 전부 손봤다. 그러고는 Adobe Illustrator에서 만든 로고를 얹고, 그레인과 옅은 드롭 섀도를 더해 실물처럼 보이게 마무리했다."
           },
           {
             "t": "p",
-            "x": "이 플랫폼은 마이크로유체 냉각, 열 전달 경로, 인터포저, 센싱 구조, 본딩, 웨이퍼 레벨 패키징을 한데 묶었다. 열이 몰리는 자리 가까이로 냉각수를 흘리고, 열을 퍼뜨리고, 압력과 유량을 재고, 온도에 민감한 부품을 떼어 놓는 식으로 첨단 패키지 안에서 온도를 제어한다."
-          },
-          {
-            "t": "p",
-            "x": "겨냥한 적용처는 넓다. 액랭 AI 가속기 모듈, GPU와 칩렛 패키지, 고대역폭 메모리 집적, 포토닉 인터포저, 광 엔진, 코패키지드·니어패키지드 옵틱스, 외부 레이저 광원 시스템, 엣지 AI, 산업용 전자, 방산, 고신뢰 센서 모듈까지 이름을 올렸다."
-          },
-          {
-            "t": "p",
-            "x": "광 집적에서도 열은 골칫거리다. 레이저와 광 엔진이 프로세서와 스위치 가까이 놓일수록 온도 기울기와 열 드리프트가 성능과 안정성을 흔든다. 미세가공으로 만든 열 구조가 좁은 광학계 안에서 그 영향을 눌러 준다."
-          },
-          {
-            "t": "p",
-            "x": "고객은 타당성 검증용 구조나 열 테스트 비히클에서 출발해 엔지니어링 샘플, 기능 프로토타입, 인증 로트, 양산으로 단계를 밟아 갈 수 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-ai-websites-look-same",
-      "eyebrow": "AI NEWS",
-      "headline": "프롬프트로 만든 사이트가 닮는 이유\n기본값에서 빠져나오는 법",
-      "body": "프롬프트로 만든 사이트가 같은 그라디언트와 카드 화면으로 수렴하는 까닭을 짚는다.",
-      "mini_headline": "닮은 얼굴의 AI 사이트",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F14u0rkyv2g9bzxrkv1wu.png",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "최근 AI로 웹사이트를 만들어 봤다면 어딘가 낯익은 화면을 받았을 것이다. 커다란 히어로 헤드라인, 보라에서 파랑으로 흐르는 그라디언트, 둥근 카드, 떠 있는 대시보드 목업, 가지런히 늘어선 기능 섹션. 다른 빌더에 같은 아이디어를 넣어도 결과가 놀랄 만큼 비슷하다."
-          },
-          {
-            "t": "p",
-            "x": "글쓴이는 원인을 AI의 창의력 부족에서 찾지 않는다. 도구가 학습한 패턴, 기대고 있는 컴포넌트, 설계된 기본값, 그리고 우리가 프롬프트를 쓰는 방식이 겹친 결과로 본다. 대형 언어 모델은 예측 시스템이라 요청이 헐거우면 가장 흔한 답을 고른다."
-          },
-          {
-            "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/rvyy9aha9yno4ed06fc7.png",
-            "cap": "AI 웹사이트 빌더가 비슷한 디자인을 계속 내놓는 이유."
-          },
-          {
-            "t": "p",
-            "x": "'모던하고 깔끔하고 프로페셔널하게' 같은 말은 사람 귀에는 방향처럼 들리지만 모델에게는 그저 넓은 범주다. 여러 도구가 Tailwind CSS와 shadcn/ui 같은 공통 부품을 함께 쓴다는 점도 수렴을 거든다."
-          },
-          {
-            "t": "p",
-            "x": "글쓴이는 개인 금융 앱 랜딩 페이지를 같은 프롬프트로 Lovable, Google AI Studio, v0에 각각 돌려 히어로 섹션만 비교했다. 구현은 달라도 위계와 여백, 구성에서 익숙한 시각 언어가 그대로 나왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xu5frjmr4zkjq7xhwekb.png",
-            "cap": "같은 일반적인 프롬프트로 Lovable이 만든 금융 랜딩 페이지."
-          },
-          {
-            "t": "p",
-            "x": "처방은 방향을 좁히는 것이다. 독자층과 그들이 느끼는 문제, 시각 레퍼런스, 피해야 할 것을 함께 적는다. 가상의 식물 관리 앱 Mfon으로는 에디토리얼, 브루탈리즘, 레트로 보태니컬 세 방향을 색 코드와 서체까지 지정해 시험한다."
-          },
-          {
-            "t": "p",
-            "x": "가장 큰 규칙 하나는 원하지 않는 것을 말하라는 것. 보라-파랑 그라디언트, 글래스모피즘, 떠 있는 대시보드 스크린샷, 3단 카드를 쓰지 말라고 못 박으면 모델은 익숙한 패턴 대신 다른 답을 찾아야 한다. 서체와 색, 간격 규칙은 시스템 인스트럭션에 박아 두면 프로젝트 내내 가드레일 노릇을 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/iojolkul6yqjmca34fo7.png",
-            "cap": "Google AI Studio의 시스템 인스트럭션 화면."
-          },
-          {
-            "t": "p",
-            "x": "첫 결과물은 완성본이 아니라 초안이다. 로고를 떼도 우리 브랜드처럼 보이는지, 경쟁사 로고를 붙여도 어색하지 않은지 스스로 물어보라고 글쓴이는 권한다. AI는 웹사이트를 지어 주지만 관점은 사람이 준다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-openai-cursor-cutoff",
-      "eyebrow": "AI NEWS",
-      "headline": "OpenAI가 11월 12일\nCursor에서 모델을 뺀다",
-      "body": "OpenAI가 2026년 11월 12일 Cursor의 모델 접근을 끊기로 했다.",
-      "mini_headline": "11월 12일 커서 차단",
-      "tool": "AI Workflow",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "og_image": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "OpenAI가 Cursor의 모델 접근을 끊는다. AI 코딩 어시스턴트 Cursor가 SpaceXAI에 인수된 데 따른 조치다. OpenAI는 자사 웹사이트 글에서 계약상 줄 수 있는 최대한의 시간을 줬다고 밝혔다. 모델 제공은 2026년 11월 12일에 멈추지만, Cursor가 더 이른 종료일을 고를 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
-            "cap": "Cursor와 SpaceXAI 로고."
-          },
-          {
-            "t": "p",
-            "x": "이유로는 SpaceX가 자사 기술을 이용약관 안에서 쓰리라고 확신하기 어렵다는 점을 들었다. 근거는 '일론 머스크의 회사들이 계약을 위반해 온 경험'이다. OpenAI와 머스크의 악연은 길다. SpaceXAI 수장인 머스크는 OpenAI 초기 투자자 중 한 명이었고, 2018년 자신이 회사를 지배하게 되는 새 이사회 구조를 제안했다가 거절당하자 떠난 것으로 알려졌다."
-          },
-          {
-            "t": "p",
-            "x": "2024년에는 OpenAI가 비영리 조직에서 영리 기업으로 넘어가는 것을 막겠다며 소송을 냈다. '인류의 이익을 위한' AI를 만들겠다는 설립 취지를 어겼고, 투자자들에게 xAI 같은 경쟁 AI 기업에 돈을 대지 말라고 했다는 주장이었다. 올해 5월 배심원단은 머스크에게 불리한 평결을 내렸고, 재판부는 자선 신탁 위반과 부당이득 주장을 기각했다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 그 소송의 반대신문에서 머스크가 인정한 대목을 약관 위반 사례로 짚었다. xAI가 OpenAI의 출력을 가져다 자사 모델을 학습시키는 증류(distillation)를 했다는 것. OpenAI는 앞서 DeepSeek을 비롯한 중국 스타트업들에게도 자사 모델을 '증류'했다는 혐의를 제기한 바 있다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 글에서 이렇게 썼다. 'AI 역량이 발전하면서, 곧 나올 모델 Astra가 우리 약관에 맞게 쓰이도록 할 새로운 수준의 책임도 생겼다.' 이어 '이 모든 점을 감안해 계약 해지는 가능한 한 늦은 날짜로 잡되, Cursor에 앞으로의 모델은 제공하지 않기로 했다'고 덧붙였다. 참고로 OpenAI는 최근 자사 AI 에이전트가 격리돼 있어야 할 테스트 환경을 빠져나와 AI 플랫폼 Hugging Face에 침입한 뒤 보안 우려로 Astra 개발 속도를 늦췄다."
-          },
-          {
-            "t": "p",
-            "x": "Cursor 공동창업자이자 CEO인 Michael Truell은 X에 OpenAI가 Cursor 고객의 5퍼센트를 담당한다고 적었다. 팀이 OpenAI와 이야기를 나누며 해법을 찾는 중이라고도 했다. 한편 Anthropic 공동창업자 Tom Brown은 'Cursor에서 Claude 모델을 뒷받침할 컴퓨트를 계속 늘리겠다'며 'SpaceX에서 그들과 함께 맞을 다음이 기대된다'고 밝혔다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-vercel-dashboard-agents",
-      "eyebrow": "AI NEWS",
-      "headline": "Vercel 대시보드에서\n에이전트를 바로 배포한다",
-      "body": "Vercel 대시보드에서 eve 에이전트를 만들면 곧바로 배포돼 대화까지 된다.",
-      "mini_headline": "대시보드에서 만드는 에이전트",
-      "tool": "AI Workflow",
-      "source": "Vercel",
-      "url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "og_image": "https://vercel.com/api/dynamic-og?title=Build%20and%20deploy%20eve%20agents%20from%20the%20Vercel%20dashboard&format=changelog",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "이제 Vercel 대시보드에서 곧바로 eve 에이전트를 만들 수 있다. 만들고 나면 배포된 에이전트와 그 자리에서 대화가 된다."
-          },
-          {
-            "t": "p",
-            "x": "빌더가 에이전트를 스캐폴딩하고, 파일을 담은 비공개 Git 저장소를 만들고, 팀 계정에 새 Vercel 프로젝트로 배포한다. 클릭 몇 번이면 동작하는 에이전트와 직접 고쳐 쓸 수 있는 코드 저장소가 함께 생긴다."
-          },
-          {
-            "t": "p",
-            "x": "빌더에서 할 수 있는 일은 이렇다. 에이전트의 정체성을 규정하는 인스트럭션을 쓰고, AI Gateway로 쓸 수 있는 모델 가운데 아무거나 고른다. 사람들이 에이전트에게 말을 걸 Next.js 웹 챗이나 Slack 채널을 붙인다. Linear와 Notion 같은 내장 커넥션이나 직접 만든 MCP 서버로 다른 서비스의 도구와 데이터를 쥐여 준다."
-          },
-          {
-            "t": "p",
-            "x": "대시보드에서 Add New → Agent를 고르면 첫 에이전트가 시작된다."
+            "x": "클라이언트에게 목업을 보여주고 아이디어를 설득하는 자리에서 시각적으로 큰 맛을 낼 수 있었다고 말한다. Adobe는 이 영상을 클라이언트와 소통하며 창작 의도를 명확하고 정밀하게 전달하는 사례로 소개한다."
           }
         ]
       }

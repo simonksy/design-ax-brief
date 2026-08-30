@@ -1,248 +1,178 @@
 {
- "date": "2026-08-30",
- "section": "design",
- "now_iso": "2026-08-29T22:00:27Z",
- "window_hours": 72,
- "items": [
-  {
-   "category": "figma",
-   "title": "What Blade Runner got wrong about AI (so far)",
-   "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1",
-   "source": "UX Collective",
-   "published_iso": "2026-08-27T20:22:49+00:00",
-   "excerpt": "Blade Runner promised rain, ziggurats and androids; the real machine arrived as a blank box to type into. The essay grades the film's design forecast and argues where AI interfaces are actually heading.",
-   "og_image": "https://cdn-images-1.medium.com/max/1024/1*a8cp1y4kq63ABYEALRNWEw.png",
-   "why": "A designer-facing argument about what AI interfaces really look like — useful framing for anyone shipping AI UI."
-  },
-  {
-   "category": "figma",
-   "title": "Run Claude Managed Agents with Chat SDK",
-   "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
-   "source": "Vercel",
-   "published_iso": "2026-08-28T00:00:00+00:00",
-   "excerpt": "Vercel's Chat SDK now supports Claude Managed Agents, so teams can wire a hosted coding/design agent straight into a chat UI without building the orchestration layer themselves.",
-   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5J9K0yMb2QBjhFEDYAIVU8/bc58a86473c508356dafb852ff04617c/Claude_-_ChatSDK.png",
-   "why": "Lowers the bar for design engineers to ship agent-driven product surfaces."
-  },
-  {
-   "category": "figma",
-   "title": "Build and deploy eve agents from the Vercel dashboard",
-   "url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard",
-   "source": "Vercel",
-   "published_iso": "2026-08-28T00:00:00+00:00",
-   "excerpt": "Agents can now be created, configured and deployed directly from the Vercel dashboard, no local scaffolding required.",
-   "og_image": "https://vercel.com/api/dynamic-og?title=Build%20and%20deploy%20eve%20agents%20from%20the%20Vercel%20dashboard&format=changelog",
-   "why": "Prompt-to-agent from a GUI puts agent building inside a designer's reach."
-  },
-  {
-   "category": "figma",
-   "title": "The best workflow engine is a programming language",
-   "url": "https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language",
-   "source": "Vercel",
-   "published_iso": "2026-08-27T07:00:00+00:00",
-   "excerpt": "Vercel argues that durable AI workflows belong in ordinary code rather than in a bespoke visual workflow builder — a direct challenge to node-graph automation tools.",
-   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3h6sJz0ibk8nxTTNDgLUfn/070193d70e4380485c2d47c9526eca89/image__30_.png",
-   "why": "Reframes how creative/product teams should structure their AI automation stack."
-  },
-  {
-   "category": "tokens",
-   "title": "Why AI Websites All Look the Same and How to Build Something Different",
-   "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan",
-   "source": "DEV Community",
-   "published_iso": "2026-08-29T01:38:54Z",
-   "excerpt": "A breakdown of why prompt-generated sites converge on the same gradient-and-card aesthetic, and the constraints, tokens and references that push AI output off the default.",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F14u0rkyv2g9bzxrkv1wu.png",
-   "why": "AI slop homogenisation is the core craft problem for designers using generative UI tools."
-  },
-  {
-   "category": "tokens",
-   "title": "Teaching AI Design: Golden Ratios & Modular UI Blocks in LuxurAI",
-   "url": "https://dev.to/achyut_srivastava_2a77b5d/teaching-ai-design-golden-ratios-modular-ui-blocks-in-luxurai-5b26",
-   "source": "DEV Community",
-   "published_iso": "2026-08-29T05:03:44Z",
-   "excerpt": "A build log on encoding classical proportion rules and modular block systems into an AI generator so its output follows design-system logic instead of guesswork.",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1507238691740-187a5b1d37b8%3Ffm%3Djpg%26fit%3Dcrop%26w%3D1200%26q%3D80",
-   "why": "Concrete method for making an AI obey design rules — the token/system-as-guardrail pattern."
-  },
-  {
-   "category": "tokens",
-   "title": "Style Consistency Across AI Image Sets: The Prompt Habits That Make Ten Images Look Like One Brand",
-   "url": "https://dev.to/aivideogeneratorfree/style-consistency-across-ai-image-sets-the-prompt-habits-that-make-ten-images-look-like-one-brand-13cj",
-   "source": "DEV Community",
-   "published_iso": "2026-08-29T19:11:09Z",
-   "excerpt": "Practical prompt discipline for holding one visual identity across a whole set of generated images rather than ten unrelated one-offs.",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fli7ogsjt4v2tiykmg6vu.png",
-   "why": "Brand consistency is the #1 blocker to shipping generative imagery in real campaigns."
-  },
-  {
-   "category": "render",
-   "title": "How Tripo Is Tackling Clean Topology for its 3D Asset Pipeline",
-   "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
-   "source": "80 Level",
-   "published_iso": "2026-08-28T15:00:00+00:00",
-   "excerpt": "Tripo co-founder Dr. Yanpei Cao explains Smart Mesh — generating usable, animation-ready topology in seconds — and the company's push from single assets toward complete interactive worlds.",
-   "og_image": "https://cdn.80.lv/api/upload/meta/49865/images/6a8caa21e033b/contain_1200x630.jpg",
-   "why": "Clean topology is the gate between AI 3D output and a real production pipeline."
-  },
-  {
-   "category": "render",
-   "title": "The power of on-premises open-weight models for generative media",
-   "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
-   "source": "fxguide",
-   "published_iso": "2026-08-28T10:43:50-05:00",
-   "excerpt": "Why studios are moving generative image and video work onto local open-weight models — control over data, IP and look, without sending client material to a cloud API.",
-   "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-OpenWeights.jpg",
-   "why": "On-prem generative media changes what creative studios can legally and safely ship."
-  },
-  {
-   "category": "wildcard",
-   "title": "Adobe just added a brand new AI-assisted editor to Photoshop",
-   "url": "https://www.creativebloq.com/design/design-software/adobe-just-added-a-brand-new-ai-assisted-editor-to-photoshop",
-   "source": "Creative Bloq",
-   "published_iso": "2026-08-27T13:00:00Z",
-   "excerpt": "Adobe appears to be fully embracing prompt-based editing in Photoshop with a new AI-assisted editor that takes written markup and instructions directly on the canvas.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/gcxqpJupoHi2PGXgAHX4j-1440-80.jpg",
-   "why": "Photoshop is the default surface for most visual designers; prompt-first editing changes daily craft."
-  },
-  {
-   "category": "wildcard",
-   "title": "The $3.4m Disney auction is a reminder of what AI concept art takes from us",
-   "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
-   "source": "Creative Bloq",
-   "published_iso": "2026-08-29T12:08:13Z",
-   "excerpt": "A record-breaking auction of original Disney concept art becomes an argument about what is lost when concept development collapses into a prompt.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1920-80.jpg",
-   "why": "The clearest current framing of AI's cost to concept-art craft and its market value."
-  },
-  {
-   "category": "wildcard",
-   "title": "\"Unsettling\" - Nvidia's controversial DLSS 5 AI filter has leaked, and gamers are horrified",
-   "url": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
-   "source": "Creative Bloq",
-   "published_iso": "2026-08-28T14:54:43Z",
-   "excerpt": "A leaked DLSS 5 AI filter that reinterprets rendered frames has drawn a backlash over how far generative post-processing should be allowed to alter an artist's intended image.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/DFQGA2GdkgQRVqhL7bZ5uk-1920-80.jpg",
-   "why": "Real-time generative post-processing puts art direction in the hands of the GPU."
-  },
-  {
-   "category": "workflow",
-   "title": "Google further buries search results under AI mode",
-   "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-   "source": "The Verge",
-   "published_iso": "2026-08-28T22:48:11+00:00",
-   "excerpt": "Google is auto-expanding AI Overviews so generated answers push traditional blue links further down the page, reshaping how any designed web page gets discovered.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "why": "Changes the distribution reality for every website designers build."
-  },
-  {
-   "category": "cad",
-   "title": "Hugging Face's new robot is an adorable rollerskating duck",
-   "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-   "source": "The Verge",
-   "published_iso": "2026-08-27T13:44:00+00:00",
-   "excerpt": "Hugging Face's open-source MicroDuck is a small rollerskating robot aimed at makers — an open hardware platform for embodied AI experiments.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/microduck-kickabout.jpg?quality=90&strip=all&crop=0%2C3.5508121895556%2C100%2C92.898375620889&w=1200",
-   "why": "Cheap open embodied-AI hardware is where physical product designers can start prototyping."
-  },
-  {
-   "category": "workflow",
-   "title": "Google's AI note-taking app now allows you to interact with books",
-   "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-   "source": "The Verge",
-   "published_iso": "2026-08-27T19:30:00+00:00",
-   "excerpt": "Google's notebook app adds expert sources including full books, letting research grounding come from vetted material rather than scraped web pages.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "why": "Better-grounded AI research changes the discovery phase of design work."
-  },
-  {
-   "category": "workflow",
-   "title": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
-   "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/",
-   "source": "Engadget",
-   "published_iso": "2026-08-29T14:58:40+00:00",
-   "excerpt": "OpenAI plans to cut off Cursor's access to its models on November 12, 2026, forcing everyone who prototypes UI in Cursor onto a different model lineup.",
-   "og_image": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
-   "why": "Directly changes the model options inside the IDE many design engineers ship from."
-  },
-  {
-   "category": "workflow",
-   "title": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
-   "url": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/",
-   "source": "Engadget",
-   "published_iso": "2026-08-29T18:52:22+00:00",
-   "excerpt": "Music publishing groups allege thousands of instances of copyright infringement, escalating the legal fight over what creative material AI models may be trained on.",
-   "og_image": "https://www.engadget.com/img/gallery/sony-and-warner-sue-anthropic-for-blatant-violation-of-copyright-law/l-intro-1788029514.jpg",
-   "why": "Training-data rulings set the ground rules for what creatives can legally generate and ship."
-  },
-  {
-   "category": "workflow",
-   "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-   "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-   "source": "VentureBeat",
-   "published_iso": "2026-08-27T14:01:00+00:00",
-   "excerpt": "The hard problem is not a single rogue agent but the unpredictable interactions between many agents cascading through an organisation's systems and handoffs.",
-   "og_image": null,
-   "why": "Design orgs adding agents to their workflow inherit exactly this handoff problem."
-  },
-  {
-   "category": "workflow",
-   "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 - without the frontier price tag",
-   "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
-   "source": "VentureBeat",
-   "published_iso": "2026-08-28T16:33:00+00:00",
-   "excerpt": "Meta's EvoHarness-RL trains an 8B model to manage its own workspace and tool use, matching Claude Opus 4.5 on agentic tasks at a fraction of the cost.",
-   "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/74qlOTYyXbU8te5ugdb5DX/f6696a755ed1db9f3a43cdb5ec9219c8/AI_harness.jpg?w=1000&q=100",
-   "why": "Cheap small models make always-on agents affordable inside design tooling."
-  },
-  {
-   "category": "workflow",
-   "title": "Shadow agents make the old shadow IT problem worse",
-   "url": "https://www.cio.com/article/4214992/shadow-agents-make-the-old-shadow-it-problem-worse.html",
-   "source": "CIO",
-   "published_iso": "2026-08-28T10:00:00+00:00",
-   "excerpt": "Teams are spinning up unsanctioned AI agents faster than IT can inventory them, recreating shadow IT with far more autonomy attached.",
-   "og_image": "https://www.cio.com/wp-content/uploads/2026/08/4214992-0-52892200-1787911405-collin-8FxJi5wuwKc-unsplash.jpg?quality=50&strip=all&w=1024",
-   "why": "Design teams building their own agents are the shadow-agent problem — governance is coming."
-  },
-  {
-   "category": "cad",
-   "title": "Atomica introduces AI Thermal Microstructures Platform",
-   "url": "https://www.engineering.com/atomica-introduces-ai-thermal-microstructures-platform/",
-   "source": "Engineering.com",
-   "published_iso": "2026-08-28T14:02:44+00:00",
-   "excerpt": "Atomica launched a platform for AI-designed thermal microstructures, applying generative methods to the physical geometry of heat-management components.",
-   "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Atomica-introduces-AI-Thermal-Microstructures-Platform.jpg",
-   "why": "Generative geometry moving into real manufacturable hardware design."
-  },
-  {
-   "category": "cad",
-   "title": "Mastercam and ProShop partner on connected manufacturing workflows",
-   "url": "https://www.engineering.com/mastercam-and-proshop-partner-on-connected-manufacturing-workflows/",
-   "source": "Engineering.com",
-   "published_iso": "2026-08-27T10:10:52+00:00",
-   "excerpt": "A CAM and ERP integration that keeps design intent, tooling and shop-floor data connected across the manufacturing chain.",
-   "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Mastercam-ProShop-2.jpg",
-   "why": "Design-to-manufacture handoff automation for product/industrial designers."
-  },
-  {
-   "category": "social",
-   "title": "My agent army writes Code Connect | Dev Mindset",
-   "url": "https://www.youtube.com/watch?v=KhyLHeGpWFA",
-   "source": "Figma (YouTube)",
-   "published_iso": "2026-08-27T04:00:26-07:00",
-   "excerpt": "A Figma engineer runs a fleet of coding agents to generate Code Connect mappings, showing what it looks like to supervise agents instead of writing the glue code yourself.",
-   "og_image": "https://i.ytimg.com/vi/KhyLHeGpWFA/maxresdefault.jpg",
-   "why": "Concrete demo of the design-system-to-code handoff being done by agents."
-  },
-  {
-   "category": "social",
-   "title": "The Billion Dollar AI Gap Is Collapsing",
-   "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-   "source": "Two Minute Papers (YouTube)",
-   "published_iso": "2026-08-28T02:44:44-07:00",
-   "excerpt": "Two Minute Papers walks through how quickly open and small models are closing on frontier systems, and what that means for anyone building on top of them.",
-   "og_image": "https://i.ytimg.com/vi/LBiNcdGNgrg/maxresdefault.jpg",
-   "why": "If cheap models match frontier ones, creative tools get frontier quality by default."
-  }
- ]
+  "date": "2026-08-31",
+  "section": "design",
+  "now_iso": "2026-08-31T00:00:00Z",
+  "window_hours": 72,
+  "items": [
+    {
+      "category": "render",
+      "title": "How Tripo Is Tackling Clean Topology for its 3D Asset Pipeline",
+      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
+      "source": "80 Level",
+      "published_iso": "2026-08-28T15:00:00+00:00",
+      "excerpt": "Tripo co-founder Dr. Yanpei Cao explains Smart Mesh, which generates usable topology in seconds, and how the company is shifting from single generated assets toward production-ready, editable 3D for complete interactive worlds.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49865/images/6a8caa21e033b/contain_1200x630.jpg",
+      "why": "Generated 3D has been unusable downstream because of messy topology; if AI output arrives retopo-ready, the 3D artist's cleanup step disappears from the pipeline."
+    },
+    {
+      "category": "render",
+      "title": "The power of on-premises open-weight models for generative media",
+      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+      "source": "fxguide",
+      "published_iso": "2026-08-28T10:43:50-05:00",
+      "excerpt": "A look at adopting open-weight generative AI models on-premises, and how local deployment improves workflow stability, security, cost predictability, and delivery for creative studios.",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-OpenWeights.jpg",
+      "why": "Studios that can't send client footage to a cloud API get a real answer: run the model in-house. It changes who can adopt generative media at all."
+    },
+    {
+      "category": "render",
+      "title": "\"Unsettling\" – Nvidia's controversial DLSS 5 AI filter has leaked, and gamers are horrified",
+      "url": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
+      "source": "Creative Bloq",
+      "published_iso": "2026-08-28T14:54:43Z",
+      "excerpt": "An early build of Nvidia's DLSS 5 neural rendering filter has leaked, and the AI-repainted look it applies over game frames is dividing artists and players.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DFQGA2GdkgQRVqhL7bZ5uk-1920-80.jpg",
+      "why": "A driver-level AI filter can overwrite art direction after the artist has shipped it — the first real fight over who owns the final look of a rendered frame."
+    },
+    {
+      "category": "render",
+      "title": "The $3.4m Disney auction is a reminder of what AI concept art takes from us",
+      "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
+      "source": "Creative Bloq",
+      "published_iso": "2026-08-29T12:08:13Z",
+      "excerpt": "A record-breaking auction of original Disney concept art becomes an argument about what disappears when concept work is generated rather than drawn.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1920-80.jpg",
+      "why": "Concept art is the first craft AI fully absorbed; this puts a price tag on the artifact-and-provenance side designers are trading away."
+    },
+    {
+      "category": "workflow",
+      "title": "If Apple and Spotify are cracking down on AI slop, why can't YouTube?",
+      "url": "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer",
+      "source": "Creative Bloq",
+      "published_iso": "2026-08-30T10:00:00Z",
+      "excerpt": "Apple and Spotify have started policing AI-generated filler on their platforms while YouTube has not — an argument about why the incentives differ.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kLotpGooqDCMWf8JaWAHWV-1698-80.jpg",
+      "why": "Platform slop policy decides whether human-made creative work still surfaces — distribution rules are now part of a designer's craft economics."
+    },
+    {
+      "category": "workflow",
+      "title": "Run Claude Managed Agents with Chat SDK",
+      "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
+      "source": "Vercel",
+      "published_iso": "2026-08-28T00:00:00+00:00",
+      "excerpt": "Vercel shows how to ship a Slack research bot on Claude Managed Agents and the Chat SDK: one persistent session per thread, streamed briefs with sources, and no Slack credentials to manage.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5J9K0yMb2QBjhFEDYAIVU8/bc58a86473c508356dafb852ff04617c/Claude_-_ChatSDK.png",
+      "why": "Agent UI is becoming a template you assemble, not a product you design from scratch — the interface layer for agents is getting commoditized."
+    },
+    {
+      "category": "workflow",
+      "title": "Hy4 Preview now available on AI Gateway",
+      "url": "https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "published_iso": "2026-08-28T00:00:00+00:00",
+      "excerpt": "Tencent's Hy4 Preview can now be called through Vercel AI Gateway with a single API key — no provider account, with automatic fallbacks, spend tracking and per-request traces.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/iajKgHHs29vQXYUZMuMOy/061c4066e956c6ecb840b3a697cd97d2/image__100_.png",
+      "why": "Model choice keeps collapsing into one key behind a gateway, so swapping the engine under a design tool stops being an engineering project."
+    },
+    {
+      "category": "tokens",
+      "title": "Structuring Variables in Figma",
+      "url": "https://dev.to/planetabhi_/structuring-variables-in-figma-32d8",
+      "source": "DEV Community",
+      "published_iso": "2026-08-29T08:04:14Z",
+      "excerpt": "A practical scheme for organising Figma variables — primitives, semantic aliases, collections and modes — so a UI library stays scalable as projects grow.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbxrp072bsm5p1i21wi9.webp",
+      "why": "A named, closed set of variables is exactly what keeps a generating agent from inventing values — token structure is now the guardrail, not the housekeeping."
+    },
+    {
+      "category": "render",
+      "title": "A Measurement-First Workflow for Evaluating AI Interior Concepts",
+      "url": "https://dev.to/physicsai/a-measurement-first-workflow-for-evaluating-ai-interior-concepts-4h25",
+      "source": "DEV Community",
+      "published_iso": "2026-08-30T02:52:40Z",
+      "excerpt": "AI image systems produce plausible interiors that quietly break real dimensions; this proposes measuring the generated concept against the actual room before anyone falls in love with the render.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8obez9gebnhzuvfg4pnz.png",
+      "why": "Generated concepts look buildable and aren't; putting measurement before taste is the missing review step for AI visualisation."
+    },
+    {
+      "category": "workflow",
+      "title": "Designing An AI 3D Logo Maker Around Two Clear Input Contracts",
+      "url": "https://dev.to/ethanjamescolez/designing-an-ai-3d-logo-maker-around-two-clear-input-contracts-5a5f",
+      "source": "DEV Community",
+      "published_iso": "2026-08-30T21:51:01Z",
+      "excerpt": "The argument that the most consequential decision in an AI 3D logo tool isn't the model picker but the input contract — what the user is allowed to hand the system, and in what shape.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhg4zsbguvt8ow1n7csb.png",
+      "why": "For generative design tools the real design work has moved to the input surface — what you constrain up front determines the output more than the model does."
+    },
+    {
+      "category": "figma",
+      "title": "Source Material: i-D Magazine's Editor in Chief Is Not Afraid of Visual Chaos",
+      "url": "https://www.figma.com/blog/source-material-i-d-magazine-editor-in-chief-thom-bettridge/",
+      "source": "Figma",
+      "published_iso": "2026-08-28T19:00:00.000Z",
+      "excerpt": "Thom Bettridge walks through the magazines that shaped his taste and the design rules he breaks most often, in Figma's Source Material series.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbd715863ae9596492a6b6eda14af49a9b802de-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+      "why": "As tools converge on the same clean defaults, a working editor's case for deliberate visual chaos is the counterweight designers need."
+    },
+    {
+      "category": "social",
+      "title": "The Making of i-D Magazine's 375 \"The Beta Issue\" — Designed in Figma",
+      "url": "https://www.youtube.com/shorts/Y_78H41mw4A",
+      "source": "Figma (YouTube)",
+      "published_iso": "2026-08-30T08:55:29-07:00",
+      "excerpt": "Thom Bettridge shares the inspiration and process behind i-D Magazine's 375 \"The Beta Issue,\" taking the phrase \"youth culture magazine\" as literally as possible — laid out in Figma.",
+      "og_image": "https://i.ytimg.com/vi/Y_78H41mw4A/maxresdefault.jpg",
+      "why": "A print magazine built in a product-design tool shows how far Figma has drifted from UI into general-purpose art direction."
+    },
+    {
+      "category": "social",
+      "title": "The Unlock | Product Mockups with Badal Patel",
+      "url": "https://www.youtube.com/watch?v=IlbD1rRIZLI",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "published_iso": "2026-08-28T15:03:13-07:00",
+      "excerpt": "Badal Patel of Super Spicy studio walks through his product-mockup approach, combining Adobe Firefly generation with hands-on Photoshop work.",
+      "og_image": "https://i.ytimg.com/vi/IlbD1rRIZLI/maxresdefault.jpg",
+      "why": "A working graphic designer showing exactly where he lets Firefly in and where he doesn't — the practical division of labour, not the pitch."
+    },
+    {
+      "category": "vr",
+      "title": "As VR Gaming Looks for New Footing, the Out-of-Home XR Entertainment Space is Still Building",
+      "url": "https://roadtovr.com/as-vr-gaming-looks-for-new-footing-the-out-of-home-xr-entertainment-space-is-still-building/",
+      "source": "Road to VR",
+      "published_iso": "2026-08-28T20:07:57+00:00",
+      "excerpt": "With consumer VR gaming unsettled, investment and development attention is shifting to location-based XR attractions as the next viable design space.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/08/hado.jpg",
+      "why": "Where XR money goes decides what XR designers get to make; venue-scale experiences are a very different design brief from headset apps."
+    },
+    {
+      "category": "vr",
+      "title": "Meta Is Working To Spin Off Worlds From The Horizon Mobile App",
+      "url": "https://www.uploadvr.com/meta-is-working-to-spin-off-worlds-from-the-horizon-mobile-app/",
+      "source": "UploadVR",
+      "published_iso": "2026-08-29T06:34:14.000Z",
+      "excerpt": "Datamining suggests Meta is preparing to split Horizon Worlds into its own mobile app, leaving the current Horizon app dedicated to XR headsets.",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/08/Meta-Horizon-2.webp",
+      "why": "Splitting the app splits the design problem: a phone-first social world and a headset companion stop being able to share one interface."
+    },
+    {
+      "category": "workflow",
+      "title": "This shirt is like an AI invisibility cloak",
+      "url": "https://www.fastcompany.com/91595636/this-shirt-is-like-an-ai-invisibility-cloak",
+      "source": "Fast Company",
+      "published_iso": "2026-08-29T10:00:00+00:00",
+      "excerpt": "Designer Simon Weckert's garment uses a deliberately wacky pattern that works as camouflage against AI vision systems.",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91595636-digital-camo-shirt.jpg",
+      "why": "Pattern design as a functional interface to machine perception — a concrete example of designing for the model as an audience."
+    },
+    {
+      "category": "workflow",
+      "title": "How Apple made its charming claymation Mac mini ad",
+      "url": "https://www.fastcompany.com/91597464/how-apple-made-its-charming-claymation-mac-mini-ad",
+      "source": "Fast Company",
+      "published_iso": "2026-08-28T10:00:00+00:00",
+      "excerpt": "Apple's new Mac mini spot was built entirely from physical materials — a claymation choice that says a lot about where its advertising is heading.",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/p-2-91597464-apple-mac-mini-film.jpg",
+      "why": "Handmade is becoming a signal: when generated imagery is free, visible physical craft is what an ad spends money to prove."
+    }
+  ]
 }

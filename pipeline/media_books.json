@@ -1,30 +1,11 @@
 {
   "section": "books",
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "media": [
-    {
-      "id": "books-copyright-registration-gap",
-      "type": "image",
-      "src": "pipeline/media/books-copyright-registration-gap.jpg"
-    },
-    {
-      "id": "books-manga-million-translation",
-      "type": "image",
-      "src": "pipeline/media/books-manga-million-translation.jpg"
-    },
-    {
-      "id": "books-childrens-book-slop",
-      "type": "image",
-      "src": "pipeline/media/books-childrens-book-slop.jpg"
-    },
-    {
-      "id": "books-academic-ai-screening",
-      "type": "svg"
-    },
-    {
-      "id": "books-bartz-ai-thriller",
-      "type": "image",
-      "src": "pipeline/media/books-bartz-ai-thriller.jpg"
-    }
+    {"id": "books-hathitrust-transparent-books", "type": "image", "src": "pipeline/media/books-hathitrust-transparent-books.jpg"},
+    {"id": "books-writer-beware-ai-scams", "type": "image", "src": "pipeline/media/books-writer-beware-ai-scams.jpg"},
+    {"id": "books-japan-literary-prize-ai-flood", "type": "image", "src": "pipeline/media/books-japan-literary-prize-ai-flood.jpg"},
+    {"id": "books-vietnam-ai-labelling-law", "type": "image", "src": "pipeline/media/books-vietnam-ai-labelling-law.png"},
+    {"id": "books-ccc-fair-use-training-part3", "type": "image", "src": "pipeline/media/books-ccc-fair-use-training-part3.jpg"}
   ]
 }

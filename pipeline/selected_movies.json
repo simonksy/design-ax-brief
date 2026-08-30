@@ -1,121 +1,98 @@
 {
-  "date": "2026-08-30",
   "section": "movies",
-  "selected_by": "curator (user deferred)",
-  "pool_size": 10,
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:00:00Z",
+  "selection_mode": "curator_auto",
+  "dedup": {
+    "published_days_checked": ["2026-08-30", "2026-08-29", "2026-08-28", "2026-08-27", "2026-08-26", "2026-08-25"],
+    "published_cards_compared": 30,
+    "candidates_in": 21,
+    "dropped_as_duplicate": 0,
+    "dropped_cross_section": 1,
+    "dropped_details": [
+      {
+        "note": "80.lv Tripo topology article removed upstream by orchestrator — already published 2026-08-29 in the games section (cross-section collision)."
+      }
+    ],
+    "near_misses_kept": [
+      {
+        "url": "https://nofilmschool.com/adobe-firefly-audio-tools",
+        "why_kept": "Adobe adjacency to 2026-08-30 'Adobe unveils new Photoshop AI tools' (awn.com), but different outlet, different release (Firefly Generate Music/Speech/SFX GA vs Photoshop Light Adjustment Layer / Instruct Edit) — distinct story."
+      },
+      {
+        "url": "https://vfxvoice.com/creating-continuity-across-decades-for-the-house-of-the-spirits/",
+        "why_kept": "Thematically near 2026-08-29 CineD de-aging piece but a different production/vendor story; not selected on score, not on dedup."
+      }
+    ],
+    "unique_urls_in_final": 5,
+    "outlets_in_final": 5,
+    "max_cards_per_outlet": 1
+  },
   "picks": [
     {
-      "category": "movies",
+      "id": "movies-utopai-ai-native-slate",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Adobe Unveils New Photoshop AI Tools",
-      "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools",
-      "source": "Animation World Network",
-      "published_iso": "2026-08-27T14:44:19+00:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=4UVjZuUc",
-      "excerpt": "Tech giant's flagship image editor gains a non-destructive Light Adjustment Layer, Firefly Image 5-powered Instruct Edit with Masks, visual Markup prompting, and a beta AI Assisted Editor in latest update.",
-      "rationale": "The concrete shipping release of the week — non-destructive light layers, masked instruct edits and draw-on-the-image Markup change how concept and matte work gets done tomorrow."
+      "headline": "Utopai Is 'World's Largest Independent AI-Native Film and TV Studio,' Will Premiere 3 Movies and 2 Series in 2027",
+      "url": "https://variety.com/2026/biz/news/utopai-worlds-largest-independent-ai-native-film-tv-studio-will-premiere-3-movies-2-series-in-2027-1236844803/",
+      "source": "Variety",
+      "published_iso": "2026-08-27T16:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Utopai_Banner_169_HD.png?w=1000&h=563&crop=1",
+      "excerpt": "Utopai Studios says it has 25 original projects in production on its AI-native pipeline, with three films and two series slated for 2027 premieres.",
+      "rationale": "A dated, committed slate — 25 projects, 2027 premieres — turns the AI-native studio from demo reel into a delivery schedule creative teams can plan against."
     },
     {
-      "category": "movies",
+      "id": "movies-firefly-audio-tools",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "The power of on-premises open-weight models for generative media",
-      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
-      "source": "fxguide",
-      "published_iso": "2026-08-28T10:43:50-05:00",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-OpenWeights.jpg",
-      "excerpt": "An look at adopting generative AI open-weight models and how they can improve workflow stability, security, cost predictability, and delivery efficiency.",
-      "rationale": "Freshest item in the pool and the practical counter-argument to API dependence: run open weights in-house for version stability, client-safe security and predictable cost per delivery."
+      "headline": "Adobe Firefly Overhauls Its Audio Capabilities With Music, Speech, and Sound Effects All Now in One Place",
+      "url": "https://nofilmschool.com/adobe-firefly-audio-tools",
+      "source": "No Film School",
+      "published_iso": "2026-08-25T19:50:05+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67674816&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "excerpt": "Firefly's Generate Music, Generate Speech and Generate Sound Effects go generally available, sized to a video's length and mood, with ElevenLabs voices as an option.",
+      "rationale": "The most directly actionable release in the pool: temp score, scratch VO and SFX move next to the picture edit, collapsing an outsourced post step to a same-day task."
     },
     {
-      "category": "movies",
+      "id": "movies-tippett-studio-closing",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "What the Hell Is Indie Slop? How the Video Game Insult Found Indie Film",
-      "url": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/",
-      "source": "IndieWire",
-      "published_iso": "2026-08-21T20:42:02+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDIRLU_EC006_ece4a3.jpg?w=650",
-      "excerpt": "The term \"indie slop\" migrated from video games to film, turning market anxiety, AI fears, and contempt for amateur filmmakers into slang. Commentary.",
-      "rationale": "Names the vocabulary audiences are now using to dismiss low-budget work — the reputational risk attached to AI-assisted filmmaking, not the tooling."
+      "headline": "Phil Tippett Closes Berkeley Studio After Nearly 40 Years",
+      "url": "https://www.cartoonbrew.com/auctions/tippett-studio-closing-auction-266120.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-08-29T16:05:56Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Tippett-Auction.jpg",
+      "excerpt": "The Oscar-winning animation and VFX pioneer is auctioning decades of artifacts as he closes his Berkeley studio, though he says he won't retire: “I will die with my sword in my hand.”",
+      "rationale": "The freshest item in the pool and the loudest signal on craft economics — a landmark practical-effects house folding while generated creature work scales."
     },
     {
-      "category": "movies",
+      "id": "movies-tilly-norwood-disclosure",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "Six thousand people made a three-minute film about a future worth living in",
-      "url": "https://beforesandafters.com/2026/08/25/six-thousand-people-made-a-three-minute-film-about-a-future-worth-living-in/",
-      "source": "befores & afters",
-      "published_iso": "2026-08-24T22:09:30+00:00",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/moonshots3.jpeg",
-      "excerpt": "Ten of them present live on Sept 25 in downtown LA. The winner leaves with a $2.5M grant to go make it for real.",
-      "rationale": "A three-minute film as the pitch format itself — 6,000 entries and a $2.5M grant show short-form video moving from portfolio piece to funding instrument."
+      "headline": "“Saying you're working with AI is like saying you have an STD,” argues Tilly Norwood creator",
+      "url": "https://www.screendaily.com/news/saying-youre-working-with-ai-is-like-saying-you-have-an-std-argues-tilly-norwood-creator/5219747.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-08-26T14:30:00Z",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/8/7/1/1485871_unknown1_314055_crop.jpg",
+      "excerpt": "Eline van der Velden says she has signed hundreds of NDAs with companies quietly exploring AI, and urges public broadcasters to invest openly in the space.",
+      "rationale": "Names the disclosure taboo with hard evidence — hundreds of NDAs — which is exactly the question every team now has to answer about documenting its own pipeline."
     },
     {
-      "category": "movies",
+      "id": "movies-flying-bark-avatar-aang",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "I Can't Believe This AI Video Generator is Free",
-      "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
-      "source": "Curious Refuge (YouTube)",
-      "published_iso": "2026-08-18T12:28:05-07:00",
-      "og_image": "https://i.ytimg.com/vi/qv0s1_coX50/maxresdefault.jpg",
-      "excerpt": "",
-      "rationale": "A zero-cost generator walked through by a filmmaking channel — the cheapest way to test whether generative video belongs in a current pipeline."
+      "headline": "Flying Bark Enters the Avatar State with 'Avatar Aang: The Last Airbender'",
+      "url": "https://www.awn.com/animationworld/flying-bark-enters-avatar-state-avatar-aang-last-airbender",
+      "source": "Animation World Network",
+      "published_iso": "2026-08-28T23:31:07Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081103-avataraangthelastairbender3840x16080016-1280-1280.jpg?itok=NSBMCYfr",
+      "excerpt": "Animation director Christian Barkel and CEO Barbara Stephen break down the hybrid 2D/CG workflow behind the new feature: three years of new tools, no rigs, and every movement drawn by hand.",
+      "rationale": "A studio that spent three years building custom tooling to keep hand-drawn motion at feature scale — the concrete counter-case to 'automate it', with the pipeline shown."
     }
-  ],
-  "dedup": {
-    "checked_against": "news_data.json → sections.movies (today 2026-08-29 + days 2026-08-22/24/25/26/27/28)",
-    "dropped": [
-      {
-        "title": "Photoshop AI Assisted Editor: Markup tool arrives",
-        "url": "https://www.redsharknews.com/adobe-photoshop-ai-assisted-editor-markup",
-        "reason": "Same Adobe Photoshop AI release as the AWN pick (librarian flag). Kept the AWN write-up, which covers the whole update (Light Adjustment Layer, Instruct Edit with Masks, Markup, AI Assisted Editor beta) rather than one tool."
-      },
-      {
-        "title": "How Tripo Is Tackling Clean Topology for its 3D Asset Pipeline",
-        "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
-        "reason": "Cross-section repeat: same 80.lv article already published today-1 as games-tripo-topology (2026-08-29, url differs only by trailing slash). Would surface the identical story twice on the site."
-      },
-      {
-        "title": "Motion Picture Association Strikes Deal with ByteDance for IP Protections in AI Video, Image Models",
-        "url": "https://variety.com/2026/biz/news/motion-picture-association-deal-bytedance-ip-ai-seedance-1236836240/",
-        "reason": "Same event already recapped inside published card movies-apple-headsup (2026-08-25), whose summary explicitly covers the MPA–ByteDance IP-protection MOU. Also stale (08-17)."
-      },
-      {
-        "title": "FOR-A to show practical solutions for the industry at IBC2026",
-        "url": "https://www.provideocoalition.com/for-a-to-show-practical-solutions-for-the-industry-at-ibc2026/",
-        "reason": "Vendor booth PR with no AI substance; also the fourth IBC2026 preview beat in this section after movies-media-composer-2026-8 and movies-editshare-flow-ai."
-      },
-      {
-        "title": "Animaze 2026 Unveils Programming Highlights & First-Ever AI Animation Forum",
-        "url": "https://animationmagazine.net/2026/08/animaze-2026-unveils-programming-highlights-first-ever-ai-animation-forum",
-        "reason": "Not a duplicate — cut on merit. Festival programming announcement (08-17) with no actionable change for a working filmmaker; ranked below all five picks."
-      }
-    ],
-    "notes": "fxguide 'on-premises open-weight models' was checked against published movies-impossible-objects (2026-08-25, fxguide, HP ZGX Nano case study). Kept: different article, different subject — the published card is one studio's hardware story, this one is the general open-weights adoption argument. No shared URL among the final 5."
-  },
-  "diversity": {
-    "outlets": [
-      "Animation World Network",
-      "fxguide",
-      "IndieWire",
-      "befores & afters",
-      "Curious Refuge (YouTube)"
-    ],
-    "max_per_outlet": 1,
-    "topic_spread": [
-      "tool release",
-      "studio infrastructure",
-      "criticism / discourse",
-      "funding & format",
-      "free tool walkthrough"
-    ]
-  }
+  ]
 }

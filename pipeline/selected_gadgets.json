@@ -1,61 +1,112 @@
 {
-  "date": "2026-08-30",
   "section": "gadgets",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T00:00:00Z",
+  "selection_mode": "curator_auto",
+  "dedup": {
+    "candidates_in": 24,
+    "published_days_checked": 6,
+    "published_cards_checked": 30,
+    "dropped": 6,
+    "dropped_items": [
+      {
+        "title": "IFA 2026: Here's what to expect from the tech show",
+        "url": "https://www.androidauthority.com/what-to-expect-ifa-2026-3701444/",
+        "reason": "within-pool duplicate of the Tom's Guide IFA 2026 preview (same event, reworded roundup); also low novelty preview content"
+      },
+      {
+        "title": "What to expect at IFA 2026: AI everywhere, robots, laptops evolved, smarter homes and more",
+        "url": "https://www.tomsguide.com/tech-events/ifa-2026-what-to-expect",
+        "reason": "kept as the stronger of the two IFA previews but still dropped: evergreen-ish preview, and IFA 2026 was already framed in the published 2026-08-28 card 'gadgets-plaud-one'"
+      },
+      {
+        "title": "Did Google Glass Wearers Actually Get Punched in the Face?",
+        "url": "https://gizmodo.com/did-google-glass-wearers-actually-get-punched-in-the-face-2000804594",
+        "reason": "same smart-glasses-backlash topic cluster already published on 2026-08-25 ('gadgets-glasses-detector-app') and 2026-08-28 ('gadgets-meta-led'); retrospective, no new event"
+      },
+      {
+        "title": "Meta smart glasses ban trend is catching steam in the US, and an NY nightclub just set the ball rolling",
+        "url": "https://www.digitaltrends.com/wearables/meta-smart-glasses-ban-trend-is-catching-steam-in-the-us-and-an-ny-nightclub-just-set-the-ball-rolling/",
+        "reason": "same smart-glasses recording-backlash story already covered by published 'gadgets-glasses-detector-app' (08-25) and 'gadgets-meta-led' (08-28)"
+      },
+      {
+        "title": "New Dev Tool From Meta Enables AI to Quickly Test Quest Games",
+        "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
+        "reason": "cross-section collision: VR game dev tooling belongs to the games/design sections, not device-native gadgets"
+      },
+      {
+        "title": "Arm Patents Method to Reduce XR Motion Sickness Using Ultrasound",
+        "url": "https://roadtovr.com/arm-patent-xr-motion-sickness-vestibular-stimulation-ultrasound/",
+        "reason": "cross-section collision risk with the design section's VR category (roadtovr is shared); also oldest item in pool (2026-08-24)"
+      }
+    ],
+    "notes": "No candidate matched a published gadgets URL. Content-level checks: 'iOS 27 reveals Apple TV 4K, HomePod' and 'CarPlay AI chatbot' are distinct from published 'gadgets-ios27-siri-app' (08-30) but were outscored, not dropped as dups. 'Apple Caught Off Guard by AI Demand' is a distinct story from published 'gadgets-apple-m6' (08-26, chip reveal) — demand/launch-timing report, kept. Final 5 use 5 distinct outlets, no domain repeats."
+  },
   "picks": [
     {
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-review",
-      "source": "Android Central",
+      "id": "gadgets-anthropic-hardware-standard",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "The first full review of Google's flagship: the Pixel 11 folds AI straight into social posting and capture, so it shows where on-device AI is landing in everyday product UX rather than in spec sheets.",
-      "published_iso": "2026-08-29T15:10:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/b5BJxHtKg6ZNPEksyUxVB9-2000-80.jpg",
-      "excerpt": "The Pixel 11 gets social with some interesting new tools — a full review of how Google blends social media features and AI magic into its new flagship."
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "source": "Ars Technica",
+      "published_iso": "2026-08-27T22:15:43+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
+      "excerpt": "Standardized driver interface aims to let devices talk to AI and each other.",
+      "rationale": "AI 에이전트가 실제 기기를 조작하는 표준 드라이버 규격 — 하드웨어 인터랙션 설계에 새 레이어가 생기는 이번 주 최대 뉴스."
     },
     {
-      "url": "https://9to5google.com/2026/08/27/gemini-intelligence-nano-4/",
-      "source": "9to5Google",
+      "id": "gadgets-oura-sleep-lawsuit",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Google quietly drew the hardware line for on-device AI: Gemini Intelligence needs Nano 3, and the first Nano 4 phones are already listed — the clearest signal yet of which devices will actually run next-gen local models.",
-      "published_iso": "2026-08-27T21:59:06+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-intelligence-3.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Following the launch of the Pixel 11 series, Google updated its developer documentation for Gemini Nano 4 — spelling out that Gemini Intelligence requires Nano 3 and naming the first Nano 4 devices."
+      "title": "Lawsuit says Oura sleep tracking has 'a coin flip's chance of being correct'",
+      "url": "https://www.zdnet.com/article/lawsuit-says-oura-sleep-tracking-has-a-coin-flips-chance-of-being-correct/",
+      "source": "ZDNET",
+      "published_iso": "2026-08-27T21:06:00.000Z",
+      "og_image": "https://www.zdnet.com/a/img/resize/2585e420b23dcfbe20e26f95009510d5da9b5ac3/2026/05/27/14322f9f-76e3-4684-a821-387d12dd2a3f/oura-ring-5-lifestyle-6-gold.png?auto=webp&fit=crop&height=675&width=1200",
+      "excerpt": "The class action lawsuit claims that Oura's sleep-tracking mechanisms sell 'faulty AI-based inference as reliable science.'",
+      "rationale": "AI 추론 점수를 '과학'처럼 보여주는 UI가 법정에 섰다 — 웨어러블 지표를 설계하는 사람에게 바로 걸리는 책임 문제."
     },
     {
-      "url": "https://www.engadget.com/2242748/how-to-use-the-new-siri-app-in-ios-27/",
-      "source": "Engadget",
+      "id": "gadgets-mac-ai-demand",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Apple's long-delayed assistant rebuild finally ships as a standalone app in iOS 27, and this is the hands-on walkthrough of what it can actually do — the most immediately usable item in the pool.",
-      "published_iso": "2026-08-29T13:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/how-to-use-the-new-siri-app-in-ios-27/l-intro-1787327971.jpg",
-      "excerpt": "A practical walkthrough of the new standalone Siri app in iOS 27 — what it handles, how it differs from the old assistant, and where the rebuilt experience still falls short."
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "source": "MacRumors",
+      "published_iso": "2026-08-30T08:52:05-07:00",
+      "og_image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+      "excerpt": "Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information. Apple normally releases new Mac models in the autumn, closer to October or November, making this week's announcement unusually early, falling just before the anticipated arrival of new iPhone models. The Information says that the AI-driven boom in Mac Studio and Mac mini sales is behind the early launch.",
+      "rationale": "로컬 AI 수요가 출시 일정까지 당겼다 — 크리에이터 워크스테이션을 언제 무엇으로 살지에 직결되는 신호."
     },
     {
-      "url": "https://www.androidauthority.com/roborock-qrevo-2-pro-launch-3703080/",
-      "source": "Android Authority",
+      "id": "gadgets-china-humanoid-games",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "A $550 robot vacuum with automatic mop removal and a self-cleaning dock is the concrete version of 'ambient AI' — the interaction design goal here is that the product disappears from the user's attention entirely.",
-      "published_iso": "2026-08-28T13:00:33+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Roborock-Qrevo-2-Pro-with-the-robot-vacuum-cleaning-floors.jpg",
-      "excerpt": "Roborock's new Qrevo 2 Pro packs 25,000Pa suction, automatic mop removal, anti-tangle brushes, and a smarter self-cleaning dock for $550 — engineered so you forget it is there."
+      "title": "China's robots race ahead",
+      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+      "source": "The Verge",
+      "published_iso": "2026-08-30T12:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+      "excerpt": "Bots were breaking records and breaking down at Beijing's World Humanoid Robot Games.",
+      "rationale": "베이징 휴머노이드 로봇 경기 현장 르포 — 데모 영상이 아니라 실제로 무엇이 되고 무엇이 부서지는지 보여준다."
     },
     {
-      "url": "https://www.digitaltrends.com/phones/two-stage-ai-trick-can-finally-fix-the-low-light-struggle-of-smartphone-cameras/",
-      "source": "Digital Trends",
+      "id": "gadgets-relay-q-mic",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "A two-stage pipeline that lifts UHD low-light images without smearing texture or edges targets the exact failure mode of current night modes — research that maps directly onto how phone cameras will render detail next.",
-      "published_iso": "2026-08-28T11:56:24-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/06/Apple-iPhone-17-Pro-White.jpg?resize=1200%2C630",
-      "excerpt": "Researchers have developed a two-stage AI system that enhances ultra-high-definition low-light images while preserving fine textures, edges and scene details — the part night mode usually destroys."
+      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+      "url": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
+      "source": "WIRED",
+      "published_iso": "2026-08-27T10:30:00.000Z",
+      "og_image": "https://media.wired.com/photos/6a8effc5f304a7db06ecb9ee/191:100/w_1280,c_limit/118.jpg",
+      "excerpt": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
+      "rationale": "키보드 대신 음성을 1차 입력으로 되돌리려는 전용 하드웨어 — 입력 방식 자체를 다시 묻는 폼팩터."
     }
   ]
 }

@@ -1,32 +1,11 @@
 {
   "section": "movies",
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "media": [
-    {
-      "id": "movies-photoshop-firefly5",
-      "type": "image",
-      "src": "pipeline/media/movies-photoshop-firefly5.jpg"
-    },
-    {
-      "id": "movies-open-weight-onprem",
-      "type": "image",
-      "src": "pipeline/media/movies-open-weight-onprem.jpg"
-    },
-    {
-      "id": "movies-indie-slop",
-      "type": "image",
-      "src": "pipeline/media/movies-indie-slop.jpg"
-    },
-    {
-      "id": "movies-moonshots-grant",
-      "type": "image",
-      "src": "pipeline/media/movies-moonshots-grant.jpg"
-    },
-    {
-      "id": "movies-free-video-generator",
-      "type": "video",
-      "src": "pipeline/media/movies-free-video-generator.mp4",
-      "poster": "pipeline/media/movies-free-video-generator.jpg"
-    }
+    {"id": "movies-utopai-ai-native-slate", "type": "image", "src": "pipeline/media/movies-utopai-ai-native-slate.png"},
+    {"id": "movies-firefly-audio-tools", "type": "image", "src": "pipeline/media/movies-firefly-audio-tools.jpg"},
+    {"id": "movies-tippett-studio-closing", "type": "image", "src": "pipeline/media/movies-tippett-studio-closing.jpg"},
+    {"id": "movies-tilly-norwood-disclosure", "type": "image", "src": "pipeline/media/movies-tilly-norwood-disclosure.jpg"},
+    {"id": "movies-flying-bark-avatar-aang", "type": "video", "src": "pipeline/media/movies-flying-bark-avatar-aang.mp4", "poster": "pipeline/media/movies-flying-bark-avatar-aang.jpg"}
   ]
 }

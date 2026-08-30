@@ -1,115 +1,108 @@
 {
+  "date": "2026-08-31",
   "section": "books",
-  "generated_at": "2026-08-29T22:00:27Z",
+  "now_iso": "2026-08-31T00:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://publishingperspectives.com/2026/08/u-s-textbook-authors-sue-openai-for-copyright-infringement/",
-      "source": "Publishing Perspectives",
       "category": "books",
-      "headline": "U.S. Textbook Authors Sue OpenAI for Copyright Infringement",
-      "published_iso": "2026-08-20T12:17:11+00:00",
-      "excerpt": "The Textbook & Academic Authors Association-linked plaintiffs allege OpenAI ingested their textbooks without licence. Authors warn that if LLMs keep absorbing new editions, instructors may drop textbook adoptions for AI 'substitutes'.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.24.06-PM.png"
-    },
-    {
-      "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
-      "source": "The Bookseller",
-      "category": "books",
-      "headline": "Harriman House claims trade publishing first with 'AI-facilitated' Raoul Pal book",
-      "published_iso": "2026-08-20T07:45:00+00:00",
-      "excerpt": "Harriman House says it has produced a trade title with an AI-facilitated workflow built around Raoul Pal's existing body of work, describing it as a first for trade publishing.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg"
-    },
-    {
+      "title": "Study Finds 63% of Religion Books on Amazon Likely AI-Written",
       "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/religion/article/101070-study-finds-63-of-religion-books-on-amazon-likely-ai-written.html",
       "source": "Publishers Weekly",
-      "category": "books",
-      "headline": "Study Finds 63% of Religion Books on Amazon Likely AI Written",
-      "published_iso": "2026-08-19T12:00:00+00:00",
-      "excerpt": "A survey by AI detector Originality.ai of 2,034 paperback religion books on Amazon found the majority were likely AI-written, including roughly three-quarters of titles on Hinduism, Taoism and witchcraft. AI titles were shorter and cheaper than human-authored ones.",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130971-1.PNG"
+      "published_iso": "2026-08-19T00:00:00Z",
+      "excerpt": "An Originality.ai study flagged 63% of highly-rated religious paperbacks on Amazon as likely AI-written, with Eastern-religion categories showing the highest rates. AI-generated titles skewed cheaper and shorter than human-authored books, and researchers suggest non-native English speakers may be using AI to enter the English-language market.",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130971-1.PNG",
+      "why": "A hard number on how much of a live retail category is already machine-written — reframes discovery, pricing and metadata work for every author and editor in that shelf."
     },
     {
+      "category": "books",
+      "title": "U.S. Textbook Authors Sue OpenAI for Copyright Infringement",
+      "url": "https://publishingperspectives.com/2026/08/u-s-textbook-authors-sue-openai-for-copyright-infringement/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-08-20T00:00:00Z",
+      "excerpt": "A class action led by textbook author Michael Sullivan alleges OpenAI and Microsoft trained language models on copyrighted textbooks, including 'massive amounts' sourced from pirate sites. Plaintiffs argue educational publishing is distinct from fiction fair-use rulings because AI substitutes can directly displace the textbook market.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.24.06-PM-793x439.png",
+      "why": "Draws a line between fiction fair-use precedent and educational publishing — the outcome shapes whether textbook and reference authors keep a market at all."
+    },
+    {
+      "category": "books",
+      "title": "Harriman House claims trade publishing first with 'AI-facilitated' Raoul Pal book",
+      "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
+      "source": "The Bookseller",
+      "published_iso": "2026-08-20T07:45:00Z",
+      "excerpt": "Harriman House says it is the first trade publisher to bring out an openly 'AI-facilitated' book, built with macro investor Raoul Pal. The publisher is framing the disclosure itself — not the tooling — as the precedent for how AI-assisted trade titles get labelled.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+      "why": "A named trade publisher putting an AI-assisted workflow on the record — the first concrete template for how disclosure, credit and process get written into a book's front matter."
+    },
+    {
+      "category": "books",
+      "title": "Guest Post — Your Next Reader Is a Machine, and We Are Ready",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/21/guest-post-your-next-reader-is-a-machine-and-we-are-ready/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-08-21T09:30:55Z",
+      "excerpt": "The argument: AI agents are becoming the primary readers of scholarly content as volume outstrips human capacity, and publishers are already equipped after years of machine-readable infrastructure work. The open problems are attribution, compensation and governance frameworks — not technical capability.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2227463068-1024x683.jpg",
+      "why": "Flips the audience assumption behind every editorial and design decision: if the first reader is an agent, structure and metadata become the craft surface."
+    },
+    {
+      "category": "books",
+      "title": "Guest Post — AI Can Find the Article. Can It Tell Which Version It Used?",
       "url": "https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/",
       "source": "The Scholarly Kitchen",
-      "category": "books",
-      "headline": "Guest Post — AI Can Find the Article. Can It Tell Which Version It Used?",
-      "published_iso": "2026-08-19T09:30:55+00:00",
-      "excerpt": "AI research assistants surface scholarly content but routinely blur which version of record they drew on. The authors argue persistent identifiers are now core publishing infrastructure, not metadata housekeeping.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1071052286.jpg"
+      "published_iso": "2026-08-19T09:30:55Z",
+      "excerpt": "AI research tools retrieve papers readily but routinely fail to distinguish preprint, accepted manuscript and version-of-record. The post argues version ambiguity is now a production-side problem publishers have to solve in their metadata, not a user-education problem.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1071052286.jpg",
+      "why": "A concrete, fixable failure mode in AI-mediated reading — and it lands squarely on how publishers version, tag and ship content."
     },
     {
+      "category": "books",
+      "title": "Guest Post — When Errors Become Consensus: Science's Self-Correction Can No Longer Keep Up",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/17/guest-post-when-errors-become-consensus-sciences-self-correction-can-no-longer-keep-up/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-08-17T09:30:55Z",
+      "excerpt": "As AI-accelerated output floods the literature, retraction and correction machinery is falling behind, letting errors harden into accepted consensus. The piece calls for publishing workflows that catch and flag errors continuously rather than after the fact.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/960px-Oxo_Tower_London_June_2016_002.jpg",
+      "why": "Names the editorial cost of AI-scale publishing volume — the correction layer, not the writing layer, is where the craft has to be rebuilt."
+    },
+    {
+      "category": "books",
+      "title": "Book Marketing, AI Book Discoverability, And Resilience, With Ricardo Fayet",
       "url": "https://www.thecreativepenn.com/2026/08/19/book-marketing-ai-book-discoverability-and-resilience-with-ricardo-fayet/",
       "source": "The Creative Penn",
-      "category": "books",
-      "headline": "Book Marketing, AI Book Discoverability, And Resilience, With Ricardo Fayet",
-      "published_iso": "2026-08-19T06:30:00+00:00",
-      "excerpt": "Reedsy co-founder Ricardo Fayet on how books now reach readers through AI recommendation surfaces rather than search, and what indie authors should change about metadata, positioning and marketing as a result.",
-      "og_image": null
+      "published_iso": "2026-08-19T06:30:00Z",
+      "excerpt": "Reedsy co-founder Ricardo Fayet talks through how book discovery is shifting as readers ask chatbots for recommendations instead of browsing storefronts, and what indie authors should change about metadata, blurbs and platform presence in response.",
+      "og_image": null,
+      "why": "Practical workflow guidance for the moment discovery moves from retail search to conversational AI — a direct change to how authors package a book."
     },
     {
-      "url": "https://janefriedman.com/amazon-is-buying-and-scanning-books-to-train-ai/",
-      "source": "Jane Friedman",
       "category": "books",
-      "headline": "Amazon is buying and scanning books to train AI",
-      "published_iso": "2026-08-19T16:00:00+00:00",
-      "excerpt": "Amazon is buying used and remaindered print books in bulk, scanning them for AI training data, and destroying the originals — a practice Friedman notes leans on outdated inventory rather than high-value titles.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/08/Amazon-VGT3.png"
+      "title": "Claude to Add Watermarks, and More AI Publishing News",
+      "url": "https://bookriot.com/claude-to-add-watermarks-and-more-ai-publishing-news/",
+      "source": "Book Riot",
+      "published_iso": "2026-08-17T14:42:43Z",
+      "excerpt": "A roundup of the week in AI publishing: Anthropic adds watermarks to Claude output, journalists stress-test AI detectors, and Mother Jones's David Corn uses Claude to generate a novel about a writer who uses Claude to generate a novel.",
+      "og_image": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book.jpg.optimal.jpg",
+      "why": "Bundles the detection-and-disclosure tooling writers are actually being asked to work with, plus a first-hand account of what an AI-drafted novel reads like."
     },
     {
-      "url": "https://goodereader.com/blog/amazon-news/ai-companies-are-buying-hardcover-books-and-destroying-them",
-      "source": "Good e-Reader",
       "category": "books",
-      "headline": "AI companies are buying hardcover books and destroying them",
-      "published_iso": "2026-08-19T20:44:15+00:00",
-      "excerpt": "Anthropic and Amazon are bulk-buying pre-2022 print books to harvest clean, human-written text free of synthetic 'AI slop' — bookshops in the US, UK, Europe and Australia report unusual bulk orders.",
-      "og_image": "https://goodereader.com/blog/uploads/images/2026/08/s-l1600.png"
-    },
-    {
-      "url": "https://lithub.com/now-amazon-is-destroying-rare-books-to-train-its-ai/",
-      "source": "Literary Hub",
-      "category": "books",
-      "headline": "Now Amazon is destroying rare books to train its AI",
-      "published_iso": "2026-08-17T17:06:03+00:00",
-      "excerpt": "Lit Hub's take on the 404 Media report that Amazon is buying massive quantities of books, scanning them for AI training data and destroying them in the process — with rare titles potentially lost for good.",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/08/Untitled-design-23.png"
-    },
-    {
-      "url": "https://selfpublishingadvice.org/anthropic-adds-watermarks/",
-      "source": "ALLi Self-Publishing Advice Center",
-      "category": "books",
-      "headline": "Self-Publishing News: Anthropic Adds Watermarks",
-      "published_iso": "2026-08-20T12:00:57+00:00",
-      "excerpt": "ALLi's weekly indie-author news round-up on Anthropic adding watermarks to Claude output, and what invisible AI provenance markers mean for authors who use assistive AI in drafting and editing.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-20.jpg"
-    },
-    {
-      "url": "https://selfpublishingadvice.org/destroying-books-to-train-ai/",
-      "source": "ALLi Self-Publishing Advice Center",
-      "category": "books",
-      "headline": "Self-Publishing News: Destroying Books to Train AI",
-      "published_iso": "2026-08-27T12:00:44+00:00",
-      "excerpt": "ALLi's news round-up for indie authors on the destructive book-scanning pipelines feeding AI training sets, and the rights and consent questions it raises for self-published print titles.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-27.jpg"
-    },
-    {
-      "url": "https://selfpublishingadvice.org/podcast-amazon-rips-up-rare-books/",
-      "source": "ALLi Self-Publishing Advice Center",
-      "category": "books",
-      "headline": "Podcast: Amazon Rips Up Rare Books",
-      "published_iso": "2026-08-28T12:00:16+00:00",
-      "excerpt": "ALLi's podcast unpacks Amazon's rare-book destruction for AI training and what indie authors can do about how their own catalogues are ingested.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_News-3.jpg"
-    },
-    {
+      "title": "Around the Book World: August 17, 2026",
       "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-17-2026/",
       "source": "Publishing Perspectives",
+      "published_iso": "2026-08-17T00:00:00Z",
+      "excerpt": "AI dominated the 90th IFLA World Library Congress in Korea, where delegates pushed to redefine libraries as 'reliable public knowledge infrastructures' rather than repositories. Separately, the Chinese Academy of Press and Publication prepared to unveil interim AI application standards for publishing at the China International Digital Publishing Expo.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+      "why": "Two institutional moves — library redefinition and a national AI standard for publishing — that set the rules creators will work inside."
+    },
+    {
       "category": "books",
-      "headline": "Around the Book World: August 17, 2026",
-      "published_iso": "2026-08-17T08:17:21+00:00",
-      "excerpt": "Editor-in-chief Andrew Richard Albanese's weekly review of international publishing headlines, including AI training, licensing and rights-transparency developments.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+      "title": "Vietnam's Publishing Sector Has New Rules and Wants AI Content Labelled",
+      "url": "https://thenewpublishingstandard.com/2026/08/26/vietnam-publishing-law-ai-copyright/",
+      "source": "The New Publishing Standard",
+      "published_iso": "2026-08-26T10:00:45Z",
+      "excerpt": "Vietnam's revised publishing law introduces mandatory labelling for AI-generated content alongside tightened copyright provisions for the book trade. It joins the EU AI Act and China's draft standards in making AI disclosure a legal requirement rather than a publisher choice.",
+      "og_image": "https://dev.thenewpublishingstandard.com/wp-content/uploads/2022/04/South-East-Asia.png",
+      "why": "Off-list source used because no whitelisted outlet covered it: another national AI-labelling mandate, which changes what authors and publishers must declare on the page."
     }
   ]
 }

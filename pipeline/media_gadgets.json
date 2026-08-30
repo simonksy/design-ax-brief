@@ -1,31 +1,11 @@
 {
-  "date": "2026-08-30",
   "section": "gadgets",
+  "date": "2026-08-31",
   "media": [
-    {
-      "id": "gadgets-pixel-11",
-      "type": "image",
-      "src": "pipeline/media/gadgets-pixel-11.jpg"
-    },
-    {
-      "id": "gadgets-gemini-nano-4",
-      "type": "image",
-      "src": "pipeline/media/gadgets-gemini-nano-4.jpg"
-    },
-    {
-      "id": "gadgets-ios27-siri-app",
-      "type": "image",
-      "src": "pipeline/media/gadgets-ios27-siri-app.jpg"
-    },
-    {
-      "id": "gadgets-roborock-qrevo-2-pro",
-      "type": "image",
-      "src": "pipeline/media/gadgets-roborock-qrevo-2-pro.jpg"
-    },
-    {
-      "id": "gadgets-low-light-two-stage-ai",
-      "type": "image",
-      "src": "pipeline/media/gadgets-low-light-two-stage-ai.jpg"
-    }
+    {"id": "gadgets-anthropic-hardware-standard", "type": "video", "src": "pipeline/media/gadgets-anthropic-hardware-standard.mp4", "poster": "pipeline/media/gadgets-anthropic-hardware-standard.jpg"},
+    {"id": "gadgets-oura-sleep-lawsuit", "type": "image", "src": "pipeline/media/gadgets-oura-sleep-lawsuit.jpg"},
+    {"id": "gadgets-mac-ai-demand", "type": "image", "src": "pipeline/media/gadgets-mac-ai-demand.jpg"},
+    {"id": "gadgets-china-humanoid-games", "type": "image", "src": "pipeline/media/gadgets-china-humanoid-games.jpg"},
+    {"id": "gadgets-relay-q-mic", "type": "image", "src": "pipeline/media/gadgets-relay-q-mic.jpg"}
   ]
 }
