@@ -1,105 +1,149 @@
 {
+  "date": "2026-09-01",
   "section": "music",
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T00:00:00Z",
-  "selection_mode": "curator_auto",
-  "dedup": {
-    "against_days": 6,
-    "published_cards_checked": 30,
-    "pool_size": 10,
-    "dropped": 2,
-    "kept": 8,
-    "selected": 5,
-    "dropped_items": [
-      {
-        "title": "Jimmy Iovine says AI-music firms 'have terrible communication skills'",
-        "url": "https://musically.com/2026/08/24/jimmy-iovine-says-ai-music-firms-have-terrible-communication-skills/",
-        "reason": "CONTENT DUP of published card music-dre-ai (2026-08-29, MusicRadar). Same NYT interview with Jimmy Iovine and Dr Dre; the published card already carries the exact 'worst PR in world history / terrible communication' quotes. Different outlet, same event."
-      },
-      {
-        "title": "Apple Music to start labelling tracks 'Made With AI'",
-        "url": "https://completemusicupdate.com/apple-music-to-start-labelling-tracks-made-with-ai/",
-        "reason": "CONTENT DUP within the AI-labelling cluster already published. The published card music-luminate-ai-label (2026-08-26) states the Apple Music self-declared AI label rollout as established fact ('Apple Music은 올해 하반기 자진 신고를 근거로 AI 라벨을 붙인다'), and music-beatport-ai-ban (2026-08-28) covers the same policy wave. Item is also 10 days old and has no og_image."
-      }
-    ],
-    "notes": [
-      "Checked against sections.music today (2026-08-30) + days 2026-08-25 through 2026-08-29 = 30 published cards. No URL in the final 5 appears in that history.",
-      "Round Hill v. Suno/Anthropic verified as a DISTINCT filing from the two published Suno-litigation cards (music-suno-class-action, Tony Justice indie class action, 2026-08-28; music-suno-amended, UMG/Sony amended complaint, 2026-08-29). New plaintiff, new defendants (Anthropic added), new event.",
-      "StemDeck (Synthtopia) verified as a DIFFERENT product from the published music-trama card (2026-08-25, Bedroom Producers Blog). Trama = 4-stem htdemucs desktop app; StemDeck = open-source 5-stem platform. Distinct URL, distinct release, kept.",
-      "MIDiA 'cultural infrastructure' piece is the only source in the pool carrying the Suno download-cap / deliberate-friction news; not covered on any prior day.",
-      "Cross-section collision check: all 5 picks are music-native (tools, platform policy, music-publishing litigation, artist-economy certification). None belongs to gadgets/movies/design."
-    ]
-  },
-  "picks": [
+  "count": 5,
+  "items": [
     {
-      "id": "music-stemdeck",
-      "category": "music",
+      "id": "music-stable-audio-daw",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
-      "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
-      "source": "Synthtopia",
-      "published_iso": "2026-08-27T13:58:21+00:00",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png",
-      "excerpt": "Stemdeck is a modern stem extraction platform, designed to isolate vocals, drums, bass, piano and guitar for practice, transcription, remixing, and creative audio workflows.",
-      "rationale": "The only shippable tool in the pool: free, open-source, runs locally on all three desktop OSes and pulls five stems including piano and guitar, so a producer can change tomorrow's remix and transcription workflow with no upload and no subscription."
+      "url": "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
+      "source": "Stability AI",
+      "published_iso": "2026-08-18T13:55:14Z",
+      "og_image": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
+      "excerpt": "Stability AI opens an early beta of two new ways to use Stable Audio 3.0: a DAW plugin that puts generation inside the session, and a more advanced generation experience on StableAudio.com.",
+      "rationale": "생성이 브라우저를 떠나 DAW 세션 안으로 들어온 1차 소스 발표 — 프로듀서의 작업 순서를 내일 당장 바꾸는 릴리스."
     },
     {
-      "id": "music-suno-friction",
-      "category": "music",
+      "id": "music-ai-track-detectives",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Music as a cultural infrastructure business",
-      "url": "https://www.midiaresearch.com/blog/music-as-a-cultural-infrastructure-business",
-      "source": "MIDiA Research",
-      "published_iso": "2026-08-20T16:00:00+01:00",
-      "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2651/cover_image-1787236880.jpg",
-      "excerpt": "Suno is introducing deliberate friction to pump the brakes on the AI-powered superabundance it helped create, implementing download caps around how much music users can output.",
-      "rationale": "Hard product news wrapped in analysis: Suno is capping how much music users can download, the first time a generative music platform has designed friction into its own output, which directly changes the economics of prompt-heavy workflows."
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge",
+      "published_iso": "2026-08-29T12:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
+      "excerpt": "A profile of the producers turned detectives who forensically spot AI-generated tracks passed off as human work - and the tells they listen for.",
+      "rationale": "AI 트랙을 실제로 가려내는 사람들의 판별 단서를 정리한 현장 가이드 — 라벨 정책 뉴스와 달리 귀로 쓰는 실무 지식."
     },
     {
-      "id": "music-platform-ai-policies",
-      "category": "music",
+      "id": "music-aria-chart-ban",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "How Each Music Listening Platform Is Treating AI Music (Updating)",
-      "url": "https://www.billboard.com/lists/how-each-music-listening-platform-treats-ai-music/",
-      "source": "Billboard",
-      "published_iso": "2026-08-27T20:59:24Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024",
-      "excerpt": "From Bandcamp's ban of AI music to Spotify's 'AI Personas,' here's how all the online music platforms are dealing with the flood of AI songs.",
-      "rationale": "A single maintained map of every DSP and store's AI rules, from Bandcamp's outright ban to Spotify's AI Personas, which is the practical decision sheet for where and how to release an AI-assisted track."
+      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-08-26T13:52:50Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif",
+      "excerpt": "ARIA's updated Charts Code of Practice blocks predominantly AI-generated recordings from Australia's official charts, effective from the chart dated 31 August. It defines, in writing, how much machine authorship is too much.",
+      "rationale": "차트 코드가 '기계 저작이 어디까지 허용되는가'를 처음으로 문서로 못박았다 — 발매 체크리스트가 실제로 바뀌는 규칙 변경(Gearnews·Hypebot·Music Ally 중복 중 1차 보도 채택)."
     },
     {
-      "id": "music-human-first-certification",
-      "category": "music",
+      "id": "music-jazz-profile-hijack",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "'Human-First' Needs More Than Just a Checkbox",
-      "url": "https://www.hypebot.com/human-first-needs-more-than-just-a-checkbox/",
-      "source": "Hypebot",
-      "published_iso": "2026-08-27T12:35:56+00:00",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-26-musical-form.jpg",
-      "excerpt": "Anti-AI music labels need more than self-attestation to function in the real world. An independently administered certification system could be the answer.",
-      "rationale": "Flips the labelling debate from AI-detection to human-verification, arguing self-attestation cannot hold and proposing an independent certification body, which is the design problem every 'human-made' badge now has to solve."
+      "url": "https://www.digitalmusicnews.com/2026/08/31/jazz-legends-streaming-profiles-ai-slop/",
+      "source": "Digital Music News",
+      "published_iso": "2026-08-31T21:06:50Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
+      "excerpt": "Spam farms have hijacked the Spotify and YouTube profiles of jazz musicians to publish generative-AI tracks under their names. A blunt warning about catalogue hygiene and artist-profile security.",
+      "rationale": "풀에서 가장 신선(08-31)하고, 아티스트 프로필 보안·카탈로그 위생이라는 즉시 조치 가능한 경고."
     },
     {
-      "id": "music-round-hill-suit",
-      "category": "music",
+      "id": "music-musical-spirograph",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Round Hill joins the AI lawsuit party, targets Suno and Anthropic",
-      "url": "https://completemusicupdate.com/round-hill-joins-the-ai-lawsuit-party-targets-suno-and-anthropic/",
-      "source": "Complete Music Update",
-      "published_iso": "2026-08-19T14:21:45+00:00",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/suno-anthropic-roundhill.png",
-      "excerpt": "More lawsuits have been filed against generative AI companies, this time Round Hill suing Suno and Anthropic. Round Hill insists 'there is nothing fair about that use'.",
-      "rationale": "A music publisher, not a label, opens a new front by suing Suno and Anthropic together, pushing the fair-use fight onto composition rights and lyrics, which is the layer that decides what generative tools may legally output."
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "source": "The Verge",
+      "published_iso": "2026-08-22T17:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
+      "excerpt": "Musical Spirograph is a browser toy that turns doodled geometry into generative compositions. A small, tactile example of algorithmic composition as a sketching tool rather than a prompt box.",
+      "rationale": "정책·탐지 이슈로 기운 선택에 창작 도구 축을 되돌린다 — 프롬프트 상자가 아니라 손으로 그리는 제너레이티브 작곡 스케치."
     }
-  ]
+  ],
+  "picks": [
+    {
+      "id": "music-stable-audio-daw",
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "url": "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
+      "source": "Stability AI",
+      "published_iso": "2026-08-18T13:55:14Z",
+      "og_image": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
+      "excerpt": "Stability AI opens an early beta of two new ways to use Stable Audio 3.0: a DAW plugin that puts generation inside the session, and a more advanced generation experience on StableAudio.com.",
+      "rationale": "생성이 브라우저를 떠나 DAW 세션 안으로 들어온 1차 소스 발표 — 프로듀서의 작업 순서를 내일 당장 바꾸는 릴리스."
+    },
+    {
+      "id": "music-ai-track-detectives",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge",
+      "published_iso": "2026-08-29T12:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
+      "excerpt": "A profile of the producers turned detectives who forensically spot AI-generated tracks passed off as human work - and the tells they listen for.",
+      "rationale": "AI 트랙을 실제로 가려내는 사람들의 판별 단서를 정리한 현장 가이드 — 라벨 정책 뉴스와 달리 귀로 쓰는 실무 지식."
+    },
+    {
+      "id": "music-aria-chart-ban",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-08-26T13:52:50Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif",
+      "excerpt": "ARIA's updated Charts Code of Practice blocks predominantly AI-generated recordings from Australia's official charts, effective from the chart dated 31 August. It defines, in writing, how much machine authorship is too much.",
+      "rationale": "차트 코드가 '기계 저작이 어디까지 허용되는가'를 처음으로 문서로 못박았다 — 발매 체크리스트가 실제로 바뀌는 규칙 변경(Gearnews·Hypebot·Music Ally 중복 중 1차 보도 채택)."
+    },
+    {
+      "id": "music-jazz-profile-hijack",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "url": "https://www.digitalmusicnews.com/2026/08/31/jazz-legends-streaming-profiles-ai-slop/",
+      "source": "Digital Music News",
+      "published_iso": "2026-08-31T21:06:50Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
+      "excerpt": "Spam farms have hijacked the Spotify and YouTube profiles of jazz musicians to publish generative-AI tracks under their names. A blunt warning about catalogue hygiene and artist-profile security.",
+      "rationale": "풀에서 가장 신선(08-31)하고, 아티스트 프로필 보안·카탈로그 위생이라는 즉시 조치 가능한 경고."
+    },
+    {
+      "id": "music-musical-spirograph",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "source": "The Verge",
+      "published_iso": "2026-08-22T17:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
+      "excerpt": "Musical Spirograph is a browser toy that turns doodled geometry into generative compositions. A small, tactile example of algorithmic composition as a sketching tool rather than a prompt box.",
+      "rationale": "정책·탐지 이슈로 기운 선택에 창작 도구 축을 되돌린다 — 프롬프트 상자가 아니라 손으로 그리는 제너레이티브 작곡 스케치."
+    }
+  ],
+  "dedup": {
+    "pool": 19,
+    "dropped_as_duplicates": 9,
+    "notes": [
+      "Dreamtonics Instrument X (MusicTech / Synthtopia / Gearnews) = already published 2026-08-27 as music-instrument-x (MusicRadar). 3 dropped.",
+      "ElevenMusic Composer section-by-section editing (Digital Music News / Music Business Worldwide) = already published 2026-08-27 as music-elevenmusic-composer (Music Ally). 2 dropped.",
+      "Luminate AI music identification framework (Music Business Worldwide) = already published 2026-08-26 as music-luminate-ai-label (Billboard). 1 dropped.",
+      "Beatport bans fully AI-generated music (MusicRadar) = already published 2026-08-28 as music-beatport-ai-ban (Gearnews). 1 dropped.",
+      "SubmitHub million-track AI study incl. 31% denial gap (Hypebot) = already published 2026-08-28 as music-submithub-40 (Mixmag). 1 dropped.",
+      "Apple Music 'Made With AI' labels (CMU / DJ Mag) = substantively covered inside 2026-08-31 card music-platform-ai-policies (Billboard platform-policy tracker); dropped as content overlap, and the two were within-pool duplicates of each other.",
+      "ARIA chart ban covered by 4 outlets in-pool (MBW / Gearnews / Hypebot / Music Ally) - kept only MBW as the primary report.",
+      "Hook x UMG licensing deal (Digital Music News) survived dedup but ranked 6th; not needed after 5 picks."
+    ]
+  },
+  "diversity": {
+    "outlets": ["Stability AI", "The Verge", "Music Business Worldwide", "Digital Music News"],
+    "max_per_outlet": 2,
+    "distinct_outlets": 4,
+    "topic_spread": ["tool release", "detection craft", "chart policy", "platform security", "generative composition tool"]
+  }
 }

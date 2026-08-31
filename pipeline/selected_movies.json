@@ -1,98 +1,130 @@
 {
+  "date": "2026-09-01",
   "section": "movies",
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T00:00:00Z",
   "selection_mode": "curator_auto",
-  "dedup": {
-    "published_days_checked": ["2026-08-30", "2026-08-29", "2026-08-28", "2026-08-27", "2026-08-26", "2026-08-25"],
-    "published_cards_compared": 30,
-    "candidates_in": 21,
-    "dropped_as_duplicate": 0,
-    "dropped_cross_section": 1,
-    "dropped_details": [
-      {
-        "note": "80.lv Tripo topology article removed upstream by orchestrator — already published 2026-08-29 in the games section (cross-section collision)."
-      }
-    ],
-    "near_misses_kept": [
-      {
-        "url": "https://nofilmschool.com/adobe-firefly-audio-tools",
-        "why_kept": "Adobe adjacency to 2026-08-30 'Adobe unveils new Photoshop AI tools' (awn.com), but different outlet, different release (Firefly Generate Music/Speech/SFX GA vs Photoshop Light Adjustment Layer / Instruct Edit) — distinct story."
-      },
-      {
-        "url": "https://vfxvoice.com/creating-continuity-across-decades-for-the-house-of-the-spirits/",
-        "why_kept": "Thematically near 2026-08-29 CineD de-aging piece but a different production/vendor story; not selected on score, not on dedup."
-      }
-    ],
-    "unique_urls_in_final": 5,
-    "outlets_in_final": 5,
-    "max_cards_per_outlet": 1
-  },
-  "picks": [
+  "items": [
     {
-      "id": "movies-utopai-ai-native-slate",
+      "id": "movies-nice-touch-v2",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "headline": "Utopai Is 'World's Largest Independent AI-Native Film and TV Studio,' Will Premiere 3 Movies and 2 Series in 2027",
-      "url": "https://variety.com/2026/biz/news/utopai-worlds-largest-independent-ai-native-film-tv-studio-will-premiere-3-movies-2-series-in-2027-1236844803/",
-      "source": "Variety",
-      "published_iso": "2026-08-27T16:00:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Utopai_Banner_169_HD.png?w=1000&h=563&crop=1",
-      "excerpt": "Utopai Studios says it has 25 original projects in production on its AI-native pipeline, with three films and two series slated for 2027 premieres.",
-      "rationale": "A dated, committed slate — 25 projects, 2027 premieres — turns the AI-native studio from demo reel into a delivery schedule creative teams can plan against."
+      "title": "Nice Touch Launches V2 of Its AI Edit Assistant for Pro Editors",
+      "url": "https://postperspective.com/nice-touch-launches-v2-of-its-ai-edit-assistant-for-pro-editors/",
+      "source": "postPerspective",
+      "published_iso": "2026-08-31T21:07:33+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Nice-Touch-app.jpg",
+      "excerpt": "Nice Touch has launched Version 2 of its app of the same name, an AI edit assistant for professional video post teams. V2 is a full rebuild shaped by more than 300 conversations with editors, producers, production supervisors and studio owners. It is available now.  Nice Touch analyzes a project’s footage,",
+      "rationale": "Shipping-today tool release for post teams — a full rebuild informed by 300+ editor interviews, so it changes how an assistant editor preps footage tomorrow."
     },
     {
-      "id": "movies-firefly-audio-tools",
+      "id": "movies-ai-prompt-copyright-bill",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "headline": "Adobe Firefly Overhauls Its Audio Capabilities With Music, Speech, and Sound Effects All Now in One Place",
-      "url": "https://nofilmschool.com/adobe-firefly-audio-tools",
-      "source": "No Film School",
-      "published_iso": "2026-08-25T19:50:05+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67674816&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
-      "excerpt": "Firefly's Generate Music, Generate Speech and Generate Sound Effects go generally available, sized to a video's length and mood, with ElevenLabs voices as an option.",
-      "rationale": "The most directly actionable release in the pool: temp score, scratch VO and SFX move next to the picture edit, collapsing an outsourced post step to a same-day task."
+      "title": "If You Prompt a Movie or Song Into Existence With AI, You Shouldn’t Be Able to Profit From It",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ai-movies-prompts-songs-legislation-1236680256/",
+      "source": "The Hollywood Reporter",
+      "published_iso": "2026-08-31T19:36:54+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2157513800.jpg?w=1440&h=810&crop=1",
+      "excerpt": "\"Politicians should back legislation to prevent prompted generative AI outputs from being copyrighted across film, TV and music. The foundation of human creativity is at stake,\" writes the Motion Picture Sound Editors president.",
+      "rationale": "The Motion Picture Sound Editors president calls for legislation denying copyright to purely prompted output — the sharpest craft-guild position yet on who owns AI work."
     },
     {
-      "id": "movies-tippett-studio-closing",
+      "id": "movies-be-brave-venice-ai-doc",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "headline": "Phil Tippett Closes Berkeley Studio After Nearly 40 Years",
-      "url": "https://www.cartoonbrew.com/auctions/tippett-studio-closing-auction-266120.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-08-29T16:05:56Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Tippett-Auction.jpg",
-      "excerpt": "The Oscar-winning animation and VFX pioneer is auctioning decades of artifacts as he closes his Berkeley studio, though he says he won't retire: “I will die with my sword in my hand.”",
-      "rationale": "The freshest item in the pool and the loudest signal on craft economics — a landmark practical-effects house folding while generated creature work scales."
+      "title": "Francesco Carrozzini on His Venice AI Doc ‘Be Brave’ and Why ‘The Human Has to Come First’ (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/francesco-carrozzini-venice-artificial-intelligence-brave-1236846518/",
+      "source": "Variety",
+      "published_iso": "2026-08-31T12:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Renzo-Rosso.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Francesco Carrozzini on his Venice-bound artificial intelligence film 'Be Brave'",
+      "rationale": "A Venice-premiering documentary built around AI, with its director laying out a human-first working method — festival-level proof of where the argument is landing."
     },
     {
-      "id": "movies-tilly-norwood-disclosure",
+      "id": "movies-junkyard-king-daubrez",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "headline": "“Saying you're working with AI is like saying you have an STD,” argues Tilly Norwood creator",
-      "url": "https://www.screendaily.com/news/saying-youre-working-with-ai-is-like-saying-you-have-an-std-argues-tilly-norwood-creator/5219747.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-08-26T14:30:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/8/7/1/1485871_unknown1_314055_crop.jpg",
-      "excerpt": "Eline van der Velden says she has signed hundreds of NDAs with companies quietly exploring AI, and urges public broadcasters to invest openly in the space.",
-      "rationale": "Names the disclosure taboo with hard evidence — hundreds of NDAs — which is exactly the question every team now has to answer about documenting its own pipeline."
+      "title": "'Junkyard King' Creator Henry Daubrez Introduces Us to His Wild Animated World",
+      "url": "https://www.animationmagazine.net/2026/08/junkyard-king-creator-henry-daubrez-introduces-us-to-his-wild-animated-world/",
+      "source": "Animation Magazine",
+      "published_iso": "2026-08-28T00:32:06+00:00",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Junkyard-King-frame-669.00s-276ac9.jpg",
+      "excerpt": "'Junkyard King' creator and Odd Kid studio founder Henry Daubrez tells us how a practical approach to AI can fuel a creator-driven show.",
+      "rationale": "A working showrunner walks through the practical AI setup behind a creator-driven animated series — concrete method rather than manifesto."
     },
     {
-      "id": "movies-flying-bark-avatar-aang",
+      "id": "movies-tung-sahur-ai-lawsuit",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "headline": "Flying Bark Enters the Avatar State with 'Avatar Aang: The Last Airbender'",
-      "url": "https://www.awn.com/animationworld/flying-bark-enters-avatar-state-avatar-aang-last-airbender",
-      "source": "Animation World Network",
-      "published_iso": "2026-08-28T23:31:07Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081103-avataraangthelastairbender3840x16080016-1280-1280.jpg?itok=NSBMCYfr",
-      "excerpt": "Animation director Christian Barkel and CEO Barbara Stephen break down the hybrid 2D/CG workflow behind the new feature: three years of new tools, no rigs, and every movement drawn by hand.",
-      "rationale": "A studio that spent three years building custom tooling to keep hand-drawn motion at feature scale — the concrete counter-case to 'automate it', with the pipeline shown."
+      "title": "Lawsuit Over AI Character Tung Tung Sahur Has Companies Bickering; Hearing Set",
+      "url": "https://deadline.com/2026/08/tung-tung-sahur-ai-lawsuit-latest-1237061549/",
+      "source": "Deadline",
+      "published_iso": "2026-08-28T13:38:15+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Tung-Tung-Tung-Sahur-and-San-Jose-Federal-Courthouse.jpg?w=1024",
+      "excerpt": "Hollywood's future could take shape in a a legal fight full of Italian Brainrot AI slop, trademark claims, & certain Tung Tung Sahur, with guest appearances by Roblox and Fortnite",
+      "rationale": "First real courtroom test of who owns a viral AI-born character, with a hearing set — the trademark logic here will shape IP claims on generated characters."
     }
-  ]
+  ],
+  "dedup": {
+    "checked_days": 6,
+    "history_source": "pipeline/news_data.json → sections.movies (today 2026-08-31 + days 2026-08-26…08-30)",
+    "dropped": [
+      {
+        "url": "https://postperspective.com/avid-media-composer-2026-8-at-ibc-agentic-workflows-more/",
+        "reason": "Same release as published 2026-08-28 card movies-media-composer-2026-8 (RedShark, Media Composer 2026.8 / Ready to Edit)."
+      },
+      {
+        "url": "https://www.redsharknews.com/eddie-ai-client-review-davinci-resolve-payg",
+        "reason": "Same Eddie AI August update (PAYG credits) as published 2026-08-29 card movies-eddie-ai-credits."
+      },
+      {
+        "url": "https://nofilmschool.com/eddie-ai-updates-pricing",
+        "reason": "Same Eddie AI MCP/pay-as-you-go story as published 2026-08-29 card movies-eddie-ai-credits."
+      },
+      {
+        "url": "https://www.redsharknews.com/adobe-photoshop-ai-assisted-editor-markup",
+        "reason": "Same Photoshop AI Assisted Editor + Markup release as published 2026-08-30 card movies-photoshop-firefly5."
+      },
+      {
+        "url": "https://www.awn.com/news/usc-adds-beeble-ai-production-tools-filmmaking-courses",
+        "reason": "Same USC ETC × Beeble announcement as published 2026-08-29 card movies-usc-etc-beeble."
+      },
+      {
+        "url": "https://variety.com/2026/tv/news/netflix-willy-wonka-reality-show-trailer-1236843994/",
+        "reason": "Same Wonka / AI Gene Wilder voice trailer as published 2026-08-28 card movies-wonka-gene-wilder."
+      },
+      {
+        "url": "https://deadline.com/2026/08/google-deepmind-kling-ai-alibaba-busan-acfm-innoasia-1237050687/",
+        "reason": "Same Busan ACFM InnoAsia 2026 lineup as published 2026-08-27 card movies-busan-innoasia."
+      },
+      {
+        "url": "https://www.cartoonbrew.com/awards/ves-awards-new-and-changed-categories-265998.html",
+        "reason": "Within-pool duplicate of the ProVideo Coalition VES new-categories item; neither selected (lower actionability)."
+      }
+    ]
+  },
+  "diversity": {
+    "outlets": [
+      "postPerspective",
+      "The Hollywood Reporter",
+      "Variety",
+      "Animation Magazine",
+      "Deadline"
+    ],
+    "max_per_outlet": 1,
+    "groups": {
+      "vfx_post_pipeline": 1,
+      "industry_policy_business": 2,
+      "animation_shortfilm_festival": 2
+    }
+  }
 }

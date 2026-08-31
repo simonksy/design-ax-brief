@@ -1,11 +1,31 @@
 {
+  "date": "2026-09-01",
   "section": "science",
-  "date": "2026-08-31",
   "media": [
-    {"id": "science-malva-single-cell-search", "type": "image", "src": "pipeline/media/science-malva-single-cell-search.jpg"},
-    {"id": "science-soec-ai-optimization", "type": "image", "src": "pipeline/media/science-soec-ai-optimization.jpg"},
-    {"id": "science-extended-mean-field", "type": "image", "src": "pipeline/media/science-extended-mean-field.jpg"},
-    {"id": "science-qml-heart-disease", "type": "image", "src": "pipeline/media/science-qml-heart-disease.png"},
-    {"id": "science-chess-complexity-tolerance", "type": "image", "src": "pipeline/media/science-chess-complexity-tolerance.jpg"}
+    {
+      "id": "science-timesfm-3",
+      "type": "image",
+      "src": "pipeline/media/science-timesfm-3.png"
+    },
+    {
+      "id": "science-ionq-macbook-decoder",
+      "type": "image",
+      "src": "pipeline/media/science-ionq-macbook-decoder.png"
+    },
+    {
+      "id": "science-grcop42-3dprint",
+      "type": "image",
+      "src": "pipeline/media/science-grcop42-3dprint.jpg"
+    },
+    {
+      "id": "science-npe-outbreak",
+      "type": "image",
+      "src": "pipeline/media/science-npe-outbreak.jpg"
+    },
+    {
+      "id": "science-extreme-scenarios",
+      "type": "image",
+      "src": "pipeline/media/science-extreme-scenarios.jpg"
+    }
   ]
 }

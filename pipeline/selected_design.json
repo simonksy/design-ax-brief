@@ -1,173 +1,88 @@
 {
+  "date": "2026-09-01",
   "section": "design",
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T00:00:00Z",
-  "selection_mode": "curator_auto",
-  "dedup": {
-    "pool_size": 16,
-    "against_days": 5,
-    "history_checked": [
-      "sections.design.today (2026-08-30) + sections.design.days (2026-08-25 .. 2026-08-29)",
-      "cross-section: movies / games / gadgets / science / music / books published history",
-      "cross-section: URLs reserved by other sections for today (2026-08-31)"
-    ],
-    "dropped": [
-      {
-        "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
-        "reason": "CROSS-SECTION HARD DUPLICATE — same URL published 2026-08-30 in the movies section as movies-onprem-open-weights. Replaced by backfill."
-      },
-      {
-        "url": "https://www.creativebloq.com/3d/unsettling-nvidias-dlss-5-controversial-ai-filter-has-leaked-and-gamers-are-horrified",
-        "reason": "CROSS-SECTION CONTENT DUPLICATE — same DLSS 5 leak event published 2026-08-29 in the games section as games-dlss5-leak (Polygon, different outlet, same story). Replaced by backfill."
-      },
-      {
-        "url": "https://www.youtube.com/shorts/Y_78H41mw4A",
-        "reason": "within-pool duplicate — same Figma content-hub push about Thom Bettridge / i-D Magazine as the figma.com Source Material post; kept the richer figma.com article instead"
-      },
-      {
-        "url": "https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway",
-        "reason": "near-identical rehash of the already-published 'Muse Image now available on AI Gateway' (Vercel, design 2026-08-29): same source, same core topic (a new model added to Vercel AI Gateway behind one key)"
-      },
-      {
-        "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
-        "reason": "same source + same core topic cluster as 'Build and deploy eve agents from the Vercel dashboard' (Vercel, design 2026-08-30) — agent-deployment changelog hub"
-      },
-      {
-        "url": "https://www.fastcompany.com/91597464/how-apple-made-its-charming-claymation-mac-mini-ad",
-        "reason": "cross-section collision risk with gadgets (Apple / Mac mini coverage) and would have put Fast Company at 2 cards; skipped in favour of a design-native alternative"
-      },
-      {
-        "url": "https://roadtovr.com/as-vr-gaming-looks-for-new-footing-the-out-of-home-xr-entertainment-space-is-still-building/",
-        "reason": "roadtovr.com is a shared domain with the games and gadgets sections and the piece is a VR-industry business story rather than a design brief; skipped to avoid a cross-section collision"
-      },
-      {
-        "url": "https://www.uploadvr.com/meta-is-working-to-spin-off-worlds-from-the-horizon-mobile-app/",
-        "reason": "uploadvr.com is a shared domain with the gadgets section and the story is an app/product datamine; skipped for cross-section safety"
-      },
-      {
-        "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
-        "reason": "Disney concept-art auction overlaps the movies/animation section's territory; opinion piece with low actionability, so not worth the collision risk"
-      },
-      {
-        "url": "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer",
-        "reason": "Apple/Spotify AI-slop policing overlaps the music section's platform-policy coverage; dropped as a cross-section content risk"
-      },
-      {
-        "url": "https://80.lv/",
-        "reason": "80.lv Tripo topology article pre-dropped by orchestrator — already published 2026-08-29 in the games section"
-      }
-    ],
-    "backfill": [
-      {
-        "replaced": "design-onprem-open-weights",
-        "with": "design-figma-id-source-material",
-        "verified": "figma.com appears in no other section's allowed domains and no other section has published this interview"
-      },
-      {
-        "replaced": "design-dlss5-filter-leak",
-        "with": "design-ai-interior-measurement",
-        "verified": "dev.to appears only in the design section's figma/tokens domain lists; no other section has published an AI-interior-measurement story"
-      }
-    ],
-    "not_duplicates_kept": [
-      "dev.to/planetabhi_ Figma variables piece is a distinct article from the same author's 'Design Diff' (design 2026-08-25) — different topic and URL",
-      "the two dev.to picks are different authors and unrelated topics (token structure vs. AI interior evaluation)",
-      "Adobe Creative Cloud YouTube mockup episode is a different video from the 2026-08-26 Photoshop selection short"
-    ],
-    "reserved_today_avoided": [
-      "80.lv Unity dungeon generation (games)",
-      "80.lv Stylized Water 3 river modeler (games)",
-      "fxguide / No Film School Adobe Firefly audio overhaul (movies)",
-      "Ars Technica Anthropic hardware standard (gadgets)",
-      "WIRED Relay Q mic (gadgets)",
-      "The Verge China robots (gadgets)",
-      "ZDNET Oura lawsuit (gadgets)",
-      "MacRumors Mac AI demand (gadgets)"
-    ],
-    "diversity_guard": {
-      "distinct_outlets": 4,
-      "max_per_outlet": 2,
-      "categories": {
-        "workflow": 1,
-        "tokens": 1,
-        "figma": 1,
-        "render": 1,
-        "social": 1
-      },
-      "accents_all_distinct": true
-    },
-    "orchestrator_override": "design-figma-id-source-material (Figma 'Source Material: i-D Magazine') was swapped out by the orchestrator: the article has no AI angle, and this brief's constant axis is AI x domain. Replaced with the Creative Bloq $3.4m Disney concept-art auction piece, which argues what AI concept art removes from the craft. Verified: absent from every section's published history, not on today's reserved cross-section list, and movies did not pick it."
-  },
-  "picks": [
+  "items": [
     {
-      "id": "design-ai-camo-shirt",
-      "title": "This shirt is like an AI invisibility cloak",
-      "url": "https://www.fastcompany.com/91595636/this-shirt-is-like-an-ai-invisibility-cloak",
-      "source": "Fast Company",
-      "published_iso": "2026-08-29T10:00:00+00:00",
-      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91595636-digital-camo-shirt.jpg",
-      "excerpt": "Designer Simon Weckert's garment uses a deliberately wacky pattern that works as camouflage against AI vision systems.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Pattern design as a functional interface to machine perception — a concrete case of designing for the model as an audience."
-    },
-    {
-      "id": "design-figma-variables-structure",
-      "title": "Structuring Variables in Figma",
-      "url": "https://dev.to/planetabhi_/structuring-variables-in-figma-32d8",
-      "source": "DEV Community",
-      "published_iso": "2026-08-29T08:04:14Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbxrp072bsm5p1i21wi9.webp",
-      "excerpt": "A practical scheme for organising Figma variables — primitives, semantic aliases, collections and modes — so a UI library stays scalable as projects grow.",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "A named, closed set of variables is exactly what stops a generating agent from inventing values — token structure is the guardrail now, not housekeeping."
-    },
-    {
-      "id": "design-disney-auction-concept-art",
-      "title": "The $3.4m Disney auction is a reminder of what AI concept art takes from us",
-      "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us",
-      "source": "Creative Bloq",
-      "published_iso": "2026-08-29T12:08:13Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QcAaimJpfPsZLum6vAjPV-1920-80.jpg",
-      "excerpt": "A record-breaking auction of original Disney concept art becomes an argument about what disappears when concept work is generated rather than drawn.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "컨셉 아트가 생성물로 대체될 때 무엇이 사라지는지를 3.4M 달러 디즈니 경매를 축으로 따진 글 — AI 이미지 도구를 쓰는 디자이너에게 직접 걸리는 craft 논점."
-    },
-    {
-      "id": "design-ai-interior-measurement",
-      "title": "A Measurement-First Workflow for Evaluating AI Interior Concepts",
-      "url": "https://dev.to/physicsai/a-measurement-first-workflow-for-evaluating-ai-interior-concepts-4h25",
-      "source": "DEV Community",
-      "published_iso": "2026-08-30T02:52:40Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8obez9gebnhzuvfg4pnz.png",
-      "excerpt": "AI image systems produce plausible interiors that quietly break real dimensions; this proposes measuring the generated concept against the actual room before anyone falls in love with the render.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Generated concepts look buildable and aren't — putting measurement before taste is the missing review step for AI visualisation."
-    },
-    {
-      "id": "design-adobe-unlock-mockups",
-      "title": "The Unlock | Product Mockups with Badal Patel",
-      "url": "https://www.youtube.com/watch?v=IlbD1rRIZLI",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "published_iso": "2026-08-28T15:03:13-07:00",
-      "og_image": "https://i.ytimg.com/vi/IlbD1rRIZLI/maxresdefault.jpg",
-      "excerpt": "Badal Patel of Super Spicy studio walks through his product-mockup approach, combining Adobe Firefly generation with hands-on Photoshop work.",
+      "id": "design-runway-solaris",
       "category": "social",
       "tool": "Social",
       "accent": "#ff2d55",
       "motif": "frame",
-      "rationale": "A working graphic designer showing exactly where he lets Firefly in and where he doesn't — the practical division of labour, not the pitch."
+      "title": "Introducing Solaris, our first Interface World Model | Runway",
+      "url": "https://www.youtube.com/watch?v=c2yCePPnrSA",
+      "source": "Runway (YouTube)",
+      "published_iso": "2026-08-31T09:36:02-07:00",
+      "og_image": "https://i.ytimg.com/vi/c2yCePPnrSA/maxresdefault.jpg",
+      "excerpt": "Runway unveils Solaris, an \"interface world model\" it describes as a new kind of operating system that generates interactive interfaces frame by frame from a prompt, with no code required.",
+      "rationale": "First-party launch of a model that emits live interactive UI frame-by-frame — the biggest novelty in the pool and a direct challenge to the design-to-code handoff."
+    },
+    {
+      "id": "design-vercel-design-md",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "How our agents build on-brand pages with design.md",
+      "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
+      "source": "Vercel",
+      "published_iso": "2026-08-31T00:00:00-04:00",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5F2lrV1tu5qQsQiSSll8GA/7ee5274fbd32707cdd.png",
+      "excerpt": "Vercel published design.md, a single public file any coding agent can load to build on-brand Vercel pages, plus the eval loop the team used to decide every rule inside it.",
+      "rationale": "A copyable artifact plus the eval loop behind it — a design system becomes a prompt-time contract a team can ship tomorrow."
+    },
+    {
+      "id": "design-css-random-polyfill",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "title": "Let's Use the Emergent CSS random() Function in all the Browsers",
+      "url": "https://css-tricks.com/css-random-function-polyfill/",
+      "source": "CSS-Tricks",
+      "published_iso": "2026-08-31T09:12:19-06:00",
+      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp",
+      "excerpt": "The journey to build a polyfill for the upcoming CSS random() function so generative, non-repeating visual effects can run in every browser today.",
+      "rationale": "Moves generative pattern and motion work out of JS and into the stylesheet, with a polyfill that works in production now."
+    },
+    {
+      "id": "design-blender-krita-bridge",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "This Tool Connects Blender & Krita For Texture Painting",
+      "url": "https://80.lv/articles/this-tool-connects-blender-krita-for-texture-painting/",
+      "source": "80 Level",
+      "published_iso": "2026-08-31T12:47:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49973/images/6a9577c894fe9/contain_1200x630.jpg",
+      "excerpt": "A new bridge lets artists capture a scene view in Blender, paint directly in Krita, and project the painted work back onto the model without a manual round trip.",
+      "rationale": "Kills the export/import tax between DCC and paint app — concrete pipeline relief for anyone doing texture work today."
+    },
+    {
+      "id": "design-quest3-240hz",
+      "category": "vr",
+      "tool": "VR Prototype",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "title": "Quest 3 Update Unlocks Huge Boost in Refresh Rate, Up to 240Hz",
+      "url": "https://roadtovr.com/quest-3-update-boost-refresh-rate-240hz/",
+      "source": "Road to VR",
+      "published_iso": "2026-08-31T13:59:51+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2024/04/quest-3-games.jpg",
+      "excerpt": "Meta pushed an update that effectively boosts Quest 3's refresh rate to 240Hz, or 207Hz at full resolution, though whether developers can exploit it remains open.",
+      "rationale": "Frame budget is the hard ceiling on spatial UI and motion design; a 240Hz ceiling changes what XR designers can spec."
     }
-  ]
+  ],
+  "dedup": {
+    "pool_size": 25,
+    "dropped_as_duplicate": 0,
+    "checked_against_days": 5,
+    "note": "No candidate matched a design card published 2026-08-26 through 2026-08-31 by URL or by event/content. Within-pool near-duplicates set aside: the second CSS-Tricks roundup (same outlet + adjacent CSS-platform topic as the random() polyfill), two extra UX Collective essays (outlet cap), and two extra Creative Bloq AI-slop pieces (outlet cap)."
+  },
+  "diversity": {
+    "outlets": ["Runway (YouTube)", "Vercel", "CSS-Tricks", "80 Level", "Road to VR"],
+    "categories": ["social", "figma", "tokens", "render", "vr"],
+    "max_per_outlet": 1,
+    "max_per_category": 1
+  }
 }

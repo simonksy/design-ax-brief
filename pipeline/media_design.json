@@ -1,32 +1,33 @@
 {
+  "date": "2026-09-01",
   "section": "design",
-  "date": "2026-08-31",
   "media": [
     {
-      "id": "design-ai-camo-shirt",
-      "type": "image",
-      "src": "pipeline/media/design-ai-camo-shirt.jpg"
-    },
-    {
-      "id": "design-figma-variables-structure",
-      "type": "image",
-      "src": "pipeline/media/design-figma-variables-structure.jpg"
-    },
-    {
-      "id": "design-disney-auction-concept-art",
-      "type": "image",
-      "src": "pipeline/media/design-disney-auction-concept-art.jpg"
-    },
-    {
-      "id": "design-ai-interior-measurement",
-      "type": "image",
-      "src": "pipeline/media/design-ai-interior-measurement.jpg"
-    },
-    {
-      "id": "design-adobe-unlock-mockups",
+      "id": "design-runway-solaris",
       "type": "video",
-      "src": "pipeline/media/design-adobe-unlock-mockups.mp4",
-      "poster": "pipeline/media/design-adobe-unlock-mockups.jpg"
+      "src": "pipeline/media/design-runway-solaris.mp4",
+      "poster": "pipeline/media/design-runway-solaris.jpg"
+    },
+    {
+      "id": "design-vercel-design-md",
+      "type": "image",
+      "src": "pipeline/media/design-vercel-design-md.png"
+    },
+    {
+      "id": "design-css-random-polyfill",
+      "type": "image",
+      "src": "pipeline/media/design-css-random-polyfill.webp"
+    },
+    {
+      "id": "design-blender-krita-bridge",
+      "type": "video",
+      "src": "pipeline/media/design-blender-krita-bridge.mp4",
+      "poster": "pipeline/media/design-blender-krita-bridge.jpg"
+    },
+    {
+      "id": "design-quest3-240hz",
+      "type": "image",
+      "src": "pipeline/media/design-quest3-240hz.jpg"
     }
   ]
 }
