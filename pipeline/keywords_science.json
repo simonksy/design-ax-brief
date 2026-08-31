@@ -1,254 +1,212 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "section": "science",
-  "now_iso": "2026-08-31T00:00:00Z",
+  "now_iso": "2026-08-31T22:00:35Z",
   "rotation": {
-    "basis": "FULL-POOL override (unattended run): all core + entire rotation pool are in play; no narrow rotation."
+    "mode": "FULL_POOL_OVERRIDE",
+    "note": "Unattended run. Rotation disabled by orchestrator instruction: ALL 4 science `core` keywords + the ENTIRE 50-item `keywords` list are used as today's working keywords (54 total), each expanded into 2-4 sibling phrases. No date-based slicing applied.",
+    "websearch_used_in_planning": false,
+    "recently_covered_skip_list": [
+      "AlphaFold/PottsMPNN protein sequence design (MIT Keating lab) — covered 2026-08-30/31",
+      "Quantum SVM heart-disease prediction, FAU (thequantuminsider) — covered 2026-08-31",
+      "Extended mean-field theory of neural populations / Boltzmann distribution — covered 2026-08-31",
+      "Human vs chess-engine strategic tension (Complexity Science Hub) — covered 2026-08-31",
+      "Claude doing electrophoresis algebra (CU Boulder, Gupta/Ganguly) — covered 2026-08-30",
+      "DeepMind double-blind AI evaluations pilot — covered 2026-08-30",
+      "LLM rewriting shrinks linguistic diversity / erases author traits (Nature Human Behaviour) — covered 2026-08-30",
+      "Quanta predictive categorization / brain compression framework — covered 2026-08-30"
+    ],
+    "guidance": "Prefer NEW stories on these same topic families rather than repeats of the exact items above; phrase queries toward fresh releases, new papers and new labs."
   },
   "working_keywords": [
+    { "keyword": "AI science", "origin": "core", "expansions": ["AI for scientific research", "machine learning research breakthrough", "AI 과학 연구", "AI-assisted experiment"] },
+    { "keyword": "AI for science", "origin": "core", "expansions": ["AI4Science", "science foundation model", "AI research assistant lab", "AI in the scientific method"] },
+    { "keyword": "AI 과학", "origin": "core", "expansions": ["인공지능 과학 연구", "AI 실험 자동화", "AI 논문 연구"] },
+    { "keyword": "AI scientific discovery", "origin": "core", "expansions": ["AI discovers new", "machine learning discovery paper", "AI-driven discovery Nature", "AI 과학적 발견"] },
+
+    { "keyword": "AI mental health", "origin": "pool", "expansions": ["LLM mental health study", "AI depression screening", "chatbot wellbeing trial", "AI 정신건강"] },
+    { "keyword": "AI therapy chatbot", "origin": "pool", "expansions": ["therapy chatbot clinical trial", "Woebot Therabot study", "LLM counseling safety", "AI 상담 챗봇"] },
+    { "keyword": "affective computing", "origin": "pool", "expansions": ["emotion recognition AI research", "AI empathy detection", "multimodal emotion model", "감성 컴퓨팅"] },
+    { "keyword": "AI and human behavior", "origin": "pool", "expansions": ["LLM social science experiment", "AI simulated participants", "human-AI interaction study", "generative agents society"] },
+    { "keyword": "LLM persuasion study", "origin": "pool", "expansions": ["AI changes beliefs experiment", "LLM debate persuasion paper", "AI misinformation correction study", "AI 설득 실험"] },
+    { "keyword": "AI 심리", "origin": "pool", "expansions": ["AI 심리학 연구", "LLM 심리 실험", "인공지능 정서 연구"] },
+    { "keyword": "LLM reasoning study", "origin": "pool", "expansions": ["chain-of-thought faithfulness research", "reasoning model benchmark paper", "LLM generalization limits study", "추론 모델 연구"] },
+    { "keyword": "theory of mind AI", "origin": "pool", "expansions": ["false belief task LLM", "machine theory of mind benchmark", "AI mentalizing study"] },
+    { "keyword": "machine cognition", "origin": "pool", "expansions": ["cognitive science of LLMs", "model of human cognition neural network", "Centaur cognition model", "기계 인지"] },
+    { "keyword": "AI consciousness", "origin": "pool", "expansions": ["machine consciousness research", "AI sentience scientific debate", "model welfare study", "AI 의식"] },
+    { "keyword": "neuro-symbolic AI", "origin": "pool", "expansions": ["symbolic reasoning hybrid model", "program synthesis reasoning AI", "neurosymbolic math proof", "뉴로심볼릭"] },
+    { "keyword": "brain-computer interface", "origin": "pool", "expansions": ["Neuralink trial update", "speech neuroprosthesis decoder", "AI brain decoding study", "뇌-컴퓨터 인터페이스"] },
+    { "keyword": "인지과학 AI", "origin": "pool", "expansions": ["cognitive science AI model", "뇌과학 인공지능 연구", "신경과학 딥러닝"] },
+
+    { "keyword": "AlphaFold", "origin": "pool", "expansions": ["AlphaFold 3 update", "Isomorphic Labs structure model", "structure prediction benchmark", "알파폴드"] },
+    { "keyword": "protein folding AI", "origin": "pool", "expansions": ["ESMFold protein language model", "protein structure prediction paper", "AI folding new fold", "단백질 접힘 AI"] },
+    { "keyword": "AI protein design", "origin": "pool", "expansions": ["RFdiffusion de novo protein", "Baker lab designed enzyme", "generative protein binder", "AI enzyme design"] },
+    { "keyword": "AI drug discovery", "origin": "pool", "expansions": ["AI-designed drug clinical trial", "Insilico Medicine candidate", "AI antibiotic discovery", "generative chemistry molecule"] },
+    { "keyword": "AI genomics", "origin": "pool", "expansions": ["Evo genome foundation model", "AlphaGenome variant prediction", "DNA language model paper", "AI 유전체"] },
+    { "keyword": "single-cell AI", "origin": "pool", "expansions": ["virtual cell model", "single-cell foundation model", "Arc Institute State model", "cell atlas machine learning"] },
+    { "keyword": "computational biology", "origin": "pool", "expansions": ["bioRxiv machine learning biology", "AI systems biology model", "deep learning microscopy biology", "계산생물학"] },
+    { "keyword": "AI 신약개발", "origin": "pool", "expansions": ["인공지능 신약 후보물질", "AI 임상시험 설계", "AI 제약 연구"] },
+    { "keyword": "AI 단백질 설계", "origin": "pool", "expansions": ["인공지능 단백질 구조", "AI 효소 설계", "생성형 단백질 모델"] },
+
+    { "keyword": "AI materials discovery", "origin": "pool", "expansions": ["machine learning new material synthesis", "crystal structure generative model", "materials foundation model", "신소재 AI 발견"] },
+    { "keyword": "GNoME", "origin": "pool", "expansions": ["DeepMind materials crystals", "graph networks materials exploration", "new stable crystals AI"] },
+    { "keyword": "MatterGen", "origin": "pool", "expansions": ["Microsoft materials generative model", "MatterSim simulation model", "inorganic materials diffusion model"] },
+    { "keyword": "self-driving lab", "origin": "pool", "expansions": ["autonomous laboratory robot chemistry", "closed-loop experimentation AI", "A-Lab Berkeley", "자율 실험실"] },
+    { "keyword": "autonomous materials lab", "origin": "pool", "expansions": ["robotic synthesis platform AI", "high-throughput experiment AI", "AI chemist robot"] },
+    { "keyword": "AI battery materials", "origin": "pool", "expansions": ["machine learning solid electrolyte", "AI electrolyte discovery", "battery foundation model", "AI 배터리 소재"] },
+    { "keyword": "AI 신소재", "origin": "pool", "expansions": ["인공지능 소재 탐색", "AI 촉매 설계", "머신러닝 소재 시뮬레이션"] },
+
+    { "keyword": "AI exoplanet detection", "origin": "pool", "expansions": ["machine learning exoplanet candidate", "TESS neural network planet", "AI biosignature analysis", "외계행성 AI"] },
+    { "keyword": "machine learning cosmology", "origin": "pool", "expansions": ["simulation-based inference cosmology", "AI dark matter map", "neural network large-scale structure", "우주론 머신러닝"] },
+    { "keyword": "AI telescope survey", "origin": "pool", "expansions": ["Rubin Observatory machine learning alerts", "JWST AI data analysis", "radio astronomy deep learning", "SKA AI pipeline"] },
+    { "keyword": "AI galaxy classification", "origin": "pool", "expansions": ["deep learning morphology galaxies", "gravitational lens finder AI", "Galaxy Zoo neural network"] },
+    { "keyword": "AI 천문학", "origin": "pool", "expansions": ["인공지능 천체 관측", "AI 우주 데이터 분석", "머신러닝 은하 분류"] },
+
+    { "keyword": "machine learning physics", "origin": "pool", "expansions": ["neural network solves physics problem", "physics-informed neural network", "AI symbolic regression law", "AI turbulence simulation"] },
+    { "keyword": "AI fusion plasma control", "origin": "pool", "expansions": ["tokamak reinforcement learning", "DeepMind plasma control update", "AI disruption prediction fusion", "핵융합 AI 제어"] },
+    { "keyword": "AI particle physics", "origin": "pool", "expansions": ["LHC machine learning trigger", "anomaly detection collider AI", "CERN deep learning analysis", "입자물리 AI"] },
+    { "keyword": "differentiable physics", "origin": "pool", "expansions": ["differentiable simulation research", "neural surrogate solver PDE", "AI molecular dynamics potential"] },
+    { "keyword": "AI weather climate model", "origin": "pool", "expansions": ["GraphCast GenCast forecast", "AI hurricane prediction model", "NeuralGCM climate emulator", "AI 기상 예측"] },
+    { "keyword": "AI 물리", "origin": "pool", "expansions": ["인공지능 물리학 연구", "머신러닝 시뮬레이션 물리", "AI 물리 법칙 발견"] },
+
+    { "keyword": "quantum machine learning", "origin": "pool", "expansions": ["variational quantum classifier study", "quantum kernel method paper", "quantum advantage learning experiment", "양자 기계학습"] },
+    { "keyword": "quantum AI", "origin": "pool", "expansions": ["AI for quantum computing", "Google Quantum AI result", "IBM quantum machine learning", "quantum-classical hybrid model"] },
+    { "keyword": "AI quantum error correction", "origin": "pool", "expansions": ["AlphaQubit decoder", "neural decoder surface code", "machine learning error mitigation qubit"] },
+    { "keyword": "quantum chemistry AI", "origin": "pool", "expansions": ["neural wavefunction ansatz", "FermiNet DeepMind chemistry", "machine learning DFT functional", "양자화학 AI"] },
+    { "keyword": "양자 머신러닝", "origin": "pool", "expansions": ["양자컴퓨터 인공지능", "양자 오류정정 AI", "양자 알고리즘 머신러닝"] },
+
+    { "keyword": "AI lab automation", "origin": "pool", "expansions": ["robotic lab AI experiment loop", "LLM controls laboratory robot", "automated protocol generation science", "실험실 자동화 AI"] },
+    { "keyword": "foundation model for science", "origin": "pool", "expansions": ["scientific foundation model release", "domain LLM for research", "Allen AI science model", "multimodal science model"] },
+    { "keyword": "AI hypothesis generation", "origin": "pool", "expansions": ["LLM generates novel hypothesis", "AI literature-based discovery", "automated ideation research study", "AI 가설 생성"] },
+    { "keyword": "AI co-scientist", "origin": "pool", "expansions": ["Google AI co-scientist results", "agentic research assistant science", "AI reproduces experiment paper", "autonomous research agent"] },
+    { "keyword": "AI 연구 자동화", "origin": "pool", "expansions": ["인공지능 논문 작성 연구", "AI 연구 에이전트", "자동 실험 설계 AI"] }
+  ],
+  "plan": [
     {
-      "keyword": "AI science",
-      "origin": "core"
+      "category": "science",
+      "bucket": "mind_cognition_psych",
+      "label": "Science — Mind & Cognition",
+      "allowed_domains": [
+        "quantamagazine.org", "phys.org", "sciencedaily.com", "newscientist.com",
+        "scientificamerican.com", "livescience.com", "technologyreview.com",
+        "psychologytoday.com", "apa.org", "statnews.com", "arxiv.org", "deepmind.google"
+      ],
+      "queries": [
+        "AI mental health study LLM therapy chatbot clinical trial 2026",
+        "LLM reasoning study theory of mind cognitive science experiment 2026",
+        "AI and human behavior LLM persuasion experiment new paper",
+        "brain-computer interface AI decoding speech neuroprosthesis 2026",
+        "AI 심리 인지과학 인공지능 연구 2026"
+      ]
     },
     {
-      "keyword": "AI for science",
-      "origin": "core"
+      "category": "science",
+      "bucket": "life_bio_medicine",
+      "label": "Science — Life Science & Biology",
+      "allowed_domains": [
+        "biorxiv.org", "genengnews.com", "fiercebiotech.com", "statnews.com",
+        "phys.org", "sciencedaily.com", "newscientist.com", "scientificamerican.com",
+        "technologyreview.com", "arxiv.org", "deepmind.google", "research.google"
+      ],
+      "queries": [
+        "AI protein design de novo enzyme RFdiffusion new result 2026",
+        "AI drug discovery AI-designed molecule clinical trial September 2026",
+        "AI genomics DNA language model virtual cell foundation model 2026",
+        "single-cell AI computational biology deep learning paper 2026",
+        "AI 신약개발 인공지능 단백질 설계 연구"
+      ]
     },
     {
-      "keyword": "AI 과학",
-      "origin": "core"
+      "category": "science",
+      "bucket": "materials_chemistry",
+      "label": "Science — Materials & Chemistry",
+      "allowed_domains": [
+        "phys.org", "sciencedaily.com", "technologyreview.com", "newscientist.com",
+        "arxiv.org", "physicsworld.com", "deepmind.google", "research.google",
+        "scientificamerican.com"
+      ],
+      "queries": [
+        "AI materials discovery generative model new crystal MatterGen GNoME 2026",
+        "self-driving lab autonomous materials laboratory robot chemistry 2026",
+        "AI battery materials machine learning electrolyte discovery 2026",
+        "machine learning catalyst design high-throughput experiment AI",
+        "AI 신소재 인공지능 소재 탐색 자율 실험실"
+      ]
     },
     {
-      "keyword": "AI scientific discovery",
-      "origin": "core"
+      "category": "science",
+      "bucket": "astronomy_space",
+      "label": "Science — Astronomy & Cosmology",
+      "allowed_domains": [
+        "space.com", "universetoday.com", "skyandtelescope.org", "phys.org",
+        "sciencedaily.com", "newscientist.com", "scientificamerican.com",
+        "quantamagazine.org", "arxiv.org"
+      ],
+      "queries": [
+        "AI exoplanet detection machine learning candidate planet 2026",
+        "machine learning cosmology dark matter simulation-based inference 2026",
+        "AI telescope survey Rubin Observatory JWST machine learning pipeline",
+        "deep learning galaxy classification gravitational lens finder AI",
+        "AI 천문학 인공지능 우주 관측 데이터 분석"
+      ]
     },
     {
-      "keyword": "AI mental health",
-      "origin": "pool"
+      "category": "science",
+      "bucket": "physics_quantum",
+      "label": "Science — Physics & Quantum",
+      "allowed_domains": [
+        "physicsworld.com", "physics.aps.org", "thequantuminsider.com",
+        "quantamagazine.org", "phys.org", "sciencedaily.com", "arxiv.org",
+        "newscientist.com", "technologyreview.com"
+      ],
+      "queries": [
+        "machine learning physics neural network solves physics problem 2026",
+        "AI fusion plasma control tokamak reinforcement learning 2026",
+        "quantum machine learning experiment quantum advantage learning 2026",
+        "AI quantum error correction neural decoder qubit 2026",
+        "AI weather climate model GraphCast NeuralGCM forecast 2026",
+        "양자 머신러닝 AI 물리 인공지능 시뮬레이션"
+      ]
     },
     {
-      "keyword": "AI therapy chatbot",
-      "origin": "pool"
+      "category": "science",
+      "bucket": "research_method_automation",
+      "label": "Science — Research Method & Automation",
+      "allowed_domains": [
+        "technologyreview.com", "deepmind.google", "research.google", "allenai.org",
+        "arxiv.org", "phys.org", "sciencedaily.com", "newscientist.com",
+        "quantamagazine.org", "scientificamerican.com", "statnews.com"
+      ],
+      "queries": [
+        "AI co-scientist autonomous research agent generates hypothesis 2026",
+        "foundation model for science scientific LLM release 2026",
+        "AI lab automation LLM controls laboratory robot experiment 2026",
+        "AI hypothesis generation literature-based discovery study 2026",
+        "AI scientific discovery neuro-symbolic reasoning mathematics proof 2026",
+        "AI 연구 자동화 인공지능 과학 발견"
+      ]
     },
     {
-      "keyword": "affective computing",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI and human behavior",
-      "origin": "pool"
-    },
-    {
-      "keyword": "LLM persuasion study",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI 심리",
-      "origin": "pool"
-    },
-    {
-      "keyword": "LLM reasoning study",
-      "origin": "pool"
-    },
-    {
-      "keyword": "theory of mind AI",
-      "origin": "pool"
-    },
-    {
-      "keyword": "machine cognition",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI consciousness",
-      "origin": "pool"
-    },
-    {
-      "keyword": "neuro-symbolic AI",
-      "origin": "pool"
-    },
-    {
-      "keyword": "brain-computer interface",
-      "origin": "pool"
-    },
-    {
-      "keyword": "인지과학 AI",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AlphaFold",
-      "origin": "pool"
-    },
-    {
-      "keyword": "protein folding AI",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI protein design",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI drug discovery",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI genomics",
-      "origin": "pool"
-    },
-    {
-      "keyword": "single-cell AI",
-      "origin": "pool"
-    },
-    {
-      "keyword": "computational biology",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI 신약개발",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI 단백질 설계",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI materials discovery",
-      "origin": "pool"
-    },
-    {
-      "keyword": "GNoME",
-      "origin": "pool"
-    },
-    {
-      "keyword": "MatterGen",
-      "origin": "pool"
-    },
-    {
-      "keyword": "self-driving lab",
-      "origin": "pool"
-    },
-    {
-      "keyword": "autonomous materials lab",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI battery materials",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI 신소재",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI exoplanet detection",
-      "origin": "pool"
-    },
-    {
-      "keyword": "machine learning cosmology",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI telescope survey",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI galaxy classification",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI 천문학",
-      "origin": "pool"
-    },
-    {
-      "keyword": "machine learning physics",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI fusion plasma control",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI particle physics",
-      "origin": "pool"
-    },
-    {
-      "keyword": "differentiable physics",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI weather climate model",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI 물리",
-      "origin": "pool"
-    },
-    {
-      "keyword": "quantum machine learning",
-      "origin": "pool"
-    },
-    {
-      "keyword": "quantum AI",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI quantum error correction",
-      "origin": "pool"
-    },
-    {
-      "keyword": "quantum chemistry AI",
-      "origin": "pool"
-    },
-    {
-      "keyword": "양자 머신러닝",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI lab automation",
-      "origin": "pool"
-    },
-    {
-      "keyword": "foundation model for science",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI hypothesis generation",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI co-scientist",
-      "origin": "pool"
-    },
-    {
-      "keyword": "AI 연구 자동화",
-      "origin": "pool"
+      "category": "science",
+      "bucket": "wildcard",
+      "label": "Science — Wildcard Trending",
+      "allowed_domains": [
+        "quantamagazine.org", "phys.org", "sciencedaily.com", "newscientist.com",
+        "scientificamerican.com", "technologyreview.com", "arxiv.org",
+        "livescience.com", "space.com", "physicsworld.com", "thequantuminsider.com",
+        "statnews.com", "genengnews.com", "biorxiv.org", "deepmind.google"
+      ],
+      "queries": [
+        "biggest AI science breakthrough this week August 31 September 1 2026"
+      ]
     }
   ],
-  "categories": [
-    "science"
-  ],
-  "allowed_domains": [
-    "allenai.org",
-    "apa.org",
-    "arxiv.org",
-    "biorxiv.org",
-    "deepmind.google",
-    "fiercebiotech.com",
-    "genengnews.com",
-    "livescience.com",
-    "newscientist.com",
-    "phys.org",
-    "physics.aps.org",
-    "physicsworld.com",
-    "psychologytoday.com",
-    "quantamagazine.org",
-    "research.google",
-    "sciencedaily.com",
-    "scientificamerican.com",
-    "skyandtelescope.org",
-    "space.com",
-    "statnews.com",
-    "technologyreview.com",
-    "thequantuminsider.com",
-    "universetoday.com"
-  ]
+  "totals": {
+    "working_keywords": 54,
+    "core_keywords": 4,
+    "pool_keywords": 50,
+    "seed_keywords": 0,
+    "buckets": 7,
+    "queries": 31
+  }
 }

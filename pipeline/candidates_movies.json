@@ -1,248 +1,248 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "section": "movies",
-  "now_iso": "2026-08-31T00:00:00Z",
   "window_hours": 336,
+  "now_iso": "2026-08-31T22:00:35Z",
   "items": [
     {
       "category": "movies",
-      "title": "How Tripo Is Tackling Clean Topology for its 3D Asset Pipeline",
-      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline/",
-      "source": "80.lv",
-      "published_iso": "2026-08-28T15:00:00+00:00",
-      "excerpt": "Tripo co-founder Dr. Yanpei Cao explains Smart Mesh, generating usable topology in seconds, and giving artists control over AI-generated assets. He frames the shift from single-asset generation toward complete interactive worlds.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49865/images/6a8caa21e033b/contain_1200x630.jpg",
-      "why": "AI 3D generation finally producing production-usable topology directly changes how VFX/animation artists bring generated assets into a film pipeline."
+      "group": "vfx_post_pipeline",
+      "title": "Avid Media Composer 2026.8 at IBC: Agentic Workflows, More",
+      "url": "https://postperspective.com/avid-media-composer-2026-8-at-ibc-agentic-workflows-more/",
+      "source": "postPerspective",
+      "published_iso": "2026-08-31T21:21:38+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/AvidComposer_UI_Workstation.jpg",
+      "excerpt": "At IBC, Avid will show the latest version of its Media Composer, featuring deeper integration into Avid Content Core and expanded agentic workflow intelligence. The 2026.8 Media Composer update adds new collaboration, storage and AI capabilities across film, television, broadcast, education and enterprise media production.  Avid will showcase its next agentic capability,"
     },
     {
       "category": "movies",
-      "title": "Utopai Is 'World's Largest Independent AI-Native Film and TV Studio,' Will Premiere 3 Movies and 2 Series in 2027",
-      "url": "https://variety.com/2026/biz/news/utopai-worlds-largest-independent-ai-native-film-tv-studio-will-premiere-3-movies-2-series-in-2027-1236844803/",
-      "source": "Variety",
-      "published_iso": "2026-08-27T16:00:00+00:00",
-      "excerpt": "Utopai Studios says it has 25 original projects in production on its AI-native pipeline, with three films and two series slated for 2027 premieres.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Utopai_Banner_169_HD.png?w=1000&h=563&crop=1",
-      "why": "A concrete production slate — not a demo — shows what an end-to-end AI-native studio pipeline actually commits to shipping."
+      "group": "vfx_post_pipeline",
+      "title": "Nice Touch Launches V2 of Its AI Edit Assistant for Pro Editors",
+      "url": "https://postperspective.com/nice-touch-launches-v2-of-its-ai-edit-assistant-for-pro-editors/",
+      "source": "postPerspective",
+      "published_iso": "2026-08-31T21:07:33+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Nice-Touch-app.jpg",
+      "excerpt": "Nice Touch has launched Version 2 of its app of the same name, an AI edit assistant for professional video post teams. V2 is a full rebuild shaped by more than 300 conversations with editors, producers, production supervisors and studio owners. It is available now.  Nice Touch analyzes a project’s footage,"
     },
     {
       "category": "movies",
-      "title": "Motion Picture Association Inks AI IP Protection Deal With ByteDance",
-      "url": "https://www.hollywoodreporter.com/business/digital/mpa-inks-ai-video-ip-protection-bytedance-1236675016/",
+      "group": "industry_policy_business",
+      "title": "If You Prompt a Movie or Song Into Existence With AI, You Shouldn’t Be Able to Profit From It",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ai-movies-prompts-songs-legislation-1236680256/",
       "source": "The Hollywood Reporter",
-      "published_iso": "2026-08-17T13:32:43+00:00",
-      "excerpt": "The agreement covers ByteDance's Seedance video models plus TikTok and other products, setting a framework for protecting studio IP inside generative video tools.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/GettyImages-2207982283-1.jpg?w=1296&h=730&crop=1",
-      "why": "Sets the rules of engagement for the video model most creatives are already using — what you can legally generate and ship changes with it."
+      "published_iso": "2026-08-31T19:36:54+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2157513800.jpg?w=1440&h=810&crop=1",
+      "excerpt": "\"Politicians should back legislation to prevent prompted generative AI outputs from being copyrighted across film, TV and music. The foundation of human creativity is at stake,\" writes the Motion Picture Sound Editors president."
     },
     {
       "category": "movies",
-      "title": "Val Kilmer Resurrected by AI: 'As Deep as the Grave' Releases Seven Minutes of Footage",
-      "url": "https://www.indiewire.com/news/business/val-kilmer-ai-movie-footage-as-deep-as-the-grave-1235211459/",
-      "source": "IndieWire",
-      "published_iso": "2026-08-19T17:00:00+00:00",
-      "excerpt": "Seven minutes of footage shows an AI-generated younger Val Kilmer performing as Father Fintan, the late actor's final screen 'performance'.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=650",
-      "why": "The clearest public look yet at synthetic performance quality — the benchmark every de-aging and likeness pipeline is now measured against."
+      "group": "vfx_post_pipeline",
+      "title": "Crafty Apes CEO Alana Newell",
+      "url": "https://www.fxguide.com/fxpodcasts/crafty-apes-ceo-alana-newell/",
+      "source": "fxguide",
+      "published_iso": "2026-08-31T16:27:25Z",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-craftyApes.jpg",
+      "excerpt": "From compositor to CEO: Alana Newell on the future of Crafty Apes."
     },
     {
       "category": "movies",
-      "title": "“Saying you're working with AI is like saying you have an STD,” argues Tilly Norwood creator",
-      "url": "https://www.screendaily.com/news/saying-youre-working-with-ai-is-like-saying-you-have-an-std-argues-tilly-norwood-creator/5219747.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-08-26T14:30:00Z",
-      "excerpt": "Eline van der Velden says she has signed hundreds of NDAs with companies quietly exploring AI, and urges public broadcasters to invest openly in the space.",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/8/7/1/1485871_unknown1_314055_crop.jpg",
-      "why": "Names the disclosure taboo directly: most productions already use AI but won't say so, which shapes how creative teams document their own workflows."
+      "group": "vfx_post_pipeline",
+      "title": "Eddie AI: client reviews, Resolve markers, PAYG credits",
+      "url": "https://www.redsharknews.com/eddie-ai-client-review-davinci-resolve-payg",
+      "source": "RedShark News",
+      "published_iso": "2026-08-31T15:25:36.000Z",
+      "og_image": "https://www.redsharknews.com/hubfs/eddie%20ai%20august%20updates.jpg",
+      "excerpt": "Eddie AI's August update brings a client review system, DaVinci Resolve marker export and SOC 2 Type II certification, alongside new credit pricing details."
     },
     {
       "category": "movies",
-      "title": "Former Pact CEO John McVay joins AI skills platform Aimici",
-      "url": "https://www.screendaily.com/news/former-pact-ceo-john-mcvay-joins-ai-skills-platform-aimici/5219550.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-08-20T09:59:00Z",
-      "excerpt": "The veteran UK producers' trade body chief joins Aimici, a platform focused on AI skills training for the screen industries, and will later take over as chair.",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/3/5/3/1485353_johnmcvayhighrescroppedlandscape_890838.jpg",
-      "why": "Signals that AI upskilling is becoming formal infrastructure for production crews, not an individual side project."
+      "group": "industry_policy_business",
+      "title": "Instagram will demote AI-generated influencers if they don't clearly label their account - Engadget",
+      "url": "https://www.engadget.com/2246914/instagram-will-demote-ai-generated-influencers-if-they-dont-clearly-label-their-account/",
+      "source": "Engadget",
+      "published_iso": "2026-08-31T13:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/instagram-will-demote-ai-generated-influencers-if-they-dont-clearly-label-their-account/l-intro-1787977858.jpg",
+      "excerpt": "The app isn't cracking down on other kinds of AI slop, though."
     },
     {
       "category": "movies",
-      "title": "Adobe Firefly Overhauls Its Audio Capabilities With Music, Speech, and Sound Effects All Now in One Place",
-      "url": "https://nofilmschool.com/adobe-firefly-audio-tools",
-      "source": "No Film School",
-      "published_iso": "2026-08-25T19:50:05+00:00",
-      "excerpt": "Firefly's Generate Music, Generate Speech and Generate Sound Effects go generally available, sized to a video's length and mood, with ElevenLabs voices as an option.",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67674816&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
-      "why": "Temp-score and scratch-VO work move inside the same tool as the picture edit, collapsing a whole outsourced step of post."
+      "group": "animation_shortfilm_festival",
+      "title": "Francesco Carrozzini on His Venice AI Doc ‘Be Brave’ and Why ‘The Human Has to Come First’ (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/francesco-carrozzini-venice-artificial-intelligence-brave-1236846518/",
+      "source": "Variety",
+      "published_iso": "2026-08-31T12:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Renzo-Rosso.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Francesco Carrozzini on his Venice-bound artificial intelligence film 'Be Brave'"
     },
     {
       "category": "movies",
-      "title": "Meet the Artists Behind the Emmy-Nominated VFX on 'Gen V'",
+      "group": "industry_policy_business",
+      "title": "VES announces new categories for the 25th annual VES Awards by Jose Antunes",
+      "url": "https://www.provideocoalition.com/ves-announces-new-categories-for-the-25th-annual-ves-awards/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-08-31T07:27:41-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/25vesawards001.jpg",
+      "excerpt": "This year, VES is introducing a new category for Outstanding Visual Effects in a Short Project and establishing separate award categories for animation and photoreal projects.  Taking place on February 17, 2027 at The Beverly Hilton in Los Angeles, the VES Awards is the industry’s most prestigious stage for VFX artisans around the world, recognizing [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/ves-announces-new-categories-for-the-25th-annual-ves-awards/\">Read More...<span class=\"screen-reader-text\"> from VES announces new categories for the 25th annual VES Awards</span></a></p>"
+    },
+    {
+      "category": "movies",
+      "group": "vfx_post_pipeline",
+      "title": "Photoshop AI Assisted Editor: Markup tool arrives",
+      "url": "https://www.redsharknews.com/adobe-photoshop-ai-assisted-editor-markup",
+      "source": "RedShark News",
+      "published_iso": "2026-08-29T06:00:00.000Z",
+      "og_image": "https://www.redsharknews.com/hubfs/media_1fa8befc5f0d3da7ff9385bcaa44480b885148144.jpg.webp",
+      "excerpt": "Adobe's new AI Assisted Editor brings prompt-based editing to Photoshop, now in public beta, alongside Markup, a tool for sketching edit instructions onto images."
+    },
+    {
+      "category": "movies",
+      "group": "preproduction_previs_script",
+      "title": "USC Adds Beeble AI Production Tools to Filmmaking Courses",
+      "url": "https://www.awn.com/news/usc-adds-beeble-ai-production-tools-filmmaking-courses",
+      "source": "Animation World Network",
+      "published_iso": "2026-08-28T19:36:50Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/etc-pathways-beeble-source-slap-comp-1280.jpg?itok=sslA5q57",
+      "excerpt": "The ETC think tank inside the School of Cinematic Arts has folded the AI toolmaker's relighting, compositing, and scene-reconstruction tech into courses and research for hands-on work in VFX, virtual production and visual storytelling."
+    },
+    {
+      "category": "movies",
+      "group": "industry_policy_business",
+      "title": "Lawsuit Over AI Character Tung Tune Sahur Has Companies Bickering; Hearing Set",
+      "url": "https://deadline.com/2026/08/tung-tung-sahur-ai-lawsuit-latest-1237061549/",
+      "source": "Deadline",
+      "published_iso": "2026-08-28T13:38:15+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Tung-Tung-Tung-Sahur-and-San-Jose-Federal-Courthouse.jpg?w=1024",
+      "excerpt": "Hollywood's future could take shape in a a legal fight full of Italian Brainrot AI slop, trademark claims, & certain Tung Tung Sahur, with guest appearances by Roblox and Fortnite"
+    },
+    {
+      "category": "movies",
+      "group": "animation_shortfilm_festival",
+      "title": "'Junkyard King' Creator Henry Daubrez Introduces Us to His Wild Animated World - Animation Magazine",
+      "url": "https://www.animationmagazine.net/2026/08/junkyard-king-creator-henry-daubrez-introduces-us-to-his-wild-animated-world/",
+      "source": "Animation Magazine",
+      "published_iso": "2026-08-28T00:32:06+00:00",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Junkyard-King-frame-669.00s-276ac9.jpg",
+      "excerpt": "'Junkyard King' creator and Odd Kid studio founder Henry Daubrez tells us how a practical approach to AI can fuel a creator-driven show."
+    },
+    {
+      "category": "movies",
+      "group": "vfx_post_pipeline",
+      "title": "Meet the Artists Behind the Emmy-Nominated VFX on Gen V",
       "url": "https://nofilmschool.com/meet-the-artists-behind-the-emmy-nominated-vfx-on-gen-v",
       "source": "No Film School",
       "published_iso": "2026-08-27T23:55:02+00:00",
-      "excerpt": "The Gen V VFX team breaks down the mix of practical and digital techniques used to make Season 2's superpowered chaos read as real.",
       "og_image": "https://nofilmschool.com/media-library/image.png?id=67681635&width=1200&height=600&coordinates=0%2C30%2C0%2C31",
-      "why": "A working account of where artists still choose practical over digital — the judgment call AI tools keep pushing on."
+      "excerpt": "The VFX team behind Gen V breaks down the practical and digital techniques used to make Season 2’s superpowered chaos feel real."
     },
     {
       "category": "movies",
-      "title": "George Clooney, Maggie Gyllenhaal Set For Venice CAA Forum",
-      "url": "https://deadline.com/2026/08/george-clooney-maggie-gyllenhaal-speakers-caa-venice-forum-1237046102/",
+      "group": "vfx_post_pipeline",
+      "title": "You Can Now Run Eddie AI as an MCP Server, Unlocking Pay-As-You-Go Use for AI Assistant Editing",
+      "url": "https://nofilmschool.com/eddie-ai-updates-pricing",
+      "source": "No Film School",
+      "published_iso": "2026-08-27T22:28:07+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=67686247&width=1200&height=600&coordinates=0%2C111%2C0%2C111",
+      "excerpt": "Eddie AI, which we’ve covered before, now offers a pay-as-you-go model as an MCP server, adding options for working within Claude or ChatGPT."
+    },
+    {
+      "category": "movies",
+      "group": "industry_policy_business",
+      "title": "Utopai Is Revolutionizing Storytelling as World’s Largest Independent AI-Native Film and TV Studio, Will Premiere 3 Movies and 2 Series in 2027",
+      "url": "https://variety.com/2026/biz/news/utopai-worlds-largest-independent-ai-native-film-tv-studio-will-premiere-3-movies-2-series-in-2027-1236844803/",
+      "source": "Variety",
+      "published_iso": "2026-08-27T16:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Utopai_Banner_169_HD.png?w=1000&h=563&crop=1",
+      "excerpt": "Utopai Studios has 25 original projects in various stages of production and is rapidly scaling its operations"
+    },
+    {
+      "category": "movies",
+      "group": "vfx_post_pipeline",
+      "title": "‘Wonka’s The Golden Ticket’ Trailer: Netflix Competition Show Recreates Chocolate Factory — and Gene Wilder’s Voice With AI",
+      "url": "https://variety.com/2026/tv/news/netflix-willy-wonka-reality-show-trailer-1236843994/",
+      "source": "Variety",
+      "published_iso": "2026-08-26T15:58:35+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Wonkas_The_Golden_Ticket_n_S1_E2_00_12_01_02RC.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Netflix released the trailer for 'Wonka's The Golden Ticket,' a Roald Dahl-inspired competition series with an AI recreation of Gene Wilder's voice."
+    },
+    {
+      "category": "movies",
+      "group": "animation_shortfilm_festival",
+      "title": "VES Awards Add New Categories For Animation And Short-Form VFX",
+      "url": "https://www.cartoonbrew.com/awards/ves-awards-new-and-changed-categories-265998.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-08-26T09:00:52",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/VES-25.jpg",
+      "excerpt": "Animated series will compete alongside features under revised rules that also split CG cinematography into separate animation and photoreal categories."
+    },
+    {
+      "category": "movies",
+      "group": "generative_video_models",
+      "title": "Google DeepMind, Kling AI & Alibaba Join Busan Market’s InnoAsia 2026 Program",
+      "url": "https://deadline.com/2026/08/google-deepmind-kling-ai-alibaba-busan-acfm-innoasia-1237050687/",
       "source": "Deadline",
-      "published_iso": "2026-08-25T12:00:00+00:00",
-      "excerpt": "The CAA-Finch & Partners forum at Venice convenes filmmakers, writers and technologists for a day on what AI means for creativity and which tools might actually support artists.",
-      "og_image": "https://deadline.com/wp-content/uploads/2025/08/George-Clooney.jpg?w=1024",
-      "why": "A major festival stages the AI-and-craft argument as programming, not a side panel — a read on where the industry conversation lands next."
+      "published_iso": "2026-08-26T08:18:32+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/08/ACFM_3.jpg?w=1024",
+      "excerpt": "Major tech, AI and microdrama companies have signed up to participate in the InnoAsia program of this year’s Asian Contents & Film Market (ACFM)."
     },
     {
       "category": "movies",
-      "title": "That time Bill Nighy wore 'computer pajamas'",
-      "url": "https://beforesandafters.com/2026/08/27/that-time-bill-nighy-wore-computer-pajamas/",
-      "source": "befores & afters",
-      "published_iso": "2026-08-26T22:39:59+00:00",
-      "excerpt": "How Davy Jones was brought to life in 'Dead Man's Chest' through Bill Nighy's on-set performance capture suit and ILM's then-new facial VFX innovations.",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Davy-thumbnail2.jpg",
-      "why": "The origin story of performance-driven digital characters — useful context for judging what today's AI face tools do and don't inherit."
+      "group": "vfx_post_pipeline",
+      "title": "BASE FX WORKS ON CREATURES BIG AND SMALL FOR BEEF SEASON 2",
+      "url": "https://vfxvoice.com/base-fx-works-on-creatures-big-and-small-for-beef-season-2/",
+      "source": "VFX Voice",
+      "published_iso": "2026-08-25T16:10:22+00:00",
+      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/08/PIX-16-Logo2.jpg",
+      "excerpt": "BEEF Season 2 turns revenge into a visual playground, with Base FX bringing ants, bees, a coyote attack and CG aircraft to life."
     },
     {
       "category": "movies",
+      "group": "vfx_post_pipeline",
       "title": "Don't miss ILP's VFX breakdown for 'The Mandalorian and Grogu'",
       "url": "https://beforesandafters.com/2026/08/25/dont-miss-ilps-vfx-breakdown-for-the-mandalorian-and-grogu/",
       "source": "befores & afters",
       "published_iso": "2026-08-25T02:24:48+00:00",
-      "excerpt": "Important Looking Pirates shares its environment work and Zeb creature shots from the new Mandalorian feature.",
       "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/ILP.jpg",
-      "why": "Shot-level breakdowns are the reference point crews use to calibrate what generated environments still can't match."
+      "excerpt": "Environment work and Zeb feature."
     },
     {
       "category": "movies",
-      "title": "VFX breakdown: 'Star City' by DNEG",
-      "url": "https://beforesandafters.com/2026/08/25/vfx-breakdown-star-city-by-dneg/",
-      "source": "befores & afters",
-      "published_iso": "2026-08-24T22:30:44+00:00",
-      "excerpt": "DNEG goes behind the scenes on its visual effects work for 'Star City'.",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Star-City-_-VFX-Breakdown-_-DNEG-2-16-screenshot.jpg",
-      "why": "A current large-facility pipeline on display — the baseline any AI-assisted shot has to slot into."
-    },
-    {
-      "category": "movies",
-      "title": "Phil Tippett Closes Berkeley Studio After Nearly 40 Years",
-      "url": "https://www.cartoonbrew.com/auctions/tippett-studio-closing-auction-266120.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-08-29T16:05:56Z",
-      "excerpt": "The Oscar-winning animation and VFX pioneer is auctioning decades of artifacts as he closes his Berkeley studio, though he says he won't retire: “I will die with my sword in my hand.”",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Tippett-Auction.jpg",
-      "why": "A landmark practical-effects house shutting its doors marks how fast the economics under hand-built creature work have moved."
-    },
-    {
-      "category": "movies",
-      "title": "'Coyote Vs. Acme's' Dave Green On Creating A Sympathetic Wile E.",
-      "url": "https://www.cartoonbrew.com/feature-film/coyote-vs-acme-dave-green-interview-265949.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-08-26T12:01:08Z",
-      "excerpt": "Director Dave Green explains how story artists, a life-size puppet and classic cartoon flashbacks turned a silent slapstick icon into the emotional center of the film.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Coyote-vs-Acme-Head.jpg",
-      "why": "Character design decisions made by hand and puppet, laid out step by step — a concrete counter-model to prompt-first character work."
-    },
-    {
-      "category": "movies",
-      "title": "VES Awards Add New Categories For Animation And Short-Form VFX",
-      "url": "https://www.cartoonbrew.com/awards/ves-awards-new-and-changed-categories-265998.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-08-26T09:00:52Z",
-      "excerpt": "Animated series will compete alongside features under revised rules that also split CG cinematography into separate animation and photoreal categories, plus a new in-camera effects award.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/VES-25.jpg",
-      "why": "Award taxonomy is how the craft defines itself — new in-camera and short-form categories show which work the field wants to protect."
-    },
-    {
-      "category": "movies",
-      "title": "Emmy: 'Alien: Earth' VFX Supervisor Aladino Debert Talks Workflow",
+      "group": "vfx_post_pipeline",
+      "title": "Emmy: Alien: Earth VFX Supervisor Aladino Debert Talks Workflow",
       "url": "https://postperspective.com/emmy-alien-earth-vfx-supervisor-aladino-debert-talks-workflow/",
       "source": "postPerspective",
       "published_iso": "2026-08-24T15:34:23+00:00",
-      "excerpt": "Debert walks through the VFX workflow behind Noah Hawley's eight-episode sci-fi horror series set two years before the original Alien.",
       "og_image": "https://postperspective.com/wp-content/uploads/2026/08/ALN_selectedStills_v11-1.jpg",
-      "why": "Supervisor-level detail on how a modern episodic VFX pipeline is actually sequenced and staffed."
+      "excerpt": "Alien: Earth, an eight-episode sci-fi horror series created by Noah Hawley, is set in 2120, two years before the original Alien storyline took place. It follows a hybrid human-synthetic named Wendy (Sydney Chandler) and a group of soldiers investigating a mysterious spaceship crash on a dystopian Earth."
     },
     {
       "category": "movies",
-      "title": "Emmy-Nominated DP Marshall Adams on 'Pluribus' Look, Workflow",
-      "url": "https://postperspective.com/emmy-nominated-dp-marshall-adams-on-pluribus-look-workflow/",
-      "source": "postPerspective",
-      "published_iso": "2026-08-25T14:57:19+00:00",
-      "excerpt": "The cinematographer of Vince Gilligan's Apple TV series details how the show's look was built and carried through post.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Pluribus_102_00364F-copyWEB-1.jpg",
-      "why": "Look development as a deliberate authored system — the part of the craft generative tools are least able to hold consistent."
+      "group": "preproduction_previs_script",
+      "title": "How the Cinematography of Nat Geo’s ‘Lion’ Combats AI Slop with Patience, Imperfections, and Biscuits",
+      "url": "https://www.indiewire.com/features/craft/nat-geo-lion-cinematography-interview-sophie-darlington-1235211387/",
+      "source": "IndieWire",
+      "published_iso": "2026-08-19T19:00:00+00:00",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/08/101_ChapterOne_APrinceIsBorn_Lion_58.jpg?w=650",
+      "excerpt": "Director of Photography Sophie Darlington tells IndieWire about crafting visuals that bring viewers as close as possible to seeing a lion pride."
     },
     {
       "category": "movies",
-      "title": "Mocha — An express tracking tutorial for After Effects",
-      "url": "https://www.provideocoalition.com/mocha-an-express-tracking-tutorial-for-after-effects/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-08-26T18:14:44-07:00",
-      "excerpt": "Chris Zwar walks through planar tracking in Mocha for After Effects, covering motion graphics inserts, stabilisation and reverse stabilisation for VFX.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/PVC_MochaExpress_FeatureImage.jpg",
-      "why": "Tracking is the step AI roto tools keep promising to automate; knowing the manual method is what makes the automated result checkable."
+      "group": "vfx_post_pipeline",
+      "title": "No, Vecna Wasn’t on Ozempic: How the ‘Stranger Things’ VFX Team Rebuilt Its Villain",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/stranger-things-vfx-vecna-season-five-1236675778/",
+      "source": "The Hollywood Reporter",
+      "published_iso": "2026-08-18T18:30:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/14AFEA-VFX-Main-2026.jpg?w=1296&h=730&crop=1",
+      "excerpt": "VFX supervisor Betsy Paterson explains the character’s slimmer look in season five and how she pulled off the finale’s massive destruction scenes."
     },
     {
       "category": "movies",
-      "title": "Watch: How WeFX Brought 'From' Season 4's Monsters to Life",
-      "url": "https://www.animationmagazine.net/2026/08/watch-how-wefx-brought-from-season-4s-monsters-to-life/",
-      "source": "Animation Magazine",
-      "published_iso": "2026-08-22T00:05:51+00:00",
-      "excerpt": "WeFX reveals the VFX work behind FROM Season 4 on MGM+, from eight-foot dolls to ominous crows.",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/FROM-s4-WeFX-featured.png",
-      "why": "A mid-size vendor showing its shot logic — the tier of studio most exposed to AI-assisted creature and crowd work."
-    },
-    {
-      "category": "movies",
-      "title": "Stop-Motion Hybrid Adaptation 'Lincoln in the Bardo' Casts Willem Dafoe, Jonathan Bailey & Peter Dinklage",
-      "url": "https://www.animationmagazine.net/2026/08/stop-motion-hybrid-adaptation-lincoln-in-the-bardo-casts-willem-dafoe-jonathan-bailey-peter-dinklage/",
-      "source": "Animation Magazine",
-      "published_iso": "2026-08-28T21:21:36+00:00",
-      "excerpt": "Based on George Saunders' novel, the hybrid stop-motion feature blends fact and imagination around a moment in Lincoln's life.",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Linocln-in-the-Bardo_Willem-Defoe_Peter-Dinklage.png",
-      "why": "A major hybrid stop-motion greenlight shows handmade technique still winning prestige projects as generative animation scales."
-    },
-    {
-      "category": "movies",
-      "title": "Base FX Works On Creatures Big And Small For 'Beef' Season 2",
-      "url": "https://vfxvoice.com/base-fx-works-on-creatures-big-and-small-for-beef-season-2/",
-      "source": "VFX Voice",
-      "published_iso": "2026-08-25T16:10:22+00:00",
-      "excerpt": "Base FX brings ants, bees, a coyote attack and CG aircraft to Beef Season 2, turning revenge into a visual playground.",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/08/PIX-16-Logo2.jpg",
-      "why": "Small-creature and insect work is exactly where simulation and generated imagery compete; this shows the current hand-built bar."
-    },
-    {
-      "category": "movies",
-      "title": "Creating Continuity Across Decades For 'The House Of The Spirits'",
-      "url": "https://vfxvoice.com/creating-continuity-across-decades-for-the-house-of-the-spirits/",
-      "source": "VFX Voice",
-      "published_iso": "2026-08-18T16:00:47+00:00",
-      "excerpt": "Garagevfx builds realistic digital environments, CGI animals and decades-spanning continuity for the adaptation of Isabel Allende's novel.",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/08/PIX-8-Gate2.jpg",
-      "why": "Aging characters and eras across decades is the classic de-aging brief — worth reading against what AI face tools now claim."
-    },
-    {
-      "category": "movies",
-      "title": "Flying Bark Enters the Avatar State with 'Avatar Aang: The Last Airbender'",
-      "url": "https://www.awn.com/animationworld/flying-bark-enters-avatar-state-avatar-aang-last-airbender",
-      "source": "Animation World Network",
-      "published_iso": "2026-08-28T23:31:07Z",
-      "excerpt": "Animation director Christian Barkel and CEO Barbara Stephen break down the hybrid 2D/CG workflow behind the new feature: three years of new tools, no rigs, and every movement drawn by hand.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081103-avataraangthelastairbender3840x16080016-1280-1280.jpg?itok=NSBMCYfr",
-      "why": "A studio built custom tooling to keep hand-drawn motion at feature scale — a working answer to 'automate it or author it'."
-    },
-    {
-      "category": "movies",
-      "title": "How 'Spider-Noir' Shot 1933 New York Twice",
-      "url": "https://www.awn.com/vfxworld/how-spider-noir-shot-1933-new-york-twice",
-      "source": "Animation World Network",
-      "published_iso": "2026-08-26T18:49:17Z",
-      "excerpt": "The VFX team explains building 1933 New York in both color and black-and-white passes for the series' dual-version release.",
-      "og_image": null,
-      "why": "Delivering two graded worlds from one shoot is a pipeline design problem — the kind AI color and relighting tools are aimed at."
+      "group": "generative_video_models",
+      "title": "Roger Avary's 'Paradise Lost' Gets Theatrical Deal And Release Date",
+      "url": "https://deadline.com/2026/08/roger-avary-paradise-lost-us-release-date-theatrical-1237044153/",
+      "source": "Deadline",
+      "published_iso": "2026-08-18T15:48:07+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/04/Roger-Avary-Paradise-Lost.jpg?w=1024",
+      "excerpt": "Roger Avary's 'Paradise Lost' & Alex Proyas' 'Heaven' Have U.S. Theatrical Commitments As AI Outfit Ex Machina Strikes Cinema Deal On Slate."
     }
   ]
 }

@@ -1,11 +1,32 @@
 {
+  "date": "2026-09-01",
   "section": "music",
-  "date": "2026-08-31",
   "media": [
-    {"id": "music-stemdeck", "type": "image", "src": "pipeline/media/music-stemdeck.png"},
-    {"id": "music-suno-friction", "type": "image", "src": "pipeline/media/music-suno-friction.jpg"},
-    {"id": "music-platform-ai-policies", "type": "image", "src": "pipeline/media/music-platform-ai-policies.jpg"},
-    {"id": "music-human-first-certification", "type": "video", "src": "pipeline/media/music-human-first-certification.mp4", "poster": "pipeline/media/music-human-first-certification.jpg"},
-    {"id": "music-round-hill-suit", "type": "image", "src": "pipeline/media/music-round-hill-suit.png"}
+    {
+      "id": "music-stable-audio-daw",
+      "type": "video",
+      "src": "pipeline/media/music-stable-audio-daw.mp4",
+      "poster": "pipeline/media/music-stable-audio-daw.jpg"
+    },
+    {
+      "id": "music-ai-track-detectives",
+      "type": "image",
+      "src": "pipeline/media/music-ai-track-detectives.jpg"
+    },
+    {
+      "id": "music-aria-chart-ban",
+      "type": "image",
+      "src": "pipeline/media/music-aria-chart-ban.jpg"
+    },
+    {
+      "id": "music-jazz-profile-hijack",
+      "type": "image",
+      "src": "pipeline/media/music-jazz-profile-hijack.png"
+    },
+    {
+      "id": "music-musical-spirograph",
+      "type": "image",
+      "src": "pipeline/media/music-musical-spirograph.png"
+    }
   ]
 }

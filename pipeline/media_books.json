@@ -1,11 +1,31 @@
 {
+  "date": "2026-09-01",
   "section": "books",
-  "date": "2026-08-31",
   "media": [
-    {"id": "books-hathitrust-transparent-books", "type": "image", "src": "pipeline/media/books-hathitrust-transparent-books.jpg"},
-    {"id": "books-writer-beware-ai-scams", "type": "image", "src": "pipeline/media/books-writer-beware-ai-scams.jpg"},
-    {"id": "books-japan-literary-prize-ai-flood", "type": "image", "src": "pipeline/media/books-japan-literary-prize-ai-flood.jpg"},
-    {"id": "books-vietnam-ai-labelling-law", "type": "image", "src": "pipeline/media/books-vietnam-ai-labelling-law.png"},
-    {"id": "books-ccc-fair-use-training-part3", "type": "image", "src": "pipeline/media/books-ccc-fair-use-training-part3.jpg"}
+    {
+      "id": "books-elsevier-nora-ebook-assistant",
+      "type": "image",
+      "src": "pipeline/media/books-elsevier-nora-ebook-assistant.jpg"
+    },
+    {
+      "id": "books-calibre-ai-covers",
+      "type": "image",
+      "src": "pipeline/media/books-calibre-ai-covers.jpg"
+    },
+    {
+      "id": "books-ssrs-audiobook-narration-survey",
+      "type": "image",
+      "src": "pipeline/media/books-ssrs-audiobook-narration-survey.png"
+    },
+    {
+      "id": "books-loc-ai-sandbox",
+      "type": "image",
+      "src": "pipeline/media/books-loc-ai-sandbox.png"
+    },
+    {
+      "id": "books-getabstract-human-longlist",
+      "type": "image",
+      "src": "pipeline/media/books-getabstract-human-longlist.png"
+    }
   ]
 }

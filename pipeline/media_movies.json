@@ -1,11 +1,32 @@
 {
+  "date": "2026-09-01",
   "section": "movies",
-  "date": "2026-08-31",
   "media": [
-    {"id": "movies-utopai-ai-native-slate", "type": "image", "src": "pipeline/media/movies-utopai-ai-native-slate.png"},
-    {"id": "movies-firefly-audio-tools", "type": "image", "src": "pipeline/media/movies-firefly-audio-tools.jpg"},
-    {"id": "movies-tippett-studio-closing", "type": "image", "src": "pipeline/media/movies-tippett-studio-closing.jpg"},
-    {"id": "movies-tilly-norwood-disclosure", "type": "image", "src": "pipeline/media/movies-tilly-norwood-disclosure.jpg"},
-    {"id": "movies-flying-bark-avatar-aang", "type": "video", "src": "pipeline/media/movies-flying-bark-avatar-aang.mp4", "poster": "pipeline/media/movies-flying-bark-avatar-aang.jpg"}
+    {
+      "id": "movies-nice-touch-v2",
+      "type": "image",
+      "src": "pipeline/media/movies-nice-touch-v2.jpg"
+    },
+    {
+      "id": "movies-ai-prompt-copyright-bill",
+      "type": "image",
+      "src": "pipeline/media/movies-ai-prompt-copyright-bill.jpg"
+    },
+    {
+      "id": "movies-be-brave-venice-ai-doc",
+      "type": "image",
+      "src": "pipeline/media/movies-be-brave-venice-ai-doc.jpg"
+    },
+    {
+      "id": "movies-junkyard-king-daubrez",
+      "type": "video",
+      "src": "pipeline/media/movies-junkyard-king-daubrez.mp4",
+      "poster": "pipeline/media/movies-junkyard-king-daubrez.jpg"
+    },
+    {
+      "id": "movies-tung-sahur-ai-lawsuit",
+      "type": "image",
+      "src": "pipeline/media/movies-tung-sahur-ai-lawsuit.jpg"
+    }
   ]
 }

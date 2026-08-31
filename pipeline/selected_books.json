@@ -1,102 +1,139 @@
 {
+  "date": "2026-09-01",
   "section": "books",
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T00:00:00Z",
+  "generated_iso": "2026-08-31T22:30:00Z",
+  "pool_size": 14,
   "selection_mode": "curator_auto",
-  "dedup": {
-    "pool_size": 7,
-    "against_days": 5,
-    "published_urls_checked": 30,
-    "dropped": 2,
-    "kept": 5,
-    "dropped_items": [
-      {
-        "title": "Claude to Add Watermarks, and More AI Publishing News",
-        "url": "https://bookriot.com/claude-to-add-watermarks-and-more-ai-publishing-news/",
-        "source": "Book Riot",
-        "reason": "content_duplicate",
-        "detail": "Same source + same core topic as the already-published Book Riot roundup 'Welcome to the Uncanny Valley' (books-uncanny-valley-detection, 2026-08-27), which already carried the Anthropic watermarking announcement, the AI-detector stress test, and David Corn's Claude-written novel. Also overlaps books-claude-watermark-theatre (Jane Friedman, 2026-08-29). Classic content-hub duplicate — keep the single best, earliest-published version."
-      },
-      {
-        "title": "Viwoods AiPaper and AiPaper Mini have received cloud sync",
-        "url": "https://goodereader.com/blog/electronic-readers/viwoods-aipaper-and-aipaper-mini-have-received-cloud-sync",
-        "source": "Good e-Reader",
-        "reason": "off_topic_no_ai_substance",
-        "detail": "Not a dedup drop — fresh and whitelisted, but the only AI content is the device brand name. A 10GB cloud-sync rollout for an e-paper tablet does not change how a writer, publisher or designer works with AI tomorrow. Dropped rather than published as filler."
-      }
-    ],
-    "notes": "Checked every card in sections.books.today (2026-08-30) and sections.books.days (2026-08-25 through 2026-08-29) on URL + content. No surviving pick shares a URL with published history. Partial topical adjacency flagged and accepted: the CCC fair-use piece sits near the TechCrunch 'is it legal to train AI on copyrighted books' explainer (2026-08-25), but it is a distinct article from the collective licensing body whose payload — what rightsholders can actually license after the rulings — is absent from the TechCrunch card. The Vietnam labelling law is a separate national mandate from the EU transparency guidance covered on 2026-08-26.",
-    "diversity": {
-      "outlets": 5,
-      "max_per_outlet": 1,
-      "guard": "applied leniently per run override; pool of 7 still yielded 5 distinct outlets"
-    }
-  },
   "picks": [
     {
-      "id": "books-hathitrust-transparent-books",
+      "id": "books-elsevier-nora-ebook-assistant",
+      "category": "books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "title": "Digital Books: HathiTrust Awarded $5 Million, 5-Year Mellon Grant to Enable AI-Driven Access and Discovery",
-      "url": "https://www.infodocket.com/2026/08/27/hathitrust-awarded-5-million-5-year-mellon-grant-to-enable-ai-driven-access-and-discovery/",
-      "source": "Library Journal infoDOCKET",
-      "published_iso": "2026-08-27T18:04:35+00:00",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/08/2026-08-27_13-05-55.png",
-      "excerpt": "HathiTrust, with Northeastern University Library and Authors Alliance, won a five-year, $5M Mellon Foundation grant for “Transparent Books: AI Infrastructure for Discovery and the Public Interest,” applying AI to improve descriptive metadata and text quality across 19 million digitized volumes and to supply verified, traceable book text and images for academic and noncommercial use.",
-      "rationale": "The consented counter-model to Amazon's shredding warehouse and Anthropic's Project Panama — 19 million volumes turned into a traceable, permissioned corpus, which changes where researchers and publishers can legitimately source book text."
+      "title": "Elsevier Launches AI Assistant for Healthcare E-books",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101137-elsevier-launches-ai-assistant-for-healthcare-e-books.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-08-31T12:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131207-1.JPG",
+      "excerpt": "Elsevier's Nora AI lets healthcare students ask questions about their course materials and get answers without leaving the e-book. The assistant is scoped to the publisher's own licensed content rather than the open web.",
+      "rationale": "A major educational publisher shipping an in-book assistant scoped to licensed content turns the e-book from a container into an interface — the clearest new brief for reading-product designers."
     },
     {
-      "id": "books-writer-beware-ai-scams",
+      "id": "books-calibre-ai-covers",
+      "category": "books",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "title": "Production Companies, Literary Agents, Foreign Languages: AI-Driven Scams Continue to Morph",
-      "url": "https://writerbeware.blog/2026/08/28/production-companies-literary-agents-foreign-languages-ai-driven-scams-continue-to-morph/",
-      "source": "Writer Beware",
-      "published_iso": "2026-08-28T18:51:10+00:00",
-      "og_image": "https://writerbeware.blog/wp-content/uploads/2025/10/Blog-images-AI-3-scaled.jpg",
-      "excerpt": "Writer Beware documents how author-targeting scams have been rebuilt on generative AI — fake production companies, impersonated literary agents, and newly fluent foreign-language solicitations that no longer betray themselves through broken English.",
-      "rationale": "Most actionable item in the pool: generative AI has erased the broken-English tell that authors and freelancers used to screen predatory approaches, so the vetting checklist has to be rebuilt from scratch."
+      "title": "Calibre ebook manager lets you generate AI book covers in a click",
+      "url": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
+      "source": "OMG! Ubuntu",
+      "published_iso": "2026-08-28T22:59:40Z",
+      "og_image": "https://www.omgubuntu.co.uk/wp-content/uploads/2026/08/calibre-ai-covers.jpg",
+      "excerpt": "Calibre 9.14 adds generative AI cover creation to the open-source e-book manager, letting users produce and swap in a cover image from a prompt inside the library tool itself.",
+      "rationale": "Cover generation shipping as a default feature in mainstream reader software lands directly on book-cover design work and on what readers now expect a jacket to be."
     },
     {
-      "id": "books-japan-literary-prize-ai-flood",
+      "id": "books-ssrs-audiobook-narration-survey",
+      "category": "books",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "title": "AI가 소설 쓰는 시대, 작품 고르는 일이 더 어려워졌다: 일본 문학상이 직면한 새로운 과제",
-      "url": "https://www.huffingtonpost.kr/article/259630",
-      "source": "허프포스트코리아",
-      "published_iso": "2026-08-18T14:28:24+09:00",
-      "og_image": "https://cdn.huffingtonpost.kr/news/photo/202608/202608189503.jpg?v=259630",
-      "excerpt": "니혼게이자이신문 보도를 인용해, AI로 쓴 소설이 일본 문학상 공모에 몰리면서 심사 부담이 급증했다고 전한다. 제14회 하야카와 SF 콘테스트 응모작은 예년 400편 안팎에서 1012편으로 두 배 이상 늘었고, 제13회 호시 신이치상 일반부문 수상작 4편 중 3편이 창작 과정에 AI를 활용했다.",
-      "rationale": "Hard numbers on a judging system buckling under AI submissions — Hayakawa SF entries jumping from ~400 to 1,012, and three of four Hoshi Shinichi winners using AI — a submission-and-selection shift no other candidate covers."
+      "title": "AI vs. Human Audiobook Narration: A Blinded Survey of 1,000 Listeners",
+      "url": "https://ssrs.com/news/ai-vs-human-audiobook-narration-a-blinded-survey-of-1000-listeners/",
+      "source": "SSRS",
+      "published_iso": "2026-08-31T17:45:35Z",
+      "og_image": "https://ssrs.com/wp-content/uploads/2026/08/audiobook-narration-survey.jpg",
+      "excerpt": "A blinded listening study of 1,000 audiobook consumers testing whether people can tell AI narration from human narration — and whether knowing changes how much they say they'd pay.",
+      "rationale": "Actual listener data instead of vibes on synthetic narration — the number publishers and narrators will both cite in the next contract fight."
     },
     {
-      "id": "books-vietnam-ai-labelling-law",
+      "id": "books-loc-ai-sandbox",
+      "category": "books",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "title": "Vietnam's Publishing Sector Has New Rules and Wants AI Content Labelled",
-      "url": "https://thenewpublishingstandard.com/2026/08/26/vietnam-publishing-law-ai-copyright/",
-      "source": "The New Publishing Standard",
-      "published_iso": "2026-08-26T10:00:45Z",
-      "og_image": "https://dev.thenewpublishingstandard.com/wp-content/uploads/2022/04/South-East-Asia.png",
-      "excerpt": "Vietnam's revised publishing law introduces mandatory labelling for AI-generated content alongside tightened copyright provisions for the book trade. It joins the EU AI Act and China's draft standards in making AI disclosure a legal requirement rather than a publisher choice.",
-      "rationale": "A third jurisdiction turning AI disclosure from a publisher policy into statute — the labelling obligation is now a distribution requirement any author selling into these markets has to plan for."
+      "title": "“A Secure Environment to Explore”: The AI Sandbox Initiative For Staff at the Library of Congress",
+      "url": "https://www.infodocket.com/2026/08/31/a-secure-environment-to-explore-learn-about-the-ai-sandbox-initiative-for-staff-at-the-library-of-congress/",
+      "source": "InfoDocket (Library Journal)",
+      "published_iso": "2026-08-31T15:41:24Z",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/08/library-of-congress-ai-sandbox.png",
+      "excerpt": "The Library of Congress has stood up an internal AI sandbox so staff can test generative tools against collections work in a controlled environment before anything touches public services.",
+      "rationale": "A rare, concrete rollout model — sandbox first, workflow second — that any content or collections organization can copy tomorrow."
     },
     {
-      "id": "books-ccc-fair-use-training-part3",
+      "id": "books-getabstract-human-longlist",
+      "category": "books",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "title": "The Heart of the Matter: Copyright, AI Training, and LLMs – Part 3: Fair Use and AI Training Under US Law",
-      "url": "https://www.copyright.com/blog/the-heart-of-the-matter-copyright-ai-training-llms-part-3/",
-      "source": "Copyright Clearance Center",
-      "published_iso": "2026-08-27T04:57:00+00:00",
-      "og_image": "https://www.copyright.com/wp-content/uploads/2024/09/Heart-of-the-Matter-Executive-Summary.jpeg",
-      "excerpt": "CCC walks through how the recent federal court decisions actually apply the US fair use defense to AI model training — which acquisition and copying steps courts have blessed, which they have not, and what that leaves rightsholders able to license.",
-      "rationale": "Written by the collective licensing body rather than a reporter: it converts the fair-use rulings into the practical question authors and publishers keep asking — which rights are still yours to sell for AI training."
+      "title": "Recognizing ‘Human’ Contributions, Longlist Revealed for the 26th getAbstract International Book Award",
+      "url": "https://publishingperspectives.com/2026/08/recognizing-human-contributions-longlist-revealed-for-the-26th-getabstract-international-book-award-for-business-impact/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-08-31T12:33:26Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-7.37.00-AM.png",
+      "excerpt": "The 2026 getAbstract award longlist is explicitly framed around recognizing human authorship and contribution, with winners to be announced October 8 at the Frankfurt Book Fair.",
+      "rationale": "Prizes are starting to certify “human-made” as a category — an early signal of how authorship credit gets defined and marketed in an AI-saturated list."
     }
-  ]
+  ],
+  "dedup": {
+    "pool": 14,
+    "dropped": 7,
+    "selected": 5,
+    "checked_against": [
+      "sections.books.today (2026-08-31)",
+      "sections.books.days 2026-08-26 … 2026-08-30"
+    ],
+    "dropped_items": [
+      {
+        "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+        "reason": "Same release as published card books-google-expert-intelligence (Publishers Weekly, 2026-08-28) — Google Gemini Notebook 'Expert Intelligence'."
+      },
+      {
+        "url": "https://www.infodocket.com/2026/08/27/google-announces-launch-of-expert-intelligence-feature-for-gemini-notebook/",
+        "reason": "Same release as published card books-google-expert-intelligence (2026-08-28), different outlet."
+      },
+      {
+        "url": "https://selfpublishingadvice.org/destroying-books-to-train-ai/",
+        "reason": "Same story as published cards books-amazon-vgt3-scanning (404 Media, 2026-08-28) and books-ftc-book-destruction (2026-08-29) — destructive book scanning for AI training."
+      },
+      {
+        "url": "https://goodereader.com/blog/amazon-news/ai-companies-are-buying-hardcover-books-and-destroying-them",
+        "reason": "Same story as published books-amazon-vgt3-scanning (2026-08-28), different outlet."
+      },
+      {
+        "url": "https://selfpublishingadvice.org/podcast-amazon-rips-up-rare-books/",
+        "reason": "Same story as published books-amazon-vgt3-scanning / books-ftc-book-destruction; also same source + topic as the ALLi post above."
+      },
+      {
+        "url": "https://goodereader.com/blog/e-reader-radio/podcast-amazon-kindle-and-ai-destruction-of-books",
+        "reason": "Same story as published books-amazon-vgt3-scanning (2026-08-28); podcast restatement of the same Good e-Reader report."
+      },
+      {
+        "url": "https://selfpublishingadvice.org/anthropic-adds-watermarks/",
+        "reason": "Same event as published cards books-uncanny-valley-detection (2026-08-27) and books-claude-watermark-theatre (2026-08-29) — Anthropic watermarking Claude output."
+      }
+    ],
+    "not_selected_but_unique": [
+      {
+        "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
+        "reason": "Fresh and distinct, but heavy topical overlap with published books-scholarly-kitchen-ai-use (same outlet, 2026-08-28, detection accuracy + disclosure policy); dropped to protect the outlet spread."
+      },
+      {
+        "url": "https://bookriot.com/nonfiction-about-ai-and-social-media/",
+        "reason": "Fresh and distinct, but an evergreen reading list — lowest actionability and novelty in the surviving pool."
+      }
+    ]
+  },
+  "diversity": {
+    "outlets": [
+      "Publishers Weekly",
+      "OMG! Ubuntu",
+      "SSRS",
+      "InfoDocket (Library Journal)",
+      "Publishing Perspectives"
+    ],
+    "max_per_outlet": 1,
+    "note": "Single-category section (books); accents assigned distinct per pick from sources.json palette."
+  }
 }

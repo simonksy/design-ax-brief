@@ -1,138 +1,159 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "section": "music",
-  "now_iso": "2026-08-31T00:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "category": "music",
-      "title": "Guilt-Free AI: These 6 AI music tools actually pay the artists behind them",
-      "url": "https://musictech.com/guides/buyers-guide/best-ethical-ai-music-plugins/",
+      "url": "https://musictech.com/news/music/dreamtonics-instrument-x/",
       "source": "MusicTech",
-      "published_iso": "2026-08-18T15:46:51+00:00",
-      "excerpt": "LANDR, Moises AI, Voice-Swap and more: the AI music plugins that license their training data and share revenue with the artists behind it.",
-      "og_image": "https://musictech.com/wp-content/uploads/2025/08/moises-studio-ai-daw@2000x1500-1068x801.jpg",
-      "why": "실무자가 바로 고를 수 있는 '학습 데이터 라이선스 + 수익 배분' 기준의 AI 플러그인 목록. 도구 선택 기준 자체를 바꾸는 큐레이션."
+      "category": "music",
+      "published_iso": "2026-08-27T09:45:29Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/08/Dreamtonics-hero@2000x1500-1068x801.jpg",
+      "excerpt": "Dreamtonics' Instrument X replaces multi-gigabyte sample libraries with neural acoustic modelling, using AI to shape human playing details like breath pressure and bow friction. It aims to let producers build a digital orchestra that responds like real musicians."
     },
     {
-      "category": "music",
-      "title": "Cleaning Up Vocal Rips With LALAL.AI Lynx",
-      "url": "https://www.attackmagazine.com/technique/tutorials/cleaning-up-vocal-rips-with-lalal-ai-lynx/",
-      "source": "Attack Magazine",
-      "published_iso": "2026-08-18T21:40:47+00:00",
-      "excerpt": "Grabbing vocal samples from the internet or vinyl? Here's how to clean up voice rips with LALAL.AI and its new Lynx algorithm, and use them in tracks.",
-      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Mag-Reviews-Lalal.ai-Lynx.png",
-      "why": "새 스템 분리 알고리즘 Lynx를 실제 샘플링 워크플로에 넣는 실전 튜토리얼. AI가 '분리'를 넘어 '복원'까지 맡는 지점을 보여준다."
-    },
-    {
-      "category": "music",
-      "title": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
-      "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
+      "url": "https://www.synthtopia.com/content/2026/08/31/dreamtonics-instrument-x-replaces-big-sample-libraries-with-neural-acoustics/",
       "source": "Synthtopia",
-      "published_iso": "2026-08-27T13:58:21+00:00",
-      "excerpt": "Stemdeck is a modern stem extraction platform, designed to isolate vocals, drums, bass, piano and guitar for practice, transcription, remixing, and creative audio workflows.",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png",
-      "why": "업로드 없이 로컬에서 5갈래 스템을 뽑는 무료 오픈소스 도구. 클라우드 의존 없는 AI 오디오 작업의 기본값이 바뀌고 있다."
+      "category": "music",
+      "published_iso": "2026-08-31T18:07:25Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/dreamtronics-instrument-x.jpg",
+      "excerpt": "Synthtopia's look at Dreamtonics Instrument X, a virtual-instrument platform that swaps sample playback for neural acoustics models. The pitch is smaller installs and more expressive, physically modelled performance control."
     },
     {
+      "url": "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
+      "source": "Stability AI",
       "category": "music",
-      "title": "Round Hill joins the AI lawsuit party, targets Suno and Anthropic",
-      "url": "https://completemusicupdate.com/round-hill-joins-the-ai-lawsuit-party-targets-suno-and-anthropic/",
-      "source": "Complete Music Update",
-      "published_iso": "2026-08-19T14:21:45+00:00",
-      "excerpt": "More lawsuits have been filed against generative AI companies, this time Round Hill suing Suno and Anthropic. Round Hill insists 'there is nothing fair about that use'.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/suno-anthropic-roundhill.png",
-      "why": "학습 데이터 '공정이용' 방어선이 음악 퍼블리싱 쪽에서 또 시험대에 오른다. 생성 도구를 쓰는 창작자의 사용 조건에 직결."
+      "published_iso": "2026-08-18T13:55:14Z",
+      "og_image": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
+      "excerpt": "Stability AI opens an early beta of two new ways to use Stable Audio 3.0: a DAW plugin that puts generation inside the session, and a more advanced generation experience on StableAudio.com."
     },
     {
+      "url": "https://www.digitalmusicnews.com/2026/08/25/elevenmusic-composer-section-by-section-song-editor/",
+      "source": "Digital Music News",
       "category": "music",
-      "title": "Apple Music to start labelling tracks 'Made With AI'",
+      "published_iso": "2026-08-25T20:31:26Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/elevenlabs-suno-rival-elevenmusic-launches-composer-song-editor.png",
+      "excerpt": "ElevenLabs launches Composer inside ElevenMusic, a section-by-section song editor that lets users rewrite a verse or chorus instead of regenerating a whole track. It pushes AI music from one-shot prompting toward editable arrangement."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/luminate-launches-ai-music-identification-framework-with-ai-generated-labels-reaching-connect-later-this-year/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-08-26T17:49:31Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/New-Project-4.jpg",
+      "excerpt": "Luminate launches a global AI music identification framework, flagging songs and artist profiles as AI-generated inside its CONNECT analytics platform. It gives the industry a shared vocabulary for how much machine involvement a release carries."
+    },
+    {
       "url": "https://completemusicupdate.com/apple-music-to-start-labelling-tracks-made-with-ai/",
-      "source": "Complete Music Update",
-      "published_iso": "2026-08-21T15:24:21+00:00",
-      "excerpt": "Apple Music will add 'Made With AI' labels to tracks flagged as materially generated using AI by labels and distributors, rolling out by the end of 2026.",
-      "og_image": "",
-      "why": "플랫폼이 'AI로 만들었다'를 메타데이터로 강제하기 시작했다. 릴리스 파이프라인의 신고 절차가 새로 생긴다."
+      "source": "CMU",
+      "category": "music",
+      "published_iso": "2026-08-21T15:24:21Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/apple-music-AI.png",
+      "excerpt": "Apple Music will label tracks 'Made With AI' in-app later this year, relying on labels and distributors to attach AI transparency tags at delivery. Disclosure becomes part of the release checklist for anyone using generative tools."
     },
     {
+      "url": "https://www.gearnews.com/ai-music-charts-tech/",
+      "source": "Gearnews",
       "category": "music",
-      "title": "Big & Rich Vs. Artificial Intelligence on 'Hello AI': Video Premiere",
-      "url": "https://www.billboard.com/music/country/big-rich-new-song-hello-ai-premiere-1236325574/",
-      "source": "Billboard",
-      "published_iso": "2026-08-27T16:00:00Z",
-      "excerpt": "A lot of artists have spoken out against artificial intelligence, but country duo Big & Rich have lodged their protest in the form of the new song 'Hello AI.'",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2020/03/big-and-rich-2020-cr-Kristin-Barlowe-billboard-1548-1585686363.jpg?w=1024",
-      "why": "AI 반대 담론이 성명서가 아니라 곡과 뮤직비디오라는 창작물 형식으로 나왔다. 창작 자체가 논평이 되는 사례."
+      "published_iso": "2026-08-29T10:22:15Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/KI-Musik-Charts-2026-T.jpg",
+      "excerpt": "Australia bars fully AI-generated songs from the ARIA charts, joining a widening group of chart bodies that now require a human performance credit. Gearnews maps what counts as 'AI-assisted' versus disqualified."
     },
     {
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "source": "The Verge",
       "category": "music",
-      "title": "How Each Music Listening Platform Is Treating AI Music (Updating)",
-      "url": "https://www.billboard.com/lists/how-each-music-listening-platform-treats-ai-music/",
-      "source": "Billboard",
-      "published_iso": "2026-08-27T20:59:24Z",
-      "excerpt": "From Bandcamp's ban of AI music to Spotify's 'AI Personas,' here's how all the online music platforms are dealing with the flood of AI songs.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024",
-      "why": "Spotify·Apple·Deezer·Bandcamp·Beatport의 AI 정책을 한 장에 정리. 어디에 어떻게 올릴지 결정하는 실무 지도."
+      "published_iso": "2026-08-29T12:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
+      "excerpt": "A profile of the producers turned detectives who forensically spot AI-generated tracks passed off as human work - and the tells they listen for. It is a practical field guide to AI provenance in music."
     },
     {
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "source": "The Verge",
       "category": "music",
-      "title": "Music as a cultural infrastructure business",
-      "url": "https://www.midiaresearch.com/blog/music-as-a-cultural-infrastructure-business",
-      "source": "MIDiA Research",
-      "published_iso": "2026-08-20T16:00:00+01:00",
-      "excerpt": "Suno is introducing deliberate friction to pump the brakes on the AI-powered superabundance it helped create, implementing download caps around how much music users can output.",
-      "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2651/cover_image-1787236880.jpg",
-      "why": "생성량 자체를 제한하는 '의도적 마찰'이라는 새 설계 개념. 무한 생성 시대에 도구가 스스로 브레이크를 다는 이유를 짚는다."
+      "published_iso": "2026-08-22T17:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
+      "excerpt": "Musical Spirograph is a browser toy that turns doodled geometry into generative compositions. A small, tactile example of algorithmic composition as a sketching tool rather than a prompt box."
     },
     {
+      "url": "https://www.digitalmusicnews.com/2026/08/19/hook-universal-music-deal/",
+      "source": "Digital Music News",
       "category": "music",
-      "title": "'Human-First' Needs More Than Just a Checkbox",
-      "url": "https://www.hypebot.com/human-first-needs-more-than-just-a-checkbox/",
+      "published_iso": "2026-08-19T16:11:25Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Hook-UMG-Deal.png",
+      "excerpt": "AI remix and mashup platform Hook signs a licensing agreement with Universal Music Group covering fan-made edits, with attribution and payment built in. It sketches a legal lane for AI remix culture."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/08/31/jazz-legends-streaming-profiles-ai-slop/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-08-31T21:06:50Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
+      "excerpt": "Spam farms have hijacked the Spotify and YouTube profiles of jazz musicians to publish generative-AI tracks under their names. A blunt warning about catalogue hygiene and artist-profile security."
+    },
+    {
+      "url": "https://www.musicradar.com/music-tech/beatport-has-banned-ai-generated-music-there-is-a-difference-between-a-tool-that-assists-human-creation-and-a-system-that-replaces-it-entirely-beatport-is-built-on-the-former",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-08-18T11:02:40Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5YMs4wZHDtacBj2xsUh9uk-678-80.jpg",
+      "excerpt": "Beatport bans fully AI-generated tracks and deploys detection, drawing an explicit line between tools that assist human creation and systems that replace it. It sets a practical bar for what electronic producers can ship."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/elevenlabs-adds-section-by-section-song-editing-to-elevenmusic-as-suno-udio-and-google-build-out-rival-tools/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-08-27T19:10:32Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/ix2l0e728cf-Cover_Vocals_16_9_Youtube-3--e1787807651342.webp",
+      "excerpt": "ElevenMusic tracks can now be built from a user's own lyrics, an existing recording, a prompt, or from scratch, and edited section by section - as Suno, Udio and Google race to add comparable control."
+    },
+    {
+      "url": "https://www.hypebot.com/submithub-ai-music-detector-exposes-huge-disclosure-gap/",
       "source": "Hypebot",
-      "published_iso": "2026-08-27T12:35:56+00:00",
-      "excerpt": "Anti-AI music labels need more than self-attestation to function in the real world. An independently administered certification system could be the answer.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-26-musical-form.jpg",
-      "why": "'사람이 만들었다' 표시를 어떻게 검증할 것인가. 자기신고 라벨의 한계와 인증 체계 설계를 다룬다."
+      "category": "music",
+      "published_iso": "2026-08-28T15:24:47Z",
+      "og_image": "https://images.unsplash.com/photo-1632582204758-5ac65783517a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=2000",
+      "excerpt": "SubmitHub analysed a million tracks: 38% showed AI involvement, but 31% of those creators denied using it. The disclosure gap, not the tooling, is becoming the trust problem for AI-assisted music."
     },
     {
+      "url": "https://www.gearnews.com/instrument-x-dreamtonics-synths-tech/",
+      "source": "Gearnews",
       "category": "music",
-      "title": "Mark My Words: AI Music Is the End of the Artist Economy",
-      "url": "https://www.hypebot.com/mark-my-words-ai-music-is-the-end-of-the-artist-economy/",
+      "published_iso": "2026-08-26T10:20:03Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Dreamtonics-Instrument-X-T.jpg",
+      "excerpt": "Gearnews argues Dreamtonics Instrument X makes huge orchestral sample libraries obsolete by modelling instruments neurally instead of streaming gigabytes of samples. It completes the trilogy alongside Synthesizer V."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-08-26T13:52:50Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif",
+      "excerpt": "ARIA's updated Charts Code of Practice blocks predominantly AI-generated recordings from Australia's official charts, effective from the chart dated 31 August. It defines, in writing, how much machine authorship is too much."
+    },
+    {
+      "url": "https://www.hypebot.com/australia-has-drawn-a-line-on-ai-music-experts-have-thoughts/",
       "source": "Hypebot",
-      "published_iso": "2026-08-25T16:46:51+00:00",
-      "excerpt": "People keep calling gen-AI music 'inevitable.' But if making a song no longer requires an artist, that isn't the future, it's the end of the artist economy.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/Still-Frame-Picture.jpg",
-      "why": "곡 제작에서 '아티스트'라는 단계가 빠질 때 무엇이 무너지는지에 대한 정면 반론. 창작 노동의 값에 대한 논쟁."
+      "category": "music",
+      "published_iso": "2026-08-31T13:59:23Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-31-ARIA.jpg",
+      "excerpt": "Industry experts weigh ARIA's chart ban on predominantly AI-generated music: a necessary first step, but one that leaves the harder disclosure and credit questions unresolved."
     },
     {
-      "category": "music",
-      "title": "The AI Chart Rules Ask if a Record Is Human. They Never Ask If the Song Is.",
-      "url": "https://www.hypebot.com/the-ai-chart-rules-ask-if-a-record-is-human-they-never-ask-if-the-song-is/",
-      "source": "Hypebot",
-      "published_iso": "2026-08-20T12:37:14+00:00",
-      "excerpt": "New labeling and chart rules identify genAI recordings but ignore AI-assisted writing, an unenforceable gap about what 'human-made' actually means.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-19-steve-canfield.jpg",
-      "why": "라벨 규정이 '녹음'만 보고 '작곡'은 안 본다는 구멍. 어디까지가 AI 협업인지 정의하는 문제로 이어진다."
-    },
-    {
-      "category": "music",
-      "title": "Unthoughtful workplace AI usage risks 'trading skill for speed'",
-      "url": "https://musically.com/2026/08/19/unthoughtful-workplace-ai-usage-risks-trading-skill-for-speed/",
+      "url": "https://musically.com/2026/08/25/aria-updates-its-chart-rules-for-songs-using-generative-ai/",
       "source": "Music Ally",
-      "published_iso": "2026-08-19T11:30:00+00:00",
-      "excerpt": "As the music industry speedily adopts AI tools, it's important to keep our human wits about us when it comes to longer-term implications of trading skill for speed.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T113246.560.png?fit=2000%2C1500&ssl=1",
-      "why": "생성이 아니라 '업무용 AI'가 실무자의 숙련을 어떻게 갉아먹는지. 도구 도입 속도와 역량 보존의 균형 문제."
+      "category": "music",
+      "published_iso": "2026-08-25T12:30:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-25T100735.694.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Music Ally breaks down ARIA's new chart rules for GenAI-assisted songs, following a major-label proposal on how AI-made music should be treated by official charts."
     },
     {
+      "url": "https://djmag.com/news/apple-music-introduce-labels-ai-generated-music",
+      "source": "DJ Mag",
       "category": "music",
-      "title": "Jimmy Iovine says AI-music firms 'have terrible communication skills'",
-      "url": "https://musically.com/2026/08/24/jimmy-iovine-says-ai-music-firms-have-terrible-communication-skills/",
-      "source": "Music Ally",
-      "published_iso": "2026-08-24T14:25:15+00:00",
-      "excerpt": "Jimmy Iovine is always good for a snappy quote or two about music-tech, particularly when he's being interviewed alongside Dr Dre.",
-      "og_image": "https://musically.com/wp-content/uploads/2026/08/artificial-intelligence-brain-in-motherboard.jpg",
-      "why": "AI 음악 기업이 창작자에게 자기 도구를 설명하는 방식 자체가 문제라는 지적. 제품 커뮤니케이션의 실패 사례."
+      "published_iso": "2026-08-24T12:53:27Z",
+      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-08/Apple-Music.webp?itok=B67Um4CW1059334395",
+      "excerpt": "Apple Music will introduce labels for AI-generated tracks, following Spotify and TIDAL. For producers, AI disclosure is becoming a delivery-metadata field rather than an ethical debate."
     }
   ]
 }
