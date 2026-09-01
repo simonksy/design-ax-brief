@@ -1,32 +1,31 @@
 {
-  "date": "2026-09-01",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "gadgets-honor-robot-phone",
-      "type": "image",
-      "src": "pipeline/media/gadgets-honor-robot-phone.jpg"
-    },
-    {
-      "id": "gadgets-android17-agent-dashboard",
-      "type": "image",
-      "src": "pipeline/media/gadgets-android17-agent-dashboard.jpg"
-    },
-    {
-      "id": "gadgets-apple-smart-glasses-2027",
-      "type": "image",
-      "src": "pipeline/media/gadgets-apple-smart-glasses-2027.jpg"
-    },
-    {
-      "id": "gadgets-framework-192gb-desktop",
-      "type": "image",
-      "src": "pipeline/media/gadgets-framework-192gb-desktop.png"
-    },
-    {
-      "id": "gadgets-meta-xr-operator",
-      "type": "video",
-      "src": "pipeline/media/gadgets-meta-xr-operator.mp4",
-      "poster": "pipeline/media/gadgets-meta-xr-operator.jpg"
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "gadgets",
+ "media": [
+  {
+   "id": "gadgets-meta-muse-transcribe",
+   "type": "image",
+   "src": "pipeline/media/gadgets-meta-muse-transcribe.jpg"
+  },
+  {
+   "id": "gadgets-google-pics-ga",
+   "type": "image",
+   "src": "pipeline/media/gadgets-google-pics-ga.jpg"
+  },
+  {
+   "id": "gadgets-paint-ai-watermark",
+   "type": "image",
+   "src": "pipeline/media/gadgets-paint-ai-watermark.jpg"
+  },
+  {
+   "id": "gadgets-atlas-brain-wearable",
+   "type": "image",
+   "src": "pipeline/media/gadgets-atlas-brain-wearable.jpg"
+  },
+  {
+   "id": "gadgets-sonos-27",
+   "type": "image",
+   "src": "pipeline/media/gadgets-sonos-27.jpg"
+  }
+ ]
 }

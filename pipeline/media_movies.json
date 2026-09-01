@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-01",
-  "section": "movies",
-  "media": [
-    {
-      "id": "movies-nice-touch-v2",
-      "type": "image",
-      "src": "pipeline/media/movies-nice-touch-v2.jpg"
-    },
-    {
-      "id": "movies-ai-prompt-copyright-bill",
-      "type": "image",
-      "src": "pipeline/media/movies-ai-prompt-copyright-bill.jpg"
-    },
-    {
-      "id": "movies-be-brave-venice-ai-doc",
-      "type": "image",
-      "src": "pipeline/media/movies-be-brave-venice-ai-doc.jpg"
-    },
-    {
-      "id": "movies-junkyard-king-daubrez",
-      "type": "video",
-      "src": "pipeline/media/movies-junkyard-king-daubrez.mp4",
-      "poster": "pipeline/media/movies-junkyard-king-daubrez.jpg"
-    },
-    {
-      "id": "movies-tung-sahur-ai-lawsuit",
-      "type": "image",
-      "src": "pipeline/media/movies-tung-sahur-ai-lawsuit.jpg"
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "movies",
+ "media": [
+  {
+   "id": "movies-gadot-bitcoin-ai-sets",
+   "type": "video",
+   "src": "pipeline/media/movies-gadot-bitcoin-ai-sets.mp4",
+   "poster": "pipeline/media/movies-gadot-bitcoin-ai-sets.jpg"
+  },
+  {
+   "id": "movies-ae-portal-aug-2026",
+   "type": "video",
+   "src": "pipeline/media/movies-ae-portal-aug-2026.mp4",
+   "poster": "pipeline/media/movies-ae-portal-aug-2026.jpg"
+  },
+  {
+   "id": "movies-ibc-2026-preview",
+   "type": "image",
+   "src": "pipeline/media/movies-ibc-2026-preview.jpg"
+  },
+  {
+   "id": "movies-resolve-21-webinars",
+   "type": "image",
+   "src": "pipeline/media/movies-resolve-21-webinars.jpg"
+  },
+  {
+   "id": "movies-tiff-future-in-focus",
+   "type": "image",
+   "src": "pipeline/media/movies-tiff-future-in-focus.jpg"
+  }
+ ]
 }

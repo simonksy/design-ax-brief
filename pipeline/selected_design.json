@@ -1,88 +1,101 @@
 {
-  "date": "2026-09-01",
-  "section": "design",
-  "items": [
-    {
-      "id": "design-runway-solaris",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "title": "Introducing Solaris, our first Interface World Model | Runway",
-      "url": "https://www.youtube.com/watch?v=c2yCePPnrSA",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-08-31T09:36:02-07:00",
-      "og_image": "https://i.ytimg.com/vi/c2yCePPnrSA/maxresdefault.jpg",
-      "excerpt": "Runway unveils Solaris, an \"interface world model\" it describes as a new kind of operating system that generates interactive interfaces frame by frame from a prompt, with no code required.",
-      "rationale": "First-party launch of a model that emits live interactive UI frame-by-frame — the biggest novelty in the pool and a direct challenge to the design-to-code handoff."
-    },
-    {
-      "id": "design-vercel-design-md",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "title": "How our agents build on-brand pages with design.md",
-      "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
-      "source": "Vercel",
-      "published_iso": "2026-08-31T00:00:00-04:00",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5F2lrV1tu5qQsQiSSll8GA/7ee5274fbd32707cdd.png",
-      "excerpt": "Vercel published design.md, a single public file any coding agent can load to build on-brand Vercel pages, plus the eval loop the team used to decide every rule inside it.",
-      "rationale": "A copyable artifact plus the eval loop behind it — a design system becomes a prompt-time contract a team can ship tomorrow."
-    },
-    {
-      "id": "design-css-random-polyfill",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "title": "Let's Use the Emergent CSS random() Function in all the Browsers",
-      "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "source": "CSS-Tricks",
-      "published_iso": "2026-08-31T09:12:19-06:00",
-      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp",
-      "excerpt": "The journey to build a polyfill for the upcoming CSS random() function so generative, non-repeating visual effects can run in every browser today.",
-      "rationale": "Moves generative pattern and motion work out of JS and into the stylesheet, with a polyfill that works in production now."
-    },
-    {
-      "id": "design-blender-krita-bridge",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "This Tool Connects Blender & Krita For Texture Painting",
-      "url": "https://80.lv/articles/this-tool-connects-blender-krita-for-texture-painting/",
-      "source": "80 Level",
-      "published_iso": "2026-08-31T12:47:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49973/images/6a9577c894fe9/contain_1200x630.jpg",
-      "excerpt": "A new bridge lets artists capture a scene view in Blender, paint directly in Krita, and project the painted work back onto the model without a manual round trip.",
-      "rationale": "Kills the export/import tax between DCC and paint app — concrete pipeline relief for anyone doing texture work today."
-    },
-    {
-      "id": "design-quest3-240hz",
-      "category": "vr",
-      "tool": "VR Prototype",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "title": "Quest 3 Update Unlocks Huge Boost in Refresh Rate, Up to 240Hz",
-      "url": "https://roadtovr.com/quest-3-update-boost-refresh-rate-240hz/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-31T13:59:51+00:00",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2024/04/quest-3-games.jpg",
-      "excerpt": "Meta pushed an update that effectively boosts Quest 3's refresh rate to 240Hz, or 207Hz at full resolution, though whether developers can exploit it remains open.",
-      "rationale": "Frame budget is the hard ceiling on spatial UI and motion design; a 240Hz ceiling changes what XR designers can spec."
-    }
-  ],
-  "dedup": {
-    "pool_size": 25,
-    "dropped_as_duplicate": 0,
-    "checked_against_days": 5,
-    "note": "No candidate matched a design card published 2026-08-26 through 2026-08-31 by URL or by event/content. Within-pool near-duplicates set aside: the second CSS-Tricks roundup (same outlet + adjacent CSS-platform topic as the random() polyfill), two extra UX Collective essays (outlet cap), and two extra Creative Bloq AI-slop pieces (outlet cap)."
+ "date": "2026-09-02",
+ "section": "design",
+ "items": [
+  {
+   "id": "design-figma-generative-shaders",
+   "category": "figma",
+   "tool": "Figma",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "title": "Behind the build: Generative plugins and shaders at Figma",
+   "url": "https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/",
+   "source": "Figma",
+   "published_iso": "2026-09-01T14:39:43Z",
+   "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/1fa2dc31f016186a80092667f671f74dd11a5104-1200x630.png?w=1200&q=70&fit=max&auto=format",
+   "excerpt": "Rogie King walks through how Figma built generative plugins and shaders, giving designers programmatic and creative control over generated visuals on the canvas — and a way to share what they make with the community.",
+   "rationale": "First-party account of how generation becomes a scriptable, shareable canvas layer — parameters and reuse instead of one-off prompt output."
   },
-  "diversity": {
-    "outlets": ["Runway (YouTube)", "Vercel", "CSS-Tricks", "80 Level", "Road to VR"],
-    "categories": ["social", "figma", "tokens", "render", "vr"],
-    "max_per_outlet": 1,
-    "max_per_category": 1
+  {
+   "id": "design-to-code-benchmark",
+   "category": "tokens",
+   "tool": "Design Tokens",
+   "accent": "#2ec5c5",
+   "motif": "swatch",
+   "title": "Design to Code Tools Benchmark [2026]: 5 Tools, Real Diffs",
+   "url": "https://dev.to/kunal_d6a8fea2309e1571ee7/design-to-code-tools-benchmark-2026-5-tools-real-diffs-1cak",
+   "source": "DEV Community",
+   "published_iso": "2026-09-01T12:42:55Z",
+   "og_image": null,
+   "excerpt": "The same messy SaaS dashboard was pushed through five design-to-code tools and scored on accessibility, semantics, bundle size, editability, and visual fidelity, with a reproducible harness.",
+   "rationale": "Turns the design-to-code argument into measurable diffs a team can rerun before standardizing on a tool."
+  },
+  {
+   "id": "design-blender-line-art",
+   "category": "render",
+   "tool": "KeyShot",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "title": "One-Click Line Art From Any 3D Model In Blender",
+   "url": "https://80.lv/articles/one-click-line-art-from-any-3d-model-in-blender",
+   "source": "80 Level",
+   "published_iso": "2026-09-01T11:18:00Z",
+   "og_image": "https://cdn.80.lv/api/upload/meta/49997/images/6a96b4a0105f4/contain_1200x630.jpg",
+   "excerpt": "Masamune Sakaki released a free Blender tool that turns any 3D model into clean line art in a single click, replacing a fiddly Grease Pencil / Freestyle setup.",
+   "rationale": "A free, deterministic 3D-to-2D stylization shortcut with exact control — usable in a pipeline the day it ships."
+  },
+  {
+   "id": "design-text-to-cad-format",
+   "category": "cad",
+   "tool": "Text-to-CAD",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "title": "Text-to-CAD Isn't Text-to-Mesh: Why the Output Format Is the Whole Story",
+   "url": "https://dev.to/james_36d111a7a36/text-to-cad-isnt-text-to-mesh-why-the-output-format-is-the-whole-story-1elc",
+   "source": "DEV Community",
+   "published_iso": "2026-09-01T16:41:48Z",
+   "og_image": null,
+   "excerpt": "A breakdown of why 'AI CAD' demos that emit meshes don't help engineers: without parametric, editable B-rep output, the generated geometry can't be revised or manufactured.",
+   "rationale": "Names the acceptance test for every generative design tool — does it hand back an artifact you can keep editing, or a dead end."
+  },
+  {
+   "id": "design-empire-at-sea-venice",
+   "category": "vr",
+   "tool": "VR Prototype",
+   "accent": "#eb367f",
+   "motif": "headset",
+   "title": "Empire At Sea Brings A Shared Mixed Reality Drama To Venice Immersive",
+   "url": "https://www.uploadvr.com/empire-at-sea-brings-a-shared-adrama-to-venice-immersive/",
+   "source": "UploadVR",
+   "published_iso": "2026-09-01T10:34:02Z",
+   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/empire_at_sea-1.jpg",
+   "excerpt": "Empire At Sea debuts at Venice Immersive as a shared mixed-reality drama where an audience experiences the piece together in one physical space.",
+   "rationale": "Co-located mixed reality is its own design problem — staging, sightlines, shared attention rather than a single solo viewport."
   }
+ ],
+ "dedup": {
+  "pool_size": 22,
+  "dropped_as_duplicate": 1,
+  "checked_against_days": 5,
+  "note": "Checked every candidate by URL and by event/content against sections.design today (2026-09-01) plus days 2026-08-27..08-31. Dropped: Vercel 'fx is now available in the AI SDK harness layer' — same source + same core story as the already-published 'Cursor is now available in the AI SDK harness layer' (2026-08-28), a changelog content-hub repeat. Set aside as near-duplicates within the pool: 'AI can write SVG...' (same editable-output argument as the Text-to-CAD piece, same outlet), two extra 80 Level posts (outlet cap), two extra Creative Bloq AI-craft pieces, CSS-Tricks 'What's !important #18' (adjacent CSS-platform roundup to the random() polyfill already published 2026-08-31), and Vercel per-user AI Gateway budgets (adjacent to the AI Gateway card published 2026-08-29). No selected URL appears in any published day."
+ },
+ "diversity": {
+  "outlets": [
+   "Figma",
+   "DEV Community",
+   "80 Level",
+   "DEV Community",
+   "UploadVR"
+  ],
+  "categories": [
+   "figma",
+   "tokens",
+   "render",
+   "cad",
+   "vr"
+  ],
+  "max_per_outlet": 2,
+  "max_per_category": 1,
+  "distinct_outlets": 4
+ }
 }

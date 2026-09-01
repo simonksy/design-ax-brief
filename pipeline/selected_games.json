@@ -1,153 +1,151 @@
 {
-  "date": "2026-09-01",
-  "section": "games",
-  "selection_mode": "curator_auto",
-  "items": [
-    {
-      "id": "games-city-sample-pcg-mcp",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "title": "City Sample gets a major update with PCG and Unreal MCP workflows",
-      "url": "https://www.unrealengine.com/learning/city-sample-gets-a-major-update-with-pcg-and-unreal-mcp-workflows",
-      "source": "Unreal Engine",
-      "published_iso": "2026-08-27T00:00:00Z",
-      "og_image": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/cmsxqgcmqnsuj06lebm2w2306",
-      "excerpt": "Epic's City Sample project has been rebuilt for Unreal Engine 5.8 with entirely new levels, plus additional toolsets, content and examples for procedural worldbuilding — including PCG and Unreal MCP (agent-driven editor) workflows.",
-      "rationale": "Epic putting agentic MCP + procedural generation inside its canonical reference project is the single most actionable item in the pool — environment artists can open it tomorrow."
-    },
-    {
-      "id": "games-inworld-tts-evals",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "title": "Inworld TTS Open Evaluation Toolkit: Reproducible TTS Evals",
-      "url": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit",
-      "source": "Inworld AI",
-      "published_iso": "2026-08-28T00:00:00Z",
-      "og_image": "https://static.inworld.ai/public-website-2025/images/content/9b54d1f3fd481dd93314ffa470ff9008d2c9c589-1200x630.png",
-      "excerpt": "Inworld open-sourced a framework for reproducible text-to-speech evaluation: local ASR, explicit normalization, per-sample measurements and offline reports that can be traced back to the source audio.",
-      "rationale": "An open, reproducible eval harness gives audio directors a defensible way to judge synthetic character voice before it ships — measurement, not vibes."
-    },
-    {
-      "id": "games-1666-drops-ai",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "title": "1666: Amsterdam's developer says it 'won't be using any AI anymore', and the tech was only used 'in conception and pre-production'",
-      "url": "https://www.pcgamer.com/games/action/1666-amsterdams-developer-says-it-wont-be-using-ai-anymore-and-the-tech-was-only-used-in-conception-and-pre-production-arguably-the-most-creative-phase-of-the-entire-process/",
-      "source": "PC Gamer",
-      "published_iso": "2026-08-31T10:03:22Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HqR6PTgsYxFJXCUuYFhtR8-1920-80.jpg",
-      "excerpt": "Assassin's Creed creator Patrice Desilets says his studio has dropped generative AI from 1666: Amsterdam after backlash, and that the tech had only been used in conception and pre-production — arguably the most creative phase of the whole process.",
-      "rationale": "A named studio publicly reversing gen-AI use, and naming ideation as the phase it touched, is the sharpest fresh data point on where AI is tolerated in a creative pipeline."
-    },
-    {
-      "id": "games-gta6-crowd-tech-lead",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "title": "Rockstar is 'at least 10 years ahead' of other games with GTA 6's NPC crowd technology, says dev behind 007 First Light's crowds",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-at-least-10-years-ahead-of-other-games-with-gta-6s-npc-crowd-technology-says-dev-behind-007-first-lights-incredible-crowds/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-08-27T16:17:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7E43SERC2PDAcs2Nxm9Yxm-1920-80.jpg",
-      "excerpt": "A developer who built the crowd systems in 007 First Light says Rockstar's GTA 6 NPC crowd technology puts it roughly a decade ahead of the rest of the industry, in simulation depth rather than generative shortcuts.",
-      "rationale": "A rival crowd-systems engineer judging the state of the art: systemic hand-built simulation still beats LLM-driven NPC pitches, a useful reality check for anyone budgeting believable characters."
-    },
-    {
-      "id": "games-aws-studio-ai-ops",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "title": "AI powering the global engine for game studios",
-      "url": "https://www.pocketgamer.biz/ai-powering-the-global-engine-for-game-studios/",
-      "source": "PocketGamer.biz",
-      "published_iso": "2026-08-28T13:00:00Z",
-      "og_image": "https://media.pocketgamer.biz/images/141035/89679/screenshot-2026-08-24-at-120513_l1200.jpg",
-      "excerpt": "AWS senior gaming solutions architecture manager Huang Zhoubin breaks down how studios are actually operationalising AI — the infrastructure, workflow and production problems that sit between a model demo and a shipped feature.",
-      "rationale": "The unglamorous operational layer — how an AI feature actually reaches a live production pipeline — which is exactly where most studio adoption stalls."
-    }
+ "date": "2026-09-02",
+ "section": "games",
+ "dedup_notes": {
+  "history_checked": [
+   "2026-09-01 (today)",
+   "2026-08-31",
+   "2026-08-30",
+   "2026-08-29",
+   "2026-08-28",
+   "2026-08-27"
   ],
-  "dedup": {
-    "pool_size": 19,
-    "dropped_as_duplicates": 9,
-    "against_days": 5,
-    "dropped": [
-      {
-        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-hand-crafted-npcs-have-over-600-000-animations-compared-to-only-55-000-animations-in-gta-5/",
-        "reason": "same story as published games-gta6-npc-team (2026-08-29) — Rockstar's hand-crafted NPC team, 600k vs 55k animations"
-      },
-      {
-        "url": "https://www.pcgamer.com/software/ai/claude-strife-dlss-5-has-escaped-into-the-wild-and-things-are-immediately-weird/",
-        "reason": "same event as published games-dlss5-leak (2026-08-29) — leaked DLSS 5 neural filter run on shipped games"
-      },
-      {
-        "url": "https://www.gamesradar.com/games/the-half-life-2-of-ai-will-change-peoples-minds-about-ai-saber-exec-says-after-ceo-claims-hed-happily-replace-a-writer-with-ai/",
-        "reason": "same story as published games-saber-craft (2026-08-29) — Saber CCO's 'Half-Life 2 of AI' remark"
-      },
-      {
-        "url": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
-        "reason": "same story as published games-humankind2-ai-doubt (2026-08-26) — Amplitude denying the reveal trailer was gen-AI"
-      },
-      {
-        "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
-        "reason": "same story as published games-gta6-no-genai (2026-08-28) — GTA 6 shipping with no microtransactions and no gen-AI"
-      },
-      {
-        "url": "https://kotaku.com/opening-night-live-2026-genai-slop-games-geoff-keighley-2000728477",
-        "reason": "same story as published games-gamescom-ai-disclosure (2026-08-28) — audit of gen-AI use across the Opening Night Live lineup"
-      },
-      {
-        "url": "https://kotaku.com/modders-have-been-playing-around-with-dlss-5-and-oh-god-what-the-hell-is-that-2000729944",
-        "reason": "DLSS 5 leak cluster — duplicate of games-dlss5-leak (2026-08-29)"
-      },
-      {
-        "url": "https://www.rockpapershotgun.com/nvidia-dlss-5s-ai-yassification-filter-reportedly-escapes-containment-ahead-of-release-thanks-to-modders-digging-files-out-of-nba-2k27",
-        "reason": "DLSS 5 leak cluster — duplicate of games-dlss5-leak (2026-08-29)"
-      },
-      {
-        "url": "https://www.gamespot.com/articles/leaked-dlss-5-mod-shows-just-how-much-nvidias-ai-filter-can-mess-with-your-games/",
-        "reason": "DLSS 5 leak cluster — duplicate of games-dlss5-leak (2026-08-29)"
-      },
-      {
-        "url": "https://80.lv/articles/nvidia-s-dlss-5-slop-or-not",
-        "reason": "DLSS 5 leak cluster — reaction roundup to the same leak, duplicate of games-dlss5-leak (2026-08-29)"
-      },
-      {
-        "url": "https://wccftech.com/dlss-5-now-works-on-rtx-20-30-gpus-older-graphics-apis-and-even-pcsx2/",
-        "reason": "DLSS 5 leak cluster — follow-on to the same leak already published as games-dlss5-leak (2026-08-29)"
-      }
-    ]
-  },
+  "dropped_as_duplicates": [
+   {
+    "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
+    "reason": "Same Tarn Adams interview as the Kotaku pick (within-pool duplicate); Kotaku kept for the sharper mandate angle and because its image differs from the 08-30 PC Gamer Dwarf Fortress card, which reuses the same og_image."
+   },
+   {
+    "url": "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208",
+    "reason": "Same 50-60% frame-rate figure as the PC Gamer DLSS 5 pick."
+   },
+   {
+    "url": "https://wccftech.com/nvidia-dlss-5-performance-5x-faster-rtx-50-series/",
+    "reason": "Same Nvidia DLSS 5 performance disclosure."
+   },
+   {
+    "url": "https://wccftech.com/nvidia-dlss-5-launch-biggest-leap-in-rendering-powered-by-neural-technology-lifelike-visuals/",
+    "reason": "Same DLSS 5 launch event; Wccftech content-hub cluster (3 near-identical posts)."
+   },
+   {
+    "url": "https://wccftech.com/nvidia-dlss-5-nba-2k27-hands-on-pixel-accurate/",
+    "reason": "Same DLSS 5 / NBA 2K27 hands-on event."
+   },
+   {
+    "url": "https://gamesbeat.com/nvidias-dlss-5-off-on-images-look-compelling-with-ai-tweaks-but-will-gamers-accept-it/",
+    "reason": "Same DLSS 5 NBA 2K27 demo."
+   },
+   {
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-snuck-me-into-a-room-to-show-off-dlss-5-in-person-and-its-somehow-beautiful-ugly-impressive-and-troubling-all-at-the-same-time/",
+    "reason": "Same private DLSS 5 demo."
+   },
+   {
+    "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidia-dlss-5-is-launching-on-september-3-heres-everything-i-learned-about-it-from-a-private-gamescom-demo/",
+    "reason": "Same DLSS 5 launch/demo cluster."
+   },
+   {
+    "url": "https://www.rockpapershotgun.com/nvidia-dlss-5-releases-this-week-with-nba-2k27-so-the-ai-yassification-filters-busy-beautifying-basketballers-early-doors",
+    "reason": "Same DLSS 5 release story; also overlaps the 08-29 Polygon DLSS 5 leak card."
+   },
+   {
+    "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-lead-says-nvidia-dlss-5-backlash-is-really-funny-and-that-most-talented-people-i-know-use-ai/",
+    "reason": "DLSS 5 backlash cluster (one DLSS card cap)."
+   },
+   {
+    "url": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
+    "reason": "Same core topic as the 08-30 Rock Paper Shotgun card on false gen-AI accusations and visual literacy; also 7 days old."
+   },
+   {
+    "url": "https://www.rockpapershotgun.com/nvidia-dlss-45-ray-reconstruction-out-now-ups-shadow-quality-and-more-accurately-illuminates-trash-bags",
+    "reason": "Second Nvidia neural-rendering card; dropped under the one-DLSS/Nvidia-rendering cap and diversity guard."
+   }
+  ],
   "diversity": {
-    "outlets": [
-      "Unreal Engine",
-      "Inworld AI",
-      "PC Gamer",
-      "GamesRadar+",
-      "PocketGamer.biz"
-    ],
-    "max_per_outlet": 1,
-    "note": "5 distinct outlets; single-category section so each pick gets a distinct accent from sources.json palette."
+   "outlets": {
+    "GamesBeat": 2,
+    "PC Gamer": 1,
+    "Kotaku": 1,
+    "GamesRadar+": 1
+   },
+   "distinct_outlets": 4,
+   "dlss_cards": 1
+  }
+ },
+ "items": [
+  {
+   "rank": 1,
+   "category": "games",
+   "tool": "Games",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "title": "How Dream Racers uses Roblox's Cube AI to generate playable vehicles in real time",
+   "url": "https://gamesbeat.com/how-dream-racers-uses-robloxs-cube-ai-to-generate-playable-vehicles-in-real-time-exclusive/",
+   "source": "GamesBeat",
+   "published_iso": "2026-09-01T16:00:00Z",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
+   "excerpt": "A new Roblox game, Dream Racers, integrates generative AI directly into gameplay by letting players build and race unique karts. It is one of the first shipped titles to put Roblox's Cube 3D generation model into a live player-facing loop.",
+   "rationale": "First shipped title to make generative 3D a runtime design material rather than a pre-production asset trick — the player prompts and the game must keep it playable.",
+   "id": "games-how-dream-racers-uses"
   },
-  "not_selected": [
-    {
-      "url": "https://www.pcgamer.com/games/puzzle/ai-is-just-a-plagiarism-machine-that-makes-people-lose-their-jobs-in-the-eyes-of-the-talos-principle-3s-writers/",
-      "reason": "strong but thematically redundant with the 1666: Amsterdam pick (studio refusing gen-AI), and would have made PC Gamer a second card"
-    },
-    {
-      "url": "https://aftermath.site/gta-6-netflix-gameplay-reveal-npcs-crunch/",
-      "reason": "heavy topical overlap with GTA 6 NPC coverage already published on 08-29 and with the GamesRadar+ crowd-tech pick"
-    },
-    {
-      "url": "https://www.pocketgamer.biz/5-takeaways-from-gamescom-2026/",
-      "reason": "gamescom wrap-up largely covered by cards already published on 08-28 to 08-30"
-    }
-  ]
+  {
+   "rank": 2,
+   "category": "games",
+   "tool": "Games",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "title": "Nimble Fox launches AI tool for building Unity games worldwide",
+   "url": "https://gamesbeat.com/nimble-fox-launches-ai-tool-for-building-unity-games-worldwide/",
+   "source": "GamesBeat",
+   "published_iso": "2026-08-31T20:41:09Z",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
+   "excerpt": "A Helsinki startup is releasing an AI copilot built into the Unity editor on Sept. 7, letting developers build and modify games by prompting inside the engine. Rather than generating a whole game in one pass, it works feature by feature — mechanics, UI flows, scoped changes — reading the context of an existing project.",
+   "rationale": "A dated, in-editor, project-aware copilot (Sept 7) — the shape AI game tooling is settling into, and something a Unity team can actually schedule around.",
+   "id": "games-nimble-fox-launches-ai"
+  },
+  {
+   "rank": 3,
+   "category": "games",
+   "tool": "Games",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "title": "Nvidia says DLSS 5 comes with a 50-60% performance hit, which makes me wonder what we're doing here",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/",
+   "source": "PC Gamer",
+   "published_iso": "2026-09-01T13:01:09Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/E644DNUmDjsb24uWWwKTjm-2560-80.jpg",
+   "excerpt": "Nvidia has confirmed DLSS 5's 3D-guided neural rendering costs 50-60% of frame rate on average, inverting the original promise of DLSS as a performance technology.",
+   "rationale": "The single DLSS 5 card: Nvidia's own launch numbers flip the cost model, turning a neural render pass into an explicit art-direction budget decision rather than free uplift.",
+   "id": "games-nvidia-says-dlss-5"
+  },
+  {
+   "rank": 4,
+   "category": "games",
+   "tool": "Games",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "title": "Dwarf Fortress Creator Calls Out One Of AI's Biggest Issues: The Bosses Who Force Us To Use It",
+   "url": "https://kotaku.com/dwarf-fortress-tarn-adams-genai-ai-vibe-coding-claude-copilot-2000730266",
+   "source": "Kotaku",
+   "published_iso": "2026-09-01T17:45:43Z",
+   "og_image": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
+   "excerpt": "Tarn Adams argues the real problem with generative AI in game development isn't the tools but mandated adoption: 'Everyone I know, their bosses are slowly getting psychosis.'",
+   "rationale": "Games' most credible proceduralist moves the argument from capability to mandate — the version of the AI debate working designers actually live in.",
+   "id": "games-dwarf-fortress-creator-calls"
+  },
+  {
+   "rank": 5,
+   "category": "games",
+   "tool": "Games",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "title": "30 years later, I finally got to play Quake on the PS1, but that's before I found a better version that doesn't rely on \"substantial AI assistance\"",
+   "url": "https://www.gamesradar.com/hardware/retro/30-years-later-i-finally-got-to-play-quake-on-the-ps1-but-thats-before-i-found-a-better-version-that-doesnt-rely-on-substantial-ai-assistance/",
+   "source": "GamesRadar+",
+   "published_iso": "2026-09-01T13:59:55Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/DRr2MjfGwEffDEDE78LQnC-1920-80.jpg",
+   "excerpt": "A homebrew Quake port for PS1 was built with heavy AI coding assistance — and a rival hand-written port runs better, sparking a small but pointed comparison in the demoscene-adjacent porting community.",
+   "rationale": "A rare controlled comparison: vibe-coded and hand-crafted versions of the same technical project shipping side by side, with measurable results.",
+   "id": "games-30-years-later-i"
+  }
+ ]
 }

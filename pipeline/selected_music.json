@@ -1,149 +1,146 @@
 {
-  "date": "2026-09-01",
-  "section": "music",
-  "count": 5,
-  "items": [
-    {
-      "id": "music-stable-audio-daw",
-      "tool": "Music",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "url": "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
-      "source": "Stability AI",
-      "published_iso": "2026-08-18T13:55:14Z",
-      "og_image": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
-      "excerpt": "Stability AI opens an early beta of two new ways to use Stable Audio 3.0: a DAW plugin that puts generation inside the session, and a more advanced generation experience on StableAudio.com.",
-      "rationale": "생성이 브라우저를 떠나 DAW 세션 안으로 들어온 1차 소스 발표 — 프로듀서의 작업 순서를 내일 당장 바꾸는 릴리스."
-    },
-    {
-      "id": "music-ai-track-detectives",
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "source": "The Verge",
-      "published_iso": "2026-08-29T12:00:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
-      "excerpt": "A profile of the producers turned detectives who forensically spot AI-generated tracks passed off as human work - and the tells they listen for.",
-      "rationale": "AI 트랙을 실제로 가려내는 사람들의 판별 단서를 정리한 현장 가이드 — 라벨 정책 뉴스와 달리 귀로 쓰는 실무 지식."
-    },
-    {
-      "id": "music-aria-chart-ban",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-08-26T13:52:50Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif",
-      "excerpt": "ARIA's updated Charts Code of Practice blocks predominantly AI-generated recordings from Australia's official charts, effective from the chart dated 31 August. It defines, in writing, how much machine authorship is too much.",
-      "rationale": "차트 코드가 '기계 저작이 어디까지 허용되는가'를 처음으로 문서로 못박았다 — 발매 체크리스트가 실제로 바뀌는 규칙 변경(Gearnews·Hypebot·Music Ally 중복 중 1차 보도 채택)."
-    },
-    {
-      "id": "music-jazz-profile-hijack",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "url": "https://www.digitalmusicnews.com/2026/08/31/jazz-legends-streaming-profiles-ai-slop/",
-      "source": "Digital Music News",
-      "published_iso": "2026-08-31T21:06:50Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
-      "excerpt": "Spam farms have hijacked the Spotify and YouTube profiles of jazz musicians to publish generative-AI tracks under their names. A blunt warning about catalogue hygiene and artist-profile security.",
-      "rationale": "풀에서 가장 신선(08-31)하고, 아티스트 프로필 보안·카탈로그 위생이라는 즉시 조치 가능한 경고."
-    },
-    {
-      "id": "music-musical-spirograph",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-      "source": "The Verge",
-      "published_iso": "2026-08-22T17:00:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
-      "excerpt": "Musical Spirograph is a browser toy that turns doodled geometry into generative compositions. A small, tactile example of algorithmic composition as a sketching tool rather than a prompt box.",
-      "rationale": "정책·탐지 이슈로 기운 선택에 창작 도구 축을 되돌린다 — 프롬프트 상자가 아니라 손으로 그리는 제너레이티브 작곡 스케치."
-    }
-  ],
-  "picks": [
-    {
-      "id": "music-stable-audio-daw",
-      "tool": "Music",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "url": "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
-      "source": "Stability AI",
-      "published_iso": "2026-08-18T13:55:14Z",
-      "og_image": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
-      "excerpt": "Stability AI opens an early beta of two new ways to use Stable Audio 3.0: a DAW plugin that puts generation inside the session, and a more advanced generation experience on StableAudio.com.",
-      "rationale": "생성이 브라우저를 떠나 DAW 세션 안으로 들어온 1차 소스 발표 — 프로듀서의 작업 순서를 내일 당장 바꾸는 릴리스."
-    },
-    {
-      "id": "music-ai-track-detectives",
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "source": "The Verge",
-      "published_iso": "2026-08-29T12:00:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
-      "excerpt": "A profile of the producers turned detectives who forensically spot AI-generated tracks passed off as human work - and the tells they listen for.",
-      "rationale": "AI 트랙을 실제로 가려내는 사람들의 판별 단서를 정리한 현장 가이드 — 라벨 정책 뉴스와 달리 귀로 쓰는 실무 지식."
-    },
-    {
-      "id": "music-aria-chart-ban",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-08-26T13:52:50Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif",
-      "excerpt": "ARIA's updated Charts Code of Practice blocks predominantly AI-generated recordings from Australia's official charts, effective from the chart dated 31 August. It defines, in writing, how much machine authorship is too much.",
-      "rationale": "차트 코드가 '기계 저작이 어디까지 허용되는가'를 처음으로 문서로 못박았다 — 발매 체크리스트가 실제로 바뀌는 규칙 변경(Gearnews·Hypebot·Music Ally 중복 중 1차 보도 채택)."
-    },
-    {
-      "id": "music-jazz-profile-hijack",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "url": "https://www.digitalmusicnews.com/2026/08/31/jazz-legends-streaming-profiles-ai-slop/",
-      "source": "Digital Music News",
-      "published_iso": "2026-08-31T21:06:50Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
-      "excerpt": "Spam farms have hijacked the Spotify and YouTube profiles of jazz musicians to publish generative-AI tracks under their names. A blunt warning about catalogue hygiene and artist-profile security.",
-      "rationale": "풀에서 가장 신선(08-31)하고, 아티스트 프로필 보안·카탈로그 위생이라는 즉시 조치 가능한 경고."
-    },
-    {
-      "id": "music-musical-spirograph",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-      "source": "The Verge",
-      "published_iso": "2026-08-22T17:00:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
-      "excerpt": "Musical Spirograph is a browser toy that turns doodled geometry into generative compositions. A small, tactile example of algorithmic composition as a sketching tool rather than a prompt box.",
-      "rationale": "정책·탐지 이슈로 기운 선택에 창작 도구 축을 되돌린다 — 프롬프트 상자가 아니라 손으로 그리는 제너레이티브 작곡 스케치."
-    }
-  ],
-  "dedup": {
-    "pool": 19,
-    "dropped_as_duplicates": 9,
-    "notes": [
-      "Dreamtonics Instrument X (MusicTech / Synthtopia / Gearnews) = already published 2026-08-27 as music-instrument-x (MusicRadar). 3 dropped.",
-      "ElevenMusic Composer section-by-section editing (Digital Music News / Music Business Worldwide) = already published 2026-08-27 as music-elevenmusic-composer (Music Ally). 2 dropped.",
-      "Luminate AI music identification framework (Music Business Worldwide) = already published 2026-08-26 as music-luminate-ai-label (Billboard). 1 dropped.",
-      "Beatport bans fully AI-generated music (MusicRadar) = already published 2026-08-28 as music-beatport-ai-ban (Gearnews). 1 dropped.",
-      "SubmitHub million-track AI study incl. 31% denial gap (Hypebot) = already published 2026-08-28 as music-submithub-40 (Mixmag). 1 dropped.",
-      "Apple Music 'Made With AI' labels (CMU / DJ Mag) = substantively covered inside 2026-08-31 card music-platform-ai-policies (Billboard platform-policy tracker); dropped as content overlap, and the two were within-pool duplicates of each other.",
-      "ARIA chart ban covered by 4 outlets in-pool (MBW / Gearnews / Hypebot / Music Ally) - kept only MBW as the primary report.",
-      "Hook x UMG licensing deal (Digital Music News) survived dedup but ranked 6th; not needed after 5 picks."
-    ]
+ "date": "2026-09-02",
+ "section": "music",
+ "count": 5,
+ "items": [
+  {
+   "id": "music-denon-prime-4-g2",
+   "tool": "Music",
+   "accent": "#ff2d55",
+   "motif": "sphere",
+   "url": "https://www.gearnews.com/denon-dj-prime-4-g2/",
+   "source": "gearnews",
+   "published_iso": "2026-09-01T14:00:00Z",
+   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-ft2.jpg",
+   "excerpt": "The Denon DJ Prime 4 G2 adds a big processing jump and real-time stem separation on the standalone unit, letting DJs pull acapellas and instrumentals live without pre-rendering. Neural source separation moves from laptop software into the controller itself.",
+   "rationale": "뉴럴 스템 분리가 랩톱 소프트웨어를 떠나 스탠드얼론 컨트롤러 안으로 들어왔다 — 풀에서 가장 신선(09-01)하고 부스에서 내일 당장 달라지는 릴리스."
   },
-  "diversity": {
-    "outlets": ["Stability AI", "The Verge", "Music Business Worldwide", "Digital Music News"],
-    "max_per_outlet": 2,
-    "distinct_outlets": 4,
-    "topic_spread": ["tool release", "detection craft", "chart policy", "platform security", "generative composition tool"]
+  {
+   "id": "music-declared-intent-search",
+   "tool": "Music",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "url": "https://www.digitalmusicnews.com/2026/08/30/your-next-fan-may-never-search-for-you/",
+   "source": "Digital Music News",
+   "published_iso": "2026-08-31T05:10:13Z",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Search-has-moved-from-inferred-intent-to-declared-intent.png",
+   "excerpt": "Discovery is shifting from keyword search and metadata to listeners describing a mood or context and letting a model choose the music. For artists that changes what has to be legible about them — identity and context, not tags.",
+   "rationale": "키워드 메타데이터에서 '선언된 의도'로 발견 경로가 옮겨간다 — 태그 대신 무엇을 기계가 읽을 수 있게 남길지 다시 짜야 한다는 실무 과제."
+  },
+  {
+   "id": "music-ai-watermarks",
+   "tool": "Music",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "url": "https://www.midiaresearch.com/blog/do-watermarks-spell-the-end-of-ai-content-proliferation",
+   "source": "MIDiA Research",
+   "published_iso": "2026-08-19T09:00:00Z",
+   "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2650/cover_image-1787751417.png",
+   "excerpt": "Major AI companies have signed a voluntary code of practice and begun watermarking their outputs, and the EU AI Act now pushes detectability by default. MIDiA argues watermarks could reset how listeners and platforms treat AI-made tracks, making 'human-made' a signal creators can actually carry.",
+   "rationale": "라벨 논쟁의 상류 — 자율 규약과 EU AI Act로 탐지 가능성이 기본값이 되면 '사람이 만든'이 창작자가 실제로 들고 다닐 수 있는 신호가 된다."
+  },
+  {
+   "id": "music-artist-operating-system",
+   "tool": "Music",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "url": "https://www.hypebot.com/independent-artists-need-an-operating-system-not-another-tool/",
+   "source": "Hypebot",
+   "published_iso": "2026-08-24T15:08:14Z",
+   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-21-karan-oped.jpg",
+   "excerpt": "After a decade of point tools, the argument is that independent artists need an AI-connected operating system that links catalogue, data and release actions instead of another dashboard. The op-ed sketches what an agentic layer under an artist's workflow would actually have to do.",
+   "rationale": "포인트 툴을 하나 더 붙이는 대신 카탈로그·데이터·릴리스를 잇는 에이전트 층을 요구한다 — 독립 아티스트의 도구 스택을 다시 설계하는 관점."
+  },
+  {
+   "category": "music",
+   "title": "Vibe-Coded Plugins: A Developer's Take And The Risks Worth Knowing",
+   "url": "https://www.production-expert.com/production-expert-1/vibe-coded-plugins-a-developers-take-and-the-risks-worth-knowing",
+   "source": "Production Expert",
+   "published_iso": "2026-08-24T12:00:00Z",
+   "excerpt": "AI-assisted plugin development has gone mainstream, and a working developer walks through how vibecoding has shifted the plugins producers own and buy. The piece lays out a practical buyer checklist — trial availability, license verification, professional use/endorsement — for judging whether an AI-built audio plugin is safe to put in a session.",
+   "og_image": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
+   "why": "AI 코딩이 음악 플러그인 시장 자체를 바꾸는 이야기 — 도구를 만드는 쪽과 사는 쪽 모두의 작업 기준이 달라진다. 제작자 관점의 실무 체크리스트가 있어 크래프트 훅이 분명하다.",
+   "id": "music-vibe-coded-plugins",
+   "tool": "Music",
+   "accent": "#2ec5c5",
+   "motif": "sphere"
   }
+ ],
+ "picks": [
+  {
+   "id": "music-denon-prime-4-g2",
+   "tool": "Music",
+   "accent": "#ff2d55",
+   "motif": "sphere",
+   "url": "https://www.gearnews.com/denon-dj-prime-4-g2/",
+   "source": "gearnews",
+   "published_iso": "2026-09-01T14:00:00Z",
+   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-ft2.jpg",
+   "excerpt": "The Denon DJ Prime 4 G2 adds a big processing jump and real-time stem separation on the standalone unit, letting DJs pull acapellas and instrumentals live without pre-rendering. Neural source separation moves from laptop software into the controller itself.",
+   "rationale": "뉴럴 스템 분리가 랩톱 소프트웨어를 떠나 스탠드얼론 컨트롤러 안으로 들어왔다 — 풀에서 가장 신선(09-01)하고 부스에서 내일 당장 달라지는 릴리스."
+  },
+  {
+   "id": "music-declared-intent-search",
+   "tool": "Music",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "url": "https://www.digitalmusicnews.com/2026/08/30/your-next-fan-may-never-search-for-you/",
+   "source": "Digital Music News",
+   "published_iso": "2026-08-31T05:10:13Z",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Search-has-moved-from-inferred-intent-to-declared-intent.png",
+   "excerpt": "Discovery is shifting from keyword search and metadata to listeners describing a mood or context and letting a model choose the music. For artists that changes what has to be legible about them — identity and context, not tags.",
+   "rationale": "키워드 메타데이터에서 '선언된 의도'로 발견 경로가 옮겨간다 — 태그 대신 무엇을 기계가 읽을 수 있게 남길지 다시 짜야 한다는 실무 과제."
+  },
+  {
+   "id": "music-ai-watermarks",
+   "tool": "Music",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "url": "https://www.midiaresearch.com/blog/do-watermarks-spell-the-end-of-ai-content-proliferation",
+   "source": "MIDiA Research",
+   "published_iso": "2026-08-19T09:00:00Z",
+   "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2650/cover_image-1787751417.png",
+   "excerpt": "Major AI companies have signed a voluntary code of practice and begun watermarking their outputs, and the EU AI Act now pushes detectability by default. MIDiA argues watermarks could reset how listeners and platforms treat AI-made tracks, making 'human-made' a signal creators can actually carry.",
+   "rationale": "라벨 논쟁의 상류 — 자율 규약과 EU AI Act로 탐지 가능성이 기본값이 되면 '사람이 만든'이 창작자가 실제로 들고 다닐 수 있는 신호가 된다."
+  },
+  {
+   "id": "music-artist-operating-system",
+   "tool": "Music",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "url": "https://www.hypebot.com/independent-artists-need-an-operating-system-not-another-tool/",
+   "source": "Hypebot",
+   "published_iso": "2026-08-24T15:08:14Z",
+   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-21-karan-oped.jpg",
+   "excerpt": "After a decade of point tools, the argument is that independent artists need an AI-connected operating system that links catalogue, data and release actions instead of another dashboard. The op-ed sketches what an agentic layer under an artist's workflow would actually have to do.",
+   "rationale": "포인트 툴을 하나 더 붙이는 대신 카탈로그·데이터·릴리스를 잇는 에이전트 층을 요구한다 — 독립 아티스트의 도구 스택을 다시 설계하는 관점."
+  }
+ ],
+ "dedup": {
+  "pool": 10,
+  "dropped_as_duplicates": 6,
+  "shortfall": 1,
+  "notes": [
+   "Apple Music 'Made With AI' labels — Engadget (08-20), CMU (08-21), gearnews (08-21) are three outlets on one event, AND the event was already reported inside the 2026-08-31 card music-platform-ai-policies (Billboard platform-policy tracker: '애플뮤직은 8월 발표한 Made With AI 라벨을 2026년 말까지 적용한다'). Same call was made on 2026-09-01; earliest-wins holds. All 3 dropped.",
+   "Billboard 'Affirms Commitment to Transparency Around AI-Generated Music' (08-25) and Music Ally 'Billboard and Luminate promise more transparency around AI music' (08-26) are the same Luminate/Billboard AI-identification announcement, already published 2026-08-26 as music-luminate-ai-label (Billboard). That day has since rolled out of the 5-day window so URL dedup could not catch it; dropped on content. 2 dropped.",
+   "Digital Music News 'Meet the Musicians Leading the Anti-AI Callout Culture' (08-31) = same beat as music-ai-track-detectives, published in today's live set (2026-09-01, The Verge, h4rris/Nihil Young AI-grifter detectives). Reworded aggregation of the same story. 1 dropped.",
+   "Backfill exhausted the pool: after the 6 drops only 4 distinct never-published stories remain, so the section ships 4 (above the floor of 3) rather than padding with a duplicate."
+  ]
+ },
+ "diversity": {
+  "outlets": [
+   "gearnews",
+   "Digital Music News",
+   "MIDiA Research",
+   "Hypebot"
+  ],
+  "max_per_outlet": 1,
+  "distinct_outlets": 4,
+  "topic_spread": [
+   "DJ hardware / real-time stems",
+   "AI discovery + metadata",
+   "watermarking & regulation",
+   "independent-artist tooling stack"
+  ]
+ }
 }

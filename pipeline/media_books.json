@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-01",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-elsevier-nora-ebook-assistant",
-      "type": "image",
-      "src": "pipeline/media/books-elsevier-nora-ebook-assistant.jpg"
-    },
-    {
-      "id": "books-calibre-ai-covers",
-      "type": "image",
-      "src": "pipeline/media/books-calibre-ai-covers.jpg"
-    },
-    {
-      "id": "books-ssrs-audiobook-narration-survey",
-      "type": "image",
-      "src": "pipeline/media/books-ssrs-audiobook-narration-survey.png"
-    },
-    {
-      "id": "books-loc-ai-sandbox",
-      "type": "image",
-      "src": "pipeline/media/books-loc-ai-sandbox.png"
-    },
-    {
-      "id": "books-getabstract-human-longlist",
-      "type": "image",
-      "src": "pipeline/media/books-getabstract-human-longlist.png"
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "books",
+ "media": [
+  {
+   "id": "books-kh-ttalkkak-translation",
+   "type": "image",
+   "src": "pipeline/media/books-kh-ttalkkak-translation.jpg"
+  },
+  {
+   "id": "books-guest-post-the-human",
+   "type": "image",
+   "src": "pipeline/media/books-guest-post-the-human.jpg"
+  },
+  {
+   "id": "books-appeal-over-legal-fees",
+   "type": "image",
+   "src": "pipeline/media/books-appeal-over-legal-fees.jpg"
+  },
+  {
+   "id": "books-kr-publishing-knowledge-platform",
+   "type": "image",
+   "src": "pipeline/media/books-kr-publishing-knowledge-platform.jpg"
+  },
+  {
+   "id": "books-zlibrary-my-beloved-anthropic",
+   "type": "image",
+   "src": "pipeline/media/books-zlibrary-my-beloved-anthropic.jpg"
+  }
+ ]
 }

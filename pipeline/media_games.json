@@ -1,33 +1,31 @@
 {
-  "date": "2026-09-01",
-  "section": "games",
-  "media": [
-    {
-      "id": "games-city-sample-pcg-mcp",
-      "type": "video",
-      "src": "pipeline/media/games-city-sample-pcg-mcp.mp4",
-      "poster": "pipeline/media/games-city-sample-pcg-mcp.jpg"
-    },
-    {
-      "id": "games-inworld-tts-evals",
-      "type": "image",
-      "src": "pipeline/media/games-inworld-tts-evals.png"
-    },
-    {
-      "id": "games-1666-drops-ai",
-      "type": "video",
-      "src": "pipeline/media/games-1666-drops-ai.mp4",
-      "poster": "pipeline/media/games-1666-drops-ai.jpg"
-    },
-    {
-      "id": "games-gta6-crowd-tech-lead",
-      "type": "image",
-      "src": "pipeline/media/games-gta6-crowd-tech-lead.jpg"
-    },
-    {
-      "id": "games-aws-studio-ai-ops",
-      "type": "image",
-      "src": "pipeline/media/games-aws-studio-ai-ops.jpg"
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "games",
+ "media": [
+  {
+   "id": "games-how-dream-racers-uses",
+   "type": "image",
+   "src": "pipeline/media/games-how-dream-racers-uses.jpg"
+  },
+  {
+   "id": "games-nimble-fox-launches-ai",
+   "type": "image",
+   "src": "pipeline/media/games-nimble-fox-launches-ai.jpg"
+  },
+  {
+   "id": "games-nvidia-says-dlss-5",
+   "type": "image",
+   "src": "pipeline/media/games-nvidia-says-dlss-5.jpg"
+  },
+  {
+   "id": "games-dwarf-fortress-creator-calls",
+   "type": "image",
+   "src": "pipeline/media/games-dwarf-fortress-creator-calls.jpg"
+  },
+  {
+   "id": "games-30-years-later-i",
+   "type": "image",
+   "src": "pipeline/media/games-30-years-later-i.jpg"
+  }
+ ]
 }

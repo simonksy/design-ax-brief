@@ -1,170 +1,138 @@
 {
-  "section": "science",
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T00:00:00Z",
-  "selection_mode": "curator_auto",
-  "dedup": {
-    "pool_size": 19,
-    "published_days_checked": 6,
-    "published_cards_checked": 30,
-    "dropped": [
-      {
-        "title": "Shared-memory AI system lets microscope components coordinate in real time",
-        "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
-        "reason": "CONTENT DUP of published card science-quera-claude (2026-08-29, The Quantum Insider). Both cover the same release — the Anthropic x HHMI Janelia Model Hardware Standard research preview. The published card already explains MHS, its Janelia/Anthropic origin and its research-preview status, so the microscope angle repeats the same event for the reader. Earliest-wins. (Same call was made on 2026-08-31.)"
-      },
-      {
-        "title": "Researcher explores what consciousness really means-and whether it might one day emerge in a machine",
-        "url": "https://techxplore.com/news/2026-08-explores-consciousness-day-emerge-machine.html",
-        "reason": "WITHIN-POOL DUP of core topic with 'Debates over AI consciousness are a trap' (MIT Technology Review). Only one machine-consciousness essay can run; both are opinion/framing pieces with low actionability, so neither was selected."
-      }
-    ],
-    "not_selected_ranked": [
-      {
-        "title": "AI streamlines search for new ceramics that generate electricity",
-        "url": "https://phys.org/news/2026-08-ai-ceramics-generate-electricity.html",
-        "reason": "Strong and fresh, but the same subfield slot (LLM-guided materials discovery) is filled by the GRCop-42 alloy pick, which carries harder numbers (100M configs, 40 experiments, 500 W record)."
-      },
-      {
-        "title": "LLM-based platform for generating new materials synthesis recipes dramatically cuts trial and error",
-        "url": "https://phys.org/news/2026-08-llm-based-platform-generating-materials.html",
-        "reason": "Third materials-discovery-by-LLM item in the pool and thematically close to published card science-mof-linker-ml (2026-08-30, LLM trained on literature proposes new materials). Distinct story, but topic fatigue plus outlet spread ruled it out."
-      },
-      {
-        "title": "How AI could uncover the hidden ways people work together",
-        "url": "https://techxplore.com/news/2026-08-ai-uncover-hidden-ways-people.html",
-        "reason": "Genuinely novel (transformer 'large coordination model' on calendars/email), but still an in-progress project without results; ranked 6th."
-      },
-      {
-        "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
-        "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
-        "reason": "Closer to AI-industry model news than a scientific method advance; the 11x claim is vendor-side and unreplicated."
-      },
-      {
-        "title": "Scientists put algae to work making fuel. AI reveals which cells are pulling their weight",
-        "url": "https://phys.org/news/2026-08-scientists-algae-fuel-ai-reveals.html",
-        "reason": "Good process-instrument angle but no quantified result; Phys.org would also have exceeded its share of the final five."
-      },
-      {
-        "title": "NASA just used satellites and debris to navigate without GPS",
-        "url": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
-        "reason": "Excellent space story, but ScienceDaily already supplies one of the final five and the AI/method content is thinner than the alloy piece."
-      },
-      {
-        "title": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination",
-        "url": "https://www.genengnews.com/topics/infectious-diseases/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/",
-        "reason": "Solid clinical ML result, but 12 days old and the health/infectious-disease slot is taken by the fresher neural-posterior-estimation outbreak pick."
-      },
-      {
-        "title": "AI models flub these intelligence tests. Can you fare any better?",
-        "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-        "reason": "Reader-quiz feature rather than an original result; cognition slot was already used on 2026-08-31 (science-chess-complexity-tolerance)."
-      },
-      {
-        "title": "Debates over AI consciousness are a trap",
-        "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-        "reason": "Opinion/governance framing, 12 days old, low actionability for a research brief."
-      },
-      {
-        "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-        "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-        "reason": "Same source + adjacent core topic as published card science-glucofm (2026-08-30, Google Research wearable/CGM health signals) — content-hub risk; also 11 days old."
-      },
-      {
-        "title": "How mobility gives language models a deeper understanding of place",
-        "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-        "reason": "Google Research geospatial grounding overlaps in feel with published card science-earth-ai (2026-08-29); older, and Google Research is already represented by TimesFM-3."
-      },
-      {
-        "title": "The physics of novel computation: beyond bits and chips to spikes and spins",
-        "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
-        "reason": "Survey/essay with no new result; oldest item in the pool (08-19)."
-      }
-    ],
-    "diversity_check": {
-      "outlets": {
-        "Google Research": 1,
-        "The Quantum Insider": 1,
-        "ScienceDaily": 1,
-        "Medical Xpress": 1,
-        "MIT News": 1
-      },
-      "distinct_outlets": 5,
-      "max_per_outlet": 1,
-      "subfields": [
-        "time-series / forecasting foundation models",
-        "quantum error correction",
-        "materials + additive manufacturing",
-        "epidemiology / simulation-based inference",
-        "climate + extreme-risk modeling"
-      ]
-    }
-  },
-  "picks": [
-    {
-      "id": "science-timesfm-3",
-      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-      "source": "Google Research",
-      "published_iso": "2026-08-31T17:19:40+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google Research released TimesFM-3, a time-series foundation model that forecasts multivariate signals zero-shot, without task-specific training. It targets scientific and operational forecasting workloads from climate to health monitoring.",
-      "tool": "Science",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "A same-day model release that any lab with time-series data can adopt as a zero-shot baseline tomorrow — highest actionability in the pool."
-    },
-    {
-      "id": "science-ionq-macbook-decoder",
-      "title": "IonQ Researchers Run MegaQuOp-Scale Quantum Error Decoder on a MacBook Pro",
-      "url": "https://thequantuminsider.com/2026/08/31/ionq-researchers-run-megaquop-scale-quantum-error-decoder-on-a-macbook-pro/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-08-31T11:46:09+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-7.35.29-AM.png",
-      "excerpt": "IonQ researchers report decoding simulated MegaQuOp-scale quantum workloads on a consumer MacBook Pro. The result suggests real-time error decoding may not need the dedicated hardware stacks previously assumed.",
-      "tool": "Science",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "If MegaQuOp-scale decoding fits on a laptop, the dedicated-classical-hardware assumption baked into fault-tolerance roadmaps loosens — a concrete, checkable claim, not a roadmap promise."
-    },
-    {
-      "id": "science-grcop42-3dprint",
-      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-08-27T00:00:00+00:00",
-      "og_image": "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp",
-      "excerpt": "Washington State University researchers used AI to search more than 100 million possible settings for 3D-printing NASA's GRCop-42 alloy. After just 40 experiments the system found six working configurations, one at a record-low 500 watts, opening the alloy to far more common printers.",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Forty physical experiments out of 100 million candidate settings, ending at a record-low 500 W — the clearest number in the pool for how far AI compresses experimental search."
-    },
-    {
-      "id": "science-npe-outbreak",
-      "title": "New AI method can support real-time management of infectious diseases",
-      "url": "https://medicalxpress.com/news/2026-08-ai-method-real-infectious-diseases.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-08-31T15:20:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-method-can-supp.jpg",
-      "excerpt": "INRAE researchers applied neural posterior estimation, a deep-learning inference technique, to phylodynamic models of outbreak spread using 72 Ebola genomes. It calibrates epidemiological models far faster and across mixed data types, opening the door to real-time outbreak monitoring.",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "rationale": "Simulation-based inference makes epidemic models fast enough to run during an outbreak instead of after it — a method change with a direct public-health consequence."
-    },
-    {
-      "id": "science-extreme-scenarios",
-      "title": "Generating scenarios for extreme events, without extreme data",
-      "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
-      "source": "MIT News",
-      "published_iso": "2026-08-24T18:00:00+00:00",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-ExtremeLearning-01-press.jpg",
-      "excerpt": "MIT engineers built a model that predicts plausible extreme events - an extreme storm's likely duration, intensity and footprint - without having seen previous extreme events. It attacks the core data-scarcity problem in climate and risk modeling.",
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "Generating plausible extreme events with no extreme events in the training data attacks the single hardest constraint in climate and catastrophe-risk modeling."
-    }
+ "date": "2026-09-02",
+ "section": "science",
+ "selected_by": "curator (user deferred)",
+ "pool_size": 14,
+ "dedup": {
+  "against_days": 5,
+  "history_cards_checked": 30,
+  "url_level_prefilter": "candidates_filtered_science.json already dropped 2 URL-level duplicates",
+  "dropped": [
+   {
+    "url": "https://techxplore.com/news/2026-09-kind-ai-cheaply-words.html",
+    "reason": "within-pool duplicate — same latent-space reasoning research as the selected Live Science piece; kept the version carrying the concrete 11x cost figure"
+   },
+   {
+    "url": "https://phys.org/news/2026-08-llm-based-platform-generating-materials.html",
+    "reason": "near-duplicate topic of published 2026-08-30 card science-mof-linker-ml (Phys.org) — LLM reading the materials literature to propose synthesis; also 7 days old"
+   },
+   {
+    "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
+    "reason": "Janelia shared-memory instrument-control layer overlaps the Anthropic Model Hardware Standard thread already covered in the published 2026-08-29 card science-quera-claude"
+   },
+   {
+    "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+    "reason": "evergreen essay, no new release or result — fails novelty/actionability"
+   },
+   {
+    "url": "https://thequantuminsider.com/2026/09/01/quantum-classical-software-tests-new-approach-to-protein-folding/",
+    "reason": "surviving but not selected — third quantum item would break the domain spread; weaker than the IBM logical-qubit result"
+   },
+   {
+    "url": "https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/",
+    "reason": "surviving but not selected — same quantum-chemistry-for-drugs lane as published 2026-08-30 card science-quantum-docking (The Quantum Insider)"
+   },
+   {
+    "url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/",
+    "reason": "surviving but not selected — interview format, 7 days old, and STAT already ran in the 2026-08-30 science slate"
+   },
+   {
+    "url": "https://techxplore.com/news/2026-09-digital-brain-twins-hinge-brains.html",
+    "reason": "surviving but not selected — perspective piece ('researchers argue'), no new result to act on"
+   },
+   {
+    "url": "https://phys.org/news/2026-09-ai-tool-unusual-satellite-behavior.html",
+    "reason": "surviving but not selected — second Phys.org and second space item; lower-impact than the Alpha Centauri trajectory story"
+   }
   ]
+ },
+ "diversity": {
+  "outlets": [
+   "MIT Technology Review",
+   "Phys.org",
+   "ScienceDaily",
+   "Google Research",
+   "Live Science"
+  ],
+  "max_per_outlet": 1,
+  "domain_spread": [
+   "space / mission design",
+   "structural biology",
+   "quantum computing / physics",
+   "earth observation / climate",
+   "AI architecture & compute"
+  ]
+ },
+ "items": [
+  {
+   "id": "science-alpha-centauri-ai-trajectory",
+   "title": "How AI plotted an interstellar journey to Alpha Centauri",
+   "tool": "Science",
+   "category": "science",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+   "source": "MIT Technology Review",
+   "published_iso": "2026-09-01T19:10:36Z",
+   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
+   "excerpt": "The Fermi Explorer Mission plans to launch a spacecraft toward our nearest star by the end of 2029, using a gravity-assist trajectory discovered by an AI search rather than by human mission planners.",
+   "rationale": "An AI search found a gravity-assist route human mission planners missed — the first time a machine-designed trajectory anchors a real interstellar launch date."
+  },
+  {
+   "id": "science-bitenet-ion-sites",
+   "title": "New AI model maps the ion binding sites that control how proteins work",
+   "tool": "Science",
+   "category": "science",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "url": "https://phys.org/news/2026-09-ai-ion-sites-proteins.html",
+   "source": "Phys.org",
+   "published_iso": "2026-09-01T17:40:02Z",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-maps-the.jpg",
+   "excerpt": "Constructor University and Constructor Labs built BiteNetI, a deep-learning model that locates binding sites for 14 biologically important ion types directly in 3D protein structures in seconds, reporting two- to threefold higher accuracy than most existing predictors including DeepMind's AlphaFold 3.",
+   "rationale": "Ion sites decide whether a protein actually works; a seconds-fast model claiming 2-3x the accuracy of AlphaFold 3 on them is an immediately usable structural-biology tool."
+  },
+  {
+   "id": "science-ibm-15min-quantum",
+   "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+   "tool": "Science",
+   "category": "science",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+   "source": "ScienceDaily",
+   "published_iso": "2026-08-30T14:08:13Z",
+   "og_image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+   "excerpt": "IBM and University of Chicago researchers completed a quantum computation that leading classical methods could not practically reproduce, using 70 error-corrected logical qubits and finishing in roughly 15 minutes with statistical evidence the result was reliable.",
+   "rationale": "70 error-corrected logical qubits finishing in 15 minutes, with a reliability argument attached, moves the quantum-advantage debate from claim to measurable baseline."
+  },
+  {
+   "id": "science-methane-deeplearning-maps",
+   "title": "Mapping global methane emissions from space with deep learning",
+   "tool": "Science",
+   "category": "science",
+   "accent": "#f5a623",
+   "motif": "swatch",
+   "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+   "source": "Google Research",
+   "published_iso": "2026-09-01T00:00:00Z",
+   "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+   "excerpt": "Google Research describes a deep-learning pipeline that turns satellite spectra into global methane emission maps, detecting plumes and attributing them to sources at planetary scale.",
+   "rationale": "Turning raw satellite spectra into attributed methane plumes at planetary scale gives climate researchers a source-level monitoring layer that did not exist before."
+  },
+  {
+   "id": "science-latent-reasoning-cheap",
+   "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
+   "tool": "Science",
+   "category": "science",
+   "accent": "#eb367f",
+   "motif": "headset",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
+   "source": "Live Science",
+   "published_iso": "2026-08-29T11:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg",
+   "excerpt": "Researchers say a new reasoning architecture costs up to 11 times less to run than a leading OpenAI model while matching it on benchmark tasks, a shift with direct consequences for compute-bound research labs.",
+   "rationale": "Reasoning in latent space instead of chains of words cuts inference cost up to 11x at matched benchmark scores — the compute math for research labs changes overnight."
+  }
+ ]
 }

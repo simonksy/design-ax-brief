@@ -1,308 +1,250 @@
 {
-  "date": "2026-09-01",
-  "section": "movies",
-  "now_iso": "2026-08-31T22:00:35Z",
-  "rotation": {
-    "mode": "FULL_POOL_OVERRIDE",
-    "note": "Unattended run: rotation disabled. ALL of sections.movies.core (3) + the ENTIRE sections.movies.keywords list (23) are used as working keywords = 26. Each expanded into 2-4 sibling phrases (vendors, products, feature angles, Korean equivalents). Creator emphasis for the social-style subgroup still rotates by date (day-of-year 244 % 5 = 4 -> start at 'fxguide', then Runway / Curious Refuge / Corridor Crew).",
-    "day_of_year": 244,
-    "no_websearch_during_planning": true,
-    "recently_covered_skipped": [
-      "Adobe Firefly audio tools (Generate Music / Speech / Sound Effects) — movies 2026-08-31",
-      "Tippett Studio closing auction — movies 2026-08-31",
-      "Tilly Norwood AI actress disclosure / PSB investment — movies 2026-08-31",
-      "VFX & Animation World Atlas 2026 headcount report — movies 2026-08-30",
-      "EditShare Flow AI + MediaSilo Media Drives at IBC 2026 — movies 2026-08-30",
-      "Apple Mac Studio M5 Max / M5 Ultra for editors — movies 2026-08-30",
-      "Autodesk Flow Studio 3D editor canvas — movies 2026-08-27",
-      "AI production budgeting / Production Assistant app — movies 2026-08-27",
-      "Unreleased codename video models blind test (Theoretically Media) — movies 2026-08-27"
-    ]
-  },
-  "working_keywords": [
-    {
-      "keyword": "AI film",
-      "origin": "core",
-      "expansions": ["AI-made feature film", "AI generated movie release", "AI film festival winner", "AI 영화"]
-    },
-    {
-      "keyword": "AI 영화",
-      "origin": "core",
-      "expansions": ["AI 영화 제작", "생성형 AI 영상", "한국 AI 영화제"]
-    },
-    {
-      "keyword": "AI filmmaking",
-      "origin": "core",
-      "expansions": ["AI filmmaking workflow", "AI in film production pipeline", "filmmaker AI toolkit", "AI 영화 워크플로"]
-    },
-    {
-      "keyword": "generative video film",
-      "origin": "pool",
-      "expansions": ["generative video model release", "video diffusion model filmmaking", "AI video generator update"]
-    },
-    {
-      "keyword": "AI VFX",
-      "origin": "pool",
-      "expansions": ["machine learning VFX pipeline", "AI compositing Nuke", "DNEG Framestore AI VFX", "AI 시각효과"]
-    },
-    {
-      "keyword": "Runway film",
-      "origin": "pool",
-      "expansions": ["Runway Gen-5", "Runway Aleph", "Runway studio partnership", "RunwayML filmmaker"]
-    },
-    {
-      "keyword": "Sora film",
-      "origin": "pool",
-      "expansions": ["OpenAI Sora 2 filmmaking", "Sora studio deal", "Sora cinematic short"]
-    },
-    {
-      "keyword": "virtual production AI",
-      "origin": "pool",
-      "expansions": ["LED volume AI", "Unreal Engine virtual production AI", "ICVFX real-time AI", "버추얼 프로덕션"]
-    },
-    {
-      "keyword": "AI de-aging",
-      "origin": "pool",
-      "expansions": ["digital de-aging actor", "Metaphysic Flawless de-aging", "face replacement film AI"]
-    },
-    {
-      "keyword": "AI storyboard previs",
-      "origin": "pool",
-      "expansions": ["AI previsualization tool", "AI storyboard generator film", "LTX Studio previs", "AI 스토리보드"]
-    },
-    {
-      "keyword": "AI screenwriting",
-      "origin": "pool",
-      "expansions": ["AI script development studio", "screenplay AI tool", "WGA AI screenwriting rules"]
-    },
-    {
-      "keyword": "deepfake film",
-      "origin": "pool",
-      "expansions": ["digital likeness rights actors", "synthetic performer consent", "AI actor deepfake lawsuit"]
-    },
-    {
-      "keyword": "AI color grading",
-      "origin": "pool",
-      "expansions": ["DaVinci Resolve AI grading", "neural color match", "AI look development colorist"]
-    },
-    {
-      "keyword": "AI rotoscoping",
-      "origin": "pool",
-      "expansions": ["AI Magic Mask roto", "automatic matte generation", "AI keying cleanup plate"]
-    },
-    {
-      "keyword": "AI dubbing lip sync",
-      "origin": "pool",
-      "expansions": ["Deepdub Flawless TrueSync", "AI visual dubbing release", "AI voice dubbing film", "AI 더빙"]
-    },
-    {
-      "keyword": "AI short film",
-      "origin": "pool",
-      "expansions": ["AI short film competition", "AI Film Festival selection", "director AI short behind the scenes"]
-    },
-    {
-      "keyword": "text-to-video film",
-      "origin": "pool",
-      "expansions": ["text-to-video model comparison", "prompt-to-shot filmmaking", "text-to-video API for studios"]
-    },
-    {
-      "keyword": "AI motion capture",
-      "origin": "pool",
-      "expansions": ["markerless mocap AI", "Move.ai Wonder Dynamics", "video-to-animation AI", "AI 모션캡처"]
-    },
-    {
-      "keyword": "neural rendering film",
-      "origin": "pool",
-      "expansions": ["Gaussian splatting film production", "NeRF virtual set", "neural relighting shot"]
-    },
-    {
-      "keyword": "AI trailer",
-      "origin": "pool",
-      "expansions": ["AI trailer editing tool", "AI marketing key art film", "AI-cut promo studio"]
-    },
-    {
-      "keyword": "AI film restoration",
-      "origin": "pool",
-      "expansions": ["AI upscaling classic film", "archive restoration machine learning", "4K AI remaster release"]
-    },
-    {
-      "keyword": "Kling film",
-      "origin": "pool",
-      "expansions": ["Kling 3.0 Kuaishou", "Kling AI film program", "Chinese video model filmmaking"]
-    },
-    {
-      "keyword": "Luma film",
-      "origin": "pool",
-      "expansions": ["Luma Ray3", "Luma Dream Machine film", "Luma AI studio partnership"]
-    },
-    {
-      "keyword": "AI animation film",
-      "origin": "pool",
-      "expansions": ["AI animated feature studio", "2D animation AI inbetweening", "anime AI production", "AI 애니메이션"]
-    },
-    {
-      "keyword": "AI scene generation",
-      "origin": "pool",
-      "expansions": ["AI set extension", "world model shot generation", "AI environment build film"]
-    },
-    {
-      "keyword": "Hollywood AI",
-      "origin": "pool",
-      "expansions": ["studio AI licensing deal", "SAG-AFTRA AI agreement", "Netflix Disney generative AI policy", "AI copyright lawsuit studios"]
-    }
-  ],
-  "plan": [
-    {
-      "category": "movies",
-      "label": "Movies",
-      "group": "generative_video_models",
-      "allowed_domains": [
-        "variety.com", "hollywoodreporter.com", "indiewire.com", "nofilmschool.com", "fxguide.com",
-        "beforesandafters.com", "provideocoalition.com", "cartoonbrew.com", "vfxvoice.com",
-        "definitionmagazine.com", "postperspective.com", "deadline.com", "screendaily.com",
-        "theasc.com", "motionographer.com", "studiodaily.com", "animationmagazine.net", "awn.com",
-        "redsharknews.com", "theverge.com", "engadget.com", "80.lv"
-      ],
-      "queries": [
-        "Runway Gen-5 filmmaker release 2026",
-        "OpenAI Sora 2 studio filmmaking deal September 2026",
-        "Kling 3.0 Kuaishou video model film production",
-        "Luma Ray3 Dream Machine film studio 2026",
-        "text-to-video model comparison filmmakers 2026"
-      ]
-    },
-    {
-      "category": "movies",
-      "label": "Movies",
-      "group": "vfx_post_pipeline",
-      "allowed_domains": [
-        "fxguide.com", "beforesandafters.com", "vfxvoice.com", "postperspective.com",
-        "provideocoalition.com", "redsharknews.com", "studiodaily.com", "80.lv", "definitionmagazine.com",
-        "blackmagicdesign.com", "foundry.com"
-      ],
-      "queries": [
-        "AI VFX pipeline machine learning compositing 2026",
-        "DaVinci Resolve AI color grading neural tool 2026",
-        "AI rotoscoping automatic matte roto tool release",
-        "neural rendering Gaussian splatting film production 2026",
-        "AI de-aging digital likeness VFX film 2026"
-      ]
-    },
-    {
-      "category": "movies",
-      "label": "Movies",
-      "group": "preproduction_previs_script",
-      "allowed_domains": [
-        "nofilmschool.com", "indiewire.com", "provideocoalition.com", "studiodaily.com",
-        "definitionmagazine.com", "theasc.com", "redsharknews.com", "variety.com"
-      ],
-      "queries": [
-        "AI storyboard previs tool filmmakers 2026",
-        "AI screenwriting script development studio 2026",
-        "virtual production AI LED volume Unreal Engine 2026",
-        "AI motion capture markerless Move.ai Wonder Dynamics film"
-      ]
-    },
-    {
-      "category": "movies",
-      "label": "Movies",
-      "group": "industry_policy_business",
-      "allowed_domains": [
-        "variety.com", "hollywoodreporter.com", "deadline.com", "screendaily.com",
-        "indiewire.com", "theverge.com", "engadget.com"
-      ],
-      "queries": [
-        "Hollywood studio generative AI licensing deal 2026",
-        "SAG-AFTRA AI digital replica agreement 2026",
-        "AI copyright lawsuit film studio ruling 2026",
-        "streaming platform AI content policy Netflix Disney 2026"
-      ]
-    },
-    {
-      "category": "movies",
-      "label": "Movies",
-      "group": "animation_shortfilm_festival",
-      "allowed_domains": [
-        "cartoonbrew.com", "animationmagazine.net", "awn.com", "motionographer.com",
-        "indiewire.com", "screendaily.com", "80.lv"
-      ],
-      "queries": [
-        "AI animated feature studio production 2026",
-        "AI short film festival selection award 2026",
-        "AI animation inbetweening anime production tool 2026",
-        "AI 영화 제작 단편 2026"
-      ]
-    },
-    {
-      "category": "movies",
-      "label": "Movies",
-      "group": "localization_restoration_delivery",
-      "allowed_domains": [
-        "postperspective.com", "redsharknews.com", "provideocoalition.com", "screendaily.com",
-        "variety.com", "studiodaily.com", "definitionmagazine.com"
-      ],
-      "queries": [
-        "AI dubbing visual lip sync Deepdub Flawless 2026",
-        "AI film restoration 4K remaster archive machine learning 2026",
-        "AI trailer editing marketing campaign film 2026"
-      ]
-    },
-    {
-      "category": "movies",
-      "label": "Movies / Social",
-      "group": "social_creators",
-      "allowed_domains": ["youtube.com", "youtu.be", "fxguide.com", "instagram.com"],
-      "note": "Best-effort. Creator emphasis rotated by day-of-year 244 % 5 = 4 -> fxguide first, then Runway, Curious Refuge, Corridor Crew.",
-      "queries": [
-        "site:youtube.com fxguide AI VFX 2026",
-        "site:youtube.com Runway AI film 2026",
-        "site:youtube.com Curious Refuge AI filmmaking 2026",
-        "site:youtube.com Corridor Crew AI VFX 2026"
-      ]
-    },
-    {
-      "category": "movies",
-      "label": "Movies / Wildcard",
-      "group": "wildcard",
-      "allowed_domains": [
-        "variety.com", "hollywoodreporter.com", "deadline.com", "indiewire.com", "nofilmschool.com",
-        "fxguide.com", "theverge.com", "screendaily.com", "cartoonbrew.com", "80.lv"
-      ],
-      "queries": [
-        "AI filmmaking news this week trending September 2026"
-      ]
-    }
-  ],
-  "queries": [
-    { "q": "Runway Gen-5 filmmaker release 2026", "category": "movies", "group": "generative_video_models" },
-    { "q": "OpenAI Sora 2 studio filmmaking deal September 2026", "category": "movies", "group": "generative_video_models" },
-    { "q": "Kling 3.0 Kuaishou video model film production", "category": "movies", "group": "generative_video_models" },
-    { "q": "Luma Ray3 Dream Machine film studio 2026", "category": "movies", "group": "generative_video_models" },
-    { "q": "text-to-video model comparison filmmakers 2026", "category": "movies", "group": "generative_video_models" },
-    { "q": "AI VFX pipeline machine learning compositing 2026", "category": "movies", "group": "vfx_post_pipeline" },
-    { "q": "DaVinci Resolve AI color grading neural tool 2026", "category": "movies", "group": "vfx_post_pipeline" },
-    { "q": "AI rotoscoping automatic matte roto tool release", "category": "movies", "group": "vfx_post_pipeline" },
-    { "q": "neural rendering Gaussian splatting film production 2026", "category": "movies", "group": "vfx_post_pipeline" },
-    { "q": "AI de-aging digital likeness VFX film 2026", "category": "movies", "group": "vfx_post_pipeline" },
-    { "q": "AI storyboard previs tool filmmakers 2026", "category": "movies", "group": "preproduction_previs_script" },
-    { "q": "AI screenwriting script development studio 2026", "category": "movies", "group": "preproduction_previs_script" },
-    { "q": "virtual production AI LED volume Unreal Engine 2026", "category": "movies", "group": "preproduction_previs_script" },
-    { "q": "AI motion capture markerless Move.ai Wonder Dynamics film", "category": "movies", "group": "preproduction_previs_script" },
-    { "q": "Hollywood studio generative AI licensing deal 2026", "category": "movies", "group": "industry_policy_business" },
-    { "q": "SAG-AFTRA AI digital replica agreement 2026", "category": "movies", "group": "industry_policy_business" },
-    { "q": "AI copyright lawsuit film studio ruling 2026", "category": "movies", "group": "industry_policy_business" },
-    { "q": "streaming platform AI content policy Netflix Disney 2026", "category": "movies", "group": "industry_policy_business" },
-    { "q": "AI animated feature studio production 2026", "category": "movies", "group": "animation_shortfilm_festival" },
-    { "q": "AI short film festival selection award 2026", "category": "movies", "group": "animation_shortfilm_festival" },
-    { "q": "AI animation inbetweening anime production tool 2026", "category": "movies", "group": "animation_shortfilm_festival" },
-    { "q": "AI 영화 제작 단편 2026", "category": "movies", "group": "animation_shortfilm_festival" },
-    { "q": "AI dubbing visual lip sync Deepdub Flawless 2026", "category": "movies", "group": "localization_restoration_delivery" },
-    { "q": "AI film restoration 4K remaster archive machine learning 2026", "category": "movies", "group": "localization_restoration_delivery" },
-    { "q": "AI trailer editing marketing campaign film 2026", "category": "movies", "group": "localization_restoration_delivery" },
-    { "q": "site:youtube.com fxguide AI VFX 2026", "category": "movies", "group": "social_creators" },
-    { "q": "site:youtube.com Runway AI film 2026", "category": "movies", "group": "social_creators" },
-    { "q": "site:youtube.com Curious Refuge AI filmmaking 2026", "category": "movies", "group": "social_creators" },
-    { "q": "site:youtube.com Corridor Crew AI VFX 2026", "category": "movies", "group": "social_creators" },
-    { "q": "AI filmmaking news this week trending September 2026", "category": "movies", "group": "wildcard" }
+ "date": "2026-09-02",
+ "section": "movies",
+ "now_iso": "2026-09-01T22:05:00Z",
+ "rotation": {
+  "mode": "full_pool_override",
+  "note": "UNATTENDED RUN — ALL core keywords + the ENTIRE rotation pool are seeds. Expand with siblings/synonyms as needed to fill 5."
+ },
+ "core": [
+  "AI film",
+  "AI 영화",
+  "AI filmmaking"
+ ],
+ "groups": {
+  "keywords": [
+   "generative video film",
+   "AI VFX",
+   "Runway film",
+   "Sora film",
+   "virtual production AI",
+   "AI de-aging",
+   "AI storyboard previs",
+   "AI screenwriting",
+   "deepfake film",
+   "AI color grading",
+   "AI rotoscoping",
+   "AI dubbing lip sync",
+   "AI short film",
+   "text-to-video film",
+   "AI motion capture",
+   "neural rendering film",
+   "AI trailer",
+   "AI film restoration",
+   "Kling film",
+   "Luma film",
+   "AI animation film",
+   "AI scene generation",
+   "Hollywood AI"
   ]
+ },
+ "keywords": [
+  "AI film",
+  "AI 영화",
+  "AI filmmaking",
+  "generative video film",
+  "AI VFX",
+  "Runway film",
+  "Sora film",
+  "virtual production AI",
+  "AI de-aging",
+  "AI storyboard previs",
+  "AI screenwriting",
+  "deepfake film",
+  "AI color grading",
+  "AI rotoscoping",
+  "AI dubbing lip sync",
+  "AI short film",
+  "text-to-video film",
+  "AI motion capture",
+  "neural rendering film",
+  "AI trailer",
+  "AI film restoration",
+  "Kling film",
+  "Luma film",
+  "AI animation film",
+  "AI scene generation",
+  "Hollywood AI"
+ ],
+ "categories": [
+  {
+   "category": "movies",
+   "allowed_domains": [
+    "variety.com",
+    "hollywoodreporter.com",
+    "indiewire.com",
+    "nofilmschool.com",
+    "fxguide.com",
+    "beforesandafters.com",
+    "provideocoalition.com",
+    "cartoonbrew.com",
+    "vfxvoice.com",
+    "definitionmagazine.com",
+    "postperspective.com",
+    "deadline.com",
+    "screendaily.com",
+    "theasc.com",
+    "motionographer.com",
+    "studiodaily.com",
+    "animationmagazine.net",
+    "awn.com",
+    "redsharknews.com",
+    "theverge.com",
+    "engadget.com",
+    "80.lv"
+   ]
+  }
+ ],
+ "avoid_recent": [
+  {
+   "date": "2026-09-01",
+   "headline": "나이스 터치, AI 편집 어시스턴트 V2를 전면 재설계해 내놨다",
+   "url": "https://postperspective.com/nice-touch-launches-v2-of-its-ai-edit-assistant-for-pro-editors/"
+  },
+  {
+   "date": "2026-09-01",
+   "headline": "프롬프트로 뽑은 결과물에는 저작권을 주지 말자는 입법 요구",
+   "url": "https://www.hollywoodreporter.com/business/business-news/ai-movies-prompts-songs-legislation-1236680256/"
+  },
+  {
+   "date": "2026-09-01",
+   "headline": "베네치아로 향한 AI 다큐멘터리 감독은 “사람이 먼저”라고 말한다",
+   "url": "https://variety.com/2026/film/global/francesco-carrozzini-venice-artificial-intelligence-brave-1236846518/"
+  },
+  {
+   "date": "2026-09-01",
+   "headline": "「정크야드 킹」을 만든 방식, AI를 실무 도구로 쓰는 법",
+   "url": "https://www.animationmagazine.net/2026/08/junkyard-king-creator-henry-daubrez-introduces-us-to-his-wild-animated-world/"
+  },
+  {
+   "date": "2026-09-01",
+   "headline": "AI 캐릭터 퉁 퉁 사후르의 소유권을 가리는 법정 다툼",
+   "url": "https://deadline.com/2026/08/tung-tung-sahur-ai-lawsuit-latest-1237061549/"
+  },
+  {
+   "date": "2026-08-27",
+   "headline": "Flow Studio, 3D로 숏을 잡고 2D 캔버스에서 마무리한다",
+   "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/"
+  },
+  {
+   "date": "2026-08-27",
+   "headline": "AI 보정과 합성 연기 사이에 할리우드가 선을 그었다",
+   "url": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/"
+  },
+  {
+   "date": "2026-08-27",
+   "headline": "입찰부터 최종 랩까지, 제작부의 장부를 AI가 대신 채운다",
+   "url": "https://postperspective.com/lineo-launches-end-to-end-platform-for-spot-producers/"
+  },
+  {
+   "date": "2026-08-27",
+   "headline": "코드명만 붙은 영상 모델 두 개 출력물을 하나씩 뜯어봤다",
+   "url": "https://www.youtube.com/watch?v=YQTduCzNoqw"
+  },
+  {
+   "date": "2026-08-27",
+   "headline": "구글 딥마인드와 AWS, 클링 AI가 부산 필름마켓 무대에 선다",
+   "url": "https://variety.com/2026/film/global/google-deepmind-amazon-web-services-busan-market-innoasia-1236843573/"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "코코멜론 만드는 Moonbug, 아티스트에게 AI 실험을 주문하다",
+   "url": "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "Media Composer 2026.8, AI 도구와 Ready to Edit",
+   "url": "https://www.redsharknews.com/media-composer-2026-8-features"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "AI로 되살린 진 와일더의 목소리가 넷플릭스 예능을 진행한다",
+   "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-wonka-reality-show-gene-wilder-1236682001/"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "전직 애니메이터와 촬영감독이 AI 숏드라마 시스템을 짓는다",
+   "url": "https://www.sixthtone.com/news/1018935"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "Scantic, 아이폰 안에서 가우시안 스플랫을 만든다",
+   "url": "https://www.cgchannel.com/2026/08/scantic-trains-gaussian-splats-entirely-on-your-phone/"
+  },
+  {
+   "date": "2026-08-29",
+   "headline": "Eddie AI, 구독을 접고 클로드·챗GPT 안에서 편집",
+   "url": "https://www.cined.com/eddie-ai-overhauled-pay-as-you-go-pricing-editing-from-claude-and-chatgpt-and-an-iphone-app/"
+  },
+  {
+   "date": "2026-08-29",
+   "headline": "로토·트래킹·뎁스가 ComfyUI로 프레임당 0.25달러",
+   "url": "https://www.cgchannel.com/2026/08/new-cg-software-you-may-have-missed-23-august-2026/"
+  },
+  {
+   "date": "2026-08-29",
+   "headline": "USC 영화 수업이 쓰는 AI 재조명·장면 재구성 도구",
+   "url": "https://www.provideocoalition.com/filmmaking-research-and-production-courses-at-etc-use-beeble/"
+  },
+  {
+   "date": "2026-08-29",
+   "headline": "'애스트로 번', 자기 에셋만 학습한 모델로 만든 세로 시리즈",
+   "url": "https://www.awn.com/news/haz-dululls-astro-burn-game-comes-life-ai-assisted-micro-series"
+  },
+  {
+   "date": "2026-08-29",
+   "headline": "AI 디에이징이 여전히 언캐니 밸리에 걸리는 이유",
+   "url": "https://www.cined.com/digital-de-aging-and-the-uncanny-valley-problem/"
+  },
+  {
+   "date": "2026-08-30",
+   "headline": "포토샵에 비파괴 조명 레이어, 마스크 지정 인스트럭트 편집",
+   "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools"
+  },
+  {
+   "date": "2026-08-30",
+   "headline": "오픈웨이트 모델을 사내에 두면 버전도 비용도 흔들리지 않는다",
+   "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/"
+  },
+  {
+   "date": "2026-08-30",
+   "headline": "게임에서 건너온 '인디 슬롭'이 저예산 영화까지 겨누기 시작했다",
+   "url": "https://www.indiewire.com/features/commentary/indie-slop-definition-film-video-game-criticism-1235211844/"
+  },
+  {
+   "date": "2026-08-30",
+   "headline": "3분 영화로 미래를 제안한 6,000명 우승작엔 250만 달러 지원금",
+   "url": "https://beforesandafters.com/2026/08/25/six-thousand-people-made-a-three-minute-film-about-a-future-worth-living-in/"
+  },
+  {
+   "date": "2026-08-30",
+   "headline": "돈 한 푼 안 드는 AI 영상 생성기, 영화 워크플로에 쓸 만한가",
+   "url": "https://www.youtube.com/watch?v=qv0s1_coX50"
+  },
+  {
+   "date": "2026-08-31",
+   "headline": "유토파이, AI 네이티브 스튜디오 2027년 영화 3편·시리즈 2편 공개",
+   "url": "https://variety.com/2026/biz/news/utopai-worlds-largest-independent-ai-native-film-tv-studio-will-premiere-3-movies-2-series-in-2027-1236844803/"
+  },
+  {
+   "date": "2026-08-31",
+   "headline": "어도비 파이어플라이가 음악과 음성, 효과음 생성을 한자리에 모았다",
+   "url": "https://nofilmschool.com/adobe-firefly-audio-tools"
+  },
+  {
+   "date": "2026-08-31",
+   "headline": "필 티펫, 40년 작업실을 접고 소품과 장비를 경매에 내놓는다",
+   "url": "https://www.cartoonbrew.com/auctions/tippett-studio-closing-auction-266120.html"
+  },
+  {
+   "date": "2026-08-31",
+   "headline": "“AI로 일한다는 말이 성병 고백 같다” 틸리 노우드 제작자의 공개 투자 요구",
+   "url": "https://www.screendaily.com/news/saying-youre-working-with-ai-is-like-saying-you-have-an-std-argues-tilly-norwood-creator/5219747.article"
+  },
+  {
+   "date": "2026-08-31",
+   "headline": "플라잉 바크가 3년 동안 도구를 만들어 리그 없이 전부 손으로 그렸다",
+   "url": "https://www.awn.com/animationworld/flying-bark-enters-avatar-state-avatar-aang-last-airbender"
+  }
+ ]
 }

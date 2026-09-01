@@ -1,369 +1,285 @@
 {
-  "date": "2026-09-01",
-  "section": "music",
-  "count": 5,
-  "cards": [
-    {
-      "id": "music-stable-audio-daw",
-      "eyebrow": "AI NEWS",
-      "headline": "Stable Audio 3.0,\nDAW 세션 안으로",
-      "body": "Stability AI가 DAW 안에서 바로 생성하는 플러그인과 새 웹 환경을 얼리 베타로 열었다.",
-      "mini_headline": "DAW 안으로 들어온 생성",
-      "tool": "Music",
-      "source": "Stability AI",
-      "url": "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "og_image": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
-      "published_iso": "2026-08-18T13:55:14Z",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
-            "cap": "Stable Audio 얼리 베타. 이미지: Stability AI"
-          },
-          {
-            "t": "p",
-            "x": "원하는 사운드스케이프나 스코어, 곡에 다다르는 길은 사람마다 다르다. 작업 방식도 제각각이고, 시작할 때는 그 아이디어가 어디로 흘러갈지 알 수 없다."
-          },
-          {
-            "t": "p",
-            "x": "그러니 한 번에 도착할 리도 없다."
-          },
-          {
-            "t": "p",
-            "x": "Stability AI는 Stable Audio의 다음 단계를 고민하며 이 지점을 붙들었다고 했다. 목표는 간단하다. 소리를 그냥 뽑아내는 게 아니라 다듬어 나갈 도구를 쥐여주는 것."
-          },
-          {
-            "t": "p",
-            "x": "그래서 Stable Audio 3.0을 다루는 두 가지 방식을 함께 내놨다. 생성을 곧장 DAW 안으로 들여오는 Stable Audio 플러그인, 그리고 만든 결과를 더 손볼 수 있게 강화한 StableAudio.com 웹 경험이다. 둘 다 상업적으로 안전한 모델로 돌아가고, 결과물은 사용자 소유이며 자유롭게 배포할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "두 가지 모두 베타다. 일부 기능은 실험적이고, 경험은 실시간으로 계속 손보겠다는 게 회사 설명이다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/20d660a3-a727-4bf7-b3bc-ed7bee479772/PluginGIF.gif",
-            "cap": "DAW 트랙 위에서 바로 도는 Stable Audio 플러그인. 이미지: Stability AI"
-          },
-          {
-            "t": "p",
-            "x": "플러그인은 DAW 트랙 위에서 바로 오디오를 만든다. 만든 소리를 그 자리에서 배열하고 편집하고 프로세싱해, 세션의 나머지와 나란히 쌓아 올린다."
-          },
-          {
-            "t": "p",
-            "x": "동작 방식은 인스트루먼트다. Ableton이라면 Instrument 트랙의 PlugIns 아래, Logic이라면 Instrument 슬롯에 걸린다."
-          },
-          {
-            "t": "p",
-            "x": "세션 BPM에 동기화되니 지금 작업 중인 프로젝트의 템포에 그대로 얹힌다. 길이도 고른다. 짧은 섹션 하나부터 6분짜리 완곡까지. 여러 테이크는 플레이리스트에 담아두고 비교한 뒤 남길 것을 정하면 된다."
-          },
-          {
-            "t": "p",
-            "x": "지원 포맷은 macOS AU와 VST3. Apple Silicon과 Intel Mac을 모두 받고, Logic Pro와 Ableton Live를 비롯한 주요 DAW와 호환된다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/cb9354f9-2ed6-42dc-bc0d-14ab6c4f8957/WebappGIF.gif",
-            "cap": "브라우저에서 트랙을 계속 손보는 새 웹앱. 이미지: Stability AI"
-          },
-          {
-            "t": "p",
-            "x": "웹앱은 뮤지션의 실제 순서를 따라간다. 아이디어를 일단 얹고, 들어보고, 고치고, 또 돌린다. 첫 테이크는 프롬프트로 뽑는다."
-          },
-          {
-            "t": "p",
-            "x": "그다음부터는 말로 방향을 준다. 저역을 줄여달라거나, 빌드를 더 뒤로 미루거나, 악기 편성을 바꾸거나. audio-to-audio로 이미 가진 소리에서 다른 장르와 무드, 변주를 끌어낼 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "파트별 작업도 열렸다. level·pan·mute·solo로 믹스하고, 트랙별 이펙트와 마스터 이펙트를 건다. 원하는 파트만 바운스한 뒤 믹스를 export하면 다른 자리에서 이어 작업할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "테이크가 아깝게 어긋났다고 처음부터 다시 시작할 필요는 없다. 이번 베타가 내세우는 건 결국 계속 머물 수 있는 세션이다. 팀은 뮤지션과 프로듀서, 작곡가, 사운드 디자이너, 오디오 개발자에게 무엇이 도움이 되고 무엇이 걸리적거리는지 듣고 싶다고 덧붙였다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-ai-track-detectives",
-      "eyebrow": "AI NEWS",
-      "headline": "사람 이름을 단 AI 트랙,\n귀로 가려내는 사람들",
-      "body": "사람이 만든 척 올라온 AI 트랙을 귀로 짚어내는 프로듀서들의 단서를 정리했다.",
-      "mini_headline": "AI 트랙 판별의 귀",
-      "tool": "Music",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
-      "published_iso": "2026-08-29T12:00:00Z",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
-            "cap": "Cath Virginia / The Verge, Max Harris, Getty Images"
-          },
-          {
-            "t": "p",
-            "x": "생성형 오디오 도구가 정교해지면서, 사람 아티스트의 작업에서 멜로디와 보컬을 알고리즘으로 끌어낸 음악이 인터넷에 쌓이고 있다. 곧바로 AI를 썼다고 인정하는 이들도 있지만, 추궁이 거세지고 나서야 입을 여는 쪽도 있다."
-          },
-          {
-            "t": "p",
-            "x": "일렉트로닉 댄스 뮤직처럼 기술과 붙어 있는 씬에서 무엇이 '진짜'인지는 절박하고 사적인 질문이다. 청자가 의심스러운 공연자를 지목하는 것과, 아티스트가 동료를 문제 삼는 건 무게가 다르다."
-          },
-          {
-            "t": "p",
-            "x": "26세 EDM 프로듀서 맥스 'H4RRIS' 해리스는 후자를 택했다. AI 슬롭을 사람이 만든 예술인 척 내놓는다고 본 상대를 영상으로 지목한다."
-          },
-          {
-            "t": "p",
-            "x": "“나는 AI가 만든 결과물을 예술로 보지 않고, 이 기술이 예술을 의미 있게 진전시킨다고도 생각하지 않는다.” 해리스의 말이다. “진짜 예술을 훔쳐 자기 것인 양 내놓을 방법을 쥐여주는 기술적 진보일 뿐이다.”"
-          },
-          {
-            "t": "p",
-            "x": "그는 자기 작업을 다른 창작 매체와 비슷하게 설명했다. 핵심 콘셉트에서 출발해 뭔가 걸릴 때까지 아이디어를 던져본다. Ableton Live와 Push 3, Serum, Kontakt가 놓인 작업대가 복잡해 보여도 결국 “내가 창작상의 결정을 내리는 일”이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "판별 단서는 귀에서 나온다. 비슷비슷한 보컬 말고도, 트랙 전반에 날카로운 히스 노이즈가 깔린다. 모델이 커다란 백색소음 덩어리에서 출발해 실제 곡 데이터를 참조하며 파형을 추측하는 탓이라는 게 그의 추정이다."
-          },
-          {
-            "t": "p",
-            "x": "Suno 계열에서 자주 걸리는 건 스터터다. 보컬과 다른 멜로디 요소가 정확히 같은 순간에 끊긴다. 모델이 곡의 파트를 제대로 분리하지 못하고 하나의 큰 악기처럼 다루기 때문이다. 프로듀서라면 하지 않을 선택이라는 얘기다."
-          },
-          {
-            "t": "p",
-            "x": "그는 MANSA의 'Midnight on My Mind', Danny와 Ian Asher의 'Take Me (To The Moon)'을 사례로 들었다. 다만 셋 다 생성 도구 사용 여부를 밝힌 적이 없고 확정적 증거도 없다. 해리스가 틀렸을 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "39세 이탈리아 프로듀서 Nihil Young이 Threads에 Suno 얘기를 올린 것이 해리스가 영상을 만들게 된 계기였다. “마돈나 같은 아티스트의 원곡을 통째로 올려놓고 리믹스해달라고 하는 것”이라고 그는 말했다."
-          },
-          {
-            "t": "p",
-            "x": "대가는 있었다. Young은 해킹 시도와 온라인 괴롭힘을 겪었고, Spotify 수치를 부풀리는 가짜 팔로워까지 붙었다고 했다. 콜아웃은 잠시 멈췄다. Sony Music·Warner·Universal의 믹싱과 마스터링을 해온 그는 AI가 퍼지자마자 클라이언트를 여럿 잃었다."
-          },
-          {
-            "t": "p",
-            "x": "숫자는 반대편을 가리킨다. Kapwing 추산으로 Spotify·YouTube 상위 10개 AI 음악 창작자가 2025년에 600만 달러 넘게 벌었다. Deezer는 신규 업로드의 절반 이상이 AI 곡이라 밝혔고, Hallwood Media는 AI 아바타 Xania Monet과 300만 달러 계약을 맺었다."
-          },
-          {
-            "t": "p",
-            "x": "“좋은 헤드폰을 쓰면 AI로 만든 음악이라는 게 분명해진다.” Young의 말이다. “그런데 요즘 사람들은 음악을 패스트푸드처럼 소비한다. 폰 스피커로 듣거나 배경음으로 틀어두고 어떤 소리인지 신경 쓰지 않는다.”"
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-aria-chart-ban",
-      "eyebrow": "AI NEWS",
-      "headline": "호주 공식 차트,\nAI 생성 음원을 막는다",
-      "body": "ARIA가 차트 코드를 고쳐 8월 31일 자 차트부터 AI 중심 음원을 배제한다.",
-      "mini_headline": "차트에서 빠지는 AI",
-      "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif",
-      "published_iso": "2026-08-26T13:52:50Z",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/08/black-trophy-sydney-harbour-e1787631270930.avif",
-            "cap": "Credit: ARIA"
-          },
-          {
-            "t": "p",
-            "x": "온전히 AI로 만든 트랙은 호주 ARIA 차트에 오르지 못한다."
-          },
-          {
-            "t": "p",
-            "x": "호주 레코딩산업협회(ARIA)는 8월 25일, IFPI가 내놓은 생성형 AI 녹음물 관련 글로벌 원칙을 호주 공식 차트에 적용할 방식을 확정했다. 생성형 AI를 보조적으로 쓴 녹음물은 그대로 자격을 유지한다."
-          },
-          {
-            "t": "p",
-            "x": "개정된 ARIA Charts Code of Practice는 8월 31일 자 차트부터 적용된다. 그 차트는 8월 28일에 발표된다."
-          },
-          {
-            "t": "p",
-            "x": "새 규정에서 생성형 AI를 쓴 녹음물은 “실질적으로 사람이 만든(substantially human made)” 경우에만, 조작 우려가 없을 때만 자격을 얻는다. 함께 나온 FAQ는 저작권과 저작인접권을 포함한 관련 법을 지켜야 한다는 세 번째 조건을 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "AI 생성과 AI 보조를 가르는 기준은 7월 10일 글로벌 음악 커뮤니티가 발표한 라벨링 표준의 정의를 따른다."
-          },
-          {
-            "t": "p",
-            "x": "리드 보컬을 AI가 만들면 자격이 사라진다. “곡의 핵심 기악 구성 요소와 똑같이” 본다는 뜻이다. 사람이 부른 리드 보컬 아래 AI 백킹 보컬을 깐 경우는 AI 보조로 분류돼 자격을 유지한다. AI 마스터링, 스템 분리, AI 드럼머신, 사람이 연주하는 AI 악기 패치도 마찬가지다."
-          },
-          {
-            "t": "p",
-            "x": "“이번 변화는 적어도 빠르게 움직이는 이 분야에서 우리가 유연하게 대응하고 예술의 인간적 본질을 지지하겠다는 뜻”이라고 ARIA CEO 애너벨 허드가 말했다. “아티스트들은 이미 AI 도구를 쓴다. 차트도 그 여지를 남기며 진화할 수 있고 그래야 한다. 다만 아티스트의 녹음물 위에 세워진 서비스가 통째로 만들어낸 음악은 다른 문제다.”"
-          },
-          {
-            "t": "p",
-            "x": "허드는 라이선스 없는 AI 산출물에 보상하는 차트가 “우리가 대표하는 녹음 음악의 근간 자체를 무너뜨릴 것”이라고 했다. 라디오를 비롯해 호주 청중에게 어떤 음악이 재생되고 홍보될지 정하는 모든 주체가 각자 규정에 비슷한 변화를 넣어달라고도 요청했다."
-          },
-          {
-            "t": "p",
-            "x": "자격 미달로 판정하면 ARIA는 집계에서 빼거나, 이미 오른 차트에서 소급 삭제하고 순위를 조정할 수 있다. 인증을 철회하고 ARIA #1 어워드 반환을 요구할 수도 있다. 자격 없는 녹음물은 ARIA 어워드 후보에서도 빠진다."
-          },
-          {
-            "t": "p",
-            "x": "이의 절차도 손봤다. 아티스트와 대리인이 배제 결정에 이의를 제기하고 자격을 뒷받침할 자료를 낼 수 있다. 분쟁 트랙은 ARIA Chart & Marketing Committee를 거쳐 인디 레이블과 아티스트 대표가 참여하는 ARIA 이사회로 간다."
-          },
-          {
-            "t": "p",
-            "x": "IFPI 프레임워크는 사용된 생성형 AI 서비스가 “적절히 승인되고 합법적”일 것도 요구한다. ARIA는 이 조건을 차트 자격에는 아직 걸지 않았다. 메이저 음악사와 AI 기업 사이의 라이선스가 “빠르게 변하는 영역”이라는 이유다."
-          },
-          {
-            "t": "p",
-            "x": "배경에는 물량이 있다. Deezer는 7월에 6월 한 달 동안 하루 9만 곡에 가까운 완전 AI 생성 음악이 들어왔다고 밝혔다. 많은 날은 신규 업로드의 절반을 넘겼지만, 스트림은 1~3%에 그쳤다."
-          },
-          {
-            "t": "p",
-            "x": "AI가 신시사이저나 오토튠 같은 또 하나의 스튜디오 도구 아니냐는 물음에 ARIA는 이렇게 답했다. “사람이 도구를 쓰는 것과, 사람 없는 연주는 다른 얘기다.” 레코딩 아카데미는 2023년 그래미 규정에 사람 창작자만 후보가 될 수 있다고 못박았다. ARIA는 여기서 한 걸음 더 나가 차트 자격과 어워드 자격을 하나로 묶었다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-jazz-profile-hijack",
-      "eyebrow": "AI NEWS",
-      "headline": "재즈 거장의 프로필에\n올라온 AI 슬롭",
-      "body": "스팸 농장이 재즈 뮤지션의 스포티파이·유튜브 프로필을 가로채 AI 트랙을 뿌리고 있다.",
-      "mini_headline": "프로필을 노린 스팸 농장",
-      "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/08/31/jazz-legends-streaming-profiles-ai-slop/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
-      "published_iso": "2026-08-31T21:06:50Z",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
-            "cap": "Photo Credit: Chris Bair"
-          },
-          {
-            "t": "p",
-            "x": "스팸 농장이 재즈 뮤지션들의 YouTube·Spotify 프로필을 가로챘다. 거기서 쏟아지는 건 생성형 AI 트랙이고, 커버 아트에는 AI로 뽑은 애니메이션풍 여성 캐릭터가 붙어 있다."
-          },
-          {
-            "t": "p",
-            "x": "윌리엄 '소니' 크리스를 비롯한 재즈 뮤지션들의 Spotify, Amazon Music, YouTube 프로필이 우려스러운 수준으로 AI 스팸에 덮였다. 보컬리스트 진 칸, 코넷 주자 레드 니컬스, 클라리넷 주자 지미 눈의 프로필도 같은 처지다. 올해 올라온 '신곡'들은 퍼블리셔 “Ami bacuk” 명의를 달고 있다."
-          },
-          {
-            "t": "p",
-            "x": "크리스의 Spotify 프로필에는 새 곡 두 개가 떠 있었다. Futurism의 표현대로 “1977년에 세상을 떠난 사람치고는 인상적인 성취”다. 두 트랙 모두 커버에 흔한 애니메이션 여성 캐릭터가 들어가 있고, 작곡가는 “Zainul Irpan”으로 적혀 있다. 아랍어 계열의 흔한 이름 두 개를 붙여놓은 것에 가깝다."
-          },
-          {
-            "t": "p",
-            "x": "곡은 재즈풍이지만 출처를 따라가기가 거의 불가능하다. 흔한 AI 슬롭과 달리 크리스의 곡이나 음악 식별 소프트웨어로 잡히는 다른 아티스트의 곡을 리믹스한 것도 아니다."
-          },
-          {
-            "t": "p",
-            "x": "세상을 떠난 아티스트의 프로필에 요즘 애니메이션 캐릭터를 얹은 트랙이 갑자기 쏟아지지 않았다면, 일반 청자가 이 곡들과 뮤지션 본인의 작업을 가려내기는 어려웠을 것이다."
-          },
-          {
-            "t": "p",
-            "x": "지난 4월에도 같은 퍼블리셔가 지미 눈 명의로 싱글 네 곡을 냈다. 눈은 1944년에 세상을 떠난 흑인 딕시랜드 클라리넷 주자이자 밴드리더다."
-          },
-          {
-            "t": "p",
-            "x": "제목은 “You Have Hurt Him”, “You Have Hurt Him 2”, “He's still there”, “He's still there 2”. 전부 AI가 부른 듯한 여성 보컬이 얹힌 평범한 팝 발라드다. 초현실적인 AI 코퍼릿 멤피스풍 헤더 이미지까지, 눈의 실제 사운드나 흑백 사진 앨범 커버와 정면으로 어긋난다."
-          },
-          {
-            "t": "p",
-            "x": "R&B·재즈 보컬리스트 진 칸(Jean Carne, Carn으로도 표기)의 YouTube Music 프로필도 슬롭에 점령됐다. 크리스의 페이지와 징후가 거의 같고, 음악은 칸의 상징인 5옥타브 목소리가 빠진 밋밋한 재즈다. 결정적인 차이는 하나. 칸은 아직 살아 있다."
-          },
-          {
-            "t": "p",
-            "x": "Spotify 대변인은 Futurism에 “해당 발매물은 아티스트 프로필에서 삭제됐다”며 “아티스트의 정체성을 지키는 일이 우리에게 최우선이고, 탐지와 예방에 계속 크게 투자하고 있다”고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Spotify는 정식 출시를 앞두고 여러 단계로 시험 중인 Artist Profile Protection도 함께 내세웠다. 들어오는 발매물을 아티스트가 미리 확인해 승인하거나 거절하는 기능이다. 다만 왜 이런 게 옵트인이어야 하고 스트리밍 서비스의 기본값이 아닌지는 여전히 남는 질문이다. 애초에 이 기능이 나온 계기도 Spotify에서 벌어진 프로필 탈취였다."
-          },
-          {
-            "t": "p",
-            "x": "결국 플랫폼들이 밀려드는 AI 슬롭에 선제적으로 나서기보다 사후에 반응하고 있다는 얘기다. 대중이 AI인 줄 알아채지 못하는 트랙을 두고, Spotify 같은 곳은 잃을 것보다 얻을 것이 많다. AI 트랙을 직접 가려내 로열티 풀에서 빼는 Deezer의 선택이 그만큼 무거워진다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-musical-spirograph",
-      "eyebrow": "AI NEWS",
-      "headline": "손으로 그린 도형이\n작곡이 되는 브라우저",
-      "body": "낙서하듯 그린 기하 도형을 제너레이티브 작곡으로 바꾸는 브라우저 장난감이다.",
-      "mini_headline": "그리면 곡이 된다",
-      "tool": "Music",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
-      "published_iso": "2026-08-22T17:00:00Z",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
-            "cap": "So pretty. Screenshot: Terrence O'Brien / The Verge"
-          },
-          {
-            "t": "p",
-            "x": "글은 어릴 적 스파이로그래프에 빠져 지냈다는 기억에서 시작한다. 그 기하학 패턴은 최면적이고 아름다웠다. 여기에 제너레이티브 음악 작곡을 좋아하는 취향이 겹친다."
-          },
-          {
-            "t": "p",
-            "x": "그 둘이 브라우저 탭 하나에서 만났으니, 필자가 붙들린 것도 무리는 아니다."
-          },
-          {
-            "t": "p",
-            "x": "Musical Spirograph의 개념은 비교적 단순하다. 점 몇 개가 수학 방정식을 따라 화면을 돌며 하이포트로코이드와 에피트로코이드를 그린다."
-          },
-          {
-            "t": "p",
-            "x": "그 점들이 동심원 고리를 지날 때마다 특정 음이 울린다. 그림이 곧 악보가 되는 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "그것만으로도 충분히 재미있지만, 손댈 구석이 꽤 많다. 가상 로터는 여섯 종류 중에 고르고, 그리는 팔은 최대 세 개까지 동시에 돌릴 수 있다. 패턴을 매만질 파라미터도 여럿이다."
-          },
-          {
-            "t": "p",
-            "x": "음계는 여섯 가지 옵션이 준비돼 있고, 아예 음을 직접 지정할 수도 있다. 신스 프리셋도 여섯 개."
-          },
-          {
-            "t": "p",
-            "x": "퀀타이즈와 BPM을 바꾸거나, 고리 수를 2옥타브까지 늘리는 것도 된다."
-          },
-          {
-            "t": "p",
-            "x": "약점은 있다. 사운드 엔진이 훌륭하지 않고 클리핑과 아티팩트가 잘 생긴다. 다른 악기를 제어할 MIDI 출력이 없다는 점도 아쉽다."
-          },
-          {
-            "t": "p",
-            "x": "그래도 한참 빠져 놀기에는 충분하다. 필자의 표현을 빌리면 차분하고, 최면적이고, 만지작거리기 즐거운 물건이다."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "music",
+ "cards": [
+  {
+   "id": "music-denon-prime-4-g2",
+   "eyebrow": "AI NEWS",
+   "headline": "데논 프라임 4 G2, 부스에서\n랩톱 없이 실시간으로 스템을 가른다",
+   "mini_headline": "부스로 들어온 스템 분리",
+   "body": "프라임 4 G2가 랩톱 없이 본체에서 아카펠라와 반주를 실시간으로 뽑아낸다.",
+   "tool": "Music",
+   "source": "gearnews",
+   "url": "https://www.gearnews.com/denon-dj-prime-4-g2/",
+   "accent": "#ff2d55",
+   "motif": "sphere",
+   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-ft2.jpg",
+   "published_iso": "2026-09-01T14:00:00Z",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "video",
+      "yt": "bSB4x9F-G-o"
+     },
+     {
+      "t": "p",
+      "x": "2019년에 나온 프라임 4는 TIDAL, SoundCloud Go+, Beatport, Dropbox를 와이파이로 직접 물어 쓰는 4덱 스탠드얼론 DJ 시스템이다. 독립 존 출력과 여러 저장·연결 옵션도 갖췄다. 이번 G2 세대는 처리 성능을 크게 끌어올리고 퍼포먼스 기능을 새로 얹었다."
+     },
+     {
+      "t": "p",
+      "x": "데논 DJ와 AKAI Professional이 같은 InMusic 아래 있다 보니 MPC G2의 기술이 데논 DJ 라인으로 넘어왔다. 가장 먼저 눈에 띄는 건 16개짜리 MPCe 멀티존 퍼포먼스 패드다. 세기와 압력을 읽고 3D 센싱까지 되니 핫큐, 이펙트, 롤, 스템, DMX 조명 제어를 패드 하나에서 겹쳐 쓴다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-02-1024x565.jpg",
+      "cap": "프라임 4 G2 상판. 출처: Denon DJ"
+     },
+     {
+      "t": "p",
+      "x": "속을 열면 8코어 ARM CPU와 4GB 램이 들어갔다. 스템을 본체에서 처리하려면 그만한 힘이 필요하다. 10.1인치 메인 터치스크린은 그대로지만 조그 휠은 8인치로 커졌고 LED 디스플레이가 붙었다."
+     },
+     {
+      "t": "p",
+      "x": "디제잉 도중에 트랙에서 스템을 바로 뽑는다. 반주와 아카펠라를 만드는 전용 버튼이 따로 있고 Stem FX와 Stem EQ도 여기서 연다. 3핀 SoundSwitch 출력으로 DMX 조명을 물리며 Philips Hue와 Nanoleaf 규격을 지원한다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-05-1024x565.jpg",
+      "cap": "메인 패널. 출처: Denon DJ"
+     },
+     {
+      "t": "p",
+      "x": "OmniSource는 재생 중에도 USB, 스트리밍, Serato DJ Pro, VirtualDJ 사이를 끊김 없이 오간다. 이펙트 섹션도 넓어졌고 Amazon Music Unlimited와 Apple Music 스트리밍이 추가됐다. 프라임 4 G2는 이미 판매 중이며 토만 가격은 2698유로다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "music-declared-intent-search",
+   "eyebrow": "AI NEWS",
+   "headline": "다음 팬은 당신을 검색하지 않는다\n그냥 기계에게 상황을 말할 뿐이다",
+   "mini_headline": "검색 대신 선언된 의도",
+   "body": "발견 경로가 선언된 의도로 옮겨가면서 태그 대신 맥락이 아티스트를 읽히게 만든다.",
+   "tool": "Music",
+   "source": "Digital Music News",
+   "url": "https://www.digitalmusicnews.com/2026/08/30/your-next-fan-may-never-search-for-you/",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Search-has-moved-from-inferred-intent-to-declared-intent.png",
+   "published_iso": "2026-08-31T05:10:13Z",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Search-has-moved-from-inferred-intent-to-declared-intent-1024x768.png",
+      "cap": "검색은 추론된 의도에서 선언된 의도로 옮겨갔다. 출처: Digital Music News"
+     },
+     {
+      "t": "p",
+      "x": "늦은 밤 누군가 이렇게 말한다. 처음 듣는, 넓고 아름다운 곡을 틀어줘. 보컬은 빼고, 피아노는 괜찮지만 너무 감상적이지는 않게. 아티스트 이름도 곡 제목도 장르도 없었다. 상황을 설명했을 뿐인데 기계가 답을 고른다."
+     },
+     {
+      "t": "p",
+      "x": "마이클 웨일런은 이 장면을 게이트키퍼 교체의 최신 판본으로 읽는다. 레코드 가게 점원이 있었고 라디오 프로그래머가 있었다. MTV와 잡지, 유통사 바이어가 뒤를 이었다. 인터넷은 문지기를 없애겠다고 했지만 실제로는 자동화했다. 검색엔진과 소셜, 스트리밍, 플레이리스트, 추천 시스템이 차례로 그 자리에 앉았다."
+     },
+     {
+      "t": "p",
+      "x": "이번에 달라지는 건 의도를 읽는 방식이다. 스트리밍 알고리즘은 행동을 지켜보며 의도를 추론했다. 무엇을 건너뛰고 무엇을 저장했는지로 다음을 예측하니 늘 뒤를 보는 시스템이었다. 이제는 그냥 말하면 된다. 웨일런은 추론된 의도가 선언된 의도로 옮겨간다고 정리한다."
+     },
+     {
+      "t": "p",
+      "x": "Spotify는 프롬프트 플레이리스트와 대화형 조작으로 이미 깊숙이 들어갔고, YouTube Music도 자연어 발견 기능을 만들어왔다. Amazon은 프롬프트 기반 플레이리스트 생성을 실험했다. 사람은 원래 메타데이터 항목으로 생각하지 않는다. 70에서 82 BPM 사이, 보컬 확률이 낮은 중간 템포 신고전 기악을 달라고 말하는 사람은 없다. 밥 먹는 동안 예쁜 거 틀어달라고 할 뿐이다."
+     },
+     {
+      "t": "p",
+      "x": "발견이 음악 앱 밖으로 나가는 것도 큰 변화다. 여행이나 저녁 준비 이야기를 하다 음악으로 넘어가면 첫 접점이 범용 AI 안에서 생긴다. Spotify 검색창이 사라진다. 노래가 먼저 들리고 아티스트 이름은 나중에 온다. 무명 음악가에게는 기회이면서 동시에 재앙이다."
+     },
+     {
+      "t": "p",
+      "x": "장르도 힘을 잃는다. 낯선 호텔 방을 편안하게 만들 기악곡을 달라는 요청에 장르 이름은 쓸모가 없다. 대신 기계가 소리를 직접 듣고 템포와 악기, 질감, 밀도, 보컬 유무, 화성, 에너지를 뽑아 사람의 말과 잇는다. 태그를 정확히 달았는지에 발견이 덜 매달린다. 오래된 카탈로그도 다시 살아난다. 사막의 일출을 달리며 들을 곡이 굳이 지난 금요일에 나올 이유는 없다."
+     },
+     {
+      "t": "p",
+      "x": "웨일런이 경계하는 지점은 두 가지다. 하나는 프롬프트에 맞춰 음악을 만드는 습관이다. 수면용, 집중용, 달리기용으로 편곡을 최적화하기 시작하면 AI가 예술을 발견한 게 아니라 조용히 주문한 셈이 된다. 다른 하나는 보이지 않는 문지기다. 수천만 곡 가운데 왜 그 스무 곡이 뽑혔는지는 아무도 설명하지 않는다. 라디오 DJ에게는 최소한 이름이 있었다."
+     },
+     {
+      "t": "p",
+      "x": "그래서 남는 실무 과제는 태그 놀음이 아니다. 무드와 악기 편성, 보컬 유무, 문화, 템포, 크레딧, 협업자 같은 설명형 정보를 정확히 남기는 일이다. 웹사이트와 Spotify, Instagram, Bandcamp가 서로 다른 말을 하지 않게 정리하는 일이기도 하다. 발견은 쉬워질지 몰라도, 곡이 발견됐다고 당신이 발견된 건 아니다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "music-ai-watermarks",
+   "eyebrow": "AI NEWS",
+   "headline": "AI 워터마크가 기본값이 되면서\n사람이 만든 쪽이 신호로 바뀐다",
+   "mini_headline": "워터마크가 만든 새 신호",
+   "body": "EU AI법으로 탐지가 기본값이 되자 AI는 숨은 무기에서 부담으로 넘어갔다.",
+   "tool": "Music",
+   "source": "MIDiA Research",
+   "url": "https://www.midiaresearch.com/blog/do-watermarks-spell-the-end-of-ai-content-proliferation",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2650/cover_image-1787751417.png",
+   "published_iso": "2026-08-19T09:00:00Z",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.midiaresearch.com/storage/uploads/blog/featured/2650/cover_image-1787751417.png",
+      "cap": "이미지: Canva Pro로 제작. 출처: MIDiA Research"
+     },
+     {
+      "t": "p",
+      "x": "EU AI법 50조에 따라 AI 기업은 모델 출력물을 AI가 만든 것으로 탐지할 수 있게 해야 한다. 워터마크를 넣으라는 뜻이다. 주요 기업들은 추가로 자율 실천 규약에도 모두 서명했다."
+     },
+     {
+      "t": "p",
+      "x": "OpenAI는 몇 해 전 텍스트 워터마크 기능을 만들어놓고 공개하지 않은 채 어떤 조치를 쓸지 아직 밝히지 않았다. Google은 이미 AI가 만든 이미지와 영상에 워터마크를 넣어왔고 최근 텍스트까지 넓혔다. 가장 큰 화제를 만든 쪽은 Anthropic이다. 구형을 포함한 전 모델에 텍스트 워터마크를 넣고 생성 파일에는 서명된 C2PA 메타데이터를 붙였다. EU만이 아니라 전 세계가 대상이다."
+     },
+     {
+      "t": "p",
+      "x": "워터마크를 넣는 실질적 이유로는 교육 현장의 결과와 업무상 검증이 먼저 꼽힌다. 문화적 요인도 있다. 소셜 플랫폼이 AI 콘텐츠를 표시하고 노출을 낮추기 시작했고 LinkedIn이 대표적이다. AI는 쓸모 있는 도구지만 지나치게 기대면 결과물을 망친다. 워터마크는 그 지점의 품질 관리 장치다."
+     },
+     {
+      "t": "p",
+      "x": "반응은 갈렸다. Anthropic은 사용량이 눈에 띄게 줄지 않았다고 했지만 Forbes에 따르면 분위기는 달라지고 있다. Claude로 편집만 한 글에도 워터마크가 붙어 통째로 생성한 글과 구분되지 않고, 그 탓에 평판이 깎인다는 불만이 나온다. 한 회사 제품에 작업 흐름을 묶어두면 그 회사의 이후 제품 결정에 끌려간다는 지적도 있다."
+     },
+     {
+      "t": "p",
+      "x": "MIDiA의 2025년 3분기 소비자 조사에서 사람들이 AI를 쓰는 주된 이유는 셋이었다. 정보를 찾고 조사하는 데 소비자의 절반가량, 업무나 학습 처리에 4분의 1쯤, 아이디어와 브레인스토밍에 역시 4분의 1이 몰렸다. 일을 빠르게 끝내기에 잘 맞는 쓰임이다. 그런데 워터마크가 붙는 순간 같은 글이 노력 부족이나 소유권 없음의 표시로도 읽힌다. AI는 한 번에 숨은 무기에서 부담으로 넘어갔다."
+     },
+     {
+      "t": "p",
+      "x": "우회로는 있다. 손으로 고치면 대개 표시가 흐트러져 걸리지 않는다. Claude의 워터마크를 벗기는 무료 도구는 하루 만에 GitHub에 올라왔다. 무엇보다 가장 많이 쓰이는 ChatGPT에는 아직 워터마크가 없다. MIDiA의 2026년 2분기 조사에서 전체 소비자의 50%가 ChatGPT를 쓰고 20~24세에서는 68%까지 오른다. Gemini는 40% 안팎, Claude는 10% 정도로 Meta AI와 Microsoft Copilot에도 밀린 5위다."
+     },
+     {
+      "t": "p",
+      "x": "그래도 ChatGPT 역시 EU 소비자를 놓치지 않으려면 결국 따라야 한다. 우회에도 품이 들어 지금껏 매끄럽던 경험에 마찰이 생긴다. 기술적으로 뚫리더라도 진정성을 차별점으로 삼는 흐름은 따로 굴러간다. LinkedIn이 넣은 'Seems like AI slop' 피드백 항목처럼, 시장은 LLM이 쉽게 뽑아낸 결과물에서 사람 중심 창작 쪽으로 돌아서는 중이다."
+     },
+     {
+      "t": "p",
+      "x": "남는 질문은 워터마크가 일상의 일부로 받아들여질지, 아니면 절반만 노력했다는 낙인이 될지다. 한나 칼레르트는 맥락에 따라 갈릴 것으로 본다. 코딩처럼 AI 사용이 이미 권장되는 전문 영역에서는 워터마크가 아는 사실을 확인해줄 뿐이다. 하지만 대중 시장, 특히 소셜 플랫폼의 콘텐츠로 놓고 보면 AI 창작자에게는 위축의 시기가 열린다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "music-artist-operating-system",
+   "eyebrow": "AI NEWS",
+   "headline": "독립 아티스트에게 지금 필요한 건\n툴 하나가 아니라 운영체제다",
+   "mini_headline": "아티스트를 위한 운영체제",
+   "body": "대시보드를 하나 더 얹는 대신 릴리스와 데이터를 잇는 층이 필요하다고 말한다.",
+   "tool": "Music",
+   "source": "Hypebot",
+   "url": "https://www.hypebot.com/independent-artists-need-an-operating-system-not-another-tool/",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-21-karan-oped.jpg",
+   "published_iso": "2026-08-24T15:08:14Z",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "릴리스 주간이다. 음악은 끝났지만 아티스트의 일은 이제 시작이다. 유통사를 확인하고 스트리밍 대시보드를 들여다보고 광고를 걸고 정산을 챙긴다. 소재와 캠페인 메모는 앱 대여섯 개에 흩어져 있고 청중 데이터는 또 다른 데 있다."
+     },
+     {
+      "t": "p",
+      "x": "도구가 나빠서 생긴 일이 아니다. 대부분은 각자 맡은 일을 아주 잘한다. 그래서 진짜 문제가 잘 안 보인다. 카란 다스굽타는 독립 아티스트에게 모자란 건 릴리스 전략을 짤 도구가 아니라 그 도구들을 하나로 묶는 체계라고 말한다."
+     },
+     {
+      "t": "p",
+      "x": "음악 기술은 몇 해 동안 아티스트의 경력을 잘게 쪼개 문제마다 소프트웨어를 붙여왔다. 유통이든 스마트 링크든 광고 집행이든 전문 서비스가 하나씩 있다. 문지기를 걷어내고 비용을 낮춘 성과는 분명하다. 대신 새 해법이 생길 때마다 로그인과 대시보드와 구독이 하나씩 늘었다. 개별 문제는 다 풀렸는데 조각들이 어떻게 맞물리는지는 아무도 모른다."
+     },
+     {
+      "t": "img",
+      "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-24-upncomer-mid.jpg",
+      "cap": "출처: Hypebot"
+     },
+     {
+      "t": "p",
+      "x": "요즘 독립 아티스트는 사실상 회사를 하나 돌린다. 마케팅, 재무 관리, 릴리스 기획, 유통, 브랜딩을 동시에 맡는다. 스타트업이라면 팀에 나눠 맡길 일을 한 사람이 다 한다. 독립을 가능하게 만든 기술이 그렇게 조용히 운영 부담으로 바뀐다. 독립은 소프트웨어를 운영하며 경력을 보내는 게 아니라 자기 경력을 소유하는 일이어야 한다."
+     },
+     {
+      "t": "p",
+      "x": "진짜 비용은 구독료가 아니라 주의력이다. 릴리스가 왜 부진했는지 알아보려면 스트리밍 수치, 광고 성과, 소셜 반응, 수익이 제각기 다른 시스템에 흩어져 있고 아티스트가 손으로 이어 붙여야 한다. 작업 사이를 옮겨 다니며 머리를 다시 세팅하는 일이 정작 그 작업보다 더 많은 마찰을 만든다. 몇 주, 몇 달이 쌓이면 중복 작업과 놓친 기회가 남는다."
+     },
+     {
+      "t": "p",
+      "x": "그래서 질문을 바꿔야 한다. 이 일에 가장 좋은 도구가 무엇인가가 아니라, 그 도구가 나머지 흐름에 어떻게 붙는가다. 좋은 체계는 행동을 실행만 하지 않고 서로 잇는다. 릴리스가 유통 일정으로, 그 일정이 마케팅 캠페인으로, 캠페인이 청중 데이터로, 데이터가 다음 릴리스 판단으로 이어진다. 한 회사가 모든 전문 서비스를 대체하지 않고도 기능들이 서로 말을 주고받는 층, 그게 도구 묶음과 운영체제의 차이다."
+     },
+     {
+      "t": "img",
+      "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/Screenshot-2026-08-21-at-10.41.13---AM.png",
+      "cap": "UpNComer 대시보드 화면. 출처: Hypebot"
+     },
+     {
+      "t": "p",
+      "x": "AI는 이 그림을 더 중요하게 만든다. 아이디어를 뽑고 데이터를 읽는 데 AI를 쓰지만 맥락 없는 지능에는 한계가 있다. 하나의 작업만 아는 AI는 답을 준다. 릴리스와 청중과 재무를 함께 아는 체계는 그 답이 왜 중요한지 설명한다. 다스굽타는 가장 좋은 AI란 아티스트가 가장 덜 의식하는 AI, 또 하나의 방문지가 되는 대신 작업 흐름 아래 깔리는 AI라고 본다."
+     },
+     {
+      "t": "p",
+      "x": "독립 음악 기술의 첫 시대는 접근이었다. 다음은 연결이다. 도구가 늘어나다 어느 지점을 넘으면 자유가 아니라 또 하나의 직업이 된다. 앞으로 10년 동안 의미 있는 회사는 대시보드를 더 얹는 쪽이 아니라 없애주는 쪽일 것이다. 독립 음악에 모자랐던 건 처음부터 도구가 아니라 체계였다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "music-vibe-coded-plugins",
+   "eyebrow": "AI NEWS",
+   "headline": "바이브코딩으로 만든 플러그인을\n고를 때 따져야 할 여섯 가지",
+   "mini_headline": "플러그인 구매 체크리스트",
+   "body": "AI로 만든 플러그인을 사기 전 확인할 여섯 가지를 개발자 관점에서 정리했다.",
+   "tool": "Music",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/vibe-coded-plugins-a-developers-take-and-the-risks-worth-knowing",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "og_image": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
+   "published_iso": "2026-08-24T12:00:00Z",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
+      "cap": "출처: Production Expert"
+     },
+     {
+      "t": "p",
+      "x": "바이브코딩, 그러니까 AI가 이끄는 개발은 소프트웨어 업계에서 기본기가 됐다. 지난해 Spotify 공동 CEO가 남긴 “Most senior engineers haven’t written a single line of code since December”라는 발언은 이 방식이 초기 단계를 지나 최고 수준의 개발 현장까지 들어왔음을 보여준다. 그렇다면 사는 쪽은 어떤가. AI가 설계하고 만들고 구상한 플러그인을 믿어도 될까. Acedia Audio의 개발자 Deivids가 개발자와 고객 양쪽에서 본 바이브코딩을 정리했다."
+     },
+     {
+      "t": "p",
+      "x": "프롬프트 한 줄로 앱을 만든다는 광고 문구는 아직 대체로 헛된 기대다. 어떤 앱이든 바이브코딩으로 만들려면 개발자가 프로젝트 구조를 깊이 알아야 한다. AI는 개발 속도를 올렸지만 그만큼 감독해야 할 몫도 키웠다. 그래서 AI 코딩은 좁은 영역에 집중해야 한다. 범위를 잘못 잡는 데서 대부분의 문제가 시작되고, 플러그인의 핵심 기둥을 AI가 추측하게 두면 곧바로 큰 부채가 된다. 진입 문턱은 낮아졌어도 쓸 만한 플러그인은 여전히 높은 숙련을 요구한다."
+     },
+     {
+      "t": "p",
+      "x": "밝은 쪽도 있다. 예전에는 플러그인 하나에 큰 팀과 막대한 예산이 필요해 변두리 아이디어가 늘 밀렸다. 지금은 아이디어가 있는 사람이 피칭용 데모를, 때로는 완제품까지 만든다. 사운드 디자이너와 연주자, 폴리 아티스트가 오래 원했던 도구를 직접 만드는 그림도 가능해진다. 지원이 끊긴 오래된 코드베이스를 AI로 손보는 것도 훌륭한 쓰임이다. Eleven Rack의 실리콘 드라이버 출시가 최근 사례다."
+     },
+     {
+      "t": "img",
+      "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/8eca0442-55f6-407a-aba7-36dd1e7689c2/Depositphotos_850233672_L.jpg",
+      "cap": "출처: Production Expert"
+     },
+     {
+      "t": "p",
+      "x": "개발사마다 이 기술을 받아들인 시점과 속도가 달라, 업계 최고 이름조차 이제 막 AI 개발에 발을 들이며 성장통을 겪는다. 먼저 볼 것은 보안이다. 플러그인이 시스템 밖과 통신할 일은 라이선스 확인과 검증 정도뿐이어야 한다. PACE, Moonbase, MuseHub 같은 검증된 외부 제공자를 쓴다면 대체로 안심해도 된다. 자체 방식을 쓰는 신생 개발사라면 지원팀에 직접 물어보는 편이 낫다. 지원과 소통 창구가 어떻게 열려 있는지를 보면 그 회사가 얼마나 오래 남을 생각인지도 드러난다."
+     },
+     {
+      "t": "p",
+      "x": "성능과 안정성도 중요하다. 오디오 처리에서 지연이나 멈춤은 곧바로 사고로 이어지는데, 이 좁은 영역을 잘 모르는 모델이 만든 결과물은 충돌이나 최적화 부족을 낳는다. 벤치마크를 돌릴 필요는 없다. 체험판을 받아 내 작업 흐름과 장비를 견디는지 보면 된다. 디자인도 신호다. 색 팔레트를 AI에 맡기면 그 모델이 가장 많이 쓰던 스타일로 수렴한다. Claude Opus 모델은 깊은 푸른 보라 팔레트를 자동으로 고르는 버릇이 있었고, 서로 다른 사람의 서로 다른 프로젝트에서 똑같은 배색이 보였다."
+     },
+     {
+      "t": "p",
+      "x": "확인할 것은 결국 여섯 가지다. 체험판이 있는지, 신뢰할 만한 라이선스 검증 체계를 쓰는지, 지원 창구가 열려 있는지, 내 작업을 무리 없이 감당하는지, 디자인이 고유한지, 실제 전문 현장에서 쓰였다는 증거가 있는지. 기술 배경이 없어도 판단할 수 있다. 이 플러그인을 사람이 실제로 조종했다는 느낌이 드는지 물어보면 된다. 바이브코딩은 개발자가 할 수 있는 일의 천장을 올렸고, 위험과 기대는 같은 변화에서 나온다. 결국 개발자가 이 기술을 어떻게 쓰느냐에 달렸다."
+     }
+    ]
+   }
+  }
+ ]
 }
