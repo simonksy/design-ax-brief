@@ -1,130 +1,158 @@
 {
-  "date": "2026-09-01",
-  "section": "movies",
-  "selection_mode": "curator_auto",
-  "items": [
-    {
-      "id": "movies-nice-touch-v2",
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "title": "Nice Touch Launches V2 of Its AI Edit Assistant for Pro Editors",
-      "url": "https://postperspective.com/nice-touch-launches-v2-of-its-ai-edit-assistant-for-pro-editors/",
-      "source": "postPerspective",
-      "published_iso": "2026-08-31T21:07:33+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Nice-Touch-app.jpg",
-      "excerpt": "Nice Touch has launched Version 2 of its app of the same name, an AI edit assistant for professional video post teams. V2 is a full rebuild shaped by more than 300 conversations with editors, producers, production supervisors and studio owners. It is available now.  Nice Touch analyzes a project’s footage,",
-      "rationale": "Shipping-today tool release for post teams — a full rebuild informed by 300+ editor interviews, so it changes how an assistant editor preps footage tomorrow."
-    },
-    {
-      "id": "movies-ai-prompt-copyright-bill",
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "title": "If You Prompt a Movie or Song Into Existence With AI, You Shouldn’t Be Able to Profit From It",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-movies-prompts-songs-legislation-1236680256/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-08-31T19:36:54+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2157513800.jpg?w=1440&h=810&crop=1",
-      "excerpt": "\"Politicians should back legislation to prevent prompted generative AI outputs from being copyrighted across film, TV and music. The foundation of human creativity is at stake,\" writes the Motion Picture Sound Editors president.",
-      "rationale": "The Motion Picture Sound Editors president calls for legislation denying copyright to purely prompted output — the sharpest craft-guild position yet on who owns AI work."
-    },
-    {
-      "id": "movies-be-brave-venice-ai-doc",
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "title": "Francesco Carrozzini on His Venice AI Doc ‘Be Brave’ and Why ‘The Human Has to Come First’ (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/francesco-carrozzini-venice-artificial-intelligence-brave-1236846518/",
-      "source": "Variety",
-      "published_iso": "2026-08-31T12:00:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Renzo-Rosso.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Francesco Carrozzini on his Venice-bound artificial intelligence film 'Be Brave'",
-      "rationale": "A Venice-premiering documentary built around AI, with its director laying out a human-first working method — festival-level proof of where the argument is landing."
-    },
-    {
-      "id": "movies-junkyard-king-daubrez",
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "title": "'Junkyard King' Creator Henry Daubrez Introduces Us to His Wild Animated World",
-      "url": "https://www.animationmagazine.net/2026/08/junkyard-king-creator-henry-daubrez-introduces-us-to-his-wild-animated-world/",
-      "source": "Animation Magazine",
-      "published_iso": "2026-08-28T00:32:06+00:00",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Junkyard-King-frame-669.00s-276ac9.jpg",
-      "excerpt": "'Junkyard King' creator and Odd Kid studio founder Henry Daubrez tells us how a practical approach to AI can fuel a creator-driven show.",
-      "rationale": "A working showrunner walks through the practical AI setup behind a creator-driven animated series — concrete method rather than manifesto."
-    },
-    {
-      "id": "movies-tung-sahur-ai-lawsuit",
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "title": "Lawsuit Over AI Character Tung Tung Sahur Has Companies Bickering; Hearing Set",
-      "url": "https://deadline.com/2026/08/tung-tung-sahur-ai-lawsuit-latest-1237061549/",
-      "source": "Deadline",
-      "published_iso": "2026-08-28T13:38:15+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/08/Tung-Tung-Tung-Sahur-and-San-Jose-Federal-Courthouse.jpg?w=1024",
-      "excerpt": "Hollywood's future could take shape in a a legal fight full of Italian Brainrot AI slop, trademark claims, & certain Tung Tung Sahur, with guest appearances by Roblox and Fortnite",
-      "rationale": "First real courtroom test of who owns a viral AI-born character, with a hearing set — the trademark logic here will shape IP claims on generated characters."
-    }
-  ],
-  "dedup": {
-    "checked_days": 6,
-    "history_source": "pipeline/news_data.json → sections.movies (today 2026-08-31 + days 2026-08-26…08-30)",
-    "dropped": [
-      {
-        "url": "https://postperspective.com/avid-media-composer-2026-8-at-ibc-agentic-workflows-more/",
-        "reason": "Same release as published 2026-08-28 card movies-media-composer-2026-8 (RedShark, Media Composer 2026.8 / Ready to Edit)."
-      },
-      {
-        "url": "https://www.redsharknews.com/eddie-ai-client-review-davinci-resolve-payg",
-        "reason": "Same Eddie AI August update (PAYG credits) as published 2026-08-29 card movies-eddie-ai-credits."
-      },
-      {
-        "url": "https://nofilmschool.com/eddie-ai-updates-pricing",
-        "reason": "Same Eddie AI MCP/pay-as-you-go story as published 2026-08-29 card movies-eddie-ai-credits."
-      },
-      {
-        "url": "https://www.redsharknews.com/adobe-photoshop-ai-assisted-editor-markup",
-        "reason": "Same Photoshop AI Assisted Editor + Markup release as published 2026-08-30 card movies-photoshop-firefly5."
-      },
-      {
-        "url": "https://www.awn.com/news/usc-adds-beeble-ai-production-tools-filmmaking-courses",
-        "reason": "Same USC ETC × Beeble announcement as published 2026-08-29 card movies-usc-etc-beeble."
-      },
-      {
-        "url": "https://variety.com/2026/tv/news/netflix-willy-wonka-reality-show-trailer-1236843994/",
-        "reason": "Same Wonka / AI Gene Wilder voice trailer as published 2026-08-28 card movies-wonka-gene-wilder."
-      },
-      {
-        "url": "https://deadline.com/2026/08/google-deepmind-kling-ai-alibaba-busan-acfm-innoasia-1237050687/",
-        "reason": "Same Busan ACFM InnoAsia 2026 lineup as published 2026-08-27 card movies-busan-innoasia."
-      },
-      {
-        "url": "https://www.cartoonbrew.com/awards/ves-awards-new-and-changed-categories-265998.html",
-        "reason": "Within-pool duplicate of the ProVideo Coalition VES new-categories item; neither selected (lower actionability)."
-      }
-    ]
+ "date": "2026-09-02",
+ "section": "movies",
+ "count": 5,
+ "items": [
+  {
+   "id": "movies-gadot-bitcoin-ai-sets",
+   "tool": "Movies",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "url": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
+   "source": "Variety",
+   "published_iso": "2026-08-31T22:05:08+00:00",
+   "og_image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg?w=1000&h=563&crop=1",
+   "excerpt": "Doug Liman's $70M 'Bitcoin' used AI to build sets and lighting instead of physical production design. Gadot says her lawyers spent six months on the contract so AI touched none of her performance.",
+   "rationale": "AI가 프로덕션 디자인과 조명을 통째로 대체한 스튜디오급 장편의 첫 실사례이자, 배우 계약이 어디에 선을 긋는지 보여주는 문서."
   },
-  "diversity": {
-    "outlets": [
-      "postPerspective",
-      "The Hollywood Reporter",
-      "Variety",
-      "Animation Magazine",
-      "Deadline"
-    ],
-    "max_per_outlet": 1,
-    "groups": {
-      "vfx_post_pipeline": 1,
-      "industry_policy_business": 2,
-      "animation_shortfilm_festival": 2
-    }
+  {
+   "id": "movies-ae-portal-aug-2026",
+   "tool": "Movies",
+   "accent": "#f5a623",
+   "motif": "frame",
+   "url": "https://www.provideocoalition.com/after-effects-portal-august-2026/",
+   "source": "ProVideo Coalition",
+   "published_iso": "2026-08-31T18:52:44+00:00",
+   "og_image": "https://www.provideocoalition.com/wp-content/uploads/ba2.jpg",
+   "excerpt": "Rich Young's monthly After Effects roundup covers the year's big feature drops, the wave of AI and freemium competitors circling motion design, and third-party plug-in news for AE 26.3.",
+   "rationale": "AE 26.3 기능·플러그인 변화를 한 번에 정리해 모션 디자이너가 내일 바로 도구 목록을 갱신할 수 있는 실무 자료."
+  },
+  {
+   "id": "movies-ibc-2026-preview",
+   "tool": "Movies",
+   "accent": "#7928ca",
+   "motif": "frame",
+   "url": "https://definitionmagazine.com/features/ibc-2026-preview/",
+   "source": "Definition",
+   "published_iso": "2026-08-28T09:00:17+00:00",
+   "og_image": "https://api.definitionmagazine.com/wp-content/uploads/2026/08/IBC-13sep24_HR_Melanie-Lemahieu-410-1024x683.jpeg",
+   "excerpt": "Definition's rundown of what 45,000 media pros will see in Amsterdam, including DaVinci Resolve Studio 21's AI-assisted editorial/colour tools and agentic workflow pitches across the show floor.",
+   "rationale": "이번 주 IBC에서 쏟아질 에이전틱 포스트 워크플로를 벤더별로 미리 배치해준 지도 — 개별 릴리스 기사보다 한 층 위의 시야."
+  },
+  {
+   "id": "movies-resolve-21-webinars",
+   "tool": "Movies",
+   "accent": "#2ec5c5",
+   "motif": "frame",
+   "url": "https://www.redsharknews.com/davinci-resolve-21-free-webinars-2026",
+   "source": "RedShark News",
+   "published_iso": "2026-08-30T04:24:30+00:00",
+   "og_image": "https://www.redsharknews.com/hubfs/davinci%20resolve%20ai.jpg",
+   "excerpt": "Blackmagic's free Resolve 21 webinar series runs September to November, walking through the AI-assisted editorial, colour and Fairlight tooling session by session.",
+   "rationale": "9~11월 무료 세션 일정과 링크가 그대로 나온 학습 캘린더 — 읽고 바로 등록하는 종류의 실행 가능한 정보."
+  },
+  {
+   "id": "movies-tiff-future-in-focus",
+   "tool": "Movies",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "url": "https://variety.com/2026/film/news/variety-utopai-studios-host-future-in-focus-tiff-1236847582/",
+   "source": "Variety",
+   "published_iso": "2026-09-01T20:42:33+00:00",
+   "og_image": "https://variety.com/wp-content/uploads/2026/08/Future-in-Focus-Utopai-Studios-EA.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
+   "excerpt": "A Sept. 12 TIFF panel with Utopai's head of production, Liz Garbus, Rebel Wilson and Basil Iwanyk on how AI and immersive tools are changing how worlds and characters get built.",
+   "rationale": "풀에서 가장 신선(09-01)하고, AI 제작이 A급 영화제 공식 프로그램 안으로 들어가는 국면을 잡는다."
   }
+ ],
+ "picks": [
+  {
+   "id": "movies-gadot-bitcoin-ai-sets",
+   "tool": "Movies",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "url": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
+   "source": "Variety",
+   "published_iso": "2026-08-31T22:05:08+00:00",
+   "og_image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg?w=1000&h=563&crop=1",
+   "excerpt": "Doug Liman's $70M 'Bitcoin' used AI to build sets and lighting instead of physical production design. Gadot says her lawyers spent six months on the contract so AI touched none of her performance.",
+   "rationale": "AI가 프로덕션 디자인과 조명을 통째로 대체한 스튜디오급 장편의 첫 실사례이자, 배우 계약이 어디에 선을 긋는지 보여주는 문서."
+  },
+  {
+   "id": "movies-ae-portal-aug-2026",
+   "tool": "Movies",
+   "accent": "#f5a623",
+   "motif": "frame",
+   "url": "https://www.provideocoalition.com/after-effects-portal-august-2026/",
+   "source": "ProVideo Coalition",
+   "published_iso": "2026-08-31T18:52:44+00:00",
+   "og_image": "https://www.provideocoalition.com/wp-content/uploads/ba2.jpg",
+   "excerpt": "Rich Young's monthly After Effects roundup covers the year's big feature drops, the wave of AI and freemium competitors circling motion design, and third-party plug-in news for AE 26.3.",
+   "rationale": "AE 26.3 기능·플러그인 변화를 한 번에 정리해 모션 디자이너가 내일 바로 도구 목록을 갱신할 수 있는 실무 자료."
+  },
+  {
+   "id": "movies-ibc-2026-preview",
+   "tool": "Movies",
+   "accent": "#7928ca",
+   "motif": "frame",
+   "url": "https://definitionmagazine.com/features/ibc-2026-preview/",
+   "source": "Definition",
+   "published_iso": "2026-08-28T09:00:17+00:00",
+   "og_image": "https://api.definitionmagazine.com/wp-content/uploads/2026/08/IBC-13sep24_HR_Melanie-Lemahieu-410-1024x683.jpeg",
+   "excerpt": "Definition's rundown of what 45,000 media pros will see in Amsterdam, including DaVinci Resolve Studio 21's AI-assisted editorial/colour tools and agentic workflow pitches across the show floor.",
+   "rationale": "이번 주 IBC에서 쏟아질 에이전틱 포스트 워크플로를 벤더별로 미리 배치해준 지도 — 개별 릴리스 기사보다 한 층 위의 시야."
+  },
+  {
+   "id": "movies-resolve-21-webinars",
+   "tool": "Movies",
+   "accent": "#2ec5c5",
+   "motif": "frame",
+   "url": "https://www.redsharknews.com/davinci-resolve-21-free-webinars-2026",
+   "source": "RedShark News",
+   "published_iso": "2026-08-30T04:24:30+00:00",
+   "og_image": "https://www.redsharknews.com/hubfs/davinci%20resolve%20ai.jpg",
+   "excerpt": "Blackmagic's free Resolve 21 webinar series runs September to November, walking through the AI-assisted editorial, colour and Fairlight tooling session by session.",
+   "rationale": "9~11월 무료 세션 일정과 링크가 그대로 나온 학습 캘린더 — 읽고 바로 등록하는 종류의 실행 가능한 정보."
+  },
+  {
+   "id": "movies-tiff-future-in-focus",
+   "tool": "Movies",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "url": "https://variety.com/2026/film/news/variety-utopai-studios-host-future-in-focus-tiff-1236847582/",
+   "source": "Variety",
+   "published_iso": "2026-09-01T20:42:33+00:00",
+   "og_image": "https://variety.com/wp-content/uploads/2026/08/Future-in-Focus-Utopai-Studios-EA.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
+   "excerpt": "A Sept. 12 TIFF panel with Utopai's head of production, Liz Garbus, Rebel Wilson and Basil Iwanyk on how AI and immersive tools are changing how worlds and characters get built.",
+   "rationale": "풀에서 가장 신선(09-01)하고, AI 제작이 A급 영화제 공식 프로그램 안으로 들어가는 국면을 잡는다."
+  }
+ ],
+ "dedup": {
+  "pool": 9,
+  "dropped_as_duplicates": 4,
+  "notes": [
+   "RedShark 'Photoshop AI Assisted Editor: Markup tool arrives' = already published 2026-08-30 as movies-photoshop-firefly5 (AWN). The published card already covers the AI Assisted Editor beta AND the Markup sketch-to-edit tool by name. Same release, different outlet.",
+   "postPerspective 'Avid Media Composer 2026.8 at IBC' = already published 2026-08-28 as movies-media-composer-2026-8 (RedShark). Same release; the published card already names Ready to Edit, Content Core panel and PhraseFindAI Multicam Auto Cut.",
+   "befores & afters 'Nikola Todorovic on Autodesk Flow Studio' = already published 2026-08-27 as movies-flow-studio-3d (fxguide). Same interviewee, same 3D Editor + Canvas walkthrough, different outlet write-up of the same fxpodcast material.",
+   "RedShark 'Eddie AI: client reviews, Resolve markers, PAYG credits' = already published 2026-08-29 as movies-eddie-ai-credits (CineD). Same August release (PAYG credits, review/collaboration layer), different outlet angle.",
+   "No within-pool duplicates among the 5 survivors. The two Variety items are distinct stories (a production's AI set/lighting workflow vs a TIFF panel announcement), not a content-hub pair."
+  ],
+  "backfill": "After the 4 drops, exactly 5 unique, never-before-published stories remained — all 5 were taken, nothing padded."
+ },
+ "diversity": {
+  "outlets": [
+   "Variety",
+   "ProVideo Coalition",
+   "Definition",
+   "RedShark News"
+  ],
+  "max_per_outlet": 2,
+  "distinct_outlets": 4,
+  "topic_spread": [
+   "AI production design / talent contracts",
+   "motion-design tool roundup",
+   "trade show / vendor roadmap",
+   "free training on NLE AI tooling",
+   "festival programming"
+  ]
+ }
 }

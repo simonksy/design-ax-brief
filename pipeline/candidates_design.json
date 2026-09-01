@@ -1,258 +1,228 @@
 {
-  "date": "2026-09-01",
-  "section": "design",
-  "now_iso": "2026-08-31T22:00:35Z",
-  "window_hours": 72,
-  "items": [
-    {
-      "category": "social",
-      "title": "Introducing Solaris, our first Interface World Model | Runway",
-      "url": "https://www.youtube.com/watch?v=c2yCePPnrSA",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-08-31T09:36:02-07:00",
-      "excerpt": "Runway unveils Solaris, an \"interface world model\" it describes as a new kind of operating system that generates interactive interfaces frame by frame from a prompt, with no code required.",
-      "og_image": "https://i.ytimg.com/vi/c2yCePPnrSA/maxresdefault.jpg",
-      "why": "A generative model that emits live, interactive UI frame-by-frame attacks the same ground as design-to-code tools — it turns the interface itself into model output rather than a file a designer hands off."
-    },
-    {
-      "category": "figma",
-      "title": "How our agents build on-brand pages with design.md",
-      "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md",
-      "source": "Vercel",
-      "published_iso": "2026-08-31T00:00:00-04:00",
-      "excerpt": "Vercel published design.md, a single public file any coding agent can load to build on-brand Vercel pages, plus the eval loop the team used to decide every rule inside it.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5F2lrV1tu5qQsQiSSll8GA/7ee5274fbd32707cdd.png",
-      "why": "This is a concrete pattern for encoding a brand/design system as an agent-readable artifact — the design system stops being a Figma library and becomes a prompt-time contract."
-    },
-    {
-      "category": "figma",
-      "title": "The call for an agentic standard: we need to stop shipping the same form four different times",
-      "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370",
-      "source": "UX Collective",
-      "published_iso": "2026-08-31T21:47:30+00:00",
-      "excerpt": "One description, four renderers: every AI assistant draws its own UI, and the maintenance bill lands on the team that already owns your button component. A call to standardize agent-rendered interfaces beyond MCP's plumbing.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*UqCs8JJOwBhWmepdUSg3-Q.png",
-      "why": "Directly names the new design-system problem of the agent era: components now have to render consistently inside assistants a designer doesn't control."
-    },
-    {
-      "category": "figma",
-      "title": "I Redesigned My Blog With Claude Design and Claude Code in Less Than a Day",
-      "url": "https://dev.to/56_kode/i-redesigned-my-blog-with-claude-design-and-claude-code-in-less-than-a-day-2f69",
-      "source": "DEV Community",
-      "published_iso": "2026-08-31T16:08:05Z",
-      "excerpt": "A hands-on account of using Anthropic's newly launched Claude Design alongside Claude Code to take a generic Astro theme to a bespoke redesign in under a day.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclaude-design.png",
-      "why": "First practitioner write-up of Claude Design in a real redesign — shows what the design-to-shipped-site loop actually costs now."
-    },
-    {
-      "category": "figma",
-      "title": "Design has outgrown the traditional designer",
-      "url": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a",
-      "source": "UX Collective",
-      "published_iso": "2026-08-31T15:56:24+00:00",
-      "excerpt": "Design education sold artistically inclined students a practical career built on typography and composition; the essay argues that bargain no longer holds and design schools must reconsider the student they imagine.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*Udn2AQ_qbNM7VA08",
-      "why": "A craft-identity argument about what the designer role becomes when visual execution is the cheapest part of the job."
-    },
-    {
-      "category": "figma",
-      "title": "UX in 2027 may be less about interfaces and more about behavior",
-      "url": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07",
-      "source": "UX Collective",
-      "published_iso": "2026-08-31T11:09:53+00:00",
-      "excerpt": "Signals point to more adaptive interfaces and more delegated actions, shifting the designer's responsibility toward defining the limits of what software may interpret, respond to, and do on the user's behalf.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*exnJUXinDRU5xJil-yiGuQ.png",
-      "why": "Reframes the deliverable from screens to behavior boundaries — a practical shift in what a UX designer specs."
-    },
-    {
-      "category": "tokens",
-      "title": "A Practical Checklist for AI Images with Readable Text",
-      "url": "https://dev.to/yy_lee_095b61a5770b0bbc5d/a-practical-checklist-for-ai-images-with-readable-text-27do",
-      "source": "DEV Community",
-      "published_iso": "2026-08-31T17:06:48Z",
-      "excerpt": "Image generators are far better at typography than they were, but readable text still needs deliberate setup — a working checklist for getting legible type out of generated imagery.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fai-text.png",
-      "why": "Typography inside generated images is the single most common failure point for designers shipping AI visuals; this is a repeatable craft fix."
-    },
-    {
-      "category": "tokens",
-      "title": "I Built an AI Tool That Turns Flat Images into Editable Layers",
-      "url": "https://dev.to/jesus_lopez_63e2183718359/i-built-an-ai-tool-that-turns-flat-images-into-editable-layers-2ike",
-      "source": "DEV Community",
-      "published_iso": "2026-08-31T10:05:09Z",
-      "excerpt": "A builder walks through an AI tool that decomposes a flat raster image back into separate editable layers, restoring the edit affordances a flattened comp loses.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flayers.png",
-      "why": "Un-flattening is the missing step between a generated image and a real design file — this is the exact seam where AI output enters an editable workflow."
-    },
-    {
-      "category": "tokens",
-      "title": "Let's Use the Emergent CSS random() Function in all the Browsers",
-      "url": "https://css-tricks.com/css-random-function-polyfill/",
-      "source": "CSS-Tricks",
-      "published_iso": "2026-08-31T09:12:19-06:00",
-      "excerpt": "The journey to build a polyfill for the upcoming CSS random() function so generative, non-repeating visual effects can run in every browser today.",
-      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp",
-      "why": "Native CSS randomness moves generative visual design out of JS and into the stylesheet — a real change in how motion/pattern work gets built."
-    },
-    {
-      "category": "tokens",
-      "title": "What's !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-      "url": "https://css-tricks.com/whats-important-18/",
-      "source": "CSS-Tricks",
-      "published_iso": "2026-08-31T08:08:55-06:00",
-      "excerpt": "The latest roundup of what front-end developers shipped and wrote over the past couple of weeks, covering emerging CSS features and platform primitives.",
-      "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg",
-      "why": "A fast read on the new platform primitives design-system teams will be tokenizing next."
-    },
-    {
-      "category": "render",
-      "title": "The Nvidia DLSS 5 controversy continues, but gamers might have been too quick to judge the AI tech",
-      "url": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision",
-      "source": "Creative Bloq",
-      "published_iso": "2026-08-31T17:00:00Z",
-      "excerpt": "Is DLSS 5 an AI slop machine, or could neural upscaling actually get real-time rendering closer to the artist's original vision? Creative Bloq weighs the backlash against what the tech does for 3D artists.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/92hEKGMNWmVyPzUNFDqpaA-1920-80.jpg",
-      "why": "A direct fight over whether AI in the render pipeline erodes or protects authored intent — the 3D artist's version of the AI-slop debate."
-    },
-    {
-      "category": "render",
-      "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
-      "url": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
-      "source": "NVIDIA Technical Blog",
-      "published_iso": "2026-08-31T16:00:00+00:00",
-      "excerpt": "NVIDIA details Omniverse NuRec neural reconstruction for rebuilding drivable 3D worlds from captured data so a perception stack can be re-simulated across different vehicle geometries.",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/NuRec-AV-500x282.gif",
-      "why": "Neural reconstruction turning real capture into editable 3D scenes is the same primitive that is quietly replacing hand-modeled environments for visualization teams."
-    },
-    {
-      "category": "render",
-      "title": "This Tool Connects Blender & Krita For Texture Painting",
-      "url": "https://80.lv/articles/this-tool-connects-blender-krita-for-texture-painting/",
-      "source": "80 Level",
-      "published_iso": "2026-08-31T12:47:00+00:00",
-      "excerpt": "A new bridge lets artists capture a scene view in Blender, paint directly in Krita, and project the painted work back onto the model without a manual round trip.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49973/images/6a9577c894fe9/contain_1200x630.jpg",
-      "why": "Removes the export/import tax between DCC and paint app — the kind of round-trip friction that decides whether generated or painted texture work is usable in production."
-    },
-    {
-      "category": "render",
-      "title": "Crafty Apes CEO Alana Newell",
-      "url": "https://www.fxguide.com/fxpodcasts/crafty-apes-ceo-alana-newell/",
-      "source": "fxguide",
-      "published_iso": "2026-08-31T16:27:25+00:00",
-      "excerpt": "From compositor to CEO: Alana Newell on running Crafty Apes and where the VFX studio business and its craft are heading.",
-      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-craftyApes.jpg",
-      "why": "A studio-leader view on how VFX craft roles and pipelines are being restructured as generative tools land in post."
-    },
-    {
-      "category": "cad",
-      "title": "Siemens launches Eigen Engineering Agent in Thailand",
-      "url": "https://www.engineering.com/siemens-launches-eigen-engineering-agent-in-thailand/",
-      "source": "Engineering.com",
-      "published_iso": "2026-08-31T12:15:27+00:00",
-      "excerpt": "Siemens' Eigen Engineering Agent connects with TIA Portal and supports PLC coding, HMI visualization, device configuration and ECAD integration.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Siemens-launches-Eigen-Engineering-Agent-in-Thailand-1024x576.jpg",
-      "why": "An agent that authors HMI screens and device configuration is AI moving into industrial interface design, not just code."
-    },
-    {
-      "category": "cad",
-      "title": "Additive research update: sensors, sustainability, and single-shot shapes",
-      "url": "https://www.engineering.com/additive-research-update-sensors-sustainability-and-single-shot-shapes/",
-      "source": "Engineering.com",
-      "published_iso": "2026-08-31T20:45:53+00:00",
-      "excerpt": "Bleeding-edge 3D printing research from Heidelberg University, USC, the University of Utah and others, including embedded sensing and single-shot geometry formation.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/MicroGraph_E-768x535-1.jpg",
-      "why": "New additive primitives change what an industrial designer can actually specify as a manufacturable form."
-    },
-    {
-      "category": "vr",
-      "title": "I went to the loneliest baseball game on Apple Vision Pro",
-      "url": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
-      "source": "The Verge",
-      "published_iso": "2026-08-31T21:18:27+00:00",
-      "excerpt": "A first-hand account of watching an MLB immersive broadcast on Apple Vision Pro, and what the spatial presentation gets right and badly wrong.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291930274.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "why": "A concrete critique of spatial content design — where immersive UX still fails the social and attention model it is meant to serve."
-    },
-    {
-      "category": "vr",
-      "title": "Quest 3 Update Unlocks Huge Boost in Refresh Rate, Up to 240Hz",
-      "url": "https://roadtovr.com/quest-3-update-boost-refresh-rate-240hz/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-31T13:59:51+00:00",
-      "excerpt": "Meta pushed an update that effectively boosts Quest 3's refresh rate to 240Hz, or 207Hz at full resolution, though whether developers can exploit it remains open.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2024/04/quest-3-games.jpg",
-      "why": "Frame budget is the hard constraint on spatial interface and motion design; a 240Hz ceiling changes what XR designers can specify."
-    },
-    {
-      "category": "vr",
-      "title": "Meta Is Working To Spin Off Worlds From The Horizon Mobile App",
-      "url": "https://www.uploadvr.com/meta-is-working-to-spin-off-worlds-from-the-horizon-mobile-app/",
-      "source": "UploadVR",
-      "published_iso": "2026-08-29T06:34:14+00:00",
-      "excerpt": "Datamining suggests Meta is preparing to split Horizon Worlds into its own mobile app, leaving the current Horizon app dedicated to XR headsets.",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/08/Meta-Horizon-Worlds.jpg",
-      "why": "Where Meta puts Worlds decides which surface UGC 3D creators design for — headset-first or phone-first changes the whole creation brief."
-    },
-    {
-      "category": "workflow",
-      "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
-      "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
-      "source": "VentureBeat",
-      "published_iso": "2026-08-31T11:52:00-07:00",
-      "excerpt": "As agents take over code generation, the human job shifts to designing the boundaries, contracts and feedback systems that keep autonomous systems reliable and coherent.",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/69QSWgFmlQZFi2Tre1y0IV/cf044c4ab93c4256bc36db6f14eb096c/Gemini_Generated_Image_obnkm7obnkm7obnk__1_.jpeg?w=1200&q=75",
-      "why": "The same reframing is arriving for design teams: the deliverable becomes the constraint system an agent works inside, not the artifact."
-    },
-    {
-      "category": "workflow",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch",
-      "published_iso": "2026-08-31T19:16:59+00:00",
-      "excerpt": "With frustration over AI influencers growing, Instagram is limiting the reach of AI profiles that don't clearly disclose what they are.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
-      "why": "Platform disclosure rules directly govern how creative teams can publish AI-made brand and character content."
-    },
-    {
-      "category": "wildcard",
-      "title": "Graphic designers are trying to fix people's terrible AI flyers",
-      "url": "https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers",
-      "source": "Creative Bloq",
-      "published_iso": "2026-08-31T08:00:00Z",
-      "excerpt": "A viral Instagram trend has working graphic designers redoing strangers' AI-generated flyers, turning the fix-up into a public argument about what craft still adds.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3bqifq82zuYVwaT8H2uHzS-1920-80.jpg",
-      "why": "The clearest public demo of the gap between generated output and designed output, staged by designers themselves."
-    },
-    {
-      "category": "wildcard",
-      "title": "If Apple and Spotify are cracking down on AI slop, why can't YouTube?",
-      "url": "https://www.creativebloq.com/ai/if-apple-and-spotify-are-cracking-down-on-ai-slop-why-cant-youtube-i-think-i-know-the-answer",
-      "source": "Creative Bloq",
-      "published_iso": "2026-08-30T10:00:00Z",
-      "excerpt": "Apple and Spotify have started policing AI-generated content on their platforms while YouTube hasn't — Creative Bloq argues the incentives explain why.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kLotpGooqDCMWf8JaWAHWV-1698-80.jpg",
-      "why": "Platform-level AI content policy is becoming the distribution constraint every creative team has to design around."
-    },
-    {
-      "category": "social",
-      "title": "How to match images to your brand's aesthetic with Adobe Stock AI Studio",
-      "url": "https://www.youtube.com/watch?v=t4QTo8MSjRU",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "published_iso": "2026-08-31T13:44:56-07:00",
-      "excerpt": "Graphic designer Valeria Kokur demonstrates turning stock imagery into perfectly on-brand visuals for a branding project using Adobe Stock AI Studio.",
-      "og_image": "https://i.ytimg.com/vi/t4QTo8MSjRU/maxresdefault.jpg",
-      "why": "A working brand-consistency workflow inside Adobe's stack — generation constrained by an existing visual identity rather than free-form prompting."
-    },
-    {
-      "category": "social",
-      "title": "9 Designs That Inspired Meshtimes, One of Tech's Most Creative Minds | Source Material",
-      "url": "https://www.youtube.com/watch?v=V19x5yo-Sa8",
-      "source": "Figma (YouTube)",
-      "published_iso": "2026-08-31T11:00:23-07:00",
-      "excerpt": "Figma launches Source Material, a weekly series where designers and creatives shaping culture walk through the references that shaped them, starting with Meshtimes.",
-      "og_image": "https://i.ytimg.com/vi/V19x5yo-Sa8/maxresdefault.jpg",
-      "why": "A deliberate counterweight to prompt-driven output: where taste and reference libraries come from when generation is free."
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "design",
+ "now_iso": "2026-09-01T22:05:00Z",
+ "window_hours": 72,
+ "items": [
+  {
+   "category": "figma",
+   "title": "Behind the build: Generative plugins and shaders at Figma",
+   "url": "https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/",
+   "source": "Figma",
+   "published_iso": "2026-09-01T14:39:43Z",
+   "excerpt": "Rogie King walks through how Figma built generative plugins and shaders, giving designers programmatic and creative control over generated visuals on the canvas — and a way to share what they make with the community.",
+   "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/1fa2dc31f016186a80092667f671f74dd11a5104-1200x630.png?w=1200&q=70&fit=max&auto=format",
+   "why": "Generative output moves from a prompt box into a scriptable, shareable plugin/shader layer — designers get parameters and reuse instead of one-off generations."
+  },
+  {
+   "category": "figma",
+   "title": "The case against intuitive design in enterprise software",
+   "url": "https://blog.logrocket.com/ux-design/case-against-intuitive-design-enterprise-software/",
+   "source": "LogRocket Blog",
+   "published_iso": "2026-09-01T15:30:15Z",
+   "excerpt": "Eric Chung argues that 'intuitive' is the wrong target for enterprise tools, where expert users need dense, learnable interfaces rather than instantly-obvious ones.",
+   "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/08/The-case-against-intuitive-design-in-enterprise-software.jpg",
+   "why": "Directly reframes a default heuristic designers apply — relevant as AI-generated UI keeps optimizing for surface simplicity over expert throughput."
+  },
+  {
+   "category": "figma",
+   "title": "Graphic designers are trying to fix people's terrible AI flyers",
+   "url": "https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-fix-peoples-terrible-ai-flyers",
+   "source": "Creative Bloq",
+   "published_iso": "2026-08-31T08:00:00Z",
+   "excerpt": "A viral trend has professional designers redoing the AI-generated flyers people post online, turning the gap between generated output and finished craft into public before/after evidence.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/3bqifq82zuYVwaT8H2uHzS-1920-80.jpg",
+   "why": "A concrete, visual argument about what generation still can't do — typography, hierarchy, print craft — framed as a designer's job, not a lament."
+  },
+  {
+   "category": "figma",
+   "title": "A viral creative challenge just gifted Parker pens the perfect anti-AI billboard advert",
+   "url": "https://www.creativebloq.com/design/advertising/this-viral-creative-challenge-rebrands-pens-for-the-ai-age",
+   "source": "Creative Bloq",
+   "published_iso": "2026-09-01T07:00:54Z",
+   "excerpt": "A viral rebranding challenge produced an ad concept that positions the humble pen against AI-generated everything, and it's landing harder than most agency work.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/qPttecBxT8ZfvWvUL5YmQY-1920-80.jpg",
+   "why": "Shows the creative positioning designers are reaching for in an AI-saturated market — a craft/authorship pitch, not a tooling one."
+  },
+  {
+   "category": "render",
+   "title": "Is Nvidia's DLSS 5 an AI slop machine or a game-changing technology?",
+   "url": "https://www.creativebloq.com/3d/is-nvidias-dlss-5-an-ai-slop-machine-or-a-game-changing-technology-that-will-take-us-closer-to-artists-original-vision",
+   "source": "Creative Bloq",
+   "published_iso": "2026-08-31T17:00:00Z",
+   "excerpt": "Creative Bloq weighs whether DLSS 5's neural rendering brings real-time graphics closer to the artist's original intent or just invents pixels nobody authored.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/92hEKGMNWmVyPzUNFDqpaA-1920-80.jpg",
+   "why": "Neural upscaling now decides what a large share of rendered frames actually look like — an authorship question aimed squarely at 3D/real-time artists."
+  },
+  {
+   "category": "render",
+   "title": "One-Click Line Art From Any 3D Model In Blender",
+   "url": "https://80.lv/articles/one-click-line-art-from-any-3d-model-in-blender",
+   "source": "80 Level",
+   "published_iso": "2026-09-01T11:18:00Z",
+   "excerpt": "Masamune Sakaki released a free Blender tool that turns any 3D model into clean line art in a single click, replacing a fiddly Grease Pencil / Freestyle setup.",
+   "og_image": "https://cdn.80.lv/api/upload/meta/49997/images/6a96b4a0105f4/contain_1200x630.jpg",
+   "why": "A deterministic, free shortcut for a look designers usually fake with generation — 3D-to-2D stylization with exact control."
+  },
+  {
+   "category": "render",
+   "title": "Check Out This Plug-In for C4D & Blender That Creates Realistic Damage",
+   "url": "https://80.lv/articles/check-out-this-plug-in-for-c4d-blender-that-created-realistic-damage",
+   "source": "80 Level",
+   "published_iso": "2026-09-01T11:07:00Z",
+   "excerpt": "Edgy is a new plug-in for Cinema 4D and Blender that generates realistic wear and damage on models, shipping with six ready-made setups plus authoring for custom ones.",
+   "og_image": "https://cdn.80.lv/api/upload/meta/49996/images/6a96b1f0c0b35/contain_1200x630.jpg",
+   "why": "Procedural detailing where designers would otherwise prompt or hand-sculpt — presets as a controllable middle ground."
+  },
+  {
+   "category": "render",
+   "title": "Get Free Access To Over 70 Shader Tutorials",
+   "url": "https://80.lv/articles/get-free-access-to-over-70-shader-tutorials",
+   "source": "80 Level",
+   "published_iso": "2026-09-01T13:02:00Z",
+   "excerpt": "XorDev opened up a library of 70+ shader tutorials for free, covering the math and tricks behind procedural visual effects.",
+   "og_image": "https://cdn.80.lv/api/upload/meta/49998/images/6a96cce1ebbfe/contain_1200x630.jpg",
+   "why": "Shader literacy is the counterweight to prompt-only visuals — writing the effect instead of sampling it."
+  },
+  {
+   "category": "cad",
+   "title": "Text-to-CAD Isn't Text-to-Mesh: Why the Output Format Is the Whole Story",
+   "url": "https://dev.to/james_36d111a7a36/text-to-cad-isnt-text-to-mesh-why-the-output-format-is-the-whole-story-1elc",
+   "source": "DEV Community",
+   "published_iso": "2026-09-01T16:41:48Z",
+   "excerpt": "A breakdown of why 'AI CAD' demos that emit meshes don't help engineers: without parametric, editable B-rep output, the generated geometry can't be revised or manufactured.",
+   "og_image": null,
+   "why": "The editability question — mesh vs. parametric — is the same one facing every design-to-X tool: does the AI hand you an artifact you can keep working in?"
+  },
+  {
+   "category": "cad",
+   "title": "Siemens launches Eigen Engineering Agent in Thailand",
+   "url": "https://www.engineering.com/siemens-launches-eigen-engineering-agent-in-thailand/",
+   "source": "Engineering.com",
+   "published_iso": "2026-08-31T12:15:27Z",
+   "excerpt": "Siemens rolled out its Eigen Engineering Agent, an AI assistant aimed at engineering and design workflows, into a new market.",
+   "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/Siemens-launches-Eigen-Engineering-Agent-in-Thailand-1024x576.png",
+   "why": "Agentic assistance moving into mainstream industrial design/engineering toolchains, not just consumer creative apps."
+  },
+  {
+   "category": "cad",
+   "title": "Additive research update: sensors, sustainability, and single-shot shapes",
+   "url": "https://www.engineering.com/additive-research-update-sensors-sustainability-and-single-shot-shapes/",
+   "source": "Engineering.com",
+   "published_iso": "2026-08-31T20:45:53Z",
+   "excerpt": "A roundup of new additive manufacturing research, including embedded sensors, more sustainable feedstocks, and parts printed as a single shot rather than assembled.",
+   "og_image": "https://www.engineering.com/wp-content/uploads/2026/08/MicroGraph_E-768x535-1.jpg",
+   "why": "Fabrication constraints are the real boundary on generative/topology-optimized geometry — this is what widens it."
+  },
+  {
+   "category": "tokens",
+   "title": "What's !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+   "url": "https://css-tricks.com/whats-important-18/",
+   "source": "CSS-Tricks",
+   "published_iso": "2026-08-31T14:08:55Z",
+   "excerpt": "Daniel Schwarz's roundup of emerging CSS and web platform features, including new selectors and feature-query syntax landing in browsers.",
+   "og_image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg",
+   "why": "The primitives designers and their coding agents will actually be able to reach for next — platform capability, not tooling hype."
+  },
+  {
+   "category": "tokens",
+   "title": "AI can write SVG. Only one route gives you paths you can edit.",
+   "url": "https://dev.to/usman_basheers/ai-can-write-svg-only-one-route-gives-you-paths-you-can-edit-2h2",
+   "source": "DEV Community",
+   "published_iso": "2026-08-31T05:03:00Z",
+   "excerpt": "A chatbot writes SVG markup blind, an image model gives you pixels, and a vector generator gives you paths — the piece compares what each route actually outputs and how to check the file before shipping it.",
+   "og_image": null,
+   "why": "Practical triage for anyone generating icons or logos: three routes that look identical in a preview and are wildly different the moment you need to edit."
+  },
+  {
+   "category": "tokens",
+   "title": "Design to Code Tools Benchmark [2026]: 5 Tools, Real Diffs",
+   "url": "https://dev.to/kunal_d6a8fea2309e1571ee7/design-to-code-tools-benchmark-2026-5-tools-real-diffs-1cak",
+   "source": "DEV Community",
+   "published_iso": "2026-09-01T12:42:55Z",
+   "excerpt": "The same messy SaaS dashboard was pushed through five design-to-code tools and scored on accessibility, semantics, bundle size, editability, and visual fidelity, with a reproducible harness.",
+   "og_image": null,
+   "why": "Moves the design-to-code argument off screenshots and onto measurable diffs — the sort of evidence design orgs need before standardizing on one."
+  },
+  {
+   "category": "workflow",
+   "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
+   "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
+   "source": "VentureBeat",
+   "published_iso": "2026-08-31T18:52:00Z",
+   "excerpt": "As agents take over micro-logic, the job shifts to defining guardrails, data contracts, and feedback loops that keep generated systems reliable.",
+   "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/69QSWgFmlQZFi2Tre1y0IV/cf044c4ab93c4256bc36db6f20014eb096c/Gemini_Generated_Image_obnkm7obnkm7obnk__1_.jpeg",
+   "why": "The same role shift is hitting design: authoring constraints and systems the agent must respect, rather than authoring every screen."
+  },
+  {
+   "category": "workflow",
+   "title": "fx is now available in the AI SDK harness layer",
+   "url": "https://vercel.com/changelog/fx-ai-sdk-harness-adapter",
+   "source": "Vercel",
+   "published_iso": "2026-08-31T06:00:00Z",
+   "excerpt": "Vercel added an @ai-sdk/harness-fx adapter built on the ACP harness, letting another coding agent plug into the same AI SDK harness interface.",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2Uqe6dcqRd3eBd77QUzf8V/2570ac4428c01ff0781e8a24438fc0b3/fx_ai_sdk_harness_adapter_og_card_og_card.jpg",
+   "why": "The harness layer is becoming a swappable socket — teams can change which agent builds their UI without rewriting the pipeline around it."
+  },
+  {
+   "category": "workflow",
+   "title": "Set per-user budgets on AI Gateway",
+   "url": "https://vercel.com/changelog/set-per-user-budgets-on-ai-gateway",
+   "source": "Vercel",
+   "published_iso": "2026-08-31T06:00:00Z",
+   "excerpt": "Vercel's AI Gateway now supports individual spend limits per team member, so orgs can cap what each person's agent runs cost.",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5ogVZz3qmuauCTDxUPJQyS/c794acf4b7ede740e2ab61e4f71adf0c/set_user_budgets_on_ai_gateway_og_card.jpg",
+   "why": "Token budget is now a design-team resource question — who on the team gets how much generative headroom becomes a governance decision."
+  },
+  {
+   "category": "vr",
+   "title": "Empire At Sea Brings A Shared Mixed Reality Drama To Venice Immersive",
+   "url": "https://www.uploadvr.com/empire-at-sea-brings-a-shared-adrama-to-venice-immersive/",
+   "source": "UploadVR",
+   "published_iso": "2026-09-01T10:34:02Z",
+   "excerpt": "Empire At Sea debuts at Venice Immersive as a shared mixed-reality drama where an audience experiences the piece together in one physical space.",
+   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/empire_at_sea-1.jpg",
+   "why": "Co-located mixed reality is a distinct design problem from solo headset work — staging, sightlines, and shared attention rather than a single viewport."
+  },
+  {
+   "category": "vr",
+   "title": "'Neon Genesis Evangelion' VR is Getting First Public Preview Sept 25",
+   "url": "https://www.roadtovr.com/neon-genesis-evangelion-vr-public-preview/",
+   "source": "Road to VR",
+   "published_iso": "2026-09-01T15:59:00Z",
+   "excerpt": "The Evangelion VR project opens its first public preview later this month, giving outsiders their first hands-on with how the anime's cockpit and scale are translated to a headset.",
+   "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/evangelion-vr-hands-on.jpg?fit=1800%2C1200&quality=89&ssl=1",
+   "why": "An adaptation problem designers care about: how a strongly-authored 2D visual language survives being reprojected into embodied space."
+  },
+  {
+   "category": "social",
+   "title": "9 Designs That Inspired Meshtimes, One of Tech's Most Creative Minds | Source Material",
+   "url": "https://www.youtube.com/watch?v=V19x5yo-Sa8",
+   "source": "Figma (YouTube)",
+   "published_iso": "2026-08-31T18:00:23Z",
+   "excerpt": "Figma's Source Material series walks through nine designs that shaped one of tech's most creative practitioners, tracing where a visual sensibility actually comes from.",
+   "og_image": "https://i.ytimg.com/vi/V19x5yo-Sa8/maxresdefault.jpg",
+   "why": "Taste as an assembled reference library — the input side of design work that generation can't shortcut."
+  },
+  {
+   "category": "social",
+   "title": "The Making of i-D Magazine's 375 \"The Beta Issue\" - Designed in Figma",
+   "url": "https://www.youtube.com/watch?v=Y_78H41mw4A",
+   "source": "Figma (YouTube)",
+   "published_iso": "2026-08-30T15:55:29Z",
+   "excerpt": "A behind-the-scenes look at how i-D's 375th issue, 'The Beta Issue,' was art-directed and laid out entirely in Figma.",
+   "og_image": "https://i.ytimg.com/vi/Y_78H41mw4A/maxresdefault.jpg",
+   "why": "A screen tool used end-to-end for print editorial — a concrete case of the design toolchain collapsing into one canvas."
+  },
+  {
+   "category": "social",
+   "title": "The One-Prompt Dashboard Trick",
+   "url": "https://www.youtube.com/watch?v=-goIBDS9UNU",
+   "source": "Matt Wolfe (YouTube)",
+   "published_iso": "2026-09-01T14:27:45Z",
+   "excerpt": "Matt Wolfe demonstrates building a working data dashboard from a single prompt, showing how far one-shot generation gets you before hand-editing starts.",
+   "og_image": "https://i.ytimg.com/vi/-goIBDS9UNU/maxresdefault.jpg",
+   "why": "A blunt demo of where prompt-to-UI actually lands today, and what a designer still has to take over afterward."
+  }
+ ]
 }

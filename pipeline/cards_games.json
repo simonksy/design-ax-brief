@@ -1,362 +1,302 @@
 {
-  "date": "2026-09-01",
-  "section": "games",
-  "cards": [
-    {
-      "id": "games-city-sample-pcg-mcp",
-      "eyebrow": "AI NEWS",
-      "headline": "City Sample이 5.8로\n다시 지어졌다",
-      "mini_headline": "City Sample, 재건",
-      "body": "레벨을 새로 짠 City Sample에 절차적 생성과 에이전트 편집 워크플로가 함께 담겼다.",
-      "tool": "Games",
-      "source": "Unreal Engine",
-      "url": "https://www.unrealengine.com/learning/city-sample-gets-a-major-update-with-pcg-and-unreal-mcp-workflows",
-      "og_image": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/cmsxqgcmqnsuj06lebm2w2306",
-      "published_iso": "2026-08-27T00:00:00Z",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/cmsxqgcmqnsuj06lebm2w2306",
-            "cap": "Unreal Engine City Sample"
-          },
-          {
-            "t": "p",
-            "x": "City Sample 프로젝트가 Unreal Engine 5.8 기준으로 갱신됐다. 손질 정도가 아니라 레벨을 통째로 새로 지었고, 절차적 월드빌딩용 툴셋과 콘텐츠, 예제가 한 묶음으로 따라왔다. 받는 건 오늘부터다. Fab, 언리얼 에디터 홈 패널, 에픽게임즈 런처 어디서나 무료다."
-          },
-          {
-            "t": "p",
-            "x": "State of Unreal 2026에서 한 번 선보인 그 도시다. 굴곡진 지형에 휘어지는 도로와 인도가 깔리고, 잎이 무성한 식생과 숲까지 절차적으로 들어찼다. UE5 출시와 함께 나온 원본 City Sample과 달리 이번 도시는 처음부터 끝까지 언리얼 엔진 안에서 지어졌다."
-          },
-          {
-            "t": "video",
-            "yt": "9ikOoOzAhPE"
-          },
-          {
-            "t": "p",
-            "x": "잠깐 거슬러 올라가 보자. 2021년 12월, 차세대 콘솔의 성능을 출시 전에 미리 보여준 테크 데모 The Matrix Awakens: An Unreal Engine 5 Experience에 거대하고 빽빽한 도시가 등장했다. 그 도시가 나중에 원본 City Sample 프로젝트로 공개됐다."
-          },
-          {
-            "t": "p",
-            "x": "렌더링은 Nanite와 Lumen이 맡았지만, 도시 자체는 언리얼 밖의 절차적 툴셋으로 만든 것이었다. 그 사이 엔진이 달라졌다. PCG 프레임워크가 손질됐고 UE 5.8과 함께 Unreal MCP 서버가 나오면서, 같은 도시를 언리얼 안에서 바로 다시 세울 수 있게 됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/quality=value:90/auto_image/cmsxqsq0unurv06lergchpyto",
-            "cap": "UE 5.8 City Sample과 Unreal MCP 워크플로"
-          },
-          {
-            "t": "p",
-            "x": "갱신된 City Sample은 쇼케이스이자 학습 자료다. PCG를 어떻게 쓰는지, LLM의 도움을 받든 받지 않든 상관없이 복잡하고 촘촘한 월드를 짓는 방법을 보여준다. 이번에 에픽이 쓴 모델은 Claude였지만, 각자 상황에 맞는 걸 고르면 된다는 단서를 달았다."
-          },
-          {
-            "t": "p",
-            "x": "중요한 건 결과물이 끝까지 편집 가능한 상태로 남는다는 점이다. 블랙박스도 없고 마법 같은 한 방도 없다. 창작 의도를 키우고 그 실현을 앞당길 뿐이다. World Partition, Nanite Foliage, Quixel Megaplants도 함께 쓰였다."
-          },
-          {
-            "t": "img",
-            "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/quality=value:90/auto_image/cmsxqulmnnuvi08odm45izae2",
-            "cap": "UE 5.8 City Sample의 PCG와 Megaplants"
-          },
-          {
-            "t": "p",
-            "x": "Unreal Fest Chicago 2026 세션은 LLM이 PCG를 공간 언어처럼 다루는 방법을 설명한다. 새로 나온 PCG Primitives 플러그인과 거기 담긴 도로·건물·숲·공원 예제로 도시를 세워 보이고, 이 틀을 각자의 프로덕션 사례로 늘려 쓸 수 있다는 점도 짚는다."
-          },
-          {
-            "t": "p",
-            "x": "이제 프로젝트에는 Houdini로 만든 원본 레벨이 그대로 남고, LLM의 도움을 받아 PCG로 지은 새 레벨 둘이 붙는다. 하나는 도시 전체, 다른 하나는 단계를 줄인 간단한 예제 레벨이다."
-          },
-          {
-            "t": "p",
-            "x": "함께 들어가는 것들도 있다. 도시를 절차적으로 재현하는 PCG 그래프 예제들은 Unreal MCP 서버의 기준 참조로도 쓸 수 있다. 식생을 채우는 Megaplants 다섯 종, 옥상 광장과 부두용 스태틱 메시 구성을 담은 PCG Assembly 데이터 애셋, 프로필 프리셋으로 애셋을 빠르게 세우는 건물·도로 셰이프 그래머 정의 애셋, City Sample의 건물을 짓는 PCG Primitive 서브그래프가 여기 포함된다."
-          },
-          {
-            "t": "p",
-            "x": "프로젝트 옆에는 CitySamplePCG_demo 플러그인이 붙는다. City Sample을 PCG로 재현하는 데 필요한 그래프와 애셋이 전부 여기 담겼다. 다만 샘플은 실험적·베타 단계 시스템 여럿에 기대고 있고 그중 일부는 기본으로 켜져 있지 않다. 자세한 내용은 문서를 확인하는 편이 빠르다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-inworld-tts-evals",
-      "eyebrow": "AI NEWS",
-      "headline": "Inworld, TTS 평가 도구를\n오픈소스로 공개",
-      "mini_headline": "TTS 평가, 측정으로",
-      "body": "로컬 ASR과 명시적 정규화, 샘플 단위 측정으로 결과를 원본 오디오까지 되짚을 수 있다.",
-      "tool": "Games",
-      "source": "Inworld AI",
-      "url": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit",
-      "og_image": "https://static.inworld.ai/public-website-2025/images/content/9b54d1f3fd481dd93314ffa470ff9008d2c9c589-1200x630.png",
-      "published_iso": "2026-08-28T00:00:00Z",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static.inworld.ai/public-website-2025/images/content/9b54d1f3fd481dd93314ffa470ff9008d2c9c589-1200x630.png",
-            "cap": "Inworld TTS Open Evaluation Toolkit"
-          },
-          {
-            "t": "p",
-            "x": "Inworld가 TTS Open Evaluation Toolkit을 오픈소스로 풀었다. TTS 시스템에서 샘플을 뽑고, 오디오를 오프라인으로 평가하고, 서로 견줄 수 있는 리포트를 만드는 도구다. 글은 ML/AI 리서치 총괄 Aleksey Tikhonov가 썼다."
-          },
-          {
-            "t": "p",
-            "x": "실행할 때마다 설정값이 샘플별 측정치 옆에 그대로 남는다. 점수 하나를 붙들고 원본 텍스트와 오디오까지 거슬러 갈 수 있고, ASR 전사와 적용된 임계값도 열어볼 수 있다. 첫 릴리스에는 흔히 쓰는 지표들과 공들여 만든 영어 대화 스트레스 세트가 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "TTS 평가는 까다롭다. 같은 모델을 같은 데이터셋에 돌려도 두 팀의 WER이 갈린다. 어떤 ASR 모델을 골랐는지, 텍스트 정규화를 어떻게 했는지가 숫자를 움직인다. 목소리 선택과 합성 설정도, 실패한 샘플을 넣느냐 빼느냐도 마찬가지다. 자연스러움이나 표현력처럼 주관적인 지표로 가면 상황은 더 나빠진다."
-          },
-          {
-            "t": "p",
-            "x": "요즘 시스템은 쉬운 프롬프트야 대체로 잘 처리한다. 그래서 구현 디테일과 어려운 케이스의 실패가 결과를 좌우한다. 프로토콜 없이 평균값만 내놓으면 그 주장을 되짚기 어렵다."
-          },
-          {
-            "t": "p",
-            "x": "툴킷은 한 번의 실행을 들여다볼 수 있는 디렉터리 하나에 담는다. 모델과 목소리를 고정한 채 오디오를 뽑으며 합성 설정을 기록하고, 로컬 ASR과 명시적 정규화로 클립을 평가한 뒤, 집계값과 그 뒤의 샘플을 함께 보여주는 순서다. Inworld·ElevenLabs·Hume 어댑터가 기본으로 있고, 다른 시스템은 매니페스트로 오디오를 넘기면 된다."
-          },
-          {
-            "t": "p",
-            "x": "HTML 리포트에는 CDN도 호스팅 런타임도 없다. 여러 실행을 묶은 리포트는 정확도 계열과 주관 지표, 실패 유형처럼 의미 단위로 지표를 나누고 신뢰구간과 모델 건강 요약을 붙인다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.inworld.ai/public-website-2025/images/content/402c44a831088be48e5c84098fa497ad472068e4-2560x1806.png",
-            "cap": "실행 결과를 묶어 보여주는 리포트 화면"
-          },
-          {
-            "t": "p",
-            "x": "샘플이 임계값을 어기면 상세 리포트가 기대 텍스트와 ASR 전사를 나란히 놓는다. 오디오가 있으면 오디오도 같이 붙는다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.inworld.ai/public-website-2025/images/content/1b8cd140f2e18e122c430bd875038cee5952c072-2560x604.png",
-            "cap": "기대 텍스트와 ASR 전사를 나란히 놓은 상세 리포트"
-          },
-          {
-            "t": "p",
-            "x": "측정 캐시는 내용 주소 방식이다. 디코딩된 오디오와 원문이 지표 설정과 여전히 맞으면 ASR과 오디오 측정을 재사용한다. 임계값과 리포트는 다시 만들어지니, 같은 배치를 또 전사하는 것보다 판정 규칙을 손보는 비용이 훨씬 싸진다."
-          },
-          {
-            "t": "p",
-            "x": "초기 지표는 단어·문자 단위 오류율과 삽입·삭제·치환 분해, 클리핑과 무음 비율, 라우드니스와 꼬리 클릭 신호, 길이와 발화 속도, 선택 적용되는 NISQAv2 차원과 ECAPA 화자 유사도, 모음 늘어짐 탐지를 아우른다. 이걸 하나의 순위로 뭉뚱그리지 말라는 게 Inworld의 당부다. 낮은 WER이 목소리가 자연스럽다는 뜻은 아니다."
-          },
-          {
-            "t": "p",
-            "x": "저장소에는 실패를 빨리 드러내려고 만든 작은 영어 대화 데이터셋도 있다. 프롬프트 100개에 문장 조각과 끼어들기, 강조 마크업이 섞였다. 반복되는 단어와 겹인용, 길게 늘어지는 대사가 평범한 벤치마크 문장보다 성가시게 군다."
-          },
-          {
-            "t": "p",
-            "x": "말 그대로 스트레스 세트지 전체 발화를 대표하는 표본은 아니다. 배포를 결정하려면 관련 언어마다 실제 프로덕션 프롬프트와 제품에 실제로 쓸 목소리가 필요하다. 번들 세트는 큰 실험에 돈을 쓰기 전 뻔한 문제를 걸러내는 쪽에 가깝다."
-          },
-          {
-            "t": "p",
-            "x": "재현성이 평가의 정확함까지 보장하진 않는다. 다만 전제를 들여다볼 수 있게 만든다. 코드와 예제, 설치부터 커맨드라인 첫 리포트까지 안내하는 에이전트 지침은 저장소 README에 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-1666-drops-ai",
-      "eyebrow": "AI NEWS",
-      "headline": "1666: Amsterdam이\n생성형 AI를 걷어냈다",
-      "mini_headline": "1666, AI를 뺐다",
-      "body": "반발이 이어지자 스튜디오는 생성형 AI를 뺐고, 쓰인 곳은 기획과 프리프로덕션뿐이었다.",
-      "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/games/action/1666-amsterdams-developer-says-it-wont-be-using-ai-anymore-and-the-tech-was-only-used-in-conception-and-pre-production-arguably-the-most-creative-phase-of-the-entire-process/",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HqR6PTgsYxFJXCUuYFhtR8-1920-80.jpg",
-      "published_iso": "2026-08-31T10:03:22Z",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/HqR6PTgsYxFJXCUuYFhtR8-1920-80.jpg",
-            "cap": "1666: Amsterdam"
-          },
-          {
-            "t": "p",
-            "x": "Summer Game Fest에서 1666: Amsterdam이 공개됐을 때 반응은 놀라움과 반가움이었다. Assassin's Creed를 함께 만든 Patrice Désilets가 오래 품어온 프로젝트였으니 그럴 만했다."
-          },
-          {
-            "t": "p",
-            "x": "분위기는 금세 바뀌었다. 발표와 함께 풀린 플레이 가능한 프롤로그를 파고들던 플레이어들이 게임 속 애셋에서 생성형 AI 특유의 냄새를 맡아낸 것이다."
-          },
-          {
-            "t": "p",
-            "x": "Désilets의 스튜디오 Panache Digital Games는 일부 애셋 제작에 AI를 썼다고 인정하고 사과했다. 얼리 액세스 출시 전까지 해당 요소를 걷어내겠다는 약속도 함께였다."
-          },
-          {
-            "t": "video",
-            "yt": "SkmC_VmaZj8"
-          },
-          {
-            "t": "p",
-            "x": "그 출시가 지난주에 이뤄졌다. 그리고 Désilets는 이제 Panache가 파이프라인에서 AI를 완전히 떼어냈고 앞으로도 쓰지 않겠다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "GamesRadar+와의 인터뷰에서 그는 생성형 AI와는 끝났다는 점을 분명히 했다. 쓰인 AI의 대부분이 프로젝트 초기 단계에 몰려 있었다는 설명도 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "\"네, 과정에서 AI를 좀 썼습니다. 주로 초반에요.\" Désilets의 말이다. \"구상과 프리프로덕션 단계였죠. 완전히 제거됐고, 앞으로 어떤 AI도 쓰지 않을 겁니다.\""
-          },
-          {
-            "t": "p",
-            "x": "작품은 예술가가 만드는 쪽을 좋아하는 사람으로서, Panache가 1666: Amsterdam에서 생성형 AI를 긁어내려 애쓴 건 반갑다. 다만 개발자들이 컨셉 단계에서만 AI를 썼다고 말할 때는 마음이 편치 않다. 그 단계야말로 창작에서 가장 즐겁고 보람 있는 구간이기 때문이다."
-          },
-          {
-            "t": "p",
-            "x": "상상이 대부분 일어나는 시기이자, 실제로 물건을 끝내기 위해 감수해야 할 규율과 고통스러운 선택에서 가장 자유로운 시기다. 그 구간을 평범함 제조기에 넘기는 건 창작 과정에 대한 배신처럼 느껴진다."
-          },
-          {
-            "t": "p",
-            "x": "흥미로운 철학적 물음도 남는다. 애초에 그 게임을 상상하는 데 기술의 도움을 받았다면, 그 게임에 생성형 AI가 없다고 말할 수 있을까."
-          },
-          {
-            "t": "p",
-            "x": "어쨌든 1666: Amsterdam은 얼리 액세스로 나와 있고, 스팀 페이지에는 AI 고지가 붙어 있지 않다. AI가 있든 없든 플레이어 평가는 갈리는 중이다. 현재 '복합적' 등급에 긍정 평가 66%. 배경과 탐험 요소는 호평받는 반면, 뻣뻣한 전투와 전반적인 마감 부족은 도마에 올랐다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-gta6-crowd-tech-lead",
-      "eyebrow": "AI NEWS",
-      "headline": "GTA 6의 군중 기술은\n10년쯤 앞서 있다",
-      "mini_headline": "군중 기술, 10년 격차",
-      "body": "경쟁작 군중을 만든 개발자는 GTA 6의 NPC 군중 기술이 업계보다 10년쯤 앞섰다고 말했다.",
-      "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-at-least-10-years-ahead-of-other-games-with-gta-6s-npc-crowd-technology-says-dev-behind-007-first-lights-incredible-crowds/",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7E43SERC2PDAcs2Nxm9Yxm-1920-80.jpg",
-      "published_iso": "2026-08-27T16:17:35Z",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/7E43SERC2PDAcs2Nxm9Yxm-1920-80.jpg",
-            "cap": "Grand Theft Auto 6"
-          },
-          {
-            "t": "p",
-            "x": "GTA 6: An Extended Look 공개까지는 아직 몇 시간이 남았다. 그런데 007: First Light의 인상적인 군중을 만든 개발자가, 지금까지 흘러나온 대규모 유출만 봐도 Rockstar Games의 NPC 기술이 경쟁작들보다 한참 앞서 있다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "온라인에서 Cyberleek으로 알려진 해커는 몇 주째 이 오픈월드 게임의 초기 모습을 흘리고 있다. 그중 몇몇 영상에는 해변이나 스트립 클럽에서 시간을 보내는 GTA 6의 북적이는 군중이 담겼다."
-          },
-          {
-            "t": "p",
-            "x": "다만 초기 클립을 두고 짓궂은 반응도 갈렸다. Rockstar가 GTA 6 첫 트레일러에서 보여준 군중 밀도를 실제로 구현했는지는 논쟁거리다."
-          },
-          {
-            "t": "p",
-            "x": "IO Interactive의 AI 프로그래머 Berkay Dursun의 눈에는 다르게 보인다. 새 제임스 본드 게임의 내부 기술을 만든 그는 GTA 6의 북적이는 인파가 다른 게임들과 아예 다른 체급이라고 봤다."
-          },
-          {
-            "t": "p",
-            "x": "발단은 GTA 6의 군중 밀도를 Hitman의 역시 인상적인 군중과 비교하며 깎아내린 트윗이었다. Dursun은 답글에서 Rockstar의 신작에서는 \"모든 캐릭터가 개별적으로 시뮬레이션된다\"고 설명했다. 적어도 지금까지 공개된 화면으로 보면 그렇다는 단서를 달았다."
-          },
-          {
-            "t": "p",
-            "x": "이건 Hitman이나 Assassin's Creed가 군중을 다루는 방식과 다르다. 그런 게임에서 NPC 대부분은 그 밑에 AI 프로그래밍도, 일과도, 행동도 돌아가지 않는다. 군중이 최대한 붐벼 보이도록 동작을 반복할 뿐이다."
-          },
-          {
-            "t": "p",
-            "x": "\"그리고 이 규모에서 시뮬레이션을 해낸다는 건 그들이 업계보다 최소 10년은 앞서 있다는 뜻입니다.\" Dursun이 이어 말했다. GamesRadar+가 사실 확인을 거친 기계 번역 트윗이다."
-          },
-          {
-            "t": "p",
-            "x": "\"이 수준의 시뮬레이션을 하는 가장 가까운 게임이라면 Mount & Blade 2: Bannerlord 정도일 겁니다.\" 공교롭게도 Dursun 자신이 제작에 참여한 작품이다."
-          },
-          {
-            "t": "p",
-            "x": "경쟁 스튜디오에서 군중을 직접 구현해 본 엔지니어의 진단이라는 점이 이 말의 무게를 만든다. 생성형 지름길이 아니라 시뮬레이션의 깊이를 가리키고 있다는 점도 그렇다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-aws-studio-ai-ops",
-      "eyebrow": "AI NEWS",
-      "headline": "모델 데모와 출시 사이에\n남는 운영 문제",
-      "mini_headline": "데모와 출시 사이",
-      "body": "AWS의 Huang Zhoubin은 데모와 출시 사이에 놓인 인프라와 워크플로 문제를 짚는다.",
-      "tool": "Games",
-      "source": "PocketGamer.biz",
-      "url": "https://www.pocketgamer.biz/ai-powering-the-global-engine-for-game-studios/",
-      "og_image": "https://media.pocketgamer.biz/images/141035/89679/screenshot-2026-08-24-at-120513_l1200.jpg",
-      "published_iso": "2026-08-28T13:00:00Z",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media.pocketgamer.biz/images/141035/89679/screenshot-2026-08-24-at-120513_l1200.jpg",
-            "cap": "AI powering the global engine for game studios"
-          },
-          {
-            "t": "p",
-            "x": "Amazon Web Services의 게이밍 솔루션 아키텍트 시니어 매니저 Huang Zhoubin이 게임 개발에서 AI가 맡은 자리를 정리했다. AWS가 직접 낸 기고문이라는 점은 감안하고 읽을 만하다. 지난 3년 사이 AWS 업무의 무게추도 스튜디오의 AI 운용을 돕는 쪽으로 옮겨왔다."
-          },
-          {
-            "t": "p",
-            "x": "Omdia의 최근 분석에서 중국 게임 개발사의 73%가 AI를 상업적 경쟁력 유지에 필수라고 답했다. 현장 체감은 더 높아 80~90%가 이미 프로덕션 파이프라인에 AI를 넣었다는 게 Huang의 설명이다. 도입 여부가 아니라 실행의 장벽을 어떻게 넘느냐가 주제가 됐다."
-          },
-          {
-            "t": "p",
-            "x": "기반 모델을 실제 개발 환경으로 옮기는 데는 뚜렷한 걸림돌이 있다. 범용 LLM은 스튜디오의 IP나 알고리즘 페이싱, 플레이어를 붙드는 설계 감각을 모른다. 컨텍스트 윈도 제약 탓에 수백만 줄짜리 레거시 코드를 품은 엔진을 통째로 넣을 수도 없다."
-          },
-          {
-            "t": "p",
-            "x": "창작 쪽은 Stable Diffusion과 ComfyUI에서 Flux 같은 상위 기반 모델로 무게가 옮겨갔다. 개발 쪽에서는 AI 코딩이 업계 AI 처리 용량을 가장 많이 잡아먹는 항목이 됐다. 진짜 가속은 코드 자동완성 너머에 있다는 게 요지다."
-          },
-          {
-            "t": "p",
-            "x": "하나는 코드베이스 이해의 문턱을 낮추는 일이다. 게임은 문서가 따라잡지 못할 속도로 코드가 바뀐다. 읽기 권한을 준 에이전트를 두면 프로듀서와 라이브옵스, 커뮤니티 담당자가 비즈니스 로직을 직접 물어 실시간 밸런스 값을 확인한다. 다른 하나는 파이프라인 통합. AI가 CI 안에서 문서화와 회귀 테스트, 빌드 검증을 맡는다."
-          },
-          {
-            "t": "p",
-            "x": "Huang은 거대한 단일 AI를 스튜디오 전체 파이프라인에 얹는 방식이 좀처럼 통하지 않는다고 본다. 대신 작업을 경계가 뚜렷한 영역으로 쪼개 머티리얼 생성에 하나, 디버깅에 또 하나, 시스템 테스트에 다시 하나를 붙인다. 각 모델이 좁은 컨텍스트 안에서만 움직이니 사고가 흐트러지지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "이를 규모 있게 굴리려고 AWS는 Agent Communication Protocol(ACP) 기반 플랫폼을 만들었다. 표준 프로토콜로 새 에이전트를 붙이면 플랫폼이 알아서 맞는 작업을 넘긴다. 통합 코드는 필요 없다. 마케팅에서도 같은 구조가 크리에이티브 생성부터 광고 집행, 예산 배분까지 캠페인 전체를 돌린다."
-          },
-          {
-            "t": "p",
-            "x": "사례도 붙었다. 한 스튜디오는 AWS에 중앙 애셋 관리 데이터베이스를 세우고 매달 수만 개의 광고 영상으로 A/B 테스트를 돌린다. 초기에는 IP 디자인 기준을 통과하지 못했지만, 자사 소재 라이브러리로 모델을 파인튜닝한 뒤 하루 최대 10만 개의 IP 준수 애셋을 뽑는 파이프라인이 됐다."
-          },
-          {
-            "t": "p",
-            "x": "베이징의 한 캐주얼 게임 개발사는 매치3의 난이도 곡선을 맞추는 병목을 AI 자동 테스트로 풀었다. 새 레벨에서 플레이어 행동을 시뮬레이션해 수동 플레이테스트를 대체했더니 레벨 테스트 효율이 20배가 됐다."
-          },
-          {
-            "t": "p",
-            "x": "일간 수백만 명이 쓰는 UGC 플랫폼은 자연어로 장면과 3D 오브젝트, 인터랙션을 만드는 도구를 얹고 그 아래를 AWS의 GPU 클러스터가 받친다. 유럽과 중동, 동남아가 섞이는 매치메이킹에서는 실시간 음성 번역과 보정 모델이 보이스 채팅을 다듬는다."
-          },
-          {
-            "t": "p",
-            "x": "결론은 인프라다. 실시간 절차적 내러티브 엔진을 만들든 내부 워크플로를 다듬든 필요한 건 결국 확장되는 클라우드다. Omdia 독립 조사에서 AWS는 글로벌 게임 산업의 선도 클라우드 플랫폼 자리를 지켰다."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "games",
+ "cards": [
+  {
+   "id": "games-how-dream-racers-uses",
+   "eyebrow": "AI NEWS",
+   "headline": "프롬프트 세 단어가 카트가 되는\nRoblox 레이싱 게임이 나왔다",
+   "mini_headline": "세 단어로 만드는 카트",
+   "body": "플레이어가 고른 형용사 세 개를 Cube AI가 3D 카트로 만들어 경주에 태운다.",
+   "tool": "Games",
+   "source": "GamesBeat",
+   "url": "https://gamesbeat.com/how-dream-racers-uses-robloxs-cube-ai-to-generate-playable-vehicles-in-real-time-exclusive/",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
+   "published_iso": "2026-09-01T16:00:00Z",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
+      "cap": "Roblox 신작 Dream Racers"
+     },
+     {
+      "t": "p",
+      "x": "Roblox가 생성형 AI를 플랫폼 위 경험의 핵심 게임플레이 루프 안으로 직접 끌어들인다."
+     },
+     {
+      "t": "p",
+      "x": "9월 1일 크리에이터 스튜디오 Studsy가 내놓은 Dream Racers는 카트 레이싱 게임이다. Roblox의 생성형 AI 도구 Cube로 플레이어마다 다른 차량을 실시간으로 만들어 낸다. 프롬프트 창에 몇 단어를 넣으면 “Trumpet Mouse Floral Kart”나 “Skeleton Parrot Mule Kart” 같은 엉뚱한 탈것이 나온다. Studsy 창업자 Kaya-kii “Delus” Ndlovu는 GamesBeat 인터뷰에서 Roblox의 4D AI 기술을 새 경험에 넣을 기회가 자기 스튜디오와 Roblox Innovation Studio의 협업에서 나왔다고 말했다."
+     },
+     {
+      "t": "p",
+      "x": "“개발에 Cube AI를 쓰지는 않았다. 이번 접근은 그걸 게임플레이 자체에 어떻게 넣을지 찾는 일이었다.” Ndlovu의 설명이다. “플레이어가 카트를 설명할 형용사 세 개를 고르면, Roblox에 들어 있는 Cube AI가 그 세 단어로 3D 카트 모델을 만들고, 플레이어는 그 카트로 경주를 한다.”"
+     },
+     {
+      "t": "p",
+      "x": "차량마다 다른 성질은 “word shop”이라 부르는 선별된 단어 목록에서 형용사 세 개를 골라 조합한다. 프롬프트가 겉모습만 바꾸지는 않는다. 고른 단어에 따라 카트의 물리와 게임플레이 수치가 달라진다. Ndlovu는 앞으로 생성형 AI를 게임플레이에 더 깊이 넣겠다고 했다."
+     },
+     {
+      "t": "p",
+      "x": "“한 플레이어가 불 테마 카트를 만들고 다른 플레이어가 얼음 테마 카트를 갖고 있으면, 둘 사이에 어떤 충돌이 생기는 식이다.”"
+     },
+     {
+      "t": "p",
+      "x": "Roblox는 2025년 3월 Cube AI 3D 제작 도구를 처음 알렸고, 2026년 2월에는 AI가 만든 오브젝트를 게임 월드에 실시간으로 넣게 하면서 4D 생성으로 넓혔다. Dream Racers는 Cube AI를 게임플레이에 직접 붙인 첫 Roblox 경험 가운데 하나다."
+     },
+     {
+      "t": "p",
+      "x": "Roblox Innovation Studio를 이끄는 Morgan Tucker는 GamesBeat에 보낸 서면에서 “우리가 만들 수 있는 가장 강력한 기능은 아이디어와 그 실현 사이의 마찰을 없애는 것”이라고 했다. “자연어 창작이 창작자의 손에서 해내는 일이 그것이다. Cube Foundation Model이 구동하는 4D 생성을 게임에 넣으면서 Studsy는 상호작용이라는 결정적 차원을 더했다. 게임 속 오브젝트가 플레이어의 기대대로 움직이니, 좋은 게임을 만드는 예상 밖의 순간에 집중할 수 있다.”"
+     },
+     {
+      "t": "p",
+      "x": "Studsy가 Dream Racers 개발에 Cube AI를 쓰지는 않았지만, Ndlovu는 언젠가 3D 아트를 전부 이 도구로 만들 수 있는 수준까지 간다고 봤다. 형용사 세 개짜리 프롬프트로 무기를 만들어 싸우는 배틀그라운드 게임을 비롯해, 생성형 AI를 직접 붙이는 장르와 형식 실험을 이어가겠다고 했다."
+     },
+     {
+      "t": "p",
+      "x": "“이게 모두에게 열렸을 때 다른 개발자들이 플랫폼에서 어떤 식으로 쓸지 상상하면 재밌다.”"
+     }
+    ]
+   }
+  },
+  {
+   "id": "games-nimble-fox-launches-ai",
+   "eyebrow": "AI NEWS",
+   "headline": "Unity 에디터 안에서 프롬프트로\n게임을 고치는 도구가 9월 7일 나온다",
+   "mini_headline": "Unity 에디터 코파일럿",
+   "body": "9월 7일 나올 Nimble Fox는 Unity 프로젝트를 읽고 기능별로 고친다.",
+   "tool": "Games",
+   "source": "GamesBeat",
+   "url": "https://gamesbeat.com/nimble-fox-launches-ai-tool-for-building-unity-games-worldwide/",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
+   "published_iso": "2026-08-31T20:41:09Z",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
+      "cap": "Unity 에디터에 붙는 Nimble Fox"
+     },
+     {
+      "t": "p",
+      "x": "헬싱키의 한 스타트업이 원하는 걸 말로 설명하면 Unity 개발자가 게임을 만들 수 있는 AI 코파일럿을 내놨다."
+     },
+     {
+      "t": "p",
+      "x": "Nimble Fox는 9월 7일 이 도구를 일반에 공개한다. 개발자는 게임 엔진 안에서 바로 프롬프트를 넣어 게임을 만들고 고친다. 출시 시점에 무료 요금제와 유료 요금제가 함께 열린다."
+     },
+     {
+      "t": "p",
+      "x": "게임 하나를 한 번에 통째로 뽑는 방식은 아니다. 게임플레이 메커닉이나 UI 흐름처럼 범위가 정해진 변경을 기능 단위로 하나씩 쌓는다. Unity 에디터에 들어가 기존 프로젝트의 맥락을 읽고, 자연어 프롬프트로 이미 있는 코드와 아트, 에셋을 손보거나 없는 것을 새로 만든다. 투자사는 Sisu Game Ventures, Wave Ventures, First Fellow Partners다."
+     },
+     {
+      "t": "p",
+      "x": "창업자이자 CEO인 Jonne Myöhänen은 게임 아이디어 하나를 플레이할 수 있는 형태로 만드는 데 걸리는 시간에 지쳐 이 프로젝트를 시작했다. “게임 아이디어는 많았지만 프로토타이핑에만 몇 달을 쓰고 싶지 않았다.” 보도자료에 담긴 말이다. “더 빠른 창작 출구로 Nimble Fox를 만들기 시작했다.”"
+     },
+     {
+      "t": "p",
+      "x": "2025년 가을 Aalto Entrepreneurship Society의 Ignite 액셀러레이터에서 우승하면서 프로젝트는 회사가 됐다. 이후 투자 라운드를 마쳤고, 헬싱키에 여섯 명 상근 팀을 꾸렸으며, Business Finland의 R&D 보조금도 받았다."
+     },
+     {
+      "t": "p",
+      "x": "Myöhänen은 코드 생성 그 이상을 노린다고 했다. “AI가 그냥 코드를 만드는 것보다 훨씬 큰 기회가 있다고 본다.” 그의 말이다. “쓸모 있는 부분은 코드를 쓰는 게 아니라, 요청 하나를 게임 안에서 실제로 작동하는 무언가로 바꾸는 데 필요한 작업을 AI가 Unity 프로젝트 전반에서 처리하는 것이다.”"
+     },
+     {
+      "t": "p",
+      "x": "이 도구는 개발자와 스튜디오가 시간을 유독 많이 잡아먹는다고 꼽는 작업을 중심으로 짜였다. 창작 통제권을 개발자에게서 떼어내지 않으면서 수작업만 줄이는 게 목표다. 회사는 개별 스튜디오의 대형 게임에 맞춘 전용 버전도 살펴본다. 기능 요청을 받아 그 스튜디오 프로젝트 안에서 작동하는 첫 버전을 직접 구현하는 식이다."
+     },
+     {
+      "t": "p",
+      "x": "Myöhänen은 핀란드 초기 창업자들을 위한 Silta Program으로 지금 샌프란시스코에 머문다. 9월 7일 공개를 앞두고 미국 시장에 Nimble Fox를 소개하려고 게임 스튜디오들을 만나는 중이다."
+     },
+     {
+      "t": "p",
+      "x": "출시에 맞춰 9월 4일부터 6일까지 헬싱키와 온라인에서 48시간 하이브리드 행사 Nimble Game Jam이 열린다. 참가자는 잼 기간 동안 Nimble Fox를 무료로 쓰며 주말 내내 게임을 만든다. 심사위원은 Samuli Syvähuoko, Jonne Taivassalo, Ignacio Amaya다."
+     },
+     {
+      "t": "p",
+      "x": "회사는 고객 피드백과 기술이 가장 값어치를 내는 작업 흐름을 보고 도구를 계속 다듬겠다고 보도자료에서 밝혔다. Nimble Fox의 자리는 범용 코드 생성기 대신 특정 게임 엔진에 맞춘 AI 도구를 만드는 스타트업 무리 사이다. 스튜디오들이 창작 결정을 자동화에 넘기지 않으면서 제작 속도를 올릴 길을 찾고 있어서다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "games-nvidia-says-dlss-5",
+   "eyebrow": "AI NEWS",
+   "headline": "Nvidia가 밝힌 DLSS 5의 값은\n평균 프레임 50-60% 하락이다",
+   "mini_headline": "DLSS 5, 프레임 대가",
+   "body": "Nvidia는 DLSS 5가 모든 게임에서 프레임을 50-60% 깎는다고 밝혔다.",
+   "tool": "Games",
+   "source": "PC Gamer",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/E644DNUmDjsb24uWWwKTjm-2560-80.jpg",
+   "published_iso": "2026-09-01T13:01:09Z",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/E644DNUmDjsb24uWWwKTjm-2560-80.jpg",
+      "cap": "Nvidia DLSS 5"
+     },
+     {
+      "t": "p",
+      "x": "솔직히 지난주 Nvidia의 DLSS 5 데모에는 선입견을 품고 들어갔다. 그때까지 나온 이미지가 마음에 들지 않았고, 우리가 아끼는 게임에 이게 무슨 이득을 준다는 건지 미심쩍었다. 체크박스 하나로 끌 수 있다 해도, AI가 손댄 이미지가 취미 안으로 들어온다는 게 영 꺼림칙했다."
+     },
+     {
+      "t": "p",
+      "x": "좋은 소식은 실제 게임 개발자가 설정을 손보고 나면 DLSS 5가 꽤 괜찮아 보인다는 것이다. 아주 나쁜 소식은 Nvidia가 지금 DLSS 5를 켜면 성능이 50-60% 떨어진다고 말한다는 점이다. 게임을 가리지 않고 전부 그렇다."
+     },
+     {
+      "t": "p",
+      "x": "Nvidia는 불과 6개월 전만 해도 DLSS 5를 돌리려면 RTX 5090 두 장이 필요했다는 점을 강조했다. 그 사이 5배가 좋아졌으니 그건 감안할 만하다. 그래도 프레임이 주저앉는다면 PC 게이밍 커뮤니티가 DLSS 5를 보는 눈이 나아지기는 어렵다."
+     },
+     {
+      "t": "p",
+      "x": "지금까지 Nvidia가 준 기본 성능 차트를 보면, 초고프레임 수치는 6x Multi Frame Generation을 깐 값이다. 작은 RTX 5060이 NBA 2K27을 1080p 울트라에 레이 트레이싱과 DLSS 5를 켜고 258fps로 뽑아내지만, 그 밑에서 실제로 돌아가는 게임은 43fps쯤이다."
+     },
+     {
+      "t": "p",
+      "x": "4K에서는 같은 설정으로 RTX 5090이 평균 370fps, RTX 5080이 평균 233fps를 낸다. 다만 업스케일링을 Performance 단계에 두고, 6x MFG가 다시 한번 무거운 짐을 대신 진 결과다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/Afh7f9ohbNXKRdqDsKNp2Y.jpg",
+      "cap": "Nvidia가 공개한 DLSS 5 성능 차트"
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/LuxmyUpviXizapewzeYowX.jpg",
+      "cap": "DLSS 5 프레임 비교 (자료: Nvidia)"
+     },
+     {
+      "t": "p",
+      "x": "고급 그래픽카드에 수천 달러를 썼다면, 높은 프레임을 얻겠다고 업스케일링과 프레임 생성을 한계까지 밀어 올린 채 게임을 돌리는 그림을 바라지는 않았을 것이다."
+     },
+     {
+      "t": "p",
+      "x": "그래서 DLSS 5가 받아들여지는 데 가장 큰 걸림돌이 정말 AI화인지 헷갈린다. DLSS 5와 AI 전반, 그 갈고리가 취미 곳곳에 파고드는 상황을 두고 나도 깊고 어두운 걱정이 있다. 다만 이 기술이 프레임을 반으로 잘라 놓는다면 그런 얘기는 다 부질없어진다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "games-dwarf-fortress-creator-calls",
+   "eyebrow": "AI NEWS",
+   "headline": "AI의 진짜 문제는 도구가 아니라\n그걸 쓰라고 강요하는 상사다",
+   "mini_headline": "AI를 강요하는 상사",
+   "body": "Tarn Adams는 AI의 문제로 도구가 아니라 사용을 강요하는 상사를 지목했다.",
+   "tool": "Games",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/dwarf-fortress-tarn-adams-genai-ai-vibe-coding-claude-copilot-2000730266",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "og_image": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
+   "published_iso": "2026-09-01T17:45:43Z",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
+      "cap": "Dwarf Fortress 스크린샷. © Bay 12 Games"
+     },
+     {
+      "t": "p",
+      "x": "“내가 아는 사람들은 다 상사가 서서히 정신증에 빠지고 있다.” 어디에나 들어맞을 법한 말이지만, 지금 게임 업계에 특히 잘 맞는다. Gamescom 기간 PC Gamer와 이야기하던 Dwarf Fortress 제작자 Tarn Adams가 AI라는 지겨운 화제를 두고 한 말이다. “CEO가 버튼 하나 눌러 게임을 만들게 하고, 그러면 일자리도 없는 나머지 사람들이 어떻게든 그걸 사게 만들려는 거다.”"
+     },
+     {
+      "t": "p",
+      "x": "게임 관객 다수가 가장 크고 격하게 반응하는 쪽은 아트, 에셋, 목소리, 사운드를 만드는 생성형 AI다. 정작 가장 널리 쓰이는 자리는 그 밑의 코드다. Steam 고지나 공개 항의는 지금 모든 분야의 코딩이 Claude나 Copilot 같은 도구 손에 얼마나 넘어가 있는지 거의 담지 못한다. 대개는 회사 위계의 직접적인 압박 탓이다. 다시 말해 상사다. 튼튼하고 제대로 도는 코드를 몇 주에 걸쳐 쓸 이유가 뭔가, LLM에 대충 짜맞춰 달라고 하고 돌려보면 되는데. 물론 당장 떠오르는 온갖 이유를 빼면 말이지만."
+     },
+     {
+      "t": "p",
+      "x": "Adams가 상사 얘기를 할 때 가리키는 상황이 이것이다. “그냥 이러는 거다. ‘그래서 커밋에 AI 썼어?’ 그러고는 ‘음, 얘는 좀 마음에 안 드는데’ 한다. ‘아마 기계한테 시키면 되겠지’ 하고.” Adams는 이 장면이 “Dead Kennedys 노래 같은 걸 떠올리게 한다. 늘 똑같은 짓이다. 우리 아버지도 하수처리장에서 잘렸다. 거기 컴퓨터 담당이었는데 사람들이 그 일이 뭔지 몰랐다. 그 회사는 이제 없다. 그러니까 늘 똑같은 짓”이라고 했다."
+     },
+     {
+      "t": "p",
+      "x": "게임만의 일이 아니라 모든 코딩 직군에서 벌어지는 그림이다. 윗선은 AI가 아껴 준다는 시간, 그 새 마법 도구가 가져다줄 온갖 약속을 게걸스럽게 받아먹고, 실현은 불가능한 과제로 직원에게 떠넘긴다. 환각으로 나온 코드를 디버깅하는 데 처음부터 직접 쓰는 것보다 훨씬 오래 걸린다는 현실은 신경 쓰지 않는다. 아무도 전모를 모르는 방식으로 만든 소프트웨어를 나중에 책임져야 한다는 문제도 마찬가지다. 그저 Claude가 더 빠를 테니 얼른 하라는 식이다. 게다가 작년보다 토큰은 백분의 일만 쓰라면서."
+     },
+     {
+      "t": "p",
+      "x": "Tarn Adams는 “지속 가능한 방향으로 가는 것 같지 않다”며 “그냥 한 번 터지고 대가를 치른 다음, 사람들이 다른 무언가를 하지 않는 한 그게 반복될 것 같다”고 말했다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "games-30-years-later-i",
+   "eyebrow": "AI NEWS",
+   "headline": "AI가 거든 PS1 Quake보다\n손으로 짠 옛 포팅이 나았다",
+   "mini_headline": "손으로 짠 쪽이 낫다",
+   "body": "AI가 거든 PS1 Quake 포팅보다 AI를 안 쓴 옛 QuakePSX가 나았다.",
+   "tool": "Games",
+   "source": "GamesRadar+",
+   "url": "https://www.gamesradar.com/hardware/retro/30-years-later-i-finally-got-to-play-quake-on-the-ps1-but-thats-before-i-found-a-better-version-that-doesnt-rely-on-substantial-ai-assistance/",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/DRr2MjfGwEffDEDE78LQnC-1920-80.jpg",
+   "published_iso": "2026-09-01T13:59:55Z",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/DRr2MjfGwEffDEDE78LQnC-1920-80.jpg",
+      "cap": "PS1으로 돌린 Quake"
+     },
+     {
+      "t": "p",
+      "x": "Quake 데모가 들어 있는 새 PS1 홈브루를 우연히 발견하고, 드디어 소니 콘솔에서 이 슈터를 제대로 즐길 방법을 찾았다고 생각했다. DOOM과 달리 이 상징적인 MS-DOS 게임은 90년대 PlayStation 파티에 초대받지 못했다. 그런데 느긋하게 해보겠다는 꿈은 단서 하나에 깨졌다. AI로 만들었다는 것이다."
+     },
+     {
+      "t": "p",
+      "x": "그렇다. 표면 아래 AI가 숨어 있는 또 하나의 인상적인 레트로 콘솔 프로젝트다. 아쉬운 일이다. PSxOxide 데모는 Quake와 함께 Minecraft, Guitar Hero, Rocket League의 PS1 버전 같은 기묘하고 근사한 묶음을 담았고, 플랫포머가 당기면 Celeste Classic도 있다. 다만 그 전부가 AI를 낀 개발에 힘을 실어 준다."
+     },
+     {
+      "t": "p",
+      "x": "데모의 GitHub에서 PSoXide 개발자 EBonura는 “사람의 지시와 하드웨어 검증 아래 상당한 AI 지원”을 받았다고 밝혔다. 코드를 통째로 생성하지는 않았고, 디버깅과 개발 보조에 Claude를 썼다는 얘기다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/NedjBdbThwQFFoQXBkpxLJ.jpg",
+      "cap": "사진: Phil Hayton"
+     },
+     {
+      "t": "p",
+      "x": "한동안 PS1에서 Quake를 돌릴 방법을 찾아보지 않았는데, 알고 보니 PSoXide 데모는 더 오래된 프로젝트를 바탕으로 한 것이었다. QuakePSX라는 그 포팅은 페이지의 날짜로 보아 최소 5년은 됐고, 아홉 달 전에 업데이트를 받았다. 내가 아는 한 이 옛 셰어웨어 포팅은 AI를 쓰지 않는다. 그러니 그쪽은 그냥 해봐도 된다."
+     },
+     {
+      "t": "p",
+      "x": "주말 동안 PSoXide와 원조 QuakePSX 데모를 다 해봤는데, 내가 바라던 쪽에 가까운 건 오히려 후자였다. PS1 마우스를 지원해서 90년대 콘솔에서도 PC에 가까운 감각이 난다는 점이 크다. 프레임도 더 높게 도는 느낌이었지만, 30fps에 한참 못 미치는 수치는 각오해야 한다."
+     },
+     {
+      "t": "p",
+      "x": "덧붙이자면 Quake 포팅을 찾자마자 내 PS1 세팅에 스스로 총을 쐈다. 구운 CD로 슈터를 돌리던 개조 초기형 PlayStation의 셸을 바꿔 끼웠는데, 레이저 정렬이 미세하게 달라지면서 둘 다 제대로 로딩되지 않는다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/gYqUMfk9ZGSKm8yxhX2u5n.jpg",
+      "cap": "투명 PS1은 아름답지만 Quake를 영 싫어한다. 사진: Phil Hayton"
+     },
+     {
+      "t": "p",
+      "x": "TonyHax를 쓰려고 PSxMemCard 같은 최신 액세서리를 들이거나 디스크 드라이브를 XStation SD 카드 ODE 같은 것으로 바꿀 생각이라면 이 점을 기억해 두는 게 좋다. ODE 쪽은 Quake 로딩 씨름을 덜어 주지만, 물리 매체를 살려 두고 싶은 사람으로서 나는 셸 교체가 왜 문제를 일으키는지 파고 있다."
+     },
+     {
+      "t": "p",
+      "x": "불가능해 보이던 포팅이 초기 PS1에 올라오는 날이 가까워지는 느낌이다. 문제는 정공법 대신 AI를 쓰는 프로젝트가 너무 많다는 것이다. 바삭한 콘솔판 Quake를 해보고 싶긴 하지만, 개발이라는 기술을 갉아먹는 도구에 힘을 보태는 일은 피하고 싶다."
+     }
+    ]
+   }
+  }
+ ]
 }

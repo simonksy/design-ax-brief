@@ -1,198 +1,152 @@
 {
-  "date": "2026-09-01",
-  "section": "science",
-  "now_iso": "2026-08-31T22:00:35Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "category": "science",
-      "title": "LLM-based platform for generating new materials synthesis recipes dramatically cuts trial and error",
-      "url": "https://phys.org/news/2026-08-llm-based-platform-generating-materials.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-26T14:20:01+00:00",
-      "excerpt": "A Sungkyunkwan University team built a retrieval-augmented LLM platform that mines 4,400+ papers to propose materials synthesis recipes. It iteratively cut synthesis temperature from 600C to 400C and produced a new oxy-selenide solid electrolyte in only a few experiments.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/research-team-develops-1.jpg",
-      "why": "A retrieval-augmented LLM that reads the literature and proposes real synthesis recipes is AI moving from prediction into the wet lab's control loop."
-    },
-    {
-      "category": "science",
-      "title": "AI streamlines search for new ceramics that generate electricity",
-      "url": "https://phys.org/news/2026-08-ai-ceramics-generate-electricity.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-31T13:00:10+00:00",
-      "excerpt": "Penn State researchers paired large language models with human expertise to hunt for piezoelectric ceramics. The AI-guided framework produced a potassium sodium niobate composite with a charge constant near 620 pC/N, demonstrated in a working energy harvester.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-streamlines-search.jpg",
-      "why": "LLM-plus-expert search producing a measurably better piezoelectric ceramic shows the human-in-the-loop pattern that most materials labs can actually copy."
-    },
-    {
-      "category": "science",
-      "title": "Scientists put algae to work making fuel. AI reveals which cells are pulling their weight",
-      "url": "https://phys.org/news/2026-08-scientists-algae-fuel-ai-reveals.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-31T19:00:01+00:00",
-      "excerpt": "Northeastern University researchers use AI with the ARTiMiS imaging platform to watch individual algae cells during lipid production for biofuel. Cell-level readouts of size, shape and texture let the team tune temperature and nutrients to optimize output at scale.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/blue-green-algae.jpg",
-      "why": "Cell-by-cell AI imaging turns a bulk bioprocess into something steerable, a template for AI as a real-time process instrument rather than an analysis afterthought."
-    },
-    {
-      "category": "science",
-      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-08-27T00:00:00+00:00",
-      "excerpt": "Washington State University researchers used AI to search more than 100 million possible settings for 3D-printing NASA's GRCop-42 alloy. After just 40 experiments the system found six working configurations, one at a record-low 500 watts, opening the alloy to far more common printers.",
-      "og_image": "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp",
-      "why": "Forty experiments to find six working recipes out of 100 million options is a concrete number for how much AI compresses experimental search."
-    },
-    {
-      "category": "science",
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-08-20T11:42:39-04:00",
-      "excerpt": "An argument that framing AI systems as potentially conscious shifts the scientific conversation in ways that shield their builders. If models are treated as too advanced to control, the companies making them are harder to hold liable for harms.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
-      "why": "Reframes the AI-consciousness question as a governance problem, which matters for how research and liability get argued in the next year."
-    },
-    {
-      "category": "science",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-08-26T05:00:00-04:00",
-      "excerpt": "Seven puzzles and games drawn from cognitive-science benchmarks expose where today's models still fail. The set doubles as a hands-on look at how researchers actually measure machine reasoning against human reasoning.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
-      "why": "Hands-on cognitive-science benchmarks make the gap between machine and human reasoning legible instead of abstract."
-    },
-    {
-      "category": "science",
-      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-      "source": "Google Research",
-      "published_iso": "2026-08-31T17:19:40+00:00",
-      "excerpt": "Google Research released TimesFM-3, a time-series foundation model that forecasts multivariate signals zero-shot, without task-specific training. It targets scientific and operational forecasting workloads from climate to health monitoring.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "why": "A zero-shot multivariate forecasting foundation model gives scientific and health teams a strong baseline without training anything."
-    },
-    {
-      "category": "science",
-      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-      "source": "Google Research",
-      "published_iso": "2026-08-21T17:02:24+00:00",
-      "excerpt": "Google Research describes an AI pipeline that sifts continuous wearable-sensor streams to surface candidate digital biomarkers for study. The tool is aimed at cutting the hypothesis-search cost in large longitudinal health cohorts.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "why": "Automating biomarker hypothesis search over wearable streams changes what a longitudinal health study can realistically explore."
-    },
-    {
-      "category": "science",
-      "title": "How mobility gives language models a deeper understanding of place",
-      "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-      "source": "Google Research",
-      "published_iso": "2026-08-21T10:54:00+00:00",
-      "excerpt": "Researchers grounded language models in aggregated human-mobility data so that models reason about places the way geographers do. The approach improves geospatial question answering and urban-science analysis.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "why": "Grounding language models in mobility data is a clean example of giving an LLM a genuinely non-text scientific prior."
-    },
-    {
-      "category": "science",
-      "title": "IonQ Researchers Run MegaQuOp-Scale Quantum Error Decoder on a MacBook Pro",
-      "url": "https://thequantuminsider.com/2026/08/31/ionq-researchers-run-megaquop-scale-quantum-error-decoder-on-a-macbook-pro/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-08-31T11:46:09+00:00",
-      "excerpt": "IonQ researchers report decoding simulated MegaQuOp-scale quantum workloads on a consumer MacBook Pro. The result suggests real-time error decoding may not need the dedicated hardware stacks previously assumed.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-7.35.29-AM.png",
-      "why": "If MegaQuOp-scale decoding runs on a laptop, the classical-hardware assumption baked into fault-tolerance roadmaps loosens."
-    },
-    {
-      "category": "science",
-      "title": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination",
-      "url": "https://www.genengnews.com/topics/infectious-diseases/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/",
-      "source": "GEN - Genetic Engineering & Biotechnology News",
-      "published_iso": "2026-08-20T18:53:21+00:00",
-      "excerpt": "Machine learning applied to sentinel antibody profiling identified a pre-existing antimicrobial antibody signature that predicts how strongly a person responds to vaccination. The finding could guide vaccine development and care for people at risk of weak immune responses.",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Low-Res_labaer-cell-press-asu-banner.jpg",
-      "why": "ML on antibody profiles predicting who responds to a vaccine is AI producing a clinically actionable signature, not just a score."
-    },
-    {
-      "category": "science",
-      "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
-      "source": "Live Science",
-      "published_iso": "2026-08-29T11:00:00+00:00",
-      "excerpt": "Researchers describe a reasoning architecture that departs from standard chain-of-thought scaling and claims up to 11x lower inference cost than a leading OpenAI model. If it holds up, cheaper reasoning changes what research groups can afford to run.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg",
-      "why": "An 11x cheaper reasoning architecture would change which labs can afford to run reasoning models at research scale."
-    },
-    {
-      "category": "science",
-      "title": "The physics of novel computation: beyond bits and chips to spikes and spins",
-      "url": "https://physicsworld.com/a/the-physics-of-novel-computation-beyond-bits-and-chips-to-spikes-and-spins/",
-      "source": "Physics World",
-      "published_iso": "2026-08-19T14:30:49+00:00",
-      "excerpt": "Sidney Perkowitz surveys physics-inspired alternatives to conventional computing - neuromorphic spikes, spintronics and analog substrates - as AI's energy demand outruns silicon. The piece maps which approaches are closest to real scientific workloads.",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/2026-08-perkowitz-server-room-data-centre-1415677219-istock-imaginima.jpg",
-      "why": "Maps the physics-based computing substrates being proposed as AI's energy demand outgrows silicon."
-    },
-    {
-      "category": "science",
-      "title": "Shared-memory AI system lets microscope components coordinate in real time",
-      "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
-      "source": "TechXplore",
-      "published_iso": "2026-08-28T19:40:04+00:00",
-      "excerpt": "HHMI Janelia researchers, working with Anthropic, built the Model Hardware Standard so microscope components share one memory pool instead of passing messages through separate controllers. Setup time dropped from months to days and AI agents can now watch and adjust experiments live.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/shared-memory-ai-syste.jpg",
-      "why": "A shared-memory standard that lets AI agents steer microscope hardware live is exactly the plumbing self-driving labs have been missing."
-    },
-    {
-      "category": "science",
-      "title": "How AI could uncover the hidden ways people work together",
-      "url": "https://techxplore.com/news/2026-08-ai-uncover-hidden-ways-people.html",
-      "source": "TechXplore",
-      "published_iso": "2026-08-28T11:00:05+00:00",
-      "excerpt": "Stanford researchers are training a transformer-based 'large coordination model' on anonymized calendars and emails to predict sequences of workplace events. It aims to spot organizational bottlenecks and simulate structural changes before anyone reorganizes.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/work-together.jpg",
-      "why": "A transformer trained on calendars and email to predict organizational events is social science borrowing the LLM playbook wholesale."
-    },
-    {
-      "category": "science",
-      "title": "Researcher explores what consciousness really means-and whether it might one day emerge in a machine",
-      "url": "https://techxplore.com/news/2026-08-explores-consciousness-day-emerge-machine.html",
-      "source": "TechXplore",
-      "published_iso": "2026-08-31T14:00:05+00:00",
-      "excerpt": "Neuroscientists Ulysse Klatzmann and Adrien Doerig ask whether subjective experience requires biological matter or only certain computational functions. They stay agnostic on machine consciousness, arguing intuitions about it must be treated with caution.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/conscious-ai.jpg",
-      "why": "Two neuroscientists lay out what would actually have to be true for machine consciousness, cutting through the usual hand-waving."
-    },
-    {
-      "category": "science",
-      "title": "Generating scenarios for extreme events, without extreme data",
-      "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
-      "source": "MIT News",
-      "published_iso": "2026-08-24T18:00:00+00:00",
-      "excerpt": "MIT engineers built a model that predicts plausible extreme events - an extreme storm's likely duration, intensity and footprint - without having seen previous extreme events. It attacks the core data-scarcity problem in climate and risk modeling.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-ExtremeLearning-01-press.jpg",
-      "why": "Generating plausible extreme events without having observed any attacks the central data-scarcity problem in climate and risk modeling."
-    },
-    {
-      "category": "science",
-      "title": "NASA just used satellites and debris to navigate without GPS",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-08-26T00:00:00+00:00",
-      "excerpt": "NASA's FALCON system let satellites fix their position by treating other spacecraft and orbital debris as landmarks, with no GPS. In three days it autonomously improved the known orbits of more than 200 space objects.",
-      "og_image": "https://www.sciencedaily.com/images/1920/nasa-starling-swarm-mission.webp",
-      "why": "Autonomous orbit determination from debris landmarks is on-board machine autonomy doing real astrometry in flight."
-    },
-    {
-      "category": "science",
-      "title": "New AI method can support real-time management of infectious diseases",
-      "url": "https://medicalxpress.com/news/2026-08-ai-method-real-infectious-diseases.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-08-31T15:20:00+00:00",
-      "excerpt": "INRAE researchers applied neural posterior estimation, a deep-learning inference technique, to phylodynamic models of outbreak spread using 72 Ebola genomes. It calibrates epidemiological models far faster and across mixed data types, opening the door to real-time outbreak monitoring.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-method-can-supp.jpg",
-      "why": "Deep-learning simulation-based inference makes epidemic models fast enough to run during an outbreak rather than after it."
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "science",
+ "now_iso": "2026-09-01T22:05:00Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "New AI model maps the ion binding sites that control how proteins work",
+   "url": "https://phys.org/news/2026-09-ai-ion-sites-proteins.html",
+   "source": "Phys.org",
+   "published_iso": "2026-09-01T17:40:02Z",
+   "excerpt": "Constructor University and Constructor Labs built BiteNetI, a deep-learning model that locates binding sites for 14 biologically important ion types directly in 3D protein structures in seconds, reporting two- to threefold higher accuracy than most existing predictors including DeepMind's AlphaFold 3.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-maps-the.jpg",
+   "category": "science"
+  },
+  {
+   "title": "AI tool detects unusual satellite behavior to improve space safety",
+   "url": "https://phys.org/news/2026-09-ai-tool-unusual-satellite-behavior.html",
+   "source": "Phys.org",
+   "published_iso": "2026-09-01T17:00:06Z",
+   "excerpt": "A new AI model monitors satellites and flags anomalies in their orbital behavior, cutting the risk of in-orbit collisions, according to research published in the journal Expert Systems.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-tool-detects-unusua.jpg",
+   "category": "science"
+  },
+  {
+   "title": "LLM-based platform for generating new materials synthesis recipes dramatically cuts trial and error",
+   "url": "https://phys.org/news/2026-08-llm-based-platform-generating-materials.html",
+   "source": "Phys.org",
+   "published_iso": "2026-08-26T14:20:01Z",
+   "excerpt": "A Sungkyunkwan University-led team with Ajou University and MIT built an LLM-driven platform that reads the materials literature and proposes synthesis recipes, sharply reducing the trial-and-error loop in new-material fabrication.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/research-team-develops-1.jpg",
+   "category": "science"
+  },
+  {
+   "title": "A new kind of AI that does its thinking cheaply without words",
+   "url": "https://techxplore.com/news/2026-09-kind-ai-cheaply-words.html",
+   "source": "Tech Xplore",
+   "published_iso": "2026-09-01T17:08:46Z",
+   "excerpt": "Researchers describe a model that reasons in latent space instead of generating chains of words, an approach that could cut the computing power and cost of reasoning models by a large factor.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-ai-that-1.jpg",
+   "category": "science"
+  },
+  {
+   "title": "Digital brain twins hinge on what living brains reveal, not computing power alone",
+   "url": "https://techxplore.com/news/2026-09-digital-brain-twins-hinge-brains.html",
+   "source": "Tech Xplore",
+   "published_iso": "2026-09-01T16:00:10Z",
+   "excerpt": "University of Warwick researchers argue that the fidelity of a human-brain digital twin is limited less by compute than by how much of the living brain can actually be measured, validated and updated over time.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-close-are-we-to-bu.jpg",
+   "category": "science"
+  },
+  {
+   "title": "Shared-memory AI system lets microscope components coordinate in real time",
+   "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
+   "source": "Tech Xplore",
+   "published_iso": "2026-08-28T19:40:04Z",
+   "excerpt": "A Janelia postdoc studying neuronal communication hit the same problem in his instrument: the parts of his custom microscope could not talk to each other. The fix is a shared-memory AI layer that lets microscope components coordinate live during an experiment.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/shared-memory-ai-syste.jpg",
+   "category": "science"
+  },
+  {
+   "title": "Quantum-Classical Software Tests New Approach to Protein Folding",
+   "url": "https://thequantuminsider.com/2026/09/01/quantum-classical-software-tests-new-approach-to-protein-folding/",
+   "source": "The Quantum Insider",
+   "published_iso": "2026-09-01T09:05:00Z",
+   "excerpt": "Researchers released QuPepFold, a hybrid quantum-classical software package for exploring low-energy structures of short peptides, testing whether quantum hardware can add anything to the protein-folding stack.",
+   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/quantumprotein-1024x479.png",
+   "category": "science"
+  },
+  {
+   "title": "QC Ware and IonQ Demonstrate Hybrid Quantum Chemistry Workflow for Drug Discovery",
+   "url": "https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/",
+   "source": "The Quantum Insider",
+   "published_iso": "2026-09-01T12:59:34Z",
+   "excerpt": "QC Ware and IonQ ran an end-to-end hybrid quantum chemistry workflow using the Promethium simulation platform and IonQ Forte hardware, aimed at drug-discovery calculations.",
+   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-01_17-58.png",
+   "category": "science"
+  },
+  {
+   "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
+   "source": "Live Science",
+   "published_iso": "2026-08-29T11:00:00Z",
+   "excerpt": "Researchers say a new reasoning architecture costs up to 11 times less to run than a leading OpenAI model while matching it on benchmark tasks, a shift with direct consequences for compute-bound research labs.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg",
+   "category": "science"
+  },
+  {
+   "title": "Are We Thinking Correctly About AI Intelligence?",
+   "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+   "source": "Quanta Magazine",
+   "published_iso": "2026-08-20T14:04:40Z",
+   "excerpt": "Computer scientist Melanie Mitchell discusses why artificial intelligence doesn't 'think' or 'reason' like humans, and how researchers could build better methods for measuring machine cognition.",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg",
+   "category": "science"
+  },
+  {
+   "title": "Does Computer Science Need Computers?",
+   "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+   "source": "Quanta Magazine",
+   "published_iso": "2026-08-28T13:30:34Z",
+   "excerpt": "The theoretical side of computer science doesn't require computing machines at all — but many of its deepest questions would never have been posed without them.",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Social.jpg",
+   "category": "science"
+  },
+  {
+   "title": "Mapping global methane emissions from space with deep learning",
+   "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+   "source": "Google Research",
+   "published_iso": "2026-09-01T00:00:00Z",
+   "excerpt": "Google Research describes a deep-learning pipeline that turns satellite spectra into global methane emission maps, detecting plumes and attributing them to sources at planetary scale.",
+   "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+   "category": "science"
+  },
+  {
+   "title": "How AI plotted an interstellar journey to Alpha Centauri",
+   "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+   "source": "MIT Technology Review",
+   "published_iso": "2026-09-01T19:10:36Z",
+   "excerpt": "The Fermi Explorer Mission plans to launch a spacecraft toward our nearest star by the end of 2029, using a gravity-assist trajectory discovered by an AI search rather than by human mission planners.",
+   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
+   "category": "science"
+  },
+  {
+   "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer's, Parkinson's and MND",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+   "source": "ScienceDaily",
+   "published_iso": "2026-08-20T02:01:27Z",
+   "excerpt": "Researchers used computational design to turn ordinary antibodies into tiny disease-fighting molecules that fold and function inside human cells, opening potential paths for Alzheimer's, Parkinson's, Huntington's and motor neurone disease.",
+   "og_image": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
+   "category": "science"
+  },
+  {
+   "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+   "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+   "source": "ScienceDaily",
+   "published_iso": "2026-08-30T14:08:13Z",
+   "excerpt": "IBM and University of Chicago researchers completed a quantum computation that leading classical methods could not practically reproduce, using 70 error-corrected logical qubits and finishing in roughly 15 minutes with statistical evidence the result was reliable.",
+   "og_image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+   "category": "science"
+  },
+  {
+   "title": "AI biotech Insitro's Daphne Koller on how to speed up clinical trials",
+   "url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/",
+   "source": "STAT News",
+   "published_iso": "2026-08-26T13:46:40Z",
+   "excerpt": "Insitro CEO Daphne Koller on where machine learning actually shortens the drug-development loop — patient stratification and prognostic models — and where the AI-in-biology story is still overclaimed.",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_Daphne-Koller-1024x576.jpg",
+   "category": "science"
+  }
+ ]
 }

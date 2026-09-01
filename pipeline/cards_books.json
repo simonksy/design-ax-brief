@@ -1,348 +1,248 @@
 {
-  "date": "2026-09-01",
-  "section": "books",
-  "generated_iso": "2026-09-01T00:10:00Z",
-  "cards": [
-    {
-      "id": "books-elsevier-nora-ebook-assistant",
-      "category": "books",
-      "eyebrow": "AI NEWS",
-      "headline": "전자책을 나가지 않고 묻는다\nElsevier의 의료 교재 AI",
-      "mini_headline": "전자책 안의 조수",
-      "body": "전자책을 벗어나지 않고 묻고, Nora는 출판사가 라이선스한 콘텐츠 안에서만 답한다.",
-      "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101137-elsevier-launches-ai-assistant-for-healthcare-e-books.html",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131207-1.JPG",
-      "published_iso": "2026-08-31T12:00:00Z",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131207-1.JPG"
-          },
-          {
-            "t": "p",
-            "x": "Google가 Google Play에서 구입한 전자책을 놓고 Expert Intelligence 구상을 발표했다. 그 며칠 전, Elsevier가 Nora AI를 먼저 내놨다."
-          },
-          {
-            "t": "p",
-            "x": "Nora AI는 VitalSource의 Bookshelf 플랫폼을 거쳐 Elsevier 전자책 안에서 작동하는 AI 조수다."
-          },
-          {
-            "t": "p",
-            "x": "발표문에 따르면 이용자는 질문을 던지고, Elsevier 콘텐츠에서 곧바로 끌어온 근거 기반 답변을 자기에게 맞춘 형태로 받는다."
-          },
-          {
-            "t": "p",
-            "x": "만든 곳은 Elsevier, 겨냥한 자리는 의료 교육 현장이다."
-          },
-          {
-            "t": "p",
-            "x": "학생과 교수자는 전자책을 벗어나지 않은 채 본문을 두고 묻고 답을 얻는다. 화면을 옮길 일이 없다."
-          },
-          {
-            "t": "p",
-            "x": "“의료 교육은 지금 전환점에 서 있습니다. AI가 학생의 학습과 교수자의 수업을 뒷받침할 새로운 길을 열고 있으니까요.” Elsevier 글로벌 헬스케어 교육 부문 사장 Brent Gordon이 성명에서 한 말이다."
-          },
-          {
-            "t": "p",
-            "x": "“Nora AI는 배움의 흐름 안에서 학생에게 제때 도움을 건네고, 교수자에게는 수업을 보완할 믿을 만한 자료가 됩니다.”"
-          },
-          {
-            "t": "p",
-            "x": "기사를 쓴 사람은 Jim Milliot, 날짜는 2026년 8월 31일이다. Publishers Weekly 본문은 이 지점부터 구독자 로그인 뒤로 잠겨 있다. 여기 옮긴 대목이 공개된 전부다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "books-calibre-ai-covers",
-      "category": "books",
-      "eyebrow": "AI NEWS",
-      "headline": "Calibre 9.14, 프롬프트로\n책 표지를 만들어 낸다",
-      "mini_headline": "서재에서 표지 생성",
-      "body": "9.14 버전은 프롬프트로 표지 이미지를 뽑아 서재 안에서 곧바로 갈아 끼운다.",
-      "tool": "Books",
-      "source": "OMG! Ubuntu",
-      "url": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "og_image": "https://www.omgubuntu.co.uk/wp-content/uploads/2026/08/calibre-ai-covers.jpg",
-      "published_iso": "2026-08-28T22:59:40Z",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "오픈소스 전자책 관리 도구 Calibre의 새 버전이 나왔다. 생성형 AI로 책 표지를 만들어 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "8월 28일 공개된 Calibre 9.14는 책 편집기에 ‘AI Generate’ 버튼을 달았다. 새 표지를 뽑아 이미 갖고 있는 책에 그대로 입힌다. 로맨스, SF, 펄프 픽션 같은 스타일 프리셋이 들어 있고, 직접 써 넣어도 된다."
-          },
-          {
-            "t": "p",
-            "x": "쓰려면 이미지 생성을 지원하는 AI 제공자와 API 키를 먼저 등록해야 한다. 처음 눌렀을 때 설정 화면이 순서를 안내한다. Google AI(무료 등급이 있다), Grok, OpenAI, OpenRouter 가운데 고른다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/calibre-AI-cover-1.webp?resize=750%2C394&ssl=1",
-            "cap": "Calibre는 Google AI Studio API 키가 된다고 하는데, 나한테는 안 됐다"
-          },
-          {
-            "t": "p",
-            "x": "좀 이상한 기능인가? 그럴지도."
-          },
-          {
-            "t": "p",
-            "x": "내가 가진 전자책은 대개 표지가 있다. Anna McKane의 『News Writing』 같은 논픽션이 로맨스 소설처럼 다시 그려진 모습은 잠깐 웃기겠지만, “허” 한 번 하고 잊을 일이다. 남겨 둘 생각은 없다. 진짜 표지가 아니니까."
-          },
-          {
-            "t": "p",
-            "x": "이 기능이 붙은 이유는 짐작이 간다. 손재주나 감각이 부족한 사람이 서재에서 마음에 안 드는 표지를—아예 없거나, 있어도 형편없는 표지를—‘고유한’(AI가 만든 것이 고유할 수 있는 만큼) 표지로 바꾸라는 쪽이다."
-          },
-          {
-            "t": "p",
-            "x": "Calibre에는 전부터 ‘표지 만들기’가 있었으니 발상 자체는 새롭지 않다. 예전 방식은 단순하고 틀에 박힌 템플릿을 썼다. AI는 적어도 그 폭을 넓힌다. 다만 이미 나온 작품에 쓰는 건 여전히 어색하다. 잘 알려진 앨범에 자기가 만든 재킷을 씌우는 것처럼, 정본을 건드리는 느낌이 든다."
-          },
-          {
-            "t": "p",
-            "x": "“표지로 책을 판단하지 말라. 다만 AI에게 더 나은 표지를 만들어 달라고 하는 건 괜찮다.” 이런 말이 속담으로 남을 것 같지는 않다."
-          },
-          {
-            "t": "p",
-            "x": "9.14의 다른 AI 관련 변화도 있다. Anthropic과 Grok 백엔드가 추가돼 Claude와 Grok 모델을 쓸 수 있다. GitHub 백엔드는 빠졌다. GitHub Models가 2026년 7월 말에 종료된 뒤의 조치다."
-          },
-          {
-            "t": "p",
-            "x": "오래 남아 있던 리눅스 버그도 잡혔다. 이전 버전에서는 일부 대화 상자의 링크가 눌러도 열리지 않았다. AI 제공자 설정 페이지와 업데이트 알림도 그랬다. v9.14에서 해결됐다."
-          },
-          {
-            "t": "p",
-            "x": "나머지 개선은 이렇다. 태그 편집기 필터에서 é 같은 강세 문자 검색이 되고, 메타데이터 편집기의 표지 미리보기가 남는 자리를 꽉 채우며, 파일 브라우저에서 이미지에 마우스를 올리면 미리보기가 뜬다."
-          },
-          {
-            "t": "p",
-            "x": "버그 수정 쪽도 짚어 둘 만하다. EXIF가 비어 있는 Kindle 잠금화면 표지가 제대로 보이고, 책 5권 넘게 지운 걸 되돌릴 때 진행 막대가 뜬다. 설정 대화 상자에서 보이지 않던 Google AI 검색 체크박스도 고쳤다. 보안 수정은 콘텐츠 서버의 임의 파일 쓰기, 인증 사용자의 원격 코드 실행, 구 책 상세 페이지의 크로스사이트 스크립팅을 막았다."
-          },
-          {
-            "t": "p",
-            "x": "Calibre는 윈도우, macOS, 리눅스에서 쓰는 무료 오픈소스 소프트웨어다. 최신 버전은 공식 사이트에서 받는다. 리눅스에서는 명령줄 스크립트로 설치하고 갱신한다. Flathub에도 올라와 있지만 검증되지 않은 빌드라, Linux Mint에서 소프트웨어 매니저로 찾으려면 unverified sources를 먼저 켜야 한다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "books-ssrs-audiobook-narration-survey",
-      "category": "books",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 낭독과 사람 낭독을\n청취자 1,000명은 구분할까",
-      "mini_headline": "오디오북 블라인드 청취",
-      "body": "청취자 1,000명이 AI 낭독을 가려내는지, 알고 나면 지불 의향이 달라지는지 묻는 조사다.",
-      "tool": "Books",
-      "source": "SSRS",
-      "url": "https://ssrs.com/news/ai-vs-human-audiobook-narration-a-blinded-survey-of-1000-listeners/",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "og_image": "https://ssrs.com/wp-content/uploads/2026/08/audiobook-narration-survey.jpg",
-      "published_iso": "2026-08-31T17:45:35Z",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://ssrs.com/wp-content/uploads/AI-vs.-Human-Audiobook-Narration-A-Blinded-Survey-of-1000-Listeners-600x338.png",
-            "cap": "AI 낭독과 사람 낭독: 청취자 1,000명 블라인드 조사"
-          },
-          {
-            "t": "p",
-            "x": "Edison Research at SSRS가 AI 낭독과 사람 낭독을 다룬 최근 연구 결과를 웨비나로 공개한다. 9월 10일 목요일 미국 동부시간 오후 2시다."
-          },
-          {
-            "t": "p",
-            "x": "조사는 이렇게 짰다. 미국의 픽션 오디오북 청취자 1,000명 이상을 무작위로 두 집단에 나눴다."
-          },
-          {
-            "t": "p",
-            "x": "양쪽 모두 같은 SF 스릴러 오디오북에서 뽑은 대목을 들었다. 한쪽은 성우 한 명이 녹음한 판본, 다른 쪽은 Spoken AI의 멀티캐스트 낭독 판본이었다. 청취자는 어떻게 만든 것인지 모르는 상태에서 먼저 평가했다."
-          },
-          {
-            "t": "p",
-            "x": "발표는 Edison Research at SSRS 부사장 Megan Lazovick이 맡는다. 연구를 의뢰한 Spoken, The AI Audiobook Company™의 창업자 겸 CEO Philip Marshall이 함께 나온다."
-          },
-          {
-            "t": "p",
-            "x": "웨비나에서 풀어놓을 내용은 이렇다. 블라인드 테스트에서 두 낭독 방식이 각각 어떤 성적을 냈는지, 사람 낭독이 가장 높게 평가된 지점과 AI 낭독이 가장 높게 평가된 지점은 어디였는지."
-          },
-          {
-            "t": "p",
-            "x": "청취자가 오디오북 낭독에서 가장 원한다고 밝힌 것은 무엇이고, 그것이 출판사에 어떤 신호인지도 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "AI 낭독이라는 사실을 알려 준 뒤 듣겠다는 마음이 어떻게 달라졌는지, 그리고 AI 낭독 오디오북을 살 의향은 어느 정도인지까지 이어진다."
-          },
-          {
-            "t": "p",
-            "x": "발표가 끝나면 Forté Business Consulting 파트너 Michele Cobb이 질의응답을 진행한다."
-          },
-          {
-            "t": "p",
-            "x": "출판사와 저자, 성우, 오디오 제작자, 마케터에게 때맞춘 자료라는 게 SSRS 쪽 설명이다. 오디오북 낭독을 향한 소비자 기대가 어디로 움직이는지 좇는 사람들 얘기다."
-          },
-          {
-            "t": "p",
-            "x": "Spoken은 저자와 출판사가 여러 목소리로 짜인 오디오북을 기존 제작보다 훨씬 적은 비용과 시간으로 만들도록 돕는다. Spoken Multi-Cast™는 에이전트형 AI와 감정 결이 살아 있는 음성 합성을 겹쳐 인물 중심의 연기를 낸다."
-          },
-          {
-            "t": "p",
-            "x": "저자는 자기 인물만을 위해 만든 AI 목소리를 고르거나, 전문 성우의 목소리를 복제한 AI 음성을 쓸 수 있다. 복제 음성은 쓸 때마다 해당 성우에게 대가가 지급된다."
-          },
-          {
-            "t": "p",
-            "x": "Edison Research at SSRS는 오디오·미디어·트렌드 시장 조사를 하는 곳이다. 미국의 모든 오디오 소비를 한 자료로 재는 Share of Ear®, 미국 팟캐스트 청취를 설문으로 재는 Edison Podcast Metrics™, 1998년부터 이어 온 The Infinite Dial®이 대표 조사다. 미국을 포함해 66개국이 넘는 지역을 다룬다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "books-loc-ai-sandbox",
-      "category": "books",
-      "eyebrow": "AI NEWS",
-      "headline": "공개 서비스에 닿기 전에\n미국 의회도서관의 AI 샌드박스",
-      "mini_headline": "의회도서관 샌드박스",
-      "body": "공개 서비스에 손대기 전, 직원이 컬렉션 업무로 생성형 도구를 시험할 내부 샌드박스를 열었다.",
-      "tool": "Books",
-      "source": "InfoDocket (Library Journal)",
-      "url": "https://www.infodocket.com/2026/08/31/a-secure-environment-to-explore-learn-about-the-ai-sandbox-initiative-for-staff-at-the-library-of-congress/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/08/library-of-congress-ai-sandbox.png",
-      "published_iso": "2026-08-31T15:41:24Z",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.infodocket.com/wp-content/uploads/2026/08/2026-08-31_11-36-47.png"
-          },
-          {
-            "t": "p",
-            "x": "미국 의회도서관 블로그 글을 InfoDocket이 옮겼다. 정리한 사람은 Gary Price, 날짜는 8월 31일이다."
-          },
-          {
-            "t": "p",
-            "x": "2025년, 도서관은 직원용 AI 샌드박스 사업을 시작했다."
-          },
-          {
-            "t": "p",
-            "x": "‘샌드박스’라는 환경은 1970년대 초부터 쓰였다. 시스템에 위험을 주지 않으면서 개발하고 실험할 보호된 공간을 두자는 발상이다."
-          },
-          {
-            "t": "p",
-            "x": "AI 기술이 도서관의 컬렉션과 서비스를 넓히고 풍부하게 만들 여지는 점점 커지고 있다. 다만 실험과 보안이 핵심이라고 도서관은 못 박는다."
-          },
-          {
-            "t": "p",
-            "x": "이런 방법이 여러 자료와 조건에서 실제로 어떻게 굴러가는지 알아보려고, 가장 최근 기수의 AI 샌드박스는 열두 건이 넘는 소규모 실험을 뒷받침했다."
-          },
-          {
-            "t": "p",
-            "x": "팀들은 기술 전문성과 주제 전문성을 함께 넣었다. 도서관 업무 흐름의 실제 요구와 가능성에 초점을 맞춰 실험을 짰다."
-          },
-          {
-            "t": "p",
-            "x": "다룬 자료는 도서관 컬렉션 전반에 걸쳐 있다. 법률 기록과 준비서면, 회람과 규정, 이미지, 낭독 도서, 시청각 자료, 옛 신문의 안내 광고가 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "여기에 웹 아카이브로 수집한 정부 PDF, 그리고 아랍어·페르시아어·그으즈어·터키어·아르메니아어·조지아어·일본어·중국어·히브리어 필사 자료가 더해졌다."
-          },
-          {
-            "t": "p",
-            "x": "어린이·청소년 도서, 음향 녹음, 웹 아카이브 메타데이터, 레코드 주석, 구술사 녹음, 비라틴 문자 단행본, 목록 레코드, 교육 자료와 자원도 대상이었다. 의회도서관 컬렉션 API로 닿을 수 있는 자료가 더 남아 있다."
-          },
-          {
-            "t": "p",
-            "x": "전문은 의회도서관 블로그에 있다. InfoDocket이 실은 것은 중간을 덜어 낸 발췌이고, 여기 옮긴 내용도 그 발췌까지다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "books-getabstract-human-longlist",
-      "category": "books",
-      "eyebrow": "AI NEWS",
-      "headline": "사람이 쓴 몫을 먼저 센다\ngetAbstract 26회 롱리스트",
-      "mini_headline": "사람의 저술을 세다",
-      "body": "롱리스트는 사람의 저술을 앞세우고, 수상작은 10월 8일 프랑크푸르트 도서전에서 발표한다.",
-      "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/08/recognizing-human-contributions-longlist-revealed-for-the-26th-getabstract-international-book-award-for-business-impact/",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-7.37.00-AM.png",
-      "published_iso": "2026-08-31T12:33:26Z",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-7.37.00-AM.png",
-            "cap": "수상작은 10월 8일 2026 프랑크푸르트 도서전에서 발표한다."
-          },
-          {
-            "t": "p",
-            "x": "스위스의 getAbstract는 참여 출판사들과 손잡고 책 요약을 제공해 온 곳이다. 이곳이 International Book Award ‘Business Impact’ 부문 롱리스트를 공개했다."
-          },
-          {
-            "t": "p",
-            "x": "올해로 26회다. 독일 부문과 국제 부문에서 각각 “뛰어난 책”을 해마다 골라 준다. 수상작 발표는 10월 8일 프랑크푸르트 도서전이다."
-          },
-          {
-            "t": "p",
-            "x": "“지식이 점점 더 AI 시스템을 거쳐 가공되는 시대에, 그 지식이 어디서 왔는지 드러나게 하는 일은 어느 때보다 중요합니다.” getAbstract 권리 담당 이사 Laura Lesum이 롱리스트 발표문에서 한 말이다."
-          },
-          {
-            "t": "p",
-            "x": "“우리에게 이 상은 그런 뜻입니다. 생각에 투자하고, 그것을 정성껏 다듬어 독자에게 건네는 출판사. 그리고 곱씹을 값어치가 있는 주장에 자기 이름을 거는 저자. 올해 롱리스트는 그 사람의 몫을 알아봅니다. 우리가 당연하게 여겨서는 안 될 지식까지요.”"
-          },
-          {
-            "t": "p",
-            "x": "대상은 2025년 6월부터 2026년 5월 사이에 나온 책이다. 숏리스트는 9월 15일에 나온다."
-          },
-          {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-8.20.03-AM-300x167.png",
-            "cap": "국제 부문 후보작"
-          },
-          {
-            "t": "p",
-            "x": "국제 부문 후보는 이렇다. Maya Ackerman의 『Creative Machines』(John Wiley & Sons), Deborah Yao·Jerry Wind·Mukul Pandya의 『Creativity in the Age of AI』(De Gruyter Brill), Melissa Valentine·Michael Bernstein의 『Flash Teams』(MIT Press), Juliet B. Schor의 『Four Days a Week』(HarperCollins Publishers), Daniel Chidiac의 『Stop Letting Everything Affect You』."
-          },
-          {
-            "t": "p",
-            "x": "이어서 Amy Jacobson의 『The Emotional Intelligence Advantage』(John Wiley & Sons), Lee B. Salz의 『The First Meeting Differentiator』(HarperCollins Leadership), Andrew Leigh의 『The Shortest History of Innovation』(Black Inc.), Joanna Feeley의 『Trend Leader』(Rethink Press), Blaise Agüera y Arcas의 『What Is Intelligence?』(MIT Press)가 올랐다."
-          },
-          {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-8.20.13-AM-300x171.png",
-            "cap": "독일어 부문 후보작"
-          },
-          {
-            "t": "p",
-            "x": "독일어 부문에도 열 권이 올랐다. Volker Perthes의 『Die Multipolarisierung der Welt』(Suhrkamp), Ansgar Baums·Thomas Ramge의 『Die Stunde der Nashörner』(Murmann), Richard Butler·Manfred Becking·Jörg Nitschmann의 『Führung im Zeitalter von KI』(Carl Hanser Verlag), Anita Hermann-Ruess의 『KI für kluge Kommunikation』(GABAL) 등이다. AI를 정면으로 다룬 제목이 여럿 섞였다."
-          },
-          {
-            "t": "p",
-            "x": "상은 2001년부터 이어졌다. “사회와 비즈니스, 리더십, 일의 세계를 이해하는 폭을 넓혀 주는 생각”을 내놓은 저자를 기린다는 취지다. 검증된 전문 지식과 측정 가능한 영향에 오래 무게를 둬 온 곳다운 방향이다."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "books",
+ "cards": [
+  {
+   "id": "books-kh-ttalkkak-translation",
+   "eyebrow": "AI NEWS",
+   "headline": "AI가 더 잘하냐고 묻지 말라\n‘딸깍 번역’ 시대 번역가의 자리",
+   "mini_headline": "‘딸깍 번역’ 시대 번역가",
+   "body": "세계번역가대회에 모인 번역가들은 번역을 산출물이 아닌 관계로 다시 정의했다.",
+   "tool": "Books",
+   "source": "경향신문",
+   "url": "https://www.khan.co.kr/article/202608301542001/",
+   "accent": "#f5a623",
+   "motif": "swatch",
+   "og_image": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.58bdcbb88c0b4fe7b9fa6af2606df9ac_P1.jpg",
+   "published_iso": "2026-08-30T15:42:00+09:00",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "출판계가 연이어 인공지능(AI)의 도전을 받고 있다. 지난해 생성형 AI로 순식간에 대량의 책을 만들어 유통한 출판사가 논란이 되며 ‘딸깍 출판’이라는 말이 유행했다면, 올해는 ‘딸깍 번역’이 화제의 중심에 올랐다. 소비자에게 공지 없이 AI 번역을 활용한 고전문학 애플리케이션 ‘책도둑’은 논란이 커지자 지난 7월 서비스를 중지했다. 책이라는 상품을 만드는 제작자도, 이를 구매하는 소비자도 AI를 피할 수는 없다. 그렇다면 출판은 AI와 어떻게 관계 맺어야 할까."
+     },
+     {
+      "t": "img",
+      "src": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.58bdcbb88c0b4fe7b9fa6af2606df9ac_P1.jpg",
+      "cap": "사전 이미지. 언스플래쉬"
+     },
+     {
+      "t": "p",
+      "x": "번역가들이 이 고민을 나누는 자리가 열렸다. 지난 28일 한국문학번역원 주최로 서울 강남구 그랜드 머큐어 임피리얼 팰리스 메라크홀에서 열린 ‘2026 세계번역가대회’다. 참석자들은 먼저 AI 시대에 번역가라는 직업 자체를 다시 생각해야 한다고 했다. 인간이 기계보다 ‘번역을 잘할 수 있는가’가 아니라 ‘번역이란 무엇인가’, ‘인간의 번역이 무엇인가’를 물어야 한다는 얘기다."
+     },
+     {
+      "t": "p",
+      "x": "이상빈 한국외대 영어통번역학과 교수는 “번역가에게 원문은 단순한 데이터가 아니다. 글을 옮기며 ‘이 작가는 왜 이런 표현을 썼을까’ 등 여러 질문을 한다. 이 과정에서 원문과 번역문 사이에는 다양한 관계가 만들어지고 오랜 시간이 걸린다”며 “이러한 지연은 비효율성이 아니라 윤리적 숙고가 발생하는 시간이다. 번역가는 자신이 누구의 말을 옮기는지 생각하고, 그 과정에서 내린 결정에 책임질 수 있는지 되묻는다. 인간 번역가의 자리는 바로 여기에서 만들어진다”고 말했다."
+     },
+     {
+      "t": "p",
+      "x": "소설가이자 번역가인 문지혁도 “번역을 그저 정보의 이전이나 의미의 치환, 문장의 재배열로만 이해한다면 AI 번역은 이미 강력한 경쟁자이고, 앞으로는 더욱 압도적인 지배자가 될 것”이라면서도 “번역을 타자의 목소리를 듣고, 거기 응답하며, 다시 그 응답에 책임지는 행위로 이해한다면 이야기는 달라진다. 이때 번역은 단순한 산출물이 아니라 하나의 관계가 되기 때문”이라고 했다. AI 시대일수록 번역 행위 자체보다 번역가의 윤리와 책임이 앞자리에 선다는 뜻이다."
+     },
+     {
+      "t": "img",
+      "src": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.f15a5a8e1af24c59bd0d203e773b8941_P1.jpg",
+      "cap": "지난 7월 25일 전자책 구독 서비스 앱 ‘책도둑’ SNS에 올라온 입장문. 책도둑지기 X 캡처"
+     },
+     {
+      "t": "p",
+      "x": "다만 번역이 책이라는 상품을 만드는 과정의 일부여서 AI 번역의 시장 진출을 막기는 어렵다는 지적도 나왔다. 문지혁 작가는 “우리는 인간 번역의 당위와 존엄을 설명할 수 있지만, 일반 독자나 시장은 대부분 그런 방식으로 번역을 판단하지 않는다”며 “텍스트 앞에서 독자는 ‘읽히는가, 자연스러운가, 정확한가, 빠른가, 가격은 어떤가’를 묻는다”고 말했다. 청중으로 참여한 한 번역가도 “번역은 철저한 자본주의 논리가 통하는 사회”라며 “학부생에게 만 원 주고 번역하라고 하면 만 원짜리 번역이 나오고, 번역가에게 100만원을 주고 번역하라고 하면 100만원짜리 번역이 나오는 것”이라고 말했다."
+     },
+     {
+      "t": "img",
+      "src": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.796faaa80d214c46a9552161ecbae398_P1.jpg",
+      "cap": "지난 7월 30일 전자책 구독 서비스 앱 ‘책도둑’ SNS에 올라온 입장문. 책도둑지기 X 캡처"
+     },
+     {
+      "t": "p",
+      "x": "최근 번역 시장을 향한 비판도 있었다. 시인이자 번역가인 안수연은 근래 많이 쓰이는 ‘MTPE’(machine translation post-editing), 곧 기계 번역 후 인간 편집 방식을 문제 삼았다. 번역가에게 일반적인 전문 번역료보다 적은 돈을 주면서, 정작 번역가가 만들지도 않은 오류의 책임까지 지운다는 것이다. 그는 “모든 결정의 중심에는 도구가 아닌 번역가”가 있어야 한다며, AI 도구를 쓰되 그 중심에 인간을 두는 “인간 중심 기계 번역”이 필요하다고 말했다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "books-guest-post-the-human",
+   "eyebrow": "AI NEWS",
+   "headline": "AI가 정보를 쏟아내는 시대에\n대학 도서관은 오히려 더 중요해진다",
+   "mini_headline": "AI 시대의 도서관 사서",
+   "body": "제인 지앙 도서관장은 AI가 사서를 밀어내기는커녕 그 역할을 키웠다고 본다.",
+   "tool": "Books",
+   "source": "The Scholarly Kitchen",
+   "url": "https://scholarlykitchen.sspnet.org/2026/09/01/guest-post-the-human-layer-why-ai-makes-academic-libraries-more-essential-not-less-2/",
+   "accent": "#0070f3",
+   "motif": "swatch",
+   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363.jpg",
+   "published_iso": "2026-09-01T09:30:24+00:00",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363-1024x545.jpg",
+      "cap": "The Scholarly Kitchen 게스트 포스트 대표 이미지"
+     },
+     {
+      "t": "p",
+      "x": "뉴저지의 한 커뮤니티칼리지에서 도서관장으로 일하는 제인 지앙(Jane Jiang)은 지난 2년 동안 대학 안에서 AI를 둘러싼 대화가 호기심에서 다급함으로 옮겨가는 걸 지켜봤다. 교수는 수업과 평가에서 AI를 어떻게 다룰지 묻고, 학생은 AI가 만든 정보를 믿어도 되는지 묻는다. 출판사는 연구자가 기존 플랫폼 대신 AI를 거쳐 학술 콘텐츠를 만날 때 그 값이 어떻게 매겨질지 고민한다. 따로 노는 대화처럼 보여도 결국 한 질문으로 모인다. AI가 매개하는 정보 환경에서 신뢰와 판단, 학문적 진실성을 어떻게 지키느냐다."
+     },
+     {
+      "t": "p",
+      "x": "지앙은 도서관의 미래가 AI를 얼마나 잘 흉내 내느냐로 결정되지 않는다고 본다. 기계가 정보를 만들고 요약하고 배달하는 세상에서 이용자가 길을 찾도록 얼마나 잘 돕느냐에 달렸다는 쪽이다. 실제로 많은 학생이 연구의 출발점을 AI 도구로 삼는다. 일과 가족을 병행하는 커뮤니티칼리지 학생에게 AI는 시작의 문턱을 낮춰준다. 문제는 학생이 AI를 쓰느냐가 아니라, 책임 있게 쓰도록 어떻게 돕느냐다."
+     },
+     {
+      "t": "p",
+      "x": "한 사서가 겪은 장면이 이 변화를 압축한다. ChatGPT로 주제를 파악하고 과제 개요까지 짠 학생이 참고 데스크로 찾아와 물었다. “How do I know if this is actually right?” 지앙은 이 질문이 반가웠다고 했다. AI가 작업을 거들 수는 있어도 정확성과 완성도, 진실성에 대한 책임까지 대신 져주지는 않는다는 걸 학생이 알고 있었기 때문이다. 대화는 곧 AI를 떠나 근거를 따지고 출처를 확인하는 쪽으로 옮겨갔다."
+     },
+     {
+      "t": "p",
+      "x": "인용 문해력에서도 같은 일이 벌어진다. NoodleTools와 Zotero 같은 서지 관리 도구는 ChatGPT 이전부터 형식 오류를 줄여줬지만, 자동화가 이해를 가려버린다는 오래된 교훈도 함께 남겼다. 형식이 완벽한 MLA 인용을 만들면서도 왜 출처를 밝히는지 모르는 학생이 나온다. 생성형 AI는 인용과 요약, 문헌 검토, 연구 질문까지 즉석에서 뽑아내며 그 간극을 더 벌렸다."
+     },
+     {
+      "t": "p",
+      "x": "학문적 진실성 문제에서 지앙은 탐지 도구에 기대는 방식에 선을 긋는다. GPTZero와 ZeroGPT 같은 제품이 시장에 나왔지만 AI가 쓴 글을 정확히 가려낸다고 보장하는 도구는 없다. Weber-Wulff 연구진의 비교 연구도 널리 쓰이는 탐지 도구들의 한계를 확인했다. 그래서 교육자들의 질문이 “How do we catch students using AI?”에서 “How do we design learning experiences where students demonstrate their thinking?”으로 옮겨가는 중이다."
+     },
+     {
+      "t": "p",
+      "x": "도서관과 출판사는 방향이 다를 뿐 오래 같은 임무를 나눠 가졌다. 출판사가 학술 성과를 큐레이션하고 심사하고 보존해 유통한다면, 도서관은 사람들이 그 성과를 찾아 평가하고 해석해 책임 있게 쓰도록 돕는다. 이 정보가 어디서 왔는지, 믿어도 되는지, 왜 믿어야 하는지는 늘 도서관의 질문이었고 이제 출판사의 질문이 되어 간다. 지앙이 남긴 마지막 문장은 이렇다. “The opportunity presented by AI is not to remove the human layer of scholarship. It is to recognize why that layer has always mattered.”"
+     }
+    ]
+   }
+  },
+  {
+   "id": "books-appeal-over-legal-fees",
+   "eyebrow": "AI NEWS",
+   "headline": "변호사 수임료를 둘러싼 항소로\n앤스로픽 합의금 지급이 밀린다",
+   "mini_headline": "앤스로픽 지급 지연",
+   "body": "변호인단의 수임료 항소로 앤스로픽 15억 달러 합의금 지급이 더 밀리게 됐다.",
+   "tool": "Books",
+   "source": "ALLi Self-Publishing Advice",
+   "url": "https://selfpublishingadvice.org/delay-anthropic-payout/",
+   "accent": "#7928ca",
+   "motif": "swatch",
+   "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-1.jpg",
+   "published_iso": "2026-09-01T12:00:34+00:00",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-1.jpg",
+      "cap": "ALLi 9월 1일 뉴스 브리핑"
+     },
+     {
+      "t": "p",
+      "x": "이번 주는 한동안 따라온 이야기들의 앞뒤를 정리하며 시작한다. 가장 크게는 앤스로픽 사건에서 곧바로 파장을 낼 소식이 나왔다. 항소가 제기될 수 있다는 것인데, 낸 쪽이 뜻밖이다. 집단소송 합의금 15억 달러를 물어야 할 그 기술 기업이 아니다. Jane Friedman이 짚어준 소식이다."
+     },
+     {
+      "t": "p",
+      "x": "항소를 낸 곳은 사건에 참여한 여러 법무법인이다. 이 사건에서 판사들은 한 번도 아니고 두 번에 걸쳐 변호사들이 청구한 수임료가 과하다고 판단했고, 전체 기금에서 변호사에게 돌아갈 몫의 비율을 줄여야 한다고 봤다. 변호사들이 실제로 할 일이 그리 많지 않았다는 이유였다. 이번 항소는 출판사 측을 조율하려고 투입된 변호인단이 냈다. 요즘 출판사들은 이 사건에서 좋은 모습을 보여주지 못하고 있고, 작가들과의 관계에도 도움이 되지 않는다."
+     },
+     {
+      "t": "p",
+      "x": "항소가 받아들여져 15억 달러 기금에서 변호사 몫이 커지면 권리자에게 돌아갈 돈은 그만큼 줄어든다. 받아들여지지 않더라도 절차가 한 겹 더 얹히는 만큼 실제 수령은 늦어진다."
+     },
+     {
+      "t": "p",
+      "x": "아마존이 AI 학습에 쓴 책을 희귀본까지 포함해 파쇄했다는 이야기에도 후속이 붙었다. 여러 곳이 연방거래위원회(FTC)에 이 관행을 들여다봐 달라는 서한을 보냈다. 우려의 초점은 이것이 독점을 굳히려는 움직임인지에 있다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "books-kr-publishing-knowledge-platform",
+   "eyebrow": "AI NEWS",
+   "headline": "출판사 콘텐츠를 AI 기업에 주고\n수익을 나누는 ‘지식 플랫폼’ 구상",
+   "mini_headline": "출판업계의 지식 플랫폼",
+   "body": "하정우 전 수석은 출판사 콘텐츠를 AI 기업에 주고 수익을 나누는 구조를 제안했다.",
+   "tool": "Books",
+   "source": "더시사법률",
+   "url": "https://www.tsisalaw.com/news/article.html?no=30370",
+   "accent": "#2ec5c5",
+   "motif": "swatch",
+   "og_image": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
+   "published_iso": "2026-08-26T17:41:04+09:00",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
+      "cap": "AI 활용 제작·유통 영역이 넓어지고 있다. 더시사법률"
+     },
+     {
+      "t": "p",
+      "x": "생성형 인공지능(AI)이 출판 과정에 활용되면서 책 제작과 판매에 머물렀던 출판산업도 ‘지식 플랫폼’으로의 전환을 모색하고 있다. 26일 출판계에 따르면 하정우 전 청와대 AI미래기획수석비서관은 전날 대한출판문화협회 특별강연에서 ‘AI 시대, 대체불가 대한민국 AI 전략과 출판산업의 변화 방향’을 주제로 출판산업의 역할 변화를 제안했다."
+     },
+     {
+      "t": "p",
+      "x": "하 전 수석은 출판사가 보유한 콘텐츠를 AI 기업에 제공하고 국내외에서 발생한 수익을 배분받는 협력 구조가 필요하다고 밝혔다. 소설을 웹툰·게임·영화·드라마 등으로 확장하고, 관련 지식재산권(IP)을 공동으로 소유·관리하는 방안도 새로운 사업 모델로 제시했다. AI 기술이 발달해 아이디어만으로도 일정 수준의 콘텐츠를 만들 수 있게 된 만큼, 기존 출판 방식이 AI 시대에도 그대로 유효하리라는 인식에서 벗어나야 한다는 얘기다."
+     },
+     {
+      "t": "p",
+      "x": "하 전 수석은 와일리와 앤트로픽의 협력을 AI 시대 출판산업의 변화 사례로 소개했다. 글로벌 학술출판사 와일리는 지난해 AI 기업 앤트로픽과 전략적 협력 계획을 발표하고 자사의 연구 콘텐츠를 AI 플랫폼에서 활용하는 시범사업에 나섰다. 앤트로픽이 개발한 모델 컨텍스트 프로토콜(MCP)로 연구자와 학생들이 AI 서비스 ‘클로드’에서 와일리의 과학저널 콘텐츠에 접근하도록 하는 방식이다."
+     },
+     {
+      "t": "p",
+      "x": "와일리는 이후 학술 콘텐츠와 AI 서비스를 잇는 ‘와일리 AI 게이트웨이’를 구축했다. 여러 출판사의 학술 콘텐츠를 AI가 활용할 수 있는 형태로 가공해 클로드와 미스트랄AI, 퍼플렉시티 등에서 이용하도록 하는 플랫폼이다. 콘텐츠를 제공한 출판사는 라이선스와 접근 권한을 유지하면서 AI 기업의 이용에 따른 수익을 배분받는다."
+     },
+     {
+      "t": "p",
+      "x": "국내에서도 AI를 도서 제작에 쓰는 사례가 나타났다. 출판사 루미너리북스는 자체 AI 기술로 지난해 경제·인문·패션 등 다양한 분야에서 약 9000권의 도서를 출간했다. 루미너리북스는 “초안 기획과 구성 설계, 내용 검토, 교정 등 출판 과정에서 사람의 작업과 AI 기술을 함께 활용하고 있다”고 설명했다. 단기간에 많은 책을 만들게 되자 일부 도서의 오류와 완성도를 둘러싸고 이른바 ‘딸깍 출판’ 논란이 제기됐다. 하 전 수석은 AI가 자동으로 생성한 저품질 도서가 범람할 가능성을 언급하며 출판사와 창작자 단체의 공동 대응을 강조했다."
+     },
+     {
+      "t": "p",
+      "x": "AI와 출판 콘텐츠의 결합이 확대되면서 기존 저작물을 학습과 서비스에 어디까지 이용할 수 있는지도 주요 쟁점으로 떠올랐다. 앤트로픽은 저작권자의 허락 없이 확보한 도서를 AI 모델 ‘클로드’ 학습에 사용했다는 이유로 2024년부터 작가들과 대규모 저작권 소송을 벌였다. 미국 샌프란시스코 연방법원은 적법하게 확보한 도서를 AI 모델 학습에 이용한 행위는 공정이용에 해당한다고 봤지만, 불법 복제된 도서 사본을 별도의 디지털 라이브러리에 보관한 행위는 공정이용으로 인정하지 않았다. 이후 법원은 2026년 7월 앤트로픽과 저작권자들이 마련한 15억달러 규모의 합의안을 최종 승인했다."
+     },
+     {
+      "t": "p",
+      "x": "김태헌 대한출판문화협회 회장은 “출판계가 지난 디지털 전환 과정에서 유통 플랫폼의 변화나 전자책, 오디오북과 같은 새로운 흐름에 다소 수동적으로 대응하지 않았나 하는 아쉬움이 남는다”며 “이번 AI 변화만큼은 늦지 않게 적극적으로 준비하고 이행해야 한다”고 말했다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "books-zlibrary-my-beloved-anthropic",
+   "eyebrow": "AI NEWS",
+   "headline": "“Zlibrary my beloved”\n소니 소송에 등장한 앤스로픽 사내 대화",
+   "mini_headline": "소니, 앤스로픽 제소",
+   "body": "소니와 EMI 등 음악 출판사들이 앤스로픽 사내 대화를 증거로 소송을 냈다.",
+   "tool": "Books",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+   "accent": "#eb367f",
+   "motif": "swatch",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
+   "published_iso": "2026-08-31T18:10:45+00:00",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
+      "cap": "Credit: Steven Errico | Photographer’s Choice RF"
+     },
+     {
+      "t": "p",
+      "x": "소니와 EMI, 워너채플 등 세계 주요 음악 출판사들이 지난 금요일 앤스로픽을 상대로 소송을 냈다. 클로드를 만든 이 회사는 700만 권이 넘는 책을 불법 복제해 AI를 학습시켰다고 인정하고 작가들에게 15억 달러를 물었는데, 음악 출판사들이 보기에 그 합의는 너무 가벼웠다. 대규모 침해를 2조 달러 기업가치로 바꿔놓은 회사의 행동을 막기에 15억 달러로는 어림없다는 것이다. 이들은 앤스로픽의 불법 토렌트에 자신들이 저작권을 가진 악곡이 “thousands upon thousands” 섞여 있었다고 주장했다."
+     },
+     {
+      "t": "p",
+      "x": "소장에 따르면 앤스로픽의 “mass campaign of illegal torrenting”은 2021년 7월에 시작됐다. 공동창업자 벤저민 만이 직접 비트토렌트로 해적 도서관 Library Genesis(LibGen)에서 수백만 권의 책을 내려받고 다시 올렸고, 공동창업자이자 CEO인 다리오 아모데이가 이를 승인했다는 내용이다. 두 사람 모두 개인 피고로 이름이 올랐다. 2021년 말 FBI가 LibGen을 폐쇄했지만 그 전에 복제본이 ‘Z-Library’로 되살아났고, 앤스로픽은 그 사본의 사본을 ‘Pirate Library Mirror’(PiLiMi)로 손에 넣었다."
+     },
+     {
+      "t": "p",
+      "x": "만은 PiLiMi가 공개되자 직원들에게 곧바로 토렌트를 지시하며 미러가 “just in time!” 떴다고 알렸다. 한 직원은 “zlibrary my beloved”라고 답했다. 음악 출판사들은 이 사내 대화를 앤스로픽이 해적질을 치켜세우며 새 학습 데이터를 빠르게 확보했다는 증거로 내세웠다. LibGen과 PiLiMi의 비공개가 아닌 목록을 훑어보니 제목·저자·ISBN 같은 서지 정보만으로도 악보와 가사가 실린 책 수백 권을 토렌트로 받은 정황이 드러났다고 했다."
+     },
+     {
+      "t": "p",
+      "x": "앤스로픽은 두 곳에서 받은 책을 상업용 클로드 학습에 쓰지 않았다고 부인한다. 출판사들은 ‘학습’을 어떻게 정의하느냐에 달린 말이라고 반박했다. 비상업용 모델이 LibGen·PiLiMi에서 나온 텍스트로 학습했고, 그 모델이 만든 합성 데이터와 피드백이 상업용 클로드 모델로 흘러들어갔다는 주장이다. 앤스로픽 대변인은 Ars에 “This is the third lawsuit from the same lawyers, recycling allegations from cases already before the courts”라며 “Training generative AI models is a transformative fair use—as the court held in Bartz—and we will defend ourselves robustly”라고 밝혔다."
+     },
+     {
+      "t": "p",
+      "x": "책 저작권 소송에서 공정이용 판단이 갈린 지점은 작가들이 시장 피해를 입증하지 못한 데 있었다. 음악 쪽은 사정이 다르다고 출판사들은 본다. AI가 만든 노래가 차트 상단을 차지하며 학습에 쓰인 원곡의 작곡가들과 직접 경쟁하고, 미국 저작권청도 생성물이 특정 저작물과 실질적으로 유사하지 않더라도 같은 시장에서 경쟁하면 로열티 풀이 희석된다고 짚었다는 것이다. 아모데이는 앞선 소송에서 합법적으로 책을 살 수도 있었지만 “legal/practice/business slog”를 피하려고 토렌트를 택했다고 증언했다."
+     }
+    ]
+   }
+  }
+ ]
 }

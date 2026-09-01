@@ -1,28 +1,48 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-09-02",
   "section": "music",
-  "now_iso": "2026-07-30T22:07:33Z",
+  "now_iso": "2026-09-01T22:05:00Z",
   "window_hours": 336,
-  "count": 2,
-  "note": "RECOVERY pass for music (floor 3; only 2 kept after dedup). WebSearch budget was exhausted (200/200), so this pass swept allowed_domains listing/tag pages via WebFetch: gearnews, cdm.link, synthtopia, musictech, bedroomproducersblog, musicradar, hypebot, attackmagazine, digitalmusicnews(403), theverge(blocked), djmag, mixmag(403), factmag, soundonsound, engadget/ai, plus YouTube channel pages (JS-only, no verifiable dates). The window (2026-07-16..07-30) is genuinely picked-over: nearly every fresh AI-craft item was already collected/published (Google Flow MBW, DubBox MusicRadar, ToneField+Dev Ocean Synthtopia, iZotope VEA, Deezer flood, ai-music-earnings, GEMA PLAI, BandLab/aiode) or STALE (FL Studio 2026 Gopher AI Jul 9, cdm Latent Terrain Jun 17, Synplant PhenoType Jun 10, iZotope->BorisFX Jul 2) or fresh-but-not-AI (reFX Rippler Jul 30, Reaktor 7 Jul 27, Super*Saw Jul 16) or fresh-but-business/legal (Hypebot AI-chart-standards Jul 30, Udio-sues-Sony, Suno-scraping). Two NEW distinct fresh AI-craft items surfaced via the MusicTech /tag/ai/ page and date-verified from JSON-LD: Project LYDIA (custom-AI live-performance pedal) and the Best Stem Separation Tools comparison. Both are musictech.com (within the =3/outlet collection cap; existing kept items are MBW + MusicRadar so overall outlet diversity holds). New items only; none duplicate candidates_music.json or news_data sections.music.",
   "items": [
     {
-      "title": "Neutone and Roland's Project LYDIA lets you design your own AI models for real-time performance",
-      "url": "https://musictech.com/features/interviews/roland-neutone-project-lydia/",
-      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-17T08:00:16Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
-      "excerpt": "Neutone and Roland are prototyping Project LYDIA, an AI effects pedal that lets musicians train, customise and hack their own neural-sampling AI models for real-time performance. 'You can open it up, you can hack it... you can really personalise it and make it your own,' says Neutone co-founder Andrew Fyfe — a hands-on, creator-owned take on AI as a live instrument rather than a black box."
+      "title": "Vibe-Coded Plugins: A Developer's Take And The Risks Worth Knowing",
+      "url": "https://www.production-expert.com/production-expert-1/vibe-coded-plugins-a-developers-take-and-the-risks-worth-knowing",
+      "source": "Production Expert",
+      "published_iso": "2026-08-24T12:00:00Z",
+      "excerpt": "AI-assisted plugin development has gone mainstream, and a working developer walks through how vibecoding has shifted the plugins producers own and buy. The piece lays out a practical buyer checklist — trial availability, license verification, professional use/endorsement — for judging whether an AI-built audio plugin is safe to put in a session.",
+      "og_image": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
+      "why": "AI 코딩이 음악 플러그인 시장 자체를 바꾸는 이야기 — 도구를 만드는 쪽과 사는 쪽 모두의 작업 기준이 달라진다. 제작자 관점의 실무 체크리스트가 있어 크래프트 훅이 분명하다."
     },
     {
-      "title": "Best stem separation tools 2026: 9 AI tools compared",
-      "url": "https://musictech.com/guides/buyers-guide/best-stem-separation-tools/",
-      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-07-29T04:00:26Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2025/07/Stem-Separation-guide-update-hero-credit-press@2000x1500.jpg",
-      "excerpt": "MusicTech tested nine leading AI stem-separation tools and found results vary sharply by track and instrument: Logic Pro wins for fast everyday splits, while MVSEP edges ahead on critical vocals and hardest-to-isolate parts. A practical, craft-side map of where neural source-separation actually helps producers in 2026. (Secondary pick: stem separation was rested in the day's rotation, included here to comfortably clear the recovery floor.)"
+      "title": "What Legislation Could Actually Protect Audio Professionals From Generative AI",
+      "url": "https://www.production-expert.com/production-expert-1/what-legislation-could-actually-protect-audio-professionals-from-generative-ai",
+      "source": "Production Expert",
+      "published_iso": "2026-08-23T12:00:00Z",
+      "excerpt": "A proposal from engineer David Barber is measured against the EU AI Act and the NO FAKES Act to ask what rules would actually shield working audio professionals from generative AI. The analysis finds the current frameworks cover transparency and voice cloning but leave enforcement gaps and no protection against non-monetised displacement of studio labour.",
+      "og_image": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/04f04225-a7eb-4dfd-909c-2f4005feabc6/What+Legislation+Could+Actually+Protect+Audio+Professionals+From+Generative+AI.webp",
+      "why": "저작권 소송 뉴스가 아니라 '스튜디오에서 일하는 사람'의 생계와 작업을 보호할 규칙을 따지는 글 — 오디오 직군의 실무 관점이라 크리에이터에게 직접 걸린다."
+    },
+    {
+      "category": "music",
+      "title": "Artists Don't Have a Content Problem. They Have an IP Problem.",
+      "url": "https://www.hypebot.com/artists-dont-have-a-content-problem-they-have-an-ip-problem/",
+      "source": "Hypebot",
+      "published_iso": "2026-09-01T09:00:00Z",
+      "excerpt": "Independent artists are told to post more, but the argument here is that AI can now produce a frightening amount of competent promotional material — so volume is worthless. The advice flips to building distinctive intellectual property and work that outlasts the feed.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/09/9-1-IP-problem.jpg",
+      "why": "AI가 '괜찮은 콘텐츠'를 무한 생산하는 시대에 아티스트의 작업 우선순위가 어디로 옮겨가야 하는지 — 창작자의 제작 전략 자체를 다시 짜는 관점."
+    },
+    {
+      "category": "music",
+      "title": "Rob Clouth's Noise Canvas is a FREE spectral sound design tool",
+      "url": "https://bedroomproducersblog.com/2026/09/01/rob-clouth-noise-canvas/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-09-01T10:00:00Z",
+      "excerpt": "Noise Canvas analyses an audio file into a Constant-Q spectrogram canvas and lets you paint effects and transformations directly onto the sound with brushes. It includes source separation and runs free on macOS, Windows and Linux.",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/RobClouth-NoiseCanvas-728x364.jpg",
+      "why": "소리를 '그려서' 편집하는 인터페이스 — 소스 분리까지 얹은 무료 툴로, 음악 제작의 조작 방식 자체를 바꾸는 종류의 물건. 다만 기사 본문에 AI/머신러닝 표기는 없으므로 AI 훅이 약한 후보(우선순위 낮음)."
     }
   ]
 }

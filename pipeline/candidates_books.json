@@ -1,148 +1,143 @@
 {
-  "date": "2026-09-01",
-  "section": "books",
-  "now_iso": "2026-08-31T22:00:35Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "category": "books",
-      "title": "Elsevier Launches AI Assistant for Healthcare E-books",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101137-elsevier-launches-ai-assistant-for-healthcare-e-books.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-08-31T12:00:00Z",
-      "excerpt": "Elsevier's Nora AI lets healthcare students ask questions about their course materials and get answers without leaving the e-book. The assistant is scoped to the publisher's own licensed content rather than the open web.",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131207-1.JPG",
-      "why": "A major educational publisher shipping an in-book AI assistant turns the e-book from a container into an interface — a concrete brief for anyone designing reading products."
-    },
-    {
-      "category": "books",
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "source": "The Verge",
-      "published_iso": "2026-08-27T19:30:00Z",
-      "excerpt": "Gemini Notebook's new “Expert Intelligence” feature lets users pull licensed Play Books titles in as sources and question them directly, putting published books inside an AI research workspace.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gemini-notebook.jpg",
-      "why": "Books becoming a first-class AI source type changes discovery, licensing and how publishers think about a title's digital surface."
-    },
-    {
-      "category": "books",
-      "title": "E-Books: Google Announces Launch of “Expert Intelligence” Feature For Gemini Notebook",
-      "url": "https://www.infodocket.com/2026/08/27/google-announces-launch-of-expert-intelligence-feature-for-gemini-notebook/",
-      "source": "InfoDocket (Library Journal)",
-      "published_iso": "2026-08-27T12:18:00Z",
-      "excerpt": "Library-side write-up of Google's Expert Intelligence launch, detailing which publisher content is licensed into Gemini Notebook and how citations back to the source book are handled.",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/08/gemini-notebook-expert-intelligence.png",
-      "why": "The librarian framing surfaces the licensing and citation mechanics that publishers and reading-product designers actually have to negotiate."
-    },
-    {
-      "category": "books",
-      "title": "“A Secure Environment to Explore”: The AI Sandbox Initiative For Staff at the Library of Congress",
-      "url": "https://www.infodocket.com/2026/08/31/a-secure-environment-to-explore-learn-about-the-ai-sandbox-initiative-for-staff-at-the-library-of-congress/",
-      "source": "InfoDocket (Library Journal)",
-      "published_iso": "2026-08-31T15:41:24Z",
-      "excerpt": "The Library of Congress has stood up an internal AI sandbox so staff can test generative tools against collections work in a controlled environment before anything touches public services.",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/08/library-of-congress-ai-sandbox.png",
-      "why": "A rare, concrete model for how a collections institution rolls out AI to practitioners — sandbox first, workflow second — that any content org can copy."
-    },
-    {
-      "category": "books",
-      "title": "Read These Books Before You Enter the AI and Social Media Debates",
-      "url": "https://bookriot.com/nonfiction-about-ai-and-social-media/",
-      "source": "Book Riot",
-      "published_iso": "2026-08-31T10:02:00Z",
-      "excerpt": "A curated nonfiction reading list mapping the current arguments about generative AI and platform culture, aimed at readers who want the primary texts rather than the discourse.",
-      "og_image": "https://bookriot.com/wp-content/uploads/2026/08/ai-social-media-nonfiction.jpg",
-      "why": "Useful as the reading-side counterpart to tool news — what a creative professional should actually read to argue about AI competently."
-    },
-    {
-      "category": "books",
-      "title": "We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.",
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-08-31T09:30:32Z",
-      "excerpt": "With watermarking and provenance tooling now shipping, the piece argues detection alone answers the wrong question: publishing still has to decide what level of AI assistance is acceptable and disclose it.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/tracking-ai-content.jpg",
-      "why": "Moves the conversation from “can we detect it” to “what is the editorial policy” — the question every publishing and design team is dodging."
-    },
-    {
-      "category": "books",
-      "title": "Recognizing ‘Human’ Contributions, Longlist Revealed for the 26th getAbstract International Book Award",
-      "url": "https://publishingperspectives.com/2026/08/recognizing-human-contributions-longlist-revealed-for-the-26th-getabstract-international-book-award-for-business-impact/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-08-31T12:33:26Z",
-      "excerpt": "The 2026 getAbstract award longlist is explicitly framed around recognizing human authorship and contribution, with winners to be announced October 8 at the Frankfurt Book Fair.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-7.37.00-AM.png",
-      "why": "Prizes are starting to define “human-made” as a category — an early signal of how authorship credit gets certified in an AI-saturated market."
-    },
-    {
-      "category": "books",
-      "title": "Are Amazon and Other AI Companies Destroying Books to Train AI?",
-      "url": "https://selfpublishingadvice.org/destroying-books-to-train-ai/",
-      "source": "Self-Publishing Advice Center (ALLi)",
-      "published_iso": "2026-08-27T12:00:44Z",
-      "excerpt": "ALLi's news summary on reports that AI firms are buying physical books, cutting the spines off and scanning them for training corpora — and what that means for authors' licensing leverage.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-27.jpg",
-      "why": "Indie-author framing of the training-data supply chain, with the practical question of whether authors can license instead of being scanned."
-    },
-    {
-      "category": "books",
-      "title": "AI Companies are buying hardcover books and destroying them",
-      "url": "https://goodereader.com/blog/amazon-news/ai-companies-are-buying-hardcover-books-and-destroying-them",
-      "source": "Good e-Reader",
-      "published_iso": "2026-08-19T20:44:15Z",
-      "excerpt": "Report on AI companies acquiring print runs of hardcovers purely to destructively scan them, sidestepping licensing negotiations with publishers entirely.",
-      "og_image": "https://goodereader.com/blog/uploads/images/2026/08/ai-book-scanning.jpg",
-      "why": "The physical-to-corpus pipeline made literal — a vivid, concrete story about where model training data for text actually comes from."
-    },
-    {
-      "category": "books",
-      "title": "Calibre ebook manager lets you generate AI book covers in a click",
-      "url": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
-      "source": "OMG! Ubuntu",
-      "published_iso": "2026-08-28T22:59:40Z",
-      "excerpt": "Calibre 9.14 adds generative AI cover creation to the open-source e-book manager, letting users produce and swap in a cover image from a prompt inside the library tool itself.",
-      "og_image": "https://www.omgubuntu.co.uk/wp-content/uploads/2026/08/calibre-ai-covers.jpg",
-      "why": "Cover generation arriving as a default feature in mainstream reader software — a direct hit on book-cover design work and on what readers now expect a jacket to be."
-    },
-    {
-      "category": "books",
-      "title": "AI vs. Human Audiobook Narration: A Blinded Survey of 1,000 Listeners",
-      "url": "https://ssrs.com/news/ai-vs-human-audiobook-narration-a-blinded-survey-of-1000-listeners/",
-      "source": "SSRS",
-      "published_iso": "2026-08-31T17:45:35Z",
-      "excerpt": "A blinded listening study of 1,000 audiobook consumers testing whether people can tell AI narration from human narration — and whether knowing changes how much they say they'd pay.",
-      "og_image": "https://ssrs.com/wp-content/uploads/2026/08/audiobook-narration-survey.jpg",
-      "why": "Actual listener data instead of vibes on synthetic narration — the number publishers and narrators will both cite in the next contract fight."
-    },
-    {
-      "category": "books",
-      "title": "Amazon Rips Up Rare Books to Train AI (Self-Publishing News Podcast)",
-      "url": "https://selfpublishingadvice.org/podcast-amazon-rips-up-rare-books/",
-      "source": "Self-Publishing Advice Center (ALLi)",
-      "published_iso": "2026-08-28T12:00:16Z",
-      "excerpt": "Dan Holloway's weekly news round-up covering Amazon shredding rare books for AI training, Kobo's return to Best Buy, and Ingram's new Covered platform for indie authors.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_News-3.jpg",
-      "why": "Fast weekly briefing that bundles the AI training story with the retail and tooling moves indie authors have to react to."
-    },
-    {
-      "category": "books",
-      "title": "Anthropic Adds Watermarks to Claude’s AI-Generated Text",
-      "url": "https://selfpublishingadvice.org/anthropic-adds-watermarks/",
-      "source": "Self-Publishing Advice Center (ALLi)",
-      "published_iso": "2026-08-20T12:00:57Z",
-      "excerpt": "Anthropic is watermarking text generated by Claude, raising new questions about AI transparency, provenance and disclosure for AI-assisted books.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-20.jpg",
-      "why": "Provenance marks moving into the writing stack directly affects how authors and publishers will have to declare AI assistance."
-    },
-    {
-      "category": "books",
-      "title": "Podcast: Amazon Kindle and AI Destruction of books",
-      "url": "https://goodereader.com/blog/e-reader-radio/podcast-amazon-kindle-and-ai-destruction-of-books",
-      "source": "Good e-Reader",
-      "published_iso": "2026-08-20T19:57:34Z",
-      "excerpt": "Good e-Reader's podcast unpacks the destructive scanning of hardcovers for AI corpora alongside Kindle pricing and hardware changes affecting readers.",
-      "og_image": "https://goodereader.com/blog/uploads/images/2026/08/e-reader-radio.jpg",
-      "why": "Reader-device context for the training-data story — how the same shift lands on the consumer end of the reading stack."
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "books",
+ "now_iso": "2026-09-01T22:05:00Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Guest Post — The Human Layer: Why AI Makes Academic Libraries More Essential, Not Less - The Scholarly Kitchen",
+   "url": "https://scholarlykitchen.sspnet.org/2026/09/01/guest-post-the-human-layer-why-ai-makes-academic-libraries-more-essential-not-less-2/",
+   "source": "The Scholarly Kitchen",
+   "published_iso": "2026-09-01T09:30:24+00:00",
+   "excerpt": "The opportunity presented by AI is not to remove the human layer of scholarship. It is to recognize why that layer has always mattered.",
+   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363.jpg",
+   "category": "books"
+  },
+  {
+   "title": "We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem. - The Scholarly Kitchen",
+   "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
+   "source": "The Scholarly Kitchen",
+   "published_iso": "2026-08-31T09:30:32+00:00",
+   "excerpt": "Identifying AI content is now embedded in Claude models. It doesn't solve the problem we have. It also creates others.",
+   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg",
+   "category": "books"
+  },
+  {
+   "title": "Guest Post — Your Next Reader Is a Machine, and We Are Ready - The Scholarly Kitchen",
+   "url": "https://scholarlykitchen.sspnet.org/2026/08/21/guest-post-your-next-reader-is-a-machine-and-we-are-ready/",
+   "source": "The Scholarly Kitchen",
+   "published_iso": "2026-08-21T09:30:08+00:00",
+   "excerpt": "Machine readers replacing human readers can sound like a threat. Today's post argues that our community is well prepared to face these challenges and seize the opportunities.",
+   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2227463068.jpg",
+   "category": "books"
+  },
+  {
+   "title": "U.S. Textbook Authors Sue OpenAI for Copyright Infringement - Publishing Perspectives",
+   "url": "https://publishingperspectives.com/2026/08/u-s-textbook-authors-sue-openai-for-copyright-infringement/",
+   "source": "Publishing Perspectives",
+   "published_iso": "2026-08-20T12:17:11+00:00",
+   "excerpt": "If LLMs are allowed to “continually update their content by ingesting new editions of textbooks as they come out, instructors and schools may consider dropping textbook adoptions altogether in favor of “substitutes” that rely on the use of LLM models, the suit argues.",
+   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.24.06-PM.png",
+   "category": "books"
+  },
+  {
+   "title": "What Technology Trends Should Publishers Explore and Scale? - Publishing Perspectives",
+   "url": "https://publishingperspectives.com/2026/08/what-technology-trends-should-publishers-explore-and-scale/",
+   "source": "Publishing Perspectives",
+   "published_iso": "2026-08-20T12:09:57+00:00",
+   "excerpt": "Participate in Digital Publishing Report's survey to help identify which publishing technology trends executives should watch, explore, pilot, and scale. The survey closes August 30th.",
+   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
+   "category": "books"
+  },
+  {
+   "title": "Around the Book World: Monday, August 24th, 2026 - Publishing Perspectives",
+   "url": "https://publishingperspectives.com/2026/08/around-the-book-world-monday-august-24th-2026/",
+   "source": "Publishing Perspectives",
+   "published_iso": "2026-08-24T11:21:02+00:00",
+   "excerpt": "Publishing analyst Carlo Carrenho kicks off the week with a review of the headlines from across the international publishing world.",
+   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+   "category": "books"
+  },
+  {
+   "title": "Harriman House claims trade publishing first with 'AI-facilitated' Raoul Pal book",
+   "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
+   "source": "The Bookseller",
+   "published_iso": "2026-08-20T07:45:00Z",
+   "excerpt": "Harriman House claims a trade publishing first with The Everything Code, a new book by macro analyst and entrepreneur Raoul Pal that has been produced using a proprietary AI tool trained exclusively on the author’s own existing work.",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+   "category": "books"
+  },
+  {
+   "title": "Book Marketing, AI Book Discoverability, And Resilience, With Ricardo Fayet",
+   "url": "https://www.thecreativepenn.com/2026/08/19/book-marketing-ai-book-discoverability-and-resilience-with-ricardo-fayet/",
+   "source": "The Creative Penn",
+   "published_iso": "2026-08-19T06:30:00+00:00",
+   "excerpt": "How can you get your books surfaced when readers ask an AI what to read next? What are the hallmarks of authors and businesses that last more than a decade in the indie author industry? Ricardo Fayet gives his marketing tips after more than a decade at Reedsy.",
+   "og_image": "",
+   "category": "books"
+  },
+  {
+   "title": "Opinion: You Have More Agency Than You Think: Creative Writing and Publishing in the Age of AI — The Self-Publishing Advice Center",
+   "url": "https://selfpublishingadvice.org/opinion-you-have-more-agency-than-you-think-creative-writing-and-publishing-in-the-age-of-ai/",
+   "source": "ALLi Self-Publishing Advice",
+   "published_iso": "2026-08-25T17:25:51+00:00",
+   "excerpt": "This is an informed opinion piece by Nigel George, an indie author, ALLi Author Member, and the founder of GNW Independent Publishing (indiepublishing.au). He helps writers skip the snake-oil internet gurus and build sustainable careers based on authentic relationships with…",
+   "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/pictures.jpg",
+   "category": "books"
+  },
+  {
+   "title": "Can AI Replace Your Editor?",
+   "url": "https://selfpublishingadvice.org/podcast-can-ai-replace-your-editor/",
+   "source": "ALLi Self-Publishing Advice",
+   "published_iso": "2026-08-23T12:00:15+00:00",
+   "excerpt": "Michael La Ronn and Sacha Black answer member questions on AI editing, IngramSpark returns, and series cover consistency.",
+   "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_QA.jpg",
+   "category": "books"
+  },
+  {
+   "title": "Appeal Over Legal Fees Could Delay Anthropic Payout",
+   "url": "https://selfpublishingadvice.org/delay-anthropic-payout/",
+   "source": "ALLi Self-Publishing Advice",
+   "published_iso": "2026-09-01T12:00:34+00:00",
+   "excerpt": "An appeal over legal fees could delay Anthropic settlement payouts, while Amazon’s AI book practices face scrutiny.",
+   "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-1.jpg",
+   "category": "books"
+  },
+  {
+   "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+   "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+   "source": "Ars Technica",
+   "published_iso": "2026-08-31T18:10:45+00:00",
+   "excerpt": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
+   "category": "books"
+  },
+  {
+   "title": "[더시사법률] AI 품은 출판업계…책 넘어 ‘지식 플랫폼’ 전환 모색",
+   "url": "https://www.tsisalaw.com/news/article.html?no=30370",
+   "source": "더시사법률",
+   "published_iso": "2026-08-26T17:41:04+09:00",
+   "excerpt": "생성형 인공지능(AI)이 출판 과정에 활용되면서 책 제작과 판매에 머물렀던 출판산업도 ‘지식 플랫폼’으로의 전환을 모색하고 있다. 26일 출판계에 따르면 하정우 전 청와대 AI미래기획수석비서관은 전날 대한출판문화협회 특별강연에서 ‘AI 시대, 대체불가 대한민국 AI 전략과 출판산업의 변화 방향’을 주제로 출판산업의 역할 변화를 제안했다. 하 전 수석은 출판",
+   "og_image": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
+   "category": "books"
+  },
+  {
+   "title": "“AI보다 잘 번역할 수 있나 묻지 말라”···‘딸깍 번역’ 시대 번역가의 자리",
+   "url": "https://www.khan.co.kr/article/202608301542001/",
+   "source": "경향신문",
+   "published_iso": "2026-08-30T15:42:00+09:00",
+   "excerpt": "출판계가 연이어 인공지능(AI)의 도전을 받고 있다. 지난해 생성형 AI를 이용해 순식간에 대량의 책을 만들어 유통한 출판사가 논란이 되며 ‘딸깍 출판’이라는 말이 유행했다면, 올해는 ‘딸깍 번역’이 화제의 중심에 올랐다. 소비자에게 공지 없이 AI 번역을 활용한 고전문학 애플리케이션 ‘책도둑’은 논란이 커지자 지난 7월 서비스를 중지했다. 다양한 분...",
+   "og_image": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.58bdcbb88c0b4fe7b9fa6af2606df9ac_P1.jpg",
+   "category": "books"
+  },
+  {
+   "title": "“번역, 숙고 속 만들어” “AI 진출 막기 어려워”",
+   "url": "https://www.khan.co.kr/article/202608302029005/",
+   "source": "경향신문",
+   "published_iso": "2026-08-30T20:29:00+09:00",
+   "excerpt": "출판계가 연이어 인공지능(AI)의 도전을 받고 있다. 지난해 생성형 AI를 이용해 순식간에 대량의 책을 만들어 유통한 출판사가 논란이 되며 ‘딸깍 출판’이라는 말이 유행했다면, 올해는 ‘딸깍 번역’이 화제의 중심에 올랐다. 소비자에게 공지 없이 AI 번역을 활용한 고전문학 애플리케이션 ‘책도둑’은 논란이 커지자 지난 7월 서비스를 중지했다. 다양한 분...",
+   "og_image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+   "category": "books"
+  }
+ ]
 }

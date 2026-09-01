@@ -1,145 +1,157 @@
 {
-  "date": "2026-09-01",
-  "section": "gadgets",
-  "selected_by": "curator (user deferred)",
-  "pool_size": 28,
-  "picks": [
-    {
-      "id": "gadgets-honor-robot-phone",
-      "title": "Honor Robot Phone hands-on: A gimbal phone experiment with promising results",
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "url": "https://www.engadget.com/2247473/honor-robot-phone-hands-on/",
-      "source": "Engadget",
-      "published_iso": "2026-08-31T15:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/honor-robot-phone-hands-on-a-gimbal-phone-experiment-with-promising-results/l-intro-1788186136.jpg",
-      "excerpt": "Honor crammed a gimbal camera into a phone in a promising hardware experiment.",
-      "rationale": "A phone whose camera head physically moves — the clearest hands-on look yet at what industrial design does when AI hardware starts to actuate."
-    },
-    {
-      "id": "gadgets-android17-agent-dashboard",
-      "title": "Android 17 QPR2 Beta 4 puts AI agents under supervision with new dashboard",
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "url": "https://www.androidauthority.com/android-17-qpr2-beta-4-agent-dashboard-3704775/",
-      "source": "Android Authority",
-      "published_iso": "2026-08-31T11:05:45Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/03/Security-and-privacy-option-in-Android-settings-stock-photo-2.jpg",
-      "excerpt": "Google's latest Android 17 QPR2 beta introduces an Agent section in Settings to keep tabs on agentic features running on your device.",
-      "rationale": "An OS-level supervision UI for on-device agents is a brand-new interaction pattern designers will have to account for in every app."
-    },
-    {
-      "id": "gadgets-apple-smart-glasses-2027",
-      "title": "Apple will be launching its first pair of smart glasses next year: Here's what's coming",
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
-      "source": "9to5Mac",
-      "published_iso": "2026-08-29T14:48:00Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. They'll integrate Visual Intelligence...",
-      "rationale": "Apple entering camera glasses resets the AI-wearable category around a mass-market industrial-design player — a roadmap worth planning against now."
-    },
-    {
-      "id": "gadgets-framework-192gb-desktop",
-      "title": "Framework's 192 GB Ryzen AI Max 400 desktop inches closer to launch",
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "url": "https://www.notebookcheck.net/Framework-s-192-GB-Ryzen-AI-Max-400-desktop-inches-closer-to-launch.1383390.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-08-30T19:12:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Framework-Gorgon-Halo-Desktop-header.png",
-      "excerpt": "Framework has revealed more details about its upcoming Desktop configuration powered by AMD's Ryzen AI Max+ Pro 495 Gorgon Halo APU. Alongside support for up to 192 GB of unified memory, the system offers around 6.6% more memory bandwidth than the existing Strix Halo model.",
-      "rationale": "192 GB of unified memory in a repairable desktop redefines the personal AI workstation — big local models without a cloud bill."
-    },
-    {
-      "id": "gadgets-meta-xr-operator",
-      "title": "New Dev Tool From Meta Enables AI to Quickly Test Quest Games",
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-26T06:50:17Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
-      "excerpt": "Meta has introduced Meta XR Operator, an experimental tool designed to let AI coding agents autonomously build, test, debug, and visually verify VR apps.",
-      "rationale": "AI agents that build, run and visually verify VR builds change the XR QA loop — the first credible agentic step into spatial prototyping."
-    }
-  ],
-  "dedup": {
-    "against_days": 5,
-    "history_cards_checked": 30,
-    "dropped": [
-      {
-        "url": "https://9to5google.com/2026/08/27/plaud-one-is-a-pair-of-air-recording-earbuds/",
-        "reason": "same release as published 2026-08-28 card gadgets-plaud-one (CNET)"
-      },
-      {
-        "url": "https://9to5google.com/2026/08/28/meta-ray-ban-smart-glasses-privacy-led-loophole-update/",
-        "reason": "same event as published 2026-08-28 card gadgets-meta-led (The Verge)"
-      },
-      {
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/27/hugging-face-offers-399-robot-duck-to-help-you-quack-the-ai-code/5293011",
-        "reason": "same launch as published 2026-08-28 card gadgets-microduck (TechRadar)"
-      },
-      {
-        "url": "https://www.tomshardware.com/phones/android/google-clamps-down-on-android-app-ram-usage-amid-ai-memory-crisis-developers-have-until-february-2027-to-adapt-to-new-memory-optimizing-rules",
-        "reason": "same policy news as published 2026-08-28 card gadgets-android-ram (Digital Trends)"
-      },
-      {
-        "url": "https://www.androidauthority.com/gemini-nano-4-supported-devices-3704226/",
-        "reason": "same story as published 2026-08-30 card gadgets-gemini-nano-4 (9to5Google)"
-      },
-      {
-        "url": "https://www.zdnet.com/article/google-pixel-11-review/",
-        "reason": "same product review as published 2026-08-30 card gadgets-pixel-11 (Android Central)"
-      },
-      {
-        "url": "https://www.androidcentral.com/phones/samsung-galaxy/the-galaxy-s26-gets-samsungs-clever-new-video-tool-in-one-ui-9-beta",
-        "reason": "My FanCam already covered in published 2026-08-29 card gadgets-oneui9-beta7 (Android Authority)"
-      },
-      {
-        "url": "https://www.notebookcheck.net/China-aims-to-flood-the-market-with-humanoid-robots-but-they-re-still-too-dumb-to-replace-workers.1381002.0.html",
-        "reason": "same capability-vs-hype thesis as published 2026-08-31 card gadgets-china-humanoid-games (The Verge)"
-      },
-      {
-        "url": "https://9to5mac.com/2026/08/31/ios-27-beta-8/",
-        "reason": "same iOS 27 Siri overhaul topic as published 2026-08-30 card gadgets-ios27-siri-app (Engadget)"
-      },
-      {
-        "url": "https://www.zdnet.com/article/perplexity-ai-agentic-personal-computer-complex-tasks-windows/",
-        "reason": "same Perplexity agentic-computer topic as published 2026-08-26 card gadgets-perplexity-portable (Tom's Guide)"
-      },
-      {
-        "url": "https://www.notebookcheck.net/Garmin-Fenix-9-Pro-expected-to-use-new-ARM-chip-with-50-more-RAM-and-AI-accelerator.1379157.0.html",
-        "reason": "same product cycle as published 2026-08-26 card gadgets-garmin-epic (Gizmodo)"
-      }
-    ]
+ "date": "2026-09-02",
+ "section": "gadgets",
+ "count": 5,
+ "items": [
+  {
+   "id": "gadgets-meta-muse-transcribe",
+   "tool": "Gadgets",
+   "accent": "#ff5a4d",
+   "motif": "headset",
+   "url": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
+   "source": "Engadget",
+   "published_iso": "2026-09-01T21:56:29+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/l-intro-1788299695.jpg",
+   "excerpt": "Meta's Muse Voice Transcribe is its first real-time audio perception model, handling streaming multilingual transcription and separating overlapping speakers — the perception layer that on-device wearables like smart glasses need.",
+   "rationale": "풀에서 가장 신선한(09-01) 1차 릴리스이자, 스마트 글라스가 필요로 하던 실시간 음성 인지 층을 처음으로 제품화한 발표."
   },
-  "diversity": {
-    "outlets": [
-      "Engadget",
-      "Android Authority",
-      "9to5Mac",
-      "Notebookcheck",
-      "Road to VR"
-    ],
-    "max_per_outlet": 1,
-    "topic_spread": [
-      "phone hardware / robotics",
-      "OS-level agent UI",
-      "smart glasses",
-      "local AI workstation",
-      "XR dev tooling"
-    ]
+  {
+   "id": "gadgets-google-pics-ga",
+   "tool": "Gadgets",
+   "accent": "#0070f3",
+   "motif": "headset",
+   "url": "https://www.androidauthority.com/google-pics-general-availability-3704615/",
+   "source": "Android Authority",
+   "published_iso": "2026-09-01T16:00:01+00:00",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pics-official-image.jpg",
+   "excerpt": "Google Pics, Workspace's 'pro-level' AI image creator and editor, hits general availability as a direct Canva competitor for everyday design work.",
+   "rationale": "베타가 아니라 전면 공개 — 디자이너의 이미지 제작 도구 선택지가 내일부터 실제로 하나 늘어난다."
+  },
+  {
+   "id": "gadgets-paint-ai-watermark",
+   "tool": "Gadgets",
+   "accent": "#7928ca",
+   "motif": "headset",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-paint-and-photos-apps-add-invisible-watermark-to-ai-generated-content-developer-reverse-engineers-guid-embedding",
+   "source": "Tom's Hardware",
+   "published_iso": "2026-08-26T10:30:00+00:00",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/Lprea3UQKgEfTJQJKLT4qa-1920-80.jpg",
+   "excerpt": "A developer reverse-engineered a server-issued GUID watermark that Windows Paint and Photos embed in every AI-generated image — including images made locally on Copilot+ PCs.",
+   "rationale": "내 PC에서 만든 이미지에 서버 발급 식별자가 박힌다는 리버스 엔지니어링 결과 — 결과물 출처·프라이버시 점검이 필요한 실무 이슈."
+  },
+  {
+   "id": "gadgets-atlas-brain-wearable",
+   "tool": "Gadgets",
+   "accent": "#2ec5c5",
+   "motif": "headset",
+   "url": "https://gizmodo.com/the-atlas-1-0-brain-wearable-can-tell-if-youre-locked-in-2000805864",
+   "source": "Gizmodo",
+   "published_iso": "2026-09-01T21:15:42+00:00",
+   "og_image": "https://gizmodo.com/app/uploads/2026/09/Atlas-1200x675.jpg",
+   "excerpt": "Atlas' first $499 wearable EEG reads brain activity to tell wearers when they are in a focus state — a new sensing category aimed squarely at knowledge and creative work.",
+   "rationale": "심박·수면 계열로 굳어 있던 웨어러블 센싱을 뇌파와 집중 상태로 옮긴 신규 카테고리 제품, 값과 출시가 확정된 실물."
+  },
+  {
+   "id": "gadgets-sonos-27",
+   "tool": "Gadgets",
+   "accent": "#eb367f",
+   "motif": "headset",
+   "url": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system/",
+   "source": "Engadget",
+   "published_iso": "2026-09-01T14:40:00+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/sonos-will-soon-let-ai-assistants-control-your-system/l-intro-1788221155.jpg",
+   "excerpt": "Sonos 27 redesigns the app UI and opens the speaker system to AI agents, turning a hardware ecosystem into something an assistant can drive directly.",
+   "rationale": "앱 UI 개편과 에이전트 제어를 한 릴리스에 묶었다 — 하드웨어 제품의 인터페이스가 사람에서 에이전트로 넘어가는 구체적 사례."
   }
+ ],
+ "picks": [
+  {
+   "id": "gadgets-meta-muse-transcribe",
+   "tool": "Gadgets",
+   "accent": "#ff5a4d",
+   "motif": "headset",
+   "url": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
+   "source": "Engadget",
+   "published_iso": "2026-09-01T21:56:29+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/l-intro-1788299695.jpg",
+   "excerpt": "Meta's Muse Voice Transcribe is its first real-time audio perception model, handling streaming multilingual transcription and separating overlapping speakers — the perception layer that on-device wearables like smart glasses need.",
+   "rationale": "풀에서 가장 신선한(09-01) 1차 릴리스이자, 스마트 글라스가 필요로 하던 실시간 음성 인지 층을 처음으로 제품화한 발표."
+  },
+  {
+   "id": "gadgets-google-pics-ga",
+   "tool": "Gadgets",
+   "accent": "#0070f3",
+   "motif": "headset",
+   "url": "https://www.androidauthority.com/google-pics-general-availability-3704615/",
+   "source": "Android Authority",
+   "published_iso": "2026-09-01T16:00:01+00:00",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pics-official-image.jpg",
+   "excerpt": "Google Pics, Workspace's 'pro-level' AI image creator and editor, hits general availability as a direct Canva competitor for everyday design work.",
+   "rationale": "베타가 아니라 전면 공개 — 디자이너의 이미지 제작 도구 선택지가 내일부터 실제로 하나 늘어난다."
+  },
+  {
+   "id": "gadgets-paint-ai-watermark",
+   "tool": "Gadgets",
+   "accent": "#7928ca",
+   "motif": "headset",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-paint-and-photos-apps-add-invisible-watermark-to-ai-generated-content-developer-reverse-engineers-guid-embedding",
+   "source": "Tom's Hardware",
+   "published_iso": "2026-08-26T10:30:00+00:00",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/Lprea3UQKgEfTJQJKLT4qa-1920-80.jpg",
+   "excerpt": "A developer reverse-engineered a server-issued GUID watermark that Windows Paint and Photos embed in every AI-generated image — including images made locally on Copilot+ PCs.",
+   "rationale": "내 PC에서 만든 이미지에 서버 발급 식별자가 박힌다는 리버스 엔지니어링 결과 — 결과물 출처·프라이버시 점검이 필요한 실무 이슈."
+  },
+  {
+   "id": "gadgets-atlas-brain-wearable",
+   "tool": "Gadgets",
+   "accent": "#2ec5c5",
+   "motif": "headset",
+   "url": "https://gizmodo.com/the-atlas-1-0-brain-wearable-can-tell-if-youre-locked-in-2000805864",
+   "source": "Gizmodo",
+   "published_iso": "2026-09-01T21:15:42+00:00",
+   "og_image": "https://gizmodo.com/app/uploads/2026/09/Atlas-1200x675.jpg",
+   "excerpt": "Atlas' first $499 wearable EEG reads brain activity to tell wearers when they are in a focus state — a new sensing category aimed squarely at knowledge and creative work.",
+   "rationale": "심박·수면 계열로 굳어 있던 웨어러블 센싱을 뇌파와 집중 상태로 옮긴 신규 카테고리 제품, 값과 출시가 확정된 실물."
+  },
+  {
+   "id": "gadgets-sonos-27",
+   "tool": "Gadgets",
+   "accent": "#eb367f",
+   "motif": "headset",
+   "url": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system/",
+   "source": "Engadget",
+   "published_iso": "2026-09-01T14:40:00+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/sonos-will-soon-let-ai-assistants-control-your-system/l-intro-1788221155.jpg",
+   "excerpt": "Sonos 27 redesigns the app UI and opens the speaker system to AI agents, turning a hardware ecosystem into something an assistant can drive directly.",
+   "rationale": "앱 UI 개편과 에이전트 제어를 한 릴리스에 묶었다 — 하드웨어 제품의 인터페이스가 사람에서 에이전트로 넘어가는 구체적 사례."
+  }
+ ],
+ "dedup": {
+  "pool": 17,
+  "checked_against": "news_data.json sections.gadgets today(2026-09-01) + days(2026-08-27..08-31), 30 published cards",
+  "dropped_as_duplicates": 2,
+  "notes": [
+   "9to5Mac 'Meta launches Muse Voice Transcribe for real-time voice dictation on Mac' = same 2026-09-01 Meta release as the Engadget Muse Voice Transcribe story; within-pool duplicate, kept Engadget (model-level coverage, not just the Mac app).",
+   "TechRadar 'Sonos CEO Tom Conrad exclusive' = same Sonos 27 / Ace Ultra release cycle as the Engadget Sonos 27 story; within-pool duplicate, kept Engadget (the actual release news).",
+   "No candidate matched an already-published gadgets card. Nearest adjacencies checked and cleared: Gemini Live productivity upgrade vs published gadgets-gemini-transcribe (08-27) and gadgets-gemini-nano-4 (08-30) — different products; Meta Ray-Ban Display feature trickle-down vs published gadgets-meta-led (08-28) — different story; Notebookcheck Lenovo Panther Lake AIO vs gadgets-framework-192gb-desktop (09-01) — different vendor/product.",
+   "Surviving-but-unused ranked backups in order: Perplexity Hybrid Compute (Engadget, blocked by 2-per-outlet cap), Meta Ray-Ban Display feature to standard glasses (Digital Trends), XDA local LLM rebuilds Adobe format, RayNeo iO Smart Glasses (Digital Trends), Homey Portal (Android Authority)."
+  ]
+ },
+ "diversity": {
+  "outlets": [
+   "Engadget",
+   "Android Authority",
+   "Tom's Hardware",
+   "Gizmodo"
+  ],
+  "max_per_outlet": 2,
+  "distinct_outlets": 4,
+  "topic_spread": [
+   "on-device speech model",
+   "AI design tool GA",
+   "AI provenance/watermarking",
+   "new wearable sensing category",
+   "agent-controlled hardware UI"
+  ]
+ }
 }

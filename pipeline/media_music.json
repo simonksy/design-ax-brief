@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-01",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-stable-audio-daw",
-      "type": "video",
-      "src": "pipeline/media/music-stable-audio-daw.mp4",
-      "poster": "pipeline/media/music-stable-audio-daw.jpg"
-    },
-    {
-      "id": "music-ai-track-detectives",
-      "type": "image",
-      "src": "pipeline/media/music-ai-track-detectives.jpg"
-    },
-    {
-      "id": "music-aria-chart-ban",
-      "type": "image",
-      "src": "pipeline/media/music-aria-chart-ban.jpg"
-    },
-    {
-      "id": "music-jazz-profile-hijack",
-      "type": "image",
-      "src": "pipeline/media/music-jazz-profile-hijack.png"
-    },
-    {
-      "id": "music-musical-spirograph",
-      "type": "image",
-      "src": "pipeline/media/music-musical-spirograph.png"
-    }
-  ]
+ "date": "2026-09-02",
+ "section": "music",
+ "media": [
+  {
+   "id": "music-denon-prime-4-g2",
+   "type": "video",
+   "src": "pipeline/media/music-denon-prime-4-g2.mp4",
+   "poster": "pipeline/media/music-denon-prime-4-g2.jpg"
+  },
+  {
+   "id": "music-declared-intent-search",
+   "type": "image",
+   "src": "pipeline/media/music-declared-intent-search.jpg"
+  },
+  {
+   "id": "music-ai-watermarks",
+   "type": "image",
+   "src": "pipeline/media/music-ai-watermarks.jpg"
+  },
+  {
+   "id": "music-artist-operating-system",
+   "type": "image",
+   "src": "pipeline/media/music-artist-operating-system.jpg"
+  },
+  {
+   "id": "music-vibe-coded-plugins",
+   "type": "image",
+   "src": "pipeline/media/music-vibe-coded-plugins.jpg"
+  }
+ ]
 }
