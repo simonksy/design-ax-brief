@@ -1,158 +1,190 @@
 {
- "date": "2026-09-02",
- "section": "movies",
- "count": 5,
- "items": [
-  {
-   "id": "movies-gadot-bitcoin-ai-sets",
-   "tool": "Movies",
-   "accent": "#0070f3",
-   "motif": "frame",
-   "url": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
-   "source": "Variety",
-   "published_iso": "2026-08-31T22:05:08+00:00",
-   "og_image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg?w=1000&h=563&crop=1",
-   "excerpt": "Doug Liman's $70M 'Bitcoin' used AI to build sets and lighting instead of physical production design. Gadot says her lawyers spent six months on the contract so AI touched none of her performance.",
-   "rationale": "AI가 프로덕션 디자인과 조명을 통째로 대체한 스튜디오급 장편의 첫 실사례이자, 배우 계약이 어디에 선을 긋는지 보여주는 문서."
-  },
-  {
-   "id": "movies-ae-portal-aug-2026",
-   "tool": "Movies",
-   "accent": "#f5a623",
-   "motif": "frame",
-   "url": "https://www.provideocoalition.com/after-effects-portal-august-2026/",
-   "source": "ProVideo Coalition",
-   "published_iso": "2026-08-31T18:52:44+00:00",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/ba2.jpg",
-   "excerpt": "Rich Young's monthly After Effects roundup covers the year's big feature drops, the wave of AI and freemium competitors circling motion design, and third-party plug-in news for AE 26.3.",
-   "rationale": "AE 26.3 기능·플러그인 변화를 한 번에 정리해 모션 디자이너가 내일 바로 도구 목록을 갱신할 수 있는 실무 자료."
-  },
-  {
-   "id": "movies-ibc-2026-preview",
-   "tool": "Movies",
-   "accent": "#7928ca",
-   "motif": "frame",
-   "url": "https://definitionmagazine.com/features/ibc-2026-preview/",
-   "source": "Definition",
-   "published_iso": "2026-08-28T09:00:17+00:00",
-   "og_image": "https://api.definitionmagazine.com/wp-content/uploads/2026/08/IBC-13sep24_HR_Melanie-Lemahieu-410-1024x683.jpeg",
-   "excerpt": "Definition's rundown of what 45,000 media pros will see in Amsterdam, including DaVinci Resolve Studio 21's AI-assisted editorial/colour tools and agentic workflow pitches across the show floor.",
-   "rationale": "이번 주 IBC에서 쏟아질 에이전틱 포스트 워크플로를 벤더별로 미리 배치해준 지도 — 개별 릴리스 기사보다 한 층 위의 시야."
-  },
-  {
-   "id": "movies-resolve-21-webinars",
-   "tool": "Movies",
-   "accent": "#2ec5c5",
-   "motif": "frame",
-   "url": "https://www.redsharknews.com/davinci-resolve-21-free-webinars-2026",
-   "source": "RedShark News",
-   "published_iso": "2026-08-30T04:24:30+00:00",
-   "og_image": "https://www.redsharknews.com/hubfs/davinci%20resolve%20ai.jpg",
-   "excerpt": "Blackmagic's free Resolve 21 webinar series runs September to November, walking through the AI-assisted editorial, colour and Fairlight tooling session by session.",
-   "rationale": "9~11월 무료 세션 일정과 링크가 그대로 나온 학습 캘린더 — 읽고 바로 등록하는 종류의 실행 가능한 정보."
-  },
-  {
-   "id": "movies-tiff-future-in-focus",
-   "tool": "Movies",
-   "accent": "#eb367f",
-   "motif": "frame",
-   "url": "https://variety.com/2026/film/news/variety-utopai-studios-host-future-in-focus-tiff-1236847582/",
-   "source": "Variety",
-   "published_iso": "2026-09-01T20:42:33+00:00",
-   "og_image": "https://variety.com/wp-content/uploads/2026/08/Future-in-Focus-Utopai-Studios-EA.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
-   "excerpt": "A Sept. 12 TIFF panel with Utopai's head of production, Liz Garbus, Rebel Wilson and Basil Iwanyk on how AI and immersive tools are changing how worlds and characters get built.",
-   "rationale": "풀에서 가장 신선(09-01)하고, AI 제작이 A급 영화제 공식 프로그램 안으로 들어가는 국면을 잡는다."
-  }
- ],
- "picks": [
-  {
-   "id": "movies-gadot-bitcoin-ai-sets",
-   "tool": "Movies",
-   "accent": "#0070f3",
-   "motif": "frame",
-   "url": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
-   "source": "Variety",
-   "published_iso": "2026-08-31T22:05:08+00:00",
-   "og_image": "https://variety.com/wp-content/uploads/2026/08/P105OUQS.jpg?w=1000&h=563&crop=1",
-   "excerpt": "Doug Liman's $70M 'Bitcoin' used AI to build sets and lighting instead of physical production design. Gadot says her lawyers spent six months on the contract so AI touched none of her performance.",
-   "rationale": "AI가 프로덕션 디자인과 조명을 통째로 대체한 스튜디오급 장편의 첫 실사례이자, 배우 계약이 어디에 선을 긋는지 보여주는 문서."
-  },
-  {
-   "id": "movies-ae-portal-aug-2026",
-   "tool": "Movies",
-   "accent": "#f5a623",
-   "motif": "frame",
-   "url": "https://www.provideocoalition.com/after-effects-portal-august-2026/",
-   "source": "ProVideo Coalition",
-   "published_iso": "2026-08-31T18:52:44+00:00",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/ba2.jpg",
-   "excerpt": "Rich Young's monthly After Effects roundup covers the year's big feature drops, the wave of AI and freemium competitors circling motion design, and third-party plug-in news for AE 26.3.",
-   "rationale": "AE 26.3 기능·플러그인 변화를 한 번에 정리해 모션 디자이너가 내일 바로 도구 목록을 갱신할 수 있는 실무 자료."
-  },
-  {
-   "id": "movies-ibc-2026-preview",
-   "tool": "Movies",
-   "accent": "#7928ca",
-   "motif": "frame",
-   "url": "https://definitionmagazine.com/features/ibc-2026-preview/",
-   "source": "Definition",
-   "published_iso": "2026-08-28T09:00:17+00:00",
-   "og_image": "https://api.definitionmagazine.com/wp-content/uploads/2026/08/IBC-13sep24_HR_Melanie-Lemahieu-410-1024x683.jpeg",
-   "excerpt": "Definition's rundown of what 45,000 media pros will see in Amsterdam, including DaVinci Resolve Studio 21's AI-assisted editorial/colour tools and agentic workflow pitches across the show floor.",
-   "rationale": "이번 주 IBC에서 쏟아질 에이전틱 포스트 워크플로를 벤더별로 미리 배치해준 지도 — 개별 릴리스 기사보다 한 층 위의 시야."
-  },
-  {
-   "id": "movies-resolve-21-webinars",
-   "tool": "Movies",
-   "accent": "#2ec5c5",
-   "motif": "frame",
-   "url": "https://www.redsharknews.com/davinci-resolve-21-free-webinars-2026",
-   "source": "RedShark News",
-   "published_iso": "2026-08-30T04:24:30+00:00",
-   "og_image": "https://www.redsharknews.com/hubfs/davinci%20resolve%20ai.jpg",
-   "excerpt": "Blackmagic's free Resolve 21 webinar series runs September to November, walking through the AI-assisted editorial, colour and Fairlight tooling session by session.",
-   "rationale": "9~11월 무료 세션 일정과 링크가 그대로 나온 학습 캘린더 — 읽고 바로 등록하는 종류의 실행 가능한 정보."
-  },
-  {
-   "id": "movies-tiff-future-in-focus",
-   "tool": "Movies",
-   "accent": "#eb367f",
-   "motif": "frame",
-   "url": "https://variety.com/2026/film/news/variety-utopai-studios-host-future-in-focus-tiff-1236847582/",
-   "source": "Variety",
-   "published_iso": "2026-09-01T20:42:33+00:00",
-   "og_image": "https://variety.com/wp-content/uploads/2026/08/Future-in-Focus-Utopai-Studios-EA.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
-   "excerpt": "A Sept. 12 TIFF panel with Utopai's head of production, Liz Garbus, Rebel Wilson and Basil Iwanyk on how AI and immersive tools are changing how worlds and characters get built.",
-   "rationale": "풀에서 가장 신선(09-01)하고, AI 제작이 A급 영화제 공식 프로그램 안으로 들어가는 국면을 잡는다."
-  }
- ],
- "dedup": {
-  "pool": 9,
-  "dropped_as_duplicates": 4,
-  "notes": [
-   "RedShark 'Photoshop AI Assisted Editor: Markup tool arrives' = already published 2026-08-30 as movies-photoshop-firefly5 (AWN). The published card already covers the AI Assisted Editor beta AND the Markup sketch-to-edit tool by name. Same release, different outlet.",
-   "postPerspective 'Avid Media Composer 2026.8 at IBC' = already published 2026-08-28 as movies-media-composer-2026-8 (RedShark). Same release; the published card already names Ready to Edit, Content Core panel and PhraseFindAI Multicam Auto Cut.",
-   "befores & afters 'Nikola Todorovic on Autodesk Flow Studio' = already published 2026-08-27 as movies-flow-studio-3d (fxguide). Same interviewee, same 3D Editor + Canvas walkthrough, different outlet write-up of the same fxpodcast material.",
-   "RedShark 'Eddie AI: client reviews, Resolve markers, PAYG credits' = already published 2026-08-29 as movies-eddie-ai-credits (CineD). Same August release (PAYG credits, review/collaboration layer), different outlet angle.",
-   "No within-pool duplicates among the 5 survivors. The two Variety items are distinct stories (a production's AI set/lighting workflow vs a TIFF panel announcement), not a content-hub pair."
+  "date": "2026-09-03",
+  "section": "movies",
+  "selected_by": "curator (user deferred)",
+  "picks": [
+    {
+      "rank": 1,
+      "tool": "Movies",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "Introducing Runway Ruby",
+      "url": "https://www.youtube.com/watch?v=4IliQGaQwJ8",
+      "source": "Runway (YouTube)",
+      "published_iso": "2026-08-21T20:47:21+00:00",
+      "og_image": "https://i.ytimg.com/vi/4IliQGaQwJ8/maxresdefault.jpg",
+      "excerpt": "Runway Ruby is a new model that generates 16-bit HDR ProRes and EXR sequences, or converts existing clips into them — pushing generative video into finishing-grade formats that film pipelines actually ingest.",
+      "rationale": "First generative model that outputs finishing-grade 16-bit HDR ProRes/EXR, so generated footage can enter a real conform and grade instead of stopping at 8-bit web delivery."
+    },
+    {
+      "rank": 2,
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "title": "Nikola Todorovic on the latest developments in Autodesk's Flow Studio",
+      "url": "https://beforesandafters.com/2026/09/01/nikola-todorovic-on-the-latest-developments-in-autodesks-flow-studio/",
+      "source": "befores & afters",
+      "published_iso": "2026-09-01T11:50:50+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg",
+      "excerpt": "Flow Studio (ex-Wonder Dynamics) adds a 3D Editor + Canvas: a single workspace for generation, scene assembly, rendering and refinement, aimed at giving filmmakers shot-level control over AI output.",
+      "rationale": "Autodesk puts generation, scene assembly and rendering in one 3D workspace — the shot-level control layer most AI video tools still lack, straight from the product lead."
+    },
+    {
+      "rank": 3,
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "title": "Caira gets AI generative video editing feature",
+      "url": "https://www.redsharknews.com/caira-generative-video-editing-gemini-runway-aleph",
+      "source": "RedShark News",
+      "published_iso": "2026-09-02T16:23:37+00:00",
+      "og_image": "https://www.redsharknews.com/hubfs/Caira%20Camera.jpg",
+      "excerpt": "Camera Intelligence's Caira adds generative video editing driven by Gemini and Runway Aleph, moving prompt-based shot manipulation onto the camera itself rather than into post.",
+      "rationale": "Prompt-based shot manipulation moves from post onto the camera body — a genuinely new place in the pipeline for generative editing, and fresh today."
+    },
+    {
+      "rank": 4,
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "title": "Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers",
+      "url": "https://nofilmschool.com/eddie-ai-agent-marketplace",
+      "source": "No Film School",
+      "published_iso": "2026-09-02T20:55:01+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=67720010&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
+      "excerpt": "Eddie AI's new Agent Marketplace offers assistant-editing agents built on the stated rules of well-known editors and directors, letting cutters swap in a named editorial point of view.",
+      "rationale": "Editorial style becomes a selectable agent — a distinct new release (not the August pricing/MCP overhaul) that changes how an assistant edit gets briefed."
+    },
+    {
+      "rank": 5,
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "title": "Danny Boyle speaks out against AI proliferation: \"It's insane what we're doing\"",
+      "url": "https://www.screendaily.com/news/danny-boyle-speaks-out-against-ai-proliferation-its-insane-what-were-doing/5219943.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-09-02T12:40:00+00:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/3/7/1/1486371_114769press_conference__ink__director_danny_boyle__credits_ph_jacopo_salvi__courtesy_archivio_storico_la_biennale_di_venezia__312458.jpg",
+      "excerpt": "At Venice for 'Ink', Danny Boyle argues the industry's rush into generative tools is corroding the verification work that journalism — and filmmaking — depends on.",
+      "rationale": "Balances four tool releases with the craft argument from a major director at Venice — the verification cost of generative media, stated on the record today."
+    }
   ],
-  "backfill": "After the 4 drops, exactly 5 unique, never-before-published stories remained — all 5 were taken, nothing padded."
- },
- "diversity": {
-  "outlets": [
-   "Variety",
-   "ProVideo Coalition",
-   "Definition",
-   "RedShark News"
+  "dropped": [
+    {
+      "title": "Avid Media Composer 2026.8 is now available",
+      "url": "https://www.provideocoalition.com/avid-media-composer-2026-8-is-now-available/",
+      "reason": "DUPLICATE of published card movies-media-composer-2026-8 (RedShark News, 2026-08-28) — same Media Composer 2026.8 release, different outlet."
+    },
+    {
+      "title": "Introducing Solaris, our first Interface World Model",
+      "url": "https://www.youtube.com/watch?v=c2yCePPnrSA",
+      "reason": "Deselected per orchestrator: likely cross-section duplicate with the design section. Runway Ruby used as the film-native Runway pick instead."
+    },
+    {
+      "title": "AccuFACE 2 Grand Launch (befores & afters)",
+      "url": "https://beforesandafters.com/2026/08/21/accuface-2-grand-launch-professional-grade-facial-mocap-for-cc5-hd-characters/",
+      "reason": "Fresh and eligible, but ranked 6th; also would have made befores & afters a 2-card outlet. Held as backfill."
+    },
+    {
+      "title": "EditShare Updates at IBC Include EFS, Flow AI and MediaSilo",
+      "url": "https://postperspective.com/editshare-to-update-efs-flow-ai-and-mediasilo-at-ibc/",
+      "reason": "Fresh but pre-show storage roadmap; low actionability versus the picks."
+    },
+    {
+      "title": "Crafty Apes CEO Alana Newell (fxguide podcast)",
+      "url": "https://www.fxguide.com/fxpodcasts/crafty-apes-ceo-alana-newell/",
+      "reason": "Interesting but a profile podcast; nothing a designer/editor acts on tomorrow."
+    },
+    {
+      "title": "Variety items (Sunny Hostin likeness, voice-cloning campaign, Busan InnoAsia)",
+      "url": "https://variety.com/2026/biz/news/the-view-sunny-hostin-her-likeness-to-ai-studio-fountain-0-1236845286/",
+      "reason": "All fresh, but Variety already carries three published movies cards this week and the rights/policy angle is covered by the Danny Boyle pick; also 3 Variety cards would break the ≤2-per-outlet guard."
+    },
+    {
+      "title": "AI Sci-Fi Series 'Kira' Heads To MIPCOM",
+      "url": "https://deadline.com/2026/08/ai-sci-fi-series-kira-heads-to-mipcom-images-1237061760/",
+      "reason": "Market-announcement news, weakest actionability of the surviving pool."
+    }
   ],
-  "max_per_outlet": 2,
-  "distinct_outlets": 4,
-  "topic_spread": [
-   "AI production design / talent contracts",
-   "motion-design tool roundup",
-   "trade show / vendor roadmap",
-   "free training on NLE AI tooling",
-   "festival programming"
+  "diversity_check": {
+    "outlets": [
+      "Runway (YouTube)",
+      "befores & afters",
+      "RedShark News",
+      "No Film School",
+      "Screen Daily"
+    ],
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
+    "unique_urls": true,
+    "dedup_against_days": 5,
+    "dedup_against_stories": 30
+  },
+  "items": [
+    {
+      "rank": 1,
+      "tool": "Movies",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "Introducing Runway Ruby",
+      "url": "https://www.youtube.com/watch?v=4IliQGaQwJ8",
+      "source": "Runway (YouTube)",
+      "published_iso": "2026-08-21T20:47:21+00:00",
+      "og_image": "https://i.ytimg.com/vi/4IliQGaQwJ8/maxresdefault.jpg",
+      "excerpt": "Runway Ruby is a new model that generates 16-bit HDR ProRes and EXR sequences, or converts existing clips into them — pushing generative video into finishing-grade formats that film pipelines actually ingest.",
+      "rationale": "First generative model that outputs finishing-grade 16-bit HDR ProRes/EXR, so generated footage can enter a real conform and grade instead of stopping at 8-bit web delivery."
+    },
+    {
+      "rank": 2,
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "title": "Nikola Todorovic on the latest developments in Autodesk's Flow Studio",
+      "url": "https://beforesandafters.com/2026/09/01/nikola-todorovic-on-the-latest-developments-in-autodesks-flow-studio/",
+      "source": "befores & afters",
+      "published_iso": "2026-09-01T11:50:50+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg",
+      "excerpt": "Flow Studio (ex-Wonder Dynamics) adds a 3D Editor + Canvas: a single workspace for generation, scene assembly, rendering and refinement, aimed at giving filmmakers shot-level control over AI output.",
+      "rationale": "Autodesk puts generation, scene assembly and rendering in one 3D workspace — the shot-level control layer most AI video tools still lack, straight from the product lead."
+    },
+    {
+      "rank": 3,
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "title": "Caira gets AI generative video editing feature",
+      "url": "https://www.redsharknews.com/caira-generative-video-editing-gemini-runway-aleph",
+      "source": "RedShark News",
+      "published_iso": "2026-09-02T16:23:37+00:00",
+      "og_image": "https://www.redsharknews.com/hubfs/Caira%20Camera.jpg",
+      "excerpt": "Camera Intelligence's Caira adds generative video editing driven by Gemini and Runway Aleph, moving prompt-based shot manipulation onto the camera itself rather than into post.",
+      "rationale": "Prompt-based shot manipulation moves from post onto the camera body — a genuinely new place in the pipeline for generative editing, and fresh today."
+    },
+    {
+      "rank": 4,
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "title": "Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers",
+      "url": "https://nofilmschool.com/eddie-ai-agent-marketplace",
+      "source": "No Film School",
+      "published_iso": "2026-09-02T20:55:01+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=67720010&width=1200&height=600&coordinates=0%2C20%2C0%2C20",
+      "excerpt": "Eddie AI's new Agent Marketplace offers assistant-editing agents built on the stated rules of well-known editors and directors, letting cutters swap in a named editorial point of view.",
+      "rationale": "Editorial style becomes a selectable agent — a distinct new release (not the August pricing/MCP overhaul) that changes how an assistant edit gets briefed."
+    },
+    {
+      "rank": 5,
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "title": "Danny Boyle speaks out against AI proliferation: \"It's insane what we're doing\"",
+      "url": "https://www.screendaily.com/news/danny-boyle-speaks-out-against-ai-proliferation-its-insane-what-were-doing/5219943.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-09-02T12:40:00+00:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/3/7/1/1486371_114769press_conference__ink__director_danny_boyle__credits_ph_jacopo_salvi__courtesy_archivio_storico_la_biennale_di_venezia__312458.jpg",
+      "excerpt": "At Venice for 'Ink', Danny Boyle argues the industry's rush into generative tools is corroding the verification work that journalism — and filmmaking — depends on.",
+      "rationale": "Balances four tool releases with the craft argument from a major director at Venice — the verification cost of generative media, stated on the record today."
+    }
   ]
- }
 }

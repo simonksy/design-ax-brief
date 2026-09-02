@@ -1,31 +1,31 @@
 {
- "date": "2026-09-02",
- "section": "books",
- "media": [
-  {
-   "id": "books-kh-ttalkkak-translation",
-   "type": "image",
-   "src": "pipeline/media/books-kh-ttalkkak-translation.jpg"
-  },
-  {
-   "id": "books-guest-post-the-human",
-   "type": "image",
-   "src": "pipeline/media/books-guest-post-the-human.jpg"
-  },
-  {
-   "id": "books-appeal-over-legal-fees",
-   "type": "image",
-   "src": "pipeline/media/books-appeal-over-legal-fees.jpg"
-  },
-  {
-   "id": "books-kr-publishing-knowledge-platform",
-   "type": "image",
-   "src": "pipeline/media/books-kr-publishing-knowledge-platform.jpg"
-  },
-  {
-   "id": "books-zlibrary-my-beloved-anthropic",
-   "type": "image",
-   "src": "pipeline/media/books-zlibrary-my-beloved-anthropic.jpg"
-  }
- ]
+  "date": "2026-09-03",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-harriman-ai-facilitated-pal",
+      "type": "image",
+      "src": "pipeline/media/books-harriman-ai-facilitated-pal.jpg"
+    },
+    {
+      "id": "books-african-audiobook-market",
+      "type": "image",
+      "src": "pipeline/media/books-african-audiobook-market.png"
+    },
+    {
+      "id": "books-ai-custom-written-novels",
+      "type": "image",
+      "src": "pipeline/media/books-ai-custom-written-novels.png"
+    },
+    {
+      "id": "books-ai-personalization-echo-chamber",
+      "type": "image",
+      "src": "pipeline/media/books-ai-personalization-echo-chamber.jpg"
+    },
+    {
+      "id": "books-can-ai-replace-your-editor",
+      "type": "image",
+      "src": "pipeline/media/books-can-ai-replace-your-editor.jpg"
+    }
+  ]
 }

@@ -1,138 +1,134 @@
 {
- "date": "2026-09-02",
- "section": "science",
- "selected_by": "curator (user deferred)",
- "pool_size": 14,
- "dedup": {
-  "against_days": 5,
-  "history_cards_checked": 30,
-  "url_level_prefilter": "candidates_filtered_science.json already dropped 2 URL-level duplicates",
-  "dropped": [
-   {
-    "url": "https://techxplore.com/news/2026-09-kind-ai-cheaply-words.html",
-    "reason": "within-pool duplicate — same latent-space reasoning research as the selected Live Science piece; kept the version carrying the concrete 11x cost figure"
-   },
-   {
-    "url": "https://phys.org/news/2026-08-llm-based-platform-generating-materials.html",
-    "reason": "near-duplicate topic of published 2026-08-30 card science-mof-linker-ml (Phys.org) — LLM reading the materials literature to propose synthesis; also 7 days old"
-   },
-   {
-    "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
-    "reason": "Janelia shared-memory instrument-control layer overlaps the Anthropic Model Hardware Standard thread already covered in the published 2026-08-29 card science-quera-claude"
-   },
-   {
-    "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
-    "reason": "evergreen essay, no new release or result — fails novelty/actionability"
-   },
-   {
-    "url": "https://thequantuminsider.com/2026/09/01/quantum-classical-software-tests-new-approach-to-protein-folding/",
-    "reason": "surviving but not selected — third quantum item would break the domain spread; weaker than the IBM logical-qubit result"
-   },
-   {
-    "url": "https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/",
-    "reason": "surviving but not selected — same quantum-chemistry-for-drugs lane as published 2026-08-30 card science-quantum-docking (The Quantum Insider)"
-   },
-   {
-    "url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/",
-    "reason": "surviving but not selected — interview format, 7 days old, and STAT already ran in the 2026-08-30 science slate"
-   },
-   {
-    "url": "https://techxplore.com/news/2026-09-digital-brain-twins-hinge-brains.html",
-    "reason": "surviving but not selected — perspective piece ('researchers argue'), no new result to act on"
-   },
-   {
-    "url": "https://phys.org/news/2026-09-ai-tool-unusual-satellite-behavior.html",
-    "reason": "surviving but not selected — second Phys.org and second space item; lower-impact than the Alpha Centauri trajectory story"
-   }
-  ]
- },
- "diversity": {
-  "outlets": [
-   "MIT Technology Review",
-   "Phys.org",
-   "ScienceDaily",
-   "Google Research",
-   "Live Science"
+  "date": "2026-09-03",
+  "section": "science",
+  "count": 5,
+  "dedup": {
+    "checked_against": "news_data.json sections.science (today 2026-09-02 + days 2026-08-28..2026-09-01, 30 published cards)",
+    "dropped_as_duplicate": 0,
+    "note": "No candidate matched a published URL or story. Diversity guard applied: Phys.org capped at 2, 4 distinct outlets, 5 distinct science domains (fusion/plasma, materials, chemistry method, neurotech, clinical AI)."
+  },
+  "items": [
+    {
+      "title": "PACMAN AI framework for controlling fusion systems safely makes key decisions in milliseconds",
+      "url": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-02T21:00:08Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/pacman-ai-framework-fo.jpg",
+      "excerpt": "Princeton researchers built PACMAN, an AI plasma-control system that makes fusion reactor adjustments in about 20 milliseconds — far faster than a human operator. It chains multiple machine learning models to command reactor subsystems while enforcing hard safety constraints and keeping humans on the objectives.",
+      "tool": "Science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Princeton puts AI in the real-time control loop of a fusion reactor at 20ms with hard safety constraints — the clearest case yet of ML running physical experiments, not just analyzing them."
+    },
+    {
+      "title": "AI automates the creation of custom functional materials atom by atom",
+      "url": "https://phys.org/news/2026-09-ai-automates-creation-custom-functional.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-02T18:40:06Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-automates-the-creat-1.jpg",
+      "excerpt": "Oak Ridge National Laboratory built an AI that autonomously assembles functional materials at atomic scale, using computer vision plus reinforcement learning to move individual molecules. It constructed a 37-molecule graphene-like lattice that showed the targeted electronic properties.",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "ORNL moves from AI predicting materials to AI physically building them molecule by molecule, closing the design-to-fabrication loop at atomic scale."
+    },
+    {
+      "title": "Adding a 'doubt detector' helps AI optimize experiments with 40% fewer tests",
+      "url": "https://techxplore.com/news/2026-09-adding-detector-ai-optimize.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-02T13:40:03Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-capable-of-doubt.jpg",
+      "excerpt": "EPFL's GOLLuM pairs a large language model with uncertainty estimation so the system knows when it does not know. Across chemistry, materials and molecular design benchmarks it matched conventional optimization while running about 40% fewer experiments.",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Calibrated uncertainty turns an LLM into a usable experiment planner — a 40% cut in lab runs is an immediately actionable methodology change for any research team."
+    },
+    {
+      "title": "A Brain Implant in Korea Was Just Controlled From More Than 6,500 Miles Away",
+      "url": "https://www.sciencealert.com/a-brain-implant-in-korea-was-just-controlled-from-the-us",
+      "source": "ScienceAlert",
+      "published_iso": "2026-09-02T01:00:00+00:00",
+      "og_image": "https://www.sciencealert.com/images/2026/09/BrainImplantChip.jpg",
+      "excerpt": "Researchers sent commands from Chicago to a wireless brain implant in Daejeon, South Korea, 10,596 kilometers away. The demonstration suggests scientists could run and intervene in brain experiments remotely without leaving their desk.",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "rationale": "A wireless neural implant driven across 10,596 km makes remote-operated neuroscience concrete, and puts latency and control of implanted devices on the table."
+    },
+    {
+      "title": "ECG-based AI algorithm could improve detection and prediction of heart diseases",
+      "url": "https://medicalxpress.com/news/2026-09-ecg-based-ai-algorithm-heart.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-02T17:20:06Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2018/1-ecg.jpg",
+      "excerpt": "Scripps Research built ECG-CLIP, a foundation model trained on 1.7 million electrocardiograms paired with clinical notes, that detects conditions such as myocardial infarction and atrial fibrillation from very few labeled examples. It outperformed existing models most clearly in low-data settings.",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "A 1.7M-ECG foundation model that wins hardest where labels are scarce is the practical shape clinical AI needs — few-shot performance beats leaderboard performance in real hospitals."
+    }
   ],
-  "max_per_outlet": 1,
-  "domain_spread": [
-   "space / mission design",
-   "structural biology",
-   "quantum computing / physics",
-   "earth observation / climate",
-   "AI architecture & compute"
+  "picks": [
+    {
+      "title": "PACMAN AI framework for controlling fusion systems safely makes key decisions in milliseconds",
+      "url": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-02T21:00:08Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/pacman-ai-framework-fo.jpg",
+      "excerpt": "Princeton researchers built PACMAN, an AI plasma-control system that makes fusion reactor adjustments in about 20 milliseconds — far faster than a human operator. It chains multiple machine learning models to command reactor subsystems while enforcing hard safety constraints and keeping humans on the objectives.",
+      "tool": "Science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Princeton puts AI in the real-time control loop of a fusion reactor at 20ms with hard safety constraints — the clearest case yet of ML running physical experiments, not just analyzing them."
+    },
+    {
+      "title": "AI automates the creation of custom functional materials atom by atom",
+      "url": "https://phys.org/news/2026-09-ai-automates-creation-custom-functional.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-02T18:40:06Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-automates-the-creat-1.jpg",
+      "excerpt": "Oak Ridge National Laboratory built an AI that autonomously assembles functional materials at atomic scale, using computer vision plus reinforcement learning to move individual molecules. It constructed a 37-molecule graphene-like lattice that showed the targeted electronic properties.",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "ORNL moves from AI predicting materials to AI physically building them molecule by molecule, closing the design-to-fabrication loop at atomic scale."
+    },
+    {
+      "title": "Adding a 'doubt detector' helps AI optimize experiments with 40% fewer tests",
+      "url": "https://techxplore.com/news/2026-09-adding-detector-ai-optimize.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-02T13:40:03Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-capable-of-doubt.jpg",
+      "excerpt": "EPFL's GOLLuM pairs a large language model with uncertainty estimation so the system knows when it does not know. Across chemistry, materials and molecular design benchmarks it matched conventional optimization while running about 40% fewer experiments.",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Calibrated uncertainty turns an LLM into a usable experiment planner — a 40% cut in lab runs is an immediately actionable methodology change for any research team."
+    },
+    {
+      "title": "A Brain Implant in Korea Was Just Controlled From More Than 6,500 Miles Away",
+      "url": "https://www.sciencealert.com/a-brain-implant-in-korea-was-just-controlled-from-the-us",
+      "source": "ScienceAlert",
+      "published_iso": "2026-09-02T01:00:00+00:00",
+      "og_image": "https://www.sciencealert.com/images/2026/09/BrainImplantChip.jpg",
+      "excerpt": "Researchers sent commands from Chicago to a wireless brain implant in Daejeon, South Korea, 10,596 kilometers away. The demonstration suggests scientists could run and intervene in brain experiments remotely without leaving their desk.",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "rationale": "A wireless neural implant driven across 10,596 km makes remote-operated neuroscience concrete, and puts latency and control of implanted devices on the table."
+    },
+    {
+      "title": "ECG-based AI algorithm could improve detection and prediction of heart diseases",
+      "url": "https://medicalxpress.com/news/2026-09-ecg-based-ai-algorithm-heart.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-02T17:20:06Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2018/1-ecg.jpg",
+      "excerpt": "Scripps Research built ECG-CLIP, a foundation model trained on 1.7 million electrocardiograms paired with clinical notes, that detects conditions such as myocardial infarction and atrial fibrillation from very few labeled examples. It outperformed existing models most clearly in low-data settings.",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "A 1.7M-ECG foundation model that wins hardest where labels are scarce is the practical shape clinical AI needs — few-shot performance beats leaderboard performance in real hospitals."
+    }
   ]
- },
- "items": [
-  {
-   "id": "science-alpha-centauri-ai-trajectory",
-   "title": "How AI plotted an interstellar journey to Alpha Centauri",
-   "tool": "Science",
-   "category": "science",
-   "accent": "#2ec5c5",
-   "motif": "sphere",
-   "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-   "source": "MIT Technology Review",
-   "published_iso": "2026-09-01T19:10:36Z",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
-   "excerpt": "The Fermi Explorer Mission plans to launch a spacecraft toward our nearest star by the end of 2029, using a gravity-assist trajectory discovered by an AI search rather than by human mission planners.",
-   "rationale": "An AI search found a gravity-assist route human mission planners missed — the first time a machine-designed trajectory anchors a real interstellar launch date."
-  },
-  {
-   "id": "science-bitenet-ion-sites",
-   "title": "New AI model maps the ion binding sites that control how proteins work",
-   "tool": "Science",
-   "category": "science",
-   "accent": "#0070f3",
-   "motif": "frame",
-   "url": "https://phys.org/news/2026-09-ai-ion-sites-proteins.html",
-   "source": "Phys.org",
-   "published_iso": "2026-09-01T17:40:02Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-maps-the.jpg",
-   "excerpt": "Constructor University and Constructor Labs built BiteNetI, a deep-learning model that locates binding sites for 14 biologically important ion types directly in 3D protein structures in seconds, reporting two- to threefold higher accuracy than most existing predictors including DeepMind's AlphaFold 3.",
-   "rationale": "Ion sites decide whether a protein actually works; a seconds-fast model claiming 2-3x the accuracy of AlphaFold 3 on them is an immediately usable structural-biology tool."
-  },
-  {
-   "id": "science-ibm-15min-quantum",
-   "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-   "tool": "Science",
-   "category": "science",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-   "source": "ScienceDaily",
-   "published_iso": "2026-08-30T14:08:13Z",
-   "og_image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
-   "excerpt": "IBM and University of Chicago researchers completed a quantum computation that leading classical methods could not practically reproduce, using 70 error-corrected logical qubits and finishing in roughly 15 minutes with statistical evidence the result was reliable.",
-   "rationale": "70 error-corrected logical qubits finishing in 15 minutes, with a reliability argument attached, moves the quantum-advantage debate from claim to measurable baseline."
-  },
-  {
-   "id": "science-methane-deeplearning-maps",
-   "title": "Mapping global methane emissions from space with deep learning",
-   "tool": "Science",
-   "category": "science",
-   "accent": "#f5a623",
-   "motif": "swatch",
-   "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-   "source": "Google Research",
-   "published_iso": "2026-09-01T00:00:00Z",
-   "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-   "excerpt": "Google Research describes a deep-learning pipeline that turns satellite spectra into global methane emission maps, detecting plumes and attributing them to sources at planetary scale.",
-   "rationale": "Turning raw satellite spectra into attributed methane plumes at planetary scale gives climate researchers a source-level monitoring layer that did not exist before."
-  },
-  {
-   "id": "science-latent-reasoning-cheap",
-   "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
-   "tool": "Science",
-   "category": "science",
-   "accent": "#eb367f",
-   "motif": "headset",
-   "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
-   "source": "Live Science",
-   "published_iso": "2026-08-29T11:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg",
-   "excerpt": "Researchers say a new reasoning architecture costs up to 11 times less to run than a leading OpenAI model while matching it on benchmark tasks, a shift with direct consequences for compute-bound research labs.",
-   "rationale": "Reasoning in latent space instead of chains of words cuts inference cost up to 11x at matched benchmark scores — the compute math for research labs changes overnight."
-  }
- ]
 }

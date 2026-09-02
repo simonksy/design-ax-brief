@@ -1,31 +1,31 @@
 {
- "date": "2026-09-02",
- "section": "gadgets",
- "media": [
-  {
-   "id": "gadgets-meta-muse-transcribe",
-   "type": "image",
-   "src": "pipeline/media/gadgets-meta-muse-transcribe.jpg"
-  },
-  {
-   "id": "gadgets-google-pics-ga",
-   "type": "image",
-   "src": "pipeline/media/gadgets-google-pics-ga.jpg"
-  },
-  {
-   "id": "gadgets-paint-ai-watermark",
-   "type": "image",
-   "src": "pipeline/media/gadgets-paint-ai-watermark.jpg"
-  },
-  {
-   "id": "gadgets-atlas-brain-wearable",
-   "type": "image",
-   "src": "pipeline/media/gadgets-atlas-brain-wearable.jpg"
-  },
-  {
-   "id": "gadgets-sonos-27",
-   "type": "image",
-   "src": "pipeline/media/gadgets-sonos-27.jpg"
-  }
- ]
+  "date": "2026-09-03",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "gadgets-caira-ai-video-edit",
+      "type": "image",
+      "src": "pipeline/media/gadgets-caira-ai-video-edit.jpg"
+    },
+    {
+      "id": "gadgets-acer-aspire-g3d-local-ai",
+      "type": "image",
+      "src": "pipeline/media/gadgets-acer-aspire-g3d-local-ai.jpg"
+    },
+    {
+      "id": "gadgets-pixel-watch5-offline-gemini",
+      "type": "image",
+      "src": "pipeline/media/gadgets-pixel-watch5-offline-gemini.jpg"
+    },
+    {
+      "id": "gadgets-norway-smart-glasses-rules",
+      "type": "image",
+      "src": "pipeline/media/gadgets-norway-smart-glasses-rules.jpg"
+    },
+    {
+      "id": "gadgets-adreno-neural-fusion",
+      "type": "image",
+      "src": "pipeline/media/gadgets-adreno-neural-fusion.jpg"
+    }
+  ]
 }

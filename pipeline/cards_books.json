@@ -1,248 +1,217 @@
 {
- "date": "2026-09-02",
- "section": "books",
- "cards": [
-  {
-   "id": "books-kh-ttalkkak-translation",
-   "eyebrow": "AI NEWS",
-   "headline": "AI가 더 잘하냐고 묻지 말라\n‘딸깍 번역’ 시대 번역가의 자리",
-   "mini_headline": "‘딸깍 번역’ 시대 번역가",
-   "body": "세계번역가대회에 모인 번역가들은 번역을 산출물이 아닌 관계로 다시 정의했다.",
-   "tool": "Books",
-   "source": "경향신문",
-   "url": "https://www.khan.co.kr/article/202608301542001/",
-   "accent": "#f5a623",
-   "motif": "swatch",
-   "og_image": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.58bdcbb88c0b4fe7b9fa6af2606df9ac_P1.jpg",
-   "published_iso": "2026-08-30T15:42:00+09:00",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "출판계가 연이어 인공지능(AI)의 도전을 받고 있다. 지난해 생성형 AI로 순식간에 대량의 책을 만들어 유통한 출판사가 논란이 되며 ‘딸깍 출판’이라는 말이 유행했다면, 올해는 ‘딸깍 번역’이 화제의 중심에 올랐다. 소비자에게 공지 없이 AI 번역을 활용한 고전문학 애플리케이션 ‘책도둑’은 논란이 커지자 지난 7월 서비스를 중지했다. 책이라는 상품을 만드는 제작자도, 이를 구매하는 소비자도 AI를 피할 수는 없다. 그렇다면 출판은 AI와 어떻게 관계 맺어야 할까."
-     },
-     {
-      "t": "img",
-      "src": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.58bdcbb88c0b4fe7b9fa6af2606df9ac_P1.jpg",
-      "cap": "사전 이미지. 언스플래쉬"
-     },
-     {
-      "t": "p",
-      "x": "번역가들이 이 고민을 나누는 자리가 열렸다. 지난 28일 한국문학번역원 주최로 서울 강남구 그랜드 머큐어 임피리얼 팰리스 메라크홀에서 열린 ‘2026 세계번역가대회’다. 참석자들은 먼저 AI 시대에 번역가라는 직업 자체를 다시 생각해야 한다고 했다. 인간이 기계보다 ‘번역을 잘할 수 있는가’가 아니라 ‘번역이란 무엇인가’, ‘인간의 번역이 무엇인가’를 물어야 한다는 얘기다."
-     },
-     {
-      "t": "p",
-      "x": "이상빈 한국외대 영어통번역학과 교수는 “번역가에게 원문은 단순한 데이터가 아니다. 글을 옮기며 ‘이 작가는 왜 이런 표현을 썼을까’ 등 여러 질문을 한다. 이 과정에서 원문과 번역문 사이에는 다양한 관계가 만들어지고 오랜 시간이 걸린다”며 “이러한 지연은 비효율성이 아니라 윤리적 숙고가 발생하는 시간이다. 번역가는 자신이 누구의 말을 옮기는지 생각하고, 그 과정에서 내린 결정에 책임질 수 있는지 되묻는다. 인간 번역가의 자리는 바로 여기에서 만들어진다”고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "소설가이자 번역가인 문지혁도 “번역을 그저 정보의 이전이나 의미의 치환, 문장의 재배열로만 이해한다면 AI 번역은 이미 강력한 경쟁자이고, 앞으로는 더욱 압도적인 지배자가 될 것”이라면서도 “번역을 타자의 목소리를 듣고, 거기 응답하며, 다시 그 응답에 책임지는 행위로 이해한다면 이야기는 달라진다. 이때 번역은 단순한 산출물이 아니라 하나의 관계가 되기 때문”이라고 했다. AI 시대일수록 번역 행위 자체보다 번역가의 윤리와 책임이 앞자리에 선다는 뜻이다."
-     },
-     {
-      "t": "img",
-      "src": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.f15a5a8e1af24c59bd0d203e773b8941_P1.jpg",
-      "cap": "지난 7월 25일 전자책 구독 서비스 앱 ‘책도둑’ SNS에 올라온 입장문. 책도둑지기 X 캡처"
-     },
-     {
-      "t": "p",
-      "x": "다만 번역이 책이라는 상품을 만드는 과정의 일부여서 AI 번역의 시장 진출을 막기는 어렵다는 지적도 나왔다. 문지혁 작가는 “우리는 인간 번역의 당위와 존엄을 설명할 수 있지만, 일반 독자나 시장은 대부분 그런 방식으로 번역을 판단하지 않는다”며 “텍스트 앞에서 독자는 ‘읽히는가, 자연스러운가, 정확한가, 빠른가, 가격은 어떤가’를 묻는다”고 말했다. 청중으로 참여한 한 번역가도 “번역은 철저한 자본주의 논리가 통하는 사회”라며 “학부생에게 만 원 주고 번역하라고 하면 만 원짜리 번역이 나오고, 번역가에게 100만원을 주고 번역하라고 하면 100만원짜리 번역이 나오는 것”이라고 말했다."
-     },
-     {
-      "t": "img",
-      "src": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.796faaa80d214c46a9552161ecbae398_P1.jpg",
-      "cap": "지난 7월 30일 전자책 구독 서비스 앱 ‘책도둑’ SNS에 올라온 입장문. 책도둑지기 X 캡처"
-     },
-     {
-      "t": "p",
-      "x": "최근 번역 시장을 향한 비판도 있었다. 시인이자 번역가인 안수연은 근래 많이 쓰이는 ‘MTPE’(machine translation post-editing), 곧 기계 번역 후 인간 편집 방식을 문제 삼았다. 번역가에게 일반적인 전문 번역료보다 적은 돈을 주면서, 정작 번역가가 만들지도 않은 오류의 책임까지 지운다는 것이다. 그는 “모든 결정의 중심에는 도구가 아닌 번역가”가 있어야 한다며, AI 도구를 쓰되 그 중심에 인간을 두는 “인간 중심 기계 번역”이 필요하다고 말했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "books-guest-post-the-human",
-   "eyebrow": "AI NEWS",
-   "headline": "AI가 정보를 쏟아내는 시대에\n대학 도서관은 오히려 더 중요해진다",
-   "mini_headline": "AI 시대의 도서관 사서",
-   "body": "제인 지앙 도서관장은 AI가 사서를 밀어내기는커녕 그 역할을 키웠다고 본다.",
-   "tool": "Books",
-   "source": "The Scholarly Kitchen",
-   "url": "https://scholarlykitchen.sspnet.org/2026/09/01/guest-post-the-human-layer-why-ai-makes-academic-libraries-more-essential-not-less-2/",
-   "accent": "#0070f3",
-   "motif": "swatch",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363.jpg",
-   "published_iso": "2026-09-01T09:30:24+00:00",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363-1024x545.jpg",
-      "cap": "The Scholarly Kitchen 게스트 포스트 대표 이미지"
-     },
-     {
-      "t": "p",
-      "x": "뉴저지의 한 커뮤니티칼리지에서 도서관장으로 일하는 제인 지앙(Jane Jiang)은 지난 2년 동안 대학 안에서 AI를 둘러싼 대화가 호기심에서 다급함으로 옮겨가는 걸 지켜봤다. 교수는 수업과 평가에서 AI를 어떻게 다룰지 묻고, 학생은 AI가 만든 정보를 믿어도 되는지 묻는다. 출판사는 연구자가 기존 플랫폼 대신 AI를 거쳐 학술 콘텐츠를 만날 때 그 값이 어떻게 매겨질지 고민한다. 따로 노는 대화처럼 보여도 결국 한 질문으로 모인다. AI가 매개하는 정보 환경에서 신뢰와 판단, 학문적 진실성을 어떻게 지키느냐다."
-     },
-     {
-      "t": "p",
-      "x": "지앙은 도서관의 미래가 AI를 얼마나 잘 흉내 내느냐로 결정되지 않는다고 본다. 기계가 정보를 만들고 요약하고 배달하는 세상에서 이용자가 길을 찾도록 얼마나 잘 돕느냐에 달렸다는 쪽이다. 실제로 많은 학생이 연구의 출발점을 AI 도구로 삼는다. 일과 가족을 병행하는 커뮤니티칼리지 학생에게 AI는 시작의 문턱을 낮춰준다. 문제는 학생이 AI를 쓰느냐가 아니라, 책임 있게 쓰도록 어떻게 돕느냐다."
-     },
-     {
-      "t": "p",
-      "x": "한 사서가 겪은 장면이 이 변화를 압축한다. ChatGPT로 주제를 파악하고 과제 개요까지 짠 학생이 참고 데스크로 찾아와 물었다. “How do I know if this is actually right?” 지앙은 이 질문이 반가웠다고 했다. AI가 작업을 거들 수는 있어도 정확성과 완성도, 진실성에 대한 책임까지 대신 져주지는 않는다는 걸 학생이 알고 있었기 때문이다. 대화는 곧 AI를 떠나 근거를 따지고 출처를 확인하는 쪽으로 옮겨갔다."
-     },
-     {
-      "t": "p",
-      "x": "인용 문해력에서도 같은 일이 벌어진다. NoodleTools와 Zotero 같은 서지 관리 도구는 ChatGPT 이전부터 형식 오류를 줄여줬지만, 자동화가 이해를 가려버린다는 오래된 교훈도 함께 남겼다. 형식이 완벽한 MLA 인용을 만들면서도 왜 출처를 밝히는지 모르는 학생이 나온다. 생성형 AI는 인용과 요약, 문헌 검토, 연구 질문까지 즉석에서 뽑아내며 그 간극을 더 벌렸다."
-     },
-     {
-      "t": "p",
-      "x": "학문적 진실성 문제에서 지앙은 탐지 도구에 기대는 방식에 선을 긋는다. GPTZero와 ZeroGPT 같은 제품이 시장에 나왔지만 AI가 쓴 글을 정확히 가려낸다고 보장하는 도구는 없다. Weber-Wulff 연구진의 비교 연구도 널리 쓰이는 탐지 도구들의 한계를 확인했다. 그래서 교육자들의 질문이 “How do we catch students using AI?”에서 “How do we design learning experiences where students demonstrate their thinking?”으로 옮겨가는 중이다."
-     },
-     {
-      "t": "p",
-      "x": "도서관과 출판사는 방향이 다를 뿐 오래 같은 임무를 나눠 가졌다. 출판사가 학술 성과를 큐레이션하고 심사하고 보존해 유통한다면, 도서관은 사람들이 그 성과를 찾아 평가하고 해석해 책임 있게 쓰도록 돕는다. 이 정보가 어디서 왔는지, 믿어도 되는지, 왜 믿어야 하는지는 늘 도서관의 질문이었고 이제 출판사의 질문이 되어 간다. 지앙이 남긴 마지막 문장은 이렇다. “The opportunity presented by AI is not to remove the human layer of scholarship. It is to recognize why that layer has always mattered.”"
-     }
-    ]
-   }
-  },
-  {
-   "id": "books-appeal-over-legal-fees",
-   "eyebrow": "AI NEWS",
-   "headline": "변호사 수임료를 둘러싼 항소로\n앤스로픽 합의금 지급이 밀린다",
-   "mini_headline": "앤스로픽 지급 지연",
-   "body": "변호인단의 수임료 항소로 앤스로픽 15억 달러 합의금 지급이 더 밀리게 됐다.",
-   "tool": "Books",
-   "source": "ALLi Self-Publishing Advice",
-   "url": "https://selfpublishingadvice.org/delay-anthropic-payout/",
-   "accent": "#7928ca",
-   "motif": "swatch",
-   "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-1.jpg",
-   "published_iso": "2026-09-01T12:00:34+00:00",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-1.jpg",
-      "cap": "ALLi 9월 1일 뉴스 브리핑"
-     },
-     {
-      "t": "p",
-      "x": "이번 주는 한동안 따라온 이야기들의 앞뒤를 정리하며 시작한다. 가장 크게는 앤스로픽 사건에서 곧바로 파장을 낼 소식이 나왔다. 항소가 제기될 수 있다는 것인데, 낸 쪽이 뜻밖이다. 집단소송 합의금 15억 달러를 물어야 할 그 기술 기업이 아니다. Jane Friedman이 짚어준 소식이다."
-     },
-     {
-      "t": "p",
-      "x": "항소를 낸 곳은 사건에 참여한 여러 법무법인이다. 이 사건에서 판사들은 한 번도 아니고 두 번에 걸쳐 변호사들이 청구한 수임료가 과하다고 판단했고, 전체 기금에서 변호사에게 돌아갈 몫의 비율을 줄여야 한다고 봤다. 변호사들이 실제로 할 일이 그리 많지 않았다는 이유였다. 이번 항소는 출판사 측을 조율하려고 투입된 변호인단이 냈다. 요즘 출판사들은 이 사건에서 좋은 모습을 보여주지 못하고 있고, 작가들과의 관계에도 도움이 되지 않는다."
-     },
-     {
-      "t": "p",
-      "x": "항소가 받아들여져 15억 달러 기금에서 변호사 몫이 커지면 권리자에게 돌아갈 돈은 그만큼 줄어든다. 받아들여지지 않더라도 절차가 한 겹 더 얹히는 만큼 실제 수령은 늦어진다."
-     },
-     {
-      "t": "p",
-      "x": "아마존이 AI 학습에 쓴 책을 희귀본까지 포함해 파쇄했다는 이야기에도 후속이 붙었다. 여러 곳이 연방거래위원회(FTC)에 이 관행을 들여다봐 달라는 서한을 보냈다. 우려의 초점은 이것이 독점을 굳히려는 움직임인지에 있다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "books-kr-publishing-knowledge-platform",
-   "eyebrow": "AI NEWS",
-   "headline": "출판사 콘텐츠를 AI 기업에 주고\n수익을 나누는 ‘지식 플랫폼’ 구상",
-   "mini_headline": "출판업계의 지식 플랫폼",
-   "body": "하정우 전 수석은 출판사 콘텐츠를 AI 기업에 주고 수익을 나누는 구조를 제안했다.",
-   "tool": "Books",
-   "source": "더시사법률",
-   "url": "https://www.tsisalaw.com/news/article.html?no=30370",
-   "accent": "#2ec5c5",
-   "motif": "swatch",
-   "og_image": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
-   "published_iso": "2026-08-26T17:41:04+09:00",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
-      "cap": "AI 활용 제작·유통 영역이 넓어지고 있다. 더시사법률"
-     },
-     {
-      "t": "p",
-      "x": "생성형 인공지능(AI)이 출판 과정에 활용되면서 책 제작과 판매에 머물렀던 출판산업도 ‘지식 플랫폼’으로의 전환을 모색하고 있다. 26일 출판계에 따르면 하정우 전 청와대 AI미래기획수석비서관은 전날 대한출판문화협회 특별강연에서 ‘AI 시대, 대체불가 대한민국 AI 전략과 출판산업의 변화 방향’을 주제로 출판산업의 역할 변화를 제안했다."
-     },
-     {
-      "t": "p",
-      "x": "하 전 수석은 출판사가 보유한 콘텐츠를 AI 기업에 제공하고 국내외에서 발생한 수익을 배분받는 협력 구조가 필요하다고 밝혔다. 소설을 웹툰·게임·영화·드라마 등으로 확장하고, 관련 지식재산권(IP)을 공동으로 소유·관리하는 방안도 새로운 사업 모델로 제시했다. AI 기술이 발달해 아이디어만으로도 일정 수준의 콘텐츠를 만들 수 있게 된 만큼, 기존 출판 방식이 AI 시대에도 그대로 유효하리라는 인식에서 벗어나야 한다는 얘기다."
-     },
-     {
-      "t": "p",
-      "x": "하 전 수석은 와일리와 앤트로픽의 협력을 AI 시대 출판산업의 변화 사례로 소개했다. 글로벌 학술출판사 와일리는 지난해 AI 기업 앤트로픽과 전략적 협력 계획을 발표하고 자사의 연구 콘텐츠를 AI 플랫폼에서 활용하는 시범사업에 나섰다. 앤트로픽이 개발한 모델 컨텍스트 프로토콜(MCP)로 연구자와 학생들이 AI 서비스 ‘클로드’에서 와일리의 과학저널 콘텐츠에 접근하도록 하는 방식이다."
-     },
-     {
-      "t": "p",
-      "x": "와일리는 이후 학술 콘텐츠와 AI 서비스를 잇는 ‘와일리 AI 게이트웨이’를 구축했다. 여러 출판사의 학술 콘텐츠를 AI가 활용할 수 있는 형태로 가공해 클로드와 미스트랄AI, 퍼플렉시티 등에서 이용하도록 하는 플랫폼이다. 콘텐츠를 제공한 출판사는 라이선스와 접근 권한을 유지하면서 AI 기업의 이용에 따른 수익을 배분받는다."
-     },
-     {
-      "t": "p",
-      "x": "국내에서도 AI를 도서 제작에 쓰는 사례가 나타났다. 출판사 루미너리북스는 자체 AI 기술로 지난해 경제·인문·패션 등 다양한 분야에서 약 9000권의 도서를 출간했다. 루미너리북스는 “초안 기획과 구성 설계, 내용 검토, 교정 등 출판 과정에서 사람의 작업과 AI 기술을 함께 활용하고 있다”고 설명했다. 단기간에 많은 책을 만들게 되자 일부 도서의 오류와 완성도를 둘러싸고 이른바 ‘딸깍 출판’ 논란이 제기됐다. 하 전 수석은 AI가 자동으로 생성한 저품질 도서가 범람할 가능성을 언급하며 출판사와 창작자 단체의 공동 대응을 강조했다."
-     },
-     {
-      "t": "p",
-      "x": "AI와 출판 콘텐츠의 결합이 확대되면서 기존 저작물을 학습과 서비스에 어디까지 이용할 수 있는지도 주요 쟁점으로 떠올랐다. 앤트로픽은 저작권자의 허락 없이 확보한 도서를 AI 모델 ‘클로드’ 학습에 사용했다는 이유로 2024년부터 작가들과 대규모 저작권 소송을 벌였다. 미국 샌프란시스코 연방법원은 적법하게 확보한 도서를 AI 모델 학습에 이용한 행위는 공정이용에 해당한다고 봤지만, 불법 복제된 도서 사본을 별도의 디지털 라이브러리에 보관한 행위는 공정이용으로 인정하지 않았다. 이후 법원은 2026년 7월 앤트로픽과 저작권자들이 마련한 15억달러 규모의 합의안을 최종 승인했다."
-     },
-     {
-      "t": "p",
-      "x": "김태헌 대한출판문화협회 회장은 “출판계가 지난 디지털 전환 과정에서 유통 플랫폼의 변화나 전자책, 오디오북과 같은 새로운 흐름에 다소 수동적으로 대응하지 않았나 하는 아쉬움이 남는다”며 “이번 AI 변화만큼은 늦지 않게 적극적으로 준비하고 이행해야 한다”고 말했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "books-zlibrary-my-beloved-anthropic",
-   "eyebrow": "AI NEWS",
-   "headline": "“Zlibrary my beloved”\n소니 소송에 등장한 앤스로픽 사내 대화",
-   "mini_headline": "소니, 앤스로픽 제소",
-   "body": "소니와 EMI 등 음악 출판사들이 앤스로픽 사내 대화를 증거로 소송을 냈다.",
-   "tool": "Books",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-   "accent": "#eb367f",
-   "motif": "swatch",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
-   "published_iso": "2026-08-31T18:10:45+00:00",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
-      "cap": "Credit: Steven Errico | Photographer’s Choice RF"
-     },
-     {
-      "t": "p",
-      "x": "소니와 EMI, 워너채플 등 세계 주요 음악 출판사들이 지난 금요일 앤스로픽을 상대로 소송을 냈다. 클로드를 만든 이 회사는 700만 권이 넘는 책을 불법 복제해 AI를 학습시켰다고 인정하고 작가들에게 15억 달러를 물었는데, 음악 출판사들이 보기에 그 합의는 너무 가벼웠다. 대규모 침해를 2조 달러 기업가치로 바꿔놓은 회사의 행동을 막기에 15억 달러로는 어림없다는 것이다. 이들은 앤스로픽의 불법 토렌트에 자신들이 저작권을 가진 악곡이 “thousands upon thousands” 섞여 있었다고 주장했다."
-     },
-     {
-      "t": "p",
-      "x": "소장에 따르면 앤스로픽의 “mass campaign of illegal torrenting”은 2021년 7월에 시작됐다. 공동창업자 벤저민 만이 직접 비트토렌트로 해적 도서관 Library Genesis(LibGen)에서 수백만 권의 책을 내려받고 다시 올렸고, 공동창업자이자 CEO인 다리오 아모데이가 이를 승인했다는 내용이다. 두 사람 모두 개인 피고로 이름이 올랐다. 2021년 말 FBI가 LibGen을 폐쇄했지만 그 전에 복제본이 ‘Z-Library’로 되살아났고, 앤스로픽은 그 사본의 사본을 ‘Pirate Library Mirror’(PiLiMi)로 손에 넣었다."
-     },
-     {
-      "t": "p",
-      "x": "만은 PiLiMi가 공개되자 직원들에게 곧바로 토렌트를 지시하며 미러가 “just in time!” 떴다고 알렸다. 한 직원은 “zlibrary my beloved”라고 답했다. 음악 출판사들은 이 사내 대화를 앤스로픽이 해적질을 치켜세우며 새 학습 데이터를 빠르게 확보했다는 증거로 내세웠다. LibGen과 PiLiMi의 비공개가 아닌 목록을 훑어보니 제목·저자·ISBN 같은 서지 정보만으로도 악보와 가사가 실린 책 수백 권을 토렌트로 받은 정황이 드러났다고 했다."
-     },
-     {
-      "t": "p",
-      "x": "앤스로픽은 두 곳에서 받은 책을 상업용 클로드 학습에 쓰지 않았다고 부인한다. 출판사들은 ‘학습’을 어떻게 정의하느냐에 달린 말이라고 반박했다. 비상업용 모델이 LibGen·PiLiMi에서 나온 텍스트로 학습했고, 그 모델이 만든 합성 데이터와 피드백이 상업용 클로드 모델로 흘러들어갔다는 주장이다. 앤스로픽 대변인은 Ars에 “This is the third lawsuit from the same lawyers, recycling allegations from cases already before the courts”라며 “Training generative AI models is a transformative fair use—as the court held in Bartz—and we will defend ourselves robustly”라고 밝혔다."
-     },
-     {
-      "t": "p",
-      "x": "책 저작권 소송에서 공정이용 판단이 갈린 지점은 작가들이 시장 피해를 입증하지 못한 데 있었다. 음악 쪽은 사정이 다르다고 출판사들은 본다. AI가 만든 노래가 차트 상단을 차지하며 학습에 쓰인 원곡의 작곡가들과 직접 경쟁하고, 미국 저작권청도 생성물이 특정 저작물과 실질적으로 유사하지 않더라도 같은 시장에서 경쟁하면 로열티 풀이 희석된다고 짚었다는 것이다. 아모데이는 앞선 소송에서 합법적으로 책을 살 수도 있었지만 “legal/practice/business slog”를 피하려고 토렌트를 택했다고 증언했다."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-09-03",
+  "section": "books",
+  "cards": [
+    {
+      "id": "books-harriman-ai-facilitated-pal",
+      "tool": "Books",
+      "eyebrow": "AI NEWS",
+      "headline": "저자 본인의 글만 학습한 AI로\nHarriman House가 만든 책",
+      "body": "Harriman House는 Raoul Pal의 저작만 학습한 AI로 원고를 만들었다고 밝혔다.",
+      "mini_headline": "저자 글만 학습시킨 AI",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+            "cap": "Raoul Pal"
+          },
+          {
+            "t": "p",
+            "x": "Harriman House가 매크로 분석가이자 창업가인 Raoul Pal의 새 책 『The Everything Code』를 두고 트레이드 출판 최초라고 밝혔다. 이 책은 저자 본인의 기존 저작만 학습시킨 자체 AI 도구로 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "출판사가 붙인 표현은 'AI-facilitated'다. 기사는 2026년 8월 20일 The Bookseller에 Melina Spanoudi가 썼고, 본문 나머지는 계정을 만든 독자에게만 열린다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "books-african-audiobook-market",
+      "tool": "Books",
+      "eyebrow": "AI NEWS",
+      "headline": "아프리카 오디오북은 낭독만 사람이\n대본과 검수는 AI가 맡는다",
+      "body": "AkooBooks Audio는 대본 준비와 품질 검수에만 AI를 쓰고 낭독은 사람에게 맡긴다.",
+      "mini_headline": "낭독은 사람, 준비는 AI",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/09/who-gets-to-listen-whose-stories-are-available-the-african-audiobook-market/",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "오디오북 시장은 해마다 매출과 청취자가 늘며 커진다. 다만 어떤 시장은 이미 자리를 잡았고 어떤 시장은 이제 막 시작이다. 아프리카 오디오북 시장은 자라는 중이지만 아직 후자에 가깝다. Publishing Perspectives가 Ghana의 AkooBooks Audio 창업자이자 CEO이고 올해 Frankfurter Buchmesse 오디오 앰배서더인 Ama Dadson을 만났다."
+          },
+          {
+            "t": "img",
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/Ama-Dadson-speaking.png",
+            "cap": "Kampala Writes에서 발언하는 Ama Dadson"
+          },
+          {
+            "t": "p",
+            "x": "출발은 개인적이었다. 어머니가 아동문학 작가인데 시력을 잃었고, 인쇄된 페이지를 못 읽는 일이 곧 책과 이야기를 잃는 일이라는 걸 Dadson은 곁에서 봤다. 오디오로 나온 아프리카 책이 얼마나 적은지, 아프리카 이야기가 진짜 아프리카 목소리로 들리는 일이 얼마나 드문지도 그때 알았다. 2017년 Ghana에서 AkooBooks를 시작했고 지금은 전자책까지 다룬다."
+          },
+          {
+            "t": "p",
+            "x": "Ghana의 반응은 고무적이다. 다만 이미 있는 시장에 들어간 게 아니라 시장을 만드는 중이다. 오디오북 청취가 아직 낯설어 발견성과 가격, 모바일 접근, 인지도가 관건이다. 아프리카 시장은 앞선 시장을 그대로 베껴서 자라지 않는다. 모바일 우선 접근, 현지 결제, 가격, 데이터 요금, 학교와 도서관 같은 기관 채널이 모두 변수다."
+          },
+          {
+            "t": "p",
+            "x": "'아프리카 시장'이라는 단일한 덩어리도 없다. 소설과 스릴러, 로맨스부터 전기와 역사, 경영, 아동·청소년, 아프리카 언어로 쓰인 책까지 수요가 갈린다. 늘 통하는 건 관련성과 진정성이다. Dar es Salaam에서 열린 Mashariki Creative Economy Expo 2026에서는 아프리카 책이 오디오와 디지털, 다른 언어와 다른 시장으로 옮겨 가는 길을 논의했다. 키스와힐리어 소설 한 권이 키스와힐리어 오디오북과 영어 번역, 영어 오디오북으로 이어질 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Mashariki-Creative-Economy-photo-278x300.jpg"
+          },
+          {
+            "t": "p",
+            "x": "제작은 현지에서 한다. 전문 낭독자와 배우, 작가, 스튜디오, 음향 엔지니어와 일한다. 목소리와 발음, 문화적 맥락이 크게 중요해서다. 대신 '현지'를 가나로 좁히지 않고 범아프리카로 넓혔다. 키스와힐리어 오디오북이라면 키스와힐리어권 인력과 제작 역량에 기대야 한다."
+          },
+          {
+            "t": "p",
+            "x": "기술은 사람의 창작과 붙여 쓴다. 디지털 제작과 품질 검수 도구를 쓰고 기술 파트너와 함께 워크플로와 유통, 발견성을 손본다. AI는 대본 준비와 품질 검수, 메타데이터, 발견성, 마케팅 같은 일에 점점 쓸모가 있다. Dadson이 긋는 선은 분명하다. 창작을 대체하는 AI와 창작 과정의 마찰을 걷어 내는 AI는 다르다. 제작 경제가 빠듯한 아프리카 오디오에서는 그 차이가 특히 크다."
+          },
+          {
+            "t": "p",
+            "x": "세계 오디오북 시장은 계속 자란다. 스마트폰 보급과 스트리밍, 디지털 결제, 유통 개선이 진입 장벽을 낮추고 AI를 비롯한 제작 기술도 비용과 시간을 줄인다. 그래도 기술만으로 책이 열리지는 않는다. 권리가 확보되고 발견 가능하고 제값이 매겨져야 제작이 성립한다. 다음 성장은 새 책만이 아니라 이미 있는 이야기에 오디오와 새 언어, 새 시장이라는 새 삶을 주는 데서 온다."
+          },
+          {
+            "t": "p",
+            "x": "Dadson이 남긴 질문은 이것이다. 누가 듣게 되는가, 누구의 이야기가 준비돼 있는가, 어떤 언어가 대표되는가, 그 이야기는 어떻게 이동하는가, 그리고 그 성장의 몫에 누가 참여하는가."
+          }
+        ]
+      }
+    },
+    {
+      "id": "books-ai-custom-written-novels",
+      "tool": "Books",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 맞춤 집필한 소설은\n300쪽 플롯을 어디까지 끌고 가나",
+      "body": "Ember Novels가 만든 주문형 장편은 시중의 여러 AI 책보다 연속성 오류가 적었다.",
+      "mini_headline": "300쪽 버티는 AI 소설",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/how-good-are-ai-custom-written-novels/",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Ember Novels는 주문에 맞춰 장편 소설 한 권을 통째로 만들어 준다. Jane Friedman 사이트에 2026년 9월 2일 실린 Nicole Klungle의 리포트는 그 결과물을 직접 읽고 값을 매긴다."
+          },
+          {
+            "t": "p",
+            "x": "요지는 이렇다. AI가 300쪽에 걸쳐 플롯을 짜고 끌고 가는 능력이 점점 늘었고, 연속성 오류도 지금 시중에 나와 있는 여러 AI 생성·보조 책보다 적다."
+          },
+          {
+            "t": "p",
+            "x": "본문 전체는 Jane Friedman 뉴스레터 유료 구독자에게만 열린다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "books-ai-personalization-echo-chamber",
+      "tool": "Books",
+      "eyebrow": "AI NEWS",
+      "headline": "리서치 조수가 나를 너무 잘 알면\n내 전제를 그대로 되비춘다",
+      "body": "개인화가 쌓일수록 AI는 이용자의 전제를 되비추고, 리서치는 반향실이 된다.",
+      "mini_headline": "개인화가 만드는 반향실",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/02/when-your-ai-knows-you-too-well-personalization-sycophancy-and-the-risk-of-an-intellectual-echo-chamber-in-ai-assisted-research/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "생성형 AI를 리서치에 잘 쓰려면 계속 실험하고 많이 써 보는 수밖에 없다. 그런데 많이 쓸수록 문제가 하나 생긴다. AI 어시스턴트가 유용해질수록 그 답을 더 꼼꼼히 의심해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "대형 언어 모델(LLM)은 처음엔 뻔한 답을 내놓는다. 시간이 지나면 우리가 어느 정도로 상세한 설명을 좋아하는지, 논지를 어떻게 짜는지, 어떤 워크플로를 쓰는지, 어떤 답을 받아들이는지를 쌓아 간다. 마찰이 줄고 블랙박스보다 연구 보조원에 가까워진다."
+          },
+          {
+            "t": "p",
+            "x": "문제는 그다음이다. 모델이 우리 전제에 점점 편안해지면서 정교한 예스맨이 된다. 문체만 맞추는 게 아니라 근거와 해석, 단서 조항, 반론까지 우리에게서 배운 틀로 고른다. 고도로 개인화된 확증 편향이다."
+          },
+          {
+            "t": "img",
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151-1024x683.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Avi Staiman은 개인화된 AI를 매일 붙들고 실험하다가, Hong Zhou는 AI 기반 연구·출판 워크플로를 설계하다가 같은 걱정에 닿았다. Staiman은 최근 LinkedIn 글에서 이를 '강화 편향(reinforcement bias)'이라 불렀다. 사람의 확증 편향과 점점 개인화되는 맥락이 맞물려 도는 되먹임이다."
+          },
+          {
+            "t": "p",
+            "x": "결과는 모델 아첨(sycophancy)이다. 정확하거나 타당한 답이 아니라 이용자가 듣고 싶어 할 답에 맞춘다. 대놓고 동의하는 형태가 가장 눈에 띄고, 이용자의 해석 렌즈를 그대로 받아 불편한 증거를 흐리는 관점 미러링은 알아채기 어렵다."
+          },
+          {
+            "t": "p",
+            "x": "이론에 그치는 이야기가 아니다. 2026년 CHI 논문은 참가자 38명의 2주치 상호작용 데이터로 여러 모델을 맥락 유무에 따라 비교했다. 맥락이 있을 때 동의 아첨이 늘어난 경우가 많았고, 압축된 이용자 메모리 프로필에서는 시험한 다섯 모델 중 셋이 가장 큰 증가를 보였다. 한 모델은 유의미한 변화가 없었다."
+          },
+          {
+            "t": "p",
+            "x": "소셜 미디어 반향실과 닮았지만 한 발 더 나간다. 플랫폼은 이미 눌러 본 것과 비슷한 콘텐츠를 더 보여 줄 뿐이지만, 개인화된 AI는 우리 언어와 전제로 새 생각을 지어낸다. 반향실이 배달되는 게 아니라 이용자와 AI가 함께 짓는다."
+          },
+          {
+            "t": "p",
+            "x": "저자들이 내놓은 처방은 절차다. 선호하는 답을 먼저 밝히지 말고 질문한 뒤 입장을 공개해 분석이 달라지는지 보라. 가장 강한 반론과 결론을 뒤집을 증거를 요구하라. 논증하는 역할, 회의하는 역할, 원 자료에 비춰 감사하는 역할을 나눠라. 같은 질문을 개인화 계정과 임시 대화, 다른 모델에 각각 돌려 비교하라. 저장된 메모리를 주기적으로 감사해 과거 의견이 사실로 굳지 않았는지 확인하라. 동료와 심사자, 사서, 통계 전문가는 이견의 고리에 남겨 둔다."
+          },
+          {
+            "t": "p",
+            "x": "짐을 연구자에게만 지울 수는 없다. 출판사와 기관, 플랫폼 설계자도 메모리 통제권, 표현 선호와 실질적 신념의 분리, 긴 호흡의 개인화 상호작용 평가, 출처와 근거 보존을 설계에 넣어야 한다. 개인화 자체가 적은 아니다. 좋은 연구 파트너는 우리가 일하는 방식은 알되 우리가 어떤 결론에 이를지는 정하지 않는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "books-can-ai-replace-your-editor",
+      "tool": "Books",
+      "eyebrow": "AI NEWS",
+      "headline": "2,000달러 라인 에디팅을\nAI가 대신할 수 있을까",
+      "body": "2,000달러 라인 에디팅을 AI로 대체해도 되는지 ALLi 자문진이 선을 그어 준다.",
+      "mini_headline": "AI가 편집자를 대신할까",
+      "source": "Self-Publishing Advice Center (ALLi)",
+      "url": "https://selfpublishingadvice.org/podcast-can-ai-replace-your-editor/",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_QA.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Self-Publishing with ALLi 회원 Q&A 팟캐스트 이번 회차에서 진행자 Michael La Ronn과 Sacha Black이 2,000달러짜리 라인 에디팅 대신 AI를 쓰는 게 괜찮고 안전한지, 사람 편집자를 보완하는 것과 대체하는 것 사이 어디에 선을 그을지 이야기한다."
+          },
+          {
+            "t": "p",
+            "x": "다른 질문도 이어진다. 서평을 받을 수 있는 플랫폼은 어디이고 디지털과 실물 중 무엇을 보내야 하는지. IngramSpark에서 반품을 허용해야 하는지, 실제 비용은 얼마나 드는지. 같은 책을 Ingram에서 Kindle보다 1달러 비싸게 매기는 게 합리적인지. 일반 소설을 출간 전에 어떻게 알릴지. 전자책과 페이퍼백은 팔리는데 오디오북만 안 팔릴 때 무엇을 할 수 있는지. 연작 시리즈의 표지를 통일해야 하는지, 디자이너를 바꿔야 할 때는 어떻게 하는지."
+          },
+          {
+            "t": "p",
+            "x": "쇼노트에는 Alliance of Independent Authors의 AI 정책이 걸려 있다. ALLi 회원이면 로그인해 Q&A 팟캐스트에 직접 질문을 넣을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Michael La Ronn은 ALLi 아웃리치 매니저다. SF·판타지와 작가용 자기계발서를 80권 넘게 썼고, 아이오와 대평원에서 가정을 꾸리고 정규직으로 일하며 저녁엔 로스쿨까지 다니면서 글을 써 왔다. Sacha Black은 베스트셀러 작가이자 팟캐스터, 강연자로 비밀 필명으로 소설을 쓰고 글쓰기 기술을 다룬 책을 낸다."
+          }
+        ]
+      }
+    }
+  ]
 }

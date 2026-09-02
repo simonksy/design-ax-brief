@@ -1,32 +1,34 @@
 {
- "date": "2026-09-02",
- "section": "music",
- "media": [
-  {
-   "id": "music-denon-prime-4-g2",
-   "type": "video",
-   "src": "pipeline/media/music-denon-prime-4-g2.mp4",
-   "poster": "pipeline/media/music-denon-prime-4-g2.jpg"
-  },
-  {
-   "id": "music-declared-intent-search",
-   "type": "image",
-   "src": "pipeline/media/music-declared-intent-search.jpg"
-  },
-  {
-   "id": "music-ai-watermarks",
-   "type": "image",
-   "src": "pipeline/media/music-ai-watermarks.jpg"
-  },
-  {
-   "id": "music-artist-operating-system",
-   "type": "image",
-   "src": "pipeline/media/music-artist-operating-system.jpg"
-  },
-  {
-   "id": "music-vibe-coded-plugins",
-   "type": "image",
-   "src": "pipeline/media/music-vibe-coded-plugins.jpg"
-  }
- ]
+  "date": "2026-09-03",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-tone3000-nam",
+      "type": "video",
+      "src": "pipeline/media/music-tone3000-nam.mp4",
+      "poster": "pipeline/media/music-tone3000-nam.jpg"
+    },
+    {
+      "id": "music-logic-pro-12-3-session-players",
+      "type": "image",
+      "src": "pipeline/media/music-logic-pro-12-3-session-players.jpg"
+    },
+    {
+      "id": "music-elastic-melody-bass-dfam",
+      "type": "video",
+      "src": "pipeline/media/music-elastic-melody-bass-dfam.mp4",
+      "poster": "pipeline/media/music-elastic-melody-bass-dfam.jpg"
+    },
+    {
+      "id": "music-lucinate-video-synth",
+      "type": "video",
+      "src": "pipeline/media/music-lucinate-video-synth.mp4",
+      "poster": "pipeline/media/music-lucinate-video-synth.jpg"
+    },
+    {
+      "id": "music-jazz-fingerprints-ai",
+      "type": "image",
+      "src": "pipeline/media/music-jazz-fingerprints-ai.jpg"
+    }
+  ]
 }

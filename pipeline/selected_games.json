@@ -1,151 +1,179 @@
 {
- "date": "2026-09-02",
- "section": "games",
- "dedup_notes": {
-  "history_checked": [
-   "2026-09-01 (today)",
-   "2026-08-31",
-   "2026-08-30",
-   "2026-08-29",
-   "2026-08-28",
-   "2026-08-27"
+  "date": "2026-09-03",
+  "section": "games",
+  "selection_mode": "curator_auto",
+  "picks": [
+    {
+      "rank": 1,
+      "title": "New Game Uses Local AI Model Trained Entirely on Studio's Own Artists",
+      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists",
+      "source": "80 Level",
+      "published_iso": "2026-08-31T20:45:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49986/images/6a961376762b8/contain_1200x630.png",
+      "excerpt": "Studio Atelico built more than 10 prototypes around a local, on-device model trained only on its own artists' work. The takeaways: authored constraints, artist consent, statistical testing, and tighter creative-technical collaboration.",
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "A working answer to the consent problem — train small on your own art, keep inference on-device — which turns generative art from a legal risk into a studio asset."
+    },
+    {
+      "rank": 2,
+      "title": "Create Procedural UE5 Animations Based on Music with Vizibeat",
+      "url": "https://80.lv/articles/create-procedural-ue5-animations-based-on-music-with-this-tool",
+      "source": "80 Level",
+      "published_iso": "2026-09-02T10:08:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50007/images/6a97f587d7298/contain_1200x630.jpg",
+      "excerpt": "Vizibeat is an Unreal Engine plug-in that drives procedural animation directly from an audio track, producing motion without any keyframing.",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "A concrete tool an animator can install tomorrow: signal-driven procedural motion that stays fully editable in-engine, unlike generative video."
+    },
+    {
+      "rank": 3,
+      "title": "The Witcher 4 dev is \"still predominantly using people\" over AI in development, says CEO",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-09-02T21:39:13Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VEvzgDyGsv2hLZtpU25Se8-2560-80.png",
+      "excerpt": "CD Projekt Red's CEO says the studio still leans on people rather than AI for The Witcher 4, while conceding that every studio has to make its own judgment call.",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "Freshest item in the pool and the clearest public statement yet of where a flagship RPG studio is putting its craft budget."
+    },
+    {
+      "rank": 4,
+      "title": "Roblox makes three of its AI safety tools open source",
+      "url": "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-08-21T10:35:36Z",
+      "og_image": "https://assetsio.gnwcdn.com/roblox-phone.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Roblox released three of its AI moderation and safety models as open source, via the Robust Open Online Safety Tools community it co-founded with Google, OpenAI, and Discord.",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Downloadable models, not a policy statement — smaller creator platforms can inherit a safety layer that used to be a design constraint they had to build alone."
+    },
+    {
+      "rank": 5,
+      "title": "Nvidia tech behind PUBG's genAI team mates will let folks chat to creature-collecting RPG Aniimo's not-Pokemon next year",
+      "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-08-25T15:30:00Z",
+      "og_image": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Nvidia ACE, the tech that powered PUBG's generative AI teammates, is heading into Aniimo, where players will be able to talk to the creatures they collect from early 2027.",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "ACE moves from tech demo to a shipping creature-collector, turning the design question from 'can NPCs talk' into 'what should a talking companion be allowed to say'."
+    }
   ],
-  "dropped_as_duplicates": [
-   {
-    "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
-    "reason": "Same Tarn Adams interview as the Kotaku pick (within-pool duplicate); Kotaku kept for the sharper mandate angle and because its image differs from the 08-30 PC Gamer Dwarf Fortress card, which reuses the same og_image."
-   },
-   {
-    "url": "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208",
-    "reason": "Same 50-60% frame-rate figure as the PC Gamer DLSS 5 pick."
-   },
-   {
-    "url": "https://wccftech.com/nvidia-dlss-5-performance-5x-faster-rtx-50-series/",
-    "reason": "Same Nvidia DLSS 5 performance disclosure."
-   },
-   {
-    "url": "https://wccftech.com/nvidia-dlss-5-launch-biggest-leap-in-rendering-powered-by-neural-technology-lifelike-visuals/",
-    "reason": "Same DLSS 5 launch event; Wccftech content-hub cluster (3 near-identical posts)."
-   },
-   {
-    "url": "https://wccftech.com/nvidia-dlss-5-nba-2k27-hands-on-pixel-accurate/",
-    "reason": "Same DLSS 5 / NBA 2K27 hands-on event."
-   },
-   {
-    "url": "https://gamesbeat.com/nvidias-dlss-5-off-on-images-look-compelling-with-ai-tweaks-but-will-gamers-accept-it/",
-    "reason": "Same DLSS 5 NBA 2K27 demo."
-   },
-   {
-    "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-snuck-me-into-a-room-to-show-off-dlss-5-in-person-and-its-somehow-beautiful-ugly-impressive-and-troubling-all-at-the-same-time/",
-    "reason": "Same private DLSS 5 demo."
-   },
-   {
-    "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidia-dlss-5-is-launching-on-september-3-heres-everything-i-learned-about-it-from-a-private-gamescom-demo/",
-    "reason": "Same DLSS 5 launch/demo cluster."
-   },
-   {
-    "url": "https://www.rockpapershotgun.com/nvidia-dlss-5-releases-this-week-with-nba-2k27-so-the-ai-yassification-filters-busy-beautifying-basketballers-early-doors",
-    "reason": "Same DLSS 5 release story; also overlaps the 08-29 Polygon DLSS 5 leak card."
-   },
-   {
-    "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-lead-says-nvidia-dlss-5-backlash-is-really-funny-and-that-most-talented-people-i-know-use-ai/",
-    "reason": "DLSS 5 backlash cluster (one DLSS card cap)."
-   },
-   {
-    "url": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
-    "reason": "Same core topic as the 08-30 Rock Paper Shotgun card on false gen-AI accusations and visual literacy; also 7 days old."
-   },
-   {
-    "url": "https://www.rockpapershotgun.com/nvidia-dlss-45-ray-reconstruction-out-now-ups-shadow-quality-and-more-accurately-illuminates-trash-bags",
-    "reason": "Second Nvidia neural-rendering card; dropped under the one-DLSS/Nvidia-rendering cap and diversity guard."
-   }
-  ],
+  "dedup": {
+    "pool_size": 13,
+    "dropped": 3,
+    "dropped_items": [
+      {
+        "url": "https://80.lv/articles/nvidia-s-dlss-5-slop-or-not",
+        "reason": "Content duplicate of already-published DLSS 5 coverage (games-nvidia-says-dlss-5, 2026-09-02; games-dlss5-leak, 2026-08-29)."
+      },
+      {
+        "url": "https://www.destructoid.com/dlss-5-finally-has-a-use-case-making-cyberpunk-2077-genuinely-dystopian/",
+        "reason": "Same DLSS 5 story reframed; section already carried a DLSS 5 card yesterday."
+      },
+      {
+        "url": "https://aftermath.site/1666-amsterdam-no-more-ai-tomb-raider-divinity/",
+        "reason": "Core claim set overlaps the already-published 1666: Amsterdam AI-removal story (games-1666-drops-ai, 2026-09-01)."
+      }
+    ],
+    "backfilled": [
+      "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+      "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year"
+    ],
+    "not_selected": [
+      "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+      "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
+      "https://www.pocketgamer.biz/5-takeaways-from-gamescom-2026/",
+      "https://gamesbeat.com/skillprint-flow-turns-gameplay-into-human-performance-data-for-ai/",
+      "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup"
+    ],
+    "against_days": 6
+  },
   "diversity": {
-   "outlets": {
-    "GamesBeat": 2,
-    "PC Gamer": 1,
-    "Kotaku": 1,
-    "GamesRadar+": 1
-   },
-   "distinct_outlets": 4,
-   "dlss_cards": 1
-  }
- },
- "items": [
-  {
-   "rank": 1,
-   "category": "games",
-   "tool": "Games",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "title": "How Dream Racers uses Roblox's Cube AI to generate playable vehicles in real time",
-   "url": "https://gamesbeat.com/how-dream-racers-uses-robloxs-cube-ai-to-generate-playable-vehicles-in-real-time-exclusive/",
-   "source": "GamesBeat",
-   "published_iso": "2026-09-01T16:00:00Z",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
-   "excerpt": "A new Roblox game, Dream Racers, integrates generative AI directly into gameplay by letting players build and race unique karts. It is one of the first shipped titles to put Roblox's Cube 3D generation model into a live player-facing loop.",
-   "rationale": "First shipped title to make generative 3D a runtime design material rather than a pre-production asset trick — the player prompts and the game must keep it playable.",
-   "id": "games-how-dream-racers-uses"
+    "outlets": {
+      "80 Level": 2,
+      "GamesRadar+": 1,
+      "GamesIndustry.biz": 1,
+      "Rock Paper Shotgun": 1
+    },
+    "distinct_outlets": 4,
+    "max_per_outlet": 2
   },
-  {
-   "rank": 2,
-   "category": "games",
-   "tool": "Games",
-   "accent": "#0070f3",
-   "motif": "cube",
-   "title": "Nimble Fox launches AI tool for building Unity games worldwide",
-   "url": "https://gamesbeat.com/nimble-fox-launches-ai-tool-for-building-unity-games-worldwide/",
-   "source": "GamesBeat",
-   "published_iso": "2026-08-31T20:41:09Z",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
-   "excerpt": "A Helsinki startup is releasing an AI copilot built into the Unity editor on Sept. 7, letting developers build and modify games by prompting inside the engine. Rather than generating a whole game in one pass, it works feature by feature — mechanics, UI flows, scoped changes — reading the context of an existing project.",
-   "rationale": "A dated, in-editor, project-aware copilot (Sept 7) — the shape AI game tooling is settling into, and something a Unity team can actually schedule around.",
-   "id": "games-nimble-fox-launches-ai"
-  },
-  {
-   "rank": 3,
-   "category": "games",
-   "tool": "Games",
-   "accent": "#f5a623",
-   "motif": "cube",
-   "title": "Nvidia says DLSS 5 comes with a 50-60% performance hit, which makes me wonder what we're doing here",
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/",
-   "source": "PC Gamer",
-   "published_iso": "2026-09-01T13:01:09Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/E644DNUmDjsb24uWWwKTjm-2560-80.jpg",
-   "excerpt": "Nvidia has confirmed DLSS 5's 3D-guided neural rendering costs 50-60% of frame rate on average, inverting the original promise of DLSS as a performance technology.",
-   "rationale": "The single DLSS 5 card: Nvidia's own launch numbers flip the cost model, turning a neural render pass into an explicit art-direction budget decision rather than free uplift.",
-   "id": "games-nvidia-says-dlss-5"
-  },
-  {
-   "rank": 4,
-   "category": "games",
-   "tool": "Games",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "title": "Dwarf Fortress Creator Calls Out One Of AI's Biggest Issues: The Bosses Who Force Us To Use It",
-   "url": "https://kotaku.com/dwarf-fortress-tarn-adams-genai-ai-vibe-coding-claude-copilot-2000730266",
-   "source": "Kotaku",
-   "published_iso": "2026-09-01T17:45:43Z",
-   "og_image": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
-   "excerpt": "Tarn Adams argues the real problem with generative AI in game development isn't the tools but mandated adoption: 'Everyone I know, their bosses are slowly getting psychosis.'",
-   "rationale": "Games' most credible proceduralist moves the argument from capability to mandate — the version of the AI debate working designers actually live in.",
-   "id": "games-dwarf-fortress-creator-calls"
-  },
-  {
-   "rank": 5,
-   "category": "games",
-   "tool": "Games",
-   "accent": "#eb367f",
-   "motif": "cube",
-   "title": "30 years later, I finally got to play Quake on the PS1, but that's before I found a better version that doesn't rely on \"substantial AI assistance\"",
-   "url": "https://www.gamesradar.com/hardware/retro/30-years-later-i-finally-got-to-play-quake-on-the-ps1-but-thats-before-i-found-a-better-version-that-doesnt-rely-on-substantial-ai-assistance/",
-   "source": "GamesRadar+",
-   "published_iso": "2026-09-01T13:59:55Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/DRr2MjfGwEffDEDE78LQnC-1920-80.jpg",
-   "excerpt": "A homebrew Quake port for PS1 was built with heavy AI coding assistance — and a rival hand-written port runs better, sparking a small but pointed comparison in the demoscene-adjacent porting community.",
-   "rationale": "A rare controlled comparison: vibe-coded and hand-crafted versions of the same technical project shipping side by side, with measurable results.",
-   "id": "games-30-years-later-i"
-  }
- ]
+  "items": [
+    {
+      "rank": 1,
+      "title": "New Game Uses Local AI Model Trained Entirely on Studio's Own Artists",
+      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists",
+      "source": "80 Level",
+      "published_iso": "2026-08-31T20:45:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49986/images/6a961376762b8/contain_1200x630.png",
+      "excerpt": "Studio Atelico built more than 10 prototypes around a local, on-device model trained only on its own artists' work. The takeaways: authored constraints, artist consent, statistical testing, and tighter creative-technical collaboration.",
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "A working answer to the consent problem — train small on your own art, keep inference on-device — which turns generative art from a legal risk into a studio asset."
+    },
+    {
+      "rank": 2,
+      "title": "Create Procedural UE5 Animations Based on Music with Vizibeat",
+      "url": "https://80.lv/articles/create-procedural-ue5-animations-based-on-music-with-this-tool",
+      "source": "80 Level",
+      "published_iso": "2026-09-02T10:08:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50007/images/6a97f587d7298/contain_1200x630.jpg",
+      "excerpt": "Vizibeat is an Unreal Engine plug-in that drives procedural animation directly from an audio track, producing motion without any keyframing.",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "A concrete tool an animator can install tomorrow: signal-driven procedural motion that stays fully editable in-engine, unlike generative video."
+    },
+    {
+      "rank": 3,
+      "title": "The Witcher 4 dev is \"still predominantly using people\" over AI in development, says CEO",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-09-02T21:39:13Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VEvzgDyGsv2hLZtpU25Se8-2560-80.png",
+      "excerpt": "CD Projekt Red's CEO says the studio still leans on people rather than AI for The Witcher 4, while conceding that every studio has to make its own judgment call.",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "Freshest item in the pool and the clearest public statement yet of where a flagship RPG studio is putting its craft budget."
+    },
+    {
+      "rank": 4,
+      "title": "Roblox makes three of its AI safety tools open source",
+      "url": "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-08-21T10:35:36Z",
+      "og_image": "https://assetsio.gnwcdn.com/roblox-phone.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Roblox released three of its AI moderation and safety models as open source, via the Robust Open Online Safety Tools community it co-founded with Google, OpenAI, and Discord.",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Downloadable models, not a policy statement — smaller creator platforms can inherit a safety layer that used to be a design constraint they had to build alone."
+    },
+    {
+      "rank": 5,
+      "title": "Nvidia tech behind PUBG's genAI team mates will let folks chat to creature-collecting RPG Aniimo's not-Pokemon next year",
+      "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-08-25T15:30:00Z",
+      "og_image": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Nvidia ACE, the tech that powered PUBG's generative AI teammates, is heading into Aniimo, where players will be able to talk to the creatures they collect from early 2027.",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "ACE moves from tech demo to a shipping creature-collector, turning the design question from 'can NPCs talk' into 'what should a talking companion be allowed to say'."
+    }
+  ]
 }

@@ -1,146 +1,172 @@
 {
- "date": "2026-09-02",
- "section": "music",
- "count": 5,
- "items": [
-  {
-   "id": "music-denon-prime-4-g2",
-   "tool": "Music",
-   "accent": "#ff2d55",
-   "motif": "sphere",
-   "url": "https://www.gearnews.com/denon-dj-prime-4-g2/",
-   "source": "gearnews",
-   "published_iso": "2026-09-01T14:00:00Z",
-   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-ft2.jpg",
-   "excerpt": "The Denon DJ Prime 4 G2 adds a big processing jump and real-time stem separation on the standalone unit, letting DJs pull acapellas and instrumentals live without pre-rendering. Neural source separation moves from laptop software into the controller itself.",
-   "rationale": "뉴럴 스템 분리가 랩톱 소프트웨어를 떠나 스탠드얼론 컨트롤러 안으로 들어왔다 — 풀에서 가장 신선(09-01)하고 부스에서 내일 당장 달라지는 릴리스."
-  },
-  {
-   "id": "music-declared-intent-search",
-   "tool": "Music",
-   "accent": "#0070f3",
-   "motif": "sphere",
-   "url": "https://www.digitalmusicnews.com/2026/08/30/your-next-fan-may-never-search-for-you/",
-   "source": "Digital Music News",
-   "published_iso": "2026-08-31T05:10:13Z",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Search-has-moved-from-inferred-intent-to-declared-intent.png",
-   "excerpt": "Discovery is shifting from keyword search and metadata to listeners describing a mood or context and letting a model choose the music. For artists that changes what has to be legible about them — identity and context, not tags.",
-   "rationale": "키워드 메타데이터에서 '선언된 의도'로 발견 경로가 옮겨간다 — 태그 대신 무엇을 기계가 읽을 수 있게 남길지 다시 짜야 한다는 실무 과제."
-  },
-  {
-   "id": "music-ai-watermarks",
-   "tool": "Music",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "url": "https://www.midiaresearch.com/blog/do-watermarks-spell-the-end-of-ai-content-proliferation",
-   "source": "MIDiA Research",
-   "published_iso": "2026-08-19T09:00:00Z",
-   "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2650/cover_image-1787751417.png",
-   "excerpt": "Major AI companies have signed a voluntary code of practice and begun watermarking their outputs, and the EU AI Act now pushes detectability by default. MIDiA argues watermarks could reset how listeners and platforms treat AI-made tracks, making 'human-made' a signal creators can actually carry.",
-   "rationale": "라벨 논쟁의 상류 — 자율 규약과 EU AI Act로 탐지 가능성이 기본값이 되면 '사람이 만든'이 창작자가 실제로 들고 다닐 수 있는 신호가 된다."
-  },
-  {
-   "id": "music-artist-operating-system",
-   "tool": "Music",
-   "accent": "#7928ca",
-   "motif": "sphere",
-   "url": "https://www.hypebot.com/independent-artists-need-an-operating-system-not-another-tool/",
-   "source": "Hypebot",
-   "published_iso": "2026-08-24T15:08:14Z",
-   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-21-karan-oped.jpg",
-   "excerpt": "After a decade of point tools, the argument is that independent artists need an AI-connected operating system that links catalogue, data and release actions instead of another dashboard. The op-ed sketches what an agentic layer under an artist's workflow would actually have to do.",
-   "rationale": "포인트 툴을 하나 더 붙이는 대신 카탈로그·데이터·릴리스를 잇는 에이전트 층을 요구한다 — 독립 아티스트의 도구 스택을 다시 설계하는 관점."
-  },
-  {
-   "category": "music",
-   "title": "Vibe-Coded Plugins: A Developer's Take And The Risks Worth Knowing",
-   "url": "https://www.production-expert.com/production-expert-1/vibe-coded-plugins-a-developers-take-and-the-risks-worth-knowing",
-   "source": "Production Expert",
-   "published_iso": "2026-08-24T12:00:00Z",
-   "excerpt": "AI-assisted plugin development has gone mainstream, and a working developer walks through how vibecoding has shifted the plugins producers own and buy. The piece lays out a practical buyer checklist — trial availability, license verification, professional use/endorsement — for judging whether an AI-built audio plugin is safe to put in a session.",
-   "og_image": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
-   "why": "AI 코딩이 음악 플러그인 시장 자체를 바꾸는 이야기 — 도구를 만드는 쪽과 사는 쪽 모두의 작업 기준이 달라진다. 제작자 관점의 실무 체크리스트가 있어 크래프트 훅이 분명하다.",
-   "id": "music-vibe-coded-plugins",
-   "tool": "Music",
-   "accent": "#2ec5c5",
-   "motif": "sphere"
-  }
- ],
- "picks": [
-  {
-   "id": "music-denon-prime-4-g2",
-   "tool": "Music",
-   "accent": "#ff2d55",
-   "motif": "sphere",
-   "url": "https://www.gearnews.com/denon-dj-prime-4-g2/",
-   "source": "gearnews",
-   "published_iso": "2026-09-01T14:00:00Z",
-   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-ft2.jpg",
-   "excerpt": "The Denon DJ Prime 4 G2 adds a big processing jump and real-time stem separation on the standalone unit, letting DJs pull acapellas and instrumentals live without pre-rendering. Neural source separation moves from laptop software into the controller itself.",
-   "rationale": "뉴럴 스템 분리가 랩톱 소프트웨어를 떠나 스탠드얼론 컨트롤러 안으로 들어왔다 — 풀에서 가장 신선(09-01)하고 부스에서 내일 당장 달라지는 릴리스."
-  },
-  {
-   "id": "music-declared-intent-search",
-   "tool": "Music",
-   "accent": "#0070f3",
-   "motif": "sphere",
-   "url": "https://www.digitalmusicnews.com/2026/08/30/your-next-fan-may-never-search-for-you/",
-   "source": "Digital Music News",
-   "published_iso": "2026-08-31T05:10:13Z",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Search-has-moved-from-inferred-intent-to-declared-intent.png",
-   "excerpt": "Discovery is shifting from keyword search and metadata to listeners describing a mood or context and letting a model choose the music. For artists that changes what has to be legible about them — identity and context, not tags.",
-   "rationale": "키워드 메타데이터에서 '선언된 의도'로 발견 경로가 옮겨간다 — 태그 대신 무엇을 기계가 읽을 수 있게 남길지 다시 짜야 한다는 실무 과제."
-  },
-  {
-   "id": "music-ai-watermarks",
-   "tool": "Music",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "url": "https://www.midiaresearch.com/blog/do-watermarks-spell-the-end-of-ai-content-proliferation",
-   "source": "MIDiA Research",
-   "published_iso": "2026-08-19T09:00:00Z",
-   "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2650/cover_image-1787751417.png",
-   "excerpt": "Major AI companies have signed a voluntary code of practice and begun watermarking their outputs, and the EU AI Act now pushes detectability by default. MIDiA argues watermarks could reset how listeners and platforms treat AI-made tracks, making 'human-made' a signal creators can actually carry.",
-   "rationale": "라벨 논쟁의 상류 — 자율 규약과 EU AI Act로 탐지 가능성이 기본값이 되면 '사람이 만든'이 창작자가 실제로 들고 다닐 수 있는 신호가 된다."
-  },
-  {
-   "id": "music-artist-operating-system",
-   "tool": "Music",
-   "accent": "#7928ca",
-   "motif": "sphere",
-   "url": "https://www.hypebot.com/independent-artists-need-an-operating-system-not-another-tool/",
-   "source": "Hypebot",
-   "published_iso": "2026-08-24T15:08:14Z",
-   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-21-karan-oped.jpg",
-   "excerpt": "After a decade of point tools, the argument is that independent artists need an AI-connected operating system that links catalogue, data and release actions instead of another dashboard. The op-ed sketches what an agentic layer under an artist's workflow would actually have to do.",
-   "rationale": "포인트 툴을 하나 더 붙이는 대신 카탈로그·데이터·릴리스를 잇는 에이전트 층을 요구한다 — 독립 아티스트의 도구 스택을 다시 설계하는 관점."
-  }
- ],
- "dedup": {
-  "pool": 10,
-  "dropped_as_duplicates": 6,
-  "shortfall": 1,
-  "notes": [
-   "Apple Music 'Made With AI' labels — Engadget (08-20), CMU (08-21), gearnews (08-21) are three outlets on one event, AND the event was already reported inside the 2026-08-31 card music-platform-ai-policies (Billboard platform-policy tracker: '애플뮤직은 8월 발표한 Made With AI 라벨을 2026년 말까지 적용한다'). Same call was made on 2026-09-01; earliest-wins holds. All 3 dropped.",
-   "Billboard 'Affirms Commitment to Transparency Around AI-Generated Music' (08-25) and Music Ally 'Billboard and Luminate promise more transparency around AI music' (08-26) are the same Luminate/Billboard AI-identification announcement, already published 2026-08-26 as music-luminate-ai-label (Billboard). That day has since rolled out of the 5-day window so URL dedup could not catch it; dropped on content. 2 dropped.",
-   "Digital Music News 'Meet the Musicians Leading the Anti-AI Callout Culture' (08-31) = same beat as music-ai-track-detectives, published in today's live set (2026-09-01, The Verge, h4rris/Nihil Young AI-grifter detectives). Reworded aggregation of the same story. 1 dropped.",
-   "Backfill exhausted the pool: after the 6 drops only 4 distinct never-published stories remain, so the section ships 4 (above the floor of 3) rather than padding with a duplicate."
-  ]
- },
- "diversity": {
-  "outlets": [
-   "gearnews",
-   "Digital Music News",
-   "MIDiA Research",
-   "Hypebot"
+  "date": "2026-09-03",
+  "section": "music",
+  "count": 5,
+  "items": [
+    {
+      "id": "music-tone3000-nam",
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "title": "The new TONE3000 is FREE and provides access to countless NAM profiles",
+      "url": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-09-02T17:08:21+00:00",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/TONE3000-728x364.jpg",
+      "excerpt": "TONE3000 has released a free plugin for macOS, Windows and Linux that plays back Neural Amp Modeler (NAM) captures, opening a huge library of neural-modelled amps, cabs, pedals and outboard to any DAW. Neural capture is quietly becoming the default way guitar and studio gear gets emulated — sound and reactive behaviour, not just static impulse responses.",
+      "rationale": "풀에서 가장 신선하고(09-02) 가장 실무적인 릴리스 — 무료 플러그인 하나로 뉴럴 캡처 앰프/아웃보드 라이브러리 전체가 어떤 DAW에서든 열린다."
+    },
+    {
+      "id": "music-logic-pro-12-3-session-players",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "title": "Logic Pro 12.3, as reviewed by a Cubase version 1 user",
+      "url": "https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/",
+      "source": "MusicTech",
+      "published_iso": "2026-09-02T08:00:01+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-hero-credit-press@2000x1500-1068x801.jpg",
+      "excerpt": "A lifelong Cubase user reviews Logic Pro 12.3 and lands on its AI features as the reason to switch: Session Players that conjure convincing bass, drum and keyboard parts from a project's chords and groove, plus \"one of the best stem separation processes I've encountered\". A concrete read on how AI performers reshape a DAW workflow.",
+      "rationale": "AI 세션 플레이어와 스템 분리가 DAW 갈아탈 이유가 되는지 30년 크로스그레이드 관점에서 검증한다 — 내일 세션에서 바로 판단이 갈리는 항목."
+    },
+    {
+      "id": "music-elastic-melody-bass-dfam",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "Elastic Melody now does bass and DFAM-style percussion, too (Mac, iOS)",
+      "url": "https://cdm.link/elastic-melody-1-2/",
+      "source": "CDM (Create Digital Music)",
+      "published_iso": "2026-09-02T10:50:09+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/09/EM-DFAM-2.jpg",
+      "excerpt": "Elastic Melody, a go-to algorithmic melody generator for Mac, iPad and iPhone, adds Pitch and Filter Drive modes so the same generative engine can now write basslines and DFAM-style percussion. It is a case study in generative composition as an instrument rather than a prompt box.",
+      "rationale": "프롬프트 상자가 아니라 악기로서의 제너레이티브 작곡 — 같은 엔진이 멜로디에서 베이스와 퍼커션까지 넓어지며 실제 편곡 파트를 맡는다."
+    },
+    {
+      "id": "music-lucinate-video-synth",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Lucinate video synth animates and live-codes visuals on Mac and iOS",
+      "url": "https://cdm.link/lucinate-visuals-on-mac-and-ios/",
+      "source": "CDM (Create Digital Music)",
+      "published_iso": "2026-08-28T11:44:10+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/08/lucinate-main-image.png",
+      "excerpt": "From the makers of AUM, Lucinate is a real-time Metal-based visual environment for macOS and iOS that works as a ready-to-play, Ableton Link-synced video synth and opens up to live coding. A generative visualizer pipeline for musicians who don't want to render a music video.",
+      "rationale": "뮤직비디오를 렌더링하는 대신 Ableton Link에 물려 실시간으로 비주얼을 연주한다 — 릴리스와 라이브 영상 작업의 공정 자체를 바꾸는 도구."
+    },
+    {
+      "id": "music-jazz-fingerprints-ai",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "title": "AI models can identify iconic jazz pianists based on their recordings, while also revealing their \"musical fingerprints\"",
+      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
+      "source": "MusicRadar",
+      "published_iso": "2026-08-25T10:09:21+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi-1200-80.jpg",
+      "excerpt": "New research shows machine-learning models can name the jazz pianist behind a recording and, in doing so, expose the measurable \"musical fingerprint\" of a player's touch, timing and voicing. Researchers say it could suggest authors for unattributed works.",
+      "rationale": "연주자의 터치·타이밍·보이싱이 측정 가능한 지문이 된다는 연구 — 저작 귀속과 스타일 분석 양쪽에 쓰일 수 있는, 도구 릴리스와 결이 다른 통찰."
+    }
   ],
-  "max_per_outlet": 1,
-  "distinct_outlets": 4,
-  "topic_spread": [
-   "DJ hardware / real-time stems",
-   "AI discovery + metadata",
-   "watermarking & regulation",
-   "independent-artist tooling stack"
-  ]
- }
+  "picks": [
+    {
+      "id": "music-tone3000-nam",
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "title": "The new TONE3000 is FREE and provides access to countless NAM profiles",
+      "url": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-09-02T17:08:21+00:00",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/TONE3000-728x364.jpg",
+      "excerpt": "TONE3000 has released a free plugin for macOS, Windows and Linux that plays back Neural Amp Modeler (NAM) captures, opening a huge library of neural-modelled amps, cabs, pedals and outboard to any DAW. Neural capture is quietly becoming the default way guitar and studio gear gets emulated — sound and reactive behaviour, not just static impulse responses.",
+      "rationale": "풀에서 가장 신선하고(09-02) 가장 실무적인 릴리스 — 무료 플러그인 하나로 뉴럴 캡처 앰프/아웃보드 라이브러리 전체가 어떤 DAW에서든 열린다."
+    },
+    {
+      "id": "music-logic-pro-12-3-session-players",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "title": "Logic Pro 12.3, as reviewed by a Cubase version 1 user",
+      "url": "https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/",
+      "source": "MusicTech",
+      "published_iso": "2026-09-02T08:00:01+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-hero-credit-press@2000x1500-1068x801.jpg",
+      "excerpt": "A lifelong Cubase user reviews Logic Pro 12.3 and lands on its AI features as the reason to switch: Session Players that conjure convincing bass, drum and keyboard parts from a project's chords and groove, plus \"one of the best stem separation processes I've encountered\". A concrete read on how AI performers reshape a DAW workflow.",
+      "rationale": "AI 세션 플레이어와 스템 분리가 DAW 갈아탈 이유가 되는지 30년 크로스그레이드 관점에서 검증한다 — 내일 세션에서 바로 판단이 갈리는 항목."
+    },
+    {
+      "id": "music-elastic-melody-bass-dfam",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "Elastic Melody now does bass and DFAM-style percussion, too (Mac, iOS)",
+      "url": "https://cdm.link/elastic-melody-1-2/",
+      "source": "CDM (Create Digital Music)",
+      "published_iso": "2026-09-02T10:50:09+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/09/EM-DFAM-2.jpg",
+      "excerpt": "Elastic Melody, a go-to algorithmic melody generator for Mac, iPad and iPhone, adds Pitch and Filter Drive modes so the same generative engine can now write basslines and DFAM-style percussion. It is a case study in generative composition as an instrument rather than a prompt box.",
+      "rationale": "프롬프트 상자가 아니라 악기로서의 제너레이티브 작곡 — 같은 엔진이 멜로디에서 베이스와 퍼커션까지 넓어지며 실제 편곡 파트를 맡는다."
+    },
+    {
+      "id": "music-lucinate-video-synth",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Lucinate video synth animates and live-codes visuals on Mac and iOS",
+      "url": "https://cdm.link/lucinate-visuals-on-mac-and-ios/",
+      "source": "CDM (Create Digital Music)",
+      "published_iso": "2026-08-28T11:44:10+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/08/lucinate-main-image.png",
+      "excerpt": "From the makers of AUM, Lucinate is a real-time Metal-based visual environment for macOS and iOS that works as a ready-to-play, Ableton Link-synced video synth and opens up to live coding. A generative visualizer pipeline for musicians who don't want to render a music video.",
+      "rationale": "뮤직비디오를 렌더링하는 대신 Ableton Link에 물려 실시간으로 비주얼을 연주한다 — 릴리스와 라이브 영상 작업의 공정 자체를 바꾸는 도구."
+    },
+    {
+      "id": "music-jazz-fingerprints-ai",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "title": "AI models can identify iconic jazz pianists based on their recordings, while also revealing their \"musical fingerprints\"",
+      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
+      "source": "MusicRadar",
+      "published_iso": "2026-08-25T10:09:21+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi-1200-80.jpg",
+      "excerpt": "New research shows machine-learning models can name the jazz pianist behind a recording and, in doing so, expose the measurable \"musical fingerprint\" of a player's touch, timing and voicing. Researchers say it could suggest authors for unattributed works.",
+      "rationale": "연주자의 터치·타이밍·보이싱이 측정 가능한 지문이 된다는 연구 — 저작 귀속과 스타일 분석 양쪽에 쓰일 수 있는, 도구 릴리스와 결이 다른 통찰."
+    }
+  ],
+  "dedup": {
+    "pool": 11,
+    "dropped_as_duplicates": 1,
+    "shortfall": 0,
+    "checked_against": [
+      "sections.music.today (2026-09-02)",
+      "sections.music.days (2026-08-28, 08-29, 08-30, 08-31, 09-01)"
+    ],
+    "notes": [
+      "Digital Music News 'Meet the Musicians Leading the Anti-AI Callout Culture' (08-31) is the same story as music-ai-track-detectives, already published 2026-09-01 (The Verge, h4rris / Nihil Young hunting AI grifters). Reworded aggregation of one event — dropped on content, earliest-wins.",
+      "Checked and cleared as distinct: Elastic Melody 1.2 (CDM) vs the 08-29 card music-or1 (Organismi OR-1, Synthtopia) — different products, different releases. MusicRadar jazz 'musical fingerprints' research vs the 09-01 card music-jazz-profile-hijack (DMN, spam farms on jazz profiles) — unrelated stories that merely share the word jazz. TONE3000 (NAM playback plugin) vs the 08-28 card music-quad-cortex-coros (Neural DSP CorOS 4.1.0) — different vendors and releases.",
+      "Two CDM items kept: cdm.link/elastic-melody-1-2/ and cdm.link/lucinate-visuals-on-mac-and-ios/ are distinct products and distinct URLs, published 5 days apart — not a content-hub duplicate. Outlet cap of 2 respected.",
+      "Not selected (weak filler flagged by the librarian, not needed to reach 5): Soundplate/Stemmer acquisition (Music Ally), Yamaha Creator Pass review (Attack), MusicTech weekly plugin roundup. Also held back: Stvdio/Secretly indies report (Music Ally), Hypebot 'end of the artist economy' op-ed — both industry commentary, and the section already ran heavy industry/policy coverage on 08-30, 08-31 and 09-01."
+    ]
+  },
+  "diversity": {
+    "outlets": [
+      "Bedroom Producers Blog",
+      "MusicTech",
+      "CDM (Create Digital Music)",
+      "CDM (Create Digital Music)",
+      "MusicRadar"
+    ],
+    "max_per_outlet": 2,
+    "distinct_outlets": 4,
+    "topic_spread": [
+      "neural amp capture / free plugin",
+      "DAW review + AI session players",
+      "generative composition instrument",
+      "live visuals for musicians",
+      "music-ML research / style fingerprinting"
+    ]
+  }
 }

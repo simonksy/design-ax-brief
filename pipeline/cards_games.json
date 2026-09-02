@@ -1,302 +1,257 @@
 {
- "date": "2026-09-02",
- "section": "games",
- "cards": [
-  {
-   "id": "games-how-dream-racers-uses",
-   "eyebrow": "AI NEWS",
-   "headline": "프롬프트 세 단어가 카트가 되는\nRoblox 레이싱 게임이 나왔다",
-   "mini_headline": "세 단어로 만드는 카트",
-   "body": "플레이어가 고른 형용사 세 개를 Cube AI가 3D 카트로 만들어 경주에 태운다.",
-   "tool": "Games",
-   "source": "GamesBeat",
-   "url": "https://gamesbeat.com/how-dream-racers-uses-robloxs-cube-ai-to-generate-playable-vehicles-in-real-time-exclusive/",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
-   "published_iso": "2026-09-01T16:00:00Z",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
-      "cap": "Roblox 신작 Dream Racers"
-     },
-     {
-      "t": "p",
-      "x": "Roblox가 생성형 AI를 플랫폼 위 경험의 핵심 게임플레이 루프 안으로 직접 끌어들인다."
-     },
-     {
-      "t": "p",
-      "x": "9월 1일 크리에이터 스튜디오 Studsy가 내놓은 Dream Racers는 카트 레이싱 게임이다. Roblox의 생성형 AI 도구 Cube로 플레이어마다 다른 차량을 실시간으로 만들어 낸다. 프롬프트 창에 몇 단어를 넣으면 “Trumpet Mouse Floral Kart”나 “Skeleton Parrot Mule Kart” 같은 엉뚱한 탈것이 나온다. Studsy 창업자 Kaya-kii “Delus” Ndlovu는 GamesBeat 인터뷰에서 Roblox의 4D AI 기술을 새 경험에 넣을 기회가 자기 스튜디오와 Roblox Innovation Studio의 협업에서 나왔다고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "“개발에 Cube AI를 쓰지는 않았다. 이번 접근은 그걸 게임플레이 자체에 어떻게 넣을지 찾는 일이었다.” Ndlovu의 설명이다. “플레이어가 카트를 설명할 형용사 세 개를 고르면, Roblox에 들어 있는 Cube AI가 그 세 단어로 3D 카트 모델을 만들고, 플레이어는 그 카트로 경주를 한다.”"
-     },
-     {
-      "t": "p",
-      "x": "차량마다 다른 성질은 “word shop”이라 부르는 선별된 단어 목록에서 형용사 세 개를 골라 조합한다. 프롬프트가 겉모습만 바꾸지는 않는다. 고른 단어에 따라 카트의 물리와 게임플레이 수치가 달라진다. Ndlovu는 앞으로 생성형 AI를 게임플레이에 더 깊이 넣겠다고 했다."
-     },
-     {
-      "t": "p",
-      "x": "“한 플레이어가 불 테마 카트를 만들고 다른 플레이어가 얼음 테마 카트를 갖고 있으면, 둘 사이에 어떤 충돌이 생기는 식이다.”"
-     },
-     {
-      "t": "p",
-      "x": "Roblox는 2025년 3월 Cube AI 3D 제작 도구를 처음 알렸고, 2026년 2월에는 AI가 만든 오브젝트를 게임 월드에 실시간으로 넣게 하면서 4D 생성으로 넓혔다. Dream Racers는 Cube AI를 게임플레이에 직접 붙인 첫 Roblox 경험 가운데 하나다."
-     },
-     {
-      "t": "p",
-      "x": "Roblox Innovation Studio를 이끄는 Morgan Tucker는 GamesBeat에 보낸 서면에서 “우리가 만들 수 있는 가장 강력한 기능은 아이디어와 그 실현 사이의 마찰을 없애는 것”이라고 했다. “자연어 창작이 창작자의 손에서 해내는 일이 그것이다. Cube Foundation Model이 구동하는 4D 생성을 게임에 넣으면서 Studsy는 상호작용이라는 결정적 차원을 더했다. 게임 속 오브젝트가 플레이어의 기대대로 움직이니, 좋은 게임을 만드는 예상 밖의 순간에 집중할 수 있다.”"
-     },
-     {
-      "t": "p",
-      "x": "Studsy가 Dream Racers 개발에 Cube AI를 쓰지는 않았지만, Ndlovu는 언젠가 3D 아트를 전부 이 도구로 만들 수 있는 수준까지 간다고 봤다. 형용사 세 개짜리 프롬프트로 무기를 만들어 싸우는 배틀그라운드 게임을 비롯해, 생성형 AI를 직접 붙이는 장르와 형식 실험을 이어가겠다고 했다."
-     },
-     {
-      "t": "p",
-      "x": "“이게 모두에게 열렸을 때 다른 개발자들이 플랫폼에서 어떤 식으로 쓸지 상상하면 재밌다.”"
-     }
-    ]
-   }
-  },
-  {
-   "id": "games-nimble-fox-launches-ai",
-   "eyebrow": "AI NEWS",
-   "headline": "Unity 에디터 안에서 프롬프트로\n게임을 고치는 도구가 9월 7일 나온다",
-   "mini_headline": "Unity 에디터 코파일럿",
-   "body": "9월 7일 나올 Nimble Fox는 Unity 프로젝트를 읽고 기능별로 고친다.",
-   "tool": "Games",
-   "source": "GamesBeat",
-   "url": "https://gamesbeat.com/nimble-fox-launches-ai-tool-for-building-unity-games-worldwide/",
-   "accent": "#0070f3",
-   "motif": "cube",
-   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
-   "published_iso": "2026-08-31T20:41:09Z",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
-      "cap": "Unity 에디터에 붙는 Nimble Fox"
-     },
-     {
-      "t": "p",
-      "x": "헬싱키의 한 스타트업이 원하는 걸 말로 설명하면 Unity 개발자가 게임을 만들 수 있는 AI 코파일럿을 내놨다."
-     },
-     {
-      "t": "p",
-      "x": "Nimble Fox는 9월 7일 이 도구를 일반에 공개한다. 개발자는 게임 엔진 안에서 바로 프롬프트를 넣어 게임을 만들고 고친다. 출시 시점에 무료 요금제와 유료 요금제가 함께 열린다."
-     },
-     {
-      "t": "p",
-      "x": "게임 하나를 한 번에 통째로 뽑는 방식은 아니다. 게임플레이 메커닉이나 UI 흐름처럼 범위가 정해진 변경을 기능 단위로 하나씩 쌓는다. Unity 에디터에 들어가 기존 프로젝트의 맥락을 읽고, 자연어 프롬프트로 이미 있는 코드와 아트, 에셋을 손보거나 없는 것을 새로 만든다. 투자사는 Sisu Game Ventures, Wave Ventures, First Fellow Partners다."
-     },
-     {
-      "t": "p",
-      "x": "창업자이자 CEO인 Jonne Myöhänen은 게임 아이디어 하나를 플레이할 수 있는 형태로 만드는 데 걸리는 시간에 지쳐 이 프로젝트를 시작했다. “게임 아이디어는 많았지만 프로토타이핑에만 몇 달을 쓰고 싶지 않았다.” 보도자료에 담긴 말이다. “더 빠른 창작 출구로 Nimble Fox를 만들기 시작했다.”"
-     },
-     {
-      "t": "p",
-      "x": "2025년 가을 Aalto Entrepreneurship Society의 Ignite 액셀러레이터에서 우승하면서 프로젝트는 회사가 됐다. 이후 투자 라운드를 마쳤고, 헬싱키에 여섯 명 상근 팀을 꾸렸으며, Business Finland의 R&D 보조금도 받았다."
-     },
-     {
-      "t": "p",
-      "x": "Myöhänen은 코드 생성 그 이상을 노린다고 했다. “AI가 그냥 코드를 만드는 것보다 훨씬 큰 기회가 있다고 본다.” 그의 말이다. “쓸모 있는 부분은 코드를 쓰는 게 아니라, 요청 하나를 게임 안에서 실제로 작동하는 무언가로 바꾸는 데 필요한 작업을 AI가 Unity 프로젝트 전반에서 처리하는 것이다.”"
-     },
-     {
-      "t": "p",
-      "x": "이 도구는 개발자와 스튜디오가 시간을 유독 많이 잡아먹는다고 꼽는 작업을 중심으로 짜였다. 창작 통제권을 개발자에게서 떼어내지 않으면서 수작업만 줄이는 게 목표다. 회사는 개별 스튜디오의 대형 게임에 맞춘 전용 버전도 살펴본다. 기능 요청을 받아 그 스튜디오 프로젝트 안에서 작동하는 첫 버전을 직접 구현하는 식이다."
-     },
-     {
-      "t": "p",
-      "x": "Myöhänen은 핀란드 초기 창업자들을 위한 Silta Program으로 지금 샌프란시스코에 머문다. 9월 7일 공개를 앞두고 미국 시장에 Nimble Fox를 소개하려고 게임 스튜디오들을 만나는 중이다."
-     },
-     {
-      "t": "p",
-      "x": "출시에 맞춰 9월 4일부터 6일까지 헬싱키와 온라인에서 48시간 하이브리드 행사 Nimble Game Jam이 열린다. 참가자는 잼 기간 동안 Nimble Fox를 무료로 쓰며 주말 내내 게임을 만든다. 심사위원은 Samuli Syvähuoko, Jonne Taivassalo, Ignacio Amaya다."
-     },
-     {
-      "t": "p",
-      "x": "회사는 고객 피드백과 기술이 가장 값어치를 내는 작업 흐름을 보고 도구를 계속 다듬겠다고 보도자료에서 밝혔다. Nimble Fox의 자리는 범용 코드 생성기 대신 특정 게임 엔진에 맞춘 AI 도구를 만드는 스타트업 무리 사이다. 스튜디오들이 창작 결정을 자동화에 넘기지 않으면서 제작 속도를 올릴 길을 찾고 있어서다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "games-nvidia-says-dlss-5",
-   "eyebrow": "AI NEWS",
-   "headline": "Nvidia가 밝힌 DLSS 5의 값은\n평균 프레임 50-60% 하락이다",
-   "mini_headline": "DLSS 5, 프레임 대가",
-   "body": "Nvidia는 DLSS 5가 모든 게임에서 프레임을 50-60% 깎는다고 밝혔다.",
-   "tool": "Games",
-   "source": "PC Gamer",
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/",
-   "accent": "#f5a623",
-   "motif": "cube",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/E644DNUmDjsb24uWWwKTjm-2560-80.jpg",
-   "published_iso": "2026-09-01T13:01:09Z",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/E644DNUmDjsb24uWWwKTjm-2560-80.jpg",
-      "cap": "Nvidia DLSS 5"
-     },
-     {
-      "t": "p",
-      "x": "솔직히 지난주 Nvidia의 DLSS 5 데모에는 선입견을 품고 들어갔다. 그때까지 나온 이미지가 마음에 들지 않았고, 우리가 아끼는 게임에 이게 무슨 이득을 준다는 건지 미심쩍었다. 체크박스 하나로 끌 수 있다 해도, AI가 손댄 이미지가 취미 안으로 들어온다는 게 영 꺼림칙했다."
-     },
-     {
-      "t": "p",
-      "x": "좋은 소식은 실제 게임 개발자가 설정을 손보고 나면 DLSS 5가 꽤 괜찮아 보인다는 것이다. 아주 나쁜 소식은 Nvidia가 지금 DLSS 5를 켜면 성능이 50-60% 떨어진다고 말한다는 점이다. 게임을 가리지 않고 전부 그렇다."
-     },
-     {
-      "t": "p",
-      "x": "Nvidia는 불과 6개월 전만 해도 DLSS 5를 돌리려면 RTX 5090 두 장이 필요했다는 점을 강조했다. 그 사이 5배가 좋아졌으니 그건 감안할 만하다. 그래도 프레임이 주저앉는다면 PC 게이밍 커뮤니티가 DLSS 5를 보는 눈이 나아지기는 어렵다."
-     },
-     {
-      "t": "p",
-      "x": "지금까지 Nvidia가 준 기본 성능 차트를 보면, 초고프레임 수치는 6x Multi Frame Generation을 깐 값이다. 작은 RTX 5060이 NBA 2K27을 1080p 울트라에 레이 트레이싱과 DLSS 5를 켜고 258fps로 뽑아내지만, 그 밑에서 실제로 돌아가는 게임은 43fps쯤이다."
-     },
-     {
-      "t": "p",
-      "x": "4K에서는 같은 설정으로 RTX 5090이 평균 370fps, RTX 5080이 평균 233fps를 낸다. 다만 업스케일링을 Performance 단계에 두고, 6x MFG가 다시 한번 무거운 짐을 대신 진 결과다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/Afh7f9ohbNXKRdqDsKNp2Y.jpg",
-      "cap": "Nvidia가 공개한 DLSS 5 성능 차트"
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/LuxmyUpviXizapewzeYowX.jpg",
-      "cap": "DLSS 5 프레임 비교 (자료: Nvidia)"
-     },
-     {
-      "t": "p",
-      "x": "고급 그래픽카드에 수천 달러를 썼다면, 높은 프레임을 얻겠다고 업스케일링과 프레임 생성을 한계까지 밀어 올린 채 게임을 돌리는 그림을 바라지는 않았을 것이다."
-     },
-     {
-      "t": "p",
-      "x": "그래서 DLSS 5가 받아들여지는 데 가장 큰 걸림돌이 정말 AI화인지 헷갈린다. DLSS 5와 AI 전반, 그 갈고리가 취미 곳곳에 파고드는 상황을 두고 나도 깊고 어두운 걱정이 있다. 다만 이 기술이 프레임을 반으로 잘라 놓는다면 그런 얘기는 다 부질없어진다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "games-dwarf-fortress-creator-calls",
-   "eyebrow": "AI NEWS",
-   "headline": "AI의 진짜 문제는 도구가 아니라\n그걸 쓰라고 강요하는 상사다",
-   "mini_headline": "AI를 강요하는 상사",
-   "body": "Tarn Adams는 AI의 문제로 도구가 아니라 사용을 강요하는 상사를 지목했다.",
-   "tool": "Games",
-   "source": "Kotaku",
-   "url": "https://kotaku.com/dwarf-fortress-tarn-adams-genai-ai-vibe-coding-claude-copilot-2000730266",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "og_image": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
-   "published_iso": "2026-09-01T17:45:43Z",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
-      "cap": "Dwarf Fortress 스크린샷. © Bay 12 Games"
-     },
-     {
-      "t": "p",
-      "x": "“내가 아는 사람들은 다 상사가 서서히 정신증에 빠지고 있다.” 어디에나 들어맞을 법한 말이지만, 지금 게임 업계에 특히 잘 맞는다. Gamescom 기간 PC Gamer와 이야기하던 Dwarf Fortress 제작자 Tarn Adams가 AI라는 지겨운 화제를 두고 한 말이다. “CEO가 버튼 하나 눌러 게임을 만들게 하고, 그러면 일자리도 없는 나머지 사람들이 어떻게든 그걸 사게 만들려는 거다.”"
-     },
-     {
-      "t": "p",
-      "x": "게임 관객 다수가 가장 크고 격하게 반응하는 쪽은 아트, 에셋, 목소리, 사운드를 만드는 생성형 AI다. 정작 가장 널리 쓰이는 자리는 그 밑의 코드다. Steam 고지나 공개 항의는 지금 모든 분야의 코딩이 Claude나 Copilot 같은 도구 손에 얼마나 넘어가 있는지 거의 담지 못한다. 대개는 회사 위계의 직접적인 압박 탓이다. 다시 말해 상사다. 튼튼하고 제대로 도는 코드를 몇 주에 걸쳐 쓸 이유가 뭔가, LLM에 대충 짜맞춰 달라고 하고 돌려보면 되는데. 물론 당장 떠오르는 온갖 이유를 빼면 말이지만."
-     },
-     {
-      "t": "p",
-      "x": "Adams가 상사 얘기를 할 때 가리키는 상황이 이것이다. “그냥 이러는 거다. ‘그래서 커밋에 AI 썼어?’ 그러고는 ‘음, 얘는 좀 마음에 안 드는데’ 한다. ‘아마 기계한테 시키면 되겠지’ 하고.” Adams는 이 장면이 “Dead Kennedys 노래 같은 걸 떠올리게 한다. 늘 똑같은 짓이다. 우리 아버지도 하수처리장에서 잘렸다. 거기 컴퓨터 담당이었는데 사람들이 그 일이 뭔지 몰랐다. 그 회사는 이제 없다. 그러니까 늘 똑같은 짓”이라고 했다."
-     },
-     {
-      "t": "p",
-      "x": "게임만의 일이 아니라 모든 코딩 직군에서 벌어지는 그림이다. 윗선은 AI가 아껴 준다는 시간, 그 새 마법 도구가 가져다줄 온갖 약속을 게걸스럽게 받아먹고, 실현은 불가능한 과제로 직원에게 떠넘긴다. 환각으로 나온 코드를 디버깅하는 데 처음부터 직접 쓰는 것보다 훨씬 오래 걸린다는 현실은 신경 쓰지 않는다. 아무도 전모를 모르는 방식으로 만든 소프트웨어를 나중에 책임져야 한다는 문제도 마찬가지다. 그저 Claude가 더 빠를 테니 얼른 하라는 식이다. 게다가 작년보다 토큰은 백분의 일만 쓰라면서."
-     },
-     {
-      "t": "p",
-      "x": "Tarn Adams는 “지속 가능한 방향으로 가는 것 같지 않다”며 “그냥 한 번 터지고 대가를 치른 다음, 사람들이 다른 무언가를 하지 않는 한 그게 반복될 것 같다”고 말했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "games-30-years-later-i",
-   "eyebrow": "AI NEWS",
-   "headline": "AI가 거든 PS1 Quake보다\n손으로 짠 옛 포팅이 나았다",
-   "mini_headline": "손으로 짠 쪽이 낫다",
-   "body": "AI가 거든 PS1 Quake 포팅보다 AI를 안 쓴 옛 QuakePSX가 나았다.",
-   "tool": "Games",
-   "source": "GamesRadar+",
-   "url": "https://www.gamesradar.com/hardware/retro/30-years-later-i-finally-got-to-play-quake-on-the-ps1-but-thats-before-i-found-a-better-version-that-doesnt-rely-on-substantial-ai-assistance/",
-   "accent": "#eb367f",
-   "motif": "cube",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/DRr2MjfGwEffDEDE78LQnC-1920-80.jpg",
-   "published_iso": "2026-09-01T13:59:55Z",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/DRr2MjfGwEffDEDE78LQnC-1920-80.jpg",
-      "cap": "PS1으로 돌린 Quake"
-     },
-     {
-      "t": "p",
-      "x": "Quake 데모가 들어 있는 새 PS1 홈브루를 우연히 발견하고, 드디어 소니 콘솔에서 이 슈터를 제대로 즐길 방법을 찾았다고 생각했다. DOOM과 달리 이 상징적인 MS-DOS 게임은 90년대 PlayStation 파티에 초대받지 못했다. 그런데 느긋하게 해보겠다는 꿈은 단서 하나에 깨졌다. AI로 만들었다는 것이다."
-     },
-     {
-      "t": "p",
-      "x": "그렇다. 표면 아래 AI가 숨어 있는 또 하나의 인상적인 레트로 콘솔 프로젝트다. 아쉬운 일이다. PSxOxide 데모는 Quake와 함께 Minecraft, Guitar Hero, Rocket League의 PS1 버전 같은 기묘하고 근사한 묶음을 담았고, 플랫포머가 당기면 Celeste Classic도 있다. 다만 그 전부가 AI를 낀 개발에 힘을 실어 준다."
-     },
-     {
-      "t": "p",
-      "x": "데모의 GitHub에서 PSoXide 개발자 EBonura는 “사람의 지시와 하드웨어 검증 아래 상당한 AI 지원”을 받았다고 밝혔다. 코드를 통째로 생성하지는 않았고, 디버깅과 개발 보조에 Claude를 썼다는 얘기다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/NedjBdbThwQFFoQXBkpxLJ.jpg",
-      "cap": "사진: Phil Hayton"
-     },
-     {
-      "t": "p",
-      "x": "한동안 PS1에서 Quake를 돌릴 방법을 찾아보지 않았는데, 알고 보니 PSoXide 데모는 더 오래된 프로젝트를 바탕으로 한 것이었다. QuakePSX라는 그 포팅은 페이지의 날짜로 보아 최소 5년은 됐고, 아홉 달 전에 업데이트를 받았다. 내가 아는 한 이 옛 셰어웨어 포팅은 AI를 쓰지 않는다. 그러니 그쪽은 그냥 해봐도 된다."
-     },
-     {
-      "t": "p",
-      "x": "주말 동안 PSoXide와 원조 QuakePSX 데모를 다 해봤는데, 내가 바라던 쪽에 가까운 건 오히려 후자였다. PS1 마우스를 지원해서 90년대 콘솔에서도 PC에 가까운 감각이 난다는 점이 크다. 프레임도 더 높게 도는 느낌이었지만, 30fps에 한참 못 미치는 수치는 각오해야 한다."
-     },
-     {
-      "t": "p",
-      "x": "덧붙이자면 Quake 포팅을 찾자마자 내 PS1 세팅에 스스로 총을 쐈다. 구운 CD로 슈터를 돌리던 개조 초기형 PlayStation의 셸을 바꿔 끼웠는데, 레이저 정렬이 미세하게 달라지면서 둘 다 제대로 로딩되지 않는다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/gYqUMfk9ZGSKm8yxhX2u5n.jpg",
-      "cap": "투명 PS1은 아름답지만 Quake를 영 싫어한다. 사진: Phil Hayton"
-     },
-     {
-      "t": "p",
-      "x": "TonyHax를 쓰려고 PSxMemCard 같은 최신 액세서리를 들이거나 디스크 드라이브를 XStation SD 카드 ODE 같은 것으로 바꿀 생각이라면 이 점을 기억해 두는 게 좋다. ODE 쪽은 Quake 로딩 씨름을 덜어 주지만, 물리 매체를 살려 두고 싶은 사람으로서 나는 셸 교체가 왜 문제를 일으키는지 파고 있다."
-     },
-     {
-      "t": "p",
-      "x": "불가능해 보이던 포팅이 초기 PS1에 올라오는 날이 가까워지는 느낌이다. 문제는 정공법 대신 AI를 쓰는 프로젝트가 너무 많다는 것이다. 바삭한 콘솔판 Quake를 해보고 싶긴 하지만, 개발이라는 기술을 갉아먹는 도구에 힘을 보태는 일은 피하고 싶다."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-09-03",
+  "section": "games",
+  "cards": [
+    {
+      "id": "games-atelico-own-artists-model",
+      "tool": "Games",
+      "eyebrow": "AI NEWS",
+      "headline": "스튜디오 소속 화가 그림만 학습해\n기기 안에서 돌리는 게임 AI",
+      "body": "프로토타입 열 개를 만든 끝에 AI 자유도를 낮추고 설계한 규칙 안에 가뒀다.",
+      "mini_headline": "내 화가만 학습한 모델",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Studio Atelico는 기기에서 바로 돌아가는 AI 엔진과 모바일 카드·주사위 배틀러 Bobium Brawlers를 나란히 만든다. 플레이어가 크리처를 글로 적으면 게임이 그 문장을 정해진 미술 스타일의 초상과 개발팀이 짜둔 규칙을 따르는 덱으로 바꿔 놓는다."
+          },
+          {
+            "t": "video",
+            "yt": "2f7siQkqeRQ"
+          },
+          {
+            "t": "p",
+            "x": "Uber와 Meta, SEGA, Creative Assembly를 거친 사람들이 모인 팀이라 생성 기술을 제작비를 깎는 수단이 아니라 플레이어가 직접 만지는 장치로 본다. 이미지 모델에는 참여 화가에게 의뢰해 받은 그림만 먹였고, 동의와 용도 한정, 선지급, 성과 분배를 적은 Artist Rights Contract도 공개해 뒀다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/85/6a960c3731b0e.jpg",
+            "cap": "Studio Atelico"
+          },
+          {
+            "t": "p",
+            "x": "CEO 겸 공동창업자 Piero Molino는 엔진과 게임을 따로 떼어 만들지 않은 이유를 서로를 밀어 올리기 때문이라고 말한다. 게임에서 어떤 메커닉이 실제로 재미있는지 확인하고, 엔진이 그 메커닉을 굴러가게 만든다. 지금은 다른 스튜디오도 이 엔진을 쓰고 있다."
+          },
+          {
+            "t": "p",
+            "x": "프로토타입을 열 개 넘게 만들고 나서야 결론이 잡혔다. AI에 자유를 더 준다고 게임이 더 재미있어지지는 않았다. 너무 적으면 새로울 게 없고, 너무 많으면 규칙이 제멋대로로 느껴져 플레이어가 숙련을 쌓지 못한다. Molino는 \"AI works best when it's paired with strong game mechanics\"라고 정리했다. 규칙과 방향은 디자이너가 잡고, AI는 그 안에서 개인화와 놀라움을 맡는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/e4/6a960c3c520a8.jpg",
+            "cap": "Studio Atelico"
+          },
+          {
+            "t": "p",
+            "x": "모델을 기기에서 돌리는 이유도 성능만은 아니다. 호출마다 비용이 붙으면 개발자가 그 제약에 맞춰 설계하게 된다. 로컬 실행은 그 계산을 지워 AI를 가끔 쓰는 기능이 아니라 핵심 시스템으로 다루게 한다. 대신 다양한 하드웨어에서 품질을 유지하며 돌릴 만큼 모델을 가볍게 만드는 숙제가 남는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/59/6a960c415aa8f.jpg",
+            "cap": "Studio Atelico"
+          },
+          {
+            "t": "p",
+            "x": "출력이 매번 달라지는 시스템은 검증 방식도 다르다. 같은 결과가 나오는지를 보는 대신 모든 출력이 게임의 창작·플레이 제약 안에 머무는지를 통계로 확인한다. 미리 적어둔 체크리스트로 기준선을 잡고, 부적절한 반응은 레드팀으로 두드려 본다."
+          },
+          {
+            "t": "p",
+            "x": "화가 José Luna는 크리처 스무 마리를 먼저 그려 모델을 학습시켰다. 초기 데이터에 보라색 드래곤 하나뿐이었더니 모델이 드래곤을 죄다 보라색으로 뽑았고, 무생물로 묘사한 크리처에 눈을 그려 넣는 것도 놓쳤다. 그때마다 부족한 예시를 채워 다시 학습했고, 지금까지 그린 크리처는 100마리쯤 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/38/6a960c4622781.jpg",
+            "cap": "Studio Atelico"
+          },
+          {
+            "t": "p",
+            "x": "지난 1년의 가장 큰 교훈은 반대편에서 왔다. 모델을 세게 조종했더니 지시를 너무 곧이곧대로 따라 기대했던 변주가 사라졌다. 통제와 변주 사이의 이 긴장을 푸는 장치를 따로 붙여야 했다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "games-vizibeat-ue5-music-anim",
+      "tool": "Games",
+      "eyebrow": "AI NEWS",
+      "headline": "음악을 넣으면 조명과 카메라가\n알아서 박자를 타는 UE5 플러그인",
+      "body": "키프레임 없이 오디오만 물리면 조명과 카메라, 파티클이 각자 다른 소리를 따라간다.",
+      "mini_headline": "박자 타는 UE5 씬",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/create-procedural-ue5-animations-based-on-music-with-this-tool",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "실시간 3D 테크니컬 아티스트 Andrea Carver가 만든 Vizibeat는 음악 비트를 읽어 Unreal Engine 씬 전체를 움직이는 플러그인이다. 비트 하나도 키프레임으로 찍지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "반복되고 지루한 구간은 절차적으로 처리된다. 카메라와 조명, 머티리얼, 파티클이 각각 음악의 다른 요소를 따라가고, 비주얼은 곡의 리듬과 성격에 맞춰 붙는다. 웹사이트에 트랙별 결과가 올라와 있다."
+          },
+          {
+            "t": "p",
+            "x": "곡의 특정 순간을 프레임이 아니라 마디와 박으로 세는 타임라인에 올려둘 수도 있다. 그 지점을 손으로 스케치하거나 MIDI 패드로 즉석에서 찍거나, 오디오에서 바로 초안을 뽑아 쓰는 것도 된다."
+          },
+          {
+            "t": "p",
+            "x": "안쪽은 노드 그래프다. 다만 조작부가 사람 말로 정리돼 있어 기술 세부를 파고들지 않고 스타일만 골라도 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/eb/6a97f2653838f.jpg",
+            "cap": "Vizibeat"
+          },
+          {
+            "t": "p",
+            "x": "Travis Scott와 Marshmello, Subtronics와 일해 온 디지털 아티스트 겸 아트 디렉터 Connor Campbell은 진폭을 빛의 세기에 물리는 노드 시스템을 가장 갖고 싶었다며, 오디오 파일을 꽂자마자 싱크가 맞는 순간 턱이 빠졌다고 했다. John Summit과 Tiësto, Post Malone과 작업한 3D 아티스트 Alex Hooker는 없으면 안 되는 도구라고 적었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/97/6a97f2a77d8ff.jpg",
+            "cap": "Vizibeat"
+          },
+          {
+            "t": "p",
+            "x": "Excision과 Wooli의 VJ 겸 언리얼 아티스트 John Paiz는 조명을 곡에 맞춰 일일이 키프레임하느라 닷새가 걸리던 일이 몇 시간으로 줄었다고 말했다. Vizibeat는 올해 Coachella 여러 무대에 투입됐고 Backstreet Boys, Subtronics, KYGO, Foster the People, Kehlani, Excision의 비주얼 팀이 썼다. 그 팀들의 피드백이 다시 도구에 반영됐다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "games-witcher4-people-over-ai",
+      "tool": "Games",
+      "eyebrow": "AI NEWS",
+      "headline": "위처 4는 여전히 사람이 만든다\nCD Projekt Red 공동 대표의 말",
+      "body": "AI는 도구일 뿐 게임 전체를 맡길 생각은 없다고 실적 발표에서 못 박았다.",
+      "mini_headline": "사람이 만드는 위처 4",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/VEvzgDyGsv2hLZtpU25Se8.png",
+            "cap": "The Witcher 4 (이미지: CD Projekt Red)"
+          },
+          {
+            "t": "p",
+            "x": "CD Projekt Red 실적 발표에서 공동 대표 Michał Nowakowski가 게임 개발에 AI를 어떻게 쓰는지 질문을 받았다. 답은 대형 스튜디오 임원들의 최근 화법과 크게 다르지 않았다. 특정 공정에서 쓸모는 인정하되, AI가 게임을 통째로 만드는 방향은 거절한다."
+          },
+          {
+            "t": "p",
+            "x": "Nowakowski는 \"We are still predominantly using people and this is our plan\"이라며 그 방식에서 물러설 계획이 없다고 했다. AI는 \"a tool like many others\"로, 앞으로 더 쓸모가 커질 자리가 있을 뿐 게임을 통째로 맡길 대상은 아니라는 것이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/S9ZmAQWLf5vKjwSP59uJ5a.jpg",
+            "cap": "위처 4 스크린샷"
+          },
+          {
+            "t": "p",
+            "x": "특히 자사 게임처럼 복잡한 규모에서는 \"I don't even think this is the right or ethical path to follow\"라고 선을 그었다. 다만 업계 전체를 두고 말할 사람은 자신이 아니라며, \"everybody has to make those judgments on their own\"이라고 덧붙였다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "games-roblox-roost-open-models",
+      "tool": "Games",
+      "eyebrow": "AI NEWS",
+      "headline": "Roblox가 AI 안전 모델 세 개를\nROOST에 오픈소스로 내놨다",
+      "body": "PII 분류기와 Sentinel, 음성 분류기를 다른 플랫폼도 받아 쓰게 풀었다.",
+      "mini_headline": "열린 안전 분류기 셋",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/roblox-phone.png?width=1200&quality=85&format=jpg&auto=webp",
+            "cap": "이미지: Roblox"
+          },
+          {
+            "t": "p",
+            "x": "Roblox가 자사 AI 안전 모델 세 개를 Robust Open Online Safety Tools Model Community, 줄여서 ROOST를 거쳐 오픈소스로 공개했다. ROOST는 온라인 안전용 오픈소스 인프라를 만들고 관리하는 독립 비영리로, Roblox가 2025년 Google, OpenAI, Discord와 함께 세웠다."
+          },
+          {
+            "t": "p",
+            "x": "내놓은 것은 PII Classifier와 Roblox Sentinel, 그리고 최신 음성 안전 분류기다. 셋 다 이미 Roblox 플랫폼에서 돌아가는 모델이다."
+          },
+          {
+            "t": "p",
+            "x": "PII Classifier는 개인 식별 정보를 주고받으려는 시도를 잡아낸다. 철자를 일부러 틀리거나 은어를 쓰거나 다른 플랫폼을 에둘러 가리키는 방식까지 본다. 필터를 피하려는 수법을 본떠 만든 영어 다중 사용자 대화의 합성 표본으로 구성한 평가 데이터셋도 함께 풀었다."
+          },
+          {
+            "t": "p",
+            "x": "Roblox Sentinel은 아동이 위험에 놓이는 초기 신호를 잡고, 음성 안전 분류기는 음성 채팅을 실시간으로 걸러낸다. 뒤쪽은 ROOST 커뮤니티의 피드백이 반영됐다. 안전 도구가 실제로 작동하는지 재보라고 만든 평가 데이터셋도 새로 나왔는데, 최신판은 30개 언어와 여덟 개 위반 범주를 다룬다."
+          },
+          {
+            "t": "p",
+            "x": "신뢰·안전 엔지니어링 부사장 Naren Koneru는 모델을 나누면 다른 플랫폼이 자기 조정 도구를 학습시키고 다듬을 출발점을 얻는다고 했다. 안전은 함께 지는 책임이고 한 회사가 혼자 풀 수 없다는 말도 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "같은 주 초 미국 상원 법사위 범죄·대테러 소위는 Roblox 조사에 착수했다고 밝혔다. 이 플랫폼이 아동 안전보다 매출과 참여 지표를 앞세우는 것으로 보인다는 이유였고, 아동 안전과 학대, 괴롭힘, 금전 착취 관련 기록을 2026년 8월 31일까지 내라고 요구했다. Roblox는 최근 몇 년 사이 13세 미만 다이렉트 메시지 제한과 안면 인식 확인, 민감 주제 태그, 조정 정책 강화를 차례로 붙여 왔다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "games-nvidia-ace-aniimo-chat",
+      "tool": "Games",
+      "eyebrow": "AI NEWS",
+      "headline": "PUBG 팀메이트를 굴리던 Nvidia ACE가\n크리처와 말 섞는 RPG로 간다",
+      "body": "2027년 초부터 Aniimo 플레이어는 RTX GPU에서 크리처와 말을 섞는다.",
+      "mini_headline": "말 거는 크리처",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=1200&quality=85&format=jpg&auto=webp",
+            "cap": "Aniimo (이미지: Pawprint Studio)"
+          },
+          {
+            "t": "p",
+            "x": "Nvidia가 DLSS 4.5용 Ray Reconstruction과 함께, PUBG: Battlegrounds의 생성형 AI 팀메이트를 굴려 온 ACE 기술을 내년 초 다른 게임에 넣는다고 밝혔다. 그 게임은 중국 개발사 Pawprint Studio의 오픈월드 크리처 수집 RPG Aniimo다. Palworld 계열이 다져 놓은, 포켓몬과 법적으로는 다른 그 공식을 따라가는 쪽이다."
+          },
+          {
+            "t": "p",
+            "x": "Nvidia 선임 제품 마케팅 매니저 Ike Nnoli는 게임스컴 사전 브리핑에서 \"In early 2027, Nvidia ACE will be running on RTX GPUs and it will allow players to speak naturally to their Aniimos\"라고 말했다. 대화를 나누고, 제작이나 채굴 같은 기술을 가르치고, 각자의 성격을 알아 가는 식이다."
+          },
+          {
+            "t": "p",
+            "x": "전장에서 NPC가 전투 상황에 반응하고 전술 기동에 끼어들게 하려던 PUBG 쪽 시도보다는, 전통적인 AI 챗봇 쪽에 가까운 형태다."
+          },
+          {
+            "t": "p",
+            "x": "질의응답에서는 지난해 중국 RPG Where Winds Meet에서처럼 플레이어가 생성형 NPC를 구슬려 퀘스트 보상을 미리 받아 내는 문제를 어떻게 막느냐는 질문이 나왔다. Nnoli는 개발사가 캐릭터의 응답 범위를 완전히 통제하며 행동과 응답 가드레일, 모델 지시가 그 수단이라고 답했다. Aniimo에서는 Pawprint가 적용 범위를 제작과 채굴을 하는 본거지 홈랜드로 한정했다."
+          },
+          {
+            "t": "p",
+            "x": "그렇게 보면 이 기능은 AI가 붙은 닌텐독스에 가깝다. 다만 PUBG의 AI 병사와 달리 아이들이 이 크리처와 오래 대화할 가능성이 크다. Fortnite의 AI 다스 베이더가 대화 도중 가면을 벗던 사고를 되풀이하지 않기를 바랄 뿐이다. Nvidia는 ACE 적용 시점을 2027년 초로 잡았고, Aniimo의 Steam 페이지는 아직 출시일 없이 \"coming soon\"으로 남아 있다."
+          }
+        ]
+      }
+    }
+  ]
 }

@@ -1,16 +1,25 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "section": "science",
-  "now_iso": "2026-09-01T22:05:00Z",
+  "now_iso": "2026-09-02T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "New AI model maps the ion binding sites that control how proteins work",
-      "url": "https://phys.org/news/2026-09-ai-ion-sites-proteins.html",
+      "title": "PACMAN AI framework for controlling fusion systems safely makes key decisions in milliseconds",
+      "url": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-01T17:40:02Z",
-      "excerpt": "Constructor University and Constructor Labs built BiteNetI, a deep-learning model that locates binding sites for 14 biologically important ion types directly in 3D protein structures in seconds, reporting two- to threefold higher accuracy than most existing predictors including DeepMind's AlphaFold 3.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-maps-the.jpg",
+      "published_iso": "2026-09-02T21:00:08Z",
+      "excerpt": "Princeton researchers built PACMAN, an AI plasma-control system that makes fusion reactor adjustments in about 20 milliseconds — far faster than a human operator. It chains multiple machine learning models to command reactor subsystems while enforcing hard safety constraints and keeping humans on the objectives.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/pacman-ai-framework-fo.jpg",
+      "category": "science"
+    },
+    {
+      "title": "AI automates the creation of custom functional materials atom by atom",
+      "url": "https://phys.org/news/2026-09-ai-automates-creation-custom-functional.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-02T18:40:06Z",
+      "excerpt": "Oak Ridge National Laboratory built an AI that autonomously assembles functional materials at atomic scale, using computer vision plus reinforcement learning to move individual molecules. It constructed a 37-molecule graphene-like lattice that showed the targeted electronic properties.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-automates-the-creat-1.jpg",
       "category": "science"
     },
     {
@@ -18,122 +27,122 @@
       "url": "https://phys.org/news/2026-09-ai-tool-unusual-satellite-behavior.html",
       "source": "Phys.org",
       "published_iso": "2026-09-01T17:00:06Z",
-      "excerpt": "A new AI model monitors satellites and flags anomalies in their orbital behavior, cutting the risk of in-orbit collisions, according to research published in the journal Expert Systems.",
+      "excerpt": "Alan Turing Institute researchers trained a model that flags abnormal satellite behavior from telescope brightness curves alone, hitting an 88% detection rate. It also separates different motion types, a step toward collision avoidance in crowded orbits.",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-tool-detects-unusua.jpg",
       "category": "science"
     },
     {
-      "title": "LLM-based platform for generating new materials synthesis recipes dramatically cuts trial and error",
-      "url": "https://phys.org/news/2026-08-llm-based-platform-generating-materials.html",
-      "source": "Phys.org",
-      "published_iso": "2026-08-26T14:20:01Z",
-      "excerpt": "A Sungkyunkwan University-led team with Ajou University and MIT built an LLM-driven platform that reads the materials literature and proposes synthesis recipes, sharply reducing the trial-and-error loop in new-material fabrication.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/research-team-develops-1.jpg",
-      "category": "science"
-    },
-    {
-      "title": "A new kind of AI that does its thinking cheaply without words",
-      "url": "https://techxplore.com/news/2026-09-kind-ai-cheaply-words.html",
+      "title": "Explainable AI could help turn hidden data patterns into testable scientific hypotheses",
+      "url": "https://techxplore.com/news/2026-09-ai-hidden-patterns-testable-scientific.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-09-01T17:08:46Z",
-      "excerpt": "Researchers describe a model that reasons in latent space instead of generating chains of words, an approach that could cut the computing power and cost of reasoning models by a large factor.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-ai-that-1.jpg",
+      "published_iso": "2026-09-02T16:40:01Z",
+      "excerpt": "Researchers propose a framework in which explainable-AI outputs surface model-learned patterns that scientists then test with experiments and simulations. Their core rule: a prediction is not an explanation — patterns must be validated as real physical phenomena before they inform conclusions.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/explainable-ai-could-h.jpg",
       "category": "science"
     },
     {
-      "title": "Digital brain twins hinge on what living brains reveal, not computing power alone",
-      "url": "https://techxplore.com/news/2026-09-digital-brain-twins-hinge-brains.html",
+      "title": "Adding a 'doubt detector' helps AI optimize experiments with 40% fewer tests",
+      "url": "https://techxplore.com/news/2026-09-adding-detector-ai-optimize.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-09-01T16:00:10Z",
-      "excerpt": "University of Warwick researchers argue that the fidelity of a human-brain digital twin is limited less by compute than by how much of the living brain can actually be measured, validated and updated over time.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-close-are-we-to-bu.jpg",
+      "published_iso": "2026-09-02T13:40:03Z",
+      "excerpt": "EPFL's GOLLuM pairs a large language model with uncertainty estimation so the system knows when it does not know. Across chemistry, materials and molecular design benchmarks it matched conventional optimization while running about 40% fewer experiments.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-capable-of-doubt.jpg",
       "category": "science"
     },
     {
-      "title": "Shared-memory AI system lets microscope components coordinate in real time",
-      "url": "https://techxplore.com/news/2026-08-memory-ai-microscope-components-real.html",
+      "title": "Researcher explores what consciousness really means—and whether it might one day emerge in a machine",
+      "url": "https://techxplore.com/news/2026-08-explores-consciousness-day-emerge-machine.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-08-28T19:40:04Z",
-      "excerpt": "A Janelia postdoc studying neuronal communication hit the same problem in his instrument: the parts of his custom microscope could not talk to each other. The fix is a shared-memory AI layer that lets microscope components coordinate live during an experiment.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/shared-memory-ai-syste.jpg",
+      "published_iso": "2026-08-31T14:00:05Z",
+      "excerpt": "Neuroscientists debate whether artificial consciousness needs a biological substrate or only the right information-processing functions. The argument here is that common intuitions — such as 'biology is required' — lack empirical grounding, leaving machine consciousness genuinely unresolved.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/conscious-ai.jpg",
       "category": "science"
     },
     {
-      "title": "Quantum-Classical Software Tests New Approach to Protein Folding",
-      "url": "https://thequantuminsider.com/2026/09/01/quantum-classical-software-tests-new-approach-to-protein-folding/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-09-01T09:05:00Z",
-      "excerpt": "Researchers released QuPepFold, a hybrid quantum-classical software package for exploring low-energy structures of short peptides, testing whether quantum hardware can add anything to the protein-folding stack.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/08/quantumprotein-1024x479.png",
-      "category": "science"
-    },
-    {
-      "title": "QC Ware and IonQ Demonstrate Hybrid Quantum Chemistry Workflow for Drug Discovery",
-      "url": "https://thequantuminsider.com/2026/09/01/qc-ware-ionq-hybrid-quantum-chemistry-drug-discovery/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-09-01T12:59:34Z",
-      "excerpt": "QC Ware and IonQ ran an end-to-end hybrid quantum chemistry workflow using the Promethium simulation platform and IonQ Forte hardware, aimed at drug-discovery calculations.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-01_17-58.png",
-      "category": "science"
-    },
-    {
-      "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
-      "source": "Live Science",
-      "published_iso": "2026-08-29T11:00:00Z",
-      "excerpt": "Researchers say a new reasoning architecture costs up to 11 times less to run than a leading OpenAI model while matching it on benchmark tasks, a shift with direct consequences for compute-bound research labs.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg",
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "source": "Quanta Magazine",
+      "published_iso": "2026-08-20T14:04:40+00:00",
+      "excerpt": "Computer scientist Melanie Mitchell discusses why artificial intelligence doesn't 'think' or 'reason' like humans, and how we can create better methods for measuring machine cognition.",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Social-LOGO.jpg",
       "category": "science"
     },
     {
       "title": "Does Computer Science Need Computers?",
       "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
       "source": "Quanta Magazine",
-      "published_iso": "2026-08-28T13:30:34Z",
-      "excerpt": "The theoretical side of computer science doesn't require computing machines at all — but many of its deepest questions would never have been posed without them.",
+      "published_iso": "2026-08-28T13:30:34+00:00",
+      "excerpt": "The theoretical side of the field doesn't require computing machines. But many questions would never have been posed without them.",
       "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Qualia_TheoreticalCS-crKristinaArmitage-Social.jpg",
       "category": "science"
     },
     {
-      "title": "Mapping global methane emissions from space with deep learning",
-      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-      "source": "Google Research",
-      "published_iso": "2026-09-01T00:00:00Z",
-      "excerpt": "Google Research describes a deep-learning pipeline that turns satellite spectra into global methane emission maps, detecting plumes and attributing them to sources at planetary scale.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+      "source": "MIT News",
+      "published_iso": "2026-09-02T15:00:00Z",
+      "excerpt": "The CW-Net technique explains an autonomous vehicle's behavior using concepts a human can easily understand. In tests, those explanations helped drivers correctly anticipate how the vehicle would behave in surprising situations.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-InterpretCars-01-press.jpg",
       "category": "science"
     },
     {
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-09-01T19:10:36Z",
-      "excerpt": "The Fermi Explorer Mission plans to launch a spacecraft toward our nearest star by the end of 2029, using a gravity-assist trajectory discovered by an AI search rather than by human mission planners.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
+      "title": "AI helps design new materials that work in the real world",
+      "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+      "source": "MIT News",
+      "published_iso": "2026-08-26T09:00:00Z",
+      "excerpt": "MIT researchers added a chemistry-aware component to generative materials models so the outputs are stable and practical to make. The CrysVCD approach could cut the money and time spent screening out unusable designs.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202608/MIT-Valence-01-press.jpg",
       "category": "science"
     },
     {
-      "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "title": "Pasqal and True Nexus Apply Quantum Computing to Protein Gelation",
+      "url": "https://thequantuminsider.com/2026/09/02/pasqal-true-nexus-quantum-computing-protein-function/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-09-02T13:34:55+00:00",
+      "excerpt": "Pasqal and True Nexus are using neutral-atom quantum computing to study protein structures linked to gelation and food protein functionality.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-02_18-32.png",
+      "category": "science"
+    },
+    {
+      "title": "AI dominates the 4th International Congress of Basic Science in Beijing",
+      "url": "https://physicsworld.com/a/ai-dominates-the-4th-international-congress-of-basic-science-in-beijing/",
+      "source": "Physics World",
+      "published_iso": "2026-09-02T11:00:45+00:00",
+      "excerpt": "Subir Sarkar reports that AI was the hot topic among more than 800 delegates at Beijing's basic-science congress, from mathematics to physics sessions.",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/ICBS-posters-lo-res.jpg",
+      "category": "science"
+    },
+    {
+      "title": "A Brain Implant in Korea Was Just Controlled From More Than 6,500 Miles Away",
+      "url": "https://www.sciencealert.com/a-brain-implant-in-korea-was-just-controlled-from-the-us",
+      "source": "ScienceAlert",
+      "published_iso": "2026-09-02T01:00:00+00:00",
+      "excerpt": "Researchers sent commands from Chicago to a wireless brain implant in Daejeon, South Korea, 10,596 kilometers away. The demonstration suggests scientists could run and intervene in brain experiments remotely without leaving their desk.",
+      "og_image": "https://www.sciencealert.com/images/2026/09/BrainImplantChip.jpg",
+      "category": "science"
+    },
+    {
+      "title": "ECG-based AI algorithm could improve detection and prediction of heart diseases",
+      "url": "https://medicalxpress.com/news/2026-09-ecg-based-ai-algorithm-heart.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-02T17:20:06Z",
+      "excerpt": "Scripps Research built ECG-CLIP, a foundation model trained on 1.7 million electrocardiograms paired with clinical notes, that detects conditions such as myocardial infarction and atrial fibrillation from very few labeled examples. It outperformed existing models most clearly in low-data settings.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2018/1-ecg.jpg",
+      "category": "science"
+    },
+    {
+      "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
       "source": "ScienceDaily",
-      "published_iso": "2026-08-30T14:08:13Z",
-      "excerpt": "IBM and University of Chicago researchers completed a quantum computation that leading classical methods could not practically reproduce, using 70 error-corrected logical qubits and finishing in roughly 15 minutes with statistical evidence the result was reliable.",
-      "og_image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
-      "category": "science"
-    },
-    {
-      "title": "AI biotech Insitro's Daphne Koller on how to speed up clinical trials",
-      "url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/",
-      "source": "STAT News",
-      "published_iso": "2026-08-26T13:46:40Z",
-      "excerpt": "Insitro CEO Daphne Koller on where machine learning actually shortens the drug-development loop — patient stratification and prognostic models — and where the AI-in-biology story is still overclaimed.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_Daphne-Koller-1024x576.jpg",
+      "published_iso": "2026-08-20T02:01:27Z",
+      "excerpt": "Researchers developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer's, Parkinson's, Huntington's disease, and motor neurone disease.",
+      "og_image": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
       "category": "science"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 14,
+    "dropped": 1,
+    "kept": 15,
     "against_days": 5
   }
 }

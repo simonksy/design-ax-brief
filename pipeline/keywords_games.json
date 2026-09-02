@@ -1,252 +1,316 @@
 {
- "date": "2026-09-02",
- "section": "games",
- "now_iso": "2026-09-01T22:05:00Z",
- "rotation": {
-  "mode": "full_pool_override",
-  "note": "UNATTENDED RUN — ALL core keywords + the ENTIRE rotation pool are seeds. Expand with siblings/synonyms as needed to fill 5."
- },
- "core": [
-  "AI game",
-  "AI 게임",
-  "generative game"
- ],
- "groups": {
+  "date": "2026-09-03",
+  "section": "games",
+  "now_iso": "2026-09-02T22:00:00Z",
+  "rotation": {
+    "mode": "full_pool_override",
+    "date_offset": "day-of-month 3 / day-of-year 246",
+    "note": "UNATTENDED RUN — ALL core keywords + the ENTIRE games rotation pool are seeds this run. Each working keyword is expanded with 2-5 sibling phrases (synonyms, vendors, feature angles, Korean equivalents). Query angles rotated away from topics already published on 2026-09-01/09-02."
+  },
+  "core": [
+    "AI game",
+    "AI 게임",
+    "generative game"
+  ],
+  "groups": {
+    "keywords": [
+      "generative game assets",
+      "AI NPC",
+      "Inworld AI",
+      "procedural generation AI",
+      "AI playtesting",
+      "neural game engine",
+      "AI level design",
+      "AI game dialogue",
+      "Unreal Engine AI",
+      "Unity Muse",
+      "AI game art",
+      "AI animation games",
+      "AI voice acting games",
+      "NVIDIA ACE",
+      "AI game design tool",
+      "AI character creation",
+      "AI mod UGC",
+      "text-to-game",
+      "AI playable worlds",
+      "Genie world model",
+      "AI dynamic difficulty",
+      "AI localization games",
+      "AI bug detection games",
+      "vibe coding games"
+    ]
+  },
   "keywords": [
-   "generative game assets",
-   "AI NPC",
-   "Inworld AI",
-   "procedural generation AI",
-   "AI playtesting",
-   "neural game engine",
-   "AI level design",
-   "AI game dialogue",
-   "Unreal Engine AI",
-   "Unity Muse",
-   "AI game art",
-   "AI animation games",
-   "AI voice acting games",
-   "NVIDIA ACE",
-   "AI game design tool",
-   "AI character creation",
-   "AI mod UGC",
-   "text-to-game",
-   "AI playable worlds",
-   "Genie world model",
-   "AI dynamic difficulty",
-   "AI localization games",
-   "AI bug detection games",
-   "vibe coding games"
+    "AI game",
+    "AI 게임",
+    "generative game",
+    "generative game assets",
+    "AI NPC",
+    "Inworld AI",
+    "procedural generation AI",
+    "AI playtesting",
+    "neural game engine",
+    "AI level design",
+    "AI game dialogue",
+    "Unreal Engine AI",
+    "Unity Muse",
+    "AI game art",
+    "AI animation games",
+    "AI voice acting games",
+    "NVIDIA ACE",
+    "AI game design tool",
+    "AI character creation",
+    "AI mod UGC",
+    "text-to-game",
+    "AI playable worlds",
+    "Genie world model",
+    "AI dynamic difficulty",
+    "AI localization games",
+    "AI bug detection games",
+    "vibe coding games"
+  ],
+  "expansions": {
+    "AI game": ["AI in games", "game AI news", "AI 게임 개발", "generative AI gaming"],
+    "AI 게임": ["AI 게임 개발 도구", "생성형 AI 게임", "게임 AI 워크플로"],
+    "generative game": ["generative gameplay", "genAI game production", "생성형 게임"],
+    "generative game assets": ["AI 3D asset generation", "text-to-3D game asset", "AI texture generation", "asset pipeline automation"],
+    "AI NPC": ["NPC memory system", "agentic NPC", "conversational NPC", "AI companion character", "NPC 대화 AI"],
+    "Inworld AI": ["Inworld runtime", "Inworld TTS", "Convai", "Altera agents", "character engine SDK"],
+    "procedural generation AI": ["PCG framework", "AI worldgen", "procedural terrain AI", "절차적 생성"],
+    "AI playtesting": ["automated playtest agent", "AI balancing telemetry", "AI QA agent", "reinforcement learning playtest"],
+    "neural game engine": ["real-time world model", "neural rendering game", "playable diffusion model", "GameNGen"],
+    "AI level design": ["AI dungeon generation", "AI map layout tool", "level editor copilot", "레벨 디자인 AI"],
+    "AI game dialogue": ["branching dialogue AI", "narrative design LLM", "AI quest writing", "dialogue barks generation"],
+    "Unreal Engine AI": ["UE 5.8 AI tools", "MetaHuman animator AI", "Unreal MCP workflow", "UEFN AI creator tools"],
+    "Unity Muse": ["Unity Sentis", "Unity AI assistant", "Unity editor copilot", "Unity ML-Agents"],
+    "AI game art": ["concept art AI pipeline", "AI 2D sprite generation", "AI environment art", "게임 아트 AI"],
+    "AI animation games": ["AI motion generation", "AI auto-rigging", "motion matching AI", "markerless mocap game"],
+    "AI voice acting games": ["AI voice actor agreement", "SAG-AFTRA AI voice", "synthetic voice localization", "AI 성우"],
+    "NVIDIA ACE": ["NVIDIA ACE autonomous characters", "RTX neural rendering", "ACE SDK game studio", "NVIDIA game AI microservice"],
+    "AI game design tool": ["game dev copilot", "AI engine plugin launch", "game AI startup funding", "AI 게임 제작 툴"],
+    "AI character creation": ["AI character sheet to 3D", "AI avatar generator game", "AI face rig", "캐릭터 생성 AI"],
+    "AI mod UGC": ["AI modding tools", "UGC platform generative AI", "creator AI tools", "AI mod policy"],
+    "text-to-game": ["prompt-to-game engine", "AI game generator", "no-code AI game maker", "텍스트로 게임 만들기"],
+    "AI playable worlds": ["interactive world generation", "AI simulation sandbox", "persistent AI world", "playable AI demo"],
+    "Genie world model": ["Genie 3 DeepMind", "world model interactive video", "foundation world model game", "world simulator"],
+    "AI dynamic difficulty": ["adaptive difficulty AI", "player modeling AI", "AI matchmaking balance", "난이도 자동 조절"],
+    "AI localization games": ["AI game translation", "LLM localization QA", "loc pipeline automation", "게임 현지화 AI"],
+    "AI bug detection games": ["automated bug repro AI", "AI crash triage game", "AI code review game engine", "QA automation studio"],
+    "vibe coding games": ["vibe coded game jam", "AI-assisted indie dev", "Claude Code game dev", "바이브 코딩 게임"]
+  },
+  "categories": [
+    {
+      "category": "games",
+      "allowed_domains": [
+        "gamesindustry.biz",
+        "gamedeveloper.com",
+        "80.lv",
+        "polygon.com",
+        "rockpapershotgun.com",
+        "vg247.com",
+        "ign.com",
+        "eurogamer.net",
+        "kotaku.com",
+        "gamespot.com",
+        "pcgamer.com",
+        "gamesradar.com",
+        "thegamer.com",
+        "wccftech.com",
+        "venturebeat.com",
+        "unrealengine.com",
+        "unity.com",
+        "roadtovr.com",
+        "gamingbolt.com",
+        "aftermath.site",
+        "nme.com",
+        "destructoid.com",
+        "pocketgamer.biz",
+        "gamesbeat.com",
+        "inworld.ai",
+        "developer.nvidia.com",
+        "blog.roblox.com"
+      ],
+      "queries": [
+        "AI NPC memory agentic character system game studio September 2026",
+        "NVIDIA ACE autonomous game characters SDK update 2026",
+        "AI game dialogue narrative LLM tool studio 2026",
+        "generative 3D game asset tool launch September 2026",
+        "AI auto-rigging animation motion generation game production 2026",
+        "AI voice acting video game agreement synthetic voice 2026",
+        "AI localization game translation pipeline studio 2026",
+        "AI 게임 로컬라이제이션 번역 자동화 2026",
+        "AI level design procedural generation framework tool 2026",
+        "neural game engine real-time world model playable 2026",
+        "Genie world model interactive environment DeepMind 2026",
+        "text-to-game prompt-to-game generator platform 2026",
+        "AI playable worlds interactive simulation demo September 2026",
+        "AI dynamic difficulty adaptive player modeling game 2026",
+        "AI bug detection automated QA game engine tool 2026",
+        "AI balancing telemetry game design analytics 2026",
+        "vibe coding game jam indie developer AI 2026",
+        "AI UGC creator tools UEFN Fortnite generative 2026",
+        "Unity Sentis Muse AI runtime editor update 2026",
+        "Unreal Engine MetaHuman AI animation tool update 2026",
+        "AI 게임 개발 도구 출시 2026",
+        "생성형 AI 게임 아트 워크플로 스튜디오 2026",
+        "GDC 2026 AI game development session talk",
+        "AI game design tool startup funding launch September 2026"
+      ]
+    },
+    {
+      "category": "social",
+      "allowed_domains": [
+        "youtube.com",
+        "youtu.be",
+        "instagram.com"
+      ],
+      "queries": [
+        "site:youtube.com Unreal Engine AI workflow 2026",
+        "site:youtube.com Inworld AI NPC demo 2026",
+        "site:youtube.com GDC AI game design 2026",
+        "site:youtube.com Two Minute Papers game world model 2026"
+      ]
+    },
+    {
+      "category": "wildcard",
+      "allowed_domains": [
+        "gamesindustry.biz",
+        "gamedeveloper.com",
+        "venturebeat.com",
+        "80.lv",
+        "pcgamer.com",
+        "eurogamer.net"
+      ],
+      "queries": [
+        "game studio generative AI announcement this week September 2026"
+      ]
+    }
+  ],
+  "avoid_recent": [
+    {
+      "date": "2026-09-02",
+      "headline": "프롬프트 세 단어가 카트가 되는 Roblox 레이싱 게임",
+      "url": "https://gamesbeat.com/how-dream-racers-uses-robloxs-cube-ai-to-generate-playable-vehicles-in-real-time-exclusive/"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "Unity 에디터 안에서 프롬프트로 게임을 고치는 Nimble Fox",
+      "url": "https://gamesbeat.com/nimble-fox-launches-ai-tool-for-building-unity-games-worldwide/"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "Nvidia가 밝힌 DLSS 5의 값은 평균 프레임 50-60% 하락",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "AI의 진짜 문제는 도구가 아니라 그걸 쓰라고 강요하는 상사다",
+      "url": "https://kotaku.com/dwarf-fortress-tarn-adams-genai-ai-vibe-coding-claude-copilot-2000730266"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "Tripo TripoSplat 3D 캐릭터 생성 / 클린 토폴로지",
+      "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "City Sample이 5.8로 다시 지어졌다 (PCG + Unreal MCP)",
+      "url": "https://www.unrealengine.com/learning/city-sample-gets-a-major-update-with-pcg-and-unreal-mcp-workflows"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Inworld, TTS 평가 도구를 오픈소스로 공개",
+      "url": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "1666: Amsterdam이 생성형 AI를 걷어냈다",
+      "url": "https://www.pcgamer.com/games/action/1666-amsterdams-developer-says-it-wont-be-using-ai-anymore-and-the-tech-was-only-used-in-conception-and-pre-production-arguably-the-most-creative-phase-of-the-entire-process/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "GTA 6의 군중 기술은 10년쯤 앞서 있다",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-at-least-10-years-ahead-of-other-games-with-gta-6s-npc-crowd-technology-says-dev-behind-007-first-lights-incredible-crowds/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "모델 데모와 출시 사이에 남는 운영 문제",
+      "url": "https://www.pocketgamer.biz/ai-powering-the-global-engine-for-game-studios/"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "방 수천 개를 끊김 없이 잇는 유니티 던전 생성 알고리즘",
+      "url": "https://80.lv/articles/unity-based-algorithm-for-seamless-dungeon-generation"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "유니티 스타일라이즈드 워터 3에 스플라인 강 모델러가 붙는다",
+      "url": "https://80.lv/articles/unity-s-stylized-water-3-is-getting-spline-based-river-modeler-tool"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "모바일은 AI를 끌어안고 트리플A는 뒤로 물러선다",
+      "url": "https://www.pocketgamer.biz/the-ai-paradox-why-mobile-embraces-ai-and-aaa-holds-back/"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "트위치·아마존이 스트리머 방송을 AI 학습에 썼다며 집단소송",
+      "url": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "게임 속 AI 아트를 가려내는 건 결국 시각적 문해력의 문제다",
+      "url": "https://www.rockpapershotgun.com/hopefully-a-meteor-will-strike-the-earth-soon-game-devs-talk-genai-witchhunts-and-the-importance-of-honing-your-visual-literacy"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "NPC 1만 명을 굴리는 건 모델이 아니라 시스템 설계다",
+      "url": "https://80.lv/articles/interview-building-a-wuxia-sandbox-rpg-with-up-to-10-000-dynamic-npcs"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "드워프 포트리스, 세계마다 다른 마법 체계를 절차적으로 만든다",
+      "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "구글이 게임에 내민 AI 데모, 3~4년의 결과가 이것뿐인가",
+      "url": "https://aftermath.site/google-ai-video-games/"
+    },
+    {
+      "date": "2026-08-29",
+      "headline": "유출된 DLSS 5가 스카이림과 산 안드레아스를 다시 그린다",
+      "url": "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/"
+    },
+    {
+      "date": "2026-08-29",
+      "headline": "정말 좋은 AI 게임 한 편이면 여론이 뒤집힌다는 세이버의 말",
+      "url": "https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "AI 에이전트가 Quest 빌드를 직접 돌려보고 확인한다",
+      "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "게임 QA에 AI를 들이되 사람은 늘 루프 안에 둔다 (Side x ModlAI)",
+      "url": "https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "Tencent가 애니메이션부터 테스트까지 AI 툴체인을 공개했다",
+      "url": "https://wccftech.com/tencent-games-central-tech-debuts-at-gamescom-2026-with-ai-tools-spanning-animation-gameplay-and-testing/"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "오프닝 나이트 라이브 55편 중 13편이 AI 사용을 밝혔다",
+      "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "GTA 6에는 마이크로트랜잭션도 생성형 AI도 들어가지 않는다",
+      "url": "https://www.gamespot.com/articles/grand-theft-auto-6-will-have-no-microtransactions-or-generative-ai/"
+    }
   ]
- },
- "keywords": [
-  "AI game",
-  "AI 게임",
-  "generative game",
-  "generative game assets",
-  "AI NPC",
-  "Inworld AI",
-  "procedural generation AI",
-  "AI playtesting",
-  "neural game engine",
-  "AI level design",
-  "AI game dialogue",
-  "Unreal Engine AI",
-  "Unity Muse",
-  "AI game art",
-  "AI animation games",
-  "AI voice acting games",
-  "NVIDIA ACE",
-  "AI game design tool",
-  "AI character creation",
-  "AI mod UGC",
-  "text-to-game",
-  "AI playable worlds",
-  "Genie world model",
-  "AI dynamic difficulty",
-  "AI localization games",
-  "AI bug detection games",
-  "vibe coding games"
- ],
- "categories": [
-  {
-   "category": "games",
-   "allowed_domains": [
-    "gamesindustry.biz",
-    "gamedeveloper.com",
-    "80.lv",
-    "polygon.com",
-    "rockpapershotgun.com",
-    "vg247.com",
-    "ign.com",
-    "eurogamer.net",
-    "kotaku.com",
-    "gamespot.com",
-    "pcgamer.com",
-    "gamesradar.com",
-    "thegamer.com",
-    "wccftech.com",
-    "venturebeat.com",
-    "unrealengine.com",
-    "unity.com",
-    "roadtovr.com",
-    "gamingbolt.com",
-    "aftermath.site",
-    "nme.com",
-    "destructoid.com"
-   ]
-  }
- ],
- "avoid_recent": [
-  {
-   "date": "2026-09-01",
-   "headline": "City Sample이 5.8로 다시 지어졌다",
-   "url": "https://www.unrealengine.com/learning/city-sample-gets-a-major-update-with-pcg-and-unreal-mcp-workflows"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "Inworld, TTS 평가 도구를 오픈소스로 공개",
-   "url": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "1666: Amsterdam이 생성형 AI를 걷어냈다",
-   "url": "https://www.pcgamer.com/games/action/1666-amsterdams-developer-says-it-wont-be-using-ai-anymore-and-the-tech-was-only-used-in-conception-and-pre-production-arguably-the-most-creative-phase-of-the-entire-process/"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "GTA 6의 군중 기술은 10년쯤 앞서 있다",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-at-least-10-years-ahead-of-other-games-with-gta-6s-npc-crowd-technology-says-dev-behind-007-first-lights-incredible-crowds/"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "모델 데모와 출시 사이에 남는 운영 문제",
-   "url": "https://www.pocketgamer.biz/ai-powering-the-global-engine-for-game-studios/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "AI가 만든 스프라이트 동작을 키프레임 단위로 지시한다",
-   "url": "https://www.pocketgamer.biz/ludoai-adds-keyframe-animation-and-3d-tools-for-game-developers/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "AI는 이제 거의 지어내지 않는다며 대화형 슬라임 동료를 옹호했다",
-   "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-says-ai-hardly-ever-makes-things-up-anymore-even-if-it-once-made-up-that-he-works-for-nintendo/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "비개발자 디자이너가 코드베이스에서 튜토리얼을 절반 기간에 만들었다",
-   "url": "https://80.lv/articles/how-dark-and-darker-s-devs-used-aura-to-build-a-major-feature-in-half-the-time"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "생성형 AI는 발상 단계에만 썼고 출시 전 결과물은 모두 지운다",
-   "url": "https://www.thegamer.com/sega-update-crazy-taxi-world-tour-ai/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "인기 RPG 주인공 라이자가 AI 대화 앱으로 출시됐다",
-   "url": "https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "AI 에이전트가 Quest 빌드를 직접 돌려보고 확인한다",
-   "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "게임 QA에 AI를 들이되 사람은 늘 루프 안에 둔다",
-   "url": "https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "Tencent가 애니메이션부터 테스트까지 AI 툴체인을 통째로 공개했다",
-   "url": "https://wccftech.com/tencent-games-central-tech-debuts-at-gamescom-2026-with-ai-tools-spanning-animation-gameplay-and-testing/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "오프닝 나이트 라이브 55편 중 13편이 AI 사용을 밝혔다",
-   "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "GTA 6에는 마이크로트랜잭션도 생성형 AI도 들어가지 않는다",
-   "url": "https://www.gamespot.com/articles/grand-theft-auto-6-will-have-no-microtransactions-or-generative-ai/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "록스타가 GTA 6 NPC만 맡는 LA 전담 팀을 새로 꾸렸다",
-   "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "AI 메시의 발목을 잡던 토폴로지, 트라이포는 10초 만에 끝낸다",
-   "url": "https://80.lv/articles/how-tripo-is-tackling-clean-topology-for-its-3d-asset-pipeline"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "유출된 DLSS 5가 스카이림과 산 안드레아스를 다시 그린다",
-   "url": "https://www.polygon.com/nvidia-dlss-5-ai-filter-neural-graphics-skyrim-gta-tech-leak/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "정말 좋은 AI 게임 한 편이면 여론이 뒤집힌다는 세이버의 말",
-   "url": "https://www.eurogamer.net/saber-half-life-2-gen-ai-rideshare-controversy"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "id 소프트웨어 공동창업자는 둠 시절에도 AI를 썼을 거라 했다",
-   "url": "https://www.pcgamer.com/gaming-industry/game-development/id-softwares-former-co-owner-says-they-absolutely-wouldve-used-gen-ai-back-in-the-day-john-carmack-would-be-like-making-skynet-or-something/"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "게임 속 AI 아트를 가려내는 건 결국 시각적 문해력의 문제다",
-   "url": "https://www.rockpapershotgun.com/hopefully-a-meteor-will-strike-the-earth-soon-game-devs-talk-genai-witchhunts-and-the-importance-of-honing-your-visual-literacy"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "NPC 1만 명을 굴리는 건 모델이 아니라 시스템 설계다",
-   "url": "https://80.lv/articles/interview-building-a-wuxia-sandbox-rpg-with-up-to-10-000-dynamic-npcs"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "드워프 포트리스, 세계마다 다른 마법 체계를 절차적으로 만든다",
-   "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "구글이 게임에 내민 AI 데모, 3~4년의 결과가 이것뿐인가",
-   "url": "https://aftermath.site/google-ai-video-games/"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "제임스 폰드 원작자가 AI 리메이크를 무례하고 영혼 없다고 내쳤다",
-   "url": "https://kotaku.com/james-pond-co-creator-calls-ai-rife-remake-disrespectful-and-soulless-2000729581"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "방 수천 개를 끊김 없이 잇는 유니티 던전 생성 알고리즘",
-   "url": "https://80.lv/articles/unity-based-algorithm-for-seamless-dungeon-generation"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "유니티 스타일라이즈드 워터 3에 스플라인 강 모델러가 붙는다",
-   "url": "https://80.lv/articles/unity-s-stylized-water-3-is-getting-spline-based-river-modeler-tool"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "모바일은 AI를 끌어안고 트리플A는 뒤로 물러선다",
-   "url": "https://www.pocketgamer.biz/the-ai-paradox-why-mobile-embraces-ai-and-aaa-holds-back/"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "AI 이용자를 차단한 위키가 디도스 공격에 멈춰 섰다",
-   "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "트위치·아마존이 스트리머 방송을 AI 학습에 썼다며 집단소송",
-   "url": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers"
-  }
- ]
 }

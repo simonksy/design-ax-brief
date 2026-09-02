@@ -1,422 +1,449 @@
 {
- "date": "2026-09-02",
- "section": "design",
- "now_iso": "2026-09-01T22:05:00Z",
- "rotation": {
-  "mode": "full_pool_override",
-  "note": "UNATTENDED RUN — ALL core keywords + the ENTIRE rotation pool are seeds. Expand with siblings/synonyms as needed to fill 5."
- },
- "core": [
-  "AI Design Tool",
-  "Design AX",
-  "AI Workflow"
- ],
- "groups": {
-  "tools_creative": [
-   "Higgsfield",
-   "Kling",
-   "Runway",
-   "Sora",
-   "Midjourney",
-   "Adobe Firefly",
-   "Google Veo",
-   "Luma Dream Machine",
-   "Pika",
-   "Krea",
-   "Stable Diffusion",
-   "Flux"
+  "date": "2026-09-03",
+  "section": "design",
+  "now_iso": "2026-09-02T22:00:00Z",
+  "rotation": {
+    "mode": "date_rotated_wide",
+    "seed": "2026-09-03",
+    "day_of_month": 3,
+    "day_of_year": 246,
+    "note": "ALL core keywords + a generous date-rotated slice across every design pool category (offset = day-of-month 3). Emphasis today: Veo/Sora/Krea/Flux on the creative side, Framer/Lovable/Generative UI/MCP on the design-code side, agentic + multimodal + physical AI concepts, spatial computing / Ray-Ban / Hugging Face / enterprise agents on the frontier. Deliberately de-emphasized this run because covered on 09-01 and 09-02: Figma generative shaders/plugins, design-to-code benchmarks, Blender addons, text-to-CAD output formats, Vision Pro immersive festivals, Runway Solaris, design.md agent brand rules, CSS random(), Quest refresh rate.",
+    "user_seeds": []
+  },
+  "core": [
+    "AI Design Tool",
+    "Design AX",
+    "AI Workflow"
   ],
-  "tools_design_code": [
-   "Figma",
-   "Claude Design",
-   "Claude Code",
-   "v0 Vercel",
-   "Framer AI",
-   "Cursor",
-   "Lovable",
-   "Bolt",
-   "Generative UI",
-   "Design-to-code",
-   "Vibe coding",
-   "Model Context Protocol"
+  "working_keywords": [
+    "AI Design Tool",
+    "Design AX",
+    "AI Workflow",
+    "Sora",
+    "Google Veo",
+    "Krea",
+    "Flux",
+    "Framer AI",
+    "Lovable",
+    "Generative UI",
+    "Model Context Protocol",
+    "Gemini",
+    "Anthropic",
+    "Mistral",
+    "Agentic AI",
+    "Multimodal AI",
+    "Physical AI",
+    "Fei-Fei Li",
+    "Jensen Huang",
+    "Spatial computing",
+    "Meta Ray-Ban",
+    "Hugging Face",
+    "Enterprise AI agents"
   ],
-  "models_labs": [
-   "OpenAI",
-   "ChatGPT",
-   "Anthropic",
-   "Gemini",
-   "Meta",
-   "Ollama",
-   "Llama",
-   "Mistral",
-   "Grok xAI",
-   "DeepSeek"
+  "expansions": {
+    "AI Design Tool": [
+      "AI design tool release",
+      "AI 디자인 툴 업데이트",
+      "creative AI feature launch",
+      "designer AI plugin"
+    ],
+    "Design AX": [
+      "디자인 AI 전환",
+      "design org AI transformation",
+      "design team AI adoption case study",
+      "AI design operations"
+    ],
+    "AI Workflow": [
+      "AI 워크플로우 디자이너",
+      "AI-assisted design process",
+      "agent-assisted creative pipeline",
+      "AI handoff design to dev"
+    ],
+    "Sora": [
+      "Sora video model update",
+      "OpenAI video generation product design",
+      "Sora storyboard concept",
+      "text-to-video creative brief"
+    ],
+    "Google Veo": [
+      "Veo video generation update",
+      "Google Flow creative controls",
+      "Gemini video model designers",
+      "AI product film generation"
+    ],
+    "Krea": [
+      "Krea real-time canvas",
+      "real-time AI image generation design",
+      "AI concept sketch to render",
+      "AI moodboard tool"
+    ],
+    "Flux": [
+      "Flux image model release",
+      "Black Forest Labs",
+      "open-weight image model design",
+      "AI texture generation"
+    ],
+    "Framer AI": [
+      "Framer AI website builder",
+      "AI web design tool update",
+      "no-code AI site generation",
+      "AI landing page generator"
+    ],
+    "Lovable": [
+      "Lovable app builder update",
+      "AI prototyping tool designers",
+      "prompt-to-app product design",
+      "vibe coding prototype"
+    ],
+    "Generative UI": [
+      "generative interface AI",
+      "AI generated UI component",
+      "adaptive UI agent",
+      "AI UI kit"
+    ],
+    "Model Context Protocol": [
+      "MCP server design tool",
+      "MCP design system integration",
+      "agent tool protocol design",
+      "MCP 디자인 워크플로"
+    ],
+    "Gemini": [
+      "Gemini image editing designers",
+      "Gemini agent creative tool",
+      "Nano Banana image model",
+      "Gemini in design apps"
+    ],
+    "Anthropic": [
+      "Claude design skill",
+      "Claude Code frontend UI",
+      "Claude agent design system",
+      "Anthropic creative tooling"
+    ],
+    "Mistral": [
+      "Mistral open model release",
+      "European AI model creative",
+      "open-weight model on-device design",
+      "Mistral agent API"
+    ],
+    "Agentic AI": [
+      "design agent autonomous workflow",
+      "multi-agent creative team",
+      "AI agent QA design review",
+      "에이전틱 AI 디자인"
+    ],
+    "Multimodal AI": [
+      "multimodal model vision design",
+      "image understanding UI critique",
+      "screenshot to spec AI",
+      "vision model accessibility audit"
+    ],
+    "Physical AI": [
+      "physical AI industrial design",
+      "robot product design AI",
+      "embodied AI hardware design",
+      "AI in manufacturing design"
+    ],
+    "Fei-Fei Li": [
+      "World Labs spatial intelligence",
+      "Marble 3D world generation",
+      "spatial intelligence design tool",
+      "3D scene generation from image"
+    ],
+    "Jensen Huang": [
+      "Nvidia design AI keynote",
+      "Omniverse generative rendering",
+      "RTX AI creative workflow",
+      "Nvidia digital twin design"
+    ],
+    "Spatial computing": [
+      "spatial design prototyping AI",
+      "XR design tool AI",
+      "immersive UX AI generation",
+      "3D UI prototyping headset"
+    ],
+    "Meta Ray-Ban": [
+      "smart glasses UX design",
+      "Ray-Ban Display interface",
+      "wearable AI interface design",
+      "glasses HUD design language"
+    ],
+    "Hugging Face": [
+      "open-source design model",
+      "Hugging Face Spaces design demo",
+      "open model creative tooling",
+      "on-device generative model designers"
+    ],
+    "Enterprise AI agents": [
+      "enterprise AI rollout design team",
+      "AI adoption case study creative org",
+      "AI governance brand guidelines",
+      "AI 도입 사례 기업 디자인"
+    ]
+  },
+  "keywords": [
+    "AI Design Tool",
+    "Design AX",
+    "AI Workflow",
+    "Sora",
+    "Google Veo",
+    "Krea",
+    "Flux",
+    "Framer AI",
+    "Lovable",
+    "Generative UI",
+    "Model Context Protocol",
+    "Gemini",
+    "Anthropic",
+    "Mistral",
+    "Agentic AI",
+    "Multimodal AI",
+    "Physical AI",
+    "Fei-Fei Li",
+    "Jensen Huang",
+    "Spatial computing",
+    "Meta Ray-Ban",
+    "Hugging Face",
+    "Enterprise AI agents",
+    "AI 디자인 툴 업데이트",
+    "디자인 AI 전환",
+    "AI 워크플로우 디자이너",
+    "generative interface AI",
+    "MCP server design tool",
+    "spatial intelligence design tool",
+    "smart glasses UX design",
+    "open-source design model",
+    "AI 도입 사례 기업 디자인"
   ],
-  "concepts": [
-   "AI Agent",
-   "Agentic AI",
-   "Physical AI",
-   "Embodied AI",
-   "World models",
-   "Multimodal AI"
+  "categories": [
+    {
+      "category": "figma",
+      "allowed_domains": [
+        "figma.com",
+        "vercel.com",
+        "builder.io",
+        "logrocket.com",
+        "uxdesign.cc",
+        "dev.to",
+        "creativebloq.com"
+      ],
+      "queries": [
+        "Model Context Protocol MCP server design tool workflow 2026",
+        "generative UI AI generated interface component 2026",
+        "Framer AI website builder new feature 2026",
+        "Lovable prompt-to-app prototyping designers 2026"
+      ]
+    },
+    {
+      "category": "render",
+      "allowed_domains": [
+        "cgchannel.com",
+        "keyshot.com",
+        "80.lv",
+        "fxguide.com",
+        "nvidia.com",
+        "engadget.com"
+      ],
+      "queries": [
+        "Nvidia Omniverse generative rendering AI workflow 2026",
+        "Krea real-time AI image generation concept art tool",
+        "Flux image model release texture material generation",
+        "Google Veo Sora video generation product visualization 2026"
+      ]
+    },
+    {
+      "category": "cad",
+      "allowed_domains": [
+        "engineering.com",
+        "getleo.ai",
+        "autodesk.com",
+        "all3dp.com",
+        "develop3d.com"
+      ],
+      "queries": [
+        "Autodesk Fusion AI generative design update 2026",
+        "AI agent engineering simulation multimodal CAD 2026",
+        "physical AI industrial design manufacturing automation 2026",
+        "AI 3D printing design automation workflow 2026"
+      ]
+    },
+    {
+      "category": "tokens",
+      "allowed_domains": [
+        "parallelhq.com",
+        "mindstudio.ai",
+        "smashingmagazine.com",
+        "css-tricks.com",
+        "dev.to"
+      ],
+      "queries": [
+        "design tokens AI agent automation design system 2026",
+        "Smashing Magazine AI accessibility multimodal audit design 2026",
+        "AI 워크플로우 디자이너 프런트엔드 컴포넌트 2026",
+        "Gemini Claude AI front-end styling tooling 2026"
+      ]
+    },
+    {
+      "category": "vr",
+      "allowed_domains": [
+        "sgwdesignworks.com",
+        "boston-engineering.com",
+        "roadtovr.com",
+        "uploadvr.com",
+        "apple.com"
+      ],
+      "queries": [
+        "spatial intelligence AI 3D world generation prototyping 2026",
+        "Meta Ray-Ban Display smart glasses interface design 2026",
+        "AI generated 3D scene XR design tool 2026",
+        "spatial computing AI app design workflow 2026"
+      ]
+    },
+    {
+      "category": "workflow",
+      "allowed_domains": [
+        "orq.ai",
+        "fastcompany.com",
+        "cio.com",
+        "eleken.co",
+        "palettt.com",
+        "theverge.com",
+        "venturebeat.com"
+      ],
+      "queries": [
+        "agentic AI enterprise design team adoption case study 2026",
+        "AI design tool release designers workflow September 2026",
+        "디자인 AI 전환 도입 사례 워크플로우 2026",
+        "Hugging Face open-source model creative tooling 2026",
+        "Mistral Anthropic model update creative enterprise agents 2026"
+      ]
+    },
+    {
+      "category": "social",
+      "allowed_domains": [
+        "youtube.com",
+        "youtu.be",
+        "instagram.com"
+      ],
+      "queries": [
+        "site:youtube.com \"Microsoft Design\" AI design 2026",
+        "site:youtube.com \"The AI Advantage\" AI design tool workflow 2026",
+        "site:youtube.com \"Jesse Showalter\" AI design workflow 2026",
+        "site:youtube.com \"Google Design\" AI generative UI 2026",
+        "site:instagram.com midjourney AI design 2026"
+      ]
+    }
   ],
-  "people": [
-   "Yann LeCun",
-   "Andrej Karpathy",
-   "Dario Amodei",
-   "Sam Altman",
-   "Demis Hassabis",
-   "Fei-Fei Li",
-   "Ilya Sutskever",
-   "Mira Murati",
-   "Jensen Huang"
-  ],
-  "frontier_broad": [
-   "Nvidia",
-   "Figure AI",
-   "Tesla Optimus",
-   "1X robot",
-   "Boston Dynamics",
-   "Humanoid robot",
-   "Apple Vision Pro",
-   "Meta Quest",
-   "Spatial computing",
-   "Meta Ray-Ban",
-   "Suno",
-   "Udio",
-   "ElevenLabs",
-   "Hugging Face",
-   "open-source AI",
-   "AGI",
-   "superintelligence",
-   "AI safety",
-   "AI regulation",
-   "Enterprise AI agents"
-  ],
-  "social": [
-   "Figma YouTube",
-   "Vercel YouTube",
-   "Matt Wolfe AI",
-   "The AI Advantage",
-   "Fireship AI",
-   "DesignCourse",
-   "AI design tutorial YouTube",
-   "Midjourney Instagram",
-   "Runway Instagram",
-   "Awwwards",
-   "design AI reel"
+  "wildcard_query": "AI design tool launch this week designers workflow 2026-09",
+  "avoid_recent": [
+    {
+      "date": "2026-09-02",
+      "headline": "에이전트가 만든 셰이더를 커뮤니티에 공유하고 코드까지 꺼내 쓴다",
+      "url": "https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "같은 대시보드를 다섯 도구에 넣자 픽셀만 맞고 구조가 무너졌다",
+      "url": "https://dev.to/kunal_d6a8fea2309e1571ee7/design-to-code-tools-benchmark-2026-5-tools-real-diffs-1cak"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "블렌더 모델에서 선화를 버튼 하나로 뽑아내는 애드온이 무료로 풀렸다",
+      "url": "https://80.lv/articles/one-click-line-art-from-any-3d-model-in-blender"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "AI CAD의 진짜 질문은 출력이 메시냐 파라메트릭이냐다",
+      "url": "https://dev.to/james_36d111a7a36/text-to-cad-isnt-text-to-mesh-why-the-output-format-is-the-whole-story-1elc"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "비전 프로 열 대가 한 테이블에 둘러앉아 같은 드라마를 본다",
+      "url": "https://www.uploadvr.com/empire-at-sea-brings-a-shared-adrama-to-venice-immersive/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Runway Solaris, 프롬프트가 곧 인터페이스",
+      "url": "https://www.youtube.com/watch?v=c2yCePPnrSA"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "코딩 에이전트가 읽는 브랜드 규칙 한 파일",
+      "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "CSS random()을 폴리필로 지금 쓴다",
+      "url": "https://css-tricks.com/css-random-function-polyfill/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Blender에서 잡고 Krita에서 칠한다",
+      "url": "https://80.lv/articles/this-tool-connects-blender-krita-for-texture-painting/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Quest 3, 주사율 240Hz까지 열렸다",
+      "url": "https://roadtovr.com/quest-3-update-boost-refresh-rate-240hz/"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "사람 눈에는 무늬, AI 눈에는 사람이 잡히지 않는 위장 셔츠",
+      "url": "https://www.fastcompany.com/91595636/this-shirt-is-like-an-ai-invisibility-cloak"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "Figma 변수를 네 컬렉션으로 나눠 코드베이스와 같은 값을 쓴다",
+      "url": "https://dev.to/planetabhi_/structuring-variables-in-figma-32d8"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "343만 달러 디즈니 경매가 AI 컨셉 아트에 남긴 질문",
+      "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "AI가 뽑은 방은 그럴듯하다 치수가 맞는지는 별개다",
+      "url": "https://dev.to/physicsai/a-measurement-first-workflow-for-evaluating-ai-interior-concepts-4h25"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "Firefly로 병 시안을 세우고 Photoshop에서 손으로 다듬는다",
+      "url": "https://www.youtube.com/watch?v=IlbD1rRIZLI"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "피그마는 코드 커넥트 작성을 에이전트 부대에 맡겼다",
+      "url": "https://www.youtube.com/watch?v=KhyLHeGpWFA"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "프롬프트로 만든 사이트가 닮는 이유 기본값에서 빠져나오는 법",
+      "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "Vercel 대시보드에서 에이전트를 바로 배포한다",
+      "url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard"
+    },
+    {
+      "date": "2026-08-29",
+      "headline": "에이전트가 프런트엔드를 쓸 때 캔버스와 코드를 붙들어 두는 법",
+      "url": "https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "포토샵의 프롬프트 편집이 이제 레이어 단위 작업으로 내려왔다",
+      "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "구글 플로우, 프롬프트 한 번으로 끝나던 영상에 연출 손잡이를 달다",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "디자인 시스템의 다음 일은 컴포넌트가 아니라 통제다",
+      "url": "https://www.oreilly.com/radar/the-design-system-as-the-control-plane-for-ai-generated-ui/"
+    }
   ]
- },
- "keywords": [
-  "AI Design Tool",
-  "Design AX",
-  "AI Workflow",
-  "Higgsfield",
-  "Kling",
-  "Runway",
-  "Sora",
-  "Midjourney",
-  "Adobe Firefly",
-  "Google Veo",
-  "Luma Dream Machine",
-  "Pika",
-  "Krea",
-  "Stable Diffusion",
-  "Flux",
-  "Figma",
-  "Claude Design",
-  "Claude Code",
-  "v0 Vercel",
-  "Framer AI",
-  "Cursor",
-  "Lovable",
-  "Bolt",
-  "Generative UI",
-  "Design-to-code",
-  "Vibe coding",
-  "Model Context Protocol",
-  "OpenAI",
-  "ChatGPT",
-  "Anthropic",
-  "Gemini",
-  "Meta",
-  "Ollama",
-  "Llama",
-  "Mistral",
-  "Grok xAI",
-  "DeepSeek",
-  "AI Agent",
-  "Agentic AI",
-  "Physical AI",
-  "Embodied AI",
-  "World models",
-  "Multimodal AI",
-  "Yann LeCun",
-  "Andrej Karpathy",
-  "Dario Amodei",
-  "Sam Altman",
-  "Demis Hassabis",
-  "Fei-Fei Li",
-  "Ilya Sutskever",
-  "Mira Murati",
-  "Jensen Huang",
-  "Nvidia",
-  "Figure AI",
-  "Tesla Optimus",
-  "1X robot",
-  "Boston Dynamics",
-  "Humanoid robot",
-  "Apple Vision Pro",
-  "Meta Quest",
-  "Spatial computing",
-  "Meta Ray-Ban",
-  "Suno",
-  "Udio",
-  "ElevenLabs",
-  "Hugging Face",
-  "open-source AI",
-  "AGI",
-  "superintelligence",
-  "AI safety",
-  "AI regulation",
-  "Enterprise AI agents",
-  "Figma YouTube",
-  "Vercel YouTube",
-  "Matt Wolfe AI",
-  "The AI Advantage",
-  "Fireship AI",
-  "DesignCourse",
-  "AI design tutorial YouTube",
-  "Midjourney Instagram",
-  "Runway Instagram",
-  "Awwwards",
-  "design AI reel"
- ],
- "categories": [
-  {
-   "category": "figma",
-   "allowed_domains": [
-    "figma.com",
-    "vercel.com",
-    "builder.io",
-    "logrocket.com",
-    "uxdesign.cc",
-    "dev.to",
-    "creativebloq.com"
-   ]
-  },
-  {
-   "category": "render",
-   "allowed_domains": [
-    "cgchannel.com",
-    "keyshot.com",
-    "80.lv",
-    "fxguide.com",
-    "nvidia.com",
-    "engadget.com"
-   ]
-  },
-  {
-   "category": "cad",
-   "allowed_domains": [
-    "engineering.com",
-    "getleo.ai",
-    "autodesk.com",
-    "all3dp.com",
-    "develop3d.com"
-   ]
-  },
-  {
-   "category": "tokens",
-   "allowed_domains": [
-    "parallelhq.com",
-    "mindstudio.ai",
-    "smashingmagazine.com",
-    "css-tricks.com",
-    "dev.to"
-   ]
-  },
-  {
-   "category": "vr",
-   "allowed_domains": [
-    "sgwdesignworks.com",
-    "boston-engineering.com",
-    "roadtovr.com",
-    "uploadvr.com",
-    "apple.com"
-   ]
-  },
-  {
-   "category": "workflow",
-   "allowed_domains": [
-    "orq.ai",
-    "fastcompany.com",
-    "cio.com",
-    "eleken.co",
-    "palettt.com",
-    "theverge.com",
-    "venturebeat.com"
-   ]
-  },
-  {
-   "category": "social",
-   "allowed_domains": [
-    "youtube.com",
-    "youtu.be",
-    "instagram.com"
-   ]
-  }
- ],
- "avoid_recent": [
-  {
-   "date": "2026-09-01",
-   "headline": "Runway Solaris, 프롬프트가 곧 인터페이스",
-   "url": "https://www.youtube.com/watch?v=c2yCePPnrSA"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "코딩 에이전트가 읽는 브랜드 규칙 한 파일",
-   "url": "https://vercel.com/blog/how-our-agents-build-on-brand-pages-with-design-md"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "CSS random()을 폴리필로 지금 쓴다",
-   "url": "https://css-tricks.com/css-random-function-polyfill/"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "Blender에서 잡고 Krita에서 칠한다",
-   "url": "https://80.lv/articles/this-tool-connects-blender-krita-for-texture-painting/"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "Quest 3, 주사율 240Hz까지 열렸다",
-   "url": "https://roadtovr.com/quest-3-update-boost-refresh-rate-240hz/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "터미널 에이전트가 UI를 그린다 /design이 시작점을 옮긴다",
-   "url": "https://dev.to/sarantoon/claude-code-waad-ui-aidaelw-design-epliiynwithiitham-frontend-2cm4"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "블렌더의 지겨운 리토폴로지를 Smart Remesh가 대신한다",
-   "url": "https://www.cgchannel.com/2026/08/check-out-promising-new-blender-retopology-tool-smart-remesh/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "2D 도면을 3D CAD로 옮기고 사람이 한 번 확인한다",
-   "url": "https://www.engineering.com/drawing-to-cad-ai-with-a-human-twist/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "AI 에이전트가 VR 앱을 만들고 직접 써 보며 확인한다",
-   "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "생성된 UI가 레이아웃을 가져가도 모션은 디자이너에게 남는다",
-   "url": "https://www.youtube.com/watch?v=PJgpUYAUzvc"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "포토샵의 프롬프트 편집이 이제 레이어 단위 작업으로 내려왔다",
-   "url": "https://www.awn.com/news/adobe-unveils-new-photoshop-ai-tools"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "구글 플로우, 프롬프트 한 번으로 끝나던 영상에 연출 손잡이를 달다",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "디자인 시스템의 다음 일은 컴포넌트가 아니라 통제다",
-   "url": "https://www.oreilly.com/radar/the-design-system-as-the-control-plane-for-ai-generated-ui/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "커서가 버셀 AI SDK 하네스 어댑터로 들어왔다",
-   "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "AI에 창의성까지 넘기지 말라는 오토데스크 심사위원의 당부",
-   "url": "https://www.core77.com/posts/145176/Autodesks-Own-Luke-Mihelcic-on-Judging-the-Fusion-Forward-Competition"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "에이전트가 프런트엔드를 쓸 때 캔버스와 코드를 붙들어 두는 법",
-   "url": "https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "디자인이 AI로 얼마나 달라졌는지 피그마가 이번엔 AI를 써서 재봤다",
-   "url": "https://www.figma.com/blog/measuring-the-impact-of-ai/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "AIA가 건축 표준 계약 문서에 AI 어시스턴트를 넣었다",
-   "url": "https://www.engineering.com/aia-contract-documents-launches-ai-assistant-and-names-cto/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "구글 안드로이드 XR의 통역, 이제 '듣는 영역'을 지정한다",
-   "url": "https://roadtovr.com/google-live-translation-android-xr-feature/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "메타 뮤즈 이미지를 버셀 게이트웨이에서 API 키 하나로 부른다",
-   "url": "https://vercel.com/changelog/muse-image-now-available-on-ai-gateway"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "피그마는 코드 커넥트 작성을 에이전트 부대에 맡겼다",
-   "url": "https://www.youtube.com/watch?v=KhyLHeGpWFA"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "Atomica가 AI 하드웨어 열을 잡는 미세구조 플랫폼을 내놨다",
-   "url": "https://www.engineering.com/atomica-introduces-ai-thermal-microstructures-platform/"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "프롬프트로 만든 사이트가 닮는 이유 기본값에서 빠져나오는 법",
-   "url": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "OpenAI가 11월 12일 Cursor에서 모델을 뺀다",
-   "url": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "Vercel 대시보드에서 에이전트를 바로 배포한다",
-   "url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "사람 눈에는 무늬, AI 눈에는 사람이 잡히지 않는 위장 셔츠",
-   "url": "https://www.fastcompany.com/91595636/this-shirt-is-like-an-ai-invisibility-cloak"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "Figma 변수를 네 컬렉션으로 나눠 코드베이스와 같은 값을 쓴다",
-   "url": "https://dev.to/planetabhi_/structuring-variables-in-figma-32d8"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "343만 달러 디즈니 경매가 AI 컨셉 아트에 남긴 질문",
-   "url": "https://www.creativebloq.com/art/animation/the-usd3-4m-disney-auction-is-a-reminder-of-what-ai-concept-art-takes-from-us"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "AI가 뽑은 방은 그럴듯하다 치수가 맞는지는 별개다",
-   "url": "https://dev.to/physicsai/a-measurement-first-workflow-for-evaluating-ai-interior-concepts-4h25"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "Firefly로 병 시안을 세우고 Photoshop에서 손으로 다듬는다",
-   "url": "https://www.youtube.com/watch?v=IlbD1rRIZLI"
-  }
- ]
 }
