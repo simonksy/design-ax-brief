@@ -1,32 +1,11 @@
 {
- "date": "2026-09-02",
- "section": "science",
- "media": [
-  {
-   "id": "science-alpha-centauri-ai-trajectory",
-   "type": "image",
-   "src": "pipeline/media/science-alpha-centauri-ai-trajectory.jpg"
-  },
-  {
-   "id": "science-bitenet-ion-sites",
-   "type": "image",
-   "src": "pipeline/media/science-bitenet-ion-sites.jpg"
-  },
-  {
-   "id": "science-ibm-15min-quantum",
-   "type": "image",
-   "src": "pipeline/media/science-ibm-15min-quantum.jpg"
-  },
-  {
-   "id": "science-methane-deeplearning-maps",
-   "type": "video",
-   "src": "pipeline/media/science-methane-deeplearning-maps.mp4",
-   "poster": "pipeline/media/science-methane-deeplearning-maps.jpg"
-  },
-  {
-   "id": "science-latent-reasoning-cheap",
-   "type": "image",
-   "src": "pipeline/media/science-latent-reasoning-cheap.jpg"
-  }
- ]
+  "date": "2026-09-03",
+  "section": "science",
+  "media": [
+    { "id": "science-pacman-plasma-20ms", "type": "image", "src": "pipeline/media/science-pacman-plasma-20ms.jpg" },
+    { "id": "science-ornl-atom-assembly", "type": "image", "src": "pipeline/media/science-ornl-atom-assembly.jpg" },
+    { "id": "science-gollum-doubt-detector", "type": "image", "src": "pipeline/media/science-gollum-doubt-detector.jpg" },
+    { "id": "science-rapido-remote-implant", "type": "image", "src": "pipeline/media/science-rapido-remote-implant.jpg" },
+    { "id": "science-ecg-clip-fewshot", "type": "image", "src": "pipeline/media/science-ecg-clip-fewshot.jpg" }
+  ]
 }

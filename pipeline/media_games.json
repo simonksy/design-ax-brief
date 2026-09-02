@@ -1,31 +1,32 @@
 {
- "date": "2026-09-02",
- "section": "games",
- "media": [
-  {
-   "id": "games-how-dream-racers-uses",
-   "type": "image",
-   "src": "pipeline/media/games-how-dream-racers-uses.jpg"
-  },
-  {
-   "id": "games-nimble-fox-launches-ai",
-   "type": "image",
-   "src": "pipeline/media/games-nimble-fox-launches-ai.jpg"
-  },
-  {
-   "id": "games-nvidia-says-dlss-5",
-   "type": "image",
-   "src": "pipeline/media/games-nvidia-says-dlss-5.jpg"
-  },
-  {
-   "id": "games-dwarf-fortress-creator-calls",
-   "type": "image",
-   "src": "pipeline/media/games-dwarf-fortress-creator-calls.jpg"
-  },
-  {
-   "id": "games-30-years-later-i",
-   "type": "image",
-   "src": "pipeline/media/games-30-years-later-i.jpg"
-  }
- ]
+  "date": "2026-09-03",
+  "section": "games",
+  "media": [
+    {
+      "id": "games-atelico-own-artists-model",
+      "type": "video",
+      "src": "pipeline/media/games-atelico-own-artists-model.mp4",
+      "poster": "pipeline/media/games-atelico-own-artists-model.jpg"
+    },
+    {
+      "id": "games-vizibeat-ue5-music-anim",
+      "type": "image",
+      "src": "pipeline/media/games-vizibeat-ue5-music-anim.jpg"
+    },
+    {
+      "id": "games-witcher4-people-over-ai",
+      "type": "image",
+      "src": "pipeline/media/games-witcher4-people-over-ai.jpg"
+    },
+    {
+      "id": "games-roblox-roost-open-models",
+      "type": "image",
+      "src": "pipeline/media/games-roblox-roost-open-models.jpg"
+    },
+    {
+      "id": "games-nvidia-ace-aniimo-chat",
+      "type": "image",
+      "src": "pipeline/media/games-nvidia-ace-aniimo-chat.jpg"
+    }
+  ]
 }

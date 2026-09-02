@@ -1,183 +1,143 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "section": "games",
-  "now_iso": "2026-09-01T22:05:00Z",
+  "now_iso": "2026-09-02T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
       "category": "games",
-      "title": "How Dream Racers uses Roblox's Cube AI to generate playable vehicles in real time",
-      "url": "https://gamesbeat.com/how-dream-racers-uses-robloxs-cube-ai-to-generate-playable-vehicles-in-real-time-exclusive/",
-      "source": "GamesBeat",
-      "published_iso": "2026-09-01T16:00:00Z",
-      "excerpt": "A new Roblox game, Dream Racers, integrates generative AI directly into gameplay by letting players build and race unique karts. It is one of the first shipped titles to put Roblox's Cube 3D generation model into a live player-facing loop.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
-      "why": "Generative 3D stops being a pre-production asset trick and becomes a runtime design material — the player prompts, the game has to keep it playable."
+      "title": "New Game Uses Local AI Model Trained Entirely on Studio's Own Artists",
+      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists",
+      "source": "80 Level",
+      "published_iso": "2026-08-31T20:45:00Z",
+      "excerpt": "Studio Atelico built more than 10 prototypes around a local, on-device model trained only on its own artists' work. The takeaways: authored constraints, artist consent, statistical testing, and tighter creative-technical collaboration.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49986/images/6a961376762b8/contain_1200x630.png",
+      "why": "A concrete answer to the consent problem: train small, train on your own art, keep inference on-device — generative art becomes a studio asset rather than a legal risk."
     },
     {
       "category": "games",
-      "title": "Nimble Fox launches AI tool for building Unity games worldwide",
-      "url": "https://gamesbeat.com/nimble-fox-launches-ai-tool-for-building-unity-games-worldwide/",
-      "source": "GamesBeat",
-      "published_iso": "2026-08-31T20:41:09Z",
-      "excerpt": "A Helsinki startup is releasing an AI copilot built into the Unity editor on Sept. 7, letting developers build and modify games by prompting inside the engine. Rather than generating a whole game in one pass, it works feature by feature — mechanics, UI flows, scoped changes — reading the context of an existing project.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
-      "why": "In-editor, project-aware, feature-at-a-time prompting is the shape AI game tooling is settling into — closer to a collaborator in the scene than a text-to-game button."
-    },
-    {
-      "category": "games",
-      "title": "Nvidia's DLSS 5 looks compelling in NBA 2K with performance improvements since March — but will gamers accept it?",
-      "url": "https://gamesbeat.com/nvidias-dlss-5-off-on-images-look-compelling-with-ai-tweaks-but-will-gamers-accept-it/",
-      "source": "GamesBeat",
-      "published_iso": "2026-09-01T13:00:00Z",
-      "excerpt": "Nvidia showed its latest progress with DLSS 5 for enhancing 3D images in games, demonstrating photorealistic content in NBA 2K27 with substantial gains since the March reveal.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/dlss-5-merged-picture-scaled.jpg",
-      "why": "A neural layer that rewrites the final frame moves art direction downstream of the artist — the open question is whether players read it as fidelity or as filter."
-    },
-    {
-      "category": "games",
-      "title": "Nvidia says DLSS 5 comes with a 50-60% performance hit, which makes me wonder what we're doing here",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/",
-      "source": "PC Gamer",
-      "published_iso": "2026-09-01T13:01:09Z",
-      "excerpt": "Nvidia has confirmed DLSS 5's 3D-guided neural rendering costs 50-60% of frame rate on average, inverting the original promise of DLSS as a performance technology.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/E644DNUmDjsb24uWWwKTjm-2560-80.jpg",
-      "why": "The cost model flips: AI rendering is now a look you pay for in frames, which turns it into an explicit art-direction budget decision rather than free uplift."
-    },
-    {
-      "category": "games",
-      "title": "Nvidia snuck me into a room to show off DLSS 5 in person, and it's somehow beautiful, ugly, impressive, and troubling all at the same time",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-snuck-me-into-a-room-to-show-off-dlss-5-in-person-and-its-somehow-beautiful-ugly-impressive-and-troubling-all-at-the-same-time/",
-      "source": "PC Gamer",
-      "published_iso": "2026-09-01T13:00:00Z",
-      "excerpt": "A hands-on account of Nvidia's private DLSS 5 demo, where the neural rendering pass produces images that are simultaneously more lifelike and less like the game the artists built.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hUVHXhfCwnAr8S9YCxCei6-2560-80.jpg",
-      "why": "First-hand craft critique of what a generative render pass actually does to authored visual style — the exact tension designers will have to arbitrate."
-    },
-    {
-      "category": "games",
-      "title": "Dwarf Fortress creator says we have a natural lean towards human-made stories, 'but we're all going to be very sorely tested in the coming years' by AI",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
-      "source": "PC Gamer",
-      "published_iso": "2026-09-01T15:01:29Z",
-      "excerpt": "Tarn Adams, whose game is built almost entirely on procedural generation, argues players instinctively prefer human-authored stories but that the preference will be severely tested as generative systems improve.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
-      "why": "The most credible proceduralist in games drawing the line between generated systems and generated authorship — a working distinction for anyone designing with AI."
-    },
-    {
-      "category": "games",
-      "title": "Kingdom Come: Deliverance 2 lead says Nvidia DLSS 5 backlash is \"really funny,\" and that \"most talented people I know\" use AI",
-      "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-lead-says-nvidia-dlss-5-backlash-is-really-funny-and-that-most-talented-people-i-know-use-ai/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-01T15:23:02Z",
-      "excerpt": "A KCD2 lead pushes back on the DLSS 5 backlash, arguing that the most capable developers he knows already use AI tools in their day-to-day work.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kCQpdSfWxtvBYcqmyZru7n-1920-80.jpg",
-      "why": "A shipping AAA lead putting a number on how normalized AI already is inside craft teams, against the public-facing backlash."
-    },
-    {
-      "category": "games",
-      "title": "Nvidia DLSS 5 is launching on September 3: Here's everything I learned about it from a private Gamescom demo",
-      "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidia-dlss-5-is-launching-on-september-3-heres-everything-i-learned-about-it-from-a-private-gamescom-demo/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-01T13:02:47Z",
-      "excerpt": "A reporter shut in a room with four Nvidia engineers gets into the mechanics of DLSS 5 — how the neural pass is guided by 3D data, what developers have to do to support it, and where it breaks.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/xJMXKgb6BKtJRwr98yT9C4-1920-80.jpg",
-      "why": "The engineering detail matters for pipelines: it defines what art teams must hand the model and how much control they keep."
-    },
-    {
-      "category": "games",
-      "title": "30 years later, I finally got to play Quake on the PS1, but that's before I found a better version that doesn't rely on \"substantial AI assistance\"",
-      "url": "https://www.gamesradar.com/hardware/retro/30-years-later-i-finally-got-to-play-quake-on-the-ps1-but-thats-before-i-found-a-better-version-that-doesnt-rely-on-substantial-ai-assistance/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-01T13:59:55Z",
-      "excerpt": "A homebrew Quake port for PS1 was built with heavy AI coding assistance — and a rival hand-written port runs better, sparking a small but pointed comparison in the demoscene-adjacent porting community.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/DRr2MjfGwEffDEDE78LQnC-1920-80.jpg",
-      "why": "A rare head-to-head where vibe-coded and hand-crafted versions of the same technical project ship side by side and can actually be compared."
-    },
-    {
-      "category": "games",
-      "title": "I Played NBA 2K27 with NVIDIA's \"Pixel-Accurate\" DLSS 5, and It's a Truly Generational Visual Leap That Can Only Improve",
-      "url": "https://wccftech.com/nvidia-dlss-5-nba-2k27-hands-on-pixel-accurate/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-01T13:15:45Z",
-      "excerpt": "Hands-on with NBA 2K27 running DLSS 5 ahead of launch, testing Nvidia's claim that the neural rendering pass is pixel-accurate to the authored scene rather than hallucinated.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/assets_2026_08_1788197239_nvidia-dlss-5-3d-guided-neural-rendering-available-now-in-nba-2k27-key-visual-1920x1080.jpg",
-      "why": "\"Pixel-accurate\" is the whole argument — if it holds, the neural pass is a renderer; if not, it is a style filter over someone else's art."
-    },
-    {
-      "category": "games",
-      "title": "NVIDIA DLSS 5 Performance Unveiled: 5x Faster Than Original Demo, 50% Perf Penalty on Average",
-      "url": "https://wccftech.com/nvidia-dlss-5-performance-5x-faster-rtx-50-series/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-01T13:00:08Z",
-      "excerpt": "Nvidia shares the first performance figures for RTX 50 GPUs running DLSS 5: five times faster than the March demo, but still roughly a 50% average frame-rate penalty, with more optimizations promised.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/2026-09-01_17-16-53-1920x1080.jpg",
-      "why": "Concrete numbers let studios decide whether a neural render pass is a shippable target or a screenshot mode."
-    },
-    {
-      "category": "games",
-      "title": "NVIDIA DLSS 5 Is The Biggest Leap In Rendering Since 3D Itself, Powered By Neural Technology",
-      "url": "https://wccftech.com/nvidia-dlss-5-launch-biggest-leap-in-rendering-powered-by-neural-technology-lifelike-visuals/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-01T13:00:06Z",
-      "excerpt": "DLSS 5 launches with 3D-Guided Neural Rendering, replacing traditional lighting and material shading with a learned pass that Nvidia claims delivers lifelike results from the same authored geometry.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/2026-09-01_17-16-10-1920x1080.jpg",
-      "why": "If lighting and materials become a learned pass, look-dev and material authoring change job description, not just tooling."
-    },
-    {
-      "category": "games",
-      "title": "Nvidia DLSS 5 releases this week with NBA 2K27, so the AI yassification filter's busy beautifying basketballers early doors",
-      "url": "https://www.rockpapershotgun.com/nvidia-dlss-5-releases-this-week-with-nba-2k27-so-the-ai-yassification-filters-busy-beautifying-basketballers-early-doors",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-09-01T15:31:21Z",
-      "excerpt": "DLSS 5 arrives September 3rd with NBA 2K27 as its debut title, and early looks show the controversial genAI graphics tech visibly reworking player faces and materials.",
-      "og_image": "https://assetsio.gnwcdn.com/nvidia-dlss-5-release-date-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "The sharpest framing of the objection: a model deciding what characters look like after the artists signed off."
-    },
-    {
-      "category": "games",
-      "title": "Nvidia DLSS 4.5 Ray Reconstruction, out now, ups shadow quality and more accurately illuminates trash bags",
-      "url": "https://www.rockpapershotgun.com/nvidia-dlss-45-ray-reconstruction-out-now-ups-shadow-quality-and-more-accurately-illuminates-trash-bags",
+      "title": "Nvidia tech behind PUBG's genAI team mates will let folks chat to creature-collecting RPG Aniimo's not-Pokemon next year",
+      "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
       "source": "Rock Paper Shotgun",
       "published_iso": "2026-08-25T15:30:00Z",
-      "excerpt": "Nvidia released DLSS 4.5 Ray Reconstruction, an upgraded version of its path-tracing denoiser, available today with better shadow quality and more accurate indirect lighting.",
-      "og_image": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "The uncontroversial half of neural rendering: a learned denoiser that lets lighting artists ship path tracing at real budgets."
+      "excerpt": "Nvidia ACE, the tech that powered PUBG's generative AI teammates, is heading into Aniimo, where players will be able to talk to the creatures they collect from early 2027.",
+      "og_image": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "why": "ACE moves from tech demo to a shipping creature-collector — the design question stops being 'can NPCs talk' and becomes 'what should a talking companion be allowed to say'."
     },
     {
       "category": "games",
-      "title": "Dwarf Fortress Creator Calls Out One Of AI's Biggest Issues: The Bosses Who Force Us To Use It",
-      "url": "https://kotaku.com/dwarf-fortress-tarn-adams-genai-ai-vibe-coding-claude-copilot-2000730266",
-      "source": "Kotaku",
-      "published_iso": "2026-09-01T17:45:43Z",
-      "excerpt": "Tarn Adams argues the real problem with generative AI in game development isn't the tools but mandated adoption: 'Everyone I know, their bosses are slowly getting psychosis.'",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
-      "why": "Relocates the AI-in-craft argument from capability to mandate — the version of the debate most working designers actually live in."
+      "title": "We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken",
+      "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+      "source": "Game Developer",
+      "published_iso": "2026-08-21T14:45:37Z",
+      "excerpt": "Two veteran game AI practitioners discuss AI techniques in game development — and the nature of the work itself, separating classic game AI craft from the generative hype cycle.",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?disable=upscale&width=1200&height=630&fit=crop",
+      "why": "The people who built game AI before it was a buzzword draw the line between systems design and generative slop — useful vocabulary for any design team arguing about tools."
     },
     {
       "category": "games",
-      "title": "Nvidia Confirms AI-Slop Filter DLSS 5 Will Cut Framerates In Half",
-      "url": "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208",
-      "source": "Kotaku",
-      "published_iso": "2026-09-01T14:30:16Z",
-      "excerpt": "Nvidia's own figures confirm DLSS 5's neural rendering roughly halves frame rates, adding a performance argument to the aesthetic objections already aimed at the tech.",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/dlss55-1200x675.jpg",
-      "why": "The consumer-side counterweight: a generative visual layer that costs both authored look and performance has a narrow case to make."
+      "title": "Roblox makes three of its AI safety tools open source",
+      "url": "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-08-21T10:35:36Z",
+      "excerpt": "Roblox released three of its AI moderation and safety models as open source, via the Robust Open Online Safety Tools community it co-founded with Google, OpenAI, and Discord.",
+      "og_image": "https://assetsio.gnwcdn.com/roblox-phone.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "why": "UGC platforms are where AI moderation is a design constraint, not a policy footnote — open models let smaller creator platforms inherit the safety layer."
     },
     {
       "category": "games",
-      "title": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look",
+      "title": "The Witcher 4 dev is \"still predominantly using people\" over AI in development, says CEO",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-09-02T21:39:13Z",
+      "excerpt": "CD Projekt Red's CEO says the studio still leans on people rather than AI for The Witcher 4, while conceding that every studio has to make its own judgment call.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VEvzgDyGsv2hLZtpU25Se8-2560-80.png",
+      "why": "A flagship RPG studio publicly setting the human/AI ratio — the clearest signal yet of where AAA craft budgets are actually going."
+    },
+    {
+      "category": "games",
+      "title": "Video Game Companies Keep Trying To Bait And Switch Us With AI, And It Sucks",
+      "url": "https://aftermath.site/1666-amsterdam-no-more-ai-tomb-raider-divinity/",
+      "source": "Aftermath",
+      "published_iso": "2026-09-02T17:55:25Z",
+      "excerpt": "1666: Amsterdam, Blood of Dawnwalker and others insist AI assets never made the final build — but 'not in the shipped game' is not the same as AI-free production.",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg",
+      "why": "Disclosure language is becoming a design-process question: where in the pipeline AI touched the work is now the thing players are auditing."
+    },
+    {
+      "category": "games",
+      "title": "Create Procedural UE5 Animations Based on Music with Vizibeat",
+      "url": "https://80.lv/articles/create-procedural-ue5-animations-based-on-music-with-this-tool",
+      "source": "80 Level",
+      "published_iso": "2026-09-02T10:08:00Z",
+      "excerpt": "Vizibeat is an Unreal Engine plug-in that drives procedural animation directly from an audio track, producing motion without any keyframing.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50007/images/6a97f587d7298/contain_1200x630.jpg",
+      "why": "Procedural, signal-driven animation is the quiet alternative to generative video — the input is the music, the output stays fully controllable in-engine."
+    },
+    {
+      "category": "games",
+      "title": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, developer Amplitude clarifies",
       "url": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
       "source": "Eurogamer",
       "published_iso": "2026-08-26T08:51:30Z",
-      "excerpt": "Amplitude clarifies that the Humankind 2 reveal trailer was human-made after viewers flagged it as looking AI-generated — a growing hazard for stylised art direction.",
+      "excerpt": "Amplitude had to publicly explain that Humankind 2's reveal trailer was hand-made after players read its look as generative AI output.",
       "og_image": "https://assetsio.gnwcdn.com/humankind-2-trailer-shot-crop-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "The false-positive problem is now an art-direction constraint: certain legitimate styles read as generated and studios have to defend them."
+      "why": "A new art-direction hazard: certain rendering choices now read as 'AI' to audiences, so studios are styling around suspicion."
+    },
+    {
+      "category": "games",
+      "title": "5 takeaways from Gamescom 2026: A truly global show, AI's impact, and what was missing",
+      "url": "https://www.pocketgamer.biz/5-takeaways-from-gamescom-2026/",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-08-28T13:42:00Z",
+      "excerpt": "A round-up of the trends coming out of Gamescom 2026, with AI's practical footprint across development and publishing among the headline talking points.",
+      "og_image": "https://media.pocketgamer.biz/images/141021/89735/gamescom-2026-11_l1200.jpg",
+      "why": "A show-floor read on where AI actually landed in production this year, rather than where vendors said it would."
+    },
+    {
+      "category": "games",
+      "title": "Skillprint Flow turns gameplay into human performance data for AI",
+      "url": "https://gamesbeat.com/skillprint-flow-turns-gameplay-into-human-performance-data-for-ai/",
+      "source": "GamesBeat",
+      "published_iso": "2026-08-25T14:15:00Z",
+      "excerpt": "Skillprint launched Flow, an API and toolset that converts the gameplay studios already produce into structured human-performance data usable for AI training and evaluation.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/08/skillprint-ontology-wheel.webp",
+      "why": "Reframes telemetry as a designed artifact — what you instrument in a game becomes a product, which changes how systems get designed in the first place."
+    },
+    {
+      "category": "games",
+      "title": "Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026",
+      "url": "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-08-25T18:44:44Z",
+      "excerpt": "Nvidia used Gamescom to detail a wave of developer-facing updates across DLSS, RTX and GeForce Now, including ray-traced Nanite and DLSS 4.5 Ray Reconstruction.",
+      "og_image": "https://assetsio.gnwcdn.com/Gamescon-Latam-(2).jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "why": "Neural rendering keeps sliding into the art pipeline: what artists author and what the GPU infers are being redrawn again."
+    },
+    {
+      "category": "wildcard",
+      "title": "NVIDIA's DLSS 5: Slop Or Not?",
+      "url": "https://80.lv/articles/nvidia-s-dlss-5-slop-or-not",
+      "source": "80 Level",
+      "published_iso": "2026-08-31T10:26:00Z",
+      "excerpt": "Artists and players have been running DLSS 5 across a range of games, and the results split the room on whether neural enhancement is a look or a smear.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49970/images/6a9556f39c974/contain_1200x630.jpg",
+      "why": "The visual-literacy fight over neural rendering, argued with side-by-sides rather than vibes — useful for anyone defending an art direction."
+    },
+    {
+      "category": "wildcard",
+      "title": "DLSS 5 finally has a use case - making Cyberpunk 2077 genuinely dystopian",
+      "url": "https://www.destructoid.com/dlss-5-finally-has-a-use-case-making-cyberpunk-2077-genuinely-dystopian/",
+      "source": "Destructoid",
+      "published_iso": "2026-09-02T20:04:51Z",
+      "excerpt": "Players pointing DLSS 5's neural filter at Cyberpunk 2077 found the uncanny smoothing weirdly appropriate for the game's world.",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/09/dlss5-cyberpunk.jpg",
+      "why": "An accidental art-direction lesson: a filter everyone calls a defect becomes intentional when the fiction can absorb it."
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 17,
+    "dropped": 1,
+    "kept": 13,
     "against_days": 5
   }
 }

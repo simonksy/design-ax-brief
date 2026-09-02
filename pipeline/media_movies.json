@@ -1,33 +1,33 @@
 {
- "date": "2026-09-02",
- "section": "movies",
- "media": [
-  {
-   "id": "movies-gadot-bitcoin-ai-sets",
-   "type": "video",
-   "src": "pipeline/media/movies-gadot-bitcoin-ai-sets.mp4",
-   "poster": "pipeline/media/movies-gadot-bitcoin-ai-sets.jpg"
-  },
-  {
-   "id": "movies-ae-portal-aug-2026",
-   "type": "video",
-   "src": "pipeline/media/movies-ae-portal-aug-2026.mp4",
-   "poster": "pipeline/media/movies-ae-portal-aug-2026.jpg"
-  },
-  {
-   "id": "movies-ibc-2026-preview",
-   "type": "image",
-   "src": "pipeline/media/movies-ibc-2026-preview.jpg"
-  },
-  {
-   "id": "movies-resolve-21-webinars",
-   "type": "image",
-   "src": "pipeline/media/movies-resolve-21-webinars.jpg"
-  },
-  {
-   "id": "movies-tiff-future-in-focus",
-   "type": "image",
-   "src": "pipeline/media/movies-tiff-future-in-focus.jpg"
-  }
- ]
+  "date": "2026-09-03",
+  "section": "movies",
+  "media": [
+    {
+      "id": "movies-runway-ruby",
+      "type": "video",
+      "src": "pipeline/media/movies-runway-ruby.mp4",
+      "poster": "pipeline/media/movies-runway-ruby.jpg"
+    },
+    {
+      "id": "movies-flow-studio-3d-editor",
+      "type": "video",
+      "src": "pipeline/media/movies-flow-studio-3d-editor.mp4",
+      "poster": "pipeline/media/movies-flow-studio-3d-editor.jpg"
+    },
+    {
+      "id": "movies-caira-gen-video-edit",
+      "type": "image",
+      "src": "pipeline/media/movies-caira-gen-video-edit.jpg"
+    },
+    {
+      "id": "movies-eddie-agent-marketplace",
+      "type": "image",
+      "src": "pipeline/media/movies-eddie-agent-marketplace.png"
+    },
+    {
+      "id": "movies-boyle-venice-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-boyle-venice-ai.jpg"
+    }
+  ]
 }

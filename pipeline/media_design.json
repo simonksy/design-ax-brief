@@ -1,32 +1,32 @@
 {
- "date": "2026-09-02",
- "section": "design",
- "media": [
-  {
-   "id": "design-figma-generative-shaders",
-   "type": "image",
-   "src": "pipeline/media/design-figma-generative-shaders.png"
-  },
-  {
-   "id": "design-to-code-benchmark",
-   "type": "image",
-   "src": "pipeline/media/design-to-code-benchmark.png"
-  },
-  {
-   "id": "design-blender-line-art",
-   "type": "video",
-   "src": "pipeline/media/design-blender-line-art.mp4",
-   "poster": "pipeline/media/design-blender-line-art.jpg"
-  },
-  {
-   "id": "design-text-to-cad-format",
-   "type": "image",
-   "src": "pipeline/media/design-text-to-cad-format.png"
-  },
-  {
-   "id": "design-empire-at-sea-venice",
-   "type": "image",
-   "src": "pipeline/media/design-empire-at-sea-venice.jpg"
-  }
- ]
+  "date": "2026-09-03",
+  "section": "design",
+  "media": [
+    {
+      "id": "design-figma-coinbase-code-connect",
+      "type": "image",
+      "src": "pipeline/media/design-figma-coinbase-code-connect.png"
+    },
+    {
+      "id": "design-solidworks-blue-tokens",
+      "type": "image",
+      "src": "pipeline/media/design-solidworks-blue-tokens.png"
+    },
+    {
+      "id": "design-agentic-ui-standard",
+      "type": "image",
+      "src": "pipeline/media/design-agentic-ui-standard.png"
+    },
+    {
+      "id": "design-dlss5-launch-date",
+      "type": "video",
+      "src": "pipeline/media/design-dlss5-launch-date.mp4",
+      "poster": "pipeline/media/design-dlss5-launch-date.jpg"
+    },
+    {
+      "id": "design-perplexity-color-tetrads",
+      "type": "image",
+      "src": "pipeline/media/design-perplexity-color-tetrads.png"
+    }
+  ]
 }

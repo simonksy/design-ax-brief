@@ -1,108 +1,195 @@
 {
- "date": "2026-09-02",
- "section": "books",
- "dedup_notes": {
-  "history_checked": [
-   "today(2026-09-01)",
-   "2026-08-31",
-   "2026-08-30",
-   "2026-08-29",
-   "2026-08-28",
-   "2026-08-27"
+  "date": "2026-09-03",
+  "section": "books",
+  "dedup_notes": {
+    "history_checked": [
+      "today(2026-09-02)",
+      "2026-09-01",
+      "2026-08-31",
+      "2026-08-30",
+      "2026-08-29"
+    ],
+    "pool_size": 9,
+    "dropped": [
+      {
+        "title": "Second annual AI survey by Gotham Ghostwriters and Bernoff.com",
+        "url": "https://janefriedman.com/second-annual-ai-survey-by-gotham-ghostwriters-and-bernoff-com/",
+        "reason": "WITHIN-POOL 정리 — janefriedman.com이 같은 시각(09-02 16:00Z)에 동시 출고한 두 건 중 약한 쪽. 설문 '진행 중' 공지라 뉴스 값이 낮고, 아웃렛 캡(≤2)을 지키면서 rank 3(커스텀 AI 소설 리뷰)만 유지했다. 중복 판정은 아니고 랭킹 탈락."
+      },
+      {
+        "title": "Opinion: You Have More Agency Than You Think: Creative Writing and Publishing in the Age of AI",
+        "url": "https://selfpublishingadvice.org/opinion-you-have-more-agency-than-you-think-creative-writing-and-publishing-in-the-age-of-ai/",
+        "reason": "WITHIN-POOL 정리 — 같은 ALLi 허브에서 나온 오피니언 에세이. 신규 정보 없는 격려성 논평이라, 같은 매체의 실무형 Q&A(rank 5)만 남겨 아웃렛 편중을 피했다."
+      },
+      {
+        "title": "[김봉석의 문화유랑] AI와 창작의 진화",
+        "url": "https://www.khan.co.kr/article/202608271959025/",
+        "reason": "CONTENT dup 위험 — 기사의 출발점인 제리 팔라데 200만 달러 데뷔작 계약 무산 건을 2026-08-29 'books-when-bots-write'(The Week)에서 이미 다뤘다. 칼럼 형식의 재해석이라 새 사실이 없어 제외."
+      },
+      {
+        "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+        "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+        "reason": "BACKUP ONLY 미사용 — AI 학습 저작권 소송 테마는 08-31 'books-ccc-fair-use-training-part3', 09-02 직전 덱의 Anthropic/Z-Library 카드로 연속 노출됐고 원고도 신문사다. 신선한 후보 5건이 확보돼 백업을 쓰지 않았다."
+      }
+    ]
+  },
+  "diversity_check": {
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "note": "섹션 단일 카테고리(books)라 accent는 sources.json palette에서 5개 모두 다르게 배정. 최종 5건 모두 서로 다른 매체(The Bookseller / Publishing Perspectives / Jane Friedman / The Scholarly Kitchen / ALLi)."
+  },
+  "items": [
+    {
+      "rank": 1,
+      "title": "Harriman House claims trade publishing first with 'AI-facilitated' Raoul Pal book",
+      "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
+      "source": "The Bookseller",
+      "published_iso": "2026-08-20T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+      "excerpt": "Harriman House says The Everything Code, by macro analyst Raoul Pal, was produced with a proprietary AI tool trained exclusively on the author's own existing work — which it calls a trade publishing first.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "rationale": "저자 본인의 저작만으로 학습시킨 모델을 트레이드 출판사가 원고 파이프라인에 정식으로 넣은 첫 사례로, AI 집필 논란을 '무엇을 학습시켰나'라는 실행 가능한 기준으로 옮긴다.",
+      "id": "books-harriman-ai-facilitated-pal"
+    },
+    {
+      "rank": 2,
+      "title": "'Who Gets to Listen. Whose Stories Are Available:' The African Audiobook Market",
+      "url": "https://publishingperspectives.com/2026/09/who-gets-to-listen-whose-stories-are-available-the-african-audiobook-market/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-09-02T08:51:05+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Ama-Dadson-speaking.png",
+      "excerpt": "AkooBooks Audio CEO Ama Dadson describes scaling audio in Ghana and across African markets, using AI for script preparation, quality assurance, metadata, discoverability and marketing while keeping narration human.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "rationale": "낭독은 사람에게 남기고 대본 준비·QA·메타데이터·발견성에만 AI를 붙이는 분업선을 실제 운영 사례로 제시해, 오디오북 제작 워크플로에 바로 옮겨 적을 수 있다.",
+      "id": "books-african-audiobook-market"
+    },
+    {
+      "rank": 3,
+      "title": "How Good Are AI Custom-Written Novels?",
+      "url": "https://janefriedman.com/how-good-are-ai-custom-written-novels/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-02T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Ember Novels generates bespoke full-length novels on demand, and the service shows AI is increasingly able to develop and carry plot through 300 pages with fewer continuity errors than many AI-generated or assisted books currently on the market.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "rationale": "주문형 맞춤 소설 서비스의 결과물을 직접 읽고 평가한 리포트로, 장편 플롯 유지와 연속성 오류라는 구체적 기준에서 현재 생성 소설의 실제 수준을 가늠하게 한다.",
+      "id": "books-ai-custom-written-novels"
+    },
+    {
+      "rank": 4,
+      "title": "When Your AI Knows You Too Well: Personalization, Sycophancy, and the Risk of an Intellectual Echo Chamber in AI-assisted Research",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/02/when-your-ai-knows-you-too-well-personalization-sycophancy-and-the-risk-of-an-intellectual-echo-chamber-in-ai-assisted-research/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-09-02T09:30:11+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151.jpg",
+      "excerpt": "As AI research assistants learn a reader's preferences, they also get better at mirroring that reader's assumptions. Avoiding that outcome, the authors argue, takes more than a better prompt.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "개인화된 리서치 어시스턴트가 이용자의 전제를 되비추며 만드는 지적 반향실을 짚고, 프롬프트 개선만으로는 막을 수 없다는 점에서 리서치·편집 습관 자체를 다시 설계하게 만든다.",
+      "id": "books-ai-personalization-echo-chamber"
+    },
+    {
+      "rank": 5,
+      "title": "Can AI Replace Your Editor? Member Q&A with Michael La Ronn and Sacha Black",
+      "url": "https://selfpublishingadvice.org/podcast-can-ai-replace-your-editor/",
+      "source": "Self-Publishing Advice Center (ALLi)",
+      "published_iso": "2026-08-23T12:00:15+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_QA.jpg",
+      "excerpt": "ALLi's advisors answer member questions on where AI editing actually holds up and where it fails, alongside IngramSpark changes and series cover consistency.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "rationale": "AI 편집이 실제로 통하는 구간과 무너지는 구간을 현업 자문진이 사례로 갈라 줘, 인디 작가가 편집 예산과 공정을 어떻게 나눌지 바로 판단할 수 있다.",
+      "id": "books-can-ai-replace-your-editor"
+    }
   ],
-  "dropped": [
-   {
-    "title": "We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.",
-    "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
-    "reason": "CONTENT dup — 동일 이벤트(Anthropic Claude 출력 워터마킹/AI 콘텐츠 탐지)를 이미 2026-08-29 'books-claude-watermark-theatre'(janefriedman.com)와 2026-08-27 'books-uncanny-valley-detection'(bookriot.com)에서 다뤘다. 다른 매체의 재해석."
-   },
-   {
-    "title": "“번역, 숙고 속 만들어” “AI 진출 막기 어려워”",
-    "url": "https://www.khan.co.kr/article/202608302029005/",
-    "reason": "WITHIN-POOL dup — 같은 매체(경향신문)가 같은 날 같은 ‘딸깍 번역’ 기획으로 동시 출고한 사이드바. 발췌 본문이 rank 1 기사와 동일. 더 강한 본편만 유지."
-   }
+  "picks": [
+    {
+      "rank": 1,
+      "title": "Harriman House claims trade publishing first with 'AI-facilitated' Raoul Pal book",
+      "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
+      "source": "The Bookseller",
+      "published_iso": "2026-08-20T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+      "excerpt": "Harriman House says The Everything Code, by macro analyst Raoul Pal, was produced with a proprietary AI tool trained exclusively on the author's own existing work — which it calls a trade publishing first.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "rationale": "저자 본인의 저작만으로 학습시킨 모델을 트레이드 출판사가 원고 파이프라인에 정식으로 넣은 첫 사례로, AI 집필 논란을 '무엇을 학습시켰나'라는 실행 가능한 기준으로 옮긴다.",
+      "id": "books-harriman-ai-facilitated-pal"
+    },
+    {
+      "rank": 2,
+      "title": "'Who Gets to Listen. Whose Stories Are Available:' The African Audiobook Market",
+      "url": "https://publishingperspectives.com/2026/09/who-gets-to-listen-whose-stories-are-available-the-african-audiobook-market/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-09-02T08:51:05+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Ama-Dadson-speaking.png",
+      "excerpt": "AkooBooks Audio CEO Ama Dadson describes scaling audio in Ghana and across African markets, using AI for script preparation, quality assurance, metadata, discoverability and marketing while keeping narration human.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "rationale": "낭독은 사람에게 남기고 대본 준비·QA·메타데이터·발견성에만 AI를 붙이는 분업선을 실제 운영 사례로 제시해, 오디오북 제작 워크플로에 바로 옮겨 적을 수 있다.",
+      "id": "books-african-audiobook-market"
+    },
+    {
+      "rank": 3,
+      "title": "How Good Are AI Custom-Written Novels?",
+      "url": "https://janefriedman.com/how-good-are-ai-custom-written-novels/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-02T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Ember Novels generates bespoke full-length novels on demand, and the service shows AI is increasingly able to develop and carry plot through 300 pages with fewer continuity errors than many AI-generated or assisted books currently on the market.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "rationale": "주문형 맞춤 소설 서비스의 결과물을 직접 읽고 평가한 리포트로, 장편 플롯 유지와 연속성 오류라는 구체적 기준에서 현재 생성 소설의 실제 수준을 가늠하게 한다.",
+      "id": "books-ai-custom-written-novels"
+    },
+    {
+      "rank": 4,
+      "title": "When Your AI Knows You Too Well: Personalization, Sycophancy, and the Risk of an Intellectual Echo Chamber in AI-assisted Research",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/02/when-your-ai-knows-you-too-well-personalization-sycophancy-and-the-risk-of-an-intellectual-echo-chamber-in-ai-assisted-research/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-09-02T09:30:11+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151.jpg",
+      "excerpt": "As AI research assistants learn a reader's preferences, they also get better at mirroring that reader's assumptions. Avoiding that outcome, the authors argue, takes more than a better prompt.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "개인화된 리서치 어시스턴트가 이용자의 전제를 되비추며 만드는 지적 반향실을 짚고, 프롬프트 개선만으로는 막을 수 없다는 점에서 리서치·편집 습관 자체를 다시 설계하게 만든다.",
+      "id": "books-ai-personalization-echo-chamber"
+    },
+    {
+      "rank": 5,
+      "title": "Can AI Replace Your Editor? Member Q&A with Michael La Ronn and Sacha Black",
+      "url": "https://selfpublishingadvice.org/podcast-can-ai-replace-your-editor/",
+      "source": "Self-Publishing Advice Center (ALLi)",
+      "published_iso": "2026-08-23T12:00:15+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_QA.jpg",
+      "excerpt": "ALLi's advisors answer member questions on where AI editing actually holds up and where it fails, alongside IngramSpark changes and series cover consistency.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "rationale": "AI 편집이 실제로 통하는 구간과 무너지는 구간을 현업 자문진이 사례로 갈라 줘, 인디 작가가 편집 예산과 공정을 어떻게 나눌지 바로 판단할 수 있다.",
+      "id": "books-can-ai-replace-your-editor"
+    }
   ]
- },
- "diversity_check": {
-  "distinct_outlets": 5,
-  "max_per_outlet": 1,
-  "note": "섹션 단일 카테고리(books)라 accent는 sources.json palette에서 5개 모두 다르게 배정."
- },
- "items": [
-  {
-   "rank": 1,
-   "title": "“AI보다 잘 번역할 수 있나 묻지 말라”···‘딸깍 번역’ 시대 번역가의 자리",
-   "url": "https://www.khan.co.kr/article/202608301542001/",
-   "source": "경향신문",
-   "published_iso": "2026-08-30T15:42:00+09:00",
-   "og_image": "https://img.khan.co.kr/news/2026/08/30/news-p.v1.20260828.58bdcbb88c0b4fe7b9fa6af2606df9ac_P1.jpg",
-   "excerpt": "출판계가 연이어 인공지능(AI)의 도전을 받고 있다. 지난해 생성형 AI를 이용해 순식간에 대량의 책을 만들어 유통한 출판사가 논란이 되며 ‘딸깍 출판’이라는 말이 유행했다면, 올해는 ‘딸깍 번역’이 화제의 중심에 올랐다. 소비자에게 공지 없이 AI 번역을 활용한 고전문학 애플리케이션 ‘책도둑’은 논란이 커지자 지난 7월 서비스를 중지했다. 다양한 분...",
-   "category": "books",
-   "tool": "Books",
-   "accent": "#f5a623",
-   "motif": "swatch",
-   "rationale": "‘딸깍 번역’ 국면에서 번역가의 실제 작업 위치가 어디로 옮겨가는지 짚는 craft/workflow 기사로, 국내 출판 실무자에게 가장 직접적으로 쓸모가 있다.",
-   "id": "books-kh-ttalkkak-translation"
-  },
-  {
-   "rank": 2,
-   "title": "Guest Post — The Human Layer: Why AI Makes Academic Libraries More Essential, Not Less",
-   "url": "https://scholarlykitchen.sspnet.org/2026/09/01/guest-post-the-human-layer-why-ai-makes-academic-libraries-more-essential-not-less-2/",
-   "source": "The Scholarly Kitchen",
-   "published_iso": "2026-09-01T09:30:24+00:00",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363.jpg",
-   "excerpt": "The opportunity presented by AI is not to remove the human layer of scholarship. It is to recognize why that layer has always mattered.",
-   "category": "books",
-   "tool": "Books",
-   "accent": "#0070f3",
-   "motif": "swatch",
-   "rationale": "가장 최신(9월 1일) 학술출판 담론으로, AI 도입 뒤 도서관·큐레이션 인력의 역할을 재정의하는 실무 논지를 담았다.",
-   "id": "books-guest-post-the-human"
-  },
-  {
-   "rank": 3,
-   "title": "Appeal Over Legal Fees Could Delay Anthropic Payout",
-   "url": "https://selfpublishingadvice.org/delay-anthropic-payout/",
-   "source": "ALLi Self-Publishing Advice",
-   "published_iso": "2026-09-01T12:00:34+00:00",
-   "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-1.jpg",
-   "excerpt": "An appeal over legal fees could delay Anthropic settlement payouts, while Amazon’s AI book practices face scrutiny.",
-   "category": "books",
-   "tool": "Books",
-   "accent": "#7928ca",
-   "motif": "swatch",
-   "rationale": "앤스로픽 합의금을 기다리는 인디 작가에게 지급 일정이 밀린다는 실질적 변화를 알리는 새 전개다.",
-   "id": "books-appeal-over-legal-fees"
-  },
-  {
-   "rank": 4,
-   "title": "AI 품은 출판업계…책 넘어 ‘지식 플랫폼’ 전환 모색",
-   "url": "https://www.tsisalaw.com/news/article.html?no=30370",
-   "source": "더시사법률",
-   "published_iso": "2026-08-26T17:41:04+09:00",
-   "og_image": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
-   "excerpt": "생성형 인공지능(AI)이 출판 과정에 활용되면서 책 제작과 판매에 머물렀던 출판산업도 ‘지식 플랫폼’으로의 전환을 모색하고 있다. 26일 출판계에 따르면 하정우 전 청와대 AI미래기획수석비서관은 전날 대한출판문화협회 특별강연에서 ‘AI 시대, 대체불가 대한민국 AI 전략과 출판산업의 변화 방향’을 주제로 출판산업의 역할 변화를 제안했다. 하 전 수석은 출판",
-   "category": "books",
-   "tool": "Books",
-   "accent": "#2ec5c5",
-   "motif": "swatch",
-   "rationale": "대한출판문화협회 특별강연을 통해 국내 출판산업의 ‘지식 플랫폼’ 전환 전략을 정면으로 다룬, 히스토리에 없던 국내 산업 관점이다.",
-   "id": "books-kr-publishing-knowledge-platform"
-  },
-  {
-   "rank": 5,
-   "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-   "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-   "source": "Ars Technica",
-   "published_iso": "2026-08-31T18:10:45+00:00",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
-   "excerpt": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-   "category": "books",
-   "tool": "Books",
-   "accent": "#eb367f",
-   "motif": "swatch",
-   "rationale": "Z-Library 등 섀도 라이브러리 수집을 인정하는 사내 대화가 새 소송 증거로 공개돼, 학습 데이터 출처 리스크의 구체적 근거가 드러났다.",
-   "id": "books-zlibrary-my-beloved-anthropic"
-  }
- ]
 }

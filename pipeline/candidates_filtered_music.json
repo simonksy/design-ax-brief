@@ -1,103 +1,123 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "section": "music",
-  "now_iso": "2026-09-01T22:05:00Z",
+  "now_iso": "2026-09-02T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.midiaresearch.com/blog/do-watermarks-spell-the-end-of-ai-content-proliferation",
-      "source": "MIDiA Research",
+      "url": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/",
+      "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-08-19T09:00:00Z",
-      "og_image": "https://www.midiaresearch.com/storage/uploads/blog/featured/2650/cover_image-1787751417.png",
-      "excerpt": "Major AI companies have signed a voluntary code of practice and begun watermarking their outputs, and the EU AI Act now pushes detectability by default. MIDiA argues watermarks could reset how listeners and platforms treat AI-made tracks, making 'human-made' a signal creators can actually carry.",
-      "title": "Do watermarks spell the end of AI content proliferation?"
+      "title": "The new TONE3000 is FREE and provides access to countless NAM profiles",
+      "published_iso": "2026-09-02T17:08:21+00:00",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/TONE3000-728x364.jpg",
+      "excerpt": "TONE3000 has released a free plugin for macOS, Windows and Linux that plays back Neural Amp Modeler (NAM) captures, opening a huge library of neural-modelled amps, cabs, pedals and outboard to any DAW. Neural capture is quietly becoming the default way guitar and studio gear gets emulated — sound and reactive behaviour, not just static impulse responses.",
+      "keyword": "neural synthesizer / neural amp modeling"
     },
     {
-      "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/",
-      "source": "Engadget",
+      "url": "https://cdm.link/elastic-melody-1-2/",
+      "source": "CDM (Create Digital Music)",
       "category": "music",
-      "published_iso": "2026-08-20T21:50:50Z",
-      "og_image": "https://www.engadget.com/img/gallery/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/l-intro-1787262611.jpg",
-      "excerpt": "Apple is preparing a 'Made With AI' tag for Apple Music that would apply whenever 'a material portion of the content' was generated with AI. The disclosure would run through distributor-facing transparency tags, putting the burden of declaration on the people uploading the music.",
-      "title": "Apple Music will reportedly label any AI-made tracks later this year"
+      "title": "Elastic Melody now does bass and DFAM-style percussion, too (Mac, iOS)",
+      "published_iso": "2026-09-02T10:50:09+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/09/EM-DFAM-2.jpg",
+      "excerpt": "Elastic Melody, a go-to algorithmic melody generator for Mac, iPad and iPhone, adds Pitch and Filter Drive modes so the same generative engine can now write basslines and DFAM-style percussion. It is a case study in generative composition as an instrument rather than a prompt box.",
+      "keyword": "generative music / algorithmic music system"
     },
     {
-      "url": "https://completemusicupdate.com/apple-music-to-start-labelling-tracks-made-with-ai/",
-      "source": "CMU",
+      "url": "https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-08-21T15:24:21Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/apple-music-AI.png",
-      "excerpt": "Apple Music will start showing 'Made With AI' labels on tracks later in 2026, built on the AI transparency tags it gave labels and distributors earlier this year. CMU walks through what counts as 'material' AI use and who has to declare it.",
-      "title": "Apple Music to start labelling tracks 'Made With AI'"
+      "title": "Logic Pro 12.3, as reviewed by a Cubase version 1 user",
+      "published_iso": "2026-09-02T08:00:01+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-hero-credit-press@2000x1500-1068x801.jpg",
+      "excerpt": "A lifelong Cubase user reviews Logic Pro 12.3 and lands on its AI features as the reason to switch: Session Players that conjure convincing bass, drum and keyboard parts from a project's chords and groove, plus \"one of the best stem separation processes I've encountered\". A concrete read on how AI performers reshape a DAW workflow.",
+      "keyword": "AI in Logic Pro / Session Players"
     },
     {
-      "url": "https://www.gearnews.com/apple-music-to-label-ai-generated-songs-tech/",
-      "source": "gearnews",
-      "category": "music",
-      "published_iso": "2026-08-21T10:41:18Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Apple-Music-AI-Ban-T2.jpg",
-      "excerpt": "Apple Music is rolling out a mandatory 'Made With AI' label, and gearnews pairs it with the uncomfortable number behind it: over a third of uploads are already fully AI-generated but barely streamed. The producer-facing question is what counts as AI use once the tag is compulsory.",
-      "title": "Apple Music to label AI-generated songs"
-    },
-    {
-      "url": "https://www.hypebot.com/independent-artists-need-an-operating-system-not-another-tool/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-08-24T15:08:14Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-21-karan-oped.jpg",
-      "excerpt": "After a decade of point tools, the argument is that independent artists need an AI-connected operating system that links catalogue, data and release actions instead of another dashboard. The op-ed sketches what an agentic layer under an artist's workflow would actually have to do.",
-      "title": "Independent Artists Need an Operating System, Not Another 'Tool'"
-    },
-    {
-      "url": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-08-25T14:15:00Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2025/01/Billboard-logo-BB-placeholder-1548.jpg?w=1024",
-      "excerpt": "Billboard says it will identify AI-generated music in its charts and editorial, leaning on creator disclosure plus new detection tooling. It is the chart side of the same transparency push now running through Apple Music, Spotify and ARIA.",
-      "title": "Billboard Affirms Commitment to Transparency Around AI-Generated Music"
-    },
-    {
-      "url": "https://musically.com/2026/08/26/billboard-and-luminate-promise-more-transparency-around-ai-music/",
+      "url": "https://musically.com/2026/09/02/report-explores-ais-indies-impact-and-infrastructure-erosion/",
       "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-08-26T12:30:00Z",
-      "og_image": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-26T131412.133.png",
-      "excerpt": "Luminate is adding AI-detection to its Connect platform to flag AI-generated songs and artists worldwide, and Billboard says it will use those flags in how it categorises chart entries. Detection, not self-disclosure, becomes the mechanism artists get measured by.",
-      "title": "Billboard and Luminate promise more transparency around AI music"
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/08/30/your-next-fan-may-never-search-for-you/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-08-31T05:10:13Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Search-has-moved-from-inferred-intent-to-declared-intent.png",
-      "excerpt": "Discovery is shifting from keyword search and metadata to listeners describing a mood or context and letting a model choose the music. For artists that changes what has to be legible about them — identity and context, not tags.",
-      "title": "Your Next Fan May Never Search for You"
+      "title": "Report explores AI’s indies impact and infrastructure erosion",
+      "published_iso": "2026-09-02T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T121104.346.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Research firm Stvdio and Secretly Distribution published a report on the independent-music sector, framed as \"a fight for music's infrastructure\" as generative AI floods catalogues and recommendation systems. It maps what erodes for working artists when supply becomes infinite.",
+      "keyword": "AI music industry"
     },
     {
       "url": "https://www.digitalmusicnews.com/2026/08/31/musicians-anti-ai-callout-culture-profile/",
       "source": "Digital Music News",
       "category": "music",
-      "published_iso": "2026-08-31T10:08:58Z",
+      "title": "Meet the Musicians Leading the Anti-AI ‘Callout Culture’",
+      "published_iso": "2026-08-31T10:08:58+00:00",
       "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/musicians-leading-anti-ai-culture.png",
-      "excerpt": "A loose network of musicians has turned into amateur detectives, hunting down 'AI grifters' passing generated tracks off as human work. The profile shows the listening heuristics and forensic habits they've built to spot AI slop.",
-      "title": "Meet the Musicians Leading the Anti-AI 'Callout Culture'"
+      "excerpt": "A profile of the musicians hunting down AI \"grifters\" passing off generated tracks as human work, and the norms they are improvising in public. A look at how craft communities police authorship when the tooling leaves no fingerprints.",
+      "keyword": "AI music culture"
     },
     {
-      "url": "https://www.gearnews.com/denon-dj-prime-4-g2/",
-      "source": "gearnews",
+      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
+      "source": "MusicRadar",
       "category": "music",
-      "published_iso": "2026-09-01T14:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-ft2.jpg",
-      "excerpt": "The Denon DJ Prime 4 G2 adds a big processing jump and real-time stem separation on the standalone unit, letting DJs pull acapellas and instrumentals live without pre-rendering. Neural source separation moves from laptop software into the controller itself.",
-      "title": "Denon DJ Prime 4 G2: multi-function pads and real-time stems"
+      "title": "AI models can identify iconic jazz pianists based on their recordings, while also revealing their \"musical fingerprints\"",
+      "published_iso": "2026-08-25T10:09:21+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi-1200-80.jpg",
+      "excerpt": "New research shows machine-learning models can name the jazz pianist behind a recording and, in doing so, expose the measurable \"musical fingerprint\" of a player's touch, timing and voicing. Researchers say it could suggest authors for unattributed works.",
+      "keyword": "AI music research / style fingerprinting"
+    },
+    {
+      "url": "https://www.hypebot.com/mark-my-words-ai-music-is-the-end-of-the-artist-economy/",
+      "source": "Hypebot",
+      "category": "music",
+      "title": "Mark My Words: AI Music Is the End of the Artist Economy.",
+      "published_iso": "2026-08-25T16:46:51+00:00",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/Still-Frame-Picture.jpg",
+      "excerpt": "People keep calling gen-AI music \"inevitable\", but if making a song no longer requires an artist, the argument goes, that isn't the future — it's the end of the artist economy. A blunt counter-case to the tooling optimism.",
+      "keyword": "AI music industry"
+    },
+    {
+      "url": "https://cdm.link/lucinate-visuals-on-mac-and-ios/",
+      "source": "CDM (Create Digital Music)",
+      "category": "music",
+      "title": "Lucinate video synth animates and live-codes visuals on Mac and iOS",
+      "published_iso": "2026-08-28T11:44:10+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/08/lucinate-main-image.png",
+      "excerpt": "From the makers of AUM, Lucinate is a real-time Metal-based visual environment for macOS and iOS that works as a ready-to-play, Ableton Link-synced video synth and opens up to live coding. A generative visualizer pipeline for musicians who don't want to render a music video.",
+      "keyword": "generative visualizer / AI music video"
+    },
+    {
+      "url": "https://www.attackmagazine.com/reviews/gear-software/yamaha-creator-pass-review-a-subscription-built-for-the-budding-bedroom-producer/",
+      "source": "Attack Magazine",
+      "category": "music",
+      "title": "Yamaha Creator Pass Review: A Subscription Built For The Budding Bedroom Producer",
+      "published_iso": "2026-08-31T12:56:31+00:00",
+      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Gear-_-Software-Yamaha-Creator-Pass-3-2.png",
+      "excerpt": "Yamaha's first real software play bundles Output, LANDR AI mastering, Cubase 15 AI and Ableton Live 12 Lite into a monthly subscription for beginner producers. AI tooling is quietly becoming the entry-level default rather than an add-on purchase.",
+      "keyword": "AI mastering / producer tooling"
+    },
+    {
+      "url": "https://musically.com/2026/09/01/soundplate-acquires-ai-music-mastering-company-stemmer/",
+      "source": "Music Ally",
+      "category": "music",
+      "title": "Soundplate acquires AI music-mastering company Stemmer",
+      "published_iso": "2026-09-01T14:56:42+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/09/hero-Soundplate_Stemmer_Logos.jpg",
+      "excerpt": "Soundplate, which builds marketing tools for independent artists, has bought AI mastering service Stemmer, folding automated mastering into an indie-artist toolkit rather than leaving it as a standalone service.",
+      "keyword": "AI mastering"
+    },
+    {
+      "url": "https://musictech.com/news/gear/new-plugins-this-week/",
+      "source": "MusicTech",
+      "category": "music",
+      "title": "The best new music plugins this week, free and paid",
+      "published_iso": "2026-08-27T03:00:52+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500-1068x801.jpg",
+      "excerpt": "MusicTech's weekly sweep of new instruments, effects and mixing plugins for Ableton Live, Logic Pro and other DAWs — useful as a running index of which releases lean on machine-learning processing this week.",
+      "keyword": "AI music plugin"
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 10,
+    "dropped": 1,
+    "kept": 11,
     "against_days": 5
   }
 }

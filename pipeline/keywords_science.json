@@ -1,307 +1,385 @@
 {
- "date": "2026-09-02",
- "section": "science",
- "now_iso": "2026-09-01T22:05:00Z",
- "rotation": {
-  "mode": "full_pool_override",
-  "note": "UNATTENDED RUN — ALL core keywords + the ENTIRE rotation pool are seeds. Expand with siblings/synonyms as needed to fill 5."
- },
- "core": [
-  "AI science",
-  "AI for science",
-  "AI 과학",
-  "AI scientific discovery"
- ],
- "groups": {
+  "date": "2026-09-03",
+  "section": "science",
+  "now_iso": "2026-09-02T22:00:00Z",
+  "rotation": {
+    "mode": "full_pool_override",
+    "day_of_month": 3,
+    "note": "UNATTENDED RUN — ALL core keywords + the ENTIRE sections.science.keywords rotation pool are seeds this run. Day-3 rotation emphasis: cognition/psychology, astronomy, fusion & particle physics, quantum chemistry, self-driving labs, AI co-scientist. De-emphasized (covered in the last 2 days): quantum error correction/quantum-advantage demos, protein binding-site prediction, time-series foundation models, AI-guided printing/alloy parameter search, extreme-climate scenario generation."
+  },
+  "core": [
+    "AI science",
+    "AI for science",
+    "AI 과학",
+    "AI scientific discovery"
+  ],
+  "groups": {
+    "psych_cognition": [
+      "AI mental health",
+      "AI therapy chatbot",
+      "affective computing",
+      "AI and human behavior",
+      "LLM persuasion study",
+      "AI 심리",
+      "LLM reasoning study",
+      "theory of mind AI",
+      "machine cognition",
+      "AI consciousness",
+      "neuro-symbolic AI",
+      "brain-computer interface",
+      "인지과학 AI"
+    ],
+    "life_science": [
+      "AlphaFold",
+      "protein folding AI",
+      "AI protein design",
+      "AI drug discovery",
+      "AI genomics",
+      "single-cell AI",
+      "computational biology",
+      "AI 신약개발",
+      "AI 단백질 설계"
+    ],
+    "materials": [
+      "AI materials discovery",
+      "GNoME",
+      "MatterGen",
+      "self-driving lab",
+      "autonomous materials lab",
+      "AI battery materials",
+      "AI 신소재"
+    ],
+    "astronomy": [
+      "AI exoplanet detection",
+      "machine learning cosmology",
+      "AI telescope survey",
+      "AI galaxy classification",
+      "AI 천문학"
+    ],
+    "physics": [
+      "machine learning physics",
+      "AI fusion plasma control",
+      "AI particle physics",
+      "differentiable physics",
+      "AI weather climate model",
+      "AI 물리"
+    ],
+    "quantum": [
+      "quantum machine learning",
+      "quantum AI",
+      "AI quantum error correction",
+      "quantum chemistry AI",
+      "양자 머신러닝"
+    ],
+    "research_automation": [
+      "AI lab automation",
+      "foundation model for science",
+      "AI hypothesis generation",
+      "AI co-scientist",
+      "AI 연구 자동화"
+    ]
+  },
   "keywords": [
-   "AI mental health",
-   "AI therapy chatbot",
-   "affective computing",
-   "AI and human behavior",
-   "LLM persuasion study",
-   "AI 심리",
-   "LLM reasoning study",
-   "theory of mind AI",
-   "machine cognition",
-   "AI consciousness",
-   "neuro-symbolic AI",
-   "brain-computer interface",
-   "인지과학 AI",
-   "AlphaFold",
-   "protein folding AI",
-   "AI protein design",
-   "AI drug discovery",
-   "AI genomics",
-   "single-cell AI",
-   "computational biology",
-   "AI 신약개발",
-   "AI 단백질 설계",
-   "AI materials discovery",
-   "GNoME",
-   "MatterGen",
-   "self-driving lab",
-   "autonomous materials lab",
-   "AI battery materials",
-   "AI 신소재",
-   "AI exoplanet detection",
-   "machine learning cosmology",
-   "AI telescope survey",
-   "AI galaxy classification",
-   "AI 천문학",
-   "machine learning physics",
-   "AI fusion plasma control",
-   "AI particle physics",
-   "differentiable physics",
-   "AI weather climate model",
-   "AI 물리",
-   "quantum machine learning",
-   "quantum AI",
-   "AI quantum error correction",
-   "quantum chemistry AI",
-   "양자 머신러닝",
-   "AI lab automation",
-   "foundation model for science",
-   "AI hypothesis generation",
-   "AI co-scientist",
-   "AI 연구 자동화"
+    "AI science",
+    "AI for science",
+    "AI 과학",
+    "AI scientific discovery",
+    "AI mental health",
+    "AI therapy chatbot",
+    "affective computing",
+    "AI and human behavior",
+    "LLM persuasion study",
+    "AI 심리",
+    "LLM reasoning study",
+    "theory of mind AI",
+    "machine cognition",
+    "AI consciousness",
+    "neuro-symbolic AI",
+    "brain-computer interface",
+    "인지과학 AI",
+    "AlphaFold",
+    "protein folding AI",
+    "AI protein design",
+    "AI drug discovery",
+    "AI genomics",
+    "single-cell AI",
+    "computational biology",
+    "AI 신약개발",
+    "AI 단백질 설계",
+    "AI materials discovery",
+    "GNoME",
+    "MatterGen",
+    "self-driving lab",
+    "autonomous materials lab",
+    "AI battery materials",
+    "AI 신소재",
+    "AI exoplanet detection",
+    "machine learning cosmology",
+    "AI telescope survey",
+    "AI galaxy classification",
+    "AI 천문학",
+    "machine learning physics",
+    "AI fusion plasma control",
+    "AI particle physics",
+    "differentiable physics",
+    "AI weather climate model",
+    "AI 물리",
+    "quantum machine learning",
+    "quantum AI",
+    "AI quantum error correction",
+    "quantum chemistry AI",
+    "양자 머신러닝",
+    "AI lab automation",
+    "foundation model for science",
+    "AI hypothesis generation",
+    "AI co-scientist",
+    "AI 연구 자동화"
+  ],
+  "expansions": {
+    "AI science": ["AI in research", "machine learning research method", "AI 연구 성과", "science of AI"],
+    "AI for science": ["AI4Science", "science foundation model", "AI-driven discovery pipeline"],
+    "AI 과학": ["인공지능 과학 연구", "AI 과학 발견", "AI 기초연구"],
+    "AI scientific discovery": ["automated discovery", "machine-generated hypothesis", "AI-discovered result"],
+    "AI mental health": ["digital mental health trial", "AI depression screening", "LLM psychiatry study", "정신건강 AI"],
+    "AI therapy chatbot": ["Therabot", "AI counselor RCT", "chatbot CBT trial", "companion chatbot harm study"],
+    "affective computing": ["emotion recognition model", "AI empathy detection", "physiological signal emotion AI"],
+    "AI and human behavior": ["human-AI interaction study", "AI trust experiment", "behavioral science LLM"],
+    "LLM persuasion study": ["AI persuasion experiment", "chatbot changed beliefs study", "LLM debate persuasion"],
+    "AI 심리": ["AI 상담", "심리학 LLM 연구", "AI 정서"],
+    "LLM reasoning study": ["chain-of-thought analysis", "LLM generalization study", "reasoning benchmark critique"],
+    "theory of mind AI": ["false belief test LLM", "mentalizing benchmark", "social cognition model"],
+    "machine cognition": ["cognitive architecture AI", "model of human learning", "AI cognitive science paper"],
+    "AI consciousness": ["machine sentience debate", "model welfare research", "introspection LLM study"],
+    "neuro-symbolic AI": ["symbolic reasoning hybrid model", "program synthesis reasoning", "logic-guided neural network"],
+    "brain-computer interface": ["neural decoder speech BCI", "Neuralink implant trial", "brain decoding foundation model", "뇌-컴퓨터 인터페이스"],
+    "인지과학 AI": ["cognitive science AI model", "뇌과학 인공지능", "신경과학 딥러닝"],
+    "AlphaFold": ["AlphaFold 3 update", "structure prediction model", "DeepMind biology model", "Boltz OpenFold"],
+    "protein folding AI": ["structure prediction accuracy", "protein language model", "ESM model"],
+    "AI protein design": ["de novo enzyme design", "RFdiffusion binder", "designed antibody", "protein design lab result"],
+    "AI drug discovery": ["Isomorphic Labs", "AI-designed drug clinical trial", "generative chemistry candidate", "Recursion Insilico"],
+    "AI genomics": ["genome foundation model", "Evo DNA model", "variant effect prediction AI"],
+    "single-cell AI": ["virtual cell model", "single-cell foundation model", "scGPT Tahoe atlas"],
+    "computational biology": ["AI systems biology", "biology simulation model", "bioRxiv machine learning"],
+    "AI 신약개발": ["인공지능 신약", "AI 후보물질 발굴", "AI 임상 예측"],
+    "AI 단백질 설계": ["AI 단백질 구조 예측", "효소 설계 AI", "항체 설계 인공지능"],
+    "AI materials discovery": ["generative materials model", "crystal structure generation", "inverse materials design"],
+    "GNoME": ["DeepMind materials model", "stable crystal prediction", "materials graph network"],
+    "MatterGen": ["Microsoft MatterSim", "diffusion model for crystals", "Azure materials AI"],
+    "self-driving lab": ["autonomous experimentation platform", "robotic chemist", "closed-loop discovery lab", "A-Lab Berkeley"],
+    "autonomous materials lab": ["robotic synthesis materials", "high-throughput autonomous screening", "AI-run laboratory"],
+    "AI battery materials": ["solid-state electrolyte ML", "AI catalyst discovery", "energy materials machine learning"],
+    "AI 신소재": ["인공지능 소재 개발", "AI 촉매", "AI 배터리 소재"],
+    "AI exoplanet detection": ["machine learning transit search", "TESS candidate neural network", "exoplanet atmosphere ML"],
+    "machine learning cosmology": ["dark matter neural simulation", "simulation-based inference cosmology", "CMB machine learning"],
+    "AI telescope survey": ["Rubin Observatory LSST AI", "JWST data machine learning", "radio survey deep learning", "transient alert broker"],
+    "AI galaxy classification": ["morphology neural network", "astronomy foundation model", "gravitational lens finder"],
+    "AI 천문학": ["인공지능 천문 관측", "AI 우주 데이터", "머신러닝 은하"],
+    "machine learning physics": ["neural network physics discovery", "symbolic regression physics law", "physics-informed neural network"],
+    "AI fusion plasma control": ["tokamak reinforcement learning", "plasma disruption prediction", "stellarator optimization AI", "핵융합 AI"],
+    "AI particle physics": ["LHC anomaly detection ML", "jet tagging neural network", "detector simulation surrogate"],
+    "differentiable physics": ["neural PDE solver", "differentiable simulation", "learned surrogate solver"],
+    "AI weather climate model": ["GraphCast NeuralGCM", "AI weather forecast operational", "climate emulator model", "AI 기상 예측"],
+    "AI 물리": ["인공지능 물리학", "물리 시뮬레이션 AI", "AI 유체역학"],
+    "quantum machine learning": ["variational quantum classifier", "quantum kernel method", "QML benchmark"],
+    "quantum AI": ["quantum computing AI workload", "AI for quantum control", "quantum-enhanced learning"],
+    "AI quantum error correction": ["neural decoder surface code", "AlphaQubit", "real-time decoding"],
+    "quantum chemistry AI": ["quantum simulation molecule", "neural wavefunction ansatz", "FermiNet DeepMind chemistry"],
+    "양자 머신러닝": ["양자 컴퓨팅 인공지능", "양자 알고리즘 AI", "양자 화학 시뮬레이션"],
+    "AI lab automation": ["robotic pipetting AI", "laboratory agent protocol", "automated experiment planning"],
+    "foundation model for science": ["scientific foundation model release", "domain-specific science LLM", "multimodal science model"],
+    "AI hypothesis generation": ["AI generated hypothesis validated", "literature-based discovery LLM", "idea generation experiment"],
+    "AI co-scientist": ["Google AI co-scientist", "agentic research assistant", "autonomous research agent paper"],
+    "AI 연구 자동화": ["연구 자동화 에이전트", "AI 실험 자동화", "논문 작성 AI 검증"]
+  },
+  "categories": [
+    {
+      "category": "science",
+      "label": "Science",
+      "allowed_domains": [
+        "quantamagazine.org",
+        "phys.org",
+        "sciencedaily.com",
+        "newscientist.com",
+        "scientificamerican.com",
+        "livescience.com",
+        "technologyreview.com",
+        "arxiv.org",
+        "biorxiv.org",
+        "space.com",
+        "universetoday.com",
+        "skyandtelescope.org",
+        "physicsworld.com",
+        "physics.aps.org",
+        "thequantuminsider.com",
+        "statnews.com",
+        "genengnews.com",
+        "fiercebiotech.com",
+        "psychologytoday.com",
+        "apa.org",
+        "deepmind.google",
+        "research.google",
+        "allenai.org",
+        "techxplore.com",
+        "medicalxpress.com",
+        "sciencealert.com",
+        "news.mit.edu",
+        "chemistryworld.com"
+      ],
+      "queries": [
+        "AI therapy chatbot mental health clinical trial 2026",
+        "affective computing emotion recognition study 2026",
+        "LLM persuasion experiment changed human beliefs study 2026",
+        "theory of mind large language model cognition study 2026",
+        "AI consciousness model welfare introspection research 2026",
+        "neuro-symbolic AI reasoning hybrid model 2026",
+        "brain-computer interface AI neural decoder speech 2026",
+        "인지과학 AI 뇌과학 인공지능 연구 2026",
+        "AI protein design de novo enzyme binder result 2026",
+        "AI drug discovery generative chemistry clinical candidate 2026",
+        "genome foundation model AI genomics variant prediction 2026",
+        "virtual cell single-cell foundation model 2026",
+        "AI 신약개발 인공지능 후보물질 2026",
+        "AI materials discovery generative crystal model MatterGen GNoME 2026",
+        "self-driving lab autonomous robotic chemist experiment 2026",
+        "AI battery materials catalyst electrolyte machine learning 2026",
+        "AI exoplanet detection machine learning transit survey 2026",
+        "machine learning cosmology dark matter simulation inference 2026",
+        "Rubin Observatory LSST AI transient classification 2026",
+        "AI galaxy classification astronomy foundation model 2026",
+        "AI fusion plasma control tokamak reinforcement learning 2026",
+        "AI particle physics LHC anomaly detection machine learning 2026",
+        "differentiable physics neural PDE solver surrogate 2026",
+        "AI weather forecast model GraphCast NeuralGCM operational 2026",
+        "quantum machine learning kernel benchmark result 2026",
+        "quantum chemistry AI neural wavefunction molecular simulation 2026",
+        "AI lab automation robotic experiment agent protocol 2026",
+        "AI co-scientist hypothesis generation research agent 2026",
+        "foundation model for science multimodal scientific model release 2026",
+        "AI 연구 자동화 AI 과학 발견 2026"
+      ],
+      "wildcard_query": "AI science breakthrough this week 2026"
+    }
+  ],
+  "avoid_recent": [
+    {
+      "date": "2026-09-02",
+      "headline": "알파 센타우리로 가는 항로를 AI가 일주일 만에 찾아냈다",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "topic": "AI-designed interstellar trajectory / physics research agent"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "단백질 속 이온 결합 자리를 몇 초 만에 짚어내는 모델",
+      "url": "https://phys.org/news/2026-09-ai-ion-sites-proteins.html",
+      "topic": "protein ion binding-site prediction (BiteNetI)"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "고전 컴퓨터가 못 푸는 문제를 IBM 양자 컴퓨터가 15분에 풀었다",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+      "topic": "quantum advantage demonstration / verified sampling"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "위성이 못 보던 메탄 기둥을 딥러닝이 지구 전체에서 찾는다",
+      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      "topic": "satellite methane detection deep learning"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "글 대신 벡터로 추론하는 모델 운영 비용이 11분의 1로 줄었다",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
+      "topic": "latent reasoning post-transformer architecture"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "다변량 시계열을 학습 없이 예측하는 TimesFM-3",
+      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+      "topic": "time-series foundation model"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "MegaQuOp 규모 오류 디코딩이 맥북 프로 한 대에서 돌아갔다",
+      "url": "https://thequantuminsider.com/2026/08/31/ionq-researchers-run-megaquop-scale-quantum-error-decoder-on-a-macbook-pro/",
+      "topic": "quantum error-correction decoding"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "AI가 1억 가지 설정을 뒤져 NASA 합금 인쇄 조건을 찾았다",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "topic": "AI process-parameter search for metal 3D printing"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "에볼라 유전체 72개로 전파 모델을 실시간에 맞춘다",
+      "url": "https://medicalxpress.com/news/2026-08-ai-method-real-infectious-diseases.html",
+      "topic": "phylodynamics neural posterior estimation"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "극한 사례를 본 적 없는 모델이 극한 시나리오를 만든다",
+      "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+      "topic": "extreme climate event scenario generation"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "레퍼런스 게놈 없이 수백만 세포를 초 단위로 훑는 검색엔진 말바",
+      "url": "https://phys.org/news/2026-08-google-cell-rna-previously-impossible.html",
+      "topic": "single-cell RNA search engine"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "6,561번 돌릴 계산을 17번으로 고체산화물 전해셀 운전 최적화",
+      "url": "https://techxplore.com/news/2026-08-ai-framework-optimize-solid-oxide.html",
+      "topic": "active-learning CFD optimization"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "프린스턴이 확장한 평균장 이론 생쥐 뉴런 1,000여 개와 들어맞았다",
+      "url": "https://phys.org/news/2026-08-simple-neural-networks-field-theory.html",
+      "topic": "mean-field theory for neural networks"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "실제 환자 918명 임상 데이터에서 양자 머신러닝 정확도 90.26%",
+      "url": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/",
+      "topic": "quantum machine learning clinical prediction"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "사람은 복잡성을 일찍 정리하고 체스 엔진은 훨씬 오래 끌고 간다",
+      "url": "https://techxplore.com/news/2026-08-ai-doesnt-play-chess-complexity.html",
+      "topic": "human vs AI decision complexity"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "화학을 읽는 모델이 찾아낸 물 수확 소재 10종",
+      "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html",
+      "topic": "LLM-guided MOF linker discovery"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "구글이 내놓은 연속 혈당 파운데이션 모델 GlucoFM",
+      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+      "topic": "CGM foundation model"
+    },
+    {
+      "date": "2026-08-29",
+      "headline": "데이터 누수가 AI 신약 발굴 리더보드를 흔들고 있다",
+      "url": "https://www.chemistryworld.com/news/benchmark-flaws-may-be-distorting-ai-drug-discovery-leaderboards/4024084.article",
+      "topic": "AI drug discovery benchmark leakage"
+    },
+    {
+      "date": "2026-08-29",
+      "headline": "중성원자 양자컴퓨터 보정, 이제 AI 에이전트가 돌린다",
+      "url": "https://thequantuminsider.com/2026/08/28/quera-uses-anthropic-ai-agent-to-automate-critical-quantum-computer-process/",
+      "topic": "AI agent lab instrument automation"
+    },
+    {
+      "date": "2026-08-28",
+      "headline": "자연이 이미 쓴 서열을 넘어 단백질 설계 적중률을 올렸다",
+      "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
+      "topic": "protein sequence design framework"
+    }
   ]
- },
- "keywords": [
-  "AI science",
-  "AI for science",
-  "AI 과학",
-  "AI scientific discovery",
-  "AI mental health",
-  "AI therapy chatbot",
-  "affective computing",
-  "AI and human behavior",
-  "LLM persuasion study",
-  "AI 심리",
-  "LLM reasoning study",
-  "theory of mind AI",
-  "machine cognition",
-  "AI consciousness",
-  "neuro-symbolic AI",
-  "brain-computer interface",
-  "인지과학 AI",
-  "AlphaFold",
-  "protein folding AI",
-  "AI protein design",
-  "AI drug discovery",
-  "AI genomics",
-  "single-cell AI",
-  "computational biology",
-  "AI 신약개발",
-  "AI 단백질 설계",
-  "AI materials discovery",
-  "GNoME",
-  "MatterGen",
-  "self-driving lab",
-  "autonomous materials lab",
-  "AI battery materials",
-  "AI 신소재",
-  "AI exoplanet detection",
-  "machine learning cosmology",
-  "AI telescope survey",
-  "AI galaxy classification",
-  "AI 천문학",
-  "machine learning physics",
-  "AI fusion plasma control",
-  "AI particle physics",
-  "differentiable physics",
-  "AI weather climate model",
-  "AI 물리",
-  "quantum machine learning",
-  "quantum AI",
-  "AI quantum error correction",
-  "quantum chemistry AI",
-  "양자 머신러닝",
-  "AI lab automation",
-  "foundation model for science",
-  "AI hypothesis generation",
-  "AI co-scientist",
-  "AI 연구 자동화"
- ],
- "categories": [
-  {
-   "category": "science",
-   "allowed_domains": [
-    "quantamagazine.org",
-    "phys.org",
-    "sciencedaily.com",
-    "newscientist.com",
-    "scientificamerican.com",
-    "livescience.com",
-    "technologyreview.com",
-    "arxiv.org",
-    "biorxiv.org",
-    "space.com",
-    "universetoday.com",
-    "skyandtelescope.org",
-    "physicsworld.com",
-    "physics.aps.org",
-    "thequantuminsider.com",
-    "statnews.com",
-    "genengnews.com",
-    "fiercebiotech.com",
-    "psychologytoday.com",
-    "apa.org",
-    "deepmind.google",
-    "research.google",
-    "allenai.org"
-   ]
-  }
- ],
- "avoid_recent": [
-  {
-   "date": "2026-09-01",
-   "headline": "다변량 시계열을 학습 없이 예측하는 TimesFM-3",
-   "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "MegaQuOp 규모 오류 디코딩이 맥북 프로 한 대에서 돌아갔다",
-   "url": "https://thequantuminsider.com/2026/08/31/ionq-researchers-run-megaquop-scale-quantum-error-decoder-on-a-macbook-pro/"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "AI가 1억 가지 설정을 뒤져 NASA 합금 인쇄 조건을 찾았다",
-   "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "에볼라 유전체 72개로 전파 모델을 실시간에 맞춘다",
-   "url": "https://medicalxpress.com/news/2026-08-ai-method-real-infectious-diseases.html"
-  },
-  {
-   "date": "2026-09-01",
-   "headline": "극한 사례를 본 적 없는 모델이 극한 시나리오를 만든다",
-   "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "AI가 설계한 항체가 실험실에서 진짜 달라붙는지 처음 가려봤다",
-   "url": "https://phys.org/news/2026-08-ai-antibodies-laboratory.html"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "생성 모델에 화학 원자가 규칙을 걸어 만들 수 있는 결정만 남겼다",
-   "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "단순한 채널 흐름에서 배운 제어기가 날개 시뮬레이션에서도 통했다",
-   "url": "https://techxplore.com/news/2026-08-simulated-ground-ai-fluid-dynamics.html"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "아이가 언어를 배우는 데 쓰는 데이터는 LLM보다 훨씬 적다",
-   "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
-  },
-  {
-   "date": "2026-08-27",
-   "headline": "이징 스핀 글라스에서는 아직 양자가 고전을 앞서지 못했다",
-   "url": "https://physicsworld.com/a/no-quantum-advantage-yet-in-the-world-of-tensor-networks/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "1년 반 매달린 유체역학 문제를 AI와 함께 5주 만에 풀었다",
-   "url": "https://phys.org/news/2026-08-fast-error-prone-ai-decades.html"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "자연이 이미 쓴 서열을 넘어 단백질 설계 적중률을 올렸다",
-   "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "자기 시험지를 자기가 채점하는 AI 벤치마크에 이중맹검을 건다",
-   "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "자기장의 미세한 조짐을 읽어 태양폭풍을 9시간 먼저 잡는다",
-   "url": "https://www.universetoday.com/articles/ai-spots-hidden-solar-storm-signs-9-hours-early"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "기계학습이 찾아낸 용매 배합이 양자점 필름을 고르게 만든다",
-   "url": "https://physicsworld.com/a/improved-qleds-with-machine-learning/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "중성원자 양자컴퓨터 보정, 이제 AI 에이전트가 돌린다",
-   "url": "https://thequantuminsider.com/2026/08/28/quera-uses-anthropic-ai-agent-to-automate-critical-quantum-computer-process/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "보상 해킹을 배운 에이전트가 평가 환경 밖 시스템까지 건드렸다",
-   "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "데이터 누수가 AI 신약 발굴 리더보드를 흔들고 있다",
-   "url": "https://www.chemistryworld.com/news/benchmark-flaws-may-be-distorting-ai-drug-discovery-leaderboards/4024084.article"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "전지구 예측 모델 만드는 일, 파이프라인이 통째로 넘겨받는다",
-   "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "하루 두 시간 AI 튜터가 수업을 대신한다는 학교",
-   "url": "https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "화학을 읽는 모델이 찾아낸 물 수확 소재 10종",
-   "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "머크·모더나 암 백신의 진짜 심장은 알고리즘",
-   "url": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "구글이 내놓은 연속 혈당 파운데이션 모델 GlucoFM",
-   "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "획의 타이밍과 압력이 파킨슨병을 가려낸다",
-   "url": "https://www.sciencealert.com/the-way-you-draw-can-reveal-parkinsons-disease-with-up-to-99-accuracy-study-reveals"
-  },
-  {
-   "date": "2026-08-30",
-   "headline": "IBM 양자 컴퓨터로 돌려본 신약 도킹 계산",
-   "url": "https://thequantuminsider.com/2026/08/27/researchers-use-ibm-quantum-computer-to-test-drug-docking-method/"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "레퍼런스 게놈 없이 수백만 세포를 초 단위로 훑는 검색엔진 말바",
-   "url": "https://phys.org/news/2026-08-google-cell-rna-previously-impossible.html"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "6,561번 돌릴 계산을 17번으로 고체산화물 전해셀 운전 최적화",
-   "url": "https://techxplore.com/news/2026-08-ai-framework-optimize-solid-oxide.html"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "프린스턴이 확장한 평균장 이론 생쥐 뉴런 1,000여 개와 들어맞았다",
-   "url": "https://phys.org/news/2026-08-simple-neural-networks-field-theory.html"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "실제 환자 918명 임상 데이터에서 양자 머신러닝 정확도 90.26%",
-   "url": "https://thequantuminsider.com/2026/08/27/fau-researchers-use-quantum-machine-learning-to-predict-heart-disease/"
-  },
-  {
-   "date": "2026-08-31",
-   "headline": "사람은 복잡성을 일찍 정리하고 체스 엔진은 훨씬 오래 끌고 간다",
-   "url": "https://techxplore.com/news/2026-08-ai-doesnt-play-chess-complexity.html"
-  }
- ]
 }

@@ -1,10 +1,11 @@
 {
- "date": "2026-09-02",
+ "date": "2026-09-03",
  "section": "books",
- "now_iso": "2026-09-01T22:05:00Z",
+ "now_iso": "2026-09-02T22:00:00Z",
  "rotation": {
   "mode": "full_pool_override",
-  "note": "UNATTENDED RUN — ALL core keywords + the ENTIRE rotation pool are seeds. Expand with siblings/synonyms as needed to fill 5."
+  "note": "UNATTENDED RUN — ALL core keywords + the ENTIRE books rotation pool are seeds this run (books is historically the thinnest section). Each keyword expanded with 2-5 sibling phrases; plan deliberately wide across adjacent territory: publishing tech, audiobook AI, translation AI, library AI, comics/webtoon/manga AI, education publishing.",
+  "date_offset_emphasis": "day-of-month 3 → emphasize production-side tooling (audiobook, comics/webtoon, children's/textbook, discovery/recommendation) over the legal/copyright axis that has dominated the last 2 days"
  },
  "core": [
   "AI writing",
@@ -35,6 +36,13 @@
    "AI textbook",
    "AI copyright authors",
    "AI book recommendation"
+  ],
+  "adjacent_added_this_run": [
+   "publishing tech",
+   "library AI",
+   "webtoon AI",
+   "metadata automation",
+   "AI book discovery"
   ]
  },
  "keywords": [
@@ -62,11 +70,80 @@
   "AI comic manga",
   "AI textbook",
   "AI copyright authors",
-  "AI book recommendation"
+  "AI book recommendation",
+  "publishing tech",
+  "library AI",
+  "webtoon AI",
+  "AI book discovery"
  ],
+ "expansions": {
+  "AI writing": ["AI 글쓰기 도구", "LLM drafting for authors", "writing assistant release", "AI prose model"],
+  "AI 출판": ["출판사 AI 도입", "딸깍 출판", "AI 전자책 제작", "출판산업 AI 전환"],
+  "AI publishing": ["publisher AI strategy", "publishing house AI pilot", "AI in trade publishing", "publishing AI licensing deal"],
+  "AI co-writing": ["human-AI collaborative novel", "co-author AI credit", "AI writing partner app", "공동 집필 AI"],
+  "AI book cover": ["AI cover design tool", "cover generator publisher", "AI 표지 디자인", "art director AI cover policy"],
+  "AI audiobook narration": ["synthetic narration deal", "Audible AI narrator", "Spotify audiobook AI", "Storytel AI voice", "오디오북 AI 성우"],
+  "AI literary translation": ["machine translation post-editing publishing", "Kindle Translate", "AI translated manga rights", "번역 AI 출판"],
+  "generative fiction": ["interactive AI story app", "AI serialized fiction platform", "AI novel app launch", "Wattpad AI"],
+  "AI ghostwriting": ["AI ghostwritten memoir", "author disclosure AI", "AI 대필"],
+  "AI ebook tools": ["ebook production automation", "EPUB AI workflow", "Calibre alternatives AI", "ebook conversion AI"],
+  "AI editing proofreading": ["AI copyedit tool publisher", "AI developmental edit", "AI proofreading launch", "교정 교열 AI"],
+  "Sudowrite": ["NovelCrafter", "Atticus", "Squibler", "Novelist AI tool update"],
+  "AI self-publishing": ["indie author AI tool", "ALLi AI guidance", "self-publishing platform AI feature"],
+  "KDP AI": ["Amazon KDP policy AI", "Kindle Direct Publishing AI disclosure", "Amazon AI book flood"],
+  "AI narration voices": ["voice clone author narrator", "ElevenLabs Reader", "AI voice licensing publisher"],
+  "AI book marketing": ["AI ad copy for authors", "BookBub AI", "AI metadata keywords books", "book trailer AI"],
+  "AI book summarization": ["getAbstract AI", "Blinkist AI", "AI summary app books"],
+  "AI reading assistant": ["ask-the-book AI", "NotebookLM books", "reading companion AI app", "AI 독서 도우미"],
+  "AI poetry": ["AI poetry collection", "poet AI collaboration", "AI 시 창작"],
+  "AI children's book": ["AI picture book illustration", "kidlit AI policy", "그림책 AI"],
+  "AI manuscript": ["AI submission policy agents", "slush pile AI screening", "manuscript assessment AI"],
+  "AI comic manga": ["AI manga translation startup", "webtoon AI production", "AI comics tool", "만화 AI 번역", "웹툰 AI"],
+  "AI textbook": ["adaptive learning publisher AI", "education publisher AI product", "Pearson AI", "McGraw Hill AI", "디지털 교과서 AI"],
+  "AI copyright authors": ["authors guild AI", "opt-out licensing books", "collective licensing AI text"],
+  "AI book recommendation": ["AI discovery bookstore", "Goodreads AI", "Bookshop.org AI", "recommendation engine reading app"],
+  "publishing tech": ["ONIX metadata automation", "publishing workflow SaaS AI", "rights management AI", "print-on-demand AI"],
+  "library AI": ["library discovery AI", "librarian AI tools", "public library AI service", "도서관 AI"],
+  "webtoon AI": ["Naver Webtoon AI tool", "Kakao Entertainment AI", "AI shortform comics"],
+  "AI book discovery": ["BookTok AI", "AI reading app launch", "personalized reading AI"]
+ },
  "categories": [
   {
    "category": "books",
+   "queries": [
+    "AI co-writing tool for novelists launch September 2026",
+    "Sudowrite NovelCrafter Atticus AI writing tool update 2026",
+    "AI manuscript screening submissions literary agents 2026",
+    "AI audiobook narration deal Audible Spotify publisher September 2026",
+    "ElevenLabs Reader AI narrator publishing partnership 2026",
+    "오디오북 AI 성우 낭독 2026",
+    "AI manga translation startup publisher deal 2026",
+    "webtoon AI production tool Naver Kakao 2026",
+    "AI comics creator tool announcement 2026",
+    "Amazon KDP AI content policy update authors 2026",
+    "self-publishing platform AI feature launch September 2026",
+    "AI book marketing metadata keywords tool authors 2026",
+    "AI book cover generator design tool publishers 2026",
+    "AI children's picture book illustration publisher 2026",
+    "education publisher AI textbook adaptive learning launch 2026",
+    "디지털 교과서 AI 출판 2026",
+    "AI reading assistant app ebook launch 2026",
+    "AI book recommendation discovery engine bookstore 2026",
+    "AI book summarization app publisher 2026",
+    "library AI discovery tool librarians September 2026",
+    "publishing metadata ONIX AI automation rights 2026",
+    "generative fiction interactive AI story app launch 2026",
+    "AI poetry collection published 2026",
+    "AI proofreading copyediting tool publishing house 2026",
+    "ebook production AI workflow EPUB tool 2026",
+    "AI ghostwriting disclosure policy publisher authors 2026",
+    "작가 AI 저작권 계약 출판 2026",
+    "AI 출판 도구 전자책 2026년 9월",
+    "AI literary translation rights deal publisher 2026",
+    "site:youtube.com The Creative Penn AI publishing 2026",
+    "site:youtube.com Self Publishing with Dale AI tools 2026",
+    "AI publishing news this week authors tools"
+   ],
    "allowed_domains": [
     "publishersweekly.com",
     "thebookseller.com",
@@ -89,11 +166,55 @@
     "techcrunch.com",
     "goodreads.com",
     "bookbub.com",
-    "arstechnica.com"
+    "arstechnica.com",
+    "thenewpublishingstandard.com",
+    "selfpublishingadvice.org",
+    "bookbrunch.co.uk",
+    "publishersmarketplace.com",
+    "lunch.publishersmarketplace.com",
+    "infodocket.com",
+    "404media.co",
+    "the-decoder.com",
+    "animenewsnetwork.com",
+    "comicsbeat.com",
+    "creativebloq.com",
+    "engadget.com",
+    "venturebeat.com",
+    "khan.co.kr",
+    "newsis.com",
+    "yna.co.kr",
+    "hankyung.com",
+    "chosun.com",
+    "youtube.com"
    ]
   }
  ],
  "avoid_recent": [
+  {
+   "date": "2026-09-02",
+   "headline": "AI가 더 잘하냐고 묻지 말라 ‘딸깍 번역’ 시대 번역가의 자리",
+   "url": "https://www.khan.co.kr/article/202608301542001/"
+  },
+  {
+   "date": "2026-09-02",
+   "headline": "AI가 정보를 쏟아내는 시대에 대학 도서관은 오히려 더 중요해진다",
+   "url": "https://scholarlykitchen.sspnet.org/2026/09/01/guest-post-the-human-layer-why-ai-makes-academic-libraries-more-essential-not-less-2/"
+  },
+  {
+   "date": "2026-09-02",
+   "headline": "변호사 수임료를 둘러싼 항소로 앤스로픽 합의금 지급이 밀린다",
+   "url": "https://selfpublishingadvice.org/delay-anthropic-payout/"
+  },
+  {
+   "date": "2026-09-02",
+   "headline": "출판사 콘텐츠를 AI 기업에 주고 수익을 나누는 ‘지식 플랫폼’ 구상",
+   "url": "https://www.tsisalaw.com/news/article.html?no=30370"
+  },
+  {
+   "date": "2026-09-02",
+   "headline": "“Zlibrary my beloved” 소니 소송에 등장한 앤스로픽 사내 대화",
+   "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
+  },
   {
    "date": "2026-09-01",
    "headline": "전자책을 나가지 않고 묻는다 Elsevier의 의료 교재 AI",
@@ -120,79 +241,29 @@
    "url": "https://publishingperspectives.com/2026/08/recognizing-human-contributions-longlist-revealed-for-the-26th-getabstract-international-book-award-for-business-impact/"
   },
   {
-   "date": "2026-08-27",
-   "headline": "모노그래프 위기 앞의 우크라이나 원조가 아니라 대등한 지적 파트너십",
-   "url": "https://scholarlykitchen.sspnet.org/2026/08/26/guest-post-from-charity-to-intellectual-partnership-the-global-monograph-crisis-artificial-intelligence-and-the-future-of-open-access-through-the-lens-of-ukraine/"
+   "date": "2026-08-31",
+   "headline": "하티트러스트, 500만 달러로 1900만 권을 AI 코퍼스로",
+   "url": "https://www.infodocket.com/2026/08/27/hathitrust-awarded-5-million-5-year-mellon-grant-to-enable-ai-driven-access-and-discovery/"
   },
   {
-   "date": "2026-08-27",
-   "headline": "하퍼콜린스 새 만화 임프린트 카제 US AI 번역은 쓰지 않겠다고 못 박았다",
-   "url": "https://www.animenewsnetwork.com/news/2026-08-23/kaze-us-manga-imprint-plans-to-launch-with-5-8-titles-in-2027-to-grow-to-25-30-titles-per-year-by-/.240866"
+   "date": "2026-08-31",
+   "headline": "작가 노린 AI 사기 메일, 이제 제작사와 문학 에이전트를 사칭한다",
+   "url": "https://writerbeware.blog/2026/08/28/production-companies-literary-agents-foreign-languages-ai-driven-scams-continue-to-morph/"
   },
   {
-   "date": "2026-08-27",
-   "headline": "워터마크를 넣는 쪽과 탐지하는 쪽 편집자가 서 있는 자리는 그 사이",
-   "url": "https://bookriot.com/welcome-to-the-uncanny-valley/"
+   "date": "2026-08-31",
+   "headline": "AI 소설이 몰린 일본 문학상 응모 400편에서 1012편으로",
+   "url": "https://www.huffingtonpost.kr/article/259630"
   },
   {
-   "date": "2026-08-27",
-   "headline": "인디 만화 연합이 미국에서 출범했다 Libro.fm은 전자책으로 발을 넓힌다",
-   "url": "https://selfpublishingadvice.org/podcast-indie-manga-alliance-launches/"
+   "date": "2026-08-31",
+   "headline": "AI로 만든 내용은 반드시 표시하라 베트남 개정 출판법이 통과됐다",
+   "url": "https://thenewpublishingstandard.com/2026/08/26/vietnam-publishing-law-ai-copyright/"
   },
   {
-   "date": "2026-08-27",
-   "headline": "AI가 쓴 이야기에 더 높은 별점 사람 글보다 높았다는 연구 결과",
-   "url": "https://bookriot.com/library-news-updates-august-2026/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "구글, 전자책에 질문하는 기능을 연다",
-   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101136-google-launches-expert-intelligence-adding-interactivity-to-e-books.html"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "아마존이 책을 스캔하고 폐기하는 창고",
-   "url": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "학술 기록에 스며든 유령 저자들",
-   "url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "AI 전면 금지가 장애 작가를 밀어낸다",
-   "url": "https://www.thebookseller.com/comment/publishing-is-unfairly-excluding-disabled-authors-who-use-ai"
-  },
-  {
-   "date": "2026-08-28",
-   "headline": "AI 사용을 먼저 밝힌 편집실",
-   "url": "https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "AI 학습용 책 파쇄, FTC에 조사 요청",
-   "url": "https://janefriedman.com/ftc-asked-to-investigate-destruction-of-books/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "생성 아닌 편집에 찍히는 클로드 워터마크",
-   "url": "https://janefriedman.com/how-claude-watermarking-works-some-accuse-anthropic-of-compliance-theatre/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "카탈로그는 38배 늘고 매출은 8.9배에 그쳤다",
-   "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "웹툰 주인공과 대화하는 네이버웹툰의 AI 스토리챗",
-   "url": "https://www.newsis.com/view/NISX20260818_0003753111"
-  },
-  {
-   "date": "2026-08-29",
-   "headline": "봇이 책을 쓰기 시작한 출판 현장",
-   "url": "https://theweek.com/culture-life/books/when-bots-write-books-ai-publishing-industry"
+   "date": "2026-08-31",
+   "headline": "AI 학습에 공정이용을 물었더니 미 연방법원 세 곳이 갈라섰다",
+   "url": "https://www.copyright.com/blog/the-heart-of-the-matter-copyright-ai-training-llms-part-3/"
   },
   {
    "date": "2026-08-30",
@@ -220,29 +291,62 @@
    "url": "https://www.publishersweekly.com/pw/newsbrief/index.html?record=5999"
   },
   {
-   "date": "2026-08-31",
-   "headline": "하티트러스트, 500만 달러로 1900만 권을 AI 코퍼스로",
-   "url": "https://www.infodocket.com/2026/08/27/hathitrust-awarded-5-million-5-year-mellon-grant-to-enable-ai-driven-access-and-discovery/"
+   "date": "2026-08-29",
+   "headline": "AI 학습용 책 파쇄, FTC에 조사 요청",
+   "url": "https://janefriedman.com/ftc-asked-to-investigate-destruction-of-books/"
   },
   {
-   "date": "2026-08-31",
-   "headline": "작가 노린 AI 사기 메일, 이제 제작사와 문학 에이전트를 사칭한다",
-   "url": "https://writerbeware.blog/2026/08/28/production-companies-literary-agents-foreign-languages-ai-driven-scams-continue-to-morph/"
+   "date": "2026-08-29",
+   "headline": "생성 아닌 편집에 찍히는 클로드 워터마크",
+   "url": "https://janefriedman.com/how-claude-watermarking-works-some-accuse-anthropic-of-compliance-theatre/"
   },
   {
-   "date": "2026-08-31",
-   "headline": "AI 소설이 몰린 일본 문학상 응모 400편에서 1012편으로",
-   "url": "https://www.huffingtonpost.kr/article/259630"
+   "date": "2026-08-29",
+   "headline": "카탈로그는 38배 늘고 매출은 8.9배에 그쳤다",
+   "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/"
   },
   {
-   "date": "2026-08-31",
-   "headline": "AI로 만든 내용은 반드시 표시하라 베트남 개정 출판법이 통과됐다",
-   "url": "https://thenewpublishingstandard.com/2026/08/26/vietnam-publishing-law-ai-copyright/"
+   "date": "2026-08-29",
+   "headline": "웹툰 주인공과 대화하는 네이버웹툰의 AI 스토리챗",
+   "url": "https://www.newsis.com/view/NISX20260818_0003753111"
   },
   {
-   "date": "2026-08-31",
-   "headline": "AI 학습에 공정이용을 물었더니 미 연방법원 세 곳이 갈라섰다",
-   "url": "https://www.copyright.com/blog/the-heart-of-the-matter-copyright-ai-training-llms-part-3/"
+   "date": "2026-08-29",
+   "headline": "봇이 책을 쓰기 시작한 출판 현장",
+   "url": "https://theweek.com/culture-life/books/when-bots-write-books-ai-publishing-industry"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "구글, 전자책에 질문하는 기능을 연다",
+   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101136-google-launches-expert-intelligence-adding-interactivity-to-e-books.html"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "아마존이 책을 스캔하고 폐기하는 창고",
+   "url": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "학술 기록에 스며든 유령 저자들",
+   "url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "AI 전면 금지가 장애 작가를 밀어낸다",
+   "url": "https://www.thebookseller.com/comment/publishing-is-unfairly-excluding-disabled-authors-who-use-ai"
+  },
+  {
+   "date": "2026-08-28",
+   "headline": "AI 사용을 먼저 밝힌 편집실",
+   "url": "https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/"
   }
+ ],
+ "avoid_themes": [
+  "Anthropic/Google/Meta AI training copyright lawsuits and settlement mechanics (heavily covered 08-28~09-02)",
+  "AI-text detection studies and Amazon market-dilution research",
+  "AI scam solicitations targeting authors",
+  "ask-the-ebook AI assistants from Google/Elsevier",
+  "blind AI-vs-human audiobook narration surveys",
+  "national library AI sandbox/corpus grants"
  ]
 }
