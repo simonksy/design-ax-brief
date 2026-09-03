@@ -1,283 +1,288 @@
 {
- "date": "2026-09-03",
- "section": "gadgets",
- "now_iso": "2026-09-02T22:00:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Gemini for Home just fixed one of its strangest limitations",
-   "url": "https://www.androidauthority.com/google-home-gemini-upgrades-september-2026-3706505/",
-   "source": "Android Authority",
-   "domain": "androidauthority.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T21:41:38+00:00",
-   "excerpt": "Google's September update gives Gemini for Home better media and smart-home control plus easier automation management, closing gaps that made the LLM assistant worse than the old Assistant at basic tasks.",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
-   "keyword": "Gemini smart home"
-  },
-  {
-   "title": "My years-old gaming PC became the best AI machine in the house",
-   "url": "https://www.xda-developers.com/my-three-year-old-gaming-pc-became-the-best-ai-machine-in-the-house-and-it-only-needed-one-upgrade/",
-   "source": "XDA",
-   "domain": "xda-developers.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T20:30:16Z",
-   "excerpt": "A three-year-old gaming PC turned into the household's best local-inference box with a single upgrade — VRAM, the writer argues, is the new oil for on-device AI.",
-   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/main-image-local-inference.jpg?w=1600&h=900&fit=crop",
-   "keyword": "on-device AI"
-  },
-  {
-   "title": "Google has unveiled 5 new Android features, including Motion Assist and Guided V",
-   "url": "https://www.techradar.com/phones/android/5-new-features-coming-to-android-including-improvements-to-google-messages-gemini-live-and-find-hub",
-   "source": "TechRadar",
-   "domain": "techradar.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T18:00:00Z",
-   "excerpt": "Five new AI features are rolling out across Android, touching Google Messages, Gemini Live and Find Hub — the steady drip of assistant capability landing on existing phones.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/ycAgU6Md4TjW6QecczYgZn-1937-80.jpg",
-   "keyword": "AI smartphone"
-  },
-  {
-   "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-   "url": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-   "source": "9to5Mac",
-   "domain": "9to5mac.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T18:00:00+00:00",
-   "excerpt": "iOS 27 extends GymKit-style sensing to the iPhone and AirPods, letting the earbuds and phone stand in for a watch for workout tracking — wearable sensing without the wearable.",
-   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?resize=1200,628",
-   "keyword": "AI earbuds"
-  },
-  {
-   "title": "Amazon's AI assistant can now spot fake emails from the company",
-   "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-   "source": "The Verge",
-   "domain": "theverge.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T17:52:56+00:00",
-   "excerpt": "Alexa for Shopping will now check a suspicious text or email and tell you whether Amazon actually sent it — an assistant task framed as fraud defense rather than convenience.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "keyword": "Alexa+ device"
-  },
-  {
-   "title": "The best tech and gadgets announced at IFA so far",
-   "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-   "source": "The Verge",
-   "domain": "theverge.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T16:43:50+00:00",
-   "excerpt": "The Verge's running IFA 2026 roundup: a gaming handheld that doubles as a work machine, a robovac that seals itself to the floor, AI headphones and more repairable laptops.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704",
-   "keyword": "AI gadget"
-  },
-  {
-   "title": "Looks Like Smart Glasses Are a 'No' for OpenAI",
-   "url": "https://gizmodo.com/sam-altman-says-smart-glasses-uncomfortable-camera-2000806244",
-   "source": "Gizmodo",
-   "domain": "gizmodo.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T16:30:09+00:00",
-   "excerpt": "Sam Altman says he finds talking to people wearing face cameras uncomfortable, a notable signal from the company most expected to chase the AI glasses form factor.",
-   "og_image": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-13-1200x675.jpg",
-   "keyword": "smart glasses AI"
-  },
-  {
-   "title": "Caira's AI mirrorless camera is getting 'Nano Banana for video editing'",
-   "url": "https://www.techradar.com/cameras/mirrorless-cameras/cairas-ai-mirrorless-camera-is-getting-nano-banana-for-video-editing-but-it-only-works-on-footage-youve-actually-shot",
-   "source": "TechRadar",
-   "domain": "techradar.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T16:00:00Z",
-   "excerpt": "Caira's generative video tools let you reshape footage with natural-language instructions, but only on clips you actually shot — keeping the original recording at the center of every edit.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa-2560-80.jpg",
-   "keyword": "AI camera"
-  },
-  {
-   "title": "Qualcomm's upcoming premium chip has Adreno 'Neural Fusion' GPU",
-   "url": "https://9to5google.com/2026/09/02/qualcomm-details-adreno-neural-fusion-gpu-for-next-snapdragon-chip/",
-   "source": "9to5Google",
-   "domain": "9to5google.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T13:00:00+00:00",
-   "excerpt": "Qualcomm detailed a next-gen Snapdragon GPU whose 'Neural Fusion' block folds neural rendering into the graphics pipeline — an on-device AI upscaling path baked into the phone silicon itself.",
-   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Adreno-Neural-Fusion-Snapdragon-1.jpg?quality=82&strip=all&resize=1200,628",
-   "keyword": "edge AI chip"
-  },
-  {
-   "title": "Researchers build a $7 smartphone clip-on that spots hidden cameras",
-   "url": "https://www.tomshardware.com/cameras/korean-researchers-build-usd7-hidden-camera-detector-gadget-uses-led-lights-and-ai-to-separate-reflections-from-lenses",
-   "source": "Tom's Hardware",
-   "domain": "tomshardware.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T12:20:00Z",
-   "excerpt": "Korean researchers built a $7 phone clip-on that uses a dynamic LED grid plus AI to separate lens reflections from ordinary glare, hitting 94% accuracy at finding hidden cameras.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/HEocSqrV3wDVHcMjQC5oXm-1920-80.png",
-   "keyword": "AI camera"
-  },
-  {
-   "title": "Circular's New Smart Ring Brings Mobile Payments to Your Finger",
-   "url": "https://www.cnet.com/tech/mobile/circular-ring-3-pro-slim-nfc-mobile-payments/",
-   "source": "CNET",
-   "domain": "cnet.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T12:17:50-04:00",
-   "excerpt": "The Circular Ring 3 Pro and Slim add NFC payments and haptics while keeping the AI health coach and core insights subscription-free — a rare no-paywall pitch in the smart ring category.",
-   "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/CircularRing3.jpg",
-   "keyword": "smart ring AI"
-  },
-  {
-   "title": "iRobot's new $1,199 Roomba Max 875 Combo is its most powerful robot yet",
-   "url": "https://www.engadget.com/2249331/irobot-roomba-max-875-plus-678-combo/",
-   "source": "Engadget",
-   "domain": "engadget.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T11:34:36+00:00",
-   "excerpt": "iRobot launched the $1,199 Roomba Max 875 Combo and $899 Roomba Plus 678 Combo at IFA 2026, leaning on smarter obstacle and surface recognition to justify the flagship price.",
-   "og_image": "https://www.engadget.com/img/gallery/irobots-new-1199-roomba-max-875-combo-is-its-most-powerful-robot-yet/l-intro-1788348805.jpg",
-   "keyword": "AI robot vacuum"
-  },
-  {
-   "title": "Acer debuts Aspire G 3D 16: glasses-free 3D laptop that can run large AI models locally",
-   "url": "https://www.notebookcheck.net/Acer-debuts-Aspire-G-3D-16-Glasses-free-3D-gaming-laptop-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.1385303.0.html",
-   "source": "Notebookcheck",
-   "domain": "notebookcheck.net",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T11:30:00+02:00",
-   "excerpt": "Acer's Aspire G 3D 16 pairs a glasses-free 3D 3840x2400 120 Hz panel with a Ryzen AI Max+ 395 and up to 128 GB RAM, aimed at creatives who want local model inference on the same machine.",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-debuts-Aspire-G-3D-16-gaming-laptop-3D-display-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.jpg",
-   "keyword": "NPU laptop"
-  },
-  {
-   "title": "Asus puts a petaflop of AI ambition into ProArt laptops",
-   "url": "https://www.digitaltrends.com/computing/asus-puts-a-petaflop-of-ai-ambition-into-proart-laptops/",
-   "source": "Digital Trends",
-   "domain": "digitaltrends.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T11:29:29-07:00",
-   "excerpt": "At IFA 2026 Asus pushed its creator-focused ProArt P16 and P14 deeper into local AI, claiming petaflop-class performance for on-machine generative work.",
-   "og_image": "https://www.digitaltrends.com/tachyon/2026/09/DT-75.jpg?resize=1200%2C630",
-   "keyword": "NPU laptop"
-  },
-  {
-   "title": "Norway takes aim at smart glasses with plans for tighter regulations",
-   "url": "https://www.digitaltrends.com/wearables/norway-mulls-ban-on-smart-glasses-before-they-become-a-bigger-privacy-problem/",
-   "source": "Digital Trends",
-   "domain": "digitaltrends.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T11:29:27-07:00",
-   "excerpt": "Norway's digital minister is weighing strict smart-glasses rules including a ban on facial recognition, arguing always-on face computers erase public anonymity.",
-   "og_image": "https://www.digitaltrends.com/tachyon/2024/02/ray-ban-meta-wayfarer.jpg?resize=1200%2C630",
-   "keyword": "smart glasses AI"
-  },
-  {
-   "title": "Google Pixel Watch 5 gets offline Gemini and new gestures in September update",
-   "url": "https://www.notebookcheck.net/Google-Pixel-Watch-5-gets-offline-Gemini-and-new-gestures-in-September-update.1385731.0.html",
-   "source": "Notebookcheck",
-   "domain": "notebookcheck.net",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T11:17:00+02:00",
-   "excerpt": "Google's first big Pixel Watch 5 update adds offline Gemini and expanded one-handed gestures, putting an assistant on the wrist that keeps working without a phone or network.",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Google-Pixel-Watch5.jpg",
-   "keyword": "AI wearable"
-  },
-  {
-   "title": "Acer shows off its AI desktop future with the RTX Spark design",
-   "url": "https://www.engadget.com/2248794/acer-shows-off-its-ai-desktop-future-with-the-rtx-spark-design/",
-   "source": "Engadget",
-   "domain": "engadget.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T09:30:00+00:00",
-   "excerpt": "Acer's IFA concept desktop is built around NVIDIA's RTX Spark local-AI hardware, positioning a personal machine that runs large models on the desk rather than in a data center.",
-   "og_image": "https://www.engadget.com/img/gallery/acer-shows-off-its-ai-desktop-future-with-its-rtx-spark-design/l-intro-1788285235.jpg",
-   "keyword": "AI hardware"
-  },
-  {
-   "title": "I tried Rokid's AI + AR glasses for a month",
-   "url": "https://www.tomsguide.com/computing/smart-glasses/i-tried-rokids-ai-ar-glasses-for-a-month-and-the-general-bad-vibes-i-have-around-wearables-are-slowly-subsiding-but-i-cant-stop-worrying-about-my-personal-data",
-   "source": "Tom's Guide",
-   "domain": "tomsguide.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-02T04:39:51Z",
-   "excerpt": "A month of daily wear with Rokid's AI + AR glasses: the reviewer's general unease about face-worn wearables eased, but the data questions never went away.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/94zQe5Pvd9sXZB7cWXzyeb-2560-80.jpg",
-   "keyword": "smart glasses AI"
-  },
-  {
-   "title": "HUMAIN Horizon Ultra AI PC unveiled with Snapdragon X2 Elite and on-device AI",
-   "url": "https://www.digitaltrends.com/computing/humain-horizon-ultra-ai-pc-unveiled-with-snapdragon-x2-elite-and-on-device-ai/",
-   "source": "Digital Trends",
-   "domain": "digitaltrends.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-01T20:07:25-07:00",
-   "excerpt": "Qualcomm and HUMAIN showed the Horizon Ultra at LEAP 2026: a Snapdragon X2 Elite AI PC that runs models locally and only escalates to the cloud when a task needs more headroom.",
-   "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Snapdragon-X2-Elite.jpg?resize=1200%2C630",
-   "keyword": "Snapdragon AI PC"
-  },
-  {
-   "title": "New Android Drop adds remembered items in Find Hub, connects Gemini to Find Hub",
-   "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
-   "source": "Ars Technica",
-   "domain": "arstechnica.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-01T18:00:02+00:00",
-   "excerpt": "September's Android Drop wires Gemini into Find Hub so the assistant can recall where you left physical items, alongside new Keep and Messages features rolling out across the ecosystem.",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-   "keyword": "AI smartphone"
-  },
-  {
-   "title": "Perplexity launches privacy-minded 'hybrid compute' AI feature for Mac",
-   "url": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
-   "source": "9to5Mac",
-   "domain": "9to5mac.com",
-   "category": "gadgets",
-   "published_iso": "2026-09-01T15:20:50+00:00",
-   "excerpt": "Perplexity's new Hybrid Compute keeps sensitive AI work on the Mac's own silicon and only reaches for the cloud when a query needs more power — a local-first split for desktop assistants.",
-   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?resize=1200,628",
-   "keyword": "on-device AI"
-  },
-  {
-   "title": "Framework's 192 GB Ryzen AI Max 400 desktop inches closer to launch",
-   "url": "https://www.notebookcheck.net/Framework-s-192-GB-Ryzen-AI-Max-400-desktop-inches-closer-to-launch.1383390.0.html",
-   "source": "Notebookcheck",
-   "domain": "notebookcheck.net",
-   "category": "gadgets",
-   "published_iso": "2026-08-30T21:12:00+02:00",
-   "excerpt": "Framework detailed a desktop built on AMD's Ryzen AI Max+ Pro 495 with up to 192 GB unified memory — enough local memory to hold large models entirely on the machine.",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Framework-Gorgon-Halo-Desktop-header.png",
-   "keyword": "on-device AI"
-  },
-  {
-   "title": "I tested the Google Pixel 11, and it's a fun blend of social media and AI magic",
-   "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-review",
-   "source": "Android Central",
-   "domain": "androidcentral.com",
-   "category": "gadgets",
-   "published_iso": "2026-08-29T15:10:00Z",
-   "excerpt": "A full review of the Pixel 11, where Google's on-device AI features are pitched less as productivity and more as playful, social creation tools.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/b5BJxHtKg6ZNPEksyUxVB9-2000-80.jpg",
-   "keyword": "AI smartphone"
-  },
-  {
-   "title": "Apple will be launching its first pair of smart glasses next year: Here's what's coming",
-   "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
-   "source": "9to5Mac",
-   "domain": "9to5mac.com",
-   "category": "gadgets",
-   "published_iso": "2026-08-29T14:48:00+00:00",
-   "excerpt": "A roundup of what Apple's first AI smart glasses are expected to do, from Visual Intelligence-style scene understanding to a revamped Siri — Apple's answer to the Meta Ray-Ban category.",
-   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&strip=all&resize=1200,628",
-   "keyword": "smart glasses AI"
-  },
-  {
-   "title": "Gemini Intelligence requires Gemini Nano 3, Google lists first Nano 4 phones",
-   "url": "https://9to5google.com/2026/08/27/gemini-intelligence-nano-4/",
-   "source": "9to5Google",
-   "domain": "9to5google.com",
-   "category": "gadgets",
-   "published_iso": "2026-08-27T21:59:06+00:00",
-   "excerpt": "Google's updated developer docs show Gemini Intelligence now depends on the Gemini Nano 3 on-device model, and name the first phones that will ship with Nano 4 — the local model tier that gates which handsets get generative features at all.",
-   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-intelligence-3.jpg?quality=82&strip=all&resize=1200,628",
-   "keyword": "on-device AI"
-  }
- ]
+  "date": "2026-09-04",
+  "section": "gadgets",
+  "now_iso": "2026-09-03T22:00:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "We Just Got Our First Real Look at AI PCs With Nvidia's RTX Spark 'Superchip'",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "source": "WIRED",
+      "published_iso": "2026-09-03T13:00:00+00:00",
+      "excerpt": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+      "og_image": "https://media.wired.com/photos/6a988e1369e7125a8c650442/191:100/w_1280,c_limit/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
+      "category": "gadgets",
+      "note": "Anchor story for the on-device-AI beat: the first consumer machines built to run models locally. Directly changes what a designer can run on their own desk without a cloud bill."
+    },
+    {
+      "title": "Lenovo just put NVIDIA's Arm superchip in two Yoga laptops, with AI-centric memory configurations",
+      "url": "https://www.techradar.com/pro/lenovo-just-put-nvidias-arm-superchip-in-two-yoga-laptops-but-professionals-might-be-more-enthused-by-their-ai-centric-memory-configurations",
+      "source": "TechRadar",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "excerpt": "Lenovo is putting NVIDIA's Arm superchip in a Yoga with up to 128GB of unified memory — enough to run a relatively large LLM entirely on-device, which for regulated firms doubles as a compliance feature.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/AcyLnQZRWcT4KmdyLmF46i-2000-80.png",
+      "category": "gadgets",
+      "note": "The productized version of the Wired RTX Spark story — same silicon, shipping laptop. Overlaps with the WIRED item; curator should pick one."
+    },
+    {
+      "title": "Lenovo debuts ThinkCentre X Ultra mini PC with Ryzen AI Max+ Pro 495, 128 GB RAM and 131 TOPS",
+      "url": "https://www.notebookcheck.net/Lenovo-debuts-powerful-ThinkCentre-X-Ultra-mini-PC-with-AMD-Ryzen-AI-Max-Pro-495-CPU-128-GB-RAM-and-131-TOPS-to-run-OpenClaw-and-AI-apps.1381010.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "excerpt": "The Lenovo ThinkCentre X Ultra couples an AMD Ryzen AI Max+ PRO 495 with up to 128 GB of RAM for 131 total TOPS, and four units can be clustered to run very large AI models with over 500 TOPS of compute.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Lenovo-debuts-powerful-ThinkCentre-X-Ultra-mini-PC-with-AMD-Ryzen-AI-Max-Pro-495-CPU-128-GB-RAM-and-55-TOPS-to-run-OpenClaw-and-AI-apps.jpg",
+      "category": "gadgets",
+      "note": "Desk-side local-inference box: a studio can cluster four for 500+ TOPS instead of renting cloud GPUs."
+    },
+    {
+      "title": "Nvidia PAIR utility joins every GPU in your home into a cluster for agentic AI tasks",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "excerpt": "Nvidia's Personal AI Router (PAIR) lets agentic AI workloads take advantage of every spare GPU cycle on a home network, promising faster execution and more private inference.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg",
+      "category": "gadgets",
+      "note": "Software that turns existing hardware into a local agent farm — a real workflow shift for small studios running agent swarms."
+    },
+    {
+      "title": "Lenovo ditches fans for solid-state AirJet in a 1.8-pound AeroBlade concept, plus a rollable 14-to-17-inch notebook",
+      "url": "https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "excerpt": "Lenovo's Project Swan puts a 17-inch, 16:9 rollable display inside a 14-inch, 3.5-pound chassis, while the fanless AeroBlade concept uses solid-state AirJet cooling.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH-1999-80.jpg",
+      "category": "gadgets",
+      "note": "Industrial-design angle: expanding canvas + silent chassis is a direct hardware answer to how creatives want more screen without more bag."
+    },
+    {
+      "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
+      "url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
+      "source": "Engadget",
+      "published_iso": "2026-09-03T22:00:00+00:00",
+      "excerpt": "Ugreen has three new HomeAgent hubs that run your smart home with local AI rather than the cloud, with the top model built on Nvidia silicon.",
+      "og_image": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg",
+      "category": "gadgets",
+      "note": "Ambient computing moving off the cloud — the privacy/latency argument arriving as shipping hardware."
+    },
+    {
+      "title": "Anker's New MindBase Home Hub Runs AI Locally, Doubles as NAS",
+      "url": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras/",
+      "source": "MacRumors",
+      "published_iso": "2026-09-03T07:30:00+00:00",
+      "excerpt": "Anker announced MindBase, an AI home hub for nearly 100 Anker and Matter devices, equipped with an AI Core compute card and the on-device Anker TrueSmart AI, working alongside HomeKit.",
+      "og_image": "https://images.macrumors.com/t/0nMfMtoJbK_d7XVpjxZrmTroMAo=/2517x/article-new/2026/09/anker-doorbell.jpg",
+      "category": "gadgets",
+      "note": "Second data point on the local-AI-hub trend at IFA; overlaps thematically with Ugreen HomeAgent."
+    },
+    {
+      "title": "HTC challenges Meta for the US smart glasses market with Vive Eagle",
+      "url": "https://www.androidauthority.com/htc-vive-eagle-us-3706492/",
+      "source": "Android Authority",
+      "published_iso": "2026-09-03T13:00:39+00:00",
+      "excerpt": "HTC introduced its Vive Eagle AI smart glasses last summer, and is now finally expanding availability to the US market.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/htc-vive-eagle-round-brown.jpg",
+      "category": "gadgets",
+      "note": "Smart-glasses category widening beyond Meta. Overlaps with the CNET snap-on battery piece below — same device, different angle."
+    },
+    {
+      "title": "These Meta Glasses Alternatives Found a Way to Last Longer With Snap-On Batteries",
+      "url": "https://www.cnet.com/tech/mobile/these-meta-glasses-alternatives-found-a-way-to-last-longer-with-snap-on-batteries/",
+      "source": "CNET",
+      "published_iso": "2026-09-03T13:05:13+00:00",
+      "excerpt": "HTC's Vive Eagle do a lot of what Meta's glasses do, cameras included, but the snap-on extra battery might be a sign of where Meta and others head next.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/HTC.Vive_.Eagle_.2.jpg",
+      "category": "gadgets",
+      "note": "Industrial-design read on the biggest constraint in AI glasses — battery. Duplicate subject with the Android Authority Vive Eagle item."
+    },
+    {
+      "title": "This desktop robot companion is also an AI wearable you can wear around your neck",
+      "url": "https://www.androidauthority.com/ikairos-modular-ai-wearable-3706717/",
+      "source": "Android Authority",
+      "published_iso": "2026-09-03T16:00:25+00:00",
+      "excerpt": "Lingverse showcased a modular AI wearable at IFA 2026 that switches between a desktop AI companion and a wearable AI pendant.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-1.jpg",
+      "category": "gadgets",
+      "note": "Form-factor experiment for the post-phone AI companion — desk object and pendant in one enclosure."
+    },
+    {
+      "title": "Flowtica Verso snaps onto your phone with an e-paper display for AI-powered meeting notes",
+      "url": "https://www.androidauthority.com/flowtica-verso-3706837/",
+      "source": "Android Authority",
+      "published_iso": "2026-09-03T14:10:42+00:00",
+      "excerpt": "Flowtica Verso is a $299 MagSafe AI companion with an e-paper touchscreen, a five-mic recording array, and direct meeting insights.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/flowtica-verso-ifa-1.jpg",
+      "category": "gadgets",
+      "note": "Accessory-shaped AI device instead of a standalone gadget — a plausible answer to the Humane/Rabbit failure mode."
+    },
+    {
+      "title": "Circular's new smart rings add contactless payments and vibrating alerts",
+      "url": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
+      "source": "The Verge",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "excerpt": "Circular announced the Ring 3 Pro and Ring 3 Slim at IFA 2026, adding NFC contactless payments and haptic alerts to its AI health wearable line.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/circular1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "category": "gadgets",
+      "note": "Smart rings absorbing phone functions — wearable output moving from screens to haptics."
+    },
+    {
+      "title": "Meet the mass-produced humanoid robot that wants to steal your face",
+      "url": "https://www.tomsguide.com/ai/meet-the-mass-produced-humanoid-robot-that-wants-to-steal-your-face",
+      "source": "Tom's Guide",
+      "published_iso": "2026-09-03T16:01:48+00:00",
+      "excerpt": "China's UBTECH is launching a line of lifelike humanoid robots that can be customized to resemble designated individuals.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/FbPb5Txvg8G8rU5w4mCBMU-2560-80.jpg",
+      "category": "gadgets",
+      "note": "Character/likeness design as a manufacturing decision — raises the same consent questions designers hit with generative likeness."
+    },
+    {
+      "title": "This AI-powered exoskeleton supports your entire lower body — and still fits inside a backpack",
+      "url": "https://www.tomsguide.com/wellness/fitness/hypershell-halo-ifa-2026",
+      "source": "Tom's Guide",
+      "published_iso": "2026-09-03T14:38:32+00:00",
+      "excerpt": "The Hypershell Halo brings full lower-body support and 49% more peak power than the X Ultra, while still packing into a backpack.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kNsHSPBUgLXNeJdToB66q9-2560-80.jpg",
+      "category": "gadgets",
+      "note": "Wearable robotics as a consumer product category — hard industrial-design problem solved in public at IFA."
+    },
+    {
+      "title": "I just watched a robot vacuum actually climb stairs — the Roborock Rover",
+      "url": "https://www.tomsguide.com/home/home-appliances/i-just-watched-a-robot-vacuum-actually-climb-stairs-it-took-3-minutes-but-those-steps-were-sparkling-after",
+      "source": "Tom's Guide",
+      "published_iso": "2026-09-03T14:42:31+00:00",
+      "excerpt": "The Roborock Rover is a stair-climbing robot vacuum, and it actually works — though it takes three minutes per flight and there's a catch.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uuBKgHRNDDcB8SJs5zbSFV-2455-80.jpg",
+      "category": "gadgets",
+      "note": "Hands-on with the year's most-hyped home-robot mechanism; useful as a reality check on robot capability claims."
+    },
+    {
+      "title": "Dyson's New Robot Vacuums Aim at Shark With UV Stain Detection and Powerful Scrubbing",
+      "url": "https://www.cnet.com/home/kitchen-and-household/dysons-new-robot-vacuums-aim-at-shark-with-uv-stain-detection-and-powerful-scrubbing/",
+      "source": "CNET",
+      "published_iso": "2026-09-03T17:25:33+00:00",
+      "excerpt": "Dyson's IFA 2026 robot vacuums pair smarter AI perception with UV stain detection and triangular brushes aimed at cleaning floors better.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Image_20260903_180426_418.jpeg",
+      "category": "gadgets",
+      "note": "AI perception (UV stain sensing) becoming the differentiator in a mature hardware category."
+    },
+    {
+      "title": "DJI Romo 2 series brings upgraded suction power and AI capabilities",
+      "url": "https://www.notebookcheck.net/DJI-Romo-2-series-brings-upgraded-suction-power-and-AI-capabilities.1386513.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-09-03T12:00:00+00:00",
+      "excerpt": "DJI unveiled two new robot vacuums, the Romo P2 and Romo A2, following their predecessors' design with the P2 in a transparent shell and the A2 in white.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/dji-romo-2-launch.jpg",
+      "category": "gadgets",
+      "note": "DJI's camera/vision stack applied to home robots; transparent-shell industrial design is the visual hook."
+    },
+    {
+      "title": "Gemini Spark rolling out Google Photos control for automated editing, sharing and more",
+      "url": "https://9to5google.com/2026/09/03/gemini-spark-google-photos/",
+      "source": "9to5Google",
+      "published_iso": "2026-09-03T21:44:42+00:00",
+      "excerpt": "The latest first-party app Gemini Spark can control is Google Photos, with the personal agent able to handle complex, multi-stage editing and sharing workflows.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&resize=1200,628",
+      "category": "gadgets",
+      "note": "On-phone agent now drives a photo editor end to end — the clearest design-workflow hook in today's phone news."
+    },
+    {
+      "title": "Perplexity launches privacy-minded 'hybrid compute' AI feature for Mac",
+      "url": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
+      "source": "9to5Mac",
+      "published_iso": "2026-09-01T15:20:50+00:00",
+      "excerpt": "Perplexity's Mac app adds a hybrid compute mode that keeps more processing local, after the company was featured in Apple's M6 Mac mini launch.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?resize=1200,628",
+      "category": "gadgets",
+      "note": "Local-vs-cloud split becoming a product feature on the machine designers actually work on. Carried over as an eligible backup from yesterday."
+    },
+    {
+      "title": "iOS 27 beta 8 now available as Apple tests major Siri AI upgrade",
+      "url": "https://9to5mac.com/2026/08/31/ios-27-beta-8/",
+      "source": "9to5Mac",
+      "published_iso": "2026-08-31T17:12:20+00:00",
+      "excerpt": "Apple released the eighth iOS 27 developer beta, continuing to test the major Siri AI overhaul ahead of release.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b8.jpg?quality=82&strip=all&resize=1200,628",
+      "category": "gadgets",
+      "note": "Apple Intelligence on-device assistant progress; weaker design hook, keep as depth."
+    },
+    {
+      "title": "The Best of IFA 2026: AI Dishwashers and Earbuds and Toothbrushes, Oh My!",
+      "url": "https://www.cnet.com/tech/best-of-ifa-2026/",
+      "source": "CNET",
+      "published_iso": "2026-09-03T21:32:35+00:00",
+      "excerpt": "Ahead of the IFA 2026 show floor opening, CNET got a sneak peek at the futuristic AI devices on display across the expo.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Project-Swan-2.jpg",
+      "category": "gadgets",
+      "note": "Single-card summary option if the curator wants one IFA overview instead of several product items."
+    },
+    {
+      "title": "'You can really unleash a lot of creativity': Philips Hue founder on why its AI upgrades will be genuinely useful",
+      "url": "https://www.techradar.com/home/smart-lights/you-can-really-unleash-a-lot-of-creativity-philips-hue-founder-george-yianni-explains-why-its-ai-upgrades-will-be-genuinely-useful-and-a-bit-of-a-game-changer",
+      "source": "TechRadar",
+      "published_iso": "2026-09-03T15:54:08+00:00",
+      "excerpt": "Philips Hue founder and CTO George Yianni explains why artificial intelligence and home lighting are a fit, and what he is most excited about next.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pDDw4MSDkMd2qEMb6TTPWm-800-80.jpg",
+      "category": "gadgets",
+      "note": "A designer/CTO talking about AI as a creative-authoring tool for light — closest thing in gadgets to a craft interview."
+    },
+    {
+      "title": "Govee's new ceiling light and LED strips are mood boosters with some AI sprinkled in",
+      "url": "https://9to5google.com/2026/09/02/govee-announces-ceiling-and-strip-lights/",
+      "source": "9to5Google",
+      "published_iso": "2026-09-03T06:00:00+00:00",
+      "excerpt": "Govee launched several new lighting products at IFA 2026, including a ceiling light that responds to daylight and AI-assisted scene creation.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Govee-Ceiling-Light-Sky.jpg?quality=82&strip=all&resize=1200,628",
+      "category": "gadgets",
+      "note": "Second lighting-AI item; pairs with the Philips Hue interview if the curator wants an ambient-design card."
+    },
+    {
+      "title": "Acer C350e Full HD projector debuts with cute design, AI Badge remote control and Google Gemini",
+      "url": "https://www.notebookcheck.net/Acer-C350e-Full-HD-projector-debuts-with-cute-design-AI-Badge-remote-control-and-Google-Gemini.1385679.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-09-02T09:30:00+00:00",
+      "excerpt": "Acer's C350e portable projector arrives with a duckling-yellow design, a rotating and tilting stand, AI-powered Gemini features and 350 ANSI lumens.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-C350e-Full-HD-projector-debuts-with-cute-design-AI-Badge-remote-control-and-Google-Gemini.jpg",
+      "category": "gadgets",
+      "note": "Character-led product design plus an assistant baked into the remote — an unusually design-forward AI device."
+    },
+    {
+      "title": "Researchers build a $7 smartphone clip-on that spots hidden cameras with AI",
+      "url": "https://www.tomshardware.com/cameras/korean-researchers-build-usd7-hidden-camera-detector-gadget-uses-led-lights-and-ai-to-separate-reflections-from-lenses",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-02T12:20:00+00:00",
+      "excerpt": "The $7 clip-on works with a companion AI app by shifting the position of an LED light source to compare reflections and identify hidden camera lenses, hitting 94% accuracy.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HEocSqrV3wDVHcMjQC5oXm-1920-80.png",
+      "category": "gadgets",
+      "note": "Cheap physical+AI hybrid design; carried over as an eligible backup flagged by yesterday's curator."
+    },
+    {
+      "title": "Steam Frame is Getting a Color Passthrough Camera Upgrade Add-on",
+      "url": "https://roadtovr.com/steam-frame-color-passthrough-camera-upgrade/",
+      "source": "Road to VR",
+      "published_iso": "2026-09-02T13:24:13+00:00",
+      "excerpt": "The component supplier behind Steam Frame's built-in camera tracking is officially producing a color passthrough module for the headset, which otherwise ships with monochrome passthrough.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/steam-frame-module.jpg",
+      "category": "gadgets",
+      "note": "Modular XR hardware — upgradeable sensing instead of a new headset generation."
+    },
+    {
+      "title": "Starclash Immersive Animated Experience Out Now On Apple Vision Pro & Quest",
+      "url": "https://www.uploadvr.com/starclash-immersive-film-out-not-on-apple-vision-pro-and-quest/",
+      "source": "UploadVR",
+      "published_iso": "2026-09-02T21:07:48+00:00",
+      "excerpt": "The 33-minute immersive experience Starclash makes you the star of an animated film on Apple Vision Pro and Quest headsets.",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/starclash-og.png",
+      "category": "gadgets",
+      "note": "Creative production made for headsets — the content side of the XR device story."
+    },
+    {
+      "title": "The Apple Vision Pro was used for a successful hip surgery",
+      "url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
+      "source": "Engadget",
+      "published_iso": "2026-09-03T21:14:11+00:00",
+      "excerpt": "Stryker says its SportSuite Vision software for the Apple Vision Pro received De Novo authorization from the FDA in July, and it has now been used in hip arthroscopy.",
+      "og_image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
+      "category": "gadgets",
+      "note": "Spatial UI leaving the demo phase for a regulated professional workflow — a serious interaction-design proof point."
+    }
+  ]
 }

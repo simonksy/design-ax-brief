@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "music",
   "cards": [
     {
-      "id": "music-tone3000-nam",
-      "tool": "Music",
+      "id": "music-audacity4-release",
       "eyebrow": "AI NEWS",
-      "headline": "TONE3000 무료 플러그인 공개\nNAM 캡처가 어떤 DAW에서든 열린다",
-      "body": "리눅스까지 지원하는 무료 플러그인 하나로 NAM 캡처 체인을 불러온다.",
-      "mini_headline": "무료가 된 NAM 재생기",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/",
+      "tool": "Music",
+      "headline": "오다시티 4가 AI 도구는 그대로 둔 채\n편집기 화면을 통째로 다시 그렸다",
+      "mini_headline": "오다시티 4 전면 개편",
+      "body": "클립 작업을 새로 짜면서도 스템 분리와 전사 같은 AI 도구는 그대로 뒀다.",
+      "source": "Gearnews",
+      "url": "https://www.gearnews.com/audacity-update-free/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -18,202 +18,152 @@
         "blocks": [
           {
             "t": "p",
-            "x": "TONE3000 플러그인이 macOS와 윈도우, 리눅스용으로 나왔다. 값은 무료다."
+            "x": "뮤즈 그룹이 오다시티 4를 내놨다. 회사 설명으로는 25년 역사에서 가장 큰 업데이트다. 클립을 편집하는 방식을 통째로 다시 짰고 인터페이스도 손봤다. audio.com과 맞물리는 지점은 더 촘촘해졌다. 값은 여전히 0원이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
+            "cap": "오다시티 4"
           },
           {
             "t": "p",
-            "x": "다른 기타 관련 소식을 다루면서 TONE3000 플랫폼은 여러 번 언급했다. 이 플랫폼은 수많은 기어 모델, 곧 NAM 프로파일을 열어주는데 이번 플러그인으로 그 길이 한결 짧아졌다."
+            "x": "클립끼리 겹칠 수 있게 됐다. 여러 클립을 한꺼번에 골라 편집하거나 묶어서 하나처럼 옮기는 것도 된다. 전부 비파괴 방식이라 잘라낸 소리는 클립을 다시 늘리면 돌아온다. 지운 자리를 뒤쪽 오디오가 어떻게 메울지는 리플 편집 옵션에서 고른다."
           },
           {
             "t": "p",
-            "x": "macOS와 윈도우야 예상 범위지만 리눅스까지 챙긴 건 반갑다."
+            "x": "커뮤니티가 오래 요청해온 Split 도구도 들어왔다. 재생 헤드 위치에서 트랙 하나든 여럿이든 단번에 나눈다. 클립 엔벨로프는 볼륨 오토메이션을 클립 안으로 끌고 들어와, 원본 녹음을 건드리지 않고 페이드를 그리게 한다. 내장 이펙트는 화면만 새로 그렸고 하는 일은 그대로다. 실시간 이펙트와 VST3·Audio Unit·LV2 지원도 남아 있다."
           },
           {
             "t": "p",
-            "x": "TONE3000이나 NAM 캡처가 처음이라면, 이건 잘 만든 Marshall JTM45나 Vox AC30 에뮬레이션 하나가 아니다. 앰프와 캐비닛, 페달, 아웃보드 기어로 이어지는 체인 전체다."
+            "x": "홈 화면은 이번에 처음 생겼다. 로컬 프로젝트와 audio.com에 올려둔 클라우드 프로젝트를 한자리에서 본다. 파일명 대신 썸네일로 늘어놓아 훑기가 쉽다. 워크스페이스는 작업 종류마다 화면 배치를 따로 저장해두는 기능이다. 팟캐스트 편집에서 음악 작업으로 넘어갈 때 앱을 통째로 다시 설정할 일이 없어졌다."
           },
           {
-            "t": "video",
-            "yt": "n1pjVTwa6LU"
-          },
-          {
-            "t": "p",
-            "x": "이 모델들은 소리만이 아니라 반응하는 거동까지 좋다. 과거 에뮬레이션이 무너지던 자리가 바로 거기였다."
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-01-1024x565.jpg",
+            "cap": "새로 그린 인터페이스"
           },
           {
             "t": "p",
-            "x": "다만 나 같은 사람에게 TONE3000 플러그인이 끌리는 이유는 접근성과 편의다."
+            "x": "겉모습도 뮤즈 그룹 말대로 역사상 가장 크게 바뀌었다. 툴바와 트랙 컨트롤을 재배치했고 재생·녹음 미터를 갈아 끼웠다. 재생 헤드는 늘 보이고 이동과 확대도 부드럽다. 라이트·다크 테마, 액센트 컬러 선택, 손본 고대비 모드가 붙는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-02-1024x565.jpg",
+            "cap": "정리된 툴바와 트랙 컨트롤"
           },
           {
             "t": "p",
-            "x": "Amplitube나 Amp Locker를 다룰 때도 말했듯 나는 기타리스트가 아니다. Richard Matheson의 I Am Legend 같은 종말 이후 세계에서 앨범을 만든다 해도 며칠만 더 기다리면 어디선가 기타리스트를 만나겠지, 하고 생각할 사람이다."
+            "x": "뮤즈 그룹 최고제품책임자 Julia Sazhina는 오다시티가 25년 넘게 창작자의 녹음과 편집을 도왔고, 4버전은 다음 25년을 버티게 하려는 것이라고 했다. 사람들이 이미 좋아하던 부분은 그대로 둔 채."
           },
           {
             "t": "p",
-            "x": "키보드나 일렉트릭 피아노를 물리는 경우가 아니면 고가 빈티지 기타 앰프를 살 일은 없다. TONE3000 같은 플러그인이 그 세계로 들어가는 입구이고, 데모를 얼기설기 엮기에도 알맞다."
-          },
-          {
-            "t": "p",
-            "x": "비싼 앰프를 살 마음이 있더라도 베드룸 프로듀서의 주머니는 대개 빠듯하다. 돈은 자기 강점에 써야 한다."
-          },
-          {
-            "t": "p",
-            "x": "게다가 이런 도구는 소리가 좋아서 실력 있는 기타리스트가 상업 작업물에 그대로 써도 무리가 없다. 실력과 무관하게 원하는 톤에 닿게 해준다는 뜻이고, 그건 근사한 일이다."
-          },
-          {
-            "t": "p",
-            "x": "빈티지 아웃보드까지 포함한 시그널 체인을 짜는 것 말고도, 플러그인 안에는 파라메트릭 EQ와 톤을 넓히는 Spread 컨트롤이 있고 좌우 체인을 똑같이 또는 다르게 구성할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "앰프 모델을 고르는 데서 끝나지도 않는다. 특정 세팅이나 다른 마이크로 딴 캡처도 불러온다."
-          },
-          {
-            "t": "p",
-            "x": "플러그인 버전 TONE3000은 방구석 기타리스트에게 반가운 소식이고, 리눅스 지원은 분명한 덤이다."
+            "x": "AI 도구는 자리를 지킨다. 인텔 OpenVINO 기반 플러그인 묶음이 스템 분리와 음악 생성, Whisper.cpp를 쓴 전사, 노이즈 억제를 맡는다. 오디오를 서버로 올리지 않고 PC 안에서 돈다. 4버전 역시 무료 오픈소스 그대로이고, 정식 배포는 뮤즈허브에서 받는다."
           }
         ]
       }
     },
     {
-      "id": "music-logic-pro-12-3-session-players",
-      "tool": "Music",
+      "id": "music-producely-dialr",
       "eyebrow": "AI NEWS",
-      "headline": "Cubase 30년 사용자가 본\nLogic Pro 12.3의 세션 플레이어",
-      "body": "Logic의 세션 플레이어와 스템 분리가 30년 Cubase 사용자를 흔들었다.",
-      "mini_headline": "세션 플레이어의 설득력",
-      "source": "MusicTech",
-      "url": "https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/",
+      "tool": "Music",
+      "headline": "다이얼러가 플러그인 라이브러리를 훑어\n노브 배치를 스스로 만들어 온다",
+      "mini_headline": "플러그인 읽는 다이얼러",
+      "body": "MIDI 러닝을 건너뛰고 내 플러그인에 맞춘 노브 프로파일을 클라우드가 만들어 보낸다.",
+      "source": "Gearnews",
+      "url": "https://www.gearnews.com/producely-dialr-studio/",
       "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "1989년 첫 버전부터 Cubase를 써온 Adam Crute가 Logic Pro 12.3을 다시 잡았다. Emagic 시절 Logic과 씨름하며 생긴 반감이 오래갔지만, 지금 물건은 그때와 다르다. 열어보니 두 DAW가 얼마나 닮았는지부터 눈에 들어왔다. 트랙 헤드와 콘텐츠 배치는 물론이고 인스펙터와 브라우저, 믹서를 꺼내는 사이드·하단 패널 구조까지 비슷하다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-hideous-legacy-plugins-credit-press@1400x1050.jpg",
-            "cap": "스큐어모픽 디자인의 잔재로 남은 Logic의 레거시 플러그인. 이미지: Press"
-          },
-          {
-            "t": "p",
-            "x": "불만도 있다. 폴더 트랙과 그룹 트랙이라는 별개의 개념을 Logic은 Stack Tracks 하나로 묶어놓아 혼란스럽다. 프로젝트를 만들 때마다 조표를 정하라고 요구하고, aux 트랙은 센드를 걸어야만 생긴다. 번들 악기 플러그인의 출력 레벨은 지나치게 뜨겁고, 눈이 아픈 레거시 플러그인도 너무 많다. Cubase의 드럼 에디터에 맞먹는 도구가 없어 드럼을 피아노 롤로 찍어야 하는 것도 오래된 아쉬움이다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-Project-Key-Signature-credit-press@1400x1050.jpg",
-            "cap": "Logic Pro 12.3의 프로젝트 조표 설정. 이미지: Press"
-          },
-          {
-            "t": "p",
-            "x": "그럼에도 좋아하게 된 대목이 적지 않다. 비선형 패턴 시퀀싱을 하는 Live Loops는 Cubase의 Groove Agent SE보다 타임라인과 훨씬 매끄럽게 맞물린다. Session Players는 프로젝트의 코드 진행과 리듬을 읽고 설득력 있는 베이스·드럼·건반 파트를 만들어내는데, Cubase 쪽 패턴 플레이어로는 근처에도 가기 어렵다. 스템 분리는 필자가 겪어본 최고 수준에 나란히 서거나 그 위였다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-Session-Players-credit-press@1400x1050.jpg",
-            "cap": "Logic Pro 12.3의 Session Players. 이미지: Press"
-          },
-          {
-            "t": "p",
-            "x": "12.3 자체의 변화는 짧게 끝난다. Beat Breaker가 슬라이스마다 필터와 레조넌스, 팬을 걸고 무작위로 흔들 수 있게 됐고, 루프 감지가 개선됐으며 Flex가 Smart Tempo와 붙었다. 코드를 잡아내는 Chord ID는 빨라지고 정확해졌다. Alchemy와 Sample Alchemy에는 그레인 포먼트를 조절하고 병렬 그레인 스트림을 겹치는 Sync 모드가 들어왔다."
-          },
-          {
-            "t": "p",
-            "x": "평점은 10점 만점에 8점. 업데이트가 빈약해 보여도 기존 사용자에게 무료이고, 199파운드라는 값은 Cubase Pro의 절반이 안 된다. 50GB가 넘는 콘텐츠까지 생각하면 값어치는 반박하기 어렵다. 결론은 이렇다. Cubase가 여전히 주력이지만 Logic도 자주 꺼내게 될 것 같다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-elastic-melody-bass-dfam",
-      "tool": "Music",
-      "eyebrow": "AI NEWS",
-      "headline": "Elastic Melody가 베이스와\nDFAM식 퍼커션까지 맡는다",
-      "body": "피치와 필터 드라이브 모드가 붙어 같은 엔진이 베이스와 타악까지 만든다.",
-      "mini_headline": "멜로디 밖으로 나간 엔진",
-      "source": "CDM (Create Digital Music)",
-      "url": "https://cdm.link/elastic-melody-1-2/",
-      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "Elastic Melody는 이미 Mac과 iPad, iPhone에서 즐겨 쓰는 멜로디 생성기였다. Dave Smith Evolver에서 영감을 얻은 내장 신스 엔진이 있고, 다른 앱이나 하드웨어로 신호를 내보낼 수도 있다. 여기에 Pitch와 Filter Drive 모드가 더해지면서 베이스라인 제조기이자 퍼커션 소스로도 쓰인다."
+            "x": "Superbooth25에서 처음 공개됐던 프로듀슬리 다이얼러가 드디어 주문을 받는다. 플러그인 컨트롤러다."
           },
           {
             "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/09/EM-Automation-1024x768.png"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
+            "cap": "프로듀슬리 다이얼러"
           },
           {
             "t": "p",
-            "x": "Oliver Greschke는 Elastic 라인에서 계속 좋은 흐름을 타고 있다. (밝혀두자면 나는 WretchUp 초기 버전과 Elastic OSC용 프리셋 모음 작업에 참여했다.) 내장 엔진도 엔진이지만 Elastic OSC를 비롯한 다른 앱에 멜로디를 물려줄 수 있다는 점 때문에 다시 만져보고 싶다."
+            "x": "만든 곳은 덴마크 코펜하겐의 프로듀슬리. 음악 기술 쪽에서 일하던 Morten Søderquist Li가 세운 신생 회사다."
           },
           {
             "t": "p",
-            "x": "일부는 인앱 구매로 열리지만, 무료 업데이트만으로도 받는 게 많다."
+            "x": "플러그인 컨트롤러라면 SSL이나 Softube가 내놓은 물건이 이미 있다. 다이얼러의 차이는 자동 매핑이다. 설치된 VST3와 AU 플러그인 라이브러리를 훑어 파라미터 정보를 프로듀슬리 AI 클라우드로 보내면, 서버가 그 조합에 맞는 컨트롤러 프로파일을 만들어 되돌려준다. 한번 받아둔 뒤로는 오프라인에서 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "7인치 LCD 터치스크린이 파라미터 이름과 값을 띄우고, 플러그인이나 페이지를 옮길 때마다 묶음을 알아서 다시 짠다. 노브는 여섯 개씩 두 줄, 크기를 셋으로 나눠 손이 위치를 외우게 했다. 화면 양옆의 스텝 인코더로는 플러그인 섹션을 넘기거나 값을 미세하게 잡고, DAW 트랙 사이도 오간다."
           },
           {
             "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/09/EM-New-Features-1024x768.jpg",
-            "cap": "스크린샷"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-01-1024x565.jpg",
+            "cap": "노브 12개와 7인치 터치스크린"
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-03-1024x565.jpg",
+            "cap": "뒷면"
           },
           {
             "t": "p",
-            "x": "오실레이터 파형이 네 개 늘었고 피치 모듈레이션이 들어왔다. FM과 FM decayed는 추가 구매 항목이다. 믹싱 화면도 손봐서 마스터 레벨과 볼륨 미터가 생기고 솔로·뮤트 위치가 편해졌으며, 트랙 이름은 길게 눌러 고친다."
+            "x": "붙는 범위는 넓다. 흔한 오디오 프로세서부터 소프트 신스, WesAudio와 Bettermaker 하드웨어를 조종하는 컨트롤 플러그인까지 받는다. 플러그인이 늘 때마다 매핑을 처음부터 다시 하지 않아도 된다는 점이 이 제품의 계산이다."
           },
           {
             "t": "p",
-            "x": "Rnd shift 노브는 영리한 아이디어다. 정해둔 반복 횟수마다 시퀀서가 노트의 피치를 무작위로 바꿔 패턴이 계속 굴러가고, 두 번 두드리면 원래 패턴으로 돌아온다. 변화를 주기에도, 애시드를 뽑기에도 좋다."
-          },
-          {
-            "t": "p",
-            "x": "오토메이션 녹음도 들어왔다. 위 화면에 보이는 그 큼직한 파형이다. FX 센드가 생겼고 EQ는 FX와 드라이 구간 끝으로 옮겨졌다. 새 Ping Pong Delay와 Datorro Reverb는 추가 구매다. 프리셋 관리와 즐겨찾기가 편해졌고, 타이밍과 블루투스 헤드폰 전환 시 성능, 버퍼 크기 스위치, macOS 동작도 나아졌다."
-          },
-          {
-            "t": "p",
-            "x": "이 모든 게 단독으로도, 데스크톱과 모바일 양쪽에서 AUv3 플러그인으로도 도는 앱 하나에 들어 있다. 빠른 무작위화와 Ableton Link 지원, 송 모드까지 갖췄으니 웬만한 쓰임새는 덮는 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "이번 릴리스에 맞춰 SOI와 Another Machines가 각각 프리셋을 내놓았다. Another Machines 쪽은 묵직한 테크노다."
-          },
-          {
-            "t": "p",
-            "x": "DFAM의 그림자가 다시 보인다. 스텝을 모듈레이션하고 노이즈를 얹는 것만으로 시퀀싱 신스가 퍼커션이 된다는 걸 Moog가 증명했다. 여기서는 피치 모듈레이션과 FM, 새 필터 타입이 그 발상을 Elastic답게 이어받는다."
-          },
-          {
-            "t": "p",
-            "x": "Elastic Melody는 원하는 무엇의 시퀀서로도 쓸 수 있고 거기엔 Elastic OSC도 포함된다. Oliver가 방금 이렇게 써 보냈다. “Elastic OSC는 깨끗하고 정밀하고 디지털이고, Elastic Melody는 아날로그에 따뜻하고 지저분하고 으르렁댄다.” 맞는 말 같다. 둘을 함께 쓰게 돼서 좋다."
-          },
-          {
-            "t": "p",
-            "x": "아래 둘러보기 영상을 보자. 초반 소리가 밋밋하게 들려도 계속 듣고 보시길. 그게 오히려 요점이다. 방향은 아주 다르게 흘러갈 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "6QkCBjgjkUM"
-          },
-          {
-            "t": "p",
-            "x": "어제 올린 아카이브 인터뷰에서 Mad Mike가 하던 말과도 곧장 이어진다. 남이 쓰던 구형 iPhone이나 iPad를 이삼백 달러에, 혹은 물려받아 이 앱으로 테크노를 만들면 누군가는 모듈러 시스템인 줄 알 것이다. 소비 전자 제품으로 지구를 갉아먹는 업그레이드 주기에 다 같이 갇히자는 말은 아니다. 다만 저 실리콘 안에 잠든 여력이 얼마나 큰지는 봐야 한다."
+            "x": "현재 예약 주문을 받고 있고, 배송은 몇 주 안에 시작한다."
           }
         ]
       }
     },
     {
-      "id": "music-lucinate-video-synth",
-      "tool": "Music",
+      "id": "music-suno-studio2-plugins",
       "eyebrow": "AI NEWS",
-      "headline": "Lucinate, Ableton Link에\n물려 연주하는 비디오 신스",
-      "body": "AUM 개발사가 Ableton Link에 물리는 실시간 비주얼 환경을 내놨다.",
-      "mini_headline": "박자에 물리는 비주얼",
-      "source": "CDM (Create Digital Music)",
-      "url": "https://cdm.link/lucinate-visuals-on-mac-and-ios/",
+      "tool": "Music",
+      "headline": "수노 스튜디오 2.0은 채팅창 한 줄을\n그대로 돌아가는 플러그인으로 바꾼다",
+      "mini_headline": "채팅창이 만드는 플러그인",
+      "body": "곡을 만들어주던 도구가 그 곡을 다듬을 플러그인까지 프롬프트로 지어낸다.",
+      "source": "Suno (YouTube)",
+      "url": "https://www.youtube.com/watch?v=lGvyrEkZ6ZU",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "lGvyrEkZ6ZU"
+          },
+          {
+            "t": "p",
+            "x": "수노 스튜디오 2.0의 스튜디오 챗으로 나만의 오디오 이펙트를 만들어 쓰는 방법을 다룬 영상이다. 진행은 Henry Fipps가 맡았다."
+          },
+          {
+            "t": "p",
+            "x": "만들어 보이는 것은 둘이다. 스테레오 더블러 하나, 피치를 옮기는 딜레이 하나. 채팅창에 원하는 효과를 적으면 AI가 빌드 계획을 먼저 내놓고, 그걸 확인하고 저장하면 My Plugins 안으로 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "완성된 스테레오 더블러를 트랙에 걸어 소리를 확인한 다음, Crystal Sparkle이라는 플러그인을 새로 만들어 드럼 트랙에 얹는다. 끝에서는 앞으로 붙을 플러그인 기능을 짚는다."
+          },
+          {
+            "t": "p",
+            "x": "곡을 만들어주던 도구가 이제 그 곡을 다듬을 처리기까지 짓는다. 5분 55초짜리 워크스루를 수노가 직접 찍었다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-moises-advisors",
+      "eyebrow": "AI NEWS",
+      "tool": "Music",
+      "headline": "아르민 반 뷔렌과 레이드백 루크가\n모이지스 스튜디오 도구를 손본다",
+      "mini_headline": "모이지스에 합류한 두 DJ",
+      "body": "라이선스 받은 음원만 학습했다는 스템 분리·마스터링 도구를 두 프로듀서가 함께 다듬는다.",
+      "source": "DJ Mag",
+      "url": "https://djmag.com/news/armin-van-buuren-and-laidback-luke-join-responsible-ai-music-company-moises-advisors",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -221,68 +171,45 @@
         "blocks": [
           {
             "t": "p",
-            "x": "없으면 아쉬운 iPad 앱 AUM을 만든 팀이 내놓은 Lucinate는 Apple의 Metal 기술을 쓴 macOS·iOS용 실시간 비주얼 환경이다. Ableton Link와 Link Audio를 지원하는, 바로 연주 가능한 비디오 신스로 다뤄도 된다. 셰이더를 뜯어보거나 직접 만들고 싶어지면 라이브 코딩으로 넘어가면 된다."
-          },
-          {
-            "t": "p",
-            "x": "이런 도구를 기다렸다. 좋은 비주얼 신스는 이미 있다. iPad 비주얼 신스를 모으는 중이라면 Imaginando의 VS와 Chromatose는 정말 아름답다. 셰이더를 실시간으로 고치는 쪽도 마찬가지다. OpenGL과 DirectX, Metal을 넘나드는 Hexler의 KodeLife가 텍스트 코딩 쪽에 있고, 노드 기반 무료 앱 MetalGraph도 iPad와 Mac에 새로 들어왔다. 문제는 셰이더를 만지작거린 다음이다. 결국 다른 환경으로 옮겨야 한다."
-          },
-          {
-            "t": "video",
-            "yt": "ojX9tVoJiuQ"
-          },
-          {
-            "t": "p",
-            "x": "Kymatica의 Lucinate가 반가운 건 그 전부를 환경 하나에 담았다는 데 있다. Ableton Link로 동기해 가볍게 놀기 좋고, 이제는 Link Audio로 소리를 비주얼에 물리는 것도 금방이다. 그러다 마음이 동하면 셰이더 코드를 라이브로 헤집거나 처음부터 만들며 배워도 된다. 바이브코딩의 시대이니 덧붙이자면, 뭘 하는지 잘 모르는 채로 이리저리 뜯어보는 일은 정말 재미있다."
+            "x": "아르민 반 뷔렌과 레이드백 루크가 모이지스의 아티스트 파트너십 프로그램 1호로 합류했다."
           },
           {
             "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/08/lucinate-code-editor.png"
-          },
-          {
-            "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/08/lucinate_shot2-beat-synced.png"
+            "src": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Armin%20%2B%20Luke%203.jpg.webp",
+            "cap": "아르민 반 뷔렌과 레이드백 루크"
           },
           {
             "t": "p",
-            "x": "사양을 훑어보면 하나하나 고개가 끄덕여진다. Mac과 iPad, iPhone을 아우르는 유니버설 앱이고 Apple Metal 위에 서 있다. 레이어 기반이라 블렌딩과 모듈러식 구성이 자유롭고, 이미지 보정과 이펙트, 텍스처 유틸리티, 좌표 변환, 패턴과 그러데이션, 셰이더 아트 예제 같은 파라메트릭 셰이더가 함께 온다. 내장 에디터와 방대한 Metal Shading Language 라이브러리로 셰이더를 들여다보고 고치고 직접 짤 수 있다."
+            "x": "모이지스는 스스로를 수노 같은 플랫폼의 대안 자리에 놓는다. 라이선스를 받아 허가된 트랙과 파일로만 모델을 학습시킨다는 주장이다. Ableton과 Fender, 휘트니 휴스턴 재단, Cory Henry, Jordan Rudess, Berklee Online이 이미 이 회사와 엮여 있고 올해 초에는 Charlie Puth가 최고음악책임자로 왔다."
           },
           {
             "t": "p",
-            "x": "입력으로는 라이브 카메라와 불러온 이미지·영상 클립을 쓴다. 결과는 영상으로 녹화하거나 스틸로 뽑는다. 어떤 파라미터든 MIDI와 LFO, 오디오 분석기로 모듈레이션하고, Ableton Link나 MIDI Clock으로 박자에 맞춘다. 다른 앱의 소리는 Ableton Link Audio로 받고, 외부 디스플레이와 프로젝터도 지원한다."
+            "x": "두 사람이 맡은 몫은 DJ·프로덕션 도구에 피드백을 주는 일이다. 스템 분리와 아이솔레이션, 코드 인식, 마스터링이 들어 있는 스튜디오 도구 묶음을 다듬는 데도 손을 보탠다."
           },
           {
             "t": "p",
-            "x": "VS, Chromatose, KodeLife와 나란히 두면 웬만한 iPad는, 심지어 iPhone도 훌륭한 비주얼 장비가 된다. HDMI 어댑터 하나만 챙기면 이 판때기가 바로 준비된다. 아니면 그냥 같은 Mac에서 돌려도 된다. 요즘은 그리 대단치 않은 Apple Silicon 기계도 이 정도는 넉넉히 감당한다. Apple 플랫폼은 어느새 비디오 신스 실험실이 됐다."
+            "x": "창업자이자 CEO인 Geraldo Ramos는 “다음 세대의 창작 도구는 뮤지션을 위해서가 아니라 뮤지션과 함께 만들어야 한다”고 했다. 레이드백 루크가 덧붙인 말은 이랬다. 좋은 도구는 당신 대신 일해주지 않고, 더 잘 듣고 더 빨리 배우고 더 단단한 판단을 내리도록 돕는다. 반 뷔렌이 내건 조건은 하나였다. 아티스트가 통제권을 쥐고 있느냐."
           },
           {
             "t": "p",
-            "x": "카메라와 셰이더 몇 개, 동기화만 있어도 도구로서 꽤 크다."
+            "x": "댄스 음악으로 출발한 플랫폼은 장르를 넓히는 중이다. 지금 190개국에서 약 8000만 명이 쓴다. 미국과 브라질, 인도, 프랑스, 일본이 큰 시장이다."
           },
           {
             "t": "p",
-            "x": "보시다시피 실제로 쓸 만한 iPhone용 UI까지 만들어뒀다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/08/lucinate_shot4.png"
-          },
-          {
-            "t": "p",
-            "x": "App Store에서 29.99달러. 지금 라이브 비주얼 쪽에서 가장 잘 산 값일지도 모른다. SunVox 개발자가 만든 Quantum VJ HD 같은 재미있는 물건과 함께라면 더 그렇다."
+            "x": "배경은 어수선하다. SubmitHub 집계로 7월 발매곡의 40% 가까이가 AI의 손을 거쳤고, 그렇게 분류된 아티스트의 3분의 1은 사용을 부인했다. 지난달 Beatport는 전면 AI 생성 트랙을 금지했다. 3월에 소니 뮤직이 딥페이크 곡 13만 5000개를 내린 뒤 Traxsource와 Bandcamp, Deezer도 비슷한 길을 갔다."
           }
         ]
       }
     },
     {
-      "id": "music-jazz-fingerprints-ai",
-      "tool": "Music",
+      "id": "music-alok-personalised-mv",
       "eyebrow": "AI NEWS",
-      "headline": "재즈 피아니스트의 연주를\nAI가 이름까지 맞혀낸다",
-      "body": "84시간 녹음을 학습한 모델이 연주자를 94.4% 정확도로 가려냈다.",
-      "mini_headline": "연주의 지문을 읽다",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
+      "tool": "Music",
+      "headline": "알록은 헤드폰을 산 팬 한 사람마다\n뮤직비디오를 따로 한 편씩 만들어 줬다",
+      "mini_headline": "팬마다 다른 뮤직비디오",
+      "body": "한 곡에 영상 하나라는 공식을 깨고 구매 건마다 다른 뮤직비디오를 AI가 렌더링했다.",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/09/01/alok-fans-get-personalised-music-video-with-headphone-purchases/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -290,35 +217,28 @@
         "blocks": [
           {
             "t": "p",
-            "x": "즉흥 연주에 기대고 구조가 헐거운 재즈라면 AI가 분석하기 가장 어려운 장르일 것 같다. Nature Machine Intelligence에 실린 새 논문은 그렇지 않다고 말한다."
+            "x": "브라질의 DJ 겸 프로듀서 알록이 에이전시 Rise New York & Partners와 손잡고 자기 헤드폰 라인 WAAW by Alok 캠페인을 벌였다. 헤드폰을 사면 그 사람만을 위한 뮤직비디오가 나온다. 창작의 키는 사람이 쥔다는 게 전제였다."
+          },
+          {
+            "t": "img",
+            "src": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
+            "cap": "WAAW by Alok 캠페인"
           },
           {
             "t": "p",
-            "x": "University of Cambridge에서 Huw Cheston이 이끈 팀의 연구다. 대규모 언어 모델이 재즈 피아니스트를 알아보고, 그 연주자를 남다르게 만든 음악적 ‘지문’까지 드러냈다."
+            "x": "출발은 평범했다. 알록의 곡에 맞춘 공식 영상을 먼저 찍었고, 화면의 결은 브라질 일러스트레이터 Rogério Puhl의 팝아트 스타일에서 가져왔다. 그 위에 엔진을 따로 얹었다."
           },
           {
             "t": "p",
-            "x": "연구팀은 피아니스트 20명의 연주 1,629건, 84시간 분량 녹음을 기계에 먹였다. 대상에는 Bill Evans, Oscar Peterson, Thelonious Monk, Chick Corea, Keith Jarrett, McCoy Tyner, Ahmad Jamal이 들어 있다. 녹음은 MIDI로 바꿔 피아노 롤에 올렸고, 어떤 음을 언제 어느 높이로 쳤는지가 화면에 남았다."
-          },
-          {
-            "t": "video",
-            "yt": "NSudlBFrmzI"
+            "x": "Gemini Omni가 영상과 사운드 디자인, 텍스트 각색 흐름을 관리하는 두뇌 노릇을 한다. Google Maps API는 팬 주변 환경을 읽어 실제 랜드마크를 이야기에 끼워 넣고, Google Weather API가 조명과 날씨를 그날 그 자리에 맞춘다. 스타일의 유행은 YouTube와 Trends 데이터로 따라가고, 실제 영상 클립은 Vertex AI와 Veo가 뽑는다. 렌더링 파이프라인은 Google Cloud 위에 올렸다."
           },
           {
             "t": "p",
-            "x": "결과는 꽤 좋았다. 가장 잘한 모델은 94.4% 정확도로 연주자를 짚었다. 요소별로 따로 시험했을 때는 화성이 가장 정확한 예측을 냈고 리듬과 멜로디가 뒤를 이었다. 다이내믹스가 가장 부정확했다."
+            "x": "팬은 취향과 실시간 환경 정보를 담은 Beat Profile을 제출한다. 그러면 자기 동네 날씨와 도시 스카이라인이 배경으로 들어간 영상을 받는다."
           },
           {
             "t": "p",
-            "x": "영리한 이야기이긴 한데 현실에서 무슨 쓸모가 있느냐고 물을 만하다. 연구진은 쓰임새를 여럿 든다. 이런 식의 AI는 저자가 밝혀지지 않은 작품의 “가능한 저자를 제안하거나 진품과 위작을 가려내는” 데 쓸 수 있다. “예술가들 사이의 영향 관계망을 드러내고 창작 과정 자체에 대한 통찰을 보여줄” 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 이렇게 덧붙인다. “마지막으로, 교육 현장에서도 쓸모가 있다. 자기 분야의 중요한 인물들이 지닌 독자적인 목소리를 이해하도록 예술가를 훈련시키는 데 도움이 된다.”"
-          },
-          {
-            "t": "p",
-            "x": "연구를 더 들여다보고 싶다면 Nature Machine Intelligence 사이트를 보면 된다. 피아니스트별 연주 스타일을 살펴보는 작은 웹 앱도 있다."
+            "x": "고삐는 규칙으로 잡았다. 팀은 몇 주 동안 시각 규칙 다섯 개를 걸고 엔진을 시험했고, 그 과정에서 나온 초안 클립의 81.4%를 버렸다. 카메라 움직임과 색, 서사의 핵심 박자는 잠가두고 정해둔 구간만 열어놓는 방식이다."
           }
         ]
       }

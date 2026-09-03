@@ -1,11 +1,32 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "science",
   "media": [
-    { "id": "science-pacman-plasma-20ms", "type": "image", "src": "pipeline/media/science-pacman-plasma-20ms.jpg" },
-    { "id": "science-ornl-atom-assembly", "type": "image", "src": "pipeline/media/science-ornl-atom-assembly.jpg" },
-    { "id": "science-gollum-doubt-detector", "type": "image", "src": "pipeline/media/science-gollum-doubt-detector.jpg" },
-    { "id": "science-rapido-remote-implant", "type": "image", "src": "pipeline/media/science-rapido-remote-implant.jpg" },
-    { "id": "science-ecg-clip-fewshot", "type": "image", "src": "pipeline/media/science-ecg-clip-fewshot.jpg" }
+    {
+      "id": "science-weathernext3",
+      "type": "video",
+      "src": "pipeline/media/science-weathernext3.mp4",
+      "poster": "pipeline/media/science-weathernext3.jpg"
+    },
+    {
+      "id": "science-male-fly-connectome",
+      "type": "image",
+      "src": "pipeline/media/science-male-fly-connectome.png"
+    },
+    {
+      "id": "science-ai-experiment-design",
+      "type": "image",
+      "src": "pipeline/media/science-ai-experiment-design.jpg"
+    },
+    {
+      "id": "science-silicon-subjects",
+      "type": "image",
+      "src": "pipeline/media/science-silicon-subjects.jpg"
+    },
+    {
+      "id": "science-fda-genai-pilot",
+      "type": "image",
+      "src": "pipeline/media/science-fda-genai-pilot.jpeg"
+    }
   ]
 }

@@ -1,33 +1,34 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "movies",
   "media": [
     {
-      "id": "movies-runway-ruby",
+      "id": "movies-gwm-worlds2",
       "type": "video",
-      "src": "pipeline/media/movies-runway-ruby.mp4",
-      "poster": "pipeline/media/movies-runway-ruby.jpg"
+      "src": "pipeline/media/movies-gwm-worlds2.mp4",
+      "poster": "pipeline/media/movies-gwm-worlds2.jpg"
     },
     {
-      "id": "movies-flow-studio-3d-editor",
+      "id": "movies-showcraft-public",
+      "type": "image",
+      "src": "pipeline/media/movies-showcraft-public.jpg"
+    },
+    {
+      "id": "movies-avid-mc-2026-8",
+      "type": "image",
+      "src": "pipeline/media/movies-avid-mc-2026-8.jpg"
+    },
+    {
+      "id": "movies-hope-mocap",
       "type": "video",
-      "src": "pipeline/media/movies-flow-studio-3d-editor.mp4",
-      "poster": "pipeline/media/movies-flow-studio-3d-editor.jpg"
+      "src": "pipeline/media/movies-hope-mocap.mp4",
+      "poster": "pipeline/media/movies-hope-mocap.jpg"
     },
     {
-      "id": "movies-caira-gen-video-edit",
-      "type": "image",
-      "src": "pipeline/media/movies-caira-gen-video-edit.jpg"
-    },
-    {
-      "id": "movies-eddie-agent-marketplace",
-      "type": "image",
-      "src": "pipeline/media/movies-eddie-agent-marketplace.png"
-    },
-    {
-      "id": "movies-boyle-venice-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-boyle-venice-ai.jpg"
+      "id": "movies-seedance-facegrid",
+      "type": "video",
+      "src": "pipeline/media/movies-seedance-facegrid.mp4",
+      "poster": "pipeline/media/movies-seedance-facegrid.jpg"
     }
   ]
 }

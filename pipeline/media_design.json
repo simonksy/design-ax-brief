@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "design",
   "media": [
     {
-      "id": "design-figma-coinbase-code-connect",
+      "id": "design-artstation-noai-default",
       "type": "image",
-      "src": "pipeline/media/design-figma-coinbase-code-connect.png"
+      "src": "pipeline/media/design-artstation-noai-default.jpg"
     },
     {
-      "id": "design-solidworks-blue-tokens",
+      "id": "design-cursor-vercel-sandbox",
       "type": "image",
-      "src": "pipeline/media/design-solidworks-blue-tokens.png"
+      "src": "pipeline/media/design-cursor-vercel-sandbox.jpg"
     },
     {
-      "id": "design-agentic-ui-standard",
-      "type": "image",
-      "src": "pipeline/media/design-agentic-ui-standard.png"
-    },
-    {
-      "id": "design-dlss5-launch-date",
+      "id": "design-agent-native-clips",
       "type": "video",
-      "src": "pipeline/media/design-dlss5-launch-date.mp4",
-      "poster": "pipeline/media/design-dlss5-launch-date.jpg"
+      "src": "pipeline/media/design-agent-native-clips.mp4",
+      "poster": "pipeline/media/design-agent-native-clips.jpg"
     },
     {
-      "id": "design-perplexity-color-tetrads",
+      "id": "design-jetzero-blended-wing",
       "type": "image",
-      "src": "pipeline/media/design-perplexity-color-tetrads.png"
+      "src": "pipeline/media/design-jetzero-blended-wing.jpg"
+    },
+    {
+      "id": "design-mancity-ai-kit",
+      "type": "image",
+      "src": "pipeline/media/design-mancity-ai-kit.jpg"
     }
   ]
 }

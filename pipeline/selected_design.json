@@ -1,173 +1,106 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "design",
-  "items": [
-    {
-      "id": "design-figma-coinbase-code-connect",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "title": "How Coinbase used Code Connect to guide agents and shrink token costs",
-      "url": "https://www.figma.com/blog/how-coinbase-used-code-connect-to-shrink-token-costs/",
-      "source": "Figma",
-      "published_iso": "2026-09-02T20:28:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/cbeec3426e9a9957f218d4969897d0e2e8c79fd7-1999x1125.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Coinbase's design systems team measured what Code Connect actually does for coding agents: 22.5% lower token cost and better design-to-code adherence, because agents stop hallucinating component and asset names.",
-      "rationale": "First hard number on what design-system mapping buys in agent workflows — the system becomes a cost lever, not just a consistency lever."
-    },
-    {
-      "id": "design-solidworks-blue-tokens",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "title": "Solidworks users spend “blue tokens” on AI drawings, insights and more",
-      "url": "https://www.engineering.com/solidworks-users-spend-blue-tokens-on-ai-drawings-insights-and-more/",
-      "source": "Engineering.com",
-      "published_iso": "2026-09-02T19:39:24Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_engpaper_thumb2026-sep1.png",
-      "excerpt": "Dassault Systèmes introduced a consumption-based \"blue token\" currency for AI usage across the 3DExperience platform, with each license carrying a free allocation and 25,000-token packs sold on top.",
-      "rationale": "AI inside a core design tool stops being free — metered credits change how teams budget and ration AI in daily CAD work."
-    },
-    {
-      "id": "design-agentic-ui-standard",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
-      "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370",
-      "source": "UX Collective",
-      "published_iso": "2026-08-31T21:47:30Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*UqCs8JJOwBhWmepdUSg3-Q.png",
-      "excerpt": "One description, four renderers: every assistant draws its own version of your UI, and the maintenance bill lands on the team that already owns the button component. MCP settled the plumbing; the rendering layer hasn't.",
-      "rationale": "Names the next standards fight after MCP — who owns the rendered interface when four assistants each redraw your design system."
-    },
-    {
-      "id": "design-dlss5-launch-date",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "NVIDIA Finally Announces Launch Date For Its Controversial DLSS 5",
-      "url": "https://80.lv/articles/nvidia-finally-announces-launch-date-for-its-controversial-dlss-5/",
-      "source": "80 Level",
-      "published_iso": "2026-09-02T17:05:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50018/images/6a9857681b387/contain_1200x630.jpg",
-      "excerpt": "NVIDIA set a launch date for DLSS 5, the neural rendering update that artists have argued either preserves or destroys their original intent on screen.",
-      "rationale": "Generative upscaling now sits between the artist's frame and the viewer's screen, with a date attached — a real-time craft question for anyone shipping 3D visuals."
-    },
-    {
-      "id": "design-perplexity-color-tetrads",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "title": "Color scheming with Perplexity tetrads",
-      "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732",
-      "source": "UX Collective",
-      "published_iso": "2026-09-01T11:28:18Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1528/1*5CV86cN8pxilLTIbvBJy4A.png",
-      "excerpt": "A case study in using generative AI to build accessible color palettes, working tetrad color relationships through Perplexity and checking them against contrast requirements.",
-      "rationale": "A repeatable AI method for a foundational token decision — palette generation with accessibility checked, not assumed."
-    }
-  ],
+  "selected_by": "curator (user deferred)",
   "dedup": {
+    "checked_against": "news_data.json sections.design (today 2026-09-03 + days 2026-08-29..2026-09-02, 30 cards)",
     "pool_size": 22,
-    "dropped_as_duplicate": 2,
-    "checked_against_days": 5,
-    "note": "Checked every candidate by URL and by event/content against sections.design today (2026-09-02) plus days 2026-08-28..09-01. Dropped as already-published stories: CG Channel 'Adobe releases Photoshop 27.10' — same Adobe release (Instruct Edit with masks + AI Assisted Editor beta) already published 2026-08-28 via Animation World Network. Dropped as a within-pool duplicate: Creative Bloq 'Is Nvidia's DLSS 5 an AI slop machine...' — same DLSS 5 story as the 80 Level launch-date piece; kept the single strongest/newest article. Set aside for the outlet/category cap, not as duplicates: two extra Engineering.com CAD pieces (SunCubes simulation, plus DEVELOP3D Siemens Realize Live), three DEV Community AI-design first-person posts, UX Collective 'Making kyōwa possible with AI', Creative Bloq AI flyers, CIO DORA lifecycle, VentureBeat guardrails (no og_image), The Verge Gemini 3.8 Flash, LogRocket enterprise UX, Engadget Honor Robot Phone, and both YouTube social items. No selected URL appears in any published day."
-  },
-  "diversity": {
-    "outlets": [
-      "Figma",
-      "Engineering.com",
-      "UX Collective",
-      "80 Level",
-      "UX Collective"
+    "dropped_as_duplicate": [
+      {
+        "url": "https://www.creativebloq.com/art/digital-art/artstation-is-finally-taking-action-against-ai-art-but-theres-one-question-it-doesnt-want-to-answer",
+        "reason": "within-pool duplicate of the ArtStation NoAI default story; kept the 80 Level report as the stronger primary account"
+      }
     ],
-    "categories": [
-      "figma",
-      "cad",
-      "figma",
-      "render",
-      "tokens"
-    ],
-    "max_per_outlet": 2,
-    "max_per_category": 2,
-    "distinct_outlets": 4
+    "notes": "No candidate matched any URL or story already published in the design section over the last 5 days. Backfill was not needed beyond the single within-pool ArtStation duplicate."
   },
   "picks": [
     {
-      "id": "design-figma-coinbase-code-connect",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "title": "How Coinbase used Code Connect to guide agents and shrink token costs",
-      "url": "https://www.figma.com/blog/how-coinbase-used-code-connect-to-shrink-token-costs/",
-      "source": "Figma",
-      "published_iso": "2026-09-02T20:28:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/cbeec3426e9a9957f218d4969897d0e2e8c79fd7-1999x1125.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Coinbase's design systems team measured what Code Connect actually does for coding agents: 22.5% lower token cost and better design-to-code adherence, because agents stop hallucinating component and asset names.",
-      "rationale": "First hard number on what design-system mapping buys in agent workflows — the system becomes a cost lever, not just a consistency lever."
-    },
-    {
-      "id": "design-solidworks-blue-tokens",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "title": "Solidworks users spend “blue tokens” on AI drawings, insights and more",
-      "url": "https://www.engineering.com/solidworks-users-spend-blue-tokens-on-ai-drawings-insights-and-more/",
-      "source": "Engineering.com",
-      "published_iso": "2026-09-02T19:39:24Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_engpaper_thumb2026-sep1.png",
-      "excerpt": "Dassault Systèmes introduced a consumption-based \"blue token\" currency for AI usage across the 3DExperience platform, with each license carrying a free allocation and 25,000-token packs sold on top.",
-      "rationale": "AI inside a core design tool stops being free — metered credits change how teams budget and ration AI in daily CAD work."
-    },
-    {
-      "id": "design-agentic-ui-standard",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
-      "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370",
-      "source": "UX Collective",
-      "published_iso": "2026-08-31T21:47:30Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*UqCs8JJOwBhWmepdUSg3-Q.png",
-      "excerpt": "One description, four renderers: every assistant draws its own version of your UI, and the maintenance bill lands on the team that already owns the button component. MCP settled the plumbing; the rendering layer hasn't.",
-      "rationale": "Names the next standards fight after MCP — who owns the rendered interface when four assistants each redraw your design system."
-    },
-    {
-      "id": "design-dlss5-launch-date",
-      "category": "render",
+      "rank": 1,
       "tool": "KeyShot",
+      "category": "render",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "NVIDIA Finally Announces Launch Date For Its Controversial DLSS 5",
-      "url": "https://80.lv/articles/nvidia-finally-announces-launch-date-for-its-controversial-dlss-5/",
+      "title": "ArtStation enables NoAI protection for every artist by default",
+      "url": "https://80.lv/articles/artstation-will-block-ai-crawlers-from-scraping-artists-work/",
       "source": "80 Level",
-      "published_iso": "2026-09-02T17:05:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50018/images/6a9857681b387/contain_1200x630.jpg",
-      "excerpt": "NVIDIA set a launch date for DLSS 5, the neural rendering update that artists have argued either preserves or destroys their original intent on screen.",
-      "rationale": "Generative upscaling now sits between the artist's frame and the viewer's screen, with a date attached — a real-time craft question for anyone shipping 3D visuals."
+      "published_iso": "2026-09-03T20:11:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50041/images/6a99d4989956c/contain_1200x630.jpg",
+      "excerpt": "ArtStation has switched NoAI protection on for new and existing uploads and added safeguards against AI crawlers, while admitting its current AI-content filters remain insufficient.",
+      "rationale": "The default portfolio platform for concept artists flips training-data consent to opt-out — a structural change every designer publishing work online has to act on."
     },
     {
-      "id": "design-perplexity-color-tetrads",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "title": "Color scheming with Perplexity tetrads",
-      "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732",
-      "source": "UX Collective",
-      "published_iso": "2026-09-01T11:28:18Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1528/1*5CV86cN8pxilLTIbvBJy4A.png",
-      "excerpt": "A case study in using generative AI to build accessible color palettes, working tetrad color relationships through Perplexity and checking them against contrast requirements.",
-      "rationale": "A repeatable AI method for a foundational token decision — palette generation with accessibility checked, not assumed."
+      "rank": 2,
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "Cursor Cloud Agents can now run in Vercel Sandbox",
+      "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
+      "source": "Vercel",
+      "published_iso": "2026-09-03T15:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5KmgvmWZwaaPFGskgNOJAu/6b3659ba24e56f6bf4fe2c181d6d95e5/run_cursor_cloud_agents_in_vercel_sandbox_og_card.jpg",
+      "excerpt": "Vercel now lets Cursor Cloud Agents execute inside Vercel Sandbox — scale-to-zero workers, isolated microVMs and durable orchestration on infrastructure the team controls.",
+      "rationale": "Shipped feature, not a claim: the coding agent moves off the laptop onto the same preview pipeline design-to-code work already ships from."
+    },
+    {
+      "rank": 3,
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "title": "Agent-Native Clips: a free Loom alternative that captures browser errors",
+      "url": "https://www.builder.io/blog/agent-native-clips-captures-browser-errors",
+      "source": "Builder.io",
+      "published_iso": "2026-09-01T18:00:00Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/bd963b406ef04a4fbf9d1af53ab3b313?width=1200",
+      "excerpt": "Builder.io released an open-source screen recorder that records a browser bug together with console logs and failed network requests, producing a clip an agent can act on directly.",
+      "rationale": "Free tool a designer can install today: the same bug recording they already make becomes machine-readable evidence an agent can fix from."
+    },
+    {
+      "rank": 4,
+      "tool": "Text-to-CAD",
+      "category": "cad",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "title": "Flying high at JetZero",
+      "url": "https://develop3d.com/simulation/flying-high-at-jetzero/",
+      "source": "DEVELOP3D",
+      "published_iso": "2026-09-03T11:36:34Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/JetZero_GulfAir-Z4-img.jpg",
+      "excerpt": "JetZero combines advanced modelling, simulation and AI to refine its blended-wing aircraft, using computation to attack engineering problems that have no reference design to copy.",
+      "rationale": "AI-assisted design doing its hardest job — shaping a form with no precedent rather than optimising a known one; the industrial-design counterweight to software tooling news."
+    },
+    {
+      "rank": 5,
+      "tool": "AI Workflow",
+      "category": "workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "title": "Man City fans used AI to design the team's new kit",
+      "url": "https://www.fastcompany.com/91598957/man-city-fans-used-ai-to-design-the-teams-new-kit",
+      "source": "Fast Company",
+      "published_iso": "2026-09-01T09:45:00Z",
+      "og_image": null,
+      "excerpt": "Manchester City's new alternative kit is the first professional football kit designed by fans using generative AI — made with Puma AI Creator, the brand's custom tool — and it will be worn on the pitch.",
+      "rationale": "Generative AI crosses from concept render into a manufactured, licensed product — the first hard test of who holds authorship in brand design. (og_image is null; ax-media should pull the in-article image via the Playwright fallback for Fast Company.)"
     }
-  ]
+  ],
+  "diversity_check": {
+    "outlets": [
+      "80 Level",
+      "Vercel",
+      "Builder.io",
+      "DEVELOP3D",
+      "Fast Company"
+    ],
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
+    "categories": {
+      "render": 1,
+      "figma": 2,
+      "cad": 1,
+      "workflow": 1
+    },
+    "accent_collision": "none — the two figma picks use #0070f3 and #3b6bff from sources.json palette"
+  }
 }

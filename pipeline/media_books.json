@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "books",
   "media": [
     {
-      "id": "books-harriman-ai-facilitated-pal",
+      "id": "books-decoy-font",
       "type": "image",
-      "src": "pipeline/media/books-harriman-ai-facilitated-pal.jpg"
+      "src": "pipeline/media/books-decoy-font.jpg"
     },
     {
-      "id": "books-african-audiobook-market",
+      "id": "books-pangram-trust",
       "type": "image",
-      "src": "pipeline/media/books-african-audiobook-market.png"
+      "src": "pipeline/media/books-pangram-trust.jpg"
     },
     {
-      "id": "books-ai-custom-written-novels",
+      "id": "books-1653-cipher",
       "type": "image",
-      "src": "pipeline/media/books-ai-custom-written-novels.png"
+      "src": "pipeline/media/books-1653-cipher.png"
     },
     {
-      "id": "books-ai-personalization-echo-chamber",
+      "id": "books-wandering-taste",
       "type": "image",
-      "src": "pipeline/media/books-ai-personalization-echo-chamber.jpg"
+      "src": "pipeline/media/books-wandering-taste.png"
     },
     {
-      "id": "books-can-ai-replace-your-editor",
-      "type": "image",
-      "src": "pipeline/media/books-can-ai-replace-your-editor.jpg"
+      "id": "books-author-solar-sail",
+      "type": "video",
+      "src": "pipeline/media/books-author-solar-sail.mp4",
+      "poster": "pipeline/media/books-author-solar-sail.jpg"
     }
   ]
 }

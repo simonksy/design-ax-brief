@@ -1,158 +1,159 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "gadgets",
   "count": 5,
   "items": [
     {
-      "id": "gadgets-caira-ai-video-edit",
+      "id": "gadgets-nvidia-rtx-spark-ai-pcs",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.techradar.com/cameras/mirrorless-cameras/cairas-ai-mirrorless-camera-is-getting-nano-banana-for-video-editing-but-it-only-works-on-footage-youve-actually-shot",
-      "source": "TechRadar",
-      "published_iso": "2026-09-02T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa-2560-80.jpg",
-      "excerpt": "Caira's generative video tools let you reshape footage with natural-language instructions, but only on clips you actually shot — keeping the original recording at the center of every edit.",
-      "rationale": "촬영한 원본에만 생성 편집을 허용하는 제약을 카메라 하드웨어에 박아 넣은 첫 사례 — 크리에이터의 편집 워크플로와 출처 원칙을 동시에 바꾼다."
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "source": "WIRED",
+      "published_iso": "2026-09-03T13:00:00+00:00",
+      "og_image": "https://media.wired.com/photos/6a988e1369e7125a8c650442/191:100/w_1280,c_limit/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
+      "excerpt": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+      "rationale": "로컬에서 모델을 돌리도록 설계된 첫 소비자용 기계들이 한자리에 나왔다 — 클라우드 청구서 없이 책상 위에서 무엇을 돌릴 수 있는지의 기준선이 바뀐다."
     },
     {
-      "id": "gadgets-acer-aspire-g3d-local-ai",
+      "id": "gadgets-nvidia-pair-gpu-cluster",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.notebookcheck.net/Acer-debuts-Aspire-G-3D-16-Glasses-free-3D-gaming-laptop-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.1385303.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-02T11:30:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-debuts-Aspire-G-3D-16-gaming-laptop-3D-display-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.jpg",
-      "excerpt": "Acer's Aspire G 3D 16 pairs a glasses-free 3D 3840x2400 120 Hz panel with a Ryzen AI Max+ 395 and up to 128 GB RAM, aimed at creatives who want local model inference on the same machine.",
-      "rationale": "안경 없는 3D 디스플레이와 128GB 로컬 추론을 한 노트북에 묶었다 — 3D 미리보기와 로컬 모델을 같은 책상에서 돌리려는 디자이너에게 실물 선택지."
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg",
+      "excerpt": "Nvidia's Personal AI Router (PAIR) lets agentic AI workloads take advantage of every spare GPU cycle on a home network, promising faster execution and more private inference.",
+      "rationale": "이미 있는 장비를 묶어 로컬 에이전트 팜으로 만드는 소프트웨어 — 새 하드웨어를 사지 않고 내일부터 에이전트 스웜을 돌릴 수 있게 한다."
     },
     {
-      "id": "gadgets-pixel-watch5-offline-gemini",
+      "id": "gadgets-lenovo-aeroblade-rollable",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.notebookcheck.net/Google-Pixel-Watch-5-gets-offline-Gemini-and-new-gestures-in-September-update.1385731.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-02T11:17:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Google-Pixel-Watch5.jpg",
-      "excerpt": "Google's first big Pixel Watch 5 update adds offline Gemini and expanded one-handed gestures, putting an assistant on the wrist that keeps working without a phone or network.",
-      "rationale": "폰도 네트워크도 없이 손목에서 도는 어시스턴트 — 온디바이스 AI가 웨어러블의 인터랙션 전제를 바꾸는 지점."
+      "url": "https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH-1999-80.jpg",
+      "excerpt": "Lenovo's Project Swan puts a 17-inch, 16:9 rollable display inside a 14-inch, 3.5-pound chassis, while the fanless AeroBlade concept uses solid-state AirJet cooling.",
+      "rationale": "가방은 그대로 두고 캔버스만 늘리는 롤러블과 팬 없는 정숙한 섀시 — 크리에이티브 작업 환경의 물리적 제약을 하드웨어가 직접 건드린 사례."
     },
     {
-      "id": "gadgets-norway-smart-glasses-rules",
+      "id": "gadgets-vision-pro-hip-surgery",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://www.digitaltrends.com/wearables/norway-mulls-ban-on-smart-glasses-before-they-become-a-bigger-privacy-problem/",
-      "source": "Digital Trends",
-      "published_iso": "2026-09-02T11:29:27-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2024/02/ray-ban-meta-wayfarer.jpg?resize=1200%2C630",
-      "excerpt": "Norway's digital minister is weighing strict smart-glasses rules including a ban on facial recognition, arguing always-on face computers erase public anonymity.",
-      "rationale": "얼굴에 얹는 카메라를 국가가 규제 대상으로 올렸다 — 스마트 글라스를 설계·도입하려는 쪽이 지금부터 계산에 넣어야 할 제약."
+      "url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
+      "source": "Engadget",
+      "published_iso": "2026-09-03T21:14:11+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
+      "excerpt": "Stryker says its SportSuite Vision software for the Apple Vision Pro received De Novo authorization from the FDA in July, and it has now been used in hip arthroscopy.",
+      "rationale": "공간 UI가 데모를 벗어나 FDA 승인을 받은 수술 워크플로에 들어갔다 — 헤드셋 인터랙션 설계가 실제로 책임을 지는 첫 증명."
     },
     {
-      "id": "gadgets-adreno-neural-fusion",
+      "id": "gadgets-gemini-spark-google-photos",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://9to5google.com/2026/09/02/qualcomm-details-adreno-neural-fusion-gpu-for-next-snapdragon-chip/",
+      "url": "https://9to5google.com/2026/09/03/gemini-spark-google-photos/",
       "source": "9to5Google",
-      "published_iso": "2026-09-02T13:00:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Adreno-Neural-Fusion-Snapdragon-1.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Qualcomm detailed a next-gen Snapdragon GPU whose 'Neural Fusion' block folds neural rendering into the graphics pipeline — an on-device AI upscaling path baked into the phone silicon itself.",
-      "rationale": "뉴럴 렌더링이 폰 GPU 파이프라인 안으로 들어왔다 — 모바일 그래픽 품질과 성능 예산의 기준선이 실리콘 단계에서 다시 그어진다."
+      "published_iso": "2026-09-03T21:44:42+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "The latest first-party app Gemini Spark can control is Google Photos, with the personal agent able to handle complex, multi-stage editing and sharing workflows.",
+      "rationale": "폰 위의 에이전트가 사진 편집기를 처음부터 끝까지 몰고 간다 — 이미지 편집이 도구 조작에서 지시로 넘어가는 지점."
     }
   ],
   "picks": [
     {
-      "id": "gadgets-caira-ai-video-edit",
+      "id": "gadgets-nvidia-rtx-spark-ai-pcs",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.techradar.com/cameras/mirrorless-cameras/cairas-ai-mirrorless-camera-is-getting-nano-banana-for-video-editing-but-it-only-works-on-footage-youve-actually-shot",
-      "source": "TechRadar",
-      "published_iso": "2026-09-02T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa-2560-80.jpg",
-      "excerpt": "Caira's generative video tools let you reshape footage with natural-language instructions, but only on clips you actually shot — keeping the original recording at the center of every edit.",
-      "rationale": "촬영한 원본에만 생성 편집을 허용하는 제약을 카메라 하드웨어에 박아 넣은 첫 사례 — 크리에이터의 편집 워크플로와 출처 원칙을 동시에 바꾼다."
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "source": "WIRED",
+      "published_iso": "2026-09-03T13:00:00+00:00",
+      "og_image": "https://media.wired.com/photos/6a988e1369e7125a8c650442/191:100/w_1280,c_limit/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
+      "excerpt": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+      "rationale": "로컬에서 모델을 돌리도록 설계된 첫 소비자용 기계들이 한자리에 나왔다 — 클라우드 청구서 없이 책상 위에서 무엇을 돌릴 수 있는지의 기준선이 바뀐다."
     },
     {
-      "id": "gadgets-acer-aspire-g3d-local-ai",
+      "id": "gadgets-nvidia-pair-gpu-cluster",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.notebookcheck.net/Acer-debuts-Aspire-G-3D-16-Glasses-free-3D-gaming-laptop-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.1385303.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-02T11:30:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-debuts-Aspire-G-3D-16-gaming-laptop-3D-display-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.jpg",
-      "excerpt": "Acer's Aspire G 3D 16 pairs a glasses-free 3D 3840x2400 120 Hz panel with a Ryzen AI Max+ 395 and up to 128 GB RAM, aimed at creatives who want local model inference on the same machine.",
-      "rationale": "안경 없는 3D 디스플레이와 128GB 로컬 추론을 한 노트북에 묶었다 — 3D 미리보기와 로컬 모델을 같은 책상에서 돌리려는 디자이너에게 실물 선택지."
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg",
+      "excerpt": "Nvidia's Personal AI Router (PAIR) lets agentic AI workloads take advantage of every spare GPU cycle on a home network, promising faster execution and more private inference.",
+      "rationale": "이미 있는 장비를 묶어 로컬 에이전트 팜으로 만드는 소프트웨어 — 새 하드웨어를 사지 않고 내일부터 에이전트 스웜을 돌릴 수 있게 한다."
     },
     {
-      "id": "gadgets-pixel-watch5-offline-gemini",
+      "id": "gadgets-lenovo-aeroblade-rollable",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.notebookcheck.net/Google-Pixel-Watch-5-gets-offline-Gemini-and-new-gestures-in-September-update.1385731.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-02T11:17:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Google-Pixel-Watch5.jpg",
-      "excerpt": "Google's first big Pixel Watch 5 update adds offline Gemini and expanded one-handed gestures, putting an assistant on the wrist that keeps working without a phone or network.",
-      "rationale": "폰도 네트워크도 없이 손목에서 도는 어시스턴트 — 온디바이스 AI가 웨어러블의 인터랙션 전제를 바꾸는 지점."
+      "url": "https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH-1999-80.jpg",
+      "excerpt": "Lenovo's Project Swan puts a 17-inch, 16:9 rollable display inside a 14-inch, 3.5-pound chassis, while the fanless AeroBlade concept uses solid-state AirJet cooling.",
+      "rationale": "가방은 그대로 두고 캔버스만 늘리는 롤러블과 팬 없는 정숙한 섀시 — 크리에이티브 작업 환경의 물리적 제약을 하드웨어가 직접 건드린 사례."
     },
     {
-      "id": "gadgets-norway-smart-glasses-rules",
+      "id": "gadgets-vision-pro-hip-surgery",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://www.digitaltrends.com/wearables/norway-mulls-ban-on-smart-glasses-before-they-become-a-bigger-privacy-problem/",
-      "source": "Digital Trends",
-      "published_iso": "2026-09-02T11:29:27-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2024/02/ray-ban-meta-wayfarer.jpg?resize=1200%2C630",
-      "excerpt": "Norway's digital minister is weighing strict smart-glasses rules including a ban on facial recognition, arguing always-on face computers erase public anonymity.",
-      "rationale": "얼굴에 얹는 카메라를 국가가 규제 대상으로 올렸다 — 스마트 글라스를 설계·도입하려는 쪽이 지금부터 계산에 넣어야 할 제약."
+      "url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
+      "source": "Engadget",
+      "published_iso": "2026-09-03T21:14:11+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
+      "excerpt": "Stryker says its SportSuite Vision software for the Apple Vision Pro received De Novo authorization from the FDA in July, and it has now been used in hip arthroscopy.",
+      "rationale": "공간 UI가 데모를 벗어나 FDA 승인을 받은 수술 워크플로에 들어갔다 — 헤드셋 인터랙션 설계가 실제로 책임을 지는 첫 증명."
     },
     {
-      "id": "gadgets-adreno-neural-fusion",
+      "id": "gadgets-gemini-spark-google-photos",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://9to5google.com/2026/09/02/qualcomm-details-adreno-neural-fusion-gpu-for-next-snapdragon-chip/",
+      "url": "https://9to5google.com/2026/09/03/gemini-spark-google-photos/",
       "source": "9to5Google",
-      "published_iso": "2026-09-02T13:00:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Adreno-Neural-Fusion-Snapdragon-1.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Qualcomm detailed a next-gen Snapdragon GPU whose 'Neural Fusion' block folds neural rendering into the graphics pipeline — an on-device AI upscaling path baked into the phone silicon itself.",
-      "rationale": "뉴럴 렌더링이 폰 GPU 파이프라인 안으로 들어왔다 — 모바일 그래픽 품질과 성능 예산의 기준선이 실리콘 단계에서 다시 그어진다."
+      "published_iso": "2026-09-03T21:44:42+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "The latest first-party app Gemini Spark can control is Google Photos, with the personal agent able to handle complex, multi-stage editing and sharing workflows.",
+      "rationale": "폰 위의 에이전트가 사진 편집기를 처음부터 끝까지 몰고 간다 — 이미지 편집이 도구 조작에서 지시로 넘어가는 지점."
     }
   ],
   "dedup": {
-    "pool": 21,
-    "checked_against": "news_data.json sections.gadgets today(2026-09-02, 5 cards) + days(2026-08-28..2026-09-01, 25 cards) = 30 published cards",
-    "dropped_as_duplicates": 1,
+    "pool": 28,
+    "checked_against": "news_data.json sections.gadgets today(2026-09-03, 5 cards) + days(2026-08-29..2026-09-02, 25 cards) = 30 published cards",
+    "dropped_as_duplicates": 3,
     "notes": [
-      "Published 09-02 set verified card-by-card: Meta Muse Voice Transcribe (Engadget), Google Pics GA (Android Authority), Windows Paint invisible watermark (Tom's Hardware), Atlas 1.0 brain wearable (Gizmodo), Sonos 27 (Engadget). No candidate URL or story matches any of them.",
-      "All 21 candidates carry published_iso of 2026-09-01T15:20Z or later; the newest already-published gadgets card is 2026-09-01T21:56Z and every earlier day covers stories through 08-31, so no candidate can collide with days[].",
-      "Within-pool duplicate dropped: TechRadar '5 new Android features' and Ars Technica 'New Android Drop connects Gemini to Find Hub' are the same September Android Drop release — neither selected, but flagged so downstream stages do not resurface both.",
-      "Adjacencies checked and cleared: Acer RTX Spark desktop (Engadget) vs published gadgets-framework-192gb-desktop (09-01) — different vendor and product; Perplexity Hybrid Compute (9to5Mac) was a 09-02 backup that was never published, so it stays eligible but ranked below the final five.",
-      "Surviving-but-unused ranked backups in order: Tom's Hardware $7 hidden-camera detector, iRobot Roomba Max 875 (Engadget), Circular Ring 3 Pro (CNET), Gizmodo 'smart glasses are a no for OpenAI', Asus ProArt petaflop laptops (Digital Trends)."
+      "Published 09-03 set verified card-by-card: Caira generative video editing (TechRadar), Acer Aspire G 3D 16 (Notebookcheck), Pixel Watch 5 offline Gemini (Notebookcheck), Norway smart-glasses rules (Digital Trends), Adreno Neural Fusion (9to5Google). No selected URL or story matches any of them.",
+      "Within-pool duplicate dropped: TechRadar 'Lenovo Yoga with NVIDIA Arm superchip' is the productized version of the WIRED RTX Spark story — WIRED kept as the stronger anchor, TechRadar dropped.",
+      "Within-pool duplicate dropped: CNET 'Meta glasses alternatives with snap-on batteries' and Android Authority 'HTC Vive Eagle US launch' are the same device — neither selected, but flagged so downstream stages never surface both.",
+      "History duplicate dropped: 9to5Mac 'iOS 27 beta 8 tests major Siri AI upgrade' restates the iOS 27 Siri overhaul already published 2026-08-30 (Engadget, gadgets-ios27-siri-app).",
+      "Adjacencies checked and cleared: Vision Pro hip surgery (Engadget) has no overlap with any published XR card (gadgets-meta-xr-operator 09-01 is a dev tool, gadgets-xreal-xr 08-29 is display glasses); Nvidia PAIR (Tom's Hardware) is distinct from gadgets-anthropic-hardware-standard 08-31 (device drivers, not GPU scheduling).",
+      "Surviving-but-unused ranked backups in order: Lenovo ThinkCentre X Ultra mini PC (Notebookcheck), Ugreen local AI home hubs (Engadget), Philips Hue founder on AI creativity (TechRadar), Roborock Rover stair-climbing hands-on (Tom's Guide), Steam Frame color passthrough module (Road to VR), Anker MindBase hub (MacRumors), Flowtica Verso e-paper AI companion (Android Authority)."
     ]
   },
   "diversity": {
     "outlets": [
-      "TechRadar",
-      "Notebookcheck",
-      "Digital Trends",
+      "WIRED",
+      "Tom's Hardware",
+      "Engadget",
       "9to5Google"
     ],
     "max_per_outlet": 2,
     "distinct_outlets": 4,
     "topic_spread": [
-      "AI camera / generative video editing",
-      "creator laptop with local inference + glasses-free 3D",
-      "wearable with offline on-device assistant",
-      "smart-glasses privacy regulation",
-      "mobile silicon / neural rendering GPU"
+      "local-inference AI PCs / silicon",
+      "agentic AI compute orchestration software",
+      "industrial design: rollable display + fanless cooling",
+      "spatial computing in a regulated professional workflow",
+      "on-device agent driving a creative editing app"
     ]
   }
 }
