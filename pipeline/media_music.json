@@ -1,34 +1,30 @@
 {
-  "date": "2026-09-03",
-  "section": "music",
   "media": [
     {
-      "id": "music-tone3000-nam",
-      "type": "video",
-      "src": "pipeline/media/music-tone3000-nam.mp4",
-      "poster": "pipeline/media/music-tone3000-nam.jpg"
-    },
-    {
-      "id": "music-logic-pro-12-3-session-players",
+      "id": "music-audacity4-release",
       "type": "image",
-      "src": "pipeline/media/music-logic-pro-12-3-session-players.jpg"
+      "src": "pipeline/media/music-audacity4-release.jpg"
     },
     {
-      "id": "music-elastic-melody-bass-dfam",
-      "type": "video",
-      "src": "pipeline/media/music-elastic-melody-bass-dfam.mp4",
-      "poster": "pipeline/media/music-elastic-melody-bass-dfam.jpg"
-    },
-    {
-      "id": "music-lucinate-video-synth",
-      "type": "video",
-      "src": "pipeline/media/music-lucinate-video-synth.mp4",
-      "poster": "pipeline/media/music-lucinate-video-synth.jpg"
-    },
-    {
-      "id": "music-jazz-fingerprints-ai",
+      "id": "music-producely-dialr",
       "type": "image",
-      "src": "pipeline/media/music-jazz-fingerprints-ai.jpg"
+      "src": "pipeline/media/music-producely-dialr.jpg"
+    },
+    {
+      "id": "music-suno-studio2-plugins",
+      "type": "video",
+      "src": "pipeline/media/music-suno-studio2-plugins.mp4",
+      "poster": "pipeline/media/music-suno-studio2-plugins.jpg"
+    },
+    {
+      "id": "music-moises-advisors",
+      "type": "image",
+      "src": "pipeline/media/music-moises-advisors.webp"
+    },
+    {
+      "id": "music-alok-personalised-mv",
+      "type": "image",
+      "src": "pipeline/media/music-alok-personalised-mv.jpg"
     }
   ]
 }

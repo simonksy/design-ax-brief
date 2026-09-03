@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "games",
   "media": [
     {
-      "id": "games-atelico-own-artists-model",
+      "id": "games-agents404-bezi",
       "type": "video",
-      "src": "pipeline/media/games-atelico-own-artists-model.mp4",
-      "poster": "pipeline/media/games-atelico-own-artists-model.jpg"
+      "src": "pipeline/media/games-agents404-bezi.mp4",
+      "poster": "pipeline/media/games-agents404-bezi.jpg"
     },
     {
-      "id": "games-vizibeat-ue5-music-anim",
+      "id": "games-dlss5-nomanssky-mod",
       "type": "image",
-      "src": "pipeline/media/games-vizibeat-ue5-music-anim.jpg"
+      "src": "pipeline/media/games-dlss5-nomanssky-mod.jpg"
     },
     {
-      "id": "games-witcher4-people-over-ai",
+      "id": "games-bytebrew-liveops-agents",
       "type": "image",
-      "src": "pipeline/media/games-witcher4-people-over-ai.jpg"
+      "src": "pipeline/media/games-bytebrew-liveops-agents.jpg"
     },
     {
-      "id": "games-roblox-roost-open-models",
+      "id": "games-ai-disclosure-bait",
       "type": "image",
-      "src": "pipeline/media/games-roblox-roost-open-models.jpg"
+      "src": "pipeline/media/games-ai-disclosure-bait.jpg"
     },
     {
-      "id": "games-nvidia-ace-aniimo-chat",
-      "type": "image",
-      "src": "pipeline/media/games-nvidia-ace-aniimo-chat.jpg"
+      "id": "games-steam-slop-backlash",
+      "type": "video",
+      "src": "pipeline/media/games-steam-slop-backlash.mp4",
+      "poster": "pipeline/media/games-steam-slop-backlash.jpg"
     }
   ]
 }

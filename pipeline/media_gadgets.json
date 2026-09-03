@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-caira-ai-video-edit",
+      "id": "gadgets-nvidia-rtx-spark-ai-pcs",
       "type": "image",
-      "src": "pipeline/media/gadgets-caira-ai-video-edit.jpg"
+      "src": "pipeline/media/gadgets-nvidia-rtx-spark-ai-pcs.jpg"
     },
     {
-      "id": "gadgets-acer-aspire-g3d-local-ai",
+      "id": "gadgets-nvidia-pair-gpu-cluster",
       "type": "image",
-      "src": "pipeline/media/gadgets-acer-aspire-g3d-local-ai.jpg"
+      "src": "pipeline/media/gadgets-nvidia-pair-gpu-cluster.jpg"
     },
     {
-      "id": "gadgets-pixel-watch5-offline-gemini",
+      "id": "gadgets-lenovo-aeroblade-rollable",
       "type": "image",
-      "src": "pipeline/media/gadgets-pixel-watch5-offline-gemini.jpg"
+      "src": "pipeline/media/gadgets-lenovo-aeroblade-rollable.jpg"
     },
     {
-      "id": "gadgets-norway-smart-glasses-rules",
+      "id": "gadgets-vision-pro-hip-surgery",
       "type": "image",
-      "src": "pipeline/media/gadgets-norway-smart-glasses-rules.jpg"
+      "src": "pipeline/media/gadgets-vision-pro-hip-surgery.jpg"
     },
     {
-      "id": "gadgets-adreno-neural-fusion",
+      "id": "gadgets-gemini-spark-google-photos",
       "type": "image",
-      "src": "pipeline/media/gadgets-adreno-neural-fusion.jpg"
+      "src": "pipeline/media/gadgets-gemini-spark-google-photos.jpg"
     }
   ]
 }

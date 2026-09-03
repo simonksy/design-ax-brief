@@ -1,16 +1,18 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "games",
   "cards": [
     {
-      "id": "games-atelico-own-artists-model",
-      "tool": "Games",
+      "id": "games-agents404-bezi",
       "eyebrow": "AI NEWS",
-      "headline": "스튜디오 소속 화가 그림만 학습해\n기기 안에서 돌리는 게임 AI",
-      "body": "프로토타입 열 개를 만든 끝에 AI 자유도를 낮추고 설계한 규칙 안에 가뒀다.",
-      "mini_headline": "내 화가만 학습한 모델",
+      "headline": "AI로 뽑은 한 달짜리 프로토타입\n위시리스트는 두 달 만에 12만",
+      "body": "Bezi로 프로토타입을 한 달에 끝냈지만 코어 시스템은 끝까지 사람이 짰다.",
+      "mini_headline": "한 달 프로토타입, 위시 12만",
+      "tool": "Games",
       "source": "80 Level",
-      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists",
+      "url": "https://80.lv/articles/how-agents-404-devs-created-a-prototype-and-gained-120k-wishlists-in-two-months",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49914/images/6a976fc9388c1/contain_1200x630.jpg",
+      "published_iso": "2026-09-03T16:00:00Z",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -18,237 +20,248 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Studio Atelico는 기기에서 바로 돌아가는 AI 엔진과 모바일 카드·주사위 배틀러 Bobium Brawlers를 나란히 만든다. 플레이어가 크리처를 글로 적으면 게임이 그 문장을 정해진 미술 스타일의 초상과 개발팀이 짜둔 규칙을 따르는 덱으로 바꿔 놓는다."
+            "x": "Agents 404는 물리 기반 협동 스텔스 코미디다. 어설프기 짝이 없는 암살자들이 경비가 깔린 장소에 잠입해 우스꽝스러운 변장을 하고 희화화된 악당을 처리한 뒤, 남은 증거를 감추느라 쩔쩔맨다. 출발점은 히트맨이지만 노린 건 정교한 암살이 아니라 함께 벌이는 난장판이다."
           },
           {
             "t": "video",
-            "yt": "2f7siQkqeRQ"
+            "yt": "Dduk8u_16lA"
           },
           {
             "t": "p",
-            "x": "Uber와 Meta, SEGA, Creative Assembly를 거친 사람들이 모인 팀이라 생성 기술을 제작비를 깎는 수단이 아니라 플레이어가 직접 만지는 장치로 본다. 이미지 모델에는 참여 화가에게 의뢰해 받은 그림만 먹였고, 동의와 용도 한정, 선지급, 성과 분배를 적은 Artist Rights Contract도 공개해 뒀다."
+            "x": "개발사 PlayHero는 첫 프로토타입을 약 한 달 만에 만들었다. 이전 프로젝트에서 가져온 시스템 위에, 유니티 안에서 직접 도는 AI 에이전트 Bezi를 얹었다. 이 프로토타입으로 콘셉트를 빠르게 검증하고 트레일러를 뽑았고, 스팀 위시리스트 6만 건을 넘겼다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/85/6a960c3731b0e.jpg",
-            "cap": "Studio Atelico"
+            "src": "https://cdn.80.lv/api/upload/meta/49914/images/6a976fc9388c1/contain_1200x630.jpg",
+            "cap": "Agents 404 — 물리 기반 협동 스텔스 코미디"
           },
           {
             "t": "p",
-            "x": "CEO 겸 공동창업자 Piero Molino는 엔진과 게임을 따로 떼어 만들지 않은 이유를 서로를 밀어 올리기 때문이라고 말한다. 게임에서 어떤 메커닉이 실제로 재미있는지 확인하고, 엔진이 그 메커닉을 굴러가게 만든다. 지금은 다른 스튜디오도 이 엔진을 쓰고 있다."
+            "x": "창업자 Anton Slashcev가 꼽은 대표 사례는 여러 플레이어가 시체를 함께 옮기는 래그돌 시스템이다. 팀은 기능마다 문서를 남기는데, 그 문서도 Bezi가 거들어 만들었다. 새 기능에 들어갈 때는 맥락을 먼저 넘기고 게임 디자이너 관점의 요구사항을 적는다. 복잡한 기능이면 기술 제약과 따라야 할 아키텍처 패턴까지 못 박아 둔다."
           },
           {
             "t": "p",
-            "x": "프로토타입을 열 개 넘게 만들고 나서야 결론이 잡혔다. AI에 자유를 더 준다고 게임이 더 재미있어지지는 않았다. 너무 적으면 새로울 게 없고, 너무 많으면 규칙이 제멋대로로 느껴져 플레이어가 숙련을 쌓지 못한다. Molino는 \"AI works best when it's paired with strong game mechanics\"라고 정리했다. 규칙과 방향은 디자이너가 잡고, AI는 그 안에서 개인화와 놀라움을 맡는다."
+            "x": "다음 순서는 Bezi에게 되묻게 하는 일. 확인이 필요한 지점을 질문하고 개선안과 구현 계획을 내놓게 한다. 까다로운 기능이면 리드 개발자가 계획을 먼저 검토한다. 계획이 통과돼야 에이전트가 코드를 쓴다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/e4/6a960c3c520a8.jpg",
-            "cap": "Studio Atelico"
+            "src": "https://cdn.80.lv/api/upload/content/53/images/6a8f7a4368450/widen_1840x0.jpg"
           },
           {
             "t": "p",
-            "x": "모델을 기기에서 돌리는 이유도 성능만은 아니다. 호출마다 비용이 붙으면 개발자가 그 제약에 맞춰 설계하게 된다. 로컬 실행은 그 계산을 지워 AI를 가끔 쓰는 기능이 아니라 핵심 시스템으로 다루게 한다. 대신 다양한 하드웨어에서 품질을 유지하며 돌릴 만큼 모델을 가볍게 만드는 숙제가 남는다."
+            "x": "선은 분명하다. 코어 아키텍처를 건드리지 않는 기능, 이미 구현 패턴이 있는 기능은 Bezi가 맡는다. 새롭거나 복잡하거나 아키텍처에 민감한 작업은 리드 개발자 몫이다. 에셋 쪽은 여전히 게임 디자이너와 아티스트가 잡고, Bezi는 왜 안 되는지 답해 주는 정도로 붙는다."
+          },
+          {
+            "t": "p",
+            "x": "범용 NPC 행동 시뮬레이션처럼 아예 손대지 못하게 막아 둔 시스템도 있다. AI는 기존 인터페이스로만 접근한다. 민감한 부분에 AI 코드가 닿으면 리드 개발자가 반드시 들여다본다. 물리와 협동, 스텔스처럼 깨지기 쉬운 시스템일수록 사람이 구조를 알고 있어야 한다는 게 Slashcev의 말이다. 핵심 시스템이 팀에게 블랙박스가 되면 안 된다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/59/6a960c415aa8f.jpg",
-            "cap": "Studio Atelico"
+            "src": "https://cdn.80.lv/api/upload/content/bd/images/6a9726b2c8469/widen_1840x0.jpg"
           },
           {
             "t": "p",
-            "x": "출력이 매번 달라지는 시스템은 검증 방식도 다르다. 같은 결과가 나오는지를 보는 대신 모든 출력이 게임의 창작·플레이 제약 안에 머무는지를 통계로 확인한다. 미리 적어둔 체크리스트로 기준선을 잡고, 부적절한 반응은 레드팀으로 두드려 본다."
+            "x": "프로토타입 단계라면 대단한 기술력이 없어도 된다고 그는 본다. 확장 가능한 프로덕션 시스템을 만들려면 이야기가 달라진다. AI가 쓴 코드는 기술 부채를 남기기도 한다. 고립된 모듈 안에서라면 감당할 만하지만, 시스템 전체로 번지면 심각해진다."
           },
           {
             "t": "p",
-            "x": "화가 José Luna는 크리처 스무 마리를 먼저 그려 모델을 학습시켰다. 초기 데이터에 보라색 드래곤 하나뿐이었더니 모델이 드래곤을 죄다 보라색으로 뽑았고, 무생물로 묘사한 크리처에 눈을 그려 넣는 것도 놓쳤다. 그때마다 부족한 예시를 채워 다시 학습했고, 지금까지 그린 크리처는 100마리쯤 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/38/6a960c4622781.jpg",
-            "cap": "Studio Atelico"
-          },
-          {
-            "t": "p",
-            "x": "지난 1년의 가장 큰 교훈은 반대편에서 왔다. 모델을 세게 조종했더니 지시를 너무 곧이곧대로 따라 기대했던 변주가 사라졌다. 통제와 변주 사이의 이 긴장을 푸는 장치를 따로 붙여야 했다."
+            "x": "초기 검증 구간에서는 품질보다 속도가 먼저다. 아이디어가 먹히는지, 플레이어가 반응하는지부터 확인한다. 그렇게 만든 프로토타입이 두 달 만에 위시리스트 12만 건을 모았다. Slashcev의 표현으로 AI는 실행자다. 때로 조언자 노릇까지 하지만 결정은 사람이 내린다. 아키텍처와 비주얼 스타일, 게임 디자인, UX를 두고 내리는 판단은 사라지지 않았다."
           }
         ]
       }
     },
     {
-      "id": "games-vizibeat-ue5-music-anim",
-      "tool": "Games",
+      "id": "games-dlss5-nomanssky-mod",
       "eyebrow": "AI NEWS",
-      "headline": "음악을 넣으면 조명과 카메라가\n알아서 박자를 타는 UE5 플러그인",
-      "body": "키프레임 없이 오디오만 물리면 조명과 카메라, 파티클이 각자 다른 소리를 따라간다.",
-      "mini_headline": "박자 타는 UE5 씬",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/create-procedural-ue5-animations-based-on-music-with-this-tool",
+      "headline": "팬이 억지로 넣은 DLSS 5\n노 맨즈 스카이의 룩을 지울까",
+      "body": "모더가 DLSS 5를 밀어 넣자 헬로게임즈는 아트 디렉션 문제라고 답했다.",
+      "mini_headline": "DLSS 5와 아트 디렉션",
+      "tool": "Games",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/survival/no-mans-sky-fan-adds-nvidias-dlss-5-to-the-game-hello-games-programmer-worries-the-ai-filter-could-ruin-its-unique-look-and-feel/",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iPh5JZjpBhqEQybSWb8QXo-1920-80.jpg",
+      "published_iso": "2026-09-03T20:14:12Z",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "실시간 3D 테크니컬 아티스트 Andrea Carver가 만든 Vizibeat는 음악 비트를 읽어 Unreal Engine 씬 전체를 움직이는 플러그인이다. 비트 하나도 키프레임으로 찍지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "반복되고 지루한 구간은 절차적으로 처리된다. 카메라와 조명, 머티리얼, 파티클이 각각 음악의 다른 요소를 따라가고, 비주얼은 곡의 리듬과 성격에 맞춰 붙는다. 웹사이트에 트랙별 결과가 올라와 있다."
-          },
-          {
-            "t": "p",
-            "x": "곡의 특정 순간을 프레임이 아니라 마디와 박으로 세는 타임라인에 올려둘 수도 있다. 그 지점을 손으로 스케치하거나 MIDI 패드로 즉석에서 찍거나, 오디오에서 바로 초안을 뽑아 쓰는 것도 된다."
-          },
-          {
-            "t": "p",
-            "x": "안쪽은 노드 그래프다. 다만 조작부가 사람 말로 정리돼 있어 기술 세부를 파고들지 않고 스타일만 골라도 된다."
+            "x": "엔비디아 DLSS 5가 멀쩡하던 게임들을 AI 보정 리얼리티 쇼처럼 만들어 놓고 있다. 이번 차례는 헬로게임즈의 우주 탐사 게임 노 맨즈 스카이다. 팬이 만든 클립 하나가 퍼지면서 DLSS 5를 원하는 사람이 꽤 많다는 사실이 드러났는데, 정작 헬로게임즈는 넣어 줄 생각이 없어 보인다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/eb/6a97f2653838f.jpg",
-            "cap": "Vizibeat"
+            "src": "https://cdn.mos.cms.futurecdn.net/iPh5JZjpBhqEQybSWb8QXo-1920-80.jpg",
+            "cap": "노 맨즈 스카이 (이미지: Hello Games)"
           },
           {
             "t": "p",
-            "x": "Travis Scott와 Marshmello, Subtronics와 일해 온 디지털 아티스트 겸 아트 디렉터 Connor Campbell은 진폭을 빛의 세기에 물리는 노드 시스템을 가장 갖고 싶었다며, 오디오 파일을 꽂자마자 싱크가 맞는 순간 턱이 빠졌다고 했다. John Summit과 Tiësto, Post Malone과 작업한 3D 아티스트 Alex Hooker는 없으면 안 되는 도구라고 적었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/97/6a97f2a77d8ff.jpg",
-            "cap": "Vizibeat"
+            "x": "트위치 스트리머 Oskar1up이 올린 원본 글은 좋아요 6천 개, 조회수 180만 회를 넘겼다. 댓글은 DLSS 5가 만든 복숭아빛 노을과 유리 같은 파도를 칭찬했다. 2016년에 나온 이 게임 특유의 은근한 아름다움과는 결이 다른 화면이다. 그 글이 헬로게임즈 엔진 프로그래머 Martin Griffiths의 눈에 들어왔다."
           },
           {
             "t": "p",
-            "x": "Excision과 Wooli의 VJ 겸 언리얼 아티스트 John Paiz는 조명을 곡에 맞춰 일일이 키프레임하느라 닷새가 걸리던 일이 몇 시간으로 줄었다고 말했다. Vizibeat는 올해 Coachella 여러 무대에 투입됐고 Backstreet Boys, Subtronics, KYGO, Foster the People, Kehlani, Excision의 비주얼 팀이 썼다. 그 팀들의 피드백이 다시 도구에 반영됐다."
+            "x": "한 사용자는 노 맨즈 스카이야말로 DLSS 5에 딱 맞는 게임이라고 적었다. 사람 얼굴이 없어 불쾌한 골짜기가 생기지 않고, 자연과 우주 장면이 많아 리얼리즘을 더할 여지가 크다는 이유였다. Griffiths는 그 말에 동의하지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "\"노 맨즈 스카이에 DLSS 5를 붙인다면 그 일은 아마 제 몫일 겁니다. DLSS 지원을 제가 짰으니까요.\" Griffiths가 트위터에 쓴 말이다. \"그런데 이걸 채택하는 건 기술 결정이라기보다 아트 디렉션 선택에 가깝습니다.\""
+          },
+          {
+            "t": "p",
+            "x": "엔비디아는 게임스컴 2026 시연에서 이 2D 생성형 AI 필터가 오직 포토리얼리스틱 게임을 위한 것이라고 못 박았다. 그 기준대로면 스스로 부드러운 무지갯빛 은하를 만들어 온 노 맨즈 스카이는 애초에 대상이 아니다."
+          },
+          {
+            "t": "p",
+            "x": "의도와 현실은 따로 논다. 이용자들은 NBA 2K27 파일을 뜯어 자체 DLSS 5 버튼을 만들었고, 이 비공식 경로가 노 맨즈 스카이를 젤리로 채운 것처럼 보이게 만들었다. Griffiths가 남긴 문장이 질문을 정리한다. \"할 수 있느냐가 아닙니다. 이미지가 나아지느냐, 아니면 노 맨즈 스카이 고유의 룩과 느낌을 깎아내기 시작하느냐죠.\""
           }
         ]
       }
     },
     {
-      "id": "games-witcher4-people-over-ai",
-      "tool": "Games",
+      "id": "games-bytebrew-liveops-agents",
       "eyebrow": "AI NEWS",
-      "headline": "위처 4는 여전히 사람이 만든다\nCD Projekt Red 공동 대표의 말",
-      "body": "AI는 도구일 뿐 게임 전체를 맡길 생각은 없다고 실적 발표에서 못 박았다.",
-      "mini_headline": "사람이 만드는 위처 4",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/",
+      "headline": "바이트브루가 라이브옵스 전체를\nAI 에이전트 대화 안으로 넣었다",
+      "body": "분석에서 배포까지 한 대화로 끝내 주당 여덟 시간을 아낀다고 바이트브루는 말한다.",
+      "mini_headline": "라이브옵스 에이전트",
+      "tool": "Games",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/bytebrew-brings-live-operations-into-app-developers-aiworkflows/",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/ByteBrew_Platform_Images_with_Logo.jpg",
+      "published_iso": "2026-09-03T13:00:00Z",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/VEvzgDyGsv2hLZtpU25Se8.png",
-            "cap": "The Witcher 4 (이미지: CD Projekt Red)"
-          },
-          {
             "t": "p",
-            "x": "CD Projekt Red 실적 발표에서 공동 대표 Michał Nowakowski가 게임 개발에 AI를 어떻게 쓰는지 질문을 받았다. 답은 대형 스튜디오 임원들의 최근 화법과 크게 다르지 않았다. 특정 공정에서 쓸모는 인정하되, AI가 게임을 통째로 만드는 방향은 거절한다."
-          },
-          {
-            "t": "p",
-            "x": "Nowakowski는 \"We are still predominantly using people and this is our plan\"이라며 그 방식에서 물러설 계획이 없다고 했다. AI는 \"a tool like many others\"로, 앞으로 더 쓸모가 커질 자리가 있을 뿐 게임을 통째로 맡길 대상은 아니라는 것이다."
+            "x": "ByteBrew가 라이브 오퍼레이션 스택 Operate를 자사 실시간 앱 인텔리전스 MCP 서버 Shift AI 안에서 그대로 돌아가게 했다. 모바일 앱을 분석하고 운영하고 키우는 플랫폼 위에 한 겹이 더 붙은 셈이다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/S9ZmAQWLf5vKjwSP59uJ5a.jpg",
-            "cap": "위처 4 스크린샷"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/09/ByteBrew_Platform_Images_with_Logo.jpg",
+            "cap": "Operate가 Shift AI 안으로 들어갔다 (이미지: ByteBrew)"
           },
           {
             "t": "p",
-            "x": "특히 자사 게임처럼 복잡한 규모에서는 \"I don't even think this is the right or ethical path to follow\"라고 선을 그었다. 다만 업계 전체를 두고 말할 사람은 자신이 아니라며, \"everybody has to make those judgments on their own\"이라고 덧붙였다."
+            "x": "노린 건 문제를 찾은 대화와 문제를 고치는 대화를 하나로 합치는 일이다. 스튜디오가 Shift AI에게 바꿀 지점을 지목하면, 메시지 한 번으로 ByteBrew의 Remote Configs와 A/B Tests를 거쳐 전 세계 사용자에게 라이브 업데이트가 나간다. 코호트마다 다른 경험을 정의하고 한꺼번에 내보내는 일이 가능해진다."
+          },
+          {
+            "t": "p",
+            "x": "공동창업자 겸 COO Kian Hozouri는 보도자료에서 이렇게 말했다. \"모바일이 디지털 광고의 속도를 정합니다. 이렇게 경쟁이 치열한 시장에서는 가장 빨리 적응하는 팀이 계속 살아남습니다.\" 세션의 어느 순간에 사용자가 빠져나가는지, 어떤 오퍼가 반응을 못 얻는지까지 이미 보이는 상태라는 설명이 뒤따랐다."
+          },
+          {
+            "t": "p",
+            "x": "달라지는 지점은 속도다. 최대 48시간이 걸리는 심사를 기다리지 않고 변경 사항이 모든 사용자에게 동시에 닿는다. 단계적 롤아웃도, 스토어 제출도, 나중에 관리할 버전 파편화도 없다. 지표 조립과 설정 수정, 실험 세팅, 세그먼트 구축, 인앱 변경 QA가 대화 하나로 묶이면서 주당 여덟 시간쯤이 남는다."
+          },
+          {
+            "t": "p",
+            "x": "규모가 문제였던 팀에게는 계산이 바뀐다. 앱 하나에 설정 250개를 유지하고 동시에 100개 넘는 타이틀을 굴리는 스튜디오도 있다. 손으로 하면 개인화는 전략이 아니라 운영 부담이 된다. 어떤 코호트에는 첫 사용자 경험을 손보고, 가격 민감도가 다른 집단에는 가격과 오퍼를 조정하고, 지출이 적은 사용자는 광고 기반 수익화로 옮기는 식이다. 결과를 재고 그 패턴을 설정 수십 개에 걸쳐 반복한다."
+          },
+          {
+            "t": "p",
+            "x": "CEO Cameron Hozouri는 \"데이터에서 인사이트를 찾아내는 일은 아직 거두지 않은 매출\"이라고 했다. 다음 단계는 그 수정을 사용자 개개인에게 즉시 배포하는 것. 릴리스 사이클도, 앱스토어 심사도 거치지 않는다."
           }
         ]
       }
     },
     {
-      "id": "games-roblox-roost-open-models",
-      "tool": "Games",
+      "id": "games-ai-disclosure-bait",
       "eyebrow": "AI NEWS",
-      "headline": "Roblox가 AI 안전 모델 세 개를\nROOST에 오픈소스로 내놨다",
-      "body": "PII 분류기와 Sentinel, 음성 분류기를 다른 플랫폼도 받아 쓰게 풀었다.",
-      "mini_headline": "열린 안전 분류기 셋",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+      "headline": "'최종 빌드엔 AI 없다'는 말이\n프로젝트 전체를 뜻하지는 않는다",
+      "body": "출시 빌드에 AI 에셋이 없다는 해명은 기획과 프리프로덕션까지 덮어 주지 않는다.",
+      "mini_headline": "'AI 없음'의 빈틈",
+      "tool": "Games",
+      "source": "Aftermath",
+      "url": "https://aftermath.site/1666-amsterdam-no-more-ai-tomb-raider-divinity/",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg",
+      "published_iso": "2026-09-02T17:55:25Z",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "1666: Amsterdam은 어쌔신 크리드 공동 창작자 Patrice Désilets의 신작으로 알려졌다가, 공개 당시 형편없는 AI 아트로 한 차례 망신을 샀다. Désilets는 GamesRadar와의 인터뷰에서 자사가 표절 기계를 \"대체로 초반에, 구상과 프리프로덕션 단계에서\" 돌렸고 이제는 파이프라인에서 뺐다고 밝혔다. 어디서 많이 듣던 이야기다."
+          },
+          {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/roblox-phone.png?width=1200&quality=85&format=jpg&auto=webp",
-            "cap": "이미지: Roblox"
+            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg",
+            "cap": "1666: Amsterdam"
           },
           {
             "t": "p",
-            "x": "Roblox가 자사 AI 안전 모델 세 개를 Robust Open Online Safety Tools Model Community, 줄여서 ROOST를 거쳐 오픈소스로 공개했다. ROOST는 온라인 안전용 오픈소스 인프라를 만들고 관리하는 독립 비영리로, Roblox가 2025년 Google, OpenAI, Discord와 함께 세웠다."
+            "x": "올해 초 Blood of Dawnwalker 개발진이 그랬다. 전직 위처 개발자들이 만든 흡혈귀 잠입 액션으로, 이번 주에 나온다. Tomb Raider: Legacy of Atlantis 쪽도 마찬가지다. 스팀 페이지에는 \"AI 지원 도구\"를 \"초기 탐색과 임시 개발 콘텐츠\"에 썼지만 \"AI가 관여한 에셋은 개발팀의 창작·예술적 비전을 지키려고 모두 교체하거나 사람이 다듬었다\"고 적혀 있다. 라리안 CEO Swen Vincke도 연초에 비슷한 해명을 내놨다."
           },
           {
             "t": "p",
-            "x": "내놓은 것은 PII Classifier와 Roblox Sentinel, 그리고 최신 음성 안전 분류기다. 셋 다 이미 Roblox 플랫폼에서 돌아가는 모델이다."
+            "x": "공식 하나가 이미 굳었다. AI를 쓰고, 들키거나 인정하고, 최종 게임에는 AI 에셋이 들어가지 않는다고 말한 뒤, 당분간 AI는 안 쓰겠다고 덧붙인다. 애초에 많이 쓰지도 않았으니 뭐가 문제냐는 마무리까지. 그러면 악평이 가라앉고 일상으로 돌아간다."
           },
           {
             "t": "p",
-            "x": "PII Classifier는 개인 식별 정보를 주고받으려는 시도를 잡아낸다. 철자를 일부러 틀리거나 은어를 쓰거나 다른 플랫폼을 에둘러 가리키는 방식까지 본다. 필터를 피하려는 수법을 본떠 만든 영어 다중 사용자 대화의 합성 표본으로 구성한 평가 데이터셋도 함께 풀었다."
+            "x": "이걸 면죄부로 받아 줄 수는 없다. 비판에 대한 대응으로 솔직하지 않고, 뜯어보면 말이 맞지 않는다. 창작은 과정이고 그 시작이 발상과 구상이다. 글 쓰는 사람은 새 세계를 그려 보고, 아티스트는 가장 뒤틀린 상상을 스케치하고, 디자이너는 없던 장르와 메커닉을 만든다. 진부한 말이지만 AI가 가장 끼어들지 말아야 할 자리가 바로 거기다."
           },
           {
             "t": "p",
-            "x": "Roblox Sentinel은 아동이 위험에 놓이는 초기 신호를 잡고, 음성 안전 분류기는 음성 채팅을 실시간으로 걸러낸다. 뒤쪽은 ROOST 커뮤니티의 피드백이 반영됐다. 안전 도구가 실제로 작동하는지 재보라고 만든 평가 데이터셋도 새로 나왔는데, 최신판은 30개 언어와 여덟 개 위반 범주를 다룬다."
+            "x": "AI가 뱉은 글과 이미지, 디자인이 최종 게임에 남지 않아도 지문은 여기저기 묻는다. 사람이 위에 덧칠했을 뿐 밑그림은 AI의 헛것이다. 기여가 정말 초반에만 국한됐다 해도 배의 방향은 이미 AI가 잡은 셈이다. 특정 기술이 아니라 AI에게 시키는 법을 배우는 사람들, 게임 개발판으로 옮겨 온 그 풍경이다. 어느 지점을 넘으면 게임 안에 못생긴 그림 한두 장 넣는 쪽보다 나쁘다. 바닥에 난 틈을 메우고, 그 위에 모든 것이 올라가니까."
           },
           {
             "t": "p",
-            "x": "신뢰·안전 엔지니어링 부사장 Naren Koneru는 모델을 나누면 다른 플랫폼이 자기 조정 도구를 학습시키고 다듬을 출발점을 얻는다고 했다. 안전은 함께 지는 책임이고 한 회사가 혼자 풀 수 없다는 말도 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "같은 주 초 미국 상원 법사위 범죄·대테러 소위는 Roblox 조사에 착수했다고 밝혔다. 이 플랫폼이 아동 안전보다 매출과 참여 지표를 앞세우는 것으로 보인다는 이유였고, 아동 안전과 학대, 괴롭힘, 금전 착취 관련 기록을 2026년 8월 31일까지 내라고 요구했다. Roblox는 최근 몇 년 사이 13세 미만 다이렉트 메시지 제한과 안면 인식 확인, 민감 주제 태그, 조정 정책 강화를 차례로 붙여 왔다."
+            "x": "이건 미끼 상술이고, 기본값으로 굳어서는 안 된다. 매 순간 눈앞에 보이지 않을 뿐 AI는 이 게임들에 스며 있다. 임원과 스튜디오 대표들은 앞으로도 양쪽 말을 다 할 테고, 그대로 두면 곤란하다. 말이 뜻을 가져야 한다. 그러지 않으면 AI가 정말로 이긴다."
           }
         ]
       }
     },
     {
-      "id": "games-nvidia-ace-aniimo-chat",
-      "tool": "Games",
+      "id": "games-steam-slop-backlash",
       "eyebrow": "AI NEWS",
-      "headline": "PUBG 팀메이트를 굴리던 Nvidia ACE가\n크리처와 말 섞는 RPG로 간다",
-      "body": "2027년 초부터 Aniimo 플레이어는 RTX GPU에서 크리처와 말을 섞는다.",
-      "mini_headline": "말 거는 크리처",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/nvidia-tech-behind-pubgs-genai-team-mates-will-let-folks-chat-to-creature-collecting-rpg-aniimos-not-pokemon-next-year",
+      "headline": "AI가 살짝 닿은 컷신 하나에\n스팀 출시 반응이 통째로 뒤집혔다",
+      "body": "위시리스트 10만을 쌓은 인디가 AI 컷신 하나로 대체로 부정적까지 내려앉았다.",
+      "mini_headline": "AI 컷신 한 편의 대가",
+      "tool": "Games",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
+      "published_iso": "2026-08-24T02:56:27Z",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Vapor World: Over The Mind는 소울라이크와 메트로배니아를 섞은 게임이다. 회화적인 아트 스타일은 라이즈 오브 P나 플레이데드의 내러티브 플랫포머를 떠올리게 한다. 한국 스튜디오 Alive Inc에 따르면 8월 19일 얼리 액세스 출시 직전 위시리스트가 10만 건이었다. 2025년 1월부터 열어 둔 데모의 힘이 컸다."
+          },
+          {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=1200&quality=85&format=jpg&auto=webp",
-            "cap": "Aniimo (이미지: Pawprint Studio)"
+            "src": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
+            "cap": "Vapor World: Over The Mind (이미지: Alive Inc)"
           },
           {
             "t": "p",
-            "x": "Nvidia가 DLSS 4.5용 Ray Reconstruction과 함께, PUBG: Battlegrounds의 생성형 AI 팀메이트를 굴려 온 ACE 기술을 내년 초 다른 게임에 넣는다고 밝혔다. 그 게임은 중국 개발사 Pawprint Studio의 오픈월드 크리처 수집 RPG Aniimo다. Palworld 계열이 다져 놓은, 포켓몬과 법적으로는 다른 그 공식을 따라가는 쪽이다."
+            "x": "출시는 금세 어그러졌다. 독특한 세계관도, 패링 중심의 전투도 화제가 되지 못했다. 시선은 데모에 없던 한 가지, 눈에 확 띄는 AI 사용에 쏠렸다."
           },
           {
             "t": "p",
-            "x": "Nvidia 선임 제품 마케팅 매니저 Ike Nnoli는 게임스컴 사전 브리핑에서 \"In early 2027, Nvidia ACE will be running on RTX GPUs and it will allow players to speak naturally to their Aniimos\"라고 말했다. 대화를 나누고, 제작이나 채굴 같은 기술을 가르치고, 각자의 성격을 알아 가는 식이다."
+            "x": "스팀에서 \"가장 도움이 되는\" 리뷰는 이렇게 적었다. \"게임플레이가 시작되기도 전에 나오는 첫 컷신부터 봤는데, 그들이 쓴 생성형 AI는 주인공 모델조차 일관되게 유지하지 못했다.\" 트레일러 속 게임플레이는 재미있어 보였지만 자신은 로봇이 아니라 사람을 지지한다는 말이 뒤따랐다."
+          },
+          {
+            "t": "video",
+            "yt": "AxLikQwnHWw"
           },
           {
             "t": "p",
-            "x": "전장에서 NPC가 전투 상황에 반응하고 전술 기동에 끼어들게 하려던 PUBG 쪽 시도보다는, 전통적인 AI 챗봇 쪽에 가까운 형태다."
+            "x": "현재 리뷰 64개가 \"대체로 부정적\"에 머물러 있다. 직원이 다섯 명 남짓인 스튜디오로서는 뼈아픈 결과다. 방향을 못 읽었을 가능성도 있다. 퓨리서치센터 조사에서 한국은 25개국 가운데 AI에 가장 덜 회의적인 나라로 나온다. 미국과 이탈리아, 호주, 브라질에서는 절반 안팎이 일상 속 AI를 기대보다 걱정 쪽으로 답했지만 한국은 16퍼센트에 그쳤다."
           },
           {
             "t": "p",
-            "x": "질의응답에서는 지난해 중국 RPG Where Winds Meet에서처럼 플레이어가 생성형 NPC를 구슬려 퀘스트 보상을 미리 받아 내는 문제를 어떻게 막느냐는 질문이 나왔다. Nnoli는 개발사가 캐릭터의 응답 범위를 완전히 통제하며 행동과 응답 가드레일, 모델 지시가 그 수단이라고 답했다. Aniimo에서는 Pawprint가 적용 범위를 제작과 채굴을 하는 본거지 홈랜드로 한정했다."
+            "x": "스튜디오 디렉터 Young Kim의 사과문에는 당혹감이 묻어난다. AI 컷신은 주말 안에 교체하겠다고 했고, 실제로 교체됐다. \"AI를 택한 이유는 기존 리소스로는 닿지 못할 표현 수준에 갈 수 있다고 믿었고, 스토리와 시네마틱 바깥의 게임 자체에 더 집중할 수 있으리라 봤기 때문입니다.\" 그는 이를 성급한 판단이었다고 적었다. 실망하는 사람이 나오리라 예상은 했지만 이 정도로 커질 줄은 몰랐다고도 했다."
           },
           {
             "t": "p",
-            "x": "그렇게 보면 이 기능은 AI가 붙은 닌텐독스에 가깝다. 다만 PUBG의 AI 병사와 달리 아이들이 이 크리처와 오래 대화할 가능성이 크다. Fortnite의 AI 다스 베이더가 대화 도중 가면을 벗던 사고를 되풀이하지 않기를 바랄 뿐이다. Nvidia는 ACE 적용 시점을 2027년 초로 잡았고, Aniimo의 Steam 페이지는 아직 출시일 없이 \"coming soon\"으로 남아 있다."
+            "x": "컷신은 원래 인엔진으로 만들었다가 나중에 AI로 갈아 끼운 것이었고, 팀은 그 낙차를 알아채지 못했다. Alive Inc는 라리안 스튜디오, 샌드폴 인터랙티브처럼 거센 반발 뒤 AI 사용을 되돌린 목록에 이름을 올렸다. Vapor World가 통째로 슬롭인 건 아니다. 코어 게임에 들인 공은 화면에 남아 있다. 다만 생성형 AI로 품을 줄이는 선택을, 적어도 지금 관객은 봐주지 않는다."
           }
         ]
       }

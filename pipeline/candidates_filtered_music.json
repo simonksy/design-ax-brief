@@ -1,123 +1,103 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "music",
-  "now_iso": "2026-09-02T22:00:00Z",
+  "now_iso": "2026-09-03T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/",
-      "source": "Bedroom Producers Blog",
+      "url": "https://www.gearnews.com/producely-dialr-studio/",
+      "source": "Gearnews",
       "category": "music",
-      "title": "The new TONE3000 is FREE and provides access to countless NAM profiles",
-      "published_iso": "2026-09-02T17:08:21+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/TONE3000-728x364.jpg",
-      "excerpt": "TONE3000 has released a free plugin for macOS, Windows and Linux that plays back Neural Amp Modeler (NAM) captures, opening a huge library of neural-modelled amps, cabs, pedals and outboard to any DAW. Neural capture is quietly becoming the default way guitar and studio gear gets emulated — sound and reactive behaviour, not just static impulse responses.",
-      "keyword": "neural synthesizer / neural amp modeling"
+      "topic": "production_tools",
+      "title": "Producely Dialr: This Plugin Controller Maps with AI!",
+      "published_iso": "2026-09-03T12:29:23+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
+      "excerpt": "First shown at Superbooth25, the Producely Dialr hardware controller is now orderable: an AI-assisted mapping engine reads whatever plugin is in focus and assigns its most useful parameters to the knobs automatically, removing the MIDI-learn step from hands-on mixing and sound design."
     },
     {
-      "url": "https://cdm.link/elastic-melody-1-2/",
-      "source": "CDM (Create Digital Music)",
+      "url": "https://www.gearnews.com/audacity-update-free/",
+      "source": "Gearnews",
       "category": "music",
-      "title": "Elastic Melody now does bass and DFAM-style percussion, too (Mac, iOS)",
-      "published_iso": "2026-09-02T10:50:09+00:00",
-      "og_image": "https://cdm.link/app/uploads/2026/09/EM-DFAM-2.jpg",
-      "excerpt": "Elastic Melody, a go-to algorithmic melody generator for Mac, iPad and iPhone, adds Pitch and Filter Drive modes so the same generative engine can now write basslines and DFAM-style percussion. It is a case study in generative composition as an instrument rather than a prompt box.",
-      "keyword": "generative music / algorithmic music system"
+      "topic": "production_tools",
+      "title": "Audacity 4 Is Finally Here: The Biggest Update in the Editor's History",
+      "published_iso": "2026-09-03T16:43:29+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
+      "excerpt": "Audacity 4 ships a redesigned clip workflow, Workspaces and a full visual overhaul — and keeps the Intel OpenVINO AI toolset (music separation, noise suppression, transcription, music generation) plus new AI-powered podcast features inside a free, open-source editor."
     },
     {
-      "url": "https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/",
-      "source": "MusicTech",
+      "url": "https://djmag.com/news/armin-van-buuren-and-laidback-luke-join-responsible-ai-music-company-moises-advisors",
+      "source": "DJ Mag",
       "category": "music",
-      "title": "Logic Pro 12.3, as reviewed by a Cubase version 1 user",
-      "published_iso": "2026-09-02T08:00:01+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-hero-credit-press@2000x1500-1068x801.jpg",
-      "excerpt": "A lifelong Cubase user reviews Logic Pro 12.3 and lands on its AI features as the reason to switch: Session Players that conjure convincing bass, drum and keyboard parts from a project's chords and groove, plus \"one of the best stem separation processes I've encountered\". A concrete read on how AI performers reshape a DAW workflow.",
-      "keyword": "AI in Logic Pro / Session Players"
+      "topic": "music_ai_licensing",
+      "title": "Armin van Buuren and Laidback Luke join 'responsible' AI music company Moises as advisors",
+      "published_iso": "2026-09-03T13:27:41+01:00",
+      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Armin%20%2B%20Luke%203.jpg.webp",
+      "excerpt": "Two headline DJ-producers have signed on as advisors to Moises, whose stem-separation, AI mixing/mastering and generative session-player tools are trained only on licensed and authorised content. The pair will steer how the toolset is shaped for working producers."
+    },
+    {
+      "url": "https://musically.com/2026/09/01/alok-fans-get-personalised-music-video-with-headphone-purchases/",
+      "source": "Music Ally",
+      "category": "music",
+      "topic": "ai_music_video",
+      "title": "Alok fans get personalised music video with headphone purchases",
+      "published_iso": "2026-09-01T12:21:03+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
+      "excerpt": "Alok and agency Rise New York & Partners turned a headphone purchase into an AI-generated music video that is unique for every buyer — a production pipeline where the 'one video per release' assumption is replaced by per-fan rendering."
     },
     {
       "url": "https://musically.com/2026/09/02/report-explores-ais-indies-impact-and-infrastructure-erosion/",
       "source": "Music Ally",
       "category": "music",
-      "title": "Report explores AI’s indies impact and infrastructure erosion",
+      "topic": "industry",
+      "title": "Report explores AI's indies impact and infrastructure erosion",
       "published_iso": "2026-09-02T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T121104.346.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Research firm Stvdio and Secretly Distribution published a report on the independent-music sector, framed as \"a fight for music's infrastructure\" as generative AI floods catalogues and recommendation systems. It maps what erodes for working artists when supply becomes infinite.",
-      "keyword": "AI music industry"
+      "og_image": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T121104.346.png",
+      "excerpt": "Research firm Stvdio and Secretly Distribution published a study of the independent sector, arguing that generative AI plus platform economics is eroding the infrastructure — studios, labels, distributors — that independent creative work depends on."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/08/31/musicians-anti-ai-callout-culture-profile/",
-      "source": "Digital Music News",
+      "url": "https://www.billboard.com/music/country/big-rich-new-song-hello-ai-premiere-1236325574/",
+      "source": "Billboard",
       "category": "music",
-      "title": "Meet the Musicians Leading the Anti-AI ‘Callout Culture’",
-      "published_iso": "2026-08-31T10:08:58+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/musicians-leading-anti-ai-culture.png",
-      "excerpt": "A profile of the musicians hunting down AI \"grifters\" passing off generated tracks as human work, and the norms they are improvising in public. A look at how craft communities police authorship when the tooling leaves no fingerprints.",
-      "keyword": "AI music culture"
+      "topic": "creative_practice",
+      "title": "Big & Rich Take on Artificial Intelligence on Ominous New Song 'Hello AI'",
+      "published_iso": "2026-08-27T16:00:00+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2020/03/big-and-rich-2020-cr-Kristin-Barlowe-billboard-1548-1585686363.jpg",
+      "excerpt": "Rather than issuing a statement, country duo Big & Rich lodged their protest against AI as a song — 'Hello AI' — putting the argument about machine-made music inside the craft itself."
     },
     {
-      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
-      "source": "MusicRadar",
+      "url": "https://www.youtube.com/watch?v=lGvyrEkZ6ZU",
+      "source": "Suno (YouTube)",
       "category": "music",
-      "title": "AI models can identify iconic jazz pianists based on their recordings, while also revealing their \"musical fingerprints\"",
-      "published_iso": "2026-08-25T10:09:21+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi-1200-80.jpg",
-      "excerpt": "New research shows machine-learning models can name the jazz pianist behind a recording and, in doing so, expose the measurable \"musical fingerprint\" of a player's touch, timing and voicing. Researchers say it could suggest authors for unattributed works.",
-      "keyword": "AI music research / style fingerprinting"
+      "topic": "generators_models",
+      "title": "Creating plugins in Suno Studio 2.0",
+      "published_iso": "2026-08-26T13:00:05+00:00",
+      "og_image": "https://i.ytimg.com/vi/lGvyrEkZ6ZU/maxresdefault.jpg",
+      "excerpt": "Suno's own walkthrough of building custom audio plugins from the chat bar inside Studio 2.0 — the vendor showing how a prompt becomes a signal-processing device in a working session."
     },
     {
-      "url": "https://www.hypebot.com/mark-my-words-ai-music-is-the-end-of-the-artist-economy/",
-      "source": "Hypebot",
+      "url": "https://www.youtube.com/watch?v=59rEQZmGF24",
+      "source": "Suno (YouTube)",
       "category": "music",
-      "title": "Mark My Words: AI Music Is the End of the Artist Economy.",
-      "published_iso": "2026-08-25T16:46:51+00:00",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/Still-Frame-Picture.jpg",
-      "excerpt": "People keep calling gen-AI music \"inevitable\", but if making a song no longer requires an artist, the argument goes, that isn't the future — it's the end of the artist economy. A blunt counter-case to the tooling optimism.",
-      "keyword": "AI music industry"
+      "topic": "generators_models",
+      "title": "Audio Effects & Plugins in Suno Studio 2.0",
+      "published_iso": "2026-08-23T14:25:12+00:00",
+      "og_image": "https://i.ytimg.com/vi/59rEQZmGF24/maxresdefault.jpg",
+      "excerpt": "Hands-on tour of the factory effects chain — sidechain compression, convolution reverb, automation curves — that turns Suno's generative output into something mixable rather than a finished export."
     },
     {
-      "url": "https://cdm.link/lucinate-visuals-on-mac-and-ios/",
-      "source": "CDM (Create Digital Music)",
+      "url": "https://www.youtube.com/watch?v=0BCdjqDURVg",
+      "source": "ElevenLabs (YouTube)",
       "category": "music",
-      "title": "Lucinate video synth animates and live-codes visuals on Mac and iOS",
-      "published_iso": "2026-08-28T11:44:10+00:00",
-      "og_image": "https://cdm.link/app/uploads/2026/08/lucinate-main-image.png",
-      "excerpt": "From the makers of AUM, Lucinate is a real-time Metal-based visual environment for macOS and iOS that works as a ready-to-play, Ableton Link-synced video synth and opens up to live coding. A generative visualizer pipeline for musicians who don't want to render a music video.",
-      "keyword": "generative visualizer / AI music video"
-    },
-    {
-      "url": "https://www.attackmagazine.com/reviews/gear-software/yamaha-creator-pass-review-a-subscription-built-for-the-budding-bedroom-producer/",
-      "source": "Attack Magazine",
-      "category": "music",
-      "title": "Yamaha Creator Pass Review: A Subscription Built For The Budding Bedroom Producer",
-      "published_iso": "2026-08-31T12:56:31+00:00",
-      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Gear-_-Software-Yamaha-Creator-Pass-3-2.png",
-      "excerpt": "Yamaha's first real software play bundles Output, LANDR AI mastering, Cubase 15 AI and Ableton Live 12 Lite into a monthly subscription for beginner producers. AI tooling is quietly becoming the entry-level default rather than an add-on purchase.",
-      "keyword": "AI mastering / producer tooling"
-    },
-    {
-      "url": "https://musically.com/2026/09/01/soundplate-acquires-ai-music-mastering-company-stemmer/",
-      "source": "Music Ally",
-      "category": "music",
-      "title": "Soundplate acquires AI music-mastering company Stemmer",
-      "published_iso": "2026-09-01T14:56:42+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/09/hero-Soundplate_Stemmer_Logos.jpg",
-      "excerpt": "Soundplate, which builds marketing tools for independent artists, has bought AI mastering service Stemmer, folding automated mastering into an indie-artist toolkit rather than leaving it as a standalone service.",
-      "keyword": "AI mastering"
-    },
-    {
-      "url": "https://musictech.com/news/gear/new-plugins-this-week/",
-      "source": "MusicTech",
-      "category": "music",
-      "title": "The best new music plugins this week, free and paid",
-      "published_iso": "2026-08-27T03:00:52+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500-1068x801.jpg",
-      "excerpt": "MusicTech's weekly sweep of new instruments, effects and mixing plugins for Ableton Live, Logic Pro and other DAWs — useful as a running index of which releases lean on machine-learning processing this week.",
-      "keyword": "AI music plugin"
+      "topic": "generators_models",
+      "title": "ElevenLabs Changelog: Everything We Shipped This Month",
+      "published_iso": "2026-08-21T18:27:11+00:00",
+      "og_image": "https://i.ytimg.com/vi/0BCdjqDURVg/maxresdefault.jpg",
+      "excerpt": "ElevenLabs' monthly shipping roundup covering its music and audio model updates and creative-tool changes — a fast read on how quickly the generative audio stack is moving for creators."
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 11,
+    "dropped": 2,
+    "kept": 9,
     "against_days": 5
   }
 }

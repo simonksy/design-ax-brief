@@ -1,96 +1,158 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "section": "books",
-  "now_iso": "2026-09-02T22:00:00Z",
+  "now_iso": "2026-09-03T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "How Good Are AI Custom-Written Novels?",
-      "url": "https://janefriedman.com/how-good-are-ai-custom-written-novels/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-02T16:00:00+00:00",
-      "excerpt": "Ember Novels generates bespoke full-length novels on demand, and the service shows AI is increasingly able to develop and carry plot through 300 pages with fewer continuity errors than many AI-generated or assisted books currently on the market.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "title": "A new font promises to hide your text from AI.",
+      "url": "https://lithub.com/a-new-font-promises-to-hide-your-text-from-ai/",
+      "source": "Literary Hub",
+      "published_iso": "2026-09-03T18:26:07+00:00",
+      "excerpt": "Design and tech company Mixfont released Decoy Font, a typeface humans can read but large language models and AI crawlers cannot parse — pitched at writers and publishers who want their text online but out of training sets.",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/decoy-font.jpg",
       "category": "books",
-      "note": "Production-side: a hands-on read of what a commercial custom-AI-novel service actually produces. Generic og:image — ax-media should pull an in-body image."
+      "note": "Concrete tool with a typography/craft hook; sits exactly at the design x books intersection. Freshest item in the pool."
+    },
+    {
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "source": "WIRED",
+      "published_iso": "2026-09-02T10:00:00+00:00",
+      "excerpt": "WIRED profiles Pangram, the AI-detection tool publishers, editors and journalists now lean on to vet manuscripts. \"Meet the AI police who can make or break careers—in publishing and beyond.\"",
+      "og_image": "https://media.wired.com/photos/6a96e84e0b666cfc32288113/191:100/w_1280,c_limit/09012026-pangram-still.jpg",
+      "category": "books",
+      "note": "Workflow-level: detection scores are becoming a gate in acquisition and editing. Pairs with the-decoder item — curator should pick one."
+    },
+    {
+      "title": "Pangram's biggest flaw is users turning its scores into public shaming",
+      "url": "https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/",
+      "source": "The Decoder",
+      "published_iso": "2026-09-03T18:07:26+00:00",
+      "excerpt": "Pangram only somewhat reliably measures whether AI was used, yet its scores are being weaponized on social media to accuse writers of not doing their own thinking — a gap between measurement and judgement.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
+      "category": "books",
+      "note": "Same subject as the WIRED piece but a different angle (the social consequence of scores). Dedupe against #2."
+    },
+    {
+      "title": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653",
+      "url": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/",
+      "source": "The Decoder",
+      "published_iso": "2026-09-03T14:15:28+00:00",
+      "excerpt": "Anthropic's Claude Fable 5.1 appears to have cracked a 1653 number puzzle researchers had left unsolved, a concrete case of a frontier model working on historical text and archival scholarship.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/09/cyphral_distich.png",
+      "category": "books",
+      "note": "Archive/manuscript angle rather than tooling; useful if the curator wants a non-policy, non-detection card."
+    },
+    {
+      "title": "We Can Now Track AI-generated Content. It Doesn't Solve the Real Problem.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-08-31T09:30:32+00:00",
+      "excerpt": "Identifying AI content is now embedded in Claude models. The post argues provenance signals don't answer the question publishers actually have — and create new ones for editorial workflows.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg",
+      "category": "books",
+      "note": "Adjacent to the 08-29 watermarking card already run; keep only if the curator wants the publisher-workflow read rather than the vendor news."
+    },
+    {
+      "title": "Guest Post — Your Next Reader Is a Machine, and We Are Ready",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/21/guest-post-your-next-reader-is-a-machine-and-we-are-ready/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-08-21T09:30:08+00:00",
+      "excerpt": "Machine readers replacing human readers can sound like a threat; the authors argue publishing's existing structured-metadata craft already prepares it to format content for AI consumption.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2227463068.jpg",
+      "category": "books",
+      "note": "Design-for-machine-readers framing — a genuine production/craft shift, not industry noise. Oldest item in the pool but inside the 336h window."
+    },
+    {
+      "title": "AI Use in The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-08-27T09:30:55+00:00",
+      "excerpt": "A publication sets out its own disclosure rules for AI use by contributors, weighing the poor reliability of AI-detection tools against the need to keep experimenting with what is ethically acceptable.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1448631861.jpg",
+      "category": "books",
+      "note": "A concrete editorial policy written in public — usable as an AI-disclosure workflow template for any publisher."
+    },
+    {
+      "title": "The AI 'Ghosts' Contaminating Academic Publishing",
+      "url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
+      "source": "404 Media",
+      "published_iso": "2026-08-27T18:14:29+00:00",
+      "excerpt": "\"The academic record is being quietly haunted\" by fabricated authors with names like Elena Vasquez and Marcus Chen — AI-invented researchers now cited inside the real literature.",
+      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/vas.jpg",
+      "category": "books",
+      "note": "Reported, sourced, and about the integrity of the published record — a stronger read than the usual AI-slop story."
     },
     {
       "title": "Second annual AI survey by Gotham Ghostwriters and Bernoff.com",
       "url": "https://janefriedman.com/second-annual-ai-survey-by-gotham-ghostwriters-and-bernoff-com/",
       "source": "Jane Friedman",
       "published_iso": "2026-09-02T16:00:00+00:00",
-      "excerpt": "The second annual survey of writers and editors is underway, updated to reflect the new AI tools and challenges that have entered ghostwriting and editorial work over the past year.",
+      "excerpt": "The second annual survey of working writers and editors is underway, rebuilt to reflect the AI tools and disclosure problems that appeared in the past year of ghostwriting and book work.",
       "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
       "category": "books",
-      "note": "Ghostwriting/editing workflow data. Generic og:image."
+      "note": "Ghostwriting/day-4 emphasis. Generic og:image — ax-media should pull an in-body image or generate."
     },
     {
-      "title": "Harriman House claims trade publishing first with 'AI-facilitated' Raoul Pal book",
-      "url": "https://www.thebookseller.com/news/harriman-house-claims-trade-publishing-first-with-ai-facilitated-raoul-pal-book",
-      "source": "The Bookseller",
-      "published_iso": "2026-08-20T07:45:00Z",
-      "excerpt": "Harriman House says The Everything Code, by macro analyst Raoul Pal, was produced with a proprietary AI tool trained exclusively on the author's own existing work — which it calls a trade publishing first.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+      "title": "The Art of Wandering: Protecting Creative Taste in the Age of Algorithms",
+      "url": "https://www.writersdigest.com/the-art-of-wandering-protecting-creative-taste-in-the-age-of-algorithms",
+      "source": "Writer's Digest",
+      "published_iso": "2026-09-02T20:00:00-04:00",
+      "excerpt": "Novelist Kyla Zhao on how recommendation systems and AI-smoothed inputs narrow a writer's taste, and the deliberate wandering habits she uses to keep her own reading and drafting unpredictable.",
+      "og_image": "https://www.writersdigest.com/uploads/2026/09/the-art-of-wandering-protecting-creative-taste-in-the-age-of-algorithms-by-kyla-zhao.png?auto=webp",
       "category": "books",
-      "note": "Concrete production-side case: author-trained model as a manuscript pipeline inside a trade house."
-    },
-    {
-      "title": "Can AI Replace Your Editor? Member Q&A with Michael La Ronn and Sacha Black",
-      "url": "https://selfpublishingadvice.org/podcast-can-ai-replace-your-editor/",
-      "source": "Self-Publishing Advice Center (ALLi)",
-      "published_iso": "2026-08-23T12:00:15+00:00",
-      "excerpt": "ALLi's advisors answer member questions on where AI editing actually holds up and where it fails, alongside IngramSpark changes and series cover consistency.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_QA.jpg",
-      "category": "books"
+      "note": "Craft-side counterweight to the tooling cards; concrete practice, not a think-piece about the industry."
     },
     {
       "title": "Opinion: You Have More Agency Than You Think: Creative Writing and Publishing in the Age of AI",
       "url": "https://selfpublishingadvice.org/opinion-you-have-more-agency-than-you-think-creative-writing-and-publishing-in-the-age-of-ai/",
-      "source": "Self-Publishing Advice Center (ALLi)",
+      "source": "The Self-Publishing Advice Center (ALLi)",
       "published_iso": "2026-08-25T17:25:51+00:00",
-      "excerpt": "Indie author Nigel George argues that writers still control the decisive parts of the craft and the business, and lays out how to build a sustainable career rather than react to every AI headline.",
+      "excerpt": "Indie author and ALLi member Nigel George argues writers still control which parts of their process they hand to AI, and lays out how to build a sustainable career without the AI-guru playbook.",
       "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/pictures.jpg",
-      "category": "books"
-    },
-    {
-      "title": "When Your AI Knows You Too Well: Personalization, Sycophancy, and the Risk of an Intellectual Echo Chamber in AI-assisted Research",
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/02/when-your-ai-knows-you-too-well-personalization-sycophancy-and-the-risk-of-an-intellectual-echo-chamber-in-ai-assisted-research/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-09-02T09:30:11+00:00",
-      "excerpt": "As AI research assistants learn a reader's preferences, they also get better at mirroring that reader's assumptions. Avoiding that outcome, the authors argue, takes more than a better prompt.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151.jpg",
       "category": "books",
-      "note": "Reading/discovery side: what personalization does to how people read and cite."
+      "note": "Indie-author decision framework; the practical counterpart to ALLi's editor/AI podcast already used on 09-03."
     },
     {
-      "title": "'Who Gets to Listen. Whose Stories Are Available:' The African Audiobook Market",
-      "url": "https://publishingperspectives.com/2026/09/who-gets-to-listen-whose-stories-are-available-the-african-audiobook-market/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-09-02T08:51:05+00:00",
-      "excerpt": "AkooBooks Audio CEO Ama Dadson describes scaling audio in Ghana and across African markets, using AI for script preparation, quality assurance, metadata, discoverability and marketing while keeping narration human.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Ama-Dadson-speaking.png",
-      "category": "books",
-      "note": "Audiobook production workflow: a clear line between AI for prep/QA/metadata and AI replacing creative work."
-    },
-    {
-      "title": "[김봉석의 문화유랑] AI와 창작의 진화",
-      "url": "https://www.khan.co.kr/article/202608271959025/",
+      "title": "\"번역, 숙고 속 만들어\" \"AI 진출 막기 어려워\"",
+      "url": "https://www.khan.co.kr/article/202608302029005/",
       "source": "경향신문",
-      "published_iso": "2026-08-27T19:59:00+09:00",
-      "excerpt": "나이지리아계 신인 작가 제리 팔라데의 200만 달러 데뷔작 계약이 AI 개입 의혹으로 무산된 사건을 출발점 삼아, 창작 도구로서의 AI와 작가의 자리를 짚는다.",
-      "og_image": "https://img.khan.co.kr/news/2026/08/27/l_2026082801000798100082432.jpg",
+      "published_iso": "2026-08-30T20:29:00+09:00",
+      "excerpt": "'딸깍 출판'에 이어 '딸깍 번역'이 화두가 된 한국 출판계. AI 번역을 고지 없이 쓴 고전문학 앱 '책도둑'이 7월 서비스를 중단한 뒤, 번역가와 출판인들이 AI 활용 표시 기준을 놓고 부딪힌다.",
+      "og_image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
       "category": "books",
-      "note": "Korean-language angle on AI-suspicion in manuscript acquisition and what counts as authorship."
+      "note": "Korean translation-and-disclosure debate. Near-neighbour of the 09-02 khan card (same paper, same day, different piece) — dedupe carefully. og:image is a logo; ax-media must find a real visual."
     },
     {
-      "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
-      "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
-      "source": "The Decoder",
-      "published_iso": "2026-09-02T18:24:42+00:00",
-      "excerpt": "In the class action involving The New York Times, the DOJ argues that training AI models on copyrighted text is fair use, directly contradicting a US Copyright Office report whose director was fired shortly after publication.",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/09/token_to_ai_content.png",
+      "title": "서울iT아카데미 홍대, AI 디지털 출판콘텐츠 인재 양성",
+      "url": "https://sports.khan.co.kr/article/202608221437003/",
+      "source": "스포츠경향",
+      "published_iso": "2026-08-22T14:37:00+09:00",
+      "excerpt": "원고 교정·교열과 편집디자인 중심이던 출판편집 직무가 AI 자료조사·원고 분석·전자책/오디오북 제작으로 재편되면서, 국내 교육과정이 생성형 AI 활용 역량을 전제로 다시 짜이고 있다.",
+      "og_image": "https://images.khan.co.kr/article/2026/08/22/news-p.v1.20260822.b179fff55c9443cb90a43f413828ae81_P1.png",
       "category": "books",
-      "note": "BACKUP ONLY — fresh and consequential for authors/publishers, but overlaps the plan's avoid_themes (AI-training copyright litigation, covered 08-28~09-02) and the plaintiff is a newspaper, not a book publisher."
+      "note": "Lowest-priority in the pool: promotional in tone. Useful only as evidence of how the Korean editorial job description itself is being rewritten."
+    },
+    {
+      "title": "Read These Books Before You Enter the AI Debates",
+      "url": "https://bookriot.com/nonfiction-about-ai-and-social-media/",
+      "source": "Book Riot",
+      "published_iso": "2026-08-31T10:02:00+00:00",
+      "excerpt": "A reading list of nonfiction on AI and social media aimed at readers who want their opinions grounded in reporting rather than discourse.",
+      "og_image": "https://bookriot.com/wp-content/uploads/2020/12/instagram-book-club-featured.jpg.optimal.jpg",
+      "category": "books",
+      "note": "Weakest design-relevance of the pool (curation, not craft or tooling). Include only if a lighter card is needed."
+    },
+    {
+      "title": "How To Redesign Your Author Business For The Environment That Actually Exists, With Tracy Cooper-Posey",
+      "url": "https://www.youtube.com/watch?v=PzQCZNxBKZI",
+      "source": "The Creative Penn",
+      "published_iso": "2026-09-01T23:56:49-07:00",
+      "excerpt": "Joanna Penn's episode opens with a 'Perspectives on AI in writing' segment before Tracy Cooper-Posey's 'solar sail' theory of choosing which author-marketing efforts still reach readers in ten years.",
+      "og_image": "https://i.ytimg.com/vi/PzQCZNxBKZI/maxresdefault.jpg",
+      "category": "books",
+      "note": "Social/YouTube slot for day 4 (Creative Penn). uploadDate verified from the watch page JSON-LD; AI content is a segment, not the whole episode."
     }
   ]
 }
