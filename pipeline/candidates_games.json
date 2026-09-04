@@ -1,228 +1,162 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "games",
-  "now_iso": "2026-09-03T22:00:00Z",
+  "now_iso": "2026-09-04T22:00:00Z",
   "window_hours": 336,
+  "generated_by": "librarian",
   "items": [
     {
+      "url": "https://aftermath.site/artstation-owners-ownership-ai/",
+      "source": "Aftermath",
       "category": "games",
-      "title": "ArtStation Will Block AI Crawlers From Scraping Artists' Work",
-      "url": "https://80.lv/articles/artstation-will-block-ai-crawlers-from-scraping-artists-work/",
-      "source": "80 Level",
-      "published_iso": "2026-09-03T20:11:00Z",
-      "excerpt": "ArtStation has enabled NoAI protection for new and existing uploads and introduced safeguards against AI crawlers, while admitting its current AI content filters are insufficient.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50041/images/6a99d4989956c/contain_1200x630.jpg",
-      "why": "The default portfolio home for game artists just changed its scraping posture — this is where concept and environment artists' consent settings actually live."
+      "headline": "ArtStation Has New Owners Who Say They'll Put Artists First By Blocking AI Scrapers",
+      "published_iso": "2026-09-04T01:21:18.000Z",
+      "excerpt": "'ArtStation is making protection against AI training the default'",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/09/ArtStation_Blog_Header.webp"
     },
     {
+      "url": "https://kotaku.com/game-accused-of-using-ai-to-generate-its-reveal-trailer-proves-it-was-made-by-people-2000731291",
+      "source": "Kotaku",
       "category": "games",
-      "title": "How Agents 404's Devs Prototyped With AI and Gained 120K Wishlists in Two Months",
-      "url": "https://80.lv/articles/how-agents-404-devs-created-a-prototype-and-gained-120k-wishlists-in-two-months",
-      "source": "80 Level",
-      "published_iso": "2026-09-03T16:00:00Z",
-      "excerpt": "PlayHero founder Anton Slashcev explains how the AI tool Bezi helped his team prototype Agents 404 in one month, why core systems stayed hand-authored, and where human technical expertise is still essential.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49914/images/6a976fc9388c1/contain_1200x630.jpg",
-      "why": "A rare concrete before/after on AI-assisted prototyping: what the tool did, what the team refused to hand over, and the measurable market result."
+      "headline": "The AI Panic Is Forcing Developers To Prove Their Trailers Were Made By Humans",
+      "published_iso": "2026-09-04T15:00:04+00:00",
+      "excerpt": "Humankind 2's big announcement trailer was called AI slop by many online, but behind-the-scenes footage shows real animals, people, and sets",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/trailer-real-1200x675.jpg"
     },
     {
-      "category": "games",
-      "title": "DLSS 5 Can Be Jammed Into Almost Any Game Now — Neural-Rendered People in FM26",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-be-jammed-into-almost-any-game-now-so-ive-been-playing-fm26-with-neural-rendered-little-computer-people-because-thats-just-what-i-do/",
-      "source": "PC Gamer",
-      "published_iso": "2026-09-03T19:52:14Z",
-      "excerpt": "Nvidia's generative DLSS 5 face/detail layer can now be forced into games it was never shipped for, letting players run neural-rendered characters in titles like Football Manager 26.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/B3ULyP68EiAPD55fRNR8S7-2560-80.jpg",
-      "why": "A generative model is now overriding the art direction of games at runtime, outside the studio's control — a new category of visual-integrity problem for art teams."
-    },
-    {
-      "category": "games",
-      "title": "id Software's Former Co-Owner Says They Absolutely Would've Used Gen AI Back in the Day",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/id-softwares-former-co-owner-says-they-absolutely-wouldve-used-gen-ai-back-in-the-day-john-carmack-would-be-like-making-skynet-or-something/",
-      "source": "PC Gamer",
-      "published_iso": "2026-08-28T13:53:23Z",
-      "excerpt": "id Software's former co-owner argues the studio's small-team, tool-obsessed culture would have embraced generative AI, framing it as an accelerant for reaching a 'killer app'.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/VrZsFJMgUJrMXFZLYZmGCQ-1920-80.jpg",
-      "why": "The pro-AI case from inside game-dev craft history — useful counterweight to the current wave of refusal statements."
-    },
-    {
-      "category": "games",
-      "title": "Steam Week in Review: A Touch of AI Is All It Takes to Trigger Backlash",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/",
-      "source": "PC Gamer",
-      "published_iso": "2026-08-24T02:56:27Z",
-      "excerpt": "A promising new indie fell afoul of 'slop skeptics' on Steam, showing how little AI-touched asset work it now takes to derail a launch's reception.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
-      "why": "Practical risk calibration for anyone shipping AI-assisted art: the audience penalty is triggered by trace amounts, not by scale of use."
-    },
-    {
-      "category": "games",
-      "title": "Rockstar Formed a New LA Team to Develop More Realistic NPCs for GTA 6",
-      "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-08-28T09:32:46Z",
-      "excerpt": "Rockstar stood up a dedicated Los Angeles team to push NPC behaviour past Red Dead Redemption 2's 'level of interactive fidelity' for Grand Theft Auto 6.",
-      "og_image": "https://assetsio.gnwcdn.com/gta-npcs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "The industry's biggest NPC-behaviour investment is a hand-built specialist team, not a generative model — a pointed statement about where character craft actually comes from."
-    },
-    {
-      "category": "games",
-      "title": "Nvidia Announces Ray-Traced Nanite, Native Anti-Cheat and DLSS 4.5 at Gamescom 2026",
-      "url": "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-08-25T18:44:44Z",
-      "excerpt": "Nvidia used Gamescom to detail a wave of developer-facing updates across DLSS, RTX and GeForce Now, including ray-traced Nanite and DLSS 4.5.",
-      "og_image": "https://assetsio.gnwcdn.com/Gamescon-Latam-(2).jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "Neural rendering is moving from upscaler to core pipeline feature — it changes what technical artists can budget for in look-dev."
-    },
-    {
-      "category": "games",
-      "title": "No Man's Sky Fan Adds DLSS 5 — Hello Games Programmer Worries It Could Ruin Its Look and Feel",
-      "url": "https://www.gamesradar.com/games/survival/no-mans-sky-fan-adds-nvidias-dlss-5-to-the-game-hello-games-programmer-worries-the-ai-filter-could-ruin-its-unique-look-and-feel/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-03T20:14:12Z",
-      "excerpt": "A modder pushed Nvidia's DLSS 5 AI filter into No Man's Sky, prompting a Hello Games programmer to warn the generative layer could erase the game's deliberately stylised look.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iPh5JZjpBhqEQybSWb8QXo-1920-80.jpg",
-      "why": "A working developer articulating exactly how a post-process AI model destroys authored style — the clearest art-direction argument in the DLSS 5 fight."
-    },
-    {
-      "category": "games",
-      "title": "DLSS 5 Can Now Be Used To AI-Sloppify Real People",
       "url": "https://kotaku.com/dlss-5-can-now-be-used-to-ai-sloppify-real-people-2000730834",
       "source": "Kotaku",
-      "published_iso": "2026-09-03T15:30:34Z",
-      "excerpt": "Users have pointed DLSS 5's generative detail pass at live webcam feeds, turning real faces into the same smoothed, over-rendered look the filter applies to game characters.",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/jpn_eagle-DLSS-5-webcam-demostration.jpg",
-      "why": "Shows the aesthetic signature of a real-time generative filter in isolation — a useful visual vocabulary lesson for anyone judging AI-touched imagery."
+      "category": "games",
+      "headline": "DLSS 5 Can Now Be Used To AI-Sloppify Real People",
+      "published_iso": "2026-09-03T15:30:34+00:00",
+      "excerpt": "Nvidia's neural rendering filter is being pointed at webcam feeds and real footage, not just game frames.",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/jpn_eagle-DLSS-5-webcam-demostration.jpg"
     },
     {
+      "url": "https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898",
+      "source": "Kotaku",
       "category": "games",
-      "title": "Video Game Companies Keep Trying To Bait And Switch Us With AI",
-      "url": "https://aftermath.site/1666-amsterdam-no-more-ai-tomb-raider-divinity/",
-      "source": "Aftermath",
-      "published_iso": "2026-09-02T17:55:25Z",
-      "excerpt": "1666: Amsterdam, Blood of Dawnwalker and others claim AI assets didn't make the final game — but that doesn't mean the projects were AI-free.",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg",
-      "why": "Unpicks the emerging PR pattern of 'no AI in the shipped build' — a disclosure-language problem every studio comms and design lead now has to answer for."
+      "headline": "Popular RPG Series Turns Female Protagonist Into AI Companion",
+      "published_iso": "2026-08-26T05:00:56+00:00",
+      "excerpt": "The alchemy RPG series is turning its anime protagonist into a chatbot companion",
+      "og_image": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg"
     },
     {
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/hands-on-with-dlss-5-in-nba-2k27-heres-what-works-and-what-doesnt-work-about-nvidias-new-ai-upscaler/",
+      "source": "GamesRadar+",
       "category": "games",
-      "title": "New Meta Dev Tool Enables AI Agents to Build, Test and Visually Verify Quest Games",
-      "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
-      "source": "Road to VR",
-      "published_iso": "2026-08-26T06:50:17Z",
-      "excerpt": "Meta introduced Meta XR Operator, an experimental tool that lets AI coding agents autonomously build, test, debug and visually verify VR apps on Quest.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
-      "why": "AI playtesting with a visual-verification loop — the first credible answer to 'can an agent tell whether the thing it built actually looks right?'"
+      "headline": "Hands-on with DLSS 5 in NBA 2K27: what works and what doesn't about Nvidia's new AI upscaler",
+      "published_iso": "2026-09-04T13:04:31Z",
+      "excerpt": "I put my apprehensions to the side to give DLSS 5 a fair shot. Here's what I found",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/8cwLeMpT38BXiwbVd7rJhe-1920-80.jpg"
     },
     {
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidia-says-its-only-targeting-photorealistic-games-with-dlss-5-but-am-i-the-only-one-who-thinks-realistic-visuals-are-worse/",
+      "source": "GamesRadar+",
       "category": "games",
-      "title": "We're Finally Talking About AI, ft. David 'Rez' Graham and Luke Dicken",
-      "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
-      "source": "Game Developer",
-      "published_iso": "2026-08-21T14:45:37Z",
-      "excerpt": "Two veteran game-AI practitioners discuss AI techniques in games alongside the nature of the work itself and where AI's real value sits in development.",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?disable=upscale&width=1200&height=630&fit=crop",
-      "why": "Separates classical game AI craft from generative AI hype — the distinction most coverage collapses and designers keep getting wrong."
+      "headline": "Nvidia says it's only targeting 'photorealistic' games with DLSS 5, but am I the only one who thinks 'realistic' visuals are worse?",
+      "published_iso": "2026-09-02T12:21:27Z",
+      "excerpt": "Nvidia assured me it's only intending DLSS 5 to be used in photorealistic games, but I thought we were past thinking realistic graphics were better.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/WfR7f4sq73QCKqgrGp2nJ4-2560-80.jpg"
     },
     {
+      "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-lead-says-nvidia-dlss-5-backlash-is-really-funny-and-that-most-talented-people-i-know-use-ai/",
+      "source": "GamesRadar+",
       "category": "games",
-      "title": "Introducing the Inworld TTS Open Evaluation Toolkit",
-      "url": "https://inworld.ai/blog/introducing-inworld-tts-open-evaluation-toolkit",
-      "source": "Inworld AI",
-      "published_iso": "2026-08-28T00:00:00Z",
-      "excerpt": "An open source framework for reproducible TTS evaluation with local ASR, explicit normalization, per-sample measurements and offline reports traceable back to the audio.",
-      "og_image": "https://static.inworld.ai/public-website-2025/images/content/9b54d1f3fd481dd93314ffa470ff9008d2c9c589-1200x630.png",
-      "why": "Gives audio and narrative teams a way to actually measure synthetic voice quality instead of arguing about it — evaluation infrastructure for AI NPC voice."
+      "headline": "Kingdom Come: Deliverance 2 lead says the DLSS 5 backlash is 'really funny' and that 'most talented people I know use AI'",
+      "published_iso": "2026-09-01T15:23:02Z",
+      "excerpt": "A senior dev pushes back on the anti-AI mood, saying the most talented people he knows already use AI in their craft.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kCQpdSfWxtvBYcqmyZru7n-1920-80.jpg"
     },
     {
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/cd-projekt-red-isnt-planning-to-rely-on-ai-making-complete-games-and-will-still-be-predominantly-using-people-for-the-witcher-4-and-beyond/",
+      "source": "PC Gamer",
       "category": "games",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "Google DeepMind",
-      "published_iso": "2026-08-21T13:00:00Z",
-      "excerpt": "DeepMind traces fifteen years of using games as AI research environments, from Atari benchmarks to agents operating inside EVE Online.",
-      "og_image": "",
-      "why": "Frames games as the training ground for agentic AI — the long view behind today's world models and in-game agents."
+      "headline": "CD Projekt Red isn't 'planning to rely on AI making complete games', and will still be 'predominantly using people' for The Witcher 4",
+      "published_iso": "2026-09-03T10:40:20Z",
+      "excerpt": "I think everybody has to make those judgments on their own.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rTBSuGGDXhUBQ4VysuHrcN-2560-80.jpg"
     },
     {
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
+      "source": "PC Gamer",
       "category": "games",
-      "title": "Nvidia's Face-Changing Gen-AI DLSS 5 Releases for One Game, and Seems to Tank Frame Rates",
-      "url": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
-      "source": "Eurogamer",
-      "published_iso": "2026-09-02T15:53:39Z",
-      "excerpt": "Nvidia's controversial DLSS 5 generative tech launches on 50-series GeForce cards and GeForce Now with NBA 2K27, with early reports of significant frame-rate cost.",
-      "og_image": "https://assetsio.gnwcdn.com/nvida-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "The first shipped consumer generative rendering feature — and the first hard data on what it costs in performance."
+      "headline": "Dwarf Fortress creator says we have a natural lean towards human-made stories, 'but we're all going to be very sorely tested in the coming years' by AI",
+      "published_iso": "2026-09-01T15:01:29Z",
+      "excerpt": "Tarn Adams argues players instinctively prefer human-authored stories, but expects that instinct to be tested hard as generative systems improve.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg"
     },
     {
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-snuck-me-into-a-room-to-show-off-dlss-5-in-person-and-its-somehow-beautiful-ugly-impressive-and-troubling-all-at-the-same-time/",
+      "source": "PC Gamer",
       "category": "games",
-      "title": "Rockstar Confirms GTA 6 Won't Have Microtransactions or Generative AI at Launch",
-      "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
-      "source": "Eurogamer",
-      "published_iso": "2026-08-30T10:48:08Z",
-      "excerpt": "Rockstar told Kinda Funny Games that Grand Theft Auto 6 will launch without microtransactions or generative AI, though its Ultimate Edition still gates some content.",
-      "og_image": "https://assetsio.gnwcdn.com/GTA-6-Lucia-Caminos.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "The most expensive game ever made is publicly opting out of generative AI — a benchmark statement for every studio's own policy."
+      "headline": "DLSS 5 is somehow beautiful, ugly, impressive, and troubling all at the same time",
+      "published_iso": "2026-09-01T13:00:00Z",
+      "excerpt": "We're in the hands of the gods now.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/hUVHXhfCwnAr8S9YCxCei6-2560-80.jpg"
     },
     {
+      "url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/",
+      "source": "Wccftech",
       "category": "games",
-      "title": "No, the Humankind 2 Announcement Trailer Wasn't Made With Gen-AI",
-      "url": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
-      "source": "Eurogamer",
-      "published_iso": "2026-08-26T08:51:30Z",
-      "excerpt": "Viewers flagged the Humankind 2 reveal trailer as AI-generated; the studio responded to explain how the sequence was actually made.",
-      "og_image": "https://assetsio.gnwcdn.com/humankind-2-trailer-shot-crop-3.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "False-positive AI accusations are now a real production risk — stylistic choices are being read as machine output, and studios need a defence."
+      "headline": "Modder Enables DLSS 5 Neural Rendering On AMD Radeon RX 9070 XT",
+      "published_iso": "2026-09-04T18:37:44+00:00",
+      "excerpt": "DLSS 5 Neural Rendering now works on AMD RX 9070 XT, boosting FPS in Cyberpunk 2077 and GTA V: Enhanced, with mod improving performance by 12%",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-DLSS-5.jpg"
     },
     {
+      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/",
+      "source": "Wccftech",
       "category": "games",
-      "title": "Nvidia DLSS 5 Releases This Week With NBA 2K27, AI 'Yassification' Filter and All",
-      "url": "https://www.rockpapershotgun.com/nvidia-dlss-5-releases-this-week-with-nba-2k27-so-the-ai-yassification-filters-busy-beautifying-basketballers-early-doors",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-09-01T15:31:21Z",
-      "excerpt": "Nvidia's controversial generative graphics tech debuted on September 3rd with NBA 2K27, with early looks focused on how it restyles player faces.",
-      "og_image": "https://assetsio.gnwcdn.com/nvidia-dlss-5-release-date-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "Names the aesthetic failure mode precisely — generative enhancement drifting toward a homogenised 'beautified' face, regardless of the character design."
+      "headline": "NVIDIA DLSS 5 Neural Rendering In 10 Modern Games - The Best Unofficial ON vs OFF Comparisons So Far",
+      "published_iso": "2026-08-29T22:23:51+00:00",
+      "excerpt": "NVIDIA's DLSS 5 enhances game graphics with real-time Neural Rendering, improving textures and lighting, currently tested unofficially in NBA 2K27 and Control.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Feature-Image-2.jpg"
     },
     {
+      "url": "https://80.lv/articles/create-procedural-ue5-animations-based-on-music-with-this-tool",
+      "source": "80 Level",
       "category": "games",
-      "title": "Penguin Colony's Release Date Trailer Gave Me a GenAI Fright — But There's No Cause for Concern",
-      "url": "https://www.rockpapershotgun.com/cosmic-horror-and-sea-bird-waddling-sim-penguin-colony-gave-me-a-genai-fright-in-its-release-date-trailer-but-thankfully-theres-no-actual-cause-for-concern",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-08-25T17:25:39Z",
-      "excerpt": "A critic's first read of Penguin Colony's trailer was 'this looks AI-generated' — then the actual production process turned out to be hand-made.",
-      "og_image": "https://assetsio.gnwcdn.com/penguin-colony-release-date.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "A field note on how AI suspicion is reshaping how audiences read visual style — and how quickly a trailer can be misjudged."
+      "headline": "Create Procedural UE5 Animations Based on Music with Vizibeat",
+      "published_iso": "2026-09-02T10:08:00+00:00",
+      "excerpt": "Vizibeat is a plug-in that creates vibrant animations from music without keyframing.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50007/images/6a97f587d7298/contain_1200x630.jpg"
     },
     {
+      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists",
+      "source": "80 Level",
       "category": "games",
-      "title": "Nvidia DLSS 4.5 Ray Reconstruction Is Out Now, Upping Shadow Quality",
-      "url": "https://www.rockpapershotgun.com/nvidia-dlss-45-ray-reconstruction-out-now-ups-shadow-quality-and-more-accurately-illuminates-trash-bags",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-08-25T15:30:00Z",
-      "excerpt": "Nvidia released DLSS 4.5 Ray Reconstruction, an upgraded version of its neural path-tracing denoiser that improves shadow quality and material illumination.",
-      "og_image": "https://assetsio.gnwcdn.com/nvidia-dlss-4-5-ray-reconstruction-announced-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "why": "The uncontroversial half of neural rendering: a learned denoiser that raises lighting fidelity without touching authored art."
+      "headline": "New Game Uses a Local AI Model Trained Entirely on the Studio's Own Artists",
+      "published_iso": "2026-08-31T20:45:00+00:00",
+      "excerpt": "Studio Atelico explains what it learned from building more than 10 game prototypes, including the need for authored constraints, on-device inference, statistical testing, artist consent, and closer collaboration between creative and technical teams.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49986/images/6a961376762b8/contain_1200x630.png"
     },
     {
+      "url": "https://80.lv/articles/building-a-procedural-shell-grotto-with-substance-3d-designer-unreal-engine",
+      "source": "80 Level",
       "category": "games",
-      "title": "DLSS 5 Finally Has a Use Case — Making Cyberpunk 2077 Genuinely Dystopian",
-      "url": "https://www.destructoid.com/dlss-5-finally-has-a-use-case-making-cyberpunk-2077-genuinely-dystopian/",
-      "source": "Destructoid",
-      "published_iso": "2026-09-02T20:04:51Z",
-      "excerpt": "Players are applying DLSS 5's generative face pass to Cyberpunk 2077, where the uncanny, over-smoothed result accidentally suits the game's themes.",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/09/dlss5-cyberpunk.jpg",
-      "why": "A reminder that a generative filter is itself a style choice — it can reinforce or fight a game's authored tone, and studios don't get to opt in."
+      "headline": "Building a Procedural Shell Grotto with Substance 3D Designer & UE5",
+      "published_iso": "2026-08-28T05:15:00+00:00",
+      "excerpt": "Coraline Lyu spoke about the creation process behind the Shell Grotto project, explaining how she aimed to capture the identity of the Shell Grotto in England, how she built two separate node-based systems, and detailing how she assembled the ornamental wall patterns.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49918/images/6a8f9cfaa7e25/contain_1200x630.jpg"
     },
     {
+      "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/",
+      "source": "TheGamer",
       "category": "games",
-      "title": "ByteBrew Brings Live Operations Into App Developers' AI Workflows",
-      "url": "https://gamesbeat.com/bytebrew-brings-live-operations-into-app-developers-aiworkflows/",
-      "source": "GamesBeat",
-      "published_iso": "2026-09-03T13:00:00Z",
-      "excerpt": "ByteBrew is folding live-ops into agentic AI workflows, aiming to close the loop from player-behaviour insight to in-game action without manual handoffs.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/ByteBrew_Platform_Images_with_Logo.jpg",
-      "why": "Live-ops agents start making balance and content decisions that used to be a designer's call — worth watching where the authorship line lands."
+      "headline": "24% Of Gamescom Reveals Officially Used AI",
+      "published_iso": "2026-08-27T10:34:41Z",
+      "excerpt": "23.64% of the games featured during Gamescom ONL this year used AI in some form.",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&amp;h=900&amp;fit=crop"
+    },
+    {
+      "url": "https://gamingbolt.com/nvidia-dlss-5-launches-on-september-3-debuts-in-nba-2k27",
+      "source": "GamingBolt",
+      "category": "games",
+      "headline": "Nvidia DLSS 5 Launches on September 3, Debuts in NBA 2K27",
+      "published_iso": "2026-09-02T12:00:00+00:00",
+      "excerpt": "It might be time to see your favorite athletes in a whole new, photorealistic light as DLSS 5 brings its magic to a title that can use it well.",
+      "og_image": "https://gamingbolt.com/wp-content/uploads/2026/08/nba-2k27-cover.jpg"
     }
   ]
 }

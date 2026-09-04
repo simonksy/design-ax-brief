@@ -1,270 +1,313 @@
 {
-  "date": "2026-09-04",
-  "section": "games",
-  "cards": [
-    {
-      "id": "games-agents404-bezi",
-      "eyebrow": "AI NEWS",
-      "headline": "AI로 뽑은 한 달짜리 프로토타입\n위시리스트는 두 달 만에 12만",
-      "body": "Bezi로 프로토타입을 한 달에 끝냈지만 코어 시스템은 끝까지 사람이 짰다.",
-      "mini_headline": "한 달 프로토타입, 위시 12만",
-      "tool": "Games",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/how-agents-404-devs-created-a-prototype-and-gained-120k-wishlists-in-two-months",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49914/images/6a976fc9388c1/contain_1200x630.jpg",
-      "published_iso": "2026-09-03T16:00:00Z",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Agents 404는 물리 기반 협동 스텔스 코미디다. 어설프기 짝이 없는 암살자들이 경비가 깔린 장소에 잠입해 우스꽝스러운 변장을 하고 희화화된 악당을 처리한 뒤, 남은 증거를 감추느라 쩔쩔맨다. 출발점은 히트맨이지만 노린 건 정교한 암살이 아니라 함께 벌이는 난장판이다."
-          },
-          {
-            "t": "video",
-            "yt": "Dduk8u_16lA"
-          },
-          {
-            "t": "p",
-            "x": "개발사 PlayHero는 첫 프로토타입을 약 한 달 만에 만들었다. 이전 프로젝트에서 가져온 시스템 위에, 유니티 안에서 직접 도는 AI 에이전트 Bezi를 얹었다. 이 프로토타입으로 콘셉트를 빠르게 검증하고 트레일러를 뽑았고, 스팀 위시리스트 6만 건을 넘겼다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/meta/49914/images/6a976fc9388c1/contain_1200x630.jpg",
-            "cap": "Agents 404 — 물리 기반 협동 스텔스 코미디"
-          },
-          {
-            "t": "p",
-            "x": "창업자 Anton Slashcev가 꼽은 대표 사례는 여러 플레이어가 시체를 함께 옮기는 래그돌 시스템이다. 팀은 기능마다 문서를 남기는데, 그 문서도 Bezi가 거들어 만들었다. 새 기능에 들어갈 때는 맥락을 먼저 넘기고 게임 디자이너 관점의 요구사항을 적는다. 복잡한 기능이면 기술 제약과 따라야 할 아키텍처 패턴까지 못 박아 둔다."
-          },
-          {
-            "t": "p",
-            "x": "다음 순서는 Bezi에게 되묻게 하는 일. 확인이 필요한 지점을 질문하고 개선안과 구현 계획을 내놓게 한다. 까다로운 기능이면 리드 개발자가 계획을 먼저 검토한다. 계획이 통과돼야 에이전트가 코드를 쓴다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/53/images/6a8f7a4368450/widen_1840x0.jpg"
-          },
-          {
-            "t": "p",
-            "x": "선은 분명하다. 코어 아키텍처를 건드리지 않는 기능, 이미 구현 패턴이 있는 기능은 Bezi가 맡는다. 새롭거나 복잡하거나 아키텍처에 민감한 작업은 리드 개발자 몫이다. 에셋 쪽은 여전히 게임 디자이너와 아티스트가 잡고, Bezi는 왜 안 되는지 답해 주는 정도로 붙는다."
-          },
-          {
-            "t": "p",
-            "x": "범용 NPC 행동 시뮬레이션처럼 아예 손대지 못하게 막아 둔 시스템도 있다. AI는 기존 인터페이스로만 접근한다. 민감한 부분에 AI 코드가 닿으면 리드 개발자가 반드시 들여다본다. 물리와 협동, 스텔스처럼 깨지기 쉬운 시스템일수록 사람이 구조를 알고 있어야 한다는 게 Slashcev의 말이다. 핵심 시스템이 팀에게 블랙박스가 되면 안 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/bd/images/6a9726b2c8469/widen_1840x0.jpg"
-          },
-          {
-            "t": "p",
-            "x": "프로토타입 단계라면 대단한 기술력이 없어도 된다고 그는 본다. 확장 가능한 프로덕션 시스템을 만들려면 이야기가 달라진다. AI가 쓴 코드는 기술 부채를 남기기도 한다. 고립된 모듈 안에서라면 감당할 만하지만, 시스템 전체로 번지면 심각해진다."
-          },
-          {
-            "t": "p",
-            "x": "초기 검증 구간에서는 품질보다 속도가 먼저다. 아이디어가 먹히는지, 플레이어가 반응하는지부터 확인한다. 그렇게 만든 프로토타입이 두 달 만에 위시리스트 12만 건을 모았다. Slashcev의 표현으로 AI는 실행자다. 때로 조언자 노릇까지 하지만 결정은 사람이 내린다. 아키텍처와 비주얼 스타일, 게임 디자인, UX를 두고 내리는 판단은 사라지지 않았다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-dlss5-nomanssky-mod",
-      "eyebrow": "AI NEWS",
-      "headline": "팬이 억지로 넣은 DLSS 5\n노 맨즈 스카이의 룩을 지울까",
-      "body": "모더가 DLSS 5를 밀어 넣자 헬로게임즈는 아트 디렉션 문제라고 답했다.",
-      "mini_headline": "DLSS 5와 아트 디렉션",
-      "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/survival/no-mans-sky-fan-adds-nvidias-dlss-5-to-the-game-hello-games-programmer-worries-the-ai-filter-could-ruin-its-unique-look-and-feel/",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iPh5JZjpBhqEQybSWb8QXo-1920-80.jpg",
-      "published_iso": "2026-09-03T20:14:12Z",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "엔비디아 DLSS 5가 멀쩡하던 게임들을 AI 보정 리얼리티 쇼처럼 만들어 놓고 있다. 이번 차례는 헬로게임즈의 우주 탐사 게임 노 맨즈 스카이다. 팬이 만든 클립 하나가 퍼지면서 DLSS 5를 원하는 사람이 꽤 많다는 사실이 드러났는데, 정작 헬로게임즈는 넣어 줄 생각이 없어 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/iPh5JZjpBhqEQybSWb8QXo-1920-80.jpg",
-            "cap": "노 맨즈 스카이 (이미지: Hello Games)"
-          },
-          {
-            "t": "p",
-            "x": "트위치 스트리머 Oskar1up이 올린 원본 글은 좋아요 6천 개, 조회수 180만 회를 넘겼다. 댓글은 DLSS 5가 만든 복숭아빛 노을과 유리 같은 파도를 칭찬했다. 2016년에 나온 이 게임 특유의 은근한 아름다움과는 결이 다른 화면이다. 그 글이 헬로게임즈 엔진 프로그래머 Martin Griffiths의 눈에 들어왔다."
-          },
-          {
-            "t": "p",
-            "x": "한 사용자는 노 맨즈 스카이야말로 DLSS 5에 딱 맞는 게임이라고 적었다. 사람 얼굴이 없어 불쾌한 골짜기가 생기지 않고, 자연과 우주 장면이 많아 리얼리즘을 더할 여지가 크다는 이유였다. Griffiths는 그 말에 동의하지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "\"노 맨즈 스카이에 DLSS 5를 붙인다면 그 일은 아마 제 몫일 겁니다. DLSS 지원을 제가 짰으니까요.\" Griffiths가 트위터에 쓴 말이다. \"그런데 이걸 채택하는 건 기술 결정이라기보다 아트 디렉션 선택에 가깝습니다.\""
-          },
-          {
-            "t": "p",
-            "x": "엔비디아는 게임스컴 2026 시연에서 이 2D 생성형 AI 필터가 오직 포토리얼리스틱 게임을 위한 것이라고 못 박았다. 그 기준대로면 스스로 부드러운 무지갯빛 은하를 만들어 온 노 맨즈 스카이는 애초에 대상이 아니다."
-          },
-          {
-            "t": "p",
-            "x": "의도와 현실은 따로 논다. 이용자들은 NBA 2K27 파일을 뜯어 자체 DLSS 5 버튼을 만들었고, 이 비공식 경로가 노 맨즈 스카이를 젤리로 채운 것처럼 보이게 만들었다. Griffiths가 남긴 문장이 질문을 정리한다. \"할 수 있느냐가 아닙니다. 이미지가 나아지느냐, 아니면 노 맨즈 스카이 고유의 룩과 느낌을 깎아내기 시작하느냐죠.\""
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-bytebrew-liveops-agents",
-      "eyebrow": "AI NEWS",
-      "headline": "바이트브루가 라이브옵스 전체를\nAI 에이전트 대화 안으로 넣었다",
-      "body": "분석에서 배포까지 한 대화로 끝내 주당 여덟 시간을 아낀다고 바이트브루는 말한다.",
-      "mini_headline": "라이브옵스 에이전트",
-      "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/bytebrew-brings-live-operations-into-app-developers-aiworkflows/",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/ByteBrew_Platform_Images_with_Logo.jpg",
-      "published_iso": "2026-09-03T13:00:00Z",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "ByteBrew가 라이브 오퍼레이션 스택 Operate를 자사 실시간 앱 인텔리전스 MCP 서버 Shift AI 안에서 그대로 돌아가게 했다. 모바일 앱을 분석하고 운영하고 키우는 플랫폼 위에 한 겹이 더 붙은 셈이다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/09/ByteBrew_Platform_Images_with_Logo.jpg",
-            "cap": "Operate가 Shift AI 안으로 들어갔다 (이미지: ByteBrew)"
-          },
-          {
-            "t": "p",
-            "x": "노린 건 문제를 찾은 대화와 문제를 고치는 대화를 하나로 합치는 일이다. 스튜디오가 Shift AI에게 바꿀 지점을 지목하면, 메시지 한 번으로 ByteBrew의 Remote Configs와 A/B Tests를 거쳐 전 세계 사용자에게 라이브 업데이트가 나간다. 코호트마다 다른 경험을 정의하고 한꺼번에 내보내는 일이 가능해진다."
-          },
-          {
-            "t": "p",
-            "x": "공동창업자 겸 COO Kian Hozouri는 보도자료에서 이렇게 말했다. \"모바일이 디지털 광고의 속도를 정합니다. 이렇게 경쟁이 치열한 시장에서는 가장 빨리 적응하는 팀이 계속 살아남습니다.\" 세션의 어느 순간에 사용자가 빠져나가는지, 어떤 오퍼가 반응을 못 얻는지까지 이미 보이는 상태라는 설명이 뒤따랐다."
-          },
-          {
-            "t": "p",
-            "x": "달라지는 지점은 속도다. 최대 48시간이 걸리는 심사를 기다리지 않고 변경 사항이 모든 사용자에게 동시에 닿는다. 단계적 롤아웃도, 스토어 제출도, 나중에 관리할 버전 파편화도 없다. 지표 조립과 설정 수정, 실험 세팅, 세그먼트 구축, 인앱 변경 QA가 대화 하나로 묶이면서 주당 여덟 시간쯤이 남는다."
-          },
-          {
-            "t": "p",
-            "x": "규모가 문제였던 팀에게는 계산이 바뀐다. 앱 하나에 설정 250개를 유지하고 동시에 100개 넘는 타이틀을 굴리는 스튜디오도 있다. 손으로 하면 개인화는 전략이 아니라 운영 부담이 된다. 어떤 코호트에는 첫 사용자 경험을 손보고, 가격 민감도가 다른 집단에는 가격과 오퍼를 조정하고, 지출이 적은 사용자는 광고 기반 수익화로 옮기는 식이다. 결과를 재고 그 패턴을 설정 수십 개에 걸쳐 반복한다."
-          },
-          {
-            "t": "p",
-            "x": "CEO Cameron Hozouri는 \"데이터에서 인사이트를 찾아내는 일은 아직 거두지 않은 매출\"이라고 했다. 다음 단계는 그 수정을 사용자 개개인에게 즉시 배포하는 것. 릴리스 사이클도, 앱스토어 심사도 거치지 않는다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-ai-disclosure-bait",
-      "eyebrow": "AI NEWS",
-      "headline": "'최종 빌드엔 AI 없다'는 말이\n프로젝트 전체를 뜻하지는 않는다",
-      "body": "출시 빌드에 AI 에셋이 없다는 해명은 기획과 프리프로덕션까지 덮어 주지 않는다.",
-      "mini_headline": "'AI 없음'의 빈틈",
-      "tool": "Games",
-      "source": "Aftermath",
-      "url": "https://aftermath.site/1666-amsterdam-no-more-ai-tomb-raider-divinity/",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg",
-      "published_iso": "2026-09-02T17:55:25Z",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "1666: Amsterdam은 어쌔신 크리드 공동 창작자 Patrice Désilets의 신작으로 알려졌다가, 공개 당시 형편없는 AI 아트로 한 차례 망신을 샀다. Désilets는 GamesRadar와의 인터뷰에서 자사가 표절 기계를 \"대체로 초반에, 구상과 프리프로덕션 단계에서\" 돌렸고 이제는 파이프라인에서 뺐다고 밝혔다. 어디서 많이 듣던 이야기다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg",
-            "cap": "1666: Amsterdam"
-          },
-          {
-            "t": "p",
-            "x": "올해 초 Blood of Dawnwalker 개발진이 그랬다. 전직 위처 개발자들이 만든 흡혈귀 잠입 액션으로, 이번 주에 나온다. Tomb Raider: Legacy of Atlantis 쪽도 마찬가지다. 스팀 페이지에는 \"AI 지원 도구\"를 \"초기 탐색과 임시 개발 콘텐츠\"에 썼지만 \"AI가 관여한 에셋은 개발팀의 창작·예술적 비전을 지키려고 모두 교체하거나 사람이 다듬었다\"고 적혀 있다. 라리안 CEO Swen Vincke도 연초에 비슷한 해명을 내놨다."
-          },
-          {
-            "t": "p",
-            "x": "공식 하나가 이미 굳었다. AI를 쓰고, 들키거나 인정하고, 최종 게임에는 AI 에셋이 들어가지 않는다고 말한 뒤, 당분간 AI는 안 쓰겠다고 덧붙인다. 애초에 많이 쓰지도 않았으니 뭐가 문제냐는 마무리까지. 그러면 악평이 가라앉고 일상으로 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "이걸 면죄부로 받아 줄 수는 없다. 비판에 대한 대응으로 솔직하지 않고, 뜯어보면 말이 맞지 않는다. 창작은 과정이고 그 시작이 발상과 구상이다. 글 쓰는 사람은 새 세계를 그려 보고, 아티스트는 가장 뒤틀린 상상을 스케치하고, 디자이너는 없던 장르와 메커닉을 만든다. 진부한 말이지만 AI가 가장 끼어들지 말아야 할 자리가 바로 거기다."
-          },
-          {
-            "t": "p",
-            "x": "AI가 뱉은 글과 이미지, 디자인이 최종 게임에 남지 않아도 지문은 여기저기 묻는다. 사람이 위에 덧칠했을 뿐 밑그림은 AI의 헛것이다. 기여가 정말 초반에만 국한됐다 해도 배의 방향은 이미 AI가 잡은 셈이다. 특정 기술이 아니라 AI에게 시키는 법을 배우는 사람들, 게임 개발판으로 옮겨 온 그 풍경이다. 어느 지점을 넘으면 게임 안에 못생긴 그림 한두 장 넣는 쪽보다 나쁘다. 바닥에 난 틈을 메우고, 그 위에 모든 것이 올라가니까."
-          },
-          {
-            "t": "p",
-            "x": "이건 미끼 상술이고, 기본값으로 굳어서는 안 된다. 매 순간 눈앞에 보이지 않을 뿐 AI는 이 게임들에 스며 있다. 임원과 스튜디오 대표들은 앞으로도 양쪽 말을 다 할 테고, 그대로 두면 곤란하다. 말이 뜻을 가져야 한다. 그러지 않으면 AI가 정말로 이긴다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-steam-slop-backlash",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 살짝 닿은 컷신 하나에\n스팀 출시 반응이 통째로 뒤집혔다",
-      "body": "위시리스트 10만을 쌓은 인디가 AI 컷신 하나로 대체로 부정적까지 내려앉았다.",
-      "mini_headline": "AI 컷신 한 편의 대가",
-      "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
-      "published_iso": "2026-08-24T02:56:27Z",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Vapor World: Over The Mind는 소울라이크와 메트로배니아를 섞은 게임이다. 회화적인 아트 스타일은 라이즈 오브 P나 플레이데드의 내러티브 플랫포머를 떠올리게 한다. 한국 스튜디오 Alive Inc에 따르면 8월 19일 얼리 액세스 출시 직전 위시리스트가 10만 건이었다. 2025년 1월부터 열어 둔 데모의 힘이 컸다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
-            "cap": "Vapor World: Over The Mind (이미지: Alive Inc)"
-          },
-          {
-            "t": "p",
-            "x": "출시는 금세 어그러졌다. 독특한 세계관도, 패링 중심의 전투도 화제가 되지 못했다. 시선은 데모에 없던 한 가지, 눈에 확 띄는 AI 사용에 쏠렸다."
-          },
-          {
-            "t": "p",
-            "x": "스팀에서 \"가장 도움이 되는\" 리뷰는 이렇게 적었다. \"게임플레이가 시작되기도 전에 나오는 첫 컷신부터 봤는데, 그들이 쓴 생성형 AI는 주인공 모델조차 일관되게 유지하지 못했다.\" 트레일러 속 게임플레이는 재미있어 보였지만 자신은 로봇이 아니라 사람을 지지한다는 말이 뒤따랐다."
-          },
-          {
-            "t": "video",
-            "yt": "AxLikQwnHWw"
-          },
-          {
-            "t": "p",
-            "x": "현재 리뷰 64개가 \"대체로 부정적\"에 머물러 있다. 직원이 다섯 명 남짓인 스튜디오로서는 뼈아픈 결과다. 방향을 못 읽었을 가능성도 있다. 퓨리서치센터 조사에서 한국은 25개국 가운데 AI에 가장 덜 회의적인 나라로 나온다. 미국과 이탈리아, 호주, 브라질에서는 절반 안팎이 일상 속 AI를 기대보다 걱정 쪽으로 답했지만 한국은 16퍼센트에 그쳤다."
-          },
-          {
-            "t": "p",
-            "x": "스튜디오 디렉터 Young Kim의 사과문에는 당혹감이 묻어난다. AI 컷신은 주말 안에 교체하겠다고 했고, 실제로 교체됐다. \"AI를 택한 이유는 기존 리소스로는 닿지 못할 표현 수준에 갈 수 있다고 믿었고, 스토리와 시네마틱 바깥의 게임 자체에 더 집중할 수 있으리라 봤기 때문입니다.\" 그는 이를 성급한 판단이었다고 적었다. 실망하는 사람이 나오리라 예상은 했지만 이 정도로 커질 줄은 몰랐다고도 했다."
-          },
-          {
-            "t": "p",
-            "x": "컷신은 원래 인엔진으로 만들었다가 나중에 AI로 갈아 끼운 것이었고, 팀은 그 낙차를 알아채지 못했다. Alive Inc는 라리안 스튜디오, 샌드폴 인터랙티브처럼 거센 반발 뒤 AI 사용을 되돌린 목록에 이름을 올렸다. Vapor World가 통째로 슬롭인 건 아니다. 코어 게임에 들인 공은 화면에 남아 있다. 다만 생성형 AI로 품을 줄이는 선택을, 적어도 지금 관객은 봐주지 않는다."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-09-05",
+ "section": "games",
+ "cards": [
+  {
+   "id": "games-ai-panic-forcing-developers-prove",
+   "eyebrow": "AI NEWS",
+   "tool": "Games",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/game-accused-of-using-ai-to-generate-its-reveal-trailer-proves-it-was-made-by-people-2000731291",
+   "og_image": "https://kotaku.com/app/uploads/2026/09/trailer-real-1200x675.jpg",
+   "published_iso": "2026-09-04T15:00:04+00:00",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "headline": "AI 슬롭이라던 휴먼카인드 2 트레일러\n제작사가 촬영 현장 영상을 내놨다",
+   "mini_headline": "AI 의심에 현장 공개",
+   "body": "Amplitude는 실제 세트가 담긴 90초 영상을 내놓고 AI 사용을 부인했다.",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "지난주 게임스컴 오프닝 나이트 라이브에서 문명류 전략 게임 Humankind 2의 공개 트레일러가 나왔다. 공개 직후 온라인에서는 트레일러 일부 혹은 전부를 AI 도구로 만든 것 같다는 말이 돌기 시작했다. 개발사는 이를 부인했고, 실제 세트와 사람을 써서 어떻게 찍었는지 담은 확장판 비하인드 영상을 내놨다."
+     },
+     {
+      "t": "p",
+      "x": "9월 4일 Amplitude Studios가 공개한 영상은 1분 30초 분량이다. 영상 앞머리에서 밝히듯 이 비하인드 공개는 트레일러를 AI 슬롭이라 부른 온라인 반응 때문에 나왔다. Amplitude는 트레일러 어느 부분에도 AI 생성 도구를 쓰지 않았다고 말한다. 대신 실제 사람과 동물, 세트, 그리고 CG 비주얼과 이펙트를 섞었다."
+     },
+     {
+      "t": "video",
+      "yt": "acJyM3ZK6nI"
+     },
+     {
+      "t": "p",
+      "x": "2027년 출시 예정인 Humankind 2의 개발사는 전작 Humankind 트레일러 여러 편을 만든 크리에이티브 에이전시 BETC와 손잡았다고 밝혔다. 촬영은 “각기 다른 시대를 표현하도록 설계된 여러 실사 세트”에서 이뤄졌고, 시대마다 고유한 의상과 소품, 조명, 연기가 들어갔다. BETC는 CGI·VFX 스튜디오 LiveFX와도 협업해 CG 토네이도와 폭발 같은 요소를 얹어 트레일러를 “보강”했다."
+     },
+     {
+      "t": "p",
+      "x": "BETC의 크리에이티브 디렉터 Benjamin Le Breton은 보도자료에서 이렇게 말했다. “인류 역사의 폭을 73초 안에 압축하되 감정의 무게는 잃지 않는 것이 우리의 야심이었다. 문명에 관한 이야기를 들려주기보다 관객이 문명을 겪게 하고 싶었다. 갓 태어난 아이의 눈으로 세상을 보게 하니 아홉 시대를 가로지를 수 있었고, 모든 세대가 앞선 세대의 유산을 물려받는 동시에 미래를 다시 정의할 기회도 얻는다는 사실을 떠올리게 한다.”"
+     },
+     {
+      "t": "p",
+      "x": "그렇다면 왜 그렇게 많은 사람이 AI 생성이라고 단정했을까. 짐작 가는 이유가 몇 있다. 트레일러의 어딘가 뻣뻣한 1인칭 시점 샷, 그리고 후반 작업에서 입힌 뿌연 느낌이 사람들을 걸리게 했다고 본다. 상당수는 휴대폰으로만 봤을 텐데 작은 화면에서는 디테일을 잡아내기 어렵다. 눈앞의 모든 것이 AI 슬롭일지 모른다는 불안, 실제로 생성형 AI를 쓴 게임이 게임스컴에 여럿 나온 상황까지 겹쳤다."
+     },
+     {
+      "t": "p",
+      "x": "필자가 AI 생성 콘텐츠를 싫어한다는 건 이 지면에서 숨긴 적이 없다. 다만 확실한 증거나 확인 없이 의혹을 던지는 일도 조심해야 한다. 조금 어설프거나 흐릿하거나 별로인 것을 전부 “AI 슬롭”이라 부르면, 진짜 슬롭은 더 쉽게 빠져나가고 공들여 진짜를 만든 사람들만 이유 없이 상처받는다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "games-hands-dlss-5-nba-2k27",
+   "eyebrow": "AI NEWS",
+   "tool": "Games",
+   "source": "GamesRadar+",
+   "url": "https://www.gamesradar.com/hardware/desktop-pc/hands-on-with-dlss-5-in-nba-2k27-heres-what-works-and-what-doesnt-work-about-nvidias-new-ai-upscaler/",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/8cwLeMpT38BXiwbVd7rJhe-1920-80.jpg",
+   "published_iso": "2026-09-04T13:04:31Z",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "headline": "NBA 2K27에 DLSS 5를 켜봤다\n배경은 그럴듯해졌고 얼굴은 어긋났다",
+   "mini_headline": "DLSS 5 켜본 결과",
+   "body": "프레임 생성을 끄면 RTX 5080도 DLSS 5로 60fps에 닿지 못했다.",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "말 많던 엔비디아의 DLSS 5가 NBA 2K27과 함께 정식 출시됐다. 이전 DLSS가 화질을 조금 깎아 FPS를 벌어주는 물건이었다면, DLSS 5는 대놓고 그래픽을 “개선”하려 든다. 그래서 프레임 쪽 결과가 묘하다."
+     },
+     {
+      "t": "p",
+      "x": "지금까지 공개된 자료는 대부분 비교용 정지컷이었다. Resident Evil Requiem, Hogwarts Legacy, NBA 2K27, Starfield 같은 게임에서 AI 모델이 캐릭터 모델을 꽤 공격적으로 바꿔놓은 장면들. 켜고 끈 스틸을 나란히 보는 것과 직접 플레이하며 보는 건 다르다. 그래서 생성형 AI를 향한 불신을 몇 시간만 접어두고, 출시 시점 유일한 공식 지원 게임인 NBA 2K27을 붙잡았다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/pvh6nzZAnLtcGn8rHgDGwe.jpg",
+      "cap": "NBA 2K27 (이미지 출처: 2K)"
+     },
+     {
+      "t": "p",
+      "x": "NBA 2K27은 스포츠 시뮬레이션이다. 아케이드 감각이 아니라 프로 경기를 화면에 최대한 재현하려는 게임이고, 그래서 포토리얼리즘을 노린다. DLSS 5가 실제로 값을 하는 지점도 거기였다. 코트 표면, 배경의 사물, 평소라면 눈길도 안 주는 것들에 깊이와 빛 반사가 조금씩 더해진다. 관중 NPC 얼굴에는 개발자가 끝내 손대지 못했던 정도의 마감이 붙는다."
+     },
+     {
+      "t": "p",
+      "x": "문제는 대사 장면이다. 커리어 모드의 코트사이드 인터뷰와 컷신에서 얼굴만 더 사실적으로 바뀌자 애니메이션과 업스케일링이 따로 논다. 입술과 입 모양이 대사와 정확히 맞지 않는 얼굴이 남고, 이건 사람 뇌가 바로 잡아낸다. 말하는 사람을 AI로 만든 영상처럼 보인다. 서사 중심 싱글플레이 게임으로 DLSS 5가 넘어가면 이게 가장 큰 약점이 될 것 같다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/T3HJiagkYtbTPjqCaexH3h.png",
+      "cap": "프레임 측정에 쓴 옵션"
+     },
+     {
+      "t": "p",
+      "x": "성능은 PNY Slim RTX 5080이 들어간 개인 PC에서 쟀다. NBA 2K27에는 내장 벤치마크가 없어 뉴욕 닉스와 LA 레이커스의 “play now” 경기를 돌리며 프레임을 표본으로 뽑았다. 4K 최고 옵션에 레이 트레이싱과 다이내믹 멀티 프레임 생성을 켜면 222fps 언저리를 유지하다 최고 238fps까지 올라갔다. 고스팅이나 붕 뜨는 지연은 없었고 캐릭터 모델 위로 가끔 화면 찢김만 보였다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/Tw6ENMH9JZAxKMpiWcrLdg.png",
+      "cap": "프레임 생성을 뺀 측정값"
+     },
+     {
+      "t": "p",
+      "x": "프레임 생성을 빼자 이야기가 달라졌다. 같은 옵션에서 RTX 5080의 프레임은 49~55fps까지 내려갔고, DLSS 5를 켠 채로는 60fps에 닿지도 못했다. 같은 설정에서 DLSS 5만 끄면 150~165fps다. DLSS는 원래 프레임을 올리려고 만든 기술인데 5는 오히려 PC를 잡아먹는다. 애초에 이름을 다르게 붙였어야 했다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/jVPpZBV56oXa64dp5LcQ2h.png",
+      "cap": "DLSS 5 없이도 이미 완성된 화면"
+     },
+     {
+      "t": "p",
+      "x": "빠르게 움직이는 농구 경기에서 얻는 화질 향상은 잃는 프레임값을 못 한다. 엔비디아가 성능을 계속 다듬으리라는 데는 의심이 없다. GTC 시연 때는 RTX 5090 두 장이 필요했다는 이야기도 돈다. 그래도 NBA 2K27을 만든 아티스트들은 이미 충분히 그럴듯한 화면을 만들어놨다. DLSS 5는 그 위에 한 겹을 더 얹고 프레임을 가져간다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "games-modder-enables-dlss-5-neural",
+   "eyebrow": "AI NEWS",
+   "tool": "Games",
+   "source": "Wccftech",
+   "url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-DLSS-5.jpg",
+   "published_iso": "2026-09-04T18:37:44+00:00",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "headline": "모더가 라데온 RX 9070 XT에\nDLSS 5 뉴럴 렌더링을 얹었다",
+   "mini_headline": "라데온에 얹힌 DLSS 5",
+   "body": "RX 9070 XT에 뉴럴 렌더링을 켜자 프레임이 80대에서 11~12로 내려갔다.",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "누군가 실행 파일 하나로 AMD RDNA 4 GPU에서 최신 DLSS 5를 돌리는 데 성공했다."
+     },
+     {
+      "t": "p",
+      "x": "최근 며칠 사이 NBA 2K7의 공식 구현 말고도 여러 게임에 DLSS 5가 비공식으로 붙었다. 모더와 열성 사용자들은 RTX 40, RTX 30, RTX 20 시리즈 같은 구형 GPU에서도 DLSS 5 뉴럴 렌더링을 켜냈다. NVIDIA가 나중에 RTX 40으로 확대하겠다고 했지만 당분간은 RTX 50 시리즈에 묶여 있다."
+     },
+     {
+      "t": "p",
+      "x": "DLSS 5 뉴럴 렌더링은 현재 실시간 모델에서 FP8을 쓴다. 최신 세대 GPU에서 못 돌 이유가 없다는 뜻이다. FP8을 하드웨어로 지원하는 AMD RDNA 5 GPU에서도 가능하냐는 질문이 여기서 나왔다. 가능했다. 한 모더가 RX 9000 시리즈에서 실제로 켜냈다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-5-on-AMD-File-Requirements.jpg",
+      "cap": "필요한 파일 목록"
+     },
+     {
+      "t": "p",
+      "x": "Ancient Gameplays가 올린 영상이 이 우회법의 작동을 확인해준다. 자신의 Radeon RX 9070 XT에서 Cyberpunk 2077 같은 게임에 DLSS 5 NR을 켜는 장면이 나온다. 과정은 단순하다. “dlssnr_on_amd_setup.exe” 파일을 Cyberpunk 2077처럼 게임의 bin\\x64 폴더에 넣고, “nvngx_dlssnr.dl” 파일을 같은 폴더에 둔다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-5-AMD-process-728x376.jpg",
+      "cap": "설치 과정"
+     },
+     {
+      "t": "p",
+      "x": "실행 파일을 돌리면 기본 안내 몇 가지를 따르게 된다. 그다음 게임을 켜고 FSR 3이나 FSR 4를 활성화한다. End 키로 오버레이를 부르고 실행 파일을 다시 돌려 “update”(U)나 “remove”(R)를 골라 게임에서 DLSS 5 NR을 켜거나 끈다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Cyberpunk-2077-RX-9070-XT-DLSS-5-Off-scaled.jpg",
+      "cap": "DLSS 5 Off"
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Cyberpunk-2077-RX-9070-XT-DLSS-5-On-scaled.jpg",
+      "cap": "DLSS 5 On"
+     },
+     {
+      "t": "p",
+      "x": "영상에서 보이듯 DLSS 5 NR 없이 Cyberpunk 2077은 RX 9070 XT에서 80fps를 넘겼지만, NR을 켜자 11~12fps로 주저앉았다. 최적화가 없는 탓에 성능을 크게 잡아먹는다. 다만 모더는 이후 버전을 계속 내놨고, 알파 v0.2.7은 성능을 12% 끌어올려 1080p Cyberpunk 2077에서 30fps를 낸다. 같은 방법으로 GTA V: Enhanced도 RX 9070 XT에서 돌아간다는 것이 모더의 설명이다."
+     },
+     {
+      "t": "video",
+      "yt": "MQ-flbvMflY"
+     }
+    ]
+   }
+  },
+  {
+   "id": "games-building-procedural-shell-grotto-substance",
+   "eyebrow": "AI NEWS",
+   "tool": "Games",
+   "source": "80 Level",
+   "url": "https://80.lv/articles/building-a-procedural-shell-grotto-with-substance-3d-designer-unreal-engine",
+   "og_image": "https://cdn.80.lv/api/upload/meta/49918/images/6a8f9cfaa7e25/contain_1200x630.jpg",
+   "published_iso": "2026-08-28T05:15:00+00:00",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "headline": "서브스턴스 디자이너 노드 두 갈래로\n조개 장식 벽을 통째로 만들었다",
+   "mini_headline": "노드로 쌓은 조개 장식 벽",
+   "body": "Coraline Lyu는 조개와 소라 생성기를 나눠 짜고 벽 여덟 종을 뽑아냈다.",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "video",
+      "yt": "J9vRA5Lr7PE"
+     },
+     {
+      "t": "p",
+      "x": "Coraline Lyu는 id Software와 Naughty Dog에서 머티리얼 아티스트로 일했다. 반복의 자유가 커지는 쪽으로 시스템을 짜되, 최종 결과가 기술 판단을 이끌게 두는 편이다. Shell Grotto는 두 달쯤 짬을 내 만든 개인 작업이다. 절차적 장식을 시험하고 그 머티리얼을 완성된 건축 환경 안에 넣어보고 싶었다."
+     },
+     {
+      "t": "p",
+      "x": "영국의 Shell Grotto 사진을 우연히 보고 시작했다. 벽면이 꽃, 테두리, 아치, 원, 추상 문양으로 배열된 조개로 덮여 있다. 멀리서는 커다란 그래픽 구성으로 읽히고, 가까이 가면 실루엣과 색과 손상 정도가 제각각인 작은 자연물이다. 제한된 조개 종류로 복제 티가 안 나는 패턴을 얼마나 만들 수 있을지 보고 싶었다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.80.lv/api/upload/content/78/6a8f91a6cfd48.jpg",
+      "cap": "Shell Grotto 환경"
+     },
+     {
+      "t": "p",
+      "x": "실제 건물은 좁은 복도 끝에 작은 정사각형 방이 나온다. 긴 통로를 걷다 보면 끝에서 뭔가 드러나기를 기대하게 되는데, 또 작은 방이 나오는 건 약했다. 그래서 마지막 구역을 훨씬 높은 돔 공간으로 다시 설계했다. 돔 꼭대기의 개구부가 시선을 위로 끌고, 조개 머티리얼이 장식이 아니라 건축의 일부가 된다."
+     },
+     {
+      "t": "p",
+      "x": "건축 모델은 Maya에서 만들고, 조개 머티리얼은 Substance 3D Designer에서 뽑았다. 조립과 라이팅, 렌더는 Unreal Engine에서 했다. 벽 머티리얼은 4K로 내보냈고, Nanite Tessellation과 Displacement로 조개 형태의 깊이를 살렸다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.80.lv/api/upload/content/3d/6a8f923777bd0.jpg",
+      "cap": "조개 생성기 그래프"
+     },
+     {
+      "t": "p",
+      "x": "벽을 짓기 전에 조개 라이브러리부터 필요했다. 조개 생성기와 소라 생성기를 나눴다. 소라는 나선이 형태를 결정하고, 나머지 조개는 중심에서 퍼지는 방사형 성장선에 기댄다. 실루엣과 높이 구조는 Spline으로 잡았다. 예전에는 Shape 노드를 잔뜩 조합했는데, Spline 쪽이 훨씬 빠르고 실루엣을 직접 만졌다."
+     },
+     {
+      "t": "p",
+      "x": "표면 성장 패턴은 Splatter Circular Grayscale로 만들고 규칙성은 Directional Warp와 Slope Blur로 깼다. 손상은 Grunge 맵을 하이트에 섞고 그 구조를 앰비언트 오클루전에 흘렸다."
+     },
+     {
+      "t": "p",
+      "x": "큰 문양은 Spline으로 경로를 그리고 Scatter on Spline Grayscale로 조개를 배열했다. 원형 배치에는 Splatter Circular를 썼다. 주 패턴이 잡히면 남은 음영 공간을 뽑아 Bevel로 그레이스케일 전이를 만들고, Gradient (Dynamic)로 안쪽 경로를 더 냈다. 실제 조개는 회반죽 위에 얹히지 않는다. 젖은 재료에 눌리면 가장자리로 반죽이 밀려 나온다. 그 융기가 없으면 조개가 벽 위에 뜬 데칼처럼 보인다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.80.lv/api/upload/content/88/6a8f92899e4ba.jpg",
+      "cap": "벽 변형 여덟 종 가운데 하나"
+     },
+     {
+      "t": "p",
+      "x": "가장 큰 난관은 개별 조개를 완성한 뒤에 왔다. 작은 표면 디테일에 오래 매달렸는데, 최종 크기로 줄여 벽에 수백 개를 깔자 그 작업이 대부분 사라졌다. 대신 벽에는 멀리서 읽힐 큰 높이 변화가 부족했다. 순서를 바꿨다. 큰 높이 변화부터 잡고 벽에 넣어 줄인 다음 형태와 요철이 보이는지 확인했다."
+     },
+     {
+      "t": "p",
+      "x": "라이팅은 Rui Huang의 피드백으로 다듬었다. 돔 꼭대기 개구부가 중앙 공간의 주광이고, 어두운 통로는 작은 실용 조명이 안내한다. 스치는 빛이 디스플레이스먼트와 반죽 융기를 드러내고, 부드러운 정면광이 큰 패턴을 알아보게 한다. 가장 쓸모 있었던 교훈은 머티리얼이 의도한 관람 거리에서 무너지는 순간을 본 것이었다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "games-24-gamescom-reveals-officially-used",
+   "eyebrow": "AI NEWS",
+   "tool": "Games",
+   "source": "TheGamer",
+   "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/",
+   "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "published_iso": "2026-08-27T10:34:41Z",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "headline": "게임스컴 공개작 55종 가운데 13종이\nAI를 썼다고 스스로 밝혔다",
+   "mini_headline": "게임스컴 넷 중 하나 AI",
+   "body": "게임스컴 공개작 55종 중 13종이 개발이나 마케팅에 AI를 썼다.",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "올해 게임스컴 오프닝 나이트 라이브는 두 시간짜리 실망 모음이었다. Warlock: Dungeons & Dragons나 Metro 2039 같은 물건이 끝없는 다크 판타지 소울라이크와 애니풍 액션 사이에 간간이 끼어 있었지만, 가장 큰 발표가 10년 된 게임의 리마스터와 29년 된 게임의 리메이크였다. 쇼케이스 전체에 AI의 기운이 얇게 깔려 있었다."
+     },
+     {
+      "t": "p",
+      "x": "그 느낌은 착각이 아니었다. 공개작 넷 중 하나에 가까운 13종, 55종 중 23.64%가 개발이나 마케팅에 AI를 썼다. TheGamer는 공개작마다 개발자 인터뷰와 공식 블로그, 스팀 공시를 훑었고, 레딧 사용자 FrostyMagazine9918이 r/SocialistGaming에 올린 비슷한 목록과도 교차 확인했다."
+     },
+     {
+      "t": "img",
+      "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-08-jun-2026-10-14-am-9919.jpg",
+      "cap": "AI 사용이 확인된 게임스컴 공개작"
+     },
+     {
+      "t": "p",
+      "x": "1666 Amsterdam은 게임과 마케팅 전반에 AI 플레이스홀더 에셋을 썼고 Panache Digital은 출시 전에 걷어내겠다고 했다. Aion 2는 스팀 공시 기준으로 Arcana 카드 디자인과 일부 아이콘을 AI로 만들었다. Ananta는 NPC 상호작용에 썼다. Aniimo는 테스트 등 “여러 방식으로” 쓰되 크리처 디자인은 전부 사람 손이라고 밝혔다. Crazy Taxi: World Tour는 개발 중 생성형 AI 보조 도구를 “참고용”으로 썼다."
+     },
+     {
+      "t": "p",
+      "x": "Crimson Desert: Enhanced Edition은 플레이스홀더에 썼는데 일부가 출시본까지 넘어갔다. Like or Die는 “일부 에셋 제작의 보조 목적”으로, Once Human은 마케팅 에셋에 썼다. Petit Planet에는 AI 챗봇이 들어간다. HoYoverse는 AI를 게임 개발의 축으로 삼아 146억 달러를 투자했다. PUBG Ded.Net은 “일부 인게임 콘텐츠 개발에 AI 도구를 쓴다”고 공시했다. The Blood of the Dawnwalker는 플레이스홀더 AI 음성을 썼고 Rebel Wolves는 출시 전 배우 녹음으로 바꾸겠다고 했다. Train Sim World 7은 ElevenLabs의 음성 합성으로 플랫폼과 차내 안내 방송을 만든다. Zoopunk은 플레이어가 인게임 커스터마이징에 AI를 쓸 수 있다."
+     },
+     {
+      "t": "p",
+      "x": "AI 사용을 인정한 게임만 이 정도다. 목록에 들어가야 할 게임이 더 있는 건 분명하다. Capcom은 개발에 AI를 “적극” 쓰겠다고 했고, Saber Interactive의 대표 Matthew Karch는 확고한 AI 옹호론자다. 최근 공개한 Rideshare ‘Stimulator’에는 AI 생성 음성과 미션부터 현지화 대사와 음악까지 들어갔다."
+     },
+     {
+      "t": "p",
+      "x": "상당수는 플레이스홀더 용도였지만 그것도 만만치 않게 논란이 됐다. 윤리 문제를 접어두더라도 플레이스홀더는 진공에서 나오지 않는다. 최종 결과물을 만드는 사람들에게 아트 방향을 전달하는 물건이다. Larian Studios가 작년에 Divinity 초기 단계에서 AI를 썼다고 인정한 뒤 심한 검증을 받은 이유도 여기 있다."
+     },
+     {
+      "t": "p",
+      "x": "23.64%는 실제보다 낮을 수밖에 없다. BCG 조사에 따르면 2025년 3분기에 AI 사용을 공시한 신작은 20%였지만, 실제로는 스튜디오의 약 50%가 개발에 AI를 쓰는 것으로 추정된다. 1년 뒤 55종 전체를 다시 훑어보면 흥미로울 것이다. 넷 중 하나라는 수치는 아무래도 후한 추정이다."
+     }
+    ]
+   }
+  }
+ ]
 }

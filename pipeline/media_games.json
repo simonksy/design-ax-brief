@@ -1,33 +1,34 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "games",
   "media": [
     {
-      "id": "games-agents404-bezi",
+      "id": "games-ai-panic-forcing-developers-prove",
       "type": "video",
-      "src": "pipeline/media/games-agents404-bezi.mp4",
-      "poster": "pipeline/media/games-agents404-bezi.jpg"
+      "src": "pipeline/media/games-ai-panic-forcing-developers-prove.mp4",
+      "poster": "pipeline/media/games-ai-panic-forcing-developers-prove.jpg"
     },
     {
-      "id": "games-dlss5-nomanssky-mod",
+      "id": "games-hands-dlss-5-nba-2k27",
       "type": "image",
-      "src": "pipeline/media/games-dlss5-nomanssky-mod.jpg"
+      "src": "pipeline/media/games-hands-dlss-5-nba-2k27.jpg"
     },
     {
-      "id": "games-bytebrew-liveops-agents",
-      "type": "image",
-      "src": "pipeline/media/games-bytebrew-liveops-agents.jpg"
-    },
-    {
-      "id": "games-ai-disclosure-bait",
-      "type": "image",
-      "src": "pipeline/media/games-ai-disclosure-bait.jpg"
-    },
-    {
-      "id": "games-steam-slop-backlash",
+      "id": "games-modder-enables-dlss-5-neural",
       "type": "video",
-      "src": "pipeline/media/games-steam-slop-backlash.mp4",
-      "poster": "pipeline/media/games-steam-slop-backlash.jpg"
+      "src": "pipeline/media/games-modder-enables-dlss-5-neural.mp4",
+      "poster": "pipeline/media/games-modder-enables-dlss-5-neural.jpg"
+    },
+    {
+      "id": "games-building-procedural-shell-grotto-substance",
+      "type": "video",
+      "src": "pipeline/media/games-building-procedural-shell-grotto-substance.mp4",
+      "poster": "pipeline/media/games-building-procedural-shell-grotto-substance.jpg"
+    },
+    {
+      "id": "games-24-gamescom-reveals-officially-used",
+      "type": "image",
+      "src": "pipeline/media/games-24-gamescom-reveals-officially-used.jpg"
     }
   ]
 }

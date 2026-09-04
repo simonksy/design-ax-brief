@@ -1,175 +1,105 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "music",
-  "selected_by": "curator (user deferred)",
+  "selected_by": "ax-curator (user deferred)",
+  "dedup": {
+    "checked_against": "pipeline/news_data.json -> sections.music (today 2026-09-04 + days 2026-08-30..2026-09-03)",
+    "pool_size": 13,
+    "dropped_as_duplicate": 0,
+    "notes": "No candidate matched a published music story by URL or by event. Nearest neighbours checked and cleared: SOCAN v Suno (new Canadian collecting-society suit) is a different action from the 2026-08-31 Round Hill v Suno/Anthropic card; the CMU Suno publicity-rights suit and the CMU Sony/Warner v Anthropic suit are also distinct events, but were passed over to avoid stacking three near-identical litigation cards in one issue."
+  },
   "picks": [
     {
       "rank": 1,
+      "id": "music-dreamtonics-instrument-x",
+      "title": "Dreamtonics Completes Its Trilogy With Instrument X",
+      "headline": "Dreamtonics Completes Its Trilogy With Instrument X",
+      "url": "https://www.attackmagazine.com/news/dreamtonics-completes-its-trilogy-with-instrument-x/",
+      "source": "Attack Magazine",
+      "published_iso": "2026-09-02T13:23:20+00:00",
+      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/09/Attack-Mag-News-Feat-Images-INSTRUMENT-X.png",
+      "excerpt": "Dreamtonics completes its trilogy with Instrument X, a neural acoustic modelling platform for orchestral instruments that swaps multi-gigabyte sample libraries for a trained model. It joins Synthesizer V and Vocoflex as the Tokyo company's third neural instrument.",
+      "category": "music",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Audacity 4 Is Finally Here: The Biggest Update in the Editor's History",
-      "url": "https://www.gearnews.com/audacity-update-free/",
-      "source": "Gearnews",
-      "published_iso": "2026-09-03T16:43:29+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
-      "excerpt": "Audacity 4 ships a redesigned clip workflow, Workspaces and a full visual overhaul — and keeps the Intel OpenVINO AI toolset (music separation, noise suppression, transcription, music generation) plus new AI-powered podcast features inside a free, open-source editor.",
-      "rationale": "The biggest rewrite in Audacity's history puts stem separation, noise suppression and transcription behind a modern clip workflow for free — the lowest-cost AI audio bench anyone can install tomorrow."
+      "rationale": "A trained neural model replacing multi-gigabyte orchestral sample libraries changes what a composer installs and how a session loads — the most concretely actionable release in the pool."
     },
     {
       "rank": 2,
+      "id": "music-sonible-smart-chain",
+      "title": "The sonible smart:chain Plugin is an Intelligent Mixing Ecosystem",
+      "headline": "The sonible smart:chain Plugin is an Intelligent Mixing Ecosystem",
+      "url": "https://www.gearnews.com/sonible-smartchain-studio/",
+      "source": "Gearnews",
+      "published_iso": "2026-08-26T12:00:00+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-ft.jpg",
+      "excerpt": "With sonible smart:chain, the processing chain draws analysis from multiple instances across your DAW so each channel is shaped in the context of the whole mix. Seven processors share one AI analysis rather than each guessing in isolation.",
+      "category": "music",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Producely Dialr: This Plugin Controller Maps with AI!",
-      "url": "https://www.gearnews.com/producely-dialr-studio/",
-      "source": "Gearnews",
-      "published_iso": "2026-09-03T12:29:23+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
-      "excerpt": "First shown at Superbooth25, the Producely Dialr hardware controller is now orderable: an AI-assisted mapping engine reads whatever plugin is in focus and assigns its most useful parameters to the knobs automatically, removing the MIDI-learn step from hands-on mixing and sound design.",
-      "rationale": "AI applied to the boring part instead of the music — the controller reads the focused plugin and maps its knobs itself, deleting MIDI-learn from every session."
+      "rationale": "Cross-instance analysis means AI mixing tools finally hear the whole session instead of one channel — a direct change to how a mix gets built tomorrow."
     },
     {
       "rank": 3,
+      "id": "music-accentize-chameleon-emmy",
+      "title": "Accentize Chameleon wins Emmy Award",
+      "headline": "Accentize Chameleon wins Emmy Award",
+      "url": "https://www.soundonsound.com/news/accentize-chameleon-wins-emmy-award",
+      "source": "Sound On Sound",
+      "published_iso": "2026-09-04T18:00:46+01:00",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/accentize_chameleon-rrwNhEr7GV_o8hsYvn_lSKKTeYMAPqW6.jpg",
+      "excerpt": "Accentize has received an Engineering, Science & Technology Emmy Award for Chameleon, a plug-in that uses machine learning to automatically match the reverb characteristics of one recording to another. The tool has become a staple of dialogue post-production for film and TV.",
+      "category": "music",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "Creating plugins in Suno Studio 2.0",
-      "url": "https://www.youtube.com/watch?v=lGvyrEkZ6ZU",
-      "source": "Suno (YouTube)",
-      "published_iso": "2026-08-26T13:00:05+00:00",
-      "og_image": "https://i.ytimg.com/vi/lGvyrEkZ6ZU/maxresdefault.jpg",
-      "excerpt": "Suno's own walkthrough of building custom audio plugins from the chat bar inside Studio 2.0 — the vendor showing how a prompt becomes a signal-processing device in a working session.",
-      "rationale": "Suno moves from generating songs to generating the processors that shape them: a prompt in the chat bar becomes a working plugin, shown step by step by the vendor."
+      "rationale": "An ML reverb-matching plug-in taking a technical Emmy is the clearest signal yet that AI audio repair has become standard post-production infrastructure, not an experiment."
     },
     {
       "rank": 4,
+      "id": "music-songscription-publishing",
+      "title": "Songscription talks AI and music publishing: 'We need to work alongside the industry'",
+      "headline": "Songscription talks AI and music publishing: 'We need to work alongside the industry'",
+      "url": "https://musically.com/2026/09/04/songscription-talks-ai-and-music-publishing-we-need-to-work-alongside-the-industry/",
+      "source": "Music Ally",
+      "published_iso": "2026-09-04T05:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-13.49.55.png?fit=1057%2C528&ssl=1",
+      "category": "music",
+      "excerpt": "Startup Songscription turns recordings into playable sheet music with automatic music transcription, and is now pitching that engine to publishers rather than around them. Its founders argue transcription AI is the cooperative end of the music-AI spectrum.",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Armin van Buuren and Laidback Luke join 'responsible' AI music company Moises as advisors",
-      "url": "https://djmag.com/news/armin-van-buuren-and-laidback-luke-join-responsible-ai-music-company-moises-advisors",
-      "source": "DJ Mag",
-      "published_iso": "2026-09-03T13:27:41+01:00",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Armin%20%2B%20Luke%203.jpg.webp",
-      "excerpt": "Two headline DJ-producers have signed on as advisors to Moises, whose stem-separation, AI mixing/mastering and generative session-player tools are trained only on licensed and authorised content. The pair will steer how the toolset is shaped for working producers.",
-      "rationale": "The licensed-training-data camp gets two working producers steering the roadmap — the clearest signal yet of where Moises' stem and session-player tools are heading."
+      "rationale": "Automatic transcription is the rare music-AI product that publishers can license instead of sue, and it hands players usable notation from any recording."
     },
     {
       "rank": 5,
+      "id": "music-socan-sues-suno",
+      "title": "SOCAN Sues Suno Over Alleged Copyright Infringement",
+      "headline": "SOCAN Sues Suno Over Alleged Copyright Infringement",
+      "url": "https://www.hypebot.com/socan-sues-suno-over-alleged-copyright-infringement/",
+      "source": "Hypebot",
+      "published_iso": "2026-09-03T16:06:42+00:00",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-2-socan.jpg",
+      "excerpt": "Canadian rights organisation SOCAN has filed a copyright infringement suit against Suno in the Federal Court of Canada, identifying 150 Suno-generated tracks it says reproduce works in its repertoire. It is the first Canadian collecting-society action against a generative music platform.",
+      "category": "music",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Alok fans get personalised music video with headphone purchases",
-      "url": "https://musically.com/2026/09/01/alok-fans-get-personalised-music-video-with-headphone-purchases/",
-      "source": "Music Ally",
-      "published_iso": "2026-09-01T12:21:03+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
-      "excerpt": "Alok and agency Rise New York & Partners turned a headphone purchase into an AI-generated music video that is unique for every buyer — a production pipeline where the 'one video per release' assumption is replaced by per-fan rendering.",
-      "rationale": "Kills the 'one video per release' assumption: a shipped campaign where every buyer gets a distinct AI-rendered music video, and the pipeline is the deliverable."
-    }
-  ],
-  "dropped": [
-    {
-      "title": "Audio Effects & Plugins in Suno Studio 2.0",
-      "url": "https://www.youtube.com/watch?v=59rEQZmGF24",
-      "reason": "WITHIN-POOL DUPLICATE: same source (Suno) and same core topic (Studio 2.0 plugin/effects tutorial series) published days apart. Kept the stronger 'Creating plugins in Suno Studio 2.0'."
-    },
-    {
-      "title": "Report explores AI's indies impact and infrastructure erosion",
-      "url": "https://musically.com/2026/09/02/report-explores-ais-indies-impact-and-infrastructure-erosion/",
-      "reason": "Fresh and eligible, but the AI-erodes-the-independent-sector argument is already covered by published cards (MIDiA cultural-infrastructure 08-31, Canadian musicians study 08-30); also would have made Music Ally a 2-card outlet."
-    },
-    {
-      "title": "ElevenLabs Changelog: Everything We Shipped This Month",
-      "url": "https://www.youtube.com/watch?v=0BCdjqDURVg",
-      "reason": "Monthly roundup with no single actionable release; weakest novelty of the surviving pool."
-    },
-    {
-      "title": "Big & Rich Take on Artificial Intelligence on Ominous New Song 'Hello AI'",
-      "url": "https://www.billboard.com/music/country/big-rich-new-song-hello-ai-premiere-1236325574/",
-      "reason": "Oldest item in the pool (08-27), a song premiere rather than a tool or policy change; nothing a producer acts on tomorrow."
+      "rationale": "The first collecting society outside the US to take Suno to court, with 150 named tracks as evidence — it moves the licensing fight from label lawsuits to performing-rights repertoire."
     }
   ],
   "diversity_check": {
-    "outlets": [
-      "Gearnews",
-      "Gearnews",
-      "Suno (YouTube)",
-      "DJ Mag",
-      "Music Ally"
-    ],
-    "max_per_outlet": 2,
-    "distinct_outlets": 4,
-    "unique_urls": true,
-    "dedup_against_days": 5,
-    "dedup_against_stories": 30
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "topic_spread": [
+      "instrument/model release",
+      "mixing plug-in",
+      "post-production tool recognition",
+      "transcription startup / publishing",
+      "rights & litigation"
+    ]
   },
-  "items": [
-    {
-      "rank": 1,
-      "tool": "Music",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "title": "Audacity 4 Is Finally Here: The Biggest Update in the Editor's History",
-      "url": "https://www.gearnews.com/audacity-update-free/",
-      "source": "Gearnews",
-      "published_iso": "2026-09-03T16:43:29+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
-      "excerpt": "Audacity 4 ships a redesigned clip workflow, Workspaces and a full visual overhaul — and keeps the Intel OpenVINO AI toolset (music separation, noise suppression, transcription, music generation) plus new AI-powered podcast features inside a free, open-source editor.",
-      "rationale": "The biggest rewrite in Audacity's history puts stem separation, noise suppression and transcription behind a modern clip workflow for free — the lowest-cost AI audio bench anyone can install tomorrow."
-    },
-    {
-      "rank": 2,
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "title": "Producely Dialr: This Plugin Controller Maps with AI!",
-      "url": "https://www.gearnews.com/producely-dialr-studio/",
-      "source": "Gearnews",
-      "published_iso": "2026-09-03T12:29:23+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
-      "excerpt": "First shown at Superbooth25, the Producely Dialr hardware controller is now orderable: an AI-assisted mapping engine reads whatever plugin is in focus and assigns its most useful parameters to the knobs automatically, removing the MIDI-learn step from hands-on mixing and sound design.",
-      "rationale": "AI applied to the boring part instead of the music — the controller reads the focused plugin and maps its knobs itself, deleting MIDI-learn from every session."
-    },
-    {
-      "rank": 3,
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "title": "Creating plugins in Suno Studio 2.0",
-      "url": "https://www.youtube.com/watch?v=lGvyrEkZ6ZU",
-      "source": "Suno (YouTube)",
-      "published_iso": "2026-08-26T13:00:05+00:00",
-      "og_image": "https://i.ytimg.com/vi/lGvyrEkZ6ZU/maxresdefault.jpg",
-      "excerpt": "Suno's own walkthrough of building custom audio plugins from the chat bar inside Studio 2.0 — the vendor showing how a prompt becomes a signal-processing device in a working session.",
-      "rationale": "Suno moves from generating songs to generating the processors that shape them: a prompt in the chat bar becomes a working plugin, shown step by step by the vendor."
-    },
-    {
-      "rank": 4,
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "Armin van Buuren and Laidback Luke join 'responsible' AI music company Moises as advisors",
-      "url": "https://djmag.com/news/armin-van-buuren-and-laidback-luke-join-responsible-ai-music-company-moises-advisors",
-      "source": "DJ Mag",
-      "published_iso": "2026-09-03T13:27:41+01:00",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Armin%20%2B%20Luke%203.jpg.webp",
-      "excerpt": "Two headline DJ-producers have signed on as advisors to Moises, whose stem-separation, AI mixing/mastering and generative session-player tools are trained only on licensed and authorised content. The pair will steer how the toolset is shaped for working producers.",
-      "rationale": "The licensed-training-data camp gets two working producers steering the roadmap — the clearest signal yet of where Moises' stem and session-player tools are heading."
-    },
-    {
-      "rank": 5,
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "title": "Alok fans get personalised music video with headphone purchases",
-      "url": "https://musically.com/2026/09/01/alok-fans-get-personalised-music-video-with-headphone-purchases/",
-      "source": "Music Ally",
-      "published_iso": "2026-09-01T12:21:03+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
-      "excerpt": "Alok and agency Rise New York & Partners turned a headphone purchase into an AI-generated music video that is unique for every buyer — a production pipeline where the 'one video per release' assumption is replaced by per-fan rendering.",
-      "rationale": "Kills the 'one video per release' assumption: a shipped campaign where every buyer gets a distinct AI-rendered music video, and the pipeline is the deliverable."
-    }
-  ]
+  "count": 5
 }

@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-04",
-  "now_iso": "2026-09-03T22:00:00Z",
+  "date": "2026-09-05",
   "section": "gadgets",
+  "now_iso": "2026-09-04T22:00:00Z",
   "rotation": {
-    "mode": "full_pool_override",
-    "note": "UNATTENDED RUN — ALL sections.gadgets.core + the ENTIRE sections.gadgets.keywords pool are seeds this run (no date slicing). Related seeds are GROUPED into compound queries so every pool keyword is represented within a bounded query budget. Day-4 emphasis reverses yesterday's ordering: silicon / AI PC / on-device lead, phones & audio next, home & robots mid, glasses / XR / companion devices close.",
-    "day_of_month": 4,
+    "mode": "full_pool",
+    "seed": "2026-09-05",
+    "note": "Unattended run: ENTIRE section pool (core + every rotation group) used as seeds, per orchestrator override. No date rotation.",
     "user_seeds": []
   },
   "core": [
@@ -13,50 +13,6 @@
     "AI hardware",
     "AI 디바이스"
   ],
-  "groups": {
-    "compute_silicon": [
-      "Copilot+ PC",
-      "NPU laptop",
-      "Snapdragon AI PC",
-      "edge AI chip",
-      "on-device AI",
-      "온디바이스 AI"
-    ],
-    "phones_cameras_audio": [
-      "Apple Intelligence device",
-      "Galaxy AI phone",
-      "AI smartphone",
-      "AI camera",
-      "AI earbuds"
-    ],
-    "home_ambient": [
-      "AI speaker",
-      "Alexa+ device",
-      "Gemini smart home",
-      "AI TV",
-      "AI toy"
-    ],
-    "robots": [
-      "AI robot vacuum",
-      "home robot",
-      "humanoid robot",
-      "AI 로봇"
-    ],
-    "wearables": [
-      "AI wearable",
-      "smart ring AI",
-      "AI 웨어러블"
-    ],
-    "glasses_xr_companion": [
-      "smart glasses AI",
-      "Meta Ray-Ban glasses",
-      "스마트 글라스",
-      "XR headset AI",
-      "Humane AI Pin",
-      "Rabbit R1",
-      "AI companion device"
-    ]
-  },
   "keywords": [
     "AI gadget",
     "AI hardware",
@@ -93,46 +49,43 @@
     "AI 로봇"
   ],
   "working_keywords": [
-    { "keyword": "AI gadget", "origin": "core", "expansions": ["new AI gadget hands-on", "AI device first look 2026", "AI gadget review September 2026", "AI 가젯 신제품"] },
-    { "keyword": "AI hardware", "origin": "core", "expansions": ["consumer AI hardware launch", "AI hardware startup device", "AI silicon inside consumer products", "AI 하드웨어 공개"] },
-    { "keyword": "AI 디바이스", "origin": "core", "expansions": ["AI 기기 출시", "생성형 AI 탑재 기기", "AI 비서 기기"] },
-    { "keyword": "Copilot+ PC", "origin": "pool", "expansions": ["Copilot+ PC exclusive feature", "Windows 11 AI PC update", "Recall Click to Do", "Copilot PC 신기능"] },
-    { "keyword": "NPU laptop", "origin": "pool", "expansions": ["NPU TOPS laptop review", "AI laptop 2026 benchmark", "local LLM on laptop NPU", "AI 노트북"] },
-    { "keyword": "Snapdragon AI PC", "origin": "pool", "expansions": ["Snapdragon X2 Elite laptop", "Arm Windows AI PC", "Qualcomm AI PC benchmark", "Lunar Lake Ryzen AI rival"] },
-    { "keyword": "edge AI chip", "origin": "pool", "expansions": ["on-device inference chip", "edge NPU announcement", "MediaTek Qualcomm edge AI", "엣지 AI 칩", "neural rendering silicon"] },
-    { "keyword": "on-device AI", "origin": "pool", "expansions": ["local LLM device", "offline AI assistant gadget", "small language model on phone", "privacy-first local AI"] },
-    { "keyword": "온디바이스 AI", "origin": "pool", "expansions": ["기기 내 AI 처리", "온디바이스 LLM", "로컬 AI 추론"] },
-    { "keyword": "Apple Intelligence device", "origin": "pool", "expansions": ["Apple Intelligence new feature", "Siri revamp hardware", "iPhone 18 AI", "Apple smart display hub", "iOS 27 AI"] },
-    { "keyword": "Galaxy AI phone", "origin": "pool", "expansions": ["One UI Galaxy AI update", "Samsung Galaxy AI feature", "갤럭시 AI 기능", "Galaxy S26 AI"] },
-    { "keyword": "AI smartphone", "origin": "pool", "expansions": ["agentic phone assistant", "Pixel feature drop AI", "AI phone launch 2026", "phone AI assistant takeover"] },
-    { "keyword": "AI camera", "origin": "pool", "expansions": ["computational photography AI", "generative photo editing camera", "AI action camera", "AI 카메라 기능"] },
-    { "keyword": "AI earbuds", "origin": "pool", "expansions": ["live translation earbuds", "AI hearing assist earbuds", "assistant earbuds 2026", "AI 이어버드"] },
-    { "keyword": "AI speaker", "origin": "pool", "expansions": ["AI smart display", "LLM voice assistant speaker", "speaker assistant upgrade 2026"] },
-    { "keyword": "Alexa+ device", "origin": "pool", "expansions": ["Amazon Alexa+ rollout", "Echo AI hardware", "Alexa agentic feature"] },
-    { "keyword": "Gemini smart home", "origin": "pool", "expansions": ["Google Home Gemini", "Nest Gemini assistant", "Gemini for Home update"] },
-    { "keyword": "AI TV", "origin": "pool", "expansions": ["TV AI upscaling processor", "AI picture engine 2026", "TV assistant Copilot Gemini", "AI TV 화질"] },
-    { "keyword": "AI toy", "origin": "pool", "expansions": ["conversational plush toy", "AI kids toy safety", "AI toy launch 2026"] },
-    { "keyword": "AI robot vacuum", "origin": "pool", "expansions": ["robot vacuum obstacle AI", "Roborock arm robot", "Dreame Ecovacs 2026", "AI 로봇청소기"] },
-    { "keyword": "home robot", "origin": "pool", "expansions": ["consumer home robot launch", "desk companion robot", "LG Samsung home AI robot", "가정용 로봇"] },
-    { "keyword": "humanoid robot", "origin": "pool", "expansions": ["consumer humanoid price", "1X Neo home humanoid", "Figure Optimus consumer", "휴머노이드 로봇"] },
-    { "keyword": "AI 로봇", "origin": "pool", "expansions": ["AI 로봇 신제품", "생활 로봇 AI", "로봇 비서"] },
-    { "keyword": "AI wearable", "origin": "pool", "expansions": ["AI pendant recorder", "always-on AI wearable", "wearable AI assistant review", "AI watch assistant"] },
-    { "keyword": "smart ring AI", "origin": "pool", "expansions": ["Oura AI advisor", "Galaxy Ring AI", "smart ring health insights AI", "스마트 링"] },
-    { "keyword": "AI 웨어러블", "origin": "pool", "expansions": ["AI 웨어러블 기기", "웨어러블 AI 비서", "AI 밴드"] },
-    { "keyword": "smart glasses AI", "origin": "pool", "expansions": ["display smart glasses", "heads-up AI glasses", "Even Realities", "Rokid", "Halliday glasses"] },
-    { "keyword": "Meta Ray-Ban glasses", "origin": "pool", "expansions": ["Ray-Ban Display", "Meta Neural Band", "Oakley Meta HSTN", "Meta AI glasses feature update"] },
-    { "keyword": "스마트 글라스", "origin": "pool", "expansions": ["AI 안경", "디스플레이 글라스", "스마트 안경 신제품"] },
-    { "keyword": "XR headset AI", "origin": "pool", "expansions": ["Vision Pro AI feature", "Galaxy XR update", "Quest AI assistant", "AI passthrough headset"] },
-    { "keyword": "Humane AI Pin", "origin": "pool", "expansions": ["screenless AI device", "AI pin successor", "wearable AI assistant hardware"] },
-    { "keyword": "Rabbit R1", "origin": "pool", "expansions": ["rabbit OS update", "Rabbit intern agent", "pocket AI agent device"] },
-    { "keyword": "AI companion device", "origin": "pool", "expansions": ["desktop AI companion robot", "Friend pendant", "AI companion gadget review", "감성 AI 기기"] }
+    "AI gadget",
+    "AI hardware",
+    "AI 디바이스",
+    "AI wearable",
+    "smart glasses AI",
+    "Meta Ray-Ban glasses",
+    "Humane AI Pin",
+    "Rabbit R1",
+    "AI companion device",
+    "Copilot+ PC",
+    "NPU laptop",
+    "on-device AI",
+    "Apple Intelligence device",
+    "Galaxy AI phone",
+    "AI smartphone",
+    "AI earbuds",
+    "AI camera",
+    "smart ring AI",
+    "AI speaker",
+    "Alexa+ device",
+    "Gemini smart home",
+    "AI robot vacuum",
+    "home robot",
+    "humanoid robot",
+    "edge AI chip",
+    "Snapdragon AI PC",
+    "AI TV",
+    "XR headset AI",
+    "AI toy",
+    "스마트 글라스",
+    "온디바이스 AI",
+    "AI 웨어러블",
+    "AI 로봇"
   ],
-  "plan": [
+  "categories": [
     {
       "category": "gadgets",
-      "label": "Gadgets",
-      "motif": "headset",
-      "accent": "#ff5a4d",
       "allowed_domains": [
         "theverge.com",
         "engadget.com",
@@ -153,67 +106,147 @@
         "notebookcheck.net",
         "uploadvr.com",
         "roadtovr.com",
-        "venturebeat.com",
-        "androidcentral.com",
-        "theregister.com"
+        "venturebeat.com"
       ],
       "queries": [
-        "Copilot+ PC exclusive AI feature Windows update September 2026",
-        "Snapdragon X2 Elite AI PC laptop launch benchmark 2026",
-        "NPU laptop AI TOPS local LLM performance review September 2026",
-        "edge AI chip on-device inference NPU announcement September 2026",
-        "on-device AI local LLM offline assistant device launch 2026",
-        "온디바이스 AI 기기 신제품 로컬 AI 2026",
-        "Apple Intelligence Siri iPhone device new feature September 2026",
-        "Galaxy AI One UI Samsung phone AI feature update September 2026",
-        "AI smartphone agentic assistant Pixel feature drop launch 2026",
-        "AI camera computational photography generative editing gadget 2026",
-        "AI earbuds live translation hearing assist launch September 2026",
-        "AI speaker smart display Alexa+ Echo new AI feature rollout 2026",
-        "Gemini for Home Google Home Nest AI assistant update 2026",
-        "AI TV picture engine upscaling assistant IFA 2026",
-        "AI robot vacuum obstacle avoidance arm new model September 2026",
-        "home robot consumer AI assistant desk robot launch 2026",
-        "humanoid robot home consumer 1X Neo Figure Optimus price 2026",
-        "AI 로봇 가정용 로봇 신제품 2026",
-        "AI toy conversational kids device safety launch 2026",
-        "AI wearable pendant recorder always-on assistant device review 2026",
-        "smart ring AI Oura Galaxy Ring health insights feature 2026",
-        "AI 웨어러블 AI 밴드 신제품 2026",
-        "smart glasses AI display heads-up launch Even Realities Rokid 2026",
-        "Meta Ray-Ban Display Neural Band Oakley Meta glasses update 2026",
-        "스마트 글라스 AI 안경 신제품 2026",
-        "XR headset AI Vision Pro Galaxy XR Quest assistant update 2026",
-        "Humane AI Pin Rabbit R1 screenless AI companion device 2026",
-        "AI gadget AI hardware AI 디바이스 hands-on new device September 2026",
-        "IFA 2026 Berlin AI gadget announcements roundup this week"
-      ],
-      "wildcard": "IFA 2026 Berlin AI gadget announcements roundup this week"
+        "\"AI gadget\" OR \"AI hardware\" OR \"AI 디바이스\" OR \"AI wearable\" 2026 AI gadgets",
+        "\"smart glasses AI\" OR \"Meta Ray-Ban glasses\" OR \"Humane AI Pin\" OR \"Rabbit R1\" 2026 AI gadgets",
+        "\"AI companion device\" OR \"Copilot+ PC\" OR \"NPU laptop\" OR \"on-device AI\" 2026 AI gadgets",
+        "\"Apple Intelligence device\" OR \"Galaxy AI phone\" OR \"AI smartphone\" OR \"AI earbuds\" 2026 AI gadgets",
+        "\"AI camera\" OR \"smart ring AI\" OR \"AI speaker\" OR \"Alexa+ device\" 2026 AI gadgets",
+        "\"Gemini smart home\" OR \"AI robot vacuum\" OR \"home robot\" OR \"humanoid robot\" 2026 AI gadgets",
+        "\"edge AI chip\" OR \"Snapdragon AI PC\" OR \"AI TV\" OR \"XR headset AI\" 2026 AI gadgets",
+        "\"AI toy\" OR \"스마트 글라스\" OR \"온디바이스 AI\" OR \"AI 웨어러블\" 2026 AI gadgets",
+        "\"AI 로봇\" 2026 AI gadgets"
+      ]
     }
   ],
+  "wildcard_query": "AI gadgets news this week 2026-09",
   "avoid_recent": [
-    { "date": "2026-09-03", "topic": "Caira AI mirrorless camera Nano Banana video editing", "url": "https://www.techradar.com/cameras/mirrorless-cameras/cairas-ai-mirrorless-camera-is-getting-nano-banana-for-video-editing-but-it-only-works-on-footage-youve-actually-shot" },
-    { "date": "2026-09-03", "topic": "Acer Aspire G 3D 16 glasses-free 3D laptop with Ryzen AI Max+ 395 local inference", "url": "https://www.notebookcheck.net/Acer-debuts-Aspire-G-3D-16-Glasses-free-3D-gaming-laptop-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.1385303.0.html" },
-    { "date": "2026-09-03", "topic": "Pixel Watch 5 offline Gemini + gestures update", "url": "https://www.notebookcheck.net/Google-Pixel-Watch-5-gets-offline-Gemini-and-new-gestures-in-September-update.1385731.0.html" },
-    { "date": "2026-09-03", "topic": "Norway smart-glasses regulation / facial recognition ban", "url": "https://www.digitaltrends.com/wearables/norway-mulls-ban-on-smart-glasses-before-they-become-a-bigger-privacy-problem/" },
-    { "date": "2026-09-03", "topic": "Qualcomm Adreno Neural Fusion GPU neural rendering", "url": "https://9to5google.com/2026/09/02/qualcomm-details-adreno-neural-fusion-gpu-for-next-snapdragon-chip/" },
-    { "date": "2026-09-02", "topic": "Meta Muse Voice Transcribe real-time transcription model" },
-    { "date": "2026-09-02", "topic": "Google Pics general availability" },
-    { "date": "2026-09-02", "topic": "Windows Paint / Photos invisible GUID watermark" },
-    { "date": "2026-09-02", "topic": "Atlas 1.0 EEG brain wearable" },
-    { "date": "2026-09-02", "topic": "Sonos 27 OS + public MCP server for AI agents" },
-    { "date": "2026-09-01", "topic": "Meta Ray-Ban capture LED loophole fix + ad campaign" },
-    { "date": "2026-09-01", "topic": "Plaud Note One AI earbuds" },
-    { "date": "2026-09-01", "topic": "Hugging Face x Pollen Robotics Microduck $399 robot" },
-    { "date": "2026-09-01", "topic": "Framework 192GB local-AI desktop" }
-  ],
-  "notes": [
-    "Backups flagged by yesterday's curator that remain eligible if still inside the freshness window: Perplexity Hybrid Compute (9to5Mac), Tom's Hardware hidden-camera detector, iRobot Roomba Max 875, Circular Ring 3 Pro, Asus ProArt petaflop laptops.",
-    "Relevance test for this section: keep hardware/device news that changes how a designer or creative works or what they can build on — device launches, on-device model capability, creative-tool hardware, interaction shifts, and regulation that constrains device design. Drop pure market-share, earnings, and supply-chain noise."
-  ],
-  "totals": {
-    "working_keywords": 33,
-    "categories": 1,
-    "queries": 29
-  }
+    {
+      "date": "2026-09-04",
+      "headline": "엔비디아 RTX 스파크,\nAI PC가 실물로 나왔다",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/"
+    },
+    {
+      "date": "2026-09-04",
+      "headline": "집 안에 놀고 있는 GPU를\n하나로 묶는 엔비디아 PAIR",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu"
+    },
+    {
+      "date": "2026-09-04",
+      "headline": "레노버, 14인치 섀시에서\n화면만 17인치로 펴진다",
+      "url": "https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches"
+    },
+    {
+      "date": "2026-09-04",
+      "headline": "수술실에 들어간 비전 프로,\nFDA 승인도 받아 냈다",
+      "url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/"
+    },
+    {
+      "date": "2026-09-04",
+      "headline": "제미나이 스파크, 이제는\n구글 포토 편집까지 대신한다",
+      "url": "https://9to5google.com/2026/09/03/gemini-spark-google-photos/"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "구글이 픽셀 11에서 소셜과 AI를 한 몸으로 묶었다",
+      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-11-review"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "제미나이 인텔리전스는 나노 3부터 돌아간다",
+      "url": "https://9to5google.com/2026/08/27/gemini-intelligence-nano-4/"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "iOS 27의 시리는 이제 하나의 앱이다",
+      "url": "https://www.engadget.com/2242748/how-to-use-the-new-siri-app-in-ios-27/"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "존재를 잊게 만드는 청소기, 로보락 큐레보 2 프로",
+      "url": "https://www.androidauthority.com/roborock-qrevo-2-pro-launch-3703080/"
+    },
+    {
+      "date": "2026-08-30",
+      "headline": "야간 모드가 뭉갠 질감을 2단계 AI가 되살린다",
+      "url": "https://www.digitaltrends.com/phones/two-stage-ai-trick-can-finally-fix-the-low-light-struggle-of-smartphone-cameras/"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "앤스로픽이 내놓은 하드웨어 표준 AI 에이전트가 실험 장비를 직접 만진다",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "수면은 손가락이 아니라 뇌에서 일어난다 오라 링 수면 추적 집단소송",
+      "url": "https://www.zdnet.com/article/lawsuit-says-oura-sleep-tracking-has-a-coin-flips-chance-of-being-correct/"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "AI 하드웨어 수요에 놀란 애플 맥 미니·맥 스튜디오 조기 공개",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "베이징 세계 휴머노이드 로봇 게임 기록은 깨졌고 로봇은 불탔다",
+      "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race"
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "키보드에서 손을 떼게 하겠다는 음성 입력 전용 마이크 릴레이 Q",
+      "url": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "카메라 헤드가 직접 움직이는 Honor 로봇폰",
+      "url": "https://www.engadget.com/2247473/honor-robot-phone-hands-on/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "기기에서 도는 AI 에이전트를 설정에서 지켜본다",
+      "url": "https://www.androidauthority.com/android-17-qpr2-beta-4-agent-dashboard-3704775/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Apple의 첫 스마트 글라스가 내년에 나온다",
+      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "통합 메모리 192GB를 얹은 Framework 데스크톱",
+      "url": "https://www.notebookcheck.net/Framework-s-192-GB-Ryzen-AI-Max-400-desktop-inches-closer-to-launch.1383390.0.html"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "AI 에이전트가 Quest 게임을 직접 돌려보고 검증한다",
+      "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "겹쳐 말해도 화자를 갈라내는 Meta 실시간 전사 모델",
+      "url": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "Canva를 겨눈 Google Pics 테스터 한정 풀고 전면 공개",
+      "url": "https://www.androidauthority.com/google-pics-general-availability-3704615/"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "내 PC에서 만든 AI 이미지에 서버가 발급한 식별자가 박힌다",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-paint-and-photos-apps-add-invisible-watermark-to-ai-generated-content-developer-reverse-engineers-guid-embedding"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "귀 뒤에 붙여 집중 상태를 읽는 499달러 뇌파 웨어러블",
+      "url": "https://gizmodo.com/the-atlas-1-0-brain-wearable-can-tell-if-youre-locked-in-2000805864"
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "앱을 새로 짜고 에이전트에게 시스템을 여는 Sonos 27",
+      "url": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system/"
+    }
+  ]
 }

@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "music",
   "cards": [
     {
-      "id": "music-audacity4-release",
+      "id": "music-dreamtonics-instrument-x",
       "eyebrow": "AI NEWS",
+      "headline": "드림토닉스, 샘플 라이브러리 없는\n오케스트라 신경망 악기를 냈다",
+      "mini_headline": "샘플 없는 오케스트라 악기",
+      "body": "수 기가바이트 샘플 라이브러리 대신 신경망 모델이 악보를 소리로 바꾼다.",
       "tool": "Music",
-      "headline": "오다시티 4가 AI 도구는 그대로 둔 채\n편집기 화면을 통째로 다시 그렸다",
-      "mini_headline": "오다시티 4 전면 개편",
-      "body": "클립 작업을 새로 짜면서도 스템 분리와 전사 같은 AI 도구는 그대로 뒀다.",
-      "source": "Gearnews",
-      "url": "https://www.gearnews.com/audacity-update-free/",
+      "source": "Attack Magazine",
+      "url": "https://www.attackmagazine.com/news/dreamtonics-completes-its-trilogy-with-instrument-x/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -18,59 +18,53 @@
         "blocks": [
           {
             "t": "p",
-            "x": "뮤즈 그룹이 오다시티 4를 내놨다. 회사 설명으로는 25년 역사에서 가장 큰 업데이트다. 클립을 편집하는 방식을 통째로 다시 짰고 인터페이스도 손봤다. audio.com과 맞물리는 지점은 더 촘촘해졌다. 값은 여전히 0원이다."
+            "x": "보컬 합성 툴 Synthesizer V와 Vocoflex를 만든 도쿄의 드림토닉스가 Instrument X를 내놨다. 보컬 합성에 머물던 회사가 오케스트라 스코어링으로 넘어간 셈이다."
           },
           {
             "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
-            "cap": "오다시티 4"
+            "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Attack-Mag-News-Feat-Images-INSTRUMENT-X.png?fit=1400%2C479&ssl=1",
+            "cap": "드림토닉스 Instrument X"
           },
           {
             "t": "p",
-            "x": "클립끼리 겹칠 수 있게 됐다. 여러 클립을 한꺼번에 골라 편집하거나 묶어서 하나처럼 옮기는 것도 된다. 전부 비파괴 방식이라 잘라낸 소리는 클립을 다시 늘리면 돌아온다. 지운 자리를 뒤쪽 오디오가 어떻게 메울지는 리플 편집 옵션에서 고른다."
+            "x": "수 기가바이트짜리 샘플 라이브러리에 기대는 대신, Instrument X는 신경 음향 모델링으로 악보를 곧바로 소리로 바꾼다. 정적인 루프 트리거 없이 보잉과 브레스, 키 아티큘레이션을 작곡가와 프로듀서가 직접 만진다."
           },
           {
             "t": "p",
-            "x": "커뮤니티가 오래 요청해온 Split 도구도 들어왔다. 재생 헤드 위치에서 트랙 하나든 여럿이든 단번에 나눈다. 클립 엔벨로프는 볼륨 오토메이션을 클립 안으로 끌고 들어와, 원본 녹음을 건드리지 않고 페이드를 그리게 한다. 내장 이펙트는 화면만 새로 그렸고 하는 일은 그대로다. 실시간 이펙트와 VST3·Audio Unit·LV2 지원도 남아 있다."
+            "x": "엔진은 클로즈 마이크와 데카 트리, 룸 앰비언스까지 최대 열한 개 마이크 피드를 동시에 굴린다. 채널이 서로 어긋나지 않게 하려고 드림토닉스는 직접 만든 12면체 스피커 어레이로 스튜디오의 음향 기하를 재는 방식을 개발했고, 특허를 출원했다. 물리를 보강한 신경망이 방의 방향성 음향과 마른 악기 음원을 갈라낸다. 인터넷 연결도 전용 GPU도 필요 없다. 일반 노트북에서 로컬로 돌아간다."
+          },
+          {
+            "t": "video",
+            "yt": "1MXQKiWQvSY"
           },
           {
             "t": "p",
-            "x": "홈 화면은 이번에 처음 생겼다. 로컬 프로젝트와 audio.com에 올려둔 클라우드 프로젝트를 한자리에서 본다. 파일명 대신 썸네일로 늘어놓아 훑기가 쉽다. 워크스페이스는 작업 종류마다 화면 배치를 따로 저장해두는 기능이다. 팟캐스트 편집에서 음악 작업으로 넘어갈 때 앱을 통째로 다시 설정할 일이 없어졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-01-1024x565.jpg",
-            "cap": "새로 그린 인터페이스"
+            "x": "주요 기능은 이렇다. 자동 Smart Articulation과 노트 단위 수동 제어를 한데 묶은 아티큘레이션 에디터로 스타카토, 레가토, 콜 레뇨, 뮤트를 한 음 위에 겹쳐 쌓는다. 다이내믹스 레인은 맥락에 맞는 셈여림을 자동으로 그리면서 악기의 음색과 배음까지 함께 바꾼다. 수동 오버라이드도 있다. AI 연주 리테이크는 프레이즈 전체를 다시 뽑거나 음색 드리프트, 마이크로 피치 커브, 운동 강도만 골라 손보게 한다. 겹치는 음은 완전히 따로 도는 성부로 렌더링되고, 마이크 믹서 패널에서 스팟 마이크와 데카 트리, 룸을 저울질한다."
           },
           {
             "t": "p",
-            "x": "겉모습도 뮤즈 그룹 말대로 역사상 가장 크게 바뀌었다. 툴바와 트랙 컨트롤을 재배치했고 재생·녹음 미터를 갈아 끼웠다. 재생 헤드는 늘 보이고 이동과 확대도 부드럽다. 라이트·다크 테마, 액센트 컬러 선택, 손본 고대비 모드가 붙는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-02-1024x565.jpg",
-            "cap": "정리된 툴바와 트랙 컨트롤"
+            "x": "출시 라인업은 세 컬렉션, 열다섯 개 악기 확장팩이다. 현악은 Violin 1, Viola 1, Violoncello 1, Contrabass 1. 목관은 Flute 1, Piccolo 1, Oboe 1, Clarinet in A 1, Bassoon 1. 금관은 Trumpet 1, Trombone 1, Horn 1, Tuba 1. 악기마다 Adagio, Allegro, con Fuoco, Pop, Ballade 다섯 가지 스타일 프리셋이 붙어 연주의 감정 색을 통째로 바꾼다."
           },
           {
             "t": "p",
-            "x": "뮤즈 그룹 최고제품책임자 Julia Sazhina는 오다시티가 25년 넘게 창작자의 녹음과 편집을 도왔고, 4버전은 다음 25년을 버티게 하려는 것이라고 했다. 사람들이 이미 좋아하던 부분은 그대로 둔 채."
+            "x": "창업자이자 CEO인 Kanru Hua는 기존 작업 공간에 악기를 끼워 넣는 안도 검토했지만 결국 별도 플랫폼을 택했다고 밝혔다. “많은 사용자가 악기를 우리 생태계로 가져와 달라고 요청해 왔습니다. 하나의 작업 공간에 과부하를 거는 대신, Instrument X를 Synthesizer V, Vocoflex와 나란히 선 독립 플랫폼으로 세워 삼부작을 완성하기로 했습니다.” 그는 AI 합성 자체보다 전문 작곡·프로덕션 기준에 맞추는 쪽이 어려웠고, 악기군마다 물리를 다시 반영해 엔진을 바닥부터 새로 지어야 했다고 덧붙였다. 다만 워크플로는 기존 Synthesizer V 사용자에게 익숙한 모양 그대로다."
           },
           {
             "t": "p",
-            "x": "AI 도구는 자리를 지킨다. 인텔 OpenVINO 기반 플러그인 묶음이 스템 분리와 음악 생성, Whisper.cpp를 쓴 전사, 노이즈 억제를 맡는다. 오디오를 서버로 올리지 않고 PC 안에서 돈다. 4버전 역시 무료 오픈소스 그대로이고, 정식 배포는 뮤즈허브에서 받는다."
+            "x": "Dreamtonics Store에서 판다. 코어 에디터는 확장팩을 하나라도 사면 무료다. 14일 에디터 체험판과 7일 악기 체험판은 Product Manager 패널에서 바로 켠다. 개별 확장팩 $99, Orchestral Strings 컬렉션 $249, Orchestral Woodwinds $279, Orchestral Brass $249, 픽앤믹스 팩은 $158에서 $396, Orchestral Essentials 번들 $349."
           }
         ]
       }
     },
     {
-      "id": "music-producely-dialr",
+      "id": "music-sonible-smart-chain",
       "eyebrow": "AI NEWS",
+      "headline": "소니블 smart:chain, 한 채널이 아니라\n세션 전체를 듣고 처리한다",
+      "mini_headline": "믹스 전체를 듣는 체인",
+      "body": "DAW에 열린 인스턴스끼리 분석을 주고받아 채널이 믹스 전체 맥락에서 다듬어진다.",
       "tool": "Music",
-      "headline": "다이얼러가 플러그인 라이브러리를 훑어\n노브 배치를 스스로 만들어 온다",
-      "mini_headline": "플러그인 읽는 다이얼러",
-      "body": "MIDI 러닝을 건너뛰고 내 플러그인에 맞춘 노브 프로파일을 클라우드가 만들어 보낸다.",
       "source": "Gearnews",
-      "url": "https://www.gearnews.com/producely-dialr-studio/",
+      "url": "https://www.gearnews.com/sonible-smartchain-studio/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -78,92 +72,91 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Superbooth25에서 처음 공개됐던 프로듀슬리 다이얼러가 드디어 주문을 받는다. 플러그인 컨트롤러다."
+            "x": "오스트리아 개발사 소니블은 믹싱과 마스터링에 AI를 붙인 플러그인으로 알려져 있다. Audiotonix 산하라 SSL, Harrison Audio와 한 지붕을 쓰고, 최근에는 SSL autoSeries 같은 프로젝트를 함께 했다."
           },
           {
             "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
-            "cap": "프로듀슬리 다이얼러"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-1024x565.jpg",
+            "cap": "소니블 smart:chain"
           },
           {
             "t": "p",
-            "x": "만든 곳은 덴마크 코펜하겐의 프로듀슬리. 음악 기술 쪽에서 일하던 Morten Søderquist Li가 세운 신생 회사다."
+            "x": "이번에 내놓은 smart:chain은 간판 smart 시리즈를 확장한 물건이다. DAW 전체에 걸친 멀티노드 시스템으로 돌면서 컴프레션, EQ, 게이팅, 새추레이션, 게인 라이딩, 디하싱, 오토 레벨링을 한 화면에 모았다. 믹스에서 앞세울 요소를 그 화면 하나에서 정한다."
+          },
+          {
+            "t": "video",
+            "yt": "ph_y5V1vTz0"
           },
           {
             "t": "p",
-            "x": "플러그인 컨트롤러라면 SSL이나 Softube가 내놓은 물건이 이미 있다. 다이얼러의 차이는 자동 매핑이다. 설치된 VST3와 AU 플러그인 라이브러리를 훑어 파라미터 정보를 프로듀슬리 AI 클라우드로 보내면, 서버가 그 조합에 맞는 컨트롤러 프로파일을 만들어 되돌려준다. 한번 받아둔 뒤로는 오프라인에서 쓴다."
+            "x": "채널 스트립 플러그인이야 다들 써봤다. smart:chain이 다른 지점은 각 인스턴스가 따로 놀지 않는다는 데 있다. 인스턴스끼리 맞물려 모듈마다 적당한 출발점을 잡아준다. 여기에 깊이 레이어링이 붙어 요소를 앞과 중간, 뒤로 밀며 균형과 분리, 공간감을 만든다."
           },
           {
             "t": "p",
-            "x": "7인치 LCD 터치스크린이 파라미터 이름과 값을 띄우고, 플러그인이나 페이지를 옮길 때마다 묶음을 알아서 다시 짠다. 노브는 여섯 개씩 두 줄, 크기를 셋으로 나눠 손이 위치를 외우게 했다. 화면 양옆의 스텝 인코더로는 플러그인 섹션을 넘기거나 값을 미세하게 잡고, DAW 트랙 사이도 오간다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-01-1024x565.jpg",
-            "cap": "노브 12개와 7인치 터치스크린"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-03-1024x565.jpg",
-            "cap": "뒷면"
+            "x": "오토 레벨링은 세션 전체에 걸쳐 작동한다. 믹스 안 요소 사이의 관계를 보고 장르에 맞는 러프 믹스를 대신 잡아준다. 전용 트림 컨트롤로 채널을 하나씩 더 정밀하게 다듬을 수도 있다. 중앙 세션 컨트롤 화면에서 개별 채널을 오가고 채널 그룹을 관리하며 인스턴스마다 값을 고친다."
           },
           {
             "t": "p",
-            "x": "붙는 범위는 넓다. 흔한 오디오 프로세서부터 소프트 신스, WesAudio와 Bettermaker 하드웨어를 조종하는 컨트롤 플러그인까지 받는다. 플러그인이 늘 때마다 매핑을 처음부터 다시 하지 않아도 된다는 점이 이 제품의 계산이다."
+            "x": "이 영역의 경쟁은 재밌어지고 있다. FabFilter의 Instance List는 DAW 안 모든 플러그인 인스턴스에 빠르게 접근하게 해준다. 소니블은 여기서 한 발 더 나갔다. 플러그인이 각자 제 몫만 처리하는 게 아니라 믹스 전체에 작용하도록 만들었다."
           },
           {
             "t": "p",
-            "x": "현재 예약 주문을 받고 있고, 배송은 몇 주 안에 시작한다."
+            "x": "smart:chain은 2026년 9월 28일까지 도입가 €99에 살 수 있다. 정가는 €179다. smart 시리즈 플러그인을 이미 가지고 있으면 크로스그레이드도 열려 있다."
           }
         ]
       }
     },
     {
-      "id": "music-suno-studio2-plugins",
+      "id": "music-accentize-chameleon-emmy",
       "eyebrow": "AI NEWS",
+      "headline": "리버브를 대신 맞춰주는 카멜레온,\n액센타이즈에 두 번째 에미상",
+      "mini_headline": "카멜레온, 두 번째 에미상",
+      "body": "머신러닝으로 녹음의 잔향을 맞추는 카멜레온이 엔지니어링 에미상을 받았다.",
       "tool": "Music",
-      "headline": "수노 스튜디오 2.0은 채팅창 한 줄을\n그대로 돌아가는 플러그인으로 바꾼다",
-      "mini_headline": "채팅창이 만드는 플러그인",
-      "body": "곡을 만들어주던 도구가 그 곡을 다듬을 플러그인까지 프롬프트로 지어낸다.",
-      "source": "Suno (YouTube)",
-      "url": "https://www.youtube.com/watch?v=lGvyrEkZ6ZU",
+      "source": "Sound On Sound",
+      "url": "https://www.soundonsound.com/news/accentize-chameleon-wins-emmy-award",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "yt": "lGvyrEkZ6ZU"
+            "t": "p",
+            "x": "액센타이즈가 dxRevive Pro로 엔지니어링·과학·기술 에미상을 받은 지 2년 만에, 리버브 매칭 플러그인 카멜레온으로 다시 호명됐다. 이 상은 로스앤젤레스 텔레비전 아카데미가 주며, 텔레비전 산업에 큰 영향을 남긴 공학·과학·기술 성과를 기리려고 만들어졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/accentize_chameleon-rrwNhEr7GV_o8hsYvn_lSKKTeYMAPqW6.jpg",
+            "cap": "액센타이즈 카멜레온 리버브 매칭 플러그인"
           },
           {
             "t": "p",
-            "x": "수노 스튜디오 2.0의 스튜디오 챗으로 나만의 오디오 이펙트를 만들어 쓰는 방법을 다룬 영상이다. 진행은 Henry Fipps가 맡았다."
+            "x": "액센타이즈는 카멜레온이 오디오 포스트프로덕션의 오래된 골칫거리를 겨냥해 나왔다고 설명한다. 서로 다른 환경에서 딴 녹음의 음향 성격을 맞추는 일이다. ADR과 더빙, 폴리처럼 새로 녹음한 소재는 프로덕션 사운드에 자연스럽게 얹혀야 하는데, 방의 잔향이 다르면 원본이 아무리 잘 잡혀 있어도 따로 노는 느낌이 남는다."
           },
           {
             "t": "p",
-            "x": "만들어 보이는 것은 둘이다. 스테레오 더블러 하나, 피치를 옮기는 딜레이 하나. 채팅창에 원하는 효과를 적으면 AI가 빌드 계획을 먼저 내놓고, 그걸 확인하고 저장하면 My Plugins 안으로 들어간다."
+            "x": "카멜레온은 레퍼런스 녹음에 담긴 리버브 특성을 분석한 뒤, 다른 트랙에 씌울 리버브 프로파일을 만들어낸다. 대사 믹서를 비롯한 작업자가 로케이션의 음향 색을 맨손으로 다시 조립하지 않고 빠르게 되살린다."
           },
           {
             "t": "p",
-            "x": "완성된 스테레오 더블러를 트랙에 걸어 소리를 확인한 다음, Crystal Sparkle이라는 플러그인을 새로 만들어 드럼 트랙에 얹는다. 끝에서는 앞으로 붙을 플러그인 기능을 짚는다."
+            "x": "액센타이즈 창업자이자 카멜레온 개발자인 Benjamin Graf는 이렇게 말했다. “2024년에 dxRevive Pro로 에미상을 받은 것만으로도 상상하지 못한 일이었습니다. 카멜레온으로 다시 이런 인정을 받는 건 정말 특별합니다. 두 제품은 대사 포스트프로덕션의 서로 다른 문제를 다루지만 출발한 동기는 같았습니다. 새로운 기술로 어렵고 시간이 많이 드는 오디오 작업을 전문가에게 더 쉽게 만들어주자는 것이죠. 피드백과 응원으로 이 도구들을 함께 키워준 오디오 커뮤니티에 정말 감사합니다.”"
           },
           {
             "t": "p",
-            "x": "곡을 만들어주던 도구가 이제 그 곡을 다듬을 처리기까지 짓는다. 5분 55초짜리 워크스루를 수노가 직접 찍었다."
+            "x": "시상은 10월 14일 수요일 로스앤젤레스 텔레비전 아카데미의 사반 미디어 센터에서 열리는 엔지니어링·과학·기술 에미상 시상식에서 이뤄진다."
           }
         ]
       }
     },
     {
-      "id": "music-moises-advisors",
+      "id": "music-songscription-publishing",
       "eyebrow": "AI NEWS",
+      "headline": "송스크립션, 퍼블리셔를 피하지 않고\n전사 엔진을 라이선싱한다",
+      "mini_headline": "퍼블리셔와 손잡은 전사 툴",
+      "body": "녹음을 악보로 바꾸는 송스크립션이 퍼블리셔를 우회하지 않고 라이선스 계약을 맺는다.",
       "tool": "Music",
-      "headline": "아르민 반 뷔렌과 레이드백 루크가\n모이지스 스튜디오 도구를 손본다",
-      "mini_headline": "모이지스에 합류한 두 DJ",
-      "body": "라이선스 받은 음원만 학습했다는 스템 분리·마스터링 도구를 두 프로듀서가 함께 다듬는다.",
-      "source": "DJ Mag",
-      "url": "https://djmag.com/news/armin-van-buuren-and-laidback-luke-join-responsible-ai-music-company-moises-advisors",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/09/04/songscription-talks-ai-and-music-publishing-we-need-to-work-alongside-the-industry/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -171,45 +164,41 @@
         "blocks": [
           {
             "t": "p",
-            "x": "아르민 반 뷔렌과 레이드백 루크가 모이지스의 아티스트 파트너십 프로그램 1호로 합류했다."
+            "x": "송스크립션이라는 스타트업이 처음 눈에 들어온 건 2025년 7월, TechCrunch가 이 회사의 ‘자동 음악 전사’ 서비스를 다루면서였다. 저작권상 ‘회색지대’ 문제도 그때 함께 짚였다. 그해 11월에는 500만 달러를 모았고, 어드바이저인 음악 테크 베테랑 Elizabeth Moody는 퍼블리셔와 계약을 맺고 윤리적으로 가겠다는 뜻을 공개적으로 밝혔다. 이달 CEO Andrew Carlins를 만나 그 계약이 어떻게 굴러가는지, 전사와 편곡에 AI를 어떻게 쓰는지 물었다."
           },
           {
             "t": "img",
-            "src": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Armin%20%2B%20Luke%203.jpg.webp",
-            "cap": "아르민 반 뷔렌과 레이드백 루크"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-13.49.55.png?fit=780%2C390&ssl=1",
+            "cap": "송스크립션의 자동 악보 전사 화면"
           },
           {
             "t": "p",
-            "x": "모이지스는 스스로를 수노 같은 플랫폼의 대안 자리에 놓는다. 라이선스를 받아 허가된 트랙과 파일로만 모델을 학습시킨다는 주장이다. Ableton과 Fender, 휘트니 휴스턴 재단, Cory Henry, Jordan Rudess, Berklee Online이 이미 이 회사와 엮여 있고 올해 초에는 Charlie Puth가 최고음악책임자로 왔다."
+            "x": "펀딩 시점에 이용자는 15만 명을 넘겼다. 칼린스는 그 뒤로 매월 20% 넘게 늘었고, 대부분이 “자기 작업을 처음으로 악보에 옮겨보는 싱어송라이터와 창작자”라고 말한다. 기능도 계속 붙였다. 코드 인식, 전사본을 “초보를 포함해 연주자 수준에 맞춰” 단순화하는 기능, AI 채팅 인터페이스를 쓰는 텍스트 기반 기보 에디터가 들어왔다. 가사와 음악을 정렬하거나 전사본을 리드 시트나 듀엣으로 뽑는 기능은 아직 베타다."
           },
           {
             "t": "p",
-            "x": "두 사람이 맡은 몫은 DJ·프로덕션 도구에 피드백을 주는 일이다. 스템 분리와 아이솔레이션, 코드 인식, 마스터링이 들어 있는 스튜디오 도구 묶음을 다듬는 데도 손을 보탠다."
+            "x": "인디 퍼블리셔와의 계약도 이어지고 있다. 공개된 건 Spirit Music Group 한 곳뿐이지만 몇 주 안에 더 나올 예정이다. “대체로 퍼블리셔들이 아주 우호적입니다.” 칼린스의 말이다. “오늘 쓰인 곡의 90% 이상이 전사되지 않은 채로 남아 있고, 전사된 곡도 악기 구성과 난이도가 제한적입니다. 퍼블리셔들은 송스크립션이 아티스트와 작곡가의 창작 워크플로에 힘을 보태고, 모든 수준의 연주자에게 악보 접근을 넓힐 수 있다는 걸 이해합니다.”"
           },
           {
             "t": "p",
-            "x": "창업자이자 CEO인 Geraldo Ramos는 “다음 세대의 창작 도구는 뮤지션을 위해서가 아니라 뮤지션과 함께 만들어야 한다”고 했다. 레이드백 루크가 덧붙인 말은 이랬다. 좋은 도구는 당신 대신 일해주지 않고, 더 잘 듣고 더 빨리 배우고 더 단단한 판단을 내리도록 돕는다. 반 뷔렌이 내건 조건은 하나였다. 아티스트가 통제권을 쥐고 있느냐."
+            "x": "그는 퍼블리셔들이 송스크립션이 먼저 라이선스 계약을 찾아 나선 태도를 높게 본다고도 했다. “다른 몇몇 AI 서비스보다 우리에게 라이선스를 주는 데 더 적극적인 것 같습니다.” “업계와 일찍부터 함께 가기로 한 건 어려운 결정이 아니었습니다. 아티스트와 음악 학습자에게 힘을 실어주자는 미션을 가진 팀이라면, 업계와 나란히 일해야 한다는 걸 압니다.”"
           },
           {
             "t": "p",
-            "x": "댄스 음악으로 출발한 플랫폼은 장르를 넓히는 중이다. 지금 190개국에서 약 8000만 명이 쓴다. 미국과 브라질, 인도, 프랑스, 일본이 큰 시장이다."
-          },
-          {
-            "t": "p",
-            "x": "배경은 어수선하다. SubmitHub 집계로 7월 발매곡의 40% 가까이가 AI의 손을 거쳤고, 그렇게 분류된 아티스트의 3분의 1은 사용을 부인했다. 지난달 Beatport는 전면 AI 생성 트랙을 금지했다. 3월에 소니 뮤직이 딥페이크 곡 13만 5000개를 내린 뒤 Traxsource와 Bandcamp, Deezer도 비슷한 길을 갔다."
+            "x": "회사는 첫 서비스 너머도 보고 있다. 최근에는 애플 기기용 피아노 학습 앱 Anything Piano를 내놨다. 송스크립션 이용자 상당수가 “피아노를 배우는 중이거나 더 짜임새 있는 연습법을 찾고 있다”는 데서 출발한 앱이다. “지금 형태의 Anything Piano는 어떤 오디오든 운지가 안내되는 단순화된 피아노 튜토리얼로 바꿔주고, 사용자가 피아노 치는 소리를 듣고 연주에 피드백을 줍니다.” 회사는 최근 사명을 Play Anything으로 바꿨다. 좋아하는 곡을 배우고 연주하도록 돕는다는 더 넓은 미션을 담았다는 설명이다. 송스크립션은 창작자와 작곡가를 위한 플랫폼으로, Anything Piano는 학습자와 연주 피드백을 원하는 사람을 위한 플랫폼으로 각각 키운다."
           }
         ]
       }
     },
     {
-      "id": "music-alok-personalised-mv",
+      "id": "music-socan-sues-suno",
       "eyebrow": "AI NEWS",
+      "headline": "SOCAN이 수노를 제소하며\n침해 트랙 150개를 특정했다",
+      "mini_headline": "SOCAN, 수노 제소",
+      "body": "SOCAN이 레퍼토리 137곡을 베꼈다며 수노 생성 트랙 150개를 특정했다.",
       "tool": "Music",
-      "headline": "알록은 헤드폰을 산 팬 한 사람마다\n뮤직비디오를 따로 한 편씩 만들어 줬다",
-      "mini_headline": "팬마다 다른 뮤직비디오",
-      "body": "한 곡에 영상 하나라는 공식을 깨고 구매 건마다 다른 뮤직비디오를 AI가 렌더링했다.",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/09/01/alok-fans-get-personalised-music-video-with-headphone-purchases/",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/socan-sues-suno-over-alleged-copyright-infringement/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -217,28 +206,33 @@
         "blocks": [
           {
             "t": "p",
-            "x": "브라질의 DJ 겸 프로듀서 알록이 에이전시 Rise New York & Partners와 손잡고 자기 헤드폰 라인 WAAW by Alok 캠페인을 벌였다. 헤드폰을 사면 그 사람만을 위한 뮤직비디오가 나온다. 창작의 키는 사람이 쥔다는 게 전제였다."
+            "x": "캐나다 음악 저작권 단체 SOCAN이 AI 음악 플랫폼 Suno를 저작권 침해로 제소했다. 수노 서비스가 SOCAN 레퍼토리에 든 곡의 무단 복제물을 만들어 스트리밍한다는 주장이다."
           },
           {
             "t": "img",
-            "src": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
-            "cap": "WAAW by Alok 캠페인"
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-2-socan.jpg",
+            "cap": "SOCAN과 수노"
           },
           {
             "t": "p",
-            "x": "출발은 평범했다. 알록의 곡에 맞춘 공식 영상을 먼저 찍었고, 화면의 결은 브라질 일러스트레이터 Rogério Puhl의 팝아트 스타일에서 가져왔다. 그 위에 엔진을 따로 얹었다."
+            "x": "소장은 9월 2일 캐나다 연방법원에 접수됐다. Music Business Worldwide에 따르면 소장은 SOCAN이 대리하는 137곡에서 나온 수노 생성 트랙 150개를 특정한다. 문제 삼는 건 그 결과물과, 캐나다 이용자에게 이뤄진 스트리밍이다."
           },
           {
             "t": "p",
-            "x": "Gemini Omni가 영상과 사운드 디자인, 텍스트 각색 흐름을 관리하는 두뇌 노릇을 한다. Google Maps API는 팬 주변 환경을 읽어 실제 랜드마크를 이야기에 끼워 넣고, Google Weather API가 조명과 날씨를 그날 그 자리에 맞춘다. 스타일의 유행은 YouTube와 Trends 데이터로 따라가고, 실제 영상 클립은 Vertex AI와 Veo가 뽑는다. 렌더링 파이프라인은 Google Cloud 위에 올렸다."
+            "x": "거론된 곡에는 에이브릴 라빈의 “Sk8er Boi”, 톰 코크런의 “Life Is a Highway”, 조니 미첼의 “Both Sides Now”가 들어 있다. SOCAN은 원곡 녹음과 침해를 주장하는 수노 트랙을 나란히 놓고 들어볼 수 있는 비교 자료도 온라인에 올렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Screenshot-2026-09-03-at-12.01.14---PM.png",
+            "cap": "SOCAN AI 소송 페이지 갈무리"
           },
           {
             "t": "p",
-            "x": "팬은 취향과 실시간 환경 정보를 담은 Beat Profile을 제출한다. 그러면 자기 동네 날씨와 도시 스카이라인이 배경으로 들어간 영상을 받는다."
+            "x": "SOCAN 최고법률책임자 겸 법무총괄 Andrea Kokonis는 빌보드 캐나다에 수노가 2023년 12월 SOCAN 동의 없이 캐나다에 들어왔고, 이후 논의로도 분쟁이 풀리지 않았다고 말했다. “회원의 곡이 쓰이면 그 대가가 회원에게 돌아가도록 하려는 것입니다.”"
           },
           {
             "t": "p",
-            "x": "고삐는 규칙으로 잡았다. 팀은 몇 주 동안 시각 규칙 다섯 개를 걸고 엔진을 시험했고, 그 과정에서 나온 초안 클립의 81.4%를 버렸다. 카메라 움직임과 색, 서사의 핵심 박자는 잠가두고 정해둔 구간만 열어놓는 방식이다."
+            "x": "SOCAN은 침해로 발생한 손해와 이익, 또는 그 대신 곡당 2만 캐나다달러의 법정손해배상을 청구했다. 여기에 징벌적·응징적 손해배상 1,000만 캐나다달러와 추가 침해를 막는 법원 명령도 함께 요구했다. 두 매체 보도 어디에도 이 소송에 대한 수노 측 입장은 실리지 않았다."
           }
         ]
       }

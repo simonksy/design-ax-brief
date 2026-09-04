@@ -1,32 +1,11 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "design",
   "media": [
-    {
-      "id": "design-artstation-noai-default",
-      "type": "image",
-      "src": "pipeline/media/design-artstation-noai-default.jpg"
-    },
-    {
-      "id": "design-cursor-vercel-sandbox",
-      "type": "image",
-      "src": "pipeline/media/design-cursor-vercel-sandbox.jpg"
-    },
-    {
-      "id": "design-agent-native-clips",
-      "type": "video",
-      "src": "pipeline/media/design-agent-native-clips.mp4",
-      "poster": "pipeline/media/design-agent-native-clips.jpg"
-    },
-    {
-      "id": "design-jetzero-blended-wing",
-      "type": "image",
-      "src": "pipeline/media/design-jetzero-blended-wing.jpg"
-    },
-    {
-      "id": "design-mancity-ai-kit",
-      "type": "image",
-      "src": "pipeline/media/design-mancity-ai-kit.jpg"
-    }
+    {"id": "design-armorpaint-1-0-out-after", "type": "image", "src": "pipeline/media/design-armorpaint-1-0-out-after.jpg"},
+    {"id": "design-figma-motion-basics-time-stamped", "type": "video", "src": "pipeline/media/design-figma-motion-basics-time-stamped.mp4", "poster": "pipeline/media/design-figma-motion-basics-time-stamped.jpg"},
+    {"id": "design-auto-syncing-tailwind-config-from", "type": "image", "src": "pipeline/media/design-auto-syncing-tailwind-config-from.png"},
+    {"id": "design-parker-only-went-made-those", "type": "video", "src": "pipeline/media/design-parker-only-went-made-those.mp4", "poster": "pipeline/media/design-parker-only-went-made-those.jpg"},
+    {"id": "design-why-does-ai-generated-food", "type": "image", "src": "pipeline/media/design-why-does-ai-generated-food.jpg"}
   ]
 }

@@ -1,233 +1,238 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "design",
-  "now_iso": "2026-09-03T22:00:00Z",
+  "now_iso": "2026-09-04T22:00:00Z",
   "window_hours": 72,
   "items": [
     {
-      "category": "figma",
-      "title": "Cursor Cloud Agents can now run in Vercel Sandbox",
-      "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
-      "source": "Vercel",
-      "published_iso": "2026-09-03T15:00:00Z",
-      "excerpt": "Vercel now lets Cursor Cloud Agents execute inside Vercel Sandbox — scale-to-zero workers, isolated microVMs and durable orchestration on infrastructure the team controls.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5KmgvmWZwaaPFGskgNOJAu/6b3659ba24e56f6bf4fe2c181d6d.png",
-      "why": "The coding agent stops being a laptop tool and becomes shared team infrastructure — design-to-code work can now run on the same preview pipeline the product ships from."
-    },
-    {
-      "category": "figma",
-      "title": "Agent-Native Clips: a free Loom alternative that captures browser errors",
-      "url": "https://www.builder.io/blog/agent-native-clips-captures-browser-errors",
-      "source": "Builder.io",
-      "published_iso": "2026-09-01T18:00:00Z",
-      "excerpt": "Builder.io released an open-source screen recorder that records a browser bug together with console logs and failed network requests, producing a clip an agent can act on directly.",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/bd963b406ef04a4fbf9d1af53ab3b313?width=1200",
-      "why": "Designers file bugs by recording their screen; this turns that same recording into machine-readable evidence, closing the handoff gap between 'it looks broken' and a fix."
-    },
-    {
-      "category": "figma",
-      "title": "When the canvas starts acting, who's really in control?",
-      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
-      "source": "UX Collective",
-      "published_iso": "2026-09-02T22:13:30Z",
-      "excerpt": "An argument that agentic canvases — surfaces that pull context across tools and then act without step-by-step instruction — change what designers actually control: interaction, agency, orchestration and attention.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png",
-      "why": "Names the concrete design problem behind agentic UI: the canvas is no longer a passive surface, so control and reversibility become the thing you design."
-    },
-    {
-      "category": "figma",
-      "title": "AI took away engineering's right to say no",
-      "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2",
-      "source": "UX Collective",
-      "published_iso": "2026-09-02T22:13:11Z",
-      "excerpt": "Code complexity used to be both a wall and a gate: engineers were the only ones who could declare what was possible. AI didn't take their knowledge — it took that veto.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*xLTIGhGp-sD2qCLrYrKjFg.jpeg",
-      "why": "Directly reframes design-engineering power dynamics in AI teams — 'that's not feasible' stops being a conversation-ender for designers."
-    },
-    {
-      "category": "figma",
-      "title": "What Minority Report got right about AI",
-      "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431",
-      "source": "UX Collective",
-      "published_iso": "2026-09-01T22:16:54Z",
-      "excerpt": "Rereads Spielberg's Precogs as the sharpest portrait of generative AI drawn before it arrived — fluent, confident, acting on their own, hallucinations included — and asks what that means for the operator dwarfed by the machine.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*B35Pro9esTq_e6gjfS8hvg.png",
-      "why": "A usable interface critique dressed as film analysis: the screen was never the subject, the operator's shrinking role was."
-    },
-    {
-      "category": "tokens",
-      "title": "Three design-to-code hacks most developers ignore",
-      "url": "https://dev.to/joemetry/three-design-to-code-hacks-most-developers-ignore-that-will-actually-make-you-better-1f3m",
-      "source": "DEV Community",
-      "published_iso": "2026-09-02T23:00:00Z",
-      "excerpt": "Argues the real losses in front-end work happen in the translation from design file to component, not in framework choice, and lays out three concrete habits that survive AI-assisted builds.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdesign-to-code.png",
-      "why": "Practical craft-level guidance for the handoff step that AI tools most often get subtly wrong."
-    },
-    {
-      "category": "tokens",
-      "title": "I let AI design tools build my portfolio site — clients noticed",
-      "url": "https://dev.to/devstackcommunity/i-let-ai-design-tools-build-my-portfolio-site-clients-noticed-40ej",
-      "source": "DEV Community",
-      "published_iso": "2026-09-02T16:57:08Z",
-      "excerpt": "A first-person account of handing a portfolio build to AI design tools and measuring what clients actually reacted to — clarity of the three questions a portfolio must answer, not visual polish.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fportfolio-ai.png",
-      "why": "A rare before/after on AI-built design work judged by clients rather than by the builder."
-    },
-    {
-      "category": "tokens",
-      "title": "Show rollback evidence before approving the agent rewrite",
-      "url": "https://dev.to/haaaaaley/show-rollback-evidence-before-approving-the-agent-rewrite-3d8c",
-      "source": "DEV Community",
-      "published_iso": "2026-09-03T14:23:09Z",
-      "excerpt": "The agent wants to delete the old settings path and you have forty seconds to say yes. A proposal for what proof an agent must surface before a human approves a destructive rewrite.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frollback.png",
-      "why": "An approval-UI pattern for agentic tools: the design question is what evidence a confirmation dialog owes the person clicking it."
-    },
-    {
-      "category": "render",
-      "title": "ArtStation enables NoAI protection for every artist by default",
-      "url": "https://80.lv/articles/artstation-will-block-ai-crawlers-from-scraping-artists-work/",
+      "url": "https://80.lv/articles/this-web-tool-lets-you-create-360-degree-illustrations",
       "source": "80 Level",
-      "published_iso": "2026-09-03T20:11:00Z",
-      "excerpt": "ArtStation has switched NoAI protection on for new and existing uploads and added safeguards against AI crawlers, while admitting its current AI-content filters remain insufficient.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50041/images/6a99d4989956c/contain_1200x630.jpg",
-      "why": "The largest portfolio platform for concept artists flips the default on training-data consent — a structural change to where creative work can be scraped."
-    },
-    {
       "category": "render",
-      "title": "ArtStation is taking action against AI art, but there's one question it won't answer",
-      "url": "https://www.creativebloq.com/art/digital-art/artstation-is-finally-taking-action-against-ai-art-but-theres-one-question-it-doesnt-want-to-answer",
-      "source": "Creative Bloq",
-      "published_iso": "2026-09-03T14:00:00Z",
-      "excerpt": "Artists welcome ArtStation's new AI protections but press the platform on the thing it keeps avoiding: what happens to work already scraped, and how AI submissions are detected at all.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dGgCUgM9B78DhMFiK75VbZ-1200-80.webp",
-      "why": "The artist-side reading of the same policy — the gap between a NoAI flag and actual enforcement is where creative trust is decided."
+      "headline": "This Web Tool Lets You Create 360-Degree Illustrations",
+      "published_iso": "2026-09-04T16:00:00+00:00",
+      "excerpt": "A browser-based sketching tool that lets illustrators draw directly onto a 360-degree panoramic canvas. \"It's a really fun way to sketch.\"",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50055/images/6a9aeb032d450/contain_1200x630.jpg"
     },
     {
+      "url": "https://80.lv/articles/blender-studio-opens-overgrown-s-free-behind-the-scenes-archive",
+      "source": "80 Level",
       "category": "render",
-      "title": "NVIDIA accelerates local AI at IFA 2026",
-      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "source": "NVIDIA",
-      "published_iso": "2026-09-03T16:00:59Z",
-      "excerpt": "At IFA 2026 NVIDIA and partners showed faster local inference plus new tooling that makes agents easier to set up and run on-device across RTX and Spark hardware.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
-      "why": "On-device agents change the economics of creative work — model runs stop metering per token and assets never leave the workstation."
+      "headline": "Blender Studio Opens OVERGROWN's Free Behind-the-Scenes Archive",
+      "published_iso": "2026-09-04T19:24:00+00:00",
+      "excerpt": "A limited-time Open Doors Week provides free access to production logs covering animation, rigging, fur, shading, sets, lighting, water effects and compositing.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50059/images/6a9b1aee2e216/contain_1200x630.jpg"
     },
     {
-      "category": "cad",
-      "title": "Meet Lamp: an 'alive' Pixar-like desk robot that watches your posture",
+      "url": "https://www.cgchannel.com/2026/09/armorpaint-1-0-is-out-after-eight-years-in-early-access/",
+      "source": "CG Channel",
+      "category": "render",
+      "headline": "ArmorPaint 1.0 is out after eight years in early access",
+      "published_iso": "2026-09-04T17:03:11+00:00",
+      "excerpt": "The first 'official' release of the popular open-source 3D texture painting app is ready to download, arriving eight years after it entered early access.",
+      "og_image": null
+    },
+    {
+      "url": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
+      "source": "Vercel",
+      "category": "figma",
+      "headline": "GPT 6 Astra now available on Vercel AI Gateway",
+      "published_iso": "2026-09-04T00:00:00Z",
+      "excerpt": "GPT 6 Astra from OpenAI is now available on Vercel AI Gateway for coding, computer use, research, and multi-step professional workflows.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png"
+    },
+    {
+      "url": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "figma",
+      "headline": "Muse Spark 1.3 now available on AI Gateway",
+      "published_iso": "2026-09-02T00:00:00Z",
+      "excerpt": "Call Meta's Muse Spark 1.3 through Vercel AI Gateway with one API key: no provider account, plus fallbacks, spend tracking and traces on every request.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png"
+    },
+    {
       "url": "https://www.creativebloq.com/ai/meet-lamp-an-alive-pixar-like-robot-that-watches-your-posture-remembers-strangers-faces-and-answers-your-emails",
       "source": "Creative Bloq",
+      "category": "figma",
+      "headline": "Meet Lamp: an 'alive' Pixar-like desk robot that watches your posture and answers your emails",
       "published_iso": "2026-09-03T12:00:00Z",
-      "excerpt": "A desk robot styled after the Pixar lamp that tracks posture, remembers faces it has seen and handles email — an embodied AI assistant whose whole interface is a physical gesture vocabulary.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6-2560-80.jpg",
-      "why": "A working example of embodied AI where the product design — motion, posture, character — is the entire interaction model."
+      "excerpt": "An embodied AI desk assistant designed with Pixar-style character animation cues: it monitors posture, remembers faces and handles email. Is this the future of product form?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6-2560-80.jpg"
     },
     {
-      "category": "cad",
-      "title": "SunCubes uses AI simulation to develop UAV charging systems",
-      "url": "https://www.engineering.com/suncubes-uses-ai-simulation-to-develop-uav-charging-systems/",
-      "source": "Engineering.com",
-      "published_iso": "2026-09-02T13:09:41Z",
-      "excerpt": "SunCubes leaned on SimScale's AI-assisted thermal, structural and aerodynamic analysis to iterate wireless energy-transfer hardware without building each physical prototype.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/SunCubes_City_02_Still_6.jpg",
-      "why": "Concrete hardware-design case where simulation replaces prototype rounds — the AX pattern industrial designers can copy."
+      "url": "https://www.creativebloq.com/design/advertising/parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "headline": "Parker only went and made those viral anti-AI pen billboards real",
+      "published_iso": "2026-09-04T08:00:00Z",
+      "excerpt": "Designer-submitted anti-AI concepts for Parker pens, which went viral online, have been turned into real Times Square advertising.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Jj94UaRhKysYSDUgGK7i7S-1920-80.jpg"
     },
     {
-      "category": "cad",
-      "title": "Flying high at JetZero",
-      "url": "https://develop3d.com/simulation/flying-high-at-jetzero/",
-      "source": "DEVELOP3D",
-      "published_iso": "2026-09-03T11:36:34Z",
-      "excerpt": "JetZero combines advanced modelling, simulation and AI to refine its blended-wing aircraft, using computation to attack engineering problems that have no reference design to copy.",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/JetZero_GulfAir-Z4-img.jpg",
-      "why": "Shows AI-assisted design doing its hardest job: shaping a form with no precedent, rather than optimising a known one."
+      "url": "https://www.creativebloq.com/design/fonts-typography/the-viral-lionel-messi-font-is-based-on-real-plays-and-fans-are-trying-to-work-out-which",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "headline": "The ingenious Lionel Messi font is based on real plays, and people are trying to work out which",
+      "published_iso": "2026-09-04T09:00:00Z",
+      "excerpt": "A viral typeface draws every letterform from the tracked paths of actual Messi plays, turning match data into a legible alphabet fans are decoding.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/EJSpukviJstCg7nTsMFswS-1920-80.jpg"
     },
     {
-      "category": "cad",
-      "title": "Siemens Realize Live 2026",
+      "url": "https://dev.to/quintetkit/why-ai-generated-screens-look-ai-like-isnt-a-taste-issue-noi",
+      "source": "DEV Community",
+      "category": "tokens",
+      "headline": "Why AI-Generated Screens Look 'AI-Like' Isn't a Taste Issue",
+      "published_iso": "2026-09-04T16:06:20Z",
+      "excerpt": "When you ask generative AI to create a screen, the same patterns appear every time - a hero section, the same spacing, the same cards. The author argues this is structural, not a matter of taste.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopnf0jvn0d6xbtj8u3uh.png"
+    },
+    {
+      "url": "https://dev.to/sharphaw/we-replaced-the-brand-guidelines-pdf-with-tokens-the-clients-forms-link-page-and-chat-widget-5g6f",
+      "source": "DEV Community",
+      "category": "tokens",
+      "headline": "We replaced the brand guidelines PDF with tokens the client's forms, link page and chat widget inherit",
+      "published_iso": "2026-09-04T14:00:27Z",
+      "excerpt": "Brand Kit stores colours, type, radius, logos and an icon pack once, exports them as CSS, JSON or Tailwind, and has forms, Spotlight and the support widget inherit them at runtime.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fapi.sharphaw.digital%2Fapi%2Fstorage%2Ffcaeec18-8f5d-4b53-976f-0ce6c43cfa7a"
+    },
+    {
+      "url": "https://dev.to/alexandersstudi/auto-syncing-tailwind-config-from-figma-variables-on-every-pull-request-4hg9",
+      "source": "DEV Community",
+      "category": "tokens",
+      "headline": "Auto-syncing Tailwind config from Figma variables on every pull request",
+      "published_iso": "2026-09-02T16:30:47Z",
+      "excerpt": "After a merge conflict broke staging, the author wired Figma variables straight into the Tailwind config so every pull request regenerates design tokens automatically.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo02vn2ie7a8xrtuwtenm.png"
+    },
+    {
       "url": "https://develop3d.com/cad/siemens-realize-live-2026/",
       "source": "DEVELOP3D",
-      "published_iso": "2026-09-02T12:53:24Z",
-      "excerpt": "Siemens' Xcelerator push gained momentum across its global events, with new features and partnerships aimed at making the CAD-to-manufacturing chain AI-assisted end to end.",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Realize-Live-2026.jpg",
-      "why": "Reads how the biggest industrial-design toolchain is positioning AI — relevant to any team whose design work ends in a factory."
+      "category": "cad",
+      "headline": "Siemens Realize Live 2026",
+      "published_iso": "2026-09-02T12:53:24+00:00",
+      "excerpt": "Siemens' Xcelerator gained momentum as global events showcased new features, partnerships and its push toward industry dominance in CAD and simulation.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Realize-Live-2026.jpg"
     },
     {
-      "category": "workflow",
-      "title": "AI ruined posters. This human designer is fixing them",
-      "url": "https://www.fastcompany.com/91599914/ai-ruined-posters-this-human-designer-is-fixing-them",
-      "source": "Fast Company",
-      "published_iso": "2026-09-02T10:00:00Z",
-      "excerpt": "Bad AI-designed posters have become common enough that a human graphic designer is redesigning them publicly — unnatural sheen, yellowish cast and mangled type included — to show what a living designer's touch still buys.",
-      "og_image": null,
-      "why": "A visible, teachable diagnostic of AI output failure modes, argued in the medium designers actually judge: the poster."
+      "url": "https://develop3d.com/3d-printing/new-floating-titanium-material-for-marine-developed/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "headline": "New floating titanium material for marine developed",
+      "published_iso": "2026-09-04T10:03:23+00:00",
+      "excerpt": "Researchers create the world's first floating titanium lattice structure, a computationally designed material aimed at marine infrastructure.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Floating-titanium.jpg"
     },
     {
-      "category": "workflow",
-      "title": "Man City fans used AI to design the team's new kit",
-      "url": "https://www.fastcompany.com/91598957/man-city-fans-used-ai-to-design-the-teams-new-kit",
-      "source": "Fast Company",
-      "published_iso": "2026-09-01T09:45:00Z",
-      "excerpt": "Manchester City's new alternative kit is the first professional football kit designed by fans using generative AI — made with Puma AI Creator, the brand's custom tool — and it will be worn on the pitch.",
-      "og_image": null,
-      "why": "Generative AI crosses from concept render into a manufactured, licensed product: a real test of who holds authorship in brand design."
+      "url": "https://www.keyshot.com/blog/why-design-teams-need-faster-visualization-software/",
+      "source": "KeyShot",
+      "category": "render",
+      "headline": "10 signs your design team needs faster 3D visualization software",
+      "published_iso": "2026-09-02T19:18:20+00:00",
+      "excerpt": "Slow renders cost more than you think. KeyShot lays out ten signals that a product team has outgrown its visualization pipeline, and how real-time rendering changes decision speed.",
+      "og_image": "https://www.keyshot.com/wp-content/uploads/2026/08/OVO-Traveling-Bag-concept-Design-2020-scaled.jpg"
     },
     {
-      "category": "workflow",
-      "title": "Worried your writing sounds like AI? These tools can help",
-      "url": "https://www.fastcompany.com/91599906/worried-your-writing-sounds-like-ai-these-tools-can-help",
-      "source": "Fast Company",
-      "published_iso": "2026-09-03T15:00:00Z",
-      "excerpt": "AI-generated prose now fills LinkedIn, Substack, medical papers and published books — and a crop of tools has appeared to detect and strip the tells out of your own drafts.",
-      "og_image": null,
-      "why": "UX copy and brand voice are design surfaces too; the 'sounds like AI' tell is becoming a measurable quality defect."
+      "url": "https://roadtovr.com/these-clever-tools-make-vr-way-more-immersive-inside-xr-design/",
+      "source": "Road to VR",
+      "category": "vr",
+      "headline": "VR Design Unpacked: How clever tools in 'Red Matter 2' boost immersion",
+      "published_iso": "2026-09-04T17:48:12+00:00",
+      "excerpt": "Inside XR Design examines the design of Red Matter 2's 'grabber tools' and the many small ways they contribute to immersion, four years after the game's release.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg"
     },
     {
-      "category": "workflow",
-      "title": "OpenAI's next big AI model has 'entered the AGI era'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "url": "https://www.uploadvr.com/finding-frida-uses-vr-to-rediscover-a-forgotten-textile-artist/",
+      "source": "UploadVR",
+      "category": "vr",
+      "headline": "Finding Frida Uses VR To Rediscover A Forgotten Textile Artist",
+      "published_iso": "2026-09-03T23:33:29Z",
+      "excerpt": "Finding Frida is a 41-minute VR documentary at Venice Immersive using photorealistic 3D scans and animated artwork to explore the life of forgotten Norwegian textile artist Frida Hansen.",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Finding-Frida-Hero.jpeg"
+    },
+    {
+      "url": "https://www.engadget.com/2246397/how-to-edit-claude-memory/",
+      "source": "Engadget",
+      "category": "render",
+      "headline": "How to edit Claude's memory",
+      "published_iso": "2026-09-04T12:00:00+00:00",
+      "excerpt": "Claude's memory serves as context for future prompts. You can edit or delete items from the memory, and choose whether Claude includes sensitive topics.",
+      "og_image": "https://www.engadget.com/img/gallery/how-to-edit-claudes-memory/l-intro-1787857357.jpg"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
       "source": "The Verge",
-      "published_iso": "2026-09-03T18:00:00Z",
-      "excerpt": "OpenAI president Greg Brockman says the company's next flagship model marks entry into the AGI era, framing the release around capability claims rather than benchmarks.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg",
-      "why": "The frontier model most creative tools will sit on next — worth reading for what actually ships versus what is claimed."
+      "category": "workflow",
+      "headline": "Why does AI-generated food look like that?",
+      "published_iso": "2026-09-04T11:00:00+00:00",
+      "excerpt": "Worms, holes, and cracks reveal the technical weaknesses of image generators - a close read of why AI food imagery keeps failing in the same visual ways.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "category": "social",
-      "title": "The most overhyped and underhyped new AI models",
-      "url": "https://www.youtube.com/watch?v=Po_Dh7WLgmM",
-      "source": "Matt Wolfe",
-      "published_iso": "2026-09-03T02:14:55Z",
-      "excerpt": "A hands-on sort through the current wave of new model releases, separating the ones that change day-to-day creative work from the ones that only look good in launch demos.",
-      "og_image": "https://i.ytimg.com/vi/Po_Dh7WLgmM/maxresdefault.jpg",
-      "why": "Useful triage for designers deciding which of this month's model launches is worth rebuilding a workflow around."
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "source": "The Verge",
+      "category": "workflow",
+      "headline": "Instagram's AI detection is a mess (again)",
+      "published_iso": "2026-09-04T12:00:00Z",
+      "excerpt": "Meta has been tagging real photos and original creative work on Instagram with AI Content labels again, while letting undeniably AI images slip through the cracks.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "category": "social",
-      "title": "5 skills that make ChatGPT and Claude better at everything",
-      "url": "https://www.youtube.com/watch?v=DdV0f8eu6XI",
-      "source": "The AI Advantage",
-      "published_iso": "2026-09-01T12:17:27Z",
-      "excerpt": "A walkthrough of five reusable skills that measurably improve output quality from ChatGPT and Claude, aimed at people who want leverage rather than another prompt list.",
-      "og_image": "https://i.ytimg.com/vi/DdV0f8eu6XI/maxresdefault.jpg",
-      "why": "Skills are becoming the packaging format for repeatable creative workflows — this is the practical version of that shift."
+      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
+      "source": "UX Collective",
+      "category": "figma",
+      "headline": "When the canvas starts acting, who's really in control?",
+      "published_iso": "2026-09-02T22:13:30Z",
+      "excerpt": "How agentic interfaces are changing what designers control, from interactions to agency, orchestration and attention. The agentic canvas now pulls context across tools and acts without step-by-step instructions.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png"
     },
     {
+      "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f",
+      "source": "UX Collective",
+      "category": "figma",
+      "headline": "What Minority Report got wrong about AI (so far)",
+      "published_iso": "2026-09-03T22:39:12Z",
+      "excerpt": "For two decades Minority Report has been shorthand for the future of interaction. The film gave us two futures, and the industry rebuilt the one that was easy to demo.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Od8x5k-43Z_nXRMTQXB6XA.png"
+    },
+    {
+      "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2",
+      "source": "UX Collective",
+      "category": "figma",
+      "headline": "AI took away engineering's right to say no",
+      "published_iso": "2026-09-02T22:13:11Z",
+      "excerpt": "AI didn't touch what engineers actually know - it ended their power to be the only ones who could say what was possible, reshaping how design and engineering negotiate scope.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*xLTIGhGp-sD2qCLrYrKjFg.jpeg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xI4tglaE5GA",
+      "source": "Figma (YouTube)",
       "category": "social",
-      "title": "The mystery is solved... and the answer is 40x cheaper than Claude",
-      "url": "https://www.youtube.com/watch?v=r-tzcMlQISk",
-      "source": "Fireship",
-      "published_iso": "2026-09-01T17:31:27Z",
-      "excerpt": "Fireship traces the anonymous model that appeared on the leaderboards and lands on the cost story: comparable output at roughly a fortieth of the price.",
-      "og_image": "https://i.ytimg.com/vi/r-tzcMlQISk/maxresdefault.jpg",
-      "why": "Token price is what decides whether an agentic design workflow is affordable to run continuously."
+      "headline": "Figma Motion basics: Time-stamped comments",
+      "published_iso": "2026-09-02T15:00:26Z",
+      "excerpt": "A short walkthrough of time-stamped comments in Figma Motion, which tie feedback to specific moments in an animation instead of the whole file.",
+      "og_image": "https://i.ytimg.com/vi/xI4tglaE5GA/maxresdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h8Wpz5WzzLI",
+      "source": "The AI Advantage (YouTube)",
+      "category": "social",
+      "headline": "You Have to Try Claude Cowork's New Built-In Browser",
+      "published_iso": "2026-09-03T16:24:44Z",
+      "excerpt": "A hands-on look at the built-in browser inside Claude Cowork and how it changes agent-driven research and production workflows.",
+      "og_image": "https://i.ytimg.com/vi/h8Wpz5WzzLI/maxresdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FluKUJyeYD8",
+      "source": "Fireship (YouTube)",
+      "category": "social",
+      "headline": "Did OpenAI actually build AGI? GPT-6 Astra first look",
+      "published_iso": "2026-09-04T20:14:12Z",
+      "excerpt": "A first look at OpenAI's GPT-6 Astra announcement and what its agentic and computer-use gains actually mean for people who build and design software.",
+      "og_image": "https://i.ytimg.com/vi/FluKUJyeYD8/maxresdefault.jpg"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 22,
+    "dropped": 1,
+    "kept": 25,
     "against_days": 5
   }
 }
