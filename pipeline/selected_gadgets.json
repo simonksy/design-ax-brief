@@ -1,159 +1,110 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "gadgets",
   "count": 5,
-  "items": [
-    {
-      "id": "gadgets-nvidia-rtx-spark-ai-pcs",
-      "tool": "Gadgets",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "source": "WIRED",
-      "published_iso": "2026-09-03T13:00:00+00:00",
-      "og_image": "https://media.wired.com/photos/6a988e1369e7125a8c650442/191:100/w_1280,c_limit/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
-      "excerpt": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "rationale": "로컬에서 모델을 돌리도록 설계된 첫 소비자용 기계들이 한자리에 나왔다 — 클라우드 청구서 없이 책상 위에서 무엇을 돌릴 수 있는지의 기준선이 바뀐다."
-    },
-    {
-      "id": "gadgets-nvidia-pair-gpu-cluster",
-      "tool": "Gadgets",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-09-03T16:00:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg",
-      "excerpt": "Nvidia's Personal AI Router (PAIR) lets agentic AI workloads take advantage of every spare GPU cycle on a home network, promising faster execution and more private inference.",
-      "rationale": "이미 있는 장비를 묶어 로컬 에이전트 팜으로 만드는 소프트웨어 — 새 하드웨어를 사지 않고 내일부터 에이전트 스웜을 돌릴 수 있게 한다."
-    },
-    {
-      "id": "gadgets-lenovo-aeroblade-rollable",
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "url": "https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-09-03T16:00:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH-1999-80.jpg",
-      "excerpt": "Lenovo's Project Swan puts a 17-inch, 16:9 rollable display inside a 14-inch, 3.5-pound chassis, while the fanless AeroBlade concept uses solid-state AirJet cooling.",
-      "rationale": "가방은 그대로 두고 캔버스만 늘리는 롤러블과 팬 없는 정숙한 섀시 — 크리에이티브 작업 환경의 물리적 제약을 하드웨어가 직접 건드린 사례."
-    },
-    {
-      "id": "gadgets-vision-pro-hip-surgery",
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
-      "source": "Engadget",
-      "published_iso": "2026-09-03T21:14:11+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
-      "excerpt": "Stryker says its SportSuite Vision software for the Apple Vision Pro received De Novo authorization from the FDA in July, and it has now been used in hip arthroscopy.",
-      "rationale": "공간 UI가 데모를 벗어나 FDA 승인을 받은 수술 워크플로에 들어갔다 — 헤드셋 인터랙션 설계가 실제로 책임을 지는 첫 증명."
-    },
-    {
-      "id": "gadgets-gemini-spark-google-photos",
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://9to5google.com/2026/09/03/gemini-spark-google-photos/",
-      "source": "9to5Google",
-      "published_iso": "2026-09-03T21:44:42+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "The latest first-party app Gemini Spark can control is Google Photos, with the personal agent able to handle complex, multi-stage editing and sharing workflows.",
-      "rationale": "폰 위의 에이전트가 사진 편집기를 처음부터 끝까지 몰고 간다 — 이미지 편집이 도구 조작에서 지시로 넘어가는 지점."
-    }
-  ],
   "picks": [
     {
-      "id": "gadgets-nvidia-rtx-spark-ai-pcs",
+      "id": "gadgets-anker-mindbase-hub",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "source": "WIRED",
-      "published_iso": "2026-09-03T13:00:00+00:00",
-      "og_image": "https://media.wired.com/photos/6a988e1369e7125a8c650442/191:100/w_1280,c_limit/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
-      "excerpt": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "rationale": "로컬에서 모델을 돌리도록 설계된 첫 소비자용 기계들이 한자리에 나왔다 — 클라우드 청구서 없이 책상 위에서 무엇을 돌릴 수 있는지의 기준선이 바뀐다."
+      "url": "https://gizmodo.com/ankers-mindbase-wants-to-be-the-smart-hub-for-your-life-2000805980",
+      "source": "Gizmodo",
+      "published_iso": "2026-09-03T07:30:38+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/Anker-MindBase-1200x675.jpg",
+      "excerpt": "With Matter support, on-device AI and NAS storage, Anker's first AI hub makes a play to be the center of the home, tying Anker and Matter devices into one autonomous system alongside HomeKit, Alexa and Google Home.",
+      "rationale": "온디바이스 AI와 Matter, NAS를 한 상자에 넣은 첫 소비자용 홈 허브 — 집 안 기기 제어가 앱 화면에서 에이전트로 넘어가는 실제 제품.",
+      "headline": "Anker's MindBase Wants to Be the Smart Hub for Your Life",
+      "category": "gadgets"
     },
     {
-      "id": "gadgets-nvidia-pair-gpu-cluster",
+      "id": "gadgets-minisforum-local-ai-boxes",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
+      "url": "https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally",
       "source": "Tom's Hardware",
-      "published_iso": "2026-09-03T16:00:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg",
-      "excerpt": "Nvidia's Personal AI Router (PAIR) lets agentic AI workloads take advantage of every spare GPU cycle on a home network, promising faster execution and more private inference.",
-      "rationale": "이미 있는 장비를 묶어 로컬 에이전트 팜으로 만드는 소프트웨어 — 새 하드웨어를 사지 않고 내일부터 에이전트 스웜을 돌릴 수 있게 한다."
+      "published_iso": "2026-09-04T16:15:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY-1920-80.png",
+      "excerpt": "Both boxes use AMD's Ryzen AI Max+ Pro 495 with up to 131 TOPS and 192GB of unified memory, designed to keep model inference and agent workloads entirely on your desk.",
+      "rationale": "192GB 통합 메모리를 단 NAS와 미니 워크스테이션 — 팀 파일 서버와 로컬 추론 서버를 한 대로 합칠 수 있는 값이 매겨진 실물.",
+      "headline": "Minisforum launches local AI solutions at IFA 2026 — AI Agent NAS N5 and AI Mini Workstation MS-S1",
+      "category": "gadgets"
     },
     {
-      "id": "gadgets-lenovo-aeroblade-rollable",
+      "id": "gadgets-ikairos-modular-wearable",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-09-03T16:00:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH-1999-80.jpg",
-      "excerpt": "Lenovo's Project Swan puts a 17-inch, 16:9 rollable display inside a 14-inch, 3.5-pound chassis, while the fanless AeroBlade concept uses solid-state AirJet cooling.",
-      "rationale": "가방은 그대로 두고 캔버스만 늘리는 롤러블과 팬 없는 정숙한 섀시 — 크리에이티브 작업 환경의 물리적 제약을 하드웨어가 직접 건드린 사례."
+      "url": "https://www.androidauthority.com/ikairos-modular-ai-wearable-3706717/",
+      "source": "Android Authority",
+      "published_iso": "2026-09-03T16:00:25+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-1.jpg",
+      "excerpt": "Lingverse showcased iKairos at IFA 2026, a modular AI wearable that pops out of a desktop robot body and slots into a neck pendant. It feeds a LifeOS assistant and ships with a physical camera shutter, privacy light and manual mute.",
+      "rationale": "데스크 로봇에서 빠져나와 목걸이가 되는 모듈형 폼팩터에 물리 셔터와 프라이버시 램프까지 붙였다 — AI 기기의 신뢰를 하드웨어로 설계한 사례.",
+      "headline": "This desktop robot companion is also an AI wearable you can wear around your neck",
+      "category": "gadgets"
     },
     {
-      "id": "gadgets-vision-pro-hip-surgery",
+      "id": "gadgets-plaud-one-earbuds",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
+      "url": "https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/",
       "source": "Engadget",
-      "published_iso": "2026-09-03T21:14:11+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
-      "excerpt": "Stryker says its SportSuite Vision software for the Apple Vision Pro received De Novo authorization from the FDA in July, and it has now been used in hip arthroscopy.",
-      "rationale": "공간 UI가 데모를 벗어나 FDA 승인을 받은 수술 워크플로에 들어갔다 — 헤드셋 인터랙션 설계가 실제로 책임을 지는 첫 증명."
+      "published_iso": "2026-08-27T13:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-video-call/l-intro-1787766887.jpg",
+      "excerpt": "The Plaud One is a different take on AI wearables: earbuds with built-in eSIM and 4G that capture meetings, calls and face-to-face talks, build memory across days, and hand tasks to an agent.",
+      "rationale": "폰 없이 4G로 회의와 통화를 통째로 기억하고 그 결과를 에이전트에 넘기는 이어버드 — 회의록 워크플로를 하드웨어가 가져가는 지점.",
+      "headline": "Plaud made earbuds for people who want to record every meeting and call",
+      "category": "gadgets"
     },
     {
-      "id": "gadgets-gemini-spark-google-photos",
+      "id": "gadgets-gemini-overlay-bubble",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://9to5google.com/2026/09/03/gemini-spark-google-photos/",
+      "url": "https://9to5google.com/2026/09/04/gemini-minimize-bubble/",
       "source": "9to5Google",
-      "published_iso": "2026-09-03T21:44:42+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "The latest first-party app Gemini Spark can control is Google Photos, with the personal agent able to handle complex, multi-stage editing and sharing workflows.",
-      "rationale": "폰 위의 에이전트가 사진 편집기를 처음부터 끝까지 몰고 간다 — 이미지 편집이 도구 조작에서 지시로 넘어가는 지점."
+      "published_iso": "2026-09-04T21:44:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "The Gemini overlay on Android now has a multitasking option that leaves a floating bubble shortcut when you minimize it, so the assistant persists alongside whatever app you switch to.",
+      "rationale": "어시스턴트가 앱을 가리는 전면 패널에서 떠 있는 버블로 바뀐다 — 모바일에서 AI를 '전환'이 아니라 '동반'으로 두는 인터랙션 패턴.",
+      "headline": "Gemini overlay gets bubble minimization and multitasking on Android",
+      "category": "gadgets"
     }
   ],
   "dedup": {
-    "pool": 28,
-    "checked_against": "news_data.json sections.gadgets today(2026-09-03, 5 cards) + days(2026-08-29..2026-09-02, 25 cards) = 30 published cards",
-    "dropped_as_duplicates": 3,
+    "pool": 21,
+    "checked_against": "news_data.json sections.gadgets today(2026-09-04, 5 cards) + days(2026-08-30..2026-09-03, 25 cards) = 30 published cards",
+    "dropped_as_duplicates": 6,
     "notes": [
-      "Published 09-03 set verified card-by-card: Caira generative video editing (TechRadar), Acer Aspire G 3D 16 (Notebookcheck), Pixel Watch 5 offline Gemini (Notebookcheck), Norway smart-glasses rules (Digital Trends), Adreno Neural Fusion (9to5Google). No selected URL or story matches any of them.",
-      "Within-pool duplicate dropped: TechRadar 'Lenovo Yoga with NVIDIA Arm superchip' is the productized version of the WIRED RTX Spark story — WIRED kept as the stronger anchor, TechRadar dropped.",
-      "Within-pool duplicate dropped: CNET 'Meta glasses alternatives with snap-on batteries' and Android Authority 'HTC Vive Eagle US launch' are the same device — neither selected, but flagged so downstream stages never surface both.",
-      "History duplicate dropped: 9to5Mac 'iOS 27 beta 8 tests major Siri AI upgrade' restates the iOS 27 Siri overhaul already published 2026-08-30 (Engadget, gadgets-ios27-siri-app).",
-      "Adjacencies checked and cleared: Vision Pro hip surgery (Engadget) has no overlap with any published XR card (gadgets-meta-xr-operator 09-01 is a dev tool, gadgets-xreal-xr 08-29 is display glasses); Nvidia PAIR (Tom's Hardware) is distinct from gadgets-anthropic-hardware-standard 08-31 (device drivers, not GPU scheduling).",
-      "Surviving-but-unused ranked backups in order: Lenovo ThinkCentre X Ultra mini PC (Notebookcheck), Ugreen local AI home hubs (Engadget), Philips Hue founder on AI creativity (TechRadar), Roborock Rover stair-climbing hands-on (Tom's Guide), Steam Frame color passthrough module (Road to VR), Anker MindBase hub (MacRumors), Flowtica Verso e-paper AI companion (Android Authority)."
+      "History duplicate dropped: XDA 'Lenovo's new Yoga laptops go all-in on RTX Spark' is the same IFA release already published 2026-09-04 as gadgets-nvidia-rtx-spark-ai-pcs (WIRED) — same Yoga Pro 9n / Yoga 9n RTX Spark machines, different outlet.",
+      "Within-pool duplicates dropped (same Plaud One launch, three outlets): TechRadar Plaud interview and Notebookcheck 'Plaud One 4G LTE' dropped; Engadget kept as the strongest single article.",
+      "Within-pool duplicate dropped: Tom's Guide 'Anker just launched a ton of new products at IFA 2026 — including an AI-powered home hub' covers the same MindBase announcement as the selected Gizmodo piece; Gizmodo kept for the deeper hub detail. Engadget's Anker Eufy IFA piece is the same vendor's same-day IFA drop and was also set aside (content-hub rule).",
+      "Within-pool near-duplicate set aside: Gizmodo 'Ugreen MasterAgent $20,000 hub' and Notebookcheck 'Ugreen first smart speaker' are the same Ugreen IFA announcement; neither selected (would have doubled the smart-home-hub topic against Anker MindBase).",
+      "Roundups deprioritized rather than duplicated: TechRadar 'IFA Best in Show 25 reveals', Tom's Guide 'Best of IFA 26 gadgets' and TechRadar 'best headphones at IFA' aggregate stories already covered across 09-03/09-04 cards.",
+      "Adjacency checked and cleared: Engadget 'Roborock at IFA 2026' overlaps the vendor of gadgets-roborock-qrevo-2-pro (08-30) and was set aside; Minisforum N5/MS-S1 (Tom's Hardware) is a different vendor and product class from gadgets-framework-192gb-desktop (09-01) and from the RTX Spark machines (09-04), so it stays; 9to5Google 'Gemini overlay bubble' is an Android overlay UI change, distinct from gadgets-gemini-spark-google-photos (09-04) and gadgets-adreno-neural-fusion (09-03).",
+      "Spec-rumor item deprioritized per brief: 9to5Mac 'M6 MacBook Pro: three new upgrades this fall' is expectation-setting, not a shipped device.",
+      "Surviving-but-unused ranked backups in order: Gizmodo iRobot Roomba Duo concept, Android Authority Luna Band global shipping, Android Authority Ascentiz modular exoskeletons, Gizmodo Ugreen MasterAgent hub, XDA Acer Project DualPlay Mini, Notebookcheck Ugreen smart speaker."
     ]
   },
   "diversity": {
     "outlets": [
-      "WIRED",
+      "Gizmodo",
       "Tom's Hardware",
+      "Android Authority",
       "Engadget",
       "9to5Google"
     ],
-    "max_per_outlet": 2,
-    "distinct_outlets": 4,
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
     "topic_spread": [
-      "local-inference AI PCs / silicon",
-      "agentic AI compute orchestration software",
-      "industrial design: rollable display + fanless cooling",
-      "spatial computing in a regulated professional workflow",
-      "on-device agent driving a creative editing app"
+      "AI smart-home hub with on-device inference",
+      "local AI compute: NAS + mini workstation",
+      "modular AI wearable + privacy hardware",
+      "always-on capture wearable / meeting agent",
+      "mobile assistant interaction pattern"
     ]
   }
 }

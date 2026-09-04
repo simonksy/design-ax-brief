@@ -1,134 +1,102 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "science",
-  "count": 5,
-  "dedup": {
-    "checked_against": "news_data.json sections.science (today 2026-09-03 + days 2026-08-29..2026-09-02, 30 published cards)",
-    "dropped_as_duplicate": 0,
-    "note": "No candidate matched a published URL or story. Nearest checks: Google Research wearable-biomarker tool vs published GlucoFM (2026-08-30) — different paper, different framework, kept as distinct; Google Research fruit-fly connectome vs published MAPL-EMIT methane (2026-09-02) — same outlet, unrelated topics, kept. Diversity guard: 5 distinct outlets, no outlet used twice, 5 distinct sub-fields (weather/climate, connectomics, experimental physics, behavioral-science method, clinical AI regulation). Dropped within-pool near-duplicate: the two Quanta ICM/AI-era essays published six minutes apart were treated as one content-hub drop and neither made the final five."
-  },
-  "items": [
-    {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "Google DeepMind",
-      "published_iso": "2026-09-03T15:02:08+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
-      "excerpt": "DeepMind's new global weather model claims its most accurate forecasts yet, extending the run of AI systems that outperform physics-based numerical weather prediction at a fraction of the compute.",
-      "tool": "Science",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "The flagship AI weather model gets another generation, and each one further displaces physics-based NWP as the operational default for forecasting."
-    },
-    {
-      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-      "source": "Google Research",
-      "published_iso": "2026-09-03T16:00:03+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Male-Fruit-Fly-Brain-Map-hero.jpg",
-      "excerpt": "Google Research and collaborators completed a full synapse-level map of the male fruit fly brain, an AI-segmentation feat over petabytes of electron microscopy that gives neuroscience a second complete connectome to compare against.",
-      "tool": "Science",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "A second complete connectome turns single-specimen anatomy into comparative neuroscience, and it exists only because AI segmentation can now handle petabyte-scale microscopy."
-    },
-    {
-      "title": "AI suggests new physics experiments that could outperform human-designed setups",
-      "url": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-03T12:20:06-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-23.jpg",
-      "excerpt": "Researchers report an AI system that proposes experimental setups for probing the laws of nature, generating designs that beat human-devised configurations. It shifts AI from analyzing results to authoring the experiment itself.",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "AI moves upstream from analyzing data to designing the apparatus, and the machine-authored setups reportedly beat what physicists devised themselves."
-    },
-    {
-      "title": "AI agents aren't ready to replace humans in behavioral research",
-      "url": "https://www.sciencenews.org/article/ai-agents-replace-humans-research",
-      "source": "Science News",
-      "published_iso": "2026-09-03T15:30:00-04:00",
-      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090226_SG_digitaltwin_main.jpg",
-      "excerpt": "New work tests whether LLM 'silicon subjects' can stand in for human participants in behavioral studies, and finds the simulated populations diverge from real ones in ways that would corrupt findings.",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "rationale": "A direct, method-changing verdict on 'silicon subjects' — anyone tempted to run studies on synthetic participants now has measured failure modes to answer for."
-    },
-    {
-      "title": "FDA pilot offers generative AI medical devices a path to patients before they are authorized",
-      "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/",
-      "source": "STAT News",
-      "published_iso": "2026-09-03T08:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_1767433801-1024x576.jpeg",
-      "excerpt": "The FDA's new pilot would let generative-AI medical devices reach patients ahead of full authorization, a regulatory experiment that changes how fast clinical AI can move from lab to bedside.",
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "The regulatory gate, not the model, has been the bottleneck for clinical generative AI — an FDA pre-authorization path resets timelines for every group building one."
-    }
-  ],
   "picks": [
     {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "source": "Google DeepMind",
-      "published_iso": "2026-09-03T15:02:08+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
-      "excerpt": "DeepMind's new global weather model claims its most accurate forecasts yet, extending the run of AI systems that outperform physics-based numerical weather prediction at a fraction of the compute.",
+      "id": "science-small-molecule-atlas",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "The flagship AI weather model gets another generation, and each one further displaces physics-based NWP as the operational default for forecasting."
+      "category": "science",
+      "headline": "New AI tool maps the hidden universe of small molecules",
+      "url": "https://phys.org/news/2026-09-ai-tool-hidden-universe-small.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-04T21:00:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-maps-the-h.jpg",
+      "excerpt": "A new AI model charts the vast, largely uncatalogued space of small molecules, giving chemists and metabolomics researchers a way to identify compounds that current reference libraries miss.",
+      "rationale": "Freshest item in the pool and a concrete new tool: it extends compound identification beyond existing reference libraries, which directly changes how metabolomics work gets done."
     },
     {
-      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-      "source": "Google Research",
-      "published_iso": "2026-09-03T16:00:03+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Male-Fruit-Fly-Brain-Map-hero.jpg",
-      "excerpt": "Google Research and collaborators completed a full synapse-level map of the male fruit fly brain, an AI-segmentation feat over petabytes of electron microscopy that gives neuroscience a second complete connectome to compare against.",
+      "id": "science-ai2-hard-parts",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A second complete connectome turns single-specimen anatomy into comparative neuroscience, and it exists only because AI segmentation can now handle petabyte-scale microscopy."
+      "category": "science",
+      "headline": "The hard parts of AI-assisted science",
+      "url": "https://allenai.org/blog/swedish-autodiscovery-recap",
+      "source": "Ai2",
+      "published_iso": "2026-09-01T12:00:00Z",
+      "og_image": "https://www.datocms-assets.com/64837/1788227206-blogthumbnail-takeaways-1.jpg",
+      "excerpt": "Ai2 researchers lay out five unsolved problems in AI-assisted science: keeping agents steerable as a project evolves, deciding what to delegate, and stopping AI from amplifying methodological flaws.",
+      "rationale": "The most actionable piece here — a first-party list of where AI research agents actually break, usable as a checklist by anyone delegating work to them tomorrow."
     },
     {
-      "title": "AI suggests new physics experiments that could outperform human-designed setups",
-      "url": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-03T12:20:06-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-23.jpg",
-      "excerpt": "Researchers report an AI system that proposes experimental setups for probing the laws of nature, generating designs that beat human-devised configurations. It shifts AI from analyzing results to authoring the experiment itself.",
+      "id": "science-genomic-transfer-learning",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "AI moves upstream from analyzing data to designing the apparatus, and the machine-authored setups reportedly beat what physicists devised themselves."
+      "category": "science",
+      "headline": "Transfer learning for genomic prediction in underrepresented populations",
+      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "source": "Google Research",
+      "published_iso": "2026-09-03T18:20:31Z",
+      "og_image": "",
+      "excerpt": "Google Research describes a transfer-learning approach that carries polygenic prediction power from data-rich cohorts into populations that genomics studies have historically left out.",
+      "rationale": "A named method attacking the best-known equity failure in polygenic prediction; credible first-party writeup and distinct from the section's recent Google items."
     },
     {
-      "title": "AI agents aren't ready to replace humans in behavioral research",
-      "url": "https://www.sciencenews.org/article/ai-agents-replace-humans-research",
-      "source": "Science News",
-      "published_iso": "2026-09-03T15:30:00-04:00",
-      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090226_SG_digitaltwin_main.jpg",
-      "excerpt": "New work tests whether LLM 'silicon subjects' can stand in for human participants in behavioral studies, and finds the simulated populations diverge from real ones in ways that would corrupt findings.",
+      "id": "science-mammogram-ai-review",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A direct, method-changing verdict on 'silicon subjects' — anyone tempted to run studies on synthetic participants now has measured failure modes to answer for."
+      "category": "science",
+      "headline": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain",
+      "url": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-04T15:40:08Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-may-help-identify-b-1.jpg",
+      "excerpt": "A new evidence review finds AI readers do surface cancers human screeners miss, while cautioning that better detection has not yet been shown to translate into better patient outcomes.",
+      "rationale": "An evidence review, not another single-model claim: it separates detection gains from patient benefit, the distinction clinical AI coverage usually collapses."
     },
     {
-      "title": "FDA pilot offers generative AI medical devices a path to patients before they are authorized",
-      "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/",
-      "source": "STAT News",
-      "published_iso": "2026-09-03T08:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_1767433801-1024x576.jpeg",
-      "excerpt": "The FDA's new pilot would let generative-AI medical devices reach patients ahead of full authorization, a regulatory experiment that changes how fast clinical AI can move from lab to bedside.",
+      "id": "science-llm-attention-deficit",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "The regulatory gate, not the model, has been the bottleneck for clinical generative AI — an FDA pre-authorization path resets timelines for every group building one."
+      "category": "science",
+      "headline": "The Attention Deficit of AI Revealed",
+      "url": "https://www.psychologytoday.com/nz/blog/the-future-brain/202609/the-attention-deficit-of-ai-revealed",
+      "source": "Psychology Today",
+      "published_iso": "2026-09-03T13:15:02Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic15954_85.jpg?itok=MKguL9XJ",
+      "excerpt": "A PNAS Nexus study ran leading LLMs through the Stroop test and found they have limited executive control of attention — a gap the authors say is architectural, not just a memory problem.",
+      "rationale": "Classic cognitive-science instrument turned on frontier models, with a specific, falsifiable claim about architectural limits — adds the psychology axis the section lacked this week."
     }
-  ]
+  ],
+  "dedup_notes": {
+    "checked_against": "news_data.json sections.science (today 2026-09-04 + days 2026-08-30..2026-09-03, 30 cards)",
+    "content_dupes_dropped": [
+      "Quanta 'Live from ICM 2026' and Quanta 'In an Age of AI, a Physicist Seeks What Endures' — same outlet, same AI-and-the-craft-of-science framing published together; would have kept only one, but neither outscored the final five.",
+      "Physics World 'AI dominates ICBS Beijing' — overlaps the Quanta conference framing; dropped as the weaker of the two conference reports.",
+      "Google Research 'Planetary prediction engine / Earth AI' — distinct from the already-published MAPL-EMIT methane piece (2026-09-02), but dropped to keep the outlet cap at one Google Research card."
+    ],
+    "no_url_or_story_matches_published_history": true
+  },
+  "diversity_check": {
+    "outlet_families": {
+      "phys.org/techxplore/medicalxpress": 2,
+      "allenai.org": 1,
+      "research.google": 1,
+      "psychologytoday.com": 1
+    },
+    "distinct_outlet_families": 4,
+    "topics": [
+      "chemistry / metabolomics",
+      "AI research methodology",
+      "genomics",
+      "clinical imaging",
+      "cognitive science"
+    ]
+  },
+  "count": 5
 }

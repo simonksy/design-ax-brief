@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-nvidia-rtx-spark-ai-pcs",
+      "id": "gadgets-anker-mindbase-hub",
       "type": "image",
-      "src": "pipeline/media/gadgets-nvidia-rtx-spark-ai-pcs.jpg"
+      "src": "pipeline/media/gadgets-anker-mindbase-hub.jpg"
     },
     {
-      "id": "gadgets-nvidia-pair-gpu-cluster",
+      "id": "gadgets-minisforum-local-ai-boxes",
       "type": "image",
-      "src": "pipeline/media/gadgets-nvidia-pair-gpu-cluster.jpg"
+      "src": "pipeline/media/gadgets-minisforum-local-ai-boxes.jpg"
     },
     {
-      "id": "gadgets-lenovo-aeroblade-rollable",
+      "id": "gadgets-ikairos-modular-wearable",
       "type": "image",
-      "src": "pipeline/media/gadgets-lenovo-aeroblade-rollable.jpg"
+      "src": "pipeline/media/gadgets-ikairos-modular-wearable.jpg"
     },
     {
-      "id": "gadgets-vision-pro-hip-surgery",
+      "id": "gadgets-plaud-one-earbuds",
       "type": "image",
-      "src": "pipeline/media/gadgets-vision-pro-hip-surgery.jpg"
+      "src": "pipeline/media/gadgets-plaud-one-earbuds.jpg"
     },
     {
-      "id": "gadgets-gemini-spark-google-photos",
+      "id": "gadgets-gemini-overlay-bubble",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-spark-google-photos.jpg"
+      "src": "pipeline/media/gadgets-gemini-overlay-bubble.jpg"
     }
   ]
 }

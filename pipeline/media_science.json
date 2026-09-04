@@ -1,32 +1,11 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "science",
   "media": [
-    {
-      "id": "science-weathernext3",
-      "type": "video",
-      "src": "pipeline/media/science-weathernext3.mp4",
-      "poster": "pipeline/media/science-weathernext3.jpg"
-    },
-    {
-      "id": "science-male-fly-connectome",
-      "type": "image",
-      "src": "pipeline/media/science-male-fly-connectome.png"
-    },
-    {
-      "id": "science-ai-experiment-design",
-      "type": "image",
-      "src": "pipeline/media/science-ai-experiment-design.jpg"
-    },
-    {
-      "id": "science-silicon-subjects",
-      "type": "image",
-      "src": "pipeline/media/science-silicon-subjects.jpg"
-    },
-    {
-      "id": "science-fda-genai-pilot",
-      "type": "image",
-      "src": "pipeline/media/science-fda-genai-pilot.jpeg"
-    }
+    {"id": "science-small-molecule-atlas", "type": "image", "src": "pipeline/media/science-small-molecule-atlas.jpg"},
+    {"id": "science-ai2-hard-parts", "type": "image", "src": "pipeline/media/science-ai2-hard-parts.jpg"},
+    {"id": "science-genomic-transfer-learning", "type": "image", "src": "pipeline/media/science-genomic-transfer-learning.png"},
+    {"id": "science-mammogram-ai-review", "type": "image", "src": "pipeline/media/science-mammogram-ai-review.jpg"},
+    {"id": "science-llm-attention-deficit", "type": "image", "src": "pipeline/media/science-llm-attention-deficit.jpg"}
   ]
 }

@@ -1,118 +1,158 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "music",
-  "now_iso": "2026-09-03T22:00:00Z",
+  "now_iso": "2026-09-04T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.gearnews.com/producely-dialr-studio/",
-      "source": "Gearnews",
-      "category": "music",
-      "topic": "production_tools",
-      "title": "Producely Dialr: This Plugin Controller Maps with AI!",
-      "published_iso": "2026-09-03T12:29:23+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
-      "excerpt": "First shown at Superbooth25, the Producely Dialr hardware controller is now orderable: an AI-assisted mapping engine reads whatever plugin is in focus and assigns its most useful parameters to the knobs automatically, removing the MIDI-learn step from hands-on mixing and sound design."
+      "title": "Dreamtonics Completes Its Trilogy With Instrument X",
+      "headline": "Dreamtonics Completes Its Trilogy With Instrument X",
+      "url": "https://www.attackmagazine.com/news/dreamtonics-completes-its-trilogy-with-instrument-x/",
+      "source": "Attack Magazine",
+      "published_iso": "2026-09-02T13:23:20+00:00",
+      "excerpt": "Dreamtonics completes its trilogy with Instrument X, a neural acoustic modelling platform for orchestral instruments that swaps multi-gigabyte sample libraries for a trained model. It joins Synthesizer V and Vocoflex as the Tokyo company's third neural instrument.",
+      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/09/Attack-Mag-News-Feat-Images-INSTRUMENT-X.png",
+      "category": "music"
     },
     {
-      "url": "https://www.gearnews.com/audacity-update-free/",
-      "source": "Gearnews",
-      "category": "music",
-      "topic": "production_tools",
-      "title": "Audacity 4 Is Finally Here: The Biggest Update in the Editor's History",
-      "published_iso": "2026-09-03T16:43:29+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
-      "excerpt": "Audacity 4 ships a redesigned clip workflow, Workspaces and a full visual overhaul — and keeps the Intel OpenVINO AI toolset (music separation, noise suppression, transcription, music generation) plus new AI-powered podcast features inside a free, open-source editor."
+      "title": "FL Studio says GenAI can help people 'get into music-making'",
+      "headline": "FL Studio says GenAI can help people 'get into music-making'",
+      "url": "https://musically.com/2026/09/04/fl-studio-says-genai-can-help-people-get-into-music-making/",
+      "source": "Music Ally",
+      "published_iso": "2026-09-04T11:30:00+00:00",
+      "excerpt": "Generative-AI music tools can be a powerful funnel for bringing complete beginners into human music-making, according to the CEO and CTO of Image-Line, the company behind DAW FL Studio. They frame prompt tools as an on-ramp to the DAW rather than a replacement for it.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-04T120700.534.png?fit=2000%2C1500&ssl=1",
+      "category": "music"
     },
     {
-      "url": "https://cdm.link/elastic-melody-1-2/",
-      "source": "CDM Create Digital Music",
-      "category": "music",
-      "topic": "generative_music",
+      "title": "Songscription talks AI and music publishing: 'We need to work alongside the industry'",
+      "headline": "Songscription talks AI and music publishing: 'We need to work alongside the industry'",
+      "url": "https://musically.com/2026/09/04/songscription-talks-ai-and-music-publishing-we-need-to-work-alongside-the-industry/",
+      "source": "Music Ally",
+      "published_iso": "2026-09-04T05:30:00+00:00",
+      "excerpt": "Startup Songscription turns recordings into playable sheet music with automatic music transcription, and is now pitching that engine to publishers rather than around them. Its founders argue transcription AI is the cooperative end of the music-AI spectrum.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-13.49.55.png?fit=1057%2C528&ssl=1",
+      "category": "music"
+    },
+    {
+      "title": "Suno pulls unapproved Mary J. Blige ad campaign citing deception",
+      "headline": "Suno pulls unapproved Mary J. Blige ad campaign citing deception",
+      "url": "https://musically.com/2026/09/04/suno-pulls-unapproved-mary-j-blige-ad-campaign-citing-deception/",
+      "source": "Music Ally",
+      "published_iso": "2026-09-04T12:30:00+00:00",
+      "excerpt": "An ad campaign showing Mary J. Blige endorsing AI-music platform Suno was pulled within hours after it emerged she had not approved it. Suno blamed a marketing partner for the deception, in a week where its artist relations are already under scrutiny.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1",
+      "category": "music"
+    },
+    {
+      "title": "Accentize Chameleon wins Emmy Award",
+      "headline": "Accentize Chameleon wins Emmy Award",
+      "url": "https://www.soundonsound.com/news/accentize-chameleon-wins-emmy-award",
+      "source": "Sound On Sound",
+      "published_iso": "2026-09-04T18:00:46+01:00",
+      "excerpt": "Accentize has received an Engineering, Science & Technology Emmy Award for Chameleon, a plug-in that uses machine learning to automatically match the reverb characteristics of one recording to another. The tool has become a staple of dialogue post-production for film and TV.",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/accentize_chameleon-rrwNhEr7GV_o8hsYvn_lSKKTeYMAPqW6.jpg",
+      "category": "music"
+    },
+    {
+      "title": "The Three Tasks AI Can Take Off Every Artist's Plate",
+      "headline": "The Three Tasks AI Can Take Off Every Artist's Plate",
+      "url": "https://www.hypebot.com/the-three-tasks-ai-can-take-off-an-artists-plate/",
+      "source": "Hypebot",
+      "published_iso": "2026-09-04T15:11:40+00:00",
+      "excerpt": "The future of the music business is not human vs. machine — it's artists and pros building careers around automating the tasks that were never worth their time. The piece names three concrete workflow chores to hand over first.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/Screenshot-2026-09-03-at-2.35.44---PM.png",
+      "category": "music"
+    },
+    {
+      "title": "Is AI Slop Giving Artists and Creators a New Life?",
+      "headline": "Is AI Slop Giving Artists and Creators a New Life?",
+      "url": "https://www.hypebot.com/is-ai-slop-giving-artists-and-creators-a-new-life/",
+      "source": "Hypebot",
+      "published_iso": "2026-09-03T13:16:22+00:00",
+      "excerpt": "Growing fatigue with gen-AI content is renewing demand for human creativity, giving musicians an opening to build audience trust and attention. Scarcity of the visibly human is becoming a marketing asset.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-2-Tal-Gonen.jpg",
+      "category": "music"
+    },
+    {
+      "title": "SOCAN Sues Suno Over Alleged Copyright Infringement",
+      "headline": "SOCAN Sues Suno Over Alleged Copyright Infringement",
+      "url": "https://www.hypebot.com/socan-sues-suno-over-alleged-copyright-infringement/",
+      "source": "Hypebot",
+      "published_iso": "2026-09-03T16:06:42+00:00",
+      "excerpt": "Canadian rights organisation SOCAN has filed a copyright infringement suit against Suno in the Federal Court of Canada, identifying 150 Suno-generated tracks it says reproduce works in its repertoire. It is the first Canadian collecting-society action against a generative music platform.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-2-socan.jpg",
+      "category": "music"
+    },
+    {
+      "title": "Latest Suno lawsuit accuses AI company of violating the publicity rights of musicians rather than infringing their copyrights",
+      "headline": "Latest Suno lawsuit accuses AI company of violating the publicity rights of musicians rather than infringing their copyrights",
+      "url": "https://completemusicupdate.com/latest-suno-lawsuit-accuses-ai-company-of-violating-the-publicity-rights-of-musicians-rather-than-infringing-their-copyrights/",
+      "source": "CMU",
+      "published_iso": "2026-09-02T16:18:00+00:00",
+      "excerpt": "A group of musicians claim Suno violated their US publicity rights by 'encoding musicians' identities into its AI model' and then exploiting those identities by publicly using their names. It shifts the legal fight from training data to identity itself.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/suno-v-justice.png",
+      "category": "music"
+    },
+    {
+      "title": "Donald Trump's DoJ says OpenAI should be able to do whatever it wants with copyright protected works",
+      "headline": "Donald Trump's DoJ says OpenAI should be able to do whatever it wants with copyright protected works",
+      "url": "https://completemusicupdate.com/donald-trumps-doj-says-openai-should-be-able-to-do-whatever-it-wants-with-copyright-protected-works/",
+      "source": "CMU",
+      "published_iso": "2026-09-03T16:28:56+00:00",
+      "excerpt": "The US Department Of Justice has intervened in the New York Times v OpenAI case, arguing AI training is 'fair use' under American copyright law. Whether training is fair use sits at the centre of dozens of AI lawsuits, including those filed by the music industry.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/Trump-AI.png",
+      "category": "music"
+    },
+    {
+      "title": "The Sony and Warner music publishers finally get round to suing Anthropic",
+      "headline": "The Sony and Warner music publishers finally get round to suing Anthropic",
+      "url": "https://completemusicupdate.com/the-sony-and-warner-music-publishers-finally-get-round-to-suing-anthropic/",
+      "source": "CMU",
+      "published_iso": "2026-09-01T15:36:31+00:00",
+      "excerpt": "Sony and Warner's publishing arms have sued Anthropic for copyright infringement, naming founders Ben Mann and Dario Amodei as defendants over the alleged downloading of pirated sheet music and lyrics. Lyrics and notation are now explicitly in the training-data fight.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/1-1.png",
+      "category": "music"
+    },
+    {
       "title": "Elastic Melody now does bass and DFAM-style percussion, too (Mac, iOS)",
+      "headline": "Elastic Melody now does bass and DFAM-style percussion, too (Mac, iOS)",
+      "url": "https://cdm.link/elastic-melody-1-2/",
+      "source": "CDM",
       "published_iso": "2026-09-02T10:50:09+00:00",
+      "excerpt": "Elastic Melody was already a go-to generative melody maker for Mac, iPad and iPhone, with an Evolver-inspired synth engine and output to other apps or hardware. Version 1.2 adds Pitch and Filter Drive modes so it can also generate basslines and percussion.",
       "og_image": "https://cdm.link/app/uploads/2026/09/EM-DFAM-2.jpg",
-      "excerpt": "Elastic Melody, a generative melody engine for Mac, iPad and iPhone with an Evolver-inspired synth core, adds Pitch and Filter Drive modes so the same generative patterns can drive basslines and DFAM-style percussion — algorithmic composition as a working sketchpad, not a novelty."
+      "category": "music"
     },
     {
-      "url": "https://djmag.com/news/armin-van-buuren-and-laidback-luke-join-responsible-ai-music-company-moises-advisors",
-      "source": "DJ Mag",
-      "category": "music",
-      "topic": "music_ai_licensing",
-      "title": "Armin van Buuren and Laidback Luke join 'responsible' AI music company Moises as advisors",
-      "published_iso": "2026-09-03T13:27:41+01:00",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Armin%20%2B%20Luke%203.jpg.webp",
-      "excerpt": "Two headline DJ-producers have signed on as advisors to Moises, whose stem-separation, AI mixing/mastering and generative session-player tools are trained only on licensed and authorised content. The pair will steer how the toolset is shaped for working producers."
+      "title": "The sonible smart:chain Plugin is an Intelligent Mixing Ecosystem",
+      "headline": "The sonible smart:chain Plugin is an Intelligent Mixing Ecosystem",
+      "url": "https://www.gearnews.com/sonible-smartchain-studio/",
+      "source": "Gearnews",
+      "published_iso": "2026-08-26T12:00:00+02:00",
+      "excerpt": "With sonible smart:chain, the processing chain draws analysis from multiple instances across your DAW so each channel is shaped in the context of the whole mix. Seven processors share one AI analysis rather than each guessing in isolation.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-ft.jpg",
+      "category": "music"
     },
     {
-      "url": "https://musically.com/2026/09/01/alok-fans-get-personalised-music-video-with-headphone-purchases/",
-      "source": "Music Ally",
-      "category": "music",
-      "topic": "ai_music_video",
-      "title": "Alok fans get personalised music video with headphone purchases",
-      "published_iso": "2026-09-01T12:21:03+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
-      "excerpt": "Alok and agency Rise New York & Partners turned a headphone purchase into an AI-generated music video that is unique for every buyer — a production pipeline where the 'one video per release' assumption is replaced by per-fan rendering."
+      "title": "AI models can identify iconic jazz pianists based on their recordings, while also revealing their 'musical fingerprints'",
+      "headline": "AI models can identify iconic jazz pianists based on their recordings, while also revealing their 'musical fingerprints'",
+      "url": "https://www.musicradar.com/music-tech/ai-models-can-identify-iconic-jazz-pianists-based-on-their-recordings-while-also-revealing-their-musical-fingerprints",
+      "source": "MusicRadar",
+      "published_iso": "2026-08-25T10:09:21+00:00",
+      "excerpt": "Researchers trained models that can name the jazz pianist behind a performance and then show which rhythmic and harmonic habits gave them away. The authors say it could be used to suggest possible authors of unattributed recordings.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi-1200-80.jpg",
+      "category": "music"
     },
     {
-      "url": "https://musically.com/2026/08/25/ginas-pet-bangers-tiktok-soundon-ai-music/",
-      "source": "Music Ally",
-      "category": "music",
-      "topic": "creative_practice",
-      "title": "TikTok's SoundOn signs AI-assisted 'Gina's Pet Bangers' creator Gina Jones",
-      "published_iso": "2026-08-25T13:12:42+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/08/DSC_8879-scaled-e1787663500167.jpeg",
-      "excerpt": "TikTok's distribution arm has signed a creator whose songs are written by hand and finished with AI tools — a concrete case of where the line between 'AI-assisted' and 'AI-generated' actually sits in a working creator's process."
-    },
-    {
-      "url": "https://musically.com/2026/09/02/report-explores-ais-indies-impact-and-infrastructure-erosion/",
-      "source": "Music Ally",
-      "category": "music",
-      "topic": "industry",
-      "title": "Report explores AI's indies impact and infrastructure erosion",
-      "published_iso": "2026-09-02T12:30:00+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T121104.346.png",
-      "excerpt": "Research firm Stvdio and Secretly Distribution published a study of the independent sector, arguing that generative AI plus platform economics is eroding the infrastructure — studios, labels, distributors — that independent creative work depends on."
-    },
-    {
-      "url": "https://www.billboard.com/music/country/big-rich-new-song-hello-ai-premiere-1236325574/",
+      "title": "Billboard Affirms Commitment to Transparency Around AI-Generated Music",
+      "headline": "Billboard Affirms Commitment to Transparency Around AI-Generated Music",
+      "url": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/",
       "source": "Billboard",
-      "category": "music",
-      "topic": "creative_practice",
-      "title": "Big & Rich Take on Artificial Intelligence on Ominous New Song 'Hello AI'",
-      "published_iso": "2026-08-27T16:00:00+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2020/03/big-and-rich-2020-cr-Kristin-Barlowe-billboard-1548-1585686363.jpg",
-      "excerpt": "Rather than issuing a statement, country duo Big & Rich lodged their protest against AI as a song — 'Hello AI' — putting the argument about machine-made music inside the craft itself."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=lGvyrEkZ6ZU",
-      "source": "Suno (YouTube)",
-      "category": "music",
-      "topic": "generators_models",
-      "title": "Creating plugins in Suno Studio 2.0",
-      "published_iso": "2026-08-26T13:00:05+00:00",
-      "og_image": "https://i.ytimg.com/vi/lGvyrEkZ6ZU/maxresdefault.jpg",
-      "excerpt": "Suno's own walkthrough of building custom audio plugins from the chat bar inside Studio 2.0 — the vendor showing how a prompt becomes a signal-processing device in a working session."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=59rEQZmGF24",
-      "source": "Suno (YouTube)",
-      "category": "music",
-      "topic": "generators_models",
-      "title": "Audio Effects & Plugins in Suno Studio 2.0",
-      "published_iso": "2026-08-23T14:25:12+00:00",
-      "og_image": "https://i.ytimg.com/vi/59rEQZmGF24/maxresdefault.jpg",
-      "excerpt": "Hands-on tour of the factory effects chain — sidechain compression, convolution reverb, automation curves — that turns Suno's generative output into something mixable rather than a finished export."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=0BCdjqDURVg",
-      "source": "ElevenLabs (YouTube)",
-      "category": "music",
-      "topic": "generators_models",
-      "title": "ElevenLabs Changelog: Everything We Shipped This Month",
-      "published_iso": "2026-08-21T18:27:11+00:00",
-      "og_image": "https://i.ytimg.com/vi/0BCdjqDURVg/maxresdefault.jpg",
-      "excerpt": "ElevenLabs' monthly shipping roundup covering its music and audio model updates and creative-tool changes — a fast read on how quickly the generative audio stack is moving for creators."
+      "published_iso": "2026-08-25T14:15:00+00:00",
+      "excerpt": "Billboard has committed to identifying songs on its charts that were made with AI, setting out how it will flag AI involvement rather than exclude it outright. It puts a disclosure standard on the industry's most-watched scoreboard.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/01/Billboard-logo-BB-placeholder-1548.jpg?w=1024",
+      "category": "music"
     }
   ]
 }

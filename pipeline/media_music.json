@@ -1,30 +1,11 @@
 {
+  "date": "2026-09-05",
+  "section": "music",
   "media": [
-    {
-      "id": "music-audacity4-release",
-      "type": "image",
-      "src": "pipeline/media/music-audacity4-release.jpg"
-    },
-    {
-      "id": "music-producely-dialr",
-      "type": "image",
-      "src": "pipeline/media/music-producely-dialr.jpg"
-    },
-    {
-      "id": "music-suno-studio2-plugins",
-      "type": "video",
-      "src": "pipeline/media/music-suno-studio2-plugins.mp4",
-      "poster": "pipeline/media/music-suno-studio2-plugins.jpg"
-    },
-    {
-      "id": "music-moises-advisors",
-      "type": "image",
-      "src": "pipeline/media/music-moises-advisors.webp"
-    },
-    {
-      "id": "music-alok-personalised-mv",
-      "type": "image",
-      "src": "pipeline/media/music-alok-personalised-mv.jpg"
-    }
+    {"id": "music-dreamtonics-instrument-x", "type": "video", "src": "pipeline/media/music-dreamtonics-instrument-x.mp4", "poster": "pipeline/media/music-dreamtonics-instrument-x.jpg"},
+    {"id": "music-sonible-smart-chain", "type": "video", "src": "pipeline/media/music-sonible-smart-chain.mp4", "poster": "pipeline/media/music-sonible-smart-chain.jpg"},
+    {"id": "music-accentize-chameleon-emmy", "type": "image", "src": "pipeline/media/music-accentize-chameleon-emmy.jpg"},
+    {"id": "music-songscription-publishing", "type": "video", "src": "pipeline/media/music-songscription-publishing.mp4", "poster": "pipeline/media/music-songscription-publishing.jpg"},
+    {"id": "music-socan-sues-suno", "type": "image", "src": "pipeline/media/music-socan-sues-suno.jpg"}
   ]
 }

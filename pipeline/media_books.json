@@ -1,32 +1,30 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "section": "books",
   "media": [
     {
-      "id": "books-decoy-font",
+      "id": "books-u-s-department-justice-files",
       "type": "image",
-      "src": "pipeline/media/books-decoy-font.jpg"
+      "src": "pipeline/media/books-u-s-department-justice-files.png"
     },
     {
-      "id": "books-pangram-trust",
+      "id": "books-anthropic-copyright-settlement-publishers-making",
       "type": "image",
-      "src": "pipeline/media/books-pangram-trust.jpg"
+      "src": "pipeline/media/books-anthropic-copyright-settlement-publishers-making.jpg"
     },
     {
-      "id": "books-1653-cipher",
-      "type": "image",
-      "src": "pipeline/media/books-1653-cipher.png"
+      "id": "books-google-rolls-out-ai-chatbots",
+      "type": "svg"
     },
     {
-      "id": "books-wandering-taste",
+      "id": "books-ai-ghosts-contaminating-academic-publishing",
       "type": "image",
-      "src": "pipeline/media/books-wandering-taste.png"
+      "src": "pipeline/media/books-ai-ghosts-contaminating-academic-publishing.jpg"
     },
     {
-      "id": "books-author-solar-sail",
-      "type": "video",
-      "src": "pipeline/media/books-author-solar-sail.mp4",
-      "poster": "pipeline/media/books-author-solar-sail.jpg"
+      "id": "books-top-wsj-editor-approves-ai",
+      "type": "image",
+      "src": "pipeline/media/books-top-wsj-editor-approves-ai.jpg"
     }
   ]
 }
