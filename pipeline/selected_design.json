@@ -1,77 +1,68 @@
 {
-  "date": "2026-09-05",
   "section": "design",
-  "picks": [
+  "date": "2026-09-06",
+  "user_selection": "none — curator auto-picked (user deferred)",
+  "dropped_duplicates": [
     {
-      "tool": "KeyShot",
-      "category": "render",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "headline": "ArmorPaint 1.0 is out after eight years in early access",
-      "url": "https://www.cgchannel.com/2026/09/armorpaint-1-0-is-out-after-eight-years-in-early-access/",
-      "source": "CG Channel",
-      "published_iso": "2026-09-04T17:03:11+00:00",
-      "og_image": null,
-      "excerpt": "The first 'official' release of the popular open-source 3D texture painting app is ready to download, arriving eight years after it entered early access.",
-      "rationale": "A real 1.0 milestone for the main open-source alternative to Substance Painter — a tool decision a 3D/product team can act on immediately.",
-      "id": "design-armorpaint-1-0-out-after"
-    },
-    {
-      "tool": "Social",
-      "category": "social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "headline": "Figma Motion basics: Time-stamped comments",
-      "url": "https://www.youtube.com/watch?v=xI4tglaE5GA",
-      "source": "Figma (YouTube)",
-      "published_iso": "2026-09-02T15:00:26Z",
-      "og_image": "https://i.ytimg.com/vi/xI4tglaE5GA/maxresdefault.jpg",
-      "excerpt": "A short walkthrough of time-stamped comments in Figma Motion, which tie feedback to specific moments in an animation instead of the whole file.",
-      "rationale": "First-party Figma Motion workflow feature that changes how animation review feedback is given tomorrow morning.",
-      "id": "design-figma-motion-basics-time-stamped"
-    },
-    {
-      "tool": "Design Tokens",
-      "category": "tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "headline": "Auto-syncing Tailwind config from Figma variables on every pull request",
-      "url": "https://dev.to/alexandersstudi/auto-syncing-tailwind-config-from-figma-variables-on-every-pull-request-4hg9",
-      "source": "DEV Community",
-      "published_iso": "2026-09-02T16:30:47Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo02vn2ie7a8xrtuwtenm.png",
-      "excerpt": "After a merge conflict broke staging, the author wired Figma variables straight into the Tailwind config so every pull request regenerates design tokens automatically.",
-      "rationale": "Concrete CI recipe for keeping Figma variables and Tailwind tokens in one source of truth — copyable by any design-system team.",
-      "id": "design-auto-syncing-tailwind-config-from"
-    },
-    {
-      "tool": "Figma",
-      "category": "figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "headline": "Parker only went and made those viral anti-AI pen billboards real",
-      "url": "https://www.creativebloq.com/design/advertising/parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real",
-      "source": "Creative Bloq",
-      "published_iso": "2026-09-04T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Jj94UaRhKysYSDUgGK7i7S-1920-80.jpg",
-      "excerpt": "Designer-submitted anti-AI concepts for Parker pens, which went viral online, have been turned into real Times Square advertising.",
-      "rationale": "A designer's spec concept going from viral post to bought Times Square media — a live case for how brands are now sourcing anti-AI positioning.",
-      "id": "design-parker-only-went-made-those"
-    },
-    {
-      "tool": "AI Workflow",
-      "category": "workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "headline": "Why does AI-generated food look like that?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "source": "The Verge",
-      "published_iso": "2026-09-04T11:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Worms, holes, and cracks reveal the technical weaknesses of image generators - a close read of why AI food imagery keeps failing in the same visual ways.",
-      "rationale": "Names the repeatable failure modes of image generators so art directors know exactly what to reject and re-prompt for.",
-      "id": "design-why-does-ai-generated-food"
+      "url": "https://www.creativebloq.com/art/digital-art/artstation-is-finally-taking-action-against-ai-art-but-theres-one-question-it-doesnt-want-to-answer",
+      "reason": "same story already published in design/days/2026-09-04 as design-artstation-noai-default (80.lv) — ArtStation's NoAI-by-default + crawler-block policy"
     }
   ],
-  "count": 5
+  "picks": [
+    {
+      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
+      "source": "UX Collective (uxdesign.cc)",
+      "published_iso": "2026-09-02T22:13:30Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png",
+      "excerpt": "How agentic interfaces are changing what designers control: the agentic canvas now pulls context from across tools into one place and acts on it without step-by-step instructions.",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "에이전틱 캔버스가 디자이너의 통제권을 어떻게 재편하는지 짚은 신선한 관점 — 툴을 넘나드는 AI 워크플로가 이미 와 있다는 신호."
+    },
+    {
+      "url": "https://www.creativebloq.com/ai/meet-lamp-an-alive-pixar-like-robot-that-watches-your-posture-remembers-strangers-faces-and-answers-your-emails",
+      "source": "Creative Bloq",
+      "published_iso": "2026-09-03T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6-2560-80.jpg",
+      "excerpt": "Meet Lamp, an \"alive\" Pixar-like desk robot with character design and embodied AI that watches posture, remembers faces, and answers emails -- raising the question of whether this is the future of embodied assistants.",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "rationale": "캐릭터 디자인과 임베디드 AI가 결합한 신제품 사례 — 피지컬 AI 시대에 디자이너가 참고할 만한 새로운 표현 레퍼런스."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "source": "NVIDIA Blog",
+      "published_iso": "2026-09-03T16:00:59Z",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+      "excerpt": "At IFA 2026, NVIDIA highlighted local AI tools including CyberLink PhotoDirector's AI PC Mode, which runs generative editing, background replacement, and portrait refinement locally on RTX Spark hardware without cloud token limits.",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "로컬 RTX 하드웨어에서 도는 생성형 편집 — 클라우드 토큰 제한 없이 바로 실무에 붙일 수 있는 변화."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7q3spdQlZLA",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "published_iso": "2026-09-03T20:09:41Z",
+      "og_image": "https://i.ytimg.com/vi/7q3spdQlZLA/maxresdefault.jpg",
+      "excerpt": "Adobe demos Dynamic Text in Photoshop, which automatically adjusts placed text layers' space and structure as content changes, built from customer feedback.",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "rationale": "내용이 바뀔 때마다 텍스트 레이아웃을 자동으로 맞춰주는 포토샵 신기능 — 반복 작업 시간을 바로 줄여준다."
+    },
+    {
+      "url": "https://www.fastcompany.com/91599906/worried-your-writing-sounds-like-ai-these-tools-can-help",
+      "source": "Fast Company",
+      "published_iso": "2026-09-03T15:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91599906-ai-style-finding-tools.jpg",
+      "excerpt": "As AI-generated writing floods LinkedIn, Substack, and even medical papers, a new crop of tools promises to help writers find and fix the AI \"tells\" in their own style and workflow.",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "AI 티가 나는 글쓰기를 잡아내는 새 도구들 — 카피와 콘텐츠 제작 워크플로에 새로 낀 체크포인트."
+    }
+  ]
 }

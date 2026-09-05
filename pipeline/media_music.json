@@ -1,11 +1,25 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "music",
   "media": [
-    {"id": "music-dreamtonics-instrument-x", "type": "video", "src": "pipeline/media/music-dreamtonics-instrument-x.mp4", "poster": "pipeline/media/music-dreamtonics-instrument-x.jpg"},
-    {"id": "music-sonible-smart-chain", "type": "video", "src": "pipeline/media/music-sonible-smart-chain.mp4", "poster": "pipeline/media/music-sonible-smart-chain.jpg"},
-    {"id": "music-accentize-chameleon-emmy", "type": "image", "src": "pipeline/media/music-accentize-chameleon-emmy.jpg"},
-    {"id": "music-songscription-publishing", "type": "video", "src": "pipeline/media/music-songscription-publishing.mp4", "poster": "pipeline/media/music-songscription-publishing.jpg"},
-    {"id": "music-socan-sues-suno", "type": "image", "src": "pipeline/media/music-socan-sues-suno.jpg"}
+    {
+      "id": "music-google-lyria-3-5",
+      "type": "image",
+      "src": "pipeline/media/music-google-lyria-3-5.png"
+    },
+    {
+      "id": "music-aria-bans-ai-charts",
+      "type": "image",
+      "src": "pipeline/media/music-aria-bans-ai-charts.jpg"
+    },
+    {
+      "id": "music-billboard-ai-transparency",
+      "type": "svg"
+    },
+    {
+      "id": "music-fl-studio-genai-onramp",
+      "type": "image",
+      "src": "pipeline/media/music-fl-studio-genai-onramp.png"
+    }
   ]
 }

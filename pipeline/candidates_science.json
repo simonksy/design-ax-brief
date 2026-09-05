@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "science",
-  "now_iso": "2026-09-04T22:00:00Z",
+  "now_iso": "2026-09-05T22:00:50Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-09-ai-tool-hidden-universe-small.html",
+      "url": "https://phys.org/news/2026-09-ai-driven-polymer-discovery-years.html",
       "source": "Phys.org",
       "category": "science",
-      "headline": "New AI tool maps the hidden universe of small molecules",
-      "published_iso": "2026-09-04T21:00:01Z",
-      "excerpt": "A new AI model charts the vast, largely uncatalogued space of small molecules, giving chemists and metabolomics researchers a way to identify compounds that current reference libraries miss.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-maps-the-h.jpg"
+      "headline": "AI-driven polymer discovery could replace years of trial and error with closed-loop testing",
+      "published_iso": "2026-09-04T13:40:03Z",
+      "excerpt": "Researchers propose a closed-loop polymer-discovery ecosystem that links databases, predictive models, AI agents, simulations and automated labs to compress years of trial-and-error materials work into much faster cycles.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/empowering-polymeric-m.jpg"
     },
     {
-      "url": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
+      "url": "https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html",
       "source": "Phys.org",
       "category": "science",
-      "headline": "PACMAN AI framework for controlling fusion systems safely makes key decisions in milliseconds",
-      "published_iso": "2026-09-02T21:00:08Z",
-      "excerpt": "Researchers built PACMAN, an AI control framework that makes fusion plasma control decisions in milliseconds while staying inside hard safety limits, a step toward autonomous tokamak operation.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/pacman-ai-framework-fo.jpg"
+      "headline": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
+      "published_iso": "2026-09-01T21:00:07Z",
+      "excerpt": "Scientists from St. Jude, the University of Pavia, Dana-Farber and Harvard unveiled AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules at roughly 1,000-fold lower computational cost than existing ultra-large screening methods.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-informed-adaptivefl-1.jpg"
     },
     {
       "url": "https://phys.org/news/2026-09-hot-subdwarfs-focus-ai-scans.html",
@@ -28,80 +28,8 @@
       "category": "science",
       "headline": "Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data",
       "published_iso": "2026-09-03T20:40:05Z",
-      "excerpt": "A machine-learning pipeline sifted Gaia's catalogue to pull thousands of hot subdwarf stars out of the noise, sharply expanding a sample that had been painstakingly assembled by hand.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-165-m-telescope-at.jpg"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-ai-hidden-patterns-testable-scientific.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "headline": "Explainable AI could help turn hidden data patterns into testable scientific hypotheses",
-      "published_iso": "2026-09-02T16:40:01Z",
-      "excerpt": "Researchers argue that explainable-AI methods can be repurposed as a discovery engine: instead of only justifying predictions, the explanations become candidate hypotheses scientists can go and test in the lab.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/explainable-ai-could-h.jpg"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-adding-detector-ai-optimize.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "headline": "Adding a 'doubt detector' helps AI optimize experiments with 40% fewer tests",
-      "published_iso": "2026-09-02T13:40:03Z",
-      "excerpt": "Giving an experiment-planning AI an explicit measure of its own uncertainty cut the number of physical tests needed to reach an optimum by about 40%, a direct win for self-driving labs.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-capable-of-doubt.jpg"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-brain-patterns-sharpen-llm-deductive.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "headline": "Brain activity patterns could help sharpen LLM deductive reasoning",
-      "published_iso": "2026-09-03T11:20:09Z",
-      "excerpt": "A team used human brain-activity recordings during deductive reasoning tasks as a training signal, nudging large language models toward more human-like inference.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/could-human-brain-acti.jpg"
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "headline": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain",
-      "published_iso": "2026-09-04T15:40:08Z",
-      "excerpt": "A new evidence review finds AI readers do surface cancers human screeners miss, while cautioning that better detection has not yet been shown to translate into better patient outcomes.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-may-help-identify-b-1.jpg"
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-09-ai-results-icu-mortality.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "headline": "AI models show promising results in ICU mortality predictions",
-      "published_iso": "2026-09-04T13:20:01Z",
-      "excerpt": "Machine-learning models trained on intensive-care records outperformed the standard severity scores clinicians rely on for predicting ICU mortality.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-show-promisi.jpg"
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-09-people-affected-cancer-stronger-voice.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "headline": "People affected by cancer need a stronger voice in shaping generative AI for oncology, review finds",
-      "published_iso": "2026-09-04T21:20:01Z",
-      "excerpt": "A scoping review of 2,441 records found only 32 studies that asked cancer patients, survivors and caregivers how they feel about generative AI in their care, published in the European Journal of Cancer.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-for-patients.jpg"
-    },
-    {
-      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-      "source": "Google Research",
-      "category": "science",
-      "headline": "Transfer learning for genomic prediction in underrepresented populations",
-      "published_iso": "2026-09-03T18:20:31Z",
-      "excerpt": "Google Research describes a transfer-learning approach that carries polygenic prediction power from data-rich cohorts into populations that genomics studies have historically left out.",
-      "og_image": ""
-    },
-    {
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-      "source": "Google Research",
-      "category": "science",
-      "headline": "Planetary prediction engine: Automating global models via Earth AI",
-      "published_iso": "2026-08-27T17:37:00Z",
-      "excerpt": "Google's Earth AI stack automates the construction of global geospatial models, letting researchers stand up planet-scale predictions of environmental variables without hand-built pipelines.",
-      "og_image": ""
+      "excerpt": "A new project that began this September uses AI to scan thousands of stars in Gaia's catalogue to identify rare hot subdwarf stars, with the effort set to expand sharply once Gaia DR4 is released in December.",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/the-165-m-telescope-at.jpg"
     },
     {
       "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
@@ -109,7 +37,7 @@
       "category": "science",
       "headline": "Live from ICM 2026: What Is Math For in the Age of AI?",
       "published_iso": "2026-09-03T13:41:48Z",
-      "excerpt": "A live recording from the International Congress of Mathematicians asks what mathematicians actually value about doing mathematics, now that AI systems can produce proofs.",
+      "excerpt": "A live recording from the International Congress of Mathematicians examines what mathematicians value about doing math as AI systems increasingly generate proofs and tackle open problems.",
       "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg"
     },
     {
@@ -118,53 +46,26 @@
       "category": "science",
       "headline": "In an Age of AI, a Physicist Seeks What Endures",
       "published_iso": "2026-09-03T13:35:59Z",
-      "excerpt": "Yale physics chair Sarah Demers on where large language models can genuinely help particle physics and where she thinks they erode the craft of the field.",
+      "excerpt": "Yale physicist Sarah Demers, who is drafting an American Physical Society policy statement on AI, weighs the technology's risks against emerging benefits, including an AI system that helps control the Mu2e experiment's search for a rare muon-to-electron transformation.",
       "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Social.jpg"
     },
     {
-      "url": "https://physicsworld.com/a/ai-dominates-the-4th-international-congress-of-basic-science-in-beijing/",
-      "source": "Physics World",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review",
       "category": "science",
-      "headline": "AI dominates the 4th International Congress of Basic Science in Beijing",
-      "published_iso": "2026-09-02T11:00:45Z",
-      "excerpt": "Subir Sarkar reports from Beijing, where AI was the dominant theme among more than 800 delegates debating how machine learning is reshaping basic physics, math and life science.",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/ICBS-posters-lo-res.jpg"
+      "headline": "How AI plotted an interstellar journey to Alpha Centauri",
+      "published_iso": "2026-09-01T19:10:36Z",
+      "excerpt": "Physical Superintelligence, a new AI physics research lab, used its network of 'virtual physicists' to validate and identify a more efficient trajectory for the Fermi Explorer Mission's planned 2029 probe to Earth's nearest star system.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600"
     },
     {
-      "url": "https://physicsworld.com/a/improved-qleds-with-machine-learning/",
-      "source": "Physics World",
-      "category": "science",
-      "headline": "Improved QLEDs with machine learning",
-      "published_iso": "2026-08-26T07:00:28Z",
-      "excerpt": "Machine learning identified solvent formulations that produce highly homogeneous quantum-dot films, improving QLED performance without trial-and-error chemistry.",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg"
-    },
-    {
-      "url": "https://www.psychologytoday.com/nz/blog/the-future-brain/202609/the-attention-deficit-of-ai-revealed",
+      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202608/brain-computer-interface-aligns-better-with-humans-via-ai",
       "source": "Psychology Today",
       "category": "science",
-      "headline": "The Attention Deficit of AI Revealed",
-      "published_iso": "2026-09-03T13:15:02Z",
-      "excerpt": "A PNAS Nexus study ran leading LLMs through the Stroop test and found they have limited executive control of attention — a gap the authors say is architectural, not just a memory problem.",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic15954_85.jpg?itok=MKguL9XJ"
-    },
-    {
-      "url": "https://allenai.org/blog/swedish-autodiscovery-recap",
-      "source": "Ai2",
-      "category": "science",
-      "headline": "The hard parts of AI-assisted science",
-      "published_iso": "2026-09-01T12:00:00Z",
-      "excerpt": "Ai2 researchers lay out five unsolved problems in AI-assisted science: keeping agents steerable as a project evolves, deciding what to delegate, and stopping AI from amplifying methodological flaws.",
-      "og_image": "https://www.datocms-assets.com/64837/1788227206-blogthumbnail-takeaways-1.jpg"
-    },
-    {
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "source": "Google DeepMind",
-      "category": "science",
-      "headline": "Piloting the world's first double-blind AI evaluations",
-      "published_iso": "2026-08-27T14:00:00Z",
-      "excerpt": "DeepMind describes a pilot bringing double-blind methodology — long standard in clinical and behavioural science — to AI model evaluation, so neither evaluators nor developers know which system they are scoring.",
-      "og_image": ""
+      "headline": "Brain-Computer Interface Aligns Better with Humans via AI",
+      "published_iso": "2026-08-31T21:47:56Z",
+      "excerpt": "New research shows that combining human motor learning with AI improves brain-computer interface calibration and performance, offering hope for people who have lost the ability to move or speak.",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-08/pic15u15.jpg?itok=8GIcLtKn"
     }
   ]
 }

@@ -1,170 +1,161 @@
 {
- "date": "2026-09-05",
- "section": "movies",
- "now_iso": "2026-09-04T22:00:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "url": "https://variety.com/2026/tv/news/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
-   "source": "Variety",
-   "category": "movies",
-   "headline": "Tamar AI's TapNow Brings AI-Native Filmmaking to Venice Production Bridge With HappyHorse-Backed 10,000 Parallel Universes Films, Unveils Streamer Glanze",
-   "published_iso": "2026-09-04T08:40:43+00:00",
-   "excerpt": "TapNow, HappyHorse and Glanze head to the Venice Production Bridge as Palo Alto's Tamar AI bets its AI-native 'creative operating system' can turn small teams into global studios. The web version of streamer Glanze launched Sept. 4 with 40-plus series.",
-   "og_image": "https://variety.com/wp-content/uploads/2026/08/Key-visual-for-TapNow-AI-Screening-on-VPB.jpg?w=1000&h=563&crop=1"
-  },
-  {
-   "url": "https://variety.com/2026/film/asia/google-deepmind-amazon-web-services-busan-market-innoasia-1236843573/",
-   "source": "Variety",
-   "category": "movies",
-   "headline": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia",
-   "published_iso": "2026-08-26T07:00:20+00:00",
-   "excerpt": "Busan's Asian Contents & Film Market unveiled its InnoAsia lineup, pairing global AI tech firms with seven Korean startups plus a branded-film contest with Hanwha and Innocean.",
-   "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1"
-  },
-  {
-   "url": "https://beforesandafters.com/2026/09/01/nikola-todorovic-on-the-latest-developments-in-autodesks-flow-studio/",
-   "source": "befores & afters",
-   "category": "movies",
-   "headline": "Nikola Todorovic on the latest developments in Autodesk's Flow Studio",
-   "published_iso": "2026-09-01T11:50:50+00:00",
-   "excerpt": "How Flow Studio's new 3D Editor + Canvas works: interactive 3D scene construction married to generative 2D video models, so prompt-based images gain real camera and blocking control.",
-   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg"
-  },
-  {
-   "url": "https://beforesandafters.com/2026/08/27/one-of-the-new-categories-at-the-ves-awards-is-outstanding-in-camera-effects-in-a-photoreal-project/",
-   "source": "befores & afters",
-   "category": "movies",
-   "headline": "One of the new categories at the VES Awards is 'Outstanding In-Camera Effects in a Photoreal Project'",
-   "published_iso": "2026-08-26T16:01:53+00:00",
-   "excerpt": "The Visual Effects Society announced new categories and rule updates for the VES Awards, including a category that singles out effects achieved in camera rather than generated in post.",
-   "og_image": "https://beforesandafters.com/wp-content/uploads/2025/01/53546041416_ea0b102178_o.jpg"
-  },
-  {
-   "url": "https://nofilmschool.com/eddie-ai-agent-marketplace",
-   "source": "No Film School",
-   "category": "movies",
-   "headline": "Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers",
-   "published_iso": "2026-09-02T20:55:01+00:00",
-   "excerpt": "Eddie AI's new Agent Marketplace offers editing agents modeled on the sensibilities of well-known filmmakers, letting editors run a cut past a Nolan-flavored assistant.",
-   "og_image": "https://nofilmschool.com/media-library/image.png?id=67720010&width=1200&height=600&coordinates=0%2C20%2C0%2C20"
-  },
-  {
-   "url": "https://nofilmschool.com/eddie-ai-updates-pricing",
-   "source": "No Film School",
-   "category": "movies",
-   "headline": "You Can Now Run Eddie AI as an MCP Server, Unlocking Pay-As-You-Go Use for AI Assistant Editing",
-   "published_iso": "2026-08-27T22:28:07+00:00",
-   "excerpt": "Eddie AI now runs as an MCP server with pay-as-you-go pricing, so editors can drive assistant edits from inside Claude or ChatGPT instead of a separate app.",
-   "og_image": "https://nofilmschool.com/media-library/image.png?id=67686247&width=1200&height=600&coordinates=0%2C111%2C0%2C111"
-  },
-  {
-   "url": "https://www.redsharknews.com/caira-generative-video-editing-gemini-runway-aleph",
-   "source": "RedShark News",
-   "category": "movies",
-   "headline": "Caira gets AI generative video editing feature",
-   "published_iso": "2026-09-02T16:23:37+00:00",
-   "excerpt": "Camera Intelligence's Caira camera adds Gemini Omni and Runway Aleph-powered generative editing, letting shooters relight, reframe and extend footage they have already captured.",
-   "og_image": "https://www.redsharknews.com/hubfs/Caira%20Camera.jpg"
-  },
-  {
-   "url": "https://postperspective.com/editshare-to-update-efs-flow-ai-and-mediasilo-at-ibc/",
-   "source": "postPerspective",
-   "category": "movies",
-   "headline": "EditShare Updates at IBC Include EFS, Flow AI and MediaSilo",
-   "published_iso": "2026-08-25T19:26:18+00:00",
-   "excerpt": "EditShare brings GPU-powered Flow AI processing into its storage nodes at IBC 2026, with multilingual transcription expanding to 13 languages.",
-   "og_image": "https://postperspective.com/wp-content/uploads/2026/08/EditShare.jpg"
-  },
-  {
-   "url": "https://postperspective.com/astro-burn-game-expands-into-animated-vertical-microseries/",
-   "source": "postPerspective",
-   "category": "movies",
-   "headline": "Astro Burn Game Expands Into Animated Vertical Microseries",
-   "published_iso": "2026-08-27T13:56:04+00:00",
-   "excerpt": "HaZ Dulull and Nura Studios turn an indie game into ten one-minute vertical episodes, a case study in how AI-assisted production opens transmedia routes for small teams.",
-   "og_image": "https://postperspective.com/wp-content/uploads/2026/08/astro-burn-series-landscape-promo.jpg"
-  },
-  {
-   "url": "https://deadline.com/2026/09/danny-boyle-journalism-truth-power-ai-venice-1237065313/",
-   "source": "Deadline",
-   "category": "movies",
-   "headline": "Danny Boyle Voices Fears For Journalism & Speaking Truth To Power In Age Of AI As 'Ink' Debuts In Venice",
-   "published_iso": "2026-09-02T13:35:51+00:00",
-   "excerpt": "Premiering 'Ink' in Venice, Danny Boyle warned about what generative AI does to the making and trusting of images and reporting: 'It's insane what we're doing.'",
-   "og_image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293157592.jpg?w=1024"
-  },
-  {
-   "url": "https://www.fxguide.com/fxpodcasts/crafty-apes-ceo-alana-newell/",
-   "source": "fxguide",
-   "category": "movies",
-   "headline": "Crafty Apes CEO Alana Newell",
-   "published_iso": "2026-08-31T16:27:25+00:00",
-   "excerpt": "From compositor to CEO: Alana Newell on where Crafty Apes is heading as VFX pipelines absorb new tooling and studios rethink how shots get made.",
-   "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-craftyApes.jpg"
-  },
-  {
-   "url": "https://www.fxguide.com/quicktakes/congrats-to-the-engineering-science-technology-emmy-award-winners/",
-   "source": "fxguide",
-   "category": "movies",
-   "headline": "Congrats to the Engineering, Science & Technology Emmy Award Winners",
-   "published_iso": "2026-09-04T14:42:14-05:00",
-   "excerpt": "The Television Academy and NATAS named the 2026 Emmy Awards for engineering, science and technology, honouring the production tech that quietly reshapes how shows get finished.",
-   "og_image": "https://www.fxguide.com/wp-content/uploads/2020/07/emmys_2020.jpg"
-  },
-  {
-   "url": "https://80.lv/articles/over-500-free-maya-animation-tools-are-now-available-in-one-place/",
-   "source": "80 Level",
-   "category": "movies",
-   "headline": "Over 500 Free Maya Animation Tools Are Now Available In One Place",
-   "published_iso": "2026-09-04T13:55:00+00:00",
-   "excerpt": "Animo v10.0 collects more than 500 free Maya animation tools into a single library, putting a large chunk of the animator's daily toolkit behind one install.",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50051/images/6a9acdecbbc72/contain_1200x630.jpg"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=c2yCePPnrSA",
-   "source": "Runway",
-   "category": "movies",
-   "headline": "Introducing Solaris, our first Interface World Model",
-   "published_iso": "2026-08-31T16:36:02+00:00",
-   "excerpt": "Runway unveils Solaris, an 'interface world model' that generates interactive interfaces frame by frame — a generative system aimed at software surfaces rather than shots.",
-   "og_image": "https://i.ytimg.com/vi/c2yCePPnrSA/maxresdefault.jpg"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=fE59FYMIttQ",
-   "source": "Runway",
-   "category": "movies",
-   "headline": "Full Metal Lunchbox | Runway",
-   "published_iso": "2026-09-04T13:37:35+00:00",
-   "excerpt": "A Runway-made short about broccoli gone AWOL — a showcase reel of what the current generation of the toolset can hold together across a full comedic narrative.",
-   "og_image": "https://i.ytimg.com/vi/fE59FYMIttQ/maxresdefault.jpg"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=YK5Rgbb0FK4",
-   "source": "Runway",
-   "category": "movies",
-   "headline": "Getting Started with Runway Ruby",
-   "published_iso": "2026-08-24T15:21:26+00:00",
-   "excerpt": "Runway Ruby generates or converts video into 16-bit EXR sequences and 10/12-bit ProRes — pushing generative output into formats a VFX and grading pipeline can actually ingest.",
-   "og_image": "https://i.ytimg.com/vi/YK5Rgbb0FK4/maxresdefault.jpg"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=iIIZBNHNJbs",
-   "source": "Corridor Crew",
-   "category": "movies",
-   "headline": "What makes a good ROTOSCOPE?",
-   "published_iso": "2026-09-04T16:00:10+00:00",
-   "excerpt": "Emmy-nominated VFX supervisor Marion Spates breaks down what separates a good roto from a bad one — the craft judgement that automated matting tools still have to clear.",
-   "og_image": "https://i.ytimg.com/vi/iIIZBNHNJbs/maxresdefault.jpg"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=gnp86XUSzgg",
-   "source": "Curious Refuge",
-   "category": "movies",
-   "headline": "Apple Can Now Clone You and it's CRAZY Realistic",
-   "published_iso": "2026-08-21T22:57:01+00:00",
-   "excerpt": "Curious Refuge tests Apple's new photoreal personal-avatar cloning and what that level of digital-double fidelity means for performers and AI filmmaking workflows.",
-   "og_image": "https://i.ytimg.com/vi/gnp86XUSzgg/maxresdefault.jpg"
-  }
- ]
+  "date": "2026-09-06",
+  "section": "movies",
+  "now_iso": "2026-09-05T22:00:50Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/",
+      "source": "Deadline",
+      "category": "movies",
+      "headline": "Danny Boyle Confirms Use Of AI In New Movie 'Ink'",
+      "published_iso": "2026-09-05T21:41:26+00:00",
+      "excerpt": "\"There's about 30 seconds of it in our movie,\" the Oscar winner said about using generative AI to bring the Kray twins and Margaret Thatcher to life on screen in old photographs.",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Ink.png?w=1024"
+    },
+    {
+      "url": "https://variety.com/2026/tv/news/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
+      "source": "Variety",
+      "category": "movies",
+      "headline": "Tamar AI's TapNow Brings AI-Native Filmmaking Platform to Venice Production Bridge",
+      "published_iso": "2026-09-04T08:40:43+00:00",
+      "excerpt": "TapNow, HappyHorse and Glanze head to the Venice Production Bridge as Palo Alto's Tamar AI bets its AI-native 'creative operating system' can turn small teams into global studios.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Key-visual-for-TapNow-AI-Screening-on-VPB.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "url": "https://variety.com/2026/film/asia/google-deepmind-amazon-web-services-busan-market-innoasia-1236843573/",
+      "source": "Variety",
+      "category": "movies",
+      "headline": "Google DeepMind, Amazon Web Services, Kling AI Join Busan Market Tech Program InnoAsia",
+      "published_iso": "2026-08-26T07:00:20+00:00",
+      "excerpt": "Busan's Asian Contents & Film Market unveiled its InnoAsia lineup, pairing global AI production-tech firms with seven Korean startups plus a branded-film contest.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "url": "https://beforesandafters.com/2026/09/01/nikola-todorovic-on-the-latest-developments-in-autodesks-flow-studio/",
+      "source": "befores & afters",
+      "category": "movies",
+      "headline": "Nikola Todorovic on the Latest Developments in Autodesk's Flow Studio",
+      "published_iso": "2026-09-01T11:50:50+00:00",
+      "excerpt": "How Flow Studio's new 3D Editor + Canvas works: interactive 3D scene construction married to generative 2D video models, so prompt-based images gain real camera and blocking control.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg"
+    },
+    {
+      "url": "https://beforesandafters.com/2026/08/27/one-of-the-new-categories-at-the-ves-awards-is-outstanding-in-camera-effects-in-a-photoreal-project/",
+      "source": "befores & afters",
+      "category": "movies",
+      "headline": "One of the New Categories at the VES Awards Is 'Outstanding In-Camera Effects in a Photoreal Project'",
+      "published_iso": "2026-08-26T16:01:53+00:00",
+      "excerpt": "The Visual Effects Society announced new categories and rule updates for its awards, including one that singles out effects achieved practically in camera rather than generated in post.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2025/01/53546041416_ea0b102178_o.jpg"
+    },
+    {
+      "url": "https://postperspective.com/nice-touch-launches-v2-of-its-ai-edit-assistant-for-pro-editors/",
+      "source": "postPerspective",
+      "category": "movies",
+      "headline": "Nice Touch Launches V2 of Its AI Edit Assistant for Pro Editors",
+      "published_iso": "2026-08-31T21:07:33+00:00",
+      "excerpt": "Nice Touch's V2 is a full rebuild shaped by more than 300 conversations with editors, producers and studio owners; the app analyzes a project and assists professional post teams.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/Nice-Touch-app.jpg"
+    },
+    {
+      "url": "https://postperspective.com/avid-media-composer-2026-8-at-ibc-agentic-workflows-more/",
+      "source": "postPerspective",
+      "category": "movies",
+      "headline": "Avid Media Composer 2026.8 at IBC: Agentic Workflows, More",
+      "published_iso": "2026-08-31T21:21:38+00:00",
+      "excerpt": "At IBC, Avid shows the latest Media Composer with deeper Content Core integration and expanded agentic workflow intelligence, plus new collaboration and storage capabilities.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/AvidComposer_UI_Workstation.jpg"
+    },
+    {
+      "url": "https://postperspective.com/editshare-to-update-efs-flow-ai-and-mediasilo-at-ibc/",
+      "source": "postPerspective",
+      "category": "movies",
+      "headline": "EditShare Updates at IBC Include EFS, Flow AI and MediaSilo",
+      "published_iso": "2026-08-25T19:26:18+00:00",
+      "excerpt": "EditShare brings GPU-powered Flow AI processing into its storage nodes at IBC 2026, with multilingual transcription and new all-in-one Ultimate EFS configurations.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/EditShare.jpg"
+    },
+    {
+      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+      "source": "fxguide",
+      "category": "movies",
+      "headline": "The Power of On-Premises Open-Weight Models for Generative Media",
+      "published_iso": "2026-08-28T15:43:50+00:00",
+      "excerpt": "A look at adopting generative AI open-weight models in-house, and how they can improve workflow stability, security, cost predictability and delivery efficiency for studios.",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-OpenWeights.jpg"
+    },
+    {
+      "url": "https://www.fxguide.com/fxpodcasts/crafty-apes-ceo-alana-newell/",
+      "source": "fxguide",
+      "category": "movies",
+      "headline": "Crafty Apes CEO Alana Newell",
+      "published_iso": "2026-08-31T16:27:25+00:00",
+      "excerpt": "From compositor to CEO: Alana Newell on where Crafty Apes is heading as VFX pipelines absorb new AI tooling and studios rethink how shots get made.",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-craftyApes.jpg"
+    },
+    {
+      "url": "https://www.awn.com/news/nura-studios-opens-showcraft-ai-production-platform-public",
+      "source": "AWN (Animation World Network)",
+      "category": "movies",
+      "headline": "Nura Studios Opens Showcraft AI Production Platform to the Public",
+      "published_iso": "2026-08-28T10:43:50-05:00",
+      "excerpt": "Showcraft takes a story from script, shot list or concept through storyboard, animatic, animation and final edit in one connected environment; tools already used on 'Rainbow Hollow' and 'Astro Burn' are now public.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081221-rainbowhollowfuneral1-1280.jpg?itok=Tn_oPVHN"
+    },
+    {
+      "url": "https://nofilmschool.com/eddie-ai-agent-marketplace",
+      "source": "No Film School",
+      "category": "movies",
+      "headline": "Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers",
+      "published_iso": "2026-09-02T20:55:01+00:00",
+      "excerpt": "Eddie AI's new Agent Marketplace offers editing agents modeled on the sensibilities of well-known filmmakers, letting editors run a cut past a Nolan-flavored assistant.",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=67720010&width=1200&height=600&coordinates=0%2C20%2C0%2C20"
+    },
+    {
+      "url": "https://www.redsharknews.com/caira-generative-video-editing-gemini-runway-aleph",
+      "source": "RedShark News",
+      "category": "movies",
+      "headline": "Caira Gets AI Generative Video Editing Feature",
+      "published_iso": "2026-09-02T16:23:37+00:00",
+      "excerpt": "Camera Intelligence's Caira camera adds Gemini Omni and Runway Aleph-powered generative editing, letting shooters relight, reframe and extend footage they've already captured.",
+      "og_image": "https://www.redsharknews.com/hubfs/Caira%20Camera.jpg"
+    },
+    {
+      "url": "https://80.lv/articles/over-500-free-maya-animation-tools-are-now-available-in-one-place/",
+      "source": "80 Level",
+      "category": "movies",
+      "headline": "Over 500 Free Maya Animation Tools Are Now Available in One Place",
+      "published_iso": "2026-09-04T13:55:00+00:00",
+      "excerpt": "Animo v10.0 collects more than 500 free Maya animation tools into a single library, putting a large chunk of the animator's daily toolkit behind one install.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50051/images/6a9acdecbbc72/contain_1200x630.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4wva-82hHJ0",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "headline": "This AI Workflow Flips Filmmaking on Its Head",
+      "published_iso": "2026-09-05T17:30:28+00:00",
+      "excerpt": "Curious Refuge walks through a workflow that uses existing footage to generate new camera coverage — reframing shots that were never actually captured that way on set.",
+      "og_image": "https://i.ytimg.com/vi/4wva-82hHJ0/maxresdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pmjyB-lc4KQ",
+      "source": "Runway",
+      "category": "movies",
+      "headline": "Introducing GWM Worlds 2, a Playable World Model",
+      "published_iso": "2026-09-03T15:51:03+00:00",
+      "excerpt": "Runway's latest General World Model generates interactive real-time simulations in continuous 720p video at 24 fps with 48kHz audio, letting creators define environment, subjects and style.",
+      "og_image": "https://i.ytimg.com/vi/pmjyB-lc4KQ/maxresdefault.jpg"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iIIZBNHNJbs",
+      "source": "Corridor Crew",
+      "category": "movies",
+      "headline": "What Makes a Good ROTOSCOPE?",
+      "published_iso": "2026-09-04T16:00:10+00:00",
+      "excerpt": "Emmy-nominated VFX supervisor Marion Spates breaks down what separates a good roto from a bad one — the craft judgment that automated matting tools still have to clear.",
+      "og_image": "https://i.ytimg.com/vi/iIIZBNHNJbs/maxresdefault.jpg"
+    }
+  ]
 }

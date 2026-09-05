@@ -1,31 +1,29 @@
 {
-  "date": "2026-09-05",
-  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-anker-mindbase-hub",
+      "id": "gadgets-homepod-siri",
       "type": "image",
-      "src": "pipeline/media/gadgets-anker-mindbase-hub.jpg"
+      "src": "pipeline/media/gadgets-homepod-siri.jpg"
     },
     {
-      "id": "gadgets-minisforum-local-ai-boxes",
+      "id": "gadgets-vive-eagle",
       "type": "image",
-      "src": "pipeline/media/gadgets-minisforum-local-ai-boxes.jpg"
+      "src": "pipeline/media/gadgets-vive-eagle.jpg"
     },
     {
-      "id": "gadgets-ikairos-modular-wearable",
+      "id": "gadgets-govee-ai-lighting",
       "type": "image",
-      "src": "pipeline/media/gadgets-ikairos-modular-wearable.jpg"
+      "src": "pipeline/media/gadgets-govee-ai-lighting.jpg"
     },
     {
-      "id": "gadgets-plaud-one-earbuds",
+      "id": "gadgets-gemini-home",
       "type": "image",
-      "src": "pipeline/media/gadgets-plaud-one-earbuds.jpg"
+      "src": "pipeline/media/gadgets-gemini-home.jpg"
     },
     {
-      "id": "gadgets-gemini-overlay-bubble",
+      "id": "gadgets-ugreen-homeagent",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-overlay-bubble.jpg"
+      "src": "pipeline/media/gadgets-ugreen-homeagent.jpg"
     }
   ]
 }

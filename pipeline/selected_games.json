@@ -1,126 +1,50 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "games",
-  "generated_by": "curator",
-  "selection_mode": "auto",
   "picks": [
     {
-      "rank": 1,
+      "url": "https://aftermath.site/artstation-owners-ownership-ai/",
+      "source": "Aftermath",
       "tool": "Games",
-      "category": "games",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "The AI Panic Is Forcing Developers To Prove Their Trailers Were Made By Humans",
-      "url": "https://kotaku.com/game-accused-of-using-ai-to-generate-its-reveal-trailer-proves-it-was-made-by-people-2000731291",
-      "source": "Kotaku",
-      "published_iso": "2026-09-04T15:00:04+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/trailer-real-1200x675.jpg",
-      "excerpt": "Humankind 2's big announcement trailer was called AI slop by many online, but behind-the-scenes footage shows real animals, people, and sets",
-      "rationale": "Proof-of-human is becoming a shipping requirement — teams now need BTS capture planned into the trailer budget, not added after the backlash.",
-      "id": "games-ai-panic-forcing-developers-prove"
+      "rationale": "New ArtStation owners commit to blocking AI scrapers by default — a concrete platform-policy shift artists can act on, and a clean break from the DLSS 5 saturation in this pool.",
+      "published_iso": "2026-09-04T01:21:18.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/09/ArtStation_Blog_Header.webp",
+      "excerpt": "'ArtStation is making protection against AI training the default.'"
     },
     {
-      "rank": 2,
+      "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-director-says-dlss-5-does-right-by-kcd-2-people-are-crazy-for-thinking-its-ai-slop/",
+      "source": "PC Gamer",
       "tool": "Games",
-      "category": "games",
       "accent": "#0070f3",
       "motif": "cube",
-      "headline": "Hands-on with DLSS 5 in NBA 2K27: what works and what doesn't about Nvidia's new AI upscaler",
-      "url": "https://www.gamesradar.com/hardware/desktop-pc/hands-on-with-dlss-5-in-nba-2k27-heres-what-works-and-what-doesnt-work-about-nvidias-new-ai-upscaler/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-04T13:04:31Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8cwLeMpT38BXiwbVd7rJhe-1920-80.jpg",
-      "excerpt": "I put my apprehensions to the side to give DLSS 5 a fair shot. Here's what I found",
-      "rationale": "First real hands-on verdict on the shipped build — a different angle from the launch note and the perf-cost numbers already covered: where the neural filter actually holds up.",
-      "id": "games-hands-dlss-5-nba-2k27"
-    },
-    {
-      "rank": 3,
-      "tool": "Games",
-      "category": "games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "headline": "Modder Enables DLSS 5 Neural Rendering On AMD Radeon RX 9070 XT",
-      "url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-04T18:37:44+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-DLSS-5.jpg",
-      "excerpt": "DLSS 5 Neural Rendering now works on AMD RX 9070 XT, boosting FPS in Cyberpunk 2077 and GTA V: Enhanced, with mod improving performance by 12%",
-      "rationale": "Nvidia's vendor lock on neural rendering just cracked in the wild — changes who can even test the look, and what art direction has to plan for.",
-      "id": "games-modder-enables-dlss-5-neural"
-    },
-    {
-      "rank": 4,
-      "tool": "Games",
-      "category": "games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "headline": "Building a Procedural Shell Grotto with Substance 3D Designer & UE5",
-      "url": "https://80.lv/articles/building-a-procedural-shell-grotto-with-substance-3d-designer-unreal-engine",
-      "source": "80 Level",
-      "published_iso": "2026-08-28T05:15:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49918/images/6a8f9cfaa7e25/contain_1200x630.jpg",
-      "excerpt": "Coraline Lyu spoke about the creation process behind the Shell Grotto project, explaining how she aimed to capture the identity of the Shell Grotto in England, how she built two separate node-based systems, and detailing how she assembled the ornamental wall patterns.",
-      "rationale": "A concrete two-system node breakdown for ornamental pattern assembly — procedural craft a designer can copy into a Substance/UE pipeline tomorrow.",
-      "id": "games-building-procedural-shell-grotto-substance"
-    },
-    {
-      "rank": 5,
-      "tool": "Games",
-      "category": "games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "headline": "24% Of Gamescom Reveals Officially Used AI",
-      "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/",
-      "source": "TheGamer",
-      "published_iso": "2026-08-27T10:34:41Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&amp;h=900&amp;fit=crop",
-      "excerpt": "23.64% of the games featured during Gamescom ONL this year used AI in some form.",
-      "rationale": "A hard, citable disclosure number for the year's biggest showcase — the baseline anyone arguing about AI adoption in games now has to work from.",
-      "id": "games-24-gamescom-reveals-officially-used"
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://aftermath.site/artstation-owners-ownership-ai/",
-      "reason": "Same event as the ArtStation NoAI-by-default story already published 2026-09-04 (design section, 80 Level). Cross-section repeat one day apart."
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/cd-projekt-red-isnt-planning-to-rely-on-ai-making-complete-games-and-will-still-be-predominantly-using-people-for-the-witcher-4-and-beyond/",
-      "reason": "Duplicate of games 2026-09-03 card (GamesRadar+, same CDPR earnings-call quotes)."
-    },
-    {
-      "url": "https://gamingbolt.com/nvidia-dlss-5-launches-on-september-3-debuts-in-nba-2k27",
-      "reason": "DLSS 5 launch-date story already covered across sections; no new angle."
-    },
-    {
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-snuck-me-into-a-room-to-show-off-dlss-5-in-person-and-its-somehow-beautiful-ugly-impressive-and-troubling-all-at-the-same-time/",
-      "reason": "Same PC Gamer DLSS 5 press-demo hub as the 50-60% perf-hit card published 2026-09-02."
+      "rationale": "Freshest voice in the DLSS 5 backlash debate — a working director directly rebutting the 'AI slop' framing; one of only two DLSS 5-thread picks kept given how heavily the pool overlaps on that story.",
+      "published_iso": "2026-09-05T16:08:04Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rTBSuGGDXhUBQ4VysuHrcN-2560-80.jpg",
+      "excerpt": "The controversial generative AI upscaling tech can look alright when used subtly, but the 'AI look' seems inescapable to many players."
     },
     {
       "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
-      "reason": "Same Tarn Adams Gamescom interview already covered by the Kotaku card published 2026-09-02."
+      "source": "PC Gamer",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "A veteran indie creator's read on human-authored storytelling versus generative systems — a design-philosophy angle distinct from the hardware/backlash cluster.",
+      "published_iso": "2026-09-01T15:01:29Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
+      "excerpt": "Tarn Adams argues players instinctively prefer human-authored stories, but expects that instinct to be tested hard as generative systems improve."
     },
     {
-      "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidia-says-its-only-targeting-photorealistic-games-with-dlss-5-but-am-i-the-only-one-who-thinks-realistic-visuals-are-worse/",
-      "reason": "Nvidia's photorealistic-only framing was already the core of the No Man's Sky DLSS 5 card published 2026-09-04."
-    },
-    {
-      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/",
-      "reason": "Within-pool overlap with the stronger Wccftech unofficial-DLSS-5 story; older."
-    },
-    {
-      "url": "https://kotaku.com/dlss-5-can-now-be-used-to-ai-sloppify-real-people-2000730834",
-      "reason": "Survived dedup but cut by the diversity guard — would have made 3 of 5 cards DLSS 5."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-lead-says-nvidia-dlss-5-backlash-is-really-funny-and-that-most-talented-people-i-know-use-ai/",
-      "reason": "Survived dedup but cut by the diversity guard — third GamesRadar+ item and a fourth AI-discourse card."
-    },
-    {
-      "url": "https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898",
-      "reason": "Weakest of the fresh survivors (2026-08-26, thinnest actionability)."
+      "url": "https://wccftech.com/dlss-5-now-works-on-rtx-20-30-gpus-older-graphics-apis-and-even-pcsx2/",
+      "source": "Wccftech",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Concrete, actionable modding news — extends DLSS 5 neural rendering to older RTX 20/30 cards and even PCSX2; the second and final pick from the oversaturated DLSS 5 thread.",
+      "published_iso": "2026-08-31T13:15:52+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Feature-Image-5.jpg",
+      "excerpt": "Modders enable NVIDIA's leaked DLSS 5 on RTX 20, 30, and more, enhancing older games and emulators with improved neural rendering performance."
     }
-  ],
-  "count": 5
+  ]
 }

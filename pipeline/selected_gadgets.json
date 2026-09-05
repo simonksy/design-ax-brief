@@ -1,110 +1,75 @@
 {
-  "date": "2026-09-05",
   "section": "gadgets",
-  "count": 5,
+  "date": "2026-09-06",
   "picks": [
     {
-      "id": "gadgets-anker-mindbase-hub",
+      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
+      "source": "MacRumors",
+      "published_iso": "2026-09-04T15:25:23Z",
+      "og_image": "https://images.macrumors.com/t/t6jJN3ydbuPh9w847p_UiDAlqGY=/2500x/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
+      "excerpt": "Apple is reportedly testing a new full-sized HomePod with Siri AI support, though Bloomberg's Mark Gurman says the AI speaker isn't imminent.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "url": "https://gizmodo.com/ankers-mindbase-wants-to-be-the-smart-hub-for-your-life-2000805980",
-      "source": "Gizmodo",
-      "published_iso": "2026-09-03T07:30:38+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/09/Anker-MindBase-1200x675.jpg",
-      "excerpt": "With Matter support, on-device AI and NAS storage, Anker's first AI hub makes a play to be the center of the home, tying Anker and Matter devices into one autonomous system alongside HomeKit, Alexa and Google Home.",
-      "rationale": "온디바이스 AI와 Matter, NAS를 한 상자에 넣은 첫 소비자용 홈 허브 — 집 안 기기 제어가 앱 화면에서 에이전트로 넘어가는 실제 제품.",
-      "headline": "Anker's MindBase Wants to Be the Smart Hub for Your Life",
-      "category": "gadgets"
+      "rationale": "애플이 직접 AI 스피커 시장에 뛰어든다는 첫 신호로, 스마트홈 허브 경쟁 구도에 바로 영향을 준다."
     },
     {
-      "id": "gadgets-minisforum-local-ai-boxes",
+      "url": "https://www.engadget.com/2249332/htc-vive-eagle-comes-to-the-us-europe-uk-aus/",
+      "source": "Engadget",
+      "published_iso": "2026-09-03T13:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/htc-vive-eagle-smart-glasses-finally-come-to-the-west/l-intro-1788348912.jpg",
+      "excerpt": "HTC's camera-equipped, AI-powered Vive Eagle smart glasses are finally launching in the US, Europe and Australia a year after their Taiwan debut.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "url": "https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-09-04T16:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY-1920-80.png",
-      "excerpt": "Both boxes use AMD's Ryzen AI Max+ Pro 495 with up to 131 TOPS and 192GB of unified memory, designed to keep model inference and agent workloads entirely on your desk.",
-      "rationale": "192GB 통합 메모리를 단 NAS와 미니 워크스테이션 — 팀 파일 서버와 로컬 추론 서버를 한 대로 합칠 수 있는 값이 매겨진 실물.",
-      "headline": "Minisforum launches local AI solutions at IFA 2026 — AI Agent NAS N5 and AI Mini Workstation MS-S1",
-      "category": "gadgets"
+      "rationale": "카메라 내장 AI 스마트 글라스가 대만을 넘어 서구 시장에 정식 상륙한 첫 사례."
     },
     {
-      "id": "gadgets-ikairos-modular-wearable",
+      "url": "https://www.digitaltrends.com/home/govees-new-ai-lighting-lineup-lets-you-build-custom-scenes-with-simple-prompts/",
+      "source": "Digital Trends",
+      "published_iso": "2026-09-04T13:12:52Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Govee-COB-Strip-Light-2-Pro-featured.jpg?resize=1200%2C630",
+      "excerpt": "Govee unveiled three new AI-enabled smart lighting products at IFA 2026 that let users build custom lighting scenes with simple text prompts.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "url": "https://www.androidauthority.com/ikairos-modular-ai-wearable-3706717/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-03T16:00:25+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-1.jpg",
-      "excerpt": "Lingverse showcased iKairos at IFA 2026, a modular AI wearable that pops out of a desktop robot body and slots into a neck pendant. It feeds a LifeOS assistant and ships with a physical camera shutter, privacy light and manual mute.",
-      "rationale": "데스크 로봇에서 빠져나와 목걸이가 되는 모듈형 폼팩터에 물리 셔터와 프라이버시 램프까지 붙였다 — AI 기기의 신뢰를 하드웨어로 설계한 사례.",
-      "headline": "This desktop robot companion is also an AI wearable you can wear around your neck",
-      "category": "gadgets"
+      "rationale": "텍스트 프롬프트로 조명 씬을 짜는 기능은 공간 연출 워크플로에 곧바로 적용된다."
     },
     {
-      "id": "gadgets-plaud-one-earbuds",
+      "url": "https://www.androidauthority.com/google-home-gemini-upgrades-september-2026-3706505/",
+      "source": "Android Authority",
+      "published_iso": "2026-09-02T21:41:38Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
+      "excerpt": "Gemini for Home just fixed one of its strangest limitations, with Google Home getting upgrades to media and smart home voice controls and easier automation management.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "url": "https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/",
-      "source": "Engadget",
-      "published_iso": "2026-08-27T13:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-video-call/l-intro-1787766887.jpg",
-      "excerpt": "The Plaud One is a different take on AI wearables: earbuds with built-in eSIM and 4G that capture meetings, calls and face-to-face talks, build memory across days, and hand tasks to an agent.",
-      "rationale": "폰 없이 4G로 회의와 통화를 통째로 기억하고 그 결과를 에이전트에 넘기는 이어버드 — 회의록 워크플로를 하드웨어가 가져가는 지점.",
-      "headline": "Plaud made earbuds for people who want to record every meeting and call",
-      "category": "gadgets"
+      "rationale": "제미나이 포 홈의 음성 제어·자동화 개선은 매일 쓰는 스마트홈 UX를 즉시 바꾼다."
     },
     {
-      "id": "gadgets-gemini-overlay-bubble",
+      "url": "https://9to5google.com/2026/09/03/ugreen-announces-homeagent-smart-home-hub/",
+      "source": "9to5Google",
+      "published_iso": "2026-09-03T22:00:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Ugreen-HomeAgent-1.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Ugreen announced HomeAgent, a local AI smart home ecosystem paired with a new line of cameras, pushing the accessory maker deeper into AI hardware.",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "url": "https://9to5google.com/2026/09/04/gemini-minimize-bubble/",
-      "source": "9to5Google",
-      "published_iso": "2026-09-04T21:44:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "The Gemini overlay on Android now has a multitasking option that leaves a floating bubble shortcut when you minimize it, so the assistant persists alongside whatever app you switch to.",
-      "rationale": "어시스턴트가 앱을 가리는 전면 패널에서 떠 있는 버블로 바뀐다 — 모바일에서 AI를 '전환'이 아니라 '동반'으로 두는 인터랙션 패턴.",
-      "headline": "Gemini overlay gets bubble minimization and multitasking on Android",
-      "category": "gadgets"
+      "rationale": "액세서리 회사가 로컬 AI 스마트홈 생태계로 확장하는 흐름을 보여주는 신제품."
     }
   ],
-  "dedup": {
-    "pool": 21,
-    "checked_against": "news_data.json sections.gadgets today(2026-09-04, 5 cards) + days(2026-08-30..2026-09-03, 25 cards) = 30 published cards",
-    "dropped_as_duplicates": 6,
-    "notes": [
-      "History duplicate dropped: XDA 'Lenovo's new Yoga laptops go all-in on RTX Spark' is the same IFA release already published 2026-09-04 as gadgets-nvidia-rtx-spark-ai-pcs (WIRED) — same Yoga Pro 9n / Yoga 9n RTX Spark machines, different outlet.",
-      "Within-pool duplicates dropped (same Plaud One launch, three outlets): TechRadar Plaud interview and Notebookcheck 'Plaud One 4G LTE' dropped; Engadget kept as the strongest single article.",
-      "Within-pool duplicate dropped: Tom's Guide 'Anker just launched a ton of new products at IFA 2026 — including an AI-powered home hub' covers the same MindBase announcement as the selected Gizmodo piece; Gizmodo kept for the deeper hub detail. Engadget's Anker Eufy IFA piece is the same vendor's same-day IFA drop and was also set aside (content-hub rule).",
-      "Within-pool near-duplicate set aside: Gizmodo 'Ugreen MasterAgent $20,000 hub' and Notebookcheck 'Ugreen first smart speaker' are the same Ugreen IFA announcement; neither selected (would have doubled the smart-home-hub topic against Anker MindBase).",
-      "Roundups deprioritized rather than duplicated: TechRadar 'IFA Best in Show 25 reveals', Tom's Guide 'Best of IFA 26 gadgets' and TechRadar 'best headphones at IFA' aggregate stories already covered across 09-03/09-04 cards.",
-      "Adjacency checked and cleared: Engadget 'Roborock at IFA 2026' overlaps the vendor of gadgets-roborock-qrevo-2-pro (08-30) and was set aside; Minisforum N5/MS-S1 (Tom's Hardware) is a different vendor and product class from gadgets-framework-192gb-desktop (09-01) and from the RTX Spark machines (09-04), so it stays; 9to5Google 'Gemini overlay bubble' is an Android overlay UI change, distinct from gadgets-gemini-spark-google-photos (09-04) and gadgets-adreno-neural-fusion (09-03).",
-      "Spec-rumor item deprioritized per brief: 9to5Mac 'M6 MacBook Pro: three new upgrades this fall' is expectation-setting, not a shipped device.",
-      "Surviving-but-unused ranked backups in order: Gizmodo iRobot Roomba Duo concept, Android Authority Luna Band global shipping, Android Authority Ascentiz modular exoskeletons, Gizmodo Ugreen MasterAgent hub, XDA Acer Project DualPlay Mini, Notebookcheck Ugreen smart speaker."
-    ]
-  },
-  "diversity": {
-    "outlets": [
-      "Gizmodo",
-      "Tom's Hardware",
-      "Android Authority",
-      "Engadget",
-      "9to5Google"
-    ],
-    "max_per_outlet": 1,
-    "distinct_outlets": 5,
-    "topic_spread": [
-      "AI smart-home hub with on-device inference",
-      "local AI compute: NAS + mini workstation",
-      "modular AI wearable + privacy hardware",
-      "always-on capture wearable / meeting agent",
-      "mobile assistant interaction pattern"
-    ]
-  }
+  "dropped_as_duplicate": [
+    {
+      "url": "https://www.tomsguide.com/home/anker-just-launched-a-ton-of-new-products-at-ifa-2026-including-an-ai-powered-home-hub",
+      "reason": "same story as already-published gadgets-anker-mindbase-hub (Gizmodo, 2026-09-05 today)"
+    },
+    {
+      "url": "https://www.cnet.com/tech/computing/nvidia-rtx-spark-systems-approach-the-starting-line/",
+      "reason": "same Lenovo/Acer RTX Spark IFA launch as already-published gadgets-nvidia-rtx-spark-ai-pcs (WIRED, 2026-09-04)"
+    },
+    {
+      "url": "https://9to5google.com/2026/09/03/lenovos-first-rtx-spark-laptops-can-have-up-to-128gb-of-ram/",
+      "reason": "same Lenovo RTX Spark laptop debut as already-published gadgets-nvidia-rtx-spark-ai-pcs (WIRED, 2026-09-04)"
+    }
+  ]
 }

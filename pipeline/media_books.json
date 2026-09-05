@@ -1,30 +1,31 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "books",
   "media": [
     {
-      "id": "books-u-s-department-justice-files",
+      "id": "books-anthropic-watermark",
       "type": "image",
-      "src": "pipeline/media/books-u-s-department-justice-files.png"
+      "src": "pipeline/media/books-anthropic-watermark.jpeg"
     },
     {
-      "id": "books-anthropic-copyright-settlement-publishers-making",
+      "id": "books-oreilly-ai-writing",
       "type": "image",
-      "src": "pipeline/media/books-anthropic-copyright-settlement-publishers-making.jpg"
+      "src": "pipeline/media/books-oreilly-ai-writing.jpeg"
     },
     {
-      "id": "books-google-rolls-out-ai-chatbots",
-      "type": "svg"
+      "id": "books-spotify-audiobook-ai",
+      "type": "image",
+      "src": "pipeline/media/books-spotify-audiobook-ai.png"
     },
     {
-      "id": "books-ai-ghosts-contaminating-academic-publishing",
+      "id": "books-scholarly-ai-licensing-trends",
       "type": "image",
-      "src": "pipeline/media/books-ai-ghosts-contaminating-academic-publishing.jpg"
+      "src": "pipeline/media/books-scholarly-ai-licensing-trends.jpg"
     },
     {
-      "id": "books-top-wsj-editor-approves-ai",
+      "id": "books-ai-publishing-scams",
       "type": "image",
-      "src": "pipeline/media/books-top-wsj-editor-approves-ai.jpg"
+      "src": "pipeline/media/books-ai-publishing-scams.png"
     }
   ]
 }
