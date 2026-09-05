@@ -1,99 +1,79 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "books",
+  "note": "Re-curation after recovery pass added 3 candidates. 2 known dupes (Bookseller Expert Intelligence, Creative Penn Tracy Cooper-Posey) re-confirmed and dropped per instructions. Remaining 5 candidates checked against sections.books history (today 2026-09-05 + days 08-31..09-04) — none matched; all 5 kept. User deferred (\"알아서\"), so top-5 picked by curator scoring.",
   "picks": [
     {
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-08-31T09:30:32Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg",
+      "excerpt": "Todd Carpenter examines Anthropic's new watermarking system for AI-generated content, arguing it addresses regulatory compliance but not the deeper problem of attribution and provenance in publishing.",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "U.S. Department of Justice Files Legal Brief Urging Court to Find AI Training to Be Fair Use",
-      "url": "https://publishingperspectives.com/2026/09/u-s-department-of-justice-files-legal-brief-urging-court-to-find-ai-training-to-be-fair-use/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-09-04T12:05:20+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-03-at-11.41.14-PM.png",
-      "excerpt": "In a 20-page 'Statement of Interest,' lawyers for the U.S. Department of Justice told the judge presiding over a closely watched lawsuit that requiring “paid licensing” would “put U.S. AI companies at a competitive disadvantage.” A direct hit on how authors and publishers can price their work as training data.",
-      "rationale": "The federal government taking a side on whether AI training is fair use resets the licensing leverage every author and publisher has been negotiating with.",
-      "category": "books",
-      "id": "books-u-s-department-justice-files"
+      "rationale": "Anthropic의 워터마킹이 규제 대응은 되지만 귀속·출처 문제는 풀지 못한다는 지적 — 저작권 논쟁의 다음 국면을 짚는 신뢰도 높은 분석."
     },
     {
+      "url": "https://www.oreilly.com/radar/writing-with-ai/",
+      "source": "O'Reilly Radar",
+      "category": "books",
+      "published_iso": "2026-08-27T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Tim O'Reilly argues AI should be treated as a creative medium rather than a threat to authorship, revealing in the afterword of an essay that 'Claude wrote every word' while he directed the collaboration.",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "headline": "Anthropic Copyright Settlement: Publishers Are Making Incorrect Claims on Authors’ Payouts",
-      "url": "https://writerbeware.blog/2026/09/04/anthropic-copyright-settlement-publishers-are-making-incorrect-claims-on-authors-payouts/",
-      "source": "Writer Beware",
-      "published_iso": "2026-09-04T18:16:45+00:00",
-      "og_image": "https://writerbeware.blog/wp-content/uploads/2026/07/Blog-images-Anthropic-AI-scaled.jpg",
-      "excerpt": "Authors in the Anthropic class action began receiving settlement notices this week — and some publishers are telling their authors they are entitled to a share when the settlement terms say otherwise. A practical guide to who actually owns the AI-training payout.",
-      "rationale": "Money is moving this week and authors are being told the wrong thing about their own claim — the most immediately actionable item in the pool.",
-      "category": "books",
-      "id": "books-anthropic-copyright-settlement-publishers-making"
+      "rationale": "업계 원로가 'Claude가 모든 문장을 썼다'고 공개하며 AI를 창작 매체로 재정의 — 저작권·창작 경계를 흔드는 화제성 있는 1인칭 사례."
     },
     {
+      "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-08-24T04:33:19Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/24003221/Series-Visual-8856-scaled-1.png",
+      "excerpt": "Spotify rolled out three AI-driven audiobook features: Prompted Playlist lets listeners describe a mood or theme to generate a custom audiobook playlist, and a new conversational 'Just Ask Spotify' voice/text mode answers questions about a book or recommends what to listen to next.",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "headline": "Google rolls out AI chatbots for books, with permission from publishers and authors",
-      "url": "https://janefriedman.com/google-rolls-out-ai-chatbots-for-books-with-permission-from-publishers-and-authors/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-02T16:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "Readers of participating Google Play Books titles can now query the text and generate infographics, audio overviews, quizzes and other interactive features — with publisher and author opt-in.",
-      "rationale": "The first at-scale consumer AI layer sitting inside purchased trade books, and it runs on an opt-in rights decision publishers have to make now.",
-      "category": "books",
-      "id": "books-google-rolls-out-ai-chatbots"
+      "rationale": "스포티파이가 오디오북에 대화형 AI 기능을 구체적으로 출시 — 실제 소비자 UX가 바뀌는 액션가능한 소식."
     },
     {
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/03/guest-post-a-year-of-trends-beyond-scholarly-comms-what-you-need-to-know/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-09-03T09:30:33Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-2170742583.jpg",
+      "excerpt": "Laura Harvey and Chris Reid distill a year of writing about scholarly publishing's 'second digital transformation,' pointing to how news and content businesses are increasingly restructuring around AI licensing deals with the likes of Meta, following moves by NewsCorp and Le Monde.",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "The AI ‘Ghosts’ Contaminating Academic Publishing",
-      "url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
-      "source": "404 Media",
-      "published_iso": "2026-08-27T18:14:29+00:00",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/vas.jpg",
-      "excerpt": "“The academic record is being quietly haunted” by nonexistent researchers with names like Elena Vasquez and Marcus Chen — hallucinated co-authors now propagating through published papers and citations.",
-      "rationale": "Original reporting on a concrete failure mode — fabricated authors entering the permanent citation record — that editors can screen for tomorrow.",
-      "category": "books",
-      "id": "books-ai-ghosts-contaminating-academic-publishing"
+      "rationale": "1년치 학술출판 트렌드를 AI 라이선싱 재편이라는 하나의 흐름으로 정리한 시의성 있는 총평."
     },
     {
+      "url": "https://www.writersdigest.com/a-conversation-with-victoria-strauss-on-how-writers-can-spot-publishing-scams-killer-writers",
+      "source": "Writer's Digest",
+      "category": "books",
+      "published_iso": "2026-09-05T16:00:00Z",
+      "og_image": "",
+      "excerpt": "Writer Beware co-founder Victoria Strauss explains how AI has fueled a 'tsunami' of publishing scam solicitations and impersonations, making mass, personalized deception cheap enough that authors now need new habits to vet unsolicited offers.",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "headline": "Top WSJ Editor Approves AI-Assisted Writing, Says AI Is a “Fact of Modern Life”",
-      "url": "https://futurism.com/artificial-intelligence/wsj-ai-writing-fact-of-life",
-      "source": "Futurism",
-      "published_iso": "2026-08-26T20:07:30+00:00",
-      "og_image": "https://futurism.com/wp-content/uploads/2026/08/wsj-ai-writing-fact-of-life.jpg?w=1200",
-      "excerpt": "The Wall Street Journal is giving opinion authors the go-ahead to use AI in the writing process without requiring AI disclosures — a marker for how writing craft norms are shifting.",
-      "rationale": "A major outlet dropping the disclosure requirement moves the default norm writers and editors are held to, not just the tooling.",
-      "category": "books",
-      "id": "books-top-wsj-editor-approves-ai"
+      "rationale": "AI가 사기 수법을 정교화하며 작가 대상 사칭이 '쓰나미'급으로 불어났다는 경보성 리포트 — 즉시 행동을 요구하는 실무 정보."
     }
   ],
-  "dropped": [
+  "dropped_confirmed_duplicates": [
     {
-      "url": "https://lunch.publishersmarketplace.com/2026/09/trump-administration-files-statement-in-support-of-openai-in-copyright-suits/",
-      "reason": "within-pool duplicate of the same DOJ statement-of-interest filing covered by Publishing Perspectives; kept the fuller, image-bearing version"
+      "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
+      "source": "The Bookseller",
+      "reason": "Duplicate of already-published books-google-rolls-out-ai-chatbots (Jane Friedman, 2026-09-05, sections.books.today)."
     },
     {
-      "url": "https://lunch.publishersmarketplace.com/2026/09/widespread-problems-as-authors-receive-anthropic-settlement-notices/",
-      "reason": "within-pool duplicate of the Anthropic settlement-notice rollout story; kept Writer Beware (unpaywalled, more actionable on who owns the payout)"
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101136-google-launches-expert-intelligence-adding-interactivity-to-e-books.html",
-      "reason": "same Google Expert Intelligence launch as the Jane Friedman piece; kept the fresher one with the author/publisher opt-in angle"
-    },
-    {
-      "url": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/",
-      "reason": "404 Media podcast recapping its own AI-ghosts reporting plus the Amazon story; kept the original article, and outlet cap"
-    },
-    {
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "reason": "same NYT/authors copyright suit news cycle as pick 1; dropped to keep litigation to 2 of 5 under the category-diversity guard"
+      "url": "https://www.thecreativepenn.com/2026/09/02/how-to-redesign-your-author-business-for-the-environment-that-actually-exists-with-tracy-cooper-posey/",
+      "source": "The Creative Penn",
+      "reason": "Duplicate of already-published books-author-solar-sail (2026-09-04, sections.books.days) — same Tracy Cooper-Posey interview episode."
     }
-  ],
-  "count": 5
+  ]
 }

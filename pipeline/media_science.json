@@ -1,11 +1,31 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "science",
   "media": [
-    {"id": "science-small-molecule-atlas", "type": "image", "src": "pipeline/media/science-small-molecule-atlas.jpg"},
-    {"id": "science-ai2-hard-parts", "type": "image", "src": "pipeline/media/science-ai2-hard-parts.jpg"},
-    {"id": "science-genomic-transfer-learning", "type": "image", "src": "pipeline/media/science-genomic-transfer-learning.png"},
-    {"id": "science-mammogram-ai-review", "type": "image", "src": "pipeline/media/science-mammogram-ai-review.jpg"},
-    {"id": "science-llm-attention-deficit", "type": "image", "src": "pipeline/media/science-llm-attention-deficit.jpg"}
+    {
+      "id": "science-adaptiveflow",
+      "type": "image",
+      "src": "pipeline/media/science-adaptiveflow.jpg"
+    },
+    {
+      "id": "science-polymer",
+      "type": "image",
+      "src": "pipeline/media/science-polymer.jpg"
+    },
+    {
+      "id": "science-icm-math",
+      "type": "image",
+      "src": "pipeline/media/science-icm-math.jpg"
+    },
+    {
+      "id": "science-physicist-ai",
+      "type": "image",
+      "src": "pipeline/media/science-physicist-ai.jpg"
+    },
+    {
+      "id": "science-bci-ai",
+      "type": "image",
+      "src": "pipeline/media/science-bci-ai.jpg"
+    }
   ]
 }

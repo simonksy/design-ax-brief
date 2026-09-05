@@ -1,161 +1,79 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "books",
-  "now_iso": "2026-09-04T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://publishingperspectives.com/2026/09/u-s-department-of-justice-files-legal-brief-urging-court-to-find-ai-training-to-be-fair-use/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
+      "source": "The Bookseller",
       "category": "books",
-      "headline": "U.S. Department of Justice Files Legal Brief Urging Court to Find AI Training to Be Fair Use",
-      "published_iso": "2026-09-04T12:05:20+00:00",
-      "excerpt": "In a 20-page 'Statement of Interest,' lawyers for the U.S. Department of Justice told the judge presiding over a closely watched lawsuit that requiring “paid licensing” would “put U.S. AI companies at a competitive disadvantage.” A direct hit on how authors and publishers can price their work as training data.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-03-at-11.41.14-PM.png"
-    },
-    {
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "source": "The Verge",
-      "category": "books",
-      "headline": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "published_iso": "2026-09-04T16:05:57+00:00",
-      "excerpt": "Microsoft's new filing in the New York Times and authors' copyright suit argues that regurgitation of copyrighted text by Copilot was vanishingly rare, a claim that shapes how writers can prove harm from AI training.",
-      "og_image": ""
-    },
-    {
-      "url": "https://writerbeware.blog/2026/09/04/anthropic-copyright-settlement-publishers-are-making-incorrect-claims-on-authors-payouts/",
-      "source": "Writer Beware",
-      "category": "books",
-      "headline": "Anthropic Copyright Settlement: Publishers Are Making Incorrect Claims on Authors’ Payouts",
-      "published_iso": "2026-09-04T18:16:45+00:00",
-      "excerpt": "Authors in the Anthropic class action began receiving settlement notices this week — and some publishers are telling their authors they are entitled to a share when the settlement terms say otherwise. A practical guide to who actually owns the AI-training payout.",
-      "og_image": "https://writerbeware.blog/wp-content/uploads/2026/07/Blog-images-Anthropic-AI-scaled.jpg"
-    },
-    {
-      "url": "https://lunch.publishersmarketplace.com/2026/09/widespread-problems-as-authors-receive-anthropic-settlement-notices/",
-      "source": "Publishers Lunch",
-      "category": "books",
-      "headline": "Widespread Problems as Authors Receive Anthropic Settlement Notices",
-      "published_iso": "2026-09-04T15:03:00+00:00",
-      "excerpt": "Authors and publishers who filed claims in the Anthropic lawsuit should receive a first payment between November 1 and 15, according to a status report filed by class counsel — but the notice rollout is riddled with errors.",
-      "og_image": ""
-    },
-    {
-      "url": "https://lunch.publishersmarketplace.com/2026/09/trump-administration-files-statement-in-support-of-openai-in-copyright-suits/",
-      "source": "Publishers Lunch",
-      "category": "books",
-      "headline": "Trump Administration Files Statement in Support of OpenAI in Copyright Suits",
-      "published_iso": "2026-09-03T15:37:04+00:00",
-      "excerpt": "The Department of Justice took the highly unusual step of filing a “statement of interest” backing OpenAI and Microsoft in the copyright infringement lawsuit brought by the New York Times and author plaintiffs.",
-      "og_image": ""
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/02/when-your-ai-knows-you-too-well-personalization-sycophancy-and-the-risk-of-an-intellectual-echo-chamber-in-ai-assisted-research/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "headline": "When Your AI Knows You Too Well: Personalization, Sycophancy, and the Risk of an Intellectual Echo Chamber",
-      "published_iso": "2026-09-02T09:30:11+00:00",
-      "excerpt": "As AI research and writing assistants learn our preferences, they also get better at mirroring our assumptions. Avoiding that outcome, the piece argues, will require more than a better prompt.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151.jpg"
-    },
-    {
-      "url": "https://janefriedman.com/how-good-are-ai-custom-written-novels/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "headline": "How Good Are AI Custom-Written Novels?",
-      "published_iso": "2026-09-02T16:00:00+00:00",
-      "excerpt": "Ember Novels shows that AI is increasingly able to develop and carry plot across 300 pages with fewer continuity errors than many AI-generated or AI-assisted books currently on the market.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png"
-    },
-    {
-      "url": "https://janefriedman.com/google-rolls-out-ai-chatbots-for-books-with-permission-from-publishers-and-authors/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "headline": "Google rolls out AI chatbots for books, with permission from publishers and authors",
-      "published_iso": "2026-09-02T16:00:00+00:00",
-      "excerpt": "Readers of participating Google Play Books titles can now query the text and generate infographics, audio overviews, quizzes and other interactive features — with publisher and author opt-in.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png"
-    },
-    {
-      "url": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/",
-      "source": "404 Media",
-      "category": "books",
-      "headline": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
-      "published_iso": "2026-09-02T12:47:45+00:00",
-      "excerpt": "A follow-up to the Amazon-destroying-books-for-AI story, told by a worker inside the scanning operation — plus why a handful of fake names keep appearing across AI-generated papers.",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/maxresdefault-4.jpg"
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "headline": "We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.",
-      "published_iso": "2026-08-31T09:30:32+00:00",
-      "excerpt": "Identifying AI content is now embedded in Claude models. It doesn't solve the problem publishers actually have — and it creates new ones for editors and authors.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg"
-    },
-    {
-      "url": "https://futurism.com/artificial-intelligence/mit-warns-ai-undergrad-assignments",
-      "source": "Futurism",
-      "category": "books",
-      "headline": "MIT Warns That AI Can Now Credibly Complete Pretty Much Any Undergrad Assignment",
-      "published_iso": "2026-08-30T18:01:00+00:00",
-      "excerpt": "A new report from MIT's ad hoc AI committee warns that written coursework and textbook-based assessment no longer separate student work from model output, and considers overhauling the educational model.",
-      "og_image": "https://futurism.com/wp-content/uploads/2026/08/mit-warns-ai-undergrad-assignments.jpg?quality=85&w=1200"
+      "published_iso": "2026-09-01T11:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/657/12_Main.jpg",
+      "excerpt": "Google has unveiled Expert Intelligence, a new initiative enabling readers to access purchased e-books and other trusted sources within its AI products, incorporating over 100,000 publisher titles."
     },
     {
       "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101136-google-launches-expert-intelligence-adding-interactivity-to-e-books.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "headline": "Google Launches AI Tool to Add Interactivity to E-books",
-      "published_iso": "2026-08-27T12:00:00+00:00",
-      "excerpt": "Expert Intelligence lets readers query e-books bought from the Google Play store, and covers more than 100,000 titles — mostly trade nonfiction — from publishers including Penguin Random House, Macmillan and Bloomsbury.",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131138-1.JPG"
+      "published_iso": "2026-08-27T00:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131138-1.JPG",
+      "excerpt": "Google unveiled Expert Intelligence, an AI feature letting readers interact with e-books through questions, quizzes, and infographics while publishers praised its copyright safeguards."
     },
     {
       "url": "https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/",
       "source": "The Scholarly Kitchen",
       "category": "books",
-      "headline": "AI Use in The Scholarly Kitchen",
-      "published_iso": "2026-08-27T09:30:55+00:00",
-      "excerpt": "An editorial team explains its own disclosure rules after reader pushback on AI use by authors, weighing a Nature piece on the efficacy of AI detection tools against the need to keep experimenting.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1448631861.jpg"
+      "published_iso": "2026-08-27T09:30:55Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1448631861.jpg",
+      "excerpt": "David Crotty lays out The Scholarly Kitchen's policy on AI use, clarifying that AI cannot author posts or generate images, but transparent AI-assisted editing and drafting is permitted."
     },
     {
-      "url": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
-      "source": "404 Media",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "headline": "The AI ‘Ghosts’ Contaminating Academic Publishing",
-      "published_iso": "2026-08-27T18:14:29+00:00",
-      "excerpt": "“The academic record is being quietly haunted” by nonexistent researchers with names like Elena Vasquez and Marcus Chen — hallucinated co-authors now propagating through published papers and citations.",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/vas.jpg"
+      "published_iso": "2026-08-31T09:30:32Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg",
+      "excerpt": "Todd Carpenter examines Anthropic's new watermarking system for AI-generated content, arguing it addresses regulatory compliance but not the deeper problem of attribution and provenance in publishing."
     },
     {
-      "url": "https://futurism.com/artificial-intelligence/wsj-ai-writing-fact-of-life",
-      "source": "Futurism",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/02/when-your-ai-knows-you-too-well-personalization-sycophancy-and-the-risk-of-an-intellectual-echo-chamber-in-ai-assisted-research/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "headline": "Top WSJ Editor Approves AI-Assisted Writing, Says AI Is a “Fact of Modern Life”",
-      "published_iso": "2026-08-26T20:07:30+00:00",
-      "excerpt": "The Wall Street Journal is giving opinion authors the go-ahead to use AI in the writing process without requiring AI disclosures — a marker for how writing craft norms are shifting.",
-      "og_image": "https://futurism.com/wp-content/uploads/2026/08/wsj-ai-writing-fact-of-life.jpg?w=1200"
+      "published_iso": "2026-09-02T09:30:11Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151.jpg",
+      "excerpt": "Avi Staiman and Hong Zhou explore how AI research assistants that learn user preferences risk becoming intellectual echo chambers that mirror assumptions rather than challenge them."
     },
     {
-      "url": "https://selfpublishingadvice.org/opinion-you-have-more-agency-than-you-think-creative-writing-and-publishing-in-the-age-of-ai/",
-      "source": "ALLi Self-Publishing Advice Center",
+      "url": "https://www.oreilly.com/radar/writing-with-ai/",
+      "source": "O'Reilly Radar",
       "category": "books",
-      "headline": "Opinion: You Have More Agency Than You Think — Creative Writing and Publishing in the Age of AI",
-      "published_iso": "2026-08-25T17:25:51+00:00",
-      "excerpt": "Indie author Nigel George argues that writers still control the terms on which they use — or refuse — AI tools, and lays out how to build a personal working policy instead of drifting with the hype.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/pictures.jpg"
+      "published_iso": "2026-08-27T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Tim O'Reilly argues AI should be treated as a creative medium rather than a threat to authorship, revealing in the afterword of an essay that 'Claude wrote every word' while he directed the collaboration."
     },
     {
-      "url": "https://selfpublishingadvice.org/podcast-can-ai-replace-your-editor/",
-      "source": "ALLi Self-Publishing Advice Center",
+      "url": "https://lithub.com/a-new-font-promises-to-hide-your-text-from-ai/",
+      "source": "Literary Hub",
       "category": "books",
-      "headline": "Can AI Replace Your Editor? Member Q&A with Michael La Ronn and Sacha Black",
-      "published_iso": "2026-08-23T12:00:15+00:00",
-      "excerpt": "Michael La Ronn and Sacha Black answer member questions on where AI editing actually holds up in a manuscript workflow, plus IngramSpark returns and series cover consistency.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_QA.jpg"
+      "published_iso": "2026-09-03T00:00:00Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/decoy-font.jpg",
+      "excerpt": "A new typeface called Decoy Font uses layered letterforms with clear outlines over blurred shapes so humans can read the text but large language models cannot parse it."
+    },
+    {
+      "url": "https://www.writersdigest.com/the-art-of-wandering-protecting-creative-taste-in-the-age-of-algorithms",
+      "source": "Writer's Digest",
+      "category": "books",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "og_image": "https://www.writersdigest.com/uploads/2026/09/the-art-of-wandering-protecting-creative-taste-in-the-age-of-algorithms-by-kyla-zhao.png?auto=webp",
+      "excerpt": "Author Kyla Zhao examines how algorithmic curation threatens creative taste and advocates for intentional 'wandering' to preserve authentic aesthetic choices against predictable, AI-driven consumption patterns."
+    },
+    {
+      "url": "https://www.thecreativepenn.com/2026/09/02/how-to-redesign-your-author-business-for-the-environment-that-actually-exists-with-tracy-cooper-posey/",
+      "source": "The Creative Penn",
+      "category": "books",
+      "published_iso": "2026-09-02T06:30:00Z",
+      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/09/redesign-author-business-v2.jpg",
+      "excerpt": "Tracy Cooper-Posey discusses forming a personal AI-use policy to cut decision fatigue, sharing how a clear framework let her stop relitigating AI questions in her author business every day."
     }
   ]
 }

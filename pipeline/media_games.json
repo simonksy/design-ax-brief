@@ -1,34 +1,26 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "games",
   "media": [
     {
-      "id": "games-ai-panic-forcing-developers-prove",
-      "type": "video",
-      "src": "pipeline/media/games-ai-panic-forcing-developers-prove.mp4",
-      "poster": "pipeline/media/games-ai-panic-forcing-developers-prove.jpg"
-    },
-    {
-      "id": "games-hands-dlss-5-nba-2k27",
+      "id": "games-artstation",
       "type": "image",
-      "src": "pipeline/media/games-hands-dlss-5-nba-2k27.jpg"
+      "src": "pipeline/media/games-artstation.jpg"
     },
     {
-      "id": "games-modder-enables-dlss-5-neural",
-      "type": "video",
-      "src": "pipeline/media/games-modder-enables-dlss-5-neural.mp4",
-      "poster": "pipeline/media/games-modder-enables-dlss-5-neural.jpg"
-    },
-    {
-      "id": "games-building-procedural-shell-grotto-substance",
-      "type": "video",
-      "src": "pipeline/media/games-building-procedural-shell-grotto-substance.mp4",
-      "poster": "pipeline/media/games-building-procedural-shell-grotto-substance.jpg"
-    },
-    {
-      "id": "games-24-gamescom-reveals-officially-used",
+      "id": "games-dlss5-kcd",
       "type": "image",
-      "src": "pipeline/media/games-24-gamescom-reveals-officially-used.jpg"
+      "src": "pipeline/media/games-dlss5-kcd.jpg"
+    },
+    {
+      "id": "games-dwarf-fortress",
+      "type": "image",
+      "src": "pipeline/media/games-dwarf-fortress.jpg"
+    },
+    {
+      "id": "games-dlss5-mods",
+      "type": "image",
+      "src": "pipeline/media/games-dlss5-mods.jpg"
     }
   ]
 }

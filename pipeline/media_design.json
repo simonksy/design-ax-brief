@@ -1,11 +1,32 @@
 {
-  "date": "2026-09-05",
   "section": "design",
+  "date": "2026-09-06",
   "media": [
-    {"id": "design-armorpaint-1-0-out-after", "type": "image", "src": "pipeline/media/design-armorpaint-1-0-out-after.jpg"},
-    {"id": "design-figma-motion-basics-time-stamped", "type": "video", "src": "pipeline/media/design-figma-motion-basics-time-stamped.mp4", "poster": "pipeline/media/design-figma-motion-basics-time-stamped.jpg"},
-    {"id": "design-auto-syncing-tailwind-config-from", "type": "image", "src": "pipeline/media/design-auto-syncing-tailwind-config-from.png"},
-    {"id": "design-parker-only-went-made-those", "type": "video", "src": "pipeline/media/design-parker-only-went-made-those.mp4", "poster": "pipeline/media/design-parker-only-went-made-those.jpg"},
-    {"id": "design-why-does-ai-generated-food", "type": "image", "src": "pipeline/media/design-why-does-ai-generated-food.jpg"}
+    {
+      "id": "design-agentic-canvas",
+      "type": "image",
+      "src": "pipeline/media/design-agentic-canvas.png"
+    },
+    {
+      "id": "design-lamp-robot",
+      "type": "image",
+      "src": "pipeline/media/design-lamp-robot.jpg"
+    },
+    {
+      "id": "design-rtx-spark",
+      "type": "image",
+      "src": "pipeline/media/design-rtx-spark.jpg"
+    },
+    {
+      "id": "design-dynamic-text",
+      "type": "video",
+      "src": "pipeline/media/design-dynamic-text.mp4",
+      "poster": "pipeline/media/design-dynamic-text.jpg"
+    },
+    {
+      "id": "design-ai-writing-tells",
+      "type": "image",
+      "src": "pipeline/media/design-ai-writing-tells.jpg"
+    }
   ]
 }

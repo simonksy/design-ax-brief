@@ -1,102 +1,66 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "science",
   "picks": [
     {
-      "id": "science-small-molecule-atlas",
+      "url": "https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "category": "science",
-      "headline": "New AI tool maps the hidden universe of small molecules",
-      "url": "https://phys.org/news/2026-09-ai-tool-hidden-universe-small.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-04T21:00:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-maps-the-h.jpg",
-      "excerpt": "A new AI model charts the vast, largely uncatalogued space of small molecules, giving chemists and metabolomics researchers a way to identify compounds that current reference libraries miss.",
-      "rationale": "Freshest item in the pool and a concrete new tool: it extends compound identification beyond existing reference libraries, which directly changes how metabolomics work gets done."
+      "headline": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
+      "rationale": "St. Jude/Harvard's AdaptiveFlow screens billions of drug-like molecules at ~1,000x lower compute cost than existing ultra-large screening methods — a concrete, quantified AI-for-science advance.",
+      "published_iso": "2026-09-01T21:00:07Z",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-informed-adaptivefl-1.jpg",
+      "excerpt": "Scientists from St. Jude, the University of Pavia, Dana-Farber and Harvard unveiled AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules at roughly 1,000-fold lower computational cost than existing ultra-large screening methods."
     },
     {
-      "id": "science-ai2-hard-parts",
+      "url": "https://phys.org/news/2026-09-ai-driven-polymer-discovery-years.html",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "category": "science",
-      "headline": "The hard parts of AI-assisted science",
-      "url": "https://allenai.org/blog/swedish-autodiscovery-recap",
-      "source": "Ai2",
-      "published_iso": "2026-09-01T12:00:00Z",
-      "og_image": "https://www.datocms-assets.com/64837/1788227206-blogthumbnail-takeaways-1.jpg",
-      "excerpt": "Ai2 researchers lay out five unsolved problems in AI-assisted science: keeping agents steerable as a project evolves, deciding what to delegate, and stopping AI from amplifying methodological flaws.",
-      "rationale": "The most actionable piece here — a first-party list of where AI research agents actually break, usable as a checklist by anyone delegating work to them tomorrow."
+      "headline": "AI-driven polymer discovery could replace years of trial and error with closed-loop testing",
+      "rationale": "Proposes a closed-loop ecosystem linking databases, predictive models, AI agents, simulations and automated labs — a template for how materials-science R&D pipelines are being restructured around AI.",
+      "published_iso": "2026-09-04T13:40:03Z",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/empowering-polymeric-m.jpg",
+      "excerpt": "Researchers propose a closed-loop polymer-discovery ecosystem that links databases, predictive models, AI agents, simulations and automated labs to compress years of trial-and-error materials work into much faster cycles."
     },
     {
-      "id": "science-genomic-transfer-learning",
+      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+      "source": "Quanta Magazine",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "cube",
-      "category": "science",
-      "headline": "Transfer learning for genomic prediction in underrepresented populations",
-      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-      "source": "Google Research",
-      "published_iso": "2026-09-03T18:20:31Z",
-      "og_image": "",
-      "excerpt": "Google Research describes a transfer-learning approach that carries polygenic prediction power from data-rich cohorts into populations that genomics studies have historically left out.",
-      "rationale": "A named method attacking the best-known equity failure in polygenic prediction; credible first-party writeup and distinct from the section's recent Google items."
+      "headline": "Live from ICM 2026: What Is Math For in the Age of AI?",
+      "rationale": "A live dispatch from the International Congress of Mathematicians on what mathematicians still value about doing math as AI systems increasingly generate proofs — high-credibility reflection on AI's frontier in a rigorous discipline.",
+      "published_iso": "2026-09-03T13:41:48Z",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg",
+      "excerpt": "A live recording from the International Congress of Mathematicians examines what mathematicians value about doing math as AI systems increasingly generate proofs and tackle open problems."
     },
     {
-      "id": "science-mammogram-ai-review",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "category": "science",
-      "headline": "AI may help identify breast cancers missed by mammograms, but clinical benefit remains uncertain",
-      "url": "https://medicalxpress.com/news/2026-09-ai-breast-cancers-mammograms-clinical.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-04T15:40:08Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-may-help-identify-b-1.jpg",
-      "excerpt": "A new evidence review finds AI readers do surface cancers human screeners miss, while cautioning that better detection has not yet been shown to translate into better patient outcomes.",
-      "rationale": "An evidence review, not another single-model claim: it separates detection gains from patient benefit, the distinction clinical AI coverage usually collapses."
-    },
-    {
-      "id": "science-llm-attention-deficit",
+      "url": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
+      "source": "Quanta Magazine",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "category": "science",
-      "headline": "The Attention Deficit of AI Revealed",
-      "url": "https://www.psychologytoday.com/nz/blog/the-future-brain/202609/the-attention-deficit-of-ai-revealed",
-      "source": "Psychology Today",
-      "published_iso": "2026-09-03T13:15:02Z",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic15954_85.jpg?itok=MKguL9XJ",
-      "excerpt": "A PNAS Nexus study ran leading LLMs through the Stroop test and found they have limited executive control of attention — a gap the authors say is architectural, not just a memory problem.",
-      "rationale": "Classic cognitive-science instrument turned on frontier models, with a specific, falsifiable claim about architectural limits — adds the psychology axis the section lacked this week."
-    }
-  ],
-  "dedup_notes": {
-    "checked_against": "news_data.json sections.science (today 2026-09-04 + days 2026-08-30..2026-09-03, 30 cards)",
-    "content_dupes_dropped": [
-      "Quanta 'Live from ICM 2026' and Quanta 'In an Age of AI, a Physicist Seeks What Endures' — same outlet, same AI-and-the-craft-of-science framing published together; would have kept only one, but neither outscored the final five.",
-      "Physics World 'AI dominates ICBS Beijing' — overlaps the Quanta conference framing; dropped as the weaker of the two conference reports.",
-      "Google Research 'Planetary prediction engine / Earth AI' — distinct from the already-published MAPL-EMIT methane piece (2026-09-02), but dropped to keep the outlet cap at one Google Research card."
-    ],
-    "no_url_or_story_matches_published_history": true
-  },
-  "diversity_check": {
-    "outlet_families": {
-      "phys.org/techxplore/medicalxpress": 2,
-      "allenai.org": 1,
-      "research.google": 1,
-      "psychologytoday.com": 1
+      "headline": "In an Age of AI, a Physicist Seeks What Endures",
+      "rationale": "Yale physicist Sarah Demers is drafting an APS policy statement on AI, weighing real risks against benefits like an AI system already helping control the Mu2e experiment — a credible, policy-relevant angle on AI in physics.",
+      "published_iso": "2026-09-03T13:35:59Z",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Social.jpg",
+      "excerpt": "Yale physicist Sarah Demers, who is drafting an American Physical Society policy statement on AI, weighs the technology's risks against emerging benefits, including an AI system that helps control the Mu2e experiment's search for a rare muon-to-electron transformation."
     },
-    "distinct_outlet_families": 4,
-    "topics": [
-      "chemistry / metabolomics",
-      "AI research methodology",
-      "genomics",
-      "clinical imaging",
-      "cognitive science"
-    ]
-  },
-  "count": 5
+    {
+      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202608/brain-computer-interface-aligns-better-with-humans-via-ai",
+      "source": "Psychology Today",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "headline": "Brain-Computer Interface Aligns Better with Humans via AI",
+      "rationale": "New research shows combining human motor learning with AI improves BCI calibration and performance — a novel result with direct relevance to people who've lost the ability to move or speak, rounding out the section with cognitive-science coverage.",
+      "published_iso": "2026-08-31T21:47:56Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-08/pic15u15.jpg?itok=8GIcLtKn",
+      "excerpt": "New research shows that combining human motor learning with AI improves brain-computer interface calibration and performance, offering hope for people who have lost the ability to move or speak."
+    }
+  ]
 }

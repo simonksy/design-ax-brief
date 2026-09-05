@@ -1,103 +1,56 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "section": "movies",
   "picks": [
     {
+      "url": "https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/",
+      "source": "Deadline",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "headline": "Over 500 Free Maya Animation Tools Are Now Available In One Place",
-      "url": "https://80.lv/articles/over-500-free-maya-animation-tools-are-now-available-in-one-place/",
-      "source": "80 Level",
-      "published_iso": "2026-09-04T13:55:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50051/images/6a9acdecbbc72/contain_1200x630.jpg",
-      "excerpt": "Animo v10.0 collects more than 500 free Maya animation tools into a single library, putting a large chunk of the animator's daily toolkit behind one install.",
-      "rationale": "Highest-actionability item in the pool — one install changes an animator's Maya toolkit tomorrow morning, and it is fresh (Sept 4).",
-      "id": "movies-over-500-free-maya-animation"
+      "rationale": "Oscar-winning director on the record about a specific generative-AI use (de-aging/recreating real figures in archival-style photos) inside a Venice competition title — concrete, credible, and distinct from the earlier general AI-vs-journalism remarks he made at the same festival.",
+      "published_iso": "2026-09-05T21:41:26+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Ink.png?w=1024",
+      "excerpt": "\"There's about 30 seconds of it in our movie,\" the Oscar winner said about using generative AI to bring the Kray twins and Margaret Thatcher to life on screen in old photographs."
     },
     {
+      "url": "https://www.youtube.com/watch?v=4wva-82hHJ0",
+      "source": "Curious Refuge",
       "tool": "Movies",
-      "category": "movies",
-      "accent": "#f5a623",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "headline": "Tamar AI's TapNow Brings AI-Native Filmmaking to Venice Production Bridge, Unveils Streamer Glanze",
-      "url": "https://variety.com/2026/tv/news/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
-      "source": "Variety",
-      "published_iso": "2026-09-04T08:40:43+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Key-visual-for-TapNow-AI-Screening-on-VPB.jpg?w=1000&h=563&crop=1",
-      "excerpt": "TapNow, HappyHorse and Glanze head to the Venice Production Bridge as Palo Alto's Tamar AI bets its AI-native 'creative operating system' can turn small teams into global studios. The web version of streamer Glanze launched Sept. 4 with 40-plus series.",
-      "rationale": "A new AI-native production stack plus a live streaming outlet shipping the same day — the distribution half of AI filmmaking that most tool news skips.",
-      "id": "movies-tamar-ai-s-tapnow-brings"
+      "rationale": "A concrete, reusable technique — generating new camera coverage from existing footage — that changes how editors and directors can approach reshoots and coverage gaps tomorrow.",
+      "published_iso": "2026-09-05T17:30:28+00:00",
+      "og_image": "https://i.ytimg.com/vi/4wva-82hHJ0/maxresdefault.jpg",
+      "excerpt": "Curious Refuge walks through a workflow that uses existing footage to generate new camera coverage — reframing shots that were never actually captured that way on set."
     },
     {
+      "url": "https://www.fxguide.com/fxpodcasts/crafty-apes-ceo-alana-newell/",
+      "source": "fxguide",
       "tool": "Movies",
-      "category": "movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "headline": "One of the new categories at the VES Awards is 'Outstanding In-Camera Effects in a Photoreal Project'",
-      "url": "https://beforesandafters.com/2026/08/27/one-of-the-new-categories-at-the-ves-awards-is-outstanding-in-camera-effects-in-a-photoreal-project/",
-      "source": "befores & afters",
-      "published_iso": "2026-08-26T16:01:53+00:00",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2025/01/53546041416_ea0b102178_o.jpg",
-      "excerpt": "The Visual Effects Society announced new categories and rule updates for the VES Awards, including a category that singles out effects achieved in camera rather than generated in post.",
-      "rationale": "A rule change, not a rehash: the industry's own awards body is now formally rewarding what is achieved in camera — a direct read on where the generative-vs-practical line is being drawn.",
-      "id": "movies-one-new-categories-at-ves"
+      "rationale": "Rare CEO-level view from a major VFX house on how AI tooling is actually reshaping pipelines and studio strategy, not just a single-feature announcement.",
+      "published_iso": "2026-08-31T16:27:25+00:00",
+      "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-craftyApes.jpg",
+      "excerpt": "From compositor to CEO: Alana Newell on where Crafty Apes is heading as VFX pipelines absorb new AI tooling and studios rethink how shots get made."
     },
     {
+      "url": "https://variety.com/2026/film/asia/google-deepmind-amazon-web-services-busan-market-innoasia-1236843573/",
+      "source": "Variety",
       "tool": "Movies",
-      "category": "movies",
-      "accent": "#2ec5c5",
+      "accent": "#f5a623",
       "motif": "frame",
-      "headline": "Introducing Solaris, our first Interface World Model",
-      "url": "https://www.youtube.com/watch?v=c2yCePPnrSA",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-08-31T16:36:02+00:00",
-      "og_image": "https://i.ytimg.com/vi/c2yCePPnrSA/maxresdefault.jpg",
-      "excerpt": "Runway unveils Solaris, an 'interface world model' that generates interactive interfaces frame by frame — a generative system aimed at software surfaces rather than shots.",
-      "rationale": "New model class from a first-party source: a world model pointed at interfaces rather than shots, which widens what a generative pipeline can be asked to produce.",
-      "id": "movies-introducing-solaris-our-first-interface"
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "headline": "What makes a good ROTOSCOPE?",
-      "url": "https://www.youtube.com/watch?v=iIIZBNHNJbs",
-      "source": "Corridor Crew (YouTube)",
-      "published_iso": "2026-09-04T16:00:10+00:00",
-      "og_image": "https://i.ytimg.com/vi/iIIZBNHNJbs/maxresdefault.jpg",
-      "excerpt": "Emmy-nominated VFX supervisor Marion Spates breaks down what separates a good roto from a bad one — the craft judgement that automated matting tools still have to clear.",
-      "rationale": "Concrete craft criteria from a working VFX supervisor — the quality bar any auto-matting or AI roto tool has to clear before it ships in a shot.",
-      "id": "movies-what-makes-good-rotoscope"
+      "rationale": "Signals where the big AI production-tech players (DeepMind, AWS, Kling) are placing bets outside Hollywood, pairing with Korean startups — useful market-diversity read for the section.",
+      "published_iso": "2026-08-26T07:00:20+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Busan's Asian Contents & Film Market unveiled its InnoAsia lineup, pairing global AI production-tech firms with seven Korean startups plus a branded-film contest."
     }
   ],
-  "dedup_notes": {
-    "checked_against": "news_data.json sections.movies (today 2026-09-04 + days 2026-08-30..2026-09-03, 30 cards)",
-    "dropped": [
-      {
-        "url": "https://deadline.com/2026/09/danny-boyle-journalism-truth-power-ai-venice-1237065313/",
-        "reason": "Same event as published 2026-09-03 card 'movies-boyle-venice-ai' (Screen Daily) — Danny Boyle's Venice 'Ink' press conference AI remarks, different outlet."
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=YK5Rgbb0FK4",
-        "reason": "Same release as published 2026-09-03 card 'movies-runway-ruby' — Runway Ruby EXR/ProRes output, same source channel, reworded as a getting-started clip."
-      },
-      {
-        "url": "https://postperspective.com/astro-burn-game-expands-into-animated-vertical-microseries/",
-        "reason": "Same project as published 2026-09-04 card 'movies-showcraft-public' (AWN), which covers Nura Studios / HaZ Dulull's Astro Burn vertical microseries as its lead example."
-      },
-      {
-        "url": "https://nofilmschool.com/eddie-ai-updates-pricing",
-        "reason": "Content-hub repeat: No Film School ran an Eddie AI product update on 2026-09-03 ('movies-eddie-agent-marketplace'); a second Eddie AI update from the same outlet would read as a repeat."
-      },
-      {
-        "url": "https://www.youtube.com/watch?v=fE59FYMIttQ",
-        "reason": "Showcase reel only, low novelty/actionability; also would have made a third Runway card in three days."
-      }
-    ],
-    "diversity": "5 distinct outlets (80 Level, Variety, befores & afters, Runway, Corridor Crew), max 1 card per outlet, 2 video cards total."
-  },
-  "count": 5
+  "dropped_duplicates": [
+    {
+      "url": "https://postperspective.com/avid-media-composer-2026-8-at-ibc-agentic-workflows-more/",
+      "reason": "Same release (Avid Media Composer 2026.8) already published in sections.movies on 2026-09-04 via a different outlet (ProVideo Coalition, id movies-avid-mc-2026-8, url https://www.provideocoalition.com/avid-media-composer-2026-8-is-now-available/)."
+    }
+  ]
 }

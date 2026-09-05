@@ -1,242 +1,94 @@
 {
-  "date": "2026-09-05",
-  "section": "design",
-  "now_iso": "2026-09-04T22:00:00Z",
+  "date": "2026-09-06",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://80.lv/articles/this-web-tool-lets-you-create-360-degree-illustrations",
-      "source": "80 Level",
-      "category": "render",
-      "headline": "This Web Tool Lets You Create 360-Degree Illustrations",
-      "published_iso": "2026-09-04T16:00:00+00:00",
-      "excerpt": "A browser-based sketching tool that lets illustrators draw directly onto a 360-degree panoramic canvas. \"It's a really fun way to sketch.\"",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50055/images/6a9aeb032d450/contain_1200x630.jpg"
-    },
-    {
-      "url": "https://80.lv/articles/blender-studio-opens-overgrown-s-free-behind-the-scenes-archive",
-      "source": "80 Level",
-      "category": "render",
-      "headline": "Blender Studio Opens OVERGROWN's Free Behind-the-Scenes Archive",
-      "published_iso": "2026-09-04T19:24:00+00:00",
-      "excerpt": "A limited-time Open Doors Week provides free access to production logs covering animation, rigging, fur, shading, sets, lighting, water effects and compositing.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50059/images/6a9b1aee2e216/contain_1200x630.jpg"
-    },
-    {
-      "url": "https://www.cgchannel.com/2026/09/armorpaint-1-0-is-out-after-eight-years-in-early-access/",
-      "source": "CG Channel",
-      "category": "render",
-      "headline": "ArmorPaint 1.0 is out after eight years in early access",
-      "published_iso": "2026-09-04T17:03:11+00:00",
-      "excerpt": "The first 'official' release of the popular open-source 3D texture painting app is ready to download, arriving eight years after it entered early access.",
-      "og_image": null
-    },
-    {
-      "url": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
-      "source": "Vercel",
+      "url": "https://www.figma.com/release-notes/",
+      "source": "Figma",
       "category": "figma",
-      "headline": "GPT 6 Astra now available on Vercel AI Gateway",
-      "published_iso": "2026-09-04T00:00:00Z",
-      "excerpt": "GPT 6 Astra from OpenAI is now available on Vercel AI Gateway for coding, computer use, research, and multi-step professional workflows.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png"
+      "published_iso": "2026-09-03T12:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma's Sep 3 release note \"Control opacity at scale\" lets designers alias opacity in the variables modal while color stays linked to the library, instead of detaching and adjusting opacity by hand."
     },
     {
-      "url": "https://vercel.com/changelog/muse-spark-1-3-now-available-on-ai-gateway",
-      "source": "Vercel",
+      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
+      "source": "UX Collective (uxdesign.cc)",
       "category": "figma",
-      "headline": "Muse Spark 1.3 now available on AI Gateway",
-      "published_iso": "2026-09-02T00:00:00Z",
-      "excerpt": "Call Meta's Muse Spark 1.3 through Vercel AI Gateway with one API key: no provider account, plus fallbacks, spend tracking and traces on every request.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png"
+      "published_iso": "2026-09-02T22:13:30Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png",
+      "excerpt": "How agentic interfaces are changing what designers control: the agentic canvas now pulls context from across tools into one place and acts on it without step-by-step instructions."
     },
     {
-      "url": "https://www.figma.com/blog/how-coinbase-used-code-connect-to-shrink-token-costs/",
-      "source": "Figma Blog",
+      "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0",
+      "source": "UX Collective (uxdesign.cc)",
       "category": "figma",
-      "headline": "How Coinbase used Code Connect to guide agents and shrink token costs",
-      "published_iso": "2026-09-02T20:28:00Z",
-      "excerpt": "The Coinbase Design System team put Code Connect to the test against coding agents and found it boosted design system adherence while cutting token costs by an average of 22.5%.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/cbeec3426e9a9957f218d4969897d0e2e8c79fd7-1999x1125.png?w=1200&q=70&fit=max&auto=format"
+      "published_iso": "2026-09-05T00:21:17Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/0*D16_e7xgMV5532j5",
+      "excerpt": "The question isn't whether AI reduces work, but where the intellectual work moves -- an argument that reading and writing are themselves interfaces AI can now smooth out."
     },
     {
-      "url": "https://www.creativebloq.com/ai/meet-lamp-an-alive-pixar-like-robot-that-watches-your-posture-remembers-strangers-faces-and-answers-your-emails",
+      "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f",
+      "source": "UX Collective (uxdesign.cc)",
+      "category": "figma",
+      "published_iso": "2026-09-03T22:39:12Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Od8x5k-43Z_nXRMTQXB6XA.png",
+      "excerpt": "Minority Report gave interaction designers two futures for gestural, predictive computing -- two decades later, this piece argues the industry rebuilt only the easy-to-demo one, not the cautionary one."
+    },
+    {
+      "url": "https://www.creativebloq.com/art/digital-art/artstation-is-finally-taking-action-against-ai-art-but-theres-one-question-it-doesnt-want-to-answer",
       "source": "Creative Bloq",
       "category": "figma",
-      "headline": "Meet Lamp: an 'alive' Pixar-like desk robot that watches your posture and answers your emails",
-      "published_iso": "2026-09-03T12:00:00Z",
-      "excerpt": "An embodied AI desk assistant designed with Pixar-style character animation cues: it monitors posture, remembers faces and handles email. Is this the future of product form?",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6-2560-80.jpg"
+      "published_iso": "2026-09-03T14:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dGgCUgM9B78DhMFiK75VbZ-1200-80.webp",
+      "excerpt": "ArtStation is moving to act against AI-generated art on its platform, but critics say the policy dodges the harder question of how it will actually be enforced for working artists."
     },
     {
       "url": "https://www.creativebloq.com/design/advertising/parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real",
       "source": "Creative Bloq",
       "category": "figma",
-      "headline": "Parker only went and made those viral anti-AI pen billboards real",
       "published_iso": "2026-09-04T08:00:00Z",
-      "excerpt": "Designer-submitted anti-AI concepts for Parker pens, which went viral online, have been turned into real Times Square advertising.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Jj94UaRhKysYSDUgGK7i7S-1920-80.jpg"
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Jj94UaRhKysYSDUgGK7i7S-1920-80.jpg",
+      "excerpt": "Parker turned viral anti-AI pen concept ads into real Times Square billboards, a creative campaign leaning into backlash against generative AI in advertising and design."
     },
     {
-      "url": "https://www.creativebloq.com/design/fonts-typography/the-viral-lionel-messi-font-is-based-on-real-plays-and-fans-are-trying-to-work-out-which",
+      "url": "https://www.creativebloq.com/ai/meet-lamp-an-alive-pixar-like-robot-that-watches-your-posture-remembers-strangers-faces-and-answers-your-emails",
       "source": "Creative Bloq",
       "category": "figma",
-      "headline": "The ingenious Lionel Messi font is based on real plays, and people are trying to work out which",
-      "published_iso": "2026-09-04T09:00:00Z",
-      "excerpt": "A viral typeface draws every letterform from the tracked paths of actual Messi plays, turning match data into a legible alphabet fans are decoding.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/EJSpukviJstCg7nTsMFswS-1920-80.jpg"
+      "published_iso": "2026-09-03T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6-2560-80.jpg",
+      "excerpt": "Meet Lamp, an \"alive\" Pixar-like desk robot with character design and embodied AI that watches posture, remembers faces, and answers emails -- raising the question of whether this is the future of embodied assistants."
     },
     {
-      "url": "https://dev.to/quintetkit/why-ai-generated-screens-look-ai-like-isnt-a-taste-issue-noi",
-      "source": "DEV Community",
-      "category": "tokens",
-      "headline": "Why AI-Generated Screens Look 'AI-Like' Isn't a Taste Issue",
-      "published_iso": "2026-09-04T16:06:20Z",
-      "excerpt": "When you ask generative AI to create a screen, the same patterns appear every time - a hero section, the same spacing, the same cards. The author argues this is structural, not a matter of taste.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fopnf0jvn0d6xbtj8u3uh.png"
-    },
-    {
-      "url": "https://dev.to/sharphaw/we-replaced-the-brand-guidelines-pdf-with-tokens-the-clients-forms-link-page-and-chat-widget-5g6f",
-      "source": "DEV Community",
-      "category": "tokens",
-      "headline": "We replaced the brand guidelines PDF with tokens the client's forms, link page and chat widget inherit",
-      "published_iso": "2026-09-04T14:00:27Z",
-      "excerpt": "Brand Kit stores colours, type, radius, logos and an icon pack once, exports them as CSS, JSON or Tailwind, and has forms, Spotlight and the support widget inherit them at runtime.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fapi.sharphaw.digital%2Fapi%2Fstorage%2Ffcaeec18-8f5d-4b53-976f-0ce6c43cfa7a"
-    },
-    {
-      "url": "https://dev.to/alexandersstudi/auto-syncing-tailwind-config-from-figma-variables-on-every-pull-request-4hg9",
-      "source": "DEV Community",
-      "category": "tokens",
-      "headline": "Auto-syncing Tailwind config from Figma variables on every pull request",
-      "published_iso": "2026-09-02T16:30:47Z",
-      "excerpt": "After a merge conflict broke staging, the author wired Figma variables straight into the Tailwind config so every pull request regenerates design tokens automatically.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo02vn2ie7a8xrtuwtenm.png"
-    },
-    {
-      "url": "https://develop3d.com/cad/siemens-realize-live-2026/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "headline": "Siemens Realize Live 2026",
-      "published_iso": "2026-09-02T12:53:24+00:00",
-      "excerpt": "Siemens' Xcelerator gained momentum as global events showcased new features, partnerships and its push toward industry dominance in CAD and simulation.",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Realize-Live-2026.jpg"
-    },
-    {
-      "url": "https://develop3d.com/3d-printing/new-floating-titanium-material-for-marine-developed/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "headline": "New floating titanium material for marine developed",
-      "published_iso": "2026-09-04T10:03:23+00:00",
-      "excerpt": "Researchers create the world's first floating titanium lattice structure, a computationally designed material aimed at marine infrastructure.",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Floating-titanium.jpg"
-    },
-    {
-      "url": "https://www.keyshot.com/blog/why-design-teams-need-faster-visualization-software/",
-      "source": "KeyShot",
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "source": "NVIDIA Blog",
       "category": "render",
-      "headline": "10 signs your design team needs faster 3D visualization software",
-      "published_iso": "2026-09-02T19:18:20+00:00",
-      "excerpt": "Slow renders cost more than you think. KeyShot lays out ten signals that a product team has outgrown its visualization pipeline, and how real-time rendering changes decision speed.",
-      "og_image": "https://www.keyshot.com/wp-content/uploads/2026/08/OVO-Traveling-Bag-concept-Design-2020-scaled.jpg"
+      "published_iso": "2026-09-03T16:00:59Z",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+      "excerpt": "At IFA 2026, NVIDIA highlighted local AI tools including CyberLink PhotoDirector's AI PC Mode, which runs generative editing, background replacement, and portrait refinement locally on RTX Spark hardware without cloud token limits."
     },
     {
-      "url": "https://roadtovr.com/these-clever-tools-make-vr-way-more-immersive-inside-xr-design/",
-      "source": "Road to VR",
-      "category": "vr",
-      "headline": "VR Design Unpacked: How clever tools in 'Red Matter 2' boost immersion",
-      "published_iso": "2026-09-04T17:48:12+00:00",
-      "excerpt": "Inside XR Design examines the design of Red Matter 2's 'grabber tools' and the many small ways they contribute to immersion, four years after the game's release.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg"
+      "url": "https://www.youtube.com/watch?v=6JqKHBGOV38",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "category": "social",
+      "published_iso": "2026-09-04T19:02:28Z",
+      "og_image": "https://i.ytimg.com/vi/6JqKHBGOV38/maxresdefault.jpg",
+      "excerpt": "In this episode of The Unlock, illustrator Carly Berry uses Generative Recolor in Adobe Illustrator to experiment and find her iconic color palettes."
     },
     {
-      "url": "https://www.uploadvr.com/finding-frida-uses-vr-to-rediscover-a-forgotten-textile-artist/",
-      "source": "UploadVR",
-      "category": "vr",
-      "headline": "Finding Frida Uses VR To Rediscover A Forgotten Textile Artist",
-      "published_iso": "2026-09-03T23:33:29Z",
-      "excerpt": "Finding Frida is a 41-minute VR documentary at Venice Immersive using photorealistic 3D scans and animated artwork to explore the life of forgotten Norwegian textile artist Frida Hansen.",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Finding-Frida-Hero.jpeg"
+      "url": "https://www.youtube.com/watch?v=7q3spdQlZLA",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "category": "social",
+      "published_iso": "2026-09-03T20:09:41Z",
+      "og_image": "https://i.ytimg.com/vi/7q3spdQlZLA/maxresdefault.jpg",
+      "excerpt": "Adobe demos Dynamic Text in Photoshop, which automatically adjusts placed text layers' space and structure as content changes, built from customer feedback."
     },
     {
-      "url": "https://www.engadget.com/2246397/how-to-edit-claude-memory/",
-      "source": "Engadget",
-      "category": "render",
-      "headline": "How to edit Claude's memory",
-      "published_iso": "2026-09-04T12:00:00+00:00",
-      "excerpt": "Claude's memory serves as context for future prompts. You can edit or delete items from the memory, and choose whether Claude includes sensitive topics.",
-      "og_image": "https://www.engadget.com/img/gallery/how-to-edit-claudes-memory/l-intro-1787857357.jpg"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "source": "The Verge",
+      "url": "https://www.fastcompany.com/91599906/worried-your-writing-sounds-like-ai-these-tools-can-help",
+      "source": "Fast Company",
       "category": "workflow",
-      "headline": "Why does AI-generated food look like that?",
-      "published_iso": "2026-09-04T11:00:00+00:00",
-      "excerpt": "Worms, holes, and cracks reveal the technical weaknesses of image generators - a close read of why AI food imagery keeps failing in the same visual ways.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "source": "The Verge",
-      "category": "workflow",
-      "headline": "Instagram's AI detection is a mess (again)",
-      "published_iso": "2026-09-04T12:00:00Z",
-      "excerpt": "Meta has been tagging real photos and original creative work on Instagram with AI Content labels again, while letting undeniably AI images slip through the cracks.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
-      "source": "UX Collective",
-      "category": "figma",
-      "headline": "When the canvas starts acting, who's really in control?",
-      "published_iso": "2026-09-02T22:13:30Z",
-      "excerpt": "How agentic interfaces are changing what designers control, from interactions to agency, orchestration and attention. The agentic canvas now pulls context across tools and acts without step-by-step instructions.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png"
-    },
-    {
-      "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f",
-      "source": "UX Collective",
-      "category": "figma",
-      "headline": "What Minority Report got wrong about AI (so far)",
-      "published_iso": "2026-09-03T22:39:12Z",
-      "excerpt": "For two decades Minority Report has been shorthand for the future of interaction. The film gave us two futures, and the industry rebuilt the one that was easy to demo.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Od8x5k-43Z_nXRMTQXB6XA.png"
-    },
-    {
-      "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2",
-      "source": "UX Collective",
-      "category": "figma",
-      "headline": "AI took away engineering's right to say no",
-      "published_iso": "2026-09-02T22:13:11Z",
-      "excerpt": "AI didn't touch what engineers actually know - it ended their power to be the only ones who could say what was possible, reshaping how design and engineering negotiate scope.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*xLTIGhGp-sD2qCLrYrKjFg.jpeg"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=xI4tglaE5GA",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "headline": "Figma Motion basics: Time-stamped comments",
-      "published_iso": "2026-09-02T15:00:26Z",
-      "excerpt": "A short walkthrough of time-stamped comments in Figma Motion, which tie feedback to specific moments in an animation instead of the whole file.",
-      "og_image": "https://i.ytimg.com/vi/xI4tglaE5GA/maxresdefault.jpg"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=h8Wpz5WzzLI",
-      "source": "The AI Advantage (YouTube)",
-      "category": "social",
-      "headline": "You Have to Try Claude Cowork's New Built-In Browser",
-      "published_iso": "2026-09-03T16:24:44Z",
-      "excerpt": "A hands-on look at the built-in browser inside Claude Cowork and how it changes agent-driven research and production workflows.",
-      "og_image": "https://i.ytimg.com/vi/h8Wpz5WzzLI/maxresdefault.jpg"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=FluKUJyeYD8",
-      "source": "Fireship (YouTube)",
-      "category": "social",
-      "headline": "Did OpenAI actually build AGI? GPT-6 Astra first look",
-      "published_iso": "2026-09-04T20:14:12Z",
-      "excerpt": "A first look at OpenAI's GPT-6 Astra announcement and what its agentic and computer-use gains actually mean for people who build and design software.",
-      "og_image": "https://i.ytimg.com/vi/FluKUJyeYD8/maxresdefault.jpg"
+      "published_iso": "2026-09-03T15:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91599906-ai-style-finding-tools.jpg",
+      "excerpt": "As AI-generated writing floods LinkedIn, Substack, and even medical papers, a new crop of tools promises to help writers find and fix the AI \"tells\" in their own style and workflow."
     }
   ]
 }

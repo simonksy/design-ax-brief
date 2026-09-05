@@ -1,11 +1,25 @@
 {
-  "date": "2026-09-05",
-  "section": "movies",
   "media": [
-    {"id": "movies-over-500-free-maya-animation", "type": "image", "src": "pipeline/media/movies-over-500-free-maya-animation.jpg"},
-    {"id": "movies-tamar-ai-s-tapnow-brings", "type": "image", "src": "pipeline/media/movies-tamar-ai-s-tapnow-brings.jpg"},
-    {"id": "movies-one-new-categories-at-ves", "type": "image", "src": "pipeline/media/movies-one-new-categories-at-ves.jpg"},
-    {"id": "movies-introducing-solaris-our-first-interface", "type": "video", "src": "pipeline/media/movies-introducing-solaris-our-first-interface.mp4", "poster": "pipeline/media/movies-introducing-solaris-our-first-interface.jpg"},
-    {"id": "movies-what-makes-good-rotoscope", "type": "video", "src": "pipeline/media/movies-what-makes-good-rotoscope.mp4", "poster": "pipeline/media/movies-what-makes-good-rotoscope.jpg"}
+    {
+      "id": "movies-danny-boyle",
+      "type": "image",
+      "src": "pipeline/media/movies-danny-boyle.png"
+    },
+    {
+      "id": "movies-ai-coverage",
+      "type": "video",
+      "src": "pipeline/media/movies-ai-coverage.mp4",
+      "poster": "pipeline/media/movies-ai-coverage.jpg"
+    },
+    {
+      "id": "movies-crafty-apes",
+      "type": "image",
+      "src": "pipeline/media/movies-crafty-apes.jpg"
+    },
+    {
+      "id": "movies-busan-innoasia",
+      "type": "image",
+      "src": "pipeline/media/movies-busan-innoasia.jpg"
+    }
   ]
 }
