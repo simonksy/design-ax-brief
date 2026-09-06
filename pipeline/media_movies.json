@@ -1,25 +1,34 @@
 {
+  "date": "2026-09-07",
+  "section": "movies",
   "media": [
     {
-      "id": "movies-danny-boyle",
+      "id": "movies-reply-ai-film-festival",
       "type": "image",
-      "src": "pipeline/media/movies-danny-boyle.png"
+      "src": "pipeline/media/movies-reply-ai-film-festival.jpg"
     },
     {
-      "id": "movies-ai-coverage",
+      "id": "movies-krotos-studio-footsteps",
       "type": "video",
-      "src": "pipeline/media/movies-ai-coverage.mp4",
-      "poster": "pipeline/media/movies-ai-coverage.jpg"
+      "src": "pipeline/media/movies-krotos-studio-footsteps.mp4",
+      "poster": "pipeline/media/movies-krotos-studio-footsteps.jpg"
     },
     {
-      "id": "movies-crafty-apes",
-      "type": "image",
-      "src": "pipeline/media/movies-crafty-apes.jpg"
+      "id": "movies-weta-hotd-s3-breakdown",
+      "type": "video",
+      "src": "pipeline/media/movies-weta-hotd-s3-breakdown.mp4",
+      "poster": "pipeline/media/movies-weta-hotd-s3-breakdown.jpg"
     },
     {
-      "id": "movies-busan-innoasia",
+      "id": "movies-overgrown-open-doors",
+      "type": "video",
+      "src": "pipeline/media/movies-overgrown-open-doors.mp4",
+      "poster": "pipeline/media/movies-overgrown-open-doors.jpg"
+    },
+    {
+      "id": "movies-2026-engineering-emmys",
       "type": "image",
-      "src": "pipeline/media/movies-busan-innoasia.jpg"
+      "src": "pipeline/media/movies-2026-engineering-emmys.jpg"
     }
   ]
 }

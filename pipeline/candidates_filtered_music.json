@@ -1,63 +1,121 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "music",
-  "now_iso": "2026-09-05T22:00:50Z",
   "window_hours": 336,
+  "now_iso": "2026-09-06T22:00:00Z",
   "items": [
     {
-      "title": "Google launches Lyria 3.5 in the Gemini app, AI Studio and Gemini API",
-      "headline": "Google launches Lyria 3.5 in the Gemini app, AI Studio and Gemini API",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
-      "source": "Google Blog",
-      "published_iso": "2026-09-04T00:00:00Z",
-      "excerpt": "Google has released Lyria 3.5, its best-sounding music generation model yet, now available in the Gemini app, Google AI Studio and the Gemini API. It brings more expressive vocals, richer arrangements and full-length song structure with SynthID watermarking on every track.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-1440x810.png",
-      "category": "music"
+      "url": "https://www.hypebot.com/the-three-tasks-ai-can-take-off-an-artists-plate/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-09-04T15:11:40.000Z",
+      "excerpt": "A practical breakdown of the three recurring jobs — metadata, pitch copy and content repurposing — that independent artists can hand to AI without giving up creative control.",
+      "title": "The Three Tasks AI Can Take Off Every Artist&#x27;s Plate",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/Screenshot-2026-09-03-at-2.35.44---PM.png"
     },
     {
-      "title": "Australia's ARIA bans fully AI-generated songs from its official charts",
-      "headline": "Australia's ARIA bans fully AI-generated songs from its official charts",
-      "url": "https://www.gearnews.com/ai-music-charts-tech/",
-      "source": "Gearnews",
-      "published_iso": "2026-08-29T12:22:15+02:00",
-      "excerpt": "Australia's ARIA has joined more than 20 countries in barring fully AI-generated songs from its official charts, though AI can still assist with sound design and arrangement if humans handle songwriting, lead vocals and primary instruments.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/KI-Musik-Charts-2026-T.jpg",
-      "category": "music"
+      "url": "https://www.unite.ai/roland-releases-melody-flip-an-ai-melody-generation-plug-in-for-daws/",
+      "source": "Unite.AI",
+      "category": "music",
+      "published_iso": "2026-09-04T14:00:02-04:00",
+      "excerpt": "Roland shipped Melody Flip, an AI melody-generation plug-in built with Sony CSL that analyses a reference track's key, chords and mood, then offers ~300 creative palettes of new melodic ideas exportable as MIDI or audio.",
+      "title": "Roland Releases Melody Flip, an AI Melody-Generation Plug-In for DAWs",
+      "og_image": "https://www.unite.ai/wp-content/uploads/2026/09/roland-releases-melody-flip-ai-melody-generation-plug-in.jpg"
     },
     {
-      "title": "Armin van Buuren & Laidback Luke Partner With AI Music Company Moises",
-      "headline": "Armin van Buuren & Laidback Luke Partner With AI Music Company Moises",
-      "url": "https://www.billboard.com/pro/armin-van-buuren-and-laidback-luke-partner-with-moises/",
-      "source": "Billboard",
-      "published_iso": "2026-09-02T16:00:00Z",
-      "excerpt": "Armin van Buuren and Laidback Luke have joined AI music company Moises as advisors, backing what they call a \"responsible\" approach to AI tools for DJs and producers such as stem separation and practice aids.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/armin-van-buuren-laidback-luke-2026-press-cr-moises-billboard-1800.jpg",
-      "category": "music"
-    },
-    {
-      "title": "FL Studio says GenAI can help people 'get into music-making'",
-      "headline": "FL Studio says GenAI can help people 'get into music-making'",
-      "url": "https://musically.com/2026/09/04/fl-studio-says-genai-can-help-people-get-into-music-making/",
+      "url": "https://musically.com/2026/09/04/suno-pulls-unapproved-mary-j-blige-ad-campaign-citing-deception/",
       "source": "Music Ally",
-      "published_iso": "2026-09-04T11:30:00+00:00",
-      "excerpt": "Generative-AI music tools can be a powerful funnel for bringing complete beginners into human music-making, according to the CEO and CTO of Image-Line, the company behind DAW FL Studio, who frame prompt tools as an on-ramp to the DAW rather than a replacement for it.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-04T120700.534.png?fit=2000%2C1500&ssl=1",
-      "category": "music"
+      "category": "music",
+      "published_iso": "2026-09-04T12:30:00+00:00",
+      "excerpt": "Suno pulled an ad campaign featuring Mary J. Blige after the singer said she never approved it, a reminder of how fast AI-music marketing can outrun artist consent.",
+      "title": "Suno pulls unapproved Mary J. Blige ad campaign citing deception",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
     },
     {
-      "title": "Billboard Affirms Commitment to Transparency Around AI-Generated Music",
-      "headline": "Billboard Affirms Commitment to Transparency Around AI-Generated Music",
-      "url": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/",
-      "source": "Billboard",
-      "published_iso": "2026-08-25T14:15:00Z",
-      "excerpt": "Billboard has committed to identifying songs on its charts that were made with AI, setting out how it will flag AI involvement rather than exclude it outright, putting a disclosure standard on the industry's most-watched scoreboard.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2025/01/Billboard-logo-BB-placeholder-1548.jpg?w=1024",
-      "category": "music"
+      "url": "https://www.production-expert.com/production-expert-1/pros-discuss-ai-in-music-production-tool-threat-or-the-future",
+      "source": "Production Expert",
+      "category": "music",
+      "published_iso": "2026-09-04T09:00:00+0100",
+      "excerpt": "Working engineers and producers debate where AI actually helps in a session — stem repair, comping, mastering assistance — and where it erodes the craft decisions that define a record.",
+      "title": "Pros Discuss AI In Music Production",
+      "og_image": "http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6a96e7b13f5c4834c45da20d/1788274628168/waves+vid-12.jpg?format=1500w"
+    },
+    {
+      "url": "https://www.hypebot.com/is-ai-slop-giving-artists-and-creators-a-new-life/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-09-03T13:16:22.000Z",
+      "excerpt": "As feeds fill with AI slop, Hypebot argues the flood is pushing listeners back toward human-made work and giving craft-forward artists a new positioning advantage.",
+      "title": "Is AI Slop Giving Artists and Creators a New Life?",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-2-Tal-Gonen.jpg"
+    },
+    {
+      "url": "https://musically.com/2026/09/03/jola-labs-launches-ai-business-operating-system-roster/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-09-03T12:30:00+00:00",
+      "excerpt": "JO:LA Labs launches Roster, an AI 'business operating system' that automates the admin layer around artist teams — royalties, release planning and reporting — so managers spend more time on creative work.",
+      "title": "JO:LA Labs launches AI ‘business operating system’ Roster",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-03T113935.779.png?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/donald-trumps-administration-just-sided-with-openai-in-a-key-fair-use-case-heres-what-it-means-for-musics-fight-with-anthropic-and-suno/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-09-02T21:20:17+00:00",
+      "excerpt": "The US administration filed in support of OpenAI's fair-use position, a move MBW argues could reshape the training-data fights that music creators have brought against Suno, Udio and Anthropic.",
+      "title": "Donald Trump’s administration just sided with OpenAI in a key ‘fair use’ case. Here’s what it means for music’s fight with Anthropic and Suno.",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2654665763-e1788461099173.jpg"
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/09/01/david-lowery-suno-lawsuit/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-09-01T23:47:29+00:00",
+      "excerpt": "Jason Isbell, David Lowery and other songwriters filed a class action alleging Suno coded its model to extract musicians' identities and vocal likenesses without consent.",
+      "title": "David Lowery Files Suno Lawsuit Alleging Identity Rights Violations",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/Lowery-Live.jpg"
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/08/31/sony-music-udio-lawsuit-answer/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-09-01T01:00:37+00:00",
+      "excerpt": "Udio answered Sony Music's copyright suit by leaning on fair use while acknowledging its training corpus, setting up a test of how licensed AI music platforms must document their data.",
+      "title": "Udio Fires Back Against Supersized Sony Music Copyright Lawsuit",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Udio-Sony-Music-Answer.jpg"
+    },
+    {
+      "url": "https://www.synthtopia.com/content/2026/08/31/dreamtonics-instrument-x-replaces-big-sample-libraries-with-neural-acoustics/",
+      "source": "Synthtopia",
+      "category": "music",
+      "published_iso": "2026-08-31T18:07:25+00:00",
+      "excerpt": "Synthtopia digs into how Dreamtonics' Instrument X swaps multi-gigabyte sample libraries for neural acoustic synthesis, promising expressive orchestral parts from a tiny install footprint.",
+      "title": "Dreamtonics Instrument X Replaces Big Sample Libraries With Neural Acoustics",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/dreamtronics-instrument-x.jpg"
+    },
+    {
+      "url": "https://www.attackmagazine.com/reviews/gear-software/yamaha-creator-pass-review-a-subscription-built-for-the-budding-bedroom-producer/",
+      "source": "Attack Magazine",
+      "category": "music",
+      "published_iso": "2026-08-31T12:56:31+00:00",
+      "excerpt": "Attack reviews Yamaha's Creator Pass subscription, which bundles Output Arcade, LANDR sample access, AI-assisted mastering and a DAW bundle into a single monthly on-ramp for bedroom producers.",
+      "title": "Yamaha Creator Pass Review: A Subscription Built For The Budding Bedroom Producer",
+      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Gear-_-Software-Yamaha-Creator-Pass-3-2.png"
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/08/25/elevenmusic-composer-section-by-section-song-editor/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-08-25T20:31:26+00:00",
+      "excerpt": "ElevenLabs added Composer to ElevenMusic, a section-by-section song editor that lets creators regenerate a verse or chorus in place instead of rerolling a whole track.",
+      "title": "ElevenMusic Launches Composer &#039;Section-by-Section Song Editor&#039;",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/elevenlabs-suno-rival-elevenmusic-launches-composer-song-editor.png"
     }
   ],
   "dedup": {
-    "dropped": 9,
-    "kept": 5,
+    "dropped": 5,
+    "kept": 12,
     "against_days": 5
   }
 }

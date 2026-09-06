@@ -1,68 +1,126 @@
 {
+  "date": "2026-09-07",
   "section": "design",
-  "date": "2026-09-06",
-  "user_selection": "none — curator auto-picked (user deferred)",
-  "dropped_duplicates": [
+  "count": 5,
+  "items": [
     {
-      "url": "https://www.creativebloq.com/art/digital-art/artstation-is-finally-taking-action-against-ai-art-but-theres-one-question-it-doesnt-want-to-answer",
-      "reason": "same story already published in design/days/2026-09-04 as design-artstation-noai-default (80.lv) — ArtStation's NoAI-by-default + crawler-block policy"
+      "rank": 1,
+      "headline": "How Figma Uses AI Agents for Security",
+      "title": "How Figma Uses AI Agents for Security",
+      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/",
+      "source": "InfoQ",
+      "published_iso": "2026-09-06T06:59:00Z",
+      "og_image": "https://res.infoq.com/news/2026/09/figma-security-agents/en/headerimage/generatedHeaderImage-1787900821229.jpg",
+      "excerpt": "Figma's engineering team documented how it built AI agents that triage security alerts, search past incidents, check internal systems and even draft code fixes. The agents learn from previous investigations, cutting repetitive review work.",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Figma documents its own production agent stack — a concrete template for how a design org wires agents into repetitive review work."
+    },
+    {
+      "rank": 2,
+      "headline": "Photoshop Just Replaced Brightness and Contrast With Something Better",
+      "title": "Photoshop Just Replaced Brightness and Contrast With Something Better",
+      "url": "https://fstoppers.com/education/photoshop-just-replaced-brightness-and-contrast-something-better-904470",
+      "source": "Fstoppers",
+      "published_iso": "2026-09-05T09:03:01Z",
+      "og_image": "https://cdn.fstoppers.com/styles/full/s3/lead/2026/09/cover-phlearn.jpg",
+      "excerpt": "Photoshop's Brightness/Contrast slider is now a Light adjustment layer with Camera Raw controls built in. Aaron Nace walks the optimal slider order and a double-mask glow technique.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "A shipped Photoshop change that alters a daily editing habit tomorrow, with the exact slider order and masking technique spelled out."
+    },
+    {
+      "rank": 3,
+      "headline": "Can AI Now Design PCBs That Just Work?",
+      "title": "Can AI Now Design PCBs That Just Work?",
+      "url": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
+      "source": "Hackaday",
+      "published_iso": "2026-09-06T02:00:46Z",
+      "og_image": "https://hackaday.com/wp-content/uploads/2026/09/openai_gpt-6_astra_kicad_showcase.jpg",
+      "excerpt": "OpenAI claims GPT-6 Astra can take a schematic and output a complete KiCad board. Hackaday tests how far that claim survives contact with real hardware design constraints.",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "A hands-on reality check on schematic-to-board generation — the sharpest test yet of where AI CAD output stops being usable."
+    },
+    {
+      "rank": 4,
+      "headline": "OpenAI's controversial ChatGPT-6 Astra advert paints a sad vision of the future",
+      "title": "OpenAI's controversial ChatGPT-6 Astra advert paints a sad vision of the future",
+      "url": "https://www.creativebloq.com/ai/even-just-the-advert-for-chatgpt-6-astra-is-creating-controversy",
+      "source": "Creative Bloq",
+      "published_iso": "2026-09-06T07:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/97RuLsDbqqVEA7aki63FzL-1920-80.jpg",
+      "excerpt": "OpenAI's launch film for GPT-6 Astra has drawn a creative-industry backlash for the future of creative work it depicts. Creative Bloq unpacks why the ad landed so badly with designers.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "The GPT-6 Astra launch film became a referendum on how AI vendors picture creative work — the framing designers now have to answer for."
+    },
+    {
+      "rank": 5,
+      "headline": "Five anti-AI designs that give an element of control back to humans",
+      "title": "Five anti-AI designs that give an element of control back to humans",
+      "url": "https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/",
+      "source": "Dezeen",
+      "published_iso": "2026-09-05T09:00:01Z",
+      "og_image": "https://static.dezeen.com/uploads/2026/09/decoy-font-mixfont_dezeen_2364_col_0.jpg",
+      "excerpt": "Dezeen rounds up five products and graphics built as deliberate pushback against the AI boom, from a decoy font to hardware that refuses to connect - a design language for AI fatigue.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "A working catalogue of anti-AI design moves — decoy fonts, disconnect-by-default hardware — that designers can borrow as a stance, not just a mood."
     }
   ],
   "picks": [
     {
-      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
-      "source": "UX Collective (uxdesign.cc)",
-      "published_iso": "2026-09-02T22:13:30Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png",
-      "excerpt": "How agentic interfaces are changing what designers control: the agentic canvas now pulls context from across tools into one place and acts on it without step-by-step instructions.",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "에이전틱 캔버스가 디자이너의 통제권을 어떻게 재편하는지 짚은 신선한 관점 — 툴을 넘나드는 AI 워크플로가 이미 와 있다는 신호."
+      "rank": 1,
+      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/",
+      "source": "InfoQ",
+      "tool": "Figma"
     },
     {
-      "url": "https://www.creativebloq.com/ai/meet-lamp-an-alive-pixar-like-robot-that-watches-your-posture-remembers-strangers-faces-and-answers-your-emails",
+      "rank": 2,
+      "url": "https://fstoppers.com/education/photoshop-just-replaced-brightness-and-contrast-something-better-904470",
+      "source": "Fstoppers",
+      "tool": "KeyShot"
+    },
+    {
+      "rank": 3,
+      "url": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
+      "source": "Hackaday",
+      "tool": "Text-to-CAD"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.creativebloq.com/ai/even-just-the-advert-for-chatgpt-6-astra-is-creating-controversy",
       "source": "Creative Bloq",
-      "published_iso": "2026-09-03T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6-2560-80.jpg",
-      "excerpt": "Meet Lamp, an \"alive\" Pixar-like desk robot with character design and embodied AI that watches posture, remembers faces, and answers emails -- raising the question of whether this is the future of embodied assistants.",
-      "tool": "Figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "캐릭터 디자인과 임베디드 AI가 결합한 신제품 사례 — 피지컬 AI 시대에 디자이너가 참고할 만한 새로운 표현 레퍼런스."
+      "tool": "AI Workflow"
     },
     {
-      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "source": "NVIDIA Blog",
-      "published_iso": "2026-09-03T16:00:59Z",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
-      "excerpt": "At IFA 2026, NVIDIA highlighted local AI tools including CyberLink PhotoDirector's AI PC Mode, which runs generative editing, background replacement, and portrait refinement locally on RTX Spark hardware without cloud token limits.",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "로컬 RTX 하드웨어에서 도는 생성형 편집 — 클라우드 토큰 제한 없이 바로 실무에 붙일 수 있는 변화."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=7q3spdQlZLA",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "published_iso": "2026-09-03T20:09:41Z",
-      "og_image": "https://i.ytimg.com/vi/7q3spdQlZLA/maxresdefault.jpg",
-      "excerpt": "Adobe demos Dynamic Text in Photoshop, which automatically adjusts placed text layers' space and structure as content changes, built from customer feedback.",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "내용이 바뀔 때마다 텍스트 레이아웃을 자동으로 맞춰주는 포토샵 신기능 — 반복 작업 시간을 바로 줄여준다."
-    },
-    {
-      "url": "https://www.fastcompany.com/91599906/worried-your-writing-sounds-like-ai-these-tools-can-help",
-      "source": "Fast Company",
-      "published_iso": "2026-09-03T15:00:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91599906-ai-style-finding-tools.jpg",
-      "excerpt": "As AI-generated writing floods LinkedIn, Substack, and even medical papers, a new crop of tools promises to help writers find and fix the AI \"tells\" in their own style and workflow.",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "AI 티가 나는 글쓰기를 잡아내는 새 도구들 — 카피와 콘텐츠 제작 워크플로에 새로 낀 체크포인트."
+      "rank": 5,
+      "url": "https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/",
+      "source": "Dezeen",
+      "tool": "AI Workflow"
     }
-  ]
+  ],
+  "dedup": {
+    "history_days_checked": 6,
+    "history_cards_checked": 30,
+    "dropped_as_duplicate": 0,
+    "notes": "No design-section history card covers GPT-6 Astra, Figma security agents, Photoshop Light adjustment, AI PCB generation, or the Dezeen anti-AI roundup. Nearest neighbour checked: 2026-09-05 Creative Bloq Parker anti-AI billboards vs Dezeen anti-AI product roundup — different event, different objects, kept. Within-pool: 6 GPT-6 Astra items collapsed to 2 distinct angles (Hackaday PCB test, Creative Bloq ad backlash); Vercel gateway, Parametric Architecture, and three YouTube recap videos dropped as same-event coverage or low novelty."
+  },
+  "diversity": {
+    "outlets": ["InfoQ", "Fstoppers", "Hackaday", "Creative Bloq", "Dezeen"],
+    "max_per_outlet": 1,
+    "categories": ["figma", "render", "cad", "workflow", "workflow"],
+    "max_per_category": 2
+  }
 }

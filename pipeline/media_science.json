@@ -1,31 +1,41 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "science",
   "media": [
     {
-      "id": "science-adaptiveflow",
+      "id": "science-af3-red",
       "type": "image",
-      "src": "pipeline/media/science-adaptiveflow.jpg"
+      "src": "pipeline/media/science-af3-red.jpg",
+      "credit": "Jun Ohnuki and Kei-ichi Okazaki, Institute for Molecular Science",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha.jpg"
     },
     {
-      "id": "science-polymer",
+      "id": "science-core-mantle-belts",
       "type": "image",
-      "src": "pipeline/media/science-polymer.jpg"
+      "src": "pipeline/media/science-core-mantle-belts.jpg",
+      "credit": "Journal of Geophysical Research: Solid Earth (2026)",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/six-unusual-structures.jpg"
     },
     {
-      "id": "science-icm-math",
+      "id": "science-smart-bricks",
       "type": "image",
-      "src": "pipeline/media/science-icm-math.jpg"
+      "src": "pipeline/media/science-smart-bricks.jpg",
+      "credit": "Thomas Fuchs / Scientific American",
+      "source_url": "https://static.scientificamerican.com/dam/asset/018be4c3-54e0-4fbd-9ca5-e00fcd0e0c7a/saw1026Adva05.jpg"
     },
     {
-      "id": "science-physicist-ai",
+      "id": "science-co-scientist",
       "type": "image",
-      "src": "pipeline/media/science-physicist-ai.jpg"
+      "src": "pipeline/media/science-co-scientist.png",
+      "credit": "arXiv:2608.26701 Figure 1",
+      "source_url": "https://arxiv.org/html/2608.26701v1/CoScientist_Fig1.png"
     },
     {
-      "id": "science-bci-ai",
+      "id": "science-brain-guided-llm",
       "type": "image",
-      "src": "pipeline/media/science-bci-ai.jpg"
+      "src": "pipeline/media/science-brain-guided-llm.jpg",
+      "credit": "Zhouchen Lin, Kai Du, Mingqing Xiao",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/could-human-brain-acti.jpg"
     }
   ]
 }

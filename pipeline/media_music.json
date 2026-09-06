@@ -1,25 +1,31 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "music",
   "media": [
     {
-      "id": "music-google-lyria-3-5",
+      "id": "music-roland-melody-flip",
       "type": "image",
-      "src": "pipeline/media/music-google-lyria-3-5.png"
+      "src": "pipeline/media/music-roland-melody-flip.jpg"
     },
     {
-      "id": "music-aria-bans-ai-charts",
+      "id": "music-suno-blige-ad",
       "type": "image",
-      "src": "pipeline/media/music-aria-bans-ai-charts.jpg"
+      "src": "pipeline/media/music-suno-blige-ad.png"
     },
     {
-      "id": "music-billboard-ai-transparency",
-      "type": "svg"
+      "id": "music-yamaha-creator-pass",
+      "type": "image",
+      "src": "pipeline/media/music-yamaha-creator-pass.png"
     },
     {
-      "id": "music-fl-studio-genai-onramp",
+      "id": "music-ai-three-tasks",
       "type": "image",
-      "src": "pipeline/media/music-fl-studio-genai-onramp.png"
+      "src": "pipeline/media/music-ai-three-tasks.jpg"
+    },
+    {
+      "id": "music-elevenmusic-composer",
+      "type": "image",
+      "src": "pipeline/media/music-elevenmusic-composer.png"
     }
   ]
 }

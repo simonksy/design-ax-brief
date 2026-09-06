@@ -1,83 +1,233 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
+  "section": "design",
+  "now_iso": "2026-09-06T22:00:00Z",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
-      "source": "UX Collective (uxdesign.cc)",
+      "title": "How Figma Uses AI Agents for Security",
+      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/",
+      "source": "InfoQ",
+      "published_iso": "2026-09-06T06:59:00Z",
+      "excerpt": "Figma's engineering team documented how it built AI agents that triage security alerts, search past incidents, check internal systems and even draft code fixes. The agents learn from previous investigations, cutting repetitive review work.",
+      "og_image": "https://res.infoq.com/news/2026/09/figma-security-agents/en/headerimage/generatedHeaderImage-1787900821229.jpg",
       "category": "figma",
-      "published_iso": "2026-09-02T22:13:30Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png",
-      "excerpt": "How agentic interfaces are changing what designers control: the agentic canvas now pulls context from across tools into one place and acts on it without step-by-step instructions."
+      "headline": "How Figma Uses AI Agents for Security"
     },
     {
+      "title": "How a Non-Designer Built a $1k-Quality Landing Page With Codex",
+      "url": "https://dev.to/clastron_main/how-a-non-designer-built-a-1k-quality-landing-page-with-codex-2o8d",
+      "source": "DEV Community",
+      "published_iso": "2026-09-05T20:36:48Z",
+      "excerpt": "A developer walks through prompting an AI coding agent to produce an agency-grade landing page without a designer, documenting the prompt structure, iteration loop and where human taste still had to intervene.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnnx0m211dzpq5rxc5nbj.png",
+      "category": "figma",
+      "headline": "How a Non-Designer Built a $1k-Quality Landing Page With Codex"
+    },
+    {
+      "title": "Reading and writing are interfaces. And AI can reduce their friction.",
       "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0",
-      "source": "UX Collective (uxdesign.cc)",
-      "category": "figma",
+      "source": "UX Collective",
       "published_iso": "2026-09-05T00:21:17Z",
+      "excerpt": "An argument that reading and writing are themselves interfaces, and that AI shifts where the intellectual work sits rather than removing it. The question for designers is which friction is worth keeping.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/0*D16_e7xgMV5532j5",
-      "excerpt": "The question isn't whether AI reduces work, but where the intellectual work moves -- an argument that reading and writing are themselves interfaces AI can now smooth out."
+      "category": "figma",
+      "headline": "Reading and writing are interfaces. And AI can reduce their friction."
     },
     {
+      "title": "What Minority Report got wrong about AI (so far)",
       "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f",
-      "source": "UX Collective (uxdesign.cc)",
-      "category": "figma",
+      "source": "UX Collective",
       "published_iso": "2026-09-03T22:39:12Z",
+      "excerpt": "Two decades of interaction design chased Minority Report's gesture screensaver instead of its warning about predictive systems. A look at which of the film's futures we actually built.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*Od8x5k-43Z_nXRMTQXB6XA.png",
-      "excerpt": "Minority Report gave interaction designers two futures for gestural, predictive computing -- two decades later, this piece argues the industry rebuilt only the easy-to-demo one, not the cautionary one."
-    },
-    {
-      "url": "https://www.creativebloq.com/art/digital-art/artstation-is-finally-taking-action-against-ai-art-but-theres-one-question-it-doesnt-want-to-answer",
-      "source": "Creative Bloq",
       "category": "figma",
-      "published_iso": "2026-09-03T14:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dGgCUgM9B78DhMFiK75VbZ-1200-80.webp",
-      "excerpt": "ArtStation is moving to act against AI-generated art on its platform, but critics say the policy dodges the harder question of how it will actually be enforced for working artists."
+      "headline": "What Minority Report got wrong about AI (so far)"
     },
     {
-      "url": "https://www.creativebloq.com/ai/meet-lamp-an-alive-pixar-like-robot-that-watches-your-posture-remembers-strangers-faces-and-answers-your-emails",
-      "source": "Creative Bloq",
+      "title": "GPT 6 Astra now available on Vercel AI Gateway",
+      "url": "https://vercel.com/changelog/gpt-6-astra-now-available-on-vercel-ai-gateway",
+      "source": "Vercel",
+      "published_iso": "2026-09-04T00:00:00Z",
+      "excerpt": "OpenAI's GPT-6 Astra is live on Vercel AI Gateway for coding, computer use and multi-step professional workflows, giving product and design teams building on v0 direct access to the model.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2SwiRCJ2yQI6jiStpqx4n4/f327115564457532b4d646d8b597a55f/Vercel_x_OpenAI.png",
       "category": "figma",
-      "published_iso": "2026-09-03T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6-2560-80.jpg",
-      "excerpt": "Meet Lamp, an \"alive\" Pixar-like desk robot with character design and embodied AI that watches posture, remembers faces, and answers emails -- raising the question of whether this is the future of embodied assistants."
+      "headline": "GPT 6 Astra now available on Vercel AI Gateway"
     },
     {
-      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "source": "NVIDIA Blog",
-      "category": "render",
-      "published_iso": "2026-09-03T16:00:59Z",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
-      "excerpt": "At IFA 2026, NVIDIA highlighted local AI tools including CyberLink PhotoDirector's AI PC Mode, which runs generative editing, background replacement, and portrait refinement locally on RTX Spark hardware without cloud token limits."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=6JqKHBGOV38",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "category": "social",
-      "published_iso": "2026-09-04T19:02:28Z",
-      "og_image": "https://i.ytimg.com/vi/6JqKHBGOV38/maxresdefault.jpg",
-      "excerpt": "In this episode of The Unlock, illustrator Carly Berry uses Generative Recolor in Adobe Illustrator to experiment and find her iconic color palettes."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=7q3spdQlZLA",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "category": "social",
-      "published_iso": "2026-09-03T20:09:41Z",
-      "og_image": "https://i.ytimg.com/vi/7q3spdQlZLA/maxresdefault.jpg",
-      "excerpt": "Adobe demos Dynamic Text in Photoshop, which automatically adjusts placed text layers' space and structure as content changes, built from customer feedback."
-    },
-    {
-      "url": "https://www.fastcompany.com/91599906/worried-your-writing-sounds-like-ai-these-tools-can-help",
-      "source": "Fast Company",
+      "title": "What is vibe coding and why does it get so much hate?",
+      "url": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
+      "source": "Engadget",
+      "published_iso": "2026-09-06T18:30:00Z",
+      "excerpt": "A plain-language explainer on vibe coding: less about letting AI build software from scratch, more about handing it the friction in the middle. Engadget lays out how practitioners actually use it and why the backlash persists.",
+      "og_image": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg",
       "category": "workflow",
-      "published_iso": "2026-09-03T15:00:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91599906-ai-style-finding-tools.jpg",
-      "excerpt": "As AI-generated writing floods LinkedIn, Substack, and even medical papers, a new crop of tools promises to help writers find and fix the AI \"tells\" in their own style and workflow."
+      "headline": "What is vibe coding and why does it get so much hate?"
+    },
+    {
+      "title": "OpenAI's controversial ChatGPT-6 Astra advert paints a sad vision of the future",
+      "url": "https://www.creativebloq.com/ai/even-just-the-advert-for-chatgpt-6-astra-is-creating-controversy",
+      "source": "Creative Bloq",
+      "published_iso": "2026-09-06T07:00:00Z",
+      "excerpt": "OpenAI's launch film for GPT-6 Astra has drawn a creative-industry backlash for the future of creative work it depicts. Creative Bloq unpacks why the ad landed so badly with designers.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/97RuLsDbqqVEA7aki63FzL-1920-80.jpg",
+      "category": "workflow",
+      "headline": "OpenAI's controversial ChatGPT-6 Astra advert paints a sad vision of the future"
+    },
+    {
+      "title": "GPT-6 Astra Reshapes AI Architecture Workflows, Moving from Assistant to Operator",
+      "url": "https://parametric-architecture.com/gpt-6-astra-ai-architecture-workflows/",
+      "source": "Parametric Architecture",
+      "published_iso": "2026-09-06T09:57:10Z",
+      "excerpt": "GPT-6 Astra moves AI from design assistant to supervised operator across architecture, computational design and AEC workflows, changing what studios delegate and what they review.",
+      "og_image": "https://parametric-architecture.com/wp-content/uploads/2026/09/GPT-6-Astra-6.webp",
+      "category": "workflow",
+      "headline": "GPT-6 Astra Reshapes AI Architecture Workflows, Moving from Assistant to Operator"
+    },
+    {
+      "title": "Computational Design Exhibition in Seoul: 7 Aspects That Turn Technology into Culture",
+      "url": "https://parametric-architecture.com/computational-design-crossing-grounds/",
+      "source": "Parametric Architecture",
+      "published_iso": "2026-09-06T15:00:00Z",
+      "excerpt": "Seoul's Crossing Grounds exhibition puts computational design, robotics and digital heritage in one room, showing how algorithmic tools are being absorbed into cultural practice.",
+      "og_image": "https://parametric-architecture.com/wp-content/uploads/2026/09/Crossing-Grounds-01-1024x576.jpg",
+      "category": "workflow",
+      "headline": "Computational Design Exhibition in Seoul: 7 Aspects That Turn Technology into Culture"
+    },
+    {
+      "title": "Instagram's AI detection is a mess (again)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "source": "The Verge",
+      "published_iso": "2026-09-04T12:00:00Z",
+      "excerpt": "Meta's automatic 'AI info' labels are being slapped onto human-made photos and illustrations, leaving creators fighting mislabels. The Verge reports on why the detection keeps misfiring.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&strip=all&w=1200",
+      "category": "workflow",
+      "headline": "Instagram's AI detection is a mess (again)"
+    },
+    {
+      "title": "Five anti-AI designs that give an element of control back to humans",
+      "url": "https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/",
+      "source": "Dezeen",
+      "published_iso": "2026-09-05T09:00:01Z",
+      "excerpt": "Dezeen rounds up five products and graphics built as deliberate pushback against the AI boom, from a decoy font to hardware that refuses to connect - a design language for AI fatigue.",
+      "og_image": "https://static.dezeen.com/uploads/2026/09/decoy-font-mixfont_dezeen_2364_col_0.jpg",
+      "category": "workflow",
+      "headline": "Five anti-AI designs that give an element of control back to humans"
+    },
+    {
+      "title": "Fitbit founders launch AI-powered wristband to monitor health of whole family",
+      "url": "https://www.dezeen.com/2026/09/04/fitbit-luffu-link-ai-powered-wristband-health-family/",
+      "source": "Dezeen",
+      "published_iso": "2026-09-04T08:00:45Z",
+      "excerpt": "Luffu Link is a wireless wristband from Fitbit's founders that tracks several family members at once, with the AI model - not a screen - carrying most of the product's interface load.",
+      "og_image": "https://static.dezeen.com/uploads/2026/09/luffu-link-fitbit-family-ai-wearable-band-design-sq.jpg",
+      "category": "workflow",
+      "headline": "Fitbit founders launch AI-powered wristband to monitor health of whole family"
+    },
+    {
+      "title": "Can AI Now Design PCBs That Just Work?",
+      "url": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
+      "source": "Hackaday",
+      "published_iso": "2026-09-06T02:00:46Z",
+      "excerpt": "OpenAI claims GPT-6 Astra can take a schematic and output a complete KiCad board. Hackaday tests how far that claim survives contact with real hardware design constraints.",
+      "og_image": "https://hackaday.com/wp-content/uploads/2026/09/openai_gpt-6_astra_kicad_showcase.jpg",
+      "category": "cad",
+      "headline": "Can AI Now Design PCBs That Just Work?"
+    },
+    {
+      "title": "Apparently 'Photography Is All Fake Anyway'",
+      "url": "https://petapixel.com/2026/09/06/apparently-photography-is-all-fake-anyway/",
+      "source": "PetaPixel",
+      "published_iso": "2026-09-06T13:30:26Z",
+      "excerpt": "A defence of 'photography is fake anyway' as cover for AI-generated imagery gets picked apart, with commercial food and product shooting as the test case for where craft ends and synthesis begins.",
+      "og_image": "https://petapixel.com/assets/uploads/2026/09/Apparently-Photography-Is-All-Fake-Anyway.jpg",
+      "category": "render",
+      "headline": "Apparently 'Photography Is All Fake Anyway'"
+    },
+    {
+      "title": "Remove People From Group Photos in Lightroom 2026",
+      "url": "https://fstoppers.com/education/delete-someone-group-photo-without-ever-opening-photoshop-904484",
+      "source": "Fstoppers",
+      "published_iso": "2026-09-06T09:03:01Z",
+      "excerpt": "Glyn Dewis routes a Lightroom edit through Adobe Firefly to erase a person from a group shot in about 90 seconds, with model choice, prompt specificity and credit cost all laid out.",
+      "og_image": "https://cdn.fstoppers.com/styles/full/s3/lead/2026/09/cover-dewis.jpg",
+      "category": "render",
+      "headline": "Remove People From Group Photos in Lightroom 2026"
+    },
+    {
+      "title": "Photoshop Just Replaced Brightness and Contrast With Something Better",
+      "url": "https://fstoppers.com/education/photoshop-just-replaced-brightness-and-contrast-something-better-904470",
+      "source": "Fstoppers",
+      "published_iso": "2026-09-05T09:03:01Z",
+      "excerpt": "Photoshop's Brightness/Contrast slider is now a Light adjustment layer with Camera Raw controls built in. Aaron Nace walks the optimal slider order and a double-mask glow technique.",
+      "og_image": "https://cdn.fstoppers.com/styles/full/s3/lead/2026/09/cover-phlearn.jpg",
+      "category": "render",
+      "headline": "Photoshop Just Replaced Brightness and Contrast With Something Better"
+    },
+    {
+      "title": "This Web Tool Lets You Create 360-Degree Illustrations",
+      "url": "https://80.lv/articles/this-web-tool-lets-you-create-360-degree-illustrations/",
+      "source": "80 Level",
+      "published_iso": "2026-09-04T16:00:00Z",
+      "excerpt": "A browser tool that lets artists sketch directly into a 360-degree sphere, turning flat illustration into an environment you can look around inside.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50055/images/6a9aeb032d450/contain_1200x630.jpg",
+      "category": "render",
+      "headline": "This Web Tool Lets You Create 360-Degree Illustrations"
+    },
+    {
+      "title": "Discover Milk VFX's Unreal Engine pipeline for Surviving Earth",
+      "url": "https://www.cgchannel.com/2026/09/discover-milk-vfxs-unreal-engine-pipeline-for-surviving-earth/",
+      "source": "CG Channel",
+      "published_iso": "2026-09-04T07:29:17Z",
+      "excerpt": "Milk VFX ran UE5 from previs through to post to build the CG environments for a natural history series, collapsing the gap between layout and final pixel.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/cg260904_story.jpg",
+      "category": "render",
+      "headline": "Discover Milk VFX's Unreal Engine pipeline for Surviving Earth"
+    },
+    {
+      "title": "VR Design Unpacked: This Immersion Hack is Too Simple to Work So Well",
+      "url": "https://roadtovr.com/these-clever-tools-make-vr-way-more-immersive-inside-xr-design/",
+      "source": "Road to VR",
+      "published_iso": "2026-09-04T17:48:12Z",
+      "excerpt": "Inside XR Design breaks down Red Matter 2's grabber tools and the small interaction choices that make a spatial interface feel physically believable.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg",
+      "category": "vr",
+      "headline": "VR Design Unpacked: This Immersion Hack is Too Simple to Work So Well"
+    },
+    {
+      "title": "Did OpenAI actually build AGI? GPT-6 Astra first look",
+      "url": "https://www.youtube.com/watch?v=FluKUJyeYD8",
+      "source": "Fireship",
+      "published_iso": "2026-09-04T20:14:12Z",
+      "excerpt": "Fireship's first look at GPT-6 Astra tests OpenAI's AGI claim against real coding and tool-use tasks, in the channel's usual two-minute format.",
+      "og_image": "https://i.ytimg.com/vi/FluKUJyeYD8/maxresdefault.jpg",
+      "category": "social",
+      "headline": "Did OpenAI actually build AGI? GPT-6 Astra first look"
+    },
+    {
+      "title": "AI News: The Most Insane Week So Far This Year!",
+      "url": "https://www.youtube.com/watch?v=GfPZm9yucQo",
+      "source": "Matt Wolfe",
+      "published_iso": "2026-09-04T15:00:34Z",
+      "excerpt": "Matt Wolfe's weekly roundup of AI tool releases and creative-workflow updates, covering the launches that landed in the same week as GPT-6 Astra.",
+      "og_image": "https://i.ytimg.com/vi/GfPZm9yucQo/maxresdefault.jpg",
+      "category": "social",
+      "headline": "AI News: The Most Insane Week So Far This Year!"
+    },
+    {
+      "title": "GPT-6 Astra: 20 Real Examples From Useful to Almost Impossible",
+      "url": "https://www.youtube.com/watch?v=_AyXuJKm8iw",
+      "source": "The AI Advantage",
+      "published_iso": "2026-09-04T21:09:56Z",
+      "excerpt": "Twenty hands-on GPT-6 Astra demos ranked from genuinely useful to barely possible, aimed at people wiring the model into daily production work.",
+      "og_image": "https://i.ytimg.com/vi/_AyXuJKm8iw/maxresdefault.jpg",
+      "category": "social",
+      "headline": "GPT-6 Astra: 20 Real Examples From Useful to Almost Impossible"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 9,
+    "dropped": 0,
+    "kept": 22,
     "against_days": 5
   }
 }

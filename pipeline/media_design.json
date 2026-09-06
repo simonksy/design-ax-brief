@@ -1,32 +1,33 @@
 {
+  "date": "2026-09-07",
   "section": "design",
-  "date": "2026-09-06",
   "media": [
     {
-      "id": "design-agentic-canvas",
+      "id": "design-figma-security-agents",
       "type": "image",
-      "src": "pipeline/media/design-agentic-canvas.png"
+      "src": "pipeline/media/design-figma-security-agents.jpg"
     },
     {
-      "id": "design-lamp-robot",
-      "type": "image",
-      "src": "pipeline/media/design-lamp-robot.jpg"
-    },
-    {
-      "id": "design-rtx-spark",
-      "type": "image",
-      "src": "pipeline/media/design-rtx-spark.jpg"
-    },
-    {
-      "id": "design-dynamic-text",
+      "id": "design-photoshop-light-layer",
       "type": "video",
-      "src": "pipeline/media/design-dynamic-text.mp4",
-      "poster": "pipeline/media/design-dynamic-text.jpg"
+      "src": "pipeline/media/design-photoshop-light-layer.mp4",
+      "poster": "pipeline/media/design-photoshop-light-layer.jpg"
     },
     {
-      "id": "design-ai-writing-tells",
+      "id": "design-ai-pcb-kicad",
       "type": "image",
-      "src": "pipeline/media/design-ai-writing-tells.jpg"
+      "src": "pipeline/media/design-ai-pcb-kicad.jpg"
+    },
+    {
+      "id": "design-astra-ad-backlash",
+      "type": "video",
+      "src": "pipeline/media/design-astra-ad-backlash.mp4",
+      "poster": "pipeline/media/design-astra-ad-backlash.jpg"
+    },
+    {
+      "id": "design-anti-ai-designs",
+      "type": "image",
+      "src": "pipeline/media/design-anti-ai-designs.jpg"
     }
   ]
 }

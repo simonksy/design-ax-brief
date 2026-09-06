@@ -1,152 +1,208 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "gadgets",
-  "now_iso": "2026-09-05T22:00:50Z",
+  "now_iso": "2026-09-06T22:00:00Z",
   "window_hours": 336,
+  "pass": "librarian",
   "items": [
     {
-      "url": "https://www.engadget.com/2249106/anker-eufy-at-ifa-2026-new-security-cameras-plus-a-robot-vacuum-and-a-robot-lawnmower/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-09-03T07:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/anker-eufy-at-ifa-2026-new-security-cameras-plus-a-robot-vacuum-and-a-robot-lawnmower/l-intro-1788299392.jpg",
-      "excerpt": "At IFA 2026, Anker's Eufy brand unveiled new AI-equipped security cameras alongside a fresh robot vacuum and robot lawnmower, with security as the unifying focus."
-    },
-    {
-      "url": "https://www.engadget.com/2249332/htc-vive-eagle-comes-to-the-us-europe-uk-aus/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-09-03T13:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/htc-vive-eagle-smart-glasses-finally-come-to-the-west/l-intro-1788348912.jpg",
-      "excerpt": "HTC's camera-equipped, AI-powered Vive Eagle smart glasses are finally launching in the US, Europe and Australia a year after their Taiwan debut."
-    },
-    {
-      "url": "https://www.digitaltrends.com/computing/ecovacs-robot-vacuum-will-clean-deeper-wash-itself-and-keep-an-eye-on-your-privacy/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-09-04T16:33:09Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/DT-88.jpg?resize=1200%2C630",
-      "excerpt": "Ecovacs' new X12S OmniCyclone robot vacuum, unveiled at IFA 2026, uses AI-driven navigation and a sealed dust-mite chamber to target stubborn stains and self-clean."
-    },
-    {
-      "url": "https://www.digitaltrends.com/home/govees-new-ai-lighting-lineup-lets-you-build-custom-scenes-with-simple-prompts/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-09-04T13:12:52Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Govee-COB-Strip-Light-2-Pro-featured.jpg?resize=1200%2C630",
-      "excerpt": "Govee unveiled three new AI-enabled smart lighting products at IFA 2026 that let users build custom lighting scenes with simple text prompts."
-    },
-    {
-      "url": "https://www.digitaltrends.com/cool-tech/researchers-built-gadget-that-can-find-hidden-cameras-in-seconds/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-08-30T23:00:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2021/10/google-nest-cam-indoor-wired-review-1-of-9.jpg?resize=1200%2C630",
-      "excerpt": "KAIST researchers built SweepLED, a $7 smartphone-based gadget that uses an AI model to detect hidden cameras with about 94% accuracy in seconds."
-    },
-    {
-      "url": "https://www.techradar.com/tech/ifa-2026-best-in-show-awards-our-25-favorite-reveals-at-the-berlin-tech-expo-from-somersaulting-robots-to-modular-solar-batteries-for-renters",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-09-04T12:33:02Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/tvdiLWHL7WaxTsWLZxFYqE-2560-80.jpg",
-      "excerpt": "TechRadar's IFA 2026 Best in Show awards round up 25 favorite reveals from the Berlin tech expo, from somersaulting AI robots to exoskeletons."
-    },
-    {
-      "url": "https://www.techradar.com/tech/icymi-the-7-biggest-tech-stories-of-the-week-from-the-best-gadgets-of-ifa-2026-to-gpt-6-astra-and-the-agi-era",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-09-05T08:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rx9K3vzvWVv4nkeE59EdeX-2000-80.jpg",
-      "excerpt": "TechRadar's weekly roundup covers the biggest tech stories of the last seven days, from the best AI gadgets of IFA 2026 to OpenAI's GPT-6 Astra breakthrough."
-    },
-    {
-      "url": "https://www.tomsguide.com/home/anker-just-launched-a-ton-of-new-products-at-ifa-2026-including-an-ai-powered-home-hub",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-09-03T02:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6MxBGKhBJQL6FvKrVdBiiT-1920-80.jpg",
-      "excerpt": "Anker used IFA 2026 to unify its brand and launch 22 new products, headlined by its own AI-powered smart home hub, MindBase."
-    },
-    {
-      "url": "https://www.tomsguide.com/computing/laptops/best-laptops-of-ifa-2026-wild-colors-ultrathin-designs-and-rollable-displays",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-09-05T11:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XhjobrMpzB5F7Hftmk8zhb-2000-80.jpg",
-      "excerpt": "PC makers at IFA 2026 traded safe gray aluminum for bright colors and wild form factors, with AI-ready NPUs now a baseline feature across the new laptop lineups."
-    },
-    {
-      "url": "https://www.tomsguide.com/tech-events/best-of-ifa-2026-we-found-the-26-top-new-gadgets",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-09-04T16:37:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/WaMUQp4DxJLGkEywsbLwx-2560-80.jpg",
-      "excerpt": "Tom's Guide's official Best of IFA 2026 Awards spotlight 26 top new gadgets, from the Acer Project DualPlay Mini to Nvidia's RTX Spark AI PC platform."
-    },
-    {
-      "url": "https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-09-04T16:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY-1920-80.png",
-      "excerpt": "Minisforum launched local AI hardware at IFA 2026 -- an AI Agent NAS and AI Mini Workstation both powered by AMD's Ryzen AI Max+ Pro 495 chips for running models on-device."
-    },
-    {
-      "url": "https://www.androidauthority.com/google-home-gemini-upgrades-september-2026-3706505/",
+      "url": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
+      "title": "I finally tried XREAL's fully-baked Android XR glasses, and now I'm counting down to launch",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-09-02T21:41:38Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
-      "excerpt": "Gemini for Home just fixed one of its strangest limitations, with Google Home getting upgrades to media and smart home voice controls and easier automation management."
+      "published_iso": "2026-09-06T08:37:17+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-1.jpg",
+      "excerpt": "Android Authority went hands-on with XREAL's Aura, the first fully-realized Android XR glasses, arguing the Gemini-driven eyewear points to an Android you use without pulling out a phone screen."
     },
     {
-      "url": "https://gizmodo.com/live-updates-from-ifa-2026-in-berlin-2000800025",
-      "source": "Gizmodo",
+      "url": "https://www.androidauthority.com/timekettle-w4-plus-3706119/",
+      "title": "The new W4 Plus is Timekettle’s most capable AI interpreter earbuds yet",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-08-31T12:00:08Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/08/Gizmodo_IFA2026_FeaturedImage_Live-1200x675.jpg",
-      "excerpt": "Gizmodo's live blog tracks consumer electronics announcements from IFA 2026 in Berlin, where AI is embedded across robots, cameras and home tech."
+      "published_iso": "2026-09-05T14:21:33+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Timekettle-W4-plus-featured.jpg",
+      "excerpt": "Timekettle's W4 Plus earbuds add real-time two-way AI interpretation, positioning live translation as a core hardware feature rather than a phone-app add-on."
     },
     {
-      "url": "https://www.xda-developers.com/xda-best-in-show-ifa-2026/",
-      "source": "XDA Developers",
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/i-just-went-hands-on-with-the-odyss-n1-a-sleek-ai-necklace-that-automatically-logs-everything-you-eat",
+      "title": "I just went hands-on with the Odyss N1 — a sleek AI necklace that automatically tracks everything you eat",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-09-05T13:00:17Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/featured-2.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "XDA's top picks from IFA 2026 highlight colorful AI-ready laptops, fanless cooling systems, and other standout tech from the Berlin show."
+      "published_iso": "2026-09-05T16:07:23Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/MkDAozpLwhETPYrqvqRseZ-2560-80.jpg",
+      "excerpt": "Hands-on with the Odyss N1, an AI necklace whose on-body sensing automatically logs every meal you eat — a passive-capture wearable aimed at replacing manual food tracking."
     },
     {
-      "url": "https://www.cnet.com/tech/computing/nvidia-rtx-spark-systems-approach-the-starting-line/",
+      "url": "https://www.tomsguide.com/computing/laptops/violoop-hands-on-ifa-2026",
+      "title": "This tiny AI box could save me from upgrading my perfectly good laptop",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-09-05T14:18:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/B6hUjNrNcpYQiezaSjWsUi-2560-80.jpg",
+      "excerpt": "At IFA 2026, Tom's Guide tried Violoop, a small external AI box that brings capable local AI agents to an older laptop instead of forcing a new machine purchase."
+    },
+    {
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/i-think-i-might-have-new-favorite-xr-glasses-as-the-rayneo-gt-max-boast-the-best-xreal-one-pro-tech-at-almost-a-third-off-the-price",
+      "title": "I test smart glasses for a living, and the RayNeo GT Max could be the best I’ve seen in 2026 so far for one important reason",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-09-04T15:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/J7XynJMyFc9r4n3pRSuLMk-2560-80.jpg",
+      "excerpt": "TechRadar says RayNeo's GT Max delivers Xreal One Pro-class display tech at roughly a third of the price, a sign that AI-era display glasses are entering mainstream pricing."
+    },
+    {
+      "url": "https://www.techradar.com/home/robot-vacuums/djis-second-gen-romo-robot-vacuum-looks-like-the-lovechild-of-an-hr-giger-drawing-and-an-imac-g3-and-boasts-some-robust-new-privacy-measures-following-the-first-gen-models-hacking-embarrassment",
+      "title": "DJI's second-gen Romo robot vacuum looks like the lovechild of an HR Giger drawing and an iMac G3",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-09-04T11:52:31Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NXFMAKwRdHMVhX2YbcEHrC-1920-80.jpg",
+      "excerpt": "DJI's second-gen Romo robot vacuum borrows drone navigation know-how for precise mapping, and adds hardware privacy measures after the first generation's hacking embarrassment."
+    },
+    {
+      "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+      "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-09-05T20:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/q6ApnVZSuDZF6VBuTFdrNE-2560-80.jpg",
+      "excerpt": "The Anthbot R7 robot mower uses infrared sensing to spot hedgehogs at night and an extending trimmer arm to cut edges — perception hardware repurposed for garden safety."
+    },
+    {
+      "url": "https://www.cnet.com/home/kitchen-and-household/watched-a-stain-removing-robot-completely-miss-target-ifa/",
+      "title": "I Watched a Stain-Removing Robot Completley Miss Its Target at IFA",
       "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-09-03T16:00:48Z",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/lenovo-yoga-pro-9n.jpg",
-      "excerpt": "Nvidia's RTX Spark on-device AI PC platform is nearing launch, with Lenovo detailing its Yoga lineup and Acer building a desktop version at IFA 2026."
+      "published_iso": "2026-09-05T14:24:31-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/26684.jpeg",
+      "excerpt": "CNET watched Ecovacs' new stain-removing home robot miss its target at IFA 2026 — a candid look at the gap between AI home-robot demos and real reliability."
     },
     {
-      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
+      "url": "https://www.cnet.com/home/kitchen-and-household/i-watched-a-floor-washing-robot-mothership-deploy-a-roomba-using-a-mechnical-arm/",
+      "title": "I Watched a Floor Washing Robot Mothership Deploy a Roomba Using a Mechnical Arm",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-09-05T01:58:32-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/DSC0737.jpg",
+      "excerpt": "CNET saw a floor-washing 'mothership' robot deploy a Roomba-style unit with a mechanical arm at IFA 2026, one of the show's boldest multi-robot home concepts."
+    },
+    {
+      "url": "https://www.cnet.com/health/medical/withings-thermometer-of-the-future-getting-ai-analysis-upgrade/",
+      "title": "Withings' 'Thermometer of the Future' Is Getting an AI Analysis Upgrade",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-09-04T16:38:40-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/beamo-stetho-sense.jpg",
+      "excerpt": "Withings' BeamO multi-scope device gains an AI analysis layer that interprets its own heart and lung recordings, pushing consumer health hardware toward on-device interpretation."
+    },
+    {
+      "url": "https://www.notebookcheck.net/GMKtec-unveils-EVO-X5-Pro-at-IFA-2026-A-compact-powerhouse-with-192-GB-RAM-built-for-local-AI.1390527.0.html",
+      "title": "GMKtec unveils EVO-X5 Pro at IFA 2026: A compact powerhouse with 192 GB RAM built for local AI",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-09-06T10:53:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GMKtecIFA1826.jpg",
+      "excerpt": "GMKtec's EVO-X5 Pro mini PC pairs AMD's Ryzen AI Max+ Pro 495 with 192GB of memory, built specifically to run large AI models locally on a desk-sized box."
+    },
+    {
+      "url": "https://www.notebookcheck.net/Acemate-unveils-S10-Pro-tennis-robot-with-upgraded-AI-and-Ace-Shot-ball-handling.1389266.0.html",
+      "title": "Acemate unveils S10 Pro tennis robot with upgraded AI and Ace+ Shot ball handling",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-09-05T07:11:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acemate-unveils-S10-Pro-tennis-robot-with-upgraded-AI-and-Ace-Shot-ball-handling.JPG",
+      "excerpt": "Acemate's S10 Pro tennis robot upgrades its AI ball handling and shot placement, tracking and challenging players across clay, grass and hard courts."
+    },
+    {
+      "url": "https://www.notebookcheck.net/Acer-C350e-Full-HD-projector-debuts-with-cute-design-AI-Badge-remote-control-and-Google-Gemini.1385679.0.html",
+      "title": "Acer C350e Full HD projector debuts with cute design, AI Badge remote control, and Google Gemini",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-09-02T11:30:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-C350e-Full-HD-projector-debuts-with-cute-design-AI-Badge-remote-control-and-Google-Gemini.jpg",
+      "excerpt": "Acer's C350e portable projector arrives in duckling-yellow with a rotating stand and a Google Gemini 'AI Badge' remote, putting an assistant button on a projector."
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027/",
+      "title": "Apple Planning AI Home Security Camera and Service for 2027",
       "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-09-04T15:25:23Z",
-      "og_image": "https://images.macrumors.com/t/t6jJN3ydbuPh9w847p_UiDAlqGY=/2500x/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
-      "excerpt": "Apple is reportedly testing a new full-sized HomePod with Siri AI support, though Bloomberg's Mark Gurman says the AI speaker isn't imminent."
+      "published_iso": "2026-09-04T14:05:37-07:00",
+      "og_image": "https://images.macrumors.com/t/WbClhigH_etb1FnsUGGXMv_DDZc=/2500x/article-new/2024/11/homekit-showdown-redux.jpg",
+      "excerpt": "Bloomberg reports Apple is building a privacy-forward home security camera and service for 2027 that uses AI to interpret the surrounding environment rather than streaming raw video."
     },
     {
-      "url": "https://9to5google.com/2026/09/03/ugreen-announces-homeagent-smart-home-hub/",
-      "source": "9to5Google",
+      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
+      "title": "Anthropic's Claude Comes to CarPlay",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-09-03T22:00:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Ugreen-HomeAgent-1.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Ugreen announced HomeAgent, a local AI smart home ecosystem paired with a new line of cameras, pushing the accessory maker deeper into AI hardware."
+      "published_iso": "2026-09-04T13:43:31-07:00",
+      "og_image": "https://images.macrumors.com/t/sdomlpqyD0M4oSLlCjmWGvdxjrw=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+      "excerpt": "Anthropic added CarPlay support to the Claude iOS app, so drivers can talk to Claude through in-car infotainment now that iOS 26.4 opens CarPlay to third-party chatbots."
     },
     {
-      "url": "https://9to5google.com/2026/09/03/lenovos-first-rtx-spark-laptops-can-have-up-to-128gb-of-ram/",
-      "source": "9to5Google",
+      "url": "https://www.tomshardware.com/laptops/lenovo-thinkcentre-x-ultra-packs-gorgon-halo-amd-ryzen-ai-max-pro-495-shows-up-in-mini-workstation",
+      "title": "Lenovo ThinkCentre X Ultra packs Gorgon Halo — AMD Ryzen AI Max+ Pro 495 shows up in mini workstation",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-09-03T16:01:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/lenovo-yoga-pro-9n-1-copy.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Lenovo debuted its first Nvidia RTX Spark on-device AI laptops at IFA 2026's Innovation World event, with configurations up to 128GB of RAM."
+      "published_iso": "2026-09-03T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/a6CZy6pnatTYhPmL2ToANn-2560-80.jpg",
+      "excerpt": "Lenovo's ThinkCentre X Ultra packs AMD's Gorgon Halo Ryzen AI Max+ Pro 495 with up to 128GB of unified memory, a mini workstation aimed at running big models on-desk."
+    },
+    {
+      "url": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
+      "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-09-05T17:18:57Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg",
+      "excerpt": "Microsoft's stripped-down Windows 11 'Project Zenith' for AI developers demands 64GB of RAM and 250 GB/s of bandwidth, debuting on AMD's Ryzen AI Halo platform."
+    },
+    {
+      "url": "https://gizmodo.com/us-robot-ban-is-screwing-us-out-of-the-good-robomowers-2000807817",
+      "title": "The US Robot Ban Is Screwing Us Out of the Good Robomowers",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-09-05T15:55:07+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/Eufy-Lawn-Mower-S2-Max-behind-1200x675.jpg",
+      "excerpt": "US import rules are keeping the newest robot mowers — including models with dedicated edge-trimming arms — out of American yards, Gizmodo reports."
+    },
+    {
+      "url": "https://www.androidcentral.com/phones/xiaomi/xiaomi-ifa-2026-debut-teases-foldable",
+      "title": "Xiaomi just showed off its Galaxy Z Fold 8 competitor at IFA 2026",
+      "source": "Android Central",
+      "category": "gadgets",
+      "published_iso": "2026-09-03T08:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Ke2kJ2vmRL4eALvnMNcdwf-2048-80.jpg",
+      "excerpt": "Xiaomi used IFA 2026 to tease its wide foldable and to press its case for AI as the connective layer across its whole device ecosystem."
+    },
+    {
+      "url": "https://www.sammobile.com/news/galaxy-watch-9-ultra-2-offline-gemini/",
+      "title": "Galaxy Watch 9 and Watch Ultra 2 could get offline Gemini",
+      "source": "SamMobile",
+      "category": "gadgets",
+      "published_iso": "2026-09-04T07:45:57+00:00",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Watch-Ultra-2-review-9.jpg",
+      "excerpt": "Wear OS 7's offline Gemini is expected to reach the Galaxy Watch 9 and Watch Ultra 2, bringing an assistant that answers without a phone or network connection."
+    },
+    {
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "title": "My Brief Summer Fling With Siri AI",
+      "source": "WIRED",
+      "category": "gadgets",
+      "published_iso": "2026-09-06T10:30:00.000Z",
+      "og_image": "https://media.wired.com/photos/6a9957d8075950c219e951f8/191:100/w_1280,c_limit/GettyImages-2255802594.jpg",
+      "excerpt": "WIRED's writer fell for the Siri AI beta and then forgot it existed — a candid account of how Apple's revamped assistant fades out of daily phone use."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/03/we-need-to-talk-about-siri-ai-for-apple-watch/",
+      "title": "We need to talk about Siri AI for Apple Watch",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-09-03T14:07:07+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?resize=1200,628",
+      "excerpt": "9to5Mac argues Siri AI on Apple Watch, arriving two cycles late in the watchOS 27 beta, still misses what makes a wrist assistant worth using."
     }
-  ]
+  ],
+  "notes": "Feed-first collection (outlet RSS + Google News RSS) to conserve WebSearch quota; 4 WebSearch calls used for gap topics (humanoid robot, AI TV, Alexa+, AI toy) — those gaps had no fresh on-list coverage (results were 2025-era or off-list outlets), so they are unfilled. Every published time verified from the article page (og article:published_time / JSON-LD datePublished) and gated with freshness.py at 336h. Dropped as already-published or recently covered: Ugreen HomeAgent hub/NAS/speaker, Gemini for Home, Govee AI lighting, HomePod+Siri, HTC Vive Eagle, Minisforum local-AI boxes, Pixel Watch 5 offline Gemini, Qualcomm Adreno Neural Fusion, Acer Aspire G 3D 16, iKairos pendant, Plaud One earbuds, Caira camera, Stryker Vision Pro. Dropped as AI-business noise: Nvidia/Hugging Face acquisition, Nscale financing, Oura IPO and Ultrahuman round (smart-ring gap left unfilled rather than padded with funding news). Segway Navimow (Gizmodo) skipped as a duplicate of the TechRadar Anthbot/robot-mower coverage. Outlet spread: 12 outlets, max 3 per outlet (TechRadar, CNET, Notebookcheck at 3)."
 }

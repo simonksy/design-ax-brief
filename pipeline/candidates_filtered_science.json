@@ -1,67 +1,175 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "science",
-  "now_iso": "2026-09-05T22:00:50Z",
+  "now_iso": "2026-09-06T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-09-ai-driven-polymer-discovery-years.html",
+      "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
+      "url": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
       "source": "Phys.org",
-      "category": "science",
-      "headline": "AI-driven polymer discovery could replace years of trial and error with closed-loop testing",
-      "published_iso": "2026-09-04T13:40:03Z",
-      "excerpt": "Researchers propose a closed-loop polymer-discovery ecosystem that links databases, predictive models, AI agents, simulations and automated labs to compress years of trial-and-error materials work into much faster cycles.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/empowering-polymeric-m.jpg"
+      "published_iso": "2026-09-05T17:00:05-04:00",
+      "excerpt": "Researchers at Japan's Institute for Molecular Science built AF3-ReD, which adds a repulsive force between predicted structures so AlphaFold3 stops collapsing to one conformation. It recovered open, closed and intermediate states of ATP synthase that standard AlphaFold3 misses.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha.jpg",
+      "category": "science"
     },
     {
-      "url": "https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html",
+      "title": "Six unusual structures identified at Earth's core-mantle boundary with the help of deep learning",
+      "url": "https://phys.org/news/2026-09-unusual-earth-core-mantle-boundary.html",
       "source": "Phys.org",
-      "category": "science",
-      "headline": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
-      "published_iso": "2026-09-01T21:00:07Z",
-      "excerpt": "Scientists from St. Jude, the University of Pavia, Dana-Farber and Harvard unveiled AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules at roughly 1,000-fold lower computational cost than existing ultra-large screening methods.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-informed-adaptivefl-1.jpg"
+      "published_iso": "2026-09-06T13:00:01-04:00",
+      "excerpt": "A neural network sifted more than 2 million seismic recordings from 1990-2024 and flagged about 174,929 PKP precursor signals, roughly ten times all previous global datasets combined. The haul revealed six continuous belts of deep-mantle irregularities that earlier work saw only as scattered points.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/six-unusual-structures.jpg",
+      "category": "science"
     },
     {
+      "title": "Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data",
       "url": "https://phys.org/news/2026-09-hot-subdwarfs-focus-ai-scans.html",
       "source": "Phys.org",
-      "category": "science",
-      "headline": "Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data",
-      "published_iso": "2026-09-03T20:40:05Z",
-      "excerpt": "A new project that began this September uses AI to scan thousands of stars in Gaia's catalogue to identify rare hot subdwarf stars, with the effort set to expand sharply once Gaia DR4 is released in December.",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/the-165-m-telescope-at.jpg"
+      "published_iso": "2026-09-03T16:40:05-04:00",
+      "excerpt": "Vilnius University trained a convolutional network on 2,500 classified stars; it learned the diagnostic spectral patterns without being given any physical equations. The model then sorted 17,500 unknown hot subdwarf candidates from Gaia in seconds.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-165-m-telescope-at.jpg",
+      "category": "science"
     },
     {
-      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
-      "source": "Quanta Magazine",
-      "category": "science",
-      "headline": "Live from ICM 2026: What Is Math For in the Age of AI?",
-      "published_iso": "2026-09-03T13:41:48Z",
-      "excerpt": "A live recording from the International Congress of Mathematicians examines what mathematicians value about doing math as AI systems increasingly generate proofs and tackle open problems.",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg"
+      "title": "Explainable AI could help turn hidden data patterns into testable scientific hypotheses",
+      "url": "https://techxplore.com/news/2026-09-ai-hidden-patterns-testable-scientific.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-02T12:40:01-04:00",
+      "excerpt": "NUS researchers argue explainable-AI output should be treated as a hypothesis generator, not an answer: the patterns a model surfaces are leads that still need experimental validation. They propose a workflow for separating genuine physical mechanisms from training-data artifacts.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/explainable-ai-could-h.jpg",
+      "category": "science"
     },
     {
-      "url": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
-      "source": "Quanta Magazine",
-      "category": "science",
-      "headline": "In an Age of AI, a Physicist Seeks What Endures",
-      "published_iso": "2026-09-03T13:35:59Z",
-      "excerpt": "Yale physicist Sarah Demers, who is drafting an American Physical Society policy statement on AI, weighs the technology's risks against emerging benefits, including an AI system that helps control the Mu2e experiment's search for a rare muon-to-electron transformation.",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Social.jpg"
+      "title": "Brain activity patterns could help sharpen LLM deductive reasoning",
+      "url": "https://techxplore.com/news/2026-09-brain-patterns-sharpen-llm-deductive.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-03T07:20:09-04:00",
+      "excerpt": "Peking and Tsinghua University teams found LLM internal activity during reasoning partly aligns with human brain regions used for logical problem solving. Their brain-guided training framework used imaging data to push deductive reasoning past what text-only training achieved.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/could-human-brain-acti.jpg",
+      "category": "science"
     },
     {
-      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202608/brain-computer-interface-aligns-better-with-humans-via-ai",
-      "source": "Psychology Today",
-      "category": "science",
-      "headline": "Brain-Computer Interface Aligns Better with Humans via AI",
-      "published_iso": "2026-08-31T21:47:56Z",
-      "excerpt": "New research shows that combining human motor learning with AI improves brain-computer interface calibration and performance, offering hope for people who have lost the ability to move or speak.",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-08/pic15u15.jpg?itok=8GIcLtKn"
+      "title": "Why organic chemistry may help build AI that can explain its answers",
+      "url": "https://techxplore.com/news/2026-09-chemistry-ai.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-03T16:00:05-04:00",
+      "excerpt": "Notre Dame researchers flip the usual framing: organic chemistry's 3D structures, many variables and scarce data are forcing AI builders toward interpretable, principle-aware models. The constraint, they argue, is producing systems that must show their reasoning rather than just scale.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chemistry-is-changing.jpg",
+      "category": "science"
+    },
+    {
+      "title": "AI dominates the 4th International Congress of Basic Science in Beijing",
+      "url": "https://physicsworld.com/a/ai-dominates-the-4th-international-congress-of-basic-science-in-beijing/",
+      "source": "Physics World",
+      "published_iso": "2026-09-02T11:00:45+00:00",
+      "excerpt": "Physicist Subir Sarkar reports from Beijing, where AI was the dominant theme among more than 800 delegates across mathematics, physics and information science. The congress showed how quickly machine learning has moved into the center of basic-science agendas.",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/ICBS-posters-lo-res.jpg",
+      "category": "science"
+    },
+    {
+      "title": "These smart bricks know what object they make up",
+      "url": "https://www.scientificamerican.com/article/these-smart-bricks-know-what-object-they-make-up/",
+      "source": "Scientific American",
+      "published_iso": "2026-09-06T07:00:00-04:00",
+      "excerpt": "Researchers built modular bricks that collectively infer the shape they have been assembled into — boat, chair or guitar — by sharing local sensor signals. The work pushes machine learning out of the server and into the material itself.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/018be4c3-54e0-4fbd-9ca5-e00fcd0e0c7a/saw1026Adva05.jpg",
+      "category": "science"
+    },
+    {
+      "title": "OpenEvidence launches new family of AI models",
+      "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/",
+      "source": "STAT",
+      "published_iso": "2026-09-03T13:18:32+00:00",
+      "excerpt": "OpenEvidence released a new family of clinician-facing AI models, alongside FDA's TEMPO pilot that would let generative-AI medical devices reach patients before full authorization. Together they mark a shift in how medical AI gets built and cleared.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/01/AdobeStock_1768731628_Editorial_Use_Only-1024x576.jpeg",
+      "category": "science"
+    },
+    {
+      "title": "Accelerating Scientific Research with Gemini in the Real-World",
+      "url": "https://arxiv.org/abs/2608.26701",
+      "source": "arXiv",
+      "published_iso": "2026-08-27T00:00:00Z",
+      "excerpt": "Google reports a real-world validation of Co-Scientist, a Gemini-based multi-agent system that runs hypothesis generation, experiment design and manuscript writing end to end. The paper moves the AI co-scientist claim from in-silico demos to laboratory outcomes.",
+      "og_image": "",
+      "category": "science"
+    },
+    {
+      "title": "A computable representation of the physical laboratory enables verifiable workflows",
+      "url": "https://arxiv.org/abs/2609.03621",
+      "source": "arXiv",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "excerpt": "The authors formalize the physical lab itself — instruments, capabilities, samples — as typed research objects so that automated experiments become machine-checkable. It is a foundation layer for self-driving labs where results carry provenance by construction.",
+      "og_image": "",
+      "category": "science"
+    },
+    {
+      "title": "Can LLMs Discover Scientific Laws in Real and Parallel Worlds?",
+      "url": "https://arxiv.org/abs/2609.01552",
+      "source": "arXiv",
+      "published_iso": "2026-09-01T00:00:00Z",
+      "excerpt": "A new benchmark tests whether LLMs can recover scientific equations through iterative hypothesis-observation-refinement, including in 'parallel worlds' with altered physics to rule out memorization. It probes how much of AI-for-science law discovery is genuine inference.",
+      "og_image": "",
+      "category": "science"
+    },
+    {
+      "title": "Thermal conductivity predictions with foundation atomistic models",
+      "url": "https://www.nature.com/articles/s41467-026-76391-w",
+      "source": "Nature Communications",
+      "published_iso": "2026-09-05T00:00:00Z",
+      "excerpt": "Researchers show foundation atomistic models can predict heat transport and thermal expansion across materials, using physics-based benchmarks and light fine-tuning to approach first-principles accuracy. It is a concrete test of whether general-purpose materials models can replace bespoke simulations.",
+      "og_image": "",
+      "category": "science"
+    },
+    {
+      "title": "Controllable molecular generation with fine-tuned flow-matching model",
+      "url": "https://www.nature.com/articles/s42004-026-02188-z",
+      "source": "Communications Chemistry",
+      "published_iso": "2026-09-05T00:00:00Z",
+      "excerpt": "The authors add a reinforcement-learning layer to 3D flow-matching generative models so chemists can steer molecule generation toward specific property targets. It addresses the standing gap between generating novel molecules and generating useful ones.",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42004-026-02188-z/MediaObjects/42004_2026_2188_Fig1_HTML.png",
+      "category": "science"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://allenai.org/blog/benchmirt",
+      "source": "Allen Institute for AI",
+      "published_iso": "2026-09-01T00:00:00Z",
+      "excerpt": "Ai2's BenchMIRT audits LLM benchmarks question by question to reveal which capabilities each item actually measures. The method lets researchers build smaller, sharper and more interpretable evaluations instead of trusting headline scores.",
+      "og_image": "https://www.datocms-assets.com/64837/1787859394-benchmirt-blog-draft-latest-google-docs-image-1-1.png",
+      "category": "science"
+    },
+    {
+      "title": "CryoFlex characterizes structural motion between conformations directly from cryo-EM density maps",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.01.748519v1",
+      "source": "bioRxiv",
+      "published_iso": "2026-09-04T00:00:00Z",
+      "excerpt": "CryoFlex quantifies which protein regions move between conformational states straight from cryo-EM density maps, skipping the brittle step of comparing fitted atomic models. It gives structural biologists a machine-learning readout of motion, not just static shape.",
+      "og_image": "",
+      "category": "science"
+    },
+    {
+      "title": "BAGEL-CAR: Reflections on the Bits to Binders Competition",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748856v1",
+      "source": "bioRxiv",
+      "published_iso": "2026-09-04T00:00:00Z",
+      "excerpt": "In the Bits to Binders competition the team submitted 414 de novo AI-designed CAR binding segments targeting CD20, and 38.4% were statistically successful. The write-up is a rare public accounting of hit rates for generative protein design in a therapeutic setting.",
+      "og_image": "",
+      "category": "science"
+    },
+    {
+      "title": "Ensemble tests mask missing dynamics in protein conformational generators",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748111v1",
+      "source": "bioRxiv",
+      "published_iso": "2026-09-04T00:00:00Z",
+      "excerpt": "Protein generators are being sold as fast substitutes for molecular dynamics, but this study shows matching an equilibrium ensemble does not prove a model learned dynamics. It is a warning about the evaluation practice behind a fast-growing AI-for-biology tool class.",
+      "og_image": "",
+      "category": "science"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 6,
+    "dropped": 0,
+    "kept": 18,
     "against_days": 5
   }
 }
